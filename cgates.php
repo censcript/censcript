@@ -142,9 +142,6 @@
 <programme start="20251023201000 +0000" stop="20251023223500 +0000" channel="BTV.cgates">
     <title>Šeštoji diena</title>
 </programme>
-<programme start="20251022200000 +0000" stop="20251022210000 +0000" channel="Lietuvos ryto TV.cgates">
-    <title>Lietuva tiesiogiai</title>
-</programme>
 <programme start="20251022210000 +0000" stop="20251022220000 +0000" channel="Lietuvos ryto TV.cgates">
     <title>Provincijos detektyvas</title>
 </programme>
@@ -229,8 +226,8 @@
 <programme start="20251023200000 +0000" stop="20251023210000 +0000" channel="Lietuvos ryto TV.cgates">
     <title>Lietuva tiesiogiai</title>
 </programme>
-<programme start="20251022195500 +0000" stop="20251022205500 +0000" channel="TV8.cgates">
-    <title>Motinos širdis</title>
+<programme start="20251023210000 +0000" stop="20251023220000 +0000" channel="Lietuvos ryto TV.cgates">
+    <title>Provincijos detektyvas</title>
 </programme>
 <programme start="20251022205500 +0000" stop="20251022214500 +0000" channel="TV8.cgates">
     <title>Motinos širdis</title>
@@ -319,6 +316,9 @@
 <programme start="20251023195000 +0000" stop="20251023205000 +0000" channel="TV8.cgates">
     <title>Motinos širdis</title>
 </programme>
+<programme start="20251023205000 +0000" stop="20251023214000 +0000" channel="TV8.cgates">
+    <title>Motinos širdis</title>
+</programme>
 <programme start="20251022203000 +0000" stop="20251022214000 +0000" channel="TV6.cgates">
     <title>Dronas</title>
 </programme>
@@ -394,8 +394,8 @@
 <programme start="20251023200000 +0000" stop="20251023205000 +0000" channel="TV6.cgates">
     <title>Jeloustounas</title>
 </programme>
-<programme start="20251022195000 +0000" stop="20251022204500 +0000" channel="TV1.cgates">
-    <title>Čikagos ugniagesiai</title>
+<programme start="20251023205000 +0000" stop="20251023215000 +0000" channel="TV6.cgates">
+    <title>Dronas</title>
 </programme>
 <programme start="20251022204500 +0000" stop="20251022224000 +0000" channel="TV1.cgates">
     <title>Midsomerio žmogžudystės</title>
@@ -472,11 +472,8 @@
 <programme start="20251023195500 +0000" stop="20251023205000 +0000" channel="TV1.cgates">
     <title>Čikagos ugniagesiai</title>
 </programme>
-<programme start="20251022202500 +0000" stop="20251022205000 +0000" channel="Kanal 7.cgates">
-    <title>Детство Шелдона</title>
-</programme>
-<programme start="20251022205000 +0000" stop="20251022211500 +0000" channel="Kanal 7.cgates">
-    <title>Детали</title>
+<programme start="20251023205000 +0000" stop="20251023224500 +0000" channel="TV1.cgates">
+    <title>Midsomerio žmogžudystės</title>
 </programme>
 <programme start="20251022211500 +0000" stop="20251022221500 +0000" channel="Kanal 7.cgates">
     <title>13 клиническая</title>
@@ -550,14 +547,11 @@
 <programme start="20251023202500 +0000" stop="20251023205000 +0000" channel="Kanal 7.cgates">
     <title>Детство Шелдона</title>
 </programme>
-<programme start="20251022202900 +0000" stop="20251022204900 +0000" channel="Euronews HD.cgates">
-    <title>The European Debrief</title>
+<programme start="20251023205000 +0000" stop="20251023211500 +0000" channel="Kanal 7.cgates">
+    <title>Детали</title>
 </programme>
-<programme start="20251022204900 +0000" stop="20251022210000 +0000" channel="Euronews HD.cgates">
-    <title>News</title>
-</programme>
-<programme start="20251022210000 +0000" stop="20251022211400 +0000" channel="Euronews HD.cgates">
-    <title>The European Debrief</title>
+<programme start="20251023211500 +0000" stop="20251023222000 +0000" channel="Kanal 7.cgates">
+    <title>13 клиническая</title>
 </programme>
 <programme start="20251022211400 +0000" stop="20251022213000 +0000" channel="Euronews HD.cgates">
     <title>The European Debrief</title>
@@ -844,8 +838,11 @@
 <programme start="20251023203000 +0000" stop="20251023210000 +0000" channel="Euronews HD.cgates">
     <title>The European Debrief</title>
 </programme>
-<programme start="20251022202000 +0000" stop="20251022211500 +0000" channel="LRT HD.cgates">
-    <title>Didmiesčio nuovada</title>
+<programme start="20251023210000 +0000" stop="20251023211600 +0000" channel="Euronews HD.cgates">
+    <title>The European Debrief</title>
+</programme>
+<programme start="20251023211600 +0000" stop="20251023213000 +0000" channel="Euronews HD.cgates">
+    <title>The European Debrief</title>
 </programme>
 <programme start="20251022211500 +0000" stop="20251022213000 +0000" channel="LRT HD.cgates">
     <title>Euromaxx</title>
@@ -949,11 +946,8 @@
 <programme start="20251023202000 +0000" stop="20251023211500 +0000" channel="LRT HD.cgates">
     <title>Didmiesčio nuovada</title>
 </programme>
-<programme start="20251022200500 +0000" stop="20251022203500 +0000" channel="Delfi TV.cgates">
-    <title>Orijaus kelionių archyvai</title>
-</programme>
-<programme start="20251022203500 +0000" stop="20251022210000 +0000" channel="Delfi TV.cgates">
-    <title>Orijaus kelionių archyvai</title>
+<programme start="20251023211500 +0000" stop="20251023213000 +0000" channel="LRT HD.cgates">
+    <title>Euromaxx</title>
 </programme>
 <programme start="20251022210000 +0000" stop="20251022213000 +0000" channel="Delfi TV.cgates">
     <title>Delfi.ru naujienos rusų kalba</title>
@@ -1066,8 +1060,11 @@
 <programme start="20251023200500 +0000" stop="20251023203500 +0000" channel="Delfi TV.cgates">
     <title>Orijaus kelionių archyvai</title>
 </programme>
-<programme start="20251022201500 +0000" stop="20251022211500 +0000" channel="Balticum TV.cgates">
-    <title>Moterų daktaras. Naujas gyvenimas</title>
+<programme start="20251023203500 +0000" stop="20251023210000 +0000" channel="Delfi TV.cgates">
+    <title>Orijaus kelionių archyvai</title>
+</programme>
+<programme start="20251023210000 +0000" stop="20251023213000 +0000" channel="Delfi TV.cgates">
+    <title>Delfi.ru naujienos rusų kalba</title>
 </programme>
 <programme start="20251022211500 +0000" stop="20251022221500 +0000" channel="Balticum TV.cgates">
     <title>Maištingoji princesė</title>
@@ -1141,6 +1138,9 @@
 <programme start="20251023201500 +0000" stop="20251023211500 +0000" channel="Balticum TV.cgates">
     <title>Moterų daktaras. Naujas gyvenimas</title>
 </programme>
+<programme start="20251023211500 +0000" stop="20251023221500 +0000" channel="Balticum TV.cgates">
+    <title>Maištingoji princesė</title>
+</programme>
 <programme start="20251022200000 +0000" stop="20251023010000 +0000" channel="2TV.cgates">
     <title>2zgės</title>
 </programme>
@@ -1164,9 +1164,6 @@
 </programme>
 <programme start="20251023200000 +0000" stop="20251024010000 +0000" channel="2TV.cgates">
     <title>2zgės</title>
-</programme>
-<programme start="20251022203000 +0000" stop="20251022210000 +0000" channel="LRT Plius.cgates">
-    <title>Čia kinas</title>
 </programme>
 <programme start="20251022210000 +0000" stop="20251022220000 +0000" channel="LRT Plius.cgates">
     <title>Pažadas</title>
@@ -1270,8 +1267,8 @@
 <programme start="20251023203000 +0000" stop="20251023210000 +0000" channel="LRT Plius.cgates">
     <title>Atgyjančios sodybos</title>
 </programme>
-<programme start="20251022190000 +0000" stop="20251022205000 +0000" channel="Info TV HD.cgates">
-    <title>Labas vakaras, Lietuva</title>
+<programme start="20251023210000 +0000" stop="20251023220000 +0000" channel="LRT Plius.cgates">
+    <title>Pažadas</title>
 </programme>
 <programme start="20251022205000 +0000" stop="20251022213000 +0000" channel="Info TV HD.cgates">
     <title>Dabar pasaulyje</title>
@@ -1341,6 +1338,9 @@
 </programme>
 <programme start="20251023190000 +0000" stop="20251023205000 +0000" channel="Info TV HD.cgates">
     <title>Labas vakaras, Lietuva</title>
+</programme>
+<programme start="20251023205000 +0000" stop="20251023213000 +0000" channel="Info TV HD.cgates">
+    <title>Dabar pasaulyje</title>
 </programme>
 <programme start="20251022192000 +0000" stop="20251023040000 +0000" channel="Pūkas TV.cgates">
     <title>Muzika</title>
@@ -1413,15 +1413,6 @@
 </programme>
 <programme start="20251023202000 +0000" stop="20251023222000 +0000" channel="Sport 1 HD.cgates">
     <title>ONE Championship. One Friday Fights 58</title>
-</programme>
-<programme start="20251022203000 +0000" stop="20251022210000 +0000" channel="Deutsche Welle.cgates">
-    <title>The Day</title>
-</programme>
-<programme start="20251022210000 +0000" stop="20251022210200 +0000" channel="Deutsche Welle.cgates">
-    <title>DW News</title>
-</programme>
-<programme start="20251022210200 +0000" stop="20251022211500 +0000" channel="Deutsche Welle.cgates">
-    <title>REV</title>
 </programme>
 <programme start="20251022211500 +0000" stop="20251022220000 +0000" channel="Deutsche Welle.cgates">
     <title>Plastic Fantastic, Part 1</title>
@@ -1594,6 +1585,15 @@
 <programme start="20251023203000 +0000" stop="20251023210000 +0000" channel="Deutsche Welle.cgates">
     <title>The Day</title>
 </programme>
+<programme start="20251023210000 +0000" stop="20251023210200 +0000" channel="Deutsche Welle.cgates">
+    <title>DW News</title>
+</programme>
+<programme start="20251023210200 +0000" stop="20251023211500 +0000" channel="Deutsche Welle.cgates">
+    <title>ENTR</title>
+</programme>
+<programme start="20251023211500 +0000" stop="20251023220000 +0000" channel="Deutsche Welle.cgates">
+    <title>Red Shadow over the White House</title>
+</programme>
 <programme start="20251022201000 +0000" stop="20251022223000 +0000" channel="FREEDOM TV.cgates">
     <title>News reports</title>
 </programme>
@@ -1684,9 +1684,6 @@
 <programme start="20251023201000 +0000" stop="20251023223000 +0000" channel="FREEDOM TV.cgates">
     <title>News reports</title>
 </programme>
-<programme start="20251022201500 +0000" stop="20251022210000 +0000" channel="PV+.cgates">
-    <title>Что? Где? Когда? Октябрьская серия</title>
-</programme>
 <programme start="20251022210000 +0000" stop="20251022214500 +0000" channel="PV+.cgates">
     <title>Что? Где? Когда? Ноябрьская серия</title>
 </programme>
@@ -1762,8 +1759,8 @@
 <programme start="20251023201500 +0000" stop="20251023205500 +0000" channel="PV+.cgates">
     <title>Любовь и ненависть</title>
 </programme>
-<programme start="20251022201500 +0000" stop="20251022211000 +0000" channel="TVP Polonia.cgates">
-    <title>Studio w kontakcie</title>
+<programme start="20251023205500 +0000" stop="20251023215500 +0000" channel="PV+.cgates">
+    <title>Что? Где? Когда? Игры вызова</title>
 </programme>
 <programme start="20251022211000 +0000" stop="20251022213000 +0000" channel="TVP Polonia.cgates">
     <title>Panorama</title>
@@ -1894,8 +1891,11 @@
 <programme start="20251023201500 +0000" stop="20251023205000 +0000" channel="TVP Polonia.cgates">
     <title>Polonia 24. Tygodnik</title>
 </programme>
-<programme start="20251022203000 +0000" stop="20251022210000 +0000" channel="Nastojashcheje Vremya.cgates">
-    <title>Global 3000</title>
+<programme start="20251023205000 +0000" stop="20251023211000 +0000" channel="TVP Polonia.cgates">
+    <title>Tylko jeden skecz</title>
+</programme>
+<programme start="20251023211000 +0000" stop="20251023213000 +0000" channel="TVP Polonia.cgates">
+    <title>Panorama</title>
 </programme>
 <programme start="20251022210000 +0000" stop="20251022213000 +0000" channel="Nastojashcheje Vremya.cgates">
     <title>Unknown Russia</title>
@@ -1999,11 +1999,8 @@
 <programme start="20251023203000 +0000" stop="20251023210000 +0000" channel="Nastojashcheje Vremya.cgates">
     <title>Made in Germany</title>
 </programme>
-<programme start="20251022195000 +0000" stop="20251022203500 +0000" channel="Duo3 HD.cgates">
-    <title>Major Crimes</title>
-</programme>
-<programme start="20251022203500 +0000" stop="20251022211500 +0000" channel="Duo3 HD.cgates">
-    <title>Person of Interest</title>
+<programme start="20251023210000 +0000" stop="20251023213000 +0000" channel="Nastojashcheje Vremya.cgates">
+    <title>Unknown Russia</title>
 </programme>
 <programme start="20251022211500 +0000" stop="20251022220000 +0000" channel="Duo3 HD.cgates">
     <title>FBI: International</title>
@@ -2089,8 +2086,8 @@
 <programme start="20251023203000 +0000" stop="20251023211500 +0000" channel="Duo3 HD.cgates">
     <title>Person of Interest</title>
 </programme>
-<programme start="20251022200000 +0000" stop="20251022210000 +0000" channel="Animal Planet HD.cgates">
-    <title>The Vet Life</title>
+<programme start="20251023211500 +0000" stop="20251023215500 +0000" channel="Duo3 HD.cgates">
+    <title>FBI: International</title>
 </programme>
 <programme start="20251022210000 +0000" stop="20251022220000 +0000" channel="Animal Planet HD.cgates">
     <title>In Search of Monsters</title>
@@ -2173,8 +2170,8 @@
 <programme start="20251023200000 +0000" stop="20251023210000 +0000" channel="Animal Planet HD.cgates">
     <title>The Vet Life</title>
 </programme>
-<programme start="20251022201500 +0000" stop="20251022210000 +0000" channel="National Geographic HD.cgates">
-    <title>Melburno oro uosto viduje</title>
+<programme start="20251023210000 +0000" stop="20251023220000 +0000" channel="Animal Planet HD.cgates">
+    <title>In Search of Monsters</title>
 </programme>
 <programme start="20251022210000 +0000" stop="20251022214500 +0000" channel="National Geographic HD.cgates">
     <title>Lėktuvų katastrofų rekonstrukcija</title>
@@ -2275,6 +2272,9 @@
 <programme start="20251023201500 +0000" stop="20251023210000 +0000" channel="National Geographic HD.cgates">
     <title>Sugauti kontrabandininką</title>
 </programme>
+<programme start="20251023210000 +0000" stop="20251023214500 +0000" channel="National Geographic HD.cgates">
+    <title>Juodoji rinka su M. Van Zeller</title>
+</programme>
 <programme start="20251022193000 +0000" stop="20251023043000 +0000" channel="Marijampolės TV.cgates">
     <title>Pertrauka</title>
 </programme>
@@ -2355,15 +2355,6 @@
 </programme>
 <programme start="20251023193000 +0000" stop="20251024043000 +0000" channel="Marijampolės TV.cgates">
     <title>Pertrauka</title>
-</programme>
-<programme start="20251022203000 +0000" stop="20251022204500 +0000" channel="Cartoon Network.cgates">
-    <title>The Wonderfully Weird World of Gumball‌</title>
-</programme>
-<programme start="20251022204500 +0000" stop="20251022210000 +0000" channel="Cartoon Network.cgates">
-    <title>The Amazing World of Gumball</title>
-</programme>
-<programme start="20251022210000 +0000" stop="20251022211500 +0000" channel="Cartoon Network.cgates">
-    <title>The Amazing World of Gumball</title>
 </programme>
 <programme start="20251022211500 +0000" stop="20251022212500 +0000" channel="Cartoon Network.cgates">
     <title>The Amazing World of Gumball</title>
@@ -2674,6 +2665,15 @@
 <programme start="20251023203000 +0000" stop="20251023204500 +0000" channel="Cartoon Network.cgates">
     <title>The Wonderfully Weird World of Gumball‌</title>
 </programme>
+<programme start="20251023204500 +0000" stop="20251023210000 +0000" channel="Cartoon Network.cgates">
+    <title>The Amazing World of Gumball</title>
+</programme>
+<programme start="20251023210000 +0000" stop="20251023211500 +0000" channel="Cartoon Network.cgates">
+    <title>The Amazing World of Gumball</title>
+</programme>
+<programme start="20251023211500 +0000" stop="20251023212500 +0000" channel="Cartoon Network.cgates">
+    <title>The Amazing World of Gumball</title>
+</programme>
 <programme start="20251022193000 +0000" stop="20251022220000 +0000" channel="RTL.cgates">
     <title>stern TV</title>
 </programme>
@@ -2770,12 +2770,6 @@
 <programme start="20251023183000 +0000" stop="20251023220000 +0000" channel="RTL.cgates">
     <title>Fußball: Europa League. SC Freiburg - FC Utrecht</title>
 </programme>
-<programme start="20251022190000 +0000" stop="20251022204500 +0000" channel="CNN International.cgates">
-    <title>What We Know with Max Foster</title>
-</programme>
-<programme start="20251022204500 +0000" stop="20251022210000 +0000" channel="CNN International.cgates">
-    <title>CNN Marketplace Europe</title>
-</programme>
 <programme start="20251022210000 +0000" stop="20251022213000 +0000" channel="CNN International.cgates">
     <title>The Lead with Jake Tapper</title>
 </programme>
@@ -2860,11 +2854,8 @@
 <programme start="20251023200000 +0000" stop="20251023210000 +0000" channel="CNN International.cgates">
     <title>Quest Means Business</title>
 </programme>
-<programme start="20251022203000 +0000" stop="20251022205500 +0000" channel="BBC News.cgates">
-    <title>The Context USA</title>
-</programme>
-<programme start="20251022205500 +0000" stop="20251022210000 +0000" channel="BBC News.cgates">
-    <title>Tech Now</title>
+<programme start="20251023210000 +0000" stop="20251023213000 +0000" channel="CNN International.cgates">
+    <title>The Lead with Jake Tapper</title>
 </programme>
 <programme start="20251022210000 +0000" stop="20251022213000 +0000" channel="BBC News.cgates">
     <title>BBC World News America</title>
@@ -3046,17 +3037,11 @@
 <programme start="20251023203000 +0000" stop="20251023205500 +0000" channel="BBC News.cgates">
     <title>The Context USA</title>
 </programme>
-<programme start="20251022203000 +0000" stop="20251022203200 +0000" channel="France 24.cgates">
-    <title>News</title>
+<programme start="20251023205500 +0000" stop="20251023210000 +0000" channel="BBC News.cgates">
+    <title>Talking Movies</title>
 </programme>
-<programme start="20251022203200 +0000" stop="20251022204400 +0000" channel="France 24.cgates">
-    <title>A PROPOS</title>
-</programme>
-<programme start="20251022204400 +0000" stop="20251022210000 +0000" channel="France 24.cgates">
-    <title>Eye on Africa</title>
-</programme>
-<programme start="20251022210000 +0000" stop="20251022211500 +0000" channel="France 24.cgates">
-    <title>News</title>
+<programme start="20251023210000 +0000" stop="20251023213000 +0000" channel="BBC News.cgates">
+    <title>BBC World News America</title>
 </programme>
 <programme start="20251022211500 +0000" stop="20251022213000 +0000" channel="France 24.cgates">
     <title>Business + Truth or Fake</title>
@@ -3412,6 +3397,18 @@
 <programme start="20251023203000 +0000" stop="20251023203200 +0000" channel="France 24.cgates">
     <title>News</title>
 </programme>
+<programme start="20251023203200 +0000" stop="20251023204400 +0000" channel="France 24.cgates">
+    <title>A PROPOS</title>
+</programme>
+<programme start="20251023204400 +0000" stop="20251023210000 +0000" channel="France 24.cgates">
+    <title>Eye on Africa</title>
+</programme>
+<programme start="20251023210000 +0000" stop="20251023211500 +0000" channel="France 24.cgates">
+    <title>News</title>
+</programme>
+<programme start="20251023211500 +0000" stop="20251023213000 +0000" channel="France 24.cgates">
+    <title>Business + Truth or Fake</title>
+</programme>
 <programme start="20251022200000 +0000" stop="20251023070000 +0000" channel="Seimas tiesiogiai.cgates">
     <title>Pertrauka</title>
 </programme>
@@ -3429,9 +3426,6 @@
 </programme>
 <programme start="20251023201500 +0000" stop="20251024060000 +0000" channel="Seimas tiesiogiai.cgates">
     <title>Pertrauka</title>
-</programme>
-<programme start="20251022183500 +0000" stop="20251022204500 +0000" channel="Go3 Sport Open HD.cgates">
-    <title>Basketball: BCL. Joventut - Bursaspor</title>
 </programme>
 <programme start="20251022204500 +0000" stop="20251022224000 +0000" channel="Go3 Sport Open HD.cgates">
     <title>Ice Hockey: Switzerland National League. Lugano - ZSC Lions</title>
@@ -3478,11 +3472,8 @@
 <programme start="20251023184500 +0000" stop="20251023210000 +0000" channel="Go3 Sport Open HD.cgates">
     <title>Basketball: EuroLeague. Crvena Zvezda - Baskonia</title>
 </programme>
-<programme start="20251022203100 +0000" stop="20251022210100 +0000" channel="Fashion &amp; Style 4K.cgates">
-    <title>Swimwear Fashion</title>
-</programme>
-<programme start="20251022210100 +0000" stop="20251022211800 +0000" channel="Fashion &amp; Style 4K.cgates">
-    <title>Bridal Fashion</title>
+<programme start="20251023210000 +0000" stop="20251023230000 +0000" channel="Go3 Sport Open HD.cgates">
+    <title>Basketball: EuroLeague. Maccabi - Real Madrid</title>
 </programme>
 <programme start="20251022211800 +0000" stop="20251022213500 +0000" channel="Fashion &amp; Style 4K.cgates">
     <title>Fashion VIP</title>
@@ -3739,6 +3730,18 @@
 <programme start="20251023202500 +0000" stop="20251023203400 +0000" channel="Fashion &amp; Style 4K.cgates">
     <title>Kids Fashion Week</title>
 </programme>
+<programme start="20251023203400 +0000" stop="20251023204600 +0000" channel="Fashion &amp; Style 4K.cgates">
+    <title>Fashion News</title>
+</programme>
+<programme start="20251023204600 +0000" stop="20251023210100 +0000" channel="Fashion &amp; Style 4K.cgates">
+    <title>Kids Fashion Week</title>
+</programme>
+<programme start="20251023210100 +0000" stop="20251023211600 +0000" channel="Fashion &amp; Style 4K.cgates">
+    <title>Biggest Fashion Events</title>
+</programme>
+<programme start="20251023211600 +0000" stop="20251023213000 +0000" channel="Fashion &amp; Style 4K.cgates">
+    <title>Biggest Fashion Events</title>
+</programme>
 <programme start="20251022200000 +0000" stop="20251023020000 +0000" channel="MTV 00s.cgates">
     <title>Hits Dont Lie!</title>
 </programme>
@@ -3759,9 +3762,6 @@
 </programme>
 <programme start="20251023190000 +0000" stop="20251024010000 +0000" channel="MTV 00s.cgates">
     <title>Hits Dont Lie!</title>
-</programme>
-<programme start="20251022202000 +0000" stop="20251022210000 +0000" channel="TVP Info HD.cgates">
-    <title>Rozmowy nocą</title>
 </programme>
 <programme start="20251022210000 +0000" stop="20251022220000 +0000" channel="TVP Info HD.cgates">
     <title>Panorama dnia</title>
@@ -3973,6 +3973,9 @@
 <programme start="20251023202000 +0000" stop="20251023210000 +0000" channel="TVP Info HD.cgates">
     <title>Rozmowy nocą</title>
 </programme>
+<programme start="20251023210000 +0000" stop="20251023220000 +0000" channel="TVP Info HD.cgates">
+    <title>Panorama dnia</title>
+</programme>
 <programme start="20251022200500 +0000" stop="20251022220000 +0000" channel="Go3 Sport HD.cgates">
     <title>Krepšinio čempionų lyga. &quot;Rytas&quot; - &quot;Promitheas&quot;</title>
 </programme>
@@ -4014,12 +4017,6 @@
 </programme>
 <programme start="20251023203000 +0000" stop="20251023212500 +0000" channel="Go3 Sport HD.cgates">
     <title>NHL</title>
-</programme>
-<programme start="20251022194000 +0000" stop="20251022204000 +0000" channel="Game Toon HD.cgates">
-    <title>Stream Nation</title>
-</programme>
-<programme start="20251022204000 +0000" stop="20251022210000 +0000" channel="Game Toon HD.cgates">
-    <title>Zoomin</title>
 </programme>
 <programme start="20251022210000 +0000" stop="20251022220500 +0000" channel="Game Toon HD.cgates">
     <title>Stream Nation</title>
@@ -4126,6 +4123,9 @@
 <programme start="20251023200000 +0000" stop="20251023205500 +0000" channel="Game Toon HD.cgates">
     <title>Stream Nation</title>
 </programme>
+<programme start="20251023205500 +0000" stop="20251023215500 +0000" channel="Game Toon HD.cgates">
+    <title>Stream Nation</title>
+</programme>
 <programme start="20251022201500 +0000" stop="20251022221000 +0000" channel="Go3 Sport 2 HD.cgates">
     <title>Basketball: Eurocup. Neptunas Klaipeda - Hamburg</title>
 </programme>
@@ -4158,6 +4158,9 @@
 </programme>
 <programme start="20251023200000 +0000" stop="20251023210000 +0000" channel="Go3 Sport 2 HD.cgates">
     <title>FIA World Rally Championship. Central European Rally Event Highlight Show</title>
+</programme>
+<programme start="20251023210000 +0000" stop="20251023233000 +0000" channel="Go3 Sport 2 HD.cgates">
+    <title>Basketball: NBA. Knicks - Cavaliers</title>
 </programme>
 <programme start="20251022200000 +0000" stop="20251022220000 +0000" channel="Balticum Auksinis.cgates">
     <title>Jaunoji žvaigždė</title>
@@ -4194,15 +4197,6 @@
 </programme>
 <programme start="20251023200000 +0000" stop="20251023220000 +0000" channel="Balticum Auksinis.cgates">
     <title>Greta</title>
-</programme>
-<programme start="20251022203000 +0000" stop="20251022204500 +0000" channel="Blue Hustler.cgates">
-    <title>Bad Babysitters</title>
-</programme>
-<programme start="20251022204500 +0000" stop="20251022210000 +0000" channel="Blue Hustler.cgates">
-    <title>Horny Babe Next Door</title>
-</programme>
-<programme start="20251022210000 +0000" stop="20251022211500 +0000" channel="Blue Hustler.cgates">
-    <title>My Latina Nanny</title>
 </programme>
 <programme start="20251022211500 +0000" stop="20251022213000 +0000" channel="Blue Hustler.cgates">
     <title>Horny Bored Wife</title>
@@ -4282,8 +4276,14 @@
 <programme start="20251023203000 +0000" stop="20251023204500 +0000" channel="Blue Hustler.cgates">
     <title>Busty Young Cheerleaders</title>
 </programme>
-<programme start="20251022200000 +0000" stop="20251022204000 +0000" channel="Kino 2.cgates">
-    <title>Первая леди</title>
+<programme start="20251023204500 +0000" stop="20251023210000 +0000" channel="Blue Hustler.cgates">
+    <title>Petite Asian Lez Lovers</title>
+</programme>
+<programme start="20251023210000 +0000" stop="20251023211500 +0000" channel="Blue Hustler.cgates">
+    <title>How To Train Your Teen</title>
+</programme>
+<programme start="20251023211500 +0000" stop="20251023213000 +0000" channel="Blue Hustler.cgates">
+    <title>Cheating MILFs</title>
 </programme>
 <programme start="20251022204000 +0000" stop="20251022212500 +0000" channel="Kino 2.cgates">
     <title>Верни меня к жизни</title>
@@ -4387,6 +4387,9 @@
 <programme start="20251023203000 +0000" stop="20251023211500 +0000" channel="Kino 2.cgates">
     <title>Верни меня к жизни</title>
 </programme>
+<programme start="20251023211500 +0000" stop="20251023220000 +0000" channel="Kino 2.cgates">
+    <title>Верни меня к жизни</title>
+</programme>
 <programme start="20251022195500 +0000" stop="20251022224500 +0000" channel="FilmZone.cgates">
     <title>Žiedų valdovas. Žiedo brolija</title>
 </programme>
@@ -4420,8 +4423,8 @@
 <programme start="20251023184000 +0000" stop="20251023203500 +0000" channel="FilmZone.cgates">
     <title>Trys stendai prie Ebingo, Misūryje</title>
 </programme>
-<programme start="20251022185000 +0000" stop="20251022205500 +0000" channel="FilmZone Plus HD.cgates">
-    <title>Didesni purslai</title>
+<programme start="20251023203500 +0000" stop="20251023232500 +0000" channel="FilmZone.cgates">
+    <title>Žiedų valdovas. Dvi tvirtovės</title>
 </programme>
 <programme start="20251022205500 +0000" stop="20251022223500 +0000" channel="FilmZone Plus HD.cgates">
     <title>Viešbutis &quot;Didysis Budapeštas&quot;</title>
@@ -4458,12 +4461,6 @@
 </programme>
 <programme start="20251023201500 +0000" stop="20251023221000 +0000" channel="FilmZone Plus HD.cgates">
     <title>Pėdsakai</title>
-</programme>
-<programme start="20251022203000 +0000" stop="20251022205500 +0000" channel="Duo6 HD.cgates">
-    <title>Friends</title>
-</programme>
-<programme start="20251022205500 +0000" stop="20251022211500 +0000" channel="Duo6 HD.cgates">
-    <title>Friends</title>
 </programme>
 <programme start="20251022211500 +0000" stop="20251022214000 +0000" channel="Duo6 HD.cgates">
     <title>The Office</title>
@@ -4618,14 +4615,11 @@
 <programme start="20251023203000 +0000" stop="20251023205500 +0000" channel="Duo6 HD.cgates">
     <title>Friends</title>
 </programme>
-<programme start="20251022201500 +0000" stop="20251022204000 +0000" channel="Nickelodeon.cgates">
-    <title>Vėžliukai nindzės: mutantų siautėjimas</title>
+<programme start="20251023205500 +0000" stop="20251023211500 +0000" channel="Duo6 HD.cgates">
+    <title>Friends</title>
 </programme>
-<programme start="20251022204000 +0000" stop="20251022210000 +0000" channel="Nickelodeon.cgates">
-    <title>Keista šeimynėlė. Naujasis noras</title>
-</programme>
-<programme start="20251022210000 +0000" stop="20251022211500 +0000" channel="Nickelodeon.cgates">
-    <title>Keista šeimynėlė. Naujasis noras</title>
+<programme start="20251023211500 +0000" stop="20251023213500 +0000" channel="Duo6 HD.cgates">
+    <title>The Office</title>
 </programme>
 <programme start="20251022211500 +0000" stop="20251022213500 +0000" channel="Nickelodeon.cgates">
     <title>Smurfai</title>
@@ -4822,17 +4816,14 @@
 <programme start="20251023201500 +0000" stop="20251023204000 +0000" channel="Nickelodeon.cgates">
     <title>Vėžliukai nindzės: mutantų siautėjimas</title>
 </programme>
-<programme start="20251022202500 +0000" stop="20251022203500 +0000" channel="Cartoonito.cgates">
-    <title>Batwheels</title>
+<programme start="20251023204000 +0000" stop="20251023210000 +0000" channel="Nickelodeon.cgates">
+    <title>Keista šeimynėlė. Naujasis noras</title>
 </programme>
-<programme start="20251022203500 +0000" stop="20251022205000 +0000" channel="Cartoonito.cgates">
-    <title>Batwheels</title>
+<programme start="20251023210000 +0000" stop="20251023211500 +0000" channel="Nickelodeon.cgates">
+    <title>Keista šeimynėlė. Naujasis noras</title>
 </programme>
-<programme start="20251022205000 +0000" stop="20251022210000 +0000" channel="Cartoonito.cgates">
-    <title>Bugs Bunny Builders</title>
-</programme>
-<programme start="20251022210000 +0000" stop="20251022212000 +0000" channel="Cartoonito.cgates">
-    <title>Bugs Bunny Builders</title>
+<programme start="20251023211500 +0000" stop="20251023213500 +0000" channel="Nickelodeon.cgates">
+    <title>Smurfai</title>
 </programme>
 <programme start="20251022212000 +0000" stop="20251022213000 +0000" channel="Cartoonito.cgates">
     <title>Bugs Bunny Builders</title>
@@ -5179,8 +5170,17 @@
 <programme start="20251023202500 +0000" stop="20251023203500 +0000" channel="Cartoonito.cgates">
     <title>Batwheels</title>
 </programme>
-<programme start="20251022200500 +0000" stop="20251022210000 +0000" channel="1 Plus 1.cgates">
-    <title>Агентство</title>
+<programme start="20251023203500 +0000" stop="20251023205000 +0000" channel="Cartoonito.cgates">
+    <title>Batwheels</title>
+</programme>
+<programme start="20251023205000 +0000" stop="20251023210500 +0000" channel="Cartoonito.cgates">
+    <title>Bugs Bunny Builders</title>
+</programme>
+<programme start="20251023210500 +0000" stop="20251023212000 +0000" channel="Cartoonito.cgates">
+    <title>Bugs Bunny Builders</title>
+</programme>
+<programme start="20251023212000 +0000" stop="20251023213000 +0000" channel="Cartoonito.cgates">
+    <title>Bugs Bunny Builders</title>
 </programme>
 <programme start="20251022210000 +0000" stop="20251022215500 +0000" channel="1 Plus 1.cgates">
     <title>Агентство</title>
@@ -5220,15 +5220,6 @@
 </programme>
 <programme start="20251023190000 +0000" stop="20251023225000 +0000" channel="1 Plus 1.cgates">
     <title>Агентство</title>
-</programme>
-<programme start="20251022202900 +0000" stop="20251022204900 +0000" channel="Euronews RU.cgates">
-    <title>The European Debrief</title>
-</programme>
-<programme start="20251022204900 +0000" stop="20251022210000 +0000" channel="Euronews RU.cgates">
-    <title>News</title>
-</programme>
-<programme start="20251022210000 +0000" stop="20251022211400 +0000" channel="Euronews RU.cgates">
-    <title>The European Debrief</title>
 </programme>
 <programme start="20251022211400 +0000" stop="20251022213000 +0000" channel="Euronews RU.cgates">
     <title>The European Debrief</title>
@@ -5515,8 +5506,11 @@
 <programme start="20251023203000 +0000" stop="20251023210000 +0000" channel="Euronews RU.cgates">
     <title>The European Debrief</title>
 </programme>
-<programme start="20251022183000 +0000" stop="20251022204300 +0000" channel="Mezzo.cgates">
-    <title>Syuyumbike by Reseda Akhiyarova at the State Opera of Tatarstan</title>
+<programme start="20251023210000 +0000" stop="20251023211600 +0000" channel="Euronews RU.cgates">
+    <title>The European Debrief</title>
+</programme>
+<programme start="20251023211600 +0000" stop="20251023213000 +0000" channel="Euronews RU.cgates">
+    <title>The European Debrief</title>
 </programme>
 <programme start="20251022204300 +0000" stop="20251022220700 +0000" channel="Mezzo.cgates">
     <title>Pianomania - Bouffes du Nord</title>
@@ -5572,6 +5566,9 @@
 <programme start="20251023195700 +0000" stop="20251023210800 +0000" channel="Mezzo.cgates">
     <title>Manu Dibango Multipiano</title>
 </programme>
+<programme start="20251023210800 +0000" stop="20251023220100 +0000" channel="Mezzo.cgates">
+    <title>The Sound Weavers: Ludovico Einaudi, Hauschka, Joep Beving, Hania Rani</title>
+</programme>
 <programme start="20251022200000 +0000" stop="20251022230000 +0000" channel="MTV Hits.cgates">
     <title>MTVs 50 Love Songs Of the 10s And 20s</title>
 </programme>
@@ -5601,9 +5598,6 @@
 </programme>
 <programme start="20251023200000 +0000" stop="20251023230000 +0000" channel="MTV Hits.cgates">
     <title>Worldwide Hits</title>
-</programme>
-<programme start="20251022193500 +0000" stop="20251022210000 +0000" channel="MTV Live HD.cgates">
-    <title>HD Hits</title>
 </programme>
 <programme start="20251022210000 +0000" stop="20251022220000 +0000" channel="MTV Live HD.cgates">
     <title>MTV Rewind</title>
@@ -5680,8 +5674,8 @@
 <programme start="20251023193000 +0000" stop="20251023210000 +0000" channel="MTV Live HD.cgates">
     <title>HD Hits</title>
 </programme>
-<programme start="20251022195000 +0000" stop="20251022204000 +0000" channel="TLC.cgates">
-    <title>Match Me Abroad</title>
+<programme start="20251023210000 +0000" stop="20251023220000 +0000" channel="MTV Live HD.cgates">
+    <title>MTV Rewind</title>
 </programme>
 <programme start="20251022204000 +0000" stop="20251022213000 +0000" channel="TLC.cgates">
     <title>90 Day Fiance: Happily Ever After? Pillow Talk</title>
@@ -5779,8 +5773,8 @@
 <programme start="20251023195000 +0000" stop="20251023204000 +0000" channel="TLC.cgates">
     <title>Body Bizarre</title>
 </programme>
-<programme start="20251022200000 +0000" stop="20251022210000 +0000" channel="Investigation Discovery HD.cgates">
-    <title>Dead Silent</title>
+<programme start="20251023204000 +0000" stop="20251023213000 +0000" channel="TLC.cgates">
+    <title>The Bad Foot Clinic</title>
 </programme>
 <programme start="20251022210000 +0000" stop="20251022220000 +0000" channel="Investigation Discovery HD.cgates">
     <title>Murder Calls</title>
@@ -5854,8 +5848,8 @@
 <programme start="20251023200000 +0000" stop="20251023210000 +0000" channel="Investigation Discovery HD.cgates">
     <title>Last Night in...</title>
 </programme>
-<programme start="20251022200000 +0000" stop="20251022210000 +0000" channel="Food Network.cgates">
-    <title>Cutthroat Kitchen: Knives Out</title>
+<programme start="20251023210000 +0000" stop="20251023220000 +0000" channel="Investigation Discovery HD.cgates">
+    <title>A Body in the Basement</title>
 </programme>
 <programme start="20251022210000 +0000" stop="20251022220000 +0000" channel="Food Network.cgates">
     <title>Chef Grudge Match</title>
@@ -5944,8 +5938,8 @@
 <programme start="20251023200000 +0000" stop="20251023210000 +0000" channel="Food Network.cgates">
     <title>Bakers Dozen</title>
 </programme>
-<programme start="20251022202000 +0000" stop="20251022205500 +0000" channel="KidZone Max.cgates">
-    <title>Beibleidai X</title>
+<programme start="20251023210000 +0000" stop="20251023220000 +0000" channel="Food Network.cgates">
+    <title>Chef Grudge Match</title>
 </programme>
 <programme start="20251022205500 +0000" stop="20251023030000 +0000" channel="KidZone Max.cgates">
     <title>MyHits Dance</title>
@@ -6115,8 +6109,8 @@
 <programme start="20251023202000 +0000" stop="20251023205500 +0000" channel="KidZone Max.cgates">
     <title>Beibleidai X</title>
 </programme>
-<programme start="20251022200000 +0000" stop="20251022210000 +0000" channel="Travel Channel HD.cgates">
-    <title>Kindred Spirits</title>
+<programme start="20251023205500 +0000" stop="20251024030000 +0000" channel="KidZone Max.cgates">
+    <title>MyHits Dance</title>
 </programme>
 <programme start="20251022210000 +0000" stop="20251022220000 +0000" channel="Travel Channel HD.cgates">
     <title>Destination Fear</title>
@@ -6190,8 +6184,8 @@
 <programme start="20251023200000 +0000" stop="20251023210000 +0000" channel="Travel Channel HD.cgates">
     <title>Portals To Hell</title>
 </programme>
-<programme start="20251022202000 +0000" stop="20251022210000 +0000" channel="Insight TV.cgates">
-    <title>Car Crews with Supercar Blondie</title>
+<programme start="20251023210000 +0000" stop="20251023220000 +0000" channel="Travel Channel HD.cgates">
+    <title>Destination Fear</title>
 </programme>
 <programme start="20251022210000 +0000" stop="20251022215000 +0000" channel="Insight TV.cgates">
     <title>Secrets of the Brain</title>
@@ -6301,8 +6295,8 @@
 <programme start="20251023201000 +0000" stop="20251023210000 +0000" channel="Insight TV.cgates">
     <title>Strange World</title>
 </programme>
-<programme start="20251022190000 +0000" stop="20251022210000 +0000" channel="Bloomberg Television.cgates">
-    <title>Bloomberg the Close</title>
+<programme start="20251023210000 +0000" stop="20251023215000 +0000" channel="Insight TV.cgates">
+    <title>Ultimate Processes</title>
 </programme>
 <programme start="20251022210000 +0000" stop="20251022220000 +0000" channel="Bloomberg Television.cgates">
     <title>Bloomberg Balance of Power</title>
@@ -6358,8 +6352,8 @@
 <programme start="20251023190000 +0000" stop="20251023210000 +0000" channel="Bloomberg Television.cgates">
     <title>Bloomberg the Close</title>
 </programme>
-<programme start="20251022203000 +0000" stop="20251022210000 +0000" channel="Luxe.TV HD.cgates">
-    <title>Luxe.this Month</title>
+<programme start="20251023210000 +0000" stop="20251023220000 +0000" channel="Bloomberg Television.cgates">
+    <title>Bloomberg Balance of Power</title>
 </programme>
 <programme start="20251022210000 +0000" stop="20251022212500 +0000" channel="Luxe.TV HD.cgates">
     <title>LUXE.Today</title>
@@ -6577,8 +6571,8 @@
 <programme start="20251023203000 +0000" stop="20251023210000 +0000" channel="Luxe.TV HD.cgates">
     <title>Destination Special</title>
 </programme>
-<programme start="20251022203000 +0000" stop="20251022210000 +0000" channel="Arirang TV.cgates">
-    <title>Arirang Special</title>
+<programme start="20251023210000 +0000" stop="20251023212500 +0000" channel="Luxe.TV HD.cgates">
+    <title>LUXE.Today</title>
 </programme>
 <programme start="20251022210000 +0000" stop="20251022213000 +0000" channel="Arirang TV.cgates">
     <title>Press Perspective</title>
@@ -6751,8 +6745,8 @@
 <programme start="20251023203000 +0000" stop="20251023210000 +0000" channel="Arirang TV.cgates">
     <title>Travel Diary</title>
 </programme>
-<programme start="20251022200000 +0000" stop="20251022210000 +0000" channel="Ukraine 24.cgates">
-    <title>Реалии. Все о войне</title>
+<programme start="20251023210000 +0000" stop="20251023213000 +0000" channel="Arirang TV.cgates">
+    <title>Press Perspective</title>
 </programme>
 <programme start="20251022210000 +0000" stop="20251022230000 +0000" channel="Ukraine 24.cgates">
     <title>Ночной эфир</title>
@@ -6850,8 +6844,8 @@
 <programme start="20251023200000 +0000" stop="20251023210000 +0000" channel="Ukraine 24.cgates">
     <title>Реалии. Все о войне</title>
 </programme>
-<programme start="20251022200000 +0000" stop="20251022210000 +0000" channel="RTV International.cgates">
-    <title>Отчий берег</title>
+<programme start="20251023210000 +0000" stop="20251023230000 +0000" channel="Ukraine 24.cgates">
+    <title>Ночной эфир</title>
 </programme>
 <programme start="20251022210000 +0000" stop="20251022220000 +0000" channel="RTV International.cgates">
     <title>Отчий берег</title>
@@ -6941,6 +6935,9 @@
     <title>Специальное интервью</title>
 </programme>
 <programme start="20251023200000 +0000" stop="20251023210000 +0000" channel="RTV International.cgates">
+    <title>Отчий берег</title>
+</programme>
+<programme start="20251023210000 +0000" stop="20251023220000 +0000" channel="RTV International.cgates">
     <title>Отчий берег</title>
 </programme>
 <programme start="20251022193000 +0000" stop="20251023043000 +0000" channel="Etaplius TV.cgates">
@@ -7186,9 +7183,6 @@
 <programme start="20251023202000 +0000" stop="20251024024000 +0000" channel="JPTV.cgates">
     <title>Gera muzika</title>
 </programme>
-<programme start="20251022183500 +0000" stop="20251022203500 +0000" channel="Viasat Kino Comedy.cgates">
-    <title>Įsivaizduok tai</title>
-</programme>
 <programme start="20251022203500 +0000" stop="20251022222000 +0000" channel="Viasat Kino Comedy.cgates">
     <title>Kapinių stotis</title>
 </programme>
@@ -7228,9 +7222,6 @@
 <programme start="20251023190000 +0000" stop="20251023214000 +0000" channel="Viasat Kino Comedy.cgates">
     <title>Amsterdamas</title>
 </programme>
-<programme start="20251022193000 +0000" stop="20251022210000 +0000" channel="Go3 Films HD.cgates">
-    <title>Bastilijos diena</title>
-</programme>
 <programme start="20251022210000 +0000" stop="20251022230000 +0000" channel="Go3 Films HD.cgates">
     <title>Nakties klajūnai</title>
 </programme>
@@ -7266,6 +7257,9 @@
 </programme>
 <programme start="20251023193000 +0000" stop="20251023210000 +0000" channel="Go3 Films HD.cgates">
     <title>Mirtis per laidotuves</title>
+</programme>
+<programme start="20251023210000 +0000" stop="20251023230000 +0000" channel="Go3 Films HD.cgates">
+    <title>Cat Person</title>
 </programme>
 <programme start="20251022203000 +0000" stop="20251022221500 +0000" channel="Viasat Kino Action.cgates">
     <title>Helovinas</title>
@@ -7354,9 +7348,6 @@
 <programme start="20251023195500 +0000" stop="20251023213500 +0000" channel="Viasat Kino.cgates">
     <title>Meilės romano pabaiga</title>
 </programme>
-<programme start="20251022193500 +0000" stop="20251022211000 +0000" channel="Viasat Kino World.cgates">
-    <title>Super</title>
-</programme>
 <programme start="20251022211000 +0000" stop="20251022225000 +0000" channel="Viasat Kino World.cgates">
     <title>Prieglobstis</title>
 </programme>
@@ -7398,6 +7389,9 @@
 </programme>
 <programme start="20251023193500 +0000" stop="20251023211500 +0000" channel="Viasat Kino World.cgates">
     <title>Tai _ Anglija</title>
+</programme>
+<programme start="20251023211500 +0000" stop="20251023231000 +0000" channel="Viasat Kino World.cgates">
+    <title>Paskutiniai norai</title>
 </programme>
 <programme start="20251022200500 +0000" stop="20251022212500 +0000" channel="FilmBox ArtHouse.cgates">
     <title>Flesh and Fury</title>
@@ -7467,6 +7461,9 @@
 </programme>
 <programme start="20251023193000 +0000" stop="20251023204500 +0000" channel="FilmBox ArtHouse.cgates">
     <title>Please Murder Me</title>
+</programme>
+<programme start="20251023204500 +0000" stop="20251023222000 +0000" channel="FilmBox ArtHouse.cgates">
+    <title>And Then There Were None</title>
 </programme>
 <programme start="20251022202500 +0000" stop="20251022215000 +0000" channel="AMC.cgates">
     <title>Marco Polo</title>
@@ -7572,15 +7569,6 @@
 </programme>
 <programme start="20251023202000 +0000" stop="20251023215000 +0000" channel="Eurochannel.cgates">
     <title>Obsessed</title>
-</programme>
-<programme start="20251022203000 +0000" stop="20251022205400 +0000" channel="Playboy TV.cgates">
-    <title>Backstage of the Photoshoot</title>
-</programme>
-<programme start="20251022205400 +0000" stop="20251022205800 +0000" channel="Playboy TV.cgates">
-    <title>Normal Magazine</title>
-</programme>
-<programme start="20251022205800 +0000" stop="20251022210000 +0000" channel="Playboy TV.cgates">
-    <title>Stefanie Renoma</title>
 </programme>
 <programme start="20251022210000 +0000" stop="20251022213000 +0000" channel="Playboy TV.cgates">
     <title>Eve Sweet</title>
@@ -7774,8 +7762,14 @@
 <programme start="20251023202100 +0000" stop="20251023203400 +0000" channel="Playboy TV.cgates">
     <title>Eurythmy</title>
 </programme>
-<programme start="20251022195000 +0000" stop="20251022212000 +0000" channel="4Y.cgates">
-    <title>Laimės skonis</title>
+<programme start="20251023203400 +0000" stop="20251023205400 +0000" channel="Playboy TV.cgates">
+    <title>Erotic Videos</title>
+</programme>
+<programme start="20251023205400 +0000" stop="20251023212000 +0000" channel="Playboy TV.cgates">
+    <title>Toyride</title>
+</programme>
+<programme start="20251023212000 +0000" stop="20251023214900 +0000" channel="Playboy TV.cgates">
+    <title>Female Gaze</title>
 </programme>
 <programme start="20251022212000 +0000" stop="20251022224500 +0000" channel="4Y.cgates">
     <title>Laiko žiede</title>
@@ -7819,8 +7813,8 @@
 <programme start="20251023192500 +0000" stop="20251023212000 +0000" channel="4Y.cgates">
     <title>Nekenčiu vasaros</title>
 </programme>
-<programme start="20251022190000 +0000" stop="20251022210000 +0000" channel="Setanta Sports 1.cgates">
-    <title>Tennis: WTA 1000 - Wuhan Open. Final</title>
+<programme start="20251023212000 +0000" stop="20251023231000 +0000" channel="4Y.cgates">
+    <title>Nematomas žudikas</title>
 </programme>
 <programme start="20251022210000 +0000" stop="20251022230000 +0000" channel="Setanta Sports 1.cgates">
     <title>Football: LaLiga. Atl. Madrid - Osasuna</title>
@@ -7857,6 +7851,9 @@
 </programme>
 <programme start="20251023190000 +0000" stop="20251023210000 +0000" channel="Setanta Sports 1.cgates">
     <title>Football: LaLiga. Barcelona - Girona</title>
+</programme>
+<programme start="20251023210000 +0000" stop="20251023230000 +0000" channel="Setanta Sports 1.cgates">
+    <title>Football: Bundesliga. Bayern Munich - Borussia Dortmund</title>
 </programme>
 <programme start="20251022201000 +0000" stop="20251022221000 +0000" channel="Epic Drama HD.cgates">
     <title>Mis Marpl</title>
@@ -7924,6 +7921,9 @@
 <programme start="20251023200500 +0000" stop="20251023210500 +0000" channel="Epic Drama HD.cgates">
     <title>Domina</title>
 </programme>
+<programme start="20251023210500 +0000" stop="20251023221500 +0000" channel="Epic Drama HD.cgates">
+    <title>Domina</title>
+</programme>
 <programme start="20251022201500 +0000" stop="20251022220500 +0000" channel="FilmBox.cgates">
     <title>Remembrance</title>
 </programme>
@@ -7972,8 +7972,8 @@
 <programme start="20251023190000 +0000" stop="20251023204000 +0000" channel="FilmBox.cgates">
     <title>The Cooler</title>
 </programme>
-<programme start="20251022190000 +0000" stop="20251022203900 +0000" channel="iConcerts HD.cgates">
-    <title>Various Artists - Hired Gun</title>
+<programme start="20251023204000 +0000" stop="20251023221500 +0000" channel="FilmBox.cgates">
+    <title>The Humanity Bureau</title>
 </programme>
 <programme start="20251022203900 +0000" stop="20251022220000 +0000" channel="iConcerts HD.cgates">
     <title>Carrie Underwood - Live in London</title>
@@ -8037,9 +8037,6 @@
 </programme>
 <programme start="20251023203100 +0000" stop="20251023220000 +0000" channel="iConcerts HD.cgates">
     <title>Shakira - Oral Fixation Tour</title>
-</programme>
-<programme start="20251022200000 +0000" stop="20251022210000 +0000" channel="Viasat Explore HD.cgates">
-    <title>Auksas šaltame vandenyje</title>
 </programme>
 <programme start="20251022210000 +0000" stop="20251022215500 +0000" channel="Viasat Explore HD.cgates">
     <title>Australijos aukso ieškotojai</title>
@@ -8116,8 +8113,8 @@
 <programme start="20251023195500 +0000" stop="20251023205000 +0000" channel="Viasat Explore HD.cgates">
     <title>Auksas šaltame vandenyje</title>
 </programme>
-<programme start="20251022200500 +0000" stop="20251022211000 +0000" channel="Viasat History HD.cgates">
-    <title>Slaptas Kleopatros kapas</title>
+<programme start="20251023205000 +0000" stop="20251023215000 +0000" channel="Viasat Explore HD.cgates">
+    <title>Australijos aukso ieškotojai</title>
 </programme>
 <programme start="20251022211000 +0000" stop="20251022214000 +0000" channel="Viasat History HD.cgates">
     <title>Prakeiktos kraujo linijos</title>
@@ -8197,8 +8194,8 @@
 <programme start="20251023200000 +0000" stop="20251023210000 +0000" channel="Viasat History HD.cgates">
     <title>Faraonai: didesni už piramides</title>
 </programme>
-<programme start="20251022200000 +0000" stop="20251022204500 +0000" channel="Viasat Nature HD.cgates">
-    <title>Hailando veterinaras</title>
+<programme start="20251023210000 +0000" stop="20251023212500 +0000" channel="Viasat History HD.cgates">
+    <title>Prakeiktos kraujo linijos</title>
 </programme>
 <programme start="20251022204500 +0000" stop="20251022213500 +0000" channel="Viasat Nature HD.cgates">
     <title>Metai Žemės planetoje</title>
@@ -8302,8 +8299,8 @@
 <programme start="20251023195500 +0000" stop="20251023204000 +0000" channel="Viasat Nature HD.cgates">
     <title>Hailando veterinaras</title>
 </programme>
-<programme start="20251022203000 +0000" stop="20251022212000 +0000" channel="Dizi.cgates">
-    <title>The Innocents</title>
+<programme start="20251023204000 +0000" stop="20251023213000 +0000" channel="Viasat Nature HD.cgates">
+    <title>Metai Žemės planetoje</title>
 </programme>
 <programme start="20251022212000 +0000" stop="20251022221000 +0000" channel="Dizi.cgates">
     <title>My Champion</title>
@@ -8395,8 +8392,8 @@
 <programme start="20251023203000 +0000" stop="20251023212000 +0000" channel="Dizi.cgates">
     <title>The Innocents</title>
 </programme>
-<programme start="20251022203000 +0000" stop="20251022210000 +0000" channel="Travelxp.cgates">
-    <title>See My Home California</title>
+<programme start="20251023212000 +0000" stop="20251023220500 +0000" channel="Dizi.cgates">
+    <title>My Champion</title>
 </programme>
 <programme start="20251022210000 +0000" stop="20251022213000 +0000" channel="Travelxp.cgates">
     <title>Unbound</title>
@@ -8542,8 +8539,8 @@
 <programme start="20251023203000 +0000" stop="20251023210000 +0000" channel="Travelxp.cgates">
     <title>See My Home California</title>
 </programme>
-<programme start="20251022200100 +0000" stop="20251022204600 +0000" channel="Nat Geo Wild.cgates">
-    <title>Killer Safari</title>
+<programme start="20251023210000 +0000" stop="20251023213000 +0000" channel="Travelxp.cgates">
+    <title>Unbound</title>
 </programme>
 <programme start="20251022204600 +0000" stop="20251022213100 +0000" channel="Nat Geo Wild.cgates">
     <title>Predator Bloodlines</title>
@@ -8644,8 +8641,8 @@
 <programme start="20251023200100 +0000" stop="20251023204600 +0000" channel="Nat Geo Wild.cgates">
     <title>Snakes in the City</title>
 </programme>
-<programme start="20251022203000 +0000" stop="20251022210000 +0000" channel="Fast &amp; Fun Box HD.cgates">
-    <title>Inside Sailing 2021</title>
+<programme start="20251023204600 +0000" stop="20251023213100 +0000" channel="Nat Geo Wild.cgates">
+    <title>Animal Fight Club 4.</title>
 </programme>
 <programme start="20251022210000 +0000" stop="20251022213000 +0000" channel="Fast &amp; Fun Box HD.cgates">
     <title>Mountainbike: Cape Epic</title>
@@ -8785,8 +8782,8 @@
 <programme start="20251023203000 +0000" stop="20251023210000 +0000" channel="Fast &amp; Fun Box HD.cgates">
     <title>Sailing to Tokyo</title>
 </programme>
-<programme start="20251022203000 +0000" stop="20251022210000 +0000" channel="Fight Sports HD.cgates">
-    <title>MMA:30</title>
+<programme start="20251023210000 +0000" stop="20251023220000 +0000" channel="Fast &amp; Fun Box HD.cgates">
+    <title>Hankook 24h Series. 2022</title>
 </programme>
 <programme start="20251022210000 +0000" stop="20251022220000 +0000" channel="Fight Sports HD.cgates">
     <title>FS MMA. bodogFIGHT: The Best of Womens MMA</title>
@@ -8878,6 +8875,9 @@
 <programme start="20251023200000 +0000" stop="20251023210000 +0000" channel="Fight Sports HD.cgates">
     <title>Fight Quest</title>
 </programme>
+<programme start="20251023210000 +0000" stop="20251023220000 +0000" channel="Fight Sports HD.cgates">
+    <title>Fight Sports MMA. Best Knockouts of 2018 Part 2</title>
+</programme>
 <programme start="20251022200000 +0000" stop="20251022230000 +0000" channel="Extreme Sports.cgates">
     <title>BEW - The Empire Fights Back</title>
 </programme>
@@ -8934,30 +8934,6 @@
 </programme>
 <programme start="20251023200000 +0000" stop="20251023220000 +0000" channel="Extreme Sports.cgates">
     <title>Grid</title>
-</programme>
-<programme start="20251022202000 +0000" stop="20251022204500 +0000" channel="Nick Jr..cgates">
-    <title>Baby Sharks Big Show!</title>
-</programme>
-<programme start="20251022204500 +0000" stop="20251022205000 +0000" channel="Nick Jr..cgates">
-    <title>Peppa Pig</title>
-</programme>
-<programme start="20251022205000 +0000" stop="20251022205100 +0000" channel="Nick Jr..cgates">
-    <title>Peppa Pig</title>
-</programme>
-<programme start="20251022205100 +0000" stop="20251022205500 +0000" channel="Nick Jr..cgates">
-    <title>Peppa Pig</title>
-</programme>
-<programme start="20251022205500 +0000" stop="20251022210500 +0000" channel="Nick Jr..cgates">
-    <title>Peppa Pig</title>
-</programme>
-<programme start="20251022210500 +0000" stop="20251022211000 +0000" channel="Nick Jr..cgates">
-    <title>Peppa Pig</title>
-</programme>
-<programme start="20251022211000 +0000" stop="20251022211500 +0000" channel="Nick Jr..cgates">
-    <title>Peppa Pig</title>
-</programme>
-<programme start="20251022211500 +0000" stop="20251022212000 +0000" channel="Nick Jr..cgates">
-    <title>Peppa Pig</title>
 </programme>
 <programme start="20251022212000 +0000" stop="20251022214000 +0000" channel="Nick Jr..cgates">
     <title>Barbapapa - One Big Happy Family!</title>
@@ -9244,11 +9220,29 @@
 <programme start="20251023202000 +0000" stop="20251023204000 +0000" channel="Nick Jr..cgates">
     <title>Baby Sharks Big Show!</title>
 </programme>
-<programme start="20251022201500 +0000" stop="20251022204000 +0000" channel="Nick Toons.cgates">
-    <title>Avatar: The Last Airbender</title>
+<programme start="20251023204000 +0000" stop="20251023204500 +0000" channel="Nick Jr..cgates">
+    <title>Peppa Pig</title>
 </programme>
-<programme start="20251022204000 +0000" stop="20251022210500 +0000" channel="Nick Toons.cgates">
-    <title>SpongeBob SquarePants</title>
+<programme start="20251023204500 +0000" stop="20251023205000 +0000" channel="Nick Jr..cgates">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20251023205000 +0000" stop="20251023205500 +0000" channel="Nick Jr..cgates">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20251023205500 +0000" stop="20251023210500 +0000" channel="Nick Jr..cgates">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20251023210500 +0000" stop="20251023210600 +0000" channel="Nick Jr..cgates">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20251023210600 +0000" stop="20251023211000 +0000" channel="Nick Jr..cgates">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20251023211000 +0000" stop="20251023212000 +0000" channel="Nick Jr..cgates">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20251023212000 +0000" stop="20251023214000 +0000" channel="Nick Jr..cgates">
+    <title>Barbapapa - One Big Happy Family!</title>
 </programme>
 <programme start="20251022210500 +0000" stop="20251022213000 +0000" channel="Nick Toons.cgates">
     <title>SpongeBob SquarePants</title>
@@ -9445,8 +9439,11 @@
 <programme start="20251023201500 +0000" stop="20251023204000 +0000" channel="Nick Toons.cgates">
     <title>Avatar: The Last Airbender</title>
 </programme>
-<programme start="20251022200500 +0000" stop="20251022204500 +0000" channel="Fx Life.cgates">
-    <title>Grei anatomija</title>
+<programme start="20251023204000 +0000" stop="20251023210500 +0000" channel="Nick Toons.cgates">
+    <title>SpongeBob SquarePants</title>
+</programme>
+<programme start="20251023210500 +0000" stop="20251023213000 +0000" channel="Nick Toons.cgates">
+    <title>SpongeBob SquarePants</title>
 </programme>
 <programme start="20251022204500 +0000" stop="20251022213000 +0000" channel="Fx Life.cgates">
     <title>Nusivylusios namų šeimininkės</title>
@@ -9550,17 +9547,8 @@
 <programme start="20251023200500 +0000" stop="20251023204500 +0000" channel="Fx Life.cgates">
     <title>Nusivylusios namų šeimininkės</title>
 </programme>
-<programme start="20251022202100 +0000" stop="20251022203400 +0000" channel="Gulli Girl.cgates">
-    <title>Гарфилд</title>
-</programme>
-<programme start="20251022203400 +0000" stop="20251022204700 +0000" channel="Gulli Girl.cgates">
-    <title>Гарфилд</title>
-</programme>
-<programme start="20251022204700 +0000" stop="20251022210000 +0000" channel="Gulli Girl.cgates">
-    <title>Гарфилд</title>
-</programme>
-<programme start="20251022210000 +0000" stop="20251022211100 +0000" channel="Gulli Girl.cgates">
-    <title>Приключения меленькой зебры Зу</title>
+<programme start="20251023204500 +0000" stop="20251023213000 +0000" channel="Fx Life.cgates">
+    <title>Nusivylusios namų šeimininkės</title>
 </programme>
 <programme start="20251022211100 +0000" stop="20251022212200 +0000" channel="Gulli Girl.cgates">
     <title>Приключения меленькой зебры Зу</title>
@@ -9871,11 +9859,17 @@
 <programme start="20251023202000 +0000" stop="20251023203300 +0000" channel="Gulli Girl.cgates">
     <title>Гарфилд</title>
 </programme>
-<programme start="20251022202300 +0000" stop="20251022203500 +0000" channel="TiJi.cgates">
-    <title>Супер Крылья</title>
+<programme start="20251023203300 +0000" stop="20251023204700 +0000" channel="Gulli Girl.cgates">
+    <title>Гарфилд</title>
 </programme>
-<programme start="20251022203500 +0000" stop="20251022210000 +0000" channel="TiJi.cgates">
-    <title>Диноранчо</title>
+<programme start="20251023204700 +0000" stop="20251023210000 +0000" channel="Gulli Girl.cgates">
+    <title>Гарфилд</title>
+</programme>
+<programme start="20251023210000 +0000" stop="20251023211100 +0000" channel="Gulli Girl.cgates">
+    <title>Приключения меленькой зебры Зу</title>
+</programme>
+<programme start="20251023211100 +0000" stop="20251023212200 +0000" channel="Gulli Girl.cgates">
+    <title>Приключения меленькой зебры Зу</title>
 </programme>
 <programme start="20251022210000 +0000" stop="20251022212200 +0000" channel="TiJi.cgates">
     <title>Диноранчо</title>
@@ -10318,14 +10312,11 @@
 <programme start="20251023202300 +0000" stop="20251023203500 +0000" channel="TiJi.cgates">
     <title>Супер Крылья</title>
 </programme>
-<programme start="20251022203000 +0000" stop="20251022205100 +0000" channel="Da Vinci learning.cgates">
-    <title>Xploration Outer Space</title>
+<programme start="20251023203500 +0000" stop="20251023210000 +0000" channel="TiJi.cgates">
+    <title>Диноранчо</title>
 </programme>
-<programme start="20251022205100 +0000" stop="20251022205400 +0000" channel="Da Vinci learning.cgates">
-    <title>Innovation</title>
-</programme>
-<programme start="20251022205400 +0000" stop="20251022210000 +0000" channel="Da Vinci learning.cgates">
-    <title>Innovation</title>
+<programme start="20251023210000 +0000" stop="20251023212200 +0000" channel="TiJi.cgates">
+    <title>Диноранчо</title>
 </programme>
 <programme start="20251022210000 +0000" stop="20251022220000 +0000" channel="Da Vinci learning.cgates">
     <title>Hyper Evolution: The Rise of the Robots</title>
@@ -10642,8 +10633,14 @@
 <programme start="20251023203000 +0000" stop="20251023205100 +0000" channel="Da Vinci learning.cgates">
     <title>Xploration Outer Space</title>
 </programme>
-<programme start="20251022203000 +0000" stop="20251022210000 +0000" channel="Baby TV.cgates">
-    <title>Sweet Dreams</title>
+<programme start="20251023205100 +0000" stop="20251023205400 +0000" channel="Da Vinci learning.cgates">
+    <title>Innovation</title>
+</programme>
+<programme start="20251023205400 +0000" stop="20251023210000 +0000" channel="Da Vinci learning.cgates">
+    <title>Innovation</title>
+</programme>
+<programme start="20251023210000 +0000" stop="20251023214500 +0000" channel="Da Vinci learning.cgates">
+    <title>Can a Computer Write a Hit Musical?</title>
 </programme>
 <programme start="20251022210000 +0000" stop="20251022213000 +0000" channel="Baby TV.cgates">
     <title>Dreamy Nights</title>
@@ -10789,11 +10786,8 @@
 <programme start="20251023203000 +0000" stop="20251023210000 +0000" channel="Baby TV.cgates">
     <title>Sweet Dreams</title>
 </programme>
-<programme start="20251022200000 +0000" stop="20251022204500 +0000" channel="Channel 5.cgates">
-    <title>Время новостей</title>
-</programme>
-<programme start="20251022204500 +0000" stop="20251022210000 +0000" channel="Channel 5.cgates">
-    <title>История для взрослых</title>
+<programme start="20251023210000 +0000" stop="20251023213000 +0000" channel="Baby TV.cgates">
+    <title>Dreamy Nights</title>
 </programme>
 <programme start="20251022210000 +0000" stop="20251022215000 +0000" channel="Channel 5.cgates">
     <title>Линейка документальных фильмов</title>
@@ -10909,8 +10903,11 @@
 <programme start="20251023200000 +0000" stop="20251023204500 +0000" channel="Channel 5.cgates">
     <title>Время новостей</title>
 </programme>
-<programme start="20251022200000 +0000" stop="20251022210500 +0000" channel="Raz 2.cgates">
-    <title>Охота в Новом Свете</title>
+<programme start="20251023204500 +0000" stop="20251023210000 +0000" channel="Channel 5.cgates">
+    <title>История для взрослых</title>
+</programme>
+<programme start="20251023210000 +0000" stop="20251023215000 +0000" channel="Channel 5.cgates">
+    <title>Линейка документальных фильмов</title>
 </programme>
 <programme start="20251022210500 +0000" stop="20251022223000 +0000" channel="Raz 2.cgates">
     <title>Дневники дикой природы</title>
@@ -10984,8 +10981,8 @@
 <programme start="20251023195500 +0000" stop="20251023210000 +0000" channel="Raz 2.cgates">
     <title>Охота в Новом Свете</title>
 </programme>
-<programme start="20251022201500 +0000" stop="20251022211000 +0000" channel="Raz 1.cgates">
-    <title>Острова Королевы</title>
+<programme start="20251023210000 +0000" stop="20251023222500 +0000" channel="Raz 2.cgates">
+    <title>Дневники дикой природы</title>
 </programme>
 <programme start="20251022211000 +0000" stop="20251022215000 +0000" channel="Raz 1.cgates">
     <title>Заряженные тачки</title>
@@ -11059,8 +11056,8 @@
 <programme start="20251023202000 +0000" stop="20251023211500 +0000" channel="Raz 1.cgates">
     <title>Острова Королевы</title>
 </programme>
-<programme start="20251022190500 +0000" stop="20251022211000 +0000" channel="Kino 7.cgates">
-    <title>Богиня: Как я полюбила</title>
+<programme start="20251023211500 +0000" stop="20251023215500 +0000" channel="Raz 1.cgates">
+    <title>Заряженные тачки</title>
 </programme>
 <programme start="20251022211000 +0000" stop="20251022225000 +0000" channel="Kino 7.cgates">
     <title>Точка</title>
@@ -11095,8 +11092,8 @@
 <programme start="20251023191000 +0000" stop="20251023211000 +0000" channel="Kino 7.cgates">
     <title>Клипмейкеры</title>
 </programme>
-<programme start="20251022203000 +0000" stop="20251022212000 +0000" channel="Duo 5.cgates">
-    <title>Murder, Mystery and My Family</title>
+<programme start="20251023211000 +0000" stop="20251023231500 +0000" channel="Kino 7.cgates">
+    <title>Богиня: Как я полюбила</title>
 </programme>
 <programme start="20251022212000 +0000" stop="20251023044000 +0000" channel="Duo 5.cgates">
     <title>Duo Mix</title>
@@ -11161,8 +11158,8 @@
 <programme start="20251023202500 +0000" stop="20251023212000 +0000" channel="Duo 5.cgates">
     <title>Murder, Mystery and My Family</title>
 </programme>
-<programme start="20251022200500 +0000" stop="20251022210000 +0000" channel="DocuBox.cgates">
-    <title>Africas Deadliest</title>
+<programme start="20251023212000 +0000" stop="20251024045000 +0000" channel="Duo 5.cgates">
+    <title>Duo Mix</title>
 </programme>
 <programme start="20251022210000 +0000" stop="20251022213000 +0000" channel="DocuBox.cgates">
     <title>Wild Ones</title>
@@ -11293,23 +11290,8 @@
 <programme start="20251023203000 +0000" stop="20251023210000 +0000" channel="DocuBox.cgates">
     <title>Inside Outer Space</title>
 </programme>
-<programme start="20251022202600 +0000" stop="20251022203200 +0000" channel="Jim Jam.cgates">
-    <title>Caillous New Adventures</title>
-</programme>
-<programme start="20251022203200 +0000" stop="20251022204000 +0000" channel="Jim Jam.cgates">
-    <title>Caillous New Adventures</title>
-</programme>
-<programme start="20251022204000 +0000" stop="20251022205200 +0000" channel="Jim Jam.cgates">
-    <title>Milo</title>
-</programme>
-<programme start="20251022205200 +0000" stop="20251022210500 +0000" channel="Jim Jam.cgates">
-    <title>Milo</title>
-</programme>
-<programme start="20251022210500 +0000" stop="20251022211000 +0000" channel="Jim Jam.cgates">
-    <title>Berry and Dolly</title>
-</programme>
-<programme start="20251022211000 +0000" stop="20251022211700 +0000" channel="Jim Jam.cgates">
-    <title>Berry and Dolly</title>
+<programme start="20251023210000 +0000" stop="20251023212500 +0000" channel="DocuBox.cgates">
+    <title>Zenith - Advances In Space Exploration</title>
 </programme>
 <programme start="20251022211700 +0000" stop="20251022212400 +0000" channel="Jim Jam.cgates">
     <title>Sam &amp; Julia</title>
@@ -11692,8 +11674,23 @@
 <programme start="20251023202600 +0000" stop="20251023203200 +0000" channel="Jim Jam.cgates">
     <title>Caillous New Adventures</title>
 </programme>
-<programme start="20251022203000 +0000" stop="20251022211500 +0000" channel="History Channel HD.cgates">
-    <title>The UnBelievable with Dan Aykroyd</title>
+<programme start="20251023203200 +0000" stop="20251023204000 +0000" channel="Jim Jam.cgates">
+    <title>Caillous New Adventures</title>
+</programme>
+<programme start="20251023204000 +0000" stop="20251023205200 +0000" channel="Jim Jam.cgates">
+    <title>Milo</title>
+</programme>
+<programme start="20251023205200 +0000" stop="20251023210500 +0000" channel="Jim Jam.cgates">
+    <title>Milo</title>
+</programme>
+<programme start="20251023210500 +0000" stop="20251023211000 +0000" channel="Jim Jam.cgates">
+    <title>Berry and Dolly</title>
+</programme>
+<programme start="20251023211000 +0000" stop="20251023211700 +0000" channel="Jim Jam.cgates">
+    <title>Berry and Dolly</title>
+</programme>
+<programme start="20251023211700 +0000" stop="20251023212400 +0000" channel="Jim Jam.cgates">
+    <title>Sam &amp; Julia</title>
 </programme>
 <programme start="20251022211500 +0000" stop="20251022220000 +0000" channel="History Channel HD.cgates">
     <title>Pawn Stars</title>
@@ -11794,14 +11791,8 @@
 <programme start="20251023203000 +0000" stop="20251023211500 +0000" channel="History Channel HD.cgates">
     <title>Ancient Aliens</title>
 </programme>
-<programme start="20251022203000 +0000" stop="20251022205500 +0000" channel="Kidzone Mini.cgates">
-    <title>Mano mažasis ponis: Sužibėk</title>
-</programme>
-<programme start="20251022205500 +0000" stop="20251022210500 +0000" channel="Kidzone Mini.cgates">
-    <title>Badanamu istorijos</title>
-</programme>
-<programme start="20251022210500 +0000" stop="20251022211500 +0000" channel="Kidzone Mini.cgates">
-    <title>Badanamu istorijos</title>
+<programme start="20251023211500 +0000" stop="20251023220000 +0000" channel="History Channel HD.cgates">
+    <title>Pawn Stars</title>
 </programme>
 <programme start="20251022211500 +0000" stop="20251023025500 +0000" channel="Kidzone Mini.cgates">
     <title>Labos nakties!</title>
@@ -12070,8 +12061,14 @@
 <programme start="20251023203000 +0000" stop="20251023205500 +0000" channel="Kidzone Mini.cgates">
     <title>Mano mažasis ponis: Sužibėk</title>
 </programme>
-<programme start="20251022200000 +0000" stop="20251022210000 +0000" channel="Eurosport 2 HD.cgates">
-    <title>Equestrian Sport: Longines FEI Jumping World Cup in Oslo</title>
+<programme start="20251023205500 +0000" stop="20251023210500 +0000" channel="Kidzone Mini.cgates">
+    <title>Badanamu istorijos</title>
+</programme>
+<programme start="20251023210500 +0000" stop="20251023211500 +0000" channel="Kidzone Mini.cgates">
+    <title>Badanamu istorijos</title>
+</programme>
+<programme start="20251023211500 +0000" stop="20251024025500 +0000" channel="Kidzone Mini.cgates">
+    <title>Labos nakties!</title>
 </programme>
 <programme start="20251022210000 +0000" stop="20251022220000 +0000" channel="Eurosport 2 HD.cgates">
     <title>Triathlon: T100 Triathlon World Tour</title>
@@ -12129,6 +12126,9 @@
 </programme>
 <programme start="20251023190000 +0000" stop="20251023210000 +0000" channel="Eurosport 2 HD.cgates">
     <title>Cycling: Tour De France Route Presentation</title>
+</programme>
+<programme start="20251023210000 +0000" stop="20251024000000 +0000" channel="Eurosport 2 HD.cgates">
+    <title>PGA Tour: Black Desert Championship. Day 1</title>
 </programme>
 <programme start="20251022180000 +0000" stop="20251022220000 +0000" channel="Eurosport HD.cgates">
     <title>Snooker: Northern Ireland Open. Round 2 | Day 4 | Evening Session</title>
@@ -12250,9 +12250,6 @@
 <programme start="20251023202000 +0000" stop="20251023213500 +0000" channel="BBC Earth.cgates">
     <title>Great Continental Railway Journeys</title>
 </programme>
-<programme start="20251022200500 +0000" stop="20251022205000 +0000" channel="Fx HD.cgates">
-    <title>Skubi pagalba</title>
-</programme>
 <programme start="20251022205000 +0000" stop="20251022213000 +0000" channel="Fx HD.cgates">
     <title>Willas Trentas</title>
 </programme>
@@ -12358,8 +12355,8 @@
 <programme start="20251023200500 +0000" stop="20251023204500 +0000" channel="Fx HD.cgates">
     <title>Skubi pagalba</title>
 </programme>
-<programme start="20251022201500 +0000" stop="20251022211000 +0000" channel="LRT Lituanica.cgates">
-    <title>Stilius</title>
+<programme start="20251023204500 +0000" stop="20251023212500 +0000" channel="Fx HD.cgates">
+    <title>Nusikalstami protai</title>
 </programme>
 <programme start="20251022211000 +0000" stop="20251022232000 +0000" channel="LRT Lituanica.cgates">
     <title>Laba diena, Lietuva</title>
@@ -12463,8 +12460,8 @@
 <programme start="20251023202000 +0000" stop="20251023211500 +0000" channel="LRT Lituanica.cgates">
     <title>Vakare su Audrium Giržadu</title>
 </programme>
-<programme start="20251022200000 +0000" stop="20251022210000 +0000" channel="Balticum Platinum HD.cgates">
-    <title>Šeimininkas</title>
+<programme start="20251023211500 +0000" stop="20251023232000 +0000" channel="LRT Lituanica.cgates">
+    <title>Laba diena, Lietuva</title>
 </programme>
 <programme start="20251022210000 +0000" stop="20251022220000 +0000" channel="Balticum Platinum HD.cgates">
     <title>Šeimininkas</title>
@@ -12688,9 +12685,6 @@
 <programme start="20251023201400 +0000" stop="20251024034500 +0000" channel="Smartzone HD.cgates">
     <title>SmartMix</title>
 </programme>
-<programme start="20251022200000 +0000" stop="20251022210000 +0000" channel="Discovery Channel HD.cgates">
-    <title>Fast n Loud</title>
-</programme>
 <programme start="20251022210000 +0000" stop="20251022220000 +0000" channel="Discovery Channel HD.cgates">
     <title>Edge of Alaska</title>
 </programme>
@@ -12766,11 +12760,8 @@
 <programme start="20251023190000 +0000" stop="20251023210000 +0000" channel="Discovery Channel HD.cgates">
     <title>Homestead Rescue</title>
 </programme>
-<programme start="20251022203000 +0000" stop="20251022204500 +0000" channel="TVP Wilno.cgates">
-    <title>Info Wilno</title>
-</programme>
-<programme start="20251022204500 +0000" stop="20251022210500 +0000" channel="TVP Wilno.cgates">
-    <title>Studio Wilno</title>
+<programme start="20251023210000 +0000" stop="20251023220000 +0000" channel="Discovery Channel HD.cgates">
+    <title>Edge of Alaska</title>
 </programme>
 <programme start="20251022210500 +0000" stop="20251022215500 +0000" channel="TVP Wilno.cgates">
     <title>Sensacje XX wieku</title>
@@ -12949,8 +12940,11 @@
 <programme start="20251023203000 +0000" stop="20251023204500 +0000" channel="TVP Wilno.cgates">
     <title>Info Wilno</title>
 </programme>
-<programme start="20251022200000 +0000" stop="20251022210000 +0000" channel="HGTV HD.cgates">
-    <title>Bargain Block</title>
+<programme start="20251023204500 +0000" stop="20251023210500 +0000" channel="TVP Wilno.cgates">
+    <title>Studio Wilno</title>
+</programme>
+<programme start="20251023210500 +0000" stop="20251023215000 +0000" channel="TVP Wilno.cgates">
+    <title>Sensacje XX wieku</title>
 </programme>
 <programme start="20251022210000 +0000" stop="20251022213000 +0000" channel="HGTV HD.cgates">
     <title>Cheap Old Houses</title>
@@ -13057,6 +13051,9 @@
 <programme start="20251023200000 +0000" stop="20251023210000 +0000" channel="HGTV HD.cgates">
     <title>Fix My Flip</title>
 </programme>
+<programme start="20251023210000 +0000" stop="20251023220000 +0000" channel="HGTV HD.cgates">
+    <title>Fix My Frankenhouse</title>
+</programme>
 <programme start="20251022193000 +0000" stop="20251022214500 +0000" channel="LNK HD.cgates">
     <title>Marlou</title>
 </programme>
@@ -13143,9 +13140,6 @@
 </programme>
 <programme start="20251023193000 +0000" stop="20251023212500 +0000" channel="LNK HD.cgates">
     <title>Motinos instinktas</title>
-</programme>
-<programme start="20251022200000 +0000" stop="20251022210000 +0000" channel="Vivid touch.cgates">
-    <title>Tell Me Whatss Your Flavour</title>
 </programme>
 <programme start="20251022210000 +0000" stop="20251022220000 +0000" channel="Vivid touch.cgates">
     <title>My First Lesbian Experience</title>
@@ -13237,8 +13231,8 @@
 <programme start="20251023200000 +0000" stop="20251023210000 +0000" channel="Vivid touch.cgates">
     <title>Lesbian Romance</title>
 </programme>
-<programme start="20251022200000 +0000" stop="20251022210000 +0000" channel="Inter.cgates">
-    <title>Реалии. Все о войне</title>
+<programme start="20251023210000 +0000" stop="20251023220000 +0000" channel="Vivid touch.cgates">
+    <title>Spoiled Brats</title>
 </programme>
 <programme start="20251022210000 +0000" stop="20251022230000 +0000" channel="Inter.cgates">
     <title>Ночной эфир</title>
@@ -13336,6 +13330,9 @@
 <programme start="20251023200000 +0000" stop="20251023210000 +0000" channel="Inter.cgates">
     <title>Реалии. Все о войне</title>
 </programme>
+<programme start="20251023210000 +0000" stop="20251023230000 +0000" channel="Inter.cgates">
+    <title>Ночной эфир</title>
+</programme>
 <programme start="20251022203000 +0000" stop="20251022213000 +0000" channel="1 Plus 2.cgates">
     <title>Властители</title>
 </programme>
@@ -13428,6 +13425,9 @@
 </programme>
 <programme start="20251023193000 +0000" stop="20251023204000 +0000" channel="1 Plus 2.cgates">
     <title>Врачи</title>
+</programme>
+<programme start="20251023204000 +0000" stop="20251023213000 +0000" channel="1 Plus 2.cgates">
+    <title>Властители</title>
 </programme>
 <programme start="20251022200000 +0000" stop="20251023033000 +0000" channel="TV3 Plus.cgates">
     <title>Alkio skonis</title>
@@ -13522,8 +13522,8 @@
 <programme start="20251023200000 +0000" stop="20251023210000 +0000" channel="1.cgates">
     <title>FIA World Rally Championship. Central European Rally Event Highlight Show</title>
 </programme>
-<programme start="20251022200800 +0000" stop="20251022211900 +0000" channel="Barely legal.cgates">
-    <title>20YO Booty Babes Lovin</title>
+<programme start="20251023210000 +0000" stop="20251023233000 +0000" channel="1.cgates">
+    <title>Basketball: NBA. Knicks - Cavaliers</title>
 </programme>
 <programme start="20251022211900 +0000" stop="20251022222300 +0000" channel="Barely legal.cgates">
     <title>Barely Legal 150!</title>
@@ -13584,12 +13584,6 @@
 </programme>
 <programme start="20251023203100 +0000" stop="20251023215500 +0000" channel="Barely legal.cgates">
     <title>18YOs: Big Boobs &amp; Plaid Skirts</title>
-</programme>
-<programme start="20251022201500 +0000" stop="20251022204000 +0000" channel="Sol TV.cgates">
-    <title>Готовим с сёрфингистами</title>
-</programme>
-<programme start="20251022204000 +0000" stop="20251022211000 +0000" channel="Sol TV.cgates">
-    <title>На деревенской кухне</title>
 </programme>
 <programme start="20251022211000 +0000" stop="20251022221000 +0000" channel="Sol TV.cgates">
     <title>Кулинарные жемчужины Европы</title>
@@ -13729,11 +13723,8 @@
 <programme start="20251023203000 +0000" stop="20251023205500 +0000" channel="Sol TV.cgates">
     <title>Готовим с сёрфингистами</title>
 </programme>
-<programme start="20251022203000 +0000" stop="20251022205500 +0000" channel="Chemodan TV.cgates">
-    <title>Самобытные культуры</title>
-</programme>
-<programme start="20251022205500 +0000" stop="20251022212000 +0000" channel="Chemodan TV.cgates">
-    <title>Самые опасные путешествия</title>
+<programme start="20251023205500 +0000" stop="20251023212500 +0000" channel="Sol TV.cgates">
+    <title>На деревенской кухне</title>
 </programme>
 <programme start="20251022212000 +0000" stop="20251022221500 +0000" channel="Chemodan TV.cgates">
     <title>Приключения серфера. Блестящие уголки</title>
@@ -13858,8 +13849,11 @@
 <programme start="20251023194500 +0000" stop="20251023203500 +0000" channel="Chemodan TV.cgates">
     <title>Деревня года</title>
 </programme>
-<programme start="20251022201000 +0000" stop="20251022205500 +0000" channel="Kino 1.cgates">
-    <title>Pека страсти</title>
+<programme start="20251023203500 +0000" stop="20251023210000 +0000" channel="Chemodan TV.cgates">
+    <title>Самобытные культуры</title>
+</programme>
+<programme start="20251023210000 +0000" stop="20251023212500 +0000" channel="Chemodan TV.cgates">
+    <title>Самые опасные путешествия</title>
 </programme>
 <programme start="20251022205500 +0000" stop="20251022214000 +0000" channel="Kino 1.cgates">
     <title>Pека страсти</title>
@@ -13957,8 +13951,8 @@
 <programme start="20251023201500 +0000" stop="20251023210000 +0000" channel="Kino 1.cgates">
     <title>Pека страсти</title>
 </programme>
-<programme start="20251022203000 +0000" stop="20251022210000 +0000" channel="Sport 1 Baltic.cgates">
-    <title>Автоспорт. FastZone</title>
+<programme start="20251023210000 +0000" stop="20251023214000 +0000" channel="Kino 1.cgates">
+    <title>Голос свободы</title>
 </programme>
 <programme start="20251022210000 +0000" stop="20251022230000 +0000" channel="Sport 1 Baltic.cgates">
     <title>Футбол. Лига Чемпионов. Азия. Аль-Шорта (Ирк) - Аль-Иттихад (СА)</title>
@@ -14002,8 +13996,8 @@
 <programme start="20251023185000 +0000" stop="20251023210000 +0000" channel="Sport 1 Baltic.cgates">
     <title>Кулачные бои. BKFC Fight Night. BKFC Fight Night</title>
 </programme>
-<programme start="20251022200000 +0000" stop="20251022210000 +0000" channel="Sport 2 Baltic.cgates">
-    <title>Бокс: Чемпионат мира WBA. Вернон Форрест - Шейн Мосли</title>
+<programme start="20251023210000 +0000" stop="20251023230000 +0000" channel="Sport 1 Baltic.cgates">
+    <title>Футбол. Вторая Лига чемпионов АФК. Аль-Ахли (Кат) - Аркадаг (Тур)</title>
 </programme>
 <programme start="20251022210000 +0000" stop="20251022225000 +0000" channel="Sport 2 Baltic.cgates">
     <title>Футбол. Чемпионат Латвии. Высшая лига. РФШ - Метта</title>
@@ -14041,11 +14035,8 @@
 <programme start="20251023190000 +0000" stop="20251023210000 +0000" channel="Sport 2 Baltic.cgates">
     <title>Футбол. Лига Чемпионов. Азия. Чэнду (Кит) - Джохор (Мал)</title>
 </programme>
-<programme start="20251022190000 +0000" stop="20251022210000 +0000" channel="Sport 4.cgates">
-    <title>Ibf. Джоан Гузман - Али Фунека</title>
-</programme>
-<programme start="20251022210000 +0000" stop="20251022211000 +0000" channel="Sport 4.cgates">
-    <title>Бокс. Хулио Сесар Чавес - Адам Вайтнет</title>
+<programme start="20251023210000 +0000" stop="20251024001000 +0000" channel="Sport 2 Baltic.cgates">
+    <title>Бокс: Чемпионат мира WBA. Вернон Форрест - Шейн Мосли</title>
 </programme>
 <programme start="20251022211000 +0000" stop="20251022214500 +0000" channel="Sport 4.cgates">
     <title>Бокс. Хесус Гонсалес - Дюмонт Велливер</title>
@@ -14158,6 +14149,12 @@
 <programme start="20251023195000 +0000" stop="20251023210000 +0000" channel="Sport 4.cgates">
     <title>Бокс. Артур Абрахам - Жермейн Тейлор</title>
 </programme>
+<programme start="20251023210000 +0000" stop="20251023212000 +0000" channel="Sport 4.cgates">
+    <title>Бокс. Агнешка Рылик - Тонья Фриман</title>
+</programme>
+<programme start="20251023212000 +0000" stop="20251023215500 +0000" channel="Sport 4.cgates">
+    <title>Бокс. Джон Дадди - Патрик Томпсон</title>
+</programme>
 <programme start="20251022201000 +0000" stop="20251022215500 +0000" channel="Kvartal TV.cgates">
     <title>Киев вечерний</title>
 </programme>
@@ -14220,9 +14217,6 @@
 </programme>
 <programme start="20251023195000 +0000" stop="20251023215000 +0000" channel="Kvartal TV.cgates">
     <title>Киев вечерний</title>
-</programme>
-<programme start="20251022195000 +0000" stop="20251022204500 +0000" channel="Super Baltic.cgates">
-    <title>Агенты справедливости</title>
 </programme>
 <programme start="20251022204500 +0000" stop="20251022213500 +0000" channel="Super Baltic.cgates">
     <title>Агенты справедливости</title>
@@ -14308,11 +14302,8 @@
 <programme start="20251023195000 +0000" stop="20251023204000 +0000" channel="Super Baltic.cgates">
     <title>Агенты справедливости</title>
 </programme>
-<programme start="20251022201000 +0000" stop="20251022203500 +0000" channel="Super Plus.cgates">
-    <title>СашаТаня</title>
-</programme>
-<programme start="20251022203500 +0000" stop="20251022210000 +0000" channel="Super Plus.cgates">
-    <title>СашаТаня</title>
+<programme start="20251023204000 +0000" stop="20251023214000 +0000" channel="Super Baltic.cgates">
+    <title>Агенты справедливости</title>
 </programme>
 <programme start="20251022210000 +0000" stop="20251022213000 +0000" channel="Super Plus.cgates">
     <title>СашаТаня</title>
@@ -14398,8 +14389,11 @@
 <programme start="20251023202000 +0000" stop="20251023205000 +0000" channel="Super Plus.cgates">
     <title>СашаТаня</title>
 </programme>
-<programme start="20251022183500 +0000" stop="20251022204500 +0000" channel="2.cgates">
-    <title>Basketball: BCL. Joventut - Bursaspor</title>
+<programme start="20251023205000 +0000" stop="20251023211000 +0000" channel="Super Plus.cgates">
+    <title>СашаТаня</title>
+</programme>
+<programme start="20251023211000 +0000" stop="20251023214000 +0000" channel="Super Plus.cgates">
+    <title>СашаТаня</title>
 </programme>
 <programme start="20251022204500 +0000" stop="20251022224000 +0000" channel="2.cgates">
     <title>Ice Hockey: Switzerland National League. Lugano - ZSC Lions</title>
@@ -14446,23 +14440,8 @@
 <programme start="20251023184500 +0000" stop="20251023210000 +0000" channel="2.cgates">
     <title>Basketball: EuroLeague. Crvena Zvezda - Baskonia</title>
 </programme>
-<programme start="20251022202600 +0000" stop="20251022203200 +0000" channel="3.cgates">
-    <title>Caillous New Adventures</title>
-</programme>
-<programme start="20251022203200 +0000" stop="20251022204000 +0000" channel="3.cgates">
-    <title>Caillous New Adventures</title>
-</programme>
-<programme start="20251022204000 +0000" stop="20251022205200 +0000" channel="3.cgates">
-    <title>Milo</title>
-</programme>
-<programme start="20251022205200 +0000" stop="20251022210500 +0000" channel="3.cgates">
-    <title>Milo</title>
-</programme>
-<programme start="20251022210500 +0000" stop="20251022211000 +0000" channel="3.cgates">
-    <title>Berry and Dolly</title>
-</programme>
-<programme start="20251022211000 +0000" stop="20251022211700 +0000" channel="3.cgates">
-    <title>Berry and Dolly</title>
+<programme start="20251023210000 +0000" stop="20251023230000 +0000" channel="2.cgates">
+    <title>Basketball: EuroLeague. Maccabi - Real Madrid</title>
 </programme>
 <programme start="20251022211700 +0000" stop="20251022212400 +0000" channel="3.cgates">
     <title>Sam &amp; Julia</title>
@@ -14845,6 +14824,24 @@
 <programme start="20251023202600 +0000" stop="20251023203200 +0000" channel="3.cgates">
     <title>Caillous New Adventures</title>
 </programme>
+<programme start="20251023203200 +0000" stop="20251023204000 +0000" channel="3.cgates">
+    <title>Caillous New Adventures</title>
+</programme>
+<programme start="20251023204000 +0000" stop="20251023205200 +0000" channel="3.cgates">
+    <title>Milo</title>
+</programme>
+<programme start="20251023205200 +0000" stop="20251023210500 +0000" channel="3.cgates">
+    <title>Milo</title>
+</programme>
+<programme start="20251023210500 +0000" stop="20251023211000 +0000" channel="3.cgates">
+    <title>Berry and Dolly</title>
+</programme>
+<programme start="20251023211000 +0000" stop="20251023211700 +0000" channel="3.cgates">
+    <title>Berry and Dolly</title>
+</programme>
+<programme start="20251023211700 +0000" stop="20251023212400 +0000" channel="3.cgates">
+    <title>Sam &amp; Julia</title>
+</programme>
 <programme start="20251022200500 +0000" stop="20251022220000 +0000" channel="4.cgates">
     <title>Krepšinio čempionų lyga. &quot;Rytas&quot; - &quot;Promitheas&quot;</title>
 </programme>
@@ -14886,24 +14883,6 @@
 </programme>
 <programme start="20251023203000 +0000" stop="20251023212500 +0000" channel="4.cgates">
     <title>NHL</title>
-</programme>
-<programme start="20251022202600 +0000" stop="20251022203200 +0000" channel="5.cgates">
-    <title>Caillous New Adventures</title>
-</programme>
-<programme start="20251022203200 +0000" stop="20251022204000 +0000" channel="5.cgates">
-    <title>Caillous New Adventures</title>
-</programme>
-<programme start="20251022204000 +0000" stop="20251022205200 +0000" channel="5.cgates">
-    <title>Milo</title>
-</programme>
-<programme start="20251022205200 +0000" stop="20251022210500 +0000" channel="5.cgates">
-    <title>Milo</title>
-</programme>
-<programme start="20251022210500 +0000" stop="20251022211000 +0000" channel="5.cgates">
-    <title>Berry and Dolly</title>
-</programme>
-<programme start="20251022211000 +0000" stop="20251022211700 +0000" channel="5.cgates">
-    <title>Berry and Dolly</title>
 </programme>
 <programme start="20251022211700 +0000" stop="20251022212400 +0000" channel="5.cgates">
     <title>Sam &amp; Julia</title>
@@ -15286,23 +15265,23 @@
 <programme start="20251023202600 +0000" stop="20251023203200 +0000" channel="5.cgates">
     <title>Caillous New Adventures</title>
 </programme>
-<programme start="20251022202600 +0000" stop="20251022203200 +0000" channel="6.cgates">
+<programme start="20251023203200 +0000" stop="20251023204000 +0000" channel="5.cgates">
     <title>Caillous New Adventures</title>
 </programme>
-<programme start="20251022203200 +0000" stop="20251022204000 +0000" channel="6.cgates">
-    <title>Caillous New Adventures</title>
-</programme>
-<programme start="20251022204000 +0000" stop="20251022205200 +0000" channel="6.cgates">
+<programme start="20251023204000 +0000" stop="20251023205200 +0000" channel="5.cgates">
     <title>Milo</title>
 </programme>
-<programme start="20251022205200 +0000" stop="20251022210500 +0000" channel="6.cgates">
+<programme start="20251023205200 +0000" stop="20251023210500 +0000" channel="5.cgates">
     <title>Milo</title>
 </programme>
-<programme start="20251022210500 +0000" stop="20251022211000 +0000" channel="6.cgates">
+<programme start="20251023210500 +0000" stop="20251023211000 +0000" channel="5.cgates">
     <title>Berry and Dolly</title>
 </programme>
-<programme start="20251022211000 +0000" stop="20251022211700 +0000" channel="6.cgates">
+<programme start="20251023211000 +0000" stop="20251023211700 +0000" channel="5.cgates">
     <title>Berry and Dolly</title>
+</programme>
+<programme start="20251023211700 +0000" stop="20251023212400 +0000" channel="5.cgates">
+    <title>Sam &amp; Julia</title>
 </programme>
 <programme start="20251022211700 +0000" stop="20251022212400 +0000" channel="6.cgates">
     <title>Sam &amp; Julia</title>
@@ -15685,23 +15664,23 @@
 <programme start="20251023202600 +0000" stop="20251023203200 +0000" channel="6.cgates">
     <title>Caillous New Adventures</title>
 </programme>
-<programme start="20251022202600 +0000" stop="20251022203200 +0000" channel="7.cgates">
+<programme start="20251023203200 +0000" stop="20251023204000 +0000" channel="6.cgates">
     <title>Caillous New Adventures</title>
 </programme>
-<programme start="20251022203200 +0000" stop="20251022204000 +0000" channel="7.cgates">
-    <title>Caillous New Adventures</title>
-</programme>
-<programme start="20251022204000 +0000" stop="20251022205200 +0000" channel="7.cgates">
+<programme start="20251023204000 +0000" stop="20251023205200 +0000" channel="6.cgates">
     <title>Milo</title>
 </programme>
-<programme start="20251022205200 +0000" stop="20251022210500 +0000" channel="7.cgates">
+<programme start="20251023205200 +0000" stop="20251023210500 +0000" channel="6.cgates">
     <title>Milo</title>
 </programme>
-<programme start="20251022210500 +0000" stop="20251022211000 +0000" channel="7.cgates">
+<programme start="20251023210500 +0000" stop="20251023211000 +0000" channel="6.cgates">
     <title>Berry and Dolly</title>
 </programme>
-<programme start="20251022211000 +0000" stop="20251022211700 +0000" channel="7.cgates">
+<programme start="20251023211000 +0000" stop="20251023211700 +0000" channel="6.cgates">
     <title>Berry and Dolly</title>
+</programme>
+<programme start="20251023211700 +0000" stop="20251023212400 +0000" channel="6.cgates">
+    <title>Sam &amp; Julia</title>
 </programme>
 <programme start="20251022211700 +0000" stop="20251022212400 +0000" channel="7.cgates">
     <title>Sam &amp; Julia</title>
@@ -16084,23 +16063,23 @@
 <programme start="20251023202600 +0000" stop="20251023203200 +0000" channel="7.cgates">
     <title>Caillous New Adventures</title>
 </programme>
-<programme start="20251022202600 +0000" stop="20251022203200 +0000" channel="8.cgates">
+<programme start="20251023203200 +0000" stop="20251023204000 +0000" channel="7.cgates">
     <title>Caillous New Adventures</title>
 </programme>
-<programme start="20251022203200 +0000" stop="20251022204000 +0000" channel="8.cgates">
-    <title>Caillous New Adventures</title>
-</programme>
-<programme start="20251022204000 +0000" stop="20251022205200 +0000" channel="8.cgates">
+<programme start="20251023204000 +0000" stop="20251023205200 +0000" channel="7.cgates">
     <title>Milo</title>
 </programme>
-<programme start="20251022205200 +0000" stop="20251022210500 +0000" channel="8.cgates">
+<programme start="20251023205200 +0000" stop="20251023210500 +0000" channel="7.cgates">
     <title>Milo</title>
 </programme>
-<programme start="20251022210500 +0000" stop="20251022211000 +0000" channel="8.cgates">
+<programme start="20251023210500 +0000" stop="20251023211000 +0000" channel="7.cgates">
     <title>Berry and Dolly</title>
 </programme>
-<programme start="20251022211000 +0000" stop="20251022211700 +0000" channel="8.cgates">
+<programme start="20251023211000 +0000" stop="20251023211700 +0000" channel="7.cgates">
     <title>Berry and Dolly</title>
+</programme>
+<programme start="20251023211700 +0000" stop="20251023212400 +0000" channel="7.cgates">
+    <title>Sam &amp; Julia</title>
 </programme>
 <programme start="20251022211700 +0000" stop="20251022212400 +0000" channel="8.cgates">
     <title>Sam &amp; Julia</title>
@@ -16483,23 +16462,23 @@
 <programme start="20251023202600 +0000" stop="20251023203200 +0000" channel="8.cgates">
     <title>Caillous New Adventures</title>
 </programme>
-<programme start="20251022202600 +0000" stop="20251022203200 +0000" channel="9.cgates">
+<programme start="20251023203200 +0000" stop="20251023204000 +0000" channel="8.cgates">
     <title>Caillous New Adventures</title>
 </programme>
-<programme start="20251022203200 +0000" stop="20251022204000 +0000" channel="9.cgates">
-    <title>Caillous New Adventures</title>
-</programme>
-<programme start="20251022204000 +0000" stop="20251022205200 +0000" channel="9.cgates">
+<programme start="20251023204000 +0000" stop="20251023205200 +0000" channel="8.cgates">
     <title>Milo</title>
 </programme>
-<programme start="20251022205200 +0000" stop="20251022210500 +0000" channel="9.cgates">
+<programme start="20251023205200 +0000" stop="20251023210500 +0000" channel="8.cgates">
     <title>Milo</title>
 </programme>
-<programme start="20251022210500 +0000" stop="20251022211000 +0000" channel="9.cgates">
+<programme start="20251023210500 +0000" stop="20251023211000 +0000" channel="8.cgates">
     <title>Berry and Dolly</title>
 </programme>
-<programme start="20251022211000 +0000" stop="20251022211700 +0000" channel="9.cgates">
+<programme start="20251023211000 +0000" stop="20251023211700 +0000" channel="8.cgates">
     <title>Berry and Dolly</title>
+</programme>
+<programme start="20251023211700 +0000" stop="20251023212400 +0000" channel="8.cgates">
+    <title>Sam &amp; Julia</title>
 </programme>
 <programme start="20251022211700 +0000" stop="20251022212400 +0000" channel="9.cgates">
     <title>Sam &amp; Julia</title>
@@ -16882,23 +16861,23 @@
 <programme start="20251023202600 +0000" stop="20251023203200 +0000" channel="9.cgates">
     <title>Caillous New Adventures</title>
 </programme>
-<programme start="20251022202600 +0000" stop="20251022203200 +0000" channel="10.cgates">
+<programme start="20251023203200 +0000" stop="20251023204000 +0000" channel="9.cgates">
     <title>Caillous New Adventures</title>
 </programme>
-<programme start="20251022203200 +0000" stop="20251022204000 +0000" channel="10.cgates">
-    <title>Caillous New Adventures</title>
-</programme>
-<programme start="20251022204000 +0000" stop="20251022205200 +0000" channel="10.cgates">
+<programme start="20251023204000 +0000" stop="20251023205200 +0000" channel="9.cgates">
     <title>Milo</title>
 </programme>
-<programme start="20251022205200 +0000" stop="20251022210500 +0000" channel="10.cgates">
+<programme start="20251023205200 +0000" stop="20251023210500 +0000" channel="9.cgates">
     <title>Milo</title>
 </programme>
-<programme start="20251022210500 +0000" stop="20251022211000 +0000" channel="10.cgates">
+<programme start="20251023210500 +0000" stop="20251023211000 +0000" channel="9.cgates">
     <title>Berry and Dolly</title>
 </programme>
-<programme start="20251022211000 +0000" stop="20251022211700 +0000" channel="10.cgates">
+<programme start="20251023211000 +0000" stop="20251023211700 +0000" channel="9.cgates">
     <title>Berry and Dolly</title>
+</programme>
+<programme start="20251023211700 +0000" stop="20251023212400 +0000" channel="9.cgates">
+    <title>Sam &amp; Julia</title>
 </programme>
 <programme start="20251022211700 +0000" stop="20251022212400 +0000" channel="10.cgates">
     <title>Sam &amp; Julia</title>
@@ -17281,23 +17260,23 @@
 <programme start="20251023202600 +0000" stop="20251023203200 +0000" channel="10.cgates">
     <title>Caillous New Adventures</title>
 </programme>
-<programme start="20251022202600 +0000" stop="20251022203200 +0000" channel="11.cgates">
+<programme start="20251023203200 +0000" stop="20251023204000 +0000" channel="10.cgates">
     <title>Caillous New Adventures</title>
 </programme>
-<programme start="20251022203200 +0000" stop="20251022204000 +0000" channel="11.cgates">
-    <title>Caillous New Adventures</title>
-</programme>
-<programme start="20251022204000 +0000" stop="20251022205200 +0000" channel="11.cgates">
+<programme start="20251023204000 +0000" stop="20251023205200 +0000" channel="10.cgates">
     <title>Milo</title>
 </programme>
-<programme start="20251022205200 +0000" stop="20251022210500 +0000" channel="11.cgates">
+<programme start="20251023205200 +0000" stop="20251023210500 +0000" channel="10.cgates">
     <title>Milo</title>
 </programme>
-<programme start="20251022210500 +0000" stop="20251022211000 +0000" channel="11.cgates">
+<programme start="20251023210500 +0000" stop="20251023211000 +0000" channel="10.cgates">
     <title>Berry and Dolly</title>
 </programme>
-<programme start="20251022211000 +0000" stop="20251022211700 +0000" channel="11.cgates">
+<programme start="20251023211000 +0000" stop="20251023211700 +0000" channel="10.cgates">
     <title>Berry and Dolly</title>
+</programme>
+<programme start="20251023211700 +0000" stop="20251023212400 +0000" channel="10.cgates">
+    <title>Sam &amp; Julia</title>
 </programme>
 <programme start="20251022211700 +0000" stop="20251022212400 +0000" channel="11.cgates">
     <title>Sam &amp; Julia</title>
@@ -17680,23 +17659,23 @@
 <programme start="20251023202600 +0000" stop="20251023203200 +0000" channel="11.cgates">
     <title>Caillous New Adventures</title>
 </programme>
-<programme start="20251022202600 +0000" stop="20251022203200 +0000" channel="12.cgates">
+<programme start="20251023203200 +0000" stop="20251023204000 +0000" channel="11.cgates">
     <title>Caillous New Adventures</title>
 </programme>
-<programme start="20251022203200 +0000" stop="20251022204000 +0000" channel="12.cgates">
-    <title>Caillous New Adventures</title>
-</programme>
-<programme start="20251022204000 +0000" stop="20251022205200 +0000" channel="12.cgates">
+<programme start="20251023204000 +0000" stop="20251023205200 +0000" channel="11.cgates">
     <title>Milo</title>
 </programme>
-<programme start="20251022205200 +0000" stop="20251022210500 +0000" channel="12.cgates">
+<programme start="20251023205200 +0000" stop="20251023210500 +0000" channel="11.cgates">
     <title>Milo</title>
 </programme>
-<programme start="20251022210500 +0000" stop="20251022211000 +0000" channel="12.cgates">
+<programme start="20251023210500 +0000" stop="20251023211000 +0000" channel="11.cgates">
     <title>Berry and Dolly</title>
 </programme>
-<programme start="20251022211000 +0000" stop="20251022211700 +0000" channel="12.cgates">
+<programme start="20251023211000 +0000" stop="20251023211700 +0000" channel="11.cgates">
     <title>Berry and Dolly</title>
+</programme>
+<programme start="20251023211700 +0000" stop="20251023212400 +0000" channel="11.cgates">
+    <title>Sam &amp; Julia</title>
 </programme>
 <programme start="20251022211700 +0000" stop="20251022212400 +0000" channel="12.cgates">
     <title>Sam &amp; Julia</title>
@@ -18079,23 +18058,23 @@
 <programme start="20251023202600 +0000" stop="20251023203200 +0000" channel="12.cgates">
     <title>Caillous New Adventures</title>
 </programme>
-<programme start="20251022202600 +0000" stop="20251022203200 +0000" channel="13.cgates">
+<programme start="20251023203200 +0000" stop="20251023204000 +0000" channel="12.cgates">
     <title>Caillous New Adventures</title>
 </programme>
-<programme start="20251022203200 +0000" stop="20251022204000 +0000" channel="13.cgates">
-    <title>Caillous New Adventures</title>
-</programme>
-<programme start="20251022204000 +0000" stop="20251022205200 +0000" channel="13.cgates">
+<programme start="20251023204000 +0000" stop="20251023205200 +0000" channel="12.cgates">
     <title>Milo</title>
 </programme>
-<programme start="20251022205200 +0000" stop="20251022210500 +0000" channel="13.cgates">
+<programme start="20251023205200 +0000" stop="20251023210500 +0000" channel="12.cgates">
     <title>Milo</title>
 </programme>
-<programme start="20251022210500 +0000" stop="20251022211000 +0000" channel="13.cgates">
+<programme start="20251023210500 +0000" stop="20251023211000 +0000" channel="12.cgates">
     <title>Berry and Dolly</title>
 </programme>
-<programme start="20251022211000 +0000" stop="20251022211700 +0000" channel="13.cgates">
+<programme start="20251023211000 +0000" stop="20251023211700 +0000" channel="12.cgates">
     <title>Berry and Dolly</title>
+</programme>
+<programme start="20251023211700 +0000" stop="20251023212400 +0000" channel="12.cgates">
+    <title>Sam &amp; Julia</title>
 </programme>
 <programme start="20251022211700 +0000" stop="20251022212400 +0000" channel="13.cgates">
     <title>Sam &amp; Julia</title>
@@ -18478,23 +18457,23 @@
 <programme start="20251023202600 +0000" stop="20251023203200 +0000" channel="13.cgates">
     <title>Caillous New Adventures</title>
 </programme>
-<programme start="20251022202600 +0000" stop="20251022203200 +0000" channel="14.cgates">
+<programme start="20251023203200 +0000" stop="20251023204000 +0000" channel="13.cgates">
     <title>Caillous New Adventures</title>
 </programme>
-<programme start="20251022203200 +0000" stop="20251022204000 +0000" channel="14.cgates">
-    <title>Caillous New Adventures</title>
-</programme>
-<programme start="20251022204000 +0000" stop="20251022205200 +0000" channel="14.cgates">
+<programme start="20251023204000 +0000" stop="20251023205200 +0000" channel="13.cgates">
     <title>Milo</title>
 </programme>
-<programme start="20251022205200 +0000" stop="20251022210500 +0000" channel="14.cgates">
+<programme start="20251023205200 +0000" stop="20251023210500 +0000" channel="13.cgates">
     <title>Milo</title>
 </programme>
-<programme start="20251022210500 +0000" stop="20251022211000 +0000" channel="14.cgates">
+<programme start="20251023210500 +0000" stop="20251023211000 +0000" channel="13.cgates">
     <title>Berry and Dolly</title>
 </programme>
-<programme start="20251022211000 +0000" stop="20251022211700 +0000" channel="14.cgates">
+<programme start="20251023211000 +0000" stop="20251023211700 +0000" channel="13.cgates">
     <title>Berry and Dolly</title>
+</programme>
+<programme start="20251023211700 +0000" stop="20251023212400 +0000" channel="13.cgates">
+    <title>Sam &amp; Julia</title>
 </programme>
 <programme start="20251022211700 +0000" stop="20251022212400 +0000" channel="14.cgates">
     <title>Sam &amp; Julia</title>
@@ -18877,14 +18856,23 @@
 <programme start="20251023202600 +0000" stop="20251023203200 +0000" channel="14.cgates">
     <title>Caillous New Adventures</title>
 </programme>
-<programme start="20251022201000 +0000" stop="20251022203500 +0000" channel="Disney channel.cgates">
-    <title>Kiff</title>
+<programme start="20251023203200 +0000" stop="20251023204000 +0000" channel="14.cgates">
+    <title>Caillous New Adventures</title>
 </programme>
-<programme start="20251022203500 +0000" stop="20251022210000 +0000" channel="Disney channel.cgates">
-    <title>Kiff</title>
+<programme start="20251023204000 +0000" stop="20251023205200 +0000" channel="14.cgates">
+    <title>Milo</title>
 </programme>
-<programme start="20251022210000 +0000" stop="20251022212000 +0000" channel="Disney channel.cgates">
-    <title>Phineas and Ferb</title>
+<programme start="20251023205200 +0000" stop="20251023210500 +0000" channel="14.cgates">
+    <title>Milo</title>
+</programme>
+<programme start="20251023210500 +0000" stop="20251023211000 +0000" channel="14.cgates">
+    <title>Berry and Dolly</title>
+</programme>
+<programme start="20251023211000 +0000" stop="20251023211700 +0000" channel="14.cgates">
+    <title>Berry and Dolly</title>
+</programme>
+<programme start="20251023211700 +0000" stop="20251023212400 +0000" channel="14.cgates">
+    <title>Sam &amp; Julia</title>
 </programme>
 <programme start="20251022212000 +0000" stop="20251022214000 +0000" channel="Disney channel.cgates">
     <title>Phineas and Ferb</title>
@@ -19069,14 +19057,14 @@
 <programme start="20251023201000 +0000" stop="20251023203500 +0000" channel="Disney channel.cgates">
     <title>Kiff</title>
 </programme>
-<programme start="20251022203000 +0000" stop="20251022204000 +0000" channel="Disney Jr.cgates">
-    <title>Bluey</title>
+<programme start="20251023203500 +0000" stop="20251023210000 +0000" channel="Disney channel.cgates">
+    <title>Kiff</title>
 </programme>
-<programme start="20251022204000 +0000" stop="20251022205000 +0000" channel="Disney Jr.cgates">
-    <title>Bluey</title>
+<programme start="20251023210000 +0000" stop="20251023212000 +0000" channel="Disney channel.cgates">
+    <title>Phineas and Ferb</title>
 </programme>
-<programme start="20251022205000 +0000" stop="20251022210000 +0000" channel="Disney Jr.cgates">
-    <title>Bluey</title>
+<programme start="20251023212000 +0000" stop="20251023214000 +0000" channel="Disney channel.cgates">
+    <title>Phineas and Ferb</title>
 </programme>
 <programme start="20251022210000 +0000" stop="20251022213000 +0000" channel="Disney Jr.cgates">
     <title>PJ Masks</title>
@@ -19291,11 +19279,14 @@
 <programme start="20251023203000 +0000" stop="20251023204000 +0000" channel="Disney Jr.cgates">
     <title>Bluey</title>
 </programme>
-<programme start="20251022200700 +0000" stop="20251022203400 +0000" channel="Museum TV 4K.cgates">
-    <title>Sketchbook</title>
+<programme start="20251023204000 +0000" stop="20251023205000 +0000" channel="Disney Jr.cgates">
+    <title>Bluey</title>
 </programme>
-<programme start="20251022203400 +0000" stop="20251022203800 +0000" channel="Museum TV 4K.cgates">
-    <title>Graffiti World</title>
+<programme start="20251023205000 +0000" stop="20251023210000 +0000" channel="Disney Jr.cgates">
+    <title>Bluey</title>
+</programme>
+<programme start="20251023210000 +0000" stop="20251023213000 +0000" channel="Disney Jr.cgates">
+    <title>PJ Masks</title>
 </programme>
 <programme start="20251022203800 +0000" stop="20251022213100 +0000" channel="Museum TV 4K.cgates">
     <title>We are Artists not Vandals</title>
@@ -19516,8 +19507,8 @@
 <programme start="20251023201900 +0000" stop="20251023204000 +0000" channel="Museum TV 4K.cgates">
     <title>Within the Frame</title>
 </programme>
-<programme start="20251022190000 +0000" stop="20251022210000 +0000" channel="Setanta Sports 2.cgates">
-    <title>Football: Serie A. Roma - Hellas Verona</title>
+<programme start="20251023204000 +0000" stop="20251023213300 +0000" channel="Museum TV 4K.cgates">
+    <title>Photo Contest</title>
 </programme>
 <programme start="20251022210000 +0000" stop="20251022230000 +0000" channel="Setanta Sports 2.cgates">
     <title>Basketball: Lega Basket Serie A. Basket Napoli - Trieste</title>
@@ -19555,6 +19546,9 @@
 <programme start="20251023190000 +0000" stop="20251023210000 +0000" channel="Setanta Sports 2.cgates">
     <title>Football: Bundesliga. RB Leipzig - Hamburger SV</title>
 </programme>
+<programme start="20251023210000 +0000" stop="20251023230000 +0000" channel="Setanta Sports 2.cgates">
+    <title>English Football League Championship. QPR - Millwall</title>
+</programme>
 <programme start="20251022190000 +0000" stop="20251022212500 +0000" channel="Prime Fight.cgates">
     <title>Hexagone MMA</title>
 </programme>
@@ -19584,15 +19578,6 @@
 </programme>
 <programme start="20251023165500 +0000" stop="20251023213500 +0000" channel="Prime Fight.cgates">
     <title>MMA: Bushido. 93 In Vilnius</title>
-</programme>
-<programme start="20251022200500 +0000" stop="20251022205800 +0000" channel="LRT Radijas.cgates">
-    <title>Žvaigždės žiūri į žemę</title>
-</programme>
-<programme start="20251022205800 +0000" stop="20251022210000 +0000" channel="LRT Radijas.cgates">
-    <title>Lietuvos Respublikos himnas</title>
-</programme>
-<programme start="20251022210000 +0000" stop="20251022210500 +0000" channel="LRT Radijas.cgates">
-    <title>Žinios. Orai</title>
 </programme>
 <programme start="20251022210500 +0000" stop="20251022220000 +0000" channel="LRT Radijas.cgates">
     <title>Džiazuojanti istorija</title>
@@ -19753,14 +19738,14 @@
 <programme start="20251023200500 +0000" stop="20251023205800 +0000" channel="LRT Radijas.cgates">
     <title>Žvaigždės žiūri į žemę</title>
 </programme>
-<programme start="20251022200000 +0000" stop="20251022205200 +0000" channel="LRT Klasika.cgates">
-    <title>Intermezzo</title>
+<programme start="20251023205800 +0000" stop="20251023210000 +0000" channel="LRT Radijas.cgates">
+    <title>Lietuvos Respublikos himnas</title>
 </programme>
-<programme start="20251022205200 +0000" stop="20251022205500 +0000" channel="LRT Klasika.cgates">
-    <title>Vakaro lyrika</title>
+<programme start="20251023210000 +0000" stop="20251023210500 +0000" channel="LRT Radijas.cgates">
+    <title>Žinios. Orai</title>
 </programme>
-<programme start="20251022205500 +0000" stop="20251022210200 +0000" channel="LRT Klasika.cgates">
-    <title>Pakeliui su klasika</title>
+<programme start="20251023210500 +0000" stop="20251023212800 +0000" channel="LRT Radijas.cgates">
+    <title>Svarbus pokalbis</title>
 </programme>
 <programme start="20251022210200 +0000" stop="20251022214200 +0000" channel="LRT Klasika.cgates">
     <title>Tendencingai</title>
@@ -19876,8 +19861,14 @@
 <programme start="20251023200000 +0000" stop="20251023205200 +0000" channel="LRT Klasika.cgates">
     <title>Intermezzo</title>
 </programme>
-<programme start="20251022180000 +0000" stop="20251022210000 +0000" channel="LRT Opus.cgates">
-    <title>Vakaro fantazijos</title>
+<programme start="20251023205200 +0000" stop="20251023205500 +0000" channel="LRT Klasika.cgates">
+    <title>Vakaro lyrika</title>
+</programme>
+<programme start="20251023205500 +0000" stop="20251023210200 +0000" channel="LRT Klasika.cgates">
+    <title>Pakeliui su klasika</title>
+</programme>
+<programme start="20251023210200 +0000" stop="20251023215500 +0000" channel="LRT Klasika.cgates">
+    <title>Kultūros rentgenas</title>
 </programme>
 <programme start="20251022210000 +0000" stop="20251023030000 +0000" channel="LRT Opus.cgates">
     <title>Naktis su LRT OPUS</title>
@@ -19912,14 +19903,8 @@
 <programme start="20251023180000 +0000" stop="20251023210000 +0000" channel="LRT Opus.cgates">
     <title>Vakaro fantazijos</title>
 </programme>
-<programme start="20251022190000 +0000" stop="20251022204100 +0000" channel="TV5 Monde.cgates">
-    <title>Vie privée</title>
-</programme>
-<programme start="20251022204100 +0000" stop="20251022211200 +0000" channel="TV5 Monde.cgates">
-    <title>L&#039;actu news</title>
-</programme>
-<programme start="20251022211200 +0000" stop="20251022211600 +0000" channel="TV5 Monde.cgates">
-    <title>Météo</title>
+<programme start="20251023210000 +0000" stop="20251024030000 +0000" channel="LRT Opus.cgates">
+    <title>Naktis su LRT OPUS</title>
 </programme>
 <programme start="20251022211600 +0000" stop="20251022230300 +0000" channel="TV5 Monde.cgates">
     <title>La Mif</title>
@@ -20118,4 +20103,10 @@
 </programme>
 <programme start="20251023195200 +0000" stop="20251023204400 +0000" channel="TV5 Monde.cgates">
     <title>Vaincre l&#039;impossible</title>
+</programme>
+<programme start="20251023204400 +0000" stop="20251023211500 +0000" channel="TV5 Monde.cgates">
+    <title>L&#039;actu news</title>
+</programme>
+<programme start="20251023211500 +0000" stop="20251023225500 +0000" channel="TV5 Monde.cgates">
+    <title>Envoyé spécial</title>
 </programme>
