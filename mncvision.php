@@ -4066,14 +4066,11 @@
 <programme start="20251023040000 +0000" stop="20251023070000 +0000" channel="GTV.mncvision">
     <title>SpongeBob SquarePants Movie</title>
 </programme>
-<programme start="20251023070000 +0000" stop="20251023080000 +0000" channel="GTV.mncvision">
+<programme start="20251023070000 +0000" stop="20251023090000 +0000" channel="GTV.mncvision">
     <title>Lets Get Wet</title>
 </programme>
-<programme start="20251023080000 +0000" stop="20251023090000 +0000" channel="GTV.mncvision">
-    <title>Baper</title>
-</programme>
 <programme start="20251023090000 +0000" stop="20251023093000 +0000" channel="GTV.mncvision">
-    <title>The Helping Heroes</title>
+    <title>Dadudido</title>
 </programme>
 <programme start="20251023093000 +0000" stop="20251023110000 +0000" channel="GTV.mncvision">
     <title>SpongeBob SquarePants Movie</title>
@@ -4117,14 +4114,11 @@
 <programme start="20251023040000 +0000" stop="20251023070000 +0000" channel="GTV HD.mncvision">
     <title>SpongeBob SquarePants Movie</title>
 </programme>
-<programme start="20251023070000 +0000" stop="20251023080000 +0000" channel="GTV HD.mncvision">
+<programme start="20251023070000 +0000" stop="20251023090000 +0000" channel="GTV HD.mncvision">
     <title>Lets Get Wet</title>
 </programme>
-<programme start="20251023080000 +0000" stop="20251023090000 +0000" channel="GTV HD.mncvision">
-    <title>Baper</title>
-</programme>
 <programme start="20251023090000 +0000" stop="20251023093000 +0000" channel="GTV HD.mncvision">
-    <title>The Helping Heroes</title>
+    <title>Dadudido</title>
 </programme>
 <programme start="20251023093000 +0000" stop="20251023110000 +0000" channel="GTV HD.mncvision">
     <title>SpongeBob SquarePants Movie</title>

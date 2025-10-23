@@ -2083,8 +2083,11 @@
     <programme start="20251023130000 +0000" stop="20251023140000 +0000" channel="beIN Sports 3.starhub">
         <title>Wed,MD3</title>
     </programme>
-    <programme start="20251023140000 +0000" stop="20251023160000 +0000" channel="beIN Sports 3.starhub">
-        <title>UEFA Champions League 2025/26 Real Madrid vs Juventus - MD3</title>
+    <programme start="20251023140000 +0000" stop="20251023142500 +0000" channel="beIN Sports 3.starhub">
+        <title>UCL Every Goal - Karim Benzema</title>
+    </programme>
+    <programme start="20251023142500 +0000" stop="20251023164000 +0000" channel="beIN Sports 3.starhub">
+        <title>UEFA Europa League 2025/26 Feyenoord vs Panathinaikos - MD3 (Live)</title>
     </programme>
     <programme start="20251022153000 +0000" stop="20251022163000 +0000" channel="Sun Music.starhub">
         <title>Non Stop Hits</title>
@@ -8353,7 +8356,7 @@
     <programme start="20251023151000 +0000" stop="20251023153500 +0000" channel="Dragon TV.starhub">
         <title>New Entertainment</title>
     </programme>
-    <programme start="20251023153500 +0000" stop="20251023170000 +0000" channel="Dragon TV.starhub">
+    <programme start="20251023153500 +0000" stop="20251023160000 +0000" channel="Dragon TV.starhub">
         <title>CARE ON THE WAY</title>
     </programme>
     <programme start="20251022160000 +0000" stop="20251022163000 +0000" channel="Travelxp HD.starhub">
