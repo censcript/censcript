@@ -2764,7 +2764,7 @@
 <programme start="20251023163500 +0000" stop="20251023185000 +0000" channel="Sky Sport Austria 8 HD.skyde">
     <title>Live UEFA EL: Feyenoord Rotterdam - Panathinaikos Athen, Ligaphase, 2. Spieltag</title>
 </programme>
-<programme start="20251023185000 +0000" stop="20251023210000 +0000" channel="Sky Sport Austria 8 HD.skyde">
+<programme start="20251023185000 +0000" stop="20251023213000 +0000" channel="Sky Sport Austria 8 HD.skyde">
     <title>Live UEFA EL: LOSC Lille - PAOK Saloniki, Ligaphase, 3. Spieltag</title>
 </programme>
 <programme start="20251022220000 +0000" stop="20251022223000 +0000" channel="Sky Sport Bundesliga HD.skyde">
