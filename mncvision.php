@@ -1369,14 +1369,11 @@
 <programme start="20251023130000 +0000" stop="20251023140000 +0000" channel="beIN Sports 3.mncvision">
     <title>UCL Highlights 2025/26</title>
 </programme>
-<programme start="20251023140000 +0000" stop="20251023160000 +0000" channel="beIN Sports 3.mncvision">
-    <title>UCL 2025/26: RMA Vs JUV</title>
+<programme start="20251023140000 +0000" stop="20251023142500 +0000" channel="beIN Sports 3.mncvision">
+    <title>UCL Specials: Karim Benzema</title>
 </programme>
-<programme start="20251023160000 +0000" stop="20251023163000 +0000" channel="beIN Sports 3.mncvision">
-    <title>The Outdoor Sports Show 2025</title>
-</programme>
-<programme start="20251023163000 +0000" stop="20251023164000 +0000" channel="beIN Sports 3.mncvision">
-    <title>UCL Classic Matches: BAR Vs SHK</title>
+<programme start="20251023142500 +0000" stop="20251023164000 +0000" channel="beIN Sports 3.mncvision">
+    <title>UEL 2025/26: FEY Vs PAO (L)</title>
 </programme>
 <programme start="20251023164000 +0000" stop="20251022171000 +0000" channel="beIN Sports 3.mncvision">
     <title>UEL 2025/26: FEN Vs VFB (L)</title>
@@ -1423,14 +1420,11 @@
 <programme start="20251023130000 +0000" stop="20251023140000 +0000" channel="beIN Sports 3 HD.mncvision">
     <title>UCL Highlights 2025/26</title>
 </programme>
-<programme start="20251023140000 +0000" stop="20251023160000 +0000" channel="beIN Sports 3 HD.mncvision">
-    <title>UCL 2025/26: RMA Vs JUV</title>
+<programme start="20251023140000 +0000" stop="20251023142500 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>UCL Specials: Karim Benzema</title>
 </programme>
-<programme start="20251023160000 +0000" stop="20251023163000 +0000" channel="beIN Sports 3 HD.mncvision">
-    <title>The Outdoor Sports Show 2025</title>
-</programme>
-<programme start="20251023163000 +0000" stop="20251023164000 +0000" channel="beIN Sports 3 HD.mncvision">
-    <title>UCL Classic Matches: BAR Vs SHK</title>
+<programme start="20251023142500 +0000" stop="20251023164000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>UEL 2025/26: FEY Vs PAO (L)</title>
 </programme>
 <programme start="20251023164000 +0000" stop="20251022171000 +0000" channel="beIN Sports 3 HD.mncvision">
     <title>UEL 2025/26: FEN Vs VFB (L)</title>
@@ -9218,7 +9212,7 @@
     <title>Kabar Hari Ini</title>
 </programme>
 <programme start="20251022210000 +0000" stop="20251022213000 +0000" channel="tvOne.mncvision">
-    <title>Kabar Arena Pagi </title>
+    <title>Kabar Arena Pagi</title>
 </programme>
 <programme start="20251022213000 +0000" stop="20251022230000 +0000" channel="tvOne.mncvision">
     <title>Kabar Pagi (L)</title>

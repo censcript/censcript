@@ -70,11 +70,11 @@
     <title>Serie A Full Impact 2025-26 E7</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251023220000 +0700" stop="20251023234500 +0700" channel="COSMOTE Sport 2 HD">
-    <title>European Football Show 2025 -26 (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20251023220000 +0700" stop="20251023223000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Sports Classics: My Sporting Moment</title>
+    <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251023234500 +0700" stop="20251024020000 +0700" channel="COSMOTE Sport 2 HD">
+<programme start="20251023223000 +0700" stop="20251024020000 +0700" channel="COSMOTE Sport 2 HD">
     <title>European Football Show Greek Edition 2025-26 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
@@ -114,6 +114,10 @@
     <title>Football: AEK - Aberdeen</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251024170500 +0700" stop="20251024190500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: SC Freiburg - Utrecht</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251023153000 +0700" stop="20251023173000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Pafos FC - Ethnikos Achnas</title>
     <desc>Live: Tidak</desc>
@@ -122,17 +126,33 @@
     <title>Football: Neom - Al-Qadsiah</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251023193000 +0700" stop="20251023213000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Flamengo - Racing Club</title>
+<programme start="20251023193000 +0700" stop="20251023200000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Sports Classics: Football Countdowns E8</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251023213000 +0700" stop="20251023234500 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: APOEL - Olympiakos Nicosia</title>
+<programme start="20251023200000 +0700" stop="20251023203000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Sports Classics: Football Countdowns E9</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251023234500 +0700" stop="20251024020000 +0700" channel="COSMOTE Sport 3 HD">
+<programme start="20251023203000 +0700" stop="20251023213000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>2025-26 European Football Show (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
+<programme start="20251023213000 +0700" stop="20251023233500 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Feyenoord - Panathinaikos (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20251023233500 +0700" stop="20251023235500 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Sports Classics: Worldies E18</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251023235500 +0700" stop="20251024013500 +0700" channel="COSMOTE Sport 3 HD">
+    <title>The Greatest Game</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251024013500 +0700" stop="20251024020000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Sports Classics: Worldies E16</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251024020000 +0700" stop="20251024040500 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: AS Roma - Viktoria Plzen (L)</title>
@@ -220,10 +240,6 @@
 </programme>
 <programme start="20251024160000 +0700" stop="20251024183000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Indiana Pacers - Oklahoma City Thunder</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251023151500 +0700" stop="20251023164000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>DTM 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251023164000 +0700" stop="20251023182500 +0700" channel="COSMOTE Sport 5 HD">
@@ -314,20 +330,28 @@
     <title>Motorsports: Moto2 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251023160000 +0700" stop="20251023183000 +0700" channel="COSMOTE Sport 6 HD">
+<programme start="20251024174000 +0700" stop="20251024185000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: MotoGP 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251023161500 +0700" stop="20251023180000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Volleyball: Napredak - Olympiacos</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251023180000 +0700" stop="20251023183000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Premier Padel Tour 2025 - Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251023183000 +0700" stop="20251023203000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: ATP 500 2025 (L)</title>
+    <title>Tennis: Daniil Medvedev - Corentin Moutet (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20251023203000 +0700" stop="20251023223000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: ATP 500 2025 (L)</title>
+    <title>Tennis: Matteo Arnaldi - Alexander Zverev (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20251023223000 +0700" stop="20251024010000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: ATP 500 2025 (L)</title>
+    <title>Tennis: Jannik Sinner - Flavio Cobolli (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20251024010000 +0700" stop="20251024011500 +0700" channel="COSMOTE Sport 6 HD">
@@ -335,7 +359,7 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251024011500 +0700" stop="20251024034500 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: ATP 500 2025 (L)</title>
+    <title>Tennis: Tomas Martin Etcheverry - Lorenzo Musetti (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20251024034500 +0700" stop="20251024044500 +0700" channel="COSMOTE Sport 6 HD">
@@ -519,7 +543,7 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251023190000 +0700" stop="20251023213000 +0700" channel="COSMOTE Sport 9 HD">
-    <title>Tennis: ATP 500 2025 (L)</title>
+    <title>Tennis: Felix Auger-Aliassime - Marin Cilic (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20251023213000 +0700" stop="20251023220000 +0700" channel="COSMOTE Sport 9 HD">

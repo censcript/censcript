@@ -649,9 +649,6 @@
 <programme start="20251023013000 +0000" stop="20251023030000 +0000" channel="ANTV.vision">
 <title>Mangal Lakshmi</title>
 </programme>
-<programme start="20251023030000 +0000" stop="20251023063000 +0000" channel="ANTV.vision">
-<title>Chori Chori Chupke Chupke</title>
-</programme>
 <programme start="20251023063000 +0000" stop="20251023080000 +0000" channel="ANTV.vision">
 <title>Cinta Keluarga Pandya</title>
 </programme>
@@ -1496,5 +1493,8 @@
 <title>TVRI</title>
 </programme>
 <programme start="20251023010000 +0000" stop="20251023023500 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251023023500 +0000" stop="20251023040500 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
