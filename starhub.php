@@ -890,7 +890,7 @@
         <title>Gutfeld!</title>
     </programme>
     <programme start="20251023030000 +0000" stop="20251023040000 +0000" channel="Fox News Channel.starhub">
-        <title>FOX News @Night</title>
+        <title>Fox News @Night</title>
     </programme>
     <programme start="20251023040000 +0000" stop="20251023050000 +0000" channel="Fox News Channel.starhub">
         <title>The Five</title>
@@ -908,22 +908,22 @@
         <title>The Ingraham Angle</title>
     </programme>
     <programme start="20251023090000 +0000" stop="20251023100000 +0000" channel="Fox News Channel.starhub">
-        <title>FOX &amp; Friends First</title>
+        <title>Fox &amp; Friends First</title>
     </programme>
     <programme start="20251023100000 +0000" stop="20251023110000 +0000" channel="Fox News Channel.starhub">
-        <title>FOX &amp; Friends</title>
+        <title>Fox &amp; Friends</title>
     </programme>
     <programme start="20251023110000 +0000" stop="20251023120000 +0000" channel="Fox News Channel.starhub">
-        <title>FOX &amp; Friends</title>
+        <title>Fox &amp; Friends</title>
     </programme>
     <programme start="20251023120000 +0000" stop="20251023130000 +0000" channel="Fox News Channel.starhub">
-        <title>FOX &amp; Friends</title>
+        <title>Fox &amp; Friends</title>
     </programme>
     <programme start="20251023130000 +0000" stop="20251023140000 +0000" channel="Fox News Channel.starhub">
-        <title>America&#039;s Newsroom FOX News Live</title>
+        <title>America&#039;s Newsroom Fox News Live</title>
     </programme>
     <programme start="20251023140000 +0000" stop="20251023150000 +0000" channel="Fox News Channel.starhub">
-        <title>America&#039;s Newsroom FOX News Live</title>
+        <title>America&#039;s Newsroom Fox News Live</title>
     </programme>
     <programme start="20251023150000 +0000" stop="20251023160000 +0000" channel="Fox News Channel.starhub">
         <title>The Faulkner Focus</title>
@@ -8122,19 +8122,22 @@
     <programme start="20251023000000 +0000" stop="20251023013000 +0000" channel="Asianet Movies.starhub">
         <title>Aanum Pennum</title>
     </programme>
-    <programme start="20251023013000 +0000" stop="20251023043000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251023013000 +0000" stop="20251023020000 +0000" channel="Asianet Movies.starhub">
+        <title>Filler</title>
+    </programme>
+    <programme start="20251023020000 +0000" stop="20251023043000 +0000" channel="Asianet Movies.starhub">
         <title>Philips and the Monkey Pen</title>
     </programme>
     <programme start="20251023043000 +0000" stop="20251023073000 +0000" channel="Asianet Movies.starhub">
         <title>Natturajavu</title>
     </programme>
-    <programme start="20251023073000 +0000" stop="20251023103000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251023073000 +0000" stop="20251023104000 +0000" channel="Asianet Movies.starhub">
         <title>Nadodimannan</title>
     </programme>
-    <programme start="20251023103000 +0000" stop="20251023133000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251023104000 +0000" stop="20251023133000 +0000" channel="Asianet Movies.starhub">
         <title>Adi Kapyare Koottamani</title>
     </programme>
-    <programme start="20251023133000 +0000" stop="20251023163000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251023133000 +0000" stop="20251023162000 +0000" channel="Asianet Movies.starhub">
         <title>Rasathanthram</title>
     </programme>
     <programme start="20251022160000 +0000" stop="20251022170000 +0000" channel="Astro Warna HD.starhub">
