@@ -2243,7 +2243,7 @@
     <title>Homeland Of Literature, Ep 7</title>
 </programme>
 <programme start="20251023050000 +0000" stop="20251023053000 +0000" channel="CGTN Documentary.mncvision">
-    <title>My Date With The Stars, Ep 4</title>
+    <title>What Dementia Teaches..., Ep 4</title>
 </programme>
 <programme start="20251023053000 +0000" stop="20251023060000 +0000" channel="CGTN Documentary.mncvision">
     <title>The Tale Of Yunmeng, Ep 1</title>
@@ -2270,7 +2270,7 @@
     <title>Homeland Of Literature, Ep 7</title>
 </programme>
 <programme start="20251023110000 +0000" stop="20251023113000 +0000" channel="CGTN Documentary.mncvision">
-    <title>My Date With The Stars, Ep 4</title>
+    <title>What Dementia Teaches..., Ep 4</title>
 </programme>
 <programme start="20251023113000 +0000" stop="20251023120000 +0000" channel="CGTN Documentary.mncvision">
     <title>The Tale Of Yunmeng, Ep 1</title>
