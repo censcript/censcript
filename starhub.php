@@ -3269,7 +3269,7 @@
         <title>ICC Women&#039;s Cricket World Cup 2025: M22 - South Africa vs Pakistan HLs</title>
     </programme>
     <programme start="20251023090000 +0000" stop="20251023173000 +0000" channel="Hub Sports 4 HD.starhub">
-        <title>ICC Women&#039;s Cricket World Cup 2025: M24 - India vs New Zealand (Live)</title>
+        <title>ICC Women&#039;s Cricket World Cup 2025: M24 - India vs New Zealand</title>
     </programme>
     <programme start="20251022160000 +0000" stop="20251022161500 +0000" channel="DW English HD.starhub">
         <title>News</title>

@@ -114,6 +114,10 @@
     <title>Football: AEL Novibet - Olympiacos</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251024130500 +0700" stop="20251024150500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Lecce - Sassuolo</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251023100000 +0700" stop="20251023131000 +0700" channel="COSMOTE Sport 3 HD">
     <title>American Football: Dallas Cowboys - Washington Commanders</title>
     <desc>Live: Tidak</desc>
@@ -230,10 +234,6 @@
     <title>Basketball: Forca Lleida CE - Valencia Basket Club</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251023120000 +0700" stop="20251023123000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Extreme E - Highlights 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251023123000 +0700" stop="20251023132500 +0700" channel="COSMOTE Sport 5 HD">
     <title>Highlights: 2025 Extreme H</title>
     <desc>Live: Tidak</desc>
@@ -316,6 +316,14 @@
 </programme>
 <programme start="20251024121000 +0700" stop="20251024130000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Motorsports: Moto3 2025 (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
+<programme start="20251024130000 +0700" stop="20251024135500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: Moto2 2025 (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
+<programme start="20251024135500 +0700" stop="20251024151500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: MotoGP 2025 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20251023100000 +0700" stop="20251023140000 +0700" channel="COSMOTE Sport 6 HD">
