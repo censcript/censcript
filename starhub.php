@@ -6427,6 +6427,54 @@
     <programme start="20251023140000 +0000" stop="20251023162500 +0000" channel="HBO Signature HD.starhub">
         <title>Blood Diamond</title>
     </programme>
+    <programme start="20251022160000 +0000" stop="20251022193000 +0000" channel="TestChannel 995.starhub">
+        <title>Day 7 Morning Session (Table 1): R2-18 (Mark Allen vs Chris Wakelin)</title>
+    </programme>
+    <programme start="20251022193000 +0000" stop="20251022200000 +0000" channel="TestChannel 995.starhub">
+        <title>#1300</title>
+    </programme>
+    <programme start="20251022200000 +0000" stop="20251022210000 +0000" channel="TestChannel 995.starhub">
+        <title>Kansas City, MO</title>
+    </programme>
+    <programme start="20251022210000 +0000" stop="20251022230000 +0000" channel="TestChannel 995.starhub">
+        <title>Singapore Premier League 2025/26 Geylang International FC vs Tanjong Pagar Unite</title>
+    </programme>
+    <programme start="20251022230000 +0000" stop="20251023000000 +0000" channel="TestChannel 995.starhub">
+        <title>UFC 321</title>
+    </programme>
+    <programme start="20251023000000 +0000" stop="20251023020000 +0000" channel="TestChannel 995.starhub">
+        <title>East Asia Super League 2025/26 Ryukyu Golden Kings vs Meralco Bolts</title>
+    </programme>
+    <programme start="20251023020000 +0000" stop="20251023040000 +0000" channel="TestChannel 995.starhub">
+        <title>East Asia Super League 2025/26 Utsunomiya Brex vs Seoul SK Knights</title>
+    </programme>
+    <programme start="20251023040000 +0000" stop="20251023043000 +0000" channel="TestChannel 995.starhub">
+        <title>#1300</title>
+    </programme>
+    <programme start="20251023043000 +0000" stop="20251023063000 +0000" channel="TestChannel 995.starhub">
+        <title>East Asia Super League 2025/26 New Taipei Kings vs Alvark Tokyo</title>
+    </programme>
+    <programme start="20251023063000 +0000" stop="20251023073000 +0000" channel="TestChannel 995.starhub">
+        <title>Kansas City, MO</title>
+    </programme>
+    <programme start="20251023073000 +0000" stop="20251023080000 +0000" channel="TestChannel 995.starhub">
+        <title>Season 5, Episode 4 - Daredevils</title>
+    </programme>
+    <programme start="20251023080000 +0000" stop="20251023130000 +0000" channel="TestChannel 995.starhub">
+        <title>YONEX French Open (Super 750) Rd 16 Session 1 (Court 2)</title>
+    </programme>
+    <programme start="20251023130000 +0000" stop="20251023133000 +0000" channel="TestChannel 995.starhub">
+        <title>Season 6, Episode 3 - Wild Men</title>
+    </programme>
+    <programme start="20251023133000 +0000" stop="20251023140000 +0000" channel="TestChannel 995.starhub">
+        <title>#1300</title>
+    </programme>
+    <programme start="20251023140000 +0000" stop="20251023150000 +0000" channel="TestChannel 995.starhub">
+        <title>#2008</title>
+    </programme>
+    <programme start="20251023150000 +0000" stop="20251023180000 +0000" channel="TestChannel 995.starhub">
+        <title>YONEX French Open (Super 750) Rd 16 Session 2 (Court 2)</title>
+    </programme>
     <programme start="20251022160000 +0000" stop="20251022163000 +0000" channel="CNBC HD.starhub">
         <title>Halftime Report</title>
     </programme>
