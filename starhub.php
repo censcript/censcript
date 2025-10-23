@@ -860,10 +860,10 @@
         <title>Outnumbered</title>
     </programme>
     <programme start="20251022170000 +0000" stop="20251022180000 +0000" channel="Fox News Channel.starhub">
-        <title>America Reports FOX News Live</title>
+        <title>America Reports Fox News Live</title>
     </programme>
     <programme start="20251022180000 +0000" stop="20251022190000 +0000" channel="Fox News Channel.starhub">
-        <title>America Reports FOX News Live</title>
+        <title>America Reports Fox News Live</title>
     </programme>
     <programme start="20251022190000 +0000" stop="20251022200000 +0000" channel="Fox News Channel.starhub">
         <title>The Story</title>

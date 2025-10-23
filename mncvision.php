@@ -2449,145 +2449,58 @@
 <programme start="20251023163900 +0000" stop="20251022170900 +0000" channel="CINEEDGE HD.mncvision">
     <title>One Shot</title>
 </programme>
-<programme start="20251022170000 +0000" stop="20251022173000 +0000" channel="CNBC.mncvision">
+<programme start="20251022170000 +0000" stop="20251022180000 +0000" channel="CNBC.mncvision">
     <title>The Exchange</title>
 </programme>
-<programme start="20251022173000 +0000" stop="20251022180000 +0000" channel="CNBC.mncvision">
-    <title>The Exchange</title>
-</programme>
-<programme start="20251022180000 +0000" stop="20251022183000 +0000" channel="CNBC.mncvision">
+<programme start="20251022180000 +0000" stop="20251022190000 +0000" channel="CNBC.mncvision">
     <title>Power Lunch</title>
 </programme>
-<programme start="20251022183000 +0000" stop="20251022190000 +0000" channel="CNBC.mncvision">
-    <title>Power Lunch</title>
-</programme>
-<programme start="20251022190000 +0000" stop="20251022193000 +0000" channel="CNBC.mncvision">
+<programme start="20251022190000 +0000" stop="20251022200000 +0000" channel="CNBC.mncvision">
     <title>Closing Bell</title>
 </programme>
-<programme start="20251022193000 +0000" stop="20251022200000 +0000" channel="CNBC.mncvision">
-    <title>Closing Bell</title>
-</programme>
-<programme start="20251022200000 +0000" stop="20251022203000 +0000" channel="CNBC.mncvision">
+<programme start="20251022200000 +0000" stop="20251022210000 +0000" channel="CNBC.mncvision">
     <title>Closing Bell: Overtime</title>
 </programme>
-<programme start="20251022203000 +0000" stop="20251022210000 +0000" channel="CNBC.mncvision">
-    <title>Closing Bell: Overtime</title>
-</programme>
-<programme start="20251022210000 +0000" stop="20251022213000 +0000" channel="CNBC.mncvision">
-    <title>Fast Money</title>
-</programme>
-<programme start="20251022213000 +0000" stop="20251022220000 +0000" channel="CNBC.mncvision">
+<programme start="20251022210000 +0000" stop="20251022220000 +0000" channel="CNBC.mncvision">
     <title>Fast Money</title>
 </programme>
 <programme start="20251022220000 +0000" stop="20251022230000 +0000" channel="CNBC.mncvision">
-    <title>U.S. Markets Edition 2025</title>
+    <title>U.S. Markets Edition</title>
 </programme>
-<programme start="20251022230000 +0000" stop="20251022233000 +0000" channel="CNBC.mncvision">
+<programme start="20251022230000 +0000" stop="20251023020000 +0000" channel="CNBC.mncvision">
     <title>Squawk Box Asia</title>
 </programme>
-<programme start="20251022233000 +0000" stop="20251023000000 +0000" channel="CNBC.mncvision">
-    <title>Squawk Box Asia</title>
-</programme>
-<programme start="20251023000000 +0000" stop="20251023003000 +0000" channel="CNBC.mncvision">
-    <title>Squawk Box Asia</title>
-</programme>
-<programme start="20251023003000 +0000" stop="20251023010000 +0000" channel="CNBC.mncvision">
-    <title>Squawk Box Asia</title>
-</programme>
-<programme start="20251023010000 +0000" stop="20251023013000 +0000" channel="CNBC.mncvision">
-    <title>Squawk Box Asia</title>
-</programme>
-<programme start="20251023013000 +0000" stop="20251023020000 +0000" channel="CNBC.mncvision">
-    <title>Squawk Box Asia</title>
-</programme>
-<programme start="20251023020000 +0000" stop="20251023023000 +0000" channel="CNBC.mncvision">
+<programme start="20251023020000 +0000" stop="20251023030000 +0000" channel="CNBC.mncvision">
     <title>The China Connection</title>
 </programme>
-<programme start="20251023023000 +0000" stop="20251023030000 +0000" channel="CNBC.mncvision">
-    <title>The China Connection</title>
-</programme>
-<programme start="20251023030000 +0000" stop="20251023033000 +0000" channel="CNBC.mncvision">
+<programme start="20251023030000 +0000" stop="20251023040000 +0000" channel="CNBC.mncvision">
     <title>Inside India</title>
 </programme>
-<programme start="20251023033000 +0000" stop="20251023040000 +0000" channel="CNBC.mncvision">
-    <title>Inside India</title>
-</programme>
-<programme start="20251023040000 +0000" stop="20251023043000 +0000" channel="CNBC.mncvision">
+<programme start="20251023040000 +0000" stop="20251023050000 +0000" channel="CNBC.mncvision">
     <title>Access Middle East</title>
 </programme>
-<programme start="20251023043000 +0000" stop="20251023050000 +0000" channel="CNBC.mncvision">
-    <title>Access Middle East</title>
-</programme>
-<programme start="20251023050000 +0000" stop="20251023053000 +0000" channel="CNBC.mncvision">
+<programme start="20251023050000 +0000" stop="20251023060000 +0000" channel="CNBC.mncvision">
     <title>Europe Early Edition</title>
 </programme>
-<programme start="20251023053000 +0000" stop="20251023060000 +0000" channel="CNBC.mncvision">
-    <title>Europe Early Edition</title>
-</programme>
-<programme start="20251023060000 +0000" stop="20251023063000 +0000" channel="CNBC.mncvision">
+<programme start="20251023060000 +0000" stop="20251023090000 +0000" channel="CNBC.mncvision">
     <title>Squawk Box Europe</title>
 </programme>
-<programme start="20251023063000 +0000" stop="20251023070000 +0000" channel="CNBC.mncvision">
-    <title>Squawk Box Europe</title>
-</programme>
-<programme start="20251023070000 +0000" stop="20251023073000 +0000" channel="CNBC.mncvision">
-    <title>Squawk Box Europe</title>
-</programme>
-<programme start="20251023073000 +0000" stop="20251023080000 +0000" channel="CNBC.mncvision">
-    <title>Squawk Box Europe</title>
-</programme>
-<programme start="20251023080000 +0000" stop="20251023083000 +0000" channel="CNBC.mncvision">
-    <title>Squawk Box Europe</title>
-</programme>
-<programme start="20251023083000 +0000" stop="20251023090000 +0000" channel="CNBC.mncvision">
-    <title>Squawk Box Europe</title>
-</programme>
-<programme start="20251023090000 +0000" stop="20251023093000 +0000" channel="CNBC.mncvision">
+<programme start="20251023090000 +0000" stop="20251023100000 +0000" channel="CNBC.mncvision">
     <title>Worldwide Exchange</title>
 </programme>
-<programme start="20251023093000 +0000" stop="20251023100000 +0000" channel="CNBC.mncvision">
-    <title>Worldwide Exchange</title>
-</programme>
-<programme start="20251023100000 +0000" stop="20251023103000 +0000" channel="CNBC.mncvision">
+<programme start="20251023100000 +0000" stop="20251023130000 +0000" channel="CNBC.mncvision">
     <title>US Squawk Box</title>
 </programme>
-<programme start="20251023103000 +0000" stop="20251023110000 +0000" channel="CNBC.mncvision">
-    <title>US Squawk Box</title>
-</programme>
-<programme start="20251023110000 +0000" stop="20251023113000 +0000" channel="CNBC.mncvision">
-    <title>US Squawk Box</title>
-</programme>
-<programme start="20251023113000 +0000" stop="20251023120000 +0000" channel="CNBC.mncvision">
-    <title>US Squawk Box</title>
-</programme>
-<programme start="20251023120000 +0000" stop="20251023123000 +0000" channel="CNBC.mncvision">
-    <title>US Squawk Box</title>
-</programme>
-<programme start="20251023123000 +0000" stop="20251023130000 +0000" channel="CNBC.mncvision">
-    <title>US Squawk Box</title>
-</programme>
-<programme start="20251023130000 +0000" stop="20251023133000 +0000" channel="CNBC.mncvision">
+<programme start="20251023130000 +0000" stop="20251023140000 +0000" channel="CNBC.mncvision">
     <title>Squawk On The Street</title>
 </programme>
-<programme start="20251023133000 +0000" stop="20251023140000 +0000" channel="CNBC.mncvision">
+<programme start="20251023140000 +0000" stop="20251023150000 +0000" channel="CNBC.mncvision">
     <title>Squawk On The Street</title>
 </programme>
-<programme start="20251023140000 +0000" stop="20251023143000 +0000" channel="CNBC.mncvision">
-    <title>Squawk On The Street</title>
-</programme>
-<programme start="20251023143000 +0000" stop="20251023150000 +0000" channel="CNBC.mncvision">
-    <title>Squawk On The Street</title>
-</programme>
-<programme start="20251023150000 +0000" stop="20251023153000 +0000" channel="CNBC.mncvision">
-    <title>Money Movers</title>
-</programme>
-<programme start="20251023153000 +0000" stop="20251023160000 +0000" channel="CNBC.mncvision">
+<programme start="20251023150000 +0000" stop="20251023160000 +0000" channel="CNBC.mncvision">
     <title>Money Movers</title>
 </programme>
 <programme start="20251023160000 +0000" stop="20251023163000 +0000" channel="CNBC.mncvision">
-    <title>Halftime Report</title>
-</programme>
-<programme start="20251023163000 +0000" stop="20251022170000 +0000" channel="CNBC.mncvision">
     <title>Halftime Report</title>
 </programme>
 <programme start="20251022172000 +0000" stop="20251022181500 +0000" channel="Crime Investigation.mncvision">

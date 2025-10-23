@@ -2707,7 +2707,7 @@
 <programme start="20251023163500 +0000" stop="20251023191500 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live UEFA ECL: SK Rapid - AC Florenz, Ligaphase, 2. Spieltag</title>
 </programme>
-<programme start="20251023191500 +0000" stop="20251023211500 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20251023191500 +0000" stop="20251023213000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>UEFA ECL: SK Rapid - AC Florenz, Ligaphase, 2. Spieltag</title>
 </programme>
 <programme start="20251023154000 +0000" stop="20251023160000 +0000" channel="Sky Sport Austria 3 HD.skyde">
@@ -2719,7 +2719,7 @@
 <programme start="20251023163500 +0000" stop="20251023185000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live UEFA EL: FC Salzburg - Ferencváros Budapest, Ligaphase, 3. Spieltag</title>
 </programme>
-<programme start="20251023185000 +0000" stop="20251023210000 +0000" channel="Sky Sport Austria 3 HD.skyde">
+<programme start="20251023185000 +0000" stop="20251023213000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live UEFA EL: Nottingham Forest - FC Porto, Ligaphase, 3. Spieltag</title>
 </programme>
 <programme start="20251023161500 +0000" stop="20251023163500 +0000" channel="Sky Sport Austria 4 HD.skyde">
@@ -2728,7 +2728,7 @@
 <programme start="20251023163500 +0000" stop="20251023185000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live UEFA EL: SC Braga - Roter Stern Belgrad, Ligaphase, 3. Spieltag</title>
 </programme>
-<programme start="20251023185000 +0000" stop="20251023210000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+<programme start="20251023185000 +0000" stop="20251023213000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live UEFA EL: SC Freiburg - FC Utrecht, Ligaphase, 3. Spieltag</title>
 </programme>
 <programme start="20251023161500 +0000" stop="20251023163500 +0000" channel="Sky Sport Austria 5 HD.skyde">
@@ -2737,7 +2737,7 @@
 <programme start="20251023163500 +0000" stop="20251023185000 +0000" channel="Sky Sport Austria 5 HD.skyde">
     <title>Live UEFA EL: KRC Genk - Real Betis, Ligaphase, 3. Spieltag</title>
 </programme>
-<programme start="20251023185000 +0000" stop="20251023210000 +0000" channel="Sky Sport Austria 5 HD.skyde">
+<programme start="20251023185000 +0000" stop="20251023213000 +0000" channel="Sky Sport Austria 5 HD.skyde">
     <title>Live UEFA EL: AS Rom - Viktoria Pilsen, Ligaphase, 3. Spieltag</title>
 </programme>
 <programme start="20251023161500 +0000" stop="20251023163500 +0000" channel="Sky Sport Austria 6 HD.skyde">
@@ -2746,7 +2746,7 @@
 <programme start="20251023163500 +0000" stop="20251023185000 +0000" channel="Sky Sport Austria 6 HD.skyde">
     <title>Live UEFA EL: Fenerbahce Istanbul - VfB Stuttgart, Ligaphase, 3. Spieltag</title>
 </programme>
-<programme start="20251023185000 +0000" stop="20251023210000 +0000" channel="Sky Sport Austria 6 HD.skyde">
+<programme start="20251023185000 +0000" stop="20251023213000 +0000" channel="Sky Sport Austria 6 HD.skyde">
     <title>Live UEFA ECL: Crystal Palace - AEK Larnaca, Ligaphase, 2. Spieltag</title>
 </programme>
 <programme start="20251023161500 +0000" stop="20251023163500 +0000" channel="Sky Sport Austria 7 HD.skyde">
@@ -2755,7 +2755,7 @@
 <programme start="20251023163500 +0000" stop="20251023185000 +0000" channel="Sky Sport Austria 7 HD.skyde">
     <title>Live UEFA EL: Go Ahead Eagles - Aston Villa, Ligaphase, 2. Spieltag</title>
 </programme>
-<programme start="20251023185000 +0000" stop="20251023210000 +0000" channel="Sky Sport Austria 7 HD.skyde">
+<programme start="20251023185000 +0000" stop="20251023213000 +0000" channel="Sky Sport Austria 7 HD.skyde">
     <title>Live UEFA EL: Celta Vigo - OGC Nizza, Ligaphase, 3. Spieltag</title>
 </programme>
 <programme start="20251023161500 +0000" stop="20251023163500 +0000" channel="Sky Sport Austria 8 HD.skyde">
@@ -3032,7 +3032,7 @@
     <title>Fußball: scooore Polen! Alle Tore</title>
 </programme>
 <programme start="20251023150000 +0000" stop="20251023153000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>Fußball: scooore Argentinien! Alle Tore</title>
+    <title>Frauen-BL: Alle Spiele, alle Tore, 7. Spieltag komplett</title>
 </programme>
 <programme start="20251023153000 +0000" stop="20251023163500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>MotoGP: Highlights: GP Australien</title>
@@ -3199,11 +3199,14 @@
 <programme start="20251023213000 +0000" stop="20251023220000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: 90in30: SUN - WOL, 8. Spieltag</title>
 </programme>
-<programme start="20251022230000 +0000" stop="20251022233000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP: This Week</title>
+<programme start="20251022221500 +0000" stop="20251022230000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>Tennis: Ljubo - The man saved by Tennis, Teil 2</title>
 </programme>
-<programme start="20251022233000 +0000" stop="20251023013000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: Topspiel, Toray Pan Pacific Open Tennis in Tokio (JPN), 3. Tag</title>
+<programme start="20251022230000 +0000" stop="20251023001500 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 500: D. Altmaier (GER) - J. Sinner (ITA), Erste Bank Open in Wien (Österreich), 3. Tag</title>
+</programme>
+<programme start="20251023001500 +0000" stop="20251023013000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 500: E. Lys (GER) - V. Mboko (CAN), Toray Pan Pacific Open Tennis in Tokio (JPN), 3. Tag</title>
 </programme>
 <programme start="20251023013000 +0000" stop="20251023100000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live WTA 500: Toray Pan Pacific Open Tennis in Tokio (JPN), 4. Tag</title>
@@ -3215,7 +3218,7 @@
     <title>Meine Geschichte: Das Leben von Boris Becker (Teil 1)</title>
 </programme>
 <programme start="20251023210000 +0000" stop="20251023230000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: Topspiel, Erste Bank Open in Wien (Österreich), 4. Tag</title>
+    <title>ATP 500: A. Zverev (GER) - M. Arnaldi (ITA), Erste Bank Open in Wien (Österreich), 4. Tag</title>
 </programme>
 <programme start="20251022223000 +0000" stop="20251022224500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>NHL: Highlights EDM@OTT</title>
@@ -3257,7 +3260,7 @@
     <title>F1: GP Confidential</title>
 </programme>
 <programme start="20251023160500 +0000" stop="20251023163500 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Fußball: scooore Argentinien! Alle Tore</title>
+    <title>NHL: On the Fly</title>
 </programme>
 <programme start="20251023163500 +0000" stop="20251023185000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live UEFA EL: Rapid Wien - AC Florenz, Ligaphase, 2. Spieltag</title>
