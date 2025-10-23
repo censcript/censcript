@@ -5050,22 +5050,22 @@
 <programme start="20251023050000 +0000" stop="20251023060000 +0000" channel="Kids TV.mncvision">
     <title>CoComelon</title>
 </programme>
-<programme start="20251023060000 +0000" stop="20251023070000 +0000" channel="Kids TV.mncvision">
+<programme start="20251023060000 +0000" stop="20251023064700 +0000" channel="Kids TV.mncvision">
     <title>The Patrick Star Show</title>
 </programme>
-<programme start="20251023070000 +0000" stop="20251023073000 +0000" channel="Kids TV.mncvision">
+<programme start="20251023064700 +0000" stop="20251023071100 +0000" channel="Kids TV.mncvision">
     <title>Kamp Koral</title>
 </programme>
-<programme start="20251023073000 +0000" stop="20251023093000 +0000" channel="Kids TV.mncvision">
+<programme start="20251023071100 +0000" stop="20251023084000 +0000" channel="Kids TV.mncvision">
     <title>SpongeBob SquarePants</title>
 </programme>
-<programme start="20251023093000 +0000" stop="20251023100000 +0000" channel="Kids TV.mncvision">
+<programme start="20251023084000 +0000" stop="20251023090600 +0000" channel="Kids TV.mncvision">
+    <title>Rat A Tat</title>
+</programme>
+<programme start="20251023090600 +0000" stop="20251023093000 +0000" channel="Kids TV.mncvision">
     <title>Blippi Wonders</title>
 </programme>
-<programme start="20251023100000 +0000" stop="20251023110000 +0000" channel="Kids TV.mncvision">
-    <title>CoComelon</title>
-</programme>
-<programme start="20251023110000 +0000" stop="20251023113000 +0000" channel="Kids TV.mncvision">
+<programme start="20251023093000 +0000" stop="20251023113000 +0000" channel="Kids TV.mncvision">
     <title>Upin &amp; Ipin Bermula</title>
 </programme>
 <programme start="20251023113000 +0000" stop="20251023120000 +0000" channel="Kids TV.mncvision">
@@ -5152,22 +5152,22 @@
 <programme start="20251023050000 +0000" stop="20251023060000 +0000" channel="Kids TV HD.mncvision">
     <title>CoComelon</title>
 </programme>
-<programme start="20251023060000 +0000" stop="20251023070000 +0000" channel="Kids TV HD.mncvision">
+<programme start="20251023060000 +0000" stop="20251023064700 +0000" channel="Kids TV HD.mncvision">
     <title>The Patrick Star Show</title>
 </programme>
-<programme start="20251023070000 +0000" stop="20251023073000 +0000" channel="Kids TV HD.mncvision">
+<programme start="20251023064700 +0000" stop="20251023071100 +0000" channel="Kids TV HD.mncvision">
     <title>Kamp Koral</title>
 </programme>
-<programme start="20251023073000 +0000" stop="20251023093000 +0000" channel="Kids TV HD.mncvision">
+<programme start="20251023071100 +0000" stop="20251023084000 +0000" channel="Kids TV HD.mncvision">
     <title>SpongeBob SquarePants</title>
 </programme>
-<programme start="20251023093000 +0000" stop="20251023100000 +0000" channel="Kids TV HD.mncvision">
+<programme start="20251023084000 +0000" stop="20251023090600 +0000" channel="Kids TV HD.mncvision">
+    <title>Rat A Tat</title>
+</programme>
+<programme start="20251023090600 +0000" stop="20251023093000 +0000" channel="Kids TV HD.mncvision">
     <title>Blippi Wonders</title>
 </programme>
-<programme start="20251023100000 +0000" stop="20251023110000 +0000" channel="Kids TV HD.mncvision">
-    <title>CoComelon</title>
-</programme>
-<programme start="20251023110000 +0000" stop="20251023113000 +0000" channel="Kids TV HD.mncvision">
+<programme start="20251023093000 +0000" stop="20251023113000 +0000" channel="Kids TV HD.mncvision">
     <title>Upin &amp; Ipin Bermula</title>
 </programme>
 <programme start="20251023113000 +0000" stop="20251023120000 +0000" channel="Kids TV HD.mncvision">
@@ -8015,7 +8015,7 @@
     <title>European Qual.: HUN Vs ARM</title>
 </programme>
 <programme start="20251023013000 +0000" stop="20251023033000 +0000" channel="Soccer Channel.mncvision">
-    <title>Bundesliga 2025/26: FCU Vs BMG</title>
+    <title>Bundesliga: FCU Vs BMG</title>
 </programme>
 <programme start="20251023033000 +0000" stop="20251023053000 +0000" channel="Soccer Channel.mncvision">
     <title>Euro 2024: ITA Vs ALB</title>
@@ -8066,7 +8066,7 @@
     <title>European Qual.: HUN Vs ARM</title>
 </programme>
 <programme start="20251023013000 +0000" stop="20251023033000 +0000" channel="Soccer Channel HD.mncvision">
-    <title>Bundesliga 2025/26: FCU Vs BMG</title>
+    <title>Bundesliga: FCU Vs BMG</title>
 </programme>
 <programme start="20251023033000 +0000" stop="20251023053000 +0000" channel="Soccer Channel HD.mncvision">
     <title>Euro 2024: ITA Vs ALB</title>
@@ -8456,7 +8456,7 @@
     <title>2025 SRO GT Cup: Beijing</title>
 </programme>
 <programme start="20251023083000 +0000" stop="20251023093000 +0000" channel="SPOTV.mncvision">
-    <title>2025 SRO GT Cup: Beijing</title>
+    <title>Mahindra Volleyball League HL</title>
 </programme>
 <programme start="20251023093000 +0000" stop="20251023100000 +0000" channel="SPOTV.mncvision">
     <title>WTT China Smash 2025 HL</title>
@@ -8573,7 +8573,7 @@
     <title>2025 SRO GT Cup: Beijing</title>
 </programme>
 <programme start="20251023083000 +0000" stop="20251023093000 +0000" channel="SPOTV HD.mncvision">
-    <title>2025 SRO GT Cup: Beijing</title>
+    <title>Mahindra Volleyball League HL</title>
 </programme>
 <programme start="20251023093000 +0000" stop="20251023100000 +0000" channel="SPOTV HD.mncvision">
     <title>WTT China Smash 2025 HL</title>

@@ -5258,7 +5258,7 @@
         <title>Pre Qualifying</title>
     </programme>
     <programme start="20251023083000 +0000" stop="20251023093000 +0000" channel="SPOTV.starhub">
-        <title>Qualifying</title>
+        <title>Highlights</title>
     </programme>
     <programme start="20251023093000 +0000" stop="20251023100000 +0000" channel="SPOTV.starhub">
         <title>Highlights</title>
