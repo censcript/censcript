@@ -4820,7 +4820,7 @@
     <title>iNews Sport (L)</title>
 </programme>
 <programme start="20251023163000 +0000" stop="20251022170000 +0000" channel="iNews.mncvision">
-    <title>Asian Youth Games Bahrain 2025</title>
+    <title>New Top Files</title>
 </programme>
 <programme start="20251022170000 +0000" stop="20251022180000 +0000" channel="iNews HD.mncvision">
     <title>Opening AYG Bahrain 2025 (L)</title>
@@ -4889,7 +4889,7 @@
     <title>iNews Sport (L)</title>
 </programme>
 <programme start="20251023163000 +0000" stop="20251022170000 +0000" channel="iNews HD.mncvision">
-    <title>Asian Youth Games Bahrain 2025</title>
+    <title>New Top Files</title>
 </programme>
 <programme start="20251022220000 +0000" stop="20251022223000 +0000" channel="JAKTV.mncvision">
     <title>Senyum Quran</title>
@@ -8156,7 +8156,7 @@
     <title>Asian Youth Games Bahrain (L)</title>
 </programme>
 <programme start="20251023113000 +0000" stop="20251023143000 +0000" channel="Sportstars 2.mncvision">
-    <title>Artistic Gymnastics C&#039;ship (L)</title>
+    <title>Asian Youth Games Bahrain (L)</title>
 </programme>
 <programme start="20251023143000 +0000" stop="20251023150000 +0000" channel="Sportstars 2.mncvision">
     <title>Asian Youth Games Bahrain (L)</title>
@@ -8192,7 +8192,7 @@
     <title>Asian Youth Games Bahrain (L)</title>
 </programme>
 <programme start="20251023113000 +0000" stop="20251023143000 +0000" channel="Sportstars 2 HD.mncvision">
-    <title>Artistic Gymnastics C&#039;ship (L)</title>
+    <title>Asian Youth Games Bahrain (L)</title>
 </programme>
 <programme start="20251023143000 +0000" stop="20251023150000 +0000" channel="Sportstars 2 HD.mncvision">
     <title>Asian Youth Games Bahrain (L)</title>
