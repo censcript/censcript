@@ -922,6 +922,63 @@
 <programme start="20251023213500 +0000" stop="20251023223000 +0000" channel="Crime + Investigation.skyde">
     <title>Ursprung des Grauens - Profil eines Serienmörders</title>
 </programme>
+<programme start="20251022220000 +0000" stop="20251023020000 +0000" channel="DAZN 1 HD.skyde">
+    <title>Sendepause</title>
+</programme>
+<programme start="20251023020000 +0000" stop="20251023060000 +0000" channel="DAZN 1 HD.skyde">
+    <title>Sendepause</title>
+</programme>
+<programme start="20251023060000 +0000" stop="20251023062500 +0000" channel="DAZN 1 HD.skyde">
+    <title>Best of DAZN: Highlights</title>
+</programme>
+<programme start="20251023062500 +0000" stop="20251023065500 +0000" channel="DAZN 1 HD.skyde">
+    <title>Google Pixel Frauen-Bundesliga Highlightshow 2025/26: 7. Spieltag</title>
+</programme>
+<programme start="20251023065500 +0000" stop="20251023085000 +0000" channel="DAZN 1 HD.skyde">
+    <title>LaLiga 25/26: FC Barcelona - FC Girona</title>
+</programme>
+<programme start="20251023085000 +0000" stop="20251023091000 +0000" channel="DAZN 1 HD.skyde">
+    <title>Best of DAZN: Highlights</title>
+</programme>
+<programme start="20251023091000 +0000" stop="20251023093000 +0000" channel="DAZN 1 HD.skyde">
+    <title>Let&#039;s go Ballin&#039;: Episode 1</title>
+</programme>
+<programme start="20251023093000 +0000" stop="20251023112500 +0000" channel="DAZN 1 HD.skyde">
+    <title>Bundesliga: 1. FC Union Berlin - Borussia M&#039;gladbach</title>
+</programme>
+<programme start="20251023112500 +0000" stop="20251023120000 +0000" channel="DAZN 1 HD.skyde">
+    <title>Best of DAZN: Highlights</title>
+</programme>
+<programme start="20251023120000 +0000" stop="20251023135000 +0000" channel="DAZN 1 HD.skyde">
+    <title>Bundesliga: SC Freiburg - Eintracht Frankfurt</title>
+</programme>
+<programme start="20251023135000 +0000" stop="20251023142000 +0000" channel="DAZN 1 HD.skyde">
+    <title>Best of DAZN: Highlights</title>
+</programme>
+<programme start="20251023142000 +0000" stop="20251023151000 +0000" channel="DAZN 1 HD.skyde">
+    <title>Her Element by Laura Wontorra: Episode 1</title>
+</programme>
+<programme start="20251023151000 +0000" stop="20251023155500 +0000" channel="DAZN 1 HD.skyde">
+    <title>Her Element by Laura Wontorra: Episode 2</title>
+</programme>
+<programme start="20251023155500 +0000" stop="20251023163000 +0000" channel="DAZN 1 HD.skyde">
+    <title>Best of DAZN: Highlights</title>
+</programme>
+<programme start="20251023163000 +0000" stop="20251023183000 +0000" channel="DAZN 1 HD.skyde">
+    <title>EHF Champions League: MKB Veszprém KC - Füchse Berlin</title>
+</programme>
+<programme start="20251023183000 +0000" stop="20251023202000 +0000" channel="DAZN 1 HD.skyde">
+    <title>EHF Champions League: SC Magdeburg - HC Pelister 08 Bitola</title>
+</programme>
+<programme start="20251023202000 +0000" stop="20251023205500 +0000" channel="DAZN 1 HD.skyde">
+    <title>Best of DAZN: Highlights</title>
+</programme>
+<programme start="20251023205500 +0000" stop="20251023214000 +0000" channel="DAZN 1 HD.skyde">
+    <title>3. Liga Highlightshow 2025/26: 11. Spieltag</title>
+</programme>
+<programme start="20251023214000 +0000" stop="20251023220000 +0000" channel="DAZN 1 HD.skyde">
+    <title>Best of DAZN: Highlights</title>
+</programme>
 <programme start="20251022220000 +0000" stop="20251023060000 +0000" channel="DAZN 2 HD.skyde">
     <title>Sendepause</title>
 </programme>
@@ -1905,6 +1962,45 @@
 </programme>
 <programme start="20251023201500 +0000" stop="20251023222000 +0000" channel="Sky Cinema Highlights HD.skyde">
     <title>The Alto Knights</title>
+</programme>
+<programme start="20251022234000 +0000" stop="20251023011500 +0000" channel="Sky Cinema Premiere HD.skyde">
+    <title>Glückliche Männer</title>
+</programme>
+<programme start="20251023011500 +0000" stop="20251023024500 +0000" channel="Sky Cinema Premiere HD.skyde">
+    <title>Sisu</title>
+</programme>
+<programme start="20251023024500 +0000" stop="20251023042500 +0000" channel="Sky Cinema Premiere HD.skyde">
+    <title>I.S.S.</title>
+</programme>
+<programme start="20251023042500 +0000" stop="20251023062000 +0000" channel="Sky Cinema Premiere HD.skyde">
+    <title>Juror #2</title>
+</programme>
+<programme start="20251023062000 +0000" stop="20251023080000 +0000" channel="Sky Cinema Premiere HD.skyde">
+    <title>A Quiet Place: Tag Eins</title>
+</programme>
+<programme start="20251023080000 +0000" stop="20251023094000 +0000" channel="Sky Cinema Premiere HD.skyde">
+    <title>Bring Him to Me</title>
+</programme>
+<programme start="20251023094000 +0000" stop="20251023113000 +0000" channel="Sky Cinema Premiere HD.skyde">
+    <title>Schlaft gut, ihr fiesen Gedanken</title>
+</programme>
+<programme start="20251023113000 +0000" stop="20251023131000 +0000" channel="Sky Cinema Premiere HD.skyde">
+    <title>Maggie Moore(s)</title>
+</programme>
+<programme start="20251023131000 +0000" stop="20251023145000 +0000" channel="Sky Cinema Premiere HD.skyde">
+    <title>Bring Him to Me</title>
+</programme>
+<programme start="20251023145000 +0000" stop="20251023163000 +0000" channel="Sky Cinema Premiere HD.skyde">
+    <title>The Monkey</title>
+</programme>
+<programme start="20251023163000 +0000" stop="20251023181500 +0000" channel="Sky Cinema Premiere HD.skyde">
+    <title>Borderlands</title>
+</programme>
+<programme start="20251023181500 +0000" stop="20251023201000 +0000" channel="Sky Cinema Premiere HD.skyde">
+    <title>Atomic Blonde</title>
+</programme>
+<programme start="20251023201000 +0000" stop="20251023223500 +0000" channel="Sky Cinema Premiere HD.skyde">
+    <title>Furiosa: A Mad Max Saga</title>
 </programme>
 <programme start="20251022223000 +0000" stop="20251022231500 +0000" channel="Sky Crime HD.skyde">
     <title>Twisted Killers</title>
@@ -3635,6 +3731,45 @@
     <title>Transformers</title>
 </programme>
 <programme start="20251023204000 +0000" stop="20251023231000 +0000" channel="Warner TV Film.skyde">
+    <title>Transformers - Die Rache</title>
+</programme>
+<programme start="20251022223000 +0000" stop="20251023005000 +0000" channel="Warner TV Film HD.skyde">
+    <title>Man of Steel</title>
+</programme>
+<programme start="20251023005000 +0000" stop="20251023023000 +0000" channel="Warner TV Film HD.skyde">
+    <title>Until Death</title>
+</programme>
+<programme start="20251023023000 +0000" stop="20251023040000 +0000" channel="Warner TV Film HD.skyde">
+    <title>Marihuana</title>
+</programme>
+<programme start="20251023040000 +0000" stop="20251023053000 +0000" channel="Warner TV Film HD.skyde">
+    <title>Miss Marple - Vier Frauen und ein Mord</title>
+</programme>
+<programme start="20251023053000 +0000" stop="20251023070500 +0000" channel="Warner TV Film HD.skyde">
+    <title>Nackte Gewalt</title>
+</programme>
+<programme start="20251023070500 +0000" stop="20251023085500 +0000" channel="Warner TV Film HD.skyde">
+    <title>Spuren im Sand</title>
+</programme>
+<programme start="20251023085500 +0000" stop="20251023105500 +0000" channel="Warner TV Film HD.skyde">
+    <title>Lethal Weapon 3 - Die Profis sind zurück</title>
+</programme>
+<programme start="20251023105500 +0000" stop="20251023124000 +0000" channel="Warner TV Film HD.skyde">
+    <title>Der Knastcoach</title>
+</programme>
+<programme start="20251023124000 +0000" stop="20251023142000 +0000" channel="Warner TV Film HD.skyde">
+    <title>Judge Dredd</title>
+</programme>
+<programme start="20251023142000 +0000" stop="20251023160500 +0000" channel="Warner TV Film HD.skyde">
+    <title>Der Tag an dem die Erde stillstand</title>
+</programme>
+<programme start="20251023160500 +0000" stop="20251023181500 +0000" channel="Warner TV Film HD.skyde">
+    <title>Star Trek</title>
+</programme>
+<programme start="20251023181500 +0000" stop="20251023204000 +0000" channel="Warner TV Film HD.skyde">
+    <title>Transformers</title>
+</programme>
+<programme start="20251023204000 +0000" stop="20251023231000 +0000" channel="Warner TV Film HD.skyde">
     <title>Transformers - Die Rache</title>
 </programme>
 <programme start="20251022221000 +0000" stop="20251022225500 +0000" channel="Warner TV Serie HD.skyde">
