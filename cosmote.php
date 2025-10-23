@@ -114,6 +114,10 @@
     <title>Football: Lecce - Sassuolo</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251024150500 +0700" stop="20251024170500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: AEK - Aberdeen</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251023133000 +0700" stop="20251023153000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Sporting CP - SC Braga</title>
     <desc>Live: Tidak</desc>
@@ -222,10 +226,6 @@
     <title>Basketball: Sassari - Armani Milano</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251023132500 +0700" stop="20251023141500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>2025 GT World Challenge Europe</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251023141500 +0700" stop="20251023151500 +0700" channel="COSMOTE Sport 5 HD">
     <title>MotoGP 2025 - Highlights</title>
     <desc>Live: Tidak</desc>
@@ -309,6 +309,14 @@
 <programme start="20251024135500 +0700" stop="20251024151500 +0700" channel="COSMOTE Sport 5 HD">
     <title>Motorsports: MotoGP 2025 (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20251024151500 +0700" stop="20251024154500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251024154500 +0700" stop="20251024164000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: Moto3 2025</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251023140000 +0700" stop="20251023160000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Volleyball: Olympiacos - Asterix Avo Beveren</title>
