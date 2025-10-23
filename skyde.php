@@ -2749,6 +2749,15 @@
 <programme start="20251023185000 +0000" stop="20251023213000 +0000" channel="Sky Sport Austria 6 HD.skyde">
     <title>Live UEFA ECL: Crystal Palace - AEK Larnaca, Ligaphase, 2. Spieltag</title>
 </programme>
+<programme start="20251023161500 +0000" stop="20251023163500 +0000" channel="Sky Sport Austria 7 HD.skyde">
+    <title>Es folgt: LIVE UEFA EL</title>
+</programme>
+<programme start="20251023163500 +0000" stop="20251023185000 +0000" channel="Sky Sport Austria 7 HD.skyde">
+    <title>Live UEFA EL: Go Ahead Eagles - Aston Villa, Ligaphase, 2. Spieltag</title>
+</programme>
+<programme start="20251023185000 +0000" stop="20251023213000 +0000" channel="Sky Sport Austria 7 HD.skyde">
+    <title>Live UEFA EL: Celta Vigo - OGC Nizza, Ligaphase, 3. Spieltag</title>
+</programme>
 <programme start="20251023161500 +0000" stop="20251023163500 +0000" channel="Sky Sport Austria 8 HD.skyde">
     <title>Es folgt: LIVE UEFA EL</title>
 </programme>
