@@ -1,7 +1,3 @@
-<programme start="20251023204500 +0700" stop="20251023224500 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: Real Madrid CF - Juventus Football Club</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251023224500 +0700" stop="20251023234500 +0700" channel="COSMOTE Sport 1 HD">
     <title>UEFA Champions League Highlights 2025-26</title>
     <desc>Live: Tidak</desc>
@@ -112,6 +108,10 @@
 </programme>
 <programme start="20251024210500 +0700" stop="20251024230500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: LDU Quito - Palmeiras</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251024230500 +0700" stop="20251025010500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: AEK - Aberdeen</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251023220000 +0700" stop="20251023235500 +0700" channel="COSMOTE Sport 3 HD">
@@ -226,8 +226,8 @@
     <title>Basketball: Igokea - Trieste</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251023210500 +0700" stop="20251023224500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: MotoGP 2025</title>
+<programme start="20251024232500 +0700" stop="20251025005500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Pick n&#039; Roll</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251023224500 +0700" stop="20251023234500 +0700" channel="COSMOTE Sport 5 HD">
@@ -326,9 +326,9 @@
     <title>Motorsports: Moto3 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251023203000 +0700" stop="20251023223000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: Matteo Arnaldi - Alexander Zverev (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20251024235000 +0700" stop="20251025005000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: Moto2 2025</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251023223000 +0700" stop="20251024010000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Jannik Sinner - Flavio Cobolli (L)</title>
@@ -389,10 +389,6 @@
 <programme start="20251024223000 +0700" stop="20251025010000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP 500 2025 (L)</title>
     <desc>Live: Ya</desc>
-</programme>
-<programme start="20251023220000 +0700" stop="20251023230000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
-    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251023230000 +0700" stop="20251023233000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
@@ -458,10 +454,6 @@
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251023220000 +0700" stop="20251023230000 +0700" channel="COSMOTE Sport 8 HD">
-    <title>COSMOTESport8HD</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251023230000 +0700" stop="20251023233000 +0700" channel="COSMOTE Sport 8 HD">
     <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
@@ -524,14 +516,6 @@
 </programme>
 <programme start="20251024220000 +0700" stop="20251025000000 +0700" channel="COSMOTE Sport 8 HD">
     <title>COSMOTESport8HD</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251023220000 +0700" stop="20251023223000 +0700" channel="COSMOTE Sport 9 HD">
-    <title>COSMOTESport9HD</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251023223000 +0700" stop="20251023230000 +0700" channel="COSMOTE Sport 9 HD">
-    <title>COSMOTESport9HD</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251023230000 +0700" stop="20251023233000 +0700" channel="COSMOTE Sport 9 HD">
@@ -615,6 +599,10 @@
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20251024210000 +0700" stop="20251024230000 +0700" channel="COSMOTE Sport 9 HD">
+    <title>Tennis: ATP 500 2025 (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
+<programme start="20251024230000 +0700" stop="20251025010000 +0700" channel="COSMOTE Sport 9 HD">
     <title>Tennis: ATP 500 2025 (L)</title>
     <desc>Live: Ya</desc>
 </programme>

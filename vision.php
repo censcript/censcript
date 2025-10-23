@@ -869,7 +869,7 @@
 <title>Kabar Hari Ini</title>
 </programme>
 <programme start="20251023210000 +0000" stop="20251023213000 +0000" channel="TVOne.vision">
-<title>Kabar Arena Pagi</title>
+<title>Kabar arena pagi</title>
 </programme>
 <programme start="20251023213000 +0000" stop="20251023230000 +0000" channel="TVOne.vision">
 <title>Kabar Pagi (L)</title>
