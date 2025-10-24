@@ -1,7 +1,3 @@
-<programme start="20251024180000 +0700" stop="20251024183000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Sports Classics: Football Countdowns E6</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251024183000 +0700" stop="20251024203000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Go Ahead Eagles - Aston Villa</title>
     <desc>Live: Tidak</desc>
@@ -210,6 +206,10 @@
     <title>Football: 2025 Socca Aegean Cup</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251025193000 +0700" stop="20251025200000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>William Hill Scottish Premiership - Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251024160000 +0700" stop="20251024192000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Indiana Pacers - Oklahoma City Thunder</title>
     <desc>Live: Tidak</desc>
@@ -278,8 +278,8 @@
     <title>NBA Specials: Basketball Stories</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251024174000 +0700" stop="20251024185000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: MotoGP 2025</title>
+<programme start="20251025193000 +0700" stop="20251025200000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>ACB Liga Endesa 2025-26 - Fifth Quarter E3</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251024185000 +0700" stop="20251024194500 +0700" channel="COSMOTE Sport 5 HD">
@@ -394,8 +394,8 @@
     <title>Motorsports: MotoGP 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251024143000 +0700" stop="20251024183000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: ATP 500 2025</title>
+<programme start="20251025193500 +0700" stop="20251025203500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: Moto3 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251024183000 +0700" stop="20251024203000 +0700" channel="COSMOTE Sport 6 HD">
@@ -594,14 +594,6 @@
     <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251024180000 +0700" stop="20251024183000 +0700" channel="COSMOTE Sport 9 HD">
-    <title>COSMOTESport9HD</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251024183000 +0700" stop="20251024190000 +0700" channel="COSMOTE Sport 9 HD">
-    <title>COSMOTESport9HD</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251024190000 +0700" stop="20251024210000 +0700" channel="COSMOTE Sport 9 HD">
     <title>Tennis: Felix Auger-Aliassime - Jaume Munar (L)</title>
     <desc>Live: Ya</desc>
@@ -651,6 +643,14 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251025180000 +0700" stop="20251025190000 +0700" channel="COSMOTE Sport 9 HD">
+    <title>COSMOTESport9HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251025190000 +0700" stop="20251025193000 +0700" channel="COSMOTE Sport 9 HD">
+    <title>COSMOTESport9HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251025193000 +0700" stop="20251025200000 +0700" channel="COSMOTE Sport 9 HD">
     <title>COSMOTESport9HD</title>
     <desc>Live: Tidak</desc>
 </programme>
