@@ -572,10 +572,10 @@
         <title>No Programme available now. Next Broadcast on 25th October, Saturday 7.20pm. Singapore Premier League 2025/2026</title>
     </programme>
     <programme start="20251023160000 +0000" stop="20251024160000 +0000" channel="spl02.mewatch">
-        <title>No programmes streaming LIVE at this moment</title>
+        <title>No Programme available now. Next Broadcast on 27th October, Monday 7.20pm. Singapore Premier League 2025/2026</title>
     </programme>
     <programme start="20251024160000 +0000" stop="20251025160000 +0000" channel="spl02.mewatch">
-        <title>No programmes streaming LIVE at this moment</title>
+        <title>No Programme available now. Next Broadcast on 27th October, Monday 7.20pm. Singapore Premier League 2025/2027</title>
     </programme>
     <programme start="20251023150000 +0000" stop="20251023170000 +0000" channel="now-80s.mewatch">
         <title>ALMOST Top of the Pops! 1985 - EP1</title>
