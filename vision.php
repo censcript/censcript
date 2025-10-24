@@ -352,29 +352,29 @@
 <programme start="20251024063000 +0000" stop="20251024070000 +0000" channel="SindoNews.vision">
 <title>Seputar iNews Siang</title>
 </programme>
-<programme start="20251024070000 +0000" stop="20251024083000 +0000" channel="SindoNews.vision">
+<programme start="20251024070000 +0000" stop="20251024080000 +0000" channel="SindoNews.vision">
 <title>iNews Siang</title>
 </programme>
-<programme start="20251024083000 +0000" stop="20251024093000 +0000" channel="SindoNews.vision">
+<programme start="20251024080000 +0000" stop="20251024090000 +0000" channel="SindoNews.vision">
 <title>Special Report</title>
 </programme>
-<programme start="20251024093000 +0000" stop="20251024110000 +0000" channel="SindoNews.vision">
+<programme start="20251024090000 +0000" stop="20251024110000 +0000" channel="SindoNews.vision">
 <title>SINDO Sore</title>
 </programme>
 <programme start="20251024110000 +0000" stop="20251024120000 +0000" channel="SindoNews.vision">
-<title>SINDO Files</title>
-</programme>
-<programme start="20251024120000 +0000" stop="20251024133000 +0000" channel="SindoNews.vision">
-<title>SINDO Prime</title>
-</programme>
-<programme start="20251024133000 +0000" stop="20251024143000 +0000" channel="SindoNews.vision">
-<title>SINDO Malam</title>
-</programme>
-<programme start="20251024143000 +0000" stop="20251024153000 +0000" channel="SindoNews.vision">
 <title>To The Point</title>
 </programme>
-<programme start="20251024153000 +0000" stop="20251024163000 +0000" channel="SindoNews.vision">
-<title>SINDO Files</title>
+<programme start="20251024120000 +0000" stop="20251024140000 +0000" channel="SindoNews.vision">
+<title>SINDO Prime</title>
+</programme>
+<programme start="20251024140000 +0000" stop="20251024150000 +0000" channel="SindoNews.vision">
+<title>SINDO Malam</title>
+</programme>
+<programme start="20251024150000 +0000" stop="20251024160000 +0000" channel="SindoNews.vision">
+<title>Special Report</title>
+</programme>
+<programme start="20251024160000 +0000" stop="20251024163000 +0000" channel="SindoNews.vision">
+<title>iNews Malam</title>
 </programme>
 <programme start="20251024163000 +0000" stop="20251024170000 +0000" channel="SindoNews.vision">
 <title>OMG</title>
@@ -385,13 +385,10 @@
 <programme start="20251024173000 +0000" stop="20251024180000 +0000" channel="SindoNews.vision">
 <title>New Top Files</title>
 </programme>
-<programme start="20251024180000 +0000" stop="20251024190000 +0000" channel="SindoNews.vision">
-<title>iNews Malam</title>
-</programme>
-<programme start="20251024190000 +0000" stop="20251024200000 +0000" channel="SindoNews.vision">
+<programme start="20251024180000 +0000" stop="20251024193000 +0000" channel="SindoNews.vision">
 <title>SINDO Prime</title>
 </programme>
-<programme start="20251024200000 +0000" stop="20251024210000 +0000" channel="SindoNews.vision">
+<programme start="20251024193000 +0000" stop="20251024210000 +0000" channel="SindoNews.vision">
 <title>iNews Sore</title>
 </programme>
 <programme start="20251024210000 +0000" stop="20251024220000 +0000" channel="SindoNews.vision">
@@ -659,13 +656,10 @@
 <title>Secret Story</title>
 </programme>
 <programme start="20251023233000 +0000" stop="20251024013000 +0000" channel="ANTV.vision">
-<title>Ateng Minta Kawin</title>
+<title>Si Doel Anak Betawi</title>
 </programme>
 <programme start="20251024013000 +0000" stop="20251024030000 +0000" channel="ANTV.vision">
 <title>Mangal Lakshmi</title>
-</programme>
-<programme start="20251024030000 +0000" stop="20251024063000 +0000" channel="ANTV.vision">
-<title>Ra.One</title>
 </programme>
 <programme start="20251024063000 +0000" stop="20251024080000 +0000" channel="ANTV.vision">
 <title>Cinta Keluarga Pandya</title>
@@ -691,16 +685,19 @@
 <programme start="20251024193000 +0000" stop="20251024223000 +0000" channel="ANTV.vision">
 <title>Gadar: Ek Prem Katha</title>
 </programme>
-<programme start="20251024223000 +0000" stop="20251025003000 +0000" channel="ANTV.vision">
+<programme start="20251024223000 +0000" stop="20251024233000 +0000" channel="ANTV.vision">
+<title>Masha And The Bear</title>
+</programme>
+<programme start="20251024233000 +0000" stop="20251025003000 +0000" channel="ANTV.vision">
 <title>Petualangan Superblox</title>
 </programme>
 <programme start="20251025003000 +0000" stop="20251025013000 +0000" channel="ANTV.vision">
 <title>Super Viral</title>
 </programme>
-<programme start="20251025013000 +0000" stop="20251025023000 +0000" channel="ANTV.vision">
+<programme start="20251025013000 +0000" stop="20251025030000 +0000" channel="ANTV.vision">
 <title>Jadi Aku Sebentar Saja</title>
 </programme>
-<programme start="20251025023000 +0000" stop="20251025063000 +0000" channel="ANTV.vision">
+<programme start="20251025030000 +0000" stop="20251025063000 +0000" channel="ANTV.vision">
 <title>Kushi</title>
 </programme>
 <programme start="20251025063000 +0000" stop="20251025080000 +0000" channel="ANTV.vision">
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20251025023000 +0000" stop="20251025031500 +0000" channel="BTV.vision">
 <title>Selera Rasa</title>
+</programme>
+<programme start="20251025031500 +0000" stop="20251025040000 +0000" channel="BTV.vision">
+<title>Endeus</title>
 </programme>
