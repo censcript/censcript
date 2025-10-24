@@ -158,7 +158,7 @@
     <title>News (L)</title>
 </programme>
 <programme start="20251024083000 +0000" stop="20251024090000 +0000" channel="Al Jazeera English.mncvision">
-    <title>101 East: Rapa Nui&#039;s New Dream</title>
+    <title>101 East: Rapa Nui&#039;s New Dawn</title>
 </programme>
 <programme start="20251024090000 +0000" stop="20251024093000 +0000" channel="Al Jazeera English.mncvision">
     <title>News (L)</title>

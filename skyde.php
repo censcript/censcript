@@ -97,6 +97,39 @@
 <programme start="20251024215500 +0000" stop="20251024224000 +0000" channel="13th Street HD.skyde">
     <title>Navy CIS: Hawaii</title>
 </programme>
+<programme start="20251023222000 +0000" stop="20251023225500 +0000" channel="Beate Uhse HD.skyde">
+    <title>Auto, Motor, Sex</title>
+</programme>
+<programme start="20251023225500 +0000" stop="20251023232500 +0000" channel="Beate Uhse HD.skyde">
+    <title>Auto, Motor, Sex</title>
+</programme>
+<programme start="20251023232500 +0000" stop="20251023234000 +0000" channel="Beate Uhse HD.skyde">
+    <title>Urban Smut</title>
+</programme>
+<programme start="20251023234000 +0000" stop="20251024005500 +0000" channel="Beate Uhse HD.skyde">
+    <title>Sex with Friends 2 - What if...?</title>
+</programme>
+<programme start="20251024005500 +0000" stop="20251024023500 +0000" channel="Beate Uhse HD.skyde">
+    <title>The Love Hotel 2</title>
+</programme>
+<programme start="20251024023500 +0000" stop="20251024034500 +0000" channel="Beate Uhse HD.skyde">
+    <title>Sweet Sexy Slips</title>
+</programme>
+<programme start="20251024034500 +0000" stop="20251024181500 +0000" channel="Beate Uhse HD.skyde">
+    <title>Programm von 20.15 Uhr bis 05.45 Uhr</title>
+</programme>
+<programme start="20251024181500 +0000" stop="20251024193000 +0000" channel="Beate Uhse HD.skyde">
+    <title>Die Geheimnisse von Onyx Ridge 1</title>
+</programme>
+<programme start="20251024193000 +0000" stop="20251024210500 +0000" channel="Beate Uhse HD.skyde">
+    <title>The Hitman - Love is Deadly</title>
+</programme>
+<programme start="20251024210500 +0000" stop="20251024211500 +0000" channel="Beate Uhse HD.skyde">
+    <title>Feel Naked</title>
+</programme>
+<programme start="20251024211500 +0000" stop="20251024230000 +0000" channel="Beate Uhse HD.skyde">
+    <title>Fun mit 40</title>
+</programme>
 <programme start="20251023220500 +0000" stop="20251023222000 +0000" channel="Cartoon Network.skyde">
     <title>Regular Show - Völlig abgedreht</title>
 </programme>
@@ -2534,7 +2567,7 @@
     <title>Live Der UEFA Super Donnerstag: Alle Spiele, alle Tore, Ligaphase</title>
 </programme>
 <programme start="20251023230000 +0000" stop="20251024010000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>UEFA ECL: SK Rapid - AC Florenz, Ligaphase, 2. Spieltag</title>
+    <title>UEFA EL: FC Salzburg - Ferencváros Budapest, Ligaphase, 3. Spieltag</title>
 </programme>
 <programme start="20251024010000 +0000" stop="20251024020000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Der UEFA Super Donnerstag: Alle Spiele, alle Tore, Ligaphase</title>
@@ -2561,7 +2594,7 @@
     <title>Admiral BL: 90in30: SCR - ASK, 10. Runde</title>
 </programme>
 <programme start="20251024073000 +0000" stop="20251024093000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>UEFA ECL: SK Rapid - AC Florenz, Ligaphase, 2. Spieltag</title>
+    <title>UEFA EL: FC Salzburg - Ferencváros Budapest, Ligaphase, 3. Spieltag</title>
 </programme>
 <programme start="20251024093000 +0000" stop="20251024103000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Der UEFA Super Donnerstag: Alle Spiele, alle Tore, Ligaphase</title>
@@ -2710,7 +2743,7 @@
 <programme start="20251024173000 +0000" stop="20251024181500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: SVW - FCU: tipico Countdown, Flutlicht-Freitag, 8. Spieltag</title>
 </programme>
-<programme start="20251024181500 +0000" stop="20251024211500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
+<programme start="20251024181500 +0000" stop="20251024214500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: Werder Bremen - 1. FC Union Berlin, Flutlicht-Freitag, 8. Spieltag</title>
 </programme>
 <programme start="20251024154000 +0000" stop="20251024160000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
@@ -2719,7 +2752,7 @@
 <programme start="20251024160000 +0000" stop="20251024183000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Live 2. BL: Freitags-Konferenz, 10. Spieltag</title>
 </programme>
-<programme start="20251024183000 +0000" stop="20251024191500 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+<programme start="20251024183000 +0000" stop="20251024194500 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Live 2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 10. Spieltag, Freitag</title>
 </programme>
 <programme start="20251024154000 +0000" stop="20251024160000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
@@ -2728,19 +2761,19 @@
 <programme start="20251024160000 +0000" stop="20251024183000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live 2. BL: FC Schalke 04 - SV Darmstadt 98, 10. Spieltag</title>
 </programme>
-<programme start="20251024183000 +0000" stop="20251024203000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
+<programme start="20251024183000 +0000" stop="20251024210000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live BL: Sky Sport Fantasy: SVW - FCU, 8. Spieltag</title>
 </programme>
 <programme start="20251024154000 +0000" stop="20251024160000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Es folgt: LIVE 2. Liga</title>
 </programme>
-<programme start="20251024160000 +0000" stop="20251024183000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
+<programme start="20251024160000 +0000" stop="20251024190000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live 2. BL: SpVgg Greuther Fürth - Karlsruher SC, 10. Spieltag</title>
 </programme>
 <programme start="20251024154000 +0000" stop="20251024160000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>2. BL: Es folgt</title>
 </programme>
-<programme start="20251024160000 +0000" stop="20251024183000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
+<programme start="20251024160000 +0000" stop="20251024190000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Live 2. BL: Multiview, 10. Spieltag, Freitag</title>
 </programme>
 <programme start="20251023220000 +0000" stop="20251024000000 +0000" channel="Sky Sport F1 HD.skyde">
@@ -2950,6 +2983,108 @@
 <programme start="20251024214500 +0000" stop="20251024225500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>MotoGP: 1. Freies Training - GP Malaysia</title>
 </programme>
+<programme start="20251023230000 +0000" stop="20251023233000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Transfer Update: Die Show</title>
+</programme>
+<programme start="20251023233000 +0000" stop="20251024000000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Sky Sport News: Nightline</title>
+</programme>
+<programme start="20251024000000 +0000" stop="20251024010000 +0000" channel="Sky Sport News HD.skyde">
+    <title>BL: Matchplan: BVB - KOE, 8. Spieltag</title>
+</programme>
+<programme start="20251024010000 +0000" stop="20251024040000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Sky Sport News: Nightline</title>
+</programme>
+<programme start="20251024040000 +0000" stop="20251024043000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Fußball: Spielmacher Podcast von Sports 360 mit Sebastian Hellmann (Gast: Daniel Farke)</title>
+</programme>
+<programme start="20251024043000 +0000" stop="20251024050000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Sky Sport News: Der Morgen</title>
+</programme>
+<programme start="20251024050000 +0000" stop="20251024060000 +0000" channel="Sky Sport News HD.skyde">
+    <title>BL: Matchplan: BVB - KOE, 8. Spieltag</title>
+</programme>
+<programme start="20251024060000 +0000" stop="20251024063000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Sky Sport News: Der Morgen</title>
+</programme>
+<programme start="20251024063000 +0000" stop="20251024080000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Sky Sport News: Triple - Der Hagedorn Fußballtalk</title>
+</programme>
+<programme start="20251024080000 +0000" stop="20251024083000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: FCB-PK</title>
+</programme>
+<programme start="20251024083000 +0000" stop="20251024084500 +0000" channel="Sky Sport News HD.skyde">
+    <title>F1: Warm Up - Das Motorsport Spezial</title>
+</programme>
+<programme start="20251024084500 +0000" stop="20251024090000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Sky Sport News: Der Morgen</title>
+</programme>
+<programme start="20251024090000 +0000" stop="20251024093000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Fußball: Spielmacher Podcast von Sports 360 mit Sebastian Hellmann (Gast: Daniel Farke)</title>
+</programme>
+<programme start="20251024093000 +0000" stop="20251024100000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Transfer Update: Die Show</title>
+</programme>
+<programme start="20251024100000 +0000" stop="20251024130000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: Pressekonferenzen live</title>
+</programme>
+<programme start="20251024130000 +0000" stop="20251024133000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live TGIF: Die Bundesliga-Vorschau</title>
+</programme>
+<programme start="20251024133000 +0000" stop="20251024134500 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: Der Olympia-Entscheid für München</title>
+</programme>
+<programme start="20251024134500 +0000" stop="20251024140000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live TGIF: Die Bundesliga-Vorschau</title>
+</programme>
+<programme start="20251024140000 +0000" stop="20251024143000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live TGIF: Die Bundesliga-Vorschau</title>
+</programme>
+<programme start="20251024143000 +0000" stop="20251024144500 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: Erste 11 meets Sky Sport Fantasy</title>
+</programme>
+<programme start="20251024144500 +0000" stop="20251024150000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live TGIF: Die Bundesliga-Vorschau</title>
+</programme>
+<programme start="20251024150000 +0000" stop="20251024153000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live TGIF: Die Bundesliga-Vorschau</title>
+</programme>
+<programme start="20251024153000 +0000" stop="20251024160000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Gesagt. Gemeint: Mit Cramer und Köhler</title>
+</programme>
+<programme start="20251024160000 +0000" stop="20251024163000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live 2. BL: Vorbericht: Freitags-Konferenz, 10. Spieltag</title>
+</programme>
+<programme start="20251024163000 +0000" stop="20251024164500 +0000" channel="Sky Sport News HD.skyde">
+    <title>Sky Sport News: Erste 11 meets Sky Sport Fantasy</title>
+</programme>
+<programme start="20251024164500 +0000" stop="20251024170000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: Primetime</title>
+</programme>
+<programme start="20251024170000 +0000" stop="20251024173000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: Primetime</title>
+</programme>
+<programme start="20251024173000 +0000" stop="20251024183000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live BL: SVW - FCU: tipico Countdown, Flutlicht-Freitag, 8. Spieltag</title>
+</programme>
+<programme start="20251024183000 +0000" stop="20251024191500 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live 2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 10. Spieltag, Freitag</title>
+</programme>
+<programme start="20251024191500 +0000" stop="20251024193000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: Guten Abend Fans!</title>
+</programme>
+<programme start="20251024193000 +0000" stop="20251024200000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: Guten Abend Fans!</title>
+</programme>
+<programme start="20251024200000 +0000" stop="20251024203000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: Top News</title>
+</programme>
+<programme start="20251024203000 +0000" stop="20251024210000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Gesagt. Gemeint: Mit Cramer und Köhler</title>
+</programme>
+<programme start="20251024210000 +0000" stop="20251024220000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: Deine Vorschau</title>
+</programme>
 <programme start="20251023220000 +0000" stop="20251023223000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: 90in30: WHU - BRE, 8. Spieltag</title>
 </programme>
@@ -3070,10 +3205,13 @@
 <programme start="20251024213000 +0000" stop="20251024220000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: 90in30: LIV - MUN, 8. Spieltag</title>
 </programme>
-<programme start="20251023230000 +0000" stop="20251023233000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP: This Week</title>
+<programme start="20251023220500 +0000" stop="20251023223000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>Meine Geschichte: Das Leben von Boris Becker (Teil 1)</title>
 </programme>
-<programme start="20251023233000 +0000" stop="20251024013000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20251023223000 +0000" stop="20251024001500 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 500: A. Zverev (GER) - M. Arnaldi (ITA), Erste Bank Open in Wien (Österreich), 4. Tag</title>
+</programme>
+<programme start="20251024001500 +0000" stop="20251024013000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: L. Fernandez (CAN) - E. Rybakina (KAZ), Toray Pan Pacific Open Tennis in Tokio (JPN), 4. Tag</title>
 </programme>
 <programme start="20251024013000 +0000" stop="20251024100000 +0000" channel="Sky Sport Tennis HD.skyde">
@@ -3089,7 +3227,7 @@
     <title>Live ATP 500: Erste Bank Open in Wien (Österreich), 5. Tag</title>
 </programme>
 <programme start="20251024203000 +0000" stop="20251024223000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: Topspiel, Erste Bank Open in Wien (Österreich), 5. Tag</title>
+    <title>ATP 500: A. Zverev (GER) - T. Griekspoor (NED), Erste Bank Open in Wien (Österreich), 5. Tag</title>
 </programme>
 <programme start="20251024000000 +0000" stop="20251024020000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NHL: Anaheim Ducks @ Boston Bruins</title>
@@ -3109,11 +3247,11 @@
 <programme start="20251024100000 +0000" stop="20251024105500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live Ferrari Challenge Europe: Trofeo Pirelli - 2. Rennen in Mugello</title>
 </programme>
-<programme start="20251024105500 +0000" stop="20251024111500 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>F1: Top 20: Best Battles of 2024</title>
+<programme start="20251024105500 +0000" stop="20251024112000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>F1: Best Onboards: Michael Schumacher</title>
 </programme>
-<programme start="20251024111500 +0000" stop="20251024114500 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Fußball: scooore Polen! Alle Tore</title>
+<programme start="20251024112000 +0000" stop="20251024114500 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>F1: Best Onboards: Sebastian Vettel</title>
 </programme>
 <programme start="20251024114500 +0000" stop="20251024124500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>F1: Sprint - GP USA</title>
@@ -3121,20 +3259,17 @@
 <programme start="20251024124500 +0000" stop="20251024134500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live Ferrari Challenge Europe: Coppa Shell - 2. Rennen in Mugello</title>
 </programme>
-<programme start="20251024134500 +0000" stop="20251024140500 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>NHL: Highlights DET@NYI</title>
+<programme start="20251024134500 +0000" stop="20251024144500 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Ferrari Challenge Europe: Coppa Shell AM - 2. Rennen in Mugello</title>
 </programme>
-<programme start="20251024140500 +0000" stop="20251024143500 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>BL: Bundesliga Weekly</title>
+<programme start="20251024144500 +0000" stop="20251024151500 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>NBA: Action</title>
 </programme>
-<programme start="20251024143500 +0000" stop="20251024153500 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Ferrari Challenge Europe: Trofeo Pirelli - 2. Rennen in Mugello</title>
-</programme>
-<programme start="20251024153500 +0000" stop="20251024154500 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>F1: Max Verstappen: The DNA of a Champion</title>
-</programme>
-<programme start="20251024154500 +0000" stop="20251024160000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20251024151500 +0000" stop="20251024153000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>NHL: Highlights MTL@EDM</title>
+</programme>
+<programme start="20251024153000 +0000" stop="20251024160000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>BL: Bundesliga Weekly</title>
 </programme>
 <programme start="20251024160000 +0000" stop="20251024182500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live 2. BL: Freitags-Konferenz, 10. Spieltag</title>
@@ -3169,7 +3304,7 @@
 <programme start="20251023224000 +0000" stop="20251023230000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: LIVE NHL</title>
 </programme>
-<programme start="20251023230000 +0000" stop="20251024040000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20251023230000 +0000" stop="20251024023000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NHL: Anaheim Ducks @ Boston Bruins</title>
 </programme>
 <programme start="20251023220000 +0000" stop="20251023224500 +0000" channel="SYFY HD.skyde">
