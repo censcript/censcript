@@ -3907,7 +3907,13 @@
     <programme start="20251024040000 +0000" stop="20251024040500 +0000" channel="NHK World Premium HD.starhub">
         <title>News</title>
     </programme>
-    <programme start="20251024040500 +0000" stop="20251024055000 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20251024040500 +0000" stop="20251024050000 +0000" channel="NHK World Premium HD.starhub">
+        <title>News Around Japan</title>
+    </programme>
+    <programme start="20251024050000 +0000" stop="20251024053300 +0000" channel="NHK World Premium HD.starhub">
+        <title>Live from Japan&#039;s Diet: Prime Minister&#039;s Policy Speech</title>
+    </programme>
+    <programme start="20251024053300 +0000" stop="20251024055000 +0000" channel="NHK World Premium HD.starhub">
         <title>News Around Japan</title>
     </programme>
     <programme start="20251024055000 +0000" stop="20251024055500 +0000" channel="NHK World Premium HD.starhub">

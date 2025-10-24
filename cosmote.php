@@ -70,6 +70,10 @@
     <title>Football: FC Barcelona - Olympiacos</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251025173000 +0700" stop="20251025183000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Highlights: UEL &amp; UECL 2025-26</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251024150500 +0700" stop="20251024170500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: AEK - Aberdeen</title>
     <desc>Live: Tidak</desc>
@@ -202,6 +206,10 @@
     <title>Football: Greece - Croatia</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251025170000 +0700" stop="20251025180000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Greece - Bulgaria</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251024160000 +0700" stop="20251024192000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Indiana Pacers - Oklahoma City Thunder</title>
     <desc>Live: Tidak</desc>
@@ -264,10 +272,6 @@
 </programme>
 <programme start="20251025162000 +0700" stop="20251025183000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Rytas Vilnius - Promitheas</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251024154500 +0700" stop="20251024164000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: Moto3 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251024164000 +0700" stop="20251024174000 +0700" channel="COSMOTE Sport 5 HD">
@@ -380,6 +384,10 @@
 </programme>
 <programme start="20251025165500 +0700" stop="20251025174500 +0700" channel="COSMOTE Sport 5 HD">
     <title>Motorsports: Moto2 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251025174500 +0700" stop="20251025183000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: MotoGP 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251024143000 +0700" stop="20251024183000 +0700" channel="COSMOTE Sport 6 HD">
