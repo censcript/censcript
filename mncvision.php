@@ -1580,7 +1580,7 @@
     <title>Berita Satu Utama</title>
 </programme>
 <programme start="20251024123000 +0000" stop="20251024130000 +0000" channel="BTV.mncvision">
-    <title>Dunia Binatang</title>
+    <title>30 Minutes With</title>
 </programme>
 <programme start="20251024130000 +0000" stop="20251024140000 +0000" channel="BTV.mncvision">
     <title>Berita Viral</title>
