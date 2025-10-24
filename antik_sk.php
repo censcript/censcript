@@ -1084,40 +1084,40 @@
   <programme start="20251025235000 +0000" stop="20251026010500 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">FIS Svetový pohár obrovský slalom muži</title>
   </programme>
-  <programme start="20251026010500 +0000" stop="20251026031000 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20251026010500 +0000" stop="20251026023000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">FIS Svetový pohár zjazd muži</title>
   </programme>
-  <programme start="20251026031000 +0000" stop="20251026043500 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20251026023000 +0000" stop="20251026040500 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">FIS Svetový pohár zjazd ženy</title>
   </programme>
-  <programme start="20251026043500 +0000" stop="20251026063000 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20251026040500 +0000" stop="20251026063000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">World Triathlon Championships Series</title>
   </programme>
   <programme start="20251026063000 +0000" stop="20251026085000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Krasokorčuľovanie ISU Grand Prix</title>
   </programme>
-  <programme start="20251026085000 +0000" stop="20251026094500 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20251026085000 +0000" stop="20251026094000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Krasokorčuľovanie ISU Grand Prix</title>
   </programme>
-  <programme start="20251026094500 +0000" stop="20251026115500 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20251026094000 +0000" stop="20251026115500 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Hokej - Tipsport liga</title>
   </programme>
-  <programme start="20251026115500 +0000" stop="20251026143000 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20251026115500 +0000" stop="20251026143500 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Hokejbal</title>
   </programme>
-  <programme start="20251026143000 +0000" stop="20251026153000 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20251026143500 +0000" stop="20251026153000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Hokej - Zostrihy Tipsport ligy</title>
   </programme>
   <programme start="20251026153000 +0000" stop="20251026155500 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Štúdio Hokej</title>
   </programme>
-  <programme start="20251026155500 +0000" stop="20251026185500 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20251026155500 +0000" stop="20251026185000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Hokej - Tipsport liga</title>
   </programme>
-  <programme start="20251026185500 +0000" stop="20251026211500 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20251026185000 +0000" stop="20251026212000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Basketbal Euro Cup</title>
   </programme>
-  <programme start="20251026211500 +0000" stop="20251026232500 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20251026212000 +0000" stop="20251026232000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Footgolf</title>
   </programme>
   <programme start="20251025204500 +0000" stop="20251025232000 +0000" channel="JOJ Šport 2.webtv.sk">

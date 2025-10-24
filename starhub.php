@@ -2194,11 +2194,23 @@
     <programme start="20251024223000 +0000" stop="20251025010000 +0000" channel="KTV HD.starhub">
         <title>Movie - Enn Iniya Pon Nilave</title>
     </programme>
-    <programme start="20251025040000 +0000" stop="20251025100000 +0000" channel="KTV HD.starhub">
-        <title>Information Not Available</title>
+    <programme start="20251025010000 +0000" stop="20251025013000 +0000" channel="KTV HD.starhub">
+        <title>Fillers</title>
     </programme>
-    <programme start="20251025100000 +0000" stop="20251025160000 +0000" channel="KTV HD.starhub">
-        <title>Information Not Available</title>
+    <programme start="20251025013000 +0000" stop="20251025043000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Aarathu Sinam</title>
+    </programme>
+    <programme start="20251025043000 +0000" stop="20251025073000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Sooriyan</title>
+    </programme>
+    <programme start="20251025073000 +0000" stop="20251025103000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Nee Varuvai Ena</title>
+    </programme>
+    <programme start="20251025103000 +0000" stop="20251025133000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Aram</title>
+    </programme>
+    <programme start="20251025133000 +0000" stop="20251025170000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Pichaikkaran</title>
     </programme>
     <programme start="20251024153000 +0000" stop="20251024181500 +0000" channel="beIN Sports 2 HD.starhub">
         <title>ATP Tour 500 2025: Vienna QF 3 (Live)</title>
@@ -7175,7 +7187,7 @@
         <title>NHK Newsline</title>
     </programme>
     <programme start="20251025001000 +0000" stop="20251025010000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>Documentary 360</title>
+        <title>Living in the Grasslands</title>
     </programme>
     <programme start="20251025010000 +0000" stop="20251025011000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>NHK Newsline</title>
@@ -7208,7 +7220,7 @@
         <title>NHK Newsline</title>
     </programme>
     <programme start="20251025041000 +0000" stop="20251025044000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>Time and Tide</title>
+        <title>Japanese Fireworks Truth</title>
     </programme>
     <programme start="20251025044000 +0000" stop="20251025045000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>Magical Japanese</title>
@@ -7232,7 +7244,7 @@
         <title>NHK Newsline</title>
     </programme>
     <programme start="20251025061000 +0000" stop="20251025070000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>Documentary 360</title>
+        <title>Living in the Grasslands</title>
     </programme>
     <programme start="20251025070000 +0000" stop="20251025071000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>NHK Newsline</title>
@@ -7244,7 +7256,7 @@
         <title>NHK Newsline</title>
     </programme>
     <programme start="20251025081000 +0000" stop="20251025084000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>Time and Tide</title>
+        <title>Japanese Fireworks Truth</title>
     </programme>
     <programme start="20251025084000 +0000" stop="20251025085000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>Magical Japanese</title>
@@ -7289,7 +7301,7 @@
         <title>NHK Newsline</title>
     </programme>
     <programme start="20251025121000 +0000" stop="20251025130000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>Documentary 360</title>
+        <title>Living in the Grasslands</title>
     </programme>
     <programme start="20251025130000 +0000" stop="20251025131000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>NHK Newsline</title>
@@ -8296,53 +8308,56 @@
     <programme start="20251024230000 +0000" stop="20251025010000 +0000" channel="Dragon TV.starhub">
         <title>Dragon TV Morning News</title>
     </programme>
-    <programme start="20251025023000 +0000" stop="20251025031000 +0000" channel="Dragon TV.starhub">
-        <title>Super Diva</title>
-    </programme>
-    <programme start="20251025031000 +0000" stop="20251025033500 +0000" channel="Dragon TV.starhub">
-        <title>CARE ON THE WAY</title>
-    </programme>
-    <programme start="20251025040000 +0000" stop="20251025043000 +0000" channel="Dragon TV.starhub">
-        <title>China Archaeology Weekly</title>
-    </programme>
-    <programme start="20251025043000 +0000" stop="20251025051000 +0000" channel="Dragon TV.starhub">
-        <title>Amazing 2 cities</title>
-    </programme>
-    <programme start="20251025051000 +0000" stop="20251025060000 +0000" channel="Dragon TV.starhub">
-        <title>futuer china</title>
-    </programme>
-    <programme start="20251025060000 +0000" stop="20251025070000 +0000" channel="Dragon TV.starhub">
+    <programme start="20251025010000 +0000" stop="20251025020500 +0000" channel="Dragon TV.starhub">
         <title>A Green Trip</title>
     </programme>
-    <programme start="20251025070000 +0000" stop="20251025080000 +0000" channel="Dragon TV.starhub">
-        <title>Ai Romance</title>
-    </programme>
-    <programme start="20251025080000 +0000" stop="20251025090000 +0000" channel="Dragon TV.starhub">
+    <programme start="20251025020500 +0000" stop="20251025031500 +0000" channel="Dragon TV.starhub">
         <title>Super Diva</title>
     </programme>
-    <programme start="20251025090000 +0000" stop="20251025093500 +0000" channel="Dragon TV.starhub">
+    <programme start="20251025031500 +0000" stop="20251025034000 +0000" channel="Dragon TV.starhub">
         <title>CARE ON THE WAY</title>
     </programme>
-    <programme start="20251025093500 +0000" stop="20251025100000 +0000" channel="Dragon TV.starhub">
+    <programme start="20251025034000 +0000" stop="20251025040500 +0000" channel="Dragon TV.starhub">
         <title>Next Station</title>
+    </programme>
+    <programme start="20251025040500 +0000" stop="20251025043000 +0000" channel="Dragon TV.starhub">
+        <title>China Archaeology Weekly</title>
+    </programme>
+    <programme start="20251025043000 +0000" stop="20251025052000 +0000" channel="Dragon TV.starhub">
+        <title>Amazing 2 cities</title>
+    </programme>
+    <programme start="20251025052000 +0000" stop="20251025060500 +0000" channel="Dragon TV.starhub">
+        <title>Future China</title>
+    </programme>
+    <programme start="20251025060500 +0000" stop="20251025071000 +0000" channel="Dragon TV.starhub">
+        <title>A Green Trip</title>
+    </programme>
+    <programme start="20251025071000 +0000" stop="20251025082500 +0000" channel="Dragon TV.starhub">
+        <title>Ai Romance</title>
+    </programme>
+    <programme start="20251025082500 +0000" stop="20251025093500 +0000" channel="Dragon TV.starhub">
+        <title>Super Diva</title>
+    </programme>
+    <programme start="20251025093500 +0000" stop="20251025100000 +0000" channel="Dragon TV.starhub">
+        <title>CARE ON THE WAY</title>
     </programme>
     <programme start="20251025100000 +0000" stop="20251025110000 +0000" channel="Dragon TV.starhub">
         <title>Dragon TV Primetime News</title>
     </programme>
-    <programme start="20251025110000 +0000" stop="20251025114000 +0000" channel="Dragon TV.starhub">
+    <programme start="20251025110000 +0000" stop="20251025114500 +0000" channel="Dragon TV.starhub">
         <title>A Green Trip</title>
     </programme>
-    <programme start="20251025114000 +0000" stop="20251025133000 +0000" channel="Dragon TV.starhub">
-        <title>futuer china</title>
+    <programme start="20251025114500 +0000" stop="20251025132500 +0000" channel="Dragon TV.starhub">
+        <title>Future China</title>
     </programme>
-    <programme start="20251025133000 +0000" stop="20251025143000 +0000" channel="Dragon TV.starhub">
+    <programme start="20251025132500 +0000" stop="20251025144000 +0000" channel="Dragon TV.starhub">
         <title>Ai Romance</title>
     </programme>
-    <programme start="20251025143000 +0000" stop="20251025153000 +0000" channel="Dragon TV.starhub">
-        <title>A Green Trip</title>
+    <programme start="20251025144000 +0000" stop="20251025150500 +0000" channel="Dragon TV.starhub">
+        <title>Cheer up!small shops</title>
     </programme>
-    <programme start="20251025153000 +0000" stop="20251025163000 +0000" channel="Dragon TV.starhub">
-        <title>futuer china</title>
+    <programme start="20251025150500 +0000" stop="20251025161500 +0000" channel="Dragon TV.starhub">
+        <title>A Green Trip</title>
     </programme>
     <programme start="20251024160000 +0000" stop="20251024163000 +0000" channel="Travelxp HD.starhub">
         <title>Zanskar, India</title>
