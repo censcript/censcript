@@ -7670,7 +7670,7 @@
         <title>5 &amp; 6 Nations Classics 2009 - Wales v Ireland</title>
     </programme>
     <programme start="20251024083000 +0000" stop="20251024102000 +0000" channel="Premier Sports.starhub">
-        <title>URC Zebre v Stormers</title>
+        <title>URC Zebre Parma v Stormers</title>
     </programme>
     <programme start="20251024102000 +0000" stop="20251024121000 +0000" channel="Premier Sports.starhub">
         <title>URC Ospreys v Glasgow Warriors</title>
