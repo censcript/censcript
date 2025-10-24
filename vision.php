@@ -355,14 +355,11 @@
 <programme start="20251024070000 +0000" stop="20251024083000 +0000" channel="SindoNews.vision">
 <title>iNews Siang</title>
 </programme>
-<programme start="20251024083000 +0000" stop="20251024093000 +0000" channel="SindoNews.vision">
+<programme start="20251024080000 +0000" stop="20251024090000 +0000" channel="SindoNews.vision">
 <title>Special Report</title>
 </programme>
-<programme start="20251024093000 +0000" stop="20251024110000 +0000" channel="SindoNews.vision">
+<programme start="20251024090000 +0000" stop="20251024110000 +0000" channel="SindoNews.vision">
 <title>SINDO Sore</title>
-</programme>
-<programme start="20251024110000 +0000" stop="20251024120000 +0000" channel="SindoNews.vision">
-<title>SINDO Files</title>
 </programme>
 <programme start="20251024120000 +0000" stop="20251024133000 +0000" channel="SindoNews.vision">
 <title>SINDO Prime</title>
@@ -697,10 +694,10 @@
 <programme start="20251025003000 +0000" stop="20251025013000 +0000" channel="ANTV.vision">
 <title>Super Viral</title>
 </programme>
-<programme start="20251025013000 +0000" stop="20251025023000 +0000" channel="ANTV.vision">
+<programme start="20251025013000 +0000" stop="20251025030000 +0000" channel="ANTV.vision">
 <title>Jadi Aku Sebentar Saja</title>
 </programme>
-<programme start="20251025023000 +0000" stop="20251025063000 +0000" channel="ANTV.vision">
+<programme start="20251025030000 +0000" stop="20251025063000 +0000" channel="ANTV.vision">
 <title>Kushi</title>
 </programme>
 <programme start="20251025063000 +0000" stop="20251025080000 +0000" channel="ANTV.vision">
