@@ -82,10 +82,10 @@
 <programme start="20251024041500 +0000" stop="20251024063000 +0000" channel="MNCTV.vision">
 <title>Upin &amp; Ipin</title>
 </programme>
-<programme start="20251024063000 +0000" stop="20251024093000 +0000" channel="MNCTV.vision">
+<programme start="20251024063000 +0000" stop="20251024083000 +0000" channel="MNCTV.vision">
 <title>MNC TV</title>
 </programme>
-<programme start="20251024093000 +0000" stop="20251024100000 +0000" channel="MNCTV.vision">
+<programme start="20251024083000 +0000" stop="20251024100000 +0000" channel="MNCTV.vision">
 <title>Upin &amp; Ipin</title>
 </programme>
 <programme start="20251024100000 +0000" stop="20251024113000 +0000" channel="MNCTV.vision">
@@ -97,10 +97,10 @@
 <programme start="20251024123000 +0000" stop="20251024160000 +0000" channel="MNCTV.vision">
 <title>DMD Panggung Rezeki (MNCTV)</title>
 </programme>
-<programme start="20251024160000 +0000" stop="20251024183000 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<programme start="20251024160000 +0000" stop="20251024170000 +0000" channel="MNCTV.vision">
+<title>Arab Maklum 2</title>
 </programme>
-<programme start="20251024183000 +0000" stop="20251024190000 +0000" channel="MNCTV.vision">
+<programme start="20251024170000 +0000" stop="20251024190000 +0000" channel="MNCTV.vision">
 <title>Suparman Reborn</title>
 </programme>
 <programme start="20251024190000 +0000" stop="20251024210000 +0000" channel="MNCTV.vision">
@@ -160,11 +160,14 @@
 <programme start="20251024040000 +0000" stop="20251024070000 +0000" channel="GTV.vision">
 <title>Spongebob Squarepants (GTV)</title>
 </programme>
-<programme start="20251024070000 +0000" stop="20251024090000 +0000" channel="GTV.vision">
+<programme start="20251024070000 +0000" stop="20251024080000 +0000" channel="GTV.vision">
 <title>Lets Get Wet</title>
 </programme>
+<programme start="20251024080000 +0000" stop="20251024090000 +0000" channel="GTV.vision">
+<title>Baper (GTV)</title>
+</programme>
 <programme start="20251024090000 +0000" stop="20251024093000 +0000" channel="GTV.vision">
-<title>DaDuDiDo</title>
+<title>The Helping Heroes</title>
 </programme>
 <programme start="20251024093000 +0000" stop="20251024110000 +0000" channel="GTV.vision">
 <title>SpongeBob SquarePants Movie</title>
@@ -176,10 +179,10 @@
 <title>Anak Jalanan</title>
 </programme>
 <programme start="20251024123000 +0000" stop="20251024143000 +0000" channel="GTV.vision">
-<title>US Seal 2</title>
+<title>Boa</title>
 </programme>
 <programme start="20251024143000 +0000" stop="20251024153000 +0000" channel="GTV.vision">
-<title>Instant Family</title>
+<title>The Whirlwind Of Sword &amp; Fairy</title>
 </programme>
 <programme start="20251024153000 +0000" stop="20251024170000 +0000" channel="GTV.vision">
 <title>GTV</title>
@@ -212,7 +215,7 @@
 <title>Naruto Shippuden (GTV)</title>
 </programme>
 <programme start="20251025080000 +0000" stop="20251025090000 +0000" channel="GTV.vision">
-<title>Bleach: Silent Afterworld</title>
+<title>Bleach: Soul Resonance</title>
 </programme>
 <programme start="20251025090000 +0000" stop="20251025100000 +0000" channel="GTV.vision">
 <title>TV Champions</title>
@@ -265,17 +268,17 @@
 <programme start="20251024160000 +0000" stop="20251024163000 +0000" channel="iNews.vision">
 <title>iNews Sport (L)</title>
 </programme>
-<programme start="20251024163000 +0000" stop="20251024170000 +0000" channel="iNews.vision">
-<title>New Top Files</title>
+<programme start="20251024163000 +0000" stop="20251024173000 +0000" channel="iNews.vision">
+<title>iNews</title>
 </programme>
-<programme start="20251024170000 +0000" stop="20251024174500 +0000" channel="iNews.vision">
+<programme start="20251024173000 +0000" stop="20251024180000 +0000" channel="iNews.vision">
 <title>Realita</title>
 </programme>
-<programme start="20251024174500 +0000" stop="20251024183000 +0000" channel="iNews.vision">
-<title>iNews Sore</title>
+<programme start="20251024180000 +0000" stop="20251024184500 +0000" channel="iNews.vision">
+<title>iNews Room</title>
 </programme>
-<programme start="20251024183000 +0000" stop="20251024194500 +0000" channel="iNews.vision">
-<title>iNews</title>
+<programme start="20251024184500 +0000" stop="20251024194500 +0000" channel="iNews.vision">
+<title>iNews Sore</title>
 </programme>
 <programme start="20251024194500 +0000" stop="20251024201500 +0000" channel="iNews.vision">
 <title>iNews Malam</title>
@@ -666,6 +669,9 @@
 </programme>
 <programme start="20251024093000 +0000" stop="20251024110000 +0000" channel="ANTV.vision">
 <title>Takdir Cinta Layla</title>
+</programme>
+<programme start="20251024110000 +0000" stop="20251024130000 +0000" channel="ANTV.vision">
+<title>Rumah Kentang: The Beginning</title>
 </programme>
 <programme start="20251024130000 +0000" stop="20251024150000 +0000" channel="ANTV.vision">
 <title>Rindu Tak Berujung</title>
@@ -1491,10 +1497,4 @@
 </programme>
 <programme start="20251025031500 +0000" stop="20251025040000 +0000" channel="BTV.vision">
 <title>Endeus</title>
-</programme>
-<programme start="20251025040000 +0000" stop="20251025050000 +0000" channel="BTV.vision">
-<title>Berita Satu Siang</title>
-</programme>
-<programme start="20251025050000 +0000" stop="20251025060000 +0000" channel="BTV.vision">
-<title>Jalan Dakwah</title>
 </programme>
