@@ -1297,102 +1297,6 @@
 <programme start="20251024153000 +0000" stop="20251024160000 +0000" channel="beIN Sports 2 HD.mncvision">
     <title>ATP Tour 500 2025: Vienna (L)</title>
 </programme>
-<programme start="20251023185500 +0000" stop="20251023210000 +0000" channel="beIN Sports 3.mncvision">
-    <title>UECL 2025/26: CRY Vs AEL (L)</title>
-</programme>
-<programme start="20251023210000 +0000" stop="20251023230000 +0000" channel="beIN Sports 3.mncvision">
-    <title>Total WAFCON 2024: NGA Vs ALG</title>
-</programme>
-<programme start="20251023230000 +0000" stop="20251024000000 +0000" channel="beIN Sports 3.mncvision">
-    <title>UCL Classic Matches: CEL Vs JUV</title>
-</programme>
-<programme start="20251024000000 +0000" stop="20251024015000 +0000" channel="beIN Sports 3.mncvision">
-    <title>UEL 2025/26: FCS Vs BOL</title>
-</programme>
-<programme start="20251024015000 +0000" stop="20251024034000 +0000" channel="beIN Sports 3.mncvision">
-    <title>UEL 2025/26: GNK Vs BET</title>
-</programme>
-<programme start="20251024034000 +0000" stop="20251024053000 +0000" channel="beIN Sports 3.mncvision">
-    <title>UEL 2025/26: BRA Vs RAN</title>
-</programme>
-<programme start="20251024053000 +0000" stop="20251024063000 +0000" channel="beIN Sports 3.mncvision">
-    <title>UEL/UECL Highlights 2025/26</title>
-</programme>
-<programme start="20251024063000 +0000" stop="20251024081500 +0000" channel="beIN Sports 3.mncvision">
-    <title>UEL 2025/26: ROM Vs PLZ</title>
-</programme>
-<programme start="20251024081500 +0000" stop="20251024100000 +0000" channel="beIN Sports 3.mncvision">
-    <title>UEL 2025/26: LIL Vs PKT</title>
-</programme>
-<programme start="20251024100000 +0000" stop="20251024114500 +0000" channel="beIN Sports 3.mncvision">
-    <title>UEL 2025/26: CEL Vs NIC</title>
-</programme>
-<programme start="20251024114500 +0000" stop="20251024133000 +0000" channel="beIN Sports 3.mncvision">
-    <title>UEL 2025/26: NFO Vs POR</title>
-</programme>
-<programme start="20251024133000 +0000" stop="20251024140000 +0000" channel="beIN Sports 3.mncvision">
-    <title>The Outdoor Sports Show 2025</title>
-</programme>
-<programme start="20251024140000 +0000" stop="20251024143000 +0000" channel="beIN Sports 3.mncvision">
-    <title>UCL Magazine Show 2025/26</title>
-</programme>
-<programme start="20251024143000 +0000" stop="20251024153000 +0000" channel="beIN Sports 3.mncvision">
-    <title>UEL/UECL Highlights 2025/26</title>
-</programme>
-<programme start="20251024153000 +0000" stop="20251024160000 +0000" channel="beIN Sports 3.mncvision">
-    <title>UCL Magazine Show 2025/26</title>
-</programme>
-<programme start="20251024160000 +0000" stop="20251024163000 +0000" channel="beIN Sports 3.mncvision">
-    <title>UECL 2025/26: AEK Vs ABE</title>
-</programme>
-<programme start="20251023185500 +0000" stop="20251023210000 +0000" channel="beIN Sports 3 HD.mncvision">
-    <title>UECL 2025/26: CRY Vs AEL (L)</title>
-</programme>
-<programme start="20251023210000 +0000" stop="20251023230000 +0000" channel="beIN Sports 3 HD.mncvision">
-    <title>Total WAFCON 2024: NGA Vs ALG</title>
-</programme>
-<programme start="20251023230000 +0000" stop="20251024000000 +0000" channel="beIN Sports 3 HD.mncvision">
-    <title>UCL Classic Matches: CEL Vs JUV</title>
-</programme>
-<programme start="20251024000000 +0000" stop="20251024015000 +0000" channel="beIN Sports 3 HD.mncvision">
-    <title>UEL 2025/26: FCS Vs BOL</title>
-</programme>
-<programme start="20251024015000 +0000" stop="20251024034000 +0000" channel="beIN Sports 3 HD.mncvision">
-    <title>UEL 2025/26: GNK Vs BET</title>
-</programme>
-<programme start="20251024034000 +0000" stop="20251024053000 +0000" channel="beIN Sports 3 HD.mncvision">
-    <title>UEL 2025/26: BRA Vs RAN</title>
-</programme>
-<programme start="20251024053000 +0000" stop="20251024063000 +0000" channel="beIN Sports 3 HD.mncvision">
-    <title>UEL/UECL Highlights 2025/26</title>
-</programme>
-<programme start="20251024063000 +0000" stop="20251024081500 +0000" channel="beIN Sports 3 HD.mncvision">
-    <title>UEL 2025/26: ROM Vs PLZ</title>
-</programme>
-<programme start="20251024081500 +0000" stop="20251024100000 +0000" channel="beIN Sports 3 HD.mncvision">
-    <title>UEL 2025/26: LIL Vs PKT</title>
-</programme>
-<programme start="20251024100000 +0000" stop="20251024114500 +0000" channel="beIN Sports 3 HD.mncvision">
-    <title>UEL 2025/26: CEL Vs NIC</title>
-</programme>
-<programme start="20251024114500 +0000" stop="20251024133000 +0000" channel="beIN Sports 3 HD.mncvision">
-    <title>UEL 2025/26: NFO Vs POR</title>
-</programme>
-<programme start="20251024133000 +0000" stop="20251024140000 +0000" channel="beIN Sports 3 HD.mncvision">
-    <title>The Outdoor Sports Show 2025</title>
-</programme>
-<programme start="20251024140000 +0000" stop="20251024143000 +0000" channel="beIN Sports 3 HD.mncvision">
-    <title>UCL Magazine Show 2025/26</title>
-</programme>
-<programme start="20251024143000 +0000" stop="20251024153000 +0000" channel="beIN Sports 3 HD.mncvision">
-    <title>UEL/UECL Highlights 2025/26</title>
-</programme>
-<programme start="20251024153000 +0000" stop="20251024160000 +0000" channel="beIN Sports 3 HD.mncvision">
-    <title>UCL Magazine Show 2025/26</title>
-</programme>
-<programme start="20251024160000 +0000" stop="20251024163000 +0000" channel="beIN Sports 3 HD.mncvision">
-    <title>UECL 2025/26: AEK Vs ABE</title>
-</programme>
 <programme start="20251023170000 +0000" stop="20251023190000 +0000" channel="beIN SPORTS 4.mncvision">
     <title>beIN Sports 4</title>
 </programme>
@@ -8089,16 +7993,19 @@
 <programme start="20251024060000 +0000" stop="20251024070000 +0000" channel="Sportstars 2.mncvision">
     <title>Asian Youth Games Bahrain (L)</title>
 </programme>
-<programme start="20251024070000 +0000" stop="20251024100000 +0000" channel="Sportstars 2.mncvision">
+<programme start="20251024070000 +0000" stop="20251024090000 +0000" channel="Sportstars 2.mncvision">
     <title>Artistic Gymnastics C&#039;ship (L)</title>
 </programme>
-<programme start="20251024100000 +0000" stop="20251024110000 +0000" channel="Sportstars 2.mncvision">
+<programme start="20251024090000 +0000" stop="20251024110000 +0000" channel="Sportstars 2.mncvision">
     <title>Artistic Gymnastics C&#039;ship (L)</title>
 </programme>
-<programme start="20251024110000 +0000" stop="20251024140000 +0000" channel="Sportstars 2.mncvision">
+<programme start="20251024110000 +0000" stop="20251024130000 +0000" channel="Sportstars 2.mncvision">
     <title>Asian Youth Games Bahrain (L)</title>
 </programme>
-<programme start="20251024140000 +0000" stop="20251024143000 +0000" channel="Sportstars 2.mncvision">
+<programme start="20251024130000 +0000" stop="20251024160000 +0000" channel="Sportstars 2.mncvision">
+    <title>Asian Youth Games Bahrain (L)</title>
+</programme>
+<programme start="20251024160000 +0000" stop="20251024163000 +0000" channel="Sportstars 2.mncvision">
     <title>Asian Youth Games Bahrain (L)</title>
 </programme>
 <programme start="20251023180000 +0000" stop="20251023190000 +0000" channel="Sportstars 2 HD.mncvision">
@@ -8128,16 +8035,19 @@
 <programme start="20251024060000 +0000" stop="20251024070000 +0000" channel="Sportstars 2 HD.mncvision">
     <title>Asian Youth Games Bahrain (L)</title>
 </programme>
-<programme start="20251024070000 +0000" stop="20251024100000 +0000" channel="Sportstars 2 HD.mncvision">
+<programme start="20251024070000 +0000" stop="20251024090000 +0000" channel="Sportstars 2 HD.mncvision">
     <title>Artistic Gymnastics C&#039;ship (L)</title>
 </programme>
-<programme start="20251024100000 +0000" stop="20251024110000 +0000" channel="Sportstars 2 HD.mncvision">
+<programme start="20251024090000 +0000" stop="20251024110000 +0000" channel="Sportstars 2 HD.mncvision">
     <title>Artistic Gymnastics C&#039;ship (L)</title>
 </programme>
-<programme start="20251024110000 +0000" stop="20251024140000 +0000" channel="Sportstars 2 HD.mncvision">
+<programme start="20251024110000 +0000" stop="20251024130000 +0000" channel="Sportstars 2 HD.mncvision">
     <title>Asian Youth Games Bahrain (L)</title>
 </programme>
-<programme start="20251024140000 +0000" stop="20251024143000 +0000" channel="Sportstars 2 HD.mncvision">
+<programme start="20251024130000 +0000" stop="20251024160000 +0000" channel="Sportstars 2 HD.mncvision">
+    <title>Asian Youth Games Bahrain (L)</title>
+</programme>
+<programme start="20251024160000 +0000" stop="20251024163000 +0000" channel="Sportstars 2 HD.mncvision">
     <title>Asian Youth Games Bahrain (L)</title>
 </programme>
 <programme start="20251023170000 +0000" stop="20251023190000 +0000" channel="Sportstars 3.mncvision">

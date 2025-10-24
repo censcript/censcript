@@ -66,10 +66,6 @@
     <title>Football: Feyenoord - Panathinaikos</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251024090000 +0700" stop="20251024110000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Genoa - Parma</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251024110000 +0700" stop="20251024130500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: AEL Novibet - Olympiacos</title>
     <desc>Live: Tidak</desc>
@@ -128,6 +124,10 @@
 </programme>
 <programme start="20251025090000 +0700" stop="20251025110000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: AC Milan - Pisa</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251025110000 +0700" stop="20251025131500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Panetolikos - OFI</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251024100000 +0700" stop="20251024120000 +0700" channel="COSMOTE Sport 3 HD">
@@ -242,10 +242,6 @@
     <title>Basketball: Virtus Bologna - Vanoli Cremona</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251024094000 +0700" stop="20251024110000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: MotoGP 2025 (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
 <programme start="20251024110000 +0700" stop="20251024111500 +0700" channel="COSMOTE Sport 5 HD">
     <title>Sports Highlights</title>
     <desc>Live: Tidak</desc>
@@ -354,9 +350,13 @@
     <title>Sports Classics: Gearing Up 2025 E9</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251024100000 +0700" stop="20251024110000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>ATP Masters 1000 2025 - Highlights</title>
+<programme start="20251025111500 +0700" stop="20251025114000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Sports Classics: Worldies E1</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251025114000 +0700" stop="20251025123500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: Moto3 2025 (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20251024110000 +0700" stop="20251024113000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Premier Padel Tour 2025 - Highlights</title>
@@ -552,14 +552,6 @@
 </programme>
 <programme start="20251025100000 +0700" stop="20251025120000 +0700" channel="COSMOTE Sport 8 HD">
     <title>COSMOTESport8HD</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251024071500 +0700" stop="20251024104500 +0700" channel="COSMOTE Sport 9 HD">
-    <title>American Football: Los Angeles Chargers - Minnesota Vikings (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20251024104500 +0700" stop="20251024110000 +0700" channel="COSMOTE Sport 9 HD">
-    <title>COSMOTESport9HD</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251024110000 +0700" stop="20251024113000 +0700" channel="COSMOTE Sport 9 HD">
