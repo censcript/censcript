@@ -78,9 +78,9 @@
     <title>PreGame Show (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251024210500 +0700" stop="20251024230500 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: LDU Quito - Palmeiras</title>
-    <desc>Live: Tidak</desc>
+<programme start="20251026000000 +0700" stop="20251026021000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: OFI - Atromitos Athens (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20251024230500 +0700" stop="20251025010500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: AEK - Aberdeen</title>
@@ -154,9 +154,9 @@
     <title>Sports Classics: Football&#039;s Greatest IV E4</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251024220000 +0700" stop="20251025000000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Celtic FC - SK Sturm Graz</title>
-    <desc>Live: Tidak</desc>
+<programme start="20251026000000 +0700" stop="20251026020000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Santa Clara - AVS Futebol (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20251025000000 +0700" stop="20251025020000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Shamrock Rovers FC - NK Celje</title>
@@ -306,10 +306,6 @@
     <title>Basketball: Rytas Vilnius - Promitheas</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251024225500 +0700" stop="20251024235000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: Moto3 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251024235000 +0700" stop="20251025005000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Motorsports: Moto2 2025</title>
     <desc>Live: Tidak</desc>
@@ -418,6 +414,10 @@
     <title>DTM 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251026002500 +0700" stop="20251026010000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Sports Classics: Gearing Up 2025 E9</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251024223000 +0700" stop="20251025010000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Jannik Sinner - Alexander Bublik (L)</title>
     <desc>Live: Ya</desc>
@@ -474,8 +474,8 @@
     <title>Tennis: ATP 500 2025 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251024230000 +0700" stop="20251025000000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
+<programme start="20251026003000 +0700" stop="20251026010000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Sports Classics: The Outdoor Sports Show 2025 E10</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251025000000 +0700" stop="20251025010000 +0700" channel="COSMOTE Sport 7 HD">
@@ -546,8 +546,12 @@
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251024220000 +0700" stop="20251025000000 +0700" channel="COSMOTE Sport 8 HD">
-    <title>COSMOTESport8HD</title>
+<programme start="20251026000000 +0700" stop="20251026003000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251026003000 +0700" stop="20251026010000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251025000000 +0700" stop="20251025003000 +0700" channel="COSMOTE Sport 8 HD">
@@ -610,6 +614,14 @@
     <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251026000000 +0700" stop="20251026003000 +0700" channel="COSMOTE Sport 8 HD">
+    <title>COSMOTESport8HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251026003000 +0700" stop="20251026010000 +0700" channel="COSMOTE Sport 8 HD">
+    <title>COSMOTESport8HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251024230000 +0700" stop="20251025010000 +0700" channel="COSMOTE Sport 9 HD">
     <title>Tennis: Ugo Humbert - Reilly Opelka (L)</title>
     <desc>Live: Ya</desc>
@@ -669,5 +681,9 @@
 <programme start="20251025220000 +0700" stop="20251026003000 +0700" channel="COSMOTE Sport 9 HD">
     <title>Tennis: ATP 500 2025 (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20251026003000 +0700" stop="20251026010000 +0700" channel="COSMOTE Sport 9 HD">
+    <title>COSMOTESport9HD</title>
+    <desc>Live: Tidak</desc>
 </programme>
 No EPG found for COSMOTE Sport 10 HD
