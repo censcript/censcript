@@ -1123,40 +1123,40 @@
   <programme start="20251025204500 +0000" stop="20251025232000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Atletika - Diamantová liga</title>
   </programme>
-  <programme start="20251025232000 +0000" stop="20251026012000 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20251025232000 +0000" stop="20251026011000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">FIS MS Freestyle &amp; Snowboard</title>
   </programme>
-  <programme start="20251026012000 +0000" stop="20251026023500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20251026011000 +0000" stop="20251026023500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Automobilové preteky</title>
   </programme>
-  <programme start="20251026023500 +0000" stop="20251026041500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20251026023500 +0000" stop="20251026041000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Automobilové preteky</title>
   </programme>
-  <programme start="20251026041500 +0000" stop="20251026062500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20251026041000 +0000" stop="20251026065000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Portugalský pohár</title>
   </programme>
-  <programme start="20251026062500 +0000" stop="20251026082500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20251026065000 +0000" stop="20251026090000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Hokej - Tipos SHL</title>
   </programme>
-  <programme start="20251026082500 +0000" stop="20251026093000 +0000" channel="JOJ Šport 2.webtv.sk">
-    <title lang="id">Hokej - Zostrihy Tipsport ligy (66)</title>
+  <programme start="20251026090000 +0000" stop="20251026094500 +0000" channel="JOJ Šport 2.webtv.sk">
+    <title lang="id">Hokej – Zostrihy Tipsport ligy (66)</title>
   </programme>
-  <programme start="20251026093000 +0000" stop="20251026120000 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20251026094500 +0000" stop="20251026120000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Hokej - Tipos SHL</title>
   </programme>
-  <programme start="20251026120000 +0000" stop="20251026141500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20251026120000 +0000" stop="20251026141000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Squash - PSA World Tour</title>
   </programme>
-  <programme start="20251026141500 +0000" stop="20251026165500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20251026141000 +0000" stop="20251026155500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Portugalský pohár</title>
   </programme>
-  <programme start="20251026165500 +0000" stop="20251026175000 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20251026155500 +0000" stop="20251026175000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Basketbal - ENBL</title>
   </programme>
-  <programme start="20251026175000 +0000" stop="20251026202500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20251026175000 +0000" stop="20251026201500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Volejbal - Niké Extraliga muži</title>
   </programme>
-  <programme start="20251026202500 +0000" stop="20251026234500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20251026201500 +0000" stop="20251026232500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Volejbal Slovenský pohár ženy</title>
   </programme>
   <programme start="20251025210000 +0000" stop="20251025221500 +0000" channel="WAU.webtv.sk">
@@ -1664,7 +1664,7 @@
     <title lang="id">Zara</title>
   </programme>
   <programme start="20251026125000 +0000" stop="20251026133000 +0000" channel="Kanal1.webtv.sk">
-    <title lang="id">Téma s Petrom Bielikom</title>
+    <title lang="id">Téma - Vladimír Baláž a Oskar Dvořák</title>
   </programme>
   <programme start="20251026133000 +0000" stop="20251026142500 +0000" channel="Kanal1.webtv.sk">
     <title lang="id">Jean-Claude Van Damme: úder za úderom</title>
@@ -3172,10 +3172,10 @@
   <programme start="20251026021200 +0000" stop="20251026025700 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Fauda III (3/12)</title>
   </programme>
-  <programme start="20251026025700 +0000" stop="20251026033700 +0000" channel="ČT1.webtv.sk">
+  <programme start="20251026025700 +0000" stop="20251026033600 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Bolkoviny</title>
   </programme>
-  <programme start="20251026033700 +0000" stop="20251026043000 +0000" channel="ČT1.webtv.sk">
+  <programme start="20251026033600 +0000" stop="20251026043000 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Povolání: Vladimír Dvořák</title>
   </programme>
   <programme start="20251026043000 +0000" stop="20251026050000 +0000" channel="ČT1.webtv.sk">
@@ -3190,10 +3190,10 @@
   <programme start="20251026071500 +0000" stop="20251026075500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Pečení na neděli</title>
   </programme>
-  <programme start="20251026075500 +0000" stop="20251026084500 +0000" channel="ČT1.webtv.sk">
+  <programme start="20251026075500 +0000" stop="20251026084600 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Polopatě</title>
   </programme>
-  <programme start="20251026084500 +0000" stop="20251026090000 +0000" channel="ČT1.webtv.sk">
+  <programme start="20251026084600 +0000" stop="20251026090000 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Kalendárium</title>
   </programme>
   <programme start="20251026090000 +0000" stop="20251026093200 +0000" channel="ČT1.webtv.sk">
@@ -3223,10 +3223,10 @@
   <programme start="20251026144500 +0000" stop="20251026155500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Zlá krev (3/7)</title>
   </programme>
-  <programme start="20251026155500 +0000" stop="20251026165600 +0000" channel="ČT1.webtv.sk">
+  <programme start="20251026155500 +0000" stop="20251026165500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Slavné historky zbojnické (2/6)</title>
   </programme>
-  <programme start="20251026165600 +0000" stop="20251026172500 +0000" channel="ČT1.webtv.sk">
+  <programme start="20251026165500 +0000" stop="20251026172500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Herbář</title>
   </programme>
   <programme start="20251026172500 +0000" stop="20251026175500 +0000" channel="ČT1.webtv.sk">
@@ -3520,10 +3520,10 @@
   <programme start="20251026210000 +0000" stop="20251026220000 +0000" channel="ČT24.webtv.sk">
     <title lang="id">Události, komentáře týdne</title>
   </programme>
-  <programme start="20251025215100 +0000" stop="20251025225100 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20251025215200 +0000" stop="20251025225200 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Bára Poláková na Metronome Prague</title>
   </programme>
-  <programme start="20251025225100 +0000" stop="20251025234500 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20251025225200 +0000" stop="20251025234500 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Jak se skládá hit II</title>
   </programme>
   <programme start="20251025234500 +0000" stop="20251026012500 +0000" channel="ČT :D - ČT art.webtv.sk">
@@ -3532,13 +3532,13 @@
   <programme start="20251026012500 +0000" stop="20251026014000 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Designtrend</title>
   </programme>
-  <programme start="20251026014000 +0000" stop="20251026015200 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20251026014000 +0000" stop="20251026015300 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Beethovenova 9. symfonie - Koncert pro EU</title>
   </programme>
-  <programme start="20251026015200 +0000" stop="20251026025000 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20251026015300 +0000" stop="20251026025100 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Karel Reisz: Ten filmový život</title>
   </programme>
-  <programme start="20251026025000 +0000" stop="20251026034500 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20251026025100 +0000" stop="20251026034500 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">ArtZóna</title>
   </programme>
   <programme start="20251026034500 +0000" stop="20251026041000 +0000" channel="ČT :D - ČT art.webtv.sk">
@@ -7985,7 +7985,7 @@
     <title lang="id">Záchranáři - Norsko I (9)</title>
   </programme>
   <programme start="20251026010000 +0000" stop="20251026015000 +0000" channel="Spektrum.webtv.sk">
-    <title lang="id">Stasi - východoněmecká státní bezpečnost, tajemství, lži a špioni</title>
+    <title lang="id">Usáma bin Ládin - důvěrný portrét I (3)</title>
   </programme>
   <programme start="20251026015000 +0000" stop="20251026024000 +0000" channel="Spektrum.webtv.sk">
     <title lang="id">Historie Mosadu I (4)</title>
@@ -12857,7 +12857,7 @@
     <title lang="id">Henryho príbehy</title>
   </programme>
   <programme start="20251026012500 +0000" stop="20251026012800 +0000" channel="Duck TV Plus.webtv.sk">
-    <title lang="id">Lola a čísla</title>
+    <title lang="id">Risto Gusto</title>
   </programme>
   <programme start="20251026012800 +0000" stop="20251026012900 +0000" channel="Duck TV Plus.webtv.sk">
     <title lang="id">Dotty a Kitty</title>
@@ -19109,7 +19109,7 @@
     <title lang="id">TOP Relax</title>
   </programme>
   <programme start="20251026050000 +0000" stop="20251026070000 +0000" channel="Relax.webtv.sk">
-    <title lang="id">Ranní káva s TV Relax (3)</title>
+    <title lang="id">Ranní káva s Rádiem Čas</title>
   </programme>
   <programme start="20251026070000 +0000" stop="20251026072000 +0000" channel="Relax.webtv.sk">
     <title lang="id">Teleshopping</title>
