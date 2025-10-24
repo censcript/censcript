@@ -7990,22 +7990,16 @@
 <programme start="20251024050000 +0000" stop="20251024060000 +0000" channel="Sportstars 2.mncvision">
     <title>Tinju</title>
 </programme>
-<programme start="20251024060000 +0000" stop="20251024070000 +0000" channel="Sportstars 2.mncvision">
+<programme start="20251024060000 +0000" stop="20251024090000 +0000" channel="Sportstars 2.mncvision">
     <title>Asian Youth Games Bahrain (L)</title>
 </programme>
-<programme start="20251024070000 +0000" stop="20251024090000 +0000" channel="Sportstars 2.mncvision">
-    <title>Artistic Gymnastics C&#039;ship (L)</title>
-</programme>
-<programme start="20251024090000 +0000" stop="20251024110000 +0000" channel="Sportstars 2.mncvision">
-    <title>Artistic Gymnastics C&#039;ship (L)</title>
-</programme>
-<programme start="20251024110000 +0000" stop="20251024130000 +0000" channel="Sportstars 2.mncvision">
+<programme start="20251024090000 +0000" stop="20251024120000 +0000" channel="Sportstars 2.mncvision">
     <title>Asian Youth Games Bahrain (L)</title>
 </programme>
-<programme start="20251024130000 +0000" stop="20251024160000 +0000" channel="Sportstars 2.mncvision">
+<programme start="20251024120000 +0000" stop="20251024150000 +0000" channel="Sportstars 2.mncvision">
     <title>Asian Youth Games Bahrain (L)</title>
 </programme>
-<programme start="20251024160000 +0000" stop="20251024163000 +0000" channel="Sportstars 2.mncvision">
+<programme start="20251024150000 +0000" stop="20251024153000 +0000" channel="Sportstars 2.mncvision">
     <title>Asian Youth Games Bahrain (L)</title>
 </programme>
 <programme start="20251023180000 +0000" stop="20251023190000 +0000" channel="Sportstars 2 HD.mncvision">
@@ -8032,22 +8026,16 @@
 <programme start="20251024050000 +0000" stop="20251024060000 +0000" channel="Sportstars 2 HD.mncvision">
     <title>Tinju</title>
 </programme>
-<programme start="20251024060000 +0000" stop="20251024070000 +0000" channel="Sportstars 2 HD.mncvision">
+<programme start="20251024060000 +0000" stop="20251024090000 +0000" channel="Sportstars 2 HD.mncvision">
     <title>Asian Youth Games Bahrain (L)</title>
 </programme>
-<programme start="20251024070000 +0000" stop="20251024090000 +0000" channel="Sportstars 2 HD.mncvision">
-    <title>Artistic Gymnastics C&#039;ship (L)</title>
-</programme>
-<programme start="20251024090000 +0000" stop="20251024110000 +0000" channel="Sportstars 2 HD.mncvision">
-    <title>Artistic Gymnastics C&#039;ship (L)</title>
-</programme>
-<programme start="20251024110000 +0000" stop="20251024130000 +0000" channel="Sportstars 2 HD.mncvision">
+<programme start="20251024090000 +0000" stop="20251024120000 +0000" channel="Sportstars 2 HD.mncvision">
     <title>Asian Youth Games Bahrain (L)</title>
 </programme>
-<programme start="20251024130000 +0000" stop="20251024160000 +0000" channel="Sportstars 2 HD.mncvision">
+<programme start="20251024120000 +0000" stop="20251024150000 +0000" channel="Sportstars 2 HD.mncvision">
     <title>Asian Youth Games Bahrain (L)</title>
 </programme>
-<programme start="20251024160000 +0000" stop="20251024163000 +0000" channel="Sportstars 2 HD.mncvision">
+<programme start="20251024150000 +0000" stop="20251024153000 +0000" channel="Sportstars 2 HD.mncvision">
     <title>Asian Youth Games Bahrain (L)</title>
 </programme>
 <programme start="20251023170000 +0000" stop="20251023190000 +0000" channel="Sportstars 3.mncvision">

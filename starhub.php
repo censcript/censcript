@@ -2062,20 +2062,11 @@
     <programme start="20251024114500 +0000" stop="20251024133000 +0000" channel="beIN Sports 3.starhub">
         <title>UEFA Europa League 2025/26 Nottingham Forest vs Porto - MD3</title>
     </programme>
-    <programme start="20251024133000 +0000" stop="20251024140000 +0000" channel="beIN Sports 3.starhub">
-        <title>Bundesliga Weekly 2025/26</title>
-    </programme>
-    <programme start="20251024140000 +0000" stop="20251024143000 +0000" channel="beIN Sports 3.starhub">
-        <title>MD3 Review</title>
-    </programme>
-    <programme start="20251024143000 +0000" stop="20251024153000 +0000" channel="beIN Sports 3.starhub">
-        <title>UEL MD3/UECL MD2</title>
-    </programme>
-    <programme start="20251024153000 +0000" stop="20251024155000 +0000" channel="beIN Sports 3.starhub">
+    <programme start="20251024133000 +0000" stop="20251024135500 +0000" channel="beIN Sports 3.starhub">
         <title>Trailblazers</title>
     </programme>
-    <programme start="20251024155000 +0000" stop="20251024162000 +0000" channel="beIN Sports 3.starhub">
-        <title>Bundesliga Weekly 2025/26</title>
+    <programme start="20251024135500 +0000" stop="20251024160000 +0000" channel="beIN Sports 3.starhub">
+        <title>UEFA Conference League 2025/26 Rijeka vs Sparta Prague - MD2 (LIVE)</title>
     </programme>
     <programme start="20251023153000 +0000" stop="20251023163000 +0000" channel="Sun Music.starhub">
         <title>Non Stop Hits</title>

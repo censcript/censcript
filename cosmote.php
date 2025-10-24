@@ -66,6 +66,10 @@
     <title>UEFA Champions League Highlights 2025-26</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251025130000 +0700" stop="20251025150000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: Lille OSC - PAOK</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251024110000 +0700" stop="20251024130500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: AEL Novibet - Olympiacos</title>
     <desc>Live: Tidak</desc>
@@ -130,8 +134,12 @@
     <title>Football: Panetolikos - OFI</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251024120000 +0700" stop="20251024123000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Emirates FA Cup 2024-25 - Highlights</title>
+<programme start="20251025131500 +0700" stop="20251025134500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Sports Classics: My Sporting Moment</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251025134500 +0700" stop="20251025141500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Sports Classics: My Sporting Moment</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251024123000 +0700" stop="20251024160000 +0700" channel="COSMOTE Sport 3 HD">
@@ -246,14 +254,6 @@
     <title>Basketball: Galatasaray - Fenerbahce</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251024111500 +0700" stop="20251024121000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251024121000 +0700" stop="20251024130000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: Moto3 2025 (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
 <programme start="20251024130000 +0700" stop="20251024135500 +0700" channel="COSMOTE Sport 5 HD">
     <title>Motorsports: Moto2 2025 (L)</title>
     <desc>Live: Ya</desc>
@@ -360,6 +360,10 @@
 </programme>
 <programme start="20251025123500 +0700" stop="20251025134500 +0700" channel="COSMOTE Sport 5 HD">
     <title>Motorsports: Moto2 2025 (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
+<programme start="20251025134500 +0700" stop="20251025144500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: MotoGP 2025 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20251024113000 +0700" stop="20251024140000 +0700" channel="COSMOTE Sport 6 HD">
