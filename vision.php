@@ -263,22 +263,22 @@
 <title>iNews Malam (Live)</title>
 </programme>
 <programme start="20251024150000 +0000" stop="20251024160000 +0000" channel="iNews.vision">
-<title>Inews Files (Live)</title>
+<title>iNews Files</title>
 </programme>
 <programme start="20251024160000 +0000" stop="20251024163000 +0000" channel="iNews.vision">
 <title>iNews Sport (L)</title>
 </programme>
-<programme start="20251024163000 +0000" stop="20251024173000 +0000" channel="iNews.vision">
-<title>iNews</title>
+<programme start="20251024163000 +0000" stop="20251024170000 +0000" channel="iNews.vision">
+<title>New Top Files</title>
 </programme>
-<programme start="20251024173000 +0000" stop="20251024180000 +0000" channel="iNews.vision">
+<programme start="20251024170000 +0000" stop="20251024174500 +0000" channel="iNews.vision">
 <title>Realita</title>
 </programme>
-<programme start="20251024180000 +0000" stop="20251024184500 +0000" channel="iNews.vision">
-<title>iNews Room</title>
-</programme>
-<programme start="20251024184500 +0000" stop="20251024194500 +0000" channel="iNews.vision">
+<programme start="20251024174500 +0000" stop="20251024183000 +0000" channel="iNews.vision">
 <title>iNews Sore</title>
+</programme>
+<programme start="20251024183000 +0000" stop="20251024194500 +0000" channel="iNews.vision">
+<title>iNews</title>
 </programme>
 <programme start="20251024194500 +0000" stop="20251024201500 +0000" channel="iNews.vision">
 <title>iNews Malam</title>

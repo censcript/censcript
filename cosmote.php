@@ -66,6 +66,14 @@
     <title>Football: Lille OSC - PAOK</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251025150000 +0700" stop="20251025153000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Game R1 S6 E9</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251025153000 +0700" stop="20251025173000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: FC Barcelona - Olympiacos</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251024130500 +0700" stop="20251024150500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Lecce - Sassuolo</title>
     <desc>Live: Tidak</desc>
@@ -194,6 +202,10 @@
     <title>Emirates FA Cup 2024-25 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251025150000 +0700" stop="20251025160000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Greece - South Africa</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251024140000 +0700" stop="20251024160000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Sassari - Armani Milano</title>
     <desc>Live: Tidak</desc>
@@ -256,6 +268,10 @@
 </programme>
 <programme start="20251025142000 +0700" stop="20251025155000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Pick n&#039; Roll</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251025155000 +0700" stop="20251025162000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>NBA Specials</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251024135500 +0700" stop="20251024151500 +0700" channel="COSMOTE Sport 5 HD">
@@ -370,8 +386,8 @@
     <title>Sports Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251024140000 +0700" stop="20251024143000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Sports Classics: The Outdoor Sports Show 2025 E10</title>
+<programme start="20251025150500 +0700" stop="20251025160500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251024143000 +0700" stop="20251024183000 +0700" channel="COSMOTE Sport 6 HD">
