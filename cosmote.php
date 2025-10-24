@@ -78,12 +78,8 @@
     <title>Football: OFI - Atromitos Athens (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251024230500 +0700" stop="20251025010500 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: AEK - Aberdeen</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251025010500 +0700" stop="20251025014500 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Serie A Inside Serie A 2025-26 E8</title>
+<programme start="20251026021000 +0700" stop="20251026031500 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEFA Champions League Highlights 2025-26</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251025014500 +0700" stop="20251025034500 +0700" channel="COSMOTE Sport 2 HD">
@@ -154,9 +150,13 @@
     <title>Football: Santa Clara - AVS Futebol (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251025000000 +0700" stop="20251025020000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Shamrock Rovers FC - NK Celje</title>
+<programme start="20251026020000 +0700" stop="20251026023000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Sports Classics: Worldies E19</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251026023000 +0700" stop="20251026043000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: SL Benfica - Arouca (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20251025020000 +0700" stop="20251025040000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Preston North End - Sheffield United (L)</title>
@@ -306,10 +306,6 @@
     <title>Basketball: Igokea - Trieste</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251025005000 +0700" stop="20251025020000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: MotoGP 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251025020000 +0700" stop="20251025030000 +0700" channel="COSMOTE Sport 5 HD">
     <title>2025 FIM Women&#039;s Circuit Racing World Championship</title>
     <desc>Live: Tidak</desc>
@@ -418,10 +414,6 @@
     <title>Football: Al-Hazem FC - Al Nassr (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251025010000 +0700" stop="20251025011500 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Sports Highlights</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251025011500 +0700" stop="20251025034500 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Corentin Moutet - Lorenzo Musetti (L)</title>
     <desc>Live: Ya</desc>
@@ -480,14 +472,6 @@
 </programme>
 <programme start="20251026013000 +0700" stop="20251026054500 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP 500 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251025010000 +0700" stop="20251025013000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251025013000 +0700" stop="20251025020000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251025020000 +0700" stop="20251025021500 +0700" channel="COSMOTE Sport 7 HD">
@@ -557,6 +541,10 @@
 <programme start="20251026010000 +0700" stop="20251026024500 +0700" channel="COSMOTE Sport 7 HD">
     <title>Handball: MT Melsungen - Lemgo Lippe (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20251026024500 +0700" stop="20251026030000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251025010000 +0700" stop="20251025030000 +0700" channel="COSMOTE Sport 8 HD">
     <title>Football: Al Ittihad - Al Hilal (L)</title>
