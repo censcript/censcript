@@ -832,20 +832,8 @@
 <programme start="20251025010000 +0000" stop="20251025013000 +0000" channel="TVOne.vision">
 <title>Inspirasi Pagi (L)</title>
 </programme>
-<programme start="20251025013000 +0000" stop="20251025020000 +0000" channel="TVOne.vision">
-<title>Oase Indonesia</title>
-</programme>
-<programme start="20251025020000 +0000" stop="20251025023000 +0000" channel="TVOne.vision">
-<title>Satria Biru</title>
-</programme>
 <programme start="20251025023000 +0000" stop="20251025030000 +0000" channel="TVOne.vision">
 <title>Xpose</title>
-</programme>
-<programme start="20251025030000 +0000" stop="20251025033000 +0000" channel="TVOne.vision">
-<title>Bukan Jalan-Jalan Biasa</title>
-</programme>
-<programme start="20251025033000 +0000" stop="20251025040000 +0000" channel="TVOne.vision">
-<title>Pesona Nusantara</title>
 </programme>
 <programme start="20251025040000 +0000" stop="20251025053000 +0000" channel="TVOne.vision">
 <title>Kabar Siang (L)</title>
@@ -1497,4 +1485,16 @@
 </programme>
 <programme start="20251025203000 +0000" stop="20251025213000 +0000" channel="BTV.vision">
 <title>Spot On</title>
+</programme>
+<programme start="20251025213000 +0000" stop="20251025223000 +0000" channel="BTV.vision">
+<title>Berita Satu Pagi</title>
+</programme>
+<programme start="20251025223000 +0000" stop="20251025230000 +0000" channel="BTV.vision">
+<title>Saat Teduh Bersama GMS</title>
+</programme>
+<programme start="20251025230000 +0000" stop="20251025230300 +0000" channel="BTV.vision">
+<title>Indonesia Raya</title>
+</programme>
+<programme start="20251025230300 +0000" stop="20251025233000 +0000" channel="BTV.vision">
+<title>Saat Teduh Bersama GMS</title>
 </programme>
