@@ -3190,7 +3190,7 @@
 <programme start="20251024224000 +0000" stop="20251024230000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: LIVE NHL</title>
 </programme>
-<programme start="20251024230000 +0000" stop="20251025034500 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20251024230000 +0000" stop="20251025020000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NHL: San Jose Sharks @ New Jersey Devils</title>
 </programme>
 <programme start="20251025124000 +0000" stop="20251025130000 +0000" channel="Sky Sport 8 HD.skyde">
