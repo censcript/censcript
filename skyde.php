@@ -1795,48 +1795,6 @@
 <programme start="20251025203000 +0000" stop="20251025224000 +0000" channel="Sky Cinema Highlights HD.skyde">
     <title>Smile 2</title>
 </programme>
-<programme start="20251024235500 +0000" stop="20251025015000 +0000" channel="Sky Cinema Premiere HD.skyde">
-    <title>Alles Fifty Fifty</title>
-</programme>
-<programme start="20251025015000 +0000" stop="20251025032500 +0000" channel="Sky Cinema Premiere HD.skyde">
-    <title>Boneyard</title>
-</programme>
-<programme start="20251025032500 +0000" stop="20251025050000 +0000" channel="Sky Cinema Premiere HD.skyde">
-    <title>Dead Shot - Einsame Rache</title>
-</programme>
-<programme start="20251025050000 +0000" stop="20251025063500 +0000" channel="Sky Cinema Premiere HD.skyde">
-    <title>Hounds of War</title>
-</programme>
-<programme start="20251025063500 +0000" stop="20251025081500 +0000" channel="Sky Cinema Premiere HD.skyde">
-    <title>200% Wolf</title>
-</programme>
-<programme start="20251025081500 +0000" stop="20251025100500 +0000" channel="Sky Cinema Premiere HD.skyde">
-    <title>Mr. No Pain</title>
-</programme>
-<programme start="20251025100500 +0000" stop="20251025113000 +0000" channel="Sky Cinema Premiere HD.skyde">
-    <title>Love Hurts - Liebe tut weh</title>
-</programme>
-<programme start="20251025113000 +0000" stop="20251025130000 +0000" channel="Sky Cinema Premiere HD.skyde">
-    <title>Dog Man: Wau gegen Miau</title>
-</programme>
-<programme start="20251025130000 +0000" stop="20251025144000 +0000" channel="Sky Cinema Premiere HD.skyde">
-    <title>Sweethearts (2024)</title>
-</programme>
-<programme start="20251025144000 +0000" stop="20251025163000 +0000" channel="Sky Cinema Premiere HD.skyde">
-    <title>The Room Next Door</title>
-</programme>
-<programme start="20251025163000 +0000" stop="20251025181500 +0000" channel="Sky Cinema Premiere HD.skyde">
-    <title>Ein Minecraft Film</title>
-</programme>
-<programme start="20251025181500 +0000" stop="20251025194500 +0000" channel="Sky Cinema Premiere HD.skyde">
-    <title>Dog Man: Wau gegen Miau</title>
-</programme>
-<programme start="20251025194500 +0000" stop="20251025211000 +0000" channel="Sky Cinema Premiere HD.skyde">
-    <title>Love Hurts - Liebe tut weh</title>
-</programme>
-<programme start="20251025211000 +0000" stop="20251025224500 +0000" channel="Sky Cinema Premiere HD.skyde">
-    <title>Hounds of War</title>
-</programme>
 <programme start="20251024222000 +0000" stop="20251024225000 +0000" channel="Sky Crime HD.skyde">
     <title>Tatunca Nara und die Toten im Dschungel</title>
 </programme>
@@ -2574,15 +2532,6 @@
 </programme>
 <programme start="20251025145000 +0000" stop="20251025173000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live Admiral BL: WSG Tirol - FC Blau-Weiß Linz, 11. Runde</title>
-</programme>
-<programme start="20251025161000 +0000" stop="20251025163000 +0000" channel="Sky Sport Austria 5 HD.skyde">
-    <title>Es folgt: LIVE NHL</title>
-</programme>
-<programme start="20251025163000 +0000" stop="20251025193000 +0000" channel="Sky Sport Austria 5 HD.skyde">
-    <title>Live NHL: New York Islanders @ Philadelphia Flyers</title>
-</programme>
-<programme start="20251025193000 +0000" stop="20251025230000 +0000" channel="Sky Sport Austria 5 HD.skyde">
-    <title>Live NHL: Colorado Avalanche @ Boston Bruins</title>
 </programme>
 <programme start="20251024223000 +0000" stop="20251025003000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: Werder Bremen - 1. FC Union Berlin, Flutlicht-Freitag, 8. Spieltag</title>

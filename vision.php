@@ -550,6 +550,9 @@
 <programme start="20251025041500 +0000" stop="20251025050000 +0000" channel="Trans 7.vision">
 <title>Enaknya Mantul</title>
 </programme>
+<programme start="20251025054500 +0000" stop="20251025063000 +0000" channel="Trans 7.vision">
+<title>Jejak Petualang Explorer</title>
+</programme>
 <programme start="20251025063000 +0000" stop="20251025071500 +0000" channel="Trans 7.vision">
 <title>Mancing Mania Strike Back</title>
 </programme>
@@ -654,6 +657,9 @@
 </programme>
 <programme start="20251025013000 +0000" stop="20251025030000 +0000" channel="ANTV.vision">
 <title>Jadi Aku Sebentar Saja</title>
+</programme>
+<programme start="20251025030000 +0000" stop="20251025063000 +0000" channel="ANTV.vision">
+<title>Kushi</title>
 </programme>
 <programme start="20251025063000 +0000" stop="20251025080000 +0000" channel="ANTV.vision">
 <title>Cinta Keluarga Pandya</title>
@@ -1491,10 +1497,4 @@
 </programme>
 <programme start="20251025233000 +0000" stop="20251026003000 +0000" channel="BTV.vision">
 <title>Jalan Dakwah</title>
-</programme>
-<programme start="20251026003000 +0000" stop="20251026011500 +0000" channel="BTV.vision">
-<title>Figur Publik</title>
-</programme>
-<programme start="20251026011500 +0000" stop="20251026014500 +0000" channel="BTV.vision">
-<title>Kuyliner</title>
 </programme>
