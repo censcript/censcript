@@ -8104,16 +8104,16 @@
     <programme start="20251025013000 +0000" stop="20251025043000 +0000" channel="Asianet Movies.starhub">
         <title>Pulival Kalyanam</title>
     </programme>
-    <programme start="20251025043000 +0000" stop="20251025073000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251025043000 +0000" stop="20251025074000 +0000" channel="Asianet Movies.starhub">
         <title>Udayananu Tharam</title>
     </programme>
-    <programme start="20251025073000 +0000" stop="20251025103000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251025074000 +0000" stop="20251025104000 +0000" channel="Asianet Movies.starhub">
         <title>Thanneermathan Dinangal</title>
     </programme>
-    <programme start="20251025103000 +0000" stop="20251025133000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251025104000 +0000" stop="20251025133000 +0000" channel="Asianet Movies.starhub">
         <title>9: Nine</title>
     </programme>
-    <programme start="20251025133000 +0000" stop="20251025163000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251025133000 +0000" stop="20251025161000 +0000" channel="Asianet Movies.starhub">
         <title>Sthanarthi Sreekuttan</title>
     </programme>
     <programme start="20251024160000 +0000" stop="20251024170000 +0000" channel="Astro Warna HD.starhub">
