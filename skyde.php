@@ -1561,6 +1561,84 @@
 <programme start="20251025212000 +0000" stop="20251025225500 +0000" channel="Romance TV HD.skyde">
     <title>Freunde sind mehr - Viergefühl</title>
 </programme>
+<programme start="20251024225000 +0000" stop="20251024234000 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Game of Thrones - Das Lied von Eis und Feuer</title>
+</programme>
+<programme start="20251024234000 +0000" stop="20251025003500 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Game of Thrones - Das Lied von Eis und Feuer</title>
+</programme>
+<programme start="20251025003500 +0000" stop="20251025012500 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Game of Thrones - Das Lied von Eis und Feuer</title>
+</programme>
+<programme start="20251025012500 +0000" stop="20251025022000 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Game of Thrones - Das Lied von Eis und Feuer</title>
+</programme>
+<programme start="20251025022000 +0000" stop="20251025032500 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Game of Thrones - Das Lied von Eis und Feuer</title>
+</programme>
+<programme start="20251025032500 +0000" stop="20251025035000 +0000" channel="Sky Atlantic HD.skyde">
+    <title>The House that Dragons Built: Episode 1</title>
+</programme>
+<programme start="20251025035000 +0000" stop="20251025044500 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Game of Thrones - Das Lied von Eis und Feuer</title>
+</programme>
+<programme start="20251025044500 +0000" stop="20251025054500 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Game of Thrones - Das Lied von Eis und Feuer</title>
+</programme>
+<programme start="20251025054500 +0000" stop="20251025063500 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Game of Thrones - Das Lied von Eis und Feuer</title>
+</programme>
+<programme start="20251025063500 +0000" stop="20251025073000 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Game of Thrones - Das Lied von Eis und Feuer</title>
+</programme>
+<programme start="20251025073000 +0000" stop="20251025083000 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Game of Thrones - Das Lied von Eis und Feuer</title>
+</programme>
+<programme start="20251025083000 +0000" stop="20251025093000 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Game of Thrones - Das Lied von Eis und Feuer</title>
+</programme>
+<programme start="20251025093000 +0000" stop="20251025103000 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Game of Thrones - Das Lied von Eis und Feuer</title>
+</programme>
+<programme start="20251025103000 +0000" stop="20251025112500 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Game of Thrones - Das Lied von Eis und Feuer</title>
+</programme>
+<programme start="20251025112500 +0000" stop="20251025122000 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Game of Thrones - Das Lied von Eis und Feuer</title>
+</programme>
+<programme start="20251025122000 +0000" stop="20251025132500 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Game of Thrones - Das Lied von Eis und Feuer</title>
+</programme>
+<programme start="20251025132500 +0000" stop="20251025142500 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Game of Thrones - Das Lied von Eis und Feuer</title>
+</programme>
+<programme start="20251025142500 +0000" stop="20251025152000 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Game of Thrones - Das Lied von Eis und Feuer</title>
+</programme>
+<programme start="20251025152000 +0000" stop="20251025162000 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Game of Thrones - Das Lied von Eis und Feuer</title>
+</programme>
+<programme start="20251025162000 +0000" stop="20251025171500 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Game of Thrones - Das Lied von Eis und Feuer</title>
+</programme>
+<programme start="20251025171500 +0000" stop="20251025181500 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Game of Thrones - Das Lied von Eis und Feuer</title>
+</programme>
+<programme start="20251025181500 +0000" stop="20251025190500 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Game of Thrones - Das Lied von Eis und Feuer</title>
+</programme>
+<programme start="20251025190500 +0000" stop="20251025200000 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Game of Thrones - Das Lied von Eis und Feuer</title>
+</programme>
+<programme start="20251025200000 +0000" stop="20251025205500 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Game of Thrones - Das Lied von Eis und Feuer</title>
+</programme>
+<programme start="20251025205500 +0000" stop="20251025214500 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Game of Thrones - Das Lied von Eis und Feuer</title>
+</programme>
+<programme start="20251025214500 +0000" stop="20251025225000 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Game of Thrones - Das Lied von Eis und Feuer</title>
+</programme>
 <programme start="20251024224000 +0000" stop="20251025002000 +0000" channel="Sky Cinema Action HD.skyde">
     <title>A Perfect Getaway</title>
 </programme>
@@ -2482,7 +2560,7 @@
 <programme start="20251025143000 +0000" stop="20251025145000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: LIVE Admiral BL</title>
 </programme>
-<programme start="20251025145000 +0000" stop="20251025173000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20251025145000 +0000" stop="20251025170000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live Admiral BL: LASK - Grazer AK 1902, 11. Runde</title>
 </programme>
 <programme start="20251025143000 +0000" stop="20251025145000 +0000" channel="Sky Sport Austria 3 HD.skyde">
