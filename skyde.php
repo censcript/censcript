@@ -2504,7 +2504,7 @@
     <title>Admiral BL: WSG Tirol - FK Austria Wien, 10. Runde</title>
 </programme>
 <programme start="20251025050000 +0000" stop="20251025070000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>UEFA ECL: SK Rapid - AC Florenz, Ligaphase, 2. Spieltag</title>
+    <title>UEFA EL: FC Salzburg - Ferencváros Budapest, Ligaphase, 3. Spieltag</title>
 </programme>
 <programme start="20251025070000 +0000" stop="20251025073000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA CL: Magazin</title>
@@ -2560,7 +2560,7 @@
 <programme start="20251025143000 +0000" stop="20251025145000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: LIVE Admiral BL</title>
 </programme>
-<programme start="20251025145000 +0000" stop="20251025170000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20251025145000 +0000" stop="20251025173000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live Admiral BL: LASK - Grazer AK 1902, 11. Runde</title>
 </programme>
 <programme start="20251025143000 +0000" stop="20251025145000 +0000" channel="Sky Sport Austria 3 HD.skyde">
@@ -2743,7 +2743,7 @@
 <programme start="20251025130000 +0000" stop="20251025131500 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live BL: FCA - RBL: tipico Countdown, 8. Spieltag</title>
 </programme>
-<programme start="20251025131500 +0000" stop="20251025154500 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
+<programme start="20251025131500 +0000" stop="20251025160000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live BL: FC Augsburg - RB Leipzig, 8. Spieltag</title>
 </programme>
 <programme start="20251025101000 +0000" stop="20251025103000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
@@ -2755,7 +2755,7 @@
 <programme start="20251025130000 +0000" stop="20251025131500 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Live BL: TSG - FCH: tipico Countdown, 8. Spieltag</title>
 </programme>
-<programme start="20251025131500 +0000" stop="20251025154500 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
+<programme start="20251025131500 +0000" stop="20251025160000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Live BL: TSG Hoffenheim - 1. FC Heidenheim, 8. Spieltag</title>
 </programme>
 <programme start="20251025101000 +0000" stop="20251025103000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
@@ -2764,7 +2764,7 @@
 <programme start="20251025103000 +0000" stop="20251025130000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
     <title>Live 2. BL: Multiview, 10. Spieltag, Samstag</title>
 </programme>
-<programme start="20251025130000 +0000" stop="20251025153000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
+<programme start="20251025130000 +0000" stop="20251025160000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
     <title>Live BL: Multiview, 8. Spieltag</title>
 </programme>
 <programme start="20251025101000 +0000" stop="20251025103000 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
@@ -2773,7 +2773,7 @@
 <programme start="20251025103000 +0000" stop="20251025130000 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
     <title>Live 2. BL: Samstags-Konferenz, 10. Spieltag</title>
 </programme>
-<programme start="20251025130000 +0000" stop="20251025134500 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
+<programme start="20251025130000 +0000" stop="20251025140000 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
     <title>Live 2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 10. Spieltag, Samstag</title>
 </programme>
 <programme start="20251024233000 +0000" stop="20251025003000 +0000" channel="Sky Sport F1 HD.skyde">
@@ -3097,44 +3097,47 @@
 <programme start="20251025215000 +0000" stop="20251025221000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: Highlights Samstag, 9. Spieltag</title>
 </programme>
-<programme start="20251024223000 +0000" stop="20251025010000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20251024220500 +0000" stop="20251025003500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 250: C. Moutet (FRA) - D. Medvedev (RUS), Almaty Open in Almaty (KAZ), Finale</title>
 </programme>
-<programme start="20251025010000 +0000" stop="20251025030000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20251025003500 +0000" stop="20251025023000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: E. Rybakina (KAZ) - V. Mboko (CAN), Toray Pan Pacific Open Tennis in Tokio (JPN), 5. Tag</title>
 </programme>
+<programme start="20251025023000 +0000" stop="20251025030000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 1000: Review Wuhan</title>
+</programme>
 <programme start="20251025030000 +0000" stop="20251025050000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live WTA 500: HF1, Toray Pan Pacific Open Tennis in Tokio (JPN), Halbfinale</title>
+    <title>Live WTA 500: E. Rybakina (KAZ) - L. Noskova (CZE), Toray Pan Pacific Open Tennis in Tokio (JPN), Halbfinale 1</title>
 </programme>
 <programme start="20251025050000 +0000" stop="20251025070000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live WTA 500: HF2, Toray Pan Pacific Open Tennis in Tokio (JPN), Halbfinale</title>
+    <title>Live WTA 500: B. Bencic (SUI) - S. Kenin (USA), Toray Pan Pacific Open Tennis in Tokio (JPN), Halbfinale 2</title>
 </programme>
 <programme start="20251025070000 +0000" stop="20251025090000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: A. Zverev (GER) - T. Griekspoor (NED), Erste Bank Open in Wien (Österreich), 5. Tag</title>
+    <title>ATP 500: J. Sinner (ITA) - A. Bublik (KAZ), Erste Bank Open in Wien (Österreich), 5. Tag</title>
 </programme>
 <programme start="20251025090000 +0000" stop="20251025110000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: HF1, Toray Pan Pacific Open Tennis in Tokio (JPN), Halbfinale</title>
+    <title>WTA 500: E. Rybakina (KAZ) - L. Noskova (CZE), Toray Pan Pacific Open Tennis in Tokio (JPN), Halbfinale 1</title>
 </programme>
 <programme start="20251025110000 +0000" stop="20251025130000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: HF2, Toray Pan Pacific Open Tennis in Tokio (JPN), Halbfinale</title>
+    <title>WTA 500: B. Bencic (SUI) - S. Kenin (USA), Toray Pan Pacific Open Tennis in Tokio (JPN), Halbfinale 2</title>
 </programme>
 <programme start="20251025130000 +0000" stop="20251025150000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP 500: HF1 , Erste Bank Open in Wien (Österreich), Halbfinale 1</title>
+    <title>Live ATP 500: J. Sinner (ITA) - A. de Minaur (AUS), Erste Bank Open in Wien (Österreich), Halbfinale 1</title>
 </programme>
 <programme start="20251025150000 +0000" stop="20251025170000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP 500: HF2 , Erste Bank Open in Wien (Österreich), Halbfinale 2</title>
+    <title>Live ATP 500: A. Zverev (GER) - L. Musetti (ITA), Erste Bank Open in Wien (Österreich), Halbfinale 2</title>
 </programme>
 <programme start="20251025170000 +0000" stop="20251025173000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Meine Geschichte: Das Leben von Boris Becker (Teil 2)</title>
 </programme>
 <programme start="20251025173000 +0000" stop="20251025193000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: HF1, Swiss Indoors Basel in Basel (Schweiz), Halbfinale</title>
+    <title>ATP 500: J. Munar (ESP) - J. Fonseca (BRA), Swiss Indoors Basel in Basel (Schweiz), Halbfinale 1</title>
 </programme>
 <programme start="20251025193000 +0000" stop="20251025213000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: HF1 , Erste Bank Open in Wien (Österreich), Halbfinale 1</title>
+    <title>ATP 500: J. Sinner (ITA) - A. de Minaur (AUS), Erste Bank Open in Wien (Österreich), Halbfinale 1</title>
 </programme>
 <programme start="20251025213000 +0000" stop="20251025233000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: HF2, Swiss Indoors Basel in Basel (Schweiz), Halbfinale</title>
+    <title>ATP 500: U. Humbert (FRA) - A. Davidovich Fokina (ESP), Swiss Indoors Basel in Basel (Schweiz), Halbfinale</title>
 </programme>
 <programme start="20251024233000 +0000" stop="20251025020000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NHL: San Jose Sharks @ New Jersey Devils</title>
@@ -3187,17 +3190,17 @@
 <programme start="20251024224000 +0000" stop="20251024230000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: LIVE NHL</title>
 </programme>
-<programme start="20251024230000 +0000" stop="20251025034500 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20251024230000 +0000" stop="20251025020000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NHL: San Jose Sharks @ New Jersey Devils</title>
 </programme>
 <programme start="20251025124000 +0000" stop="20251025130000 +0000" channel="Sky Sport 8 HD.skyde">
     <title>Es folgt: LIVE ATP World Tour</title>
 </programme>
 <programme start="20251025130000 +0000" stop="20251025150000 +0000" channel="Sky Sport 8 HD.skyde">
-    <title>Live ATP 500: HF1, Swiss Indoors Basel in Basel (Schweiz), Halbfinale</title>
+    <title>Live ATP 500: J. Munar (ESP) - J. Fonseca (BRA), Swiss Indoors Basel in Basel (Schweiz), Halbfinale 1</title>
 </programme>
-<programme start="20251025150000 +0000" stop="20251025170000 +0000" channel="Sky Sport 8 HD.skyde">
-    <title>Live ATP 500: HF2, Swiss Indoors Basel in Basel (Schweiz), Halbfinale</title>
+<programme start="20251025150000 +0000" stop="20251025190000 +0000" channel="Sky Sport 8 HD.skyde">
+    <title>Live ATP 500: U. Humbert (FRA) - A. Davidovich Fokina (ESP), Swiss Indoors Basel in Basel (Schweiz), Halbfinale</title>
 </programme>
 <programme start="20251024220000 +0000" stop="20251024224500 +0000" channel="SYFY HD.skyde">
     <title>Stargate SG-1</title>

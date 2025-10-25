@@ -2237,34 +2237,34 @@
         <title>ATP Tour: This Week 2025</title>
     </programme>
     <programme start="20251025020000 +0000" stop="20251025033000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 500 2025: Basel QF 2</title>
+        <title>ATP Tour 500 2025 Basel QF 2 Fonseca v Shapovalov</title>
     </programme>
     <programme start="20251025033000 +0000" stop="20251025050000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 500 2025: Basel QF 3</title>
+        <title>ATP Tour 500 2025 Basel QF 3 Opelka v Humbert</title>
     </programme>
     <programme start="20251025050000 +0000" stop="20251025063000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 500 2025: Basel QF 4</title>
+        <title>ATP Tour 500 2025 Vienna QF 4 Musetti v Moutet</title>
     </programme>
     <programme start="20251025063000 +0000" stop="20251025070000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>ATP Tour: This Week 2025</title>
     </programme>
     <programme start="20251025070000 +0000" stop="20251025083000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 500 2025: Vienna QF 1</title>
+        <title>ATP Tour 500 2025 Vienna QF 1 De Minaur v Berrettini</title>
     </programme>
     <programme start="20251025083000 +0000" stop="20251025100000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 500 2025: Vienna QF 2</title>
+        <title>ATP Tour 500 2025 Basel QF 2 Fonseca v Shapovalov</title>
     </programme>
     <programme start="20251025100000 +0000" stop="20251025113000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 500 2025: Vienna QF 3</title>
+        <title>ATP Tour 500 2025 Vienna QF 3 Sinner v Bublik</title>
     </programme>
     <programme start="20251025113000 +0000" stop="20251025130000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 500 2025: Vienna QF 4</title>
+        <title>ATP Tour 500 2025 Vienna QF 4 Musetti v Moutet</title>
     </programme>
     <programme start="20251025130000 +0000" stop="20251025143000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 500 2025: Vienna SF 1 (Live)</title>
+        <title>ATP Tour 500 2025 Vienna SF 1 Sinner v De Minaur</title>
     </programme>
     <programme start="20251025143000 +0000" stop="20251025170000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 500 2025: Vienna SF 2 (Live)</title>
+        <title>ATP Tour 500 2025 Vienna SF 2 Zverev v Musetti</title>
     </programme>
     <programme start="20251024160000 +0000" stop="20251024170000 +0000" channel="TVB Xing He.starhub">
         <title>Birth of A Hero</title>
