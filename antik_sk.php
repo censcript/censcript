@@ -4411,37 +4411,40 @@
   <programme start="20251026223000 +0000" stop="20251026231500 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Prvních 48 hodin XXII (21)</title>
   </programme>
-  <programme start="20251026231500 +0000" stop="20251027004500 +0000" channel="Prima Krimi SK.webtv.sk">
+  <programme start="20251026231500 +0000" stop="20251027004000 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Julie Lescautová II (3)</title>
   </programme>
-  <programme start="20251027004500 +0000" stop="20251027034500 +0000" channel="Prima Krimi SK.webtv.sk">
+  <programme start="20251027004000 +0000" stop="20251027034500 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Noční dobrodružství</title>
   </programme>
-  <programme start="20251027050000 +0000" stop="20251027082500 +0000" channel="Prima Krimi SK.webtv.sk">
+  <programme start="20251027044600 +0000" stop="20251027050000 +0000" channel="Prima Krimi SK.webtv.sk">
+    <title lang="id">Vysielacia prestávka</title>
+  </programme>
+  <programme start="20251027050000 +0000" stop="20251027083500 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Noční dobrodružství</title>
   </programme>
-  <programme start="20251027082500 +0000" stop="20251027100500 +0000" channel="Prima Krimi SK.webtv.sk">
+  <programme start="20251027083500 +0000" stop="20251027101500 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Vraždy v Midsomeru IV</title>
   </programme>
-  <programme start="20251027100500 +0000" stop="20251027105000 +0000" channel="Prima Krimi SK.webtv.sk">
+  <programme start="20251027101500 +0000" stop="20251027110000 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Prvních 48 hodin XXII (20)</title>
   </programme>
-  <programme start="20251027105000 +0000" stop="20251027122500 +0000" channel="Prima Krimi SK.webtv.sk">
+  <programme start="20251027110000 +0000" stop="20251027123000 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Big Ben II (3)</title>
   </programme>
-  <programme start="20251027122500 +0000" stop="20251027135000 +0000" channel="Prima Krimi SK.webtv.sk">
+  <programme start="20251027123000 +0000" stop="20251027135500 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Julie Lescautová II (2)</title>
   </programme>
-  <programme start="20251027135000 +0000" stop="20251027153500 +0000" channel="Prima Krimi SK.webtv.sk">
+  <programme start="20251027135500 +0000" stop="20251027154000 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Vraždy v Midsomeru IV</title>
   </programme>
-  <programme start="20251027153500 +0000" stop="20251027161500 +0000" channel="Prima Krimi SK.webtv.sk">
+  <programme start="20251027154000 +0000" stop="20251027162000 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Prvních 48 hodin XXII (22)</title>
   </programme>
-  <programme start="20251027161500 +0000" stop="20251027170000 +0000" channel="Prima Krimi SK.webtv.sk">
+  <programme start="20251027162000 +0000" stop="20251027170500 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Prvních 48 hodin XXII (23)</title>
   </programme>
-  <programme start="20251027170000 +0000" stop="20251027174500 +0000" channel="Prima Krimi SK.webtv.sk">
+  <programme start="20251027170500 +0000" stop="20251027174500 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Prvních 48 hodin XXII (24)</title>
   </programme>
   <programme start="20251027174500 +0000" stop="20251027183000 +0000" channel="Prima Krimi SK.webtv.sk">
@@ -4450,10 +4453,10 @@
   <programme start="20251027183000 +0000" stop="20251027191500 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Vraždy v Kitzbühelu VII (1)</title>
   </programme>
-  <programme start="20251027191500 +0000" stop="20251027205000 +0000" channel="Prima Krimi SK.webtv.sk">
+  <programme start="20251027191500 +0000" stop="20251027205500 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Vraždy v Brokenwoodu IX (5)</title>
   </programme>
-  <programme start="20251027205000 +0000" stop="20251027213500 +0000" channel="Prima Krimi SK.webtv.sk">
+  <programme start="20251027205500 +0000" stop="20251027213500 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Prvních 48 hodin XXII (22)</title>
   </programme>
   <programme start="20251027213500 +0000" stop="20251027222000 +0000" channel="Prima Krimi SK.webtv.sk">
