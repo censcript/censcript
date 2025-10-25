@@ -550,6 +550,9 @@
 <programme start="20251025041500 +0000" stop="20251025050000 +0000" channel="Trans 7.vision">
 <title>Enaknya Mantul</title>
 </programme>
+<programme start="20251025063000 +0000" stop="20251025071500 +0000" channel="Trans 7.vision">
+<title>Mancing Mania Strike Back</title>
+</programme>
 <programme start="20251025071500 +0000" stop="20251025081500 +0000" channel="Trans 7.vision">
 <title>Redaksi Akhir Pekan</title>
 </programme>
@@ -660,6 +663,9 @@
 </programme>
 <programme start="20251025093000 +0000" stop="20251025110000 +0000" channel="ANTV.vision">
 <title>ANTV Seru</title>
+</programme>
+<programme start="20251025110000 +0000" stop="20251025130000 +0000" channel="ANTV.vision">
+<title>Festival ANTV Rame</title>
 </programme>
 <programme start="20251025130000 +0000" stop="20251025150000 +0000" channel="ANTV.vision">
 <title>Rindu Tak Berujung</title>
@@ -828,6 +834,9 @@
 </programme>
 <programme start="20251025070000 +0000" stop="20251025073000 +0000" channel="TVOne.vision">
 <title>Selalu Ada Hikmah</title>
+</programme>
+<programme start="20251025073000 +0000" stop="20251025080000 +0000" channel="TVOne.vision">
+<title>Sketsa Jendela Islam</title>
 </programme>
 <programme start="20251025080000 +0000" stop="20251025090000 +0000" channel="TVOne.vision">
 <title>Apa Kabar Indonesia... (L)</title>
@@ -1488,13 +1497,4 @@
 </programme>
 <programme start="20251026011500 +0000" stop="20251026014500 +0000" channel="BTV.vision">
 <title>Kuyliner</title>
-</programme>
-<programme start="20251026014500 +0000" stop="20251026023000 +0000" channel="BTV.vision">
-<title>Masak Ala Devina Hermawan</title>
-</programme>
-<programme start="20251026023000 +0000" stop="20251026031500 +0000" channel="BTV.vision">
-<title>Selera Rasa</title>
-</programme>
-<programme start="20251026031500 +0000" stop="20251026040000 +0000" channel="BTV.vision">
-<title>Endeus</title>
 </programme>
