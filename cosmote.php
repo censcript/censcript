@@ -74,6 +74,10 @@
     <title>PreGame Show (L)</title>
     <desc>Live: Ya</desc>
 </programme>
+<programme start="20251026223000 +0700" stop="20251027003500 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: Panathinaikos - Asteras Aktor (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
 <programme start="20251025210000 +0700" stop="20251025231500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Kifisia - Panetolikos (L)</title>
     <desc>Live: Ya</desc>
@@ -140,10 +144,6 @@
 </programme>
 <programme start="20251026210000 +0700" stop="20251026230000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Sassuolo - AS Roma (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20251025200000 +0700" stop="20251025220000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Parma - Como (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20251025220000 +0700" stop="20251025223000 +0700" channel="COSMOTE Sport 3 HD">
@@ -216,10 +216,6 @@
 </programme>
 <programme start="20251026210000 +0700" stop="20251026230000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Hellas Verona - Cagliari (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20251025200000 +0700" stop="20251025220000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Football: Udinese - Lecce (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20251025220000 +0700" stop="20251025223000 +0700" channel="COSMOTE Sport 4 HD">
@@ -296,10 +292,6 @@
 </programme>
 <programme start="20251026213000 +0700" stop="20251026233000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Bertram Derthona Tortona - Trapani</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251025203500 +0700" stop="20251025214000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: Moto2 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251025214000 +0700" stop="20251025224500 +0700" channel="COSMOTE Sport 5 HD">
@@ -394,10 +386,6 @@
     <title>Football: Aberdeen - Hibernian (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251025200000 +0700" stop="20251025220000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: Jannik Sinner - Alex de Minaur (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
 <programme start="20251025220000 +0700" stop="20251026003000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Lorenzo Musetti - Alexander Zverev (L)</title>
     <desc>Live: Ya</desc>
@@ -450,8 +438,12 @@
     <title>Tennis: ATP 500 2025 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251025200000 +0700" stop="20251025220000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
+<programme start="20251026223000 +0700" stop="20251026224500 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Sports Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251026224500 +0700" stop="20251026231500 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Premier Padel Tour 2025 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251025220000 +0700" stop="20251026000000 +0700" channel="COSMOTE Sport 7 HD">
@@ -526,10 +518,6 @@
     <title>Tennis: ATP 500 2025 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251025200000 +0700" stop="20251025220000 +0700" channel="COSMOTE Sport 8 HD">
-    <title>COSMOTESport8HD</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251025220000 +0700" stop="20251026000000 +0700" channel="COSMOTE Sport 8 HD">
     <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
@@ -598,8 +586,8 @@
     <title>Beach Volley: Pro Tour Elite 16 2025 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251025200000 +0700" stop="20251025220000 +0700" channel="COSMOTE Sport 9 HD">
-    <title>Tennis: Joao Fonseca - Jaume Munar (L)</title>
+<programme start="20251026220000 +0700" stop="20251026230000 +0700" channel="COSMOTE Sport 8 HD">
+    <title>Beach Volley: Pro Tour Elite 16 2025 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20251025220000 +0700" stop="20251026003000 +0700" channel="COSMOTE Sport 9 HD">
