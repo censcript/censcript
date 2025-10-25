@@ -550,12 +550,6 @@
 <programme start="20251025041500 +0000" stop="20251025050000 +0000" channel="Trans 7.vision">
 <title>Enaknya Mantul</title>
 </programme>
-<programme start="20251025054500 +0000" stop="20251025063000 +0000" channel="Trans 7.vision">
-<title>Jejak Petualang Explorer</title>
-</programme>
-<programme start="20251025063000 +0000" stop="20251025071500 +0000" channel="Trans 7.vision">
-<title>Mancing Mania Strike Back</title>
-</programme>
 <programme start="20251025071500 +0000" stop="20251025081500 +0000" channel="Trans 7.vision">
 <title>Redaksi Akhir Pekan</title>
 </programme>
@@ -585,12 +579,6 @@
 </programme>
 <programme start="20251025154500 +0000" stop="20251025163000 +0000" channel="Trans 7.vision">
 <title>The Police</title>
-</programme>
-<programme start="20251025163000 +0000" stop="20251025171500 +0000" channel="Trans 7.vision">
-<title>Starting Grid MotoGP: Malaysia</title>
-</programme>
-<programme start="20251025171500 +0000" stop="20251025180000 +0000" channel="Trans 7.vision">
-<title>MotoGP Sprint Race: Malaysia</title>
 </programme>
 <programme start="20251025180000 +0000" stop="20251025190000 +0000" channel="Trans 7.vision">
 <title>Best Fishing</title>
@@ -658,9 +646,6 @@
 <programme start="20251025013000 +0000" stop="20251025030000 +0000" channel="ANTV.vision">
 <title>Jadi Aku Sebentar Saja</title>
 </programme>
-<programme start="20251025030000 +0000" stop="20251025063000 +0000" channel="ANTV.vision">
-<title>Kushi</title>
-</programme>
 <programme start="20251025063000 +0000" stop="20251025080000 +0000" channel="ANTV.vision">
 <title>Cinta Keluarga Pandya</title>
 </programme>
@@ -670,14 +655,8 @@
 <programme start="20251025093000 +0000" stop="20251025110000 +0000" channel="ANTV.vision">
 <title>ANTV Seru</title>
 </programme>
-<programme start="20251025110000 +0000" stop="20251025130000 +0000" channel="ANTV.vision">
-<title>Festival ANTV Rame</title>
-</programme>
 <programme start="20251025130000 +0000" stop="20251025150000 +0000" channel="ANTV.vision">
 <title>Rindu Tak Berujung</title>
-</programme>
-<programme start="20251025150000 +0000" stop="20251025170000 +0000" channel="ANTV.vision">
-<title>Lucky Starts Go Places</title>
 </programme>
 <programme start="20251025170000 +0000" stop="20251025193000 +0000" channel="ANTV.vision">
 <title>Witch From Nepal</title>
@@ -841,9 +820,6 @@
 <programme start="20251025070000 +0000" stop="20251025073000 +0000" channel="TVOne.vision">
 <title>Selalu Ada Hikmah</title>
 </programme>
-<programme start="20251025073000 +0000" stop="20251025080000 +0000" channel="TVOne.vision">
-<title>Sketsa Jendela Islam</title>
-</programme>
 <programme start="20251025080000 +0000" stop="20251025090000 +0000" channel="TVOne.vision">
 <title>Apa Kabar Indonesia... (L)</title>
 </programme>
@@ -858,9 +834,6 @@
 </programme>
 <programme start="20251025140000 +0000" stop="20251025150000 +0000" channel="TVOne.vision">
 <title>Kabar Hari Ini (L)</title>
-</programme>
-<programme start="20251025150000 +0000" stop="20251025160000 +0000" channel="TVOne.vision">
-<title>One Pride MMA (L)</title>
 </programme>
 <programme start="20251025160000 +0000" stop="20251025163000 +0000" channel="TVOne.vision">
 <title>Sport Style</title>
@@ -1497,4 +1470,31 @@
 </programme>
 <programme start="20251025233000 +0000" stop="20251026003000 +0000" channel="BTV.vision">
 <title>Jalan Dakwah</title>
+</programme>
+<programme start="20251026003000 +0000" stop="20251026011500 +0000" channel="BTV.vision">
+<title>Figur Publik</title>
+</programme>
+<programme start="20251026011500 +0000" stop="20251026014500 +0000" channel="BTV.vision">
+<title>Kuyliner</title>
+</programme>
+<programme start="20251026014500 +0000" stop="20251026023000 +0000" channel="BTV.vision">
+<title>Masak Ala Devina Hermawan</title>
+</programme>
+<programme start="20251026023000 +0000" stop="20251026031500 +0000" channel="BTV.vision">
+<title>Selera Rasa</title>
+</programme>
+<programme start="20251026031500 +0000" stop="20251026040000 +0000" channel="BTV.vision">
+<title>Endeus</title>
+</programme>
+<programme start="20251026040000 +0000" stop="20251026050000 +0000" channel="BTV.vision">
+<title>Berita Satu Siang</title>
+</programme>
+<programme start="20251026050000 +0000" stop="20251026060000 +0000" channel="BTV.vision">
+<title>Jalan Dakwah</title>
+</programme>
+<programme start="20251026060000 +0000" stop="20251026070000 +0000" channel="BTV.vision">
+<title>Dunia RANS</title>
+</programme>
+<programme start="20251026070000 +0000" stop="20251026090000 +0000" channel="BTV.vision">
+<title>Scooter Prix 2025</title>
 </programme>
