@@ -2560,7 +2560,7 @@
 <programme start="20251025143000 +0000" stop="20251025145000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: LIVE Admiral BL</title>
 </programme>
-<programme start="20251025145000 +0000" stop="20251025170000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20251025145000 +0000" stop="20251025173000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live Admiral BL: LASK - Grazer AK 1902, 11. Runde</title>
 </programme>
 <programme start="20251025143000 +0000" stop="20251025145000 +0000" channel="Sky Sport Austria 3 HD.skyde">
