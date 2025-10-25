@@ -2566,13 +2566,13 @@
 <programme start="20251025143000 +0000" stop="20251025145000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Es folgt: LIVE Admiral BL</title>
 </programme>
-<programme start="20251025145000 +0000" stop="20251025170000 +0000" channel="Sky Sport Austria 3 HD.skyde">
+<programme start="20251025145000 +0000" stop="20251025173000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live Admiral BL: SCR Altach - TSV Egger Glas Hartberg, 11. Runde</title>
 </programme>
 <programme start="20251025143000 +0000" stop="20251025145000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Es folgt: LIVE Admiral BL</title>
 </programme>
-<programme start="20251025145000 +0000" stop="20251025170000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+<programme start="20251025145000 +0000" stop="20251025173000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live Admiral BL: WSG Tirol - FC Blau-Weiß Linz, 11. Runde</title>
 </programme>
 <programme start="20251025161000 +0000" stop="20251025163000 +0000" channel="Sky Sport Austria 5 HD.skyde">
@@ -2581,7 +2581,7 @@
 <programme start="20251025163000 +0000" stop="20251025193000 +0000" channel="Sky Sport Austria 5 HD.skyde">
     <title>Live NHL: New York Islanders @ Philadelphia Flyers</title>
 </programme>
-<programme start="20251025193000 +0000" stop="20251025220000 +0000" channel="Sky Sport Austria 5 HD.skyde">
+<programme start="20251025193000 +0000" stop="20251025230000 +0000" channel="Sky Sport Austria 5 HD.skyde">
     <title>Live NHL: Colorado Avalanche @ Boston Bruins</title>
 </programme>
 <programme start="20251024223000 +0000" stop="20251025003000 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -2692,7 +2692,7 @@
 <programme start="20251025131500 +0000" stop="20251025154500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: Borussia M&#039;gladbach - FC Bayern München, 8. Spieltag</title>
 </programme>
-<programme start="20251025154500 +0000" stop="20251025191500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
+<programme start="20251025154500 +0000" stop="20251025194500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: Borussia Dortmund - 1. FC Köln, tipico Topspiel der Woche, 8. Spieltag</title>
 </programme>
 <programme start="20251025101000 +0000" stop="20251025103000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
@@ -2716,7 +2716,7 @@
 <programme start="20251025180000 +0000" stop="20251025210000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Live 2. BL: Hertha BSC - Fortuna Düsseldorf, tipico Topspiel der Woche, 10. Spieltag</title>
 </programme>
-<programme start="20251025210000 +0000" stop="20251025220000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+<programme start="20251025210000 +0000" stop="20251025223000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 10. Spieltag, Samstag komplett</title>
 </programme>
 <programme start="20251025101000 +0000" stop="20251025103000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
@@ -2731,7 +2731,7 @@
 <programme start="20251025131500 +0000" stop="20251025154500 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live BL: Hamburger SV - VfL Wolfsburg, 8. Spieltag</title>
 </programme>
-<programme start="20251025154500 +0000" stop="20251025191500 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
+<programme start="20251025154500 +0000" stop="20251025194500 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live BL: Tactical Feed: BVB - KOE, 8. Spieltag</title>
 </programme>
 <programme start="20251025101000 +0000" stop="20251025103000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
@@ -3493,10 +3493,10 @@
 <programme start="20251025120500 +0000" stop="20251025122500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Big Bang Theory</title>
 </programme>
-<programme start="20251025122500 +0000" stop="20251025125000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251025122500 +0000" stop="20251025124500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Big Bang Theory</title>
 </programme>
-<programme start="20251025125000 +0000" stop="20251025131000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251025124500 +0000" stop="20251025131000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Big Bang Theory</title>
 </programme>
 <programme start="20251025131000 +0000" stop="20251025133000 +0000" channel="Warner TV Comedy HD.skyde">
