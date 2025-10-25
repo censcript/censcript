@@ -550,9 +550,6 @@
 <programme start="20251025041500 +0000" stop="20251025050000 +0000" channel="Trans 7.vision">
 <title>Enaknya Mantul</title>
 </programme>
-<programme start="20251025050000 +0000" stop="20251025054500 +0000" channel="Trans 7.vision">
-<title>Cuan Bos</title>
-</programme>
 <programme start="20251025054500 +0000" stop="20251025063000 +0000" channel="Trans 7.vision">
 <title>Jejak Petualang Explorer</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20251025230300 +0000" stop="20251025233000 +0000" channel="BTV.vision">
 <title>Saat Teduh Bersama GMS</title>
+</programme>
+<programme start="20251025233000 +0000" stop="20251026003000 +0000" channel="BTV.vision">
+<title>Jalan Dakwah</title>
 </programme>
