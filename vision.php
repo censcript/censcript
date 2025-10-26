@@ -448,23 +448,11 @@
 <programme start="20251025233000 +0000" stop="20251026003000 +0000" channel="Trans TV.vision">
 <title>Insert Pagi (L)</title>
 </programme>
-<programme start="20251026013000 +0000" stop="20251026033000 +0000" channel="Trans TV.vision">
-<title>Ambyar In Weekend</title>
-</programme>
 <programme start="20251026033000 +0000" stop="20251026043000 +0000" channel="Trans TV.vision">
 <title>Insert Siang</title>
 </programme>
-<programme start="20251026043000 +0000" stop="20251026053000 +0000" channel="Trans TV.vision">
-<title>Spill DD Tea</title>
-</programme>
-<programme start="20251026053000 +0000" stop="20251026070000 +0000" channel="Trans TV.vision">
-<title>Brownis On The Weekend</title>
-</programme>
 <programme start="20251026070000 +0000" stop="20251026080000 +0000" channel="Trans TV.vision">
 <title>Rumpi: No Secret</title>
-</programme>
-<programme start="20251026080000 +0000" stop="20251026091500 +0000" channel="Trans TV.vision">
-<title>Insert Investigasi</title>
 </programme>
 <programme start="20251026091500 +0000" stop="20251026100000 +0000" channel="Trans TV.vision">
 <title>Sehari Jadi Ratu</title>
@@ -528,21 +516,6 @@
 </programme>
 <programme start="20251026000000 +0000" stop="20251026010000 +0000" channel="Trans 7.vision">
 <title>Spotlite</title>
-</programme>
-<programme start="20251026023000 +0000" stop="20251026033000 +0000" channel="Trans 7.vision">
-<title>Heits Abis</title>
-</programme>
-<programme start="20251026033000 +0000" stop="20251026041500 +0000" channel="Trans 7.vision">
-<title>Bikin Seneng</title>
-</programme>
-<programme start="20251026041500 +0000" stop="20251026050000 +0000" channel="Trans 7.vision">
-<title>Enaknya Mantul</title>
-</programme>
-<programme start="20251026050000 +0000" stop="20251026080000 +0000" channel="Trans 7.vision">
-<title>MotoGP 2025: Malaysia</title>
-</programme>
-<programme start="20251026080000 +0000" stop="20251026090000 +0000" channel="Trans 7.vision">
-<title>Redaksi Akhir Pekan</title>
 </programme>
 <programme start="20251026090000 +0000" stop="20251026100000 +0000" channel="Trans 7.vision">
 <title>Makan Receh</title>
@@ -633,9 +606,6 @@
 </programme>
 <programme start="20251026013000 +0000" stop="20251026030000 +0000" channel="ANTV.vision">
 <title>Jadi Aku Sebentar Saja</title>
-</programme>
-<programme start="20251026030000 +0000" stop="20251026063000 +0000" channel="ANTV.vision">
-<title>Happy New Year</title>
 </programme>
 <programme start="20251026063000 +0000" stop="20251026080000 +0000" channel="ANTV.vision">
 <title>Cinta Keluarga Pandya</title>
@@ -796,26 +766,8 @@
 <programme start="20251025233000 +0000" stop="20251026010000 +0000" channel="TVOne.vision">
 <title>Apa Kabar Indonesia Pagi (L)</title>
 </programme>
-<programme start="20251026030000 +0000" stop="20251026033000 +0000" channel="TVOne.vision">
-<title>Dunia Dalam Kamera</title>
-</programme>
-<programme start="20251026033000 +0000" stop="20251026040000 +0000" channel="TVOne.vision">
-<title>Indonesia Plus</title>
-</programme>
 <programme start="20251026040000 +0000" stop="20251026053000 +0000" channel="TVOne.vision">
 <title>Kabar Siang (L)</title>
-</programme>
-<programme start="20251026053000 +0000" stop="20251026070000 +0000" channel="TVOne.vision">
-<title>Damai Indonesiaku (L)</title>
-</programme>
-<programme start="20251026070000 +0000" stop="20251026073000 +0000" channel="TVOne.vision">
-<title>Selalu Ada Hikmah</title>
-</programme>
-<programme start="20251026073000 +0000" stop="20251026080000 +0000" channel="TVOne.vision">
-<title>Dunia Kita Dan Anak</title>
-</programme>
-<programme start="20251026080000 +0000" stop="20251026090000 +0000" channel="TVOne.vision">
-<title>Apa Kabar Indonesia... (L)</title>
 </programme>
 <programme start="20251026090000 +0000" stop="20251026110000 +0000" channel="TVOne.vision">
 <title>Kabar Petang (L)</title>
@@ -1496,5 +1448,53 @@
 <title>TVRI</title>
 </programme>
 <programme start="20251026053500 +0000" stop="20251026070000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251026070000 +0000" stop="20251026083500 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251026083500 +0000" stop="20251026102000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251026102000 +0000" stop="20251026120500 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251026120500 +0000" stop="20251026134000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251026134000 +0000" stop="20251026150000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251026150000 +0000" stop="20251026163500 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251026163500 +0000" stop="20251026180500 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251026180500 +0000" stop="20251026193500 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251026193500 +0000" stop="20251026211500 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251026211500 +0000" stop="20251026230000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251026230000 +0000" stop="20251027003000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251027003000 +0000" stop="20251027015500 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251027015500 +0000" stop="20251027032000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251027032000 +0000" stop="20251027045500 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251027045500 +0000" stop="20251027061500 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251027061500 +0000" stop="20251027075500 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
