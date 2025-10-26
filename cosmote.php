@@ -1,7 +1,3 @@
-<programme start="20251026160000 +0700" stop="20251026180000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: AEK - Aberdeen</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251026180000 +0700" stop="20251026183000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Game R1 S6 E9</title>
     <desc>Live: Tidak</desc>
@@ -126,6 +122,10 @@
     <title>Football: Torino - Genoa</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251027181000 +0700" stop="20251027202000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: OFI - Atromitos Athens</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251026162000 +0700" stop="20251026183000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: SL Benfica - Arouca</title>
     <desc>Live: Tidak</desc>
@@ -206,6 +206,10 @@
     <title>Football: Preston North End - Sheffield United</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251027184500 +0700" stop="20251027191500 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Copa Libertadores 2025 - Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251026155000 +0700" stop="20251026183000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Atlanta Hawks - Oklahoma City Thunder</title>
     <desc>Live: Tidak</desc>
@@ -268,10 +272,6 @@
 </programme>
 <programme start="20251027170000 +0700" stop="20251027193000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Detroit Pistons - Boston Celtics</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251026155000 +0700" stop="20251026171000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Grand Prix Show 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251026171000 +0700" stop="20251026183000 +0700" channel="COSMOTE Sport 5 HD">

@@ -1,7 +1,3 @@
-
-Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa.serv00.net/public_html/cen/epg/skyde.php on line 135
-
-Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa.serv00.net/public_html/cen/epg/skyde.php on line 135
 <programme start="20251025224000 +0000" stop="20251025232500 +0000" channel="13th Street HD.skyde">
     <title>Navy CIS: L.A.</title>
 </programme>
@@ -1931,94 +1927,91 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251026222000 +0000" stop="20251027000000 +0000" channel="Sky Documentaries HD.skyde">
     <title>Rudi Völler - Es gibt nur einen</title>
 </programme>
-<programme start="20251030232000 +0000" stop="20251031000500 +0000" channel="Sky Krimi HD.skyde">
+<programme start="20251025221000 +0000" stop="20251025230000 +0000" channel="Sky Krimi HD.skyde">
     <title>SOKO Potsdam</title>
 </programme>
-<programme start="20251031000500 +0000" stop="20251031005500 +0000" channel="Sky Krimi HD.skyde">
+<programme start="20251025230000 +0000" stop="20251026013000 +0000" channel="Sky Krimi HD.skyde">
+    <title>München Mord: La dolce Vita</title>
+</programme>
+<programme start="20251026013000 +0000" stop="20251026013500 +0000" channel="Sky Krimi HD.skyde">
+    <title>Der Pass 3: Geschundene Seelen - Ellie</title>
+</programme>
+<programme start="20251026013500 +0000" stop="20251026020000 +0000" channel="Sky Krimi HD.skyde">
+    <title>Mord im Mittsommer</title>
+</programme>
+<programme start="20251026020000 +0000" stop="20251026022500 +0000" channel="Sky Krimi HD.skyde">
+    <title>Die Wespe 2: Interview Lisa &amp; Florian</title>
+</programme>
+<programme start="20251026022500 +0000" stop="20251026023500 +0000" channel="Sky Krimi HD.skyde">
+    <title>Die Wespe 2: Das Interview</title>
+</programme>
+<programme start="20251026023500 +0000" stop="20251026032000 +0000" channel="Sky Krimi HD.skyde">
     <title>Mord mit Aussicht</title>
 </programme>
-<programme start="20251031005500 +0000" stop="20251031014500 +0000" channel="Sky Krimi HD.skyde">
+<programme start="20251026032000 +0000" stop="20251026041000 +0000" channel="Sky Krimi HD.skyde">
     <title>Mord mit Aussicht</title>
 </programme>
-<programme start="20251031014500 +0000" stop="20251031031000 +0000" channel="Sky Krimi HD.skyde">
-    <title>Agatha Christies Hjerson</title>
-</programme>
-<programme start="20251031031000 +0000" stop="20251031031500 +0000" channel="Sky Krimi HD.skyde">
-    <title>Das Boot 4: Die Handlung</title>
-</programme>
-<programme start="20251031031500 +0000" stop="20251031032000 +0000" channel="Sky Krimi HD.skyde">
-    <title>Das Boot 4: Kostüm</title>
-</programme>
-<programme start="20251031032000 +0000" stop="20251031032500 +0000" channel="Sky Krimi HD.skyde">
-    <title>Das Boot 4: Neu an Board</title>
-</programme>
-<programme start="20251031032419 +0000" stop="20251031032611 +0000" channel="Sky Krimi HD.skyde">
-    <title></title>
-</programme>
-<programme start="20251031032500 +0000" stop="20251031041000 +0000" channel="Sky Krimi HD.skyde">
-    <title>Die Rosenheim-Cops</title>
-</programme>
-<programme start="20251031032637 +0000" stop="20251031032832 +0000" channel="Sky Krimi HD.skyde">
-    <title></title>
-</programme>
-<programme start="20251031041000 +0000" stop="20251031045500 +0000" channel="Sky Krimi HD.skyde">
-    <title>Die Rosenheim-Cops</title>
-</programme>
-<programme start="20251031045500 +0000" stop="20251031062500 +0000" channel="Sky Krimi HD.skyde">
-    <title>Agatha Christies Hjerson</title>
-</programme>
-<programme start="20251031062500 +0000" stop="20251031071000 +0000" channel="Sky Krimi HD.skyde">
+<programme start="20251026041000 +0000" stop="20251026045500 +0000" channel="Sky Krimi HD.skyde">
     <title>SOKO Hamburg</title>
 </programme>
-<programme start="20251031071000 +0000" stop="20251031075500 +0000" channel="Sky Krimi HD.skyde">
+<programme start="20251026045500 +0000" stop="20251026054500 +0000" channel="Sky Krimi HD.skyde">
     <title>SOKO Potsdam</title>
 </programme>
-<programme start="20251031075500 +0000" stop="20251031093000 +0000" channel="Sky Krimi HD.skyde">
-    <title>Agatha Christies Hjerson</title>
+<programme start="20251026054500 +0000" stop="20251026071500 +0000" channel="Sky Krimi HD.skyde">
+    <title>Erzgebirgskrimi: Tödliche Abrechnung</title>
 </programme>
-<programme start="20251031093000 +0000" stop="20251031102000 +0000" channel="Sky Krimi HD.skyde">
-    <title>Die Rosenheim-Cops</title>
+<programme start="20251026071500 +0000" stop="20251026085000 +0000" channel="Sky Krimi HD.skyde">
+    <title>Spreewaldkrimi: Totentanz</title>
 </programme>
-<programme start="20251031102000 +0000" stop="20251031110500 +0000" channel="Sky Krimi HD.skyde">
-    <title>Die Rosenheim-Cops</title>
-</programme>
-<programme start="20251031110500 +0000" stop="20251031115500 +0000" channel="Sky Krimi HD.skyde">
-    <title>SOKO Stuttgart</title>
-</programme>
-<programme start="20251031115500 +0000" stop="20251031124500 +0000" channel="Sky Krimi HD.skyde">
-    <title>SOKO Stuttgart</title>
-</programme>
-<programme start="20251031124500 +0000" stop="20251031141500 +0000" channel="Sky Krimi HD.skyde">
-    <title>Hubert und Staller</title>
-</programme>
-<programme start="20251031141500 +0000" stop="20251031151000 +0000" channel="Sky Krimi HD.skyde">
-    <title>Mord mit Aussicht</title>
-</programme>
-<programme start="20251031151000 +0000" stop="20251031160000 +0000" channel="Sky Krimi HD.skyde">
-    <title>Mord mit Aussicht</title>
-</programme>
-<programme start="20251031160000 +0000" stop="20251031165000 +0000" channel="Sky Krimi HD.skyde">
-    <title>SOKO Stuttgart</title>
-</programme>
-<programme start="20251031165000 +0000" stop="20251031174000 +0000" channel="Sky Krimi HD.skyde">
-    <title>SOKO Stuttgart</title>
-</programme>
-<programme start="20251031174000 +0000" stop="20251031191500 +0000" channel="Sky Krimi HD.skyde">
-    <title>Hubert und Staller</title>
-</programme>
-<programme start="20251031191500 +0000" stop="20251031200000 +0000" channel="Sky Krimi HD.skyde">
+<programme start="20251026085000 +0000" stop="20251026093500 +0000" channel="Sky Krimi HD.skyde">
     <title>SOKO Wien</title>
 </programme>
-<programme start="20251031200000 +0000" stop="20251031205000 +0000" channel="Sky Krimi HD.skyde">
+<programme start="20251026093500 +0000" stop="20251026102500 +0000" channel="Sky Krimi HD.skyde">
     <title>SOKO Wien</title>
 </programme>
-<programme start="20251031205000 +0000" stop="20251031213500 +0000" channel="Sky Krimi HD.skyde">
+<programme start="20251026102500 +0000" stop="20251026112000 +0000" channel="Sky Krimi HD.skyde">
+    <title>Hubert und Staller</title>
+</programme>
+<programme start="20251026112000 +0000" stop="20251026121000 +0000" channel="Sky Krimi HD.skyde">
+    <title>Hubert und Staller</title>
+</programme>
+<programme start="20251026121000 +0000" stop="20251026130500 +0000" channel="Sky Krimi HD.skyde">
+    <title>Hubert und Staller</title>
+</programme>
+<programme start="20251026130500 +0000" stop="20251026140000 +0000" channel="Sky Krimi HD.skyde">
+    <title>Hubert und Staller</title>
+</programme>
+<programme start="20251026140000 +0000" stop="20251026145000 +0000" channel="Sky Krimi HD.skyde">
+    <title>Hubert und Staller</title>
+</programme>
+<programme start="20251026145000 +0000" stop="20251026154500 +0000" channel="Sky Krimi HD.skyde">
+    <title>Hubert und Staller</title>
+</programme>
+<programme start="20251026154500 +0000" stop="20251026163500 +0000" channel="Sky Krimi HD.skyde">
+    <title>Hubert und Staller</title>
+</programme>
+<programme start="20251026163500 +0000" stop="20251026173000 +0000" channel="Sky Krimi HD.skyde">
+    <title>Hubert und Staller</title>
+</programme>
+<programme start="20251026173000 +0000" stop="20251026182000 +0000" channel="Sky Krimi HD.skyde">
+    <title>Hubert und Staller</title>
+</programme>
+<programme start="20251026182000 +0000" stop="20251026191500 +0000" channel="Sky Krimi HD.skyde">
+    <title>Hubert und Staller</title>
+</programme>
+<programme start="20251026191500 +0000" stop="20251026201500 +0000" channel="Sky Krimi HD.skyde">
+    <title>Der Staatsanwalt: Aus der Schusslinie</title>
+</programme>
+<programme start="20251026201500 +0000" stop="20251026212000 +0000" channel="Sky Krimi HD.skyde">
+    <title>Der Staatsanwalt: Schuld und Gewissen</title>
+</programme>
+<programme start="20251026212000 +0000" stop="20251026220500 +0000" channel="Sky Krimi HD.skyde">
     <title>Die Rosenheim-Cops</title>
 </programme>
-<programme start="20251031213500 +0000" stop="20251031222500 +0000" channel="Sky Krimi HD.skyde">
+<programme start="20251026220500 +0000" stop="20251026225500 +0000" channel="Sky Krimi HD.skyde">
     <title>Die Rosenheim-Cops</title>
 </programme>
-<programme start="20251031222500 +0000" stop="20251031231000 +0000" channel="Sky Krimi HD.skyde">
+<programme start="20251026225500 +0000" stop="20251026234500 +0000" channel="Sky Krimi HD.skyde">
     <title>SOKO Hamburg</title>
 </programme>
 <programme start="20251025224000 +0000" stop="20251025232500 +0000" channel="Sky Nature HD.skyde">

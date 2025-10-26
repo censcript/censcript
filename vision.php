@@ -454,12 +454,6 @@
 <programme start="20251026070000 +0000" stop="20251026080000 +0000" channel="Trans TV.vision">
 <title>Rumpi: No Secret</title>
 </programme>
-<programme start="20251026091500 +0000" stop="20251026100000 +0000" channel="Trans TV.vision">
-<title>Sehari Jadi Ratu</title>
-</programme>
-<programme start="20251026100000 +0000" stop="20251026103000 +0000" channel="Trans TV.vision">
-<title>Termangu-Mangu</title>
-</programme>
 <programme start="20251026103000 +0000" stop="20251026114500 +0000" channel="Trans TV.vision">
 <title>Bikin Laper</title>
 </programme>
@@ -519,9 +513,6 @@
 </programme>
 <programme start="20251026090000 +0000" stop="20251026100000 +0000" channel="Trans 7.vision">
 <title>Makan Receh</title>
-</programme>
-<programme start="20251026100000 +0000" stop="20251026110000 +0000" channel="Trans 7.vision">
-<title>Selebrita On The Weekend</title>
 </programme>
 <programme start="20251026110000 +0000" stop="20251026123000 +0000" channel="Trans 7.vision">
 <title>Arisan</title>
@@ -612,9 +603,6 @@
 </programme>
 <programme start="20251026080000 +0000" stop="20251026093000 +0000" channel="ANTV.vision">
 <title>Zeynep</title>
-</programme>
-<programme start="20251026093000 +0000" stop="20251026110000 +0000" channel="ANTV.vision">
-<title>ANTV Seru</title>
 </programme>
 <programme start="20251026110000 +0000" stop="20251026130000 +0000" channel="ANTV.vision">
 <title>Rajawali Dari Utara</title>
@@ -1497,4 +1485,16 @@
 </programme>
 <programme start="20251027061500 +0000" stop="20251027075500 +0000" channel="TVRI.vision">
 <title>TVRI</title>
+</programme>
+<programme start="20251027075500 +0000" stop="20251027094000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251027094000 +0000" stop="20251027110000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251027110000 +0000" stop="20251027123000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251026000000 +0000" stop="20251026030000 +0000" channel="DAAI TV.vision">
+<title>DAAI TV</title>
 </programme>
