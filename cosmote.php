@@ -110,9 +110,9 @@
     <title>Football: SS Lazio - Juventus Football Club</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251027033000 +0700" stop="20251027053000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: SC Braga - Casa Pia (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20251028064000 +0700" stop="20251028070000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Sports Classics: Worldies E10</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251027053000 +0700" stop="20251027073000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Panathinaikos - Asteras Aktor</title>
@@ -182,9 +182,13 @@
     <title>Copa Libertadores 2025 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251027023000 +0700" stop="20251027053000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Detroit Pistons - Boston Celtics (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20251028060000 +0700" stop="20251028063000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Copa Sudamericana 2025 - Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251028063000 +0700" stop="20251028070000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Emirates FA Cup 2025-26 - Highlights</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251027053000 +0700" stop="20251027073000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Murcia - Baskonia</title>
@@ -237,6 +241,10 @@
 <programme start="20251028050000 +0700" stop="20251028060000 +0700" channel="COSMOTE Sport 4 HD">
     <title>NBA Specials</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251028060000 +0700" stop="20251028090000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Detroit Pistons - Cleveland Cavaliers (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20251027050000 +0700" stop="20251027080000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Basketball: Cleveland Cavaliers - Milwaukee Bucks (L)</title>
@@ -322,8 +330,8 @@
     <title>Grand Prix Show 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251027030000 +0700" stop="20251027051000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Fight Sports: UFC Fight Night 2025</title>
+<programme start="20251028065000 +0700" stop="20251028081500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>DTM 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251027051000 +0700" stop="20251027092000 +0700" channel="COSMOTE Sport 6 HD">
