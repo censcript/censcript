@@ -1,7 +1,3 @@
-<programme start="20251026120000 +0700" stop="20251026140000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: Bayer 04 Leverkusen - Paris Saint Germain</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251026140000 +0700" stop="20251026160000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Villarreal CF - Manchester City FC</title>
     <desc>Live: Tidak</desc>
@@ -130,8 +126,8 @@
     <title>Football: Kifisia - Panetolikos</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251026120000 +0700" stop="20251026140000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Al-Hazem FC - Al Nassr</title>
+<programme start="20251027141000 +0700" stop="20251027161000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Hellas Verona - Cagliari</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251026140000 +0700" stop="20251026142000 +0700" channel="COSMOTE Sport 3 HD">
@@ -210,6 +206,10 @@
     <title>American Football: Denver Broncos - Dallas Cowboys</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251027141500 +0700" stop="20251027161500 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Alverca - Gil Vicente</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251026125000 +0700" stop="20251026145000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Forca Lleida CE - Valencia Basket Club</title>
     <desc>Live: Tidak</desc>
@@ -273,10 +273,6 @@
 <programme start="20251027130000 +0700" stop="20251027150000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Bertram Derthona Tortona - Trapani</title>
     <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251026120000 +0700" stop="20251026133000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: Moto2 2025 (L)</title>
-    <desc>Live: Ya</desc>
 </programme>
 <programme start="20251026133000 +0700" stop="20251026152000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Motorsports: MotoGP 2025 (L)</title>
@@ -354,6 +350,10 @@
     <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251027144000 +0700" stop="20251027151000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251026120000 +0700" stop="20251026160000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP 500 2025</title>
     <desc>Live: Tidak</desc>
@@ -404,6 +404,14 @@
 </programme>
 <programme start="20251027133000 +0700" stop="20251027140000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Premier Padel Tour 2025 - Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251027140000 +0700" stop="20251027143000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Watersports: Sailing to the Games 2025 E5</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251027143000 +0700" stop="20251027170000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: ATP 500 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251026130000 +0700" stop="20251026150000 +0700" channel="COSMOTE Sport 7 HD">
