@@ -2482,7 +2482,7 @@
 <programme start="20251026154000 +0000" stop="20251026160000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Es folgt: LIVE PL</title>
 </programme>
-<programme start="20251026160000 +0000" stop="20251026183000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+<programme start="20251026160000 +0000" stop="20251026190000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live PL: FC Everton - Tottenham Hotspur, Match of the Week, 9. Spieltag</title>
 </programme>
 <programme start="20251025224500 +0000" stop="20251025234500 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -2611,56 +2611,56 @@
 <programme start="20251026170000 +0000" stop="20251026183000 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: Sky90 - Die Fußballdebatte</title>
 </programme>
-<programme start="20251026183000 +0000" stop="20251026191500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
+<programme start="20251026183000 +0000" stop="20251026193000 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: Highlights XXL: VFB - M05, 8. Spieltag</title>
 </programme>
 <programme start="20251026114000 +0000" stop="20251026120000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Es folgt: LIVE 2. Liga</title>
 </programme>
-<programme start="20251026120000 +0000" stop="20251026143000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+<programme start="20251026120000 +0000" stop="20251026144500 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Live 2. BL: Eintracht Braunschweig - Hannover 96, 10. Spieltag</title>
 </programme>
-<programme start="20251026161000 +0000" stop="20251026163000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+<programme start="20251026144500 +0000" stop="20251026163000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Es folgt: Bundesliga</title>
 </programme>
 <programme start="20251026163000 +0000" stop="20251026183000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>BL: Bayer Leverkusen - SC Freiburg, 8. Spieltag</title>
 </programme>
-<programme start="20251026183000 +0000" stop="20251026203000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+<programme start="20251026183000 +0000" stop="20251026210000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>BL: VfB Stuttgart - 1. FSV Mainz 05, 8. Spieltag</title>
 </programme>
 <programme start="20251026114000 +0000" stop="20251026120000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Es folgt: LIVE 2. Liga</title>
 </programme>
-<programme start="20251026120000 +0000" stop="20251026143000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
+<programme start="20251026120000 +0000" stop="20251026144500 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live 2. BL: 1. FC Kaiserslautern - 1. FC Nürnberg, 10. Spieltag</title>
 </programme>
 <programme start="20251026114000 +0000" stop="20251026120000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Es folgt: LIVE 2. Liga</title>
 </programme>
-<programme start="20251026120000 +0000" stop="20251026143000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
+<programme start="20251026120000 +0000" stop="20251026144500 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live 2. BL: 1. FC Magdeburg - Preußen Münster, 10. Spieltag</title>
 </programme>
 <programme start="20251026114000 +0000" stop="20251026120000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>2. BL: Es folgt</title>
 </programme>
-<programme start="20251026120000 +0000" stop="20251026143000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
+<programme start="20251026120000 +0000" stop="20251026144500 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Live 2. BL: Multiview, 10. Spieltag, Sonntag</title>
 </programme>
-<programme start="20251025223000 +0000" stop="20251025230000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20251025223500 +0000" stop="20251025230000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Live F1: Pressekonferenz Qualifying - GP Mexiko</title>
 </programme>
-<programme start="20251025230000 +0000" stop="20251026013000 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>F1: 3. Freies Training - GP Mexiko</title>
-</programme>
-<programme start="20251026013000 +0000" stop="20251026020000 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>F1: Qualifying - GP Mexiko</title>
-</programme>
-<programme start="20251026020000 +0000" stop="20251026030000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20251025230000 +0000" stop="20251026010000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Ferrari Challenge Europe: Coppa Shell AM - 2. Rennen in Mugello</title>
 </programme>
-<programme start="20251026030000 +0000" stop="20251026040000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20251026010000 +0000" stop="20251026015500 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Ferrari Challenge Europe: Trofeo Pirelli - 2. Rennen in Mugello</title>
+</programme>
+<programme start="20251026015500 +0000" stop="20251026023000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>F1: 3. Freies Training - GP Mexiko</title>
+</programme>
+<programme start="20251026023000 +0000" stop="20251026040000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>F1: Qualifying - GP Mexiko</title>
 </programme>
 <programme start="20251026040000 +0000" stop="20251026050000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Ferrari Challenge Europe: Coppa Shell - 2. Rennen in Mugello</title>
@@ -2724,9 +2724,6 @@
 </programme>
 <programme start="20251026223000 +0000" stop="20251026230000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Live F1: Pressekonferenz Rennen - GP Mexiko</title>
-</programme>
-<programme start="20251025233000 +0000" stop="20251026010000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>HotelPlaner Tour: Highlights Hangzhou Open</title>
 </programme>
 <programme start="20251026010000 +0000" stop="20251026015500 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: FedExCup Playoffs Official Film 2025</title>
@@ -2995,14 +2992,17 @@
 <programme start="20251026223000 +0000" stop="20251026230000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: All Goals: Die Highlight-Show, 9. Spieltag</title>
 </programme>
-<programme start="20251025233000 +0000" stop="20251026023000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20251025230500 +0000" stop="20251026014500 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 500: U. Humbert (FRA) - A. Davidovich Fokina (ESP), Swiss Indoors Basel in Basel (Schweiz), Halbfinale</title>
+</programme>
+<programme start="20251026014500 +0000" stop="20251026023000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: A. Zverev (GER) - L. Musetti (ITA), Erste Bank Open in Wien (Österreich), Halbfinale 2</title>
 </programme>
 <programme start="20251026023000 +0000" stop="20251026030000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: Review Wuhan</title>
 </programme>
 <programme start="20251026030000 +0000" stop="20251026053000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live WTA 500: Finale, Toray Pan Pacific Open Tennis in Tokio (JPN), Finale</title>
+    <title>Live WTA 500: B. Bencic (SUI) - L. Noskova (CZE), Toray Pan Pacific Open Tennis in Tokio (JPN), Finale</title>
 </programme>
 <programme start="20251026053000 +0000" stop="20251026063000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: Review Shanghai</title>
@@ -3014,13 +3014,13 @@
     <title>ATP 500: A. Zverev (GER) - L. Musetti (ITA), Erste Bank Open in Wien (Österreich), Halbfinale 2</title>
 </programme>
 <programme start="20251026103000 +0000" stop="20251026130000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: Finale, Toray Pan Pacific Open Tennis in Tokio (JPN), Finale</title>
+    <title>WTA 500: B. Bencic (SUI) - L. Noskova (CZE), Toray Pan Pacific Open Tennis in Tokio (JPN), Finale</title>
 </programme>
 <programme start="20251026130000 +0000" stop="20251026153000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP 500: Finale, Erste Bank Open in Wien (Österreich), Finale</title>
+    <title>Live ATP 500: A. Zverev (GER) - J. Sinner (ITA), Erste Bank Open in Wien (Österreich), Finale</title>
 </programme>
 <programme start="20251026153000 +0000" stop="20251026170000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP 500: Finale, Swiss Indoors Basel in Basel (Schweiz), Finale</title>
+    <title>Live ATP 500: J. Fonseca (BRA) - A. Davidovich Fokina (ESP), Swiss Indoors Basel in Basel (Schweiz), Finale</title>
 </programme>
 <programme start="20251026170000 +0000" stop="20251026173000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Meine Geschichte: Das Leben von Boris Becker (Teil 1)</title>
@@ -3029,12 +3029,12 @@
     <title>Meine Geschichte: Das Leben von Boris Becker (Teil 2)</title>
 </programme>
 <programme start="20251026180000 +0000" stop="20251026203000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: Finale, Erste Bank Open in Wien (Österreich), Finale</title>
+    <title>ATP 500: A. Zverev (GER) - J. Sinner (ITA), Erste Bank Open in Wien (Österreich), Finale</title>
 </programme>
 <programme start="20251026203000 +0000" stop="20251026230000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: Finale, Toray Pan Pacific Open Tennis in Tokio (JPN), Finale</title>
+    <title>WTA 500: B. Bencic (SUI) - L. Noskova (CZE), Toray Pan Pacific Open Tennis in Tokio (JPN), Finale</title>
 </programme>
-<programme start="20251025223000 +0000" stop="20251026015500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20251025223500 +0000" stop="20251026015500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NHL: Vegas Golden Knights @ Florida Panthers</title>
 </programme>
 <programme start="20251026015500 +0000" stop="20251026020000 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3113,9 +3113,9 @@
     <title>Live NHL: Edmonton Oilers @ Seattle Kraken</title>
 </programme>
 <programme start="20251026214000 +0000" stop="20251026220000 +0000" channel="Sky Sport 1 HD.skyde">
-    <title>Es folgt: Basketball NBA</title>
+    <title>Es folgt: LIVE Basketball NBA</title>
 </programme>
-<programme start="20251026220000 +0000" stop="20251027003000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20251026220000 +0000" stop="20251027020000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Milwaukee Bucks @ Cleveland Cavaliers</title>
 </programme>
 <programme start="20251026133000 +0000" stop="20251026135000 +0000" channel="Sky Sport 6 HD.skyde">
