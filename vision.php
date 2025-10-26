@@ -460,9 +460,6 @@
 <programme start="20251026114500 +0000" stop="20251026130000 +0000" channel="Trans TV.vision">
 <title>Insert Story</title>
 </programme>
-<programme start="20251026130000 +0000" stop="20251026140000 +0000" channel="Trans TV.vision">
-<title>Highlight</title>
-</programme>
 <programme start="20251026140000 +0000" stop="20251026160000 +0000" channel="Trans TV.vision">
 <title>Bioskop Trans TV</title>
 </programme>
@@ -517,17 +514,8 @@
 <programme start="20251026110000 +0000" stop="20251026123000 +0000" channel="Trans 7.vision">
 <title>Arisan</title>
 </programme>
-<programme start="20251026123000 +0000" stop="20251026150000 +0000" channel="Trans 7.vision">
-<title>Sound Of Love Vol. 3</title>
-</programme>
 <programme start="20251026150000 +0000" stop="20251026161500 +0000" channel="Trans 7.vision">
 <title>BTS</title>
-</programme>
-<programme start="20251026161500 +0000" stop="20251026173000 +0000" channel="Trans 7.vision">
-<title>Hangout</title>
-</programme>
-<programme start="20251026173000 +0000" stop="20251026183000 +0000" channel="Trans 7.vision">
-<title>Moto3 2025: Malaysia</title>
 </programme>
 <programme start="20251026183000 +0000" stop="20251026193000 +0000" channel="Trans 7.vision">
 <title>Best Fishing</title>
@@ -604,20 +592,8 @@
 <programme start="20251026080000 +0000" stop="20251026093000 +0000" channel="ANTV.vision">
 <title>Zeynep</title>
 </programme>
-<programme start="20251026110000 +0000" stop="20251026130000 +0000" channel="ANTV.vision">
-<title>Rajawali Dari Utara</title>
-</programme>
 <programme start="20251026130000 +0000" stop="20251026150000 +0000" channel="ANTV.vision">
 <title>Rindu Tak Berujung</title>
-</programme>
-<programme start="20251026150000 +0000" stop="20251026170000 +0000" channel="ANTV.vision">
-<title>Code Of Honour</title>
-</programme>
-<programme start="20251026170000 +0000" stop="20251026183000 +0000" channel="ANTV.vision">
-<title>Storm City</title>
-</programme>
-<programme start="20251026183000 +0000" stop="20251026200000 +0000" channel="ANTV.vision">
-<title>Sinema Spesial</title>
 </programme>
 <programme start="20251026200000 +0000" stop="20251026213000 +0000" channel="ANTV.vision">
 <title>ANTV</title>
@@ -766,20 +742,8 @@
 <programme start="20251026125700 +0000" stop="20251026130000 +0000" channel="TVOne.vision">
 <title>Kabar Terkini</title>
 </programme>
-<programme start="20251026130000 +0000" stop="20251026143000 +0000" channel="TVOne.vision">
-<title>Renungan Jiwa</title>
-</programme>
 <programme start="20251026143000 +0000" stop="20251026153000 +0000" channel="TVOne.vision">
 <title>Kabar Utama (L)</title>
-</programme>
-<programme start="20251026153000 +0000" stop="20251026160000 +0000" channel="TVOne.vision">
-<title>Distrik</title>
-</programme>
-<programme start="20251026160000 +0000" stop="20251026170000 +0000" channel="TVOne.vision">
-<title>Benang Merah</title>
-</programme>
-<programme start="20251026170000 +0000" stop="20251026173000 +0000" channel="TVOne.vision">
-<title>Sport Style</title>
 </programme>
 <programme start="20251026173000 +0000" stop="20251026180000 +0000" channel="TVOne.vision">
 <title>Kabar Utama</title>
@@ -1497,4 +1461,40 @@
 </programme>
 <programme start="20251026000000 +0000" stop="20251026030000 +0000" channel="DAAI TV.vision">
 <title>DAAI TV</title>
+</programme>
+<programme start="20251026030000 +0000" stop="20251026060000 +0000" channel="DAAI TV.vision">
+<title>DAAI TV</title>
+</programme>
+<programme start="20251026060000 +0000" stop="20251026090000 +0000" channel="DAAI TV.vision">
+<title>DAAI TV</title>
+</programme>
+<programme start="20251026090000 +0000" stop="20251026120000 +0000" channel="DAAI TV.vision">
+<title>DAAI TV</title>
+</programme>
+<programme start="20251026120000 +0000" stop="20251026150000 +0000" channel="DAAI TV.vision">
+<title>DAAI TV</title>
+</programme>
+<programme start="20251026150000 +0000" stop="20251026180000 +0000" channel="DAAI TV.vision">
+<title>DAAI TV</title>
+</programme>
+<programme start="20251026180000 +0000" stop="20251026210000 +0000" channel="DAAI TV.vision">
+<title>DAAI TV</title>
+</programme>
+<programme start="20251026210000 +0000" stop="20251027000000 +0000" channel="DAAI TV.vision">
+<title>DAAI TV</title>
+</programme>
+<programme start="20251027000000 +0000" stop="20251027030000 +0000" channel="DAAI TV.vision">
+<title>DAAI TV</title>
+</programme>
+<programme start="20251027030000 +0000" stop="20251027060000 +0000" channel="DAAI TV.vision">
+<title>DAAI TV</title>
+</programme>
+<programme start="20251027060000 +0000" stop="20251027090000 +0000" channel="DAAI TV.vision">
+<title>DAAI TV</title>
+</programme>
+<programme start="20251027090000 +0000" stop="20251027120000 +0000" channel="DAAI TV.vision">
+<title>DAAI TV</title>
+</programme>
+<programme start="20251025235000 +0000" stop="20251026010000 +0000" channel="MDTV.vision">
+<title>AADD: Ada Apa Dengan Dunia</title>
 </programme>
