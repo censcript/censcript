@@ -451,9 +451,6 @@
 <programme start="20251026033000 +0000" stop="20251026043000 +0000" channel="Trans TV.vision">
 <title>Insert Siang</title>
 </programme>
-<programme start="20251026043000 +0000" stop="20251026053000 +0000" channel="Trans TV.vision">
-<title>Spill DD Tea</title>
-</programme>
 <programme start="20251026053000 +0000" stop="20251026070000 +0000" channel="Trans TV.vision">
 <title>Brownis On The Weekend</title>
 </programme>
@@ -621,9 +618,6 @@
 </programme>
 <programme start="20251026013000 +0000" stop="20251026030000 +0000" channel="ANTV.vision">
 <title>Jadi Aku Sebentar Saja</title>
-</programme>
-<programme start="20251026030000 +0000" stop="20251026063000 +0000" channel="ANTV.vision">
-<title>Happy New Year</title>
 </programme>
 <programme start="20251026063000 +0000" stop="20251026080000 +0000" channel="ANTV.vision">
 <title>Cinta Keluarga Pandya</title>
@@ -1496,5 +1490,11 @@
 <title>TVRI</title>
 </programme>
 <programme start="20251026150000 +0000" stop="20251026163500 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251026163500 +0000" stop="20251026180500 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251026180500 +0000" stop="20251026193500 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
