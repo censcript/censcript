@@ -1,7 +1,3 @@
-<programme start="20251026210000 +0700" stop="20251026213000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>UEFA Champions League Magazine 2025-26 E8</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251026213000 +0700" stop="20251026223000 +0700" channel="COSMOTE Sport 1 HD">
     <title>PreGame Show (L)</title>
     <desc>Live: Ya</desc>
@@ -48,6 +44,14 @@
 </programme>
 <programme start="20251027193000 +0700" stop="20251027220000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Sportshow</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251027220000 +0700" stop="20251027223000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEFA Champions League Magazine 2025-26 E8</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251027223000 +0700" stop="20251028003000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: Bayer 04 Leverkusen - Paris Saint Germain</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251026210000 +0700" stop="20251026230000 +0700" channel="COSMOTE Sport 2 HD">
@@ -112,6 +116,10 @@
 </programme>
 <programme start="20251027202000 +0700" stop="20251027222000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Sassuolo - AS Roma</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251027222000 +0700" stop="20251028002000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: ACF Fiorentina - Bologna</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251026210000 +0700" stop="20251026230000 +0700" channel="COSMOTE Sport 3 HD">
@@ -198,14 +206,6 @@
     <title>American Football: Carolina Panthers - Buffalo Bills</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251026203000 +0700" stop="20251026210500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>NBA Action 2025-26 E3501</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251026210500 +0700" stop="20251026213000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>NBA Specials</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251026213000 +0700" stop="20251026233000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Bertram Derthona Tortona - Trapani</title>
     <desc>Live: Tidak</desc>
@@ -258,8 +258,8 @@
     <title>Basketball: Cleveland Cavaliers - Milwaukee Bucks</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251026195000 +0700" stop="20251026213000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: MotoGP 2025</title>
+<programme start="20251027220000 +0700" stop="20251028000000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Real Madrid - Manresa</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251026213000 +0700" stop="20251026233000 +0700" channel="COSMOTE Sport 5 HD">
@@ -406,10 +406,6 @@
     <title>Tennis: ATP Masters 1000 2025 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251026210000 +0700" stop="20251026213000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251026213000 +0700" stop="20251027000000 +0700" channel="COSMOTE Sport 7 HD">
     <title>Tennis: Alejandro Davidovich Fokina - Joao Fonseca (L)</title>
     <desc>Live: Ya</desc>
@@ -470,10 +466,6 @@
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251026210000 +0700" stop="20251026220000 +0700" channel="COSMOTE Sport 8 HD">
-    <title>Beach Volley: Pro Tour Elite 16 2025 (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
 <programme start="20251026220000 +0700" stop="20251026230000 +0700" channel="COSMOTE Sport 8 HD">
     <title>Beach Volley: Pro Tour Elite 16 2025 (L)</title>
     <desc>Live: Ya</desc>
@@ -529,10 +521,6 @@
 <programme start="20251027210000 +0700" stop="20251027230000 +0700" channel="COSMOTE Sport 8 HD">
     <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251026193000 +0700" stop="20251026213000 +0700" channel="COSMOTE Sport 9 HD">
-    <title>Basketball: Trabzonspor - Anadolu Efes (L)</title>
-    <desc>Live: Ya</desc>
 </programme>
 <programme start="20251026213000 +0700" stop="20251026230000 +0700" channel="COSMOTE Sport 9 HD">
     <title>COSMOTESport9HD</title>
