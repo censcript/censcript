@@ -466,9 +466,6 @@
 <programme start="20251026160000 +0000" stop="20251026180000 +0000" channel="Trans TV.vision">
 <title>Bioskop Trans TV</title>
 </programme>
-<programme start="20251026180000 +0000" stop="20251026220000 +0000" channel="Trans TV.vision">
-<title>CNN Tech News</title>
-</programme>
 <programme start="20251026220000 +0000" stop="20251026233000 +0000" channel="Trans TV.vision">
 <title>Islam Itu Indah</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20251025235000 +0000" stop="20251026010000 +0000" channel="MDTV.vision">
 <title>AADD: Ada Apa Dengan Dunia</title>
+</programme>
+<programme start="20251026010000 +0000" stop="20251026015000 +0000" channel="MDTV.vision">
+<title>Fakta +62 Weekend</title>
 </programme>
