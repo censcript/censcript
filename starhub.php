@@ -7774,7 +7774,7 @@
     <programme start="20251026103000 +0000" stop="20251026133000 +0000" channel="Asianet Movies.starhub">
         <title>Vellinakshathram</title>
     </programme>
-    <programme start="20251026133000 +0000" stop="20251026163000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251026133000 +0000" stop="20251026162000 +0000" channel="Asianet Movies.starhub">
         <title>Oppam</title>
     </programme>
     <programme start="20251025153000 +0000" stop="20251025163000 +0000" channel="Astro Warna HD.starhub">

@@ -2635,7 +2635,7 @@
 <programme start="20251026114000 +0000" stop="20251026120000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Es folgt: LIVE 2. Liga</title>
 </programme>
-<programme start="20251026120000 +0000" stop="20251026143000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
+<programme start="20251026120000 +0000" stop="20251026144500 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live 2. BL: 1. FC Kaiserslautern - 1. FC Nürnberg, 10. Spieltag</title>
 </programme>
 <programme start="20251026114000 +0000" stop="20251026120000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
@@ -3130,7 +3130,7 @@
 <programme start="20251026133000 +0000" stop="20251026135000 +0000" channel="Sky Sport 7 HD.skyde">
     <title>Es folgt: LIVE PL</title>
 </programme>
-<programme start="20251026135000 +0000" stop="20251026163000 +0000" channel="Sky Sport 7 HD.skyde">
+<programme start="20251026135000 +0000" stop="20251026160000 +0000" channel="Sky Sport 7 HD.skyde">
     <title>Live PL: Wolverhampton Wanderers - FC Burnley, 9. Spieltag</title>
 </programme>
 <programme start="20251026141000 +0000" stop="20251026143000 +0000" channel="Sky Sport 8 HD.skyde">
