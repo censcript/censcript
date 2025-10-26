@@ -1,7 +1,3 @@
-<programme start="20251027003500 +0700" stop="20251027020000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Sportshow (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
 <programme start="20251027020000 +0700" stop="20251027041500 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Olympiacos - AEK (L)</title>
     <desc>Live: Ya</desc>
@@ -50,9 +46,9 @@
     <title>Football: Lille OSC - PAOK</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251027000000 +0700" stop="20251027020000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: ACF Fiorentina - Bologna (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20251028023000 +0700" stop="20251028030000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEFA Champions League Magazine 2025-26 E8</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251027020000 +0700" stop="20251027024500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Sports Classics: Football&#039;s Greatest IV E3</title>
@@ -110,9 +106,9 @@
     <title>Football: Panathinaikos - Asteras Aktor</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251027000000 +0700" stop="20251027020000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Anorthosis Famagusta - Aris Limassol (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20251028022500 +0700" stop="20251028044000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Olympiacos - AEK</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251027020000 +0700" stop="20251027023000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Sports Classics: Football Countdowns E10</title>
@@ -238,6 +234,10 @@
     <title>Basketball: Detroit Pistons - Boston Celtics</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251028023000 +0700" stop="20251028050000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Cleveland Cavaliers - Milwaukee Bucks</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251027010000 +0700" stop="20251027030000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Basketball: Real Madrid - Manresa (L)</title>
     <desc>Live: Ya</desc>
@@ -317,6 +317,10 @@
 <programme start="20251028002000 +0700" stop="20251028020000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Motorsports: MotoGP 2025</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251028020000 +0700" stop="20251028032000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Grand Prix Show 2025 (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20251027010000 +0700" stop="20251027030000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Football: Tondela - Sporting CP (L)</title>
