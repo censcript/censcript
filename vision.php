@@ -529,9 +529,6 @@
 <programme start="20251026000000 +0000" stop="20251026010000 +0000" channel="Trans 7.vision">
 <title>Spotlite</title>
 </programme>
-<programme start="20251026013000 +0000" stop="20251026023000 +0000" channel="Trans 7.vision">
-<title>Obrolan Tiap Waktu</title>
-</programme>
 <programme start="20251026023000 +0000" stop="20251026033000 +0000" channel="Trans 7.vision">
 <title>Heits Abis</title>
 </programme>
@@ -798,15 +795,6 @@
 </programme>
 <programme start="20251025233000 +0000" stop="20251026010000 +0000" channel="TVOne.vision">
 <title>Apa Kabar Indonesia Pagi (L)</title>
-</programme>
-<programme start="20251026010000 +0000" stop="20251026020000 +0000" channel="TVOne.vision">
-<title>Inspirasi Pagi</title>
-</programme>
-<programme start="20251026020000 +0000" stop="20251026023000 +0000" channel="TVOne.vision">
-<title>Metropolitan</title>
-</programme>
-<programme start="20251026023000 +0000" stop="20251026030000 +0000" channel="TVOne.vision">
-<title>Xpose</title>
 </programme>
 <programme start="20251026030000 +0000" stop="20251026033000 +0000" channel="TVOne.vision">
 <title>Dunia Dalam Kamera</title>
@@ -1496,5 +1484,17 @@
 <title>BTV</title>
 </programme>
 <programme start="20251025233000 +0000" stop="20251026010000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251026010000 +0000" stop="20251026022500 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251026022500 +0000" stop="20251026040500 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251026040500 +0000" stop="20251026053500 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251026053500 +0000" stop="20251026070000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>

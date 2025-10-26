@@ -2404,11 +2404,8 @@
 <programme start="20251026225000 +0000" stop="20251026233500 +0000" channel="Sky Showcase HD.skyde">
     <title>Billionaire Resorts - Luxus ohne Limit</title>
 </programme>
-<programme start="20251025230000 +0000" stop="20251026020000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20251025231500 +0000" stop="20251026023000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: WSG Tirol - FC Blau-Weiß Linz, 11. Runde</title>
-</programme>
-<programme start="20251026020000 +0000" stop="20251026023000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>RIESENrad: Sportgrößen im Waggon 28 (Gast: Emma Spitz)</title>
 </programme>
 <programme start="20251026023000 +0000" stop="20251026030000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>RIESENrad: Sportgrößen im Waggon 28 (Gast: Marcos Nader)</title>
@@ -2467,19 +2464,19 @@
 <programme start="20251026130000 +0000" stop="20251026132000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: LIVE Admiral BL</title>
 </programme>
-<programme start="20251026132000 +0000" stop="20251026154500 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20251026132000 +0000" stop="20251026160000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live Admiral BL: SK Puntigamer Sturm Graz - RZ Pellets WAC, 11. Runde</title>
 </programme>
 <programme start="20251026164000 +0000" stop="20251026170000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: LIVE NHL</title>
 </programme>
-<programme start="20251026170000 +0000" stop="20251026200000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20251026170000 +0000" stop="20251026210000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live NHL: Colorado Avalanche @ New Jersey Devils</title>
 </programme>
 <programme start="20251026130000 +0000" stop="20251026132000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Es folgt: LIVE Admiral BL</title>
 </programme>
-<programme start="20251026132000 +0000" stop="20251026154500 +0000" channel="Sky Sport Austria 3 HD.skyde">
+<programme start="20251026132000 +0000" stop="20251026160000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live Admiral BL: SV Oberbank Ried - SK Rapid, 11. Runde</title>
 </programme>
 <programme start="20251026154000 +0000" stop="20251026160000 +0000" channel="Sky Sport Austria 4 HD.skyde">
@@ -2635,7 +2632,7 @@
 <programme start="20251026114000 +0000" stop="20251026120000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Es folgt: LIVE 2. Liga</title>
 </programme>
-<programme start="20251026120000 +0000" stop="20251026144500 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
+<programme start="20251026120000 +0000" stop="20251026143000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live 2. BL: 1. FC Kaiserslautern - 1. FC Nürnberg, 10. Spieltag</title>
 </programme>
 <programme start="20251026114000 +0000" stop="20251026120000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
@@ -3124,20 +3121,20 @@
 <programme start="20251026133000 +0000" stop="20251026135000 +0000" channel="Sky Sport 6 HD.skyde">
     <title>Es folgt: LIVE PL</title>
 </programme>
-<programme start="20251026135000 +0000" stop="20251026160000 +0000" channel="Sky Sport 6 HD.skyde">
+<programme start="20251026135000 +0000" stop="20251026163000 +0000" channel="Sky Sport 6 HD.skyde">
     <title>Live PL: AFC Bournemouth - Nottingham Forest, 9. Spieltag</title>
 </programme>
 <programme start="20251026133000 +0000" stop="20251026135000 +0000" channel="Sky Sport 7 HD.skyde">
     <title>Es folgt: LIVE PL</title>
 </programme>
-<programme start="20251026135000 +0000" stop="20251026160000 +0000" channel="Sky Sport 7 HD.skyde">
+<programme start="20251026135000 +0000" stop="20251026163000 +0000" channel="Sky Sport 7 HD.skyde">
     <title>Live PL: Wolverhampton Wanderers - FC Burnley, 9. Spieltag</title>
 </programme>
 <programme start="20251026141000 +0000" stop="20251026143000 +0000" channel="Sky Sport 8 HD.skyde">
     <title>Es folgt: LIVE ATP World Tour</title>
 </programme>
-<programme start="20251026143000 +0000" stop="20251026170000 +0000" channel="Sky Sport 8 HD.skyde">
-    <title>Live ATP 500: Finale, Swiss Indoors Basel in Basel (Schweiz), Finale</title>
+<programme start="20251026143000 +0000" stop="20251026190000 +0000" channel="Sky Sport 8 HD.skyde">
+    <title>Live ATP 500: J. Fonseca (BRA) - A. Davidovich Fokina (ESP), Swiss Indoors Basel in Basel (Schweiz), Finale</title>
 </programme>
 <programme start="20251025220500 +0000" stop="20251025225000 +0000" channel="SYFY HD.skyde">
     <title>Stargate: Atlantis</title>
