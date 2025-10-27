@@ -643,59 +643,53 @@
     <programme start="20251027160000 +0000" stop="20251027170000 +0000" channel="now-80s.mewatch">
         <title>Eurythmics: Reminisce! - EP1</title>
     </programme>
-    <programme start="20251026160000 +0000" stop="20251026175500 +0000" channel="now-70s.mewatch">
-        <title>Blockbusters! 50 Stomping Hits - EP1</title>
+    <programme start="20251026160000 +0000" stop="20251026165000 +0000" channel="now-70s.mewatch">
+        <title>Simon Bates Golden Hour: 1978 - EP1</title>
     </programme>
-    <programme start="20251026175500 +0000" stop="20251026182500 +0000" channel="now-70s.mewatch">
-        <title>Glam Rock Day! - EP1</title>
+    <programme start="20251026165000 +0000" stop="20251026170000 +0000" channel="now-70s.mewatch">
+        <title>1978 Unleashed! - EP1</title>
     </programme>
-    <programme start="20251026182500 +0000" stop="20251026201500 +0000" channel="now-70s.mewatch">
-        <title>Tony Blackburn&#039;s 70s Glam Pop! - EP1</title>
+    <programme start="20251026170000 +0000" stop="20251026172000 +0000" channel="now-70s.mewatch">
+        <title>Clare Grogan&#039;s Teenage Kicks! - EP1</title>
     </programme>
-    <programme start="20251026201500 +0000" stop="20251026202500 +0000" channel="now-70s.mewatch">
-        <title>Glam Rock Day! - EP1</title>
+    <programme start="20251026172000 +0000" stop="20251026180000 +0000" channel="now-70s.mewatch">
+        <title>Jeepers Creepers! It&#039;s the 70s - EP1</title>
     </programme>
-    <programme start="20251026202500 +0000" stop="20251026210000 +0000" channel="now-70s.mewatch">
-        <title>Who Won Wot in 1972? - EP1</title>
+    <programme start="20251026180000 +0000" stop="20251026194500 +0000" channel="now-70s.mewatch">
+        <title>Elton John vs David Bowie! - EP1</title>
     </programme>
-    <programme start="20251026210000 +0000" stop="20251026233000 +0000" channel="now-70s.mewatch">
-        <title>Hamilton&#039;s Million Sellers! 70-79 - EP1</title>
+    <programme start="20251026194500 +0000" stop="20251026200000 +0000" channel="now-70s.mewatch">
+        <title>70s Glam Slam! - EP1</title>
     </programme>
-    <programme start="20251026233000 +0000" stop="20251027000000 +0000" channel="now-70s.mewatch">
-        <title>1970 Unleashed! - EP1</title>
+    <programme start="20251026200000 +0000" stop="20251026220000 +0000" channel="now-70s.mewatch">
+        <title>Tony Blackburn&#039;s SingerSongwriters - EP1</title>
     </programme>
-    <programme start="20251027000000 +0000" stop="20251027032500 +0000" channel="now-70s.mewatch">
-        <title>Seven Inch Heroes! 1970-1979 - EP1</title>
+    <programme start="20251026220000 +0000" stop="20251027001000 +0000" channel="now-70s.mewatch">
+        <title>Rosko&#039;s Hellraisers! Top 25 - EP1</title>
     </programme>
-    <programme start="20251027032500 +0000" stop="20251027040000 +0000" channel="now-70s.mewatch">
-        <title>1979 Unleashed! - EP1</title>
+    <programme start="20251027001000 +0000" stop="20251027010000 +0000" channel="now-70s.mewatch">
+        <title>Jeepers Creepers! It&#039;s the 70s - EP1</title>
     </programme>
-    <programme start="20251027040000 +0000" stop="20251027063500 +0000" channel="now-70s.mewatch">
-        <title>Limahl&#039;s Never Ending Soundtracks! - EP1</title>
+    <programme start="20251027010000 +0000" stop="20251027044500 +0000" channel="now-70s.mewatch">
+        <title>Karaoke For The Kids! 1970-1979 - EP1</title>
     </programme>
-    <programme start="20251027063500 +0000" stop="20251027070000 +0000" channel="now-70s.mewatch">
-        <title>Let The Good Times Roll! - EP1</title>
+    <programme start="20251027044500 +0000" stop="20251027050000 +0000" channel="now-70s.mewatch">
+        <title>Jeepers Creepers! It&#039;s the 70s - EP1</title>
     </programme>
-    <programme start="20251027070000 +0000" stop="20251027092000 +0000" channel="now-70s.mewatch">
-        <title>Who Had The Most Hits In The 70s? - EP1</title>
+    <programme start="20251027050000 +0000" stop="20251027070500 +0000" channel="now-70s.mewatch">
+        <title>Sally James&#039; Bubblegum Pop! - EP1</title>
     </programme>
-    <programme start="20251027092000 +0000" stop="20251027093000 +0000" channel="now-70s.mewatch">
-        <title>70s Love Songs - EP1</title>
+    <programme start="20251027070500 +0000" stop="20251027080000 +0000" channel="now-70s.mewatch">
+        <title>Jeepers Creepers! It&#039;s the 70s - EP1</title>
     </programme>
-    <programme start="20251027093000 +0000" stop="20251027103000 +0000" channel="now-70s.mewatch">
-        <title>Blockbusters! 50 Stomping Hits - EP1</title>
+    <programme start="20251027080000 +0000" stop="20251027103000 +0000" channel="now-70s.mewatch">
+        <title>Time Machine! 1968 v 78 v 88 - EP1</title>
     </programme>
-    <programme start="20251027103000 +0000" stop="20251027130000 +0000" channel="now-70s.mewatch">
-        <title>Cuddle on the Couch - The Love 40 - EP1</title>
+    <programme start="20251027103000 +0000" stop="20251027110000 +0000" channel="now-70s.mewatch">
+        <title>Far Out, Man! - EP1</title>
     </programme>
-    <programme start="20251027130000 +0000" stop="20251027140000 +0000" channel="now-70s.mewatch">
-        <title>Help Me Make It Through the Night! - EP1</title>
-    </programme>
-    <programme start="20251027140000 +0000" stop="20251027160000 +0000" channel="now-70s.mewatch">
-        <title>Simon Bates&#039; Rock Ballads! 1970-79 - EP1</title>
-    </programme>
-    <programme start="20251027160000 +0000" stop="20251027182500 +0000" channel="now-70s.mewatch">
-        <title>Cuddle on the Couch - The Love 40 - EP1</title>
+    <programme start="20251027110000 +0000" stop="20251027162000 +0000" channel="now-70s.mewatch">
+        <title>NOW 70s presents NOW 60s! - EP1</title>
     </programme>
     <programme start="20251026160000 +0000" stop="20251027160000 +0000" channel="trace-urban.mewatch">
         <title>No Programme Available</title>

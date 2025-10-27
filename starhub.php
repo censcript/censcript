@@ -4669,38 +4669,38 @@
     <programme start="20251027111500 +0000" stop="20251027111600 +0000" channel="France24.starhub">
         <title>News</title>
     </programme>
-    <programme start="20251026160000 +0000" stop="20251026163000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>Bloomberg Wealth with David Rubenstein</title>
-    </programme>
-    <programme start="20251026163000 +0000" stop="20251026170000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>Leaders with Lacqua</title>
+    <programme start="20251026160000 +0000" stop="20251026170000 +0000" channel="Bloomberg Television HD.starhub">
+        <title>Bloomberg Wall Street Week</title>
     </programme>
     <programme start="20251026170000 +0000" stop="20251026180000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>Bloomberg Wall Street Week</title>
+        <title>How Jerry Jones Built a Cowboys Empire</title>
     </programme>
     <programme start="20251026180000 +0000" stop="20251026183000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>Leaders with Lacqua</title>
+        <title>Alan M. Garber, Harvard University President</title>
     </programme>
     <programme start="20251026183000 +0000" stop="20251026190000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>Leaders with Lacqua</title>
+        <title>Alexander Stubb, President of Finland</title>
     </programme>
     <programme start="20251026190000 +0000" stop="20251026193000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>The David Rubenstein Show</title>
+        <title>Ray Dalio on Markets, Debt and the Next Global Crisis</title>
     </programme>
     <programme start="20251026193000 +0000" stop="20251026200000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>Bloomberg Studio 1.0</title>
+        <title>Bloomberg Primer</title>
     </programme>
     <programme start="20251026200000 +0000" stop="20251026203000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>Leaders with Lacqua</title>
+        <title>The Mishal Husain Show</title>
     </programme>
     <programme start="20251026203000 +0000" stop="20251026210000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>Bloomberg Wealth with David Rubenstein</title>
+        <title>The Mishal Husain Show</title>
     </programme>
-    <programme start="20251026210000 +0000" stop="20251026220000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>Bloomberg Wall Street Week</title>
+    <programme start="20251026210000 +0000" stop="20251026213000 +0000" channel="Bloomberg Television HD.starhub">
+        <title>Longevity with David Rubenstein</title>
+    </programme>
+    <programme start="20251026213000 +0000" stop="20251026220000 +0000" channel="Bloomberg Television HD.starhub">
+        <title>Bloomberg Originals</title>
     </programme>
     <programme start="20251026220000 +0000" stop="20251026230000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>Bloomberg Daybreak: Australia</title>
+        <title>Bloomberg Wall Street Week</title>
     </programme>
     <programme start="20251026230000 +0000" stop="20251027010000 +0000" channel="Bloomberg Television HD.starhub">
         <title>Bloomberg The Asia Trade</title>
@@ -6748,7 +6748,10 @@
     <programme start="20251027150300 +0000" stop="20251027162100 +0000" channel="TV5MONDE HD.starhub">
         <title>Amore Mio</title>
     </programme>
-    <programme start="20251026160000 +0000" stop="20251026203000 +0000" channel="Hub Sports 1  HD.starhub">
+    <programme start="20251026100000 +0000" stop="20251026164800 +0000" channel="Hub Sports 1  HD.starhub">
+        <title>YONEX French Open (Super 750) Finals</title>
+    </programme>
+    <programme start="20251026164800 +0000" stop="20251026203000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>2nd Round Day 1: Netherlands vs Argentina</title>
     </programme>
     <programme start="20251026203000 +0000" stop="20251026210000 +0000" channel="Hub Sports 1  HD.starhub">
