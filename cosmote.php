@@ -126,6 +126,10 @@
     <title>Football: Atalanta - AC Milan (L)</title>
     <desc>Live: Ya</desc>
 </programme>
+<programme start="20251029044500 +0700" stop="20251029065500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Panetolikos - Ellas Syroy</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251028030000 +0700" stop="20251028050000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Port Vale - Stockport County (L)</title>
     <desc>Live: Ya</desc>
@@ -186,8 +190,8 @@
     <title>Football: Ipswich Town - West Bromwich Albion</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251028001000 +0700" stop="20251028031000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Detroit Pistons - Boston Celtics</title>
+<programme start="20251029043000 +0700" stop="20251029050000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Copa Libertadores 2025 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251028031000 +0700" stop="20251028060000 +0700" channel="COSMOTE Sport 4 HD">
@@ -245,10 +249,6 @@
 <programme start="20251029033500 +0700" stop="20251029054000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Levice - AEK</title>
     <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251028020000 +0700" stop="20251028032000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Grand Prix Show 2025 (L)</title>
-    <desc>Live: Ya</desc>
 </programme>
 <programme start="20251028032000 +0700" stop="20251028043000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Motorsports: MotoGP 2025</title>
@@ -336,6 +336,10 @@
 </programme>
 <programme start="20251029031000 +0700" stop="20251029043000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Motorsports: Moto2 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251029043000 +0700" stop="20251029061500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: MotoGP 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251028013000 +0700" stop="20251028053000 +0700" channel="COSMOTE Sport 6 HD">
