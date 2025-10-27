@@ -1,7 +1,3 @@
-<programme start="20251027193000 +0700" stop="20251027220000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Sportshow</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251027220000 +0700" stop="20251027223000 +0700" channel="COSMOTE Sport 1 HD">
     <title>UEFA Champions League Magazine 2025-26 E8</title>
     <desc>Live: Tidak</desc>
@@ -118,8 +114,8 @@
     <title>Serie A Full Impact 2025-26 E8</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251027194500 +0700" stop="20251027214500 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Heart of Midlothian - Celtic FC</title>
+<programme start="20251028222500 +0700" stop="20251028230000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Serie A Inside Serie A 2025-26 E9</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251027214500 +0700" stop="20251028003000 +0700" channel="COSMOTE Sport 3 HD">
@@ -182,6 +178,10 @@
     <title>Football: Anorthosis Famagusta - Aris Limassol</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251028221500 +0700" stop="20251029003000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: SL Benfica - Arouca</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251027194000 +0700" stop="20251027221000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Cleveland Cavaliers - Milwaukee Bucks</title>
     <desc>Live: Tidak</desc>
@@ -234,9 +234,9 @@
     <title>NBA Action 2025-26 E3501</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251027204000 +0700" stop="20251027214000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>2025 FIM Women&#039;s Circuit Racing World Championship</title>
-    <desc>Live: Tidak</desc>
+<programme start="20251028223000 +0700" stop="20251029000000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Pick n&#039; Roll (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20251027214000 +0700" stop="20251027230000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Motorsports: Moto3 2025</title>
@@ -316,6 +316,10 @@
 </programme>
 <programme start="20251028202000 +0700" stop="20251028220500 +0700" channel="COSMOTE Sport 5 HD">
     <title>DTM 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251028220500 +0700" stop="20251028232000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Grand Prix Show 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251027210000 +0700" stop="20251028000000 +0700" channel="COSMOTE Sport 6 HD">
