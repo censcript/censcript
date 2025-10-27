@@ -1571,28 +1571,52 @@
         <title>Athidhi</title>
     </programme>
     <programme start="20251027040000 +0000" stop="20251027043000 +0000" channel="COLORS Tamil HD.starhub">
-        <title>Kadhala Kadhala</title>
+        <title>Thendral Vandhu Ennai Thodum</title>
     </programme>
     <programme start="20251027043000 +0000" stop="20251027050000 +0000" channel="COLORS Tamil HD.starhub">
-        <title>Kadhala Kadhala</title>
+        <title>Vetri Vinayagar</title>
     </programme>
     <programme start="20251027050000 +0000" stop="20251027053000 +0000" channel="COLORS Tamil HD.starhub">
-        <title>Kadhala Kadhala</title>
-    </programme>
-    <programme start="20251027053000 +0000" stop="20251027060000 +0000" channel="COLORS Tamil HD.starhub">
-        <title>Kadhala Kadhala</title>
-    </programme>
-    <programme start="20251027060000 +0000" stop="20251027070000 +0000" channel="COLORS Tamil HD.starhub">
         <title>Shiva Shakthi Thiruvilayadal</title>
     </programme>
-    <programme start="20251027070000 +0000" stop="20251027100000 +0000" channel="COLORS Tamil HD.starhub">
-        <title>Yennanga Sir Unga Sattam</title>
+    <programme start="20251027053000 +0000" stop="20251027060000 +0000" channel="COLORS Tamil HD.starhub">
+        <title>Shiva Shakthi Thiruvilayadal</title>
     </programme>
-    <programme start="20251027100000 +0000" stop="20251027130000 +0000" channel="COLORS Tamil HD.starhub">
-        <title>Game Over</title>
+    <programme start="20251027060000 +0000" stop="20251027080000 +0000" channel="COLORS Tamil HD.starhub">
+        <title>Chasing</title>
     </programme>
-    <programme start="20251027130000 +0000" stop="20251027160000 +0000" channel="COLORS Tamil HD.starhub">
-        <title>Athidhi</title>
+    <programme start="20251027080000 +0000" stop="20251027083000 +0000" channel="COLORS Tamil HD.starhub">
+        <title>Vetri Vinayagar</title>
+    </programme>
+    <programme start="20251027083000 +0000" stop="20251027090000 +0000" channel="COLORS Tamil HD.starhub">
+        <title>Kadhala Kadhala</title>
+    </programme>
+    <programme start="20251027090000 +0000" stop="20251027093000 +0000" channel="COLORS Tamil HD.starhub">
+        <title>Kadhala Kadhala</title>
+    </programme>
+    <programme start="20251027093000 +0000" stop="20251027100000 +0000" channel="COLORS Tamil HD.starhub">
+        <title>Thendral Vandhu Ennai Thodum</title>
+    </programme>
+    <programme start="20251027100000 +0000" stop="20251027103000 +0000" channel="COLORS Tamil HD.starhub">
+        <title>Vetri Vinayagar</title>
+    </programme>
+    <programme start="20251027103000 +0000" stop="20251027110000 +0000" channel="COLORS Tamil HD.starhub">
+        <title>Shiva Shakthi Thiruvilayadal</title>
+    </programme>
+    <programme start="20251027110000 +0000" stop="20251027113000 +0000" channel="COLORS Tamil HD.starhub">
+        <title>Shiva Shakthi Thiruvilayadal</title>
+    </programme>
+    <programme start="20251027113000 +0000" stop="20251027120000 +0000" channel="COLORS Tamil HD.starhub">
+        <title>Kadhala Kadhala</title>
+    </programme>
+    <programme start="20251027120000 +0000" stop="20251027123000 +0000" channel="COLORS Tamil HD.starhub">
+        <title>Kadhala Kadhala</title>
+    </programme>
+    <programme start="20251027123000 +0000" stop="20251027140000 +0000" channel="COLORS Tamil HD.starhub">
+        <title>Bigg Boss Tamil</title>
+    </programme>
+    <programme start="20251027140000 +0000" stop="20251027160000 +0000" channel="COLORS Tamil HD.starhub">
+        <title>Rising Shaolin</title>
     </programme>
     <programme start="20251026160000 +0000" stop="20251026170000 +0000" channel="TVBS Asia.starhub">
         <title>Hu&#039;s Travel Agency</title>
@@ -4679,43 +4703,34 @@
         <title>Bloomberg Daybreak: Australia</title>
     </programme>
     <programme start="20251026230000 +0000" stop="20251027010000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>Bloomberg Daybreak: Asia</title>
+        <title>Bloomberg The Asia Trade</title>
     </programme>
-    <programme start="20251027010000 +0000" stop="20251027020000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>Bloomberg Markets: China Open</title>
+    <programme start="20251027010000 +0000" stop="20251027030000 +0000" channel="Bloomberg Television HD.starhub">
+        <title>Bloomberg: The China Show</title>
     </programme>
-    <programme start="20251027020000 +0000" stop="20251027040000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>Bloomberg Markets: Asia</title>
+    <programme start="20251027030000 +0000" stop="20251027040000 +0000" channel="Bloomberg Television HD.starhub">
+        <title>Insight with Haslinda Amin</title>
     </programme>
     <programme start="20251027040000 +0000" stop="20251027060000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>Bloomberg Daybreak: Middle East</title>
+        <title>Bloomberg Horizons Middle East &amp; Africa</title>
     </programme>
     <programme start="20251027060000 +0000" stop="20251027070000 +0000" channel="Bloomberg Television HD.starhub">
         <title>Bloomberg Daybreak: Europe</title>
     </programme>
-    <programme start="20251027070000 +0000" stop="20251027080000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>Bloomberg Markets: Europe</title>
-    </programme>
-    <programme start="20251027080000 +0000" stop="20251027090000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>Bloomberg Markets: European Open</title>
+    <programme start="20251027070000 +0000" stop="20251027090000 +0000" channel="Bloomberg Television HD.starhub">
+        <title>Bloomberg: The Opening Trade</title>
     </programme>
     <programme start="20251027090000 +0000" stop="20251027100000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>Bloomberg Surveillance: Early Edition</title>
+        <title>Bloomberg Brief</title>
     </programme>
-    <programme start="20251027100000 +0000" stop="20251027110000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>Bloomberg Surveillance: Early Edition</title>
-    </programme>
-    <programme start="20251027110000 +0000" stop="20251027120000 +0000" channel="Bloomberg Television HD.starhub">
+    <programme start="20251027100000 +0000" stop="20251027130000 +0000" channel="Bloomberg Television HD.starhub">
         <title>Bloomberg Surveillance</title>
     </programme>
-    <programme start="20251027120000 +0000" stop="20251027140000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>Bloomberg Surveillance</title>
-    </programme>
-    <programme start="20251027140000 +0000" stop="20251027150000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>Bloomberg: The Open</title>
+    <programme start="20251027130000 +0000" stop="20251027150000 +0000" channel="Bloomberg Television HD.starhub">
+        <title>Bloomberg Open Interest</title>
     </programme>
     <programme start="20251027150000 +0000" stop="20251027160000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>Bloomberg Markets: Americas</title>
+        <title>Bloomberg Tech</title>
     </programme>
     <programme start="20251026150000 +0000" stop="20251026180000 +0000" channel="Zee Cinema.starhub">
         <title>Raazi</title>
@@ -8065,13 +8080,13 @@
     <programme start="20251027043000 +0000" stop="20251027073000 +0000" channel="Asianet Movies.starhub">
         <title>Paappi Appachaa</title>
     </programme>
-    <programme start="20251027073000 +0000" stop="20251027103000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251027073000 +0000" stop="20251027103500 +0000" channel="Asianet Movies.starhub">
         <title>RRR</title>
     </programme>
-    <programme start="20251027103000 +0000" stop="20251027133000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251027103500 +0000" stop="20251027133000 +0000" channel="Asianet Movies.starhub">
         <title>The Priest</title>
     </programme>
-    <programme start="20251027133000 +0000" stop="20251027163000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251027133000 +0000" stop="20251027162500 +0000" channel="Asianet Movies.starhub">
         <title>Pulimurugan</title>
     </programme>
     <programme start="20251026160000 +0000" stop="20251026163000 +0000" channel="Astro Warna HD.starhub">
