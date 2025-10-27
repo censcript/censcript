@@ -3049,6 +3049,12 @@
 <programme start="20251027100000 +0000" stop="20251027101500 +0000" channel="Sky Sport UHD.skyde">
     <title>Info: UHD</title>
 </programme>
+<programme start="20251027221000 +0000" stop="20251027223000 +0000" channel="Sky Sport 1 HD.skyde">
+    <title>Es folgt: LIVE Basketball NBA</title>
+</programme>
+<programme start="20251027223000 +0000" stop="20251027230000 +0000" channel="Sky Sport 1 HD.skyde">
+    <title>Live NBA: NBA Showtime</title>
+</programme>
 <programme start="20251026230500 +0000" stop="20251026235000 +0000" channel="SYFY HD.skyde">
     <title>Stargate: Atlantis</title>
 </programme>
