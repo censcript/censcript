@@ -126,12 +126,8 @@
     <title>Football: Panetolikos - Ellas Syroy</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251028050000 +0700" stop="20251028053000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>William Hill Scottish Premiership - Highlights</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251028053000 +0700" stop="20251028060000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Copa Libertadores 2025 - Highlights</title>
+<programme start="20251029065500 +0700" stop="20251029090000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Kifisia - Athens Kallithea FC</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251028060000 +0700" stop="20251028063000 +0700" channel="COSMOTE Sport 3 HD">
@@ -194,10 +190,6 @@
     <title>Football: Tondela - Sporting CP</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251028031000 +0700" stop="20251028060000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Cleveland Cavaliers - Milwaukee Bucks</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251028060000 +0700" stop="20251028090000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Detroit Pistons - Cleveland Cavaliers (L)</title>
     <desc>Live: Ya</desc>
@@ -252,10 +244,6 @@
 </programme>
 <programme start="20251029054000 +0700" stop="20251029070000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Pick n&#039; Roll</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251028043000 +0700" stop="20251028053000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>2025 GT World Challenge Europe</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251028053000 +0700" stop="20251028065000 +0700" channel="COSMOTE Sport 5 HD">
@@ -342,9 +330,9 @@
     <title>Motorsports: MotoGP 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251028013000 +0700" stop="20251028053000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: ATP Masters 1000 2025 (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20251029061500 +0700" stop="20251029075500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC 2025</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251028053000 +0700" stop="20251028070000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Topspin</title>
@@ -380,6 +368,10 @@
 </programme>
 <programme start="20251029053000 +0700" stop="20251029063000 +0700" channel="COSMOTE Sport 6 HD">
     <title>ATP 500 2025 - Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251029063000 +0700" stop="20251029103000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: ATP Masters 1000 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251028050000 +0700" stop="20251028070000 +0700" channel="COSMOTE Sport 7 HD">
