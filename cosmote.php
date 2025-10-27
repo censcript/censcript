@@ -58,6 +58,10 @@
     <title>UEFA Champions League Magazine 2025-26 E8</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251029000000 +0700" stop="20251029010000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEFA Champions League Highlights 2025-26</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251027222000 +0700" stop="20251028002000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: ACF Fiorentina - Bologna</title>
     <desc>Live: Tidak</desc>
@@ -186,6 +190,10 @@
     <title>Football: SL Benfica - Arouca</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251029003000 +0700" stop="20251029023000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Lecce - SSC Napoli (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
 <programme start="20251027221000 +0700" stop="20251028001000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Real Madrid - Manresa</title>
     <desc>Live: Tidak</desc>
@@ -236,6 +244,10 @@
 </programme>
 <programme start="20251028223000 +0700" stop="20251029000000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Pick n&#039; Roll (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
+<programme start="20251029000000 +0700" stop="20251029021000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Levice - AEK (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20251027230000 +0700" stop="20251028002000 +0700" channel="COSMOTE Sport 5 HD">
@@ -322,9 +334,9 @@
     <title>Motorsports: Moto3 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251027210000 +0700" stop="20251028000000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: ATP Masters 1000 2025 (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20251029004000 +0700" stop="20251029010000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Sports Highlights</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251028000000 +0700" stop="20251028013000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Topspin (L)</title>
