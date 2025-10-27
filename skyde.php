@@ -2608,7 +2608,7 @@
 <programme start="20251027223000 +0000" stop="20251028003000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
     <title>BL: Borussia Dortmund - 1. FC Köln, tipico Topspiel der Woche, 8. Spieltag</title>
 </programme>
-<programme start="20251026230000 +0000" stop="20251027010000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20251026231500 +0000" stop="20251027010000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Rennen - GP Mexiko</title>
 </programme>
 <programme start="20251027010000 +0000" stop="20251027020000 +0000" channel="Sky Sport F1 HD.skyde">
@@ -2959,19 +2959,16 @@
 <programme start="20251027224500 +0000" stop="20251027230000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>EFL: Highlights XXL: Swansea City - Norwich City, 12. Spieltag</title>
 </programme>
-<programme start="20251026230000 +0000" stop="20251027013000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: J. Fonseca (BRA) - A. Davidovich Fokina (ESP), Swiss Indoors Basel in Basel (Schweiz), Finale</title>
+<programme start="20251027003000 +0000" stop="20251027030000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 500: A. Zverev (GER) - J. Sinner (ITA), Erste Bank Open in Wien (Österreich), Finale</title>
 </programme>
-<programme start="20251027013000 +0000" stop="20251027023000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: Review Shanghai</title>
-</programme>
-<programme start="20251027023000 +0000" stop="20251027050000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20251027030000 +0000" stop="20251027050000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: B. Bencic (SUI) - L. Noskova (CZE), Toray Pan Pacific Open Tennis in Tokio (JPN), Finale</title>
 </programme>
-<programme start="20251027050000 +0000" stop="20251027073000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20251027050000 +0000" stop="20251027070000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: J. Fonseca (BRA) - A. Davidovich Fokina (ESP), Swiss Indoors Basel in Basel (Schweiz), Finale</title>
 </programme>
-<programme start="20251027073000 +0000" stop="20251027100000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20251027070000 +0000" stop="20251027100000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: A. Zverev (GER) - J. Sinner (ITA), Erste Bank Open in Wien (Österreich), Finale</title>
 </programme>
 <programme start="20251027100000 +0000" stop="20251027220000 +0000" channel="Sky Sport Tennis HD.skyde">
@@ -3028,7 +3025,7 @@
 <programme start="20251027223000 +0000" stop="20251027230000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: NBA Showtime</title>
 </programme>
-<programme start="20251026230000 +0000" stop="20251027010000 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20251026231500 +0000" stop="20251027010000 +0000" channel="Sky Sport UHD.skyde">
     <title>PL: FC Everton - Tottenham Hotspur, Match of the Week, 9. Spieltag</title>
 </programme>
 <programme start="20251027010000 +0000" stop="20251027030000 +0000" channel="Sky Sport UHD.skyde">

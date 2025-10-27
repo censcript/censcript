@@ -54,10 +54,6 @@
     <title>Football: AEK - Aberdeen</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251027100000 +0700" stop="20251027120000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Torino - Genoa</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251027120000 +0700" stop="20251027141000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Kifisia - Panetolikos</title>
     <desc>Live: Tidak</desc>
@@ -108,6 +104,10 @@
 </programme>
 <programme start="20251028100000 +0700" stop="20251028120000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Cremonese - Atalanta</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251028120000 +0700" stop="20251028140500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: OFI - Atromitos Athens</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251027110000 +0700" stop="20251027141500 +0700" channel="COSMOTE Sport 3 HD">
@@ -312,6 +312,10 @@
 </programme>
 <programme start="20251028110000 +0700" stop="20251028122000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Grand Prix Show 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251028122000 +0700" stop="20251028132000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Highlights: 2025 Extreme H</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251027110000 +0700" stop="20251027130000 +0700" channel="COSMOTE Sport 6 HD">

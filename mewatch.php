@@ -503,7 +503,7 @@
         <title>Asia Tonight</title>
     </programme>
     <programme start="20251026210000 +0000" stop="20251026220000 +0000" channel="CNA.mewatch">
-        <title>Inside Police Coast Guard - EP 2</title>
+        <title>Inside The Police Coast Guard - EP 2</title>
     </programme>
     <programme start="20251026220000 +0000" stop="20251026223000 +0000" channel="CNA.mewatch">
         <title>Singapore Tonight</title>
@@ -515,13 +515,13 @@
         <title>(Live) Asia First</title>
     </programme>
     <programme start="20251027020000 +0000" stop="20251027030000 +0000" channel="CNA.mewatch">
-        <title>Inside Police Coast Guard - EP 2</title>
+        <title>Inside The Police Coast Guard - EP 2</title>
     </programme>
     <programme start="20251027030000 +0000" stop="20251027050000 +0000" channel="CNA.mewatch">
         <title>(Live) Asia Now</title>
     </programme>
     <programme start="20251027050000 +0000" stop="20251027060000 +0000" channel="CNA.mewatch">
-        <title>Inside Police Coast Guard - EP 1</title>
+        <title>Inside The Police Coast Guard - EP 1</title>
     </programme>
     <programme start="20251027060000 +0000" stop="20251027080000 +0000" channel="CNA.mewatch">
         <title>(Live) Asia Now</title>
@@ -554,7 +554,7 @@
         <title>(Live) Singapore Tonight</title>
     </programme>
     <programme start="20251027150000 +0000" stop="20251027160000 +0000" channel="CNA.mewatch">
-        <title>Inside Police Coast Guard - EP 2</title>
+        <title>Inside The Police Coast Guard - EP 2</title>
     </programme>
     <programme start="20251027160000 +0000" stop="20251027160300 +0000" channel="CNA.mewatch">
         <title>Headline News</title>
