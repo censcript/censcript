@@ -700,9 +700,6 @@
 <programme start="20251027130000 +0000" stop="20251027150000 +0000" channel="ANTV.vision">
 <title>Rindu Tak Berujung</title>
 </programme>
-<programme start="20251027150000 +0000" stop="20251027183000 +0000" channel="ANTV.vision">
-<title>A Gentelman</title>
-</programme>
 <programme start="20251027183000 +0000" stop="20251027203000 +0000" channel="ANTV.vision">
 <title>Bisikan Arwah</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20251028031500 +0000" stop="20251028040000 +0000" channel="BTV.vision">
 <title>Ketulusan Hati</title>
+</programme>
+<programme start="20251028040000 +0000" stop="20251028050000 +0000" channel="BTV.vision">
+<title>Berita Satu Siang</title>
 </programme>
