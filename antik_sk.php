@@ -16768,6 +16768,198 @@
   <programme start="20251029223000 +0000" stop="20251029233000 +0000" channel="TVP Polonia.webtv.sk">
     <title lang="id">Magazyn Ekspresu Reporterów (1055)</title>
   </programme>
+  <programme start="20251028220100 +0000" stop="20251028233000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Інформаційні сюжети</title>
+  </programme>
+  <programme start="20251028233000 +0000" stop="20251029020000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">FreeДОМ</title>
+  </programme>
+  <programme start="20251029020000 +0000" stop="20251029040000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Інформаційні сюжети</title>
+  </programme>
+  <programme start="20251029040000 +0000" stop="20251029041000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Наш час</title>
+  </programme>
+  <programme start="20251029041000 +0000" stop="20251029043000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Pеальна історія</title>
+  </programme>
+  <programme start="20251029043000 +0000" stop="20251029050000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Інформаційні сюжети</title>
+  </programme>
+  <programme start="20251029050000 +0000" stop="20251029053000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Наш час</title>
+  </programme>
+  <programme start="20251029053000 +0000" stop="20251029060000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Інформаційні сюжети</title>
+  </programme>
+  <programme start="20251029060000 +0000" stop="20251029061000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Наш час</title>
+  </programme>
+  <programme start="20251029061000 +0000" stop="20251029080000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">FreeДОМ</title>
+  </programme>
+  <programme start="20251029080000 +0000" stop="20251029081500 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Антизомбі</title>
+  </programme>
+  <programme start="20251029081500 +0000" stop="20251029083000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Громадянська оборона</title>
+  </programme>
+  <programme start="20251029083000 +0000" stop="20251029093000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Інформаційні сюжети</title>
+  </programme>
+  <programme start="20251029093000 +0000" stop="20251029100000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Ваші гроші</title>
+  </programme>
+  <programme start="20251029100000 +0000" stop="20251029101000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Наш час</title>
+  </programme>
+  <programme start="20251029101000 +0000" stop="20251029110000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">FreeДОМ</title>
+  </programme>
+  <programme start="20251029110000 +0000" stop="20251029113000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Документальний фільм</title>
+  </programme>
+  <programme start="20251029113000 +0000" stop="20251029130000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">FreeДОМ</title>
+  </programme>
+  <programme start="20251029130000 +0000" stop="20251029133000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Люди доброї волі</title>
+  </programme>
+  <programme start="20251029133000 +0000" stop="20251029140000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Інформаційні сюжети</title>
+  </programme>
+  <programme start="20251029140000 +0000" stop="20251029143000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Наш час</title>
+  </programme>
+  <programme start="20251029143000 +0000" stop="20251029160000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">FreeДОМ</title>
+  </programme>
+  <programme start="20251029160000 +0000" stop="20251029163000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Останній день диктатора</title>
+  </programme>
+  <programme start="20251029163000 +0000" stop="20251029190000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">FreeДОМ</title>
+  </programme>
+  <programme start="20251029190000 +0000" stop="20251029193000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Наш час</title>
+  </programme>
+  <programme start="20251029193000 +0000" stop="20251029203000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">FreeДОМ</title>
+  </programme>
+  <programme start="20251029203000 +0000" stop="20251029204000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Наш час</title>
+  </programme>
+  <programme start="20251029204000 +0000" stop="20251029211000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Документальний фільм</title>
+  </programme>
+  <programme start="20251029211000 +0000" stop="20251029220000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Інформаційні сюжети</title>
+  </programme>
+  <programme start="20251029220000 +0000" stop="20251029220100 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Гімн України</title>
+  </programme>
+  <programme start="20251029220100 +0000" stop="20251029233000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Інформаційні сюжети</title>
+  </programme>
+  <programme start="20251028220000 +0000" stop="20251028234500 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Великий ефір Василя Зими</title>
+  </programme>
+  <programme start="20251028234500 +0000" stop="20251029013000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Вердикт</title>
+  </programme>
+  <programme start="20251029013000 +0000" stop="20251029020000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Коментар з Антоном Борковським</title>
+  </programme>
+  <programme start="20251029020000 +0000" stop="20251029024000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">СвітОгляд з Євгеном Магдою</title>
+  </programme>
+  <programme start="20251029024000 +0000" stop="20251029030000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Близько політики, близько світу</title>
+  </programme>
+  <programme start="20251029030000 +0000" stop="20251029050000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Вердикт</title>
+  </programme>
+  <programme start="20251029050000 +0000" stop="20251029051000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Новини</title>
+  </programme>
+  <programme start="20251029051000 +0000" stop="20251029060000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Інформаційний марафон</title>
+  </programme>
+  <programme start="20251029060000 +0000" stop="20251029061000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Новини</title>
+  </programme>
+  <programme start="20251029061000 +0000" stop="20251029070000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Інформаційний марафон</title>
+  </programme>
+  <programme start="20251029070000 +0000" stop="20251029070100 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Хвилина мовчання</title>
+  </programme>
+  <programme start="20251029070100 +0000" stop="20251029080000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Інформаційний марафон</title>
+  </programme>
+  <programme start="20251029080000 +0000" stop="20251029081000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Новини</title>
+  </programme>
+  <programme start="20251029081000 +0000" stop="20251029090000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Інформаційний марафон</title>
+  </programme>
+  <programme start="20251029090000 +0000" stop="20251029091000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Новини</title>
+  </programme>
+  <programme start="20251029091000 +0000" stop="20251029094500 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Хроніки інформаційної війни</title>
+  </programme>
+  <programme start="20251029094500 +0000" stop="20251029100000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Актуальні сюжети</title>
+  </programme>
+  <programme start="20251029100000 +0000" stop="20251029103000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Новини</title>
+  </programme>
+  <programme start="20251029103000 +0000" stop="20251029111000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Pозмовна студія</title>
+  </programme>
+  <programme start="20251029111000 +0000" stop="20251029130000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Вердикт</title>
+  </programme>
+  <programme start="20251029130000 +0000" stop="20251029140000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Євроінтеграція з Юрієм Фізером</title>
+  </programme>
+  <programme start="20251029140000 +0000" stop="20251029141000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Новини</title>
+  </programme>
+  <programme start="20251029141000 +0000" stop="20251029150000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Коментар з Антоном Борковським</title>
+  </programme>
+  <programme start="20251029150000 +0000" stop="20251029151000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Новини</title>
+  </programme>
+  <programme start="20251029151000 +0000" stop="20251029160000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Коментар з Антоном Борковським</title>
+  </programme>
+  <programme start="20251029160000 +0000" stop="20251029161500 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Новини</title>
+  </programme>
+  <programme start="20251029161500 +0000" stop="20251029180000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Великий ефір Василя Зими</title>
+  </programme>
+  <programme start="20251029180000 +0000" stop="20251029190000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Вердикт</title>
+  </programme>
+  <programme start="20251029190000 +0000" stop="20251029191500 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">BBC News Україна</title>
+  </programme>
+  <programme start="20251029191500 +0000" stop="20251029200000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Вердикт</title>
+  </programme>
+  <programme start="20251029200000 +0000" stop="20251029210000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Коментар з Антоном Борковським</title>
+  </programme>
+  <programme start="20251029210000 +0000" stop="20251029220000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Свобода Live</title>
+  </programme>
+  <programme start="20251029220000 +0000" stop="20251029234500 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Великий ефір Василя Зими</title>
+  </programme>
   <programme start="20251028230000 +0000" stop="20251029000000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">Человек имеет право</title>
   </programme>
