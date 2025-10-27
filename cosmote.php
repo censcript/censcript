@@ -130,6 +130,10 @@
     <title>Highlights: UEL &amp; UECL 2025-26</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251029024500 +0700" stop="20251029044500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Atalanta - AC Milan (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
 <programme start="20251028010000 +0700" stop="20251028030000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Anorthosis Famagusta - Aris Limassol</title>
     <desc>Live: Tidak</desc>
@@ -190,6 +194,10 @@
     <title>Football: Lecce - SSC Napoli (L)</title>
     <desc>Live: Ya</desc>
 </programme>
+<programme start="20251029023000 +0700" stop="20251029043000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Ipswich Town - West Bromwich Albion</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251028001000 +0700" stop="20251028031000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Detroit Pistons - Boston Celtics</title>
     <desc>Live: Tidak</desc>
@@ -242,8 +250,8 @@
     <title>Basketball: Levice - AEK (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251028002000 +0700" stop="20251028020000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: MotoGP 2025</title>
+<programme start="20251029021000 +0700" stop="20251029033500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Pick n&#039; Roll</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251028020000 +0700" stop="20251028032000 +0700" channel="COSMOTE Sport 5 HD">
@@ -328,10 +336,6 @@
 </programme>
 <programme start="20251029010000 +0700" stop="20251029030000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Football: Al Nassr - Al Ittihad (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20251028000000 +0700" stop="20251028013000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Topspin (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20251028013000 +0700" stop="20251028053000 +0700" channel="COSMOTE Sport 6 HD">
