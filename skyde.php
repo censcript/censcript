@@ -3439,6 +3439,45 @@
 <programme start="20251027225500 +0000" stop="20251027232000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Friends</title>
 </programme>
+<programme start="20251027002500 +0000" stop="20251027021000 +0000" channel="Warner TV Film.skyde">
+    <title>Get Smart</title>
+</programme>
+<programme start="20251027021000 +0000" stop="20251027041000 +0000" channel="Warner TV Film.skyde">
+    <title>Callahan</title>
+</programme>
+<programme start="20251027041000 +0000" stop="20251027050000 +0000" channel="Warner TV Film.skyde">
+    <title>Lutz van der Horst - Der Filmtalker</title>
+</programme>
+<programme start="20251027050000 +0000" stop="20251027064500 +0000" channel="Warner TV Film.skyde">
+    <title>Die sechs Verdächtigen</title>
+</programme>
+<programme start="20251027064500 +0000" stop="20251027081500 +0000" channel="Warner TV Film.skyde">
+    <title>Verschollen im Harem</title>
+</programme>
+<programme start="20251027081500 +0000" stop="20251027102000 +0000" channel="Warner TV Film.skyde">
+    <title>Der Champ</title>
+</programme>
+<programme start="20251027102000 +0000" stop="20251027122500 +0000" channel="Warner TV Film.skyde">
+    <title>Der Sturm</title>
+</programme>
+<programme start="20251027122500 +0000" stop="20251027140000 +0000" channel="Warner TV Film.skyde">
+    <title>127 Hours</title>
+</programme>
+<programme start="20251027140000 +0000" stop="20251027161500 +0000" channel="Warner TV Film.skyde">
+    <title>The Big Short</title>
+</programme>
+<programme start="20251027161500 +0000" stop="20251027191500 +0000" channel="Warner TV Film.skyde">
+    <title>The Wolf of Wall Street</title>
+</programme>
+<programme start="20251027191500 +0000" stop="20251027205500 +0000" channel="Warner TV Film.skyde">
+    <title>Stichtag - Schluss mit gemütlich</title>
+</programme>
+<programme start="20251027205500 +0000" stop="20251027223500 +0000" channel="Warner TV Film.skyde">
+    <title>Rush Hour</title>
+</programme>
+<programme start="20251027223500 +0000" stop="20251028001000 +0000" channel="Warner TV Film.skyde">
+    <title>xXx: Die Rückkehr des Xander Cage</title>
+</programme>
 <programme start="20251027002500 +0000" stop="20251027021000 +0000" channel="Warner TV Film HD.skyde">
     <title>Get Smart</title>
 </programme>
