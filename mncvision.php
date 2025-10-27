@@ -5935,14 +5935,11 @@
 <programme start="20251027113000 +0000" stop="20251027123000 +0000" channel="MNCTV.mncvision">
     <title>Entong</title>
 </programme>
-<programme start="20251027123000 +0000" stop="20251027133000 +0000" channel="MNCTV.mncvision">
+<programme start="20251027123000 +0000" stop="20251027160000 +0000" channel="MNCTV.mncvision">
     <title>DMD Panggung Rezeki</title>
 </programme>
-<programme start="20251027133000 +0000" stop="20251027160000 +0000" channel="MNCTV.mncvision">
-    <title>Asian Youth Games Bahrain (L)</title>
-</programme>
 <programme start="20251027160000 +0000" stop="20251027163000 +0000" channel="MNCTV.mncvision">
-    <title>Arab Maklum 2</title>
+    <title>Asian Youth Games Bahrain (L)</title>
 </programme>
 <programme start="20251026170000 +0000" stop="20251026190000 +0000" channel="MNCTV HD.mncvision">
     <title>Suparman Reborn</title>
@@ -5992,14 +5989,11 @@
 <programme start="20251027113000 +0000" stop="20251027123000 +0000" channel="MNCTV HD.mncvision">
     <title>Entong</title>
 </programme>
-<programme start="20251027123000 +0000" stop="20251027133000 +0000" channel="MNCTV HD.mncvision">
+<programme start="20251027123000 +0000" stop="20251027160000 +0000" channel="MNCTV HD.mncvision">
     <title>DMD Panggung Rezeki</title>
 </programme>
-<programme start="20251027133000 +0000" stop="20251027160000 +0000" channel="MNCTV HD.mncvision">
-    <title>Asian Youth Games Bahrain (L)</title>
-</programme>
 <programme start="20251027160000 +0000" stop="20251027163000 +0000" channel="MNCTV HD.mncvision">
-    <title>Arab Maklum 2</title>
+    <title>Asian Youth Games Bahrain (L)</title>
 </programme>
 <programme start="20251026170600 +0000" stop="20251026172900 +0000" channel="Moonbug.mncvision">
     <title>Little Angel</title>

@@ -5254,9 +5254,6 @@
     <programme start="20251026150000 +0000" stop="20251026170000 +0000" channel="SPOTV.starhub">
         <title>2025/26 A-League Men Match Rd2 Auckland FC vs Western Sydney Wanderers FC</title>
     </programme>
-    <programme start="20251026170000 +0000" stop="20251026193000 +0000" channel="SPOTV.starhub">
-        <title>Day 4 Session 2</title>
-    </programme>
     <programme start="20251026193000 +0000" stop="20251026203000 +0000" channel="SPOTV.starhub">
         <title>Saquarema Pro Challenger Series Finals Day - Highlights</title>
     </programme>
@@ -5264,16 +5261,16 @@
         <title>Race 2</title>
     </programme>
     <programme start="20251026223000 +0000" stop="20251027011000 +0000" channel="SPOTV.starhub">
-        <title>Mahindra Volleyball Super League 2025 Rd 5 Queensland Pirates vs NSW Phoenix</title>
+        <title>Queensland Pirates vs NSW Phoenix</title>
     </programme>
     <programme start="20251027011000 +0000" stop="20251027060000 +0000" channel="SPOTV.starhub">
         <title>Day 2 Session 2</title>
     </programme>
     <programme start="20251027060000 +0000" stop="20251027075500 +0000" channel="SPOTV.starhub">
-        <title>2025/26 A-League Men Match Rd2 Newcastle Jets FC vs Melbourne Victory</title>
+        <title>Newcastle Jets FC vs Melbourne Victory</title>
     </programme>
     <programme start="20251027075500 +0000" stop="20251027100000 +0000" channel="SPOTV.starhub">
-        <title>2025/26 A-League Men Match Rd2 Macarthur FC vs Adelaide United</title>
+        <title>Macarthur FC vs Adelaide United</title>
     </programme>
     <programme start="20251027100000 +0000" stop="20251027120000 +0000" channel="SPOTV.starhub">
         <title>Race 28</title>
