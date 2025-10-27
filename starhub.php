@@ -5254,6 +5254,9 @@
     <programme start="20251026150000 +0000" stop="20251026170000 +0000" channel="SPOTV.starhub">
         <title>2025/26 A-League Men Match Rd2 Auckland FC vs Western Sydney Wanderers FC</title>
     </programme>
+    <programme start="20251026170000 +0000" stop="20251026193000 +0000" channel="SPOTV.starhub">
+        <title>Day 4 Session 2</title>
+    </programme>
     <programme start="20251026193000 +0000" stop="20251026203000 +0000" channel="SPOTV.starhub">
         <title>Saquarema Pro Challenger Series Finals Day - Highlights</title>
     </programme>

@@ -7556,7 +7556,7 @@
     <title>Amanah Wali</title>
 </programme>
 <programme start="20251026203000 +0000" stop="20251026230000 +0000" channel="RCTI.mncvision">
-    <title>Preman Pensiun</title>
+    <title>Preman Pensiun S2</title>
 </programme>
 <programme start="20251026230000 +0000" stop="20251026234500 +0000" channel="RCTI.mncvision">
     <title>Go Spot</title>
@@ -7607,7 +7607,7 @@
     <title>Amanah Wali</title>
 </programme>
 <programme start="20251026203000 +0000" stop="20251026230000 +0000" channel="RCTI HD.mncvision">
-    <title>Preman Pensiun</title>
+    <title>Preman Pensiun S2</title>
 </programme>
 <programme start="20251026230000 +0000" stop="20251026234500 +0000" channel="RCTI HD.mncvision">
     <title>Go Spot</title>

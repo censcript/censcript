@@ -556,7 +556,7 @@
     <programme start="20251027150000 +0000" stop="20251027160000 +0000" channel="CNA.mewatch">
         <title>Inside The Police Coast Guard - EP 2</title>
     </programme>
-    <programme start="20251027160000 +0000" stop="20251027220000 +0000" channel="CNA.mewatch">
+    <programme start="20251027160000 +0000" stop="20251027160300 +0000" channel="CNA.mewatch">
         <title>Headline News</title>
     </programme>
     <programme start="20251026160000 +0000" stop="20251027112000 +0000" channel="spl01.mewatch">
