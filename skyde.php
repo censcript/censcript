@@ -94,54 +94,6 @@
 <programme start="20251028221500 +0000" stop="20251028230000 +0000" channel="13th Street HD.skyde">
     <title>Navy CIS</title>
 </programme>
-<programme start="20251027234500 +0000" stop="20251028003000 +0000" channel="Beate Uhse HD.skyde">
-    <title>Intimes Deutschland</title>
-</programme>
-<programme start="20251028003000 +0000" stop="20251028005500 +0000" channel="Beate Uhse HD.skyde">
-    <title>Sex Video Privat mit Harry S. Morgan</title>
-</programme>
-<programme start="20251028005500 +0000" stop="20251028013000 +0000" channel="Beate Uhse HD.skyde">
-    <title>Inside Sex!</title>
-</programme>
-<programme start="20251028013000 +0000" stop="20251028020500 +0000" channel="Beate Uhse HD.skyde">
-    <title>Yoga Retreat</title>
-</programme>
-<programme start="20251028020500 +0000" stop="20251028022500 +0000" channel="Beate Uhse HD.skyde">
-    <title>Horny Hostel</title>
-</programme>
-<programme start="20251028022500 +0000" stop="20251028025000 +0000" channel="Beate Uhse HD.skyde">
-    <title>Massage Seductions</title>
-</programme>
-<programme start="20251028025000 +0000" stop="20251028031500 +0000" channel="Beate Uhse HD.skyde">
-    <title>Girlfriends</title>
-</programme>
-<programme start="20251028031500 +0000" stop="20251028034500 +0000" channel="Beate Uhse HD.skyde">
-    <title>The Art of Kissing</title>
-</programme>
-<programme start="20251028034500 +0000" stop="20251028044500 +0000" channel="Beate Uhse HD.skyde">
-    <title>Slide - wie geschmiert</title>
-</programme>
-<programme start="20251028044500 +0000" stop="20251028191500 +0000" channel="Beate Uhse HD.skyde">
-    <title>Programm von 20.15 Uhr bis 05.45 Uhr</title>
-</programme>
-<programme start="20251028191500 +0000" stop="20251028195000 +0000" channel="Beate Uhse HD.skyde">
-    <title>Auto, Motor, Sex</title>
-</programme>
-<programme start="20251028195000 +0000" stop="20251028202000 +0000" channel="Beate Uhse HD.skyde">
-    <title>Auto, Motor, Sex</title>
-</programme>
-<programme start="20251028202000 +0000" stop="20251028205000 +0000" channel="Beate Uhse HD.skyde">
-    <title>G-Punkt</title>
-</programme>
-<programme start="20251028205000 +0000" stop="20251028210500 +0000" channel="Beate Uhse HD.skyde">
-    <title>Urban Smut</title>
-</programme>
-<programme start="20251028210500 +0000" stop="20251028223000 +0000" channel="Beate Uhse HD.skyde">
-    <title>Private Flug 6969</title>
-</programme>
-<programme start="20251028223000 +0000" stop="20251029000000 +0000" channel="Beate Uhse HD.skyde">
-    <title>Cinderella XXX</title>
-</programme>
 <programme start="20251027231000 +0000" stop="20251027232000 +0000" channel="Cartoon Network.skyde">
     <title>Regular Show - Völlig abgedreht</title>
 </programme>

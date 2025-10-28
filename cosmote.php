@@ -58,10 +58,6 @@
     <title>Football: FC Shakhtar Donetsk - Legia Warszawa</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251028100000 +0700" stop="20251028120000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Cremonese - Atalanta</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251028120000 +0700" stop="20251028140500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: OFI - Atromitos Athens</title>
     <desc>Live: Tidak</desc>
@@ -120,6 +116,10 @@
 </programme>
 <programme start="20251029100000 +0700" stop="20251029120000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Atalanta - AC Milan</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251029120000 +0700" stop="20251029141000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: OFI - Iraklis</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251028110000 +0700" stop="20251028141500 +0700" channel="COSMOTE Sport 3 HD">
@@ -326,8 +326,8 @@
     <title>2025 FIM Women&#039;s Circuit Racing World Championship</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251028110000 +0700" stop="20251028113000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Premier Padel Tour 2025 - Highlights</title>
+<programme start="20251029120000 +0700" stop="20251029130000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>2025 FIM Women&#039;s Circuit Racing World Championship</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251028113000 +0700" stop="20251028153000 +0700" channel="COSMOTE Sport 6 HD">
@@ -364,6 +364,10 @@
 </programme>
 <programme start="20251029110000 +0700" stop="20251029124500 +0700" channel="COSMOTE Sport 6 HD">
     <title>Volleyball: Napredak - Olympiacos</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251029124500 +0700" stop="20251029170000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: ATP Masters 1000 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251028110000 +0700" stop="20251028130000 +0700" channel="COSMOTE Sport 7 HD">
