@@ -1543,63 +1543,6 @@
 <programme start="20251028224000 +0000" stop="20251028230500 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20251027231500 +0000" stop="20251028004500 +0000" channel="Romance TV HD.skyde">
-    <title>Das Kindermädchen: Mission Kanada</title>
-</programme>
-<programme start="20251028004500 +0000" stop="20251028021500 +0000" channel="Romance TV HD.skyde">
-    <title>Zum Glück gibt&#039;s Schreiner</title>
-</programme>
-<programme start="20251028021500 +0000" stop="20251028030000 +0000" channel="Romance TV HD.skyde">
-    <title>Familie Dr. Kleist</title>
-</programme>
-<programme start="20251028030000 +0000" stop="20251028030500 +0000" channel="Romance TV HD.skyde">
-    <title>Paare</title>
-</programme>
-<programme start="20251028030500 +0000" stop="20251028031000 +0000" channel="Romance TV HD.skyde">
-    <title>Paare</title>
-</programme>
-<programme start="20251028031000 +0000" stop="20251028044000 +0000" channel="Romance TV HD.skyde">
-    <title>Käthe und ich: Im Schatten des Vaters</title>
-</programme>
-<programme start="20251028044000 +0000" stop="20251028061500 +0000" channel="Romance TV HD.skyde">
-    <title>Das Traumhotel: Überraschung in Mexiko</title>
-</programme>
-<programme start="20251028061500 +0000" stop="20251028075500 +0000" channel="Romance TV HD.skyde">
-    <title>Das Traumschiff - Shanghai</title>
-</programme>
-<programme start="20251028075500 +0000" stop="20251028093000 +0000" channel="Romance TV HD.skyde">
-    <title>Dora Heldt: Ausgeliebt</title>
-</programme>
-<programme start="20251028093000 +0000" stop="20251028102500 +0000" channel="Romance TV HD.skyde">
-    <title>Familie Dr. Kleist</title>
-</programme>
-<programme start="20251028102500 +0000" stop="20251028115500 +0000" channel="Romance TV HD.skyde">
-    <title>Familie Bundschuh - Unter Verschluss</title>
-</programme>
-<programme start="20251028115500 +0000" stop="20251028133000 +0000" channel="Romance TV HD.skyde">
-    <title>Das Kindermädchen: Mission Kanada</title>
-</programme>
-<programme start="20251028133000 +0000" stop="20251028150500 +0000" channel="Romance TV HD.skyde">
-    <title>Zum Glück gibt&#039;s Schreiner</title>
-</programme>
-<programme start="20251028150500 +0000" stop="20251028164500 +0000" channel="Romance TV HD.skyde">
-    <title>Das Traumschiff - Malediven</title>
-</programme>
-<programme start="20251028164500 +0000" stop="20251028182000 +0000" channel="Romance TV HD.skyde">
-    <title>Für jede Lösung ein Problem</title>
-</programme>
-<programme start="20251028182000 +0000" stop="20251028191500 +0000" channel="Romance TV HD.skyde">
-    <title>Familie Dr. Kleist</title>
-</programme>
-<programme start="20251028191500 +0000" stop="20251028204500 +0000" channel="Romance TV HD.skyde">
-    <title>Rosamunde Pilcher: Ein Doktor &amp; drei Frauen</title>
-</programme>
-<programme start="20251028204500 +0000" stop="20251028222000 +0000" channel="Romance TV HD.skyde">
-    <title>Rosamunde Pilcher: Nanny verzweifelt gesucht</title>
-</programme>
-<programme start="20251028222000 +0000" stop="20251028231500 +0000" channel="Romance TV HD.skyde">
-    <title>Familie Dr. Kleist</title>
-</programme>
 <programme start="20251027231000 +0000" stop="20251028000000 +0000" channel="Sky Atlantic HD.skyde">
     <title>Outlander</title>
 </programme>
