@@ -2144,7 +2144,7 @@
     <title>The Tale Of Yunmeng, Ep 4</title>
 </programme>
 <programme start="20251027180000 +0000" stop="20251027190000 +0000" channel="CGTN Documentary.mncvision">
-    <title>Crunch &amp; Munch In Macao, Ep 3</title>
+    <title>Crunch�&amp;�Munch�In�Macao, Ep 3</title>
 </programme>
 <programme start="20251027190000 +0000" stop="20251027193000 +0000" channel="CGTN Documentary.mncvision">
     <title>Stretching The Limits S7, Ep 7</title>
@@ -2168,7 +2168,7 @@
     <title>The Tale Of Yunmeng, Ep 5</title>
 </programme>
 <programme start="20251028010000 +0000" stop="20251028013000 +0000" channel="CGTN Documentary.mncvision">
-    <title>Crunch &amp; Munch In Macao, Ep 4</title>
+    <title>Crunch�&amp;�Munch�In�Macao, Ep 4</title>
 </programme>
 <programme start="20251028013000 +0000" stop="20251028020000 +0000" channel="CGTN Documentary.mncvision">
     <title>Stretching The Limits S7, Ep 8</title>
@@ -2192,7 +2192,7 @@
     <title>The Tale Of Yunmeng, Ep 5</title>
 </programme>
 <programme start="20251028073000 +0000" stop="20251028080000 +0000" channel="CGTN Documentary.mncvision">
-    <title>Crunch &amp; Munch In Macao, Ep 4</title>
+    <title>Crunch�&amp;�Munch�In�Macao, Ep 4</title>
 </programme>
 <programme start="20251028080000 +0000" stop="20251028090000 +0000" channel="CGTN Documentary.mncvision">
     <title>Stretching The Limits S7, Ep 8</title>
@@ -2216,7 +2216,7 @@
     <title>The Tale Of Yunmeng, Ep 5</title>
 </programme>
 <programme start="20251028140000 +0000" stop="20251028150000 +0000" channel="CGTN Documentary.mncvision">
-    <title>Crunch &amp; Munch In Macao, Ep 4</title>
+    <title>Crunch�&amp;�Munch�In�Macao, Ep 4</title>
 </programme>
 <programme start="20251028150000 +0000" stop="20251028153000 +0000" channel="CGTN Documentary.mncvision">
     <title>Stretching The Limits S7, Ep 8</title>

@@ -3913,9 +3913,6 @@
     <programme start="20251027184500 +0000" stop="20251027191000 +0000" channel="NHK World Premium HD.starhub">
         <title>NHK Regional Showcases: Nagasaki Special (R)</title>
     </programme>
-    <programme start="20251027191000 +0000" stop="20251027191200 +0000" channel="NHK World Premium HD.starhub">
-        <title>Mini Program</title>
-    </programme>
     <programme start="20251027191200 +0000" stop="20251027191500 +0000" channel="NHK World Premium HD.starhub">
         <title>World Weather</title>
     </programme>
@@ -4822,17 +4819,8 @@
     <programme start="20251027213000 +0000" stop="20251027220000 +0000" channel="Vijay TV HD.starhub">
         <title>Ayyanar Thunai</title>
     </programme>
-    <programme start="20251027220000 +0000" stop="20251027223000 +0000" channel="Vijay TV HD.starhub">
-        <title>Poongatru Thirumbuma</title>
-    </programme>
-    <programme start="20251027223000 +0000" stop="20251027230000 +0000" channel="Vijay TV HD.starhub">
-        <title>Mahanadhi Sagodharigalin Kadhai</title>
-    </programme>
-    <programme start="20251027230000 +0000" stop="20251027233000 +0000" channel="Vijay TV HD.starhub">
-        <title>Sindhu Bairavi Kacheri Arambam</title>
-    </programme>
-    <programme start="20251027233000 +0000" stop="20251028000000 +0000" channel="Vijay TV HD.starhub">
-        <title>Chinna Marumagal Panirendaam Vaguppu</title>
+    <programme start="20251027223000 +0000" stop="20251028000000 +0000" channel="Vijay TV HD.starhub">
+        <title>Super Singer</title>
     </programme>
     <programme start="20251028000000 +0000" stop="20251028003000 +0000" channel="Vijay TV HD.starhub">
         <title>Pandian Stores Thanthai Sol Mikka Mandhiram Illai</title>
@@ -4843,74 +4831,38 @@
     <programme start="20251028010000 +0000" stop="20251028013000 +0000" channel="Vijay TV HD.starhub">
         <title>Siragadikka Aasai</title>
     </programme>
-    <programme start="20251028013000 +0000" stop="20251028030000 +0000" channel="Vijay TV HD.starhub">
+    <programme start="20251028013000 +0000" stop="20251028024500 +0000" channel="Vijay TV HD.starhub">
         <title>Bigg Boss Tamil</title>
     </programme>
-    <programme start="20251028030000 +0000" stop="20251028033000 +0000" channel="Vijay TV HD.starhub">
+    <programme start="20251028024500 +0000" stop="20251028031500 +0000" channel="Vijay TV HD.starhub">
         <title>Bigg Boss Tamil Plus</title>
     </programme>
-    <programme start="20251028033000 +0000" stop="20251028050000 +0000" channel="Vijay TV HD.starhub">
+    <programme start="20251028031500 +0000" stop="20251028043000 +0000" channel="Vijay TV HD.starhub">
+        <title>Super Singer</title>
+    </programme>
+    <programme start="20251028043000 +0000" stop="20251028060000 +0000" channel="Vijay TV HD.starhub">
+        <title>Neeya Naana</title>
+    </programme>
+    <programme start="20251028060000 +0000" stop="20251028073000 +0000" channel="Vijay TV HD.starhub">
+        <title>Athu Ithu Ethu</title>
+    </programme>
+    <programme start="20251028073000 +0000" stop="20251028090000 +0000" channel="Vijay TV HD.starhub">
         <title>Sound Party</title>
     </programme>
-    <programme start="20251028050000 +0000" stop="20251028053000 +0000" channel="Vijay TV HD.starhub">
-        <title>Chinna Marumagal Panirendaam Vaguppu</title>
+    <programme start="20251028090000 +0000" stop="20251028103000 +0000" channel="Vijay TV HD.starhub">
+        <title>Uppu Puli Kaaram</title>
     </programme>
-    <programme start="20251028053000 +0000" stop="20251028060000 +0000" channel="Vijay TV HD.starhub">
-        <title>Pandian Stores Thanthai Sol Mikka Mandhiram Illai</title>
+    <programme start="20251028103000 +0000" stop="20251028120000 +0000" channel="Vijay TV HD.starhub">
+        <title>Super Singer</title>
     </programme>
-    <programme start="20251028060000 +0000" stop="20251028063000 +0000" channel="Vijay TV HD.starhub">
-        <title>Ayyanar Thunai</title>
+    <programme start="20251028120000 +0000" stop="20251028133000 +0000" channel="Vijay TV HD.starhub">
+        <title>Start Music</title>
     </programme>
-    <programme start="20251028063000 +0000" stop="20251028070000 +0000" channel="Vijay TV HD.starhub">
-        <title>Siragadikka Aasai</title>
-    </programme>
-    <programme start="20251028070000 +0000" stop="20251028073000 +0000" channel="Vijay TV HD.starhub">
-        <title>Sakthivel: Theeyaai Oru Theeraakkaadhal</title>
-    </programme>
-    <programme start="20251028073000 +0000" stop="20251028080000 +0000" channel="Vijay TV HD.starhub">
-        <title>Kanmani Anbudan</title>
-    </programme>
-    <programme start="20251028080000 +0000" stop="20251028083000 +0000" channel="Vijay TV HD.starhub">
-        <title>Thendrale Mella Pesu</title>
-    </programme>
-    <programme start="20251028083000 +0000" stop="20251028090000 +0000" channel="Vijay TV HD.starhub">
-        <title>Magale En Marumagale</title>
-    </programme>
-    <programme start="20251028090000 +0000" stop="20251028093000 +0000" channel="Vijay TV HD.starhub">
-        <title>Dhanam - Ungalil Oruthi</title>
-    </programme>
-    <programme start="20251028093000 +0000" stop="20251028100000 +0000" channel="Vijay TV HD.starhub">
-        <title>Ayyanar Thunai</title>
-    </programme>
-    <programme start="20251028100000 +0000" stop="20251028103000 +0000" channel="Vijay TV HD.starhub">
-        <title>Poongatru Thirumbuma</title>
-    </programme>
-    <programme start="20251028103000 +0000" stop="20251028110000 +0000" channel="Vijay TV HD.starhub">
-        <title>Mahanadhi Sagodharigalin Kadhai</title>
-    </programme>
-    <programme start="20251028110000 +0000" stop="20251028113000 +0000" channel="Vijay TV HD.starhub">
-        <title>Sindhu Bairavi Kacheri Arambam</title>
-    </programme>
-    <programme start="20251028113000 +0000" stop="20251028120000 +0000" channel="Vijay TV HD.starhub">
-        <title>Chinna Marumagal Panirendaam Vaguppu</title>
-    </programme>
-    <programme start="20251028120000 +0000" stop="20251028123000 +0000" channel="Vijay TV HD.starhub">
-        <title>Pandian Stores Thanthai Sol Mikka Mandhiram Illai</title>
-    </programme>
-    <programme start="20251028123000 +0000" stop="20251028130000 +0000" channel="Vijay TV HD.starhub">
-        <title>Ayyanar Thunai</title>
-    </programme>
-    <programme start="20251028130000 +0000" stop="20251028133000 +0000" channel="Vijay TV HD.starhub">
-        <title>Siragadikka Aasai</title>
-    </programme>
-    <programme start="20251028133000 +0000" stop="20251028144500 +0000" channel="Vijay TV HD.starhub">
+    <programme start="20251028133000 +0000" stop="20251028150000 +0000" channel="Vijay TV HD.starhub">
         <title>Bigg Boss Tamil</title>
     </programme>
-    <programme start="20251028144500 +0000" stop="20251028153000 +0000" channel="Vijay TV HD.starhub">
-        <title>Bigg Boss Tamil Plus</title>
-    </programme>
-    <programme start="20251028153000 +0000" stop="20251028160000 +0000" channel="Vijay TV HD.starhub">
-        <title>Chinna Marumagal Panirendaam Vaguppu</title>
+    <programme start="20251028150000 +0000" stop="20251028160000 +0000" channel="Vijay TV HD.starhub">
+        <title>Super Singer</title>
     </programme>
     <programme start="20251027160000 +0000" stop="20251027163000 +0000" channel="Asianet.starhub">
         <title>Teacher Amma</title>
@@ -8212,13 +8164,13 @@
     <programme start="20251028043000 +0000" stop="20251028073000 +0000" channel="Asianet Movies.starhub">
         <title>Snehaveedu</title>
     </programme>
-    <programme start="20251028073000 +0000" stop="20251028103000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251028073000 +0000" stop="20251028103500 +0000" channel="Asianet Movies.starhub">
         <title>Bahubali-2</title>
     </programme>
-    <programme start="20251028103000 +0000" stop="20251028133000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251028103500 +0000" stop="20251028133000 +0000" channel="Asianet Movies.starhub">
         <title>In Ghost House Inn</title>
     </programme>
-    <programme start="20251028133000 +0000" stop="20251028163000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251028133000 +0000" stop="20251028162000 +0000" channel="Asianet Movies.starhub">
         <title>Manjummel Boys</title>
     </programme>
     <programme start="20251027143000 +0000" stop="20251027163000 +0000" channel="SPOTV2.starhub">

@@ -670,9 +670,6 @@
 <programme start="20251029114500 +0000" stop="20251029121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
-<programme start="20251027233000 +0000" stop="20251028013000 +0000" channel="ANTV.vision">
-<title>Dia Yang Berhati Baja</title>
-</programme>
 <programme start="20251028013000 +0000" stop="20251028030000 +0000" channel="ANTV.vision">
 <title>Mangal Lakshmi</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20251029031500 +0000" stop="20251029040000 +0000" channel="BTV.vision">
 <title>Ketulusan Hati</title>
+</programme>
+<programme start="20251029040000 +0000" stop="20251029050000 +0000" channel="BTV.vision">
+<title>Berita Satu Siang</title>
 </programme>
