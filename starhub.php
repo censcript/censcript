@@ -8320,7 +8320,7 @@
     <programme start="20251028132500 +0000" stop="20251028150000 +0000" channel="SPOTV2.starhub">
         <title>Practice - MotoGP</title>
     </programme>
-    <programme start="20251028150000 +0000" stop="20251028175500 +0000" channel="SPOTV2.starhub">
+    <programme start="20251028150000 +0000" stop="20251028204000 +0000" channel="SPOTV2.starhub">
         <title>MLB 2025 World Series - Game 3 Los Angeles Dodgers vs Toronto Blue Jays</title>
     </programme>
     <programme start="20251027154500 +0000" stop="20251027163000 +0000" channel="Dragon TV.starhub">
