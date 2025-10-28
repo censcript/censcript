@@ -853,9 +853,6 @@
 <programme start="20251028143000 +0000" stop="20251028153000 +0000" channel="TVOne.vision">
 <title>Kabar Utama</title>
 </programme>
-<programme start="20251028153000 +0000" stop="20251028160000 +0000" channel="TVOne.vision">
-<title>2 Tahun Genosida Gaza</title>
-</programme>
 <programme start="20251028160000 +0000" stop="20251028163000 +0000" channel="TVOne.vision">
 <title>Kabar Hari Ini (L)</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20251029083000 +0000" stop="20251029091500 +0000" channel="BTV.vision">
 <title>Figur Publik</title>
+</programme>
+<programme start="20251029091500 +0000" stop="20251029093000 +0000" channel="BTV.vision">
+<title>Info Seleb</title>
 </programme>
