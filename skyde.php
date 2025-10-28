@@ -1543,6 +1543,63 @@
 <programme start="20251028224000 +0000" stop="20251028230500 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
+<programme start="20251027231500 +0000" stop="20251028004500 +0000" channel="Romance TV HD.skyde">
+    <title>Das Kindermädchen: Mission Kanada</title>
+</programme>
+<programme start="20251028004500 +0000" stop="20251028021500 +0000" channel="Romance TV HD.skyde">
+    <title>Zum Glück gibt&#039;s Schreiner</title>
+</programme>
+<programme start="20251028021500 +0000" stop="20251028030000 +0000" channel="Romance TV HD.skyde">
+    <title>Familie Dr. Kleist</title>
+</programme>
+<programme start="20251028030000 +0000" stop="20251028030500 +0000" channel="Romance TV HD.skyde">
+    <title>Paare</title>
+</programme>
+<programme start="20251028030500 +0000" stop="20251028031000 +0000" channel="Romance TV HD.skyde">
+    <title>Paare</title>
+</programme>
+<programme start="20251028031000 +0000" stop="20251028044000 +0000" channel="Romance TV HD.skyde">
+    <title>Käthe und ich: Im Schatten des Vaters</title>
+</programme>
+<programme start="20251028044000 +0000" stop="20251028061500 +0000" channel="Romance TV HD.skyde">
+    <title>Das Traumhotel: Überraschung in Mexiko</title>
+</programme>
+<programme start="20251028061500 +0000" stop="20251028075500 +0000" channel="Romance TV HD.skyde">
+    <title>Das Traumschiff - Shanghai</title>
+</programme>
+<programme start="20251028075500 +0000" stop="20251028093000 +0000" channel="Romance TV HD.skyde">
+    <title>Dora Heldt: Ausgeliebt</title>
+</programme>
+<programme start="20251028093000 +0000" stop="20251028102500 +0000" channel="Romance TV HD.skyde">
+    <title>Familie Dr. Kleist</title>
+</programme>
+<programme start="20251028102500 +0000" stop="20251028115500 +0000" channel="Romance TV HD.skyde">
+    <title>Familie Bundschuh - Unter Verschluss</title>
+</programme>
+<programme start="20251028115500 +0000" stop="20251028133000 +0000" channel="Romance TV HD.skyde">
+    <title>Das Kindermädchen: Mission Kanada</title>
+</programme>
+<programme start="20251028133000 +0000" stop="20251028150500 +0000" channel="Romance TV HD.skyde">
+    <title>Zum Glück gibt&#039;s Schreiner</title>
+</programme>
+<programme start="20251028150500 +0000" stop="20251028164500 +0000" channel="Romance TV HD.skyde">
+    <title>Das Traumschiff - Malediven</title>
+</programme>
+<programme start="20251028164500 +0000" stop="20251028182000 +0000" channel="Romance TV HD.skyde">
+    <title>Für jede Lösung ein Problem</title>
+</programme>
+<programme start="20251028182000 +0000" stop="20251028191500 +0000" channel="Romance TV HD.skyde">
+    <title>Familie Dr. Kleist</title>
+</programme>
+<programme start="20251028191500 +0000" stop="20251028204500 +0000" channel="Romance TV HD.skyde">
+    <title>Rosamunde Pilcher: Ein Doktor &amp; drei Frauen</title>
+</programme>
+<programme start="20251028204500 +0000" stop="20251028222000 +0000" channel="Romance TV HD.skyde">
+    <title>Rosamunde Pilcher: Nanny verzweifelt gesucht</title>
+</programme>
+<programme start="20251028222000 +0000" stop="20251028231500 +0000" channel="Romance TV HD.skyde">
+    <title>Familie Dr. Kleist</title>
+</programme>
 <programme start="20251027231000 +0000" stop="20251028000000 +0000" channel="Sky Atlantic HD.skyde">
     <title>Outlander</title>
 </programme>
@@ -2685,72 +2742,6 @@
 </programme>
 <programme start="20251028210000 +0000" stop="20251028230000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Rennen - GP Mexiko</title>
-</programme>
-<programme start="20251027230000 +0000" stop="20251027233000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Golf: Highlights Men&#039;s World Amateur Team Championship</title>
-</programme>
-<programme start="20251027233000 +0000" stop="20251028003000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>The Open: Underdogs</title>
-</programme>
-<programme start="20251028003000 +0000" stop="20251028011500 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>The Masters: The Legend of Bernhard Langer</title>
-</programme>
-<programme start="20251028011500 +0000" stop="20251028020000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>The Masters: A Champion&#039;s Dream - Jordan Spieth</title>
-</programme>
-<programme start="20251028020000 +0000" stop="20251028030000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Golf: Highlights Bank of Utah Championship</title>
-</programme>
-<programme start="20251028030000 +0000" stop="20251028033000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Golf: Highlights Genesis Championship</title>
-</programme>
-<programme start="20251028033000 +0000" stop="20251028034500 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Golf: Projekt 0 (1)</title>
-</programme>
-<programme start="20251028034500 +0000" stop="20251028040000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Golf: Projekt 0 (2)</title>
-</programme>
-<programme start="20251028040000 +0000" stop="20251028041500 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Golf: Projekt 0 (3)</title>
-</programme>
-<programme start="20251028041500 +0000" stop="20251028043000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Golf: Projekt 0 (4)</title>
-</programme>
-<programme start="20251028043000 +0000" stop="20251028050000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Golf: Rory: The Long Game</title>
-</programme>
-<programme start="20251028050000 +0000" stop="20251028073000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Golf: Bank of Utah Championship, 4. Tag in Ivins, UT (USA)</title>
-</programme>
-<programme start="20251028073000 +0000" stop="20251028103000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Golf: Genesis Championship, 4. Tag in Incheon (Südkorea)</title>
-</programme>
-<programme start="20251028103000 +0000" stop="20251028104500 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Golf: Follow the Pros (4)</title>
-</programme>
-<programme start="20251028104500 +0000" stop="20251028110000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Golf: Projekt 0 (4)</title>
-</programme>
-<programme start="20251028110000 +0000" stop="20251028133000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Golf: Bank of Utah Championship, 1. Tag in Ivins, UT (USA)</title>
-</programme>
-<programme start="20251028133000 +0000" stop="20251028160000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Golf: Bank of Utah Championship, 2. Tag in Ivins, UT (USA)</title>
-</programme>
-<programme start="20251028160000 +0000" stop="20251028183000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Golf: Bank of Utah Championship, 3. Tag in Ivins, UT (USA)</title>
-</programme>
-<programme start="20251028183000 +0000" stop="20251028210000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Golf: Bank of Utah Championship, 4. Tag in Ivins, UT (USA)</title>
-</programme>
-<programme start="20251028210000 +0000" stop="20251028220000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Golf: Highlights Bank of Utah Championship</title>
-</programme>
-<programme start="20251028220000 +0000" stop="20251028223000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Golf: Highlights Genesis Championship</title>
-</programme>
-<programme start="20251028223000 +0000" stop="20251029013000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Ryder Cup: 3. Tag in Farmingdale, NY (USA)</title>
 </programme>
 <programme start="20251027233000 +0000" stop="20251028023000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NHL: Boston Bruins @ Ottawa Senators</title>

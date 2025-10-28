@@ -676,9 +676,6 @@
 <programme start="20251028093000 +0000" stop="20251028110000 +0000" channel="ANTV.vision">
 <title>Takdir Cinta Layla</title>
 </programme>
-<programme start="20251028110000 +0000" stop="20251028130000 +0000" channel="ANTV.vision">
-<title>Si Rawing 2</title>
-</programme>
 <programme start="20251028130000 +0000" stop="20251028150000 +0000" channel="ANTV.vision">
 <title>Rindu Tak Berujung</title>
 </programme>
@@ -852,9 +849,6 @@
 </programme>
 <programme start="20251028125700 +0000" stop="20251028130000 +0000" channel="TVOne.vision">
 <title>Kabar Terkini</title>
-</programme>
-<programme start="20251028130000 +0000" stop="20251028143000 +0000" channel="TVOne.vision">
-<title>Catatan Demokrasi (L)</title>
 </programme>
 <programme start="20251028143000 +0000" stop="20251028153000 +0000" channel="TVOne.vision">
 <title>Kabar Utama</title>
@@ -1497,4 +1491,10 @@
 </programme>
 <programme start="20251029063000 +0000" stop="20251029080000 +0000" channel="BTV.vision">
 <title>Spot On</title>
+</programme>
+<programme start="20251029080000 +0000" stop="20251029083000 +0000" channel="BTV.vision">
+<title>Dikit-Dikit Damkar</title>
+</programme>
+<programme start="20251029083000 +0000" stop="20251029091500 +0000" channel="BTV.vision">
+<title>Figur Publik</title>
 </programme>
