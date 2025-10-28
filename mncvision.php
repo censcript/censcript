@@ -1309,19 +1309,13 @@
 <programme start="20251028113000 +0000" stop="20251028120000 +0000" channel="beIN Sports 3.mncvision">
     <title>Premier Padel Highlights 2025</title>
 </programme>
-<programme start="20251028120000 +0000" stop="20251028123000 +0000" channel="beIN Sports 3.mncvision">
-    <title>Premier Padel Highlights 2025</title>
-</programme>
-<programme start="20251028123000 +0000" stop="20251028130000 +0000" channel="beIN Sports 3.mncvision">
-    <title>Premier Padel Highlights 2025</title>
-</programme>
-<programme start="20251028130000 +0000" stop="20251028143000 +0000" channel="beIN Sports 3.mncvision">
+<programme start="20251028120000 +0000" stop="20251028133000 +0000" channel="beIN Sports 3.mncvision">
     <title>Premier Padel 2025: Newgiza (L)</title>
 </programme>
-<programme start="20251028143000 +0000" stop="20251028160000 +0000" channel="beIN Sports 3.mncvision">
+<programme start="20251028133000 +0000" stop="20251028150000 +0000" channel="beIN Sports 3.mncvision">
     <title>Premier Padel 2025: Newgiza (L)</title>
 </programme>
-<programme start="20251028160000 +0000" stop="20251028163000 +0000" channel="beIN Sports 3.mncvision">
+<programme start="20251028150000 +0000" stop="20251028153000 +0000" channel="beIN Sports 3.mncvision">
     <title>Premier Padel 2025: Newgiza (L)</title>
 </programme>
 <programme start="20251027170000 +0000" stop="20251027180000 +0000" channel="beIN Sports 3 HD.mncvision">
@@ -1378,19 +1372,13 @@
 <programme start="20251028113000 +0000" stop="20251028120000 +0000" channel="beIN Sports 3 HD.mncvision">
     <title>Premier Padel Highlights 2025</title>
 </programme>
-<programme start="20251028120000 +0000" stop="20251028123000 +0000" channel="beIN Sports 3 HD.mncvision">
-    <title>Premier Padel Highlights 2025</title>
-</programme>
-<programme start="20251028123000 +0000" stop="20251028130000 +0000" channel="beIN Sports 3 HD.mncvision">
-    <title>Premier Padel Highlights 2025</title>
-</programme>
-<programme start="20251028130000 +0000" stop="20251028143000 +0000" channel="beIN Sports 3 HD.mncvision">
+<programme start="20251028120000 +0000" stop="20251028133000 +0000" channel="beIN Sports 3 HD.mncvision">
     <title>Premier Padel 2025: Newgiza (L)</title>
 </programme>
-<programme start="20251028143000 +0000" stop="20251028160000 +0000" channel="beIN Sports 3 HD.mncvision">
+<programme start="20251028133000 +0000" stop="20251028150000 +0000" channel="beIN Sports 3 HD.mncvision">
     <title>Premier Padel 2025: Newgiza (L)</title>
 </programme>
-<programme start="20251028160000 +0000" stop="20251028163000 +0000" channel="beIN Sports 3 HD.mncvision">
+<programme start="20251028150000 +0000" stop="20251028153000 +0000" channel="beIN Sports 3 HD.mncvision">
     <title>Premier Padel 2025: Newgiza (L)</title>
 </programme>
 <programme start="20251027170000 +0000" stop="20251027190000 +0000" channel="beIN SPORTS 4.mncvision">
@@ -8366,7 +8354,7 @@
     <title>WTT Star Contender London</title>
 </programme>
 <programme start="20251028100000 +0000" stop="20251028120000 +0000" channel="SPOTV.mncvision">
-    <title>A-League Men: MAC Vs ADL</title>
+    <title>A-League Men: NEW Vs MVC</title>
 </programme>
 <programme start="20251028120000 +0000" stop="20251028123000 +0000" channel="SPOTV.mncvision">
     <title>WTT Champions Montpellier (L)</title>
@@ -8513,7 +8501,7 @@
     <title>WTT Star Contender London</title>
 </programme>
 <programme start="20251028100000 +0000" stop="20251028120000 +0000" channel="SPOTV HD.mncvision">
-    <title>A-League Men: MAC Vs ADL</title>
+    <title>A-League Men: NEW Vs MVC</title>
 </programme>
 <programme start="20251028120000 +0000" stop="20251028123000 +0000" channel="SPOTV HD.mncvision">
     <title>WTT Champions Montpellier (L)</title>

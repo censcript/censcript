@@ -2254,11 +2254,8 @@
     <programme start="20251028060000 +0000" stop="20251028074500 +0000" channel="CNN HD.starhub">
         <title>CNN Newsroom (CNNI)</title>
     </programme>
-    <programme start="20251028074500 +0000" stop="20251028080000 +0000" channel="CNN HD.starhub">
+    <programme start="20251028074500 +0000" stop="20251028090000 +0000" channel="CNN HD.starhub">
         <title>World Sport</title>
-    </programme>
-    <programme start="20251028080000 +0000" stop="20251028090000 +0000" channel="CNN HD.starhub">
-        <title>Amanpour</title>
     </programme>
     <programme start="20251028090000 +0000" stop="20251028100000 +0000" channel="CNN HD.starhub">
         <title>Early Start with Rahel Solomon</title>
@@ -2269,11 +2266,8 @@
     <programme start="20251028110000 +0000" stop="20251028120000 +0000" channel="CNN HD.starhub">
         <title>CNN News Central</title>
     </programme>
-    <programme start="20251028120000 +0000" stop="20251028123000 +0000" channel="CNN HD.starhub">
-        <title>CNN News Central (AM) (30m)</title>
-    </programme>
-    <programme start="20251028123000 +0000" stop="20251028130000 +0000" channel="CNN HD.starhub">
-        <title>World Sport</title>
+    <programme start="20251028120000 +0000" stop="20251028130000 +0000" channel="CNN HD.starhub">
+        <title>CNN News Central</title>
     </programme>
     <programme start="20251028130000 +0000" stop="20251028134500 +0000" channel="CNN HD.starhub">
         <title>Connect the World</title>
@@ -3907,10 +3901,10 @@
     <programme start="20251027183000 +0000" stop="20251027184500 +0000" channel="NHK World Premium HD.starhub">
         <title>Drama Serial &quot;The Ghost Writer&#039;s Wife&quot; Eps. 21 (R)</title>
     </programme>
-    <programme start="20251027184500 +0000" stop="20251027191000 +0000" channel="NHK World Premium HD.starhub">
-        <title>NHK Regional Showcases: Nagasaki Special (R)</title>
+    <programme start="20251027184500 +0000" stop="20251027191300 +0000" channel="NHK World Premium HD.starhub">
+        <title>Journeys in Japan Encore (B) (R)</title>
     </programme>
-    <programme start="20251027191200 +0000" stop="20251027191500 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20251027191300 +0000" stop="20251027191500 +0000" channel="NHK World Premium HD.starhub">
         <title>World Weather</title>
     </programme>
     <programme start="20251027191500 +0000" stop="20251027200000 +0000" channel="NHK World Premium HD.starhub">
@@ -4816,6 +4810,9 @@
     <programme start="20251027213000 +0000" stop="20251027220000 +0000" channel="Vijay TV HD.starhub">
         <title>Ayyanar Thunai</title>
     </programme>
+    <programme start="20251027220000 +0000" stop="20251027223000 +0000" channel="Vijay TV HD.starhub">
+        <title>Chinna Marumagal Panirendaam Vaguppu Sendra Vaaram</title>
+    </programme>
     <programme start="20251027223000 +0000" stop="20251028000000 +0000" channel="Vijay TV HD.starhub">
         <title>Super Singer</title>
     </programme>
@@ -5215,8 +5212,11 @@
     <programme start="20251028003000 +0000" stop="20251028010000 +0000" channel="SPOTV.starhub">
         <title>Highlights</title>
     </programme>
-    <programme start="20251028010000 +0000" stop="20251028053000 +0000" channel="SPOTV.starhub">
+    <programme start="20251028010000 +0000" stop="20251028042000 +0000" channel="SPOTV.starhub">
         <title>Day 2 Session 2</title>
+    </programme>
+    <programme start="20251028042000 +0000" stop="20251028053000 +0000" channel="SPOTV.starhub">
+        <title>Highlights</title>
     </programme>
     <programme start="20251028053000 +0000" stop="20251028063000 +0000" channel="SPOTV.starhub">
         <title>Saquarema Pro Challenger Series Finals Day - Highlights</title>
@@ -5228,7 +5228,7 @@
         <title>Day 4 Session 2</title>
     </programme>
     <programme start="20251028100000 +0000" stop="20251028120000 +0000" channel="SPOTV.starhub">
-        <title>Macarthur FC vs Adelaide United</title>
+        <title>Newcastle Jets FC vs Melbourne Victory</title>
     </programme>
     <programme start="20251028120000 +0000" stop="20251028170000 +0000" channel="SPOTV.starhub">
         <title>Day 1 Session 1</title>
