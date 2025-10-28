@@ -6776,13 +6776,13 @@
         <title>Guangzhou Open (250) QF 4</title>
     </programme>
     <programme start="20251028100000 +0000" stop="20251028103000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Spartan 100M World Championship Highlights</title>
+        <title>Spartan 100M World C&#039;ship H/Ls</title>
     </programme>
     <programme start="20251028103000 +0000" stop="20251028153000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>YONEX French Open (Super 750) SF Session 2</title>
     </programme>
     <programme start="20251028153000 +0000" stop="20251028160000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Spartan Super World Championship Mammoth Highlights</title>
+        <title>Spartan Super World C&#039;ship Mammoth H/Ls</title>
     </programme>
     <programme start="20251027142500 +0000" stop="20251027165800 +0000" channel="SONY MAX.starhub">
         <title>12th Fail</title>

@@ -95,7 +95,7 @@
     <title>Navy CIS</title>
 </programme>
 <programme start="20251027234500 +0000" stop="20251028003000 +0000" channel="Beate Uhse HD.skyde">
-    <title>Intimes Deutschland</title>
+    <title>Intimes Deutschland Spezial</title>
 </programme>
 <programme start="20251028003000 +0000" stop="20251028005500 +0000" channel="Beate Uhse HD.skyde">
     <title>Sex Video Privat mit Harry S. Morgan</title>
@@ -889,31 +889,28 @@
 <programme start="20251027230000 +0000" stop="20251028070000 +0000" channel="DAZN 1 HD.skyde">
     <title>Sendepause</title>
 </programme>
-<programme start="20251028070000 +0000" stop="20251028072000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20251028070000 +0000" stop="20251028073000 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20251028072000 +0000" stop="20251028083000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20251028073000 +0000" stop="20251028084000 +0000" channel="DAZN 1 HD.skyde">
     <title>ALL IN - Die Bundesliga Highlight Show: 8. Spieltag</title>
 </programme>
-<programme start="20251028083000 +0000" stop="20251028103000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20251028084000 +0000" stop="20251028104000 +0000" channel="DAZN 1 HD.skyde">
     <title>Bundesliga: SV Werder Bremen - 1. FC Union Berlin</title>
 </programme>
-<programme start="20251028103000 +0000" stop="20251028122500 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20251028104000 +0000" stop="20251028125000 +0000" channel="DAZN 1 HD.skyde">
     <title>Bundesliga: Borussia Dortmund - 1. FC Köln</title>
 </programme>
-<programme start="20251028122500 +0000" stop="20251028130000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
-</programme>
-<programme start="20251028130000 +0000" stop="20251028145000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20251028125000 +0000" stop="20251028145000 +0000" channel="DAZN 1 HD.skyde">
     <title>Bundesliga: Borussia M&#039;gladbach - FC Bayern München</title>
 </programme>
-<programme start="20251028145000 +0000" stop="20251028152500 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20251028145000 +0000" stop="20251028151500 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20251028152500 +0000" stop="20251028170000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20251028151500 +0000" stop="20251028165000 +0000" channel="DAZN 1 HD.skyde">
     <title>VfB in Team: Folge 10 - Das Saisonfinale</title>
 </programme>
-<programme start="20251028170000 +0000" stop="20251028172500 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20251028165000 +0000" stop="20251028172500 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
 <programme start="20251028172500 +0000" stop="20251028194000 +0000" channel="DAZN 1 HD.skyde">
@@ -2821,10 +2818,10 @@
 <programme start="20251028043000 +0000" stop="20251028051500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>World Surf League: Replay: Ericeira Pro Challenger Series Finals Day</title>
 </programme>
-<programme start="20251028051500 +0000" stop="20251028060000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20251028051500 +0000" stop="20251028060500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>World Surf League: Replay: Saquarema Pro Challenger Series Finals Day</title>
 </programme>
-<programme start="20251028060000 +0000" stop="20251028080000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20251028060500 +0000" stop="20251028080000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Boston Bruins @ Ottawa Senators</title>
 </programme>
 <programme start="20251028080000 +0000" stop="20251028100000 +0000" channel="Sky Sport Mix HD.skyde">
@@ -2887,7 +2884,10 @@
 <programme start="20251028080000 +0000" stop="20251028090000 +0000" channel="Sky Sport News HD.skyde">
     <title>BL: Glanzparade - Die Show mit Buschmann, Fuss und Wagner</title>
 </programme>
-<programme start="20251028090000 +0000" stop="20251028100000 +0000" channel="Sky Sport News HD.skyde">
+<programme start="20251028090000 +0000" stop="20251028093000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: FCB-PK</title>
+</programme>
+<programme start="20251028093000 +0000" stop="20251028100000 +0000" channel="Sky Sport News HD.skyde">
     <title>Sky Sport News: Der Morgen</title>
 </programme>
 <programme start="20251028100000 +0000" stop="20251028110000 +0000" channel="Sky Sport News HD.skyde">
@@ -3034,14 +3034,14 @@
 <programme start="20251028223000 +0000" stop="20251028230000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: Club 100: Ryan Giggs</title>
 </programme>
-<programme start="20251027230000 +0000" stop="20251028010000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: D. Altmaier (GER) - M. Giron (USA), Rolex Paris Masters in Paris (FRA), 1. Tag</title>
-</programme>
 <programme start="20251028010000 +0000" stop="20251028020000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: Review Wien</title>
 </programme>
-<programme start="20251028020000 +0000" stop="20251028043000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20251028020000 +0000" stop="20251028040000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: J. Fonseca (BRA) - A. Davidovich Fokina (ESP), Swiss Indoors Basel in Basel (Schweiz), Finale</title>
+</programme>
+<programme start="20251028040000 +0000" stop="20251028043000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>Meine Geschichte: Das Leben von Boris Becker (Teil 2)</title>
 </programme>
 <programme start="20251028043000 +0000" stop="20251028063000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: D. Altmaier (GER) - M. Giron (USA), Rolex Paris Masters in Paris (FRA), 1. Tag</title>
@@ -3061,20 +3061,17 @@
 <programme start="20251028220000 +0000" stop="20251028230000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: Review Wien</title>
 </programme>
-<programme start="20251027230000 +0000" stop="20251028013000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20251027230000 +0000" stop="20251028014500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Cleveland Cavaliers @ Detroit Pistons</title>
 </programme>
-<programme start="20251028013000 +0000" stop="20251028040000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20251028014500 +0000" stop="20251028041500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Denver Nuggets @ Minnesota Timberwolves</title>
 </programme>
-<programme start="20251028040000 +0000" stop="20251028043000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20251028041500 +0000" stop="20251028044500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Showtime - Post Show</title>
 </programme>
-<programme start="20251028043000 +0000" stop="20251028053000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20251028044500 +0000" stop="20251028054500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>ATP 500: Review Basel</title>
-</programme>
-<programme start="20251028053000 +0000" stop="20251028054500 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>2. BL: Torparade 10. Spieltag</title>
 </programme>
 <programme start="20251028054500 +0000" stop="20251028060000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>BL: Torparade 8. Spieltag</title>
@@ -3094,13 +3091,13 @@
 <programme start="20251028214500 +0000" stop="20251028230000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live DFB-Pokal: Alle Spiele, alle Tore, 2. Runde, Dienstag</title>
 </programme>
-<programme start="20251027230000 +0000" stop="20251028013000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20251027230000 +0000" stop="20251028014500 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Cleveland Cavaliers @ Detroit Pistons</title>
 </programme>
-<programme start="20251028013000 +0000" stop="20251028040000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20251028014500 +0000" stop="20251028041500 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Denver Nuggets @ Minnesota Timberwolves</title>
 </programme>
-<programme start="20251028040000 +0000" stop="20251028053000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20251028041500 +0000" stop="20251028053000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime - Post Show</title>
 </programme>
 <programme start="20251028161000 +0000" stop="20251028163000 +0000" channel="Sky Sport 1 HD.skyde">
@@ -3109,7 +3106,7 @@
 <programme start="20251028163000 +0000" stop="20251028214500 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live DFB-Pokal: Dienstags-Konferenz, 2. Runde</title>
 </programme>
-<programme start="20251028214500 +0000" stop="20251028230000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20251028214500 +0000" stop="20251029000000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live DFB-Pokal: Alle Spiele, alle Tore, 2. Runde, Dienstag</title>
 </programme>
 <programme start="20251028161000 +0000" stop="20251028163000 +0000" channel="Sky Sport 2 HD.skyde">
@@ -3118,7 +3115,7 @@
 <programme start="20251028163000 +0000" stop="20251028194500 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live DFB-Pokal: Eintracht Frankfurt - Borussia Dortmund, 2. Runde</title>
 </programme>
-<programme start="20251028194500 +0000" stop="20251028220000 +0000" channel="Sky Sport 2 HD.skyde">
+<programme start="20251028194500 +0000" stop="20251028230000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live DFB-Pokal: Borussia M&#039;gladbach - Karlsruher SC, 2. Runde</title>
 </programme>
 <programme start="20251028161000 +0000" stop="20251028163000 +0000" channel="Sky Sport 3 HD.skyde">
@@ -3127,7 +3124,7 @@
 <programme start="20251028163000 +0000" stop="20251028193500 +0000" channel="Sky Sport 3 HD.skyde">
     <title>Live DFB-Pokal: 1. FC Heidenheim - Hamburger SV, 2. Runde</title>
 </programme>
-<programme start="20251028193500 +0000" stop="20251028230000 +0000" channel="Sky Sport 3 HD.skyde">
+<programme start="20251028193500 +0000" stop="20251028220000 +0000" channel="Sky Sport 3 HD.skyde">
     <title>Live DFB-Pokal: FC St. Pauli - TSG Hoffenheim, 2. Runde</title>
 </programme>
 <programme start="20251028161000 +0000" stop="20251028163000 +0000" channel="Sky Sport 4 HD.skyde">
@@ -3136,7 +3133,7 @@
 <programme start="20251028163000 +0000" stop="20251028193500 +0000" channel="Sky Sport 4 HD.skyde">
     <title>Live DFB-Pokal: VfL Wolfsburg - Holstein Kiel, 2. Runde</title>
 </programme>
-<programme start="20251028193500 +0000" stop="20251028220000 +0000" channel="Sky Sport 4 HD.skyde">
+<programme start="20251028193500 +0000" stop="20251028230000 +0000" channel="Sky Sport 4 HD.skyde">
     <title>Live DFB-Pokal: Energie Cottbus - RB Leipzig, 2. Runde</title>
 </programme>
 <programme start="20251028161000 +0000" stop="20251028163000 +0000" channel="Sky Sport 5 HD.skyde">
@@ -3145,7 +3142,7 @@
 <programme start="20251028163000 +0000" stop="20251028193500 +0000" channel="Sky Sport 5 HD.skyde">
     <title>Live DFB-Pokal: Hertha BSC - SV Elversberg, 2. Runde</title>
 </programme>
-<programme start="20251028193500 +0000" stop="20251028220000 +0000" channel="Sky Sport 5 HD.skyde">
+<programme start="20251028193500 +0000" stop="20251028230000 +0000" channel="Sky Sport 5 HD.skyde">
     <title>Live DFB-Pokal: FC Augsburg - VfL Bochum, 2. Runde</title>
 </programme>
 <programme start="20251028191500 +0000" stop="20251028193500 +0000" channel="Sky Sport 6 HD.skyde">
@@ -3163,13 +3160,13 @@
 <programme start="20251028191500 +0000" stop="20251028193500 +0000" channel="Sky Sport 8 HD.skyde">
     <title>Es folgt: DFB-Pokal</title>
 </programme>
-<programme start="20251028193500 +0000" stop="20251028230000 +0000" channel="Sky Sport 8 HD.skyde">
+<programme start="20251028193500 +0000" stop="20251028220000 +0000" channel="Sky Sport 8 HD.skyde">
     <title>Live DFB-Pokal: Energie Cottbus - RB Leipzig, 2. Runde</title>
 </programme>
 <programme start="20251028191500 +0000" stop="20251028193500 +0000" channel="Sky Sport 9 HD.skyde">
     <title>Es folgt: DFB-Pokal</title>
 </programme>
-<programme start="20251028193500 +0000" stop="20251028220000 +0000" channel="Sky Sport 9 HD.skyde">
+<programme start="20251028193500 +0000" stop="20251028230000 +0000" channel="Sky Sport 9 HD.skyde">
     <title>Live DFB-Pokal: FC Augsburg - VfL Bochum, 2. Runde</title>
 </programme>
 <programme start="20251027232000 +0000" stop="20251028000500 +0000" channel="SYFY HD.skyde">
@@ -3409,19 +3406,19 @@
 <programme start="20251028044500 +0000" stop="20251028050500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20251028050500 +0000" stop="20251028053000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251028050500 +0000" stop="20251028053500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20251028053000 +0000" stop="20251028060000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251028053500 +0000" stop="20251028060000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Die Nanny</title>
 </programme>
 <programme start="20251028060000 +0000" stop="20251028062500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Die Nanny</title>
 </programme>
-<programme start="20251028062500 +0000" stop="20251028065000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251028062500 +0000" stop="20251028065500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Die Nanny</title>
 </programme>
-<programme start="20251028065000 +0000" stop="20251028072000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251028065500 +0000" stop="20251028072000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Die Nanny</title>
 </programme>
 <programme start="20251028072000 +0000" stop="20251028074500 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3532,16 +3529,16 @@
 <programme start="20251028214000 +0000" stop="20251028220500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Rick and Morty</title>
 </programme>
-<programme start="20251028220500 +0000" stop="20251028221500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251028220500 +0000" stop="20251028222000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Robot Chicken</title>
 </programme>
-<programme start="20251028221500 +0000" stop="20251028223000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251028222000 +0000" stop="20251028223000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Robot Chicken</title>
 </programme>
-<programme start="20251028223000 +0000" stop="20251028224000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251028223000 +0000" stop="20251028224500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Robot Chicken</title>
 </programme>
-<programme start="20251028224000 +0000" stop="20251028225500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251028224500 +0000" stop="20251028225500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Robot Chicken</title>
 </programme>
 <programme start="20251028225500 +0000" stop="20251028232000 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3574,10 +3571,10 @@
 <programme start="20251028121500 +0000" stop="20251028135500 +0000" channel="Warner TV Film.skyde">
     <title>Rush Hour</title>
 </programme>
-<programme start="20251028135500 +0000" stop="20251028153000 +0000" channel="Warner TV Film.skyde">
+<programme start="20251028135500 +0000" stop="20251028152500 +0000" channel="Warner TV Film.skyde">
     <title>Rush Hour 2</title>
 </programme>
-<programme start="20251028153000 +0000" stop="20251028170500 +0000" channel="Warner TV Film.skyde">
+<programme start="20251028152500 +0000" stop="20251028170500 +0000" channel="Warner TV Film.skyde">
     <title>Stichtag - Schluss mit gemütlich</title>
 </programme>
 <programme start="20251028170500 +0000" stop="20251028191500 +0000" channel="Warner TV Film.skyde">
@@ -3616,10 +3613,10 @@
 <programme start="20251028121500 +0000" stop="20251028135500 +0000" channel="Warner TV Film HD.skyde">
     <title>Rush Hour</title>
 </programme>
-<programme start="20251028135500 +0000" stop="20251028153000 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20251028135500 +0000" stop="20251028152500 +0000" channel="Warner TV Film HD.skyde">
     <title>Rush Hour 2</title>
 </programme>
-<programme start="20251028153000 +0000" stop="20251028170500 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20251028152500 +0000" stop="20251028170500 +0000" channel="Warner TV Film HD.skyde">
     <title>Stichtag - Schluss mit gemütlich</title>
 </programme>
 <programme start="20251028170500 +0000" stop="20251028191500 +0000" channel="Warner TV Film HD.skyde">
