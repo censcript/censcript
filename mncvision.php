@@ -152,7 +152,7 @@
     <title>News (L)</title>
 </programme>
 <programme start="20251028043000 +0000" stop="20251028050000 +0000" channel="Al Jazeera English.mncvision">
-    <title>The Stream</title>
+    <title>The Stream: Is Africa The...</title>
 </programme>
 <programme start="20251028050000 +0000" stop="20251028053000 +0000" channel="Al Jazeera English.mncvision">
     <title>News (L)</title>
@@ -179,7 +179,7 @@
     <title>News (L)</title>
 </programme>
 <programme start="20251028093000 +0000" stop="20251028100000 +0000" channel="Al Jazeera English.mncvision">
-    <title>The Listening Post</title>
+    <title>Fault Lines: Crackdown</title>
 </programme>
 <programme start="20251028100000 +0000" stop="20251028110000 +0000" channel="Al Jazeera English.mncvision">
     <title>NewsHour</title>
@@ -200,7 +200,7 @@
     <title>News (L)</title>
 </programme>
 <programme start="20251028143000 +0000" stop="20251028150000 +0000" channel="Al Jazeera English.mncvision">
-    <title>The Stream</title>
+    <title>The Stream: Is Africa The...</title>
 </programme>
 <programme start="20251028150000 +0000" stop="20251028160000 +0000" channel="Al Jazeera English.mncvision">
     <title>NewsHour</title>

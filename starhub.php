@@ -2128,17 +2128,14 @@
     <programme start="20251028113000 +0000" stop="20251028120000 +0000" channel="beIN Sports 3.starhub">
         <title>Riyadh P1</title>
     </programme>
-    <programme start="20251028120000 +0000" stop="20251028123000 +0000" channel="beIN Sports 3.starhub">
-        <title>Cancun P2</title>
-    </programme>
-    <programme start="20251028123000 +0000" stop="20251028130000 +0000" channel="beIN Sports 3.starhub">
-        <title>Riyadh P1</title>
-    </programme>
-    <programme start="20251028130000 +0000" stop="20251028143000 +0000" channel="beIN Sports 3.starhub">
+    <programme start="20251028120000 +0000" stop="20251028133000 +0000" channel="beIN Sports 3.starhub">
         <title>Newgiza P2 Day 2 Match 4</title>
     </programme>
-    <programme start="20251028143000 +0000" stop="20251028160000 +0000" channel="beIN Sports 3.starhub">
+    <programme start="20251028133000 +0000" stop="20251028150000 +0000" channel="beIN Sports 3.starhub">
         <title>Newgiza P2 Day 2 Match 5</title>
+    </programme>
+    <programme start="20251028150000 +0000" stop="20251028160000 +0000" channel="beIN Sports 3.starhub">
+        <title>Newgiza P2 Day 2 Match 6</title>
     </programme>
     <programme start="20251027153000 +0000" stop="20251027163000 +0000" channel="Sun Music.starhub">
         <title>Non Stop Hits</title>
