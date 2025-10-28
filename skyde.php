@@ -550,10 +550,10 @@
 <programme start="20251028041500 +0000" stop="20251028043000 +0000" channel="Cartoonito.skyde">
     <title>Geschichten von Kröterich &amp; Co.</title>
 </programme>
-<programme start="20251028043000 +0000" stop="20251028044200 +0000" channel="Cartoonito.skyde">
+<programme start="20251028043000 +0000" stop="20251028044000 +0000" channel="Cartoonito.skyde">
     <title>Geschichten von Kröterich &amp; Co.</title>
 </programme>
-<programme start="20251028044200 +0000" stop="20251028050000 +0000" channel="Cartoonito.skyde">
+<programme start="20251028044000 +0000" stop="20251028050000 +0000" channel="Cartoonito.skyde">
     <title>Geschichten von Kröterich &amp; Co.</title>
 </programme>
 <programme start="20251028050000 +0000" stop="20251028050500 +0000" channel="Cartoonito.skyde">
@@ -685,10 +685,10 @@
 <programme start="20251028133000 +0000" stop="20251028140000 +0000" channel="Cartoonito.skyde">
     <title>Bleib cool, Scooby-Doo!</title>
 </programme>
-<programme start="20251028140000 +0000" stop="20251028142500 +0000" channel="Cartoonito.skyde">
+<programme start="20251028140000 +0000" stop="20251028143000 +0000" channel="Cartoonito.skyde">
     <title>Bleib cool, Scooby-Doo!</title>
 </programme>
-<programme start="20251028142500 +0000" stop="20251028145500 +0000" channel="Cartoonito.skyde">
+<programme start="20251028143000 +0000" stop="20251028145500 +0000" channel="Cartoonito.skyde">
     <title>Bleib cool, Scooby-Doo!</title>
 </programme>
 <programme start="20251028145500 +0000" stop="20251028152500 +0000" channel="Cartoonito.skyde">
@@ -715,31 +715,31 @@
 <programme start="20251028164500 +0000" stop="20251028165500 +0000" channel="Cartoonito.skyde">
     <title>Lamput</title>
 </programme>
-<programme start="20251028165500 +0000" stop="20251028170000 +0000" channel="Cartoonito.skyde">
+<programme start="20251028165500 +0000" stop="20251028170500 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20251028170000 +0000" stop="20251028170500 +0000" channel="Cartoonito.skyde">
+<programme start="20251028170500 +0000" stop="20251028171000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20251028170500 +0000" stop="20251028172000 +0000" channel="Cartoonito.skyde">
+<programme start="20251028171000 +0000" stop="20251028172500 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20251028172000 +0000" stop="20251028173000 +0000" channel="Cartoonito.skyde">
+<programme start="20251028172500 +0000" stop="20251028173000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
 <programme start="20251028173000 +0000" stop="20251028173500 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20251028173500 +0000" stop="20251028174000 +0000" channel="Cartoonito.skyde">
+<programme start="20251028173500 +0000" stop="20251028174500 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20251028174000 +0000" stop="20251028180000 +0000" channel="Cartoonito.skyde">
+<programme start="20251028174500 +0000" stop="20251028180000 +0000" channel="Cartoonito.skyde">
     <title>SuperThings: Rivalen von Kaboom - Kazoom-Power</title>
 </programme>
-<programme start="20251028180000 +0000" stop="20251028182500 +0000" channel="Cartoonito.skyde">
+<programme start="20251028180000 +0000" stop="20251028183000 +0000" channel="Cartoonito.skyde">
     <title>Bleib cool, Scooby-Doo!</title>
 </programme>
-<programme start="20251028182500 +0000" stop="20251028185000 +0000" channel="Cartoonito.skyde">
+<programme start="20251028183000 +0000" stop="20251028185000 +0000" channel="Cartoonito.skyde">
     <title>Bleib cool, Scooby-Doo!</title>
 </programme>
 <programme start="20251028185000 +0000" stop="20251028190000 +0000" channel="Cartoonito.skyde">
@@ -769,10 +769,10 @@
 <programme start="20251028202500 +0000" stop="20251028203000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20251028203000 +0000" stop="20251028203500 +0000" channel="Cartoonito.skyde">
+<programme start="20251028203000 +0000" stop="20251028204000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20251028203500 +0000" stop="20251028204500 +0000" channel="Cartoonito.skyde">
+<programme start="20251028204000 +0000" stop="20251028204500 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
 <programme start="20251028204500 +0000" stop="20251028210000 +0000" channel="Cartoonito.skyde">
@@ -3124,7 +3124,7 @@
 <programme start="20251028163000 +0000" stop="20251028193500 +0000" channel="Sky Sport 3 HD.skyde">
     <title>Live DFB-Pokal: 1. FC Heidenheim - Hamburger SV, 2. Runde</title>
 </programme>
-<programme start="20251028193500 +0000" stop="20251028220000 +0000" channel="Sky Sport 3 HD.skyde">
+<programme start="20251028193500 +0000" stop="20251028230000 +0000" channel="Sky Sport 3 HD.skyde">
     <title>Live DFB-Pokal: FC St. Pauli - TSG Hoffenheim, 2. Runde</title>
 </programme>
 <programme start="20251028161000 +0000" stop="20251028163000 +0000" channel="Sky Sport 4 HD.skyde">
@@ -3142,7 +3142,7 @@
 <programme start="20251028163000 +0000" stop="20251028193500 +0000" channel="Sky Sport 5 HD.skyde">
     <title>Live DFB-Pokal: Hertha BSC - SV Elversberg, 2. Runde</title>
 </programme>
-<programme start="20251028193500 +0000" stop="20251028230000 +0000" channel="Sky Sport 5 HD.skyde">
+<programme start="20251028193500 +0000" stop="20251028220000 +0000" channel="Sky Sport 5 HD.skyde">
     <title>Live DFB-Pokal: FC Augsburg - VfL Bochum, 2. Runde</title>
 </programme>
 <programme start="20251028191500 +0000" stop="20251028193500 +0000" channel="Sky Sport 6 HD.skyde">
@@ -3154,13 +3154,13 @@
 <programme start="20251028191500 +0000" stop="20251028193500 +0000" channel="Sky Sport 7 HD.skyde">
     <title>Es folgt: DFB-Pokal</title>
 </programme>
-<programme start="20251028193500 +0000" stop="20251028220000 +0000" channel="Sky Sport 7 HD.skyde">
+<programme start="20251028193500 +0000" stop="20251028230000 +0000" channel="Sky Sport 7 HD.skyde">
     <title>Live DFB-Pokal: FC St. Pauli - TSG Hoffenheim, 2. Runde</title>
 </programme>
 <programme start="20251028191500 +0000" stop="20251028193500 +0000" channel="Sky Sport 8 HD.skyde">
     <title>Es folgt: DFB-Pokal</title>
 </programme>
-<programme start="20251028193500 +0000" stop="20251028220000 +0000" channel="Sky Sport 8 HD.skyde">
+<programme start="20251028193500 +0000" stop="20251028230000 +0000" channel="Sky Sport 8 HD.skyde">
     <title>Live DFB-Pokal: Energie Cottbus - RB Leipzig, 2. Runde</title>
 </programme>
 <programme start="20251028191500 +0000" stop="20251028193500 +0000" channel="Sky Sport 9 HD.skyde">
