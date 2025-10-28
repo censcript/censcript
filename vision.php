@@ -394,9 +394,6 @@
 <programme start="20251028133000 +0000" stop="20251028143000 +0000" channel="SindoNews.vision">
 <title>Inside Story</title>
 </programme>
-<programme start="20251028143000 +0000" stop="20251028153000 +0000" channel="SindoNews.vision">
-<title>SINDO Malam</title>
-</programme>
 <programme start="20251028153000 +0000" stop="20251028163000 +0000" channel="SindoNews.vision">
 <title>SINDO Files</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20251029060000 +0000" stop="20251029063000 +0000" channel="BTV.vision">
 <title>Investor Daily Talk</title>
+</programme>
+<programme start="20251029063000 +0000" stop="20251029080000 +0000" channel="BTV.vision">
+<title>Spot On</title>
 </programme>
