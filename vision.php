@@ -568,9 +568,6 @@
 <programme start="20251028054500 +0000" stop="20251028063000 +0000" channel="Trans 7.vision">
 <title>Indonesiaku</title>
 </programme>
-<programme start="20251028063000 +0000" stop="20251028071500 +0000" channel="Trans 7.vision">
-<title>Ujung-Ujungnya Damkar</title>
-</programme>
 <programme start="20251028071500 +0000" stop="20251028081500 +0000" channel="Trans 7.vision">
 <title>Redaksi</title>
 </programme>
@@ -672,9 +669,6 @@
 </programme>
 <programme start="20251028013000 +0000" stop="20251028030000 +0000" channel="ANTV.vision">
 <title>Mangal Lakshmi</title>
-</programme>
-<programme start="20251028030000 +0000" stop="20251028063000 +0000" channel="ANTV.vision">
-<title>Koi Mil Gaya</title>
 </programme>
 <programme start="20251028063000 +0000" stop="20251028080000 +0000" channel="ANTV.vision">
 <title>Cinta Keluarga Pandya</title>
@@ -1497,4 +1491,10 @@
 </programme>
 <programme start="20251029040000 +0000" stop="20251029050000 +0000" channel="BTV.vision">
 <title>Berita Satu Siang</title>
+</programme>
+<programme start="20251029050000 +0000" stop="20251029060000 +0000" channel="BTV.vision">
+<title>Investor Market Today</title>
+</programme>
+<programme start="20251029060000 +0000" stop="20251029063000 +0000" channel="BTV.vision">
+<title>Investor Daily Talk</title>
 </programme>

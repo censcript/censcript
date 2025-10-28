@@ -58,10 +58,6 @@
     <title>Football: Union Saint-Gilloise - FC Internazionale Milano</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251028140500 +0700" stop="20251028160000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Parma - Como</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251028160000 +0700" stop="20251028175500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Udinese - Lecce</title>
     <desc>Live: Tidak</desc>
@@ -120,6 +116,10 @@
 </programme>
 <programme start="20251029141000 +0700" stop="20251029161000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Lecce - SSC Napoli</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251029161000 +0700" stop="20251029181500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Kifisia - Athens Kallithea FC</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251028141500 +0700" stop="20251028161500 +0700" channel="COSMOTE Sport 3 HD">
@@ -182,8 +182,8 @@
     <title>Football: SL Benfica - Arouca</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251028132000 +0700" stop="20251028152000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Real Madrid - Manresa</title>
+<programme start="20251029161000 +0700" stop="20251029180500 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Ipswich Town - West Bromwich Albion</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251028152000 +0700" stop="20251028172000 +0700" channel="COSMOTE Sport 4 HD">
@@ -242,12 +242,8 @@
     <title>Pick n&#039; Roll</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251028141500 +0700" stop="20251028151500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>2025 FIM Women&#039;s Circuit Racing World Championship</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251028151500 +0700" stop="20251028154500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Extreme E - Highlights 2025</title>
+<programme start="20251029163000 +0700" stop="20251029170000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>NBA Specials</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251028154500 +0700" stop="20251028165000 +0700" channel="COSMOTE Sport 5 HD">
@@ -334,8 +330,8 @@
     <title>Grand Prix Show 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251028113000 +0700" stop="20251028153000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: ATP Masters 1000 2025</title>
+<programme start="20251029162500 +0700" stop="20251029175000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>DTM 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251028153000 +0700" stop="20251028170000 +0700" channel="COSMOTE Sport 6 HD">

@@ -3142,7 +3142,7 @@
 <programme start="20251028163000 +0000" stop="20251028193500 +0000" channel="Sky Sport 5 HD.skyde">
     <title>Live DFB-Pokal: Hertha BSC - SV Elversberg, 2. Runde</title>
 </programme>
-<programme start="20251028193500 +0000" stop="20251028220000 +0000" channel="Sky Sport 5 HD.skyde">
+<programme start="20251028193500 +0000" stop="20251028230000 +0000" channel="Sky Sport 5 HD.skyde">
     <title>Live DFB-Pokal: FC Augsburg - VfL Bochum, 2. Runde</title>
 </programme>
 <programme start="20251028191500 +0000" stop="20251028193500 +0000" channel="Sky Sport 6 HD.skyde">
