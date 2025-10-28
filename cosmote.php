@@ -58,10 +58,6 @@
     <title>Football: Villarreal CF - Manchester City FC</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251028160000 +0700" stop="20251028175500 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Udinese - Lecce</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251028175500 +0700" stop="20251028200000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Panathinaikos - Asteras Aktor</title>
     <desc>Live: Tidak</desc>
@@ -120,6 +116,10 @@
 </programme>
 <programme start="20251029161000 +0700" stop="20251029181500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Kifisia - Athens Kallithea FC</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251029181500 +0700" stop="20251029203000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Olympiacos - AEK</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251028161500 +0700" stop="20251028181500 +0700" channel="COSMOTE Sport 3 HD">
@@ -182,8 +182,8 @@
     <title>Football: Ipswich Town - West Bromwich Albion</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251028152000 +0700" stop="20251028172000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Igokea - Trieste</title>
+<programme start="20251029180500 +0700" stop="20251029200000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Atletico Mineiro - Independiente del Valle</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251028172000 +0700" stop="20251028195000 +0700" channel="COSMOTE Sport 4 HD">

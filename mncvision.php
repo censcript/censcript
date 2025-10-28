@@ -391,47 +391,44 @@
 <programme start="20251028163000 +0000" stop="20251027170000 +0000" channel="Animax.mncvision">
     <title>Witch Watch, Ep 1</title>
 </programme>
-<programme start="20251027183000 +0000" stop="20251027200000 +0000" channel="ANTV.mncvision">
-    <title>ANTV</title>
+<programme start="20251027183000 +0000" stop="20251027203000 +0000" channel="ANTV.mncvision">
+    <title>Bisikan Arwah</title>
 </programme>
-<programme start="20251027200000 +0000" stop="20251027213000 +0000" channel="ANTV.mncvision">
-    <title>ANTV</title>
-</programme>
-<programme start="20251027213000 +0000" stop="20251027220000 +0000" channel="ANTV.mncvision">
-    <title>ANTV</title>
+<programme start="20251027203000 +0000" stop="20251027220000 +0000" channel="ANTV.mncvision">
+    <title>Gadis Pendekar</title>
 </programme>
 <programme start="20251027220000 +0000" stop="20251027223000 +0000" channel="ANTV.mncvision">
-    <title>ANTV</title>
+    <title>Nath</title>
 </programme>
-<programme start="20251027223000 +0000" stop="20251027230000 +0000" channel="ANTV.mncvision">
-    <title>ANTV</title>
+<programme start="20251027223000 +0000" stop="20251027233000 +0000" channel="ANTV.mncvision">
+    <title>Masha And The Bear</title>
 </programme>
-<programme start="20251027230000 +0000" stop="20251028010000 +0000" channel="ANTV.mncvision">
-    <title>ANTV</title>
+<programme start="20251027233000 +0000" stop="20251028013000 +0000" channel="ANTV.mncvision">
+    <title>Dia Yang Berhati Baja</title>
 </programme>
-<programme start="20251028010000 +0000" stop="20251028023000 +0000" channel="ANTV.mncvision">
-    <title>ANTV</title>
+<programme start="20251028013000 +0000" stop="20251028030000 +0000" channel="ANTV.mncvision">
+    <title>Mangal Lakshmi</title>
 </programme>
-<programme start="20251028023000 +0000" stop="20251028060000 +0000" channel="ANTV.mncvision">
-    <title>ANTV</title>
+<programme start="20251028030000 +0000" stop="20251028063000 +0000" channel="ANTV.mncvision">
+    <title>Koi Mil Gaya</title>
 </programme>
-<programme start="20251028060000 +0000" stop="20251028084500 +0000" channel="ANTV.mncvision">
-    <title>ANTV</title>
+<programme start="20251028063000 +0000" stop="20251028080000 +0000" channel="ANTV.mncvision">
+    <title>Cinta Keluarga Pandya</title>
 </programme>
-<programme start="20251028084500 +0000" stop="20251028103000 +0000" channel="ANTV.mncvision">
-    <title>ANTV</title>
+<programme start="20251028080000 +0000" stop="20251028093000 +0000" channel="ANTV.mncvision">
+    <title>Zeynep</title>
 </programme>
-<programme start="20251028103000 +0000" stop="20251028123000 +0000" channel="ANTV.mncvision">
-    <title>ANTV</title>
+<programme start="20251028093000 +0000" stop="20251028110000 +0000" channel="ANTV.mncvision">
+    <title>Takdir Cinta Layla</title>
 </programme>
-<programme start="20251028123000 +0000" stop="20251028143000 +0000" channel="ANTV.mncvision">
-    <title>ANTV</title>
+<programme start="20251028110000 +0000" stop="20251028130000 +0000" channel="ANTV.mncvision">
+    <title>Si Rawing 2</title>
 </programme>
-<programme start="20251028143000 +0000" stop="20251028163000 +0000" channel="ANTV.mncvision">
-    <title>ANTV</title>
+<programme start="20251028130000 +0000" stop="20251028150000 +0000" channel="ANTV.mncvision">
+    <title>Rindu Tak Berujung</title>
 </programme>
-<programme start="20251028163000 +0000" stop="20251027170000 +0000" channel="ANTV.mncvision">
-    <title>ANTV</title>
+<programme start="20251028150000 +0000" stop="20251028153000 +0000" channel="ANTV.mncvision">
+    <title>Jiang Hu The Triad Zone</title>
 </programme>
 <programme start="20251027170000 +0000" stop="20251027173000 +0000" channel="Arirang.mncvision">
     <title>The Kulture Wave</title>
