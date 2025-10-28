@@ -502,9 +502,6 @@
 <programme start="20251028140000 +0000" stop="20251028160000 +0000" channel="Trans TV.vision">
 <title>Bioskop Trans TV</title>
 </programme>
-<programme start="20251028160000 +0000" stop="20251028180000 +0000" channel="Trans TV.vision">
-<title>Bioskop Trans TV</title>
-</programme>
 <programme start="20251028180000 +0000" stop="20251028220000 +0000" channel="Trans TV.vision">
 <title>Pilihan Indonesia: Debat Capres</title>
 </programme>
@@ -562,20 +559,8 @@
 <programme start="20251028041500 +0000" stop="20251028050000 +0000" channel="Trans 7.vision">
 <title>Enah Bikin Enak</title>
 </programme>
-<programme start="20251028050000 +0000" stop="20251028054500 +0000" channel="Trans 7.vision">
-<title>Bocah Petualang</title>
-</programme>
-<programme start="20251028054500 +0000" stop="20251028063000 +0000" channel="Trans 7.vision">
-<title>Indonesiaku</title>
-</programme>
 <programme start="20251028063000 +0000" stop="20251028071500 +0000" channel="Trans 7.vision">
 <title>Ujung-Ujungnya Damkar</title>
-</programme>
-<programme start="20251028071500 +0000" stop="20251028081500 +0000" channel="Trans 7.vision">
-<title>Redaksi</title>
-</programme>
-<programme start="20251028081500 +0000" stop="20251028091500 +0000" channel="Trans 7.vision">
-<title>Jejak Si Gundul</title>
 </programme>
 <programme start="20251028091500 +0000" stop="20251028101500 +0000" channel="Trans 7.vision">
 <title>Makan Receh</title>
@@ -672,9 +657,6 @@
 </programme>
 <programme start="20251028013000 +0000" stop="20251028030000 +0000" channel="ANTV.vision">
 <title>Mangal Lakshmi</title>
-</programme>
-<programme start="20251028030000 +0000" stop="20251028063000 +0000" channel="ANTV.vision">
-<title>Koi Mil Gaya</title>
 </programme>
 <programme start="20251028063000 +0000" stop="20251028080000 +0000" channel="ANTV.vision">
 <title>Cinta Keluarga Pandya</title>
@@ -1497,4 +1479,13 @@
 </programme>
 <programme start="20251029040000 +0000" stop="20251029050000 +0000" channel="BTV.vision">
 <title>Berita Satu Siang</title>
+</programme>
+<programme start="20251029050000 +0000" stop="20251029060000 +0000" channel="BTV.vision">
+<title>Investor Market Today</title>
+</programme>
+<programme start="20251029060000 +0000" stop="20251029063000 +0000" channel="BTV.vision">
+<title>Investor Daily Talk</title>
+</programme>
+<programme start="20251029063000 +0000" stop="20251029080000 +0000" channel="BTV.vision">
+<title>Spot On</title>
 </programme>

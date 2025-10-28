@@ -8170,6 +8170,75 @@
     <programme start="20251028133000 +0000" stop="20251028162000 +0000" channel="Asianet Movies.starhub">
         <title>Manjummel Boys</title>
     </programme>
+    <programme start="20251027233000 +0000" stop="20251028003000 +0000" channel="Astro Warna HD.starhub">
+        <title>Punchline</title>
+    </programme>
+    <programme start="20251028003000 +0000" stop="20251028010000 +0000" channel="Astro Warna HD.starhub">
+        <title>Sketso</title>
+    </programme>
+    <programme start="20251028010000 +0000" stop="20251028013000 +0000" channel="Astro Warna HD.starhub">
+        <title>Akak Akak Sangat</title>
+    </programme>
+    <programme start="20251028013000 +0000" stop="20251028020000 +0000" channel="Astro Warna HD.starhub">
+        <title>Muka Buku</title>
+    </programme>
+    <programme start="20251028020000 +0000" stop="20251028023000 +0000" channel="Astro Warna HD.starhub">
+        <title>Kau Rasa?</title>
+    </programme>
+    <programme start="20251028023000 +0000" stop="20251028030000 +0000" channel="Astro Warna HD.starhub">
+        <title>Semanis Fondant</title>
+    </programme>
+    <programme start="20251028030000 +0000" stop="20251028040000 +0000" channel="Astro Warna HD.starhub">
+        <title>Siapa Jaga Mak?</title>
+    </programme>
+    <programme start="20251028040000 +0000" stop="20251028060000 +0000" channel="Astro Warna HD.starhub">
+        <title>Muzikal Lawak Superstar 5</title>
+    </programme>
+    <programme start="20251028060000 +0000" stop="20251028070000 +0000" channel="Astro Warna HD.starhub">
+        <title>Sepahtu Reunion Live 2019</title>
+    </programme>
+    <programme start="20251028070000 +0000" stop="20251028073000 +0000" channel="Astro Warna HD.starhub">
+        <title>3 dara kg.com</title>
+    </programme>
+    <programme start="20251028073000 +0000" stop="20251028080000 +0000" channel="Astro Warna HD.starhub">
+        <title>Motif Sosial?</title>
+    </programme>
+    <programme start="20251028080000 +0000" stop="20251028083000 +0000" channel="Astro Warna HD.starhub">
+        <title>Aku Dan Tok Wan</title>
+    </programme>
+    <programme start="20251028083000 +0000" stop="20251028090000 +0000" channel="Astro Warna HD.starhub">
+        <title>Kuali Terbalik</title>
+    </programme>
+    <programme start="20251028090000 +0000" stop="20251028093000 +0000" channel="Astro Warna HD.starhub">
+        <title>Betul Ke Bohong ?</title>
+    </programme>
+    <programme start="20251028093000 +0000" stop="20251028100000 +0000" channel="Astro Warna HD.starhub">
+        <title>Opera Zero</title>
+    </programme>
+    <programme start="20251028100000 +0000" stop="20251028110000 +0000" channel="Astro Warna HD.starhub">
+        <title>Cinta Nikita</title>
+    </programme>
+    <programme start="20251028110000 +0000" stop="20251028113000 +0000" channel="Astro Warna HD.starhub">
+        <title>Cik Bunga Encik Sombong</title>
+    </programme>
+    <programme start="20251028113000 +0000" stop="20251028120000 +0000" channel="Astro Warna HD.starhub">
+        <title>CTDK-ation</title>
+    </programme>
+    <programme start="20251028120000 +0000" stop="20251028130000 +0000" channel="Astro Warna HD.starhub">
+        <title>Keluarga Iskandar</title>
+    </programme>
+    <programme start="20251028130000 +0000" stop="20251028133000 +0000" channel="Astro Warna HD.starhub">
+        <title>Travelawak: Projek Bapak Bapak S4</title>
+    </programme>
+    <programme start="20251028133000 +0000" stop="20251028140000 +0000" channel="Astro Warna HD.starhub">
+        <title>Kak Lina Ter-Over Take Over</title>
+    </programme>
+    <programme start="20251028140000 +0000" stop="20251028150000 +0000" channel="Astro Warna HD.starhub">
+        <title>Dr. Pontianak S2</title>
+    </programme>
+    <programme start="20251028150000 +0000" stop="20251028160000 +0000" channel="Astro Warna HD.starhub">
+        <title>Dia Bukan Manusia</title>
+    </programme>
     <programme start="20251027143000 +0000" stop="20251027163000 +0000" channel="SPOTV2.starhub">
         <title>2025/26 A-League Men Round 2 Ackland FC vs Western Sydney Wanderers FC</title>
     </programme>
