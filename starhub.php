@@ -6752,7 +6752,7 @@
         <title>Schneider Electric Marathon de Paris</title>
     </programme>
     <programme start="20251027210000 +0000" stop="20251027220000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>UCI Europe Tour - Czech Tour Highlights</title>
+        <title>UCI Europe Tour - Czech Tour H/Ls</title>
     </programme>
     <programme start="20251027220000 +0000" stop="20251027223000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>National Bank Open presented by Rogers</title>
@@ -8169,6 +8169,36 @@
     </programme>
     <programme start="20251028133000 +0000" stop="20251028162000 +0000" channel="Asianet Movies.starhub">
         <title>Manjummel Boys</title>
+    </programme>
+    <programme start="20251027160000 +0000" stop="20251027170000 +0000" channel="Astro Warna HD.starhub">
+        <title>Dia Bukan Manusia</title>
+    </programme>
+    <programme start="20251027170000 +0000" stop="20251027173000 +0000" channel="Astro Warna HD.starhub">
+        <title>Kiah Pekasam</title>
+    </programme>
+    <programme start="20251027173000 +0000" stop="20251027180000 +0000" channel="Astro Warna HD.starhub">
+        <title>Expose Mistik: Kisah Seram</title>
+    </programme>
+    <programme start="20251027180000 +0000" stop="20251027190000 +0000" channel="Astro Warna HD.starhub">
+        <title>Hero Seorang Cinderella</title>
+    </programme>
+    <programme start="20251027190000 +0000" stop="20251027193000 +0000" channel="Astro Warna HD.starhub">
+        <title>Girlfriend Aku Dari Neraka the Series</title>
+    </programme>
+    <programme start="20251027193000 +0000" stop="20251027200000 +0000" channel="Astro Warna HD.starhub">
+        <title>Achaner Tu Johan</title>
+    </programme>
+    <programme start="20251027200000 +0000" stop="20251027210000 +0000" channel="Astro Warna HD.starhub">
+        <title>Rumah Memori</title>
+    </programme>
+    <programme start="20251027210000 +0000" stop="20251027220000 +0000" channel="Astro Warna HD.starhub">
+        <title>MLM Terbaik 2013</title>
+    </programme>
+    <programme start="20251027220000 +0000" stop="20251027223000 +0000" channel="Astro Warna HD.starhub">
+        <title>Sembang Teh Tarik S3</title>
+    </programme>
+    <programme start="20251027223000 +0000" stop="20251027233000 +0000" channel="Astro Warna HD.starhub">
+        <title>Dia Bukan Manusia</title>
     </programme>
     <programme start="20251027233000 +0000" stop="20251028003000 +0000" channel="Astro Warna HD.starhub">
         <title>Punchline</title>
