@@ -130,8 +130,12 @@
     <title>Football: FC Internazionale Milano - ACF Fiorentina</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251029180500 +0700" stop="20251029200000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Atletico Mineiro - Independiente del Valle</title>
+<programme start="20251030200000 +0700" stop="20251030203000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>UEFA Champions League Magazine 2025-26 E8</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251030203000 +0700" stop="20251030223000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Atromitos Athens - Panathinaikos</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251029200000 +0700" stop="20251029221500 +0700" channel="COSMOTE Sport 3 HD">
@@ -202,10 +206,6 @@
     <title>Football: Al Ittihad - Al Hilal</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251029170000 +0700" stop="20251029193000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Milwaukee Bucks - New York Knicks</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251029193000 +0700" stop="20251029214500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Levice - AEK</title>
     <desc>Live: Tidak</desc>
@@ -260,10 +260,6 @@
 </programme>
 <programme start="20251030193000 +0700" stop="20251030213000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Virtus Bologna - Sassari</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251029175000 +0700" stop="20251029193500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>DTM 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251029193500 +0700" stop="20251029201000 +0700" channel="COSMOTE Sport 5 HD">
@@ -359,6 +355,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251030195000 +0700" stop="20251030205500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: Extreme E 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251030205500 +0700" stop="20251030230000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Motorsports: Extreme E 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
