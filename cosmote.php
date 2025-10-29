@@ -130,6 +130,10 @@
     <title>Football: Egaleo - Aris</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251030160000 +0700" stop="20251030180000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Juventus Football Club - Udinese</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251029141500 +0700" stop="20251029161000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: SL Benfica - Arouca</title>
     <desc>Live: Tidak</desc>
@@ -262,10 +266,6 @@
     <title>Basketball: Levice - AEK</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251029140500 +0700" stop="20251029150500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Highlights: 2025 Extreme H</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251029150500 +0700" stop="20251029162500 +0700" channel="COSMOTE Sport 5 HD">
     <title>Grand Prix Show 2025</title>
     <desc>Live: Tidak</desc>
@@ -351,6 +351,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251030153000 +0700" stop="20251030163000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>2025 FIM Women&#039;s Circuit Racing World Championship</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251030163000 +0700" stop="20251030173000 +0700" channel="COSMOTE Sport 5 HD">
     <title>2025 FIM Women&#039;s Circuit Racing World Championship</title>
     <desc>Live: Tidak</desc>
 </programme>

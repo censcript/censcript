@@ -8738,127 +8738,127 @@
     <title>Platinum</title>
 </programme>
 <programme start="20251028170000 +0000" stop="20251028173000 +0000" channel="Tawaf TV.mncvision">
-    <title>Tawaf TV</title>
+    <title>DMI TV</title>
 </programme>
 <programme start="20251028173000 +0000" stop="20251028183000 +0000" channel="Tawaf TV.mncvision">
-    <title>Tawaf TV</title>
+    <title>DMI TV</title>
 </programme>
 <programme start="20251028183000 +0000" stop="20251028190000 +0000" channel="Tawaf TV.mncvision">
-    <title>Tawaf TV</title>
+    <title>DMI TV</title>
 </programme>
 <programme start="20251028190000 +0000" stop="20251028193000 +0000" channel="Tawaf TV.mncvision">
-    <title>Tawaf TV</title>
+    <title>DMI TV</title>
 </programme>
 <programme start="20251028193000 +0000" stop="20251028200000 +0000" channel="Tawaf TV.mncvision">
-    <title>Tawaf TV</title>
+    <title>DMI TV</title>
 </programme>
 <programme start="20251028200000 +0000" stop="20251028203000 +0000" channel="Tawaf TV.mncvision">
-    <title>Tawaf TV</title>
+    <title>DMI TV</title>
 </programme>
 <programme start="20251028203000 +0000" stop="20251028210000 +0000" channel="Tawaf TV.mncvision">
-    <title>Tawaf TV</title>
+    <title>DMI TV</title>
 </programme>
 <programme start="20251028210000 +0000" stop="20251028213000 +0000" channel="Tawaf TV.mncvision">
-    <title>Tawaf TV</title>
+    <title>DMI TV</title>
 </programme>
 <programme start="20251028213000 +0000" stop="20251028220000 +0000" channel="Tawaf TV.mncvision">
-    <title>Tawaf TV</title>
+    <title>DMI TV</title>
 </programme>
 <programme start="20251028220000 +0000" stop="20251028230000 +0000" channel="Tawaf TV.mncvision">
-    <title>Tawaf TV</title>
+    <title>DMI TV</title>
 </programme>
 <programme start="20251028230000 +0000" stop="20251028233000 +0000" channel="Tawaf TV.mncvision">
-    <title>Tawaf TV</title>
+    <title>DMI TV</title>
 </programme>
 <programme start="20251028233000 +0000" stop="20251029000000 +0000" channel="Tawaf TV.mncvision">
-    <title>Tawaf TV</title>
+    <title>DMI TV</title>
 </programme>
 <programme start="20251029000000 +0000" stop="20251029003000 +0000" channel="Tawaf TV.mncvision">
-    <title>Tawaf TV</title>
+    <title>DMI TV</title>
 </programme>
 <programme start="20251029003000 +0000" stop="20251029010000 +0000" channel="Tawaf TV.mncvision">
-    <title>Tawaf TV</title>
+    <title>DMI TV</title>
 </programme>
 <programme start="20251029010000 +0000" stop="20251029013000 +0000" channel="Tawaf TV.mncvision">
-    <title>Tawaf TV</title>
+    <title>DMI TV</title>
 </programme>
 <programme start="20251029013000 +0000" stop="20251029023000 +0000" channel="Tawaf TV.mncvision">
-    <title>Tawaf TV</title>
+    <title>DMI TV</title>
 </programme>
 <programme start="20251029023000 +0000" stop="20251029030000 +0000" channel="Tawaf TV.mncvision">
-    <title>Tawaf TV</title>
+    <title>DMI TV</title>
 </programme>
 <programme start="20251029030000 +0000" stop="20251029033000 +0000" channel="Tawaf TV.mncvision">
-    <title>Tawaf TV</title>
+    <title>DMI TV</title>
 </programme>
 <programme start="20251029033000 +0000" stop="20251029040000 +0000" channel="Tawaf TV.mncvision">
-    <title>Tawaf TV</title>
+    <title>DMI TV</title>
 </programme>
 <programme start="20251029040000 +0000" stop="20251029043000 +0000" channel="Tawaf TV.mncvision">
-    <title>Tawaf TV</title>
+    <title>DMI TV</title>
 </programme>
 <programme start="20251029043000 +0000" stop="20251029050000 +0000" channel="Tawaf TV.mncvision">
-    <title>Tawaf TV</title>
+    <title>DMI TV</title>
 </programme>
 <programme start="20251029050000 +0000" stop="20251029060000 +0000" channel="Tawaf TV.mncvision">
-    <title>Tawaf TV</title>
+    <title>DMI TV</title>
 </programme>
 <programme start="20251029060000 +0000" stop="20251029070000 +0000" channel="Tawaf TV.mncvision">
-    <title>Tawaf TV</title>
+    <title>DMI TV</title>
 </programme>
 <programme start="20251029070000 +0000" stop="20251029073000 +0000" channel="Tawaf TV.mncvision">
-    <title>Tawaf TV</title>
+    <title>DMI TV</title>
 </programme>
 <programme start="20251029073000 +0000" stop="20251029080000 +0000" channel="Tawaf TV.mncvision">
-    <title>Tawaf TV</title>
+    <title>DMI TV</title>
 </programme>
 <programme start="20251029080000 +0000" stop="20251029083000 +0000" channel="Tawaf TV.mncvision">
-    <title>Tawaf TV</title>
+    <title>DMI TV</title>
 </programme>
 <programme start="20251029083000 +0000" stop="20251029090000 +0000" channel="Tawaf TV.mncvision">
-    <title>Tawaf TV</title>
+    <title>DMI TV</title>
 </programme>
 <programme start="20251029090000 +0000" stop="20251029093000 +0000" channel="Tawaf TV.mncvision">
-    <title>Tawaf TV</title>
+    <title>DMI TV</title>
 </programme>
 <programme start="20251029093000 +0000" stop="20251029100000 +0000" channel="Tawaf TV.mncvision">
-    <title>Tawaf TV</title>
+    <title>DMI TV</title>
 </programme>
 <programme start="20251029100000 +0000" stop="20251029103000 +0000" channel="Tawaf TV.mncvision">
-    <title>Tawaf TV</title>
+    <title>DMI TV</title>
 </programme>
 <programme start="20251029103000 +0000" stop="20251029110000 +0000" channel="Tawaf TV.mncvision">
-    <title>Tawaf TV</title>
+    <title>DMI TV</title>
 </programme>
 <programme start="20251029110000 +0000" stop="20251029120000 +0000" channel="Tawaf TV.mncvision">
-    <title>Tawaf TV</title>
+    <title>DMI TV</title>
 </programme>
 <programme start="20251029120000 +0000" stop="20251029123000 +0000" channel="Tawaf TV.mncvision">
-    <title>Tawaf TV</title>
+    <title>DMI TV</title>
 </programme>
 <programme start="20251029123000 +0000" stop="20251029130000 +0000" channel="Tawaf TV.mncvision">
-    <title>Tawaf TV</title>
+    <title>DMI TV</title>
 </programme>
 <programme start="20251029130000 +0000" stop="20251029133000 +0000" channel="Tawaf TV.mncvision">
-    <title>Tawaf TV</title>
+    <title>DMI TV</title>
 </programme>
 <programme start="20251029133000 +0000" stop="20251029143000 +0000" channel="Tawaf TV.mncvision">
-    <title>Tawaf TV</title>
+    <title>DMI TV</title>
 </programme>
 <programme start="20251029143000 +0000" stop="20251029150000 +0000" channel="Tawaf TV.mncvision">
-    <title>Tawaf TV</title>
+    <title>DMI TV</title>
 </programme>
 <programme start="20251029150000 +0000" stop="20251029153000 +0000" channel="Tawaf TV.mncvision">
-    <title>Tawaf TV</title>
+    <title>DMI TV</title>
 </programme>
 <programme start="20251029153000 +0000" stop="20251029160000 +0000" channel="Tawaf TV.mncvision">
-    <title>Tawaf TV</title>
+    <title>DMI TV</title>
 </programme>
 <programme start="20251029160000 +0000" stop="20251029163000 +0000" channel="Tawaf TV.mncvision">
-    <title>Tawaf TV</title>
+    <title>DMI TV</title>
 </programme>
 <programme start="20251029163000 +0000" stop="20251028170000 +0000" channel="Tawaf TV.mncvision">
-    <title>Tawaf TV</title>
+    <title>DMI TV</title>
 </programme>
 <programme start="20251028170000 +0000" stop="20251028183000 +0000" channel="Thrill.mncvision">
     <title>They Wait In The Dark</title>
