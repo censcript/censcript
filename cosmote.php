@@ -1,7 +1,3 @@
-<programme start="20251029210000 +0700" stop="20251029213000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>UEFA Champions League Magazine 2025-26 E8</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251029213000 +0700" stop="20251029223000 +0700" channel="COSMOTE Sport 1 HD">
     <title>UEFA Champions League Highlights 2025-26</title>
     <desc>Live: Tidak</desc>
@@ -134,6 +130,10 @@
     <title>Football: Atromitos Athens - Panathinaikos</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251030223000 +0700" stop="20251031003000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: PAOK - AEL Novibet</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251029200000 +0700" stop="20251029221500 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Egaleo - Aris (L)</title>
     <desc>Live: Ya</desc>
@@ -206,10 +206,6 @@
     <title>Football: Al Nassr - Al Ittihad</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251029193000 +0700" stop="20251029214500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Levice - AEK</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251029214500 +0700" stop="20251029221500 +0700" channel="COSMOTE Sport 4 HD">
     <title>NBA Specials</title>
     <desc>Live: Tidak</desc>
@@ -268,10 +264,6 @@
 </programme>
 <programme start="20251030215500 +0700" stop="20251031000500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Mersin MSK - Karditsa</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251029201000 +0700" stop="20251029211500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>2025 Extreme H</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251029211500 +0700" stop="20251029222000 +0700" channel="COSMOTE Sport 5 HD">
