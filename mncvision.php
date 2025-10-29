@@ -542,7 +542,7 @@
     <title>Exploring Korean Literature B</title>
 </programme>
 <programme start="20251029070000 +0000" stop="20251029073000 +0000" channel="Arirang.mncvision">
-    <title>Diplomat&#039;s Archive: Hidden</title>
+    <title>I&#039;m Live</title>
 </programme>
 <programme start="20251029073000 +0000" stop="20251029075000 +0000" channel="Arirang.mncvision">
     <title>1Day 1K-Culture: K-Story</title>
@@ -556,14 +556,14 @@
 <programme start="20251029083000 +0000" stop="20251029090000 +0000" channel="Arirang.mncvision">
     <title>Press Perspective (L)</title>
 </programme>
-<programme start="20251029090000 +0000" stop="20251029093000 +0000" channel="Arirang.mncvision">
-    <title>I&#039;m Live</title>
+<programme start="20251029090000 +0000" stop="20251029092000 +0000" channel="Arirang.mncvision">
+    <title>The Grand Heritage: Gyeongju</title>
 </programme>
-<programme start="20251029093000 +0000" stop="20251029100000 +0000" channel="Arirang.mncvision">
-    <title>K-Stage Pan</title>
-</programme>
-<programme start="20251029100000 +0000" stop="20251029103000 +0000" channel="Arirang.mncvision">
+<programme start="20251029092000 +0000" stop="20251029095000 +0000" channel="Arirang.mncvision">
     <title>Voices Of APEC: Korea 2025</title>
+</programme>
+<programme start="20251029095000 +0000" stop="20251029103000 +0000" channel="Arirang.mncvision">
+    <title>ROK-U.S. Summit</title>
 </programme>
 <programme start="20251029103000 +0000" stop="20251029110000 +0000" channel="Arirang.mncvision">
     <title>Trip In Korea</title>
@@ -584,7 +584,7 @@
     <title>SmartBiz Accelerators 2</title>
 </programme>
 <programme start="20251029130000 +0000" stop="20251029133000 +0000" channel="Arirang.mncvision">
-    <title>Arirang Special</title>
+    <title>I&#039;m Live</title>
 </programme>
 <programme start="20251028172500 +0000" stop="20251028182000 +0000" channel="AXN.mncvision">
     <title>Blue Bloods S14, Ep 14</title>

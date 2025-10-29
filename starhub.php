@@ -757,47 +757,41 @@
     <programme start="20251029002000 +0000" stop="20251029003000 +0000" channel="Arirang TV HD.starhub">
         <title>Exploring Korean Literature B</title>
     </programme>
-    <programme start="20251029003000 +0000" stop="20251029010000 +0000" channel="Arirang TV HD.starhub">
-        <title>Arirang Special</title>
+    <programme start="20251029003000 +0000" stop="20251029004000 +0000" channel="Arirang TV HD.starhub">
+        <title>Smartbiz Accelerators 2</title>
     </programme>
-    <programme start="20251029010000 +0000" stop="20251029013000 +0000" channel="Arirang TV HD.starhub">
+    <programme start="20251029004000 +0000" stop="20251029013000 +0000" channel="Arirang TV HD.starhub">
         <title>New Day At Arirang</title>
     </programme>
     <programme start="20251029013000 +0000" stop="20251029020000 +0000" channel="Arirang TV HD.starhub">
         <title>News Generation [L]</title>
     </programme>
     <programme start="20251029020000 +0000" stop="20251029030000 +0000" channel="Arirang TV HD.starhub">
-        <title>Culture Crunch [L]</title>
+        <title>Culture Crunch</title>
     </programme>
     <programme start="20251029030000 +0000" stop="20251029033000 +0000" channel="Arirang TV HD.starhub">
         <title>Arirang News 12:00</title>
     </programme>
-    <programme start="20251029033000 +0000" stop="20251029040000 +0000" channel="Arirang TV HD.starhub">
-        <title>Voices Of Apec: Korea 2025</title>
+    <programme start="20251029033000 +0000" stop="20251029034000 +0000" channel="Arirang TV HD.starhub">
+        <title>Smartbiz Accelerators 2</title>
     </programme>
-    <programme start="20251029040000 +0000" stop="20251029043000 +0000" channel="Arirang TV HD.starhub">
-        <title>I&#039;m Live</title>
+    <programme start="20251029034000 +0000" stop="20251029035000 +0000" channel="Arirang TV HD.starhub">
+        <title>Heritage Walks With Little Friend</title>
     </programme>
-    <programme start="20251029043000 +0000" stop="20251029050000 +0000" channel="Arirang TV HD.starhub">
-        <title>K-Stage Pan</title>
+    <programme start="20251029035000 +0000" stop="20251029040000 +0000" channel="Arirang TV HD.starhub">
+        <title>K-Chat: Conversing In Korean</title>
     </programme>
-    <programme start="20251029050000 +0000" stop="20251029053000 +0000" channel="Arirang TV HD.starhub">
-        <title>The Kulture Wave [L]</title>
-    </programme>
-    <programme start="20251029053000 +0000" stop="20251029060000 +0000" channel="Arirang TV HD.starhub">
-        <title>News Generation [R]</title>
+    <programme start="20251029040000 +0000" stop="20251029060000 +0000" channel="Arirang TV HD.starhub">
+        <title>Rok-U.S. Summit</title>
     </programme>
     <programme start="20251029060000 +0000" stop="20251029063000 +0000" channel="Arirang TV HD.starhub">
-        <title>Arirang Special</title>
+        <title>The Kulture Wave [L]</title>
     </programme>
-    <programme start="20251029063000 +0000" stop="20251029065000 +0000" channel="Arirang TV HD.starhub">
-        <title>K-Arts Artists</title>
-    </programme>
-    <programme start="20251029065000 +0000" stop="20251029070000 +0000" channel="Arirang TV HD.starhub">
-        <title>Exploring Korean Literature B</title>
+    <programme start="20251029063000 +0000" stop="20251029070000 +0000" channel="Arirang TV HD.starhub">
+        <title>Voices Of Apec: Korea 2025</title>
     </programme>
     <programme start="20251029070000 +0000" stop="20251029073000 +0000" channel="Arirang TV HD.starhub">
-        <title>Diplomat&#039;s Archive: Hidden Stories</title>
+        <title>I&#039;m Live</title>
     </programme>
     <programme start="20251029073000 +0000" stop="20251029075000 +0000" channel="Arirang TV HD.starhub">
         <title>1day 1k-Culture: K-Story</title>
@@ -811,14 +805,14 @@
     <programme start="20251029083000 +0000" stop="20251029090000 +0000" channel="Arirang TV HD.starhub">
         <title>Press Perspective [L]</title>
     </programme>
-    <programme start="20251029090000 +0000" stop="20251029093000 +0000" channel="Arirang TV HD.starhub">
-        <title>I&#039;m Live</title>
+    <programme start="20251029090000 +0000" stop="20251029092000 +0000" channel="Arirang TV HD.starhub">
+        <title>The Grand Heritage: Gyeongju</title>
     </programme>
-    <programme start="20251029093000 +0000" stop="20251029100000 +0000" channel="Arirang TV HD.starhub">
-        <title>K-Stage Pan</title>
-    </programme>
-    <programme start="20251029100000 +0000" stop="20251029103000 +0000" channel="Arirang TV HD.starhub">
+    <programme start="20251029092000 +0000" stop="20251029095000 +0000" channel="Arirang TV HD.starhub">
         <title>Voices Of Apec: Korea 2025</title>
+    </programme>
+    <programme start="20251029095000 +0000" stop="20251029103000 +0000" channel="Arirang TV HD.starhub">
+        <title>Rok-U.S. Summit</title>
     </programme>
     <programme start="20251029103000 +0000" stop="20251029110000 +0000" channel="Arirang TV HD.starhub">
         <title>Trip In Korea</title>
@@ -830,7 +824,7 @@
         <title>Within The Frame [L]</title>
     </programme>
     <programme start="20251029120000 +0000" stop="20251029123000 +0000" channel="Arirang TV HD.starhub">
-        <title>The Kulture Wave [R]</title>
+        <title>The Kulture Wave</title>
     </programme>
     <programme start="20251029123000 +0000" stop="20251029125000 +0000" channel="Arirang TV HD.starhub">
         <title>1day 1k-Culture: K-Story</title>
@@ -839,7 +833,7 @@
         <title>Smartbiz Accelerators 2</title>
     </programme>
     <programme start="20251029130000 +0000" stop="20251029133000 +0000" channel="Arirang TV HD.starhub">
-        <title>Arirang Special</title>
+        <title>I&#039;m Live</title>
     </programme>
     <programme start="20251029133000 +0000" stop="20251029135000 +0000" channel="Arirang TV HD.starhub">
         <title>Korea Travelogue 5</title>
@@ -848,7 +842,7 @@
         <title>Exploring Korean Literature B</title>
     </programme>
     <programme start="20251029140000 +0000" stop="20251029143000 +0000" channel="Arirang TV HD.starhub">
-        <title>Press Perspective [R]</title>
+        <title>Press Perspective</title>
     </programme>
     <programme start="20251029143000 +0000" stop="20251029150000 +0000" channel="Arirang TV HD.starhub">
         <title>Voices Of Apec: Korea 2025</title>
