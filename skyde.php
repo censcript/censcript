@@ -3097,6 +3097,15 @@
 <programme start="20251029193500 +0000" stop="20251029230000 +0000" channel="Sky Sport 4 HD.skyde">
     <title>Live DFB-Pokal: SV Darmstadt 98 - FC Schalke 04, 2. Runde</title>
 </programme>
+<programme start="20251029161000 +0000" stop="20251029163000 +0000" channel="Sky Sport 5 HD.skyde">
+    <title>Es folgt: DFB-Pokal</title>
+</programme>
+<programme start="20251029163000 +0000" stop="20251029193500 +0000" channel="Sky Sport 5 HD.skyde">
+    <title>Live DFB-Pokal: FV Illertissen - 1. FC Magdeburg, 2. Runde</title>
+</programme>
+<programme start="20251029193500 +0000" stop="20251029230000 +0000" channel="Sky Sport 5 HD.skyde">
+    <title>Live DFB-Pokal: Fortuna Düsseldorf - SC Freiburg, 2. Runde</title>
+</programme>
 <programme start="20251029191000 +0000" stop="20251029193000 +0000" channel="Sky Sport 6 HD.skyde">
     <title>Es folgt: DFB-Pokal</title>
 </programme>
