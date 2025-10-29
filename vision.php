@@ -106,65 +106,59 @@
 <programme start="20251029100000 +0000" stop="20251029113000 +0000" channel="MNCTV.vision">
 <title>Upin &amp; Ipin</title>
 </programme>
-<programme start="20251029113000 +0000" stop="20251029123000 +0000" channel="MNCTV.vision">
-<title>Entong</title>
-</programme>
-<programme start="20251029123000 +0000" stop="20251029140000 +0000" channel="MNCTV.vision">
-<title>DMD Panggung Rezeki (MNCTV)</title>
-</programme>
-<programme start="20251029140000 +0000" stop="20251029163000 +0000" channel="MNCTV.vision">
+<programme start="20251029113000 +0000" stop="20251029140000 +0000" channel="MNCTV.vision">
 <title>MNC TV</title>
 </programme>
-<programme start="20251029163000 +0000" stop="20251029190000 +0000" channel="MNCTV.vision">
+<programme start="20251029140000 +0000" stop="20251029170000 +0000" channel="MNCTV.vision">
+<title>DMD Panggung Rezeki (MNCTV)</title>
+</programme>
+<programme start="20251029170000 +0000" stop="20251029190000 +0000" channel="MNCTV.vision">
 <title>Suparman Reborn</title>
 </programme>
 <programme start="20251029190000 +0000" stop="20251029210000 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<title>Suparman Reborn</title>
 </programme>
 <programme start="20251029210000 +0000" stop="20251029220000 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<title>Lintas iNews Pagi</title>
 </programme>
 <programme start="20251029220000 +0000" stop="20251029230000 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<title>Siraman Qolbu</title>
 </programme>
 <programme start="20251029230000 +0000" stop="20251029231500 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<title>CoComelon</title>
 </programme>
 <programme start="20251029231500 +0000" stop="20251030001500 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<title>Kiko</title>
 </programme>
 <programme start="20251030001500 +0000" stop="20251030010000 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<title>Kung Fu Panda Sang Pendekar</title>
 </programme>
 <programme start="20251030010000 +0000" stop="20251030023000 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<title>Upin dan Ipin (MNCTV)</title>
 </programme>
-<programme start="20251030023000 +0000" stop="20251030031500 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<programme start="20251030023000 +0000" stop="20251030033000 +0000" channel="MNCTV.vision">
+<title>Seleb On News</title>
 </programme>
-<programme start="20251030031500 +0000" stop="20251030034500 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<programme start="20251030033000 +0000" stop="20251030041500 +0000" channel="MNCTV.vision">
+<title>Lintas iNews Siang</title>
 </programme>
-<programme start="20251030034500 +0000" stop="20251030044500 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<programme start="20251030041500 +0000" stop="20251030044500 +0000" channel="MNCTV.vision">
+<title>Jurnal Lintas iNews Siang</title>
 </programme>
-<programme start="20251030044500 +0000" stop="20251030053000 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<programme start="20251030044500 +0000" stop="20251030073000 +0000" channel="MNCTV.vision">
+<title>Upin &amp; Ipin</title>
 </programme>
-<programme start="20251030053000 +0000" stop="20251030061500 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<programme start="20251030073000 +0000" stop="20251030090000 +0000" channel="MNCTV.vision">
+<title>Kuasa Ilahi</title>
 </programme>
-<programme start="20251030061500 +0000" stop="20251030080000 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
-</programme>
-<programme start="20251030080000 +0000" stop="20251030100000 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<programme start="20251030090000 +0000" stop="20251030100000 +0000" channel="MNCTV.vision">
+<title>Kilau Uang Kaget &amp; Bedah Rumah</title>
 </programme>
 <programme start="20251030100000 +0000" stop="20251030113000 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<title>Upin &amp; Ipin</title>
 </programme>
 <programme start="20251030113000 +0000" stop="20251030123000 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<title>Entong</title>
 </programme>
 <programme start="20251028230000 +0000" stop="20251029003000 +0000" channel="GTV.vision">
 <title>SpongeBob SquarePants Movie</title>
@@ -666,9 +660,6 @@
 </programme>
 <programme start="20251029013000 +0000" stop="20251029030000 +0000" channel="ANTV.vision">
 <title>Mangal Lakshmi</title>
-</programme>
-<programme start="20251029030000 +0000" stop="20251029063000 +0000" channel="ANTV.vision">
-<title>Krrish</title>
 </programme>
 <programme start="20251029063000 +0000" stop="20251029080000 +0000" channel="ANTV.vision">
 <title>Cinta Keluarga Pandya</title>
@@ -1497,4 +1488,13 @@
 </programme>
 <programme start="20251030080000 +0000" stop="20251030083000 +0000" channel="BTV.vision">
 <title>Dikit-Dikit Damkar</title>
+</programme>
+<programme start="20251030083000 +0000" stop="20251030091500 +0000" channel="BTV.vision">
+<title>Figur Publik</title>
+</programme>
+<programme start="20251030091500 +0000" stop="20251030093000 +0000" channel="BTV.vision">
+<title>Info Seleb</title>
+</programme>
+<programme start="20251030093000 +0000" stop="20251030103000 +0000" channel="BTV.vision">
+<title>Berita Satu Sore</title>
 </programme>
