@@ -66,10 +66,6 @@
     <title>Football: SK Rapid Wien - ACF Fiorentina</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251029100000 +0700" stop="20251029120000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Atalanta - AC Milan</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251029120000 +0700" stop="20251029141000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: OFI - Iraklis</title>
     <desc>Live: Tidak</desc>
@@ -128,6 +124,10 @@
 </programme>
 <programme start="20251030110000 +0700" stop="20251030120000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Highlights: UEL &amp; UECL 2025-26</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251030120000 +0700" stop="20251030140000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Atromitos Athens - Panathinaikos</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251029110000 +0700" stop="20251029141500 +0700" channel="COSMOTE Sport 3 HD">
@@ -258,10 +258,6 @@
     <title>Basketball: Bertram Derthona Tortona - Trapani</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251029110000 +0700" stop="20251029120000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>2025 FIM Women&#039;s Circuit Racing World Championship</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251029120000 +0700" stop="20251029130000 +0700" channel="COSMOTE Sport 5 HD">
     <title>2025 FIM Women&#039;s Circuit Racing World Championship</title>
     <desc>Live: Tidak</desc>
@@ -350,6 +346,10 @@
     <title>DTM 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251030122500 +0700" stop="20251030141000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>DTM 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251029110000 +0700" stop="20251029124500 +0700" channel="COSMOTE Sport 6 HD">
     <title>Volleyball: Napredak - Olympiacos</title>
     <desc>Live: Tidak</desc>
@@ -384,6 +384,10 @@
 </programme>
 <programme start="20251030110000 +0700" stop="20251030124000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Handball: MT Melsungen - Lemgo Lippe</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251030124000 +0700" stop="20251030130000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Sports Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251029110000 +0700" stop="20251029130000 +0700" channel="COSMOTE Sport 7 HD">
