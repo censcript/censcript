@@ -2069,10 +2069,10 @@
         <title>Valladolid P2</title>
     </programme>
     <programme start="20251028193000 +0000" stop="20251028200000 +0000" channel="beIN Sports 3.starhub">
-        <title>Lagos</title>
+        <title>Monaco</title>
     </programme>
     <programme start="20251028200000 +0000" stop="20251028203000 +0000" channel="beIN Sports 3.starhub">
-        <title>October</title>
+        <title>November</title>
     </programme>
     <programme start="20251028203000 +0000" stop="20251028210000 +0000" channel="beIN Sports 3.starhub">
         <title>October</title>

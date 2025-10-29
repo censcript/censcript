@@ -2485,10 +2485,13 @@
 <programme start="20251029174500 +0000" stop="20251029183000 +0000" channel="Sky Showcase HD.skyde">
     <title>The Rookie</title>
 </programme>
-<programme start="20251028231500 +0000" stop="20251028234500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20251028230000 +0000" stop="20251029001500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Fußball: DAB - Der Audiobeweis</title>
+</programme>
+<programme start="20251029001500 +0000" stop="20251029004500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA CL: Magazin</title>
 </programme>
-<programme start="20251028234500 +0000" stop="20251029014500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20251029004500 +0000" stop="20251029014500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: WSG Tirol - FC Blau-Weiß Linz, 11. Runde</title>
 </programme>
 <programme start="20251029014500 +0000" stop="20251029021500 +0000" channel="Sky Sport Austria 1 HD.skyde">
@@ -2746,10 +2749,7 @@
 <programme start="20251029220000 +0000" stop="20251029230000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>PGA Tour Champions: Highlights Simmons Bank Championship</title>
 </programme>
-<programme start="20251028230000 +0000" stop="20251028233000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>Fußball: scooore Niederlande! Alle Tore</title>
-</programme>
-<programme start="20251028233000 +0000" stop="20251029000000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20251028234500 +0000" stop="20251029000000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NBA: Showtime</title>
 </programme>
 <programme start="20251029000000 +0000" stop="20251029030000 +0000" channel="Sky Sport Mix HD.skyde">
@@ -2950,7 +2950,10 @@
 <programme start="20251029223000 +0000" stop="20251030003000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>Carabao Cup: FC Liverpool - Crystal Palace, 4. Runde</title>
 </programme>
-<programme start="20251028230000 +0000" stop="20251029010000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20251028230000 +0000" stop="20251029000000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 500: Review Wien</title>
+</programme>
+<programme start="20251029000000 +0000" stop="20251029010000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: C. Alcaraz (ESP) - C. Norrie (GBR), Rolex Paris Masters in Paris (FRA), 2. Tag</title>
 </programme>
 <programme start="20251029010000 +0000" stop="20251029020000 +0000" channel="Sky Sport Tennis HD.skyde">
@@ -2980,10 +2983,7 @@
 <programme start="20251029223000 +0000" stop="20251030003000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: Topspiel, Rolex Paris Masters in Paris (FRA), 3. Tag</title>
 </programme>
-<programme start="20251028230000 +0000" stop="20251028233000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>PL: Netbusters, 9. Spieltag</title>
-</programme>
-<programme start="20251028233000 +0000" stop="20251029000000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20251028234500 +0000" stop="20251029000000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Showtime</title>
 </programme>
 <programme start="20251029000000 +0000" stop="20251029030000 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3055,11 +3055,8 @@
 <programme start="20251029163000 +0000" stop="20251029214500 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live DFB-Pokal: Mittwochs-Konferenz, 2. Runde</title>
 </programme>
-<programme start="20251029214500 +0000" stop="20251029230000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20251029214500 +0000" stop="20251030000000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live DFB-Pokal: Alle Spiele, alle Tore, 2. Runde, Mittwoch</title>
-</programme>
-<programme start="20251028230000 +0000" stop="20251028233000 +0000" channel="Sky Sport 2 HD.skyde">
-    <title>Es folgt: LIVE Basketball NBA</title>
 </programme>
 <programme start="20251028233000 +0000" stop="20251029000000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live NBA: Showtime</title>
@@ -3079,7 +3076,7 @@
 <programme start="20251029193000 +0000" stop="20251029194000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live DFB-Pokal: Vorbericht</title>
 </programme>
-<programme start="20251029194000 +0000" stop="20251029220000 +0000" channel="Sky Sport 2 HD.skyde">
+<programme start="20251029194000 +0000" stop="20251029230000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live DFB-Pokal: 1. FC Köln - FC Bayern München, 2. Runde</title>
 </programme>
 <programme start="20251029161000 +0000" stop="20251029163000 +0000" channel="Sky Sport 3 HD.skyde">
@@ -3088,7 +3085,7 @@
 <programme start="20251029163000 +0000" stop="20251029193500 +0000" channel="Sky Sport 3 HD.skyde">
     <title>Live DFB-Pokal: 1. FSV Mainz 05 - VfB Stuttgart, 2. Runde</title>
 </programme>
-<programme start="20251029193500 +0000" stop="20251029220000 +0000" channel="Sky Sport 3 HD.skyde">
+<programme start="20251029193500 +0000" stop="20251029230000 +0000" channel="Sky Sport 3 HD.skyde">
     <title>Live DFB-Pokal: 1. FC Union Berlin - Arminia Bielefeld, 2. Runde</title>
 </programme>
 <programme start="20251029161000 +0000" stop="20251029163000 +0000" channel="Sky Sport 4 HD.skyde">
@@ -3097,7 +3094,7 @@
 <programme start="20251029163000 +0000" stop="20251029193500 +0000" channel="Sky Sport 4 HD.skyde">
     <title>Live DFB-Pokal: SpVgg Greuther Fürth - 1. FC Kaiserslautern, 2. Runde</title>
 </programme>
-<programme start="20251029193500 +0000" stop="20251029220000 +0000" channel="Sky Sport 4 HD.skyde">
+<programme start="20251029193500 +0000" stop="20251029230000 +0000" channel="Sky Sport 4 HD.skyde">
     <title>Live DFB-Pokal: SV Darmstadt 98 - FC Schalke 04, 2. Runde</title>
 </programme>
 <programme start="20251029161000 +0000" stop="20251029163000 +0000" channel="Sky Sport 5 HD.skyde">
@@ -3106,7 +3103,7 @@
 <programme start="20251029163000 +0000" stop="20251029193500 +0000" channel="Sky Sport 5 HD.skyde">
     <title>Live DFB-Pokal: FV Illertissen - 1. FC Magdeburg, 2. Runde</title>
 </programme>
-<programme start="20251029193500 +0000" stop="20251029220000 +0000" channel="Sky Sport 5 HD.skyde">
+<programme start="20251029193500 +0000" stop="20251029230000 +0000" channel="Sky Sport 5 HD.skyde">
     <title>Live DFB-Pokal: Fortuna Düsseldorf - SC Freiburg, 2. Runde</title>
 </programme>
 <programme start="20251029191000 +0000" stop="20251029193000 +0000" channel="Sky Sport 6 HD.skyde">
@@ -3115,19 +3112,19 @@
 <programme start="20251029193000 +0000" stop="20251029194000 +0000" channel="Sky Sport 6 HD.skyde">
     <title>Live DFB-Pokal: Vorbericht</title>
 </programme>
-<programme start="20251029194000 +0000" stop="20251029220000 +0000" channel="Sky Sport 6 HD.skyde">
+<programme start="20251029194000 +0000" stop="20251029230000 +0000" channel="Sky Sport 6 HD.skyde">
     <title>Live DFB-Pokal: Tactical Feed: KOE - FCB, 2. Runde</title>
 </programme>
 <programme start="20251029161000 +0000" stop="20251029163000 +0000" channel="Sky Sport 7 HD.skyde">
     <title>Es folgt: DFB-Pokal</title>
 </programme>
-<programme start="20251029163000 +0000" stop="20251029193000 +0000" channel="Sky Sport 7 HD.skyde">
+<programme start="20251029163000 +0000" stop="20251029203000 +0000" channel="Sky Sport 7 HD.skyde">
     <title>Live DFB-Pokal: SC Paderborn 07 - Bayer Leverkusen, 2. Runde</title>
 </programme>
 <programme start="20251029191500 +0000" stop="20251029193500 +0000" channel="Sky Sport 8 HD.skyde">
     <title>Es folgt: DFB-Pokal</title>
 </programme>
-<programme start="20251029193500 +0000" stop="20251029220000 +0000" channel="Sky Sport 8 HD.skyde">
+<programme start="20251029193500 +0000" stop="20251029230000 +0000" channel="Sky Sport 8 HD.skyde">
     <title>Live DFB-Pokal: 1. FC Union Berlin - Arminia Bielefeld, 2. Runde</title>
 </programme>
 <programme start="20251029191500 +0000" stop="20251029193500 +0000" channel="Sky Sport 9 HD.skyde">
@@ -3139,7 +3136,7 @@
 <programme start="20251029191500 +0000" stop="20251029193500 +0000" channel="Sky Sport 10 HD.skyde">
     <title>Es folgt: DFB-Pokal</title>
 </programme>
-<programme start="20251029193500 +0000" stop="20251029220000 +0000" channel="Sky Sport 10 HD.skyde">
+<programme start="20251029193500 +0000" stop="20251029230000 +0000" channel="Sky Sport 10 HD.skyde">
     <title>Live DFB-Pokal: Fortuna Düsseldorf - SC Freiburg, 2. Runde</title>
 </programme>
 <programme start="20251028232000 +0000" stop="20251029000500 +0000" channel="SYFY HD.skyde">

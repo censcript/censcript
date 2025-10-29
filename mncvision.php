@@ -1282,6 +1282,144 @@
 <programme start="20251029160000 +0000" stop="20251029163000 +0000" channel="beIN Sports 2 HD.mncvision">
     <title>ATP Tour 1000 2025: Paris (L)</title>
 </programme>
+<programme start="20251028180000 +0000" stop="20251028183000 +0000" channel="beIN Sports 3.mncvision">
+    <title>Premier Padel Highlights 2025</title>
+</programme>
+<programme start="20251028183000 +0000" stop="20251028190000 +0000" channel="beIN Sports 3.mncvision">
+    <title>Premier Padel Highlights 2025</title>
+</programme>
+<programme start="20251028190000 +0000" stop="20251028193000 +0000" channel="beIN Sports 3.mncvision">
+    <title>Premier Padel Highlights 2025</title>
+</programme>
+<programme start="20251028193000 +0000" stop="20251028200000 +0000" channel="beIN Sports 3.mncvision">
+    <title>Champions Of The Water 2025</title>
+</programme>
+<programme start="20251028200000 +0000" stop="20251028203000 +0000" channel="beIN Sports 3.mncvision">
+    <title>Inside Sailing 2025: November</title>
+</programme>
+<programme start="20251028203000 +0000" stop="20251028210000 +0000" channel="beIN Sports 3.mncvision">
+    <title>The Outdoor Sports Show 2025</title>
+</programme>
+<programme start="20251028210000 +0000" stop="20251028220000 +0000" channel="beIN Sports 3.mncvision">
+    <title>UCL Highlights 2025/26</title>
+</programme>
+<programme start="20251028220000 +0000" stop="20251028223000 +0000" channel="beIN Sports 3.mncvision">
+    <title>PSG TV Specials 2025/26, Ep 9</title>
+</programme>
+<programme start="20251028223000 +0000" stop="20251028230000 +0000" channel="beIN Sports 3.mncvision">
+    <title>This Is Paris 2025/26, Ep 9</title>
+</programme>
+<programme start="20251028230000 +0000" stop="20251029010000 +0000" channel="beIN Sports 3.mncvision">
+    <title>PSG TV 2025/26: BRE Vs PSG</title>
+</programme>
+<programme start="20251029010000 +0000" stop="20251029012000 +0000" channel="beIN Sports 3.mncvision">
+    <title>Premier Padel Match HL 2024</title>
+</programme>
+<programme start="20251029012000 +0000" stop="20251029031000 +0000" channel="beIN Sports 3.mncvision">
+    <title>UEL 2025/26: LYO Vs BAS</title>
+</programme>
+<programme start="20251029031000 +0000" stop="20251029050000 +0000" channel="beIN Sports 3.mncvision">
+    <title>UECL 2025/26: RAP Vs FIO</title>
+</programme>
+<programme start="20251029050000 +0000" stop="20251029070000 +0000" channel="beIN Sports 3.mncvision">
+    <title>PSG TV 2025/26: BRE Vs PSG</title>
+</programme>
+<programme start="20251029070000 +0000" stop="20251029083000 +0000" channel="beIN Sports 3.mncvision">
+    <title>Premier Padel 2025: Newgiza (L)</title>
+</programme>
+<programme start="20251029083000 +0000" stop="20251029100000 +0000" channel="beIN Sports 3.mncvision">
+    <title>Premier Padel 2025: Newgiza (L)</title>
+</programme>
+<programme start="20251029100000 +0000" stop="20251029113000 +0000" channel="beIN Sports 3.mncvision">
+    <title>Premier Padel 2025: Newgiza (L)</title>
+</programme>
+<programme start="20251029113000 +0000" stop="20251029120000 +0000" channel="beIN Sports 3.mncvision">
+    <title>Premier Padel Highlights 2025</title>
+</programme>
+<programme start="20251029120000 +0000" stop="20251029123000 +0000" channel="beIN Sports 3.mncvision">
+    <title>Mini Match UCL: BAR Vs OLY</title>
+</programme>
+<programme start="20251029123000 +0000" stop="20251029130000 +0000" channel="beIN Sports 3.mncvision">
+    <title>Mini Match UCL: ARS Vs ATM</title>
+</programme>
+<programme start="20251029130000 +0000" stop="20251029143000 +0000" channel="beIN Sports 3.mncvision">
+    <title>Premier Padel 2025: Newgiza (L)</title>
+</programme>
+<programme start="20251029143000 +0000" stop="20251029160000 +0000" channel="beIN Sports 3.mncvision">
+    <title>Premier Padel 2025: Newgiza (L)</title>
+</programme>
+<programme start="20251029160000 +0000" stop="20251029163000 +0000" channel="beIN Sports 3.mncvision">
+    <title>Premier Padel 2025: Newgiza (L)</title>
+</programme>
+<programme start="20251028180000 +0000" stop="20251028183000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>Premier Padel Highlights 2025</title>
+</programme>
+<programme start="20251028183000 +0000" stop="20251028190000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>Premier Padel Highlights 2025</title>
+</programme>
+<programme start="20251028190000 +0000" stop="20251028193000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>Premier Padel Highlights 2025</title>
+</programme>
+<programme start="20251028193000 +0000" stop="20251028200000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>Champions Of The Water 2025</title>
+</programme>
+<programme start="20251028200000 +0000" stop="20251028203000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>Inside Sailing 2025: November</title>
+</programme>
+<programme start="20251028203000 +0000" stop="20251028210000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>The Outdoor Sports Show 2025</title>
+</programme>
+<programme start="20251028210000 +0000" stop="20251028220000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>UCL Highlights 2025/26</title>
+</programme>
+<programme start="20251028220000 +0000" stop="20251028223000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>PSG TV Specials 2025/26, Ep 9</title>
+</programme>
+<programme start="20251028223000 +0000" stop="20251028230000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>This Is Paris 2025/26, Ep 9</title>
+</programme>
+<programme start="20251028230000 +0000" stop="20251029010000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>PSG TV 2025/26: BRE Vs PSG</title>
+</programme>
+<programme start="20251029010000 +0000" stop="20251029012000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>Premier Padel Match HL 2024</title>
+</programme>
+<programme start="20251029012000 +0000" stop="20251029031000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>UEL 2025/26: LYO Vs BAS</title>
+</programme>
+<programme start="20251029031000 +0000" stop="20251029050000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>UECL 2025/26: RAP Vs FIO</title>
+</programme>
+<programme start="20251029050000 +0000" stop="20251029070000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>PSG TV 2025/26: BRE Vs PSG</title>
+</programme>
+<programme start="20251029070000 +0000" stop="20251029083000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>Premier Padel 2025: Newgiza (L)</title>
+</programme>
+<programme start="20251029083000 +0000" stop="20251029100000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>Premier Padel 2025: Newgiza (L)</title>
+</programme>
+<programme start="20251029100000 +0000" stop="20251029113000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>Premier Padel 2025: Newgiza (L)</title>
+</programme>
+<programme start="20251029113000 +0000" stop="20251029120000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>Premier Padel Highlights 2025</title>
+</programme>
+<programme start="20251029120000 +0000" stop="20251029123000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>Mini Match UCL: BAR Vs OLY</title>
+</programme>
+<programme start="20251029123000 +0000" stop="20251029130000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>Mini Match UCL: ARS Vs ATM</title>
+</programme>
+<programme start="20251029130000 +0000" stop="20251029143000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>Premier Padel 2025: Newgiza (L)</title>
+</programme>
+<programme start="20251029143000 +0000" stop="20251029160000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>Premier Padel 2025: Newgiza (L)</title>
+</programme>
+<programme start="20251029160000 +0000" stop="20251029163000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>Premier Padel 2025: Newgiza (L)</title>
+</programme>
 <programme start="20251028170000 +0000" stop="20251028190000 +0000" channel="beIN SPORTS 4.mncvision">
     <title>beIN Sports 4</title>
 </programme>
