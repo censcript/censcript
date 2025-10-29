@@ -8057,7 +8057,7 @@
     <title>AFC Challenge League (L)</title>
 </programme>
 <programme start="20251029140000 +0000" stop="20251029155500 +0000" channel="Soccer Channel.mncvision">
-    <title>DFB Pokal: SGE Vs BVB</title>
+    <title>Bundesliga: FCB Vs BVB</title>
 </programme>
 <programme start="20251029155500 +0000" stop="20251029162500 +0000" channel="Soccer Channel.mncvision">
     <title>ACL Two: KHA Vs AHL (L)</title>
@@ -8114,7 +8114,7 @@
     <title>AFC Challenge League (L)</title>
 </programme>
 <programme start="20251029140000 +0000" stop="20251029155500 +0000" channel="Soccer Channel HD.mncvision">
-    <title>DFB Pokal: SGE Vs BVB</title>
+    <title>Bundesliga: FCB Vs BVB</title>
 </programme>
 <programme start="20251029155500 +0000" stop="20251029162500 +0000" channel="Soccer Channel HD.mncvision">
     <title>ACL Two: KHA Vs AHL (L)</title>

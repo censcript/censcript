@@ -661,9 +661,6 @@
 <programme start="20251029013000 +0000" stop="20251029030000 +0000" channel="ANTV.vision">
 <title>Mangal Lakshmi</title>
 </programme>
-<programme start="20251029030000 +0000" stop="20251029063000 +0000" channel="ANTV.vision">
-<title>Krrish</title>
-</programme>
 <programme start="20251029063000 +0000" stop="20251029080000 +0000" channel="ANTV.vision">
 <title>Cinta Keluarga Pandya</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20251030091500 +0000" stop="20251030093000 +0000" channel="BTV.vision">
 <title>Info Seleb</title>
+</programme>
+<programme start="20251030093000 +0000" stop="20251030103000 +0000" channel="BTV.vision">
+<title>Berita Satu Sore</title>
 </programme>
