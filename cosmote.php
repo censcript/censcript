@@ -1,7 +1,3 @@
-<programme start="20251029071000 +0700" stop="20251029090500 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: SC Braga - FK Crvena Zvezda</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251029090500 +0700" stop="20251029110000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Union Saint-Gilloise - FC Internazionale Milano</title>
     <desc>Live: Tidak</desc>
@@ -70,10 +66,6 @@
     <title>Football: Athletic Club - Qarabag FK</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251029090000 +0700" stop="20251029100000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Highlights: UEL &amp; UECL 2025-26</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251029100000 +0700" stop="20251029120000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Atalanta - AC Milan</title>
     <desc>Live: Tidak</desc>
@@ -132,14 +124,6 @@
 </programme>
 <programme start="20251030090000 +0700" stop="20251030110000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Levadiakos - Asteras Aktor</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251029073000 +0700" stop="20251029093000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Atletico Mineiro - Independiente del Valle (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20251029093000 +0700" stop="20251029100000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Emirates FA Cup 2025-26 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251029100000 +0700" stop="20251029110000 +0700" channel="COSMOTE Sport 3 HD">
@@ -202,9 +186,13 @@
     <title>Sports Classics: My Sporting Moment</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251029070000 +0700" stop="20251029100000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Milwaukee Bucks - New York Knicks (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20251030100000 +0700" stop="20251030103000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Sports Classics: My Sporting Moment</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251030103000 +0700" stop="20251030110000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Emirates FA Cup 2025-26 - Highlights</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251029100000 +0700" stop="20251029110000 +0700" channel="COSMOTE Sport 4 HD">
     <title>NBA Specials</title>
@@ -264,10 +252,6 @@
 </programme>
 <programme start="20251030090000 +0700" stop="20251030110000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Real Madrid - Manresa</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251029085500 +0700" stop="20251029100000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>2025 Extreme H</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251029100000 +0700" stop="20251029110000 +0700" channel="COSMOTE Sport 5 HD">
@@ -358,6 +342,10 @@
     <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251030103000 +0700" stop="20251030110000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251029063000 +0700" stop="20251029103000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP Masters 1000 2025</title>
     <desc>Live: Tidak</desc>
@@ -392,6 +380,10 @@
 </programme>
 <programme start="20251030063000 +0700" stop="20251030103000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP Masters 1000 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251030103000 +0700" stop="20251030110000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Premier Padel Tour 2025 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251029090000 +0700" stop="20251029110000 +0700" channel="COSMOTE Sport 7 HD">

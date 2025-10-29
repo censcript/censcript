@@ -3133,7 +3133,7 @@
 <programme start="20251029191500 +0000" stop="20251029193500 +0000" channel="Sky Sport 9 HD.skyde">
     <title>Es folgt: DFB-Pokal</title>
 </programme>
-<programme start="20251029193500 +0000" stop="20251029220000 +0000" channel="Sky Sport 9 HD.skyde">
+<programme start="20251029193500 +0000" stop="20251029230000 +0000" channel="Sky Sport 9 HD.skyde">
     <title>Live DFB-Pokal: SV Darmstadt 98 - FC Schalke 04, 2. Runde</title>
 </programme>
 <programme start="20251029191500 +0000" stop="20251029193500 +0000" channel="Sky Sport 10 HD.skyde">
