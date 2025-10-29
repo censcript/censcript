@@ -593,10 +593,10 @@
         <title>Headline News</title>
     </programme>
     <programme start="20251028160000 +0000" stop="20251029160000 +0000" channel="spl01.mewatch">
-        <title>No programmes streaming LIVE at this moment</title>
+        <title>No Programme available now. Next Broadcast on 1st November, Saturday 7.20pm. Singapore Cup 2025/2026 </title>
     </programme>
     <programme start="20251029160000 +0000" stop="20251030160000 +0000" channel="spl01.mewatch">
-        <title>No programmes streaming LIVE at this moment</title>
+        <title>No Programme available now. Next Broadcast on 1st November, Saturday 7.20pm. Singapore Cup 2025/2026 </title>
     </programme>
     <programme start="20251028160000 +0000" stop="20251029160000 +0000" channel="spl02.mewatch">
         <title>No programmes streaming LIVE at this moment</title>

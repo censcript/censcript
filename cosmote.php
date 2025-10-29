@@ -130,6 +130,10 @@
     <title>Football: Atromitos Athens - Panathinaikos</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251030140000 +0700" stop="20251030160000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Egaleo - Aris</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251029110000 +0700" stop="20251029141500 +0700" channel="COSMOTE Sport 3 HD">
     <title>American Football: Kansas City Chiefs - Washington Commanders</title>
     <desc>Live: Tidak</desc>
@@ -262,10 +266,6 @@
     <title>Basketball: Murcia - Baskonia</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251029130000 +0700" stop="20251029133000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251029133000 +0700" stop="20251029140500 +0700" channel="COSMOTE Sport 5 HD">
     <title>Extreme E - Highlights 2025</title>
     <desc>Live: Tidak</desc>
@@ -348,6 +348,10 @@
 </programme>
 <programme start="20251030122500 +0700" stop="20251030141000 +0700" channel="COSMOTE Sport 5 HD">
     <title>DTM 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251030141000 +0700" stop="20251030150000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>2025 GT World Challenge Europe</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251029124500 +0700" stop="20251029170000 +0700" channel="COSMOTE Sport 6 HD">

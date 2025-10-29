@@ -3088,15 +3088,6 @@
 <programme start="20251029193500 +0000" stop="20251029230000 +0000" channel="Sky Sport 3 HD.skyde">
     <title>Live DFB-Pokal: 1. FC Union Berlin - Arminia Bielefeld, 2. Runde</title>
 </programme>
-<programme start="20251029161000 +0000" stop="20251029163000 +0000" channel="Sky Sport 4 HD.skyde">
-    <title>Es folgt: DFB-Pokal</title>
-</programme>
-<programme start="20251029163000 +0000" stop="20251029193500 +0000" channel="Sky Sport 4 HD.skyde">
-    <title>Live DFB-Pokal: SpVgg Greuther Fürth - 1. FC Kaiserslautern, 2. Runde</title>
-</programme>
-<programme start="20251029193500 +0000" stop="20251029230000 +0000" channel="Sky Sport 4 HD.skyde">
-    <title>Live DFB-Pokal: SV Darmstadt 98 - FC Schalke 04, 2. Runde</title>
-</programme>
 <programme start="20251029161000 +0000" stop="20251029163000 +0000" channel="Sky Sport 5 HD.skyde">
     <title>Es folgt: DFB-Pokal</title>
 </programme>
