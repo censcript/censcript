@@ -62,10 +62,6 @@
     <title>Football: Real Madrid CF - Juventus Football Club</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251029230000 +0700" stop="20251029233000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>UEFA Champions League Magazine 2025-26 E8</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251029233000 +0700" stop="20251030003000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Highlights: UEL &amp; UECL 2025-26</title>
     <desc>Live: Tidak</desc>
@@ -126,9 +122,9 @@
     <title>Football: PAOK - AEL Novibet</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251029225000 +0700" stop="20251029233000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Copa Libertadores 2025 - Highlights</title>
-    <desc>Live: Tidak</desc>
+<programme start="20251031003000 +0700" stop="20251031023000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Cagliari - Sassuolo (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20251029233000 +0700" stop="20251030014500 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Levadiakos - Asteras Aktor (L)</title>
@@ -198,9 +194,13 @@
     <title>Sports Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251029221500 +0700" stop="20251030000000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Pick n&#039; Roll</title>
+<programme start="20251031000000 +0700" stop="20251031003000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>William Hill Scottish Premiership - Highlights</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251031003000 +0700" stop="20251031023000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Al Ahli - Al-Riyadh (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20251030000000 +0700" stop="20251030021000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Mersin MSK - Karditsa (L)</title>
@@ -252,6 +252,14 @@
 </programme>
 <programme start="20251030215500 +0700" stop="20251031000500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Mersin MSK - Karditsa</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251031000500 +0700" stop="20251031003000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>NBA Specials</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251031003000 +0700" stop="20251031023000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Real Madrid - Manresa</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251029222000 +0700" stop="20251030003000 +0700" channel="COSMOTE Sport 5 HD">
@@ -454,10 +462,6 @@
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251029230000 +0700" stop="20251030000000 +0700" channel="COSMOTE Sport 8 HD">
-    <title>COSMOTESport8HD</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251030000000 +0700" stop="20251030003000 +0700" channel="COSMOTE Sport 8 HD">
     <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
@@ -522,9 +526,9 @@
     <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251029230000 +0700" stop="20251030000000 +0700" channel="COSMOTE Sport 9 HD">
-    <title>COSMOTESport9HD</title>
-    <desc>Live: Tidak</desc>
+<programme start="20251031000000 +0700" stop="20251031023000 +0700" channel="COSMOTE Sport 8 HD">
+    <title>Volleyball: Olympiacos - Napredak (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20251030000000 +0700" stop="20251030003000 +0700" channel="COSMOTE Sport 9 HD">
     <title>COSMOTESport9HD</title>
