@@ -482,7 +482,7 @@
         <title>Hey, Nee Romba Azhaga Irukkey S2 - EP 11</title>
     </programme>
     <programme start="20251029080000 +0000" stop="20251029110000 +0000" channel="Vasantham.mewatch">
-        <title>4pm Movie Slot</title>
+        <title>Nanban Oruvan Vantha Piragu</title>
     </programme>
     <programme start="20251029110000 +0000" stop="20251029113000 +0000" channel="Vasantham.mewatch">
         <title>Damu’s Kitchen - EP 41</title>

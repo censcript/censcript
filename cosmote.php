@@ -130,6 +130,10 @@
     <title>Football: Juventus Football Club - Udinese</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251030180000 +0700" stop="20251030200000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: FC Internazionale Milano - ACF Fiorentina</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251029161000 +0700" stop="20251029180500 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Ipswich Town - West Bromwich Albion</title>
     <desc>Live: Tidak</desc>
@@ -258,10 +262,6 @@
     <title>Basketball: Boston Celtics - Cleveland Cavaliers</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251029162500 +0700" stop="20251029175000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>DTM 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251029175000 +0700" stop="20251029193500 +0700" channel="COSMOTE Sport 5 HD">
     <title>DTM 2025</title>
     <desc>Live: Tidak</desc>
@@ -347,6 +347,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251030173000 +0700" stop="20251030181500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251030181500 +0700" stop="20251030192000 +0700" channel="COSMOTE Sport 5 HD">
     <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>

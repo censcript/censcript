@@ -574,9 +574,6 @@
 <programme start="20251029091500 +0000" stop="20251029101500 +0000" channel="Trans 7.vision">
 <title>Makan Receh</title>
 </programme>
-<programme start="20251029101500 +0000" stop="20251029110000 +0000" channel="Trans 7.vision">
-<title>Speak Up</title>
-</programme>
 <programme start="20251029110000 +0000" stop="20251029114500 +0000" channel="Trans 7.vision">
 <title>On The Spot</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20251030083000 +0000" stop="20251030091500 +0000" channel="BTV.vision">
 <title>Figur Publik</title>
+</programme>
+<programme start="20251030091500 +0000" stop="20251030093000 +0000" channel="BTV.vision">
+<title>Info Seleb</title>
 </programme>

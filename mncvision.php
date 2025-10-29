@@ -7553,7 +7553,7 @@
     <title>Preman Pensiun S8</title>
 </programme>
 <programme start="20251029100000 +0000" stop="20251029113000 +0000" channel="RCTI.mncvision">
-    <title>Terbelenggu Rindu</title>
+    <title>Dusta Dibalik Cinta</title>
 </programme>
 <programme start="20251029113000 +0000" stop="20251029140000 +0000" channel="RCTI.mncvision">
     <title>AFC Challenge Cup 2025/2026 (L)</title>
@@ -7604,7 +7604,7 @@
     <title>Preman Pensiun S8</title>
 </programme>
 <programme start="20251029100000 +0000" stop="20251029113000 +0000" channel="RCTI HD.mncvision">
-    <title>Terbelenggu Rindu</title>
+    <title>Dusta Dibalik Cinta</title>
 </programme>
 <programme start="20251029113000 +0000" stop="20251029140000 +0000" channel="RCTI HD.mncvision">
     <title>AFC Challenge Cup 2025/2026 (L)</title>
