@@ -664,9 +664,6 @@
 <programme start="20251030114500 +0000" stop="20251030121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
-<programme start="20251028233000 +0000" stop="20251029013000 +0000" channel="ANTV.vision">
-<title>Tragedi Bintaro</title>
-</programme>
 <programme start="20251029013000 +0000" stop="20251029030000 +0000" channel="ANTV.vision">
 <title>Mangal Lakshmi</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20251030063000 +0000" stop="20251030080000 +0000" channel="BTV.vision">
 <title>Spot On</title>
+</programme>
+<programme start="20251030080000 +0000" stop="20251030083000 +0000" channel="BTV.vision">
+<title>Dikit-Dikit Damkar</title>
 </programme>

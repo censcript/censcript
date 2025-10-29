@@ -8077,13 +8077,13 @@
     <programme start="20251029043000 +0000" stop="20251029073000 +0000" channel="Asianet Movies.starhub">
         <title>Oru Yamandan Premakadha</title>
     </programme>
-    <programme start="20251029073000 +0000" stop="20251029103000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251029073000 +0000" stop="20251029103500 +0000" channel="Asianet Movies.starhub">
         <title>Ennum Eppozhum</title>
     </programme>
-    <programme start="20251029103000 +0000" stop="20251029133000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251029103500 +0000" stop="20251029133000 +0000" channel="Asianet Movies.starhub">
         <title>Ananthabhadram</title>
     </programme>
-    <programme start="20251029133000 +0000" stop="20251029163000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251029133000 +0000" stop="20251029162500 +0000" channel="Asianet Movies.starhub">
         <title>2 Countries</title>
     </programme>
     <programme start="20251028160000 +0000" stop="20251028170000 +0000" channel="Astro Warna HD.starhub">
