@@ -692,10 +692,10 @@
         <title>Trip In Korea</title>
     </programme>
     <programme start="20251028170000 +0000" stop="20251028173000 +0000" channel="Arirang TV HD.starhub">
-        <title>The Kulture Wave [R]</title>
+        <title>The Kulture Wave</title>
     </programme>
     <programme start="20251028173000 +0000" stop="20251028180000 +0000" channel="Arirang TV HD.starhub">
-        <title>Within The Frame [R]</title>
+        <title>Within The Frame</title>
     </programme>
     <programme start="20251028180000 +0000" stop="20251028181500 +0000" channel="Arirang TV HD.starhub">
         <title>1day 1k-Culture: K-People</title>
@@ -719,7 +719,7 @@
         <title>Trip In Korea</title>
     </programme>
     <programme start="20251028210000 +0000" stop="20251028213000 +0000" channel="Arirang TV HD.starhub">
-        <title>Press Perspective [R]</title>
+        <title>Press Perspective</title>
     </programme>
     <programme start="20251028213000 +0000" stop="20251028215000 +0000" channel="Arirang TV HD.starhub">
         <title>Korea Travelogue 5</title>
