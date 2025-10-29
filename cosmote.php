@@ -58,6 +58,10 @@
     <title>Football: Pisa - SS Lazio (L)</title>
     <desc>Live: Ya</desc>
 </programme>
+<programme start="20251031044500 +0700" stop="20251031064500 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: Chelsea FC - AFC Ajax</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251030030000 +0700" stop="20251030050000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Ilioupoli - AEK</title>
     <desc>Live: Tidak</desc>
@@ -350,6 +354,10 @@
     <title>DTM</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251031040000 +0700" stop="20251031052500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Grand Prix Show 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251030013000 +0700" stop="20251030053000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP Masters 1000 2025 (L)</title>
     <desc>Live: Ya</desc>
@@ -445,6 +453,14 @@
 <programme start="20251031013000 +0700" stop="20251031040000 +0700" channel="COSMOTE Sport 7 HD">
     <title>Volleyball: Asterix Avo Beveren - Olympiacos (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20251031040000 +0700" stop="20251031043000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251031043000 +0700" stop="20251031050000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251030024500 +0700" stop="20251030044500 +0700" channel="COSMOTE Sport 8 HD">
     <title>Football: Hibernian - Rangers FC (L)</title>
