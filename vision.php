@@ -574,9 +574,6 @@
 <programme start="20251029091500 +0000" stop="20251029101500 +0000" channel="Trans 7.vision">
 <title>Makan Receh</title>
 </programme>
-<programme start="20251029101500 +0000" stop="20251029110000 +0000" channel="Trans 7.vision">
-<title>Speak Up</title>
-</programme>
 <programme start="20251029110000 +0000" stop="20251029114500 +0000" channel="Trans 7.vision">
 <title>On The Spot</title>
 </programme>
@@ -675,9 +672,6 @@
 </programme>
 <programme start="20251029093000 +0000" stop="20251029110000 +0000" channel="ANTV.vision">
 <title>Takdir Cinta Layla</title>
-</programme>
-<programme start="20251029110000 +0000" stop="20251029130000 +0000" channel="ANTV.vision">
-<title>Si Rawing 3</title>
 </programme>
 <programme start="20251029130000 +0000" stop="20251029150000 +0000" channel="ANTV.vision">
 <title>Rindu Tak Berujung</title>
@@ -852,9 +846,6 @@
 </programme>
 <programme start="20251029115700 +0000" stop="20251029130000 +0000" channel="TVOne.vision">
 <title>Kabar Terkini</title>
-</programme>
-<programme start="20251029130000 +0000" stop="20251029135700 +0000" channel="TVOne.vision">
-<title>Indonesia Business Forum (L)</title>
 </programme>
 <programme start="20251029135700 +0000" stop="20251029140000 +0000" channel="TVOne.vision">
 <title>Kabar Terkini</title>
@@ -1497,4 +1488,13 @@
 </programme>
 <programme start="20251030083000 +0000" stop="20251030091500 +0000" channel="BTV.vision">
 <title>Figur Publik</title>
+</programme>
+<programme start="20251030091500 +0000" stop="20251030093000 +0000" channel="BTV.vision">
+<title>Info Seleb</title>
+</programme>
+<programme start="20251030093000 +0000" stop="20251030103000 +0000" channel="BTV.vision">
+<title>Berita Satu Sore</title>
+</programme>
+<programme start="20251030103000 +0000" stop="20251030123000 +0000" channel="BTV.vision">
+<title>Berita Satu Utama</title>
 </programme>
