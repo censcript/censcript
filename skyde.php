@@ -2443,6 +2443,93 @@
 <programme start="20251030220500 +0000" stop="20251030230000 +0000" channel="Sky Replay HD.skyde">
     <title>His Dark Materials</title>
 </programme>
+<programme start="20251030000500 +0000" stop="20251030004000 +0000" channel="Sky Showcase HD.skyde">
+    <title>FARID - Magic Unplugged: Sports Edition</title>
+</programme>
+<programme start="20251030004000 +0000" stop="20251030005000 +0000" channel="Sky Showcase HD.skyde">
+    <title>Diese Ochsenknechts 4: Cheyenne Fashion Week</title>
+</programme>
+<programme start="20251030005000 +0000" stop="20251030014000 +0000" channel="Sky Showcase HD.skyde">
+    <title>Hubert und Staller</title>
+</programme>
+<programme start="20251030014000 +0000" stop="20251030022500 +0000" channel="Sky Showcase HD.skyde">
+    <title>Die Rosenheim-Cops</title>
+</programme>
+<programme start="20251030022500 +0000" stop="20251030031000 +0000" channel="Sky Showcase HD.skyde">
+    <title>Die Rosenheim-Cops</title>
+</programme>
+<programme start="20251030031000 +0000" stop="20251030040000 +0000" channel="Sky Showcase HD.skyde">
+    <title>Mord mit Aussicht</title>
+</programme>
+<programme start="20251030040000 +0000" stop="20251030044500 +0000" channel="Sky Showcase HD.skyde">
+    <title>Mord mit Aussicht</title>
+</programme>
+<programme start="20251030044500 +0000" stop="20251030051000 +0000" channel="Sky Showcase HD.skyde">
+    <title>Unsere Helden: Die Tierärzte in der Arktis</title>
+</programme>
+<programme start="20251030051000 +0000" stop="20251030060500 +0000" channel="Sky Showcase HD.skyde">
+    <title>Helden der Evolution</title>
+</programme>
+<programme start="20251030060500 +0000" stop="20251030070000 +0000" channel="Sky Showcase HD.skyde">
+    <title>Helden der Evolution</title>
+</programme>
+<programme start="20251030070000 +0000" stop="20251030075500 +0000" channel="Sky Showcase HD.skyde">
+    <title>Mord mit Aussicht</title>
+</programme>
+<programme start="20251030075500 +0000" stop="20251030085000 +0000" channel="Sky Showcase HD.skyde">
+    <title>Mord mit Aussicht</title>
+</programme>
+<programme start="20251030085000 +0000" stop="20251030093500 +0000" channel="Sky Showcase HD.skyde">
+    <title>Die Rosenheim-Cops</title>
+</programme>
+<programme start="20251030093500 +0000" stop="20251030102500 +0000" channel="Sky Showcase HD.skyde">
+    <title>Die Rosenheim-Cops</title>
+</programme>
+<programme start="20251030102500 +0000" stop="20251030111000 +0000" channel="Sky Showcase HD.skyde">
+    <title>Unfall, Selbstmord oder Mord</title>
+</programme>
+<programme start="20251030111000 +0000" stop="20251030115500 +0000" channel="Sky Showcase HD.skyde">
+    <title>Unfall, Selbstmord oder Mord</title>
+</programme>
+<programme start="20251030115500 +0000" stop="20251030124000 +0000" channel="Sky Showcase HD.skyde">
+    <title>Hochsee Cowboys</title>
+</programme>
+<programme start="20251030124000 +0000" stop="20251030132500 +0000" channel="Sky Showcase HD.skyde">
+    <title>Hochsee Cowboys</title>
+</programme>
+<programme start="20251030132500 +0000" stop="20251030142000 +0000" channel="Sky Showcase HD.skyde">
+    <title>Hubert und Staller</title>
+</programme>
+<programme start="20251030142000 +0000" stop="20251030151500 +0000" channel="Sky Showcase HD.skyde">
+    <title>Hubert und Staller</title>
+</programme>
+<programme start="20251030151500 +0000" stop="20251030160500 +0000" channel="Sky Showcase HD.skyde">
+    <title>Hubert und Staller</title>
+</programme>
+<programme start="20251030160500 +0000" stop="20251030165500 +0000" channel="Sky Showcase HD.skyde">
+    <title>Hubert und Staller</title>
+</programme>
+<programme start="20251030165500 +0000" stop="20251030174000 +0000" channel="Sky Showcase HD.skyde">
+    <title>The Rookie</title>
+</programme>
+<programme start="20251030174000 +0000" stop="20251030183000 +0000" channel="Sky Showcase HD.skyde">
+    <title>The Rookie</title>
+</programme>
+<programme start="20251030183000 +0000" stop="20251030191500 +0000" channel="Sky Showcase HD.skyde">
+    <title>S.W.A.T.</title>
+</programme>
+<programme start="20251030191500 +0000" stop="20251030200500 +0000" channel="Sky Showcase HD.skyde">
+    <title>The Iris Affair</title>
+</programme>
+<programme start="20251030200500 +0000" stop="20251030210500 +0000" channel="Sky Showcase HD.skyde">
+    <title>Devil in Disguise: John Wayne Gacy</title>
+</programme>
+<programme start="20251030210500 +0000" stop="20251030221000 +0000" channel="Sky Showcase HD.skyde">
+    <title>Devil in Disguise: John Wayne Gacy</title>
+</programme>
+<programme start="20251030221000 +0000" stop="20251030230000 +0000" channel="Sky Showcase HD.skyde">
+    <title>Millionaire Murders</title>
+</programme>
 <programme start="20251029232500 +0000" stop="20251030012500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: LASK - Grazer AK 1902, 11. Runde</title>
 </programme>

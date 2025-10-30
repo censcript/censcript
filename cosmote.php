@@ -122,6 +122,10 @@
     <title>Football: AS Roma - Parma</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251031221500 +0700" stop="20251101001500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Atalanta - AC Milan</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251030210000 +0700" stop="20251030230000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Al Nassr - Al Ittihad</title>
     <desc>Live: Tidak</desc>
@@ -196,14 +200,6 @@
 </programme>
 <programme start="20251031210000 +0700" stop="20251031230000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Lanus - Universidad de Chile</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251030193000 +0700" stop="20251030213000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Virtus Bologna - Sassari</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251030213000 +0700" stop="20251030215500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>ACB Liga Endesa 2025-26 - Fifth Quarter E4</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251030215500 +0700" stop="20251031000500 +0700" channel="COSMOTE Sport 4 HD">
@@ -387,6 +383,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251031200000 +0700" stop="20251031220000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: ATP Masters 1000 2025 (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
+<programme start="20251031220000 +0700" stop="20251101003000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP Masters 1000 2025 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
