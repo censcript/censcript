@@ -4100,7 +4100,7 @@
     <title>Lets Get Wet</title>
 </programme>
 <programme start="20251030090000 +0000" stop="20251030093000 +0000" channel="GTV.mncvision">
-    <title>The Helping Heroes</title>
+    <title>Bernard Bear</title>
 </programme>
 <programme start="20251030093000 +0000" stop="20251030110000 +0000" channel="GTV.mncvision">
     <title>SpongeBob SquarePants Movie</title>
@@ -4111,11 +4111,11 @@
 <programme start="20251030111500 +0000" stop="20251030123000 +0000" channel="GTV.mncvision">
     <title>Anak Jalanan</title>
 </programme>
-<programme start="20251030123000 +0000" stop="20251030143000 +0000" channel="GTV.mncvision">
-    <title>AeonFlux</title>
+<programme start="20251030123000 +0000" stop="20251030140000 +0000" channel="GTV.mncvision">
+    <title>Underground Monster</title>
 </programme>
-<programme start="20251030143000 +0000" stop="20251030160000 +0000" channel="GTV.mncvision">
-    <title>Oath Of The Guardian</title>
+<programme start="20251030140000 +0000" stop="20251030160000 +0000" channel="GTV.mncvision">
+    <title>AeonFlux</title>
 </programme>
 <programme start="20251030160000 +0000" stop="20251030163000 +0000" channel="GTV.mncvision">
     <title>Twisted 3</title>
@@ -4151,7 +4151,7 @@
     <title>Lets Get Wet</title>
 </programme>
 <programme start="20251030090000 +0000" stop="20251030093000 +0000" channel="GTV HD.mncvision">
-    <title>The Helping Heroes</title>
+    <title>Bernard Bear</title>
 </programme>
 <programme start="20251030093000 +0000" stop="20251030110000 +0000" channel="GTV HD.mncvision">
     <title>SpongeBob SquarePants Movie</title>
@@ -4162,11 +4162,11 @@
 <programme start="20251030111500 +0000" stop="20251030123000 +0000" channel="GTV HD.mncvision">
     <title>Anak Jalanan</title>
 </programme>
-<programme start="20251030123000 +0000" stop="20251030143000 +0000" channel="GTV HD.mncvision">
-    <title>AeonFlux</title>
+<programme start="20251030123000 +0000" stop="20251030140000 +0000" channel="GTV HD.mncvision">
+    <title>Underground Monster</title>
 </programme>
-<programme start="20251030143000 +0000" stop="20251030160000 +0000" channel="GTV HD.mncvision">
-    <title>Oath Of The Guardian</title>
+<programme start="20251030140000 +0000" stop="20251030160000 +0000" channel="GTV HD.mncvision">
+    <title>AeonFlux</title>
 </programme>
 <programme start="20251030160000 +0000" stop="20251030163000 +0000" channel="GTV HD.mncvision">
     <title>Twisted 3</title>
@@ -8158,7 +8158,10 @@
 <programme start="20251030053000 +0000" stop="20251030060000 +0000" channel="Sportstars.mncvision">
     <title>Golden Fit</title>
 </programme>
-<programme start="20251030060000 +0000" stop="20251030100000 +0000" channel="Sportstars.mncvision">
+<programme start="20251030060000 +0000" stop="20251030090000 +0000" channel="Sportstars.mncvision">
+    <title>Asian Youth Games 2025 (L)</title>
+</programme>
+<programme start="20251030090000 +0000" stop="20251030100000 +0000" channel="Sportstars.mncvision">
     <title>Asian Youth Games 2025 (L)</title>
 </programme>
 <programme start="20251030100000 +0000" stop="20251030120000 +0000" channel="Sportstars.mncvision">
@@ -8455,7 +8458,10 @@
 <programme start="20251030053000 +0000" stop="20251030060000 +0000" channel="Sportstars HD.mncvision">
     <title>Golden Fit</title>
 </programme>
-<programme start="20251030060000 +0000" stop="20251030100000 +0000" channel="Sportstars HD.mncvision">
+<programme start="20251030060000 +0000" stop="20251030090000 +0000" channel="Sportstars HD.mncvision">
+    <title>Asian Youth Games 2025 (L)</title>
+</programme>
+<programme start="20251030090000 +0000" stop="20251030100000 +0000" channel="Sportstars HD.mncvision">
     <title>Asian Youth Games 2025 (L)</title>
 </programme>
 <programme start="20251030100000 +0000" stop="20251030120000 +0000" channel="Sportstars HD.mncvision">
