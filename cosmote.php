@@ -58,10 +58,6 @@
     <title>Football: AS Monaco FC - Tottenham Hotspur</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251030140000 +0700" stop="20251030160000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Egaleo - Aris</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251030160000 +0700" stop="20251030180000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Juventus Football Club - Udinese</title>
     <desc>Live: Tidak</desc>
@@ -116,6 +112,10 @@
 </programme>
 <programme start="20251031141000 +0700" stop="20251031161000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Pisa - SS Lazio</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251031161000 +0700" stop="20251031181000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Cagliari - Sassuolo</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251030150000 +0700" stop="20251030170000 +0700" channel="COSMOTE Sport 3 HD">
@@ -250,10 +250,6 @@
     <title>Basketball: Mersin MSK - Karditsa</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251030150000 +0700" stop="20251030153000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Extreme E - Highlights 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251030153000 +0700" stop="20251030163000 +0700" channel="COSMOTE Sport 5 HD">
     <title>2025 FIM Women&#039;s Circuit Racing World Championship</title>
     <desc>Live: Tidak</desc>
@@ -346,6 +342,10 @@
     <title>MotoGP 2025 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251031161500 +0700" stop="20251031175000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251030130000 +0700" stop="20251030170000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP Masters 1000 2025</title>
     <desc>Live: Tidak</desc>
@@ -384,6 +384,10 @@
 </programme>
 <programme start="20251031133000 +0700" stop="20251031160000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Volleyball: Asterix Avo Beveren - Olympiacos</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251031160000 +0700" stop="20251031183000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Volleyball: Olympiacos - Napredak</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251030150000 +0700" stop="20251030170000 +0700" channel="COSMOTE Sport 7 HD">
