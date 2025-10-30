@@ -58,10 +58,6 @@
     <title>Football: Crystal Palace - AEK Larnaca</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251030110000 +0700" stop="20251030120000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Highlights: UEL &amp; UECL 2025-26</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251030120000 +0700" stop="20251030140000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Atromitos Athens - Panathinaikos</title>
     <desc>Live: Tidak</desc>
@@ -116,6 +112,10 @@
 </programme>
 <programme start="20251031100000 +0700" stop="20251031120000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Cagliari - Sassuolo</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251031120000 +0700" stop="20251031141000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Kifisia - Panetolikos</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251030110000 +0700" stop="20251030130000 +0700" channel="COSMOTE Sport 3 HD">
@@ -343,6 +343,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251031110000 +0700" stop="20251031120500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>2025 Extreme H</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251031120500 +0700" stop="20251031131000 +0700" channel="COSMOTE Sport 5 HD">
     <title>2025 Extreme H</title>
     <desc>Live: Tidak</desc>
 </programme>
