@@ -58,10 +58,6 @@
     <title>Football: AS Roma - Viktoria Plzen</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251030120000 +0700" stop="20251030140000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Atromitos Athens - Panathinaikos</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251030140000 +0700" stop="20251030160000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Egaleo - Aris</title>
     <desc>Live: Tidak</desc>
@@ -116,6 +112,10 @@
 </programme>
 <programme start="20251031120000 +0700" stop="20251031141000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Kifisia - Panetolikos</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251031141000 +0700" stop="20251031161000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Pisa - SS Lazio</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251030130000 +0700" stop="20251030150000 +0700" channel="COSMOTE Sport 3 HD">
