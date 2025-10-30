@@ -2504,7 +2504,7 @@
         <title>Season 6, Episode 5 - Chokes</title>
     </programme>
     <programme start="20251029233000 +0000" stop="20251030000000 +0000" channel="Hub Sports 2 HD.starhub">
-        <title>#809: Origins:</title>
+        <title>#809: Origins</title>
     </programme>
     <programme start="20251030000000 +0000" stop="20251030020000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>Singapore Premier League 2025/26 Hougang United FC vs BG Tampines Rovers FC</title>
@@ -2519,7 +2519,7 @@
         <title>LINK Hong Kong Open Round 1</title>
     </programme>
     <programme start="20251030083000 +0000" stop="20251030090000 +0000" channel="Hub Sports 2 HD.starhub">
-        <title>#809: Origins:</title>
+        <title>#809: Origins</title>
     </programme>
     <programme start="20251030090000 +0000" stop="20251030100000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>Glendale, AZ</title>
@@ -6416,7 +6416,7 @@
         <title>Season 6, Episode 5 - Chokes</title>
     </programme>
     <programme start="20251029233000 +0000" stop="20251030000000 +0000" channel="TestChannel 995.starhub">
-        <title>#809: Origins:</title>
+        <title>#809: Origins</title>
     </programme>
     <programme start="20251030000000 +0000" stop="20251030020000 +0000" channel="TestChannel 995.starhub">
         <title>Singapore Premier League 2025/26 Hougang United FC vs BG Tampines Rovers FC</title>
@@ -6431,7 +6431,7 @@
         <title>LINK Hong Kong Open Round 1</title>
     </programme>
     <programme start="20251030083000 +0000" stop="20251030090000 +0000" channel="TestChannel 995.starhub">
-        <title>#809: Origins:</title>
+        <title>#809: Origins</title>
     </programme>
     <programme start="20251030090000 +0000" stop="20251030100000 +0000" channel="TestChannel 995.starhub">
         <title>Glendale, AZ</title>
