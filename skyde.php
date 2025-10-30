@@ -811,94 +811,94 @@
 <programme start="20251030225500 +0000" stop="20251030230000 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
-<programme start="20251028233000 +0000" stop="20251029001500 +0000" channel="Crime + Investigation.skyde">
+<programme start="20251029233000 +0000" stop="20251030001500 +0000" channel="Crime + Investigation.skyde">
     <title>Dead to me - Der Familie entrissen</title>
 </programme>
-<programme start="20251029001500 +0000" stop="20251029010000 +0000" channel="Crime + Investigation.skyde">
-    <title>Mordkommission New Orleans</title>
+<programme start="20251030001500 +0000" stop="20251030010000 +0000" channel="Crime + Investigation.skyde">
+    <title>Imperfect Murder - Die Fehler eines Mörders</title>
 </programme>
-<programme start="20251029010000 +0000" stop="20251029014500 +0000" channel="Crime + Investigation.skyde">
-    <title>Mordkommission New Orleans</title>
+<programme start="20251030010000 +0000" stop="20251030014500 +0000" channel="Crime + Investigation.skyde">
+    <title>Imperfect Murder - Die Fehler eines Mörders</title>
 </programme>
-<programme start="20251029014500 +0000" stop="20251029021000 +0000" channel="Crime + Investigation.skyde">
+<programme start="20251030014500 +0000" stop="20251030021000 +0000" channel="Crime + Investigation.skyde">
     <title>Der letzte Klick - Tödliche Online-Begegnungen</title>
 </programme>
-<programme start="20251029021000 +0000" stop="20251029030000 +0000" channel="Crime + Investigation.skyde">
+<programme start="20251030021000 +0000" stop="20251030030000 +0000" channel="Crime + Investigation.skyde">
     <title>Bloodline Detectives - Die DNA der Täter</title>
 </programme>
-<programme start="20251029030000 +0000" stop="20251029034500 +0000" channel="Crime + Investigation.skyde">
+<programme start="20251030030000 +0000" stop="20251030034500 +0000" channel="Crime + Investigation.skyde">
     <title>Am Ort des Verbrechens</title>
 </programme>
-<programme start="20251029034500 +0000" stop="20251029043000 +0000" channel="Crime + Investigation.skyde">
+<programme start="20251030034500 +0000" stop="20251030043000 +0000" channel="Crime + Investigation.skyde">
     <title>Mordkommission New Orleans</title>
 </programme>
-<programme start="20251029043000 +0000" stop="20251029052000 +0000" channel="Crime + Investigation.skyde">
+<programme start="20251030043000 +0000" stop="20251030052000 +0000" channel="Crime + Investigation.skyde">
     <title>Mordkommission New Orleans</title>
 </programme>
-<programme start="20251029052000 +0000" stop="20251029061000 +0000" channel="Crime + Investigation.skyde">
+<programme start="20251030052000 +0000" stop="20251030061000 +0000" channel="Crime + Investigation.skyde">
     <title>Cold Case Files</title>
 </programme>
-<programme start="20251029061000 +0000" stop="20251029070000 +0000" channel="Crime + Investigation.skyde">
+<programme start="20251030061000 +0000" stop="20251030070000 +0000" channel="Crime + Investigation.skyde">
     <title>#TextMeWhenYouGetHome</title>
 </programme>
-<programme start="20251029070000 +0000" stop="20251029075000 +0000" channel="Crime + Investigation.skyde">
+<programme start="20251030070000 +0000" stop="20251030075000 +0000" channel="Crime + Investigation.skyde">
     <title>Dead to me - Der Familie entrissen</title>
 </programme>
-<programme start="20251029075000 +0000" stop="20251029084000 +0000" channel="Crime + Investigation.skyde">
+<programme start="20251030075000 +0000" stop="20251030084000 +0000" channel="Crime + Investigation.skyde">
     <title>Bloodline Detectives - Die DNA der Täter</title>
 </programme>
-<programme start="20251029084000 +0000" stop="20251029093000 +0000" channel="Crime + Investigation.skyde">
+<programme start="20251030084000 +0000" stop="20251030093000 +0000" channel="Crime + Investigation.skyde">
     <title>Am Ort des Verbrechens</title>
 </programme>
-<programme start="20251029093000 +0000" stop="20251029102000 +0000" channel="Crime + Investigation.skyde">
+<programme start="20251030093000 +0000" stop="20251030102000 +0000" channel="Crime + Investigation.skyde">
     <title>Mordkommission New Orleans</title>
 </programme>
-<programme start="20251029102000 +0000" stop="20251029111500 +0000" channel="Crime + Investigation.skyde">
+<programme start="20251030102000 +0000" stop="20251030111500 +0000" channel="Crime + Investigation.skyde">
     <title>Mordkommission New Orleans</title>
 </programme>
-<programme start="20251029111500 +0000" stop="20251029120500 +0000" channel="Crime + Investigation.skyde">
+<programme start="20251030111500 +0000" stop="20251030120500 +0000" channel="Crime + Investigation.skyde">
     <title>Cold Case Files</title>
 </programme>
-<programme start="20251029120500 +0000" stop="20251029125500 +0000" channel="Crime + Investigation.skyde">
+<programme start="20251030120500 +0000" stop="20251030125500 +0000" channel="Crime + Investigation.skyde">
     <title>#TextMeWhenYouGetHome</title>
 </programme>
-<programme start="20251029125500 +0000" stop="20251029132000 +0000" channel="Crime + Investigation.skyde">
+<programme start="20251030125500 +0000" stop="20251030132000 +0000" channel="Crime + Investigation.skyde">
     <title>Der letzte Klick - Tödliche Online-Begegnungen</title>
 </programme>
-<programme start="20251029132000 +0000" stop="20251029141000 +0000" channel="Crime + Investigation.skyde">
-    <title>Mordkommission New Orleans</title>
+<programme start="20251030132000 +0000" stop="20251030141000 +0000" channel="Crime + Investigation.skyde">
+    <title>Imperfect Murder - Die Fehler eines Mörders</title>
 </programme>
-<programme start="20251029141000 +0000" stop="20251029150000 +0000" channel="Crime + Investigation.skyde">
-    <title>Mordkommission New Orleans</title>
+<programme start="20251030141000 +0000" stop="20251030150000 +0000" channel="Crime + Investigation.skyde">
+    <title>Imperfect Murder - Die Fehler eines Mörders</title>
 </programme>
-<programme start="20251029150000 +0000" stop="20251029155000 +0000" channel="Crime + Investigation.skyde">
+<programme start="20251030150000 +0000" stop="20251030155000 +0000" channel="Crime + Investigation.skyde">
     <title>The First 48</title>
 </programme>
-<programme start="20251029155000 +0000" stop="20251029164000 +0000" channel="Crime + Investigation.skyde">
+<programme start="20251030155000 +0000" stop="20251030164000 +0000" channel="Crime + Investigation.skyde">
     <title>Bloodline Detectives - Die DNA der Täter</title>
 </programme>
-<programme start="20251029164000 +0000" stop="20251029173000 +0000" channel="Crime + Investigation.skyde">
+<programme start="20251030164000 +0000" stop="20251030173000 +0000" channel="Crime + Investigation.skyde">
     <title>Am Ort des Verbrechens</title>
 </programme>
-<programme start="20251029173000 +0000" stop="20251029182000 +0000" channel="Crime + Investigation.skyde">
+<programme start="20251030173000 +0000" stop="20251030182000 +0000" channel="Crime + Investigation.skyde">
     <title>Mordkommission New Orleans</title>
 </programme>
-<programme start="20251029182000 +0000" stop="20251029191500 +0000" channel="Crime + Investigation.skyde">
-    <title>Mordkommission New Orleans</title>
+<programme start="20251030182000 +0000" stop="20251030191500 +0000" channel="Crime + Investigation.skyde">
+    <title>Im Verhörraum</title>
 </programme>
-<programme start="20251029191500 +0000" stop="20251029200500 +0000" channel="Crime + Investigation.skyde">
-    <title>Imperfect Murder - Die Fehler eines Mörders</title>
+<programme start="20251030191500 +0000" stop="20251030200500 +0000" channel="Crime + Investigation.skyde">
+    <title>Secrets of Penthouse - Sex, Macht, Ausbeutung</title>
 </programme>
-<programme start="20251029200500 +0000" stop="20251029205500 +0000" channel="Crime + Investigation.skyde">
-    <title>Imperfect Murder - Die Fehler eines Mörders</title>
+<programme start="20251030200500 +0000" stop="20251030205500 +0000" channel="Crime + Investigation.skyde">
+    <title>Secrets of Penthouse - Sex, Macht, Ausbeutung</title>
 </programme>
-<programme start="20251029205500 +0000" stop="20251029214500 +0000" channel="Crime + Investigation.skyde">
+<programme start="20251030205500 +0000" stop="20251030214500 +0000" channel="Crime + Investigation.skyde">
     <title>The First 48</title>
 </programme>
-<programme start="20251029214500 +0000" stop="20251029224000 +0000" channel="Crime + Investigation.skyde">
+<programme start="20251030214500 +0000" stop="20251030224000 +0000" channel="Crime + Investigation.skyde">
     <title>Cold Case Files</title>
 </programme>
-<programme start="20251029224000 +0000" stop="20251029233000 +0000" channel="Crime + Investigation.skyde">
+<programme start="20251030224000 +0000" stop="20251030233000 +0000" channel="Crime + Investigation.skyde">
     <title>#TextMeWhenYouGetHome</title>
 </programme>
 <programme start="20251029230000 +0000" stop="20251030070000 +0000" channel="DAZN 1 HD.skyde">
@@ -2529,6 +2529,60 @@
 </programme>
 <programme start="20251030221000 +0000" stop="20251030230000 +0000" channel="Sky Showcase HD.skyde">
     <title>Millionaire Murders</title>
+</programme>
+<programme start="20251029232500 +0000" stop="20251030012500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: LASK - Grazer AK 1902, 11. Runde</title>
+</programme>
+<programme start="20251030012500 +0000" stop="20251030032500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: SV Oberbank Ried - SK Rapid, 11. Runde</title>
+</programme>
+<programme start="20251030032500 +0000" stop="20251030033500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: Pitchside: FAK - RBS, 11. Runde</title>
+</programme>
+<programme start="20251030033500 +0000" stop="20251030040000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>UEFA CL: Magazin</title>
+</programme>
+<programme start="20251030040000 +0000" stop="20251030060000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: SCR Altach - TSV Egger Glas Hartberg, 11. Runde</title>
+</programme>
+<programme start="20251030060000 +0000" stop="20251030063000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: ASAT Kompakt, 11. Runde</title>
+</programme>
+<programme start="20251030063000 +0000" stop="20251030070000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>UEFA CL: Magazin</title>
+</programme>
+<programme start="20251030070000 +0000" stop="20251030071000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: Pitchside: FAK - RBS, 11. Runde</title>
+</programme>
+<programme start="20251030071000 +0000" stop="20251030074000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: 90in30: FAK - RBS, 11. Runde</title>
+</programme>
+<programme start="20251030074000 +0000" stop="20251030081000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>RIESENrad: Sportgrößen im Waggon 28 (Gast: Emma Spitz)</title>
+</programme>
+<programme start="20251030081000 +0000" stop="20251030082000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: Pitchside: FAK - RBS, 11. Runde</title>
+</programme>
+<programme start="20251030082000 +0000" stop="20251030085000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: ASAT Kompakt, 11. Runde</title>
+</programme>
+<programme start="20251030085000 +0000" stop="20251030092000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Fußball: Heimspiel - Union Gurten</title>
+</programme>
+<programme start="20251030092000 +0000" stop="20251030093000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: Pitchside: FAK - RBS, 11. Runde</title>
+</programme>
+<programme start="20251030093000 +0000" stop="20251030100000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>UEFA CL: Magazin</title>
+</programme>
+<programme start="20251030100000 +0000" stop="20251030220000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Live ATP 1000: Rolex Paris Masters in Paris (FRA), 4. Tag</title>
+</programme>
+<programme start="20251030220000 +0000" stop="20251030224500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Fußball: Herzog gegen Herzig - Die Next Generation Show (USC Kirchberg am Wagram)</title>
+</programme>
+<programme start="20251030224500 +0000" stop="20251031004500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: WSG Tirol - FC Blau-Weiß Linz, 11. Runde</title>
 </programme>
 <programme start="20251029230000 +0000" stop="20251029233000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>2. BL: Dein Zweitligatalk - HvK &amp; Tusche</title>

@@ -8080,22 +8080,25 @@
     <programme start="20251029220000 +0000" stop="20251029232000 +0000" channel="Asianet Movies.starhub">
         <title>Love</title>
     </programme>
-    <programme start="20251029232000 +0000" stop="20251030013000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251029232000 +0000" stop="20251030015500 +0000" channel="Asianet Movies.starhub">
         <title>Kamuki</title>
     </programme>
-    <programme start="20251030013000 +0000" stop="20251030043000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251030015500 +0000" stop="20251030021500 +0000" channel="Asianet Movies.starhub">
+        <title>Chirikkum Thalika</title>
+    </programme>
+    <programme start="20251030021500 +0000" stop="20251030050000 +0000" channel="Asianet Movies.starhub">
         <title>Naran</title>
     </programme>
-    <programme start="20251030043000 +0000" stop="20251030073000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251030050000 +0000" stop="20251030074500 +0000" channel="Asianet Movies.starhub">
         <title>Malikappuram</title>
     </programme>
-    <programme start="20251030073000 +0000" stop="20251030103000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251030074500 +0000" stop="20251030104000 +0000" channel="Asianet Movies.starhub">
         <title>Hello Mummy</title>
     </programme>
-    <programme start="20251030103000 +0000" stop="20251030133000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251030104000 +0000" stop="20251030134000 +0000" channel="Asianet Movies.starhub">
         <title>Masters</title>
     </programme>
-    <programme start="20251030133000 +0000" stop="20251030163000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251030134000 +0000" stop="20251030163000 +0000" channel="Asianet Movies.starhub">
         <title>RDX</title>
     </programme>
     <programme start="20251029160000 +0000" stop="20251029170000 +0000" channel="Astro Warna HD.starhub">
