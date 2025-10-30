@@ -118,12 +118,8 @@
     <title>Football: AS Roma - Parma</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251030073000 +0700" stop="20251030093000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Racing Club - Flamengo (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20251030093000 +0700" stop="20251030100000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Sports Classics: My Sporting Moment</title>
+<programme start="20251031100000 +0700" stop="20251031120000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Cagliari - Sassuolo</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251030100000 +0700" stop="20251030103000 +0700" channel="COSMOTE Sport 3 HD">
@@ -198,6 +194,14 @@
     <title>William Hill Scottish Premiership - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251031100000 +0700" stop="20251031103000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Sports Classics: My Sporting Moment</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251031103000 +0700" stop="20251031110000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Sports Classics: My Sporting Moment</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251030090000 +0700" stop="20251030110000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Real Madrid - Manresa</title>
     <desc>Live: Tidak</desc>
@@ -250,8 +254,8 @@
     <title>Basketball: Milwaukee Bucks - Golden State Warriors (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251030084000 +0700" stop="20251030092500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC 2025</title>
+<programme start="20251031100000 +0700" stop="20251031110000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>NBA Specials: Basketball Stories</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251030092500 +0700" stop="20251030103000 +0700" channel="COSMOTE Sport 5 HD">
@@ -396,6 +400,10 @@
 </programme>
 <programme start="20251031063000 +0700" stop="20251031103000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP Masters 1000 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251031103000 +0700" stop="20251031110000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Sports Classics: The Outdoor Sports Show 2025 E10</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251030090000 +0700" stop="20251030110000 +0700" channel="COSMOTE Sport 7 HD">
@@ -569,5 +577,9 @@
 <programme start="20251031071500 +0700" stop="20251031104500 +0700" channel="COSMOTE Sport 9 HD">
     <title>American Football: Miami Dolphins - Baltimore Ravens (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20251031104500 +0700" stop="20251031110000 +0700" channel="COSMOTE Sport 9 HD">
+    <title>COSMOTESport9HD</title>
+    <desc>Live: Tidak</desc>
 </programme>
 No EPG found for COSMOTE Sport 10 HD
