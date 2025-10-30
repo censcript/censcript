@@ -598,7 +598,7 @@
     <programme start="20251030153000 +0000" stop="20251030160000 +0000" channel="CNA.mewatch">
         <title>CNA Correspondent - EP 24</title>
     </programme>
-    <programme start="20251030160000 +0000" stop="20251030220000 +0000" channel="CNA.mewatch">
+    <programme start="20251030160000 +0000" stop="20251030160300 +0000" channel="CNA.mewatch">
         <title>Headline News</title>
     </programme>
     <programme start="20251029160000 +0000" stop="20251030160000 +0000" channel="spl01.mewatch">
