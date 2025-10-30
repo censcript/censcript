@@ -78,6 +78,10 @@
     <title>Game R1 S6 E10</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251101060000 +0700" stop="20251101080000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: AEK - Aberdeen</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251031050000 +0700" stop="20251031070000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Lanus - Universidad de Chile (L)</title>
     <desc>Live: Ya</desc>
@@ -136,10 +140,6 @@
 </programme>
 <programme start="20251101051500 +0700" stop="20251101073000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: PAOK - AEL Novibet</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251031033000 +0700" stop="20251031053000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Atletico Mineiro - Independiente del Valle</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251031053000 +0700" stop="20251031073000 +0700" channel="COSMOTE Sport 3 HD">
@@ -266,12 +266,8 @@
     <title>ACB Liga Endesa 2025-26 - Fifth Quarter E4</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251031040000 +0700" stop="20251031052500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Grand Prix Show 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251031052500 +0700" stop="20251031055500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Extreme E - Highlights 2025</title>
+<programme start="20251101060000 +0700" stop="20251101081000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Levice - AEK</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251031055500 +0700" stop="20251031065500 +0700" channel="COSMOTE Sport 5 HD">
@@ -366,12 +362,12 @@
     <title>MotoGP 2025 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251031013000 +0700" stop="20251031053000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: ATP Masters 1000 2025 (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20251101060000 +0700" stop="20251101063000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Sports Classics: Gearing Up 2024 E10</title>
+    <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251031053000 +0700" stop="20251031060000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Premier Padel Tour 2025 - Highlights</title>
+<programme start="20251101063000 +0700" stop="20251101070000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Extreme E - Highlights 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251031060000 +0700" stop="20251031063000 +0700" channel="COSMOTE Sport 6 HD">
