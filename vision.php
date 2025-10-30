@@ -583,9 +583,6 @@
 <programme start="20251030091500 +0000" stop="20251030101500 +0000" channel="Trans 7.vision">
 <title>Makan Receh</title>
 </programme>
-<programme start="20251030101500 +0000" stop="20251030110000 +0000" channel="Trans 7.vision">
-<title>Xpose Uncensored</title>
-</programme>
 <programme start="20251030110000 +0000" stop="20251030114500 +0000" channel="Trans 7.vision">
 <title>On The Spot</title>
 </programme>
@@ -687,9 +684,6 @@
 </programme>
 <programme start="20251030093000 +0000" stop="20251030110000 +0000" channel="ANTV.vision">
 <title>Takdir Cinta Layla</title>
-</programme>
-<programme start="20251030110000 +0000" stop="20251030130000 +0000" channel="ANTV.vision">
-<title>Walet Merah</title>
 </programme>
 <programme start="20251030130000 +0000" stop="20251030150000 +0000" channel="ANTV.vision">
 <title>Rindu Tak Berujung</title>
@@ -861,9 +855,6 @@
 </programme>
 <programme start="20251030110000 +0000" stop="20251030130000 +0000" channel="TVOne.vision">
 <title>Apa Kabar Indonesia Malam (L)</title>
-</programme>
-<programme start="20251030130000 +0000" stop="20251030140000 +0000" channel="TVOne.vision">
-<title>Dua Sisi (L)</title>
 </programme>
 <programme start="20251030140000 +0000" stop="20251030150000 +0000" channel="TVOne.vision">
 <title>Kabar Utama (L)</title>
@@ -1497,4 +1488,13 @@
 </programme>
 <programme start="20251031060000 +0000" stop="20251031063000 +0000" channel="BTV.vision">
 <title>Investor Daily Talk</title>
+</programme>
+<programme start="20251031063000 +0000" stop="20251031080000 +0000" channel="BTV.vision">
+<title>Spot On</title>
+</programme>
+<programme start="20251031080000 +0000" stop="20251031083000 +0000" channel="BTV.vision">
+<title>Dikit-Dikit Damkar</title>
+</programme>
+<programme start="20251031083000 +0000" stop="20251031091500 +0000" channel="BTV.vision">
+<title>Figur Publik</title>
 </programme>
