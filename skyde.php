@@ -1372,28 +1372,28 @@
 <programme start="20251030051500 +0000" stop="20251030052000 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20251030052000 +0000" stop="20251030052500 +0000" channel="Nick Jr..skyde">
+<programme start="20251030052000 +0000" stop="20251030053000 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20251030052500 +0000" stop="20251030054500 +0000" channel="Nick Jr..skyde">
+<programme start="20251030053000 +0000" stop="20251030055000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20251030054500 +0000" stop="20251030060000 +0000" channel="Nick Jr..skyde">
+<programme start="20251030055000 +0000" stop="20251030060000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
 <programme start="20251030060000 +0000" stop="20251030062500 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
-<programme start="20251030062500 +0000" stop="20251030064500 +0000" channel="Nick Jr..skyde">
+<programme start="20251030062500 +0000" stop="20251030065000 +0000" channel="Nick Jr..skyde">
     <title>Blaze und die Monster-Maschinen</title>
 </programme>
-<programme start="20251030064500 +0000" stop="20251030071000 +0000" channel="Nick Jr..skyde">
+<programme start="20251030065000 +0000" stop="20251030071000 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20251030071000 +0000" stop="20251030073000 +0000" channel="Nick Jr..skyde">
+<programme start="20251030071000 +0000" stop="20251030073500 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20251030073000 +0000" stop="20251030074500 +0000" channel="Nick Jr..skyde">
+<programme start="20251030073500 +0000" stop="20251030074500 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
 <programme start="20251030074500 +0000" stop="20251030081000 +0000" channel="Nick Jr..skyde">
@@ -1408,49 +1408,49 @@
 <programme start="20251030085500 +0000" stop="20251030092000 +0000" channel="Nick Jr..skyde">
     <title>Baby Sharks große Show</title>
 </programme>
-<programme start="20251030092000 +0000" stop="20251030094000 +0000" channel="Nick Jr..skyde">
+<programme start="20251030092000 +0000" stop="20251030094500 +0000" channel="Nick Jr..skyde">
     <title>Baby Sharks große Show</title>
-</programme>
-<programme start="20251030094000 +0000" stop="20251030094500 +0000" channel="Nick Jr..skyde">
-    <title>Peppa Wutz</title>
 </programme>
 <programme start="20251030094500 +0000" stop="20251030095000 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20251030095000 +0000" stop="20251030095500 +0000" channel="Nick Jr..skyde">
+<programme start="20251030095000 +0000" stop="20251030095100 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20251030095500 +0000" stop="20251030100000 +0000" channel="Nick Jr..skyde">
+<programme start="20251030095100 +0000" stop="20251030095500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20251030100000 +0000" stop="20251030100500 +0000" channel="Nick Jr..skyde">
+<programme start="20251030095500 +0000" stop="20251030100500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
 <programme start="20251030100500 +0000" stop="20251030101000 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20251030101000 +0000" stop="20251030102000 +0000" channel="Nick Jr..skyde">
+<programme start="20251030101000 +0000" stop="20251030101500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20251030102000 +0000" stop="20251030104000 +0000" channel="Nick Jr..skyde">
+<programme start="20251030101500 +0000" stop="20251030102000 +0000" channel="Nick Jr..skyde">
+    <title>Peppa Wutz</title>
+</programme>
+<programme start="20251030102000 +0000" stop="20251030104500 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20251030104000 +0000" stop="20251030110500 +0000" channel="Nick Jr..skyde">
+<programme start="20251030104500 +0000" stop="20251030110500 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
 <programme start="20251030110500 +0000" stop="20251030113000 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20251030113000 +0000" stop="20251030115000 +0000" channel="Nick Jr..skyde">
+<programme start="20251030113000 +0000" stop="20251030115500 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20251030115000 +0000" stop="20251030121500 +0000" channel="Nick Jr..skyde">
+<programme start="20251030115500 +0000" stop="20251030121500 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20251030121500 +0000" stop="20251030122500 +0000" channel="Nick Jr..skyde">
+<programme start="20251030121500 +0000" stop="20251030123000 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20251030122500 +0000" stop="20251030125000 +0000" channel="Nick Jr..skyde">
+<programme start="20251030123000 +0000" stop="20251030125000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
 <programme start="20251030125000 +0000" stop="20251030130500 +0000" channel="Nick Jr..skyde">
@@ -1462,22 +1462,22 @@
 <programme start="20251030133000 +0000" stop="20251030135000 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20251030135000 +0000" stop="20251030140000 +0000" channel="Nick Jr..skyde">
+<programme start="20251030135000 +0000" stop="20251030140500 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20251030140000 +0000" stop="20251030142500 +0000" channel="Nick Jr..skyde">
+<programme start="20251030140500 +0000" stop="20251030142500 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
 </programme>
-<programme start="20251030142500 +0000" stop="20251030144500 +0000" channel="Nick Jr..skyde">
+<programme start="20251030142500 +0000" stop="20251030145000 +0000" channel="Nick Jr..skyde">
     <title>Blaze und die Monster-Maschinen</title>
 </programme>
-<programme start="20251030144500 +0000" stop="20251030151000 +0000" channel="Nick Jr..skyde">
+<programme start="20251030145000 +0000" stop="20251030151000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20251030151000 +0000" stop="20251030153000 +0000" channel="Nick Jr..skyde">
+<programme start="20251030151000 +0000" stop="20251030153500 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20251030153000 +0000" stop="20251030155500 +0000" channel="Nick Jr..skyde">
+<programme start="20251030153500 +0000" stop="20251030155500 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
 <programme start="20251030155500 +0000" stop="20251030162000 +0000" channel="Nick Jr..skyde">
@@ -1489,10 +1489,10 @@
 <programme start="20251030163500 +0000" stop="20251030170000 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20251030170000 +0000" stop="20251030172000 +0000" channel="Nick Jr..skyde">
+<programme start="20251030170000 +0000" stop="20251030172500 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
 </programme>
-<programme start="20251030172000 +0000" stop="20251030174500 +0000" channel="Nick Jr..skyde">
+<programme start="20251030172500 +0000" stop="20251030174500 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
 <programme start="20251030174500 +0000" stop="20251030180000 +0000" channel="Nick Jr..skyde">
@@ -1537,16 +1537,16 @@
 <programme start="20251030215000 +0000" stop="20251030215500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20251030215500 +0000" stop="20251030220000 +0000" channel="Nick Jr..skyde">
-    <title>Peppa Wutz</title>
-</programme>
-<programme start="20251030220000 +0000" stop="20251030220500 +0000" channel="Nick Jr..skyde">
+<programme start="20251030215500 +0000" stop="20251030220500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
 <programme start="20251030220500 +0000" stop="20251030221000 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20251030221000 +0000" stop="20251030222000 +0000" channel="Nick Jr..skyde">
+<programme start="20251030221000 +0000" stop="20251030221100 +0000" channel="Nick Jr..skyde">
+    <title>Peppa Wutz</title>
+</programme>
+<programme start="20251030221100 +0000" stop="20251030222000 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
 <programme start="20251030222000 +0000" stop="20251030224000 +0000" channel="Nick Jr..skyde">
@@ -2761,13 +2761,7 @@
 <programme start="20251030224500 +0000" stop="20251030230000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: Follow the Pros (4)</title>
 </programme>
-<programme start="20251029230000 +0000" stop="20251029231500 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NHL: Highlights UMA@EDM</title>
-</programme>
-<programme start="20251029231500 +0000" stop="20251029233000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NHL: Highlights NYI@BOS</title>
-</programme>
-<programme start="20251029233000 +0000" stop="20251030023000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20251029234000 +0000" stop="20251030023000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NHL: Toronto Maple Leafs @ Columbus Blue Jackets</title>
 </programme>
 <programme start="20251030023000 +0000" stop="20251030024500 +0000" channel="Sky Sport Mix HD.skyde">
@@ -2989,20 +2983,23 @@
 <programme start="20251030223000 +0000" stop="20251030230000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: PL Stories (Bournemouth - Against All Odds)</title>
 </programme>
-<programme start="20251030003000 +0000" stop="20251030030000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20251029231000 +0000" stop="20251030010500 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 1000: A. Zverev (GER) - C. Ugo Carabelli (ARG), Rolex Paris Masters in Paris (FRA), 3. Tag</title>
+</programme>
+<programme start="20251030010500 +0000" stop="20251030033000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: A. Zverev (GER) - J. Sinner (ITA), Erste Bank Open in Wien (Österreich), Finale</title>
 </programme>
-<programme start="20251030030000 +0000" stop="20251030050000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: Topspiel, Rolex Paris Masters in Paris (FRA), 3. Tag</title>
+<programme start="20251030033000 +0000" stop="20251030053000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 1000: A. Zverev (GER) - C. Ugo Carabelli (ARG), Rolex Paris Masters in Paris (FRA), 3. Tag</title>
 </programme>
-<programme start="20251030050000 +0000" stop="20251030073000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20251030053000 +0000" stop="20251030073000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: B. Bencic (SUI) - L. Noskova (CZE), Toray Pan Pacific Open Tennis in Tokio (JPN), Finale</title>
 </programme>
 <programme start="20251030073000 +0000" stop="20251030080000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
 </programme>
 <programme start="20251030080000 +0000" stop="20251030100000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: Topspiel, Rolex Paris Masters in Paris (FRA), 3. Tag</title>
+    <title>ATP 1000: A. Zverev (GER) - C. Ugo Carabelli (ARG), Rolex Paris Masters in Paris (FRA), 3. Tag</title>
 </programme>
 <programme start="20251030100000 +0000" stop="20251030220000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP 1000: Rolex Paris Masters in Paris (FRA), 4. Tag</title>
@@ -3010,13 +3007,7 @@
 <programme start="20251030220000 +0000" stop="20251030230000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: Review Basel</title>
 </programme>
-<programme start="20251029230000 +0000" stop="20251029231500 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>NHL: Highlights UMA@EDM</title>
-</programme>
-<programme start="20251029231500 +0000" stop="20251029233000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>NHL: Highlights NYI@BOS</title>
-</programme>
-<programme start="20251029233000 +0000" stop="20251030023000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20251029234000 +0000" stop="20251030023000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NHL: Toronto Maple Leafs @ Columbus Blue Jackets</title>
 </programme>
 <programme start="20251030023000 +0000" stop="20251030063000 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3096,9 +3087,6 @@
 </programme>
 <programme start="20251030223000 +0000" stop="20251030230000 +0000" channel="Sky Sport UHD.skyde">
     <title>Golf: Greatest Holes (3)</title>
-</programme>
-<programme start="20251029230000 +0000" stop="20251029233000 +0000" channel="Sky Sport 3 HD.skyde">
-    <title>NHL: Es folgt</title>
 </programme>
 <programme start="20251029233000 +0000" stop="20251030090000 +0000" channel="Sky Sport 3 HD.skyde">
     <title>Live NHL: Toronto Maple Leafs @ Columbus Blue Jackets</title>

@@ -6169,11 +6169,8 @@
 <programme start="20251029223000 +0000" stop="20251030001500 +0000" channel="Music TV.mncvision">
     <title>One Hour With Local</title>
 </programme>
-<programme start="20251030001500 +0000" stop="20251030020000 +0000" channel="Music TV.mncvision">
+<programme start="20251030001500 +0000" stop="20251030023000 +0000" channel="Music TV.mncvision">
     <title>DMD Panggung Rezeki</title>
-</programme>
-<programme start="20251030020000 +0000" stop="20251030023000 +0000" channel="Music TV.mncvision">
-    <title>XOXO</title>
 </programme>
 <programme start="20251030023000 +0000" stop="20251030031500 +0000" channel="Music TV.mncvision">
     <title>The Best Concert 2017</title>
@@ -6184,14 +6181,14 @@
 <programme start="20251030034500 +0000" stop="20251030041500 +0000" channel="Music TV.mncvision">
     <title>Terbaik</title>
 </programme>
-<programme start="20251030041500 +0000" stop="20251030054500 +0000" channel="Music TV.mncvision">
+<programme start="20251030041500 +0000" stop="20251030061500 +0000" channel="Music TV.mncvision">
     <title>DMD Panggung Rezeki</title>
 </programme>
-<programme start="20251030054500 +0000" stop="20251030063000 +0000" channel="Music TV.mncvision">
+<programme start="20251030061500 +0000" stop="20251030070000 +0000" channel="Music TV.mncvision">
     <title>Godain</title>
 </programme>
-<programme start="20251030063000 +0000" stop="20251030073000 +0000" channel="Music TV.mncvision">
-    <title>Musik Asyik</title>
+<programme start="20251030070000 +0000" stop="20251030073000 +0000" channel="Music TV.mncvision">
+    <title>XOXO</title>
 </programme>
 <programme start="20251030073000 +0000" stop="20251030100000 +0000" channel="Music TV.mncvision">
     <title>Aav Taru Kari Nakhu</title>
@@ -6229,11 +6226,8 @@
 <programme start="20251029223000 +0000" stop="20251030001500 +0000" channel="Music TV HD.mncvision">
     <title>One Hour With Local</title>
 </programme>
-<programme start="20251030001500 +0000" stop="20251030020000 +0000" channel="Music TV HD.mncvision">
+<programme start="20251030001500 +0000" stop="20251030023000 +0000" channel="Music TV HD.mncvision">
     <title>DMD Panggung Rezeki</title>
-</programme>
-<programme start="20251030020000 +0000" stop="20251030023000 +0000" channel="Music TV HD.mncvision">
-    <title>XOXO</title>
 </programme>
 <programme start="20251030023000 +0000" stop="20251030031500 +0000" channel="Music TV HD.mncvision">
     <title>The Best Concert 2017</title>
@@ -6244,14 +6238,14 @@
 <programme start="20251030034500 +0000" stop="20251030041500 +0000" channel="Music TV HD.mncvision">
     <title>Terbaik</title>
 </programme>
-<programme start="20251030041500 +0000" stop="20251030054500 +0000" channel="Music TV HD.mncvision">
+<programme start="20251030041500 +0000" stop="20251030061500 +0000" channel="Music TV HD.mncvision">
     <title>DMD Panggung Rezeki</title>
 </programme>
-<programme start="20251030054500 +0000" stop="20251030063000 +0000" channel="Music TV HD.mncvision">
+<programme start="20251030061500 +0000" stop="20251030070000 +0000" channel="Music TV HD.mncvision">
     <title>Godain</title>
 </programme>
-<programme start="20251030063000 +0000" stop="20251030073000 +0000" channel="Music TV HD.mncvision">
-    <title>Musik Asyik</title>
+<programme start="20251030070000 +0000" stop="20251030073000 +0000" channel="Music TV HD.mncvision">
+    <title>XOXO</title>
 </programme>
 <programme start="20251030073000 +0000" stop="20251030100000 +0000" channel="Music TV HD.mncvision">
     <title>Aav Taru Kari Nakhu</title>
