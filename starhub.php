@@ -3875,7 +3875,7 @@
         <title>Today&#039;s Close-up (R)</title>
     </programme>
     <programme start="20251029191200 +0000" stop="20251029191500 +0000" channel="NHK World Premium HD.starhub">
-        <title>World Weather</title>
+        <title>News</title>
     </programme>
     <programme start="20251029191500 +0000" stop="20251029200000 +0000" channel="NHK World Premium HD.starhub">
         <title>Eat Up! The Ultimate Homemade Cooking Battle &quot;Soup&quot; (R)</title>
@@ -3901,17 +3901,23 @@
     <programme start="20251029230000 +0000" stop="20251029231500 +0000" channel="NHK World Premium HD.starhub">
         <title>Drama Serial &quot;The Ghost Writer&#039;s Wife&quot; Eps. 24</title>
     </programme>
-    <programme start="20251029231500 +0000" stop="20251030005400 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20251029231500 +0000" stop="20251029235500 +0000" channel="NHK World Premium HD.starhub">
         <title>asaichi</title>
+    </programme>
+    <programme start="20251029235500 +0000" stop="20251030002500 +0000" channel="NHK World Premium HD.starhub">
+        <title>What the Villains Have to Say (R)</title>
+    </programme>
+    <programme start="20251030002500 +0000" stop="20251030005000 +0000" channel="NHK World Premium HD.starhub">
+        <title>Gentle Journeys (R)</title>
+    </programme>
+    <programme start="20251030005000 +0000" stop="20251030005400 +0000" channel="NHK World Premium HD.starhub">
+        <title>Mini Program</title>
     </programme>
     <programme start="20251030005400 +0000" stop="20251030005500 +0000" channel="NHK World Premium HD.starhub">
         <title>World Weather</title>
     </programme>
-    <programme start="20251030005500 +0000" stop="20251030010000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Exercise for Everyone</title>
-    </programme>
-    <programme start="20251030010000 +0000" stop="20251030010500 +0000" channel="NHK World Premium HD.starhub">
-        <title>News &amp; Weather</title>
+    <programme start="20251030005500 +0000" stop="20251030010500 +0000" channel="NHK World Premium HD.starhub">
+        <title>PythagoraSwitch</title>
     </programme>
     <programme start="20251030010500 +0000" stop="20251030015000 +0000" channel="NHK World Premium HD.starhub">
         <title>Eat Up! The Ultimate Homemade Cooking Battle &quot;Soup&quot; (R)</title>
@@ -3938,7 +3944,7 @@
         <title>News</title>
     </programme>
     <programme start="20251030032000 +0000" stop="20251030032800 +0000" channel="NHK World Premium HD.starhub">
-        <title>Information Worth Knowing from the News Commentator Bureau</title>
+        <title>Train Driver&#039;s Cab View Mini</title>
     </programme>
     <programme start="20251030032800 +0000" stop="20251030033000 +0000" channel="NHK World Premium HD.starhub">
         <title>Mini Program</title>
