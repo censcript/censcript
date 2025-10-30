@@ -70,6 +70,14 @@
     <title>Game R1 S6 E10</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251101040000 +0700" stop="20251101043000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEFA Champions League Magazine 2025-26 E9</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251101043000 +0700" stop="20251101053000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEFA Champions League Highlights 2025-26</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251031025000 +0700" stop="20251031050000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Olympiacos - Volos</title>
     <desc>Live: Tidak</desc>
@@ -129,10 +137,6 @@
 <programme start="20251101031500 +0700" stop="20251101051500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Sporting CP - Alverca (L)</title>
     <desc>Live: Ya</desc>
-</programme>
-<programme start="20251031030000 +0700" stop="20251031033000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Copa Sudamericana 2025 - Highlights</title>
-    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251031033000 +0700" stop="20251031053000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Atletico Mineiro - Independiente del Valle</title>
@@ -254,8 +258,8 @@
     <title>Basketball: Milwaukee Bucks - Golden State Warriors</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251031030000 +0700" stop="20251031040000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>DTM</title>
+<programme start="20251101045500 +0700" stop="20251101054000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>NBA Specials</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251031040000 +0700" stop="20251031052500 +0700" channel="COSMOTE Sport 5 HD">
@@ -350,6 +354,10 @@
     <title>WRC Magazine 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251101040000 +0700" stop="20251101050000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>eSports: 2025 MotoGP eChampionship Global Series</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251031013000 +0700" stop="20251031053000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP Masters 1000 2025 (L)</title>
     <desc>Live: Ya</desc>
@@ -404,10 +412,6 @@
 </programme>
 <programme start="20251101030000 +0700" stop="20251101053000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP Masters 1000 2025 (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20251031013000 +0700" stop="20251031040000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>Volleyball: Asterix Avo Beveren - Olympiacos (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20251031040000 +0700" stop="20251031043000 +0700" channel="COSMOTE Sport 7 HD">
@@ -469,6 +473,10 @@
 <programme start="20251101023000 +0700" stop="20251101043000 +0700" channel="COSMOTE Sport 7 HD">
     <title>Football: Luton Town - Forest Green Rovers (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20251101043000 +0700" stop="20251101050000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251031030000 +0700" stop="20251031050000 +0700" channel="COSMOTE Sport 8 HD">
     <title>COSMOTESport8HD</title>

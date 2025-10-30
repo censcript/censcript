@@ -14713,11 +14713,8 @@
   <programme start="20251101035500 +0000" stop="20251101040000 +0000" channel="TVP World.webtv.sk">
     <title lang="id">Weather</title>
   </programme>
-  <programme start="20251101040000 +0000" stop="20251101041500 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">World News Flash</title>
-  </programme>
-  <programme start="20251101041500 +0000" stop="20251101050000 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">Document</title>
+  <programme start="20251101040000 +0000" stop="20251101050000 +0000" channel="TVP World.webtv.sk">
+    <title lang="id">The Feminister</title>
   </programme>
   <programme start="20251101050000 +0000" stop="20251101053000 +0000" channel="TVP World.webtv.sk">
     <title lang="id">World News</title>
@@ -15292,10 +15289,10 @@
   <programme start="20251101185500 +0000" stop="20251101190500 +0000" channel="TVP Polonia.webtv.sk">
     <title lang="id">Pytanie dnia (489)</title>
   </programme>
-  <programme start="20251101190500 +0000" stop="20251101191500 +0000" channel="TVP Polonia.webtv.sk">
+  <programme start="20251101190500 +0000" stop="20251101191000 +0000" channel="TVP Polonia.webtv.sk">
     <title lang="id">Sport</title>
   </programme>
-  <programme start="20251101191500 +0000" stop="20251101192000 +0000" channel="TVP Polonia.webtv.sk">
+  <programme start="20251101191000 +0000" stop="20251101192000 +0000" channel="TVP Polonia.webtv.sk">
     <title lang="id">Pogoda</title>
   </programme>
   <programme start="20251101192000 +0000" stop="20251101201000 +0000" channel="TVP Polonia.webtv.sk">
@@ -15523,11 +15520,8 @@
   <programme start="20251101043000 +0000" stop="20251101050000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">Ждем в гости: Мелодии старого Тбилиси</title>
   </programme>
-  <programme start="20251101050000 +0000" stop="20251101053000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Интервью</title>
-  </programme>
-  <programme start="20251101053000 +0000" stop="20251101060000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Неизвестная Pоссия: Тёсовская узкоколейка</title>
+  <programme start="20251101050000 +0000" stop="20251101060000 +0000" channel="Current Time.webtv.sk">
+    <title lang="id">Археология</title>
   </programme>
   <programme start="20251101060000 +0000" stop="20251101070000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">Почти взрослые</title>
@@ -15571,20 +15565,26 @@
   <programme start="20251101170000 +0000" stop="20251101173000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">Города Украины: Баштанка</title>
   </programme>
-  <programme start="20251101173000 +0000" stop="20251101180000 +0000" channel="Current Time.webtv.sk">
+  <programme start="20251101173000 +0000" stop="20251101174500 +0000" channel="Current Time.webtv.sk">
     <title lang="id">Балтийский путь</title>
   </programme>
+  <programme start="20251101174500 +0000" stop="20251101180000 +0000" channel="Current Time.webtv.sk">
+    <title lang="id">Открой Молдову: Исчезающие промыслы</title>
+  </programme>
   <programme start="20251101180000 +0000" stop="20251101183000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Специальный репортаж Настоящего Времени</title>
+    <title lang="id">Все сложно: Пропаганда многодетности</title>
   </programme>
   <programme start="20251101183000 +0000" stop="20251101190000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">DW. Искусство в деталях</title>
   </programme>
-  <programme start="20251101190000 +0000" stop="20251101200000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Документальный час. Америка</title>
+  <programme start="20251101190000 +0000" stop="20251101193000 +0000" channel="Current Time.webtv.sk">
+    <title lang="id">Д/ф &quot;Фатима&quot;</title>
+  </programme>
+  <programme start="20251101193000 +0000" stop="20251101200000 +0000" channel="Current Time.webtv.sk">
+    <title lang="id">Д/ф &quot;Украина. Принудительные исчезновения&quot;</title>
   </programme>
   <programme start="20251101200000 +0000" stop="20251101220000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Pеальное кино</title>
+    <title lang="id">Д/ф &quot;Дневник невесты Христа&quot;</title>
   </programme>
   <programme start="20251101220000 +0000" stop="20251101223000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">Города Украины: Баштанка</title>
@@ -15592,38 +15592,38 @@
   <programme start="20251101223000 +0000" stop="20251101230000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">DW. Геофактор: Владимир PАЕВСКИЙ, историк</title>
   </programme>
-  <programme start="20251031225000 +0000" stop="20251031232500 +0000" channel="Armenia 1 TV.webtv.sk">
-    <title lang="id">Parent Meeting</title>
-  </programme>
-  <programme start="20251031232500 +0000" stop="20251101000000 +0000" channel="Armenia 1 TV.webtv.sk">
-    <title lang="id">Cricket Song</title>
-  </programme>
-  <programme start="20251101000000 +0000" stop="20251101003500 +0000" channel="Armenia 1 TV.webtv.sk">
+  <programme start="20251031225500 +0000" stop="20251031233000 +0000" channel="Armenia 1 TV.webtv.sk">
     <title lang="id">Different Style</title>
   </programme>
-  <programme start="20251101003500 +0000" stop="20251101010000 +0000" channel="Armenia 1 TV.webtv.sk">
+  <programme start="20251031233000 +0000" stop="20251101000500 +0000" channel="Armenia 1 TV.webtv.sk">
+    <title lang="id">Cricket Song</title>
+  </programme>
+  <programme start="20251101000500 +0000" stop="20251101003000 +0000" channel="Armenia 1 TV.webtv.sk">
     <title lang="id">Bell and Cotton</title>
   </programme>
-  <programme start="20251101010000 +0000" stop="20251101010500 +0000" channel="Armenia 1 TV.webtv.sk">
-    <title lang="id">5 Minute ART</title>
-  </programme>
-  <programme start="20251101010500 +0000" stop="20251101013000 +0000" channel="Armenia 1 TV.webtv.sk">
-    <title lang="id">The Devotees</title>
-  </programme>
-  <programme start="20251101013000 +0000" stop="20251101015000 +0000" channel="Armenia 1 TV.webtv.sk">
-    <title lang="id">Ours</title>
-  </programme>
-  <programme start="20251101015000 +0000" stop="20251101020000 +0000" channel="Armenia 1 TV.webtv.sk">
-    <title lang="id">Repatriation diary</title>
-  </programme>
-  <programme start="20251101020000 +0000" stop="20251101025000 +0000" channel="Armenia 1 TV.webtv.sk">
+  <programme start="20251101003000 +0000" stop="20251101014000 +0000" channel="Armenia 1 TV.webtv.sk">
     <title lang="id">Feature film</title>
   </programme>
-  <programme start="20251101025000 +0000" stop="20251101033000 +0000" channel="Armenia 1 TV.webtv.sk">
+  <programme start="20251101014000 +0000" stop="20251101014500 +0000" channel="Armenia 1 TV.webtv.sk">
+    <title lang="id">5 Minute ART</title>
+  </programme>
+  <programme start="20251101014500 +0000" stop="20251101021000 +0000" channel="Armenia 1 TV.webtv.sk">
+    <title lang="id">The Devotees</title>
+  </programme>
+  <programme start="20251101021000 +0000" stop="20251101023000 +0000" channel="Armenia 1 TV.webtv.sk">
+    <title lang="id">Ours</title>
+  </programme>
+  <programme start="20251101023000 +0000" stop="20251101024000 +0000" channel="Armenia 1 TV.webtv.sk">
+    <title lang="id">Repatriation diary</title>
+  </programme>
+  <programme start="20251101024000 +0000" stop="20251101031500 +0000" channel="Armenia 1 TV.webtv.sk">
     <title lang="id">Be Well!</title>
   </programme>
-  <programme start="20251101033000 +0000" stop="20251101035000 +0000" channel="Armenia 1 TV.webtv.sk">
+  <programme start="20251101031500 +0000" stop="20251101033500 +0000" channel="Armenia 1 TV.webtv.sk">
     <title lang="id">With Armenia</title>
+  </programme>
+  <programme start="20251101033500 +0000" stop="20251101035000 +0000" channel="Armenia 1 TV.webtv.sk">
+    <title lang="id">Cartoon</title>
   </programme>
   <programme start="20251101035000 +0000" stop="20251101041000 +0000" channel="Armenia 1 TV.webtv.sk">
     <title lang="id">After Adventures</title>
@@ -15652,8 +15652,11 @@
   <programme start="20251101092000 +0000" stop="20251101095000 +0000" channel="Armenia 1 TV.webtv.sk">
     <title lang="id">Sport Week</title>
   </programme>
-  <programme start="20251101095000 +0000" stop="20251101114000 +0000" channel="Armenia 1 TV.webtv.sk">
+  <programme start="20251101095000 +0000" stop="20251101111000 +0000" channel="Armenia 1 TV.webtv.sk">
     <title lang="id">Classical Concert</title>
+  </programme>
+  <programme start="20251101111000 +0000" stop="20251101114000 +0000" channel="Armenia 1 TV.webtv.sk">
+    <title lang="id">Bell and Cotton</title>
   </programme>
   <programme start="20251101114000 +0000" stop="20251101121000 +0000" channel="Armenia 1 TV.webtv.sk">
     <title lang="id">Compatriot</title>
@@ -15667,10 +15670,10 @@
   <programme start="20251101125000 +0000" stop="20251101130000 +0000" channel="Armenia 1 TV.webtv.sk">
     <title lang="id">The Hero of Our Time</title>
   </programme>
-  <programme start="20251101130000 +0000" stop="20251101132500 +0000" channel="Armenia 1 TV.webtv.sk">
+  <programme start="20251101130000 +0000" stop="20251101133000 +0000" channel="Armenia 1 TV.webtv.sk">
     <title lang="id">News</title>
   </programme>
-  <programme start="20251101132500 +0000" stop="20251101144000 +0000" channel="Armenia 1 TV.webtv.sk">
+  <programme start="20251101133000 +0000" stop="20251101144000 +0000" channel="Armenia 1 TV.webtv.sk">
     <title lang="id">Playing Movies</title>
   </programme>
   <programme start="20251101144000 +0000" stop="20251101150000 +0000" channel="Armenia 1 TV.webtv.sk">
@@ -15694,13 +15697,13 @@
   <programme start="20251101190000 +0000" stop="20251101195000 +0000" channel="Armenia 1 TV.webtv.sk">
     <title lang="id">Public Discussion with Tatev Danielyan</title>
   </programme>
-  <programme start="20251101195000 +0000" stop="20251101213000 +0000" channel="Armenia 1 TV.webtv.sk">
+  <programme start="20251101195000 +0000" stop="20251101213500 +0000" channel="Armenia 1 TV.webtv.sk">
     <title lang="id">Feature film</title>
   </programme>
-  <programme start="20251101213000 +0000" stop="20251101222000 +0000" channel="Armenia 1 TV.webtv.sk">
+  <programme start="20251101213500 +0000" stop="20251101222500 +0000" channel="Armenia 1 TV.webtv.sk">
     <title lang="id">Sport Week</title>
   </programme>
-  <programme start="20251101222000 +0000" stop="20251102001000 +0000" channel="Armenia 1 TV.webtv.sk">
+  <programme start="20251101222500 +0000" stop="20251101234000 +0000" channel="Armenia 1 TV.webtv.sk">
     <title lang="id">Classical Concert</title>
   </programme>
   <programme start="20251031230000 +0000" stop="20251031231600 +0000" channel="Euronews.webtv.sk">
@@ -16337,19 +16340,19 @@
     <title lang="id">The Agenda</title>
   </programme>
   <programme start="20251101023000 +0000" stop="20251101030000 +0000" channel="Arirang TV.webtv.sk">
-    <title lang="id">Voices Of Apec: Korea 2025</title>
+    <title lang="id">Arirang Special</title>
   </programme>
   <programme start="20251101030000 +0000" stop="20251101033000 +0000" channel="Arirang TV.webtv.sk">
     <title lang="id">Arirang News 12:00</title>
   </programme>
-  <programme start="20251101033000 +0000" stop="20251101040000 +0000" channel="Arirang TV.webtv.sk">
-    <title lang="id">Arirang Special</title>
+  <programme start="20251101033000 +0000" stop="20251101035000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">1day 1k-culture: K-trend</title>
   </programme>
-  <programme start="20251101040000 +0000" stop="20251101054000 +0000" channel="Arirang TV.webtv.sk">
+  <programme start="20251101035000 +0000" stop="20251101042000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">Apec 2025 Korea</title>
+  </programme>
+  <programme start="20251101042000 +0000" stop="20251101060000 +0000" channel="Arirang TV.webtv.sk">
     <title lang="id">Performarts Reload: Arko</title>
-  </programme>
-  <programme start="20251101054000 +0000" stop="20251101060000 +0000" channel="Arirang TV.webtv.sk">
-    <title lang="id">1day 1k-culture: K-people</title>
   </programme>
   <programme start="20251101060000 +0000" stop="20251101061000 +0000" channel="Arirang TV.webtv.sk">
     <title lang="id">K-sports Unlocked</title>
@@ -17621,7 +17624,7 @@
     <title lang="id">Che tempo fa</title>
   </programme>
   <programme start="20251101161000 +0000" stop="20251101174000 +0000" channel="Rai Uno.webtv.sk">
-    <title lang="id">Ciao Maschio</title>
+    <title lang="id">Ciao Maschio VII</title>
   </programme>
   <programme start="20251101174000 +0000" stop="20251101190000 +0000" channel="Rai Uno.webtv.sk">
     <title lang="id">L&apos;Eredita</title>
@@ -17662,7 +17665,7 @@
   <programme start="20251101011500 +0000" stop="20251101012000 +0000" channel="Rai Tre.webtv.sk">
     <title lang="id">Appuntamento al cinema</title>
   </programme>
-  <programme start="20251101012000 +0000" stop="20251101042000 +0000" channel="Rai Tre.webtv.sk">
+  <programme start="20251101012000 +0000" stop="20251101050000 +0000" channel="Rai Tre.webtv.sk">
     <title lang="id">RaiNews</title>
   </programme>
   <programme start="20251101050000 +0000" stop="20251101070000 +0000" channel="Rai Tre.webtv.sk">
