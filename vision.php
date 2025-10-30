@@ -583,9 +583,6 @@
 <programme start="20251030091500 +0000" stop="20251030101500 +0000" channel="Trans 7.vision">
 <title>Makan Receh</title>
 </programme>
-<programme start="20251030101500 +0000" stop="20251030110000 +0000" channel="Trans 7.vision">
-<title>Xpose Uncensored</title>
-</programme>
 <programme start="20251030110000 +0000" stop="20251030114500 +0000" channel="Trans 7.vision">
 <title>On The Spot</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20251031060000 +0000" stop="20251031063000 +0000" channel="BTV.vision">
 <title>Investor Daily Talk</title>
+</programme>
+<programme start="20251031063000 +0000" stop="20251031080000 +0000" channel="BTV.vision">
+<title>Spot On</title>
 </programme>
