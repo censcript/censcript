@@ -3088,7 +3088,7 @@
 <programme start="20251030223000 +0000" stop="20251030230000 +0000" channel="Sky Sport UHD.skyde">
     <title>Golf: Greatest Holes (3)</title>
 </programme>
-<programme start="20251029233000 +0000" stop="20251030071000 +0000" channel="Sky Sport 3 HD.skyde">
+<programme start="20251029233000 +0000" stop="20251030090000 +0000" channel="Sky Sport 3 HD.skyde">
     <title>Live NHL: Toronto Maple Leafs @ Columbus Blue Jackets</title>
 </programme>
 <programme start="20251029232000 +0000" stop="20251030000500 +0000" channel="SYFY HD.skyde">
