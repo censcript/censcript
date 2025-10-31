@@ -652,6 +652,9 @@
 <programme start="20251030233000 +0000" stop="20251031013000 +0000" channel="TVOne.vision">
 <title>Apa Kabar Indonesia Pagi (L)</title>
 </programme>
+<programme start="20251031013000 +0000" stop="20251031020000 +0000" channel="TVOne.vision">
+<title>Hidup Sehat</title>
+</programme>
 <programme start="20251031020000 +0000" stop="20251031023000 +0000" channel="TVOne.vision">
 <title>Inspirasi Pagi (L)</title>
 </programme>
@@ -1493,8 +1496,5 @@
 <title>Bali TV</title>
 </programme>
 <programme start="20251031030000 +0000" stop="20251031050000 +0000" channel="Bali TV.vision">
-<title>Bali TV</title>
-</programme>
-<programme start="20251031050000 +0000" stop="20251031070000 +0000" channel="Bali TV.vision">
 <title>Bali TV</title>
 </programme>

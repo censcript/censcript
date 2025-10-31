@@ -959,6 +959,78 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251031224000 +0000" stop="20251031230000 +0000" channel="DAZN 2 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
+<programme start="20251030234000 +0000" stop="20251031000500 +0000" channel="Heimatkanal.skyde">
+    <title>Königlich Bayerisches Amtsgericht</title>
+</programme>
+<programme start="20251031000500 +0000" stop="20251031005500 +0000" channel="Heimatkanal.skyde">
+    <title>Großstadtrevier</title>
+</programme>
+<programme start="20251031005500 +0000" stop="20251031022500 +0000" channel="Heimatkanal.skyde">
+    <title>Diese Drombuschs</title>
+</programme>
+<programme start="20251031022500 +0000" stop="20251031025500 +0000" channel="Heimatkanal.skyde">
+    <title>Ottis Aquarium</title>
+</programme>
+<programme start="20251031025500 +0000" stop="20251031030000 +0000" channel="Heimatkanal.skyde">
+    <title>Kleine Sünden</title>
+</programme>
+<programme start="20251031030000 +0000" stop="20251031040000 +0000" channel="Heimatkanal.skyde">
+    <title>Der Kommissar</title>
+</programme>
+<programme start="20251031040000 +0000" stop="20251031050000 +0000" channel="Heimatkanal.skyde">
+    <title>Derrick</title>
+</programme>
+<programme start="20251031050000 +0000" stop="20251031063000 +0000" channel="Heimatkanal.skyde">
+    <title>Jetzt dreht die Welt sich nur um dich</title>
+</programme>
+<programme start="20251031063000 +0000" stop="20251031075500 +0000" channel="Heimatkanal.skyde">
+    <title>Umwege zu dir</title>
+</programme>
+<programme start="20251031075500 +0000" stop="20251031084500 +0000" channel="Heimatkanal.skyde">
+    <title>Da kommt Kalle</title>
+</programme>
+<programme start="20251031084500 +0000" stop="20251031093500 +0000" channel="Heimatkanal.skyde">
+    <title>Der Landarzt</title>
+</programme>
+<programme start="20251031093500 +0000" stop="20251031103000 +0000" channel="Heimatkanal.skyde">
+    <title>Großstadtrevier</title>
+</programme>
+<programme start="20251031103000 +0000" stop="20251031110000 +0000" channel="Heimatkanal.skyde">
+    <title>Königlich Bayerisches Amtsgericht</title>
+</programme>
+<programme start="20251031110000 +0000" stop="20251031120000 +0000" channel="Heimatkanal.skyde">
+    <title>Musikparade</title>
+</programme>
+<programme start="20251031120000 +0000" stop="20251031134500 +0000" channel="Heimatkanal.skyde">
+    <title>Die Sennerin von St. Kathrein</title>
+</programme>
+<programme start="20251031134500 +0000" stop="20251031152500 +0000" channel="Heimatkanal.skyde">
+    <title>Kleiner Peter - Große Sorgen</title>
+</programme>
+<programme start="20251031152500 +0000" stop="20251031170500 +0000" channel="Heimatkanal.skyde">
+    <title>Solange du da bist</title>
+</programme>
+<programme start="20251031170500 +0000" stop="20251031175500 +0000" channel="Heimatkanal.skyde">
+    <title>Der Landarzt</title>
+</programme>
+<programme start="20251031175500 +0000" stop="20251031182500 +0000" channel="Heimatkanal.skyde">
+    <title>Königlich Bayerisches Amtsgericht</title>
+</programme>
+<programme start="20251031182500 +0000" stop="20251031191500 +0000" channel="Heimatkanal.skyde">
+    <title>Da kommt Kalle</title>
+</programme>
+<programme start="20251031191500 +0000" stop="20251031200000 +0000" channel="Heimatkanal.skyde">
+    <title>Der Bergdoktor</title>
+</programme>
+<programme start="20251031200000 +0000" stop="20251031204500 +0000" channel="Heimatkanal.skyde">
+    <title>Die Bergretter</title>
+</programme>
+<programme start="20251031204500 +0000" stop="20251031222000 +0000" channel="Heimatkanal.skyde">
+    <title>Peter Steiners Theaterstadl</title>
+</programme>
+<programme start="20251031222000 +0000" stop="20251031230500 +0000" channel="Heimatkanal.skyde">
+    <title>Der Landarzt</title>
+</programme>
 <programme start="20251030232500 +0000" stop="20251031001000 +0000" channel="HISTORY Channel HD.skyde">
     <title>Terra X: Europa in...</title>
 </programme>
@@ -2461,30 +2533,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 </programme>
 <programme start="20251031223000 +0000" stop="20251101001500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Fußball: Klassiker der Woche: STU - SCR (2017/18)</title>
-</programme>
-<programme start="20251109101000 +0000" stop="20251109103000 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Es folgt: Live ATP World Tour</title>
-</programme>
-<programme start="20251109103000 +0000" stop="20251109124500 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Live ATP Finals: Doppel 1, 1. Tag in Turin (ITA)</title>
-</programme>
-<programme start="20251109124500 +0000" stop="20251109150000 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Live ATP Finals: Einzel 1, 1. Tag in Turin (ITA)</title>
-</programme>
-<programme start="20251109150000 +0000" stop="20251109160000 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>ATP Finals: Review Turin 2021</title>
-</programme>
-<programme start="20251109160000 +0000" stop="20251109163000 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>ATP: This Week</title>
-</programme>
-<programme start="20251109163000 +0000" stop="20251109170000 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>WTA 1000: Review Wuhan</title>
-</programme>
-<programme start="20251109170000 +0000" stop="20251109191000 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Live ATP Finals: Doppel 2, 1. Tag in Turin (ITA)</title>
-</programme>
-<programme start="20251109191000 +0000" stop="20251109213000 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Live ATP Finals: Einzel 2, 1. Tag in Turin (ITA)</title>
 </programme>
 <programme start="20251030230000 +0000" stop="20251030233000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: Bundesliga Weekly</title>

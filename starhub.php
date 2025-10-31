@@ -3068,7 +3068,7 @@
         <title>News</title>
     </programme>
     <programme start="20251101020200 +0000" stop="20251101021500 +0000" channel="DW English HD.starhub">
-        <title>Living in the Digital Age</title>
+        <title>Games with purpose - More than entertainment</title>
     </programme>
     <programme start="20251101021500 +0000" stop="20251101030000 +0000" channel="DW English HD.starhub">
         <title>Superpower Laughter - How Humor Makes Us Strong</title>
@@ -3077,7 +3077,7 @@
         <title>News</title>
     </programme>
     <programme start="20251101031500 +0000" stop="20251101033000 +0000" channel="DW English HD.starhub">
-        <title>A day in Lisbon</title>
+        <title>Philippe Aghion: Nobel Prize winner urges creative destruction</title>
     </programme>
     <programme start="20251101033000 +0000" stop="20251101040000 +0000" channel="DW English HD.starhub">
         <title>Tomatoes - Indulgence With an Aftertaste</title>
@@ -3086,7 +3086,7 @@
         <title>News</title>
     </programme>
     <programme start="20251101041500 +0000" stop="20251101043000 +0000" channel="DW English HD.starhub">
-        <title>Living in the Digital Age</title>
+        <title>Games with purpose - More than entertainment</title>
     </programme>
     <programme start="20251101043000 +0000" stop="20251101050000 +0000" channel="DW English HD.starhub">
         <title>Lifestyle Europe</title>
@@ -3104,7 +3104,7 @@
         <title>News</title>
     </programme>
     <programme start="20251101061500 +0000" stop="20251101063000 +0000" channel="DW English HD.starhub">
-        <title>A day in Lisbon</title>
+        <title>Philippe Aghion: Nobel Prize winner urges creative destruction</title>
     </programme>
     <programme start="20251101063000 +0000" stop="20251101070000 +0000" channel="DW English HD.starhub">
         <title>The Global Auto and Mobility Show</title>
@@ -3137,7 +3137,7 @@
         <title>News</title>
     </programme>
     <programme start="20251101101500 +0000" stop="20251101103000 +0000" channel="DW English HD.starhub">
-        <title>Living in the Digital Age</title>
+        <title>Games with purpose - More than entertainment</title>
     </programme>
     <programme start="20251101103000 +0000" stop="20251101110000 +0000" channel="DW English HD.starhub">
         <title>Art.See.Africa | Lagos</title>
@@ -3152,7 +3152,7 @@
         <title>News</title>
     </programme>
     <programme start="20251101121500 +0000" stop="20251101123000 +0000" channel="DW English HD.starhub">
-        <title>Living in the Digital Age</title>
+        <title>Games with purpose - More than entertainment</title>
     </programme>
     <programme start="20251101123000 +0000" stop="20251101130000 +0000" channel="DW English HD.starhub">
         <title>Lifestyle Europe</title>
@@ -3634,17 +3634,20 @@
     <programme start="20251031231500 +0000" stop="20251101001000 +0000" channel="NHK World Premium HD.starhub">
         <title>Classical Music Club</title>
     </programme>
-    <programme start="20251101003000 +0000" stop="20251101005500 +0000" channel="NHK World Premium HD.starhub">
-        <title>Document 72 Hours (R)</title>
+    <programme start="20251101001000 +0000" stop="20251101004000 +0000" channel="NHK World Premium HD.starhub">
+        <title>Slow Life at a Temple (R)</title>
     </programme>
-    <programme start="20251101005500 +0000" stop="20251101010000 +0000" channel="NHK World Premium HD.starhub">
-        <title>World&#039;s Magnificent Sight Journey</title>
+    <programme start="20251101004000 +0000" stop="20251101005500 +0000" channel="NHK World Premium HD.starhub">
+        <title>Working Dogs mini</title>
     </programme>
-    <programme start="20251101010000 +0000" stop="20251101010500 +0000" channel="NHK World Premium HD.starhub">
-        <title>News &amp; Weather</title>
+    <programme start="20251101005500 +0000" stop="20251101010500 +0000" channel="NHK World Premium HD.starhub">
+        <title>Life Force 10min.</title>
     </programme>
-    <programme start="20251101010500 +0000" stop="20251101013800 +0000" channel="NHK World Premium HD.starhub">
-        <title>The Visualization Entertainment: Go! Kaneo-kun (R)</title>
+    <programme start="20251101010500 +0000" stop="20251101013300 +0000" channel="NHK World Premium HD.starhub">
+        <title>Journeys in Japan Encore (B) (R)</title>
+    </programme>
+    <programme start="20251101013300 +0000" stop="20251101013800 +0000" channel="NHK World Premium HD.starhub">
+        <title>JAPAN DELISH 5min.</title>
     </programme>
     <programme start="20251101013800 +0000" stop="20251101014000 +0000" channel="NHK World Premium HD.starhub">
         <title>Mini Program</title>
@@ -7996,7 +7999,7 @@
     <programme start="20251101145000 +0000" stop="20251101152000 +0000" channel="Dragon TV.starhub">
         <title>Cheer up!small shops</title>
     </programme>
-    <programme start="20251101152000 +0000" stop="20251101161500 +0000" channel="Dragon TV.starhub">
+    <programme start="20251101152000 +0000" stop="20251101160000 +0000" channel="Dragon TV.starhub">
         <title>A Green Trip</title>
     </programme>
     <programme start="20251031160000 +0000" stop="20251031163000 +0000" channel="Travelxp HD.starhub">
