@@ -7439,7 +7439,7 @@
         <title>BBC News</title>
     </programme>
     <programme start="20251031013000 +0000" stop="20251031020000 +0000" channel="BBC World News HD.starhub">
-        <title>The Media Show</title>
+        <title>When the Royals Lose Control of the Story</title>
     </programme>
     <programme start="20251031020000 +0000" stop="20251031023000 +0000" channel="BBC World News HD.starhub">
         <title>Newsday</title>

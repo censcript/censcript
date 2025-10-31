@@ -78,6 +78,14 @@
     <title>UEFA Champions League Highlights 2025-26</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251101160000 +0700" stop="20251101163000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Game R1 S6 E10</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251101163000 +0700" stop="20251101170000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEFA Champions League Magazine 2025-26 E9</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251031141000 +0700" stop="20251031161000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Pisa - SS Lazio</title>
     <desc>Live: Tidak</desc>
@@ -186,6 +194,10 @@
     <title>American Football: Miami Dolphins - Baltimore Ravens</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251101163000 +0700" stop="20251101183000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Al Nassr - Al Ittihad</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251031150000 +0700" stop="20251031170000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Mersin MSK - Karditsa</title>
     <desc>Live: Tidak</desc>
@@ -258,8 +270,8 @@
     <title>Pick n&#039; Roll</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251031131000 +0700" stop="20251031151500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>2025 Extreme H</title>
+<programme start="20251101163000 +0700" stop="20251101170000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>ACB Liga Endesa 2025-26 - Fifth Quarter E4</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251031151500 +0700" stop="20251031161500 +0700" channel="COSMOTE Sport 5 HD">
@@ -366,8 +378,8 @@
     <title>DTM</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251031133000 +0700" stop="20251031160000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Volleyball: Asterix Avo Beveren - Olympiacos</title>
+<programme start="20251101160000 +0700" stop="20251101170500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>eSports: 2025 MotoGP eChampionship Global Series</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251031160000 +0700" stop="20251031183000 +0700" channel="COSMOTE Sport 6 HD">
@@ -412,6 +424,10 @@
 </programme>
 <programme start="20251101150000 +0700" stop="20251101163000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Topspin</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251101163000 +0700" stop="20251101203000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: ATP Masters 1000 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251031150000 +0700" stop="20251031170000 +0700" channel="COSMOTE Sport 7 HD">
