@@ -78,10 +78,6 @@
     <title>Football: Shamrock Rovers FC - NK Celje</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251031100000 +0700" stop="20251031120000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Cagliari - Sassuolo</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251031120000 +0700" stop="20251031141000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Kifisia - Panetolikos</title>
     <desc>Live: Tidak</desc>
@@ -359,6 +355,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251101110000 +0700" stop="20251101120500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: Extreme E 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251101120500 +0700" stop="20251101141000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Motorsports: Extreme E 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
