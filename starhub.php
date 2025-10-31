@@ -7987,16 +7987,16 @@
     <programme start="20251030235000 +0000" stop="20251031013000 +0000" channel="Asianet Movies.starhub">
         <title>Bhaagamathie</title>
     </programme>
-    <programme start="20251031013000 +0000" stop="20251031043000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251031013000 +0000" stop="20251031044000 +0000" channel="Asianet Movies.starhub">
         <title>Swapnakoodu</title>
     </programme>
-    <programme start="20251031043000 +0000" stop="20251031073000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251031044000 +0000" stop="20251031073500 +0000" channel="Asianet Movies.starhub">
         <title>China Town</title>
     </programme>
-    <programme start="20251031073000 +0000" stop="20251031103000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251031073500 +0000" stop="20251031105000 +0000" channel="Asianet Movies.starhub">
         <title>Hridayam</title>
     </programme>
-    <programme start="20251031103000 +0000" stop="20251031133000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251031105000 +0000" stop="20251031133000 +0000" channel="Asianet Movies.starhub">
         <title>Adi Kapyare Koottamani</title>
     </programme>
     <programme start="20251031133000 +0000" stop="20251031163000 +0000" channel="Asianet Movies.starhub">
