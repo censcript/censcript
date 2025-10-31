@@ -1,11 +1,3 @@
-<programme start="20251031210000 +0700" stop="20251031212000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Sports Classics: Worldies E14</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251031212000 +0700" stop="20251031215000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>UEFA Champions League Magazine 2025-26 E8</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251031215000 +0700" stop="20251031235000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Al Hilal - Al Shabab (L)</title>
     <desc>Live: Ya</desc>
@@ -158,6 +150,10 @@
     <title>Sports Classics: Football&#039;s Greatest IV E5</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251101220000 +0700" stop="20251101230000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>PreGame Show (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
 <programme start="20251031210000 +0700" stop="20251031230000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Lanus - Universidad de Chile</title>
     <desc>Live: Tidak</desc>
@@ -212,10 +208,6 @@
 </programme>
 <programme start="20251101213000 +0700" stop="20251101233000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Luton Town - Forest Green Rovers</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251031193000 +0700" stop="20251031213000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Murcia - Baskonia</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251031213000 +0700" stop="20251031234000 +0700" channel="COSMOTE Sport 4 HD">
@@ -298,8 +290,8 @@
     <title>NBA Action 2025-26 E3502</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251031200000 +0700" stop="20251031213000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: Moto2 2025</title>
+<programme start="20251101221500 +0700" stop="20251102002000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Murcia - Baskonia</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251031213000 +0700" stop="20251031230500 +0700" channel="COSMOTE Sport 5 HD">
@@ -410,8 +402,8 @@
     <title>2025 GT World Challenge Europe</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251031200000 +0700" stop="20251031220000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: ATP Masters 1000 2025 (L)</title>
+<programme start="20251101220000 +0700" stop="20251102000000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Football: QPR - Ipswich Town (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20251031220000 +0700" stop="20251101003000 +0700" channel="COSMOTE Sport 6 HD">
@@ -515,6 +507,10 @@
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20251101213000 +0700" stop="20251101220000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251101220000 +0700" stop="20251101230000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
