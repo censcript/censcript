@@ -488,7 +488,7 @@
 <title>Secret Story</title>
 </programme>
 <programme start="20251030233000 +0000" stop="20251031013000 +0000" channel="ANTV.vision">
-<title>Ateng Minta Kawin</title>
+<title>Petualangan 100 Jam</title>
 </programme>
 <programme start="20251031013000 +0000" stop="20251031030000 +0000" channel="ANTV.vision">
 <title>Mangal Lakshmi</title>
@@ -506,7 +506,7 @@
 <title>Takdir Cinta Layla</title>
 </programme>
 <programme start="20251031110000 +0000" stop="20251031130000 +0000" channel="ANTV.vision">
-<title>Rumah Kentang: The Beginning</title>
+<title>Mandala Penakluk Satria Tartar</title>
 </programme>
 <programme start="20251031130000 +0000" stop="20251031150000 +0000" channel="ANTV.vision">
 <title>Rindu Tak Berujung</title>
@@ -537,12 +537,6 @@
 </programme>
 <programme start="20251101030000 +0000" stop="20251101063000 +0000" channel="ANTV.vision">
 <title>One 2 Ka 4</title>
-</programme>
-<programme start="20251101063000 +0000" stop="20251101080000 +0000" channel="ANTV.vision">
-<title>Cinta Keluarga Pandya</title>
-</programme>
-<programme start="20251101080000 +0000" stop="20251101093000 +0000" channel="ANTV.vision">
-<title>Zeynep</title>
 </programme>
 <programme start="20251101093000 +0000" stop="20251101110000 +0000" channel="ANTV.vision">
 <title>ANTV Seru</title>
@@ -699,24 +693,6 @@
 </programme>
 <programme start="20251031163000 +0000" stop="20251031170000 +0000" channel="TVOne.vision">
 <title>Kabar Utama</title>
-</programme>
-<programme start="20251031180000 +0000" stop="20251031210000 +0000" channel="TVOne.vision">
-<title>TVOne</title>
-</programme>
-<programme start="20251031210000 +0000" stop="20251101000000 +0000" channel="TVOne.vision">
-<title>TVOne</title>
-</programme>
-<programme start="20251101000000 +0000" stop="20251101030000 +0000" channel="TVOne.vision">
-<title>TVOne</title>
-</programme>
-<programme start="20251101030000 +0000" stop="20251101060000 +0000" channel="TVOne.vision">
-<title>TVOne</title>
-</programme>
-<programme start="20251101060000 +0000" stop="20251101090000 +0000" channel="TVOne.vision">
-<title>TVOne</title>
-</programme>
-<programme start="20251101090000 +0000" stop="20251101120000 +0000" channel="TVOne.vision">
-<title>TVOne</title>
 </programme>
 <programme start="20251031000000 +0000" stop="20251031023000 +0000" channel="Kompas TV.vision">
 <title>Sapa Indonesia Pagi</title>
@@ -1496,5 +1472,11 @@
 <title>Bali TV</title>
 </programme>
 <programme start="20251031050000 +0000" stop="20251031070000 +0000" channel="Bali TV.vision">
+<title>Bali TV</title>
+</programme>
+<programme start="20251031070000 +0000" stop="20251031090000 +0000" channel="Bali TV.vision">
+<title>Bali TV</title>
+</programme>
+<programme start="20251031090000 +0000" stop="20251031110000 +0000" channel="Bali TV.vision">
 <title>Bali TV</title>
 </programme>
