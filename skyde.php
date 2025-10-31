@@ -2511,10 +2511,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Fußball: Klassiker der Woche: STU - SCR (2017/18)</title>
 </programme>
 <programme start="20251031130000 +0000" stop="20251031150000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live ATP 1000: VF1, Rolex Paris Masters in Paris (FRA), Viertelfinale 1</title>
+    <title>Live ATP 1000: V. Vacherot (MON) - F. Auger-Aliassime (CAN), Rolex Paris Masters in Paris (FRA), Viertelfinale 1</title>
 </programme>
 <programme start="20251031150000 +0000" stop="20251031170000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live ATP 1000: VF2, Rolex Paris Masters in Paris (FRA), Viertelfinale 2</title>
+    <title>Live ATP 1000: A. Bublik (KAZ) - A. de Minaur (AUS), Rolex Paris Masters in Paris (FRA), Viertelfinale 2</title>
 </programme>
 <programme start="20251031170000 +0000" stop="20251031173000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>WTA 1000: Review Wuhan</title>
@@ -2523,10 +2523,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>ATP: This Week</title>
 </programme>
 <programme start="20251031180000 +0000" stop="20251031200000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live ATP 1000: VF3, Rolex Paris Masters in Paris (FRA), Viertelfinale 3</title>
+    <title>Live ATP 1000: J. Sinner (ITA) - B. Shelton (USA), Rolex Paris Masters in Paris (FRA), Viertelfinale 3</title>
 </programme>
 <programme start="20251031200000 +0000" stop="20251031220000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live ATP 1000: VF4, Rolex Paris Masters in Paris (FRA), Viertelfinale 4</title>
+    <title>Live ATP 1000: A. Zverev (GER) - D. Medvedev, Rolex Paris Masters in Paris (FRA), Viertelfinale 4</title>
 </programme>
 <programme start="20251031220000 +0000" stop="20251031223000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA CL: Magazin</title>
@@ -2642,7 +2642,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251031183000 +0000" stop="20251031191500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: FCA - BVB: tipico Countdown, Flutlicht-Freitag, 9. Spieltag</title>
 </programme>
-<programme start="20251031191500 +0000" stop="20251031221500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
+<programme start="20251031191500 +0000" stop="20251031224500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: FC Augsburg - Borussia Dortmund, Flutlicht-Freitag, 9. Spieltag</title>
 </programme>
 <programme start="20251031164000 +0000" stop="20251031170000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
@@ -2660,13 +2660,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251031170000 +0000" stop="20251031193000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live 2. BL: SV Elversberg - Hannover 96, 11. Spieltag</title>
 </programme>
-<programme start="20251031193000 +0000" stop="20251031213000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
+<programme start="20251031193000 +0000" stop="20251031220000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live BL: Sky Sport Fantasy: FCA - BVB, 9. Spieltag</title>
 </programme>
 <programme start="20251031164000 +0000" stop="20251031170000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Es folgt: Live 2. Bundesliga</title>
 </programme>
-<programme start="20251031170000 +0000" stop="20251031193000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
+<programme start="20251031170000 +0000" stop="20251031200000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live 2. BL: Preußen Münster - Holstein Kiel, 11. Spieltag</title>
 </programme>
 <programme start="20251031164000 +0000" stop="20251031170000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
@@ -2732,7 +2732,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251031220000 +0000" stop="20251031230000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Ferrari Challenge Europe: Finali Mondiali - Coppa Shell</title>
 </programme>
-<programme start="20251030230000 +0000" stop="20251031013000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20251030230500 +0000" stop="20251031013000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: Bank of Utah Championship, 2. Tag in Ivins, UT (USA)</title>
 </programme>
 <programme start="20251031013000 +0000" stop="20251031063000 +0000" channel="Sky Sport Golf HD.skyde">
@@ -2843,11 +2843,14 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251031090000 +0000" stop="20251031093000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: FCB-PK</title>
 </programme>
-<programme start="20251031093000 +0000" stop="20251031103000 +0000" channel="Sky Sport News HD.skyde">
+<programme start="20251031093000 +0000" stop="20251031100000 +0000" channel="Sky Sport News HD.skyde">
     <title>Sky Sport News: Der Morgen</title>
 </programme>
-<programme start="20251031103000 +0000" stop="20251031110000 +0000" channel="Sky Sport News HD.skyde">
+<programme start="20251031100000 +0000" stop="20251031103000 +0000" channel="Sky Sport News HD.skyde">
     <title>Transfer Update: Die Show</title>
+</programme>
+<programme start="20251031103000 +0000" stop="20251031110000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: B04-PK</title>
 </programme>
 <programme start="20251031110000 +0000" stop="20251031140000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Pressekonferenzen live</title>
@@ -3036,10 +3039,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>ATP 1000: A. Zverev (GER) - A. Davidovich Fokina (ESP), Rolex Paris Masters in Paris (FRA), 4. Tag</title>
 </programme>
 <programme start="20251031130000 +0000" stop="20251031150000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP 1000: VF1, Rolex Paris Masters in Paris (FRA), Viertelfinale 1</title>
+    <title>Live ATP 1000: V. Vacherot (MON) - F. Auger-Aliassime (CAN), Rolex Paris Masters in Paris (FRA), Viertelfinale 1</title>
 </programme>
 <programme start="20251031150000 +0000" stop="20251031170000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP 1000: VF2, Rolex Paris Masters in Paris (FRA), Viertelfinale 2</title>
+    <title>Live ATP 1000: A. Bublik (KAZ) - A. de Minaur (AUS), Rolex Paris Masters in Paris (FRA), Viertelfinale 2</title>
 </programme>
 <programme start="20251031170000 +0000" stop="20251031173000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Meine Geschichte: Das Leben von Boris Becker (Teil 1)</title>
@@ -3048,10 +3051,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Meine Geschichte: Das Leben von Boris Becker (Teil 2)</title>
 </programme>
 <programme start="20251031180000 +0000" stop="20251031200000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP 1000: VF3, Rolex Paris Masters in Paris (FRA), Viertelfinale 3</title>
+    <title>Live ATP 1000: J. Sinner (ITA) - B. Shelton (USA), Rolex Paris Masters in Paris (FRA), Viertelfinale 3</title>
 </programme>
 <programme start="20251031200000 +0000" stop="20251031220000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP 1000: VF4, Rolex Paris Masters in Paris (FRA), Viertelfinale 4</title>
+    <title>Live ATP 1000: A. Zverev (GER) - D. Medvedev, Rolex Paris Masters in Paris (FRA), Viertelfinale 4</title>
 </programme>
 <programme start="20251031220000 +0000" stop="20251031230000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: Review Wien</title>
@@ -3081,10 +3084,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Live HotelPlaner Tour: Rolex Grand Final supported by The R&amp;A, 2. Tag in Alcudia (Spanien)</title>
 </programme>
 <programme start="20251031130000 +0000" stop="20251031150000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live ATP 1000: VF1, Rolex Paris Masters in Paris (FRA), Viertelfinale 1</title>
+    <title>Live ATP 1000: V. Vacherot (MON) - F. Auger-Aliassime (CAN), Rolex Paris Masters in Paris (FRA), Viertelfinale 1</title>
 </programme>
 <programme start="20251031150000 +0000" stop="20251031170000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live ATP 1000: VF2, Rolex Paris Masters in Paris (FRA), Viertelfinale 2</title>
+    <title>Live ATP 1000: A. Bublik (KAZ) - A. de Minaur (AUS), Rolex Paris Masters in Paris (FRA), Viertelfinale 2</title>
 </programme>
 <programme start="20251031170000 +0000" stop="20251031192500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live 2. BL: Freitags-Konferenz, 11. Spieltag</title>

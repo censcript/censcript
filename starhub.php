@@ -1165,11 +1165,11 @@
     <programme start="20251030160000 +0000" stop="20251030170000 +0000" channel="FIGHT SPORTS HD.starhub">
         <title>FS MMA Charlie Zac vs. Doug Read</title>
     </programme>
-    <programme start="20251030170000 +0000" stop="20251030180000 +0000" channel="FIGHT SPORTS HD.starhub">
-        <title>MEGA Fights In 60 Chad Dawson vs. Antonio Tarver II</title>
+    <programme start="20251030170000 +0000" stop="20251030190000 +0000" channel="FIGHT SPORTS HD.starhub">
+        <title>WCCB Uisma Lima vs. Shervantaigh Koopman</title>
     </programme>
-    <programme start="20251030180000 +0000" stop="20251030200000 +0000" channel="FIGHT SPORTS HD.starhub">
-        <title>Greatest Classics Floyd Mayweather vs. Felipe Garcia</title>
+    <programme start="20251030190000 +0000" stop="20251030200000 +0000" channel="FIGHT SPORTS HD.starhub">
+        <title>Season&#039;s Best Runs: Part 2</title>
     </programme>
     <programme start="20251030200000 +0000" stop="20251030203000 +0000" channel="FIGHT SPORTS HD.starhub">
         <title>KNOCKOUTS! James Kirkland vs. Eromosele Albert</title>
@@ -1186,11 +1186,11 @@
     <programme start="20251030220000 +0000" stop="20251030230000 +0000" channel="FIGHT SPORTS HD.starhub">
         <title>FS MMA Charlie Zac vs. Doug Read</title>
     </programme>
-    <programme start="20251030230000 +0000" stop="20251031000000 +0000" channel="FIGHT SPORTS HD.starhub">
-        <title>MEGA Fights In 60 Chad Dawson vs. Antonio Tarver II</title>
+    <programme start="20251030230000 +0000" stop="20251031010000 +0000" channel="FIGHT SPORTS HD.starhub">
+        <title>WCCB Uisma Lima vs. Shervantaigh Koopman</title>
     </programme>
-    <programme start="20251031000000 +0000" stop="20251031020000 +0000" channel="FIGHT SPORTS HD.starhub">
-        <title>Greatest Classics Floyd Mayweather vs. Felipe Garcia</title>
+    <programme start="20251031010000 +0000" stop="20251031020000 +0000" channel="FIGHT SPORTS HD.starhub">
+        <title>Season&#039;s Best Runs: Part 2</title>
     </programme>
     <programme start="20251031020000 +0000" stop="20251031023000 +0000" channel="FIGHT SPORTS HD.starhub">
         <title>KNOCKOUTS! James Kirkland vs. Eromosele Albert</title>
@@ -1207,11 +1207,11 @@
     <programme start="20251031040000 +0000" stop="20251031050000 +0000" channel="FIGHT SPORTS HD.starhub">
         <title>FS MMA Charlie Zac vs. Doug Read</title>
     </programme>
-    <programme start="20251031050000 +0000" stop="20251031060000 +0000" channel="FIGHT SPORTS HD.starhub">
-        <title>MEGA Fights In 60 Chad Dawson vs. Antonio Tarver II</title>
+    <programme start="20251031050000 +0000" stop="20251031070000 +0000" channel="FIGHT SPORTS HD.starhub">
+        <title>WCCB Uisma Lima vs. Shervantaigh Koopman</title>
     </programme>
-    <programme start="20251031060000 +0000" stop="20251031080000 +0000" channel="FIGHT SPORTS HD.starhub">
-        <title>Greatest Classics Floyd Mayweather vs. Felipe Garcia</title>
+    <programme start="20251031070000 +0000" stop="20251031080000 +0000" channel="FIGHT SPORTS HD.starhub">
+        <title>Season&#039;s Best Runs: Part 2</title>
     </programme>
     <programme start="20251031080000 +0000" stop="20251031083000 +0000" channel="FIGHT SPORTS HD.starhub">
         <title>KNOCKOUTS! James Kirkland vs. Eromosele Albert</title>
@@ -2185,13 +2185,19 @@
     <programme start="20251031030000 +0000" stop="20251031040000 +0000" channel="CNN HD.starhub">
         <title>Laura Coates Live</title>
     </programme>
-    <programme start="20251031040000 +0000" stop="20251031054500 +0000" channel="CNN HD.starhub">
+    <programme start="20251031040000 +0000" stop="20251031050000 +0000" channel="CNN HD.starhub">
+        <title>The Story Is With Elex Michaelson</title>
+    </programme>
+    <programme start="20251031050000 +0000" stop="20251031054500 +0000" channel="CNN HD.starhub">
         <title>The Story Is With Elex Michaelson</title>
     </programme>
     <programme start="20251031054500 +0000" stop="20251031060000 +0000" channel="CNN HD.starhub">
         <title>World Sport</title>
     </programme>
-    <programme start="20251031060000 +0000" stop="20251031074500 +0000" channel="CNN HD.starhub">
+    <programme start="20251031060000 +0000" stop="20251031070000 +0000" channel="CNN HD.starhub">
+        <title>CNN Newsroom (CNNI)</title>
+    </programme>
+    <programme start="20251031070000 +0000" stop="20251031074500 +0000" channel="CNN HD.starhub">
         <title>CNN Newsroom (CNNI)</title>
     </programme>
     <programme start="20251031074500 +0000" stop="20251031080000 +0000" channel="CNN HD.starhub">
@@ -2285,31 +2291,31 @@
         <title>Basel</title>
     </programme>
     <programme start="20251031040000 +0000" stop="20251031053000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 1000 2025: Paris Day 4 Match 1</title>
+        <title>Paris Day 4 Norrie v Vacherot</title>
     </programme>
     <programme start="20251031053000 +0000" stop="20251031070000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 1000 2025: Paris Day 4 Match 2</title>
+        <title>Paris Day 4 Auger-Aliassime v Altmaier</title>
     </programme>
     <programme start="20251031070000 +0000" stop="20251031083000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 1000 2025: Paris Day 4 Match 3</title>
+        <title>Paris Day 4 Zverev v Davidovich Fokina</title>
     </programme>
     <programme start="20251031083000 +0000" stop="20251031090000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>ATP Tour: This Week 2025</title>
     </programme>
     <programme start="20251031090000 +0000" stop="20251031103000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 1000 2025: Paris Day 4 Match 5</title>
+        <title>Paris Day 4 Sinner v Cerundolo</title>
     </programme>
     <programme start="20251031103000 +0000" stop="20251031120000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 1000 2025: Paris Day 4 Match 6</title>
+        <title>Paris Day 4 Zverev v Davidovich Fokina</title>
     </programme>
     <programme start="20251031120000 +0000" stop="20251031130000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>Vienna</title>
     </programme>
     <programme start="20251031130000 +0000" stop="20251031150000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 1000 2025: Paris QF 1 (Live)</title>
+        <title>Paris QF 1 Auger-Aliassime v Vacherot</title>
     </programme>
     <programme start="20251031150000 +0000" stop="20251031180000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 1000 2025: Paris QF 2 (Live)</title>
+        <title>Paris QF 2 De Minaur v Bublik</title>
     </programme>
     <programme start="20251030160000 +0000" stop="20251030170000 +0000" channel="TVB Xing He.starhub">
         <title>Birth of A Hero</title>
