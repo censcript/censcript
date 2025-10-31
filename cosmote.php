@@ -1,11 +1,3 @@
-<programme start="20251101013000 +0700" stop="20251101033000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: Sporting CP - Olympique de Marseille</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251101033000 +0700" stop="20251101040000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Game R1 S6 E10</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251101040000 +0700" stop="20251101043000 +0700" channel="COSMOTE Sport 1 HD">
     <title>UEFA Champions League Magazine 2025-26 E9</title>
     <desc>Live: Tidak</desc>
@@ -82,8 +74,8 @@
     <title>PostGame Show (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251101025500 +0700" stop="20251101031500 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Sports Classics: Worldies E15</title>
+<programme start="20251102040000 +0700" stop="20251102061500 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: Olympiacos - Aris</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251101031500 +0700" stop="20251101051500 +0700" channel="COSMOTE Sport 2 HD">
@@ -222,6 +214,10 @@
     <title>Football: Cremonese - Juventus Football Club (L)</title>
     <desc>Live: Ya</desc>
 </programme>
+<programme start="20251102044500 +0700" stop="20251102064500 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Leicester City FC - Blackburn Rovers</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251101023000 +0700" stop="20251101045500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Milwaukee Bucks - Golden State Warriors</title>
     <desc>Live: Tidak</desc>
@@ -302,13 +298,9 @@
     <title>NBA on Fire 2025-26 E1</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251101030000 +0700" stop="20251101033000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Sports Classics: Gearing Up 2024 E10</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251101033000 +0700" stop="20251101040000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC Magazine 2025</title>
-    <desc>Live: Tidak</desc>
+<programme start="20251102040000 +0700" stop="20251102070000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Milwaukee Bucks - Sacramento Kings (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20251101040000 +0700" stop="20251101050000 +0700" channel="COSMOTE Sport 5 HD">
     <title>eSports: 2025 MotoGP eChampionship Global Series</title>
@@ -405,6 +397,14 @@
 <programme start="20251102020000 +0700" stop="20251102040000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Basketball: Trentino - Virtus Bologna (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20251102040000 +0700" stop="20251102045500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>2025 GT World Challenge Europe</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251102045500 +0700" stop="20251102060000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>2025 Extreme H</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251101030000 +0700" stop="20251101053000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Daniil Medvedev - Alexander Zverev (L)</title>
