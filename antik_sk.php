@@ -394,22 +394,22 @@
   <programme start="20251102224500 +0000" stop="20251102231500 +0000" channel=":24.webtv.sk">
     <title lang="id">Cestománia</title>
   </programme>
-  <programme start="20251101212000 +0000" stop="20251101230500 +0000" channel=":Šport.webtv.sk">
-    <title lang="id">Futbal - MONACObet liga 2025/26 - MONACObet liga 2025/26 (15. kolo): MFK Tatran Liptovský Mikuláš - FC Petržalka</title>
-  </programme>
-  <programme start="20251101230500 +0000" stop="20251101232000 +0000" channel=":Šport.webtv.sk">
+  <programme start="20251101230000 +0000" stop="20251101230500 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Hymna SR</title>
   </programme>
-  <programme start="20251101232000 +0000" stop="20251102005000 +0000" channel=":Šport.webtv.sk">
-    <title lang="id">Hádzaná - MOL liga - MOL liga 2025/26 (7. kolo): MŠK Iuventa Michalovce - Házená Kynžvart</title>
-  </programme>
-  <programme start="20251102005000 +0000" stop="20251102010000 +0000" channel=":Šport.webtv.sk">
+  <programme start="20251101230500 +0000" stop="20251101231500 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Góly - body - sekundy</title>
   </programme>
-  <programme start="20251102010000 +0000" stop="20251102015000 +0000" channel=":Šport.webtv.sk">
+  <programme start="20251101231500 +0000" stop="20251102004500 +0000" channel=":Šport.webtv.sk">
+    <title lang="id">Hádzaná - MOL liga - MOL liga 2025/26 (7. kolo): MŠK Iuventa Michalovce - Házená Kynžvart</title>
+  </programme>
+  <programme start="20251102004500 +0000" stop="20251102005500 +0000" channel=":Šport.webtv.sk">
+    <title lang="id">Góly - body - sekundy</title>
+  </programme>
+  <programme start="20251102005500 +0000" stop="20251102014500 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Správy</title>
   </programme>
-  <programme start="20251102015000 +0000" stop="20251102020000 +0000" channel=":Šport.webtv.sk">
+  <programme start="20251102014500 +0000" stop="20251102020000 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Góly - body - sekundy</title>
   </programme>
   <programme start="20251102020000 +0000" stop="20251102025000 +0000" channel=":Šport.webtv.sk">
@@ -3076,16 +3076,16 @@
   <programme start="20251102214500 +0000" stop="20251102232000 +0000" channel="NOE.webtv.sk">
     <title lang="id">G. Verdi: Requiem</title>
   </programme>
-  <programme start="20251101214900 +0000" stop="20251101232700 +0000" channel="ČT1.webtv.sk">
+  <programme start="20251101214900 +0000" stop="20251101232600 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Manželství po italsku</title>
   </programme>
-  <programme start="20251101232700 +0000" stop="20251102002000 +0000" channel="ČT1.webtv.sk">
+  <programme start="20251101232600 +0000" stop="20251102002000 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Dalgliesh III (3)</title>
   </programme>
-  <programme start="20251102002000 +0000" stop="20251102010100 +0000" channel="ČT1.webtv.sk">
+  <programme start="20251102002000 +0000" stop="20251102010000 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Fauda III (5/12)</title>
   </programme>
-  <programme start="20251102010100 +0000" stop="20251102024500 +0000" channel="ČT1.webtv.sk">
+  <programme start="20251102010000 +0000" stop="20251102024500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Sama doma</title>
   </programme>
   <programme start="20251102024500 +0000" stop="20251102031000 +0000" channel="ČT1.webtv.sk">
@@ -3115,10 +3115,10 @@
   <programme start="20251102075500 +0000" stop="20251102084600 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Polopatě</title>
   </programme>
-  <programme start="20251102084600 +0000" stop="20251102090200 +0000" channel="ČT1.webtv.sk">
+  <programme start="20251102084600 +0000" stop="20251102090100 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Kalendárium</title>
   </programme>
-  <programme start="20251102090200 +0000" stop="20251102093500 +0000" channel="ČT1.webtv.sk">
+  <programme start="20251102090100 +0000" stop="20251102093500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Toulavá kamera</title>
   </programme>
   <programme start="20251102093500 +0000" stop="20251102100500 +0000" channel="ČT1.webtv.sk">
@@ -3169,10 +3169,10 @@
   <programme start="20251102191000 +0000" stop="20251102201500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Ratolesti (5/10)</title>
   </programme>
-  <programme start="20251102201500 +0000" stop="20251102210100 +0000" channel="ČT1.webtv.sk">
+  <programme start="20251102201500 +0000" stop="20251102210300 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Výborná SHOW</title>
   </programme>
-  <programme start="20251102210100 +0000" stop="20251102215900 +0000" channel="ČT1.webtv.sk">
+  <programme start="20251102210300 +0000" stop="20251102215900 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Osada (8/13)</title>
   </programme>
   <programme start="20251102215900 +0000" stop="20251102220300 +0000" channel="ČT1.webtv.sk">
