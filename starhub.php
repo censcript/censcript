@@ -3881,7 +3881,7 @@
         <title>News &amp; Weather</title>
     </programme>
     <programme start="20251031010500 +0000" stop="20251031015500 +0000" channel="NHK World Premium HD.starhub">
-        <title>Unsolved Cases &quot;File. 03,The Land Fraud Case Targeting a Major Housing Company&quot;(</title>
+        <title>Unsolved Cases &quot;File. 03, The Land Fraud Case Targeting a Major Housing Company&quot;</title>
     </programme>
     <programme start="20251031015500 +0000" stop="20251031022300 +0000" channel="NHK World Premium HD.starhub">
         <title>Darwin&#039;s Amazing Animals &quot;Tokay Gecko&quot; (R)</title>
