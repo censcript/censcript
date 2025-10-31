@@ -262,10 +262,6 @@
     <title>Basketball: Virtus Bologna - Sassari</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251031120500 +0700" stop="20251031131000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>2025 Extreme H</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251031131000 +0700" stop="20251031151500 +0700" channel="COSMOTE Sport 5 HD">
     <title>2025 Extreme H</title>
     <desc>Live: Tidak</desc>
@@ -362,8 +358,12 @@
     <title>Motorsports: Extreme E 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251031110000 +0700" stop="20251031133000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: ATP Masters 1000 2025</title>
+<programme start="20251101141000 +0700" stop="20251101143500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Sports Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251101143500 +0700" stop="20251101150500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Sports Classics: Gearing Up 2024 E10</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251031133000 +0700" stop="20251031160000 +0700" channel="COSMOTE Sport 6 HD">
