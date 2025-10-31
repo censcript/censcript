@@ -3268,11 +3268,11 @@
 <programme start="20251031040000 +0000" stop="20251031050000 +0000" channel="Fight Sports.mncvision">
     <title>FS MMA: Zac Vs Read</title>
 </programme>
-<programme start="20251031050000 +0000" stop="20251031060000 +0000" channel="Fight Sports.mncvision">
-    <title>Mega Fights In 60 S1, Ep 9</title>
+<programme start="20251031050000 +0000" stop="20251031070000 +0000" channel="Fight Sports.mncvision">
+    <title>WCCB: Lima Vs Koopman</title>
 </programme>
-<programme start="20251031060000 +0000" stop="20251031080000 +0000" channel="Fight Sports.mncvision">
-    <title>Greatest Classics S1, Ep 47</title>
+<programme start="20251031070000 +0000" stop="20251031080000 +0000" channel="Fight Sports.mncvision">
+    <title>American Ninja... S6, Ep 10</title>
 </programme>
 <programme start="20251031080000 +0000" stop="20251031083000 +0000" channel="Fight Sports.mncvision">
     <title>Knockouts!: Kirkland Vs Albert</title>
