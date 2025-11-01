@@ -670,12 +670,6 @@
 <programme start="20251101093000 +0000" stop="20251101110000 +0000" channel="ANTV.vision">
 <title>ANTV Seru</title>
 </programme>
-<programme start="20251101110000 +0000" stop="20251101130000 +0000" channel="ANTV.vision">
-<title>Golong Setan</title>
-</programme>
-<programme start="20251101150000 +0000" stop="20251101170000 +0000" channel="ANTV.vision">
-<title>Peacock King</title>
-</programme>
 <programme start="20251101170000 +0000" stop="20251101193000 +0000" channel="ANTV.vision">
 <title>Aces Go Places 5</title>
 </programme>
@@ -1497,4 +1491,10 @@
 </programme>
 <programme start="20251102003000 +0000" stop="20251102011500 +0000" channel="BTV.vision">
 <title>Figur Publik</title>
+</programme>
+<programme start="20251102011500 +0000" stop="20251102014500 +0000" channel="BTV.vision">
+<title>Kuyliner</title>
+</programme>
+<programme start="20251102014500 +0000" stop="20251102023000 +0000" channel="BTV.vision">
+<title>Masak Ala Devina Hermawan</title>
 </programme>
