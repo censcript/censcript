@@ -7307,7 +7307,7 @@
         <title>BBC News</title>
     </programme>
     <programme start="20251101113000 +0000" stop="20251101120000 +0000" channel="BBC World News HD.starhub">
-        <title>Unspun World with John Simpson</title>
+        <title>Hurricane Melissa: The Storm That Hit Jamaica</title>
     </programme>
     <programme start="20251101120000 +0000" stop="20251101123000 +0000" channel="BBC World News HD.starhub">
         <title>BBC News</title>
