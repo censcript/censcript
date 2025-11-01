@@ -667,9 +667,6 @@
 <programme start="20251101013000 +0000" stop="20251101030000 +0000" channel="ANTV.vision">
 <title>ANTV Seru</title>
 </programme>
-<programme start="20251101030000 +0000" stop="20251101063000 +0000" channel="ANTV.vision">
-<title>One 2 Ka 4</title>
-</programme>
 <programme start="20251101093000 +0000" stop="20251101110000 +0000" channel="ANTV.vision">
 <title>ANTV Seru</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20251101233000 +0000" stop="20251102003000 +0000" channel="BTV.vision">
 <title>Jalan Dakwah</title>
+</programme>
+<programme start="20251102003000 +0000" stop="20251102011500 +0000" channel="BTV.vision">
+<title>Figur Publik</title>
 </programme>

@@ -3382,10 +3382,10 @@
 <programme start="20251101213000 +0000" stop="20251101233000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Sacramento Kings @ Milwaukee Bucks</title>
 </programme>
-<programme start="20251101202500 +0000" stop="20251101204500 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20251101204000 +0000" stop="20251101204500 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: Basketball NBA</title>
 </programme>
-<programme start="20251101204500 +0000" stop="20251101233000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20251101204500 +0000" stop="20251102010000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Sacramento Kings @ Milwaukee Bucks</title>
 </programme>
 <programme start="20251101121000 +0000" stop="20251101123000 +0000" channel="Sky Sport 8 HD.skyde">
