@@ -1,7 +1,3 @@
-<programme start="20251101190000 +0700" stop="20251101200000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>UEL &amp; UECL Magazine 2025-26 E4</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251101200000 +0700" stop="20251101210000 +0700" channel="COSMOTE Sport 1 HD">
     <title>UEFA Champions League Highlights 2025-26</title>
     <desc>Live: Tidak</desc>
@@ -74,8 +70,8 @@
     <title>Football: Hellas Verona - FC Internazionale Milano (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251101174500 +0700" stop="20251101195500 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Olympiacos - AEK</title>
+<programme start="20251102203000 +0700" stop="20251102210000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEFA Champions League Magazine 2025-26 E9</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251101195500 +0700" stop="20251101202500 +0700" channel="COSMOTE Sport 2 HD">
@@ -154,10 +150,6 @@
     <title>Football: Olympiacos - Aris</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251101190000 +0700" stop="20251101193000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>William Hill Scottish Premiership - Highlights</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251101193000 +0700" stop="20251101213000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Leicester City FC - Blackburn Rovers (L)</title>
     <desc>Live: Ya</desc>
@@ -216,10 +208,6 @@
 </programme>
 <programme start="20251102190000 +0700" stop="20251102210000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Rio Ave - Estoril</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251101170000 +0700" stop="20251101191000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Levice - AEK</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251101191000 +0700" stop="20251101212000 +0700" channel="COSMOTE Sport 4 HD">
@@ -286,8 +274,8 @@
     <title>Basketball: Zaragoza - Real Madrid (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251101185500 +0700" stop="20251101195500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Highlights: 2025 Extreme H</title>
+<programme start="20251102203000 +0700" stop="20251102210000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>NBA on Fire 2025-26 E1</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251101195500 +0700" stop="20251101210000 +0700" channel="COSMOTE Sport 5 HD">
@@ -450,10 +438,6 @@
     <title>Tennis: ATP Masters 1000 2025 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251101190000 +0700" stop="20251101193000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251101193000 +0700" stop="20251101213000 +0700" channel="COSMOTE Sport 7 HD">
     <title>Basketball: Turk Telekom - Galatasaray (L)</title>
     <desc>Live: Ya</desc>
@@ -516,10 +500,6 @@
 </programme>
 <programme start="20251102190000 +0700" stop="20251102210000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251101190000 +0700" stop="20251101200000 +0700" channel="COSMOTE Sport 8 HD">
-    <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251101200000 +0700" stop="20251101210000 +0700" channel="COSMOTE Sport 8 HD">
