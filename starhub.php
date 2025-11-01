@@ -7735,13 +7735,13 @@
     <programme start="20251031133000 +0000" stop="20251031163000 +0000" channel="Asianet Movies.starhub">
         <title>Bromance</title>
     </programme>
-    <programme start="20251031163000 +0000" stop="20251031193000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251031163000 +0000" stop="20251031192000 +0000" channel="Asianet Movies.starhub">
         <title>Romancham</title>
     </programme>
-    <programme start="20251031193000 +0000" stop="20251031213000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251031192000 +0000" stop="20251031221000 +0000" channel="Asianet Movies.starhub">
         <title>Kancheepurathe Kalyanam</title>
     </programme>
-    <programme start="20251031213000 +0000" stop="20251031233000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251031221000 +0000" stop="20251031231000 +0000" channel="Asianet Movies.starhub">
         <title>Aayushmanbhava</title>
     </programme>
     <programme start="20251031231000 +0000" stop="20251101013000 +0000" channel="Asianet Movies.starhub">

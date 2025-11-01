@@ -70,9 +70,13 @@
     <title>Game R1 S6 E10</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251101154000 +0700" stop="20251101174500 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Atromitos Athens - Panathinaikos</title>
+<programme start="20251102180000 +0700" stop="20251102183000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEFA Champions League Magazine 2025-26 E9</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251102183000 +0700" stop="20251102203000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: Hellas Verona - FC Internazionale Milano (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20251101174500 +0700" stop="20251101195500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Olympiacos - AEK</title>
@@ -148,6 +152,10 @@
 </programme>
 <programme start="20251102163500 +0700" stop="20251102184500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Volos - Panathinaikos</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251102184500 +0700" stop="20251102210000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Olympiacos - Aris</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251101163000 +0700" stop="20251101183000 +0700" channel="COSMOTE Sport 3 HD">
@@ -282,9 +290,9 @@
     <title>Basketball: Milwaukee Bucks - Sacramento Kings</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251101160000 +0700" stop="20251101170500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>eSports: 2025 MotoGP eChampionship Global Series</title>
-    <desc>Live: Tidak</desc>
+<programme start="20251102183000 +0700" stop="20251102203000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Zaragoza - Real Madrid (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20251101170500 +0700" stop="20251101182500 +0700" channel="COSMOTE Sport 5 HD">
     <title>Grand Prix Show 2025</title>
@@ -382,8 +390,8 @@
     <title>DTM 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251101163000 +0700" stop="20251101174500 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: Ben Shelton - Jannik Sinner</title>
+<programme start="20251102182500 +0700" stop="20251102192000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>2025 GT World Challenge Europe</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251101174500 +0700" stop="20251101203000 +0700" channel="COSMOTE Sport 6 HD">
@@ -445,6 +453,10 @@
 <programme start="20251102163000 +0700" stop="20251102183000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Daniil Medvedev - Alexander Zverev</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251102183000 +0700" stop="20251102210000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: ATP Masters 1000 2025 (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20251101170000 +0700" stop="20251101190000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
