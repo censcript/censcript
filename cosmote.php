@@ -1,11 +1,3 @@
-<programme start="20251102010000 +0700" stop="20251102031000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: Olympiacos - Aris (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20251102031000 +0700" stop="20251102040000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>PostGame Show (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
 <programme start="20251102040000 +0700" stop="20251102061500 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Olympiacos - Aris</title>
     <desc>Live: Tidak</desc>
@@ -78,9 +70,9 @@
     <title>Football: AEK - Panetolikos (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251102030000 +0700" stop="20251102033000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Sports Classics: Worldies E15</title>
-    <desc>Live: Tidak</desc>
+<programme start="20251103041000 +0700" stop="20251103063000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Sportshow (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20251102033000 +0700" stop="20251102053000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Vitoria Guimaraes - SL Benfica (L)</title>
@@ -141,6 +133,10 @@
 <programme start="20251103024500 +0700" stop="20251103044500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: AC Milan - AS Roma (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20251103044500 +0700" stop="20251103064500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: AEK - Panetolikos</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251102024500 +0700" stop="20251102044500 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Cremonese - Juventus Football Club (L)</title>
@@ -214,14 +210,6 @@
     <title>Football: FC Porto - SC Braga (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251102030000 +0700" stop="20251102032500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>ACB Liga Endesa 2025-26 - Fifth Quarter E4</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251102032500 +0700" stop="20251102040000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>NBA on Fire 2025-26 E1</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251102040000 +0700" stop="20251102070000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Milwaukee Bucks - Sacramento Kings (L)</title>
     <desc>Live: Ya</desc>
@@ -280,10 +268,6 @@
 </programme>
 <programme start="20251103033000 +0700" stop="20251103063000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Oklahoma City Thunder - New Orleans Pelicans (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20251102020000 +0700" stop="20251102040000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Basketball: Trentino - Virtus Bologna (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20251102040000 +0700" stop="20251102045500 +0700" channel="COSMOTE Sport 5 HD">
@@ -380,6 +364,10 @@
 </programme>
 <programme start="20251103033000 +0700" stop="20251103043000 +0700" channel="COSMOTE Sport 5 HD">
     <title>WRC</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251103043000 +0700" stop="20251103050000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Sports Classics: Gearing Up 2024 E10</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251102030000 +0700" stop="20251102060000 +0700" channel="COSMOTE Sport 6 HD">
@@ -624,6 +612,10 @@
 </programme>
 <programme start="20251103010000 +0700" stop="20251103042500 +0700" channel="COSMOTE Sport 9 HD">
     <title>American Football: Pittsburgh Steelers - Indianapolis Colts (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
+<programme start="20251103042500 +0700" stop="20251103075500 +0700" channel="COSMOTE Sport 9 HD">
+    <title>American Football: Buffalo Bills - Kansas City Chiefs (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 No EPG found for COSMOTE Sport 10 HD
