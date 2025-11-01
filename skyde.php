@@ -1354,19 +1354,19 @@
 <programme start="20251101050000 +0000" stop="20251101050500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20251101050500 +0000" stop="20251101051000 +0000" channel="Nick Jr..skyde">
-    <title>Peppa Wutz</title>
-</programme>
-<programme start="20251101051000 +0000" stop="20251101051500 +0000" channel="Nick Jr..skyde">
+<programme start="20251101050500 +0000" stop="20251101051500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
 <programme start="20251101051500 +0000" stop="20251101052000 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20251101052000 +0000" stop="20251101052500 +0000" channel="Nick Jr..skyde">
+<programme start="20251101052000 +0000" stop="20251101052100 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20251101052500 +0000" stop="20251101055000 +0000" channel="Nick Jr..skyde">
+<programme start="20251101052100 +0000" stop="20251101053000 +0000" channel="Nick Jr..skyde">
+    <title>Peppa Wutz</title>
+</programme>
+<programme start="20251101053000 +0000" stop="20251101055000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
 <programme start="20251101055000 +0000" stop="20251101060000 +0000" channel="Nick Jr..skyde">
@@ -1450,22 +1450,22 @@
 <programme start="20251101133000 +0000" stop="20251101135000 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20251101135000 +0000" stop="20251101140000 +0000" channel="Nick Jr..skyde">
+<programme start="20251101135000 +0000" stop="20251101140500 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20251101140000 +0000" stop="20251101142500 +0000" channel="Nick Jr..skyde">
+<programme start="20251101140500 +0000" stop="20251101142500 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
 </programme>
-<programme start="20251101142500 +0000" stop="20251101144500 +0000" channel="Nick Jr..skyde">
+<programme start="20251101142500 +0000" stop="20251101145000 +0000" channel="Nick Jr..skyde">
     <title>Blaze und die Monster-Maschinen</title>
 </programme>
-<programme start="20251101144500 +0000" stop="20251101151000 +0000" channel="Nick Jr..skyde">
+<programme start="20251101145000 +0000" stop="20251101151500 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20251101151000 +0000" stop="20251101153000 +0000" channel="Nick Jr..skyde">
+<programme start="20251101151500 +0000" stop="20251101153500 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20251101153000 +0000" stop="20251101160000 +0000" channel="Nick Jr..skyde">
+<programme start="20251101153500 +0000" stop="20251101160000 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
 <programme start="20251101160000 +0000" stop="20251101162000 +0000" channel="Nick Jr..skyde">
@@ -1477,13 +1477,13 @@
 <programme start="20251101163500 +0000" stop="20251101170000 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20251101170000 +0000" stop="20251101172000 +0000" channel="Nick Jr..skyde">
+<programme start="20251101170000 +0000" stop="20251101172500 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
 </programme>
-<programme start="20251101172000 +0000" stop="20251101174500 +0000" channel="Nick Jr..skyde">
+<programme start="20251101172500 +0000" stop="20251101175000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20251101174500 +0000" stop="20251101180000 +0000" channel="Nick Jr..skyde">
+<programme start="20251101175000 +0000" stop="20251101180000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
 <programme start="20251101180000 +0000" stop="20251101182500 +0000" channel="Nick Jr..skyde">
@@ -1531,10 +1531,10 @@
 <programme start="20251101220500 +0000" stop="20251101221000 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20251101221000 +0000" stop="20251101221500 +0000" channel="Nick Jr..skyde">
+<programme start="20251101221000 +0000" stop="20251101222000 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20251101221500 +0000" stop="20251101224000 +0000" channel="Nick Jr..skyde">
+<programme start="20251101222000 +0000" stop="20251101224000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
 <programme start="20251101224000 +0000" stop="20251101230500 +0000" channel="Nick Jr..skyde">
@@ -2614,8 +2614,8 @@
 <programme start="20251101221000 +0000" stop="20251101230000 +0000" channel="Sky Showcase HD.skyde">
     <title>Tödliches Begehren</title>
 </programme>
-<programme start="20251101001500 +0000" stop="20251101004500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: 90in30: FAK - RBS, 11. Runde</title>
+<programme start="20251031230000 +0000" stop="20251101004500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Fußball: Klassiker der Woche: STU - SCR (2017/18)</title>
 </programme>
 <programme start="20251101004500 +0000" stop="20251101023000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Fußball: Klassiker der Woche: STU - SCR (2017/18)</title>
@@ -2692,32 +2692,32 @@
 <programme start="20251101153000 +0000" stop="20251101155000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: Admiral BL</title>
 </programme>
-<programme start="20251101155000 +0000" stop="20251101180000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20251101155000 +0000" stop="20251101181500 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live Admiral BL: FC Blau-Weiß Linz - LASK, 12. Runde</title>
 </programme>
 <programme start="20251101153000 +0000" stop="20251101155000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Es folgt: Admiral BL</title>
 </programme>
-<programme start="20251101155000 +0000" stop="20251101180000 +0000" channel="Sky Sport Austria 3 HD.skyde">
+<programme start="20251101155000 +0000" stop="20251101181500 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live Admiral BL: TSV Egger Glas Hartberg - FK Austria Wien, 12. Runde</title>
 </programme>
 <programme start="20251101153000 +0000" stop="20251101155000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Es folgt: Admiral BL</title>
 </programme>
-<programme start="20251101155000 +0000" stop="20251101180000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+<programme start="20251101155000 +0000" stop="20251101181500 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live Admiral BL: Grazer AK 1902 - SCR Altach, 12. Runde</title>
 </programme>
 <programme start="20251101130500 +0000" stop="20251101132500 +0000" channel="Sky Sport Austria 5 HD.skyde">
     <title>Es folgt: ATP World Tour</title>
 </programme>
 <programme start="20251101132500 +0000" stop="20251101153000 +0000" channel="Sky Sport Austria 5 HD.skyde">
-    <title>Live ATP 1000: HF1, Rolex Paris Masters in Paris (FRA), Halbfinale 1</title>
+    <title>Live ATP 1000: A. Bublik (KAZ) - F. Auger-Aliassime (CAN), Rolex Paris Masters in Paris (FRA), Halbfinale 1</title>
 </programme>
 <programme start="20251101153000 +0000" stop="20251101160000 +0000" channel="Sky Sport Austria 5 HD.skyde">
     <title>ATP: This Week</title>
 </programme>
-<programme start="20251101160000 +0000" stop="20251101180000 +0000" channel="Sky Sport Austria 5 HD.skyde">
-    <title>Live ATP 1000: HF2, Rolex Paris Masters in Paris (FRA), Halbfinale 2</title>
+<programme start="20251101160000 +0000" stop="20251101200000 +0000" channel="Sky Sport Austria 5 HD.skyde">
+    <title>Live ATP 1000: A. Zverev (GER) - J. Sinner (ITA), Rolex Paris Masters in Paris (FRA), Halbfinale 2</title>
 </programme>
 <programme start="20251101164000 +0000" stop="20251101170000 +0000" channel="Sky Sport Austria 7 HD.skyde">
     <title>Es folgt: NHL</title>
@@ -2725,7 +2725,7 @@
 <programme start="20251101170000 +0000" stop="20251101193000 +0000" channel="Sky Sport Austria 7 HD.skyde">
     <title>Live NHL: Carolina Hurricanes @ Boston Bruins</title>
 </programme>
-<programme start="20251101193000 +0000" stop="20251101223000 +0000" channel="Sky Sport Austria 7 HD.skyde">
+<programme start="20251101193000 +0000" stop="20251102003000 +0000" channel="Sky Sport Austria 7 HD.skyde">
     <title>Live NHL: Calgary Flames @ Nashville Predators</title>
 </programme>
 <programme start="20251031233000 +0000" stop="20251101013000 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -2836,7 +2836,7 @@
 <programme start="20251101141500 +0000" stop="20251101164500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: RB Leipzig - VfB Stuttgart, 9. Spieltag</title>
 </programme>
-<programme start="20251101164500 +0000" stop="20251101201500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
+<programme start="20251101164500 +0000" stop="20251101203000 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: FC Bayern München - Bayer Leverkusen, tipico Topspiel der Woche, 9. Spieltag</title>
 </programme>
 <programme start="20251101111000 +0000" stop="20251101113000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
@@ -2860,7 +2860,7 @@
 <programme start="20251101190000 +0000" stop="20251101220000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Live 2. BL: SV Darmstadt 98 - Arminia Bielefeld, tipico Topspiel der Woche, 11. Spieltag</title>
 </programme>
-<programme start="20251101220000 +0000" stop="20251101230000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+<programme start="20251101220000 +0000" stop="20251101231500 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 11. Spieltag, Samstag  komplett</title>
 </programme>
 <programme start="20251101111000 +0000" stop="20251101113000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
@@ -2887,7 +2887,7 @@
 <programme start="20251101140000 +0000" stop="20251101141500 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live BL: M05 - SVW: tipico Countdown, 9. Spieltag</title>
 </programme>
-<programme start="20251101141500 +0000" stop="20251101164500 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
+<programme start="20251101141500 +0000" stop="20251101170000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live BL: 1. FSV Mainz 05 - Werder Bremen, 9. Spieltag</title>
 </programme>
 <programme start="20251101111000 +0000" stop="20251101113000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
@@ -2899,7 +2899,7 @@
 <programme start="20251101140000 +0000" stop="20251101141500 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Live BL: FCU - SCF: tipico Countdown, 9. Spieltag</title>
 </programme>
-<programme start="20251101141500 +0000" stop="20251101164500 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
+<programme start="20251101141500 +0000" stop="20251101170000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Live BL: 1. FC Union Berlin - SC Freiburg, 9. Spieltag</title>
 </programme>
 <programme start="20251101111000 +0000" stop="20251101113000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
@@ -2908,7 +2908,7 @@
 <programme start="20251101113000 +0000" stop="20251101140000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
     <title>Live 2. BL: Multiview, 11. Spieltag, Samstag</title>
 </programme>
-<programme start="20251101140000 +0000" stop="20251101163000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
+<programme start="20251101140000 +0000" stop="20251101170000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
     <title>Live BL: Multiview, 9. Spieltag</title>
 </programme>
 <programme start="20251101111000 +0000" stop="20251101113000 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
@@ -2917,7 +2917,7 @@
 <programme start="20251101113000 +0000" stop="20251101140000 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
     <title>Live 2. BL: Samstags-Konferenz, 11. Spieltag</title>
 </programme>
-<programme start="20251101140000 +0000" stop="20251101143000 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
+<programme start="20251101140000 +0000" stop="20251101150000 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
     <title>Live 2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 11. Spieltag, Samstag</title>
 </programme>
 <programme start="20251031230000 +0000" stop="20251101000000 +0000" channel="Sky Sport F1 HD.skyde">
@@ -3304,7 +3304,7 @@
 <programme start="20251101223000 +0000" stop="20251102003000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: Brighton &amp; Hove Albion - Leeds United, 10. Spieltag</title>
 </programme>
-<programme start="20251031230000 +0000" stop="20251101010000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20251031233000 +0000" stop="20251101010000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: V. Vacherot (MON) - F. Auger-Aliassime (CAN), Rolex Paris Masters in Paris (FRA), Viertelfinale 1</title>
 </programme>
 <programme start="20251101010000 +0000" stop="20251101030000 +0000" channel="Sky Sport Tennis HD.skyde">
@@ -3313,17 +3313,17 @@
 <programme start="20251101030000 +0000" stop="20251101053000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: A. Zverev (GER) - J. Sinner (ITA), Erste Bank Open in Wien (Österreich), Finale</title>
 </programme>
-<programme start="20251101053000 +0000" stop="20251101073000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: A. Bublik (KAZ) - A. de Minaur (AUS), Rolex Paris Masters in Paris (FRA), Viertelfinale 2</title>
-</programme>
-<programme start="20251101073000 +0000" stop="20251101080000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20251101053000 +0000" stop="20251101060000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
 </programme>
-<programme start="20251101080000 +0000" stop="20251101090000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: Review Basel</title>
+<programme start="20251101060000 +0000" stop="20251101080000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>Live WTA 250: D. Salkova (CZE) - A. Blinkova, Jiangxi Open in Jiujiang (CHN), Halbfinale</title>
 </programme>
-<programme start="20251101090000 +0000" stop="20251101110000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: J. Sinner (ITA) - B. Shelton (USA), Rolex Paris Masters in Paris (FRA), Viertelfinale 3</title>
+<programme start="20251101080000 +0000" stop="20251101100000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>Live WTA 250: L. Tagger (AUT) - V. Golubic (SUI), Jiangxi Open in Jiujiang (CHN), Halbfinale</title>
+</programme>
+<programme start="20251101100000 +0000" stop="20251101110000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 500: Review Basel</title>
 </programme>
 <programme start="20251101110000 +0000" stop="20251101130000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: A. Zverev (GER) - D. Medvedev, Rolex Paris Masters in Paris (FRA), Viertelfinale 4</title>
@@ -3332,13 +3332,13 @@
     <title>Tennis: Rafael Nadal - The No. 1 Story</title>
 </programme>
 <programme start="20251101132500 +0000" stop="20251101153000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP 1000: HF1, Rolex Paris Masters in Paris (FRA), Halbfinale 1</title>
+    <title>Live ATP 1000: A. Bublik (KAZ) - F. Auger-Aliassime (CAN), Rolex Paris Masters in Paris (FRA), Halbfinale 1</title>
 </programme>
 <programme start="20251101153000 +0000" stop="20251101160000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
 </programme>
 <programme start="20251101160000 +0000" stop="20251101180000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP 1000: HF2, Rolex Paris Masters in Paris (FRA), Halbfinale 2</title>
+    <title>Live ATP 1000: A. Zverev (GER) - J. Sinner (ITA), Rolex Paris Masters in Paris (FRA), Halbfinale 2</title>
 </programme>
 <programme start="20251101180000 +0000" stop="20251101190000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live WTA Finals: A. Anisimova (USA) - E. Rybakina (KAZ), 1. Tag in Riyadh (SAU)</title>
@@ -3347,7 +3347,7 @@
     <title>Live WTA Finals: V. Kudermetova / E. Mertens (BEL) - S.-W. Hsieh (TPE) / J. Ostapenko (LAT), 1. Tag in Riyadh (SAU)</title>
 </programme>
 <programme start="20251101210000 +0000" stop="20251101230000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: HF1, Rolex Paris Masters in Paris (FRA), Halbfinale 1</title>
+    <title>ATP 1000: A. Bublik (KAZ) - F. Auger-Aliassime (CAN), Rolex Paris Masters in Paris (FRA), Halbfinale 1</title>
 </programme>
 <programme start="20251031230000 +0000" stop="20251101020000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NHL: New York Islanders @ Washington Capitals</title>
@@ -3382,10 +3382,10 @@
 <programme start="20251101213000 +0000" stop="20251101233000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Sacramento Kings @ Milwaukee Bucks</title>
 </programme>
-<programme start="20251101202500 +0000" stop="20251101204500 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20251101204000 +0000" stop="20251101204500 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: Basketball NBA</title>
 </programme>
-<programme start="20251101204500 +0000" stop="20251101233000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20251101204500 +0000" stop="20251102010000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Sacramento Kings @ Milwaukee Bucks</title>
 </programme>
 <programme start="20251101121000 +0000" stop="20251101123000 +0000" channel="Sky Sport 8 HD.skyde">
