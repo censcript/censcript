@@ -7744,7 +7744,7 @@
     <programme start="20251031213000 +0000" stop="20251031233000 +0000" channel="Asianet Movies.starhub">
         <title>Aayushmanbhava</title>
     </programme>
-    <programme start="20251031233000 +0000" stop="20251101013000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251031231000 +0000" stop="20251101013000 +0000" channel="Asianet Movies.starhub">
         <title>Alexander the Great</title>
     </programme>
     <programme start="20251101013000 +0000" stop="20251101043000 +0000" channel="Asianet Movies.starhub">
