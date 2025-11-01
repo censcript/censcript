@@ -74,9 +74,9 @@
     <title>Sportshow (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251102033000 +0700" stop="20251102053000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Vitoria Guimaraes - SL Benfica (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20251103063000 +0700" stop="20251103090000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Sportshow</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251102053000 +0700" stop="20251102074500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Volos - Panathinaikos</title>
@@ -136,6 +136,10 @@
 </programme>
 <programme start="20251103044500 +0700" stop="20251103064500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: AEK - Panetolikos</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251103064500 +0700" stop="20251103071500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Sports Classics: Football&#039;s Greatest IV E4</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251102044500 +0700" stop="20251102064500 +0700" channel="COSMOTE Sport 3 HD">
@@ -270,8 +274,8 @@
     <title>Basketball: Oklahoma City Thunder - New Orleans Pelicans (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251102045500 +0700" stop="20251102060000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>2025 Extreme H</title>
+<programme start="20251103063000 +0700" stop="20251103082500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Zaragoza - Real Madrid</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251102060000 +0700" stop="20251102070500 +0700" channel="COSMOTE Sport 5 HD">
@@ -370,9 +374,9 @@
     <title>Motorsports: Extreme E 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251102030000 +0700" stop="20251102060000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Fight Sports: Oktagon 2025 (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20251103060500 +0700" stop="20251103081000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: Extreme E 2025</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251102060000 +0700" stop="20251102090000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Fight Sports: UFC Fight Night 2025 (L)</title>
@@ -436,6 +440,10 @@
 </programme>
 <programme start="20251103033000 +0700" stop="20251103063000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Fight Sports: UFC Fight Night 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251103063000 +0700" stop="20251103090000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: Felix Auger-Aliassime - Jannik Sinner</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251102050000 +0700" stop="20251102070000 +0700" channel="COSMOTE Sport 7 HD">
