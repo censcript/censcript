@@ -2875,7 +2875,7 @@
 <programme start="20251101141500 +0000" stop="20251101164500 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live BL: 1. FC Heidenheim - Eintracht Frankfurt, 9. Spieltag</title>
 </programme>
-<programme start="20251101164500 +0000" stop="20251101201500 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
+<programme start="20251101164500 +0000" stop="20251101203000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live BL: Tactical Feed: FCB - B04, 9. Spieltag</title>
 </programme>
 <programme start="20251101111000 +0000" stop="20251101113000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
@@ -3355,20 +3355,11 @@
 <programme start="20251101020000 +0000" stop="20251101063000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live LPGA: Maybank Championship, 3. Tag in Kuala Lumpur (Malaysia)</title>
 </programme>
-<programme start="20251101063000 +0000" stop="20251101070000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>NBA: On Fire</title>
+<programme start="20251101063000 +0000" stop="20251101080000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Live WTA 250: D. Salkova (CZE) - A. Blinkova, Jiangxi Open in Jiujiang (CHN), Halbfinale</title>
 </programme>
-<programme start="20251101070000 +0000" stop="20251101080000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>DFB-Pokal: Kompakt, 2. Runde</title>
-</programme>
-<programme start="20251101080000 +0000" stop="20251101090000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live Sky Sport News: Guten Morgen Fans!</title>
-</programme>
-<programme start="20251101090000 +0000" stop="20251101094500 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 11. Spieltag, Freitag</title>
-</programme>
-<programme start="20251101094500 +0000" stop="20251101100000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>BL: Highlights XXL: FCA - BVB, 9. Spieltag</title>
+<programme start="20251101080000 +0000" stop="20251101100000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Live WTA 250: L. Tagger (AUT) - V. Golubic (SUI), Jiangxi Open in Jiujiang (CHN), Halbfinale</title>
 </programme>
 <programme start="20251101100000 +0000" stop="20251101113000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live Sky Sport News: Guten Morgen Fans!</title>
@@ -3412,7 +3403,7 @@
 <programme start="20251101170000 +0000" stop="20251101190000 +0000" channel="Sky Sport 8 HD.skyde">
     <title>Live WTA Finals: A. Anisimova (USA) - E. Rybakina (KAZ), 1. Tag in Riyadh (SAU)</title>
 </programme>
-<programme start="20251101190000 +0000" stop="20251101210000 +0000" channel="Sky Sport 8 HD.skyde">
+<programme start="20251101190000 +0000" stop="20251101230000 +0000" channel="Sky Sport 8 HD.skyde">
     <title>Live WTA Finals: V. Kudermetova / E. Mertens (BEL) - S.-W. Hsieh (TPE) / J. Ostapenko (LAT), 1. Tag in Riyadh (SAU)</title>
 </programme>
 <programme start="20251031232000 +0000" stop="20251101000500 +0000" channel="SYFY HD.skyde">
