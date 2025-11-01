@@ -3382,10 +3382,10 @@
 <programme start="20251101213000 +0000" stop="20251101233000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Sacramento Kings @ Milwaukee Bucks</title>
 </programme>
-<programme start="20251101204000 +0000" stop="20251101204500 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20251101202500 +0000" stop="20251101204500 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: Basketball NBA</title>
 </programme>
-<programme start="20251101204500 +0000" stop="20251102010000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20251101204500 +0000" stop="20251101233000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Sacramento Kings @ Milwaukee Bucks</title>
 </programme>
 <programme start="20251101121000 +0000" stop="20251101123000 +0000" channel="Sky Sport 8 HD.skyde">
@@ -3403,7 +3403,7 @@
 <programme start="20251101170000 +0000" stop="20251101190000 +0000" channel="Sky Sport 8 HD.skyde">
     <title>Live WTA Finals: A. Anisimova (USA) - E. Rybakina (KAZ), 1. Tag in Riyadh (SAU)</title>
 </programme>
-<programme start="20251101190000 +0000" stop="20251101210000 +0000" channel="Sky Sport 8 HD.skyde">
+<programme start="20251101190000 +0000" stop="20251101230000 +0000" channel="Sky Sport 8 HD.skyde">
     <title>Live WTA Finals: V. Kudermetova / E. Mertens (BEL) - S.-W. Hsieh (TPE) / J. Ostapenko (LAT), 1. Tag in Riyadh (SAU)</title>
 </programme>
 <programme start="20251031232000 +0000" stop="20251101000500 +0000" channel="SYFY HD.skyde">
