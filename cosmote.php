@@ -74,13 +74,13 @@
     <title>UEL &amp; UECL Magazine 2025-26 E4</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251101205500 +0700" stop="20251101212500 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Sports Classics: Football&#039;s Greatest IV E4</title>
-    <desc>Live: Tidak</desc>
+<programme start="20251102220000 +0700" stop="20251102223000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>PreGame Show (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
-<programme start="20251101212500 +0700" stop="20251101220000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Sports Classics: Football&#039;s Greatest IV E5</title>
-    <desc>Live: Tidak</desc>
+<programme start="20251102223000 +0700" stop="20251103003500 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: AEL Novibet - Levadiakos (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20251101220000 +0700" stop="20251101230000 +0700" channel="COSMOTE Sport 2 HD">
     <title>PreGame Show (L)</title>
@@ -146,10 +146,6 @@
     <title>Football: ACF Fiorentina - Lecce (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251101193000 +0700" stop="20251101213000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Leicester City FC - Blackburn Rovers (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
 <programme start="20251101213000 +0700" stop="20251101233000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Luton Town - Forest Green Rovers</title>
     <desc>Live: Tidak</desc>
@@ -209,14 +205,6 @@
 <programme start="20251102210000 +0700" stop="20251102230000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Celtic FC - Rangers FC (L)</title>
     <desc>Live: Ya</desc>
-</programme>
-<programme start="20251101191000 +0700" stop="20251101212000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Mersin MSK - Karditsa</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251101212000 +0700" stop="20251101214000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>ACB Liga Endesa 2025-26 - Fifth Quarter E4</title>
-    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251101214000 +0700" stop="20251101221500 +0700" channel="COSMOTE Sport 4 HD">
     <title>NBA Action 2025-26 E3502</title>
@@ -284,10 +272,6 @@
 </programme>
 <programme start="20251102213500 +0700" stop="20251103000000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Milwaukee Bucks - Sacramento Kings</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251101210000 +0700" stop="20251101220000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>2025 GT World Challenge Europe</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251101220000 +0700" stop="20251102000000 +0700" channel="COSMOTE Sport 5 HD">
@@ -446,14 +430,6 @@
     <title>Tennis: ATP Masters 1000 2025 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251101193000 +0700" stop="20251101213000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>Basketball: Turk Telekom - Galatasaray (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20251101213000 +0700" stop="20251101220000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251101220000 +0700" stop="20251101230000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
@@ -518,9 +494,9 @@
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251101210000 +0700" stop="20251101213000 +0700" channel="COSMOTE Sport 8 HD">
-    <title>COSMOTESport8HD</title>
-    <desc>Live: Tidak</desc>
+<programme start="20251102220000 +0700" stop="20251103000000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>Basketball: Mersin MSK - Fenerbahce (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20251101213000 +0700" stop="20251101233000 +0700" channel="COSMOTE Sport 8 HD">
     <title>Premier Padel Tour 2025 (L)</title>
