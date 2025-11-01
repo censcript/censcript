@@ -1672,41 +1672,41 @@
 <programme start="20251101222000 +0000" stop="20251101232000 +0000" channel="Sky Atlantic HD.skyde">
     <title>C. B. Strike</title>
 </programme>
-<programme start="20251111004500 +0000" stop="20251111022000 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>A Quiet Place</title>
+<programme start="20251101003000 +0000" stop="20251101021500 +0000" channel="Sky Cinema Action HD.skyde">
+    <title>Weekend in Taipei</title>
 </programme>
-<programme start="20251111022000 +0000" stop="20251111040500 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>The Great Wall</title>
+<programme start="20251101021500 +0000" stop="20251101041000 +0000" channel="Sky Cinema Action HD.skyde">
+    <title>Memory - Sein letzter Auftrag</title>
 </programme>
-<programme start="20251111040500 +0000" stop="20251111065000 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>Watchmen - Die Wächter</title>
+<programme start="20251101041000 +0000" stop="20251101054500 +0000" channel="Sky Cinema Action HD.skyde">
+    <title>Unhinged - Außer Kontrolle</title>
 </programme>
-<programme start="20251111065000 +0000" stop="20251111085500 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>Collateral</title>
+<programme start="20251101054500 +0000" stop="20251101073500 +0000" channel="Sky Cinema Action HD.skyde">
+    <title>10.000 BC</title>
 </programme>
-<programme start="20251111085500 +0000" stop="20251111104000 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>Friedhof der Kuscheltiere</title>
+<programme start="20251101073500 +0000" stop="20251101093000 +0000" channel="Sky Cinema Action HD.skyde">
+    <title>Das Bourne Ultimatum</title>
 </programme>
-<programme start="20251111104000 +0000" stop="20251111123000 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>The Last Witch Hunter</title>
+<programme start="20251101093000 +0000" stop="20251101112500 +0000" channel="Sky Cinema Action HD.skyde">
+    <title>Der Adler der neunten Legion</title>
 </programme>
-<programme start="20251111123000 +0000" stop="20251111140500 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>Horizon Line</title>
+<programme start="20251101112500 +0000" stop="20251101133000 +0000" channel="Sky Cinema Action HD.skyde">
+    <title>Deep Impact</title>
 </programme>
-<programme start="20251111140500 +0000" stop="20251111153500 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>From Dusk Till Dawn 2: Texas Blood Money</title>
+<programme start="20251101133000 +0000" stop="20251101150000 +0000" channel="Sky Cinema Action HD.skyde">
+    <title>Control</title>
 </programme>
-<programme start="20251111153500 +0000" stop="20251111173000 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>Conjuring - Die Heimsuchung</title>
+<programme start="20251101150000 +0000" stop="20251101171000 +0000" channel="Sky Cinema Action HD.skyde">
+    <title>Pain &amp; Gain</title>
 </programme>
-<programme start="20251111173000 +0000" stop="20251111191500 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>Friedhof der Kuscheltiere 2</title>
+<programme start="20251101171000 +0000" stop="20251101191500 +0000" channel="Sky Cinema Action HD.skyde">
+    <title>Die Mumie</title>
 </programme>
-<programme start="20251111191500 +0000" stop="20251111214500 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>Mission: Impossible - Fallout</title>
+<programme start="20251101191500 +0000" stop="20251101213000 +0000" channel="Sky Cinema Action HD.skyde">
+    <title>Das Bourne Vermächtnis</title>
 </programme>
-<programme start="20251111214500 +0000" stop="20251111233500 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>Colombiana</title>
+<programme start="20251101213000 +0000" stop="20251101234000 +0000" channel="Sky Cinema Action HD.skyde">
+    <title>Shooter</title>
 </programme>
 <programme start="20251031231500 +0000" stop="20251101011500 +0000" channel="Sky Cinema Classics HD.skyde">
     <title>Mein Leben ist der Rhythmus</title>
