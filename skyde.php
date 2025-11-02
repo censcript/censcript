@@ -2514,23 +2514,23 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251102130000 +0000" stop="20251102132000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: Admiral BL</title>
 </programme>
-<programme start="20251102132000 +0000" stop="20251102154500 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20251102132000 +0000" stop="20251102160000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live Admiral BL: FC Red Bull Salzburg - SV Oberbank Ried, 12. Runde</title>
 </programme>
 <programme start="20251102130000 +0000" stop="20251102132000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Es folgt: Admiral BL</title>
 </programme>
-<programme start="20251102132000 +0000" stop="20251102154500 +0000" channel="Sky Sport Austria 3 HD.skyde">
+<programme start="20251102132000 +0000" stop="20251102160000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live Admiral BL: RZ Pellets WAC - WSG Tirol, 12. Runde</title>
 </programme>
 <programme start="20251102111000 +0000" stop="20251102113000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Es folgt: ATP World Tour</title>
 </programme>
 <programme start="20251102113000 +0000" stop="20251102135000 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Live ATP 1000: Doppelfinale, Rolex Paris Masters in Paris (FRA), Doppelfinale</title>
+    <title>Live ATP 1000: H. Heliovaara (FIN) / H. Patten (GBR) - J. Cash (GBR) / L. Glasspool (GBR), Rolex Paris Masters in Paris (FRA), Doppelfinale</title>
 </programme>
-<programme start="20251102135000 +0000" stop="20251102163000 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Live ATP 1000: Finale, Rolex Paris Masters in Paris (FRA), Finale</title>
+<programme start="20251102135000 +0000" stop="20251102183000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+    <title>Live ATP 1000: J. Sinner (ITA) - F. Auger-Aliassime (CAN), Rolex Paris Masters in Paris (FRA), Finale</title>
 </programme>
 <programme start="20251102133000 +0000" stop="20251102135000 +0000" channel="Sky Sport Austria 5 HD.skyde">
     <title>Es folgt: Premier League</title>
@@ -2661,34 +2661,34 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251102170000 +0000" stop="20251102183000 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: Sky90 - Die Fußballdebatte</title>
 </programme>
-<programme start="20251102183000 +0000" stop="20251102191500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
+<programme start="20251102183000 +0000" stop="20251102193000 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: Highlights XXL: WOB - TSG, 9. Spieltag</title>
 </programme>
 <programme start="20251102114000 +0000" stop="20251102120000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Es folgt: 2. BL</title>
 </programme>
-<programme start="20251102120000 +0000" stop="20251102143000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+<programme start="20251102120000 +0000" stop="20251102144500 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Live 2. BL: Fortuna Düsseldorf - 1. FC Kaiserslautern, 11. Spieltag</title>
 </programme>
-<programme start="20251102161000 +0000" stop="20251102163000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+<programme start="20251102144500 +0000" stop="20251102163000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Es folgt: Bundesliga</title>
 </programme>
 <programme start="20251102163000 +0000" stop="20251102183000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>BL: 1. FC Köln - Hamburger SV, 9. Spieltag</title>
 </programme>
-<programme start="20251102183000 +0000" stop="20251102203000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+<programme start="20251102183000 +0000" stop="20251102204500 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>BL: VfL Wolfsburg - TSG Hoffenheim, 9. Spieltag</title>
 </programme>
 <programme start="20251102114000 +0000" stop="20251102120000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Es folgt: 2. BL</title>
 </programme>
-<programme start="20251102120000 +0000" stop="20251102143000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
+<programme start="20251102120000 +0000" stop="20251102144500 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live 2. BL: VfL Bochum - 1. FC Magdeburg, 11. Spieltag</title>
 </programme>
 <programme start="20251102114000 +0000" stop="20251102120000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Es folgt: 2. BL</title>
 </programme>
-<programme start="20251102120000 +0000" stop="20251102143000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
+<programme start="20251102120000 +0000" stop="20251102144500 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live 2. BL: SC Paderborn 07 - SpVgg Greuther Fürth, 11. Spieltag</title>
 </programme>
 <programme start="20251102114000 +0000" stop="20251102120000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
@@ -2994,32 +2994,35 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251102223000 +0000" stop="20251102230000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: PL Stories (Petr Cech)</title>
 </programme>
-<programme start="20251101230000 +0000" stop="20251102010000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: A. Zverev (GER) - J. Sinner (ITA), Rolex Paris Masters in Paris (FRA), Halbfinale 2</title>
-</programme>
-<programme start="20251102010000 +0000" stop="20251102013000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20251101232000 +0000" stop="20251101234500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
 </programme>
-<programme start="20251102013000 +0000" stop="20251102033000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20251101234500 +0000" stop="20251102013500 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 1000: A. Bublik (KAZ) - F. Auger-Aliassime (CAN), Rolex Paris Masters in Paris (FRA), Halbfinale 1</title>
+</programme>
+<programme start="20251102013500 +0000" stop="20251102030500 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 1000: A. Zverev (GER) - J. Sinner (ITA), Rolex Paris Masters in Paris (FRA), Halbfinale 2</title>
+</programme>
+<programme start="20251102030500 +0000" stop="20251102045000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA Finals: S. Errani (ITA) / J. Paolini (ITA) - A. Muhammad (USA) / D. Schuurs (NED), 1. Tag in Riyadh (SAU)</title>
 </programme>
-<programme start="20251102033000 +0000" stop="20251102053000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20251102045000 +0000" stop="20251102061000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA Finals: I. Swiatek (POL) - M. Keys (USA), 1. Tag in Riyadh (SAU)</title>
 </programme>
-<programme start="20251102053000 +0000" stop="20251102073000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20251102061000 +0000" stop="20251102073000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA Finals: A. Anisimova (USA) - E. Rybakina (KAZ), 1. Tag in Riyadh (SAU)</title>
 </programme>
 <programme start="20251102073000 +0000" stop="20251102093000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: A. Bublik (KAZ) - F. Auger-Aliassime (CAN), Rolex Paris Masters in Paris (FRA), Halbfinale 1</title>
+    <title>Live WTA 250: L. Tagger (AUT) - A. Blinkova, Jiangxi Open in Jiujiang (CHN), Finale</title>
 </programme>
 <programme start="20251102093000 +0000" stop="20251102113000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: A. Zverev (GER) - J. Sinner (ITA), Rolex Paris Masters in Paris (FRA), Halbfinale 2</title>
 </programme>
 <programme start="20251102113000 +0000" stop="20251102135000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP 1000: Doppelfinale, Rolex Paris Masters in Paris (FRA), Doppelfinale</title>
+    <title>Live ATP 1000: H. Heliovaara (FIN) / H. Patten (GBR) - J. Cash (GBR) / L. Glasspool (GBR), Rolex Paris Masters in Paris (FRA), Doppelfinale</title>
 </programme>
 <programme start="20251102135000 +0000" stop="20251102163000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP 1000: Finale, Rolex Paris Masters in Paris (FRA), Finale</title>
+    <title>Live ATP 1000: J. Sinner (ITA) - F. Auger-Aliassime (CAN), Rolex Paris Masters in Paris (FRA), Finale</title>
 </programme>
 <programme start="20251102163000 +0000" stop="20251102180000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live WTA Finals: C. Gauff (USA) - J. Pegula (USA), 2. Tag in Riyadh (SAU)</title>
@@ -3028,12 +3031,12 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Live WTA Finals: K. Siniakova (CZE) / T. Townsend (USA) - T. Babos (HUN) / L. Stefani (BRA), 2. Tag in Riyadh (SAU)</title>
 </programme>
 <programme start="20251102200000 +0000" stop="20251102223000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: Finale, Rolex Paris Masters in Paris (FRA), Finale</title>
+    <title>ATP 1000: J. Sinner (ITA) - F. Auger-Aliassime (CAN), Rolex Paris Masters in Paris (FRA), Finale</title>
 </programme>
 <programme start="20251102223000 +0000" stop="20251103010000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: Doppelfinale, Rolex Paris Masters in Paris (FRA), Doppelfinale</title>
+    <title>ATP 1000: H. Heliovaara (FIN) / H. Patten (GBR) - J. Cash (GBR) / L. Glasspool (GBR), Rolex Paris Masters in Paris (FRA), Doppelfinale</title>
 </programme>
-<programme start="20251101233000 +0000" stop="20251102020000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20251101235500 +0000" stop="20251102020000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NHL: St. Louis Blues @ Columbus Blue Jackets</title>
 </programme>
 <programme start="20251102020000 +0000" stop="20251102043000 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3058,7 +3061,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Live 2. BL: Sonntags-Konferenz, 11. Spieltag</title>
 </programme>
 <programme start="20251102143000 +0000" stop="20251102163000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live ATP 1000: Finale, Rolex Paris Masters in Paris (FRA), Finale</title>
+    <title>Live ATP 1000: J. Sinner (ITA) - F. Auger-Aliassime (CAN), Rolex Paris Masters in Paris (FRA), Finale</title>
 </programme>
 <programme start="20251102163000 +0000" stop="20251102183000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live PL: Manchester City - AFC Bournemouth, Match of the Week, 10. Spieltag</title>
@@ -3105,8 +3108,8 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251102223000 +0000" stop="20251102230000 +0000" channel="Sky Sport UHD.skyde">
     <title>Golf: Greatest Holes (6)</title>
 </programme>
-<programme start="20251102010000 +0000" stop="20251102020000 +0000" channel="Sky Sport 1 HD.skyde">
-    <title>Es folgt: Basketball NBA</title>
+<programme start="20251102000000 +0000" stop="20251102020000 +0000" channel="Sky Sport 1 HD.skyde">
+    <title>Es folgt: ab 03:00: LIVE Basketball NBA</title>
 </programme>
 <programme start="20251102020000 +0000" stop="20251102090000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Dallas Mavericks @ Detroit Pistons, NBA Mexico City Game</title>

@@ -66,10 +66,6 @@
     <title>Football: SC Braga - FK Crvena Zvezda</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251102074500 +0700" stop="20251102100000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Olympiacos - Aris</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251102100000 +0700" stop="20251102120000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Udinese - Atalanta</title>
     <desc>Live: Tidak</desc>
@@ -136,6 +132,10 @@
 </programme>
 <programme start="20251103094500 +0700" stop="20251103100000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Sports Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251103100000 +0700" stop="20251103120000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Parma - Bologna</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251102090000 +0700" stop="20251102110000 +0700" channel="COSMOTE Sport 3 HD">
@@ -278,18 +278,6 @@
     <title>Basketball: Bon Reggio Emilia - Armani Milano</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251102070500 +0700" stop="20251102091000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>2025 Extreme H</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251102091000 +0700" stop="20251102093000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Sports Highlights</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251102093000 +0700" stop="20251102100000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC Magazine 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251102100000 +0700" stop="20251102110000 +0700" channel="COSMOTE Sport 5 HD">
     <title>WRC</title>
     <desc>Live: Tidak</desc>
@@ -382,8 +370,8 @@
     <title>2025 FIM Women&#039;s Circuit Racing World Championship</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251102090000 +0700" stop="20251102100000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>ATP 500 2025 - Highlights</title>
+<programme start="20251103100500 +0700" stop="20251103110000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>2025 FIM Women&#039;s Circuit Racing World Championship</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251102100000 +0700" stop="20251102110000 +0700" channel="COSMOTE Sport 6 HD">
