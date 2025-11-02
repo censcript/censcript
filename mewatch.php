@@ -811,10 +811,10 @@
     <programme start="20251102090000 +0000" stop="20251102110000 +0000" channel="Live 5.mewatch">
         <title>Singlife Nations Cup 2025: Papua New Guinea vs Malaysia</title>
     </programme>
-    <programme start="20251102110000 +0000" stop="20251102130000 +0000" channel="Live 5.mewatch">
+    <programme start="20251102110000 +0000" stop="20251102123000 +0000" channel="Live 5.mewatch">
         <title>Singlife Nations Cup 2025: Kenya vs Singapore A</title>
     </programme>
-    <programme start="20251102130000 +0000" stop="20251102160000 +0000" channel="Live 5.mewatch">
+    <programme start="20251102123000 +0000" stop="20251102160000 +0000" channel="Live 5.mewatch">
         <title>No Programme available now. Next Broadcast on 3rd November, Monday 3.00pm. Singlife Nations Cup 2025</title>
     </programme>
     <programme start="20251102160000 +0000" stop="20251103070000 +0000" channel="Live 5.mewatch">
