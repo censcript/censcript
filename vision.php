@@ -667,9 +667,6 @@
 <programme start="20251102093000 +0000" stop="20251102110000 +0000" channel="ANTV.vision">
 <title>ANTV Seru</title>
 </programme>
-<programme start="20251102150000 +0000" stop="20251102170000 +0000" channel="ANTV.vision">
-<title>The Magnificent Scoundrels</title>
-</programme>
 <programme start="20251102170000 +0000" stop="20251102183000 +0000" channel="ANTV.vision">
 <title>Magnificent Warriors</title>
 </programme>
@@ -1496,5 +1493,8 @@
 <title>BTV</title>
 </programme>
 <programme start="20251103050000 +0000" stop="20251103060000 +0000" channel="BTV.vision">
+<title>BTV</title>
+</programme>
+<programme start="20251103060000 +0000" stop="20251103063000 +0000" channel="BTV.vision">
 <title>BTV</title>
 </programme>
