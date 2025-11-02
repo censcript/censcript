@@ -54,6 +54,10 @@
     <title>Football: Feyenoord - Panathinaikos</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251104064500 +0700" stop="20251104084500 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: FC Bayern Munchen - Club Brugge</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251103044500 +0700" stop="20251103064500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: AEK - Panetolikos</title>
     <desc>Live: Tidak</desc>
@@ -114,9 +118,9 @@
     <title>Football: Olympiacos - Aris</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251103033000 +0700" stop="20251103053000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: FC Porto - SC Braga (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20251104065000 +0700" stop="20251104072000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Sports Classics: Sporting Countdowns</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251103053000 +0700" stop="20251103074000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: AEL Novibet - Levadiakos</title>
@@ -328,6 +332,10 @@
 </programme>
 <programme start="20251104052500 +0700" stop="20251104064500 +0700" channel="COSMOTE Sport 5 HD">
     <title>Grand Prix Show 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251104064500 +0700" stop="20251104070000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Sports Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251103033000 +0700" stop="20251103063000 +0700" channel="COSMOTE Sport 6 HD">

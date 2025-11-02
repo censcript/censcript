@@ -4309,13 +4309,13 @@
   <programme start="20251103230000 +0000" stop="20251103234500 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Vraždy v Kitzbühelu VII (10)</title>
   </programme>
-  <programme start="20251103234500 +0000" stop="20251104003000 +0000" channel="Prima Krimi SK.webtv.sk">
+  <programme start="20251103234500 +0000" stop="20251104002500 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Vraždy v Kitzbühelu VII (11)</title>
   </programme>
-  <programme start="20251104003000 +0000" stop="20251104025000 +0000" channel="Prima Krimi SK.webtv.sk">
+  <programme start="20251104002500 +0000" stop="20251104025300 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Noční dobrodružství</title>
   </programme>
-  <programme start="20251104025000 +0000" stop="20251104050000 +0000" channel="Prima Krimi SK.webtv.sk">
+  <programme start="20251104025300 +0000" stop="20251104050000 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Vysielacia prestávka</title>
   </programme>
   <programme start="20251104050000 +0000" stop="20251104082500 +0000" channel="Prima Krimi SK.webtv.sk">
