@@ -9292,7 +9292,87 @@
 <programme start="20251102155500 +0000" stop="20251102162500 +0000" channel="tvN Movies HD.mncvision">
     <title>A Millionaire&#039;s First Love</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20251101170000 +0000" stop="20251101173000 +0000" channel="tvOne.mncvision">
+    <title>Kabar Hari Ini</title>
+</programme>
+<programme start="20251101173000 +0000" stop="20251101190000 +0000" channel="tvOne.mncvision">
+    <title>Kabar Petang</title>
+</programme>
+<programme start="20251101190000 +0000" stop="20251101200000 +0000" channel="tvOne.mncvision">
+    <title>Apa Kabar Indonesia Malam</title>
+</programme>
+<programme start="20251101200000 +0000" stop="20251101203000 +0000" channel="tvOne.mncvision">
+    <title>Kabar Utama</title>
+</programme>
+<programme start="20251101203000 +0000" stop="20251101210000 +0000" channel="tvOne.mncvision">
+    <title>Kabar Hari Ini</title>
+</programme>
+<programme start="20251101210000 +0000" stop="20251101213000 +0000" channel="tvOne.mncvision">
+    <title>Kabar Arena Pagi</title>
+</programme>
+<programme start="20251101213000 +0000" stop="20251101230000 +0000" channel="tvOne.mncvision">
+    <title>Kabar Pagi (L)</title>
+</programme>
+<programme start="20251101230000 +0000" stop="20251101233000 +0000" channel="tvOne.mncvision">
+    <title>Kabar Arena Pagi (L)</title>
+</programme>
+<programme start="20251101233000 +0000" stop="20251102010000 +0000" channel="tvOne.mncvision">
+    <title>Apa Kabar Indonesia Pagi (L)</title>
+</programme>
+<programme start="20251102010000 +0000" stop="20251102013000 +0000" channel="tvOne.mncvision">
+    <title>Inspirasi Pagi</title>
+</programme>
+<programme start="20251102013000 +0000" stop="20251102020000 +0000" channel="tvOne.mncvision">
+    <title>Oase Indonesia</title>
+</programme>
+<programme start="20251102020000 +0000" stop="20251102023000 +0000" channel="tvOne.mncvision">
+    <title>Satria Biru</title>
+</programme>
+<programme start="20251102023000 +0000" stop="20251102030000 +0000" channel="tvOne.mncvision">
+    <title>Xpose</title>
+</programme>
+<programme start="20251102030000 +0000" stop="20251102033000 +0000" channel="tvOne.mncvision">
+    <title>Dunia Dalam Kamera</title>
+</programme>
+<programme start="20251102033000 +0000" stop="20251102040000 +0000" channel="tvOne.mncvision">
+    <title>Indonesia Plus</title>
+</programme>
+<programme start="20251102040000 +0000" stop="20251102053000 +0000" channel="tvOne.mncvision">
+    <title>Kabar Siang (L)</title>
+</programme>
+<programme start="20251102053000 +0000" stop="20251102070000 +0000" channel="tvOne.mncvision">
+    <title>Damai Indonesiaku (L)</title>
+</programme>
+<programme start="20251102070000 +0000" stop="20251102073000 +0000" channel="tvOne.mncvision">
+    <title>Selalu Ada Hikmah</title>
+</programme>
+<programme start="20251102073000 +0000" stop="20251102080000 +0000" channel="tvOne.mncvision">
+    <title>Dunia Kita Dan Anak</title>
+</programme>
+<programme start="20251102080000 +0000" stop="20251102090000 +0000" channel="tvOne.mncvision">
+    <title>Apa Kabar Indonesia... (L)</title>
+</programme>
+<programme start="20251102090000 +0000" stop="20251102110000 +0000" channel="tvOne.mncvision">
+    <title>Kabar Petang (L)</title>
+</programme>
+<programme start="20251102110000 +0000" stop="20251102130000 +0000" channel="tvOne.mncvision">
+    <title>Apa Kabar Indonesia Malam (L)</title>
+</programme>
+<programme start="20251102130000 +0000" stop="20251102140000 +0000" channel="tvOne.mncvision">
+    <title>Kabar Utama (L)</title>
+</programme>
+<programme start="20251102140000 +0000" stop="20251102150000 +0000" channel="tvOne.mncvision">
+    <title>Kabar Hari Ini (L)</title>
+</programme>
+<programme start="20251102150000 +0000" stop="20251102153000 +0000" channel="tvOne.mncvision">
+    <title>Distrik</title>
+</programme>
+<programme start="20251102153000 +0000" stop="20251102163000 +0000" channel="tvOne.mncvision">
+    <title>Benang Merah</title>
+</programme>
+<programme start="20251102163000 +0000" stop="20251101170000 +0000" channel="tvOne.mncvision">
+    <title>Sport Style</title>
+</programme>
 <programme start="20251101170000 +0000" stop="20251101173000 +0000" channel="TVRI.mncvision">
     <title>TVRI</title>
 </programme>
