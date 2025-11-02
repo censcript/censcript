@@ -1,11 +1,3 @@
-<programme start="20251102153000 +0700" stop="20251102173000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: AEK - Aberdeen</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251102173000 +0700" stop="20251102180000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Game R1 S6 E10</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251102180000 +0700" stop="20251102183000 +0700" channel="COSMOTE Sport 1 HD">
     <title>UEFA Champions League Magazine 2025-26 E9</title>
     <desc>Live: Tidak</desc>
@@ -132,6 +124,10 @@
 </programme>
 <programme start="20251103161000 +0700" stop="20251103181000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Parma - Bologna</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251103181000 +0700" stop="20251103202000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Volos - Panathinaikos</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251102170000 +0700" stop="20251102190000 +0700" channel="COSMOTE Sport 3 HD">
@@ -374,8 +370,8 @@
     <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251102162000 +0700" stop="20251102173500 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: Daniil Medvedev - Alexander Zverev</title>
+<programme start="20251103185500 +0700" stop="20251103194000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251102173500 +0700" stop="20251102183000 +0700" channel="COSMOTE Sport 6 HD">

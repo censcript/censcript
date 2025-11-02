@@ -823,10 +823,10 @@
     <programme start="20251101160000 +0000" stop="20251102082000 +0000" channel="Live 6.mewatch">
         <title>No Programme available now. Next Broadcast on 2nd November, Sunday 4.20pm. Tour de France EFGH Singapore Criterium 2025</title>
     </programme>
-    <programme start="20251102082000 +0000" stop="20251102110000 +0000" channel="Live 6.mewatch">
+    <programme start="20251102082000 +0000" stop="20251102103000 +0000" channel="Live 6.mewatch">
         <title>Tour de France EFGH Singapore Criterium 2025</title>
     </programme>
-    <programme start="20251102110000 +0000" stop="20251102160000 +0000" channel="Live 6.mewatch">
+    <programme start="20251102103000 +0000" stop="20251102160000 +0000" channel="Live 6.mewatch">
         <title>No Programme available now. Next Broadcast on 6th November, Thursday 5.50pm. AFC Champions League Two 2025/26</title>
     </programme>
     <programme start="20251102160000 +0000" stop="20251103160000 +0000" channel="Live 6.mewatch">
