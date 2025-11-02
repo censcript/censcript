@@ -7513,10 +7513,10 @@
     <programme start="20251101231500 +0000" stop="20251102013000 +0000" channel="Asianet Movies.starhub">
         <title>Calcutta News</title>
     </programme>
-    <programme start="20251102013000 +0000" stop="20251102043000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251102013000 +0000" stop="20251102043500 +0000" channel="Asianet Movies.starhub">
         <title>Chandrolsavam</title>
     </programme>
-    <programme start="20251102043000 +0000" stop="20251102073000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251102043500 +0000" stop="20251102073000 +0000" channel="Asianet Movies.starhub">
         <title>Pulival Kalyanam</title>
     </programme>
     <programme start="20251102073000 +0000" stop="20251102103000 +0000" channel="Asianet Movies.starhub">
@@ -7525,7 +7525,7 @@
     <programme start="20251102103000 +0000" stop="20251102133000 +0000" channel="Asianet Movies.starhub">
         <title>Balram vs. Tharadas</title>
     </programme>
-    <programme start="20251102133000 +0000" stop="20251102163000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251102133000 +0000" stop="20251102162000 +0000" channel="Asianet Movies.starhub">
         <title>Padakkalam</title>
     </programme>
     <programme start="20251101153000 +0000" stop="20251101163000 +0000" channel="Astro Warna HD.starhub">

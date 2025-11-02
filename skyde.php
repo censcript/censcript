@@ -2514,23 +2514,23 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251102130000 +0000" stop="20251102132000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: Admiral BL</title>
 </programme>
-<programme start="20251102132000 +0000" stop="20251102160000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20251102132000 +0000" stop="20251102154500 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live Admiral BL: FC Red Bull Salzburg - SV Oberbank Ried, 12. Runde</title>
 </programme>
 <programme start="20251102130000 +0000" stop="20251102132000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Es folgt: Admiral BL</title>
 </programme>
-<programme start="20251102132000 +0000" stop="20251102160000 +0000" channel="Sky Sport Austria 3 HD.skyde">
+<programme start="20251102132000 +0000" stop="20251102154500 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live Admiral BL: RZ Pellets WAC - WSG Tirol, 12. Runde</title>
 </programme>
 <programme start="20251102111000 +0000" stop="20251102113000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Es folgt: ATP World Tour</title>
 </programme>
 <programme start="20251102113000 +0000" stop="20251102135000 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Live ATP 1000: H. Heliovaara (FIN) / H. Patten (GBR) - J. Cash (GBR) / L. Glasspool (GBR), Rolex Paris Masters in Paris (FRA), Doppelfinale</title>
+    <title>Live ATP 1000: Doppelfinale, Rolex Paris Masters in Paris (FRA), Doppelfinale</title>
 </programme>
-<programme start="20251102135000 +0000" stop="20251102183000 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Live ATP 1000: J. Sinner (ITA) - F. Auger-Aliassime (CAN), Rolex Paris Masters in Paris (FRA), Finale</title>
+<programme start="20251102135000 +0000" stop="20251102163000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+    <title>Live ATP 1000: Finale, Rolex Paris Masters in Paris (FRA), Finale</title>
 </programme>
 <programme start="20251102133000 +0000" stop="20251102135000 +0000" channel="Sky Sport Austria 5 HD.skyde">
     <title>Es folgt: Premier League</title>
@@ -2661,7 +2661,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251102170000 +0000" stop="20251102183000 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: Sky90 - Die Fußballdebatte</title>
 </programme>
-<programme start="20251102183000 +0000" stop="20251102193000 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
+<programme start="20251102183000 +0000" stop="20251102191500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: Highlights XXL: WOB - TSG, 9. Spieltag</title>
 </programme>
 <programme start="20251102114000 +0000" stop="20251102120000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
@@ -2694,7 +2694,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251102114000 +0000" stop="20251102120000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>2. BL: Es folgt</title>
 </programme>
-<programme start="20251102120000 +0000" stop="20251102143000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
+<programme start="20251102120000 +0000" stop="20251102144500 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Live 2. BL: Multiview, 11. Spieltag, Sonntag</title>
 </programme>
 <programme start="20251101230000 +0000" stop="20251102000000 +0000" channel="Sky Sport F1 HD.skyde">
@@ -3058,7 +3058,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Live 2. BL: Sonntags-Konferenz, 11. Spieltag</title>
 </programme>
 <programme start="20251102143000 +0000" stop="20251102163000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live ATP 1000: J. Sinner (ITA) - F. Auger-Aliassime (CAN), Rolex Paris Masters in Paris (FRA), Finale</title>
+    <title>Live ATP 1000: Finale, Rolex Paris Masters in Paris (FRA), Finale</title>
 </programme>
 <programme start="20251102163000 +0000" stop="20251102183000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live PL: Manchester City - AFC Bournemouth, Match of the Week, 10. Spieltag</title>
