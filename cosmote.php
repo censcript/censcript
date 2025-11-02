@@ -66,10 +66,6 @@
     <title>Sportshow</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251102120000 +0700" stop="20251102140000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: SSC Napoli - Como</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251102140000 +0700" stop="20251102160000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Cremonese - Juventus Football Club</title>
     <desc>Live: Tidak</desc>
@@ -136,6 +132,10 @@
 </programme>
 <programme start="20251103120000 +0700" stop="20251103141000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Volos - Panathinaikos</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251103141000 +0700" stop="20251103161000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: ACF Fiorentina - Lecce</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251102130000 +0700" stop="20251102150000 +0700" channel="COSMOTE Sport 3 HD">
@@ -216,10 +216,6 @@
 </programme>
 <programme start="20251103120000 +0700" stop="20251103151500 +0700" channel="COSMOTE Sport 3 HD">
     <title>American Football: Buffalo Bills - Kansas City Chiefs</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251102130000 +0700" stop="20251102140000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>NBA Specials: Basketball Stories</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251102140000 +0700" stop="20251102160000 +0700" channel="COSMOTE Sport 4 HD">
@@ -370,8 +366,8 @@
     <title>Motorsports: Extreme E 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251102125000 +0700" stop="20251102140000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Beach Volley: Pro Tour Elite 16 2025</title>
+<programme start="20251103141000 +0700" stop="20251103151500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>2025 Extreme H</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251102140000 +0700" stop="20251102143000 +0700" channel="COSMOTE Sport 6 HD">
