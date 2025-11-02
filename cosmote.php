@@ -1,7 +1,3 @@
-<programme start="20251103003500 +0700" stop="20251103020000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Sportshow (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
 <programme start="20251103020000 +0700" stop="20251103041000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: AEK - Panetolikos (L)</title>
     <desc>Live: Ya</desc>
@@ -50,8 +46,12 @@
     <title>Football: Real Madrid CF - Juventus Football Club</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251103000000 +0700" stop="20251103020000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Parma - Bologna (L)</title>
+<programme start="20251104020000 +0700" stop="20251104024500 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEFA Champions League Magazine 2025-26 E9</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251104024500 +0700" stop="20251104044500 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: SS Lazio - Cagliari (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20251103020000 +0700" stop="20251103024500 +0700" channel="COSMOTE Sport 2 HD">
@@ -114,9 +114,9 @@
     <title>Football: AC Milan - AS Roma</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251103000000 +0700" stop="20251103020000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Pafos FC - AEL Limassol (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20251104023000 +0700" stop="20251104044000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: AEK - Panetolikos</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251103020000 +0700" stop="20251103023000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Sports Classics: My Sporting Moment</title>
@@ -186,9 +186,13 @@
     <title>Football: Sassuolo - Genoa (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251103000000 +0700" stop="20251103020000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Bon Reggio Emilia - Armani Milano (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20251104023000 +0700" stop="20251104024500 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Sports Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251104024500 +0700" stop="20251104031500 +0700" channel="COSMOTE Sport 3 HD">
+    <title>William Hill Scottish Premiership - Highlights</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251103020000 +0700" stop="20251103023500 +0700" channel="COSMOTE Sport 4 HD">
     <title>NBA on Fire 2025-26 E1</title>
@@ -244,6 +248,10 @@
 </programme>
 <programme start="20251104003000 +0700" stop="20251104023000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Turk Telekom - Galatasaray</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251104023000 +0700" stop="20251104050000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Oklahoma City Thunder - New Orleans Pelicans</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251103010000 +0700" stop="20251103030000 +0700" channel="COSMOTE Sport 5 HD">
@@ -341,6 +349,10 @@
 <programme start="20251104013000 +0700" stop="20251104020000 +0700" channel="COSMOTE Sport 5 HD">
     <title>WRC Magazine 2025</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251104020000 +0700" stop="20251104032000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Grand Prix Show 2025 (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20251103003000 +0700" stop="20251103033000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Fight Sports: Oktagon 2025</title>
@@ -501,6 +513,10 @@
 <programme start="20251104010000 +0700" stop="20251104023000 +0700" channel="COSMOTE Sport 8 HD">
     <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251104023000 +0700" stop="20251104043000 +0700" channel="COSMOTE Sport 8 HD">
+    <title>Football: Tamworth - Leyton Orient (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20251103010000 +0700" stop="20251103042500 +0700" channel="COSMOTE Sport 9 HD">
     <title>American Football: Pittsburgh Steelers - Indianapolis Colts (L)</title>
