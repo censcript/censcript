@@ -2757,32 +2757,41 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251102220000 +0000" stop="20251102230000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Sprint - GP USA</title>
 </programme>
-<programme start="20251101230000 +0000" stop="20251102013000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Golf: Bank of Utah Championship, 4. Tag in Ivins, UT (USA)</title>
+<programme start="20251111010000 +0000" stop="20251111040000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>PGA Championship: 4. Tag in Charlotte, NC (USA)</title>
 </programme>
-<programme start="20251102013000 +0000" stop="20251102063000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Live LPGA: Maybank Championship, 4. Tag in Kuala Lumpur (Malaysia)</title>
+<programme start="20251111040000 +0000" stop="20251111043000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Golf: Greatest Holes (1)</title>
 </programme>
-<programme start="20251102063000 +0000" stop="20251102093000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>HotelPlaner Tour: Rolex Grand Final supported by The R&amp;A, 3. Tag in Alcudia (Spanien)</title>
+<programme start="20251111043000 +0000" stop="20251111050000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Golf: Greatest Holes (2)</title>
 </programme>
-<programme start="20251102093000 +0000" stop="20251102103000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>The Open: Underdogs</title>
+<programme start="20251111050000 +0000" stop="20251111073000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Golf: World Wide Technology Championship, 4. Tag in Cabo San Lucas (MEX)</title>
 </programme>
-<programme start="20251102103000 +0000" stop="20251102153000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Live HotelPlaner Tour: Rolex Grand Final supported by The R&amp;A, 4. Tag in Alcudia (Spanien)</title>
+<programme start="20251111073000 +0000" stop="20251111103000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Golf: Abu Dhabi HSBC Championship, 4. Tag in Abu Dhabi (VAE)</title>
 </programme>
-<programme start="20251102153000 +0000" stop="20251102183000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>LPGA: Maybank Championship, 4. Tag in Kuala Lumpur (Malaysia)</title>
+<programme start="20251111103000 +0000" stop="20251111130000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Golf: World Wide Technology Championship, 1. Tag in Cabo San Lucas (MEX)</title>
 </programme>
-<programme start="20251102183000 +0000" stop="20251102213000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>HotelPlaner Tour: Rolex Grand Final supported by The R&amp;A, 4. Tag in Alcudia (Spanien)</title>
+<programme start="20251111130000 +0000" stop="20251111153000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Golf: World Wide Technology Championship, 2. Tag in Cabo San Lucas (MEX)</title>
 </programme>
-<programme start="20251102213000 +0000" stop="20251102223000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>PGA Tour Champions: Highlights Simmons Bank Championship</title>
+<programme start="20251111153000 +0000" stop="20251111180000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Golf: World Wide Technology Championship, 3. Tag in Cabo San Lucas (MEX)</title>
 </programme>
-<programme start="20251102223000 +0000" stop="20251102230000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>PGA Tour Champions: Learning Center (25)</title>
+<programme start="20251111180000 +0000" stop="20251111203000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Golf: World Wide Technology Championship, 4. Tag in Cabo San Lucas (MEX)</title>
+</programme>
+<programme start="20251111203000 +0000" stop="20251111213000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Golf Ladies ET: Highlights Aramco China Championship</title>
+</programme>
+<programme start="20251111213000 +0000" stop="20251111220000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Golf: Highlights Abu Dhabi HSBC Championship</title>
+</programme>
+<programme start="20251111220000 +0000" stop="20251112010000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>LPGA: TOTO Japan Classic, Finaltag in Shiga (Japan)</title>
 </programme>
 <programme start="20251101230000 +0000" stop="20251102020000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NHL: St. Louis Blues @ Columbus Blue Jackets</title>
