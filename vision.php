@@ -658,6 +658,9 @@
 <programme start="20251102013000 +0000" stop="20251102030000 +0000" channel="ANTV.vision">
 <title>Jadi Aku Sebentar Saja</title>
 </programme>
+<programme start="20251102030000 +0000" stop="20251102063000 +0000" channel="ANTV.vision">
+<title>Chalte Chalte</title>
+</programme>
 <programme start="20251102063000 +0000" stop="20251102080000 +0000" channel="ANTV.vision">
 <title>Cinta Keluarga Pandya</title>
 </programme>
@@ -1493,8 +1496,5 @@
 <title>BTV</title>
 </programme>
 <programme start="20251103021500 +0000" stop="20251103030000 +0000" channel="BTV.vision">
-<title>BTV</title>
-</programme>
-<programme start="20251103030000 +0000" stop="20251103040000 +0000" channel="BTV.vision">
 <title>BTV</title>
 </programme>

@@ -3039,10 +3039,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251101235500 +0000" stop="20251102020000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NHL: St. Louis Blues @ Columbus Blue Jackets</title>
 </programme>
-<programme start="20251102020000 +0000" stop="20251102043000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20251102020000 +0000" stop="20251102050000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Dallas Mavericks @ Detroit Pistons, NBA Mexico City Game</title>
 </programme>
-<programme start="20251102043000 +0000" stop="20251102063000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20251102050000 +0000" stop="20251102063000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live LPGA: Maybank Championship, 4. Tag in Kuala Lumpur (Malaysia)</title>
 </programme>
 <programme start="20251102063000 +0000" stop="20251102070000 +0000" channel="Sky Sport Top Event HD.skyde">
