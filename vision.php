@@ -658,9 +658,6 @@
 <programme start="20251102013000 +0000" stop="20251102030000 +0000" channel="ANTV.vision">
 <title>Jadi Aku Sebentar Saja</title>
 </programme>
-<programme start="20251102030000 +0000" stop="20251102063000 +0000" channel="ANTV.vision">
-<title>Chalte Chalte</title>
-</programme>
 <programme start="20251102063000 +0000" stop="20251102080000 +0000" channel="ANTV.vision">
 <title>Cinta Keluarga Pandya</title>
 </programme>
@@ -669,12 +666,6 @@
 </programme>
 <programme start="20251102093000 +0000" stop="20251102110000 +0000" channel="ANTV.vision">
 <title>ANTV Seru</title>
-</programme>
-<programme start="20251102110000 +0000" stop="20251102130000 +0000" channel="ANTV.vision">
-<title>Si Buta Lawan Jaka Sembung</title>
-</programme>
-<programme start="20251102130000 +0000" stop="20251102150000 +0000" channel="ANTV.vision">
-<title>Konser A Rafiq</title>
 </programme>
 <programme start="20251102150000 +0000" stop="20251102170000 +0000" channel="ANTV.vision">
 <title>The Magnificent Scoundrels</title>
@@ -1496,5 +1487,14 @@
 <title>BTV</title>
 </programme>
 <programme start="20251103021500 +0000" stop="20251103030000 +0000" channel="BTV.vision">
+<title>BTV</title>
+</programme>
+<programme start="20251103030000 +0000" stop="20251103040000 +0000" channel="BTV.vision">
+<title>BTV</title>
+</programme>
+<programme start="20251103040000 +0000" stop="20251103050000 +0000" channel="BTV.vision">
+<title>BTV</title>
+</programme>
+<programme start="20251103050000 +0000" stop="20251103060000 +0000" channel="BTV.vision">
 <title>BTV</title>
 </programme>
