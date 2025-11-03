@@ -8230,7 +8230,7 @@
     <programme start="20251103151000 +0000" stop="20251103153500 +0000" channel="Dragon TV.starhub">
         <title>CARE ON THE WAY</title>
     </programme>
-    <programme start="20251103153500 +0000" stop="20251103163500 +0000" channel="Dragon TV.starhub">
+    <programme start="20251103153500 +0000" stop="20251103160000 +0000" channel="Dragon TV.starhub">
         <title>Overtime No More</title>
     </programme>
     <programme start="20251102160000 +0000" stop="20251102163000 +0000" channel="Travelxp HD.starhub">

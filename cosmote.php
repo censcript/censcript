@@ -1,7 +1,3 @@
-<programme start="20251103130000 +0700" stop="20251103153000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Sportshow</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251103153000 +0700" stop="20251103173000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Feyenoord - Panathinaikos</title>
     <desc>Live: Tidak</desc>
@@ -122,8 +118,8 @@
     <title>Football: Torino - Pisa</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251103120000 +0700" stop="20251103151500 +0700" channel="COSMOTE Sport 3 HD">
-    <title>American Football: Buffalo Bills - Kansas City Chiefs</title>
+<programme start="20251104161500 +0700" stop="20251104181500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Sassuolo - Genoa</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251103151500 +0700" stop="20251103171500 +0700" channel="COSMOTE Sport 3 HD">
@@ -182,6 +178,10 @@
     <title>Football: Rio Ave - Estoril</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251104161500 +0700" stop="20251104181500 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Motherwell - St. Mirren</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251103150000 +0700" stop="20251103170000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Bon Reggio Emilia - Armani Milano</title>
     <desc>Live: Tidak</desc>
@@ -232,10 +232,6 @@
 </programme>
 <programme start="20251104150000 +0700" stop="20251104170000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Trentino - Virtus Bologna</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251103141000 +0700" stop="20251103151500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>2025 Extreme H</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251103151500 +0700" stop="20251103162000 +0700" channel="COSMOTE Sport 5 HD">
@@ -332,6 +328,10 @@
 </programme>
 <programme start="20251104145000 +0700" stop="20251104163500 +0700" channel="COSMOTE Sport 5 HD">
     <title>DTM 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251104163500 +0700" stop="20251104183500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>2025 Extreme H</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251103150000 +0700" stop="20251103164000 +0700" channel="COSMOTE Sport 6 HD">
