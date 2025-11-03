@@ -118,6 +118,10 @@
     <title>Football: Olympiacos - Aris</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251104141500 +0700" stop="20251104161500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Torino - Pisa</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251103120000 +0700" stop="20251103151500 +0700" channel="COSMOTE Sport 3 HD">
     <title>American Football: Buffalo Bills - Kansas City Chiefs</title>
     <desc>Live: Tidak</desc>
@@ -172,6 +176,10 @@
 </programme>
 <programme start="20251104110000 +0700" stop="20251104141500 +0700" channel="COSMOTE Sport 3 HD">
     <title>American Football: Washington Commanders - Seattle Seahawks</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251104141500 +0700" stop="20251104161500 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Rio Ave - Estoril</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251103130000 +0700" stop="20251103150000 +0700" channel="COSMOTE Sport 4 HD">
@@ -326,6 +334,10 @@
     <title>DTM 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251104145000 +0700" stop="20251104163500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>DTM 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251103130000 +0700" stop="20251103150000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Premier Padel Tour 2025</title>
     <desc>Live: Tidak</desc>
@@ -392,6 +404,10 @@
 </programme>
 <programme start="20251104133000 +0700" stop="20251104140000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Sports Classics: The Outdoor Sports Show 2025 E10</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251104140000 +0700" stop="20251104180000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: ATP 250 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251103130000 +0700" stop="20251103150000 +0700" channel="COSMOTE Sport 7 HD">
