@@ -817,22 +817,22 @@
     <programme start="20251103160000 +0000" stop="20251104160000 +0000" channel="Live 2.mewatch">
         <title>No programme available now. Next broadcast on 7th November, Friday 8.30pm. ONE Friday Fights 132</title>
     </programme>
-    <programme start="20251102160000 +0000" stop="20251103070000 +0000" channel="Live 5.mewatch">
+    <programme start="20251102160000 +0000" stop="20251103065500 +0000" channel="Live 5.mewatch">
         <title>No Programme available now. Next Broadcast on 3rd November, Monday 3.00pm. Singlife Nations Cup 2025</title>
     </programme>
-    <programme start="20251103070000 +0000" stop="20251103090000 +0000" channel="Live 5.mewatch">
+    <programme start="20251103065500 +0000" stop="20251103085500 +0000" channel="Live 5.mewatch">
         <title>Singlife Nations Cup 2025: Singapore A vs Isle of Man</title>
     </programme>
-    <programme start="20251103090000 +0000" stop="20251103110000 +0000" channel="Live 5.mewatch">
+    <programme start="20251103085500 +0000" stop="20251103105500 +0000" channel="Live 5.mewatch">
         <title>Singlife Nations Cup 2025: Kenya vs Malaysia</title>
     </programme>
-    <programme start="20251103110000 +0000" stop="20251103130000 +0000" channel="Live 5.mewatch">
+    <programme start="20251103105500 +0000" stop="20251103130000 +0000" channel="Live 5.mewatch">
         <title>Singlife Nations Cup 2025: Papua New Guinea vs Singapore</title>
     </programme>
     <programme start="20251103130000 +0000" stop="20251103160000 +0000" channel="Live 5.mewatch">
         <title>No Programme available now. Next Broadcast on 4th November, Tuesday 3.00pm. Singlife Nations Cup 2025</title>
     </programme>
-    <programme start="20251103160000 +0000" stop="20251104070000 +0000" channel="Live 5.mewatch">
+    <programme start="20251103160000 +0000" stop="20251104065500 +0000" channel="Live 5.mewatch">
         <title>No Programme available now. Next Broadcast on 4th November, Tuesday 3.00pm. Singlife Nations Cup 2025</title>
     </programme>
     <programme start="20251102160000 +0000" stop="20251103160000 +0000" channel="Live 6.mewatch">
