@@ -58,14 +58,6 @@
     <title>Football: Villarreal CF - Manchester City FC</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251103074500 +0700" stop="20251103094500 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: ACF Fiorentina - Lecce</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251103094500 +0700" stop="20251103100000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Sports Highlights</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251103100000 +0700" stop="20251103120000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Parma - Bologna</title>
     <desc>Live: Tidak</desc>
@@ -120,6 +112,10 @@
 </programme>
 <programme start="20251104095000 +0700" stop="20251104100500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Sports Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251104100500 +0700" stop="20251104120000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Sassuolo - Genoa</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251103081000 +0700" stop="20251103110000 +0700" channel="COSMOTE Sport 3 HD">
@@ -234,8 +230,8 @@
     <title>Basketball: Indiana Pacers - Milwaukee Bucks (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251103081000 +0700" stop="20251103090500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>DTM</title>
+<programme start="20251104100000 +0700" stop="20251104110000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>NBA Specials: Basketball Stories</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251103090500 +0700" stop="20251103100500 +0700" channel="COSMOTE Sport 5 HD">
