@@ -2890,6 +2890,48 @@
     <programme start="20251103153000 +0000" stop="20251103160000 +0000" channel="Zee Tamil.starhub">
         <title>Varisu</title>
     </programme>
+    <programme start="20251102160000 +0000" stop="20251102163000 +0000" channel="ANC.starhub">
+        <title>Insights: Israel And Middle East</title>
+    </programme>
+    <programme start="20251102163000 +0000" stop="20251102170000 +0000" channel="ANC.starhub">
+        <title>The A-List</title>
+    </programme>
+    <programme start="20251102170000 +0000" stop="20251102173000 +0000" channel="ANC.starhub">
+        <title>Eic On The Move</title>
+    </programme>
+    <programme start="20251102173000 +0000" stop="20251102180000 +0000" channel="ANC.starhub">
+        <title>Rev+</title>
+    </programme>
+    <programme start="20251102180000 +0000" stop="20251102183000 +0000" channel="ANC.starhub">
+        <title>America&#039;s Hidden History</title>
+    </programme>
+    <programme start="20251102183000 +0000" stop="20251102190000 +0000" channel="ANC.starhub">
+        <title>Dayaw</title>
+    </programme>
+    <programme start="20251102190000 +0000" stop="20251102193000 +0000" channel="ANC.starhub">
+        <title>Local Legends</title>
+    </programme>
+    <programme start="20251102193000 +0000" stop="20251102200000 +0000" channel="ANC.starhub">
+        <title>Asian Air Safari</title>
+    </programme>
+    <programme start="20251102200000 +0000" stop="20251102203000 +0000" channel="ANC.starhub">
+        <title>Casa Daza</title>
+    </programme>
+    <programme start="20251102203000 +0000" stop="20251102210000 +0000" channel="ANC.starhub">
+        <title>Made In Germany</title>
+    </programme>
+    <programme start="20251102210000 +0000" stop="20251102213000 +0000" channel="ANC.starhub">
+        <title>Dwellings</title>
+    </programme>
+    <programme start="20251102213000 +0000" stop="20251102220000 +0000" channel="ANC.starhub">
+        <title>Citizen Pinoy</title>
+    </programme>
+    <programme start="20251102220000 +0000" stop="20251102230000 +0000" channel="ANC.starhub">
+        <title>Foodprints</title>
+    </programme>
+    <programme start="20251102230000 +0000" stop="20251102233000 +0000" channel="ANC.starhub">
+        <title>Global Us</title>
+    </programme>
     <programme start="20251102233000 +0000" stop="20251103000000 +0000" channel="ANC.starhub">
         <title>Beyond The Exchange</title>
     </programme>

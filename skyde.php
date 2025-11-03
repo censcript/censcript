@@ -3049,17 +3049,23 @@
 <programme start="20251103223000 +0000" stop="20251103230000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: 90in30: BUR - ARS, 10. Spieltag</title>
 </programme>
-<programme start="20251103010000 +0000" stop="20251103013000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20251103001000 +0000" stop="20251103004000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: Review Wuhan</title>
 </programme>
-<programme start="20251103013000 +0000" stop="20251103040000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: J. Sinner (ITA) - F. Auger-Aliassime (CAN), Rolex Paris Masters in Paris (FRA), Finale</title>
-</programme>
-<programme start="20251103040000 +0000" stop="20251103043000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20251103004000 +0000" stop="20251103011000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
 </programme>
-<programme start="20251103043000 +0000" stop="20251103063000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 250: Topspiel, Hellenic Open in Athen (GRE), 1. Tag</title>
+<programme start="20251103011000 +0000" stop="20251103034000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 1000: J. Sinner (ITA) - F. Auger-Aliassime (CAN), Rolex Paris Masters in Paris (FRA), Finale</title>
+</programme>
+<programme start="20251103034000 +0000" stop="20251103041000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP: This Week</title>
+</programme>
+<programme start="20251103041000 +0000" stop="20251103044500 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 1000: Review Wuhan</title>
+</programme>
+<programme start="20251103044500 +0000" stop="20251103063000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 250: N. Borges (POR) - S. Sakellaridis (GRE), Hellenic Open in Athen (GRE), 1. Tag</title>
 </programme>
 <programme start="20251103063000 +0000" stop="20251103070000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: Review Wuhan</title>
@@ -3071,22 +3077,22 @@
     <title>WTA Finals: C. Gauff (USA) - Q. Zheng (CHN), Finale 2024 in Riyadh (SAU)</title>
 </programme>
 <programme start="20251103120000 +0000" stop="20251103140000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live WTA Finals: Doppel 1, 3. Tag in Riyadh (SAU)</title>
+    <title>Live WTA Finals: S. Errani (ITA) / J. Paolini (ITA) - S.-W. Hsieh (TPE) / J. Ostapenko (LAT), 3. Tag in Riyadh (SAU)</title>
 </programme>
 <programme start="20251103140000 +0000" stop="20251103160000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live WTA Finals: Einzel 1, 3. Tag in Riyadh (SAU)</title>
+    <title>Live WTA Finals: I. Swiatek (POL) - E. Rybakina (KAZ), 3. Tag in Riyadh (SAU)</title>
 </programme>
 <programme start="20251103160000 +0000" stop="20251103180000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live WTA Finals: Einzel 2, 3. Tag in Riyadh (SAU)</title>
+    <title>Live WTA Finals: A. Anisimova (USA) - M. Keys (USA), 3. Tag in Riyadh (SAU)</title>
 </programme>
 <programme start="20251103180000 +0000" stop="20251103200000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live WTA Finals: Doppel 2, 3. Tag in Riyadh (SAU)</title>
+    <title>Live WTA Finals: V. Kudermetova / E. Mertens (BEL) - A. Muhammad (USA) / D. Schuurs (NED), 3. Tag in Riyadh (SAU)</title>
 </programme>
 <programme start="20251103200000 +0000" stop="20251103210000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: Review Paris</title>
 </programme>
 <programme start="20251103210000 +0000" stop="20251103230000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA Finals: Einzel 1, 3. Tag in Riyadh (SAU)</title>
+    <title>WTA Finals: I. Swiatek (POL) - E. Rybakina (KAZ), 3. Tag in Riyadh (SAU)</title>
 </programme>
 <programme start="20251102233000 +0000" stop="20251103000000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>PL: All Goals: Die Highlight-Show, 10. Spieltag</title>
@@ -3125,16 +3131,16 @@
     <title>BL: Dein Spieltags-Sprint (9)</title>
 </programme>
 <programme start="20251103120000 +0000" stop="20251103140000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live WTA Finals: Doppel 1, 3. Tag in Riyadh (SAU)</title>
+    <title>Live WTA Finals: S. Errani (ITA) / J. Paolini (ITA) - S.-W. Hsieh (TPE) / J. Ostapenko (LAT), 3. Tag in Riyadh (SAU)</title>
 </programme>
 <programme start="20251103140000 +0000" stop="20251103160000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live WTA Finals: Einzel 1, 3. Tag in Riyadh (SAU)</title>
+    <title>Live WTA Finals: I. Swiatek (POL) - E. Rybakina (KAZ), 3. Tag in Riyadh (SAU)</title>
 </programme>
 <programme start="20251103160000 +0000" stop="20251103180000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live WTA Finals: Einzel 2, 3. Tag in Riyadh (SAU)</title>
+    <title>Live WTA Finals: A. Anisimova (USA) - M. Keys (USA), 3. Tag in Riyadh (SAU)</title>
 </programme>
 <programme start="20251103180000 +0000" stop="20251103195000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live WTA Finals: Doppel 2, 3. Tag in Riyadh (SAU)</title>
+    <title>Live WTA Finals: V. Kudermetova / E. Mertens (BEL) - A. Muhammad (USA) / D. Schuurs (NED), 3. Tag in Riyadh (SAU)</title>
 </programme>
 <programme start="20251103195000 +0000" stop="20251103220000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live PL: AFC Sunderland - FC Everton, 10. Spieltag</title>
