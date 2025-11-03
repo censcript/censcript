@@ -7570,11 +7570,11 @@
 <programme start="20251103160000 +0000" stop="20251103163000 +0000" channel="Outdoor channel HD.mncvision">
     <title>Down To Earth S1, Ep 5</title>
 </programme>
-<programme start="20251102181500 +0000" stop="20251102190000 +0000" channel="RCTI.mncvision">
+<programme start="20251102171500 +0000" stop="20251102190000 +0000" channel="RCTI.mncvision">
     <title>Kejar Daku Kau Kutendang</title>
 </programme>
 <programme start="20251102190000 +0000" stop="20251102203000 +0000" channel="RCTI.mncvision">
-    <title>Mega Film TV Malam</title>
+    <title>Cewek Manja Ke Laut Aja</title>
 </programme>
 <programme start="20251102203000 +0000" stop="20251102230000 +0000" channel="RCTI.mncvision">
     <title>Preman Pensiun S2</title>
@@ -7619,13 +7619,13 @@
     <title>Kau Ditakdirkan Untukku</title>
 </programme>
 <programme start="20251103154500 +0000" stop="20251103161500 +0000" channel="RCTI.mncvision">
-    <title>Semua Indah Karena Cinta</title>
+    <title>Hati Yang Memilih</title>
 </programme>
-<programme start="20251102181500 +0000" stop="20251102190000 +0000" channel="RCTI HD.mncvision">
+<programme start="20251102171500 +0000" stop="20251102190000 +0000" channel="RCTI HD.mncvision">
     <title>Kejar Daku Kau Kutendang</title>
 </programme>
 <programme start="20251102190000 +0000" stop="20251102203000 +0000" channel="RCTI HD.mncvision">
-    <title>Mega Film TV Malam</title>
+    <title>Cewek Manja Ke Laut Aja</title>
 </programme>
 <programme start="20251102203000 +0000" stop="20251102230000 +0000" channel="RCTI HD.mncvision">
     <title>Preman Pensiun S2</title>
@@ -7670,7 +7670,7 @@
     <title>Kau Ditakdirkan Untukku</title>
 </programme>
 <programme start="20251103154500 +0000" stop="20251103161500 +0000" channel="RCTI HD.mncvision">
-    <title>Semua Indah Karena Cinta</title>
+    <title>Hati Yang Memilih</title>
 </programme>
 <programme start="20251102170500 +0000" stop="20251102184500 +0000" channel="Rock Action.mncvision">
     <title>Salt</title>

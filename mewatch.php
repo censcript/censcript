@@ -628,38 +628,53 @@
     <programme start="20251103140000 +0000" stop="20251103164000 +0000" channel="now-80s.mewatch">
         <title>Carol Decker&#039;s 30 Rock Dudes! - EP1</title>
     </programme>
-    <programme start="20251102160000 +0000" stop="20251102210000 +0000" channel="now-70s.mewatch">
-        <title>Bam&#039;s Power Hours! 1970-1979 - EP1</title>
+    <programme start="20251102160000 +0000" stop="20251102165000 +0000" channel="now-70s.mewatch">
+        <title>The NOW Yearbook 1978 - EP1</title>
     </programme>
-    <programme start="20251102210000 +0000" stop="20251102232500 +0000" channel="now-70s.mewatch">
-        <title>Pat Sharp&#039;s Disco Explosion! - EP1</title>
+    <programme start="20251102165000 +0000" stop="20251102170000 +0000" channel="now-70s.mewatch">
+        <title>70s Rock Anthems Night! - EP1</title>
     </programme>
-    <programme start="20251102232500 +0000" stop="20251103000000 +0000" channel="now-70s.mewatch">
-        <title>Disco Fever! - EP1</title>
+    <programme start="20251102170000 +0000" stop="20251102183000 +0000" channel="now-70s.mewatch">
+        <title>Flares &amp; Floorfillers! 1970-1979 - EP1</title>
     </programme>
-    <programme start="20251103000000 +0000" stop="20251103020000 +0000" channel="now-70s.mewatch">
-        <title>Gone...But Not Forgotten Top 25 - EP1</title>
+    <programme start="20251102183000 +0000" stop="20251102190000 +0000" channel="now-70s.mewatch">
+        <title>70s School Disco! - EP1</title>
     </programme>
-    <programme start="20251103020000 +0000" stop="20251103064500 +0000" channel="now-70s.mewatch">
-        <title>70s v 80s Mixtape! - EP1</title>
+    <programme start="20251102190000 +0000" stop="20251102194500 +0000" channel="now-70s.mewatch">
+        <title>Every Number 2 of 1970 - EP1</title>
     </programme>
-    <programme start="20251103064500 +0000" stop="20251103070000 +0000" channel="now-70s.mewatch">
-        <title>Spring Has Sprung! - EP1</title>
+    <programme start="20251102194500 +0000" stop="20251102200000 +0000" channel="now-70s.mewatch">
+        <title>70s School Disco! - EP1</title>
     </programme>
-    <programme start="20251103070000 +0000" stop="20251103093000 +0000" channel="now-70s.mewatch">
-        <title>The NOW 100 of the 70s - EP1</title>
+    <programme start="20251102200000 +0000" stop="20251102220000 +0000" channel="now-70s.mewatch">
+        <title>Tony Blackburn&#039;s Pop Party! 70-75 - EP1</title>
     </programme>
-    <programme start="20251103093000 +0000" stop="20251103103000 +0000" channel="now-70s.mewatch">
-        <title>Bam&#039;s Power Hours! 1970-1979 - EP1</title>
+    <programme start="20251102220000 +0000" stop="20251103064000 +0000" channel="now-70s.mewatch">
+        <title>The Rock 100 of the 70s - EP1</title>
     </programme>
-    <programme start="20251103103000 +0000" stop="20251103151000 +0000" channel="now-70s.mewatch">
-        <title>The NOW 100 of the 70s - EP1</title>
+    <programme start="20251103064000 +0000" stop="20251103080000 +0000" channel="now-70s.mewatch">
+        <title>Power Pop Day! - EP1</title>
     </programme>
-    <programme start="20251103151000 +0000" stop="20251103160000 +0000" channel="now-70s.mewatch">
-        <title>Saturday Night&#039;s Alright! - EP1</title>
+    <programme start="20251103080000 +0000" stop="20251103103000 +0000" channel="now-70s.mewatch">
+        <title>Time Machine! 1969 v 79 v 89 - EP1</title>
     </programme>
-    <programme start="20251103160000 +0000" stop="20251103203500 +0000" channel="now-70s.mewatch">
-        <title>The NOW 100 of the 70s - EP1</title>
+    <programme start="20251103103000 +0000" stop="20251103110000 +0000" channel="now-70s.mewatch">
+        <title>1979 Unleashed! - EP1</title>
+    </programme>
+    <programme start="20251103110000 +0000" stop="20251103133000 +0000" channel="now-70s.mewatch">
+        <title>The NOW Yearbook 1979 - EP1</title>
+    </programme>
+    <programme start="20251103133000 +0000" stop="20251103140000 +0000" channel="now-70s.mewatch">
+        <title>1979 Unleashed! - EP1</title>
+    </programme>
+    <programme start="20251103140000 +0000" stop="20251103155000 +0000" channel="now-70s.mewatch">
+        <title>Mike Read&#039;s Pop Quiz: 1979 - EP1</title>
+    </programme>
+    <programme start="20251103155000 +0000" stop="20251103160000 +0000" channel="now-70s.mewatch">
+        <title>1979 Unleashed! - EP1</title>
+    </programme>
+    <programme start="20251103160000 +0000" stop="20251103170000 +0000" channel="now-70s.mewatch">
+        <title>The Best 1979 Party...Ever! - EP1</title>
     </programme>
     <programme start="20251102160000 +0000" stop="20251103160000 +0000" channel="trace-urban.mewatch">
         <title>No Programme Available</title>
