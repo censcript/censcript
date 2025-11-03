@@ -2890,6 +2890,87 @@
     <programme start="20251103153000 +0000" stop="20251103160000 +0000" channel="Zee Tamil.starhub">
         <title>Varisu</title>
     </programme>
+    <programme start="20251102233000 +0000" stop="20251103000000 +0000" channel="ANC.starhub">
+        <title>Beyond The Exchange</title>
+    </programme>
+    <programme start="20251103000000 +0000" stop="20251103010000 +0000" channel="ANC.starhub">
+        <title>Headstart</title>
+    </programme>
+    <programme start="20251103010000 +0000" stop="20251103013000 +0000" channel="ANC.starhub">
+        <title>The Business Outlook</title>
+    </programme>
+    <programme start="20251103013000 +0000" stop="20251103020000 +0000" channel="ANC.starhub">
+        <title>Market Edge</title>
+    </programme>
+    <programme start="20251103020000 +0000" stop="20251103023000 +0000" channel="ANC.starhub">
+        <title>Hotcopy On Headstart</title>
+    </programme>
+    <programme start="20251103023000 +0000" stop="20251103030000 +0000" channel="ANC.starhub">
+        <title>America&#039;s Hidden History</title>
+    </programme>
+    <programme start="20251103030000 +0000" stop="20251103033000 +0000" channel="ANC.starhub">
+        <title>In Good Shape</title>
+    </programme>
+    <programme start="20251103033000 +0000" stop="20251103040000 +0000" channel="ANC.starhub">
+        <title>Ano Na Bev?</title>
+    </programme>
+    <programme start="20251103040000 +0000" stop="20251103050000 +0000" channel="ANC.starhub">
+        <title>Dateline Philippines</title>
+    </programme>
+    <programme start="20251103050000 +0000" stop="20251103060000 +0000" channel="ANC.starhub">
+        <title>Foodprints</title>
+    </programme>
+    <programme start="20251103060000 +0000" stop="20251103063000 +0000" channel="ANC.starhub">
+        <title>Arts.21</title>
+    </programme>
+    <programme start="20251103063000 +0000" stop="20251103070000 +0000" channel="ANC.starhub">
+        <title>ANC Spotlight 2</title>
+    </programme>
+    <programme start="20251103070000 +0000" stop="20251103080000 +0000" channel="ANC.starhub">
+        <title>Market Edge</title>
+    </programme>
+    <programme start="20251103080000 +0000" stop="20251103083000 +0000" channel="ANC.starhub">
+        <title>The A-List</title>
+    </programme>
+    <programme start="20251103083000 +0000" stop="20251103093000 +0000" channel="ANC.starhub">
+        <title>Top Story</title>
+    </programme>
+    <programme start="20251103093000 +0000" stop="20251103100000 +0000" channel="ANC.starhub">
+        <title>My Italy With Margarita</title>
+    </programme>
+    <programme start="20251103100000 +0000" stop="20251103103000 +0000" channel="ANC.starhub">
+        <title>Executive Class</title>
+    </programme>
+    <programme start="20251103103000 +0000" stop="20251103110000 +0000" channel="ANC.starhub">
+        <title>Insights: Israel And Middle East</title>
+    </programme>
+    <programme start="20251103110000 +0000" stop="20251103113000 +0000" channel="ANC.starhub">
+        <title>Arts.21</title>
+    </programme>
+    <programme start="20251103113000 +0000" stop="20251103120000 +0000" channel="ANC.starhub">
+        <title>Made In Germany</title>
+    </programme>
+    <programme start="20251103120000 +0000" stop="20251103123000 +0000" channel="ANC.starhub">
+        <title>The Business Outlook</title>
+    </programme>
+    <programme start="20251103123000 +0000" stop="20251103130000 +0000" channel="ANC.starhub">
+        <title>Beyond The Exchange</title>
+    </programme>
+    <programme start="20251103130000 +0000" stop="20251103133000 +0000" channel="ANC.starhub">
+        <title>The World Tonight</title>
+    </programme>
+    <programme start="20251103133000 +0000" stop="20251103140000 +0000" channel="ANC.starhub">
+        <title>Executive Class</title>
+    </programme>
+    <programme start="20251103140000 +0000" stop="20251103143000 +0000" channel="ANC.starhub">
+        <title>Tomorrow Today</title>
+    </programme>
+    <programme start="20251103143000 +0000" stop="20251103150000 +0000" channel="ANC.starhub">
+        <title>Banker After Dark</title>
+    </programme>
+    <programme start="20251103150000 +0000" stop="20251103160000 +0000" channel="ANC.starhub">
+        <title>Beached</title>
+    </programme>
     <programme start="20251102153000 +0000" stop="20251102164500 +0000" channel="Karisma.starhub">
         <title>Hidup Lagi Capek Capeknya Justru Ketemu Mbanya</title>
     </programme>
@@ -7876,10 +7957,10 @@
     <programme start="20251103043000 +0000" stop="20251103073000 +0000" channel="Asianet Movies.starhub">
         <title>One</title>
     </programme>
-    <programme start="20251103073000 +0000" stop="20251103103000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251103073000 +0000" stop="20251103103500 +0000" channel="Asianet Movies.starhub">
         <title>Aadu 2</title>
     </programme>
-    <programme start="20251103103000 +0000" stop="20251103133000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251103103500 +0000" stop="20251103133000 +0000" channel="Asianet Movies.starhub">
         <title>Sagar Alias Jacky: Reloaded</title>
     </programme>
     <programme start="20251103133000 +0000" stop="20251103163000 +0000" channel="Asianet Movies.starhub">
