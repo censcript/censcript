@@ -8536,14 +8536,11 @@
 <programme start="20251103000000 +0000" stop="20251103010000 +0000" channel="SPOTV 2.mncvision">
     <title>MotoGP 2025: GP Of Malaysia</title>
 </programme>
-<programme start="20251103010000 +0000" stop="20251103030000 +0000" channel="SPOTV 2.mncvision">
+<programme start="20251103010000 +0000" stop="20251103043500 +0000" channel="SPOTV 2.mncvision">
     <title>Roshn Saudi League 25/26</title>
 </programme>
-<programme start="20251103030000 +0000" stop="20251103050000 +0000" channel="SPOTV 2.mncvision">
+<programme start="20251103043500 +0000" stop="20251103063000 +0000" channel="SPOTV 2.mncvision">
     <title>GTour Mixed 3rd Tournament</title>
-</programme>
-<programme start="20251103050000 +0000" stop="20251103063000 +0000" channel="SPOTV 2.mncvision">
-    <title>Michelin Le Mans Cup, Portimao</title>
 </programme>
 <programme start="20251103063000 +0000" stop="20251103100000 +0000" channel="SPOTV 2.mncvision">
     <title>Michelin Le Mans Cup, Portimao</title>
@@ -8569,14 +8566,11 @@
 <programme start="20251103000000 +0000" stop="20251103010000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>MotoGP 2025: GP Of Malaysia</title>
 </programme>
-<programme start="20251103010000 +0000" stop="20251103030000 +0000" channel="SPOTV 2 HD.mncvision">
+<programme start="20251103010000 +0000" stop="20251103043500 +0000" channel="SPOTV 2 HD.mncvision">
     <title>Roshn Saudi League 25/26</title>
 </programme>
-<programme start="20251103030000 +0000" stop="20251103050000 +0000" channel="SPOTV 2 HD.mncvision">
+<programme start="20251103043500 +0000" stop="20251103063000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>GTour Mixed 3rd Tournament</title>
-</programme>
-<programme start="20251103050000 +0000" stop="20251103063000 +0000" channel="SPOTV 2 HD.mncvision">
-    <title>Michelin Le Mans Cup, Portimao</title>
 </programme>
 <programme start="20251103063000 +0000" stop="20251103100000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>Michelin Le Mans Cup, Portimao</title>

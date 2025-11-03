@@ -8113,23 +8113,20 @@
     <programme start="20251102180000 +0000" stop="20251102210500 +0000" channel="SPOTV2.starhub">
         <title>Day 1</title>
     </programme>
-    <programme start="20251102210500 +0000" stop="20251102230000 +0000" channel="SPOTV2.starhub">
+    <programme start="20251102223500 +0000" stop="20251103003000 +0000" channel="SPOTV2.starhub">
         <title>2025/26 A-League Men Round 3 Perth Glory vs Melbourne Victory</title>
     </programme>
-    <programme start="20251102230000 +0000" stop="20251103000000 +0000" channel="SPOTV2.starhub">
+    <programme start="20251103003000 +0000" stop="20251103013000 +0000" channel="SPOTV2.starhub">
         <title>Highlights</title>
     </programme>
-    <programme start="20251103000000 +0000" stop="20251103010000 +0000" channel="SPOTV2.starhub">
+    <programme start="20251103013000 +0000" stop="20251103023000 +0000" channel="SPOTV2.starhub">
         <title>Highlights</title>
     </programme>
-    <programme start="20251103010000 +0000" stop="20251103030000 +0000" channel="SPOTV2.starhub">
+    <programme start="20251103023000 +0000" stop="20251103043500 +0000" channel="SPOTV2.starhub">
         <title>ROSHN Saudi League 25/26 MW7 Al Nassr vs Al Fayha</title>
     </programme>
-    <programme start="20251103030000 +0000" stop="20251103050000 +0000" channel="SPOTV2.starhub">
+    <programme start="20251103043500 +0000" stop="20251103063000 +0000" channel="SPOTV2.starhub">
         <title>2025 GTOUR Mixed 3rd Tournament</title>
-    </programme>
-    <programme start="20251103050000 +0000" stop="20251103063000 +0000" channel="SPOTV2.starhub">
-        <title>Qualifying</title>
     </programme>
     <programme start="20251103063000 +0000" stop="20251103100000 +0000" channel="SPOTV2.starhub">
         <title>Race</title>
@@ -8137,16 +8134,16 @@
     <programme start="20251103100000 +0000" stop="20251103120000 +0000" channel="SPOTV2.starhub">
         <title>2025/26 A-League Men Round 3 Perth Glory vs Melbourne Victory</title>
     </programme>
-    <programme start="20251103120000 +0000" stop="20251103130000 +0000" channel="SPOTV2.starhub">
+    <programme start="20251103120000 +0000" stop="20251103130200 +0000" channel="SPOTV2.starhub">
         <title>Round 2</title>
     </programme>
-    <programme start="20251103130000 +0000" stop="20251103150000 +0000" channel="SPOTV2.starhub">
+    <programme start="20251103130200 +0000" stop="20251103150500 +0000" channel="SPOTV2.starhub">
         <title>ROSHN Saudi League 25/26 MW7 Al Nassr vs Al Fayha</title>
     </programme>
-    <programme start="20251103150000 +0000" stop="20251103153000 +0000" channel="SPOTV2.starhub">
+    <programme start="20251103150500 +0000" stop="20251103153400 +0000" channel="SPOTV2.starhub">
         <title>Season 5</title>
     </programme>
-    <programme start="20251103153000 +0000" stop="20251103160000 +0000" channel="SPOTV2.starhub">
+    <programme start="20251103153400 +0000" stop="20251103160000 +0000" channel="SPOTV2.starhub">
         <title>WorldSBK 2025 Rewind: Rd12 Spanish Round</title>
     </programme>
     <programme start="20251102160000 +0000" stop="20251102160500 +0000" channel="Dragon TV.starhub">
