@@ -481,39 +481,6 @@
     <programme start="20251103160000 +0000" stop="20251104010000 +0000" channel="Vasantham.mewatch">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20251102160000 +0000" stop="20251102160300 +0000" channel="CNA.mewatch">
-        <title>Headline News</title>
-    </programme>
-    <programme start="20251102160300 +0000" stop="20251102163000 +0000" channel="CNA.mewatch">
-        <title>Money Mind - EP 27</title>
-    </programme>
-    <programme start="20251102163000 +0000" stop="20251102170000 +0000" channel="CNA.mewatch">
-        <title>CNA Correspondent - EP 24</title>
-    </programme>
-    <programme start="20251102170000 +0000" stop="20251102180000 +0000" channel="CNA.mewatch">
-        <title>Insight - EP 26</title>
-    </programme>
-    <programme start="20251102180000 +0000" stop="20251102183000 +0000" channel="CNA.mewatch">
-        <title>Singapore Tonight</title>
-    </programme>
-    <programme start="20251102183000 +0000" stop="20251102190000 +0000" channel="CNA.mewatch">
-        <title>Talking Point - EP 22</title>
-    </programme>
-    <programme start="20251102190000 +0000" stop="20251102193000 +0000" channel="CNA.mewatch">
-        <title>The Assembly S2 - EP 2</title>
-    </programme>
-    <programme start="20251102193000 +0000" stop="20251102200000 +0000" channel="CNA.mewatch">
-        <title>On The Red Dot - EP 25</title>
-    </programme>
-    <programme start="20251102200000 +0000" stop="20251102203000 +0000" channel="CNA.mewatch">
-        <title>Asia Tonight</title>
-    </programme>
-    <programme start="20251102203000 +0000" stop="20251102210000 +0000" channel="CNA.mewatch">
-        <title>In Search of Heat S2 - EP 2</title>
-    </programme>
-    <programme start="20251102210000 +0000" stop="20251102220000 +0000" channel="CNA.mewatch">
-        <title>Reaching The Unreached S2 - EP 2</title>
-    </programme>
     <programme start="20251102220000 +0000" stop="20251102223000 +0000" channel="CNA.mewatch">
         <title>Singapore Tonight</title>
     </programme>
@@ -559,11 +526,8 @@
     <programme start="20251103140000 +0000" stop="20251103150000 +0000" channel="CNA.mewatch">
         <title>(Live) Singapore Tonight</title>
     </programme>
-    <programme start="20251103150000 +0000" stop="20251103160000 +0000" channel="CNA.mewatch">
+    <programme start="20251103150000 +0000" stop="20251103160300 +0000" channel="CNA.mewatch">
         <title>Reaching The Unreached S2 - EP 2</title>
-    </programme>
-    <programme start="20251103160000 +0000" stop="20251103160300 +0000" channel="CNA.mewatch">
-        <title>Headline News</title>
     </programme>
     <programme start="20251102160000 +0000" stop="20251103160000 +0000" channel="spl01.mewatch">
         <title>No Programme available now. Next Broadcast on 6th November, Thursday 7.20pm. Singapore Cup 2025/2026 </title>
@@ -818,22 +782,28 @@
         <title>No programme available now. Next broadcast on 7th November, Friday 8.30pm. ONE Friday Fights 132</title>
     </programme>
     <programme start="20251102160000 +0000" stop="20251103065500 +0000" channel="Live 5.mewatch">
-        <title>No Programme available now. Next Broadcast on 3rd November, Monday 3.00pm. Singlife Nations Cup 2025</title>
+        <title>No Programme available now. Next Broadcast on 3rd November, Monday 2.55pm. Singlife Nations Cup 2025</title>
     </programme>
-    <programme start="20251103065500 +0000" stop="20251103085500 +0000" channel="Live 5.mewatch">
+    <programme start="20251103065500 +0000" stop="20251103083000 +0000" channel="Live 5.mewatch">
         <title>Singlife Nations Cup 2025: Singapore A vs Isle of Man</title>
     </programme>
-    <programme start="20251103085500 +0000" stop="20251103105500 +0000" channel="Live 5.mewatch">
+    <programme start="20251103083000 +0000" stop="20251103085500 +0000" channel="Live 5.mewatch">
+        <title>No Programme available now. Next Broadcast on 3rd November, Monday 4.55pm. Singlife Nations Cup 2025</title>
+    </programme>
+    <programme start="20251103085500 +0000" stop="20251103103000 +0000" channel="Live 5.mewatch">
         <title>Singlife Nations Cup 2025: Kenya vs Malaysia</title>
     </programme>
-    <programme start="20251103105500 +0000" stop="20251103130000 +0000" channel="Live 5.mewatch">
+    <programme start="20251103103000 +0000" stop="20251103105500 +0000" channel="Live 5.mewatch">
+        <title>No Programme available now. Next Broadcast on 3rd November, Monday 6.55pm. Singlife Nations Cup 2025</title>
+    </programme>
+    <programme start="20251103105500 +0000" stop="20251103123000 +0000" channel="Live 5.mewatch">
         <title>Singlife Nations Cup 2025: Papua New Guinea vs Singapore</title>
     </programme>
-    <programme start="20251103130000 +0000" stop="20251103160000 +0000" channel="Live 5.mewatch">
-        <title>No Programme available now. Next Broadcast on 4th November, Tuesday 3.00pm. Singlife Nations Cup 2025</title>
+    <programme start="20251103123000 +0000" stop="20251103160000 +0000" channel="Live 5.mewatch">
+        <title>No Programme available now. Next Broadcast on 4th November, Tuesday 2.55pm. Singlife Nations Cup 2025</title>
     </programme>
     <programme start="20251103160000 +0000" stop="20251104065500 +0000" channel="Live 5.mewatch">
-        <title>No Programme available now. Next Broadcast on 4th November, Tuesday 3.00pm. Singlife Nations Cup 2025</title>
+        <title>No Programme available now. Next Broadcast on 4th November, Tuesday 2.55pm. Singlife Nations Cup 2025</title>
     </programme>
     <programme start="20251102160000 +0000" stop="20251103160000 +0000" channel="Live 6.mewatch">
         <title>No Programme available now. Next Broadcast on 6th November, Thursday 5.50pm. AFC Champions League Two 2025/26</title>
