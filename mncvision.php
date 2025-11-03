@@ -4711,11 +4711,432 @@
 <programme start="20251103140000 +0000" stop="20251103143000 +0000" channel="Indosiar HD.mncvision">
     <title>D&#039;Academy S7</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20251102170000 +0000" stop="20251102180000 +0000" channel="iNews.mncvision">
+    <title>Realita</title>
+</programme>
+<programme start="20251102180000 +0000" stop="20251102184500 +0000" channel="iNews.mncvision">
+    <title>iNews Room Weekend</title>
+</programme>
+<programme start="20251102184500 +0000" stop="20251102194500 +0000" channel="iNews.mncvision">
+    <title>iNews Sore</title>
+</programme>
+<programme start="20251102194500 +0000" stop="20251102201500 +0000" channel="iNews.mncvision">
+    <title>iNews Malam</title>
+</programme>
+<programme start="20251102201500 +0000" stop="20251102210000 +0000" channel="iNews.mncvision">
+    <title>Special Report</title>
+</programme>
+<programme start="20251102210000 +0000" stop="20251102211500 +0000" channel="iNews.mncvision">
+    <title>iNews Sport</title>
+</programme>
+<programme start="20251102211500 +0000" stop="20251102230000 +0000" channel="iNews.mncvision">
+    <title>iNews Pagi (L)</title>
+</programme>
+<programme start="20251102230000 +0000" stop="20251102230200 +0000" channel="iNews.mncvision">
+    <title>Indonesia Raya</title>
+</programme>
+<programme start="20251102230200 +0000" stop="20251102233000 +0000" channel="iNews.mncvision">
+    <title>iNews Sport Pagi (L)</title>
+</programme>
+<programme start="20251102233000 +0000" stop="20251103000000 +0000" channel="iNews.mncvision">
+    <title>Special Report</title>
+</programme>
+<programme start="20251103000000 +0000" stop="20251103010000 +0000" channel="iNews.mncvision">
+    <title>Morning Update</title>
+</programme>
+<programme start="20251103010000 +0000" stop="20251103021500 +0000" channel="iNews.mncvision">
+    <title>Lapor Polisi (L)</title>
+</programme>
+<programme start="20251103021500 +0000" stop="20251103040000 +0000" channel="iNews.mncvision">
+    <title>iNews Today (L)</title>
+</programme>
+<programme start="20251103040000 +0000" stop="20251103060000 +0000" channel="iNews.mncvision">
+    <title>iNews Siang (L)</title>
+</programme>
+<programme start="20251103060000 +0000" stop="20251103063000 +0000" channel="iNews.mncvision">
+    <title>Pemimpin Rakyat (L)</title>
+</programme>
+<programme start="20251103063000 +0000" stop="20251103080000 +0000" channel="iNews.mncvision">
+    <title>iSeleb (L)</title>
+</programme>
+<programme start="20251103080000 +0000" stop="20251103093000 +0000" channel="iNews.mncvision">
+    <title>Realita (L)</title>
+</programme>
+<programme start="20251103093000 +0000" stop="20251103110000 +0000" channel="iNews.mncvision">
+    <title>iNews Sore (L)</title>
+</programme>
+<programme start="20251103110000 +0000" stop="20251103110500 +0000" channel="iNews.mncvision">
+    <title>iNews Terkini</title>
+</programme>
+<programme start="20251103110500 +0000" stop="20251103120000 +0000" channel="iNews.mncvision">
+    <title>iNews Sore (L)</title>
+</programme>
+<programme start="20251103120000 +0000" stop="20251103120500 +0000" channel="iNews.mncvision">
+    <title>iNews Terkini</title>
+</programme>
+<programme start="20251103120500 +0000" stop="20251103133000 +0000" channel="iNews.mncvision">
+    <title>iNews Room (L)</title>
+</programme>
+<programme start="20251103133000 +0000" stop="20251103143000 +0000" channel="iNews.mncvision">
+    <title>iNews Prime (L)</title>
+</programme>
+<programme start="20251103143000 +0000" stop="20251103160000 +0000" channel="iNews.mncvision">
+    <title>iNews Malam (L)</title>
+</programme>
+<programme start="20251103160000 +0000" stop="20251103163000 +0000" channel="iNews.mncvision">
+    <title>iNews Sport (L)</title>
+</programme>
+<programme start="20251103163000 +0000" stop="20251102170000 +0000" channel="iNews.mncvision">
+    <title>New Top Files</title>
+</programme>
+<programme start="20251102170000 +0000" stop="20251102180000 +0000" channel="iNews HD.mncvision">
+    <title>Realita</title>
+</programme>
+<programme start="20251102180000 +0000" stop="20251102184500 +0000" channel="iNews HD.mncvision">
+    <title>iNews Room Weekend</title>
+</programme>
+<programme start="20251102184500 +0000" stop="20251102194500 +0000" channel="iNews HD.mncvision">
+    <title>iNews Sore</title>
+</programme>
+<programme start="20251102194500 +0000" stop="20251102201500 +0000" channel="iNews HD.mncvision">
+    <title>iNews Malam</title>
+</programme>
+<programme start="20251102201500 +0000" stop="20251102210000 +0000" channel="iNews HD.mncvision">
+    <title>Special Report</title>
+</programme>
+<programme start="20251102210000 +0000" stop="20251102211500 +0000" channel="iNews HD.mncvision">
+    <title>iNews Sport</title>
+</programme>
+<programme start="20251102211500 +0000" stop="20251102230000 +0000" channel="iNews HD.mncvision">
+    <title>iNews Pagi (L)</title>
+</programme>
+<programme start="20251102230000 +0000" stop="20251102230200 +0000" channel="iNews HD.mncvision">
+    <title>Indonesia Raya</title>
+</programme>
+<programme start="20251102230200 +0000" stop="20251102233000 +0000" channel="iNews HD.mncvision">
+    <title>iNews Sport Pagi (L)</title>
+</programme>
+<programme start="20251102233000 +0000" stop="20251103000000 +0000" channel="iNews HD.mncvision">
+    <title>Special Report</title>
+</programme>
+<programme start="20251103000000 +0000" stop="20251103010000 +0000" channel="iNews HD.mncvision">
+    <title>Morning Update</title>
+</programme>
+<programme start="20251103010000 +0000" stop="20251103021500 +0000" channel="iNews HD.mncvision">
+    <title>Lapor Polisi (L)</title>
+</programme>
+<programme start="20251103021500 +0000" stop="20251103040000 +0000" channel="iNews HD.mncvision">
+    <title>iNews Today (L)</title>
+</programme>
+<programme start="20251103040000 +0000" stop="20251103060000 +0000" channel="iNews HD.mncvision">
+    <title>iNews Siang (L)</title>
+</programme>
+<programme start="20251103060000 +0000" stop="20251103063000 +0000" channel="iNews HD.mncvision">
+    <title>Pemimpin Rakyat (L)</title>
+</programme>
+<programme start="20251103063000 +0000" stop="20251103080000 +0000" channel="iNews HD.mncvision">
+    <title>iSeleb (L)</title>
+</programme>
+<programme start="20251103080000 +0000" stop="20251103093000 +0000" channel="iNews HD.mncvision">
+    <title>Realita (L)</title>
+</programme>
+<programme start="20251103093000 +0000" stop="20251103110000 +0000" channel="iNews HD.mncvision">
+    <title>iNews Sore (L)</title>
+</programme>
+<programme start="20251103110000 +0000" stop="20251103110500 +0000" channel="iNews HD.mncvision">
+    <title>iNews Terkini</title>
+</programme>
+<programme start="20251103110500 +0000" stop="20251103120000 +0000" channel="iNews HD.mncvision">
+    <title>iNews Sore (L)</title>
+</programme>
+<programme start="20251103120000 +0000" stop="20251103120500 +0000" channel="iNews HD.mncvision">
+    <title>iNews Terkini</title>
+</programme>
+<programme start="20251103120500 +0000" stop="20251103133000 +0000" channel="iNews HD.mncvision">
+    <title>iNews Room (L)</title>
+</programme>
+<programme start="20251103133000 +0000" stop="20251103143000 +0000" channel="iNews HD.mncvision">
+    <title>iNews Prime (L)</title>
+</programme>
+<programme start="20251103143000 +0000" stop="20251103160000 +0000" channel="iNews HD.mncvision">
+    <title>iNews Malam (L)</title>
+</programme>
+<programme start="20251103160000 +0000" stop="20251103163000 +0000" channel="iNews HD.mncvision">
+    <title>iNews Sport (L)</title>
+</programme>
+<programme start="20251103163000 +0000" stop="20251102170000 +0000" channel="iNews HD.mncvision">
+    <title>New Top Files</title>
+</programme>
+<programme start="20251102220000 +0000" stop="20251102223000 +0000" channel="JAKTV.mncvision">
+    <title>Senyum Quran</title>
+</programme>
+<programme start="20251102223000 +0000" stop="20251102230000 +0000" channel="JAKTV.mncvision">
+    <title>Muslimpedia</title>
+</programme>
+<programme start="20251102230000 +0000" stop="20251102233000 +0000" channel="JAKTV.mncvision">
+    <title>Inovator</title>
+</programme>
+<programme start="20251102233000 +0000" stop="20251103000000 +0000" channel="JAKTV.mncvision">
+    <title>Agritek</title>
+</programme>
+<programme start="20251103000000 +0000" stop="20251103003000 +0000" channel="JAKTV.mncvision">
+    <title>Dunia Kita</title>
+</programme>
+<programme start="20251103003000 +0000" stop="20251103010000 +0000" channel="JAKTV.mncvision">
+    <title>Cooking Time</title>
+</programme>
+<programme start="20251103010000 +0000" stop="20251103020000 +0000" channel="JAKTV.mncvision">
+    <title>Lejel</title>
+</programme>
+<programme start="20251103020000 +0000" stop="20251103030000 +0000" channel="JAKTV.mncvision">
+    <title>Lejel</title>
+</programme>
+<programme start="20251103030000 +0000" stop="20251103033000 +0000" channel="JAKTV.mncvision">
+    <title>Creative Talk</title>
+</programme>
+<programme start="20251103033000 +0000" stop="20251103040000 +0000" channel="JAKTV.mncvision">
+    <title>Animal Action</title>
+</programme>
+<programme start="20251103040000 +0000" stop="20251103043000 +0000" channel="JAKTV.mncvision">
+    <title>Above And Beyond</title>
+</programme>
+<programme start="20251103043000 +0000" stop="20251103050000 +0000" channel="JAKTV.mncvision">
+    <title>Ninjao</title>
+</programme>
+<programme start="20251103050000 +0000" stop="20251103060000 +0000" channel="JAKTV.mncvision">
+    <title>Lejel</title>
+</programme>
+<programme start="20251103060000 +0000" stop="20251103063000 +0000" channel="JAKTV.mncvision">
+    <title>Kiddies World</title>
+</programme>
+<programme start="20251103063000 +0000" stop="20251103070000 +0000" channel="JAKTV.mncvision">
+    <title>The Cloth Story</title>
+</programme>
+<programme start="20251103070000 +0000" stop="20251103073000 +0000" channel="JAKTV.mncvision">
+    <title>Cooking Time</title>
+</programme>
+<programme start="20251103073000 +0000" stop="20251103080000 +0000" channel="JAKTV.mncvision">
+    <title>Khazanah Kenyalang</title>
+</programme>
+<programme start="20251103080000 +0000" stop="20251103090000 +0000" channel="JAKTV.mncvision">
+    <title>Berkah Shop</title>
+</programme>
+<programme start="20251103090000 +0000" stop="20251103100000 +0000" channel="JAKTV.mncvision">
+    <title>Berdoa Yuk</title>
+</programme>
+<programme start="20251103100000 +0000" stop="20251103103000 +0000" channel="JAKTV.mncvision">
+    <title>Chess Player</title>
+</programme>
+<programme start="20251103103000 +0000" stop="20251103110000 +0000" channel="JAKTV.mncvision">
+    <title>Chess Player</title>
+</programme>
+<programme start="20251103110000 +0000" stop="20251103113000 +0000" channel="JAKTV.mncvision">
+    <title>Muslimpedia</title>
+</programme>
+<programme start="20251103113000 +0000" stop="20251103120000 +0000" channel="JAKTV.mncvision">
+    <title>Dunia Kita</title>
+</programme>
+<programme start="20251103120000 +0000" stop="20251103123000 +0000" channel="JAKTV.mncvision">
+    <title>Oooppss</title>
+</programme>
+<programme start="20251103123000 +0000" stop="20251103130000 +0000" channel="JAKTV.mncvision">
+    <title>Rezeki Tanah</title>
+</programme>
+<programme start="20251103130000 +0000" stop="20251103140000 +0000" channel="JAKTV.mncvision">
+    <title>Galeri Publik</title>
+</programme>
+<programme start="20251103140000 +0000" stop="20251103150000 +0000" channel="JAKTV.mncvision">
+    <title>Medika Natura</title>
+</programme>
+<programme start="20251103150000 +0000" stop="20251103153000 +0000" channel="JAKTV.mncvision">
+    <title>Euromaxx</title>
+</programme>
+<programme start="20251103153000 +0000" stop="20251103160000 +0000" channel="JAKTV.mncvision">
+    <title>Pak Kobra</title>
+</programme>
+<programme start="20251103160000 +0000" stop="20251103163000 +0000" channel="JAKTV.mncvision">
+    <title>Obrolan Malam</title>
+</programme>
+<programme start="20251102170000 +0000" stop="20251102190000 +0000" channel="Kids TV.mncvision">
+    <title>SpongeBob SquarePants</title>
+</programme>
+<programme start="20251102190000 +0000" stop="20251102193000 +0000" channel="Kids TV.mncvision">
+    <title>Blippi Wonders</title>
+</programme>
+<programme start="20251102193000 +0000" stop="20251102200000 +0000" channel="Kids TV.mncvision">
+    <title>Kids Menu</title>
+</programme>
+<programme start="20251102200000 +0000" stop="20251102203000 +0000" channel="Kids TV.mncvision">
+    <title>Kung Fu Panda</title>
+</programme>
+<programme start="20251102203000 +0000" stop="20251102210000 +0000" channel="Kids TV.mncvision">
+    <title>Penguins Of Madagascar</title>
+</programme>
+<programme start="20251102210000 +0000" stop="20251102213000 +0000" channel="Kids TV.mncvision">
+    <title>Backkom S3</title>
+</programme>
+<programme start="20251102213000 +0000" stop="20251102220000 +0000" channel="Kids TV.mncvision">
+    <title>Kamp Koral</title>
+</programme>
+<programme start="20251102220000 +0000" stop="20251102223000 +0000" channel="Kids TV.mncvision">
+    <title>Blippi Wonders</title>
+</programme>
+<programme start="20251102223000 +0000" stop="20251102230000 +0000" channel="Kids TV.mncvision">
+    <title>Thomas &amp; Friends</title>
+</programme>
+<programme start="20251102230000 +0000" stop="20251103000000 +0000" channel="Kids TV.mncvision">
+    <title>CoComelon</title>
+</programme>
+<programme start="20251103000000 +0000" stop="20251103010000 +0000" channel="Kids TV.mncvision">
+    <title>Kung Fu Panda</title>
+</programme>
+<programme start="20251103010000 +0000" stop="20251103023000 +0000" channel="Kids TV.mncvision">
+    <title>Sahabat Selamanya Upin &amp; Ipin</title>
+</programme>
+<programme start="20251103023000 +0000" stop="20251103030000 +0000" channel="Kids TV.mncvision">
+    <title>Kamp Koral</title>
+</programme>
+<programme start="20251103030000 +0000" stop="20251103033000 +0000" channel="Kids TV.mncvision">
+    <title>Blippi Wonders</title>
+</programme>
+<programme start="20251103033000 +0000" stop="20251103040000 +0000" channel="Kids TV.mncvision">
+    <title>Rat A Tat</title>
+</programme>
+<programme start="20251103040000 +0000" stop="20251103043000 +0000" channel="Kids TV.mncvision">
+    <title>Thomas &amp; Friends</title>
+</programme>
+<programme start="20251103043000 +0000" stop="20251103050000 +0000" channel="Kids TV.mncvision">
+    <title>Backkom S3</title>
+</programme>
+<programme start="20251103050000 +0000" stop="20251103060000 +0000" channel="Kids TV.mncvision">
+    <title>CoComelon</title>
+</programme>
+<programme start="20251103060000 +0000" stop="20251103070000 +0000" channel="Kids TV.mncvision">
+    <title>The Patrick Star Show</title>
+</programme>
+<programme start="20251103070000 +0000" stop="20251103073000 +0000" channel="Kids TV.mncvision">
+    <title>Kamp Koral</title>
+</programme>
+<programme start="20251103073000 +0000" stop="20251103093000 +0000" channel="Kids TV.mncvision">
+    <title>SpongeBob SquarePants</title>
+</programme>
+<programme start="20251103093000 +0000" stop="20251103113000 +0000" channel="Kids TV.mncvision">
+    <title>Upin &amp; Ipin Bermula</title>
+</programme>
+<programme start="20251103113000 +0000" stop="20251103120000 +0000" channel="Kids TV.mncvision">
+    <title>Thomas &amp; Friends</title>
+</programme>
+<programme start="20251103120000 +0000" stop="20251103130000 +0000" channel="Kids TV.mncvision">
+    <title>The Patrick Star Show</title>
+</programme>
+<programme start="20251103130000 +0000" stop="20251103133000 +0000" channel="Kids TV.mncvision">
+    <title>Kung Fu Panda</title>
+</programme>
+<programme start="20251103133000 +0000" stop="20251103140000 +0000" channel="Kids TV.mncvision">
+    <title>Penguins Of Madagascar</title>
+</programme>
+<programme start="20251103140000 +0000" stop="20251103143000 +0000" channel="Kids TV.mncvision">
+    <title>Rat A Tat</title>
+</programme>
+<programme start="20251103143000 +0000" stop="20251103150000 +0000" channel="Kids TV.mncvision">
+    <title>Backkom S3</title>
+</programme>
+<programme start="20251103150000 +0000" stop="20251103160000 +0000" channel="Kids TV.mncvision">
+    <title>CoComelon</title>
+</programme>
+<programme start="20251103160000 +0000" stop="20251103163000 +0000" channel="Kids TV.mncvision">
+    <title>Emak Gue Jawara</title>
+</programme>
+<programme start="20251102170000 +0000" stop="20251102190000 +0000" channel="Kids TV HD.mncvision">
+    <title>SpongeBob SquarePants</title>
+</programme>
+<programme start="20251102190000 +0000" stop="20251102193000 +0000" channel="Kids TV HD.mncvision">
+    <title>Blippi Wonders</title>
+</programme>
+<programme start="20251102193000 +0000" stop="20251102200000 +0000" channel="Kids TV HD.mncvision">
+    <title>Kids Menu</title>
+</programme>
+<programme start="20251102200000 +0000" stop="20251102203000 +0000" channel="Kids TV HD.mncvision">
+    <title>Kung Fu Panda</title>
+</programme>
+<programme start="20251102203000 +0000" stop="20251102210000 +0000" channel="Kids TV HD.mncvision">
+    <title>Penguins Of Madagascar</title>
+</programme>
+<programme start="20251102210000 +0000" stop="20251102213000 +0000" channel="Kids TV HD.mncvision">
+    <title>Backkom S3</title>
+</programme>
+<programme start="20251102213000 +0000" stop="20251102220000 +0000" channel="Kids TV HD.mncvision">
+    <title>Kamp Koral</title>
+</programme>
+<programme start="20251102220000 +0000" stop="20251102223000 +0000" channel="Kids TV HD.mncvision">
+    <title>Blippi Wonders</title>
+</programme>
+<programme start="20251102223000 +0000" stop="20251102230000 +0000" channel="Kids TV HD.mncvision">
+    <title>Thomas &amp; Friends</title>
+</programme>
+<programme start="20251102230000 +0000" stop="20251103000000 +0000" channel="Kids TV HD.mncvision">
+    <title>CoComelon</title>
+</programme>
+<programme start="20251103000000 +0000" stop="20251103010000 +0000" channel="Kids TV HD.mncvision">
+    <title>Kung Fu Panda</title>
+</programme>
+<programme start="20251103010000 +0000" stop="20251103023000 +0000" channel="Kids TV HD.mncvision">
+    <title>Sahabat Selamanya Upin &amp; Ipin</title>
+</programme>
+<programme start="20251103023000 +0000" stop="20251103030000 +0000" channel="Kids TV HD.mncvision">
+    <title>Kamp Koral</title>
+</programme>
+<programme start="20251103030000 +0000" stop="20251103033000 +0000" channel="Kids TV HD.mncvision">
+    <title>Blippi Wonders</title>
+</programme>
+<programme start="20251103033000 +0000" stop="20251103040000 +0000" channel="Kids TV HD.mncvision">
+    <title>Rat A Tat</title>
+</programme>
+<programme start="20251103040000 +0000" stop="20251103043000 +0000" channel="Kids TV HD.mncvision">
+    <title>Thomas &amp; Friends</title>
+</programme>
+<programme start="20251103043000 +0000" stop="20251103050000 +0000" channel="Kids TV HD.mncvision">
+    <title>Backkom S3</title>
+</programme>
+<programme start="20251103050000 +0000" stop="20251103060000 +0000" channel="Kids TV HD.mncvision">
+    <title>CoComelon</title>
+</programme>
+<programme start="20251103060000 +0000" stop="20251103070000 +0000" channel="Kids TV HD.mncvision">
+    <title>The Patrick Star Show</title>
+</programme>
+<programme start="20251103070000 +0000" stop="20251103073000 +0000" channel="Kids TV HD.mncvision">
+    <title>Kamp Koral</title>
+</programme>
+<programme start="20251103073000 +0000" stop="20251103093000 +0000" channel="Kids TV HD.mncvision">
+    <title>SpongeBob SquarePants</title>
+</programme>
+<programme start="20251103093000 +0000" stop="20251103113000 +0000" channel="Kids TV HD.mncvision">
+    <title>Upin &amp; Ipin Bermula</title>
+</programme>
+<programme start="20251103113000 +0000" stop="20251103120000 +0000" channel="Kids TV HD.mncvision">
+    <title>Thomas &amp; Friends</title>
+</programme>
+<programme start="20251103120000 +0000" stop="20251103130000 +0000" channel="Kids TV HD.mncvision">
+    <title>The Patrick Star Show</title>
+</programme>
+<programme start="20251103130000 +0000" stop="20251103133000 +0000" channel="Kids TV HD.mncvision">
+    <title>Kung Fu Panda</title>
+</programme>
+<programme start="20251103133000 +0000" stop="20251103140000 +0000" channel="Kids TV HD.mncvision">
+    <title>Penguins Of Madagascar</title>
+</programme>
+<programme start="20251103140000 +0000" stop="20251103143000 +0000" channel="Kids TV HD.mncvision">
+    <title>Rat A Tat</title>
+</programme>
+<programme start="20251103143000 +0000" stop="20251103150000 +0000" channel="Kids TV HD.mncvision">
+    <title>Backkom S3</title>
+</programme>
+<programme start="20251103150000 +0000" stop="20251103160000 +0000" channel="Kids TV HD.mncvision">
+    <title>CoComelon</title>
+</programme>
+<programme start="20251103160000 +0000" stop="20251103163000 +0000" channel="Kids TV HD.mncvision">
+    <title>Emak Gue Jawara</title>
+</programme>
 <programme start="20251102172500 +0000" stop="20251102190000 +0000" channel="KIX.mncvision">
     <title>Fist Of Legend</title>
 </programme>

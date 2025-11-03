@@ -8110,7 +8110,7 @@
     <programme start="20251102153000 +0000" stop="20251102180000 +0000" channel="SPOTV2.starhub">
         <title>MLB 2025 World Series - Game 7 Toronto Blue Jays vs Los Angeles Dodgers</title>
     </programme>
-    <programme start="20251102180000 +0000" stop="20251102210500 +0000" channel="SPOTV2.starhub">
+    <programme start="20251102180000 +0000" stop="20251102223500 +0000" channel="SPOTV2.starhub">
         <title>Day 1</title>
     </programme>
     <programme start="20251102223500 +0000" stop="20251103003000 +0000" channel="SPOTV2.starhub">
