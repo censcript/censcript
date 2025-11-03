@@ -134,14 +134,6 @@
     <title>Football: Olympiacos - PSV Eindhoven (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251104024500 +0700" stop="20251104031500 +0700" channel="COSMOTE Sport 3 HD">
-    <title>William Hill Scottish Premiership - Highlights</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251104031500 +0700" stop="20251104034500 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Sports Classics: Temples of Sport</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251104034500 +0700" stop="20251104054500 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Gil Vicente - Santa Clara (L)</title>
     <desc>Live: Ya</desc>
@@ -246,9 +238,9 @@
     <title>Pick n&#039; Roll (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251104020000 +0700" stop="20251104032000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Grand Prix Show 2025 (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20251105041500 +0700" stop="20251105064000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Indiana Pacers - Milwaukee Bucks</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251104032000 +0700" stop="20251104052500 +0700" channel="COSMOTE Sport 5 HD">
     <title>2025 Extreme H</title>
@@ -325,14 +317,6 @@
 <programme start="20251105030000 +0700" stop="20251105050500 +0700" channel="COSMOTE Sport 5 HD">
     <title>Football: Paris Saint Germain - FC Bayern Munchen (L)</title>
     <desc>Live: Ya</desc>
-</programme>
-<programme start="20251104013000 +0700" stop="20251104031000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Handball: MT Melsungen - Lemgo Lippe</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251104031000 +0700" stop="20251104040000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Sports Classics: 2025 Outdoor Specials</title>
-    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251104040000 +0700" stop="20251104053000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Topspin</title>
