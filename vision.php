@@ -562,6 +562,12 @@
 <programme start="20251104050000 +0000" stop="20251104054500 +0000" channel="Trans 7.vision">
 <title>Bocah Petualang</title>
 </programme>
+<programme start="20251104054500 +0000" stop="20251104063000 +0000" channel="Trans 7.vision">
+<title>Indonesiaku</title>
+</programme>
+<programme start="20251104063000 +0000" stop="20251104071500 +0000" channel="Trans 7.vision">
+<title>Ujung-Ujungnya Damkar</title>
+</programme>
 <programme start="20251104071500 +0000" stop="20251104081500 +0000" channel="Trans 7.vision">
 <title>Redaksi</title>
 </programme>
@@ -1491,10 +1497,4 @@
 </programme>
 <programme start="20251105093000 +0000" stop="20251105103000 +0000" channel="BTV.vision">
 <title>Berita Satu Sore</title>
-</programme>
-<programme start="20251105103000 +0000" stop="20251105123000 +0000" channel="BTV.vision">
-<title>Berita Satu Utama</title>
-</programme>
-<programme start="20251103232000 +0000" stop="20251104005000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
 </programme>
