@@ -3280,10 +3280,10 @@
 <programme start="20251103233000 +0000" stop="20251104000000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime</title>
 </programme>
-<programme start="20251104000000 +0000" stop="20251104023000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20251104000000 +0000" stop="20251104024500 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Minnesota Timberwolves @ Brooklyn Nets</title>
 </programme>
-<programme start="20251104023000 +0000" stop="20251104103000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20251104024500 +0000" stop="20251104034000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime - Post Show</title>
 </programme>
 <programme start="20251103234000 +0000" stop="20251104002500 +0000" channel="SYFY HD.skyde">

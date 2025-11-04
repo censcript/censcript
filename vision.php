@@ -688,6 +688,9 @@
 <programme start="20251104153000 +0000" stop="20251104171500 +0000" channel="ANTV.vision">
 <title>The Magnificent Scoundrels</title>
 </programme>
+<programme start="20251104171500 +0000" stop="20251104190000 +0000" channel="ANTV.vision">
+<title>The Storm Warriors</title>
+</programme>
 <programme start="20251104190000 +0000" stop="20251104203000 +0000" channel="ANTV.vision">
 <title>Sang Pembela</title>
 </programme>
@@ -1494,7 +1497,4 @@
 </programme>
 <programme start="20251105093000 +0000" stop="20251105103000 +0000" channel="BTV.vision">
 <title>Berita Satu Sore</title>
-</programme>
-<programme start="20251105103000 +0000" stop="20251105123000 +0000" channel="BTV.vision">
-<title>Berita Satu Utama</title>
 </programme>
