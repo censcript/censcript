@@ -5263,8 +5263,38 @@
     <programme start="20251104153500 +0000" stop="20251104165000 +0000" channel="KBS World HD.starhub">
         <title>The Merchant : Gaekju 2015</title>
     </programme>
-    <programme start="20251103152000 +0000" stop="20251103161500 +0000" channel="TestChannel 996.starhub">
+    <programme start="20251103160000 +0000" stop="20251103161500 +0000" channel="TestChannel 996.starhub">
+        <title>Big Boys Club</title>
+    </programme>
+    <programme start="20251103161500 +0000" stop="20251103165000 +0000" channel="TestChannel 996.starhub">
+        <title>Vengeance of the Bride</title>
+    </programme>
+    <programme start="20251103165000 +0000" stop="20251103173000 +0000" channel="TestChannel 996.starhub">
+        <title>Vengeance of the Bride</title>
+    </programme>
+    <programme start="20251103173000 +0000" stop="20251103183000 +0000" channel="TestChannel 996.starhub">
+        <title>The Litchi Road</title>
+    </programme>
+    <programme start="20251103183000 +0000" stop="20251103190000 +0000" channel="TestChannel 996.starhub">
+        <title>Lo And Behold</title>
+    </programme>
+    <programme start="20251103190000 +0000" stop="20251103200000 +0000" channel="TestChannel 996.starhub">
+        <title>D.I.D. 12</title>
+    </programme>
+    <programme start="20251103200000 +0000" stop="20251103210000 +0000" channel="TestChannel 996.starhub">
+        <title>The Wanted Detective</title>
+    </programme>
+    <programme start="20251103210000 +0000" stop="20251103213000 +0000" channel="TestChannel 996.starhub">
+        <title>Lo And Behold</title>
+    </programme>
+    <programme start="20251103213000 +0000" stop="20251103222000 +0000" channel="TestChannel 996.starhub">
         <title>The Heir to the Throne (with Eng Subs)</title>
+    </programme>
+    <programme start="20251103222000 +0000" stop="20251103231500 +0000" channel="TestChannel 996.starhub">
+        <title>The Heir to the Throne (with Eng Subs)</title>
+    </programme>
+    <programme start="20251103231500 +0000" stop="20251103235000 +0000" channel="TestChannel 996.starhub">
+        <title>Vengeance of the Bride</title>
     </programme>
     <programme start="20251103235000 +0000" stop="20251104003000 +0000" channel="TestChannel 996.starhub">
         <title>Vengeance of the Bride</title>
@@ -6677,10 +6707,10 @@
         <title>WTA Finals Riyadh Day 3 Round Robin Session 3</title>
     </programme>
     <programme start="20251103200000 +0000" stop="20251103203000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>UCI World Tour - Santos Men Tour Down Under Stage 1 H/Ls</title>
+        <title>UCI World Tour - Santos Men Tour Down Under Stage 1 Highlights</title>
     </programme>
     <programme start="20251103203000 +0000" stop="20251103210000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>UCI World Tour - Santos Men Tour Down Under Stage 2 H/Ls</title>
+        <title>UCI World Tour - Santos Men Tour Down Under Stage 2 Highlights</title>
     </programme>
     <programme start="20251103210000 +0000" stop="20251103230000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Guadalajara Open Akron presented by Santander (500) Final</title>
@@ -6752,10 +6782,10 @@
         <title>Sui Dhaaga</title>
     </programme>
     <programme start="20251103160000 +0000" stop="20251103163000 +0000" channel="Sky News HD.starhub">
-        <title>Sky News with Kamali Melbourne</title>
+        <title>Sky News Today with Jayne Secker</title>
     </programme>
     <programme start="20251103163000 +0000" stop="20251103170000 +0000" channel="Sky News HD.starhub">
-        <title>Sky News Today</title>
+        <title>Sky News Today with Jayne Secker</title>
     </programme>
     <programme start="20251103170000 +0000" stop="20251103173000 +0000" channel="Sky News HD.starhub">
         <title>The News Hour With Mark Austin</title>
@@ -6770,10 +6800,10 @@
         <title>The News Hour With Mark Austin</title>
     </programme>
     <programme start="20251103190000 +0000" stop="20251103193000 +0000" channel="Sky News HD.starhub">
-        <title>Politics Hub With Sophy Ridge</title>
+        <title>Politics Hub</title>
     </programme>
     <programme start="20251103193000 +0000" stop="20251103200000 +0000" channel="Sky News HD.starhub">
-        <title>Politics Hub With Sophy Ridge</title>
+        <title>Politics Hub</title>
     </programme>
     <programme start="20251103200000 +0000" stop="20251103203000 +0000" channel="Sky News HD.starhub">
         <title>UK Tonight With Sarah-Jane Mee</title>
@@ -6782,10 +6812,10 @@
         <title>UK Tonight With Sarah-Jane Mee</title>
     </programme>
     <programme start="20251103210000 +0000" stop="20251103213000 +0000" channel="Sky News HD.starhub">
-        <title>Sky News</title>
+        <title>The World with Yalda Hakim</title>
     </programme>
     <programme start="20251103213000 +0000" stop="20251103220000 +0000" channel="Sky News HD.starhub">
-        <title>Sky News</title>
+        <title>The World with Yalda Hakim</title>
     </programme>
     <programme start="20251103220000 +0000" stop="20251103223000 +0000" channel="Sky News HD.starhub">
         <title>News at 10 with Anna Botting</title>

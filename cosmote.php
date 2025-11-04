@@ -126,6 +126,10 @@
     <title>Football: ACF Fiorentina - Lecce</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251105181000 +0700" stop="20251105202000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: AEK - Panetolikos</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251104160500 +0700" stop="20251104181000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Motherwell - St. Mirren</title>
     <desc>Live: Tidak</desc>
@@ -180,6 +184,10 @@
 </programme>
 <programme start="20251105164000 +0700" stop="20251105184000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Tamworth - Leyton Orient</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251105184000 +0700" stop="20251105204000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Olympiacos - PSV Eindhoven</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251104170000 +0700" stop="20251104193000 +0700" channel="COSMOTE Sport 4 HD">
@@ -318,8 +326,8 @@
     <title>Grand Prix Show 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251104140000 +0700" stop="20251104180000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: ATP 250 2025</title>
+<programme start="20251105183500 +0700" stop="20251105190500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251104180000 +0700" stop="20251104183000 +0700" channel="COSMOTE Sport 6 HD">
@@ -331,11 +339,11 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251104200000 +0700" stop="20251104220000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: ATP 250 2025 (L)</title>
+    <title>Tennis: Daniel Altmaier - Arthur Rinderknech (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20251104220000 +0700" stop="20251105003000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: ATP 250 2025 (L)</title>
+    <title>Tennis: Corentin Moutet - Aleksandar Vukic (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20251105003000 +0700" stop="20251105004500 +0700" channel="COSMOTE Sport 6 HD">
@@ -358,11 +366,11 @@
     <title>Tennis: ATP 250 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251105090500 +0700" stop="20251105093000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Sports Highlights</title>
+<programme start="20251105090500 +0700" stop="20251105094000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Sports Classics: The Outdoor Sports Show 2025 E10</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251105093000 +0700" stop="20251105110000 +0700" channel="COSMOTE Sport 6 HD">
+<programme start="20251105094000 +0700" stop="20251105110000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Topspin</title>
     <desc>Live: Tidak</desc>
 </programme>
@@ -382,7 +390,11 @@
     <title>Sports Classics: The Outdoor Sports Show 2025 E10</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251105143000 +0700" stop="20251105160000 +0700" channel="COSMOTE Sport 6 HD">
+<programme start="20251105143000 +0700" stop="20251105144500 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Sports Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251105144500 +0700" stop="20251105160000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Topspin</title>
     <desc>Live: Tidak</desc>
 </programme>

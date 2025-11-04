@@ -568,13 +568,13 @@
 <programme start="20251104054000 +0000" stop="20251104055500 +0000" channel="Cartoonito.skyde">
     <title>SuperThings: Rivalen von Kaboom - Kazoom-Power</title>
 </programme>
-<programme start="20251104055500 +0000" stop="20251104061000 +0000" channel="Cartoonito.skyde">
+<programme start="20251104055500 +0000" stop="20251104060800 +0000" channel="Cartoonito.skyde">
     <title>Barneys Welt</title>
 </programme>
-<programme start="20251104061000 +0000" stop="20251104061500 +0000" channel="Cartoonito.skyde">
+<programme start="20251104060800 +0000" stop="20251104061200 +0000" channel="Cartoonito.skyde">
     <title>Krypto als Retter in Not</title>
 </programme>
-<programme start="20251104061500 +0000" stop="20251104062500 +0000" channel="Cartoonito.skyde">
+<programme start="20251104061200 +0000" stop="20251104062500 +0000" channel="Cartoonito.skyde">
     <title>Krypto als Retter in Not</title>
 </programme>
 <programme start="20251104062500 +0000" stop="20251104063500 +0000" channel="Cartoonito.skyde">
@@ -583,10 +583,10 @@
 <programme start="20251104063500 +0000" stop="20251104065500 +0000" channel="Cartoonito.skyde">
     <title>Batwheels</title>
 </programme>
-<programme start="20251104065500 +0000" stop="20251104072500 +0000" channel="Cartoonito.skyde">
+<programme start="20251104065500 +0000" stop="20251104072000 +0000" channel="Cartoonito.skyde">
     <title>Bleib cool, Scooby-Doo!</title>
 </programme>
-<programme start="20251104072500 +0000" stop="20251104075000 +0000" channel="Cartoonito.skyde">
+<programme start="20251104072000 +0000" stop="20251104075000 +0000" channel="Cartoonito.skyde">
     <title>Bleib cool, Scooby-Doo!</title>
 </programme>
 <programme start="20251104075000 +0000" stop="20251104080000 +0000" channel="Cartoonito.skyde">
@@ -709,10 +709,10 @@
 <programme start="20251104155500 +0000" stop="20251104160500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20251104160500 +0000" stop="20251104162000 +0000" channel="Cartoonito.skyde">
+<programme start="20251104160500 +0000" stop="20251104162500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20251104162000 +0000" stop="20251104163500 +0000" channel="Cartoonito.skyde">
+<programme start="20251104162500 +0000" stop="20251104163500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
 <programme start="20251104163500 +0000" stop="20251104164500 +0000" channel="Cartoonito.skyde">
@@ -736,10 +736,10 @@
 <programme start="20251104173000 +0000" stop="20251104173500 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20251104173500 +0000" stop="20251104174000 +0000" channel="Cartoonito.skyde">
+<programme start="20251104173500 +0000" stop="20251104174500 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20251104174000 +0000" stop="20251104180000 +0000" channel="Cartoonito.skyde">
+<programme start="20251104174500 +0000" stop="20251104180000 +0000" channel="Cartoonito.skyde">
     <title>SuperThings: Rivalen von Kaboom - Kazoom-Power</title>
 </programme>
 <programme start="20251104180000 +0000" stop="20251104182500 +0000" channel="Cartoonito.skyde">
@@ -799,10 +799,10 @@
 <programme start="20251104213500 +0000" stop="20251104215000 +0000" channel="Cartoonito.skyde">
     <title>Batwheels</title>
 </programme>
-<programme start="20251104215000 +0000" stop="20251104220000 +0000" channel="Cartoonito.skyde">
+<programme start="20251104215000 +0000" stop="20251104220500 +0000" channel="Cartoonito.skyde">
     <title>Bugs Bunnys Baumeister</title>
 </programme>
-<programme start="20251104220000 +0000" stop="20251104222000 +0000" channel="Cartoonito.skyde">
+<programme start="20251104220500 +0000" stop="20251104222000 +0000" channel="Cartoonito.skyde">
     <title>Bugs Bunnys Baumeister</title>
 </programme>
 <programme start="20251104222000 +0000" stop="20251104223000 +0000" channel="Cartoonito.skyde">
@@ -2632,7 +2632,7 @@
 <programme start="20251104173500 +0000" stop="20251104195000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live UEFA CL: Slavia Prag - FC Arsenal, Ligaphase, 4. Spieltag, Dienstag</title>
 </programme>
-<programme start="20251104195000 +0000" stop="20251104220000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+<programme start="20251104195000 +0000" stop="20251104223000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live UEFA CL: Tottenham Hotspur - FC Kopenhagen, Ligaphase, 4. Spieltag, Dienstag</title>
 </programme>
 <programme start="20251104193000 +0000" stop="20251104195000 +0000" channel="Sky Sport Austria 5 HD.skyde">
@@ -2656,23 +2656,20 @@
 <programme start="20251104193000 +0000" stop="20251104195000 +0000" channel="Sky Sport Austria 8 HD.skyde">
     <title>Es folgt: Live UEFA Champions League</title>
 </programme>
-<programme start="20251104195000 +0000" stop="20251104220000 +0000" channel="Sky Sport Austria 8 HD.skyde">
+<programme start="20251104195000 +0000" stop="20251104223000 +0000" channel="Sky Sport Austria 8 HD.skyde">
     <title>Live UEFA CL: Olympiakos Piräus - PSV Eindhoven, Ligaphase, 4. Spieltag, Dienstag</title>
 </programme>
-<programme start="20251103230000 +0000" stop="20251103233000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+<programme start="20251103233000 +0000" stop="20251104000000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>Frauen-BL: Alle Spiele, alle Tore, 8. Spieltag komplett</title>
 </programme>
-<programme start="20251103233000 +0000" stop="20251104013000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+<programme start="20251104000000 +0000" stop="20251104020000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>2. BL: 1. FC Nürnberg - Eintracht Braunschweig, 11. Spieltag</title>
 </programme>
-<programme start="20251104013000 +0000" stop="20251104023000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+<programme start="20251104020000 +0000" stop="20251104030000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>2. BL Kompakt: 11. Spieltag</title>
 </programme>
-<programme start="20251104023000 +0000" stop="20251104033000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+<programme start="20251104030000 +0000" stop="20251104040000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL Kompakt: 9. Spieltag</title>
-</programme>
-<programme start="20251104033000 +0000" stop="20251104040000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>2. BL: 90in30: SVD - BIE, 11. Spieltag</title>
 </programme>
 <programme start="20251104040000 +0000" stop="20251104041500 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>2. BL: Torparade 11. Spieltag</title>
@@ -3134,7 +3131,7 @@
     <title>WTA Finals: V. Kudermetova / E. Mertens (BEL) - A. Muhammad (USA) / D. Schuurs (NED), 3. Tag in Riyadh (SAU)</title>
 </programme>
 <programme start="20251104060000 +0000" stop="20251104080000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 250: Topspiel, Hellenic Open in Athen (GRE), 2. Tag</title>
+    <title>ATP 250: J.-L. Struff (GER - A. Muller (FRA), Hellenic Open in Athen (GRE), 2. Tag</title>
 </programme>
 <programme start="20251104080000 +0000" stop="20251104100000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA Finals: I. Swiatek (POL) - E. Rybakina (KAZ), 3. Tag in Riyadh (SAU)</title>
@@ -3143,25 +3140,25 @@
     <title>WTA Finals: A. Anisimova (USA) - M. Keys (USA), 3. Tag in Riyadh (SAU)</title>
 </programme>
 <programme start="20251104120000 +0000" stop="20251104140000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live WTA Finals: Doppel 1, 4. Tag in Riyadh (SAU)</title>
+    <title>Live WTA Finals: K. Siniakova (CZE)/T. Townsend (USA) - G. Dabrowski (CAN)/E. Routliffe (NZL), 4. Tag in Riyadh (SAU)</title>
 </programme>
 <programme start="20251104140000 +0000" stop="20251104160000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live WTA Finals: Einzel 1, 4. Tag in Riyadh (SAU)</title>
+    <title>Live WTA Finals: C. Gauff (USA) - J. Paolini (ITA), 4. Tag in Riyadh (SAU)</title>
 </programme>
 <programme start="20251104160000 +0000" stop="20251104180000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live WTA Finals: Einzel 2, 4. Tag in Riyadh (SAU)</title>
+    <title>Live WTA Finals: A. Sabalenka - J. Pegula (USA), 4. Tag in Riyadh (SAU)</title>
 </programme>
 <programme start="20251104180000 +0000" stop="20251104200000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live WTA Finals: Doppel 2, 4. Tag in Riyadh (SAU)</title>
+    <title>Live WTA Finals: M. Andreeva/D. Shnaider - T. Babos (HUN)/L. Stefani (BRA), 4. Tag in Riyadh (SAU)</title>
 </programme>
 <programme start="20251104200000 +0000" stop="20251104203000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: Review Wuhan</title>
 </programme>
 <programme start="20251104203000 +0000" stop="20251104223000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA Finals: Einzel 1, 4. Tag in Riyadh (SAU)</title>
+    <title>WTA Finals: C. Gauff (USA) - J. Paolini (ITA), 4. Tag in Riyadh (SAU)</title>
 </programme>
 <programme start="20251104223000 +0000" stop="20251105003000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA Finals: Einzel 2, 4. Tag in Riyadh (SAU)</title>
+    <title>WTA Finals: A. Sabalenka - J. Pegula (USA), 4. Tag in Riyadh (SAU)</title>
 </programme>
 <programme start="20251103230000 +0000" stop="20251103233000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Frauen-BL: Alle Spiele, alle Tore, 8. Spieltag komplett</title>
@@ -3169,13 +3166,13 @@
 <programme start="20251103233000 +0000" stop="20251104000000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Showtime</title>
 </programme>
-<programme start="20251104000000 +0000" stop="20251104023000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20251104000000 +0000" stop="20251104024500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Minnesota Timberwolves @ Brooklyn Nets</title>
 </programme>
-<programme start="20251104023000 +0000" stop="20251104030000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20251104024500 +0000" stop="20251104031500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Showtime - Post Show</title>
 </programme>
-<programme start="20251104030000 +0000" stop="20251104040000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20251104031500 +0000" stop="20251104040000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>ATP 1000: Review Paris</title>
 </programme>
 <programme start="20251104040000 +0000" stop="20251104041500 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3221,16 +3218,16 @@
     <title>BL: Torparade 9. Spieltag</title>
 </programme>
 <programme start="20251104120000 +0000" stop="20251104140000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live WTA Finals: Doppel 1, 4. Tag in Riyadh (SAU)</title>
+    <title>Live WTA Finals: K. Siniakova (CZE)/T. Townsend (USA) - G. Dabrowski (CAN)/E. Routliffe (NZL), 4. Tag in Riyadh (SAU)</title>
 </programme>
 <programme start="20251104140000 +0000" stop="20251104160000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live WTA Finals: Einzel 1, 4. Tag in Riyadh (SAU)</title>
+    <title>Live WTA Finals: C. Gauff (USA) - J. Paolini (ITA), 4. Tag in Riyadh (SAU)</title>
 </programme>
 <programme start="20251104160000 +0000" stop="20251104180000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live WTA Finals: Einzel 2, 4. Tag in Riyadh (SAU)</title>
+    <title>Live WTA Finals: A. Sabalenka - J. Pegula (USA), 4. Tag in Riyadh (SAU)</title>
 </programme>
 <programme start="20251104180000 +0000" stop="20251104200000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live WTA Finals: Doppel 2, 4. Tag in Riyadh (SAU)</title>
+    <title>Live WTA Finals: M. Andreeva/D. Shnaider - T. Babos (HUN)/L. Stefani (BRA), 4. Tag in Riyadh (SAU)</title>
 </programme>
 <programme start="20251104200000 +0000" stop="20251104203000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>NHL: On the Fly</title>
@@ -3283,10 +3280,10 @@
 <programme start="20251103233000 +0000" stop="20251104000000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime</title>
 </programme>
-<programme start="20251104000000 +0000" stop="20251104024500 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20251104000000 +0000" stop="20251104023000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Minnesota Timberwolves @ Brooklyn Nets</title>
 </programme>
-<programme start="20251104024500 +0000" stop="20251104034000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20251104023000 +0000" stop="20251104090000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime - Post Show</title>
 </programme>
 <programme start="20251103234000 +0000" stop="20251104002500 +0000" channel="SYFY HD.skyde">
@@ -3466,10 +3463,10 @@
 <programme start="20251104015500 +0000" stop="20251104020500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Robot Chicken</title>
 </programme>
-<programme start="20251104020500 +0000" stop="20251104022000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251104020500 +0000" stop="20251104021500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Robot Chicken</title>
 </programme>
-<programme start="20251104022000 +0000" stop="20251104023000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251104021500 +0000" stop="20251104023000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Robot Chicken</title>
 </programme>
 <programme start="20251104023000 +0000" stop="20251104025000 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3490,10 +3487,10 @@
 <programme start="20251104042000 +0000" stop="20251104044000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20251104044000 +0000" stop="20251104050500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251104044000 +0000" stop="20251104050000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20251104050500 +0000" stop="20251104053000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251104050000 +0000" stop="20251104053000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
 <programme start="20251104053000 +0000" stop="20251104055500 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3562,10 +3559,10 @@
 <programme start="20251104142000 +0000" stop="20251104144500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
-<programme start="20251104144500 +0000" stop="20251104151500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251104144500 +0000" stop="20251104151000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
-<programme start="20251104151500 +0000" stop="20251104154000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251104151000 +0000" stop="20251104154000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
 <programme start="20251104154000 +0000" stop="20251104160500 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3715,19 +3712,19 @@
 <programme start="20251104034000 +0000" stop="20251104035000 +0000" channel="Warner TV Serie HD.skyde">
     <title>NTSF:SD:SUV::</title>
 </programme>
-<programme start="20251104035000 +0000" stop="20251104040000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20251104035000 +0000" stop="20251104040500 +0000" channel="Warner TV Serie HD.skyde">
     <title>NTSF:SD:SUV::</title>
 </programme>
-<programme start="20251104040000 +0000" stop="20251104041000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20251104040500 +0000" stop="20251104041500 +0000" channel="Warner TV Serie HD.skyde">
     <title>NTSF:SD:SUV::</title>
 </programme>
-<programme start="20251104041000 +0000" stop="20251104042500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20251104041500 +0000" stop="20251104042500 +0000" channel="Warner TV Serie HD.skyde">
     <title>NTSF:SD:SUV::</title>
 </programme>
-<programme start="20251104042500 +0000" stop="20251104051500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20251104042500 +0000" stop="20251104051000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Daktari</title>
 </programme>
-<programme start="20251104051500 +0000" stop="20251104061000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20251104051000 +0000" stop="20251104061000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Mord ist ihr Hobby</title>
 </programme>
 <programme start="20251104061000 +0000" stop="20251104070000 +0000" channel="Warner TV Serie HD.skyde">
@@ -3751,10 +3748,10 @@
 <programme start="20251104111000 +0000" stop="20251104120000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Unsere kleine Farm</title>
 </programme>
-<programme start="20251104120000 +0000" stop="20251104125000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20251104120000 +0000" stop="20251104125500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Unsere kleine Farm</title>
 </programme>
-<programme start="20251104125000 +0000" stop="20251104134500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20251104125500 +0000" stop="20251104134500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Unsere kleine Farm</title>
 </programme>
 <programme start="20251104134500 +0000" stop="20251104143500 +0000" channel="Warner TV Serie HD.skyde">

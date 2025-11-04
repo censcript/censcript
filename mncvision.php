@@ -94,11 +94,492 @@
 <programme start="20251104163000 +0000" stop="20251103170000 +0000" channel="ABC Australia.mncvision">
     <title>Australia&#039;s Wild Moments</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20251103170000 +0000" stop="20251103173000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20251103173000 +0000" stop="20251103180000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Inside Story</title>
+</programme>
+<programme start="20251103180000 +0000" stop="20251103190000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
+</programme>
+<programme start="20251103190000 +0000" stop="20251103193000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20251103193000 +0000" stop="20251103200000 +0000" channel="Al Jazeera English.mncvision">
+    <title>The Stream</title>
+</programme>
+<programme start="20251103200000 +0000" stop="20251103203000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20251103203000 +0000" stop="20251103210000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Inside Story</title>
+</programme>
+<programme start="20251103210000 +0000" stop="20251103220000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
+</programme>
+<programme start="20251103220000 +0000" stop="20251103223000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20251103223000 +0000" stop="20251103230000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Witness: Fire Beneath Her</title>
+</programme>
+<programme start="20251103230000 +0000" stop="20251103233000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20251103233000 +0000" stop="20251104000000 +0000" channel="Al Jazeera English.mncvision">
+    <title>101 East: Snake Rescuers</title>
+</programme>
+<programme start="20251104000000 +0000" stop="20251104003000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20251104003000 +0000" stop="20251104010000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Inside Story</title>
+</programme>
+<programme start="20251104010000 +0000" stop="20251104020000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Witness: Invisible Beauty</title>
+</programme>
+<programme start="20251104020000 +0000" stop="20251104023000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20251104023000 +0000" stop="20251104030000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Talk To Al Jazeera: Sandra Diaz</title>
+</programme>
+<programme start="20251104030000 +0000" stop="20251104033000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20251104033000 +0000" stop="20251104040000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Big Picture: How Israel Won...</title>
+</programme>
+<programme start="20251104040000 +0000" stop="20251104043000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20251104043000 +0000" stop="20251104050000 +0000" channel="Al Jazeera English.mncvision">
+    <title>The Stream: AI&#039;s Impact On Jobs</title>
+</programme>
+<programme start="20251104050000 +0000" stop="20251104053000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20251104053000 +0000" stop="20251104060000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Inside Story</title>
+</programme>
+<programme start="20251104060000 +0000" stop="20251104063000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20251104063000 +0000" stop="20251104070000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Earthrise: Systems Change</title>
+</programme>
+<programme start="20251104070000 +0000" stop="20251104080000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
+</programme>
+<programme start="20251104080000 +0000" stop="20251104083000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20251104083000 +0000" stop="20251104090000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Witness: Fire Beneath Her</title>
+</programme>
+<programme start="20251104090000 +0000" stop="20251104093000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20251104093000 +0000" stop="20251104100000 +0000" channel="Al Jazeera English.mncvision">
+    <title>The Listening Post</title>
+</programme>
+<programme start="20251104100000 +0000" stop="20251104110000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
+</programme>
+<programme start="20251104110000 +0000" stop="20251104113000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20251104113000 +0000" stop="20251104120000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Inside Story</title>
+</programme>
+<programme start="20251104120000 +0000" stop="20251104130000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Al Jazeera World: Price Of...</title>
+</programme>
+<programme start="20251104130000 +0000" stop="20251104140000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
+</programme>
+<programme start="20251104140000 +0000" stop="20251104143000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20251104143000 +0000" stop="20251104150000 +0000" channel="Al Jazeera English.mncvision">
+    <title>The Stream: AI&#039;s Impact On Jobs</title>
+</programme>
+<programme start="20251104150000 +0000" stop="20251104160000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
+</programme>
+<programme start="20251104160000 +0000" stop="20251104163000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20251104163000 +0000" stop="20251103170000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Apocalypse Maybe: OK, Doomer!</title>
+</programme>
+<programme start="20251103170000 +0000" stop="20251103190000 +0000" channel="Al Quran Al Kareem.mncvision">
+    <title>Live From Mekkah</title>
+</programme>
+<programme start="20251103190000 +0000" stop="20251103210000 +0000" channel="Al Quran Al Kareem.mncvision">
+    <title>Live From Mekkah</title>
+</programme>
+<programme start="20251103210000 +0000" stop="20251103230000 +0000" channel="Al Quran Al Kareem.mncvision">
+    <title>Live From Mekkah</title>
+</programme>
+<programme start="20251103230000 +0000" stop="20251104010000 +0000" channel="Al Quran Al Kareem.mncvision">
+    <title>Live From Mekkah</title>
+</programme>
+<programme start="20251104010000 +0000" stop="20251104030000 +0000" channel="Al Quran Al Kareem.mncvision">
+    <title>Live From Mekkah</title>
+</programme>
+<programme start="20251104030000 +0000" stop="20251104050000 +0000" channel="Al Quran Al Kareem.mncvision">
+    <title>Live From Mekkah</title>
+</programme>
+<programme start="20251104050000 +0000" stop="20251104070000 +0000" channel="Al Quran Al Kareem.mncvision">
+    <title>Live From Mekkah</title>
+</programme>
+<programme start="20251104070000 +0000" stop="20251104090000 +0000" channel="Al Quran Al Kareem.mncvision">
+    <title>Live From Mekkah</title>
+</programme>
+<programme start="20251104090000 +0000" stop="20251104110000 +0000" channel="Al Quran Al Kareem.mncvision">
+    <title>Live From Mekkah</title>
+</programme>
+<programme start="20251104110000 +0000" stop="20251104130000 +0000" channel="Al Quran Al Kareem.mncvision">
+    <title>Live From Mekkah</title>
+</programme>
+<programme start="20251104130000 +0000" stop="20251104150000 +0000" channel="Al Quran Al Kareem.mncvision">
+    <title>Live From Mekkah</title>
+</programme>
+<programme start="20251104150000 +0000" stop="20251104153000 +0000" channel="Al Quran Al Kareem.mncvision">
+    <title>Live From Mekkah</title>
+</programme>
+<programme start="20251103170000 +0000" stop="20251103173000 +0000" channel="Animax.mncvision">
+    <title>Buddy Daddies, Ep 5</title>
+</programme>
+<programme start="20251103173000 +0000" stop="20251103180000 +0000" channel="Animax.mncvision">
+    <title>Buddy Daddies, Ep 6</title>
+</programme>
+<programme start="20251103180000 +0000" stop="20251103183000 +0000" channel="Animax.mncvision">
+    <title>D.Gray-Man, Ep 55</title>
+</programme>
+<programme start="20251103183000 +0000" stop="20251103190000 +0000" channel="Animax.mncvision">
+    <title>D.Gray-Man, Ep 56</title>
+</programme>
+<programme start="20251103190000 +0000" stop="20251103193000 +0000" channel="Animax.mncvision">
+    <title>Witch Watch, Ep 2</title>
+</programme>
+<programme start="20251103193000 +0000" stop="20251103200000 +0000" channel="Animax.mncvision">
+    <title>Witch Watch, Ep 3</title>
+</programme>
+<programme start="20251103200000 +0000" stop="20251103203000 +0000" channel="Animax.mncvision">
+    <title>I&#039;ll Become A..., Ep 8</title>
+</programme>
+<programme start="20251103203000 +0000" stop="20251103210000 +0000" channel="Animax.mncvision">
+    <title>I&#039;ll Become A..., Ep 9</title>
+</programme>
+<programme start="20251103210000 +0000" stop="20251103213000 +0000" channel="Animax.mncvision">
+    <title>Buddy Daddies, Ep 5</title>
+</programme>
+<programme start="20251103213000 +0000" stop="20251103220000 +0000" channel="Animax.mncvision">
+    <title>Buddy Daddies, Ep 6</title>
+</programme>
+<programme start="20251103220000 +0000" stop="20251103223000 +0000" channel="Animax.mncvision">
+    <title>D.Gray-Man, Ep 55</title>
+</programme>
+<programme start="20251103223000 +0000" stop="20251103230000 +0000" channel="Animax.mncvision">
+    <title>D.Gray-Man, Ep 56</title>
+</programme>
+<programme start="20251103230000 +0000" stop="20251103233000 +0000" channel="Animax.mncvision">
+    <title>I&#039;ll Become A..., Ep 8</title>
+</programme>
+<programme start="20251103233000 +0000" stop="20251104000000 +0000" channel="Animax.mncvision">
+    <title>I&#039;ll Become A..., Ep 9</title>
+</programme>
+<programme start="20251104000000 +0000" stop="20251104003000 +0000" channel="Animax.mncvision">
+    <title>Witch Watch, Ep 2</title>
+</programme>
+<programme start="20251104003000 +0000" stop="20251104010000 +0000" channel="Animax.mncvision">
+    <title>Witch Watch, Ep 3</title>
+</programme>
+<programme start="20251104010000 +0000" stop="20251104013000 +0000" channel="Animax.mncvision">
+    <title>D.Gray-Man, Ep 55</title>
+</programme>
+<programme start="20251104013000 +0000" stop="20251104020000 +0000" channel="Animax.mncvision">
+    <title>D.Gray-Man, Ep 56</title>
+</programme>
+<programme start="20251104020000 +0000" stop="20251104023000 +0000" channel="Animax.mncvision">
+    <title>Buddy Daddies, Ep 5</title>
+</programme>
+<programme start="20251104023000 +0000" stop="20251104030000 +0000" channel="Animax.mncvision">
+    <title>Buddy Daddies, Ep 6</title>
+</programme>
+<programme start="20251104030000 +0000" stop="20251104033000 +0000" channel="Animax.mncvision">
+    <title>I&#039;ll Become A..., Ep 8</title>
+</programme>
+<programme start="20251104033000 +0000" stop="20251104040000 +0000" channel="Animax.mncvision">
+    <title>I&#039;ll Become A..., Ep 9</title>
+</programme>
+<programme start="20251104040000 +0000" stop="20251104043000 +0000" channel="Animax.mncvision">
+    <title>Witch Watch, Ep 2</title>
+</programme>
+<programme start="20251104043000 +0000" stop="20251104050000 +0000" channel="Animax.mncvision">
+    <title>Witch Watch, Ep 3</title>
+</programme>
+<programme start="20251104050000 +0000" stop="20251104053000 +0000" channel="Animax.mncvision">
+    <title>D.Gray-Man, Ep 55</title>
+</programme>
+<programme start="20251104053000 +0000" stop="20251104060000 +0000" channel="Animax.mncvision">
+    <title>D.Gray-Man, Ep 56</title>
+</programme>
+<programme start="20251104060000 +0000" stop="20251104063000 +0000" channel="Animax.mncvision">
+    <title>Buddy Daddies, Ep 5</title>
+</programme>
+<programme start="20251104063000 +0000" stop="20251104070000 +0000" channel="Animax.mncvision">
+    <title>Buddy Daddies, Ep 6</title>
+</programme>
+<programme start="20251104070000 +0000" stop="20251104073000 +0000" channel="Animax.mncvision">
+    <title>I&#039;ll Become A..., Ep 8</title>
+</programme>
+<programme start="20251104073000 +0000" stop="20251104080000 +0000" channel="Animax.mncvision">
+    <title>I&#039;ll Become A..., Ep 9</title>
+</programme>
+<programme start="20251104080000 +0000" stop="20251104083000 +0000" channel="Animax.mncvision">
+    <title>D.Gray-Man, Ep 55</title>
+</programme>
+<programme start="20251104083000 +0000" stop="20251104090000 +0000" channel="Animax.mncvision">
+    <title>D.Gray-Man, Ep 56</title>
+</programme>
+<programme start="20251104090000 +0000" stop="20251104093000 +0000" channel="Animax.mncvision">
+    <title>Legend Of Galactic Heroes, Ep 5</title>
+</programme>
+<programme start="20251104093000 +0000" stop="20251104100000 +0000" channel="Animax.mncvision">
+    <title>Legend Of Galactic Heroes, Ep 6</title>
+</programme>
+<programme start="20251104100000 +0000" stop="20251104103000 +0000" channel="Animax.mncvision">
+    <title>D.Gray-Man, Ep 56</title>
+</programme>
+<programme start="20251104103000 +0000" stop="20251104110000 +0000" channel="Animax.mncvision">
+    <title>D.Gray-Man, Ep 57</title>
+</programme>
+<programme start="20251104110000 +0000" stop="20251104113000 +0000" channel="Animax.mncvision">
+    <title>I&#039;ll Become A..., Ep 9</title>
+</programme>
+<programme start="20251104113000 +0000" stop="20251104120000 +0000" channel="Animax.mncvision">
+    <title>I&#039;ll Become A..., Ep 10</title>
+</programme>
+<programme start="20251104120000 +0000" stop="20251104123000 +0000" channel="Animax.mncvision">
+    <title>Witch Watch, Ep 3</title>
+</programme>
+<programme start="20251104123000 +0000" stop="20251104130000 +0000" channel="Animax.mncvision">
+    <title>Witch Watch, Ep 4</title>
+</programme>
+<programme start="20251104130000 +0000" stop="20251104133000 +0000" channel="Animax.mncvision">
+    <title>I&#039;ll Become A..., Ep 9</title>
+</programme>
+<programme start="20251104133000 +0000" stop="20251104140000 +0000" channel="Animax.mncvision">
+    <title>I&#039;ll Become A..., Ep 10</title>
+</programme>
+<programme start="20251104140000 +0000" stop="20251104143000 +0000" channel="Animax.mncvision">
+    <title>Buddy Daddies, Ep 7</title>
+</programme>
+<programme start="20251104143000 +0000" stop="20251104150000 +0000" channel="Animax.mncvision">
+    <title>Buddy Daddies, Ep 8</title>
+</programme>
+<programme start="20251104150000 +0000" stop="20251104153000 +0000" channel="Animax.mncvision">
+    <title>I&#039;ll Become A..., Ep 9</title>
+</programme>
+<programme start="20251104153000 +0000" stop="20251104160000 +0000" channel="Animax.mncvision">
+    <title>I&#039;ll Become A..., Ep 10</title>
+</programme>
+<programme start="20251104160000 +0000" stop="20251104163000 +0000" channel="Animax.mncvision">
+    <title>Witch Watch, Ep 3</title>
+</programme>
+<programme start="20251104163000 +0000" stop="20251103170000 +0000" channel="Animax.mncvision">
+    <title>Witch Watch, Ep 4</title>
+</programme>
+<programme start="20251103183000 +0000" stop="20251103203000 +0000" channel="ANTV.mncvision">
+    <title>Batara Karang</title>
+</programme>
+<programme start="20251103203000 +0000" stop="20251103220000 +0000" channel="ANTV.mncvision">
+    <title>Perjanjian Terlarang</title>
+</programme>
+<programme start="20251103220000 +0000" stop="20251103223000 +0000" channel="ANTV.mncvision">
+    <title>Nath</title>
+</programme>
+<programme start="20251103223000 +0000" stop="20251103233000 +0000" channel="ANTV.mncvision">
+    <title>Masha And The Bear</title>
+</programme>
+<programme start="20251103233000 +0000" stop="20251104013000 +0000" channel="ANTV.mncvision">
+    <title>Ateng Kaya Mendadak</title>
+</programme>
+<programme start="20251104013000 +0000" stop="20251104030000 +0000" channel="ANTV.mncvision">
+    <title>Mangal Lakshmi</title>
+</programme>
+<programme start="20251104030000 +0000" stop="20251104063000 +0000" channel="ANTV.mncvision">
+    <title>War</title>
+</programme>
+<programme start="20251104063000 +0000" stop="20251104080000 +0000" channel="ANTV.mncvision">
+    <title>Cinta Keluarga Pandya</title>
+</programme>
+<programme start="20251104080000 +0000" stop="20251104093000 +0000" channel="ANTV.mncvision">
+    <title>Zeynep</title>
+</programme>
+<programme start="20251104093000 +0000" stop="20251104133000 +0000" channel="ANTV.mncvision">
+    <title>Takdir Cinta Layla</title>
+</programme>
+<programme start="20251104133000 +0000" stop="20251104153000 +0000" channel="ANTV.mncvision">
+    <title>Rindu Tak Berujung</title>
+</programme>
+<programme start="20251104153000 +0000" stop="20251104160000 +0000" channel="ANTV.mncvision">
+    <title>The Magnificent Scoundrels</title>
+</programme>
+<programme start="20251103170000 +0000" stop="20251103173000 +0000" channel="Arirang.mncvision">
+    <title>The Kulture Wave</title>
+</programme>
+<programme start="20251103173000 +0000" stop="20251103180000 +0000" channel="Arirang.mncvision">
+    <title>Within The Frame</title>
+</programme>
+<programme start="20251103180000 +0000" stop="20251103181500 +0000" channel="Arirang.mncvision">
+    <title>1Day 1K-Culture: K-Trend</title>
+</programme>
+<programme start="20251103181500 +0000" stop="20251103183000 +0000" channel="Arirang.mncvision">
+    <title>Arirang Land</title>
+</programme>
+<programme start="20251103183000 +0000" stop="20251103185000 +0000" channel="Arirang.mncvision">
+    <title>Korea Travelogue 5</title>
+</programme>
+<programme start="20251103185000 +0000" stop="20251103190000 +0000" channel="Arirang.mncvision">
+    <title>Discovering Korea: Food</title>
+</programme>
+<programme start="20251103190000 +0000" stop="20251103200000 +0000" channel="Arirang.mncvision">
+    <title>Gugak: The Music Of Korea</title>
+</programme>
+<programme start="20251103200000 +0000" stop="20251103203000 +0000" channel="Arirang.mncvision">
+    <title>Diplomat&#039;s Archive: Hidden</title>
+</programme>
+<programme start="20251103203000 +0000" stop="20251103210000 +0000" channel="Arirang.mncvision">
+    <title>Arirang Special</title>
+</programme>
+<programme start="20251103210000 +0000" stop="20251103213000 +0000" channel="Arirang.mncvision">
+    <title>Press Perspective</title>
+</programme>
+<programme start="20251103213000 +0000" stop="20251103215000 +0000" channel="Arirang.mncvision">
+    <title>Korea Travelogue 5</title>
+</programme>
+<programme start="20251103215000 +0000" stop="20251103220000 +0000" channel="Arirang.mncvision">
+    <title>Discovering Korea: Food</title>
+</programme>
+<programme start="20251103220000 +0000" stop="20251103222000 +0000" channel="Arirang.mncvision">
+    <title>The Grand Heritage ASMR</title>
+</programme>
+<programme start="20251103222000 +0000" stop="20251103223000 +0000" channel="Arirang.mncvision">
+    <title>Hanok Scene</title>
+</programme>
+<programme start="20251103223000 +0000" stop="20251103230000 +0000" channel="Arirang.mncvision">
+    <title>Premium Collection</title>
+</programme>
+<programme start="20251103230000 +0000" stop="20251103232000 +0000" channel="Arirang.mncvision">
+    <title>K-Arts Artists</title>
+</programme>
+<programme start="20251103232000 +0000" stop="20251103233000 +0000" channel="Arirang.mncvision">
+    <title>Exploring Korean Literature B</title>
+</programme>
+<programme start="20251103233000 +0000" stop="20251103235000 +0000" channel="Arirang.mncvision">
+    <title>1Day 1K-Culture: K-People</title>
+</programme>
+<programme start="20251103235000 +0000" stop="20251104000000 +0000" channel="Arirang.mncvision">
+    <title>SmartBiz Accelerators 2</title>
+</programme>
+<programme start="20251104000000 +0000" stop="20251104001000 +0000" channel="Arirang.mncvision">
+    <title>K-Chat: Conversing In Korean</title>
+</programme>
+<programme start="20251104001000 +0000" stop="20251104002000 +0000" channel="Arirang.mncvision">
+    <title>K-Chat: Travel In Korea</title>
+</programme>
+<programme start="20251104002000 +0000" stop="20251104003000 +0000" channel="Arirang.mncvision">
+    <title>Exploring Korean Literature B</title>
+</programme>
+<programme start="20251104003000 +0000" stop="20251104005000 +0000" channel="Arirang.mncvision">
+    <title>Drawing Diary</title>
+</programme>
+<programme start="20251104005000 +0000" stop="20251104010000 +0000" channel="Arirang.mncvision">
+    <title>Exploring Korean Literature A</title>
+</programme>
+<programme start="20251104010000 +0000" stop="20251104013000 +0000" channel="Arirang.mncvision">
+    <title>New Day At Arirang</title>
+</programme>
+<programme start="20251104013000 +0000" stop="20251104020000 +0000" channel="Arirang.mncvision">
+    <title>News Generation (L)</title>
+</programme>
+<programme start="20251104020000 +0000" stop="20251104030000 +0000" channel="Arirang.mncvision">
+    <title>Culture Crunch (L)</title>
+</programme>
+<programme start="20251104030000 +0000" stop="20251104033000 +0000" channel="Arirang.mncvision">
+    <title>Arirang News</title>
+</programme>
+<programme start="20251104033000 +0000" stop="20251104040000 +0000" channel="Arirang.mncvision">
+    <title>The Globalists</title>
+</programme>
+<programme start="20251104040000 +0000" stop="20251104041000 +0000" channel="Arirang.mncvision">
+    <title>Spotlight: Rookies</title>
+</programme>
+<programme start="20251104041000 +0000" stop="20251104042000 +0000" channel="Arirang.mncvision">
+    <title>Spotlight: Rookies</title>
+</programme>
+<programme start="20251104042000 +0000" stop="20251104043000 +0000" channel="Arirang.mncvision">
+    <title>Spotlight: Rookies</title>
+</programme>
+<programme start="20251104043000 +0000" stop="20251104050000 +0000" channel="Arirang.mncvision">
+    <title>Danstargram 2</title>
+</programme>
+<programme start="20251104050000 +0000" stop="20251104053000 +0000" channel="Arirang.mncvision">
+    <title>The Kulture Wave (L)</title>
+</programme>
+<programme start="20251104053000 +0000" stop="20251104060000 +0000" channel="Arirang.mncvision">
+    <title>News Generation</title>
+</programme>
+<programme start="20251104060000 +0000" stop="20251104063000 +0000" channel="Arirang.mncvision">
+    <title>Regional Tastes: Gangwon</title>
+</programme>
+<programme start="20251104063000 +0000" stop="20251104065000 +0000" channel="Arirang.mncvision">
+    <title>K-Arts Artists</title>
+</programme>
+<programme start="20251104065000 +0000" stop="20251104070000 +0000" channel="Arirang.mncvision">
+    <title>Exploring Korean Literature B</title>
+</programme>
+<programme start="20251104070000 +0000" stop="20251104070500 +0000" channel="Arirang.mncvision">
+    <title>AI Headline News</title>
+</programme>
+<programme start="20251104070500 +0000" stop="20251104073000 +0000" channel="Arirang.mncvision">
+    <title>Drawing Diary</title>
+</programme>
+<programme start="20251104073000 +0000" stop="20251104074000 +0000" channel="Arirang.mncvision">
+    <title>Exploring Korean Literature A</title>
+</programme>
+<programme start="20251104074000 +0000" stop="20251104080000 +0000" channel="Arirang.mncvision">
+    <title>1Day 1K-Culture: K-People</title>
+</programme>
+<programme start="20251104080000 +0000" stop="20251104083000 +0000" channel="Arirang.mncvision">
+    <title>The Daily Report</title>
+</programme>
+<programme start="20251104083000 +0000" stop="20251104090000 +0000" channel="Arirang.mncvision">
+    <title>Press Perspective (L)</title>
+</programme>
+<programme start="20251104090000 +0000" stop="20251104091000 +0000" channel="Arirang.mncvision">
+    <title>Spotlight: Rookies</title>
+</programme>
+<programme start="20251104091000 +0000" stop="20251104092000 +0000" channel="Arirang.mncvision">
+    <title>Spotlight: Rookies</title>
+</programme>
+<programme start="20251104092000 +0000" stop="20251104093000 +0000" channel="Arirang.mncvision">
+    <title>Spotlight: Rookies</title>
+</programme>
+<programme start="20251104093000 +0000" stop="20251104100000 +0000" channel="Arirang.mncvision">
+    <title>Danstargram 2</title>
+</programme>
+<programme start="20251104100000 +0000" stop="20251104100500 +0000" channel="Arirang.mncvision">
+    <title>AI Headline News</title>
+</programme>
+<programme start="20251104100500 +0000" stop="20251104103500 +0000" channel="Arirang.mncvision">
+    <title>The Globalists</title>
+</programme>
 <programme start="20251103172500 +0000" stop="20251103182000 +0000" channel="AXN.mncvision">
     <title>Blue Bloods S14, Ep 18</title>
 </programme>
@@ -3255,7 +3736,51 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20251104045000 +0000" stop="20251104052000 +0000" channel="France 24 English.mncvision">
     <title>Introduction (L)</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20251103180000 +0000" stop="20251103193000 +0000" channel="Galaxy.mncvision">
+    <title>Shut In</title>
+</programme>
+<programme start="20251103193000 +0000" stop="20251103211500 +0000" channel="Galaxy.mncvision">
+    <title>Time Is Up</title>
+</programme>
+<programme start="20251103211500 +0000" stop="20251103230500 +0000" channel="Galaxy.mncvision">
+    <title>Outlaws And Angels</title>
+</programme>
+<programme start="20251103230500 +0000" stop="20251104004000 +0000" channel="Galaxy.mncvision">
+    <title>Alone We Fight</title>
+</programme>
+<programme start="20251104004000 +0000" stop="20251104023000 +0000" channel="Galaxy.mncvision">
+    <title>Elizabeth Harvest</title>
+</programme>
+<programme start="20251104023000 +0000" stop="20251104040000 +0000" channel="Galaxy.mncvision">
+    <title>Beneath Us</title>
+</programme>
+<programme start="20251104040000 +0000" stop="20251104052500 +0000" channel="Galaxy.mncvision">
+    <title>Evil Dead</title>
+</programme>
+<programme start="20251104052500 +0000" stop="20251104065500 +0000" channel="Galaxy.mncvision">
+    <title>War Pigs</title>
+</programme>
+<programme start="20251104065500 +0000" stop="20251104083000 +0000" channel="Galaxy.mncvision">
+    <title>A Mermaid&#039;s Tale</title>
+</programme>
+<programme start="20251104083000 +0000" stop="20251104102500 +0000" channel="Galaxy.mncvision">
+    <title>Call Me King</title>
+</programme>
+<programme start="20251104102500 +0000" stop="20251104120000 +0000" channel="Galaxy.mncvision">
+    <title>Detachment</title>
+</programme>
+<programme start="20251104120000 +0000" stop="20251104133500 +0000" channel="Galaxy.mncvision">
+    <title>Empire State</title>
+</programme>
+<programme start="20251104133500 +0000" stop="20251104150000 +0000" channel="Galaxy.mncvision">
+    <title>American Boogeywoman</title>
+</programme>
+<programme start="20251104150000 +0000" stop="20251104163000 +0000" channel="Galaxy.mncvision">
+    <title>You&#039;re Not Alone</title>
+</programme>
+<programme start="20251104163000 +0000" stop="20251103170000 +0000" channel="Galaxy.mncvision">
+    <title>Operation Seawolf</title>
+</programme>
 <programme start="20251103185000 +0000" stop="20251103210000 +0000" channel="Galaxy Premium.mncvision">
     <title>Mission...: Ghost Protocol</title>
 </programme>
@@ -3577,7 +4102,96 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20251104160000 +0000" stop="20251104163000 +0000" channel="GTV HD.mncvision">
     <title>Buletin iNews Malam</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20251103180000 +0000" stop="20251103183000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Arwah Lelembut</title>
+</programme>
+<programme start="20251103183000 +0000" stop="20251103190000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Dagelan Jowo New</title>
+</programme>
+<programme start="20251103190000 +0000" stop="20251103200000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Cerita Jawa</title>
+</programme>
+<programme start="20251103200000 +0000" stop="20251103210000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Konco Ngaso</title>
+</programme>
+<programme start="20251103210000 +0000" stop="20251103213000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Jan Enak Tenan</title>
+</programme>
+<programme start="20251103213000 +0000" stop="20251103220000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Pawartos Jawi</title>
+</programme>
+<programme start="20251103220000 +0000" stop="20251103230000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Wayang Kampung Sebelah</title>
+</programme>
+<programme start="20251103230000 +0000" stop="20251104000000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Eyang Mami Van Mounelen</title>
+</programme>
+<programme start="20251104000000 +0000" stop="20251104003000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Dagelan Jowo New</title>
+</programme>
+<programme start="20251104003000 +0000" stop="20251104010000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Lawak Jowo</title>
+</programme>
+<programme start="20251104010000 +0000" stop="20251104030000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Ketoprak Humor S7</title>
+</programme>
+<programme start="20251104030000 +0000" stop="20251104040000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Wayang Kampung Sebelah</title>
+</programme>
+<programme start="20251104040000 +0000" stop="20251104043000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Mahkota Mayangkara</title>
+</programme>
+<programme start="20251104043000 +0000" stop="20251104053000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Eyang Mami Van Mounelen</title>
+</programme>
+<programme start="20251104053000 +0000" stop="20251104063000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Konco Ngaso</title>
+</programme>
+<programme start="20251104063000 +0000" stop="20251104070000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Pagelaran Budaya Jawi</title>
+</programme>
+<programme start="20251104070000 +0000" stop="20251104073000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Dagelan Jowo New</title>
+</programme>
+<programme start="20251104073000 +0000" stop="20251104083000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Misteri Gunung Merapi</title>
+</programme>
+<programme start="20251104083000 +0000" stop="20251104090000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Lawak Jowo</title>
+</programme>
+<programme start="20251104090000 +0000" stop="20251104100000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Wayang Kampung Sebelah</title>
+</programme>
+<programme start="20251104100000 +0000" stop="20251104103000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Mahkota Mayangkara</title>
+</programme>
+<programme start="20251104103000 +0000" stop="20251104110000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Jan Enak Tenan</title>
+</programme>
+<programme start="20251104110000 +0000" stop="20251104120000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Konco Ngaso</title>
+</programme>
+<programme start="20251104120000 +0000" stop="20251104123000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Pawartos Jawi</title>
+</programme>
+<programme start="20251104123000 +0000" stop="20251104130000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Pagelaran Budaya Jawi</title>
+</programme>
+<programme start="20251104130000 +0000" stop="20251104133000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Dagelan Mbah Minto</title>
+</programme>
+<programme start="20251104133000 +0000" stop="20251104140000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Arwah Lelembut</title>
+</programme>
+<programme start="20251104140000 +0000" stop="20251104150000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Misteri Gunung Merapi</title>
+</programme>
+<programme start="20251104150000 +0000" stop="20251104160000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Eyang Mami Van Mounelen</title>
+</programme>
+<programme start="20251104160000 +0000" stop="20251104163000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Ketoprak Humor S7</title>
+</programme>
 <programme start="20251103173500 +0000" stop="20251103183000 +0000" channel="History.mncvision">
     <title>Food That Built World S5, Ep 10</title>
 </programme>
@@ -7010,6 +7624,9 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20251104163000 +0000" stop="20251103170000 +0000" channel="Outdoor channel HD.mncvision">
     <title>Search4Hurt S4, Ep 8</title>
 </programme>
+<programme start="20251103171500 +0000" stop="20251103180000 +0000" channel="RCTI.mncvision">
+    <title>Sule Pulang Haji Dapet Jodoh</title>
+</programme>
 <programme start="20251103180000 +0000" stop="20251103190000 +0000" channel="RCTI.mncvision">
     <title>AFC Champions League Elite (L)</title>
 </programme>
@@ -7060,6 +7677,9 @@ Error: Unable to fetch data. HTTP Status Code: 500
 </programme>
 <programme start="20251104154500 +0000" stop="20251104161500 +0000" channel="RCTI.mncvision">
     <title>Hati Yang Memilih</title>
+</programme>
+<programme start="20251103171500 +0000" stop="20251103180000 +0000" channel="RCTI HD.mncvision">
+    <title>Sule Pulang Haji Dapet Jodoh</title>
 </programme>
 <programme start="20251103180000 +0000" stop="20251103190000 +0000" channel="RCTI HD.mncvision">
     <title>AFC Champions League Elite (L)</title>
