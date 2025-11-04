@@ -149,13 +149,13 @@
     <title>News (L)</title>
 </programme>
 <programme start="20251104033000 +0000" stop="20251104040000 +0000" channel="Al Jazeera English.mncvision">
-    <title>Big Picture: How Israel..., Pt 2</title>
+    <title>Big Picture: How Israel Won...</title>
 </programme>
 <programme start="20251104040000 +0000" stop="20251104043000 +0000" channel="Al Jazeera English.mncvision">
     <title>News (L)</title>
 </programme>
 <programme start="20251104043000 +0000" stop="20251104050000 +0000" channel="Al Jazeera English.mncvision">
-    <title>The Stream</title>
+    <title>The Stream: AI&#039;s Impact On Jobs</title>
 </programme>
 <programme start="20251104050000 +0000" stop="20251104053000 +0000" channel="Al Jazeera English.mncvision">
     <title>News (L)</title>
@@ -203,7 +203,7 @@
     <title>News (L)</title>
 </programme>
 <programme start="20251104143000 +0000" stop="20251104150000 +0000" channel="Al Jazeera English.mncvision">
-    <title>The Stream</title>
+    <title>The Stream: AI&#039;s Impact On Jobs</title>
 </programme>
 <programme start="20251104150000 +0000" stop="20251104160000 +0000" channel="Al Jazeera English.mncvision">
     <title>NewsHour</title>
