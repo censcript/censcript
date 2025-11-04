@@ -940,10 +940,10 @@
 <programme start="20251104165000 +0000" stop="20251104170500 +0000" channel="DAZN 1 HD.skyde">
     <title>Let&#039;s go Ballin&#039;: Episode 1</title>
 </programme>
-<programme start="20251104170500 +0000" stop="20251104171600 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20251104170500 +0000" stop="20251104171500 +0000" channel="DAZN 1 HD.skyde">
     <title>UCL Warm Up: UEFA Champions League Highlights (nur in DE verfügbar)</title>
 </programme>
-<programme start="20251104171600 +0000" stop="20251104195500 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20251104171500 +0000" stop="20251104195500 +0000" channel="DAZN 1 HD.skyde">
     <title>UEFA Champions League 25/26: SSC Neapel - Eintracht Frankfurt (nur in DE verfügbar)</title>
 </programme>
 <programme start="20251104195500 +0000" stop="20251104230000 +0000" channel="DAZN 1 HD.skyde">
@@ -2608,7 +2608,7 @@
 <programme start="20251104195000 +0000" stop="20251104220000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live UEFA CL: Paris Saint-Germain - FC Bayern München, Ligaphase, 4. Spieltag, Dienstag</title>
 </programme>
-<programme start="20251104220000 +0000" stop="20251104230000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20251104220000 +0000" stop="20251104233000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live Die UEFA CL am Dienstag: Analyse</title>
 </programme>
 <programme start="20251104164000 +0000" stop="20251104170000 +0000" channel="Sky Sport Austria 3 HD.skyde">
@@ -2620,7 +2620,7 @@
 <programme start="20251104173500 +0000" stop="20251104195000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live UEFA CL: SSC Neapel - Eintracht Frankfurt, Ligaphase, 4. Spieltag, Dienstag</title>
 </programme>
-<programme start="20251104195000 +0000" stop="20251104220000 +0000" channel="Sky Sport Austria 3 HD.skyde">
+<programme start="20251104195000 +0000" stop="20251104223000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live UEFA CL: FC Liverpool - Real Madrid, Ligaphase, 4. Spieltag, Dienstag</title>
 </programme>
 <programme start="20251104164000 +0000" stop="20251104170000 +0000" channel="Sky Sport Austria 4 HD.skyde">
