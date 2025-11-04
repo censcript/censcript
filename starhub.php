@@ -6623,7 +6623,7 @@
         <title>Guadalajara Open Akron presented by Santander (500) Final</title>
     </programme>
     <programme start="20251103230000 +0000" stop="20251104020000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Prudential Hong Kong Tennis Open (250) QF 1 &amp; 2</title>
+        <title>Prudential Hong Kong Tennis Open (250) QF 2</title>
     </programme>
     <programme start="20251104020000 +0000" stop="20251104050000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Prudential Hong Kong Tennis Open (250) SF 1 &amp; 2</title>

@@ -126,6 +126,10 @@
     <title>Football: AEL Novibet - Levadiakos</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251105141000 +0700" stop="20251105161000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: SS Lazio - Cagliari</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251104110000 +0700" stop="20251104140500 +0700" channel="COSMOTE Sport 3 HD">
     <title>American Football: Washington Commanders - Seattle Seahawks</title>
     <desc>Live: Tidak</desc>
@@ -176,6 +180,10 @@
 </programme>
 <programme start="20251105110000 +0700" stop="20251105141500 +0700" channel="COSMOTE Sport 3 HD">
     <title>American Football: Dallas Cowboys - Arizona Cardinals</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251105141500 +0700" stop="20251105161500 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Vitoria Guimaraes - SL Benfica</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251104130000 +0700" stop="20251104150000 +0700" channel="COSMOTE Sport 4 HD">
@@ -234,8 +242,8 @@
     <title>Basketball: Bon Reggio Emilia - Armani Milano</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251104122000 +0700" stop="20251104132500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>2025 Extreme H</title>
+<programme start="20251105144500 +0700" stop="20251105164500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Baskonia - Tenerife</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251104132500 +0700" stop="20251104145000 +0700" channel="COSMOTE Sport 5 HD">
@@ -310,12 +318,8 @@
     <title>2025 Extreme H</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251104123000 +0700" stop="20251104133000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Sports Classics: 2025 Outdoor Specials</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251104133000 +0700" stop="20251104140000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Sports Classics: The Outdoor Sports Show 2025 E10</title>
+<programme start="20251105141000 +0700" stop="20251105154500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251104140000 +0700" stop="20251104180000 +0700" channel="COSMOTE Sport 6 HD">
@@ -376,6 +380,14 @@
 </programme>
 <programme start="20251105125000 +0700" stop="20251105140000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Beach Volley: Pro Tour Elite 16 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251105140000 +0700" stop="20251105143000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Sports Classics: The Outdoor Sports Show 2025 E10</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251105143000 +0700" stop="20251105160000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Topspin</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251104130000 +0700" stop="20251104150000 +0700" channel="COSMOTE Sport 7 HD">
