@@ -2620,7 +2620,7 @@
 <programme start="20251104173500 +0000" stop="20251104195000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live UEFA CL: SSC Neapel - Eintracht Frankfurt, Ligaphase, 4. Spieltag, Dienstag</title>
 </programme>
-<programme start="20251104195000 +0000" stop="20251104220000 +0000" channel="Sky Sport Austria 3 HD.skyde">
+<programme start="20251104195000 +0000" stop="20251104223000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live UEFA CL: FC Liverpool - Real Madrid, Ligaphase, 4. Spieltag, Dienstag</title>
 </programme>
 <programme start="20251104164000 +0000" stop="20251104170000 +0000" channel="Sky Sport Austria 4 HD.skyde">
@@ -2632,47 +2632,44 @@
 <programme start="20251104173500 +0000" stop="20251104195000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live UEFA CL: Slavia Prag - FC Arsenal, Ligaphase, 4. Spieltag, Dienstag</title>
 </programme>
-<programme start="20251104195000 +0000" stop="20251104220000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+<programme start="20251104195000 +0000" stop="20251104223000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live UEFA CL: Tottenham Hotspur - FC Kopenhagen, Ligaphase, 4. Spieltag, Dienstag</title>
 </programme>
 <programme start="20251104193000 +0000" stop="20251104195000 +0000" channel="Sky Sport Austria 5 HD.skyde">
     <title>Es folgt: Live UEFA Champions League</title>
 </programme>
-<programme start="20251104195000 +0000" stop="20251104220000 +0000" channel="Sky Sport Austria 5 HD.skyde">
+<programme start="20251104195000 +0000" stop="20251104223000 +0000" channel="Sky Sport Austria 5 HD.skyde">
     <title>Live UEFA CL: FK Bodo/Glimt - AS Monaco, Ligaphase, 4. Spieltag, Dienstag</title>
 </programme>
 <programme start="20251104193000 +0000" stop="20251104195000 +0000" channel="Sky Sport Austria 6 HD.skyde">
     <title>Es folgt: Live UEFA Champions League</title>
 </programme>
-<programme start="20251104195000 +0000" stop="20251104220000 +0000" channel="Sky Sport Austria 6 HD.skyde">
+<programme start="20251104195000 +0000" stop="20251104223000 +0000" channel="Sky Sport Austria 6 HD.skyde">
     <title>Live UEFA CL: Juventus Turin - Sporting Lissabon, Ligaphase, 4. Spieltag, Dienstag</title>
 </programme>
 <programme start="20251104193000 +0000" stop="20251104195000 +0000" channel="Sky Sport Austria 7 HD.skyde">
     <title>Es folgt: Live UEFA Champions League</title>
 </programme>
-<programme start="20251104195000 +0000" stop="20251104220000 +0000" channel="Sky Sport Austria 7 HD.skyde">
+<programme start="20251104195000 +0000" stop="20251104223000 +0000" channel="Sky Sport Austria 7 HD.skyde">
     <title>Live UEFA CL: Atletico Madrid - Union Saint-Gilloise, Ligaphase, 4. Spieltag, Dienstag</title>
 </programme>
 <programme start="20251104193000 +0000" stop="20251104195000 +0000" channel="Sky Sport Austria 8 HD.skyde">
     <title>Es folgt: Live UEFA Champions League</title>
 </programme>
-<programme start="20251104195000 +0000" stop="20251104220000 +0000" channel="Sky Sport Austria 8 HD.skyde">
+<programme start="20251104195000 +0000" stop="20251104223000 +0000" channel="Sky Sport Austria 8 HD.skyde">
     <title>Live UEFA CL: Olympiakos Piräus - PSV Eindhoven, Ligaphase, 4. Spieltag, Dienstag</title>
 </programme>
-<programme start="20251103230000 +0000" stop="20251103233000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+<programme start="20251103233000 +0000" stop="20251104000000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>Frauen-BL: Alle Spiele, alle Tore, 8. Spieltag komplett</title>
 </programme>
-<programme start="20251103233000 +0000" stop="20251104013000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+<programme start="20251104000000 +0000" stop="20251104020000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>2. BL: 1. FC Nürnberg - Eintracht Braunschweig, 11. Spieltag</title>
 </programme>
-<programme start="20251104013000 +0000" stop="20251104023000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+<programme start="20251104020000 +0000" stop="20251104030000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>2. BL Kompakt: 11. Spieltag</title>
 </programme>
-<programme start="20251104023000 +0000" stop="20251104033000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+<programme start="20251104030000 +0000" stop="20251104040000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL Kompakt: 9. Spieltag</title>
-</programme>
-<programme start="20251104033000 +0000" stop="20251104040000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>2. BL: 90in30: SVD - BIE, 11. Spieltag</title>
 </programme>
 <programme start="20251104040000 +0000" stop="20251104041500 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>2. BL: Torparade 11. Spieltag</title>
@@ -2839,7 +2836,7 @@
 <programme start="20251104210000 +0000" stop="20251104220000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Sprint 2023 in Sao Paulo</title>
 </programme>
-<programme start="20251104220000 +0000" stop="20251104235000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20251104220000 +0000" stop="20251105000000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Rennen 2023 in Sao Paulo</title>
 </programme>
 <programme start="20251103230000 +0000" stop="20251104020000 +0000" channel="Sky Sport Golf HD.skyde">
@@ -3121,20 +3118,20 @@
 <programme start="20251104220000 +0000" stop="20251104230000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: 1 to 11 (Thomas Hitzelsberger)</title>
 </programme>
-<programme start="20251103230000 +0000" stop="20251104010000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20251104000000 +0000" stop="20251104020000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA Finals: A. Anisimova (USA) - M. Keys (USA), 3. Tag in Riyadh (SAU)</title>
 </programme>
-<programme start="20251104010000 +0000" stop="20251104020000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: Review Paris</title>
+<programme start="20251104020000 +0000" stop="20251104023000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 1000: Review Wuhan</title>
 </programme>
-<programme start="20251104020000 +0000" stop="20251104040000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20251104023000 +0000" stop="20251104040000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA Finals: S. Errani (ITA) / J. Paolini (ITA) - S.-W. Hsieh (TPE) / J. Ostapenko (LAT), 3. Tag in Riyadh (SAU)</title>
 </programme>
 <programme start="20251104040000 +0000" stop="20251104060000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA Finals: V. Kudermetova / E. Mertens (BEL) - A. Muhammad (USA) / D. Schuurs (NED), 3. Tag in Riyadh (SAU)</title>
 </programme>
 <programme start="20251104060000 +0000" stop="20251104080000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 250: Topspiel, Hellenic Open in Athen (GRE), 2. Tag</title>
+    <title>ATP 250: J.-L. Struff (GER - A. Muller (FRA), Hellenic Open in Athen (GRE), 2. Tag</title>
 </programme>
 <programme start="20251104080000 +0000" stop="20251104100000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA Finals: I. Swiatek (POL) - E. Rybakina (KAZ), 3. Tag in Riyadh (SAU)</title>
@@ -3143,25 +3140,25 @@
     <title>WTA Finals: A. Anisimova (USA) - M. Keys (USA), 3. Tag in Riyadh (SAU)</title>
 </programme>
 <programme start="20251104120000 +0000" stop="20251104140000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live WTA Finals: Doppel 1, 4. Tag in Riyadh (SAU)</title>
+    <title>Live WTA Finals: K. Siniakova (CZE)/T. Townsend (USA) - G. Dabrowski (CAN)/E. Routliffe (NZL), 4. Tag in Riyadh (SAU)</title>
 </programme>
 <programme start="20251104140000 +0000" stop="20251104160000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live WTA Finals: Einzel 1, 4. Tag in Riyadh (SAU)</title>
+    <title>Live WTA Finals: C. Gauff (USA) - J. Paolini (ITA), 4. Tag in Riyadh (SAU)</title>
 </programme>
 <programme start="20251104160000 +0000" stop="20251104180000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live WTA Finals: Einzel 2, 4. Tag in Riyadh (SAU)</title>
+    <title>Live WTA Finals: A. Sabalenka - J. Pegula (USA), 4. Tag in Riyadh (SAU)</title>
 </programme>
 <programme start="20251104180000 +0000" stop="20251104200000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live WTA Finals: Doppel 2, 4. Tag in Riyadh (SAU)</title>
+    <title>Live WTA Finals: M. Andreeva/D. Shnaider - T. Babos (HUN)/L. Stefani (BRA), 4. Tag in Riyadh (SAU)</title>
 </programme>
 <programme start="20251104200000 +0000" stop="20251104203000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: Review Wuhan</title>
 </programme>
 <programme start="20251104203000 +0000" stop="20251104223000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA Finals: Einzel 1, 4. Tag in Riyadh (SAU)</title>
+    <title>WTA Finals: C. Gauff (USA) - J. Paolini (ITA), 4. Tag in Riyadh (SAU)</title>
 </programme>
 <programme start="20251104223000 +0000" stop="20251105003000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA Finals: Einzel 2, 4. Tag in Riyadh (SAU)</title>
+    <title>WTA Finals: A. Sabalenka - J. Pegula (USA), 4. Tag in Riyadh (SAU)</title>
 </programme>
 <programme start="20251103230000 +0000" stop="20251103233000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Frauen-BL: Alle Spiele, alle Tore, 8. Spieltag komplett</title>
@@ -3283,104 +3280,89 @@
 <programme start="20251103233000 +0000" stop="20251104000000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime</title>
 </programme>
-<programme start="20251104000000 +0000" stop="20251104024500 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20251104000000 +0000" stop="20251104023000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Minnesota Timberwolves @ Brooklyn Nets</title>
 </programme>
-<programme start="20251104024500 +0000" stop="20251104034000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20251104023000 +0000" stop="20251104103000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime - Post Show</title>
 </programme>
-<programme start="20251103234000 +0000" stop="20251104002500 +0000" channel="SYFY HD.skyde">
-    <title>Stargate: Atlantis</title>
+<programme start="20251107234000 +0000" stop="20251108013000 +0000" channel="SYFY HD.skyde">
+    <title>Die Chroniken von Narnia: Die Reise auf der Morgenröte</title>
 </programme>
-<programme start="20251104002500 +0000" stop="20251104011000 +0000" channel="SYFY HD.skyde">
-    <title>Stargate: Atlantis</title>
-</programme>
-<programme start="20251104011000 +0000" stop="20251104015500 +0000" channel="SYFY HD.skyde">
-    <title>Stargate: Atlantis</title>
-</programme>
-<programme start="20251104015500 +0000" stop="20251104024500 +0000" channel="SYFY HD.skyde">
-    <title>The Ark</title>
-</programme>
-<programme start="20251104024500 +0000" stop="20251104033000 +0000" channel="SYFY HD.skyde">
-    <title>The Ark</title>
-</programme>
-<programme start="20251104033000 +0000" stop="20251104041500 +0000" channel="SYFY HD.skyde">
-    <title>The Ark</title>
-</programme>
-<programme start="20251104041500 +0000" stop="20251104050000 +0000" channel="SYFY HD.skyde">
-    <title>The Ark</title>
-</programme>
-<programme start="20251104050000 +0000" stop="20251104051000 +0000" channel="SYFY HD.skyde">
+<programme start="20251108013000 +0000" stop="20251108014000 +0000" channel="SYFY HD.skyde">
     <title>SYFY Inside: Destination Star Trek</title>
 </programme>
-<programme start="20251104051000 +0000" stop="20251104053000 +0000" channel="SYFY HD.skyde">
-    <title>SYFY Inside: Gamescom</title>
+<programme start="20251108014000 +0000" stop="20251108022500 +0000" channel="SYFY HD.skyde">
+    <title>The Ark</title>
 </programme>
-<programme start="20251104053000 +0000" stop="20251104061500 +0000" channel="SYFY HD.skyde">
+<programme start="20251108022500 +0000" stop="20251108031000 +0000" channel="SYFY HD.skyde">
+    <title>The Ark</title>
+</programme>
+<programme start="20251108031000 +0000" stop="20251108035500 +0000" channel="SYFY HD.skyde">
+    <title>The Ark</title>
+</programme>
+<programme start="20251108035500 +0000" stop="20251108044000 +0000" channel="SYFY HD.skyde">
+    <title>The Ark</title>
+</programme>
+<programme start="20251108044000 +0000" stop="20251108052500 +0000" channel="SYFY HD.skyde">
+    <title>Fact or Faked: Auf den Spuren des Paranormalen</title>
+</programme>
+<programme start="20251108052500 +0000" stop="20251108061500 +0000" channel="SYFY HD.skyde">
+    <title>Fact or Faked: Auf den Spuren des Paranormalen</title>
+</programme>
+<programme start="20251108061500 +0000" stop="20251108070000 +0000" channel="SYFY HD.skyde">
     <title>Akte X - Die unheimlichen Fälle des FBI</title>
 </programme>
-<programme start="20251104061500 +0000" stop="20251104070500 +0000" channel="SYFY HD.skyde">
+<programme start="20251108070000 +0000" stop="20251108075000 +0000" channel="SYFY HD.skyde">
     <title>Akte X - Die unheimlichen Fälle des FBI</title>
 </programme>
-<programme start="20251104070500 +0000" stop="20251104075000 +0000" channel="SYFY HD.skyde">
+<programme start="20251108075000 +0000" stop="20251108083500 +0000" channel="SYFY HD.skyde">
     <title>Akte X - Die unheimlichen Fälle des FBI</title>
 </programme>
-<programme start="20251104075000 +0000" stop="20251104081000 +0000" channel="SYFY HD.skyde">
-    <title>SYFY Inside: Gamescom</title>
+<programme start="20251108083500 +0000" stop="20251108092500 +0000" channel="SYFY HD.skyde">
+    <title>Akte X - Die unheimlichen Fälle des FBI</title>
 </programme>
-<programme start="20251104081000 +0000" stop="20251104090000 +0000" channel="SYFY HD.skyde">
+<programme start="20251108092500 +0000" stop="20251108101000 +0000" channel="SYFY HD.skyde">
+    <title>Akte X - Die unheimlichen Fälle des FBI</title>
+</programme>
+<programme start="20251108101000 +0000" stop="20251108105500 +0000" channel="SYFY HD.skyde">
+    <title>Akte X - Die unheimlichen Fälle des FBI</title>
+</programme>
+<programme start="20251108105500 +0000" stop="20251108114500 +0000" channel="SYFY HD.skyde">
+    <title>Akte X - Die unheimlichen Fälle des FBI</title>
+</programme>
+<programme start="20251108114500 +0000" stop="20251108123500 +0000" channel="SYFY HD.skyde">
+    <title>Akte X - Die unheimlichen Fälle des FBI</title>
+</programme>
+<programme start="20251108123500 +0000" stop="20251108132000 +0000" channel="SYFY HD.skyde">
+    <title>Akte X - Die unheimlichen Fälle des FBI</title>
+</programme>
+<programme start="20251108132000 +0000" stop="20251108141000 +0000" channel="SYFY HD.skyde">
+    <title>Akte X - Die unheimlichen Fälle des FBI</title>
+</programme>
+<programme start="20251108141000 +0000" stop="20251108150000 +0000" channel="SYFY HD.skyde">
+    <title>Akte X - Die unheimlichen Fälle des FBI</title>
+</programme>
+<programme start="20251108150000 +0000" stop="20251108154500 +0000" channel="SYFY HD.skyde">
+    <title>Akte X - Die unheimlichen Fälle des FBI</title>
+</programme>
+<programme start="20251108154500 +0000" stop="20251108163500 +0000" channel="SYFY HD.skyde">
+    <title>Akte X - Die unheimlichen Fälle des FBI</title>
+</programme>
+<programme start="20251108163500 +0000" stop="20251108172000 +0000" channel="SYFY HD.skyde">
+    <title>Akte X - Die unheimlichen Fälle des FBI</title>
+</programme>
+<programme start="20251108172000 +0000" stop="20251108191500 +0000" channel="SYFY HD.skyde">
+    <title>Die Chroniken von Narnia: Die Reise auf der Morgenröte</title>
+</programme>
+<programme start="20251108191500 +0000" stop="20251108214500 +0000" channel="SYFY HD.skyde">
+    <title>Armageddon - Das jüngste Gericht</title>
+</programme>
+<programme start="20251108214500 +0000" stop="20251108223000 +0000" channel="SYFY HD.skyde">
     <title>Resident Alien</title>
 </programme>
-<programme start="20251104090000 +0000" stop="20251104094500 +0000" channel="SYFY HD.skyde">
+<programme start="20251108223000 +0000" stop="20251108232000 +0000" channel="SYFY HD.skyde">
     <title>Resident Alien</title>
-</programme>
-<programme start="20251104094500 +0000" stop="20251104103500 +0000" channel="SYFY HD.skyde">
-    <title>Resident Alien</title>
-</programme>
-<programme start="20251104103500 +0000" stop="20251104112000 +0000" channel="SYFY HD.skyde">
-    <title>Stargate SG-1</title>
-</programme>
-<programme start="20251104112000 +0000" stop="20251104121000 +0000" channel="SYFY HD.skyde">
-    <title>Stargate SG-1</title>
-</programme>
-<programme start="20251104121000 +0000" stop="20251104125500 +0000" channel="SYFY HD.skyde">
-    <title>Stargate SG-1</title>
-</programme>
-<programme start="20251104125500 +0000" stop="20251104134000 +0000" channel="SYFY HD.skyde">
-    <title>Stargate: Atlantis</title>
-</programme>
-<programme start="20251104134000 +0000" stop="20251104143000 +0000" channel="SYFY HD.skyde">
-    <title>Stargate: Atlantis</title>
-</programme>
-<programme start="20251104143000 +0000" stop="20251104151500 +0000" channel="SYFY HD.skyde">
-    <title>Stargate: Atlantis</title>
-</programme>
-<programme start="20251104151500 +0000" stop="20251104160000 +0000" channel="SYFY HD.skyde">
-    <title>Stargate Universe</title>
-</programme>
-<programme start="20251104160000 +0000" stop="20251104165000 +0000" channel="SYFY HD.skyde">
-    <title>Stargate Universe</title>
-</programme>
-<programme start="20251104165000 +0000" stop="20251104173500 +0000" channel="SYFY HD.skyde">
-    <title>Akte X - Die unheimlichen Fälle des FBI</title>
-</programme>
-<programme start="20251104173500 +0000" stop="20251104182500 +0000" channel="SYFY HD.skyde">
-    <title>Akte X - Die unheimlichen Fälle des FBI</title>
-</programme>
-<programme start="20251104182500 +0000" stop="20251104191500 +0000" channel="SYFY HD.skyde">
-    <title>Akte X - Die unheimlichen Fälle des FBI</title>
-</programme>
-<programme start="20251104191500 +0000" stop="20251104212000 +0000" channel="SYFY HD.skyde">
-    <title>Speed 2: Cruise Control</title>
-</programme>
-<programme start="20251104212000 +0000" stop="20251104220500 +0000" channel="SYFY HD.skyde">
-    <title>Stargate SG-1</title>
-</programme>
-<programme start="20251104220500 +0000" stop="20251104225500 +0000" channel="SYFY HD.skyde">
-    <title>Stargate SG-1</title>
-</programme>
-<programme start="20251104225500 +0000" stop="20251104234000 +0000" channel="SYFY HD.skyde">
-    <title>Stargate SG-1</title>
 </programme>
 <programme start="20251103234000 +0000" stop="20251104010500 +0000" channel="Universal TV HD.skyde">
     <title>Zurück zu den Weihnachtssternen</title>
