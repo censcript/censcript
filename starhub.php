@@ -5230,8 +5230,8 @@
     <programme start="20251105153500 +0000" stop="20251105170500 +0000" channel="KBS World HD.starhub">
         <title>Stars&#039; Top Recipe at Fun-Staurant</title>
     </programme>
-    <programme start="20251104152000 +0000" stop="20251104161500 +0000" channel="TestChannel 996.starhub">
-        <title>The Heir to the Throne (with Eng Subs)</title>
+    <programme start="20251104160000 +0000" stop="20251104161500 +0000" channel="TestChannel 996.starhub">
+        <title>Big Boys Club</title>
     </programme>
     <programme start="20251104161500 +0000" stop="20251104165000 +0000" channel="TestChannel 996.starhub">
         <title>Vengeance of the Bride</title>
