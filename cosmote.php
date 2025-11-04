@@ -54,10 +54,6 @@
     <title>Football: Club Atletico de Madrid - Union Saint-Gilloise</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251104100500 +0700" stop="20251104120000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Sassuolo - Genoa</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251104120000 +0700" stop="20251104141500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Olympiacos - Aris</title>
     <desc>Live: Tidak</desc>
@@ -124,6 +120,10 @@
 </programme>
 <programme start="20251105100000 +0700" stop="20251105120000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: ACF Fiorentina - Lecce</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251105120000 +0700" stop="20251105141000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: AEL Novibet - Levadiakos</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251104110000 +0700" stop="20251104140500 +0700" channel="COSMOTE Sport 3 HD">
@@ -234,6 +234,10 @@
     <title>Pick n&#039; Roll</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251105124500 +0700" stop="20251105144500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Bon Reggio Emilia - Armani Milano</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251104110000 +0700" stop="20251104122000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Grand Prix Show 2025</title>
     <desc>Live: Tidak</desc>
@@ -310,6 +314,10 @@
     <title>2025 Extreme H</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251105120500 +0700" stop="20251105141000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>2025 Extreme H</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251104110000 +0700" stop="20251104123000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Topspin</title>
     <desc>Live: Tidak</desc>
@@ -371,6 +379,14 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251105110000 +0700" stop="20251105120000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Beach Volley: Pro Tour Elite 16 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251105120000 +0700" stop="20251105125000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Beach Volley: Pro Tour Elite 16 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251105125000 +0700" stop="20251105140000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Beach Volley: Pro Tour Elite 16 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
@@ -509,10 +525,6 @@
 <programme start="20251105110000 +0700" stop="20251105130000 +0700" channel="COSMOTE Sport 8 HD">
     <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251104081500 +0700" stop="20251104114500 +0700" channel="COSMOTE Sport 9 HD">
-    <title>American Football: Dallas Cowboys - Arizona Cardinals (L)</title>
-    <desc>Live: Ya</desc>
 </programme>
 <programme start="20251104114500 +0700" stop="20251104123000 +0700" channel="COSMOTE Sport 9 HD">
     <title>COSMOTESport9HD</title>

@@ -2638,7 +2638,7 @@
 <programme start="20251104193000 +0000" stop="20251104195000 +0000" channel="Sky Sport Austria 5 HD.skyde">
     <title>Es folgt: Live UEFA Champions League</title>
 </programme>
-<programme start="20251104195000 +0000" stop="20251104223000 +0000" channel="Sky Sport Austria 5 HD.skyde">
+<programme start="20251104195000 +0000" stop="20251104220000 +0000" channel="Sky Sport Austria 5 HD.skyde">
     <title>Live UEFA CL: FK Bodo/Glimt - AS Monaco, Ligaphase, 4. Spieltag, Dienstag</title>
 </programme>
 <programme start="20251104193000 +0000" stop="20251104195000 +0000" channel="Sky Sport Austria 6 HD.skyde">
@@ -2650,13 +2650,13 @@
 <programme start="20251104193000 +0000" stop="20251104195000 +0000" channel="Sky Sport Austria 7 HD.skyde">
     <title>Es folgt: Live UEFA Champions League</title>
 </programme>
-<programme start="20251104195000 +0000" stop="20251104223000 +0000" channel="Sky Sport Austria 7 HD.skyde">
+<programme start="20251104195000 +0000" stop="20251104220000 +0000" channel="Sky Sport Austria 7 HD.skyde">
     <title>Live UEFA CL: Atletico Madrid - Union Saint-Gilloise, Ligaphase, 4. Spieltag, Dienstag</title>
 </programme>
 <programme start="20251104193000 +0000" stop="20251104195000 +0000" channel="Sky Sport Austria 8 HD.skyde">
     <title>Es folgt: Live UEFA Champions League</title>
 </programme>
-<programme start="20251104195000 +0000" stop="20251104223000 +0000" channel="Sky Sport Austria 8 HD.skyde">
+<programme start="20251104195000 +0000" stop="20251104220000 +0000" channel="Sky Sport Austria 8 HD.skyde">
     <title>Live UEFA CL: Olympiakos Piräus - PSV Eindhoven, Ligaphase, 4. Spieltag, Dienstag</title>
 </programme>
 <programme start="20251103233000 +0000" stop="20251104000000 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -3166,13 +3166,13 @@
 <programme start="20251103233000 +0000" stop="20251104000000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Showtime</title>
 </programme>
-<programme start="20251104000000 +0000" stop="20251104023000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20251104000000 +0000" stop="20251104024500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Minnesota Timberwolves @ Brooklyn Nets</title>
 </programme>
-<programme start="20251104023000 +0000" stop="20251104030000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20251104024500 +0000" stop="20251104031500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Showtime - Post Show</title>
 </programme>
-<programme start="20251104030000 +0000" stop="20251104040000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20251104031500 +0000" stop="20251104040000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>ATP 1000: Review Paris</title>
 </programme>
 <programme start="20251104040000 +0000" stop="20251104041500 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3283,7 +3283,7 @@
 <programme start="20251104000000 +0000" stop="20251104024500 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Minnesota Timberwolves @ Brooklyn Nets</title>
 </programme>
-<programme start="20251104024500 +0000" stop="20251104103000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20251104024500 +0000" stop="20251104034000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime - Post Show</title>
 </programme>
 <programme start="20251103234000 +0000" stop="20251104002500 +0000" channel="SYFY HD.skyde">
@@ -3463,10 +3463,10 @@
 <programme start="20251104015500 +0000" stop="20251104020500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Robot Chicken</title>
 </programme>
-<programme start="20251104020500 +0000" stop="20251104021500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251104020500 +0000" stop="20251104022000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Robot Chicken</title>
 </programme>
-<programme start="20251104021500 +0000" stop="20251104023000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251104022000 +0000" stop="20251104023000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Robot Chicken</title>
 </programme>
 <programme start="20251104023000 +0000" stop="20251104025000 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3487,10 +3487,10 @@
 <programme start="20251104042000 +0000" stop="20251104044000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20251104044000 +0000" stop="20251104050000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251104044000 +0000" stop="20251104050500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20251104050000 +0000" stop="20251104053000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251104050500 +0000" stop="20251104053000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
 <programme start="20251104053000 +0000" stop="20251104055500 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3559,10 +3559,10 @@
 <programme start="20251104142000 +0000" stop="20251104144500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
-<programme start="20251104144500 +0000" stop="20251104151000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251104144500 +0000" stop="20251104151500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
-<programme start="20251104151000 +0000" stop="20251104154000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251104151500 +0000" stop="20251104154000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
 <programme start="20251104154000 +0000" stop="20251104160500 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3712,19 +3712,19 @@
 <programme start="20251104034000 +0000" stop="20251104035000 +0000" channel="Warner TV Serie HD.skyde">
     <title>NTSF:SD:SUV::</title>
 </programme>
-<programme start="20251104035000 +0000" stop="20251104040500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20251104035000 +0000" stop="20251104040000 +0000" channel="Warner TV Serie HD.skyde">
     <title>NTSF:SD:SUV::</title>
 </programme>
-<programme start="20251104040500 +0000" stop="20251104041500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20251104040000 +0000" stop="20251104041000 +0000" channel="Warner TV Serie HD.skyde">
     <title>NTSF:SD:SUV::</title>
 </programme>
-<programme start="20251104041500 +0000" stop="20251104042500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20251104041000 +0000" stop="20251104042500 +0000" channel="Warner TV Serie HD.skyde">
     <title>NTSF:SD:SUV::</title>
 </programme>
-<programme start="20251104042500 +0000" stop="20251104051000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20251104042500 +0000" stop="20251104051500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Daktari</title>
 </programme>
-<programme start="20251104051000 +0000" stop="20251104061000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20251104051500 +0000" stop="20251104061000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Mord ist ihr Hobby</title>
 </programme>
 <programme start="20251104061000 +0000" stop="20251104070000 +0000" channel="Warner TV Serie HD.skyde">
@@ -3748,10 +3748,10 @@
 <programme start="20251104111000 +0000" stop="20251104120000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Unsere kleine Farm</title>
 </programme>
-<programme start="20251104120000 +0000" stop="20251104125500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20251104120000 +0000" stop="20251104125000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Unsere kleine Farm</title>
 </programme>
-<programme start="20251104125500 +0000" stop="20251104134500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20251104125000 +0000" stop="20251104134500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Unsere kleine Farm</title>
 </programme>
 <programme start="20251104134500 +0000" stop="20251104143500 +0000" channel="Warner TV Serie HD.skyde">
