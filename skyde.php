@@ -2620,7 +2620,7 @@
 <programme start="20251104173500 +0000" stop="20251104195000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live UEFA CL: SSC Neapel - Eintracht Frankfurt, Ligaphase, 4. Spieltag, Dienstag</title>
 </programme>
-<programme start="20251104195000 +0000" stop="20251104220000 +0000" channel="Sky Sport Austria 3 HD.skyde">
+<programme start="20251104195000 +0000" stop="20251104223000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live UEFA CL: FC Liverpool - Real Madrid, Ligaphase, 4. Spieltag, Dienstag</title>
 </programme>
 <programme start="20251104164000 +0000" stop="20251104170000 +0000" channel="Sky Sport Austria 4 HD.skyde">
