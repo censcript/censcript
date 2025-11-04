@@ -940,10 +940,10 @@
 <programme start="20251104165000 +0000" stop="20251104170500 +0000" channel="DAZN 1 HD.skyde">
     <title>Let&#039;s go Ballin&#039;: Episode 1</title>
 </programme>
-<programme start="20251104170500 +0000" stop="20251104171600 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20251104170500 +0000" stop="20251104171500 +0000" channel="DAZN 1 HD.skyde">
     <title>UCL Warm Up: UEFA Champions League Highlights (nur in DE verfügbar)</title>
 </programme>
-<programme start="20251104171600 +0000" stop="20251104195500 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20251104171500 +0000" stop="20251104195500 +0000" channel="DAZN 1 HD.skyde">
     <title>UEFA Champions League 25/26: SSC Neapel - Eintracht Frankfurt (nur in DE verfügbar)</title>
 </programme>
 <programme start="20251104195500 +0000" stop="20251104230000 +0000" channel="DAZN 1 HD.skyde">
@@ -3280,10 +3280,10 @@
 <programme start="20251103233000 +0000" stop="20251104000000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime</title>
 </programme>
-<programme start="20251104000000 +0000" stop="20251104024500 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20251104000000 +0000" stop="20251104023000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Minnesota Timberwolves @ Brooklyn Nets</title>
 </programme>
-<programme start="20251104024500 +0000" stop="20251104034000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20251104023000 +0000" stop="20251104103000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime - Post Show</title>
 </programme>
 <programme start="20251103234000 +0000" stop="20251104002500 +0000" channel="SYFY HD.skyde">
