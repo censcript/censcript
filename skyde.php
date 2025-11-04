@@ -2650,13 +2650,13 @@
 <programme start="20251104193000 +0000" stop="20251104195000 +0000" channel="Sky Sport Austria 7 HD.skyde">
     <title>Es folgt: Live UEFA Champions League</title>
 </programme>
-<programme start="20251104195000 +0000" stop="20251104223000 +0000" channel="Sky Sport Austria 7 HD.skyde">
+<programme start="20251104195000 +0000" stop="20251104220000 +0000" channel="Sky Sport Austria 7 HD.skyde">
     <title>Live UEFA CL: Atletico Madrid - Union Saint-Gilloise, Ligaphase, 4. Spieltag, Dienstag</title>
 </programme>
 <programme start="20251104193000 +0000" stop="20251104195000 +0000" channel="Sky Sport Austria 8 HD.skyde">
     <title>Es folgt: Live UEFA Champions League</title>
 </programme>
-<programme start="20251104195000 +0000" stop="20251104223000 +0000" channel="Sky Sport Austria 8 HD.skyde">
+<programme start="20251104195000 +0000" stop="20251104220000 +0000" channel="Sky Sport Austria 8 HD.skyde">
     <title>Live UEFA CL: Olympiakos Piräus - PSV Eindhoven, Ligaphase, 4. Spieltag, Dienstag</title>
 </programme>
 <programme start="20251103233000 +0000" stop="20251104000000 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -3118,13 +3118,13 @@
 <programme start="20251104220000 +0000" stop="20251104230000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: 1 to 11 (Thomas Hitzelsberger)</title>
 </programme>
-<programme start="20251103230000 +0000" stop="20251104010000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20251104000000 +0000" stop="20251104020000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA Finals: A. Anisimova (USA) - M. Keys (USA), 3. Tag in Riyadh (SAU)</title>
 </programme>
-<programme start="20251104010000 +0000" stop="20251104020000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: Review Paris</title>
+<programme start="20251104020000 +0000" stop="20251104023000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 1000: Review Wuhan</title>
 </programme>
-<programme start="20251104020000 +0000" stop="20251104040000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20251104023000 +0000" stop="20251104040000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA Finals: S. Errani (ITA) / J. Paolini (ITA) - S.-W. Hsieh (TPE) / J. Ostapenko (LAT), 3. Tag in Riyadh (SAU)</title>
 </programme>
 <programme start="20251104040000 +0000" stop="20251104060000 +0000" channel="Sky Sport Tennis HD.skyde">
@@ -3280,10 +3280,10 @@
 <programme start="20251103233000 +0000" stop="20251104000000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime</title>
 </programme>
-<programme start="20251104000000 +0000" stop="20251104023000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20251104000000 +0000" stop="20251104024500 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Minnesota Timberwolves @ Brooklyn Nets</title>
 </programme>
-<programme start="20251104023000 +0000" stop="20251104090000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20251104024500 +0000" stop="20251104034000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime - Post Show</title>
 </programme>
 <programme start="20251103234000 +0000" stop="20251104002500 +0000" channel="SYFY HD.skyde">
