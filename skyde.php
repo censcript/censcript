@@ -2632,7 +2632,7 @@
 <programme start="20251104173500 +0000" stop="20251104195000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live UEFA CL: Slavia Prag - FC Arsenal, Ligaphase, 4. Spieltag, Dienstag</title>
 </programme>
-<programme start="20251104195000 +0000" stop="20251104220000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+<programme start="20251104195000 +0000" stop="20251104223000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live UEFA CL: Tottenham Hotspur - FC Kopenhagen, Ligaphase, 4. Spieltag, Dienstag</title>
 </programme>
 <programme start="20251104193000 +0000" stop="20251104195000 +0000" channel="Sky Sport Austria 5 HD.skyde">
