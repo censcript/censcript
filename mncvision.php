@@ -9680,13 +9680,13 @@
     <title>Kau Ditakdirkan Untukku</title>
 </programme>
 <programme start="20251104050000 +0000" stop="20251104060000 +0000" channel="Vision Prime.mncvision">
-    <title>Ada Apa Dengan Cinta</title>
+    <title>Ada Apa Dengan Cinta The Series</title>
 </programme>
 <programme start="20251104060000 +0000" stop="20251104070000 +0000" channel="Vision Prime.mncvision">
-    <title>Ada Apa Dengan Cinta</title>
+    <title>Mantan IPA &amp; IPS</title>
 </programme>
 <programme start="20251104070000 +0000" stop="20251104080000 +0000" channel="Vision Prime.mncvision">
-    <title>Mantan IPA &amp; IPS</title>
+    <title>Ada Dua Cinta</title>
 </programme>
 <programme start="20251104080000 +0000" stop="20251104090000 +0000" channel="Vision Prime.mncvision">
     <title>Dusta Di Balik Cinta</title>
@@ -9752,13 +9752,13 @@
     <title>Kau Ditakdirkan Untukku</title>
 </programme>
 <programme start="20251104050000 +0000" stop="20251104060000 +0000" channel="Vision Prime HD.mncvision">
-    <title>Ada Apa Dengan Cinta</title>
+    <title>Ada Apa Dengan Cinta The Series</title>
 </programme>
 <programme start="20251104060000 +0000" stop="20251104070000 +0000" channel="Vision Prime HD.mncvision">
-    <title>Ada Apa Dengan Cinta</title>
+    <title>Mantan IPA &amp; IPS</title>
 </programme>
 <programme start="20251104070000 +0000" stop="20251104080000 +0000" channel="Vision Prime HD.mncvision">
-    <title>Mantan IPA &amp; IPS</title>
+    <title>Ada Dua Cinta</title>
 </programme>
 <programme start="20251104080000 +0000" stop="20251104090000 +0000" channel="Vision Prime HD.mncvision">
     <title>Dusta Di Balik Cinta</title>
