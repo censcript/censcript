@@ -5266,6 +5266,69 @@
     <programme start="20251103152000 +0000" stop="20251103161500 +0000" channel="TestChannel 996.starhub">
         <title>The Heir to the Throne (with Eng Subs)</title>
     </programme>
+    <programme start="20251103235000 +0000" stop="20251104003000 +0000" channel="TestChannel 996.starhub">
+        <title>Vengeance of the Bride</title>
+    </programme>
+    <programme start="20251104003000 +0000" stop="20251104013000 +0000" channel="TestChannel 996.starhub">
+        <title>The Litchi Road</title>
+    </programme>
+    <programme start="20251104013000 +0000" stop="20251104020000 +0000" channel="TestChannel 996.starhub">
+        <title>Lo And Behold</title>
+    </programme>
+    <programme start="20251104020000 +0000" stop="20251104025500 +0000" channel="TestChannel 996.starhub">
+        <title>Golden City (Ep 701-750) VVD Mandarin</title>
+    </programme>
+    <programme start="20251104025500 +0000" stop="20251104035000 +0000" channel="TestChannel 996.starhub">
+        <title>D.I.D. 12</title>
+    </programme>
+    <programme start="20251104035000 +0000" stop="20251104044000 +0000" channel="TestChannel 996.starhub">
+        <title>The Wanted Detective</title>
+    </programme>
+    <programme start="20251104044000 +0000" stop="20251104050500 +0000" channel="TestChannel 996.starhub">
+        <title>Lo And Behold</title>
+    </programme>
+    <programme start="20251104050500 +0000" stop="20251104060000 +0000" channel="TestChannel 996.starhub">
+        <title>The Heir to the Throne (with Eng Subs)</title>
+    </programme>
+    <programme start="20251104060000 +0000" stop="20251104064000 +0000" channel="TestChannel 996.starhub">
+        <title>The Heir to the Throne (with Eng Subs)</title>
+    </programme>
+    <programme start="20251104064000 +0000" stop="20251104073000 +0000" channel="TestChannel 996.starhub">
+        <title>See Her Again</title>
+    </programme>
+    <programme start="20251104073000 +0000" stop="20251104081000 +0000" channel="TestChannel 996.starhub">
+        <title>See Her Again</title>
+    </programme>
+    <programme start="20251104081000 +0000" stop="20251104090000 +0000" channel="TestChannel 996.starhub">
+        <title>The Litchi Road</title>
+    </programme>
+    <programme start="20251104090000 +0000" stop="20251104094500 +0000" channel="TestChannel 996.starhub">
+        <title>Sinister Beings 2</title>
+    </programme>
+    <programme start="20251104094500 +0000" stop="20251104103500 +0000" channel="TestChannel 996.starhub">
+        <title>Golden City (Ep 701-750) VVD Mandarin</title>
+    </programme>
+    <programme start="20251104103500 +0000" stop="20251104110000 +0000" channel="TestChannel 996.starhub">
+        <title>Lo And Behold</title>
+    </programme>
+    <programme start="20251104110000 +0000" stop="20251104120000 +0000" channel="TestChannel 996.starhub">
+        <title>The Litchi Road</title>
+    </programme>
+    <programme start="20251104120000 +0000" stop="20251104130000 +0000" channel="TestChannel 996.starhub">
+        <title>Prism Breaker</title>
+    </programme>
+    <programme start="20251104130000 +0000" stop="20251104140000 +0000" channel="TestChannel 996.starhub">
+        <title>The Wanted Detective</title>
+    </programme>
+    <programme start="20251104140000 +0000" stop="20251104143000 +0000" channel="TestChannel 996.starhub">
+        <title>Lo And Behold</title>
+    </programme>
+    <programme start="20251104143000 +0000" stop="20251104152000 +0000" channel="TestChannel 996.starhub">
+        <title>The Heir to the Throne (with Eng Subs)</title>
+    </programme>
+    <programme start="20251104152000 +0000" stop="20251104161500 +0000" channel="TestChannel 996.starhub">
+        <title>The Heir to the Throne (with Eng Subs)</title>
+    </programme>
     <programme start="20251103160000 +0000" stop="20251103161500 +0000" channel="Euronews HD.starhub">
         <title>The European debrief</title>
     </programme>
