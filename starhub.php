@@ -6755,46 +6755,46 @@
         <title>Sky News</title>
     </programme>
     <programme start="20251104060000 +0000" stop="20251104063000 +0000" channel="Sky News HD.starhub">
-        <title>Breakfast</title>
+        <title>Mornings</title>
     </programme>
     <programme start="20251104063000 +0000" stop="20251104070000 +0000" channel="Sky News HD.starhub">
-        <title>Breakfast</title>
+        <title>Mornings</title>
     </programme>
     <programme start="20251104070000 +0000" stop="20251104073000 +0000" channel="Sky News HD.starhub">
-        <title>Breakfast</title>
+        <title>Mornings with Ridge and Frost</title>
     </programme>
     <programme start="20251104073000 +0000" stop="20251104080000 +0000" channel="Sky News HD.starhub">
-        <title>Breakfast</title>
+        <title>Mornings with Ridge and Frost</title>
     </programme>
     <programme start="20251104080000 +0000" stop="20251104083000 +0000" channel="Sky News HD.starhub">
-        <title>Breakfast</title>
+        <title>Mornings with Ridge and Frost</title>
     </programme>
     <programme start="20251104083000 +0000" stop="20251104090000 +0000" channel="Sky News HD.starhub">
-        <title>Breakfast</title>
+        <title>Mornings with Ridge and Frost</title>
     </programme>
     <programme start="20251104090000 +0000" stop="20251104093000 +0000" channel="Sky News HD.starhub">
-        <title>Breakfast</title>
+        <title>Mornings with Ridge and Frost</title>
     </programme>
     <programme start="20251104093000 +0000" stop="20251104100000 +0000" channel="Sky News HD.starhub">
-        <title>Breakfast</title>
+        <title>Mornings with Ridge and Frost</title>
     </programme>
     <programme start="20251104100000 +0000" stop="20251104103000 +0000" channel="Sky News HD.starhub">
-        <title>Sky News Today</title>
+        <title>Sky News Today with Gareth Barlow</title>
     </programme>
     <programme start="20251104103000 +0000" stop="20251104110000 +0000" channel="Sky News HD.starhub">
-        <title>Sky News Today</title>
+        <title>Sky News Today with Gareth Barlow</title>
     </programme>
     <programme start="20251104110000 +0000" stop="20251104113000 +0000" channel="Sky News HD.starhub">
-        <title>Sky News Today</title>
+        <title>Sky News Today with Gareth Barlow</title>
     </programme>
     <programme start="20251104113000 +0000" stop="20251104120000 +0000" channel="Sky News HD.starhub">
-        <title>Sky News Today</title>
+        <title>Sky News Today with Gareth Barlow</title>
     </programme>
     <programme start="20251104120000 +0000" stop="20251104123000 +0000" channel="Sky News HD.starhub">
-        <title>Sky News Today with Jayne Secker</title>
+        <title>Sky News Today with Gareth Barlow</title>
     </programme>
     <programme start="20251104123000 +0000" stop="20251104130000 +0000" channel="Sky News HD.starhub">
-        <title>Sky News Today with Jayne Secker</title>
+        <title>Sky News Today with Gareth Barlow</title>
     </programme>
     <programme start="20251104130000 +0000" stop="20251104133000 +0000" channel="Sky News HD.starhub">
         <title>Sky News Today with Jayne Secker</title>
@@ -6803,16 +6803,16 @@
         <title>Sky News Today with Jayne Secker</title>
     </programme>
     <programme start="20251104140000 +0000" stop="20251104143000 +0000" channel="Sky News HD.starhub">
-        <title>Sky News with Kamali Melbourne</title>
+        <title>Sky News Today with Jayne Secker</title>
     </programme>
     <programme start="20251104143000 +0000" stop="20251104150000 +0000" channel="Sky News HD.starhub">
-        <title>Sky News Today with Kamali Melbourne</title>
+        <title>Sky News Today with Jayne Secker</title>
     </programme>
     <programme start="20251104150000 +0000" stop="20251104153000 +0000" channel="Sky News HD.starhub">
-        <title>Sky News with Kamali Melbourne</title>
+        <title>Sky News Today with Jayne Secker</title>
     </programme>
     <programme start="20251104153000 +0000" stop="20251104160000 +0000" channel="Sky News HD.starhub">
-        <title>Sky News Today with Kamali Melbourne</title>
+        <title>Sky News Today with Jayne Secker</title>
     </programme>
     <programme start="20251103160000 +0000" stop="20251103175500 +0000" channel="beIN Sports HD.starhub">
         <title>LaLiga 2025/26: Villarreal vs Rayo Vallecano</title>
@@ -7439,7 +7439,7 @@
         <title>BBC News</title>
     </programme>
     <programme start="20251104003000 +0000" stop="20251104010000 +0000" channel="BBC World News HD.starhub">
-        <title>Newscast</title>
+        <title>Lethal Waters: Climate Change in Pakistan</title>
     </programme>
     <programme start="20251104010000 +0000" stop="20251104013000 +0000" channel="BBC World News HD.starhub">
         <title>BBC News</title>
@@ -7585,11 +7585,11 @@
     <programme start="20251103235000 +0000" stop="20251104014000 +0000" channel="Premier Sports.starhub">
         <title>URC Glasgow Warriors v Bulls</title>
     </programme>
-    <programme start="20251104014000 +0000" stop="20251104033000 +0000" channel="Premier Sports.starhub">
-        <title>URC Lions v Ulster</title>
-    </programme>
-    <programme start="20251104033000 +0000" stop="20251104043000 +0000" channel="Premier Sports.starhub">
+    <programme start="20251104014000 +0000" stop="20251104023000 +0000" channel="Premier Sports.starhub">
         <title>Gallagher Premiership</title>
+    </programme>
+    <programme start="20251104023000 +0000" stop="20251104043000 +0000" channel="Premier Sports.starhub">
+        <title>LIVE Melbourne Cup 2025 LIVE Day 2</title>
     </programme>
     <programme start="20251104043000 +0000" stop="20251104062000 +0000" channel="Premier Sports.starhub">
         <title>URC Sharks v Scarlets</title>
@@ -8072,13 +8072,13 @@
         <title>Salala Mobiles</title>
     </programme>
     <programme start="20251104073000 +0000" stop="20251104103000 +0000" channel="Asianet Movies.starhub">
-        <title>Thiruvambadi Thampan</title>
+        <title>Manjummel Boys</title>
     </programme>
     <programme start="20251104103000 +0000" stop="20251104133000 +0000" channel="Asianet Movies.starhub">
-        <title>Colours</title>
+        <title>Thiruvambadi Thampan</title>
     </programme>
     <programme start="20251104133000 +0000" stop="20251104163000 +0000" channel="Asianet Movies.starhub">
-        <title>Udayananu Tharam</title>
+        <title>Bramayugam</title>
     </programme>
     <programme start="20251103160000 +0000" stop="20251103170000 +0000" channel="Astro Warna HD.starhub">
         <title>Dia Bukan Manusia</title>
