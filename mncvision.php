@@ -8716,8 +8716,11 @@
 <programme start="20251105023000 +0000" stop="20251105043000 +0000" channel="SPOTV 2.mncvision">
     <title>GTour Women&#039;s 6th Tournament</title>
 </programme>
-<programme start="20251105043000 +0000" stop="20251105093000 +0000" channel="SPOTV 2.mncvision">
+<programme start="20251105043000 +0000" stop="20251105084000 +0000" channel="SPOTV 2.mncvision">
     <title>WTT Champions Frankfurt 2025</title>
+</programme>
+<programme start="20251105084000 +0000" stop="20251105093000 +0000" channel="SPOTV 2.mncvision">
+    <title>MotoGP 2025 Rewind: Australian</title>
 </programme>
 <programme start="20251105093000 +0000" stop="20251105100000 +0000" channel="SPOTV 2.mncvision">
     <title>2025/26 A-League Men</title>
@@ -8758,8 +8761,11 @@
 <programme start="20251105023000 +0000" stop="20251105043000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>GTour Women&#039;s 6th Tournament</title>
 </programme>
-<programme start="20251105043000 +0000" stop="20251105093000 +0000" channel="SPOTV 2 HD.mncvision">
+<programme start="20251105043000 +0000" stop="20251105084000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>WTT Champions Frankfurt 2025</title>
+</programme>
+<programme start="20251105084000 +0000" stop="20251105093000 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>MotoGP 2025 Rewind: Australian</title>
 </programme>
 <programme start="20251105093000 +0000" stop="20251105100000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>2025/26 A-League Men</title>
