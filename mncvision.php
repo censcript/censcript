@@ -434,7 +434,7 @@
     <title>Si Rawing</title>
 </programme>
 <programme start="20251105133000 +0000" stop="20251105153000 +0000" channel="ANTV.mncvision">
-    <title>Rindu Tak Berujung</title>
+    <title>Jampang 2</title>
 </programme>
 <programme start="20251105153000 +0000" stop="20251105160000 +0000" channel="ANTV.mncvision">
     <title>Tiger On Beat 2</title>
