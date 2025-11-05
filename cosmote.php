@@ -114,6 +114,10 @@
     <title>Football: Torino - Pisa</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251106181500 +0700" stop="20251106203000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Volos - Panathinaikos</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251105164000 +0700" stop="20251105184000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Tamworth - Leyton Orient</title>
     <desc>Live: Tidak</desc>
@@ -178,6 +182,10 @@
     <title>Football: Celtic FC - Rangers FC</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251106180000 +0700" stop="20251106200000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Leicester City FC - Blackburn Rovers</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251105164500 +0700" stop="20251105191500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Toronto Raptors - Milwaukee Bucks</title>
     <desc>Live: Tidak</desc>
@@ -240,10 +248,6 @@
 </programme>
 <programme start="20251106170000 +0700" stop="20251106193000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: New York Knicks - Minnesota Timberwolves</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251105164500 +0700" stop="20251105171500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC Magazine 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251105171500 +0700" stop="20251105183500 +0700" channel="COSMOTE Sport 5 HD">
@@ -336,6 +340,10 @@
 </programme>
 <programme start="20251106170000 +0700" stop="20251106183000 +0700" channel="COSMOTE Sport 5 HD">
     <title>WRC 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251106183000 +0700" stop="20251106190000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC Magazine 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251105160000 +0700" stop="20251105200000 +0700" channel="COSMOTE Sport 6 HD">
