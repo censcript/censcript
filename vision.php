@@ -124,7 +124,7 @@
 <programme start="20251105160000 +0000" stop="20251105170000 +0000" channel="MNCTV.vision">
 <title>Lingkar Takdir</title>
 </programme>
-<programme start="20251104190000 +0000" stop="20251104210000 +0000" channel="MNCTV.vision">
+<programme start="20251105170000 +0000" stop="20251105190000 +0000" channel="MNCTV.vision">
 <title>Suparman Reborn</title>
 </programme>
 <programme start="20251105190000 +0000" stop="20251105210000 +0000" channel="MNCTV.vision">
@@ -184,7 +184,7 @@
 <programme start="20251105020000 +0000" stop="20251105050000 +0000" channel="GTV.vision">
 <title>Spongebob Squarepants (GTV)</title>
 </programme>
-<programme start="20251103050000 +0000" stop="20251103070000 +0000" channel="GTV.vision">
+<programme start="20251105050000 +0000" stop="20251105070000 +0000" channel="GTV.vision">
 <title>SpongeBob SquarePants Movie</title>
 </programme>
 <programme start="20251105070000 +0000" stop="20251105090000 +0000" channel="GTV.vision">
@@ -193,10 +193,10 @@
 <programme start="20251105090000 +0000" stop="20251105100000 +0000" channel="GTV.vision">
 <title>Bernard Bear</title>
 </programme>
-<programme start="20251103093000 +0000" stop="20251103110000 +0000" channel="GTV.vision">
+<programme start="20251105100000 +0000" stop="20251105110000 +0000" channel="GTV.vision">
 <title>SpongeBob SquarePants Movie</title>
 </programme>
-<programme start="20251103110000 +0000" stop="20251103111500 +0000" channel="GTV.vision">
+<programme start="20251105110000 +0000" stop="20251105111500 +0000" channel="GTV.vision">
 <title>SpongeBob SquarePants Movie</title>
 </programme>
 <programme start="20251105111500 +0000" stop="20251105123000 +0000" channel="GTV.vision">
@@ -223,7 +223,7 @@
 <programme start="20251105220000 +0000" stop="20251105230000 +0000" channel="GTV.vision">
 <title>Kisah Viral</title>
 </programme>
-<programme start="20251103230000 +0000" stop="20251104003000 +0000" channel="GTV.vision">
+<programme start="20251105230000 +0000" stop="20251106003000 +0000" channel="GTV.vision">
 <title>SpongeBob SquarePants Movie</title>
 </programme>
 <programme start="20251106003000 +0000" stop="20251106013000 +0000" channel="GTV.vision">
@@ -235,7 +235,7 @@
 <programme start="20251106020000 +0000" stop="20251106050000 +0000" channel="GTV.vision">
 <title>Spongebob Squarepants (GTV)</title>
 </programme>
-<programme start="20251104050000 +0000" stop="20251104070000 +0000" channel="GTV.vision">
+<programme start="20251106050000 +0000" stop="20251106070000 +0000" channel="GTV.vision">
 <title>SpongeBob SquarePants Movie</title>
 </programme>
 <programme start="20251106070000 +0000" stop="20251106090000 +0000" channel="GTV.vision">
@@ -352,10 +352,10 @@
 <programme start="20251106080000 +0000" stop="20251106093000 +0000" channel="iNews.vision">
 <title>Realita (L)</title>
 </programme>
-<programme start="20251105110500 +0000" stop="20251105120000 +0000" channel="iNews.vision">
+<programme start="20251106093000 +0000" stop="20251106110000 +0000" channel="iNews.vision">
 <title>Inews Sore (Live)</title>
 </programme>
-<programme start="20251105120000 +0000" stop="20251105120500 +0000" channel="iNews.vision">
+<programme start="20251106110000 +0000" stop="20251106110500 +0000" channel="iNews.vision">
 <title>iNews Terkini</title>
 </programme>
 <programme start="20251106110500 +0000" stop="20251106120000 +0000" channel="iNews.vision">
@@ -681,9 +681,6 @@
 </programme>
 <programme start="20251105013000 +0000" stop="20251105030000 +0000" channel="ANTV.vision">
 <title>Mangal Lakshmi</title>
-</programme>
-<programme start="20251105030000 +0000" stop="20251105063000 +0000" channel="ANTV.vision">
-<title>My Name Is Khan</title>
 </programme>
 <programme start="20251105063000 +0000" stop="20251105080000 +0000" channel="ANTV.vision">
 <title>Cinta Keluarga Pandya</title>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20251106060000 +0000" stop="20251106063000 +0000" channel="BTV.vision">
 <title>Investor Daily Talk</title>
+</programme>
+<programme start="20251106063000 +0000" stop="20251106080000 +0000" channel="BTV.vision">
+<title>Spot On</title>
 </programme>
