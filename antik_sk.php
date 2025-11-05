@@ -1210,7 +1210,7 @@
   <programme start="20251107215000 +0000" stop="20251107234500 +0000" channel="JOJ Plus.webtv.sk">
     <title lang="id">Krvavé peniaze</title>
   </programme>
-  <programme start="20251106223000 +0000" stop="20251106233000 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20251106220000 +0000" stop="20251106233000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Highlighty UEFA</title>
   </programme>
   <programme start="20251106233000 +0000" stop="20251107010500 +0000" channel="JOJ Šport.webtv.sk">
@@ -3325,31 +3325,31 @@
   <programme start="20251107223000 +0000" stop="20251107232500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Inspektorka Candice Renoirová II (7)</title>
   </programme>
-  <programme start="20251106222200 +0000" stop="20251106231000 +0000" channel="ČT2.webtv.sk">
+  <programme start="20251106222100 +0000" stop="20251106231000 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Hitler</title>
   </programme>
-  <programme start="20251106231000 +0000" stop="20251106235600 +0000" channel="ČT2.webtv.sk">
-    <title lang="id">Windsorové pod drobnohledem (5/5)</title>
+  <programme start="20251106231000 +0000" stop="20251106235900 +0000" channel="ČT2.webtv.sk">
+    <title lang="id">Po setmění v zemi divočiny</title>
   </programme>
-  <programme start="20251106235600 +0000" stop="20251107005500 +0000" channel="ČT2.webtv.sk">
+  <programme start="20251106235900 +0000" stop="20251107005700 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Láska a sex v Číně</title>
   </programme>
-  <programme start="20251107005500 +0000" stop="20251107013300 +0000" channel="ČT2.webtv.sk">
+  <programme start="20251107005700 +0000" stop="20251107013500 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Na moll</title>
   </programme>
-  <programme start="20251107013300 +0000" stop="20251107020000 +0000" channel="ČT2.webtv.sk">
+  <programme start="20251107013500 +0000" stop="20251107020300 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Nová Ves Moravská</title>
   </programme>
-  <programme start="20251107020000 +0000" stop="20251107025500 +0000" channel="ČT2.webtv.sk">
+  <programme start="20251107020300 +0000" stop="20251107025600 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Historie.cs</title>
   </programme>
-  <programme start="20251107025500 +0000" stop="20251107032500 +0000" channel="ČT2.webtv.sk">
+  <programme start="20251107025600 +0000" stop="20251107032500 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Před půlnocí</title>
   </programme>
-  <programme start="20251107032500 +0000" stop="20251107035200 +0000" channel="ČT2.webtv.sk">
+  <programme start="20251107032500 +0000" stop="20251107035100 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Bronz</title>
   </programme>
-  <programme start="20251107035200 +0000" stop="20251107042000 +0000" channel="ČT2.webtv.sk">
+  <programme start="20251107035100 +0000" stop="20251107042000 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Babylon</title>
   </programme>
   <programme start="20251107042000 +0000" stop="20251107044600 +0000" channel="ČT2.webtv.sk">
@@ -3373,10 +3373,10 @@
   <programme start="20251107093700 +0000" stop="20251107103500 +0000" channel="ČT2.webtv.sk">
     <title lang="id">S kuchařem kolem světa</title>
   </programme>
-  <programme start="20251107103500 +0000" stop="20251107104200 +0000" channel="ČT2.webtv.sk">
+  <programme start="20251107103500 +0000" stop="20251107104100 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Postřehy odjinud</title>
   </programme>
-  <programme start="20251107104200 +0000" stop="20251107113000 +0000" channel="ČT2.webtv.sk">
+  <programme start="20251107104100 +0000" stop="20251107113000 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Dospívání grizzlyho: Příběh dvou sirotků</title>
   </programme>
   <programme start="20251107113000 +0000" stop="20251107120000 +0000" channel="ČT2.webtv.sk">
@@ -3385,10 +3385,10 @@
   <programme start="20251107120000 +0000" stop="20251107130000 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Diplom pro majordoma</title>
   </programme>
-  <programme start="20251107130000 +0000" stop="20251107131600 +0000" channel="ČT2.webtv.sk">
+  <programme start="20251107130000 +0000" stop="20251107131500 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Vzkaz Karla Valocha</title>
   </programme>
-  <programme start="20251107131600 +0000" stop="20251107141000 +0000" channel="ČT2.webtv.sk">
+  <programme start="20251107131500 +0000" stop="20251107141000 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Přední linie (3/8)</title>
   </programme>
   <programme start="20251107141000 +0000" stop="20251107150000 +0000" channel="ČT2.webtv.sk">
@@ -3397,22 +3397,22 @@
   <programme start="20251107150000 +0000" stop="20251107155100 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Jak se žilo na hradu Münzenberg v roce 1218</title>
   </programme>
-  <programme start="20251107155100 +0000" stop="20251107161100 +0000" channel="ČT2.webtv.sk">
+  <programme start="20251107155100 +0000" stop="20251107161000 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Příběhy domů</title>
   </programme>
-  <programme start="20251107161100 +0000" stop="20251107170000 +0000" channel="ČT2.webtv.sk">
+  <programme start="20251107161000 +0000" stop="20251107170000 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Korunovace Alžběty II. v barvě</title>
   </programme>
   <programme start="20251107170000 +0000" stop="20251107172600 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Ezoterické Česko (1/5)</title>
   </programme>
-  <programme start="20251107172600 +0000" stop="20251107182200 +0000" channel="ČT2.webtv.sk">
+  <programme start="20251107172600 +0000" stop="20251107182100 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Australské dobrodružství</title>
   </programme>
-  <programme start="20251107182200 +0000" stop="20251107184100 +0000" channel="ČT2.webtv.sk">
+  <programme start="20251107182100 +0000" stop="20251107184000 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Bohové a mýty staré Evropy</title>
   </programme>
-  <programme start="20251107184100 +0000" stop="20251107185000 +0000" channel="ČT2.webtv.sk">
+  <programme start="20251107184000 +0000" stop="20251107185000 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Postřehy odjinud</title>
   </programme>
   <programme start="20251107185000 +0000" stop="20251107190000 +0000" channel="ČT2.webtv.sk">
