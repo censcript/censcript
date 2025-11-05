@@ -2712,30 +2712,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251105224500 +0000" stop="20251105230000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>Bundesliga Collection: Die schönsten Tore: Hamburger SV</title>
 </programme>
-<programme start="20251105080000 +0000" stop="20251105100000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
-    <title>2. BL: SV Darmstadt 98 - Arminia Bielefeld, tipico Topspiel der Woche, 11. Spieltag</title>
-</programme>
-<programme start="20251105100000 +0000" stop="20251105120000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
-    <title>BL: FC Bayern München - Bayer Leverkusen, tipico Topspiel der Woche, 9. Spieltag</title>
-</programme>
-<programme start="20251105120000 +0000" stop="20251105140000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
-    <title>BL: RB Leipzig - VfB Stuttgart, 9. Spieltag</title>
-</programme>
-<programme start="20251105140000 +0000" stop="20251105160000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
-    <title>BL: FC Augsburg - Borussia Dortmund, Flutlicht-Freitag, 9. Spieltag</title>
-</programme>
-<programme start="20251105160000 +0000" stop="20251105180000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
-    <title>2. BL: SV Darmstadt 98 - Arminia Bielefeld, tipico Topspiel der Woche, 11. Spieltag</title>
-</programme>
-<programme start="20251105180000 +0000" stop="20251105200000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
-    <title>BL: FC Bayern München - Bayer Leverkusen, tipico Topspiel der Woche, 9. Spieltag</title>
-</programme>
-<programme start="20251105200000 +0000" stop="20251105220000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
-    <title>BL: RB Leipzig - VfB Stuttgart, 9. Spieltag</title>
-</programme>
-<programme start="20251105220000 +0000" stop="20251106000000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
-    <title>BL: FC Augsburg - Borussia Dortmund, Flutlicht-Freitag, 9. Spieltag</title>
-</programme>
 <programme start="20251105000000 +0000" stop="20251105010000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1 Academy: 1. Rennen - GP Singapur</title>
 </programme>
