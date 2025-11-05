@@ -174,10 +174,6 @@
     <title>Football: Rangers FC - AS Roma (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251106010000 +0700" stop="20251106031000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Promitheas - Legia Warszawa (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
 <programme start="20251106031000 +0700" stop="20251106054000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Toronto Raptors - Milwaukee Bucks</title>
     <desc>Live: Tidak</desc>
