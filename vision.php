@@ -403,11 +403,14 @@
 <programme start="20251105120000 +0000" stop="20251105133000 +0000" channel="SindoNews.vision">
 <title>SINDO Prime</title>
 </programme>
-<programme start="20251105133000 +0000" stop="20251105153000 +0000" channel="SindoNews.vision">
-<title>Rakyat Bersuara</title>
+<programme start="20251105133000 +0000" stop="20251105143000 +0000" channel="SindoNews.vision">
+<title>SINDO Malam</title>
+</programme>
+<programme start="20251105143000 +0000" stop="20251105153000 +0000" channel="SindoNews.vision">
+<title>Special Report</title>
 </programme>
 <programme start="20251105153000 +0000" stop="20251105163000 +0000" channel="SindoNews.vision">
-<title>SINDO Malam</title>
+<title>SINDO Files</title>
 </programme>
 <programme start="20251105163000 +0000" stop="20251105170000 +0000" channel="SindoNews.vision">
 <title>OMG</title>
@@ -439,37 +442,37 @@
 <programme start="20251106000000 +0000" stop="20251106003000 +0000" channel="SindoNews.vision">
 <title>iNews Today</title>
 </programme>
-<programme start="20251110003000 +0000" stop="20251110020000 +0000" channel="SindoNews.vision">
+<programme start="20251106003000 +0000" stop="20251106020000 +0000" channel="SindoNews.vision">
 <title>SINDO Today</title>
 </programme>
-<programme start="20251110020000 +0000" stop="20251110030000 +0000" channel="SindoNews.vision">
+<programme start="20251106020000 +0000" stop="20251106030000 +0000" channel="SindoNews.vision">
 <title>Special Report</title>
 </programme>
 <programme start="20251106030000 +0000" stop="20251106033000 +0000" channel="SindoNews.vision">
 <title>iNews Sport Pagi</title>
 </programme>
-<programme start="20251110033000 +0000" stop="20251110050000 +0000" channel="SindoNews.vision">
+<programme start="20251106033000 +0000" stop="20251106050000 +0000" channel="SindoNews.vision">
 <title>SINDO Siang</title>
 </programme>
-<programme start="20251110050000 +0000" stop="20251110053000 +0000" channel="SindoNews.vision">
+<programme start="20251106050000 +0000" stop="20251106053000 +0000" channel="SindoNews.vision">
 <title>Lintas iNews Siang</title>
 </programme>
-<programme start="20251110053000 +0000" stop="20251110063000 +0000" channel="SindoNews.vision">
+<programme start="20251106053000 +0000" stop="20251106063000 +0000" channel="SindoNews.vision">
 <title>iNews Today</title>
 </programme>
-<programme start="20251110063000 +0000" stop="20251110070000 +0000" channel="SindoNews.vision">
+<programme start="20251106063000 +0000" stop="20251106070000 +0000" channel="SindoNews.vision">
 <title>Seputar iNews Siang</title>
 </programme>
-<programme start="20251110070000 +0000" stop="20251110083000 +0000" channel="SindoNews.vision">
+<programme start="20251106070000 +0000" stop="20251106083000 +0000" channel="SindoNews.vision">
 <title>iNews Siang</title>
 </programme>
-<programme start="20251110083000 +0000" stop="20251110093000 +0000" channel="SindoNews.vision">
+<programme start="20251106083000 +0000" stop="20251106093000 +0000" channel="SindoNews.vision">
 <title>Special Report</title>
 </programme>
-<programme start="20251110093000 +0000" stop="20251110110000 +0000" channel="SindoNews.vision">
+<programme start="20251106093000 +0000" stop="20251106110000 +0000" channel="SindoNews.vision">
 <title>SINDO Sore</title>
 </programme>
-<programme start="20251110110000 +0000" stop="20251110120000 +0000" channel="SindoNews.vision">
+<programme start="20251106110000 +0000" stop="20251106120000 +0000" channel="SindoNews.vision">
 <title>SINDO Files</title>
 </programme>
 <programme start="20251104233000 +0000" stop="20251105003000 +0000" channel="Trans TV.vision">
@@ -610,9 +613,6 @@
 <programme start="20251105154500 +0000" stop="20251105163000 +0000" channel="Trans 7.vision">
 <title>The Police</title>
 </programme>
-<programme start="20251105163000 +0000" stop="20251105171500 +0000" channel="Trans 7.vision">
-<title>Newstainment</title>
-</programme>
 <programme start="20251105171500 +0000" stop="20251105174500 +0000" channel="Trans 7.vision">
 <title>Redaksi Malam</title>
 </programme>
@@ -685,6 +685,9 @@
 <programme start="20251105013000 +0000" stop="20251105030000 +0000" channel="ANTV.vision">
 <title>Mangal Lakshmi</title>
 </programme>
+<programme start="20251105030000 +0000" stop="20251105063000 +0000" channel="ANTV.vision">
+<title>My Name Is Khan</title>
+</programme>
 <programme start="20251105063000 +0000" stop="20251105080000 +0000" channel="ANTV.vision">
 <title>Cinta Keluarga Pandya</title>
 </programme>
@@ -693,18 +696,6 @@
 </programme>
 <programme start="20251105093000 +0000" stop="20251105113000 +0000" channel="ANTV.vision">
 <title>Takdir Cinta Layla</title>
-</programme>
-<programme start="20251105113000 +0000" stop="20251105133000 +0000" channel="ANTV.vision">
-<title>Si Rawing</title>
-</programme>
-<programme start="20251105133000 +0000" stop="20251105153000 +0000" channel="ANTV.vision">
-<title>Rindu Tak Berujung</title>
-</programme>
-<programme start="20251105153000 +0000" stop="20251105171500 +0000" channel="ANTV.vision">
-<title>Tiger On Beat 2</title>
-</programme>
-<programme start="20251105171500 +0000" stop="20251105190000 +0000" channel="ANTV.vision">
-<title>Conspirators</title>
 </programme>
 <programme start="20251105190000 +0000" stop="20251105203000 +0000" channel="ANTV.vision">
 <title>Pendekar Bukit Tengkorak</title>
@@ -725,7 +716,7 @@
 <title>Mangal Lakshmi</title>
 </programme>
 <programme start="20251106030000 +0000" stop="20251106063000 +0000" channel="ANTV.vision">
-<title>Kabhi Haan Kabhi Naa</title>
+<title>Mann</title>
 </programme>
 <programme start="20251106063000 +0000" stop="20251106080000 +0000" channel="ANTV.vision">
 <title>Cinta Keluarga Pandya</title>
@@ -1497,4 +1488,13 @@
 </programme>
 <programme start="20251106060000 +0000" stop="20251106063000 +0000" channel="BTV.vision">
 <title>Investor Daily Talk</title>
+</programme>
+<programme start="20251106063000 +0000" stop="20251106080000 +0000" channel="BTV.vision">
+<title>Spot On</title>
+</programme>
+<programme start="20251106080000 +0000" stop="20251106083000 +0000" channel="BTV.vision">
+<title>Dikit-Dikit Damkar</title>
+</programme>
+<programme start="20251106083000 +0000" stop="20251106091500 +0000" channel="BTV.vision">
+<title>Figur Publik</title>
 </programme>

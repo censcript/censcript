@@ -238,14 +238,6 @@
     <title>Football: AEK - Shamrock Rovers FC (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251106001000 +0700" stop="20251106011500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251106011500 +0700" stop="20251106014500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251106014500 +0700" stop="20251106030000 +0700" channel="COSMOTE Sport 5 HD">
     <title>MotoGP 2025 - Highlights</title>
     <desc>Live: Tidak</desc>
@@ -326,8 +318,12 @@
     <title>Volleyball: Olympiacos - Las Palmas (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251106005000 +0700" stop="20251106014000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Beach Volley: Pro Tour Elite 16 2025</title>
+<programme start="20251107020000 +0700" stop="20251107023000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC Magazine 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251107023000 +0700" stop="20251107030000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Sports Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251106014000 +0700" stop="20251106030000 +0700" channel="COSMOTE Sport 6 HD">
@@ -389,10 +385,6 @@
 <programme start="20251107004500 +0700" stop="20251107030000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Football: GNK Dinamo - Celta (L)</title>
     <desc>Live: Ya</desc>
-</programme>
-<programme start="20251106010000 +0700" stop="20251106020000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
-    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251106020000 +0700" stop="20251106023000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
