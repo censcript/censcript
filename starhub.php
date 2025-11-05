@@ -5230,41 +5230,35 @@
     <programme start="20251105153500 +0000" stop="20251105170500 +0000" channel="KBS World HD.starhub">
         <title>Stars&#039; Top Recipe at Fun-Staurant</title>
     </programme>
-    <programme start="20251104160000 +0000" stop="20251104161500 +0000" channel="TestChannel 996.starhub">
+    <programme start="20251104160000 +0000" stop="20251104163000 +0000" channel="TestChannel 996.starhub">
         <title>Big Boys Club</title>
     </programme>
-    <programme start="20251104161500 +0000" stop="20251104165000 +0000" channel="TestChannel 996.starhub">
-        <title>Vengeance of the Bride</title>
-    </programme>
-    <programme start="20251104165000 +0000" stop="20251104173000 +0000" channel="TestChannel 996.starhub">
-        <title>Vengeance of the Bride</title>
+    <programme start="20251104163000 +0000" stop="20251104173000 +0000" channel="TestChannel 996.starhub">
+        <title>Dead Ringer</title>
     </programme>
     <programme start="20251104173000 +0000" stop="20251104183000 +0000" channel="TestChannel 996.starhub">
-        <title>The Litchi Road</title>
+        <title>Lo And Behold &amp; What&#039;s On Today</title>
     </programme>
-    <programme start="20251104183000 +0000" stop="20251104190000 +0000" channel="TestChannel 996.starhub">
-        <title>Lo And Behold</title>
+    <programme start="20251104183000 +0000" stop="20251104193000 +0000" channel="TestChannel 996.starhub">
+        <title>Scoop 2025</title>
     </programme>
-    <programme start="20251104190000 +0000" stop="20251104200000 +0000" channel="TestChannel 996.starhub">
-        <title>Prism Breaker</title>
+    <programme start="20251104193000 +0000" stop="20251104200000 +0000" channel="TestChannel 996.starhub">
+        <title>Gourmet Express</title>
     </programme>
     <programme start="20251104200000 +0000" stop="20251104210000 +0000" channel="TestChannel 996.starhub">
-        <title>The Wanted Detective</title>
+        <title>Modern Dynasty</title>
     </programme>
-    <programme start="20251104210000 +0000" stop="20251104213000 +0000" channel="TestChannel 996.starhub">
-        <title>Lo And Behold</title>
+    <programme start="20251104210000 +0000" stop="20251104214500 +0000" channel="TestChannel 996.starhub">
+        <title>Big City Shop 2024</title>
     </programme>
-    <programme start="20251104213000 +0000" stop="20251104222000 +0000" channel="TestChannel 996.starhub">
-        <title>The Heir to the Throne (with Eng Subs)</title>
+    <programme start="20251104214500 +0000" stop="20251104220000 +0000" channel="TestChannel 996.starhub">
+        <title>Happy Old Buddies</title>
     </programme>
-    <programme start="20251104222000 +0000" stop="20251104231500 +0000" channel="TestChannel 996.starhub">
-        <title>The Heir to the Throne (with Eng Subs)</title>
+    <programme start="20251104220000 +0000" stop="20251104230000 +0000" channel="TestChannel 996.starhub">
+        <title>Scoop 2025</title>
     </programme>
     <programme start="20251104230000 +0000" stop="20251105000000 +0000" channel="TestChannel 996.starhub">
         <title>Good Morning Hong Kong and Global View</title>
-    </programme>
-    <programme start="20251104231500 +0000" stop="20251104235000 +0000" channel="TestChannel 996.starhub">
-        <title>Vengeance of the Bride</title>
     </programme>
     <programme start="20251105000000 +0000" stop="20251105010000 +0000" channel="TestChannel 996.starhub">
         <title>Dead Ringer</title>
@@ -6721,17 +6715,50 @@
     <programme start="20251105142900 +0000" stop="20251105164700 +0000" channel="SONY MAX.starhub">
         <title>Saajan Chale Sasural</title>
     </programme>
+    <programme start="20251104160000 +0000" stop="20251104163000 +0000" channel="Sky News HD.starhub">
+        <title>Sky News Today with Jayne Secker</title>
+    </programme>
+    <programme start="20251104163000 +0000" stop="20251104170000 +0000" channel="Sky News HD.starhub">
+        <title>Sky News Today with Jayne Secker</title>
+    </programme>
+    <programme start="20251104170000 +0000" stop="20251104173000 +0000" channel="Sky News HD.starhub">
+        <title>The News Hour With Mark Austin</title>
+    </programme>
+    <programme start="20251104173000 +0000" stop="20251104180000 +0000" channel="Sky News HD.starhub">
+        <title>The News Hour With Mark Austin</title>
+    </programme>
+    <programme start="20251104180000 +0000" stop="20251104183000 +0000" channel="Sky News HD.starhub">
+        <title>The News Hour With Mark Austin</title>
+    </programme>
+    <programme start="20251104183000 +0000" stop="20251104190000 +0000" channel="Sky News HD.starhub">
+        <title>The News Hour With Mark Austin</title>
+    </programme>
     <programme start="20251104190000 +0000" stop="20251104193000 +0000" channel="Sky News HD.starhub">
         <title>Politics Hub</title>
     </programme>
     <programme start="20251104193000 +0000" stop="20251104200000 +0000" channel="Sky News HD.starhub">
         <title>Politics Hub</title>
     </programme>
+    <programme start="20251104200000 +0000" stop="20251104203000 +0000" channel="Sky News HD.starhub">
+        <title>UK Tonight With Sarah-Jane Mee</title>
+    </programme>
+    <programme start="20251104203000 +0000" stop="20251104210000 +0000" channel="Sky News HD.starhub">
+        <title>UK Tonight With Sarah-Jane Mee</title>
+    </programme>
     <programme start="20251104210000 +0000" stop="20251104213000 +0000" channel="Sky News HD.starhub">
         <title>The World with Yalda Hakim</title>
     </programme>
+    <programme start="20251104213000 +0000" stop="20251104220000 +0000" channel="Sky News HD.starhub">
+        <title>The World with Yalda Hakim</title>
+    </programme>
+    <programme start="20251104220000 +0000" stop="20251104223000 +0000" channel="Sky News HD.starhub">
+        <title>News at 10 with Anna Botting</title>
+    </programme>
     <programme start="20251104223000 +0000" stop="20251104230000 +0000" channel="Sky News HD.starhub">
         <title>Press Preview</title>
+    </programme>
+    <programme start="20251104230000 +0000" stop="20251104233000 +0000" channel="Sky News HD.starhub">
+        <title>News &amp; Press Preview</title>
     </programme>
     <programme start="20251104233000 +0000" stop="20251105000000 +0000" channel="Sky News HD.starhub">
         <title>Press Preview</title>
