@@ -1961,7 +1961,7 @@
         <title>UEFA Champions League 2025/26 Napoli vs Frankfurt - MD4 (Live)</title>
     </programme>
     <programme start="20251104195500 +0000" stop="20251104220000 +0000" channel="beIN Sports 3.starhub">
-        <title>UEFA Champions League 2025/26 PSG vs Bayern - MD4 (Live)</title>
+        <title>UEFA Champions League 2025/26: Liverpool vs Real Madrid - MD4 (Live)</title>
     </programme>
     <programme start="20251104220000 +0000" stop="20251104223000 +0000" channel="beIN Sports 3.starhub">
         <title>PSG TV Specials 2025/26</title>
@@ -2092,14 +2092,14 @@
     <programme start="20251104210000 +0000" stop="20251104214500 +0000" channel="CNN HD.starhub">
         <title>Quest Means Business</title>
     </programme>
-    <programme start="20251104214500 +0000" stop="20251104223000 +0000" channel="CNN HD.starhub">
+    <programme start="20251104214500 +0000" stop="20251104220000 +0000" channel="CNN HD.starhub">
         <title>Food Security</title>
     </programme>
-    <programme start="20251104223000 +0000" stop="20251104230000 +0000" channel="CNN HD.starhub">
-        <title>World Sport</title>
+    <programme start="20251104220000 +0000" stop="20251104230000 +0000" channel="CNN HD.starhub">
+        <title>CNN Election Night 2025</title>
     </programme>
     <programme start="20251104230000 +0000" stop="20251105000000 +0000" channel="CNN HD.starhub">
-        <title>The Brief with Jim Sciutto</title>
+        <title>CNN Election Night 2025</title>
     </programme>
     <programme start="20251105000000 +0000" stop="20251105010000 +0000" channel="CNN HD.starhub">
         <title>CNN Election Night 2025</title>
@@ -6842,10 +6842,10 @@
         <title>UEFA Champions League 2025/26: Slavia Prague vs Arsenal - MD4 (Live)</title>
     </programme>
     <programme start="20251104195500 +0000" stop="20251104220000 +0000" channel="beIN Sports HD.starhub">
-        <title>UEFA Champions League 2025/26: Liverpool vs Real Madrid - MD4 (Live)</title>
+        <title>UEFA Champions League 2025/26: PSG vs Bayern - MD4 (Live)</title>
     </programme>
     <programme start="20251104220000 +0000" stop="20251104224500 +0000" channel="beIN Sports HD.starhub">
-        <title>The UCL Review Show 2025/26 Liverpool vs Real Madrid -Tue, MD4 (Live)</title>
+        <title>The UCL Review Show 2025/26 PSG vs Bayern -Tue, MD4 (Live)</title>
     </programme>
     <programme start="20251104224500 +0000" stop="20251104232000 +0000" channel="beIN Sports HD.starhub">
         <title>GP Confidential 2025</title>
@@ -8094,6 +8094,9 @@
     </programme>
     <programme start="20251104151000 +0000" stop="20251104173000 +0000" channel="SPOTV2.starhub">
         <title>ROSHN Saudi League 25/26 MW7 Al Ahli vs Al Riyadh</title>
+    </programme>
+    <programme start="20251104173000 +0000" stop="20251104210000 +0000" channel="SPOTV2.starhub">
+        <title>Day 1 Session 2</title>
     </programme>
     <programme start="20251104210000 +0000" stop="20251104230000 +0000" channel="SPOTV2.starhub">
         <title>2025/26 A-League Men Round 3 Newcastle Jets FC vs Sydney FC</title>

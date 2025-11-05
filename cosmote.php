@@ -54,10 +54,6 @@
     <title>Football: Olympique de Marseille - Atalanta</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251105100000 +0700" stop="20251105120000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: ACF Fiorentina - Lecce</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251105120000 +0700" stop="20251105141000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: AEL Novibet - Levadiakos</title>
     <desc>Live: Tidak</desc>
@@ -112,6 +108,10 @@
 </programme>
 <programme start="20251106100000 +0700" stop="20251106120000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Torino - Pisa</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251106120000 +0700" stop="20251106141500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: AEK - Panetolikos</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251105110000 +0700" stop="20251105141500 +0700" channel="COSMOTE Sport 3 HD">
@@ -330,8 +330,8 @@
     <title>Highlights: 2025 Extreme H</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251105110000 +0700" stop="20251105120000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Beach Volley: Pro Tour Elite 16 2025</title>
+<programme start="20251106123000 +0700" stop="20251106133000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>DTM</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251105120000 +0700" stop="20251105125000 +0700" channel="COSMOTE Sport 6 HD">
