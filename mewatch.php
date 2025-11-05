@@ -139,17 +139,17 @@
     <programme start="20251105123000 +0000" stop="20251105130000 +0000" channel="Channel 5.mewatch">
         <title>Provocative - EP 161</title>
     </programme>
-    <programme start="20251105130000 +0000" stop="20251105133000 +0000" channel="Channel 5.mewatch">
+    <programme start="20251105130000 +0000" stop="20251105134500 +0000" channel="Channel 5.mewatch">
         <title>(Live) News Tonight</title>
     </programme>
-    <programme start="20251105133000 +0000" stop="20251105143000 +0000" channel="Channel 5.mewatch">
+    <programme start="20251105134500 +0000" stop="20251105144500 +0000" channel="Channel 5.mewatch">
         <title>Inside The Women&#039;s Prison - EP 3</title>
     </programme>
-    <programme start="20251105143000 +0000" stop="20251105153000 +0000" channel="Channel 5.mewatch">
+    <programme start="20251105144500 +0000" stop="20251105154500 +0000" channel="Channel 5.mewatch">
         <title>Amazing Hotels: Life Beyond the Lobby: S4 - EP 6</title>
     </programme>
-    <programme start="20251105153000 +0000" stop="20251105160000 +0000" channel="Channel 5.mewatch">
-        <title>The Best I Could - EP 4</title>
+    <programme start="20251105154500 +0000" stop="20251105160000 +0000" channel="Channel 5.mewatch">
+        <title>Just For Laughs Gags S24 - EP 1</title>
     </programme>
     <programme start="20251105160000 +0000" stop="20251105163000 +0000" channel="Channel 5.mewatch">
         <title>Provocative - EP 161</title>
@@ -262,17 +262,14 @@
     <programme start="20251105130000 +0000" stop="20251105140000 +0000" channel="Channel 8.mewatch">
         <title>The Gift of Time - EP 10</title>
     </programme>
-    <programme start="20251105140000 +0000" stop="20251105143000 +0000" channel="Channel 8.mewatch">
+    <programme start="20251105140000 +0000" stop="20251105144500 +0000" channel="Channel 8.mewatch">
         <title>(Live) News Tonight</title>
     </programme>
-    <programme start="20251105143000 +0000" stop="20251105150000 +0000" channel="Channel 8.mewatch">
+    <programme start="20251105144500 +0000" stop="20251105151500 +0000" channel="Channel 8.mewatch">
         <title>Inspirations from the Southeast 2 - EP 3</title>
     </programme>
-    <programme start="20251105150000 +0000" stop="20251105160000 +0000" channel="Channel 8.mewatch">
+    <programme start="20251105151500 +0000" stop="20251105161500 +0000" channel="Channel 8.mewatch">
         <title>Heroes - EP 16</title>
-    </programme>
-    <programme start="20251105160000 +0000" stop="20251105170000 +0000" channel="Channel 8.mewatch">
-        <title>Fighting for Love - EP 22</title>
     </programme>
     <programme start="20251104154500 +0000" stop="20251104164000 +0000" channel="Channel U.mewatch">
         <title>Let&#039;s Go Flying - EP 3</title>

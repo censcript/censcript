@@ -54,14 +54,6 @@
     <title>Football: Newcastle United - Athletic Club</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251105074000 +0700" stop="20251105094000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: SS Lazio - Cagliari</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251105094000 +0700" stop="20251105100000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Sports Classics: My Sporting Moment</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251105100000 +0700" stop="20251105120000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: ACF Fiorentina - Lecce</title>
     <desc>Live: Tidak</desc>
@@ -116,6 +108,10 @@
 </programme>
 <programme start="20251106080000 +0700" stop="20251106100000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Parma - Bologna</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251106100000 +0700" stop="20251106120000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Torino - Pisa</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251105090000 +0700" stop="20251105110000 +0700" channel="COSMOTE Sport 3 HD">
@@ -246,8 +242,8 @@
     <title>Basketball: New York Knicks - Minnesota Timberwolves (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251105075500 +0700" stop="20251105093500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>DTM</title>
+<programme start="20251106103000 +0700" stop="20251106110000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>NBA Specials</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251105093500 +0700" stop="20251105110000 +0700" channel="COSMOTE Sport 5 HD">
@@ -332,14 +328,6 @@
 </programme>
 <programme start="20251106094000 +0700" stop="20251106110000 +0700" channel="COSMOTE Sport 5 HD">
     <title>DTM 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251105050500 +0700" stop="20251105090500 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: ATP 250 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251105090500 +0700" stop="20251105094000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Sports Classics: The Outdoor Sports Show 2025 E10</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251105094000 +0700" stop="20251105110000 +0700" channel="COSMOTE Sport 6 HD">

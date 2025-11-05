@@ -2619,7 +2619,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251105193000 +0000" stop="20251105195000 +0000" channel="Sky Sport Austria 6 HD.skyde">
     <title>Es folgt: Live UEFA Champions League</title>
 </programme>
-<programme start="20251105195000 +0000" stop="20251105223000 +0000" channel="Sky Sport Austria 6 HD.skyde">
+<programme start="20251105195000 +0000" stop="20251105220000 +0000" channel="Sky Sport Austria 6 HD.skyde">
     <title>Live UEFA CL: Olympique Marseille - Atalanta Bergamo, Ligaphase, 4. Spieltag, Mittwoch</title>
 </programme>
 <programme start="20251105193000 +0000" stop="20251105195000 +0000" channel="Sky Sport Austria 7 HD.skyde">
@@ -3082,7 +3082,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>WTA Finals: M. Andreeva/D. Shnaider - T. Babos (HUN)/L. Stefani (BRA), 4. Tag in Riyadh (SAU)</title>
 </programme>
 <programme start="20251105050000 +0000" stop="20251105070000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 250: Topspiel, Hellenic Open in Athen (GRE), 3. Tag</title>
+    <title>ATP 250: N. Djokovic (SRB) - A. Tabilo (CHI), Hellenic Open in Athen (GRE), 3. Tag</title>
 </programme>
 <programme start="20251105070000 +0000" stop="20251105073000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
@@ -3097,34 +3097,31 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>ATP: This Week</title>
 </programme>
 <programme start="20251105120000 +0000" stop="20251105140000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live WTA Finals: Doppel 1, 5. Tag in Riyadh (SAU)</title>
+    <title>Live WTA Finals: S. Errani (ITA)/J. Paolini (ITA) - V. Kudermetova/E. Mertens (BEL), 5. Tag in Riyadh (SAU)</title>
 </programme>
 <programme start="20251105140000 +0000" stop="20251105160000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live WTA Finals: Einzel 1, 5. Tag in Riyadh (SAU)</title>
+    <title>Live WTA Finals: E. Rybakina (KAZ) - M. Keys (USA), 5. Tag in Riyadh (SAU)</title>
 </programme>
 <programme start="20251105160000 +0000" stop="20251105180000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live WTA Finals: Einzel 2, 5. Tag in Riyadh (SAU)</title>
+    <title>Live WTA Finals: I. Swiatek (POL) - A. Anisimova (USA), 5. Tag in Riyadh (SAU)</title>
 </programme>
 <programme start="20251105180000 +0000" stop="20251105200000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live WTA Finals: Doppel 2, 5. Tag in Riyadh (SAU)</title>
+    <title>Live WTA Finals: S.-W. Hsieh (TPE)/J. Ostapenko (LAT) - A. Muhammad (USA)/D. Schuurs (NED), 5. Tag in Riyadh (SAU)</title>
 </programme>
 <programme start="20251105200000 +0000" stop="20251105203000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
 </programme>
 <programme start="20251105203000 +0000" stop="20251105223000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA Finals: Einzel 1, 5. Tag in Riyadh (SAU)</title>
+    <title>WTA Finals: E. Rybakina (KAZ) - M. Keys (USA), 5. Tag in Riyadh (SAU)</title>
 </programme>
 <programme start="20251105223000 +0000" stop="20251106003000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA Finals: Einzel 2, 5. Tag in Riyadh (SAU)</title>
+    <title>WTA Finals: I. Swiatek (POL) - A. Anisimova (USA), 5. Tag in Riyadh (SAU)</title>
 </programme>
-<programme start="20251104230000 +0000" stop="20251104231500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20251104231500 +0000" stop="20251104233000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Frauen-BL: Alle Spiele, alle Tore, 9. Spieltag, Dienstag</title>
 </programme>
-<programme start="20251104231500 +0000" stop="20251105001500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20251104233000 +0000" stop="20251105003000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>PL: Review, 10. Spieltag</title>
-</programme>
-<programme start="20251105001500 +0000" stop="20251105003000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>NHL: Highlights EDM@STL</title>
 </programme>
 <programme start="20251105003000 +0000" stop="20251105010000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Showtime</title>
@@ -3148,7 +3145,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>NBA: Orlando Magic @ Atlanta Hawks</title>
 </programme>
 <programme start="20251105120000 +0000" stop="20251105140000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live WTA Finals: S. Errani (ITA)/J. Paolini (ITA) - V. Kudermetova/E. Mertens (BEL), 5. Tag in Riyadh (SAU)</title>
+    <title>Live WTA Finals: S. Errani (ITA) / J. Paolini (ITA) - V. Kudermetova / E. Mertens (BEL), 5. Tag in Riyadh (SAU)</title>
 </programme>
 <programme start="20251105140000 +0000" stop="20251105160000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live WTA Finals: E. Rybakina (KAZ) - M. Keys (USA), 5. Tag in Riyadh (SAU)</title>
@@ -3157,7 +3154,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Live WTA Finals: I. Swiatek (POL) - A. Anisimova (USA), 5. Tag in Riyadh (SAU)</title>
 </programme>
 <programme start="20251105180000 +0000" stop="20251105195000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live WTA Finals: S.-W. Hsieh (TPE)/J. Ostapenko (LAT) - A. Muhammad (USA)/D. Schuurs (NED), 5. Tag in Riyadh (SAU)</title>
+    <title>Live WTA Finals: S.-W. Hsieh (TPE) / J. Ostapenko (LAT) - A. Muhammad (USA) / D. Schuurs (NED), 5. Tag in Riyadh (SAU)</title>
 </programme>
 <programme start="20251105195000 +0000" stop="20251105220000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live EFL: FC Portsmouth - AFC Wrexham, 14. Spieltag</title>

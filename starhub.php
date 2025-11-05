@@ -8095,9 +8095,6 @@
     <programme start="20251104151000 +0000" stop="20251104173000 +0000" channel="SPOTV2.starhub">
         <title>ROSHN Saudi League 25/26 MW7 Al Ahli vs Al Riyadh</title>
     </programme>
-    <programme start="20251104173000 +0000" stop="20251104210000 +0000" channel="SPOTV2.starhub">
-        <title>Day 1 Session 2</title>
-    </programme>
     <programme start="20251104210000 +0000" stop="20251104230000 +0000" channel="SPOTV2.starhub">
         <title>2025/26 A-League Men Round 3 Newcastle Jets FC vs Sydney FC</title>
     </programme>
@@ -8113,8 +8110,11 @@
     <programme start="20251105023000 +0000" stop="20251105043000 +0000" channel="SPOTV2.starhub">
         <title>2025 GTOUR Women&#039;s 6th Tournament</title>
     </programme>
-    <programme start="20251105043000 +0000" stop="20251105093000 +0000" channel="SPOTV2.starhub">
+    <programme start="20251105043000 +0000" stop="20251105084000 +0000" channel="SPOTV2.starhub">
         <title>Day 1 Session 1</title>
+    </programme>
+    <programme start="20251105084000 +0000" stop="20251105093000 +0000" channel="SPOTV2.starhub">
+        <title>MotoGP 2025 Rewind - GP of Australian</title>
     </programme>
     <programme start="20251105093000 +0000" stop="20251105100000 +0000" channel="SPOTV2.starhub">
         <title>Round 3</title>
