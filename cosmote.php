@@ -114,6 +114,10 @@
     <title>Football: Parma - Bologna</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251106161500 +0700" stop="20251106181500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Torino - Pisa</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251105141500 +0700" stop="20251105161500 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Vitoria Guimaraes - SL Benfica</title>
     <desc>Live: Tidak</desc>
@@ -250,10 +254,6 @@
     <title>Basketball: Zaragoza - Real Madrid</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251105141000 +0700" stop="20251105154500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251105154500 +0700" stop="20251105164500 +0700" channel="COSMOTE Sport 5 HD">
     <title>WRC</title>
     <desc>Live: Tidak</desc>
@@ -346,8 +346,8 @@
     <title>WRC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251105144500 +0700" stop="20251105160000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Topspin</title>
+<programme start="20251106162000 +0700" stop="20251106170000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251105160000 +0700" stop="20251105200000 +0700" channel="COSMOTE Sport 6 HD">

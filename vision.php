@@ -14,7 +14,7 @@
 <title>Seputar iNews Siang</title>
 </programme>
 <programme start="20251105051500 +0000" stop="20251105080000 +0000" channel="RCTI.vision">
-<title>Take Me Out Indonesia</title>
+<title>Take Me Out Indonesia (RCTI)</title>
 </programme>
 <programme start="20251105080000 +0000" stop="20251105090000 +0000" channel="RCTI.vision">
 <title>Bad Parenting</title>
@@ -34,11 +34,8 @@
 <programme start="20251105143000 +0000" stop="20251105154500 +0000" channel="RCTI.vision">
 <title>Kau Ditakdirkan Untukku (RCTI)</title>
 </programme>
-<programme start="20251105154500 +0000" stop="20251105171500 +0000" channel="RCTI.vision">
+<programme start="20251105154500 +0000" stop="20251105180000 +0000" channel="RCTI.vision">
 <title>Hati Yang Memilih</title>
-</programme>
-<programme start="20251105171500 +0000" stop="20251105180000 +0000" channel="RCTI.vision">
-<title>Ringan Sama Dijinjing Berat...</title>
 </programme>
 <programme start="20251105180000 +0000" stop="20251105190000 +0000" channel="RCTI.vision">
 <title>RCTI</title>
@@ -47,40 +44,40 @@
 <title>RCTI</title>
 </programme>
 <programme start="20251105201500 +0000" stop="20251105230000 +0000" channel="RCTI.vision">
-<title>Preman Pensiun S2</title>
+<title>RCTI</title>
 </programme>
 <programme start="20251105230000 +0000" stop="20251105234500 +0000" channel="RCTI.vision">
-<title>Go Spot</title>
+<title>RCTI</title>
 </programme>
 <programme start="20251105234500 +0000" stop="20251106010000 +0000" channel="RCTI.vision">
-<title>Upin Ipin</title>
+<title>RCTI</title>
 </programme>
 <programme start="20251106010000 +0000" stop="20251106013000 +0000" channel="RCTI.vision">
-<title>Kiko</title>
+<title>RCTI</title>
 </programme>
 <programme start="20251106013000 +0000" stop="20251106033000 +0000" channel="RCTI.vision">
-<title>Doraemon (RCTI)</title>
+<title>RCTI</title>
 </programme>
 <programme start="20251106033000 +0000" stop="20251106043000 +0000" channel="RCTI.vision">
-<title>Emang Boleh (New) RCTI</title>
+<title>RCTI</title>
 </programme>
 <programme start="20251106043000 +0000" stop="20251106051500 +0000" channel="RCTI.vision">
-<title>Seputar iNews Siang</title>
+<title>RCTI</title>
 </programme>
 <programme start="20251106051500 +0000" stop="20251106080000 +0000" channel="RCTI.vision">
-<title>Take Me Out Indonesia</title>
+<title>RCTI</title>
 </programme>
 <programme start="20251106080000 +0000" stop="20251106090000 +0000" channel="RCTI.vision">
-<title>Bad Parenting</title>
+<title>RCTI</title>
 </programme>
 <programme start="20251106090000 +0000" stop="20251106100000 +0000" channel="RCTI.vision">
-<title>Preman Pensiun S9</title>
+<title>RCTI</title>
 </programme>
 <programme start="20251106100000 +0000" stop="20251106110000 +0000" channel="RCTI.vision">
-<title>Dusta Dibalik Cinta (RCTI)</title>
+<title>RCTI</title>
 </programme>
 <programme start="20251106110000 +0000" stop="20251106114500 +0000" channel="RCTI.vision">
-<title>Terbelenggu Rindu (RCTI)</title>
+<title>RCTI</title>
 </programme>
 <programme start="20251106114500 +0000" stop="20251106141500 +0000" channel="RCTI.vision">
 <title>RCTI</title>
@@ -244,14 +241,14 @@
 <programme start="20251106070000 +0000" stop="20251106090000 +0000" channel="GTV.vision">
 <title>Lets Get Wet</title>
 </programme>
-<programme start="20251106090000 +0000" stop="20251106100000 +0000" channel="GTV.vision">
-<title>Bernard Bear</title>
+<programme start="20251106090000 +0000" stop="20251106093000 +0000" channel="GTV.vision">
+<title>GTV</title>
 </programme>
-<programme start="20251106100000 +0000" stop="20251106110000 +0000" channel="GTV.vision">
-<title>SpongeBob SquarePants Movie</title>
+<programme start="20251106093000 +0000" stop="20251106110000 +0000" channel="GTV.vision">
+<title>GTV</title>
 </programme>
 <programme start="20251106110000 +0000" stop="20251106114500 +0000" channel="GTV.vision">
-<title>SpongeBob SquarePants Movie</title>
+<title>GTV</title>
 </programme>
 <programme start="20251106114500 +0000" stop="20251106141500 +0000" channel="GTV.vision">
 <title>GTV</title>
@@ -439,37 +436,37 @@
 <programme start="20251106000000 +0000" stop="20251106003000 +0000" channel="SindoNews.vision">
 <title>iNews Today</title>
 </programme>
-<programme start="20251110003000 +0000" stop="20251110020000 +0000" channel="SindoNews.vision">
+<programme start="20251106003000 +0000" stop="20251106020000 +0000" channel="SindoNews.vision">
 <title>SINDO Today</title>
 </programme>
-<programme start="20251110020000 +0000" stop="20251110030000 +0000" channel="SindoNews.vision">
+<programme start="20251106020000 +0000" stop="20251106030000 +0000" channel="SindoNews.vision">
 <title>Special Report</title>
 </programme>
 <programme start="20251106030000 +0000" stop="20251106033000 +0000" channel="SindoNews.vision">
 <title>iNews Sport Pagi</title>
 </programme>
-<programme start="20251110033000 +0000" stop="20251110050000 +0000" channel="SindoNews.vision">
+<programme start="20251106033000 +0000" stop="20251106050000 +0000" channel="SindoNews.vision">
 <title>SINDO Siang</title>
 </programme>
-<programme start="20251110050000 +0000" stop="20251110053000 +0000" channel="SindoNews.vision">
+<programme start="20251106050000 +0000" stop="20251106053000 +0000" channel="SindoNews.vision">
 <title>Lintas iNews Siang</title>
 </programme>
-<programme start="20251110053000 +0000" stop="20251110063000 +0000" channel="SindoNews.vision">
+<programme start="20251106053000 +0000" stop="20251106063000 +0000" channel="SindoNews.vision">
 <title>iNews Today</title>
 </programme>
-<programme start="20251110063000 +0000" stop="20251110070000 +0000" channel="SindoNews.vision">
+<programme start="20251106063000 +0000" stop="20251106070000 +0000" channel="SindoNews.vision">
 <title>Seputar iNews Siang</title>
 </programme>
-<programme start="20251110070000 +0000" stop="20251110083000 +0000" channel="SindoNews.vision">
+<programme start="20251106070000 +0000" stop="20251106083000 +0000" channel="SindoNews.vision">
 <title>iNews Siang</title>
 </programme>
-<programme start="20251110083000 +0000" stop="20251110093000 +0000" channel="SindoNews.vision">
+<programme start="20251106083000 +0000" stop="20251106093000 +0000" channel="SindoNews.vision">
 <title>Special Report</title>
 </programme>
-<programme start="20251110093000 +0000" stop="20251110110000 +0000" channel="SindoNews.vision">
+<programme start="20251106093000 +0000" stop="20251106110000 +0000" channel="SindoNews.vision">
 <title>SINDO Sore</title>
 </programme>
-<programme start="20251110110000 +0000" stop="20251110120000 +0000" channel="SindoNews.vision">
+<programme start="20251106110000 +0000" stop="20251106120000 +0000" channel="SindoNews.vision">
 <title>SINDO Files</title>
 </programme>
 <programme start="20251104233000 +0000" stop="20251105003000 +0000" channel="Trans TV.vision">
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20251106060000 +0000" stop="20251106063000 +0000" channel="BTV.vision">
 <title>Investor Daily Talk</title>
+</programme>
+<programme start="20251106063000 +0000" stop="20251106080000 +0000" channel="BTV.vision">
+<title>Spot On</title>
 </programme>
