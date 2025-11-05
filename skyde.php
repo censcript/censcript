@@ -2367,6 +2367,72 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251105221500 +0000" stop="20251105230000 +0000" channel="Sky One HD.skyde">
     <title>Navy CIS</title>
 </programme>
+<programme start="20251105000500 +0000" stop="20251105010500 +0000" channel="Sky Replay HD.skyde">
+    <title>Game of Thrones - Das Lied von Eis und Feuer</title>
+</programme>
+<programme start="20251105010500 +0000" stop="20251105020500 +0000" channel="Sky Replay HD.skyde">
+    <title>Game of Thrones - Das Lied von Eis und Feuer</title>
+</programme>
+<programme start="20251105020500 +0000" stop="20251105030500 +0000" channel="Sky Replay HD.skyde">
+    <title>Game of Thrones - Das Lied von Eis und Feuer</title>
+</programme>
+<programme start="20251105030500 +0000" stop="20251105040000 +0000" channel="Sky Replay HD.skyde">
+    <title>Game of Thrones - Das Lied von Eis und Feuer</title>
+</programme>
+<programme start="20251105040000 +0000" stop="20251105043000 +0000" channel="Sky Replay HD.skyde">
+    <title>Thronecast</title>
+</programme>
+<programme start="20251105043000 +0000" stop="20251105053000 +0000" channel="Sky Replay HD.skyde">
+    <title>Game of Thrones - Das Lied von Eis und Feuer</title>
+</programme>
+<programme start="20251105053000 +0000" stop="20251105064000 +0000" channel="Sky Replay HD.skyde">
+    <title>Game of Thrones - Das Lied von Eis und Feuer</title>
+</programme>
+<programme start="20251105064000 +0000" stop="20251105074500 +0000" channel="Sky Replay HD.skyde">
+    <title>Game of Thrones - Das Lied von Eis und Feuer</title>
+</programme>
+<programme start="20251105074500 +0000" stop="20251105083500 +0000" channel="Sky Replay HD.skyde">
+    <title>Game of Thrones - Das Lied von Eis und Feuer</title>
+</programme>
+<programme start="20251105083500 +0000" stop="20251105093500 +0000" channel="Sky Replay HD.skyde">
+    <title>Game of Thrones - Das Lied von Eis und Feuer</title>
+</programme>
+<programme start="20251105093500 +0000" stop="20251105104500 +0000" channel="Sky Replay HD.skyde">
+    <title>Game of Thrones - Das Lied von Eis und Feuer</title>
+</programme>
+<programme start="20251105104500 +0000" stop="20251105120500 +0000" channel="Sky Replay HD.skyde">
+    <title>Game of Thrones - Das Lied von Eis und Feuer</title>
+</programme>
+<programme start="20251105120500 +0000" stop="20251105130000 +0000" channel="Sky Replay HD.skyde">
+    <title>Game of Thrones - Das Lied von Eis und Feuer</title>
+</programme>
+<programme start="20251105130000 +0000" stop="20251105135500 +0000" channel="Sky Replay HD.skyde">
+    <title>Game of Thrones - Das Lied von Eis und Feuer</title>
+</programme>
+<programme start="20251105135500 +0000" stop="20251105152000 +0000" channel="Sky Replay HD.skyde">
+    <title>Game of Thrones - Das Lied von Eis und Feuer</title>
+</programme>
+<programme start="20251105152000 +0000" stop="20251105163500 +0000" channel="Sky Replay HD.skyde">
+    <title>Game of Thrones - Das Lied von Eis und Feuer</title>
+</programme>
+<programme start="20251105163500 +0000" stop="20251105175500 +0000" channel="Sky Replay HD.skyde">
+    <title>Game of Thrones - Das Lied von Eis und Feuer</title>
+</programme>
+<programme start="20251105175500 +0000" stop="20251105191500 +0000" channel="Sky Replay HD.skyde">
+    <title>Game of Thrones - Das Lied von Eis und Feuer</title>
+</programme>
+<programme start="20251105191500 +0000" stop="20251105201500 +0000" channel="Sky Replay HD.skyde">
+    <title>C. B. Strike</title>
+</programme>
+<programme start="20251105201500 +0000" stop="20251105211500 +0000" channel="Sky Replay HD.skyde">
+    <title>C. B. Strike</title>
+</programme>
+<programme start="20251105211500 +0000" stop="20251105221500 +0000" channel="Sky Replay HD.skyde">
+    <title>C. B. Strike</title>
+</programme>
+<programme start="20251105221500 +0000" stop="20251105231500 +0000" channel="Sky Replay HD.skyde">
+    <title>C. B. Strike</title>
+</programme>
 <programme start="20251104234500 +0000" stop="20251105003500 +0000" channel="Sky Showcase HD.skyde">
     <title>Unsere extreme Welt</title>
 </programme>
@@ -2553,7 +2619,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251105193000 +0000" stop="20251105195000 +0000" channel="Sky Sport Austria 6 HD.skyde">
     <title>Es folgt: Live UEFA Champions League</title>
 </programme>
-<programme start="20251105195000 +0000" stop="20251105220000 +0000" channel="Sky Sport Austria 6 HD.skyde">
+<programme start="20251105195000 +0000" stop="20251105223000 +0000" channel="Sky Sport Austria 6 HD.skyde">
     <title>Live UEFA CL: Olympique Marseille - Atalanta Bergamo, Ligaphase, 4. Spieltag, Mittwoch</title>
 </programme>
 <programme start="20251105193000 +0000" stop="20251105195000 +0000" channel="Sky Sport Austria 7 HD.skyde">
@@ -3082,16 +3148,16 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>NBA: Orlando Magic @ Atlanta Hawks</title>
 </programme>
 <programme start="20251105120000 +0000" stop="20251105140000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live WTA Finals: Doppel 1, 5. Tag in Riyadh (SAU)</title>
+    <title>Live WTA Finals: S. Errani (ITA)/J. Paolini (ITA) - V. Kudermetova/E. Mertens (BEL), 5. Tag in Riyadh (SAU)</title>
 </programme>
 <programme start="20251105140000 +0000" stop="20251105160000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live WTA Finals: Einzel 1, 5. Tag in Riyadh (SAU)</title>
+    <title>Live WTA Finals: E. Rybakina (KAZ) - M. Keys (USA), 5. Tag in Riyadh (SAU)</title>
 </programme>
 <programme start="20251105160000 +0000" stop="20251105180000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live WTA Finals: Einzel 2, 5. Tag in Riyadh (SAU)</title>
+    <title>Live WTA Finals: I. Swiatek (POL) - A. Anisimova (USA), 5. Tag in Riyadh (SAU)</title>
 </programme>
 <programme start="20251105180000 +0000" stop="20251105195000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live WTA Finals: Doppel 2, 5. Tag in Riyadh (SAU)</title>
+    <title>Live WTA Finals: S.-W. Hsieh (TPE)/J. Ostapenko (LAT) - A. Muhammad (USA)/D. Schuurs (NED), 5. Tag in Riyadh (SAU)</title>
 </programme>
 <programme start="20251105195000 +0000" stop="20251105220000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live EFL: FC Portsmouth - AFC Wrexham, 14. Spieltag</title>

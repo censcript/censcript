@@ -7969,19 +7969,22 @@
     <programme start="20251104231000 +0000" stop="20251105013000 +0000" channel="Asianet Movies.starhub">
         <title>Tughlaq Durbar</title>
     </programme>
-    <programme start="20251105013000 +0000" stop="20251105043000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251105013000 +0000" stop="20251105015000 +0000" channel="Asianet Movies.starhub">
+        <title>Chirikkum Thalika</title>
+    </programme>
+    <programme start="20251105015000 +0000" stop="20251105043000 +0000" channel="Asianet Movies.starhub">
         <title>Romeo</title>
     </programme>
-    <programme start="20251105043000 +0000" stop="20251105073000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251105043000 +0000" stop="20251105074000 +0000" channel="Asianet Movies.starhub">
         <title>Action Hero Biju</title>
     </programme>
-    <programme start="20251105073000 +0000" stop="20251105103000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251105074000 +0000" stop="20251105104500 +0000" channel="Asianet Movies.starhub">
         <title>Ittymaani: Made in China</title>
     </programme>
-    <programme start="20251105103000 +0000" stop="20251105133000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251105104500 +0000" stop="20251105133000 +0000" channel="Asianet Movies.starhub">
         <title>Kadha Parayumbol</title>
     </programme>
-    <programme start="20251105133000 +0000" stop="20251105163000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251105133000 +0000" stop="20251105164500 +0000" channel="Asianet Movies.starhub">
         <title>Vettam</title>
     </programme>
     <programme start="20251104160000 +0000" stop="20251104170000 +0000" channel="Astro Warna HD.starhub">
