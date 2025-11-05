@@ -5656,28 +5656,25 @@
 <programme start="20251105090500 +0000" stop="20251105100000 +0000" channel="MDTV.mncvision">
     <title>Adit Sopo Jarwo</title>
 </programme>
-<programme start="20251105100000 +0000" stop="20251105105000 +0000" channel="MDTV.mncvision">
+<programme start="20251105100000 +0000" stop="20251105112000 +0000" channel="MDTV.mncvision">
     <title>Maria Cinta Yang Hilang</title>
 </programme>
-<programme start="20251105105000 +0000" stop="20251105114000 +0000" channel="MDTV.mncvision">
+<programme start="20251105112000 +0000" stop="20251105123000 +0000" channel="MDTV.mncvision">
     <title>Maria Mercedes</title>
 </programme>
-<programme start="20251105114000 +0000" stop="20251105123000 +0000" channel="MDTV.mncvision">
-    <title>Janji Cinta (Sindoor Ki Keemat)</title>
-</programme>
-<programme start="20251105123000 +0000" stop="20251105133000 +0000" channel="MDTV.mncvision">
+<programme start="20251105123000 +0000" stop="20251105132500 +0000" channel="MDTV.mncvision">
     <title>Ipar Adalah Maut: The Series</title>
 </programme>
-<programme start="20251105133000 +0000" stop="20251105143000 +0000" channel="MDTV.mncvision">
+<programme start="20251105132500 +0000" stop="20251105141500 +0000" channel="MDTV.mncvision">
+    <title>Janji Cinta (Sindoor Ki Keemat)</title>
+</programme>
+<programme start="20251105141500 +0000" stop="20251105152000 +0000" channel="MDTV.mncvision">
     <title>Terlanjur Indah</title>
 </programme>
-<programme start="20251105143000 +0000" stop="20251105153000 +0000" channel="MDTV.mncvision">
-    <title>Kupu Malam</title>
+<programme start="20251105152000 +0000" stop="20251105162500 +0000" channel="MDTV.mncvision">
+    <title>Cerita Nyata Malam</title>
 </programme>
-<programme start="20251105153000 +0000" stop="20251105163000 +0000" channel="MDTV.mncvision">
-    <title>Berbagi Rizki</title>
-</programme>
-<programme start="20251105163000 +0000" stop="20251104170000 +0000" channel="MDTV.mncvision">
+<programme start="20251105162500 +0000" stop="20251105165500 +0000" channel="MDTV.mncvision">
     <title>Top Spot</title>
 </programme>
 <programme start="20251104170000 +0000" stop="20251104170500 +0000" channel="Metro TV.mncvision">
