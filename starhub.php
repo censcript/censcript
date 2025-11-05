@@ -6703,50 +6703,17 @@
     <programme start="20251105142900 +0000" stop="20251105164700 +0000" channel="SONY MAX.starhub">
         <title>Saajan Chale Sasural</title>
     </programme>
-    <programme start="20251104160000 +0000" stop="20251104163000 +0000" channel="Sky News HD.starhub">
-        <title>Sky News Today with Jayne Secker</title>
-    </programme>
-    <programme start="20251104163000 +0000" stop="20251104170000 +0000" channel="Sky News HD.starhub">
-        <title>Sky News Today with Jayne Secker</title>
-    </programme>
-    <programme start="20251104170000 +0000" stop="20251104173000 +0000" channel="Sky News HD.starhub">
-        <title>The News Hour With Mark Austin</title>
-    </programme>
-    <programme start="20251104173000 +0000" stop="20251104180000 +0000" channel="Sky News HD.starhub">
-        <title>The News Hour With Mark Austin</title>
-    </programme>
-    <programme start="20251104180000 +0000" stop="20251104183000 +0000" channel="Sky News HD.starhub">
-        <title>The News Hour With Mark Austin</title>
-    </programme>
-    <programme start="20251104183000 +0000" stop="20251104190000 +0000" channel="Sky News HD.starhub">
-        <title>The News Hour With Mark Austin</title>
-    </programme>
     <programme start="20251104190000 +0000" stop="20251104193000 +0000" channel="Sky News HD.starhub">
         <title>Politics Hub</title>
     </programme>
     <programme start="20251104193000 +0000" stop="20251104200000 +0000" channel="Sky News HD.starhub">
         <title>Politics Hub</title>
     </programme>
-    <programme start="20251104200000 +0000" stop="20251104203000 +0000" channel="Sky News HD.starhub">
-        <title>UK Tonight With Sarah-Jane Mee</title>
-    </programme>
-    <programme start="20251104203000 +0000" stop="20251104210000 +0000" channel="Sky News HD.starhub">
-        <title>UK Tonight With Sarah-Jane Mee</title>
-    </programme>
     <programme start="20251104210000 +0000" stop="20251104213000 +0000" channel="Sky News HD.starhub">
         <title>The World with Yalda Hakim</title>
     </programme>
-    <programme start="20251104213000 +0000" stop="20251104220000 +0000" channel="Sky News HD.starhub">
-        <title>The World with Yalda Hakim</title>
-    </programme>
-    <programme start="20251104220000 +0000" stop="20251104223000 +0000" channel="Sky News HD.starhub">
-        <title>News at 10 with Anna Botting</title>
-    </programme>
     <programme start="20251104223000 +0000" stop="20251104230000 +0000" channel="Sky News HD.starhub">
         <title>Press Preview</title>
-    </programme>
-    <programme start="20251104230000 +0000" stop="20251104233000 +0000" channel="Sky News HD.starhub">
-        <title>News &amp; Press Preview</title>
     </programme>
     <programme start="20251104233000 +0000" stop="20251105000000 +0000" channel="Sky News HD.starhub">
         <title>Press Preview</title>
