@@ -114,8 +114,8 @@
     <title>Football: Udinese - Atalanta</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251105204000 +0700" stop="20251105210500 +0700" channel="COSMOTE Sport 3 HD">
-    <title>William Hill Scottish Premiership - Highlights</title>
+<programme start="20251106223000 +0700" stop="20251106230000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Serie A Full Impact 2025-26 E10</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251105210500 +0700" stop="20251105230500 +0700" channel="COSMOTE Sport 3 HD">
@@ -178,8 +178,12 @@
     <title>Football: PAOK - KA Akureyri U19</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251105191500 +0700" stop="20251105211500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Wurzburg - Galatasaray</title>
+<programme start="20251106220000 +0700" stop="20251106223000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Copa Libertadores 2025 - Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251106223000 +0700" stop="20251107004500 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Atletico Mineiro - Independiente del Valle</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251105211500 +0700" stop="20251105230000 +0700" channel="COSMOTE Sport 4 HD">
@@ -244,6 +248,10 @@
 </programme>
 <programme start="20251106214000 +0700" stop="20251106220000 +0700" channel="COSMOTE Sport 4 HD">
     <title>ACB Liga Endesa 2025-26 - Fifth Quarter E5</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251106220000 +0700" stop="20251107000000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Wurzburg - Galatasaray</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251105203000 +0700" stop="20251105221500 +0700" channel="COSMOTE Sport 5 HD">
@@ -342,10 +350,6 @@
     <title>Motorsports: MotoGP 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251105200000 +0700" stop="20251105220000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: Learner Tien - Moez Echargui (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
 <programme start="20251105220000 +0700" stop="20251106003000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Hugo Gaston - Daniel Altmaier (L)</title>
     <desc>Live: Ya</desc>
@@ -402,8 +406,12 @@
     <title>Tennis: ATP 250 2025 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251105210000 +0700" stop="20251105220000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
+<programme start="20251106223000 +0700" stop="20251106224500 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Sports Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251106224500 +0700" stop="20251107000000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Topspin</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251105220000 +0700" stop="20251105223000 +0700" channel="COSMOTE Sport 7 HD">
