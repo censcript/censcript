@@ -2095,89 +2095,89 @@
 <programme start="20251106222000 +0000" stop="20251106231000 +0000" channel="Sky Documentaries HD.skyde">
     <title>The Eighties</title>
 </programme>
-<programme start="20251031231000 +0000" stop="20251101000000 +0000" channel="Sky Krimi HD.skyde">
+<programme start="20251105231000 +0000" stop="20251106000000 +0000" channel="Sky Krimi HD.skyde">
+    <title>SOKO Hamburg</title>
+</programme>
+<programme start="20251106000000 +0000" stop="20251106004500 +0000" channel="Sky Krimi HD.skyde">
     <title>SOKO Potsdam</title>
 </programme>
-<programme start="20251101000000 +0000" stop="20251101004500 +0000" channel="Sky Krimi HD.skyde">
-    <title>SOKO Wien</title>
+<programme start="20251106004500 +0000" stop="20251106021500 +0000" channel="Sky Krimi HD.skyde">
+    <title>Nachtschicht: Blut und Eisen</title>
 </programme>
-<programme start="20251101004500 +0000" stop="20251101012500 +0000" channel="Sky Krimi HD.skyde">
-    <title>SOKO Wien</title>
+<programme start="20251106021500 +0000" stop="20251106025500 +0000" channel="Sky Krimi HD.skyde">
+    <title>SOKO Stuttgart</title>
 </programme>
-<programme start="20251101012500 +0000" stop="20251101025500 +0000" channel="Sky Krimi HD.skyde">
-    <title>Agatha Christies Hjerson</title>
-</programme>
-<programme start="20251101025500 +0000" stop="20251101031000 +0000" channel="Sky Krimi HD.skyde">
-    <title>Die Wespe 2: Bullseye Talk</title>
-</programme>
-<programme start="20251101031000 +0000" stop="20251101035500 +0000" channel="Sky Krimi HD.skyde">
+<programme start="20251106025500 +0000" stop="20251106034000 +0000" channel="Sky Krimi HD.skyde">
     <title>Die Rosenheim-Cops</title>
 </programme>
-<programme start="20251101035500 +0000" stop="20251101044000 +0000" channel="Sky Krimi HD.skyde">
+<programme start="20251106034000 +0000" stop="20251106042500 +0000" channel="Sky Krimi HD.skyde">
     <title>Die Rosenheim-Cops</title>
 </programme>
-<programme start="20251101044000 +0000" stop="20251101052500 +0000" channel="Sky Krimi HD.skyde">
+<programme start="20251106042500 +0000" stop="20251106051000 +0000" channel="Sky Krimi HD.skyde">
+    <title>Die Rosenheim-Cops</title>
+</programme>
+<programme start="20251106051000 +0000" stop="20251106060000 +0000" channel="Sky Krimi HD.skyde">
+    <title>SOKO Hamburg</title>
+</programme>
+<programme start="20251106060000 +0000" stop="20251106064500 +0000" channel="Sky Krimi HD.skyde">
     <title>SOKO Potsdam</title>
 </programme>
-<programme start="20251101052500 +0000" stop="20251101065500 +0000" channel="Sky Krimi HD.skyde">
-    <title>Ein Mord mit Aussicht</title>
+<programme start="20251106064500 +0000" stop="20251106074000 +0000" channel="Sky Krimi HD.skyde">
+    <title>Morden im Norden</title>
 </programme>
-<programme start="20251101065500 +0000" stop="20251101074500 +0000" channel="Sky Krimi HD.skyde">
+<programme start="20251106074000 +0000" stop="20251106083000 +0000" channel="Sky Krimi HD.skyde">
+    <title>Morden im Norden</title>
+</programme>
+<programme start="20251106083000 +0000" stop="20251106092500 +0000" channel="Sky Krimi HD.skyde">
+    <title>Morden im Norden</title>
+</programme>
+<programme start="20251106092500 +0000" stop="20251106101500 +0000" channel="Sky Krimi HD.skyde">
+    <title>SOKO Stuttgart</title>
+</programme>
+<programme start="20251106101500 +0000" stop="20251106110000 +0000" channel="Sky Krimi HD.skyde">
+    <title>SOKO Stuttgart</title>
+</programme>
+<programme start="20251106110000 +0000" stop="20251106115000 +0000" channel="Sky Krimi HD.skyde">
+    <title>Die Rosenheim-Cops</title>
+</programme>
+<programme start="20251106115000 +0000" stop="20251106124000 +0000" channel="Sky Krimi HD.skyde">
+    <title>Die Rosenheim-Cops</title>
+</programme>
+<programme start="20251106124000 +0000" stop="20251106132500 +0000" channel="Sky Krimi HD.skyde">
+    <title>Die Rosenheim-Cops</title>
+</programme>
+<programme start="20251106132500 +0000" stop="20251106150000 +0000" channel="Sky Krimi HD.skyde">
+    <title>Nachtschicht: Blut und Eisen</title>
+</programme>
+<programme start="20251106150000 +0000" stop="20251106155000 +0000" channel="Sky Krimi HD.skyde">
+    <title>SOKO Stuttgart</title>
+</programme>
+<programme start="20251106155000 +0000" stop="20251106163500 +0000" channel="Sky Krimi HD.skyde">
+    <title>SOKO Stuttgart</title>
+</programme>
+<programme start="20251106163500 +0000" stop="20251106173000 +0000" channel="Sky Krimi HD.skyde">
+    <title>Morden im Norden</title>
+</programme>
+<programme start="20251106173000 +0000" stop="20251106182000 +0000" channel="Sky Krimi HD.skyde">
+    <title>Morden im Norden</title>
+</programme>
+<programme start="20251106182000 +0000" stop="20251106191500 +0000" channel="Sky Krimi HD.skyde">
+    <title>Morden im Norden</title>
+</programme>
+<programme start="20251106191500 +0000" stop="20251106200500 +0000" channel="Sky Krimi HD.skyde">
     <title>Mord mit Aussicht</title>
 </programme>
-<programme start="20251101074500 +0000" stop="20251101084000 +0000" channel="Sky Krimi HD.skyde">
+<programme start="20251106200500 +0000" stop="20251106205500 +0000" channel="Sky Krimi HD.skyde">
     <title>Mord mit Aussicht</title>
 </programme>
-<programme start="20251101084000 +0000" stop="20251101093000 +0000" channel="Sky Krimi HD.skyde">
-    <title>Mord mit Aussicht</title>
+<programme start="20251106205500 +0000" stop="20251106214500 +0000" channel="Sky Krimi HD.skyde">
+    <title>Die Rosenheim-Cops</title>
 </programme>
-<programme start="20251101093000 +0000" stop="20251101102500 +0000" channel="Sky Krimi HD.skyde">
-    <title>Mord mit Aussicht</title>
+<programme start="20251106214500 +0000" stop="20251106223000 +0000" channel="Sky Krimi HD.skyde">
+    <title>Die Rosenheim-Cops</title>
 </programme>
-<programme start="20251101102500 +0000" stop="20251101111500 +0000" channel="Sky Krimi HD.skyde">
-    <title>Mord mit Aussicht</title>
-</programme>
-<programme start="20251101111500 +0000" stop="20251101121000 +0000" channel="Sky Krimi HD.skyde">
-    <title>Mord mit Aussicht</title>
-</programme>
-<programme start="20251101121000 +0000" stop="20251101130500 +0000" channel="Sky Krimi HD.skyde">
-    <title>Watzmann ermittelt</title>
-</programme>
-<programme start="20251101130500 +0000" stop="20251101135500 +0000" channel="Sky Krimi HD.skyde">
-    <title>Watzmann ermittelt</title>
-</programme>
-<programme start="20251101135500 +0000" stop="20251101145000 +0000" channel="Sky Krimi HD.skyde">
-    <title>Watzmann ermittelt</title>
-</programme>
-<programme start="20251101145000 +0000" stop="20251101154000 +0000" channel="Sky Krimi HD.skyde">
-    <title>Watzmann ermittelt</title>
-</programme>
-<programme start="20251101154000 +0000" stop="20251101163500 +0000" channel="Sky Krimi HD.skyde">
-    <title>Watzmann ermittelt</title>
-</programme>
-<programme start="20251101163500 +0000" stop="20251101172500 +0000" channel="Sky Krimi HD.skyde">
-    <title>Watzmann ermittelt</title>
-</programme>
-<programme start="20251101172500 +0000" stop="20251101182000 +0000" channel="Sky Krimi HD.skyde">
-    <title>Watzmann ermittelt</title>
-</programme>
-<programme start="20251101182000 +0000" stop="20251101191500 +0000" channel="Sky Krimi HD.skyde">
-    <title>Watzmann ermittelt</title>
-</programme>
-<programme start="20251101191500 +0000" stop="20251101200500 +0000" channel="Sky Krimi HD.skyde">
-    <title>Watzmann ermittelt</title>
-</programme>
-<programme start="20251101200500 +0000" stop="20251101205500 +0000" channel="Sky Krimi HD.skyde">
-    <title>Watzmann ermittelt</title>
-</programme>
-<programme start="20251101205500 +0000" stop="20251101215000 +0000" channel="Sky Krimi HD.skyde">
-    <title>Watzmann ermittelt</title>
-</programme>
-<programme start="20251101215000 +0000" stop="20251101224000 +0000" channel="Sky Krimi HD.skyde">
-    <title>Watzmann ermittelt</title>
-</programme>
-<programme start="20251101224000 +0000" stop="20251101233500 +0000" channel="Sky Krimi HD.skyde">
-    <title>Watzmann ermittelt</title>
+<programme start="20251106223000 +0000" stop="20251106232000 +0000" channel="Sky Krimi HD.skyde">
+    <title>Die Rosenheim-Cops</title>
 </programme>
 <programme start="20251105232500 +0000" stop="20251106001000 +0000" channel="Sky Nature HD.skyde">
     <title>Animal Park: Zoo-Geschichten aus Longleat</title>

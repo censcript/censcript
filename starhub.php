@@ -5233,62 +5233,77 @@
     <programme start="20251106000000 +0000" stop="20251106010000 +0000" channel="TestChannel 996.starhub">
         <title>Dead Ringer</title>
     </programme>
-    <programme start="20251106003000 +0000" stop="20251106013000 +0000" channel="TestChannel 996.starhub">
-        <title>The Litchi Road</title>
+    <programme start="20251106010000 +0000" stop="20251106013000 +0000" channel="TestChannel 996.starhub">
+        <title>Made In Dongguan</title>
     </programme>
     <programme start="20251106013000 +0000" stop="20251106020000 +0000" channel="TestChannel 996.starhub">
+        <title>Hands Up</title>
+    </programme>
+    <programme start="20251106020000 +0000" stop="20251106023000 +0000" channel="TestChannel 996.starhub">
+        <title>Game of Scholars &amp; What&#039;s On Today</title>
+    </programme>
+    <programme start="20251106023000 +0000" stop="20251106030000 +0000" channel="TestChannel 996.starhub">
+        <title>Gourmet Express - Hong Kong &amp; Taiwan Express*(HKTAI/Friday)</title>
+    </programme>
+    <programme start="20251106030000 +0000" stop="20251106040000 +0000" channel="TestChannel 996.starhub">
         <title>Lo And Behold</title>
     </programme>
-    <programme start="20251106020000 +0000" stop="20251106025500 +0000" channel="TestChannel 996.starhub">
-        <title>Golden City (Ep 701-750) VVD Mandarin</title>
+    <programme start="20251106040000 +0000" stop="20251106045500 +0000" channel="TestChannel 996.starhub">
+        <title>Scoop 2025</title>
     </programme>
-    <programme start="20251106025500 +0000" stop="20251106035000 +0000" channel="TestChannel 996.starhub">
-        <title>Prism Breaker</title>
+    <programme start="20251106045500 +0000" stop="20251106052000 +0000" channel="TestChannel 996.starhub">
+        <title>Hands Up</title>
     </programme>
-    <programme start="20251106035000 +0000" stop="20251106044500 +0000" channel="TestChannel 996.starhub">
-        <title>The Wanted Detective</title>
+    <programme start="20251106052000 +0000" stop="20251106060500 +0000" channel="TestChannel 996.starhub">
+        <title>Big City Shop 2024</title>
     </programme>
-    <programme start="20251106044500 +0000" stop="20251106051500 +0000" channel="TestChannel 996.starhub">
+    <programme start="20251106060500 +0000" stop="20251106063000 +0000" channel="TestChannel 996.starhub">
+        <title>Big Boys Club</title>
+    </programme>
+    <programme start="20251106063000 +0000" stop="20251106073000 +0000" channel="TestChannel 996.starhub">
+        <title>The Fading Gold &amp; What&#039;s On Today</title>
+    </programme>
+    <programme start="20251106073000 +0000" stop="20251106080000 +0000" channel="TestChannel 996.starhub">
+        <title>Game of Scholars</title>
+    </programme>
+    <programme start="20251106080000 +0000" stop="20251106083000 +0000" channel="TestChannel 996.starhub">
+        <title>HERE WE GO,Off The Beaten Roads</title>
+    </programme>
+    <programme start="20251106083000 +0000" stop="20251106090000 +0000" channel="TestChannel 996.starhub">
+        <title>Open Book</title>
+    </programme>
+    <programme start="20251106090000 +0000" stop="20251106093000 +0000" channel="TestChannel 996.starhub">
+        <title>Big Boys Club</title>
+    </programme>
+    <programme start="20251106093000 +0000" stop="20251106103000 +0000" channel="TestChannel 996.starhub">
+        <title>Modern Dynasty</title>
+    </programme>
+    <programme start="20251106103000 +0000" stop="20251106110000 +0000" channel="TestChannel 996.starhub">
+        <title>News At 18:30</title>
+    </programme>
+    <programme start="20251106110000 +0000" stop="20251106113500 +0000" channel="TestChannel 996.starhub">
+        <title>Shock Mystery (Sr.2) &amp; What&#039;s On Today</title>
+    </programme>
+    <programme start="20251106113500 +0000" stop="20251106123000 +0000" channel="TestChannel 996.starhub">
+        <title>Scoop 2025</title>
+    </programme>
+    <programme start="20251106123000 +0000" stop="20251106133000 +0000" channel="TestChannel 996.starhub">
         <title>Lo And Behold</title>
     </programme>
-    <programme start="20251106051500 +0000" stop="20251106060500 +0000" channel="TestChannel 996.starhub">
-        <title>The Heir to the Throne (with Eng Subs)</title>
+    <programme start="20251106133000 +0000" stop="20251106143000 +0000" channel="TestChannel 996.starhub">
+        <title>The Fading Gold</title>
     </programme>
-    <programme start="20251106060500 +0000" stop="20251106065000 +0000" channel="TestChannel 996.starhub">
-        <title>The Heir to the Throne (with Eng Subs)</title>
+    <programme start="20251106143000 +0000" stop="20251106150000 +0000" channel="TestChannel 996.starhub">
+        <title>Game of Scholars</title>
     </programme>
-    <programme start="20251106065000 +0000" stop="20251106081000 +0000" channel="TestChannel 996.starhub">
-        <title>The Escape of the Seven</title>
+    <programme start="20251106150000 +0000" stop="20251106151500 +0000" channel="TestChannel 996.starhub">
+        <title>EXTRA</title>
     </programme>
-    <programme start="20251106081000 +0000" stop="20251106090000 +0000" channel="TestChannel 996.starhub">
-        <title>The Litchi Road</title>
+    <programme start="20251106151500 +0000" stop="20251106155000 +0000" channel="TestChannel 996.starhub">
+        <title>News Roundup</title>
     </programme>
-    <programme start="20251106090000 +0000" stop="20251106094500 +0000" channel="TestChannel 996.starhub">
-        <title>Sinister Beings 2</title>
-    </programme>
-    <programme start="20251106094500 +0000" stop="20251106103500 +0000" channel="TestChannel 996.starhub">
-        <title>Golden City (Ep 701-750) VVD Mandarin</title>
-    </programme>
-    <programme start="20251106103500 +0000" stop="20251106110000 +0000" channel="TestChannel 996.starhub">
-        <title>Lo And Behold</title>
-    </programme>
-    <programme start="20251106110000 +0000" stop="20251106120000 +0000" channel="TestChannel 996.starhub">
-        <title>The Litchi Road</title>
-    </programme>
-    <programme start="20251106120000 +0000" stop="20251106130000 +0000" channel="TestChannel 996.starhub">
-        <title>Prism Breaker</title>
-    </programme>
-    <programme start="20251106130000 +0000" stop="20251106140000 +0000" channel="TestChannel 996.starhub">
-        <title>The Wanted Detective</title>
-    </programme>
-    <programme start="20251106140000 +0000" stop="20251106143000 +0000" channel="TestChannel 996.starhub">
-        <title>Lo And Behold</title>
-    </programme>
-    <programme start="20251106143000 +0000" stop="20251106152000 +0000" channel="TestChannel 996.starhub">
-        <title>The Longest Day in Chang&#039;an</title>
-    </programme>
-    <programme start="20251106152000 +0000" stop="20251106161500 +0000" channel="TestChannel 996.starhub">
-        <title>The Longest Day in Chang&#039;an</title>
+    <programme start="20251106155000 +0000" stop="20251106160000 +0000" channel="TestChannel 996.starhub">
+        <title>Global View</title>
     </programme>
     <programme start="20251105160000 +0000" stop="20251105161500 +0000" channel="Euronews HD.starhub">
         <title>The European debrief</title>
@@ -5932,20 +5947,20 @@
     <programme start="20251106084500 +0000" stop="20251106091500 +0000" channel="BBC Earth HD.starhub">
         <title>Episode 18</title>
     </programme>
-    <programme start="20251106091500 +0000" stop="20251106100500 +0000" channel="BBC Earth HD.starhub">
+    <programme start="20251106091500 +0000" stop="20251106101000 +0000" channel="BBC Earth HD.starhub">
         <title>Episode 2</title>
     </programme>
-    <programme start="20251106100500 +0000" stop="20251106110000 +0000" channel="BBC Earth HD.starhub">
+    <programme start="20251106101000 +0000" stop="20251106110500 +0000" channel="BBC Earth HD.starhub">
         <title>Episode 3</title>
     </programme>
-    <programme start="20251106110000 +0000" stop="20251106113000 +0000" channel="BBC Earth HD.starhub">
+    <programme start="20251106110500 +0000" stop="20251106113500 +0000" channel="BBC Earth HD.starhub">
         <title>Episode 19</title>
     </programme>
-    <programme start="20251106113000 +0000" stop="20251106120000 +0000" channel="BBC Earth HD.starhub">
+    <programme start="20251106113500 +0000" stop="20251106120500 +0000" channel="BBC Earth HD.starhub">
         <title>Episode 20</title>
     </programme>
-    <programme start="20251106120000 +0000" stop="20251106130000 +0000" channel="BBC Earth HD.starhub">
-        <title>Episode 5</title>
+    <programme start="20251106120500 +0000" stop="20251106130000 +0000" channel="BBC Earth HD.starhub">
+        <title>Episode 1</title>
     </programme>
     <programme start="20251106130000 +0000" stop="20251106135500 +0000" channel="BBC Earth HD.starhub">
         <title>Nepal - The Mustang Kingdom</title>

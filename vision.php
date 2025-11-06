@@ -667,9 +667,6 @@
 <programme start="20251107114500 +0000" stop="20251107121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
-<programme start="20251105230000 +0000" stop="20251106013000 +0000" channel="ANTV.vision">
-<title>Tjoet Nja Dhien</title>
-</programme>
 <programme start="20251106013000 +0000" stop="20251106030000 +0000" channel="ANTV.vision">
 <title>Mangal Lakshmi</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20251107083000 +0000" stop="20251107091500 +0000" channel="BTV.vision">
 <title>Figur Publik</title>
+</programme>
+<programme start="20251107091500 +0000" stop="20251107093000 +0000" channel="BTV.vision">
+<title>Info Seleb</title>
 </programme>
