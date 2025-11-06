@@ -136,13 +136,13 @@
     <programme start="20251106123000 +0000" stop="20251106130000 +0000" channel="Channel 5.mewatch">
         <title>Provocative - EP 162</title>
     </programme>
-    <programme start="20251106130000 +0000" stop="20251106133000 +0000" channel="Channel 5.mewatch">
+    <programme start="20251106130000 +0000" stop="20251106134500 +0000" channel="Channel 5.mewatch">
         <title>(Live) News Tonight</title>
     </programme>
-    <programme start="20251106133000 +0000" stop="20251106140000 +0000" channel="Channel 5.mewatch">
+    <programme start="20251106134500 +0000" stop="20251106141500 +0000" channel="Channel 5.mewatch">
         <title>Talking Point - EP 23</title>
     </programme>
-    <programme start="20251106140000 +0000" stop="20251106150000 +0000" channel="Channel 5.mewatch">
+    <programme start="20251106141500 +0000" stop="20251106150000 +0000" channel="Channel 5.mewatch">
         <title>FBI S7 - EP 1</title>
     </programme>
     <programme start="20251106150000 +0000" stop="20251106160000 +0000" channel="Channel 5.mewatch">
@@ -259,17 +259,14 @@
     <programme start="20251106130000 +0000" stop="20251106140000 +0000" channel="Channel 8.mewatch">
         <title>The Gift of Time - EP 11</title>
     </programme>
-    <programme start="20251106140000 +0000" stop="20251106143000 +0000" channel="Channel 8.mewatch">
+    <programme start="20251106140000 +0000" stop="20251106144500 +0000" channel="Channel 8.mewatch">
         <title>(Live) News Tonight</title>
     </programme>
-    <programme start="20251106143000 +0000" stop="20251106150000 +0000" channel="Channel 8.mewatch">
+    <programme start="20251106144500 +0000" stop="20251106151500 +0000" channel="Channel 8.mewatch">
         <title>Focus - EP 24</title>
     </programme>
-    <programme start="20251106150000 +0000" stop="20251106160000 +0000" channel="Channel 8.mewatch">
+    <programme start="20251106151500 +0000" stop="20251106161500 +0000" channel="Channel 8.mewatch">
         <title>Heroes - EP 17</title>
-    </programme>
-    <programme start="20251106160000 +0000" stop="20251106170000 +0000" channel="Channel 8.mewatch">
-        <title>Fighting for Love - EP 23</title>
     </programme>
     <programme start="20251105153000 +0000" stop="20251105163000 +0000" channel="Channel U.mewatch">
         <title>The Glorious Pediatricians S1 - EP 9</title>
@@ -382,10 +379,10 @@
     <programme start="20251106140000 +0000" stop="20251106150000 +0000" channel="Channel U.mewatch">
         <title>The Player - EP 11</title>
     </programme>
-    <programme start="20251106150000 +0000" stop="20251106153000 +0000" channel="Channel U.mewatch">
+    <programme start="20251106150000 +0000" stop="20251106154500 +0000" channel="Channel U.mewatch">
         <title>News Tonight</title>
     </programme>
-    <programme start="20251106153000 +0000" stop="20251106163000 +0000" channel="Channel U.mewatch">
+    <programme start="20251106154500 +0000" stop="20251106164000 +0000" channel="Channel U.mewatch">
         <title>My Dearest Fu Bao - EP 2</title>
     </programme>
     <programme start="20251105160000 +0000" stop="20251106010000 +0000" channel="Suria.mewatch">
@@ -606,6 +603,12 @@
     </programme>
     <programme start="20251106160000 +0000" stop="20251106160300 +0000" channel="CNA.mewatch">
         <title>Headline News</title>
+    </programme>
+    <programme start="20251105160000 +0000" stop="20251106160000 +0000" channel="Oktolidays.mewatch">
+        <title>No programmes streaming LIVE at this moment</title>
+    </programme>
+    <programme start="20251106160000 +0000" stop="20251107160000 +0000" channel="Oktolidays.mewatch">
+        <title>No programmes streaming LIVE at this moment</title>
     </programme>
     <programme start="20251105160000 +0000" stop="20251106112000 +0000" channel="spl01.mewatch">
         <title>No Programme available now. Next Broadcast on 6th November, Thursday 7.20pm. Singapore Cup 2025/2026 </title>
