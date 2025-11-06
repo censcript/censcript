@@ -4028,7 +4028,7 @@
     <title>Kisah Viral</title>
 </programme>
 <programme start="20251105230000 +0000" stop="20251106003000 +0000" channel="GTV.mncvision">
-    <title>SpongeBob SquarePants Movie</title>
+    <title>SpongeBob SquarePants</title>
 </programme>
 <programme start="20251106003000 +0000" stop="20251106013000 +0000" channel="GTV.mncvision">
     <title>Obrolan Seputar Selebritis</title>
@@ -4037,10 +4037,10 @@
     <title>CoComelon Dan Sahabat</title>
 </programme>
 <programme start="20251106020000 +0000" stop="20251106050000 +0000" channel="GTV.mncvision">
-    <title>SpongeBob SquarePants Movie</title>
+    <title>SpongeBob SquarePants</title>
 </programme>
 <programme start="20251106050000 +0000" stop="20251106070000 +0000" channel="GTV.mncvision">
-    <title>SpongeBob SquarePants Movie</title>
+    <title>SpongeBob SquarePants</title>
 </programme>
 <programme start="20251106070000 +0000" stop="20251106090000 +0000" channel="GTV.mncvision">
     <title>Lets Get Wet</title>
@@ -4049,10 +4049,10 @@
     <title>Bernard Bear</title>
 </programme>
 <programme start="20251106100000 +0000" stop="20251106110000 +0000" channel="GTV.mncvision">
-    <title>SpongeBob SquarePants Movie</title>
+    <title>SpongeBob SquarePants</title>
 </programme>
 <programme start="20251106110000 +0000" stop="20251106114500 +0000" channel="GTV.mncvision">
-    <title>SpongeBob SquarePants Movie</title>
+    <title>SpongeBob SquarePants</title>
 </programme>
 <programme start="20251106114500 +0000" stop="20251106141500 +0000" channel="GTV.mncvision">
     <title>AFC Champions League Two</title>
@@ -4076,7 +4076,7 @@
     <title>Kisah Viral</title>
 </programme>
 <programme start="20251105230000 +0000" stop="20251106003000 +0000" channel="GTV HD.mncvision">
-    <title>SpongeBob SquarePants Movie</title>
+    <title>SpongeBob SquarePants</title>
 </programme>
 <programme start="20251106003000 +0000" stop="20251106013000 +0000" channel="GTV HD.mncvision">
     <title>Obrolan Seputar Selebritis</title>
@@ -4085,10 +4085,10 @@
     <title>CoComelon Dan Sahabat</title>
 </programme>
 <programme start="20251106020000 +0000" stop="20251106050000 +0000" channel="GTV HD.mncvision">
-    <title>SpongeBob SquarePants Movie</title>
+    <title>SpongeBob SquarePants</title>
 </programme>
 <programme start="20251106050000 +0000" stop="20251106070000 +0000" channel="GTV HD.mncvision">
-    <title>SpongeBob SquarePants Movie</title>
+    <title>SpongeBob SquarePants</title>
 </programme>
 <programme start="20251106070000 +0000" stop="20251106090000 +0000" channel="GTV HD.mncvision">
     <title>Lets Get Wet</title>
@@ -4097,10 +4097,10 @@
     <title>Bernard Bear</title>
 </programme>
 <programme start="20251106100000 +0000" stop="20251106110000 +0000" channel="GTV HD.mncvision">
-    <title>SpongeBob SquarePants Movie</title>
+    <title>SpongeBob SquarePants</title>
 </programme>
 <programme start="20251106110000 +0000" stop="20251106114500 +0000" channel="GTV HD.mncvision">
-    <title>SpongeBob SquarePants Movie</title>
+    <title>SpongeBob SquarePants</title>
 </programme>
 <programme start="20251106114500 +0000" stop="20251106141500 +0000" channel="GTV HD.mncvision">
     <title>AFC Champions League Two</title>

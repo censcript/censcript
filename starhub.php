@@ -3758,10 +3758,10 @@
         <title>World Weather</title>
     </programme>
     <programme start="20251106005500 +0000" stop="20251106010000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Exercise for Everyone</title>
+        <title>News &amp; Weather</title>
     </programme>
     <programme start="20251106010000 +0000" stop="20251106010500 +0000" channel="NHK World Premium HD.starhub">
-        <title>News &amp; Weather</title>
+        <title>JAPAN DELISH 5min.</title>
     </programme>
     <programme start="20251106010500 +0000" stop="20251106015000 +0000" channel="NHK World Premium HD.starhub">
         <title>Eat Up! The Ultimate Homemade Cooking Battle &quot;Miso Recipes&quot; (R)</title>
@@ -3799,11 +3799,14 @@
     <programme start="20251106034500 +0000" stop="20251106040000 +0000" channel="NHK World Premium HD.starhub">
         <title>Drama Serial &quot;The Ghost Writer&#039;s Wife&quot; Eps. 29 (R)</title>
     </programme>
-    <programme start="20251106040000 +0000" stop="20251106040500 +0000" channel="NHK World Premium HD.starhub">
-        <title>News</title>
+    <programme start="20251106040000 +0000" stop="20251106045500 +0000" channel="NHK World Premium HD.starhub">
+        <title>Classical Music Club</title>
     </programme>
-    <programme start="20251106040500 +0000" stop="20251106055000 +0000" channel="NHK World Premium HD.starhub">
-        <title>News Around Japan</title>
+    <programme start="20251106045500 +0000" stop="20251106052400 +0000" channel="NHK World Premium HD.starhub">
+        <title>With Mother: Requested Songs Special (R)</title>
+    </programme>
+    <programme start="20251106052400 +0000" stop="20251106055000 +0000" channel="NHK World Premium HD.starhub">
+        <title>Kyoto&#039;s Finest Goods Travelogue</title>
     </programme>
     <programme start="20251106055000 +0000" stop="20251106055500 +0000" channel="NHK World Premium HD.starhub">
         <title>World Weather</title>
@@ -3812,7 +3815,7 @@
         <title>World Music Album</title>
     </programme>
     <programme start="20251106060000 +0000" stop="20251106061000 +0000" channel="NHK World Premium HD.starhub">
-        <title>News &amp; Weather</title>
+        <title>Natural Grandeur of the East Mini</title>
     </programme>
     <programme start="20251106061000 +0000" stop="20251106064000 +0000" channel="NHK World Premium HD.starhub">
         <title>Asagaya House: Let&#039;s Enjoy the Differences</title>
@@ -3854,7 +3857,7 @@
         <title>NHK News 7 (B)</title>
     </programme>
     <programme start="20251106103000 +0000" stop="20251106111500 +0000" channel="NHK World Premium HD.starhub">
-        <title>The &quot;Instruction Manual&quot; Show</title>
+        <title>The &quot;Instruction Manual&quot; Show The Revised Edition of &quot;Anti-Aging for the Knees&quot;</title>
     </programme>
     <programme start="20251106111500 +0000" stop="20251106114000 +0000" channel="NHK World Premium HD.starhub">
         <title>Drama Serial &quot;The Ghost Writer&#039;s Wife&quot; Catch-Up (R)</title>
@@ -3872,7 +3875,7 @@
         <title>News Watch 9 (B)</title>
     </programme>
     <programme start="20251106130000 +0000" stop="20251106134500 +0000" channel="NHK World Premium HD.starhub">
-        <title>NHK MUSIC SPECIAL:</title>
+        <title>NHK MUSIC SPECIAL: Matsutoya Yumi</title>
     </programme>
     <programme start="20251106134500 +0000" stop="20251106140000 +0000" channel="NHK World Premium HD.starhub">
         <title>Night Serial Drama &quot;Hirayasumi&quot; Eps. 4</title>
