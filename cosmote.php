@@ -54,6 +54,14 @@
     <title>Game R1 S6 E11</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251108040000 +0700" stop="20251108043000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEFA Champions League Magazine 2025-26 E10</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251108043000 +0700" stop="20251108053000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEFA Champions League Highlights 2025-26</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251107030000 +0700" stop="20251107050500 +0700" channel="COSMOTE Sport 2 HD">
     <title>European Football Show Greek Edition 2025-26 (L)</title>
     <desc>Live: Ya</desc>
@@ -113,6 +121,10 @@
 <programme start="20251108024500 +0700" stop="20251108044500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Pisa - Cremonese (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20251108044500 +0700" stop="20251108064500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: AEK Larnaca - Aberdeen</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251107030000 +0700" stop="20251107050500 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Rangers FC - AS Roma (L)</title>
@@ -338,6 +350,10 @@
     <title>Motorsports: Moto2 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251108044000 +0700" stop="20251108055500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: MotoGP 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251107030000 +0700" stop="20251107050500 +0700" channel="COSMOTE Sport 6 HD">
     <title>Football: Real Betis Balompie - Olympique Lyonnais (L)</title>
     <desc>Live: Ya</desc>
@@ -396,6 +412,10 @@
 </programme>
 <programme start="20251108030000 +0700" stop="20251108041500 +0700" channel="COSMOTE Sport 6 HD">
     <title>Topspin</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251108041500 +0700" stop="20251108051000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>ATP Masters 1000 2025 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251107030000 +0700" stop="20251107050500 +0700" channel="COSMOTE Sport 7 HD">
