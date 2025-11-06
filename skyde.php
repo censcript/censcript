@@ -3094,13 +3094,13 @@
 <programme start="20251106220000 +0000" stop="20251107000000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>EFL: FC Portsmouth - AFC Wrexham, 14. Spieltag</title>
 </programme>
-<programme start="20251106003000 +0000" stop="20251106013000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20251106011500 +0000" stop="20251106021500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: Review Paris</title>
 </programme>
-<programme start="20251106013000 +0000" stop="20251106033000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20251106021500 +0000" stop="20251106040000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA Finals: S. Errani (ITA) / J. Paolini (ITA) - V. Kudermetova / E. Mertens (BEL), 5. Tag in Riyadh (SAU)</title>
 </programme>
-<programme start="20251106033000 +0000" stop="20251106053000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20251106040000 +0000" stop="20251106053000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA Finals: S.-W. Hsieh (TPE) / J. Ostapenko (LAT) - A. Muhammad (USA) / D. Schuurs (NED), 5. Tag in Riyadh (SAU)</title>
 </programme>
 <programme start="20251106053000 +0000" stop="20251106060000 +0000" channel="Sky Sport Tennis HD.skyde">
@@ -3110,7 +3110,7 @@
     <title>ATP 250: S. Wawrinka (SUI) - L. Musetti (ITA), Hellenic Open in Athen (GRE), 4. Tag</title>
 </programme>
 <programme start="20251106080000 +0000" stop="20251106100000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA Finals: E. Rybakina (KAZ) - M. Keys (USA), 5. Tag in Riyadh (SAU)</title>
+    <title>WTA Finals: E. Rybakina (KAZ) - E. Alexandrova, 5. Tag in Riyadh (SAU)</title>
 </programme>
 <programme start="20251106100000 +0000" stop="20251106120000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA Finals: I. Swiatek (POL) - A. Anisimova (USA), 5. Tag in Riyadh (SAU)</title>
