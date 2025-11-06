@@ -2180,34 +2180,40 @@
         <title>ATP Tour 250 2025: Athens Day 4 Match 3</title>
     </programme>
     <programme start="20251106020000 +0000" stop="20251106033000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Athens Day 4 Match 4</title>
+        <title>Athens Day 4 Nakashima v Giron</title>
     </programme>
     <programme start="20251106033000 +0000" stop="20251106040000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>ATP Tour: This Week 2025</title>
     </programme>
     <programme start="20251106040000 +0000" stop="20251106053000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Metz Day 4 Match 1</title>
+        <title>Metz Day 4 Tien v Echargui</title>
     </programme>
     <programme start="20251106053000 +0000" stop="20251106070000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Metz Day 4 Match 2</title>
+        <title>Athens Day 4 Musetti v Wawrinka</title>
     </programme>
     <programme start="20251106070000 +0000" stop="20251106073000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>ATP Tour: This Week 2025</title>
     </programme>
     <programme start="20251106073000 +0000" stop="20251106090000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Metz Day 4 Match 3</title>
+        <title>Metz Day 4 Bublik v Sachko</title>
     </programme>
     <programme start="20251106090000 +0000" stop="20251106103000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Metz Day 4 Match 4</title>
+        <title>Metz Day 4 Vukic v Berrettini</title>
     </programme>
-    <programme start="20251106103000 +0000" stop="20251106120000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Athens Day 4 Match 3</title>
+    <programme start="20251106103000 +0000" stop="20251106104500 +0000" channel="beIN Sports 2 HD.starhub">
+        <title>Djokovic v Nadal 2016</title>
     </programme>
-    <programme start="20251106120000 +0000" stop="20251106140000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Athens QF 1 (Live)</title>
+    <programme start="20251106104500 +0000" stop="20251106110000 +0000" channel="beIN Sports 2 HD.starhub">
+        <title>Nadal v Djokovic 2019</title>
     </programme>
-    <programme start="20251106140000 +0000" stop="20251106160000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Athens QF 2 (Live)</title>
+    <programme start="20251106110000 +0000" stop="20251106130000 +0000" channel="beIN Sports 2 HD.starhub">
+        <title>Athens QF 1 Korda v Kecmanovic</title>
+    </programme>
+    <programme start="20251106130000 +0000" stop="20251106150000 +0000" channel="beIN Sports 2 HD.starhub">
+        <title>Athens QF 2 Musetti v Muller</title>
+    </programme>
+    <programme start="20251106150000 +0000" stop="20251106160000 +0000" channel="beIN Sports 2 HD.starhub">
+        <title>Paris</title>
     </programme>
     <programme start="20251105160000 +0000" stop="20251105170000 +0000" channel="TVB Xing He.starhub">
         <title>Birth of A Hero</title>
@@ -8095,11 +8101,8 @@
     <programme start="20251106040000 +0000" stop="20251106043000 +0000" channel="SPOTV2.starhub">
         <title>2025/26 ALM Mini Match Rd 3 Macarthur FC vs Western Sydney Wanderers FC</title>
     </programme>
-    <programme start="20251106043000 +0000" stop="20251106093000 +0000" channel="SPOTV2.starhub">
+    <programme start="20251106043000 +0000" stop="20251106100000 +0000" channel="SPOTV2.starhub">
         <title>Day 2 Session 1</title>
-    </programme>
-    <programme start="20251106093000 +0000" stop="20251106100000 +0000" channel="SPOTV2.starhub">
-        <title>2025/26 ALM Mini Match Rd 3 Central Coast Mariners FC vs Wellington Phoenix</title>
     </programme>
     <programme start="20251106100000 +0000" stop="20251106140000 +0000" channel="SPOTV2.starhub">
         <title>Day 3 Session 1</title>

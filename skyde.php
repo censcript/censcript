@@ -2638,7 +2638,7 @@
 <programme start="20251106173500 +0000" stop="20251106195000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live UEFA EL: Roter Stern Belgrad - LOSC Lille, Ligaphase, 4. Spieltag</title>
 </programme>
-<programme start="20251106195000 +0000" stop="20251106220000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+<programme start="20251106195000 +0000" stop="20251106223000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live UEFA EL: VfB Stuttgart - Feyenoord Rotterdam, Ligaphase, 4. Spieltag</title>
 </programme>
 <programme start="20251106171500 +0000" stop="20251106173500 +0000" channel="Sky Sport Austria 5 HD.skyde">
@@ -2647,7 +2647,7 @@
 <programme start="20251106173500 +0000" stop="20251106195000 +0000" channel="Sky Sport Austria 5 HD.skyde">
     <title>Live UEFA ECL: 1. FSV Mainz 05 - AC Florenz, Ligaphase, 3. Spieltag</title>
 </programme>
-<programme start="20251106195000 +0000" stop="20251106220000 +0000" channel="Sky Sport Austria 5 HD.skyde">
+<programme start="20251106195000 +0000" stop="20251106223000 +0000" channel="Sky Sport Austria 5 HD.skyde">
     <title>Live UEFA EL: SC Braga - KRC Genk, Ligaphase, 4. Spieltag</title>
 </programme>
 <programme start="20251106171500 +0000" stop="20251106173500 +0000" channel="Sky Sport Austria 6 HD.skyde">
@@ -2941,7 +2941,13 @@
 <programme start="20251106103000 +0000" stop="20251106110000 +0000" channel="Sky Sport News HD.skyde">
     <title>BL: Bundesliga Weekly</title>
 </programme>
-<programme start="20251106110000 +0000" stop="20251106140000 +0000" channel="Sky Sport News HD.skyde">
+<programme start="20251106110000 +0000" stop="20251106130000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: Pressekonferenzen live</title>
+</programme>
+<programme start="20251106130000 +0000" stop="20251106133000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: Spezial - Nagelsmanns Kader: Die Analyse</title>
+</programme>
+<programme start="20251106133000 +0000" stop="20251106140000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Pressekonferenzen live</title>
 </programme>
 <programme start="20251106140000 +0000" stop="20251106170000 +0000" channel="Sky Sport News HD.skyde">
@@ -3202,7 +3208,7 @@
 <programme start="20251106114000 +0000" stop="20251106120000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: LIVE ATP World Tour</title>
 </programme>
-<programme start="20251106120000 +0000" stop="20251106200000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20251106120000 +0000" stop="20251106220000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live ATP 250: Hellenic Open in Athen (GRE), Viertelfinals</title>
 </programme>
 <programme start="20251105234000 +0000" stop="20251106002500 +0000" channel="SYFY HD.skyde">
