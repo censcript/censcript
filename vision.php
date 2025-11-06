@@ -65,7 +65,7 @@
 <title>Seputar iNews Siang</title>
 </programme>
 <programme start="20251107051500 +0000" stop="20251107080000 +0000" channel="RCTI.vision">
-<title>Take Me Out Indonesia</title>
+<title>Take Me Out Indonesia (RCTI)</title>
 </programme>
 <programme start="20251107080000 +0000" stop="20251107090000 +0000" channel="RCTI.vision">
 <title>Bad Parenting</title>
@@ -685,9 +685,6 @@
 <programme start="20251106093000 +0000" stop="20251106113000 +0000" channel="ANTV.vision">
 <title>Takdir Cinta Layla</title>
 </programme>
-<programme start="20251106113000 +0000" stop="20251106133000 +0000" channel="ANTV.vision">
-<title>Pendekar Naga Mas</title>
-</programme>
 <programme start="20251106133000 +0000" stop="20251106153000 +0000" channel="ANTV.vision">
 <title>Pendekar Bukit Tengkorak</title>
 </programme>
@@ -704,7 +701,7 @@
 <title>Tiga Gadis Pilihan</title>
 </programme>
 <programme start="20251106220000 +0000" stop="20251106223000 +0000" channel="ANTV.vision">
-<title>Nath</title>
+<title>Ada Si Manis Di Jembatan</title>
 </programme>
 <programme start="20251106223000 +0000" stop="20251106233000 +0000" channel="ANTV.vision">
 <title>Masha And The Bear</title>
@@ -1408,10 +1405,7 @@
 <programme start="20251106080000 +0000" stop="20251106083000 +0000" channel="BTV.vision">
 <title>Dikit-Dikit Damkar</title>
 </programme>
-<programme start="20251106083000 +0000" stop="20251106091500 +0000" channel="BTV.vision">
-<title>Figur Publik</title>
-</programme>
-<programme start="20251106091500 +0000" stop="20251106093000 +0000" channel="BTV.vision">
+<programme start="20251106083000 +0000" stop="20251106093000 +0000" channel="BTV.vision">
 <title>Info Seleb</title>
 </programme>
 <programme start="20251106093000 +0000" stop="20251106103000 +0000" channel="BTV.vision">
@@ -1466,7 +1460,7 @@
 <title>Jalan Dakwah</title>
 </programme>
 <programme start="20251107003000 +0000" stop="20251107011500 +0000" channel="BTV.vision">
-<title>Figur Publik</title>
+<title>Info Seleb</title>
 </programme>
 <programme start="20251107011500 +0000" stop="20251107014500 +0000" channel="BTV.vision">
 <title>Kuyliner</title>
@@ -1495,6 +1489,12 @@
 <programme start="20251107080000 +0000" stop="20251107083000 +0000" channel="BTV.vision">
 <title>Dikit-Dikit Damkar</title>
 </programme>
-<programme start="20251107083000 +0000" stop="20251107091500 +0000" channel="BTV.vision">
-<title>Figur Publik</title>
+<programme start="20251107083000 +0000" stop="20251107093000 +0000" channel="BTV.vision">
+<title>Info Seleb</title>
+</programme>
+<programme start="20251107093000 +0000" stop="20251107103000 +0000" channel="BTV.vision">
+<title>Berita Satu Sore</title>
+</programme>
+<programme start="20251107103000 +0000" stop="20251107123000 +0000" channel="BTV.vision">
+<title>Berita Satu Utama</title>
 </programme>
