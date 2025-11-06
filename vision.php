@@ -1408,10 +1408,7 @@
 <programme start="20251106080000 +0000" stop="20251106083000 +0000" channel="BTV.vision">
 <title>Dikit-Dikit Damkar</title>
 </programme>
-<programme start="20251106083000 +0000" stop="20251106091500 +0000" channel="BTV.vision">
-<title>Figur Publik</title>
-</programme>
-<programme start="20251106091500 +0000" stop="20251106093000 +0000" channel="BTV.vision">
+<programme start="20251106083000 +0000" stop="20251106093000 +0000" channel="BTV.vision">
 <title>Info Seleb</title>
 </programme>
 <programme start="20251106093000 +0000" stop="20251106103000 +0000" channel="BTV.vision">
@@ -1466,7 +1463,7 @@
 <title>Jalan Dakwah</title>
 </programme>
 <programme start="20251107003000 +0000" stop="20251107011500 +0000" channel="BTV.vision">
-<title>Figur Publik</title>
+<title>Info Seleb</title>
 </programme>
 <programme start="20251107011500 +0000" stop="20251107014500 +0000" channel="BTV.vision">
 <title>Kuyliner</title>
@@ -1495,6 +1492,9 @@
 <programme start="20251107080000 +0000" stop="20251107083000 +0000" channel="BTV.vision">
 <title>Dikit-Dikit Damkar</title>
 </programme>
-<programme start="20251107083000 +0000" stop="20251107091500 +0000" channel="BTV.vision">
-<title>Figur Publik</title>
+<programme start="20251107083000 +0000" stop="20251107093000 +0000" channel="BTV.vision">
+<title>Info Seleb</title>
+</programme>
+<programme start="20251107093000 +0000" stop="20251107103000 +0000" channel="BTV.vision">
+<title>Berita Satu Sore</title>
 </programme>

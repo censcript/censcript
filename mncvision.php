@@ -5674,16 +5674,16 @@
 <programme start="20251106123000 +0000" stop="20251106132500 +0000" channel="MDTV.mncvision">
     <title>Ipar Adalah Maut: The Series</title>
 </programme>
-<programme start="20251106132500 +0000" stop="20251106141500 +0000" channel="MDTV.mncvision">
-    <title>Janji Cinta (Sindoor Ki Keemat)</title>
-</programme>
-<programme start="20251106141500 +0000" stop="20251106152000 +0000" channel="MDTV.mncvision">
+<programme start="20251106132500 +0000" stop="20251106142500 +0000" channel="MDTV.mncvision">
     <title>Terlanjur Indah</title>
 </programme>
-<programme start="20251106152000 +0000" stop="20251106162500 +0000" channel="MDTV.mncvision">
+<programme start="20251106142500 +0000" stop="20251106152000 +0000" channel="MDTV.mncvision">
+    <title>Janji Cinta (Sindoor Ki Keemat)</title>
+</programme>
+<programme start="20251106152000 +0000" stop="20251106163000 +0000" channel="MDTV.mncvision">
     <title>Cerita Nyata Malam</title>
 </programme>
-<programme start="20251106162500 +0000" stop="20251106165500 +0000" channel="MDTV.mncvision">
+<programme start="20251106163000 +0000" stop="20251105170000 +0000" channel="MDTV.mncvision">
     <title>Top Spot</title>
 </programme>
 <programme start="20251105170000 +0000" stop="20251105170500 +0000" channel="Metro TV.mncvision">
