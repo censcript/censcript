@@ -94,59 +94,41 @@
 <programme start="20251106221500 +0000" stop="20251106230000 +0000" channel="13th Street HD.skyde">
     <title>Navy CIS</title>
 </programme>
-<programme start="20251105230000 +0000" stop="20251106003000 +0000" channel="Beate Uhse HD.skyde">
-    <title>Der Trip ihres Lebens</title>
-</programme>
-<programme start="20251106003000 +0000" stop="20251106005500 +0000" channel="Beate Uhse HD.skyde">
-    <title>The Art of Kissing</title>
-</programme>
-<programme start="20251106005500 +0000" stop="20251106011500 +0000" channel="Beate Uhse HD.skyde">
-    <title>Straßenflirts</title>
-</programme>
-<programme start="20251106011500 +0000" stop="20251106020000 +0000" channel="Beate Uhse HD.skyde">
-    <title>Bodo bumst Mexiko</title>
-</programme>
-<programme start="20251106020000 +0000" stop="20251106022500 +0000" channel="Beate Uhse HD.skyde">
-    <title>Pro Amateur</title>
-</programme>
-<programme start="20251106022500 +0000" stop="20251106034000 +0000" channel="Beate Uhse HD.skyde">
-    <title>Webcamgirls privat</title>
-</programme>
-<programme start="20251106034000 +0000" stop="20251106040500 +0000" channel="Beate Uhse HD.skyde">
-    <title>Nudes - Unzensierte Selfies</title>
-</programme>
-<programme start="20251106040500 +0000" stop="20251106042500 +0000" channel="Beate Uhse HD.skyde">
-    <title>Girlfriends</title>
-</programme>
-<programme start="20251106042500 +0000" stop="20251106044500 +0000" channel="Beate Uhse HD.skyde">
-    <title>Tat &amp; Wahrheit</title>
-</programme>
-<programme start="20251106044500 +0000" stop="20251106191500 +0000" channel="Beate Uhse HD.skyde">
-    <title>Programm von 20.15 Uhr bis 05.45 Uhr</title>
-</programme>
-<programme start="20251106191500 +0000" stop="20251106203000 +0000" channel="Beate Uhse HD.skyde">
-    <title>The Affairs of Lidia</title>
-</programme>
-<programme start="20251106203000 +0000" stop="20251106205500 +0000" channel="Beate Uhse HD.skyde">
-    <title>Streit Lust Sex</title>
-</programme>
-<programme start="20251106205500 +0000" stop="20251106212000 +0000" channel="Beate Uhse HD.skyde">
-    <title>The Art of Kissing</title>
-</programme>
-<programme start="20251106212000 +0000" stop="20251106214500 +0000" channel="Beate Uhse HD.skyde">
-    <title>Big Tit Milfs</title>
-</programme>
-<programme start="20251106214500 +0000" stop="20251106221000 +0000" channel="Beate Uhse HD.skyde">
+<programme start="20251110235000 +0000" stop="20251111001000 +0000" channel="Beate Uhse HD.skyde">
     <title>Massage Seductions</title>
 </programme>
-<programme start="20251106221000 +0000" stop="20251106223500 +0000" channel="Beate Uhse HD.skyde">
+<programme start="20251111001000 +0000" stop="20251111003500 +0000" channel="Beate Uhse HD.skyde">
     <title>Die Frau meines Vaters</title>
 </programme>
-<programme start="20251106223500 +0000" stop="20251106224000 +0000" channel="Beate Uhse HD.skyde">
-    <title>Cumming Soon</title>
+<programme start="20251111003500 +0000" stop="20251111010000 +0000" channel="Beate Uhse HD.skyde">
+    <title>Streit Lust Sex</title>
 </programme>
-<programme start="20251106224000 +0000" stop="20251106230500 +0000" channel="Beate Uhse HD.skyde">
-    <title>Frische Sahneschnitten</title>
+<programme start="20251111010000 +0000" stop="20251111012500 +0000" channel="Beate Uhse HD.skyde">
+    <title>Nudes - Unzensierte Selfies</title>
+</programme>
+<programme start="20251111012500 +0000" stop="20251111015500 +0000" channel="Beate Uhse HD.skyde">
+    <title>Herbstgefühle</title>
+</programme>
+<programme start="20251111015500 +0000" stop="20251111031000 +0000" channel="Beate Uhse HD.skyde">
+    <title>Sextech</title>
+</programme>
+<programme start="20251111031000 +0000" stop="20251111044500 +0000" channel="Beate Uhse HD.skyde">
+    <title>Missing</title>
+</programme>
+<programme start="20251111044500 +0000" stop="20251111191500 +0000" channel="Beate Uhse HD.skyde">
+    <title>Programm von 20.15 Uhr bis 05.45 Uhr</title>
+</programme>
+<programme start="20251111191500 +0000" stop="20251111193500 +0000" channel="Beate Uhse HD.skyde">
+    <title>Tat &amp; Wahrheit</title>
+</programme>
+<programme start="20251111193500 +0000" stop="20251111210500 +0000" channel="Beate Uhse HD.skyde">
+    <title>Das Stiefbiest</title>
+</programme>
+<programme start="20251111210500 +0000" stop="20251111225000 +0000" channel="Beate Uhse HD.skyde">
+    <title>Models am Meer</title>
+</programme>
+<programme start="20251111225000 +0000" stop="20251112001000 +0000" channel="Beate Uhse HD.skyde">
+    <title>Our Uni Days</title>
 </programme>
 <programme start="20251105230500 +0000" stop="20251105231500 +0000" channel="Cartoon Network.skyde">
     <title>Regular Show - Völlig abgedreht</title>
