@@ -2665,7 +2665,7 @@
 <programme start="20251106173500 +0000" stop="20251106195000 +0000" channel="Sky Sport Austria 7 HD.skyde">
     <title>Live UEFA EL: FC Utrecht - FC Porto, Ligaphase, 4. Spieltag</title>
 </programme>
-<programme start="20251106195000 +0000" stop="20251106220000 +0000" channel="Sky Sport Austria 7 HD.skyde">
+<programme start="20251106195000 +0000" stop="20251106223000 +0000" channel="Sky Sport Austria 7 HD.skyde">
     <title>Live UEFA EL: Aston Villa -  Maccabi Tel-Aviv, Ligaphase, 4. Spieltag</title>
 </programme>
 <programme start="20251106171500 +0000" stop="20251106173500 +0000" channel="Sky Sport Austria 8 HD.skyde">
@@ -2674,7 +2674,7 @@
 <programme start="20251106173500 +0000" stop="20251106195000 +0000" channel="Sky Sport Austria 8 HD.skyde">
     <title>Live UEFA EL: Dinamo Zagreb - Celta Vigo, Ligaphase, 4. Spieltag</title>
 </programme>
-<programme start="20251106195000 +0000" stop="20251106220000 +0000" channel="Sky Sport Austria 8 HD.skyde">
+<programme start="20251106195000 +0000" stop="20251106223000 +0000" channel="Sky Sport Austria 8 HD.skyde">
     <title>Live UEFA EL: Real Betis - Olympique Lyon, Ligaphase, 4. Spieltag</title>
 </programme>
 <programme start="20251105230000 +0000" stop="20251105233000 +0000" channel="Sky Sport Bundesliga HD.skyde">

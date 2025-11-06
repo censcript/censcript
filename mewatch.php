@@ -380,7 +380,7 @@
         <title>The Player - EP 11</title>
     </programme>
     <programme start="20251106150000 +0000" stop="20251106154500 +0000" channel="Channel U.mewatch">
-        <title>News Tonight</title>
+        <title>News Tonight With Highlights from Parliament</title>
     </programme>
     <programme start="20251106154500 +0000" stop="20251106164000 +0000" channel="Channel U.mewatch">
         <title>My Dearest Fu Bao - EP 2</title>
