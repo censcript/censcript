@@ -137,7 +137,7 @@
         <title>Provocative - EP 162</title>
     </programme>
     <programme start="20251106130000 +0000" stop="20251106134500 +0000" channel="Channel 5.mewatch">
-        <title>(Live) News Tonight</title>
+        <title>(Live) News Tonight With Highlights From Parliament</title>
     </programme>
     <programme start="20251106134500 +0000" stop="20251106141500 +0000" channel="Channel 5.mewatch">
         <title>Talking Point - EP 23</title>
@@ -260,7 +260,7 @@
         <title>The Gift of Time - EP 11</title>
     </programme>
     <programme start="20251106140000 +0000" stop="20251106144500 +0000" channel="Channel 8.mewatch">
-        <title>(Live) News Tonight</title>
+        <title>(Live) News Tonight With Highlights from Parliament</title>
     </programme>
     <programme start="20251106144500 +0000" stop="20251106151500 +0000" channel="Channel 8.mewatch">
         <title>Focus - EP 24</title>

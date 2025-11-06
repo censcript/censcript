@@ -1609,10 +1609,7 @@
 <programme start="20251106080000 +0000" stop="20251106083000 +0000" channel="BTV.mncvision">
     <title>Dikit-Dikit Damkar</title>
 </programme>
-<programme start="20251106083000 +0000" stop="20251106091500 +0000" channel="BTV.mncvision">
-    <title>Figur Publik</title>
-</programme>
-<programme start="20251106091500 +0000" stop="20251106093000 +0000" channel="BTV.mncvision">
+<programme start="20251106083000 +0000" stop="20251106093000 +0000" channel="BTV.mncvision">
     <title>Info Seleb</title>
 </programme>
 <programme start="20251106093000 +0000" stop="20251106103000 +0000" channel="BTV.mncvision">
