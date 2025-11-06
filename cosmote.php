@@ -118,8 +118,8 @@
     <title>Football: FSV Mainz 05 - ACF Fiorentina</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251106152000 +0700" stop="20251106180000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Celtic FC - Rangers FC</title>
+<programme start="20251107180000 +0700" stop="20251107200000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: AEK - Shamrock Rovers FC</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251106180000 +0700" stop="20251106200000 +0700" channel="COSMOTE Sport 3 HD">
@@ -330,8 +330,8 @@
     <title>Motorsports: MotoGP 2025 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251106134000 +0700" stop="20251106173000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: ATP 250 2025</title>
+<programme start="20251107184500 +0700" stop="20251107191000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Sports Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251106173000 +0700" stop="20251106193000 +0700" channel="COSMOTE Sport 6 HD">
@@ -569,6 +569,10 @@
 <programme start="20251107173000 +0700" stop="20251107180000 +0700" channel="COSMOTE Sport 8 HD">
     <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251107180000 +0700" stop="20251107200000 +0700" channel="COSMOTE Sport 8 HD">
+    <title>2025 Premier Padel World Cup Pairs (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20251106170000 +0700" stop="20251106190000 +0700" channel="COSMOTE Sport 9 HD">
     <title>COSMOTESport9HD</title>
