@@ -122,8 +122,8 @@
     <title>Football: AEK - Shamrock Rovers FC</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251106180000 +0700" stop="20251106200000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Leicester City FC - Blackburn Rovers</title>
+<programme start="20251107200000 +0700" stop="20251107220000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Crystal Palace - AZ Alkmaar</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251106200000 +0700" stop="20251106220000 +0700" channel="COSMOTE Sport 3 HD">
@@ -184,10 +184,6 @@
 </programme>
 <programme start="20251107190000 +0700" stop="20251107210000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: AEK Larnaca - Aberdeen</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251106170000 +0700" stop="20251106193000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: New York Knicks - Minnesota Timberwolves</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251106193000 +0700" stop="20251106214000 +0700" channel="COSMOTE Sport 4 HD">
@@ -342,16 +338,12 @@
     <title>DTM</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251106173000 +0700" stop="20251106193000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Volleyball: Olympiacos - Vasas</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251106193000 +0700" stop="20251106200000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Sports Classics: The Outdoor Sports Show 2025 E10</title>
-    <desc>Live: Tidak</desc>
+<programme start="20251107201000 +0700" stop="20251107210000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: Moto3 2025 (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20251106200000 +0700" stop="20251106223000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: ATP 250 2025 (L)</title>
+    <title>Tennis: Kyrian Jacquet - Cameron Norrie (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20251106223000 +0700" stop="20251106224500 +0700" channel="COSMOTE Sport 6 HD">
@@ -383,7 +375,7 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251107080000 +0700" stop="20251107103000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: ATP 250 2025</title>
+    <title>Tennis: Kyrian Jacquet - Cameron Norrie</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251107103000 +0700" stop="20251107110000 +0700" channel="COSMOTE Sport 6 HD">
@@ -579,6 +571,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251107180000 +0700" stop="20251107200000 +0700" channel="COSMOTE Sport 8 HD">
+    <title>2025 Premier Padel World Cup Pairs (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
+<programme start="20251107200000 +0700" stop="20251107223000 +0700" channel="COSMOTE Sport 8 HD">
     <title>2025 Premier Padel World Cup Pairs (L)</title>
     <desc>Live: Ya</desc>
 </programme>

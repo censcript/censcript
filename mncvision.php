@@ -8401,8 +8401,96 @@
 <programme start="20251106153000 +0000" stop="20251106160000 +0000" channel="Sportstars 2 HD.mncvision">
     <title>Tinju</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20251105170000 +0000" stop="20251105190000 +0000" channel="Sportstars 3.mncvision">
+    <title>Bundesliga</title>
+</programme>
+<programme start="20251105190000 +0000" stop="20251105210000 +0000" channel="Sportstars 3.mncvision">
+    <title>BRI Liga 1</title>
+</programme>
+<programme start="20251105210000 +0000" stop="20251105230000 +0000" channel="Sportstars 3.mncvision">
+    <title>European Qualifiers</title>
+</programme>
+<programme start="20251105230000 +0000" stop="20251106010000 +0000" channel="Sportstars 3.mncvision">
+    <title>Bundesliga</title>
+</programme>
+<programme start="20251106010000 +0000" stop="20251106030000 +0000" channel="Sportstars 3.mncvision">
+    <title>Liga 2</title>
+</programme>
+<programme start="20251106030000 +0000" stop="20251106050000 +0000" channel="Sportstars 3.mncvision">
+    <title>BRI Liga 1</title>
+</programme>
+<programme start="20251106050000 +0000" stop="20251106070000 +0000" channel="Sportstars 3.mncvision">
+    <title>Bundesliga</title>
+</programme>
+<programme start="20251106070000 +0000" stop="20251106090000 +0000" channel="Sportstars 3.mncvision">
+    <title>European Qualifiers</title>
+</programme>
+<programme start="20251106090000 +0000" stop="20251106093000 +0000" channel="Sportstars 3.mncvision">
+    <title>Top Goals</title>
+</programme>
+<programme start="20251106093000 +0000" stop="20251106100000 +0000" channel="Sportstars 3.mncvision">
+    <title>The Ultimate Goals</title>
+</programme>
+<programme start="20251106100000 +0000" stop="20251106120000 +0000" channel="Sportstars 3.mncvision">
+    <title>AFC Champions League Two (L)</title>
+</programme>
+<programme start="20251106120000 +0000" stop="20251106123000 +0000" channel="Sportstars 3.mncvision">
+    <title>Top Goals</title>
+</programme>
+<programme start="20251106123000 +0000" stop="20251106130000 +0000" channel="Sportstars 3.mncvision">
+    <title>The Ultimate Goals</title>
+</programme>
+<programme start="20251106130000 +0000" stop="20251106150000 +0000" channel="Sportstars 3.mncvision">
+    <title>European Qualifiers</title>
+</programme>
+<programme start="20251106150000 +0000" stop="20251106153000 +0000" channel="Sportstars 3.mncvision">
+    <title>Liga 2</title>
+</programme>
+<programme start="20251105170000 +0000" stop="20251105190000 +0000" channel="sportstars 3 HD.mncvision">
+    <title>Bundesliga</title>
+</programme>
+<programme start="20251105190000 +0000" stop="20251105210000 +0000" channel="sportstars 3 HD.mncvision">
+    <title>BRI Liga 1</title>
+</programme>
+<programme start="20251105210000 +0000" stop="20251105230000 +0000" channel="sportstars 3 HD.mncvision">
+    <title>European Qualifiers</title>
+</programme>
+<programme start="20251105230000 +0000" stop="20251106010000 +0000" channel="sportstars 3 HD.mncvision">
+    <title>Bundesliga</title>
+</programme>
+<programme start="20251106010000 +0000" stop="20251106030000 +0000" channel="sportstars 3 HD.mncvision">
+    <title>Liga 2</title>
+</programme>
+<programme start="20251106030000 +0000" stop="20251106050000 +0000" channel="sportstars 3 HD.mncvision">
+    <title>BRI Liga 1</title>
+</programme>
+<programme start="20251106050000 +0000" stop="20251106070000 +0000" channel="sportstars 3 HD.mncvision">
+    <title>Bundesliga</title>
+</programme>
+<programme start="20251106070000 +0000" stop="20251106090000 +0000" channel="sportstars 3 HD.mncvision">
+    <title>European Qualifiers</title>
+</programme>
+<programme start="20251106090000 +0000" stop="20251106093000 +0000" channel="sportstars 3 HD.mncvision">
+    <title>Top Goals</title>
+</programme>
+<programme start="20251106093000 +0000" stop="20251106100000 +0000" channel="sportstars 3 HD.mncvision">
+    <title>The Ultimate Goals</title>
+</programme>
+<programme start="20251106100000 +0000" stop="20251106120000 +0000" channel="sportstars 3 HD.mncvision">
+    <title>AFC Champions League Two (L)</title>
+</programme>
+<programme start="20251106120000 +0000" stop="20251106123000 +0000" channel="sportstars 3 HD.mncvision">
+    <title>Top Goals</title>
+</programme>
+<programme start="20251106123000 +0000" stop="20251106130000 +0000" channel="sportstars 3 HD.mncvision">
+    <title>The Ultimate Goals</title>
+</programme>
+<programme start="20251106130000 +0000" stop="20251106150000 +0000" channel="sportstars 3 HD.mncvision">
+    <title>European Qualifiers</title>
+</programme>
+<programme start="20251106150000 +0000" stop="20251106153000 +0000" channel="sportstars 3 HD.mncvision">
+    <title>Liga 2</title>
+</programme>
 <programme start="20251105170000 +0000" stop="20251105190000 +0000" channel="Sportstars 4.mncvision">
     <title>Bundesliga</title>
 </programme>
@@ -9192,12 +9280,357 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20251106162500 +0000" stop="20251106165500 +0000" channel="tvN.mncvision">
     <title>The Beauty Inside, Ep 1</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20251105174500 +0000" stop="20251105190500 +0000" channel="tvN HD.mncvision">
+    <title>Sky Castle, Ep 12</title>
+</programme>
+<programme start="20251105190500 +0000" stop="20251105202000 +0000" channel="tvN HD.mncvision">
+    <title>The Beauty Inside, Ep 2</title>
+</programme>
+<programme start="20251105202000 +0000" stop="20251105220000 +0000" channel="tvN HD.mncvision">
+    <title>GBRB: Joy Pops Laugh..., Ep 3</title>
+</programme>
+<programme start="20251105220000 +0000" stop="20251106001500 +0000" channel="tvN HD.mncvision">
+    <title>Europe Outside: Italy, Ep 5</title>
+</programme>
+<programme start="20251106001500 +0000" stop="20251106010500 +0000" channel="tvN HD.mncvision">
+    <title>Dreaming Of A Freaking..., Ep 1</title>
+</programme>
+<programme start="20251106010500 +0000" stop="20251106020000 +0000" channel="tvN HD.mncvision">
+    <title>Dreaming Of A Freaking..., Ep 2</title>
+</programme>
+<programme start="20251106020000 +0000" stop="20251106023000 +0000" channel="tvN HD.mncvision">
+    <title>Love On The Clock, Ep 2</title>
+</programme>
+<programme start="20251106023000 +0000" stop="20251106030000 +0000" channel="tvN HD.mncvision">
+    <title>Love On The Clock, Ep 3</title>
+</programme>
+<programme start="20251106030000 +0000" stop="20251106041500 +0000" channel="tvN HD.mncvision">
+    <title>The Beauty Inside, Ep 2</title>
+</programme>
+<programme start="20251106041500 +0000" stop="20251106053000 +0000" channel="tvN HD.mncvision">
+    <title>Sky Castle, Ep 11</title>
+</programme>
+<programme start="20251106053000 +0000" stop="20251106065000 +0000" channel="tvN HD.mncvision">
+    <title>Sky Castle, Ep 12</title>
+</programme>
+<programme start="20251106065000 +0000" stop="20251106082000 +0000" channel="tvN HD.mncvision">
+    <title>E. Lee&#039;s Country Cook, Ep 8</title>
+</programme>
+<programme start="20251106082000 +0000" stop="20251106092000 +0000" channel="tvN HD.mncvision">
+    <title>Walking Through Village, Ep 7</title>
+</programme>
+<programme start="20251106092000 +0000" stop="20251106094000 +0000" channel="tvN HD.mncvision">
+    <title>You Can Cook, Sam Kim, Ep 9</title>
+</programme>
+<programme start="20251106094000 +0000" stop="20251106112500 +0000" channel="tvN HD.mncvision">
+    <title>House On Wheels: Ocean, Ep 3</title>
+</programme>
+<programme start="20251106112500 +0000" stop="20251106131000 +0000" channel="tvN HD.mncvision">
+    <title>GBRB: Joy Pops Laugh..., Ep 3</title>
+</programme>
+<programme start="20251106131000 +0000" stop="20251106143000 +0000" channel="tvN HD.mncvision">
+    <title>Sky Castle, Ep 13</title>
+</programme>
+<programme start="20251106143000 +0000" stop="20251106162500 +0000" channel="tvN HD.mncvision">
+    <title>Sixth Sense: City Tour S2, Ep 1</title>
+</programme>
+<programme start="20251106162500 +0000" stop="20251106165500 +0000" channel="tvN HD.mncvision">
+    <title>The Beauty Inside, Ep 1</title>
+</programme>
+<programme start="20251105174000 +0000" stop="20251105192000 +0000" channel="tvN Movies.mncvision">
+    <title>Nocturnal</title>
+</programme>
+<programme start="20251105192000 +0000" stop="20251105210000 +0000" channel="tvN Movies.mncvision">
+    <title>Oh! My Ghost</title>
+</programme>
+<programme start="20251105210000 +0000" stop="20251105224500 +0000" channel="tvN Movies.mncvision">
+    <title>The Roundup</title>
+</programme>
+<programme start="20251105224500 +0000" stop="20251106004500 +0000" channel="tvN Movies.mncvision">
+    <title>The Night Owl</title>
+</programme>
+<programme start="20251106004500 +0000" stop="20251106021000 +0000" channel="tvN Movies.mncvision">
+    <title>Shades Of The Heart</title>
+</programme>
+<programme start="20251106021000 +0000" stop="20251106040500 +0000" channel="tvN Movies.mncvision">
+    <title>Gangster, The Cop, The Devil</title>
+</programme>
+<programme start="20251106040500 +0000" stop="20251106055500 +0000" channel="tvN Movies.mncvision">
+    <title>Lovers Vanished</title>
+</programme>
+<programme start="20251106055500 +0000" stop="20251106080000 +0000" channel="tvN Movies.mncvision">
+    <title>The Spies</title>
+</programme>
+<programme start="20251106080000 +0000" stop="20251106095000 +0000" channel="tvN Movies.mncvision">
+    <title>Six Ball</title>
+</programme>
+<programme start="20251106095000 +0000" stop="20251106114500 +0000" channel="tvN Movies.mncvision">
+    <title>Hitman: Agent Jun</title>
+</programme>
+<programme start="20251106114500 +0000" stop="20251106140000 +0000" channel="tvN Movies.mncvision">
+    <title>Miracle In Cell No. 7</title>
+</programme>
+<programme start="20251106140000 +0000" stop="20251106162000 +0000" channel="tvN Movies.mncvision">
+    <title>The Fatal Encounter</title>
+</programme>
+<programme start="20251106162000 +0000" stop="20251106165000 +0000" channel="tvN Movies.mncvision">
+    <title>Exhuma</title>
+</programme>
+<programme start="20251105174000 +0000" stop="20251105192000 +0000" channel="tvN Movies HD.mncvision">
+    <title>Nocturnal</title>
+</programme>
+<programme start="20251105192000 +0000" stop="20251105210000 +0000" channel="tvN Movies HD.mncvision">
+    <title>Oh! My Ghost</title>
+</programme>
+<programme start="20251105210000 +0000" stop="20251105224500 +0000" channel="tvN Movies HD.mncvision">
+    <title>The Roundup</title>
+</programme>
+<programme start="20251105224500 +0000" stop="20251106004500 +0000" channel="tvN Movies HD.mncvision">
+    <title>The Night Owl</title>
+</programme>
+<programme start="20251106004500 +0000" stop="20251106021000 +0000" channel="tvN Movies HD.mncvision">
+    <title>Shades Of The Heart</title>
+</programme>
+<programme start="20251106021000 +0000" stop="20251106040500 +0000" channel="tvN Movies HD.mncvision">
+    <title>Gangster, The Cop, The Devil</title>
+</programme>
+<programme start="20251106040500 +0000" stop="20251106055500 +0000" channel="tvN Movies HD.mncvision">
+    <title>Lovers Vanished</title>
+</programme>
+<programme start="20251106055500 +0000" stop="20251106080000 +0000" channel="tvN Movies HD.mncvision">
+    <title>The Spies</title>
+</programme>
+<programme start="20251106080000 +0000" stop="20251106095000 +0000" channel="tvN Movies HD.mncvision">
+    <title>Six Ball</title>
+</programme>
+<programme start="20251106095000 +0000" stop="20251106114500 +0000" channel="tvN Movies HD.mncvision">
+    <title>Hitman: Agent Jun</title>
+</programme>
+<programme start="20251106114500 +0000" stop="20251106140000 +0000" channel="tvN Movies HD.mncvision">
+    <title>Miracle In Cell No. 7</title>
+</programme>
+<programme start="20251106140000 +0000" stop="20251106162000 +0000" channel="tvN Movies HD.mncvision">
+    <title>The Fatal Encounter</title>
+</programme>
+<programme start="20251106162000 +0000" stop="20251106165000 +0000" channel="tvN Movies HD.mncvision">
+    <title>Exhuma</title>
+</programme>
+<programme start="20251105170000 +0000" stop="20251105173000 +0000" channel="tvOne.mncvision">
+    <title>Kabar Hari Ini</title>
+</programme>
+<programme start="20251105173000 +0000" stop="20251105190000 +0000" channel="tvOne.mncvision">
+    <title>Kabar Petang</title>
+</programme>
+<programme start="20251105190000 +0000" stop="20251105200000 +0000" channel="tvOne.mncvision">
+    <title>Apa Kabar Indonesia Malam</title>
+</programme>
+<programme start="20251105200000 +0000" stop="20251105203000 +0000" channel="tvOne.mncvision">
+    <title>Kabar Utama</title>
+</programme>
+<programme start="20251105203000 +0000" stop="20251105210000 +0000" channel="tvOne.mncvision">
+    <title>Kabar Hari Ini</title>
+</programme>
+<programme start="20251105210000 +0000" stop="20251105213000 +0000" channel="tvOne.mncvision">
+    <title>Kabar Arena Pagi</title>
+</programme>
+<programme start="20251105213000 +0000" stop="20251105230000 +0000" channel="tvOne.mncvision">
+    <title>Kabar Pagi (L)</title>
+</programme>
+<programme start="20251105230000 +0000" stop="20251105233000 +0000" channel="tvOne.mncvision">
+    <title>Kabar Arena Pagi (L)</title>
+</programme>
+<programme start="20251105233000 +0000" stop="20251106013000 +0000" channel="tvOne.mncvision">
+    <title>Apa Kabar Indonesia Pagi (L)</title>
+</programme>
+<programme start="20251106013000 +0000" stop="20251106020000 +0000" channel="tvOne.mncvision">
+    <title>Hidup Sehat (L)</title>
+</programme>
+<programme start="20251106020000 +0000" stop="20251106023000 +0000" channel="tvOne.mncvision">
+    <title>Inspirasi Pagi (L)</title>
+</programme>
+<programme start="20251106023000 +0000" stop="20251106033000 +0000" channel="tvOne.mncvision">
+    <title>Pagi-Pagi Seru (L)</title>
+</programme>
+<programme start="20251106033000 +0000" stop="20251106040000 +0000" channel="tvOne.mncvision">
+    <title>Metropolitan (L)</title>
+</programme>
+<programme start="20251106040000 +0000" stop="20251106060000 +0000" channel="tvOne.mncvision">
+    <title>Kabar Siang (L)</title>
+</programme>
+<programme start="20251106060000 +0000" stop="20251106073000 +0000" channel="tvOne.mncvision">
+    <title>Apa Kabar Indonesia Siang (L)</title>
+</programme>
+<programme start="20251106073000 +0000" stop="20251106083000 +0000" channel="tvOne.mncvision">
+    <title>Kabar Merah Putih (L)</title>
+</programme>
+<programme start="20251106083000 +0000" stop="20251106090000 +0000" channel="tvOne.mncvision">
+    <title>Berita Utama Kriminal (L)</title>
+</programme>
+<programme start="20251106090000 +0000" stop="20251106110000 +0000" channel="tvOne.mncvision">
+    <title>Kabar Petang (L)</title>
+</programme>
+<programme start="20251106110000 +0000" stop="20251106130000 +0000" channel="tvOne.mncvision">
+    <title>Apa Kabar Indonesia Malam (L)</title>
+</programme>
+<programme start="20251106130000 +0000" stop="20251106140000 +0000" channel="tvOne.mncvision">
+    <title>Dua Sisi (L)</title>
+</programme>
+<programme start="20251106140000 +0000" stop="20251106150000 +0000" channel="tvOne.mncvision">
+    <title>Kabar Utama (L)</title>
+</programme>
+<programme start="20251106150000 +0000" stop="20251106160000 +0000" channel="tvOne.mncvision">
+    <title>Kabar Hari Ini (L)</title>
+</programme>
+<programme start="20251106160000 +0000" stop="20251106163000 +0000" channel="tvOne.mncvision">
+    <title>Kabar Arena Malam (L)</title>
+</programme>
+<programme start="20251106163000 +0000" stop="20251105170000 +0000" channel="tvOne.mncvision">
+    <title>Kabar Utama</title>
+</programme>
+<programme start="20251105170000 +0000" stop="20251105173000 +0000" channel="TVRI.mncvision">
+    <title>TVRI</title>
+</programme>
+<programme start="20251105173000 +0000" stop="20251105203000 +0000" channel="TVRI.mncvision">
+    <title>TVRI</title>
+</programme>
+<programme start="20251105203000 +0000" stop="20251105210000 +0000" channel="TVRI.mncvision">
+    <title>TVRI</title>
+</programme>
+<programme start="20251105210000 +0000" stop="20251105213000 +0000" channel="TVRI.mncvision">
+    <title>TVRI</title>
+</programme>
+<programme start="20251105213000 +0000" stop="20251105230000 +0000" channel="TVRI.mncvision">
+    <title>TVRI</title>
+</programme>
+<programme start="20251105230000 +0000" stop="20251106000000 +0000" channel="TVRI.mncvision">
+    <title>TVRI</title>
+</programme>
+<programme start="20251106000000 +0000" stop="20251106010000 +0000" channel="TVRI.mncvision">
+    <title>TVRI</title>
+</programme>
+<programme start="20251106010000 +0000" stop="20251106020000 +0000" channel="TVRI.mncvision">
+    <title>TVRI</title>
+</programme>
+<programme start="20251106020000 +0000" stop="20251106020300 +0000" channel="TVRI.mncvision">
+    <title>TVRI</title>
+</programme>
+<programme start="20251106020300 +0000" stop="20251106023000 +0000" channel="TVRI.mncvision">
+    <title>TVRI</title>
+</programme>
+<programme start="20251106023000 +0000" stop="20251106030000 +0000" channel="TVRI.mncvision">
+    <title>TVRI</title>
+</programme>
+<programme start="20251106030000 +0000" stop="20251106030300 +0000" channel="TVRI.mncvision">
+    <title>TVRI</title>
+</programme>
+<programme start="20251106030300 +0000" stop="20251106033000 +0000" channel="TVRI.mncvision">
+    <title>TVRI</title>
+</programme>
+<programme start="20251106033000 +0000" stop="20251106040000 +0000" channel="TVRI.mncvision">
+    <title>TVRI</title>
+</programme>
+<programme start="20251106040000 +0000" stop="20251106040300 +0000" channel="TVRI.mncvision">
+    <title>TVRI</title>
+</programme>
+<programme start="20251106040300 +0000" stop="20251106050000 +0000" channel="TVRI.mncvision">
+    <title>TVRI</title>
+</programme>
+<programme start="20251106050000 +0000" stop="20251106060000 +0000" channel="TVRI.mncvision">
+    <title>TVRI</title>
+</programme>
+<programme start="20251106060000 +0000" stop="20251106063000 +0000" channel="TVRI.mncvision">
+    <title>TVRI</title>
+</programme>
+<programme start="20251106063000 +0000" stop="20251106070000 +0000" channel="TVRI.mncvision">
+    <title>TVRI</title>
+</programme>
+<programme start="20251106070000 +0000" stop="20251106070300 +0000" channel="TVRI.mncvision">
+    <title>TVRI</title>
+</programme>
+<programme start="20251106070300 +0000" stop="20251106073000 +0000" channel="TVRI.mncvision">
+    <title>TVRI</title>
+</programme>
+<programme start="20251106073000 +0000" stop="20251106080000 +0000" channel="TVRI.mncvision">
+    <title>TVRI</title>
+</programme>
+<programme start="20251106080000 +0000" stop="20251106080300 +0000" channel="TVRI.mncvision">
+    <title>TVRI</title>
+</programme>
+<programme start="20251106080300 +0000" stop="20251106083000 +0000" channel="TVRI.mncvision">
+    <title>TVRI</title>
+</programme>
+<programme start="20251106083000 +0000" stop="20251106090000 +0000" channel="TVRI.mncvision">
+    <title>TVRI</title>
+</programme>
+<programme start="20251106090000 +0000" stop="20251106100000 +0000" channel="TVRI.mncvision">
+    <title>TVRI</title>
+</programme>
+<programme start="20251106100000 +0000" stop="20251106110000 +0000" channel="TVRI.mncvision">
+    <title>TVRI</title>
+</programme>
+<programme start="20251106110000 +0000" stop="20251106120000 +0000" channel="TVRI.mncvision">
+    <title>TVRI</title>
+</programme>
+<programme start="20251106120000 +0000" stop="20251106130000 +0000" channel="TVRI.mncvision">
+    <title>TVRI</title>
+</programme>
+<programme start="20251106130000 +0000" stop="20251106140000 +0000" channel="TVRI.mncvision">
+    <title>TVRI</title>
+</programme>
+<programme start="20251106140000 +0000" stop="20251106143000 +0000" channel="TVRI.mncvision">
+    <title>TVRI</title>
+</programme>
+<programme start="20251106143000 +0000" stop="20251106150000 +0000" channel="TVRI.mncvision">
+    <title>TVRI</title>
+</programme>
+<programme start="20251106150000 +0000" stop="20251106160000 +0000" channel="TVRI.mncvision">
+    <title>TVRI</title>
+</programme>
+<programme start="20251106160000 +0000" stop="20251106163000 +0000" channel="TVRI.mncvision">
+    <title>TVRI</title>
+</programme>
+<programme start="20251106163000 +0000" stop="20251105170000 +0000" channel="TVRI.mncvision">
+    <title>TVRI</title>
+</programme>
+<programme start="20251105171300 +0000" stop="20251105191800 +0000" channel="UNIQUES.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20251105191800 +0000" stop="20251105205000 +0000" channel="UNIQUES.mncvision">
+    <title>Carnage</title>
+</programme>
+<programme start="20251105205000 +0000" stop="20251105224500 +0000" channel="UNIQUES.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20251105224500 +0000" stop="20251106002600 +0000" channel="UNIQUES.mncvision">
+    <title>Escape From Pretoria</title>
+</programme>
+<programme start="20251106002600 +0000" stop="20251106015600 +0000" channel="UNIQUES.mncvision">
+    <title>Berserk</title>
+</programme>
+<programme start="20251106015600 +0000" stop="20251106040800 +0000" channel="UNIQUES.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20251106040800 +0000" stop="20251106060100 +0000" channel="UNIQUES.mncvision">
+    <title>While We&#039;re Young</title>
+</programme>
+<programme start="20251106060100 +0000" stop="20251106080100 +0000" channel="UNIQUES.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20251106080100 +0000" stop="20251106094000 +0000" channel="UNIQUES.mncvision">
+    <title>Breaking</title>
+</programme>
+<programme start="20251106094000 +0000" stop="20251106113600 +0000" channel="UNIQUES.mncvision">
+    <title>Every Breath You Take</title>
+</programme>
+<programme start="20251106113600 +0000" stop="20251106134300 +0000" channel="UNIQUES.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20251106134300 +0000" stop="20251106153700 +0000" channel="UNIQUES.mncvision">
+    <title>Code Name Banshee</title>
+</programme>
+<programme start="20251106153700 +0000" stop="20251106160700 +0000" channel="UNIQUES.mncvision">
+    <title>Platinum</title>
+</programme>
 <programme start="20251105171300 +0000" stop="20251105191800 +0000" channel="UNIQUES HD.mncvision">
     <title>Platinum</title>
 </programme>
