@@ -2727,7 +2727,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251107183000 +0000" stop="20251107191500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: SVW - WOB: tipico Countdown, Flutlicht-Freitag, 10. Spieltag</title>
 </programme>
-<programme start="20251107191500 +0000" stop="20251107221500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
+<programme start="20251107191500 +0000" stop="20251107224500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: Werder Bremen - VfL Wolfsburg, Flutlicht-Freitag, 10. Spieltag</title>
 </programme>
 <programme start="20251107164000 +0000" stop="20251107170000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
@@ -2736,7 +2736,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251107170000 +0000" stop="20251107193000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Live 2. BL: Freitags-Konferenz, 12. Spieltag</title>
 </programme>
-<programme start="20251107193000 +0000" stop="20251107201500 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+<programme start="20251107193000 +0000" stop="20251107204500 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Live 2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 12. Spieltag, Freitag</title>
 </programme>
 <programme start="20251107164000 +0000" stop="20251107170000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
@@ -2745,7 +2745,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251107170000 +0000" stop="20251107193000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live 2. BL: Dynamo Dresden - 1. FC Nürnberg, 12. Spieltag</title>
 </programme>
-<programme start="20251107193000 +0000" stop="20251107213000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
+<programme start="20251107193000 +0000" stop="20251107220000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live BL: Sky Sport Fantasy: SVW - WOB, 10. Spieltag</title>
 </programme>
 <programme start="20251107164000 +0000" stop="20251107170000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">

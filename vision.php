@@ -682,9 +682,6 @@
 <programme start="20251108114500 +0000" stop="20251108121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
-<programme start="20251106233000 +0000" stop="20251107013000 +0000" channel="ANTV.vision">
-<title>Rahasia Patukan Cobra</title>
-</programme>
 <programme start="20251107013000 +0000" stop="20251107030000 +0000" channel="ANTV.vision">
 <title>Mangal Lakshmi</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20251108003000 +0000" stop="20251108011500 +0000" channel="BTV.vision">
 <title>Figur Publik</title>
+</programme>
+<programme start="20251108011500 +0000" stop="20251108014500 +0000" channel="BTV.vision">
+<title>Kuyliner</title>
 </programme>

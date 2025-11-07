@@ -8071,13 +8071,16 @@
     <programme start="20251106231500 +0000" stop="20251107013000 +0000" channel="Asianet Movies.starhub">
         <title>Honey Bee</title>
     </programme>
-    <programme start="20251107013000 +0000" stop="20251107043000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251107013000 +0000" stop="20251107020000 +0000" channel="Asianet Movies.starhub">
+        <title>Chirikkum Thalika</title>
+    </programme>
+    <programme start="20251107020000 +0000" stop="20251107043000 +0000" channel="Asianet Movies.starhub">
         <title>Chunkzz</title>
     </programme>
-    <programme start="20251107043000 +0000" stop="20251107073000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251107043000 +0000" stop="20251107073500 +0000" channel="Asianet Movies.starhub">
         <title>Sreekrishnapurathe Nakshathrathilakkam</title>
     </programme>
-    <programme start="20251107073000 +0000" stop="20251107103000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251107073500 +0000" stop="20251107103000 +0000" channel="Asianet Movies.starhub">
         <title>Baba Kalyani</title>
     </programme>
     <programme start="20251107103000 +0000" stop="20251107133000 +0000" channel="Asianet Movies.starhub">
