@@ -70,7 +70,129 @@
 <programme start="20251107164500 +0000" stop="20251106171500 +0000" channel="ABC Australia.mncvision">
     <title>Planet America: Weekend Edition</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20251106170000 +0000" stop="20251106173000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20251106173000 +0000" stop="20251106180000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Inside Story</title>
+</programme>
+<programme start="20251106180000 +0000" stop="20251106190000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
+</programme>
+<programme start="20251106190000 +0000" stop="20251106193000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20251106193000 +0000" stop="20251106200000 +0000" channel="Al Jazeera English.mncvision">
+    <title>The Stream: Stolen Treasures</title>
+</programme>
+<programme start="20251106200000 +0000" stop="20251106203000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20251106203000 +0000" stop="20251106210000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Inside Story</title>
+</programme>
+<programme start="20251106210000 +0000" stop="20251106220000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
+</programme>
+<programme start="20251106220000 +0000" stop="20251106223000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20251106223000 +0000" stop="20251106230000 +0000" channel="Al Jazeera English.mncvision">
+    <title>101 East: Designer Sweatshops</title>
+</programme>
+<programme start="20251106230000 +0000" stop="20251106233000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20251106233000 +0000" stop="20251107000000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Big Picture: How Israel Won...</title>
+</programme>
+<programme start="20251107000000 +0000" stop="20251107003000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20251107003000 +0000" stop="20251107010000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Inside Story</title>
+</programme>
+<programme start="20251107010000 +0000" stop="20251107020000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Witness: Yumi</title>
+</programme>
+<programme start="20251107020000 +0000" stop="20251107023000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20251107023000 +0000" stop="20251107030000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Risking It All: Colombia</title>
+</programme>
+<programme start="20251107030000 +0000" stop="20251107033000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20251107033000 +0000" stop="20251107040000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Fault Lines: The Killing Field</title>
+</programme>
+<programme start="20251107040000 +0000" stop="20251107043000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20251107043000 +0000" stop="20251107050000 +0000" channel="Al Jazeera English.mncvision">
+    <title>The Stream: Stolen Treasures</title>
+</programme>
+<programme start="20251107050000 +0000" stop="20251107053000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20251107053000 +0000" stop="20251107060000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Inside Story</title>
+</programme>
+<programme start="20251107060000 +0000" stop="20251107063000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20251107063000 +0000" stop="20251107070000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Big Picture: How Israel Won...</title>
+</programme>
+<programme start="20251107070000 +0000" stop="20251107080000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
+</programme>
+<programme start="20251107080000 +0000" stop="20251107083000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20251107083000 +0000" stop="20251107090000 +0000" channel="Al Jazeera English.mncvision">
+    <title>101 East: Designer Sweatshops</title>
+</programme>
+<programme start="20251107090000 +0000" stop="20251107093000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20251107093000 +0000" stop="20251107100000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Witness: Fire Beneath Her</title>
+</programme>
+<programme start="20251107100000 +0000" stop="20251107110000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
+</programme>
+<programme start="20251107110000 +0000" stop="20251107113000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20251107113000 +0000" stop="20251107120000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Inside Story</title>
+</programme>
+<programme start="20251107120000 +0000" stop="20251107123000 +0000" channel="Al Jazeera English.mncvision">
+    <title>The Bottom Line</title>
+</programme>
+<programme start="20251107123000 +0000" stop="20251107130000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Earthrise: Systems Change</title>
+</programme>
+<programme start="20251107130000 +0000" stop="20251107140000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
+</programme>
+<programme start="20251107140000 +0000" stop="20251107143000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20251107143000 +0000" stop="20251107150000 +0000" channel="Al Jazeera English.mncvision">
+    <title>The Stream: Stolen Treasures</title>
+</programme>
+<programme start="20251107150000 +0000" stop="20251107160000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
+</programme>
+<programme start="20251107160000 +0000" stop="20251107163000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20251107163000 +0000" stop="20251106170000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Risking It All: Colombia</title>
+</programme>
 <programme start="20251106170000 +0000" stop="20251106190000 +0000" channel="Al Quran Al Kareem.mncvision">
     <title>Live From Mekkah</title>
 </programme>
@@ -107,7 +229,150 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20251107150000 +0000" stop="20251107153000 +0000" channel="Al Quran Al Kareem.mncvision">
     <title>Live From Mekkah</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20251106170000 +0000" stop="20251106173000 +0000" channel="Animax.mncvision">
+    <title>Konosuba: Blessing S2, Ep 3</title>
+</programme>
+<programme start="20251106173000 +0000" stop="20251106180000 +0000" channel="Animax.mncvision">
+    <title>Konosuba: Blessing S2, Ep 4</title>
+</programme>
+<programme start="20251106180000 +0000" stop="20251106183000 +0000" channel="Animax.mncvision">
+    <title>D.Gray-Man, Ep 58</title>
+</programme>
+<programme start="20251106183000 +0000" stop="20251106190000 +0000" channel="Animax.mncvision">
+    <title>D.Gray-Man, Ep 59</title>
+</programme>
+<programme start="20251106190000 +0000" stop="20251106193000 +0000" channel="Animax.mncvision">
+    <title>Fruits Basket Final..., Ep 5</title>
+</programme>
+<programme start="20251106193000 +0000" stop="20251106200000 +0000" channel="Animax.mncvision">
+    <title>Fruits Basket Final..., Ep 6</title>
+</programme>
+<programme start="20251106200000 +0000" stop="20251106203000 +0000" channel="Animax.mncvision">
+    <title>Reincarnated As A Sword, Ep 9</title>
+</programme>
+<programme start="20251106203000 +0000" stop="20251106210000 +0000" channel="Animax.mncvision">
+    <title>Reincarnated As A Sword, Ep 10</title>
+</programme>
+<programme start="20251106210000 +0000" stop="20251106213000 +0000" channel="Animax.mncvision">
+    <title>Konosuba: Blessing S2, Ep 3</title>
+</programme>
+<programme start="20251106213000 +0000" stop="20251106220000 +0000" channel="Animax.mncvision">
+    <title>Konosuba: Blessing S2, Ep 4</title>
+</programme>
+<programme start="20251106220000 +0000" stop="20251106223000 +0000" channel="Animax.mncvision">
+    <title>D.Gray-Man, Ep 58</title>
+</programme>
+<programme start="20251106223000 +0000" stop="20251106230000 +0000" channel="Animax.mncvision">
+    <title>D.Gray-Man, Ep 59</title>
+</programme>
+<programme start="20251106230000 +0000" stop="20251106233000 +0000" channel="Animax.mncvision">
+    <title>Reincarnated As A Sword, Ep 9</title>
+</programme>
+<programme start="20251106233000 +0000" stop="20251107000000 +0000" channel="Animax.mncvision">
+    <title>Reincarnated As A Sword, Ep 10</title>
+</programme>
+<programme start="20251107000000 +0000" stop="20251107003000 +0000" channel="Animax.mncvision">
+    <title>Fruits Basket Final..., Ep 5</title>
+</programme>
+<programme start="20251107003000 +0000" stop="20251107010000 +0000" channel="Animax.mncvision">
+    <title>Fruits Basket Final..., Ep 6</title>
+</programme>
+<programme start="20251107010000 +0000" stop="20251107013000 +0000" channel="Animax.mncvision">
+    <title>D.Gray-Man, Ep 58</title>
+</programme>
+<programme start="20251107013000 +0000" stop="20251107020000 +0000" channel="Animax.mncvision">
+    <title>D.Gray-Man, Ep 59</title>
+</programme>
+<programme start="20251107020000 +0000" stop="20251107023000 +0000" channel="Animax.mncvision">
+    <title>Kuroko&#039;s Basketball S3, Ep 19</title>
+</programme>
+<programme start="20251107023000 +0000" stop="20251107030000 +0000" channel="Animax.mncvision">
+    <title>Kuroko&#039;s Basketball S3, Ep 20</title>
+</programme>
+<programme start="20251107030000 +0000" stop="20251107033000 +0000" channel="Animax.mncvision">
+    <title>Reincarnated As A Sword, Ep 9</title>
+</programme>
+<programme start="20251107033000 +0000" stop="20251107040000 +0000" channel="Animax.mncvision">
+    <title>Reincarnated As A Sword, Ep 10</title>
+</programme>
+<programme start="20251107040000 +0000" stop="20251107043000 +0000" channel="Animax.mncvision">
+    <title>Fruits Basket Final..., Ep 5</title>
+</programme>
+<programme start="20251107043000 +0000" stop="20251107050000 +0000" channel="Animax.mncvision">
+    <title>Fruits Basket Final..., Ep 6</title>
+</programme>
+<programme start="20251107050000 +0000" stop="20251107053000 +0000" channel="Animax.mncvision">
+    <title>D.Gray-Man, Ep 58</title>
+</programme>
+<programme start="20251107053000 +0000" stop="20251107060000 +0000" channel="Animax.mncvision">
+    <title>D.Gray-Man, Ep 59</title>
+</programme>
+<programme start="20251107060000 +0000" stop="20251107063000 +0000" channel="Animax.mncvision">
+    <title>Kuroko&#039;s Basketball S3, Ep 19</title>
+</programme>
+<programme start="20251107063000 +0000" stop="20251107070000 +0000" channel="Animax.mncvision">
+    <title>Kuroko&#039;s Basketball S3, Ep 20</title>
+</programme>
+<programme start="20251107070000 +0000" stop="20251107073000 +0000" channel="Animax.mncvision">
+    <title>Reincarnated As A Sword, Ep 9</title>
+</programme>
+<programme start="20251107073000 +0000" stop="20251107080000 +0000" channel="Animax.mncvision">
+    <title>Reincarnated As A Sword, Ep 10</title>
+</programme>
+<programme start="20251107080000 +0000" stop="20251107083000 +0000" channel="Animax.mncvision">
+    <title>D.Gray-Man, Ep 58</title>
+</programme>
+<programme start="20251107083000 +0000" stop="20251107090000 +0000" channel="Animax.mncvision">
+    <title>D.Gray-Man, Ep 59</title>
+</programme>
+<programme start="20251107090000 +0000" stop="20251107093000 +0000" channel="Animax.mncvision">
+    <title>Kuroko&#039;s Basketball S3, Ep 19</title>
+</programme>
+<programme start="20251107093000 +0000" stop="20251107100000 +0000" channel="Animax.mncvision">
+    <title>Kuroko&#039;s Basketball S3, Ep 20</title>
+</programme>
+<programme start="20251107100000 +0000" stop="20251107103000 +0000" channel="Animax.mncvision">
+    <title>D.Gray-Man, Ep 59</title>
+</programme>
+<programme start="20251107103000 +0000" stop="20251107110000 +0000" channel="Animax.mncvision">
+    <title>D.Gray-Man, Ep 60</title>
+</programme>
+<programme start="20251107110000 +0000" stop="20251107113000 +0000" channel="Animax.mncvision">
+    <title>Reincarnated As A Sword, Ep 10</title>
+</programme>
+<programme start="20251107113000 +0000" stop="20251107120000 +0000" channel="Animax.mncvision">
+    <title>Reincarnated As A Sword, Ep 11</title>
+</programme>
+<programme start="20251107120000 +0000" stop="20251107123000 +0000" channel="Animax.mncvision">
+    <title>Fruits Basket Final..., Ep 7</title>
+</programme>
+<programme start="20251107123000 +0000" stop="20251107130000 +0000" channel="Animax.mncvision">
+    <title>Fruits Basket Final..., Ep 8</title>
+</programme>
+<programme start="20251107130000 +0000" stop="20251107133000 +0000" channel="Animax.mncvision">
+    <title>Reincarnated As A Sword, Ep 10</title>
+</programme>
+<programme start="20251107133000 +0000" stop="20251107140000 +0000" channel="Animax.mncvision">
+    <title>Reincarnated As A Sword, Ep 11</title>
+</programme>
+<programme start="20251107140000 +0000" stop="20251107143000 +0000" channel="Animax.mncvision">
+    <title>Konosuba: Blessing S2, Ep 4</title>
+</programme>
+<programme start="20251107143000 +0000" stop="20251107150000 +0000" channel="Animax.mncvision">
+    <title>Konosuba: Blessing S2, Ep 5</title>
+</programme>
+<programme start="20251107150000 +0000" stop="20251107153000 +0000" channel="Animax.mncvision">
+    <title>Reincarnated As A Sword, Ep 10</title>
+</programme>
+<programme start="20251107153000 +0000" stop="20251107160000 +0000" channel="Animax.mncvision">
+    <title>Reincarnated As A Sword, Ep 11</title>
+</programme>
+<programme start="20251107160000 +0000" stop="20251107163000 +0000" channel="Animax.mncvision">
+    <title>Fruits Basket Final..., Ep 7</title>
+</programme>
+<programme start="20251107163000 +0000" stop="20251106170000 +0000" channel="Animax.mncvision">
+    <title>Fruits Basket Final..., Ep 8</title>
+</programme>
 <programme start="20251106171500 +0000" stop="20251106190000 +0000" channel="ANTV.mncvision">
     <title>City Under Siege</title>
 </programme>
