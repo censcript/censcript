@@ -3257,7 +3257,7 @@
         <title>The Forgotten Porsche Founder: Adolf Rosenberger’s Untold Story</title>
     </programme>
     <programme start="20251106233000 +0000" stop="20251107000000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW Podcasts</title>
+        <title>DW&#039;s podcast about inclusion and disability</title>
     </programme>
     <programme start="20251107000000 +0000" stop="20251107000200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3266,7 +3266,7 @@
         <title>News in Review</title>
     </programme>
     <programme start="20251107003000 +0000" stop="20251107010000 +0000" channel="DW English HD.starhub">
-        <title>International Debate from Berlin</title>
+        <title>Stock market hype: Investors’ dream or nightmare on Wall Street?</title>
     </programme>
     <programme start="20251107010000 +0000" stop="20251107011500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3290,7 +3290,7 @@
         <title>The Forgotten Porsche Founder: Adolf Rosenberger’s Untold Story</title>
     </programme>
     <programme start="20251107033000 +0000" stop="20251107040000 +0000" channel="DW English HD.starhub">
-        <title>Your Business Magazine</title>
+        <title>Food security in times of global crisis</title>
     </programme>
     <programme start="20251107040000 +0000" stop="20251107041500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3314,13 +3314,13 @@
         <title>The Forgotten Porsche Founder: Adolf Rosenberger’s Untold Story</title>
     </programme>
     <programme start="20251107063000 +0000" stop="20251107070000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW Podcasts</title>
+        <title>DW&#039;s podcast about inclusion and disability</title>
     </programme>
     <programme start="20251107070000 +0000" stop="20251107073000 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20251107073000 +0000" stop="20251107080000 +0000" channel="DW English HD.starhub">
-        <title>International Debate from Berlin</title>
+        <title>Stock market hype: Investors’ dream or nightmare on Wall Street?</title>
     </programme>
     <programme start="20251107080000 +0000" stop="20251107083000 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3338,13 +3338,13 @@
         <title>News</title>
     </programme>
     <programme start="20251107103000 +0000" stop="20251107110000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW Podcasts</title>
+        <title>DW&#039;s podcast about inclusion and disability</title>
     </programme>
     <programme start="20251107110000 +0000" stop="20251107113000 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20251107113000 +0000" stop="20251107120000 +0000" channel="DW English HD.starhub">
-        <title>International Debate from Berlin</title>
+        <title>Stock market hype: Investors’ dream or nightmare on Wall Street?</title>
     </programme>
     <programme start="20251107120000 +0000" stop="20251107121500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3365,13 +3365,13 @@
         <title>News</title>
     </programme>
     <programme start="20251107143000 +0000" stop="20251107150000 +0000" channel="DW English HD.starhub">
-        <title>The Environment Magazine</title>
+        <title>What motivates us to protect our environment?</title>
     </programme>
     <programme start="20251107150000 +0000" stop="20251107153000 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20251107153000 +0000" stop="20251107160000 +0000" channel="DW English HD.starhub">
-        <title>International Debate from Berlin</title>
+        <title>Stock market hype: Investors’ dream or nightmare on Wall Street?</title>
     </programme>
     <programme start="20251106160000 +0000" stop="20251106220000 +0000" channel="Preview Channel.starhub">
         <title>Preview Channel</title>
