@@ -263,7 +263,7 @@
 <title>iNews Terkini</title>
 </programme>
 <programme start="20251107110500 +0000" stop="20251107120000 +0000" channel="iNews.vision">
-<title>iNews Sore (L)</title>
+<title>Inews Sore (Live)</title>
 </programme>
 <programme start="20251107120000 +0000" stop="20251107120500 +0000" channel="iNews.vision">
 <title>iNews Terkini</title>
@@ -293,67 +293,64 @@
 <title>New Top Files</title>
 </programme>
 <programme start="20251107170000 +0000" stop="20251107173000 +0000" channel="iNews.vision">
-<title>GX</title>
+<title>iNews</title>
 </programme>
 <programme start="20251107173000 +0000" stop="20251107180000 +0000" channel="iNews.vision">
-<title>Realita</title>
+<title>iNews</title>
 </programme>
 <programme start="20251107180000 +0000" stop="20251107184500 +0000" channel="iNews.vision">
-<title>iNews Room</title>
+<title>iNews</title>
 </programme>
 <programme start="20251107184500 +0000" stop="20251107194500 +0000" channel="iNews.vision">
-<title>iNews Sore</title>
+<title>iNews</title>
 </programme>
 <programme start="20251107194500 +0000" stop="20251107201500 +0000" channel="iNews.vision">
-<title>iNews Malam</title>
+<title>iNews</title>
 </programme>
 <programme start="20251107201500 +0000" stop="20251107210000 +0000" channel="iNews.vision">
-<title>Special Report</title>
+<title>iNews</title>
 </programme>
 <programme start="20251107210000 +0000" stop="20251107211500 +0000" channel="iNews.vision">
-<title>Special Report</title>
+<title>iNews</title>
 </programme>
 <programme start="20251107211500 +0000" stop="20251107230000 +0000" channel="iNews.vision">
-<title>Inews Pagi (Live)</title>
+<title>iNews</title>
 </programme>
 <programme start="20251107230000 +0000" stop="20251107230200 +0000" channel="iNews.vision">
-<title>Indonesia Raya</title>
+<title>iNews</title>
 </programme>
 <programme start="20251107230200 +0000" stop="20251107233000 +0000" channel="iNews.vision">
-<title>iNews Sport</title>
+<title>iNews</title>
 </programme>
 <programme start="20251107233000 +0000" stop="20251108000000 +0000" channel="iNews.vision">
-<title>Special Report</title>
+<title>iNews</title>
 </programme>
 <programme start="20251108000000 +0000" stop="20251108003000 +0000" channel="iNews.vision">
-<title>Merial</title>
+<title>iNews</title>
 </programme>
-<programme start="20251108003000 +0000" stop="20251108010000 +0000" channel="iNews.vision">
-<title>BNI Badminton Asia Junior Championship 2024 - Individuals Day 1 (2)</title>
-</programme>
-<programme start="20251108010000 +0000" stop="20251108013000 +0000" channel="iNews.vision">
-<title>Special Report</title>
+<programme start="20251108003000 +0000" stop="20251108013000 +0000" channel="iNews.vision">
+<title>iNews</title>
 </programme>
 <programme start="20251108013000 +0000" stop="20251108023000 +0000" channel="iNews.vision">
-<title>Realita</title>
+<title>iNews</title>
 </programme>
 <programme start="20251108023000 +0000" stop="20251108033000 +0000" channel="iNews.vision">
-<title>iNews Files</title>
+<title>iNews</title>
 </programme>
 <programme start="20251108033000 +0000" stop="20251108053000 +0000" channel="iNews.vision">
-<title>iNews Siang (L)</title>
+<title>iNews</title>
 </programme>
 <programme start="20251108053000 +0000" stop="20251108070000 +0000" channel="iNews.vision">
-<title>Cahaya Hati Indonesia (L)</title>
+<title>iNews</title>
 </programme>
 <programme start="20251108070000 +0000" stop="20251108083000 +0000" channel="iNews.vision">
-<title>iSeleb</title>
+<title>iNews</title>
 </programme>
 <programme start="20251108083000 +0000" stop="20251108100000 +0000" channel="iNews.vision">
-<title>Realita (L)</title>
+<title>iNews</title>
 </programme>
 <programme start="20251108100000 +0000" stop="20251108120000 +0000" channel="iNews.vision">
-<title>Inews Sore (Live)</title>
+<title>iNews</title>
 </programme>
 <programme start="20251107000000 +0000" stop="20251107003000 +0000" channel="SindoNews.vision">
 <title>iNews Today</title>
@@ -688,6 +685,9 @@
 <programme start="20251107013000 +0000" stop="20251107030000 +0000" channel="ANTV.vision">
 <title>Mangal Lakshmi</title>
 </programme>
+<programme start="20251107030000 +0000" stop="20251107063000 +0000" channel="ANTV.vision">
+<title>Trimurti</title>
+</programme>
 <programme start="20251107063000 +0000" stop="20251107080000 +0000" channel="ANTV.vision">
 <title>Cinta Keluarga Pandya</title>
 </programme>
@@ -840,6 +840,9 @@
 </programme>
 <programme start="20251106233000 +0000" stop="20251107013000 +0000" channel="TVOne.vision">
 <title>Apa Kabar Indonesia Pagi (L)</title>
+</programme>
+<programme start="20251107013000 +0000" stop="20251107020000 +0000" channel="TVOne.vision">
+<title>Hidup Sehat</title>
 </programme>
 <programme start="20251107020000 +0000" stop="20251107023000 +0000" channel="TVOne.vision">
 <title>Inspirasi Pagi (L)</title>
@@ -1494,7 +1497,4 @@
 </programme>
 <programme start="20251108011500 +0000" stop="20251108014500 +0000" channel="BTV.vision">
 <title>Kuyliner</title>
-</programme>
-<programme start="20251108014500 +0000" stop="20251108023000 +0000" channel="BTV.vision">
-<title>Masak Ala Devina Hermawan</title>
 </programme>

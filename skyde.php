@@ -909,47 +909,47 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251107224000 +0000" stop="20251107232500 +0000" channel="Crime + Investigation.skyde">
     <title>Frauen im Todestrakt</title>
 </programme>
-<programme start="20251106230000 +0000" stop="20251107070000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20251108000500 +0000" stop="20251108070000 +0000" channel="DAZN 1 HD.skyde">
     <title>Sendepause</title>
 </programme>
-<programme start="20251107070000 +0000" stop="20251107073000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20251108070000 +0000" stop="20251108073500 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20251107073000 +0000" stop="20251107080000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Serie A Highlightshow: 10. Spieltag</title>
+<programme start="20251108073500 +0000" stop="20251108080500 +0000" channel="DAZN 1 HD.skyde">
+    <title>FC Bayern World Squad: Class of &#039;25 - Folge 1</title>
 </programme>
-<programme start="20251107080000 +0000" stop="20251107083000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Ligue 1 Highlightshow 2025/26: 11. Spieltag</title>
+<programme start="20251108080500 +0000" stop="20251108084500 +0000" channel="DAZN 1 HD.skyde">
+    <title>FC Bayern World Squad: Class of &#039;25 - Folge 2</title>
 </programme>
-<programme start="20251107083000 +0000" stop="20251107103000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Bundesliga: FC Bayern München - Bayer 04 Leverkusen</title>
+<programme start="20251108084500 +0000" stop="20251108092500 +0000" channel="DAZN 1 HD.skyde">
+    <title>FC Bayern World Squad: Class of &#039;25 - Folge 3</title>
 </programme>
-<programme start="20251107103000 +0000" stop="20251107122500 +0000" channel="DAZN 1 HD.skyde">
-    <title>Bundesliga: RB Leipzig - VFB Stuttgart</title>
-</programme>
-<programme start="20251107122500 +0000" stop="20251107131000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20251108092500 +0000" stop="20251108095500 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20251107131000 +0000" stop="20251107150500 +0000" channel="DAZN 1 HD.skyde">
-    <title>LaLiga 25/26: Real Madrid - FC Valencia</title>
-</programme>
-<programme start="20251107150500 +0000" stop="20251107162000 +0000" channel="DAZN 1 HD.skyde">
-    <title>ALL IN - Die Bundesliga Highlight Show: 9. Spieltag</title>
-</programme>
-<programme start="20251107162000 +0000" stop="20251107171500 +0000" channel="DAZN 1 HD.skyde">
-    <title>3. Liga Highlightshow 2025/26: 13. Spieltag</title>
-</programme>
-<programme start="20251107171500 +0000" stop="20251107192500 +0000" channel="DAZN 1 HD.skyde">
-    <title>Frauen Bundesliga 25/26: FC Bayern München - 1. FC Union Berlin</title>
-</programme>
-<programme start="20251107192500 +0000" stop="20251107195500 +0000" channel="DAZN 1 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
-</programme>
-<programme start="20251107195500 +0000" stop="20251107221500 +0000" channel="DAZN 1 HD.skyde">
-    <title>LaLiga 25/26: FC Elche - Real Sociedad</title>
-</programme>
-<programme start="20251107221500 +0000" stop="20251108000500 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20251108095500 +0000" stop="20251108115500 +0000" channel="DAZN 1 HD.skyde">
     <title>Bundesliga: SV Werder Bremen - VFL Wolfsburg</title>
+</programme>
+<programme start="20251108115500 +0000" stop="20251108122500 +0000" channel="DAZN 1 HD.skyde">
+    <title>Best of DAZN: Highlights</title>
+</programme>
+<programme start="20251108122500 +0000" stop="20251108130000 +0000" channel="DAZN 1 HD.skyde">
+    <title>Warm Up: Bundesliga Highlights</title>
+</programme>
+<programme start="20251108130000 +0000" stop="20251108163000 +0000" channel="DAZN 1 HD.skyde">
+    <title>Bundesliga Konferenz: 10. Spieltag</title>
+</programme>
+<programme start="20251108163000 +0000" stop="20251108175000 +0000" channel="DAZN 1 HD.skyde">
+    <title>ALL IN - Die Bundesliga Highlight Show: 10. Spieltag</title>
+</programme>
+<programme start="20251108175000 +0000" stop="20251108194000 +0000" channel="DAZN 1 HD.skyde">
+    <title>Bundesliga: 1. FC Union Berlin - FC Bayern München</title>
+</programme>
+<programme start="20251108194000 +0000" stop="20251108213000 +0000" channel="DAZN 1 HD.skyde">
+    <title>Bundesliga: Borussia M&#039;gladbach - 1. FC Köln</title>
+</programme>
+<programme start="20251108213000 +0000" stop="20251108230000 +0000" channel="DAZN 1 HD.skyde">
+    <title>ALL IN - Die Bundesliga Highlight Show: 10. Spieltag</title>
 </programme>
 <programme start="20251106230000 +0000" stop="20251107070000 +0000" channel="DAZN 2 HD.skyde">
     <title>Sendepause</title>
@@ -3173,6 +3173,63 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 </programme>
 <programme start="20251107210000 +0000" stop="20251107230000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA Finals: E. Rybakina (KAZ) - J. Pegula (USA), 7. Tag in Riyadh (SAU), Halbfinale 1</title>
+</programme>
+<programme start="20251106230000 +0000" stop="20251106233000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Fußball: scooore Argentinien! Alle Tore</title>
+</programme>
+<programme start="20251106233000 +0000" stop="20251107000000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Frauen-BL: Alle Spiele, alle Tore, 9. Spieltag komplett</title>
+</programme>
+<programme start="20251107000000 +0000" stop="20251107030000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Live NHL: Ottawa Senators @ Boston Bruins</title>
+</programme>
+<programme start="20251107030000 +0000" stop="20251107031500 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>EFL: Highlights XXL: Ipswich Town - FC Watford, 14. Spieltag</title>
+</programme>
+<programme start="20251107031500 +0000" stop="20251107033000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>EFL: Highlights XXL: Birmingham City - FC Millwall, 14. Spieltag</title>
+</programme>
+<programme start="20251107033000 +0000" stop="20251107034500 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>EFL: Highlights XXL: Preston North End - Swansea City, 14. Spieltag</title>
+</programme>
+<programme start="20251107034500 +0000" stop="20251107040000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>EFL: Highlights XXL: Queens Park Rangers - FC Southampton, 14. Spieltag</title>
+</programme>
+<programme start="20251107040000 +0000" stop="20251107070000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Live Golf: Abu Dhabi HSBC Championship, 2. Tag (Early Coverage)</title>
+</programme>
+<programme start="20251107070000 +0000" stop="20251107085500 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Live Golf: Abu Dhabi HSBC Championship, 2. Tag in Abu Dhabi (VAE)</title>
+</programme>
+<programme start="20251107085500 +0000" stop="20251107094000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Live Moto3: 1. Freies Training - GP Portugal</title>
+</programme>
+<programme start="20251107094000 +0000" stop="20251107103500 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Live Moto2: 1. Freies Training - GP Portugal</title>
+</programme>
+<programme start="20251107103500 +0000" stop="20251107114500 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Live MotoGP: 1. Freies Training - GP Portugal</title>
+</programme>
+<programme start="20251107114500 +0000" stop="20251107123000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Live Golf: Abu Dhabi HSBC Championship, 2. Tag in Abu Dhabi (VAE)</title>
+</programme>
+<programme start="20251107123000 +0000" stop="20251107143000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Live WTA Finals: S.-W. Hsieh (TPE) / J. Ostapenko (LAT) - T. Babos (HUN) / L. Stefani (BRA), 7. Tag in Riyadh (SAU), Doppel Halbfinale 1</title>
+</programme>
+<programme start="20251107143000 +0000" stop="20251107160000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Live F1: 1. Freies Training - GP Sao Paulo</title>
+</programme>
+<programme start="20251107160000 +0000" stop="20251107170000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Live WTA Finals: E. Rybakina (KAZ) - J. Pegula (USA), 7. Tag in Riyadh (SAU), Halbfinale 1</title>
+</programme>
+<programme start="20251107170000 +0000" stop="20251107192500 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Live 2. BL: Freitags-Konferenz, 12. Spieltag</title>
+</programme>
+<programme start="20251107192500 +0000" stop="20251107221500 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Live BL: Werder Bremen - VfL Wolfsburg, Flutlicht-Freitag, 10. Spieltag</title>
+</programme>
+<programme start="20251107221500 +0000" stop="20251107230000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Live Golf: World Wide Technology Championship, 2. Tag in Cabo San Lucas (MEX)</title>
 </programme>
 <programme start="20251106230000 +0000" stop="20251106233000 +0000" channel="Sky Sport UHD.skyde">
     <title>Golf: Greatest Holes (4)</title>
