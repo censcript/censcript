@@ -812,10 +812,10 @@
         <title>Singlife Nations Cup 2025: Singapore vs Malaysia</title>
     </programme>
     <programme start="20251107123000 +0000" stop="20251107160000 +0000" channel="Live 5.mewatch">
-        <title>No Programme available now. Next Broadcast on 8th November, Saturday 09.55am. Singlife Nations Cup 2025</title>
+        <title>No Programme available now. Next Broadcast on 8th November, Saturday 09.50am. Singlife Nations Cup 2025</title>
     </programme>
-    <programme start="20251107160000 +0000" stop="20251108015500 +0000" channel="Live 5.mewatch">
-        <title>No Programme available now. Next Broadcast on 8th November, Saturday 09.55am. Singlife Nations Cup 2025</title>
+    <programme start="20251107160000 +0000" stop="20251108015000 +0000" channel="Live 5.mewatch">
+        <title>No Programme available now. Next Broadcast on 8th November, Saturday 09.50am. Singlife Nations Cup 2025</title>
     </programme>
     <programme start="20251106160000 +0000" stop="20251107160000 +0000" channel="Live 6.mewatch">
         <title>No programmes streaming LIVE at this moment</title>
