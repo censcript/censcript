@@ -94,7 +94,7 @@
 <programme start="20251107044500 +0000" stop="20251107073000 +0000" channel="MNCTV.vision">
 <title>Upin &amp; Ipin</title>
 </programme>
-<programme start="20251107090000 +0000" stop="20251107100000 +0000" channel="MNCTV.vision">
+<programme start="20251107073000 +0000" stop="20251107090000 +0000" channel="MNCTV.vision">
 <title>Kilau Uang Kaget &amp; Bedah Rumah</title>
 </programme>
 <programme start="20251107090000 +0000" stop="20251107100000 +0000" channel="MNCTV.vision">
@@ -158,7 +158,7 @@
 <title>Entong</title>
 </programme>
 <programme start="20251106230000 +0000" stop="20251107003000 +0000" channel="GTV.vision">
-<title>SpongeBob SquarePants Movie</title>
+<title>SpongeBob SquarePants</title>
 </programme>
 <programme start="20251107003000 +0000" stop="20251107013000 +0000" channel="GTV.vision">
 <title>Obrolan Seputar Selebritis</title>
@@ -170,7 +170,7 @@
 <title>Spongebob Squarepants (GTV)</title>
 </programme>
 <programme start="20251107050000 +0000" stop="20251107070000 +0000" channel="GTV.vision">
-<title>SpongeBob SquarePants Movie</title>
+<title>SpongeBob SquarePants</title>
 </programme>
 <programme start="20251107070000 +0000" stop="20251107090000 +0000" channel="GTV.vision">
 <title>Lets Get Wet</title>
@@ -179,13 +179,13 @@
 <title>Bernard Bear</title>
 </programme>
 <programme start="20251107100000 +0000" stop="20251107110000 +0000" channel="GTV.vision">
-<title>SpongeBob SquarePants Movie</title>
+<title>SpongeBob SquarePants</title>
 </programme>
 <programme start="20251107110000 +0000" stop="20251107111500 +0000" channel="GTV.vision">
-<title>SpongeBob SquarePants Movie</title>
+<title>SpongeBob SquarePants</title>
 </programme>
 <programme start="20251107111500 +0000" stop="20251107123000 +0000" channel="GTV.vision">
-<title>Anak Jalanan</title>
+<title>The Beast In The River</title>
 </programme>
 <programme start="20251107123000 +0000" stop="20251107143000 +0000" channel="GTV.vision">
 <title>A Man Called Hero</title>
@@ -197,46 +197,49 @@
 <title>GTV</title>
 </programme>
 <programme start="20251107170000 +0000" stop="20251107180000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<title>Jelajah Mitos</title>
 </programme>
 <programme start="20251107180000 +0000" stop="20251107203000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<title>Crime KV</title>
 </programme>
-<programme start="20251107203000 +0000" stop="20251107213000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<programme start="20251107203000 +0000" stop="20251107220000 +0000" channel="GTV.vision">
+<title>Awas Ada Sule</title>
 </programme>
-<programme start="20251107213000 +0000" stop="20251107231500 +0000" channel="GTV.vision">
-<title>GTV</title>
+<programme start="20251107220000 +0000" stop="20251107231500 +0000" channel="GTV.vision">
+<title>Kisah Viral</title>
 </programme>
 <programme start="20251107231500 +0000" stop="20251107234500 +0000" channel="GTV.vision">
-<title>GTV</title>
+<title>BIMA-S</title>
 </programme>
 <programme start="20251107234500 +0000" stop="20251108013000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<title>SpongeBob SquarePants</title>
 </programme>
 <programme start="20251108013000 +0000" stop="20251108050000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<title>Spongebob Squarepants (GTV)</title>
 </programme>
 <programme start="20251108050000 +0000" stop="20251108070000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<title>Zak Storm</title>
 </programme>
 <programme start="20251108070000 +0000" stop="20251108074500 +0000" channel="GTV.vision">
-<title>GTV</title>
+<title>Bleach: Chains Of Nothingness</title>
 </programme>
 <programme start="20251108074500 +0000" stop="20251108083000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<title>Kids Mini Soccer Competition</title>
 </programme>
-<programme start="20251108083000 +0000" stop="20251108093000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<programme start="20251108083000 +0000" stop="20251108090500 +0000" channel="GTV.vision">
+<title>TV Champion</title>
 </programme>
-<programme start="20251108093000 +0000" stop="20251108110000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<programme start="20251108090500 +0000" stop="20251108100000 +0000" channel="GTV.vision">
+<title>Dogs At The Opera</title>
+</programme>
+<programme start="20251108100000 +0000" stop="20251108110000 +0000" channel="GTV.vision">
+<title>SpongeBob SquarePants</title>
 </programme>
 <programme start="20251108110000 +0000" stop="20251108113000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<title>SpongeBob SquarePants</title>
 </programme>
 <programme start="20251108113000 +0000" stop="20251108120000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<title>I Love Indonesia: Ready To Go</title>
 </programme>
 <programme start="20251107000000 +0000" stop="20251107010000 +0000" channel="iNews.vision">
 <title>Morning Update</title>
@@ -699,9 +702,6 @@
 </programme>
 <programme start="20251107093000 +0000" stop="20251107113000 +0000" channel="ANTV.vision">
 <title>Takdir Cinta Layla</title>
-</programme>
-<programme start="20251107113000 +0000" stop="20251107133000 +0000" channel="ANTV.vision">
-<title>Srigala</title>
 </programme>
 <programme start="20251107133000 +0000" stop="20251107153000 +0000" channel="ANTV.vision">
 <title>Rindu Tak Berujung</title>
