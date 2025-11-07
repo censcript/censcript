@@ -3215,16 +3215,16 @@
         <title>News</title>
     </programme>
     <programme start="20251106183000 +0000" stop="20251106190000 +0000" channel="DW English HD.starhub">
-        <title>What connects us all</title>
+        <title>The Forest Makers of the Mata Atlantica</title>
     </programme>
     <programme start="20251106190000 +0000" stop="20251106190200 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20251106190200 +0000" stop="20251106193000 +0000" channel="DW English HD.starhub">
-        <title>Your Business Magazine</title>
+        <title>Food security in times of global crisis</title>
     </programme>
     <programme start="20251106193000 +0000" stop="20251106200000 +0000" channel="DW English HD.starhub">
-        <title>International Debate from Berlin</title>
+        <title>Stock market hype: Investors’ dream or nightmare on Wall Street?</title>
     </programme>
     <programme start="20251106200000 +0000" stop="20251106203000 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3248,7 +3248,7 @@
         <title>News in Review</title>
     </programme>
     <programme start="20251106223000 +0000" stop="20251106230000 +0000" channel="DW English HD.starhub">
-        <title>International Debate from Berlin</title>
+        <title>Stock market hype: Investors’ dream or nightmare on Wall Street?</title>
     </programme>
     <programme start="20251106230000 +0000" stop="20251106231500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3791,7 +3791,7 @@
         <title>Drama Serial &quot;The Ghost Writer&#039;s Wife&quot; Eps. 29 (R)</title>
     </programme>
     <programme start="20251106184500 +0000" stop="20251106193000 +0000" channel="NHK World Premium HD.starhub">
-        <title>The &quot;Instruction Manual&quot; Show The Revised Edition of &quot;Anti-Aging for the Knees&quot;(</title>
+        <title>The &quot;Instruction Manual&quot; Show The Revised Edition of &quot;Anti-Aging for the Knees&quot;</title>
     </programme>
     <programme start="20251106193000 +0000" stop="20251106195800 +0000" channel="NHK World Premium HD.starhub">
         <title>Where We Call Home Encore (B)</title>
