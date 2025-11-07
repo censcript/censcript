@@ -688,9 +688,6 @@
 <programme start="20251107013000 +0000" stop="20251107030000 +0000" channel="ANTV.vision">
 <title>Mangal Lakshmi</title>
 </programme>
-<programme start="20251107030000 +0000" stop="20251107063000 +0000" channel="ANTV.vision">
-<title>Trimurti</title>
-</programme>
 <programme start="20251107063000 +0000" stop="20251107080000 +0000" channel="ANTV.vision">
 <title>Cinta Keluarga Pandya</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20251108011500 +0000" stop="20251108014500 +0000" channel="BTV.vision">
 <title>Kuyliner</title>
+</programme>
+<programme start="20251108014500 +0000" stop="20251108023000 +0000" channel="BTV.vision">
+<title>Masak Ala Devina Hermawan</title>
 </programme>

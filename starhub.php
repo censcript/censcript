@@ -7576,20 +7576,11 @@
     <programme start="20251106155000 +0000" stop="20251106174000 +0000" channel="Premier Sports.starhub">
         <title>International Rugby Ireland v New Zealand</title>
     </programme>
-    <programme start="20251106174000 +0000" stop="20251106175500 +0000" channel="Premier Sports.starhub">
-        <title>AFLW Highlights Hawthorn v North Melbourne</title>
-    </programme>
-    <programme start="20251106175500 +0000" stop="20251106181000 +0000" channel="Premier Sports.starhub">
-        <title>AFLW Highlights West Coast v Carlton</title>
-    </programme>
-    <programme start="20251106181000 +0000" stop="20251106182500 +0000" channel="Premier Sports.starhub">
-        <title>AFLW Highlights GWS Giants v Port Adelaide</title>
-    </programme>
-    <programme start="20251106182500 +0000" stop="20251106184000 +0000" channel="Premier Sports.starhub">
-        <title>AFLW Highlights Richmond v Gold Coast</title>
+    <programme start="20251106174000 +0000" stop="20251106184000 +0000" channel="Premier Sports.starhub">
+        <title>5 &amp; 6 Nations Golden Moments</title>
     </programme>
     <programme start="20251106184000 +0000" stop="20251106185500 +0000" channel="Premier Sports.starhub">
-        <title>AFLW Highlights Sydney v Essendon</title>
+        <title>AFLW Highlights GWS Giants v Port Adelaide</title>
     </programme>
     <programme start="20251106185500 +0000" stop="20251106191000 +0000" channel="Premier Sports.starhub">
         <title>AFLW Highlights Geelong v Melbourne</title>
@@ -7628,7 +7619,7 @@
         <title>URC Match Highlights Munster v Connacht</title>
     </programme>
     <programme start="20251106212000 +0000" stop="20251106222000 +0000" channel="Premier Sports.starhub">
-        <title>Gallagher Premiership</title>
+        <title>Gallagher Premiership Gallagher Premiership</title>
     </programme>
     <programme start="20251106222000 +0000" stop="20251107001000 +0000" channel="Premier Sports.starhub">
         <title>URC Sharks v Scarlets</title>
@@ -8191,7 +8182,7 @@
     <programme start="20251106161500 +0000" stop="20251106173000 +0000" channel="SPOTV2.starhub">
         <title>Race 18</title>
     </programme>
-    <programme start="20251106173000 +0000" stop="20251106210000 +0000" channel="SPOTV2.starhub">
+    <programme start="20251106173000 +0000" stop="20251106213000 +0000" channel="SPOTV2.starhub">
         <title>Day 3 Session 2</title>
     </programme>
     <programme start="20251106213000 +0000" stop="20251107000000 +0000" channel="SPOTV2.starhub">
