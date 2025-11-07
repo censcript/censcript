@@ -927,31 +927,28 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251107103000 +0000" stop="20251107122500 +0000" channel="DAZN 1 HD.skyde">
     <title>Bundesliga: RB Leipzig - VFB Stuttgart</title>
 </programme>
-<programme start="20251107122500 +0000" stop="20251107130000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20251107122500 +0000" stop="20251107131000 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20251107130000 +0000" stop="20251107145500 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20251107131000 +0000" stop="20251107150500 +0000" channel="DAZN 1 HD.skyde">
     <title>LaLiga 25/26: Real Madrid - FC Valencia</title>
 </programme>
-<programme start="20251107145500 +0000" stop="20251107153000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
-</programme>
-<programme start="20251107153000 +0000" stop="20251107172000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Bundesliga: FC Bayern München - Bayer 04 Leverkusen</title>
-</programme>
-<programme start="20251107172000 +0000" stop="20251107183000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20251107150500 +0000" stop="20251107162000 +0000" channel="DAZN 1 HD.skyde">
     <title>ALL IN - Die Bundesliga Highlight Show: 9. Spieltag</title>
 </programme>
-<programme start="20251107183000 +0000" stop="20251107191500 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20251107162000 +0000" stop="20251107171500 +0000" channel="DAZN 1 HD.skyde">
     <title>3. Liga Highlightshow 2025/26: 13. Spieltag</title>
 </programme>
-<programme start="20251107191500 +0000" stop="20251107193000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20251107171500 +0000" stop="20251107192500 +0000" channel="DAZN 1 HD.skyde">
+    <title>Frauen Bundesliga 25/26: FC Bayern München - 1. FC Union Berlin</title>
+</programme>
+<programme start="20251107192500 +0000" stop="20251107195500 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20251107193000 +0000" stop="20251107215000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Ligue 1 25/26: Paris FC - Stade Rennes</title>
+<programme start="20251107195500 +0000" stop="20251107221500 +0000" channel="DAZN 1 HD.skyde">
+    <title>LaLiga 25/26: FC Elche - Real Sociedad</title>
 </programme>
-<programme start="20251107215000 +0000" stop="20251107234000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20251107221500 +0000" stop="20251108000500 +0000" channel="DAZN 1 HD.skyde">
     <title>Bundesliga: SV Werder Bremen - VFL Wolfsburg</title>
 </programme>
 <programme start="20251106230000 +0000" stop="20251107070000 +0000" channel="DAZN 2 HD.skyde">
@@ -960,41 +957,32 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251107070000 +0000" stop="20251107090000 +0000" channel="DAZN 2 HD.skyde">
     <title>Bundesliga: FC Augsburg - Borussia Dortmund</title>
 </programme>
-<programme start="20251107090000 +0000" stop="20251107110000 +0000" channel="DAZN 2 HD.skyde">
+<programme start="20251107090000 +0000" stop="20251107111000 +0000" channel="DAZN 2 HD.skyde">
     <title>Bundesliga: RB Leipzig - VFB Stuttgart</title>
 </programme>
-<programme start="20251107110000 +0000" stop="20251107113000 +0000" channel="DAZN 2 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
-</programme>
-<programme start="20251107113000 +0000" stop="20251107120000 +0000" channel="DAZN 2 HD.skyde">
+<programme start="20251107111000 +0000" stop="20251107113500 +0000" channel="DAZN 2 HD.skyde">
     <title>Serie A Highlightshow: 10. Spieltag</title>
 </programme>
-<programme start="20251107120000 +0000" stop="20251107123000 +0000" channel="DAZN 2 HD.skyde">
+<programme start="20251107113500 +0000" stop="20251107120500 +0000" channel="DAZN 2 HD.skyde">
     <title>Ligue 1 Highlightshow 2025/26: 11. Spieltag</title>
 </programme>
-<programme start="20251107123000 +0000" stop="20251107142000 +0000" channel="DAZN 2 HD.skyde">
+<programme start="20251107120500 +0000" stop="20251107141000 +0000" channel="DAZN 2 HD.skyde">
     <title>Bundesliga: FC Bayern München - Bayer 04 Leverkusen</title>
 </programme>
-<programme start="20251107142000 +0000" stop="20251107145500 +0000" channel="DAZN 2 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
-</programme>
-<programme start="20251107145500 +0000" stop="20251107162000 +0000" channel="DAZN 2 HD.skyde">
+<programme start="20251107141000 +0000" stop="20251107153500 +0000" channel="DAZN 2 HD.skyde">
     <title>Originals: Green Lions: Kamerun 1990</title>
 </programme>
-<programme start="20251107162000 +0000" stop="20251107170500 +0000" channel="DAZN 2 HD.skyde">
+<programme start="20251107153500 +0000" stop="20251107162000 +0000" channel="DAZN 2 HD.skyde">
     <title>VfB in Team: Folge 9 - Neue Perspektiven</title>
 </programme>
-<programme start="20251107170500 +0000" stop="20251107171500 +0000" channel="DAZN 2 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
+<programme start="20251107162000 +0000" stop="20251107180000 +0000" channel="DAZN 2 HD.skyde">
+    <title>VfB in Team: Folge 10 - Das Saisonfinale</title>
 </programme>
-<programme start="20251107171500 +0000" stop="20251107192500 +0000" channel="DAZN 2 HD.skyde">
-    <title>Frauen Bundesliga 25/26: FC Bayern München - 1. FC Union Berlin</title>
+<programme start="20251107180000 +0000" stop="20251107213500 +0000" channel="DAZN 2 HD.skyde">
+    <title>HYLO PDC Europe Super League: Tag 4</title>
 </programme>
-<programme start="20251107192500 +0000" stop="20251107195500 +0000" channel="DAZN 2 HD.skyde">
+<programme start="20251107213500 +0000" stop="20251107220500 +0000" channel="DAZN 2 HD.skyde">
     <title>Google Pixel Frauen-Bundesliga Highlightshow 2025/26: 8. Spieltag</title>
-</programme>
-<programme start="20251107195500 +0000" stop="20251107220500 +0000" channel="DAZN 2 HD.skyde">
-    <title>LaLiga 25/26: FC Elche - Real Sociedad</title>
 </programme>
 <programme start="20251107220500 +0000" stop="20251107223500 +0000" channel="DAZN 2 HD.skyde">
     <title>Serie A Highlightshow: 10. Spieltag</title>
@@ -2602,7 +2590,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Golf: Sky Golf Cups Österreich</title>
 </programme>
 <programme start="20251107170000 +0000" stop="20251107184500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Fußball: Klassiker der Woche</title>
+    <title>Fußball: Klassiker der Woche: STU - RBS (2024/25)</title>
 </programme>
 <programme start="20251107184500 +0000" stop="20251107191500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: ASAT Kompakt, 12. Runde</title>
@@ -2614,7 +2602,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Admiral BL: 90in30: SCR - STU, 12. Runde</title>
 </programme>
 <programme start="20251107201500 +0000" stop="20251107220000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Fußball: Klassiker der Woche</title>
+    <title>Fußball: Klassiker der Woche: STU - RBS (2024/25)</title>
 </programme>
 <programme start="20251107220000 +0000" stop="20251107223000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA CL: Magazin</title>
@@ -2727,7 +2715,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251107183000 +0000" stop="20251107191500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: SVW - WOB: tipico Countdown, Flutlicht-Freitag, 10. Spieltag</title>
 </programme>
-<programme start="20251107191500 +0000" stop="20251107224500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
+<programme start="20251107191500 +0000" stop="20251107221500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: Werder Bremen - VfL Wolfsburg, Flutlicht-Freitag, 10. Spieltag</title>
 </programme>
 <programme start="20251107164000 +0000" stop="20251107170000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
@@ -2736,7 +2724,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251107170000 +0000" stop="20251107193000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Live 2. BL: Freitags-Konferenz, 12. Spieltag</title>
 </programme>
-<programme start="20251107193000 +0000" stop="20251107204500 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+<programme start="20251107193000 +0000" stop="20251107201500 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Live 2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 12. Spieltag, Freitag</title>
 </programme>
 <programme start="20251107164000 +0000" stop="20251107170000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
@@ -2745,7 +2733,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251107170000 +0000" stop="20251107193000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live 2. BL: Dynamo Dresden - 1. FC Nürnberg, 12. Spieltag</title>
 </programme>
-<programme start="20251107193000 +0000" stop="20251107220000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
+<programme start="20251107193000 +0000" stop="20251107213000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live BL: Sky Sport Fantasy: SVW - WOB, 10. Spieltag</title>
 </programme>
 <programme start="20251107164000 +0000" stop="20251107170000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
@@ -2847,10 +2835,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251107200000 +0000" stop="20251107230000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Live Golf: World Wide Technology Championship, 2. Tag in Cabo San Lucas (MEX)</title>
 </programme>
-<programme start="20251106230500 +0000" stop="20251106233500 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20251106230500 +0000" stop="20251106232500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NBA: Action</title>
 </programme>
-<programme start="20251106233500 +0000" stop="20251107000000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20251106232500 +0000" stop="20251107000000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: On the Fly</title>
 </programme>
 <programme start="20251107000000 +0000" stop="20251107030000 +0000" channel="Sky Sport Mix HD.skyde">
@@ -3138,50 +3126,53 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251107223000 +0000" stop="20251107230000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: 90in30: CRY - BRE, 10. Spieltag</title>
 </programme>
-<programme start="20251106230000 +0000" stop="20251107010000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA Finals: A. Sabalenka - C. Gauff (USA), 6. Tag in Riyadh (SAU)</title>
+<programme start="20251106234000 +0000" stop="20251107014000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA Finals: G. Dabrowski (CAN) / E. Routliffe (NZL) - T. Babos (HUN) / L. Stefani (BRA), 6. Tag in Riyadh (SAU)</title>
 </programme>
 <programme start="20251107010000 +0000" stop="20251107013000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
 </programme>
-<programme start="20251107013000 +0000" stop="20251107033000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA Finals: G. Dabrowski (CAN) / E. Routliffe (NZL) - T. Babos (HUN) / L. Stefani (BRA), 6. Tag in Riyadh (SAU)</title>
+<programme start="20251107014000 +0000" stop="20251107033000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA Finals: A. Sabalenka - C. Gauff (USA), 6. Tag in Riyadh (SAU)</title>
 </programme>
-<programme start="20251107033000 +0000" stop="20251107053000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20251107033000 +0000" stop="20251107050000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA Finals: K. Siniakova (CZE) / T. Townsend (USA) - M. Andreeva / D. Shnaider, 6. Tag in Riyadh (SAU)</title>
 </programme>
-<programme start="20251107053000 +0000" stop="20251107060000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20251107050000 +0000" stop="20251107053000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: Review Wuhan</title>
 </programme>
-<programme start="20251107060000 +0000" stop="20251107080000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20251107053000 +0000" stop="20251107071500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 250: Y. Hanfmann (GER) - M. Giron (USA), Hellenic Open in Athen (GRE), Viertelfinale</title>
 </programme>
-<programme start="20251107080000 +0000" stop="20251107083000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20251107071500 +0000" stop="20251107074500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
 </programme>
-<programme start="20251107083000 +0000" stop="20251107103000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20251107074500 +0000" stop="20251107091000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA Finals: J. Paolini (ITA) - J. Pegula (USA), 6. Tag in Riyadh (SAU)</title>
 </programme>
 <programme start="20251107103000 +0000" stop="20251107123000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA Finals: A. Sabalenka - C. Gauff (USA), 6. Tag in Riyadh (SAU)</title>
 </programme>
+<programme start="20251107110000 +0000" stop="20251107123000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA Finals: J. Paolini (ITA) - J. Pegula (USA), 6. Tag in Riyadh (SAU)</title>
+</programme>
 <programme start="20251107123000 +0000" stop="20251107143000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live WTA Finals: HF1, 7. Tag in Riyadh (SAU), Doppel Halbfinale 1</title>
+    <title>Live WTA Finals: S.-W. Hsieh (TPE) / J. Ostapenko (LAT) - T. Babos (HUN) / L. Stefani (BRA), 7. Tag in Riyadh (SAU), Doppel Halbfinale 1</title>
 </programme>
 <programme start="20251107143000 +0000" stop="20251107150000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
 </programme>
 <programme start="20251107150000 +0000" stop="20251107170000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live WTA Finals: HF1, 7. Tag in Riyadh (SAU), Halbfinale 1</title>
+    <title>Live WTA Finals: E. Rybakina (KAZ) - J. Pegula (USA), 7. Tag in Riyadh (SAU), Halbfinale 1</title>
 </programme>
 <programme start="20251107170000 +0000" stop="20251107190000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live WTA Finals: HF2, 7. Tag in Riyadh (SAU), Halbfinale 2</title>
+    <title>Live WTA Finals: A. Anisimova (USA) - A. Sabalenka, 7. Tag in Riyadh (SAU), Halbfinale 2</title>
 </programme>
 <programme start="20251107190000 +0000" stop="20251107210000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live WTA Finals: HF2, 7. Tag in Riyadh (SAU), Doppel Halbfinale 2</title>
+    <title>Live WTA Finals: K. Siniakova (CZE) / T. Townsend (USA) - V. Kudermetova / E. Mertens (BEL), 7. Tag in Riyadh (SAU), Doppel Halbfinale 2</title>
 </programme>
 <programme start="20251107210000 +0000" stop="20251107230000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA Finals: HF1, 7. Tag in Riyadh (SAU), Halbfinale 1</title>
+    <title>WTA Finals: E. Rybakina (KAZ) - J. Pegula (USA), 7. Tag in Riyadh (SAU), Halbfinale 1</title>
 </programme>
 <programme start="20251106230000 +0000" stop="20251106233000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Fußball: scooore Argentinien! Alle Tore</title>
@@ -3223,13 +3214,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Live Golf: Abu Dhabi HSBC Championship, 2. Tag in Abu Dhabi (VAE)</title>
 </programme>
 <programme start="20251107123000 +0000" stop="20251107143000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live WTA Finals: HF1, 7. Tag in Riyadh (SAU), Doppel Halbfinale 1</title>
+    <title>Live WTA Finals: S.-W. Hsieh (TPE) / J. Ostapenko (LAT) - T. Babos (HUN) / L. Stefani (BRA), 7. Tag in Riyadh (SAU), Doppel Halbfinale 1</title>
 </programme>
 <programme start="20251107143000 +0000" stop="20251107160000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live F1: 1. Freies Training - GP Sao Paulo</title>
 </programme>
 <programme start="20251107160000 +0000" stop="20251107170000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live WTA Finals: HF1, 7. Tag in Riyadh (SAU), Halbfinale 1</title>
+    <title>Live WTA Finals: E. Rybakina (KAZ) - J. Pegula (USA), 7. Tag in Riyadh (SAU), Halbfinale 1</title>
 </programme>
 <programme start="20251107170000 +0000" stop="20251107192500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live 2. BL: Freitags-Konferenz, 12. Spieltag</title>
@@ -3274,10 +3265,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Es folgt: LIVE ATP World Tour</title>
 </programme>
 <programme start="20251107150000 +0000" stop="20251107170000 +0000" channel="Sky Sport 6 HD.skyde">
-    <title>Live ATP 250: HF1, Hellenic Open in Athen (GRE), Halbfinale 1</title>
+    <title>Live ATP 250: Y. Hanfmann (GER) - N. Djokovic (SRB), Hellenic Open in Athen (GRE), Halbfinale 1</title>
 </programme>
-<programme start="20251107170000 +0000" stop="20251107190000 +0000" channel="Sky Sport 6 HD.skyde">
-    <title>Live ATP 250: HF2, Hellenic Open in Athen (GRE), Halbfinale 2</title>
+<programme start="20251107170000 +0000" stop="20251107210000 +0000" channel="Sky Sport 6 HD.skyde">
+    <title>Live ATP 250: L. Musetti (ITA) - S. Korda (USA), Hellenic Open in Athen (GRE), Halbfinale 2</title>
 </programme>
 <programme start="20251106234000 +0000" stop="20251107002500 +0000" channel="SYFY HD.skyde">
     <title>Stargate: Atlantis</title>

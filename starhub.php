@@ -8194,11 +8194,8 @@
     <programme start="20251106173000 +0000" stop="20251106210000 +0000" channel="SPOTV2.starhub">
         <title>Day 3 Session 2</title>
     </programme>
-    <programme start="20251106210000 +0000" stop="20251106233000 +0000" channel="SPOTV2.starhub">
+    <programme start="20251106213000 +0000" stop="20251107000000 +0000" channel="SPOTV2.starhub">
         <title>MLB 2025 World Series - Game 2 Toronto Blue Jays vs Los Angeles Dodgers</title>
-    </programme>
-    <programme start="20251106233000 +0000" stop="20251107000000 +0000" channel="SPOTV2.starhub">
-        <title>2025/26 ALM Mini Match Rd 3 Macarthur FC vs Western Sydney Wanderers FC</title>
     </programme>
     <programme start="20251107000000 +0000" stop="20251107010000 +0000" channel="SPOTV2.starhub">
         <title>Qualifying 1&amp;2- Moto3</title>
@@ -8212,8 +8209,11 @@
     <programme start="20251107033000 +0000" stop="20251107040000 +0000" channel="SPOTV2.starhub">
         <title>MotoGP 2025 Rewind - GP of Malaysia</title>
     </programme>
-    <programme start="20251107040000 +0000" stop="20251107075500 +0000" channel="SPOTV2.starhub">
+    <programme start="20251107040000 +0000" stop="20251107072500 +0000" channel="SPOTV2.starhub">
         <title>Day 3 Session 1</title>
+    </programme>
+    <programme start="20251107072500 +0000" stop="20251107075500 +0000" channel="SPOTV2.starhub">
+        <title>2025/26 ALM Mini Match Rd 2 Auckland FC vs Western Sydney Wanderers FC</title>
     </programme>
     <programme start="20251107075500 +0000" stop="20251107085500 +0000" channel="SPOTV2.starhub">
         <title>Highlights</title>
