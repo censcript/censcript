@@ -3884,7 +3884,7 @@
         <title>World Music Album</title>
     </programme>
     <programme start="20251107060000 +0000" stop="20251107061000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Capturing Landscapes by Drone 10min.</title>
+        <title>News</title>
     </programme>
     <programme start="20251107061000 +0000" stop="20251107063000 +0000" channel="NHK World Premium HD.starhub">
         <title>Chinese Navi</title>

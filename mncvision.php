@@ -1540,23 +1540,14 @@
 <programme start="20251107060000 +0000" stop="20251107063000 +0000" channel="BTV.mncvision">
     <title>Investor Daily Talk</title>
 </programme>
-<programme start="20251107063000 +0000" stop="20251107080000 +0000" channel="BTV.mncvision">
+<programme start="20251107063000 +0000" stop="20251107070000 +0000" channel="BTV.mncvision">
     <title>Spot On</title>
 </programme>
-<programme start="20251107080000 +0000" stop="20251107083000 +0000" channel="BTV.mncvision">
-    <title>Dikit-Dikit Damkar</title>
-</programme>
-<programme start="20251107083000 +0000" stop="20251107093000 +0000" channel="BTV.mncvision">
-    <title>Info Seleb</title>
-</programme>
-<programme start="20251107093000 +0000" stop="20251107103000 +0000" channel="BTV.mncvision">
-    <title>Berita Satu Sore</title>
-</programme>
-<programme start="20251107103000 +0000" stop="20251107120000 +0000" channel="BTV.mncvision">
-    <title>Berita Satu Utama</title>
+<programme start="20251107070000 +0000" stop="20251107120000 +0000" channel="BTV.mncvision">
+    <title>Breaking News</title>
 </programme>
 <programme start="20251107120000 +0000" stop="20251107124500 +0000" channel="BTV.mncvision">
-    <title>30 Minute With ESDM</title>
+    <title>Peresmian Pabrik PT. LCI</title>
 </programme>
 <programme start="20251107124500 +0000" stop="20251107130000 +0000" channel="BTV.mncvision">
     <title>Dunia Binatang</title>
