@@ -126,12 +126,12 @@
     <title>Football: Olympiacos - Aris</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251107110000 +0700" stop="20251107134000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Celtic FC - Rangers FC</title>
+<programme start="20251108141000 +0700" stop="20251108143500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Sports Classics: My Sporting Moment</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251107134000 +0700" stop="20251107140000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>William Hill Scottish Premiership - Highlights</title>
+<programme start="20251108143500 +0700" stop="20251108164500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: AEK - Panetolikos</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251107140000 +0700" stop="20251107143000 +0700" channel="COSMOTE Sport 3 HD">
@@ -274,8 +274,8 @@
     <title>Pick n&#039; Roll</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251107123000 +0700" stop="20251107135000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Grand Prix Show 2025</title>
+<programme start="20251108144000 +0700" stop="20251108164000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Baskonia - Tenerife</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251107135000 +0700" stop="20251107145000 +0700" channel="COSMOTE Sport 5 HD">
@@ -382,8 +382,8 @@
     <title>Motorsports: Moto2 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251107113000 +0700" stop="20251107140000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Volleyball: Olympiacos - Las Palmas</title>
+<programme start="20251108142000 +0700" stop="20251108153500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: MotoGP 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251107140000 +0700" stop="20251107160000 +0700" channel="COSMOTE Sport 6 HD">
@@ -450,9 +450,9 @@
     <title>ATP Masters 1000 2025 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251107125000 +0700" stop="20251107135000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>WRC 2025 (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20251108144500 +0700" stop="20251108151500 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Watersports: Inside Sailing 2025 E10</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251107135000 +0700" stop="20251107141500 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
@@ -545,6 +545,14 @@
 <programme start="20251108132000 +0700" stop="20251108141500 +0700" channel="COSMOTE Sport 7 HD">
     <title>WRC 2025 (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20251108141500 +0700" stop="20251108145500 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251108145500 +0700" stop="20251108153500 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251107130000 +0700" stop="20251107150000 +0700" channel="COSMOTE Sport 8 HD">
     <title>COSMOTESport8HD</title>
