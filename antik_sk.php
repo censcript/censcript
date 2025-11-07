@@ -1636,23 +1636,23 @@
   <programme start="20251109221500 +0000" stop="20251109230000 +0000" channel="JOJ 24.webtv.sk">
     <title lang="id">Štúdio 24</title>
   </programme>
-  <programme start="20251108223000 +0000" stop="20251109001000 +0000" channel="Kanal1.webtv.sk">
-    <title lang="id">GÉRARD DEPARDIEU: Gróf Monte Christo (2)</title>
+  <programme start="20251108221000 +0000" stop="20251108234500 +0000" channel="Kanal1.webtv.sk">
+    <title lang="id">JP BELMONDO: Manželia z roku II</title>
   </programme>
-  <programme start="20251109001000 +0000" stop="20251109013000 +0000" channel="Kanal1.webtv.sk">
+  <programme start="20251108234500 +0000" stop="20251109010500 +0000" channel="Kanal1.webtv.sk">
     <title lang="id">Zopár nenormálnych aktivít 2</title>
   </programme>
-  <programme start="20251109013000 +0000" stop="20251109021000 +0000" channel="Kanal1.webtv.sk">
+  <programme start="20251109010500 +0000" stop="20251109014500 +0000" channel="Kanal1.webtv.sk">
     <title lang="id">V tieni zločinu - Ján Mazák</title>
   </programme>
-  <programme start="20251109021000 +0000" stop="20251109030500 +0000" channel="Kanal1.webtv.sk">
+  <programme start="20251109014500 +0000" stop="20251109024000 +0000" channel="Kanal1.webtv.sk">
     <title lang="id">Koniec osmanskej ríše (1)</title>
   </programme>
-  <programme start="20251109030500 +0000" stop="20251109040000 +0000" channel="Kanal1.webtv.sk">
+  <programme start="20251109024000 +0000" stop="20251109033500 +0000" channel="Kanal1.webtv.sk">
     <title lang="id">Koniec osmanskej ríše (2)</title>
   </programme>
-  <programme start="20251109040000 +0000" stop="20251109043000 +0000" channel="Kanal1.webtv.sk">
-    <title lang="id">Ikony našej doby - Che Guevara (2)</title>
+  <programme start="20251109033500 +0000" stop="20251109043000 +0000" channel="Kanal1.webtv.sk">
+    <title lang="id">Dlhový mechanizmus</title>
   </programme>
   <programme start="20251109043000 +0000" stop="20251109060000 +0000" channel="Kanal1.webtv.sk">
     <title lang="id">Včielka Mája</title>
@@ -1682,7 +1682,7 @@
     <title lang="id">Téma - Tibor Gašpar a Jaroslav Spišiak</title>
   </programme>
   <programme start="20251109133000 +0000" stop="20251109141500 +0000" channel="Kanal1.webtv.sk">
-    <title lang="id">Storočnica Sovietskeho zväzu (1)</title>
+    <title lang="id">Bielik Online - Rudolf Huliak</title>
   </programme>
   <programme start="20251109141500 +0000" stop="20251109150000 +0000" channel="Kanal1.webtv.sk">
     <title lang="id">Storočnica Sovietskeho zväzu (2)</title>
@@ -1700,7 +1700,7 @@
     <title lang="id">MILOŠ KOPECKÝ: Já už budu hodný, dědečku!</title>
   </programme>
   <programme start="20251109184000 +0000" stop="20251109192000 +0000" channel="Kanal1.webtv.sk">
-    <title lang="id">V tieni zločinu - Ján Mazák</title>
+    <title lang="id">V tieni zločinu - Boris Susko</title>
   </programme>
   <programme start="20251109192000 +0000" stop="20251109211500 +0000" channel="Kanal1.webtv.sk">
     <title lang="id">BOLEK POLÍVKA: Musíme si pomáhať</title>

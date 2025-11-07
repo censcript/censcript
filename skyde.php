@@ -3174,63 +3174,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251107210000 +0000" stop="20251107230000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA Finals: E. Rybakina (KAZ) - J. Pegula (USA), 7. Tag in Riyadh (SAU), Halbfinale 1</title>
 </programme>
-<programme start="20251106230000 +0000" stop="20251106233000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Fußball: scooore Argentinien! Alle Tore</title>
-</programme>
-<programme start="20251106233000 +0000" stop="20251107000000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Frauen-BL: Alle Spiele, alle Tore, 9. Spieltag komplett</title>
-</programme>
-<programme start="20251107000000 +0000" stop="20251107030000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live NHL: Ottawa Senators @ Boston Bruins</title>
-</programme>
-<programme start="20251107030000 +0000" stop="20251107031500 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>EFL: Highlights XXL: Ipswich Town - FC Watford, 14. Spieltag</title>
-</programme>
-<programme start="20251107031500 +0000" stop="20251107033000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>EFL: Highlights XXL: Birmingham City - FC Millwall, 14. Spieltag</title>
-</programme>
-<programme start="20251107033000 +0000" stop="20251107034500 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>EFL: Highlights XXL: Preston North End - Swansea City, 14. Spieltag</title>
-</programme>
-<programme start="20251107034500 +0000" stop="20251107040000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>EFL: Highlights XXL: Queens Park Rangers - FC Southampton, 14. Spieltag</title>
-</programme>
-<programme start="20251107040000 +0000" stop="20251107070000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live Golf: Abu Dhabi HSBC Championship, 2. Tag (Early Coverage)</title>
-</programme>
-<programme start="20251107070000 +0000" stop="20251107085500 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live Golf: Abu Dhabi HSBC Championship, 2. Tag in Abu Dhabi (VAE)</title>
-</programme>
-<programme start="20251107085500 +0000" stop="20251107094000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live Moto3: 1. Freies Training - GP Portugal</title>
-</programme>
-<programme start="20251107094000 +0000" stop="20251107103500 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live Moto2: 1. Freies Training - GP Portugal</title>
-</programme>
-<programme start="20251107103500 +0000" stop="20251107114500 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live MotoGP: 1. Freies Training - GP Portugal</title>
-</programme>
-<programme start="20251107114500 +0000" stop="20251107123000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live Golf: Abu Dhabi HSBC Championship, 2. Tag in Abu Dhabi (VAE)</title>
-</programme>
-<programme start="20251107123000 +0000" stop="20251107143000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live WTA Finals: S.-W. Hsieh (TPE) / J. Ostapenko (LAT) - T. Babos (HUN) / L. Stefani (BRA), 7. Tag in Riyadh (SAU), Doppel Halbfinale 1</title>
-</programme>
-<programme start="20251107143000 +0000" stop="20251107160000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live F1: 1. Freies Training - GP Sao Paulo</title>
-</programme>
-<programme start="20251107160000 +0000" stop="20251107170000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live WTA Finals: E. Rybakina (KAZ) - J. Pegula (USA), 7. Tag in Riyadh (SAU), Halbfinale 1</title>
-</programme>
-<programme start="20251107170000 +0000" stop="20251107192500 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live 2. BL: Freitags-Konferenz, 12. Spieltag</title>
-</programme>
-<programme start="20251107192500 +0000" stop="20251107221500 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live BL: Werder Bremen - VfL Wolfsburg, Flutlicht-Freitag, 10. Spieltag</title>
-</programme>
-<programme start="20251107221500 +0000" stop="20251107230000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live Golf: World Wide Technology Championship, 2. Tag in Cabo San Lucas (MEX)</title>
-</programme>
 <programme start="20251106230000 +0000" stop="20251106233000 +0000" channel="Sky Sport UHD.skyde">
     <title>Golf: Greatest Holes (4)</title>
 </programme>
