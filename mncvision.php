@@ -1105,66 +1105,6 @@
 <programme start="20251107163000 +0000" stop="20251106170000 +0000" channel="beIN Sports 1.mncvision">
     <title>Gearing Up 2025: November</title>
 </programme>
-<programme start="20251106174000 +0000" stop="20251106195500 +0000" channel="beIN Sports 1 HD.mncvision">
-    <title>UEL 2025/26: STU Vs NFO (L)</title>
-</programme>
-<programme start="20251106195500 +0000" stop="20251106220000 +0000" channel="beIN Sports 1 HD.mncvision">
-    <title>UEL 2025/26: AVL Vs MTA (L)</title>
-</programme>
-<programme start="20251106220000 +0000" stop="20251106235000 +0000" channel="beIN Sports 1 HD.mncvision">
-    <title>LaLiga 2025/26: OVI Vs OSA</title>
-</programme>
-<programme start="20251106235000 +0000" stop="20251107012000 +0000" channel="beIN Sports 1 HD.mncvision">
-    <title>FIP World Cup Pairs Kuwait 2025</title>
-</programme>
-<programme start="20251107012000 +0000" stop="20251107015000 +0000" channel="beIN Sports 1 HD.mncvision">
-    <title>FastZone 2025, Ep 30</title>
-</programme>
-<programme start="20251107015000 +0000" stop="20251107022500 +0000" channel="beIN Sports 1 HD.mncvision">
-    <title>LaLiga Highlights 2025/26</title>
-</programme>
-<programme start="20251107022500 +0000" stop="20251107030000 +0000" channel="beIN Sports 1 HD.mncvision">
-    <title>Formula Regional European HL</title>
-</programme>
-<programme start="20251107030000 +0000" stop="20251107050000 +0000" channel="beIN Sports 1 HD.mncvision">
-    <title>LFCTV 2025/26: LIV Vs AVL</title>
-</programme>
-<programme start="20251107050000 +0000" stop="20251107053000 +0000" channel="beIN Sports 1 HD.mncvision">
-    <title>LFC Trending 2025/26, Ep 13</title>
-</programme>
-<programme start="20251107053000 +0000" stop="20251107060000 +0000" channel="beIN Sports 1 HD.mncvision">
-    <title>LFCTV HL 2025/26: LIV Vs CRY</title>
-</programme>
-<programme start="20251107060000 +0000" stop="20251107075000 +0000" channel="beIN Sports 1 HD.mncvision">
-    <title>LaLiga 2025/26: VIL Vs RAY</title>
-</programme>
-<programme start="20251107075000 +0000" stop="20251107094000 +0000" channel="beIN Sports 1 HD.mncvision">
-    <title>LaLiga 2025/26: LEV Vs CEL</title>
-</programme>
-<programme start="20251107094000 +0000" stop="20251107101000 +0000" channel="beIN Sports 1 HD.mncvision">
-    <title>FastZone 2025, Ep 30</title>
-</programme>
-<programme start="20251107101000 +0000" stop="20251107104500 +0000" channel="beIN Sports 1 HD.mncvision">
-    <title>LaLiga Highlights 2025/26</title>
-</programme>
-<programme start="20251107104500 +0000" stop="20251107123500 +0000" channel="beIN Sports 1 HD.mncvision">
-    <title>LaLiga 2025/26: ALA Vs ESP</title>
-</programme>
-<programme start="20251107123500 +0000" stop="20251107142500 +0000" channel="beIN Sports 1 HD.mncvision">
-    <title>LaLiga 2025/26: BAR Vs ELC</title>
-</programme>
-<programme start="20251107142500 +0000" stop="20251107153000 +0000" channel="beIN Sports 1 HD.mncvision">
-    <title>F1 Practice 2025: Sao Paulo (L)</title>
-</programme>
-<programme start="20251107153000 +0000" stop="20251107160000 +0000" channel="beIN Sports 1 HD.mncvision">
-    <title>FastZone 2025, Ep 30</title>
-</programme>
-<programme start="20251107160000 +0000" stop="20251107163000 +0000" channel="beIN Sports 1 HD.mncvision">
-    <title>GP Confidential 2025, Ep 21</title>
-</programme>
-<programme start="20251107163000 +0000" stop="20251106170000 +0000" channel="beIN Sports 1 HD.mncvision">
-    <title>Gearing Up 2025: November</title>
-</programme>
 <programme start="20251106180000 +0000" stop="20251106200000 +0000" channel="beIN Sports 2.mncvision">
     <title>ATP Tour 250 2025: Athens (L)</title>
 </programme>
@@ -2867,7 +2807,7 @@
     <title>The Day: News In Review</title>
 </programme>
 <programme start="20251107003000 +0000" stop="20251107010000 +0000" channel="DW English.mncvision">
-    <title>To The Point: Int&#039;l Debate</title>
+    <title>To The Point: Stock Market...</title>
 </programme>
 <programme start="20251107010000 +0000" stop="20251107011500 +0000" channel="DW English.mncvision">
     <title>DW News</title>
@@ -2891,7 +2831,7 @@
     <title>REV: The Forgotten Porsche...</title>
 </programme>
 <programme start="20251107033000 +0000" stop="20251107040000 +0000" channel="DW English.mncvision">
-    <title>Made In Germany: Business</title>
+    <title>Made In Germany: Food Security</title>
 </programme>
 <programme start="20251107040000 +0000" stop="20251107041500 +0000" channel="DW English.mncvision">
     <title>DW News</title>
@@ -2915,13 +2855,13 @@
     <title>REV: The Forgotten Porsche...</title>
 </programme>
 <programme start="20251107063000 +0000" stop="20251107070000 +0000" channel="DW English.mncvision">
-    <title>Best Of DW Podcasts</title>
+    <title>Freaks No More!</title>
 </programme>
 <programme start="20251107070000 +0000" stop="20251107073000 +0000" channel="DW English.mncvision">
     <title>DW News</title>
 </programme>
 <programme start="20251107073000 +0000" stop="20251107080000 +0000" channel="DW English.mncvision">
-    <title>To The Point: Int&#039;l Debate</title>
+    <title>To The Point: Stock Market...</title>
 </programme>
 <programme start="20251107080000 +0000" stop="20251107083000 +0000" channel="DW English.mncvision">
     <title>DW News</title>
@@ -2939,13 +2879,13 @@
     <title>DW News</title>
 </programme>
 <programme start="20251107103000 +0000" stop="20251107110000 +0000" channel="DW English.mncvision">
-    <title>Best Of DW Podcasts</title>
+    <title>Freaks No More!</title>
 </programme>
 <programme start="20251107110000 +0000" stop="20251107113000 +0000" channel="DW English.mncvision">
     <title>DW News</title>
 </programme>
 <programme start="20251107113000 +0000" stop="20251107120000 +0000" channel="DW English.mncvision">
-    <title>To The Point: Int&#039;l Debate</title>
+    <title>To The Point: Stock Market...</title>
 </programme>
 <programme start="20251107120000 +0000" stop="20251107121500 +0000" channel="DW English.mncvision">
     <title>DW News</title>
