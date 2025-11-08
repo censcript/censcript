@@ -697,9 +697,6 @@
 <programme start="20251108093000 +0000" stop="20251108110000 +0000" channel="ANTV.vision">
 <title>ANTV Seru</title>
 </programme>
-<programme start="20251108110000 +0000" stop="20251108130000 +0000" channel="ANTV.vision">
-<title>Kelabang Seribu</title>
-</programme>
 <programme start="20251108130000 +0000" stop="20251108150000 +0000" channel="ANTV.vision">
 <title>Rindu Tak Berujung</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20251108183000 +0000" stop="20251108193000 +0000" channel="BTV.vision">
 <title>Berita Satu Sore</title>
+</programme>
+<programme start="20251108193000 +0000" stop="20251108203000 +0000" channel="BTV.vision">
+<title>Berita Satu Malam</title>
 </programme>
