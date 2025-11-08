@@ -5209,29 +5209,32 @@
     <programme start="20251107160000 +0000" stop="20251107163000 +0000" channel="TestChannel 996.starhub">
         <title>Big Boys Club</title>
     </programme>
-    <programme start="20251107163000 +0000" stop="20251107173000 +0000" channel="TestChannel 996.starhub">
+    <programme start="20251107163000 +0000" stop="20251107172000 +0000" channel="TestChannel 996.starhub">
         <title>Dead Ringer</title>
     </programme>
-    <programme start="20251107173000 +0000" stop="20251107183000 +0000" channel="TestChannel 996.starhub">
-        <title>Lo And Behold &amp; What&#039;s On Today</title>
+    <programme start="20251107172000 +0000" stop="20251107173500 +0000" channel="TestChannel 996.starhub">
+        <title>Vengeance of the Bride</title>
     </programme>
-    <programme start="20251107183000 +0000" stop="20251107193000 +0000" channel="TestChannel 996.starhub">
-        <title>Scoop 2025</title>
+    <programme start="20251107173500 +0000" stop="20251107182500 +0000" channel="TestChannel 996.starhub">
+        <title>Vengeance of the Bride</title>
     </programme>
-    <programme start="20251107193000 +0000" stop="20251107200000 +0000" channel="TestChannel 996.starhub">
-        <title>Vital Lifeline</title>
+    <programme start="20251107182500 +0000" stop="20251107191500 +0000" channel="TestChannel 996.starhub">
+        <title>The Litchi Road</title>
     </programme>
-    <programme start="20251107200000 +0000" stop="20251107210000 +0000" channel="TestChannel 996.starhub">
-        <title>Modern Dynasty</title>
+    <programme start="20251107191500 +0000" stop="20251107200000 +0000" channel="TestChannel 996.starhub">
+        <title>Prism Breaker</title>
     </programme>
-    <programme start="20251107210000 +0000" stop="20251107214500 +0000" channel="TestChannel 996.starhub">
-        <title>Big City Shop 2024</title>
+    <programme start="20251107200000 +0000" stop="20251107204500 +0000" channel="TestChannel 996.starhub">
+        <title>The Wanted Detective</title>
     </programme>
-    <programme start="20251107214500 +0000" stop="20251107220000 +0000" channel="TestChannel 996.starhub">
-        <title>Happy Old Buddies</title>
+    <programme start="20251107204500 +0000" stop="20251107214000 +0000" channel="TestChannel 996.starhub">
+        <title>Kill You Love You</title>
     </programme>
-    <programme start="20251107220000 +0000" stop="20251107230000 +0000" channel="TestChannel 996.starhub">
-        <title>Scoop 2025</title>
+    <programme start="20251107214000 +0000" stop="20251107223000 +0000" channel="TestChannel 996.starhub">
+        <title>Kill You Love You</title>
+    </programme>
+    <programme start="20251107223000 +0000" stop="20251107234000 +0000" channel="TestChannel 996.starhub">
+        <title>Kill You Love You</title>
     </programme>
     <programme start="20251107234000 +0000" stop="20251108003000 +0000" channel="TestChannel 996.starhub">
         <title>The Long River</title>

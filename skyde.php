@@ -2847,7 +2847,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251108113000 +0000" stop="20251108140000 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
     <title>Live 2. BL: Samstags-Konferenz, 12. Spieltag</title>
 </programme>
-<programme start="20251108140000 +0000" stop="20251108144500 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
+<programme start="20251108140000 +0000" stop="20251108151500 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
     <title>Live 2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 12. Spieltag, Samstag</title>
 </programme>
 <programme start="20251107230000 +0000" stop="20251108000000 +0000" channel="Sky Sport F1 HD.skyde">
