@@ -610,6 +610,9 @@
 <programme start="20251108154500 +0000" stop="20251108163000 +0000" channel="Trans 7.vision">
 <title>The Police</title>
 </programme>
+<programme start="20251108163000 +0000" stop="20251108171500 +0000" channel="Trans 7.vision">
+<title>Starting Grid MotoGP: Portugal</title>
+</programme>
 <programme start="20251108171500 +0000" stop="20251108184500 +0000" channel="Trans 7.vision">
 <title>Noktah Merah Perkawinan</title>
 </programme>
@@ -696,6 +699,12 @@
 </programme>
 <programme start="20251108130000 +0000" stop="20251108150000 +0000" channel="ANTV.vision">
 <title>Rindu Tak Berujung</title>
+</programme>
+<programme start="20251108150000 +0000" stop="20251108170000 +0000" channel="ANTV.vision">
+<title>Black Cat 2</title>
+</programme>
+<programme start="20251108170000 +0000" stop="20251108183000 +0000" channel="ANTV.vision">
+<title>Monkey King The Volcano</title>
 </programme>
 <programme start="20251108183000 +0000" stop="20251108200000 +0000" channel="ANTV.vision">
 <title>Kisah Cinta Nyi Blorong</title>
@@ -873,6 +882,9 @@
 </programme>
 <programme start="20251108110000 +0000" stop="20251108130000 +0000" channel="TVOne.vision">
 <title>Apa Kabar Indonesia Malam (L)</title>
+</programme>
+<programme start="20251108130000 +0000" stop="20251108143000 +0000" channel="TVOne.vision">
+<title>Inovasi Membangun Negeri</title>
 </programme>
 <programme start="20251108143000 +0000" stop="20251108153000 +0000" channel="TVOne.vision">
 <title>Kabar Utama (L)</title>
@@ -1485,16 +1497,4 @@
 </programme>
 <programme start="20251108193000 +0000" stop="20251108203000 +0000" channel="BTV.vision">
 <title>Berita Satu Malam</title>
-</programme>
-<programme start="20251108203000 +0000" stop="20251108213000 +0000" channel="BTV.vision">
-<title>Spot On</title>
-</programme>
-<programme start="20251108213000 +0000" stop="20251108223000 +0000" channel="BTV.vision">
-<title>Berita Satu Pagi</title>
-</programme>
-<programme start="20251108223000 +0000" stop="20251108230000 +0000" channel="BTV.vision">
-<title>Saat Teduh Bersama GMS</title>
-</programme>
-<programme start="20251108230000 +0000" stop="20251108230300 +0000" channel="BTV.vision">
-<title>Indonesia Raya</title>
 </programme>
