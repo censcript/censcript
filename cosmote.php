@@ -70,13 +70,9 @@
     <title>Football: OFI - AEK (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251108230000 +0700" stop="20251108233000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Sports Classics: Sporting Countdowns</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251108233000 +0700" stop="20251109000000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Sports Classics: My Sporting Moment</title>
-    <desc>Live: Tidak</desc>
+<programme start="20251110004000 +0700" stop="20251110020000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Sportshow (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20251109000000 +0700" stop="20251109020000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Juventus Football Club - Torino (L)</title>
@@ -142,8 +138,8 @@
     <title>Sports Classics: My Sporting Moment</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251108220000 +0700" stop="20251109000000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Stoke City - Coventry City (L)</title>
+<programme start="20251110000000 +0700" stop="20251110020000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: AS Roma - Udinese (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20251109000000 +0700" stop="20251109003000 +0700" channel="COSMOTE Sport 3 HD">
@@ -218,9 +214,9 @@
     <title>Emirates FA Cup 2025-26 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251108230000 +0700" stop="20251109000000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>NBA Specials</title>
-    <desc>Live: Tidak</desc>
+<programme start="20251110000000 +0700" stop="20251110020000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Anorthosis Famagusta - Pafos FC (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20251109000000 +0700" stop="20251109003000 +0700" channel="COSMOTE Sport 4 HD">
     <title>ACB Liga Endesa 2025-26 - Fifth Quarter E5</title>
@@ -284,14 +280,6 @@
 </programme>
 <programme start="20251109230000 +0700" stop="20251110010000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Armani Milano - Treviso (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20251108214500 +0700" stop="20251108230500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: MotoGP 2025 (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20251108230500 +0700" stop="20251108234500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Moto-E World Championship 2025 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20251108234500 +0700" stop="20251109000500 +0700" channel="COSMOTE Sport 5 HD">
@@ -398,6 +386,10 @@
     <title>DTM</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251110003000 +0700" stop="20251110023000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Basketball: Besiktas - Anadolu Efes (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
 <programme start="20251108213000 +0700" stop="20251109003000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Authentic Athens Marathon 2025 (L)</title>
     <desc>Live: Ya</desc>
@@ -461,6 +453,10 @@
 <programme start="20251109230000 +0700" stop="20251110000000 +0700" channel="COSMOTE Sport 6 HD">
     <title>ATP Masters 1000 2025 - Highlights</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251110000000 +0700" stop="20251110023000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: Julian Cash/Lloyd Glasspool - Simone Bolelli/Andrea Vavassori (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20251108223000 +0700" stop="20251109010000 +0700" channel="COSMOTE Sport 7 HD">
     <title>Tennis: ATP 250 2025 (L)</title>
@@ -546,9 +542,13 @@
     <title>Football: Dundee - Rangers FC (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251108220000 +0700" stop="20251109000000 +0700" channel="COSMOTE Sport 8 HD">
-    <title>2025 Premier Padel World Cup Pairs (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20251110000000 +0700" stop="20251110003000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251110003000 +0700" stop="20251110010000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251109000000 +0700" stop="20251109023000 +0700" channel="COSMOTE Sport 8 HD">
     <title>2025 Premier Padel World Cup Pairs (L)</title>
@@ -605,14 +605,6 @@
 <programme start="20251109230000 +0700" stop="20251110013000 +0700" channel="COSMOTE Sport 8 HD">
     <title>2025 Premier Padel World Cup Pairs (L)</title>
     <desc>Live: Ya</desc>
-</programme>
-<programme start="20251108225000 +0700" stop="20251108232500 +0700" channel="COSMOTE Sport 9 HD">
-    <title>COSMOTESport9HD</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251108232500 +0700" stop="20251109000000 +0700" channel="COSMOTE Sport 9 HD">
-    <title>COSMOTESport9HD</title>
-    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251109000000 +0700" stop="20251109014500 +0700" channel="COSMOTE Sport 9 HD">
     <title>Handball: GWD Minden - MT Melsungen (L)</title>
