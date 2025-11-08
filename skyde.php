@@ -3285,8 +3285,8 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251108144000 +0000" stop="20251108150000 +0000" channel="Sky Sport 8 HD.skyde">
     <title>Es folgt: Live ATP World Tour</title>
 </programme>
-<programme start="20251108150000 +0000" stop="20251108193000 +0000" channel="Sky Sport 8 HD.skyde">
-    <title>Live ATP 250: N. Djokovic (SRB) - L. Musetti (ITA), Hellenic Open in Athen (GRE), Finale</title>
+<programme start="20251108150000 +0000" stop="20251108173000 +0000" channel="Sky Sport 8 HD.skyde">
+    <title>Live ATP 250: Finale, Hellenic Open in Athen (GRE), Finale</title>
 </programme>
 <programme start="20251108143000 +0000" stop="20251108145000 +0000" channel="Sky Sport 9 HD.skyde">
     <title>Es folgt: Live Premier League</title>
