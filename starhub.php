@@ -5233,74 +5233,62 @@
     <programme start="20251107220000 +0000" stop="20251107230000 +0000" channel="TestChannel 996.starhub">
         <title>Scoop 2025</title>
     </programme>
-    <programme start="20251107230000 +0000" stop="20251108000000 +0000" channel="TestChannel 996.starhub">
-        <title>Good Morning Hong Kong</title>
+    <programme start="20251107234000 +0000" stop="20251108003000 +0000" channel="TestChannel 996.starhub">
+        <title>The Long River</title>
     </programme>
-    <programme start="20251108000000 +0000" stop="20251108010000 +0000" channel="TestChannel 996.starhub">
-        <title>Dead Ringer</title>
+    <programme start="20251108003000 +0000" stop="20251108010500 +0000" channel="TestChannel 996.starhub">
+        <title>Destined</title>
     </programme>
-    <programme start="20251108010000 +0000" stop="20251108013000 +0000" channel="TestChannel 996.starhub">
-        <title>Clash Of Home Chefs</title>
+    <programme start="20251108010500 +0000" stop="20251108020000 +0000" channel="TestChannel 996.starhub">
+        <title>Destined</title>
     </programme>
-    <programme start="20251108013000 +0000" stop="20251108020000 +0000" channel="TestChannel 996.starhub">
-        <title>Hands Up</title>
+    <programme start="20251108020000 +0000" stop="20251108025500 +0000" channel="TestChannel 996.starhub">
+        <title>D.I.D. 12</title>
     </programme>
-    <programme start="20251108020000 +0000" stop="20251108030000 +0000" channel="TestChannel 996.starhub">
-        <title>Battle Of The Seven Sisters</title>
+    <programme start="20251108025500 +0000" stop="20251108034000 +0000" channel="TestChannel 996.starhub">
+        <title>Prism Breaker</title>
     </programme>
-    <programme start="20251108030000 +0000" stop="20251108040000 +0000" channel="TestChannel 996.starhub">
-        <title>Battle Of The Seven Sisters</title>
+    <programme start="20251108034000 +0000" stop="20251108042500 +0000" channel="TestChannel 996.starhub">
+        <title>Prism Breaker</title>
     </programme>
-    <programme start="20251108040000 +0000" stop="20251108043000 +0000" channel="TestChannel 996.starhub">
-        <title>Roadside Station Guide XIII</title>
+    <programme start="20251108042500 +0000" stop="20251108051000 +0000" channel="TestChannel 996.starhub">
+        <title>Prism Breaker</title>
     </programme>
-    <programme start="20251108043000 +0000" stop="20251108053000 +0000" channel="TestChannel 996.starhub">
-        <title>Mayanne Blah Blah Blah Special</title>
+    <programme start="20251108051000 +0000" stop="20251108053000 +0000" channel="TestChannel 996.starhub">
+        <title>Prism Breaker</title>
     </programme>
     <programme start="20251108053000 +0000" stop="20251108060000 +0000" channel="TestChannel 996.starhub">
-        <title>ChatSAT</title>
+        <title>Lo And Behold</title>
     </programme>
-    <programme start="20251108060000 +0000" stop="20251108083000 +0000" channel="TestChannel 996.starhub">
-        <title>The Sound Of Talents</title>
+    <programme start="20251108060000 +0000" stop="20251108071500 +0000" channel="TestChannel 996.starhub">
+        <title>Family By Choice</title>
     </programme>
-    <programme start="20251108083000 +0000" stop="20251108093000 +0000" channel="TestChannel 996.starhub">
-        <title>Mayanne Blah Blah Blah Special</title>
+    <programme start="20251108071500 +0000" stop="20251108083500 +0000" channel="TestChannel 996.starhub">
+        <title>Bad and Crazy</title>
     </programme>
-    <programme start="20251108093000 +0000" stop="20251108100000 +0000" channel="TestChannel 996.starhub">
-        <title>ChatSAT</title>
+    <programme start="20251108083500 +0000" stop="20251108092000 +0000" channel="TestChannel 996.starhub">
+        <title>Always Home</title>
     </programme>
-    <programme start="20251108100000 +0000" stop="20251108103000 +0000" channel="TestChannel 996.starhub">
-        <title>Gourmet Express</title>
+    <programme start="20251108092000 +0000" stop="20251108101500 +0000" channel="TestChannel 996.starhub">
+        <title>Always Home</title>
     </programme>
-    <programme start="20251108103000 +0000" stop="20251108110000 +0000" channel="TestChannel 996.starhub">
-        <title>News At 18:30</title>
+    <programme start="20251108101500 +0000" stop="20251108110500 +0000" channel="TestChannel 996.starhub">
+        <title>Destined</title>
     </programme>
-    <programme start="20251108110000 +0000" stop="20251108113500 +0000" channel="TestChannel 996.starhub">
-        <title>News Magazine 2025</title>
+    <programme start="20251108110500 +0000" stop="20251108120000 +0000" channel="TestChannel 996.starhub">
+        <title>Destined</title>
     </programme>
-    <programme start="20251108113500 +0000" stop="20251108120000 +0000" channel="TestChannel 996.starhub">
-        <title>Scoop 2025</title>
+    <programme start="20251108120000 +0000" stop="20251108125000 +0000" channel="TestChannel 996.starhub">
+        <title>Always Home</title>
     </programme>
-    <programme start="20251108120000 +0000" stop="20251108123000 +0000" channel="TestChannel 996.starhub">
-        <title>A Race Against Time</title>
+    <programme start="20251108125000 +0000" stop="20251108134500 +0000" channel="TestChannel 996.starhub">
+        <title>Always Home</title>
     </programme>
-    <programme start="20251108123000 +0000" stop="20251108133000 +0000" channel="TestChannel 996.starhub">
-        <title>Mystery Files</title>
+    <programme start="20251108134500 +0000" stop="20251108150000 +0000" channel="TestChannel 996.starhub">
+        <title>Family By Choice</title>
     </programme>
-    <programme start="20251108133000 +0000" stop="20251108143000 +0000" channel="TestChannel 996.starhub">
-        <title>You Are Not Alone</title>
-    </programme>
-    <programme start="20251108143000 +0000" stop="20251108150000 +0000" channel="TestChannel 996.starhub">
-        <title>The Shaw Prize Award Presentation 2025</title>
-    </programme>
-    <programme start="20251108150000 +0000" stop="20251108151500 +0000" channel="TestChannel 996.starhub">
-        <title>JSG Billboard 2025</title>
-    </programme>
-    <programme start="20251108151500 +0000" stop="20251108153000 +0000" channel="TestChannel 996.starhub">
-        <title>News Roundup</title>
-    </programme>
-    <programme start="20251108153000 +0000" stop="20251108160000 +0000" channel="TestChannel 996.starhub">
-        <title>ChatSAT</title>
+    <programme start="20251108150000 +0000" stop="20251108161500 +0000" channel="TestChannel 996.starhub">
+        <title>Bad and Crazy</title>
     </programme>
     <programme start="20251107160000 +0000" stop="20251107161500 +0000" channel="Euronews HD.starhub">
         <title>Global Week-End</title>
