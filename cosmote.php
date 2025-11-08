@@ -1,11 +1,3 @@
-<programme start="20251108203000 +0700" stop="20251108213000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Highlights: UEL &amp; UECL 2025-26</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251108213000 +0700" stop="20251108220000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>PreGame Show (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
 <programme start="20251108220000 +0700" stop="20251109001000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Panetolikos - AEL Novibet (L)</title>
     <desc>Live: Ya</desc>
@@ -74,6 +66,10 @@
     <title>PreGame Show (L)</title>
     <desc>Live: Ya</desc>
 </programme>
+<programme start="20251109223000 +0700" stop="20251110004000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: OFI - AEK (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
 <programme start="20251108210000 +0700" stop="20251108230000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Como - Cagliari (L)</title>
     <desc>Live: Ya</desc>
@@ -138,13 +134,9 @@
     <title>Football: Kifisia - Olympiacos (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251108193000 +0700" stop="20251108213000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Blackburn Rovers - Derby County (L)</title>
+<programme start="20251109220500 +0700" stop="20251109230000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>PostGame Show (L)</title>
     <desc>Live: Ya</desc>
-</programme>
-<programme start="20251108213000 +0700" stop="20251108220000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Sports Classics: Worldies E15</title>
-    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251108220000 +0700" stop="20251109000000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Stoke City - Coventry City (L)</title>
@@ -282,10 +274,6 @@
     <title>Football: Genoa - ACF Fiorentina (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251108203500 +0700" stop="20251108214500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: Moto2 2025 (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
 <programme start="20251108214500 +0700" stop="20251108230500 +0700" channel="COSMOTE Sport 5 HD">
     <title>Motorsports: MotoGP 2025 (L)</title>
     <desc>Live: Ya</desc>
@@ -390,8 +378,8 @@
     <title>Motorsports: Moto3 2025 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251108210000 +0700" stop="20251108213000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Watersports: Inside Sailing 2025 E10</title>
+<programme start="20251109223500 +0700" stop="20251109233000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>2025 GT World Challenge Europe</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251108213000 +0700" stop="20251109003000 +0700" channel="COSMOTE Sport 6 HD">
@@ -450,8 +438,8 @@
     <title>Tennis: Carlos Alcaraz - Alex de Minaur (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251108210000 +0700" stop="20251108220000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
+<programme start="20251109223000 +0700" stop="20251109230000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Premier Padel Tour 2025 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251108220000 +0700" stop="20251108223000 +0700" channel="COSMOTE Sport 7 HD">
@@ -538,8 +526,8 @@
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251108200000 +0700" stop="20251108220000 +0700" channel="COSMOTE Sport 8 HD">
-    <title>2025 Premier Padel World Cup Pairs (L)</title>
+<programme start="20251109220000 +0700" stop="20251110000000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>Football: Dundee - Rangers FC (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20251108220000 +0700" stop="20251109000000 +0700" channel="COSMOTE Sport 8 HD">
@@ -593,6 +581,10 @@
 <programme start="20251109200000 +0700" stop="20251109223000 +0700" channel="COSMOTE Sport 8 HD">
     <title>2025 Premier Padel World Cup Pairs (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20251109223000 +0700" stop="20251109230000 +0700" channel="COSMOTE Sport 8 HD">
+    <title>COSMOTESport8HD</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251108205000 +0700" stop="20251108225000 +0700" channel="COSMOTE Sport 9 HD">
     <title>Football: Neom - Al Nassr (L)</title>
