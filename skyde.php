@@ -2646,13 +2646,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251108153000 +0000" stop="20251108155000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Es folgt Fußball: Österreich, Admiral Bundesliga</title>
 </programme>
-<programme start="20251108155000 +0000" stop="20251108180000 +0000" channel="Sky Sport Austria 3 HD.skyde">
+<programme start="20251108155000 +0000" stop="20251108183000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live Admiral BL: FK Austria Wien - Grazer AK 1902, 13. Runde</title>
 </programme>
 <programme start="20251108153000 +0000" stop="20251108155000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Es folgt Fußball: Österreich, Admiral Bundesliga</title>
 </programme>
-<programme start="20251108155000 +0000" stop="20251108180000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+<programme start="20251108155000 +0000" stop="20251108183000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live Admiral BL: RZ Pellets WAC - TSV Egger Glas Hartberg, 13. Runde</title>
 </programme>
 <programme start="20251108000000 +0000" stop="20251108004500 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -2793,7 +2793,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251108190000 +0000" stop="20251108220000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Live 2. BL: 1. FC Kaiserslautern - Hertha BSC, tipico Topspiel der Woche, 12. Spieltag</title>
 </programme>
-<programme start="20251108220000 +0000" stop="20251108230000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+<programme start="20251108220000 +0000" stop="20251108233000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 12. Spieltag, Samstag komplett</title>
 </programme>
 <programme start="20251108111000 +0000" stop="20251108113000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
@@ -2820,7 +2820,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251108140000 +0000" stop="20251108141500 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live BL: B04 - FCH: tipico Countdown, 10. Spieltag</title>
 </programme>
-<programme start="20251108141500 +0000" stop="20251108164500 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
+<programme start="20251108141500 +0000" stop="20251108171500 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live BL: Bayer Leverkusen - 1. FC Heidenheim, 10. Spieltag</title>
 </programme>
 <programme start="20251108111000 +0000" stop="20251108113000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
@@ -2829,7 +2829,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251108113000 +0000" stop="20251108140000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Live 2. BL: Arminia Bielefeld - Karlsruher SC, 12. Spieltag</title>
 </programme>
-<programme start="20251108140000 +0000" stop="20251108163000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
+<programme start="20251108140000 +0000" stop="20251108170000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Live BL: Multiview, 10. Spieltag</title>
 </programme>
 <programme start="20251108111000 +0000" stop="20251108113000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
@@ -2838,7 +2838,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251108113000 +0000" stop="20251108140000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
     <title>Live 2. BL: Multiview, 12. Spieltag, Samstag</title>
 </programme>
-<programme start="20251108140000 +0000" stop="20251108163000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
+<programme start="20251108140000 +0000" stop="20251108170000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
     <title>Live BL: Multiview, 10. Spieltag</title>
 </programme>
 <programme start="20251108111000 +0000" stop="20251108113000 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">

@@ -66,8 +66,8 @@
     <title>Highlights: UEL &amp; UECL 2025-26</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251108100000 +0700" stop="20251108120000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Pisa - Cremonese</title>
+<programme start="20251109123000 +0700" stop="20251109143000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: Manchester City FC - Borussia Dortmund</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251108120000 +0700" stop="20251108141000 +0700" channel="COSMOTE Sport 2 HD">
@@ -134,12 +134,8 @@
     <title>Football: Lecce - Hellas Verona</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251108110000 +0700" stop="20251108113000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Copa Sudamericana 2025 - Highlights</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251108113000 +0700" stop="20251108120000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Copa Libertadores 2025 - Highlights</title>
+<programme start="20251109125500 +0700" stop="20251109145000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Juventus Football Club - Torino</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251108120000 +0700" stop="20251108150000 +0700" channel="COSMOTE Sport 3 HD">
@@ -290,10 +286,6 @@
     <title>Basketball: Baskonia - Tenerife</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251108102000 +0700" stop="20251108112000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: Moto2 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251108112000 +0700" stop="20251108122500 +0700" channel="COSMOTE Sport 5 HD">
     <title>Motorsports: MotoGP 2025</title>
     <desc>Live: Tidak</desc>
@@ -410,6 +402,10 @@
     <title>Motorsports: Moto3 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251109125500 +0700" stop="20251109140000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: Moto2 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251108110000 +0700" stop="20251108124500 +0700" channel="COSMOTE Sport 6 HD">
     <title>Handball: MT Melsungen - Lemgo Lippe</title>
     <desc>Live: Tidak</desc>
@@ -478,9 +474,9 @@
     <title>Topspin</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251108103000 +0700" stop="20251108113500 +0700" channel="COSMOTE Sport 7 HD">
-    <title>WRC 2025 (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20251109121500 +0700" stop="20251109140000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Handball: GWD Minden - MT Melsungen</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251108113500 +0700" stop="20251108120500 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
@@ -577,6 +573,10 @@
 <programme start="20251109113000 +0700" stop="20251109120000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251109120000 +0700" stop="20251109133500 +0700" channel="COSMOTE Sport 7 HD">
+    <title>WRC 2025 (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20251108110000 +0700" stop="20251108130000 +0700" channel="COSMOTE Sport 8 HD">
     <title>COSMOTESport8HD</title>
