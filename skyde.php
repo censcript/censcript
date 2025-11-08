@@ -2646,7 +2646,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251108153000 +0000" stop="20251108155000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Es folgt Fußball: Österreich, Admiral Bundesliga</title>
 </programme>
-<programme start="20251108155000 +0000" stop="20251108180000 +0000" channel="Sky Sport Austria 3 HD.skyde">
+<programme start="20251108155000 +0000" stop="20251108183000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live Admiral BL: FK Austria Wien - Grazer AK 1902, 13. Runde</title>
 </programme>
 <programme start="20251108153000 +0000" stop="20251108155000 +0000" channel="Sky Sport Austria 4 HD.skyde">
@@ -3291,7 +3291,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251108143000 +0000" stop="20251108145000 +0000" channel="Sky Sport 9 HD.skyde">
     <title>Es folgt: Live Premier League</title>
 </programme>
-<programme start="20251108145000 +0000" stop="20251108170000 +0000" channel="Sky Sport 9 HD.skyde">
+<programme start="20251108145000 +0000" stop="20251108173000 +0000" channel="Sky Sport 9 HD.skyde">
     <title>Live PL: West Ham United - FC Burnley, 11. Spieltag</title>
 </programme>
 <programme start="20251107234000 +0000" stop="20251108013000 +0000" channel="SYFY HD.skyde">
