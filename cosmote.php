@@ -66,6 +66,10 @@
     <title>Football: Panathinaikos - PAOK (L)</title>
     <desc>Live: Ya</desc>
 </programme>
+<programme start="20251110041500 +0700" stop="20251110070000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Sportshow (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
 <programme start="20251109024500 +0700" stop="20251109044500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Parma - AC Milan (L)</title>
     <desc>Live: Ya</desc>
@@ -134,8 +138,8 @@
     <title>Football: FC Internazionale Milano - SS Lazio (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251109030000 +0700" stop="20251109033000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Sports Classics: Worldies E10</title>
+<programme start="20251110044500 +0700" stop="20251110070000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Panathinaikos - PAOK</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251109033000 +0700" stop="20251109053000 +0700" channel="COSMOTE Sport 3 HD">
@@ -214,10 +218,6 @@
     <title>Football: SL Benfica - Casa Pia (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251109023000 +0700" stop="20251109030500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>NBA on Fire 2025-26 E2</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251109030500 +0700" stop="20251109050000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Wurzburg - Galatasaray</title>
     <desc>Live: Tidak</desc>
@@ -281,10 +281,6 @@
 <programme start="20251110033000 +0700" stop="20251110063000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Milwaukee Bucks - Houston Rockets (L)</title>
     <desc>Live: Ya</desc>
-</programme>
-<programme start="20251109023000 +0700" stop="20251109033500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: MotoGP 2025</title>
-    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251109033500 +0700" stop="20251109043500 +0700" channel="COSMOTE Sport 5 HD">
     <title>Motorsports: Moto3 2025</title>
@@ -382,8 +378,8 @@
     <title>Motorsports: Moto2 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251109020000 +0700" stop="20251109040000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Volleyball: Olympiacos - Vasas</title>
+<programme start="20251110042500 +0700" stop="20251110060500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: MotoGP 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251109040000 +0700" stop="20251109043000 +0700" channel="COSMOTE Sport 6 HD">
@@ -636,6 +632,10 @@
 </programme>
 <programme start="20251110010000 +0700" stop="20251110042500 +0700" channel="COSMOTE Sport 9 HD">
     <title>American Football: Tampa Bay Buccaneers - New England Patriots (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
+<programme start="20251110042500 +0700" stop="20251110075500 +0700" channel="COSMOTE Sport 9 HD">
+    <title>American Football: San Francisco 49ers - Los Angeles Rams (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 No EPG found for COSMOTE Sport 10 HD
