@@ -8203,7 +8203,7 @@
     <programme start="20251108144100 +0000" stop="20251108151700 +0000" channel="Dragon TV.starhub">
         <title>Cheer up!small shops</title>
     </programme>
-    <programme start="20251108151700 +0000" stop="20251108161500 +0000" channel="Dragon TV.starhub">
+    <programme start="20251108151700 +0000" stop="20251108160000 +0000" channel="Dragon TV.starhub">
         <title>A Green Trip</title>
     </programme>
     <programme start="20251107160000 +0000" stop="20251107163000 +0000" channel="Travelxp HD.starhub">
