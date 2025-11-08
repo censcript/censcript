@@ -2628,10 +2628,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251108120000 +0000" stop="20251108122000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>PL: Es folgt</title>
 </programme>
-<programme start="20251108122000 +0000" stop="20251108143000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20251108122000 +0000" stop="20251108150000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live PL: Tottenham Hotspur - Manchester United, 11. Spieltag</title>
 </programme>
-<programme start="20251108153000 +0000" stop="20251108155000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20251108150000 +0000" stop="20251108155000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt Fußball: Österreich, Admiral Bundesliga</title>
 </programme>
 <programme start="20251108155000 +0000" stop="20251108180000 +0000" channel="Sky Sport Austria 2 HD.skyde">
@@ -2640,7 +2640,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251108180000 +0000" stop="20251108203000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live NHL: Ottawa Senators @ Philadelphia Flyers</title>
 </programme>
-<programme start="20251108203000 +0000" stop="20251108233000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20251108203000 +0000" stop="20251109013000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live NHL: Dallas Stars @ Nashville Predators</title>
 </programme>
 <programme start="20251108153000 +0000" stop="20251108155000 +0000" channel="Sky Sport Austria 3 HD.skyde">
@@ -2769,7 +2769,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251108141500 +0000" stop="20251108164500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: Hamburger SV - Borussia Dortmund, 10. Spieltag</title>
 </programme>
-<programme start="20251108164500 +0000" stop="20251108201500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
+<programme start="20251108164500 +0000" stop="20251108204500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: Borussia M&#039;gladbach - 1. FC Köln, tipico Topspiel der Woche, 10. Spieltag</title>
 </programme>
 <programme start="20251108111000 +0000" stop="20251108113000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
@@ -2808,7 +2808,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251108141500 +0000" stop="20251108164500 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live BL: TSG Hoffenheim - RB Leipzig, 10. Spieltag</title>
 </programme>
-<programme start="20251108164500 +0000" stop="20251108201500 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
+<programme start="20251108164500 +0000" stop="20251108204500 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live BL: Tactical Feed: BMG - KOE, 10. Spieltag</title>
 </programme>
 <programme start="20251108111000 +0000" stop="20251108113000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
@@ -2854,7 +2854,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>F1: Sprint Qualifying - GP Sao Paulo</title>
 </programme>
 <programme start="20251108000000 +0000" stop="20251108010000 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>WRC: Forum8 Rally Japan - SS1 Kuragaike Park</title>
+    <title>WRC: Highlights: Central European Rally</title>
 </programme>
 <programme start="20251108010000 +0000" stop="20251108020000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Live WRC: Forum8 Rally Japan - SS10 Mt. Kasagi 1</title>
@@ -3198,44 +3198,41 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251108222000 +0000" stop="20251109002000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: Tottenham Hotspur - Manchester United, 11. Spieltag</title>
 </programme>
-<programme start="20251107230000 +0000" stop="20251108010000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20251108003500 +0000" stop="20251108024500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA Finals: A. Anisimova (USA) - A. Sabalenka, 7. Tag in Riyadh (SAU), Halbfinale 2</title>
 </programme>
-<programme start="20251108010000 +0000" stop="20251108030000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 250: L. Musetti (ITA) - S. Korda (USA), Hellenic Open in Athen (GRE), Halbfinale 1</title>
-</programme>
-<programme start="20251108030000 +0000" stop="20251108050000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20251108024500 +0000" stop="20251108044500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 250: L. Musetti (ITA) - S. Korda (USA), Hellenic Open in Athen (GRE), Halbfinale 2</title>
 </programme>
-<programme start="20251108050000 +0000" stop="20251108070000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20251108044500 +0000" stop="20251108064500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA Finals: S.-W. Hsieh (TPE) / J. Ostapenko (LAT) - T. Babos (HUN) / L. Stefani (BRA), 7. Tag in Riyadh (SAU), Doppel Halbfinale 1</title>
 </programme>
-<programme start="20251108070000 +0000" stop="20251108090000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20251108064500 +0000" stop="20251108084500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA Finals: K. Siniakova (CZE) / T. Townsend (USA) - V. Kudermetova / E. Mertens (BEL), 7. Tag in Riyadh (SAU), Doppel Halbfinale 2</title>
 </programme>
-<programme start="20251108090000 +0000" stop="20251108110000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20251108084500 +0000" stop="20251108105500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA Finals: E. Rybakina (KAZ) - J. Pegula (USA), 7. Tag in Riyadh (SAU), Halbfinale 1</title>
 </programme>
-<programme start="20251108110000 +0000" stop="20251108130000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20251108105500 +0000" stop="20251108130000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA Finals: A. Anisimova (USA) - A. Sabalenka, 7. Tag in Riyadh (SAU), Halbfinale 2</title>
 </programme>
 <programme start="20251108130000 +0000" stop="20251108153000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live WTA Finals: Doppelfinale 2025 in Riyadh (SAU)</title>
+    <title>Live WTA Finals: T. Babos (HUN) / L. Stefani (BRA) - V. Kudermetova / E. Mertens (BEL), Doppelfinale 2025 in Riyadh (SAU)</title>
 </programme>
 <programme start="20251108153000 +0000" stop="20251108160000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
 </programme>
 <programme start="20251108160000 +0000" stop="20251108183000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live WTA Finals: Finale 2025 in Riyadh (SAU)</title>
+    <title>Live WTA Finals: A. Sabalenka - E. Rybakina (KAZ), Finale 2025 in Riyadh (SAU)</title>
 </programme>
 <programme start="20251108183000 +0000" stop="20251108193000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: Review Paris</title>
 </programme>
 <programme start="20251108193000 +0000" stop="20251108220000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 250: Finale, Moselle Open in Metz (FRA), Finale</title>
+    <title>ATP 250: C. Norrie (GBR) - L. Tien (USA), Moselle Open in Metz (FRA), Finale</title>
 </programme>
 <programme start="20251108220000 +0000" stop="20251109003000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA Finals: Finale 2025 in Riyadh (SAU)</title>
+    <title>WTA Finals: A. Sabalenka - E. Rybakina (KAZ), Finale 2025 in Riyadh (SAU)</title>
 </programme>
 <programme start="20251107230000 +0000" stop="20251107233000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Meine Geschichte: Das Leben von Daniel Elfadli</title>
@@ -3285,10 +3282,16 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251108220000 +0000" stop="20251108233000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NHL: Dallas Stars @ Nashville Predators</title>
 </programme>
+<programme start="20251108144000 +0000" stop="20251108150000 +0000" channel="Sky Sport 8 HD.skyde">
+    <title>Es folgt: Live ATP World Tour</title>
+</programme>
+<programme start="20251108150000 +0000" stop="20251108193000 +0000" channel="Sky Sport 8 HD.skyde">
+    <title>Live ATP 250: N. Djokovic (SRB) - L. Musetti (ITA), Hellenic Open in Athen (GRE), Finale</title>
+</programme>
 <programme start="20251108143000 +0000" stop="20251108145000 +0000" channel="Sky Sport 9 HD.skyde">
     <title>Es folgt: Live Premier League</title>
 </programme>
-<programme start="20251108145000 +0000" stop="20251108170000 +0000" channel="Sky Sport 9 HD.skyde">
+<programme start="20251108145000 +0000" stop="20251108173000 +0000" channel="Sky Sport 9 HD.skyde">
     <title>Live PL: West Ham United - FC Burnley, 11. Spieltag</title>
 </programme>
 <programme start="20251107234000 +0000" stop="20251108013000 +0000" channel="SYFY HD.skyde">
