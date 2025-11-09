@@ -3323,10 +3323,13 @@
         <title>Mainland Q&amp;A</title>
     </programme>
     <programme start="20251108160000 +0000" stop="20251108190000 +0000" channel="Kalaignar TV.starhub">
-        <title>MOVIE - SATHRU (U/A)</title>
+        <title>MOVIE - PATTAMPOOCHI (VU/A)</title>
+    </programme>
+    <programme start="20251108190000 +0000" stop="20251108203000 +0000" channel="Kalaignar TV.starhub">
+        <title>Inthavaara kalakalappu</title>
     </programme>
     <programme start="20251108203000 +0000" stop="20251108230000 +0000" channel="Kalaignar TV.starhub">
-        <title>BREAKFREE MOVIE - KARUPPAM PATTI (U)</title>
+        <title>BREAKFREE MOVIE - PERUMAL (U)</title>
     </programme>
     <programme start="20251108230000 +0000" stop="20251109000000 +0000" channel="Kalaignar TV.starhub">
         <title>Songs</title>
