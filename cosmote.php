@@ -54,14 +54,6 @@
     <title>Football: AEK Larnaca - Aberdeen</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251109230000 +0700" stop="20251109233000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Sports Classics: Sporting Countdowns</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251109233000 +0700" stop="20251110000000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Sports Classics: My Sporting Moment</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251110000000 +0700" stop="20251110020000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: AS Roma - Udinese (L)</title>
     <desc>Live: Ya</desc>
@@ -118,12 +110,8 @@
     <title>Football: FC Internazionale Milano - SS Lazio</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251109230000 +0700" stop="20251109231500 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Sports Highlights</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251109231500 +0700" stop="20251110000000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Emirates FA Cup 2025-26 - Highlights</title>
+<programme start="20251111002000 +0700" stop="20251111023000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: OFI - AEK</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251110000000 +0700" stop="20251110020000 +0700" channel="COSMOTE Sport 3 HD">
@@ -202,6 +190,10 @@
     <title>American Football: Tampa Bay Buccaneers - New England Patriots</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251111003000 +0700" stop="20251111023000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Anorthosis Famagusta - Pafos FC</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251109230000 +0700" stop="20251110010000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Armani Milano - Treviso (L)</title>
     <desc>Live: Ya</desc>
@@ -256,10 +248,6 @@
 </programme>
 <programme start="20251110235000 +0700" stop="20251111020000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Promitheas - Legia Warszawa</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251109223500 +0700" stop="20251109233000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>2025 GT World Challenge Europe</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251109233000 +0700" stop="20251110003000 +0700" channel="COSMOTE Sport 5 HD">
@@ -342,8 +330,8 @@
     <title>Motorsports: Moto3 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251109230000 +0700" stop="20251110000000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>ATP Masters 1000 2025 - Highlights</title>
+<programme start="20251111003000 +0700" stop="20251111010000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251110000000 +0700" stop="20251110023000 +0700" channel="COSMOTE Sport 6 HD">
@@ -390,9 +378,9 @@
     <title>Handball: GWD Minden - MT Melsungen</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251109220000 +0700" stop="20251110000000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>Football: Dundee - Rangers FC (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20251111003000 +0700" stop="20251111010000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Premier Padel Tour 2025 - Highlights</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251110000000 +0700" stop="20251110003000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
@@ -461,6 +449,10 @@
 <programme start="20251110233000 +0700" stop="20251111000000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251111000000 +0700" stop="20251111023000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>Tennis: Nitto ATP Finals 2025 (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20251109230000 +0700" stop="20251110013000 +0700" channel="COSMOTE Sport 8 HD">
     <title>2025 Premier Padel World Cup Pairs (L)</title>
