@@ -667,6 +667,9 @@
 <programme start="20251109000000 +0000" stop="20251109013000 +0000" channel="ANTV.vision">
 <title>ANTV Seru</title>
 </programme>
+<programme start="20251109013000 +0000" stop="20251109030000 +0000" channel="ANTV.vision">
+<title>Jadi Aku Sebentar Saja</title>
+</programme>
 <programme start="20251109030000 +0000" stop="20251109063000 +0000" channel="ANTV.vision">
 <title>Cirkus</title>
 </programme>
@@ -1493,8 +1496,5 @@
 <title>BTV</title>
 </programme>
 <programme start="20251110010000 +0000" stop="20251110013000 +0000" channel="BTV.vision">
-<title>BTV</title>
-</programme>
-<programme start="20251110013000 +0000" stop="20251110021500 +0000" channel="BTV.vision">
 <title>BTV</title>
 </programme>
