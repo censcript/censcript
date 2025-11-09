@@ -110,8 +110,8 @@
     <title>Football: Juventus Football Club - Torino</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251110030000 +0700" stop="20251110033000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Sports Classics: Worldies E17</title>
+<programme start="20251111043000 +0700" stop="20251111064000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Panathinaikos - PAOK</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251110033000 +0700" stop="20251110053000 +0700" channel="COSMOTE Sport 3 HD">
@@ -185,10 +185,6 @@
 <programme start="20251111030000 +0700" stop="20251111050000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Cheltenham Town - Notts County (L)</title>
     <desc>Live: Ya</desc>
-</programme>
-<programme start="20251110030000 +0700" stop="20251110033000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>NBA Specials</title>
-    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251110033000 +0700" stop="20251110063000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Milwaukee Bucks - Houston Rockets (L)</title>
@@ -330,6 +326,10 @@
     <title>WRC</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251111045000 +0700" stop="20251111061000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Grand Prix Show 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251110023000 +0700" stop="20251110050000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Alexander Zverev - Ben Shelton (L)</title>
     <desc>Live: Ya</desc>
@@ -381,10 +381,6 @@
 <programme start="20251111023000 +0700" stop="20251111050000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Jannik Sinner - Felix Auger-Aliassime (L)</title>
     <desc>Live: Ya</desc>
-</programme>
-<programme start="20251110030000 +0700" stop="20251110033000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
-    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251110033000 +0700" stop="20251110053000 +0700" channel="COSMOTE Sport 7 HD">
     <title>Football: SC Braga - Moreirense (L)</title>
