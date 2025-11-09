@@ -553,9 +553,6 @@
 <programme start="20251109000000 +0000" stop="20251109010000 +0000" channel="Trans 7.vision">
 <title>Spotlite</title>
 </programme>
-<programme start="20251109010000 +0000" stop="20251109013000 +0000" channel="Trans 7.vision">
-<title>Selebrita Pagi On The Weekend</title>
-</programme>
 <programme start="20251109013000 +0000" stop="20251109023000 +0000" channel="Trans 7.vision">
 <title>Obrolan Tiap Waktu</title>
 </programme>
@@ -589,9 +586,6 @@
 <programme start="20251109100000 +0000" stop="20251109110000 +0000" channel="Trans 7.vision">
 <title>Selebrita On The Weekend</title>
 </programme>
-<programme start="20251109110000 +0000" stop="20251109140000 +0000" channel="Trans 7.vision">
-<title>MotoGP 2025: Portugal</title>
-</programme>
 <programme start="20251109140000 +0000" stop="20251109143000 +0000" channel="Trans 7.vision">
 <title>Arisan</title>
 </programme>
@@ -600,9 +594,6 @@
 </programme>
 <programme start="20251109153000 +0000" stop="20251109161500 +0000" channel="Trans 7.vision">
 <title>The Police</title>
-</programme>
-<programme start="20251109161500 +0000" stop="20251109174500 +0000" channel="Trans 7.vision">
-<title>Pasukan Garuda: I Leave My...</title>
 </programme>
 <programme start="20251109174500 +0000" stop="20251109184500 +0000" channel="Trans 7.vision">
 <title>Moto3 2025: Portugal</title>
@@ -670,12 +661,6 @@
 <programme start="20251109000000 +0000" stop="20251109013000 +0000" channel="ANTV.vision">
 <title>ANTV Seru</title>
 </programme>
-<programme start="20251109013000 +0000" stop="20251109030000 +0000" channel="ANTV.vision">
-<title>Jadi Aku Sebentar Saja</title>
-</programme>
-<programme start="20251109030000 +0000" stop="20251109063000 +0000" channel="ANTV.vision">
-<title>Cirkus</title>
-</programme>
 <programme start="20251109063000 +0000" stop="20251109080000 +0000" channel="ANTV.vision">
 <title>Cinta Keluarga Pandya</title>
 </programme>
@@ -685,14 +670,8 @@
 <programme start="20251109093000 +0000" stop="20251109110000 +0000" channel="ANTV.vision">
 <title>ANTV Seru</title>
 </programme>
-<programme start="20251109110000 +0000" stop="20251109130000 +0000" channel="ANTV.vision">
-<title>Primitif</title>
-</programme>
 <programme start="20251109130000 +0000" stop="20251109150000 +0000" channel="ANTV.vision">
 <title>Rindu Tak Berujung</title>
-</programme>
-<programme start="20251109150000 +0000" stop="20251109170000 +0000" channel="ANTV.vision">
-<title>Colour Of The Truth</title>
 </programme>
 <programme start="20251109170000 +0000" stop="20251109183000 +0000" channel="ANTV.vision">
 <title>God Of Gamblers 3</title>
@@ -877,17 +856,8 @@
 <programme start="20251109125700 +0000" stop="20251109130000 +0000" channel="TVOne.vision">
 <title>Kabar Terkini</title>
 </programme>
-<programme start="20251109130000 +0000" stop="20251109143000 +0000" channel="TVOne.vision">
-<title>Renungan Jiwa</title>
-</programme>
 <programme start="20251109143000 +0000" stop="20251109153000 +0000" channel="TVOne.vision">
 <title>Kabar Utama (L)</title>
-</programme>
-<programme start="20251109153000 +0000" stop="20251109160000 +0000" channel="TVOne.vision">
-<title>Distrik</title>
-</programme>
-<programme start="20251109160000 +0000" stop="20251109170000 +0000" channel="TVOne.vision">
-<title>Benang Merah</title>
 </programme>
 <programme start="20251109170000 +0000" stop="20251109173000 +0000" channel="TVOne.vision">
 <title>Sport Style</title>
@@ -1496,5 +1466,35 @@
 <title>BTV</title>
 </programme>
 <programme start="20251110003000 +0000" stop="20251110010000 +0000" channel="BTV.vision">
+<title>BTV</title>
+</programme>
+<programme start="20251110010000 +0000" stop="20251110013000 +0000" channel="BTV.vision">
+<title>BTV</title>
+</programme>
+<programme start="20251110013000 +0000" stop="20251110021500 +0000" channel="BTV.vision">
+<title>BTV</title>
+</programme>
+<programme start="20251110021500 +0000" stop="20251110030000 +0000" channel="BTV.vision">
+<title>BTV</title>
+</programme>
+<programme start="20251110030000 +0000" stop="20251110040000 +0000" channel="BTV.vision">
+<title>BTV</title>
+</programme>
+<programme start="20251110040000 +0000" stop="20251110050000 +0000" channel="BTV.vision">
+<title>BTV</title>
+</programme>
+<programme start="20251110050000 +0000" stop="20251110060000 +0000" channel="BTV.vision">
+<title>BTV</title>
+</programme>
+<programme start="20251110060000 +0000" stop="20251110063000 +0000" channel="BTV.vision">
+<title>BTV</title>
+</programme>
+<programme start="20251110063000 +0000" stop="20251110070000 +0000" channel="BTV.vision">
+<title>BTV</title>
+</programme>
+<programme start="20251110070000 +0000" stop="20251110080000 +0000" channel="BTV.vision">
+<title>BTV</title>
+</programme>
+<programme start="20251110080000 +0000" stop="20251110083000 +0000" channel="BTV.vision">
 <title>BTV</title>
 </programme>
