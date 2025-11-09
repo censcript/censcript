@@ -149,7 +149,7 @@
         <title> Hồ sơ công tố-Kiểm sát - Cuộc chiến pháp đình</title>
     </programme>
     <programme start="20251109214500 +0000" stop="20251109215000 +0000" channel="VTV1 HD.mytv">
-        <title> Phim tài liệu nước ngoài</title>
+        <title> Phim tài liệu nước ngoài: Những người đàm phán - Phần 3</title>
     </programme>
     <programme start="20251109215000 +0000" stop="20251109224500 +0000" channel="VTV1 HD.mytv">
         <title> Dám sống - Người giải mã ký ức</title>
