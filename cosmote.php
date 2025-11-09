@@ -134,6 +134,10 @@
     <title>Football: Panetolikos - AEL Novibet</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251110141000 +0700" stop="20251110161000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Lecce - Hellas Verona</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251109130000 +0700" stop="20251109150000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Neom - Al Nassr</title>
     <desc>Live: Tidak</desc>
@@ -274,10 +278,6 @@
     <title>Basketball: Girona - Barcelona</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251109125500 +0700" stop="20251109140000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: Moto2 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251109140000 +0700" stop="20251109150500 +0700" channel="COSMOTE Sport 5 HD">
     <title>Motorsports: MotoGP 2025</title>
     <desc>Live: Tidak</desc>
@@ -366,8 +366,8 @@
     <title>Moto-E World Championship 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251109121500 +0700" stop="20251109140000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Handball: GWD Minden - MT Melsungen</title>
+<programme start="20251110142500 +0700" stop="20251110153000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: Extreme E 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251109140000 +0700" stop="20251109143000 +0700" channel="COSMOTE Sport 6 HD">
@@ -420,14 +420,6 @@
 </programme>
 <programme start="20251110133000 +0700" stop="20251110173000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Nitto ATP Finals 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251109120000 +0700" stop="20251109133500 +0700" channel="COSMOTE Sport 7 HD">
-    <title>WRC 2025 (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20251109133500 +0700" stop="20251109140000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251109140000 +0700" stop="20251109143000 +0700" channel="COSMOTE Sport 7 HD">
