@@ -5542,7 +5542,87 @@
 <programme start="20251110163500 +0000" stop="20251109170500 +0000" channel="Love Nature.mncvision">
     <title>Animal Empires S1, Ep 4</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20251109172500 +0000" stop="20251109182000 +0000" channel="Love Nature HD.mncvision">
+    <title>Airborne S1, Ep 1</title>
+</programme>
+<programme start="20251109182000 +0000" stop="20251109191500 +0000" channel="Love Nature HD.mncvision">
+    <title>Airborne S1, Ep 2</title>
+</programme>
+<programme start="20251109191500 +0000" stop="20251109201000 +0000" channel="Love Nature HD.mncvision">
+    <title>The Enchanted Forests S1, Ep 4</title>
+</programme>
+<programme start="20251109201000 +0000" stop="20251109210500 +0000" channel="Love Nature HD.mncvision">
+    <title>The Enchanted Forests S1, Ep 5</title>
+</programme>
+<programme start="20251109210500 +0000" stop="20251109220000 +0000" channel="Love Nature HD.mncvision">
+    <title>The Enchanted Forests S1, Ep 6</title>
+</programme>
+<programme start="20251109220000 +0000" stop="20251109222500 +0000" channel="Love Nature HD.mncvision">
+    <title>Wild Dogs: Running S1, Ep 5</title>
+</programme>
+<programme start="20251109222500 +0000" stop="20251109232000 +0000" channel="Love Nature HD.mncvision">
+    <title>Coral City S1, Ep 1</title>
+</programme>
+<programme start="20251109232000 +0000" stop="20251110001500 +0000" channel="Love Nature HD.mncvision">
+    <title>Coral City S1, Ep 2</title>
+</programme>
+<programme start="20251110001500 +0000" stop="20251110011000 +0000" channel="Love Nature HD.mncvision">
+    <title>Pride Rules S1, Ep 2</title>
+</programme>
+<programme start="20251110011000 +0000" stop="20251110020500 +0000" channel="Love Nature HD.mncvision">
+    <title>Carpathian Predators S1, Ep 1</title>
+</programme>
+<programme start="20251110020500 +0000" stop="20251110030000 +0000" channel="Love Nature HD.mncvision">
+    <title>Carpathian Predators S1, Ep 2</title>
+</programme>
+<programme start="20251110030000 +0000" stop="20251110035000 +0000" channel="Love Nature HD.mncvision">
+    <title>Into The Wild India S1, Ep 7</title>
+</programme>
+<programme start="20251110035000 +0000" stop="20251110044000 +0000" channel="Love Nature HD.mncvision">
+    <title>Animal Empires S1, Ep 4</title>
+</programme>
+<programme start="20251110044000 +0000" stop="20251110053500 +0000" channel="Love Nature HD.mncvision">
+    <title>Coral City S1, Ep 1</title>
+</programme>
+<programme start="20251110053500 +0000" stop="20251110063000 +0000" channel="Love Nature HD.mncvision">
+    <title>Coral City S1, Ep 2</title>
+</programme>
+<programme start="20251110063000 +0000" stop="20251110072500 +0000" channel="Love Nature HD.mncvision">
+    <title>Airborne S1, Ep 1</title>
+</programme>
+<programme start="20251110072500 +0000" stop="20251110082000 +0000" channel="Love Nature HD.mncvision">
+    <title>Carpathian Predators S1, Ep 1</title>
+</programme>
+<programme start="20251110082000 +0000" stop="20251110091500 +0000" channel="Love Nature HD.mncvision">
+    <title>Carpathian Predators S1, Ep 2</title>
+</programme>
+<programme start="20251110091500 +0000" stop="20251110101000 +0000" channel="Love Nature HD.mncvision">
+    <title>Into The Wild India S1, Ep 7</title>
+</programme>
+<programme start="20251110101000 +0000" stop="20251110110500 +0000" channel="Love Nature HD.mncvision">
+    <title>Animal Empires S1, Ep 4</title>
+</programme>
+<programme start="20251110110500 +0000" stop="20251110120000 +0000" channel="Love Nature HD.mncvision">
+    <title>Coral City S1, Ep 1</title>
+</programme>
+<programme start="20251110120000 +0000" stop="20251110125500 +0000" channel="Love Nature HD.mncvision">
+    <title>Coral City S1, Ep 2</title>
+</programme>
+<programme start="20251110125500 +0000" stop="20251110135000 +0000" channel="Love Nature HD.mncvision">
+    <title>Pride Rules S1, Ep 2</title>
+</programme>
+<programme start="20251110135000 +0000" stop="20251110144500 +0000" channel="Love Nature HD.mncvision">
+    <title>Carpathian Predators S1, Ep 1</title>
+</programme>
+<programme start="20251110144500 +0000" stop="20251110154000 +0000" channel="Love Nature HD.mncvision">
+    <title>Carpathian Predators S1, Ep 2</title>
+</programme>
+<programme start="20251110154000 +0000" stop="20251110163500 +0000" channel="Love Nature HD.mncvision">
+    <title>Into The Wild India S1, Ep 7</title>
+</programme>
+<programme start="20251110163500 +0000" stop="20251109170500 +0000" channel="Love Nature HD.mncvision">
+    <title>Animal Empires S1, Ep 4</title>
+</programme>
 <programme start="20251109174500 +0000" stop="20251109181500 +0000" channel="MDTV.mncvision">
     <title>Merinding</title>
 </programme>
