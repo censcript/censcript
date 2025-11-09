@@ -595,9 +595,6 @@
 <programme start="20251109153000 +0000" stop="20251109161500 +0000" channel="Trans 7.vision">
 <title>The Police</title>
 </programme>
-<programme start="20251109174500 +0000" stop="20251109184500 +0000" channel="Trans 7.vision">
-<title>Moto3 2025: Portugal</title>
-</programme>
 <programme start="20251109184500 +0000" stop="20251109193000 +0000" channel="Trans 7.vision">
 <title>Best Fishing</title>
 </programme>
@@ -672,12 +669,6 @@
 </programme>
 <programme start="20251109130000 +0000" stop="20251109150000 +0000" channel="ANTV.vision">
 <title>Rindu Tak Berujung</title>
-</programme>
-<programme start="20251109170000 +0000" stop="20251109183000 +0000" channel="ANTV.vision">
-<title>God Of Gamblers 3</title>
-</programme>
-<programme start="20251109183000 +0000" stop="20251109203000 +0000" channel="ANTV.vision">
-<title>Sinema Spesial</title>
 </programme>
 <programme start="20251109203000 +0000" stop="20251109220000 +0000" channel="ANTV.vision">
 <title>ANTV</title>
@@ -867,12 +858,6 @@
 </programme>
 <programme start="20251109180000 +0000" stop="20251109193000 +0000" channel="TVOne.vision">
 <title>Kabar Petang</title>
-</programme>
-<programme start="20251109193000 +0000" stop="20251109200000 +0000" channel="TVOne.vision">
-<title>Metropolitan</title>
-</programme>
-<programme start="20251109200000 +0000" stop="20251109203000 +0000" channel="TVOne.vision">
-<title>Berita Utama Kriminal</title>
 </programme>
 <programme start="20251109203000 +0000" stop="20251109210000 +0000" channel="TVOne.vision">
 <title>Kabar Utama</title>
@@ -1497,4 +1482,19 @@
 </programme>
 <programme start="20251110080000 +0000" stop="20251110083000 +0000" channel="BTV.vision">
 <title>BTV</title>
+</programme>
+<programme start="20251110083000 +0000" stop="20251110093000 +0000" channel="BTV.vision">
+<title>BTV</title>
+</programme>
+<programme start="20251110093000 +0000" stop="20251110103000 +0000" channel="BTV.vision">
+<title>BTV</title>
+</programme>
+<programme start="20251110103000 +0000" stop="20251110123000 +0000" channel="BTV.vision">
+<title>BTV</title>
+</programme>
+<programme start="20251108233000 +0000" stop="20251109010500 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251109010500 +0000" stop="20251109025500 +0000" channel="TVRI.vision">
+<title>TVRI</title>
 </programme>
