@@ -2653,12 +2653,6 @@
 <programme start="20251109203000 +0000" stop="20251109230000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>BL: Eintracht Frankfurt - FSV Mainz 05, 10. Spieltag</title>
 </programme>
-<programme start="20251109114000 +0000" stop="20251109120000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
-    <title>Es folgt: Live 2. Bundesliga</title>
-</programme>
-<programme start="20251109120000 +0000" stop="20251109150000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
-    <title>Live 2. BL: Eintracht Braunschweig - VfL Bochum, 12. Spieltag</title>
-</programme>
 <programme start="20251109114000 +0000" stop="20251109120000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Es folgt: Live 2. Bundesliga</title>
 </programme>

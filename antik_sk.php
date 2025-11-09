@@ -109,13 +109,13 @@
   <programme start="20251111225400 +0000" stop="20251112003500 +0000" channel="Jednotka.webtv.sk">
     <title lang="id">Nemé tajomstvá</title>
   </programme>
-  <programme start="20251110210000 +0000" stop="20251110230800 +0000" channel="Dvojka.webtv.sk">
+  <programme start="20251110210000 +0000" stop="20251110230700 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Jeden rok, jedna noc</title>
   </programme>
-  <programme start="20251110230800 +0000" stop="20251110231000 +0000" channel="Dvojka.webtv.sk">
+  <programme start="20251110230700 +0000" stop="20251110230900 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Hymna SR</title>
   </programme>
-  <programme start="20251110231000 +0000" stop="20251111000000 +0000" channel="Dvojka.webtv.sk">
+  <programme start="20251110230900 +0000" stop="20251111000000 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Správy</title>
   </programme>
   <programme start="20251111000000 +0000" stop="20251111000600 +0000" channel="Dvojka.webtv.sk">
