@@ -6481,13 +6481,10 @@
     <programme start="20251108220000 +0000" stop="20251109020000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>IKSAN VICTOR Korea Masters (300) SF Session 2</title>
     </programme>
-    <programme start="20251109020000 +0000" stop="20251109070000 +0000" channel="Hub Sports 1  HD.starhub">
+    <programme start="20251109020000 +0000" stop="20251109080000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>IKSAN VICTOR Korea Masters (300) Finals</title>
     </programme>
-    <programme start="20251109070000 +0000" stop="20251109073000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Spartan Super World Championship Mammoth Highlights</title>
-    </programme>
-    <programme start="20251109073000 +0000" stop="20251109083000 +0000" channel="Hub Sports 1  HD.starhub">
+    <programme start="20251109080000 +0000" stop="20251109083000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>UCI Europe Tour - Cro Race Highlights</title>
     </programme>
     <programme start="20251109083000 +0000" stop="20251109090000 +0000" channel="Hub Sports 1  HD.starhub">
