@@ -1207,37 +1207,34 @@
   <programme start="20251111223500 +0000" stop="20251112004000 +0000" channel="JOJ Plus.webtv.sk">
     <title lang="id">Hriešna hudba</title>
   </programme>
-  <programme start="20251110213000 +0000" stop="20251110232500 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20251110213500 +0000" stop="20251110234500 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Basketbal - Tipos SBL</title>
   </programme>
-  <programme start="20251110232500 +0000" stop="20251111004000 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20251110234500 +0000" stop="20251111011000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Športové lezenie</title>
   </programme>
-  <programme start="20251111004000 +0000" stop="20251111021000 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20251111011000 +0000" stop="20251111031500 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">FIS Skoky na lyžiach</title>
   </programme>
-  <programme start="20251111021000 +0000" stop="20251111032000 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20251111031500 +0000" stop="20251111043000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">FIS Beh na lyžiach</title>
   </programme>
-  <programme start="20251111032000 +0000" stop="20251111043500 +0000" channel="JOJ Šport.webtv.sk">
-    <title lang="id">FIS Beh na lyžiach</title>
-  </programme>
-  <programme start="20251111043500 +0000" stop="20251111061000 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20251111043000 +0000" stop="20251111060500 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Svetový pohár vo vodnom slalome</title>
   </programme>
-  <programme start="20251111061000 +0000" stop="20251111081500 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20251111060500 +0000" stop="20251111081500 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Atletika - Diamantová liga</title>
   </programme>
-  <programme start="20251111081500 +0000" stop="20251111100000 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20251111081500 +0000" stop="20251111095500 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Krasokorčuľovanie ISU Grand Prix</title>
   </programme>
-  <programme start="20251111100000 +0000" stop="20251111114500 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20251111095500 +0000" stop="20251111114500 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Krasokorčuľovanie ISU Grand Prix</title>
   </programme>
-  <programme start="20251111114500 +0000" stop="20251111140000 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20251111114500 +0000" stop="20251111135500 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Volejbal - Niké Extraliga muži</title>
   </programme>
-  <programme start="20251111140000 +0000" stop="20251111155500 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20251111135500 +0000" stop="20251111155500 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Basketbal - Tipos extraliga</title>
   </programme>
   <programme start="20251111155500 +0000" stop="20251111190000 +0000" channel="JOJ Šport.webtv.sk">
@@ -1252,10 +1249,10 @@
   <programme start="20251111223000 +0000" stop="20251112003000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Frisbee</title>
   </programme>
-  <programme start="20251110215000 +0000" stop="20251110230500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20251110215500 +0000" stop="20251110231000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">MS v alpskom lyžovaní 2025</title>
   </programme>
-  <programme start="20251110230500 +0000" stop="20251111004500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20251110231000 +0000" stop="20251111004500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">MS v alpskom lyžovaní 2025</title>
   </programme>
   <programme start="20251111004500 +0000" stop="20251111052500 +0000" channel="JOJ Šport 2.webtv.sk">

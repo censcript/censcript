@@ -110,9 +110,9 @@
     <title>Football: Panathinaikos - PAOK</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251110033000 +0700" stop="20251110053000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: SL Benfica - Casa Pia (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20251111064000 +0700" stop="20251111071000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Sports Classics: Football Countdowns E1</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251110053000 +0700" stop="20251110073000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Kifisia - Olympiacos</title>
@@ -330,8 +330,12 @@
     <title>Grand Prix Show 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251110050000 +0700" stop="20251110053000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Premier Padel Tour 2025 - Highlights</title>
+<programme start="20251111061000 +0700" stop="20251111065500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251111065500 +0700" stop="20251111080000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251110053000 +0700" stop="20251110083000 +0700" channel="COSMOTE Sport 6 HD">
@@ -382,12 +386,8 @@
     <title>Topspin</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251110033000 +0700" stop="20251110053000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>Football: SC Braga - Moreirense (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20251110053000 +0700" stop="20251110060000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
+<programme start="20251111063000 +0700" stop="20251111070000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Premier Padel Tour 2025 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251110060000 +0700" stop="20251110070000 +0700" channel="COSMOTE Sport 7 HD">
