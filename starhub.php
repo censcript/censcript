@@ -3325,9 +3325,6 @@
     <programme start="20251108160000 +0000" stop="20251108190000 +0000" channel="Kalaignar TV.starhub">
         <title>MOVIE - SATHRU (U/A)</title>
     </programme>
-    <programme start="20251108190000 +0000" stop="20251108203000 +0000" channel="Kalaignar TV.starhub">
-        <title>Inthavaara kalakalappu</title>
-    </programme>
     <programme start="20251108203000 +0000" stop="20251108230000 +0000" channel="Kalaignar TV.starhub">
         <title>BREAKFREE MOVIE - KARUPPAM PATTI (U)</title>
     </programme>
@@ -3350,7 +3347,7 @@
         <title>News</title>
     </programme>
     <programme start="20251109023000 +0000" stop="20251109043000 +0000" channel="Kalaignar TV.starhub">
-        <title>MOVIE - IDIOT (U)</title>
+        <title>MOVIE - MALAI MALAI (U)</title>
     </programme>
     <programme start="20251109043000 +0000" stop="20251109053000 +0000" channel="Kalaignar TV.starhub">
         <title>Vaa Thamizha Vaa Season 8</title>
@@ -3365,7 +3362,7 @@
         <title>News</title>
     </programme>
     <programme start="20251109080000 +0000" stop="20251109113000 +0000" channel="Kalaignar TV.starhub">
-        <title>MOVIE - ARANMANAI 3 (U/A)</title>
+        <title>MOVIE - VIDUTHALAI 2 (V/UA)</title>
     </programme>
     <programme start="20251109113000 +0000" stop="20251109120000 +0000" channel="Kalaignar TV.starhub">
         <title>Inthavaara kalakalappu</title>
@@ -3377,7 +3374,7 @@
         <title>Thamizhodu Vilayaadu Season 3</title>
     </programme>
     <programme start="20251109133000 +0000" stop="20251109170000 +0000" channel="Kalaignar TV.starhub">
-        <title>MOVIE - NATPUKKAGA (U)</title>
+        <title>MOVIE - AADHAVAN (U)</title>
     </programme>
     <programme start="20251108160000 +0000" stop="20251108184500 +0000" channel="HITS MOVIES HD.starhub">
         <title>Man on Fire</title>
