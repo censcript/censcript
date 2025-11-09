@@ -2416,13 +2416,13 @@
 <programme start="20251109212500 +0000" stop="20251109230000 +0000" channel="Sky Showcase HD.skyde">
     <title>Pee-Wee privat - Amerikas Kultfigur im Porträt</title>
 </programme>
-<programme start="20251108230000 +0000" stop="20251108233000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20251108230500 +0000" stop="20251108233500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>RIESENrad: Sportgrößen im Waggon 28 (Stephanie Venier)</title>
 </programme>
-<programme start="20251108233000 +0000" stop="20251109013000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20251108233500 +0000" stop="20251109013500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: RZ Pellets WAC - TSV Egger Glas Hartberg, 13. Runde</title>
 </programme>
-<programme start="20251109013000 +0000" stop="20251109020000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20251109013500 +0000" stop="20251109020000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA CL: Magazin</title>
 </programme>
 <programme start="20251109020000 +0000" stop="20251109040000 +0000" channel="Sky Sport Austria 1 HD.skyde">
@@ -2485,17 +2485,17 @@
 <programme start="20251109130000 +0000" stop="20251109132000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Es folgt Fußball: Österreich, Admiral Bundesliga</title>
 </programme>
-<programme start="20251109132000 +0000" stop="20251109154500 +0000" channel="Sky Sport Austria 3 HD.skyde">
+<programme start="20251109132000 +0000" stop="20251109161500 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live Admiral BL: LASK - SCR Altach, 13. Runde</title>
 </programme>
 <programme start="20251109101000 +0000" stop="20251109103000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Es folgt: Live ATP World Tour</title>
 </programme>
 <programme start="20251109103000 +0000" stop="20251109124500 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Live ATP Finals: Doppel 1, 1. Tag in Turin (ITA)</title>
+    <title>Live ATP Finals: K. Krawietz (GER) / T. Puetz (GER) - M. Granollers (ESP) / H. Zeballos (ARG), 1. Tag in Turin (ITA)</title>
 </programme>
 <programme start="20251109124500 +0000" stop="20251109150000 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Live ATP Finals: Einzel 1, 1. Tag in Turin (ITA)</title>
+    <title>Live ATP Finals: C. Alcaraz (ESP) - A. de Minaur (AUS), 1. Tag in Turin (ITA)</title>
 </programme>
 <programme start="20251109150000 +0000" stop="20251109160000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>ATP Finals: Review Turin 2021</title>
@@ -2507,15 +2507,15 @@
     <title>WTA 1000: Review Wuhan</title>
 </programme>
 <programme start="20251109170000 +0000" stop="20251109191000 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Live ATP Finals: Doppel 2, 1. Tag in Turin (ITA)</title>
+    <title>Live ATP Finals: J. Cash (GBR) / L. Glasspool (GBR) - S. Bolelli (ITA) / A. Vavassori (ITA), 1. Tag in Turin (ITA)</title>
 </programme>
-<programme start="20251109191000 +0000" stop="20251109213000 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Live ATP Finals: Einzel 2, 1. Tag in Turin (ITA)</title>
+<programme start="20251109191000 +0000" stop="20251109233000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+    <title>Live ATP Finals: A. Zverev (GER) - B. Shelton (USA), 1. Tag in Turin (ITA)</title>
 </programme>
 <programme start="20251109154000 +0000" stop="20251109160000 +0000" channel="Sky Sport Austria 5 HD.skyde">
     <title>Es folgt: LIVE Premier League</title>
 </programme>
-<programme start="20251109160000 +0000" stop="20251109183000 +0000" channel="Sky Sport Austria 5 HD.skyde">
+<programme start="20251109160000 +0000" stop="20251109190000 +0000" channel="Sky Sport Austria 5 HD.skyde">
     <title>Live PL: Manchester City - FC Liverpool, Match of the Week, 11. Spieltag</title>
 </programme>
 <programme start="20251108234500 +0000" stop="20251109004500 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -2632,7 +2632,7 @@
 <programme start="20251109170000 +0000" stop="20251109183000 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: Sky90 - Die Fußballdebatte</title>
 </programme>
-<programme start="20251109183000 +0000" stop="20251109191500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
+<programme start="20251109183000 +0000" stop="20251109194500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: Highlights XXL: VFB - FCA, 10. Spieltag</title>
 </programme>
 <programme start="20251109114000 +0000" stop="20251109120000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
@@ -2650,25 +2650,25 @@
 <programme start="20251109183000 +0000" stop="20251109203000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>BL: VfB Stuttgart - FC Augsburg, 10. Spieltag</title>
 </programme>
-<programme start="20251109203000 +0000" stop="20251109223000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+<programme start="20251109203000 +0000" stop="20251109230000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>BL: Eintracht Frankfurt - FSV Mainz 05, 10. Spieltag</title>
 </programme>
 <programme start="20251109114000 +0000" stop="20251109120000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Es folgt: Live 2. Bundesliga</title>
 </programme>
-<programme start="20251109120000 +0000" stop="20251109143000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
+<programme start="20251109120000 +0000" stop="20251109150000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live 2. BL: Eintracht Braunschweig - VfL Bochum, 12. Spieltag</title>
 </programme>
 <programme start="20251109114000 +0000" stop="20251109120000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Es folgt: Live 2. Bundesliga</title>
 </programme>
-<programme start="20251109120000 +0000" stop="20251109143000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
+<programme start="20251109120000 +0000" stop="20251109150000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live 2. BL: Holstein Kiel - Fortuna Düsseldorf, 12. Spieltag</title>
 </programme>
 <programme start="20251109114000 +0000" stop="20251109120000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Es folgt: LIVE 2. Liga</title>
 </programme>
-<programme start="20251109120000 +0000" stop="20251109143000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
+<programme start="20251109120000 +0000" stop="20251109150000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Live 2. BL: Multiview, 12. Spieltag, Sonntag</title>
 </programme>
 <programme start="20251108230000 +0000" stop="20251108231500 +0000" channel="Sky Sport F1 HD.skyde">
@@ -3028,26 +3028,26 @@
 <programme start="20251109223000 +0000" stop="20251109230000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: Rewind: Manchester City vs Liverpool Rivalry</title>
 </programme>
-<programme start="20251109003000 +0000" stop="20251109030000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20251109002500 +0000" stop="20251109025500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 250: N. Djokovic (SRB) - L. Musetti (ITA), Hellenic Open in Athen (GRE), Finale</title>
 </programme>
-<programme start="20251109030000 +0000" stop="20251109050000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20251109025500 +0000" stop="20251109045500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP Finals: A. Zverev (GER) - D. Medvedev, Finale 2021 in Turin (ITA)</title>
 </programme>
-<programme start="20251109050000 +0000" stop="20251109070000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20251109045500 +0000" stop="20251109065500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP Finals: K. Krawietz (GER) / T. Puetz (GER) - M. Arevalo (SLV) / M. Pavic (CRO), Doppelfinale 2024 in Turin (ITA)</title>
 </programme>
-<programme start="20251109070000 +0000" stop="20251109093000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20251109065500 +0000" stop="20251109093000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP Finals: J. Sinner (ITA) - T. Fritz (USA), Finale 2024 in Turin (ITA)</title>
 </programme>
 <programme start="20251109093000 +0000" stop="20251109103000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP Finals: Review Turin 2024</title>
 </programme>
 <programme start="20251109103000 +0000" stop="20251109124500 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP Finals: Doppel 1, 1. Tag in Turin (ITA)</title>
+    <title>Live ATP Finals: K. Krawietz (GER) / T. Puetz (GER) - M. Granollers (ESP) / H. Zeballos (ARG), 1. Tag in Turin (ITA)</title>
 </programme>
 <programme start="20251109124500 +0000" stop="20251109150000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP Finals: Einzel 1, 1. Tag in Turin (ITA)</title>
+    <title>Live ATP Finals: C. Alcaraz (ESP) - A. de Minaur (AUS), 1. Tag in Turin (ITA)</title>
 </programme>
 <programme start="20251109150000 +0000" stop="20251109160000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP Finals: Review Turin 2021</title>
@@ -3059,10 +3059,10 @@
     <title>Meine Geschichte: Das Leben von Boris Becker (Teil 2)</title>
 </programme>
 <programme start="20251109170000 +0000" stop="20251109191000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP Finals: Doppel 2, 1. Tag in Turin (ITA)</title>
+    <title>Live ATP Finals: J. Cash (GBR) / L. Glasspool (GBR) - S. Bolelli (ITA) / A. Vavassori (ITA), 1. Tag in Turin (ITA)</title>
 </programme>
 <programme start="20251109191000 +0000" stop="20251109213000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP Finals: Einzel 2, 1. Tag in Turin (ITA)</title>
+    <title>Live ATP Finals: A. Zverev (GER) - B. Shelton (USA), 1. Tag in Turin (ITA)</title>
 </programme>
 <programme start="20251109213000 +0000" stop="20251110000000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA Finals: A. Sabalenka - E. Rybakina (KAZ), Finale 2025 in Riyadh (SAU)</title>
@@ -3095,10 +3095,10 @@
     <title>Live PL: Manchester City - FC Liverpool, Match of the Week, 11. Spieltag</title>
 </programme>
 <programme start="20251109183000 +0000" stop="20251109191000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live ATP Finals: Doppel 2, 1. Tag in Turin (ITA)</title>
+    <title>Live ATP Finals: J. Cash (GBR) / L. Glasspool (GBR) - S. Bolelli (ITA) / A. Vavassori (ITA), 1. Tag in Turin (ITA)</title>
 </programme>
 <programme start="20251109191000 +0000" stop="20251109213000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live ATP Finals: Einzel 2, 1. Tag in Turin (ITA)</title>
+    <title>Live ATP Finals: A. Zverev (GER) - B. Shelton (USA), 1. Tag in Turin (ITA)</title>
 </programme>
 <programme start="20251109213000 +0000" stop="20251109230000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live Golf: World Wide Technology Championship, 4. Tag in Cabo San Lucas (MEX)</title>
@@ -3136,7 +3136,7 @@
 <programme start="20251109133000 +0000" stop="20251109135000 +0000" channel="Sky Sport 6 HD.skyde">
     <title>Es folgt: Live Premier League</title>
 </programme>
-<programme start="20251109135000 +0000" stop="20251109160000 +0000" channel="Sky Sport 6 HD.skyde">
+<programme start="20251109135000 +0000" stop="20251109163000 +0000" channel="Sky Sport 6 HD.skyde">
     <title>Live PL: Crystal Palace - Brighton &amp; Hove Albion, 11. Spieltag</title>
 </programme>
 <programme start="20251109133000 +0000" stop="20251109135000 +0000" channel="Sky Sport 7 HD.skyde">
