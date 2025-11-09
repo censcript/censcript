@@ -2479,7 +2479,7 @@
 <programme start="20251109130000 +0000" stop="20251109132000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt Fußball: Österreich, Admiral Bundesliga</title>
 </programme>
-<programme start="20251109132000 +0000" stop="20251109154500 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20251109132000 +0000" stop="20251109161500 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live Admiral BL: WSG Tirol - SK Rapid, 13. Runde</title>
 </programme>
 <programme start="20251109130000 +0000" stop="20251109132000 +0000" channel="Sky Sport Austria 3 HD.skyde">
@@ -3142,13 +3142,13 @@
 <programme start="20251109133000 +0000" stop="20251109135000 +0000" channel="Sky Sport 7 HD.skyde">
     <title>Es folgt: Live Premier League</title>
 </programme>
-<programme start="20251109135000 +0000" stop="20251109160000 +0000" channel="Sky Sport 7 HD.skyde">
+<programme start="20251109135000 +0000" stop="20251109163000 +0000" channel="Sky Sport 7 HD.skyde">
     <title>Live PL: Nottingham Forest - Leeds United, 11. Spieltag</title>
 </programme>
 <programme start="20251109133000 +0000" stop="20251109135000 +0000" channel="Sky Sport 8 HD.skyde">
     <title>Es folgt: Live Premier League</title>
 </programme>
-<programme start="20251109135000 +0000" stop="20251109160000 +0000" channel="Sky Sport 8 HD.skyde">
+<programme start="20251109135000 +0000" stop="20251109163000 +0000" channel="Sky Sport 8 HD.skyde">
     <title>Live PL: Aston Villa - AFC Bournemouth, 11. Spieltag</title>
 </programme>
 <programme start="20251108232000 +0000" stop="20251109000500 +0000" channel="SYFY HD.skyde">
