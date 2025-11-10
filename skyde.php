@@ -1891,45 +1891,6 @@
 <programme start="20251110212500 +0000" stop="20251110234000 +0000" channel="Sky Cinema Highlights HD.skyde">
     <title>Phantastische Tierwesen und wo sie zu finden sind</title>
 </programme>
-<programme start="20251110002000 +0000" stop="20251110022000 +0000" channel="Sky Cinema Premiere HD.skyde">
-    <title>Alles Fifty Fifty</title>
-</programme>
-<programme start="20251110022000 +0000" stop="20251110035000 +0000" channel="Sky Cinema Premiere HD.skyde">
-    <title>Home Sweet Home - Wo das Böse wohnt</title>
-</programme>
-<programme start="20251110035000 +0000" stop="20251110055000 +0000" channel="Sky Cinema Premiere HD.skyde">
-    <title>White Bird</title>
-</programme>
-<programme start="20251110055000 +0000" stop="20251110072000 +0000" channel="Sky Cinema Premiere HD.skyde">
-    <title>The Woman in the Yard</title>
-</programme>
-<programme start="20251110072000 +0000" stop="20251110090000 +0000" channel="Sky Cinema Premiere HD.skyde">
-    <title>The Ritual</title>
-</programme>
-<programme start="20251110090000 +0000" stop="20251110111500 +0000" channel="Sky Cinema Premiere HD.skyde">
-    <title>Nosferatu - Der Untote</title>
-</programme>
-<programme start="20251110111500 +0000" stop="20251110130500 +0000" channel="Sky Cinema Premiere HD.skyde">
-    <title>Final Destination 6: Bloodlines</title>
-</programme>
-<programme start="20251110130500 +0000" stop="20251110151000 +0000" channel="Sky Cinema Premiere HD.skyde">
-    <title>White Bird</title>
-</programme>
-<programme start="20251110151000 +0000" stop="20251110173500 +0000" channel="Sky Cinema Premiere HD.skyde">
-    <title>Gladiator II</title>
-</programme>
-<programme start="20251110173500 +0000" stop="20251110191500 +0000" channel="Sky Cinema Premiere HD.skyde">
-    <title>Drop - Tödliches Date</title>
-</programme>
-<programme start="20251110191500 +0000" stop="20251110204500 +0000" channel="Sky Cinema Premiere HD.skyde">
-    <title>Y2K</title>
-</programme>
-<programme start="20251110204500 +0000" stop="20251110221500 +0000" channel="Sky Cinema Premiere HD.skyde">
-    <title>The Woman in the Yard</title>
-</programme>
-<programme start="20251110221500 +0000" stop="20251111003000 +0000" channel="Sky Cinema Premiere HD.skyde">
-    <title>Nosferatu - Der Untote</title>
-</programme>
 <programme start="20251109232000 +0000" stop="20251110000500 +0000" channel="Sky Crime HD.skyde">
     <title>Murder by Medic - Tödliche Behandlung</title>
 </programme>
@@ -2373,6 +2334,105 @@
 </programme>
 <programme start="20251110221500 +0000" stop="20251110230000 +0000" channel="Sky One HD.skyde">
     <title>Navy CIS</title>
+</programme>
+<programme start="20251109233500 +0000" stop="20251110001500 +0000" channel="Sky Replay HD.skyde">
+    <title>S.W.A.T.</title>
+</programme>
+<programme start="20251110001500 +0000" stop="20251110010000 +0000" channel="Sky Replay HD.skyde">
+    <title>S.W.A.T.</title>
+</programme>
+<programme start="20251110010000 +0000" stop="20251110014500 +0000" channel="Sky Replay HD.skyde">
+    <title>S.W.A.T.</title>
+</programme>
+<programme start="20251110014500 +0000" stop="20251110022500 +0000" channel="Sky Replay HD.skyde">
+    <title>S.W.A.T.</title>
+</programme>
+<programme start="20251110022500 +0000" stop="20251110031000 +0000" channel="Sky Replay HD.skyde">
+    <title>S.W.A.T.</title>
+</programme>
+<programme start="20251110031000 +0000" stop="20251110035500 +0000" channel="Sky Replay HD.skyde">
+    <title>S.W.A.T.</title>
+</programme>
+<programme start="20251110035500 +0000" stop="20251110044000 +0000" channel="Sky Replay HD.skyde">
+    <title>S.W.A.T.</title>
+</programme>
+<programme start="20251110044000 +0000" stop="20251110052500 +0000" channel="Sky Replay HD.skyde">
+    <title>S.W.A.T.</title>
+</programme>
+<programme start="20251110052500 +0000" stop="20251110061000 +0000" channel="Sky Replay HD.skyde">
+    <title>S.W.A.T.</title>
+</programme>
+<programme start="20251110061000 +0000" stop="20251110065000 +0000" channel="Sky Replay HD.skyde">
+    <title>S.W.A.T.</title>
+</programme>
+<programme start="20251110065000 +0000" stop="20251110073500 +0000" channel="Sky Replay HD.skyde">
+    <title>S.W.A.T.</title>
+</programme>
+<programme start="20251110073500 +0000" stop="20251110082000 +0000" channel="Sky Replay HD.skyde">
+    <title>S.W.A.T.</title>
+</programme>
+<programme start="20251110082000 +0000" stop="20251110090000 +0000" channel="Sky Replay HD.skyde">
+    <title>S.W.A.T.</title>
+</programme>
+<programme start="20251110090000 +0000" stop="20251110094500 +0000" channel="Sky Replay HD.skyde">
+    <title>S.W.A.T.</title>
+</programme>
+<programme start="20251110094500 +0000" stop="20251110103000 +0000" channel="Sky Replay HD.skyde">
+    <title>S.W.A.T.</title>
+</programme>
+<programme start="20251110103000 +0000" stop="20251110111500 +0000" channel="Sky Replay HD.skyde">
+    <title>S.W.A.T.</title>
+</programme>
+<programme start="20251110111500 +0000" stop="20251110120000 +0000" channel="Sky Replay HD.skyde">
+    <title>S.W.A.T.</title>
+</programme>
+<programme start="20251110120000 +0000" stop="20251110124500 +0000" channel="Sky Replay HD.skyde">
+    <title>S.W.A.T.</title>
+</programme>
+<programme start="20251110124500 +0000" stop="20251110133000 +0000" channel="Sky Replay HD.skyde">
+    <title>S.W.A.T.</title>
+</programme>
+<programme start="20251110133000 +0000" stop="20251110141000 +0000" channel="Sky Replay HD.skyde">
+    <title>S.W.A.T.</title>
+</programme>
+<programme start="20251110141000 +0000" stop="20251110145500 +0000" channel="Sky Replay HD.skyde">
+    <title>S.W.A.T.</title>
+</programme>
+<programme start="20251110145500 +0000" stop="20251110154000 +0000" channel="Sky Replay HD.skyde">
+    <title>S.W.A.T.</title>
+</programme>
+<programme start="20251110154000 +0000" stop="20251110162000 +0000" channel="Sky Replay HD.skyde">
+    <title>S.W.A.T.</title>
+</programme>
+<programme start="20251110162000 +0000" stop="20251110170500 +0000" channel="Sky Replay HD.skyde">
+    <title>S.W.A.T.</title>
+</programme>
+<programme start="20251110170500 +0000" stop="20251110174500 +0000" channel="Sky Replay HD.skyde">
+    <title>S.W.A.T.</title>
+</programme>
+<programme start="20251110174500 +0000" stop="20251110183000 +0000" channel="Sky Replay HD.skyde">
+    <title>S.W.A.T.</title>
+</programme>
+<programme start="20251110183000 +0000" stop="20251110191500 +0000" channel="Sky Replay HD.skyde">
+    <title>S.W.A.T.</title>
+</programme>
+<programme start="20251110191500 +0000" stop="20251110195500 +0000" channel="Sky Replay HD.skyde">
+    <title>S.W.A.T.</title>
+</programme>
+<programme start="20251110195500 +0000" stop="20251110204000 +0000" channel="Sky Replay HD.skyde">
+    <title>S.W.A.T.</title>
+</programme>
+<programme start="20251110204000 +0000" stop="20251110212000 +0000" channel="Sky Replay HD.skyde">
+    <title>S.W.A.T.</title>
+</programme>
+<programme start="20251110212000 +0000" stop="20251110220500 +0000" channel="Sky Replay HD.skyde">
+    <title>S.W.A.T.</title>
+</programme>
+<programme start="20251110220500 +0000" stop="20251110225000 +0000" channel="Sky Replay HD.skyde">
+    <title>S.W.A.T.</title>
+</programme>
+<programme start="20251110225000 +0000" stop="20251110233500 +0000" channel="Sky Replay HD.skyde">
+    <title>S.W.A.T.</title>
 </programme>
 <programme start="20251109230000 +0000" stop="20251110004000 +0000" channel="Sky Showcase HD.skyde">
     <title>Pee-Wee privat - Amerikas Kultfigur im Porträt</title>
@@ -3150,6 +3210,93 @@
 </programme>
 <programme start="20251110080000 +0000" stop="20251110081500 +0000" channel="Sky Sport UHD.skyde">
     <title>Info: UHD</title>
+</programme>
+<programme start="20251109234000 +0000" stop="20251110002500 +0000" channel="SYFY HD.skyde">
+    <title>Resident Alien</title>
+</programme>
+<programme start="20251110002500 +0000" stop="20251110011000 +0000" channel="SYFY HD.skyde">
+    <title>Resident Alien</title>
+</programme>
+<programme start="20251110011000 +0000" stop="20251110011500 +0000" channel="SYFY HD.skyde">
+    <title>Sci Xpert - Leschs Universum</title>
+</programme>
+<programme start="20251110011500 +0000" stop="20251110020000 +0000" channel="SYFY HD.skyde">
+    <title>Stargate Universe</title>
+</programme>
+<programme start="20251110020000 +0000" stop="20251110024500 +0000" channel="SYFY HD.skyde">
+    <title>Stargate Universe</title>
+</programme>
+<programme start="20251110024500 +0000" stop="20251110033000 +0000" channel="SYFY HD.skyde">
+    <title>Stargate Universe</title>
+</programme>
+<programme start="20251110033000 +0000" stop="20251110041500 +0000" channel="SYFY HD.skyde">
+    <title>Stargate Universe</title>
+</programme>
+<programme start="20251110041500 +0000" stop="20251110050000 +0000" channel="SYFY HD.skyde">
+    <title>Stargate Universe</title>
+</programme>
+<programme start="20251110050000 +0000" stop="20251110054500 +0000" channel="SYFY HD.skyde">
+    <title>Star Trek: Discovery</title>
+</programme>
+<programme start="20251110054500 +0000" stop="20251110063500 +0000" channel="SYFY HD.skyde">
+    <title>Star Trek: Discovery</title>
+</programme>
+<programme start="20251110063500 +0000" stop="20251110071500 +0000" channel="SYFY HD.skyde">
+    <title>Star Trek: Discovery</title>
+</programme>
+<programme start="20251110071500 +0000" stop="20251110080500 +0000" channel="SYFY HD.skyde">
+    <title>Star Trek: Discovery</title>
+</programme>
+<programme start="20251110080500 +0000" stop="20251110085500 +0000" channel="SYFY HD.skyde">
+    <title>Star Trek: Discovery</title>
+</programme>
+<programme start="20251110085500 +0000" stop="20251110094500 +0000" channel="SYFY HD.skyde">
+    <title>Stargate: Atlantis</title>
+</programme>
+<programme start="20251110094500 +0000" stop="20251110103500 +0000" channel="SYFY HD.skyde">
+    <title>Stargate: Atlantis</title>
+</programme>
+<programme start="20251110103500 +0000" stop="20251110112000 +0000" channel="SYFY HD.skyde">
+    <title>Stargate: Atlantis</title>
+</programme>
+<programme start="20251110112000 +0000" stop="20251110121000 +0000" channel="SYFY HD.skyde">
+    <title>Stargate SG-1</title>
+</programme>
+<programme start="20251110121000 +0000" stop="20251110125500 +0000" channel="SYFY HD.skyde">
+    <title>Stargate SG-1</title>
+</programme>
+<programme start="20251110125500 +0000" stop="20251110134000 +0000" channel="SYFY HD.skyde">
+    <title>Stargate SG-1</title>
+</programme>
+<programme start="20251110134000 +0000" stop="20251110143000 +0000" channel="SYFY HD.skyde">
+    <title>Resident Alien</title>
+</programme>
+<programme start="20251110143000 +0000" stop="20251110151500 +0000" channel="SYFY HD.skyde">
+    <title>Resident Alien</title>
+</programme>
+<programme start="20251110151500 +0000" stop="20251110160000 +0000" channel="SYFY HD.skyde">
+    <title>Stargate Universe</title>
+</programme>
+<programme start="20251110160000 +0000" stop="20251110165000 +0000" channel="SYFY HD.skyde">
+    <title>Stargate Universe</title>
+</programme>
+<programme start="20251110165000 +0000" stop="20251110174000 +0000" channel="SYFY HD.skyde">
+    <title>Stargate: Atlantis</title>
+</programme>
+<programme start="20251110174000 +0000" stop="20251110182500 +0000" channel="SYFY HD.skyde">
+    <title>Stargate: Atlantis</title>
+</programme>
+<programme start="20251110182500 +0000" stop="20251110191500 +0000" channel="SYFY HD.skyde">
+    <title>Stargate: Atlantis</title>
+</programme>
+<programme start="20251110191500 +0000" stop="20251110214500 +0000" channel="SYFY HD.skyde">
+    <title>Armageddon - Das jüngste Gericht</title>
+</programme>
+<programme start="20251110214500 +0000" stop="20251110223000 +0000" channel="SYFY HD.skyde">
+    <title>Stargate SG-1</title>
+</programme>
+<programme start="20251110223000 +0000" stop="20251110232000 +0000" channel="SYFY HD.skyde">
+    <title>Stargate SG-1</title>
 </programme>
 <programme start="20251109233000 +0000" stop="20251110005500 +0000" channel="Universal TV HD.skyde">
     <title>Das Geheimnis des Weihnachtsrings</title>
