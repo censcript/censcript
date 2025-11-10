@@ -1,11 +1,3 @@
-<programme start="20251110070000 +0700" stop="20251110094500 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Sportshow</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251110094500 +0700" stop="20251110100000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Sports Highlights</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251110100000 +0700" stop="20251110110000 +0700" channel="COSMOTE Sport 1 HD">
     <title>UEFA Champions League Highlights 2025-26</title>
     <desc>Live: Tidak</desc>
@@ -56,18 +48,6 @@
 </programme>
 <programme start="20251111090000 +0700" stop="20251111110000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Club Atletico de Madrid - Union Saint-Gilloise</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251110070000 +0700" stop="20251110091000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: OFI - AEK</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251110091000 +0700" stop="20251110094000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Sports Classics: My Sporting Moment</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251110094000 +0700" stop="20251110100000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Sports Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251110100000 +0700" stop="20251110120000 +0700" channel="COSMOTE Sport 2 HD">
@@ -124,6 +104,10 @@
 </programme>
 <programme start="20251111080000 +0700" stop="20251111100000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Pisa - Cremonese</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251111100000 +0700" stop="20251111120000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Como - Cagliari</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251110083000 +0700" stop="20251110103000 +0700" channel="COSMOTE Sport 3 HD">
@@ -250,10 +234,6 @@
     <title>Basketball: Dallas Mavericks - Milwaukee Bucks (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251110082500 +0700" stop="20251110100000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251110100000 +0700" stop="20251110110000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Highlights: 2025 Extreme H</title>
     <desc>Live: Tidak</desc>
@@ -344,6 +324,10 @@
 </programme>
 <programme start="20251111093000 +0700" stop="20251111100000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Extreme E - Highlights 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251111100000 +0700" stop="20251111110000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251110083000 +0700" stop="20251110110000 +0700" channel="COSMOTE Sport 6 HD">
