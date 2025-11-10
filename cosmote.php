@@ -110,6 +110,10 @@
     <title>Football: Panetolikos - AEL Novibet</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251112063000 +0700" stop="20251112081000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Documentary</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251111050000 +0700" stop="20251111070000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Dundee - Rangers FC</title>
     <desc>Live: Tidak</desc>
@@ -234,6 +238,10 @@
     <title>Basketball: Karditsa - Oostende</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251112065000 +0700" stop="20251112074500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>NBA Specials: Basketball Stories</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251111045000 +0700" stop="20251111061000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Grand Prix Show 2025</title>
     <desc>Live: Tidak</desc>
@@ -328,6 +336,10 @@
 </programme>
 <programme start="20251112042000 +0700" stop="20251112060000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Motorsports: MotoGP 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251112060000 +0700" stop="20251112072000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: Moto3 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251111050000 +0700" stop="20251111063000 +0700" channel="COSMOTE Sport 6 HD">
