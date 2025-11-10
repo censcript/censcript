@@ -6167,7 +6167,7 @@
     <title>Bucin (Bursa Music Indonesia)</title>
 </programme>
 <programme start="20251110140000 +0000" stop="20251110153000 +0000" channel="Music TV.mncvision">
-    <title>Konser Pahlawan</title>
+    <title>Konser Gelora Surabaya</title>
 </programme>
 <programme start="20251110153000 +0000" stop="20251110163000 +0000" channel="Music TV.mncvision">
     <title>FWB Spc. Hari Pahlawan</title>
@@ -6230,7 +6230,7 @@
     <title>Bucin (Bursa Music Indonesia)</title>
 </programme>
 <programme start="20251110140000 +0000" stop="20251110153000 +0000" channel="Music TV HD.mncvision">
-    <title>Konser Pahlawan</title>
+    <title>Konser Gelora Surabaya</title>
 </programme>
 <programme start="20251110153000 +0000" stop="20251110163000 +0000" channel="Music TV HD.mncvision">
     <title>FWB Spc. Hari Pahlawan</title>
