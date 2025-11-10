@@ -110,8 +110,8 @@
     <title>Football: Bologna - SSC Napoli</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251110204500 +0700" stop="20251110211500 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Copa Sudamericana 2025 - Highlights</title>
+<programme start="20251111222000 +0700" stop="20251112002000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Parma - AC Milan</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251110211500 +0700" stop="20251111003000 +0700" channel="COSMOTE Sport 3 HD">
@@ -174,8 +174,8 @@
     <title>Football: Cheltenham Town - Notts County</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251110194000 +0700" stop="20251110214000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Besiktas - Anadolu Efes</title>
+<programme start="20251111222000 +0700" stop="20251112002000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Al Najma - Al Hilal</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251110214000 +0700" stop="20251110235000 +0700" channel="COSMOTE Sport 4 HD">
@@ -230,8 +230,16 @@
     <title>Basketball: Promitheas - Legia Warszawa</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251110201000 +0700" stop="20251110213000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: Moto2 2025</title>
+<programme start="20251111221000 +0700" stop="20251111222500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Sports Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251111222500 +0700" stop="20251111225500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>NBA Specials</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251111225500 +0700" stop="20251111233000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>NBA Action 2025-26 E3503</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251110213000 +0700" stop="20251110231000 +0700" channel="COSMOTE Sport 5 HD">
@@ -330,6 +338,10 @@
     <title>WRC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251111224500 +0700" stop="20251111233500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251110200000 +0700" stop="20251110223000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Lorenzo Musetti - Taylor Fritz (L)</title>
     <desc>Live: Ya</desc>
@@ -385,6 +397,10 @@
 <programme start="20251111200000 +0700" stop="20251111223000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Nitto ATP Finals 2025 (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20251111223000 +0700" stop="20251111230000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Watersports: Inside Sailing 2025 E10</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251110210000 +0700" stop="20251110230000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
