@@ -5194,35 +5194,35 @@
     <programme start="20251110153500 +0000" stop="20251110165000 +0000" channel="KBS World HD.starhub">
         <title>The Merchant : Gaekju 2015</title>
     </programme>
-    <programme start="20251109160000 +0000" stop="20251109161500 +0000" channel="TestChannel 996.starhub">
+    <programme start="20251109160000 +0000" stop="20251109163000 +0000" channel="TestChannel 996.starhub">
         <title>News Treasury 2024</title>
     </programme>
-    <programme start="20251109161500 +0000" stop="20251109170500 +0000" channel="TestChannel 996.starhub">
-        <title>Destined</title>
+    <programme start="20251109163000 +0000" stop="20251109173000 +0000" channel="TestChannel 996.starhub">
+        <title>Dead Ringer</title>
     </programme>
-    <programme start="20251109170500 +0000" stop="20251109180000 +0000" channel="TestChannel 996.starhub">
-        <title>Destined</title>
+    <programme start="20251109173000 +0000" stop="20251109193000 +0000" channel="TestChannel 996.starhub">
+        <title>Running Out Of Time</title>
     </programme>
-    <programme start="20251109180000 +0000" stop="20251109190000 +0000" channel="TestChannel 996.starhub">
-        <title>The Long River</title>
+    <programme start="20251109193000 +0000" stop="20251109200000 +0000" channel="TestChannel 996.starhub">
+        <title>Tokyo Unlock (Sr.2)</title>
     </programme>
-    <programme start="20251109190000 +0000" stop="20251109195000 +0000" channel="TestChannel 996.starhub">
-        <title>Always Home</title>
+    <programme start="20251109200000 +0000" stop="20251109203000 +0000" channel="TestChannel 996.starhub">
+        <title>Scoop 2025</title>
     </programme>
-    <programme start="20251109195000 +0000" stop="20251109204500 +0000" channel="TestChannel 996.starhub">
-        <title>Always Home</title>
+    <programme start="20251109203000 +0000" stop="20251109210000 +0000" channel="TestChannel 996.starhub">
+        <title>Roadside Station Guide XIII</title>
     </programme>
-    <programme start="20251109204500 +0000" stop="20251109220000 +0000" channel="TestChannel 996.starhub">
-        <title>Family By Choice</title>
+    <programme start="20251109210000 +0000" stop="20251109220000 +0000" channel="TestChannel 996.starhub">
+        <title>Cantopop At 50</title>
     </programme>
-    <programme start="20251109220000 +0000" stop="20251109231500 +0000" channel="TestChannel 996.starhub">
-        <title>Bad and Crazy</title>
+    <programme start="20251109220000 +0000" stop="20251109223000 +0000" channel="TestChannel 996.starhub">
+        <title>Finance Magazine 2025</title>
+    </programme>
+    <programme start="20251109223000 +0000" stop="20251109230000 +0000" channel="TestChannel 996.starhub">
+        <title>Scoop 2025</title>
     </programme>
     <programme start="20251109230000 +0000" stop="20251110000000 +0000" channel="TestChannel 996.starhub">
         <title>Good Morning Hong Kong and Global View</title>
-    </programme>
-    <programme start="20251109231500 +0000" stop="20251109235000 +0000" channel="TestChannel 996.starhub">
-        <title>Vengeance of the Bride</title>
     </programme>
     <programme start="20251110000000 +0000" stop="20251110010000 +0000" channel="TestChannel 996.starhub">
         <title>Dead Ringer</title>

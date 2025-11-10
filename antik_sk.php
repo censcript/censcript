@@ -2815,8 +2815,8 @@
   <programme start="20251112220000 +0000" stop="20251112230000 +0000" channel="PREMIUM.webtv.sk">
     <title lang="id">PREMIUM VEČERKA</title>
   </programme>
-  <programme start="20251111191500 +0000" stop="20251112050000 +0000" channel="Šláger Originál.webtv.sk">
-    <title lang="id">VEČERNÍ POŘAD</title>
+  <programme start="20251111230000 +0000" stop="20251112050000 +0000" channel="Šláger Originál.webtv.sk">
+    <title lang="id">ŠLÁGR MIŠMAŠ</title>
   </programme>
   <programme start="20251112050000 +0000" stop="20251112060000 +0000" channel="Šláger Originál.webtv.sk">
     <title lang="id">VSTÁVÁME S DECHOVKOU</title>
@@ -2839,26 +2839,50 @@
   <programme start="20251112163000 +0000" stop="20251112191500 +0000" channel="Šláger Originál.webtv.sk">
     <title lang="id">PODVEČERNÍ ZÁBAVA</title>
   </programme>
-  <programme start="20251112191500 +0000" stop="20251113050000 +0000" channel="Šláger Originál.webtv.sk">
+  <programme start="20251112191500 +0000" stop="20251112230000 +0000" channel="Šláger Originál.webtv.sk">
     <title lang="id">VEČERNÍ POŘAD</title>
   </programme>
-  <programme start="20251111230000 +0000" stop="20251112070000 +0000" channel="Šláger Muzika.webtv.sk">
+  <programme start="20251111230000 +0000" stop="20251112050000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">LIDOVÝ ŠLÁGR MIŠMAŠ</title>
   </programme>
-  <programme start="20251112070000 +0000" stop="20251112110000 +0000" channel="Šláger Muzika.webtv.sk">
-    <title lang="id">DOPOLEDNÍ DECHOVKA</title>
+  <programme start="20251112050000 +0000" stop="20251112060000 +0000" channel="Šláger Muzika.webtv.sk">
+    <title lang="id">RÁNO S MUZIKOU</title>
   </programme>
-  <programme start="20251112110000 +0000" stop="20251112150000 +0000" channel="Šláger Muzika.webtv.sk">
-    <title lang="id">POLEDNÍ DECHOVKA</title>
+  <programme start="20251112060000 +0000" stop="20251112070000 +0000" channel="Šláger Muzika.webtv.sk">
+    <title lang="id">KRÁSNÝ DEN S MUZIKOU</title>
   </programme>
-  <programme start="20251112150000 +0000" stop="20251112170000 +0000" channel="Šláger Muzika.webtv.sk">
+  <programme start="20251112070000 +0000" stop="20251112080000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">Z DECHOVKY DO DECHOVKY</title>
+  </programme>
+  <programme start="20251112080000 +0000" stop="20251112084000 +0000" channel="Šláger Muzika.webtv.sk">
+    <title lang="id">Z PÍSNIČKY DO PÍSNIČKY</title>
+  </programme>
+  <programme start="20251112090000 +0000" stop="20251112120000 +0000" channel="Šláger Muzika.webtv.sk">
+    <title lang="id">Z DECHOVKY DO DECHOVKY</title>
+  </programme>
+  <programme start="20251112120000 +0000" stop="20251112140000 +0000" channel="Šláger Muzika.webtv.sk">
+    <title lang="id">ODPOLEDNE S PÍSNIČKOU</title>
+  </programme>
+  <programme start="20251112140000 +0000" stop="20251112150000 +0000" channel="Šláger Muzika.webtv.sk">
+    <title lang="id">Z PÍSNIČKY DO PÍSNIČKY</title>
+  </programme>
+  <programme start="20251112150000 +0000" stop="20251112160000 +0000" channel="Šláger Muzika.webtv.sk">
+    <title lang="id">Z DECHOVKY DO DECHOVKY</title>
+  </programme>
+  <programme start="20251112160000 +0000" stop="20251112170000 +0000" channel="Šláger Muzika.webtv.sk">
+    <title lang="id">SEDMKRÁT Z KOMPLETU</title>
   </programme>
   <programme start="20251112170000 +0000" stop="20251112180000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">PÍSNIČKY NA PŘÁNÍ</title>
   </programme>
-  <programme start="20251112180000 +0000" stop="20251112210000 +0000" channel="Šláger Muzika.webtv.sk">
-    <title lang="id">VEČERNÍ ZÁBAVA NA DVOJCE</title>
+  <programme start="20251112180000 +0000" stop="20251112190000 +0000" channel="Šláger Muzika.webtv.sk">
+    <title lang="id">ČAS NA DECHOVKU</title>
+  </programme>
+  <programme start="20251112192000 +0000" stop="20251112203000 +0000" channel="Šláger Muzika.webtv.sk">
+    <title lang="id">NEJŽÁDANĚJŠÍ PÍSNIČKY</title>
+  </programme>
+  <programme start="20251112203000 +0000" stop="20251112210000 +0000" channel="Šláger Muzika.webtv.sk">
+    <title lang="id">HARMONIKY</title>
   </programme>
   <programme start="20251112210000 +0000" stop="20251112230000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">Z DECHOVKY DO DECHOVKY</title>
@@ -5357,7 +5381,7 @@
     <title lang="id">Televizní nákupy</title>
   </programme>
   <programme start="20251112113000 +0000" stop="20251112114500 +0000" channel="Sport 2.webtv.sk">
-    <title lang="id">Fotbal, Made in Italy, Hakan Çalhano?lu</title>
+    <title lang="id">Fotbal, Made in Italy, Hakan Çalhanoglu</title>
   </programme>
   <programme start="20251112114500 +0000" stop="20251112153000 +0000" channel="Sport 2.webtv.sk">
     <title lang="id">Šipky</title>
@@ -14842,14 +14866,14 @@
   <programme start="20251112105500 +0000" stop="20251112110500 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Evanjelium na dnes</title>
   </programme>
-  <programme start="20251112110500 +0000" stop="20251112112500 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Sobranský magazín</title>
-  </programme>
-  <programme start="20251112112500 +0000" stop="20251112114100 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20251112110500 +0000" stop="20251112111700 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Gréckokatolícky magazín</title>
   </programme>
-  <programme start="20251112114100 +0000" stop="20251112115500 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Hutorime i bisidujeme - Jenkovce</title>
+  <programme start="20251112111700 +0000" stop="20251112111900 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Litmanovská Vizionárka Iveta: Slovami sa nedá vyjadriť, aká je Panna Mária</title>
+  </programme>
+  <programme start="20251112111900 +0000" stop="20251112115500 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Zemplínska šírava - Príbeh vody I</title>
   </programme>
   <programme start="20251112115500 +0000" stop="20251112122600 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Michalovské správy 6.11.2025</title>
@@ -14857,17 +14881,20 @@
   <programme start="20251112122600 +0000" stop="20251112123000 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Litmanovská Vizionárka Iveta: Slovami sa nedá vyjadriť, aká je Panna Mária</title>
   </programme>
-  <programme start="20251112123000 +0000" stop="20251112130000 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20251112123000 +0000" stop="20251112125800 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Živý prenos - Kňazský seminár Prešov - 6. hodinka</title>
   </programme>
-  <programme start="20251112130000 +0000" stop="20251112134600 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20251112125800 +0000" stop="20251112130000 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Charakterové minútky</title>
+  </programme>
+  <programme start="20251112130000 +0000" stop="20251112134500 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Moravančan ženy</title>
   </programme>
-  <programme start="20251112134600 +0000" stop="20251112135100 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Litmanovská Vizionárka Iveta: Slovami sa nedá vyjadriť, aká je Panna Mária</title>
+  <programme start="20251112134500 +0000" stop="20251112135600 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Sobranský magazín</title>
   </programme>
-  <programme start="20251112135100 +0000" stop="20251112140000 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Slovo - Ako zbaviť dom od zlých duchov</title>
+  <programme start="20251112135600 +0000" stop="20251112140000 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Litmanovská Vizionárka Iveta: Slovami sa nedá vyjadriť, aká je Panna Mária</title>
   </programme>
   <programme start="20251112140000 +0000" stop="20251112143500 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Živý prenos - Litmanová - Korunka k Božiemu milosrdenstvu</title>
