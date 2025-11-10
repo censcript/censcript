@@ -4198,7 +4198,10 @@
     <programme start="20251110040000 +0000" stop="20251110100000 +0000" channel="Hub Sports 3 HD.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20251110100000 +0000" stop="20251110130000 +0000" channel="Hub Sports 3 HD.starhub">
+    <programme start="20251110100000 +0000" stop="20251110123000 +0000" channel="Hub Sports 3 HD.starhub">
+        <title>TOTO Japan Classic Round 3</title>
+    </programme>
+    <programme start="20251110123000 +0000" stop="20251110130000 +0000" channel="Hub Sports 3 HD.starhub">
         <title>TOTO Japan Classic Round 4</title>
     </programme>
     <programme start="20251110130000 +0000" stop="20251110160000 +0000" channel="Hub Sports 3 HD.starhub">
@@ -7019,7 +7022,7 @@
         <title>NHK Newsline</title>
     </programme>
     <programme start="20251110001000 +0000" stop="20251110001500 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>Chatroom Japan</title>
+        <title>Education Chance Opens the World</title>
     </programme>
     <programme start="20251110001500 +0000" stop="20251110002500 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>Impacts: Climates Change the World</title>
@@ -7918,10 +7921,10 @@
     <programme start="20251109234000 +0000" stop="20251110013000 +0000" channel="Asianet Movies.starhub">
         <title>Vanaprastham</title>
     </programme>
-    <programme start="20251110013000 +0000" stop="20251110043000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251110013000 +0000" stop="20251110044000 +0000" channel="Asianet Movies.starhub">
         <title>The King &amp; The Commissioner</title>
     </programme>
-    <programme start="20251110043000 +0000" stop="20251110073000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251110044000 +0000" stop="20251110073000 +0000" channel="Asianet Movies.starhub">
         <title>Oru Yamandan Premakadha</title>
     </programme>
     <programme start="20251110073000 +0000" stop="20251110103000 +0000" channel="Asianet Movies.starhub">

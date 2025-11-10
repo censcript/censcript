@@ -2603,10 +2603,10 @@
     <title>Talk &amp; Tore: Fußball-Talk</title>
 </programme>
 <programme start="20251110103000 +0000" stop="20251110124500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live ATP Finals: Doppel 1, 2. Tag in Turin (ITA)</title>
+    <title>Live ATP Finals: M. Arevalo (ESA) / M. Pavic (CRO) - J. Salisbury (GBR) / N. Skupski (GBR), 2. Tag in Turin (ITA)</title>
 </programme>
 <programme start="20251110124500 +0000" stop="20251110150000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live ATP Finals: Einzel 1, 2. Tag in Turin (ITA)</title>
+    <title>Live ATP Finals: L. Musetti (ITA) - T. Fritz (USA), 2. Tag in Turin (ITA)</title>
 </programme>
 <programme start="20251110150000 +0000" stop="20251110153000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>WTA 1000: Review Wuhan</title>
@@ -2618,10 +2618,10 @@
     <title>ATP Finals: Review Turin 2024</title>
 </programme>
 <programme start="20251110170000 +0000" stop="20251110191000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live ATP Finals: Doppel 2, 2. Tag in Turin (ITA)</title>
+    <title>Live ATP Finals: H. Heliovaara (FIN) / H. Patten (GBR) - C. Harrison (USA) / E. King (USA), 2. Tag in Turin (ITA)</title>
 </programme>
 <programme start="20251110191000 +0000" stop="20251110213000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live ATP Finals: Einzel 2, 2. Tag in Turin (ITA)</title>
+    <title>Live ATP Finals: J. Sinner (ITA) - F. Auger-Aliassime (CAN), 2. Tag in Turin (ITA)</title>
 </programme>
 <programme start="20251110213000 +0000" stop="20251110220000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: 90in30: STU - RBS, 13. Runde</title>
@@ -3137,10 +3137,10 @@
     <title>ATP Finals: A. Zverev (GER) - B. Shelton (USA), 1. Tag in Turin (ITA)</title>
 </programme>
 <programme start="20251110103000 +0000" stop="20251110124500 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP Finals: Doppel 1, 2. Tag in Turin (ITA)</title>
+    <title>Live ATP Finals: M. Arevalo (ESA) / M. Pavic (CRO) - J. Salisbury (GBR) / N. Skupski (GBR), 2. Tag in Turin (ITA)</title>
 </programme>
 <programme start="20251110124500 +0000" stop="20251110150000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP Finals: Einzel 1, 2. Tag in Turin (ITA)</title>
+    <title>Live ATP Finals: L. Musetti (ITA) - T. Fritz (USA), 2. Tag in Turin (ITA)</title>
 </programme>
 <programme start="20251110150000 +0000" stop="20251110153000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: Review Wuhan</title>
@@ -3152,13 +3152,13 @@
     <title>ATP Finals: Review Turin 2024</title>
 </programme>
 <programme start="20251110170000 +0000" stop="20251110191000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP Finals: Doppel 2, 2. Tag in Turin (ITA)</title>
+    <title>Live ATP Finals: H. Heliovaara (FIN) / H. Patten (GBR) - C. Harrison (USA) / E. King (USA), 2. Tag in Turin (ITA)</title>
 </programme>
 <programme start="20251110191000 +0000" stop="20251110213000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP Finals: Einzel 2, 2. Tag in Turin (ITA)</title>
+    <title>Live ATP Finals: J. Sinner (ITA) - F. Auger-Aliassime (CAN), 2. Tag in Turin (ITA)</title>
 </programme>
 <programme start="20251110213000 +0000" stop="20251110233000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP Finals: Einzel 1, 2. Tag in Turin (ITA)</title>
+    <title>ATP Finals: L. Musetti (ITA) - T. Fritz (USA), 2. Tag in Turin (ITA)</title>
 </programme>
 <programme start="20251109230000 +0000" stop="20251110013000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Oklahoma City Thunder @ Memphis Grizzlies</title>
@@ -3200,10 +3200,10 @@
     <title>BL: Dein Spieltags-Sprint (10)</title>
 </programme>
 <programme start="20251110103000 +0000" stop="20251110124500 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live ATP Finals: Doppel 1, 2. Tag in Turin (ITA)</title>
+    <title>Live ATP Finals: M. Arevalo (ESA) / M. Pavic (CRO) - J. Salisbury (GBR) / N. Skupski (GBR), 2. Tag in Turin (ITA)</title>
 </programme>
 <programme start="20251110124500 +0000" stop="20251110150000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live ATP Finals: Einzel 1, 2. Tag in Turin (ITA)</title>
+    <title>Live ATP Finals: L. Musetti (ITA) - T. Fritz (USA), 2. Tag in Turin (ITA)</title>
 </programme>
 <programme start="20251110150000 +0000" stop="20251110153000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>WTA 1000: Review Wuhan</title>
@@ -3215,10 +3215,10 @@
     <title>ATP Finals: Review Turin 2024</title>
 </programme>
 <programme start="20251110170000 +0000" stop="20251110191000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live ATP Finals: Doppel 2, 2. Tag in Turin (ITA)</title>
+    <title>Live ATP Finals: H. Heliovaara (FIN) / H. Patten (GBR) - C. Harrison (USA) / E. King (USA), 2. Tag in Turin (ITA)</title>
 </programme>
 <programme start="20251110191000 +0000" stop="20251110213000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live ATP Finals: Einzel 2, 2. Tag in Turin (ITA)</title>
+    <title>Live ATP Finals: J. Sinner (ITA) - F. Auger-Aliassime (CAN), 2. Tag in Turin (ITA)</title>
 </programme>
 <programme start="20251110213000 +0000" stop="20251110223000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>PL: Review, 11. Spieltag</title>
@@ -3249,6 +3249,93 @@
 </programme>
 <programme start="20251110080000 +0000" stop="20251110081500 +0000" channel="Sky Sport UHD.skyde">
     <title>Info: UHD</title>
+</programme>
+<programme start="20251109234000 +0000" stop="20251110002500 +0000" channel="SYFY HD.skyde">
+    <title>Resident Alien</title>
+</programme>
+<programme start="20251110002500 +0000" stop="20251110011000 +0000" channel="SYFY HD.skyde">
+    <title>Resident Alien</title>
+</programme>
+<programme start="20251110011000 +0000" stop="20251110011500 +0000" channel="SYFY HD.skyde">
+    <title>Sci Xpert - Leschs Universum</title>
+</programme>
+<programme start="20251110011500 +0000" stop="20251110020000 +0000" channel="SYFY HD.skyde">
+    <title>Stargate Universe</title>
+</programme>
+<programme start="20251110020000 +0000" stop="20251110024500 +0000" channel="SYFY HD.skyde">
+    <title>Stargate Universe</title>
+</programme>
+<programme start="20251110024500 +0000" stop="20251110033000 +0000" channel="SYFY HD.skyde">
+    <title>Stargate Universe</title>
+</programme>
+<programme start="20251110033000 +0000" stop="20251110041500 +0000" channel="SYFY HD.skyde">
+    <title>Stargate Universe</title>
+</programme>
+<programme start="20251110041500 +0000" stop="20251110050000 +0000" channel="SYFY HD.skyde">
+    <title>Stargate Universe</title>
+</programme>
+<programme start="20251110050000 +0000" stop="20251110054500 +0000" channel="SYFY HD.skyde">
+    <title>Star Trek: Discovery</title>
+</programme>
+<programme start="20251110054500 +0000" stop="20251110063500 +0000" channel="SYFY HD.skyde">
+    <title>Star Trek: Discovery</title>
+</programme>
+<programme start="20251110063500 +0000" stop="20251110071500 +0000" channel="SYFY HD.skyde">
+    <title>Star Trek: Discovery</title>
+</programme>
+<programme start="20251110071500 +0000" stop="20251110080500 +0000" channel="SYFY HD.skyde">
+    <title>Star Trek: Discovery</title>
+</programme>
+<programme start="20251110080500 +0000" stop="20251110085500 +0000" channel="SYFY HD.skyde">
+    <title>Star Trek: Discovery</title>
+</programme>
+<programme start="20251110085500 +0000" stop="20251110094500 +0000" channel="SYFY HD.skyde">
+    <title>Stargate: Atlantis</title>
+</programme>
+<programme start="20251110094500 +0000" stop="20251110103500 +0000" channel="SYFY HD.skyde">
+    <title>Stargate: Atlantis</title>
+</programme>
+<programme start="20251110103500 +0000" stop="20251110112000 +0000" channel="SYFY HD.skyde">
+    <title>Stargate: Atlantis</title>
+</programme>
+<programme start="20251110112000 +0000" stop="20251110121000 +0000" channel="SYFY HD.skyde">
+    <title>Stargate SG-1</title>
+</programme>
+<programme start="20251110121000 +0000" stop="20251110125500 +0000" channel="SYFY HD.skyde">
+    <title>Stargate SG-1</title>
+</programme>
+<programme start="20251110125500 +0000" stop="20251110134000 +0000" channel="SYFY HD.skyde">
+    <title>Stargate SG-1</title>
+</programme>
+<programme start="20251110134000 +0000" stop="20251110143000 +0000" channel="SYFY HD.skyde">
+    <title>Resident Alien</title>
+</programme>
+<programme start="20251110143000 +0000" stop="20251110151500 +0000" channel="SYFY HD.skyde">
+    <title>Resident Alien</title>
+</programme>
+<programme start="20251110151500 +0000" stop="20251110160000 +0000" channel="SYFY HD.skyde">
+    <title>Stargate Universe</title>
+</programme>
+<programme start="20251110160000 +0000" stop="20251110165000 +0000" channel="SYFY HD.skyde">
+    <title>Stargate Universe</title>
+</programme>
+<programme start="20251110165000 +0000" stop="20251110174000 +0000" channel="SYFY HD.skyde">
+    <title>Stargate: Atlantis</title>
+</programme>
+<programme start="20251110174000 +0000" stop="20251110182500 +0000" channel="SYFY HD.skyde">
+    <title>Stargate: Atlantis</title>
+</programme>
+<programme start="20251110182500 +0000" stop="20251110191500 +0000" channel="SYFY HD.skyde">
+    <title>Stargate: Atlantis</title>
+</programme>
+<programme start="20251110191500 +0000" stop="20251110214500 +0000" channel="SYFY HD.skyde">
+    <title>Armageddon - Das jüngste Gericht</title>
+</programme>
+<programme start="20251110214500 +0000" stop="20251110223000 +0000" channel="SYFY HD.skyde">
+    <title>Stargate SG-1</title>
+</programme>
+<programme start="20251110223000 +0000" stop="20251110232000 +0000" channel="SYFY HD.skyde">
+    <title>Stargate SG-1</title>
 </programme>
 <programme start="20251109233000 +0000" stop="20251110005500 +0000" channel="Universal TV HD.skyde">
     <title>Das Geheimnis des Weihnachtsrings</title>
