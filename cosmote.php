@@ -110,6 +110,10 @@
     <title>Football: OFI - AEK</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251111202000 +0700" stop="20251111222000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Bologna - SSC Napoli</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251110185000 +0700" stop="20251110204500 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: St. Mirren - Hibernian</title>
     <desc>Live: Tidak</desc>
@@ -174,8 +178,8 @@
     <title>Football: Anorthosis Famagusta - Pafos FC</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251110171000 +0700" stop="20251110194000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Milwaukee Bucks - Houston Rockets</title>
+<programme start="20251111202000 +0700" stop="20251111222000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Cheltenham Town - Notts County</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251110194000 +0700" stop="20251110214000 +0700" channel="COSMOTE Sport 4 HD">
@@ -228,6 +232,10 @@
 </programme>
 <programme start="20251111173000 +0700" stop="20251111200000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Dallas Mavericks - Milwaukee Bucks</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251111200000 +0700" stop="20251111221000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Promitheas - Legia Warszawa</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251110183500 +0700" stop="20251110201000 +0700" channel="COSMOTE Sport 5 HD">
@@ -322,9 +330,13 @@
     <title>Grand Prix Show 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251110173000 +0700" stop="20251110200000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: Marcelo Arevalo/Mate Pavic - Joe Salisbury/Neal Skupski (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20251111202000 +0700" stop="20251111205000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251111205000 +0700" stop="20251111214500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC 2025</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251110200000 +0700" stop="20251110223000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Lorenzo Musetti - Taylor Fritz (L)</title>
@@ -375,6 +387,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251111173000 +0700" stop="20251111200000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: Nitto ATP Finals 2025 (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
+<programme start="20251111200000 +0700" stop="20251111223000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Nitto ATP Finals 2025 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
