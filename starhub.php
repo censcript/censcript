@@ -5119,13 +5119,13 @@
     <programme start="20251110033000 +0000" stop="20251110070000 +0000" channel="SPOTV.starhub">
         <title>Day 3 Session 2</title>
     </programme>
-    <programme start="20251110070000 +0000" stop="20251110120000 +0000" channel="SPOTV.starhub">
+    <programme start="20251110070000 +0000" stop="20251110121500 +0000" channel="SPOTV.starhub">
         <title>Men&#039;s &amp; Women&#039;s Race</title>
     </programme>
-    <programme start="20251110120000 +0000" stop="20251110140000 +0000" channel="SPOTV.starhub">
+    <programme start="20251110121500 +0000" stop="20251110141000 +0000" channel="SPOTV.starhub">
         <title>ROSHN Saudi League 25/26 - MW8 Al Najma vs Al Hilal</title>
     </programme>
-    <programme start="20251110140000 +0000" stop="20251110160000 +0000" channel="SPOTV.starhub">
+    <programme start="20251110141000 +0000" stop="20251110160500 +0000" channel="SPOTV.starhub">
         <title>ROSHN Saudi League 25/26 - MW8 Al Ittihad vs Al Ahli</title>
     </programme>
     <programme start="20251109154500 +0000" stop="20251109172000 +0000" channel="KBS World HD.starhub">
@@ -6926,7 +6926,7 @@
         <title>The World Heritage Sites in Japan</title>
     </programme>
     <programme start="20251109162500 +0000" stop="20251109163000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>Okinawa</title>
+        <title>Kaizoku</title>
     </programme>
     <programme start="20251109163000 +0000" stop="20251109165700 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>Grand Sumo Highlights</title>
@@ -6992,7 +6992,7 @@
         <title>NHK Newsline</title>
     </programme>
     <programme start="20251109221000 +0000" stop="20251109222500 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>NHK World Selection</title>
+        <title>Ramen Japan</title>
     </programme>
     <programme start="20251109222500 +0000" stop="20251109223000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>Core Kyoto Mini</title>
@@ -7010,7 +7010,7 @@
         <title>The World Heritage Sites in Japan</title>
     </programme>
     <programme start="20251109232500 +0000" stop="20251109233000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>Okinawa</title>
+        <title>Kaizoku</title>
     </programme>
     <programme start="20251109233000 +0000" stop="20251109235700 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>Grand Sumo Highlights</title>
@@ -8045,7 +8045,7 @@
         <title>2025 GTOUR Mixed 3rd Tournament</title>
     </programme>
     <programme start="20251109210000 +0000" stop="20251109230000 +0000" channel="SPOTV2.starhub">
-        <title>2025/26 A-League Men Round 4 Perth Glory vs Central Coast Mariners FC</title>
+        <title>Perth Glory vs Central Coast Mariners FC</title>
     </programme>
     <programme start="20251109230000 +0000" stop="20251110000000 +0000" channel="SPOTV2.starhub">
         <title>Qualifying</title>
@@ -8062,17 +8062,14 @@
     <programme start="20251110040000 +0000" stop="20251110043000 +0000" channel="SPOTV2.starhub">
         <title>Season 5</title>
     </programme>
-    <programme start="20251110043000 +0000" stop="20251110080000 +0000" channel="SPOTV2.starhub">
+    <programme start="20251110043000 +0000" stop="20251110083000 +0000" channel="SPOTV2.starhub">
         <title>Day 6 Session 1</title>
     </programme>
-    <programme start="20251110080000 +0000" stop="20251110103000 +0000" channel="SPOTV2.starhub">
+    <programme start="20251110083000 +0000" stop="20251110113000 +0000" channel="SPOTV2.starhub">
         <title>Day 6 Session 2 (Finals)</title>
     </programme>
-    <programme start="20251110103000 +0000" stop="20251110110000 +0000" channel="SPOTV2.starhub">
+    <programme start="20251110113000 +0000" stop="20251110120000 +0000" channel="SPOTV2.starhub">
         <title>Round 3</title>
-    </programme>
-    <programme start="20251110110000 +0000" stop="20251110120000 +0000" channel="SPOTV2.starhub">
-        <title>Warm up + Rider&#039;s Fan Parade</title>
     </programme>
     <programme start="20251110120000 +0000" stop="20251110131500 +0000" channel="SPOTV2.starhub">
         <title>Moto2 Race</title>
@@ -8401,13 +8398,16 @@
     <programme start="20251110153000 +0000" stop="20251110163000 +0000" channel="ADITHYA TV.starhub">
         <title>Vedi Sirippu</title>
     </programme>
-    <programme start="20251109160000 +0000" stop="20251109170000 +0000" channel="Hub E City HD.starhub">
+    <programme start="20251109150600 +0000" stop="20251109164000 +0000" channel="Hub E City HD.starhub">
+        <title>Could You Don&#039;t Leave Me</title>
+    </programme>
+    <programme start="20251109164000 +0000" stop="20251109172700 +0000" channel="Hub E City HD.starhub">
         <title>A Date with The Future</title>
     </programme>
-    <programme start="20251109170000 +0000" stop="20251109180000 +0000" channel="Hub E City HD.starhub">
+    <programme start="20251109172700 +0000" stop="20251109181300 +0000" channel="Hub E City HD.starhub">
         <title>Warm on a Cold Night</title>
     </programme>
-    <programme start="20251109180000 +0000" stop="20251109190000 +0000" channel="Hub E City HD.starhub">
+    <programme start="20251109181300 +0000" stop="20251109190000 +0000" channel="Hub E City HD.starhub">
         <title>Oh! My Queen</title>
     </programme>
     <programme start="20251109190000 +0000" stop="20251109210000 +0000" channel="Hub E City HD.starhub">
@@ -9190,13 +9190,16 @@
     <programme start="20251110145000 +0000" stop="20251110164000 +0000" channel="Discovery HD.starhub">
         <title>Truth Or Dare</title>
     </programme>
-    <programme start="20251109160000 +0000" stop="20251109170000 +0000" channel="Hub E City HD.starhub">
+    <programme start="20251109150600 +0000" stop="20251109164000 +0000" channel="Hub E City HD.starhub">
+        <title>Could You Don&#039;t Leave Me</title>
+    </programme>
+    <programme start="20251109164000 +0000" stop="20251109172700 +0000" channel="Hub E City HD.starhub">
         <title>A Date with The Future</title>
     </programme>
-    <programme start="20251109170000 +0000" stop="20251109180000 +0000" channel="Hub E City HD.starhub">
+    <programme start="20251109172700 +0000" stop="20251109181300 +0000" channel="Hub E City HD.starhub">
         <title>Warm on a Cold Night</title>
     </programme>
-    <programme start="20251109180000 +0000" stop="20251109190000 +0000" channel="Hub E City HD.starhub">
+    <programme start="20251109181300 +0000" stop="20251109190000 +0000" channel="Hub E City HD.starhub">
         <title>Oh! My Queen</title>
     </programme>
     <programme start="20251109190000 +0000" stop="20251109210000 +0000" channel="Hub E City HD.starhub">
@@ -9250,13 +9253,16 @@
     <programme start="20251110150000 +0000" stop="20251110160000 +0000" channel="Hub E City HD.starhub">
         <title>Hot Door Night</title>
     </programme>
-    <programme start="20251109160000 +0000" stop="20251109170000 +0000" channel="TestChannel1.starhub">
+    <programme start="20251109150600 +0000" stop="20251109164000 +0000" channel="TestChannel1.starhub">
+        <title>Could You Don&#039;t Leave Me</title>
+    </programme>
+    <programme start="20251109164000 +0000" stop="20251109172700 +0000" channel="TestChannel1.starhub">
         <title>A Date with The Future</title>
     </programme>
-    <programme start="20251109170000 +0000" stop="20251109180000 +0000" channel="TestChannel1.starhub">
+    <programme start="20251109172700 +0000" stop="20251109181300 +0000" channel="TestChannel1.starhub">
         <title>Warm on a Cold Night</title>
     </programme>
-    <programme start="20251109180000 +0000" stop="20251109190000 +0000" channel="TestChannel1.starhub">
+    <programme start="20251109181300 +0000" stop="20251109190000 +0000" channel="TestChannel1.starhub">
         <title>Oh! My Queen</title>
     </programme>
     <programme start="20251109190000 +0000" stop="20251109210000 +0000" channel="TestChannel1.starhub">
