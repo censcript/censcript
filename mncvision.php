@@ -4178,7 +4178,7 @@
     <title>Lawak Jowo</title>
 </programme>
 <programme start="20251110090000 +0000" stop="20251110100000 +0000" channel="Hanacaraka TV.mncvision">
-    <title>Wayang Kampung Sebelah</title>
+    <title>Ken Arok &amp; Ken Dedes</title>
 </programme>
 <programme start="20251110100000 +0000" stop="20251110103000 +0000" channel="Hanacaraka TV.mncvision">
     <title>Mahkota Mayangkara</title>
@@ -4190,7 +4190,7 @@
     <title>Konco Ngaso</title>
 </programme>
 <programme start="20251110120000 +0000" stop="20251110123000 +0000" channel="Hanacaraka TV.mncvision">
-    <title>Pawartos Jawi Spesial</title>
+    <title>Pawartos Jawi</title>
 </programme>
 <programme start="20251110123000 +0000" stop="20251110130000 +0000" channel="Hanacaraka TV.mncvision">
     <title>Pagelaran Budaya Jawi</title>

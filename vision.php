@@ -10,7 +10,7 @@
 <programme start="20251110033000 +0000" stop="20251110043000 +0000" channel="RCTI.vision">
 <title>Silet</title>
 </programme>
-<programme start="20251107043000 +0000" stop="20251107051500 +0000" channel="RCTI.vision">
+<programme start="20251110043000 +0000" stop="20251110051500 +0000" channel="RCTI.vision">
 <title>Seputar iNews Siang</title>
 </programme>
 <programme start="20251110051500 +0000" stop="20251110070000 +0000" channel="RCTI.vision">
