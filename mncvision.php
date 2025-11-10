@@ -431,7 +431,7 @@
     <title>Rindu Tak Berujung</title>
 </programme>
 <programme start="20251110153000 +0000" stop="20251110160000 +0000" channel="ANTV.mncvision">
-    <title>Student Of The Year</title>
+    <title>My Father Is A Hero</title>
 </programme>
 <programme start="20251109170000 +0000" stop="20251109173000 +0000" channel="Arirang.mncvision">
     <title>SmartBiz Accelerators</title>

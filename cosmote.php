@@ -110,6 +110,10 @@
     <title>Football: Kifisia - Olympiacos</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251111141000 +0700" stop="20251111161000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Pisa - Cremonese</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251110120000 +0700" stop="20251110151500 +0700" channel="COSMOTE Sport 3 HD">
     <title>American Football: San Francisco 49ers - Los Angeles Rams</title>
     <desc>Live: Tidak</desc>
@@ -230,10 +234,6 @@
     <title>Basketball: Tofas - Bursaspor</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251110125500 +0700" stop="20251110134000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Moto-E World Championship 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251110134000 +0700" stop="20251110142500 +0700" channel="COSMOTE Sport 5 HD">
     <title>Moto-E World Championship 2025</title>
     <desc>Live: Tidak</desc>
@@ -326,8 +326,8 @@
     <title>WRC</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251110110000 +0700" stop="20251110133000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>2025 Premier Padel World Cup Pairs</title>
+<programme start="20251111145000 +0700" stop="20251111155500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>2025 Extreme H</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251110133000 +0700" stop="20251110173000 +0700" channel="COSMOTE Sport 6 HD">
