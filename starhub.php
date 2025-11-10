@@ -5236,41 +5236,44 @@
     <programme start="20251111153500 +0000" stop="20251111165000 +0000" channel="KBS World HD.starhub">
         <title>The Merchant : Gaekju 2015</title>
     </programme>
-    <programme start="20251110160000 +0000" stop="20251110161500 +0000" channel="TestChannel 996.starhub">
+    <programme start="20251110160000 +0000" stop="20251110163000 +0000" channel="TestChannel 996.starhub">
         <title>Big Boys Club</title>
     </programme>
-    <programme start="20251110161500 +0000" stop="20251110165000 +0000" channel="TestChannel 996.starhub">
-        <title>Vengeance of the Bride</title>
-    </programme>
-    <programme start="20251110165000 +0000" stop="20251110173000 +0000" channel="TestChannel 996.starhub">
-        <title>Vengeance of the Bride</title>
+    <programme start="20251110163000 +0000" stop="20251110173000 +0000" channel="TestChannel 996.starhub">
+        <title>Dead Ringer</title>
     </programme>
     <programme start="20251110173000 +0000" stop="20251110183000 +0000" channel="TestChannel 996.starhub">
-        <title>The Litchi Road</title>
+        <title>The QUEEN Of News 2 &amp; What&#039;s On Today</title>
     </programme>
     <programme start="20251110183000 +0000" stop="20251110190000 +0000" channel="TestChannel 996.starhub">
         <title>Lo And Behold</title>
     </programme>
-    <programme start="20251110190000 +0000" stop="20251110200000 +0000" channel="TestChannel 996.starhub">
-        <title>Prism Breaker</title>
+    <programme start="20251110190000 +0000" stop="20251110193000 +0000" channel="TestChannel 996.starhub">
+        <title>Scoop 2025</title>
+    </programme>
+    <programme start="20251110193000 +0000" stop="20251110200000 +0000" channel="TestChannel 996.starhub">
+        <title>Gourmet Express</title>
     </programme>
     <programme start="20251110200000 +0000" stop="20251110210000 +0000" channel="TestChannel 996.starhub">
-        <title>The Wanted Detective</title>
+        <title>Modern Dynasty</title>
     </programme>
-    <programme start="20251110210000 +0000" stop="20251110213000 +0000" channel="TestChannel 996.starhub">
-        <title>Lo And Behold</title>
+    <programme start="20251110210000 +0000" stop="20251110214500 +0000" channel="TestChannel 996.starhub">
+        <title>Big City Shop 2024</title>
     </programme>
-    <programme start="20251110213000 +0000" stop="20251110222000 +0000" channel="TestChannel 996.starhub">
-        <title>The Heir to the Throne (with Eng Subs)</title>
+    <programme start="20251110214500 +0000" stop="20251110220000 +0000" channel="TestChannel 996.starhub">
+        <title>Happy Old Buddies</title>
     </programme>
-    <programme start="20251110222000 +0000" stop="20251110231500 +0000" channel="TestChannel 996.starhub">
-        <title>Golden City (Ep 701-750) VVD Mandarin</title>
+    <programme start="20251110220000 +0000" stop="20251110223000 +0000" channel="TestChannel 996.starhub">
+        <title>News Treasury 2024</title>
     </programme>
-    <programme start="20251110231500 +0000" stop="20251110235000 +0000" channel="TestChannel 996.starhub">
-        <title>Vengeance of the Bride</title>
+    <programme start="20251110223000 +0000" stop="20251110230000 +0000" channel="TestChannel 996.starhub">
+        <title>Scoop 2025</title>
     </programme>
-    <programme start="20251110235000 +0000" stop="20251111003000 +0000" channel="TestChannel 996.starhub">
-        <title>Vengeance of the Bride</title>
+    <programme start="20251110230000 +0000" stop="20251111000000 +0000" channel="TestChannel 996.starhub">
+        <title>Good Morning Hong Kong and Global View</title>
+    </programme>
+    <programme start="20251111000000 +0000" stop="20251111010000 +0000" channel="TestChannel 996.starhub">
+        <title>Dead Ringer</title>
     </programme>
     <programme start="20251111003000 +0000" stop="20251111013000 +0000" channel="TestChannel 996.starhub">
         <title>The Litchi Road</title>

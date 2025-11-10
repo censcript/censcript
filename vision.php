@@ -685,65 +685,50 @@
 <programme start="20251109233000 +0000" stop="20251110013000 +0000" channel="ANTV.vision">
 <title>ANTV</title>
 </programme>
-<programme start="20251110013000 +0000" stop="20251110050000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<programme start="20251110013000 +0000" stop="20251110030000 +0000" channel="ANTV.vision">
+<title>Mangal Lakshmi</title>
 </programme>
-<programme start="20251110050000 +0000" stop="20251110060000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<programme start="20251110030000 +0000" stop="20251110063000 +0000" channel="ANTV.vision">
+<title>Dhoom</title>
 </programme>
-<programme start="20251110060000 +0000" stop="20251110080000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<programme start="20251110063000 +0000" stop="20251110080000 +0000" channel="ANTV.vision">
+<title>Cinta Keluarga Pandya</title>
 </programme>
-<programme start="20251110080000 +0000" stop="20251110100000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<programme start="20251110080000 +0000" stop="20251110093000 +0000" channel="ANTV.vision">
+<title>Zeynep</title>
 </programme>
-<programme start="20251110100000 +0000" stop="20251110110000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<programme start="20251110093000 +0000" stop="20251110113000 +0000" channel="ANTV.vision">
+<title>Takdir Cinta Layla</title>
 </programme>
-<programme start="20251110110000 +0000" stop="20251110123000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
-</programme>
-<programme start="20251110123000 +0000" stop="20251110143000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
-</programme>
-<programme start="20251110143000 +0000" stop="20251110163000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
-</programme>
-<programme start="20251110163000 +0000" stop="20251110183000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
-</programme>
-<programme start="20251110183000 +0000" stop="20251110203000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<programme start="20251110133000 +0000" stop="20251110153000 +0000" channel="ANTV.vision">
+<title>Rindu Tak Berujung</title>
 </programme>
 <programme start="20251110203000 +0000" stop="20251110220000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<title>Lutung Kasarung</title>
 </programme>
 <programme start="20251110220000 +0000" stop="20251110230000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<title>Ada Si Manis Di Jembatan</title>
 </programme>
-<programme start="20251110230000 +0000" stop="20251110233000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<programme start="20251110230000 +0000" stop="20251111010000 +0000" channel="ANTV.vision">
+<title>Duel Naga Wulung</title>
 </programme>
-<programme start="20251110233000 +0000" stop="20251111013000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<programme start="20251111010000 +0000" stop="20251111030000 +0000" channel="ANTV.vision">
+<title>Mangal Lakshmi</title>
 </programme>
-<programme start="20251111013000 +0000" stop="20251111050000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<programme start="20251111030000 +0000" stop="20251111063000 +0000" channel="ANTV.vision">
+<title>Mujhse Shaadi Karogi</title>
 </programme>
-<programme start="20251111050000 +0000" stop="20251111060000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<programme start="20251111063000 +0000" stop="20251111080000 +0000" channel="ANTV.vision">
+<title>Cinta Keluarga Pandya</title>
 </programme>
-<programme start="20251111060000 +0000" stop="20251111080000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<programme start="20251111080000 +0000" stop="20251111093000 +0000" channel="ANTV.vision">
+<title>Zeynep</title>
 </programme>
-<programme start="20251111080000 +0000" stop="20251111100000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<programme start="20251111093000 +0000" stop="20251111113000 +0000" channel="ANTV.vision">
+<title>Takdir Cinta Layla</title>
 </programme>
-<programme start="20251111100000 +0000" stop="20251111110000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
-</programme>
-<programme start="20251111110000 +0000" stop="20251111123000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<programme start="20251111113000 +0000" stop="20251111133000 +0000" channel="ANTV.vision">
+<title>Noda X</title>
 </programme>
 <programme start="20251109230000 +0000" stop="20251110010000 +0000" channel="RTV.vision">
 <title>Bread Barbershop</title>
@@ -870,12 +855,6 @@
 </programme>
 <programme start="20251110125700 +0000" stop="20251110130000 +0000" channel="TVOne.vision">
 <title>Kabar Terkini</title>
-</programme>
-<programme start="20251110130000 +0000" stop="20251110143000 +0000" channel="TVOne.vision">
-<title>Talkshow Spesial (L)</title>
-</programme>
-<programme start="20251110143000 +0000" stop="20251110153000 +0000" channel="TVOne.vision">
-<title>Fakta</title>
 </programme>
 <programme start="20251110153000 +0000" stop="20251110163000 +0000" channel="TVOne.vision">
 <title>Kabar Utama</title>
@@ -1420,7 +1399,10 @@
 <programme start="20251110080000 +0000" stop="20251110083000 +0000" channel="BTV.vision">
 <title>Dikit-Dikit Damkar</title>
 </programme>
-<programme start="20251110083000 +0000" stop="20251110093000 +0000" channel="BTV.vision">
+<programme start="20251110083000 +0000" stop="20251110091500 +0000" channel="BTV.vision">
+<title>Figur Publik</title>
+</programme>
+<programme start="20251110091500 +0000" stop="20251110093000 +0000" channel="BTV.vision">
 <title>Info Seleb</title>
 </programme>
 <programme start="20251110093000 +0000" stop="20251110103000 +0000" channel="BTV.vision">
@@ -1475,7 +1457,7 @@
 <title>Jalan Dakwah</title>
 </programme>
 <programme start="20251111003000 +0000" stop="20251111011500 +0000" channel="BTV.vision">
-<title>Info Seleb</title>
+<title>Figur Publik</title>
 </programme>
 <programme start="20251111011500 +0000" stop="20251111014500 +0000" channel="BTV.vision">
 <title>Kuyliner</title>
@@ -1497,4 +1479,22 @@
 </programme>
 <programme start="20251111060000 +0000" stop="20251111063000 +0000" channel="BTV.vision">
 <title>Investor Daily Talk</title>
+</programme>
+<programme start="20251111063000 +0000" stop="20251111080000 +0000" channel="BTV.vision">
+<title>Spot On</title>
+</programme>
+<programme start="20251111080000 +0000" stop="20251111083000 +0000" channel="BTV.vision">
+<title>Dikit-Dikit Damkar</title>
+</programme>
+<programme start="20251111083000 +0000" stop="20251111091500 +0000" channel="BTV.vision">
+<title>Figur Publik</title>
+</programme>
+<programme start="20251111091500 +0000" stop="20251111093000 +0000" channel="BTV.vision">
+<title>Info Seleb</title>
+</programme>
+<programme start="20251111093000 +0000" stop="20251111103000 +0000" channel="BTV.vision">
+<title>Berita Satu Sore</title>
+</programme>
+<programme start="20251111103000 +0000" stop="20251111123000 +0000" channel="BTV.vision">
+<title>Berita Satu Utama</title>
 </programme>
