@@ -3610,8 +3610,41 @@
 <programme start="20251110211000 +0000" stop="20251110233500 +0000" channel="Warner TV Film.skyde">
     <title>Transformers</title>
 </programme>
-<programme start="20251101212500 +0000" stop="20251101232500 +0000" channel="Warner TV Film HD.skyde">
-    <title>The Huntsman &amp; The Ice Queen</title>
+<programme start="20251109233500 +0000" stop="20251110014500 +0000" channel="Warner TV Film HD.skyde">
+    <title>Master &amp; Commander - Bis ans Ende der Welt</title>
+</programme>
+<programme start="20251110014500 +0000" stop="20251110032000 +0000" channel="Warner TV Film HD.skyde">
+    <title>Der Mackintosh-Mann</title>
+</programme>
+<programme start="20251110032000 +0000" stop="20251110050000 +0000" channel="Warner TV Film HD.skyde">
+    <title>Immer Ärger mit den Mädchen</title>
+</programme>
+<programme start="20251110050000 +0000" stop="20251110072000 +0000" channel="Warner TV Film HD.skyde">
+    <title>Forrest Gump</title>
+</programme>
+<programme start="20251110072000 +0000" stop="20251110092000 +0000" channel="Warner TV Film HD.skyde">
+    <title>Kampf der Titanen</title>
+</programme>
+<programme start="20251110092000 +0000" stop="20251110110000 +0000" channel="Warner TV Film HD.skyde">
+    <title>Mad Max 2 - Der Vollstrecker</title>
+</programme>
+<programme start="20251110110000 +0000" stop="20251110131500 +0000" channel="Warner TV Film HD.skyde">
+    <title>Dune - Der Wüstenplanet</title>
+</programme>
+<programme start="20251110131500 +0000" stop="20251110145500 +0000" channel="Warner TV Film HD.skyde">
+    <title>Event Horizon</title>
+</programme>
+<programme start="20251110145500 +0000" stop="20251110170500 +0000" channel="Warner TV Film HD.skyde">
+    <title>Jurassic Park</title>
+</programme>
+<programme start="20251110170500 +0000" stop="20251110191500 +0000" channel="Warner TV Film HD.skyde">
+    <title>Vergessene Welt: Jurassic Park</title>
+</programme>
+<programme start="20251110191500 +0000" stop="20251110211000 +0000" channel="Warner TV Film HD.skyde">
+    <title>Auslöschung</title>
+</programme>
+<programme start="20251110211000 +0000" stop="20251110233500 +0000" channel="Warner TV Film HD.skyde">
+    <title>Transformers</title>
 </programme>
 <programme start="20251109230000 +0000" stop="20251109234500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Blindspot</title>
