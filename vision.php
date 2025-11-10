@@ -700,8 +700,14 @@
 <programme start="20251110093000 +0000" stop="20251110113000 +0000" channel="ANTV.vision">
 <title>Takdir Cinta Layla</title>
 </programme>
+<programme start="20251110113000 +0000" stop="20251110133000 +0000" channel="ANTV.vision">
+<title>Yang Perkasa</title>
+</programme>
 <programme start="20251110133000 +0000" stop="20251110153000 +0000" channel="ANTV.vision">
 <title>Rindu Tak Berujung</title>
+</programme>
+<programme start="20251110153000 +0000" stop="20251110173000 +0000" channel="ANTV.vision">
+<title>My Father Is A Hero</title>
 </programme>
 <programme start="20251110173000 +0000" stop="20251110203000 +0000" channel="ANTV.vision">
 <title>Nini Towok</title>
@@ -858,6 +864,12 @@
 </programme>
 <programme start="20251110125700 +0000" stop="20251110130000 +0000" channel="TVOne.vision">
 <title>Kabar Terkini</title>
+</programme>
+<programme start="20251110130000 +0000" stop="20251110143000 +0000" channel="TVOne.vision">
+<title>Talkshow Spesial (L)</title>
+</programme>
+<programme start="20251110143000 +0000" stop="20251110153000 +0000" channel="TVOne.vision">
+<title>Fakta</title>
 </programme>
 <programme start="20251110153000 +0000" stop="20251110163000 +0000" channel="TVOne.vision">
 <title>Kabar Utama</title>
@@ -1485,16 +1497,4 @@
 </programme>
 <programme start="20251111063000 +0000" stop="20251111080000 +0000" channel="BTV.vision">
 <title>Spot On</title>
-</programme>
-<programme start="20251111080000 +0000" stop="20251111083000 +0000" channel="BTV.vision">
-<title>Dikit-Dikit Damkar</title>
-</programme>
-<programme start="20251111083000 +0000" stop="20251111091500 +0000" channel="BTV.vision">
-<title>Figur Publik</title>
-</programme>
-<programme start="20251111091500 +0000" stop="20251111093000 +0000" channel="BTV.vision">
-<title>Info Seleb</title>
-</programme>
-<programme start="20251111093000 +0000" stop="20251111103000 +0000" channel="BTV.vision">
-<title>Berita Satu Sore</title>
 </programme>

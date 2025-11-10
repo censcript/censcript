@@ -110,6 +110,10 @@
     <title>Football: Panathinaikos - PAOK</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251112022500 +0700" stop="20251112042500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: FC Internazionale Milano - SS Lazio</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251111003000 +0700" stop="20251111023000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Anorthosis Famagusta - Pafos FC</title>
     <desc>Live: Tidak</desc>
@@ -174,8 +178,8 @@
     <title>Football: Racing Club - Flamengo</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251110235000 +0700" stop="20251111020000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Promitheas - Legia Warszawa</title>
+<programme start="20251112022000 +0700" stop="20251112042000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Famalicao - FC Porto</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251111020000 +0700" stop="20251111023000 +0700" channel="COSMOTE Sport 4 HD">
@@ -241,10 +245,6 @@
 <programme start="20251112010000 +0700" stop="20251112031000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Karditsa - Oostende (L)</title>
     <desc>Live: Ya</desc>
-</programme>
-<programme start="20251111010000 +0700" stop="20251111020000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC</title>
-    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251111020000 +0700" stop="20251111032000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Grand Prix Show 2025 (L)</title>
@@ -395,6 +395,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251112000000 +0700" stop="20251112023000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: Nitto ATP Finals 2025 (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
+<programme start="20251112023000 +0700" stop="20251112050000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Nitto ATP Finals 2025 (L)</title>
     <desc>Live: Ya</desc>
 </programme>

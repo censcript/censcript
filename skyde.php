@@ -1891,6 +1891,45 @@
 <programme start="20251110212500 +0000" stop="20251110234000 +0000" channel="Sky Cinema Highlights HD.skyde">
     <title>Phantastische Tierwesen und wo sie zu finden sind</title>
 </programme>
+<programme start="20251110002000 +0000" stop="20251110022000 +0000" channel="Sky Cinema Premiere HD.skyde">
+    <title>Alles Fifty Fifty</title>
+</programme>
+<programme start="20251110022000 +0000" stop="20251110035000 +0000" channel="Sky Cinema Premiere HD.skyde">
+    <title>Home Sweet Home - Wo das Böse wohnt</title>
+</programme>
+<programme start="20251110035000 +0000" stop="20251110055000 +0000" channel="Sky Cinema Premiere HD.skyde">
+    <title>White Bird</title>
+</programme>
+<programme start="20251110055000 +0000" stop="20251110072000 +0000" channel="Sky Cinema Premiere HD.skyde">
+    <title>The Woman in the Yard</title>
+</programme>
+<programme start="20251110072000 +0000" stop="20251110090000 +0000" channel="Sky Cinema Premiere HD.skyde">
+    <title>The Ritual</title>
+</programme>
+<programme start="20251110090000 +0000" stop="20251110111500 +0000" channel="Sky Cinema Premiere HD.skyde">
+    <title>Nosferatu - Der Untote</title>
+</programme>
+<programme start="20251110111500 +0000" stop="20251110130500 +0000" channel="Sky Cinema Premiere HD.skyde">
+    <title>Final Destination 6: Bloodlines</title>
+</programme>
+<programme start="20251110130500 +0000" stop="20251110151000 +0000" channel="Sky Cinema Premiere HD.skyde">
+    <title>White Bird</title>
+</programme>
+<programme start="20251110151000 +0000" stop="20251110173500 +0000" channel="Sky Cinema Premiere HD.skyde">
+    <title>Gladiator II</title>
+</programme>
+<programme start="20251110173500 +0000" stop="20251110191500 +0000" channel="Sky Cinema Premiere HD.skyde">
+    <title>Drop - Tödliches Date</title>
+</programme>
+<programme start="20251110191500 +0000" stop="20251110204500 +0000" channel="Sky Cinema Premiere HD.skyde">
+    <title>Y2K</title>
+</programme>
+<programme start="20251110204500 +0000" stop="20251110221500 +0000" channel="Sky Cinema Premiere HD.skyde">
+    <title>The Woman in the Yard</title>
+</programme>
+<programme start="20251110221500 +0000" stop="20251111003000 +0000" channel="Sky Cinema Premiere HD.skyde">
+    <title>Nosferatu - Der Untote</title>
+</programme>
 <programme start="20251109232000 +0000" stop="20251110000500 +0000" channel="Sky Crime HD.skyde">
     <title>Murder by Medic - Tödliche Behandlung</title>
 </programme>
