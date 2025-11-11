@@ -6695,7 +6695,7 @@
         <title>Spartan Super World Championship Mammoth Highlights</title>
     </programme>
     <programme start="20251110233000 +0000" stop="20251111000000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Spartan 100M World Championship Highlights</title>
+        <title>Spartan 100M World Championship H/Ls</title>
     </programme>
     <programme start="20251111000000 +0000" stop="20251111040000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>IKSAN VICTOR Korea Masters (300) SF Session 1</title>

@@ -102,6 +102,10 @@
     <title>Football: OFI - AEK</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251112141000 +0700" stop="20251112161000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Genoa - ACF Fiorentina</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251111120000 +0700" stop="20251111153000 +0700" channel="COSMOTE Sport 3 HD">
     <title>American Football: Indianapolis Colts - Atlanta Falcons</title>
     <desc>Live: Tidak</desc>
@@ -154,8 +158,8 @@
     <title>American Football: Los Angeles Chargers - Pittsburgh Steelers</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251111113000 +0700" stop="20251111133000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Badalona - Real Madrid</title>
+<programme start="20251112143000 +0700" stop="20251112163500 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Motherwell - St. Mirren</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251111133000 +0700" stop="20251111153000 +0700" channel="COSMOTE Sport 4 HD">
@@ -222,8 +226,12 @@
     <title>Basketball: Armani Milano - Treviso</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251111121500 +0700" stop="20251111135000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC 2025</title>
+<programme start="20251112143000 +0700" stop="20251112145000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Sports Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251112145000 +0700" stop="20251112170000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Karditsa - Oostende</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251111135000 +0700" stop="20251111145000 +0700" channel="COSMOTE Sport 5 HD">
@@ -310,6 +318,10 @@
     <title>Motorsports: Extreme E 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251112141000 +0700" stop="20251112150000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>2025 GT World Challenge Europe</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251111123000 +0700" stop="20251111160000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Nitto ATP Finals 2025</title>
     <desc>Live: Tidak</desc>
@@ -364,6 +376,10 @@
 </programme>
 <programme start="20251112120000 +0700" stop="20251112143000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Nitto ATP Finals 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251112143000 +0700" stop="20251112173000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Authentic Athens Marathon 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251111130000 +0700" stop="20251111150000 +0700" channel="COSMOTE Sport 7 HD">
