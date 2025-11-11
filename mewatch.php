@@ -580,7 +580,7 @@
     <programme start="20251111150000 +0000" stop="20251111160000 +0000" channel="CNA.mewatch">
         <title>Chinese Matchmakers - EP 1</title>
     </programme>
-    <programme start="20251111160000 +0000" stop="20251111220000 +0000" channel="CNA.mewatch">
+    <programme start="20251111160000 +0000" stop="20251111160300 +0000" channel="CNA.mewatch">
         <title>Headline News</title>
     </programme>
     <programme start="20251110160000 +0000" stop="20251111160000 +0000" channel="Oktolidays.mewatch">

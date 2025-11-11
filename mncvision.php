@@ -8134,17 +8134,8 @@
 <programme start="20251111123000 +0000" stop="20251111143000 +0000" channel="Soccer Channel.mncvision">
     <title>Timnas Special: IDN Vs YEM</title>
 </programme>
-<programme start="20251111143000 +0000" stop="20251111150000 +0000" channel="Soccer Channel.mncvision">
-    <title>World Classic Soccer</title>
-</programme>
-<programme start="20251111150000 +0000" stop="20251111153000 +0000" channel="Soccer Channel.mncvision">
-    <title>Top Goals</title>
-</programme>
-<programme start="20251111153000 +0000" stop="20251111160000 +0000" channel="Soccer Channel.mncvision">
-    <title>Planet Football</title>
-</programme>
-<programme start="20251111160000 +0000" stop="20251111163000 +0000" channel="Soccer Channel.mncvision">
-    <title>European Qualifiers Magazine</title>
+<programme start="20251111143000 +0000" stop="20251111163000 +0000" channel="Soccer Channel.mncvision">
+    <title>Bundesliga: FCU Vs FCB</title>
 </programme>
 <programme start="20251111163000 +0000" stop="20251110170000 +0000" channel="Soccer Channel.mncvision">
     <title>Road To SEA Games 2025</title>
@@ -8188,17 +8179,8 @@
 <programme start="20251111123000 +0000" stop="20251111143000 +0000" channel="Soccer Channel HD.mncvision">
     <title>Timnas Special: IDN Vs YEM</title>
 </programme>
-<programme start="20251111143000 +0000" stop="20251111150000 +0000" channel="Soccer Channel HD.mncvision">
-    <title>World Classic Soccer</title>
-</programme>
-<programme start="20251111150000 +0000" stop="20251111153000 +0000" channel="Soccer Channel HD.mncvision">
-    <title>Top Goals</title>
-</programme>
-<programme start="20251111153000 +0000" stop="20251111160000 +0000" channel="Soccer Channel HD.mncvision">
-    <title>Planet Football</title>
-</programme>
-<programme start="20251111160000 +0000" stop="20251111163000 +0000" channel="Soccer Channel HD.mncvision">
-    <title>European Qualifiers Magazine</title>
+<programme start="20251111143000 +0000" stop="20251111163000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Bundesliga: FCU Vs FCB</title>
 </programme>
 <programme start="20251111163000 +0000" stop="20251110170000 +0000" channel="Soccer Channel HD.mncvision">
     <title>Road To SEA Games 2025</title>

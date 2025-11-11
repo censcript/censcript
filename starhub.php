@@ -2411,7 +2411,7 @@
         <title>Season 5, Episode 2 - Rugby Union Players</title>
     </programme>
     <programme start="20251111011500 +0000" stop="20251111043000 +0000" channel="Hub Sports 2 HD.starhub">
-        <title>Philadelphia Eagles vs Green Bay Packers</title>
+        <title>NFL 2025/26 Philadelphia Eagles vs Green Bay Packers (Live)</title>
     </programme>
     <programme start="20251111043000 +0000" stop="20251111050000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>#561</title>
@@ -2429,7 +2429,7 @@
         <title>The Emirates FA Cup 2025/26 R1: Chelmsford City vs Braintree Town</title>
     </programme>
     <programme start="20251111130000 +0000" stop="20251111160000 +0000" channel="Hub Sports 2 HD.starhub">
-        <title>Philadelphia Eagles vs Green Bay Packers</title>
+        <title>NFL 2025/26 Philadelphia Eagles vs Green Bay Packers</title>
     </programme>
     <programme start="20251110141500 +0000" stop="20251110161500 +0000" channel="The Filipino Channel HD.starhub">
         <title>It&#039;s Showtime</title>
@@ -6362,7 +6362,7 @@
         <title>Season 5, Episode 2 - Rugby Union Players</title>
     </programme>
     <programme start="20251111011500 +0000" stop="20251111043000 +0000" channel="TestChannel 995.starhub">
-        <title>Philadelphia Eagles vs Green Bay Packers</title>
+        <title>NFL 2025/26 Philadelphia Eagles vs Green Bay Packers (Live)</title>
     </programme>
     <programme start="20251111043000 +0000" stop="20251111050000 +0000" channel="TestChannel 995.starhub">
         <title>#561</title>
@@ -6380,7 +6380,7 @@
         <title>The Emirates FA Cup 2025/26 R1: Chelmsford City vs Braintree Town</title>
     </programme>
     <programme start="20251111130000 +0000" stop="20251111160000 +0000" channel="TestChannel 995.starhub">
-        <title>Philadelphia Eagles vs Green Bay Packers</title>
+        <title>NFL 2025/26 Philadelphia Eagles vs Green Bay Packers</title>
     </programme>
     <programme start="20251110160000 +0000" stop="20251110163000 +0000" channel="CNBC HD.starhub">
         <title>Money Movers</title>

@@ -102,6 +102,10 @@
     <title>Football: Lecce - Hellas Verona</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251112181000 +0700" stop="20251112202000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Panathinaikos - PAOK</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251111162000 +0700" stop="20251111182000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: SC Braga - Moreirense</title>
     <desc>Live: Tidak</desc>
@@ -152,10 +156,6 @@
 </programme>
 <programme start="20251112170500 +0700" stop="20251112190500 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Famalicao - FC Porto</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251111153000 +0700" stop="20251111173000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Promitheas - Legia Warszawa</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251111173000 +0700" stop="20251111200000 +0700" channel="COSMOTE Sport 4 HD">
@@ -312,10 +312,6 @@
 </programme>
 <programme start="20251112173500 +0700" stop="20251112191500 +0700" channel="COSMOTE Sport 5 HD">
     <title>Motorsports: MotoGP 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251111160000 +0700" stop="20251111173000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Topspin</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251111173000 +0700" stop="20251111200000 +0700" channel="COSMOTE Sport 6 HD">
