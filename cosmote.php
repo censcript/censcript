@@ -158,10 +158,6 @@
     <title>Football: Santa Clara - Sporting CP</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251112010000 +0700" stop="20251112031000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Karditsa - Oostende (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
 <programme start="20251112031000 +0700" stop="20251112044000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Pick n&#039; Roll</title>
     <desc>Live: Tidak</desc>
@@ -314,6 +310,10 @@
     <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251113045500 +0700" stop="20251113052500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251112023000 +0700" stop="20251112050000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Lorenzo Musetti - Alex de Minaur (L)</title>
     <desc>Live: Ya</desc>
@@ -425,6 +425,10 @@
 <programme start="20251113020000 +0700" stop="20251113043000 +0700" channel="COSMOTE Sport 7 HD">
     <title>Volleyball: Las Palmas - Olympiacos (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20251113043000 +0700" stop="20251113050000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251112030000 +0700" stop="20251112050000 +0700" channel="COSMOTE Sport 8 HD">
     <title>COSMOTESport8HD</title>
