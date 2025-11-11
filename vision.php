@@ -113,7 +113,7 @@
 <title>Entong</title>
 </programme>
 <programme start="20251111123000 +0000" stop="20251111141500 +0000" channel="MNCTV.vision">
-<title>Super Deal</title>
+<title>Super Deal (MNCTV)</title>
 </programme>
 <programme start="20251111141500 +0000" stop="20251111160000 +0000" channel="MNCTV.vision">
 <title>DMD Panggung Rezeki (MNCTV)</title>
@@ -670,9 +670,6 @@
 <programme start="20251111010000 +0000" stop="20251111030000 +0000" channel="ANTV.vision">
 <title>Mangal Lakshmi</title>
 </programme>
-<programme start="20251111030000 +0000" stop="20251111063000 +0000" channel="ANTV.vision">
-<title>Mujhse Shaadi Karogi</title>
-</programme>
 <programme start="20251111063000 +0000" stop="20251111080000 +0000" channel="ANTV.vision">
 <title>Cinta Keluarga Pandya</title>
 </programme>
@@ -682,23 +679,11 @@
 <programme start="20251111093000 +0000" stop="20251111113000 +0000" channel="ANTV.vision">
 <title>Takdir Cinta Layla</title>
 </programme>
-<programme start="20251111113000 +0000" stop="20251111133000 +0000" channel="ANTV.vision">
-<title>Noda X</title>
-</programme>
 <programme start="20251111133000 +0000" stop="20251111153000 +0000" channel="ANTV.vision">
 <title>Rindu Tak Berujung</title>
 </programme>
 <programme start="20251111153000 +0000" stop="20251111173000 +0000" channel="ANTV.vision">
 <title>Black Cat 2</title>
-</programme>
-<programme start="20251111173000 +0000" stop="20251111190000 +0000" channel="ANTV.vision">
-<title>Anna In Kung-Fu Land</title>
-</programme>
-<programme start="20251111190000 +0000" stop="20251111203000 +0000" channel="ANTV.vision">
-<title>308</title>
-</programme>
-<programme start="20251111203000 +0000" stop="20251111220000 +0000" channel="ANTV.vision">
-<title>Harga Sebuah Kejujuran</title>
 </programme>
 <programme start="20251111220000 +0000" stop="20251111230000 +0000" channel="ANTV.vision">
 <title>Ada Si Manis Di Jembatan</title>
@@ -849,9 +834,6 @@
 </programme>
 <programme start="20251111125700 +0000" stop="20251111130000 +0000" channel="TVOne.vision">
 <title>Kabar Terkini</title>
-</programme>
-<programme start="20251111130000 +0000" stop="20251111143000 +0000" channel="TVOne.vision">
-<title>Catatan Demokrasi</title>
 </programme>
 <programme start="20251111143000 +0000" stop="20251111153000 +0000" channel="TVOne.vision">
 <title>Kabar Utama (L)</title>
@@ -1497,4 +1479,22 @@
 </programme>
 <programme start="20251112091500 +0000" stop="20251112093000 +0000" channel="BTV.vision">
 <title>Info Seleb</title>
+</programme>
+<programme start="20251112093000 +0000" stop="20251112103000 +0000" channel="BTV.vision">
+<title>Berita Satu Sore</title>
+</programme>
+<programme start="20251112103000 +0000" stop="20251112123000 +0000" channel="BTV.vision">
+<title>Berita Satu Utama</title>
+</programme>
+<programme start="20251110230000 +0000" stop="20251111004500 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251111004500 +0000" stop="20251111023000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251111023000 +0000" stop="20251111040000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251111040000 +0000" stop="20251111054000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
 </programme>
