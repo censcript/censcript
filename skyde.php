@@ -2658,10 +2658,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Es folgt: LIVE ATP World Tour</title>
 </programme>
 <programme start="20251111103000 +0000" stop="20251111124500 +0000" channel="Sky Sport Austria 2 HD.skyde">
-    <title>Live ATP Finals: Doppel 1, 3. Tag in Turin (ITA)</title>
+    <title>Live ATP Finals: M. Granollers (ESP) / H. Zeballos (ARG) - S. Bolelli (ITA)/ A. Vavassori (ITA), 3. Tag in Turin (ITA)</title>
 </programme>
 <programme start="20251111124500 +0000" stop="20251111150000 +0000" channel="Sky Sport Austria 2 HD.skyde">
-    <title>Live ATP Finals: Einzel 1, 3. Tag in Turin (ITA)</title>
+    <title>Live ATP Finals: C. Alcaraz (ESP) - T. Fritz (USA), 3. Tag in Turin (ITA)</title>
 </programme>
 <programme start="20251111150000 +0000" stop="20251111153000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>WTA Finals: Review Riyadh 2025</title>
@@ -2673,10 +2673,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Tennis: Rafael Nadal - The No. 1 Story</title>
 </programme>
 <programme start="20251111170000 +0000" stop="20251111191000 +0000" channel="Sky Sport Austria 2 HD.skyde">
-    <title>Live ATP Finals: Doppel 2, 3. Tag in Turin (ITA)</title>
+    <title>Live ATP Finals: K. Krawietz (GER) / T. Puetz (GER) - J. Cash (GBR) / L. Glasspool (GBR), 3. Tag in Turin (ITA)</title>
 </programme>
-<programme start="20251111191000 +0000" stop="20251111213000 +0000" channel="Sky Sport Austria 2 HD.skyde">
-    <title>Live ATP Finals: Einzel 2, 3. Tag in Turin (ITA)</title>
+<programme start="20251111191000 +0000" stop="20251111233000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+    <title>Live ATP Finals: L. Musetti (ITA) - A. de Minaur (AUS), 3. Tag in Turin (ITA)</title>
 </programme>
 <programme start="20251110233000 +0000" stop="20251111000000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>Frauen-BL: Alle Spiele, alle Tore, 10. Spieltag komplett</title>
@@ -3176,13 +3176,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251110233000 +0000" stop="20251111000000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Showtime</title>
 </programme>
-<programme start="20251111000000 +0000" stop="20251111031500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20251111000000 +0000" stop="20251111023000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Washington Wizards @ Detroit Pistons</title>
 </programme>
-<programme start="20251111031500 +0000" stop="20251111033500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20251111023000 +0000" stop="20251111030000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Showtime - Post Show</title>
 </programme>
-<programme start="20251111033500 +0000" stop="20251111043000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20251111030000 +0000" stop="20251111043000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NHL: Columbus Blue Jackets @ Edmonton Oilers</title>
 </programme>
 <programme start="20251111043000 +0000" stop="20251111050000 +0000" channel="Sky Sport Top Event HD.skyde">

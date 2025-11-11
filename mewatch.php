@@ -580,7 +580,7 @@
     <programme start="20251111150000 +0000" stop="20251111160000 +0000" channel="CNA.mewatch">
         <title>Chinese Matchmakers - EP 1</title>
     </programme>
-    <programme start="20251111160000 +0000" stop="20251111160300 +0000" channel="CNA.mewatch">
+    <programme start="20251111160000 +0000" stop="20251111220000 +0000" channel="CNA.mewatch">
         <title>Headline News</title>
     </programme>
     <programme start="20251110160000 +0000" stop="20251111160000 +0000" channel="Oktolidays.mewatch">
@@ -601,11 +601,44 @@
     <programme start="20251111160000 +0000" stop="20251112160000 +0000" channel="spl02.mewatch">
         <title>No programmes streaming LIVE at this moment</title>
     </programme>
-    <programme start="20251110160000 +0000" stop="20251111160000 +0000" channel="now-80s.mewatch">
-        <title>Schedule To Be Announced</title>
+    <programme start="20251110170000 +0000" stop="20251110180000 +0000" channel="now-80s.mewatch">
+        <title>Monday Night at the Movies! - EP1</title>
     </programme>
-    <programme start="20251111160000 +0000" stop="20251112160000 +0000" channel="now-80s.mewatch">
-        <title>Schedule To Be Announced</title>
+    <programme start="20251110180000 +0000" stop="20251110190000 +0000" channel="now-80s.mewatch">
+        <title>Coiffured! Rick v Jason - EP1</title>
+    </programme>
+    <programme start="20251110190000 +0000" stop="20251110210000 +0000" channel="now-80s.mewatch">
+        <title>80s Boybands with Nathan Moore - EP1</title>
+    </programme>
+    <programme start="20251110210000 +0000" stop="20251110220000 +0000" channel="now-80s.mewatch">
+        <title>We Love Cheesy Pop Day! - EP1</title>
+    </programme>
+    <programme start="20251110220000 +0000" stop="20251110230000 +0000" channel="now-80s.mewatch">
+        <title>Complete George Michael: 1982-1989 - EP1</title>
+    </programme>
+    <programme start="20251110230000 +0000" stop="20251111020500 +0000" channel="now-80s.mewatch">
+        <title>The NOW Yearbook 1984 - EP1</title>
+    </programme>
+    <programme start="20251111020500 +0000" stop="20251111030000 +0000" channel="now-80s.mewatch">
+        <title>1984 Unleashed! - EP1</title>
+    </programme>
+    <programme start="20251111030000 +0000" stop="20251111050000 +0000" channel="now-80s.mewatch">
+        <title>Surely Not A Cover? Top 25 - EP1</title>
+    </programme>
+    <programme start="20251111050000 +0000" stop="20251111064500 +0000" channel="now-80s.mewatch">
+        <title>The UK Top 20 of the 80s - EP1</title>
+    </programme>
+    <programme start="20251111064500 +0000" stop="20251111070000 +0000" channel="now-80s.mewatch">
+        <title>Soft Rock &amp; Power Pop! - EP1</title>
+    </programme>
+    <programme start="20251111070000 +0000" stop="20251111150000 +0000" channel="now-80s.mewatch">
+        <title>They Packed a Punch! 1980-1989 - EP1</title>
+    </programme>
+    <programme start="20251111150000 +0000" stop="20251111160000 +0000" channel="now-80s.mewatch">
+        <title>Night Moves! - EP1</title>
+    </programme>
+    <programme start="20251111160000 +0000" stop="20251111180000 +0000" channel="now-80s.mewatch">
+        <title>Carol Decker&#039;s 30 Rock Chicks! - EP1</title>
     </programme>
     <programme start="20251110160000 +0000" stop="20251110163000 +0000" channel="now-70s.mewatch">
         <title>Tony Blackburn&#039;s Pop Party! 70-75 - EP1</title>
