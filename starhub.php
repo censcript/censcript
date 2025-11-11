@@ -6689,10 +6689,10 @@
         <title>Day 1 Evening Session</title>
     </programme>
     <programme start="20251110220000 +0000" stop="20251110230000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>UCI Asian Tour - Alula Tour Final Highlights</title>
+        <title>UCI Asian Tour - Alula Tour Final H/Ls</title>
     </programme>
     <programme start="20251110230000 +0000" stop="20251110233000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Spartan Super World Championship Mammoth Highlights</title>
+        <title>Spartan Super World Championship Mammoth H/Ls</title>
     </programme>
     <programme start="20251110233000 +0000" stop="20251111000000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Spartan 100M World Championship H/Ls</title>
@@ -8260,7 +8260,7 @@
     <programme start="20251111142700 +0000" stop="20251111151700 +0000" channel="Dragon TV.starhub">
         <title>CARE ON THE WAY</title>
     </programme>
-    <programme start="20251111151700 +0000" stop="20251111164000 +0000" channel="Dragon TV.starhub">
+    <programme start="20251111151700 +0000" stop="20251111160000 +0000" channel="Dragon TV.starhub">
         <title>THE CITY OF MUSICALS</title>
     </programme>
     <programme start="20251110160000 +0000" stop="20251110163000 +0000" channel="Travelxp HD.starhub">
