@@ -670,9 +670,6 @@
 <programme start="20251111010000 +0000" stop="20251111030000 +0000" channel="ANTV.vision">
 <title>Mangal Lakshmi</title>
 </programme>
-<programme start="20251111030000 +0000" stop="20251111063000 +0000" channel="ANTV.vision">
-<title>Mujhse Shaadi Karogi</title>
-</programme>
 <programme start="20251111063000 +0000" stop="20251111080000 +0000" channel="ANTV.vision">
 <title>Cinta Keluarga Pandya</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20251112091500 +0000" stop="20251112093000 +0000" channel="BTV.vision">
 <title>Info Seleb</title>
+</programme>
+<programme start="20251112093000 +0000" stop="20251112103000 +0000" channel="BTV.vision">
+<title>Berita Satu Sore</title>
 </programme>

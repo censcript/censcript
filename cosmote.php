@@ -222,12 +222,8 @@
     <title>Basketball: AEK - VEF Riga (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251112002000 +0700" stop="20251112012500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251112012500 +0700" stop="20251112015500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC 2025</title>
+<programme start="20251113024000 +0700" stop="20251113050000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Oklahoma City Thunder - Golden State Warriors</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251112015500 +0700" stop="20251112030000 +0700" channel="COSMOTE Sport 5 HD">
@@ -310,6 +306,10 @@
     <title>MotoGP 2025 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251113021500 +0700" stop="20251113030500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>2025 GT World Challenge Europe</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251112000000 +0700" stop="20251112023000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Julian Cash/Lloyd Glasspool - Kevin Krawietz/Tim Puetz (L)</title>
     <desc>Live: Ya</desc>
@@ -364,6 +364,10 @@
 </programme>
 <programme start="20251113000000 +0700" stop="20251113023000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Marcelo Arevalo/Mate Pavic - Christian Harrison/Evan King (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
+<programme start="20251113023000 +0700" stop="20251113050000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: Jannik Sinner - Alexander Zverev (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20251112010000 +0700" stop="20251112030000 +0700" channel="COSMOTE Sport 7 HD">
@@ -421,6 +425,10 @@
 <programme start="20251113013000 +0700" stop="20251113020000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251113020000 +0700" stop="20251113043000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>Volleyball: Las Palmas - Olympiacos (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20251112010000 +0700" stop="20251112030000 +0700" channel="COSMOTE Sport 8 HD">
     <title>COSMOTESport8HD</title>

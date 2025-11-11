@@ -2675,7 +2675,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251111170000 +0000" stop="20251111191000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live ATP Finals: K. Krawietz (GER) / T. Puetz (GER) - J. Cash (GBR) / L. Glasspool (GBR), 3. Tag in Turin (ITA)</title>
 </programme>
-<programme start="20251111191000 +0000" stop="20251112090000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20251111191000 +0000" stop="20251112003000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live ATP Finals: L. Musetti (ITA) - A. de Minaur (AUS), 3. Tag in Turin (ITA)</title>
 </programme>
 <programme start="20251110233000 +0000" stop="20251111000000 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -3672,45 +3672,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Das erstaunliche Leben des Walter Mitty</title>
 </programme>
 <programme start="20251111225500 +0000" stop="20251112004500 +0000" channel="Warner TV Film.skyde">
-    <title>Auf der Jagd nach dem grünen Diamanten</title>
-</programme>
-<programme start="20251110233500 +0000" stop="20251111020000 +0000" channel="Warner TV Film HD.skyde">
-    <title>A.I.: Künstliche Intelligenz</title>
-</programme>
-<programme start="20251111020000 +0000" stop="20251111033500 +0000" channel="Warner TV Film HD.skyde">
-    <title>Sie Leben</title>
-</programme>
-<programme start="20251111033500 +0000" stop="20251111050000 +0000" channel="Warner TV Film HD.skyde">
-    <title>Police Academy 4 - Und jetzt geht&#039;s rund</title>
-</programme>
-<programme start="20251111050000 +0000" stop="20251111074500 +0000" channel="Warner TV Film HD.skyde">
-    <title>The Dark Knight Rises</title>
-</programme>
-<programme start="20251111074500 +0000" stop="20251111101000 +0000" channel="Warner TV Film HD.skyde">
-    <title>Stoßtrupp Gold</title>
-</programme>
-<programme start="20251111101000 +0000" stop="20251111120000 +0000" channel="Warner TV Film HD.skyde">
-    <title>Brennpunkt L.A. - Lethal Weapon 2</title>
-</programme>
-<programme start="20251111120000 +0000" stop="20251111141000 +0000" channel="Warner TV Film HD.skyde">
-    <title>Batmans Rückkehr</title>
-</programme>
-<programme start="20251111141000 +0000" stop="20251111155000 +0000" channel="Warner TV Film HD.skyde">
-    <title>Der Knastcoach</title>
-</programme>
-<programme start="20251111155000 +0000" stop="20251111172000 +0000" channel="Warner TV Film HD.skyde">
-    <title>Date Night - Gangster für eine Nacht</title>
-</programme>
-<programme start="20251111172000 +0000" stop="20251111191500 +0000" channel="Warner TV Film HD.skyde">
-    <title>Per Anhalter durch die Galaxis</title>
-</programme>
-<programme start="20251111191500 +0000" stop="20251111210000 +0000" channel="Warner TV Film HD.skyde">
-    <title>The Watch - Nachbarn der 3. Art</title>
-</programme>
-<programme start="20251111210000 +0000" stop="20251111225500 +0000" channel="Warner TV Film HD.skyde">
-    <title>Das erstaunliche Leben des Walter Mitty</title>
-</programme>
-<programme start="20251111225500 +0000" stop="20251112004500 +0000" channel="Warner TV Film HD.skyde">
     <title>Auf der Jagd nach dem grünen Diamanten</title>
 </programme>
 <programme start="20251110231500 +0000" stop="20251111005500 +0000" channel="Warner TV Serie HD.skyde">
