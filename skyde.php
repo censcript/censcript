@@ -2675,7 +2675,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251111170000 +0000" stop="20251111191000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live ATP Finals: K. Krawietz (GER) / T. Puetz (GER) - J. Cash (GBR) / L. Glasspool (GBR), 3. Tag in Turin (ITA)</title>
 </programme>
-<programme start="20251111191000 +0000" stop="20251112003000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20251111191000 +0000" stop="20251112090000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live ATP Finals: L. Musetti (ITA) - A. de Minaur (AUS), 3. Tag in Turin (ITA)</title>
 </programme>
 <programme start="20251110233000 +0000" stop="20251111000000 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -2967,10 +2967,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>BL: Glanzparade - Die Show mit Buschmann, Fuss und Wagner</title>
 </programme>
 <programme start="20251111090000 +0000" stop="20251111100000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Sky Sport News: Der Morgen</title>
+    <title>Transfer Update: Die Show XXL</title>
 </programme>
 <programme start="20251111100000 +0000" stop="20251111110000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Transfer Update: Die Show XXL</title>
+    <title>Live Sky Sport News: DFB-Training</title>
 </programme>
 <programme start="20251111110000 +0000" stop="20251111120000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Der Mittag</title>
@@ -3146,13 +3146,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251111103000 +0000" stop="20251111124500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP Finals: M. Granollers (ESP) / H. Zeballos (ARG) - S. Bolelli (ITA)/ A. Vavassori (ITA), 3. Tag in Turin (ITA)</title>
 </programme>
-<programme start="20251111124500 +0000" stop="20251111154500 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20251111124500 +0000" stop="20251111150000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP Finals: C. Alcaraz (ESP) - T. Fritz (USA), 3. Tag in Turin (ITA)</title>
 </programme>
-<programme start="20251111154500 +0000" stop="20251111161500 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20251111150000 +0000" stop="20251111153000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA Finals: Review Riyadh 2025</title>
 </programme>
-<programme start="20251111161500 +0000" stop="20251111163000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20251111153000 +0000" stop="20251111163000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP Finals: Review Turin 2023</title>
 </programme>
 <programme start="20251111163000 +0000" stop="20251111170000 +0000" channel="Sky Sport Tennis HD.skyde">
@@ -3219,10 +3219,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Fußball: Nachspielzeit - Das Beste vom Fußball-Wochenende</title>
 </programme>
 <programme start="20251111103000 +0000" stop="20251111124500 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live ATP Finals: Doppel 1, 3. Tag in Turin (ITA)</title>
+    <title>Live ATP Finals: M. Granollers (ESP) / H. Zeballos (ARG) - S. Bolelli (ITA)/ A. Vavassori (ITA), 3. Tag in Turin (ITA)</title>
 </programme>
 <programme start="20251111124500 +0000" stop="20251111150000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live ATP Finals: Einzel 1, 3. Tag in Turin (ITA)</title>
+    <title>Live ATP Finals: C. Alcaraz (ESP) - T. Fritz (USA), 3. Tag in Turin (ITA)</title>
 </programme>
 <programme start="20251111150000 +0000" stop="20251111153000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>WTA Finals: Review Riyadh 2025</title>
@@ -3234,10 +3234,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Tennis: Rafael Nadal - The No. 1 Story</title>
 </programme>
 <programme start="20251111170000 +0000" stop="20251111191000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live ATP Finals: Doppel 2, 3. Tag in Turin (ITA)</title>
+    <title>Live ATP Finals: K. Krawietz (GER) / T. Puetz (GER) - J. Cash (GBR) / L. Glasspool (GBR), 3. Tag in Turin (ITA)</title>
 </programme>
 <programme start="20251111191000 +0000" stop="20251111213000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live ATP Finals: Einzel 2, 3. Tag in Turin (ITA)</title>
+    <title>Live ATP Finals: L. Musetti (ITA) - A. de Minaur (AUS), 3. Tag in Turin (ITA)</title>
 </programme>
 <programme start="20251111213000 +0000" stop="20251111231500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Fußball: Die Nacht von Paris - Terror am Stade de France</title>
