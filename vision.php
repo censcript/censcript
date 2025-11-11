@@ -667,8 +667,14 @@
 <programme start="20251112114500 +0000" stop="20251112121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
+<programme start="20251110230000 +0000" stop="20251111010000 +0000" channel="ANTV.vision">
+<title>Duel Naga Wulung</title>
+</programme>
 <programme start="20251111010000 +0000" stop="20251111030000 +0000" channel="ANTV.vision">
 <title>Mangal Lakshmi</title>
+</programme>
+<programme start="20251111030000 +0000" stop="20251111063000 +0000" channel="ANTV.vision">
+<title>Mujhse Shaadi Karogi</title>
 </programme>
 <programme start="20251111063000 +0000" stop="20251111080000 +0000" channel="ANTV.vision">
 <title>Cinta Keluarga Pandya</title>
@@ -1491,10 +1497,4 @@
 </programme>
 <programme start="20251112083000 +0000" stop="20251112091500 +0000" channel="BTV.vision">
 <title>Figur Publik</title>
-</programme>
-<programme start="20251112091500 +0000" stop="20251112093000 +0000" channel="BTV.vision">
-<title>Info Seleb</title>
-</programme>
-<programme start="20251112093000 +0000" stop="20251112103000 +0000" channel="BTV.vision">
-<title>Berita Satu Sore</title>
 </programme>
