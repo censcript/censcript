@@ -226,10 +226,6 @@
     <title>Basketball: AEK - VEF Riga</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251112042000 +0700" stop="20251112060000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: MotoGP 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251112060000 +0700" stop="20251112072000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Motorsports: Moto3 2025</title>
     <desc>Live: Tidak</desc>
@@ -318,8 +314,8 @@
     <title>MotoGP 2025 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251112050000 +0700" stop="20251112053000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Watersports: Sailing to the Games 2025 E5</title>
+<programme start="20251113062500 +0700" stop="20251113072000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251112053000 +0700" stop="20251112093000 +0700" channel="COSMOTE Sport 6 HD">
