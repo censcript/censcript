@@ -2903,43 +2903,43 @@
         <title>Varisu</title>
     </programme>
     <programme start="20251110160000 +0000" stop="20251110163000 +0000" channel="ANC.starhub">
-        <title>The World Tonight</title>
+        <title>THE WORLD TONIGHT</title>
     </programme>
     <programme start="20251110163000 +0000" stop="20251110170000 +0000" channel="ANC.starhub">
-        <title>Dayaw</title>
+        <title>DAYAW</title>
     </programme>
     <programme start="20251110170000 +0000" stop="20251110180000 +0000" channel="ANC.starhub">
-        <title>Headstart</title>
+        <title>HEADSTART</title>
     </programme>
     <programme start="20251110180000 +0000" stop="20251110183000 +0000" channel="ANC.starhub">
-        <title>Eic On The Move</title>
+        <title>EIC ON THE MOVE</title>
     </programme>
     <programme start="20251110183000 +0000" stop="20251110190000 +0000" channel="ANC.starhub">
-        <title>The A-List</title>
+        <title>THE A-LIST</title>
     </programme>
     <programme start="20251110190000 +0000" stop="20251110193000 +0000" channel="ANC.starhub">
-        <title>Asian Air Safari</title>
+        <title>ASIAN AIR SAFARI</title>
     </programme>
     <programme start="20251110193000 +0000" stop="20251110200000 +0000" channel="ANC.starhub">
-        <title>Rev+</title>
+        <title>REV+</title>
     </programme>
     <programme start="20251110200000 +0000" stop="20251110203000 +0000" channel="ANC.starhub">
-        <title>Insights: Israel And Middle East</title>
+        <title>INSIGHTS: ISRAEL AND MIDDLE EAST</title>
     </programme>
     <programme start="20251110203000 +0000" stop="20251110210000 +0000" channel="ANC.starhub">
-        <title>Tomorrow Today</title>
+        <title>TOMORROW TODAY</title>
     </programme>
     <programme start="20251110210000 +0000" stop="20251110213000 +0000" channel="ANC.starhub">
-        <title>Banker After Dark</title>
+        <title>BANKER AFTER DARK</title>
     </programme>
     <programme start="20251110213000 +0000" stop="20251110220000 +0000" channel="ANC.starhub">
-        <title>Citizen Pinoy</title>
+        <title>CITIZEN PINOY</title>
     </programme>
     <programme start="20251110220000 +0000" stop="20251110230000 +0000" channel="ANC.starhub">
-        <title>Market Edge</title>
+        <title>MARKET EDGE</title>
     </programme>
     <programme start="20251110230000 +0000" stop="20251110233000 +0000" channel="ANC.starhub">
-        <title>In Good Shape</title>
+        <title>IN GOOD SHAPE</title>
     </programme>
     <programme start="20251110233000 +0000" stop="20251111000000 +0000" channel="ANC.starhub">
         <title>EXECUTIVE CLASS</title>
@@ -3798,6 +3798,9 @@
     </programme>
     <programme start="20251110202500 +0000" stop="20251110205600 +0000" channel="NHK World Premium HD.starhub">
         <title>Recharge Your Knowledge with Children&#039;s News (R)</title>
+    </programme>
+    <programme start="20251110205600 +0000" stop="20251110210000 +0000" channel="NHK World Premium HD.starhub">
+        <title>World Weather</title>
     </programme>
     <programme start="20251110210000 +0000" stop="20251110220000 +0000" channel="NHK World Premium HD.starhub">
         <title>News: Good Morning, Japan</title>

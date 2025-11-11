@@ -638,10 +638,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251111103000 +0000" stop="20251111105000 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
-<programme start="20251111105000 +0000" stop="20251111110000 +0000" channel="Cartoonito.skyde">
+<programme start="20251111105000 +0000" stop="20251111105500 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
-<programme start="20251111110000 +0000" stop="20251111111500 +0000" channel="Cartoonito.skyde">
+<programme start="20251111105500 +0000" stop="20251111111500 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
 <programme start="20251111111500 +0000" stop="20251111112500 +0000" channel="Cartoonito.skyde">
@@ -662,22 +662,22 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251111122500 +0000" stop="20251111123500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20251111123500 +0000" stop="20251111125500 +0000" channel="Cartoonito.skyde">
+<programme start="20251111123500 +0000" stop="20251111125000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20251111125500 +0000" stop="20251111130500 +0000" channel="Cartoonito.skyde">
+<programme start="20251111125000 +0000" stop="20251111130500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
 <programme start="20251111130500 +0000" stop="20251111131500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20251111131500 +0000" stop="20251111133300 +0000" channel="Cartoonito.skyde">
+<programme start="20251111131500 +0000" stop="20251111133000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20251111133300 +0000" stop="20251111133700 +0000" channel="Cartoonito.skyde">
+<programme start="20251111133000 +0000" stop="20251111133500 +0000" channel="Cartoonito.skyde">
     <title>Lamput</title>
 </programme>
-<programme start="20251111133700 +0000" stop="20251111134500 +0000" channel="Cartoonito.skyde">
+<programme start="20251111133500 +0000" stop="20251111134500 +0000" channel="Cartoonito.skyde">
     <title>Lamput</title>
 </programme>
 <programme start="20251111134500 +0000" stop="20251111140000 +0000" channel="Cartoonito.skyde">
@@ -707,10 +707,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251111152500 +0000" stop="20251111153000 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
-<programme start="20251111153000 +0000" stop="20251111154000 +0000" channel="Cartoonito.skyde">
+<programme start="20251111153000 +0000" stop="20251111153500 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
-<programme start="20251111154000 +0000" stop="20251111155500 +0000" channel="Cartoonito.skyde">
+<programme start="20251111153500 +0000" stop="20251111155500 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
 <programme start="20251111155500 +0000" stop="20251111160500 +0000" channel="Cartoonito.skyde">
@@ -719,10 +719,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251111160500 +0000" stop="20251111162000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20251111162000 +0000" stop="20251111163000 +0000" channel="Cartoonito.skyde">
+<programme start="20251111162000 +0000" stop="20251111163500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20251111163000 +0000" stop="20251111164500 +0000" channel="Cartoonito.skyde">
+<programme start="20251111163500 +0000" stop="20251111164500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
 <programme start="20251111164500 +0000" stop="20251111165500 +0000" channel="Cartoonito.skyde">
@@ -767,10 +767,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251111182500 +0000" stop="20251111183000 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
-<programme start="20251111183000 +0000" stop="20251111184000 +0000" channel="Cartoonito.skyde">
+<programme start="20251111183000 +0000" stop="20251111183500 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
-<programme start="20251111184000 +0000" stop="20251111190000 +0000" channel="Cartoonito.skyde">
+<programme start="20251111183500 +0000" stop="20251111190000 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
 <programme start="20251111190000 +0000" stop="20251111191000 +0000" channel="Cartoonito.skyde">
@@ -785,10 +785,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251111193500 +0000" stop="20251111195500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20251111195500 +0000" stop="20251111200000 +0000" channel="Cartoonito.skyde">
+<programme start="20251111195500 +0000" stop="20251111200500 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20251111200000 +0000" stop="20251111201000 +0000" channel="Cartoonito.skyde">
+<programme start="20251111200500 +0000" stop="20251111201000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
 <programme start="20251111201000 +0000" stop="20251111202500 +0000" channel="Cartoonito.skyde">
@@ -815,13 +815,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251111212500 +0000" stop="20251111213500 +0000" channel="Cartoonito.skyde">
     <title>Batwheels</title>
 </programme>
-<programme start="20251111213500 +0000" stop="20251111215000 +0000" channel="Cartoonito.skyde">
+<programme start="20251111213500 +0000" stop="20251111215500 +0000" channel="Cartoonito.skyde">
     <title>Batwheels</title>
 </programme>
-<programme start="20251111215000 +0000" stop="20251111220000 +0000" channel="Cartoonito.skyde">
+<programme start="20251111215500 +0000" stop="20251111220500 +0000" channel="Cartoonito.skyde">
     <title>Bugs Bunnys Baumeister</title>
 </programme>
-<programme start="20251111220000 +0000" stop="20251111222000 +0000" channel="Cartoonito.skyde">
+<programme start="20251111220500 +0000" stop="20251111222000 +0000" channel="Cartoonito.skyde">
     <title>Bugs Bunnys Baumeister</title>
 </programme>
 <programme start="20251111222000 +0000" stop="20251111223000 +0000" channel="Cartoonito.skyde">
@@ -1922,93 +1922,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251111223000 +0000" stop="20251112005000 +0000" channel="Sky Cinema Premiere HD.skyde">
     <title>Joker: Folie à Deux</title>
 </programme>
-<programme start="20251110235500 +0000" stop="20251111004000 +0000" channel="Sky Crime HD.skyde">
-    <title>Murder by Medic - Tödliche Behandlung</title>
-</programme>
-<programme start="20251111004000 +0000" stop="20251111013000 +0000" channel="Sky Crime HD.skyde">
-    <title>Murder by Medic - Tödliche Behandlung</title>
-</programme>
-<programme start="20251111013000 +0000" stop="20251111021500 +0000" channel="Sky Crime HD.skyde">
-    <title>A Killer&#039;s Mistake - Ein Fehler zu viel</title>
-</programme>
-<programme start="20251111021500 +0000" stop="20251111030000 +0000" channel="Sky Crime HD.skyde">
-    <title>A Killer&#039;s Mistake - Ein Fehler zu viel</title>
-</programme>
-<programme start="20251111030000 +0000" stop="20251111035000 +0000" channel="Sky Crime HD.skyde">
-    <title>Body Cam Cops</title>
-</programme>
-<programme start="20251111035000 +0000" stop="20251111044000 +0000" channel="Sky Crime HD.skyde">
-    <title>Body Cam Cops</title>
-</programme>
-<programme start="20251111044000 +0000" stop="20251111053000 +0000" channel="Sky Crime HD.skyde">
-    <title>Body Cam Cops</title>
-</programme>
-<programme start="20251111053000 +0000" stop="20251111062500 +0000" channel="Sky Crime HD.skyde">
-    <title>Body Cam Cops</title>
-</programme>
-<programme start="20251111062500 +0000" stop="20251111071500 +0000" channel="Sky Crime HD.skyde">
-    <title>Hours to Kill - Zeitachse des Todes</title>
-</programme>
-<programme start="20251111071500 +0000" stop="20251111080000 +0000" channel="Sky Crime HD.skyde">
-    <title>Hours to Kill - Zeitachse des Todes</title>
-</programme>
-<programme start="20251111080000 +0000" stop="20251111085000 +0000" channel="Sky Crime HD.skyde">
-    <title>Cold Case Killers</title>
-</programme>
-<programme start="20251111085000 +0000" stop="20251111094000 +0000" channel="Sky Crime HD.skyde">
-    <title>Cold Case Killers</title>
-</programme>
-<programme start="20251111094000 +0000" stop="20251111102500 +0000" channel="Sky Crime HD.skyde">
-    <title>The First 48</title>
-</programme>
-<programme start="20251111102500 +0000" stop="20251111111500 +0000" channel="Sky Crime HD.skyde">
-    <title>The First 48</title>
-</programme>
-<programme start="20251111111500 +0000" stop="20251111120500 +0000" channel="Sky Crime HD.skyde">
-    <title>A Killer&#039;s Mistake - Ein Fehler zu viel</title>
-</programme>
-<programme start="20251111120500 +0000" stop="20251111125000 +0000" channel="Sky Crime HD.skyde">
-    <title>A Killer&#039;s Mistake - Ein Fehler zu viel</title>
-</programme>
-<programme start="20251111125000 +0000" stop="20251111133500 +0000" channel="Sky Crime HD.skyde">
-    <title>Hours to Kill - Zeitachse des Todes</title>
-</programme>
-<programme start="20251111133500 +0000" stop="20251111142500 +0000" channel="Sky Crime HD.skyde">
-    <title>Hours to Kill - Zeitachse des Todes</title>
-</programme>
-<programme start="20251111142500 +0000" stop="20251111151500 +0000" channel="Sky Crime HD.skyde">
-    <title>Murder by Medic - Tödliche Behandlung</title>
-</programme>
-<programme start="20251111151500 +0000" stop="20251111160500 +0000" channel="Sky Crime HD.skyde">
-    <title>Murder by Medic - Tödliche Behandlung</title>
-</programme>
-<programme start="20251111160500 +0000" stop="20251111165000 +0000" channel="Sky Crime HD.skyde">
-    <title>The First 48</title>
-</programme>
-<programme start="20251111165000 +0000" stop="20251111174000 +0000" channel="Sky Crime HD.skyde">
-    <title>The First 48</title>
-</programme>
-<programme start="20251111174000 +0000" stop="20251111182500 +0000" channel="Sky Crime HD.skyde">
-    <title>Hours to Kill - Zeitachse des Todes</title>
-</programme>
-<programme start="20251111182500 +0000" stop="20251111191500 +0000" channel="Sky Crime HD.skyde">
-    <title>Hours to Kill - Zeitachse des Todes</title>
-</programme>
-<programme start="20251111191500 +0000" stop="20251111200000 +0000" channel="Sky Crime HD.skyde">
-    <title>The Real Manhunter</title>
-</programme>
-<programme start="20251111200000 +0000" stop="20251111205000 +0000" channel="Sky Crime HD.skyde">
-    <title>The Real Manhunter</title>
-</programme>
-<programme start="20251111205000 +0000" stop="20251111214000 +0000" channel="Sky Crime HD.skyde">
-    <title>Murder by Medic - Tödliche Behandlung</title>
-</programme>
-<programme start="20251111214000 +0000" stop="20251111223000 +0000" channel="Sky Crime HD.skyde">
-    <title>Murder by Medic - Tödliche Behandlung</title>
-</programme>
-<programme start="20251111223000 +0000" stop="20251111232000 +0000" channel="Sky Crime HD.skyde">
-    <title>Millionaire Murders</title>
-</programme>
 <programme start="20251110231000 +0000" stop="20251110234000 +0000" channel="Sky Documentaries HD.skyde">
     <title>Police Ten 7 - Auf Streife in Down Under</title>
 </programme>
@@ -2594,38 +2507,41 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251111225000 +0000" stop="20251111234500 +0000" channel="Sky Showcase HD.skyde">
     <title>Helden der Tierwelt</title>
 </programme>
-<programme start="20251110234500 +0000" stop="20251111014500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20251110230000 +0000" stop="20251111000000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: Alle Spiele, alle Tore 13. Runde (Sonntag)</title>
+</programme>
+<programme start="20251111000000 +0000" stop="20251111020000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: FK Austria Wien - Grazer AK 1902, 13. Runde</title>
 </programme>
-<programme start="20251111014500 +0000" stop="20251111034500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20251111020000 +0000" stop="20251111040000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: LASK - SCR Altach, 13. Runde</title>
 </programme>
-<programme start="20251111034500 +0000" stop="20251111054500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20251111040000 +0000" stop="20251111060000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: SV Oberbank Ried - FC Blau-Weiß Linz, 13. Runde</title>
 </programme>
-<programme start="20251111054500 +0000" stop="20251111061500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20251111060000 +0000" stop="20251111063000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: 90in30: STU - RBS, 13. Runde</title>
 </programme>
-<programme start="20251111061500 +0000" stop="20251111064500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20251111063000 +0000" stop="20251111070000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA CL: Magazin</title>
 </programme>
-<programme start="20251111064500 +0000" stop="20251111071500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20251111070000 +0000" stop="20251111073000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Fußball: Heimspiel - Austria Salzburg</title>
 </programme>
-<programme start="20251111071500 +0000" stop="20251111091500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20251111073000 +0000" stop="20251111093000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Junioren: Österreich - Mali, FIFA U-17 WM 2025</title>
 </programme>
-<programme start="20251111091500 +0000" stop="20251111100000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20251111093000 +0000" stop="20251111100000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Fußball: Herzog gegen Herzig - Die Next Generation Show (USC Kirchberg am Wagram)</title>
 </programme>
 <programme start="20251111100000 +0000" stop="20251111103000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: 90in30: STU - RBS, 13. Runde</title>
 </programme>
 <programme start="20251111103000 +0000" stop="20251111124500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live ATP Finals: Doppel 1, 3. Tag in Turin (ITA)</title>
+    <title>Live ATP Finals: M. Granollers (ESP) / H. Zeballos (ARG) - S. Bolelli (ITA)/ A. Vavassori (ITA), 3. Tag in Turin (ITA)</title>
 </programme>
 <programme start="20251111124500 +0000" stop="20251111150000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live ATP Finals: Einzel 1, 3. Tag in Turin (ITA)</title>
+    <title>Live ATP Finals: C. Alcaraz (ESP) - T. Fritz (USA), 3. Tag in Turin (ITA)</title>
 </programme>
 <programme start="20251111150000 +0000" stop="20251111153500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: 90in30: STU - RBS, 13. Runde</title>
@@ -2655,10 +2571,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Es folgt: LIVE ATP World Tour</title>
 </programme>
 <programme start="20251111103000 +0000" stop="20251111124500 +0000" channel="Sky Sport Austria 2 HD.skyde">
-    <title>Live ATP Finals: Doppel 1, 3. Tag in Turin (ITA)</title>
+    <title>Live ATP Finals: M. Granollers (ESP) / H. Zeballos (ARG) - S. Bolelli (ITA)/ A. Vavassori (ITA), 3. Tag in Turin (ITA)</title>
 </programme>
 <programme start="20251111124500 +0000" stop="20251111150000 +0000" channel="Sky Sport Austria 2 HD.skyde">
-    <title>Live ATP Finals: Einzel 1, 3. Tag in Turin (ITA)</title>
+    <title>Live ATP Finals: C. Alcaraz (ESP) - T. Fritz (USA), 3. Tag in Turin (ITA)</title>
 </programme>
 <programme start="20251111150000 +0000" stop="20251111153000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>WTA Finals: Review Riyadh 2025</title>
@@ -2670,10 +2586,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Tennis: Rafael Nadal - The No. 1 Story</title>
 </programme>
 <programme start="20251111170000 +0000" stop="20251111191000 +0000" channel="Sky Sport Austria 2 HD.skyde">
-    <title>Live ATP Finals: Doppel 2, 3. Tag in Turin (ITA)</title>
+    <title>Live ATP Finals: K. Krawietz (GER) / T. Puetz (GER) - J. Cash (GBR) / L. Glasspool (GBR), 3. Tag in Turin (ITA)</title>
 </programme>
-<programme start="20251111191000 +0000" stop="20251111213000 +0000" channel="Sky Sport Austria 2 HD.skyde">
-    <title>Live ATP Finals: Einzel 2, 3. Tag in Turin (ITA)</title>
+<programme start="20251111191000 +0000" stop="20251111233000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+    <title>Live ATP Finals: L. Musetti (ITA) - A. de Minaur (AUS), 3. Tag in Turin (ITA)</title>
 </programme>
 <programme start="20251110233000 +0000" stop="20251111000000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>Frauen-BL: Alle Spiele, alle Tore, 10. Spieltag komplett</title>
@@ -2882,66 +2798,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251111220000 +0000" stop="20251112010000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Ryder Cup: 3. Tag in Farmingdale, NY (USA)</title>
 </programme>
-<programme start="20251111003000 +0000" stop="20251111013000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NHL: On the Fly</title>
-</programme>
-<programme start="20251111013000 +0000" stop="20251111043000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>Live NHL: Columbus Blue Jackets @ Edmonton Oilers</title>
-</programme>
-<programme start="20251111043000 +0000" stop="20251111053000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>MotoGP: Rennen - GP Portugal</title>
-</programme>
-<programme start="20251111053000 +0000" stop="20251111060000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>MotoE: 2. Rennen - GP Portugal</title>
-</programme>
-<programme start="20251111060000 +0000" stop="20251111080000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NHL: Columbus Blue Jackets @ Edmonton Oilers</title>
-</programme>
-<programme start="20251111080000 +0000" stop="20251111083000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NBA: Showtime</title>
-</programme>
-<programme start="20251111083000 +0000" stop="20251111103000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NBA: Washington Wizards @ Detroit Pistons</title>
-</programme>
-<programme start="20251111103000 +0000" stop="20251111104500 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NHL: CBJ@EDM</title>
-</programme>
-<programme start="20251111104500 +0000" stop="20251111123000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>Fußball: Die Nacht von Paris - Terror am Stade de France</title>
-</programme>
-<programme start="20251111123000 +0000" stop="20251111130000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>Frauen-BL: Alle Spiele, alle Tore, 10. Spieltag komplett</title>
-</programme>
-<programme start="20251111130000 +0000" stop="20251111133000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NHL: On the Fly</title>
-</programme>
-<programme start="20251111133000 +0000" stop="20251111153000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>UEFA EL: FC Salzburg - Go Ahead Eagles, Ligaphase, 4. Spieltag</title>
-</programme>
-<programme start="20251111153000 +0000" stop="20251111160000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>MotoE: 2. Rennen - GP Portugal</title>
-</programme>
-<programme start="20251111160000 +0000" stop="20251111163000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>Fußball: scooore Niederlande! Alle Tore</title>
-</programme>
-<programme start="20251111163000 +0000" stop="20251111170000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>Frauen-BL: Alle Spiele, alle Tore, 10. Spieltag komplett</title>
-</programme>
-<programme start="20251111170000 +0000" stop="20251111180000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>WRC: Highlights: FORUM8 Rally Japan</title>
-</programme>
-<programme start="20251111180000 +0000" stop="20251111190000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>MotoGP: Highlights: GP Portugal</title>
-</programme>
-<programme start="20251111190000 +0000" stop="20251111193000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>Fußball: scooore Niederlande! Alle Tore</title>
-</programme>
-<programme start="20251111193000 +0000" stop="20251111213000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NBA: Washington Wizards @ Detroit Pistons</title>
-</programme>
-<programme start="20251111213000 +0000" stop="20251111233000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NHL: Columbus Blue Jackets @ Edmonton Oilers</title>
-</programme>
 <programme start="20251110230000 +0000" stop="20251111000000 +0000" channel="Sky Sport News HD.skyde">
     <title>Sky Sport News: Nightline</title>
 </programme>
@@ -3122,29 +2978,29 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251111220000 +0000" stop="20251111230000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: Generation xG</title>
 </programme>
-<programme start="20251110233000 +0000" stop="20251111013000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20251110235000 +0000" stop="20251111013000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP Finals: M. Arevalo (ESA) / M. Pavic (CRO) - J. Salisbury (GBR) / N. Skupski (GBR), 2. Tag in Turin (ITA)</title>
 </programme>
 <programme start="20251111013000 +0000" stop="20251111020000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Tennis: Rafael Nadal - The No. 1 Story</title>
 </programme>
-<programme start="20251111020000 +0000" stop="20251111040000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20251111020000 +0000" stop="20251111033000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP Finals: H. Heliovaara (FIN) / H. Patten (GBR) - C. Harrison (USA) / E. King (USA), 2. Tag in Turin (ITA)</title>
 </programme>
-<programme start="20251111040000 +0000" stop="20251111063000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20251111033000 +0000" stop="20251111060000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA Finals: A. Sabalenka - E. Rybakina (KAZ), Finale 2025 in Riyadh (SAU)</title>
 </programme>
-<programme start="20251111063000 +0000" stop="20251111083000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20251111060000 +0000" stop="20251111080000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP Finals: L. Musetti (ITA) - T. Fritz (USA), 2. Tag in Turin (ITA)</title>
 </programme>
-<programme start="20251111083000 +0000" stop="20251111103000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20251111080000 +0000" stop="20251111103000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP Finals: J. Sinner (ITA) - F. Auger-Aliassime (CAN), 2. Tag in Turin (ITA)</title>
 </programme>
 <programme start="20251111103000 +0000" stop="20251111124500 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP Finals: Doppel 1, 3. Tag in Turin (ITA)</title>
+    <title>Live ATP Finals: M. Granollers (ESP) / H. Zeballos (ARG) - S. Bolelli (ITA)/ A. Vavassori (ITA), 3. Tag in Turin (ITA)</title>
 </programme>
 <programme start="20251111124500 +0000" stop="20251111150000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP Finals: Einzel 1, 3. Tag in Turin (ITA)</title>
+    <title>Live ATP Finals: C. Alcaraz (ESP) - T. Fritz (USA), 3. Tag in Turin (ITA)</title>
 </programme>
 <programme start="20251111150000 +0000" stop="20251111153000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA Finals: Review Riyadh 2025</title>
@@ -3156,16 +3012,16 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Tennis: Rafael Nadal - The No. 1 Story</title>
 </programme>
 <programme start="20251111170000 +0000" stop="20251111191000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP Finals: Doppel 2, 3. Tag in Turin (ITA)</title>
+    <title>Live ATP Finals: K. Krawietz (GER) / T. Puetz (GER) - J. Cash (GBR) / L. Glasspool (GBR), 3. Tag in Turin (ITA)</title>
 </programme>
 <programme start="20251111191000 +0000" stop="20251111213000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP Finals: Einzel 2, 3. Tag in Turin (ITA)</title>
+    <title>Live ATP Finals: L. Musetti (ITA) - A. de Minaur (AUS), 3. Tag in Turin (ITA)</title>
 </programme>
 <programme start="20251111213000 +0000" stop="20251111220000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA Finals: Review Riyadh 2025</title>
 </programme>
 <programme start="20251111220000 +0000" stop="20251112000000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP Finals: Einzel 1, 3. Tag in Turin (ITA)</title>
+    <title>ATP Finals: C. Alcaraz (ESP) - T. Fritz (USA), 3. Tag in Turin (ITA)</title>
 </programme>
 <programme start="20251110230000 +0000" stop="20251110233000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>F1: Rennen Kompakt - GP Sao Paulo</title>
@@ -3216,10 +3072,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Fußball: Nachspielzeit - Das Beste vom Fußball-Wochenende</title>
 </programme>
 <programme start="20251111103000 +0000" stop="20251111124500 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live ATP Finals: Doppel 1, 3. Tag in Turin (ITA)</title>
+    <title>Live ATP Finals: M. Granollers (ESP) / H. Zeballos (ARG) - S. Bolelli (ITA)/ A. Vavassori (ITA), 3. Tag in Turin (ITA)</title>
 </programme>
 <programme start="20251111124500 +0000" stop="20251111150000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live ATP Finals: Einzel 1, 3. Tag in Turin (ITA)</title>
+    <title>Live ATP Finals: C. Alcaraz (ESP) - T. Fritz (USA), 3. Tag in Turin (ITA)</title>
 </programme>
 <programme start="20251111150000 +0000" stop="20251111153000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>WTA Finals: Review Riyadh 2025</title>
@@ -3231,10 +3087,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Tennis: Rafael Nadal - The No. 1 Story</title>
 </programme>
 <programme start="20251111170000 +0000" stop="20251111191000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live ATP Finals: Doppel 2, 3. Tag in Turin (ITA)</title>
+    <title>Live ATP Finals: K. Krawietz (GER) / T. Puetz (GER) - J. Cash (GBR) / L. Glasspool (GBR), 3. Tag in Turin (ITA)</title>
 </programme>
 <programme start="20251111191000 +0000" stop="20251111213000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live ATP Finals: Einzel 2, 3. Tag in Turin (ITA)</title>
+    <title>Live ATP Finals: L. Musetti (ITA) - A. de Minaur (AUS), 3. Tag in Turin (ITA)</title>
 </programme>
 <programme start="20251111213000 +0000" stop="20251111231500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Fußball: Die Nacht von Paris - Terror am Stade de France</title>
@@ -3494,10 +3350,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251111042000 +0000" stop="20251111044500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20251111044500 +0000" stop="20251111050500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251111044500 +0000" stop="20251111051000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20251111050500 +0000" stop="20251111053500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251111051000 +0000" stop="20251111053500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
 <programme start="20251111053500 +0000" stop="20251111060000 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3509,46 +3365,46 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251111062500 +0000" stop="20251111065000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Die Nanny</title>
 </programme>
-<programme start="20251111065000 +0000" stop="20251111072000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251111065000 +0000" stop="20251111071500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Die Nanny</title>
 </programme>
-<programme start="20251111072000 +0000" stop="20251111074500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251111071500 +0000" stop="20251111074500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Friends</title>
 </programme>
 <programme start="20251111074500 +0000" stop="20251111081000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Friends</title>
 </programme>
-<programme start="20251111081000 +0000" stop="20251111083000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251111081000 +0000" stop="20251111083500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Friends</title>
 </programme>
-<programme start="20251111083000 +0000" stop="20251111090000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251111083500 +0000" stop="20251111090000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Friends</title>
 </programme>
-<programme start="20251111090000 +0000" stop="20251111092000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251111090000 +0000" stop="20251111092500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20251111092000 +0000" stop="20251111094500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251111092500 +0000" stop="20251111095000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20251111094500 +0000" stop="20251111101000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251111095000 +0000" stop="20251111101500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20251111101000 +0000" stop="20251111103500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251111101500 +0000" stop="20251111104000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20251111103500 +0000" stop="20251111110000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251111104000 +0000" stop="20251111110500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Animal Control</title>
 </programme>
-<programme start="20251111110000 +0000" stop="20251111112500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251111110500 +0000" stop="20251111113000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Animal Control</title>
 </programme>
-<programme start="20251111112500 +0000" stop="20251111115000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251111113000 +0000" stop="20251111115000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Animal Control</title>
 </programme>
-<programme start="20251111115000 +0000" stop="20251111121500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251111115000 +0000" stop="20251111122000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Animal Control</title>
 </programme>
-<programme start="20251111121500 +0000" stop="20251111124000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251111122000 +0000" stop="20251111124000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
 <programme start="20251111124000 +0000" stop="20251111130500 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3563,22 +3419,22 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251111135500 +0000" stop="20251111142000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
-<programme start="20251111142000 +0000" stop="20251111145000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251111142000 +0000" stop="20251111144500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
-<programme start="20251111145000 +0000" stop="20251111151500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251111144500 +0000" stop="20251111151000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
-<programme start="20251111151500 +0000" stop="20251111154000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251111151000 +0000" stop="20251111153500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
-<programme start="20251111154000 +0000" stop="20251111160500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251111153500 +0000" stop="20251111160000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Two and a Half Men</title>
 </programme>
-<programme start="20251111160500 +0000" stop="20251111163000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251111160000 +0000" stop="20251111162500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Two and a Half Men</title>
 </programme>
-<programme start="20251111163000 +0000" stop="20251111165000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251111162500 +0000" stop="20251111165000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Two and a Half Men</title>
 </programme>
 <programme start="20251111165000 +0000" stop="20251111171500 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3599,10 +3455,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251111185000 +0000" stop="20251111191500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Big Bang Theory</title>
 </programme>
-<programme start="20251111191500 +0000" stop="20251111193500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251111191500 +0000" stop="20251111194000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Two and a Half Men</title>
 </programme>
-<programme start="20251111193500 +0000" stop="20251111200000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251111194000 +0000" stop="20251111200000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Two and a Half Men</title>
 </programme>
 <programme start="20251111200000 +0000" stop="20251111202500 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3623,10 +3479,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251111220500 +0000" stop="20251111221500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Robot Chicken</title>
 </programme>
-<programme start="20251111221500 +0000" stop="20251111223500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251111221500 +0000" stop="20251111223000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Robot Chicken</title>
 </programme>
-<programme start="20251111223500 +0000" stop="20251111224500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251111223000 +0000" stop="20251111224500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Robot Chicken</title>
 </programme>
 <programme start="20251111224500 +0000" stop="20251111230000 +0000" channel="Warner TV Comedy HD.skyde">
