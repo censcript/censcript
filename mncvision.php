@@ -167,7 +167,7 @@
     <title>News (L)</title>
 </programme>
 <programme start="20251111043000 +0000" stop="20251111050000 +0000" channel="Al Jazeera English.mncvision">
-    <title>The Stream</title>
+    <title>The Stream: Science Vs Spirit</title>
 </programme>
 <programme start="20251111050000 +0000" stop="20251111053000 +0000" channel="Al Jazeera English.mncvision">
     <title>News (L)</title>
@@ -206,7 +206,7 @@
     <title>Inside Story</title>
 </programme>
 <programme start="20251111120000 +0000" stop="20251111130000 +0000" channel="Al Jazeera English.mncvision">
-    <title>Al Jazeera World: Price Of...</title>
+    <title>Al Jazeera Investigations</title>
 </programme>
 <programme start="20251111130000 +0000" stop="20251111140000 +0000" channel="Al Jazeera English.mncvision">
     <title>NewsHour</title>
@@ -215,7 +215,7 @@
     <title>News (L)</title>
 </programme>
 <programme start="20251111143000 +0000" stop="20251111150000 +0000" channel="Al Jazeera English.mncvision">
-    <title>The Stream</title>
+    <title>The Stream: Science Vs Spirit</title>
 </programme>
 <programme start="20251111150000 +0000" stop="20251111160000 +0000" channel="Al Jazeera English.mncvision">
     <title>NewsHour</title>
@@ -6580,11 +6580,14 @@
 <programme start="20251111034500 +0000" stop="20251111040000 +0000" channel="NHK World Premium.mncvision">
     <title>The Ghost Writer&#039;s Wife, Ep 32</title>
 </programme>
-<programme start="20251111040000 +0000" stop="20251111040500 +0000" channel="NHK World Premium.mncvision">
-    <title>News</title>
+<programme start="20251111040000 +0000" stop="20251111045500 +0000" channel="NHK World Premium.mncvision">
+    <title>Classical Music Club</title>
 </programme>
-<programme start="20251111040500 +0000" stop="20251111055000 +0000" channel="NHK World Premium.mncvision">
-    <title>News Around Japan</title>
+<programme start="20251111045500 +0000" stop="20251111052400 +0000" channel="NHK World Premium.mncvision">
+    <title>Japan Delish</title>
+</programme>
+<programme start="20251111052400 +0000" stop="20251111055000 +0000" channel="NHK World Premium.mncvision">
+    <title>Kyoto&#039;s Finest Goods Travelogue</title>
 </programme>
 <programme start="20251111055000 +0000" stop="20251111055500 +0000" channel="NHK World Premium.mncvision">
     <title>World Weather</title>
@@ -6593,7 +6596,7 @@
     <title>World Music Album</title>
 </programme>
 <programme start="20251111060000 +0000" stop="20251111061000 +0000" channel="NHK World Premium.mncvision">
-    <title>News &amp; Weather</title>
+    <title>Life Force</title>
 </programme>
 <programme start="20251111061000 +0000" stop="20251111063500 +0000" channel="NHK World Premium.mncvision">
     <title>Hobbies: Sparkle Your Life!</title>
@@ -6634,11 +6637,8 @@
 <programme start="20251111114300 +0000" stop="20251111114500 +0000" channel="NHK World Premium.mncvision">
     <title>World Weather</title>
 </programme>
-<programme start="20251111114500 +0000" stop="20251111120000 +0000" channel="NHK World Premium.mncvision">
+<programme start="20251111114500 +0000" stop="20251111121500 +0000" channel="NHK World Premium.mncvision">
     <title>NHK News</title>
-</programme>
-<programme start="20251111120000 +0000" stop="20251111123000 +0000" channel="NHK World Premium.mncvision">
-    <title>News Watch 9</title>
 </programme>
 <programme start="20251110170000 +0000" stop="20251110172000 +0000" channel="Nick Jr. HD.mncvision">
     <title>Dora</title>

@@ -2116,13 +2116,19 @@
     <programme start="20251111040000 +0000" stop="20251111050000 +0000" channel="CNN HD.starhub">
         <title>Laura Coates Live</title>
     </programme>
-    <programme start="20251111050000 +0000" stop="20251111064500 +0000" channel="CNN HD.starhub">
+    <programme start="20251111050000 +0000" stop="20251111060000 +0000" channel="CNN HD.starhub">
+        <title>The Story Is With Elex Michaelson</title>
+    </programme>
+    <programme start="20251111060000 +0000" stop="20251111064500 +0000" channel="CNN HD.starhub">
         <title>The Story Is With Elex Michaelson</title>
     </programme>
     <programme start="20251111064500 +0000" stop="20251111070000 +0000" channel="CNN HD.starhub">
         <title>World Sport</title>
     </programme>
-    <programme start="20251111070000 +0000" stop="20251111084500 +0000" channel="CNN HD.starhub">
+    <programme start="20251111070000 +0000" stop="20251111080000 +0000" channel="CNN HD.starhub">
+        <title>CNN Newsroom (CNNI)</title>
+    </programme>
+    <programme start="20251111080000 +0000" stop="20251111084500 +0000" channel="CNN HD.starhub">
         <title>CNN Newsroom (CNNI)</title>
     </programme>
     <programme start="20251111084500 +0000" stop="20251111090000 +0000" channel="CNN HD.starhub">
@@ -2936,88 +2942,88 @@
         <title>In Good Shape</title>
     </programme>
     <programme start="20251110233000 +0000" stop="20251111000000 +0000" channel="ANC.starhub">
-        <title>Executive Class</title>
+        <title>EXECUTIVE CLASS</title>
     </programme>
     <programme start="20251111000000 +0000" stop="20251111010000 +0000" channel="ANC.starhub">
-        <title>Headstart</title>
+        <title>HEADSTART</title>
     </programme>
     <programme start="20251111010000 +0000" stop="20251111013000 +0000" channel="ANC.starhub">
-        <title>The Business Outlook</title>
+        <title>THE BUSINESS OUTLOOK</title>
     </programme>
     <programme start="20251111013000 +0000" stop="20251111020000 +0000" channel="ANC.starhub">
-        <title>Market Edge</title>
+        <title>MARKET EDGE</title>
     </programme>
     <programme start="20251111020000 +0000" stop="20251111023000 +0000" channel="ANC.starhub">
-        <title>Hotcopy On Headstart</title>
+        <title>HOTCOPY ON HEADSTART</title>
     </programme>
     <programme start="20251111023000 +0000" stop="20251111030000 +0000" channel="ANC.starhub">
-        <title>Casa Daza</title>
+        <title>CASA DAZA</title>
     </programme>
     <programme start="20251111030000 +0000" stop="20251111033000 +0000" channel="ANC.starhub">
-        <title>Arts.21</title>
+        <title>ARTS.21</title>
     </programme>
     <programme start="20251111033000 +0000" stop="20251111040000 +0000" channel="ANC.starhub">
-        <title>ANC Spotlight 3</title>
+        <title>ANC SPOTLIGHT 3</title>
     </programme>
     <programme start="20251111040000 +0000" stop="20251111050000 +0000" channel="ANC.starhub">
-        <title>Dateline Philippines</title>
+        <title>DATELINE PHILIPPINES</title>
     </programme>
     <programme start="20251111050000 +0000" stop="20251111060000 +0000" channel="ANC.starhub">
-        <title>Beached</title>
+        <title>BEACHED</title>
     </programme>
     <programme start="20251111060000 +0000" stop="20251111063000 +0000" channel="ANC.starhub">
-        <title>Made In Germany</title>
+        <title>MADE IN GERMANY</title>
     </programme>
     <programme start="20251111063000 +0000" stop="20251111070000 +0000" channel="ANC.starhub">
-        <title>Executive Class</title>
+        <title>EXECUTIVE CLASS</title>
     </programme>
     <programme start="20251111070000 +0000" stop="20251111080000 +0000" channel="ANC.starhub">
-        <title>Market Edge</title>
+        <title>MARKET EDGE</title>
     </programme>
     <programme start="20251111080000 +0000" stop="20251111083000 +0000" channel="ANC.starhub">
-        <title>Rev+</title>
+        <title>REV+</title>
     </programme>
     <programme start="20251111083000 +0000" stop="20251111093000 +0000" channel="ANC.starhub">
-        <title>Top Story</title>
+        <title>TOP STORY</title>
     </programme>
     <programme start="20251111093000 +0000" stop="20251111100000 +0000" channel="ANC.starhub">
-        <title>Insights: Israel And Middle East</title>
+        <title>INSIGHTS: ISRAEL AND MIDDLE EAST</title>
     </programme>
     <programme start="20251111100000 +0000" stop="20251111103000 +0000" channel="ANC.starhub">
-        <title>Beyond The Exchange</title>
+        <title>BEYOND THE EXCHANGE</title>
     </programme>
     <programme start="20251111103000 +0000" stop="20251111110000 +0000" channel="ANC.starhub">
-        <title>Eic On The Move</title>
+        <title>EIC ON THE MOVE</title>
     </programme>
     <programme start="20251111110000 +0000" stop="20251111113000 +0000" channel="ANC.starhub">
-        <title>Made In Germany</title>
+        <title>MADE IN GERMANY</title>
     </programme>
     <programme start="20251111113000 +0000" stop="20251111120000 +0000" channel="ANC.starhub">
-        <title>Tomorrow Today</title>
+        <title>TOMORROW TODAY</title>
     </programme>
     <programme start="20251111120000 +0000" stop="20251111123000 +0000" channel="ANC.starhub">
-        <title>The Business Outlook</title>
+        <title>THE BUSINESS OUTLOOK</title>
     </programme>
     <programme start="20251111123000 +0000" stop="20251111130000 +0000" channel="ANC.starhub">
-        <title>America&#039;s Hidden History</title>
+        <title>AMERICA&#039;S HIDDEN HISTORY</title>
     </programme>
     <programme start="20251111130000 +0000" stop="20251111133000 +0000" channel="ANC.starhub">
-        <title>The World Tonight</title>
+        <title>THE WORLD TONIGHT</title>
     </programme>
     <programme start="20251111133000 +0000" stop="20251111140000 +0000" channel="ANC.starhub">
-        <title>Beyond The Exchange</title>
+        <title>BEYOND THE EXCHANGE</title>
     </programme>
     <programme start="20251111140000 +0000" stop="20251111143000 +0000" channel="ANC.starhub">
-        <title>Global Us</title>
+        <title>GLOBAL US</title>
     </programme>
     <programme start="20251111143000 +0000" stop="20251111150000 +0000" channel="ANC.starhub">
-        <title>My Italy With Margarita</title>
+        <title>MY ITALY WITH MARGARITA</title>
     </programme>
     <programme start="20251111150000 +0000" stop="20251111153000 +0000" channel="ANC.starhub">
-        <title>24x24</title>
+        <title>24X24</title>
     </programme>
     <programme start="20251111153000 +0000" stop="20251111160000 +0000" channel="ANC.starhub">
-        <title>24x24</title>
+        <title>24X24</title>
     </programme>
     <programme start="20251110153000 +0000" stop="20251110164500 +0000" channel="Karisma.starhub">
         <title>Mas Kambing Serudug Hati Cewek Red Flag</title>
