@@ -2675,7 +2675,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251111170000 +0000" stop="20251111191000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live ATP Finals: K. Krawietz (GER) / T. Puetz (GER) - J. Cash (GBR) / L. Glasspool (GBR), 3. Tag in Turin (ITA)</title>
 </programme>
-<programme start="20251111191000 +0000" stop="20251111233000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20251111191000 +0000" stop="20251112003000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live ATP Finals: L. Musetti (ITA) - A. de Minaur (AUS), 3. Tag in Turin (ITA)</title>
 </programme>
 <programme start="20251110233000 +0000" stop="20251111000000 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -2767,6 +2767,87 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 </programme>
 <programme start="20251111063000 +0000" stop="20251111064500 +0000" channel="Sky Sport Bundesliga UHD.skyde">
     <title>Info: UHD</title>
+</programme>
+<programme start="20251110230000 +0000" stop="20251111010000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>F1: Rennen - GP Sao Paulo</title>
+</programme>
+<programme start="20251111010000 +0000" stop="20251111030000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>F1: Rennen - GP Mexiko</title>
+</programme>
+<programme start="20251111030000 +0000" stop="20251111050000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>F1: Rennen - GP USA</title>
+</programme>
+<programme start="20251111050000 +0000" stop="20251111051500 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>Chasing the Dream: Die neue Generation</title>
+</programme>
+<programme start="20251111051500 +0000" stop="20251111053000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>Chasing the Dream: Ein heißer Tanz in der Wüste</title>
+</programme>
+<programme start="20251111053000 +0000" stop="20251111054500 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>Chasing the Dream: Möglichkeiten kreieren</title>
+</programme>
+<programme start="20251111054500 +0000" stop="20251111060000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>Chasing the Dream: Dunnes Stern geht auf</title>
+</programme>
+<programme start="20251111060000 +0000" stop="20251111061500 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>Chasing the Dream: Kein Raum für Fehler</title>
+</programme>
+<programme start="20251111061500 +0000" stop="20251111063000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>Chasing the Dream: Die Spannungen nehmen zu</title>
+</programme>
+<programme start="20251111063000 +0000" stop="20251111064500 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>Chasing the Dream: Verschoor erhöht den Druck</title>
+</programme>
+<programme start="20251111064500 +0000" stop="20251111070000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>Chasing the Dream: Ein sehr britisches Wochenende</title>
+</programme>
+<programme start="20251111070000 +0000" stop="20251111071500 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>Chasing the Dream: Spa enttäuscht nie!</title>
+</programme>
+<programme start="20251111071500 +0000" stop="20251111073000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>Chasing the Dream: Höhen und Tiefen bei Trident</title>
+</programme>
+<programme start="20251111073000 +0000" stop="20251111074500 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>Chasing the Dream: Magie in Monza</title>
+</programme>
+<programme start="20251111074500 +0000" stop="20251111080000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>Chasing the Dream: Die Herausforderung von Baku</title>
+</programme>
+<programme start="20251111080000 +0000" stop="20251111100000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>F1: Rennen - GP Sao Paulo</title>
+</programme>
+<programme start="20251111100000 +0000" stop="20251111120000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>Motorsport: FIA Extreme H - World Cup 2025 (Final)</title>
+</programme>
+<programme start="20251111120000 +0000" stop="20251111124000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>F1: Hardenacke trifft... (Gast: Sebastian Vettel)</title>
+</programme>
+<programme start="20251111124000 +0000" stop="20251111130000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>F1: Inside Story: Lando reigns in stormy Melbourne</title>
+</programme>
+<programme start="20251111130000 +0000" stop="20251111150000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>F1: Rennen - GP Sao Paulo</title>
+</programme>
+<programme start="20251111150000 +0000" stop="20251111160000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>F1: Hardenacke trifft... (Gast: Ralf Schumacher)</title>
+</programme>
+<programme start="20251111160000 +0000" stop="20251111170000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>F1: Sprint - GP Sao Paulo</title>
+</programme>
+<programme start="20251111170000 +0000" stop="20251111190000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>F1: Rennen - GP Sao Paulo</title>
+</programme>
+<programme start="20251111190000 +0000" stop="20251111194000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>F1: Hardenacke trifft... (Gast: Sebastian Vettel)</title>
+</programme>
+<programme start="20251111194000 +0000" stop="20251111200000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>F1: Inside Story: Lando reigns in stormy Melbourne</title>
+</programme>
+<programme start="20251111200000 +0000" stop="20251111210000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>F1: Sprint - GP Sao Paulo</title>
+</programme>
+<programme start="20251111210000 +0000" stop="20251111230000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>F1: Rennen - GP Sao Paulo</title>
 </programme>
 <programme start="20251111010000 +0000" stop="20251111040000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>PGA Championship: 4. Tag in Charlotte, NC (USA)</title>
@@ -2886,10 +2967,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>BL: Glanzparade - Die Show mit Buschmann, Fuss und Wagner</title>
 </programme>
 <programme start="20251111090000 +0000" stop="20251111100000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Transfer Update: Die Show XXL</title>
+    <title>Sky Sport News: Der Morgen</title>
 </programme>
 <programme start="20251111100000 +0000" stop="20251111110000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live Sky Sport News: DFB-Training</title>
+    <title>Transfer Update: Die Show XXL</title>
 </programme>
 <programme start="20251111110000 +0000" stop="20251111120000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Der Mittag</title>
@@ -3065,13 +3146,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251111103000 +0000" stop="20251111124500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP Finals: M. Granollers (ESP) / H. Zeballos (ARG) - S. Bolelli (ITA)/ A. Vavassori (ITA), 3. Tag in Turin (ITA)</title>
 </programme>
-<programme start="20251111124500 +0000" stop="20251111150000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20251111124500 +0000" stop="20251111154500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP Finals: C. Alcaraz (ESP) - T. Fritz (USA), 3. Tag in Turin (ITA)</title>
 </programme>
-<programme start="20251111150000 +0000" stop="20251111153000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20251111154500 +0000" stop="20251111161500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA Finals: Review Riyadh 2025</title>
 </programme>
-<programme start="20251111153000 +0000" stop="20251111163000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20251111161500 +0000" stop="20251111163000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP Finals: Review Turin 2023</title>
 </programme>
 <programme start="20251111163000 +0000" stop="20251111170000 +0000" channel="Sky Sport Tennis HD.skyde">
@@ -3095,13 +3176,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251110233000 +0000" stop="20251111000000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Showtime</title>
 </programme>
-<programme start="20251111000000 +0000" stop="20251111031500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20251111000000 +0000" stop="20251111023000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Washington Wizards @ Detroit Pistons</title>
 </programme>
-<programme start="20251111031500 +0000" stop="20251111033500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20251111023000 +0000" stop="20251111030000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Showtime - Post Show</title>
 </programme>
-<programme start="20251111033500 +0000" stop="20251111043000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20251111030000 +0000" stop="20251111043000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NHL: Columbus Blue Jackets @ Edmonton Oilers</title>
 </programme>
 <programme start="20251111043000 +0000" stop="20251111050000 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3138,10 +3219,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Fußball: Nachspielzeit - Das Beste vom Fußball-Wochenende</title>
 </programme>
 <programme start="20251111103000 +0000" stop="20251111124500 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live ATP Finals: M. Granollers (ESP) / H. Zeballos (ARG) - S. Bolelli (ITA)/ A. Vavassori (ITA), 3. Tag in Turin (ITA)</title>
+    <title>Live ATP Finals: Doppel 1, 3. Tag in Turin (ITA)</title>
 </programme>
 <programme start="20251111124500 +0000" stop="20251111150000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live ATP Finals: C. Alcaraz (ESP) - T. Fritz (USA), 3. Tag in Turin (ITA)</title>
+    <title>Live ATP Finals: Einzel 1, 3. Tag in Turin (ITA)</title>
 </programme>
 <programme start="20251111150000 +0000" stop="20251111153000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>WTA Finals: Review Riyadh 2025</title>
@@ -3153,10 +3234,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Tennis: Rafael Nadal - The No. 1 Story</title>
 </programme>
 <programme start="20251111170000 +0000" stop="20251111191000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live ATP Finals: K. Krawietz (GER) / T. Puetz (GER) - J. Cash (GBR) / L. Glasspool (GBR), 3. Tag in Turin (ITA)</title>
+    <title>Live ATP Finals: Doppel 2, 3. Tag in Turin (ITA)</title>
 </programme>
 <programme start="20251111191000 +0000" stop="20251111213000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live ATP Finals: L. Musetti (ITA) - A. de Minaur (AUS), 3. Tag in Turin (ITA)</title>
+    <title>Live ATP Finals: Einzel 2, 3. Tag in Turin (ITA)</title>
 </programme>
 <programme start="20251111213000 +0000" stop="20251111231500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Fußball: Die Nacht von Paris - Terror am Stade de France</title>

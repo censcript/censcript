@@ -3208,19 +3208,22 @@
   <programme start="20251113211000 +0000" stop="20251113231500 +0000" channel="NOE.webtv.sk">
     <title lang="id">Pod lampou</title>
   </programme>
-  <programme start="20251112230000 +0000" stop="20251112235500 +0000" channel="ČT1.webtv.sk">
+  <programme start="20251112220900 +0000" stop="20251112230200 +0000" channel="ČT1.webtv.sk">
+    <title lang="id">Zpátky se Sobotou</title>
+  </programme>
+  <programme start="20251112230200 +0000" stop="20251112235600 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Inspektorka Candice Renoirová II (8)</title>
   </programme>
-  <programme start="20251112235500 +0000" stop="20251113004500 +0000" channel="ČT1.webtv.sk">
+  <programme start="20251112235600 +0000" stop="20251113004600 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Inspektorka Candice Renoirová II (9)</title>
   </programme>
-  <programme start="20251113004500 +0000" stop="20251113011100 +0000" channel="ČT1.webtv.sk">
+  <programme start="20251113004600 +0000" stop="20251113011300 +0000" channel="ČT1.webtv.sk">
     <title lang="id">AZ-kvíz</title>
   </programme>
-  <programme start="20251113011100 +0000" stop="20251113034300 +0000" channel="ČT1.webtv.sk">
+  <programme start="20251113011300 +0000" stop="20251113034400 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Dobré ráno</title>
   </programme>
-  <programme start="20251113034300 +0000" stop="20251113041500 +0000" channel="ČT1.webtv.sk">
+  <programme start="20251113034400 +0000" stop="20251113041500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Kluci v akci</title>
   </programme>
   <programme start="20251113041500 +0000" stop="20251113043000 +0000" channel="ČT1.webtv.sk">
