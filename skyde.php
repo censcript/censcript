@@ -3136,13 +3136,13 @@
 <programme start="20251112213000 +0000" stop="20251112233000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP Finals: Einzel 1, 4. Tag in Turin (ITA)</title>
 </programme>
-<programme start="20251111231500 +0000" stop="20251111234500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20251111230000 +0000" stop="20251111233000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Fußball: scooore Niederlande! Alle Tore</title>
 </programme>
-<programme start="20251111234500 +0000" stop="20251112001500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20251111233000 +0000" stop="20251112000000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>PL: Netbusters, 11. Spieltag</title>
 </programme>
-<programme start="20251112001500 +0000" stop="20251112003000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20251112000000 +0000" stop="20251112003000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>NHL: CBJ@EDM</title>
 </programme>
 <programme start="20251112003000 +0000" stop="20251112010000 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3164,10 +3164,10 @@
     <title>NHL: Toronto Maple Leafs @ Boston Bruins</title>
 </programme>
 <programme start="20251112103000 +0000" stop="20251112124500 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live ATP Finals: Doppel 1, 4. Tag in Turin (ITA)</title>
+    <title>Live ATP Finals: H. Heliovaara (FIN) / H. Patten (GBR) - J. Salisbury (GBR) / N. Skupski (GBR), 4. Tag in Turin (ITA)</title>
 </programme>
 <programme start="20251112124500 +0000" stop="20251112150000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live ATP Finals: Einzel 1, 4. Tag in Turin (ITA)</title>
+    <title>Live ATP Finals: B. Shelton (USA) - F. Auger-Aliassime (CAN), 4. Tag in Turin (ITA)</title>
 </programme>
 <programme start="20251112150000 +0000" stop="20251112153000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>ATP: This Week</title>
@@ -3179,10 +3179,10 @@
     <title>US Open: Tournament Review Show 2025</title>
 </programme>
 <programme start="20251112170000 +0000" stop="20251112191000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live ATP Finals: Doppel 2, 4. Tag in Turin (ITA)</title>
+    <title>Live ATP Finals: M. Arevalo (ESA) / M. Pavic (CRO) - C. Harrison (USA) / E. King (USA), 4. Tag in Turin (ITA)</title>
 </programme>
 <programme start="20251112191000 +0000" stop="20251112213000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live ATP Finals: Einzel 2, 4. Tag in Turin (ITA)</title>
+    <title>Live ATP Finals: A. Zverev (GER) - J. Sinner (ITA), 4. Tag in Turin (ITA)</title>
 </programme>
 <programme start="20251112213000 +0000" stop="20251112220000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Fußball: scooore Portugal! Alle Tore</title>

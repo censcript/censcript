@@ -2164,14 +2164,26 @@
     <programme start="20251111170000 +0000" stop="20251111183000 +0000" channel="KTV HD.starhub">
         <title>Movie - Kadal Meengal</title>
     </programme>
-    <programme start="20251111183000 +0000" stop="20251112040000 +0000" channel="KTV HD.starhub">
-        <title>Information Not Available</title>
+    <programme start="20251111223000 +0000" stop="20251112010000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Atha Maga Rathiname</title>
     </programme>
-    <programme start="20251112040000 +0000" stop="20251112100000 +0000" channel="KTV HD.starhub">
-        <title>Information Not Available</title>
+    <programme start="20251112010000 +0000" stop="20251112013000 +0000" channel="KTV HD.starhub">
+        <title>Fillers</title>
     </programme>
-    <programme start="20251112100000 +0000" stop="20251112160000 +0000" channel="KTV HD.starhub">
-        <title>Information Not Available</title>
+    <programme start="20251112013000 +0000" stop="20251112043000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Good Luck</title>
+    </programme>
+    <programme start="20251112043000 +0000" stop="20251112073000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Kilinjalgal</title>
+    </programme>
+    <programme start="20251112073000 +0000" stop="20251112103000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Naan Petha Mahaney</title>
+    </programme>
+    <programme start="20251112103000 +0000" stop="20251112133000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Pooveli</title>
+    </programme>
+    <programme start="20251112133000 +0000" stop="20251112170000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Walter</title>
     </programme>
     <programme start="20251111160000 +0000" stop="20251111170000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>Halle</title>
@@ -7990,19 +8002,22 @@
     <programme start="20251111233000 +0000" stop="20251112013000 +0000" channel="Asianet Movies.starhub">
         <title>Maharaja Talkies</title>
     </programme>
-    <programme start="20251112013000 +0000" stop="20251112043000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251112013000 +0000" stop="20251112014500 +0000" channel="Asianet Movies.starhub">
+        <title>Chirikkum Thalika</title>
+    </programme>
+    <programme start="20251112014500 +0000" stop="20251112043000 +0000" channel="Asianet Movies.starhub">
         <title>Adi Kapyare Koottamani</title>
     </programme>
     <programme start="20251112043000 +0000" stop="20251112073000 +0000" channel="Asianet Movies.starhub">
         <title>Neymar</title>
     </programme>
-    <programme start="20251112073000 +0000" stop="20251112103000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251112073000 +0000" stop="20251112104500 +0000" channel="Asianet Movies.starhub">
         <title>Christian Brothers</title>
     </programme>
-    <programme start="20251112103000 +0000" stop="20251112133000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251112104500 +0000" stop="20251112133500 +0000" channel="Asianet Movies.starhub">
         <title>Aadu 2</title>
     </programme>
-    <programme start="20251112133000 +0000" stop="20251112163000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251112133500 +0000" stop="20251112163000 +0000" channel="Asianet Movies.starhub">
         <title>Guruvayur Ambalanadayil</title>
     </programme>
     <programme start="20251111160000 +0000" stop="20251111170000 +0000" channel="Astro Warna HD.starhub">
