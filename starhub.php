@@ -3260,7 +3260,7 @@
         <title>White hydrogen</title>
     </programme>
     <programme start="20251111233000 +0000" stop="20251112000000 +0000" channel="DW English HD.starhub">
-        <title>What connects us all</title>
+        <title>Brazil: caught between oil boom and climate protection</title>
     </programme>
     <programme start="20251112000000 +0000" stop="20251112000200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3269,7 +3269,7 @@
         <title>News in Review</title>
     </programme>
     <programme start="20251112003000 +0000" stop="20251112010000 +0000" channel="DW English HD.starhub">
-        <title>Your Business Magazine</title>
+        <title>Young people between jobs crisis and a new beginning</title>
     </programme>
     <programme start="20251112010000 +0000" stop="20251112011500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3284,7 +3284,7 @@
         <title>News in Review</title>
     </programme>
     <programme start="20251112023000 +0000" stop="20251112030000 +0000" channel="DW English HD.starhub">
-        <title>What connects us all</title>
+        <title>Brazil: caught between oil boom and climate protection</title>
     </programme>
     <programme start="20251112030000 +0000" stop="20251112031500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3308,7 +3308,7 @@
         <title>News in Review</title>
     </programme>
     <programme start="20251112053000 +0000" stop="20251112060000 +0000" channel="DW English HD.starhub">
-        <title>Your Business Magazine</title>
+        <title>Young people between jobs crisis and a new beginning</title>
     </programme>
     <programme start="20251112060000 +0000" stop="20251112061500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3347,7 +3347,7 @@
         <title>News</title>
     </programme>
     <programme start="20251112113000 +0000" stop="20251112120000 +0000" channel="DW English HD.starhub">
-        <title>Your Business Magazine</title>
+        <title>Young people between jobs crisis and a new beginning</title>
     </programme>
     <programme start="20251112120000 +0000" stop="20251112121500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3359,7 +3359,7 @@
         <title>News</title>
     </programme>
     <programme start="20251112131500 +0000" stop="20251112133000 +0000" channel="DW English HD.starhub">
-        <title>The history of Filipino migrant workers</title>
+        <title>The untold stories of Berlin&#039;s Museum Island</title>
     </programme>
     <programme start="20251112133000 +0000" stop="20251112140000 +0000" channel="DW English HD.starhub">
         <title>Can learning through games shift how we see the planet?</title>
@@ -3368,7 +3368,7 @@
         <title>News</title>
     </programme>
     <programme start="20251112143000 +0000" stop="20251112150000 +0000" channel="DW English HD.starhub">
-        <title>Your Business Magazine</title>
+        <title>Young people between jobs crisis and a new beginning</title>
     </programme>
     <programme start="20251112150000 +0000" stop="20251112153000 +0000" channel="DW English HD.starhub">
         <title>News</title>
