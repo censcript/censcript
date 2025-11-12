@@ -1352,7 +1352,7 @@
     <title>WSL Highlights 2025/26</title>
 </programme>
 <programme start="20251112073000 +0000" stop="20251112080000 +0000" channel="beIN Sports 3.mncvision">
-    <title>UWCL Highlights 2025/26</title>
+    <title>This Is Paris 2025/26, Ep 11</title>
 </programme>
 <programme start="20251112080000 +0000" stop="20251112093000 +0000" channel="beIN Sports 3.mncvision">
     <title>Premier Padel 2025: Dubai (L)</title>
@@ -1418,7 +1418,7 @@
     <title>WSL Highlights 2025/26</title>
 </programme>
 <programme start="20251112073000 +0000" stop="20251112080000 +0000" channel="beIN Sports 3 HD.mncvision">
-    <title>UWCL Highlights 2025/26</title>
+    <title>This Is Paris 2025/26, Ep 11</title>
 </programme>
 <programme start="20251112080000 +0000" stop="20251112093000 +0000" channel="beIN Sports 3 HD.mncvision">
     <title>Premier Padel 2025: Dubai (L)</title>
