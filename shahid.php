@@ -889,6 +889,222 @@
     <programme start="20251113232800 +0000" stop="20251113235959 +0000" channel="414449.shahid">
         <title>TV guide is not available</title>
     </programme>
+    <programme start="20251112000000 +0000" stop="20251112001500 +0000" channel="387238.shahid">
+        <title>Beirut 303 Season 1 Episode 7</title>
+    </programme>
+    <programme start="20251112001500 +0000" stop="20251112010000 +0000" channel="387238.shahid">
+        <title>Welad El Shams Season 1 Episode 2</title>
+    </programme>
+    <programme start="20251112010000 +0000" stop="20251112014500 +0000" channel="387238.shahid">
+        <title>Salma Season 1 Episode 62</title>
+    </programme>
+    <programme start="20251112014500 +0000" stop="20251112021500 +0000" channel="387238.shahid">
+        <title>Sikkat Safar Season 1 Episode 8</title>
+    </programme>
+    <programme start="20251112021500 +0000" stop="20251112024500 +0000" channel="387238.shahid">
+        <title>Meyra Wa Selim Season 1 Episode 33</title>
+    </programme>
+    <programme start="20251112024500 +0000" stop="20251112041500 +0000" channel="387238.shahid">
+        <title>Nadina</title>
+    </programme>
+    <programme start="20251112041500 +0000" stop="20251112050200 +0000" channel="387238.shahid">
+        <title>Al Marsa Season 1 Episode 20</title>
+    </programme>
+    <programme start="20251112050200 +0000" stop="20251112054500 +0000" channel="387238.shahid">
+        <title>Welad El Shams Season 1 Episode 2</title>
+    </programme>
+    <programme start="20251112054500 +0000" stop="20251112063100 +0000" channel="387238.shahid">
+        <title>Awdat Khalati Season 1 Episode 26</title>
+    </programme>
+    <programme start="20251112063100 +0000" stop="20251112071000 +0000" channel="387238.shahid">
+        <title>Beirut 303 Season 1 Episode 7</title>
+    </programme>
+    <programme start="20251112071000 +0000" stop="20251112080000 +0000" channel="387238.shahid">
+        <title>Salma Season 1 Episode 62</title>
+    </programme>
+    <programme start="20251112080000 +0000" stop="20251112100000 +0000" channel="387238.shahid">
+        <title>Sabah Al Khair Ya Arab</title>
+    </programme>
+    <programme start="20251112100000 +0000" stop="20251112102500 +0000" channel="387238.shahid">
+        <title>Sikkat Safar Season 1 Episode 8</title>
+    </programme>
+    <programme start="20251112102500 +0000" stop="20251112105500 +0000" channel="387238.shahid">
+        <title>Meyra Wa Selim Season 1 Episode 33</title>
+    </programme>
+    <programme start="20251112105500 +0000" stop="20251112114500 +0000" channel="387238.shahid">
+        <title>Al Marsa Season 1 Episode 20</title>
+    </programme>
+    <programme start="20251112114500 +0000" stop="20251112123000 +0000" channel="387238.shahid">
+        <title>Awdat Khalati Season 1 Episode 26</title>
+    </programme>
+    <programme start="20251112123000 +0000" stop="20251112132000 +0000" channel="387238.shahid">
+        <title>Salma Season 1 Episode 62</title>
+    </programme>
+    <programme start="20251112132000 +0000" stop="20251112141000 +0000" channel="387238.shahid">
+        <title>Beirut 303 Season 1 Episode 8</title>
+    </programme>
+    <programme start="20251112141000 +0000" stop="20251112150000 +0000" channel="387238.shahid">
+        <title>Welad El Shams Season 1 Episode 3</title>
+    </programme>
+    <programme start="20251112150000 +0000" stop="20251112160000 +0000" channel="387238.shahid">
+        <title>Al Marsa Season 1 Episode 21</title>
+    </programme>
+    <programme start="20251112160000 +0000" stop="20251112163000 +0000" channel="387238.shahid">
+        <title>Sikkat Safar Season 1 Episode 9</title>
+    </programme>
+    <programme start="20251112163000 +0000" stop="20251112170000 +0000" channel="387238.shahid">
+        <title>Meyra Wa Selim Season 1 Episode 34</title>
+    </programme>
+    <programme start="20251112170000 +0000" stop="20251112180000 +0000" channel="387238.shahid">
+        <title>Salma Season 1 Episode 63</title>
+    </programme>
+    <programme start="20251112180000 +0000" stop="20251112183000 +0000" channel="387238.shahid">
+        <title>Al Akhbar MBC</title>
+    </programme>
+    <programme start="20251112183000 +0000" stop="20251112195100 +0000" channel="387238.shahid">
+        <title>The Voice</title>
+    </programme>
+    <programme start="20251112195100 +0000" stop="20251112200000 +0000" channel="387238.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20251112200000 +0000" stop="20251112213000 +0000" channel="387238.shahid">
+        <title>Nadina</title>
+    </programme>
+    <programme start="20251112213000 +0000" stop="20251112220000 +0000" channel="387238.shahid">
+        <title>Dream</title>
+    </programme>
+    <programme start="20251112220000 +0000" stop="20251112225500 +0000" channel="387238.shahid">
+        <title>Awdat Khalati Season 1 Episode 27</title>
+    </programme>
+    <programme start="20251112225500 +0000" stop="20251112230000 +0000" channel="387238.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20251112230000 +0000" stop="20251112233000 +0000" channel="387238.shahid">
+        <title>Sikkat Safar Season 1 Episode 9</title>
+    </programme>
+    <programme start="20251112233000 +0000" stop="20251113001500 +0000" channel="387238.shahid">
+        <title>Beirut 303 Season 1 Episode 8</title>
+    </programme>
+    <programme start="20251113001500 +0000" stop="20251113010000 +0000" channel="387238.shahid">
+        <title>Welad El Shams Season 1 Episode 3</title>
+    </programme>
+    <programme start="20251113010000 +0000" stop="20251113014500 +0000" channel="387238.shahid">
+        <title>Salma Season 1 Episode 63</title>
+    </programme>
+    <programme start="20251113014500 +0000" stop="20251113021500 +0000" channel="387238.shahid">
+        <title>Sikkat Safar Season 1 Episode 9</title>
+    </programme>
+    <programme start="20251113021500 +0000" stop="20251113024500 +0000" channel="387238.shahid">
+        <title>Meyra Wa Selim Season 1 Episode 34</title>
+    </programme>
+    <programme start="20251113024500 +0000" stop="20251113041500 +0000" channel="387238.shahid">
+        <title>Nadina</title>
+    </programme>
+    <programme start="20251113041500 +0000" stop="20251113050500 +0000" channel="387238.shahid">
+        <title>Al Marsa Season 1 Episode 21</title>
+    </programme>
+    <programme start="20251113050500 +0000" stop="20251113054500 +0000" channel="387238.shahid">
+        <title>Welad El Shams Season 1 Episode 3</title>
+    </programme>
+    <programme start="20251113054500 +0000" stop="20251113063000 +0000" channel="387238.shahid">
+        <title>Awdat Khalati Season 1 Episode 27</title>
+    </programme>
+    <programme start="20251113063000 +0000" stop="20251113071000 +0000" channel="387238.shahid">
+        <title>Beirut 303 Season 1 Episode 8</title>
+    </programme>
+    <programme start="20251113071000 +0000" stop="20251113075300 +0000" channel="387238.shahid">
+        <title>Salma Season 1 Episode 63</title>
+    </programme>
+    <programme start="20251113075300 +0000" stop="20251113080000 +0000" channel="387238.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20251113080000 +0000" stop="20251113100000 +0000" channel="387238.shahid">
+        <title>Sabah Al Khair Ya Arab</title>
+    </programme>
+    <programme start="20251113100000 +0000" stop="20251113102000 +0000" channel="387238.shahid">
+        <title>Sikkat Safar Season 1 Episode 9</title>
+    </programme>
+    <programme start="20251113102000 +0000" stop="20251113103000 +0000" channel="387238.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20251113103000 +0000" stop="20251113104500 +0000" channel="387238.shahid">
+        <title>Meyra Wa Selim Season 1 Episode 34</title>
+    </programme>
+    <programme start="20251113104500 +0000" stop="20251113113500 +0000" channel="387238.shahid">
+        <title>Al Marsa Season 1 Episode 21</title>
+    </programme>
+    <programme start="20251113113500 +0000" stop="20251113122000 +0000" channel="387238.shahid">
+        <title>Awdat Khalati Season 1 Episode 27</title>
+    </programme>
+    <programme start="20251113122000 +0000" stop="20251113130200 +0000" channel="387238.shahid">
+        <title>Salma Season 1 Episode 63</title>
+    </programme>
+    <programme start="20251113130200 +0000" stop="20251113131000 +0000" channel="387238.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20251113131000 +0000" stop="20251113135200 +0000" channel="387238.shahid">
+        <title>Beirut 303 Season 1 Episode 9</title>
+    </programme>
+    <programme start="20251113135200 +0000" stop="20251113140500 +0000" channel="387238.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20251113140500 +0000" stop="20251113144500 +0000" channel="387238.shahid">
+        <title>Welad El Shams Season 1 Episode 4</title>
+    </programme>
+    <programme start="20251113144500 +0000" stop="20251113150000 +0000" channel="387238.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20251113150000 +0000" stop="20251113154500 +0000" channel="387238.shahid">
+        <title>Al Marsa</title>
+    </programme>
+    <programme start="20251113154500 +0000" stop="20251113160000 +0000" channel="387238.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20251113160000 +0000" stop="20251113163000 +0000" channel="387238.shahid">
+        <title>Sikkat Safar Season 1 Episode 10</title>
+    </programme>
+    <programme start="20251113163000 +0000" stop="20251113165900 +0000" channel="387238.shahid">
+        <title>Meyra Wa Selim Season 1 Episode 35</title>
+    </programme>
+    <programme start="20251113165900 +0000" stop="20251113170500 +0000" channel="387238.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20251113170500 +0000" stop="20251113175200 +0000" channel="387238.shahid">
+        <title>Salma Season 1 Episode 64</title>
+    </programme>
+    <programme start="20251113175200 +0000" stop="20251113180000 +0000" channel="387238.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20251113180000 +0000" stop="20251113182400 +0000" channel="387238.shahid">
+        <title>Al Akhbar MBC</title>
+    </programme>
+    <programme start="20251113182400 +0000" stop="20251113183000 +0000" channel="387238.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20251113183000 +0000" stop="20251113184800 +0000" channel="387238.shahid">
+        <title>Studio 23 Season 3 Episode 10</title>
+    </programme>
+    <programme start="20251113184800 +0000" stop="20251113190000 +0000" channel="387238.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20251113190000 +0000" stop="20251113213000 +0000" channel="387238.shahid">
+        <title>Hafalat Mawsim Al Riyadh: Wael Jassar, Adam, Mohamed Chaker</title>
+    </programme>
+    <programme start="20251113213000 +0000" stop="20251113220000 +0000" channel="387238.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20251113220000 +0000" stop="20251113224600 +0000" channel="387238.shahid">
+        <title>Awdat Khalati Season 1 Episode 28</title>
+    </programme>
+    <programme start="20251113224600 +0000" stop="20251113225500 +0000" channel="387238.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20251113225500 +0000" stop="20251113232200 +0000" channel="387238.shahid">
+        <title>Sikkat Safar Season 1 Episode 10</title>
+    </programme>
+    <programme start="20251113232200 +0000" stop="20251113235959 +0000" channel="387238.shahid">
+        <title>TV guide is not available</title>
+    </programme>
     <programme start="20251112000000 +0000" stop="20251112000445 +0000" channel="1005232.shahid">
         <title>Selfie Season 1 Episode 16</title>
     </programme>
@@ -1330,9 +1546,6 @@
     <programme start="20251113234000 +0000" stop="20251113235959 +0000" channel="387294.shahid">
         <title>TV guide is not available</title>
     </programme>
-    <programme start="20251112000000 +0000" stop="20251113235959 +0000" channel="388567.shahid">
-        <title>TV guide is not available</title>
-    </programme>
     <programme start="20251112000000 +0000" stop="20251112001947 +0000" channel="963543.shahid">
         <title>Tash Ma Tash Season 14 Episode 13</title>
     </programme>
@@ -1598,6 +1811,9 @@
         <title>Tash Ma Tash Season 17 Episode 15</title>
     </programme>
     <programme start="20251113233119 +0000" stop="20251113235959 +0000" channel="963543.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20251112000000 +0000" stop="20251113235959 +0000" channel="388567.shahid">
         <title>TV guide is not available</title>
     </programme>
     <programme start="20251112000000 +0000" stop="20251112000641 +0000" channel="49923086870104.shahid">
@@ -5744,222 +5960,6 @@
         <title>Masaa AlThaqafeya</title>
     </programme>
     <programme start="20251113233000 +0000" stop="20251113235959 +0000" channel="995495.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20251112000000 +0000" stop="20251112001500 +0000" channel="387238.shahid">
-        <title>Beirut 303 Season 1 Episode 7</title>
-    </programme>
-    <programme start="20251112001500 +0000" stop="20251112010000 +0000" channel="387238.shahid">
-        <title>Welad El Shams Season 1 Episode 2</title>
-    </programme>
-    <programme start="20251112010000 +0000" stop="20251112014500 +0000" channel="387238.shahid">
-        <title>Salma Season 1 Episode 62</title>
-    </programme>
-    <programme start="20251112014500 +0000" stop="20251112021500 +0000" channel="387238.shahid">
-        <title>Sikkat Safar Season 1 Episode 8</title>
-    </programme>
-    <programme start="20251112021500 +0000" stop="20251112024500 +0000" channel="387238.shahid">
-        <title>Meyra Wa Selim Season 1 Episode 33</title>
-    </programme>
-    <programme start="20251112024500 +0000" stop="20251112041500 +0000" channel="387238.shahid">
-        <title>Nadina</title>
-    </programme>
-    <programme start="20251112041500 +0000" stop="20251112050200 +0000" channel="387238.shahid">
-        <title>Al Marsa Season 1 Episode 20</title>
-    </programme>
-    <programme start="20251112050200 +0000" stop="20251112054500 +0000" channel="387238.shahid">
-        <title>Welad El Shams Season 1 Episode 2</title>
-    </programme>
-    <programme start="20251112054500 +0000" stop="20251112063100 +0000" channel="387238.shahid">
-        <title>Awdat Khalati Season 1 Episode 26</title>
-    </programme>
-    <programme start="20251112063100 +0000" stop="20251112071000 +0000" channel="387238.shahid">
-        <title>Beirut 303 Season 1 Episode 7</title>
-    </programme>
-    <programme start="20251112071000 +0000" stop="20251112080000 +0000" channel="387238.shahid">
-        <title>Salma Season 1 Episode 62</title>
-    </programme>
-    <programme start="20251112080000 +0000" stop="20251112100000 +0000" channel="387238.shahid">
-        <title>Sabah Al Khair Ya Arab</title>
-    </programme>
-    <programme start="20251112100000 +0000" stop="20251112102500 +0000" channel="387238.shahid">
-        <title>Sikkat Safar Season 1 Episode 8</title>
-    </programme>
-    <programme start="20251112102500 +0000" stop="20251112105500 +0000" channel="387238.shahid">
-        <title>Meyra Wa Selim Season 1 Episode 33</title>
-    </programme>
-    <programme start="20251112105500 +0000" stop="20251112114500 +0000" channel="387238.shahid">
-        <title>Al Marsa Season 1 Episode 20</title>
-    </programme>
-    <programme start="20251112114500 +0000" stop="20251112123000 +0000" channel="387238.shahid">
-        <title>Awdat Khalati Season 1 Episode 26</title>
-    </programme>
-    <programme start="20251112123000 +0000" stop="20251112132000 +0000" channel="387238.shahid">
-        <title>Salma Season 1 Episode 62</title>
-    </programme>
-    <programme start="20251112132000 +0000" stop="20251112141000 +0000" channel="387238.shahid">
-        <title>Beirut 303 Season 1 Episode 8</title>
-    </programme>
-    <programme start="20251112141000 +0000" stop="20251112150000 +0000" channel="387238.shahid">
-        <title>Welad El Shams Season 1 Episode 3</title>
-    </programme>
-    <programme start="20251112150000 +0000" stop="20251112160000 +0000" channel="387238.shahid">
-        <title>Al Marsa Season 1 Episode 21</title>
-    </programme>
-    <programme start="20251112160000 +0000" stop="20251112163000 +0000" channel="387238.shahid">
-        <title>Sikkat Safar Season 1 Episode 9</title>
-    </programme>
-    <programme start="20251112163000 +0000" stop="20251112170000 +0000" channel="387238.shahid">
-        <title>Meyra Wa Selim Season 1 Episode 34</title>
-    </programme>
-    <programme start="20251112170000 +0000" stop="20251112180000 +0000" channel="387238.shahid">
-        <title>Salma Season 1 Episode 63</title>
-    </programme>
-    <programme start="20251112180000 +0000" stop="20251112183000 +0000" channel="387238.shahid">
-        <title>Al Akhbar MBC</title>
-    </programme>
-    <programme start="20251112183000 +0000" stop="20251112195100 +0000" channel="387238.shahid">
-        <title>The Voice</title>
-    </programme>
-    <programme start="20251112195100 +0000" stop="20251112200000 +0000" channel="387238.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20251112200000 +0000" stop="20251112213000 +0000" channel="387238.shahid">
-        <title>Nadina</title>
-    </programme>
-    <programme start="20251112213000 +0000" stop="20251112220000 +0000" channel="387238.shahid">
-        <title>Dream</title>
-    </programme>
-    <programme start="20251112220000 +0000" stop="20251112225500 +0000" channel="387238.shahid">
-        <title>Awdat Khalati Season 1 Episode 27</title>
-    </programme>
-    <programme start="20251112225500 +0000" stop="20251112230000 +0000" channel="387238.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20251112230000 +0000" stop="20251112233000 +0000" channel="387238.shahid">
-        <title>Sikkat Safar Season 1 Episode 9</title>
-    </programme>
-    <programme start="20251112233000 +0000" stop="20251113001500 +0000" channel="387238.shahid">
-        <title>Beirut 303 Season 1 Episode 8</title>
-    </programme>
-    <programme start="20251113001500 +0000" stop="20251113010000 +0000" channel="387238.shahid">
-        <title>Welad El Shams Season 1 Episode 3</title>
-    </programme>
-    <programme start="20251113010000 +0000" stop="20251113014500 +0000" channel="387238.shahid">
-        <title>Salma Season 1 Episode 63</title>
-    </programme>
-    <programme start="20251113014500 +0000" stop="20251113021500 +0000" channel="387238.shahid">
-        <title>Sikkat Safar Season 1 Episode 9</title>
-    </programme>
-    <programme start="20251113021500 +0000" stop="20251113024500 +0000" channel="387238.shahid">
-        <title>Meyra Wa Selim Season 1 Episode 34</title>
-    </programme>
-    <programme start="20251113024500 +0000" stop="20251113041500 +0000" channel="387238.shahid">
-        <title>Nadina</title>
-    </programme>
-    <programme start="20251113041500 +0000" stop="20251113050500 +0000" channel="387238.shahid">
-        <title>Al Marsa Season 1 Episode 21</title>
-    </programme>
-    <programme start="20251113050500 +0000" stop="20251113054500 +0000" channel="387238.shahid">
-        <title>Welad El Shams Season 1 Episode 3</title>
-    </programme>
-    <programme start="20251113054500 +0000" stop="20251113063000 +0000" channel="387238.shahid">
-        <title>Awdat Khalati Season 1 Episode 27</title>
-    </programme>
-    <programme start="20251113063000 +0000" stop="20251113071000 +0000" channel="387238.shahid">
-        <title>Beirut 303 Season 1 Episode 8</title>
-    </programme>
-    <programme start="20251113071000 +0000" stop="20251113075300 +0000" channel="387238.shahid">
-        <title>Salma Season 1 Episode 63</title>
-    </programme>
-    <programme start="20251113075300 +0000" stop="20251113080000 +0000" channel="387238.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20251113080000 +0000" stop="20251113100000 +0000" channel="387238.shahid">
-        <title>Sabah Al Khair Ya Arab</title>
-    </programme>
-    <programme start="20251113100000 +0000" stop="20251113102000 +0000" channel="387238.shahid">
-        <title>Sikkat Safar Season 1 Episode 9</title>
-    </programme>
-    <programme start="20251113102000 +0000" stop="20251113103000 +0000" channel="387238.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20251113103000 +0000" stop="20251113104500 +0000" channel="387238.shahid">
-        <title>Meyra Wa Selim Season 1 Episode 34</title>
-    </programme>
-    <programme start="20251113104500 +0000" stop="20251113113500 +0000" channel="387238.shahid">
-        <title>Al Marsa Season 1 Episode 21</title>
-    </programme>
-    <programme start="20251113113500 +0000" stop="20251113122000 +0000" channel="387238.shahid">
-        <title>Awdat Khalati Season 1 Episode 27</title>
-    </programme>
-    <programme start="20251113122000 +0000" stop="20251113130200 +0000" channel="387238.shahid">
-        <title>Salma Season 1 Episode 63</title>
-    </programme>
-    <programme start="20251113130200 +0000" stop="20251113131000 +0000" channel="387238.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20251113131000 +0000" stop="20251113135200 +0000" channel="387238.shahid">
-        <title>Beirut 303 Season 1 Episode 9</title>
-    </programme>
-    <programme start="20251113135200 +0000" stop="20251113140500 +0000" channel="387238.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20251113140500 +0000" stop="20251113144500 +0000" channel="387238.shahid">
-        <title>Welad El Shams Season 1 Episode 4</title>
-    </programme>
-    <programme start="20251113144500 +0000" stop="20251113150000 +0000" channel="387238.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20251113150000 +0000" stop="20251113154500 +0000" channel="387238.shahid">
-        <title>Al Marsa</title>
-    </programme>
-    <programme start="20251113154500 +0000" stop="20251113160000 +0000" channel="387238.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20251113160000 +0000" stop="20251113163000 +0000" channel="387238.shahid">
-        <title>Sikkat Safar Season 1 Episode 10</title>
-    </programme>
-    <programme start="20251113163000 +0000" stop="20251113165900 +0000" channel="387238.shahid">
-        <title>Meyra Wa Selim Season 1 Episode 35</title>
-    </programme>
-    <programme start="20251113165900 +0000" stop="20251113170500 +0000" channel="387238.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20251113170500 +0000" stop="20251113175200 +0000" channel="387238.shahid">
-        <title>Salma Season 1 Episode 64</title>
-    </programme>
-    <programme start="20251113175200 +0000" stop="20251113180000 +0000" channel="387238.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20251113180000 +0000" stop="20251113182400 +0000" channel="387238.shahid">
-        <title>Al Akhbar MBC</title>
-    </programme>
-    <programme start="20251113182400 +0000" stop="20251113183000 +0000" channel="387238.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20251113183000 +0000" stop="20251113184800 +0000" channel="387238.shahid">
-        <title>Studio 23 Season 3 Episode 10</title>
-    </programme>
-    <programme start="20251113184800 +0000" stop="20251113190000 +0000" channel="387238.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20251113190000 +0000" stop="20251113213000 +0000" channel="387238.shahid">
-        <title>Hafalat Mawsim Al Riyadh: Wael Jassar, Adam, Mohamed Chaker</title>
-    </programme>
-    <programme start="20251113213000 +0000" stop="20251113220000 +0000" channel="387238.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20251113220000 +0000" stop="20251113224600 +0000" channel="387238.shahid">
-        <title>Awdat Khalati Season 1 Episode 28</title>
-    </programme>
-    <programme start="20251113224600 +0000" stop="20251113225500 +0000" channel="387238.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20251113225500 +0000" stop="20251113232200 +0000" channel="387238.shahid">
-        <title>Sikkat Safar Season 1 Episode 10</title>
-    </programme>
-    <programme start="20251113232200 +0000" stop="20251113235959 +0000" channel="387238.shahid">
         <title>TV guide is not available</title>
     </programme>
     <programme start="20251112000000 +0000" stop="20251113235959 +0000" channel="999927.shahid">

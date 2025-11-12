@@ -146,16 +146,16 @@
         <title>Marainthu Irunthu Paakum Marmam Enna</title>
     </programme>
     <programme start="20251111180000 +0000" stop="20251111183000 +0000" channel="Zee Thirai.starhub">
-        <title>Freeticket</title>
+        <title>Free Ticket</title>
     </programme>
     <programme start="20251111183000 +0000" stop="20251111190000 +0000" channel="Zee Thirai.starhub">
-        <title>Freeticket</title>
+        <title>Free Ticket</title>
     </programme>
     <programme start="20251111190000 +0000" stop="20251111193000 +0000" channel="Zee Thirai.starhub">
-        <title>Freeticket</title>
+        <title>Free Ticket</title>
     </programme>
     <programme start="20251111193000 +0000" stop="20251111200000 +0000" channel="Zee Thirai.starhub">
-        <title>Freeticket</title>
+        <title>Free Ticket</title>
     </programme>
     <programme start="20251111200000 +0000" stop="20251111220000 +0000" channel="Zee Thirai.starhub">
         <title>Radhe Shyam</title>
@@ -3200,7 +3200,7 @@
         <title>Indonesia&#039;s Green Islam</title>
     </programme>
     <programme start="20251111164500 +0000" stop="20251111170000 +0000" channel="DW English HD.starhub">
-        <title>On Location</title>
+        <title>Spain&#039;s Housing Crisis: The Evictors</title>
     </programme>
     <programme start="20251111170000 +0000" stop="20251111171500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3224,7 +3224,7 @@
         <title>What motivates us to protect our environment?</title>
     </programme>
     <programme start="20251111193000 +0000" stop="20251111200000 +0000" channel="DW English HD.starhub">
-        <title>‘Tuna’ made from algae is vegan and delicious. But is it also healthy?</title>
+        <title>‘Tuna’ made from algae is vegan and delicious.But is it also healthy?</title>
     </programme>
     <programme start="20251111200000 +0000" stop="20251111203000 +0000" channel="DW English HD.starhub">
         <title>News</title>
