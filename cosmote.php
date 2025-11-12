@@ -50,10 +50,6 @@
     <title>Football: Olympiacos - PSV Eindhoven</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251112100500 +0700" stop="20251112120000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Lecce - Hellas Verona</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251112120000 +0700" stop="20251112141000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: OFI - AEK</title>
     <desc>Live: Tidak</desc>
@@ -108,6 +104,10 @@
 </programme>
 <programme start="20251113100500 +0700" stop="20251113120000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Pisa - Cremonese</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251113120000 +0700" stop="20251113141000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Panathinaikos - PAOK</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251112110000 +0700" stop="20251112143000 +0700" channel="COSMOTE Sport 3 HD">
@@ -226,6 +226,10 @@
     <title>Basketball: Girona - Barcelona</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251113125500 +0700" stop="20251113145000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Badalona - Real Madrid</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251112110000 +0700" stop="20251112120500 +0700" channel="COSMOTE Sport 5 HD">
     <title>Motorsports: Extreme E 2025</title>
     <desc>Live: Tidak</desc>
@@ -322,12 +326,8 @@
     <title>2025 Extreme H</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251112110000 +0700" stop="20251112113000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Watersports: Inside Sailing 2025 E10</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251112113000 +0700" stop="20251112120000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Watersports: Sailing to the Games 2025 E5</title>
+<programme start="20251113120500 +0700" stop="20251113131000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>2025 Extreme H</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251112120000 +0700" stop="20251112143000 +0700" channel="COSMOTE Sport 6 HD">
