@@ -4088,7 +4088,7 @@
     <title>SpongeBob SquarePants</title>
 </programme>
 <programme start="20251112111500 +0000" stop="20251112123000 +0000" channel="GTV.mncvision">
-    <title>No Way To Escape</title>
+    <title>Mission: Impossible Ghost...</title>
 </programme>
 <programme start="20251112123000 +0000" stop="20251112143000 +0000" channel="GTV.mncvision">
     <title>Distortion</title>
@@ -4139,7 +4139,7 @@
     <title>SpongeBob SquarePants</title>
 </programme>
 <programme start="20251112111500 +0000" stop="20251112123000 +0000" channel="GTV HD.mncvision">
-    <title>No Way To Escape</title>
+    <title>Mission: Impossible Ghost...</title>
 </programme>
 <programme start="20251112123000 +0000" stop="20251112143000 +0000" channel="GTV HD.mncvision">
     <title>Distortion</title>
