@@ -1192,7 +1192,66 @@
 <programme start="20251112163000 +0000" stop="20251111170000 +0000" channel="beIN Sports 1 HD.mncvision">
     <title>Mini Match LaLiga: RAY Vs RMA</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20251111170000 +0000" stop="20251111190000 +0000" channel="beIN Sports 2.mncvision">
+    <title>Nitto ATP Finals &#039;25: Turin (L)</title>
+</programme>
+<programme start="20251111190000 +0000" stop="20251111191500 +0000" channel="beIN Sports 2.mncvision">
+    <title>ATP Classic Shorts: 2010</title>
+</programme>
+<programme start="20251111191500 +0000" stop="20251111193000 +0000" channel="beIN Sports 2.mncvision">
+    <title>ATP Classic Shorts: 2010</title>
+</programme>
+<programme start="20251111193000 +0000" stop="20251111213000 +0000" channel="beIN Sports 2.mncvision">
+    <title>Nitto ATP Finals &#039;25: Turin (L)</title>
+</programme>
+<programme start="20251111213000 +0000" stop="20251111214500 +0000" channel="beIN Sports 2.mncvision">
+    <title>ATP Classic Shorts: 2009</title>
+</programme>
+<programme start="20251111214500 +0000" stop="20251111220000 +0000" channel="beIN Sports 2.mncvision">
+    <title>ATP Classic Shorts: 2012</title>
+</programme>
+<programme start="20251111220000 +0000" stop="20251111233000 +0000" channel="beIN Sports 2.mncvision">
+    <title>Nitto ATP Finals 2025: Turin</title>
+</programme>
+<programme start="20251111233000 +0000" stop="20251112010000 +0000" channel="beIN Sports 2.mncvision">
+    <title>Nitto ATP Finals 2025: Turin</title>
+</programme>
+<programme start="20251112010000 +0000" stop="20251112023000 +0000" channel="beIN Sports 2.mncvision">
+    <title>Nitto ATP Finals 2025: Turin</title>
+</programme>
+<programme start="20251112023000 +0000" stop="20251112040000 +0000" channel="beIN Sports 2.mncvision">
+    <title>Nitto ATP Finals 2025: Turin</title>
+</programme>
+<programme start="20251112040000 +0000" stop="20251112043000 +0000" channel="beIN Sports 2.mncvision">
+    <title>ATP Tour: This Week 2025, Ep 44</title>
+</programme>
+<programme start="20251112043000 +0000" stop="20251112060000 +0000" channel="beIN Sports 2.mncvision">
+    <title>Nitto ATP Finals 2025: Turin</title>
+</programme>
+<programme start="20251112060000 +0000" stop="20251112073000 +0000" channel="beIN Sports 2.mncvision">
+    <title>Nitto ATP Finals 2025: Turin</title>
+</programme>
+<programme start="20251112073000 +0000" stop="20251112090000 +0000" channel="beIN Sports 2.mncvision">
+    <title>Nitto ATP Finals 2025: Turin</title>
+</programme>
+<programme start="20251112090000 +0000" stop="20251112103000 +0000" channel="beIN Sports 2.mncvision">
+    <title>Nitto ATP Finals 2025: Turin</title>
+</programme>
+<programme start="20251112103000 +0000" stop="20251112123000 +0000" channel="beIN Sports 2.mncvision">
+    <title>Nitto ATP Finals &#039;25: Turin (L)</title>
+</programme>
+<programme start="20251112123000 +0000" stop="20251112130000 +0000" channel="beIN Sports 2.mncvision">
+    <title>ATP Tour: This Week 2025, Ep 44</title>
+</programme>
+<programme start="20251112130000 +0000" stop="20251112150000 +0000" channel="beIN Sports 2.mncvision">
+    <title>Nitto ATP Finals &#039;25: Turin (L)</title>
+</programme>
+<programme start="20251112150000 +0000" stop="20251112160000 +0000" channel="beIN Sports 2.mncvision">
+    <title>ATP Tour Review Show 2025</title>
+</programme>
+<programme start="20251112160000 +0000" stop="20251112163000 +0000" channel="beIN Sports 2.mncvision">
+    <title>ATP Tour Review Show 2025</title>
+</programme>
 <programme start="20251111170000 +0000" stop="20251111190000 +0000" channel="beIN Sports 2 HD.mncvision">
     <title>Nitto ATP Finals &#039;25: Turin (L)</title>
 </programme>
@@ -2534,7 +2593,156 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20251112162500 +0000" stop="20251112165500 +0000" channel="Crime Investigation.mncvision">
     <title>Beyond Headlines: E. Thomas</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20251111171000 +0000" stop="20251111173500 +0000" channel="Dreamworks.mncvision">
+    <title>The Epic Tales Of Captain...</title>
+</programme>
+<programme start="20251111173500 +0000" stop="20251111180000 +0000" channel="Dreamworks.mncvision">
+    <title>The Epic Tales Of Captain...</title>
+</programme>
+<programme start="20251111180000 +0000" stop="20251111182500 +0000" channel="Dreamworks.mncvision">
+    <title>Dinotrux</title>
+</programme>
+<programme start="20251111182500 +0000" stop="20251111185000 +0000" channel="Dreamworks.mncvision">
+    <title>Dinotrux</title>
+</programme>
+<programme start="20251111185000 +0000" stop="20251111191500 +0000" channel="Dreamworks.mncvision">
+    <title>Turbo F.A.S.T.</title>
+</programme>
+<programme start="20251111191500 +0000" stop="20251111194000 +0000" channel="Dreamworks.mncvision">
+    <title>Turbo F.A.S.T.</title>
+</programme>
+<programme start="20251111194000 +0000" stop="20251111200500 +0000" channel="Dreamworks.mncvision">
+    <title>Where&#039;s Wally?</title>
+</programme>
+<programme start="20251111200500 +0000" stop="20251111203000 +0000" channel="Dreamworks.mncvision">
+    <title>Where&#039;s Wally?</title>
+</programme>
+<programme start="20251111203000 +0000" stop="20251111204500 +0000" channel="Dreamworks.mncvision">
+    <title>Fifi And The Flowertots</title>
+</programme>
+<programme start="20251111204500 +0000" stop="20251111210000 +0000" channel="Dreamworks.mncvision">
+    <title>Fifi And The Flowertots</title>
+</programme>
+<programme start="20251111210000 +0000" stop="20251111211500 +0000" channel="Dreamworks.mncvision">
+    <title>Rupert Bear</title>
+</programme>
+<programme start="20251111211500 +0000" stop="20251111213000 +0000" channel="Dreamworks.mncvision">
+    <title>Rupert Bear</title>
+</programme>
+<programme start="20251111213000 +0000" stop="20251111214500 +0000" channel="Dreamworks.mncvision">
+    <title>Tinga Tinga Tales</title>
+</programme>
+<programme start="20251111214500 +0000" stop="20251111220000 +0000" channel="Dreamworks.mncvision">
+    <title>Tinga Tinga Tales</title>
+</programme>
+<programme start="20251111220000 +0000" stop="20251111222500 +0000" channel="Dreamworks.mncvision">
+    <title>Gabby&#039;s Dollhouse</title>
+</programme>
+<programme start="20251111222500 +0000" stop="20251111225000 +0000" channel="Dreamworks.mncvision">
+    <title>Gabby&#039;s Dollhouse</title>
+</programme>
+<programme start="20251111225000 +0000" stop="20251111231500 +0000" channel="Dreamworks.mncvision">
+    <title>The Epic Tales Of Captain...</title>
+</programme>
+<programme start="20251111231500 +0000" stop="20251111234000 +0000" channel="Dreamworks.mncvision">
+    <title>Boss Baby: Back In Business</title>
+</programme>
+<programme start="20251111234000 +0000" stop="20251112000500 +0000" channel="Dreamworks.mncvision">
+    <title>The Croods: Family Tree</title>
+</programme>
+<programme start="20251112000500 +0000" stop="20251112003000 +0000" channel="Dreamworks.mncvision">
+    <title>Dragons: The Nine Realms</title>
+</programme>
+<programme start="20251112003000 +0000" stop="20251112005500 +0000" channel="Dreamworks.mncvision">
+    <title>Abominable &amp; The Invisible City</title>
+</programme>
+<programme start="20251112005500 +0000" stop="20251112012000 +0000" channel="Dreamworks.mncvision">
+    <title>Trolls: The Beat Goes On!</title>
+</programme>
+<programme start="20251112012000 +0000" stop="20251112014500 +0000" channel="Dreamworks.mncvision">
+    <title>Gabby&#039;s Dollhouse</title>
+</programme>
+<programme start="20251112014500 +0000" stop="20251112021000 +0000" channel="Dreamworks.mncvision">
+    <title>Gabby&#039;s Dollhouse</title>
+</programme>
+<programme start="20251112021000 +0000" stop="20251112023500 +0000" channel="Dreamworks.mncvision">
+    <title>Not Quite Narwhal</title>
+</programme>
+<programme start="20251112023500 +0000" stop="20251112030000 +0000" channel="Dreamworks.mncvision">
+    <title>Not Quite Narwhal</title>
+</programme>
+<programme start="20251112030000 +0000" stop="20251112032500 +0000" channel="Dreamworks.mncvision">
+    <title>Team Zenko Go</title>
+</programme>
+<programme start="20251112032500 +0000" stop="20251112035000 +0000" channel="Dreamworks.mncvision">
+    <title>Team Zenko Go</title>
+</programme>
+<programme start="20251112035000 +0000" stop="20251112041500 +0000" channel="Dreamworks.mncvision">
+    <title>Dragons: Rescue Riders</title>
+</programme>
+<programme start="20251112041500 +0000" stop="20251112044000 +0000" channel="Dreamworks.mncvision">
+    <title>Dragons: Rescue Riders</title>
+</programme>
+<programme start="20251112044000 +0000" stop="20251112050500 +0000" channel="Dreamworks.mncvision">
+    <title>The Adv. Of Puss In Boots</title>
+</programme>
+<programme start="20251112050500 +0000" stop="20251112053000 +0000" channel="Dreamworks.mncvision">
+    <title>The Adv. Of Puss In Boots</title>
+</programme>
+<programme start="20251112053000 +0000" stop="20251112055500 +0000" channel="Dreamworks.mncvision">
+    <title>Kung Fu Panda: Dragon Knight</title>
+</programme>
+<programme start="20251112055500 +0000" stop="20251112062000 +0000" channel="Dreamworks.mncvision">
+    <title>Kung Fu Panda: Dragon Knight</title>
+</programme>
+<programme start="20251112062000 +0000" stop="20251112064500 +0000" channel="Dreamworks.mncvision">
+    <title>All Hail King Julien: Exiled</title>
+</programme>
+<programme start="20251112064500 +0000" stop="20251112071000 +0000" channel="Dreamworks.mncvision">
+    <title>All Hail King Julien: Exiled</title>
+</programme>
+<programme start="20251112071000 +0000" stop="20251112073500 +0000" channel="Dreamworks.mncvision">
+    <title>Gabby&#039;s Dollhouse</title>
+</programme>
+<programme start="20251112073500 +0000" stop="20251112080000 +0000" channel="Dreamworks.mncvision">
+    <title>Gabby&#039;s Dollhouse</title>
+</programme>
+<programme start="20251112080000 +0000" stop="20251112082500 +0000" channel="Dreamworks.mncvision">
+    <title>Boss Baby: Back In Business</title>
+</programme>
+<programme start="20251112082500 +0000" stop="20251112085000 +0000" channel="Dreamworks.mncvision">
+    <title>Boss Baby: Back In Business</title>
+</programme>
+<programme start="20251112085000 +0000" stop="20251112091500 +0000" channel="Dreamworks.mncvision">
+    <title>Boss Baby: Back In Business</title>
+</programme>
+<programme start="20251112091500 +0000" stop="20251112094000 +0000" channel="Dreamworks.mncvision">
+    <title>The Croods: Family Tree</title>
+</programme>
+<programme start="20251112094000 +0000" stop="20251112100500 +0000" channel="Dreamworks.mncvision">
+    <title>The Croods: Family Tree</title>
+</programme>
+<programme start="20251112100500 +0000" stop="20251112103000 +0000" channel="Dreamworks.mncvision">
+    <title>The Croods: Family Tree</title>
+</programme>
+<programme start="20251112103000 +0000" stop="20251112105500 +0000" channel="Dreamworks.mncvision">
+    <title>Dragons: The Nine Realms</title>
+</programme>
+<programme start="20251112105500 +0000" stop="20251112112000 +0000" channel="Dreamworks.mncvision">
+    <title>Dragons: The Nine Realms</title>
+</programme>
+<programme start="20251112112000 +0000" stop="20251112114500 +0000" channel="Dreamworks.mncvision">
+    <title>Dragons: The Nine Realms</title>
+</programme>
+<programme start="20251112114500 +0000" stop="20251112121000 +0000" channel="Dreamworks.mncvision">
+    <title>The Epic Tales Of Captain...</title>
+</programme>
+<programme start="20251112121000 +0000" stop="20251112123500 +0000" channel="Dreamworks.mncvision">
+    <title>The Epic Tales Of Captain...</title>
+</programme>
+<programme start="20251112123500 +0000" stop="20251112130500 +0000" channel="Dreamworks.mncvision">
+    <title>The Epic Tales Of Captain...</title>
+</programme>
 <programme start="20251111171000 +0000" stop="20251111173500 +0000" channel="Dreamworks HD.mncvision">
     <title>The Epic Tales Of Captain...</title>
 </programme>
@@ -3943,7 +4151,7 @@ Error: Unable to fetch data. HTTP Status Code: 500
     <title>Twisted 3</title>
 </programme>
 <programme start="20251111180000 +0000" stop="20251111183000 +0000" channel="Hanacaraka TV.mncvision">
-    <title>Arwah Lelembut</title>
+    <title>Arwah Lelembut Spesial</title>
 </programme>
 <programme start="20251111183000 +0000" stop="20251111190000 +0000" channel="Hanacaraka TV.mncvision">
     <title>Dagelan Jowo New</title>
@@ -3976,7 +4184,7 @@ Error: Unable to fetch data. HTTP Status Code: 500
     <title>Ketoprak Humor S7</title>
 </programme>
 <programme start="20251112030000 +0000" stop="20251112040000 +0000" channel="Hanacaraka TV.mncvision">
-    <title>Hanacaraka TV Anggayuh Sawiji</title>
+    <title>Ken Arok &amp; Ken Dedes</title>
 </programme>
 <programme start="20251112040000 +0000" stop="20251112043000 +0000" channel="Hanacaraka TV.mncvision">
     <title>Mahkota Mayangkara</title>

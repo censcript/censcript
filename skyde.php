@@ -2618,10 +2618,10 @@
     <title>UEFA CL: Magazin</title>
 </programme>
 <programme start="20251112103000 +0000" stop="20251112124500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live ATP Finals: Doppel 1, 4. Tag in Turin (ITA)</title>
+    <title>Live ATP Finals: H. Heliovaara (FIN) / H. Patten (GBR) - J. Salisbury (GBR) / N. Skupski (GBR), 4. Tag in Turin (ITA)</title>
 </programme>
 <programme start="20251112124500 +0000" stop="20251112150000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live ATP Finals: Einzel 1, 4. Tag in Turin (ITA)</title>
+    <title>Live ATP Finals: B. Shelton (USA) - F. Auger-Aliassime (CAN), 4. Tag in Turin (ITA)</title>
 </programme>
 <programme start="20251112150000 +0000" stop="20251112153000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>ATP: This Week</title>
@@ -2633,10 +2633,10 @@
     <title>US Open: Tournament Review Show 2025</title>
 </programme>
 <programme start="20251112170000 +0000" stop="20251112191000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live ATP Finals: Doppel 2, 4. Tag in Turin (ITA)</title>
+    <title>Live ATP Finals: M. Arevalo (ESA) / M. Pavic (CRO) - C. Harrison (USA) / E. King (USA), 4. Tag in Turin (ITA)</title>
 </programme>
 <programme start="20251112191000 +0000" stop="20251112213000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live ATP Finals: Einzel 2, 4. Tag in Turin (ITA)</title>
+    <title>Live ATP Finals: A. Zverev (GER) - J. Sinner (ITA), 4. Tag in Turin (ITA)</title>
 </programme>
 <programme start="20251112213000 +0000" stop="20251112220000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: ASAT Kompakt, 13. Runde</title>
@@ -3088,22 +3088,16 @@
 <programme start="20251112223000 +0000" stop="20251112230000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: Netbusters, 11. Spieltag</title>
 </programme>
-<programme start="20251112000000 +0000" stop="20251112020000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20251111230000 +0000" stop="20251112014000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP Finals: C. Alcaraz (ESP) - T. Fritz (USA), 3. Tag in Turin (ITA)</title>
+</programme>
+<programme start="20251112014000 +0000" stop="20251112033000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP Finals: M. Granollers (ESP) / H. Zeballos (ARG) - S. Bolelli (ITA)/ A. Vavassori (ITA), 3. Tag in Turin (ITA)</title>
 </programme>
-<programme start="20251112020000 +0000" stop="20251112023000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA Finals: Review Riyadh 2025</title>
-</programme>
-<programme start="20251112023000 +0000" stop="20251112043000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20251112033000 +0000" stop="20251112052000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP Finals: K. Krawietz (GER) / T. Puetz (GER) - J. Cash (GBR) / L. Glasspool (GBR), 3. Tag in Turin (ITA)</title>
 </programme>
-<programme start="20251112043000 +0000" stop="20251112053000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP Finals: Review Turin 2021</title>
-</programme>
-<programme start="20251112053000 +0000" stop="20251112060000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP: This Week</title>
-</programme>
-<programme start="20251112060000 +0000" stop="20251112080000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20251112052000 +0000" stop="20251112080000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP Finals: C. Alcaraz (ESP) - T. Fritz (USA), 3. Tag in Turin (ITA)</title>
 </programme>
 <programme start="20251112080000 +0000" stop="20251112100000 +0000" channel="Sky Sport Tennis HD.skyde">
@@ -3113,10 +3107,10 @@
     <title>ATP: This Week</title>
 </programme>
 <programme start="20251112103000 +0000" stop="20251112124500 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP Finals: Doppel 1, 4. Tag in Turin (ITA)</title>
+    <title>Live ATP Finals: H. Heliovaara (FIN) / H. Patten (GBR) - J. Salisbury (GBR) / N. Skupski (GBR), 4. Tag in Turin (ITA)</title>
 </programme>
 <programme start="20251112124500 +0000" stop="20251112150000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP Finals: Einzel 1, 4. Tag in Turin (ITA)</title>
+    <title>Live ATP Finals: B. Shelton (USA) - F. Auger-Aliassime (CAN), 4. Tag in Turin (ITA)</title>
 </programme>
 <programme start="20251112150000 +0000" stop="20251112153000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
@@ -3128,13 +3122,13 @@
     <title>US Open: Tournament Review Show 2025</title>
 </programme>
 <programme start="20251112170000 +0000" stop="20251112191000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP Finals: Doppel 2, 4. Tag in Turin (ITA)</title>
+    <title>Live ATP Finals: M. Arevalo (ESA) / M. Pavic (CRO) - C. Harrison (USA) / E. King (USA), 4. Tag in Turin (ITA)</title>
 </programme>
 <programme start="20251112191000 +0000" stop="20251112213000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP Finals: Einzel 2, 4. Tag in Turin (ITA)</title>
+    <title>Live ATP Finals: A. Zverev (GER) - J. Sinner (ITA), 4. Tag in Turin (ITA)</title>
 </programme>
 <programme start="20251112213000 +0000" stop="20251112233000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP Finals: Einzel 1, 4. Tag in Turin (ITA)</title>
+    <title>ATP Finals: B. Shelton (USA) - F. Auger-Aliassime (CAN), 4. Tag in Turin (ITA)</title>
 </programme>
 <programme start="20251111230000 +0000" stop="20251111233000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Fußball: scooore Niederlande! Alle Tore</title>
@@ -3210,9 +3204,6 @@
 </programme>
 <programme start="20251112073000 +0000" stop="20251112074500 +0000" channel="Sky Sport UHD.skyde">
     <title>Info: UHD</title>
-</programme>
-<programme start="20251112001000 +0000" stop="20251112003000 +0000" channel="Sky Sport 1 HD.skyde">
-    <title>Es folgt: LIVE NBA</title>
 </programme>
 <programme start="20251112003000 +0000" stop="20251112010000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime</title>
