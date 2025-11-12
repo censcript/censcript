@@ -110,8 +110,8 @@
     <title>Football: Pisa - Cremonese</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251112163500 +0700" stop="20251112170500 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Emirates FA Cup 2025-26 - Highlights</title>
+<programme start="20251113181000 +0700" stop="20251113202000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Panetolikos - AEL Novibet</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251112170500 +0700" stop="20251112190500 +0700" channel="COSMOTE Sport 3 HD">
@@ -222,10 +222,6 @@
     <title>Basketball: New York Knicks - Orlando Magic</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251112161500 +0700" stop="20251112173500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: Moto2 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251112173500 +0700" stop="20251112191500 +0700" channel="COSMOTE Sport 5 HD">
     <title>Motorsports: MotoGP 2025</title>
     <desc>Live: Tidak</desc>
@@ -322,8 +318,8 @@
     <title>DTM 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251112143000 +0700" stop="20251112173000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Authentic Athens Marathon 2025</title>
+<programme start="20251113184500 +0700" stop="20251113203000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>DTM 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251112173000 +0700" stop="20251112200000 +0700" channel="COSMOTE Sport 6 HD">

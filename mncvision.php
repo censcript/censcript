@@ -430,16 +430,16 @@
 <programme start="20251112080000 +0000" stop="20251112093000 +0000" channel="ANTV.mncvision">
     <title>Zeynep</title>
 </programme>
-<programme start="20251112093000 +0000" stop="20251112113000 +0000" channel="ANTV.mncvision">
+<programme start="20251112093000 +0000" stop="20251112110000 +0000" channel="ANTV.mncvision">
     <title>Takdir Cinta Layla</title>
 </programme>
-<programme start="20251112113000 +0000" stop="20251112133000 +0000" channel="ANTV.mncvision">
-    <title>Macho: Masalah Cowok</title>
+<programme start="20251112110000 +0000" stop="20251112130000 +0000" channel="ANTV.mncvision">
+    <title>Jurus Dewa Naga</title>
 </programme>
-<programme start="20251112133000 +0000" stop="20251112153000 +0000" channel="ANTV.mncvision">
+<programme start="20251112130000 +0000" stop="20251112151500 +0000" channel="ANTV.mncvision">
     <title>Rindu Tak Berujung</title>
 </programme>
-<programme start="20251112153000 +0000" stop="20251112160000 +0000" channel="ANTV.mncvision">
+<programme start="20251112151500 +0000" stop="20251112154500 +0000" channel="ANTV.mncvision">
     <title>Sea Wolves</title>
 </programme>
 <programme start="20251111170000 +0000" stop="20251111173000 +0000" channel="Arirang.mncvision">
