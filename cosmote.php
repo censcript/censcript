@@ -110,8 +110,8 @@
     <title>Football: Panetolikos - AEL Novibet</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251112170500 +0700" stop="20251112190500 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Famalicao - FC Porto</title>
+<programme start="20251113202000 +0700" stop="20251113222000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: FC Internazionale Milano - SS Lazio</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251112190500 +0700" stop="20251112215000 +0700" channel="COSMOTE Sport 3 HD">
@@ -162,8 +162,12 @@
     <title>Football: 2025 Socca Champions League</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251112170000 +0700" stop="20251112193000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Oklahoma City Thunder - Golden State Warriors</title>
+<programme start="20251113201000 +0700" stop="20251113203000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>William Hill Scottish Premiership - Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251113203000 +0700" stop="20251113210000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Emirates FA Cup 2025-26 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251112193000 +0700" stop="20251112210000 +0700" channel="COSMOTE Sport 4 HD">
@@ -224,10 +228,6 @@
 </programme>
 <programme start="20251113193000 +0700" stop="20251113213000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Armani Milano - Treviso</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251112173500 +0700" stop="20251112191500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: MotoGP 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251112191500 +0700" stop="20251112203500 +0700" channel="COSMOTE Sport 5 HD">
@@ -326,9 +326,9 @@
     <title>DTM 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251112173000 +0700" stop="20251112200000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: Harri Heliovaara/Henry Patten - Joe Salisbury/Neal Skupski (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20251113203000 +0700" stop="20251113212500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: MotoGP 2025</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251112200000 +0700" stop="20251112223000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Ben Shelton - Felix Auger-Aliassime (L)</title>
@@ -375,6 +375,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251113173000 +0700" stop="20251113200000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: Nitto ATP Finals 2025 (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
+<programme start="20251113200000 +0700" stop="20251113223000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Nitto ATP Finals 2025 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
