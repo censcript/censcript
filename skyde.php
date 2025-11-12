@@ -2923,51 +2923,6 @@
 <programme start="20251112220000 +0000" stop="20251113000000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Toronto Maple Leafs @ Boston Bruins</title>
 </programme>
-<programme start="20251111230000 +0000" stop="20251112000000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Sky Sport News: Nightline</title>
-</programme>
-<programme start="20251112000000 +0000" stop="20251112010000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Fußball: Sammer &amp; Basile - Der Hagedorn-Talk</title>
-</programme>
-<programme start="20251112010000 +0000" stop="20251112050000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Sky Sport News: Nightline</title>
-</programme>
-<programme start="20251112050000 +0000" stop="20251112100000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Sky Sport News: Der Morgen</title>
-</programme>
-<programme start="20251112100000 +0000" stop="20251112110000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Fußball: Sammer &amp; Basile - Der Hagedorn-Talk</title>
-</programme>
-<programme start="20251112110000 +0000" stop="20251112140000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live Sky Sport News: Der Mittag</title>
-</programme>
-<programme start="20251112140000 +0000" stop="20251112160000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live Sky Sport News: Der Nachmittag</title>
-</programme>
-<programme start="20251112160000 +0000" stop="20251112162500 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live Sky Sport News: Der Nachmittag</title>
-</programme>
-<programme start="20251112162500 +0000" stop="20251112183000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live Junioren: USA - Deutschland, U19-Nationen-Turnier in Wales</title>
-</programme>
-<programme start="20251112183000 +0000" stop="20251112190000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live Sky Sport News: So denken die Fans.... Das Fußball-Barometer</title>
-</programme>
-<programme start="20251112190000 +0000" stop="20251112193000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live Sky Sport News: Primetime</title>
-</programme>
-<programme start="20251112193000 +0000" stop="20251112210000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live Sky Sport News: Guten Abend Fans!</title>
-</programme>
-<programme start="20251112210000 +0000" stop="20251112213000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live Sky Sport News: Top News</title>
-</programme>
-<programme start="20251112213000 +0000" stop="20251112220000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Sky Sport News: So denken die Fans.... Das Fußball-Barometer</title>
-</programme>
-<programme start="20251112220000 +0000" stop="20251112230000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live Sky Sport News: Late Night News</title>
-</programme>
 <programme start="20251111230000 +0000" stop="20251111233000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>EFL: Highlights 15. Spieltag</title>
 </programme>

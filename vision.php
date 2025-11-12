@@ -688,9 +688,6 @@
 <programme start="20251112093000 +0000" stop="20251112113000 +0000" channel="ANTV.vision">
 <title>Takdir Cinta Layla</title>
 </programme>
-<programme start="20251112113000 +0000" stop="20251112133000 +0000" channel="ANTV.vision">
-<title>Macho: Masalah Cowok</title>
-</programme>
 <programme start="20251112133000 +0000" stop="20251112153000 +0000" channel="ANTV.vision">
 <title>Rindu Tak Berujung</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20251113080000 +0000" stop="20251113083000 +0000" channel="BTV.vision">
 <title>Dikit-Dikit Damkar</title>
+</programme>
+<programme start="20251113083000 +0000" stop="20251113091500 +0000" channel="BTV.vision">
+<title>Figur Publik</title>
 </programme>
