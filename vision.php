@@ -604,9 +604,6 @@
 <programme start="20251112154500 +0000" stop="20251112163000 +0000" channel="Trans 7.vision">
 <title>The Police</title>
 </programme>
-<programme start="20251112163000 +0000" stop="20251112171500 +0000" channel="Trans 7.vision">
-<title>Newstainment</title>
-</programme>
 <programme start="20251112171500 +0000" stop="20251112174500 +0000" channel="Trans 7.vision">
 <title>Redaksi Malam</title>
 </programme>
@@ -691,17 +688,8 @@
 <programme start="20251112133000 +0000" stop="20251112153000 +0000" channel="ANTV.vision">
 <title>Rindu Tak Berujung</title>
 </programme>
-<programme start="20251112153000 +0000" stop="20251112173000 +0000" channel="ANTV.vision">
-<title>Sea Wolves</title>
-</programme>
 <programme start="20251112173000 +0000" stop="20251112190000 +0000" channel="ANTV.vision">
 <title>The Sting</title>
-</programme>
-<programme start="20251112190000 +0000" stop="20251112203000 +0000" channel="ANTV.vision">
-<title>Tarot</title>
-</programme>
-<programme start="20251112203000 +0000" stop="20251112220000 +0000" channel="ANTV.vision">
-<title>Lelaki Sejati</title>
 </programme>
 <programme start="20251112220000 +0000" stop="20251112230000 +0000" channel="ANTV.vision">
 <title>Ada Si Manis Di Jembatan</title>
@@ -1497,4 +1485,16 @@
 </programme>
 <programme start="20251113083000 +0000" stop="20251113091500 +0000" channel="BTV.vision">
 <title>Figur Publik</title>
+</programme>
+<programme start="20251113091500 +0000" stop="20251113093000 +0000" channel="BTV.vision">
+<title>Info Seleb</title>
+</programme>
+<programme start="20251113093000 +0000" stop="20251113103000 +0000" channel="BTV.vision">
+<title>Berita Satu Sore</title>
+</programme>
+<programme start="20251113103000 +0000" stop="20251113123000 +0000" channel="BTV.vision">
+<title>Berita Satu Utama</title>
+</programme>
+<programme start="20251111230000 +0000" stop="20251112004500 +0000" channel="TVRI.vision">
+<title>TVRI</title>
 </programme>
