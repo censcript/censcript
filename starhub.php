@@ -2161,8 +2161,11 @@
     <programme start="20251111133000 +0000" stop="20251111170000 +0000" channel="KTV HD.starhub">
         <title>Movie - Lathi Charge</title>
     </programme>
-    <programme start="20251111170000 +0000" stop="20251111183000 +0000" channel="KTV HD.starhub">
+    <programme start="20251111170000 +0000" stop="20251111200000 +0000" channel="KTV HD.starhub">
         <title>Movie - Kadal Meengal</title>
+    </programme>
+    <programme start="20251111200000 +0000" stop="20251111223000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Veettai Paar Naattai Par</title>
     </programme>
     <programme start="20251111223000 +0000" stop="20251112010000 +0000" channel="KTV HD.starhub">
         <title>Movie - Atha Maga Rathiname</title>
@@ -5257,41 +5260,41 @@
     <programme start="20251112152000 +0000" stop="20251112170500 +0000" channel="KBS World HD.starhub">
         <title>K-GAGOK SUPERSTAR</title>
     </programme>
-    <programme start="20251111160000 +0000" stop="20251111161500 +0000" channel="TestChannel 996.starhub">
+    <programme start="20251111160000 +0000" stop="20251111163000 +0000" channel="TestChannel 996.starhub">
         <title>Big Boys Club</title>
     </programme>
-    <programme start="20251111161500 +0000" stop="20251111165000 +0000" channel="TestChannel 996.starhub">
-        <title>Vengeance of the Bride</title>
-    </programme>
-    <programme start="20251111165000 +0000" stop="20251111173000 +0000" channel="TestChannel 996.starhub">
-        <title>Vengeance of the Bride</title>
+    <programme start="20251111163000 +0000" stop="20251111173000 +0000" channel="TestChannel 996.starhub">
+        <title>Dead Ringer</title>
     </programme>
     <programme start="20251111173000 +0000" stop="20251111183000 +0000" channel="TestChannel 996.starhub">
-        <title>The Litchi Road</title>
+        <title>The QUEEN Of News 2 &amp; What&#039;s On Today</title>
     </programme>
     <programme start="20251111183000 +0000" stop="20251111190000 +0000" channel="TestChannel 996.starhub">
         <title>Lo And Behold</title>
     </programme>
-    <programme start="20251111190000 +0000" stop="20251111200000 +0000" channel="TestChannel 996.starhub">
-        <title>Prism Breaker</title>
+    <programme start="20251111190000 +0000" stop="20251111193000 +0000" channel="TestChannel 996.starhub">
+        <title>Scoop 2025</title>
+    </programme>
+    <programme start="20251111193000 +0000" stop="20251111200000 +0000" channel="TestChannel 996.starhub">
+        <title>Gourmet Express</title>
     </programme>
     <programme start="20251111200000 +0000" stop="20251111210000 +0000" channel="TestChannel 996.starhub">
-        <title>The Wanted Detective</title>
+        <title>Modern Dynasty</title>
     </programme>
-    <programme start="20251111210000 +0000" stop="20251111213000 +0000" channel="TestChannel 996.starhub">
-        <title>Lo And Behold</title>
+    <programme start="20251111210000 +0000" stop="20251111214500 +0000" channel="TestChannel 996.starhub">
+        <title>Big City Shop 2024</title>
     </programme>
-    <programme start="20251111213000 +0000" stop="20251111222000 +0000" channel="TestChannel 996.starhub">
-        <title>The Heir to the Throne (with Eng Subs)</title>
+    <programme start="20251111214500 +0000" stop="20251111220000 +0000" channel="TestChannel 996.starhub">
+        <title>Happy Old Buddies</title>
     </programme>
-    <programme start="20251111222000 +0000" stop="20251111231500 +0000" channel="TestChannel 996.starhub">
-        <title>Golden City (Ep 751-800) VVD Mandarin</title>
+    <programme start="20251111220000 +0000" stop="20251111223000 +0000" channel="TestChannel 996.starhub">
+        <title>Funny Funny Home</title>
+    </programme>
+    <programme start="20251111223000 +0000" stop="20251111230000 +0000" channel="TestChannel 996.starhub">
+        <title>Scoop 2025</title>
     </programme>
     <programme start="20251111230000 +0000" stop="20251112000000 +0000" channel="TestChannel 996.starhub">
         <title>Good Morning Hong Kong and Global View</title>
-    </programme>
-    <programme start="20251111231500 +0000" stop="20251111235000 +0000" channel="TestChannel 996.starhub">
-        <title>Vengeance of the Bride</title>
     </programme>
     <programme start="20251112000000 +0000" stop="20251112010000 +0000" channel="TestChannel 996.starhub">
         <title>Dead Ringer</title>

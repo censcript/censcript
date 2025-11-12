@@ -676,9 +676,6 @@
 <programme start="20251112010000 +0000" stop="20251112030000 +0000" channel="ANTV.vision">
 <title>Mangal Lakshmi</title>
 </programme>
-<programme start="20251112030000 +0000" stop="20251112063000 +0000" channel="ANTV.vision">
-<title>Raja Hindustani</title>
-</programme>
 <programme start="20251112063000 +0000" stop="20251112080000 +0000" channel="ANTV.vision">
 <title>Cinta Keluarga Pandya</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20251113080000 +0000" stop="20251113083000 +0000" channel="BTV.vision">
 <title>Dikit-Dikit Damkar</title>
+</programme>
+<programme start="20251113083000 +0000" stop="20251113091500 +0000" channel="BTV.vision">
+<title>Figur Publik</title>
 </programme>
