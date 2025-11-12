@@ -50,10 +50,6 @@
     <title>Football: Olympiacos - PSV Eindhoven</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251113050000 +0700" stop="20251113053000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Serie A Full Impact 2025-26 E11</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251113053000 +0700" stop="20251113074000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Kifisia - Olympiacos</title>
     <desc>Live: Tidak</desc>
@@ -106,8 +102,8 @@
     <title>Football: OFI - AEK</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251113035000 +0700" stop="20251113055000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Santa Clara - Sporting CP</title>
+<programme start="20251114064000 +0700" stop="20251114071000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Serie A Full Impact 2025-26 E11</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251113055000 +0700" stop="20251113070000 +0700" channel="COSMOTE Sport 3 HD">
@@ -226,10 +222,6 @@
     <title>Basketball: Karditsa - Oostende</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251113045500 +0700" stop="20251113052500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251113052500 +0700" stop="20251113062500 +0700" channel="COSMOTE Sport 5 HD">
     <title>MotoGP 2025 - Highlights</title>
     <desc>Live: Tidak</desc>
@@ -318,62 +310,11 @@
     <title>Moto-E World Championship 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251113050000 +0700" stop="20251113053000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Watersports: Inside Sailing 2025 E10</title>
+<programme start="20251114063500 +0700" stop="20251114070500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251113053000 +0700" stop="20251113093000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: Nitto ATP Finals 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251113093000 +0700" stop="20251113100000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Premier Padel Tour 2025 - Highlights</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251113100000 +0700" stop="20251113110000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>ATP 500 2025 - Highlights</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251113110000 +0700" stop="20251113133000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>2025 Premier Padel World Cup Pairs</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251113133000 +0700" stop="20251113173000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: Nitto ATP Finals 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251113173000 +0700" stop="20251113200000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: Kevin Krawietz/Tim Puetz - S. Bolelli/A. Vavassori (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20251113200000 +0700" stop="20251113223000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: Taylor Fritz - Alex de Minaur (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20251113223000 +0700" stop="20251113230000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Sports Classics: The Outdoor Sports Show 2025 E10</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251113230000 +0700" stop="20251114000000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>ATP 500 2025 - Highlights</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251114000000 +0700" stop="20251114023000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: Julian Cash/Lloyd Glasspool - M. Granollers/H. Zeballos (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20251114023000 +0700" stop="20251114050000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: Carlos Alcaraz - Lorenzo Musetti (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20251114050000 +0700" stop="20251114053000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Premier Padel Tour 2025 - Highlights</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251114053000 +0700" stop="20251114093000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: Nitto ATP Finals 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
+No EPG found for COSMOTE Sport 6 HD
 <programme start="20251113050000 +0700" stop="20251113070000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
@@ -482,56 +423,5 @@
     <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251113050000 +0700" stop="20251113070000 +0700" channel="COSMOTE Sport 9 HD">
-    <title>COSMOTESport9HD</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251113070000 +0700" stop="20251113090000 +0700" channel="COSMOTE Sport 9 HD">
-    <title>COSMOTESport9HD</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251113090000 +0700" stop="20251113110000 +0700" channel="COSMOTE Sport 9 HD">
-    <title>COSMOTESport9HD</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251113110000 +0700" stop="20251113130000 +0700" channel="COSMOTE Sport 9 HD">
-    <title>COSMOTESport9HD</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251113130000 +0700" stop="20251113150000 +0700" channel="COSMOTE Sport 9 HD">
-    <title>COSMOTESport9HD</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251113150000 +0700" stop="20251113170000 +0700" channel="COSMOTE Sport 9 HD">
-    <title>COSMOTESport9HD</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251113170000 +0700" stop="20251113190000 +0700" channel="COSMOTE Sport 9 HD">
-    <title>COSMOTESport9HD</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251113190000 +0700" stop="20251113210000 +0700" channel="COSMOTE Sport 9 HD">
-    <title>COSMOTESport9HD</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251113210000 +0700" stop="20251113230000 +0700" channel="COSMOTE Sport 9 HD">
-    <title>COSMOTESport9HD</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251113230000 +0700" stop="20251114010000 +0700" channel="COSMOTE Sport 9 HD">
-    <title>COSMOTESport9HD</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251114010000 +0700" stop="20251114030000 +0700" channel="COSMOTE Sport 9 HD">
-    <title>COSMOTESport9HD</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251114030000 +0700" stop="20251114050000 +0700" channel="COSMOTE Sport 9 HD">
-    <title>COSMOTESport9HD</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251114050000 +0700" stop="20251114070000 +0700" channel="COSMOTE Sport 9 HD">
-    <title>COSMOTESport9HD</title>
-    <desc>Live: Tidak</desc>
-</programme>
+No EPG found for COSMOTE Sport 9 HD
 No EPG found for COSMOTE Sport 10 HD
