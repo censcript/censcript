@@ -2960,7 +2960,7 @@
     <title>The Day: News In Review</title>
 </programme>
 <programme start="20251112003000 +0000" stop="20251112010000 +0000" channel="DW English.mncvision">
-    <title>Made In Germany: Business</title>
+    <title>Made In Germany: Young People</title>
 </programme>
 <programme start="20251112010000 +0000" stop="20251112011500 +0000" channel="DW English.mncvision">
     <title>DW News</title>
@@ -2975,7 +2975,7 @@
     <title>The Day: News In Review</title>
 </programme>
 <programme start="20251112023000 +0000" stop="20251112030000 +0000" channel="DW English.mncvision">
-    <title>Global Us: What Connects Us All</title>
+    <title>Global Us: Brazil</title>
 </programme>
 <programme start="20251112030000 +0000" stop="20251112031500 +0000" channel="DW English.mncvision">
     <title>DW News</title>
@@ -2999,7 +2999,7 @@
     <title>The Day: News In Review</title>
 </programme>
 <programme start="20251112053000 +0000" stop="20251112060000 +0000" channel="DW English.mncvision">
-    <title>Made In Germany: Business</title>
+    <title>Made In Germany: Young People</title>
 </programme>
 <programme start="20251112060000 +0000" stop="20251112061500 +0000" channel="DW English.mncvision">
     <title>DW News</title>
@@ -3038,7 +3038,7 @@
     <title>DW News</title>
 </programme>
 <programme start="20251112113000 +0000" stop="20251112120000 +0000" channel="DW English.mncvision">
-    <title>Made In Germany: Business</title>
+    <title>Made In Germany: Young People</title>
 </programme>
 <programme start="20251112120000 +0000" stop="20251112123000 +0000" channel="DW English.mncvision">
     <title>DW News</title>

@@ -110,6 +110,10 @@
     <title>Football: Atalanta - Sassuolo</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251113161000 +0700" stop="20251113181000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Pisa - Cremonese</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251112143000 +0700" stop="20251112163500 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Motherwell - St. Mirren</title>
     <desc>Live: Tidak</desc>
@@ -315,6 +319,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251113151000 +0700" stop="20251113161500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>2025 FIM Women&#039;s Circuit Racing World Championship</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251113161500 +0700" stop="20251113172000 +0700" channel="COSMOTE Sport 5 HD">
     <title>2025 FIM Women&#039;s Circuit Racing World Championship</title>
     <desc>Live: Tidak</desc>
 </programme>
