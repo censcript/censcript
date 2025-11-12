@@ -110,6 +110,10 @@
     <title>Football: Panathinaikos - PAOK</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251113141000 +0700" stop="20251113161000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Atalanta - Sassuolo</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251112110000 +0700" stop="20251112143000 +0700" channel="COSMOTE Sport 3 HD">
     <title>American Football: Los Angeles Chargers - Pittsburgh Steelers</title>
     <desc>Live: Tidak</desc>
@@ -160,6 +164,10 @@
 </programme>
 <programme start="20251113110000 +0700" stop="20251113141500 +0700" channel="COSMOTE Sport 3 HD">
     <title>American Football: Green Bay Packers - Philadelphia Eagles</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251113141500 +0700" stop="20251113170000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Celtic FC - Rangers FC</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251112123000 +0700" stop="20251112143000 +0700" channel="COSMOTE Sport 4 HD">
@@ -224,6 +232,10 @@
 </programme>
 <programme start="20251113125500 +0700" stop="20251113145000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Badalona - Real Madrid</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251113145000 +0700" stop="20251113170000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: AEK - VEF Riga</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251112120500 +0700" stop="20251112141000 +0700" channel="COSMOTE Sport 5 HD">
