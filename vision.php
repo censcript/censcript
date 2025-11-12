@@ -83,7 +83,7 @@
 <title>Terbelenggu Rindu (RCTI)</title>
 </programme>
 <programme start="20251113114500 +0000" stop="20251113131500 +0000" channel="RCTI.vision">
-<title>Mencintai Ipar Sendiri (RCTI)</title>
+<title>Mencintai Ipar Sendiri</title>
 </programme>
 <programme start="20251111231500 +0000" stop="20251112001500 +0000" channel="MNCTV.vision">
 <title>Kiko</title>
@@ -188,7 +188,7 @@
 <title>SpongeBob SquarePants</title>
 </programme>
 <programme start="20251112111500 +0000" stop="20251112123000 +0000" channel="GTV.vision">
-<title>Mission: Impossible Ghost...</title>
+<title>No Way To Escape</title>
 </programme>
 <programme start="20251112123000 +0000" stop="20251112143000 +0000" channel="GTV.vision">
 <title>Distortion</title>
@@ -230,16 +230,13 @@
 <title>Bernard Bear</title>
 </programme>
 <programme start="20251113083000 +0000" stop="20251113100000 +0000" channel="GTV.vision">
-<title>Main Kata</title>
+<title>Lucky Spinner</title>
 </programme>
-<programme start="20251113100000 +0000" stop="20251113110000 +0000" channel="GTV.vision">
-<title>SpongeBob SquarePants</title>
-</programme>
-<programme start="20251113110000 +0000" stop="20251113111500 +0000" channel="GTV.vision">
+<programme start="20251113100000 +0000" stop="20251113111500 +0000" channel="GTV.vision">
 <title>SpongeBob SquarePants</title>
 </programme>
 <programme start="20251113111500 +0000" stop="20251113123000 +0000" channel="GTV.vision">
-<title>Mission: Impossible Rogue...</title>
+<title>Monster Island</title>
 </programme>
 <programme start="20251112000000 +0000" stop="20251112010000 +0000" channel="iNews.vision">
 <title>Morning Update</title>
@@ -679,6 +676,9 @@
 <programme start="20251112010000 +0000" stop="20251112030000 +0000" channel="ANTV.vision">
 <title>Mangal Lakshmi</title>
 </programme>
+<programme start="20251112030000 +0000" stop="20251112063000 +0000" channel="ANTV.vision">
+<title>Raja Hindustani</title>
+</programme>
 <programme start="20251112063000 +0000" stop="20251112080000 +0000" channel="ANTV.vision">
 <title>Cinta Keluarga Pandya</title>
 </programme>
@@ -687,6 +687,9 @@
 </programme>
 <programme start="20251112093000 +0000" stop="20251112113000 +0000" channel="ANTV.vision">
 <title>Takdir Cinta Layla</title>
+</programme>
+<programme start="20251112113000 +0000" stop="20251112133000 +0000" channel="ANTV.vision">
+<title>Macho: Masalah Cowok</title>
 </programme>
 <programme start="20251112133000 +0000" stop="20251112153000 +0000" channel="ANTV.vision">
 <title>Rindu Tak Berujung</title>
@@ -1494,7 +1497,4 @@
 </programme>
 <programme start="20251113080000 +0000" stop="20251113083000 +0000" channel="BTV.vision">
 <title>Dikit-Dikit Damkar</title>
-</programme>
-<programme start="20251113083000 +0000" stop="20251113091500 +0000" channel="BTV.vision">
-<title>Figur Publik</title>
 </programme>
