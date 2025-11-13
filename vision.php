@@ -41,7 +41,7 @@
 <title>Hati Yang Memilih</title>
 </programme>
 <programme start="20251113173000 +0000" stop="20251113190000 +0000" channel="RCTI.vision">
-<title>Ku Derek Cintamu Ke Pelaminan</title>
+<title>Copet Kena Copet</title>
 </programme>
 <programme start="20251113190000 +0000" stop="20251113193000 +0000" channel="RCTI.vision">
 <title>Mega Film TV Malam</title>

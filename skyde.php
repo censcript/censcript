@@ -1357,10 +1357,10 @@
 <programme start="20251112232500 +0000" stop="20251112235000 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20251112235000 +0000" stop="20251113000500 +0000" channel="Nick Jr..skyde">
+<programme start="20251112235000 +0000" stop="20251113000000 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20251113000500 +0000" stop="20251113001500 +0000" channel="Nick Jr..skyde">
+<programme start="20251113000000 +0000" stop="20251113001500 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
 <programme start="20251113001500 +0000" stop="20251113002500 +0000" channel="Nick Jr..skyde">
@@ -1375,25 +1375,25 @@
 <programme start="20251113010500 +0000" stop="20251113013000 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
-<programme start="20251113013000 +0000" stop="20251113015000 +0000" channel="Nick Jr..skyde">
+<programme start="20251113013000 +0000" stop="20251113015500 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20251113015000 +0000" stop="20251113020000 +0000" channel="Nick Jr..skyde">
+<programme start="20251113015500 +0000" stop="20251113020500 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20251113020000 +0000" stop="20251113022500 +0000" channel="Nick Jr..skyde">
+<programme start="20251113020500 +0000" stop="20251113022500 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
 </programme>
-<programme start="20251113022500 +0000" stop="20251113024500 +0000" channel="Nick Jr..skyde">
+<programme start="20251113022500 +0000" stop="20251113025000 +0000" channel="Nick Jr..skyde">
     <title>Blaze und die Monster-Maschinen</title>
 </programme>
-<programme start="20251113024500 +0000" stop="20251113031000 +0000" channel="Nick Jr..skyde">
+<programme start="20251113025000 +0000" stop="20251113031500 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20251113031000 +0000" stop="20251113033000 +0000" channel="Nick Jr..skyde">
+<programme start="20251113031500 +0000" stop="20251113033500 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20251113033000 +0000" stop="20251113040000 +0000" channel="Nick Jr..skyde">
+<programme start="20251113033500 +0000" stop="20251113040000 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
 <programme start="20251113040000 +0000" stop="20251113041000 +0000" channel="Nick Jr..skyde">
@@ -1414,19 +1414,19 @@
 <programme start="20251113050000 +0000" stop="20251113050500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20251113050500 +0000" stop="20251113051000 +0000" channel="Nick Jr..skyde">
-    <title>Peppa Wutz</title>
-</programme>
-<programme start="20251113051000 +0000" stop="20251113051500 +0000" channel="Nick Jr..skyde">
+<programme start="20251113050500 +0000" stop="20251113051500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
 <programme start="20251113051500 +0000" stop="20251113052000 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20251113052000 +0000" stop="20251113052500 +0000" channel="Nick Jr..skyde">
+<programme start="20251113052000 +0000" stop="20251113052100 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20251113052500 +0000" stop="20251113055000 +0000" channel="Nick Jr..skyde">
+<programme start="20251113052100 +0000" stop="20251113053000 +0000" channel="Nick Jr..skyde">
+    <title>Peppa Wutz</title>
+</programme>
+<programme start="20251113053000 +0000" stop="20251113055000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
 <programme start="20251113055000 +0000" stop="20251113060000 +0000" channel="Nick Jr..skyde">
@@ -1471,19 +1471,19 @@
 <programme start="20251113095000 +0000" stop="20251113095500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20251113095500 +0000" stop="20251113100000 +0000" channel="Nick Jr..skyde">
+<programme start="20251113095500 +0000" stop="20251113100500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20251113100000 +0000" stop="20251113100500 +0000" channel="Nick Jr..skyde">
+<programme start="20251113100500 +0000" stop="20251113100600 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20251113100500 +0000" stop="20251113101000 +0000" channel="Nick Jr..skyde">
+<programme start="20251113100600 +0000" stop="20251113101000 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20251113101000 +0000" stop="20251113101500 +0000" channel="Nick Jr..skyde">
+<programme start="20251113101000 +0000" stop="20251113102000 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20251113101500 +0000" stop="20251113104000 +0000" channel="Nick Jr..skyde">
+<programme start="20251113102000 +0000" stop="20251113104000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
 <programme start="20251113104000 +0000" stop="20251113110500 +0000" channel="Nick Jr..skyde">
@@ -1495,10 +1495,10 @@
 <programme start="20251113112500 +0000" stop="20251113115000 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20251113115000 +0000" stop="20251113120500 +0000" channel="Nick Jr..skyde">
+<programme start="20251113115000 +0000" stop="20251113120000 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20251113120500 +0000" stop="20251113121500 +0000" channel="Nick Jr..skyde">
+<programme start="20251113120000 +0000" stop="20251113121500 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
 <programme start="20251113121500 +0000" stop="20251113122500 +0000" channel="Nick Jr..skyde">
@@ -1516,22 +1516,22 @@
 <programme start="20251113133000 +0000" stop="20251113135000 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20251113135000 +0000" stop="20251113140000 +0000" channel="Nick Jr..skyde">
+<programme start="20251113135000 +0000" stop="20251113140500 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20251113140000 +0000" stop="20251113142500 +0000" channel="Nick Jr..skyde">
+<programme start="20251113140500 +0000" stop="20251113142500 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
 </programme>
-<programme start="20251113142500 +0000" stop="20251113144500 +0000" channel="Nick Jr..skyde">
+<programme start="20251113142500 +0000" stop="20251113145000 +0000" channel="Nick Jr..skyde">
     <title>Blaze und die Monster-Maschinen</title>
 </programme>
-<programme start="20251113144500 +0000" stop="20251113151000 +0000" channel="Nick Jr..skyde">
+<programme start="20251113145000 +0000" stop="20251113151500 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20251113151000 +0000" stop="20251113153000 +0000" channel="Nick Jr..skyde">
+<programme start="20251113151500 +0000" stop="20251113153500 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20251113153000 +0000" stop="20251113160000 +0000" channel="Nick Jr..skyde">
+<programme start="20251113153500 +0000" stop="20251113160000 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
 <programme start="20251113160000 +0000" stop="20251113161000 +0000" channel="Nick Jr..skyde">
@@ -1546,13 +1546,13 @@
 <programme start="20251113163500 +0000" stop="20251113170000 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20251113170000 +0000" stop="20251113172000 +0000" channel="Nick Jr..skyde">
+<programme start="20251113170000 +0000" stop="20251113172500 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
 </programme>
-<programme start="20251113172000 +0000" stop="20251113174500 +0000" channel="Nick Jr..skyde">
+<programme start="20251113172500 +0000" stop="20251113175000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20251113174500 +0000" stop="20251113180000 +0000" channel="Nick Jr..skyde">
+<programme start="20251113175000 +0000" stop="20251113180000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
 <programme start="20251113180000 +0000" stop="20251113182500 +0000" channel="Nick Jr..skyde">
@@ -1576,13 +1576,13 @@
 <programme start="20251113200500 +0000" stop="20251113203000 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20251113203000 +0000" stop="20251113205000 +0000" channel="Nick Jr..skyde">
+<programme start="20251113203000 +0000" stop="20251113205500 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
 </programme>
-<programme start="20251113205000 +0000" stop="20251113211500 +0000" channel="Nick Jr..skyde">
+<programme start="20251113205500 +0000" stop="20251113212000 +0000" channel="Nick Jr..skyde">
     <title>Baby Sharks große Show</title>
 </programme>
-<programme start="20251113211500 +0000" stop="20251113214000 +0000" channel="Nick Jr..skyde">
+<programme start="20251113212000 +0000" stop="20251113214000 +0000" channel="Nick Jr..skyde">
     <title>Baby Sharks große Show</title>
 </programme>
 <programme start="20251113214000 +0000" stop="20251113214500 +0000" channel="Nick Jr..skyde">
@@ -1594,19 +1594,19 @@
 <programme start="20251113215000 +0000" stop="20251113215500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20251113215500 +0000" stop="20251113220000 +0000" channel="Nick Jr..skyde">
+<programme start="20251113215500 +0000" stop="20251113220500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20251113220000 +0000" stop="20251113220500 +0000" channel="Nick Jr..skyde">
+<programme start="20251113220500 +0000" stop="20251113220600 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20251113220500 +0000" stop="20251113221000 +0000" channel="Nick Jr..skyde">
+<programme start="20251113220600 +0000" stop="20251113221000 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20251113221000 +0000" stop="20251113221500 +0000" channel="Nick Jr..skyde">
+<programme start="20251113221000 +0000" stop="20251113222000 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20251113221500 +0000" stop="20251113224000 +0000" channel="Nick Jr..skyde">
+<programme start="20251113222000 +0000" stop="20251113224000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
 <programme start="20251113224000 +0000" stop="20251113230500 +0000" channel="Nick Jr..skyde">
@@ -2636,10 +2636,10 @@
     <title>Golf: Sky Golf Cups Österreich</title>
 </programme>
 <programme start="20251113103000 +0000" stop="20251113124500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live ATP Finals: Doppel 1, 5. Tag in Turin (ITA)</title>
+    <title>Live ATP Finals: K. Krawietz (GER)/ T. Pütz (GER) - S. Bolelli (ITA)/ A. Vavassori (ITA), 5. Tag in Turin (ITA)</title>
 </programme>
 <programme start="20251113124500 +0000" stop="20251113150000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live ATP Finals: Einzel 1, 5. Tag in Turin (ITA)</title>
+    <title>Live ATP Finals: T. Fritz (USA) - A. de Minaur (AUS), 5. Tag in Turin (ITA)</title>
 </programme>
 <programme start="20251113150000 +0000" stop="20251113160000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>ATP Finals: Review Turin 2024</title>
@@ -2651,10 +2651,10 @@
     <title>ATP: This Week</title>
 </programme>
 <programme start="20251113170000 +0000" stop="20251113190000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live ATP Finals: Doppel 2, 5. Tag in Turin (ITA)</title>
+    <title>Live ATP Finals: J. Cash (GBR)/ L. Glasspool (GBR) - M. Granollers (ESP)/ H. Zeballos (ARG), 5. Tag in Turin (ITA)</title>
 </programme>
 <programme start="20251113190000 +0000" stop="20251113213000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live ATP Finals: Einzel 2, 5. Tag in Turin (ITA)</title>
+    <title>Live ATP Finals: C. Alcaraz (ESP) - L. Musetti (ITA), 5. Tag in Turin (ITA)</title>
 </programme>
 <programme start="20251113213000 +0000" stop="20251113224500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Fußball: DAB - Der Audiobeweis</title>
@@ -2879,7 +2879,7 @@
     <title>MotoGP: Highlights: GP Portugal</title>
 </programme>
 <programme start="20251113110000 +0000" stop="20251113130000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>Junioren: USA - Deutschland, U19-Nationen-Turnier in Wales</title>
+    <title>Junioren: El Salvador - Deutschland, FIFA U-17 WM 2025</title>
 </programme>
 <programme start="20251113130000 +0000" stop="20251113133000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: On the Fly</title>
@@ -2956,11 +2956,8 @@
 <programme start="20251113170000 +0000" stop="20251113173000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Transfer Update: Die Show</title>
 </programme>
-<programme start="20251113173000 +0000" stop="20251113180000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live Sky Sport News: Primetime</title>
-</programme>
-<programme start="20251113180000 +0000" stop="20251113182500 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live Sky Sport News: Primetime</title>
+<programme start="20251113173000 +0000" stop="20251113182500 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: Primetime Spezial - DFB-PK vor Luxemburg</title>
 </programme>
 <programme start="20251113182500 +0000" stop="20251113203000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Testspiel: Twente Enschede - FC Schalke 04, Jubiläumsspiel in Enschede</title>
@@ -3110,10 +3107,10 @@
     <title>ATP Finals: A. Zverev (GER) - J. Sinner (ITA), 4. Tag in Turin (ITA)</title>
 </programme>
 <programme start="20251113103000 +0000" stop="20251113124500 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP Finals: Doppel 1, 5. Tag in Turin (ITA)</title>
+    <title>Live ATP Finals: K. Krawietz (GER)/ T. Pütz (GER) - S. Bolelli (ITA)/ A. Vavassori (ITA), 5. Tag in Turin (ITA)</title>
 </programme>
 <programme start="20251113124500 +0000" stop="20251113150000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP Finals: Einzel 1, 5. Tag in Turin (ITA)</title>
+    <title>Live ATP Finals: T. Fritz (USA) - A. de Minaur (AUS), 5. Tag in Turin (ITA)</title>
 </programme>
 <programme start="20251113150000 +0000" stop="20251113160000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP Finals: Review Turin 2024</title>
@@ -3125,19 +3122,16 @@
     <title>ATP: This Week</title>
 </programme>
 <programme start="20251113170000 +0000" stop="20251113190000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP Finals: Doppel 2, 5. Tag in Turin (ITA)</title>
+    <title>Live ATP Finals: J. Cash (GBR)/ L. Glasspool (GBR) - M. Granollers (ESP)/ H. Zeballos (ARG), 5. Tag in Turin (ITA)</title>
 </programme>
 <programme start="20251113190000 +0000" stop="20251113213000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP Finals: Einzel 2, 5. Tag in Turin (ITA)</title>
+    <title>Live ATP Finals: C. Alcaraz (ESP) - L. Musetti (ITA), 5. Tag in Turin (ITA)</title>
 </programme>
 <programme start="20251113213000 +0000" stop="20251113233000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP Finals: Einzel 1, 5. Tag in Turin (ITA)</title>
-</programme>
-<programme start="20251112233000 +0000" stop="20251112234500 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>NHL: Highlights TOR@BOS</title>
+    <title>ATP Finals: T. Fritz (USA) - A. de Minaur (AUS), 5. Tag in Turin (ITA)</title>
 </programme>
 <programme start="20251112234500 +0000" stop="20251113000000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>NHL: Highlights DAL@OTT</title>
+    <title>NHL: Highlights TOR@BOS</title>
 </programme>
 <programme start="20251113000000 +0000" stop="20251113030000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NHL: New York Rangers @ Tampa Bay Lightning</title>
@@ -3149,13 +3143,13 @@
     <title>WRC: Highlights: FORUM8 Rally Japan</title>
 </programme>
 <programme start="20251113050000 +0000" stop="20251113070000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Junioren: USA - Deutschland, U19-Nationen-Turnier in Wales</title>
+    <title>Junioren: El Salvador - Deutschland, FIFA U-17 WM 2025</title>
 </programme>
 <programme start="20251113070000 +0000" stop="20251113130000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live Golf: DP World Tour Championship, 1. Tag in Dubai (VAE)</title>
 </programme>
 <programme start="20251113130000 +0000" stop="20251113150000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live ATP Finals: Einzel 1, 5. Tag in Turin (ITA)</title>
+    <title>Live ATP Finals: T. Fritz (USA) - A. de Minaur (AUS), 5. Tag in Turin (ITA)</title>
 </programme>
 <programme start="20251113150000 +0000" stop="20251113160000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>ATP Finals: Review Turin 2024</title>
@@ -3167,10 +3161,10 @@
     <title>ATP: This Week</title>
 </programme>
 <programme start="20251113170000 +0000" stop="20251113190000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live ATP Finals: Doppel 2, 5. Tag in Turin (ITA)</title>
+    <title>Live ATP Finals: J. Cash (GBR)/ L. Glasspool (GBR) - M. Granollers (ESP)/ H. Zeballos (ARG), 5. Tag in Turin (ITA)</title>
 </programme>
 <programme start="20251113190000 +0000" stop="20251113213000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live ATP Finals: Einzel 2, 5. Tag in Turin (ITA)</title>
+    <title>Live ATP Finals: C. Alcaraz (ESP) - L. Musetti (ITA), 5. Tag in Turin (ITA)</title>
 </programme>
 <programme start="20251113213000 +0000" stop="20251113233000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live PGA Tour Champions: Charles Schwab Cup Championship, 1. Tag in Phoenix, Arizona (USA)</title>
