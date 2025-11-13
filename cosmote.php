@@ -110,6 +110,10 @@
     <title>Football: Bologna - SSC Napoli</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251114222000 +0700" stop="20251115002000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Parma - AC Milan</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251113210000 +0700" stop="20251113230000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Blackburn Rovers - Derby County</title>
     <desc>Live: Tidak</desc>
@@ -178,10 +182,6 @@
     <title>Football: Watford - Bristol City</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251113193000 +0700" stop="20251113213000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Armani Milano - Treviso</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251113213000 +0700" stop="20251113234000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: AEK - VEF Riga</title>
     <desc>Live: Tidak</desc>
@@ -248,10 +248,6 @@
 </programme>
 <programme start="20251114215500 +0700" stop="20251114235500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Girona - Barcelona</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251113203000 +0700" stop="20251113212500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: MotoGP 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251113212500 +0700" stop="20251113222000 +0700" channel="COSMOTE Sport 5 HD">
@@ -358,6 +354,14 @@
     <title>Motorsports: MotoGP 2025 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
+<programme start="20251114221500 +0700" stop="20251114224500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251114224500 +0700" stop="20251114234000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: Moto3 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251113200000 +0700" stop="20251113223000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Taylor Fritz - Alex de Minaur (L)</title>
     <desc>Live: Ya</desc>
@@ -417,6 +421,10 @@
 <programme start="20251114200000 +0700" stop="20251114223000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Nitto ATP Finals 2025 (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20251114223000 +0700" stop="20251115000000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Topspin</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251113210000 +0700" stop="20251113230000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
