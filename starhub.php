@@ -197,7 +197,7 @@
         <title>Vasudha</title>
     </programme>
     <programme start="20251112180000 +0000" stop="20251112183000 +0000" channel="Zee TV.starhub">
-        <title>Jaane Anjaane Hum Mile</title>
+        <title>Jagadhatri</title>
     </programme>
     <programme start="20251112183000 +0000" stop="20251112190000 +0000" channel="Zee TV.starhub">
         <title>Saru</title>
@@ -210,6 +210,9 @@
     </programme>
     <programme start="20251112200000 +0000" stop="20251112203000 +0000" channel="Zee TV.starhub">
         <title>Ganga Mai Ki Betiyaan</title>
+    </programme>
+    <programme start="20251112203000 +0000" stop="20251112210000 +0000" channel="Zee TV.starhub">
+        <title>Jaane Anjaane Hum Mile</title>
     </programme>
     <programme start="20251112210000 +0000" stop="20251112213000 +0000" channel="Zee TV.starhub">
         <title>Saru</title>
@@ -5203,38 +5206,32 @@
     <programme start="20251113154000 +0000" stop="20251113162000 +0000" channel="KBS World HD.starhub">
         <title>Are You Human?</title>
     </programme>
-    <programme start="20251112160000 +0000" stop="20251112163000 +0000" channel="TestChannel 996.starhub">
+    <programme start="20251112160000 +0000" stop="20251112161500 +0000" channel="TestChannel 996.starhub">
         <title>Big Boys Club</title>
     </programme>
-    <programme start="20251112163000 +0000" stop="20251112173000 +0000" channel="TestChannel 996.starhub">
-        <title>Dead Ringer</title>
+    <programme start="20251112161500 +0000" stop="20251112173000 +0000" channel="TestChannel 996.starhub">
+        <title>My Perfect Stranger</title>
     </programme>
     <programme start="20251112173000 +0000" stop="20251112183000 +0000" channel="TestChannel 996.starhub">
-        <title>The QUEEN Of News 2 &amp; What&#039;s On Today</title>
+        <title>The Litchi Road</title>
     </programme>
     <programme start="20251112183000 +0000" stop="20251112190000 +0000" channel="TestChannel 996.starhub">
         <title>Lo And Behold</title>
     </programme>
-    <programme start="20251112190000 +0000" stop="20251112193000 +0000" channel="TestChannel 996.starhub">
-        <title>Scoop 2025</title>
-    </programme>
-    <programme start="20251112193000 +0000" stop="20251112200000 +0000" channel="TestChannel 996.starhub">
-        <title>Gourmet Express - Hong Kong &amp; Taiwan Express*(HKTAI/Friday)</title>
+    <programme start="20251112190000 +0000" stop="20251112200000 +0000" channel="TestChannel 996.starhub">
+        <title>Prism Breaker</title>
     </programme>
     <programme start="20251112200000 +0000" stop="20251112210000 +0000" channel="TestChannel 996.starhub">
-        <title>Modern Dynasty</title>
+        <title>The Wanted Detective</title>
     </programme>
-    <programme start="20251112210000 +0000" stop="20251112214500 +0000" channel="TestChannel 996.starhub">
-        <title>Big City Shop 2024</title>
+    <programme start="20251112210000 +0000" stop="20251112213000 +0000" channel="TestChannel 996.starhub">
+        <title>Lo And Behold</title>
     </programme>
-    <programme start="20251112214500 +0000" stop="20251112220000 +0000" channel="TestChannel 996.starhub">
-        <title>Happy Old Buddies</title>
+    <programme start="20251112213000 +0000" stop="20251112222000 +0000" channel="TestChannel 996.starhub">
+        <title>The Heir to the Throne (with Eng Subs)</title>
     </programme>
-    <programme start="20251112220000 +0000" stop="20251112223000 +0000" channel="TestChannel 996.starhub">
-        <title>Made In Dongguan</title>
-    </programme>
-    <programme start="20251112223000 +0000" stop="20251112230000 +0000" channel="TestChannel 996.starhub">
-        <title>Scoop 2025</title>
+    <programme start="20251112222000 +0000" stop="20251112231500 +0000" channel="TestChannel 996.starhub">
+        <title>Golden City (Ep 751-800) VVD Mandarin</title>
     </programme>
     <programme start="20251112231500 +0000" stop="20251113003000 +0000" channel="TestChannel 996.starhub">
         <title>My Perfect Stranger</title>
@@ -6264,51 +6261,6 @@
     </programme>
     <programme start="20251113154000 +0000" stop="20251113163000 +0000" channel="HBO Signature HD.starhub">
         <title>Black Bart And The Bunny</title>
-    </programme>
-    <programme start="20251112160000 +0000" stop="20251112210000 +0000" channel="TestChannel 995.starhub">
-        <title>HSBC BWF World Tour 2025 LI-NING Hong Kong Open (Super 500): Finals</title>
-    </programme>
-    <programme start="20251112210000 +0000" stop="20251112230000 +0000" channel="TestChannel 995.starhub">
-        <title>Concacaf Gold Cup 2025 QF3: Canada vs Guatemala</title>
-    </programme>
-    <programme start="20251112230000 +0000" stop="20251112233000 +0000" channel="TestChannel 995.starhub">
-        <title>Season 6, Episode 6 - Olympians</title>
-    </programme>
-    <programme start="20251112233000 +0000" stop="20251113000000 +0000" channel="TestChannel 995.starhub">
-        <title>#809</title>
-    </programme>
-    <programme start="20251113000000 +0000" stop="20251113020000 +0000" channel="TestChannel 995.starhub">
-        <title>East Asia Super League 2025/26 Seoul SK Knights vs Hong Kong Eastern</title>
-    </programme>
-    <programme start="20251113020000 +0000" stop="20251113050000 +0000" channel="TestChannel 995.starhub">
-        <title>NFL 2025/26 Las Vegas Raiders vs Denver Broncos</title>
-    </programme>
-    <programme start="20251113050000 +0000" stop="20251113070000 +0000" channel="TestChannel 995.starhub">
-        <title>The Emirates FA Cup 2025/26 R1: South Shields vs Shrewsbury Town</title>
-    </programme>
-    <programme start="20251113070000 +0000" stop="20251113073000 +0000" channel="TestChannel 995.starhub">
-        <title>#1306</title>
-    </programme>
-    <programme start="20251113073000 +0000" stop="20251113080000 +0000" channel="TestChannel 995.starhub">
-        <title>Round 1</title>
-    </programme>
-    <programme start="20251113080000 +0000" stop="20251113100000 +0000" channel="TestChannel 995.starhub">
-        <title>The Emirates FA Cup 2025/26 R1: Eastleigh vs Walsall</title>
-    </programme>
-    <programme start="20251113100000 +0000" stop="20251113110000 +0000" channel="TestChannel 995.starhub">
-        <title>UFC 322</title>
-    </programme>
-    <programme start="20251113110000 +0000" stop="20251113120000 +0000" channel="TestChannel 995.starhub">
-        <title>Las Vegas, NV</title>
-    </programme>
-    <programme start="20251113120000 +0000" stop="20251113130000 +0000" channel="TestChannel 995.starhub">
-        <title>#2011</title>
-    </programme>
-    <programme start="20251113130000 +0000" stop="20251113150000 +0000" channel="TestChannel 995.starhub">
-        <title>UFC Fight Night 2025 EFN 203: Bonfim vs Brown</title>
-    </programme>
-    <programme start="20251113150000 +0000" stop="20251113160000 +0000" channel="TestChannel 995.starhub">
-        <title>Round 1</title>
     </programme>
     <programme start="20251112160000 +0000" stop="20251112163000 +0000" channel="CNBC HD.starhub">
         <title>Money Movers</title>
