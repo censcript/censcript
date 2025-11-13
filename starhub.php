@@ -3784,17 +3784,17 @@
     <programme start="20251112230000 +0000" stop="20251112231500 +0000" channel="NHK World Premium HD.starhub">
         <title>Drama Serial &quot;The Ghost Writer&#039;s Wife&quot; Eps. 34</title>
     </programme>
-    <programme start="20251112231500 +0000" stop="20251113005400 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20251112231500 +0000" stop="20251113000000 +0000" channel="NHK World Premium HD.starhub">
         <title>asaichi</title>
     </programme>
-    <programme start="20251113005400 +0000" stop="20251113005500 +0000" channel="NHK World Premium HD.starhub">
-        <title>World Weather</title>
+    <programme start="20251113000000 +0000" stop="20251113003000 +0000" channel="NHK World Premium HD.starhub">
+        <title>NIJIUTA: Singing Japanese Nursery Rhymes Encore (R)</title>
     </programme>
-    <programme start="20251113005500 +0000" stop="20251113010000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Exercise for Everyone</title>
+    <programme start="20251113003000 +0000" stop="20251113010000 +0000" channel="NHK World Premium HD.starhub">
+        <title>Natsui Itsuki&#039;s Haiku Trip! &quot;Yamaguchi Prefecture&quot; Part 1 (R)</title>
     </programme>
     <programme start="20251113010000 +0000" stop="20251113010500 +0000" channel="NHK World Premium HD.starhub">
-        <title>News &amp; Weather</title>
+        <title>Mini Program</title>
     </programme>
     <programme start="20251113010500 +0000" stop="20251113015000 +0000" channel="NHK World Premium HD.starhub">
         <title>Eat Up! The Ultimate Homemade Cooking Battle &quot;Donut&quot; (R)</title>
@@ -3832,11 +3832,17 @@
     <programme start="20251113034500 +0000" stop="20251113040000 +0000" channel="NHK World Premium HD.starhub">
         <title>Drama Serial &quot;The Ghost Writer&#039;s Wife&quot; Eps. 34 (R)</title>
     </programme>
-    <programme start="20251113040000 +0000" stop="20251113040500 +0000" channel="NHK World Premium HD.starhub">
-        <title>News</title>
+    <programme start="20251113040000 +0000" stop="20251113045500 +0000" channel="NHK World Premium HD.starhub">
+        <title>Classical Music Club</title>
     </programme>
-    <programme start="20251113040500 +0000" stop="20251113055000 +0000" channel="NHK World Premium HD.starhub">
-        <title>News Around Japan</title>
+    <programme start="20251113045500 +0000" stop="20251113052200 +0000" channel="NHK World Premium HD.starhub">
+        <title>JAPAN DELISH</title>
+    </programme>
+    <programme start="20251113052200 +0000" stop="20251113054700 +0000" channel="NHK World Premium HD.starhub">
+        <title>Kyoto&#039;s Finest Goods Travelogue</title>
+    </programme>
+    <programme start="20251113054700 +0000" stop="20251113055000 +0000" channel="NHK World Premium HD.starhub">
+        <title>Mini Program</title>
     </programme>
     <programme start="20251113055000 +0000" stop="20251113055500 +0000" channel="NHK World Premium HD.starhub">
         <title>World Weather</title>
@@ -3845,7 +3851,7 @@
         <title>World Music Album</title>
     </programme>
     <programme start="20251113060000 +0000" stop="20251113061000 +0000" channel="NHK World Premium HD.starhub">
-        <title>News &amp; Weather</title>
+        <title>Darwin&#039;s Amazing Animals 10min.</title>
     </programme>
     <programme start="20251113061000 +0000" stop="20251113064000 +0000" channel="NHK World Premium HD.starhub">
         <title>Asagaya House: Let&#039;s Enjoy the Differences</title>

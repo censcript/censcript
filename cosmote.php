@@ -110,6 +110,10 @@
     <title>Football: Genoa - ACF Fiorentina</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251114181000 +0700" stop="20251114202000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: OFI - AEK</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251113170000 +0700" stop="20251113190000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Santa Clara - Sporting CP</title>
     <desc>Live: Tidak</desc>
@@ -250,10 +254,6 @@
     <title>Basketball: Cleveland Cavaliers - Toronto Raptors</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251113161500 +0700" stop="20251113172000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>2025 FIM Women&#039;s Circuit Racing World Championship</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251113172000 +0700" stop="20251113184500 +0700" channel="COSMOTE Sport 5 HD">
     <title>DTM 2025</title>
     <desc>Live: Tidak</desc>
@@ -354,8 +354,8 @@
     <title>Extreme E - Highlights 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251113133000 +0700" stop="20251113173000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: Nitto ATP Finals 2025</title>
+<programme start="20251114181500 +0700" stop="20251114191000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>2025 GT World Challenge Europe</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251113173000 +0700" stop="20251113200000 +0700" channel="COSMOTE Sport 6 HD">

@@ -94,60 +94,6 @@
 <programme start="20251113222000 +0000" stop="20251113230000 +0000" channel="13th Street HD.skyde">
     <title>Navy CIS</title>
 </programme>
-<programme start="20251112230000 +0000" stop="20251113001500 +0000" channel="Beate Uhse HD.skyde">
-    <title>Fremdgehen erwünscht</title>
-</programme>
-<programme start="20251113001500 +0000" stop="20251113004000 +0000" channel="Beate Uhse HD.skyde">
-    <title>The Art of Kissing</title>
-</programme>
-<programme start="20251113004000 +0000" stop="20251113010500 +0000" channel="Beate Uhse HD.skyde">
-    <title>Lust Pur</title>
-</programme>
-<programme start="20251113010500 +0000" stop="20251113013000 +0000" channel="Beate Uhse HD.skyde">
-    <title>Big Tit Milfs</title>
-</programme>
-<programme start="20251113013000 +0000" stop="20251113020000 +0000" channel="Beate Uhse HD.skyde">
-    <title>Nudes - Unzensierte Selfies</title>
-</programme>
-<programme start="20251113020000 +0000" stop="20251113032500 +0000" channel="Beate Uhse HD.skyde">
-    <title>Chaos</title>
-</programme>
-<programme start="20251113032500 +0000" stop="20251113033500 +0000" channel="Beate Uhse HD.skyde">
-    <title>Feel Naked</title>
-</programme>
-<programme start="20251113033500 +0000" stop="20251113040000 +0000" channel="Beate Uhse HD.skyde">
-    <title>Streit Lust Sex</title>
-</programme>
-<programme start="20251113040000 +0000" stop="20251113042500 +0000" channel="Beate Uhse HD.skyde">
-    <title>Frische Sahneschnitten</title>
-</programme>
-<programme start="20251113042500 +0000" stop="20251113044500 +0000" channel="Beate Uhse HD.skyde">
-    <title>Tat &amp; Wahrheit</title>
-</programme>
-<programme start="20251113044500 +0000" stop="20251113191500 +0000" channel="Beate Uhse HD.skyde">
-    <title>Programm von 20.15 Uhr bis 05.45 Uhr</title>
-</programme>
-<programme start="20251113191500 +0000" stop="20251113203000 +0000" channel="Beate Uhse HD.skyde">
-    <title>Hass und Triebe</title>
-</programme>
-<programme start="20251113203000 +0000" stop="20251113205500 +0000" channel="Beate Uhse HD.skyde">
-    <title>Streit Lust Sex</title>
-</programme>
-<programme start="20251113205500 +0000" stop="20251113212000 +0000" channel="Beate Uhse HD.skyde">
-    <title>altSHIFT</title>
-</programme>
-<programme start="20251113212000 +0000" stop="20251113214500 +0000" channel="Beate Uhse HD.skyde">
-    <title>Big Tit Milfs</title>
-</programme>
-<programme start="20251113214500 +0000" stop="20251113220500 +0000" channel="Beate Uhse HD.skyde">
-    <title>Milfs voll saftig</title>
-</programme>
-<programme start="20251113220500 +0000" stop="20251113223500 +0000" channel="Beate Uhse HD.skyde">
-    <title>Die Frau meines Vaters</title>
-</programme>
-<programme start="20251113223500 +0000" stop="20251113230000 +0000" channel="Beate Uhse HD.skyde">
-    <title>Frische Sahneschnitten</title>
-</programme>
 <programme start="20251112230500 +0000" stop="20251112231500 +0000" channel="Cartoon Network.skyde">
     <title>Regular Show - Völlig abgedreht</title>
 </programme>
