@@ -2636,10 +2636,10 @@
     <title>Golf: Sky Golf Cups Österreich</title>
 </programme>
 <programme start="20251113103000 +0000" stop="20251113124500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live ATP Finals: Doppel 1, 5. Tag in Turin (ITA)</title>
+    <title>Live ATP Finals: K. Krawietz (GER)/ T. Pütz (GER) - S. Bolelli (ITA)/ A. Vavassori (ITA), 5. Tag in Turin (ITA)</title>
 </programme>
 <programme start="20251113124500 +0000" stop="20251113150000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live ATP Finals: Einzel 1, 5. Tag in Turin (ITA)</title>
+    <title>Live ATP Finals: T. Fritz (USA) - A. de Minaur (AUS), 5. Tag in Turin (ITA)</title>
 </programme>
 <programme start="20251113150000 +0000" stop="20251113160000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>ATP Finals: Review Turin 2024</title>
@@ -2651,10 +2651,10 @@
     <title>ATP: This Week</title>
 </programme>
 <programme start="20251113170000 +0000" stop="20251113190000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live ATP Finals: Doppel 2, 5. Tag in Turin (ITA)</title>
+    <title>Live ATP Finals: J. Cash (GBR)/ L. Glasspool (GBR) - M. Granollers (ESP)/ H. Zeballos (ARG), 5. Tag in Turin (ITA)</title>
 </programme>
 <programme start="20251113190000 +0000" stop="20251113213000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live ATP Finals: Einzel 2, 5. Tag in Turin (ITA)</title>
+    <title>Live ATP Finals: C. Alcaraz (ESP) - L. Musetti (ITA), 5. Tag in Turin (ITA)</title>
 </programme>
 <programme start="20251113213000 +0000" stop="20251113224500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Fußball: DAB - Der Audiobeweis</title>
