@@ -5270,7 +5270,7 @@
         <title>Replaced Event B</title>
     </programme>
     <programme start="20251113094500 +0000" stop="20251113103500 +0000" channel="TestChannel 996.starhub">
-        <title>Changed event C</title>
+        <title>Golden City (Ep 751-800) VVD Mandarin</title>
     </programme>
     <programme start="20251113103500 +0000" stop="20251113110000 +0000" channel="TestChannel 996.starhub">
         <title>Lo And Behold</title>
@@ -5279,7 +5279,7 @@
         <title>The Litchi Road</title>
     </programme>
     <programme start="20251113120000 +0000" stop="20251113130000 +0000" channel="TestChannel 996.starhub">
-        <title>Changed Event D</title>
+        <title>Prism Breaker</title>
     </programme>
     <programme start="20251113130000 +0000" stop="20251113140000 +0000" channel="TestChannel 996.starhub">
         <title>The Wanted Detective</title>
@@ -5288,7 +5288,7 @@
         <title>Lo And Behold</title>
     </programme>
     <programme start="20251113143000 +0000" stop="20251113152000 +0000" channel="TestChannel 996.starhub">
-        <title>Prism Breaker</title>
+        <title>The Heir to the Throne (with Eng Subs)</title>
     </programme>
     <programme start="20251113152000 +0000" stop="20251113161500 +0000" channel="TestChannel 996.starhub">
         <title>Golden City (Ep 751-800) VVD Mandarin</title>
@@ -5739,6 +5739,9 @@
     </programme>
     <programme start="20251113065000 +0000" stop="20251113081000 +0000" channel="Hub VVDrama.starhub">
         <title>The Escape of the Seven</title>
+    </programme>
+    <programme start="20251113081000 +0000" stop="20251113090000 +0000" channel="Hub VVDrama.starhub">
+        <title>The Litchi Road</title>
     </programme>
     <programme start="20251113090000 +0000" stop="20251113094500 +0000" channel="Hub VVDrama.starhub">
         <title>Sinister Beings 2</title>

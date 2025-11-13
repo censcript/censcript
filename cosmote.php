@@ -110,6 +110,10 @@
     <title>Football: Como - Cagliari</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251114161000 +0700" stop="20251114181000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Genoa - ACF Fiorentina</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251113141500 +0700" stop="20251113170000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Celtic FC - Rangers FC</title>
     <desc>Live: Tidak</desc>
@@ -182,6 +186,10 @@
     <title>Football: 2025 Socca Champions League</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251114163000 +0700" stop="20251114170000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Copa Sudamericana 2025 - Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251113145000 +0700" stop="20251113170000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: AEK - VEF Riga</title>
     <desc>Live: Tidak</desc>
@@ -242,8 +250,8 @@
     <title>Basketball: Armani Milano - Treviso</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251113131000 +0700" stop="20251113151000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>2025 Extreme H</title>
+<programme start="20251114163000 +0700" stop="20251114170000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>ACB Liga Endesa 2025-26 - Fifth Quarter E6</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251113151000 +0700" stop="20251113161500 +0700" channel="COSMOTE Sport 5 HD">
@@ -344,6 +352,10 @@
 </programme>
 <programme start="20251114154500 +0700" stop="20251114164000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Motorsports: Moto2 2025 (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
+<programme start="20251114164000 +0700" stop="20251114174500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: MotoGP 2025 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20251113133000 +0700" stop="20251113173000 +0700" channel="COSMOTE Sport 6 HD">
