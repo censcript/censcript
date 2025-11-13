@@ -114,6 +114,10 @@
     <title>Football: Panathinaikos - PAOK</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251115023000 +0700" stop="20251115030000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Serie A Full Impact 2025-26 E11</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251114010000 +0700" stop="20251114030000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Atletico Mineiro - Independiente del Valle</title>
     <desc>Live: Tidak</desc>
@@ -180,10 +184,6 @@
 </programme>
 <programme start="20251115010000 +0700" stop="20251115030000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Lanus - Universidad de Chile</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251114000000 +0700" stop="20251114020000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Besiktas - Anadolu Efes</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251114020000 +0700" stop="20251114022000 +0700" channel="COSMOTE Sport 4 HD">
@@ -253,6 +253,10 @@
 <programme start="20251115015500 +0700" stop="20251115023000 +0700" channel="COSMOTE Sport 4 HD">
     <title>NBA Action 2025-26 E3504 (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20251115023000 +0700" stop="20251115050000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Cleveland Cavaliers - Toronto Raptors</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251114005000 +0700" stop="20251114021000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Motorsports: Moto2 2025</title>
@@ -366,6 +370,10 @@
     <title>Motorsports: Moto3 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251115024000 +0700" stop="20251115034000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: Moto2 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251114000000 +0700" stop="20251114023000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Julian Cash/Lloyd Glasspool - M. Granollers/H. Zeballos (L)</title>
     <desc>Live: Ya</desc>
@@ -428,6 +436,10 @@
 </programme>
 <programme start="20251115000000 +0700" stop="20251115023000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Joe Salisbury/Neal Skupski - Christian Harrison/Evan King (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
+<programme start="20251115023000 +0700" stop="20251115050000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: Alexander Zverev - Felix Auger-Aliassime (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20251114000000 +0700" stop="20251114023000 +0700" channel="COSMOTE Sport 7 HD">
