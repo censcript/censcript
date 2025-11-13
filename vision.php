@@ -670,9 +670,6 @@
 <programme start="20251114114500 +0000" stop="20251114121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
-<programme start="20251112230000 +0000" stop="20251113010000 +0000" channel="ANTV.vision">
-<title>Arya Penangsang</title>
-</programme>
 <programme start="20251113010000 +0000" stop="20251113030000 +0000" channel="ANTV.vision">
 <title>Mangal Lakshmi</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20251114063000 +0000" stop="20251114080000 +0000" channel="BTV.vision">
 <title>Spot On</title>
+</programme>
+<programme start="20251114080000 +0000" stop="20251114083000 +0000" channel="BTV.vision">
+<title>Dikit-Dikit Damkar</title>
 </programme>

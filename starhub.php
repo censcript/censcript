@@ -211,9 +211,6 @@
     <programme start="20251112200000 +0000" stop="20251112203000 +0000" channel="Zee TV.starhub">
         <title>Ganga Mai Ki Betiyaan</title>
     </programme>
-    <programme start="20251112203000 +0000" stop="20251112210000 +0000" channel="Zee TV.starhub">
-        <title>Jaane Anjaane Hum Mile</title>
-    </programme>
     <programme start="20251112210000 +0000" stop="20251112213000 +0000" channel="Zee TV.starhub">
         <title>Saru</title>
     </programme>
@@ -230,7 +227,7 @@
         <title>Baal Shiv</title>
     </programme>
     <programme start="20251113000000 +0000" stop="20251113003000 +0000" channel="Zee TV.starhub">
-        <title>Ganga Mai Ki Betiyaan</title>
+        <title>Vasudha</title>
     </programme>
     <programme start="20251113003000 +0000" stop="20251113010000 +0000" channel="Zee TV.starhub">
         <title>Jagriti</title>
@@ -245,7 +242,7 @@
         <title>Ganga Mai Ki Betiyaan</title>
     </programme>
     <programme start="20251113023000 +0000" stop="20251113030000 +0000" channel="Zee TV.starhub">
-        <title>Vasudha</title>
+        <title>Jagadhatri</title>
     </programme>
     <programme start="20251113030000 +0000" stop="20251113033000 +0000" channel="Zee TV.starhub">
         <title>Tum Se Tum Tak</title>
@@ -263,19 +260,19 @@
         <title>Ganga Mai Ki Betiyaan</title>
     </programme>
     <programme start="20251113083000 +0000" stop="20251113090000 +0000" channel="Zee TV.starhub">
-        <title>Jaane Anjaane Hum Mile</title>
+        <title>Jagadhatri</title>
     </programme>
     <programme start="20251113090000 +0000" stop="20251113093000 +0000" channel="Zee TV.starhub">
         <title>Bhabi Ji Ghar Par Hai!</title>
     </programme>
     <programme start="20251113093000 +0000" stop="20251113100000 +0000" channel="Zee TV.starhub">
-        <title>Tum Se Tum Tak</title>
+        <title>Jagriti</title>
     </programme>
     <programme start="20251113100000 +0000" stop="20251113103000 +0000" channel="Zee TV.starhub">
         <title>Vasudha</title>
     </programme>
     <programme start="20251113103000 +0000" stop="20251113110000 +0000" channel="Zee TV.starhub">
-        <title>Jagriti</title>
+        <title>Jagadhatri</title>
     </programme>
     <programme start="20251113110000 +0000" stop="20251113113000 +0000" channel="Zee TV.starhub">
         <title>Jaane Anjaane Hum Mile</title>
@@ -296,7 +293,7 @@
         <title>Ganga Mai Ki Betiyaan</title>
     </programme>
     <programme start="20251113140000 +0000" stop="20251113143000 +0000" channel="Zee TV.starhub">
-        <title>Saru</title>
+        <title>Jagadhatri</title>
     </programme>
     <programme start="20251113143000 +0000" stop="20251113150000 +0000" channel="Zee TV.starhub">
         <title>Jagriti</title>
@@ -7382,7 +7379,7 @@
         <title>BBC News</title>
     </programme>
     <programme start="20251113003000 +0000" stop="20251113010000 +0000" channel="BBC World News HD.starhub">
-        <title>Newscast</title>
+        <title>Talking Business</title>
     </programme>
     <programme start="20251113010000 +0000" stop="20251113013000 +0000" channel="BBC World News HD.starhub">
         <title>BBC News</title>
@@ -7942,13 +7939,13 @@
     <programme start="20251112232000 +0000" stop="20251113013000 +0000" channel="Asianet Movies.starhub">
         <title>Samastha keralam P O</title>
     </programme>
-    <programme start="20251113013000 +0000" stop="20251113043000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251113013000 +0000" stop="20251113043500 +0000" channel="Asianet Movies.starhub">
         <title>Innathe Chinthavishayam</title>
     </programme>
-    <programme start="20251113043000 +0000" stop="20251113073000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251113043500 +0000" stop="20251113074000 +0000" channel="Asianet Movies.starhub">
         <title>Nadodimannan</title>
     </programme>
-    <programme start="20251113073000 +0000" stop="20251113103000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251113074000 +0000" stop="20251113103000 +0000" channel="Asianet Movies.starhub">
         <title>Anand Sreebala</title>
     </programme>
     <programme start="20251113103000 +0000" stop="20251113133000 +0000" channel="Asianet Movies.starhub">
