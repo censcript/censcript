@@ -2638,10 +2638,10 @@
 <programme start="20251113103000 +0000" stop="20251113124500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Live ATP Finals: K. Krawietz (GER)/ T. Pütz (GER) - S. Bolelli (ITA)/ A. Vavassori (ITA), 5. Tag in Turin (ITA)</title>
 </programme>
-<programme start="20251113124500 +0000" stop="20251113150500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20251113124500 +0000" stop="20251113150000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Live ATP Finals: T. Fritz (USA) - A. de Minaur (AUS), 5. Tag in Turin (ITA)</title>
 </programme>
-<programme start="20251113150500 +0000" stop="20251113160000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20251113150000 +0000" stop="20251113160000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>ATP Finals: Review Turin 2024</title>
 </programme>
 <programme start="20251113160000 +0000" stop="20251113163000 +0000" channel="Sky Sport Austria 1 HD.skyde">

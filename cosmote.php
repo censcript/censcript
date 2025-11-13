@@ -110,6 +110,10 @@
     <title>Football: Parma - AC Milan</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251115002000 +0700" stop="20251115023000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Panathinaikos - PAOK</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251113230000 +0700" stop="20251114010000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Al Ittihad - Al Ahli</title>
     <desc>Live: Tidak</desc>
@@ -178,14 +182,6 @@
     <title>Football: Anorthosis Famagusta - Pafos FC</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251113213000 +0700" stop="20251113234000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: AEK - VEF Riga</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251113234000 +0700" stop="20251114000000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>ACB Liga Endesa 2025-26 - Fifth Quarter E6</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251114000000 +0700" stop="20251114020000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Besiktas - Anadolu Efes</title>
     <desc>Live: Tidak</desc>
@@ -250,8 +246,8 @@
     <title>ACB Liga Endesa 2025-26 - Fifth Quarter E6</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251113222000 +0700" stop="20251113235000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC 2025</title>
+<programme start="20251115002500 +0700" stop="20251115015500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Pick n&#039; Roll</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251113235000 +0700" stop="20251114005000 +0700" channel="COSMOTE Sport 5 HD">
@@ -362,8 +358,8 @@
     <title>Motorsports: Moto2 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251113230000 +0700" stop="20251114000000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>ATP 500 2025 - Highlights</title>
+<programme start="20251115004000 +0700" stop="20251115014500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: MotoGP 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251114000000 +0700" stop="20251114023000 +0700" channel="COSMOTE Sport 6 HD">
@@ -402,25 +398,33 @@
     <title>Volleyball: Vasas - Olympiacos</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251114150000 +0700" stop="20251114173000 +0700" channel="COSMOTE Sport 6 HD">
+<programme start="20251114150000 +0700" stop="20251114164000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Volleyball: Las Palmas - Olympiacos</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251114164000 +0700" stop="20251114170000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Sports Classics: Worldies E13</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251114170000 +0700" stop="20251114173000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Premier Padel Tour 2025 - Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251114173000 +0700" stop="20251114200000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: Nitto ATP Finals 2025 (L)</title>
+    <title>Tennis: Harri Heliovaara/Henry Patten - Marcelo Arevalo/Mate Pavic (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20251114200000 +0700" stop="20251114223000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: Nitto ATP Finals 2025 (L)</title>
+    <title>Tennis: Jannik Sinner - Ben Shelton (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20251114223000 +0700" stop="20251115000000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Topspin</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251113230000 +0700" stop="20251114000000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
-    <desc>Live: Tidak</desc>
+<programme start="20251115000000 +0700" stop="20251115023000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: Joe Salisbury/Neal Skupski - Christian Harrison/Evan King (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20251114000000 +0700" stop="20251114023000 +0700" channel="COSMOTE Sport 7 HD">
     <title>Volleyball: Vasas - Olympiacos (L)</title>
