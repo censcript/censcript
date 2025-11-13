@@ -110,6 +110,10 @@
     <title>Football: OFI - AEK</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251114202000 +0700" stop="20251114222000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Bologna - SSC Napoli</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251113190000 +0700" stop="20251113201000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: 2025 Socca Champions League</title>
     <desc>Live: Tidak</desc>
@@ -184,10 +188,6 @@
 </programme>
 <programme start="20251114190000 +0700" stop="20251114210000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Dundee - Rangers FC</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251113170000 +0700" stop="20251113193000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: New York Knicks - Orlando Magic</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251113193000 +0700" stop="20251113213000 +0700" channel="COSMOTE Sport 4 HD">
@@ -358,8 +358,12 @@
     <title>Motorsports: Moto3 2025 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251113173000 +0700" stop="20251113200000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: Kevin Krawietz/Tim Puetz - S. Bolelli/A. Vavassori (L)</title>
+<programme start="20251114200000 +0700" stop="20251114205500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: Moto2 2025 (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
+<programme start="20251114205500 +0700" stop="20251114221500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: MotoGP 2025 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20251113200000 +0700" stop="20251113223000 +0700" channel="COSMOTE Sport 6 HD">
@@ -415,6 +419,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251114173000 +0700" stop="20251114200000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: Nitto ATP Finals 2025 (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
+<programme start="20251114200000 +0700" stop="20251114223000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Nitto ATP Finals 2025 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
@@ -479,6 +487,10 @@
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20251114193000 +0700" stop="20251114200000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251114200000 +0700" stop="20251114210000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
