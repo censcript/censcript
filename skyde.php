@@ -961,13 +961,16 @@
 <programme start="20251114122500 +0000" stop="20251114130000 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20251114130000 +0000" stop="20251114150500 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20251114130000 +0000" stop="20251114145500 +0000" channel="DAZN 1 HD.skyde">
     <title>Bundesliga: 1. FC Union Berlin - FC Bayern München</title>
 </programme>
-<programme start="20251114150500 +0000" stop="20251114161500 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20251114145500 +0000" stop="20251114152500 +0000" channel="DAZN 1 HD.skyde">
+    <title>Best of DAZN: Highlights</title>
+</programme>
+<programme start="20251114152500 +0000" stop="20251114163500 +0000" channel="DAZN 1 HD.skyde">
     <title>ALL IN - Die Bundesliga Highlight Show: 10. Spieltag</title>
 </programme>
-<programme start="20251114161500 +0000" stop="20251114165000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20251114163500 +0000" stop="20251114165000 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
 <programme start="20251114165000 +0000" stop="20251114190500 +0000" channel="DAZN 1 HD.skyde">
@@ -976,16 +979,13 @@
 <programme start="20251114190500 +0000" stop="20251114193500 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20251114193500 +0000" stop="20251114214500 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20251114193500 +0000" stop="20251114215500 +0000" channel="DAZN 1 HD.skyde">
     <title>UEFA World Cup Qualifiers 2026 Canada/Mexico/United States: Polen - Niederlande</title>
 </programme>
-<programme start="20251114214500 +0000" stop="20251114221000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
-</programme>
-<programme start="20251114221000 +0000" stop="20251114223500 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20251114215500 +0000" stop="20251114222500 +0000" channel="DAZN 1 HD.skyde">
     <title>Serie A Highlightshow: 11. Spieltag</title>
 </programme>
-<programme start="20251114223500 +0000" stop="20251114230000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20251114222500 +0000" stop="20251114230000 +0000" channel="DAZN 1 HD.skyde">
     <title>Ligue 1 Highlightshow 2025/26: 12. Spieltag</title>
 </programme>
 <programme start="20251113230000 +0000" stop="20251114070000 +0000" channel="DAZN 2 HD.skyde">
