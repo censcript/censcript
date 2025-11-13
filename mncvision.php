@@ -7682,10 +7682,10 @@
     <title>Save This Shark S1, Ep 1</title>
 </programme>
 <programme start="20251112173000 +0000" stop="20251112190000 +0000" channel="RCTI.mncvision">
-    <title>Sang Bodyguard Sexy</title>
+    <title>Awas Banyak Copet</title>
 </programme>
 <programme start="20251112190000 +0000" stop="20251112203000 +0000" channel="RCTI.mncvision">
-    <title>Tuan Narsis Over Dosis</title>
+    <title>Awas Banyak Copet</title>
 </programme>
 <programme start="20251112203000 +0000" stop="20251112230000 +0000" channel="RCTI.mncvision">
     <title>Preman Pensiun S3</title>
@@ -7736,10 +7736,10 @@
     <title>Hati Yang Memilih</title>
 </programme>
 <programme start="20251112173000 +0000" stop="20251112190000 +0000" channel="RCTI HD.mncvision">
-    <title>Sang Bodyguard Sexy</title>
+    <title>Awas Banyak Copet</title>
 </programme>
 <programme start="20251112190000 +0000" stop="20251112203000 +0000" channel="RCTI HD.mncvision">
-    <title>Tuan Narsis Over Dosis</title>
+    <title>Awas Banyak Copet</title>
 </programme>
 <programme start="20251112203000 +0000" stop="20251112230000 +0000" channel="RCTI HD.mncvision">
     <title>Preman Pensiun S3</title>

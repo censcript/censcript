@@ -5236,89 +5236,65 @@
     <programme start="20251112223000 +0000" stop="20251112230000 +0000" channel="TestChannel 996.starhub">
         <title>Scoop 2025</title>
     </programme>
-    <programme start="20251112230000 +0000" stop="20251113000000 +0000" channel="TestChannel 996.starhub">
-        <title>Good Morning Hong Kong and Global View</title>
+    <programme start="20251112231500 +0000" stop="20251113003000 +0000" channel="TestChannel 996.starhub">
+        <title>My Perfect Stranger</title>
     </programme>
-    <programme start="20251113000000 +0000" stop="20251113010000 +0000" channel="TestChannel 996.starhub">
-        <title>Dead Ringer</title>
-    </programme>
-    <programme start="20251113010000 +0000" stop="20251113013000 +0000" channel="TestChannel 996.starhub">
-        <title>Lo And Behold</title>
+    <programme start="20251113003000 +0000" stop="20251113013000 +0000" channel="TestChannel 996.starhub">
+        <title>The Litchi Road</title>
     </programme>
     <programme start="20251113013000 +0000" stop="20251113020000 +0000" channel="TestChannel 996.starhub">
-        <title>Listen To Your Body</title>
-    </programme>
-    <programme start="20251113020000 +0000" stop="20251113023000 +0000" channel="TestChannel 996.starhub">
-        <title>Overnighters &amp; What&#039;s On Today</title>
-    </programme>
-    <programme start="20251113023000 +0000" stop="20251113030000 +0000" channel="TestChannel 996.starhub">
-        <title>Gourmet Express - Hong Kong &amp; Taiwan Express*(HKTAI/Friday)</title>
-    </programme>
-    <programme start="20251113030000 +0000" stop="20251113040000 +0000" channel="TestChannel 996.starhub">
-        <title>The QUEEN Of News 2</title>
-    </programme>
-    <programme start="20251113040000 +0000" stop="20251113043000 +0000" channel="TestChannel 996.starhub">
-        <title>Scoop 2025</title>
-    </programme>
-    <programme start="20251113043000 +0000" stop="20251113045500 +0000" channel="TestChannel 996.starhub">
-        <title>Big Boys Club</title>
-    </programme>
-    <programme start="20251113045500 +0000" stop="20251113052000 +0000" channel="TestChannel 996.starhub">
-        <title>Listen To Your Body</title>
-    </programme>
-    <programme start="20251113052000 +0000" stop="20251113060500 +0000" channel="TestChannel 996.starhub">
-        <title>Big City Shop 2024</title>
-    </programme>
-    <programme start="20251113060500 +0000" stop="20251113063000 +0000" channel="TestChannel 996.starhub">
         <title>Lo And Behold</title>
     </programme>
-    <programme start="20251113063000 +0000" stop="20251113073000 +0000" channel="TestChannel 996.starhub">
-        <title>The Fading Gold &amp; What&#039;s On Today</title>
+    <programme start="20251113020000 +0000" stop="20251113025500 +0000" channel="TestChannel 996.starhub">
+        <title>Golden City (Ep 751-800) VVD Mandarin</title>
     </programme>
-    <programme start="20251113073000 +0000" stop="20251113080000 +0000" channel="TestChannel 996.starhub">
-        <title>Overnighters</title>
+    <programme start="20251113025500 +0000" stop="20251113035500 +0000" channel="TestChannel 996.starhub">
+        <title>Prism Breaker</title>
     </programme>
-    <programme start="20251113080000 +0000" stop="20251113083000 +0000" channel="TestChannel 996.starhub">
-        <title>I Will Be Back</title>
+    <programme start="20251113035500 +0000" stop="20251113044500 +0000" channel="TestChannel 996.starhub">
+        <title>The Wanted Detective</title>
     </programme>
-    <programme start="20251113083000 +0000" stop="20251113090000 +0000" channel="TestChannel 996.starhub">
-        <title>Open Book</title>
-    </programme>
-    <programme start="20251113090000 +0000" stop="20251113093000 +0000" channel="TestChannel 996.starhub">
-        <title>Big Boys Club</title>
-    </programme>
-    <programme start="20251113093000 +0000" stop="20251113103000 +0000" channel="TestChannel 996.starhub">
-        <title>Modern Dynasty</title>
-    </programme>
-    <programme start="20251113103000 +0000" stop="20251113110000 +0000" channel="TestChannel 996.starhub">
-        <title>News At 18:30</title>
-    </programme>
-    <programme start="20251113110000 +0000" stop="20251113113500 +0000" channel="TestChannel 996.starhub">
-        <title>Shock Mystery (Sr.2) &amp; What&#039;s On Today</title>
-    </programme>
-    <programme start="20251113113500 +0000" stop="20251113120000 +0000" channel="TestChannel 996.starhub">
-        <title>Scoop 2025</title>
-    </programme>
-    <programme start="20251113120000 +0000" stop="20251113123000 +0000" channel="TestChannel 996.starhub">
+    <programme start="20251113044500 +0000" stop="20251113051000 +0000" channel="TestChannel 996.starhub">
         <title>Lo And Behold</title>
     </programme>
-    <programme start="20251113123000 +0000" stop="20251113133000 +0000" channel="TestChannel 996.starhub">
-        <title>The QUEEN Of News 2</title>
+    <programme start="20251113051000 +0000" stop="20251113060000 +0000" channel="TestChannel 996.starhub">
+        <title>The Heir to the Throne (with Eng Subs)</title>
     </programme>
-    <programme start="20251113133000 +0000" stop="20251113143000 +0000" channel="TestChannel 996.starhub">
-        <title>The Fading Gold</title>
+    <programme start="20251113060000 +0000" stop="20251113065000 +0000" channel="TestChannel 996.starhub">
+        <title>Golden City (Ep 751-800) VVD Mandarin</title>
     </programme>
-    <programme start="20251113143000 +0000" stop="20251113150000 +0000" channel="TestChannel 996.starhub">
-        <title>Overnighters</title>
+    <programme start="20251113065000 +0000" stop="20251113081000 +0000" channel="TestChannel 996.starhub">
+        <title>The Escape of the Seven</title>
     </programme>
-    <programme start="20251113150000 +0000" stop="20251113151500 +0000" channel="TestChannel 996.starhub">
-        <title>EXTRA</title>
+    <programme start="20251113081000 +0000" stop="20251113090000 +0000" channel="TestChannel 996.starhub">
+        <title>The Litchi Road</title>
     </programme>
-    <programme start="20251113151500 +0000" stop="20251113155000 +0000" channel="TestChannel 996.starhub">
-        <title>News Roundup</title>
+    <programme start="20251113090000 +0000" stop="20251113094500 +0000" channel="TestChannel 996.starhub">
+        <title>Sinister Beings 2</title>
     </programme>
-    <programme start="20251113155000 +0000" stop="20251113160000 +0000" channel="TestChannel 996.starhub">
-        <title>Global View</title>
+    <programme start="20251113094500 +0000" stop="20251113103500 +0000" channel="TestChannel 996.starhub">
+        <title>Golden City (Ep 751-800) VVD Mandarin</title>
+    </programme>
+    <programme start="20251113103500 +0000" stop="20251113110000 +0000" channel="TestChannel 996.starhub">
+        <title>Lo And Behold</title>
+    </programme>
+    <programme start="20251113110000 +0000" stop="20251113120000 +0000" channel="TestChannel 996.starhub">
+        <title>The Litchi Road</title>
+    </programme>
+    <programme start="20251113120000 +0000" stop="20251113130000 +0000" channel="TestChannel 996.starhub">
+        <title>Prism Breaker</title>
+    </programme>
+    <programme start="20251113130000 +0000" stop="20251113140000 +0000" channel="TestChannel 996.starhub">
+        <title>The Wanted Detective</title>
+    </programme>
+    <programme start="20251113140000 +0000" stop="20251113143000 +0000" channel="TestChannel 996.starhub">
+        <title>Lo And Behold</title>
+    </programme>
+    <programme start="20251113143000 +0000" stop="20251113152000 +0000" channel="TestChannel 996.starhub">
+        <title>The Heir to the Throne (with Eng Subs)</title>
+    </programme>
+    <programme start="20251113152000 +0000" stop="20251113161500 +0000" channel="TestChannel 996.starhub">
+        <title>Golden City (Ep 751-800) VVD Mandarin</title>
     </programme>
     <programme start="20251112160000 +0000" stop="20251112161500 +0000" channel="Euronews HD.starhub">
         <title>The European debrief</title>
