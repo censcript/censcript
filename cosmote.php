@@ -54,6 +54,14 @@
     <title>Game R1 S6 E12</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251115040000 +0700" stop="20251115043000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEFA Champions League Magazine 2025-26 E11</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251115043000 +0700" stop="20251115053000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Highlights: UEL &amp; UECL 2025-26</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251114023000 +0700" stop="20251114043000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: AS Roma - Udinese</title>
     <desc>Live: Tidak</desc>
@@ -254,10 +262,6 @@
     <title>Basketball: Cleveland Cavaliers - Toronto Raptors</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251114021000 +0700" stop="20251114035000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: MotoGP 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251114035000 +0700" stop="20251114051000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Motorsports: Moto3 2025</title>
     <desc>Live: Tidak</desc>
@@ -368,6 +372,10 @@
 </programme>
 <programme start="20251115034000 +0700" stop="20251115045500 +0700" channel="COSMOTE Sport 5 HD">
     <title>Motorsports: MotoGP 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251115045500 +0700" stop="20251115060000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: Extreme E 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251114023000 +0700" stop="20251114050000 +0700" channel="COSMOTE Sport 6 HD">
