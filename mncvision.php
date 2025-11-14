@@ -419,7 +419,7 @@
     <title>Telaga Angker</title>
 </programme>
 <programme start="20251114143000 +0000" stop="20251114163000 +0000" channel="ANTV.mncvision">
-    <title>Rumah Kentang: The Beginning</title>
+    <title>A Hearty Response</title>
 </programme>
 <programme start="20251114163000 +0000" stop="20251113170000 +0000" channel="ANTV.mncvision">
     <title>Cannon Ball Run</title>

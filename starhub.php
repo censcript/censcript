@@ -6620,7 +6620,7 @@
         <title>Day 4 Evening Session</title>
     </programme>
     <programme start="20251113220000 +0000" stop="20251113230000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>UCI World Tour - Volta Ciclista a Catalunya H/Ls</title>
+        <title>UCI World Tour - Volta Ciclista a Catalunya Highlights</title>
     </programme>
     <programme start="20251113230000 +0000" stop="20251114010000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>WTA Finals Riyadh Doubles Final</title>
