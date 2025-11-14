@@ -700,6 +700,9 @@
 <programme start="20251114093000 +0000" stop="20251114110000 +0000" channel="ANTV.vision">
 <title>Takdir Cinta Layla</title>
 </programme>
+<programme start="20251114110000 +0000" stop="20251114130000 +0000" channel="ANTV.vision">
+<title>Pertarungan Iblis Merah</title>
+</programme>
 <programme start="20251114130000 +0000" stop="20251114143000 +0000" channel="ANTV.vision">
 <title>Telaga Angker</title>
 </programme>
@@ -1494,7 +1497,4 @@
 </programme>
 <programme start="20251114223000 +0000" stop="20251114230000 +0000" channel="BTV.vision">
 <title>Berita Viral</title>
-</programme>
-<programme start="20251114230000 +0000" stop="20251114230300 +0000" channel="BTV.vision">
-<title>Indonesia Raya</title>
 </programme>
