@@ -604,9 +604,6 @@
 <programme start="20251114154500 +0000" stop="20251114163000 +0000" channel="Trans 7.vision">
 <title>The Police</title>
 </programme>
-<programme start="20251114163000 +0000" stop="20251114171500 +0000" channel="Trans 7.vision">
-<title>Misteri Dunia</title>
-</programme>
 <programme start="20251114171500 +0000" stop="20251114174500 +0000" channel="Trans 7.vision">
 <title>Redaksi Malam</title>
 </programme>
@@ -699,18 +696,6 @@
 </programme>
 <programme start="20251114093000 +0000" stop="20251114110000 +0000" channel="ANTV.vision">
 <title>Takdir Cinta Layla</title>
-</programme>
-<programme start="20251114110000 +0000" stop="20251114130000 +0000" channel="ANTV.vision">
-<title>Pertarungan Iblis Merah</title>
-</programme>
-<programme start="20251114130000 +0000" stop="20251114143000 +0000" channel="ANTV.vision">
-<title>Telaga Angker</title>
-</programme>
-<programme start="20251114143000 +0000" stop="20251114163000 +0000" channel="ANTV.vision">
-<title>A Hearty Response</title>
-</programme>
-<programme start="20251114163000 +0000" stop="20251114183000 +0000" channel="ANTV.vision">
-<title>Cannon Ball Run</title>
 </programme>
 <programme start="20251114183000 +0000" stop="20251114200000 +0000" channel="ANTV.vision">
 <title>Darah Lima Naga</title>
@@ -1497,4 +1482,19 @@
 </programme>
 <programme start="20251114223000 +0000" stop="20251114230000 +0000" channel="BTV.vision">
 <title>Berita Viral</title>
+</programme>
+<programme start="20251114230000 +0000" stop="20251114230300 +0000" channel="BTV.vision">
+<title>Indonesia Raya</title>
+</programme>
+<programme start="20251114230300 +0000" stop="20251115003000 +0000" channel="BTV.vision">
+<title>Jalan Dakwah</title>
+</programme>
+<programme start="20251115003000 +0000" stop="20251115011500 +0000" channel="BTV.vision">
+<title>Figur Publik</title>
+</programme>
+<programme start="20251115011500 +0000" stop="20251115014500 +0000" channel="BTV.vision">
+<title>Kuyliner</title>
+</programme>
+<programme start="20251115014500 +0000" stop="20251115023000 +0000" channel="BTV.vision">
+<title>Masak Ala Devina Hermawan</title>
 </programme>
