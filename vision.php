@@ -565,6 +565,9 @@
 <programme start="20251114050000 +0000" stop="20251114054500 +0000" channel="Trans 7.vision">
 <title>Bocah Petualang</title>
 </programme>
+<programme start="20251114071500 +0000" stop="20251114081500 +0000" channel="Trans 7.vision">
+<title>Redaksi</title>
+</programme>
 <programme start="20251114081500 +0000" stop="20251114091500 +0000" channel="Trans 7.vision">
 <title>Jejak Si Gundul</title>
 </programme>
@@ -1494,7 +1497,4 @@
 </programme>
 <programme start="20251114230300 +0000" stop="20251115003000 +0000" channel="BTV.vision">
 <title>Jalan Dakwah</title>
-</programme>
-<programme start="20251115003000 +0000" stop="20251115011500 +0000" channel="BTV.vision">
-<title>Figur Publik</title>
 </programme>

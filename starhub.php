@@ -3260,7 +3260,7 @@
         <title>Over 300 applications but no job - is AI replacing us?</title>
     </programme>
     <programme start="20251113233000 +0000" stop="20251114000000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW Podcasts</title>
+        <title>Conscription comeback: Will Germany find 80,000 new soldiers?</title>
     </programme>
     <programme start="20251114000000 +0000" stop="20251114000200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3317,7 +3317,7 @@
         <title>Over 300 applications but no job - is AI replacing us?</title>
     </programme>
     <programme start="20251114063000 +0000" stop="20251114070000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW Podcasts</title>
+        <title>Conscription comeback: Will Germany find 80,000 new soldiers?</title>
     </programme>
     <programme start="20251114070000 +0000" stop="20251114073000 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3341,7 +3341,7 @@
         <title>News</title>
     </programme>
     <programme start="20251114103000 +0000" stop="20251114110000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW Podcasts</title>
+        <title>Conscription comeback: Will Germany find 80,000 new soldiers?</title>
     </programme>
     <programme start="20251114110000 +0000" stop="20251114113000 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -8179,7 +8179,7 @@
     <programme start="20251114151000 +0000" stop="20251114153500 +0000" channel="Dragon TV.starhub">
         <title>CARE ON THE WAY</title>
     </programme>
-    <programme start="20251114153500 +0000" stop="20251114170000 +0000" channel="Dragon TV.starhub">
+    <programme start="20251114153500 +0000" stop="20251114160000 +0000" channel="Dragon TV.starhub">
         <title>Go Fighting</title>
     </programme>
     <programme start="20251113160000 +0000" stop="20251113163000 +0000" channel="Travelxp HD.starhub">
