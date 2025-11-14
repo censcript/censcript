@@ -961,16 +961,13 @@
 <programme start="20251114122500 +0000" stop="20251114130000 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20251114130000 +0000" stop="20251114145500 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20251114130000 +0000" stop="20251114150500 +0000" channel="DAZN 1 HD.skyde">
     <title>Bundesliga: 1. FC Union Berlin - FC Bayern München</title>
 </programme>
-<programme start="20251114145500 +0000" stop="20251114152500 +0000" channel="DAZN 1 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
-</programme>
-<programme start="20251114152500 +0000" stop="20251114163500 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20251114150500 +0000" stop="20251114161500 +0000" channel="DAZN 1 HD.skyde">
     <title>ALL IN - Die Bundesliga Highlight Show: 10. Spieltag</title>
 </programme>
-<programme start="20251114163500 +0000" stop="20251114165000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20251114161500 +0000" stop="20251114165000 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
 <programme start="20251114165000 +0000" stop="20251114190500 +0000" channel="DAZN 1 HD.skyde">
@@ -979,13 +976,16 @@
 <programme start="20251114190500 +0000" stop="20251114193500 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20251114193500 +0000" stop="20251114215500 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20251114193500 +0000" stop="20251114214500 +0000" channel="DAZN 1 HD.skyde">
     <title>UEFA World Cup Qualifiers 2026 Canada/Mexico/United States: Polen - Niederlande</title>
 </programme>
-<programme start="20251114215500 +0000" stop="20251114222500 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20251114214500 +0000" stop="20251114221000 +0000" channel="DAZN 1 HD.skyde">
+    <title>Best of DAZN: Highlights</title>
+</programme>
+<programme start="20251114221000 +0000" stop="20251114223500 +0000" channel="DAZN 1 HD.skyde">
     <title>Serie A Highlightshow: 11. Spieltag</title>
 </programme>
-<programme start="20251114222500 +0000" stop="20251114230000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20251114223500 +0000" stop="20251114230000 +0000" channel="DAZN 1 HD.skyde">
     <title>Ligue 1 Highlightshow 2025/26: 12. Spieltag</title>
 </programme>
 <programme start="20251113230000 +0000" stop="20251114070000 +0000" channel="DAZN 2 HD.skyde">
@@ -2636,10 +2636,10 @@
     <title>Admiral BL: ASAT Kompakt, 13. Runde</title>
 </programme>
 <programme start="20251114103000 +0000" stop="20251114124500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live ATP Finals: Doppel 1, 6. Tag in Turin (ITA)</title>
+    <title>Live ATP Finals: H. Heliovaara (FIN) / H. Patten (GBR) - M. Arevalo (ESA) - M. Pavic (CRO), 6. Tag in Turin (ITA)</title>
 </programme>
 <programme start="20251114124500 +0000" stop="20251114150000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live ATP Finals: Einzel 1, 6. Tag in Turin (ITA)</title>
+    <title>Live ATP Finals: J. Sinner (ITA) - B. Shelton (USA), 6. Tag in Turin (ITA)</title>
 </programme>
 <programme start="20251114150000 +0000" stop="20251114160000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>US Open: Tournament Review Show 2025</title>
@@ -2648,10 +2648,10 @@
     <title>ATP Finals: Review Turin 2021</title>
 </programme>
 <programme start="20251114170000 +0000" stop="20251114190000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live ATP Finals: Doppel 2, 6. Tag in Turin (ITA)</title>
+    <title>Live ATP Finals: J. Salisbury (GBR) / N. Skupski (GBR) - C. Harrison (USA) / E. King (USA), 6. Tag in Turin (ITA)</title>
 </programme>
 <programme start="20251114190000 +0000" stop="20251114213000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live ATP Finals: Einzel 2, 6. Tag in Turin (ITA)</title>
+    <title>Live ATP Finals: A. Zverev (GER) - F. Auger-Aliassime (CAN), 6. Tag in Turin (ITA)</title>
 </programme>
 <programme start="20251114213000 +0000" stop="20251114220000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA CL: Magazin</title>

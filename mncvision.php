@@ -5947,6 +5947,60 @@
 <programme start="20251114160000 +0000" stop="20251114163000 +0000" channel="MNCTV.mncvision">
     <title>Jack Dan Danil</title>
 </programme>
+<programme start="20251113170000 +0000" stop="20251113190000 +0000" channel="MNCTV HD.mncvision">
+    <title>Suparman Reborn</title>
+</programme>
+<programme start="20251113190000 +0000" stop="20251113210000 +0000" channel="MNCTV HD.mncvision">
+    <title>Suparman Reborn</title>
+</programme>
+<programme start="20251113210000 +0000" stop="20251113220000 +0000" channel="MNCTV HD.mncvision">
+    <title>Lintas iNews Pagi</title>
+</programme>
+<programme start="20251113220000 +0000" stop="20251113230000 +0000" channel="MNCTV HD.mncvision">
+    <title>Siraman Qolbu</title>
+</programme>
+<programme start="20251113230000 +0000" stop="20251113231500 +0000" channel="MNCTV HD.mncvision">
+    <title>CoComelon</title>
+</programme>
+<programme start="20251113231500 +0000" stop="20251114001500 +0000" channel="MNCTV HD.mncvision">
+    <title>Kiko</title>
+</programme>
+<programme start="20251114001500 +0000" stop="20251114010000 +0000" channel="MNCTV HD.mncvision">
+    <title>Kung Fu Panda Sang Pendekar</title>
+</programme>
+<programme start="20251114010000 +0000" stop="20251114023000 +0000" channel="MNCTV HD.mncvision">
+    <title>Upin &amp; Ipin</title>
+</programme>
+<programme start="20251114023000 +0000" stop="20251114033000 +0000" channel="MNCTV HD.mncvision">
+    <title>Seleb On News</title>
+</programme>
+<programme start="20251114033000 +0000" stop="20251114041500 +0000" channel="MNCTV HD.mncvision">
+    <title>Lintas iNews Siang</title>
+</programme>
+<programme start="20251114041500 +0000" stop="20251114063000 +0000" channel="MNCTV HD.mncvision">
+    <title>Upin &amp; Ipin</title>
+</programme>
+<programme start="20251114063000 +0000" stop="20251114093000 +0000" channel="MNCTV HD.mncvision">
+    <title>WONDR Indonesia Int&#039;l Challenge</title>
+</programme>
+<programme start="20251114093000 +0000" stop="20251114100000 +0000" channel="MNCTV HD.mncvision">
+    <title>Upin &amp; Ipin</title>
+</programme>
+<programme start="20251114100000 +0000" stop="20251114113000 +0000" channel="MNCTV HD.mncvision">
+    <title>Upin &amp; Ipin</title>
+</programme>
+<programme start="20251114113000 +0000" stop="20251114123000 +0000" channel="MNCTV HD.mncvision">
+    <title>Entong</title>
+</programme>
+<programme start="20251114123000 +0000" stop="20251114141500 +0000" channel="MNCTV HD.mncvision">
+    <title>Super Deal</title>
+</programme>
+<programme start="20251114141500 +0000" stop="20251114160000 +0000" channel="MNCTV HD.mncvision">
+    <title>DMD Panggung Rezeki (L)</title>
+</programme>
+<programme start="20251114160000 +0000" stop="20251114163000 +0000" channel="MNCTV HD.mncvision">
+    <title>Jack Dan Danil</title>
+</programme>
 <programme start="20251113175400 +0000" stop="20251113181600 +0000" channel="Moonbug.mncvision">
     <title>CoComelon</title>
 </programme>
