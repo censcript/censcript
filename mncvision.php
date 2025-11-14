@@ -2990,7 +2990,7 @@
     <title>ENTR: Over 300 Applications...</title>
 </programme>
 <programme start="20251114063000 +0000" stop="20251114070000 +0000" channel="DW English.mncvision">
-    <title>Best Of DW Podcasts</title>
+    <title>Berlin Briefing: Conscription</title>
 </programme>
 <programme start="20251114070000 +0000" stop="20251114073000 +0000" channel="DW English.mncvision">
     <title>DW News</title>
@@ -3014,7 +3014,7 @@
     <title>DW News</title>
 </programme>
 <programme start="20251114103000 +0000" stop="20251114110000 +0000" channel="DW English.mncvision">
-    <title>Best Of DW Podcasts</title>
+    <title>Berlin Briefing: Conscription</title>
 </programme>
 <programme start="20251114110000 +0000" stop="20251114113000 +0000" channel="DW English.mncvision">
     <title>DW News</title>

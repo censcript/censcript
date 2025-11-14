@@ -8840,7 +8840,7 @@
         <title>Scoop 2025</title>
     </programme>
     <programme start="20251114120000 +0000" stop="20251114123000 +0000" channel="TVB Jade HD.starhub">
-        <title>Lo And Behold</title>
+        <title>Christian&#039;s Choice</title>
     </programme>
     <programme start="20251114123000 +0000" stop="20251114133000 +0000" channel="TVB Jade HD.starhub">
         <title>The QUEEN Of News 2</title>
