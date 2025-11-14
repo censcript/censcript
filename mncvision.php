@@ -8194,11 +8194,8 @@
 <programme start="20251114153000 +0000" stop="20251114160000 +0000" channel="Soccer Channel.mncvision">
     <title>Planet Football</title>
 </programme>
-<programme start="20251114160000 +0000" stop="20251114163000 +0000" channel="Soccer Channel.mncvision">
-    <title>World Classic Soccer</title>
-</programme>
-<programme start="20251114163000 +0000" stop="20251114164500 +0000" channel="Soccer Channel.mncvision">
-    <title>Top Goals</title>
+<programme start="20251114160000 +0000" stop="20251114164500 +0000" channel="Soccer Channel.mncvision">
+    <title>European Qualifiers Highlights</title>
 </programme>
 <programme start="20251114164500 +0000" stop="20251113171500 +0000" channel="Soccer Channel.mncvision">
     <title>European Qual.: FIN Vs MLT (L)</title>
@@ -8245,11 +8242,8 @@
 <programme start="20251114153000 +0000" stop="20251114160000 +0000" channel="Soccer Channel HD.mncvision">
     <title>Planet Football</title>
 </programme>
-<programme start="20251114160000 +0000" stop="20251114163000 +0000" channel="Soccer Channel HD.mncvision">
-    <title>World Classic Soccer</title>
-</programme>
-<programme start="20251114163000 +0000" stop="20251114164500 +0000" channel="Soccer Channel HD.mncvision">
-    <title>Top Goals</title>
+<programme start="20251114160000 +0000" stop="20251114164500 +0000" channel="Soccer Channel HD.mncvision">
+    <title>European Qualifiers Highlights</title>
 </programme>
 <programme start="20251114164500 +0000" stop="20251113171500 +0000" channel="Soccer Channel HD.mncvision">
     <title>European Qual.: FIN Vs MLT (L)</title>
