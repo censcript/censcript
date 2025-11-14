@@ -5341,7 +5341,108 @@
 <programme start="20251114163000 +0000" stop="20251113170000 +0000" channel="Kompas TV.mncvision">
     <title>Kilas Kompas</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20251113173000 +0000" stop="20251113183000 +0000" channel="LIFE.mncvision">
+    <title>AnugerahNya</title>
+</programme>
+<programme start="20251113183000 +0000" stop="20251113193000 +0000" channel="LIFE.mncvision">
+    <title>Rumah CGN Keluarga</title>
+</programme>
+<programme start="20251113193000 +0000" stop="20251113203000 +0000" channel="LIFE.mncvision">
+    <title>Bukan Untuk Orang Sempurna</title>
+</programme>
+<programme start="20251113203000 +0000" stop="20251113210000 +0000" channel="LIFE.mncvision">
+    <title>Solusi</title>
+</programme>
+<programme start="20251113210000 +0000" stop="20251113213000 +0000" channel="LIFE.mncvision">
+    <title>Shalom Doc</title>
+</programme>
+<programme start="20251113213000 +0000" stop="20251113220000 +0000" channel="LIFE.mncvision">
+    <title>Love Revolution</title>
+</programme>
+<programme start="20251113220000 +0000" stop="20251113223000 +0000" channel="LIFE.mncvision">
+    <title>Rhema</title>
+</programme>
+<programme start="20251113223000 +0000" stop="20251113230000 +0000" channel="LIFE.mncvision">
+    <title>Today&#039;s Breakthrough</title>
+</programme>
+<programme start="20251113230000 +0000" stop="20251114000000 +0000" channel="LIFE.mncvision">
+    <title>Rumah CGN Keluarga</title>
+</programme>
+<programme start="20251114000000 +0000" stop="20251114010000 +0000" channel="LIFE.mncvision">
+    <title>Bukan Untuk Orang Sempurna</title>
+</programme>
+<programme start="20251114010000 +0000" stop="20251114020000 +0000" channel="LIFE.mncvision">
+    <title>Glow Series</title>
+</programme>
+<programme start="20251114020000 +0000" stop="20251114030000 +0000" channel="LIFE.mncvision">
+    <title>AnugerahNya</title>
+</programme>
+<programme start="20251114030000 +0000" stop="20251114033000 +0000" channel="LIFE.mncvision">
+    <title>Superyouth</title>
+</programme>
+<programme start="20251114033000 +0000" stop="20251114040000 +0000" channel="LIFE.mncvision">
+    <title>Mujizat Itu Nyata</title>
+</programme>
+<programme start="20251114040000 +0000" stop="20251114050000 +0000" channel="LIFE.mncvision">
+    <title>GBI VIFA</title>
+</programme>
+<programme start="20251114050000 +0000" stop="20251114053000 +0000" channel="LIFE.mncvision">
+    <title>Today&#039;s Breakthrough</title>
+</programme>
+<programme start="20251114053000 +0000" stop="20251114060000 +0000" channel="LIFE.mncvision">
+    <title>Shalom Doc</title>
+</programme>
+<programme start="20251114060000 +0000" stop="20251114063000 +0000" channel="LIFE.mncvision">
+    <title>Love Revolution</title>
+</programme>
+<programme start="20251114063000 +0000" stop="20251114070000 +0000" channel="LIFE.mncvision">
+    <title>Rhema</title>
+</programme>
+<programme start="20251114070000 +0000" stop="20251114073000 +0000" channel="LIFE.mncvision">
+    <title>Beyond Blessed Repalced</title>
+</programme>
+<programme start="20251114073000 +0000" stop="20251114080000 +0000" channel="LIFE.mncvision">
+    <title>Mujizat Itu Nyata</title>
+</programme>
+<programme start="20251114080000 +0000" stop="20251114090000 +0000" channel="LIFE.mncvision">
+    <title>Glow Series</title>
+</programme>
+<programme start="20251114090000 +0000" stop="20251114093000 +0000" channel="LIFE.mncvision">
+    <title>Superbook Kids Club</title>
+</programme>
+<programme start="20251114093000 +0000" stop="20251114103000 +0000" channel="LIFE.mncvision">
+    <title>Rumah CGN Keluarga</title>
+</programme>
+<programme start="20251114103000 +0000" stop="20251114113000 +0000" channel="LIFE.mncvision">
+    <title>Bukan Untuk Orang Sempurna</title>
+</programme>
+<programme start="20251114113000 +0000" stop="20251114123000 +0000" channel="LIFE.mncvision">
+    <title>AnugerahNya</title>
+</programme>
+<programme start="20251114123000 +0000" stop="20251114130000 +0000" channel="LIFE.mncvision">
+    <title>Shalom Doc</title>
+</programme>
+<programme start="20251114130000 +0000" stop="20251114133000 +0000" channel="LIFE.mncvision">
+    <title>Love Revolution</title>
+</programme>
+<programme start="20251114133000 +0000" stop="20251114140000 +0000" channel="LIFE.mncvision">
+    <title>Today&#039;s Breakthrough</title>
+</programme>
+<programme start="20251114140000 +0000" stop="20251114150000 +0000" channel="LIFE.mncvision">
+    <title>GBI VIFA</title>
+</programme>
+<programme start="20251114150000 +0000" stop="20251114153000 +0000" channel="LIFE.mncvision">
+    <title>Rhema</title>
+</programme>
+<programme start="20251114153000 +0000" stop="20251114160000 +0000" channel="LIFE.mncvision">
+    <title>Beyond Blessed Repalced</title>
+</programme>
+<programme start="20251114160000 +0000" stop="20251114163000 +0000" channel="LIFE.mncvision">
+    <title>Solusi</title>
+</programme>
+<programme start="20251114163000 +0000" stop="20251113170000 +0000" channel="LIFE.mncvision">
+    <title>Glow Series</title>
+</programme>
 <programme start="20251113170500 +0000" stop="20251113173500 +0000" channel="Lifetime.mncvision">
     <title>Meals In Minutes S1, Ep 4</title>
 </programme>

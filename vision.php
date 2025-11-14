@@ -160,17 +160,11 @@
 <programme start="20251113230000 +0000" stop="20251114003000 +0000" channel="GTV.vision">
 <title>SpongeBob SquarePants</title>
 </programme>
-<programme start="20251114003000 +0000" stop="20251114013000 +0000" channel="GTV.vision">
-<title>Obrolan Seputar Selebriti (GTV)</title>
-</programme>
 <programme start="20251114013000 +0000" stop="20251114020000 +0000" channel="GTV.vision">
 <title>CoComelon Dan Sahabat</title>
 </programme>
 <programme start="20251114020000 +0000" stop="20251114050000 +0000" channel="GTV.vision">
 <title>Spongebob Squarepants (GTV)</title>
-</programme>
-<programme start="20251114050000 +0000" stop="20251114073000 +0000" channel="GTV.vision">
-<title>SpongeBob SquarePants</title>
 </programme>
 <programme start="20251114073000 +0000" stop="20251114083000 +0000" channel="GTV.vision">
 <title>Bernard Bear</title>
@@ -184,59 +178,20 @@
 <programme start="20251114110000 +0000" stop="20251114111500 +0000" channel="GTV.vision">
 <title>SpongeBob SquarePants</title>
 </programme>
-<programme start="20251114111500 +0000" stop="20251114140000 +0000" channel="GTV.vision">
+<programme start="20251114111500 +0000" stop="20251114123000 +0000" channel="GTV.vision">
 <title>Mission: Impossible 3</title>
 </programme>
-<programme start="20251114140000 +0000" stop="20251114153000 +0000" channel="GTV.vision">
-<title>Conan The Barbarian</title>
+<programme start="20251114123000 +0000" stop="20251114143000 +0000" channel="GTV.vision">
+<title>Fighter</title>
+</programme>
+<programme start="20251116143000 +0000" stop="20251116160000 +0000" channel="GTV.vision">
+<title>The Mob</title>
 </programme>
 <programme start="20251114153000 +0000" stop="20251114170000 +0000" channel="GTV.vision">
 <title>GTV</title>
 </programme>
-<programme start="20251114170000 +0000" stop="20251114180000 +0000" channel="GTV.vision">
-<title>Jelajah Mitos</title>
-</programme>
-<programme start="20251114180000 +0000" stop="20251114200000 +0000" channel="GTV.vision">
-<title>Crime KV</title>
-</programme>
-<programme start="20251114200000 +0000" stop="20251114210000 +0000" channel="GTV.vision">
-<title>Awas Ada Sule</title>
-</programme>
-<programme start="20251114210000 +0000" stop="20251114220000 +0000" channel="GTV.vision">
-<title>Film TV</title>
-</programme>
-<programme start="20251114220000 +0000" stop="20251114231500 +0000" channel="GTV.vision">
-<title>Kisah Viral</title>
-</programme>
-<programme start="20251114231500 +0000" stop="20251114234500 +0000" channel="GTV.vision">
-<title>BIMA-S</title>
-</programme>
-<programme start="20251114234500 +0000" stop="20251115013000 +0000" channel="GTV.vision">
-<title>SpongeBob SquarePants</title>
-</programme>
-<programme start="20251115013000 +0000" stop="20251115050000 +0000" channel="GTV.vision">
-<title>Spongebob Squarepants (GTV)</title>
-</programme>
-<programme start="20251115050000 +0000" stop="20251115070000 +0000" channel="GTV.vision">
-<title>Zak Storm</title>
-</programme>
-<programme start="20251115070000 +0000" stop="20251115074500 +0000" channel="GTV.vision">
-<title>Bleach: Chains Of Nothingness</title>
-</programme>
-<programme start="20251115074500 +0000" stop="20251115083000 +0000" channel="GTV.vision">
-<title>Kids Mini Soccer Competition</title>
-</programme>
-<programme start="20251115083000 +0000" stop="20251115100000 +0000" channel="GTV.vision">
-<title>Bernard Bear</title>
-</programme>
-<programme start="20251115100000 +0000" stop="20251115110000 +0000" channel="GTV.vision">
-<title>SpongeBob SquarePants</title>
-</programme>
-<programme start="20251115110000 +0000" stop="20251115111500 +0000" channel="GTV.vision">
-<title>SpongeBob SquarePants</title>
-</programme>
-<programme start="20251115111500 +0000" stop="20251115120000 +0000" channel="GTV.vision">
-<title>I Love Indonesia: Ready To Go</title>
+<programme start="20251114233000 +0000" stop="20251115003000 +0000" channel="GTV.vision">
+<title>GTV</title>
 </programme>
 <programme start="20251114000000 +0000" stop="20251114003000 +0000" channel="iNews.vision">
 <title>Special Report</title>
@@ -719,7 +674,7 @@
 <title>Kedarnath</title>
 </programme>
 <programme start="20251114223000 +0000" stop="20251114233000 +0000" channel="ANTV.vision">
-<title>Ada Si Manis Di Jembatan</title>
+<title>Masha And The Bear</title>
 </programme>
 <programme start="20251114233000 +0000" stop="20251115000000 +0000" channel="ANTV.vision">
 <title>Super Viral</title>
@@ -733,8 +688,11 @@
 <programme start="20251115030000 +0000" stop="20251115063000 +0000" channel="ANTV.vision">
 <title>Pardes</title>
 </programme>
-<programme start="20251115063000 +0000" stop="20251115093000 +0000" channel="ANTV.vision">
-<title>Ek Tha Tiger</title>
+<programme start="20251115063000 +0000" stop="20251115080000 +0000" channel="ANTV.vision">
+<title>Cinta Keluarga Pandya</title>
+</programme>
+<programme start="20251115080000 +0000" stop="20251115093000 +0000" channel="ANTV.vision">
+<title>Zeynep</title>
 </programme>
 <programme start="20251115093000 +0000" stop="20251115110000 +0000" channel="ANTV.vision">
 <title>ANTV Seru</title>
