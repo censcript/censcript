@@ -2636,10 +2636,10 @@
     <title>Admiral BL: ASAT Kompakt, 13. Runde</title>
 </programme>
 <programme start="20251114103000 +0000" stop="20251114124500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live ATP Finals: H. Heliovaara (FIN) / H. Patten (GBR) - M. Arevalo (ESA) - M. Pavic (CRO), 6. Tag in Turin (ITA)</title>
+    <title>Live ATP Finals: Doppel 1, 6. Tag in Turin (ITA)</title>
 </programme>
 <programme start="20251114124500 +0000" stop="20251114150000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live ATP Finals: J. Sinner (ITA) - B. Shelton (USA), 6. Tag in Turin (ITA)</title>
+    <title>Live ATP Finals: Einzel 1, 6. Tag in Turin (ITA)</title>
 </programme>
 <programme start="20251114150000 +0000" stop="20251114160000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>US Open: Tournament Review Show 2025</title>
@@ -2648,10 +2648,10 @@
     <title>ATP Finals: Review Turin 2021</title>
 </programme>
 <programme start="20251114170000 +0000" stop="20251114190000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live ATP Finals: J. Salisbury (GBR) / N. Skupski (GBR) - C. Harrison (USA) / E. King (USA), 6. Tag in Turin (ITA)</title>
+    <title>Live ATP Finals: Doppel 2, 6. Tag in Turin (ITA)</title>
 </programme>
 <programme start="20251114190000 +0000" stop="20251114213000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live ATP Finals: A. Zverev (GER) - F. Auger-Aliassime (CAN), 6. Tag in Turin (ITA)</title>
+    <title>Live ATP Finals: Einzel 2, 6. Tag in Turin (ITA)</title>
 </programme>
 <programme start="20251114213000 +0000" stop="20251114220000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA CL: Magazin</title>
@@ -3602,42 +3602,6 @@
     <title>Sideways</title>
 </programme>
 <programme start="20251114212500 +0000" stop="20251114231500 +0000" channel="Warner TV Film.skyde">
-    <title>Wir sind die Millers</title>
-</programme>
-<programme start="20251114003000 +0000" stop="20251114022500 +0000" channel="Warner TV Film HD.skyde">
-    <title>Ocean&#039;s Eleven</title>
-</programme>
-<programme start="20251114022500 +0000" stop="20251114034000 +0000" channel="Warner TV Film HD.skyde">
-    <title>Colorado</title>
-</programme>
-<programme start="20251114034000 +0000" stop="20251114050000 +0000" channel="Warner TV Film HD.skyde">
-    <title>Lassie in Not</title>
-</programme>
-<programme start="20251114050000 +0000" stop="20251114071500 +0000" channel="Warner TV Film HD.skyde">
-    <title>Verdammt sind sie alle</title>
-</programme>
-<programme start="20251114071500 +0000" stop="20251114094500 +0000" channel="Warner TV Film HD.skyde">
-    <title>Das dreckige Dutzend</title>
-</programme>
-<programme start="20251114094500 +0000" stop="20251114114000 +0000" channel="Warner TV Film HD.skyde">
-    <title>Lethal Weapon 3 - Die Profis sind zurück</title>
-</programme>
-<programme start="20251114114000 +0000" stop="20251114135500 +0000" channel="Warner TV Film HD.skyde">
-    <title>Stirb langsam: Jetzt erst recht</title>
-</programme>
-<programme start="20251114135500 +0000" stop="20251114155500 +0000" channel="Warner TV Film HD.skyde">
-    <title>Ausnahmezustand</title>
-</programme>
-<programme start="20251114155500 +0000" stop="20251114172500 +0000" channel="Warner TV Film HD.skyde">
-    <title>Mercy</title>
-</programme>
-<programme start="20251114172500 +0000" stop="20251114191500 +0000" channel="Warner TV Film HD.skyde">
-    <title>Jack Ryan: Shadow Recruit</title>
-</programme>
-<programme start="20251114191500 +0000" stop="20251114212500 +0000" channel="Warner TV Film HD.skyde">
-    <title>Sideways</title>
-</programme>
-<programme start="20251114212500 +0000" stop="20251114231500 +0000" channel="Warner TV Film HD.skyde">
     <title>Wir sind die Millers</title>
 </programme>
 <programme start="20251113232500 +0000" stop="20251114010000 +0000" channel="Warner TV Serie HD.skyde">

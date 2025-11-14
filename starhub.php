@@ -7939,10 +7939,10 @@
     <programme start="20251114013000 +0000" stop="20251114043000 +0000" channel="Asianet Movies.starhub">
         <title>Calcutta News</title>
     </programme>
-    <programme start="20251114043000 +0000" stop="20251114073000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251114043000 +0000" stop="20251114072500 +0000" channel="Asianet Movies.starhub">
         <title>Oru Marubhoomikkadha</title>
     </programme>
-    <programme start="20251114073000 +0000" stop="20251114103000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251114072500 +0000" stop="20251114103000 +0000" channel="Asianet Movies.starhub">
         <title>Hridayam</title>
     </programme>
     <programme start="20251114103000 +0000" stop="20251114133000 +0000" channel="Asianet Movies.starhub">

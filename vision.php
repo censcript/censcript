@@ -673,9 +673,6 @@
 <programme start="20251115114500 +0000" stop="20251115121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
-<programme start="20251113230000 +0000" stop="20251114010000 +0000" channel="ANTV.vision">
-<title>Macan Terbang</title>
-</programme>
 <programme start="20251114010000 +0000" stop="20251114030000 +0000" channel="ANTV.vision">
 <title>Mangal Lakshmi</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20251114230300 +0000" stop="20251115003000 +0000" channel="BTV.vision">
 <title>Jalan Dakwah</title>
+</programme>
+<programme start="20251115003000 +0000" stop="20251115011500 +0000" channel="BTV.vision">
+<title>Figur Publik</title>
 </programme>
