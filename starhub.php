@@ -7477,8 +7477,11 @@
     <programme start="20251114153000 +0000" stop="20251114160000 +0000" channel="BBC World News HD.starhub">
         <title>Verified Live</title>
     </programme>
-    <programme start="20251113144000 +0000" stop="20251113163000 +0000" channel="Premier Sports.starhub">
-        <title>International Rugby Georgia v USA</title>
+    <programme start="20251113160000 +0000" stop="20251113161500 +0000" channel="Premier Sports.starhub">
+        <title>AFLW Highlights AFLW Finals Week 1</title>
+    </programme>
+    <programme start="20251113161500 +0000" stop="20251113163000 +0000" channel="Premier Sports.starhub">
+        <title>AFLW Highlights AFLW Finals Week 1</title>
     </programme>
     <programme start="20251113163000 +0000" stop="20251113170000 +0000" channel="Premier Sports.starhub">
         <title>5 &amp; 6 Nations Classics 2004 - France v England</title>
