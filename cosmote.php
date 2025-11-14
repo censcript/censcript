@@ -1,11 +1,3 @@
-<programme start="20251115013000 +0700" stop="20251115033000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: Aston Villa - Maccabi Tel-Aviv FC</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251115033000 +0700" stop="20251115040000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Game R1 S6 E12</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251115040000 +0700" stop="20251115043000 +0700" channel="COSMOTE Sport 1 HD">
     <title>UEFA Champions League Magazine 2025-26 E11</title>
     <desc>Live: Tidak</desc>
@@ -270,10 +262,6 @@
     <title>Basketball: Girona - Barcelona</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251115024000 +0700" stop="20251115034000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: Moto2 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251115034000 +0700" stop="20251115045500 +0700" channel="COSMOTE Sport 5 HD">
     <title>Motorsports: MotoGP 2025</title>
     <desc>Live: Tidak</desc>
@@ -376,6 +364,10 @@
 </programme>
 <programme start="20251116034500 +0700" stop="20251116045000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Motorsports: MotoGP 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251116045000 +0700" stop="20251116055500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>2025 Extreme H</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251115023000 +0700" stop="20251115050000 +0700" channel="COSMOTE Sport 6 HD">
@@ -491,6 +483,10 @@
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20251116033000 +0700" stop="20251116040000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251116040000 +0700" stop="20251116050000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
