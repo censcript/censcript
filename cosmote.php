@@ -78,6 +78,10 @@
     <title>Football: Club Brugge - FC Barcelona</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251115223000 +0700" stop="20251116003000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: FSV Mainz 05 - ACF Fiorentina</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251114202000 +0700" stop="20251114222000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Bologna - SSC Napoli</title>
     <desc>Live: Tidak</desc>
@@ -138,6 +142,14 @@
     <title>Football: AS Roma - Udinese</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251115222000 +0700" stop="20251115225000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Serie A Full Impact 2025-26 E11</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251115225000 +0700" stop="20251116005000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: FC Internazionale Milano - SS Lazio</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251114210000 +0700" stop="20251114230000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Watford - Bristol City</title>
     <desc>Live: Tidak</desc>
@@ -190,12 +202,8 @@
     <title>Football: Neom - Al Nassr</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251114193000 +0700" stop="20251114212500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Badalona - Real Madrid</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251114212500 +0700" stop="20251114215500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>ACB Liga Endesa 2025-26 - Fifth Quarter E6</title>
+<programme start="20251115223000 +0700" stop="20251116003000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Anorthosis Famagusta - Pafos FC</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251114215500 +0700" stop="20251114235500 +0700" channel="COSMOTE Sport 4 HD">
@@ -264,6 +272,14 @@
 </programme>
 <programme start="20251115200000 +0700" stop="20251115221000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: AEK - VEF Riga</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251115221000 +0700" stop="20251115224500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>NBA on Fire 2025-26 E3 (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
+<programme start="20251115224500 +0700" stop="20251116005500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Karditsa - Oostende</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251114205500 +0700" stop="20251114221500 +0700" channel="COSMOTE Sport 5 HD">
@@ -365,6 +381,14 @@
 <programme start="20251115204500 +0700" stop="20251115220000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Motorsports: MotoGP 2025 (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20251115220000 +0700" stop="20251115221500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Sports Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251115221500 +0700" stop="20251115230500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: Moto3 2025</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251114200000 +0700" stop="20251114223000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Jannik Sinner - Ben Shelton (L)</title>
