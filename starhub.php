@@ -1,15 +1,3 @@
-    <programme start="20251113160000 +0000" stop="20251113220000 +0000" channel="Cartoonito HD.starhub">
-        <title>End Of Transmission</title>
-    </programme>
-    <programme start="20251113220000 +0000" stop="20251114040000 +0000" channel="Cartoonito HD.starhub">
-        <title>End Of Transmission</title>
-    </programme>
-    <programme start="20251114040000 +0000" stop="20251114100000 +0000" channel="Cartoonito HD.starhub">
-        <title>End Of Transmission</title>
-    </programme>
-    <programme start="20251114100000 +0000" stop="20251114160000 +0000" channel="Cartoonito HD.starhub">
-        <title>End Of Transmission</title>
-    </programme>
     <programme start="20251113154300 +0000" stop="20251113162600 +0000" channel="CCTV-4.starhub">
         <title>Zheng Shi Qing Chun Cui Can Shi</title>
     </programme>
@@ -3839,7 +3827,7 @@
         <title>Mini Program</title>
     </programme>
     <programme start="20251114010500 +0000" stop="20251114015500 +0000" channel="NHK World Premium HD.starhub">
-        <title>Unsolved Cases&quot;File.05,The Nonexistent Children:The Osaka Concrete-Encased Girl</title>
+        <title>Unsolved Cases &quot;File. 05, The Nonexistent Children: The Osaka Concrete-Encased G</title>
     </programme>
     <programme start="20251114015500 +0000" stop="20251114022500 +0000" channel="NHK World Premium HD.starhub">
         <title>NIJIUTA: Singing Japanese Nursery Rhymes Part 2</title>

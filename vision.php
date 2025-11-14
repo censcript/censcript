@@ -160,17 +160,11 @@
 <programme start="20251113230000 +0000" stop="20251114003000 +0000" channel="GTV.vision">
 <title>SpongeBob SquarePants</title>
 </programme>
-<programme start="20251114003000 +0000" stop="20251114013000 +0000" channel="GTV.vision">
-<title>Obrolan Seputar Selebriti (GTV)</title>
-</programme>
 <programme start="20251114013000 +0000" stop="20251114020000 +0000" channel="GTV.vision">
 <title>CoComelon Dan Sahabat</title>
 </programme>
 <programme start="20251114020000 +0000" stop="20251114050000 +0000" channel="GTV.vision">
 <title>Spongebob Squarepants (GTV)</title>
-</programme>
-<programme start="20251114050000 +0000" stop="20251114073000 +0000" channel="GTV.vision">
-<title>SpongeBob SquarePants</title>
 </programme>
 <programme start="20251114073000 +0000" stop="20251114083000 +0000" channel="GTV.vision">
 <title>Bernard Bear</title>
@@ -190,49 +184,13 @@
 <programme start="20251114123000 +0000" stop="20251114143000 +0000" channel="GTV.vision">
 <title>Fighter</title>
 </programme>
-<programme start="20251114143000 +0000" stop="20251114153000 +0000" channel="GTV.vision">
+<programme start="20251116143000 +0000" stop="20251116160000 +0000" channel="GTV.vision">
 <title>The Mob</title>
 </programme>
 <programme start="20251114153000 +0000" stop="20251114170000 +0000" channel="GTV.vision">
 <title>GTV</title>
 </programme>
-<programme start="20251114170000 +0000" stop="20251114180000 +0000" channel="GTV.vision">
-<title>GTV</title>
-</programme>
-<programme start="20251114180000 +0000" stop="20251114203000 +0000" channel="GTV.vision">
-<title>GTV</title>
-</programme>
-<programme start="20251114203000 +0000" stop="20251114213000 +0000" channel="GTV.vision">
-<title>GTV</title>
-</programme>
-<programme start="20251114213000 +0000" stop="20251114233000 +0000" channel="GTV.vision">
-<title>GTV</title>
-</programme>
 <programme start="20251114233000 +0000" stop="20251115003000 +0000" channel="GTV.vision">
-<title>GTV</title>
-</programme>
-<programme start="20251115003000 +0000" stop="20251115013000 +0000" channel="GTV.vision">
-<title>GTV</title>
-</programme>
-<programme start="20251115013000 +0000" stop="20251115040000 +0000" channel="GTV.vision">
-<title>GTV</title>
-</programme>
-<programme start="20251115040000 +0000" stop="20251115070000 +0000" channel="GTV.vision">
-<title>GTV</title>
-</programme>
-<programme start="20251115070000 +0000" stop="20251115080000 +0000" channel="GTV.vision">
-<title>GTV</title>
-</programme>
-<programme start="20251115080000 +0000" stop="20251115090000 +0000" channel="GTV.vision">
-<title>GTV</title>
-</programme>
-<programme start="20251115090000 +0000" stop="20251115110000 +0000" channel="GTV.vision">
-<title>GTV</title>
-</programme>
-<programme start="20251115110000 +0000" stop="20251115111500 +0000" channel="GTV.vision">
-<title>GTV</title>
-</programme>
-<programme start="20251115111500 +0000" stop="20251115123000 +0000" channel="GTV.vision">
 <title>GTV</title>
 </programme>
 <programme start="20251114000000 +0000" stop="20251114003000 +0000" channel="iNews.vision">
@@ -565,6 +523,12 @@
 <programme start="20251114050000 +0000" stop="20251114054500 +0000" channel="Trans 7.vision">
 <title>Bocah Petualang</title>
 </programme>
+<programme start="20251114054500 +0000" stop="20251114063000 +0000" channel="Trans 7.vision">
+<title>Jejak Petualang</title>
+</programme>
+<programme start="20251114063000 +0000" stop="20251114071500 +0000" channel="Trans 7.vision">
+<title>Kepo</title>
+</programme>
 <programme start="20251114071500 +0000" stop="20251114081500 +0000" channel="Trans 7.vision">
 <title>Redaksi</title>
 </programme>
@@ -698,7 +662,7 @@
 <title>Telaga Angker</title>
 </programme>
 <programme start="20251114143000 +0000" stop="20251114163000 +0000" channel="ANTV.vision">
-<title>Rumah Kentang: The Beginning</title>
+<title>A Hearty Response</title>
 </programme>
 <programme start="20251114163000 +0000" stop="20251114183000 +0000" channel="ANTV.vision">
 <title>Cannon Ball Run</title>
@@ -722,7 +686,7 @@
 <title>Mangal Lakshmi</title>
 </programme>
 <programme start="20251115030000 +0000" stop="20251115063000 +0000" channel="ANTV.vision">
-<title>Kabhi Haan Kabhi Naa</title>
+<title>Pardes</title>
 </programme>
 <programme start="20251115063000 +0000" stop="20251115080000 +0000" channel="ANTV.vision">
 <title>Cinta Keluarga Pandya</title>
@@ -1491,10 +1455,4 @@
 </programme>
 <programme start="20251114223000 +0000" stop="20251114230000 +0000" channel="BTV.vision">
 <title>Berita Viral</title>
-</programme>
-<programme start="20251114230000 +0000" stop="20251114230300 +0000" channel="BTV.vision">
-<title>Indonesia Raya</title>
-</programme>
-<programme start="20251114230300 +0000" stop="20251115003000 +0000" channel="BTV.vision">
-<title>Jalan Dakwah</title>
 </programme>
