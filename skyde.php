@@ -2665,7 +2665,7 @@
 <programme start="20251114182500 +0000" stop="20251114184500 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: LIVE NHL</title>
 </programme>
-<programme start="20251114184500 +0000" stop="20251114220000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20251114184500 +0000" stop="20251115000000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live NHL: Pittsburgh Penguins @ Nashville Predators, Global Series 2025 in Stockholm (SWE)</title>
 </programme>
 <programme start="20251113230000 +0000" stop="20251113233000 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -3139,23 +3139,23 @@
 <programme start="20251114013000 +0000" stop="20251114020000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA Finals: Review Riyadh 2025</title>
 </programme>
-<programme start="20251114020000 +0000" stop="20251114040000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20251114020000 +0000" stop="20251114033000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP Finals: J. Cash (GBR)/ L. Glasspool (GBR) - M. Granollers (ESP)/ H. Zeballos (ARG), 5. Tag in Turin (ITA)</title>
 </programme>
-<programme start="20251114040000 +0000" stop="20251114063000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20251114033000 +0000" stop="20251114060000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: J. Sinner (ITA) - F. Auger-Aliassime (CAN), Rolex Paris Masters in Paris (FRA), Finale</title>
 </programme>
-<programme start="20251114063000 +0000" stop="20251114083000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20251114060000 +0000" stop="20251114081000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP Finals: T. Fritz (USA) - A. de Minaur (AUS), 5. Tag in Turin (ITA)</title>
 </programme>
-<programme start="20251114083000 +0000" stop="20251114103000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20251114081000 +0000" stop="20251114103000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP Finals: C. Alcaraz (ESP) - L. Musetti (ITA), 5. Tag in Turin (ITA)</title>
 </programme>
 <programme start="20251114103000 +0000" stop="20251114124500 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP Finals: Doppel 1, 6. Tag in Turin (ITA)</title>
+    <title>Live ATP Finals: H. Heliovaara (FIN) / H. Patten (GBR) - M. Arevalo (ESA) - M. Pavic (CRO), 6. Tag in Turin (ITA)</title>
 </programme>
 <programme start="20251114124500 +0000" stop="20251114150000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP Finals: Einzel 1, 6. Tag in Turin (ITA)</title>
+    <title>Live ATP Finals: J. Sinner (ITA) - B. Shelton (USA), 6. Tag in Turin (ITA)</title>
 </programme>
 <programme start="20251114150000 +0000" stop="20251114160000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>US Open: Tournament Review Show 2025</title>
@@ -3164,13 +3164,13 @@
     <title>ATP Finals: Review Turin 2021</title>
 </programme>
 <programme start="20251114170000 +0000" stop="20251114190000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP Finals: Doppel 2, 6. Tag in Turin (ITA)</title>
+    <title>Live ATP Finals: J. Salisbury (GBR) / N. Skupski (GBR) - C. Harrison (USA) / E. King (USA), 6. Tag in Turin (ITA)</title>
 </programme>
 <programme start="20251114190000 +0000" stop="20251114213000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP Finals: Einzel 2, 6. Tag in Turin (ITA)</title>
+    <title>Live ATP Finals: A. Zverev (GER) - F. Auger-Aliassime (CAN), 6. Tag in Turin (ITA)</title>
 </programme>
 <programme start="20251114213000 +0000" stop="20251114233000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP Finals: Einzel 1, 6. Tag in Turin (ITA)</title>
+    <title>ATP Finals: J. Sinner (ITA) - B. Shelton (USA), 6. Tag in Turin (ITA)</title>
 </programme>
 <programme start="20251113233000 +0000" stop="20251114000000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>NBA: Action</title>
@@ -3200,10 +3200,10 @@
     <title>Live MotoGP: 1. Freies Training - GP Valencia</title>
 </programme>
 <programme start="20251114104500 +0000" stop="20251114124500 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live ATP Finals: Doppel 1, 6. Tag in Turin (ITA)</title>
+    <title>Live ATP Finals: H. Heliovaara (FIN) / H. Patten (GBR) - M. Arevalo (ESA) - M. Pavic (CRO), 6. Tag in Turin (ITA)</title>
 </programme>
 <programme start="20251114124500 +0000" stop="20251114150000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live ATP Finals: Einzel 1, 6. Tag in Turin (ITA)</title>
+    <title>Live ATP Finals: J. Sinner (ITA) - B. Shelton (USA), 6. Tag in Turin (ITA)</title>
 </programme>
 <programme start="20251114150000 +0000" stop="20251114160000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>US Open: Tournament Review Show 2025</title>
@@ -3212,10 +3212,10 @@
     <title>ATP Finals: Review Turin 2021</title>
 </programme>
 <programme start="20251114170000 +0000" stop="20251114190000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live ATP Finals: Doppel 2, 6. Tag in Turin (ITA)</title>
+    <title>Live ATP Finals: J. Salisbury (GBR) / N. Skupski (GBR) - C. Harrison (USA) / E. King (USA), 6. Tag in Turin (ITA)</title>
 </programme>
 <programme start="20251114190000 +0000" stop="20251114213000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live ATP Finals: Einzel 2, 6. Tag in Turin (ITA)</title>
+    <title>Live ATP Finals: A. Zverev (GER) - F. Auger-Aliassime (CAN), 6. Tag in Turin (ITA)</title>
 </programme>
 <programme start="20251114213000 +0000" stop="20251114233000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live PGA Tour Champions: Charles Schwab Cup Championship, 2. Tag in Phoenix, Arizona (USA)</title>
@@ -3602,6 +3602,42 @@
     <title>Sideways</title>
 </programme>
 <programme start="20251114212500 +0000" stop="20251114231500 +0000" channel="Warner TV Film.skyde">
+    <title>Wir sind die Millers</title>
+</programme>
+<programme start="20251114003000 +0000" stop="20251114022500 +0000" channel="Warner TV Film HD.skyde">
+    <title>Ocean&#039;s Eleven</title>
+</programme>
+<programme start="20251114022500 +0000" stop="20251114034000 +0000" channel="Warner TV Film HD.skyde">
+    <title>Colorado</title>
+</programme>
+<programme start="20251114034000 +0000" stop="20251114050000 +0000" channel="Warner TV Film HD.skyde">
+    <title>Lassie in Not</title>
+</programme>
+<programme start="20251114050000 +0000" stop="20251114071500 +0000" channel="Warner TV Film HD.skyde">
+    <title>Verdammt sind sie alle</title>
+</programme>
+<programme start="20251114071500 +0000" stop="20251114094500 +0000" channel="Warner TV Film HD.skyde">
+    <title>Das dreckige Dutzend</title>
+</programme>
+<programme start="20251114094500 +0000" stop="20251114114000 +0000" channel="Warner TV Film HD.skyde">
+    <title>Lethal Weapon 3 - Die Profis sind zurück</title>
+</programme>
+<programme start="20251114114000 +0000" stop="20251114135500 +0000" channel="Warner TV Film HD.skyde">
+    <title>Stirb langsam: Jetzt erst recht</title>
+</programme>
+<programme start="20251114135500 +0000" stop="20251114155500 +0000" channel="Warner TV Film HD.skyde">
+    <title>Ausnahmezustand</title>
+</programme>
+<programme start="20251114155500 +0000" stop="20251114172500 +0000" channel="Warner TV Film HD.skyde">
+    <title>Mercy</title>
+</programme>
+<programme start="20251114172500 +0000" stop="20251114191500 +0000" channel="Warner TV Film HD.skyde">
+    <title>Jack Ryan: Shadow Recruit</title>
+</programme>
+<programme start="20251114191500 +0000" stop="20251114212500 +0000" channel="Warner TV Film HD.skyde">
+    <title>Sideways</title>
+</programme>
+<programme start="20251114212500 +0000" stop="20251114231500 +0000" channel="Warner TV Film HD.skyde">
     <title>Wir sind die Millers</title>
 </programme>
 <programme start="20251113232500 +0000" stop="20251114010000 +0000" channel="Warner TV Serie HD.skyde">

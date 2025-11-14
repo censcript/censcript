@@ -203,7 +203,7 @@
     <title>News (L)</title>
 </programme>
 <programme start="20251114163000 +0000" stop="20251113170000 +0000" channel="Al Jazeera English.mncvision">
-    <title>Risking It All: Borneo</title>
+    <title>Talk To Al Jazeera: T.K. Wagner</title>
 </programme>
 <programme start="20251113170000 +0000" stop="20251113190000 +0000" channel="Al Quran Al Kareem.mncvision">
     <title>Live From Mekkah</title>
@@ -1882,10 +1882,312 @@
 <programme start="20251114002500 +0000" stop="20251114005500 +0000" channel="CBeebies.mncvision">
     <title>Steve &amp; Aneeshwar Go..., Ep 15</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20251113181500 +0000" stop="20251113195000 +0000" channel="CCM.mncvision">
+    <title>Raw Passions</title>
+</programme>
+<programme start="20251113195000 +0000" stop="20251113211500 +0000" channel="CCM.mncvision">
+    <title>The Swordmates</title>
+</programme>
+<programme start="20251113211500 +0000" stop="20251113225000 +0000" channel="CCM.mncvision">
+    <title>The Golden Lion</title>
+</programme>
+<programme start="20251113225000 +0000" stop="20251114002500 +0000" channel="CCM.mncvision">
+    <title>Carry On Doctors And Nurses</title>
+</programme>
+<programme start="20251114002500 +0000" stop="20251114021500 +0000" channel="CCM.mncvision">
+    <title>Disciples Of Shaolin</title>
+</programme>
+<programme start="20251114021500 +0000" stop="20251114035000 +0000" channel="CCM.mncvision">
+    <title>Song Of Orchid Island</title>
+</programme>
+<programme start="20251114035000 +0000" stop="20251114055500 +0000" channel="CCM.mncvision">
+    <title>The 14 Amazons</title>
+</programme>
+<programme start="20251114055500 +0000" stop="20251114073500 +0000" channel="CCM.mncvision">
+    <title>My Son</title>
+</programme>
+<programme start="20251114073500 +0000" stop="20251114091000 +0000" channel="CCM.mncvision">
+    <title>The Weird Man</title>
+</programme>
+<programme start="20251114091000 +0000" stop="20251114111000 +0000" channel="CCM.mncvision">
+    <title>Whose Baby Is In Classroom?</title>
+</programme>
+<programme start="20251114111000 +0000" stop="20251114130000 +0000" channel="CCM.mncvision">
+    <title>All Men Are Brothers</title>
+</programme>
+<programme start="20251114130000 +0000" stop="20251114151000 +0000" channel="CCM.mncvision">
+    <title>Hong Kong Rhapsody</title>
+</programme>
+<programme start="20251114151000 +0000" stop="20251114165000 +0000" channel="CCM.mncvision">
+    <title>The Duel Of The Century</title>
+</programme>
+<programme start="20251114165000 +0000" stop="20251113172000 +0000" channel="CCM.mncvision">
+    <title>The Millionaire Chase</title>
+</programme>
+<programme start="20251113170000 +0000" stop="20251113180000 +0000" channel="Celebrities TV.mncvision">
+    <title>Logika Ahmad Dhani</title>
+</programme>
+<programme start="20251113180000 +0000" stop="20251113190000 +0000" channel="Celebrities TV.mncvision">
+    <title>Tamu Dadakan</title>
+</programme>
+<programme start="20251113190000 +0000" stop="20251113200000 +0000" channel="Celebrities TV.mncvision">
+    <title>Cinta Yasmin</title>
+</programme>
+<programme start="20251113200000 +0000" stop="20251113210000 +0000" channel="Celebrities TV.mncvision">
+    <title>iSeleb</title>
+</programme>
+<programme start="20251113210000 +0000" stop="20251113213000 +0000" channel="Celebrities TV.mncvision">
+    <title>Today&#039;s Special</title>
+</programme>
+<programme start="20251113213000 +0000" stop="20251113220000 +0000" channel="Celebrities TV.mncvision">
+    <title>Seleb On News</title>
+</programme>
+<programme start="20251113220000 +0000" stop="20251113230000 +0000" channel="Celebrities TV.mncvision">
+    <title>Logika Ahmad Dhani</title>
+</programme>
+<programme start="20251113230000 +0000" stop="20251113233000 +0000" channel="Celebrities TV.mncvision">
+    <title>Super Papa</title>
+</programme>
+<programme start="20251113233000 +0000" stop="20251114000000 +0000" channel="Celebrities TV.mncvision">
+    <title>Today&#039;s Special</title>
+</programme>
+<programme start="20251114000000 +0000" stop="20251114010000 +0000" channel="Celebrities TV.mncvision">
+    <title>iSeleb</title>
+</programme>
+<programme start="20251114010000 +0000" stop="20251114020000 +0000" channel="Celebrities TV.mncvision">
+    <title>Emang Boleh?</title>
+</programme>
+<programme start="20251114020000 +0000" stop="20251114023000 +0000" channel="Celebrities TV.mncvision">
+    <title>Seleb On News</title>
+</programme>
+<programme start="20251114023000 +0000" stop="20251114030000 +0000" channel="Celebrities TV.mncvision">
+    <title>Go Spot</title>
+</programme>
+<programme start="20251114030000 +0000" stop="20251114040000 +0000" channel="Celebrities TV.mncvision">
+    <title>Obrolan Seputar Selebriti</title>
+</programme>
+<programme start="20251114040000 +0000" stop="20251114050000 +0000" channel="Celebrities TV.mncvision">
+    <title>Tamu Dadakan</title>
+</programme>
+<programme start="20251114050000 +0000" stop="20251114060000 +0000" channel="Celebrities TV.mncvision">
+    <title>Cinta Yasmin</title>
+</programme>
+<programme start="20251114060000 +0000" stop="20251114070000 +0000" channel="Celebrities TV.mncvision">
+    <title>Logika Ahmad Dhani</title>
+</programme>
+<programme start="20251114070000 +0000" stop="20251114073000 +0000" channel="Celebrities TV.mncvision">
+    <title>Today&#039;s Special</title>
+</programme>
+<programme start="20251114073000 +0000" stop="20251114083000 +0000" channel="Celebrities TV.mncvision">
+    <title>Emang Boleh?</title>
+</programme>
+<programme start="20251114083000 +0000" stop="20251114093000 +0000" channel="Celebrities TV.mncvision">
+    <title>Obrolan Seputar Selebriti</title>
+</programme>
+<programme start="20251114093000 +0000" stop="20251114100000 +0000" channel="Celebrities TV.mncvision">
+    <title>Go Spot</title>
+</programme>
+<programme start="20251114100000 +0000" stop="20251114103000 +0000" channel="Celebrities TV.mncvision">
+    <title>Super Papa</title>
+</programme>
+<programme start="20251114103000 +0000" stop="20251114110000 +0000" channel="Celebrities TV.mncvision">
+    <title>Seleb On News</title>
+</programme>
+<programme start="20251114110000 +0000" stop="20251114120000 +0000" channel="Celebrities TV.mncvision">
+    <title>iSeleb</title>
+</programme>
+<programme start="20251114120000 +0000" stop="20251114123000 +0000" channel="Celebrities TV.mncvision">
+    <title>Celebrity Top 10</title>
+</programme>
+<programme start="20251114123000 +0000" stop="20251114130000 +0000" channel="Celebrities TV.mncvision">
+    <title>Go Spot</title>
+</programme>
+<programme start="20251114130000 +0000" stop="20251114140000 +0000" channel="Celebrities TV.mncvision">
+    <title>Obrolan Seputar Selebriti</title>
+</programme>
+<programme start="20251114140000 +0000" stop="20251114150000 +0000" channel="Celebrities TV.mncvision">
+    <title>Emang Boleh?</title>
+</programme>
+<programme start="20251114150000 +0000" stop="20251114160000 +0000" channel="Celebrities TV.mncvision">
+    <title>iSeleb</title>
+</programme>
+<programme start="20251114160000 +0000" stop="20251114163000 +0000" channel="Celebrities TV.mncvision">
+    <title>Celebrity Top 10</title>
+</programme>
+<programme start="20251114163000 +0000" stop="20251113170000 +0000" channel="Celebrities TV.mncvision">
+    <title>Seleb On News</title>
+</programme>
+<programme start="20251113180300 +0000" stop="20251113195900 +0000" channel="Celestial Movies.mncvision">
+    <title>Hong Kong Family</title>
+</programme>
+<programme start="20251113195900 +0000" stop="20251113220100 +0000" channel="Celestial Movies.mncvision">
+    <title>High Forces</title>
+</programme>
+<programme start="20251113220100 +0000" stop="20251113235700 +0000" channel="Celestial Movies.mncvision">
+    <title>Tales From The Occult</title>
+</programme>
+<programme start="20251113235700 +0000" stop="20251114021000 +0000" channel="Celestial Movies.mncvision">
+    <title>Chasing The Dragon</title>
+</programme>
+<programme start="20251114021000 +0000" stop="20251114040700 +0000" channel="Celestial Movies.mncvision">
+    <title>Unbeatable</title>
+</programme>
+<programme start="20251114040700 +0000" stop="20251114062400 +0000" channel="Celestial Movies.mncvision">
+    <title>Only Cloud Knows</title>
+</programme>
+<programme start="20251114062400 +0000" stop="20251114084200 +0000" channel="Celestial Movies.mncvision">
+    <title>A Guilty Conscience</title>
+</programme>
+<programme start="20251114084200 +0000" stop="20251114103500 +0000" channel="Celestial Movies.mncvision">
+    <title>From Vegas To Macau 3</title>
+</programme>
+<programme start="20251114103500 +0000" stop="20251114122500 +0000" channel="Celestial Movies.mncvision">
+    <title>Fox Hunt</title>
+</programme>
+<programme start="20251114122500 +0000" stop="20251114140000 +0000" channel="Celestial Movies.mncvision">
+    <title>Reunion Dinner</title>
+</programme>
+<programme start="20251114140000 +0000" stop="20251114154300 +0000" channel="Celestial Movies.mncvision">
+    <title>Just 1 Day</title>
+</programme>
+<programme start="20251114154300 +0000" stop="20251114161300 +0000" channel="Celestial Movies.mncvision">
+    <title>A Legend</title>
+</programme>
+<programme start="20251113170000 +0000" stop="20251113180000 +0000" channel="CGTN.mncvision">
+    <title>Africa Live</title>
+</programme>
+<programme start="20251113180000 +0000" stop="20251113190000 +0000" channel="CGTN.mncvision">
+    <title>Global Business</title>
+</programme>
+<programme start="20251113190000 +0000" stop="20251113193000 +0000" channel="CGTN.mncvision">
+    <title>The World Today</title>
+</programme>
+<programme start="20251113193000 +0000" stop="20251113200000 +0000" channel="CGTN.mncvision">
+    <title>World Insight With Tian Wei</title>
+</programme>
+<programme start="20251113200000 +0000" stop="20251113203000 +0000" channel="CGTN.mncvision">
+    <title>The World Today</title>
+</programme>
+<programme start="20251113203000 +0000" stop="20251113210000 +0000" channel="CGTN.mncvision">
+    <title>Dialogue</title>
+</programme>
+<programme start="20251113210000 +0000" stop="20251113213000 +0000" channel="CGTN.mncvision">
+    <title>Global Business</title>
+</programme>
+<programme start="20251113213000 +0000" stop="20251113220000 +0000" channel="CGTN.mncvision">
+    <title>The Hub With Wang Guan</title>
+</programme>
+<programme start="20251113220000 +0000" stop="20251113223000 +0000" channel="CGTN.mncvision">
+    <title>The World Today</title>
+</programme>
+<programme start="20251113223000 +0000" stop="20251113230000 +0000" channel="CGTN.mncvision">
+    <title>Rediscovering China</title>
+</programme>
+<programme start="20251113230000 +0000" stop="20251113233000 +0000" channel="CGTN.mncvision">
+    <title>The Heat</title>
+</programme>
+<programme start="20251113233000 +0000" stop="20251114000000 +0000" channel="CGTN.mncvision">
+    <title>The World Today</title>
+</programme>
+<programme start="20251114000000 +0000" stop="20251114010000 +0000" channel="CGTN.mncvision">
+    <title>Global Business</title>
+</programme>
+<programme start="20251114010000 +0000" stop="20251114013000 +0000" channel="CGTN.mncvision">
+    <title>The World Today</title>
+</programme>
+<programme start="20251114013000 +0000" stop="20251114020000 +0000" channel="CGTN.mncvision">
+    <title>China 24</title>
+</programme>
+<programme start="20251114020000 +0000" stop="20251114023000 +0000" channel="CGTN.mncvision">
+    <title>The World Today</title>
+</programme>
+<programme start="20251114023000 +0000" stop="20251114030000 +0000" channel="CGTN.mncvision">
+    <title>World Insight With Tian Wei</title>
+</programme>
+<programme start="20251114030000 +0000" stop="20251114031500 +0000" channel="CGTN.mncvision">
+    <title>The World Today</title>
+</programme>
+<programme start="20251114031500 +0000" stop="20251114033000 +0000" channel="CGTN.mncvision">
+    <title>Sports Scene</title>
+</programme>
+<programme start="20251114033000 +0000" stop="20251114040000 +0000" channel="CGTN.mncvision">
+    <title>The Point With Liu Xin</title>
+</programme>
+<programme start="20251114040000 +0000" stop="20251114050000 +0000" channel="CGTN.mncvision">
+    <title>Global Watch</title>
+</programme>
+<programme start="20251114050000 +0000" stop="20251114051500 +0000" channel="CGTN.mncvision">
+    <title>The World Today</title>
+</programme>
+<programme start="20251114051500 +0000" stop="20251114053000 +0000" channel="CGTN.mncvision">
+    <title>Sports Scene</title>
+</programme>
+<programme start="20251114053000 +0000" stop="20251114060000 +0000" channel="CGTN.mncvision">
+    <title>Assignment Asia</title>
+</programme>
+<programme start="20251114060000 +0000" stop="20251114063000 +0000" channel="CGTN.mncvision">
+    <title>The World Today</title>
+</programme>
+<programme start="20251114063000 +0000" stop="20251114070000 +0000" channel="CGTN.mncvision">
+    <title>The Heat</title>
+</programme>
+<programme start="20251114070000 +0000" stop="20251114073000 +0000" channel="CGTN.mncvision">
+    <title>The World Today</title>
+</programme>
+<programme start="20251114073000 +0000" stop="20251114080000 +0000" channel="CGTN.mncvision">
+    <title>Sports Scene</title>
+</programme>
+<programme start="20251114080000 +0000" stop="20251114081500 +0000" channel="CGTN.mncvision">
+    <title>The World Today</title>
+</programme>
+<programme start="20251114081500 +0000" stop="20251114090000 +0000" channel="CGTN.mncvision">
+    <title>Global Business</title>
+</programme>
+<programme start="20251114090000 +0000" stop="20251114093000 +0000" channel="CGTN.mncvision">
+    <title>The World Today</title>
+</programme>
+<programme start="20251114093000 +0000" stop="20251114100000 +0000" channel="CGTN.mncvision">
+    <title>The Vibe</title>
+</programme>
+<programme start="20251114100000 +0000" stop="20251114101500 +0000" channel="CGTN.mncvision">
+    <title>The World Today</title>
+</programme>
+<programme start="20251114101500 +0000" stop="20251114110000 +0000" channel="CGTN.mncvision">
+    <title>Africa Live</title>
+</programme>
+<programme start="20251114110000 +0000" stop="20251114113000 +0000" channel="CGTN.mncvision">
+    <title>Asia Today</title>
+</programme>
+<programme start="20251114113000 +0000" stop="20251114120000 +0000" channel="CGTN.mncvision">
+    <title>Dialogue</title>
+</programme>
+<programme start="20251114120000 +0000" stop="20251114121500 +0000" channel="CGTN.mncvision">
+    <title>The World Today</title>
+</programme>
+<programme start="20251114121500 +0000" stop="20251114130000 +0000" channel="CGTN.mncvision">
+    <title>China 24</title>
+</programme>
+<programme start="20251114130000 +0000" stop="20251114133000 +0000" channel="CGTN.mncvision">
+    <title>Global Business</title>
+</programme>
+<programme start="20251114133000 +0000" stop="20251114140000 +0000" channel="CGTN.mncvision">
+    <title>The Point With Liu Xin</title>
+</programme>
+<programme start="20251114140000 +0000" stop="20251114143000 +0000" channel="CGTN.mncvision">
+    <title>The World Today</title>
+</programme>
+<programme start="20251114143000 +0000" stop="20251114150000 +0000" channel="CGTN.mncvision">
+    <title>World Insight With Tian Wei</title>
+</programme>
+<programme start="20251114150000 +0000" stop="20251114153000 +0000" channel="CGTN.mncvision">
+    <title>The World Today</title>
+</programme>
+<programme start="20251114153000 +0000" stop="20251114160000 +0000" channel="CGTN.mncvision">
+    <title>The Vibe</title>
+</programme>
+<programme start="20251114160000 +0000" stop="20251114163000 +0000" channel="CGTN.mncvision">
+    <title>Global Business</title>
+</programme>
 <programme start="20251113170000 +0000" stop="20251113173000 +0000" channel="CGTN Documentary.mncvision">
     <title>China&#039;s Green Revolution, Ep 4</title>
 </programme>
@@ -3335,9 +3637,240 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20251114160000 +0000" stop="20251114163000 +0000" channel="FOX News.mncvision">
     <title>The Faulkner Focus</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20251113170000 +0000" stop="20251113171000 +0000" channel="France 24 English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20251113171000 +0000" stop="20251113175300 +0000" channel="France 24 English.mncvision">
+    <title>The Debate (L)</title>
+</programme>
+<programme start="20251113175300 +0000" stop="20251113180000 +0000" channel="France 24 English.mncvision">
+    <title>Short Cuts</title>
+</programme>
+<programme start="20251113180000 +0000" stop="20251113182000 +0000" channel="France 24 English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20251113182000 +0000" stop="20251113183000 +0000" channel="France 24 English.mncvision">
+    <title>Sports (L)</title>
+</programme>
+<programme start="20251113183000 +0000" stop="20251113184500 +0000" channel="France 24 English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20251113184500 +0000" stop="20251113185100 +0000" channel="France 24 English.mncvision">
+    <title>Truth Or Fake (L)</title>
+</programme>
+<programme start="20251113185100 +0000" stop="20251113190000 +0000" channel="France 24 English.mncvision">
+    <title>Focus (L)</title>
+</programme>
+<programme start="20251113190000 +0000" stop="20251113192000 +0000" channel="France 24 English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20251113192000 +0000" stop="20251113193000 +0000" channel="France 24 English.mncvision">
+    <title>Business (L)</title>
+</programme>
+<programme start="20251113193000 +0000" stop="20251113194000 +0000" channel="France 24 English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20251113194000 +0000" stop="20251113200000 +0000" channel="France 24 English.mncvision">
+    <title>Eye On Africa (L)</title>
+</programme>
+<programme start="20251113200000 +0000" stop="20251113201500 +0000" channel="France 24 English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20251113201500 +0000" stop="20251113202100 +0000" channel="France 24 English.mncvision">
+    <title>Business (L)</title>
+</programme>
+<programme start="20251113202100 +0000" stop="20251113203000 +0000" channel="France 24 English.mncvision">
+    <title>Truth Or Fake (L)</title>
+</programme>
+<programme start="20251113203000 +0000" stop="20251113203200 +0000" channel="France 24 English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20251113203200 +0000" stop="20251113204400 +0000" channel="France 24 English.mncvision">
+    <title>A Propos (L)</title>
+</programme>
+<programme start="20251113204400 +0000" stop="20251113210000 +0000" channel="France 24 English.mncvision">
+    <title>Eye On Africa (L)</title>
+</programme>
+<programme start="20251113210000 +0000" stop="20251113211500 +0000" channel="France 24 English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20251113211500 +0000" stop="20251113213000 +0000" channel="France 24 English.mncvision">
+    <title>Business + Truth Or Fake</title>
+</programme>
+<programme start="20251113213000 +0000" stop="20251113214500 +0000" channel="France 24 English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20251113214500 +0000" stop="20251113215100 +0000" channel="France 24 English.mncvision">
+    <title>Sports (L)</title>
+</programme>
+<programme start="20251113215100 +0000" stop="20251113220000 +0000" channel="France 24 English.mncvision">
+    <title>Focus Semaine</title>
+</programme>
+<programme start="20251113220000 +0000" stop="20251113221000 +0000" channel="France 24 English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20251113221000 +0000" stop="20251113225300 +0000" channel="France 24 English.mncvision">
+    <title>The Debate</title>
+</programme>
+<programme start="20251113225300 +0000" stop="20251113230000 +0000" channel="France 24 English.mncvision">
+    <title>Short Cuts</title>
+</programme>
+<programme start="20251113230000 +0000" stop="20251113231500 +0000" channel="France 24 English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20251113231500 +0000" stop="20251113232000 +0000" channel="France 24 English.mncvision">
+    <title>Business</title>
+</programme>
+<programme start="20251113232000 +0000" stop="20251113233000 +0000" channel="France 24 English.mncvision">
+    <title>Focus Semaine</title>
+</programme>
+<programme start="20251113233000 +0000" stop="20251113234500 +0000" channel="France 24 English.mncvision">
+    <title>Bulletin (L)</title>
+</programme>
+<programme start="20251113234500 +0000" stop="20251114000000 +0000" channel="France 24 English.mncvision">
+    <title>Arts24</title>
+</programme>
+<programme start="20251114000000 +0000" stop="20251114001500 +0000" channel="France 24 English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20251114001500 +0000" stop="20251114003000 +0000" channel="France 24 English.mncvision">
+    <title>A Propos</title>
+</programme>
+<programme start="20251114003000 +0000" stop="20251114004500 +0000" channel="France 24 English.mncvision">
+    <title>Bulletin (L)</title>
+</programme>
+<programme start="20251114004500 +0000" stop="20251114010000 +0000" channel="France 24 English.mncvision">
+    <title>Eye On Africa</title>
+</programme>
+<programme start="20251114010000 +0000" stop="20251114011000 +0000" channel="France 24 English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20251114011000 +0000" stop="20251114015300 +0000" channel="France 24 English.mncvision">
+    <title>The Debate</title>
+</programme>
+<programme start="20251114015300 +0000" stop="20251114020000 +0000" channel="France 24 English.mncvision">
+    <title>Short Cuts</title>
+</programme>
+<programme start="20251114020000 +0000" stop="20251114021500 +0000" channel="France 24 English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20251114021500 +0000" stop="20251114023000 +0000" channel="France 24 English.mncvision">
+    <title>Talking Europe, Pt 2</title>
+</programme>
+<programme start="20251114023000 +0000" stop="20251114024500 +0000" channel="France 24 English.mncvision">
+    <title>Bulletin (L)</title>
+</programme>
+<programme start="20251114024500 +0000" stop="20251114025100 +0000" channel="France 24 English.mncvision">
+    <title>French Connections</title>
+</programme>
+<programme start="20251114025100 +0000" stop="20251114030000 +0000" channel="France 24 English.mncvision">
+    <title>The Observers</title>
+</programme>
+<programme start="20251114030000 +0000" stop="20251114031500 +0000" channel="France 24 English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20251114031500 +0000" stop="20251114033000 +0000" channel="France 24 English.mncvision">
+    <title>Eye On Africa</title>
+</programme>
+<programme start="20251114033000 +0000" stop="20251114034500 +0000" channel="France 24 English.mncvision">
+    <title>Bulletin (L)</title>
+</programme>
+<programme start="20251114034500 +0000" stop="20251114040000 +0000" channel="France 24 English.mncvision">
+    <title>Arts24</title>
+</programme>
+<programme start="20251114040000 +0000" stop="20251114042000 +0000" channel="France 24 English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20251114042000 +0000" stop="20251114042100 +0000" channel="France 24 English.mncvision">
+    <title>Introduction (L)</title>
+</programme>
+<programme start="20251114042100 +0000" stop="20251114045100 +0000" channel="France 24 English.mncvision">
+    <title>Focus (L)</title>
+</programme>
+<programme start="20251113171500 +0000" stop="20251113190000 +0000" channel="Galaxy.mncvision">
+    <title>Look Away</title>
+</programme>
+<programme start="20251113190000 +0000" stop="20251113203000 +0000" channel="Galaxy.mncvision">
+    <title>Wicked Games</title>
+</programme>
+<programme start="20251113203000 +0000" stop="20251113220500 +0000" channel="Galaxy.mncvision">
+    <title>The Retaliators</title>
+</programme>
+<programme start="20251113220500 +0000" stop="20251113234500 +0000" channel="Galaxy.mncvision">
+    <title>Born To Dance</title>
+</programme>
+<programme start="20251113234500 +0000" stop="20251114013500 +0000" channel="Galaxy.mncvision">
+    <title>Outlaws And Angels</title>
+</programme>
+<programme start="20251114013500 +0000" stop="20251114030000 +0000" channel="Galaxy.mncvision">
+    <title>Operation Seawolf</title>
+</programme>
+<programme start="20251114030000 +0000" stop="20251114043500 +0000" channel="Galaxy.mncvision">
+    <title>First Love</title>
+</programme>
+<programme start="20251114043500 +0000" stop="20251114060000 +0000" channel="Galaxy.mncvision">
+    <title>The Curse Of The Clown Motel</title>
+</programme>
+<programme start="20251114060000 +0000" stop="20251114072000 +0000" channel="Galaxy.mncvision">
+    <title>Nature Calls</title>
+</programme>
+<programme start="20251114072000 +0000" stop="20251114090000 +0000" channel="Galaxy.mncvision">
+    <title>Gunfight At Dry River</title>
+</programme>
+<programme start="20251114090000 +0000" stop="20251114103000 +0000" channel="Galaxy.mncvision">
+    <title>Intruder</title>
+</programme>
+<programme start="20251114103000 +0000" stop="20251114120000 +0000" channel="Galaxy.mncvision">
+    <title>Gutshot Straight</title>
+</programme>
+<programme start="20251114120000 +0000" stop="20251114133000 +0000" channel="Galaxy.mncvision">
+    <title>Cursed</title>
+</programme>
+<programme start="20251114133000 +0000" stop="20251114152500 +0000" channel="Galaxy.mncvision">
+    <title>Call Me King</title>
+</programme>
+<programme start="20251114152500 +0000" stop="20251114155500 +0000" channel="Galaxy.mncvision">
+    <title>A Street Cat Named Bob</title>
+</programme>
+<programme start="20251113181000 +0000" stop="20251113200000 +0000" channel="Galaxy Premium.mncvision">
+    <title>Insidious: Chapter 2</title>
+</programme>
+<programme start="20251113200000 +0000" stop="20251113215000 +0000" channel="Galaxy Premium.mncvision">
+    <title>White Boy Rick</title>
+</programme>
+<programme start="20251113215000 +0000" stop="20251113235500 +0000" channel="Galaxy Premium.mncvision">
+    <title>The Core</title>
+</programme>
+<programme start="20251113235500 +0000" stop="20251114015000 +0000" channel="Galaxy Premium.mncvision">
+    <title>Pain &amp; Gain</title>
+</programme>
+<programme start="20251114015000 +0000" stop="20251114041500 +0000" channel="Galaxy Premium.mncvision">
+    <title>The Da Vinci Code</title>
+</programme>
+<programme start="20251114041500 +0000" stop="20251114055000 +0000" channel="Galaxy Premium.mncvision">
+    <title>The Last Airbender</title>
+</programme>
+<programme start="20251114055000 +0000" stop="20251114072000 +0000" channel="Galaxy Premium.mncvision">
+    <title>The Grudge</title>
+</programme>
+<programme start="20251114072000 +0000" stop="20251114092000 +0000" channel="Galaxy Premium.mncvision">
+    <title>Arrival</title>
+</programme>
+<programme start="20251114092000 +0000" stop="20251114104500 +0000" channel="Galaxy Premium.mncvision">
+    <title>Paul Blart: Mall Cop</title>
+</programme>
+<programme start="20251114104500 +0000" stop="20251114122000 +0000" channel="Galaxy Premium.mncvision">
+    <title>Resident Evil: Afterlife</title>
+</programme>
+<programme start="20251114122000 +0000" stop="20251114140000 +0000" channel="Galaxy Premium.mncvision">
+    <title>Charlie&#039;s Angels: Full Throttle</title>
+</programme>
+<programme start="20251114140000 +0000" stop="20251114153000 +0000" channel="Galaxy Premium.mncvision">
+    <title>SpongeBob Movie: Out Of Water</title>
+</programme>
+<programme start="20251114153000 +0000" stop="20251114160000 +0000" channel="Galaxy Premium.mncvision">
+    <title>Transformers: The Last Knight</title>
+</programme>
 <programme start="20251113172500 +0000" stop="20251113182000 +0000" channel="Global Trekker.mncvision">
     <title>Air Warriors S7, Ep 1</title>
 </programme>
@@ -5412,60 +5945,6 @@ Error: Unable to fetch data. HTTP Status Code: 500
     <title>DMD Panggung Rezeki (L)</title>
 </programme>
 <programme start="20251114160000 +0000" stop="20251114163000 +0000" channel="MNCTV.mncvision">
-    <title>Jack Dan Danil</title>
-</programme>
-<programme start="20251113170000 +0000" stop="20251113190000 +0000" channel="MNCTV HD.mncvision">
-    <title>Suparman Reborn</title>
-</programme>
-<programme start="20251113190000 +0000" stop="20251113210000 +0000" channel="MNCTV HD.mncvision">
-    <title>Suparman Reborn</title>
-</programme>
-<programme start="20251113210000 +0000" stop="20251113220000 +0000" channel="MNCTV HD.mncvision">
-    <title>Lintas iNews Pagi</title>
-</programme>
-<programme start="20251113220000 +0000" stop="20251113230000 +0000" channel="MNCTV HD.mncvision">
-    <title>Siraman Qolbu</title>
-</programme>
-<programme start="20251113230000 +0000" stop="20251113231500 +0000" channel="MNCTV HD.mncvision">
-    <title>CoComelon</title>
-</programme>
-<programme start="20251113231500 +0000" stop="20251114001500 +0000" channel="MNCTV HD.mncvision">
-    <title>Kiko</title>
-</programme>
-<programme start="20251114001500 +0000" stop="20251114010000 +0000" channel="MNCTV HD.mncvision">
-    <title>Kung Fu Panda Sang Pendekar</title>
-</programme>
-<programme start="20251114010000 +0000" stop="20251114023000 +0000" channel="MNCTV HD.mncvision">
-    <title>Upin &amp; Ipin</title>
-</programme>
-<programme start="20251114023000 +0000" stop="20251114033000 +0000" channel="MNCTV HD.mncvision">
-    <title>Seleb On News</title>
-</programme>
-<programme start="20251114033000 +0000" stop="20251114041500 +0000" channel="MNCTV HD.mncvision">
-    <title>Lintas iNews Siang</title>
-</programme>
-<programme start="20251114041500 +0000" stop="20251114063000 +0000" channel="MNCTV HD.mncvision">
-    <title>Upin &amp; Ipin</title>
-</programme>
-<programme start="20251114063000 +0000" stop="20251114093000 +0000" channel="MNCTV HD.mncvision">
-    <title>WONDR Indonesia Int&#039;l Challenge</title>
-</programme>
-<programme start="20251114093000 +0000" stop="20251114100000 +0000" channel="MNCTV HD.mncvision">
-    <title>Upin &amp; Ipin</title>
-</programme>
-<programme start="20251114100000 +0000" stop="20251114113000 +0000" channel="MNCTV HD.mncvision">
-    <title>Upin &amp; Ipin</title>
-</programme>
-<programme start="20251114113000 +0000" stop="20251114123000 +0000" channel="MNCTV HD.mncvision">
-    <title>Entong</title>
-</programme>
-<programme start="20251114123000 +0000" stop="20251114141500 +0000" channel="MNCTV HD.mncvision">
-    <title>Super Deal</title>
-</programme>
-<programme start="20251114141500 +0000" stop="20251114160000 +0000" channel="MNCTV HD.mncvision">
-    <title>DMD Panggung Rezeki (L)</title>
-</programme>
-<programme start="20251114160000 +0000" stop="20251114163000 +0000" channel="MNCTV HD.mncvision">
     <title>Jack Dan Danil</title>
 </programme>
 <programme start="20251113175400 +0000" stop="20251113181600 +0000" channel="Moonbug.mncvision">
@@ -9126,10 +9605,10 @@ Error: Unable to fetch data. HTTP Status Code: 500
     <title>Cinta Sepenuh Jiwa</title>
 </programme>
 <programme start="20251114000000 +0000" stop="20251114010000 +0000" channel="Vision Prime.mncvision">
-    <title>Lucky Spinner Indonesia</title>
+    <title>Siapa Berani?</title>
 </programme>
 <programme start="20251114010000 +0000" stop="20251114020000 +0000" channel="Vision Prime.mncvision">
-    <title>Supermarket Sweep</title>
+    <title>Lucky Spinner Indonesia</title>
 </programme>
 <programme start="20251114020000 +0000" stop="20251114030000 +0000" channel="Vision Prime.mncvision">
     <title>Intan</title>
@@ -9198,10 +9677,10 @@ Error: Unable to fetch data. HTTP Status Code: 500
     <title>Cinta Sepenuh Jiwa</title>
 </programme>
 <programme start="20251114000000 +0000" stop="20251114010000 +0000" channel="Vision Prime HD.mncvision">
-    <title>Lucky Spinner Indonesia</title>
+    <title>Siapa Berani?</title>
 </programme>
 <programme start="20251114010000 +0000" stop="20251114020000 +0000" channel="Vision Prime HD.mncvision">
-    <title>Supermarket Sweep</title>
+    <title>Lucky Spinner Indonesia</title>
 </programme>
 <programme start="20251114020000 +0000" stop="20251114030000 +0000" channel="Vision Prime HD.mncvision">
     <title>Intan</title>

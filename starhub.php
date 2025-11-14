@@ -6638,7 +6638,7 @@
         <title>MDS 120 Cappadocia</title>
     </programme>
     <programme start="20251114100000 +0000" stop="20251114110000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>UCI Europe Tour - Cro Race H/Ls</title>
+        <title>UCI Europe Tour - Cro Race Highlights</title>
     </programme>
     <programme start="20251114110000 +0000" stop="20251114111500 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Show 133</title>
@@ -6647,16 +6647,10 @@
         <title>Show 134</title>
     </programme>
     <programme start="20251114113000 +0000" stop="20251114120000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Mountain Bike - Roc d&#039;Azur H/Ls</title>
+        <title>Finals Riyadh Highlights Show</title>
     </programme>
-    <programme start="20251114120000 +0000" stop="20251114123000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Finals Riyadh H/Ls Show</title>
-    </programme>
-    <programme start="20251114123000 +0000" stop="20251114130000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Review Show</title>
-    </programme>
-    <programme start="20251114130000 +0000" stop="20251114160000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Day 4 Evening Session</title>
+    <programme start="20251114120000 +0000" stop="20251114160000 +0000" channel="Hub Sports 1  HD.starhub">
+        <title>Kumamoto Masters Japan (500) QF Session 1</title>
     </programme>
     <programme start="20251113141300 +0000" stop="20251113161600 +0000" channel="SONY MAX.starhub">
         <title>Adbhut</title>
