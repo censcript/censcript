@@ -7855,10 +7855,10 @@
     <programme start="20251114231500 +0000" stop="20251115013000 +0000" channel="Asianet Movies.starhub">
         <title>9: Nine</title>
     </programme>
-    <programme start="20251115013000 +0000" stop="20251115043000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251115013000 +0000" stop="20251115043500 +0000" channel="Asianet Movies.starhub">
         <title>Srungaravelan</title>
     </programme>
-    <programme start="20251115043000 +0000" stop="20251115073000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251115043500 +0000" stop="20251115073000 +0000" channel="Asianet Movies.starhub">
         <title>Thuruppugulan</title>
     </programme>
     <programme start="20251115073000 +0000" stop="20251115103000 +0000" channel="Asianet Movies.starhub">
