@@ -1,7 +1,3 @@
-<programme start="20251115180000 +0700" stop="20251115200000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: FC Lausanne - Omonoia FC</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251115200000 +0700" stop="20251115203000 +0700" channel="COSMOTE Sport 1 HD">
     <title>UEFA Champions League Magazine 2025-26 E11</title>
     <desc>Live: Tidak</desc>
@@ -122,6 +118,10 @@
     <title>Football: Panathinaikos - PAOK</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251116202000 +0700" stop="20251116222000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Bologna - SSC Napoli</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251115183000 +0700" stop="20251115203000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Lanus - Universidad de Chile</title>
     <desc>Live: Tidak</desc>
@@ -176,14 +176,6 @@
 </programme>
 <programme start="20251116190000 +0700" stop="20251116210000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Anorthosis Famagusta - Pafos FC</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251115190000 +0700" stop="20251115192500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>ACB Liga Endesa 2025-26 - Fifth Quarter E6</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251115192500 +0700" stop="20251115200000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>NBA Action 2025-26 E3504</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251115200000 +0700" stop="20251115221000 +0700" channel="COSMOTE Sport 4 HD">
@@ -246,9 +238,9 @@
     <title>Basketball: Valencia Basket Club - Tenerife (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251115184000 +0700" stop="20251115193500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: Moto3 2025 (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20251116203000 +0700" stop="20251116223000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Anadolu Efes - Bahcesehir</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251115193500 +0700" stop="20251115204500 +0700" channel="COSMOTE Sport 5 HD">
     <title>Motorsports: Moto2 2025 (L)</title>
@@ -483,6 +475,14 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251116190000 +0700" stop="20251116200000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251116200000 +0700" stop="20251116203000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251116203000 +0700" stop="20251116210000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
