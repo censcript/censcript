@@ -3784,37 +3784,37 @@
   <programme start="20251117044500 +0000" stop="20251117050000 +0000" channel="Prima SK.webtv.sk">
     <title lang="id">Vysielacia prestávka</title>
   </programme>
-  <programme start="20251117050000 +0000" stop="20251117052500 +0000" channel="Prima SK.webtv.sk">
+  <programme start="20251117050000 +0000" stop="20251117053000 +0000" channel="Prima SK.webtv.sk">
     <title lang="id">Čirá voda teče</title>
   </programme>
-  <programme start="20251117052500 +0000" stop="20251117062000 +0000" channel="Prima SK.webtv.sk">
+  <programme start="20251117053000 +0000" stop="20251117062000 +0000" channel="Prima SK.webtv.sk">
     <title lang="id">Receptář prima nápadů</title>
   </programme>
-  <programme start="20251117062000 +0000" stop="20251117065500 +0000" channel="Prima SK.webtv.sk">
+  <programme start="20251117062000 +0000" stop="20251117070000 +0000" channel="Prima SK.webtv.sk">
     <title lang="id">Vychytávky Ládi Hrušky</title>
   </programme>
-  <programme start="20251117065500 +0000" stop="20251117075000 +0000" channel="Prima SK.webtv.sk">
+  <programme start="20251117070000 +0000" stop="20251117075500 +0000" channel="Prima SK.webtv.sk">
     <title lang="id">Zoo Nové začátky (190)</title>
   </programme>
-  <programme start="20251117075000 +0000" stop="20251117091500 +0000" channel="Prima SK.webtv.sk">
+  <programme start="20251117075500 +0000" stop="20251117091500 +0000" channel="Prima SK.webtv.sk">
     <title lang="id">Slnečná I (62)</title>
   </programme>
-  <programme start="20251117091500 +0000" stop="20251117103000 +0000" channel="Prima SK.webtv.sk">
+  <programme start="20251117091500 +0000" stop="20251117103500 +0000" channel="Prima SK.webtv.sk">
     <title lang="id">Cesty domů III (69)</title>
   </programme>
-  <programme start="20251117103000 +0000" stop="20251117114500 +0000" channel="Prima SK.webtv.sk">
+  <programme start="20251117103500 +0000" stop="20251117114500 +0000" channel="Prima SK.webtv.sk">
     <title lang="id">Mladá krev (12)</title>
   </programme>
-  <programme start="20251117114500 +0000" stop="20251117130500 +0000" channel="Prima SK.webtv.sk">
+  <programme start="20251117114500 +0000" stop="20251117131000 +0000" channel="Prima SK.webtv.sk">
     <title lang="id">Slnečná I (63)</title>
   </programme>
-  <programme start="20251117130500 +0000" stop="20251117142500 +0000" channel="Prima SK.webtv.sk">
+  <programme start="20251117131000 +0000" stop="20251117142500 +0000" channel="Prima SK.webtv.sk">
     <title lang="id">Cesty domů III (70)</title>
   </programme>
-  <programme start="20251117142500 +0000" stop="20251117160000 +0000" channel="Prima SK.webtv.sk">
+  <programme start="20251117142500 +0000" stop="20251117160500 +0000" channel="Prima SK.webtv.sk">
     <title lang="id">Máme rádi Česko</title>
   </programme>
-  <programme start="20251117160000 +0000" stop="20251117170000 +0000" channel="Prima SK.webtv.sk">
+  <programme start="20251117160500 +0000" stop="20251117170000 +0000" channel="Prima SK.webtv.sk">
     <title lang="id">Prostřeno!</title>
   </programme>
   <programme start="20251117170000 +0000" stop="20251117175500 +0000" channel="Prima SK.webtv.sk">

@@ -118,6 +118,10 @@
     <title>Football: Bologna - SSC Napoli</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251116222000 +0700" stop="20251117002000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Parma - AC Milan</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251115203000 +0700" stop="20251115223000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Neom - Al Nassr</title>
     <desc>Live: Tidak</desc>
@@ -238,9 +242,9 @@
     <title>Basketball: Anadolu Efes - Bahcesehir</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251115204500 +0700" stop="20251115220000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: MotoGP 2025 (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20251116223000 +0700" stop="20251117010000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Milwaukee Bucks - Los Angeles Lakers</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251115220000 +0700" stop="20251115221500 +0700" channel="COSMOTE Sport 5 HD">
     <title>Sports Highlights</title>
@@ -344,6 +348,10 @@
 </programme>
 <programme start="20251116214500 +0700" stop="20251116224500 +0700" channel="COSMOTE Sport 5 HD">
     <title>DTM</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251116224500 +0700" stop="20251117000000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Grand Prix Show 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251115203000 +0700" stop="20251115230000 +0700" channel="COSMOTE Sport 6 HD">
