@@ -4018,10 +4018,10 @@
   <programme start="20251117050000 +0000" stop="20251117051000 +0000" channel="Prima Cool SK.webtv.sk">
     <title lang="id">Vlakem přes Labské údolí</title>
   </programme>
-  <programme start="20251117051000 +0000" stop="20251117063000 +0000" channel="Prima Cool SK.webtv.sk">
+  <programme start="20251117051000 +0000" stop="20251117063500 +0000" channel="Prima Cool SK.webtv.sk">
     <title lang="id">Top Gear: Patagonský speciál (2)</title>
   </programme>
-  <programme start="20251117063000 +0000" stop="20251117073000 +0000" channel="Prima Cool SK.webtv.sk">
+  <programme start="20251117063500 +0000" stop="20251117073000 +0000" channel="Prima Cool SK.webtv.sk">
     <title lang="id">Prima Partička</title>
   </programme>
   <programme start="20251117073000 +0000" stop="20251117083000 +0000" channel="Prima Cool SK.webtv.sk">
@@ -4078,7 +4078,7 @@
   <programme start="20251117221500 +0000" stop="20251117223500 +0000" channel="Prima Cool SK.webtv.sk">
     <title lang="id">Simpsonovi IX (24)</title>
   </programme>
-  <programme start="20251117223500 +0000" stop="20251117233000 +0000" channel="Prima Cool SK.webtv.sk">
+  <programme start="20251117223500 +0000" stop="20251117233500 +0000" channel="Prima Cool SK.webtv.sk">
     <title lang="id">Top Gear speciál: Festival v Sydney</title>
   </programme>
   <programme start="20251116221500 +0000" stop="20251116232500 +0000" channel="Prima Love SK.webtv.sk">
@@ -4177,31 +4177,31 @@
   <programme start="20251117044500 +0000" stop="20251117050000 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Vysielacia prestávka</title>
   </programme>
-  <programme start="20251117050000 +0000" stop="20251117082000 +0000" channel="Prima Krimi SK.webtv.sk">
+  <programme start="20251117050000 +0000" stop="20251117083000 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Noční dobrodružství</title>
   </programme>
-  <programme start="20251117082000 +0000" stop="20251117100000 +0000" channel="Prima Krimi SK.webtv.sk">
+  <programme start="20251117083000 +0000" stop="20251117101000 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Vraždy v Midsomeru V (4)</title>
   </programme>
-  <programme start="20251117100000 +0000" stop="20251117104500 +0000" channel="Prima Krimi SK.webtv.sk">
+  <programme start="20251117101000 +0000" stop="20251117105000 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Prvních 48 hodin XXIV (16)</title>
   </programme>
-  <programme start="20251117104500 +0000" stop="20251117121500 +0000" channel="Prima Krimi SK.webtv.sk">
+  <programme start="20251117105000 +0000" stop="20251117122500 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Big Ben II (9)</title>
   </programme>
-  <programme start="20251117121500 +0000" stop="20251117135500 +0000" channel="Prima Krimi SK.webtv.sk">
+  <programme start="20251117122500 +0000" stop="20251117140000 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Julie Lescautová II (8)</title>
   </programme>
-  <programme start="20251117135500 +0000" stop="20251117153500 +0000" channel="Prima Krimi SK.webtv.sk">
+  <programme start="20251117140000 +0000" stop="20251117154000 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Vraždy v Midsomeru V (3)</title>
   </programme>
-  <programme start="20251117153500 +0000" stop="20251117162000 +0000" channel="Prima Krimi SK.webtv.sk">
+  <programme start="20251117154000 +0000" stop="20251117162000 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Prvních 48 hodin XXIV (18)</title>
   </programme>
-  <programme start="20251117162000 +0000" stop="20251117170000 +0000" channel="Prima Krimi SK.webtv.sk">
+  <programme start="20251117162000 +0000" stop="20251117170500 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Prvních 48 hodin XXIV (19)</title>
   </programme>
-  <programme start="20251117170000 +0000" stop="20251117174500 +0000" channel="Prima Krimi SK.webtv.sk">
+  <programme start="20251117170500 +0000" stop="20251117174500 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Prvních 48 hodin XXIV (20)</title>
   </programme>
   <programme start="20251117174500 +0000" stop="20251117183000 +0000" channel="Prima Krimi SK.webtv.sk">
@@ -9034,29 +9034,26 @@
   <programme start="20251117040000 +0000" stop="20251117043000 +0000" channel="FilmBox.webtv.sk">
     <title lang="id">Noční tabule</title>
   </programme>
-  <programme start="20251117043000 +0000" stop="20251117064000 +0000" channel="FilmBox.webtv.sk">
+  <programme start="20251117043000 +0000" stop="20251117063500 +0000" channel="FilmBox.webtv.sk">
     <title lang="id">Lízin let do nebe</title>
   </programme>
-  <programme start="20251117064000 +0000" stop="20251117084500 +0000" channel="FilmBox.webtv.sk">
+  <programme start="20251117063500 +0000" stop="20251117084500 +0000" channel="FilmBox.webtv.sk">
     <title lang="id">Lízino štěstí</title>
   </programme>
-  <programme start="20251117084500 +0000" stop="20251117105000 +0000" channel="FilmBox.webtv.sk">
+  <programme start="20251117084500 +0000" stop="20251117104500 +0000" channel="FilmBox.webtv.sk">
     <title lang="id">Jak jsme hráli čáru</title>
   </programme>
-  <programme start="20251117105000 +0000" stop="20251117125000 +0000" channel="FilmBox.webtv.sk">
+  <programme start="20251117104500 +0000" stop="20251117125000 +0000" channel="FilmBox.webtv.sk">
     <title lang="id">Spící město</title>
   </programme>
   <programme start="20251117125000 +0000" stop="20251117144000 +0000" channel="FilmBox.webtv.sk">
     <title lang="id">Ryba na suchu</title>
   </programme>
-  <programme start="20251117144000 +0000" stop="20251117170000 +0000" channel="FilmBox.webtv.sk">
+  <programme start="20251117144000 +0000" stop="20251117165500 +0000" channel="FilmBox.webtv.sk">
     <title lang="id">Jak se krotí krokodýl</title>
   </programme>
-  <programme start="20251117170000 +0000" stop="20251117180000 +0000" channel="FilmBox.webtv.sk">
-    <title lang="id">Lovci pokladů I (13)</title>
-  </programme>
-  <programme start="20251117180000 +0000" stop="20251117190000 +0000" channel="FilmBox.webtv.sk">
-    <title lang="id">Lovci pokladů I (14)</title>
+  <programme start="20251117165500 +0000" stop="20251117190000 +0000" channel="FilmBox.webtv.sk">
+    <title lang="id">Vraždy na vinicích I</title>
   </programme>
   <programme start="20251117190000 +0000" stop="20251117203000 +0000" channel="FilmBox.webtv.sk">
     <title lang="id">Tankový prapor</title>
