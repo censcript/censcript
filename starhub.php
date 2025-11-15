@@ -2068,14 +2068,26 @@
     <programme start="20251114170000 +0000" stop="20251114200000 +0000" channel="KTV HD.starhub">
         <title>Movie - Charlie Chaplin</title>
     </programme>
-    <programme start="20251114200000 +0000" stop="20251115040000 +0000" channel="KTV HD.starhub">
-        <title>Information Not Available</title>
+    <programme start="20251114223000 +0000" stop="20251115010000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Krishna Krishnaa</title>
     </programme>
-    <programme start="20251115040000 +0000" stop="20251115100000 +0000" channel="KTV HD.starhub">
-        <title>Information Not Available</title>
+    <programme start="20251115010000 +0000" stop="20251115013000 +0000" channel="KTV HD.starhub">
+        <title>Fillers</title>
     </programme>
-    <programme start="20251115100000 +0000" stop="20251115160000 +0000" channel="KTV HD.starhub">
-        <title>Information Not Available</title>
+    <programme start="20251115013000 +0000" stop="20251115043000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Pongalo Pongal</title>
+    </programme>
+    <programme start="20251115043000 +0000" stop="20251115073000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Raajiyam</title>
+    </programme>
+    <programme start="20251115073000 +0000" stop="20251115103000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Masani</title>
+    </programme>
+    <programme start="20251115103000 +0000" stop="20251115133000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Sivapathikaram</title>
+    </programme>
+    <programme start="20251115133000 +0000" stop="20251115170000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Ayalaan</title>
     </programme>
     <programme start="20251114160000 +0000" stop="20251114170000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>Beijing</title>
