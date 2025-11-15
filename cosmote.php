@@ -114,6 +114,10 @@
     <title>Football: FC Internazionale Milano - SS Lazio</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251117043000 +0700" stop="20251117050000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Serie A Full Impact 2025-26 E11</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251116030000 +0700" stop="20251116050000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: SC Braga - Moreirense</title>
     <desc>Live: Tidak</desc>
@@ -166,8 +170,8 @@
     <title>Football: 2025 Socca Champions League</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251116025000 +0700" stop="20251116032500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>NBA on Fire 2025-26 E3</title>
+<programme start="20251117044000 +0700" stop="20251117054000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: 2025 Socca Champions League</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251116032500 +0700" stop="20251116052500 +0700" channel="COSMOTE Sport 4 HD">
@@ -229,10 +233,6 @@
 <programme start="20251117033000 +0700" stop="20251117063000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Boston Celtics - Los Angeles Clippers (L)</title>
     <desc>Live: Ya</desc>
-</programme>
-<programme start="20251116024500 +0700" stop="20251116034500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: Moto2 2025</title>
-    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251116034500 +0700" stop="20251116045000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Motorsports: MotoGP 2025</title>
@@ -330,6 +330,10 @@
     <title>Motorsports: Moto2 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251117043000 +0700" stop="20251117055000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: Moto3 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251116023000 +0700" stop="20251116050000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Carlos Alcaraz - Felix Auger-Aliassime (L)</title>
     <desc>Live: Ya</desc>
@@ -392,14 +396,6 @@
 </programme>
 <programme start="20251117030000 +0700" stop="20251117060000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Nitto ATP Finals 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251116010000 +0700" stop="20251116033000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>Premier Padel Tour 2025 (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20251116033000 +0700" stop="20251116040000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251116040000 +0700" stop="20251116050000 +0700" channel="COSMOTE Sport 7 HD">
@@ -588,6 +584,10 @@
 </programme>
 <programme start="20251117010000 +0700" stop="20251117042500 +0700" channel="COSMOTE Sport 9 HD">
     <title>American Football: Buffalo Bills - Tampa Bay Buccaneers (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
+<programme start="20251117042500 +0700" stop="20251117075500 +0700" channel="COSMOTE Sport 9 HD">
+    <title>American Football: Denver Broncos - Kansas City Chiefs (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 No EPG found for COSMOTE Sport 10 HD
