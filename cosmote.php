@@ -58,6 +58,10 @@
     <title>Highlights: UEL &amp; UECL 2025-26</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251117003000 +0700" stop="20251117010000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEFA Champions League Magazine 2025-26 E11</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251115225000 +0700" stop="20251116005000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: FC Internazionale Milano - SS Lazio</title>
     <desc>Live: Tidak</desc>
@@ -112,6 +116,10 @@
 </programme>
 <programme start="20251116222000 +0700" stop="20251117002000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Parma - AC Milan</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251117002000 +0700" stop="20251117023000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Panetolikos - AEL Novibet</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251115223000 +0700" stop="20251116003000 +0700" channel="COSMOTE Sport 3 HD">
@@ -230,14 +238,6 @@
     <title>Basketball: Milwaukee Bucks - Los Angeles Lakers</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251115221500 +0700" stop="20251115230500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: Moto3 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251115230500 +0700" stop="20251115235500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: Moto2 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251115235500 +0700" stop="20251116004000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Motorsports: MotoGP 2025</title>
     <desc>Live: Tidak</desc>
@@ -334,13 +334,13 @@
     <title>Grand Prix Show 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251115230000 +0700" stop="20251115233000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Premier Padel Tour 2025 - Highlights</title>
+<programme start="20251117000000 +0700" stop="20251117003000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Extreme E - Highlights 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251115233000 +0700" stop="20251116000000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Sports Classics: 2025 Sports Rundown E6</title>
-    <desc>Live: Tidak</desc>
+<programme start="20251117003000 +0700" stop="20251117013000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Gala (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20251116000000 +0700" stop="20251116023000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Joe Salisbury/Neal Skupski - Julian Cash/Lloyd Glasspool (L)</title>
@@ -401,6 +401,10 @@
 <programme start="20251116233000 +0700" stop="20251117000000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Premier Padel Tour 2025 - Highlights</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251117000000 +0700" stop="20251117030000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: Nitto ATP Finals 2025 (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20251115230000 +0700" stop="20251116010000 +0700" channel="COSMOTE Sport 7 HD">
     <title>Premier Padel Tour 2025 (L)</title>
@@ -534,13 +538,13 @@
     <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251115230000 +0700" stop="20251115233000 +0700" channel="COSMOTE Sport 9 HD">
-    <title>COSMOTESport9HD</title>
+<programme start="20251117000000 +0700" stop="20251117003000 +0700" channel="COSMOTE Sport 8 HD">
+    <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251115233000 +0700" stop="20251116000000 +0700" channel="COSMOTE Sport 9 HD">
-    <title>COSMOTESport9HD</title>
-    <desc>Live: Tidak</desc>
+<programme start="20251117003000 +0700" stop="20251117023000 +0700" channel="COSMOTE Sport 8 HD">
+    <title>Basketball: Erokspor - Fenerbahce (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20251116000000 +0700" stop="20251116014500 +0700" channel="COSMOTE Sport 9 HD">
     <title>Handball: Fuchse Berlin - THW Kiel (L)</title>
