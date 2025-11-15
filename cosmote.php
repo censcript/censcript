@@ -54,8 +54,12 @@
     <title>Football: Newcastle United - Athletic Club</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251115161000 +0700" stop="20251115181000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Atalanta - Sassuolo</title>
+<programme start="20251116190000 +0700" stop="20251116193000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Game R1 S6 E12</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251116193000 +0700" stop="20251116213000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: AEK - Shamrock Rovers FC</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251115181000 +0700" stop="20251115202000 +0700" channel="COSMOTE Sport 2 HD">
@@ -118,10 +122,6 @@
     <title>Football: Panathinaikos - PAOK</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251115163000 +0700" stop="20251115183000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: SL Benfica - Casa Pia</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251115183000 +0700" stop="20251115203000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Lanus - Universidad de Chile</title>
     <desc>Live: Tidak</desc>
@@ -174,8 +174,8 @@
     <title>Football: Palmeiras - LDU Quito</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251115170000 +0700" stop="20251115190000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Badalona - Real Madrid</title>
+<programme start="20251116190000 +0700" stop="20251116210000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Anorthosis Famagusta - Pafos FC</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251115190000 +0700" stop="20251115192500 +0700" channel="COSMOTE Sport 4 HD">
@@ -245,10 +245,6 @@
 <programme start="20251116183000 +0700" stop="20251116203000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Valencia Basket Club - Tenerife (L)</title>
     <desc>Live: Ya</desc>
-</programme>
-<programme start="20251115174500 +0700" stop="20251115184000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Highlights: 2025 Extreme H</title>
-    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251115184000 +0700" stop="20251115193500 +0700" channel="COSMOTE Sport 5 HD">
     <title>Motorsports: Moto3 2025 (L)</title>
@@ -354,6 +350,10 @@
     <title>Motorsports: Moto2 2025 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
+<programme start="20251116193000 +0700" stop="20251116212000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: MotoGP 2025 (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
 <programme start="20251115180000 +0700" stop="20251115203000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: S. Bolelli/A. Vavassori - Harri Heliovaara/Henry Patten (L)</title>
     <desc>Live: Ya</desc>
@@ -422,14 +422,6 @@
     <title>Tennis: Nitto ATP Finals 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251115180000 +0700" stop="20251115183000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251115183000 +0700" stop="20251115190000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251115190000 +0700" stop="20251115210000 +0700" channel="COSMOTE Sport 7 HD">
     <title>Premier Padel Tour 2025 (L)</title>
     <desc>Live: Ya</desc>
@@ -490,8 +482,8 @@
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251115170000 +0700" stop="20251115190000 +0700" channel="COSMOTE Sport 8 HD">
-    <title>COSMOTESport8HD</title>
+<programme start="20251116190000 +0700" stop="20251116200000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251115190000 +0700" stop="20251115210000 +0700" channel="COSMOTE Sport 8 HD">
@@ -546,8 +538,12 @@
     <title>Basketball: Anadolu Efes - Bahcesehir (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251115170000 +0700" stop="20251115190000 +0700" channel="COSMOTE Sport 9 HD">
-    <title>COSMOTESport9HD</title>
+<programme start="20251116190000 +0700" stop="20251116193000 +0700" channel="COSMOTE Sport 8 HD">
+    <title>COSMOTESport8HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251116193000 +0700" stop="20251116210000 +0700" channel="COSMOTE Sport 8 HD">
+    <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251115190000 +0700" stop="20251115210000 +0700" channel="COSMOTE Sport 9 HD">
@@ -611,6 +607,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251116170000 +0700" stop="20251116190000 +0700" channel="COSMOTE Sport 9 HD">
+    <title>COSMOTESport9HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251116190000 +0700" stop="20251116210000 +0700" channel="COSMOTE Sport 9 HD">
     <title>COSMOTESport9HD</title>
     <desc>Live: Tidak</desc>
 </programme>
