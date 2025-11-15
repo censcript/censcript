@@ -126,6 +126,10 @@
     <title>Football: OFI - AEK</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251116141000 +0700" stop="20251116161000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Pisa - Cremonese</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251115130000 +0700" stop="20251115160000 +0700" channel="COSMOTE Sport 3 HD">
     <title>American Football: New England Patriots - New York Jets</title>
     <desc>Live: Tidak</desc>
@@ -250,8 +254,8 @@
     <title>Basketball: AEK - VEF Riga</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251115122000 +0700" stop="20251115132000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: Moto2 2025</title>
+<programme start="20251116144500 +0700" stop="20251116152000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>NBA on Fire 2025-26 E3</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251115132000 +0700" stop="20251115143500 +0700" channel="COSMOTE Sport 5 HD">
@@ -358,6 +362,10 @@
     <title>Motorsports: Moto2 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251116143000 +0700" stop="20251116153500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: MotoGP 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251115123000 +0700" stop="20251115164000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Nitto ATP Finals 2025</title>
     <desc>Live: Tidak</desc>
@@ -420,6 +428,10 @@
 </programme>
 <programme start="20251116134000 +0700" stop="20251116145000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Beach Volley: Pro Tour Elite 16 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251116145000 +0700" stop="20251116152000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Premier Padel Tour 2025 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251115130000 +0700" stop="20251115150000 +0700" channel="COSMOTE Sport 7 HD">
@@ -485,6 +497,14 @@
 <programme start="20251116100000 +0700" stop="20251116140000 +0700" channel="COSMOTE Sport 7 HD">
     <title>Fight Sports: UFC Fight Night 2025 (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20251116140000 +0700" stop="20251116143000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251116143000 +0700" stop="20251116150000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251115130000 +0700" stop="20251115150000 +0700" channel="COSMOTE Sport 8 HD">
     <title>COSMOTESport8HD</title>

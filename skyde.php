@@ -616,13 +616,13 @@
 <programme start="20251115083000 +0000" stop="20251115084000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20251115084000 +0000" stop="20251115085900 +0000" channel="Cartoonito.skyde">
+<programme start="20251115084000 +0000" stop="20251115085800 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20251115085900 +0000" stop="20251115090300 +0000" channel="Cartoonito.skyde">
+<programme start="20251115085800 +0000" stop="20251115090200 +0000" channel="Cartoonito.skyde">
     <title>Lamput</title>
 </programme>
-<programme start="20251115090300 +0000" stop="20251115091000 +0000" channel="Cartoonito.skyde">
+<programme start="20251115090200 +0000" stop="20251115091000 +0000" channel="Cartoonito.skyde">
     <title>Lamput</title>
 </programme>
 <programme start="20251115091000 +0000" stop="20251115092500 +0000" channel="Cartoonito.skyde">
@@ -631,10 +631,10 @@
 <programme start="20251115092500 +0000" stop="20251115093000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20251115093000 +0000" stop="20251115094000 +0000" channel="Cartoonito.skyde">
+<programme start="20251115093000 +0000" stop="20251115093500 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20251115094000 +0000" stop="20251115095000 +0000" channel="Cartoonito.skyde">
+<programme start="20251115093500 +0000" stop="20251115095000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
 <programme start="20251115095000 +0000" stop="20251115100000 +0000" channel="Cartoonito.skyde">
@@ -664,10 +664,10 @@
 <programme start="20251115112500 +0000" stop="20251115114000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20251115114000 +0000" stop="20251115115500 +0000" channel="Cartoonito.skyde">
+<programme start="20251115114000 +0000" stop="20251115115000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20251115115500 +0000" stop="20251115121000 +0000" channel="Cartoonito.skyde">
+<programme start="20251115115000 +0000" stop="20251115121000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
 <programme start="20251115121000 +0000" stop="20251115122000 +0000" channel="Cartoonito.skyde">
@@ -739,10 +739,10 @@
 <programme start="20251115162000 +0000" stop="20251115163000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20251115163000 +0000" stop="20251115164000 +0000" channel="Cartoonito.skyde">
+<programme start="20251115163000 +0000" stop="20251115164500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20251115164000 +0000" stop="20251115165500 +0000" channel="Cartoonito.skyde">
+<programme start="20251115164500 +0000" stop="20251115165500 +0000" channel="Cartoonito.skyde">
     <title>Lamput</title>
 </programme>
 <programme start="20251115165500 +0000" stop="20251115170000 +0000" channel="Cartoonito.skyde">
@@ -781,10 +781,10 @@
 <programme start="20251115181500 +0000" stop="20251115182500 +0000" channel="Cartoonito.skyde">
     <title>Tom und Jerry Gokko</title>
 </programme>
-<programme start="20251115182500 +0000" stop="20251115183500 +0000" channel="Cartoonito.skyde">
+<programme start="20251115182500 +0000" stop="20251115183000 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
-<programme start="20251115183500 +0000" stop="20251115184000 +0000" channel="Cartoonito.skyde">
+<programme start="20251115183000 +0000" stop="20251115184000 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
 <programme start="20251115184000 +0000" stop="20251115190000 +0000" channel="Cartoonito.skyde">
@@ -832,10 +832,10 @@
 <programme start="20251115212500 +0000" stop="20251115213500 +0000" channel="Cartoonito.skyde">
     <title>Batwheels</title>
 </programme>
-<programme start="20251115213500 +0000" stop="20251115215000 +0000" channel="Cartoonito.skyde">
+<programme start="20251115213500 +0000" stop="20251115215500 +0000" channel="Cartoonito.skyde">
     <title>Batwheels</title>
 </programme>
-<programme start="20251115215000 +0000" stop="20251115220500 +0000" channel="Cartoonito.skyde">
+<programme start="20251115215500 +0000" stop="20251115220500 +0000" channel="Cartoonito.skyde">
     <title>Bugs Bunnys Baumeister</title>
 </programme>
 <programme start="20251115220500 +0000" stop="20251115222000 +0000" channel="Cartoonito.skyde">
@@ -3529,10 +3529,10 @@
 <programme start="20251115191500 +0000" stop="20251115211500 +0000" channel="Warner TV Film.skyde">
     <title>Free Guy</title>
 </programme>
-<programme start="20251115211500 +0000" stop="20251115224500 +0000" channel="Warner TV Film.skyde">
+<programme start="20251115211500 +0000" stop="20251115224000 +0000" channel="Warner TV Film.skyde">
     <title>Idiocracy</title>
 </programme>
-<programme start="20251115224500 +0000" stop="20251116003000 +0000" channel="Warner TV Film.skyde">
+<programme start="20251115224000 +0000" stop="20251116003000 +0000" channel="Warner TV Film.skyde">
     <title>The Watch - Nachbarn der 3. Art</title>
 </programme>
 <programme start="20251114231500 +0000" stop="20251115005500 +0000" channel="Warner TV Film HD.skyde">

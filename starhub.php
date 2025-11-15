@@ -2065,8 +2065,14 @@
     <programme start="20251114133000 +0000" stop="20251114170000 +0000" channel="KTV HD.starhub">
         <title>Movie - Uthamaputhiran</title>
     </programme>
-    <programme start="20251114170000 +0000" stop="20251114200000 +0000" channel="KTV HD.starhub">
+    <programme start="20251114170000 +0000" stop="20251114183000 +0000" channel="KTV HD.starhub">
         <title>Movie - Charlie Chaplin</title>
+    </programme>
+    <programme start="20251114183000 +0000" stop="20251114200000 +0000" channel="KTV HD.starhub">
+        <title>Movie Contd - Charlie Chaplin</title>
+    </programme>
+    <programme start="20251114200000 +0000" stop="20251114223000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Seerum Singangal</title>
     </programme>
     <programme start="20251114223000 +0000" stop="20251115010000 +0000" channel="KTV HD.starhub">
         <title>Movie - Krishna Krishnaa</title>
