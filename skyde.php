@@ -985,54 +985,6 @@
 <programme start="20251115223000 +0000" stop="20251115230000 +0000" channel="DAZN 1 HD.skyde">
     <title>Let&#039;s go Ballin&#039;: Episode 2</title>
 </programme>
-<programme start="20251114230000 +0000" stop="20251115070000 +0000" channel="DAZN 2 HD.skyde">
-    <title>Sendepause</title>
-</programme>
-<programme start="20251115070000 +0000" stop="20251115090000 +0000" channel="DAZN 2 HD.skyde">
-    <title>Bundesliga: Borussia M&#039;gladbach - 1. FC Köln</title>
-</programme>
-<programme start="20251115090000 +0000" stop="20251115105000 +0000" channel="DAZN 2 HD.skyde">
-    <title>Bundesliga: Eintracht Frankfurt - 1. FSV Mainz 05</title>
-</programme>
-<programme start="20251115105000 +0000" stop="20251115113000 +0000" channel="DAZN 2 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
-</programme>
-<programme start="20251115113000 +0000" stop="20251115132000 +0000" channel="DAZN 2 HD.skyde">
-    <title>Bundesliga: 1. FC Union Berlin - FC Bayern München</title>
-</programme>
-<programme start="20251115132000 +0000" stop="20251115135500 +0000" channel="DAZN 2 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
-</programme>
-<programme start="20251115135500 +0000" stop="20251115142500 +0000" channel="DAZN 2 HD.skyde">
-    <title>Das Herz des deutschen Fußballs: Episode 1</title>
-</programme>
-<programme start="20251115142500 +0000" stop="20251115145500 +0000" channel="DAZN 2 HD.skyde">
-    <title>Das Herz des deutschen Fußballs: Episode 2</title>
-</programme>
-<programme start="20251115145500 +0000" stop="20251115152500 +0000" channel="DAZN 2 HD.skyde">
-    <title>Das Herz des deutschen Fußballs: Episode 3</title>
-</programme>
-<programme start="20251115152500 +0000" stop="20251115155500 +0000" channel="DAZN 2 HD.skyde">
-    <title>Das Herz des deutschen Fußballs: Episode 4</title>
-</programme>
-<programme start="20251115155500 +0000" stop="20251115162500 +0000" channel="DAZN 2 HD.skyde">
-    <title>Das Herz des deutschen Fußballs: Episode 5</title>
-</programme>
-<programme start="20251115162500 +0000" stop="20251115165000 +0000" channel="DAZN 2 HD.skyde">
-    <title>Das Herz des deutschen Fußballs: Episode 6</title>
-</programme>
-<programme start="20251115165000 +0000" stop="20251115190000 +0000" channel="DAZN 2 HD.skyde">
-    <title>UEFA World Cup Qualifiers 2026 Canada/Mexico/United States: Türkei - Bulgarien</title>
-</programme>
-<programme start="20251115190000 +0000" stop="20251115193500 +0000" channel="DAZN 2 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
-</programme>
-<programme start="20251115193500 +0000" stop="20251115215000 +0000" channel="DAZN 2 HD.skyde">
-    <title>UEFA World Cup Qualifiers 2026 Canada/Mexico/United States: Slovenien - Kosovo</title>
-</programme>
-<programme start="20251115215000 +0000" stop="20251115230000 +0000" channel="DAZN 2 HD.skyde">
-    <title>ALL IN - Die Bundesliga Highlight Show: 10. Spieltag</title>
-</programme>
 <programme start="20251114232000 +0000" stop="20251115001000 +0000" channel="Heimatkanal.skyde">
     <title>Großstadtrevier</title>
 </programme>
@@ -3529,10 +3481,10 @@
 <programme start="20251115191500 +0000" stop="20251115211500 +0000" channel="Warner TV Film.skyde">
     <title>Free Guy</title>
 </programme>
-<programme start="20251115211500 +0000" stop="20251115224500 +0000" channel="Warner TV Film.skyde">
+<programme start="20251115211500 +0000" stop="20251115224000 +0000" channel="Warner TV Film.skyde">
     <title>Idiocracy</title>
 </programme>
-<programme start="20251115224500 +0000" stop="20251116003000 +0000" channel="Warner TV Film.skyde">
+<programme start="20251115224000 +0000" stop="20251116003000 +0000" channel="Warner TV Film.skyde">
     <title>The Watch - Nachbarn der 3. Art</title>
 </programme>
 <programme start="20251114231500 +0000" stop="20251115005500 +0000" channel="Warner TV Film HD.skyde">
@@ -3571,10 +3523,10 @@
 <programme start="20251115191500 +0000" stop="20251115211500 +0000" channel="Warner TV Film HD.skyde">
     <title>Free Guy</title>
 </programme>
-<programme start="20251115211500 +0000" stop="20251115224500 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20251115211500 +0000" stop="20251115224000 +0000" channel="Warner TV Film HD.skyde">
     <title>Idiocracy</title>
 </programme>
-<programme start="20251115224500 +0000" stop="20251116003000 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20251115224000 +0000" stop="20251116003000 +0000" channel="Warner TV Film HD.skyde">
     <title>The Watch - Nachbarn der 3. Art</title>
 </programme>
 <programme start="20251114231000 +0000" stop="20251114235500 +0000" channel="Warner TV Serie HD.skyde">

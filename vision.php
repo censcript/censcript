@@ -661,6 +661,9 @@
 <programme start="20251115013000 +0000" stop="20251115030000 +0000" channel="ANTV.vision">
 <title>Mangal Lakshmi</title>
 </programme>
+<programme start="20251115030000 +0000" stop="20251115063000 +0000" channel="ANTV.vision">
+<title>Pardes</title>
+</programme>
 <programme start="20251115063000 +0000" stop="20251115093000 +0000" channel="ANTV.vision">
 <title>Ek Tha Tiger</title>
 </programme>
@@ -1494,7 +1497,4 @@
 </programme>
 <programme start="20251115233000 +0000" stop="20251116003000 +0000" channel="BTV.vision">
 <title>Jalan Dakwah</title>
-</programme>
-<programme start="20251116003000 +0000" stop="20251116011500 +0000" channel="BTV.vision">
-<title>Figur Publik</title>
 </programme>
