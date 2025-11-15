@@ -583,6 +583,12 @@
 <programme start="20251115154500 +0000" stop="20251115163000 +0000" channel="Trans 7.vision">
 <title>The Police</title>
 </programme>
+<programme start="20251115163000 +0000" stop="20251115171500 +0000" channel="Trans 7.vision">
+<title>Starting Grid MotoGP: Valencia</title>
+</programme>
+<programme start="20251115171500 +0000" stop="20251115180000 +0000" channel="Trans 7.vision">
+<title>MotoGP Sprint Race: Valencia</title>
+</programme>
 <programme start="20251115180000 +0000" stop="20251115190000 +0000" channel="Trans 7.vision">
 <title>Best Fishing</title>
 </programme>
@@ -655,8 +661,23 @@
 <programme start="20251115013000 +0000" stop="20251115030000 +0000" channel="ANTV.vision">
 <title>Mangal Lakshmi</title>
 </programme>
+<programme start="20251115030000 +0000" stop="20251115063000 +0000" channel="ANTV.vision">
+<title>Pardes</title>
+</programme>
+<programme start="20251115063000 +0000" stop="20251115093000 +0000" channel="ANTV.vision">
+<title>Ek Tha Tiger</title>
+</programme>
 <programme start="20251115093000 +0000" stop="20251115110000 +0000" channel="ANTV.vision">
 <title>ANTV Seru</title>
+</programme>
+<programme start="20251115110000 +0000" stop="20251115130000 +0000" channel="ANTV.vision">
+<title>Preman</title>
+</programme>
+<programme start="20251115130000 +0000" stop="20251115143000 +0000" channel="ANTV.vision">
+<title>Nyi Ageng Ratu Pemikat</title>
+</programme>
+<programme start="20251115143000 +0000" stop="20251115163000 +0000" channel="ANTV.vision">
+<title>Picture Of Nypmh</title>
 </programme>
 <programme start="20251115163000 +0000" stop="20251115183000 +0000" channel="ANTV.vision">
 <title>Rumah Kentang: The Beginning</title>
@@ -834,6 +855,9 @@
 </programme>
 <programme start="20251115090000 +0000" stop="20251115110000 +0000" channel="TVOne.vision">
 <title>Kabar Petang (L)</title>
+</programme>
+<programme start="20251115110000 +0000" stop="20251115125700 +0000" channel="TVOne.vision">
+<title>Apa Kabar Indonesia (L)</title>
 </programme>
 <programme start="20251115125700 +0000" stop="20251115130000 +0000" channel="TVOne.vision">
 <title>Kabar Terkini</title>
@@ -1473,28 +1497,4 @@
 </programme>
 <programme start="20251115233000 +0000" stop="20251116003000 +0000" channel="BTV.vision">
 <title>Jalan Dakwah</title>
-</programme>
-<programme start="20251116003000 +0000" stop="20251116011500 +0000" channel="BTV.vision">
-<title>Figur Publik</title>
-</programme>
-<programme start="20251116011500 +0000" stop="20251116014500 +0000" channel="BTV.vision">
-<title>Kuyliner</title>
-</programme>
-<programme start="20251116014500 +0000" stop="20251116023000 +0000" channel="BTV.vision">
-<title>Masak Ala Devina Hermawan</title>
-</programme>
-<programme start="20251116023000 +0000" stop="20251116031500 +0000" channel="BTV.vision">
-<title>Selera Rasa</title>
-</programme>
-<programme start="20251116031500 +0000" stop="20251116040000 +0000" channel="BTV.vision">
-<title>Endeus</title>
-</programme>
-<programme start="20251116040000 +0000" stop="20251116050000 +0000" channel="BTV.vision">
-<title>Berita Satu Siang</title>
-</programme>
-<programme start="20251116050000 +0000" stop="20251116060000 +0000" channel="BTV.vision">
-<title>Jalan Dakwah</title>
-</programme>
-<programme start="20251116060000 +0000" stop="20251116070000 +0000" channel="BTV.vision">
-<title>Dunia RANS</title>
 </programme>
