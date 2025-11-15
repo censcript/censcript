@@ -616,13 +616,13 @@
 <programme start="20251115083000 +0000" stop="20251115084000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20251115084000 +0000" stop="20251115085900 +0000" channel="Cartoonito.skyde">
+<programme start="20251115084000 +0000" stop="20251115085800 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20251115085900 +0000" stop="20251115090300 +0000" channel="Cartoonito.skyde">
+<programme start="20251115085800 +0000" stop="20251115090200 +0000" channel="Cartoonito.skyde">
     <title>Lamput</title>
 </programme>
-<programme start="20251115090300 +0000" stop="20251115091000 +0000" channel="Cartoonito.skyde">
+<programme start="20251115090200 +0000" stop="20251115091000 +0000" channel="Cartoonito.skyde">
     <title>Lamput</title>
 </programme>
 <programme start="20251115091000 +0000" stop="20251115092500 +0000" channel="Cartoonito.skyde">
@@ -631,10 +631,10 @@
 <programme start="20251115092500 +0000" stop="20251115093000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20251115093000 +0000" stop="20251115094000 +0000" channel="Cartoonito.skyde">
+<programme start="20251115093000 +0000" stop="20251115093500 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20251115094000 +0000" stop="20251115095000 +0000" channel="Cartoonito.skyde">
+<programme start="20251115093500 +0000" stop="20251115095000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
 <programme start="20251115095000 +0000" stop="20251115100000 +0000" channel="Cartoonito.skyde">
@@ -664,10 +664,10 @@
 <programme start="20251115112500 +0000" stop="20251115114000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20251115114000 +0000" stop="20251115115500 +0000" channel="Cartoonito.skyde">
+<programme start="20251115114000 +0000" stop="20251115115000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20251115115500 +0000" stop="20251115121000 +0000" channel="Cartoonito.skyde">
+<programme start="20251115115000 +0000" stop="20251115121000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
 <programme start="20251115121000 +0000" stop="20251115122000 +0000" channel="Cartoonito.skyde">
@@ -739,10 +739,10 @@
 <programme start="20251115162000 +0000" stop="20251115163000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20251115163000 +0000" stop="20251115164000 +0000" channel="Cartoonito.skyde">
+<programme start="20251115163000 +0000" stop="20251115164500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20251115164000 +0000" stop="20251115165500 +0000" channel="Cartoonito.skyde">
+<programme start="20251115164500 +0000" stop="20251115165500 +0000" channel="Cartoonito.skyde">
     <title>Lamput</title>
 </programme>
 <programme start="20251115165500 +0000" stop="20251115170000 +0000" channel="Cartoonito.skyde">
@@ -781,10 +781,10 @@
 <programme start="20251115181500 +0000" stop="20251115182500 +0000" channel="Cartoonito.skyde">
     <title>Tom und Jerry Gokko</title>
 </programme>
-<programme start="20251115182500 +0000" stop="20251115183500 +0000" channel="Cartoonito.skyde">
+<programme start="20251115182500 +0000" stop="20251115183000 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
-<programme start="20251115183500 +0000" stop="20251115184000 +0000" channel="Cartoonito.skyde">
+<programme start="20251115183000 +0000" stop="20251115184000 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
 <programme start="20251115184000 +0000" stop="20251115190000 +0000" channel="Cartoonito.skyde">
@@ -832,10 +832,10 @@
 <programme start="20251115212500 +0000" stop="20251115213500 +0000" channel="Cartoonito.skyde">
     <title>Batwheels</title>
 </programme>
-<programme start="20251115213500 +0000" stop="20251115215000 +0000" channel="Cartoonito.skyde">
+<programme start="20251115213500 +0000" stop="20251115215500 +0000" channel="Cartoonito.skyde">
     <title>Batwheels</title>
 </programme>
-<programme start="20251115215000 +0000" stop="20251115220500 +0000" channel="Cartoonito.skyde">
+<programme start="20251115215500 +0000" stop="20251115220500 +0000" channel="Cartoonito.skyde">
     <title>Bugs Bunnys Baumeister</title>
 </programme>
 <programme start="20251115220500 +0000" stop="20251115222000 +0000" channel="Cartoonito.skyde">
@@ -2536,22 +2536,22 @@
 <programme start="20251115221000 +0000" stop="20251115230500 +0000" channel="Sky Showcase HD.skyde">
     <title>Tödliches Begehren</title>
 </programme>
-<programme start="20251114231500 +0000" stop="20251114234500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20251114233000 +0000" stop="20251115000000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA CL: Magazin</title>
 </programme>
-<programme start="20251114234500 +0000" stop="20251115014500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20251115000000 +0000" stop="20251115015500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: LASK - SCR Altach, 13. Runde</title>
 </programme>
-<programme start="20251115014500 +0000" stop="20251115021500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20251115015500 +0000" stop="20251115022500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: 90in30: STU - RBS, 13. Runde</title>
 </programme>
-<programme start="20251115021500 +0000" stop="20251115041500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20251115022500 +0000" stop="20251115041500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: WSG Tirol - SK Rapid, 13. Runde</title>
 </programme>
-<programme start="20251115041500 +0000" stop="20251115061500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20251115041500 +0000" stop="20251115062000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: SK Puntigamer Sturm Graz - FC Red Bull Salzburg, 13. Runde</title>
 </programme>
-<programme start="20251115061500 +0000" stop="20251115064500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20251115062000 +0000" stop="20251115064500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA CL: Magazin</title>
 </programme>
 <programme start="20251115064500 +0000" stop="20251115073000 +0000" channel="Sky Sport Austria 1 HD.skyde">
@@ -2570,10 +2570,10 @@
     <title>Junioren: Österreich - Neuseeland, FIFA U-17 WM 2025</title>
 </programme>
 <programme start="20251115110000 +0000" stop="20251115131500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live ATP Finals: Doppel-Halbfinale 1 in Turin (ITA)</title>
+    <title>Live ATP Finals: S. Bolelli (ITA) / A. Vavassori (ITA) - H. Heliovaara (FIN) / H. Patten (GBR), Doppel-Halbfinale 1 in Turin (ITA)</title>
 </programme>
 <programme start="20251115131500 +0000" stop="20251115153500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live ATP Finals: Halbfinale 1 in Turin (ITA)</title>
+    <title>Live ATP Finals: J. Sinner (ITA) - A. de Minaur (AUS), Halbfinale 1 in Turin (ITA)</title>
 </programme>
 <programme start="20251115153500 +0000" stop="20251115174500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Live Junioren: Österreich - Tunesien, FIFA U-17 WM 2025</title>
@@ -2593,11 +2593,14 @@
 <programme start="20251115213000 +0000" stop="20251115233000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Junioren: Österreich - Tunesien, FIFA U-17 WM 2025</title>
 </programme>
+<programme start="20251115104000 +0000" stop="20251115110000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+    <title>ATP World Tour: Es folgt</title>
+</programme>
 <programme start="20251115110000 +0000" stop="20251115131500 +0000" channel="Sky Sport Austria 2 HD.skyde">
-    <title>Live ATP Finals: Doppel-Halbfinale 1 in Turin (ITA)</title>
+    <title>Live ATP Finals: S. Bolelli (ITA) / A. Vavassori (ITA) - H. Heliovaara (FIN) / H. Patten (GBR), Doppel-Halbfinale 1 in Turin (ITA)</title>
 </programme>
 <programme start="20251115131500 +0000" stop="20251115153000 +0000" channel="Sky Sport Austria 2 HD.skyde">
-    <title>Live ATP Finals: Halbfinale 1 in Turin (ITA)</title>
+    <title>Live ATP Finals: J. Sinner (ITA) - A. de Minaur (AUS), Halbfinale 1 in Turin (ITA)</title>
 </programme>
 <programme start="20251115153000 +0000" stop="20251115163000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>ATP Finals: Review Turin 2021</title>
@@ -2606,10 +2609,10 @@
     <title>ATP: This Week</title>
 </programme>
 <programme start="20251115170000 +0000" stop="20251115190000 +0000" channel="Sky Sport Austria 2 HD.skyde">
-    <title>Live ATP Finals: Doppel-Halbfinale 2 in Turin (ITA)</title>
+    <title>Live ATP Finals: J. Salisbury (GBR) / N. Skupski (GBR) - J. Cash (GBR) / L. Glasspool (GBR), Doppel-Halbfinale 2 in Turin (ITA)</title>
 </programme>
-<programme start="20251115190000 +0000" stop="20251115213000 +0000" channel="Sky Sport Austria 2 HD.skyde">
-    <title>Live ATP Finals: Halbfinale 2 in Turin (ITA)</title>
+<programme start="20251115190000 +0000" stop="20251116003000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+    <title>Live ATP Finals: C. Alcaraz (ESP) - F. Auger-Aliassime (CAN), Halbfinale 2 in Turin (ITA)</title>
 </programme>
 <programme start="20251114230000 +0000" stop="20251114233000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: Bundesliga Weekly</title>
@@ -3043,35 +3046,32 @@
 <programme start="20251115223000 +0000" stop="20251115230000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: Club 100: Robbie Keane</title>
 </programme>
-<programme start="20251114233000 +0000" stop="20251115013000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP Finals: H. Heliovaara (FIN) / H. Patten (GBR) - M. Arevalo (ESA) - M. Pavic (CRO), 6. Tag in Turin (ITA)</title>
-</programme>
-<programme start="20251115013000 +0000" stop="20251115020000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20251115004500 +0000" stop="20251115011500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Tennis: Andrey Rublev - Breaking Back</title>
 </programme>
-<programme start="20251115020000 +0000" stop="20251115040000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20251115011500 +0000" stop="20251115024500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP Finals: J. Salisbury (GBR) / N. Skupski (GBR) - C. Harrison (USA) / E. King (USA), 6. Tag in Turin (ITA)</title>
 </programme>
-<programme start="20251115040000 +0000" stop="20251115043000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20251115024500 +0000" stop="20251115031500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
 </programme>
-<programme start="20251115043000 +0000" stop="20251115063000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20251115031500 +0000" stop="20251115051500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP Finals: A. Zverev (GER) - D. Medvedev, Finale 2021 in Turin (ITA)</title>
 </programme>
-<programme start="20251115063000 +0000" stop="20251115070000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA Finals: Review Riyadh 2025</title>
+<programme start="20251115051500 +0000" stop="20251115065500 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP Finals: H. Heliovaara (FIN) / H. Patten (GBR) - M. Arevalo (ESA) - M. Pavic (CRO), 6. Tag in Turin (ITA)</title>
 </programme>
-<programme start="20251115070000 +0000" stop="20251115090000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20251115065500 +0000" stop="20251115090000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP Finals: J. Sinner (ITA) - B. Shelton (USA), 6. Tag in Turin (ITA)</title>
 </programme>
 <programme start="20251115090000 +0000" stop="20251115110000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP Finals: A. Zverev (GER) - F. Auger-Aliassime (CAN), 6. Tag in Turin (ITA)</title>
 </programme>
 <programme start="20251115110000 +0000" stop="20251115131500 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP Finals: Doppel-Halbfinale 1 in Turin (ITA)</title>
+    <title>Live ATP Finals: S. Bolelli (ITA) / A. Vavassori (ITA) - H. Heliovaara (FIN) / H. Patten (GBR), Doppel-Halbfinale 1 in Turin (ITA)</title>
 </programme>
 <programme start="20251115131500 +0000" stop="20251115153000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP Finals: Halbfinale 1 in Turin (ITA)</title>
+    <title>Live ATP Finals: J. Sinner (ITA) - A. de Minaur (AUS), Halbfinale 1 in Turin (ITA)</title>
 </programme>
 <programme start="20251115153000 +0000" stop="20251115163000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP Finals: Review Turin 2021</title>
@@ -3080,13 +3080,13 @@
     <title>ATP: This Week</title>
 </programme>
 <programme start="20251115170000 +0000" stop="20251115190000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP Finals: Doppel-Halbfinale 2 in Turin (ITA)</title>
+    <title>Live ATP Finals: J. Salisbury (GBR) / N. Skupski (GBR) - J. Cash (GBR) / L. Glasspool (GBR), Doppel-Halbfinale 2 in Turin (ITA)</title>
 </programme>
 <programme start="20251115190000 +0000" stop="20251115213000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP Finals: Halbfinale 2 in Turin (ITA)</title>
+    <title>Live ATP Finals: C. Alcaraz (ESP) - F. Auger-Aliassime (CAN), Halbfinale 2 in Turin (ITA)</title>
 </programme>
 <programme start="20251115213000 +0000" stop="20251115233000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP Finals: Halbfinale 1 in Turin (ITA)</title>
+    <title>ATP Finals: J. Sinner (ITA) - A. de Minaur (AUS), Halbfinale 1 in Turin (ITA)</title>
 </programme>
 <programme start="20251114233500 +0000" stop="20251115000000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>NBA: On Fire</title>
@@ -3178,7 +3178,7 @@
 <programme start="20251115212500 +0000" stop="20251115214500 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: LIVE NBA</title>
 </programme>
-<programme start="20251115214500 +0000" stop="20251116003000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20251115214500 +0000" stop="20251116090000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Memphis Grizzlies @ Cleveland Cavaliers</title>
 </programme>
 <programme start="20251114232000 +0000" stop="20251115000500 +0000" channel="SYFY HD.skyde">
@@ -3385,13 +3385,13 @@
 <programme start="20251115063500 +0000" stop="20251115070000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Die Nanny</title>
 </programme>
-<programme start="20251115070000 +0000" stop="20251115072500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251115070000 +0000" stop="20251115073000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Die Nanny</title>
 </programme>
-<programme start="20251115072500 +0000" stop="20251115075000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251115073000 +0000" stop="20251115075500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Die Nanny</title>
 </programme>
-<programme start="20251115075000 +0000" stop="20251115082000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251115075500 +0000" stop="20251115082000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Die Nanny</title>
 </programme>
 <programme start="20251115082000 +0000" stop="20251115084500 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3400,95 +3400,98 @@
 <programme start="20251115084500 +0000" stop="20251115091000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Die Nanny</title>
 </programme>
-<programme start="20251115091000 +0000" stop="20251115093500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251115091000 +0000" stop="20251115094000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Die Nanny</title>
 </programme>
-<programme start="20251115093500 +0000" stop="20251115100000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251115094000 +0000" stop="20251115100500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Die Nanny</title>
 </programme>
-<programme start="20251115100000 +0000" stop="20251115102500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251115100500 +0000" stop="20251115103000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
-<programme start="20251115102500 +0000" stop="20251115105000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251115103000 +0000" stop="20251115105500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
-<programme start="20251115105000 +0000" stop="20251115111500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251115105500 +0000" stop="20251115112000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
-<programme start="20251115111500 +0000" stop="20251115114000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251115112000 +0000" stop="20251115114500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
-<programme start="20251115114000 +0000" stop="20251115120500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251115114500 +0000" stop="20251115121000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
-<programme start="20251115120500 +0000" stop="20251115123000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251115121000 +0000" stop="20251115123000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Big Bang Theory</title>
 </programme>
-<programme start="20251115123000 +0000" stop="20251115125000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251115123000 +0000" stop="20251115125500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Big Bang Theory</title>
 </programme>
-<programme start="20251115125000 +0000" stop="20251115131500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251115125500 +0000" stop="20251115132000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Big Bang Theory</title>
 </programme>
-<programme start="20251115131500 +0000" stop="20251115134000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251115132000 +0000" stop="20251115134000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Big Bang Theory</title>
 </programme>
 <programme start="20251115134000 +0000" stop="20251115140500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Big Bang Theory</title>
 </programme>
-<programme start="20251115140500 +0000" stop="20251115142500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251115140500 +0000" stop="20251115143000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Big Bang Theory</title>
 </programme>
-<programme start="20251115142500 +0000" stop="20251115145000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251115143000 +0000" stop="20251115145000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Big Bang Theory</title>
 </programme>
 <programme start="20251115145000 +0000" stop="20251115151500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Big Bang Theory</title>
 </programme>
-<programme start="20251115151500 +0000" stop="20251115153500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251115151500 +0000" stop="20251115154000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Young Sheldon</title>
 </programme>
-<programme start="20251115153500 +0000" stop="20251115160000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251115154000 +0000" stop="20251115160000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Young Sheldon</title>
 </programme>
-<programme start="20251115160000 +0000" stop="20251115162000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251115160000 +0000" stop="20251115162500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Young Sheldon</title>
 </programme>
-<programme start="20251115162000 +0000" stop="20251115164500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251115162500 +0000" stop="20251115164500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Young Sheldon</title>
 </programme>
-<programme start="20251115164500 +0000" stop="20251115170500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251115164500 +0000" stop="20251115171000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Two and a Half Men</title>
 </programme>
-<programme start="20251115170500 +0000" stop="20251115173000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251115171000 +0000" stop="20251115173500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Two and a Half Men</title>
 </programme>
-<programme start="20251115173000 +0000" stop="20251115175500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251115173500 +0000" stop="20251115180000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Two and a Half Men</title>
 </programme>
-<programme start="20251115175500 +0000" stop="20251115182000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251115180000 +0000" stop="20251115182500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Two and a Half Men</title>
 </programme>
-<programme start="20251115182000 +0000" stop="20251115184500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251115182500 +0000" stop="20251115185000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Two and a Half Men</title>
 </programme>
-<programme start="20251115184500 +0000" stop="20251115191500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251115185000 +0000" stop="20251115191500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Two and a Half Men</title>
 </programme>
 <programme start="20251115191500 +0000" stop="20251115211500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Big Short</title>
 </programme>
-<programme start="20251115211500 +0000" stop="20251115214500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251115211500 +0000" stop="20251115214000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
-<programme start="20251115214500 +0000" stop="20251115221000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251115214000 +0000" stop="20251115220500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
-<programme start="20251115221000 +0000" stop="20251115223500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251115220500 +0000" stop="20251115223000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
-<programme start="20251115223500 +0000" stop="20251115230000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251115223000 +0000" stop="20251115225500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
+</programme>
+<programme start="20251115225500 +0000" stop="20251116010000 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>The Big Short</title>
 </programme>
 <programme start="20251114231500 +0000" stop="20251115005500 +0000" channel="Warner TV Film.skyde">
     <title>Sister Act - Eine himmlische Karriere</title>
@@ -3526,10 +3529,10 @@
 <programme start="20251115191500 +0000" stop="20251115211500 +0000" channel="Warner TV Film.skyde">
     <title>Free Guy</title>
 </programme>
-<programme start="20251115211500 +0000" stop="20251115224500 +0000" channel="Warner TV Film.skyde">
+<programme start="20251115211500 +0000" stop="20251115224000 +0000" channel="Warner TV Film.skyde">
     <title>Idiocracy</title>
 </programme>
-<programme start="20251115224500 +0000" stop="20251116003000 +0000" channel="Warner TV Film.skyde">
+<programme start="20251115224000 +0000" stop="20251116003000 +0000" channel="Warner TV Film.skyde">
     <title>The Watch - Nachbarn der 3. Art</title>
 </programme>
 <programme start="20251114231500 +0000" stop="20251115005500 +0000" channel="Warner TV Film HD.skyde">
@@ -3568,10 +3571,10 @@
 <programme start="20251115191500 +0000" stop="20251115211500 +0000" channel="Warner TV Film HD.skyde">
     <title>Free Guy</title>
 </programme>
-<programme start="20251115211500 +0000" stop="20251115224000 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20251115211500 +0000" stop="20251115224500 +0000" channel="Warner TV Film HD.skyde">
     <title>Idiocracy</title>
 </programme>
-<programme start="20251115224000 +0000" stop="20251116003000 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20251115224500 +0000" stop="20251116003000 +0000" channel="Warner TV Film HD.skyde">
     <title>The Watch - Nachbarn der 3. Art</title>
 </programme>
 <programme start="20251114231000 +0000" stop="20251114235500 +0000" channel="Warner TV Serie HD.skyde">
@@ -3607,52 +3610,52 @@
 <programme start="20251115051500 +0000" stop="20251115061000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Daktari</title>
 </programme>
-<programme start="20251115061000 +0000" stop="20251115070500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20251115061000 +0000" stop="20251115070000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Daktari</title>
 </programme>
-<programme start="20251115070500 +0000" stop="20251115075500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20251115070000 +0000" stop="20251115075500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Daktari</title>
 </programme>
 <programme start="20251115075500 +0000" stop="20251115085000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Daktari</title>
 </programme>
-<programme start="20251115085000 +0000" stop="20251115094500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20251115085000 +0000" stop="20251115094000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Daktari</title>
 </programme>
-<programme start="20251115094500 +0000" stop="20251115103500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20251115094000 +0000" stop="20251115103500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Daktari</title>
 </programme>
-<programme start="20251115103500 +0000" stop="20251115113000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20251115103500 +0000" stop="20251115112500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Daktari</title>
 </programme>
-<programme start="20251115113000 +0000" stop="20251115121500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20251115112500 +0000" stop="20251115121500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Fringe</title>
 </programme>
-<programme start="20251115121500 +0000" stop="20251115130500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20251115121500 +0000" stop="20251115130000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Fringe</title>
 </programme>
-<programme start="20251115130500 +0000" stop="20251115135000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20251115130000 +0000" stop="20251115134500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Fringe</title>
 </programme>
-<programme start="20251115135000 +0000" stop="20251115143500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20251115134500 +0000" stop="20251115143500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Fringe</title>
 </programme>
 <programme start="20251115143500 +0000" stop="20251115152000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Fringe</title>
 </programme>
-<programme start="20251115152000 +0000" stop="20251115161000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20251115152000 +0000" stop="20251115160500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Fringe</title>
 </programme>
-<programme start="20251115161000 +0000" stop="20251115165500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20251115160500 +0000" stop="20251115165500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Fringe</title>
 </programme>
 <programme start="20251115165500 +0000" stop="20251115174000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Fringe</title>
 </programme>
-<programme start="20251115174000 +0000" stop="20251115183000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20251115174000 +0000" stop="20251115182500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Fringe</title>
 </programme>
-<programme start="20251115183000 +0000" stop="20251115191500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20251115182500 +0000" stop="20251115191500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Fringe</title>
 </programme>
 <programme start="20251115191500 +0000" stop="20251115211500 +0000" channel="Warner TV Serie HD.skyde">

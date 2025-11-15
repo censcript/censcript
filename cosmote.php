@@ -66,10 +66,6 @@
     <title>Football: FC Lausanne - Omonoia FC</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251115100000 +0700" stop="20251115120000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Atalanta - Sassuolo</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251115120000 +0700" stop="20251115141000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Kifisia - Olympiacos</title>
     <desc>Live: Tidak</desc>
@@ -124,6 +120,10 @@
 </programme>
 <programme start="20251116100000 +0700" stop="20251116120000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Como - Cagliari</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251116120000 +0700" stop="20251116141000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: OFI - AEK</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251115110000 +0700" stop="20251115130000 +0700" channel="COSMOTE Sport 3 HD">
@@ -250,8 +250,8 @@
     <title>Pick n&#039; Roll</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251115102000 +0700" stop="20251115112500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: MotoGP 2025</title>
+<programme start="20251116123500 +0700" stop="20251116144500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: AEK - VEF Riga</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251115112500 +0700" stop="20251115122000 +0700" channel="COSMOTE Sport 5 HD">
@@ -358,8 +358,8 @@
     <title>Motorsports: MotoGP 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251115110000 +0700" stop="20251115113000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Premier Padel Tour 2025 - Highlights</title>
+<programme start="20251116123000 +0700" stop="20251116133000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: Moto3 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251115113000 +0700" stop="20251115123000 +0700" channel="COSMOTE Sport 6 HD">
@@ -416,6 +416,14 @@
 </programme>
 <programme start="20251116110000 +0700" stop="20251116120000 +0700" channel="COSMOTE Sport 6 HD">
     <title>ATP Masters 1000 2025 - Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251116120000 +0700" stop="20251116125000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Sports Classics: 2025 Outdoor Specials</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251116125000 +0700" stop="20251116134000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Beach Volley: Pro Tour Elite 16 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251115110000 +0700" stop="20251115130000 +0700" channel="COSMOTE Sport 7 HD">
