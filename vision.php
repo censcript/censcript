@@ -547,9 +547,6 @@
 <programme start="20251116000000 +0000" stop="20251116010000 +0000" channel="Trans 7.vision">
 <title>Spotlite</title>
 </programme>
-<programme start="20251116033000 +0000" stop="20251116041500 +0000" channel="Trans 7.vision">
-<title>Bikin Seneng</title>
-</programme>
 <programme start="20251116041500 +0000" stop="20251116050000 +0000" channel="Trans 7.vision">
 <title>Enaknya Mantul</title>
 </programme>
@@ -1496,5 +1493,8 @@
 <title>BTV</title>
 </programme>
 <programme start="20251117050000 +0000" stop="20251117060000 +0000" channel="BTV.vision">
+<title>BTV</title>
+</programme>
+<programme start="20251117060000 +0000" stop="20251117063000 +0000" channel="BTV.vision">
 <title>BTV</title>
 </programme>

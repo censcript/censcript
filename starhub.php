@@ -2272,17 +2272,11 @@
     <programme start="20251116090000 +0000" stop="20251116093000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>#1306</title>
     </programme>
-    <programme start="20251116093000 +0000" stop="20251116140000 +0000" channel="Hub Sports 2 HD.starhub">
+    <programme start="20251116093000 +0000" stop="20251116153000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>Billie Jean King Cup by Gainbridge Play-Offs 2025 Group G: India vs Netherlands</title>
     </programme>
-    <programme start="20251116140000 +0000" stop="20251116143000 +0000" channel="Hub Sports 2 HD.starhub">
-        <title>Round 1</title>
-    </programme>
-    <programme start="20251116143000 +0000" stop="20251116153000 +0000" channel="Hub Sports 2 HD.starhub">
-        <title>#2011</title>
-    </programme>
-    <programme start="20251116153000 +0000" stop="20251116160000 +0000" channel="Hub Sports 2 HD.starhub">
-        <title>UFC Main Event 2025 UFC 310: Pantoja vs Asakura</title>
+    <programme start="20251116153000 +0000" stop="20251116183000 +0000" channel="Hub Sports 2 HD.starhub">
+        <title>Butterfield Bermuda Championship Round 4</title>
     </programme>
     <programme start="20251115141500 +0000" stop="20251115161500 +0000" channel="The Filipino Channel HD.starhub">
         <title>Weder Weder Lang Yan</title>
