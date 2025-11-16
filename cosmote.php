@@ -118,6 +118,10 @@
     <title>Football: Genoa - ACF Fiorentina</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251117161000 +0700" stop="20251117181000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Lecce - Hellas Verona</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251116150000 +0700" stop="20251116170000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Racing Club - Flamengo</title>
     <desc>Live: Tidak</desc>
@@ -182,14 +186,6 @@
     <title>Football: Motherwell - St. Mirren</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251116144500 +0700" stop="20251116152000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>NBA on Fire 2025-26 E3</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251116152000 +0700" stop="20251116155500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>NBA Action 2025-26 E3504</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251116155500 +0700" stop="20251116183000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Milwaukee Bucks - Los Angeles Lakers</title>
     <desc>Live: Tidak</desc>
@@ -240,10 +236,6 @@
 </programme>
 <programme start="20251117150000 +0700" stop="20251117170000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: AEK - VEF Riga</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251116143000 +0700" stop="20251116153500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: MotoGP 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251116153500 +0700" stop="20251116160500 +0700" channel="COSMOTE Sport 5 HD">
@@ -350,8 +342,8 @@
     <title>WRC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251116145000 +0700" stop="20251116152000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Premier Padel Tour 2025 - Highlights</title>
+<programme start="20251117162000 +0700" stop="20251117171500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251116152000 +0700" stop="20251116170000 +0700" channel="COSMOTE Sport 6 HD">
