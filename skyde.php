@@ -2731,10 +2731,10 @@
 <programme start="20251116041500 +0000" stop="20251116043000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>DFB-Pokal: Highlights XXL: Hertha BSC - SV Elversberg, 2. Runde</title>
 </programme>
-<programme start="20251116043000 +0000" stop="20251116063000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20251116043000 +0000" stop="20251116063500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NBA: Memphis Grizzlies @ Cleveland Cavaliers</title>
 </programme>
-<programme start="20251116063000 +0000" stop="20251116083500 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20251116063500 +0000" stop="20251116083500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Edmonton Oilers @ Carolina Hurricanes</title>
 </programme>
 <programme start="20251116083500 +0000" stop="20251116093500 +0000" channel="Sky Sport Mix HD.skyde">
@@ -3316,44 +3316,44 @@
 <programme start="20251116225000 +0000" stop="20251117004500 +0000" channel="Warner TV Film.skyde">
     <title>I, Robot</title>
 </programme>
-<programme start="20251116003000 +0000" stop="20251116021500 +0000" channel="Warner TV Film HD.skyde">
-    <title>Colossal</title>
+<programme start="20251110233500 +0000" stop="20251111020000 +0000" channel="Warner TV Film HD.skyde">
+    <title>A.I.: Künstliche Intelligenz</title>
 </programme>
-<programme start="20251116021500 +0000" stop="20251116035500 +0000" channel="Warner TV Film HD.skyde">
-    <title>Mars Attacks!</title>
+<programme start="20251111020000 +0000" stop="20251111033500 +0000" channel="Warner TV Film HD.skyde">
+    <title>Sie Leben</title>
 </programme>
-<programme start="20251116035500 +0000" stop="20251116050000 +0000" channel="Warner TV Film HD.skyde">
-    <title>Der Wilde Westen: Die ersten 100 Jahre</title>
+<programme start="20251111033500 +0000" stop="20251111050000 +0000" channel="Warner TV Film HD.skyde">
+    <title>Police Academy 4 - Und jetzt geht&#039;s rund</title>
 </programme>
-<programme start="20251116050000 +0000" stop="20251116063000 +0000" channel="Warner TV Film HD.skyde">
-    <title>Police Academy 3 - ...und keiner kann sie bremsen</title>
+<programme start="20251111050000 +0000" stop="20251111074500 +0000" channel="Warner TV Film HD.skyde">
+    <title>The Dark Knight Rises</title>
 </programme>
-<programme start="20251116063000 +0000" stop="20251116080000 +0000" channel="Warner TV Film HD.skyde">
-    <title>Rush Hour 2</title>
+<programme start="20251111074500 +0000" stop="20251111101000 +0000" channel="Warner TV Film HD.skyde">
+    <title>Stoßtrupp Gold</title>
 </programme>
-<programme start="20251116080000 +0000" stop="20251116100000 +0000" channel="Warner TV Film HD.skyde">
-    <title>Ocean&#039;s Eleven</title>
+<programme start="20251111101000 +0000" stop="20251111120000 +0000" channel="Warner TV Film HD.skyde">
+    <title>Brennpunkt L.A. - Lethal Weapon 2</title>
 </programme>
-<programme start="20251116100000 +0000" stop="20251116133000 +0000" channel="Warner TV Film HD.skyde">
-    <title>Ben-Hur</title>
+<programme start="20251111120000 +0000" stop="20251111141000 +0000" channel="Warner TV Film HD.skyde">
+    <title>Batmans Rückkehr</title>
 </programme>
-<programme start="20251116133000 +0000" stop="20251116154500 +0000" channel="Warner TV Film HD.skyde">
-    <title>Erbarmungslos</title>
+<programme start="20251111141000 +0000" stop="20251111155000 +0000" channel="Warner TV Film HD.skyde">
+    <title>Der Knastcoach</title>
 </programme>
-<programme start="20251116154500 +0000" stop="20251116171500 +0000" channel="Warner TV Film HD.skyde">
-    <title>Idiocracy</title>
+<programme start="20251111155000 +0000" stop="20251111172000 +0000" channel="Warner TV Film HD.skyde">
+    <title>Date Night - Gangster für eine Nacht</title>
 </programme>
-<programme start="20251116171500 +0000" stop="20251116191500 +0000" channel="Warner TV Film HD.skyde">
-    <title>Free Guy</title>
+<programme start="20251111172000 +0000" stop="20251111191500 +0000" channel="Warner TV Film HD.skyde">
+    <title>Per Anhalter durch die Galaxis</title>
 </programme>
-<programme start="20251116191500 +0000" stop="20251116204000 +0000" channel="Warner TV Film HD.skyde">
-    <title>Jurassic Park 3</title>
+<programme start="20251111191500 +0000" stop="20251111210000 +0000" channel="Warner TV Film HD.skyde">
+    <title>The Watch - Nachbarn der 3. Art</title>
 </programme>
-<programme start="20251116204000 +0000" stop="20251116225000 +0000" channel="Warner TV Film HD.skyde">
-    <title>Jurassic World</title>
+<programme start="20251111210000 +0000" stop="20251111225500 +0000" channel="Warner TV Film HD.skyde">
+    <title>Das erstaunliche Leben des Walter Mitty</title>
 </programme>
-<programme start="20251116225000 +0000" stop="20251117004500 +0000" channel="Warner TV Film HD.skyde">
-    <title>I, Robot</title>
+<programme start="20251111225500 +0000" stop="20251112004500 +0000" channel="Warner TV Film HD.skyde">
+    <title>Auf der Jagd nach dem grünen Diamanten</title>
 </programme>
 <programme start="20251115233000 +0000" stop="20251116012500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Star Trek</title>

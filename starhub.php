@@ -8600,7 +8600,7 @@
         <title>Scoop 2025</title>
     </programme>
     <programme start="20251116120000 +0000" stop="20251116141500 +0000" channel="TVB Jade HD.starhub">
-        <title>Night and Fog</title>
+        <title>I Corrupt All Cops</title>
     </programme>
     <programme start="20251116141500 +0000" stop="20251116151500 +0000" channel="TVB Jade HD.starhub">
         <title>Mystery Files</title>
