@@ -547,9 +547,6 @@
 <programme start="20251116000000 +0000" stop="20251116010000 +0000" channel="Trans 7.vision">
 <title>Spotlite</title>
 </programme>
-<programme start="20251116071500 +0000" stop="20251116081500 +0000" channel="Trans 7.vision">
-<title>Redaksi Akhir Pekan</title>
-</programme>
 <programme start="20251116081500 +0000" stop="20251116090000 +0000" channel="Trans 7.vision">
 <title>Jejak Si Gundul</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20251117103000 +0000" stop="20251117123000 +0000" channel="BTV.vision">
 <title>BTV</title>
+</programme>
+<programme start="20251115230000 +0000" stop="20251116004000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
 </programme>
