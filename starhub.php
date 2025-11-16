@@ -7702,10 +7702,10 @@
     <programme start="20251116043000 +0000" stop="20251116073000 +0000" channel="Asianet Movies.starhub">
         <title>Kochi Rajavu</title>
     </programme>
-    <programme start="20251116073000 +0000" stop="20251116103000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251116073000 +0000" stop="20251116104000 +0000" channel="Asianet Movies.starhub">
         <title>Lucifer</title>
     </programme>
-    <programme start="20251116103000 +0000" stop="20251116133000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251116104000 +0000" stop="20251116133000 +0000" channel="Asianet Movies.starhub">
         <title>Falimy</title>
     </programme>
     <programme start="20251116133000 +0000" stop="20251116163000 +0000" channel="Asianet Movies.starhub">
@@ -8141,7 +8141,7 @@
         <title>Good Morning Adithyans</title>
     </programme>
     <programme start="20251116033000 +0000" stop="20251116040000 +0000" channel="ADITHYA TV.starhub">
-        <title>Malarum Ninaivugal</title>
+        <title>Ninaithaley Inikkum</title>
     </programme>
     <programme start="20251116040000 +0000" stop="20251116043000 +0000" channel="ADITHYA TV.starhub">
         <title>Anbudan Adithya</title>

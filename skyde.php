@@ -2498,10 +2498,10 @@
     <title>UEFA CL: Magazin</title>
 </programme>
 <programme start="20251116140000 +0000" stop="20251116163000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live ATP Finals: Doppelfinale 2025 in Turin (ITA)</title>
+    <title>Live ATP Finals: J. Salisbury (GBR)/N. Skupski (GBR) - H. Heliovaara (FIN)/H. Patten (GBR), Doppelfinale 2025 in Turin (ITA)</title>
 </programme>
 <programme start="20251116163000 +0000" stop="20251116193000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live ATP Finals: Finale 2025 in Turin (ITA)</title>
+    <title>Live ATP Finals: J. Sinner (ITA) - C. Alcaraz (ESP), Finale 2025 in Turin (ITA)</title>
 </programme>
 <programme start="20251116193000 +0000" stop="20251116203000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Live Tennis: Becker Petkovic LIVE</title>
@@ -2519,7 +2519,7 @@
     <title>Golf: Gofus Österreich</title>
 </programme>
 <programme start="20251116221000 +0000" stop="20251117004500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>ATP Finals: Finale 2025 in Turin (ITA)</title>
+    <title>ATP Finals: J. Sinner (ITA) - C. Alcaraz (ESP), Finale 2025 in Turin (ITA)</title>
 </programme>
 <programme start="20251116132500 +0000" stop="20251116134500 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: LIVE NHL</title>
