@@ -634,9 +634,6 @@
 <programme start="20251116093000 +0000" stop="20251116110000 +0000" channel="ANTV.vision">
 <title>ANTV Seru</title>
 </programme>
-<programme start="20251116130000 +0000" stop="20251116143000 +0000" channel="ANTV.vision">
-<title>Malam Jumat Kliwon</title>
-</programme>
 <programme start="20251116143000 +0000" stop="20251116163000 +0000" channel="ANTV.vision">
 <title>Middle Man</title>
 </programme>
@@ -1496,5 +1493,8 @@
 <title>TVRI</title>
 </programme>
 <programme start="20251116054000 +0000" stop="20251116071500 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251116071500 +0000" stop="20251116092000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
