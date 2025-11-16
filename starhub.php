@@ -2011,11 +2011,8 @@
     <programme start="20251115133000 +0000" stop="20251115170000 +0000" channel="KTV HD.starhub">
         <title>Movie - Ayalaan</title>
     </programme>
-    <programme start="20251115170000 +0000" stop="20251115183000 +0000" channel="KTV HD.starhub">
+    <programme start="20251115170000 +0000" stop="20251115200000 +0000" channel="KTV HD.starhub">
         <title>Movie - Naan</title>
-    </programme>
-    <programme start="20251115183000 +0000" stop="20251115200000 +0000" channel="KTV HD.starhub">
-        <title>Movie Contd - Naan</title>
     </programme>
     <programme start="20251115200000 +0000" stop="20251115223000 +0000" channel="KTV HD.starhub">
         <title>Movie - Pondati Pondati Thaan</title>
@@ -2243,7 +2240,7 @@
         <title>Butterfield Bermuda Championship Round 3</title>
     </programme>
     <programme start="20251115193000 +0000" stop="20251115200000 +0000" channel="Hub Sports 2 HD.starhub">
-        <title>Season 6, Episode 2 - Women&#039;s Golf</title>
+        <title>Season 6, Episode 2 - Women’s Golf</title>
     </programme>
     <programme start="20251115200000 +0000" stop="20251115210000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>Las Vegas, NV</title>

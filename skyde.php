@@ -2731,10 +2731,10 @@
 <programme start="20251116041500 +0000" stop="20251116043000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>DFB-Pokal: Highlights XXL: Hertha BSC - SV Elversberg, 2. Runde</title>
 </programme>
-<programme start="20251116043000 +0000" stop="20251116063000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20251116043000 +0000" stop="20251116063500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NBA: Memphis Grizzlies @ Cleveland Cavaliers</title>
 </programme>
-<programme start="20251116063000 +0000" stop="20251116083500 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20251116063500 +0000" stop="20251116083500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Edmonton Oilers @ Carolina Hurricanes</title>
 </programme>
 <programme start="20251116083500 +0000" stop="20251116093500 +0000" channel="Sky Sport Mix HD.skyde">

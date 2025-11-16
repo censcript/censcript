@@ -118,6 +118,10 @@
     <title>Football: Panathinaikos - PAOK</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251117141000 +0700" stop="20251117161000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Genoa - ACF Fiorentina</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251116130000 +0700" stop="20251116150000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: SC Braga - Moreirense</title>
     <desc>Live: Tidak</desc>
@@ -242,10 +246,6 @@
     <title>Basketball: Erokspor - Fenerbahce</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251116123000 +0700" stop="20251116133000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: Moto3 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251116133000 +0700" stop="20251116143000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Motorsports: Moto2 2025</title>
     <desc>Live: Tidak</desc>
@@ -350,8 +350,12 @@
     <title>WRC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251116125000 +0700" stop="20251116134000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Beach Volley: Pro Tour Elite 16 2025</title>
+<programme start="20251117140000 +0700" stop="20251117145000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251117145000 +0700" stop="20251117162000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251116134000 +0700" stop="20251116145000 +0700" channel="COSMOTE Sport 6 HD">
@@ -413,10 +417,6 @@
 <programme start="20251117135000 +0700" stop="20251117150000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Beach Volley: Pro Tour Elite 16 2025</title>
     <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251116100000 +0700" stop="20251116140000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>Fight Sports: UFC Fight Night 2025 (L)</title>
-    <desc>Live: Ya</desc>
 </programme>
 <programme start="20251116140000 +0700" stop="20251116143000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>

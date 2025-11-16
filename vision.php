@@ -547,30 +547,6 @@
 <programme start="20251116000000 +0000" stop="20251116010000 +0000" channel="Trans 7.vision">
 <title>Spotlite</title>
 </programme>
-<programme start="20251116010000 +0000" stop="20251116013000 +0000" channel="Trans 7.vision">
-<title>Selebrita Pagi On The Weekend</title>
-</programme>
-<programme start="20251116013000 +0000" stop="20251116023000 +0000" channel="Trans 7.vision">
-<title>Obrolan Tiap Waktu</title>
-</programme>
-<programme start="20251116023000 +0000" stop="20251116033000 +0000" channel="Trans 7.vision">
-<title>Heits Abis</title>
-</programme>
-<programme start="20251116033000 +0000" stop="20251116041500 +0000" channel="Trans 7.vision">
-<title>Bikin Seneng</title>
-</programme>
-<programme start="20251116041500 +0000" stop="20251116050000 +0000" channel="Trans 7.vision">
-<title>Enaknya Mantul</title>
-</programme>
-<programme start="20251116050000 +0000" stop="20251116054500 +0000" channel="Trans 7.vision">
-<title>Cuan Bos</title>
-</programme>
-<programme start="20251116054500 +0000" stop="20251116063000 +0000" channel="Trans 7.vision">
-<title>Jejak Petualang Explorer</title>
-</programme>
-<programme start="20251116063000 +0000" stop="20251116071500 +0000" channel="Trans 7.vision">
-<title>Mancing Mania Strike Back</title>
-</programme>
 <programme start="20251116071500 +0000" stop="20251116081500 +0000" channel="Trans 7.vision">
 <title>Redaksi Akhir Pekan</title>
 </programme>
@@ -663,9 +639,6 @@
 </programme>
 <programme start="20251116013000 +0000" stop="20251116030000 +0000" channel="ANTV.vision">
 <title>Mangal Lakshmi</title>
-</programme>
-<programme start="20251116030000 +0000" stop="20251116063000 +0000" channel="ANTV.vision">
-<title>Prem Ratan Dhan Payo</title>
 </programme>
 <programme start="20251116063000 +0000" stop="20251116093000 +0000" channel="ANTV.vision">
 <title>Tiger Zinda Hai</title>
@@ -825,9 +798,6 @@
 </programme>
 <programme start="20251116023000 +0000" stop="20251116030000 +0000" channel="TVOne.vision">
 <title>Xpose</title>
-</programme>
-<programme start="20251116030000 +0000" stop="20251116033000 +0000" channel="TVOne.vision">
-<title>Balikin: Perjalanan Slank</title>
 </programme>
 <programme start="20251116033000 +0000" stop="20251116040000 +0000" channel="TVOne.vision">
 <title>Indonesia Plus</title>
@@ -1496,5 +1466,35 @@
 <title>BTV</title>
 </programme>
 <programme start="20251117013000 +0000" stop="20251117021500 +0000" channel="BTV.vision">
+<title>BTV</title>
+</programme>
+<programme start="20251117021500 +0000" stop="20251117030000 +0000" channel="BTV.vision">
+<title>BTV</title>
+</programme>
+<programme start="20251117030000 +0000" stop="20251117040000 +0000" channel="BTV.vision">
+<title>BTV</title>
+</programme>
+<programme start="20251117040000 +0000" stop="20251117050000 +0000" channel="BTV.vision">
+<title>BTV</title>
+</programme>
+<programme start="20251117050000 +0000" stop="20251117060000 +0000" channel="BTV.vision">
+<title>BTV</title>
+</programme>
+<programme start="20251117060000 +0000" stop="20251117063000 +0000" channel="BTV.vision">
+<title>BTV</title>
+</programme>
+<programme start="20251117063000 +0000" stop="20251117080000 +0000" channel="BTV.vision">
+<title>BTV</title>
+</programme>
+<programme start="20251117080000 +0000" stop="20251117083000 +0000" channel="BTV.vision">
+<title>BTV</title>
+</programme>
+<programme start="20251117083000 +0000" stop="20251117093000 +0000" channel="BTV.vision">
+<title>BTV</title>
+</programme>
+<programme start="20251117093000 +0000" stop="20251117103000 +0000" channel="BTV.vision">
+<title>BTV</title>
+</programme>
+<programme start="20251117103000 +0000" stop="20251117123000 +0000" channel="BTV.vision">
 <title>BTV</title>
 </programme>
