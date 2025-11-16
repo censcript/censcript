@@ -547,12 +547,6 @@
 <programme start="20251116000000 +0000" stop="20251116010000 +0000" channel="Trans 7.vision">
 <title>Spotlite</title>
 </programme>
-<programme start="20251116013000 +0000" stop="20251116023000 +0000" channel="Trans 7.vision">
-<title>Obrolan Tiap Waktu</title>
-</programme>
-<programme start="20251116023000 +0000" stop="20251116033000 +0000" channel="Trans 7.vision">
-<title>Heits Abis</title>
-</programme>
 <programme start="20251116033000 +0000" stop="20251116041500 +0000" channel="Trans 7.vision">
 <title>Bikin Seneng</title>
 </programme>
@@ -822,9 +816,6 @@
 </programme>
 <programme start="20251116023000 +0000" stop="20251116030000 +0000" channel="TVOne.vision">
 <title>Xpose</title>
-</programme>
-<programme start="20251116030000 +0000" stop="20251116033000 +0000" channel="TVOne.vision">
-<title>Balikin: Perjalanan Slank</title>
 </programme>
 <programme start="20251116033000 +0000" stop="20251116040000 +0000" channel="TVOne.vision">
 <title>Indonesia Plus</title>
@@ -1496,5 +1487,14 @@
 <title>BTV</title>
 </programme>
 <programme start="20251117021500 +0000" stop="20251117030000 +0000" channel="BTV.vision">
+<title>BTV</title>
+</programme>
+<programme start="20251117030000 +0000" stop="20251117040000 +0000" channel="BTV.vision">
+<title>BTV</title>
+</programme>
+<programme start="20251117040000 +0000" stop="20251117050000 +0000" channel="BTV.vision">
+<title>BTV</title>
+</programme>
+<programme start="20251117050000 +0000" stop="20251117060000 +0000" channel="BTV.vision">
 <title>BTV</title>
 </programme>

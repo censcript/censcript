@@ -1234,60 +1234,7 @@
 <programme start="20251116160000 +0000" stop="20251116163000 +0000" channel="beIN Sports 2.mncvision">
     <title>ATP Tour Review Show 2025</title>
 </programme>
-<programme start="20251115170000 +0000" stop="20251115190000 +0000" channel="beIN Sports 2 HD.mncvision">
-    <title>Nitto ATP Finals 2025: SF 2 (L)</title>
-</programme>
-<programme start="20251115190000 +0000" stop="20251115191500 +0000" channel="beIN Sports 2 HD.mncvision">
-    <title>ATP Doco Shorts</title>
-</programme>
-<programme start="20251115191500 +0000" stop="20251115193000 +0000" channel="beIN Sports 2 HD.mncvision">
-    <title>ATP Doco Shorts</title>
-</programme>
-<programme start="20251115193000 +0000" stop="20251115213000 +0000" channel="beIN Sports 2 HD.mncvision">
-    <title>Nitto ATP Finals 2025: SF 2 (L)</title>
-</programme>
-<programme start="20251115213000 +0000" stop="20251115230000 +0000" channel="beIN Sports 2 HD.mncvision">
-    <title>ATP Tour 250 2025: Hangzhou</title>
-</programme>
-<programme start="20251115230000 +0000" stop="20251116003000 +0000" channel="beIN Sports 2 HD.mncvision">
-    <title>Nitto ATP Finals 2025: SF 1</title>
-</programme>
-<programme start="20251116003000 +0000" stop="20251116020000 +0000" channel="beIN Sports 2 HD.mncvision">
-    <title>Nitto ATP Finals 2025: SF 2</title>
-</programme>
-<programme start="20251116020000 +0000" stop="20251116033000 +0000" channel="beIN Sports 2 HD.mncvision">
-    <title>Nitto ATP Finals 2025: SF 1</title>
-</programme>
-<programme start="20251116033000 +0000" stop="20251116050000 +0000" channel="beIN Sports 2 HD.mncvision">
-    <title>Nitto ATP Finals 2025: SF 2</title>
-</programme>
-<programme start="20251116050000 +0000" stop="20251116063000 +0000" channel="beIN Sports 2 HD.mncvision">
-    <title>Nitto ATP Finals 2025: SF 1</title>
-</programme>
-<programme start="20251116063000 +0000" stop="20251116080000 +0000" channel="beIN Sports 2 HD.mncvision">
-    <title>Nitto ATP Finals 2025: SF 2</title>
-</programme>
-<programme start="20251116080000 +0000" stop="20251116082000 +0000" channel="beIN Sports 2 HD.mncvision">
-    <title>ATP Doco Shorts</title>
-</programme>
-<programme start="20251116082000 +0000" stop="20251116085000 +0000" channel="beIN Sports 2 HD.mncvision">
-    <title>ATP Tour: This Week 2025, Ep 44</title>
-</programme>
-<programme start="20251116085000 +0000" stop="20251116102000 +0000" channel="beIN Sports 2 HD.mncvision">
-    <title>Nitto ATP Finals 2025: SF 1</title>
-</programme>
-<programme start="20251116102000 +0000" stop="20251116115000 +0000" channel="beIN Sports 2 HD.mncvision">
-    <title>Nitto ATP Finals 2025: SF 1</title>
-</programme>
-<programme start="20251116115000 +0000" stop="20251116140000 +0000" channel="beIN Sports 2 HD.mncvision">
-    <title>WSL 2025/26: BHA Vs LEI (L)</title>
-</programme>
-<programme start="20251116140000 +0000" stop="20251116160000 +0000" channel="beIN Sports 2 HD.mncvision">
-    <title>Nitto ATP Finals &#039;25: Final (L)</title>
-</programme>
-<programme start="20251116160000 +0000" stop="20251116163000 +0000" channel="beIN Sports 2 HD.mncvision">
-    <title>ATP Tour Review Show 2025</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20251115173000 +0000" stop="20251115190000 +0000" channel="beIN Sports 3.mncvision">
     <title>Premier Padel 2025: Dubai (L)</title>
 </programme>
@@ -1348,66 +1295,7 @@
 <programme start="20251116163000 +0000" stop="20251115170000 +0000" channel="beIN Sports 3.mncvision">
     <title>Ultimate Pool 2025: Mixed Pairs</title>
 </programme>
-<programme start="20251115173000 +0000" stop="20251115190000 +0000" channel="beIN Sports 3 HD.mncvision">
-    <title>Premier Padel 2025: Dubai (L)</title>
-</programme>
-<programme start="20251115190000 +0000" stop="20251115193000 +0000" channel="beIN Sports 3 HD.mncvision">
-    <title>Premier Padel Highlights 2025</title>
-</programme>
-<programme start="20251115193000 +0000" stop="20251115200000 +0000" channel="beIN Sports 3 HD.mncvision">
-    <title>Premier Padel Highlights 2025</title>
-</programme>
-<programme start="20251115200000 +0000" stop="20251115201000 +0000" channel="beIN Sports 3 HD.mncvision">
-    <title>MUTV: 20 Goals By Defenders</title>
-</programme>
-<programme start="20251115201000 +0000" stop="20251115220000 +0000" channel="beIN Sports 3 HD.mncvision">
-    <title>UWCL 2025/26: SLB Vs TWE</title>
-</programme>
-<programme start="20251115220000 +0000" stop="20251115230000 +0000" channel="beIN Sports 3 HD.mncvision">
-    <title>UCL Highlights 2025/26</title>
-</programme>
-<programme start="20251115230000 +0000" stop="20251116000000 +0000" channel="beIN Sports 3 HD.mncvision">
-    <title>UCL Highlights 2025/26</title>
-</programme>
-<programme start="20251116000000 +0000" stop="20251116010000 +0000" channel="beIN Sports 3 HD.mncvision">
-    <title>UEL/UECL Highlights 2025/26</title>
-</programme>
-<programme start="20251116010000 +0000" stop="20251116013000 +0000" channel="beIN Sports 3 HD.mncvision">
-    <title>UWCL Highlights 2025/26</title>
-</programme>
-<programme start="20251116013000 +0000" stop="20251116020000 +0000" channel="beIN Sports 3 HD.mncvision">
-    <title>Mini Match UCL: MCI Vs BVB</title>
-</programme>
-<programme start="20251116020000 +0000" stop="20251116023000 +0000" channel="beIN Sports 3 HD.mncvision">
-    <title>Mini Match UCL: NEW Vs ATH</title>
-</programme>
-<programme start="20251116023000 +0000" stop="20251116043000 +0000" channel="beIN Sports 3 HD.mncvision">
-    <title>PSG TV 2025/26: PSG Vs NIC</title>
-</programme>
-<programme start="20251116043000 +0000" stop="20251116050000 +0000" channel="beIN Sports 3 HD.mncvision">
-    <title>UCL Magazine Show 2025/26</title>
-</programme>
-<programme start="20251116050000 +0000" stop="20251116081000 +0000" channel="beIN Sports 3 HD.mncvision">
-    <title>Ultimate Pool 2025: Mixed Pairs</title>
-</programme>
-<programme start="20251116081000 +0000" stop="20251116100000 +0000" channel="beIN Sports 3 HD.mncvision">
-    <title>UWCL 2025/26: RMA Vs PAR</title>
-</programme>
-<programme start="20251116100000 +0000" stop="20251116115000 +0000" channel="beIN Sports 3 HD.mncvision">
-    <title>WSL 2025/26: MCI Vs MUN</title>
-</programme>
-<programme start="20251116115000 +0000" stop="20251116140000 +0000" channel="beIN Sports 3 HD.mncvision">
-    <title>WSL 2025/26: WHU Vs EVE (L)</title>
-</programme>
-<programme start="20251116140000 +0000" stop="20251116142000 +0000" channel="beIN Sports 3 HD.mncvision">
-    <title>MUTV One Love: Supporting...</title>
-</programme>
-<programme start="20251116142000 +0000" stop="20251116163000 +0000" channel="beIN Sports 3 HD.mncvision">
-    <title>WSL 2025/26: TOT ARS (L)</title>
-</programme>
-<programme start="20251116163000 +0000" stop="20251115170000 +0000" channel="beIN Sports 3 HD.mncvision">
-    <title>Ultimate Pool 2025: Mixed Pairs</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20251115170000 +0000" stop="20251115190000 +0000" channel="beIN SPORTS 4.mncvision">
     <title>beIN Sports 4</title>
 </programme>
@@ -1444,42 +1332,7 @@
 <programme start="20251116150000 +0000" stop="20251116153000 +0000" channel="beIN SPORTS 4.mncvision">
     <title>beIN Sports 4</title>
 </programme>
-<programme start="20251115170000 +0000" stop="20251115190000 +0000" channel="beIN SPORTS 5.mncvision">
-    <title>beIN Sports 5</title>
-</programme>
-<programme start="20251115190000 +0000" stop="20251115210000 +0000" channel="beIN SPORTS 5.mncvision">
-    <title>beIN Sports 5</title>
-</programme>
-<programme start="20251115210000 +0000" stop="20251115230000 +0000" channel="beIN SPORTS 5.mncvision">
-    <title>beIN Sports 5</title>
-</programme>
-<programme start="20251115230000 +0000" stop="20251116010000 +0000" channel="beIN SPORTS 5.mncvision">
-    <title>beIN Sports 5</title>
-</programme>
-<programme start="20251116010000 +0000" stop="20251116030000 +0000" channel="beIN SPORTS 5.mncvision">
-    <title>beIN Sports 5</title>
-</programme>
-<programme start="20251116030000 +0000" stop="20251116050000 +0000" channel="beIN SPORTS 5.mncvision">
-    <title>beIN Sports 5</title>
-</programme>
-<programme start="20251116050000 +0000" stop="20251116070000 +0000" channel="beIN SPORTS 5.mncvision">
-    <title>beIN Sports 5</title>
-</programme>
-<programme start="20251116070000 +0000" stop="20251116090000 +0000" channel="beIN SPORTS 5.mncvision">
-    <title>beIN Sports 5</title>
-</programme>
-<programme start="20251116090000 +0000" stop="20251116110000 +0000" channel="beIN SPORTS 5.mncvision">
-    <title>beIN Sports 5</title>
-</programme>
-<programme start="20251116110000 +0000" stop="20251116130000 +0000" channel="beIN SPORTS 5.mncvision">
-    <title>beIN Sports 5</title>
-</programme>
-<programme start="20251116130000 +0000" stop="20251116150000 +0000" channel="beIN SPORTS 5.mncvision">
-    <title>beIN Sports 5</title>
-</programme>
-<programme start="20251116150000 +0000" stop="20251116153000 +0000" channel="beIN SPORTS 5.mncvision">
-    <title>beIN Sports 5</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20251115170000 +0000" stop="20251115173000 +0000" channel="Bloomberg.mncvision">
     <title>Athlete Empire: Alex Rodriguez</title>
 </programme>
@@ -7639,96 +7492,8 @@
 <programme start="20251116164500 +0000" stop="20251115171500 +0000" channel="RCTI.mncvision">
     <title>UEFA European Qualifiers (L)</title>
 </programme>
-<programme start="20251115190000 +0000" stop="20251115193000 +0000" channel="RCTI HD.mncvision">
-    <title>Kegaet Tongsis Cinta</title>
-</programme>
-<programme start="20251115193000 +0000" stop="20251115214500 +0000" channel="RCTI HD.mncvision">
-    <title>UEFA European Qualifiers (L)</title>
-</programme>
-<programme start="20251115214500 +0000" stop="20251115234500 +0000" channel="RCTI HD.mncvision">
-    <title>Preman Pensiun S3</title>
-</programme>
-<programme start="20251115234500 +0000" stop="20251116003000 +0000" channel="RCTI HD.mncvision">
-    <title>Upin Ipin</title>
-</programme>
-<programme start="20251116003000 +0000" stop="20251116010000 +0000" channel="RCTI HD.mncvision">
-    <title>Titus The Detective</title>
-</programme>
-<programme start="20251116010000 +0000" stop="20251116013000 +0000" channel="RCTI HD.mncvision">
-    <title>Kiko S4</title>
-</programme>
-<programme start="20251116013000 +0000" stop="20251116020000 +0000" channel="RCTI HD.mncvision">
-    <title>Doraemon Series</title>
-</programme>
-<programme start="20251116020000 +0000" stop="20251116023000 +0000" channel="RCTI HD.mncvision">
-    <title>Doraemon Series</title>
-</programme>
-<programme start="20251116023000 +0000" stop="20251116041500 +0000" channel="RCTI HD.mncvision">
-    <title>Dahsyatnya Weekend</title>
-</programme>
-<programme start="20251116041500 +0000" stop="20251116063000 +0000" channel="RCTI HD.mncvision">
-    <title>Doraemon Series</title>
-</programme>
-<programme start="20251116063000 +0000" stop="20251116083000 +0000" channel="RCTI HD.mncvision">
-    <title>Mega Film TV</title>
-</programme>
-<programme start="20251116083000 +0000" stop="20251116103000 +0000" channel="RCTI HD.mncvision">
-    <title>Preman Pensiun S9</title>
-</programme>
-<programme start="20251116103000 +0000" stop="20251116114500 +0000" channel="RCTI HD.mncvision">
-    <title>Terbelenggu Rindu</title>
-</programme>
-<programme start="20251116114500 +0000" stop="20251116131500 +0000" channel="RCTI HD.mncvision">
-    <title>Mencintai Ipar Sendiri</title>
-</programme>
-<programme start="20251116131500 +0000" stop="20251116144500 +0000" channel="RCTI HD.mncvision">
-    <title>Cinta Sepenuh Jiwa</title>
-</programme>
-<programme start="20251116144500 +0000" stop="20251116160000 +0000" channel="RCTI HD.mncvision">
-    <title>Kau Ditakdirkan Untukku</title>
-</programme>
-<programme start="20251116160000 +0000" stop="20251116164500 +0000" channel="RCTI HD.mncvision">
-    <title>Hati Yang Memilih</title>
-</programme>
-<programme start="20251116164500 +0000" stop="20251115171500 +0000" channel="RCTI HD.mncvision">
-    <title>UEFA European Qualifiers (L)</title>
-</programme>
-<programme start="20251115184500 +0000" stop="20251115210500 +0000" channel="Rock Action.mncvision">
-    <title>The Legend Of Zorro</title>
-</programme>
-<programme start="20251115210500 +0000" stop="20251115232500 +0000" channel="Rock Action.mncvision">
-    <title>Terminator 2: Judgement Day</title>
-</programme>
-<programme start="20251115232500 +0000" stop="20251116012500 +0000" channel="Rock Action.mncvision">
-    <title>The Brothers Grimm</title>
-</programme>
-<programme start="20251116012500 +0000" stop="20251116032000 +0000" channel="Rock Action.mncvision">
-    <title>Collateral</title>
-</programme>
-<programme start="20251116032000 +0000" stop="20251116052000 +0000" channel="Rock Action.mncvision">
-    <title>Miami Vice</title>
-</programme>
-<programme start="20251116052000 +0000" stop="20251116071000 +0000" channel="Rock Action.mncvision">
-    <title>Elysium</title>
-</programme>
-<programme start="20251116071000 +0000" stop="20251116090000 +0000" channel="Rock Action.mncvision">
-    <title>The Huntsman: Winter&#039;s War</title>
-</programme>
-<programme start="20251116090000 +0000" stop="20251116105000 +0000" channel="Rock Action.mncvision">
-    <title>Tears Of The Sun</title>
-</programme>
-<programme start="20251116105000 +0000" stop="20251116125500 +0000" channel="Rock Action.mncvision">
-    <title>The Legend Of Zorro</title>
-</programme>
-<programme start="20251116125500 +0000" stop="20251116151500 +0000" channel="Rock Action.mncvision">
-    <title>Robin Hood</title>
-</programme>
-<programme start="20251116151500 +0000" stop="20251116165500 +0000" channel="Rock Action.mncvision">
-    <title>Universal Soldier</title>
-</programme>
-<programme start="20251116165500 +0000" stop="20251115172500 +0000" channel="Rock Action.mncvision">
-    <title>The Huntsman: Winter&#039;s War</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20251115172000 +0000" stop="20251115181000 +0000" channel="Rock Entertainment.mncvision">
     <title>NCIS: Tony &amp; Ziva, Ep 1</title>
 </programme>
