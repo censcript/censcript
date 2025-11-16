@@ -2617,8 +2617,11 @@
 <programme start="20251116210000 +0000" stop="20251116230000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
     <title>BL: Bayer Leverkusen - Eintracht Frankfurt, Flutlicht-Freitag, 3. Spieltag</title>
 </programme>
-<programme start="20251115233000 +0000" stop="20251116010000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20251115233500 +0000" stop="20251116003000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Motorsport: FIA FR World Cup - Qualification Race</title>
+</programme>
+<programme start="20251116003000 +0000" stop="20251116010000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>F1: Rennen Kompakt - GP Sao Paulo</title>
 </programme>
 <programme start="20251116010000 +0000" stop="20251116023500 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Live Motorsport: FIA F4 World Cup - Main Race</title>
@@ -2671,7 +2674,7 @@
 <programme start="20251116213500 +0000" stop="20251116231000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Motorsport: FIA GT World Cup - Main Race</title>
 </programme>
-<programme start="20251116000000 +0000" stop="20251116030000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20251116000500 +0000" stop="20251116030000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: DP World Tour Championship, 3. Tag in Dubai (VAE)</title>
 </programme>
 <programme start="20251116030000 +0000" stop="20251116053000 +0000" channel="Sky Sport Golf HD.skyde">
@@ -2686,14 +2689,17 @@
 <programme start="20251116063000 +0000" stop="20251116123000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Live Golf: DP World Tour Championship, 4. Tag in Dubai (VAE)</title>
 </programme>
-<programme start="20251116123000 +0000" stop="20251116150000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20251116123000 +0000" stop="20251116143000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>PGA Tour Champions: Charles Schwab Cup Championship, 3. Tag in Phoenix, Arizona (USA)</title>
 </programme>
-<programme start="20251116150000 +0000" stop="20251116160000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20251116143000 +0000" stop="20251116153000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: The G4D Tour Series Finale 2025</title>
 </programme>
-<programme start="20251116160000 +0000" stop="20251116190000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20251116153000 +0000" stop="20251116183000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Live Golf: Butterfield Bermuda Championship, 4. Tag in Southampton (Bermuda)</title>
+</programme>
+<programme start="20251116183000 +0000" stop="20251116190000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>HotelPlaner Tour: Highlights Rolex Grand Final supported by The R&amp;A</title>
 </programme>
 <programme start="20251116190000 +0000" stop="20251116193000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: Golfszene 2025 (4)</title>
@@ -2878,20 +2884,23 @@
 <programme start="20251116220000 +0000" stop="20251116230000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: PL Moments: Leicester City 2015/16</title>
 </programme>
-<programme start="20251115233000 +0000" stop="20251116013000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20251115233000 +0000" stop="20251116010500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP Finals: S. Bolelli (ITA) / A. Vavassori (ITA) - H. Heliovaara (FIN) / H. Patten (GBR), Doppel-Halbfinale 1 in Turin (ITA)</title>
 </programme>
-<programme start="20251116013000 +0000" stop="20251116033000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20251116010500 +0000" stop="20251116030000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP Finals: A. Zverev (GER) - D. Medvedev, Finale 2021 in Turin (ITA)</title>
 </programme>
-<programme start="20251116033000 +0000" stop="20251116040000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20251116030000 +0000" stop="20251116033000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
 </programme>
-<programme start="20251116040000 +0000" stop="20251116060000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20251116033000 +0000" stop="20251116053000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP Finals: J. Salisbury (GBR) / N. Skupski (GBR) - J. Cash (GBR) / L. Glasspool (GBR), Doppel-Halbfinale 2 in Turin (ITA)</title>
 </programme>
-<programme start="20251116060000 +0000" stop="20251116080000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20251116053000 +0000" stop="20251116073000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP Finals: C. Alcaraz (ESP) - F. Auger-Aliassime (CAN), Halbfinale 2 in Turin (ITA)</title>
+</programme>
+<programme start="20251116073000 +0000" stop="20251116080000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP: This Week</title>
 </programme>
 <programme start="20251116080000 +0000" stop="20251116090000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP Finals: Review Turin 2024</title>
@@ -2909,18 +2918,18 @@
     <title>Tennis: Rafael Nadal - The No. 1 Story</title>
 </programme>
 <programme start="20251116140000 +0000" stop="20251116163000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP Finals: Doppelfinale 2025 in Turin (ITA)</title>
+    <title>Live ATP Finals: J. Salisbury (GBR)/N. Skupski (GBR) - H. Heliovaara (FIN)/H. Patten (GBR), Doppelfinale 2025 in Turin (ITA)</title>
 </programme>
 <programme start="20251116163000 +0000" stop="20251116193000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP Finals: Finale 2025 in Turin (ITA)</title>
+    <title>Live ATP Finals: J. Sinner (ITA) - C. Alcaraz (ESP), Finale 2025 in Turin (ITA)</title>
 </programme>
 <programme start="20251116193000 +0000" stop="20251116203000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live Tennis: Becker Petkovic LIVE</title>
 </programme>
 <programme start="20251116203000 +0000" stop="20251116230000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP Finals: Finale 2025 in Turin (ITA)</title>
+    <title>ATP Finals: J. Sinner (ITA) - C. Alcaraz (ESP), Finale 2025 in Turin (ITA)</title>
 </programme>
-<programme start="20251116003000 +0000" stop="20251116030000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20251116004500 +0000" stop="20251116030000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NHL: Edmonton Oilers @ Carolina Hurricanes</title>
 </programme>
 <programme start="20251116030000 +0000" stop="20251116040000 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -2948,10 +2957,10 @@
     <title>Live MotoGP: Rennen - GP Valencia</title>
 </programme>
 <programme start="20251116143000 +0000" stop="20251116163000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live ATP Finals: Doppelfinale 2025 in Turin (ITA)</title>
+    <title>Live ATP Finals: J. Salisbury (GBR)/N. Skupski (GBR) - H. Heliovaara (FIN)/H. Patten (GBR), Doppelfinale 2025 in Turin (ITA)</title>
 </programme>
 <programme start="20251116163000 +0000" stop="20251116193000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live ATP Finals: Finale 2025 in Turin (ITA)</title>
+    <title>Live ATP Finals: J. Sinner (ITA) - C. Alcaraz (ESP), Finale 2025 in Turin (ITA)</title>
 </programme>
 <programme start="20251116193000 +0000" stop="20251116203000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live Tennis: Becker Petkovic LIVE</title>
@@ -2983,7 +2992,7 @@
 <programme start="20251116132500 +0000" stop="20251116134500 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: LIVE NHL</title>
 </programme>
-<programme start="20251116134500 +0000" stop="20251116170000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20251116134500 +0000" stop="20251116190000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NHL: Nashville Predators @ Pittsburgh Penguins, Global Series 2025 in Stockholm (SWE)</title>
 </programme>
 <programme start="20251115232500 +0000" stop="20251116011500 +0000" channel="SYFY HD.skyde">
