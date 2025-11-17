@@ -425,7 +425,7 @@
     <title>Santet 1: Pelebur Nyawa</title>
 </programme>
 <programme start="20251117143000 +0000" stop="20251117163000 +0000" channel="ANTV.mncvision">
-    <title>Sword Man</title>
+    <title>Misteri Dari Gunung Merapi</title>
 </programme>
 <programme start="20251117163000 +0000" stop="20251116170000 +0000" channel="ANTV.mncvision">
     <title>Will Of Iron</title>
@@ -8165,7 +8165,7 @@
     <title>AFC Women&#039;s Champions (L)</title>
 </programme>
 <programme start="20251117090000 +0000" stop="20251117100000 +0000" channel="Soccer Channel.mncvision">
-    <title>Bundesliga Highlights</title>
+    <title>Bundesliga Weekly</title>
 </programme>
 <programme start="20251117100000 +0000" stop="20251117103000 +0000" channel="Soccer Channel.mncvision">
     <title>Top Goals</title>
@@ -8176,10 +8176,7 @@
 <programme start="20251117105500 +0000" stop="20251117130000 +0000" channel="Soccer Channel.mncvision">
     <title>AFC Women&#039;s Champions (L)</title>
 </programme>
-<programme start="20251117130000 +0000" stop="20251117134500 +0000" channel="Soccer Channel.mncvision">
-    <title>Bundesliga Weekly</title>
-</programme>
-<programme start="20251117134500 +0000" stop="20251117143000 +0000" channel="Soccer Channel.mncvision">
+<programme start="20251117130000 +0000" stop="20251117143000 +0000" channel="Soccer Channel.mncvision">
     <title>European Qualifiers Highlights</title>
 </programme>
 <programme start="20251117143000 +0000" stop="20251117163000 +0000" channel="Soccer Channel.mncvision">
@@ -8219,7 +8216,7 @@
     <title>AFC Women&#039;s Champions (L)</title>
 </programme>
 <programme start="20251117090000 +0000" stop="20251117100000 +0000" channel="Soccer Channel HD.mncvision">
-    <title>Bundesliga Highlights</title>
+    <title>Bundesliga Weekly</title>
 </programme>
 <programme start="20251117100000 +0000" stop="20251117103000 +0000" channel="Soccer Channel HD.mncvision">
     <title>Top Goals</title>
@@ -8230,10 +8227,7 @@
 <programme start="20251117105500 +0000" stop="20251117130000 +0000" channel="Soccer Channel HD.mncvision">
     <title>AFC Women&#039;s Champions (L)</title>
 </programme>
-<programme start="20251117130000 +0000" stop="20251117134500 +0000" channel="Soccer Channel HD.mncvision">
-    <title>Bundesliga Weekly</title>
-</programme>
-<programme start="20251117134500 +0000" stop="20251117143000 +0000" channel="Soccer Channel HD.mncvision">
+<programme start="20251117130000 +0000" stop="20251117143000 +0000" channel="Soccer Channel HD.mncvision">
     <title>European Qualifiers Highlights</title>
 </programme>
 <programme start="20251117143000 +0000" stop="20251117163000 +0000" channel="Soccer Channel HD.mncvision">

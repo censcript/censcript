@@ -8032,11 +8032,8 @@
     <programme start="20251117043000 +0000" stop="20251117073000 +0000" channel="SPOTV2.starhub">
         <title>MLB 2025 Postseason: NLDS Game 3 Chicago Cubs vs Milwaukee Brewers</title>
     </programme>
-    <programme start="20251117073000 +0000" stop="20251117093000 +0000" channel="SPOTV2.starhub">
+    <programme start="20251117073000 +0000" stop="20251117100000 +0000" channel="SPOTV2.starhub">
         <title>Race 31</title>
-    </programme>
-    <programme start="20251117093000 +0000" stop="20251117100000 +0000" channel="SPOTV2.starhub">
-        <title>2025/26 ALM Mini Match Rd 4 Wellington Phoenix vs Auckland FC</title>
     </programme>
     <programme start="20251117100000 +0000" stop="20251117110000 +0000" channel="SPOTV2.starhub">
         <title>Moutai Singapore Open</title>
