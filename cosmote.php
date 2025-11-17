@@ -50,10 +50,6 @@
     <title>Football: Club Brugge - FC Barcelona</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251118012000 +0700" stop="20251118033000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Kifisia - Olympiacos</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251118033000 +0700" stop="20251118053000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: FC Internazionale Milano - SS Lazio</title>
     <desc>Live: Tidak</desc>
@@ -166,6 +162,10 @@
     <title>Football: Santa Clara - Sporting CP</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251119043000 +0700" stop="20251119050000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Copa Sudamericana 2025 - Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251118023000 +0700" stop="20251118050000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Boston Celtics - Los Angeles Clippers</title>
     <desc>Live: Tidak</desc>
@@ -226,9 +226,9 @@
     <title>Pick n&#039; Roll (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251118020000 +0700" stop="20251118032000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Grand Prix Show 2025 (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20251119043000 +0700" stop="20251119070000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Cleveland Cavaliers - Milwaukee Bucks</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251118032000 +0700" stop="20251118040500 +0700" channel="COSMOTE Sport 5 HD">
     <title>Moto-E World Championship 2025</title>
@@ -334,9 +334,9 @@
     <title>WRC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251118020000 +0700" stop="20251118040000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Basketball: Treviso - Virtus Bologna (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20251119043000 +0700" stop="20251119053000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251118040000 +0700" stop="20251118060000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Nitto ATP Finals 2025</title>
@@ -404,6 +404,10 @@
 </programme>
 <programme start="20251119023000 +0700" stop="20251119044500 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Jannik Sinner - Alex de Minaur</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251119044500 +0700" stop="20251119062500 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: S. Bolelli/A. Vavassori - Harri Heliovaara/Henry Patten</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251118030000 +0700" stop="20251118050000 +0700" channel="COSMOTE Sport 7 HD">
