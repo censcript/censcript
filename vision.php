@@ -1405,31 +1405,40 @@
 <programme start="20251118113000 +0000" stop="20251118120000 +0000" channel="Metro TV.vision">
 <title>Metro TV</title>
 </programme>
-<programme start="20251123213000 +0000" stop="20251123223000 +0000" channel="BTV.vision">
+<programme start="20251116230300 +0000" stop="20251117003000 +0000" channel="BTV.vision">
 <title>BTV</title>
 </programme>
-<programme start="20251123223000 +0000" stop="20251123230000 +0000" channel="BTV.vision">
+<programme start="20251117003000 +0000" stop="20251117010000 +0000" channel="BTV.vision">
 <title>BTV</title>
 </programme>
-<programme start="20251123230000 +0000" stop="20251123230300 +0000" channel="BTV.vision">
+<programme start="20251117010000 +0000" stop="20251117013000 +0000" channel="BTV.vision">
 <title>BTV</title>
 </programme>
-<programme start="20251123230300 +0000" stop="20251124003000 +0000" channel="BTV.vision">
+<programme start="20251117013000 +0000" stop="20251117021500 +0000" channel="BTV.vision">
 <title>BTV</title>
 </programme>
-<programme start="20251124003000 +0000" stop="20251124010000 +0000" channel="BTV.vision">
+<programme start="20251117021500 +0000" stop="20251117030000 +0000" channel="BTV.vision">
 <title>BTV</title>
 </programme>
-<programme start="20251124010000 +0000" stop="20251124013000 +0000" channel="BTV.vision">
+<programme start="20251117030000 +0000" stop="20251117040000 +0000" channel="BTV.vision">
 <title>BTV</title>
 </programme>
-<programme start="20251124013000 +0000" stop="20251124021500 +0000" channel="BTV.vision">
+<programme start="20251117040000 +0000" stop="20251117050000 +0000" channel="BTV.vision">
 <title>BTV</title>
 </programme>
-<programme start="20251124021500 +0000" stop="20251124030000 +0000" channel="BTV.vision">
+<programme start="20251117050000 +0000" stop="20251117060000 +0000" channel="BTV.vision">
 <title>BTV</title>
 </programme>
-<programme start="20251124030000 +0000" stop="20251124040000 +0000" channel="BTV.vision">
+<programme start="20251117060000 +0000" stop="20251117063000 +0000" channel="BTV.vision">
+<title>BTV</title>
+</programme>
+<programme start="20251117063000 +0000" stop="20251117080000 +0000" channel="BTV.vision">
+<title>BTV</title>
+</programme>
+<programme start="20251117080000 +0000" stop="20251117083000 +0000" channel="BTV.vision">
+<title>BTV</title>
+</programme>
+<programme start="20251117083000 +0000" stop="20251117093000 +0000" channel="BTV.vision">
 <title>BTV</title>
 </programme>
 <programme start="20251117093000 +0000" stop="20251117103000 +0000" channel="BTV.vision">
@@ -1483,9 +1492,9 @@
 <programme start="20251117230300 +0000" stop="20251118003000 +0000" channel="BTV.vision">
 <title>BTV</title>
 </programme>
-<programme start="20251124193000 +0000" stop="20251124203000 +0000" channel="BTV.vision">
+<programme start="20251118003000 +0000" stop="20251118010000 +0000" channel="BTV.vision">
 <title>BTV</title>
 </programme>
-<programme start="20251124203000 +0000" stop="20251124213000 +0000" channel="BTV.vision">
+<programme start="20251118010000 +0000" stop="20251118013000 +0000" channel="BTV.vision">
 <title>BTV</title>
 </programme>

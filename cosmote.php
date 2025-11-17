@@ -114,6 +114,10 @@
     <title>Football: Pisa - Cremonese</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251118181000 +0700" stop="20251118202000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Kifisia - Olympiacos</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251117170000 +0700" stop="20251117190000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Estoril - Arouca</title>
     <desc>Live: Tidak</desc>
@@ -160,6 +164,10 @@
 </programme>
 <programme start="20251118151500 +0700" stop="20251118180000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Celtic FC - Rangers FC</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251118180000 +0700" stop="20251118200000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Santa Clara - Sporting CP</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251117170000 +0700" stop="20251117193000 +0700" channel="COSMOTE Sport 4 HD">
@@ -216,10 +224,6 @@
 </programme>
 <programme start="20251118170000 +0700" stop="20251118193000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Cleveland Cavaliers - Milwaukee Bucks</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251117162000 +0700" stop="20251117171500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251117171500 +0700" stop="20251117180500 +0700" channel="COSMOTE Sport 5 HD">
@@ -326,8 +330,8 @@
     <title>Highlights: 2025 Extreme H</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251117153000 +0700" stop="20251117173000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Premier Padel Tour 2025</title>
+<programme start="20251118183500 +0700" stop="20251118195500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Grand Prix Show 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251117173000 +0700" stop="20251117203000 +0700" channel="COSMOTE Sport 6 HD">
