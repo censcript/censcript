@@ -673,9 +673,6 @@
 <programme start="20251118114500 +0000" stop="20251118121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
-<programme start="20251116230000 +0000" stop="20251117010000 +0000" channel="ANTV.vision">
-<title>Duel Di Kawah Bromo</title>
-</programme>
 <programme start="20251117010000 +0000" stop="20251117030000 +0000" channel="ANTV.vision">
 <title>Mangal Lakshmi</title>
 </programme>
@@ -1496,5 +1493,8 @@
 <title>BTV</title>
 </programme>
 <programme start="20251118021500 +0000" stop="20251118030000 +0000" channel="BTV.vision">
+<title>BTV</title>
+</programme>
+<programme start="20251118030000 +0000" stop="20251118040000 +0000" channel="BTV.vision">
 <title>BTV</title>
 </programme>

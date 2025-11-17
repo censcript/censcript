@@ -7882,16 +7882,16 @@
     <programme start="20251117013000 +0000" stop="20251117043000 +0000" channel="Asianet Movies.starhub">
         <title>Kuberan</title>
     </programme>
-    <programme start="20251117043000 +0000" stop="20251117073000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251117043000 +0000" stop="20251117074000 +0000" channel="Asianet Movies.starhub">
         <title>Kannur Squad</title>
     </programme>
-    <programme start="20251117073000 +0000" stop="20251117103000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251117074000 +0000" stop="20251117104500 +0000" channel="Asianet Movies.starhub">
         <title>Oppam</title>
     </programme>
-    <programme start="20251117103000 +0000" stop="20251117133000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251117104500 +0000" stop="20251117133000 +0000" channel="Asianet Movies.starhub">
         <title>Romancham</title>
     </programme>
-    <programme start="20251117133000 +0000" stop="20251117163000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251117133000 +0000" stop="20251117165000 +0000" channel="Asianet Movies.starhub">
         <title>Baba Kalyani</title>
     </programme>
     <programme start="20251116160000 +0000" stop="20251116163000 +0000" channel="Astro Warna HD.starhub">
@@ -8359,17 +8359,14 @@
     <programme start="20251117153000 +0000" stop="20251117163000 +0000" channel="ADITHYA TV.starhub">
         <title>Vedi Sirippu</title>
     </programme>
-    <programme start="20251116140000 +0000" stop="20251116163000 +0000" channel="Hub E City HD.starhub">
+    <programme start="20251116151300 +0000" stop="20251116172300 +0000" channel="Hub E City HD.starhub">
         <title>Let&#039;s Get Married!</title>
     </programme>
-    <programme start="20251116163000 +0000" stop="20251116173000 +0000" channel="Hub E City HD.starhub">
+    <programme start="20251116172300 +0000" stop="20251116181000 +0000" channel="Hub E City HD.starhub">
         <title>A Date with The Future</title>
     </programme>
-    <programme start="20251116173000 +0000" stop="20251116183000 +0000" channel="Hub E City HD.starhub">
+    <programme start="20251116181000 +0000" stop="20251116190000 +0000" channel="Hub E City HD.starhub">
         <title>Warm on a Cold Night</title>
-    </programme>
-    <programme start="20251116183000 +0000" stop="20251116190000 +0000" channel="Hub E City HD.starhub">
-        <title>Taste of Yunnan</title>
     </programme>
     <programme start="20251116190000 +0000" stop="20251116210000 +0000" channel="Hub E City HD.starhub">
         <title>Genius Go Go Go</title>
@@ -9106,17 +9103,14 @@
     <programme start="20251117154500 +0000" stop="20251117164000 +0000" channel="Discovery HD.starhub">
         <title>Long Days Short Fuses</title>
     </programme>
-    <programme start="20251116140000 +0000" stop="20251116163000 +0000" channel="Hub E City HD.starhub">
+    <programme start="20251116151300 +0000" stop="20251116172300 +0000" channel="Hub E City HD.starhub">
         <title>Let&#039;s Get Married!</title>
     </programme>
-    <programme start="20251116163000 +0000" stop="20251116173000 +0000" channel="Hub E City HD.starhub">
+    <programme start="20251116172300 +0000" stop="20251116181000 +0000" channel="Hub E City HD.starhub">
         <title>A Date with The Future</title>
     </programme>
-    <programme start="20251116173000 +0000" stop="20251116183000 +0000" channel="Hub E City HD.starhub">
+    <programme start="20251116181000 +0000" stop="20251116190000 +0000" channel="Hub E City HD.starhub">
         <title>Warm on a Cold Night</title>
-    </programme>
-    <programme start="20251116183000 +0000" stop="20251116190000 +0000" channel="Hub E City HD.starhub">
-        <title>Taste of Yunnan</title>
     </programme>
     <programme start="20251116190000 +0000" stop="20251116210000 +0000" channel="Hub E City HD.starhub">
         <title>Genius Go Go Go</title>
@@ -9166,17 +9160,14 @@
     <programme start="20251117150000 +0000" stop="20251117160000 +0000" channel="Hub E City HD.starhub">
         <title>Hot Door Night</title>
     </programme>
-    <programme start="20251116140000 +0000" stop="20251116163000 +0000" channel="TestChannel1.starhub">
+    <programme start="20251116151300 +0000" stop="20251116172300 +0000" channel="TestChannel1.starhub">
         <title>Let&#039;s Get Married!</title>
     </programme>
-    <programme start="20251116163000 +0000" stop="20251116173000 +0000" channel="TestChannel1.starhub">
+    <programme start="20251116172300 +0000" stop="20251116181000 +0000" channel="TestChannel1.starhub">
         <title>A Date with The Future</title>
     </programme>
-    <programme start="20251116173000 +0000" stop="20251116183000 +0000" channel="TestChannel1.starhub">
+    <programme start="20251116181000 +0000" stop="20251116190000 +0000" channel="TestChannel1.starhub">
         <title>Warm on a Cold Night</title>
-    </programme>
-    <programme start="20251116183000 +0000" stop="20251116190000 +0000" channel="TestChannel1.starhub">
-        <title>Taste of Yunnan</title>
     </programme>
     <programme start="20251116190000 +0000" stop="20251116210000 +0000" channel="TestChannel1.starhub">
         <title>Genius Go Go Go</title>
