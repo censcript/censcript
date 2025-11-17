@@ -114,8 +114,8 @@
     <title>Football: FC Internazionale Milano - SS Lazio</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251117115000 +0700" stop="20251117150500 +0700" channel="COSMOTE Sport 3 HD">
-    <title>American Football: Denver Broncos - Kansas City Chiefs</title>
+<programme start="20251118161000 +0700" stop="20251118181000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Pisa - Cremonese</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251117150500 +0700" stop="20251117170000 +0700" channel="COSMOTE Sport 3 HD">
@@ -330,8 +330,8 @@
     <title>Moto-E World Championship 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251117150000 +0700" stop="20251117153000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Sports Classics: 2025 Sports Rundown E6</title>
+<programme start="20251118164000 +0700" stop="20251118173500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>2025 GT World Challenge Europe</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251117153000 +0700" stop="20251117173000 +0700" channel="COSMOTE Sport 6 HD">
@@ -404,6 +404,10 @@
 </programme>
 <programme start="20251118152000 +0700" stop="20251118163000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Beach Volley: Pro Tour Elite 16 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251118163000 +0700" stop="20251118190000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Volleyball: Vasas - Olympiacos</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251117150000 +0700" stop="20251117170000 +0700" channel="COSMOTE Sport 7 HD">
