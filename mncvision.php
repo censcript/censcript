@@ -736,7 +736,99 @@
 <programme start="20251117163000 +0000" stop="20251116170000 +0000" channel="AXN HD.mncvision">
     <title>Long Bright River S1, Ep 5</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20251116173000 +0000" stop="20251116180500 +0000" channel="BBC Earth.mncvision">
+    <title>Weekend Escapes S3, Ep 4</title>
+</programme>
+<programme start="20251116180500 +0000" stop="20251116190500 +0000" channel="BBC Earth.mncvision">
+    <title>Spectacular Earth S1, Ep 1</title>
+</programme>
+<programme start="20251116190500 +0000" stop="20251116200000 +0000" channel="BBC Earth.mncvision">
+    <title>Amazing Railway Adv. S2, Ep 1</title>
+</programme>
+<programme start="20251116200000 +0000" stop="20251116210000 +0000" channel="BBC Earth.mncvision">
+    <title>Race Across The World S5, Ep 7</title>
+</programme>
+<programme start="20251116210000 +0000" stop="20251116220000 +0000" channel="BBC Earth.mncvision">
+    <title>Kingdom S1, Ep 1</title>
+</programme>
+<programme start="20251116220000 +0000" stop="20251116225500 +0000" channel="BBC Earth.mncvision">
+    <title>Deadliest Weather S5, Ep 2</title>
+</programme>
+<programme start="20251116225500 +0000" stop="20251116235000 +0000" channel="BBC Earth.mncvision">
+    <title>Dogs In The Wild S1, Ep 3</title>
+</programme>
+<programme start="20251116235000 +0000" stop="20251117001500 +0000" channel="BBC Earth.mncvision">
+    <title>Food Factory S6, Ep 5</title>
+</programme>
+<programme start="20251117001500 +0000" stop="20251117004000 +0000" channel="BBC Earth.mncvision">
+    <title>Food Factory S6, Ep 6</title>
+</programme>
+<programme start="20251117004000 +0000" stop="20251117013500 +0000" channel="BBC Earth.mncvision">
+    <title>Race Across The World S5, Ep 7</title>
+</programme>
+<programme start="20251117013500 +0000" stop="20251117023500 +0000" channel="BBC Earth.mncvision">
+    <title>Kingdom S1, Ep 1</title>
+</programme>
+<programme start="20251117023500 +0000" stop="20251117030000 +0000" channel="BBC Earth.mncvision">
+    <title>Weekend Escapes S3, Ep 3</title>
+</programme>
+<programme start="20251117030000 +0000" stop="20251117033000 +0000" channel="BBC Earth.mncvision">
+    <title>Weekend Escapes S3, Ep 4</title>
+</programme>
+<programme start="20251117033000 +0000" stop="20251117042500 +0000" channel="BBC Earth.mncvision">
+    <title>Deadliest Weather S5, Ep 2</title>
+</programme>
+<programme start="20251117042500 +0000" stop="20251117053000 +0000" channel="BBC Earth.mncvision">
+    <title>A Perfect Planet S1, Ep 2</title>
+</programme>
+<programme start="20251117053000 +0000" stop="20251117062500 +0000" channel="BBC Earth.mncvision">
+    <title>Dogs In The Wild S1, Ep 3</title>
+</programme>
+<programme start="20251117062500 +0000" stop="20251117065500 +0000" channel="BBC Earth.mncvision">
+    <title>Weekend Escapes S3, Ep 3</title>
+</programme>
+<programme start="20251117065500 +0000" stop="20251117072500 +0000" channel="BBC Earth.mncvision">
+    <title>Weekend Escapes S3, Ep 4</title>
+</programme>
+<programme start="20251117072500 +0000" stop="20251117082000 +0000" channel="BBC Earth.mncvision">
+    <title>Deadliest Weather S5, Ep 2</title>
+</programme>
+<programme start="20251117082000 +0000" stop="20251117084500 +0000" channel="BBC Earth.mncvision">
+    <title>Food Factory S6, Ep 5</title>
+</programme>
+<programme start="20251117084500 +0000" stop="20251117091000 +0000" channel="BBC Earth.mncvision">
+    <title>Food Factory S6, Ep 6</title>
+</programme>
+<programme start="20251117091000 +0000" stop="20251117100500 +0000" channel="BBC Earth.mncvision">
+    <title>Race Across The World S5, Ep 7</title>
+</programme>
+<programme start="20251117100500 +0000" stop="20251117110500 +0000" channel="BBC Earth.mncvision">
+    <title>Dogs In The Wild S1, Ep 3</title>
+</programme>
+<programme start="20251117110500 +0000" stop="20251117113000 +0000" channel="BBC Earth.mncvision">
+    <title>Food Factory S6, Ep 7</title>
+</programme>
+<programme start="20251117113000 +0000" stop="20251117120000 +0000" channel="BBC Earth.mncvision">
+    <title>Food Factory S6, Ep 8</title>
+</programme>
+<programme start="20251117120000 +0000" stop="20251117130000 +0000" channel="BBC Earth.mncvision">
+    <title>Cheetah Family &amp; Me S1, Ep 1</title>
+</programme>
+<programme start="20251117130000 +0000" stop="20251117135500 +0000" channel="BBC Earth.mncvision">
+    <title>Griff&#039;s Great American..., Ep 4</title>
+</programme>
+<programme start="20251117135500 +0000" stop="20251117145000 +0000" channel="BBC Earth.mncvision">
+    <title>Spectacular Earth S1, Ep 2</title>
+</programme>
+<programme start="20251117145000 +0000" stop="20251117154000 +0000" channel="BBC Earth.mncvision">
+    <title>Life Below Zero S12, Ep 17</title>
+</programme>
+<programme start="20251117154000 +0000" stop="20251117163500 +0000" channel="BBC Earth.mncvision">
+    <title>Cheetah Family &amp; Me S1, Ep 1</title>
+</programme>
+<programme start="20251117163500 +0000" stop="20251116170500 +0000" channel="BBC Earth.mncvision">
+    <title>Griff&#039;s Great American..., Ep 4</title>
+</programme>
 <programme start="20251116173000 +0000" stop="20251116180500 +0000" channel="BBC Earth HD.mncvision">
     <title>Weekend Escapes S3, Ep 4</title>
 </programme>
@@ -1416,70 +1508,64 @@ Error: Unable to fetch data. HTTP Status Code: 500
     <title>Bloomberg Wall Street Week</title>
 </programme>
 <programme start="20251116180000 +0000" stop="20251116183000 +0000" channel="Bloomberg.mncvision">
-    <title>Leaders With Lacqua</title>
+    <title>The Future With Hannah Fry</title>
 </programme>
 <programme start="20251116183000 +0000" stop="20251116190000 +0000" channel="Bloomberg.mncvision">
-    <title>Leaders With Lacqua</title>
+    <title>The Future With Hannah Fry</title>
 </programme>
 <programme start="20251116190000 +0000" stop="20251116193000 +0000" channel="Bloomberg.mncvision">
     <title>The David Rubenstein Show</title>
 </programme>
 <programme start="20251116193000 +0000" stop="20251116200000 +0000" channel="Bloomberg.mncvision">
-    <title>Bloomberg Studio 1.0</title>
+    <title>Leaders With Francine Lacqua</title>
 </programme>
 <programme start="20251116200000 +0000" stop="20251116203000 +0000" channel="Bloomberg.mncvision">
-    <title>Leaders With Lacqua</title>
+    <title>The Mishal Husain Show</title>
 </programme>
 <programme start="20251116203000 +0000" stop="20251116210000 +0000" channel="Bloomberg.mncvision">
-    <title>Bloomberg Wealth With David</title>
+    <title>The Mishal Husain Show</title>
 </programme>
-<programme start="20251116210000 +0000" stop="20251116220000 +0000" channel="Bloomberg.mncvision">
-    <title>Bloomberg Wall Street Week</title>
+<programme start="20251116210000 +0000" stop="20251116213000 +0000" channel="Bloomberg.mncvision">
+    <title>Power Players: Ferrari</title>
+</programme>
+<programme start="20251116213000 +0000" stop="20251116220000 +0000" channel="Bloomberg.mncvision">
+    <title>Bloomberg Originals</title>
 </programme>
 <programme start="20251116220000 +0000" stop="20251116230000 +0000" channel="Bloomberg.mncvision">
-    <title>Bloomberg Daybreak: Australia</title>
+    <title>Bloomberg Wall Street Week</title>
 </programme>
 <programme start="20251116230000 +0000" stop="20251117010000 +0000" channel="Bloomberg.mncvision">
-    <title>Bloomberg Daybreak: Asia</title>
+    <title>Bloomberg: The Asia Trade</title>
 </programme>
-<programme start="20251117010000 +0000" stop="20251117020000 +0000" channel="Bloomberg.mncvision">
-    <title>Bloomberg...: China Open</title>
+<programme start="20251117010000 +0000" stop="20251117030000 +0000" channel="Bloomberg.mncvision">
+    <title>Bloomberg: The China Show</title>
 </programme>
-<programme start="20251117020000 +0000" stop="20251117040000 +0000" channel="Bloomberg.mncvision">
-    <title>Bloomberg Markets: Asia</title>
+<programme start="20251117030000 +0000" stop="20251117050000 +0000" channel="Bloomberg.mncvision">
+    <title>Insight With Haslinda Amin</title>
 </programme>
-<programme start="20251117040000 +0000" stop="20251117060000 +0000" channel="Bloomberg.mncvision">
-    <title>Bloomberg...: Middle East</title>
+<programme start="20251117050000 +0000" stop="20251117060000 +0000" channel="Bloomberg.mncvision">
+    <title>Bloomberg Horizons</title>
 </programme>
 <programme start="20251117060000 +0000" stop="20251117070000 +0000" channel="Bloomberg.mncvision">
     <title>Bloomberg Daybreak: Europe</title>
 </programme>
-<programme start="20251117070000 +0000" stop="20251117080000 +0000" channel="Bloomberg.mncvision">
-    <title>Bloomberg Markets: Europe</title>
-</programme>
-<programme start="20251117080000 +0000" stop="20251117090000 +0000" channel="Bloomberg.mncvision">
-    <title>Bloomberg...: European Open</title>
+<programme start="20251117070000 +0000" stop="20251117090000 +0000" channel="Bloomberg.mncvision">
+    <title>Bloomberg: The Opening Trade</title>
 </programme>
 <programme start="20251117090000 +0000" stop="20251117100000 +0000" channel="Bloomberg.mncvision">
-    <title>Bloomberg Surveillance: Early</title>
+    <title>The Pulse With Francine Lacqua</title>
 </programme>
 <programme start="20251117100000 +0000" stop="20251117110000 +0000" channel="Bloomberg.mncvision">
-    <title>Bloomberg Surveillance: Early</title>
+    <title>Bloomberg Brief</title>
 </programme>
-<programme start="20251117110000 +0000" stop="20251117120000 +0000" channel="Bloomberg.mncvision">
+<programme start="20251117110000 +0000" stop="20251117140000 +0000" channel="Bloomberg.mncvision">
     <title>Bloomberg Surveillance</title>
 </programme>
-<programme start="20251117120000 +0000" stop="20251117140000 +0000" channel="Bloomberg.mncvision">
-    <title>Bloomberg Surveillance</title>
-</programme>
-<programme start="20251117140000 +0000" stop="20251117150000 +0000" channel="Bloomberg.mncvision">
-    <title>Bloomberg: The Open</title>
-</programme>
-<programme start="20251117150000 +0000" stop="20251117160000 +0000" channel="Bloomberg.mncvision">
-    <title>Bloomberg Markets: Americas</title>
+<programme start="20251117140000 +0000" stop="20251117160000 +0000" channel="Bloomberg.mncvision">
+    <title>Bloomberg Open Interest</title>
 </programme>
 <programme start="20251117160000 +0000" stop="20251117163000 +0000" channel="Bloomberg.mncvision">
-    <title>Bloomberg...: European Close</title>
+    <title>Bloomberg Tech</title>
 </programme>
 <programme start="20251116173000 +0000" stop="20251116182700 +0000" channel="BTV.mncvision">
     <title>Berita Viral</title>
@@ -4611,43 +4697,40 @@ Error: Unable to fetch data. HTTP Status Code: 500
     <title>Mega Film Asia</title>
 </programme>
 <programme start="20251116213000 +0000" stop="20251116230000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Fokus Pagi</title>
 </programme>
-<programme start="20251116230000 +0000" stop="20251117000000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+<programme start="20251116230000 +0000" stop="20251117010000 +0000" channel="Indosiar.mncvision">
+    <title>Merangkai Kisah Indah</title>
 </programme>
-<programme start="20251117000000 +0000" stop="20251117013000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
-</programme>
-<programme start="20251117013000 +0000" stop="20251117030000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+<programme start="20251117010000 +0000" stop="20251117030000 +0000" channel="Indosiar.mncvision">
+    <title>Kisah Nyata Pagi</title>
 </programme>
 <programme start="20251117030000 +0000" stop="20251117040000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Kiss Pagi</title>
 </programme>
 <programme start="20251117040000 +0000" stop="20251117043000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Patroli Siang</title>
 </programme>
 <programme start="20251117043000 +0000" stop="20251117050000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Fokus Siang</title>
 </programme>
 <programme start="20251117050000 +0000" stop="20251117063000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Kisah Nyata Siang</title>
 </programme>
 <programme start="20251117063000 +0000" stop="20251117080000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Kisah Nyata</title>
 </programme>
-<programme start="20251117080000 +0000" stop="20251117103000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+<programme start="20251117080000 +0000" stop="20251117100000 +0000" channel="Indosiar.mncvision">
+    <title>Kisah Nyata Spesial</title>
 </programme>
-<programme start="20251117103000 +0000" stop="20251117113000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+<programme start="20251117100000 +0000" stop="20251117120000 +0000" channel="Indosiar.mncvision">
+    <title>Merangkai Kisah Indah</title>
 </programme>
-<programme start="20251117113000 +0000" stop="20251117140000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+<programme start="20251117120000 +0000" stop="20251117160000 +0000" channel="Indosiar.mncvision">
+    <title>D&#039;Academy S7</title>
 </programme>
-<programme start="20251117140000 +0000" stop="20251117143000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+<programme start="20251117160000 +0000" stop="20251117163000 +0000" channel="Indosiar.mncvision">
+    <title>Mega Film Asia</title>
 </programme>
 <programme start="20251116180000 +0000" stop="20251116200000 +0000" channel="Indosiar HD.mncvision">
     <title>Mega Film Asia</title>
@@ -4656,43 +4739,40 @@ Error: Unable to fetch data. HTTP Status Code: 500
     <title>Mega Film Asia</title>
 </programme>
 <programme start="20251116213000 +0000" stop="20251116230000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Fokus Pagi</title>
 </programme>
-<programme start="20251116230000 +0000" stop="20251117000000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+<programme start="20251116230000 +0000" stop="20251117010000 +0000" channel="Indosiar HD.mncvision">
+    <title>Merangkai Kisah Indah</title>
 </programme>
-<programme start="20251117000000 +0000" stop="20251117013000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
-</programme>
-<programme start="20251117013000 +0000" stop="20251117030000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+<programme start="20251117010000 +0000" stop="20251117030000 +0000" channel="Indosiar HD.mncvision">
+    <title>Kisah Nyata Pagi</title>
 </programme>
 <programme start="20251117030000 +0000" stop="20251117040000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Kiss Pagi</title>
 </programme>
 <programme start="20251117040000 +0000" stop="20251117043000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Patroli Siang</title>
 </programme>
 <programme start="20251117043000 +0000" stop="20251117050000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Fokus Siang</title>
 </programme>
 <programme start="20251117050000 +0000" stop="20251117063000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Kisah Nyata Siang</title>
 </programme>
 <programme start="20251117063000 +0000" stop="20251117080000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Kisah Nyata</title>
 </programme>
-<programme start="20251117080000 +0000" stop="20251117103000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+<programme start="20251117080000 +0000" stop="20251117100000 +0000" channel="Indosiar HD.mncvision">
+    <title>Kisah Nyata Spesial</title>
 </programme>
-<programme start="20251117103000 +0000" stop="20251117113000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+<programme start="20251117100000 +0000" stop="20251117120000 +0000" channel="Indosiar HD.mncvision">
+    <title>Merangkai Kisah Indah</title>
 </programme>
-<programme start="20251117113000 +0000" stop="20251117140000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+<programme start="20251117120000 +0000" stop="20251117160000 +0000" channel="Indosiar HD.mncvision">
+    <title>D&#039;Academy S7</title>
 </programme>
-<programme start="20251117140000 +0000" stop="20251117143000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+<programme start="20251117160000 +0000" stop="20251117163000 +0000" channel="Indosiar HD.mncvision">
+    <title>Mega Film Asia</title>
 </programme>
 <programme start="20251116190000 +0000" stop="20251116194500 +0000" channel="iNews.mncvision">
     <title>iNews Sore</title>
@@ -7605,7 +7685,7 @@ Error: Unable to fetch data. HTTP Status Code: 500
     <title>Kau Ditakdirkan Untukku</title>
 </programme>
 <programme start="20251117160000 +0000" stop="20251117163000 +0000" channel="RCTI.mncvision">
-    <title>Hati Yang Memilih</title>
+    <title>Si Doel Anak Sekolahan</title>
 </programme>
 <programme start="20251116190000 +0000" stop="20251116193000 +0000" channel="RCTI HD.mncvision">
     <title>Mendadak Badut</title>
@@ -7659,7 +7739,7 @@ Error: Unable to fetch data. HTTP Status Code: 500
     <title>Kau Ditakdirkan Untukku</title>
 </programme>
 <programme start="20251117160000 +0000" stop="20251117163000 +0000" channel="RCTI HD.mncvision">
-    <title>Hati Yang Memilih</title>
+    <title>Si Doel Anak Sekolahan</title>
 </programme>
 <programme start="20251116185000 +0000" stop="20251116205000 +0000" channel="Rock Action.mncvision">
     <title>Bad Boys</title>
@@ -7797,49 +7877,52 @@ Error: Unable to fetch data. HTTP Status Code: 500
     <title>Sinema Dini Hari</title>
 </programme>
 <programme start="20251116210000 +0000" stop="20251116213000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+    <title>Indahnya Kebersamaan</title>
 </programme>
-<programme start="20251116213000 +0000" stop="20251116230000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20251116213000 +0000" stop="20251116223000 +0000" channel="SCTV.mncvision">
+    <title>Liputan 6 Pagi (L)</title>
+</programme>
+<programme start="20251116223000 +0000" stop="20251116230000 +0000" channel="SCTV.mncvision">
+    <title>Buser</title>
 </programme>
 <programme start="20251116230000 +0000" stop="20251117000000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+    <title>Hot Shot</title>
 </programme>
 <programme start="20251117000000 +0000" stop="20251117013000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+    <title>Beri Cinta Waktu</title>
 </programme>
 <programme start="20251117013000 +0000" stop="20251117030000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+    <title>Asmara Gen Z</title>
 </programme>
 <programme start="20251117030000 +0000" stop="20251117050000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+    <title>Rayuanmu Tak Semanis Durianku</title>
 </programme>
 <programme start="20251117050000 +0000" stop="20251117053000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+    <title>Liputan 6 Siang (L)</title>
 </programme>
 <programme start="20251117053000 +0000" stop="20251117070000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+    <title>Kita Jalanin Aja Dulu</title>
 </programme>
 <programme start="20251117070000 +0000" stop="20251117083000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+    <title>Pejuang CEO Wedding Agreement</title>
 </programme>
 <programme start="20251117083000 +0000" stop="20251117100000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+    <title>Janji Cinta Zahra</title>
 </programme>
-<programme start="20251117100000 +0000" stop="20251117111500 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20251117100000 +0000" stop="20251117113000 +0000" channel="SCTV.mncvision">
+    <title>Asmara Gen Z</title>
 </programme>
-<programme start="20251117111500 +0000" stop="20251117131500 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20251117113000 +0000" stop="20251117130000 +0000" channel="SCTV.mncvision">
+    <title>Beri Cinta Waktu</title>
 </programme>
-<programme start="20251117131500 +0000" stop="20251117144500 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20251117130000 +0000" stop="20251117143000 +0000" channel="SCTV.mncvision">
+    <title>Cinta Sedalam Rindu</title>
 </programme>
-<programme start="20251117144500 +0000" stop="20251117160000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20251117143000 +0000" stop="20251117160000 +0000" channel="SCTV.mncvision">
+    <title>Wanita Istimewa</title>
 </programme>
 <programme start="20251117160000 +0000" stop="20251117163000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+    <title>Rengginang Bulat Digoreng...</title>
 </programme>
 <programme start="20251116174500 +0000" stop="20251116184500 +0000" channel="SCTV HD.mncvision">
     <title>FTV Utama</title>
@@ -7851,49 +7934,52 @@ Error: Unable to fetch data. HTTP Status Code: 500
     <title>Sinema Dini Hari</title>
 </programme>
 <programme start="20251116210000 +0000" stop="20251116213000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+    <title>Indahnya Kebersamaan</title>
 </programme>
-<programme start="20251116213000 +0000" stop="20251116230000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20251116213000 +0000" stop="20251116223000 +0000" channel="SCTV HD.mncvision">
+    <title>Liputan 6 Pagi (L)</title>
+</programme>
+<programme start="20251116223000 +0000" stop="20251116230000 +0000" channel="SCTV HD.mncvision">
+    <title>Buser</title>
 </programme>
 <programme start="20251116230000 +0000" stop="20251117000000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+    <title>Hot Shot</title>
 </programme>
 <programme start="20251117000000 +0000" stop="20251117013000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+    <title>Beri Cinta Waktu</title>
 </programme>
 <programme start="20251117013000 +0000" stop="20251117030000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+    <title>Asmara Gen Z</title>
 </programme>
 <programme start="20251117030000 +0000" stop="20251117050000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+    <title>Rayuanmu Tak Semanis Durianku</title>
 </programme>
 <programme start="20251117050000 +0000" stop="20251117053000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+    <title>Liputan 6 Siang (L)</title>
 </programme>
 <programme start="20251117053000 +0000" stop="20251117070000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+    <title>Kita Jalanin Aja Dulu</title>
 </programme>
 <programme start="20251117070000 +0000" stop="20251117083000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+    <title>Pejuang CEO Wedding Agreement</title>
 </programme>
 <programme start="20251117083000 +0000" stop="20251117100000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+    <title>Janji Cinta Zahra</title>
 </programme>
-<programme start="20251117100000 +0000" stop="20251117111500 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20251117100000 +0000" stop="20251117113000 +0000" channel="SCTV HD.mncvision">
+    <title>Asmara Gen Z</title>
 </programme>
-<programme start="20251117111500 +0000" stop="20251117131500 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20251117113000 +0000" stop="20251117130000 +0000" channel="SCTV HD.mncvision">
+    <title>Beri Cinta Waktu</title>
 </programme>
-<programme start="20251117131500 +0000" stop="20251117144500 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20251117130000 +0000" stop="20251117143000 +0000" channel="SCTV HD.mncvision">
+    <title>Cinta Sedalam Rindu</title>
 </programme>
-<programme start="20251117144500 +0000" stop="20251117160000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20251117143000 +0000" stop="20251117160000 +0000" channel="SCTV HD.mncvision">
+    <title>Wanita Istimewa</title>
 </programme>
 <programme start="20251117160000 +0000" stop="20251117163000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+    <title>Rengginang Bulat Digoreng...</title>
 </programme>
 <programme start="20251116170000 +0000" stop="20251116173000 +0000" channel="Sindo News TV.mncvision">
     <title>iNews Sport</title>
@@ -8936,86 +9022,83 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20251117161000 +0000" stop="20251117164000 +0000" channel="Thrill.mncvision">
     <title>Get In The Dark</title>
 </programme>
-<programme start="20251116171500 +0000" stop="20251116174500 +0000" channel="Trans 7.mncvision">
-    <title>Trans7</title>
+<programme start="20251116174500 +0000" stop="20251116184500 +0000" channel="Trans 7.mncvision">
+    <title>Moto3 2025 Valencia</title>
 </programme>
-<programme start="20251116174500 +0000" stop="20251116183000 +0000" channel="Trans 7.mncvision">
-    <title>Trans7</title>
-</programme>
-<programme start="20251116183000 +0000" stop="20251116193000 +0000" channel="Trans 7.mncvision">
-    <title>Trans7</title>
+<programme start="20251116184500 +0000" stop="20251116193000 +0000" channel="Trans 7.mncvision">
+    <title>Best Fishing</title>
 </programme>
 <programme start="20251116193000 +0000" stop="20251116203000 +0000" channel="Trans 7.mncvision">
-    <title>Trans7</title>
+    <title>BTS</title>
 </programme>
 <programme start="20251116203000 +0000" stop="20251116213000 +0000" channel="Trans 7.mncvision">
-    <title>Trans7</title>
+    <title>Anak Sekolah</title>
 </programme>
 <programme start="20251116213000 +0000" stop="20251116221500 +0000" channel="Trans 7.mncvision">
-    <title>Trans7</title>
+    <title>Info Update</title>
 </programme>
 <programme start="20251116221500 +0000" stop="20251116233000 +0000" channel="Trans 7.mncvision">
-    <title>Trans7</title>
+    <title>Redaksi Pagi</title>
 </programme>
 <programme start="20251116233000 +0000" stop="20251117003000 +0000" channel="Trans 7.mncvision">
-    <title>Trans7</title>
+    <title>Spotlite</title>
 </programme>
 <programme start="20251117003000 +0000" stop="20251117013000 +0000" channel="Trans 7.mncvision">
-    <title>Trans7</title>
+    <title>Selebrita Pagi</title>
 </programme>
 <programme start="20251117013000 +0000" stop="20251117023000 +0000" channel="Trans 7.mncvision">
-    <title>Trans7</title>
+    <title>FYP (For Your Pagi)</title>
 </programme>
 <programme start="20251117023000 +0000" stop="20251117031500 +0000" channel="Trans 7.mncvision">
-    <title>Trans7</title>
+    <title>Selebrita Heits</title>
 </programme>
 <programme start="20251117031500 +0000" stop="20251117041500 +0000" channel="Trans 7.mncvision">
-    <title>Trans7</title>
+    <title>Big-Bang!</title>
 </programme>
 <programme start="20251117041500 +0000" stop="20251117050000 +0000" channel="Trans 7.mncvision">
-    <title>Trans7</title>
+    <title>Enah Bikin Enak</title>
 </programme>
 <programme start="20251117050000 +0000" stop="20251117054500 +0000" channel="Trans 7.mncvision">
-    <title>Trans7</title>
+    <title>Bocah Petualang</title>
 </programme>
 <programme start="20251117054500 +0000" stop="20251117063000 +0000" channel="Trans 7.mncvision">
-    <title>Trans7</title>
+    <title>Indonesiaku</title>
 </programme>
 <programme start="20251117063000 +0000" stop="20251117071500 +0000" channel="Trans 7.mncvision">
-    <title>Trans7</title>
+    <title>Ujung-Ujungnya Damkar</title>
 </programme>
 <programme start="20251117071500 +0000" stop="20251117081500 +0000" channel="Trans 7.mncvision">
-    <title>Trans7</title>
+    <title>Redaksi</title>
 </programme>
 <programme start="20251117081500 +0000" stop="20251117091500 +0000" channel="Trans 7.mncvision">
-    <title>Trans7</title>
+    <title>Jejak Si Gundul</title>
 </programme>
 <programme start="20251117091500 +0000" stop="20251117101500 +0000" channel="Trans 7.mncvision">
-    <title>Trans7</title>
+    <title>Makan Receh</title>
 </programme>
 <programme start="20251117101500 +0000" stop="20251117110000 +0000" channel="Trans 7.mncvision">
-    <title>Trans7</title>
+    <title>Speak Up</title>
 </programme>
 <programme start="20251117110000 +0000" stop="20251117114500 +0000" channel="Trans 7.mncvision">
-    <title>Trans7</title>
+    <title>On The Spot</title>
 </programme>
 <programme start="20251117114500 +0000" stop="20251117121500 +0000" channel="Trans 7.mncvision">
-    <title>Trans7</title>
+    <title>Secret Story</title>
 </programme>
 <programme start="20251117121500 +0000" stop="20251117130000 +0000" channel="Trans 7.mncvision">
-    <title>Trans7</title>
+    <title>POV (Pasti Obrolan Viral)</title>
 </programme>
 <programme start="20251117130000 +0000" stop="20251117143000 +0000" channel="Trans 7.mncvision">
-    <title>Trans7</title>
+    <title>Arisan</title>
 </programme>
 <programme start="20251117143000 +0000" stop="20251117154500 +0000" channel="Trans 7.mncvision">
-    <title>Trans7</title>
+    <title>Lapor Pak!</title>
 </programme>
 <programme start="20251117154500 +0000" stop="20251117163000 +0000" channel="Trans 7.mncvision">
-    <title>Trans7</title>
+    <title>The Police</title>
 </programme>
 <programme start="20251117163000 +0000" stop="20251116170000 +0000" channel="Trans 7.mncvision">
-    <title>Trans7</title>
+    <title>Newstainment</title>
 </programme>
 <programme start="20251116180000 +0000" stop="20251116220000 +0000" channel="Trans TV.mncvision">
     <title>CNN Tech News</title>
