@@ -1,7 +1,3 @@
-<programme start="20251117230000 +0700" stop="20251118000000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>UEFA Champions League Highlights 2025-26</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251118000000 +0700" stop="20251118010000 +0700" channel="COSMOTE Sport 1 HD">
     <title>UEFA Champions League Highlights 2025-26</title>
     <desc>Live: Tidak</desc>
@@ -110,6 +106,10 @@
     <title>Football: Bologna - SSC Napoli</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251119002000 +0700" stop="20251119023000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: OFI - AEK</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251117210000 +0700" stop="20251118001500 +0700" channel="COSMOTE Sport 3 HD">
     <title>American Football: Buffalo Bills - Tampa Bay Buccaneers</title>
     <desc>Live: Tidak</desc>
@@ -162,8 +162,8 @@
     <title>Football: Lanus - Universidad de Chile</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251117213000 +0700" stop="20251117233000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Anadolu Efes - Bahcesehir</title>
+<programme start="20251119000000 +0700" stop="20251119020000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Tamworth - Leyton Orient</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251117233000 +0700" stop="20251118013000 +0700" channel="COSMOTE Sport 4 HD">
@@ -225,6 +225,10 @@
 <programme start="20251118235500 +0700" stop="20251119003000 +0700" channel="COSMOTE Sport 4 HD">
     <title>NBA Action 2025-26 E3504</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251119003000 +0700" stop="20251119024000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Heidelberg - Promitheas (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20251117230000 +0700" stop="20251118002000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Motorsports: Moto2 2025</title>
@@ -326,8 +330,8 @@
     <title>WRC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251117210000 +0700" stop="20251118000000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: Carlos Alcaraz - Jannik Sinner</title>
+<programme start="20251119003000 +0700" stop="20251119011500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251118000000 +0700" stop="20251118013000 +0700" channel="COSMOTE Sport 6 HD">

@@ -2794,16 +2794,16 @@
 <programme start="20251117080000 +0000" stop="20251117103000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: Butterfield Bermuda Championship, 4. Tag in Southampton (Bermuda)</title>
 </programme>
-<programme start="20251117103000 +0000" stop="20251117130000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20251117103000 +0000" stop="20251117123000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>PGA Tour Champions: Charles Schwab Cup Championship, 4. Tag in Phoenix, Arizona (USA)</title>
 </programme>
-<programme start="20251117130000 +0000" stop="20251117140000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20251117123000 +0000" stop="20251117133000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>The Open: Duel - Golf&#039;s Greatest Showdown</title>
 </programme>
-<programme start="20251117140000 +0000" stop="20251117170000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20251117133000 +0000" stop="20251117163000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: DP World Tour Championship, 4. Tag in Dubai (VAE)</title>
 </programme>
-<programme start="20251117170000 +0000" stop="20251117200000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20251117172000 +0000" stop="20251117200000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>LPGA: The ANNIKA driven by Gainbridge at Pelican, Finaltag in Belleair, FL (USA)</title>
 </programme>
 <programme start="20251117200000 +0000" stop="20251117203000 +0000" channel="Sky Sport Golf HD.skyde">
