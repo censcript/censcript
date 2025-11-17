@@ -114,6 +114,10 @@
     <title>Football: AS Roma - Udinese</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251118222000 +0700" stop="20251119002000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Bologna - SSC Napoli</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251117210000 +0700" stop="20251118001500 +0700" channel="COSMOTE Sport 3 HD">
     <title>American Football: Buffalo Bills - Tampa Bay Buccaneers</title>
     <desc>Live: Tidak</desc>
@@ -162,8 +166,8 @@
     <title>Football: Dundee - Rangers FC</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251117193000 +0700" stop="20251117213000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Valencia Basket Club - Tenerife</title>
+<programme start="20251118220000 +0700" stop="20251119000000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Lanus - Universidad de Chile</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251117213000 +0700" stop="20251117233000 +0700" channel="COSMOTE Sport 4 HD">
@@ -220,10 +224,6 @@
 </programme>
 <programme start="20251118213000 +0700" stop="20251118233000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Barcelona - Baskonia</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251117203500 +0700" stop="20251117214000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: MotoGP 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251117214000 +0700" stop="20251117230000 +0700" channel="COSMOTE Sport 5 HD">
