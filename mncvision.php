@@ -1138,11 +1138,14 @@
 <programme start="20251117103000 +0000" stop="20251117110000 +0000" channel="beIN Sports 1.mncvision">
     <title>Mini Match LaLiga: RMA Vs BAR</title>
 </programme>
-<programme start="20251117110000 +0000" stop="20251117133000 +0000" channel="beIN Sports 1.mncvision">
+<programme start="20251117110000 +0000" stop="20251117131500 +0000" channel="beIN Sports 1.mncvision">
     <title>LFCTV Specials 2025/26: Alisson</title>
 </programme>
-<programme start="20251117133000 +0000" stop="20251117140000 +0000" channel="beIN Sports 1.mncvision">
+<programme start="20251117131500 +0000" stop="20251117134500 +0000" channel="beIN Sports 1.mncvision">
     <title>LFC Trending 2025/26, Ep 15</title>
+</programme>
+<programme start="20251117134500 +0000" stop="20251117140000 +0000" channel="beIN Sports 1.mncvision">
+    <title>LaLiga Goals Galore 2024/25</title>
 </programme>
 <programme start="20251117140000 +0000" stop="20251117160000 +0000" channel="beIN Sports 1.mncvision">
     <title>LaLiga 2 2025/26: VLD Vs LPM</title>
@@ -1216,11 +1219,14 @@
 <programme start="20251117103000 +0000" stop="20251117110000 +0000" channel="beIN Sports 1 HD.mncvision">
     <title>Mini Match LaLiga: RMA Vs BAR</title>
 </programme>
-<programme start="20251117110000 +0000" stop="20251117133000 +0000" channel="beIN Sports 1 HD.mncvision">
+<programme start="20251117110000 +0000" stop="20251117131500 +0000" channel="beIN Sports 1 HD.mncvision">
     <title>LFCTV Specials 2025/26: Alisson</title>
 </programme>
-<programme start="20251117133000 +0000" stop="20251117140000 +0000" channel="beIN Sports 1 HD.mncvision">
+<programme start="20251117131500 +0000" stop="20251117134500 +0000" channel="beIN Sports 1 HD.mncvision">
     <title>LFC Trending 2025/26, Ep 15</title>
+</programme>
+<programme start="20251117134500 +0000" stop="20251117140000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>LaLiga Goals Galore 2024/25</title>
 </programme>
 <programme start="20251117140000 +0000" stop="20251117160000 +0000" channel="beIN Sports 1 HD.mncvision">
     <title>LaLiga 2 2025/26: VLD Vs LPM</title>

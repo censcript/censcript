@@ -6790,11 +6790,14 @@
     <programme start="20251117103000 +0000" stop="20251117110000 +0000" channel="beIN Sports HD.starhub">
         <title>Mini Match - LaLiga 2025/26: Real Madrid vs Barcelona</title>
     </programme>
-    <programme start="20251117110000 +0000" stop="20251117133000 +0000" channel="beIN Sports HD.starhub">
+    <programme start="20251117110000 +0000" stop="20251117131500 +0000" channel="beIN Sports HD.starhub">
         <title>Alisson - My Story</title>
     </programme>
-    <programme start="20251117133000 +0000" stop="20251117140000 +0000" channel="beIN Sports HD.starhub">
+    <programme start="20251117131500 +0000" stop="20251117134500 +0000" channel="beIN Sports HD.starhub">
         <title>LFC Trending 2025/26</title>
+    </programme>
+    <programme start="20251117134500 +0000" stop="20251117140000 +0000" channel="beIN Sports HD.starhub">
+        <title>Raphinha</title>
     </programme>
     <programme start="20251117140000 +0000" stop="20251117160000 +0000" channel="beIN Sports HD.starhub">
         <title>LaLiga 2 2025/26: Valladolid vs Las Palmas</title>
