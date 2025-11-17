@@ -8620,11 +8620,8 @@
 <programme start="20251117043000 +0000" stop="20251117073000 +0000" channel="SPOTV 2.mncvision">
     <title>MLB 2025: CHI Vs MIL</title>
 </programme>
-<programme start="20251117073000 +0000" stop="20251117093000 +0000" channel="SPOTV 2.mncvision">
+<programme start="20251117073000 +0000" stop="20251117100000 +0000" channel="SPOTV 2.mncvision">
     <title>Penrite Oil Sandown 500</title>
-</programme>
-<programme start="20251117093000 +0000" stop="20251117100000 +0000" channel="SPOTV 2.mncvision">
-    <title>2025/26 ALM Mini Match</title>
 </programme>
 <programme start="20251117100000 +0000" stop="20251117110000 +0000" channel="SPOTV 2.mncvision">
     <title>Moutai Singapore Open HL</title>
@@ -8656,11 +8653,8 @@
 <programme start="20251117043000 +0000" stop="20251117073000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>MLB 2025: CHI Vs MIL</title>
 </programme>
-<programme start="20251117073000 +0000" stop="20251117093000 +0000" channel="SPOTV 2 HD.mncvision">
+<programme start="20251117073000 +0000" stop="20251117100000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>Penrite Oil Sandown 500</title>
-</programme>
-<programme start="20251117093000 +0000" stop="20251117100000 +0000" channel="SPOTV 2 HD.mncvision">
-    <title>2025/26 ALM Mini Match</title>
 </programme>
 <programme start="20251117100000 +0000" stop="20251117110000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>Moutai Singapore Open HL</title>

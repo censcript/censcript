@@ -2815,22 +2815,16 @@
 <programme start="20251117213000 +0000" stop="20251118003000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: DP World Tour Championship, 4. Tag in Dubai (VAE)</title>
 </programme>
-<programme start="20251116230000 +0000" stop="20251117000000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>MotoGP: Rennen - GP Valencia</title>
+<programme start="20251116234000 +0000" stop="20251117000000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>NHL: Highlights EDM@CAR</title>
 </programme>
-<programme start="20251117000000 +0000" stop="20251117023000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20251117000000 +0000" stop="20251117031000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NBA: Orlando Magic @ Houston Rockets</title>
 </programme>
-<programme start="20251117023000 +0000" stop="20251117024500 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NHL: Highlights BOS@MTL</title>
-</programme>
-<programme start="20251117024500 +0000" stop="20251117030000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NHL: Highlights BUF@DET</title>
-</programme>
-<programme start="20251117030000 +0000" stop="20251117040000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20251117031000 +0000" stop="20251117041000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Moto2: Rennen - GP Valencia</title>
 </programme>
-<programme start="20251117040000 +0000" stop="20251117060000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20251117041000 +0000" stop="20251117060000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>DFB-Pokal Frauen: VfL Wolfsburg - SC Freiburg, Achtelfinale</title>
 </programme>
 <programme start="20251117060000 +0000" stop="20251117080000 +0000" channel="Sky Sport Mix HD.skyde">
@@ -2869,10 +2863,7 @@
 <programme start="20251117170000 +0000" stop="20251117190000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Nashville Predators @ Pittsburgh Penguins, Global Series 2025 in Stockholm (SWE)</title>
 </programme>
-<programme start="20251117190000 +0000" stop="20251117193000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NHL: On the Fly</title>
-</programme>
-<programme start="20251117193000 +0000" stop="20251117213000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20251117190000 +0000" stop="20251117213000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NBA: Orlando Magic @ Houston Rockets</title>
 </programme>
 <programme start="20251117213000 +0000" stop="20251117233000 +0000" channel="Sky Sport Mix HD.skyde">
@@ -3028,23 +3019,23 @@
 <programme start="20251117223000 +0000" stop="20251117230000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: My Season: Gareth Bale (2012/2013)</title>
 </programme>
-<programme start="20251116230000 +0000" stop="20251117000000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20251116234500 +0000" stop="20251117004500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Tennis: Becker Petkovic LIVE</title>
 </programme>
-<programme start="20251117000000 +0000" stop="20251117023000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP Finals: J. Salisbury (GBR)/N. Skupski (GBR) - H. Heliovaara (FIN)/H. Patten (GBR), Doppelfinale 2025 in Turin (ITA)</title>
+<programme start="20251117004500 +0000" stop="20251117030000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP Finals: J. Salisbury (GBR) / N. Skupski (GBR) - H. Heliovaara (FIN) / H. Patten (GBR), Doppelfinale 2025 in Turin (ITA)</title>
 </programme>
-<programme start="20251117023000 +0000" stop="20251117043000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20251117030000 +0000" stop="20251117050000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP Finals: A. Zverev (GER) - D. Medvedev, Finale 2021 in Turin (ITA)</title>
 </programme>
-<programme start="20251117043000 +0000" stop="20251117070000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20251117050000 +0000" stop="20251117073000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA Finals: A. Sabalenka - E. Rybakina (KAZ), Finale 2025 in Riyadh (SAU)</title>
 </programme>
-<programme start="20251117070000 +0000" stop="20251117073000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20251117073000 +0000" stop="20251117080000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA Finals: Review Riyadh 2025</title>
 </programme>
-<programme start="20251117073000 +0000" stop="20251117100000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP Finals: J. Salisbury (GBR)/N. Skupski (GBR) - H. Heliovaara (FIN)/H. Patten (GBR), Doppelfinale 2025 in Turin (ITA)</title>
+<programme start="20251117080000 +0000" stop="20251117100000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP Finals: J. Salisbury (GBR) / N. Skupski (GBR) - H. Heliovaara (FIN) / H. Patten (GBR), Doppelfinale 2025 in Turin (ITA)</title>
 </programme>
 <programme start="20251117100000 +0000" stop="20251117123000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP Finals: J. Sinner (ITA) - C. Alcaraz (ESP), Finale 2025 in Turin (ITA)</title>
@@ -3076,31 +3067,31 @@
 <programme start="20251116234500 +0000" stop="20251117000000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>NHL: Highlights BUF@DET</title>
 </programme>
-<programme start="20251117000000 +0000" stop="20251117023000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20251117000000 +0000" stop="20251117031000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Orlando Magic @ Houston Rockets</title>
 </programme>
-<programme start="20251117023000 +0000" stop="20251117033000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20251117031000 +0000" stop="20251117041000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Moto2: Rennen - GP Valencia</title>
 </programme>
-<programme start="20251117033000 +0000" stop="20251117043000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20251117041000 +0000" stop="20251117051500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Moto3: Rennen - GP Valencia</title>
 </programme>
-<programme start="20251117043000 +0000" stop="20251117050000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20251117051500 +0000" stop="20251117054500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>F1: GP Confidential</title>
 </programme>
-<programme start="20251117050000 +0000" stop="20251117073000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20251117054500 +0000" stop="20251117081500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>ATP Finals: J. Sinner (ITA) - C. Alcaraz (ESP), Finale 2025 in Turin (ITA)</title>
 </programme>
-<programme start="20251117073000 +0000" stop="20251117100000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20251117081500 +0000" stop="20251117100500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>PGA Tour Champions: Charles Schwab Cup Championship, 4. Tag in Phoenix, Arizona (USA)</title>
 </programme>
-<programme start="20251117100000 +0000" stop="20251117110000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20251117100500 +0000" stop="20251117110500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Moto3: Rennen - GP Valencia</title>
 </programme>
-<programme start="20251117110000 +0000" stop="20251117120000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20251117110500 +0000" stop="20251117120500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Moto2: Rennen - GP Valencia</title>
 </programme>
-<programme start="20251117120000 +0000" stop="20251117130000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20251117120500 +0000" stop="20251117130000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>MotoGP: Rennen - GP Valencia</title>
 </programme>
 <programme start="20251117130000 +0000" stop="20251117133000 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3113,7 +3104,7 @@
     <title>Live Junioren: Deutschland - Italien, U20-Testspiel in Spanien</title>
 </programme>
 <programme start="20251117160000 +0000" stop="20251117183000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>ATP Finals: J. Salisbury (GBR)/N. Skupski (GBR) - H. Heliovaara (FIN)/H. Patten (GBR), Doppelfinale 2025 in Turin (ITA)</title>
+    <title>ATP Finals: J. Salisbury (GBR) / N. Skupski (GBR) - H. Heliovaara (FIN) / H. Patten (GBR), Doppelfinale 2025 in Turin (ITA)</title>
 </programme>
 <programme start="20251117183000 +0000" stop="20251117210000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>ATP Finals: J. Sinner (ITA) - C. Alcaraz (ESP), Finale 2025 in Turin (ITA)</title>

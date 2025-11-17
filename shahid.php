@@ -5803,222 +5803,6 @@
     <programme start="20251118160500 +0000" stop="20251118235959 +0000" channel="1003218.shahid">
         <title>TV guide is not available</title>
     </programme>
-    <programme start="20251117000000 +0000" stop="20251117001500 +0000" channel="995495.shahid">
-        <title>Masaa AlThaqafeya</title>
-    </programme>
-    <programme start="20251117001500 +0000" stop="20251117013000 +0000" channel="995495.shahid">
-        <title>Tilka Shahaadati Season 2 Episode 12</title>
-    </programme>
-    <programme start="20251117013000 +0000" stop="20251117022500 +0000" channel="995495.shahid">
-        <title>Qawl Ala Qawl</title>
-    </programme>
-    <programme start="20251117022500 +0000" stop="20251117023000 +0000" channel="995495.shahid">
-        <title>Eshna W Shofna Episode 11</title>
-    </programme>
-    <programme start="20251117023000 +0000" stop="20251117032500 +0000" channel="995495.shahid">
-        <title>Tilka Shahaadati Season 2 Episode 12</title>
-    </programme>
-    <programme start="20251117032500 +0000" stop="20251117050000 +0000" channel="995495.shahid">
-        <title>Waynak?</title>
-    </programme>
-    <programme start="20251117050000 +0000" stop="20251117054500 +0000" channel="995495.shahid">
-        <title>Qawl Ala Qawl</title>
-    </programme>
-    <programme start="20251117054500 +0000" stop="20251117060000 +0000" channel="995495.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20251117060000 +0000" stop="20251117060100 +0000" channel="995495.shahid">
-        <title>Eshna W Shofna Episode 12</title>
-    </programme>
-    <programme start="20251117060100 +0000" stop="20251117070000 +0000" channel="995495.shahid">
-        <title>Eshna W Shofna Episode 11</title>
-    </programme>
-    <programme start="20251117070000 +0000" stop="20251117073000 +0000" channel="995495.shahid">
-        <title>Masaa AlThaqafeya Season 1 Episode 480</title>
-    </programme>
-    <programme start="20251117073000 +0000" stop="20251117100500 +0000" channel="995495.shahid">
-        <title>Waynak? Season 13 Episode 11</title>
-    </programme>
-    <programme start="20251117100500 +0000" stop="20251117110100 +0000" channel="995495.shahid">
-        <title>Al Raffah Season 2 Episode 3</title>
-    </programme>
-    <programme start="20251117110100 +0000" stop="20251117120000 +0000" channel="995495.shahid">
-        <title>Expedition With Steve Backshall</title>
-    </programme>
-    <programme start="20251117120000 +0000" stop="20251117123000 +0000" channel="995495.shahid">
-        <title>Hollywood&#039;s Best Film Directors</title>
-    </programme>
-    <programme start="20251117123000 +0000" stop="20251117130500 +0000" channel="995495.shahid">
-        <title>The World From Above</title>
-    </programme>
-    <programme start="20251117130500 +0000" stop="20251117140000 +0000" channel="995495.shahid">
-        <title>Eshna W Shofna Episode 12</title>
-    </programme>
-    <programme start="20251117140000 +0000" stop="20251117142500 +0000" channel="995495.shahid">
-        <title>Matha Ya&#039;kol Al Saudiyyoun Season 1 Episode 6</title>
-    </programme>
-    <programme start="20251117142500 +0000" stop="20251117145500 +0000" channel="995495.shahid">
-        <title>Ayadeena</title>
-    </programme>
-    <programme start="20251117145500 +0000" stop="20251117170000 +0000" channel="995495.shahid">
-        <title>Sardiya</title>
-    </programme>
-    <programme start="20251117170000 +0000" stop="20251117173000 +0000" channel="995495.shahid">
-        <title>Masaa AlThaqafeya</title>
-    </programme>
-    <programme start="20251117173000 +0000" stop="20251117173500 +0000" channel="995495.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20251117173500 +0000" stop="20251117190000 +0000" channel="995495.shahid">
-        <title>Ithnayniyyat Al Riyadh</title>
-    </programme>
-    <programme start="20251117190000 +0000" stop="20251117200100 +0000" channel="995495.shahid">
-        <title>Bank Al Thaqafa</title>
-    </programme>
-    <programme start="20251117200100 +0000" stop="20251117203100 +0000" channel="995495.shahid">
-        <title>Masaa AlThaqafeya</title>
-    </programme>
-    <programme start="20251117203100 +0000" stop="20251117220000 +0000" channel="995495.shahid">
-        <title>Ithnayniyyat Al Riyadh</title>
-    </programme>
-    <programme start="20251117220000 +0000" stop="20251117230000 +0000" channel="995495.shahid">
-        <title>Bank Al Thaqafa</title>
-    </programme>
-    <programme start="20251117230000 +0000" stop="20251117233500 +0000" channel="995495.shahid">
-        <title>Masaa AlThaqafeya</title>
-    </programme>
-    <programme start="20251117233500 +0000" stop="20251118000000 +0000" channel="995495.shahid">
-        <title>Matha Ya&#039;kol Al Saudiyyoun Season 1 Episode 6</title>
-    </programme>
-    <programme start="20251118000000 +0000" stop="20251118003000 +0000" channel="995495.shahid">
-        <title>Ayadeena</title>
-    </programme>
-    <programme start="20251118003000 +0000" stop="20251118013100 +0000" channel="995495.shahid">
-        <title>Bank Al Thaqafa</title>
-    </programme>
-    <programme start="20251118013100 +0000" stop="20251118023000 +0000" channel="995495.shahid">
-        <title>Eshna W Shofna Episode 12</title>
-    </programme>
-    <programme start="20251118023000 +0000" stop="20251118030500 +0000" channel="995495.shahid">
-        <title>Matha Ya&#039;kol Al Saudiyyoun Season 1 Episode 6</title>
-    </programme>
-    <programme start="20251118030500 +0000" stop="20251118033500 +0000" channel="995495.shahid">
-        <title>Ayadeena</title>
-    </programme>
-    <programme start="20251118033500 +0000" stop="20251118050000 +0000" channel="995495.shahid">
-        <title>Ithnayniyyat Al Riyadh</title>
-    </programme>
-    <programme start="20251118050000 +0000" stop="20251118060000 +0000" channel="995495.shahid">
-        <title>Bank Al Thaqafa</title>
-    </programme>
-    <programme start="20251118060000 +0000" stop="20251118064700 +0000" channel="995495.shahid">
-        <title>Eshna W Shofna Episode 13</title>
-    </programme>
-    <programme start="20251118064700 +0000" stop="20251118070000 +0000" channel="995495.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20251118070000 +0000" stop="20251118073000 +0000" channel="995495.shahid">
-        <title>Masaa AlThaqafeya</title>
-    </programme>
-    <programme start="20251118073000 +0000" stop="20251118082400 +0000" channel="995495.shahid">
-        <title>Bank Al Thaqafa</title>
-    </programme>
-    <programme start="20251118082400 +0000" stop="20251118083000 +0000" channel="995495.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20251118083000 +0000" stop="20251118094000 +0000" channel="995495.shahid">
-        <title>Ithnayniyyat Al Riyadh</title>
-    </programme>
-    <programme start="20251118094000 +0000" stop="20251118100000 +0000" channel="995495.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20251118100000 +0000" stop="20251118104500 +0000" channel="995495.shahid">
-        <title>Qawl Ala Qawl</title>
-    </programme>
-    <programme start="20251118104500 +0000" stop="20251118110000 +0000" channel="995495.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20251118110000 +0000" stop="20251118112300 +0000" channel="995495.shahid">
-        <title>Ayadeena</title>
-    </programme>
-    <programme start="20251118112300 +0000" stop="20251118113000 +0000" channel="995495.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20251118113000 +0000" stop="20251118122000 +0000" channel="995495.shahid">
-        <title>Expedition With Steve Backshall</title>
-    </programme>
-    <programme start="20251118122000 +0000" stop="20251118123000 +0000" channel="995495.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20251118123000 +0000" stop="20251118130000 +0000" channel="995495.shahid">
-        <title>Hollywood&#039;s Best Film Directors</title>
-    </programme>
-    <programme start="20251118130000 +0000" stop="20251118135300 +0000" channel="995495.shahid">
-        <title>Eshna W Shofna Episode 14</title>
-    </programme>
-    <programme start="20251118135300 +0000" stop="20251118140000 +0000" channel="995495.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20251118140000 +0000" stop="20251118141500 +0000" channel="995495.shahid">
-        <title>Awtar Al Arab</title>
-    </programme>
-    <programme start="20251118141500 +0000" stop="20251118143000 +0000" channel="995495.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20251118143000 +0000" stop="20251118144000 +0000" channel="995495.shahid">
-        <title>Misaha Lil Wafaa</title>
-    </programme>
-    <programme start="20251118144000 +0000" stop="20251118150000 +0000" channel="995495.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20251118150000 +0000" stop="20251118170000 +0000" channel="995495.shahid">
-        <title>Sardiya</title>
-    </programme>
-    <programme start="20251118170000 +0000" stop="20251118173000 +0000" channel="995495.shahid">
-        <title>Masaa AlThaqafeya</title>
-    </programme>
-    <programme start="20251118173000 +0000" stop="20251118181600 +0000" channel="995495.shahid">
-        <title>Alfylsoof</title>
-    </programme>
-    <programme start="20251118181600 +0000" stop="20251118183000 +0000" channel="995495.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20251118183000 +0000" stop="20251118192500 +0000" channel="995495.shahid">
-        <title>Red Carpet</title>
-    </programme>
-    <programme start="20251118192500 +0000" stop="20251118193000 +0000" channel="995495.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20251118193000 +0000" stop="20251118200000 +0000" channel="995495.shahid">
-        <title>Hollywood&#039;s Best Film Directors</title>
-    </programme>
-    <programme start="20251118200000 +0000" stop="20251118203000 +0000" channel="995495.shahid">
-        <title>Masaa AlThaqafeya</title>
-    </programme>
-    <programme start="20251118203000 +0000" stop="20251118211600 +0000" channel="995495.shahid">
-        <title>Alfylsoof</title>
-    </programme>
-    <programme start="20251118211600 +0000" stop="20251118213000 +0000" channel="995495.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20251118213000 +0000" stop="20251118222500 +0000" channel="995495.shahid">
-        <title>Red Carpet</title>
-    </programme>
-    <programme start="20251118222500 +0000" stop="20251118223000 +0000" channel="995495.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20251118223000 +0000" stop="20251118230000 +0000" channel="995495.shahid">
-        <title>Hollywood&#039;s Best Film Directors</title>
-    </programme>
-    <programme start="20251118230000 +0000" stop="20251118233000 +0000" channel="995495.shahid">
-        <title>Masaa AlThaqafeya</title>
-    </programme>
-    <programme start="20251118233000 +0000" stop="20251118234500 +0000" channel="995495.shahid">
-        <title>Awtar Al Arab</title>
-    </programme>
-    <programme start="20251118234500 +0000" stop="20251118235959 +0000" channel="995495.shahid">
-        <title>TV guide is not available</title>
-    </programme>
     <programme start="20251117000000 +0000" stop="20251118235959 +0000" channel="986346.shahid">
         <title>TV guide is not available</title>
     </programme>
@@ -7399,6 +7183,216 @@
     <programme start="20251117000000 +0000" stop="20251118235959 +0000" channel="1029746.shahid">
         <title>TV guide is not available</title>
     </programme>
+    <programme start="20251117000000 +0000" stop="20251117003000 +0000" channel="387294.shahid">
+        <title>Welad El Shams Season 1 Episode 5</title>
+    </programme>
+    <programme start="20251117003000 +0000" stop="20251117011000 +0000" channel="387294.shahid">
+        <title>Al Marsa Season 1 Episode 23</title>
+    </programme>
+    <programme start="20251117011000 +0000" stop="20251117020900 +0000" channel="387294.shahid">
+        <title>A&#039;elati Tarbah Season 4 Episode 92</title>
+    </programme>
+    <programme start="20251117020900 +0000" stop="20251117025500 +0000" channel="387294.shahid">
+        <title>2024 Season 2 Episode 10</title>
+    </programme>
+    <programme start="20251117025500 +0000" stop="20251117033900 +0000" channel="387294.shahid">
+        <title>Welad El Shams Season 1 Episode 5</title>
+    </programme>
+    <programme start="20251117033900 +0000" stop="20251117040400 +0000" channel="387294.shahid">
+        <title>Fareed Season 3 Episode 474</title>
+    </programme>
+    <programme start="20251117040400 +0000" stop="20251117043500 +0000" channel="387294.shahid">
+        <title>Al Madeena Al Ba&#039;eeda Season 1 Episode 109</title>
+    </programme>
+    <programme start="20251117043500 +0000" stop="20251117052000 +0000" channel="387294.shahid">
+        <title>Al Marsa Season 1 Episode 23</title>
+    </programme>
+    <programme start="20251117052000 +0000" stop="20251117061500 +0000" channel="387294.shahid">
+        <title>Heera  </title>
+    </programme>
+    <programme start="20251117061500 +0000" stop="20251117071500 +0000" channel="387294.shahid">
+        <title>A&#039;elati Tarbah Season 4 Episode 92</title>
+    </programme>
+    <programme start="20251117071500 +0000" stop="20251117081000 +0000" channel="387294.shahid">
+        <title>2024 Season 2 Episode 10</title>
+    </programme>
+    <programme start="20251117081000 +0000" stop="20251117085500 +0000" channel="387294.shahid">
+        <title>Welad El Shams Season 1 Episode 5</title>
+    </programme>
+    <programme start="20251117085500 +0000" stop="20251117093000 +0000" channel="387294.shahid">
+        <title>Fareed Season 3 Episode 474</title>
+    </programme>
+    <programme start="20251117093000 +0000" stop="20251117100500 +0000" channel="387294.shahid">
+        <title>Al Madeena Al Ba&#039;eeda Season 1 Episode 109</title>
+    </programme>
+    <programme start="20251117100500 +0000" stop="20251117110000 +0000" channel="387294.shahid">
+        <title>Al Marsa Season 1 Episode 23</title>
+    </programme>
+    <programme start="20251117110000 +0000" stop="20251117120000 +0000" channel="387294.shahid">
+        <title>A&#039;elati Tarbah Season 4 Episode 92</title>
+    </programme>
+    <programme start="20251117120000 +0000" stop="20251117130000 +0000" channel="387294.shahid">
+        <title>Hayati Al Mithaliyya Season 1 Episode 21</title>
+    </programme>
+    <programme start="20251117130000 +0000" stop="20251117140000 +0000" channel="387294.shahid">
+        <title>2024 Season 2 Episode 11</title>
+    </programme>
+    <programme start="20251117140000 +0000" stop="20251117145500 +0000" channel="387294.shahid">
+        <title>Welad El Shams Season 1 Episode 6</title>
+    </programme>
+    <programme start="20251117145500 +0000" stop="20251117160000 +0000" channel="387294.shahid">
+        <title>Al Marsa Season 1 Episode 24</title>
+    </programme>
+    <programme start="20251117160000 +0000" stop="20251117162500 +0000" channel="387294.shahid">
+        <title>Fareed Season 3 Episode 475</title>
+    </programme>
+    <programme start="20251117162500 +0000" stop="20251117170500 +0000" channel="387294.shahid">
+        <title>Al Madeena Al Ba&#039;eeda Season 1 Episode 110</title>
+    </programme>
+    <programme start="20251117170500 +0000" stop="20251117180500 +0000" channel="387294.shahid">
+        <title>A&#039;elati Tarbah Season 4 Episode 93</title>
+    </programme>
+    <programme start="20251117180500 +0000" stop="20251117190000 +0000" channel="387294.shahid">
+        <title>Heera  </title>
+    </programme>
+    <programme start="20251117190000 +0000" stop="20251117200000 +0000" channel="387294.shahid">
+        <title>Bank Al Thaqafa</title>
+    </programme>
+    <programme start="20251117200000 +0000" stop="20251117203000 +0000" channel="387294.shahid">
+        <title>Hamed Hilou Season 6 Episode 4</title>
+    </programme>
+    <programme start="20251117203000 +0000" stop="20251117212500 +0000" channel="387294.shahid">
+        <title>Min Share’ Al Haram Ela... Season 1 Episode 22</title>
+    </programme>
+    <programme start="20251117212500 +0000" stop="20251117222400 +0000" channel="387294.shahid">
+        <title>A&#039;elati Tarbah Season 4 Episode 93</title>
+    </programme>
+    <programme start="20251117222400 +0000" stop="20251117224900 +0000" channel="387294.shahid">
+        <title>Fareed Season 3 Episode 475</title>
+    </programme>
+    <programme start="20251117224900 +0000" stop="20251117234500 +0000" channel="387294.shahid">
+        <title>2024 Season 2 Episode 11</title>
+    </programme>
+    <programme start="20251117234500 +0000" stop="20251118002500 +0000" channel="387294.shahid">
+        <title>Welad El Shams Season 1 Episode 6</title>
+    </programme>
+    <programme start="20251118002500 +0000" stop="20251118011000 +0000" channel="387294.shahid">
+        <title>Al Marsa Season 1 Episode 24</title>
+    </programme>
+    <programme start="20251118011000 +0000" stop="20251118020500 +0000" channel="387294.shahid">
+        <title>A&#039;elati Tarbah Season 4 Episode 93</title>
+    </programme>
+    <programme start="20251118020500 +0000" stop="20251118030000 +0000" channel="387294.shahid">
+        <title>2024 Season 2 Episode 11</title>
+    </programme>
+    <programme start="20251118030000 +0000" stop="20251118033700 +0000" channel="387294.shahid">
+        <title>Welad El Shams Season 1 Episode 6</title>
+    </programme>
+    <programme start="20251118033700 +0000" stop="20251118040500 +0000" channel="387294.shahid">
+        <title>Fareed Season 3 Episode 475</title>
+    </programme>
+    <programme start="20251118040500 +0000" stop="20251118044000 +0000" channel="387294.shahid">
+        <title>Al Madeena Al Ba&#039;eeda Season 1 Episode 110</title>
+    </programme>
+    <programme start="20251118044000 +0000" stop="20251118052300 +0000" channel="387294.shahid">
+        <title>Al Marsa Season 1 Episode 24</title>
+    </programme>
+    <programme start="20251118052300 +0000" stop="20251118060000 +0000" channel="387294.shahid">
+        <title>Heera  </title>
+    </programme>
+    <programme start="20251118060000 +0000" stop="20251118065400 +0000" channel="387294.shahid">
+        <title>A&#039;elati Tarbah Season 4 Episode 93</title>
+    </programme>
+    <programme start="20251118065400 +0000" stop="20251118070000 +0000" channel="387294.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20251118070000 +0000" stop="20251118080000 +0000" channel="387294.shahid">
+        <title>2024 Season 2 Episode 11</title>
+    </programme>
+    <programme start="20251118080000 +0000" stop="20251118084100 +0000" channel="387294.shahid">
+        <title>Welad El Shams Season 1 Episode 6</title>
+    </programme>
+    <programme start="20251118084100 +0000" stop="20251118085500 +0000" channel="387294.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20251118085500 +0000" stop="20251118092500 +0000" channel="387294.shahid">
+        <title>Fareed Season 3 Episode 475</title>
+    </programme>
+    <programme start="20251118092500 +0000" stop="20251118100500 +0000" channel="387294.shahid">
+        <title>Al Madeena Al Ba&#039;eeda Season 1 Episode 110</title>
+    </programme>
+    <programme start="20251118100500 +0000" stop="20251118105500 +0000" channel="387294.shahid">
+        <title>Al Marsa Season 1 Episode 24</title>
+    </programme>
+    <programme start="20251118105500 +0000" stop="20251118110000 +0000" channel="387294.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20251118110000 +0000" stop="20251118115300 +0000" channel="387294.shahid">
+        <title>A&#039;elati Tarbah Season 4 Episode 93</title>
+    </programme>
+    <programme start="20251118115300 +0000" stop="20251118120000 +0000" channel="387294.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20251118120000 +0000" stop="20251118124800 +0000" channel="387294.shahid">
+        <title>Hayati Al Mithaliyya Season 1 Episode 22</title>
+    </programme>
+    <programme start="20251118124800 +0000" stop="20251118130000 +0000" channel="387294.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20251118130000 +0000" stop="20251118135300 +0000" channel="387294.shahid">
+        <title>2024 Season 2 Episode 12</title>
+    </programme>
+    <programme start="20251118135300 +0000" stop="20251118140000 +0000" channel="387294.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20251118140000 +0000" stop="20251118144200 +0000" channel="387294.shahid">
+        <title>Welad El Shams Season 1 Episode 7</title>
+    </programme>
+    <programme start="20251118144200 +0000" stop="20251118145500 +0000" channel="387294.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20251118145500 +0000" stop="20251118155500 +0000" channel="387294.shahid">
+        <title>Al Marsa</title>
+    </programme>
+    <programme start="20251118155500 +0000" stop="20251118163000 +0000" channel="387294.shahid">
+        <title>Fareed Season 3 Episode 476</title>
+    </programme>
+    <programme start="20251118163000 +0000" stop="20251118170500 +0000" channel="387294.shahid">
+        <title>Al Madeena Al Ba&#039;eeda Season 1 Episode 111</title>
+    </programme>
+    <programme start="20251118170500 +0000" stop="20251118175300 +0000" channel="387294.shahid">
+        <title>A&#039;elati Tarbah Season 4 Episode 19</title>
+    </programme>
+    <programme start="20251118175300 +0000" stop="20251118180000 +0000" channel="387294.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20251118180000 +0000" stop="20251118185500 +0000" channel="387294.shahid">
+        <title>Heera  </title>
+    </programme>
+    <programme start="20251118185500 +0000" stop="20251118203000 +0000" channel="387294.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20251118203000 +0000" stop="20251118211700 +0000" channel="387294.shahid">
+        <title>Min Share’ Al Haram Ela... Season 1 Episode 23</title>
+    </programme>
+    <programme start="20251118211700 +0000" stop="20251118212500 +0000" channel="387294.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20251118212500 +0000" stop="20251118221700 +0000" channel="387294.shahid">
+        <title>A&#039;elati Tarbah Season 4 Episode 19</title>
+    </programme>
+    <programme start="20251118221700 +0000" stop="20251118222500 +0000" channel="387294.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20251118222500 +0000" stop="20251118230000 +0000" channel="387294.shahid">
+        <title>Fareed Season 3 Episode 476</title>
+    </programme>
+    <programme start="20251118230000 +0000" stop="20251118235000 +0000" channel="387294.shahid">
+        <title>2024 Season 2 Episode 12</title>
+    </programme>
+    <programme start="20251118235000 +0000" stop="20251118235959 +0000" channel="387294.shahid">
+        <title>TV guide is not available</title>
+    </programme>
     <programme start="20251117000000 +0000" stop="20251117000243 +0000" channel="976272.shahid">
         <title>Al Kabeer Season 5 Episode 3</title>
     </programme>
@@ -7646,216 +7640,6 @@
         <title>El Kebeer Awi Season 7 Episode 24</title>
     </programme>
     <programme start="20251118234423 +0000" stop="20251118235959 +0000" channel="976272.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20251117000000 +0000" stop="20251117003000 +0000" channel="387294.shahid">
-        <title>Welad El Shams Season 1 Episode 5</title>
-    </programme>
-    <programme start="20251117003000 +0000" stop="20251117011000 +0000" channel="387294.shahid">
-        <title>Al Marsa Season 1 Episode 23</title>
-    </programme>
-    <programme start="20251117011000 +0000" stop="20251117020900 +0000" channel="387294.shahid">
-        <title>A&#039;elati Tarbah Season 4 Episode 92</title>
-    </programme>
-    <programme start="20251117020900 +0000" stop="20251117025500 +0000" channel="387294.shahid">
-        <title>2024 Season 2 Episode 10</title>
-    </programme>
-    <programme start="20251117025500 +0000" stop="20251117033900 +0000" channel="387294.shahid">
-        <title>Welad El Shams Season 1 Episode 5</title>
-    </programme>
-    <programme start="20251117033900 +0000" stop="20251117040400 +0000" channel="387294.shahid">
-        <title>Fareed Season 3 Episode 474</title>
-    </programme>
-    <programme start="20251117040400 +0000" stop="20251117043500 +0000" channel="387294.shahid">
-        <title>Al Madeena Al Ba&#039;eeda Season 1 Episode 109</title>
-    </programme>
-    <programme start="20251117043500 +0000" stop="20251117052000 +0000" channel="387294.shahid">
-        <title>Al Marsa Season 1 Episode 23</title>
-    </programme>
-    <programme start="20251117052000 +0000" stop="20251117061500 +0000" channel="387294.shahid">
-        <title>Heera  </title>
-    </programme>
-    <programme start="20251117061500 +0000" stop="20251117071500 +0000" channel="387294.shahid">
-        <title>A&#039;elati Tarbah Season 4 Episode 92</title>
-    </programme>
-    <programme start="20251117071500 +0000" stop="20251117081000 +0000" channel="387294.shahid">
-        <title>2024 Season 2 Episode 10</title>
-    </programme>
-    <programme start="20251117081000 +0000" stop="20251117085500 +0000" channel="387294.shahid">
-        <title>Welad El Shams Season 1 Episode 5</title>
-    </programme>
-    <programme start="20251117085500 +0000" stop="20251117093000 +0000" channel="387294.shahid">
-        <title>Fareed Season 3 Episode 474</title>
-    </programme>
-    <programme start="20251117093000 +0000" stop="20251117100500 +0000" channel="387294.shahid">
-        <title>Al Madeena Al Ba&#039;eeda Season 1 Episode 109</title>
-    </programme>
-    <programme start="20251117100500 +0000" stop="20251117110000 +0000" channel="387294.shahid">
-        <title>Al Marsa Season 1 Episode 23</title>
-    </programme>
-    <programme start="20251117110000 +0000" stop="20251117120000 +0000" channel="387294.shahid">
-        <title>A&#039;elati Tarbah Season 4 Episode 92</title>
-    </programme>
-    <programme start="20251117120000 +0000" stop="20251117130000 +0000" channel="387294.shahid">
-        <title>Hayati Al Mithaliyya Season 1 Episode 21</title>
-    </programme>
-    <programme start="20251117130000 +0000" stop="20251117140000 +0000" channel="387294.shahid">
-        <title>2024 Season 2 Episode 11</title>
-    </programme>
-    <programme start="20251117140000 +0000" stop="20251117145500 +0000" channel="387294.shahid">
-        <title>Welad El Shams Season 1 Episode 6</title>
-    </programme>
-    <programme start="20251117145500 +0000" stop="20251117160000 +0000" channel="387294.shahid">
-        <title>Al Marsa Season 1 Episode 24</title>
-    </programme>
-    <programme start="20251117160000 +0000" stop="20251117162500 +0000" channel="387294.shahid">
-        <title>Fareed Season 3 Episode 475</title>
-    </programme>
-    <programme start="20251117162500 +0000" stop="20251117170500 +0000" channel="387294.shahid">
-        <title>Al Madeena Al Ba&#039;eeda Season 1 Episode 110</title>
-    </programme>
-    <programme start="20251117170500 +0000" stop="20251117180500 +0000" channel="387294.shahid">
-        <title>A&#039;elati Tarbah Season 4 Episode 93</title>
-    </programme>
-    <programme start="20251117180500 +0000" stop="20251117190000 +0000" channel="387294.shahid">
-        <title>Heera  </title>
-    </programme>
-    <programme start="20251117190000 +0000" stop="20251117200000 +0000" channel="387294.shahid">
-        <title>Bank Al Thaqafa</title>
-    </programme>
-    <programme start="20251117200000 +0000" stop="20251117203000 +0000" channel="387294.shahid">
-        <title>Hamed Hilou Season 6 Episode 4</title>
-    </programme>
-    <programme start="20251117203000 +0000" stop="20251117212500 +0000" channel="387294.shahid">
-        <title>Min Share’ Al Haram Ela... Season 1 Episode 22</title>
-    </programme>
-    <programme start="20251117212500 +0000" stop="20251117222400 +0000" channel="387294.shahid">
-        <title>A&#039;elati Tarbah Season 4 Episode 93</title>
-    </programme>
-    <programme start="20251117222400 +0000" stop="20251117224900 +0000" channel="387294.shahid">
-        <title>Fareed Season 3 Episode 475</title>
-    </programme>
-    <programme start="20251117224900 +0000" stop="20251117234500 +0000" channel="387294.shahid">
-        <title>2024 Season 2 Episode 11</title>
-    </programme>
-    <programme start="20251117234500 +0000" stop="20251118002500 +0000" channel="387294.shahid">
-        <title>Welad El Shams Season 1 Episode 6</title>
-    </programme>
-    <programme start="20251118002500 +0000" stop="20251118011000 +0000" channel="387294.shahid">
-        <title>Al Marsa Season 1 Episode 24</title>
-    </programme>
-    <programme start="20251118011000 +0000" stop="20251118020500 +0000" channel="387294.shahid">
-        <title>A&#039;elati Tarbah Season 4 Episode 93</title>
-    </programme>
-    <programme start="20251118020500 +0000" stop="20251118030000 +0000" channel="387294.shahid">
-        <title>2024 Season 2 Episode 11</title>
-    </programme>
-    <programme start="20251118030000 +0000" stop="20251118033700 +0000" channel="387294.shahid">
-        <title>Welad El Shams Season 1 Episode 6</title>
-    </programme>
-    <programme start="20251118033700 +0000" stop="20251118040500 +0000" channel="387294.shahid">
-        <title>Fareed Season 3 Episode 475</title>
-    </programme>
-    <programme start="20251118040500 +0000" stop="20251118044000 +0000" channel="387294.shahid">
-        <title>Al Madeena Al Ba&#039;eeda Season 1 Episode 110</title>
-    </programme>
-    <programme start="20251118044000 +0000" stop="20251118052300 +0000" channel="387294.shahid">
-        <title>Al Marsa Season 1 Episode 24</title>
-    </programme>
-    <programme start="20251118052300 +0000" stop="20251118060000 +0000" channel="387294.shahid">
-        <title>Heera  </title>
-    </programme>
-    <programme start="20251118060000 +0000" stop="20251118065400 +0000" channel="387294.shahid">
-        <title>A&#039;elati Tarbah Season 4 Episode 93</title>
-    </programme>
-    <programme start="20251118065400 +0000" stop="20251118070000 +0000" channel="387294.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20251118070000 +0000" stop="20251118080000 +0000" channel="387294.shahid">
-        <title>2024 Season 2 Episode 11</title>
-    </programme>
-    <programme start="20251118080000 +0000" stop="20251118084100 +0000" channel="387294.shahid">
-        <title>Welad El Shams Season 1 Episode 6</title>
-    </programme>
-    <programme start="20251118084100 +0000" stop="20251118085500 +0000" channel="387294.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20251118085500 +0000" stop="20251118092500 +0000" channel="387294.shahid">
-        <title>Fareed Season 3 Episode 475</title>
-    </programme>
-    <programme start="20251118092500 +0000" stop="20251118100500 +0000" channel="387294.shahid">
-        <title>Al Madeena Al Ba&#039;eeda Season 1 Episode 110</title>
-    </programme>
-    <programme start="20251118100500 +0000" stop="20251118105500 +0000" channel="387294.shahid">
-        <title>Al Marsa Season 1 Episode 24</title>
-    </programme>
-    <programme start="20251118105500 +0000" stop="20251118110000 +0000" channel="387294.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20251118110000 +0000" stop="20251118115300 +0000" channel="387294.shahid">
-        <title>A&#039;elati Tarbah Season 4 Episode 93</title>
-    </programme>
-    <programme start="20251118115300 +0000" stop="20251118120000 +0000" channel="387294.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20251118120000 +0000" stop="20251118124800 +0000" channel="387294.shahid">
-        <title>Hayati Al Mithaliyya Season 1 Episode 22</title>
-    </programme>
-    <programme start="20251118124800 +0000" stop="20251118130000 +0000" channel="387294.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20251118130000 +0000" stop="20251118135300 +0000" channel="387294.shahid">
-        <title>2024 Season 2 Episode 12</title>
-    </programme>
-    <programme start="20251118135300 +0000" stop="20251118140000 +0000" channel="387294.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20251118140000 +0000" stop="20251118144200 +0000" channel="387294.shahid">
-        <title>Welad El Shams Season 1 Episode 7</title>
-    </programme>
-    <programme start="20251118144200 +0000" stop="20251118145500 +0000" channel="387294.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20251118145500 +0000" stop="20251118155500 +0000" channel="387294.shahid">
-        <title>Al Marsa</title>
-    </programme>
-    <programme start="20251118155500 +0000" stop="20251118163000 +0000" channel="387294.shahid">
-        <title>Fareed Season 3 Episode 476</title>
-    </programme>
-    <programme start="20251118163000 +0000" stop="20251118170500 +0000" channel="387294.shahid">
-        <title>Al Madeena Al Ba&#039;eeda Season 1 Episode 111</title>
-    </programme>
-    <programme start="20251118170500 +0000" stop="20251118175300 +0000" channel="387294.shahid">
-        <title>A&#039;elati Tarbah Season 4 Episode 19</title>
-    </programme>
-    <programme start="20251118175300 +0000" stop="20251118180000 +0000" channel="387294.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20251118180000 +0000" stop="20251118185500 +0000" channel="387294.shahid">
-        <title>Heera  </title>
-    </programme>
-    <programme start="20251118185500 +0000" stop="20251118203000 +0000" channel="387294.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20251118203000 +0000" stop="20251118211700 +0000" channel="387294.shahid">
-        <title>Min Share’ Al Haram Ela... Season 1 Episode 23</title>
-    </programme>
-    <programme start="20251118211700 +0000" stop="20251118212500 +0000" channel="387294.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20251118212500 +0000" stop="20251118221700 +0000" channel="387294.shahid">
-        <title>A&#039;elati Tarbah Season 4 Episode 19</title>
-    </programme>
-    <programme start="20251118221700 +0000" stop="20251118222500 +0000" channel="387294.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20251118222500 +0000" stop="20251118230000 +0000" channel="387294.shahid">
-        <title>Fareed Season 3 Episode 476</title>
-    </programme>
-    <programme start="20251118230000 +0000" stop="20251118235000 +0000" channel="387294.shahid">
-        <title>2024 Season 2 Episode 12</title>
-    </programme>
-    <programme start="20251118235000 +0000" stop="20251118235959 +0000" channel="387294.shahid">
         <title>TV guide is not available</title>
     </programme>
     <programme start="20251117000000 +0000" stop="20251117001336 +0000" channel="49923086870104.shahid">
@@ -8246,6 +8030,222 @@
         <title>TV guide is not available</title>
     </programme>
     <programme start="20251117000000 +0000" stop="20251118235959 +0000" channel="951783.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20251117000000 +0000" stop="20251117001500 +0000" channel="995495.shahid">
+        <title>Masaa AlThaqafeya</title>
+    </programme>
+    <programme start="20251117001500 +0000" stop="20251117013000 +0000" channel="995495.shahid">
+        <title>Tilka Shahaadati Season 2 Episode 12</title>
+    </programme>
+    <programme start="20251117013000 +0000" stop="20251117022500 +0000" channel="995495.shahid">
+        <title>Qawl Ala Qawl</title>
+    </programme>
+    <programme start="20251117022500 +0000" stop="20251117023000 +0000" channel="995495.shahid">
+        <title>Eshna W Shofna Episode 11</title>
+    </programme>
+    <programme start="20251117023000 +0000" stop="20251117032500 +0000" channel="995495.shahid">
+        <title>Tilka Shahaadati Season 2 Episode 12</title>
+    </programme>
+    <programme start="20251117032500 +0000" stop="20251117050000 +0000" channel="995495.shahid">
+        <title>Waynak?</title>
+    </programme>
+    <programme start="20251117050000 +0000" stop="20251117054500 +0000" channel="995495.shahid">
+        <title>Qawl Ala Qawl</title>
+    </programme>
+    <programme start="20251117054500 +0000" stop="20251117060000 +0000" channel="995495.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20251117060000 +0000" stop="20251117060100 +0000" channel="995495.shahid">
+        <title>Eshna W Shofna Episode 12</title>
+    </programme>
+    <programme start="20251117060100 +0000" stop="20251117070000 +0000" channel="995495.shahid">
+        <title>Eshna W Shofna Episode 11</title>
+    </programme>
+    <programme start="20251117070000 +0000" stop="20251117073000 +0000" channel="995495.shahid">
+        <title>Masaa AlThaqafeya</title>
+    </programme>
+    <programme start="20251117073000 +0000" stop="20251117100500 +0000" channel="995495.shahid">
+        <title>Waynak? Season 13 Episode 11</title>
+    </programme>
+    <programme start="20251117100500 +0000" stop="20251117110100 +0000" channel="995495.shahid">
+        <title>Al Raffah Season 2 Episode 3</title>
+    </programme>
+    <programme start="20251117110100 +0000" stop="20251117120000 +0000" channel="995495.shahid">
+        <title>Expedition With Steve Backshall</title>
+    </programme>
+    <programme start="20251117120000 +0000" stop="20251117123000 +0000" channel="995495.shahid">
+        <title>Hollywood&#039;s Best Film Directors</title>
+    </programme>
+    <programme start="20251117123000 +0000" stop="20251117130500 +0000" channel="995495.shahid">
+        <title>The World From Above</title>
+    </programme>
+    <programme start="20251117130500 +0000" stop="20251117140000 +0000" channel="995495.shahid">
+        <title>Eshna W Shofna Episode 12</title>
+    </programme>
+    <programme start="20251117140000 +0000" stop="20251117142500 +0000" channel="995495.shahid">
+        <title>Matha Ya&#039;kol Al Saudiyyoun Season 1 Episode 6</title>
+    </programme>
+    <programme start="20251117142500 +0000" stop="20251117145500 +0000" channel="995495.shahid">
+        <title>Ayadeena</title>
+    </programme>
+    <programme start="20251117145500 +0000" stop="20251117170000 +0000" channel="995495.shahid">
+        <title>Sardiya</title>
+    </programme>
+    <programme start="20251117170000 +0000" stop="20251117173000 +0000" channel="995495.shahid">
+        <title>Masaa AlThaqafeya</title>
+    </programme>
+    <programme start="20251117173000 +0000" stop="20251117173500 +0000" channel="995495.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20251117173500 +0000" stop="20251117190000 +0000" channel="995495.shahid">
+        <title>Ithnayniyyat Al Riyadh</title>
+    </programme>
+    <programme start="20251117190000 +0000" stop="20251117200100 +0000" channel="995495.shahid">
+        <title>Bank Al Thaqafa</title>
+    </programme>
+    <programme start="20251117200100 +0000" stop="20251117203100 +0000" channel="995495.shahid">
+        <title>Masaa AlThaqafeya</title>
+    </programme>
+    <programme start="20251117203100 +0000" stop="20251117220000 +0000" channel="995495.shahid">
+        <title>Ithnayniyyat Al Riyadh</title>
+    </programme>
+    <programme start="20251117220000 +0000" stop="20251117230000 +0000" channel="995495.shahid">
+        <title>Bank Al Thaqafa</title>
+    </programme>
+    <programme start="20251117230000 +0000" stop="20251117233500 +0000" channel="995495.shahid">
+        <title>Masaa AlThaqafeya</title>
+    </programme>
+    <programme start="20251117233500 +0000" stop="20251118000000 +0000" channel="995495.shahid">
+        <title>Matha Ya&#039;kol Al Saudiyyoun Season 1 Episode 6</title>
+    </programme>
+    <programme start="20251118000000 +0000" stop="20251118003000 +0000" channel="995495.shahid">
+        <title>Ayadeena</title>
+    </programme>
+    <programme start="20251118003000 +0000" stop="20251118013100 +0000" channel="995495.shahid">
+        <title>Bank Al Thaqafa</title>
+    </programme>
+    <programme start="20251118013100 +0000" stop="20251118023000 +0000" channel="995495.shahid">
+        <title>Eshna W Shofna Episode 12</title>
+    </programme>
+    <programme start="20251118023000 +0000" stop="20251118030500 +0000" channel="995495.shahid">
+        <title>Matha Ya&#039;kol Al Saudiyyoun Season 1 Episode 6</title>
+    </programme>
+    <programme start="20251118030500 +0000" stop="20251118033500 +0000" channel="995495.shahid">
+        <title>Ayadeena</title>
+    </programme>
+    <programme start="20251118033500 +0000" stop="20251118050000 +0000" channel="995495.shahid">
+        <title>Ithnayniyyat Al Riyadh</title>
+    </programme>
+    <programme start="20251118050000 +0000" stop="20251118060000 +0000" channel="995495.shahid">
+        <title>Bank Al Thaqafa</title>
+    </programme>
+    <programme start="20251118060000 +0000" stop="20251118064700 +0000" channel="995495.shahid">
+        <title>Eshna W Shofna Episode 13</title>
+    </programme>
+    <programme start="20251118064700 +0000" stop="20251118070000 +0000" channel="995495.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20251118070000 +0000" stop="20251118073000 +0000" channel="995495.shahid">
+        <title>Masaa AlThaqafeya</title>
+    </programme>
+    <programme start="20251118073000 +0000" stop="20251118082400 +0000" channel="995495.shahid">
+        <title>Bank Al Thaqafa</title>
+    </programme>
+    <programme start="20251118082400 +0000" stop="20251118083000 +0000" channel="995495.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20251118083000 +0000" stop="20251118094000 +0000" channel="995495.shahid">
+        <title>Ithnayniyyat Al Riyadh</title>
+    </programme>
+    <programme start="20251118094000 +0000" stop="20251118100000 +0000" channel="995495.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20251118100000 +0000" stop="20251118104500 +0000" channel="995495.shahid">
+        <title>Qawl Ala Qawl</title>
+    </programme>
+    <programme start="20251118104500 +0000" stop="20251118110000 +0000" channel="995495.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20251118110000 +0000" stop="20251118112300 +0000" channel="995495.shahid">
+        <title>Ayadeena</title>
+    </programme>
+    <programme start="20251118112300 +0000" stop="20251118113000 +0000" channel="995495.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20251118113000 +0000" stop="20251118122000 +0000" channel="995495.shahid">
+        <title>Expedition With Steve Backshall</title>
+    </programme>
+    <programme start="20251118122000 +0000" stop="20251118123000 +0000" channel="995495.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20251118123000 +0000" stop="20251118130000 +0000" channel="995495.shahid">
+        <title>Hollywood&#039;s Best Film Directors</title>
+    </programme>
+    <programme start="20251118130000 +0000" stop="20251118135300 +0000" channel="995495.shahid">
+        <title>Eshna W Shofna Episode 14</title>
+    </programme>
+    <programme start="20251118135300 +0000" stop="20251118140000 +0000" channel="995495.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20251118140000 +0000" stop="20251118141500 +0000" channel="995495.shahid">
+        <title>Awtar Al Arab</title>
+    </programme>
+    <programme start="20251118141500 +0000" stop="20251118143000 +0000" channel="995495.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20251118143000 +0000" stop="20251118144000 +0000" channel="995495.shahid">
+        <title>Misaha Lil Wafaa</title>
+    </programme>
+    <programme start="20251118144000 +0000" stop="20251118150000 +0000" channel="995495.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20251118150000 +0000" stop="20251118170000 +0000" channel="995495.shahid">
+        <title>Sardiya</title>
+    </programme>
+    <programme start="20251118170000 +0000" stop="20251118173000 +0000" channel="995495.shahid">
+        <title>Masaa AlThaqafeya</title>
+    </programme>
+    <programme start="20251118173000 +0000" stop="20251118181600 +0000" channel="995495.shahid">
+        <title>Alfylsoof</title>
+    </programme>
+    <programme start="20251118181600 +0000" stop="20251118183000 +0000" channel="995495.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20251118183000 +0000" stop="20251118192500 +0000" channel="995495.shahid">
+        <title>Red Carpet</title>
+    </programme>
+    <programme start="20251118192500 +0000" stop="20251118193000 +0000" channel="995495.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20251118193000 +0000" stop="20251118200000 +0000" channel="995495.shahid">
+        <title>Hollywood&#039;s Best Film Directors</title>
+    </programme>
+    <programme start="20251118200000 +0000" stop="20251118203000 +0000" channel="995495.shahid">
+        <title>Masaa AlThaqafeya</title>
+    </programme>
+    <programme start="20251118203000 +0000" stop="20251118211600 +0000" channel="995495.shahid">
+        <title>Alfylsoof</title>
+    </programme>
+    <programme start="20251118211600 +0000" stop="20251118213000 +0000" channel="995495.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20251118213000 +0000" stop="20251118222500 +0000" channel="995495.shahid">
+        <title>Red Carpet</title>
+    </programme>
+    <programme start="20251118222500 +0000" stop="20251118223000 +0000" channel="995495.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20251118223000 +0000" stop="20251118230000 +0000" channel="995495.shahid">
+        <title>Hollywood&#039;s Best Film Directors</title>
+    </programme>
+    <programme start="20251118230000 +0000" stop="20251118233000 +0000" channel="995495.shahid">
+        <title>Masaa AlThaqafeya</title>
+    </programme>
+    <programme start="20251118233000 +0000" stop="20251118234500 +0000" channel="995495.shahid">
+        <title>Awtar Al Arab</title>
+    </programme>
+    <programme start="20251118234500 +0000" stop="20251118235959 +0000" channel="995495.shahid">
         <title>TV guide is not available</title>
     </programme>
     <programme start="20251117000000 +0000" stop="20251118235959 +0000" channel="49922904934759.shahid">
