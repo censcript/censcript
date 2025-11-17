@@ -6526,10 +6526,10 @@
     <programme start="20251117150000 +0000" stop="20251117164000 +0000" channel="TV5MONDE HD.starhub">
         <title>Les Ames Perdues</title>
     </programme>
-    <programme start="20251116124500 +0000" stop="20251116163000 +0000" channel="Hub Sports 1  HD.starhub">
+    <programme start="20251116124500 +0000" stop="20251116164000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Final Afternoon Session</title>
     </programme>
-    <programme start="20251116163000 +0000" stop="20251116173000 +0000" channel="Hub Sports 1  HD.starhub">
+    <programme start="20251116164000 +0000" stop="20251116173000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Endurance Swimrun - One Water Race</title>
     </programme>
     <programme start="20251116173000 +0000" stop="20251116180000 +0000" channel="Hub Sports 1  HD.starhub">
@@ -6538,13 +6538,10 @@
     <programme start="20251116180000 +0000" stop="20251116184500 +0000" channel="Hub Sports 1  HD.starhub">
         <title>UCI Pro Series - Lidl Deutschland Tour Highlights</title>
     </programme>
-    <programme start="20251116184500 +0000" stop="20251116220000 +0000" channel="Hub Sports 1  HD.starhub">
+    <programme start="20251116184500 +0000" stop="20251116230800 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Final Evening Session</title>
     </programme>
-    <programme start="20251116220000 +0000" stop="20251116230000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>2nd Round Highlights Show</title>
-    </programme>
-    <programme start="20251116230000 +0000" stop="20251117033000 +0000" channel="Hub Sports 1  HD.starhub">
+    <programme start="20251116230800 +0000" stop="20251117033000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Group B: New Zealand vs Romania</title>
     </programme>
     <programme start="20251117033000 +0000" stop="20251117080000 +0000" channel="Hub Sports 1  HD.starhub">
@@ -8012,7 +8009,7 @@
         <title>Race 30</title>
     </programme>
     <programme start="20251116165500 +0000" stop="20251116183000 +0000" channel="SPOTV2.starhub">
-        <title>2025 MotoGP Awards (Live)</title>
+        <title>2025 MotoGP Awards</title>
     </programme>
     <programme start="20251116183000 +0000" stop="20251116200000 +0000" channel="SPOTV2.starhub">
         <title>Race 1</title>
