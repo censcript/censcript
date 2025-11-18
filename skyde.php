@@ -1090,10 +1090,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251118130000 +0000" stop="20251118135000 +0000" channel="Heimatkanal.skyde">
     <title>Die Bergretter</title>
 </programme>
-<programme start="20251118135000 +0000" stop="20251118153000 +0000" channel="Heimatkanal.skyde">
+<programme start="20251118135000 +0000" stop="20251118152500 +0000" channel="Heimatkanal.skyde">
     <title>Das Mädchen vom Pfarrhof</title>
 </programme>
-<programme start="20251118153000 +0000" stop="20251118170500 +0000" channel="Heimatkanal.skyde">
+<programme start="20251118152500 +0000" stop="20251118170500 +0000" channel="Heimatkanal.skyde">
     <title>Wo die Lerche singt</title>
 </programme>
 <programme start="20251118170500 +0000" stop="20251118175500 +0000" channel="Heimatkanal.skyde">
@@ -1411,19 +1411,19 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251118050000 +0000" stop="20251118050500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20251118050500 +0000" stop="20251118051000 +0000" channel="Nick Jr..skyde">
-    <title>Peppa Wutz</title>
-</programme>
-<programme start="20251118051000 +0000" stop="20251118051500 +0000" channel="Nick Jr..skyde">
+<programme start="20251118050500 +0000" stop="20251118051500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
 <programme start="20251118051500 +0000" stop="20251118052000 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20251118052000 +0000" stop="20251118052500 +0000" channel="Nick Jr..skyde">
+<programme start="20251118052000 +0000" stop="20251118052100 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20251118052500 +0000" stop="20251118055000 +0000" channel="Nick Jr..skyde">
+<programme start="20251118052100 +0000" stop="20251118053000 +0000" channel="Nick Jr..skyde">
+    <title>Peppa Wutz</title>
+</programme>
+<programme start="20251118053000 +0000" stop="20251118055000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
 <programme start="20251118055000 +0000" stop="20251118060000 +0000" channel="Nick Jr..skyde">
@@ -1465,40 +1465,40 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251118095000 +0000" stop="20251118095500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20251118095500 +0000" stop="20251118100000 +0000" channel="Nick Jr..skyde">
-    <title>Peppa Wutz</title>
-</programme>
-<programme start="20251118100000 +0000" stop="20251118100500 +0000" channel="Nick Jr..skyde">
+<programme start="20251118095500 +0000" stop="20251118100500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
 <programme start="20251118100500 +0000" stop="20251118101000 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20251118101000 +0000" stop="20251118101500 +0000" channel="Nick Jr..skyde">
+<programme start="20251118101000 +0000" stop="20251118101100 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20251118101500 +0000" stop="20251118104000 +0000" channel="Nick Jr..skyde">
+<programme start="20251118101100 +0000" stop="20251118102000 +0000" channel="Nick Jr..skyde">
+    <title>Peppa Wutz</title>
+</programme>
+<programme start="20251118102000 +0000" stop="20251118104000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
 <programme start="20251118104000 +0000" stop="20251118110500 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20251118110500 +0000" stop="20251118112500 +0000" channel="Nick Jr..skyde">
+<programme start="20251118110500 +0000" stop="20251118113000 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20251118112500 +0000" stop="20251118115000 +0000" channel="Nick Jr..skyde">
+<programme start="20251118113000 +0000" stop="20251118115500 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20251118115000 +0000" stop="20251118121500 +0000" channel="Nick Jr..skyde">
+<programme start="20251118115500 +0000" stop="20251118121500 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20251118121500 +0000" stop="20251118122500 +0000" channel="Nick Jr..skyde">
+<programme start="20251118121500 +0000" stop="20251118123000 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20251118122500 +0000" stop="20251118125000 +0000" channel="Nick Jr..skyde">
+<programme start="20251118123000 +0000" stop="20251118125500 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20251118125000 +0000" stop="20251118130500 +0000" channel="Nick Jr..skyde">
+<programme start="20251118125500 +0000" stop="20251118130500 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
 <programme start="20251118130500 +0000" stop="20251118133000 +0000" channel="Nick Jr..skyde">
@@ -1513,16 +1513,16 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251118140500 +0000" stop="20251118143000 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
 </programme>
-<programme start="20251118143000 +0000" stop="20251118144500 +0000" channel="Nick Jr..skyde">
+<programme start="20251118143000 +0000" stop="20251118145000 +0000" channel="Nick Jr..skyde">
     <title>Blaze und die Monster-Maschinen</title>
 </programme>
-<programme start="20251118144500 +0000" stop="20251118151000 +0000" channel="Nick Jr..skyde">
+<programme start="20251118145000 +0000" stop="20251118151500 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20251118151000 +0000" stop="20251118153000 +0000" channel="Nick Jr..skyde">
+<programme start="20251118151500 +0000" stop="20251118153500 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20251118153000 +0000" stop="20251118160000 +0000" channel="Nick Jr..skyde">
+<programme start="20251118153500 +0000" stop="20251118160000 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
 <programme start="20251118160000 +0000" stop="20251118162000 +0000" channel="Nick Jr..skyde">
@@ -1534,13 +1534,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251118163500 +0000" stop="20251118170000 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20251118170000 +0000" stop="20251118172000 +0000" channel="Nick Jr..skyde">
+<programme start="20251118170000 +0000" stop="20251118172500 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
 </programme>
-<programme start="20251118172000 +0000" stop="20251118174500 +0000" channel="Nick Jr..skyde">
+<programme start="20251118172500 +0000" stop="20251118175000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20251118174500 +0000" stop="20251118180000 +0000" channel="Nick Jr..skyde">
+<programme start="20251118175000 +0000" stop="20251118180000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
 <programme start="20251118180000 +0000" stop="20251118182500 +0000" channel="Nick Jr..skyde">
@@ -1588,10 +1588,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251118220500 +0000" stop="20251118221000 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20251118221000 +0000" stop="20251118221500 +0000" channel="Nick Jr..skyde">
+<programme start="20251118221000 +0000" stop="20251118222000 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20251118221500 +0000" stop="20251118224000 +0000" channel="Nick Jr..skyde">
+<programme start="20251118222000 +0000" stop="20251118224000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
 <programme start="20251118224000 +0000" stop="20251118230500 +0000" channel="Nick Jr..skyde">
@@ -1861,35 +1861,44 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251118223500 +0000" stop="20251119000000 +0000" channel="Sky Cinema Family HD.skyde">
     <title>Das Kleine Arschloch und der Alte Sack - Sterben ist Scheiße</title>
 </programme>
-<programme start="20251110234000 +0000" stop="20251111021000 +0000" channel="Sky Cinema Highlights HD.skyde">
-    <title>Harry Potter und der Stein der Weisen</title>
+<programme start="20251118002500 +0000" stop="20251118022000 +0000" channel="Sky Cinema Highlights HD.skyde">
+    <title>Conjuring - Die Heimsuchung</title>
 </programme>
-<programme start="20251111021000 +0000" stop="20251111045000 +0000" channel="Sky Cinema Highlights HD.skyde">
-    <title>Harry Potter und die Kammer des Schreckens</title>
+<programme start="20251118022000 +0000" stop="20251118040000 +0000" channel="Sky Cinema Highlights HD.skyde">
+    <title>Annabelle</title>
 </programme>
-<programme start="20251111045000 +0000" stop="20251111071000 +0000" channel="Sky Cinema Highlights HD.skyde">
-    <title>Harry Potter und der Gefangene von Askaban</title>
+<programme start="20251118040000 +0000" stop="20251118061500 +0000" channel="Sky Cinema Highlights HD.skyde">
+    <title>Conjuring 2</title>
 </programme>
-<programme start="20251111071000 +0000" stop="20251111094500 +0000" channel="Sky Cinema Highlights HD.skyde">
-    <title>Harry Potter und der Feuerkelch</title>
+<programme start="20251118061500 +0000" stop="20251118080500 +0000" channel="Sky Cinema Highlights HD.skyde">
+    <title>Annabelle 2</title>
 </programme>
-<programme start="20251111094500 +0000" stop="20251111120500 +0000" channel="Sky Cinema Highlights HD.skyde">
-    <title>Harry Potter und der Orden des Phönix</title>
+<programme start="20251118080500 +0000" stop="20251118094500 +0000" channel="Sky Cinema Highlights HD.skyde">
+    <title>The Nun</title>
 </programme>
-<programme start="20251111120500 +0000" stop="20251111143500 +0000" channel="Sky Cinema Highlights HD.skyde">
-    <title>Harry Potter und der Halbblutprinz</title>
+<programme start="20251118094500 +0000" stop="20251118113500 +0000" channel="Sky Cinema Highlights HD.skyde">
+    <title>Annabelle 3</title>
 </programme>
-<programme start="20251111143500 +0000" stop="20251111170000 +0000" channel="Sky Cinema Highlights HD.skyde">
-    <title>Harry Potter und die Heiligtümer des Todes (Teil 1)</title>
+<programme start="20251118113500 +0000" stop="20251118132500 +0000" channel="Sky Cinema Highlights HD.skyde">
+    <title>Conjuring - Die Heimsuchung</title>
 </programme>
-<programme start="20251111170000 +0000" stop="20251111191500 +0000" channel="Sky Cinema Highlights HD.skyde">
-    <title>Harry Potter und die Heiligtümer des Todes (Teil 2)</title>
+<programme start="20251118132500 +0000" stop="20251118150500 +0000" channel="Sky Cinema Highlights HD.skyde">
+    <title>Annabelle</title>
 </programme>
-<programme start="20251111191500 +0000" stop="20251111213000 +0000" channel="Sky Cinema Highlights HD.skyde">
-    <title>Phantastische Tierwesen und wo sie zu finden sind</title>
+<programme start="20251118150500 +0000" stop="20251118172000 +0000" channel="Sky Cinema Highlights HD.skyde">
+    <title>Conjuring 2</title>
 </programme>
-<programme start="20251111213000 +0000" stop="20251111235000 +0000" channel="Sky Cinema Highlights HD.skyde">
-    <title>Phantastische Tierwesen: Grindelwalds Verbrechen</title>
+<programme start="20251118172000 +0000" stop="20251118191500 +0000" channel="Sky Cinema Highlights HD.skyde">
+    <title>Annabelle 2</title>
+</programme>
+<programme start="20251118191500 +0000" stop="20251118205500 +0000" channel="Sky Cinema Highlights HD.skyde">
+    <title>The Nun</title>
+</programme>
+<programme start="20251118205500 +0000" stop="20251118224500 +0000" channel="Sky Cinema Highlights HD.skyde">
+    <title>Annabelle 3</title>
+</programme>
+<programme start="20251118224500 +0000" stop="20251119004000 +0000" channel="Sky Cinema Highlights HD.skyde">
+    <title>The Expendables (Extended Director&#039;s Cut)</title>
 </programme>
 <programme start="20251118002500 +0000" stop="20251118020500 +0000" channel="Sky Cinema Premiere HD.skyde">
     <title>The Beast Within</title>
@@ -2917,10 +2926,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251118000000 +0000" stop="20251118030000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NHL: Carolina Hurricanes @ Boston Bruins</title>
 </programme>
-<programme start="20251118030000 +0000" stop="20251118050000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20251118030000 +0000" stop="20251118045500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>DFB-Pokal Frauen: VfL Wolfsburg - SC Freiburg, Achtelfinale</title>
 </programme>
-<programme start="20251118050000 +0000" stop="20251118060000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20251118045500 +0000" stop="20251118060000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>MotoGP: Rennen - GP Valencia</title>
 </programme>
 <programme start="20251118060000 +0000" stop="20251118080000 +0000" channel="Sky Sport Mix HD.skyde">
@@ -2941,13 +2950,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251118125000 +0000" stop="20251118132000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>MotoGP: Sepang Clash - 10 years on</title>
 </programme>
-<programme start="20251118132000 +0000" stop="20251118162000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20251118132000 +0000" stop="20251118165000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live MotoGP: Testfahrten in Valencia - Nachmittag</title>
 </programme>
-<programme start="20251118162000 +0000" stop="20251118163000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>MotoGP: Best Battles - Season 2025 so far</title>
-</programme>
-<programme start="20251118163000 +0000" stop="20251118183000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20251118165000 +0000" stop="20251118183000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NBA: Milwaukee Bucks @ Cleveland Cavaliers</title>
 </programme>
 <programme start="20251118183000 +0000" stop="20251118193000 +0000" channel="Sky Sport Mix HD.skyde">
@@ -3250,16 +3256,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251118130000 +0000" stop="20251118132000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>MotoGP: Tales of Valentino - The Injury</title>
 </programme>
-<programme start="20251118132000 +0000" stop="20251118162000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20251118132000 +0000" stop="20251118165000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live MotoGP: Testfahrten in Valencia - Nachmittag</title>
 </programme>
-<programme start="20251118162000 +0000" stop="20251118163000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>MotoGP: Tales of Valentino - The Helmet</title>
-</programme>
-<programme start="20251118163000 +0000" stop="20251118170000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20251118165000 +0000" stop="20251118171500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>NHL: On the Fly</title>
 </programme>
-<programme start="20251118170000 +0000" stop="20251118190000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20251118171500 +0000" stop="20251118190000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>PL: Manchester City - FC Liverpool, Match of the Week, 11. Spieltag</title>
 </programme>
 <programme start="20251118190000 +0000" stop="20251118210000 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3319,10 +3322,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251117233000 +0000" stop="20251118000000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime</title>
 </programme>
-<programme start="20251118000000 +0000" stop="20251118023000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20251118000000 +0000" stop="20251118023500 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Milwaukee Bucks @ Cleveland Cavaliers</title>
 </programme>
-<programme start="20251118023000 +0000" stop="20251118090000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20251118023500 +0000" stop="20251118032000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime - Post Show</title>
 </programme>
 <programme start="20251117230500 +0000" stop="20251117235000 +0000" channel="SYFY HD.skyde">
