@@ -238,14 +238,6 @@
     <title>Basketball: Valencia Basket Club - Tenerife</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251119043000 +0700" stop="20251119053000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251119053000 +0700" stop="20251119060000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251119060000 +0700" stop="20251119070500 +0700" channel="COSMOTE Sport 5 HD">
     <title>Motorsports: Extreme E 2025</title>
     <desc>Live: Tidak</desc>
@@ -334,6 +326,10 @@
     <title>2025 Extreme H</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251120060000 +0700" stop="20251120070500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>2025 Extreme H</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251119044500 +0700" stop="20251119062500 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: S. Bolelli/A. Vavassori - Harri Heliovaara/Henry Patten</title>
     <desc>Live: Tidak</desc>
@@ -412,6 +408,14 @@
 </programme>
 <programme start="20251120041500 +0700" stop="20251120060500 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Joe Salisbury/Neal Skupski - Julian Cash/Lloyd Glasspool</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251120060500 +0700" stop="20251120063500 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Premier Padel Tour 2025 - Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251120063500 +0700" stop="20251120070500 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Sports Classics: 2025 Outdoor Specials</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251119050000 +0700" stop="20251119070000 +0700" channel="COSMOTE Sport 7 HD">
