@@ -1861,44 +1861,77 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251118223500 +0000" stop="20251119000000 +0000" channel="Sky Cinema Family HD.skyde">
     <title>Das Kleine Arschloch und der Alte Sack - Sterben ist Scheiße</title>
 </programme>
-<programme start="20251118002500 +0000" stop="20251118022000 +0000" channel="Sky Cinema Highlights HD.skyde">
-    <title>Conjuring - Die Heimsuchung</title>
+<programme start="20251110234000 +0000" stop="20251111021000 +0000" channel="Sky Cinema Highlights HD.skyde">
+    <title>Harry Potter und der Stein der Weisen</title>
 </programme>
-<programme start="20251118022000 +0000" stop="20251118040000 +0000" channel="Sky Cinema Highlights HD.skyde">
-    <title>Annabelle</title>
+<programme start="20251111021000 +0000" stop="20251111045000 +0000" channel="Sky Cinema Highlights HD.skyde">
+    <title>Harry Potter und die Kammer des Schreckens</title>
 </programme>
-<programme start="20251118040000 +0000" stop="20251118061500 +0000" channel="Sky Cinema Highlights HD.skyde">
-    <title>Conjuring 2</title>
+<programme start="20251111045000 +0000" stop="20251111071000 +0000" channel="Sky Cinema Highlights HD.skyde">
+    <title>Harry Potter und der Gefangene von Askaban</title>
 </programme>
-<programme start="20251118061500 +0000" stop="20251118080500 +0000" channel="Sky Cinema Highlights HD.skyde">
-    <title>Annabelle 2</title>
+<programme start="20251111071000 +0000" stop="20251111094500 +0000" channel="Sky Cinema Highlights HD.skyde">
+    <title>Harry Potter und der Feuerkelch</title>
 </programme>
-<programme start="20251118080500 +0000" stop="20251118094500 +0000" channel="Sky Cinema Highlights HD.skyde">
-    <title>The Nun</title>
+<programme start="20251111094500 +0000" stop="20251111120500 +0000" channel="Sky Cinema Highlights HD.skyde">
+    <title>Harry Potter und der Orden des Phönix</title>
 </programme>
-<programme start="20251118094500 +0000" stop="20251118113500 +0000" channel="Sky Cinema Highlights HD.skyde">
-    <title>Annabelle 3</title>
+<programme start="20251111120500 +0000" stop="20251111143500 +0000" channel="Sky Cinema Highlights HD.skyde">
+    <title>Harry Potter und der Halbblutprinz</title>
 </programme>
-<programme start="20251118113500 +0000" stop="20251118132500 +0000" channel="Sky Cinema Highlights HD.skyde">
-    <title>Conjuring - Die Heimsuchung</title>
+<programme start="20251111143500 +0000" stop="20251111170000 +0000" channel="Sky Cinema Highlights HD.skyde">
+    <title>Harry Potter und die Heiligtümer des Todes (Teil 1)</title>
 </programme>
-<programme start="20251118132500 +0000" stop="20251118150500 +0000" channel="Sky Cinema Highlights HD.skyde">
-    <title>Annabelle</title>
+<programme start="20251111170000 +0000" stop="20251111191500 +0000" channel="Sky Cinema Highlights HD.skyde">
+    <title>Harry Potter und die Heiligtümer des Todes (Teil 2)</title>
 </programme>
-<programme start="20251118150500 +0000" stop="20251118172000 +0000" channel="Sky Cinema Highlights HD.skyde">
-    <title>Conjuring 2</title>
+<programme start="20251111191500 +0000" stop="20251111213000 +0000" channel="Sky Cinema Highlights HD.skyde">
+    <title>Phantastische Tierwesen und wo sie zu finden sind</title>
 </programme>
-<programme start="20251118172000 +0000" stop="20251118191500 +0000" channel="Sky Cinema Highlights HD.skyde">
-    <title>Annabelle 2</title>
+<programme start="20251111213000 +0000" stop="20251111235000 +0000" channel="Sky Cinema Highlights HD.skyde">
+    <title>Phantastische Tierwesen: Grindelwalds Verbrechen</title>
 </programme>
-<programme start="20251118191500 +0000" stop="20251118205500 +0000" channel="Sky Cinema Highlights HD.skyde">
-    <title>The Nun</title>
+<programme start="20251118002500 +0000" stop="20251118020500 +0000" channel="Sky Cinema Premiere HD.skyde">
+    <title>The Beast Within</title>
 </programme>
-<programme start="20251118205500 +0000" stop="20251118224500 +0000" channel="Sky Cinema Highlights HD.skyde">
-    <title>Annabelle 3</title>
+<programme start="20251118020500 +0000" stop="20251118034000 +0000" channel="Sky Cinema Premiere HD.skyde">
+    <title>Sneaks - Auf die Sohlen, fertig, los!</title>
 </programme>
-<programme start="20251118224500 +0000" stop="20251119004000 +0000" channel="Sky Cinema Highlights HD.skyde">
-    <title>The Expendables (Extended Director&#039;s Cut)</title>
+<programme start="20251118034000 +0000" stop="20251118051500 +0000" channel="Sky Cinema Premiere HD.skyde">
+    <title>Sunrise</title>
+</programme>
+<programme start="20251118051500 +0000" stop="20251118071000 +0000" channel="Sky Cinema Premiere HD.skyde">
+    <title>Und morgen seid ihr tot</title>
+</programme>
+<programme start="20251118071000 +0000" stop="20251118085500 +0000" channel="Sky Cinema Premiere HD.skyde">
+    <title>Trap: No Way Out</title>
+</programme>
+<programme start="20251118085500 +0000" stop="20251118104000 +0000" channel="Sky Cinema Premiere HD.skyde">
+    <title>The End We Start From</title>
+</programme>
+<programme start="20251118104000 +0000" stop="20251118122000 +0000" channel="Sky Cinema Premiere HD.skyde">
+    <title>The Beast Within</title>
+</programme>
+<programme start="20251118122000 +0000" stop="20251118135500 +0000" channel="Sky Cinema Premiere HD.skyde">
+    <title>Home Sweet Home: Rebirth</title>
+</programme>
+<programme start="20251118135500 +0000" stop="20251118155000 +0000" channel="Sky Cinema Premiere HD.skyde">
+    <title>Ghostbusters: Frozen Empire</title>
+</programme>
+<programme start="20251118155000 +0000" stop="20251118174000 +0000" channel="Sky Cinema Premiere HD.skyde">
+    <title>Man with No Past</title>
+</programme>
+<programme start="20251118174000 +0000" stop="20251118191500 +0000" channel="Sky Cinema Premiere HD.skyde">
+    <title>Home Sweet Home: Rebirth</title>
+</programme>
+<programme start="20251118191500 +0000" stop="20251118204000 +0000" channel="Sky Cinema Premiere HD.skyde">
+    <title>Wicked: One Wonderful Night</title>
+</programme>
+<programme start="20251118204000 +0000" stop="20251118222000 +0000" channel="Sky Cinema Premiere HD.skyde">
+    <title>Borderlands</title>
+</programme>
+<programme start="20251118222000 +0000" stop="20251119002000 +0000" channel="Sky Cinema Premiere HD.skyde">
+    <title>Ghostbusters: Frozen Empire</title>
 </programme>
 <programme start="20251117235500 +0000" stop="20251118004000 +0000" channel="Sky Crime HD.skyde">
     <title>Murder by Medic - Tödliche Behandlung</title>
@@ -3433,6 +3466,207 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251118220500 +0000" stop="20251118233000 +0000" channel="Universal TV HD.skyde">
     <title>Weihnachtswünsche für den Chef</title>
 </programme>
+<programme start="20251117230000 +0000" stop="20251117232500 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>Friends</title>
+</programme>
+<programme start="20251117232500 +0000" stop="20251117235000 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>Friends</title>
+</programme>
+<programme start="20251117235000 +0000" stop="20251118001500 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>Friends</title>
+</programme>
+<programme start="20251118001500 +0000" stop="20251118002500 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>SMILING FRIENDS</title>
+</programme>
+<programme start="20251118002500 +0000" stop="20251118004000 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>SMILING FRIENDS</title>
+</programme>
+<programme start="20251118004000 +0000" stop="20251118005000 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>Robot Chicken</title>
+</programme>
+<programme start="20251118005000 +0000" stop="20251118010500 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>Robot Chicken</title>
+</programme>
+<programme start="20251118010500 +0000" stop="20251118011500 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>Robot Chicken</title>
+</programme>
+<programme start="20251118011500 +0000" stop="20251118013000 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>Robot Chicken</title>
+</programme>
+<programme start="20251118013000 +0000" stop="20251118014500 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>Robot Chicken</title>
+</programme>
+<programme start="20251118014500 +0000" stop="20251118015500 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>Robot Chicken</title>
+</programme>
+<programme start="20251118015500 +0000" stop="20251118020500 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>Robot Chicken</title>
+</programme>
+<programme start="20251118020500 +0000" stop="20251118022000 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>Robot Chicken</title>
+</programme>
+<programme start="20251118022000 +0000" stop="20251118023000 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>Robot Chicken</title>
+</programme>
+<programme start="20251118023000 +0000" stop="20251118025500 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>The Middle</title>
+</programme>
+<programme start="20251118025500 +0000" stop="20251118031500 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>The Middle</title>
+</programme>
+<programme start="20251118031500 +0000" stop="20251118033500 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>The Middle</title>
+</programme>
+<programme start="20251118033500 +0000" stop="20251118040000 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>The Middle</title>
+</programme>
+<programme start="20251118040000 +0000" stop="20251118042000 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>The Middle</title>
+</programme>
+<programme start="20251118042000 +0000" stop="20251118044000 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>The Middle</title>
+</programme>
+<programme start="20251118044000 +0000" stop="20251118050000 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>The Middle</title>
+</programme>
+<programme start="20251118050000 +0000" stop="20251118053000 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>The Middle</title>
+</programme>
+<programme start="20251118053000 +0000" stop="20251118055500 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>Die Nanny</title>
+</programme>
+<programme start="20251118055500 +0000" stop="20251118062000 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>Die Nanny</title>
+</programme>
+<programme start="20251118062000 +0000" stop="20251118064500 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>Die Nanny</title>
+</programme>
+<programme start="20251118064500 +0000" stop="20251118071000 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>Die Nanny</title>
+</programme>
+<programme start="20251118071000 +0000" stop="20251118073500 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>Friends</title>
+</programme>
+<programme start="20251118073500 +0000" stop="20251118080000 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>Friends</title>
+</programme>
+<programme start="20251118080000 +0000" stop="20251118082500 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>Friends</title>
+</programme>
+<programme start="20251118082500 +0000" stop="20251118085000 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>Friends</title>
+</programme>
+<programme start="20251118085000 +0000" stop="20251118091500 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>The Middle</title>
+</programme>
+<programme start="20251118091500 +0000" stop="20251118094000 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>The Middle</title>
+</programme>
+<programme start="20251118094000 +0000" stop="20251118100500 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>The Middle</title>
+</programme>
+<programme start="20251118100500 +0000" stop="20251118103000 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>The Middle</title>
+</programme>
+<programme start="20251118103000 +0000" stop="20251118105500 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>Animal Control</title>
+</programme>
+<programme start="20251118105500 +0000" stop="20251118112000 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>Animal Control</title>
+</programme>
+<programme start="20251118112000 +0000" stop="20251118114500 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>Animal Control</title>
+</programme>
+<programme start="20251118114500 +0000" stop="20251118121000 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>Animal Control</title>
+</programme>
+<programme start="20251118121000 +0000" stop="20251118123500 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>King of Queens</title>
+</programme>
+<programme start="20251118123500 +0000" stop="20251118130500 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>King of Queens</title>
+</programme>
+<programme start="20251118130500 +0000" stop="20251118132500 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>King of Queens</title>
+</programme>
+<programme start="20251118132500 +0000" stop="20251118135000 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>King of Queens</title>
+</programme>
+<programme start="20251118135000 +0000" stop="20251118142000 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>King of Queens</title>
+</programme>
+<programme start="20251118142000 +0000" stop="20251118144500 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>King of Queens</title>
+</programme>
+<programme start="20251118144500 +0000" stop="20251118151000 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>King of Queens</title>
+</programme>
+<programme start="20251118151000 +0000" stop="20251118153500 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>King of Queens</title>
+</programme>
+<programme start="20251118153500 +0000" stop="20251118160000 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>Two and a Half Men</title>
+</programme>
+<programme start="20251118160000 +0000" stop="20251118162500 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>Two and a Half Men</title>
+</programme>
+<programme start="20251118162500 +0000" stop="20251118164500 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>Two and a Half Men</title>
+</programme>
+<programme start="20251118164500 +0000" stop="20251118171000 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>Animal Control</title>
+</programme>
+<programme start="20251118171000 +0000" stop="20251118173500 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>Animal Control</title>
+</programme>
+<programme start="20251118173500 +0000" stop="20251118180000 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>The Big Bang Theory</title>
+</programme>
+<programme start="20251118180000 +0000" stop="20251118182500 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>The Big Bang Theory</title>
+</programme>
+<programme start="20251118182500 +0000" stop="20251118185000 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>The Big Bang Theory</title>
+</programme>
+<programme start="20251118185000 +0000" stop="20251118191500 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>The Big Bang Theory</title>
+</programme>
+<programme start="20251118191500 +0000" stop="20251118194000 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>Two and a Half Men</title>
+</programme>
+<programme start="20251118194000 +0000" stop="20251118200500 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>Two and a Half Men</title>
+</programme>
+<programme start="20251118200500 +0000" stop="20251118203000 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>Two and a Half Men</title>
+</programme>
+<programme start="20251118203000 +0000" stop="20251118205000 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>2 Broke Girls</title>
+</programme>
+<programme start="20251118205000 +0000" stop="20251118211500 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>2 Broke Girls</title>
+</programme>
+<programme start="20251118211500 +0000" stop="20251118214000 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>Rick and Morty</title>
+</programme>
+<programme start="20251118214000 +0000" stop="20251118220500 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>Rick and Morty</title>
+</programme>
+<programme start="20251118220500 +0000" stop="20251118221500 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>Robot Chicken</title>
+</programme>
+<programme start="20251118221500 +0000" stop="20251118223000 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>Robot Chicken</title>
+</programme>
+<programme start="20251118223000 +0000" stop="20251118224000 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>Robot Chicken</title>
+</programme>
+<programme start="20251118224000 +0000" stop="20251118225500 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>Robot Chicken</title>
+</programme>
+<programme start="20251118225500 +0000" stop="20251118232000 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>Friends</title>
+</programme>
 <programme start="20251117232500 +0000" stop="20251118010000 +0000" channel="Warner TV Film.skyde">
     <title>Alien vs. Predator</title>
 </programme>
@@ -3516,4 +3750,100 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 </programme>
 <programme start="20251118222500 +0000" stop="20251119000500 +0000" channel="Warner TV Film HD.skyde">
     <title>Rush Hour</title>
+</programme>
+<programme start="20251117231500 +0000" stop="20251118005500 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Ich Bin Nummer Vier</title>
+</programme>
+<programme start="20251118005500 +0000" stop="20251118014000 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Fringe</title>
+</programme>
+<programme start="20251118014000 +0000" stop="20251118022000 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Fringe</title>
+</programme>
+<programme start="20251118022000 +0000" stop="20251118030000 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Fringe</title>
+</programme>
+<programme start="20251118030000 +0000" stop="20251118034500 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Fringe</title>
+</programme>
+<programme start="20251118034500 +0000" stop="20251118035500 +0000" channel="Warner TV Serie HD.skyde">
+    <title>NTSF:SD:SUV::</title>
+</programme>
+<programme start="20251118035500 +0000" stop="20251118041000 +0000" channel="Warner TV Serie HD.skyde">
+    <title>NTSF:SD:SUV::</title>
+</programme>
+<programme start="20251118041000 +0000" stop="20251118042000 +0000" channel="Warner TV Serie HD.skyde">
+    <title>NTSF:SD:SUV::</title>
+</programme>
+<programme start="20251118042000 +0000" stop="20251118043000 +0000" channel="Warner TV Serie HD.skyde">
+    <title>NTSF:SD:SUV::</title>
+</programme>
+<programme start="20251118043000 +0000" stop="20251118052000 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Daktari</title>
+</programme>
+<programme start="20251118052000 +0000" stop="20251118061000 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Mord ist ihr Hobby</title>
+</programme>
+<programme start="20251118061000 +0000" stop="20251118070000 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Mord ist ihr Hobby</title>
+</programme>
+<programme start="20251118070000 +0000" stop="20251118075000 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Mord ist ihr Hobby</title>
+</programme>
+<programme start="20251118075000 +0000" stop="20251118084000 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Mord ist ihr Hobby</title>
+</programme>
+<programme start="20251118084000 +0000" stop="20251118092500 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Mord ist ihr Hobby</title>
+</programme>
+<programme start="20251118092500 +0000" stop="20251118101500 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Mord ist ihr Hobby</title>
+</programme>
+<programme start="20251118101500 +0000" stop="20251118111000 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Unsere kleine Farm</title>
+</programme>
+<programme start="20251118111000 +0000" stop="20251118120000 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Unsere kleine Farm</title>
+</programme>
+<programme start="20251118120000 +0000" stop="20251118125000 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Unsere kleine Farm</title>
+</programme>
+<programme start="20251118125000 +0000" stop="20251118134000 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Unsere kleine Farm</title>
+</programme>
+<programme start="20251118134000 +0000" stop="20251118143500 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Unsere kleine Farm</title>
+</programme>
+<programme start="20251118143500 +0000" stop="20251118152000 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Rizzoli and Isles</title>
+</programme>
+<programme start="20251118152000 +0000" stop="20251118160500 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Rizzoli and Isles</title>
+</programme>
+<programme start="20251118160500 +0000" stop="20251118165000 +0000" channel="Warner TV Serie HD.skyde">
+    <title>NCIS</title>
+</programme>
+<programme start="20251118165000 +0000" stop="20251118174000 +0000" channel="Warner TV Serie HD.skyde">
+    <title>NCIS</title>
+</programme>
+<programme start="20251118174000 +0000" stop="20251118182500 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Fringe</title>
+</programme>
+<programme start="20251118182500 +0000" stop="20251118191500 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Fringe</title>
+</programme>
+<programme start="20251118191500 +0000" stop="20251118200000 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Hudson &amp; Rex</title>
+</programme>
+<programme start="20251118200000 +0000" stop="20251118204500 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Hudson &amp; Rex</title>
+</programme>
+<programme start="20251118204500 +0000" stop="20251118213000 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Blindspot</title>
+</programme>
+<programme start="20251118213000 +0000" stop="20251118222000 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Blindspot</title>
+</programme>
+<programme start="20251118222000 +0000" stop="20251118230500 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Blindspot</title>
 </programme>

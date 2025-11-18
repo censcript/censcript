@@ -679,6 +679,12 @@
 <programme start="20251118093000 +0000" stop="20251118110000 +0000" channel="ANTV.vision">
 <title>Takdir Cinta Layla</title>
 </programme>
+<programme start="20251118130000 +0000" stop="20251118143000 +0000" channel="ANTV.vision">
+<title>Santet 2: Wanita Harimau</title>
+</programme>
+<programme start="20251118143000 +0000" stop="20251118163000 +0000" channel="ANTV.vision">
+<title>Millionaires Express</title>
+</programme>
 <programme start="20251118163000 +0000" stop="20251118183000 +0000" channel="ANTV.vision">
 <title>Middle Man</title>
 </programme>
@@ -1491,10 +1497,4 @@
 </programme>
 <programme start="20251119073000 +0000" stop="20251119080000 +0000" channel="BTV.vision">
 <title>Dikit-Dikit Damkar</title>
-</programme>
-<programme start="20251119080000 +0000" stop="20251119084500 +0000" channel="BTV.vision">
-<title>Info Seleb</title>
-</programme>
-<programme start="20251119084500 +0000" stop="20251119093000 +0000" channel="BTV.vision">
-<title>Figur Publik</title>
 </programme>

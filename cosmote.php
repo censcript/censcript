@@ -114,10 +114,6 @@
     <title>Football: Panathinaikos - PAOK</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251119000000 +0700" stop="20251119020000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Tamworth - Leyton Orient</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251119020000 +0700" stop="20251119023000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Copa Sudamericana 2025 - Highlights</title>
     <desc>Live: Tidak</desc>
@@ -246,8 +242,12 @@
     <title>Basketball: Barcelona - Baskonia</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251119003000 +0700" stop="20251119011500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC 2025</title>
+<programme start="20251120020500 +0700" stop="20251120023000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>ACB Liga Endesa 2025-26 - Fifth Quarter E7</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251120023000 +0700" stop="20251120050000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: San Antonio Spurs - Memphis Grizzlies</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251119011500 +0700" stop="20251119021000 +0700" channel="COSMOTE Sport 5 HD">
@@ -350,6 +350,10 @@
     <title>MotoGP 2025 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251120024500 +0700" stop="20251120045500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Basketball: Badalona - Hapoel Holon (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
 <programme start="20251118233000 +0700" stop="20251119023000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Authentic Athens Marathon 2025</title>
     <desc>Live: Tidak</desc>
@@ -424,6 +428,14 @@
 </programme>
 <programme start="20251120010000 +0700" stop="20251120020000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Nitto ATP Finals 2024 - Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251120020000 +0700" stop="20251120023000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Sports Classics: The Outdoor Sports Show 2024 E11</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251120023000 +0700" stop="20251120041500 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: Carlos Alcaraz - Felix Auger-Aliassime</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251119010000 +0700" stop="20251119030000 +0700" channel="COSMOTE Sport 7 HD">
