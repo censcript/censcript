@@ -1357,6 +1357,246 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251118224000 +0000" stop="20251118230500 +0000" channel="Motorvision+.skyde">
     <title>Super Cars</title>
 </programme>
+<programme start="20251117230500 +0000" stop="20251117233000 +0000" channel="Nick Jr..skyde">
+    <title>Rubble &amp; Crew</title>
+</programme>
+<programme start="20251117233000 +0000" stop="20251117235500 +0000" channel="Nick Jr..skyde">
+    <title>Rubble &amp; Crew</title>
+</programme>
+<programme start="20251117235500 +0000" stop="20251118001500 +0000" channel="Nick Jr..skyde">
+    <title>Paw Patrol: Helfer auf vier Pfoten</title>
+</programme>
+<programme start="20251118001500 +0000" stop="20251118003000 +0000" channel="Nick Jr..skyde">
+    <title>Paw Patrol: Helfer auf vier Pfoten</title>
+</programme>
+<programme start="20251118003000 +0000" stop="20251118005000 +0000" channel="Nick Jr..skyde">
+    <title>BARBAPAPA und Familie</title>
+</programme>
+<programme start="20251118005000 +0000" stop="20251118010500 +0000" channel="Nick Jr..skyde">
+    <title>BARBAPAPA und Familie</title>
+</programme>
+<programme start="20251118010500 +0000" stop="20251118013000 +0000" channel="Nick Jr..skyde">
+    <title>Tim Rex im All</title>
+</programme>
+<programme start="20251118013000 +0000" stop="20251118015000 +0000" channel="Nick Jr..skyde">
+    <title>Rubble &amp; Crew</title>
+</programme>
+<programme start="20251118015000 +0000" stop="20251118020500 +0000" channel="Nick Jr..skyde">
+    <title>Rubble &amp; Crew</title>
+</programme>
+<programme start="20251118020500 +0000" stop="20251118023000 +0000" channel="Nick Jr..skyde">
+    <title>DORA</title>
+</programme>
+<programme start="20251118023000 +0000" stop="20251118025000 +0000" channel="Nick Jr..skyde">
+    <title>Blaze und die Monster-Maschinen</title>
+</programme>
+<programme start="20251118025000 +0000" stop="20251118031500 +0000" channel="Nick Jr..skyde">
+    <title>BARBAPAPA und Familie</title>
+</programme>
+<programme start="20251118031500 +0000" stop="20251118033500 +0000" channel="Nick Jr..skyde">
+    <title>BARBAPAPA und Familie</title>
+</programme>
+<programme start="20251118033500 +0000" stop="20251118040000 +0000" channel="Nick Jr..skyde">
+    <title>Tim Rex im All</title>
+</programme>
+<programme start="20251118040000 +0000" stop="20251118042500 +0000" channel="Nick Jr..skyde">
+    <title>Paw Patrol: Helfer auf vier Pfoten</title>
+</programme>
+<programme start="20251118042500 +0000" stop="20251118044000 +0000" channel="Nick Jr..skyde">
+    <title>Paw Patrol: Helfer auf vier Pfoten</title>
+</programme>
+<programme start="20251118044000 +0000" stop="20251118050000 +0000" channel="Nick Jr..skyde">
+    <title>Rubble &amp; Crew</title>
+</programme>
+<programme start="20251118050000 +0000" stop="20251118050500 +0000" channel="Nick Jr..skyde">
+    <title>Peppa Wutz</title>
+</programme>
+<programme start="20251118050500 +0000" stop="20251118051000 +0000" channel="Nick Jr..skyde">
+    <title>Peppa Wutz</title>
+</programme>
+<programme start="20251118051000 +0000" stop="20251118051500 +0000" channel="Nick Jr..skyde">
+    <title>Peppa Wutz</title>
+</programme>
+<programme start="20251118051500 +0000" stop="20251118052000 +0000" channel="Nick Jr..skyde">
+    <title>Peppa Wutz</title>
+</programme>
+<programme start="20251118052000 +0000" stop="20251118052500 +0000" channel="Nick Jr..skyde">
+    <title>Peppa Wutz</title>
+</programme>
+<programme start="20251118052500 +0000" stop="20251118055000 +0000" channel="Nick Jr..skyde">
+    <title>BARBAPAPA und Familie</title>
+</programme>
+<programme start="20251118055000 +0000" stop="20251118060000 +0000" channel="Nick Jr..skyde">
+    <title>BARBAPAPA und Familie</title>
+</programme>
+<programme start="20251118060000 +0000" stop="20251118062500 +0000" channel="Nick Jr..skyde">
+    <title>Tim Rex im All</title>
+</programme>
+<programme start="20251118062500 +0000" stop="20251118065000 +0000" channel="Nick Jr..skyde">
+    <title>Blaze und die Monster-Maschinen</title>
+</programme>
+<programme start="20251118065000 +0000" stop="20251118071500 +0000" channel="Nick Jr..skyde">
+    <title>Paw Patrol: Helfer auf vier Pfoten</title>
+</programme>
+<programme start="20251118071500 +0000" stop="20251118074000 +0000" channel="Nick Jr..skyde">
+    <title>Paw Patrol: Helfer auf vier Pfoten</title>
+</programme>
+<programme start="20251118074000 +0000" stop="20251118080500 +0000" channel="Nick Jr..skyde">
+    <title>Rubble &amp; Crew</title>
+</programme>
+<programme start="20251118080500 +0000" stop="20251118083000 +0000" channel="Nick Jr..skyde">
+    <title>Rubble &amp; Crew</title>
+</programme>
+<programme start="20251118083000 +0000" stop="20251118085000 +0000" channel="Nick Jr..skyde">
+    <title>DORA</title>
+</programme>
+<programme start="20251118085000 +0000" stop="20251118091500 +0000" channel="Nick Jr..skyde">
+    <title>Baby Sharks große Show</title>
+</programme>
+<programme start="20251118091500 +0000" stop="20251118094000 +0000" channel="Nick Jr..skyde">
+    <title>Baby Sharks große Show</title>
+</programme>
+<programme start="20251118094000 +0000" stop="20251118094500 +0000" channel="Nick Jr..skyde">
+    <title>Peppa Wutz</title>
+</programme>
+<programme start="20251118094500 +0000" stop="20251118095000 +0000" channel="Nick Jr..skyde">
+    <title>Peppa Wutz</title>
+</programme>
+<programme start="20251118095000 +0000" stop="20251118095500 +0000" channel="Nick Jr..skyde">
+    <title>Peppa Wutz</title>
+</programme>
+<programme start="20251118095500 +0000" stop="20251118100000 +0000" channel="Nick Jr..skyde">
+    <title>Peppa Wutz</title>
+</programme>
+<programme start="20251118100000 +0000" stop="20251118100500 +0000" channel="Nick Jr..skyde">
+    <title>Peppa Wutz</title>
+</programme>
+<programme start="20251118100500 +0000" stop="20251118101000 +0000" channel="Nick Jr..skyde">
+    <title>Peppa Wutz</title>
+</programme>
+<programme start="20251118101000 +0000" stop="20251118101500 +0000" channel="Nick Jr..skyde">
+    <title>Peppa Wutz</title>
+</programme>
+<programme start="20251118101500 +0000" stop="20251118104000 +0000" channel="Nick Jr..skyde">
+    <title>BARBAPAPA und Familie</title>
+</programme>
+<programme start="20251118104000 +0000" stop="20251118110500 +0000" channel="Nick Jr..skyde">
+    <title>BARBAPAPA und Familie</title>
+</programme>
+<programme start="20251118110500 +0000" stop="20251118112500 +0000" channel="Nick Jr..skyde">
+    <title>Rubble &amp; Crew</title>
+</programme>
+<programme start="20251118112500 +0000" stop="20251118115000 +0000" channel="Nick Jr..skyde">
+    <title>Rubble &amp; Crew</title>
+</programme>
+<programme start="20251118115000 +0000" stop="20251118121500 +0000" channel="Nick Jr..skyde">
+    <title>Paw Patrol: Helfer auf vier Pfoten</title>
+</programme>
+<programme start="20251118121500 +0000" stop="20251118122500 +0000" channel="Nick Jr..skyde">
+    <title>Paw Patrol: Helfer auf vier Pfoten</title>
+</programme>
+<programme start="20251118122500 +0000" stop="20251118125000 +0000" channel="Nick Jr..skyde">
+    <title>BARBAPAPA und Familie</title>
+</programme>
+<programme start="20251118125000 +0000" stop="20251118130500 +0000" channel="Nick Jr..skyde">
+    <title>BARBAPAPA und Familie</title>
+</programme>
+<programme start="20251118130500 +0000" stop="20251118133000 +0000" channel="Nick Jr..skyde">
+    <title>Tim Rex im All</title>
+</programme>
+<programme start="20251118133000 +0000" stop="20251118135000 +0000" channel="Nick Jr..skyde">
+    <title>Rubble &amp; Crew</title>
+</programme>
+<programme start="20251118135000 +0000" stop="20251118140500 +0000" channel="Nick Jr..skyde">
+    <title>Rubble &amp; Crew</title>
+</programme>
+<programme start="20251118140500 +0000" stop="20251118143000 +0000" channel="Nick Jr..skyde">
+    <title>DORA</title>
+</programme>
+<programme start="20251118143000 +0000" stop="20251118144500 +0000" channel="Nick Jr..skyde">
+    <title>Blaze und die Monster-Maschinen</title>
+</programme>
+<programme start="20251118144500 +0000" stop="20251118151000 +0000" channel="Nick Jr..skyde">
+    <title>BARBAPAPA und Familie</title>
+</programme>
+<programme start="20251118151000 +0000" stop="20251118153000 +0000" channel="Nick Jr..skyde">
+    <title>BARBAPAPA und Familie</title>
+</programme>
+<programme start="20251118153000 +0000" stop="20251118160000 +0000" channel="Nick Jr..skyde">
+    <title>Tim Rex im All</title>
+</programme>
+<programme start="20251118160000 +0000" stop="20251118162000 +0000" channel="Nick Jr..skyde">
+    <title>Paw Patrol: Helfer auf vier Pfoten</title>
+</programme>
+<programme start="20251118162000 +0000" stop="20251118163500 +0000" channel="Nick Jr..skyde">
+    <title>Paw Patrol: Helfer auf vier Pfoten</title>
+</programme>
+<programme start="20251118163500 +0000" stop="20251118170000 +0000" channel="Nick Jr..skyde">
+    <title>Rubble &amp; Crew</title>
+</programme>
+<programme start="20251118170000 +0000" stop="20251118172000 +0000" channel="Nick Jr..skyde">
+    <title>DORA</title>
+</programme>
+<programme start="20251118172000 +0000" stop="20251118174500 +0000" channel="Nick Jr..skyde">
+    <title>BARBAPAPA und Familie</title>
+</programme>
+<programme start="20251118174500 +0000" stop="20251118180000 +0000" channel="Nick Jr..skyde">
+    <title>BARBAPAPA und Familie</title>
+</programme>
+<programme start="20251118180000 +0000" stop="20251118182500 +0000" channel="Nick Jr..skyde">
+    <title>Tim Rex im All</title>
+</programme>
+<programme start="20251118182500 +0000" stop="20251118185000 +0000" channel="Nick Jr..skyde">
+    <title>Blaze und die Monster-Maschinen</title>
+</programme>
+<programme start="20251118185000 +0000" stop="20251118191500 +0000" channel="Nick Jr..skyde">
+    <title>Paw Patrol: Helfer auf vier Pfoten</title>
+</programme>
+<programme start="20251118191500 +0000" stop="20251118194000 +0000" channel="Nick Jr..skyde">
+    <title>Paw Patrol: Helfer auf vier Pfoten</title>
+</programme>
+<programme start="20251118194000 +0000" stop="20251118200500 +0000" channel="Nick Jr..skyde">
+    <title>Rubble &amp; Crew</title>
+</programme>
+<programme start="20251118200500 +0000" stop="20251118203000 +0000" channel="Nick Jr..skyde">
+    <title>Rubble &amp; Crew</title>
+</programme>
+<programme start="20251118203000 +0000" stop="20251118205000 +0000" channel="Nick Jr..skyde">
+    <title>DORA</title>
+</programme>
+<programme start="20251118205000 +0000" stop="20251118211500 +0000" channel="Nick Jr..skyde">
+    <title>Baby Sharks große Show</title>
+</programme>
+<programme start="20251118211500 +0000" stop="20251118214000 +0000" channel="Nick Jr..skyde">
+    <title>Baby Sharks große Show</title>
+</programme>
+<programme start="20251118214000 +0000" stop="20251118214500 +0000" channel="Nick Jr..skyde">
+    <title>Peppa Wutz</title>
+</programme>
+<programme start="20251118214500 +0000" stop="20251118215000 +0000" channel="Nick Jr..skyde">
+    <title>Peppa Wutz</title>
+</programme>
+<programme start="20251118215000 +0000" stop="20251118215500 +0000" channel="Nick Jr..skyde">
+    <title>Peppa Wutz</title>
+</programme>
+<programme start="20251118215500 +0000" stop="20251118220000 +0000" channel="Nick Jr..skyde">
+    <title>Peppa Wutz</title>
+</programme>
+<programme start="20251118220000 +0000" stop="20251118220500 +0000" channel="Nick Jr..skyde">
+    <title>Peppa Wutz</title>
+</programme>
+<programme start="20251118220500 +0000" stop="20251118221000 +0000" channel="Nick Jr..skyde">
+    <title>Peppa Wutz</title>
+</programme>
+<programme start="20251118221000 +0000" stop="20251118221500 +0000" channel="Nick Jr..skyde">
+    <title>Peppa Wutz</title>
+</programme>
+<programme start="20251118221500 +0000" stop="20251118224000 +0000" channel="Nick Jr..skyde">
+    <title>BARBAPAPA und Familie</title>
+</programme>
+<programme start="20251118224000 +0000" stop="20251118230500 +0000" channel="Nick Jr..skyde">
+    <title>BARBAPAPA und Familie</title>
+</programme>
 <programme start="20251117233500 +0000" stop="20251118005500 +0000" channel="Romance TV HD.skyde">
     <title>Der Duft der Liebe</title>
 </programme>
@@ -1621,44 +1861,35 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251118223500 +0000" stop="20251119000000 +0000" channel="Sky Cinema Family HD.skyde">
     <title>Das Kleine Arschloch und der Alte Sack - Sterben ist Scheiße</title>
 </programme>
-<programme start="20251118002500 +0000" stop="20251118022000 +0000" channel="Sky Cinema Highlights HD.skyde">
-    <title>Conjuring - Die Heimsuchung</title>
+<programme start="20251110234000 +0000" stop="20251111021000 +0000" channel="Sky Cinema Highlights HD.skyde">
+    <title>Harry Potter und der Stein der Weisen</title>
 </programme>
-<programme start="20251118022000 +0000" stop="20251118040000 +0000" channel="Sky Cinema Highlights HD.skyde">
-    <title>Annabelle</title>
+<programme start="20251111021000 +0000" stop="20251111045000 +0000" channel="Sky Cinema Highlights HD.skyde">
+    <title>Harry Potter und die Kammer des Schreckens</title>
 </programme>
-<programme start="20251118040000 +0000" stop="20251118061500 +0000" channel="Sky Cinema Highlights HD.skyde">
-    <title>Conjuring 2</title>
+<programme start="20251111045000 +0000" stop="20251111071000 +0000" channel="Sky Cinema Highlights HD.skyde">
+    <title>Harry Potter und der Gefangene von Askaban</title>
 </programme>
-<programme start="20251118061500 +0000" stop="20251118080500 +0000" channel="Sky Cinema Highlights HD.skyde">
-    <title>Annabelle 2</title>
+<programme start="20251111071000 +0000" stop="20251111094500 +0000" channel="Sky Cinema Highlights HD.skyde">
+    <title>Harry Potter und der Feuerkelch</title>
 </programme>
-<programme start="20251118080500 +0000" stop="20251118094500 +0000" channel="Sky Cinema Highlights HD.skyde">
-    <title>The Nun</title>
+<programme start="20251111094500 +0000" stop="20251111120500 +0000" channel="Sky Cinema Highlights HD.skyde">
+    <title>Harry Potter und der Orden des Phönix</title>
 </programme>
-<programme start="20251118094500 +0000" stop="20251118113500 +0000" channel="Sky Cinema Highlights HD.skyde">
-    <title>Annabelle 3</title>
+<programme start="20251111120500 +0000" stop="20251111143500 +0000" channel="Sky Cinema Highlights HD.skyde">
+    <title>Harry Potter und der Halbblutprinz</title>
 </programme>
-<programme start="20251118113500 +0000" stop="20251118132500 +0000" channel="Sky Cinema Highlights HD.skyde">
-    <title>Conjuring - Die Heimsuchung</title>
+<programme start="20251111143500 +0000" stop="20251111170000 +0000" channel="Sky Cinema Highlights HD.skyde">
+    <title>Harry Potter und die Heiligtümer des Todes (Teil 1)</title>
 </programme>
-<programme start="20251118132500 +0000" stop="20251118150500 +0000" channel="Sky Cinema Highlights HD.skyde">
-    <title>Annabelle</title>
+<programme start="20251111170000 +0000" stop="20251111191500 +0000" channel="Sky Cinema Highlights HD.skyde">
+    <title>Harry Potter und die Heiligtümer des Todes (Teil 2)</title>
 </programme>
-<programme start="20251118150500 +0000" stop="20251118172000 +0000" channel="Sky Cinema Highlights HD.skyde">
-    <title>Conjuring 2</title>
+<programme start="20251111191500 +0000" stop="20251111213000 +0000" channel="Sky Cinema Highlights HD.skyde">
+    <title>Phantastische Tierwesen und wo sie zu finden sind</title>
 </programme>
-<programme start="20251118172000 +0000" stop="20251118191500 +0000" channel="Sky Cinema Highlights HD.skyde">
-    <title>Annabelle 2</title>
-</programme>
-<programme start="20251118191500 +0000" stop="20251118205500 +0000" channel="Sky Cinema Highlights HD.skyde">
-    <title>The Nun</title>
-</programme>
-<programme start="20251118205500 +0000" stop="20251118224500 +0000" channel="Sky Cinema Highlights HD.skyde">
-    <title>Annabelle 3</title>
-</programme>
-<programme start="20251118224500 +0000" stop="20251119004000 +0000" channel="Sky Cinema Highlights HD.skyde">
-    <title>The Expendables (Extended Director&#039;s Cut)</title>
+<programme start="20251111213000 +0000" stop="20251111235000 +0000" channel="Sky Cinema Highlights HD.skyde">
+    <title>Phantastische Tierwesen: Grindelwalds Verbrechen</title>
 </programme>
 <programme start="20251118002500 +0000" stop="20251118020500 +0000" channel="Sky Cinema Premiere HD.skyde">
     <title>The Beast Within</title>
