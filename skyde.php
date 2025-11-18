@@ -1861,35 +1861,44 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251118223500 +0000" stop="20251119000000 +0000" channel="Sky Cinema Family HD.skyde">
     <title>Das Kleine Arschloch und der Alte Sack - Sterben ist Scheiße</title>
 </programme>
-<programme start="20251110234000 +0000" stop="20251111021000 +0000" channel="Sky Cinema Highlights HD.skyde">
-    <title>Harry Potter und der Stein der Weisen</title>
+<programme start="20251118002500 +0000" stop="20251118022000 +0000" channel="Sky Cinema Highlights HD.skyde">
+    <title>Conjuring - Die Heimsuchung</title>
 </programme>
-<programme start="20251111021000 +0000" stop="20251111045000 +0000" channel="Sky Cinema Highlights HD.skyde">
-    <title>Harry Potter und die Kammer des Schreckens</title>
+<programme start="20251118022000 +0000" stop="20251118040000 +0000" channel="Sky Cinema Highlights HD.skyde">
+    <title>Annabelle</title>
 </programme>
-<programme start="20251111045000 +0000" stop="20251111071000 +0000" channel="Sky Cinema Highlights HD.skyde">
-    <title>Harry Potter und der Gefangene von Askaban</title>
+<programme start="20251118040000 +0000" stop="20251118061500 +0000" channel="Sky Cinema Highlights HD.skyde">
+    <title>Conjuring 2</title>
 </programme>
-<programme start="20251111071000 +0000" stop="20251111094500 +0000" channel="Sky Cinema Highlights HD.skyde">
-    <title>Harry Potter und der Feuerkelch</title>
+<programme start="20251118061500 +0000" stop="20251118080500 +0000" channel="Sky Cinema Highlights HD.skyde">
+    <title>Annabelle 2</title>
 </programme>
-<programme start="20251111094500 +0000" stop="20251111120500 +0000" channel="Sky Cinema Highlights HD.skyde">
-    <title>Harry Potter und der Orden des Phönix</title>
+<programme start="20251118080500 +0000" stop="20251118094500 +0000" channel="Sky Cinema Highlights HD.skyde">
+    <title>The Nun</title>
 </programme>
-<programme start="20251111120500 +0000" stop="20251111143500 +0000" channel="Sky Cinema Highlights HD.skyde">
-    <title>Harry Potter und der Halbblutprinz</title>
+<programme start="20251118094500 +0000" stop="20251118113500 +0000" channel="Sky Cinema Highlights HD.skyde">
+    <title>Annabelle 3</title>
 </programme>
-<programme start="20251111143500 +0000" stop="20251111170000 +0000" channel="Sky Cinema Highlights HD.skyde">
-    <title>Harry Potter und die Heiligtümer des Todes (Teil 1)</title>
+<programme start="20251118113500 +0000" stop="20251118132500 +0000" channel="Sky Cinema Highlights HD.skyde">
+    <title>Conjuring - Die Heimsuchung</title>
 </programme>
-<programme start="20251111170000 +0000" stop="20251111191500 +0000" channel="Sky Cinema Highlights HD.skyde">
-    <title>Harry Potter und die Heiligtümer des Todes (Teil 2)</title>
+<programme start="20251118132500 +0000" stop="20251118150500 +0000" channel="Sky Cinema Highlights HD.skyde">
+    <title>Annabelle</title>
 </programme>
-<programme start="20251111191500 +0000" stop="20251111213000 +0000" channel="Sky Cinema Highlights HD.skyde">
-    <title>Phantastische Tierwesen und wo sie zu finden sind</title>
+<programme start="20251118150500 +0000" stop="20251118172000 +0000" channel="Sky Cinema Highlights HD.skyde">
+    <title>Conjuring 2</title>
 </programme>
-<programme start="20251111213000 +0000" stop="20251111235000 +0000" channel="Sky Cinema Highlights HD.skyde">
-    <title>Phantastische Tierwesen: Grindelwalds Verbrechen</title>
+<programme start="20251118172000 +0000" stop="20251118191500 +0000" channel="Sky Cinema Highlights HD.skyde">
+    <title>Annabelle 2</title>
+</programme>
+<programme start="20251118191500 +0000" stop="20251118205500 +0000" channel="Sky Cinema Highlights HD.skyde">
+    <title>The Nun</title>
+</programme>
+<programme start="20251118205500 +0000" stop="20251118224500 +0000" channel="Sky Cinema Highlights HD.skyde">
+    <title>Annabelle 3</title>
+</programme>
+<programme start="20251118224500 +0000" stop="20251119004000 +0000" channel="Sky Cinema Highlights HD.skyde">
+    <title>The Expendables (Extended Director&#039;s Cut)</title>
 </programme>
 <programme start="20251118002500 +0000" stop="20251118020500 +0000" channel="Sky Cinema Premiere HD.skyde">
     <title>The Beast Within</title>
