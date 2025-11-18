@@ -820,10 +820,10 @@
     <programme start="20251118160000 +0000" stop="20251119110000 +0000" channel="Live 1.mewatch">
         <title>No programme available now. Next broadcast on 19th November, Wednesday 7pm. The Wonder Shop Home Shopping</title>
     </programme>
-    <programme start="20251117160000 +0000" stop="20251118113300 +0000" channel="Live 2.mewatch">
+    <programme start="20251117160000 +0000" stop="20251118114500 +0000" channel="Live 2.mewatch">
         <title>No programme available now. Next broadcast on 18th November, Tuesday 7.33pm. AFC Asian Cup Saudi Arabia 2027 Qualifiers</title>
     </programme>
-    <programme start="20251118113300 +0000" stop="20251118140000 +0000" channel="Live 2.mewatch">
+    <programme start="20251118114500 +0000" stop="20251118140000 +0000" channel="Live 2.mewatch">
         <title>AFC Asian Cup Saudi Arabia 2027 Qualifiers: Hong Kong vs Singapore</title>
     </programme>
     <programme start="20251118140000 +0000" stop="20251118160000 +0000" channel="Live 2.mewatch">

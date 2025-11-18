@@ -110,8 +110,8 @@
     <title>Football: Genoa - ACF Fiorentina</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251118151500 +0700" stop="20251118180000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Celtic FC - Rangers FC</title>
+<programme start="20251119181000 +0700" stop="20251119202000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: OFI - AEK</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251118180000 +0700" stop="20251118200000 +0700" channel="COSMOTE Sport 3 HD">
@@ -234,10 +234,6 @@
     <title>Basketball: San Antonio Spurs - Memphis Grizzlies</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251118164000 +0700" stop="20251118173500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>2025 GT World Challenge Europe</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251118173500 +0700" stop="20251118183500 +0700" channel="COSMOTE Sport 5 HD">
     <title>Highlights: 2025 Extreme H</title>
     <desc>Live: Tidak</desc>
@@ -326,6 +322,10 @@
     <title>Motorsports: Extreme E 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251119180500 +0700" stop="20251119190500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>DTM</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251118163000 +0700" stop="20251118190000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Volleyball: Vasas - Olympiacos</title>
     <desc>Live: Tidak</desc>
@@ -384,6 +384,14 @@
 </programme>
 <programme start="20251119163000 +0700" stop="20251119180000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Topspin</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251119180000 +0700" stop="20251119183000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Watersports: Inside Sailing 2025 E10</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251119183000 +0700" stop="20251119190000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Premier Padel Tour 2025 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251118170000 +0700" stop="20251118190000 +0700" channel="COSMOTE Sport 7 HD">

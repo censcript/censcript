@@ -2945,10 +2945,10 @@
     <title>DW News</title>
 </programme>
 <programme start="20251118031500 +0000" stop="20251118033000 +0000" channel="DW English.mncvision">
-    <title>The Dip: Business Podcast</title>
+    <title>The Dip: Is Tesla Really...</title>
 </programme>
 <programme start="20251118033000 +0000" stop="20251118040000 +0000" channel="DW English.mncvision">
-    <title>Close Up: The Current Affairs</title>
+    <title>Close Up: Between Two Worlds</title>
 </programme>
 <programme start="20251118040000 +0000" stop="20251118041500 +0000" channel="DW English.mncvision">
     <title>DW News</title>
@@ -2969,7 +2969,7 @@
     <title>DW News</title>
 </programme>
 <programme start="20251118061500 +0000" stop="20251118063000 +0000" channel="DW English.mncvision">
-    <title>The Dip: Business Podcast</title>
+    <title>The Dip: Is Tesla Really...</title>
 </programme>
 <programme start="20251118063000 +0000" stop="20251118070000 +0000" channel="DW English.mncvision">
     <title>Arts Unveiled: Of Old &amp; New...</title>
@@ -2990,16 +2990,16 @@
     <title>DW News</title>
 </programme>
 <programme start="20251118091500 +0000" stop="20251118094500 +0000" channel="DW English.mncvision">
-    <title>Close Up: The Current Affairs</title>
+    <title>Close Up: Between Two Worlds</title>
 </programme>
 <programme start="20251118094500 +0000" stop="20251118100000 +0000" channel="DW English.mncvision">
-    <title>Reporter: On Location</title>
+    <title>Reporter: Returning To Syria</title>
 </programme>
 <programme start="20251118100000 +0000" stop="20251118103000 +0000" channel="DW English.mncvision">
     <title>DW News</title>
 </programme>
 <programme start="20251118103000 +0000" stop="20251118110000 +0000" channel="DW English.mncvision">
-    <title>Tomorrow Today: Mosquitos</title>
+    <title>Interview: Alexander Dobrindt</title>
 </programme>
 <programme start="20251118110000 +0000" stop="20251118113000 +0000" channel="DW English.mncvision">
     <title>DW News</title>
