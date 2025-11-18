@@ -4037,106 +4037,100 @@
     <title>Into The Cosmos: Space Race</title>
 </programme>
 <programme start="20251117170000 +0000" stop="20251117180000 +0000" channel="GTV.mncvision">
-    <title>GTV</title>
+    <title>Jelajah Mitos</title>
 </programme>
-<programme start="20251117180000 +0000" stop="20251117203000 +0000" channel="GTV.mncvision">
-    <title>GTV</title>
+<programme start="20251117180000 +0000" stop="20251117200000 +0000" channel="GTV.mncvision">
+    <title>Crime KV</title>
 </programme>
-<programme start="20251117203000 +0000" stop="20251117213000 +0000" channel="GTV.mncvision">
-    <title>GTV</title>
+<programme start="20251117200000 +0000" stop="20251117210000 +0000" channel="GTV.mncvision">
+    <title>Awas Ada Sule</title>
 </programme>
-<programme start="20251117213000 +0000" stop="20251117231500 +0000" channel="GTV.mncvision">
-    <title>GTV</title>
+<programme start="20251117210000 +0000" stop="20251117220000 +0000" channel="GTV.mncvision">
+    <title>Film TV</title>
 </programme>
-<programme start="20251117231500 +0000" stop="20251117234500 +0000" channel="GTV.mncvision">
-    <title>GTV</title>
+<programme start="20251117220000 +0000" stop="20251117230000 +0000" channel="GTV.mncvision">
+    <title>Kisah Viral</title>
 </programme>
-<programme start="20251117234500 +0000" stop="20251118013000 +0000" channel="GTV.mncvision">
-    <title>GTV</title>
+<programme start="20251117230000 +0000" stop="20251118003000 +0000" channel="GTV.mncvision">
+    <title>SpongeBob SquarePants</title>
 </programme>
-<programme start="20251118013000 +0000" stop="20251118050000 +0000" channel="GTV.mncvision">
-    <title>GTV</title>
+<programme start="20251118003000 +0000" stop="20251118013000 +0000" channel="GTV.mncvision">
+    <title>Obrolan Seputar Selebritis</title>
 </programme>
-<programme start="20251118050000 +0000" stop="20251118070000 +0000" channel="GTV.mncvision">
-    <title>GTV</title>
+<programme start="20251118013000 +0000" stop="20251118020000 +0000" channel="GTV.mncvision">
+    <title>CoComelon Dan Sahabat</title>
 </programme>
-<programme start="20251118070000 +0000" stop="20251118080000 +0000" channel="GTV.mncvision">
-    <title>GTV</title>
+<programme start="20251118020000 +0000" stop="20251118050000 +0000" channel="GTV.mncvision">
+    <title>SpongeBob SquarePants</title>
 </programme>
-<programme start="20251118080000 +0000" stop="20251118090000 +0000" channel="GTV.mncvision">
-    <title>GTV</title>
+<programme start="20251118050000 +0000" stop="20251118073000 +0000" channel="GTV.mncvision">
+    <title>SpongeBob SquarePants</title>
 </programme>
-<programme start="20251118090000 +0000" stop="20251118100000 +0000" channel="GTV.mncvision">
-    <title>GTV</title>
+<programme start="20251118073000 +0000" stop="20251118093000 +0000" channel="GTV.mncvision">
+    <title>Bernard Bear</title>
 </programme>
-<programme start="20251118100000 +0000" stop="20251118110000 +0000" channel="GTV.mncvision">
-    <title>GTV</title>
+<programme start="20251118093000 +0000" stop="20251118110000 +0000" channel="GTV.mncvision">
+    <title>SpongeBob SquarePants</title>
 </programme>
-<programme start="20251118110000 +0000" stop="20251118111500 +0000" channel="GTV.mncvision">
-    <title>GTV</title>
+<programme start="20251118110000 +0000" stop="20251118123000 +0000" channel="GTV.mncvision">
+    <title>New Family 100</title>
 </programme>
-<programme start="20251118111500 +0000" stop="20251118120000 +0000" channel="GTV.mncvision">
-    <title>GTV</title>
+<programme start="20251118123000 +0000" stop="20251118143000 +0000" channel="GTV.mncvision">
+    <title>The Tuxedo</title>
 </programme>
-<programme start="20251118120000 +0000" stop="20251118140000 +0000" channel="GTV.mncvision">
-    <title>GTV</title>
+<programme start="20251118143000 +0000" stop="20251118160000 +0000" channel="GTV.mncvision">
+    <title>Soul Eating Spider</title>
 </programme>
-<programme start="20251118140000 +0000" stop="20251118153000 +0000" channel="GTV.mncvision">
-    <title>GTV</title>
-</programme>
-<programme start="20251118153000 +0000" stop="20251118160000 +0000" channel="GTV.mncvision">
-    <title>GTV</title>
+<programme start="20251118160000 +0000" stop="20251118163000 +0000" channel="GTV.mncvision">
+    <title>Buletin iNews Malam</title>
 </programme>
 <programme start="20251117170000 +0000" stop="20251117180000 +0000" channel="GTV HD.mncvision">
-    <title>GTV</title>
+    <title>Jelajah Mitos</title>
 </programme>
-<programme start="20251117180000 +0000" stop="20251117203000 +0000" channel="GTV HD.mncvision">
-    <title>GTV</title>
+<programme start="20251117180000 +0000" stop="20251117200000 +0000" channel="GTV HD.mncvision">
+    <title>Crime KV</title>
 </programme>
-<programme start="20251117203000 +0000" stop="20251117213000 +0000" channel="GTV HD.mncvision">
-    <title>GTV</title>
+<programme start="20251117200000 +0000" stop="20251117210000 +0000" channel="GTV HD.mncvision">
+    <title>Awas Ada Sule</title>
 </programme>
-<programme start="20251117213000 +0000" stop="20251117231500 +0000" channel="GTV HD.mncvision">
-    <title>GTV</title>
+<programme start="20251117210000 +0000" stop="20251117220000 +0000" channel="GTV HD.mncvision">
+    <title>Film TV</title>
 </programme>
-<programme start="20251117231500 +0000" stop="20251117234500 +0000" channel="GTV HD.mncvision">
-    <title>GTV</title>
+<programme start="20251117220000 +0000" stop="20251117230000 +0000" channel="GTV HD.mncvision">
+    <title>Kisah Viral</title>
 </programme>
-<programme start="20251117234500 +0000" stop="20251118013000 +0000" channel="GTV HD.mncvision">
-    <title>GTV</title>
+<programme start="20251117230000 +0000" stop="20251118003000 +0000" channel="GTV HD.mncvision">
+    <title>SpongeBob SquarePants</title>
 </programme>
-<programme start="20251118013000 +0000" stop="20251118050000 +0000" channel="GTV HD.mncvision">
-    <title>GTV</title>
+<programme start="20251118003000 +0000" stop="20251118013000 +0000" channel="GTV HD.mncvision">
+    <title>Obrolan Seputar Selebritis</title>
 </programme>
-<programme start="20251118050000 +0000" stop="20251118070000 +0000" channel="GTV HD.mncvision">
-    <title>GTV</title>
+<programme start="20251118013000 +0000" stop="20251118020000 +0000" channel="GTV HD.mncvision">
+    <title>CoComelon Dan Sahabat</title>
 </programme>
-<programme start="20251118070000 +0000" stop="20251118080000 +0000" channel="GTV HD.mncvision">
-    <title>GTV</title>
+<programme start="20251118020000 +0000" stop="20251118050000 +0000" channel="GTV HD.mncvision">
+    <title>SpongeBob SquarePants</title>
 </programme>
-<programme start="20251118080000 +0000" stop="20251118090000 +0000" channel="GTV HD.mncvision">
-    <title>GTV</title>
+<programme start="20251118050000 +0000" stop="20251118073000 +0000" channel="GTV HD.mncvision">
+    <title>SpongeBob SquarePants</title>
 </programme>
-<programme start="20251118090000 +0000" stop="20251118100000 +0000" channel="GTV HD.mncvision">
-    <title>GTV</title>
+<programme start="20251118073000 +0000" stop="20251118093000 +0000" channel="GTV HD.mncvision">
+    <title>Bernard Bear</title>
 </programme>
-<programme start="20251118100000 +0000" stop="20251118110000 +0000" channel="GTV HD.mncvision">
-    <title>GTV</title>
+<programme start="20251118093000 +0000" stop="20251118110000 +0000" channel="GTV HD.mncvision">
+    <title>SpongeBob SquarePants</title>
 </programme>
-<programme start="20251118110000 +0000" stop="20251118111500 +0000" channel="GTV HD.mncvision">
-    <title>GTV</title>
+<programme start="20251118110000 +0000" stop="20251118123000 +0000" channel="GTV HD.mncvision">
+    <title>New Family 100</title>
 </programme>
-<programme start="20251118111500 +0000" stop="20251118120000 +0000" channel="GTV HD.mncvision">
-    <title>GTV</title>
+<programme start="20251118123000 +0000" stop="20251118143000 +0000" channel="GTV HD.mncvision">
+    <title>The Tuxedo</title>
 </programme>
-<programme start="20251118120000 +0000" stop="20251118140000 +0000" channel="GTV HD.mncvision">
-    <title>GTV</title>
+<programme start="20251118143000 +0000" stop="20251118160000 +0000" channel="GTV HD.mncvision">
+    <title>Soul Eating Spider</title>
 </programme>
-<programme start="20251118140000 +0000" stop="20251118153000 +0000" channel="GTV HD.mncvision">
-    <title>GTV</title>
-</programme>
-<programme start="20251118153000 +0000" stop="20251118160000 +0000" channel="GTV HD.mncvision">
-    <title>GTV</title>
+<programme start="20251118160000 +0000" stop="20251118163000 +0000" channel="GTV HD.mncvision">
+    <title>Buletin iNews Malam</title>
 </programme>
 <programme start="20251117180000 +0000" stop="20251117183000 +0000" channel="Hanacaraka TV.mncvision">
     <title>Arwah Lelembut Spesial</title>
@@ -5420,7 +5414,7 @@
     <title>Life Music</title>
 </programme>
 <programme start="20251118153000 +0000" stop="20251118160000 +0000" channel="LIFE.mncvision">
-    <title>Drive Thru History</title>
+    <title>Beyond Blessed Repalced</title>
 </programme>
 <programme start="20251118160000 +0000" stop="20251118163000 +0000" channel="LIFE.mncvision">
     <title>Solusi</title>
