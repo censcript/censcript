@@ -116,7 +116,7 @@
 <title>Entong</title>
 </programme>
 <programme start="20251118123000 +0000" stop="20251118141500 +0000" channel="MNCTV.vision">
-<title>Super Deal (MNCTV)</title>
+<title>Super Deal</title>
 </programme>
 <programme start="20251118141500 +0000" stop="20251118160000 +0000" channel="MNCTV.vision">
 <title>DMD Panggung Rezeki (MNCTV)</title>
@@ -181,17 +181,20 @@
 <programme start="20251118050000 +0000" stop="20251118073000 +0000" channel="GTV.vision">
 <title>SpongeBob SquarePants</title>
 </programme>
-<programme start="20251118073000 +0000" stop="20251118093000 +0000" channel="GTV.vision">
+<programme start="20251118073000 +0000" stop="20251118083000 +0000" channel="GTV.vision">
 <title>Bernard Bear</title>
 </programme>
-<programme start="20251118093000 +0000" stop="20251118110000 +0000" channel="GTV.vision">
+<programme start="20251118083000 +0000" stop="20251118100000 +0000" channel="GTV.vision">
+<title>Main Kata</title>
+</programme>
+<programme start="20251118100000 +0000" stop="20251118110000 +0000" channel="GTV.vision">
 <title>SpongeBob SquarePants</title>
 </programme>
 <programme start="20251118110000 +0000" stop="20251118123000 +0000" channel="GTV.vision">
 <title>New Family 100 (GTV)</title>
 </programme>
 <programme start="20251118123000 +0000" stop="20251118143000 +0000" channel="GTV.vision">
-<title>The Tuxedo</title>
+<title>Legend Of Broken Sword Hero</title>
 </programme>
 <programme start="20251118143000 +0000" stop="20251118160000 +0000" channel="GTV.vision">
 <title>Soul Eating Spider</title>
@@ -229,8 +232,11 @@
 <programme start="20251119050000 +0000" stop="20251119073000 +0000" channel="GTV.vision">
 <title>SpongeBob SquarePants</title>
 </programme>
-<programme start="20251119073000 +0000" stop="20251119100000 +0000" channel="GTV.vision">
+<programme start="20251119073000 +0000" stop="20251119083000 +0000" channel="GTV.vision">
 <title>Bernard Bear</title>
+</programme>
+<programme start="20251119083000 +0000" stop="20251119100000 +0000" channel="GTV.vision">
+<title>Main Kata</title>
 </programme>
 <programme start="20251119100000 +0000" stop="20251119110000 +0000" channel="GTV.vision">
 <title>SpongeBob SquarePants</title>
@@ -670,6 +676,9 @@
 <programme start="20251118010000 +0000" stop="20251118030000 +0000" channel="ANTV.vision">
 <title>Mangal Lakshmi</title>
 </programme>
+<programme start="20251118030000 +0000" stop="20251118063000 +0000" channel="ANTV.vision">
+<title>Karan Arjun</title>
+</programme>
 <programme start="20251118063000 +0000" stop="20251118080000 +0000" channel="ANTV.vision">
 <title>Cinta Keluarga Pandya</title>
 </programme>
@@ -678,6 +687,12 @@
 </programme>
 <programme start="20251118093000 +0000" stop="20251118110000 +0000" channel="ANTV.vision">
 <title>Takdir Cinta Layla</title>
+</programme>
+<programme start="20251118110000 +0000" stop="20251118130000 +0000" channel="ANTV.vision">
+<title>Malaikat Bayangan</title>
+</programme>
+<programme start="20251118130000 +0000" stop="20251118143000 +0000" channel="ANTV.vision">
+<title>Santet 2: Wanita Harimau</title>
 </programme>
 <programme start="20251118143000 +0000" stop="20251118163000 +0000" channel="ANTV.vision">
 <title>Millionaires Express</title>
@@ -1482,19 +1497,4 @@
 </programme>
 <programme start="20251119031500 +0000" stop="20251119040000 +0000" channel="BTV.vision">
 <title>Ketulusan Hati</title>
-</programme>
-<programme start="20251119040000 +0000" stop="20251119050000 +0000" channel="BTV.vision">
-<title>Berita Satu Siang</title>
-</programme>
-<programme start="20251119050000 +0000" stop="20251119060000 +0000" channel="BTV.vision">
-<title>Investor Market Today</title>
-</programme>
-<programme start="20251119060000 +0000" stop="20251119073000 +0000" channel="BTV.vision">
-<title>Spot On</title>
-</programme>
-<programme start="20251119073000 +0000" stop="20251119080000 +0000" channel="BTV.vision">
-<title>Dikit-Dikit Damkar</title>
-</programme>
-<programme start="20251119080000 +0000" stop="20251119084500 +0000" channel="BTV.vision">
-<title>Info Seleb</title>
 </programme>
