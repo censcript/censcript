@@ -3761,7 +3761,7 @@
         <title>World Weather</title>
     </programme>
     <programme start="20251117191500 +0000" stop="20251117200000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Tsurube&#039;s Salute to Families&quot;Ono Fumie in Tsuyama City,Okayama Prefecture&quot;Part 2</title>
+        <title>Tsurube&#039;s Salute to Families &quot;Ono Fumie in Tsuyama City, Okayama Prefecture&quot; Par</title>
     </programme>
     <programme start="20251117200000 +0000" stop="20251117202500 +0000" channel="NHK World Premium HD.starhub">
         <title>Grand Sumo 2025 November Tournament Highlights</title>
@@ -3794,7 +3794,7 @@
         <title>News &amp; Weather</title>
     </programme>
     <programme start="20251118010500 +0000" stop="20251118015000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Tsurube&#039;s Salute to Families&quot;Ono Fumie in Tsuyama City,Okayama Prefecture&quot;Part 2</title>
+        <title>Tsurube&#039;s Salute to Families &quot;Ono Fumie in Tsuyama City, Okayama Prefecture&quot; Par</title>
     </programme>
     <programme start="20251118015000 +0000" stop="20251118021700 +0000" channel="NHK World Premium HD.starhub">
         <title>Today&#039;s Close-up (R)</title>
@@ -6769,11 +6769,14 @@
     <programme start="20251117232500 +0000" stop="20251118000000 +0000" channel="beIN Sports HD.starhub">
         <title>9th LaLiga FC Futures International Soccer Tournament: Miami Rush vs Inter Miami</title>
     </programme>
-    <programme start="20251118000000 +0000" stop="20251118023000 +0000" channel="beIN Sports HD.starhub">
+    <programme start="20251118000000 +0000" stop="20251118021500 +0000" channel="beIN Sports HD.starhub">
         <title>Alisson - My Story</title>
     </programme>
-    <programme start="20251118023000 +0000" stop="20251118030000 +0000" channel="beIN Sports HD.starhub">
+    <programme start="20251118021500 +0000" stop="20251118024500 +0000" channel="beIN Sports HD.starhub">
         <title>LFC Trending 2025/26</title>
+    </programme>
+    <programme start="20251118024500 +0000" stop="20251118030000 +0000" channel="beIN Sports HD.starhub">
+        <title>Lukebakio</title>
     </programme>
     <programme start="20251118030000 +0000" stop="20251118061000 +0000" channel="beIN Sports HD.starhub">
         <title>Ultimate Pool 2025: Mixed Pairs Prelim Week 3</title>
@@ -7870,13 +7873,13 @@
     <programme start="20251118013000 +0000" stop="20251118043000 +0000" channel="Asianet Movies.starhub">
         <title>Snehaveedu</title>
     </programme>
-    <programme start="20251118043000 +0000" stop="20251118073000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251118043000 +0000" stop="20251118074000 +0000" channel="Asianet Movies.starhub">
         <title>RRR</title>
     </programme>
-    <programme start="20251118073000 +0000" stop="20251118103000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251118074000 +0000" stop="20251118104500 +0000" channel="Asianet Movies.starhub">
         <title>Neru</title>
     </programme>
-    <programme start="20251118103000 +0000" stop="20251118133000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251118104500 +0000" stop="20251118133000 +0000" channel="Asianet Movies.starhub">
         <title>Kunjiramayanam</title>
     </programme>
     <programme start="20251118133000 +0000" stop="20251118163000 +0000" channel="Asianet Movies.starhub">
