@@ -2695,80 +2695,77 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251118224500 +0000" stop="20251118231500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: 90in30: WAC - SCR, 4. Runde</title>
 </programme>
-<programme start="20251117230000 +0000" stop="20251118000000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL Kompakt: 10. Spieltag</title>
-</programme>
-<programme start="20251118000000 +0000" stop="20251118010000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+<programme start="20251118230000 +0000" stop="20251119000000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>2. BL Kompakt: 12. Spieltag</title>
 </programme>
-<programme start="20251118010000 +0000" stop="20251118030000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>2. BL: SpVgg Greuther Fürth - Preußen Münster, 12. Spieltag</title>
+<programme start="20251119000000 +0000" stop="20251119020000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>2. BL: 1. FC Magdeburg - SC Paderborn 07, 12. Spieltag</title>
 </programme>
-<programme start="20251118030000 +0000" stop="20251118031500 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>2. BL: Torparade 12. Spieltag</title>
-</programme>
-<programme start="20251118031500 +0000" stop="20251118033000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: Torparade 10. Spieltag</title>
-</programme>
-<programme start="20251118033000 +0000" stop="20251118040000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>2. BL: 90in30: FCK - BSC, 12. Spieltag</title>
-</programme>
-<programme start="20251118040000 +0000" stop="20251118043000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+<programme start="20251119020000 +0000" stop="20251119023000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: 90in30: BMG - KOE, 10. Spieltag</title>
 </programme>
-<programme start="20251118043000 +0000" stop="20251118044500 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>2. BL: Dein Spieltags-Sprint (12)</title>
-</programme>
-<programme start="20251118044500 +0000" stop="20251118050000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: Dein Spieltags-Sprint (10)</title>
-</programme>
-<programme start="20251118050000 +0000" stop="20251118070000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>2. BL: Holstein Kiel - Fortuna Düsseldorf, 12. Spieltag</title>
-</programme>
-<programme start="20251118070000 +0000" stop="20251118080000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: Alle Spiele, alle Stimmen, 10. Spieltag</title>
-</programme>
-<programme start="20251118080000 +0000" stop="20251118090000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: Glanzparade - Die Show mit Buschmann, Fuss und Wagner</title>
-</programme>
-<programme start="20251118090000 +0000" stop="20251118093000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: Report - Roots - Díaz, Nusa &amp; El Khannouss</title>
-</programme>
-<programme start="20251118093000 +0000" stop="20251118100000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+<programme start="20251119023000 +0000" stop="20251119030000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>2. BL: 90in30: FCK - BSC, 12. Spieltag</title>
 </programme>
-<programme start="20251118100000 +0000" stop="20251118120000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: VfB Stuttgart - FC Augsburg, 10. Spieltag</title>
+<programme start="20251119030000 +0000" stop="20251119040000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL Kompakt: 10. Spieltag</title>
 </programme>
-<programme start="20251118120000 +0000" stop="20251118140000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>DFB-Nachwuchsliga: Borussia M&#039;gladbach U17 - 1. FC Köln U17, 12. Spieltag</title>
+<programme start="20251119040000 +0000" stop="20251119050000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>2. BL Kompakt: 12. Spieltag</title>
 </programme>
-<programme start="20251118140000 +0000" stop="20251118150000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: Alle Spiele, alle Stimmen, 10. Spieltag</title>
-</programme>
-<programme start="20251118150000 +0000" stop="20251118160000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>2. BL Kompakt: 11. Spieltag</title>
-</programme>
-<programme start="20251118160000 +0000" stop="20251118170000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: Glanzparade - Die Show mit Buschmann, Fuss und Wagner</title>
-</programme>
-<programme start="20251118170000 +0000" stop="20251118173000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>2. BL: 90in30: FCK - BSC, 12. Spieltag</title>
-</programme>
-<programme start="20251118173000 +0000" stop="20251118174500 +0000" channel="Sky Sport Bundesliga HD.skyde">
+<programme start="20251119050000 +0000" stop="20251119051500 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>2. BL: Torparade 12. Spieltag</title>
 </programme>
-<programme start="20251118174500 +0000" stop="20251118180000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+<programme start="20251119051500 +0000" stop="20251119053000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: Torparade 10. Spieltag</title>
 </programme>
-<programme start="20251118180000 +0000" stop="20251118200000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: 1. FC Union Berlin - FC Bayern München, 10. Spieltag</title>
+<programme start="20251119053000 +0000" stop="20251119060000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>Meine Geschichte: Das Leben von Daniel Elfadli</title>
 </programme>
-<programme start="20251118200000 +0000" stop="20251118220000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: Borussia M&#039;gladbach - 1. FC Köln, tipico Topspiel der Woche, 10. Spieltag</title>
+<programme start="20251119060000 +0000" stop="20251119080000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>2. BL: FC Schalke 04 - SV Elversberg, 12. Spieltag</title>
 </programme>
-<programme start="20251118220000 +0000" stop="20251118230000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+<programme start="20251119080000 +0000" stop="20251119090000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>Fußball: Sammer &amp; Basile - Der Hagedorn-Talk</title>
+</programme>
+<programme start="20251119090000 +0000" stop="20251119110000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: Bayer Leverkusen - 1. FC Heidenheim, 10. Spieltag</title>
+</programme>
+<programme start="20251119110000 +0000" stop="20251119130000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: Hamburger SV - Borussia Dortmund, 10. Spieltag</title>
+</programme>
+<programme start="20251119130000 +0000" stop="20251119150000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>2. BL: Hannover 96 - SV Darmstadt 98, 12. Spieltag</title>
+</programme>
+<programme start="20251119150000 +0000" stop="20251119160000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL Kompakt: 10. Spieltag</title>
+</programme>
+<programme start="20251119160000 +0000" stop="20251119170000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>2. BL Kompakt: 11. Spieltag</title>
+</programme>
+<programme start="20251119170000 +0000" stop="20251119173000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: 90in30: BMG - KOE, 10. Spieltag</title>
+</programme>
+<programme start="20251119173000 +0000" stop="20251119180000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>2. BL: Dein Zweitligatalk - HvK &amp; Tusche</title>
+</programme>
+<programme start="20251119180000 +0000" stop="20251119190000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: Glanzparade - Die Show mit Buschmann, Fuss und Wagner</title>
+</programme>
+<programme start="20251119190000 +0000" stop="20251119200000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL Kompakt: 10. Spieltag</title>
+</programme>
+<programme start="20251119200000 +0000" stop="20251119203000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>2. BL: Dein Zweitligatalk - HvK &amp; Tusche</title>
+</programme>
+<programme start="20251119203000 +0000" stop="20251119204500 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: Torparade 10. Spieltag</title>
+</programme>
+<programme start="20251119204500 +0000" stop="20251119210000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: Neuer Exklusiv</title>
+</programme>
+<programme start="20251119210000 +0000" stop="20251119230000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: Klassiker der Woche: BVB - VFB (2011/12)</title>
 </programme>
 <programme start="20251117230000 +0000" stop="20251118010000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
     <title>BL: RB Leipzig - Hamburger SV, 7. Spieltag</title>
@@ -3328,10 +3325,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251117233000 +0000" stop="20251118000000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime</title>
 </programme>
-<programme start="20251118000000 +0000" stop="20251118023500 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20251118000000 +0000" stop="20251118023000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Milwaukee Bucks @ Cleveland Cavaliers</title>
 </programme>
-<programme start="20251118023500 +0000" stop="20251118032000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20251118023000 +0000" stop="20251118090000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime - Post Show</title>
 </programme>
 <programme start="20251117230500 +0000" stop="20251117235000 +0000" channel="SYFY HD.skyde">

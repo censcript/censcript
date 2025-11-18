@@ -110,8 +110,8 @@
     <title>Football: Como - Cagliari</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251118114500 +0700" stop="20251118151500 +0700" channel="COSMOTE Sport 3 HD">
-    <title>American Football: Philadelphia Eagles - Detroit Lions</title>
+<programme start="20251119161000 +0700" stop="20251119181000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Genoa - ACF Fiorentina</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251118151500 +0700" stop="20251118180000 +0700" channel="COSMOTE Sport 3 HD">
@@ -230,12 +230,8 @@
     <title>Pick n&#039; Roll</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251118142000 +0700" stop="20251118151000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>DTM</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251118151000 +0700" stop="20251118155500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Moto-E World Championship 2025</title>
+<programme start="20251119164500 +0700" stop="20251119171500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>NBA Specials</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251118155500 +0700" stop="20251118164000 +0700" channel="COSMOTE Sport 5 HD">
@@ -334,10 +330,6 @@
     <title>Motorsports: Extreme E 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251118143000 +0700" stop="20251118152000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Beach Volley: Pro Tour Elite 16 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251118152000 +0700" stop="20251118163000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Beach Volley: Pro Tour Elite 16 2025</title>
     <desc>Live: Tidak</desc>
@@ -392,6 +384,14 @@
 </programme>
 <programme start="20251119140000 +0700" stop="20251119160000 +0700" channel="COSMOTE Sport 6 HD">
     <title>2025 Premier Padel World Cup Pairs</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251119160000 +0700" stop="20251119163000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Premier Padel Tour 2025 - Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251119163000 +0700" stop="20251119180000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Topspin</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251118150000 +0700" stop="20251118170000 +0700" channel="COSMOTE Sport 7 HD">

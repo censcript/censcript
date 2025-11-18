@@ -8863,42 +8863,7 @@
 <programme start="20251118161600 +0000" stop="20251118164600 +0000" channel="Superrix.mncvision">
     <title>My Favorite Girlfriend</title>
 </programme>
-<programme start="20251117170100 +0000" stop="20251117191900 +0000" channel="Superrix HD.mncvision">
-    <title>Gold</title>
-</programme>
-<programme start="20251117191900 +0000" stop="20251117210500 +0000" channel="Superrix HD.mncvision">
-    <title>Loop Track</title>
-</programme>
-<programme start="20251117210500 +0000" stop="20251117230800 +0000" channel="Superrix HD.mncvision">
-    <title>Platinum</title>
-</programme>
-<programme start="20251117230800 +0000" stop="20251118010900 +0000" channel="Superrix HD.mncvision">
-    <title>Little Boy</title>
-</programme>
-<programme start="20251118010900 +0000" stop="20251118032300 +0000" channel="Superrix HD.mncvision">
-    <title>Gold</title>
-</programme>
-<programme start="20251118032300 +0000" stop="20251118050700 +0000" channel="Superrix HD.mncvision">
-    <title>The Gardener</title>
-</programme>
-<programme start="20251118050700 +0000" stop="20251118073400 +0000" channel="Superrix HD.mncvision">
-    <title>Platinum</title>
-</programme>
-<programme start="20251118073400 +0000" stop="20251118093100 +0000" channel="Superrix HD.mncvision">
-    <title>My Favorite Girlfriend</title>
-</programme>
-<programme start="20251118093100 +0000" stop="20251118114700 +0000" channel="Superrix HD.mncvision">
-    <title>Gold</title>
-</programme>
-<programme start="20251118114700 +0000" stop="20251118135400 +0000" channel="Superrix HD.mncvision">
-    <title>The End Of The Tour</title>
-</programme>
-<programme start="20251118135400 +0000" stop="20251118161600 +0000" channel="Superrix HD.mncvision">
-    <title>Platinum</title>
-</programme>
-<programme start="20251118161600 +0000" stop="20251118164600 +0000" channel="Superrix HD.mncvision">
-    <title>My Favorite Girlfriend</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20251117170000 +0000" stop="20251117173000 +0000" channel="Tawaf TV.mncvision">
     <title>Belajar Mengaji</title>
 </programme>
