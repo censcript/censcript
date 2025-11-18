@@ -50,10 +50,6 @@
     <title>Football: Crystal Palace - AZ Alkmaar</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251118100000 +0700" stop="20251118120000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Pisa - Cremonese</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251118120000 +0700" stop="20251118141000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Panetolikos - AEL Novibet</title>
     <desc>Live: Tidak</desc>
@@ -110,12 +106,8 @@
     <title>Football: Genoa - ACF Fiorentina</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251118110000 +0700" stop="20251118113000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Copa Libertadores 2025 - Highlights</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251118113000 +0700" stop="20251118114500 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Sports Highlights</title>
+<programme start="20251119120000 +0700" stop="20251119141000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Kifisia - Olympiacos</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251118114500 +0700" stop="20251118151500 +0700" channel="COSMOTE Sport 3 HD">
@@ -330,12 +322,8 @@
     <title>Highlights: 2025 Extreme H</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251118110000 +0700" stop="20251118113000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Sports Classics: 2025 Outdoor Specials</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251118113000 +0700" stop="20251118120000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Sports Classics: 2025 Sports Rundown E6</title>
+<programme start="20251119125500 +0700" stop="20251119132500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Extreme E - Highlights 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251118120000 +0700" stop="20251118130000 +0700" channel="COSMOTE Sport 6 HD">
@@ -396,6 +384,10 @@
 </programme>
 <programme start="20251119110000 +0700" stop="20251119120000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Sports Classics: 2025 Outdoor Specials</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251119120000 +0700" stop="20251119140000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Premier Padel Tour 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251118110000 +0700" stop="20251118130000 +0700" channel="COSMOTE Sport 7 HD">
@@ -500,14 +492,6 @@
 </programme>
 <programme start="20251119110000 +0700" stop="20251119130000 +0700" channel="COSMOTE Sport 8 HD">
     <title>COSMOTESport8HD</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251118081500 +0700" stop="20251118114500 +0700" channel="COSMOTE Sport 9 HD">
-    <title>American Football: Las Vegas Raiders - Dallas Cowboys (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20251118114500 +0700" stop="20251118120000 +0700" channel="COSMOTE Sport 9 HD">
-    <title>COSMOTESport9HD</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251118120000 +0700" stop="20251118123000 +0700" channel="COSMOTE Sport 9 HD">
