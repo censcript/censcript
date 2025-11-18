@@ -3328,10 +3328,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251117233000 +0000" stop="20251118000000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime</title>
 </programme>
-<programme start="20251118000000 +0000" stop="20251118023000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20251118000000 +0000" stop="20251118023500 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Milwaukee Bucks @ Cleveland Cavaliers</title>
 </programme>
-<programme start="20251118023000 +0000" stop="20251118090000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20251118023500 +0000" stop="20251118032000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime - Post Show</title>
 </programme>
 <programme start="20251117230500 +0000" stop="20251117235000 +0000" channel="SYFY HD.skyde">

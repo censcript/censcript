@@ -116,7 +116,7 @@
 <title>Entong</title>
 </programme>
 <programme start="20251118123000 +0000" stop="20251118141500 +0000" channel="MNCTV.vision">
-<title>Super Deal</title>
+<title>Super Deal (MNCTV)</title>
 </programme>
 <programme start="20251118141500 +0000" stop="20251118160000 +0000" channel="MNCTV.vision">
 <title>DMD Panggung Rezeki (MNCTV)</title>
@@ -675,9 +675,6 @@
 </programme>
 <programme start="20251118010000 +0000" stop="20251118030000 +0000" channel="ANTV.vision">
 <title>Mangal Lakshmi</title>
-</programme>
-<programme start="20251118030000 +0000" stop="20251118063000 +0000" channel="ANTV.vision">
-<title>Karan Arjun</title>
 </programme>
 <programme start="20251118063000 +0000" stop="20251118080000 +0000" channel="ANTV.vision">
 <title>Cinta Keluarga Pandya</title>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20251119031500 +0000" stop="20251119040000 +0000" channel="BTV.vision">
 <title>Ketulusan Hati</title>
+</programme>
+<programme start="20251119040000 +0000" stop="20251119050000 +0000" channel="BTV.vision">
+<title>Berita Satu Siang</title>
 </programme>
