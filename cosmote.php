@@ -218,10 +218,6 @@
     <title>Basketball: Heidelberg - Promitheas</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251120045500 +0700" stop="20251120060000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>2025 Extreme H</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251120060000 +0700" stop="20251120070500 +0700" channel="COSMOTE Sport 5 HD">
     <title>2025 Extreme H</title>
     <desc>Live: Tidak</desc>
@@ -308,6 +304,10 @@
 </programme>
 <programme start="20251121042000 +0700" stop="20251121062500 +0700" channel="COSMOTE Sport 5 HD">
     <title>2025 Extreme H</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251121062500 +0700" stop="20251121072000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>DTM</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251120041500 +0700" stop="20251120060500 +0700" channel="COSMOTE Sport 6 HD">
@@ -400,6 +400,14 @@
 </programme>
 <programme start="20251121043000 +0700" stop="20251121064000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Harri Heliovaara/Henry Patten - Joe Salisbury/Neal Skupski</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251121064000 +0700" stop="20251121065500 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Sports Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251121065500 +0700" stop="20251121100500 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Fight Sports: Oktagon 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251120050000 +0700" stop="20251120070000 +0700" channel="COSMOTE Sport 7 HD">
