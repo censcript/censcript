@@ -110,6 +110,10 @@
     <title>Football: Lecce - Hellas Verona</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251120161000 +0700" stop="20251120181000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Atalanta - Sassuolo</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251119150000 +0700" stop="20251119170000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Gillingham F.C - Crawley Town</title>
     <desc>Live: Tidak</desc>
@@ -234,10 +238,6 @@
     <title>Basketball: Valencia Basket Club - Tenerife</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251119145000 +0700" stop="20251119155500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: Extreme E 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251119155500 +0700" stop="20251119180500 +0700" channel="COSMOTE Sport 5 HD">
     <title>Motorsports: Extreme E 2025</title>
     <desc>Live: Tidak</desc>
@@ -334,8 +334,8 @@
     <title>Red Bull MotoGP Rookies Cup 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251119140000 +0700" stop="20251119160000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>2025 Premier Padel World Cup Pairs</title>
+<programme start="20251120163000 +0700" stop="20251120175000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Grand Prix Show 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251119160000 +0700" stop="20251119163000 +0700" channel="COSMOTE Sport 6 HD">
@@ -428,6 +428,14 @@
 </programme>
 <programme start="20251120141500 +0700" stop="20251120160000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Volleyball: Las Palmas - Olympiacos</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251120160000 +0700" stop="20251120165000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Beach Volley: Pro Tour Elite 16 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251120165000 +0700" stop="20251120183000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Handball: Fuchse Berlin - THW Kiel</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251119150000 +0700" stop="20251119170000 +0700" channel="COSMOTE Sport 7 HD">
