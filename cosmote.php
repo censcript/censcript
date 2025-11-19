@@ -106,6 +106,10 @@
     <title>Football: Panetolikos - AEL Novibet</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251121023000 +0700" stop="20251121043000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: AS Roma - Udinese</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251120010000 +0700" stop="20251120030000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Neom - Al Nassr</title>
     <desc>Live: Tidak</desc>
@@ -218,8 +222,8 @@
     <title>Basketball: Anadolu Efes - Bahcesehir</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251120003000 +0700" stop="20251120014000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: MotoGP 2025</title>
+<programme start="20251121023000 +0700" stop="20251121050000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Cleveland Cavaliers - Houston Rockets</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251120014000 +0700" stop="20251120024500 +0700" channel="COSMOTE Sport 5 HD">
@@ -310,8 +314,8 @@
     <title>WRC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251120010000 +0700" stop="20251120020000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Nitto ATP Finals 2024 - Highlights</title>
+<programme start="20251121020000 +0700" stop="20251121030000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251120020000 +0700" stop="20251120023000 +0700" channel="COSMOTE Sport 6 HD">
