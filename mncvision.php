@@ -5156,7 +5156,7 @@
     <title>CoComelon</title>
 </programme>
 <programme start="20251119160000 +0000" stop="20251119163000 +0000" channel="Kids TV.mncvision">
-    <title>Emak Gue Jawara</title>
+    <title>1001 Legenda</title>
 </programme>
 <programme start="20251118170000 +0000" stop="20251118190000 +0000" channel="Kids TV HD.mncvision">
     <title>SpongeBob SquarePants</title>
@@ -5252,7 +5252,7 @@
     <title>CoComelon</title>
 </programme>
 <programme start="20251119160000 +0000" stop="20251119163000 +0000" channel="Kids TV HD.mncvision">
-    <title>Emak Gue Jawara</title>
+    <title>1001 Legenda</title>
 </programme>
 <programme start="20251118173500 +0000" stop="20251118194000 +0000" channel="KIX.mncvision">
     <title>Iron Squad W, Ep 11</title>

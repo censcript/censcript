@@ -110,6 +110,10 @@
     <title>Football: Atalanta - Sassuolo</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251120181000 +0700" stop="20251120202000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Panathinaikos - PAOK</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251119170000 +0700" stop="20251119190000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Famalicao - FC Porto</title>
     <desc>Live: Tidak</desc>
@@ -172,10 +176,6 @@
 </programme>
 <programme start="20251120170000 +0700" stop="20251120190000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: SC Braga - Moreirense</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251119164500 +0700" stop="20251119171500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>NBA Specials</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251119171500 +0700" stop="20251119194500 +0700" channel="COSMOTE Sport 4 HD">
@@ -338,10 +338,6 @@
     <title>DTM 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251119163000 +0700" stop="20251119180000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Topspin</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251119180000 +0700" stop="20251119183000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Watersports: Inside Sailing 2025 E10</title>
     <desc>Live: Tidak</desc>
@@ -432,6 +428,10 @@
 </programme>
 <programme start="20251120165000 +0700" stop="20251120183000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Handball: Fuchse Berlin - THW Kiel</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251120183000 +0700" stop="20251120200000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Topspin</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251119170000 +0700" stop="20251119190000 +0700" channel="COSMOTE Sport 7 HD">
