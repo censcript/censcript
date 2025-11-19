@@ -406,7 +406,45 @@
 <programme start="20251119163000 +0000" stop="20251118170000 +0000" channel="Animax.mncvision">
     <title>Witch Watch, Ep 11</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20251118183000 +0000" stop="20251118200000 +0000" channel="ANTV.mncvision">
+    <title>Durjana Pemetik Bunga</title>
+</programme>
+<programme start="20251118200000 +0000" stop="20251118213000 +0000" channel="ANTV.mncvision">
+    <title>7 Manusia Harimau</title>
+</programme>
+<programme start="20251118213000 +0000" stop="20251118230000 +0000" channel="ANTV.mncvision">
+    <title>Ada Si Manis Di Jembatan</title>
+</programme>
+<programme start="20251118230000 +0000" stop="20251119010000 +0000" channel="ANTV.mncvision">
+    <title>Naga Seribu</title>
+</programme>
+<programme start="20251119010000 +0000" stop="20251119030000 +0000" channel="ANTV.mncvision">
+    <title>Mangal Lakshmi</title>
+</programme>
+<programme start="20251119030000 +0000" stop="20251119063000 +0000" channel="ANTV.mncvision">
+    <title>Hum Saath-Saath Hain</title>
+</programme>
+<programme start="20251119063000 +0000" stop="20251119080000 +0000" channel="ANTV.mncvision">
+    <title>Cinta Keluarga Pandya</title>
+</programme>
+<programme start="20251119080000 +0000" stop="20251119093000 +0000" channel="ANTV.mncvision">
+    <title>Zeynep</title>
+</programme>
+<programme start="20251119093000 +0000" stop="20251119110000 +0000" channel="ANTV.mncvision">
+    <title>Takdir Cinta Layla</title>
+</programme>
+<programme start="20251119110000 +0000" stop="20251119130000 +0000" channel="ANTV.mncvision">
+    <title>Jaka Tuak</title>
+</programme>
+<programme start="20251119130000 +0000" stop="20251119143000 +0000" channel="ANTV.mncvision">
+    <title>Petualangan Cinta Nyi Blorong</title>
+</programme>
+<programme start="20251119143000 +0000" stop="20251119163000 +0000" channel="ANTV.mncvision">
+    <title>Misteri Dari Gunung Merapi 3</title>
+</programme>
+<programme start="20251119163000 +0000" stop="20251118170000 +0000" channel="ANTV.mncvision">
+    <title>Righting Wrongs</title>
+</programme>
 <programme start="20251118170000 +0000" stop="20251118173000 +0000" channel="Arirang.mncvision">
     <title>The Kulture Wave</title>
 </programme>
@@ -1580,7 +1618,90 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20251119160000 +0000" stop="20251119163000 +0000" channel="Bloomberg.mncvision">
     <title>Bloomberg Tech</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20251118173000 +0000" stop="20251118182700 +0000" channel="BTV.mncvision">
+    <title>Berita Viral</title>
+</programme>
+<programme start="20251118182700 +0000" stop="20251118183000 +0000" channel="BTV.mncvision">
+    <title>Tanah Airku</title>
+</programme>
+<programme start="20251118183000 +0000" stop="20251118193000 +0000" channel="BTV.mncvision">
+    <title>Berita Satu Sore</title>
+</programme>
+<programme start="20251118193000 +0000" stop="20251118203000 +0000" channel="BTV.mncvision">
+    <title>Berita Satu Malam</title>
+</programme>
+<programme start="20251118203000 +0000" stop="20251118213000 +0000" channel="BTV.mncvision">
+    <title>Spot On</title>
+</programme>
+<programme start="20251118213000 +0000" stop="20251118223000 +0000" channel="BTV.mncvision">
+    <title>Berita Satu Pagi</title>
+</programme>
+<programme start="20251118223000 +0000" stop="20251118230000 +0000" channel="BTV.mncvision">
+    <title>Berita Viral</title>
+</programme>
+<programme start="20251118230000 +0000" stop="20251118230300 +0000" channel="BTV.mncvision">
+    <title>Indonesia Raya</title>
+</programme>
+<programme start="20251118230300 +0000" stop="20251119003000 +0000" channel="BTV.mncvision">
+    <title>Jalan Dakwah</title>
+</programme>
+<programme start="20251119003000 +0000" stop="20251119011500 +0000" channel="BTV.mncvision">
+    <title>Figur Publik</title>
+</programme>
+<programme start="20251119011500 +0000" stop="20251119014500 +0000" channel="BTV.mncvision">
+    <title>Kuyliner</title>
+</programme>
+<programme start="20251119014500 +0000" stop="20251119023000 +0000" channel="BTV.mncvision">
+    <title>Masak Ala Devina Hermawan</title>
+</programme>
+<programme start="20251119023000 +0000" stop="20251119031500 +0000" channel="BTV.mncvision">
+    <title>Selera Rasa</title>
+</programme>
+<programme start="20251119031500 +0000" stop="20251119040000 +0000" channel="BTV.mncvision">
+    <title>Ketulusan Hati</title>
+</programme>
+<programme start="20251119040000 +0000" stop="20251119050000 +0000" channel="BTV.mncvision">
+    <title>Berita Satu Siang</title>
+</programme>
+<programme start="20251119050000 +0000" stop="20251119060000 +0000" channel="BTV.mncvision">
+    <title>Investor Market Today</title>
+</programme>
+<programme start="20251119060000 +0000" stop="20251119073000 +0000" channel="BTV.mncvision">
+    <title>Spot On</title>
+</programme>
+<programme start="20251119073000 +0000" stop="20251119080000 +0000" channel="BTV.mncvision">
+    <title>Dikit-Dikit Damkar</title>
+</programme>
+<programme start="20251119080000 +0000" stop="20251119084500 +0000" channel="BTV.mncvision">
+    <title>Info Seleb</title>
+</programme>
+<programme start="20251119084500 +0000" stop="20251119093000 +0000" channel="BTV.mncvision">
+    <title>Figur Publik</title>
+</programme>
+<programme start="20251119093000 +0000" stop="20251119103000 +0000" channel="BTV.mncvision">
+    <title>Berita Satu Sore</title>
+</programme>
+<programme start="20251119103000 +0000" stop="20251119123000 +0000" channel="BTV.mncvision">
+    <title>Berita Satu Utama</title>
+</programme>
+<programme start="20251119123000 +0000" stop="20251119130000 +0000" channel="BTV.mncvision">
+    <title>Dunia Binatang</title>
+</programme>
+<programme start="20251119130000 +0000" stop="20251119140000 +0000" channel="BTV.mncvision">
+    <title>Berita Viral</title>
+</programme>
+<programme start="20251119140000 +0000" stop="20251119150000 +0000" channel="BTV.mncvision">
+    <title>Spot On</title>
+</programme>
+<programme start="20251119150000 +0000" stop="20251119160000 +0000" channel="BTV.mncvision">
+    <title>Berita Satu Malam</title>
+</programme>
+<programme start="20251119160000 +0000" stop="20251119163000 +0000" channel="BTV.mncvision">
+    <title>Mitos Tengah Malam</title>
+</programme>
+<programme start="20251119163000 +0000" stop="20251118170000 +0000" channel="BTV.mncvision">
+    <title>ONE Vault</title>
+</programme>
 <programme start="20251118182100 +0000" stop="20251118201500 +0000" channel="BUDDY STARS.mncvision">
     <title>Autumn &amp; The Black Jaguar</title>
 </programme>

@@ -1114,95 +1114,89 @@
 <programme start="20251119222000 +0000" stop="20251119231000 +0000" channel="Heimatkanal.skyde">
     <title>Der Landarzt</title>
 </programme>
-<programme start="20251110232000 +0000" stop="20251111001500 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Terra X: Rätselhafte Phänomene</title>
+<programme start="20251118231500 +0000" stop="20251119000000 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Terra X: Faszination Wasser</title>
 </programme>
-<programme start="20251111001500 +0000" stop="20251111010000 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Meilensteine der Technik</title>
-</programme>
-<programme start="20251111010000 +0000" stop="20251111014500 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Wunderwerke der Weltgeschichte</title>
-</programme>
-<programme start="20251111014500 +0000" stop="20251111023000 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Innovationen, die die Welt veränderten</title>
-</programme>
-<programme start="20251111023000 +0000" stop="20251111031500 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Zukunft ohne Menschen</title>
-</programme>
-<programme start="20251111031500 +0000" stop="20251111040000 +0000" channel="HISTORY Channel HD.skyde">
-    <title>The Proof is Out There - Auf den Spuren des Unerklärlichen</title>
-</programme>
-<programme start="20251111040000 +0000" stop="20251111044000 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Das Geheimnis der Skinwalker Ranch</title>
-</programme>
-<programme start="20251111044000 +0000" stop="20251111053000 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Das Geheimnis der Skinwalker Ranch</title>
-</programme>
-<programme start="20251111053000 +0000" stop="20251111061500 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Ancient Aliens - Unerklärliche Phänomene</title>
-</programme>
-<programme start="20251111061500 +0000" stop="20251111070000 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Ancient Aliens - Unerklärliche Phänomene</title>
-</programme>
-<programme start="20251111070000 +0000" stop="20251111074500 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Ancient Aliens - Unerklärliche Phänomene</title>
-</programme>
-<programme start="20251111074500 +0000" stop="20251111083000 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Ancient Aliens - Unerklärliche Phänomene</title>
-</programme>
-<programme start="20251111083000 +0000" stop="20251111091500 +0000" channel="HISTORY Channel HD.skyde">
-    <title>The Proof is Out There - Auf den Spuren des Unerklärlichen</title>
-</programme>
-<programme start="20251111091500 +0000" stop="20251111100000 +0000" channel="HISTORY Channel HD.skyde">
-    <title>The Proof is Out There - Auf den Spuren des Unerklärlichen</title>
-</programme>
-<programme start="20251111100000 +0000" stop="20251111105000 +0000" channel="HISTORY Channel HD.skyde">
-    <title>The UnXplained mit William Shatner</title>
-</programme>
-<programme start="20251111105000 +0000" stop="20251111114000 +0000" channel="HISTORY Channel HD.skyde">
-    <title>The UnXplained mit William Shatner</title>
-</programme>
-<programme start="20251111114000 +0000" stop="20251111122500 +0000" channel="HISTORY Channel HD.skyde">
-    <title>History&#039;s Greatest Mysteries</title>
-</programme>
-<programme start="20251111122500 +0000" stop="20251111131000 +0000" channel="HISTORY Channel HD.skyde">
-    <title>History&#039;s Greatest Mysteries</title>
-</programme>
-<programme start="20251111131000 +0000" stop="20251111135500 +0000" channel="HISTORY Channel HD.skyde">
-    <title>The Proof is Out There - Auf den Spuren des Unerklärlichen</title>
-</programme>
-<programme start="20251111135500 +0000" stop="20251111144000 +0000" channel="HISTORY Channel HD.skyde">
-    <title>The Proof is Out There - Auf den Spuren des Unerklärlichen</title>
-</programme>
-<programme start="20251111144000 +0000" stop="20251111152500 +0000" channel="HISTORY Channel HD.skyde">
-    <title>The UnXplained mit William Shatner</title>
-</programme>
-<programme start="20251111152500 +0000" stop="20251111161000 +0000" channel="HISTORY Channel HD.skyde">
-    <title>The UnXplained mit William Shatner</title>
-</programme>
-<programme start="20251111161000 +0000" stop="20251111165500 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Ancient Aliens - Unerklärliche Phänomene</title>
-</programme>
-<programme start="20251111165500 +0000" stop="20251111174000 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Ancient Aliens - Unerklärliche Phänomene</title>
-</programme>
-<programme start="20251111174000 +0000" stop="20251111183000 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Ancient Aliens - Unerklärliche Phänomene</title>
-</programme>
-<programme start="20251111183000 +0000" stop="20251111191500 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Ancient Aliens - Unerklärliche Phänomene</title>
-</programme>
-<programme start="20251111191500 +0000" stop="20251111204500 +0000" channel="HISTORY Channel HD.skyde">
+<programme start="20251119000000 +0000" stop="20251119012000 +0000" channel="HISTORY Channel HD.skyde">
     <title>Ancient Aliens - Die Ursprünge</title>
 </programme>
-<programme start="20251111204500 +0000" stop="20251111213500 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Terra X: MaiBrain - Reise ins Gehirn</title>
+<programme start="20251119012000 +0000" stop="20251119020500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Terra X: Faszination Universum</title>
 </programme>
-<programme start="20251111213500 +0000" stop="20251111222500 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Terra X: MaiBrain - Reise ins Gehirn</title>
+<programme start="20251119020500 +0000" stop="20251119025000 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Terra X: Faszination Universum</title>
 </programme>
-<programme start="20251111222500 +0000" stop="20251111231500 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Terra X: Giganten der Kunst</title>
+<programme start="20251119025000 +0000" stop="20251119031500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Forged with Steele</title>
+</programme>
+<programme start="20251119031500 +0000" stop="20251119035500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>The Proof is Out There - Auf den Spuren des Unerklärlichen</title>
+</programme>
+<programme start="20251119035500 +0000" stop="20251119044000 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Das Geheimnis der Skinwalker Ranch</title>
+</programme>
+<programme start="20251119044000 +0000" stop="20251119053000 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Das Geheimnis der Skinwalker Ranch</title>
+</programme>
+<programme start="20251119053000 +0000" stop="20251119061500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Ancient Aliens - Unerklärliche Phänomene</title>
+</programme>
+<programme start="20251119061500 +0000" stop="20251119070000 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Ancient Aliens - Unerklärliche Phänomene</title>
+</programme>
+<programme start="20251119070000 +0000" stop="20251119083000 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Ancient Aliens - Unerklärliche Phänomene</title>
+</programme>
+<programme start="20251119083000 +0000" stop="20251119091500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>The Proof is Out There - Auf den Spuren des Unerklärlichen</title>
+</programme>
+<programme start="20251119091500 +0000" stop="20251119100000 +0000" channel="HISTORY Channel HD.skyde">
+    <title>The Proof is Out There - Auf den Spuren des Unerklärlichen</title>
+</programme>
+<programme start="20251119100000 +0000" stop="20251119105000 +0000" channel="HISTORY Channel HD.skyde">
+    <title>The UnXplained mit William Shatner</title>
+</programme>
+<programme start="20251119105000 +0000" stop="20251119114500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>The UnXplained mit William Shatner</title>
+</programme>
+<programme start="20251119114500 +0000" stop="20251119123000 +0000" channel="HISTORY Channel HD.skyde">
+    <title>History&#039;s Greatest Mysteries</title>
+</programme>
+<programme start="20251119123000 +0000" stop="20251119131500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>History&#039;s Greatest Mysteries</title>
+</programme>
+<programme start="20251119131500 +0000" stop="20251119140000 +0000" channel="HISTORY Channel HD.skyde">
+    <title>The Proof is Out There - Auf den Spuren des Unerklärlichen</title>
+</programme>
+<programme start="20251119140000 +0000" stop="20251119144500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>The Proof is Out There - Auf den Spuren des Unerklärlichen</title>
+</programme>
+<programme start="20251119144500 +0000" stop="20251119153000 +0000" channel="HISTORY Channel HD.skyde">
+    <title>The UnXplained mit William Shatner</title>
+</programme>
+<programme start="20251119153000 +0000" stop="20251119161500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>The UnXplained mit William Shatner</title>
+</programme>
+<programme start="20251119161500 +0000" stop="20251119174500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Ancient Aliens - Unerklärliche Phänomene</title>
+</programme>
+<programme start="20251119174500 +0000" stop="20251119191500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Ancient Aliens - Unerklärliche Phänomene</title>
+</programme>
+<programme start="20251119191500 +0000" stop="20251119200500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Das Geheimnis der Skinwalker Ranch</title>
+</programme>
+<programme start="20251119200500 +0000" stop="20251119205500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Secrets Declassified mit David Duchovny</title>
+</programme>
+<programme start="20251119205500 +0000" stop="20251119214500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>The UnXplained mit William Shatner</title>
+</programme>
+<programme start="20251119214500 +0000" stop="20251119223500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>The UnXplained mit William Shatner</title>
+</programme>
+<programme start="20251119223500 +0000" stop="20251119232500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Terra X: Eisige Welten</title>
 </programme>
 <programme start="20251118230000 +0000" stop="20251119010000 +0000" channel="Jukebox.skyde">
     <title>BACK TO ... 2014</title>
@@ -1230,138 +1224,6 @@
 </programme>
 <programme start="20251119210000 +0000" stop="20251119230000 +0000" channel="Jukebox.skyde">
     <title>JUKEBOX NEWS</title>
-</programme>
-<programme start="20251118230500 +0000" stop="20251119000000 +0000" channel="Motorvision+.skyde">
-    <title>Road Wars Staffel 7</title>
-</programme>
-<programme start="20251119000000 +0000" stop="20251119003000 +0000" channel="Motorvision+.skyde">
-    <title>Infomercial</title>
-</programme>
-<programme start="20251119003000 +0000" stop="20251119010000 +0000" channel="Motorvision+.skyde">
-    <title>Infomercial</title>
-</programme>
-<programme start="20251119010000 +0000" stop="20251119013000 +0000" channel="Motorvision+.skyde">
-    <title>Infomercial</title>
-</programme>
-<programme start="20251119013000 +0000" stop="20251119020000 +0000" channel="Motorvision+.skyde">
-    <title>Infomercial</title>
-</programme>
-<programme start="20251119020000 +0000" stop="20251119024000 +0000" channel="Motorvision+.skyde">
-    <title>Perfect Ride</title>
-</programme>
-<programme start="20251119024000 +0000" stop="20251119031000 +0000" channel="Motorvision+.skyde">
-    <title>Super Cars</title>
-</programme>
-<programme start="20251119031000 +0000" stop="20251119033500 +0000" channel="Motorvision+.skyde">
-    <title>Top Speed Classic</title>
-</programme>
-<programme start="20251119033500 +0000" stop="20251119040500 +0000" channel="Motorvision+.skyde">
-    <title>Gearing Up 2023</title>
-</programme>
-<programme start="20251119040500 +0000" stop="20251119043000 +0000" channel="Motorvision+.skyde">
-    <title>FIM World Motocross Championship 2024</title>
-</programme>
-<programme start="20251119043000 +0000" stop="20251119050000 +0000" channel="Motorvision+.skyde">
-    <title>FastZone 2024</title>
-</programme>
-<programme start="20251119050000 +0000" stop="20251119055500 +0000" channel="Motorvision+.skyde">
-    <title>Report</title>
-</programme>
-<programme start="20251119055500 +0000" stop="20251119062000 +0000" channel="Motorvision+.skyde">
-    <title>Abenteuer Allrad</title>
-</programme>
-<programme start="20251119062000 +0000" stop="20251119065000 +0000" channel="Motorvision+.skyde">
-    <title>Bike World 2024</title>
-</programme>
-<programme start="20251119065000 +0000" stop="20251119074500 +0000" channel="Motorvision+.skyde">
-    <title>Australian Motocross Championship 2023</title>
-</programme>
-<programme start="20251119074500 +0000" stop="20251119081500 +0000" channel="Motorvision+.skyde">
-    <title>Biker Lifestyle</title>
-</programme>
-<programme start="20251119081500 +0000" stop="20251119084000 +0000" channel="Motorvision+.skyde">
-    <title>Classic</title>
-</programme>
-<programme start="20251119084000 +0000" stop="20251119091000 +0000" channel="Motorvision+.skyde">
-    <title>Classic Ride</title>
-</programme>
-<programme start="20251119091000 +0000" stop="20251119093500 +0000" channel="Motorvision+.skyde">
-    <title>Crash</title>
-</programme>
-<programme start="20251119093500 +0000" stop="20251119100500 +0000" channel="Motorvision+.skyde">
-    <title>Made in....</title>
-</programme>
-<programme start="20251119100500 +0000" stop="20251119103000 +0000" channel="Motorvision+.skyde">
-    <title>Top Speed Classic</title>
-</programme>
-<programme start="20251119103000 +0000" stop="20251119105500 +0000" channel="Motorvision+.skyde">
-    <title>Car History</title>
-</programme>
-<programme start="20251119105500 +0000" stop="20251119112500 +0000" channel="Motorvision+.skyde">
-    <title>FastZone 2024</title>
-</programme>
-<programme start="20251119112500 +0000" stop="20251119115500 +0000" channel="Motorvision+.skyde">
-    <title>FIM World Motocross Championship 2024</title>
-</programme>
-<programme start="20251119115500 +0000" stop="20251119122000 +0000" channel="Motorvision+.skyde">
-    <title>Perfect Ride</title>
-</programme>
-<programme start="20251119122000 +0000" stop="20251119124500 +0000" channel="Motorvision+.skyde">
-    <title>Stunt Heroes</title>
-</programme>
-<programme start="20251119124500 +0000" stop="20251119131500 +0000" channel="Motorvision+.skyde">
-    <title>Dream Cars</title>
-</programme>
-<programme start="20251119131500 +0000" stop="20251119134500 +0000" channel="Motorvision+.skyde">
-    <title>Gearing Up 2024</title>
-</programme>
-<programme start="20251119134500 +0000" stop="20251119141500 +0000" channel="Motorvision+.skyde">
-    <title>Grüne Welle</title>
-</programme>
-<programme start="20251119141500 +0000" stop="20251119150000 +0000" channel="Motorvision+.skyde">
-    <title>Australian Drag Racing Championship 2022</title>
-</programme>
-<programme start="20251119150000 +0000" stop="20251119153000 +0000" channel="Motorvision+.skyde">
-    <title>Biker Lifestyle</title>
-</programme>
-<programme start="20251119153000 +0000" stop="20251119155500 +0000" channel="Motorvision+.skyde">
-    <title>Gearing Up 2025</title>
-</programme>
-<programme start="20251119155500 +0000" stop="20251119162500 +0000" channel="Motorvision+.skyde">
-    <title>4x4 - Das Allrad Magazin</title>
-</programme>
-<programme start="20251119162500 +0000" stop="20251119165500 +0000" channel="Motorvision+.skyde">
-    <title>Alpen Marathon</title>
-</programme>
-<programme start="20251119165500 +0000" stop="20251119172000 +0000" channel="Motorvision+.skyde">
-    <title>Bike World 2024</title>
-</programme>
-<programme start="20251119172000 +0000" stop="20251119175000 +0000" channel="Motorvision+.skyde">
-    <title>Perfect Ride</title>
-</programme>
-<programme start="20251119175000 +0000" stop="20251119181500 +0000" channel="Motorvision+.skyde">
-    <title>Super Cars</title>
-</programme>
-<programme start="20251119181500 +0000" stop="20251119190500 +0000" channel="Motorvision+.skyde">
-    <title>Road Wars Staffel 7</title>
-</programme>
-<programme start="20251119190500 +0000" stop="20251119200500 +0000" channel="Motorvision+.skyde">
-    <title>Australian Motocross Championship 2023</title>
-</programme>
-<programme start="20251119200500 +0000" stop="20251119210000 +0000" channel="Motorvision+.skyde">
-    <title>Australian Boat Racing 2025</title>
-</programme>
-<programme start="20251119210000 +0000" stop="20251119215000 +0000" channel="Motorvision+.skyde">
-    <title>Australian Circuit Boat Racing 2024</title>
-</programme>
-<programme start="20251119215000 +0000" stop="20251119222000 +0000" channel="Motorvision+.skyde">
-    <title>P1 Class 1 Offshore Championship 2024</title>
-</programme>
-<programme start="20251119222000 +0000" stop="20251119224500 +0000" channel="Motorvision+.skyde">
-    <title>P1 Offshore Championship 2024</title>
-</programme>
-<programme start="20251119224500 +0000" stop="20251119233000 +0000" channel="Motorvision+.skyde">
-    <title>P1 AquaX Championship 2024</title>
 </programme>
 <programme start="20251118230500 +0000" stop="20251118233000 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
@@ -2968,52 +2830,61 @@
 <programme start="20251119210000 +0000" stop="20251119230000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Seattle Kraken @ Detroit Red Wings</title>
 </programme>
-<programme start="20251118230000 +0000" stop="20251119000000 +0000" channel="Sky Sport News HD.skyde">
+<programme start="20251110230000 +0000" stop="20251111000000 +0000" channel="Sky Sport News HD.skyde">
     <title>Sky Sport News: Nightline</title>
 </programme>
-<programme start="20251119000000 +0000" stop="20251119003000 +0000" channel="Sky Sport News HD.skyde">
-    <title>#GameCHANGERINNEN: Dein Frauensport-Magazin</title>
+<programme start="20251111000000 +0000" stop="20251111010000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Transfer Update: Die Show XXL</title>
 </programme>
-<programme start="20251119003000 +0000" stop="20251119050000 +0000" channel="Sky Sport News HD.skyde">
+<programme start="20251111010000 +0000" stop="20251111020000 +0000" channel="Sky Sport News HD.skyde">
     <title>Sky Sport News: Nightline</title>
 </programme>
-<programme start="20251119050000 +0000" stop="20251119080000 +0000" channel="Sky Sport News HD.skyde">
+<programme start="20251111020000 +0000" stop="20251111030000 +0000" channel="Sky Sport News HD.skyde">
+    <title>BL: Glanzparade - Die Show mit Buschmann, Fuss und Wagner</title>
+</programme>
+<programme start="20251111030000 +0000" stop="20251111050000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Sky Sport News: Nightline</title>
+</programme>
+<programme start="20251111050000 +0000" stop="20251111080000 +0000" channel="Sky Sport News HD.skyde">
     <title>Sky Sport News: Der Morgen</title>
 </programme>
-<programme start="20251119080000 +0000" stop="20251119083000 +0000" channel="Sky Sport News HD.skyde">
-    <title>#GameCHANGERINNEN: Dein Frauensport-Magazin</title>
+<programme start="20251111080000 +0000" stop="20251111090000 +0000" channel="Sky Sport News HD.skyde">
+    <title>BL: Glanzparade - Die Show mit Buschmann, Fuss und Wagner</title>
 </programme>
-<programme start="20251119083000 +0000" stop="20251119110000 +0000" channel="Sky Sport News HD.skyde">
+<programme start="20251111090000 +0000" stop="20251111100000 +0000" channel="Sky Sport News HD.skyde">
     <title>Sky Sport News: Der Morgen</title>
 </programme>
-<programme start="20251119110000 +0000" stop="20251119140000 +0000" channel="Sky Sport News HD.skyde">
+<programme start="20251111100000 +0000" stop="20251111110000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Transfer Update: Die Show XXL</title>
+</programme>
+<programme start="20251111110000 +0000" stop="20251111120000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Der Mittag</title>
 </programme>
-<programme start="20251119140000 +0000" stop="20251119163000 +0000" channel="Sky Sport News HD.skyde">
+<programme start="20251111120000 +0000" stop="20251111123000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: DFB-PK</title>
+</programme>
+<programme start="20251111123000 +0000" stop="20251111140000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: Der Mittag</title>
+</programme>
+<programme start="20251111140000 +0000" stop="20251111170000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Der Nachmittag</title>
 </programme>
-<programme start="20251119163000 +0000" stop="20251119170000 +0000" channel="Sky Sport News HD.skyde">
-    <title>2. BL: Dein Zweitligatalk - HvK &amp; Tusche</title>
-</programme>
-<programme start="20251119170000 +0000" stop="20251119173000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live Transfer Update: Spezial - Star-Berater Gardi exklusiv über Sane &amp; Osimhen</title>
-</programme>
-<programme start="20251119173000 +0000" stop="20251119180000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live Sky Sport News: So denken die Fans.... Das Fußball-Barometer</title>
-</programme>
-<programme start="20251119180000 +0000" stop="20251119193000 +0000" channel="Sky Sport News HD.skyde">
+<programme start="20251111170000 +0000" stop="20251111193000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Primetime</title>
 </programme>
-<programme start="20251119193000 +0000" stop="20251119210000 +0000" channel="Sky Sport News HD.skyde">
+<programme start="20251111193000 +0000" stop="20251111200000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Guten Abend Fans!</title>
 </programme>
-<programme start="20251119210000 +0000" stop="20251119213000 +0000" channel="Sky Sport News HD.skyde">
+<programme start="20251111200000 +0000" stop="20251111210000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Fußball: Sammer &amp; Basile - Der Hagedorn-Talk</title>
+</programme>
+<programme start="20251111210000 +0000" stop="20251111213000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Top News</title>
 </programme>
-<programme start="20251119213000 +0000" stop="20251119220000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Transfer Update: Spezial - Star-Berater Gardi exklusiv über Sane &amp; Osimhen</title>
+<programme start="20251111213000 +0000" stop="20251111220000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Meine Geschichte: Das Leben von Daniel Elfadli</title>
 </programme>
-<programme start="20251119220000 +0000" stop="20251119230000 +0000" channel="Sky Sport News HD.skyde">
+<programme start="20251111220000 +0000" stop="20251111230000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Late Night News</title>
 </programme>
 <programme start="20251119001500 +0000" stop="20251119011500 +0000" channel="Sky Sport Premier League HD.skyde">

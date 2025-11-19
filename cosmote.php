@@ -50,18 +50,6 @@
     <title>Football: AFC Ajax - Galatasaray AS</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251119071000 +0700" stop="20251119091000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Como - Cagliari</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251119091000 +0700" stop="20251119094000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Serie A Full Impact 2025-26 E11</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251119094000 +0700" stop="20251119100000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Sports Highlights</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251119100000 +0700" stop="20251119120000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Genoa - ACF Fiorentina</title>
     <desc>Live: Tidak</desc>
@@ -116,6 +104,10 @@
 </programme>
 <programme start="20251120094000 +0700" stop="20251120100000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Sports Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251120100000 +0700" stop="20251120120000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Atalanta - Sassuolo</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251119090000 +0700" stop="20251119110000 +0700" channel="COSMOTE Sport 3 HD">
@@ -238,12 +230,8 @@
     <title>Basketball: Cleveland Cavaliers - Houston Rockets (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251119070500 +0700" stop="20251119091000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: Extreme E 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251119091000 +0700" stop="20251119100000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>DTM</title>
+<programme start="20251120100000 +0700" stop="20251120110000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>NBA Specials: Basketball Stories</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251119100000 +0700" stop="20251119110000 +0700" channel="COSMOTE Sport 5 HD">
@@ -424,6 +412,10 @@
 </programme>
 <programme start="20251120093000 +0700" stop="20251120100000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Sports Classics: The Outdoor Sports Show 2024 E11</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251120100000 +0700" stop="20251120110000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Nitto ATP Finals 2024 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251119090000 +0700" stop="20251119110000 +0700" channel="COSMOTE Sport 7 HD">
