@@ -110,6 +110,10 @@
     <title>Football: Panathinaikos - PAOK</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251120202000 +0700" stop="20251120222000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Parma - AC Milan</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251119190000 +0700" stop="20251119210000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Watford - Bristol City</title>
     <desc>Live: Tidak</desc>
@@ -174,10 +178,6 @@
     <title>Football: Blackburn Rovers - Derby County</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251119171500 +0700" stop="20251119194500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: San Antonio Spurs - Memphis Grizzlies</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251119194500 +0700" stop="20251119215500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Heidelberg - Promitheas</title>
     <desc>Live: Tidak</desc>
@@ -234,12 +234,8 @@
     <title>ACB Liga Endesa 2025-26 - Fifth Quarter E7</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251119180500 +0700" stop="20251119190500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>DTM</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251119190500 +0700" stop="20251119193500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Extreme E - Highlights 2025</title>
+<programme start="20251120200000 +0700" stop="20251120221000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Badalona - Hapoel Holon</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251119193500 +0700" stop="20251119202000 +0700" channel="COSMOTE Sport 5 HD">
@@ -338,10 +334,6 @@
     <title>DTM 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251119190000 +0700" stop="20251119200000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Sports Classics: 2025 Outdoor Specials</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251119200000 +0700" stop="20251119213500 +0700" channel="COSMOTE Sport 6 HD">
     <title>Handball: Fuchse Berlin - THW Kiel</title>
     <desc>Live: Tidak</desc>
@@ -424,6 +416,14 @@
 </programme>
 <programme start="20251120183000 +0700" stop="20251120200000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Topspin</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251120200000 +0700" stop="20251120203000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Watersports: Inside Sailing 2025 E10</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251120203000 +0700" stop="20251120210000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Premier Padel Tour 2025 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251119190000 +0700" stop="20251119210000 +0700" channel="COSMOTE Sport 7 HD">
