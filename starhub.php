@@ -3167,10 +3167,10 @@
         <title>News</title>
     </programme>
     <programme start="20251118161500 +0000" stop="20251118164500 +0000" channel="DW English HD.starhub">
-        <title>The Current Affairs Documentary</title>
+        <title>Between two Worlds - A Syrian in Germany</title>
     </programme>
     <programme start="20251118164500 +0000" stop="20251118170000 +0000" channel="DW English HD.starhub">
-        <title>On Location</title>
+        <title>Returning to Syria</title>
     </programme>
     <programme start="20251118170000 +0000" stop="20251118171500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3209,7 +3209,7 @@
         <title>The real reason we can&#039;t seem to ban plastic</title>
     </programme>
     <programme start="20251118211500 +0000" stop="20251118214500 +0000" channel="DW English HD.starhub">
-        <title>The Current Affairs Documentary</title>
+        <title>Between two Worlds - A Syrian in Germany</title>
     </programme>
     <programme start="20251118214500 +0000" stop="20251118220000 +0000" channel="DW English HD.starhub">
         <title>How dangerous are TikTok &amp; Co. for democracy?</title>
@@ -3221,7 +3221,7 @@
         <title>News in Review</title>
     </programme>
     <programme start="20251118223000 +0000" stop="20251118230000 +0000" channel="DW English HD.starhub">
-        <title>Long Street Debate: South Africa USAID Pullback</title>
+        <title>Alexander Dobrindt, German Interior Minister</title>
     </programme>
     <programme start="20251118230000 +0000" stop="20251118231500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3230,7 +3230,7 @@
         <title>The real reason we can&#039;t seem to ban plastic</title>
     </programme>
     <programme start="20251118233000 +0000" stop="20251119000000 +0000" channel="DW English HD.starhub">
-        <title>What connects us all</title>
+        <title>Ten years later: What’s left of the Paris Climate Agreement</title>
     </programme>
     <programme start="20251119000000 +0000" stop="20251119000200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3239,7 +3239,7 @@
         <title>News in Review</title>
     </programme>
     <programme start="20251119003000 +0000" stop="20251119010000 +0000" channel="DW English HD.starhub">
-        <title>Your Business Magazine</title>
+        <title>Innovative energy solutions for a greener planet</title>
     </programme>
     <programme start="20251119010000 +0000" stop="20251119011500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3254,7 +3254,7 @@
         <title>News in Review</title>
     </programme>
     <programme start="20251119023000 +0000" stop="20251119030000 +0000" channel="DW English HD.starhub">
-        <title>What connects us all</title>
+        <title>Ten years later: What’s left of the Paris Climate Agreement</title>
     </programme>
     <programme start="20251119030000 +0000" stop="20251119031500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3278,7 +3278,7 @@
         <title>News in Review</title>
     </programme>
     <programme start="20251119053000 +0000" stop="20251119060000 +0000" channel="DW English HD.starhub">
-        <title>Your Business Magazine</title>
+        <title>Innovative energy solutions for a greener planet</title>
     </programme>
     <programme start="20251119060000 +0000" stop="20251119061500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3293,7 +3293,7 @@
         <title>News</title>
     </programme>
     <programme start="20251119073000 +0000" stop="20251119080000 +0000" channel="DW English HD.starhub">
-        <title>The Current Affairs Documentary</title>
+        <title>Between two Worlds - A Syrian in Germany</title>
     </programme>
     <programme start="20251119080000 +0000" stop="20251119083000 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3311,13 +3311,13 @@
         <title>News</title>
     </programme>
     <programme start="20251119103000 +0000" stop="20251119110000 +0000" channel="DW English HD.starhub">
-        <title>The Current Affairs Documentary</title>
+        <title>Between two Worlds - A Syrian in Germany</title>
     </programme>
     <programme start="20251119110000 +0000" stop="20251119113000 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20251119113000 +0000" stop="20251119120000 +0000" channel="DW English HD.starhub">
-        <title>Your Business Magazine</title>
+        <title>Innovative energy solutions for a greener planet</title>
     </programme>
     <programme start="20251119120000 +0000" stop="20251119121500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3338,7 +3338,7 @@
         <title>News</title>
     </programme>
     <programme start="20251119143000 +0000" stop="20251119150000 +0000" channel="DW English HD.starhub">
-        <title>Your Business Magazine</title>
+        <title>Innovative energy solutions for a greener planet</title>
     </programme>
     <programme start="20251119150000 +0000" stop="20251119153000 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -4799,7 +4799,7 @@
         <title>Happy Couples</title>
     </programme>
     <programme start="20251118190000 +0000" stop="20251118220000 +0000" channel="Asianet.starhub">
-        <title>Movie</title>
+        <title>Rappakal</title>
     </programme>
     <programme start="20251118220000 +0000" stop="20251118223000 +0000" channel="Asianet.starhub">
         <title>Pavithram</title>
@@ -4811,7 +4811,7 @@
         <title>Patharamattu</title>
     </programme>
     <programme start="20251118233000 +0000" stop="20251119020000 +0000" channel="Asianet.starhub">
-        <title>Movie</title>
+        <title>Sherlock Toms</title>
     </programme>
     <programme start="20251119020000 +0000" stop="20251119023000 +0000" channel="Asianet.starhub">
         <title>Pavithram</title>
@@ -4826,7 +4826,7 @@
         <title>Patharamattu</title>
     </programme>
     <programme start="20251119040000 +0000" stop="20251119063000 +0000" channel="Asianet.starhub">
-        <title>Movie</title>
+        <title>YSR Yatra (Mal-dub)</title>
     </programme>
     <programme start="20251119063000 +0000" stop="20251119070000 +0000" channel="Asianet.starhub">
         <title>Teacher Amma</title>
@@ -4847,7 +4847,7 @@
         <title>Amma Manassu(Dub . Fiction)</title>
     </programme>
     <programme start="20251119093000 +0000" stop="20251119123000 +0000" channel="Asianet.starhub">
-        <title>Movie</title>
+        <title>Pokkiri Simon</title>
     </programme>
     <programme start="20251119123000 +0000" stop="20251119130000 +0000" channel="Asianet.starhub">
         <title>Sindhoorapottu (Dub)</title>
@@ -7912,20 +7912,20 @@
     <programme start="20251118233500 +0000" stop="20251119013000 +0000" channel="Asianet Movies.starhub">
         <title>Saajan Bakery Since 1962</title>
     </programme>
-    <programme start="20251119013000 +0000" stop="20251119015500 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251119013000 +0000" stop="20251119020000 +0000" channel="Asianet Movies.starhub">
         <title>Chirikkum Thalika</title>
     </programme>
-    <programme start="20251119015500 +0000" stop="20251119043000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251119020000 +0000" stop="20251119043000 +0000" channel="Asianet Movies.starhub">
         <title>Lollipop</title>
     </programme>
     <programme start="20251119043000 +0000" stop="20251119073000 +0000" channel="Asianet Movies.starhub">
-        <title>Twenty Five</title>
+        <title>Love Action Drama</title>
     </programme>
     <programme start="20251119073000 +0000" stop="20251119103000 +0000" channel="Asianet Movies.starhub">
         <title>Thanneermathan Dinangal</title>
     </programme>
     <programme start="20251119103000 +0000" stop="20251119133000 +0000" channel="Asianet Movies.starhub">
-        <title>RDX</title>
+        <title>Sagar Alias Jacky: Reloaded</title>
     </programme>
     <programme start="20251119133000 +0000" stop="20251119163000 +0000" channel="Asianet Movies.starhub">
         <title>RDX</title>
