@@ -1042,76 +1042,7 @@
 <programme start="20251119223000 +0000" stop="20251119230000 +0000" channel="DAZN 2 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20251118230000 +0000" stop="20251118233000 +0000" channel="Heimatkanal.skyde">
-    <title>Königlich Bayerisches Amtsgericht</title>
-</programme>
-<programme start="20251118233000 +0000" stop="20251119001500 +0000" channel="Heimatkanal.skyde">
-    <title>Großstadtrevier</title>
-</programme>
-<programme start="20251119001500 +0000" stop="20251119010000 +0000" channel="Heimatkanal.skyde">
-    <title>Der Bergdoktor</title>
-</programme>
-<programme start="20251119010000 +0000" stop="20251119014500 +0000" channel="Heimatkanal.skyde">
-    <title>Die Bergretter</title>
-</programme>
-<programme start="20251119014500 +0000" stop="20251119032000 +0000" channel="Heimatkanal.skyde">
-    <title>Der Dorfmonarch</title>
-</programme>
-<programme start="20251119032000 +0000" stop="20251119045000 +0000" channel="Heimatkanal.skyde">
-    <title>Waldrausch</title>
-</programme>
-<programme start="20251119045000 +0000" stop="20251119062500 +0000" channel="Heimatkanal.skyde">
-    <title>Nachts im Grünen Kakadu</title>
-</programme>
-<programme start="20251119062500 +0000" stop="20251119071000 +0000" channel="Heimatkanal.skyde">
-    <title>Der Bergdoktor</title>
-</programme>
-<programme start="20251119071000 +0000" stop="20251119080000 +0000" channel="Heimatkanal.skyde">
-    <title>Die Bergretter</title>
-</programme>
-<programme start="20251119080000 +0000" stop="20251119084500 +0000" channel="Heimatkanal.skyde">
-    <title>Da kommt Kalle</title>
-</programme>
-<programme start="20251119084500 +0000" stop="20251119093500 +0000" channel="Heimatkanal.skyde">
-    <title>Der Landarzt</title>
-</programme>
-<programme start="20251119093500 +0000" stop="20251119103000 +0000" channel="Heimatkanal.skyde">
-    <title>Großstadtrevier</title>
-</programme>
-<programme start="20251119103000 +0000" stop="20251119110000 +0000" channel="Heimatkanal.skyde">
-    <title>Königlich Bayerisches Amtsgericht</title>
-</programme>
-<programme start="20251119110000 +0000" stop="20251119120000 +0000" channel="Heimatkanal.skyde">
-    <title>Musikparade</title>
-</programme>
-<programme start="20251119120000 +0000" stop="20251119121500 +0000" channel="Heimatkanal.skyde">
-    <title>Bei uns zu Gast</title>
-</programme>
-<programme start="20251119121500 +0000" stop="20251119135500 +0000" channel="Heimatkanal.skyde">
-    <title>Peter Steiners Theaterstadl</title>
-</programme>
-<programme start="20251119135500 +0000" stop="20251119153000 +0000" channel="Heimatkanal.skyde">
-    <title>Der Schäfer vom Trutzberg</title>
-</programme>
-<programme start="20251119153000 +0000" stop="20251119170500 +0000" channel="Heimatkanal.skyde">
-    <title>Immer die Mädchen</title>
-</programme>
-<programme start="20251119170500 +0000" stop="20251119175500 +0000" channel="Heimatkanal.skyde">
-    <title>Der Landarzt</title>
-</programme>
-<programme start="20251119175500 +0000" stop="20251119182500 +0000" channel="Heimatkanal.skyde">
-    <title>Königlich Bayerisches Amtsgericht</title>
-</programme>
-<programme start="20251119182500 +0000" stop="20251119191500 +0000" channel="Heimatkanal.skyde">
-    <title>Da kommt Kalle</title>
-</programme>
-<programme start="20251119191500 +0000" stop="20251119205500 +0000" channel="Heimatkanal.skyde">
-    <title>Einmal noch die Heimat seh&#039;n</title>
-</programme>
-<programme start="20251119205500 +0000" stop="20251119222000 +0000" channel="Heimatkanal.skyde">
-    <title>Försterliesel</title>
-</programme>
-<programme start="20251119222000 +0000" stop="20251119231000 +0000" channel="Heimatkanal.skyde">
+<programme start="20251111223000 +0000" stop="20251111231500 +0000" channel="Heimatkanal.skyde">
     <title>Der Landarzt</title>
 </programme>
 <programme start="20251118231500 +0000" stop="20251119000000 +0000" channel="HISTORY Channel HD.skyde">

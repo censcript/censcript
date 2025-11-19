@@ -106,6 +106,10 @@
     <title>Football: AS Roma - Udinese</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251121043000 +0700" stop="20251121050000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Serie A Full Impact 2025-26 E11</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251120030000 +0700" stop="20251120050000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Anorthosis Famagusta - Pafos FC</title>
     <desc>Live: Tidak</desc>
@@ -306,6 +310,10 @@
     <title>Grand Prix Show 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251121042000 +0700" stop="20251121062500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>2025 Extreme H</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251120023000 +0700" stop="20251120041500 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Carlos Alcaraz - Felix Auger-Aliassime</title>
     <desc>Live: Tidak</desc>
@@ -396,6 +404,10 @@
 </programme>
 <programme start="20251121013000 +0700" stop="20251121043000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Carlos Alcaraz - Jannik Sinner</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251121043000 +0700" stop="20251121064000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: Harri Heliovaara/Henry Patten - Joe Salisbury/Neal Skupski</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251120030000 +0700" stop="20251120050000 +0700" channel="COSMOTE Sport 7 HD">
