@@ -2072,7 +2072,7 @@
         <title>Marmaris, Turkey</title>
     </programme>
     <programme start="20251118220000 +0000" stop="20251118223000 +0000" channel="CNN HD.starhub">
-        <title>The Lead with Jake Tapper (30m)</title>
+        <title>Lead with Jake Tapper (30m), The</title>
     </programme>
     <programme start="20251118223000 +0000" stop="20251118230000 +0000" channel="CNN HD.starhub">
         <title>World Sport</title>
@@ -8057,7 +8057,7 @@
         <title>Men&#039;s 6th Tournament</title>
     </programme>
     <programme start="20251118195000 +0000" stop="20251118202000 +0000" channel="SPOTV2.starhub">
-        <title>SailGP: Racing on the Edge S5</title>
+        <title>Episode 11</title>
     </programme>
     <programme start="20251118202000 +0000" stop="20251118225000 +0000" channel="SPOTV2.starhub">
         <title>MLB 2025 Postseason: NLDS Game 4 Chicago Cubs vs Milwaukee Brewers</title>
