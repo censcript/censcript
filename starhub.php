@@ -2078,7 +2078,7 @@
         <title>World Sport</title>
     </programme>
     <programme start="20251118230000 +0000" stop="20251119000000 +0000" channel="CNN HD.starhub">
-        <title>The Brief with Jim Sciutto</title>
+        <title>Brief with Jim Sciutto, The</title>
     </programme>
     <programme start="20251119000000 +0000" stop="20251119010000 +0000" channel="CNN HD.starhub">
         <title>Erin Burnett OutFront</title>
@@ -2087,7 +2087,7 @@
         <title>Anderson Cooper 360</title>
     </programme>
     <programme start="20251119020000 +0000" stop="20251119030000 +0000" channel="CNN HD.starhub">
-        <title>The Source with Kaitlan Collins</title>
+        <title>Source with Kaitlan Collins, The</title>
     </programme>
     <programme start="20251119030000 +0000" stop="20251119040000 +0000" channel="CNN HD.starhub">
         <title>CNN NewsNight</title>
@@ -2096,10 +2096,10 @@
         <title>Laura Coates Live</title>
     </programme>
     <programme start="20251119050000 +0000" stop="20251119060000 +0000" channel="CNN HD.starhub">
-        <title>The Story Is With Elex Michaelson</title>
+        <title>Story Is With Elex Michaelson, The</title>
     </programme>
     <programme start="20251119060000 +0000" stop="20251119064500 +0000" channel="CNN HD.starhub">
-        <title>The Story Is With Elex Michaelson</title>
+        <title>Story Is With Elex Michaelson, The</title>
     </programme>
     <programme start="20251119064500 +0000" stop="20251119070000 +0000" channel="CNN HD.starhub">
         <title>World Sport</title>
