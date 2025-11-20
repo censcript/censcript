@@ -229,9 +229,6 @@
 <programme start="20251120044500 +0000" stop="20251120050000 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20251120050000 +0000" stop="20251120051000 +0000" channel="Cartoon Network.skyde">
-    <title>Die fantastische Welt von Gumball</title>
-</programme>
 <programme start="20251120051000 +0000" stop="20251120052000 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
@@ -245,6 +242,9 @@
     <title>Die fantastische Welt von Gumball</title>
 </programme>
 <programme start="20251120055500 +0000" stop="20251120060500 +0000" channel="Cartoon Network.skyde">
+    <title>Die fantastische Welt von Gumball</title>
+</programme>
+<programme start="20251120060000 +0000" stop="20251120061000 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
 <programme start="20251120060500 +0000" stop="20251120061500 +0000" channel="Cartoon Network.skyde">

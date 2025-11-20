@@ -671,10 +671,13 @@
 <title>Secret Story</title>
 </programme>
 <programme start="20251119230000 +0000" stop="20251120010000 +0000" channel="ANTV.vision">
-<title>Satria Kapak Tutur Sepuh</title>
+<title>Ajian Nyi Mas Gandasari</title>
 </programme>
 <programme start="20251120010000 +0000" stop="20251120030000 +0000" channel="ANTV.vision">
 <title>Mangal Lakshmi</title>
+</programme>
+<programme start="20251120030000 +0000" stop="20251120063000 +0000" channel="ANTV.vision">
+<title>Dilwale</title>
 </programme>
 <programme start="20251120063000 +0000" stop="20251120080000 +0000" channel="ANTV.vision">
 <title>Cinta Keluarga Pandya</title>
@@ -684,6 +687,18 @@
 </programme>
 <programme start="20251120093000 +0000" stop="20251120110000 +0000" channel="ANTV.vision">
 <title>Takdir Cinta Layla</title>
+</programme>
+<programme start="20251120110000 +0000" stop="20251120130000 +0000" channel="ANTV.vision">
+<title>Buronan Gembong Wulung</title>
+</programme>
+<programme start="20251120130000 +0000" stop="20251120143000 +0000" channel="ANTV.vision">
+<title>Perkawinan Nyi Blorong</title>
+</programme>
+<programme start="20251120143000 +0000" stop="20251120163000 +0000" channel="ANTV.vision">
+<title>Teenage Mutant Ninja Turtles</title>
+</programme>
+<programme start="20251120163000 +0000" stop="20251120183000 +0000" channel="ANTV.vision">
+<title>Mall Klender</title>
 </programme>
 <programme start="20251120183000 +0000" stop="20251120200000 +0000" channel="ANTV.vision">
 <title>Angkara Membara</title>
@@ -713,7 +728,7 @@
 <title>Takdir Cinta Layla</title>
 </programme>
 <programme start="20251121110000 +0000" stop="20251121130000 +0000" channel="ANTV.vision">
-<title>Rindu Tak Berujung</title>
+<title>Gadis Bionik</title>
 </programme>
 <programme start="20251119230000 +0000" stop="20251120010000 +0000" channel="RTV.vision">
 <title>Bread Barbershop</title>
@@ -1482,19 +1497,4 @@
 </programme>
 <programme start="20251121060000 +0000" stop="20251121073000 +0000" channel="BTV.vision">
 <title>Spot On</title>
-</programme>
-<programme start="20251121073000 +0000" stop="20251121080000 +0000" channel="BTV.vision">
-<title>Dikit-Dikit Damkar</title>
-</programme>
-<programme start="20251121080000 +0000" stop="20251121084500 +0000" channel="BTV.vision">
-<title>Info Seleb</title>
-</programme>
-<programme start="20251121084500 +0000" stop="20251121093000 +0000" channel="BTV.vision">
-<title>Figur Publik</title>
-</programme>
-<programme start="20251121093000 +0000" stop="20251121103000 +0000" channel="BTV.vision">
-<title>Berita Satu Sore</title>
-</programme>
-<programme start="20251121103000 +0000" stop="20251121123000 +0000" channel="BTV.vision">
-<title>Berita Satu Utama</title>
 </programme>
