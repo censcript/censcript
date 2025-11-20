@@ -671,13 +671,10 @@
 <title>Secret Story</title>
 </programme>
 <programme start="20251119230000 +0000" stop="20251120010000 +0000" channel="ANTV.vision">
-<title>Ajian Nyi Mas Gandasari</title>
+<title>Satria Kapak Tutur Sepuh</title>
 </programme>
 <programme start="20251120010000 +0000" stop="20251120030000 +0000" channel="ANTV.vision">
 <title>Mangal Lakshmi</title>
-</programme>
-<programme start="20251120030000 +0000" stop="20251120063000 +0000" channel="ANTV.vision">
-<title>Dilwale</title>
 </programme>
 <programme start="20251120063000 +0000" stop="20251120080000 +0000" channel="ANTV.vision">
 <title>Cinta Keluarga Pandya</title>
@@ -695,10 +692,10 @@
 <title>Perkawinan Nyi Blorong</title>
 </programme>
 <programme start="20251120143000 +0000" stop="20251120163000 +0000" channel="ANTV.vision">
-<title>Teenage Mutant Ninja Turtles</title>
+<title>Buaya Putih</title>
 </programme>
 <programme start="20251120163000 +0000" stop="20251120183000 +0000" channel="ANTV.vision">
-<title>Mall Klender</title>
+<title>Born Wild</title>
 </programme>
 <programme start="20251120183000 +0000" stop="20251120200000 +0000" channel="ANTV.vision">
 <title>Angkara Membara</title>
@@ -728,7 +725,7 @@
 <title>Takdir Cinta Layla</title>
 </programme>
 <programme start="20251121110000 +0000" stop="20251121130000 +0000" channel="ANTV.vision">
-<title>Gadis Bionik</title>
+<title>Rindu Tak Berujung</title>
 </programme>
 <programme start="20251119230000 +0000" stop="20251120010000 +0000" channel="RTV.vision">
 <title>Bread Barbershop</title>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20251121060000 +0000" stop="20251121073000 +0000" channel="BTV.vision">
 <title>Spot On</title>
+</programme>
+<programme start="20251121073000 +0000" stop="20251121080000 +0000" channel="BTV.vision">
+<title>Dikit-Dikit Damkar</title>
 </programme>

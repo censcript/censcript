@@ -110,6 +110,10 @@
     <title>Football: Panathinaikos - PAOK</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251121141000 +0700" stop="20251121161000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Pisa - Cremonese</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251120130000 +0700" stop="20251120150000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Atletico Mineiro - Independiente del Valle</title>
     <desc>Live: Tidak</desc>
@@ -218,14 +222,6 @@
     <title>Basketball: Anadolu Efes - Bahcesehir</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251120130000 +0700" stop="20251120133000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251120133000 +0700" stop="20251120140000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Sports Classics: Gearing Up 2024 E10</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251120140000 +0700" stop="20251120143000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Extreme E - Highlights 2025</title>
     <desc>Live: Tidak</desc>
@@ -314,8 +310,8 @@
     <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251120124500 +0700" stop="20251120134500 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Sports Classics: 2025 Outdoor Specials</title>
+<programme start="20251121142500 +0700" stop="20251121151000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Moto-E World Championship 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251120134500 +0700" stop="20251120141500 +0700" channel="COSMOTE Sport 6 HD">
