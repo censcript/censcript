@@ -54,6 +54,10 @@
     <title>UEFA Champions League Magazine 2025-26 E11</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251121220000 +0700" stop="20251122000000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: Utrecht - FC Porto</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251120202000 +0700" stop="20251120222000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Parma - AC Milan</title>
     <desc>Live: Tidak</desc>
@@ -112,6 +116,10 @@
 </programme>
 <programme start="20251121202000 +0700" stop="20251121222000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Bologna - SSC Napoli</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251121222000 +0700" stop="20251122003000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Parma - AC Milan</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251120210000 +0700" stop="20251120230000 +0700" channel="COSMOTE Sport 3 HD">
@@ -222,10 +230,6 @@
     <title>Basketball: Heidelberg - Promitheas</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251120210000 +0700" stop="20251120215500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251120215500 +0700" stop="20251120224000 +0700" channel="COSMOTE Sport 5 HD">
     <title>WRC 2025</title>
     <desc>Live: Tidak</desc>
@@ -322,8 +326,8 @@
     <title>Motorsports: Extreme E 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251120210000 +0700" stop="20251120220000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Nitto ATP Finals 2024 - Highlights</title>
+<programme start="20251121222500 +0700" stop="20251122003000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: Extreme E 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251120220000 +0700" stop="20251120223000 +0700" channel="COSMOTE Sport 6 HD">
@@ -403,6 +407,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251121213000 +0700" stop="20251121223000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Beach Volley: 2025 FIVB Beach Volleyball World Championships</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251121223000 +0700" stop="20251121233000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Beach Volley: 2025 FIVB Beach Volleyball World Championships</title>
     <desc>Live: Tidak</desc>
 </programme>
