@@ -3115,6 +3115,9 @@
     <programme start="20251119170000 +0000" stop="20251119171500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
+    <programme start="20251119171500 +0000" stop="20251119173000 +0000" channel="DW English HD.starhub">
+        <title>LDC Chair calls on countries to meet their climate commitments</title>
+    </programme>
     <programme start="20251119173000 +0000" stop="20251119180000 +0000" channel="DW English HD.starhub">
         <title>Between two Worlds - A Syrian in Germany</title>
     </programme>
@@ -3131,7 +3134,7 @@
         <title>Do methylene blue, vaping and other health hacks work - or harm?</title>
     </programme>
     <programme start="20251119193000 +0000" stop="20251119200000 +0000" channel="DW English HD.starhub">
-        <title>Long Street Debate: South Africa USAID Pullback</title>
+        <title>Lithuania’s Foreign Minister Budrys: &quot;Russia wants NATO to be destroyed&quot;</title>
     </programme>
     <programme start="20251119200000 +0000" stop="20251119203000 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3143,7 +3146,7 @@
         <title>News</title>
     </programme>
     <programme start="20251119210200 +0000" stop="20251119211500 +0000" channel="DW English HD.starhub">
-        <title>Everything Jane Austen knows about love</title>
+        <title>LDC Chair calls on countries to meet their climate commitments</title>
     </programme>
     <programme start="20251119211500 +0000" stop="20251119220000 +0000" channel="DW English HD.starhub">
         <title>Queer in the Provinces</title>
@@ -3154,11 +3157,14 @@
     <programme start="20251119220200 +0000" stop="20251119223000 +0000" channel="DW English HD.starhub">
         <title>News in Review</title>
     </programme>
+    <programme start="20251119223000 +0000" stop="20251119230000 +0000" channel="DW English HD.starhub">
+        <title>Lithuania’s Foreign Minister Budrys: &quot;Russia wants NATO to be destroyed&quot;</title>
+    </programme>
     <programme start="20251119230000 +0000" stop="20251119231500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20251119231500 +0000" stop="20251119233000 +0000" channel="DW English HD.starhub">
-        <title>Everything Jane Austen knows about love</title>
+        <title>LDC Chair calls on countries to meet their climate commitments</title>
     </programme>
     <programme start="20251119233000 +0000" stop="20251120000000 +0000" channel="DW English HD.starhub">
         <title>Spotlight on People</title>
@@ -5950,11 +5956,8 @@
     <programme start="20251120080000 +0000" stop="20251120090000 +0000" channel="TVBS-NEWS.starhub">
         <title>1600 Afternoon News</title>
     </programme>
-    <programme start="20251120090000 +0000" stop="20251120100000 +0000" channel="TVBS-NEWS.starhub">
+    <programme start="20251120090000 +0000" stop="20251120110000 +0000" channel="TVBS-NEWS.starhub">
         <title>1700 Afternoon News</title>
-    </programme>
-    <programme start="20251120100000 +0000" stop="20251120110000 +0000" channel="TVBS-NEWS.starhub">
-        <title>45911</title>
     </programme>
     <programme start="20251120110000 +0000" stop="20251120120000 +0000" channel="TVBS-NEWS.starhub">
         <title>1800/1900 Evening News</title>
@@ -7805,13 +7808,10 @@
         <title>Naran</title>
     </programme>
     <programme start="20251119193000 +0000" stop="20251119223000 +0000" channel="Asianet Movies.starhub">
-        <title>Movie</title>
+        <title>Sakhavu</title>
     </programme>
-    <programme start="20251119223000 +0000" stop="20251119230000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251119223000 +0000" stop="20251119233000 +0000" channel="Asianet Movies.starhub">
         <title>Chirikkum Thalika</title>
-    </programme>
-    <programme start="20251119230000 +0000" stop="20251119232000 +0000" channel="Asianet Movies.starhub">
-        <title>Filler</title>
     </programme>
     <programme start="20251119233000 +0000" stop="20251120013000 +0000" channel="Asianet Movies.starhub">
         <title>Take Off</title>

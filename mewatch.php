@@ -625,101 +625,107 @@
     <programme start="20251119140000 +0000" stop="20251119164500 +0000" channel="now-80s.mewatch">
         <title>Colours of the Rainbow...and More! - EP1</title>
     </programme>
-    <programme start="20251119164500 +0000" stop="20251119170000 +0000" channel="now-80s.mewatch">
-        <title>Monday Night at the Movies! - EP1</title>
+    <programme start="20251119160000 +0000" stop="20251119180000 +0000" channel="now-80s.mewatch">
+        <title>Alternative 80s! with Wayne Hussey - EP1</title>
     </programme>
-    <programme start="20251119170000 +0000" stop="20251119192000 +0000" channel="now-80s.mewatch">
-        <title>Mike Read&#039;s Superstore of Hits! - EP1</title>
+    <programme start="20251119180000 +0000" stop="20251119183500 +0000" channel="now-80s.mewatch">
+        <title>Denise&#039;s 5*Star Families - Top 30! - EP1</title>
     </programme>
-    <programme start="20251119192000 +0000" stop="20251119200000 +0000" channel="now-80s.mewatch">
-        <title>Monday Night at the Movies! - EP1</title>
+    <programme start="20251119183500 +0000" stop="20251119190000 +0000" channel="now-80s.mewatch">
+        <title>Monsters of Rock Day! - EP1</title>
     </programme>
-    <programme start="20251119200000 +0000" stop="20251119220000 +0000" channel="now-80s.mewatch">
-        <title>Colours of the Rainbow...and More! - EP1</title>
+    <programme start="20251119190000 +0000" stop="20251119230000 +0000" channel="now-80s.mewatch">
+        <title>The Rock 100 of the 80s - EP1</title>
     </programme>
-    <programme start="20251119220000 +0000" stop="20251120000000 +0000" channel="now-80s.mewatch">
-        <title>The Best 1989 Party - Ever! - EP1</title>
+    <programme start="20251119230000 +0000" stop="20251120031000 +0000" channel="now-80s.mewatch">
+        <title>50 Wild Women of the 80s! - EP1</title>
     </programme>
-    <programme start="20251120000000 +0000" stop="20251120025000 +0000" channel="now-80s.mewatch">
-        <title>The NOW Yearbook 1989 - EP1</title>
+    <programme start="20251120031000 +0000" stop="20251120040000 +0000" channel="now-80s.mewatch">
+        <title>Turbo Trax! - EP1</title>
     </programme>
-    <programme start="20251120025000 +0000" stop="20251120030000 +0000" channel="now-80s.mewatch">
-        <title>All Day - It&#039;s 1989! - EP1</title>
+    <programme start="20251120040000 +0000" stop="20251120044000 +0000" channel="now-80s.mewatch">
+        <title>Kylie! 1988-1989 - EP1</title>
     </programme>
-    <programme start="20251120030000 +0000" stop="20251120033500 +0000" channel="now-80s.mewatch">
-        <title>Every Video from Like A Prayer! - EP1</title>
+    <programme start="20251120044000 +0000" stop="20251120050000 +0000" channel="now-80s.mewatch">
+        <title>Turbo Trax! - EP1</title>
     </programme>
-    <programme start="20251120033500 +0000" stop="20251120050000 +0000" channel="now-80s.mewatch">
-        <title>All Day - It&#039;s 1989! - EP1</title>
+    <programme start="20251120050000 +0000" stop="20251120073500 +0000" channel="now-80s.mewatch">
+        <title>Toyah&#039;s Sack The Stylist?! Top 30 - EP1</title>
     </programme>
-    <programme start="20251120050000 +0000" stop="20251120060000 +0000" channel="now-80s.mewatch">
-        <title>Simon Bates Golden Hour: 1989 - EP1</title>
+    <programme start="20251120073500 +0000" stop="20251120080000 +0000" channel="now-80s.mewatch">
+        <title>Turbo Trax! - EP1</title>
     </programme>
-    <programme start="20251120060000 +0000" stop="20251120070000 +0000" channel="now-80s.mewatch">
-        <title>Way Back When! 1989 - EP1</title>
+    <programme start="20251120080000 +0000" stop="20251120094500 +0000" channel="now-80s.mewatch">
+        <title>No.1 Ladies of the 80s - Top 20 - EP1</title>
     </programme>
-    <programme start="20251120070000 +0000" stop="20251120080000 +0000" channel="now-80s.mewatch">
-        <title>Who Won Wot in 1989? - EP1</title>
+    <programme start="20251120094500 +0000" stop="20251120100000 +0000" channel="now-80s.mewatch">
+        <title>Turbo Trax! - EP1</title>
     </programme>
-    <programme start="20251120080000 +0000" stop="20251120090000 +0000" channel="now-80s.mewatch">
-        <title>All Day - It&#039;s 1989! - EP1</title>
+    <programme start="20251120100000 +0000" stop="20251120120500 +0000" channel="now-80s.mewatch">
+        <title>Sinitta&#039;s High Energy Hits! Top 25 - EP1</title>
     </programme>
-    <programme start="20251120090000 +0000" stop="20251120093000 +0000" channel="now-80s.mewatch">
-        <title>1989&#039;s One-Hit-Wonders! Top 12 - EP1</title>
+    <programme start="20251120120500 +0000" stop="20251120130000 +0000" channel="now-80s.mewatch">
+        <title>1988 Unleashed! - EP1</title>
     </programme>
-    <programme start="20251120093000 +0000" stop="20251120103000 +0000" channel="now-80s.mewatch">
-        <title>Mike Read&#039;s Superstore of Hits! - EP1</title>
+    <programme start="20251120130000 +0000" stop="20251120154500 +0000" channel="now-80s.mewatch">
+        <title>We Love 1988! - EP1</title>
     </programme>
-    <programme start="20251120103000 +0000" stop="20251120130000 +0000" channel="now-80s.mewatch">
-        <title>Every Song From NOW 16 - 1989 - EP1</title>
+    <programme start="20251120154500 +0000" stop="20251120160000 +0000" channel="now-80s.mewatch">
+        <title>1988 Unleashed! - EP1</title>
     </programme>
-    <programme start="20251120130000 +0000" stop="20251120140000 +0000" channel="now-80s.mewatch">
-        <title>All Day - It&#039;s 1989! - EP1</title>
+    <programme start="20251120160000 +0000" stop="20251120180000 +0000" channel="now-80s.mewatch">
+        <title>The NOW Yearbook 1988 - EP1</title>
     </programme>
-    <programme start="20251120140000 +0000" stop="20251120165000 +0000" channel="now-80s.mewatch">
-        <title>The NOW Yearbook 1989 - EP1</title>
+    <programme start="20251119160000 +0000" stop="20251119180000 +0000" channel="now-70s.mewatch">
+        <title>Alternative 80s! with Wayne Hussey - EP1</title>
     </programme>
-    <programme start="20251119160000 +0000" stop="20251119162500 +0000" channel="now-70s.mewatch">
-        <title>Simon Bates NEW Golden Hour: 1974 - EP1</title>
+    <programme start="20251119180000 +0000" stop="20251119183500 +0000" channel="now-70s.mewatch">
+        <title>Denise&#039;s 5*Star Families - Top 30! - EP1</title>
     </programme>
-    <programme start="20251119162500 +0000" stop="20251119195000 +0000" channel="now-70s.mewatch">
-        <title>Seven Inch Heroes! 1970-1979 - EP1</title>
+    <programme start="20251119183500 +0000" stop="20251119190000 +0000" channel="now-70s.mewatch">
+        <title>Monsters of Rock Day! - EP1</title>
     </programme>
-    <programme start="20251119195000 +0000" stop="20251119202500 +0000" channel="now-70s.mewatch">
-        <title>Punk &amp; Disorderly! - EP1</title>
+    <programme start="20251119190000 +0000" stop="20251119230000 +0000" channel="now-70s.mewatch">
+        <title>The Rock 100 of the 80s - EP1</title>
     </programme>
-    <programme start="20251119202500 +0000" stop="20251119210000 +0000" channel="now-70s.mewatch">
-        <title>1970s Glastonbury Headliners! - EP1</title>
+    <programme start="20251119230000 +0000" stop="20251120031000 +0000" channel="now-70s.mewatch">
+        <title>50 Wild Women of the 80s! - EP1</title>
     </programme>
-    <programme start="20251119210000 +0000" stop="20251119230500 +0000" channel="now-70s.mewatch">
-        <title>Antiques Rockshow with Robin Banks - EP1</title>
+    <programme start="20251120031000 +0000" stop="20251120040000 +0000" channel="now-70s.mewatch">
+        <title>Turbo Trax! - EP1</title>
     </programme>
-    <programme start="20251119230500 +0000" stop="20251120000000 +0000" channel="now-70s.mewatch">
-        <title>Power Pop Day! - EP1</title>
+    <programme start="20251120040000 +0000" stop="20251120044000 +0000" channel="now-70s.mewatch">
+        <title>Kylie! 1988-1989 - EP1</title>
     </programme>
-    <programme start="20251120000000 +0000" stop="20251120093000 +0000" channel="now-70s.mewatch">
-        <title>Bam&#039;s Power Hours! 1970-1979 - EP1</title>
+    <programme start="20251120044000 +0000" stop="20251120050000 +0000" channel="now-70s.mewatch">
+        <title>Turbo Trax! - EP1</title>
     </programme>
-    <programme start="20251120093000 +0000" stop="20251120095500 +0000" channel="now-70s.mewatch">
-        <title>Simon Bates NEW Golden Hour: 1974 - EP1</title>
+    <programme start="20251120050000 +0000" stop="20251120073500 +0000" channel="now-70s.mewatch">
+        <title>Toyah&#039;s Sack The Stylist?! Top 30 - EP1</title>
     </programme>
-    <programme start="20251120095500 +0000" stop="20251120103000 +0000" channel="now-70s.mewatch">
-        <title>Seven Inch Heroes! 1970-1979 - EP1</title>
+    <programme start="20251120073500 +0000" stop="20251120080000 +0000" channel="now-70s.mewatch">
+        <title>Turbo Trax! - EP1</title>
     </programme>
-    <programme start="20251120103000 +0000" stop="20251120131000 +0000" channel="now-70s.mewatch">
-        <title>Pat Sharp&#039;s 40 Guilty Pleasures! - EP1</title>
+    <programme start="20251120080000 +0000" stop="20251120094500 +0000" channel="now-70s.mewatch">
+        <title>No.1 Ladies of the 80s - Top 20 - EP1</title>
     </programme>
-    <programme start="20251120131000 +0000" stop="20251120140000 +0000" channel="now-70s.mewatch">
-        <title>Groovy Little Numbers! - EP1</title>
+    <programme start="20251120094500 +0000" stop="20251120100000 +0000" channel="now-70s.mewatch">
+        <title>Turbo Trax! - EP1</title>
     </programme>
-    <programme start="20251120140000 +0000" stop="20251120152500 +0000" channel="now-70s.mewatch">
-        <title>The Best 1969 Party - Ever! - EP1</title>
+    <programme start="20251120100000 +0000" stop="20251120120500 +0000" channel="now-70s.mewatch">
+        <title>Sinitta&#039;s High Energy Hits! Top 25 - EP1</title>
     </programme>
-    <programme start="20251120152500 +0000" stop="20251120160000 +0000" channel="now-70s.mewatch">
-        <title>Far Out, Man! - EP1</title>
+    <programme start="20251120120500 +0000" stop="20251120130000 +0000" channel="now-70s.mewatch">
+        <title>1988 Unleashed! - EP1</title>
     </programme>
-    <programme start="20251120160000 +0000" stop="20251120183500 +0000" channel="now-70s.mewatch">
-        <title>Pat Sharp&#039;s 40 Guilty Pleasures! - EP1</title>
+    <programme start="20251120130000 +0000" stop="20251120154500 +0000" channel="now-70s.mewatch">
+        <title>We Love 1988! - EP1</title>
+    </programme>
+    <programme start="20251120154500 +0000" stop="20251120160000 +0000" channel="now-70s.mewatch">
+        <title>1988 Unleashed! - EP1</title>
+    </programme>
+    <programme start="20251120160000 +0000" stop="20251120180000 +0000" channel="now-70s.mewatch">
+        <title>The NOW Yearbook 1988 - EP1</title>
     </programme>
     <programme start="20251119152000 +0000" stop="20251119170500 +0000" channel="cinemaworld.mewatch">
         <title>Hippocrates</title>

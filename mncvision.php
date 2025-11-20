@@ -2368,7 +2368,42 @@
 <programme start="20251120162500 +0000" stop="20251120165500 +0000" channel="CINEEDGE.mncvision">
     <title>Platinum</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20251119184400 +0000" stop="20251119204800 +0000" channel="CINEEDGE HD.mncvision">
+    <title>The Grey</title>
+</programme>
+<programme start="20251119204800 +0000" stop="20251119230500 +0000" channel="CINEEDGE HD.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20251119230500 +0000" stop="20251120004700 +0000" channel="CINEEDGE HD.mncvision">
+    <title>Mercenary For Justice</title>
+</programme>
+<programme start="20251120004700 +0000" stop="20251120023800 +0000" channel="CINEEDGE HD.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20251120023800 +0000" stop="20251120041800 +0000" channel="CINEEDGE HD.mncvision">
+    <title>Ticker</title>
+</programme>
+<programme start="20251120041800 +0000" stop="20251120062800 +0000" channel="CINEEDGE HD.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20251120062800 +0000" stop="20251120080300 +0000" channel="CINEEDGE HD.mncvision">
+    <title>Good People</title>
+</programme>
+<programme start="20251120080300 +0000" stop="20251120101100 +0000" channel="CINEEDGE HD.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20251120101100 +0000" stop="20251120115000 +0000" channel="CINEEDGE HD.mncvision">
+    <title>The Silencing</title>
+</programme>
+<programme start="20251120115000 +0000" stop="20251120143700 +0000" channel="CINEEDGE HD.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20251120143700 +0000" stop="20251120162500 +0000" channel="CINEEDGE HD.mncvision">
+    <title>Pound Of Flesh</title>
+</programme>
+<programme start="20251120162500 +0000" stop="20251120165500 +0000" channel="CINEEDGE HD.mncvision">
+    <title>Platinum</title>
+</programme>
 <programme start="20251119170000 +0000" stop="20251119180000 +0000" channel="CNBC.mncvision">
     <title>Halftime Report</title>
 </programme>
@@ -2916,7 +2951,7 @@ Error: Unable to fetch data. HTTP Status Code: 500
     <title>The Day: News In Review</title>
 </programme>
 <programme start="20251120053000 +0000" stop="20251120060000 +0000" channel="DW English.mncvision">
-    <title>Focus On Europe: Spotlight</title>
+    <title>Interview: Lithuania&#039;s Foreign</title>
 </programme>
 <programme start="20251120060000 +0000" stop="20251120061500 +0000" channel="DW English.mncvision">
     <title>DW News</title>
@@ -6089,7 +6124,6 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20251120164500 +0000" stop="20251119171500 +0000" channel="Moonbug.mncvision">
     <title>CoComelon</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20251119190000 +0000" stop="20251119200000 +0000" channel="Music TV.mncvision">
     <title>Godain</title>
 </programme>
@@ -8367,8 +8401,14 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20251120090000 +0000" stop="20251120110000 +0000" channel="Sportstars 3.mncvision">
     <title>Liga 2</title>
 </programme>
-<programme start="20251120110000 +0000" stop="20251120130000 +0000" channel="Sportstars 3.mncvision">
-    <title>BRI Liga 1</title>
+<programme start="20251120110000 +0000" stop="20251120113000 +0000" channel="Sportstars 3.mncvision">
+    <title>Top Goals</title>
+</programme>
+<programme start="20251120113000 +0000" stop="20251120120000 +0000" channel="Sportstars 3.mncvision">
+    <title>World Classic Soccer</title>
+</programme>
+<programme start="20251120120000 +0000" stop="20251120130000 +0000" channel="Sportstars 3.mncvision">
+    <title>FIFA World Cup Drawing (L)</title>
 </programme>
 <programme start="20251120130000 +0000" stop="20251120150000 +0000" channel="Sportstars 3.mncvision">
     <title>European Qualifiers</title>
@@ -8403,8 +8443,14 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20251120090000 +0000" stop="20251120110000 +0000" channel="sportstars 3 HD.mncvision">
     <title>Liga 2</title>
 </programme>
-<programme start="20251120110000 +0000" stop="20251120130000 +0000" channel="sportstars 3 HD.mncvision">
-    <title>BRI Liga 1</title>
+<programme start="20251120110000 +0000" stop="20251120113000 +0000" channel="sportstars 3 HD.mncvision">
+    <title>Top Goals</title>
+</programme>
+<programme start="20251120113000 +0000" stop="20251120120000 +0000" channel="sportstars 3 HD.mncvision">
+    <title>World Classic Soccer</title>
+</programme>
+<programme start="20251120120000 +0000" stop="20251120130000 +0000" channel="sportstars 3 HD.mncvision">
+    <title>FIFA World Cup Drawing (L)</title>
 </programme>
 <programme start="20251120130000 +0000" stop="20251120150000 +0000" channel="sportstars 3 HD.mncvision">
     <title>European Qualifiers</title>
