@@ -3716,7 +3716,7 @@
         <title>World Weather</title>
     </programme>
     <programme start="20251119191500 +0000" stop="20251119200000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Eat Up! The Ultimate Homemade Cooking Battle &quot;Autumn lunch box&quot; (R)</title>
+        <title>Eat Up! The Ultimate Homemade Cooking Battle &quot;Autumn Lunch Box&quot; (R)</title>
     </programme>
     <programme start="20251119200000 +0000" stop="20251119202500 +0000" channel="NHK World Premium HD.starhub">
         <title>Grand Sumo 2025 November Tournament Highlights</title>
@@ -3875,13 +3875,13 @@
         <title>Magic Mike Xxl</title>
     </programme>
     <programme start="20251119174000 +0000" stop="20251119184000 +0000" channel="HBO HD.starhub">
-        <title>It: Welcome To Derry S1</title>
+        <title>The Great Swirling Apparatus Of Our Planet’s Function</title>
     </programme>
     <programme start="20251119184000 +0000" stop="20251119191000 +0000" channel="HBO HD.starhub">
-        <title>The Chair Company S1</title>
+        <title>Happy Birthday, A Friend.</title>
     </programme>
     <programme start="20251119191000 +0000" stop="20251119194000 +0000" channel="HBO HD.starhub">
-        <title>I Love LA S1</title>
+        <title>Girl&#039;s Girl</title>
     </programme>
     <programme start="20251119194000 +0000" stop="20251119212500 +0000" channel="HBO HD.starhub">
         <title>10 Cloverfield Lane</title>
