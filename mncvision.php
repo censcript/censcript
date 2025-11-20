@@ -9253,6 +9253,78 @@
 <programme start="20251120162500 +0000" stop="20251120165500 +0000" channel="tvN HD.mncvision">
     <title>The Beauty Inside, Ep 5</title>
 </programme>
+<programme start="20251119183000 +0000" stop="20251119201000 +0000" channel="tvN Movies.mncvision">
+    <title>The Box</title>
+</programme>
+<programme start="20251119201000 +0000" stop="20251119223000 +0000" channel="tvN Movies.mncvision">
+    <title>The Pirates</title>
+</programme>
+<programme start="20251119223000 +0000" stop="20251120001500 +0000" channel="tvN Movies.mncvision">
+    <title>My Lovely Angel</title>
+</programme>
+<programme start="20251120001500 +0000" stop="20251120015500 +0000" channel="tvN Movies.mncvision">
+    <title>The Box</title>
+</programme>
+<programme start="20251120015500 +0000" stop="20251120035000 +0000" channel="tvN Movies.mncvision">
+    <title>Honest Candidate 2</title>
+</programme>
+<programme start="20251120035000 +0000" stop="20251120053500 +0000" channel="tvN Movies.mncvision">
+    <title>Beautiful Audrey</title>
+</programme>
+<programme start="20251120053500 +0000" stop="20251120073500 +0000" channel="tvN Movies.mncvision">
+    <title>Three Sisters</title>
+</programme>
+<programme start="20251120073500 +0000" stop="20251120100000 +0000" channel="tvN Movies.mncvision">
+    <title>Emergency Declaration</title>
+</programme>
+<programme start="20251120100000 +0000" stop="20251120115500 +0000" channel="tvN Movies.mncvision">
+    <title>Cadaver</title>
+</programme>
+<programme start="20251120115500 +0000" stop="20251120140000 +0000" channel="tvN Movies.mncvision">
+    <title>Love 911</title>
+</programme>
+<programme start="20251120140000 +0000" stop="20251120155500 +0000" channel="tvN Movies.mncvision">
+    <title>Decibel</title>
+</programme>
+<programme start="20251120155500 +0000" stop="20251120162500 +0000" channel="tvN Movies.mncvision">
+    <title>The Witch: The Other One</title>
+</programme>
+<programme start="20251119183000 +0000" stop="20251119201000 +0000" channel="tvN Movies HD.mncvision">
+    <title>The Box</title>
+</programme>
+<programme start="20251119201000 +0000" stop="20251119223000 +0000" channel="tvN Movies HD.mncvision">
+    <title>The Pirates</title>
+</programme>
+<programme start="20251119223000 +0000" stop="20251120001500 +0000" channel="tvN Movies HD.mncvision">
+    <title>My Lovely Angel</title>
+</programme>
+<programme start="20251120001500 +0000" stop="20251120015500 +0000" channel="tvN Movies HD.mncvision">
+    <title>The Box</title>
+</programme>
+<programme start="20251120015500 +0000" stop="20251120035000 +0000" channel="tvN Movies HD.mncvision">
+    <title>Honest Candidate 2</title>
+</programme>
+<programme start="20251120035000 +0000" stop="20251120053500 +0000" channel="tvN Movies HD.mncvision">
+    <title>Beautiful Audrey</title>
+</programme>
+<programme start="20251120053500 +0000" stop="20251120073500 +0000" channel="tvN Movies HD.mncvision">
+    <title>Three Sisters</title>
+</programme>
+<programme start="20251120073500 +0000" stop="20251120100000 +0000" channel="tvN Movies HD.mncvision">
+    <title>Emergency Declaration</title>
+</programme>
+<programme start="20251120100000 +0000" stop="20251120115500 +0000" channel="tvN Movies HD.mncvision">
+    <title>Cadaver</title>
+</programme>
+<programme start="20251120115500 +0000" stop="20251120140000 +0000" channel="tvN Movies HD.mncvision">
+    <title>Love 911</title>
+</programme>
+<programme start="20251120140000 +0000" stop="20251120155500 +0000" channel="tvN Movies HD.mncvision">
+    <title>Decibel</title>
+</programme>
+<programme start="20251120155500 +0000" stop="20251120162500 +0000" channel="tvN Movies HD.mncvision">
+    <title>The Witch: The Other One</title>
+</programme>
 <programme start="20251119170000 +0000" stop="20251119173000 +0000" channel="tvOne.mncvision">
     <title>Kabar Hari Ini</title>
 </programme>

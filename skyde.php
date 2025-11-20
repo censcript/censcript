@@ -2798,7 +2798,7 @@
     <title>2. BL: Dein Zweitligatalk - HvK &amp; Tusche</title>
 </programme>
 <programme start="20251120210000 +0000" stop="20251120213000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>Fußball: Spielmacher Podcast von Sports 360 mit Sebastian Hellmann (Gast: ...)</title>
+    <title>Fußball: Spielmacher Podcast von Sports 360 mit Sebastian Hellmann (Gast: Benjamin Henrichs)</title>
 </programme>
 <programme start="20251120213000 +0000" stop="20251120214500 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>2. BL: Dein Spieltags-Sprint (12)</title>
@@ -3071,7 +3071,7 @@
     <title>BL: Matchplan: BVB - VFB, 11. Spieltag</title>
 </programme>
 <programme start="20251120203000 +0000" stop="20251120210000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Fußball: Spielmacher Podcast von Sports 360 mit Sebastian Hellmann (Gast: ...)</title>
+    <title>Fußball: Spielmacher Podcast von Sports 360 mit Sebastian Hellmann (Gast: Benjamin Henrichs)</title>
 </programme>
 <programme start="20251120210000 +0000" stop="20251120211500 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Top News</title>
