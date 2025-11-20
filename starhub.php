@@ -3115,9 +3115,6 @@
     <programme start="20251119170000 +0000" stop="20251119171500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
-    <programme start="20251119171500 +0000" stop="20251119173000 +0000" channel="DW English HD.starhub">
-        <title>Everything Jane Austen knows about love</title>
-    </programme>
     <programme start="20251119173000 +0000" stop="20251119180000 +0000" channel="DW English HD.starhub">
         <title>Between two Worlds - A Syrian in Germany</title>
     </programme>
@@ -3157,9 +3154,6 @@
     <programme start="20251119220200 +0000" stop="20251119223000 +0000" channel="DW English HD.starhub">
         <title>News in Review</title>
     </programme>
-    <programme start="20251119223000 +0000" stop="20251119230000 +0000" channel="DW English HD.starhub">
-        <title>Innovative energy solutions for a greener planet</title>
-    </programme>
     <programme start="20251119230000 +0000" stop="20251119231500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
@@ -3197,7 +3191,7 @@
         <title>News</title>
     </programme>
     <programme start="20251120031500 +0000" stop="20251120033000 +0000" channel="DW English HD.starhub">
-        <title>Everything Jane Austen knows about love</title>
+        <title>LDC Chair calls on countries to meet their climate commitments</title>
     </programme>
     <programme start="20251120033000 +0000" stop="20251120040000 +0000" channel="DW English HD.starhub">
         <title>Enhanced farming for better food security and carbon capture</title>
@@ -3215,13 +3209,13 @@
         <title>News in Review</title>
     </programme>
     <programme start="20251120053000 +0000" stop="20251120060000 +0000" channel="DW English HD.starhub">
-        <title>Spotlight on People</title>
+        <title>Lithuania’s Foreign Minister Budrys: &quot;Russia wants NATO to be destroyed&quot;</title>
     </programme>
     <programme start="20251120060000 +0000" stop="20251120061500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20251120061500 +0000" stop="20251120063000 +0000" channel="DW English HD.starhub">
-        <title>Everything Jane Austen knows about love</title>
+        <title>LDC Chair calls on countries to meet their climate commitments</title>
     </programme>
     <programme start="20251120063000 +0000" stop="20251120070000 +0000" channel="DW English HD.starhub">
         <title>Innovative energy solutions for a greener planet</title>
@@ -7262,7 +7256,7 @@
         <title>BBC News</title>
     </programme>
     <programme start="20251120013000 +0000" stop="20251120020000 +0000" channel="BBC World News HD.starhub">
-        <title>Inside the World of Body Donors</title>
+        <title>Sundar Pichai: Running the Google Empire</title>
     </programme>
     <programme start="20251120020000 +0000" stop="20251120023000 +0000" channel="BBC World News HD.starhub">
         <title>Newsday</title>
@@ -7819,7 +7813,7 @@
     <programme start="20251119230000 +0000" stop="20251119232000 +0000" channel="Asianet Movies.starhub">
         <title>Filler</title>
     </programme>
-    <programme start="20251119232000 +0000" stop="20251120013000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251119233000 +0000" stop="20251120013000 +0000" channel="Asianet Movies.starhub">
         <title>Take Off</title>
     </programme>
     <programme start="20251120013000 +0000" stop="20251120043000 +0000" channel="Asianet Movies.starhub">

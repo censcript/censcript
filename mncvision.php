@@ -2368,42 +2368,7 @@
 <programme start="20251120162500 +0000" stop="20251120165500 +0000" channel="CINEEDGE.mncvision">
     <title>Platinum</title>
 </programme>
-<programme start="20251119184400 +0000" stop="20251119204800 +0000" channel="CINEEDGE HD.mncvision">
-    <title>The Grey</title>
-</programme>
-<programme start="20251119204800 +0000" stop="20251119230500 +0000" channel="CINEEDGE HD.mncvision">
-    <title>Platinum</title>
-</programme>
-<programme start="20251119230500 +0000" stop="20251120004700 +0000" channel="CINEEDGE HD.mncvision">
-    <title>Mercenary For Justice</title>
-</programme>
-<programme start="20251120004700 +0000" stop="20251120023800 +0000" channel="CINEEDGE HD.mncvision">
-    <title>Platinum</title>
-</programme>
-<programme start="20251120023800 +0000" stop="20251120041800 +0000" channel="CINEEDGE HD.mncvision">
-    <title>Ticker</title>
-</programme>
-<programme start="20251120041800 +0000" stop="20251120062800 +0000" channel="CINEEDGE HD.mncvision">
-    <title>Platinum</title>
-</programme>
-<programme start="20251120062800 +0000" stop="20251120080300 +0000" channel="CINEEDGE HD.mncvision">
-    <title>Good People</title>
-</programme>
-<programme start="20251120080300 +0000" stop="20251120101100 +0000" channel="CINEEDGE HD.mncvision">
-    <title>Platinum</title>
-</programme>
-<programme start="20251120101100 +0000" stop="20251120115000 +0000" channel="CINEEDGE HD.mncvision">
-    <title>The Silencing</title>
-</programme>
-<programme start="20251120115000 +0000" stop="20251120143700 +0000" channel="CINEEDGE HD.mncvision">
-    <title>Platinum</title>
-</programme>
-<programme start="20251120143700 +0000" stop="20251120162500 +0000" channel="CINEEDGE HD.mncvision">
-    <title>Pound Of Flesh</title>
-</programme>
-<programme start="20251120162500 +0000" stop="20251120165500 +0000" channel="CINEEDGE HD.mncvision">
-    <title>Platinum</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20251119170000 +0000" stop="20251119180000 +0000" channel="CNBC.mncvision">
     <title>Halftime Report</title>
 </programme>
@@ -6124,6 +6089,7 @@
 <programme start="20251120164500 +0000" stop="20251119171500 +0000" channel="Moonbug.mncvision">
     <title>CoComelon</title>
 </programme>
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20251119190000 +0000" stop="20251119200000 +0000" channel="Music TV.mncvision">
     <title>Godain</title>
 </programme>
