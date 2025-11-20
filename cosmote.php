@@ -70,6 +70,14 @@
     <title>Game R1 S6 E13</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251122060000 +0700" stop="20251122063000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEFA Champions League Magazine 2025-26 E12</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251122063000 +0700" stop="20251122083000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: AEK - Shamrock Rovers FC</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251121050000 +0700" stop="20251121071000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Kifisia - Olympiacos</title>
     <desc>Live: Tidak</desc>
@@ -132,6 +140,14 @@
 </programme>
 <programme start="20251122054000 +0700" stop="20251122061000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Serie A Full Impact 2025-26 E11</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251122061000 +0700" stop="20251122064000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Serie A Inside Serie A 2025-26 E12</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251122064000 +0700" stop="20251122084000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Genoa - ACF Fiorentina</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251121050000 +0700" stop="20251121070000 +0700" channel="COSMOTE Sport 3 HD">
@@ -338,6 +354,10 @@
     <title>WRC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251122060500 +0700" stop="20251122070000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251121043000 +0700" stop="20251121064000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Harri Heliovaara/Henry Patten - Joe Salisbury/Neal Skupski</title>
     <desc>Live: Tidak</desc>
@@ -422,6 +442,10 @@
     <title>Sports Classics: 2025 Outdoor Specials</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251122060500 +0700" stop="20251122070000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Sports Classics: 2025 Outdoor Specials</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251121050000 +0700" stop="20251121070000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
@@ -469,6 +493,10 @@
 <programme start="20251122020000 +0700" stop="20251122063000 +0700" channel="COSMOTE Sport 7 HD">
     <title>Boxing: Harlem Eubank - Josh Wagner (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20251122063000 +0700" stop="20251122070000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251121050000 +0700" stop="20251121070000 +0700" channel="COSMOTE Sport 8 HD">
     <title>COSMOTESport8HD</title>
