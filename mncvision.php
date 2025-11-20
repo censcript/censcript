@@ -4981,11 +4981,8 @@
 <programme start="20251120063000 +0000" stop="20251120070000 +0000" channel="JAKTV.mncvision">
     <title>The Cloth Story</title>
 </programme>
-<programme start="20251120070000 +0000" stop="20251120073000 +0000" channel="JAKTV.mncvision">
-    <title>Cooking Time</title>
-</programme>
-<programme start="20251120073000 +0000" stop="20251120080000 +0000" channel="JAKTV.mncvision">
-    <title>Khazanah Kenyalang</title>
+<programme start="20251120070000 +0000" stop="20251120080000 +0000" channel="JAKTV.mncvision">
+    <title>Medika Natura</title>
 </programme>
 <programme start="20251120080000 +0000" stop="20251120090000 +0000" channel="JAKTV.mncvision">
     <title>Berkah Shop</title>
@@ -5012,7 +5009,7 @@
     <title>Rezeki Tanah</title>
 </programme>
 <programme start="20251120130000 +0000" stop="20251120140000 +0000" channel="JAKTV.mncvision">
-    <title>Kata Dokter</title>
+    <title>Medika Natura</title>
 </programme>
 <programme start="20251120140000 +0000" stop="20251120150000 +0000" channel="JAKTV.mncvision">
     <title>Medika Natura</title>
