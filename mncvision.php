@@ -8401,14 +8401,8 @@
 <programme start="20251120090000 +0000" stop="20251120110000 +0000" channel="Sportstars 3.mncvision">
     <title>Liga 2</title>
 </programme>
-<programme start="20251120110000 +0000" stop="20251120113000 +0000" channel="Sportstars 3.mncvision">
-    <title>Top Goals</title>
-</programme>
-<programme start="20251120113000 +0000" stop="20251120120000 +0000" channel="Sportstars 3.mncvision">
-    <title>World Classic Soccer</title>
-</programme>
-<programme start="20251120120000 +0000" stop="20251120130000 +0000" channel="Sportstars 3.mncvision">
-    <title>FIFA World Cup Drawing (L)</title>
+<programme start="20251120110000 +0000" stop="20251120130000 +0000" channel="Sportstars 3.mncvision">
+    <title>BRI Liga 1</title>
 </programme>
 <programme start="20251120130000 +0000" stop="20251120150000 +0000" channel="Sportstars 3.mncvision">
     <title>European Qualifiers</title>
@@ -8443,14 +8437,8 @@
 <programme start="20251120090000 +0000" stop="20251120110000 +0000" channel="sportstars 3 HD.mncvision">
     <title>Liga 2</title>
 </programme>
-<programme start="20251120110000 +0000" stop="20251120113000 +0000" channel="sportstars 3 HD.mncvision">
-    <title>Top Goals</title>
-</programme>
-<programme start="20251120113000 +0000" stop="20251120120000 +0000" channel="sportstars 3 HD.mncvision">
-    <title>World Classic Soccer</title>
-</programme>
-<programme start="20251120120000 +0000" stop="20251120130000 +0000" channel="sportstars 3 HD.mncvision">
-    <title>FIFA World Cup Drawing (L)</title>
+<programme start="20251120110000 +0000" stop="20251120130000 +0000" channel="sportstars 3 HD.mncvision">
+    <title>BRI Liga 1</title>
 </programme>
 <programme start="20251120130000 +0000" stop="20251120150000 +0000" channel="sportstars 3 HD.mncvision">
     <title>European Qualifiers</title>
@@ -8614,8 +8602,11 @@
 <programme start="20251119233000 +0000" stop="20251120014000 +0000" channel="SPOTV 2.mncvision">
     <title>Penrite Oil Sandown 500</title>
 </programme>
-<programme start="20251120014000 +0000" stop="20251120060000 +0000" channel="SPOTV 2.mncvision">
+<programme start="20251120014000 +0000" stop="20251120050500 +0000" channel="SPOTV 2.mncvision">
     <title>WTT Star Contender Muscat &#039;25</title>
+</programme>
+<programme start="20251120050500 +0000" stop="20251120060000 +0000" channel="SPOTV 2.mncvision">
+    <title>MotoGP 2025: Valencian</title>
 </programme>
 <programme start="20251120060000 +0000" stop="20251120070000 +0000" channel="SPOTV 2.mncvision">
     <title>MotoGP 2025: Valencian</title>
@@ -8644,8 +8635,11 @@
 <programme start="20251119233000 +0000" stop="20251120014000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>Penrite Oil Sandown 500</title>
 </programme>
-<programme start="20251120014000 +0000" stop="20251120060000 +0000" channel="SPOTV 2 HD.mncvision">
+<programme start="20251120014000 +0000" stop="20251120050500 +0000" channel="SPOTV 2 HD.mncvision">
     <title>WTT Star Contender Muscat &#039;25</title>
+</programme>
+<programme start="20251120050500 +0000" stop="20251120060000 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>MotoGP 2025: Valencian</title>
 </programme>
 <programme start="20251120060000 +0000" stop="20251120070000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>MotoGP 2025: Valencian</title>

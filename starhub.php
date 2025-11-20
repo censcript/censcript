@@ -7963,8 +7963,11 @@
     <programme start="20251119233000 +0000" stop="20251120014000 +0000" channel="SPOTV2.starhub">
         <title>Race 30</title>
     </programme>
-    <programme start="20251120014000 +0000" stop="20251120060000 +0000" channel="SPOTV2.starhub">
+    <programme start="20251120014000 +0000" stop="20251120050500 +0000" channel="SPOTV2.starhub">
         <title>Day 1 Session 1</title>
+    </programme>
+    <programme start="20251120050500 +0000" stop="20251120060000 +0000" channel="SPOTV2.starhub">
+        <title>Warm Up</title>
     </programme>
     <programme start="20251120060000 +0000" stop="20251120070000 +0000" channel="SPOTV2.starhub">
         <title>Highlights</title>
