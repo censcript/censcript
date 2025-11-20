@@ -110,6 +110,10 @@
     <title>Football: Pisa - Cremonese</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251121161000 +0700" stop="20251121181000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Como - Cagliari</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251120150000 +0700" stop="20251120170000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: St. Mirren - Hibernian</title>
     <desc>Live: Tidak</desc>
@@ -218,10 +222,6 @@
     <title>Basketball: Treviso - Virtus Bologna</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251120143000 +0700" stop="20251120153000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Red Bull MotoGP Rookies Cup 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251120153000 +0700" stop="20251120163000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Red Bull MotoGP Rookies Cup 2025</title>
     <desc>Live: Tidak</desc>
@@ -314,8 +314,8 @@
     <title>DTM</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251120141500 +0700" stop="20251120160000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Volleyball: Las Palmas - Olympiacos</title>
+<programme start="20251121165500 +0700" stop="20251121175500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Highlights: 2025 Extreme H</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251120160000 +0700" stop="20251120165000 +0700" channel="COSMOTE Sport 6 HD">
@@ -391,6 +391,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251121153000 +0700" stop="20251121163000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Beach Volley: 2025 FIVB Beach Volleyball World Championships (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
+<programme start="20251121163000 +0700" stop="20251121173000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Beach Volley: 2025 FIVB Beach Volleyball World Championships (L)</title>
     <desc>Live: Ya</desc>
 </programme>
