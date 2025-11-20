@@ -54,6 +54,14 @@
     <title>Football: Pafos FC - Aris Limassol (L)</title>
     <desc>Live: Ya</desc>
 </programme>
+<programme start="20251122020000 +0700" stop="20251122023000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEFA Champions League Magazine 2025-26 E11</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251122023000 +0700" stop="20251122033000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Highlights: UEL &amp; UECL 2025-26</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251121002000 +0700" stop="20251121023000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Panetolikos - AEL Novibet</title>
     <desc>Live: Tidak</desc>
@@ -113,6 +121,10 @@
 <programme start="20251122003000 +0700" stop="20251122023000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Al Ahli - Al-Qadsiah (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20251122023000 +0700" stop="20251122030000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Serie A Full Impact 2025-26 E11</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251121010000 +0700" stop="20251121030000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: St. Mirren - Hibernian</title>
@@ -174,17 +186,17 @@
     <title>Basketball: Cleveland Cavaliers - Houston Rockets</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251121050000 +0700" stop="20251121070000 +0700" channel="COSMOTE Sport 4 HD">
+<programme start="20251121050000 +0700" stop="20251121071000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Heidelberg - Promitheas</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251121070000 +0700" stop="20251121100000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Orlando Magic - Los Angeles Clippers (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20251121100000 +0700" stop="20251121110000 +0700" channel="COSMOTE Sport 4 HD">
+<programme start="20251121071000 +0700" stop="20251121080000 +0700" channel="COSMOTE Sport 4 HD">
     <title>NBA Specials: Basketball Stories</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251121080000 +0700" stop="20251121110000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Milwaukee Bucks - Philadelphia 76ers (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20251121110000 +0700" stop="20251121130000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Valencia Basket Club - Tenerife</title>
@@ -199,7 +211,7 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251121170000 +0700" stop="20251121193000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Orlando Magic - Los Angeles Clippers</title>
+    <title>Basketball: Milwaukee Bucks - Philadelphia 76ers</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251121193000 +0700" stop="20251121213000 +0700" channel="COSMOTE Sport 4 HD">
@@ -222,8 +234,8 @@
     <title>NBA Action 2025-26 E3505 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251121003000 +0700" stop="20251121020000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC 2025</title>
+<programme start="20251122023000 +0700" stop="20251122050000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Milwaukee Bucks - Philadelphia 76ers</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251121020000 +0700" stop="20251121030000 +0700" channel="COSMOTE Sport 5 HD">
@@ -318,10 +330,6 @@
     <title>Motorsports: Moto2 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251121010000 +0700" stop="20251121013000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Sports Classics: 2025 Sports Rundown E6</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251121013000 +0700" stop="20251121043000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Carlos Alcaraz - Jannik Sinner</title>
     <desc>Live: Tidak</desc>
@@ -398,6 +406,10 @@
     <title>Sports Classics: 2025 Sports Rundown E6</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251122020000 +0700" stop="20251122034500 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Handball: MT Melsungen - SG Flensburg-Handewitt (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
 <programme start="20251121010000 +0700" stop="20251121030000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
@@ -449,6 +461,10 @@
 <programme start="20251122010000 +0700" stop="20251122020000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251122020000 +0700" stop="20251122063000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>Boxing: Harlem Eubank - Josh Wagner (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20251121010000 +0700" stop="20251121030000 +0700" channel="COSMOTE Sport 8 HD">
     <title>COSMOTESport8HD</title>
