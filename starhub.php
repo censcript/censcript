@@ -8050,22 +8050,25 @@
     <programme start="20251121130000 +0000" stop="20251121170000 +0000" channel="SPOTV2.starhub">
         <title>Day 3 Session 2</title>
     </programme>
-    <programme start="20251120160000 +0000" stop="20251120170500 +0000" channel="Dragon TV.starhub">
+    <programme start="20251120160000 +0000" stop="20251120161400 +0000" channel="Dragon TV.starhub">
+        <title>CARE ON THE WAY</title>
+    </programme>
+    <programme start="20251120161400 +0000" stop="20251120171600 +0000" channel="Dragon TV.starhub">
         <title>Cheer up!small shops</title>
     </programme>
-    <programme start="20251120170500 +0000" stop="20251120180500 +0000" channel="Dragon TV.starhub">
+    <programme start="20251120171600 +0000" stop="20251120181500 +0000" channel="Dragon TV.starhub">
         <title>Dragon TV Primetime News</title>
     </programme>
-    <programme start="20251120180500 +0000" stop="20251120183500 +0000" channel="Dragon TV.starhub">
+    <programme start="20251120181500 +0000" stop="20251120184500 +0000" channel="Dragon TV.starhub">
         <title>Cheer up!small shops</title>
     </programme>
-    <programme start="20251120183500 +0000" stop="20251120200500 +0000" channel="Dragon TV.starhub">
+    <programme start="20251120184500 +0000" stop="20251120194900 +0000" channel="Dragon TV.starhub">
         <title>Dream Home</title>
     </programme>
-    <programme start="20251120200500 +0000" stop="20251120210000 +0000" channel="Dragon TV.starhub">
-        <title>Future China</title>
+    <programme start="20251120194900 +0000" stop="20251120212600 +0000" channel="Dragon TV.starhub">
+        <title>Ai Romance</title>
     </programme>
-    <programme start="20251120210000 +0000" stop="20251120221000 +0000" channel="Dragon TV.starhub">
+    <programme start="20251120212600 +0000" stop="20251120221000 +0000" channel="Dragon TV.starhub">
         <title>A Green Trip</title>
     </programme>
     <programme start="20251120221000 +0000" stop="20251120223500 +0000" channel="Dragon TV.starhub">
@@ -8082,9 +8085,6 @@
     </programme>
     <programme start="20251121020500 +0000" stop="20251121033500 +0000" channel="Dragon TV.starhub">
         <title>Go Fighting</title>
-    </programme>
-    <programme start="20251121033500 +0000" stop="20251121040000 +0000" channel="Dragon TV.starhub">
-        <title>CARE ON THE WAY</title>
     </programme>
     <programme start="20251121040000 +0000" stop="20251121042500 +0000" channel="Dragon TV.starhub">
         <title>MIDDAY NEWS</title>
