@@ -481,10 +481,10 @@
   <programme start="20251122104000 +0000" stop="20251122110000 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Plážový volejbal - MS 2025 - MS 2025 (Adelaide) - semifinále (ženy)</title>
   </programme>
-  <programme start="20251122110000 +0000" stop="20251122131000 +0000" channel=":Šport.webtv.sk">
+  <programme start="20251122110000 +0000" stop="20251122130000 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Tenis - Davis Cup 2025 - Davis Cup 2025 Finals: semifinále 2 (1. dvojhra)</title>
   </programme>
-  <programme start="20251122131000 +0000" stop="20251122133000 +0000" channel=":Šport.webtv.sk">
+  <programme start="20251122130000 +0000" stop="20251122133000 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Zjazdové lyžovanie - Svetový pohár - SP 2025/26 (muži): Gurgl - slalom (2. kolo)</title>
   </programme>
   <programme start="20251122133000 +0000" stop="20251122153000 +0000" channel=":Šport.webtv.sk">
