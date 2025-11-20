@@ -62,6 +62,14 @@
     <title>Game R1 S6 E13</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251122040000 +0700" stop="20251122043000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEFA Champions League Magazine 2025-26 E12</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251122043000 +0700" stop="20251122053000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEFA Champions League Highlights 2025-26</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251121023000 +0700" stop="20251121043000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: AS Roma - Udinese</title>
     <desc>Live: Tidak</desc>
@@ -328,6 +336,10 @@
 </programme>
 <programme start="20251122031000 +0700" stop="20251122045000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Motorsports: MotoGP 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251122045000 +0700" stop="20251122052000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC Magazine 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251121013000 +0700" stop="20251121043000 +0700" channel="COSMOTE Sport 6 HD">
