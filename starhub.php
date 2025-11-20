@@ -3749,7 +3749,7 @@
         <title>News &amp; Weather</title>
     </programme>
     <programme start="20251120010500 +0000" stop="20251120015000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Eat Up! The Ultimate Homemade Cooking Battle &quot;Autumn lunch box&quot; (R)</title>
+        <title>Eat Up! The Ultimate Homemade Cooking Battle &quot;Autumn Lunch Box&quot; (R)</title>
     </programme>
     <programme start="20251120015000 +0000" stop="20251120021700 +0000" channel="NHK World Premium HD.starhub">
         <title>Today&#039;s Close-up (R)</title>

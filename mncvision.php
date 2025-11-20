@@ -3386,7 +3386,7 @@
     <title>Rating 5</title>
 </programme>
 <programme start="20251120123000 +0000" stop="20251120130000 +0000" channel="FOOD TRAVEL.mncvision">
-    <title>Indonesian Authentic Places &#039;22</title>
+    <title>Indonesian Authentic Places &#039;19</title>
 </programme>
 <programme start="20251120130000 +0000" stop="20251120133000 +0000" channel="FOOD TRAVEL.mncvision">
     <title>Celebs Food</title>
@@ -3506,7 +3506,7 @@
     <title>Rating 5</title>
 </programme>
 <programme start="20251120123000 +0000" stop="20251120130000 +0000" channel="Food Travel HD.mncvision">
-    <title>Indonesian Authentic Places &#039;22</title>
+    <title>Indonesian Authentic Places &#039;19</title>
 </programme>
 <programme start="20251120130000 +0000" stop="20251120133000 +0000" channel="Food Travel HD.mncvision">
     <title>Celebs Food</title>

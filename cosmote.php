@@ -114,6 +114,10 @@
     <title>Football: Como - Cagliari</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251121181000 +0700" stop="20251121202000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Panetolikos - AEL Novibet</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251120170000 +0700" stop="20251120190000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: SC Braga - Moreirense</title>
     <desc>Live: Tidak</desc>
@@ -222,10 +226,6 @@
     <title>Basketball: Milwaukee Bucks - Philadelphia 76ers</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251120163000 +0700" stop="20251120175000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Grand Prix Show 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251120175000 +0700" stop="20251120191500 +0700" channel="COSMOTE Sport 5 HD">
     <title>DTM 2025</title>
     <desc>Live: Tidak</desc>
@@ -318,6 +318,10 @@
     <title>Sports Classics: Gearing Up 2024 E10</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251121183000 +0700" stop="20251121190000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251120165000 +0700" stop="20251120183000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Handball: Fuchse Berlin - THW Kiel</title>
     <desc>Live: Tidak</desc>
@@ -399,6 +403,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251121175000 +0700" stop="20251121185000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Beach Volley: 2025 FIVB Beach Volleyball World Championships (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
+<programme start="20251121185000 +0700" stop="20251121195500 +0700" channel="COSMOTE Sport 6 HD">
     <title>Beach Volley: 2025 FIVB Beach Volleyball World Championships (L)</title>
     <desc>Live: Ya</desc>
 </programme>
