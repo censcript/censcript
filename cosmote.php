@@ -1,11 +1,3 @@
-<programme start="20251121193000 +0700" stop="20251121213000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: FC Lausanne - Omonoia FC</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251121213000 +0700" stop="20251121220000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>UEFA Champions League Magazine 2025-26 E11</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251121220000 +0700" stop="20251122000000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Utrecht - FC Porto</title>
     <desc>Live: Tidak</desc>
@@ -218,8 +210,12 @@
     <title>Copa Sudamericana 2025 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251121193000 +0700" stop="20251121213000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Erokspor - Fenerbahce</title>
+<programme start="20251122220000 +0700" stop="20251122223000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>William Hill Scottish Premiership - Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251122223000 +0700" stop="20251123003000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Atletico Mineiro - Independiente del Valle</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251121213000 +0700" stop="20251121234000 +0700" channel="COSMOTE Sport 4 HD">
@@ -286,8 +282,8 @@
     <title>NBA on Fire 2025-26 E4 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251121200000 +0700" stop="20251121212000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Grand Prix Show 2025</title>
+<programme start="20251122222000 +0700" stop="20251123010000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Orlando Magic - Los Angeles Clippers</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251121212000 +0700" stop="20251121222500 +0700" channel="COSMOTE Sport 5 HD">
@@ -378,9 +374,9 @@
     <title>Red Bull MotoGP Rookies Cup 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251121203000 +0700" stop="20251121213000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Nitto ATP Finals 2024 - Highlights</title>
-    <desc>Live: Tidak</desc>
+<programme start="20251122220000 +0700" stop="20251123000000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Football: Birmingham City - Norwich City (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20251121213000 +0700" stop="20251121223000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Beach Volley: 2025 FIVB Beach Volleyball World Championships</title>
@@ -463,6 +459,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251122210000 +0700" stop="20251122220000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Beach Volley: 2025 FIVB Beach Volleyball World Championships</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251122220000 +0700" stop="20251122230000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Beach Volley: 2025 FIVB Beach Volleyball World Championships</title>
     <desc>Live: Tidak</desc>
 </programme>
