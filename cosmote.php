@@ -150,6 +150,10 @@
     <title>Football: Panetolikos - AEL Novibet</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251122141000 +0700" stop="20251122161000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Genoa - ACF Fiorentina</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251121130000 +0700" stop="20251121150000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Tamworth - Leyton Orient</title>
     <desc>Live: Tidak</desc>
@@ -260,10 +264,6 @@
 </programme>
 <programme start="20251122130000 +0700" stop="20251122150000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Erokspor - Fenerbahce</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251121125000 +0700" stop="20251121135500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251121135500 +0700" stop="20251121142500 +0700" channel="COSMOTE Sport 5 HD">
@@ -456,6 +456,10 @@
 </programme>
 <programme start="20251122133500 +0700" stop="20251122140000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Sports Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251122140000 +0700" stop="20251122153000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Topspin</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251121130000 +0700" stop="20251121150000 +0700" channel="COSMOTE Sport 7 HD">
