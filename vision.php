@@ -697,6 +697,12 @@
 <programme start="20251121110000 +0000" stop="20251121130000 +0000" channel="ANTV.vision">
 <title>Rindu Tak Berujung</title>
 </programme>
+<programme start="20251121130000 +0000" stop="20251121143000 +0000" channel="ANTV.vision">
+<title>Ratu Buaya Putih</title>
+</programme>
+<programme start="20251121143000 +0000" stop="20251121163000 +0000" channel="ANTV.vision">
+<title>Gadis Bionik</title>
+</programme>
 <programme start="20251121163000 +0000" stop="20251121183000 +0000" channel="ANTV.vision">
 <title>Sworn Brothers</title>
 </programme>
@@ -1491,10 +1497,4 @@
 </programme>
 <programme start="20251121223000 +0000" stop="20251121230000 +0000" channel="BTV.vision">
 <title>Berita Viral</title>
-</programme>
-<programme start="20251121230000 +0000" stop="20251121230300 +0000" channel="BTV.vision">
-<title>Indonesia Raya</title>
-</programme>
-<programme start="20251121230300 +0000" stop="20251122003000 +0000" channel="BTV.vision">
-<title>Jalan Dakwah</title>
 </programme>
