@@ -4130,7 +4130,7 @@
     <title>New Family 100</title>
 </programme>
 <programme start="20251121123000 +0000" stop="20251121140000 +0000" channel="GTV.mncvision">
-    <title>Fighter</title>
+    <title>Distortion</title>
 </programme>
 <programme start="20251121140000 +0000" stop="20251121153000 +0000" channel="GTV.mncvision">
     <title>Master So Dragon Subduing Palms</title>
@@ -4175,7 +4175,7 @@
     <title>New Family 100</title>
 </programme>
 <programme start="20251121123000 +0000" stop="20251121140000 +0000" channel="GTV HD.mncvision">
-    <title>Fighter</title>
+    <title>Distortion</title>
 </programme>
 <programme start="20251121140000 +0000" stop="20251121153000 +0000" channel="GTV HD.mncvision">
     <title>Master So Dragon Subduing Palms</title>
