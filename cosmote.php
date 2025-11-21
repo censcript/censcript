@@ -1,7 +1,3 @@
-<programme start="20251121173000 +0700" stop="20251121193000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: SSC Napoli - Eintracht Frankfurt</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251121193000 +0700" stop="20251121213000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: FC Lausanne - Omonoia FC</title>
     <desc>Live: Tidak</desc>
@@ -82,6 +78,10 @@
     <title>Football: Juventus Football Club - Sporting CP</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251122200000 +0700" stop="20251122210000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEL &amp; UECL Magazine 2025-26 E5</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251121181000 +0700" stop="20251121202000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Panetolikos - AEL Novibet</title>
     <desc>Live: Tidak</desc>
@@ -154,6 +154,10 @@
     <title>Football: FC Internazionale Milano - SS Lazio</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251122202000 +0700" stop="20251122210000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Serie A Inside Serie A 2025-26 E12</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251121190000 +0700" stop="20251121210000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Stoke City - Coventry City</title>
     <desc>Live: Tidak</desc>
@@ -209,10 +213,6 @@
 <programme start="20251122193000 +0700" stop="20251122213000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Coventry City - West Bromwich Albion (L)</title>
     <desc>Live: Ya</desc>
-</programme>
-<programme start="20251121170000 +0700" stop="20251121193000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Orlando Magic - Los Angeles Clippers</title>
-    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251121193000 +0700" stop="20251121213000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Erokspor - Fenerbahce</title>
@@ -272,10 +272,6 @@
 </programme>
 <programme start="20251122192000 +0700" stop="20251122212000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Barcelona - Baskonia</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251121190000 +0700" stop="20251121200000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Highlights: 2025 Extreme H</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251121200000 +0700" stop="20251121212000 +0700" channel="COSMOTE Sport 5 HD">
@@ -362,9 +358,9 @@
     <title>Motorsports: Extreme E 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251121185000 +0700" stop="20251121195500 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Beach Volley: 2025 FIVB Beach Volleyball World Championships (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20251122200000 +0700" stop="20251122210000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Red Bull MotoGP Rookies Cup 2025</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251121195500 +0700" stop="20251121203000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Sports Classics: The Outdoor Sports Show 2025 E11</title>
