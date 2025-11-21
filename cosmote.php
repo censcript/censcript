@@ -1,11 +1,3 @@
-<programme start="20251122023000 +0700" stop="20251122033000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Highlights: UEL &amp; UECL 2025-26</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251122033000 +0700" stop="20251122040000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Game R1 S6 E13</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251122040000 +0700" stop="20251122043000 +0700" channel="COSMOTE Sport 1 HD">
     <title>UEFA Champions League Magazine 2025-26 E12</title>
     <desc>Live: Tidak</desc>
@@ -82,8 +74,8 @@
     <title>PostGame (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251122030000 +0700" stop="20251122033000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Serie A Inside Serie A 2025-26 E12</title>
+<programme start="20251123040000 +0700" stop="20251123060500 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: Olympiacos - Atromitos Athens</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251122033000 +0700" stop="20251122054000 +0700" channel="COSMOTE Sport 2 HD">
@@ -161,6 +153,10 @@
 <programme start="20251123024500 +0700" stop="20251123044500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: SSC Napoli - Atalanta (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20251123044500 +0700" stop="20251123064500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Cagliari - Genoa</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251122030000 +0700" stop="20251122050000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Preston North End - Blackburn Rovers (L)</title>
@@ -282,8 +278,12 @@
     <title>Basketball: Charlotte Hornets - Los Angeles Clippers (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251122015000 +0700" stop="20251122031000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: Moto2 2025</title>
+<programme start="20251123040000 +0700" stop="20251123043500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>NBA on Fire 2025-26 E4</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251123043500 +0700" stop="20251123050000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>NBA Specials</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251122031000 +0700" stop="20251122045000 +0700" channel="COSMOTE Sport 5 HD">
@@ -382,9 +382,9 @@
     <title>WRC Magazine 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251122020000 +0700" stop="20251122034500 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Handball: MT Melsungen - SG Flensburg-Handewitt (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20251123040000 +0700" stop="20251123052500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>DTM 2025</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251122034500 +0700" stop="20251122051500 +0700" channel="COSMOTE Sport 6 HD">
     <title>Topspin</title>
@@ -461,6 +461,10 @@
 <programme start="20251123010000 +0700" stop="20251123040000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Fight Sports: UFC Fight Night 2025 (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20251123040000 +0700" stop="20251123063000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>2025 Premier Padel World Cup Pairs</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251122020000 +0700" stop="20251122063000 +0700" channel="COSMOTE Sport 7 HD">
     <title>Boxing: Harlem Eubank - Josh Wagner (L)</title>
