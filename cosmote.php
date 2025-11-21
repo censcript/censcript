@@ -78,10 +78,6 @@
     <title>Football: FC Lausanne - Omonoia FC</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251121100000 +0700" stop="20251121120000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Como - Cagliari</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251121120000 +0700" stop="20251121141000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Panathinaikos - PAOK</title>
     <desc>Live: Tidak</desc>
@@ -150,6 +146,10 @@
     <title>Football: Lecce - Hellas Verona</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251122120000 +0700" stop="20251122141000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Panetolikos - AEL Novibet</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251121110000 +0700" stop="20251121130000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Estoril - Arouca</title>
     <desc>Live: Tidak</desc>
@@ -206,6 +206,10 @@
     <title>Copa Sudamericana 2025 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251122120000 +0700" stop="20251122152000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>American Football: Houston Texans - Buffalo Bills</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251121110000 +0700" stop="20251121130000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Valencia Basket Club - Tenerife</title>
     <desc>Live: Tidak</desc>
@@ -260,10 +264,6 @@
 </programme>
 <programme start="20251122110000 +0700" stop="20251122130000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Treviso - Virtus Bologna</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251121110000 +0700" stop="20251121114500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251121114500 +0700" stop="20251121125000 +0700" channel="COSMOTE Sport 5 HD">
@@ -366,6 +366,10 @@
     <title>2025 Extreme H</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251122120500 +0700" stop="20251122131000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>2025 Extreme H</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251121110000 +0700" stop="20251121130000 +0700" channel="COSMOTE Sport 6 HD">
     <title>2025 Premier Padel World Cup Pairs</title>
     <desc>Live: Tidak</desc>
@@ -451,6 +455,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251122113000 +0700" stop="20251122123000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Beach Volley: 2025 FIVB Beach Volleyball World Championships (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
+<programme start="20251122123000 +0700" stop="20251122133500 +0700" channel="COSMOTE Sport 6 HD">
     <title>Beach Volley: 2025 FIVB Beach Volleyball World Championships (L)</title>
     <desc>Live: Ya</desc>
 </programme>
@@ -556,14 +564,6 @@
 </programme>
 <programme start="20251122110000 +0700" stop="20251122130000 +0700" channel="COSMOTE Sport 8 HD">
     <title>COSMOTESport8HD</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251121081500 +0700" stop="20251121114500 +0700" channel="COSMOTE Sport 9 HD">
-    <title>American Football: Houston Texans - Buffalo Bills (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20251121114500 +0700" stop="20251121120000 +0700" channel="COSMOTE Sport 9 HD">
-    <title>COSMOTESport9HD</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251121120000 +0700" stop="20251121123000 +0700" channel="COSMOTE Sport 9 HD">

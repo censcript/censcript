@@ -17,7 +17,7 @@
 <title>Take Me Out Indonesia (RCTI)</title>
 </programme>
 <programme start="20251121070000 +0000" stop="20251121080000 +0000" channel="RCTI.vision">
-<title>Arab Maklum 2</title>
+<title>Montir Cantik</title>
 </programme>
 <programme start="20251121080000 +0000" stop="20251121090000 +0000" channel="RCTI.vision">
 <title>Preman Pensiun S9</title>
@@ -40,32 +40,38 @@
 <programme start="20251121160000 +0000" stop="20251121181500 +0000" channel="RCTI.vision">
 <title>Transformers</title>
 </programme>
+<programme start="20251121181500 +0000" stop="20251121190000 +0000" channel="RCTI.vision">
+<title>Parcel Parmin</title>
+</programme>
 <programme start="20251121190000 +0000" stop="20251121213000 +0000" channel="RCTI.vision">
 <title>RCTI</title>
 </programme>
 <programme start="20251121213000 +0000" stop="20251121234500 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<title>Preman Pensiun S4</title>
 </programme>
 <programme start="20251121234500 +0000" stop="20251122003000 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<title>Upin Ipin</title>
 </programme>
 <programme start="20251122003000 +0000" stop="20251122023000 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<title>Titus: Mystery Of The Enygma</title>
 </programme>
-<programme start="20251122023000 +0000" stop="20251122063000 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<programme start="20251122023000 +0000" stop="20251122041500 +0000" channel="RCTI.vision">
+<title>Doraemon Series</title>
+</programme>
+<programme start="20251122041500 +0000" stop="20251122063000 +0000" channel="RCTI.vision">
+<title>Doraemon (RCTI)</title>
 </programme>
 <programme start="20251122063000 +0000" stop="20251122083000 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<title>Mega Film TV</title>
 </programme>
-<programme start="20251122083000 +0000" stop="20251122100000 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<programme start="20251122083000 +0000" stop="20251122103000 +0000" channel="RCTI.vision">
+<title>Preman Pensiun S9</title>
 </programme>
-<programme start="20251122100000 +0000" stop="20251122111500 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<programme start="20251122103000 +0000" stop="20251122114500 +0000" channel="RCTI.vision">
+<title>Terbelenggu Rindu (RCTI)</title>
 </programme>
-<programme start="20251122111500 +0000" stop="20251122124500 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<programme start="20251122114500 +0000" stop="20251122131500 +0000" channel="RCTI.vision">
+<title>Mencintai Ipar Sendiri (RCTI)</title>
 </programme>
 <programme start="20251120231500 +0000" stop="20251121001500 +0000" channel="MNCTV.vision">
 <title>Kiko</title>
@@ -1491,10 +1497,4 @@
 </programme>
 <programme start="20251121230300 +0000" stop="20251122003000 +0000" channel="BTV.vision">
 <title>Jalan Dakwah</title>
-</programme>
-<programme start="20251122003000 +0000" stop="20251122011500 +0000" channel="BTV.vision">
-<title>Figur Publik</title>
-</programme>
-<programme start="20251122011500 +0000" stop="20251122014500 +0000" channel="BTV.vision">
-<title>Kuyliner (MBG)</title>
 </programme>
