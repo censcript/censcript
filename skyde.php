@@ -2791,7 +2791,7 @@
 <programme start="20251121183000 +0000" stop="20251121191500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: M05 - TSG: tipico Countdown, Flutlicht-Freitag, 11. Spieltag</title>
 </programme>
-<programme start="20251121191500 +0000" stop="20251121221500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
+<programme start="20251121191500 +0000" stop="20251121223000 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: 1. FSV Mainz 05 - TSG Hoffenheim, Flutlicht-Freitag, 11. Spieltag</title>
 </programme>
 <programme start="20251121164000 +0000" stop="20251121170000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">

@@ -838,9 +838,6 @@
 <programme start="20251120233000 +0000" stop="20251121013000 +0000" channel="TVOne.vision">
 <title>Apa Kabar Indonesia Pagi (L)</title>
 </programme>
-<programme start="20251121013000 +0000" stop="20251121020000 +0000" channel="TVOne.vision">
-<title>Hidup Sehat</title>
-</programme>
 <programme start="20251121020000 +0000" stop="20251121023000 +0000" channel="TVOne.vision">
 <title>Inspirasi Pagi (L)</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20251122003000 +0000" stop="20251122011500 +0000" channel="BTV.vision">
 <title>Figur Publik</title>
+</programme>
+<programme start="20251122011500 +0000" stop="20251122014500 +0000" channel="BTV.vision">
+<title>Kuyliner (MBG)</title>
 </programme>

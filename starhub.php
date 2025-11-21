@@ -8023,8 +8023,11 @@
     <programme start="20251120225500 +0000" stop="20251121013000 +0000" channel="SPOTV2.starhub">
         <title>Race 31</title>
     </programme>
-    <programme start="20251121013000 +0000" stop="20251121060000 +0000" channel="SPOTV2.starhub">
+    <programme start="20251121013000 +0000" stop="20251121053000 +0000" channel="SPOTV2.starhub">
         <title>Day 2 Session 1</title>
+    </programme>
+    <programme start="20251121053000 +0000" stop="20251121060000 +0000" channel="SPOTV2.starhub">
+        <title>2025/26 ALM Mini Match Rd 4 Wellington Phoenix vs Auckland FC</title>
     </programme>
     <programme start="20251121060000 +0000" stop="20251121063000 +0000" channel="SPOTV2.starhub">
         <title>In Conversation With Factory Team</title>
