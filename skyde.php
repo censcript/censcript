@@ -1612,6 +1612,63 @@
 <programme start="20251121224000 +0000" stop="20251121230500 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
+<programme start="20251120231000 +0000" stop="20251121004000 +0000" channel="Romance TV HD.skyde">
+    <title>Inga Lindström: Liebe deinen Nächsten</title>
+</programme>
+<programme start="20251121004000 +0000" stop="20251121021000 +0000" channel="Romance TV HD.skyde">
+    <title>Das Lächeln der Frauen</title>
+</programme>
+<programme start="20251121021000 +0000" stop="20251121022500 +0000" channel="Romance TV HD.skyde">
+    <title>Stars im Interview</title>
+</programme>
+<programme start="20251121022500 +0000" stop="20251121031000 +0000" channel="Romance TV HD.skyde">
+    <title>Familie Dr. Kleist</title>
+</programme>
+<programme start="20251121031000 +0000" stop="20251121032500 +0000" channel="Romance TV HD.skyde">
+    <title>Stars im Interview</title>
+</programme>
+<programme start="20251121032500 +0000" stop="20251121045500 +0000" channel="Romance TV HD.skyde">
+    <title>Rosamunde Pilcher: Anwälte küsst man nicht</title>
+</programme>
+<programme start="20251121045500 +0000" stop="20251121063000 +0000" channel="Romance TV HD.skyde">
+    <title>Rosamunde Pilcher: Haustausch mit Hindernissen</title>
+</programme>
+<programme start="20251121063000 +0000" stop="20251121080500 +0000" channel="Romance TV HD.skyde">
+    <title>Rosamunde Pilcher: Lords lügen nicht</title>
+</programme>
+<programme start="20251121080500 +0000" stop="20251121093500 +0000" channel="Romance TV HD.skyde">
+    <title>Ein vorbildliches Ehepaar</title>
+</programme>
+<programme start="20251121093500 +0000" stop="20251121103000 +0000" channel="Romance TV HD.skyde">
+    <title>Familie Dr. Kleist</title>
+</programme>
+<programme start="20251121103000 +0000" stop="20251121120500 +0000" channel="Romance TV HD.skyde">
+    <title>Lena Lorenz: Baby auf Probe</title>
+</programme>
+<programme start="20251121120500 +0000" stop="20251121133500 +0000" channel="Romance TV HD.skyde">
+    <title>Inga Lindström: Liebe deinen Nächsten</title>
+</programme>
+<programme start="20251121133500 +0000" stop="20251121151000 +0000" channel="Romance TV HD.skyde">
+    <title>Das Lächeln der Frauen</title>
+</programme>
+<programme start="20251121151000 +0000" stop="20251121164500 +0000" channel="Romance TV HD.skyde">
+    <title>Lehrer kann jeder!</title>
+</programme>
+<programme start="20251121164500 +0000" stop="20251121182000 +0000" channel="Romance TV HD.skyde">
+    <title>Ein Mops zum Verlieben</title>
+</programme>
+<programme start="20251121182000 +0000" stop="20251121191500 +0000" channel="Romance TV HD.skyde">
+    <title>Familie Dr. Kleist</title>
+</programme>
+<programme start="20251121191500 +0000" stop="20251121204500 +0000" channel="Romance TV HD.skyde">
+    <title>Das Traumhotel: Karibik</title>
+</programme>
+<programme start="20251121204500 +0000" stop="20251121222000 +0000" channel="Romance TV HD.skyde">
+    <title>Reiterhof Wildenstein - Neuanfang</title>
+</programme>
+<programme start="20251121222000 +0000" stop="20251121231500 +0000" channel="Romance TV HD.skyde">
+    <title>Familie Dr. Kleist</title>
+</programme>
 <programme start="20251120232500 +0000" stop="20251121002000 +0000" channel="Sky Atlantic HD.skyde">
     <title>Outlander</title>
 </programme>
