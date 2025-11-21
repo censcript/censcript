@@ -7,9 +7,6 @@
     <programme start="20251122000000 +0000" stop="20251123235959 +0000" channel="49923086914927.shahid">
         <title>TV guide is not available</title>
     </programme>
-    <programme start="20251122000000 +0000" stop="20251123235959 +0000" channel="49923088781412.shahid">
-        <title>TV guide is not available</title>
-    </programme>
     <programme start="20251122000000 +0000" stop="20251122001245 +0000" channel="983124.shahid">
         <title>Masrah Masr Season 2 Episode 1</title>
     </programme>
@@ -122,6 +119,9 @@
         <title>Masrah Masr Season 3 Episode 2</title>
     </programme>
     <programme start="20251123232518 +0000" stop="20251123235959 +0000" channel="983124.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20251122000000 +0000" stop="20251123235959 +0000" channel="49923088781412.shahid">
         <title>TV guide is not available</title>
     </programme>
     <programme start="20251122000000 +0000" stop="20251122000500 +0000" channel="862837.shahid">
@@ -655,228 +655,6 @@
     <programme start="20251122000000 +0000" stop="20251123235959 +0000" channel="946948.shahid">
         <title>TV guide is not available</title>
     </programme>
-    <programme start="20251122000000 +0000" stop="20251122010000 +0000" channel="387251.shahid">
-        <title>Al Kawn Fi Kaffa  </title>
-    </programme>
-    <programme start="20251122010000 +0000" stop="20251122020000 +0000" channel="387251.shahid">
-        <title>Lo&#039;bat Hob  </title>
-    </programme>
-    <programme start="20251122020000 +0000" stop="20251122030000 +0000" channel="387251.shahid">
-        <title>Al Asouf  </title>
-    </programme>
-    <programme start="20251122030000 +0000" stop="20251122035500 +0000" channel="387251.shahid">
-        <title>Habibati.. Man Takoun? Season 1 Episode 51</title>
-    </programme>
-    <programme start="20251122035500 +0000" stop="20251122045500 +0000" channel="387251.shahid">
-        <title>Al Oqab Wa Al Afra Season 1 Episode 12</title>
-    </programme>
-    <programme start="20251122045500 +0000" stop="20251122055500 +0000" channel="387251.shahid">
-        <title>Al Hofra  </title>
-    </programme>
-    <programme start="20251122055500 +0000" stop="20251122070000 +0000" channel="387251.shahid">
-        <title>Shajar Al Hoor Season 2 Episode 29</title>
-    </programme>
-    <programme start="20251122070000 +0000" stop="20251122080000 +0000" channel="387251.shahid">
-        <title>Leh Laa?!  </title>
-    </programme>
-    <programme start="20251122080000 +0000" stop="20251122085300 +0000" channel="387251.shahid">
-        <title>Al Hofra  </title>
-    </programme>
-    <programme start="20251122085300 +0000" stop="20251122090000 +0000" channel="387251.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20251122090000 +0000" stop="20251122095300 +0000" channel="387251.shahid">
-        <title>Al Kawn Fi Kaffa  </title>
-    </programme>
-    <programme start="20251122095300 +0000" stop="20251122100000 +0000" channel="387251.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20251122100000 +0000" stop="20251122105500 +0000" channel="387251.shahid">
-        <title>Al Asouf  </title>
-    </programme>
-    <programme start="20251122105500 +0000" stop="20251122110000 +0000" channel="387251.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20251122110000 +0000" stop="20251122113900 +0000" channel="387251.shahid">
-        <title>Habibati.. Man Takoun? Season 1 Episode 51</title>
-    </programme>
-    <programme start="20251122113900 +0000" stop="20251122115500 +0000" channel="387251.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20251122115500 +0000" stop="20251122124700 +0000" channel="387251.shahid">
-        <title>Al Oqab Wa Al Afra Season 1 Episode 12</title>
-    </programme>
-    <programme start="20251122124700 +0000" stop="20251122125500 +0000" channel="387251.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20251122125500 +0000" stop="20251122135500 +0000" channel="387251.shahid">
-        <title>Lo&#039;bat Hob  </title>
-    </programme>
-    <programme start="20251122135500 +0000" stop="20251122150500 +0000" channel="387251.shahid">
-        <title>Shajar Al Hoor Season 2 Episode 30</title>
-    </programme>
-    <programme start="20251122150500 +0000" stop="20251122160000 +0000" channel="387251.shahid">
-        <title>Leh Laa?!  </title>
-    </programme>
-    <programme start="20251122160000 +0000" stop="20251122165400 +0000" channel="387251.shahid">
-        <title>Al Kawn Fi Kaffa  </title>
-    </programme>
-    <programme start="20251122165400 +0000" stop="20251122170000 +0000" channel="387251.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20251122170000 +0000" stop="20251122175400 +0000" channel="387251.shahid">
-        <title>Al Hofra  </title>
-    </programme>
-    <programme start="20251122175400 +0000" stop="20251122180000 +0000" channel="387251.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20251122180000 +0000" stop="20251122185500 +0000" channel="387251.shahid">
-        <title>Al Asouf  </title>
-    </programme>
-    <programme start="20251122185500 +0000" stop="20251122190000 +0000" channel="387251.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20251122190000 +0000" stop="20251122194100 +0000" channel="387251.shahid">
-        <title>Habibati.. Man Takoun? Season 1 Episode 52</title>
-    </programme>
-    <programme start="20251122194100 +0000" stop="20251122195500 +0000" channel="387251.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20251122195500 +0000" stop="20251122204700 +0000" channel="387251.shahid">
-        <title>Al Oqab Wa Al Afra Season 1 Episode 13</title>
-    </programme>
-    <programme start="20251122204700 +0000" stop="20251122205500 +0000" channel="387251.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20251122205500 +0000" stop="20251122214900 +0000" channel="387251.shahid">
-        <title>Lo&#039;bat Hob  </title>
-    </programme>
-    <programme start="20251122214900 +0000" stop="20251122215500 +0000" channel="387251.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20251122215500 +0000" stop="20251122230500 +0000" channel="387251.shahid">
-        <title>Shajar Al Hoor Season 2 Episode 30</title>
-    </programme>
-    <programme start="20251122230500 +0000" stop="20251123000000 +0000" channel="387251.shahid">
-        <title>Leh Laa?!  </title>
-    </programme>
-    <programme start="20251123000000 +0000" stop="20251123005400 +0000" channel="387251.shahid">
-        <title>Al Kawn Fi Kaffa  </title>
-    </programme>
-    <programme start="20251123005400 +0000" stop="20251123010000 +0000" channel="387251.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20251123010000 +0000" stop="20251123015400 +0000" channel="387251.shahid">
-        <title>Lo&#039;bat Hob  </title>
-    </programme>
-    <programme start="20251123015400 +0000" stop="20251123020000 +0000" channel="387251.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20251123020000 +0000" stop="20251123025500 +0000" channel="387251.shahid">
-        <title>Al Asouf  </title>
-    </programme>
-    <programme start="20251123025500 +0000" stop="20251123030000 +0000" channel="387251.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20251123030000 +0000" stop="20251123034100 +0000" channel="387251.shahid">
-        <title>Habibati.. Man Takoun? Season 1 Episode 52</title>
-    </programme>
-    <programme start="20251123034100 +0000" stop="20251123035500 +0000" channel="387251.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20251123035500 +0000" stop="20251123044700 +0000" channel="387251.shahid">
-        <title>Al Oqab Wa Al Afra Season 1 Episode 13</title>
-    </programme>
-    <programme start="20251123044700 +0000" stop="20251123045500 +0000" channel="387251.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20251123045500 +0000" stop="20251123054900 +0000" channel="387251.shahid">
-        <title>Al Hofra  </title>
-    </programme>
-    <programme start="20251123054900 +0000" stop="20251123055500 +0000" channel="387251.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20251123055500 +0000" stop="20251123070500 +0000" channel="387251.shahid">
-        <title>Shajar Al Hoor Season 2 Episode 30</title>
-    </programme>
-    <programme start="20251123070500 +0000" stop="20251123080000 +0000" channel="387251.shahid">
-        <title>Leh Laa?!  </title>
-    </programme>
-    <programme start="20251123080000 +0000" stop="20251123085500 +0000" channel="387251.shahid">
-        <title>Al Hofra  </title>
-    </programme>
-    <programme start="20251123085500 +0000" stop="20251123090000 +0000" channel="387251.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20251123090000 +0000" stop="20251123100000 +0000" channel="387251.shahid">
-        <title>Al Kawn Fi Kaffa  </title>
-    </programme>
-    <programme start="20251123100000 +0000" stop="20251123110000 +0000" channel="387251.shahid">
-        <title>Al Asouf  </title>
-    </programme>
-    <programme start="20251123110000 +0000" stop="20251123114300 +0000" channel="387251.shahid">
-        <title>Habibati.. Man Takoun? Season 1 Episode 52</title>
-    </programme>
-    <programme start="20251123114300 +0000" stop="20251123115500 +0000" channel="387251.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20251123115500 +0000" stop="20251123124900 +0000" channel="387251.shahid">
-        <title>Al Oqab Wa Al Afra Season 1 Episode 13</title>
-    </programme>
-    <programme start="20251123124900 +0000" stop="20251123125500 +0000" channel="387251.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20251123125500 +0000" stop="20251123135500 +0000" channel="387251.shahid">
-        <title>Lo&#039;bat Hob  </title>
-    </programme>
-    <programme start="20251123135500 +0000" stop="20251123150000 +0000" channel="387251.shahid">
-        <title>Shajar Al Hoor Season 2 Episode 31</title>
-    </programme>
-    <programme start="20251123150000 +0000" stop="20251123160000 +0000" channel="387251.shahid">
-        <title>Leh Laa?!  </title>
-    </programme>
-    <programme start="20251123160000 +0000" stop="20251123170000 +0000" channel="387251.shahid">
-        <title>Al Kawn Fi Kaffa  </title>
-    </programme>
-    <programme start="20251123170000 +0000" stop="20251123175400 +0000" channel="387251.shahid">
-        <title>Al Hofra  </title>
-    </programme>
-    <programme start="20251123175400 +0000" stop="20251123180000 +0000" channel="387251.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20251123180000 +0000" stop="20251123190000 +0000" channel="387251.shahid">
-        <title>Al Asouf  </title>
-    </programme>
-    <programme start="20251123190000 +0000" stop="20251123194300 +0000" channel="387251.shahid">
-        <title>Habibati.. Man Takoun? Season 1 Episode 53</title>
-    </programme>
-    <programme start="20251123194300 +0000" stop="20251123195500 +0000" channel="387251.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20251123195500 +0000" stop="20251123204800 +0000" channel="387251.shahid">
-        <title>Al Oqab Wa Al Afra Season 1 Episode 14</title>
-    </programme>
-    <programme start="20251123204800 +0000" stop="20251123205500 +0000" channel="387251.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20251123205500 +0000" stop="20251123215100 +0000" channel="387251.shahid">
-        <title>Lo&#039;bat Hob  </title>
-    </programme>
-    <programme start="20251123215100 +0000" stop="20251123220000 +0000" channel="387251.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20251123220000 +0000" stop="20251123225500 +0000" channel="387251.shahid">
-        <title>Natihat Sahab  </title>
-    </programme>
-    <programme start="20251123225500 +0000" stop="20251123230000 +0000" channel="387251.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20251123230000 +0000" stop="20251123235300 +0000" channel="387251.shahid">
-        <title>Hadrat Al Mawqef  </title>
-    </programme>
-    <programme start="20251123235300 +0000" stop="20251123235959 +0000" channel="387251.shahid">
-        <title>TV guide is not available</title>
-    </programme>
     <programme start="20251122000000 +0000" stop="20251122003030 +0000" channel="963543.shahid">
         <title>Tash Ma Tash Season 17 Episode 10</title>
     </programme>
@@ -1163,6 +941,228 @@
         <title>Tash Ma Tash Season 4 Episode 21</title>
     </programme>
     <programme start="20251123233533 +0000" stop="20251123235959 +0000" channel="963543.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20251122000000 +0000" stop="20251122010000 +0000" channel="387251.shahid">
+        <title>Al Kawn Fi Kaffa  </title>
+    </programme>
+    <programme start="20251122010000 +0000" stop="20251122020000 +0000" channel="387251.shahid">
+        <title>Lo&#039;bat Hob  </title>
+    </programme>
+    <programme start="20251122020000 +0000" stop="20251122030000 +0000" channel="387251.shahid">
+        <title>Al Asouf  </title>
+    </programme>
+    <programme start="20251122030000 +0000" stop="20251122035500 +0000" channel="387251.shahid">
+        <title>Habibati.. Man Takoun? Season 1 Episode 51</title>
+    </programme>
+    <programme start="20251122035500 +0000" stop="20251122045500 +0000" channel="387251.shahid">
+        <title>Al Oqab Wa Al Afra Season 1 Episode 12</title>
+    </programme>
+    <programme start="20251122045500 +0000" stop="20251122055500 +0000" channel="387251.shahid">
+        <title>Al Hofra  </title>
+    </programme>
+    <programme start="20251122055500 +0000" stop="20251122070000 +0000" channel="387251.shahid">
+        <title>Shajar Al Hoor Season 2 Episode 29</title>
+    </programme>
+    <programme start="20251122070000 +0000" stop="20251122080000 +0000" channel="387251.shahid">
+        <title>Leh Laa?!  </title>
+    </programme>
+    <programme start="20251122080000 +0000" stop="20251122085300 +0000" channel="387251.shahid">
+        <title>Al Hofra  </title>
+    </programme>
+    <programme start="20251122085300 +0000" stop="20251122090000 +0000" channel="387251.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20251122090000 +0000" stop="20251122095300 +0000" channel="387251.shahid">
+        <title>Al Kawn Fi Kaffa  </title>
+    </programme>
+    <programme start="20251122095300 +0000" stop="20251122100000 +0000" channel="387251.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20251122100000 +0000" stop="20251122105500 +0000" channel="387251.shahid">
+        <title>Al Asouf  </title>
+    </programme>
+    <programme start="20251122105500 +0000" stop="20251122110000 +0000" channel="387251.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20251122110000 +0000" stop="20251122113900 +0000" channel="387251.shahid">
+        <title>Habibati.. Man Takoun? Season 1 Episode 51</title>
+    </programme>
+    <programme start="20251122113900 +0000" stop="20251122115500 +0000" channel="387251.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20251122115500 +0000" stop="20251122124700 +0000" channel="387251.shahid">
+        <title>Al Oqab Wa Al Afra Season 1 Episode 12</title>
+    </programme>
+    <programme start="20251122124700 +0000" stop="20251122125500 +0000" channel="387251.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20251122125500 +0000" stop="20251122135500 +0000" channel="387251.shahid">
+        <title>Lo&#039;bat Hob  </title>
+    </programme>
+    <programme start="20251122135500 +0000" stop="20251122150500 +0000" channel="387251.shahid">
+        <title>Shajar Al Hoor Season 2 Episode 30</title>
+    </programme>
+    <programme start="20251122150500 +0000" stop="20251122160000 +0000" channel="387251.shahid">
+        <title>Leh Laa?!  </title>
+    </programme>
+    <programme start="20251122160000 +0000" stop="20251122165400 +0000" channel="387251.shahid">
+        <title>Al Kawn Fi Kaffa  </title>
+    </programme>
+    <programme start="20251122165400 +0000" stop="20251122170000 +0000" channel="387251.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20251122170000 +0000" stop="20251122175400 +0000" channel="387251.shahid">
+        <title>Al Hofra  </title>
+    </programme>
+    <programme start="20251122175400 +0000" stop="20251122180000 +0000" channel="387251.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20251122180000 +0000" stop="20251122185500 +0000" channel="387251.shahid">
+        <title>Al Asouf  </title>
+    </programme>
+    <programme start="20251122185500 +0000" stop="20251122190000 +0000" channel="387251.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20251122190000 +0000" stop="20251122194100 +0000" channel="387251.shahid">
+        <title>Habibati.. Man Takoun? Season 1 Episode 52</title>
+    </programme>
+    <programme start="20251122194100 +0000" stop="20251122195500 +0000" channel="387251.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20251122195500 +0000" stop="20251122204700 +0000" channel="387251.shahid">
+        <title>Al Oqab Wa Al Afra Season 1 Episode 13</title>
+    </programme>
+    <programme start="20251122204700 +0000" stop="20251122205500 +0000" channel="387251.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20251122205500 +0000" stop="20251122214900 +0000" channel="387251.shahid">
+        <title>Lo&#039;bat Hob  </title>
+    </programme>
+    <programme start="20251122214900 +0000" stop="20251122215500 +0000" channel="387251.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20251122215500 +0000" stop="20251122230500 +0000" channel="387251.shahid">
+        <title>Shajar Al Hoor Season 2 Episode 30</title>
+    </programme>
+    <programme start="20251122230500 +0000" stop="20251123000000 +0000" channel="387251.shahid">
+        <title>Leh Laa?!  </title>
+    </programme>
+    <programme start="20251123000000 +0000" stop="20251123005400 +0000" channel="387251.shahid">
+        <title>Al Kawn Fi Kaffa  </title>
+    </programme>
+    <programme start="20251123005400 +0000" stop="20251123010000 +0000" channel="387251.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20251123010000 +0000" stop="20251123015400 +0000" channel="387251.shahid">
+        <title>Lo&#039;bat Hob  </title>
+    </programme>
+    <programme start="20251123015400 +0000" stop="20251123020000 +0000" channel="387251.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20251123020000 +0000" stop="20251123025500 +0000" channel="387251.shahid">
+        <title>Al Asouf  </title>
+    </programme>
+    <programme start="20251123025500 +0000" stop="20251123030000 +0000" channel="387251.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20251123030000 +0000" stop="20251123034100 +0000" channel="387251.shahid">
+        <title>Habibati.. Man Takoun? Season 1 Episode 52</title>
+    </programme>
+    <programme start="20251123034100 +0000" stop="20251123035500 +0000" channel="387251.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20251123035500 +0000" stop="20251123044700 +0000" channel="387251.shahid">
+        <title>Al Oqab Wa Al Afra Season 1 Episode 13</title>
+    </programme>
+    <programme start="20251123044700 +0000" stop="20251123045500 +0000" channel="387251.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20251123045500 +0000" stop="20251123054900 +0000" channel="387251.shahid">
+        <title>Al Hofra  </title>
+    </programme>
+    <programme start="20251123054900 +0000" stop="20251123055500 +0000" channel="387251.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20251123055500 +0000" stop="20251123070500 +0000" channel="387251.shahid">
+        <title>Shajar Al Hoor Season 2 Episode 30</title>
+    </programme>
+    <programme start="20251123070500 +0000" stop="20251123080000 +0000" channel="387251.shahid">
+        <title>Leh Laa?!  </title>
+    </programme>
+    <programme start="20251123080000 +0000" stop="20251123085500 +0000" channel="387251.shahid">
+        <title>Al Hofra  </title>
+    </programme>
+    <programme start="20251123085500 +0000" stop="20251123090000 +0000" channel="387251.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20251123090000 +0000" stop="20251123100000 +0000" channel="387251.shahid">
+        <title>Al Kawn Fi Kaffa  </title>
+    </programme>
+    <programme start="20251123100000 +0000" stop="20251123110000 +0000" channel="387251.shahid">
+        <title>Al Asouf  </title>
+    </programme>
+    <programme start="20251123110000 +0000" stop="20251123114300 +0000" channel="387251.shahid">
+        <title>Habibati.. Man Takoun? Season 1 Episode 52</title>
+    </programme>
+    <programme start="20251123114300 +0000" stop="20251123115500 +0000" channel="387251.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20251123115500 +0000" stop="20251123124900 +0000" channel="387251.shahid">
+        <title>Al Oqab Wa Al Afra Season 1 Episode 13</title>
+    </programme>
+    <programme start="20251123124900 +0000" stop="20251123125500 +0000" channel="387251.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20251123125500 +0000" stop="20251123135500 +0000" channel="387251.shahid">
+        <title>Lo&#039;bat Hob  </title>
+    </programme>
+    <programme start="20251123135500 +0000" stop="20251123150000 +0000" channel="387251.shahid">
+        <title>Shajar Al Hoor Season 2 Episode 31</title>
+    </programme>
+    <programme start="20251123150000 +0000" stop="20251123160000 +0000" channel="387251.shahid">
+        <title>Leh Laa?!  </title>
+    </programme>
+    <programme start="20251123160000 +0000" stop="20251123170000 +0000" channel="387251.shahid">
+        <title>Al Kawn Fi Kaffa  </title>
+    </programme>
+    <programme start="20251123170000 +0000" stop="20251123175400 +0000" channel="387251.shahid">
+        <title>Al Hofra  </title>
+    </programme>
+    <programme start="20251123175400 +0000" stop="20251123180000 +0000" channel="387251.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20251123180000 +0000" stop="20251123190000 +0000" channel="387251.shahid">
+        <title>Al Asouf  </title>
+    </programme>
+    <programme start="20251123190000 +0000" stop="20251123194300 +0000" channel="387251.shahid">
+        <title>Habibati.. Man Takoun? Season 1 Episode 53</title>
+    </programme>
+    <programme start="20251123194300 +0000" stop="20251123195500 +0000" channel="387251.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20251123195500 +0000" stop="20251123204800 +0000" channel="387251.shahid">
+        <title>Al Oqab Wa Al Afra Season 1 Episode 14</title>
+    </programme>
+    <programme start="20251123204800 +0000" stop="20251123205500 +0000" channel="387251.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20251123205500 +0000" stop="20251123215100 +0000" channel="387251.shahid">
+        <title>Lo&#039;bat Hob  </title>
+    </programme>
+    <programme start="20251123215100 +0000" stop="20251123220000 +0000" channel="387251.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20251123220000 +0000" stop="20251123225500 +0000" channel="387251.shahid">
+        <title>Natihat Sahab  </title>
+    </programme>
+    <programme start="20251123225500 +0000" stop="20251123230000 +0000" channel="387251.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20251123230000 +0000" stop="20251123235300 +0000" channel="387251.shahid">
+        <title>Hadrat Al Mawqef  </title>
+    </programme>
+    <programme start="20251123235300 +0000" stop="20251123235959 +0000" channel="387251.shahid">
         <title>TV guide is not available</title>
     </programme>
     <programme start="20251122000000 +0000" stop="20251123235959 +0000" channel="49922763510387.shahid">
@@ -2683,6 +2683,234 @@
     <programme start="20251122000000 +0000" stop="20251123235959 +0000" channel="946938.shahid">
         <title>TV guide is not available</title>
     </programme>
+    <programme start="20251122000000 +0000" stop="20251122002853 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 19</title>
+    </programme>
+    <programme start="20251122002853 +0000" stop="20251122010433 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 20</title>
+    </programme>
+    <programme start="20251122010433 +0000" stop="20251122014605 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 11</title>
+    </programme>
+    <programme start="20251122014605 +0000" stop="20251122022838 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 12</title>
+    </programme>
+    <programme start="20251122022838 +0000" stop="20251122030959 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 13</title>
+    </programme>
+    <programme start="20251122030959 +0000" stop="20251122035217 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 14</title>
+    </programme>
+    <programme start="20251122035217 +0000" stop="20251122043218 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 15</title>
+    </programme>
+    <programme start="20251122043218 +0000" stop="20251122051428 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 16</title>
+    </programme>
+    <programme start="20251122051428 +0000" stop="20251122055216 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 17</title>
+    </programme>
+    <programme start="20251122055216 +0000" stop="20251122062748 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 18</title>
+    </programme>
+    <programme start="20251122062748 +0000" stop="20251122070526 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 19</title>
+    </programme>
+    <programme start="20251122070526 +0000" stop="20251122074130 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 20</title>
+    </programme>
+    <programme start="20251122074130 +0000" stop="20251122082354 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 14</title>
+    </programme>
+    <programme start="20251122082354 +0000" stop="20251122090350 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 15</title>
+    </programme>
+    <programme start="20251122090350 +0000" stop="20251122094625 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 16</title>
+    </programme>
+    <programme start="20251122094625 +0000" stop="20251122102428 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 17</title>
+    </programme>
+    <programme start="20251122102428 +0000" stop="20251122105950 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 18</title>
+    </programme>
+    <programme start="20251122105950 +0000" stop="20251122113728 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 19</title>
+    </programme>
+    <programme start="20251122113728 +0000" stop="20251122121353 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 20</title>
+    </programme>
+    <programme start="20251122121353 +0000" stop="20251122125050 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 21</title>
+    </programme>
+    <programme start="20251122125050 +0000" stop="20251122132824 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 22</title>
+    </programme>
+    <programme start="20251122132824 +0000" stop="20251122140453 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 23</title>
+    </programme>
+    <programme start="20251122140453 +0000" stop="20251122144106 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 24</title>
+    </programme>
+    <programme start="20251122144106 +0000" stop="20251122151456 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 25</title>
+    </programme>
+    <programme start="20251122151456 +0000" stop="20251122155044 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 26</title>
+    </programme>
+    <programme start="20251122155044 +0000" stop="20251122162540 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 27</title>
+    </programme>
+    <programme start="20251122162540 +0000" stop="20251122170525 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 28</title>
+    </programme>
+    <programme start="20251122170525 +0000" stop="20251122174441 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 29</title>
+    </programme>
+    <programme start="20251122174441 +0000" stop="20251122182657 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 30</title>
+    </programme>
+    <programme start="20251122182657 +0000" stop="20251122190409 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 21</title>
+    </programme>
+    <programme start="20251122190409 +0000" stop="20251122194153 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 22</title>
+    </programme>
+    <programme start="20251122194153 +0000" stop="20251122201746 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 23</title>
+    </programme>
+    <programme start="20251122201746 +0000" stop="20251122205419 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 24</title>
+    </programme>
+    <programme start="20251122205419 +0000" stop="20251122212815 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 25</title>
+    </programme>
+    <programme start="20251122212815 +0000" stop="20251122220353 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 26</title>
+    </programme>
+    <programme start="20251122220353 +0000" stop="20251122223854 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 27</title>
+    </programme>
+    <programme start="20251122223854 +0000" stop="20251122231834 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 28</title>
+    </programme>
+    <programme start="20251122231834 +0000" stop="20251122235730 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 29</title>
+    </programme>
+    <programme start="20251122235730 +0000" stop="20251123003945 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 30</title>
+    </programme>
+    <programme start="20251123003945 +0000" stop="20251123011659 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 21</title>
+    </programme>
+    <programme start="20251123011659 +0000" stop="20251123015412 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 22</title>
+    </programme>
+    <programme start="20251123015412 +0000" stop="20251123023035 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 23</title>
+    </programme>
+    <programme start="20251123023035 +0000" stop="20251123030718 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 24</title>
+    </programme>
+    <programme start="20251123030718 +0000" stop="20251123034114 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 25</title>
+    </programme>
+    <programme start="20251123034114 +0000" stop="20251123041657 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 26</title>
+    </programme>
+    <programme start="20251123041657 +0000" stop="20251123045143 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 27</title>
+    </programme>
+    <programme start="20251123045143 +0000" stop="20251123053113 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 28</title>
+    </programme>
+    <programme start="20251123053113 +0000" stop="20251123061035 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 29</title>
+    </programme>
+    <programme start="20251123061035 +0000" stop="20251123065310 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 30</title>
+    </programme>
+    <programme start="20251123065310 +0000" stop="20251123072937 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 23</title>
+    </programme>
+    <programme start="20251123072937 +0000" stop="20251123080600 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 24</title>
+    </programme>
+    <programme start="20251123080600 +0000" stop="20251123083952 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 25</title>
+    </programme>
+    <programme start="20251123083952 +0000" stop="20251123091524 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 26</title>
+    </programme>
+    <programme start="20251123091524 +0000" stop="20251123095040 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 27</title>
+    </programme>
+    <programme start="20251123095040 +0000" stop="20251123103010 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 28</title>
+    </programme>
+    <programme start="20251123103010 +0000" stop="20251123110932 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 29</title>
+    </programme>
+    <programme start="20251123110932 +0000" stop="20251123115222 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 30</title>
+    </programme>
+    <programme start="20251123115222 +0000" stop="20251123122931 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba Season 1 Episode 1</title>
+    </programme>
+    <programme start="20251123122931 +0000" stop="20251123130801 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba Season 1 Episode 2</title>
+    </programme>
+    <programme start="20251123130801 +0000" stop="20251123134732 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba Season 1 Episode 3</title>
+    </programme>
+    <programme start="20251123134732 +0000" stop="20251123142551 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba Season 1 Episode 4</title>
+    </programme>
+    <programme start="20251123142551 +0000" stop="20251123150522 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba Season 1 Episode 5</title>
+    </programme>
+    <programme start="20251123150522 +0000" stop="20251123154305 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba Season 1 Episode 6</title>
+    </programme>
+    <programme start="20251123154305 +0000" stop="20251123162042 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba Season 1 Episode 7</title>
+    </programme>
+    <programme start="20251123162042 +0000" stop="20251123170012 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba Season 1 Episode 8</title>
+    </programme>
+    <programme start="20251123170012 +0000" stop="20251123173741 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba Season 1 Episode 9</title>
+    </programme>
+    <programme start="20251123173741 +0000" stop="20251123181638 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba Season 1 Episode 10</title>
+    </programme>
+    <programme start="20251123181638 +0000" stop="20251123185407 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba Season 1 Episode 1</title>
+    </programme>
+    <programme start="20251123185407 +0000" stop="20251123193253 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba Season 1 Episode 2</title>
+    </programme>
+    <programme start="20251123193253 +0000" stop="20251123201159 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba Season 1 Episode 3</title>
+    </programme>
+    <programme start="20251123201159 +0000" stop="20251123205013 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba Season 1 Episode 4</title>
+    </programme>
+    <programme start="20251123205013 +0000" stop="20251123212938 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba Season 1 Episode 5</title>
+    </programme>
+    <programme start="20251123212938 +0000" stop="20251123220702 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba Season 1 Episode 6</title>
+    </programme>
+    <programme start="20251123220702 +0000" stop="20251123224442 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba Season 1 Episode 7</title>
+    </programme>
+    <programme start="20251123224442 +0000" stop="20251123232358 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba Season 1 Episode 8</title>
+    </programme>
+    <programme start="20251123232358 +0000" stop="20251123235959 +0000" channel="992538.shahid">
+        <title>TV guide is not available</title>
+    </programme>
     <programme start="20251122000000 +0000" stop="20251122003000 +0000" channel="387294.shahid">
         <title>Bank Al Thaqafa Season 1 Episode 5</title>
     </programme>
@@ -2942,234 +3170,6 @@
         <title>2024 Season 2 Episode 15</title>
     </programme>
     <programme start="20251123234800 +0000" stop="20251123235959 +0000" channel="387294.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20251122000000 +0000" stop="20251122002853 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 19</title>
-    </programme>
-    <programme start="20251122002853 +0000" stop="20251122010433 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 20</title>
-    </programme>
-    <programme start="20251122010433 +0000" stop="20251122014605 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 11</title>
-    </programme>
-    <programme start="20251122014605 +0000" stop="20251122022838 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 12</title>
-    </programme>
-    <programme start="20251122022838 +0000" stop="20251122030959 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 13</title>
-    </programme>
-    <programme start="20251122030959 +0000" stop="20251122035217 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 14</title>
-    </programme>
-    <programme start="20251122035217 +0000" stop="20251122043218 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 15</title>
-    </programme>
-    <programme start="20251122043218 +0000" stop="20251122051428 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 16</title>
-    </programme>
-    <programme start="20251122051428 +0000" stop="20251122055216 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 17</title>
-    </programme>
-    <programme start="20251122055216 +0000" stop="20251122062748 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 18</title>
-    </programme>
-    <programme start="20251122062748 +0000" stop="20251122070526 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 19</title>
-    </programme>
-    <programme start="20251122070526 +0000" stop="20251122074130 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 20</title>
-    </programme>
-    <programme start="20251122074130 +0000" stop="20251122082354 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 14</title>
-    </programme>
-    <programme start="20251122082354 +0000" stop="20251122090350 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 15</title>
-    </programme>
-    <programme start="20251122090350 +0000" stop="20251122094625 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 16</title>
-    </programme>
-    <programme start="20251122094625 +0000" stop="20251122102428 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 17</title>
-    </programme>
-    <programme start="20251122102428 +0000" stop="20251122105950 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 18</title>
-    </programme>
-    <programme start="20251122105950 +0000" stop="20251122113728 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 19</title>
-    </programme>
-    <programme start="20251122113728 +0000" stop="20251122121353 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 20</title>
-    </programme>
-    <programme start="20251122121353 +0000" stop="20251122125050 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 21</title>
-    </programme>
-    <programme start="20251122125050 +0000" stop="20251122132824 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 22</title>
-    </programme>
-    <programme start="20251122132824 +0000" stop="20251122140453 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 23</title>
-    </programme>
-    <programme start="20251122140453 +0000" stop="20251122144106 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 24</title>
-    </programme>
-    <programme start="20251122144106 +0000" stop="20251122151456 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 25</title>
-    </programme>
-    <programme start="20251122151456 +0000" stop="20251122155044 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 26</title>
-    </programme>
-    <programme start="20251122155044 +0000" stop="20251122162540 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 27</title>
-    </programme>
-    <programme start="20251122162540 +0000" stop="20251122170525 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 28</title>
-    </programme>
-    <programme start="20251122170525 +0000" stop="20251122174441 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 29</title>
-    </programme>
-    <programme start="20251122174441 +0000" stop="20251122182657 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 30</title>
-    </programme>
-    <programme start="20251122182657 +0000" stop="20251122190409 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 21</title>
-    </programme>
-    <programme start="20251122190409 +0000" stop="20251122194153 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 22</title>
-    </programme>
-    <programme start="20251122194153 +0000" stop="20251122201746 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 23</title>
-    </programme>
-    <programme start="20251122201746 +0000" stop="20251122205419 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 24</title>
-    </programme>
-    <programme start="20251122205419 +0000" stop="20251122212815 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 25</title>
-    </programme>
-    <programme start="20251122212815 +0000" stop="20251122220353 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 26</title>
-    </programme>
-    <programme start="20251122220353 +0000" stop="20251122223854 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 27</title>
-    </programme>
-    <programme start="20251122223854 +0000" stop="20251122231834 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 28</title>
-    </programme>
-    <programme start="20251122231834 +0000" stop="20251122235730 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 29</title>
-    </programme>
-    <programme start="20251122235730 +0000" stop="20251123003945 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 30</title>
-    </programme>
-    <programme start="20251123003945 +0000" stop="20251123011659 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 21</title>
-    </programme>
-    <programme start="20251123011659 +0000" stop="20251123015412 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 22</title>
-    </programme>
-    <programme start="20251123015412 +0000" stop="20251123023035 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 23</title>
-    </programme>
-    <programme start="20251123023035 +0000" stop="20251123030718 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 24</title>
-    </programme>
-    <programme start="20251123030718 +0000" stop="20251123034114 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 25</title>
-    </programme>
-    <programme start="20251123034114 +0000" stop="20251123041657 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 26</title>
-    </programme>
-    <programme start="20251123041657 +0000" stop="20251123045143 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 27</title>
-    </programme>
-    <programme start="20251123045143 +0000" stop="20251123053113 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 28</title>
-    </programme>
-    <programme start="20251123053113 +0000" stop="20251123061035 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 29</title>
-    </programme>
-    <programme start="20251123061035 +0000" stop="20251123065310 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 30</title>
-    </programme>
-    <programme start="20251123065310 +0000" stop="20251123072937 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 23</title>
-    </programme>
-    <programme start="20251123072937 +0000" stop="20251123080600 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 24</title>
-    </programme>
-    <programme start="20251123080600 +0000" stop="20251123083952 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 25</title>
-    </programme>
-    <programme start="20251123083952 +0000" stop="20251123091524 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 26</title>
-    </programme>
-    <programme start="20251123091524 +0000" stop="20251123095040 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 27</title>
-    </programme>
-    <programme start="20251123095040 +0000" stop="20251123103010 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 28</title>
-    </programme>
-    <programme start="20251123103010 +0000" stop="20251123110932 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 29</title>
-    </programme>
-    <programme start="20251123110932 +0000" stop="20251123115222 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 30</title>
-    </programme>
-    <programme start="20251123115222 +0000" stop="20251123122931 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba Season 1 Episode 1</title>
-    </programme>
-    <programme start="20251123122931 +0000" stop="20251123130801 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba Season 1 Episode 2</title>
-    </programme>
-    <programme start="20251123130801 +0000" stop="20251123134732 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba Season 1 Episode 3</title>
-    </programme>
-    <programme start="20251123134732 +0000" stop="20251123142551 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba Season 1 Episode 4</title>
-    </programme>
-    <programme start="20251123142551 +0000" stop="20251123150522 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba Season 1 Episode 5</title>
-    </programme>
-    <programme start="20251123150522 +0000" stop="20251123154305 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba Season 1 Episode 6</title>
-    </programme>
-    <programme start="20251123154305 +0000" stop="20251123162042 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba Season 1 Episode 7</title>
-    </programme>
-    <programme start="20251123162042 +0000" stop="20251123170012 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba Season 1 Episode 8</title>
-    </programme>
-    <programme start="20251123170012 +0000" stop="20251123173741 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba Season 1 Episode 9</title>
-    </programme>
-    <programme start="20251123173741 +0000" stop="20251123181638 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba Season 1 Episode 10</title>
-    </programme>
-    <programme start="20251123181638 +0000" stop="20251123185407 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba Season 1 Episode 1</title>
-    </programme>
-    <programme start="20251123185407 +0000" stop="20251123193253 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba Season 1 Episode 2</title>
-    </programme>
-    <programme start="20251123193253 +0000" stop="20251123201159 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba Season 1 Episode 3</title>
-    </programme>
-    <programme start="20251123201159 +0000" stop="20251123205013 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba Season 1 Episode 4</title>
-    </programme>
-    <programme start="20251123205013 +0000" stop="20251123212938 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba Season 1 Episode 5</title>
-    </programme>
-    <programme start="20251123212938 +0000" stop="20251123220702 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba Season 1 Episode 6</title>
-    </programme>
-    <programme start="20251123220702 +0000" stop="20251123224442 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba Season 1 Episode 7</title>
-    </programme>
-    <programme start="20251123224442 +0000" stop="20251123232358 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba Season 1 Episode 8</title>
-    </programme>
-    <programme start="20251123232358 +0000" stop="20251123235959 +0000" channel="992538.shahid">
         <title>TV guide is not available</title>
     </programme>
     <programme start="20251122000000 +0000" stop="20251123235959 +0000" channel="946945.shahid">
