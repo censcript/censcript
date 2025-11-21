@@ -110,49 +110,52 @@
 <title>My Comic Boyfriend</title>
 </programme>
 <programme start="20251121170000 +0000" stop="20251121190000 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<title>Suparman Reborn</title>
 </programme>
 <programme start="20251121190000 +0000" stop="20251121210000 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<title>Suparman Reborn 2</title>
 </programme>
 <programme start="20251121210000 +0000" stop="20251121220000 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<title>Lintas iNews Pagi</title>
 </programme>
 <programme start="20251121220000 +0000" stop="20251121231500 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<title>Siraman Qolbu</title>
 </programme>
 <programme start="20251121231500 +0000" stop="20251121234500 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<title>Thomas &amp; Friends</title>
 </programme>
 <programme start="20251121234500 +0000" stop="20251122001500 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<title>Zak Storm</title>
 </programme>
 <programme start="20251122001500 +0000" stop="20251122004500 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<title>Kung Fu Panda Sang Pendekar</title>
 </programme>
 <programme start="20251122004500 +0000" stop="20251122010000 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<title>Pada Zaman Dahulu</title>
 </programme>
 <programme start="20251122010000 +0000" stop="20251122013000 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<title>Simple Rudy</title>
 </programme>
-<programme start="20251122013000 +0000" stop="20251122043000 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<programme start="20251122013000 +0000" stop="20251122020000 +0000" channel="MNCTV.vision">
+<title>Dapur Ngebor</title>
+</programme>
+<programme start="20251122020000 +0000" stop="20251122043000 +0000" channel="MNCTV.vision">
+<title>Upin dan Ipin (MNCTV)</title>
 </programme>
 <programme start="20251122043000 +0000" stop="20251122063000 +0000" channel="MNCTV.vision">
 <title>MNC TV</title>
 </programme>
-<programme start="20251122063000 +0000" stop="20251122080000 +0000" channel="MNCTV.vision">
+<programme start="20251122063000 +0000" stop="20251122093000 +0000" channel="MNCTV.vision">
 <title>MNC TV</title>
 </programme>
-<programme start="20251122080000 +0000" stop="20251122100000 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<programme start="20251122093000 +0000" stop="20251122100000 +0000" channel="MNCTV.vision">
+<title>Upin &amp; Ipin</title>
 </programme>
 <programme start="20251122100000 +0000" stop="20251122113000 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<title>Upin &amp; Ipin</title>
 </programme>
 <programme start="20251122113000 +0000" stop="20251122123000 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<title>Entong</title>
 </programme>
 <programme start="20251120230000 +0000" stop="20251121003000 +0000" channel="GTV.vision">
 <title>SpongeBob SquarePants</title>
@@ -179,7 +182,7 @@
 <title>New Family 100 (GTV)</title>
 </programme>
 <programme start="20251121123000 +0000" stop="20251121140000 +0000" channel="GTV.vision">
-<title>Fighter</title>
+<title>Distortion</title>
 </programme>
 <programme start="20251121140000 +0000" stop="20251121153000 +0000" channel="GTV.vision">
 <title>Master So Dragon Subduing Palms</title>
@@ -188,49 +191,46 @@
 <title>GTV</title>
 </programme>
 <programme start="20251121170000 +0000" stop="20251121180000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<title>Jelajah Mitos</title>
 </programme>
-<programme start="20251121180000 +0000" stop="20251121203000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<programme start="20251121180000 +0000" stop="20251121190000 +0000" channel="GTV.vision">
+<title>Crime KV</title>
 </programme>
-<programme start="20251121203000 +0000" stop="20251121213000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<programme start="20251121190000 +0000" stop="20251121200000 +0000" channel="GTV.vision">
+<title>Naik Enak Turun Ogah</title>
 </programme>
-<programme start="20251121213000 +0000" stop="20251121230000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<programme start="20251121200000 +0000" stop="20251121220000 +0000" channel="GTV.vision">
+<title>Awas Ada Sule</title>
 </programme>
-<programme start="20251121230000 +0000" stop="20251122003000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<programme start="20251121220000 +0000" stop="20251121231500 +0000" channel="GTV.vision">
+<title>Kisah Viral</title>
 </programme>
-<programme start="20251122003000 +0000" stop="20251122013000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<programme start="20251121231500 +0000" stop="20251121234500 +0000" channel="GTV.vision">
+<title>BIMA-S</title>
 </programme>
-<programme start="20251122013000 +0000" stop="20251122020000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<programme start="20251121234500 +0000" stop="20251122013000 +0000" channel="GTV.vision">
+<title>SpongeBob SquarePants</title>
 </programme>
-<programme start="20251122020000 +0000" stop="20251122040000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<programme start="20251122013000 +0000" stop="20251122050000 +0000" channel="GTV.vision">
+<title>Spongebob Squarepants (GTV)</title>
 </programme>
-<programme start="20251122040000 +0000" stop="20251122070000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<programme start="20251122050000 +0000" stop="20251122070000 +0000" channel="GTV.vision">
+<title>Zak Storm</title>
 </programme>
-<programme start="20251122070000 +0000" stop="20251122080000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<programme start="20251122070000 +0000" stop="20251122074500 +0000" channel="GTV.vision">
+<title>Bleach: Bloodstained Horizon</title>
 </programme>
-<programme start="20251122080000 +0000" stop="20251122090000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<programme start="20251122074500 +0000" stop="20251122083000 +0000" channel="GTV.vision">
+<title>Kids Mini Soccer Competition</title>
 </programme>
-<programme start="20251122090000 +0000" stop="20251122093000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<programme start="20251122083000 +0000" stop="20251122093000 +0000" channel="GTV.vision">
+<title>Bernard Bear</title>
 </programme>
 <programme start="20251122093000 +0000" stop="20251122110000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<title>SpongeBob SquarePants</title>
 </programme>
-<programme start="20251122110000 +0000" stop="20251122111500 +0000" channel="GTV.vision">
-<title>GTV</title>
-</programme>
-<programme start="20251122111500 +0000" stop="20251122123000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<programme start="20251120110000 +0000" stop="20251120123000 +0000" channel="GTV.vision">
+<title>New Family 100 (GTV)</title>
 </programme>
 <programme start="20251121000000 +0000" stop="20251121010000 +0000" channel="iNews.vision">
 <title>Morning Update</title>
@@ -527,7 +527,7 @@
 <title>Brownis On The Weekend</title>
 </programme>
 <programme start="20251122070000 +0000" stop="20251122080000 +0000" channel="Trans TV.vision">
-<title>Rumpi: No Secret</title>
+<title>Rumpi Hot Of The Week</title>
 </programme>
 <programme start="20251122080000 +0000" stop="20251122091500 +0000" channel="Trans TV.vision">
 <title>Insert Investigasi</title>

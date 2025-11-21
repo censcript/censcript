@@ -571,7 +571,7 @@
     <programme start="20251121150000 +0000" stop="20251121160000 +0000" channel="CNA.mewatch">
         <title>Insight - EP 15</title>
     </programme>
-    <programme start="20251121160000 +0000" stop="20251121220000 +0000" channel="CNA.mewatch">
+    <programme start="20251121160000 +0000" stop="20251121160300 +0000" channel="CNA.mewatch">
         <title>Headline News</title>
     </programme>
     <programme start="20251120160000 +0000" stop="20251121040000 +0000" channel="Oktolidays.mewatch">
