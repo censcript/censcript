@@ -679,9 +679,6 @@
 <programme start="20251121010000 +0000" stop="20251121030000 +0000" channel="ANTV.vision">
 <title>Mangal Lakshmi</title>
 </programme>
-<programme start="20251121030000 +0000" stop="20251121063000 +0000" channel="ANTV.vision">
-<title>Hanu Man</title>
-</programme>
 <programme start="20251121063000 +0000" stop="20251121080000 +0000" channel="ANTV.vision">
 <title>Cinta Keluarga Pandya</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20251121230300 +0000" stop="20251122003000 +0000" channel="BTV.vision">
 <title>Jalan Dakwah</title>
+</programme>
+<programme start="20251122003000 +0000" stop="20251122011500 +0000" channel="BTV.vision">
+<title>Figur Publik</title>
 </programme>
