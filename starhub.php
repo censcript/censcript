@@ -2078,7 +2078,7 @@
         <title>Quest Means Business</title>
     </programme>
     <programme start="20251120220000 +0000" stop="20251120223000 +0000" channel="CNN HD.starhub">
-        <title>Lead with Jake Tapper (30m), The</title>
+        <title>The Lead with Jake Tapper (30m)</title>
     </programme>
     <programme start="20251120223000 +0000" stop="20251120230000 +0000" channel="CNN HD.starhub">
         <title>World Sport</title>
