@@ -2662,7 +2662,7 @@
 <programme start="20251122153000 +0000" stop="20251122155000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Es folgt Live Admiral Bundesliga</title>
 </programme>
-<programme start="20251122155000 +0000" stop="20251122180000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+<programme start="20251122155000 +0000" stop="20251122181500 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live Admiral BL: TSV Egger Glas Hartberg - SV Oberbank Ried, 14. Runde</title>
 </programme>
 <programme start="20251121231500 +0000" stop="20251122000000 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -2758,7 +2758,7 @@
 <programme start="20251122141500 +0000" stop="20251122164500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: Borussia Dortmund - VfB Stuttgart, 11. Spieltag</title>
 </programme>
-<programme start="20251122164500 +0000" stop="20251122201500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
+<programme start="20251122164500 +0000" stop="20251122203000 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: 1. FC Köln - Eintracht Frankfurt, tipico Topspiel der Woche, 11. Spieltag</title>
 </programme>
 <programme start="20251122111000 +0000" stop="20251122113000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
@@ -2782,7 +2782,7 @@
 <programme start="20251122190000 +0000" stop="20251122220000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Live 2. BL: SV Darmstadt 98 - SpVgg Greuther Fürth, tipico Topspiel der Woche, 13. Spieltag</title>
 </programme>
-<programme start="20251122220000 +0000" stop="20251122230000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+<programme start="20251122220000 +0000" stop="20251122231500 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 13. Spieltag, Samstag komplett</title>
 </programme>
 <programme start="20251122111000 +0000" stop="20251122113000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
@@ -2854,8 +2854,11 @@
 <programme start="20251122021000 +0000" stop="20251122030000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Live F1 Academy: 1. Rennen - GP Las Vegas</title>
 </programme>
-<programme start="20251122030000 +0000" stop="20251122032500 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20251122030000 +0000" stop="20251122031500 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Maranello - Auf den Spuren von Michael Schumacher</title>
+</programme>
+<programme start="20251122031500 +0000" stop="20251122034500 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>F1: Best of: Sky Next Generation GP Singapur</title>
 </programme>
 <programme start="20251122034500 +0000" stop="20251122053000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Live F1: Qualifying - GP Las Vegas</title>
