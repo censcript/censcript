@@ -70,10 +70,6 @@
     <title>Football: PAOK - KA Akureyri U19</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251122100000 +0700" stop="20251122120000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Lecce - Hellas Verona</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251122120000 +0700" stop="20251122141000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Panetolikos - AEL Novibet</title>
     <desc>Live: Tidak</desc>
@@ -142,12 +138,8 @@
     <title>Football: SSC Napoli - Atalanta</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251122110000 +0700" stop="20251122113000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Copa Sudamericana 2025 - Highlights</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251122113000 +0700" stop="20251122120000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Copa Sudamericana 2025 - Highlights</title>
+<programme start="20251123120000 +0700" stop="20251123135500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Cagliari - Genoa</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251122120000 +0700" stop="20251122152000 +0700" channel="COSMOTE Sport 3 HD">
@@ -370,8 +362,8 @@
     <title>DTM 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251122103000 +0700" stop="20251122113000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Premier Padel Tour 2025 - Highlights</title>
+<programme start="20251123122500 +0700" stop="20251123141000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>DTM 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251122113000 +0700" stop="20251122123000 +0700" channel="COSMOTE Sport 6 HD">
@@ -451,6 +443,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251123113000 +0700" stop="20251123123000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Beach Volley: 2025 FIVB Beach Volleyball World Championships (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
+<programme start="20251123123000 +0700" stop="20251123133500 +0700" channel="COSMOTE Sport 6 HD">
     <title>Beach Volley: 2025 FIVB Beach Volleyball World Championships (L)</title>
     <desc>Live: Ya</desc>
 </programme>
