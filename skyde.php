@@ -2797,7 +2797,7 @@
 <programme start="20251122141500 +0000" stop="20251122164500 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live BL: VfL Wolfsburg - Bayer Leverkusen, 11. Spieltag</title>
 </programme>
-<programme start="20251122164500 +0000" stop="20251122201500 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
+<programme start="20251122164500 +0000" stop="20251122203000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live BL: Tactical Feed: KOE - SGE, 11. Spieltag</title>
 </programme>
 <programme start="20251122111000 +0000" stop="20251122113000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
@@ -2809,7 +2809,7 @@
 <programme start="20251122140000 +0000" stop="20251122141500 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live BL: FCA - HSV: tipico Countdown, 11. Spieltag</title>
 </programme>
-<programme start="20251122141500 +0000" stop="20251122164500 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
+<programme start="20251122141500 +0000" stop="20251122170000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live BL: FC Augsburg - Hamburger SV, 11. Spieltag</title>
 </programme>
 <programme start="20251122111000 +0000" stop="20251122113000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
@@ -2821,7 +2821,7 @@
 <programme start="20251122140000 +0000" stop="20251122141500 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Live BL: FCH - BMG: tipico Countdown, 11. Spieltag</title>
 </programme>
-<programme start="20251122141500 +0000" stop="20251122164500 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
+<programme start="20251122141500 +0000" stop="20251122170000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Live BL: 1. FC Heidenheim - Borussia M&#039;gladbach, 11. Spieltag</title>
 </programme>
 <programme start="20251122111000 +0000" stop="20251122113000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
@@ -2839,7 +2839,7 @@
 <programme start="20251122113000 +0000" stop="20251122140000 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
     <title>Live 2. BL: Samstags-Konferenz, 13. Spieltag</title>
 </programme>
-<programme start="20251122140000 +0000" stop="20251122144500 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
+<programme start="20251122140000 +0000" stop="20251122150000 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
     <title>Live 2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 13. Spieltag, Samstag</title>
 </programme>
 <programme start="20251122000000 +0000" stop="20251122001500 +0000" channel="Sky Sport F1 HD.skyde">
@@ -2854,11 +2854,8 @@
 <programme start="20251122021000 +0000" stop="20251122030000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Live F1 Academy: 1. Rennen - GP Las Vegas</title>
 </programme>
-<programme start="20251122030000 +0000" stop="20251122031500 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20251122030000 +0000" stop="20251122032500 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Maranello - Auf den Spuren von Michael Schumacher</title>
-</programme>
-<programme start="20251122031500 +0000" stop="20251122034500 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>F1: Best of: Sky Next Generation GP Singapur</title>
 </programme>
 <programme start="20251122034500 +0000" stop="20251122053000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Live F1: Qualifying - GP Las Vegas</title>
@@ -3370,7 +3367,7 @@
 <programme start="20251122180000 +0000" stop="20251122203000 +0000" channel="Sky Sport 4 HD.skyde">
     <title>Live NHL: Columbus Blue Jackets @ Detroit Red Wings</title>
 </programme>
-<programme start="20251122203000 +0000" stop="20251122233000 +0000" channel="Sky Sport 4 HD.skyde">
+<programme start="20251122203000 +0000" stop="20251123013000 +0000" channel="Sky Sport 4 HD.skyde">
     <title>Live NHL: St. Louis Blues @ New York Islanders</title>
 </programme>
 <programme start="20251121230500 +0000" stop="20251121235000 +0000" channel="SYFY HD.skyde">
