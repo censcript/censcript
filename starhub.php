@@ -2840,82 +2840,82 @@
         <title>BUSINESS OUTLOOK</title>
     </programme>
     <programme start="20251121233000 +0000" stop="20251122003000 +0000" channel="ANC.starhub">
-        <title>METABEATS</title>
+        <title>Metabeats</title>
     </programme>
     <programme start="20251122003000 +0000" stop="20251122010000 +0000" channel="ANC.starhub">
-        <title>MADE IN GERMANY</title>
+        <title>Made In Germany</title>
     </programme>
     <programme start="20251122010000 +0000" stop="20251122013000 +0000" channel="ANC.starhub">
-        <title>MARKET EDGE</title>
+        <title>Market Edge</title>
     </programme>
     <programme start="20251122013000 +0000" stop="20251122020000 +0000" channel="ANC.starhub">
-        <title>CASA DAZA</title>
+        <title>Casa Daza</title>
     </programme>
     <programme start="20251122020000 +0000" stop="20251122023000 +0000" channel="ANC.starhub">
-        <title>BANKER AFTER DARK</title>
+        <title>Banker After Dark</title>
     </programme>
     <programme start="20251122023000 +0000" stop="20251122030000 +0000" channel="ANC.starhub">
-        <title>IN GOOD SHAPE</title>
+        <title>In Good Shape</title>
     </programme>
     <programme start="20251122030000 +0000" stop="20251122033000 +0000" channel="ANC.starhub">
-        <title>DAYAW</title>
+        <title>Dayaw</title>
     </programme>
     <programme start="20251122033000 +0000" stop="20251122040000 +0000" channel="ANC.starhub">
-        <title>LOCAL LEGENDS</title>
+        <title>Local Legends</title>
     </programme>
     <programme start="20251122040000 +0000" stop="20251122050000 +0000" channel="ANC.starhub">
-        <title>HEADSTART</title>
+        <title>Headstart</title>
     </programme>
     <programme start="20251122050000 +0000" stop="20251122053000 +0000" channel="ANC.starhub">
-        <title>BEYOND THE EXCHANGE</title>
+        <title>Beyond The Exchange</title>
     </programme>
     <programme start="20251122053000 +0000" stop="20251122060000 +0000" channel="ANC.starhub">
-        <title>JUAN CONVERSATIONS</title>
+        <title>Juan Conversations</title>
     </programme>
     <programme start="20251122060000 +0000" stop="20251122063000 +0000" channel="ANC.starhub">
-        <title>ASIAN AIR SAFARI</title>
+        <title>Asian Air Safari</title>
     </programme>
     <programme start="20251122063000 +0000" stop="20251122070000 +0000" channel="ANC.starhub">
-        <title>HOT COPY ON HEADSTART</title>
+        <title>Hot Copy On Headstart</title>
     </programme>
     <programme start="20251122070000 +0000" stop="20251122073000 +0000" channel="ANC.starhub">
-        <title>THE BUSINESS OUTLOOK</title>
+        <title>The Business Outlook</title>
     </programme>
     <programme start="20251122073000 +0000" stop="20251122080000 +0000" channel="ANC.starhub">
-        <title>EIC ON THE MOVE</title>
+        <title>Eic On The Move</title>
     </programme>
     <programme start="20251122080000 +0000" stop="20251122083000 +0000" channel="ANC.starhub">
-        <title>CASA DAZA</title>
+        <title>Casa Daza</title>
     </programme>
     <programme start="20251122083000 +0000" stop="20251122090000 +0000" channel="ANC.starhub">
-        <title>ANO NA BEV</title>
+        <title>Ano Na Bev</title>
     </programme>
     <programme start="20251122090000 +0000" stop="20251122100000 +0000" channel="ANC.starhub">
-        <title>FOODPRINTS</title>
+        <title>Foodprints</title>
     </programme>
     <programme start="20251122100000 +0000" stop="20251122103000 +0000" channel="ANC.starhub">
-        <title>DWELLINGS</title>
+        <title>Dwellings</title>
     </programme>
     <programme start="20251122103000 +0000" stop="20251122110000 +0000" channel="ANC.starhub">
-        <title>BANKER AFTER DARK</title>
+        <title>Banker After Dark</title>
     </programme>
     <programme start="20251122110000 +0000" stop="20251122113000 +0000" channel="ANC.starhub">
-        <title>BEYOND THE EXCHANGE</title>
+        <title>Beyond The Exchange</title>
     </programme>
     <programme start="20251122113000 +0000" stop="20251122120000 +0000" channel="ANC.starhub">
-        <title>TOMORROW TODAY</title>
+        <title>Tomorrow Today</title>
     </programme>
     <programme start="20251122120000 +0000" stop="20251122123000 +0000" channel="ANC.starhub">
-        <title>CITIZEN PINOY</title>
+        <title>Citizen Pinoy</title>
     </programme>
     <programme start="20251122123000 +0000" stop="20251122130000 +0000" channel="ANC.starhub">
-        <title>JUAN CONVERSATIONS</title>
+        <title>Juan Conversations</title>
     </programme>
     <programme start="20251122130000 +0000" stop="20251122133000 +0000" channel="ANC.starhub">
-        <title>THE A-LIST</title>
+        <title>ANC Presents</title>
     </programme>
     <programme start="20251122133000 +0000" stop="20251122140000 +0000" channel="ANC.starhub">
-        <title>EXECUTIVE CLASS</title>
+        <title>Executive Class</title>
     </programme>
     <programme start="20251122140000 +0000" stop="20251122143000 +0000" channel="ANC.starhub">
         <title>24X24</title>
@@ -2924,7 +2924,7 @@
         <title>24X24</title>
     </programme>
     <programme start="20251122150000 +0000" stop="20251122160000 +0000" channel="ANC.starhub">
-        <title>METABEATS</title>
+        <title>Metabeats</title>
     </programme>
     <programme start="20251121153000 +0000" stop="20251121164500 +0000" channel="Karisma.starhub">
         <title>HARI BUBUR NASIONAL</title>
@@ -7876,10 +7876,13 @@
     <programme start="20251121232000 +0000" stop="20251122013000 +0000" channel="Asianet Movies.starhub">
         <title>Thinkal Muthal Velli Vare</title>
     </programme>
-    <programme start="20251122013000 +0000" stop="20251122043000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251122013000 +0000" stop="20251122020000 +0000" channel="Asianet Movies.starhub">
+        <title>Chirikkum Thalika</title>
+    </programme>
+    <programme start="20251122020000 +0000" stop="20251122043500 +0000" channel="Asianet Movies.starhub">
         <title>Panchayath Jetty</title>
     </programme>
-    <programme start="20251122043000 +0000" stop="20251122073000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251122043500 +0000" stop="20251122073000 +0000" channel="Asianet Movies.starhub">
         <title>Ittymaani: Made in China</title>
     </programme>
     <programme start="20251122073000 +0000" stop="20251122103000 +0000" channel="Asianet Movies.starhub">
