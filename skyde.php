@@ -2662,7 +2662,7 @@
 <programme start="20251122153000 +0000" stop="20251122155000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Es folgt Live Admiral Bundesliga</title>
 </programme>
-<programme start="20251122155000 +0000" stop="20251122180000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+<programme start="20251122155000 +0000" stop="20251122181500 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live Admiral BL: TSV Egger Glas Hartberg - SV Oberbank Ried, 14. Runde</title>
 </programme>
 <programme start="20251121231500 +0000" stop="20251122000000 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -2758,7 +2758,7 @@
 <programme start="20251122141500 +0000" stop="20251122164500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: Borussia Dortmund - VfB Stuttgart, 11. Spieltag</title>
 </programme>
-<programme start="20251122164500 +0000" stop="20251122201500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
+<programme start="20251122164500 +0000" stop="20251122203000 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: 1. FC Köln - Eintracht Frankfurt, tipico Topspiel der Woche, 11. Spieltag</title>
 </programme>
 <programme start="20251122111000 +0000" stop="20251122113000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
@@ -2782,7 +2782,7 @@
 <programme start="20251122190000 +0000" stop="20251122220000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Live 2. BL: SV Darmstadt 98 - SpVgg Greuther Fürth, tipico Topspiel der Woche, 13. Spieltag</title>
 </programme>
-<programme start="20251122220000 +0000" stop="20251122230000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+<programme start="20251122220000 +0000" stop="20251122231500 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 13. Spieltag, Samstag komplett</title>
 </programme>
 <programme start="20251122111000 +0000" stop="20251122113000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
@@ -2830,7 +2830,7 @@
 <programme start="20251122113000 +0000" stop="20251122140000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
     <title>Live 2. BL: Multiview, 13. Spieltag, Samstag</title>
 </programme>
-<programme start="20251122140000 +0000" stop="20251122163000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
+<programme start="20251122140000 +0000" stop="20251122170000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
     <title>Live BL: Multiview, 11. Spieltag</title>
 </programme>
 <programme start="20251122111000 +0000" stop="20251122113000 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
