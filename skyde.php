@@ -2662,7 +2662,7 @@
 <programme start="20251122153000 +0000" stop="20251122155000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Es folgt Live Admiral Bundesliga</title>
 </programme>
-<programme start="20251122155000 +0000" stop="20251122180000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+<programme start="20251122155000 +0000" stop="20251122181500 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live Admiral BL: TSV Egger Glas Hartberg - SV Oberbank Ried, 14. Runde</title>
 </programme>
 <programme start="20251121231500 +0000" stop="20251122000000 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -2758,7 +2758,7 @@
 <programme start="20251122141500 +0000" stop="20251122164500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: Borussia Dortmund - VfB Stuttgart, 11. Spieltag</title>
 </programme>
-<programme start="20251122164500 +0000" stop="20251122201500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
+<programme start="20251122164500 +0000" stop="20251122203000 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: 1. FC Köln - Eintracht Frankfurt, tipico Topspiel der Woche, 11. Spieltag</title>
 </programme>
 <programme start="20251122111000 +0000" stop="20251122113000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
@@ -2782,7 +2782,7 @@
 <programme start="20251122190000 +0000" stop="20251122220000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Live 2. BL: SV Darmstadt 98 - SpVgg Greuther Fürth, tipico Topspiel der Woche, 13. Spieltag</title>
 </programme>
-<programme start="20251122220000 +0000" stop="20251122230000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+<programme start="20251122220000 +0000" stop="20251122231500 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 13. Spieltag, Samstag komplett</title>
 </programme>
 <programme start="20251122111000 +0000" stop="20251122113000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
@@ -2830,7 +2830,7 @@
 <programme start="20251122113000 +0000" stop="20251122140000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
     <title>Live 2. BL: Multiview, 13. Spieltag, Samstag</title>
 </programme>
-<programme start="20251122140000 +0000" stop="20251122163000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
+<programme start="20251122140000 +0000" stop="20251122170000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
     <title>Live BL: Multiview, 11. Spieltag</title>
 </programme>
 <programme start="20251122111000 +0000" stop="20251122113000 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
@@ -2854,8 +2854,11 @@
 <programme start="20251122021000 +0000" stop="20251122030000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Live F1 Academy: 1. Rennen - GP Las Vegas</title>
 </programme>
-<programme start="20251122030000 +0000" stop="20251122032500 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20251122030000 +0000" stop="20251122031500 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Maranello - Auf den Spuren von Michael Schumacher</title>
+</programme>
+<programme start="20251122031500 +0000" stop="20251122034500 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>F1: Best of: Sky Next Generation GP Singapur</title>
 </programme>
 <programme start="20251122034500 +0000" stop="20251122053000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Live F1: Qualifying - GP Las Vegas</title>
@@ -3691,19 +3694,19 @@
 <programme start="20251122025000 +0000" stop="20251122050000 +0000" channel="Warner TV Film.skyde">
     <title>Der Staatsfeind Nr. 1</title>
 </programme>
-<programme start="20251122050000 +0000" stop="20251122075500 +0000" channel="Warner TV Film.skyde">
+<programme start="20251122050000 +0000" stop="20251122080000 +0000" channel="Warner TV Film.skyde">
     <title>Meuterei auf der Bounty</title>
 </programme>
-<programme start="20251122075500 +0000" stop="20251122095000 +0000" channel="Warner TV Film.skyde">
+<programme start="20251122080000 +0000" stop="20251122095500 +0000" channel="Warner TV Film.skyde">
     <title>Bonnie und Clyde</title>
 </programme>
-<programme start="20251122095000 +0000" stop="20251122113500 +0000" channel="Warner TV Film.skyde">
+<programme start="20251122095500 +0000" stop="20251122114000 +0000" channel="Warner TV Film.skyde">
     <title>Max Payne</title>
 </programme>
-<programme start="20251122113500 +0000" stop="20251122134000 +0000" channel="Warner TV Film.skyde">
+<programme start="20251122114000 +0000" stop="20251122134500 +0000" channel="Warner TV Film.skyde">
     <title>Ocean&#039;s 13</title>
 </programme>
-<programme start="20251122134000 +0000" stop="20251122162000 +0000" channel="Warner TV Film.skyde">
+<programme start="20251122134500 +0000" stop="20251122162000 +0000" channel="Warner TV Film.skyde">
     <title>Insider</title>
 </programme>
 <programme start="20251122162000 +0000" stop="20251122191500 +0000" channel="Warner TV Film.skyde">
@@ -3712,10 +3715,10 @@
 <programme start="20251122191500 +0000" stop="20251122210500 +0000" channel="Warner TV Film.skyde">
     <title>The Gift</title>
 </programme>
-<programme start="20251122210500 +0000" stop="20251122225500 +0000" channel="Warner TV Film.skyde">
+<programme start="20251122210500 +0000" stop="20251122225000 +0000" channel="Warner TV Film.skyde">
     <title>Trance - Gefährliche Erinnerung</title>
 </programme>
-<programme start="20251122225500 +0000" stop="20251123003000 +0000" channel="Warner TV Film.skyde">
+<programme start="20251122225000 +0000" stop="20251123003500 +0000" channel="Warner TV Film.skyde">
     <title>Ein Riskanter Plan</title>
 </programme>
 <programme start="20251122005000 +0000" stop="20251122025000 +0000" channel="Warner TV Film HD.skyde">
