@@ -679,12 +679,6 @@
 <programme start="20251122110000 +0000" stop="20251122130000 +0000" channel="ANTV.vision">
 <title>Rindu Tak Berujung</title>
 </programme>
-<programme start="20251122130000 +0000" stop="20251122143000 +0000" channel="ANTV.vision">
-<title>Bangunnya Nyi Roro Kidul</title>
-</programme>
-<programme start="20251122143000 +0000" stop="20251122163000 +0000" channel="ANTV.vision">
-<title>Komando Samber Nyawa</title>
-</programme>
 <programme start="20251122163000 +0000" stop="20251122183000 +0000" channel="ANTV.vision">
 <title>Mall Klender</title>
 </programme>
@@ -1497,4 +1491,10 @@
 </programme>
 <programme start="20251122230000 +0000" stop="20251122230300 +0000" channel="BTV.vision">
 <title>Indonesia Raya</title>
+</programme>
+<programme start="20251122230300 +0000" stop="20251122233000 +0000" channel="BTV.vision">
+<title>Saat Teduh Bersama GMS</title>
+</programme>
+<programme start="20251122233000 +0000" stop="20251123003000 +0000" channel="BTV.vision">
+<title>Jalan Dakwah</title>
 </programme>
