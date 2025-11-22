@@ -154,12 +154,8 @@
     <title>Sports Classics: My Sporting Moment</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251122193000 +0700" stop="20251122213000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Coventry City - West Bromwich Albion (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20251122213000 +0700" stop="20251122220000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Copa Sudamericana 2025 - Highlights</title>
+<programme start="20251123220000 +0700" stop="20251124000000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Sheffield Wednesday - Sheffield United</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251122220000 +0700" stop="20251122223000 +0700" channel="COSMOTE Sport 3 HD">
@@ -226,13 +222,9 @@
     <title>Football: Lanus - Atletico Mineiro</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251122192000 +0700" stop="20251122212000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Barcelona - Baskonia</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251122212000 +0700" stop="20251122214500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>ACB Liga Endesa 2025-26 - Fifth Quarter E7</title>
-    <desc>Live: Tidak</desc>
+<programme start="20251123220000 +0700" stop="20251124000000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Aberdeen - Heart of Midlothian (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20251122214500 +0700" stop="20251122222000 +0700" channel="COSMOTE Sport 4 HD">
     <title>NBA on Fire 2025-26 E4 (L)</title>
@@ -286,8 +278,8 @@
     <title>Basketball: Charlotte Hornets - Los Angeles Clippers</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251122210000 +0700" stop="20251122220000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Red Bull MotoGP Rookies Cup 2025</title>
+<programme start="20251123223000 +0700" stop="20251124010000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Orlando Magic - New York Knicks</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251122220000 +0700" stop="20251123000000 +0700" channel="COSMOTE Sport 5 HD">
@@ -382,8 +374,8 @@
     <title>Motorsports: Moto3 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251122210000 +0700" stop="20251122220000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Beach Volley: 2025 FIVB Beach Volleyball World Championships</title>
+<programme start="20251123220000 +0700" stop="20251123232000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: Moto2 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251122220000 +0700" stop="20251122230000 +0700" channel="COSMOTE Sport 6 HD">
@@ -474,6 +466,10 @@
     <title>Beach Volley: 2025 FIVB Beach Volleyball World Championships</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251123223500 +0700" stop="20251123233500 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Beach Volley: 2025 FIVB Beach Volleyball World Championships</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251122210000 +0700" stop="20251122230000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
@@ -546,9 +542,9 @@
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251122210000 +0700" stop="20251122214000 +0700" channel="COSMOTE Sport 8 HD">
-    <title>COSMOTESport8HD</title>
-    <desc>Live: Tidak</desc>
+<programme start="20251123220000 +0700" stop="20251124000000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>Basketball: Tofas - Anadolu Efes (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20251122214000 +0700" stop="20251122234000 +0700" channel="COSMOTE Sport 8 HD">
     <title>Football: Al Hilal - Al Fateh (L)</title>
