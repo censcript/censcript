@@ -2057,7 +2057,7 @@
         <title>Movie - Thamirabarani</title>
     </programme>
     <programme start="20251121170000 +0000" stop="20251121200000 +0000" channel="KTV HD.starhub">
-        <title>Movie - Mambattiyaan</title>
+        <title>Movie - Ennuyir Kannamma</title>
     </programme>
     <programme start="20251121200000 +0000" stop="20251121223000 +0000" channel="KTV HD.starhub">
         <title>Movie - January 1st</title>
@@ -2804,40 +2804,40 @@
         <title>2 Point O</title>
     </programme>
     <programme start="20251121160000 +0000" stop="20251121163000 +0000" channel="ANC.starhub">
-        <title>THE WORLD TONIGHT</title>
+        <title>The World Tonight</title>
     </programme>
     <programme start="20251121163000 +0000" stop="20251121170000 +0000" channel="ANC.starhub">
-        <title>BEYOND THE EXCHANGE</title>
+        <title>Beyond The Exchange</title>
     </programme>
     <programme start="20251121170000 +0000" stop="20251121180000 +0000" channel="ANC.starhub">
-        <title>HEADSTART</title>
+        <title>Headstart</title>
     </programme>
     <programme start="20251121180000 +0000" stop="20251121183000 +0000" channel="ANC.starhub">
-        <title>LOCAL LEGENDS</title>
+        <title>Local Legends</title>
     </programme>
     <programme start="20251121183000 +0000" stop="20251121190000 +0000" channel="ANC.starhub">
-        <title>ARTS.21</title>
+        <title>Arts.21</title>
     </programme>
     <programme start="20251121190000 +0000" stop="20251121193000 +0000" channel="ANC.starhub">
-        <title>EIC ON THE MOVE</title>
+        <title>Eic On The Move</title>
     </programme>
     <programme start="20251121193000 +0000" stop="20251121200000 +0000" channel="ANC.starhub">
-        <title>THE A-LIST</title>
+        <title>The A-List</title>
     </programme>
     <programme start="20251121200000 +0000" stop="20251121210000 +0000" channel="ANC.starhub">
-        <title>BEACHED</title>
+        <title>Beached</title>
     </programme>
     <programme start="20251121210000 +0000" stop="20251121213000 +0000" channel="ANC.starhub">
-        <title>INSIGHTS: ISRAEL AND MIDDLE EAST</title>
+        <title>Insights: Israel And Middle East</title>
     </programme>
     <programme start="20251121213000 +0000" stop="20251121220000 +0000" channel="ANC.starhub">
-        <title>EXECUTIVE CLASS</title>
+        <title>Executive Class</title>
     </programme>
     <programme start="20251121220000 +0000" stop="20251121230000 +0000" channel="ANC.starhub">
-        <title>MARKET EDGE</title>
+        <title>Market Edge</title>
     </programme>
     <programme start="20251121230000 +0000" stop="20251121233000 +0000" channel="ANC.starhub">
-        <title>BUSINESS OUTLOOK</title>
+        <title>Business Outlook</title>
     </programme>
     <programme start="20251121233000 +0000" stop="20251122003000 +0000" channel="ANC.starhub">
         <title>Metabeats</title>
