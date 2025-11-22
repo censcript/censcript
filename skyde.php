@@ -2854,8 +2854,11 @@
 <programme start="20251122021000 +0000" stop="20251122030000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Live F1 Academy: 1. Rennen - GP Las Vegas</title>
 </programme>
-<programme start="20251122030000 +0000" stop="20251122032500 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20251122030000 +0000" stop="20251122031500 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Maranello - Auf den Spuren von Michael Schumacher</title>
+</programme>
+<programme start="20251122031500 +0000" stop="20251122034500 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>F1: Best of: Sky Next Generation GP Singapur</title>
 </programme>
 <programme start="20251122034500 +0000" stop="20251122053000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Live F1: Qualifying - GP Las Vegas</title>
