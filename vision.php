@@ -673,6 +673,12 @@
 <programme start="20251122013000 +0000" stop="20251122030000 +0000" channel="ANTV.vision">
 <title>Mangal Lakshmi</title>
 </programme>
+<programme start="20251122030000 +0000" stop="20251122063000 +0000" channel="ANTV.vision">
+<title>Yaadein</title>
+</programme>
+<programme start="20251122063000 +0000" stop="20251122093000 +0000" channel="ANTV.vision">
+<title>Ra.One</title>
+</programme>
 <programme start="20251122093000 +0000" stop="20251122110000 +0000" channel="ANTV.vision">
 <title>ANTV Seru</title>
 </programme>
@@ -1491,10 +1497,4 @@
 </programme>
 <programme start="20251122213000 +0000" stop="20251122223000 +0000" channel="BTV.vision">
 <title>Berita Satu Pagi</title>
-</programme>
-<programme start="20251122223000 +0000" stop="20251122230000 +0000" channel="BTV.vision">
-<title>Saat Teduh Bersama GMS</title>
-</programme>
-<programme start="20251122230000 +0000" stop="20251122230300 +0000" channel="BTV.vision">
-<title>Indonesia Raya</title>
 </programme>
