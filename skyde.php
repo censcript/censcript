@@ -2662,7 +2662,7 @@
 <programme start="20251122153000 +0000" stop="20251122155000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Es folgt Live Admiral Bundesliga</title>
 </programme>
-<programme start="20251122155000 +0000" stop="20251122181500 +0000" channel="Sky Sport Austria 4 HD.skyde">
+<programme start="20251122155000 +0000" stop="20251122180000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live Admiral BL: TSV Egger Glas Hartberg - SV Oberbank Ried, 14. Runde</title>
 </programme>
 <programme start="20251121231500 +0000" stop="20251122000000 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -2854,11 +2854,8 @@
 <programme start="20251122021000 +0000" stop="20251122030000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Live F1 Academy: 1. Rennen - GP Las Vegas</title>
 </programme>
-<programme start="20251122030000 +0000" stop="20251122031500 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20251122030000 +0000" stop="20251122032500 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Maranello - Auf den Spuren von Michael Schumacher</title>
-</programme>
-<programme start="20251122031500 +0000" stop="20251122034500 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>F1: Best of: Sky Next Generation GP Singapur</title>
 </programme>
 <programme start="20251122034500 +0000" stop="20251122053000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Live F1: Qualifying - GP Las Vegas</title>
@@ -3004,16 +3001,16 @@
 <programme start="20251122113000 +0000" stop="20251122120000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Meine Geschichte: Das Leben von Ivan Rakitic</title>
 </programme>
-<programme start="20251122120000 +0000" stop="20251122130000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20251122120000 +0000" stop="20251122125500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>MotoGP: Highlights: GP Valencia</title>
 </programme>
-<programme start="20251122130000 +0000" stop="20251122132500 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20251122125500 +0000" stop="20251122132500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: On the Fly</title>
 </programme>
-<programme start="20251122132500 +0000" stop="20251122142500 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20251122132500 +0000" stop="20251122142000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>DFB-Pokal: Kompakt, 2. Runde</title>
 </programme>
-<programme start="20251122142500 +0000" stop="20251122145000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20251122142000 +0000" stop="20251122145000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: On the Fly</title>
 </programme>
 <programme start="20251122145000 +0000" stop="20251122170000 +0000" channel="Sky Sport Mix HD.skyde">

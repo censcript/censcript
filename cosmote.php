@@ -1,7 +1,3 @@
-<programme start="20251123000000 +0700" stop="20251123010000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>PreGame (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
 <programme start="20251123010000 +0700" stop="20251123030500 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Olympiacos - Atromitos Athens (L)</title>
     <desc>Live: Ya</desc>
@@ -150,10 +146,6 @@
     <title>Football: SS Lazio - Lecce (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251122223000 +0700" stop="20251123003000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Atletico Mineiro - Independiente del Valle</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251123003000 +0700" stop="20251123023000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Lanus - Universidad de Chile</title>
     <desc>Live: Tidak</desc>
@@ -222,10 +214,6 @@
     <title>Football: Al Nassr - Al Khaleej (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251122222000 +0700" stop="20251123010000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Orlando Magic - Los Angeles Clippers</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251123010000 +0700" stop="20251123040000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Charlotte Hornets - Los Angeles Clippers (L)</title>
     <desc>Live: Ya</desc>
@@ -274,9 +262,9 @@
     <title>Basketball: Orlando Magic - New York Knicks</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251123000000 +0700" stop="20251123003000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC Magazine 2025</title>
-    <desc>Live: Tidak</desc>
+<programme start="20251124010000 +0700" stop="20251124040000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Philadelphia 76ers - Miami Heat (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20251123003000 +0700" stop="20251123020000 +0700" channel="COSMOTE Sport 5 HD">
     <title>WRC 2025</title>
@@ -370,9 +358,9 @@
     <title>Motorsports: MotoGP 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251123000000 +0700" stop="20251123010000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Beach Volley: 2025 FIVB Beach Volleyball World Championships</title>
-    <desc>Live: Tidak</desc>
+<programme start="20251124010000 +0700" stop="20251124030000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Basketball: Cantu - Virtus Bologna (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20251123010000 +0700" stop="20251123040000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Fight Sports: UFC Fight Night 2025 (L)</title>
@@ -462,10 +450,6 @@
     <title>Beach Volley: 2025 FIVB Beach Volleyball World Championships</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251123000000 +0700" stop="20251123001500 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251123001500 +0700" stop="20251123021500 +0700" channel="COSMOTE Sport 7 HD">
     <title>Basketball: Aquila Basket Trento - Treviso (L)</title>
     <desc>Live: Ya</desc>
@@ -534,9 +518,9 @@
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251122234000 +0700" stop="20251123010000 +0700" channel="COSMOTE Sport 8 HD">
-    <title>COSMOTESport8HD</title>
-    <desc>Live: Tidak</desc>
+<programme start="20251124010000 +0700" stop="20251124030000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>Basketball: Gran Canaria - Barcelona (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20251123010000 +0700" stop="20251123020000 +0700" channel="COSMOTE Sport 8 HD">
     <title>COSMOTESport8HD</title>
@@ -669,5 +653,9 @@
 <programme start="20251124003000 +0700" stop="20251124010000 +0700" channel="COSMOTE Sport 9 HD">
     <title>COSMOTESport9HD</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251124010000 +0700" stop="20251124042500 +0700" channel="COSMOTE Sport 9 HD">
+    <title>American Football: Kansas City Chiefs - Indianapolis Colts (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 No EPG found for COSMOTE Sport 10 HD
