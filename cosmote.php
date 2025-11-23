@@ -62,10 +62,6 @@
     <title>Football: FC Lausanne - Omonoia FC</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251123100000 +0700" stop="20251123120000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: SSC Napoli - Atalanta</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251123120000 +0700" stop="20251123135500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Cagliari - Genoa</title>
     <desc>Live: Tidak</desc>
@@ -132,6 +128,10 @@
 </programme>
 <programme start="20251124100000 +0700" stop="20251124120000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: SS Lazio - Lecce</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251124120000 +0700" stop="20251124141000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Olympiacos - Atromitos Athens</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251123110000 +0700" stop="20251123130000 +0700" channel="COSMOTE Sport 3 HD">
@@ -338,8 +338,8 @@
     <title>DTM 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251123110000 +0700" stop="20251123113000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Sports Classics: 2025 Outdoor Specials</title>
+<programme start="20251124122500 +0700" stop="20251124141000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>DTM 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251123113000 +0700" stop="20251123123000 +0700" channel="COSMOTE Sport 6 HD">
@@ -611,6 +611,14 @@
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20251124115000 +0700" stop="20251124121000 +0700" channel="COSMOTE Sport 9 HD">
+    <title>COSMOTESport9HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251124121000 +0700" stop="20251124123500 +0700" channel="COSMOTE Sport 9 HD">
+    <title>COSMOTESport9HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251124123500 +0700" stop="20251124130000 +0700" channel="COSMOTE Sport 9 HD">
     <title>COSMOTESport9HD</title>
     <desc>Live: Tidak</desc>
 </programme>
