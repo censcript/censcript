@@ -8107,10 +8107,192 @@
 <programme start="20251124163000 +0000" stop="20251123170000 +0000" channel="Sindo News TV HD.mncvision">
     <title>OMG</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20251123183000 +0000" stop="20251123203000 +0000" channel="Soccer Channel.mncvision">
+    <title>Pro Futsal League 2025/2026</title>
+</programme>
+<programme start="20251123203000 +0000" stop="20251123210000 +0000" channel="Soccer Channel.mncvision">
+    <title>World Classic Soccer</title>
+</programme>
+<programme start="20251123210000 +0000" stop="20251123213000 +0000" channel="Soccer Channel.mncvision">
+    <title>Planet Football</title>
+</programme>
+<programme start="20251123213000 +0000" stop="20251123233000 +0000" channel="Soccer Channel.mncvision">
+    <title>Timnas Special: IDN Vs BHR</title>
+</programme>
+<programme start="20251123233000 +0000" stop="20251124013000 +0000" channel="Soccer Channel.mncvision">
+    <title>European Qual.: POR Vs ARM</title>
+</programme>
+<programme start="20251124013000 +0000" stop="20251124033000 +0000" channel="Soccer Channel.mncvision">
+    <title>Bundesliga: M05 Vs TSG</title>
+</programme>
+<programme start="20251124033000 +0000" stop="20251124040000 +0000" channel="Soccer Channel.mncvision">
+    <title>World Classic Soccer</title>
+</programme>
+<programme start="20251124040000 +0000" stop="20251124060000 +0000" channel="Soccer Channel.mncvision">
+    <title>Pro Futsal League 2025/2026</title>
+</programme>
+<programme start="20251124060000 +0000" stop="20251124080000 +0000" channel="Soccer Channel.mncvision">
+    <title>Road To SEA Games 2025</title>
+</programme>
+<programme start="20251124080000 +0000" stop="20251124100000 +0000" channel="Soccer Channel.mncvision">
+    <title>Bundesliga: M05 Vs TSG</title>
+</programme>
+<programme start="20251124100000 +0000" stop="20251124120000 +0000" channel="Soccer Channel.mncvision">
+    <title>European Qual.: POR Vs ARM</title>
+</programme>
+<programme start="20251124120000 +0000" stop="20251124134000 +0000" channel="Soccer Channel.mncvision">
+    <title>Timnas Special: IDN Vs BHR</title>
+</programme>
+<programme start="20251124134000 +0000" stop="20251124154500 +0000" channel="Soccer Channel.mncvision">
+    <title>ACL Elite: NAS Vs TRC (L)</title>
+</programme>
+<programme start="20251124154500 +0000" stop="20251124155500 +0000" channel="Soccer Channel.mncvision">
+    <title>World Classic Soccer</title>
+</programme>
+<programme start="20251124155500 +0000" stop="20251124162500 +0000" channel="Soccer Channel.mncvision">
+    <title>ACL Elite: SHA Vs GFA (L)</title>
+</programme>
+<programme start="20251123183000 +0000" stop="20251123203000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Pro Futsal League 2025/2026</title>
+</programme>
+<programme start="20251123203000 +0000" stop="20251123210000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>World Classic Soccer</title>
+</programme>
+<programme start="20251123210000 +0000" stop="20251123213000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Planet Football</title>
+</programme>
+<programme start="20251123213000 +0000" stop="20251123233000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Timnas Special: IDN Vs BHR</title>
+</programme>
+<programme start="20251123233000 +0000" stop="20251124013000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>European Qual.: POR Vs ARM</title>
+</programme>
+<programme start="20251124013000 +0000" stop="20251124033000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Bundesliga: M05 Vs TSG</title>
+</programme>
+<programme start="20251124033000 +0000" stop="20251124040000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>World Classic Soccer</title>
+</programme>
+<programme start="20251124040000 +0000" stop="20251124060000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Pro Futsal League 2025/2026</title>
+</programme>
+<programme start="20251124060000 +0000" stop="20251124080000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Road To SEA Games 2025</title>
+</programme>
+<programme start="20251124080000 +0000" stop="20251124100000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Bundesliga: M05 Vs TSG</title>
+</programme>
+<programme start="20251124100000 +0000" stop="20251124120000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>European Qual.: POR Vs ARM</title>
+</programme>
+<programme start="20251124120000 +0000" stop="20251124134000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Timnas Special: IDN Vs BHR</title>
+</programme>
+<programme start="20251124134000 +0000" stop="20251124154500 +0000" channel="Soccer Channel HD.mncvision">
+    <title>ACL Elite: NAS Vs TRC (L)</title>
+</programme>
+<programme start="20251124154500 +0000" stop="20251124155500 +0000" channel="Soccer Channel HD.mncvision">
+    <title>World Classic Soccer</title>
+</programme>
+<programme start="20251124155500 +0000" stop="20251124162500 +0000" channel="Soccer Channel HD.mncvision">
+    <title>ACL Elite: SHA Vs GFA (L)</title>
+</programme>
+<programme start="20251123173000 +0000" stop="20251123210000 +0000" channel="Sportstars.mncvision">
+    <title>WONDR Indonesia Int&#039;l 2025</title>
+</programme>
+<programme start="20251123210000 +0000" stop="20251123230000 +0000" channel="Sportstars.mncvision">
+    <title>Road To SEA Games 2025</title>
+</programme>
+<programme start="20251123230000 +0000" stop="20251123233000 +0000" channel="Sportstars.mncvision">
+    <title>Golden Fit</title>
+</programme>
+<programme start="20251123233000 +0000" stop="20251124000000 +0000" channel="Sportstars.mncvision">
+    <title>30 Minutes Extreme</title>
+</programme>
+<programme start="20251124000000 +0000" stop="20251124003000 +0000" channel="Sportstars.mncvision">
+    <title>Adrenaline Rush</title>
+</programme>
+<programme start="20251124003000 +0000" stop="20251124023000 +0000" channel="Sportstars.mncvision">
+    <title>V-League 2025-2026 Men</title>
+</programme>
+<programme start="20251124023000 +0000" stop="20251124043000 +0000" channel="Sportstars.mncvision">
+    <title>V-League 2025-2026 Women</title>
+</programme>
+<programme start="20251124043000 +0000" stop="20251124050000 +0000" channel="Sportstars.mncvision">
+    <title>Sports Today</title>
+</programme>
+<programme start="20251124050000 +0000" stop="20251124053000 +0000" channel="Sportstars.mncvision">
+    <title>iNews Sport</title>
+</programme>
+<programme start="20251124053000 +0000" stop="20251124080000 +0000" channel="Sportstars.mncvision">
+    <title>Best Of Badminton</title>
+</programme>
+<programme start="20251124080000 +0000" stop="20251124083000 +0000" channel="Sportstars.mncvision">
+    <title>30 Minutes Extreme</title>
+</programme>
+<programme start="20251124083000 +0000" stop="20251124090000 +0000" channel="Sportstars.mncvision">
+    <title>Golden Fit</title>
+</programme>
+<programme start="20251124090000 +0000" stop="20251124110000 +0000" channel="Sportstars.mncvision">
+    <title>KOVO Cup Women</title>
+</programme>
+<programme start="20251124110000 +0000" stop="20251124130000 +0000" channel="Sportstars.mncvision">
+    <title>Road To SEA Games 2025</title>
+</programme>
+<programme start="20251124130000 +0000" stop="20251124133000 +0000" channel="Sportstars.mncvision">
+    <title>Sports Today</title>
+</programme>
+<programme start="20251124133000 +0000" stop="20251124153000 +0000" channel="Sportstars.mncvision">
+    <title>V-League 2025-2026 Women</title>
+</programme>
+<programme start="20251124153000 +0000" stop="20251124160000 +0000" channel="Sportstars.mncvision">
+    <title>30 Minutes Extreme</title>
+</programme>
+<programme start="20251124160000 +0000" stop="20251124163000 +0000" channel="Sportstars.mncvision">
+    <title>AFC Champions League Elite (L)</title>
+</programme>
+<programme start="20251123170000 +0000" stop="20251123190000 +0000" channel="Sportstars 2.mncvision">
+    <title>European Qualifiers</title>
+</programme>
+<programme start="20251123190000 +0000" stop="20251123210000 +0000" channel="Sportstars 2.mncvision">
+    <title>V-League</title>
+</programme>
+<programme start="20251123210000 +0000" stop="20251124000000 +0000" channel="Sportstars 2.mncvision">
+    <title>WONDR Indonesia Int&#039;l Challenge</title>
+</programme>
+<programme start="20251124000000 +0000" stop="20251124003000 +0000" channel="Sportstars 2.mncvision">
+    <title>iNews Sport</title>
+</programme>
+<programme start="20251124003000 +0000" stop="20251124023000 +0000" channel="Sportstars 2.mncvision">
+    <title>Timnas Special</title>
+</programme>
+<programme start="20251124023000 +0000" stop="20251124030000 +0000" channel="Sportstars 2.mncvision">
+    <title>Sport Today: Viral</title>
+</programme>
+<programme start="20251124030000 +0000" stop="20251124050000 +0000" channel="Sportstars 2.mncvision">
+    <title>Road To SEA Games 2025</title>
+</programme>
+<programme start="20251124050000 +0000" stop="20251124070000 +0000" channel="Sportstars 2.mncvision">
+    <title>V-League</title>
+</programme>
+<programme start="20251124070000 +0000" stop="20251124083000 +0000" channel="Sportstars 2.mncvision">
+    <title>Tinju</title>
+</programme>
+<programme start="20251124083000 +0000" stop="20251124103000 +0000" channel="Sportstars 2.mncvision">
+    <title>Timnas Special</title>
+</programme>
+<programme start="20251124103000 +0000" stop="20251124130000 +0000" channel="Sportstars 2.mncvision">
+    <title>Best Of Badminton</title>
+</programme>
+<programme start="20251124130000 +0000" stop="20251124150000 +0000" channel="Sportstars 2.mncvision">
+    <title>Road To SEA Games 2025</title>
+</programme>
+<programme start="20251124150000 +0000" stop="20251124153000 +0000" channel="Sportstars 2.mncvision">
+    <title>Top Goals</title>
+</programme>
+<programme start="20251124153000 +0000" stop="20251124160000 +0000" channel="Sportstars 2.mncvision">
+    <title>Tinju</title>
+</programme>
 <programme start="20251123170000 +0000" stop="20251123190000 +0000" channel="Sportstars 2 HD.mncvision">
     <title>European Qualifiers</title>
 </programme>

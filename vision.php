@@ -478,9 +478,6 @@
 <programme start="20251123053000 +0000" stop="20251123070000 +0000" channel="Trans TV.vision">
 <title>Brownis On The Weekend</title>
 </programme>
-<programme start="20251123070000 +0000" stop="20251123080000 +0000" channel="Trans TV.vision">
-<title>Rumpi Hot Of The Week</title>
-</programme>
 <programme start="20251123080000 +0000" stop="20251123091500 +0000" channel="Trans TV.vision">
 <title>Insert Investigasi</title>
 </programme>
@@ -547,9 +544,6 @@
 <programme start="20251123000000 +0000" stop="20251123010000 +0000" channel="Trans 7.vision">
 <title>Spotlite</title>
 </programme>
-<programme start="20251123010000 +0000" stop="20251123013000 +0000" channel="Trans 7.vision">
-<title>Selebrita Pagi On The Weekend</title>
-</programme>
 <programme start="20251123013000 +0000" stop="20251123023000 +0000" channel="Trans 7.vision">
 <title>Obrolan Tiap Waktu</title>
 </programme>
@@ -583,9 +577,6 @@
 <programme start="20251123100000 +0000" stop="20251123110000 +0000" channel="Trans 7.vision">
 <title>Selebrita On The Weekend</title>
 </programme>
-<programme start="20251123110000 +0000" stop="20251123114500 +0000" channel="Trans 7.vision">
-<title>On The Spot Weekend</title>
-</programme>
 <programme start="20251123114500 +0000" stop="20251123121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
@@ -600,9 +591,6 @@
 </programme>
 <programme start="20251123154500 +0000" stop="20251123163000 +0000" channel="Trans 7.vision">
 <title>The Police</title>
-</programme>
-<programme start="20251123163000 +0000" stop="20251123181500 +0000" channel="Trans 7.vision">
-<title>Ayat-Ayat Cinta 2</title>
 </programme>
 <programme start="20251123181500 +0000" stop="20251123193000 +0000" channel="Trans 7.vision">
 <title>Best Fishing</title>
@@ -670,29 +658,8 @@
 <programme start="20251123013000 +0000" stop="20251123030000 +0000" channel="ANTV.vision">
 <title>Mangal Lakshmi</title>
 </programme>
-<programme start="20251123030000 +0000" stop="20251123063000 +0000" channel="ANTV.vision">
-<title>Chori Chori Chupke Chupke</title>
-</programme>
-<programme start="20251123063000 +0000" stop="20251123093000 +0000" channel="ANTV.vision">
-<title>Sangdil Sanam</title>
-</programme>
 <programme start="20251123093000 +0000" stop="20251123110000 +0000" channel="ANTV.vision">
 <title>ANTV Seru</title>
-</programme>
-<programme start="20251123110000 +0000" stop="20251123130000 +0000" channel="ANTV.vision">
-<title>Rindu Tak Berujung</title>
-</programme>
-<programme start="20251123130000 +0000" stop="20251123143000 +0000" channel="ANTV.vision">
-<title>Ajian Ratu Laut Kidul</title>
-</programme>
-<programme start="20251123143000 +0000" stop="20251123163000 +0000" channel="ANTV.vision">
-<title>Ajian Nyi Mas Gandasari</title>
-</programme>
-<programme start="20251123163000 +0000" stop="20251123183000 +0000" channel="ANTV.vision">
-<title>Witch From Nepal</title>
-</programme>
-<programme start="20251123183000 +0000" stop="20251123203000 +0000" channel="ANTV.vision">
-<title>Sinema Spesial</title>
 </programme>
 <programme start="20251123203000 +0000" stop="20251123220000 +0000" channel="ANTV.vision">
 <title>ANTV</title>
@@ -1496,5 +1463,38 @@
 <title>BTV</title>
 </programme>
 <programme start="20251124010000 +0000" stop="20251124013000 +0000" channel="BTV.vision">
+<title>BTV</title>
+</programme>
+<programme start="20251124013000 +0000" stop="20251124021500 +0000" channel="BTV.vision">
+<title>BTV</title>
+</programme>
+<programme start="20251124021500 +0000" stop="20251124030000 +0000" channel="BTV.vision">
+<title>BTV</title>
+</programme>
+<programme start="20251124030000 +0000" stop="20251124040000 +0000" channel="BTV.vision">
+<title>BTV</title>
+</programme>
+<programme start="20251124040000 +0000" stop="20251124050000 +0000" channel="BTV.vision">
+<title>BTV</title>
+</programme>
+<programme start="20251124050000 +0000" stop="20251124060000 +0000" channel="BTV.vision">
+<title>BTV</title>
+</programme>
+<programme start="20251124060000 +0000" stop="20251124063000 +0000" channel="BTV.vision">
+<title>BTV</title>
+</programme>
+<programme start="20251124063000 +0000" stop="20251124080000 +0000" channel="BTV.vision">
+<title>BTV</title>
+</programme>
+<programme start="20251124080000 +0000" stop="20251124083000 +0000" channel="BTV.vision">
+<title>BTV</title>
+</programme>
+<programme start="20251124083000 +0000" stop="20251124093000 +0000" channel="BTV.vision">
+<title>BTV</title>
+</programme>
+<programme start="20251124093000 +0000" stop="20251124103000 +0000" channel="BTV.vision">
+<title>BTV</title>
+</programme>
+<programme start="20251124103000 +0000" stop="20251124123000 +0000" channel="BTV.vision">
 <title>BTV</title>
 </programme>
