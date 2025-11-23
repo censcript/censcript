@@ -1633,48 +1633,6 @@
 <programme start="20251123220500 +0000" stop="20251123230500 +0000" channel="Sky Atlantic HD.skyde">
     <title>Halo</title>
 </programme>
-<programme start="20251123001500 +0000" stop="20251123014500 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>The Fanatic</title>
-</programme>
-<programme start="20251123014500 +0000" stop="20251123032000 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>Control</title>
-</programme>
-<programme start="20251123032000 +0000" stop="20251123050000 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>Hounds of War</title>
-</programme>
-<programme start="20251123050000 +0000" stop="20251123065500 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>The Crow</title>
-</programme>
-<programme start="20251123065500 +0000" stop="20251123082500 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>Hard Night Falling</title>
-</programme>
-<programme start="20251123082500 +0000" stop="20251123101000 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>16 Blocks</title>
-</programme>
-<programme start="20251123101000 +0000" stop="20251123120000 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>The Last Witch Hunter</title>
-</programme>
-<programme start="20251123120000 +0000" stop="20251123134000 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>Chase - Nichts hält ihn auf</title>
-</programme>
-<programme start="20251123134000 +0000" stop="20251123154500 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>City of Darkness</title>
-</programme>
-<programme start="20251123154500 +0000" stop="20251123172000 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>Till Death</title>
-</programme>
-<programme start="20251123172000 +0000" stop="20251123191500 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>Cliffhanger - Nur die Starken überleben</title>
-</programme>
-<programme start="20251123191500 +0000" stop="20251123210000 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>Peppermint - Angel of Vengeance</title>
-</programme>
-<programme start="20251123210000 +0000" stop="20251123225000 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>Colombiana</title>
-</programme>
-<programme start="20251123225000 +0000" stop="20251124003500 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>Fortress - Stunde der Abrechnung</title>
-</programme>
 <programme start="20251122230500 +0000" stop="20251123013500 +0000" channel="Sky Cinema Classics HD.skyde">
     <title>Die Schlacht an der Neretva</title>
 </programme>
@@ -1758,42 +1716,6 @@
 </programme>
 <programme start="20251123225500 +0000" stop="20251124003500 +0000" channel="Sky Cinema Family HD.skyde">
     <title>Happy 50</title>
-</programme>
-<programme start="20251122232500 +0000" stop="20251123011000 +0000" channel="Sky Cinema Highlights HD.skyde">
-    <title>Friedhof der Kuscheltiere</title>
-</programme>
-<programme start="20251123011000 +0000" stop="20251123030000 +0000" channel="Sky Cinema Highlights HD.skyde">
-    <title>Friedhof der Kuscheltiere 2</title>
-</programme>
-<programme start="20251123030000 +0000" stop="20251123051000 +0000" channel="Sky Cinema Highlights HD.skyde">
-    <title>Die Mumie</title>
-</programme>
-<programme start="20251123051000 +0000" stop="20251123065000 +0000" channel="Sky Cinema Highlights HD.skyde">
-    <title>Ein Minecraft Film</title>
-</programme>
-<programme start="20251123065000 +0000" stop="20251123084000 +0000" channel="Sky Cinema Highlights HD.skyde">
-    <title>Arthur der Große</title>
-</programme>
-<programme start="20251123084000 +0000" stop="20251123103000 +0000" channel="Sky Cinema Highlights HD.skyde">
-    <title>Three Thousand Years of Longing</title>
-</programme>
-<programme start="20251123103000 +0000" stop="20251123122500 +0000" channel="Sky Cinema Highlights HD.skyde">
-    <title>Die Mumie</title>
-</programme>
-<programme start="20251123122500 +0000" stop="20251123143500 +0000" channel="Sky Cinema Highlights HD.skyde">
-    <title>Die Mumie kehrt zurück</title>
-</programme>
-<programme start="20251123143500 +0000" stop="20251123162500 +0000" channel="Sky Cinema Highlights HD.skyde">
-    <title>Die Mumie: Das Grabmal des Drachenkaisers</title>
-</programme>
-<programme start="20251123162500 +0000" stop="20251123191500 +0000" channel="Sky Cinema Highlights HD.skyde">
-    <title>Wicked</title>
-</programme>
-<programme start="20251123191500 +0000" stop="20251123210000 +0000" channel="Sky Cinema Highlights HD.skyde">
-    <title>Ein Minecraft Film</title>
-</programme>
-<programme start="20251123210000 +0000" stop="20251123230500 +0000" channel="Sky Cinema Highlights HD.skyde">
-    <title>Die Mumie</title>
 </programme>
 <programme start="20251123002000 +0000" stop="20251123015500 +0000" channel="Sky Cinema Premiere HD.skyde">
     <title>The Hanging Sun</title>
@@ -2688,6 +2610,12 @@
 </programme>
 <programme start="20251123120000 +0000" stop="20251123150000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live 2. BL: Karlsruher SC - SV Elversberg, 13. Spieltag</title>
+</programme>
+<programme start="20251123114000 +0000" stop="20251123120000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
+    <title>Es folgt: Live 2. Bundesliga</title>
+</programme>
+<programme start="20251123120000 +0000" stop="20251123150000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
+    <title>Live 2. BL: 1. FC Nürnberg - Arminia Bielefeld, 13. Spieltag</title>
 </programme>
 <programme start="20251123114000 +0000" stop="20251123120000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Es folgt: Live 2. Bundesliga</title>
