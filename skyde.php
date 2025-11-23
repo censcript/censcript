@@ -2545,7 +2545,7 @@
 <programme start="20251123130000 +0000" stop="20251123132000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt Live Admiral Bundesliga</title>
 </programme>
-<programme start="20251123132000 +0000" stop="20251123154500 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20251123132000 +0000" stop="20251123163000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live Admiral BL: SK Puntigamer Sturm Graz - LASK, 14. Runde</title>
 </programme>
 <programme start="20251123174000 +0000" stop="20251123180000 +0000" channel="Sky Sport Austria 2 HD.skyde">
@@ -2554,13 +2554,13 @@
 <programme start="20251123180000 +0000" stop="20251123210000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live NHL: Carolina Hurricanes @ Buffalo Sabres</title>
 </programme>
-<programme start="20251123210000 +0000" stop="20251124000000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20251123210000 +0000" stop="20251124020000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live NHL: Minnesota Wild @ Winnipeg Jets</title>
 </programme>
 <programme start="20251123130000 +0000" stop="20251123132000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Es folgt Live Admiral Bundesliga</title>
 </programme>
-<programme start="20251123132000 +0000" stop="20251123154500 +0000" channel="Sky Sport Austria 3 HD.skyde">
+<programme start="20251123132000 +0000" stop="20251123163000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live Admiral BL: FC Red Bull Salzburg - WSG Tirol, 14. Runde</title>
 </programme>
 <programme start="20251123133000 +0000" stop="20251123135000 +0000" channel="Sky Sport Austria 4 HD.skyde">
@@ -2569,7 +2569,7 @@
 <programme start="20251123135000 +0000" stop="20251123160000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live PL: Leeds United - Aston Villa, 12. Spieltag</title>
 </programme>
-<programme start="20251123160000 +0000" stop="20251123183000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+<programme start="20251123160000 +0000" stop="20251123190000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live PL: FC Arsenal - Tottenham Hotspur, Match of the Week, 12. Spieltag</title>
 </programme>
 <programme start="20251122234500 +0000" stop="20251123004500 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -2665,7 +2665,7 @@
 <programme start="20251123170000 +0000" stop="20251123183000 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: Sky90 - Die Fußballdebatte</title>
 </programme>
-<programme start="20251123183000 +0000" stop="20251123191500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
+<programme start="20251123183000 +0000" stop="20251123194500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: Highlights XXL: STP - FCU, 11. Spieltag</title>
 </programme>
 <programme start="20251123114000 +0000" stop="20251123120000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
@@ -2680,25 +2680,25 @@
 <programme start="20251123163000 +0000" stop="20251123183000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>BL: RB Leipzig - Werder Bremen, 11. Spieltag</title>
 </programme>
-<programme start="20251123183000 +0000" stop="20251123203000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+<programme start="20251123183000 +0000" stop="20251123210000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>BL: FC St. Pauli - 1. FC Union Berlin, 11. Spieltag</title>
 </programme>
 <programme start="20251123114000 +0000" stop="20251123120000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Es folgt: Live 2. Bundesliga</title>
 </programme>
-<programme start="20251123120000 +0000" stop="20251123143000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
+<programme start="20251123120000 +0000" stop="20251123150000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live 2. BL: Karlsruher SC - SV Elversberg, 13. Spieltag</title>
 </programme>
 <programme start="20251123114000 +0000" stop="20251123120000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Es folgt: Live 2. Bundesliga</title>
 </programme>
-<programme start="20251123120000 +0000" stop="20251123143000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
+<programme start="20251123120000 +0000" stop="20251123150000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live 2. BL: 1. FC Nürnberg - Arminia Bielefeld, 13. Spieltag</title>
 </programme>
 <programme start="20251123114000 +0000" stop="20251123120000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Es folgt: Live 2. Bundesliga</title>
 </programme>
-<programme start="20251123120000 +0000" stop="20251123143000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
+<programme start="20251123120000 +0000" stop="20251123150000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Live 2. BL: Multiview, 13. Spieltag, Sonntag</title>
 </programme>
 <programme start="20251122231500 +0000" stop="20251123001500 +0000" channel="Sky Sport F1 HD.skyde">
@@ -2809,7 +2809,7 @@
 <programme start="20251123220000 +0000" stop="20251123230000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: FedExCup Playoffs Official Film 2025</title>
 </programme>
-<programme start="20251122233000 +0000" stop="20251123000000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20251122232500 +0000" stop="20251123000000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: On the Fly</title>
 </programme>
 <programme start="20251123000000 +0000" stop="20251123030000 +0000" channel="Sky Sport Mix HD.skyde">
@@ -3082,7 +3082,7 @@
 <programme start="20251123223000 +0000" stop="20251124003000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 250: A. Zverev (GER) - C. Moutet (FRA), Boss Open in Stuttgart, 4. Tag</title>
 </programme>
-<programme start="20251123003000 +0000" stop="20251123030000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20251123004500 +0000" stop="20251123030000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NHL: Edmonton Oilers @ Florida Panthers</title>
 </programme>
 <programme start="20251123030000 +0000" stop="20251123035500 +0000" channel="Sky Sport Top Event HD.skyde">
