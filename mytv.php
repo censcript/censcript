@@ -152,15 +152,15 @@
         <title> Việt Nam vui khỏe </title>
     </programme>
     <programme start="20251123210500 +0000" stop="20251123211000 +0000" channel="VTV1 HD.mytv">
-        <title> Gala Trái tim cho em </title>
-    </programme>
-    <programme start="20251123211000 +0000" stop="20251123223000 +0000" channel="VTV1 HD.mytv">
         <title> Truyền hình Quân đội nhân dân : Hỗ trợ nhân dân vùng lũ miền Trung </title>
     </programme>
-    <programme start="20251123223000 +0000" stop="20251123225000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20251123211000 +0000" stop="20251123214000 +0000" channel="VTV1 HD.mytv">
         <title> Phim tài liệu nước ngoài </title>
     </programme>
-    <programme start="20251123225000 +0000" stop="20251123234500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20251123214000 +0000" stop="20251123223000 +0000" channel="VTV1 HD.mytv">
+        <title> Văn học nghệ thuật : Lửa nghề 45 năm - Ánh sáng lan tỏa </title>
+    </programme>
+    <programme start="20251123223000 +0000" stop="20251123234500 +0000" channel="VTV1 HD.mytv">
         <title> Dám sống : Sự kỳ diệu của lòng nhân ái </title>
     </programme>
     <programme start="20251123234500 +0000" stop="20251124000000 +0000" channel="VTV1 HD.mytv">

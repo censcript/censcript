@@ -2689,6 +2689,12 @@
 <programme start="20251123120000 +0000" stop="20251123150000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live 2. BL: Karlsruher SC - SV Elversberg, 13. Spieltag</title>
 </programme>
+<programme start="20251123114000 +0000" stop="20251123120000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
+    <title>Es folgt: Live 2. Bundesliga</title>
+</programme>
+<programme start="20251123120000 +0000" stop="20251123150000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
+    <title>Live 2. BL: 1. FC Nürnberg - Arminia Bielefeld, 13. Spieltag</title>
+</programme>
 <programme start="20251123114000 +0000" stop="20251123120000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Es folgt: Live 2. Bundesliga</title>
 </programme>
