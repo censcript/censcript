@@ -174,6 +174,10 @@
     <title>Football: Lanus - Atletico Mineiro</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251125060500 +0700" stop="20251125080000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Al Nassr - Al Khaleej</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251124040000 +0700" stop="20251124063000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Charlotte Hornets - Los Angeles Clippers</title>
     <desc>Live: Tidak</desc>
@@ -228,10 +232,6 @@
 </programme>
 <programme start="20251125050000 +0700" stop="20251125073000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Charlotte Hornets - Los Angeles Clippers</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251124045000 +0700" stop="20251124055500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251124055500 +0700" stop="20251124062500 +0700" channel="COSMOTE Sport 5 HD">
@@ -322,6 +322,10 @@
     <title>Grand Prix Show 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251125062000 +0700" stop="20251125072000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251124033000 +0700" stop="20251124063000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Fight Sports: UFC Fight Night 2025</title>
     <desc>Live: Tidak</desc>
@@ -384,6 +388,10 @@
 </programme>
 <programme start="20251125043000 +0700" stop="20251125060000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Beach Volley: 2025 FIVB Beach Volleyball World Championships</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251125060000 +0700" stop="20251125090000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Authentic Athens Marathon 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251124050000 +0700" stop="20251124070000 +0700" channel="COSMOTE Sport 7 HD">
