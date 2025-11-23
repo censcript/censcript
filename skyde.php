@@ -2485,63 +2485,6 @@
 <programme start="20251123223000 +0000" stop="20251123230000 +0000" channel="Sky Showcase HD.skyde">
     <title>Meine Geschichte</title>
 </programme>
-<programme start="20251122230000 +0000" stop="20251123010000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: FC Blau-Weiß Linz - FK Austria Wien, 14. Runde</title>
-</programme>
-<programme start="20251123010000 +0000" stop="20251123030000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: SCR Altach - RZ Pellets WAC, 14. Runde</title>
-</programme>
-<programme start="20251123030000 +0000" stop="20251123040000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: Alle Spiele, alle Tore 14. Runde (Samstag)</title>
-</programme>
-<programme start="20251123040000 +0000" stop="20251123060000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: TSV Egger Glas Hartberg - SV Oberbank Ried, 14. Runde</title>
-</programme>
-<programme start="20251123060000 +0000" stop="20251123070000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: Alle Spiele, alle Tore 14. Runde (Samstag)</title>
-</programme>
-<programme start="20251123070000 +0000" stop="20251123084500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Fußball: Klassiker der Woche: WAC - ALT (2019/20)</title>
-</programme>
-<programme start="20251123084500 +0000" stop="20251123094500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: Alle Spiele, alle Tore 14. Runde (Samstag)</title>
-</programme>
-<programme start="20251123094500 +0000" stop="20251123101500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>UEFA CL: Magazin</title>
-</programme>
-<programme start="20251123101500 +0000" stop="20251123110000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Fußball: Herzog gegen Herzig - Die Next Generation Show (Grazer SC Straßenbahn)</title>
-</programme>
-<programme start="20251123110000 +0000" stop="20251123120000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: Alle Spiele, alle Tore 14. Runde (Samstag)</title>
-</programme>
-<programme start="20251123120000 +0000" stop="20251123130000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>UEFA EL: UEL &amp; UECL Magazin</title>
-</programme>
-<programme start="20251123130000 +0000" stop="20251123153000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live Admiral BL: Sonntags-Konferenz, 14. Runde</title>
-</programme>
-<programme start="20251123153000 +0000" stop="20251123180000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live Admiral BL: SK Rapid - Grazer AK 1902, 14. Runde</title>
-</programme>
-<programme start="20251123180000 +0000" stop="20251123190000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live Admiral BL: Alle Spiele, alle Tore 14. Runde (Sonntag)</title>
-</programme>
-<programme start="20251123190000 +0000" stop="20251123201500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live Talk &amp; Tore: Fußball-Talk</title>
-</programme>
-<programme start="20251123201500 +0000" stop="20251123204500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>RIESENrad: Sportgrößen im Waggon 28 (Stephanie Venier)</title>
-</programme>
-<programme start="20251123204500 +0000" stop="20251123211500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: ASAT Kompakt, 14. Runde</title>
-</programme>
-<programme start="20251123211500 +0000" stop="20251123223000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Talk &amp; Tore: Fußball-Talk</title>
-</programme>
-<programme start="20251123223000 +0000" stop="20251123230000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: ASAT Kompakt, 14. Runde</title>
-</programme>
 <programme start="20251123130000 +0000" stop="20251123132000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt Live Admiral Bundesliga</title>
 </programme>
