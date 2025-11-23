@@ -7738,7 +7738,10 @@
     <programme start="20251122234000 +0000" stop="20251123013000 +0000" channel="Asianet Movies.starhub">
         <title>Alone</title>
     </programme>
-    <programme start="20251123013000 +0000" stop="20251123043000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251123013000 +0000" stop="20251123015500 +0000" channel="Asianet Movies.starhub">
+        <title>Chirikkum Thalika</title>
+    </programme>
+    <programme start="20251123015500 +0000" stop="20251123043000 +0000" channel="Asianet Movies.starhub">
         <title>Action Hero Biju</title>
     </programme>
     <programme start="20251123043000 +0000" stop="20251123073000 +0000" channel="Asianet Movies.starhub">
