@@ -2689,12 +2689,6 @@
 <programme start="20251123120000 +0000" stop="20251123150000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live 2. BL: Karlsruher SC - SV Elversberg, 13. Spieltag</title>
 </programme>
-<programme start="20251123114000 +0000" stop="20251123120000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
-    <title>Es folgt: Live 2. Bundesliga</title>
-</programme>
-<programme start="20251123120000 +0000" stop="20251123150000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
-    <title>Live 2. BL: 1. FC Nürnberg - Arminia Bielefeld, 13. Spieltag</title>
-</programme>
 <programme start="20251123114000 +0000" stop="20251123120000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Es folgt: Live 2. Bundesliga</title>
 </programme>
@@ -3490,38 +3484,83 @@
 <programme start="20251123225500 +0000" stop="20251123232000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
-<programme start="20251122005000 +0000" stop="20251122025000 +0000" channel="Warner TV Film HD.skyde">
-    <title>Ocean&#039;s 13</title>
+<programme start="20251123003500 +0000" stop="20251123022000 +0000" channel="Warner TV Film.skyde">
+    <title>Death Race</title>
 </programme>
-<programme start="20251122025000 +0000" stop="20251122050000 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20251123022000 +0000" stop="20251123042500 +0000" channel="Warner TV Film.skyde">
     <title>Der Staatsfeind Nr. 1</title>
 </programme>
-<programme start="20251122050000 +0000" stop="20251122080000 +0000" channel="Warner TV Film HD.skyde">
-    <title>Meuterei auf der Bounty</title>
+<programme start="20251123042500 +0000" stop="20251123050000 +0000" channel="Warner TV Film.skyde">
+    <title>Hinter den Kulissen - Dieter Kosslick</title>
 </programme>
-<programme start="20251122080000 +0000" stop="20251122095500 +0000" channel="Warner TV Film HD.skyde">
-    <title>Bonnie und Clyde</title>
+<programme start="20251123050000 +0000" stop="20251123073000 +0000" channel="Warner TV Film.skyde">
+    <title>Transformers - Die Rache</title>
 </programme>
-<programme start="20251122095500 +0000" stop="20251122114000 +0000" channel="Warner TV Film HD.skyde">
-    <title>Max Payne</title>
+<programme start="20251123073000 +0000" stop="20251123080000 +0000" channel="Warner TV Film.skyde">
+    <title>Hinter den Kulissen - Michael Caine</title>
 </programme>
-<programme start="20251122114000 +0000" stop="20251122134500 +0000" channel="Warner TV Film HD.skyde">
-    <title>Ocean&#039;s 13</title>
+<programme start="20251123080000 +0000" stop="20251123100000 +0000" channel="Warner TV Film.skyde">
+    <title>Bullitt</title>
 </programme>
-<programme start="20251122134500 +0000" stop="20251122162000 +0000" channel="Warner TV Film HD.skyde">
-    <title>Insider</title>
+<programme start="20251123100000 +0000" stop="20251123121000 +0000" channel="Warner TV Film.skyde">
+    <title>Frankie und seine Spießgesellen</title>
 </programme>
-<programme start="20251122162000 +0000" stop="20251122191500 +0000" channel="Warner TV Film HD.skyde">
-    <title>Der schmale Grat</title>
+<programme start="20251123121000 +0000" stop="20251123135500 +0000" channel="Warner TV Film.skyde">
+    <title>Dead Bang - Kurzer Prozess</title>
 </programme>
-<programme start="20251122191500 +0000" stop="20251122210500 +0000" channel="Warner TV Film HD.skyde">
-    <title>The Gift</title>
+<programme start="20251123135500 +0000" stop="20251123154500 +0000" channel="Warner TV Film.skyde">
+    <title>Unbreakable - Unzerbrechlich</title>
 </programme>
-<programme start="20251122210500 +0000" stop="20251122225000 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20251123154500 +0000" stop="20251123172000 +0000" channel="Warner TV Film.skyde">
     <title>Trance - Gefährliche Erinnerung</title>
 </programme>
-<programme start="20251122225000 +0000" stop="20251123003500 +0000" channel="Warner TV Film HD.skyde">
-    <title>Ein Riskanter Plan</title>
+<programme start="20251123172000 +0000" stop="20251123191500 +0000" channel="Warner TV Film.skyde">
+    <title>The Gift</title>
+</programme>
+<programme start="20251123191500 +0000" stop="20251123212500 +0000" channel="Warner TV Film.skyde">
+    <title>Jurassic World: Das gefallene Königreich</title>
+</programme>
+<programme start="20251123212500 +0000" stop="20251123235000 +0000" channel="Warner TV Film.skyde">
+    <title>Jurassic World: Ein neues Zeitalter</title>
+</programme>
+<programme start="20251123003500 +0000" stop="20251123022000 +0000" channel="Warner TV Film HD.skyde">
+    <title>Death Race</title>
+</programme>
+<programme start="20251123022000 +0000" stop="20251123042500 +0000" channel="Warner TV Film HD.skyde">
+    <title>Der Staatsfeind Nr. 1</title>
+</programme>
+<programme start="20251123042500 +0000" stop="20251123050000 +0000" channel="Warner TV Film HD.skyde">
+    <title>Hinter den Kulissen - Dieter Kosslick</title>
+</programme>
+<programme start="20251123050000 +0000" stop="20251123073000 +0000" channel="Warner TV Film HD.skyde">
+    <title>Transformers - Die Rache</title>
+</programme>
+<programme start="20251123073000 +0000" stop="20251123080000 +0000" channel="Warner TV Film HD.skyde">
+    <title>Hinter den Kulissen - Michael Caine</title>
+</programme>
+<programme start="20251123080000 +0000" stop="20251123100000 +0000" channel="Warner TV Film HD.skyde">
+    <title>Bullitt</title>
+</programme>
+<programme start="20251123100000 +0000" stop="20251123121000 +0000" channel="Warner TV Film HD.skyde">
+    <title>Frankie und seine Spießgesellen</title>
+</programme>
+<programme start="20251123121000 +0000" stop="20251123135500 +0000" channel="Warner TV Film HD.skyde">
+    <title>Dead Bang - Kurzer Prozess</title>
+</programme>
+<programme start="20251123135500 +0000" stop="20251123154500 +0000" channel="Warner TV Film HD.skyde">
+    <title>Unbreakable - Unzerbrechlich</title>
+</programme>
+<programme start="20251123154500 +0000" stop="20251123172000 +0000" channel="Warner TV Film HD.skyde">
+    <title>Trance - Gefährliche Erinnerung</title>
+</programme>
+<programme start="20251123172000 +0000" stop="20251123191500 +0000" channel="Warner TV Film HD.skyde">
+    <title>The Gift</title>
+</programme>
+<programme start="20251123191500 +0000" stop="20251123212500 +0000" channel="Warner TV Film HD.skyde">
+    <title>Jurassic World: Das gefallene Königreich</title>
+</programme>
+<programme start="20251123212500 +0000" stop="20251123235000 +0000" channel="Warner TV Film HD.skyde">
+    <title>Jurassic World: Ein neues Zeitalter</title>
 </programme>
 <programme start="20251122231500 +0000" stop="20251123005500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Equilibrium</title>
