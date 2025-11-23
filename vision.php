@@ -478,9 +478,6 @@
 <programme start="20251123053000 +0000" stop="20251123070000 +0000" channel="Trans TV.vision">
 <title>Brownis On The Weekend</title>
 </programme>
-<programme start="20251123070000 +0000" stop="20251123080000 +0000" channel="Trans TV.vision">
-<title>Rumpi Hot Of The Week</title>
-</programme>
 <programme start="20251123080000 +0000" stop="20251123091500 +0000" channel="Trans TV.vision">
 <title>Insert Investigasi</title>
 </programme>
@@ -666,12 +663,6 @@
 </programme>
 <programme start="20251123013000 +0000" stop="20251123030000 +0000" channel="ANTV.vision">
 <title>Mangal Lakshmi</title>
-</programme>
-<programme start="20251123030000 +0000" stop="20251123063000 +0000" channel="ANTV.vision">
-<title>Chori Chori Chupke Chupke</title>
-</programme>
-<programme start="20251123063000 +0000" stop="20251123093000 +0000" channel="ANTV.vision">
-<title>Sangdil Sanam</title>
 </programme>
 <programme start="20251123093000 +0000" stop="20251123110000 +0000" channel="ANTV.vision">
 <title>ANTV Seru</title>
@@ -1496,5 +1487,14 @@
 <title>BTV</title>
 </programme>
 <programme start="20251124013000 +0000" stop="20251124021500 +0000" channel="BTV.vision">
+<title>BTV</title>
+</programme>
+<programme start="20251124021500 +0000" stop="20251124030000 +0000" channel="BTV.vision">
+<title>BTV</title>
+</programme>
+<programme start="20251124030000 +0000" stop="20251124040000 +0000" channel="BTV.vision">
+<title>BTV</title>
+</programme>
+<programme start="20251124040000 +0000" stop="20251124050000 +0000" channel="BTV.vision">
 <title>BTV</title>
 </programme>
