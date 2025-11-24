@@ -66,10 +66,6 @@
     <title>Football: AEK Larnaca - Aberdeen</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251124100000 +0700" stop="20251124120000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: SS Lazio - Lecce</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251124120000 +0700" stop="20251124141000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Olympiacos - Atromitos Athens</title>
     <desc>Live: Tidak</desc>
@@ -122,12 +118,8 @@
     <title>Football: Sassuolo - Pisa</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251124110000 +0700" stop="20251124113000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Emirates FA Cup 2025-26 - Highlights</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251124113000 +0700" stop="20251124115000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Sports Highlights</title>
+<programme start="20251125120000 +0700" stop="20251125141500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: AEK - Aris</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251124115000 +0700" stop="20251124150500 +0700" channel="COSMOTE Sport 3 HD">
@@ -226,6 +218,10 @@
     <title>Basketball: Phoenix Suns - Houston Rockets (L)</title>
     <desc>Live: Ya</desc>
 </programme>
+<programme start="20251125123000 +0700" stop="20251125130000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>NBA Specials</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251124110000 +0700" stop="20251124122500 +0700" channel="COSMOTE Sport 5 HD">
     <title>DTM 2025</title>
     <desc>Live: Tidak</desc>
@@ -311,6 +307,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251125110000 +0700" stop="20251125120500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>2025 Extreme H</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251125120500 +0700" stop="20251125131000 +0700" channel="COSMOTE Sport 5 HD">
     <title>2025 Extreme H</title>
     <desc>Live: Tidak</desc>
 </programme>
@@ -497,10 +497,6 @@
 <programme start="20251125110000 +0700" stop="20251125130000 +0700" channel="COSMOTE Sport 8 HD">
     <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251124082000 +0700" stop="20251124115000 +0700" channel="COSMOTE Sport 9 HD">
-    <title>American Football: Los Angeles Rams - Tampa Bay Buccaneers (L)</title>
-    <desc>Live: Ya</desc>
 </programme>
 <programme start="20251124115000 +0700" stop="20251124121000 +0700" channel="COSMOTE Sport 9 HD">
     <title>COSMOTESport9HD</title>

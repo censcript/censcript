@@ -1762,6 +1762,48 @@
 <programme start="20251124224500 +0000" stop="20251125002000 +0000" channel="Sky Cinema Action HD.skyde">
     <title>Control</title>
 </programme>
+<programme start="20251124005500 +0000" stop="20251124023000 +0000" channel="Sky Cinema Classics HD.skyde">
+    <title>Die Diamantenhölle am Mekong</title>
+</programme>
+<programme start="20251124023000 +0000" stop="20251124035000 +0000" channel="Sky Cinema Classics HD.skyde">
+    <title>Die Findelmutter</title>
+</programme>
+<programme start="20251124035000 +0000" stop="20251124051500 +0000" channel="Sky Cinema Classics HD.skyde">
+    <title>Orion 3000 - Raumfahrt des Grauens</title>
+</programme>
+<programme start="20251124051500 +0000" stop="20251124071000 +0000" channel="Sky Cinema Classics HD.skyde">
+    <title>True Grit</title>
+</programme>
+<programme start="20251124071000 +0000" stop="20251124084000 +0000" channel="Sky Cinema Classics HD.skyde">
+    <title>Blutige Seide</title>
+</programme>
+<programme start="20251124084000 +0000" stop="20251124104500 +0000" channel="Sky Cinema Classics HD.skyde">
+    <title>Die vier Söhne der Katie Elder</title>
+</programme>
+<programme start="20251124104500 +0000" stop="20251124122000 +0000" channel="Sky Cinema Classics HD.skyde">
+    <title>Königstiger vor El Alamein</title>
+</programme>
+<programme start="20251124122000 +0000" stop="20251124142000 +0000" channel="Sky Cinema Classics HD.skyde">
+    <title>Jenseits von Eden</title>
+</programme>
+<programme start="20251124142000 +0000" stop="20251124160000 +0000" channel="Sky Cinema Classics HD.skyde">
+    <title>Der Tolpatsch</title>
+</programme>
+<programme start="20251124160000 +0000" stop="20251124172000 +0000" channel="Sky Cinema Classics HD.skyde">
+    <title>Der Siebente ist dran</title>
+</programme>
+<programme start="20251124172000 +0000" stop="20251124191500 +0000" channel="Sky Cinema Classics HD.skyde">
+    <title>... denn sie wissen nicht, was sie tun</title>
+</programme>
+<programme start="20251124191500 +0000" stop="20251124212000 +0000" channel="Sky Cinema Classics HD.skyde">
+    <title>Die vier Söhne der Katie Elder</title>
+</programme>
+<programme start="20251124212000 +0000" stop="20251124225500 +0000" channel="Sky Cinema Classics HD.skyde">
+    <title>Der Stern des Gesetzes</title>
+</programme>
+<programme start="20251124225500 +0000" stop="20251125003500 +0000" channel="Sky Cinema Classics HD.skyde">
+    <title>Bandidos</title>
+</programme>
 <programme start="20251124003500 +0000" stop="20251124025000 +0000" channel="Sky Cinema Family HD.skyde">
     <title>Der Herr der Ringe: Die Schlacht der Rohirrim</title>
 </programme>
@@ -2545,34 +2587,34 @@
 <programme start="20251124225500 +0000" stop="20251124234500 +0000" channel="Sky Showcase HD.skyde">
     <title>Teuflische Nachbarn</title>
 </programme>
-<programme start="20251123230000 +0000" stop="20251124010000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20251123231500 +0000" stop="20251124011500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: SK Rapid - Grazer AK 1902, 14. Runde</title>
 </programme>
-<programme start="20251124010000 +0000" stop="20251124020000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20251124011500 +0000" stop="20251124021500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: Alle Spiele, alle Tore 14. Runde (Sonntag)</title>
 </programme>
-<programme start="20251124020000 +0000" stop="20251124040000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20251124021500 +0000" stop="20251124041500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: FC Red Bull Salzburg - WSG Tirol, 14. Runde</title>
 </programme>
-<programme start="20251124040000 +0000" stop="20251124060000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20251124041500 +0000" stop="20251124061500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: SK Puntigamer Sturm Graz - LASK, 14. Runde</title>
 </programme>
-<programme start="20251124060000 +0000" stop="20251124063000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20251124061500 +0000" stop="20251124064500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: ASAT Kompakt, 14. Runde</title>
 </programme>
-<programme start="20251124063000 +0000" stop="20251124074500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20251124064500 +0000" stop="20251124080000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Talk &amp; Tore: Fußball-Talk</title>
 </programme>
-<programme start="20251124074500 +0000" stop="20251124081500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20251124080000 +0000" stop="20251124083000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA CL: Magazin</title>
 </programme>
-<programme start="20251124081500 +0000" stop="20251124091500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20251124083000 +0000" stop="20251124093000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: Alle Spiele, alle Tore 14. Runde (Sonntag)</title>
 </programme>
-<programme start="20251124091500 +0000" stop="20251124101500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20251124093000 +0000" stop="20251124102000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA EL: UEL &amp; UECL Magazin</title>
 </programme>
-<programme start="20251124101500 +0000" stop="20251124105000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20251124102000 +0000" stop="20251124105000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: ASAT Kompakt, 14. Runde</title>
 </programme>
 <programme start="20251124105000 +0000" stop="20251124112000 +0000" channel="Sky Sport Austria 1 HD.skyde">
@@ -2914,13 +2956,13 @@
 <programme start="20251124110000 +0000" stop="20251124130000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Der Mittag</title>
 </programme>
-<programme start="20251124130000 +0000" stop="20251124133000 +0000" channel="Sky Sport News HD.skyde">
+<programme start="20251124130000 +0000" stop="20251124131500 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: BVB-PK vor Villareal</title>
 </programme>
-<programme start="20251124133000 +0000" stop="20251124140000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live Sky Sport News: Der Mittag</title>
+<programme start="20251124131500 +0000" stop="20251124153000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Junioren: Österreich - Italien, FIFA U-17 WM 2025</title>
 </programme>
-<programme start="20251124140000 +0000" stop="20251124170000 +0000" channel="Sky Sport News HD.skyde">
+<programme start="20251124153000 +0000" stop="20251124170000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Der Nachmittag</title>
 </programme>
 <programme start="20251124170000 +0000" stop="20251124180000 +0000" channel="Sky Sport News HD.skyde">
