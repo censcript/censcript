@@ -1837,213 +1837,6 @@
     <programme start="20251125230500 +0000" stop="20251125235959 +0000" channel="862837.shahid">
         <title>Al Bu&#039;d Al Rabi&#039; - Episode 70</title>
     </programme>
-    <programme start="20251124000000 +0000" stop="20251124001000 +0000" channel="387238.shahid">
-        <title>Beirut 303 Season 1 Episode 15</title>
-    </programme>
-    <programme start="20251124001000 +0000" stop="20251124005500 +0000" channel="387238.shahid">
-        <title>Welad El Shams Season 1 Episode 10</title>
-    </programme>
-    <programme start="20251124005500 +0000" stop="20251124015000 +0000" channel="387238.shahid">
-        <title>Salma Season 1 Episode 70</title>
-    </programme>
-    <programme start="20251124015000 +0000" stop="20251124021500 +0000" channel="387238.shahid">
-        <title>Sikkat Safar Season 1 Episode 16</title>
-    </programme>
-    <programme start="20251124021500 +0000" stop="20251124024300 +0000" channel="387238.shahid">
-        <title>Holm Esref Season 2 Episode 6</title>
-    </programme>
-    <programme start="20251124024300 +0000" stop="20251124041300 +0000" channel="387238.shahid">
-        <title>Nadina</title>
-    </programme>
-    <programme start="20251124041300 +0000" stop="20251124050400 +0000" channel="387238.shahid">
-        <title>Al Marsa Season 1 Episode 28</title>
-    </programme>
-    <programme start="20251124050400 +0000" stop="20251124054500 +0000" channel="387238.shahid">
-        <title>Welad El Shams Season 1 Episode 10</title>
-    </programme>
-    <programme start="20251124054500 +0000" stop="20251124061700 +0000" channel="387238.shahid">
-        <title>Ala Al Hawa Season 1 Episode 3</title>
-    </programme>
-    <programme start="20251124061700 +0000" stop="20251124070400 +0000" channel="387238.shahid">
-        <title>Beirut 303 Season 1 Episode 15</title>
-    </programme>
-    <programme start="20251124070400 +0000" stop="20251124080000 +0000" channel="387238.shahid">
-        <title>Salma Season 1 Episode 70</title>
-    </programme>
-    <programme start="20251124080000 +0000" stop="20251124100000 +0000" channel="387238.shahid">
-        <title>Sabah Al Khair Ya Arab</title>
-    </programme>
-    <programme start="20251124100000 +0000" stop="20251124102300 +0000" channel="387238.shahid">
-        <title>Sikkat Safar Season 1 Episode 16</title>
-    </programme>
-    <programme start="20251124102300 +0000" stop="20251124105500 +0000" channel="387238.shahid">
-        <title>Holm Esref Season 2 Episode 6</title>
-    </programme>
-    <programme start="20251124105500 +0000" stop="20251124114200 +0000" channel="387238.shahid">
-        <title>Al Marsa Season 1 Episode 28</title>
-    </programme>
-    <programme start="20251124114200 +0000" stop="20251124121500 +0000" channel="387238.shahid">
-        <title>Ala Al Hawa Season 1 Episode 3</title>
-    </programme>
-    <programme start="20251124121500 +0000" stop="20251124131100 +0000" channel="387238.shahid">
-        <title>Salma Season 1 Episode 70</title>
-    </programme>
-    <programme start="20251124131100 +0000" stop="20251124140000 +0000" channel="387238.shahid">
-        <title>Aa Amal Season 1 Episode 1</title>
-    </programme>
-    <programme start="20251124140000 +0000" stop="20251124145500 +0000" channel="387238.shahid">
-        <title>Welad El Shams Season 1 Episode 11</title>
-    </programme>
-    <programme start="20251124145500 +0000" stop="20251124160000 +0000" channel="387238.shahid">
-        <title>Al Marsa Season 1 Episode 29</title>
-    </programme>
-    <programme start="20251124160000 +0000" stop="20251124163000 +0000" channel="387238.shahid">
-        <title>Sikkat Safar Season 1 Episode 17</title>
-    </programme>
-    <programme start="20251124163000 +0000" stop="20251124170500 +0000" channel="387238.shahid">
-        <title>Holm Esref Season 2 Episode 7</title>
-    </programme>
-    <programme start="20251124170500 +0000" stop="20251124180000 +0000" channel="387238.shahid">
-        <title>Salma Season 1 Episode 71</title>
-    </programme>
-    <programme start="20251124180000 +0000" stop="20251124183000 +0000" channel="387238.shahid">
-        <title>Al Akhbar MBC</title>
-    </programme>
-    <programme start="20251124183000 +0000" stop="20251124190000 +0000" channel="387238.shahid">
-        <title>Studio 23 Season 3 Episode 14</title>
-    </programme>
-    <programme start="20251124190000 +0000" stop="20251124200000 +0000" channel="387238.shahid">
-        <title>Bank Al Thaqafa</title>
-    </programme>
-    <programme start="20251124200000 +0000" stop="20251124213000 +0000" channel="387238.shahid">
-        <title>Nadina</title>
-    </programme>
-    <programme start="20251124213000 +0000" stop="20251124221500 +0000" channel="387238.shahid">
-        <title>Ala Al Hawa Season 1 Episode 4</title>
-    </programme>
-    <programme start="20251124221500 +0000" stop="20251124225000 +0000" channel="387238.shahid">
-        <title>Holm Esref Season 2 Episode 7</title>
-    </programme>
-    <programme start="20251124225000 +0000" stop="20251124232000 +0000" channel="387238.shahid">
-        <title>Sikkat Safar Season 1 Episode 17</title>
-    </programme>
-    <programme start="20251124232000 +0000" stop="20251125000100 +0000" channel="387238.shahid">
-        <title>Aa Amal Season 1 Episode 1</title>
-    </programme>
-    <programme start="20251125000100 +0000" stop="20251125004300 +0000" channel="387238.shahid">
-        <title>Welad El Shams Season 1 Episode 11</title>
-    </programme>
-    <programme start="20251125004300 +0000" stop="20251125013300 +0000" channel="387238.shahid">
-        <title>Salma Season 1 Episode 71</title>
-    </programme>
-    <programme start="20251125013300 +0000" stop="20251125020100 +0000" channel="387238.shahid">
-        <title>Sikkat Safar Season 1 Episode 17</title>
-    </programme>
-    <programme start="20251125020100 +0000" stop="20251125023200 +0000" channel="387238.shahid">
-        <title>Holm Esref Season 2 Episode 7</title>
-    </programme>
-    <programme start="20251125023200 +0000" stop="20251125035300 +0000" channel="387238.shahid">
-        <title>Nadina</title>
-    </programme>
-    <programme start="20251125035300 +0000" stop="20251125045400 +0000" channel="387238.shahid">
-        <title>Al Marsa Season 1 Episode 29</title>
-    </programme>
-    <programme start="20251125045400 +0000" stop="20251125053400 +0000" channel="387238.shahid">
-        <title>Welad El Shams Season 1 Episode 11</title>
-    </programme>
-    <programme start="20251125053400 +0000" stop="20251125061000 +0000" channel="387238.shahid">
-        <title>Ala Al Hawa Season 1 Episode 4</title>
-    </programme>
-    <programme start="20251125061000 +0000" stop="20251125065100 +0000" channel="387238.shahid">
-        <title>Aa Amal Season 1 Episode 1</title>
-    </programme>
-    <programme start="20251125065100 +0000" stop="20251125071500 +0000" channel="387238.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20251125071500 +0000" stop="20251125080000 +0000" channel="387238.shahid">
-        <title>Salma Season 1 Episode 71</title>
-    </programme>
-    <programme start="20251125080000 +0000" stop="20251125094900 +0000" channel="387238.shahid">
-        <title>Sabah Al Khair Ya Arab</title>
-    </programme>
-    <programme start="20251125094900 +0000" stop="20251125100000 +0000" channel="387238.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20251125100000 +0000" stop="20251125103000 +0000" channel="387238.shahid">
-        <title>Sikkat Safar Season 1 Episode 17</title>
-    </programme>
-    <programme start="20251125103000 +0000" stop="20251125110000 +0000" channel="387238.shahid">
-        <title>Holm Esref Season 2 Episode 7</title>
-    </programme>
-    <programme start="20251125110000 +0000" stop="20251125114500 +0000" channel="387238.shahid">
-        <title>Al Marsa Season 1 Episode 29</title>
-    </programme>
-    <programme start="20251125114500 +0000" stop="20251125122000 +0000" channel="387238.shahid">
-        <title>Ala Al Hawa Season 1 Episode 4</title>
-    </programme>
-    <programme start="20251125122000 +0000" stop="20251125130500 +0000" channel="387238.shahid">
-        <title>Salma Season 1 Episode 71</title>
-    </programme>
-    <programme start="20251125130500 +0000" stop="20251125134700 +0000" channel="387238.shahid">
-        <title>Aa Amal Season 1 Episode 2</title>
-    </programme>
-    <programme start="20251125134700 +0000" stop="20251125140500 +0000" channel="387238.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20251125140500 +0000" stop="20251125144900 +0000" channel="387238.shahid">
-        <title>Welad El Shams Season 1 Episode 12</title>
-    </programme>
-    <programme start="20251125144900 +0000" stop="20251125150000 +0000" channel="387238.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20251125150000 +0000" stop="20251125155200 +0000" channel="387238.shahid">
-        <title>Al Marsa</title>
-    </programme>
-    <programme start="20251125155200 +0000" stop="20251125160000 +0000" channel="387238.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20251125160000 +0000" stop="20251125163000 +0000" channel="387238.shahid">
-        <title>Sikkat Safar Season 1 Episode 18</title>
-    </programme>
-    <programme start="20251125163000 +0000" stop="20251125170000 +0000" channel="387238.shahid">
-        <title>Holm Esref Season 2 Episode 8</title>
-    </programme>
-    <programme start="20251125170000 +0000" stop="20251125175000 +0000" channel="387238.shahid">
-        <title>Salma Season 1 Episode 72</title>
-    </programme>
-    <programme start="20251125175000 +0000" stop="20251125180000 +0000" channel="387238.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20251125180000 +0000" stop="20251125183000 +0000" channel="387238.shahid">
-        <title>Al Akhbar MBC</title>
-    </programme>
-    <programme start="20251125183000 +0000" stop="20251125194500 +0000" channel="387238.shahid">
-        <title>Top Chef</title>
-    </programme>
-    <programme start="20251125194500 +0000" stop="20251125200000 +0000" channel="387238.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20251125200000 +0000" stop="20251125212300 +0000" channel="387238.shahid">
-        <title>Nadina</title>
-    </programme>
-    <programme start="20251125212300 +0000" stop="20251125213000 +0000" channel="387238.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20251125213000 +0000" stop="20251125220600 +0000" channel="387238.shahid">
-        <title>Ala Al Hawa Season 1 Episode 5</title>
-    </programme>
-    <programme start="20251125220600 +0000" stop="20251125223000 +0000" channel="387238.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20251125223000 +0000" stop="20251125230000 +0000" channel="387238.shahid">
-        <title>Holm Esref Season 2 Episode 8</title>
-    </programme>
-    <programme start="20251125230000 +0000" stop="20251125232600 +0000" channel="387238.shahid">
-        <title>Sikkat Safar Season 1 Episode 18</title>
-    </programme>
-    <programme start="20251125232600 +0000" stop="20251125235959 +0000" channel="387238.shahid">
-        <title>TV guide is not available</title>
-    </programme>
     <programme start="20251124000000 +0000" stop="20251124000132 +0000" channel="49923086870104.shahid">
         <title>Sikkat Safar Season 1 Episode 1</title>
     </programme>
@@ -2708,138 +2501,6 @@
         <title>TV guide is not available</title>
     </programme>
     <programme start="20251124000000 +0000" stop="20251125235959 +0000" channel="49922904934759.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20251124000000 +0000" stop="20251124004955 +0000" channel="988045.shahid">
-        <title>Maraya 2003 Episode 15</title>
-    </programme>
-    <programme start="20251124004955 +0000" stop="20251124014207 +0000" channel="988045.shahid">
-        <title>Hakaya Al Maraya Episode 6</title>
-    </programme>
-    <programme start="20251124014207 +0000" stop="20251124023525 +0000" channel="988045.shahid">
-        <title>Eshna W Shofna Episode 19</title>
-    </programme>
-    <programme start="20251124023525 +0000" stop="20251124033444 +0000" channel="988045.shahid">
-        <title>Eshna W Shofna Episode 30</title>
-    </programme>
-    <programme start="20251124033444 +0000" stop="20251124042139 +0000" channel="988045.shahid">
-        <title>Eshna W Shofna Episode 6</title>
-    </programme>
-    <programme start="20251124042139 +0000" stop="20251124051123 +0000" channel="988045.shahid">
-        <title>Eshna W Shofna Episode 4</title>
-    </programme>
-    <programme start="20251124051123 +0000" stop="20251124055332 +0000" channel="988045.shahid">
-        <title>Maraya 98 Episode 19</title>
-    </programme>
-    <programme start="20251124055332 +0000" stop="20251124065029 +0000" channel="988045.shahid">
-        <title>Hakaya Al Maraya Episode 28</title>
-    </programme>
-    <programme start="20251124065029 +0000" stop="20251124073832 +0000" channel="988045.shahid">
-        <title>Hakaya Season 3 Episode 27</title>
-    </programme>
-    <programme start="20251124073832 +0000" stop="20251124083732 +0000" channel="988045.shahid">
-        <title>Maraya 2003 Episode 29</title>
-    </programme>
-    <programme start="20251124083732 +0000" stop="20251124093000 +0000" channel="988045.shahid">
-        <title>Hakaya Al Maraya Episode 1</title>
-    </programme>
-    <programme start="20251124093000 +0000" stop="20251124102521 +0000" channel="988045.shahid">
-        <title>Hakaya Al Maraya Episode 12</title>
-    </programme>
-    <programme start="20251124102521 +0000" stop="20251124111302 +0000" channel="988045.shahid">
-        <title>Hakaya Al Maraya Episode 9</title>
-    </programme>
-    <programme start="20251124111302 +0000" stop="20251124120723 +0000" channel="988045.shahid">
-        <title>Maraya 98 Episode 24</title>
-    </programme>
-    <programme start="20251124120723 +0000" stop="20251124130119 +0000" channel="988045.shahid">
-        <title>Eshna W Shofna Episode 14</title>
-    </programme>
-    <programme start="20251124130119 +0000" stop="20251124135002 +0000" channel="988045.shahid">
-        <title>Maraya 2003 Episode 13</title>
-    </programme>
-    <programme start="20251124135002 +0000" stop="20251124144059 +0000" channel="988045.shahid">
-        <title>Hadeeth Al Maraya Episode 2</title>
-    </programme>
-    <programme start="20251124144059 +0000" stop="20251124152340 +0000" channel="988045.shahid">
-        <title>Maraya 97 Episode 13</title>
-    </programme>
-    <programme start="20251124152340 +0000" stop="20251124161355 +0000" channel="988045.shahid">
-        <title>Hakaya Season 3 Episode 19</title>
-    </programme>
-    <programme start="20251124161355 +0000" stop="20251124170249 +0000" channel="988045.shahid">
-        <title>Hadeeth Al Maraya Episode 29</title>
-    </programme>
-    <programme start="20251124170249 +0000" stop="20251124175031 +0000" channel="988045.shahid">
-        <title>Maraya 97 Episode 7</title>
-    </programme>
-    <programme start="20251124175031 +0000" stop="20251124184326 +0000" channel="988045.shahid">
-        <title>Maraya 2003 Episode 12</title>
-    </programme>
-    <programme start="20251124184326 +0000" stop="20251124192703 +0000" channel="988045.shahid">
-        <title>Maraya 2003 Episode 23</title>
-    </programme>
-    <programme start="20251124192703 +0000" stop="20251124201251 +0000" channel="988045.shahid">
-        <title>Hadeeth Al Maraya Episode 31</title>
-    </programme>
-    <programme start="20251124201251 +0000" stop="20251124205949 +0000" channel="988045.shahid">
-        <title>Maraya 98 Episode 26</title>
-    </programme>
-    <programme start="20251124205949 +0000" stop="20251124215321 +0000" channel="988045.shahid">
-        <title>Maraya 97 Episode 16</title>
-    </programme>
-    <programme start="20251124215321 +0000" stop="20251124225259 +0000" channel="988045.shahid">
-        <title>Eshna W Shofna Episode 20</title>
-    </programme>
-    <programme start="20251124225259 +0000" stop="20251124233333 +0000" channel="988045.shahid">
-        <title>Hakaya Al Maraya Episode 26</title>
-    </programme>
-    <programme start="20251124233333 +0000" stop="20251125002017 +0000" channel="988045.shahid">
-        <title>Maraya 98 Episode 3</title>
-    </programme>
-    <programme start="20251125002017 +0000" stop="20251125012228 +0000" channel="988045.shahid">
-        <title>Maraya 2003 Season 6 Episode 30</title>
-    </programme>
-    <programme start="20251125012228 +0000" stop="20251125021457 +0000" channel="988045.shahid">
-        <title>Hadeeth Al Maraya Episode 27</title>
-    </programme>
-    <programme start="20251125021457 +0000" stop="20251125030808 +0000" channel="988045.shahid">
-        <title>Hakaya Season 3 Episode 9</title>
-    </programme>
-    <programme start="20251125030808 +0000" stop="20251125040025 +0000" channel="988045.shahid">
-        <title>Maraya 2003 Episode 16</title>
-    </programme>
-    <programme start="20251125040025 +0000" stop="20251125044336 +0000" channel="988045.shahid">
-        <title>Hadeeth Al Maraya Episode 14</title>
-    </programme>
-    <programme start="20251125044336 +0000" stop="20251125053904 +0000" channel="988045.shahid">
-        <title>Hakaya Season 3 Episode 2</title>
-    </programme>
-    <programme start="20251125053904 +0000" stop="20251125064057 +0000" channel="988045.shahid">
-        <title>Eshna W Shofna Episode 29</title>
-    </programme>
-    <programme start="20251125064057 +0000" stop="20251125073104 +0000" channel="988045.shahid">
-        <title>Hakaya Al Maraya Episode 29</title>
-    </programme>
-    <programme start="20251125073104 +0000" stop="20251125082405 +0000" channel="988045.shahid">
-        <title>Maraya 97 Episode 1</title>
-    </programme>
-    <programme start="20251125082405 +0000" stop="20251125091220 +0000" channel="988045.shahid">
-        <title>Maraya 98 Episode 18</title>
-    </programme>
-    <programme start="20251125091220 +0000" stop="20251125100304 +0000" channel="988045.shahid">
-        <title>Hakaya Season 3 Episode 25</title>
-    </programme>
-    <programme start="20251125100304 +0000" stop="20251125105234 +0000" channel="988045.shahid">
-        <title>Maraya 98 Episode 17</title>
-    </programme>
-    <programme start="20251125105234 +0000" stop="20251125113830 +0000" channel="988045.shahid">
-        <title>Maraya 97 Episode 2</title>
-    </programme>
-    <programme start="20251125113830 +0000" stop="20251125120000 +0000" channel="988045.shahid">
-        <title>Hadeeth Al Maraya Episode 4</title>
-    </programme>
-    <programme start="20251125120000 +0000" stop="20251125235959 +0000" channel="988045.shahid">
         <title>TV guide is not available</title>
     </programme>
     <programme start="20251124000000 +0000" stop="20251124000231 +0000" channel="49923172215352.shahid">
@@ -5002,6 +4663,138 @@
     <programme start="20251125235611 +0000" stop="20251125235959 +0000" channel="49923172215352.shahid">
         <title></title>
     </programme>
+    <programme start="20251124000000 +0000" stop="20251124004955 +0000" channel="988045.shahid">
+        <title>Maraya 2003 Episode 15</title>
+    </programme>
+    <programme start="20251124004955 +0000" stop="20251124014207 +0000" channel="988045.shahid">
+        <title>Hakaya Al Maraya Episode 6</title>
+    </programme>
+    <programme start="20251124014207 +0000" stop="20251124023525 +0000" channel="988045.shahid">
+        <title>Eshna W Shofna Episode 19</title>
+    </programme>
+    <programme start="20251124023525 +0000" stop="20251124033444 +0000" channel="988045.shahid">
+        <title>Eshna W Shofna Episode 30</title>
+    </programme>
+    <programme start="20251124033444 +0000" stop="20251124042139 +0000" channel="988045.shahid">
+        <title>Eshna W Shofna Episode 6</title>
+    </programme>
+    <programme start="20251124042139 +0000" stop="20251124051123 +0000" channel="988045.shahid">
+        <title>Eshna W Shofna Episode 4</title>
+    </programme>
+    <programme start="20251124051123 +0000" stop="20251124055332 +0000" channel="988045.shahid">
+        <title>Maraya 98 Episode 19</title>
+    </programme>
+    <programme start="20251124055332 +0000" stop="20251124065029 +0000" channel="988045.shahid">
+        <title>Hakaya Al Maraya Episode 28</title>
+    </programme>
+    <programme start="20251124065029 +0000" stop="20251124073832 +0000" channel="988045.shahid">
+        <title>Hakaya Season 3 Episode 27</title>
+    </programme>
+    <programme start="20251124073832 +0000" stop="20251124083732 +0000" channel="988045.shahid">
+        <title>Maraya 2003 Episode 29</title>
+    </programme>
+    <programme start="20251124083732 +0000" stop="20251124093000 +0000" channel="988045.shahid">
+        <title>Hakaya Al Maraya Episode 1</title>
+    </programme>
+    <programme start="20251124093000 +0000" stop="20251124102521 +0000" channel="988045.shahid">
+        <title>Hakaya Al Maraya Episode 12</title>
+    </programme>
+    <programme start="20251124102521 +0000" stop="20251124111302 +0000" channel="988045.shahid">
+        <title>Hakaya Al Maraya Episode 9</title>
+    </programme>
+    <programme start="20251124111302 +0000" stop="20251124120723 +0000" channel="988045.shahid">
+        <title>Maraya 98 Episode 24</title>
+    </programme>
+    <programme start="20251124120723 +0000" stop="20251124130119 +0000" channel="988045.shahid">
+        <title>Eshna W Shofna Episode 14</title>
+    </programme>
+    <programme start="20251124130119 +0000" stop="20251124135002 +0000" channel="988045.shahid">
+        <title>Maraya 2003 Episode 13</title>
+    </programme>
+    <programme start="20251124135002 +0000" stop="20251124144059 +0000" channel="988045.shahid">
+        <title>Hadeeth Al Maraya Episode 2</title>
+    </programme>
+    <programme start="20251124144059 +0000" stop="20251124152340 +0000" channel="988045.shahid">
+        <title>Maraya 97 Episode 13</title>
+    </programme>
+    <programme start="20251124152340 +0000" stop="20251124161355 +0000" channel="988045.shahid">
+        <title>Hakaya Season 3 Episode 19</title>
+    </programme>
+    <programme start="20251124161355 +0000" stop="20251124170249 +0000" channel="988045.shahid">
+        <title>Hadeeth Al Maraya Episode 29</title>
+    </programme>
+    <programme start="20251124170249 +0000" stop="20251124175031 +0000" channel="988045.shahid">
+        <title>Maraya 97 Episode 7</title>
+    </programme>
+    <programme start="20251124175031 +0000" stop="20251124184326 +0000" channel="988045.shahid">
+        <title>Maraya 2003 Episode 12</title>
+    </programme>
+    <programme start="20251124184326 +0000" stop="20251124192703 +0000" channel="988045.shahid">
+        <title>Maraya 2003 Episode 23</title>
+    </programme>
+    <programme start="20251124192703 +0000" stop="20251124201251 +0000" channel="988045.shahid">
+        <title>Hadeeth Al Maraya Episode 31</title>
+    </programme>
+    <programme start="20251124201251 +0000" stop="20251124205949 +0000" channel="988045.shahid">
+        <title>Maraya 98 Episode 26</title>
+    </programme>
+    <programme start="20251124205949 +0000" stop="20251124215321 +0000" channel="988045.shahid">
+        <title>Maraya 97 Episode 16</title>
+    </programme>
+    <programme start="20251124215321 +0000" stop="20251124225259 +0000" channel="988045.shahid">
+        <title>Eshna W Shofna Episode 20</title>
+    </programme>
+    <programme start="20251124225259 +0000" stop="20251124233333 +0000" channel="988045.shahid">
+        <title>Hakaya Al Maraya Episode 26</title>
+    </programme>
+    <programme start="20251124233333 +0000" stop="20251125002017 +0000" channel="988045.shahid">
+        <title>Maraya 98 Episode 3</title>
+    </programme>
+    <programme start="20251125002017 +0000" stop="20251125012228 +0000" channel="988045.shahid">
+        <title>Maraya 2003 Season 6 Episode 30</title>
+    </programme>
+    <programme start="20251125012228 +0000" stop="20251125021457 +0000" channel="988045.shahid">
+        <title>Hadeeth Al Maraya Episode 27</title>
+    </programme>
+    <programme start="20251125021457 +0000" stop="20251125030808 +0000" channel="988045.shahid">
+        <title>Hakaya Season 3 Episode 9</title>
+    </programme>
+    <programme start="20251125030808 +0000" stop="20251125040025 +0000" channel="988045.shahid">
+        <title>Maraya 2003 Episode 16</title>
+    </programme>
+    <programme start="20251125040025 +0000" stop="20251125044336 +0000" channel="988045.shahid">
+        <title>Hadeeth Al Maraya Episode 14</title>
+    </programme>
+    <programme start="20251125044336 +0000" stop="20251125053904 +0000" channel="988045.shahid">
+        <title>Hakaya Season 3 Episode 2</title>
+    </programme>
+    <programme start="20251125053904 +0000" stop="20251125064057 +0000" channel="988045.shahid">
+        <title>Eshna W Shofna Episode 29</title>
+    </programme>
+    <programme start="20251125064057 +0000" stop="20251125073104 +0000" channel="988045.shahid">
+        <title>Hakaya Al Maraya Episode 29</title>
+    </programme>
+    <programme start="20251125073104 +0000" stop="20251125082405 +0000" channel="988045.shahid">
+        <title>Maraya 97 Episode 1</title>
+    </programme>
+    <programme start="20251125082405 +0000" stop="20251125091220 +0000" channel="988045.shahid">
+        <title>Maraya 98 Episode 18</title>
+    </programme>
+    <programme start="20251125091220 +0000" stop="20251125100304 +0000" channel="988045.shahid">
+        <title>Hakaya Season 3 Episode 25</title>
+    </programme>
+    <programme start="20251125100304 +0000" stop="20251125105234 +0000" channel="988045.shahid">
+        <title>Maraya 98 Episode 17</title>
+    </programme>
+    <programme start="20251125105234 +0000" stop="20251125113830 +0000" channel="988045.shahid">
+        <title>Maraya 97 Episode 2</title>
+    </programme>
+    <programme start="20251125113830 +0000" stop="20251125120000 +0000" channel="988045.shahid">
+        <title>Hadeeth Al Maraya Episode 4</title>
+    </programme>
+    <programme start="20251125120000 +0000" stop="20251125235959 +0000" channel="988045.shahid">
+        <title>TV guide is not available</title>
+    </programme>
     <programme start="20251124000000 +0000" stop="20251125235959 +0000" channel="999927.shahid">
         <title>TV guide is not available</title>
     </programme>
@@ -5251,7 +5044,217 @@
     <programme start="20251124000000 +0000" stop="20251125235959 +0000" channel="946940.shahid">
         <title>TV guide is not available</title>
     </programme>
+    <programme start="20251124000000 +0000" stop="20251124001000 +0000" channel="387238.shahid">
+        <title>Beirut 303 Season 1 Episode 15</title>
+    </programme>
+    <programme start="20251124001000 +0000" stop="20251124005500 +0000" channel="387238.shahid">
+        <title>Welad El Shams Season 1 Episode 10</title>
+    </programme>
+    <programme start="20251124005500 +0000" stop="20251124015000 +0000" channel="387238.shahid">
+        <title>Salma Season 1 Episode 70</title>
+    </programme>
+    <programme start="20251124015000 +0000" stop="20251124021500 +0000" channel="387238.shahid">
+        <title>Sikkat Safar Season 1 Episode 16</title>
+    </programme>
+    <programme start="20251124021500 +0000" stop="20251124024300 +0000" channel="387238.shahid">
+        <title>Holm Esref Season 2 Episode 6</title>
+    </programme>
+    <programme start="20251124024300 +0000" stop="20251124041300 +0000" channel="387238.shahid">
+        <title>Nadina</title>
+    </programme>
+    <programme start="20251124041300 +0000" stop="20251124050400 +0000" channel="387238.shahid">
+        <title>Al Marsa Season 1 Episode 28</title>
+    </programme>
+    <programme start="20251124050400 +0000" stop="20251124054500 +0000" channel="387238.shahid">
+        <title>Welad El Shams Season 1 Episode 10</title>
+    </programme>
+    <programme start="20251124054500 +0000" stop="20251124061700 +0000" channel="387238.shahid">
+        <title>Ala Al Hawa Season 1 Episode 3</title>
+    </programme>
+    <programme start="20251124061700 +0000" stop="20251124070400 +0000" channel="387238.shahid">
+        <title>Beirut 303 Season 1 Episode 15</title>
+    </programme>
+    <programme start="20251124070400 +0000" stop="20251124080000 +0000" channel="387238.shahid">
+        <title>Salma Season 1 Episode 70</title>
+    </programme>
+    <programme start="20251124080000 +0000" stop="20251124100000 +0000" channel="387238.shahid">
+        <title>Sabah Al Khair Ya Arab</title>
+    </programme>
+    <programme start="20251124100000 +0000" stop="20251124102300 +0000" channel="387238.shahid">
+        <title>Sikkat Safar Season 1 Episode 16</title>
+    </programme>
+    <programme start="20251124102300 +0000" stop="20251124105500 +0000" channel="387238.shahid">
+        <title>Holm Esref Season 2 Episode 6</title>
+    </programme>
+    <programme start="20251124105500 +0000" stop="20251124114200 +0000" channel="387238.shahid">
+        <title>Al Marsa Season 1 Episode 28</title>
+    </programme>
+    <programme start="20251124114200 +0000" stop="20251124121500 +0000" channel="387238.shahid">
+        <title>Ala Al Hawa Season 1 Episode 3</title>
+    </programme>
+    <programme start="20251124121500 +0000" stop="20251124131100 +0000" channel="387238.shahid">
+        <title>Salma Season 1 Episode 70</title>
+    </programme>
+    <programme start="20251124131100 +0000" stop="20251124140000 +0000" channel="387238.shahid">
+        <title>Aa Amal Season 1 Episode 1</title>
+    </programme>
+    <programme start="20251124140000 +0000" stop="20251124145500 +0000" channel="387238.shahid">
+        <title>Welad El Shams Season 1 Episode 11</title>
+    </programme>
+    <programme start="20251124145500 +0000" stop="20251124160000 +0000" channel="387238.shahid">
+        <title>Al Marsa Season 1 Episode 29</title>
+    </programme>
+    <programme start="20251124160000 +0000" stop="20251124163000 +0000" channel="387238.shahid">
+        <title>Sikkat Safar Season 1 Episode 17</title>
+    </programme>
+    <programme start="20251124163000 +0000" stop="20251124170500 +0000" channel="387238.shahid">
+        <title>Holm Esref Season 2 Episode 7</title>
+    </programme>
+    <programme start="20251124170500 +0000" stop="20251124180000 +0000" channel="387238.shahid">
+        <title>Salma Season 1 Episode 71</title>
+    </programme>
+    <programme start="20251124180000 +0000" stop="20251124183000 +0000" channel="387238.shahid">
+        <title>Al Akhbar MBC</title>
+    </programme>
+    <programme start="20251124183000 +0000" stop="20251124190000 +0000" channel="387238.shahid">
+        <title>Studio 23 Season 3 Episode 14</title>
+    </programme>
+    <programme start="20251124190000 +0000" stop="20251124200000 +0000" channel="387238.shahid">
+        <title>Bank Al Thaqafa</title>
+    </programme>
+    <programme start="20251124200000 +0000" stop="20251124213000 +0000" channel="387238.shahid">
+        <title>Nadina</title>
+    </programme>
+    <programme start="20251124213000 +0000" stop="20251124221500 +0000" channel="387238.shahid">
+        <title>Ala Al Hawa Season 1 Episode 4</title>
+    </programme>
+    <programme start="20251124221500 +0000" stop="20251124225000 +0000" channel="387238.shahid">
+        <title>Holm Esref Season 2 Episode 7</title>
+    </programme>
+    <programme start="20251124225000 +0000" stop="20251124232000 +0000" channel="387238.shahid">
+        <title>Sikkat Safar Season 1 Episode 17</title>
+    </programme>
+    <programme start="20251124232000 +0000" stop="20251125000100 +0000" channel="387238.shahid">
+        <title>Aa Amal Season 1 Episode 1</title>
+    </programme>
+    <programme start="20251125000100 +0000" stop="20251125004300 +0000" channel="387238.shahid">
+        <title>Welad El Shams Season 1 Episode 11</title>
+    </programme>
+    <programme start="20251125004300 +0000" stop="20251125013300 +0000" channel="387238.shahid">
+        <title>Salma Season 1 Episode 71</title>
+    </programme>
+    <programme start="20251125013300 +0000" stop="20251125020100 +0000" channel="387238.shahid">
+        <title>Sikkat Safar Season 1 Episode 17</title>
+    </programme>
+    <programme start="20251125020100 +0000" stop="20251125023200 +0000" channel="387238.shahid">
+        <title>Holm Esref Season 2 Episode 7</title>
+    </programme>
+    <programme start="20251125023200 +0000" stop="20251125035300 +0000" channel="387238.shahid">
+        <title>Nadina</title>
+    </programme>
+    <programme start="20251125035300 +0000" stop="20251125045400 +0000" channel="387238.shahid">
+        <title>Al Marsa Season 1 Episode 29</title>
+    </programme>
+    <programme start="20251125045400 +0000" stop="20251125053400 +0000" channel="387238.shahid">
+        <title>Welad El Shams Season 1 Episode 11</title>
+    </programme>
+    <programme start="20251125053400 +0000" stop="20251125061000 +0000" channel="387238.shahid">
+        <title>Ala Al Hawa Season 1 Episode 4</title>
+    </programme>
+    <programme start="20251125061000 +0000" stop="20251125065100 +0000" channel="387238.shahid">
+        <title>Aa Amal Season 1 Episode 1</title>
+    </programme>
+    <programme start="20251125065100 +0000" stop="20251125071500 +0000" channel="387238.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20251125071500 +0000" stop="20251125080000 +0000" channel="387238.shahid">
+        <title>Salma Season 1 Episode 71</title>
+    </programme>
+    <programme start="20251125080000 +0000" stop="20251125094900 +0000" channel="387238.shahid">
+        <title>Sabah Al Khair Ya Arab</title>
+    </programme>
+    <programme start="20251125094900 +0000" stop="20251125100000 +0000" channel="387238.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20251125100000 +0000" stop="20251125103000 +0000" channel="387238.shahid">
+        <title>Sikkat Safar Season 1 Episode 17</title>
+    </programme>
+    <programme start="20251125103000 +0000" stop="20251125110000 +0000" channel="387238.shahid">
+        <title>Holm Esref Season 2 Episode 7</title>
+    </programme>
+    <programme start="20251125110000 +0000" stop="20251125114500 +0000" channel="387238.shahid">
+        <title>Al Marsa Season 1 Episode 29</title>
+    </programme>
+    <programme start="20251125114500 +0000" stop="20251125122000 +0000" channel="387238.shahid">
+        <title>Ala Al Hawa Season 1 Episode 4</title>
+    </programme>
+    <programme start="20251125122000 +0000" stop="20251125130500 +0000" channel="387238.shahid">
+        <title>Salma Season 1 Episode 71</title>
+    </programme>
+    <programme start="20251125130500 +0000" stop="20251125134700 +0000" channel="387238.shahid">
+        <title>Aa Amal Season 1 Episode 2</title>
+    </programme>
+    <programme start="20251125134700 +0000" stop="20251125140500 +0000" channel="387238.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20251125140500 +0000" stop="20251125144900 +0000" channel="387238.shahid">
+        <title>Welad El Shams Season 1 Episode 12</title>
+    </programme>
+    <programme start="20251125144900 +0000" stop="20251125150000 +0000" channel="387238.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20251125150000 +0000" stop="20251125155200 +0000" channel="387238.shahid">
+        <title>Al Marsa</title>
+    </programme>
+    <programme start="20251125155200 +0000" stop="20251125160000 +0000" channel="387238.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20251125160000 +0000" stop="20251125163000 +0000" channel="387238.shahid">
+        <title>Sikkat Safar Season 1 Episode 18</title>
+    </programme>
+    <programme start="20251125163000 +0000" stop="20251125170000 +0000" channel="387238.shahid">
+        <title>Holm Esref Season 2 Episode 8</title>
+    </programme>
+    <programme start="20251125170000 +0000" stop="20251125175000 +0000" channel="387238.shahid">
+        <title>Salma Season 1 Episode 72</title>
+    </programme>
+    <programme start="20251125175000 +0000" stop="20251125180000 +0000" channel="387238.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20251125180000 +0000" stop="20251125183000 +0000" channel="387238.shahid">
+        <title>Al Akhbar MBC</title>
+    </programme>
+    <programme start="20251125183000 +0000" stop="20251125194500 +0000" channel="387238.shahid">
+        <title>Top Chef</title>
+    </programme>
+    <programme start="20251125194500 +0000" stop="20251125200000 +0000" channel="387238.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20251125200000 +0000" stop="20251125212300 +0000" channel="387238.shahid">
+        <title>Nadina</title>
+    </programme>
+    <programme start="20251125212300 +0000" stop="20251125213000 +0000" channel="387238.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20251125213000 +0000" stop="20251125220600 +0000" channel="387238.shahid">
+        <title>Ala Al Hawa Season 1 Episode 5</title>
+    </programme>
+    <programme start="20251125220600 +0000" stop="20251125223000 +0000" channel="387238.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20251125223000 +0000" stop="20251125230000 +0000" channel="387238.shahid">
+        <title>Holm Esref Season 2 Episode 8</title>
+    </programme>
+    <programme start="20251125230000 +0000" stop="20251125232600 +0000" channel="387238.shahid">
+        <title>Sikkat Safar Season 1 Episode 18</title>
+    </programme>
+    <programme start="20251125232600 +0000" stop="20251125235959 +0000" channel="387238.shahid">
+        <title>TV guide is not available</title>
+    </programme>
     <programme start="20251124000000 +0000" stop="20251125235959 +0000" channel="388566.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20251124000000 +0000" stop="20251125235959 +0000" channel="946942.shahid">
         <title>TV guide is not available</title>
     </programme>
     <programme start="20251124000000 +0000" stop="20251124001527 +0000" channel="969745.shahid">
@@ -5466,9 +5469,6 @@
     </programme>
     <programme start="20251125231532 +0000" stop="20251125235959 +0000" channel="969745.shahid">
         <title>Mamnou&#039; Al Tajawwol Season 1 Episode 28</title>
-    </programme>
-    <programme start="20251124000000 +0000" stop="20251125235959 +0000" channel="946942.shahid">
-        <title>TV guide is not available</title>
     </programme>
     <programme start="20251124000000 +0000" stop="20251125235959 +0000" channel="49922763510387.shahid">
         <title>TV guide is not available</title>

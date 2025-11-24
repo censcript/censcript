@@ -937,54 +937,6 @@
 <programme start="20251124224000 +0000" stop="20251124233000 +0000" channel="Crime + Investigation.skyde">
     <title>Witness to Murder - Digitale Zeugen</title>
 </programme>
-<programme start="20251123230000 +0000" stop="20251124070000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Sendepause</title>
-</programme>
-<programme start="20251124070000 +0000" stop="20251124073500 +0000" channel="DAZN 1 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
-</programme>
-<programme start="20251124073500 +0000" stop="20251124075500 +0000" channel="DAZN 1 HD.skyde">
-    <title>Let&#039;s go Ballin&#039;: Episode 1</title>
-</programme>
-<programme start="20251124075500 +0000" stop="20251124094500 +0000" channel="DAZN 1 HD.skyde">
-    <title>LaLiga 25/26: FC Barcelona - Athletic Bilbao</title>
-</programme>
-<programme start="20251124094500 +0000" stop="20251124101000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
-</programme>
-<programme start="20251124101000 +0000" stop="20251124105000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Decoded 2023/24: NFL: Berlin Game : Atlanta Falcons - Indianapolis Colts</title>
-</programme>
-<programme start="20251124105000 +0000" stop="20251124125000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Bundesliga: 1. FSV Mainz 05 -TSG 1899 Hoffenheim</title>
-</programme>
-<programme start="20251124125000 +0000" stop="20251124145000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Bundesliga: RB Leipzig - SV Werder Bremen</title>
-</programme>
-<programme start="20251124145000 +0000" stop="20251124151500 +0000" channel="DAZN 1 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
-</programme>
-<programme start="20251124151500 +0000" stop="20251124160000 +0000" channel="DAZN 1 HD.skyde">
-    <title>VfB in Team: Folge 9 - Neue Perspektiven</title>
-</programme>
-<programme start="20251124160000 +0000" stop="20251124163000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Decoded 2023/24: NFL: Berlin Game : Atlanta Falcons - Indianapolis Colts</title>
-</programme>
-<programme start="20251124163000 +0000" stop="20251124173500 +0000" channel="DAZN 1 HD.skyde">
-    <title>World Darts Championship: Auslosung</title>
-</programme>
-<programme start="20251124173500 +0000" stop="20251124192500 +0000" channel="DAZN 1 HD.skyde">
-    <title>Serie A 25/26: Inter Mailand - AC Mailand</title>
-</programme>
-<programme start="20251124192500 +0000" stop="20251124195500 +0000" channel="DAZN 1 HD.skyde">
-    <title>NFL Features 2025/26: Rise of a Lion - Amon-Ra St. Brown</title>
-</programme>
-<programme start="20251124195500 +0000" stop="20251124220500 +0000" channel="DAZN 1 HD.skyde">
-    <title>LaLiga 25/26: Espanyol Barcelona - FC Sevilla</title>
-</programme>
-<programme start="20251124220500 +0000" stop="20251124230000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Get Wild: Lange Version</title>
-</programme>
 <programme start="20251124000500 +0000" stop="20251124070000 +0000" channel="DAZN 2 HD.skyde">
     <title>Sendepause</title>
 </programme>
@@ -2586,6 +2538,69 @@
 </programme>
 <programme start="20251124225500 +0000" stop="20251124234500 +0000" channel="Sky Showcase HD.skyde">
     <title>Teuflische Nachbarn</title>
+</programme>
+<programme start="20251123231500 +0000" stop="20251124011500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: SK Rapid - Grazer AK 1902, 14. Runde</title>
+</programme>
+<programme start="20251124011500 +0000" stop="20251124021500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: Alle Spiele, alle Tore 14. Runde (Sonntag)</title>
+</programme>
+<programme start="20251124021500 +0000" stop="20251124041500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: FC Red Bull Salzburg - WSG Tirol, 14. Runde</title>
+</programme>
+<programme start="20251124041500 +0000" stop="20251124061500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: SK Puntigamer Sturm Graz - LASK, 14. Runde</title>
+</programme>
+<programme start="20251124061500 +0000" stop="20251124064500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: ASAT Kompakt, 14. Runde</title>
+</programme>
+<programme start="20251124064500 +0000" stop="20251124080000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Talk &amp; Tore: Fußball-Talk</title>
+</programme>
+<programme start="20251124080000 +0000" stop="20251124083000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>UEFA CL: Magazin</title>
+</programme>
+<programme start="20251124083000 +0000" stop="20251124093000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: Alle Spiele, alle Tore 14. Runde (Sonntag)</title>
+</programme>
+<programme start="20251124093000 +0000" stop="20251124102000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>UEFA EL: UEL &amp; UECL Magazin</title>
+</programme>
+<programme start="20251124102000 +0000" stop="20251124105000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: ASAT Kompakt, 14. Runde</title>
+</programme>
+<programme start="20251124105000 +0000" stop="20251124112000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>UEFA CL: Magazin</title>
+</programme>
+<programme start="20251124112000 +0000" stop="20251124122000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: Alle Spiele, alle Tore 14. Runde (Sonntag)</title>
+</programme>
+<programme start="20251124122000 +0000" stop="20251124131500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>UEFA EL: UEL &amp; UECL Magazin</title>
+</programme>
+<programme start="20251124131500 +0000" stop="20251124153000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Live Junioren: Österreich - Italien, FIFA U-17 WM 2025</title>
+</programme>
+<programme start="20251124153000 +0000" stop="20251124155000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>PL: The Greatest Solo Goals</title>
+</programme>
+<programme start="20251124155000 +0000" stop="20251124180000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Live Junioren: Portugal - Brasilien, FIFA U-17 WM 2025</title>
+</programme>
+<programme start="20251124180000 +0000" stop="20251124183000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: ASAT Kompakt, 14. Runde</title>
+</programme>
+<programme start="20251124183000 +0000" stop="20251124195000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Talk &amp; Tore: Fußball-Talk</title>
+</programme>
+<programme start="20251124195000 +0000" stop="20251124220000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Live PL: Manchester United - FC Everton, 12. Spieltag</title>
+</programme>
+<programme start="20251124220000 +0000" stop="20251124223000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: 90in30: STU - ASK, 14. Runde</title>
+</programme>
+<programme start="20251124223000 +0000" stop="20251125003000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Junioren: Portugal - Brasilien, FIFA U-17 WM 2025</title>
 </programme>
 <programme start="20251123230000 +0000" stop="20251124000000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL Kompakt: 11. Spieltag</title>
