@@ -2587,34 +2587,34 @@
 <programme start="20251124225500 +0000" stop="20251124234500 +0000" channel="Sky Showcase HD.skyde">
     <title>Teuflische Nachbarn</title>
 </programme>
-<programme start="20251123231500 +0000" stop="20251124011500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20251123230000 +0000" stop="20251124010000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: SK Rapid - Grazer AK 1902, 14. Runde</title>
 </programme>
-<programme start="20251124011500 +0000" stop="20251124021500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20251124010000 +0000" stop="20251124020000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: Alle Spiele, alle Tore 14. Runde (Sonntag)</title>
 </programme>
-<programme start="20251124021500 +0000" stop="20251124041500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20251124020000 +0000" stop="20251124040000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: FC Red Bull Salzburg - WSG Tirol, 14. Runde</title>
 </programme>
-<programme start="20251124041500 +0000" stop="20251124061500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20251124040000 +0000" stop="20251124060000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: SK Puntigamer Sturm Graz - LASK, 14. Runde</title>
 </programme>
-<programme start="20251124061500 +0000" stop="20251124064500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20251124060000 +0000" stop="20251124063000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: ASAT Kompakt, 14. Runde</title>
 </programme>
-<programme start="20251124064500 +0000" stop="20251124080000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20251124063000 +0000" stop="20251124074500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Talk &amp; Tore: Fußball-Talk</title>
 </programme>
-<programme start="20251124080000 +0000" stop="20251124083000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20251124074500 +0000" stop="20251124081500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA CL: Magazin</title>
 </programme>
-<programme start="20251124083000 +0000" stop="20251124093000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20251124081500 +0000" stop="20251124091500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: Alle Spiele, alle Tore 14. Runde (Sonntag)</title>
 </programme>
-<programme start="20251124093000 +0000" stop="20251124102000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20251124091500 +0000" stop="20251124101500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA EL: UEL &amp; UECL Magazin</title>
 </programme>
-<programme start="20251124102000 +0000" stop="20251124105000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20251124101500 +0000" stop="20251124105000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: ASAT Kompakt, 14. Runde</title>
 </programme>
 <programme start="20251124105000 +0000" stop="20251124112000 +0000" channel="Sky Sport Austria 1 HD.skyde">
