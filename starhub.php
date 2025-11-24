@@ -7984,19 +7984,22 @@
     <programme start="20251123232000 +0000" stop="20251124013000 +0000" channel="Asianet Movies.starhub">
         <title>Ranam</title>
     </programme>
-    <programme start="20251124013000 +0000" stop="20251124043000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251124013000 +0000" stop="20251124015000 +0000" channel="Asianet Movies.starhub">
+        <title>Chirikkum Thalika</title>
+    </programme>
+    <programme start="20251124015000 +0000" stop="20251124043000 +0000" channel="Asianet Movies.starhub">
         <title>Nna Thaan Case Kodu</title>
     </programme>
     <programme start="20251124043000 +0000" stop="20251124073000 +0000" channel="Asianet Movies.starhub">
         <title>One</title>
     </programme>
-    <programme start="20251124073000 +0000" stop="20251124103000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251124073000 +0000" stop="20251124104500 +0000" channel="Asianet Movies.starhub">
         <title>Pushpa: The Rise - Part 1</title>
     </programme>
-    <programme start="20251124103000 +0000" stop="20251124133000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251124104500 +0000" stop="20251124133000 +0000" channel="Asianet Movies.starhub">
         <title>Forensic</title>
     </programme>
-    <programme start="20251124133000 +0000" stop="20251124170000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251124133000 +0000" stop="20251124163500 +0000" channel="Asianet Movies.starhub">
         <title>Oru Marubhoomikkadha</title>
     </programme>
     <programme start="20251123153000 +0000" stop="20251123163000 +0000" channel="Astro Warna HD.starhub">

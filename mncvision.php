@@ -5623,72 +5623,7 @@
 <programme start="20251124163500 +0000" stop="20251123170500 +0000" channel="Love Nature HD.mncvision">
     <title>Tales From Zambia S2, Ep 4</title>
 </programme>
-<programme start="20251123174000 +0000" stop="20251123200000 +0000" channel="MDTV.mncvision">
-    <title>MDTV</title>
-</programme>
-<programme start="20251123200000 +0000" stop="20251123210000 +0000" channel="MDTV.mncvision">
-    <title>MDTV</title>
-</programme>
-<programme start="20251123210000 +0000" stop="20251123220000 +0000" channel="MDTV.mncvision">
-    <title>MDTV</title>
-</programme>
-<programme start="20251123220000 +0000" stop="20251123230000 +0000" channel="MDTV.mncvision">
-    <title>MDTV</title>
-</programme>
-<programme start="20251123230000 +0000" stop="20251124000000 +0000" channel="MDTV.mncvision">
-    <title>MDTV</title>
-</programme>
-<programme start="20251124000000 +0000" stop="20251124010000 +0000" channel="MDTV.mncvision">
-    <title>MDTV</title>
-</programme>
-<programme start="20251124010000 +0000" stop="20251124020000 +0000" channel="MDTV.mncvision">
-    <title>MDTV</title>
-</programme>
-<programme start="20251124020000 +0000" stop="20251124030000 +0000" channel="MDTV.mncvision">
-    <title>MDTV</title>
-</programme>
-<programme start="20251124030000 +0000" stop="20251124035500 +0000" channel="MDTV.mncvision">
-    <title>MDTV</title>
-</programme>
-<programme start="20251124035500 +0000" stop="20251124052500 +0000" channel="MDTV.mncvision">
-    <title>MDTV</title>
-</programme>
-<programme start="20251124052500 +0000" stop="20251124062500 +0000" channel="MDTV.mncvision">
-    <title>MDTV</title>
-</programme>
-<programme start="20251124062500 +0000" stop="20251124073500 +0000" channel="MDTV.mncvision">
-    <title>MDTV</title>
-</programme>
-<programme start="20251124073500 +0000" stop="20251124083500 +0000" channel="MDTV.mncvision">
-    <title>MDTV</title>
-</programme>
-<programme start="20251124083500 +0000" stop="20251124093500 +0000" channel="MDTV.mncvision">
-    <title>MDTV</title>
-</programme>
-<programme start="20251124093500 +0000" stop="20251124100500 +0000" channel="MDTV.mncvision">
-    <title>MDTV</title>
-</programme>
-<programme start="20251124100500 +0000" stop="20251124110000 +0000" channel="MDTV.mncvision">
-    <title>MDTV</title>
-</programme>
-<programme start="20251124110000 +0000" stop="20251124123000 +0000" channel="MDTV.mncvision">
-    <title>MDTV</title>
-</programme>
-<programme start="20251124123000 +0000" stop="20251124133500 +0000" channel="MDTV.mncvision">
-    <title>MDTV</title>
-</programme>
-<programme start="20251124133500 +0000" stop="20251124144500 +0000" channel="MDTV.mncvision">
-    <title>MDTV</title>
-</programme>
-<programme start="20251124144500 +0000" stop="20251124154000 +0000" channel="MDTV.mncvision">
-    <title>MDTV</title>
-</programme>
-<programme start="20251124154000 +0000" stop="20251124163500 +0000" channel="MDTV.mncvision">
-    <title>MDTV</title>
-</programme>
-<programme start="20251124163500 +0000" stop="20251123170500 +0000" channel="MDTV.mncvision">
-    <title>MDTV</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20251123170000 +0000" stop="20251123170500 +0000" channel="Metro TV.mncvision">
     <title>Metro TV</title>
 </programme>
@@ -7957,6 +7892,7 @@
 <programme start="20251124160000 +0000" stop="20251124163000 +0000" channel="SCTV HD.mncvision">
     <title>SCTV</title>
 </programme>
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20251123170000 +0000" stop="20251123173000 +0000" channel="Sindo News TV.mncvision">
     <title>iNews Sport</title>
 </programme>
@@ -8407,42 +8343,7 @@
 <programme start="20251124150000 +0000" stop="20251124153000 +0000" channel="sportstars 3 HD.mncvision">
     <title>Liga 2</title>
 </programme>
-<programme start="20251123170000 +0000" stop="20251123190000 +0000" channel="Sportstars 4.mncvision">
-    <title>Bundesliga</title>
-</programme>
-<programme start="20251123190000 +0000" stop="20251123210000 +0000" channel="Sportstars 4.mncvision">
-    <title>BRI Liga 1</title>
-</programme>
-<programme start="20251123210000 +0000" stop="20251123230000 +0000" channel="Sportstars 4.mncvision">
-    <title>European Qualifiers</title>
-</programme>
-<programme start="20251123230000 +0000" stop="20251124010000 +0000" channel="Sportstars 4.mncvision">
-    <title>Bundesliga</title>
-</programme>
-<programme start="20251124010000 +0000" stop="20251124030000 +0000" channel="Sportstars 4.mncvision">
-    <title>Timnas Special</title>
-</programme>
-<programme start="20251124030000 +0000" stop="20251124050000 +0000" channel="Sportstars 4.mncvision">
-    <title>V League Women</title>
-</programme>
-<programme start="20251124050000 +0000" stop="20251124070000 +0000" channel="Sportstars 4.mncvision">
-    <title>V League Men</title>
-</programme>
-<programme start="20251124070000 +0000" stop="20251124090000 +0000" channel="Sportstars 4.mncvision">
-    <title>European Qualifiers</title>
-</programme>
-<programme start="20251124090000 +0000" stop="20251124110000 +0000" channel="Sportstars 4.mncvision">
-    <title>Liga 2</title>
-</programme>
-<programme start="20251124110000 +0000" stop="20251124130000 +0000" channel="Sportstars 4.mncvision">
-    <title>BRI Liga 1</title>
-</programme>
-<programme start="20251124130000 +0000" stop="20251124150000 +0000" channel="Sportstars 4.mncvision">
-    <title>European Qualifiers</title>
-</programme>
-<programme start="20251124150000 +0000" stop="20251124153000 +0000" channel="Sportstars 4.mncvision">
-    <title>Liga 2</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20251123170000 +0000" stop="20251123190000 +0000" channel="Sportstars 4 HD.mncvision">
     <title>Bundesliga</title>
 </programme>
