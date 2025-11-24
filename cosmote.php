@@ -1,7 +1,3 @@
-<programme start="20251124164500 +0700" stop="20251124174500 +0700" channel="COSMOTE Sport 1 HD">
-    <title>UEFA Champions League Highlights 2025-26</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251124174500 +0700" stop="20251124181500 +0700" channel="COSMOTE Sport 1 HD">
     <title>UEFA Champions League Magazine 2025-26 E12</title>
     <desc>Live: Tidak</desc>
@@ -62,6 +58,10 @@
     <title>Football: Malmo FF - Panathinaikos</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251125183000 +0700" stop="20251125193000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEL &amp; UECL Magazine 2025-26 E5</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251124161000 +0700" stop="20251124181000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: SS Lazio - Lecce</title>
     <desc>Live: Tidak</desc>
@@ -118,8 +118,8 @@
     <title>Football: Sassuolo - Pisa</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251124150500 +0700" stop="20251124170500 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Preston North End - Blackburn Rovers</title>
+<programme start="20251125181500 +0700" stop="20251125202500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Volos - Levadiakos</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251124170500 +0700" stop="20251124190500 +0700" channel="COSMOTE Sport 3 HD">
