@@ -937,6 +937,54 @@
 <programme start="20251124224000 +0000" stop="20251124233000 +0000" channel="Crime + Investigation.skyde">
     <title>Witness to Murder - Digitale Zeugen</title>
 </programme>
+<programme start="20251123230000 +0000" stop="20251124070000 +0000" channel="DAZN 1 HD.skyde">
+    <title>Sendepause</title>
+</programme>
+<programme start="20251124070000 +0000" stop="20251124073500 +0000" channel="DAZN 1 HD.skyde">
+    <title>Best of DAZN: Highlights</title>
+</programme>
+<programme start="20251124073500 +0000" stop="20251124075500 +0000" channel="DAZN 1 HD.skyde">
+    <title>Let&#039;s go Ballin&#039;: Episode 1</title>
+</programme>
+<programme start="20251124075500 +0000" stop="20251124094500 +0000" channel="DAZN 1 HD.skyde">
+    <title>LaLiga 25/26: FC Barcelona - Athletic Bilbao</title>
+</programme>
+<programme start="20251124094500 +0000" stop="20251124101000 +0000" channel="DAZN 1 HD.skyde">
+    <title>Best of DAZN: Highlights</title>
+</programme>
+<programme start="20251124101000 +0000" stop="20251124105000 +0000" channel="DAZN 1 HD.skyde">
+    <title>Decoded 2023/24: NFL: Berlin Game : Atlanta Falcons - Indianapolis Colts</title>
+</programme>
+<programme start="20251124105000 +0000" stop="20251124125000 +0000" channel="DAZN 1 HD.skyde">
+    <title>Bundesliga: 1. FSV Mainz 05 -TSG 1899 Hoffenheim</title>
+</programme>
+<programme start="20251124125000 +0000" stop="20251124145000 +0000" channel="DAZN 1 HD.skyde">
+    <title>Bundesliga: RB Leipzig - SV Werder Bremen</title>
+</programme>
+<programme start="20251124145000 +0000" stop="20251124151500 +0000" channel="DAZN 1 HD.skyde">
+    <title>Best of DAZN: Highlights</title>
+</programme>
+<programme start="20251124151500 +0000" stop="20251124160000 +0000" channel="DAZN 1 HD.skyde">
+    <title>VfB in Team: Folge 9 - Neue Perspektiven</title>
+</programme>
+<programme start="20251124160000 +0000" stop="20251124163000 +0000" channel="DAZN 1 HD.skyde">
+    <title>Decoded 2023/24: NFL: Berlin Game : Atlanta Falcons - Indianapolis Colts</title>
+</programme>
+<programme start="20251124163000 +0000" stop="20251124173500 +0000" channel="DAZN 1 HD.skyde">
+    <title>World Darts Championship: Auslosung</title>
+</programme>
+<programme start="20251124173500 +0000" stop="20251124192500 +0000" channel="DAZN 1 HD.skyde">
+    <title>Serie A 25/26: Inter Mailand - AC Mailand</title>
+</programme>
+<programme start="20251124192500 +0000" stop="20251124195500 +0000" channel="DAZN 1 HD.skyde">
+    <title>NFL Features 2025/26: Rise of a Lion - Amon-Ra St. Brown</title>
+</programme>
+<programme start="20251124195500 +0000" stop="20251124220500 +0000" channel="DAZN 1 HD.skyde">
+    <title>LaLiga 25/26: Espanyol Barcelona - FC Sevilla</title>
+</programme>
+<programme start="20251124220500 +0000" stop="20251124230000 +0000" channel="DAZN 1 HD.skyde">
+    <title>Get Wild: Lange Version</title>
+</programme>
 <programme start="20251124000500 +0000" stop="20251124070000 +0000" channel="DAZN 2 HD.skyde">
     <title>Sendepause</title>
 </programme>
