@@ -661,62 +661,65 @@
 <programme start="20251125114500 +0000" stop="20251125121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
-<programme start="20251123233000 +0000" stop="20251124013000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<programme start="20251123230000 +0000" stop="20251124010000 +0000" channel="ANTV.vision">
+<title>Intan Berduri</title>
 </programme>
-<programme start="20251124013000 +0000" stop="20251124050000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<programme start="20251124010000 +0000" stop="20251124030000 +0000" channel="ANTV.vision">
+<title>Mangal Lakshmi</title>
 </programme>
-<programme start="20251124050000 +0000" stop="20251124063000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<programme start="20251124030000 +0000" stop="20251124063000 +0000" channel="ANTV.vision">
+<title>Sultan</title>
 </programme>
-<programme start="20251124063000 +0000" stop="20251124090000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<programme start="20251124063000 +0000" stop="20251124080000 +0000" channel="ANTV.vision">
+<title>Cinta Keluarga Pandya</title>
 </programme>
-<programme start="20251124090000 +0000" stop="20251124110000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<programme start="20251124080000 +0000" stop="20251124093000 +0000" channel="ANTV.vision">
+<title>Zeynep</title>
 </programme>
-<programme start="20251124110000 +0000" stop="20251124123000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<programme start="20251124093000 +0000" stop="20251124110000 +0000" channel="ANTV.vision">
+<title>Takdir Cinta Layla</title>
 </programme>
-<programme start="20251124123000 +0000" stop="20251124143000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<programme start="20251124110000 +0000" stop="20251124130000 +0000" channel="ANTV.vision">
+<title>Mandala Penakluk Satria Tartar</title>
+</programme>
+<programme start="20251124130000 +0000" stop="20251124143000 +0000" channel="ANTV.vision">
+<title>Titisan Dewi Ular</title>
 </programme>
 <programme start="20251124143000 +0000" stop="20251124163000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<title>Saur Sepuh</title>
 </programme>
 <programme start="20251124163000 +0000" stop="20251124183000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<title>Sword Man</title>
 </programme>
-<programme start="20251124183000 +0000" stop="20251124203000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<programme start="20251124183000 +0000" stop="20251124200000 +0000" channel="ANTV.vision">
+<title>Mustika Sakti</title>
 </programme>
-<programme start="20251124203000 +0000" stop="20251124220000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<programme start="20251124200000 +0000" stop="20251124213000 +0000" channel="ANTV.vision">
+<title>Perwira Dan Ksatria</title>
 </programme>
-<programme start="20251124220000 +0000" stop="20251124223000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<programme start="20251124213000 +0000" stop="20251124230000 +0000" channel="ANTV.vision">
+<title>Ada Si Manis Di Jembatan</title>
 </programme>
-<programme start="20251124223000 +0000" stop="20251124233000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<programme start="20251124230000 +0000" stop="20251125010000 +0000" channel="ANTV.vision">
+<title>Hippies Lokal</title>
 </programme>
-<programme start="20251124233000 +0000" stop="20251125013000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<programme start="20251125010000 +0000" stop="20251125030000 +0000" channel="ANTV.vision">
+<title>Mangal Lakshmi</title>
 </programme>
-<programme start="20251125013000 +0000" stop="20251125050000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<programme start="20251125030000 +0000" stop="20251125063000 +0000" channel="ANTV.vision">
+<title>Bade Miyan Chote Miyan</title>
 </programme>
-<programme start="20251125050000 +0000" stop="20251125063000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<programme start="20251125063000 +0000" stop="20251125080000 +0000" channel="ANTV.vision">
+<title>Cinta Keluarga Pandya</title>
 </programme>
-<programme start="20251125063000 +0000" stop="20251125090000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<programme start="20251125080000 +0000" stop="20251125093000 +0000" channel="ANTV.vision">
+<title>Zeynep</title>
 </programme>
-<programme start="20251125090000 +0000" stop="20251125110000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<programme start="20251125093000 +0000" stop="20251125110000 +0000" channel="ANTV.vision">
+<title>Takdir Cinta Layla</title>
 </programme>
-<programme start="20251125110000 +0000" stop="20251125123000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<programme start="20251125110000 +0000" stop="20251125130000 +0000" channel="ANTV.vision">
+<title>Pendekar Mata Satu</title>
 </programme>
 <programme start="20251123235900 +0000" stop="20251124005900 +0000" channel="RTV.vision">
 <title>RTV</title>
@@ -1493,8 +1496,5 @@
 <title>BTV</title>
 </programme>
 <programme start="20251125093000 +0000" stop="20251125103000 +0000" channel="BTV.vision">
-<title>BTV</title>
-</programme>
-<programme start="20251125103000 +0000" stop="20251125123000 +0000" channel="BTV.vision">
 <title>BTV</title>
 </programme>

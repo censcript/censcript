@@ -1,7 +1,3 @@
-<programme start="20251124130000 +0700" stop="20251124133000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>UEFA Champions League Magazine 2025-26 E12</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251124133000 +0700" stop="20251124154500 +0700" channel="COSMOTE Sport 1 HD">
     <title>Sportshow</title>
     <desc>Live: Tidak</desc>
@@ -66,6 +62,10 @@
     <title>UEFA Champions League Highlights 2025-26</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251125143000 +0700" stop="20251125163000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: AEK - Shamrock Rovers FC</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251124120000 +0700" stop="20251124141000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Olympiacos - Atromitos Athens</title>
     <desc>Live: Tidak</desc>
@@ -120,6 +120,10 @@
 </programme>
 <programme start="20251125120000 +0700" stop="20251125141500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: AEK - Aris</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251125141500 +0700" stop="20251125161500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Torino - Como</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251124115000 +0700" stop="20251124150500 +0700" channel="COSMOTE Sport 3 HD">
@@ -314,10 +318,6 @@
     <title>2025 Extreme H</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251124110000 +0700" stop="20251124131500 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Athletics: World Athletics Continental Tour Gold 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251124131500 +0700" stop="20251124141500 +0700" channel="COSMOTE Sport 6 HD">
     <title>ATP Masters 1000 2025 - Highlights</title>
     <desc>Live: Tidak</desc>
@@ -384,6 +384,10 @@
 </programme>
 <programme start="20251125131500 +0700" stop="20251125141500 +0700" channel="COSMOTE Sport 6 HD">
     <title>ATP Masters 1000 2025 - Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251125141500 +0700" stop="20251125151500 +0700" channel="COSMOTE Sport 6 HD">
+    <title>ATP 500 2025 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251124130000 +0700" stop="20251124150000 +0700" channel="COSMOTE Sport 7 HD">
