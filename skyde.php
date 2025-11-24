@@ -1762,48 +1762,6 @@
 <programme start="20251124224500 +0000" stop="20251125002000 +0000" channel="Sky Cinema Action HD.skyde">
     <title>Control</title>
 </programme>
-<programme start="20251124005500 +0000" stop="20251124023000 +0000" channel="Sky Cinema Classics HD.skyde">
-    <title>Die Diamantenhölle am Mekong</title>
-</programme>
-<programme start="20251124023000 +0000" stop="20251124035000 +0000" channel="Sky Cinema Classics HD.skyde">
-    <title>Die Findelmutter</title>
-</programme>
-<programme start="20251124035000 +0000" stop="20251124051500 +0000" channel="Sky Cinema Classics HD.skyde">
-    <title>Orion 3000 - Raumfahrt des Grauens</title>
-</programme>
-<programme start="20251124051500 +0000" stop="20251124071000 +0000" channel="Sky Cinema Classics HD.skyde">
-    <title>True Grit</title>
-</programme>
-<programme start="20251124071000 +0000" stop="20251124084000 +0000" channel="Sky Cinema Classics HD.skyde">
-    <title>Blutige Seide</title>
-</programme>
-<programme start="20251124084000 +0000" stop="20251124104500 +0000" channel="Sky Cinema Classics HD.skyde">
-    <title>Die vier Söhne der Katie Elder</title>
-</programme>
-<programme start="20251124104500 +0000" stop="20251124122000 +0000" channel="Sky Cinema Classics HD.skyde">
-    <title>Königstiger vor El Alamein</title>
-</programme>
-<programme start="20251124122000 +0000" stop="20251124142000 +0000" channel="Sky Cinema Classics HD.skyde">
-    <title>Jenseits von Eden</title>
-</programme>
-<programme start="20251124142000 +0000" stop="20251124160000 +0000" channel="Sky Cinema Classics HD.skyde">
-    <title>Der Tolpatsch</title>
-</programme>
-<programme start="20251124160000 +0000" stop="20251124172000 +0000" channel="Sky Cinema Classics HD.skyde">
-    <title>Der Siebente ist dran</title>
-</programme>
-<programme start="20251124172000 +0000" stop="20251124191500 +0000" channel="Sky Cinema Classics HD.skyde">
-    <title>... denn sie wissen nicht, was sie tun</title>
-</programme>
-<programme start="20251124191500 +0000" stop="20251124212000 +0000" channel="Sky Cinema Classics HD.skyde">
-    <title>Die vier Söhne der Katie Elder</title>
-</programme>
-<programme start="20251124212000 +0000" stop="20251124225500 +0000" channel="Sky Cinema Classics HD.skyde">
-    <title>Der Stern des Gesetzes</title>
-</programme>
-<programme start="20251124225500 +0000" stop="20251125003500 +0000" channel="Sky Cinema Classics HD.skyde">
-    <title>Bandidos</title>
-</programme>
 <programme start="20251124003500 +0000" stop="20251124025000 +0000" channel="Sky Cinema Family HD.skyde">
     <title>Der Herr der Ringe: Die Schlacht der Rohirrim</title>
 </programme>
