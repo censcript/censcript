@@ -62,6 +62,14 @@
     <title>UEFA Champions League Magazine 2025-26 E12</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251126000000 +0700" stop="20251126004500 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEFA Champions League Show 2025-26 (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
+<programme start="20251126004500 +0700" stop="20251126030000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEFA Champions League 2025-26 Minute By Minute (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
 <programme start="20251124230000 +0700" stop="20251125011000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Volos - Levadiakos (L)</title>
     <desc>Live: Ya</desc>
@@ -113,6 +121,10 @@
 <programme start="20251125222500 +0700" stop="20251126004500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: AEL Novibet - OFI</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251126004500 +0700" stop="20251126030000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: AFC Ajax - SL Benfica (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20251124210500 +0700" stop="20251125003000 +0700" channel="COSMOTE Sport 3 HD">
     <title>American Football: Kansas City Chiefs - Indianapolis Colts</title>
@@ -170,9 +182,13 @@
     <title>Copa Libertadores 2025 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251124220000 +0700" stop="20251125000000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Fenerbahce - Bursaspor</title>
+<programme start="20251126000000 +0700" stop="20251126004500 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Copa Sudamericana 2025 - Highlights</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251126004500 +0700" stop="20251126030000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Galatasaray AS - Union Saint-Gilloise (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20251125000000 +0700" stop="20251125003000 +0700" channel="COSMOTE Sport 4 HD">
     <title>NBA Specials</title>
@@ -224,6 +240,10 @@
 </programme>
 <programme start="20251125222500 +0700" stop="20251126002500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Granada - Real Madrid</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251126002500 +0700" stop="20251126010000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>NBA Action 2025-26 E3505</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251124230000 +0700" stop="20251125003000 +0700" channel="COSMOTE Sport 5 HD">
@@ -318,8 +338,8 @@
     <title>2025 FIM Women&#039;s Circuit Racing World Championship</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251124221000 +0700" stop="20251124231000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Beach Volley: 2025 FIVB Beach Volleyball World Championships</title>
+<programme start="20251126004500 +0700" stop="20251126011500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC Magazine 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251124231000 +0700" stop="20251125010000 +0700" channel="COSMOTE Sport 6 HD">
@@ -387,6 +407,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251125233500 +0700" stop="20251126002500 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Beach Volley: 2025 FIVB Beach Volleyball World Championships</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251126002500 +0700" stop="20251126013000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Beach Volley: 2025 FIVB Beach Volleyball World Championships</title>
     <desc>Live: Tidak</desc>
 </programme>
