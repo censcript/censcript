@@ -1,7 +1,3 @@
-<programme start="20251125010000 +0700" stop="20251125031000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: AEL Novibet - OFI (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
 <programme start="20251125031000 +0700" stop="20251125051000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Juventus Football Club - Sporting CP</title>
     <desc>Live: Tidak</desc>
@@ -65,10 +61,6 @@
 <programme start="20251126030000 +0700" stop="20251126050500 +0700" channel="COSMOTE Sport 1 HD">
     <title>UEFA Champions League 2025-26 Minute By Minute (L)</title>
     <desc>Live: Ya</desc>
-</programme>
-<programme start="20251125011000 +0700" stop="20251125031000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: SSC Napoli - Atalanta</title>
-    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251125031000 +0700" stop="20251125052000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Volos - Levadiakos</title>
@@ -234,9 +226,9 @@
     <title>Basketball: Phoenix Suns - Houston Rockets</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251125020000 +0700" stop="20251125032000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Grand Prix Show 2025 (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20251126044500 +0700" stop="20251126061000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Pick n&#039; Roll</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251125032000 +0700" stop="20251125041000 +0700" channel="COSMOTE Sport 5 HD">
     <title>DTM</title>
