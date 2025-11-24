@@ -8458,16 +8458,16 @@
     <programme start="20251124153000 +0000" stop="20251124163000 +0000" channel="ADITHYA TV.starhub">
         <title>Vedi Sirippu</title>
     </programme>
-    <programme start="20251123140000 +0000" stop="20251123163000 +0000" channel="Hub E City HD.starhub">
+    <programme start="20251123150800 +0000" stop="20251123170300 +0000" channel="Hub E City HD.starhub">
         <title>Little Big Master</title>
     </programme>
-    <programme start="20251123163000 +0000" stop="20251123173000 +0000" channel="Hub E City HD.starhub">
+    <programme start="20251123170300 +0000" stop="20251123174900 +0000" channel="Hub E City HD.starhub">
         <title>A Date with The Future</title>
     </programme>
-    <programme start="20251123173000 +0000" stop="20251123183000 +0000" channel="Hub E City HD.starhub">
+    <programme start="20251123174900 +0000" stop="20251123183600 +0000" channel="Hub E City HD.starhub">
         <title>Warm on a Cold Night</title>
     </programme>
-    <programme start="20251123183000 +0000" stop="20251123190000 +0000" channel="Hub E City HD.starhub">
+    <programme start="20251123183600 +0000" stop="20251123190000 +0000" channel="Hub E City HD.starhub">
         <title>Taste of Yunnan</title>
     </programme>
     <programme start="20251123190000 +0000" stop="20251123210000 +0000" channel="Hub E City HD.starhub">
@@ -9226,16 +9226,16 @@
     <programme start="20251124145000 +0000" stop="20251124164000 +0000" channel="Discovery HD.starhub">
         <title>Going Deep</title>
     </programme>
-    <programme start="20251123140000 +0000" stop="20251123163000 +0000" channel="Hub E City HD.starhub">
+    <programme start="20251123150800 +0000" stop="20251123170300 +0000" channel="Hub E City HD.starhub">
         <title>Little Big Master</title>
     </programme>
-    <programme start="20251123163000 +0000" stop="20251123173000 +0000" channel="Hub E City HD.starhub">
+    <programme start="20251123170300 +0000" stop="20251123174900 +0000" channel="Hub E City HD.starhub">
         <title>A Date with The Future</title>
     </programme>
-    <programme start="20251123173000 +0000" stop="20251123183000 +0000" channel="Hub E City HD.starhub">
+    <programme start="20251123174900 +0000" stop="20251123183600 +0000" channel="Hub E City HD.starhub">
         <title>Warm on a Cold Night</title>
     </programme>
-    <programme start="20251123183000 +0000" stop="20251123190000 +0000" channel="Hub E City HD.starhub">
+    <programme start="20251123183600 +0000" stop="20251123190000 +0000" channel="Hub E City HD.starhub">
         <title>Taste of Yunnan</title>
     </programme>
     <programme start="20251123190000 +0000" stop="20251123210000 +0000" channel="Hub E City HD.starhub">
@@ -9289,16 +9289,16 @@
     <programme start="20251124150000 +0000" stop="20251124160000 +0000" channel="Hub E City HD.starhub">
         <title>Hot Door Night</title>
     </programme>
-    <programme start="20251123140000 +0000" stop="20251123163000 +0000" channel="TestChannel1.starhub">
+    <programme start="20251123150800 +0000" stop="20251123170300 +0000" channel="TestChannel1.starhub">
         <title>Little Big Master</title>
     </programme>
-    <programme start="20251123163000 +0000" stop="20251123173000 +0000" channel="TestChannel1.starhub">
+    <programme start="20251123170300 +0000" stop="20251123174900 +0000" channel="TestChannel1.starhub">
         <title>A Date with The Future</title>
     </programme>
-    <programme start="20251123173000 +0000" stop="20251123183000 +0000" channel="TestChannel1.starhub">
+    <programme start="20251123174900 +0000" stop="20251123183600 +0000" channel="TestChannel1.starhub">
         <title>Warm on a Cold Night</title>
     </programme>
-    <programme start="20251123183000 +0000" stop="20251123190000 +0000" channel="TestChannel1.starhub">
+    <programme start="20251123183600 +0000" stop="20251123190000 +0000" channel="TestChannel1.starhub">
         <title>Taste of Yunnan</title>
     </programme>
     <programme start="20251123190000 +0000" stop="20251123210000 +0000" channel="TestChannel1.starhub">
