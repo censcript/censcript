@@ -1382,7 +1382,7 @@
 <title>Jalan Dakwah</title>
 </programme>
 <programme start="20251125003000 +0000" stop="20251125011500 +0000" channel="BTV.vision">
-<title>Figur Publik</title>
+<title>Info Seleb</title>
 </programme>
 <programme start="20251125011500 +0000" stop="20251125014500 +0000" channel="BTV.vision">
 <title>Kuyliner</title>
@@ -1412,7 +1412,7 @@
 <title>Info Seleb</title>
 </programme>
 <programme start="20251125084500 +0000" stop="20251125093000 +0000" channel="BTV.vision">
-<title>Figur Publik</title>
+<title>Berita Viral</title>
 </programme>
 <programme start="20251125093000 +0000" stop="20251125103000 +0000" channel="BTV.vision">
 <title>Berita Satu Sore</title>
@@ -1429,7 +1429,7 @@
 <programme start="20251125140000 +0000" stop="20251125150000 +0000" channel="BTV.vision">
 <title>Spot On</title>
 </programme>
-<programme start="20251125150000 +0000" stop="20251125160000 +0000" channel="BTV.vision">
+<programme start="20251128193000 +0000" stop="20251128203000 +0000" channel="BTV.vision">
 <title>Berita Satu Malam</title>
 </programme>
 <programme start="20251125160000 +0000" stop="20251125163000 +0000" channel="BTV.vision">
@@ -1438,7 +1438,7 @@
 <programme start="20251125163000 +0000" stop="20251125173000 +0000" channel="BTV.vision">
 <title>ONE Vault</title>
 </programme>
-<programme start="20251125173000 +0000" stop="20251125182700 +0000" channel="BTV.vision">
+<programme start="20251128223000 +0000" stop="20251128230000 +0000" channel="BTV.vision">
 <title>Berita Viral</title>
 </programme>
 <programme start="20251125182700 +0000" stop="20251125183000 +0000" channel="BTV.vision">
@@ -1464,9 +1464,6 @@
 </programme>
 <programme start="20251125230300 +0000" stop="20251126003000 +0000" channel="BTV.vision">
 <title>Jalan Dakwah</title>
-</programme>
-<programme start="20251126003000 +0000" stop="20251126011500 +0000" channel="BTV.vision">
-<title>Figur Publik</title>
 </programme>
 <programme start="20251126011500 +0000" stop="20251126014500 +0000" channel="BTV.vision">
 <title>Kuyliner</title>
@@ -1494,7 +1491,4 @@
 </programme>
 <programme start="20251126080000 +0000" stop="20251126084500 +0000" channel="BTV.vision">
 <title>Info Seleb</title>
-</programme>
-<programme start="20251126084500 +0000" stop="20251126093000 +0000" channel="BTV.vision">
-<title>Figur Publik</title>
 </programme>
