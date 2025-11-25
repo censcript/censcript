@@ -2649,13 +2649,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251125224500 +0000" stop="20251125231500 +0000" channel="Sky Showcase HD.skyde">
     <title>Snake Man - Der Schlangenfänger</title>
 </programme>
-<programme start="20251125003000 +0000" stop="20251125010000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20251125004000 +0000" stop="20251125010500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA CL: Magazin</title>
 </programme>
-<programme start="20251125010000 +0000" stop="20251125030000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20251125010500 +0000" stop="20251125030500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: FC Blau-Weiß Linz - FK Austria Wien, 14. Runde</title>
 </programme>
-<programme start="20251125030000 +0000" stop="20251125033000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20251125030500 +0000" stop="20251125033000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA CL: Magazin</title>
 </programme>
 <programme start="20251125033000 +0000" stop="20251125040000 +0000" channel="Sky Sport Austria 1 HD.skyde">
@@ -2992,13 +2992,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>DFB-Pokal Frauen: VfL Wolfsburg - SC Freiburg, Achtelfinale</title>
 </programme>
 <programme start="20251125060000 +0000" stop="20251125080000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NHL: St. Louis Blues @ New York Rangers</title>
+    <title>NHL: Minnesota Wild @ Winnipeg Jets</title>
 </programme>
 <programme start="20251125080000 +0000" stop="20251125083000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NBA: Showtime</title>
+    <title>Fußball: scooore Niederlande! Alle Tore</title>
 </programme>
 <programme start="20251125083000 +0000" stop="20251125103000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NBA: Cleveland Cavaliers @ Toronto Raptors</title>
+    <title>NBA: LA Clippers @ Charlotte Hornets</title>
 </programme>
 <programme start="20251125103000 +0000" stop="20251125104500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Highlights DET@NJD</title>
@@ -3013,7 +3013,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>NHL: On the Fly</title>
 </programme>
 <programme start="20251125140000 +0000" stop="20251125160000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>DFB-Pokal: 1. FSV Mainz 05 - VfB Stuttgart, 2. Runde</title>
+    <title>Junioren: Österreich - Italien, FIFA U-17 WM 2025, Halbfinale</title>
 </programme>
 <programme start="20251125160000 +0000" stop="20251125163000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Fußball: scooore Niederlande! Alle Tore</title>
@@ -3261,23 +3261,23 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251125000000 +0000" stop="20251125023000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Cleveland Cavaliers @ Toronto Raptors</title>
 </programme>
-<programme start="20251125023000 +0000" stop="20251125051500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20251125023000 +0000" stop="20251125050000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Houston Rockets @ Phoenix Suns</title>
 </programme>
-<programme start="20251125051500 +0000" stop="20251125053000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20251125050000 +0000" stop="20251125053000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Showtime - Post Show</title>
 </programme>
 <programme start="20251125053000 +0000" stop="20251125080000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Golf: The RSM Classic, 4. Tag in St. Simons Island, GA (USA)</title>
 </programme>
 <programme start="20251125080000 +0000" stop="20251125100000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>NHL: Minnesota Wild @ Winnipeg Jets</title>
+    <title>NHL: St. Louis Blues @ New York Rangers</title>
 </programme>
 <programme start="20251125100000 +0000" stop="20251125120000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Junioren: Österreich - Italien, FIFA U-17 WM 2025</title>
 </programme>
 <programme start="20251125120000 +0000" stop="20251125140000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Junioren: Portugal - Brasilien, FIFA U-17 WM 2025, Halbfinale</title>
+    <title>Junioren: Portugal - Brasilien, FIFA U-17 WM 2025</title>
 </programme>
 <programme start="20251125140000 +0000" stop="20251125160000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>BL: Borussia Dortmund - VfB Stuttgart, 11. Spieltag</title>
