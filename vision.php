@@ -673,9 +673,6 @@
 <programme start="20251126114500 +0000" stop="20251126121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
-<programme start="20251124230000 +0000" stop="20251125010000 +0000" channel="ANTV.vision">
-<title>Hippies Lokal</title>
-</programme>
 <programme start="20251125010000 +0000" stop="20251125030000 +0000" channel="ANTV.vision">
 <title>Mangal Lakshmi</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20251126080000 +0000" stop="20251126084500 +0000" channel="BTV.vision">
 <title>Info Seleb</title>
+</programme>
+<programme start="20251126084500 +0000" stop="20251126093000 +0000" channel="BTV.vision">
+<title>Berita Viral</title>
 </programme>

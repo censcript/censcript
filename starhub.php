@@ -662,7 +662,7 @@
         <title>The Kulture Wave [L]</title>
     </programme>
     <programme start="20251125053000 +0000" stop="20251125060000 +0000" channel="Arirang TV HD.starhub">
-        <title>News Generation</title>
+        <title>News Generation [R]</title>
     </programme>
     <programme start="20251125060000 +0000" stop="20251125063000 +0000" channel="Arirang TV HD.starhub">
         <title>Regional Tastes: Gangwon</title>
@@ -704,10 +704,10 @@
         <title>Newscenter</title>
     </programme>
     <programme start="20251125113000 +0000" stop="20251125120000 +0000" channel="Arirang TV HD.starhub">
-        <title>Within The Frame [L]</title>
+        <title>Within The Frame [R]</title>
     </programme>
     <programme start="20251125120000 +0000" stop="20251125123000 +0000" channel="Arirang TV HD.starhub">
-        <title>The Kulture Wave</title>
+        <title>The Kulture Wave [R]</title>
     </programme>
     <programme start="20251125123000 +0000" stop="20251125125000 +0000" channel="Arirang TV HD.starhub">
         <title>1day 1k-Culture: K-People</title>
@@ -728,7 +728,7 @@
         <title>Korea Travelogue 4</title>
     </programme>
     <programme start="20251125140000 +0000" stop="20251125143000 +0000" channel="Arirang TV HD.starhub">
-        <title>Press Perspective</title>
+        <title>Press Perspective [R]</title>
     </programme>
     <programme start="20251125143000 +0000" stop="20251125150000 +0000" channel="Arirang TV HD.starhub">
         <title>Talk Room</title>
@@ -2186,7 +2186,7 @@
         <title>Movie - Vellai Yaanai</title>
     </programme>
     <programme start="20251125103000 +0000" stop="20251125133000 +0000" channel="KTV HD.starhub">
-        <title>Movie - Unnaruge Naan Erunthal</title>
+        <title>Movie - Nam Naadu (New)</title>
     </programme>
     <programme start="20251125133000 +0000" stop="20251125170000 +0000" channel="KTV HD.starhub">
         <title>Movie - Sanga Thamizhan</title>
@@ -8029,19 +8029,22 @@
     <programme start="20251124233500 +0000" stop="20251125013000 +0000" channel="Asianet Movies.starhub">
         <title>Sufiyum Sujatayum</title>
     </programme>
-    <programme start="20251125013000 +0000" stop="20251125043000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251125013000 +0000" stop="20251125020000 +0000" channel="Asianet Movies.starhub">
+        <title>Chirikkum Thalika</title>
+    </programme>
+    <programme start="20251125020000 +0000" stop="20251125045000 +0000" channel="Asianet Movies.starhub">
         <title>Chess</title>
     </programme>
-    <programme start="20251125043000 +0000" stop="20251125073000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251125045000 +0000" stop="20251125074500 +0000" channel="Asianet Movies.starhub">
         <title>Abraham Ozler</title>
     </programme>
-    <programme start="20251125073000 +0000" stop="20251125103000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251125074500 +0000" stop="20251125104500 +0000" channel="Asianet Movies.starhub">
         <title>Natturajavu</title>
     </programme>
-    <programme start="20251125103000 +0000" stop="20251125133000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251125104500 +0000" stop="20251125132000 +0000" channel="Asianet Movies.starhub">
         <title>Malikappuram</title>
     </programme>
-    <programme start="20251125133000 +0000" stop="20251125163000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251125132000 +0000" stop="20251125163000 +0000" channel="Asianet Movies.starhub">
         <title>Drishyam 2</title>
     </programme>
     <programme start="20251124160000 +0000" stop="20251124163000 +0000" channel="Astro Warna HD.starhub">
