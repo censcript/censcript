@@ -2760,7 +2760,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251125193000 +0000" stop="20251125195000 +0000" channel="Sky Sport Austria 7 HD.skyde">
     <title>Es folgt: UEFA CL</title>
 </programme>
-<programme start="20251125195000 +0000" stop="20251125220000 +0000" channel="Sky Sport Austria 7 HD.skyde">
+<programme start="20251125195000 +0000" stop="20251125223000 +0000" channel="Sky Sport Austria 7 HD.skyde">
     <title>Live UEFA CL: SSC Neapel - FK Qarabag, Ligaphase, 5. Spieltag, Dienstag</title>
 </programme>
 <programme start="20251125193000 +0000" stop="20251125195000 +0000" channel="Sky Sport Austria 8 HD.skyde">
@@ -3013,7 +3013,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>NHL: On the Fly</title>
 </programme>
 <programme start="20251125140000 +0000" stop="20251125160000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>Junioren: Österreich - Italien, FIFA U-17 WM 2025, Halbfinale</title>
+    <title>DFB-Pokal: 1. FSV Mainz 05 - VfB Stuttgart, 2. Runde</title>
 </programme>
 <programme start="20251125160000 +0000" stop="20251125163000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Fußball: scooore Niederlande! Alle Tore</title>
@@ -3103,7 +3103,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>EFL: Highlights, 17. Spieltag</title>
 </programme>
 <programme start="20251124233000 +0000" stop="20251125013000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Manchester United - FC Everton, 12. Spieltag</title>
+    <title>PL: FC Arsenal - Tottenham Hotspur, Match of the Week, 12. Spieltag</title>
 </programme>
 <programme start="20251125013000 +0000" stop="20251125020000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>EFL: Highlights, 17. Spieltag</title>
@@ -3112,7 +3112,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>PL: Leeds United - Aston Villa, 12. Spieltag</title>
 </programme>
 <programme start="20251125040000 +0000" stop="20251125060000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Manchester United - FC Everton, 12. Spieltag</title>
+    <title>PL: FC Arsenal - Tottenham Hotspur, Match of the Week, 12. Spieltag</title>
 </programme>
 <programme start="20251125060000 +0000" stop="20251125061500 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>EFL: Highlights XXL: Ipswich Town - AFC Wrexham, 16. Spieltag</title>
@@ -3270,11 +3270,14 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251125053000 +0000" stop="20251125080000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Golf: The RSM Classic, 4. Tag in St. Simons Island, GA (USA)</title>
 </programme>
+<programme start="20251125080000 +0000" stop="20251125100000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>NHL: Minnesota Wild @ Winnipeg Jets</title>
+</programme>
 <programme start="20251125100000 +0000" stop="20251125120000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Junioren: Österreich - Italien, FIFA U-17 WM 2025</title>
 </programme>
 <programme start="20251125120000 +0000" stop="20251125140000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Junioren: Portugal - Brasilien, FIFA U-17 WM 2025</title>
+    <title>Junioren: Portugal - Brasilien, FIFA U-17 WM 2025, Halbfinale</title>
 </programme>
 <programme start="20251125140000 +0000" stop="20251125160000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>BL: Borussia Dortmund - VfB Stuttgart, 11. Spieltag</title>
@@ -3345,7 +3348,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251125023000 +0000" stop="20251125051500 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Houston Rockets @ Phoenix Suns</title>
 </programme>
-<programme start="20251125051500 +0000" stop="20251125060500 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20251125051500 +0000" stop="20251125090000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime - Post Show</title>
 </programme>
 <programme start="20251124231500 +0000" stop="20251125000000 +0000" channel="SYFY HD.skyde">
