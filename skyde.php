@@ -2760,7 +2760,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251125193000 +0000" stop="20251125195000 +0000" channel="Sky Sport Austria 7 HD.skyde">
     <title>Es folgt: UEFA CL</title>
 </programme>
-<programme start="20251125195000 +0000" stop="20251125223000 +0000" channel="Sky Sport Austria 7 HD.skyde">
+<programme start="20251125195000 +0000" stop="20251125220000 +0000" channel="Sky Sport Austria 7 HD.skyde">
     <title>Live UEFA CL: SSC Neapel - FK Qarabag, Ligaphase, 5. Spieltag, Dienstag</title>
 </programme>
 <programme start="20251125193000 +0000" stop="20251125195000 +0000" channel="Sky Sport Austria 8 HD.skyde">
@@ -2991,14 +2991,11 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251125040000 +0000" stop="20251125060000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>DFB-Pokal Frauen: VfL Wolfsburg - SC Freiburg, Achtelfinale</title>
 </programme>
-<programme start="20251125060000 +0000" stop="20251125080000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NHL: Minnesota Wild @ Winnipeg Jets</title>
-</programme>
 <programme start="20251125080000 +0000" stop="20251125083000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>Fußball: scooore Niederlande! Alle Tore</title>
+    <title>NBA: Showtime</title>
 </programme>
 <programme start="20251125083000 +0000" stop="20251125103000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NBA: LA Clippers @ Charlotte Hornets</title>
+    <title>NBA: Cleveland Cavaliers @ Toronto Raptors</title>
 </programme>
 <programme start="20251125103000 +0000" stop="20251125104500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Highlights DET@NJD</title>
@@ -3348,7 +3345,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251125023000 +0000" stop="20251125051500 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Houston Rockets @ Phoenix Suns</title>
 </programme>
-<programme start="20251125051500 +0000" stop="20251125090000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20251125051500 +0000" stop="20251125060500 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime - Post Show</title>
 </programme>
 <programme start="20251124231500 +0000" stop="20251125000000 +0000" channel="SYFY HD.skyde">
