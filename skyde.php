@@ -2649,13 +2649,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251125224500 +0000" stop="20251125231500 +0000" channel="Sky Showcase HD.skyde">
     <title>Snake Man - Der Schlangenfänger</title>
 </programme>
-<programme start="20251125003000 +0000" stop="20251125010000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20251125004000 +0000" stop="20251125010500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA CL: Magazin</title>
 </programme>
-<programme start="20251125010000 +0000" stop="20251125030000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20251125010500 +0000" stop="20251125030500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: FC Blau-Weiß Linz - FK Austria Wien, 14. Runde</title>
 </programme>
-<programme start="20251125030000 +0000" stop="20251125033000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20251125030500 +0000" stop="20251125033000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA CL: Magazin</title>
 </programme>
 <programme start="20251125033000 +0000" stop="20251125040000 +0000" channel="Sky Sport Austria 1 HD.skyde">
@@ -2718,7 +2718,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251125195000 +0000" stop="20251125220000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live UEFA CL: FC Chelsea - FC Barcelona, Ligaphase, 5. Spieltag, Dienstag</title>
 </programme>
-<programme start="20251125220000 +0000" stop="20251125233000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20251125220000 +0000" stop="20251125230000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live Die UEFA CL am Dienstag: Analyse</title>
 </programme>
 <programme start="20251125164000 +0000" stop="20251125170000 +0000" channel="Sky Sport Austria 3 HD.skyde">
@@ -2992,13 +2992,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>DFB-Pokal Frauen: VfL Wolfsburg - SC Freiburg, Achtelfinale</title>
 </programme>
 <programme start="20251125060000 +0000" stop="20251125080000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NHL: Minnesota Wild @ Winnipeg Jets</title>
+    <title>NHL: St. Louis Blues @ New York Rangers</title>
 </programme>
 <programme start="20251125080000 +0000" stop="20251125083000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>Fußball: scooore Niederlande! Alle Tore</title>
+    <title>NBA: Showtime</title>
 </programme>
 <programme start="20251125083000 +0000" stop="20251125103000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NBA: LA Clippers @ Charlotte Hornets</title>
+    <title>NBA: Cleveland Cavaliers @ Toronto Raptors</title>
 </programme>
 <programme start="20251125103000 +0000" stop="20251125104500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Highlights DET@NJD</title>
@@ -3345,10 +3345,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251125000000 +0000" stop="20251125023000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Cleveland Cavaliers @ Toronto Raptors</title>
 </programme>
-<programme start="20251125023000 +0000" stop="20251125051500 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20251125023000 +0000" stop="20251125050000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Houston Rockets @ Phoenix Suns</title>
 </programme>
-<programme start="20251125051500 +0000" stop="20251125090000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20251125050000 +0000" stop="20251125090000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime - Post Show</title>
 </programme>
 <programme start="20251124231500 +0000" stop="20251125000000 +0000" channel="SYFY HD.skyde">
