@@ -2649,13 +2649,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251125224500 +0000" stop="20251125231500 +0000" channel="Sky Showcase HD.skyde">
     <title>Snake Man - Der Schlangenfänger</title>
 </programme>
-<programme start="20251125003000 +0000" stop="20251125010000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20251125004000 +0000" stop="20251125010500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA CL: Magazin</title>
 </programme>
-<programme start="20251125010000 +0000" stop="20251125030000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20251125010500 +0000" stop="20251125030500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: FC Blau-Weiß Linz - FK Austria Wien, 14. Runde</title>
 </programme>
-<programme start="20251125030000 +0000" stop="20251125033000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20251125030500 +0000" stop="20251125033000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA CL: Magazin</title>
 </programme>
 <programme start="20251125033000 +0000" stop="20251125040000 +0000" channel="Sky Sport Austria 1 HD.skyde">
@@ -2730,7 +2730,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251125173500 +0000" stop="20251125195000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live UEFA CL: Galatasaray Istanbul - Union Saint-Gilloise, Ligaphase, 5. Spieltag, Dienstag</title>
 </programme>
-<programme start="20251125195000 +0000" stop="20251125223000 +0000" channel="Sky Sport Austria 3 HD.skyde">
+<programme start="20251125195000 +0000" stop="20251125220000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live UEFA CL: Borussia Dortmund - FC Villarreal, Ligaphase, 5. Spieltag, Dienstag</title>
 </programme>
 <programme start="20251125164000 +0000" stop="20251125170000 +0000" channel="Sky Sport Austria 4 HD.skyde">
@@ -2742,25 +2742,25 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251125173500 +0000" stop="20251125195000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live UEFA CL: Ajax Amsterdam - Benfica Lissabon, Ligaphase, 5. Spieltag, Dienstag</title>
 </programme>
-<programme start="20251125195000 +0000" stop="20251125220000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+<programme start="20251125195000 +0000" stop="20251125223000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live UEFA CL: Manchester City - Bayer Leverkusen, Ligaphase, 5. Spieltag, Dienstag</title>
 </programme>
 <programme start="20251125193000 +0000" stop="20251125195000 +0000" channel="Sky Sport Austria 5 HD.skyde">
     <title>Es folgt: UEFA CL</title>
 </programme>
-<programme start="20251125195000 +0000" stop="20251125220000 +0000" channel="Sky Sport Austria 5 HD.skyde">
+<programme start="20251125195000 +0000" stop="20251125223000 +0000" channel="Sky Sport Austria 5 HD.skyde">
     <title>Live UEFA CL: Olympique Marseille - Newcastle United, Ligaphase, 5. Spieltag, Dienstag</title>
 </programme>
 <programme start="20251125193000 +0000" stop="20251125195000 +0000" channel="Sky Sport Austria 6 HD.skyde">
     <title>Es folgt: UEFA CL</title>
 </programme>
-<programme start="20251125195000 +0000" stop="20251125220000 +0000" channel="Sky Sport Austria 6 HD.skyde">
+<programme start="20251125195000 +0000" stop="20251125223000 +0000" channel="Sky Sport Austria 6 HD.skyde">
     <title>Live UEFA CL: FK Bodo/Glimt - Juventus Turin, Ligaphase, 5. Spieltag, Dienstag</title>
 </programme>
 <programme start="20251125193000 +0000" stop="20251125195000 +0000" channel="Sky Sport Austria 7 HD.skyde">
     <title>Es folgt: UEFA CL</title>
 </programme>
-<programme start="20251125195000 +0000" stop="20251125220000 +0000" channel="Sky Sport Austria 7 HD.skyde">
+<programme start="20251125195000 +0000" stop="20251125223000 +0000" channel="Sky Sport Austria 7 HD.skyde">
     <title>Live UEFA CL: SSC Neapel - FK Qarabag, Ligaphase, 5. Spieltag, Dienstag</title>
 </programme>
 <programme start="20251125193000 +0000" stop="20251125195000 +0000" channel="Sky Sport Austria 8 HD.skyde">

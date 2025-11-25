@@ -568,12 +568,6 @@
 <programme start="20251125050000 +0000" stop="20251125054500 +0000" channel="Trans 7.vision">
 <title>Bocah Petualang</title>
 </programme>
-<programme start="20251125054500 +0000" stop="20251125063000 +0000" channel="Trans 7.vision">
-<title>Indonesiaku</title>
-</programme>
-<programme start="20251125063000 +0000" stop="20251125071500 +0000" channel="Trans 7.vision">
-<title>Ujung-Ujungnya Damkar</title>
-</programme>
 <programme start="20251125071500 +0000" stop="20251125081500 +0000" channel="Trans 7.vision">
 <title>Redaksi</title>
 </programme>
@@ -675,9 +669,6 @@
 </programme>
 <programme start="20251125010000 +0000" stop="20251125030000 +0000" channel="ANTV.vision">
 <title>Mangal Lakshmi</title>
-</programme>
-<programme start="20251125030000 +0000" stop="20251125063000 +0000" channel="ANTV.vision">
-<title>Bade Miyan Chote Miyan</title>
 </programme>
 <programme start="20251125063000 +0000" stop="20251125080000 +0000" channel="ANTV.vision">
 <title>Cinta Keluarga Pandya</title>
@@ -1382,7 +1373,7 @@
 <title>Jalan Dakwah</title>
 </programme>
 <programme start="20251125003000 +0000" stop="20251125011500 +0000" channel="BTV.vision">
-<title>Info Seleb</title>
+<title>Figur Publik</title>
 </programme>
 <programme start="20251125011500 +0000" stop="20251125014500 +0000" channel="BTV.vision">
 <title>Kuyliner</title>
@@ -1412,7 +1403,7 @@
 <title>Info Seleb</title>
 </programme>
 <programme start="20251125084500 +0000" stop="20251125093000 +0000" channel="BTV.vision">
-<title>Berita Viral</title>
+<title>Figur Publik</title>
 </programme>
 <programme start="20251125093000 +0000" stop="20251125103000 +0000" channel="BTV.vision">
 <title>Berita Satu Sore</title>
@@ -1466,7 +1457,7 @@
 <title>Jalan Dakwah</title>
 </programme>
 <programme start="20251126003000 +0000" stop="20251126011500 +0000" channel="BTV.vision">
-<title>Info Seleb</title>
+<title>Figur Publik</title>
 </programme>
 <programme start="20251126011500 +0000" stop="20251126014500 +0000" channel="BTV.vision">
 <title>Kuyliner</title>
@@ -1496,5 +1487,14 @@
 <title>Info Seleb</title>
 </programme>
 <programme start="20251126084500 +0000" stop="20251126093000 +0000" channel="BTV.vision">
-<title>Berita Viral</title>
+<title>Figur Publik</title>
+</programme>
+<programme start="20251126093000 +0000" stop="20251126103000 +0000" channel="BTV.vision">
+<title>Berita Satu Sore</title>
+</programme>
+<programme start="20251126103000 +0000" stop="20251126123000 +0000" channel="BTV.vision">
+<title>Berita Satu Utama</title>
+</programme>
+<programme start="20251124232000 +0000" stop="20251125010000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
 </programme>
