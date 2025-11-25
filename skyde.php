@@ -516,10 +516,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251125020000 +0000" stop="20251125021500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20251125021500 +0000" stop="20251125023000 +0000" channel="Cartoonito.skyde">
+<programme start="20251125021500 +0000" stop="20251125022500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20251125023000 +0000" stop="20251125024500 +0000" channel="Cartoonito.skyde">
+<programme start="20251125022500 +0000" stop="20251125024500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
 <programme start="20251125024500 +0000" stop="20251125025500 +0000" channel="Cartoonito.skyde">
@@ -720,10 +720,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251125142000 +0000" stop="20251125143000 +0000" channel="Cartoonito.skyde">
     <title>Tom und Jerry Gokko</title>
 </programme>
-<programme start="20251125143000 +0000" stop="20251125144100 +0000" channel="Cartoonito.skyde">
+<programme start="20251125143000 +0000" stop="20251125144000 +0000" channel="Cartoonito.skyde">
     <title>Batwheels</title>
 </programme>
-<programme start="20251125144100 +0000" stop="20251125144500 +0000" channel="Cartoonito.skyde">
+<programme start="20251125144000 +0000" stop="20251125144500 +0000" channel="Cartoonito.skyde">
     <title>Krypto als Retter in Not</title>
 </programme>
 <programme start="20251125144500 +0000" stop="20251125145500 +0000" channel="Cartoonito.skyde">
@@ -771,10 +771,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251125170500 +0000" stop="20251125172000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20251125172000 +0000" stop="20251125173000 +0000" channel="Cartoonito.skyde">
+<programme start="20251125172000 +0000" stop="20251125172500 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20251125173000 +0000" stop="20251125173500 +0000" channel="Cartoonito.skyde">
+<programme start="20251125172500 +0000" stop="20251125173500 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
 <programme start="20251125173500 +0000" stop="20251125174000 +0000" channel="Cartoonito.skyde">
@@ -807,16 +807,16 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251125191000 +0000" stop="20251125192500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20251125192500 +0000" stop="20251125194000 +0000" channel="Cartoonito.skyde">
+<programme start="20251125192500 +0000" stop="20251125193500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20251125194000 +0000" stop="20251125195500 +0000" channel="Cartoonito.skyde">
+<programme start="20251125193500 +0000" stop="20251125195500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20251125195500 +0000" stop="20251125200500 +0000" channel="Cartoonito.skyde">
+<programme start="20251125195500 +0000" stop="20251125200000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20251125200500 +0000" stop="20251125201000 +0000" channel="Cartoonito.skyde">
+<programme start="20251125200000 +0000" stop="20251125201000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
 <programme start="20251125201000 +0000" stop="20251125202500 +0000" channel="Cartoonito.skyde">
@@ -846,10 +846,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251125213500 +0000" stop="20251125215000 +0000" channel="Cartoonito.skyde">
     <title>Batwheels</title>
 </programme>
-<programme start="20251125215000 +0000" stop="20251125220500 +0000" channel="Cartoonito.skyde">
+<programme start="20251125215000 +0000" stop="20251125220000 +0000" channel="Cartoonito.skyde">
     <title>Bugs Bunnys Baumeister</title>
 </programme>
-<programme start="20251125220500 +0000" stop="20251125222000 +0000" channel="Cartoonito.skyde">
+<programme start="20251125220000 +0000" stop="20251125222000 +0000" channel="Cartoonito.skyde">
     <title>Bugs Bunnys Baumeister</title>
 </programme>
 <programme start="20251125222000 +0000" stop="20251125223000 +0000" channel="Cartoonito.skyde">
@@ -2649,13 +2649,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251125224500 +0000" stop="20251125231500 +0000" channel="Sky Showcase HD.skyde">
     <title>Snake Man - Der Schlangenfänger</title>
 </programme>
-<programme start="20251125003000 +0000" stop="20251125010000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20251125004000 +0000" stop="20251125010500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA CL: Magazin</title>
 </programme>
-<programme start="20251125010000 +0000" stop="20251125030000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20251125010500 +0000" stop="20251125030500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: FC Blau-Weiß Linz - FK Austria Wien, 14. Runde</title>
 </programme>
-<programme start="20251125030000 +0000" stop="20251125033000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20251125030500 +0000" stop="20251125033000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA CL: Magazin</title>
 </programme>
 <programme start="20251125033000 +0000" stop="20251125040000 +0000" channel="Sky Sport Austria 1 HD.skyde">
@@ -2718,7 +2718,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251125195000 +0000" stop="20251125220000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live UEFA CL: FC Chelsea - FC Barcelona, Ligaphase, 5. Spieltag, Dienstag</title>
 </programme>
-<programme start="20251125220000 +0000" stop="20251125230000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20251125220000 +0000" stop="20251125233000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live Die UEFA CL am Dienstag: Analyse</title>
 </programme>
 <programme start="20251125164000 +0000" stop="20251125170000 +0000" channel="Sky Sport Austria 3 HD.skyde">
@@ -2742,7 +2742,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251125173500 +0000" stop="20251125195000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live UEFA CL: Ajax Amsterdam - Benfica Lissabon, Ligaphase, 5. Spieltag, Dienstag</title>
 </programme>
-<programme start="20251125195000 +0000" stop="20251125220000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+<programme start="20251125195000 +0000" stop="20251125223000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live UEFA CL: Manchester City - Bayer Leverkusen, Ligaphase, 5. Spieltag, Dienstag</title>
 </programme>
 <programme start="20251125193000 +0000" stop="20251125195000 +0000" channel="Sky Sport Austria 5 HD.skyde">
@@ -2754,7 +2754,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251125193000 +0000" stop="20251125195000 +0000" channel="Sky Sport Austria 6 HD.skyde">
     <title>Es folgt: UEFA CL</title>
 </programme>
-<programme start="20251125195000 +0000" stop="20251125220000 +0000" channel="Sky Sport Austria 6 HD.skyde">
+<programme start="20251125195000 +0000" stop="20251125223000 +0000" channel="Sky Sport Austria 6 HD.skyde">
     <title>Live UEFA CL: FK Bodo/Glimt - Juventus Turin, Ligaphase, 5. Spieltag, Dienstag</title>
 </programme>
 <programme start="20251125193000 +0000" stop="20251125195000 +0000" channel="Sky Sport Austria 7 HD.skyde">
@@ -3507,10 +3507,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251125002500 +0000" stop="20251125003500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>SMILING FRIENDS</title>
 </programme>
-<programme start="20251125003500 +0000" stop="20251125005000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251125003500 +0000" stop="20251125004500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Robot Chicken</title>
 </programme>
-<programme start="20251125005000 +0000" stop="20251125010000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251125004500 +0000" stop="20251125010000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Robot Chicken</title>
 </programme>
 <programme start="20251125010000 +0000" stop="20251125011000 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3525,10 +3525,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251125013500 +0000" stop="20251125015000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Robot Chicken</title>
 </programme>
-<programme start="20251125015000 +0000" stop="20251125020500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251125015000 +0000" stop="20251125020000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Robot Chicken</title>
 </programme>
-<programme start="20251125020500 +0000" stop="20251125021500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251125020000 +0000" stop="20251125021500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Robot Chicken</title>
 </programme>
 <programme start="20251125021500 +0000" stop="20251125024500 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3549,10 +3549,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251125042500 +0000" stop="20251125044500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20251125044500 +0000" stop="20251125050500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251125044500 +0000" stop="20251125051000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20251125050500 +0000" stop="20251125053500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251125051000 +0000" stop="20251125053500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
 <programme start="20251125053500 +0000" stop="20251125060500 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3573,10 +3573,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251125075000 +0000" stop="20251125081500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Friends</title>
 </programme>
-<programme start="20251125081500 +0000" stop="20251125084500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251125081500 +0000" stop="20251125084000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Friends</title>
 </programme>
-<programme start="20251125084500 +0000" stop="20251125091000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251125084000 +0000" stop="20251125091000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Friends</title>
 </programme>
 <programme start="20251125091000 +0000" stop="20251125093500 +0000" channel="Warner TV Comedy HD.skyde">
