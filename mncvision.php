@@ -578,7 +578,7 @@
     <title>NewsCenter</title>
 </programme>
 <programme start="20251125113000 +0000" stop="20251125120000 +0000" channel="Arirang.mncvision">
-    <title>Within The Frame (L)</title>
+    <title>Within The Frame</title>
 </programme>
 <programme start="20251125120000 +0000" stop="20251125123000 +0000" channel="Arirang.mncvision">
     <title>The Kulture Wave</title>
@@ -1432,7 +1432,42 @@
 <programme start="20251125150000 +0000" stop="20251125153000 +0000" channel="beIN SPORTS 4.mncvision">
     <title>beIN Sports 4</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20251124170000 +0000" stop="20251124190000 +0000" channel="beIN SPORTS 5.mncvision">
+    <title>beIN Sports 5</title>
+</programme>
+<programme start="20251124190000 +0000" stop="20251124210000 +0000" channel="beIN SPORTS 5.mncvision">
+    <title>beIN Sports 5</title>
+</programme>
+<programme start="20251124210000 +0000" stop="20251124230000 +0000" channel="beIN SPORTS 5.mncvision">
+    <title>beIN Sports 5</title>
+</programme>
+<programme start="20251124230000 +0000" stop="20251125010000 +0000" channel="beIN SPORTS 5.mncvision">
+    <title>beIN Sports 5</title>
+</programme>
+<programme start="20251125010000 +0000" stop="20251125030000 +0000" channel="beIN SPORTS 5.mncvision">
+    <title>beIN Sports 5</title>
+</programme>
+<programme start="20251125030000 +0000" stop="20251125050000 +0000" channel="beIN SPORTS 5.mncvision">
+    <title>beIN Sports 5</title>
+</programme>
+<programme start="20251125050000 +0000" stop="20251125070000 +0000" channel="beIN SPORTS 5.mncvision">
+    <title>beIN Sports 5</title>
+</programme>
+<programme start="20251125070000 +0000" stop="20251125090000 +0000" channel="beIN SPORTS 5.mncvision">
+    <title>beIN Sports 5</title>
+</programme>
+<programme start="20251125090000 +0000" stop="20251125110000 +0000" channel="beIN SPORTS 5.mncvision">
+    <title>beIN Sports 5</title>
+</programme>
+<programme start="20251125110000 +0000" stop="20251125130000 +0000" channel="beIN SPORTS 5.mncvision">
+    <title>beIN Sports 5</title>
+</programme>
+<programme start="20251125130000 +0000" stop="20251125150000 +0000" channel="beIN SPORTS 5.mncvision">
+    <title>beIN Sports 5</title>
+</programme>
+<programme start="20251125150000 +0000" stop="20251125153000 +0000" channel="beIN SPORTS 5.mncvision">
+    <title>beIN Sports 5</title>
+</programme>
 <programme start="20251124170000 +0000" stop="20251124173000 +0000" channel="Bloomberg.mncvision">
     <title>Bloomberg ETF IQ</title>
 </programme>
@@ -3368,7 +3403,126 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20251125160000 +0000" stop="20251125163000 +0000" channel="FOOD TRAVEL.mncvision">
     <title>Makan Bareng Luna</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20251124170000 +0000" stop="20251124173000 +0000" channel="Food Travel HD.mncvision">
+    <title>Indonesian Authentic Places &#039;19</title>
+</programme>
+<programme start="20251124173000 +0000" stop="20251124180000 +0000" channel="Food Travel HD.mncvision">
+    <title>Let&#039;s Go</title>
+</programme>
+<programme start="20251124180000 +0000" stop="20251124183000 +0000" channel="Food Travel HD.mncvision">
+    <title>+62 Fo.Mo (Food &amp; Moving)</title>
+</programme>
+<programme start="20251124183000 +0000" stop="20251124193000 +0000" channel="Food Travel HD.mncvision">
+    <title>Untung Ada Rudy</title>
+</programme>
+<programme start="20251124193000 +0000" stop="20251124203000 +0000" channel="Food Travel HD.mncvision">
+    <title>Dapur Ngebor</title>
+</programme>
+<programme start="20251124203000 +0000" stop="20251124210000 +0000" channel="Food Travel HD.mncvision">
+    <title>Selebriti Masak?</title>
+</programme>
+<programme start="20251124210000 +0000" stop="20251124213000 +0000" channel="Food Travel HD.mncvision">
+    <title>Travel Addict</title>
+</programme>
+<programme start="20251124213000 +0000" stop="20251124220000 +0000" channel="Food Travel HD.mncvision">
+    <title>Rating 5</title>
+</programme>
+<programme start="20251124220000 +0000" stop="20251124223000 +0000" channel="Food Travel HD.mncvision">
+    <title>Ada Tamu Gokil</title>
+</programme>
+<programme start="20251124223000 +0000" stop="20251124230000 +0000" channel="Food Travel HD.mncvision">
+    <title>Celebs Food</title>
+</programme>
+<programme start="20251124230000 +0000" stop="20251124233000 +0000" channel="Food Travel HD.mncvision">
+    <title>Celebs Trip</title>
+</programme>
+<programme start="20251124233000 +0000" stop="20251125000000 +0000" channel="Food Travel HD.mncvision">
+    <title>Around The World</title>
+</programme>
+<programme start="20251125000000 +0000" stop="20251125003000 +0000" channel="Food Travel HD.mncvision">
+    <title>Selebriti Masak?</title>
+</programme>
+<programme start="20251125003000 +0000" stop="20251125010000 +0000" channel="Food Travel HD.mncvision">
+    <title>Viral Kuliner</title>
+</programme>
+<programme start="20251125010000 +0000" stop="20251125013000 +0000" channel="Food Travel HD.mncvision">
+    <title>Viral Kuliner</title>
+</programme>
+<programme start="20251125013000 +0000" stop="20251125020000 +0000" channel="Food Travel HD.mncvision">
+    <title>Indonesian Authentic Places &#039;19</title>
+</programme>
+<programme start="20251125020000 +0000" stop="20251125023000 +0000" channel="Food Travel HD.mncvision">
+    <title>Rating 5</title>
+</programme>
+<programme start="20251125023000 +0000" stop="20251125030000 +0000" channel="Food Travel HD.mncvision">
+    <title>Extreme Kuliner</title>
+</programme>
+<programme start="20251125030000 +0000" stop="20251125033000 +0000" channel="Food Travel HD.mncvision">
+    <title>Around The World</title>
+</programme>
+<programme start="20251125033000 +0000" stop="20251125040000 +0000" channel="Food Travel HD.mncvision">
+    <title>Let&#039;s Go</title>
+</programme>
+<programme start="20251125040000 +0000" stop="20251125050000 +0000" channel="Food Travel HD.mncvision">
+    <title>Untung Ada Rudy</title>
+</programme>
+<programme start="20251125050000 +0000" stop="20251125060000 +0000" channel="Food Travel HD.mncvision">
+    <title>Makan Bareng Luna</title>
+</programme>
+<programme start="20251125060000 +0000" stop="20251125063000 +0000" channel="Food Travel HD.mncvision">
+    <title>Viral Kuliner</title>
+</programme>
+<programme start="20251125063000 +0000" stop="20251125070000 +0000" channel="Food Travel HD.mncvision">
+    <title>Viral Kuliner</title>
+</programme>
+<programme start="20251125070000 +0000" stop="20251125080000 +0000" channel="Food Travel HD.mncvision">
+    <title>Dapur Ngebor</title>
+</programme>
+<programme start="20251125080000 +0000" stop="20251125083000 +0000" channel="Food Travel HD.mncvision">
+    <title>Let&#039;s Go</title>
+</programme>
+<programme start="20251125083000 +0000" stop="20251125090000 +0000" channel="Food Travel HD.mncvision">
+    <title>+62 Fo.Mo (Food &amp; Moving)</title>
+</programme>
+<programme start="20251125090000 +0000" stop="20251125100000 +0000" channel="Food Travel HD.mncvision">
+    <title>Untung Ada Rudy</title>
+</programme>
+<programme start="20251125100000 +0000" stop="20251125110000 +0000" channel="Food Travel HD.mncvision">
+    <title>Makan Bareng Luna</title>
+</programme>
+<programme start="20251125110000 +0000" stop="20251125113000 +0000" channel="Food Travel HD.mncvision">
+    <title>Viral Kuliner</title>
+</programme>
+<programme start="20251125113000 +0000" stop="20251125120000 +0000" channel="Food Travel HD.mncvision">
+    <title>Viral Kuliner</title>
+</programme>
+<programme start="20251125120000 +0000" stop="20251125123000 +0000" channel="Food Travel HD.mncvision">
+    <title>Rating 5</title>
+</programme>
+<programme start="20251125123000 +0000" stop="20251125130000 +0000" channel="Food Travel HD.mncvision">
+    <title>Indonesian Authentic Places &#039;19</title>
+</programme>
+<programme start="20251125130000 +0000" stop="20251125133000 +0000" channel="Food Travel HD.mncvision">
+    <title>Celebs Food</title>
+</programme>
+<programme start="20251125133000 +0000" stop="20251125140000 +0000" channel="Food Travel HD.mncvision">
+    <title>Extreme Kuliner</title>
+</programme>
+<programme start="20251125140000 +0000" stop="20251125143000 +0000" channel="Food Travel HD.mncvision">
+    <title>Around The World</title>
+</programme>
+<programme start="20251125143000 +0000" stop="20251125150000 +0000" channel="Food Travel HD.mncvision">
+    <title>Selebriti Masak?</title>
+</programme>
+<programme start="20251125150000 +0000" stop="20251125153000 +0000" channel="Food Travel HD.mncvision">
+    <title>Ada Tamu Gokil</title>
+</programme>
+<programme start="20251125153000 +0000" stop="20251125160000 +0000" channel="Food Travel HD.mncvision">
+    <title>Travel Addict</title>
+</programme>
+<programme start="20251125160000 +0000" stop="20251125163000 +0000" channel="Food Travel HD.mncvision">
+    <title>Makan Bareng Luna</title>
+</programme>
 <programme start="20251124170000 +0000" stop="20251124180000 +0000" channel="FOX News.mncvision">
     <title>Outnumbered</title>
 </programme>

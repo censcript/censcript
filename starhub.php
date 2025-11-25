@@ -308,10 +308,10 @@
         <title>New Block New Drama</title>
     </programme>
     <programme start="20251124181000 +0000" stop="20251124183500 +0000" channel="HGTV.starhub">
-        <title>Magical Playroom For Kids</title>
+        <title>Magical And Multifunctional Playroom For Kids</title>
     </programme>
     <programme start="20251124183500 +0000" stop="20251124190000 +0000" channel="HGTV.starhub">
-        <title>New Art Workshop At The Silos</title>
+        <title>A New Art Workshop At The Silos</title>
     </programme>
     <programme start="20251124190000 +0000" stop="20251124195000 +0000" channel="HGTV.starhub">
         <title>Between Friends</title>
@@ -569,10 +569,10 @@
         <title>Trip In Korea</title>
     </programme>
     <programme start="20251124170000 +0000" stop="20251124173000 +0000" channel="Arirang TV HD.starhub">
-        <title>The Kulture Wave</title>
+        <title>The Kulture Wave [R]</title>
     </programme>
     <programme start="20251124173000 +0000" stop="20251124180000 +0000" channel="Arirang TV HD.starhub">
-        <title>Within The Frame</title>
+        <title>Within The Frame [R]</title>
     </programme>
     <programme start="20251124180000 +0000" stop="20251124181500 +0000" channel="Arirang TV HD.starhub">
         <title>1day 1k-Culture: K-Trend</title>
@@ -596,7 +596,7 @@
         <title>Trip In Korea</title>
     </programme>
     <programme start="20251124210000 +0000" stop="20251124213000 +0000" channel="Arirang TV HD.starhub">
-        <title>Press Perspective</title>
+        <title>Press Perspective [R]</title>
     </programme>
     <programme start="20251124213000 +0000" stop="20251124215000 +0000" channel="Arirang TV HD.starhub">
         <title>Korea Travelogue 4</title>
@@ -2165,7 +2165,7 @@
         <title>Movie - A1</title>
     </programme>
     <programme start="20251124170000 +0000" stop="20251124200000 +0000" channel="KTV HD.starhub">
-        <title>Movie - Time</title>
+        <title>Movie</title>
     </programme>
     <programme start="20251124200000 +0000" stop="20251124223000 +0000" channel="KTV HD.starhub">
         <title>Movie - Sivappu Malli</title>

@@ -62,10 +62,6 @@
     <title>Football: Olympique de Marseille - Newcastle United</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251125080000 +0700" stop="20251125100000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Torino - Como</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251125100000 +0700" stop="20251125120000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Sassuolo - Pisa</title>
     <desc>Live: Tidak</desc>
@@ -118,8 +114,8 @@
     <title>Football: Hellas Verona - Parma</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251125080000 +0700" stop="20251125095000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Birmingham City - Norwich City</title>
+<programme start="20251126100000 +0700" stop="20251126120000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Udinese - Bologna</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251125095000 +0700" stop="20251125115000 +0700" channel="COSMOTE Sport 3 HD">
@@ -176,10 +172,6 @@
 </programme>
 <programme start="20251126090500 +0700" stop="20251126110000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Al Ahli - Al-Qadsiah</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251125073000 +0700" stop="20251125093000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Gran Canaria - Barcelona</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251125093000 +0700" stop="20251125123000 +0700" channel="COSMOTE Sport 4 HD">
@@ -330,8 +322,8 @@
     <title>WRC Magazine 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251125090000 +0700" stop="20251125100000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Beach Volley: 2025 FIVB Beach Volleyball World Championships</title>
+<programme start="20251126100000 +0700" stop="20251126110000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251125100000 +0700" stop="20251125110000 +0700" channel="COSMOTE Sport 6 HD">

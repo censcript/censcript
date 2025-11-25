@@ -2715,7 +2715,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251125195000 +0000" stop="20251125220000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live UEFA CL: FC Chelsea - FC Barcelona, Ligaphase, 5. Spieltag, Dienstag</title>
 </programme>
-<programme start="20251125220000 +0000" stop="20251125230000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20251125220000 +0000" stop="20251125233000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live Die UEFA CL am Dienstag: Analyse</title>
 </programme>
 <programme start="20251125164000 +0000" stop="20251125170000 +0000" channel="Sky Sport Austria 3 HD.skyde">
@@ -2727,7 +2727,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251125173500 +0000" stop="20251125195000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live UEFA CL: Galatasaray Istanbul - Union Saint-Gilloise, Ligaphase, 5. Spieltag, Dienstag</title>
 </programme>
-<programme start="20251125195000 +0000" stop="20251125220000 +0000" channel="Sky Sport Austria 3 HD.skyde">
+<programme start="20251125195000 +0000" stop="20251125223000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live UEFA CL: Borussia Dortmund - FC Villarreal, Ligaphase, 5. Spieltag, Dienstag</title>
 </programme>
 <programme start="20251125164000 +0000" stop="20251125170000 +0000" channel="Sky Sport Austria 4 HD.skyde">
@@ -3019,7 +3019,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>NBA: Houston Rockets @ Phoenix Suns</title>
 </programme>
 <programme start="20251125183000 +0000" stop="20251125190000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>Frauen-BL: Alle Spiele, alle Tore, 11. Spieltag, Sonntag</title>
+    <title>Frauen-BL: Alle Spiele, alle Tore, 11. Spieltag komplett</title>
 </programme>
 <programme start="20251125190000 +0000" stop="20251125193000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Fußball: scooore Niederlande! Alle Tore</title>
@@ -3507,10 +3507,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251125002500 +0000" stop="20251125003500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>SMILING FRIENDS</title>
 </programme>
-<programme start="20251125003500 +0000" stop="20251125004500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251125003500 +0000" stop="20251125005000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Robot Chicken</title>
 </programme>
-<programme start="20251125004500 +0000" stop="20251125010000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251125005000 +0000" stop="20251125010000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Robot Chicken</title>
 </programme>
 <programme start="20251125010000 +0000" stop="20251125011000 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3525,10 +3525,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251125013500 +0000" stop="20251125015000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Robot Chicken</title>
 </programme>
-<programme start="20251125015000 +0000" stop="20251125020000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251125015000 +0000" stop="20251125020500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Robot Chicken</title>
 </programme>
-<programme start="20251125020000 +0000" stop="20251125021500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251125020500 +0000" stop="20251125021500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Robot Chicken</title>
 </programme>
 <programme start="20251125021500 +0000" stop="20251125024500 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3549,10 +3549,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251125042500 +0000" stop="20251125044500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20251125044500 +0000" stop="20251125051000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251125044500 +0000" stop="20251125050500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20251125051000 +0000" stop="20251125053500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251125050500 +0000" stop="20251125053500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
 <programme start="20251125053500 +0000" stop="20251125060500 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3573,10 +3573,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251125075000 +0000" stop="20251125081500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Friends</title>
 </programme>
-<programme start="20251125081500 +0000" stop="20251125084000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251125081500 +0000" stop="20251125084500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Friends</title>
 </programme>
-<programme start="20251125084000 +0000" stop="20251125091000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251125084500 +0000" stop="20251125091000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Friends</title>
 </programme>
 <programme start="20251125091000 +0000" stop="20251125093500 +0000" channel="Warner TV Comedy HD.skyde">
