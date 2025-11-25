@@ -6674,7 +6674,7 @@
         <title>Group F: Belgium vs Turkiye</title>
     </programme>
     <programme start="20251125110000 +0000" stop="20251125153000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Final</title>
+        <title>Final: Italy vs Spain</title>
     </programme>
     <programme start="20251125153000 +0000" stop="20251125160000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Finals Riyadh Highlights Show</title>
