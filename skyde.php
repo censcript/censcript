@@ -967,7 +967,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Serie A 25/26: Inter Mailand - AC Mailand</title>
 </programme>
 <programme start="20251125103000 +0000" stop="20251125122500 +0000" channel="DAZN 1 HD.skyde">
-    <title>Bundesliga: Borussia Dortmund - VFB Stuttgart</title>
+    <title>Bundesliga: 1. FC Köln - Eintracht Frankfurt</title>
 </programme>
 <programme start="20251125122500 +0000" stop="20251125130000 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
@@ -2649,13 +2649,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251125224500 +0000" stop="20251125231500 +0000" channel="Sky Showcase HD.skyde">
     <title>Snake Man - Der Schlangenfänger</title>
 </programme>
-<programme start="20251125004000 +0000" stop="20251125010500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20251125003000 +0000" stop="20251125010000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA CL: Magazin</title>
 </programme>
-<programme start="20251125010500 +0000" stop="20251125030500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20251125010000 +0000" stop="20251125030000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: FC Blau-Weiß Linz - FK Austria Wien, 14. Runde</title>
 </programme>
-<programme start="20251125030500 +0000" stop="20251125033000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20251125030000 +0000" stop="20251125033000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA CL: Magazin</title>
 </programme>
 <programme start="20251125033000 +0000" stop="20251125040000 +0000" channel="Sky Sport Austria 1 HD.skyde">
@@ -2718,7 +2718,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251125195000 +0000" stop="20251125220000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live UEFA CL: FC Chelsea - FC Barcelona, Ligaphase, 5. Spieltag, Dienstag</title>
 </programme>
-<programme start="20251125220000 +0000" stop="20251125230000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20251125220000 +0000" stop="20251125233000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live Die UEFA CL am Dienstag: Analyse</title>
 </programme>
 <programme start="20251125164000 +0000" stop="20251125170000 +0000" channel="Sky Sport Austria 3 HD.skyde">
@@ -2760,7 +2760,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251125193000 +0000" stop="20251125195000 +0000" channel="Sky Sport Austria 7 HD.skyde">
     <title>Es folgt: UEFA CL</title>
 </programme>
-<programme start="20251125195000 +0000" stop="20251125223000 +0000" channel="Sky Sport Austria 7 HD.skyde">
+<programme start="20251125195000 +0000" stop="20251125220000 +0000" channel="Sky Sport Austria 7 HD.skyde">
     <title>Live UEFA CL: SSC Neapel - FK Qarabag, Ligaphase, 5. Spieltag, Dienstag</title>
 </programme>
 <programme start="20251125193000 +0000" stop="20251125195000 +0000" channel="Sky Sport Austria 8 HD.skyde">
@@ -3011,6 +3011,9 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 </programme>
 <programme start="20251125130000 +0000" stop="20251125140000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: On the Fly</title>
+</programme>
+<programme start="20251125140000 +0000" stop="20251125160000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>DFB-Pokal: 1. FSV Mainz 05 - VfB Stuttgart, 2. Runde</title>
 </programme>
 <programme start="20251125160000 +0000" stop="20251125163000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Fußball: scooore Niederlande! Alle Tore</title>
@@ -3342,10 +3345,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251125000000 +0000" stop="20251125023000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Cleveland Cavaliers @ Toronto Raptors</title>
 </programme>
-<programme start="20251125023000 +0000" stop="20251125050000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20251125023000 +0000" stop="20251125051500 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Houston Rockets @ Phoenix Suns</title>
 </programme>
-<programme start="20251125050000 +0000" stop="20251125090000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20251125051500 +0000" stop="20251125090000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime - Post Show</title>
 </programme>
 <programme start="20251124231500 +0000" stop="20251125000000 +0000" channel="SYFY HD.skyde">

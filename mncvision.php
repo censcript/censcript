@@ -1468,7 +1468,57 @@
 <programme start="20251125150000 +0000" stop="20251125153000 +0000" channel="beIN SPORTS 5.mncvision">
     <title>beIN Sports 5</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20251124170000 +0000" stop="20251124173000 +0000" channel="Bloomberg.mncvision">
+    <title>Bloomberg ETF IQ</title>
+</programme>
+<programme start="20251124173000 +0000" stop="20251124180000 +0000" channel="Bloomberg.mncvision">
+    <title>Bloomberg Markets</title>
+</programme>
+<programme start="20251124180000 +0000" stop="20251124190000 +0000" channel="Bloomberg.mncvision">
+    <title>Bloomberg: Balance Of Power</title>
+</programme>
+<programme start="20251124190000 +0000" stop="20251124200000 +0000" channel="Bloomberg.mncvision">
+    <title>Bloomberg BusinessWeek Daily</title>
+</programme>
+<programme start="20251124200000 +0000" stop="20251124220000 +0000" channel="Bloomberg.mncvision">
+    <title>Bloomberg The Close</title>
+</programme>
+<programme start="20251124220000 +0000" stop="20251124230000 +0000" channel="Bloomberg.mncvision">
+    <title>Bloomberg: Balance Of Power</title>
+</programme>
+<programme start="20251124230000 +0000" stop="20251125010000 +0000" channel="Bloomberg.mncvision">
+    <title>Bloomberg: The Asia Trade</title>
+</programme>
+<programme start="20251125010000 +0000" stop="20251125030000 +0000" channel="Bloomberg.mncvision">
+    <title>Bloomberg: The China Show</title>
+</programme>
+<programme start="20251125030000 +0000" stop="20251125050000 +0000" channel="Bloomberg.mncvision">
+    <title>Insight With Haslinda Amin</title>
+</programme>
+<programme start="20251125050000 +0000" stop="20251125060000 +0000" channel="Bloomberg.mncvision">
+    <title>Bloomberg Horizons</title>
+</programme>
+<programme start="20251125060000 +0000" stop="20251125070000 +0000" channel="Bloomberg.mncvision">
+    <title>Bloomberg Daybreak: Europe</title>
+</programme>
+<programme start="20251125070000 +0000" stop="20251125090000 +0000" channel="Bloomberg.mncvision">
+    <title>Bloomberg: The Opening Trade</title>
+</programme>
+<programme start="20251125090000 +0000" stop="20251125100000 +0000" channel="Bloomberg.mncvision">
+    <title>The Pulse With Francine Lacqua</title>
+</programme>
+<programme start="20251125100000 +0000" stop="20251125110000 +0000" channel="Bloomberg.mncvision">
+    <title>Bloomberg Brief</title>
+</programme>
+<programme start="20251125110000 +0000" stop="20251125140000 +0000" channel="Bloomberg.mncvision">
+    <title>Bloomberg Surveillance</title>
+</programme>
+<programme start="20251125140000 +0000" stop="20251125160000 +0000" channel="Bloomberg.mncvision">
+    <title>Bloomberg Open Interest</title>
+</programme>
+<programme start="20251125160000 +0000" stop="20251125163000 +0000" channel="Bloomberg.mncvision">
+    <title>Bloomberg Tech</title>
+</programme>
 <programme start="20251124173000 +0000" stop="20251124182700 +0000" channel="BTV.mncvision">
     <title>Berita Viral</title>
 </programme>
@@ -1553,8 +1603,90 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20251125163000 +0000" stop="20251124170000 +0000" channel="BTV.mncvision">
     <title>ONE Vault</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20251124173800 +0000" stop="20251124195200 +0000" channel="BUDDY STARS.mncvision">
+    <title>Silver</title>
+</programme>
+<programme start="20251124195200 +0000" stop="20251124213000 +0000" channel="BUDDY STARS.mncvision">
+    <title>Pil&#039;s Adventures</title>
+</programme>
+<programme start="20251124213000 +0000" stop="20251124231400 +0000" channel="BUDDY STARS.mncvision">
+    <title>Silver</title>
+</programme>
+<programme start="20251124231400 +0000" stop="20251125004300 +0000" channel="BUDDY STARS.mncvision">
+    <title>Dragon Hunters</title>
+</programme>
+<programme start="20251125004300 +0000" stop="20251125022900 +0000" channel="BUDDY STARS.mncvision">
+    <title>Silver</title>
+</programme>
+<programme start="20251125022900 +0000" stop="20251125041300 +0000" channel="BUDDY STARS.mncvision">
+    <title>First Dog</title>
+</programme>
+<programme start="20251125041300 +0000" stop="20251125055800 +0000" channel="BUDDY STARS.mncvision">
+    <title>Silver</title>
+</programme>
+<programme start="20251125055800 +0000" stop="20251125074500 +0000" channel="BUDDY STARS.mncvision">
+    <title>Lena And Snowball</title>
+</programme>
+<programme start="20251125074500 +0000" stop="20251125092700 +0000" channel="BUDDY STARS.mncvision">
+    <title>Silver</title>
+</programme>
+<programme start="20251125092700 +0000" stop="20251125110200 +0000" channel="BUDDY STARS.mncvision">
+    <title>Horse Camp: A Love Tail</title>
+</programme>
+<programme start="20251125110200 +0000" stop="20251125124200 +0000" channel="BUDDY STARS.mncvision">
+    <title>Silver</title>
+</programme>
+<programme start="20251125124200 +0000" stop="20251125141000 +0000" channel="BUDDY STARS.mncvision">
+    <title>The Queen&#039;s Corgi</title>
+</programme>
+<programme start="20251125141000 +0000" stop="20251125160100 +0000" channel="BUDDY STARS.mncvision">
+    <title>Silver</title>
+</programme>
+<programme start="20251125160100 +0000" stop="20251125163100 +0000" channel="BUDDY STARS.mncvision">
+    <title>Faunutland And The Lost Magic</title>
+</programme>
+<programme start="20251124173800 +0000" stop="20251124195200 +0000" channel="BUDDY STARS HD.mncvision">
+    <title>Silver</title>
+</programme>
+<programme start="20251124195200 +0000" stop="20251124213000 +0000" channel="BUDDY STARS HD.mncvision">
+    <title>Pil&#039;s Adventures</title>
+</programme>
+<programme start="20251124213000 +0000" stop="20251124231400 +0000" channel="BUDDY STARS HD.mncvision">
+    <title>Silver</title>
+</programme>
+<programme start="20251124231400 +0000" stop="20251125004300 +0000" channel="BUDDY STARS HD.mncvision">
+    <title>Dragon Hunters</title>
+</programme>
+<programme start="20251125004300 +0000" stop="20251125022900 +0000" channel="BUDDY STARS HD.mncvision">
+    <title>Silver</title>
+</programme>
+<programme start="20251125022900 +0000" stop="20251125041300 +0000" channel="BUDDY STARS HD.mncvision">
+    <title>First Dog</title>
+</programme>
+<programme start="20251125041300 +0000" stop="20251125055800 +0000" channel="BUDDY STARS HD.mncvision">
+    <title>Silver</title>
+</programme>
+<programme start="20251125055800 +0000" stop="20251125074500 +0000" channel="BUDDY STARS HD.mncvision">
+    <title>Lena And Snowball</title>
+</programme>
+<programme start="20251125074500 +0000" stop="20251125092700 +0000" channel="BUDDY STARS HD.mncvision">
+    <title>Silver</title>
+</programme>
+<programme start="20251125092700 +0000" stop="20251125110200 +0000" channel="BUDDY STARS HD.mncvision">
+    <title>Horse Camp: A Love Tail</title>
+</programme>
+<programme start="20251125110200 +0000" stop="20251125124200 +0000" channel="BUDDY STARS HD.mncvision">
+    <title>Silver</title>
+</programme>
+<programme start="20251125124200 +0000" stop="20251125141000 +0000" channel="BUDDY STARS HD.mncvision">
+    <title>The Queen&#039;s Corgi</title>
+</programme>
+<programme start="20251125141000 +0000" stop="20251125160100 +0000" channel="BUDDY STARS HD.mncvision">
+    <title>Silver</title>
+</programme>
+<programme start="20251125160100 +0000" stop="20251125163100 +0000" channel="BUDDY STARS HD.mncvision">
+    <title>Faunutland And The Lost Magic</title>
+</programme>
 <programme start="20251124170000 +0000" stop="20251124170700 +0000" channel="CBeebies.mncvision">
     <title>Hey Duggee S5, Ep 16</title>
 </programme>
@@ -1747,7 +1879,99 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20251125162500 +0000" stop="20251125165500 +0000" channel="CCM.mncvision">
     <title>The Convict Killer</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20251124170000 +0000" stop="20251124180000 +0000" channel="Celebrities TV.mncvision">
+    <title>Hotman Paris Show</title>
+</programme>
+<programme start="20251124180000 +0000" stop="20251124190000 +0000" channel="Celebrities TV.mncvision">
+    <title>Tamu Dadakan</title>
+</programme>
+<programme start="20251124190000 +0000" stop="20251124200000 +0000" channel="Celebrities TV.mncvision">
+    <title>Cinta Yasmin</title>
+</programme>
+<programme start="20251124200000 +0000" stop="20251124210000 +0000" channel="Celebrities TV.mncvision">
+    <title>iSeleb</title>
+</programme>
+<programme start="20251124210000 +0000" stop="20251124213000 +0000" channel="Celebrities TV.mncvision">
+    <title>Celebrity Top 10</title>
+</programme>
+<programme start="20251124213000 +0000" stop="20251124220000 +0000" channel="Celebrities TV.mncvision">
+    <title>Seleb On News</title>
+</programme>
+<programme start="20251124220000 +0000" stop="20251124230000 +0000" channel="Celebrities TV.mncvision">
+    <title>Hotman Paris Show</title>
+</programme>
+<programme start="20251124230000 +0000" stop="20251124233000 +0000" channel="Celebrities TV.mncvision">
+    <title>Super Papa</title>
+</programme>
+<programme start="20251124233000 +0000" stop="20251125000000 +0000" channel="Celebrities TV.mncvision">
+    <title>Silet</title>
+</programme>
+<programme start="20251125000000 +0000" stop="20251125010000 +0000" channel="Celebrities TV.mncvision">
+    <title>iSeleb</title>
+</programme>
+<programme start="20251125010000 +0000" stop="20251125020000 +0000" channel="Celebrities TV.mncvision">
+    <title>Eksis</title>
+</programme>
+<programme start="20251125020000 +0000" stop="20251125023000 +0000" channel="Celebrities TV.mncvision">
+    <title>Seleb On News</title>
+</programme>
+<programme start="20251125023000 +0000" stop="20251125030000 +0000" channel="Celebrities TV.mncvision">
+    <title>Go Spot</title>
+</programme>
+<programme start="20251125030000 +0000" stop="20251125040000 +0000" channel="Celebrities TV.mncvision">
+    <title>Obrolan Seputar Selebriti</title>
+</programme>
+<programme start="20251125040000 +0000" stop="20251125050000 +0000" channel="Celebrities TV.mncvision">
+    <title>Tamu Dadakan</title>
+</programme>
+<programme start="20251125050000 +0000" stop="20251125060000 +0000" channel="Celebrities TV.mncvision">
+    <title>Cinta Yasmin</title>
+</programme>
+<programme start="20251125060000 +0000" stop="20251125070000 +0000" channel="Celebrities TV.mncvision">
+    <title>Hotman Paris Show</title>
+</programme>
+<programme start="20251125070000 +0000" stop="20251125080000 +0000" channel="Celebrities TV.mncvision">
+    <title>Eksis</title>
+</programme>
+<programme start="20251125080000 +0000" stop="20251125083000 +0000" channel="Celebrities TV.mncvision">
+    <title>Silet</title>
+</programme>
+<programme start="20251125083000 +0000" stop="20251125093000 +0000" channel="Celebrities TV.mncvision">
+    <title>Obrolan Seputar Selebriti</title>
+</programme>
+<programme start="20251125093000 +0000" stop="20251125100000 +0000" channel="Celebrities TV.mncvision">
+    <title>Go Spot</title>
+</programme>
+<programme start="20251125100000 +0000" stop="20251125103000 +0000" channel="Celebrities TV.mncvision">
+    <title>Super Papa</title>
+</programme>
+<programme start="20251125103000 +0000" stop="20251125110000 +0000" channel="Celebrities TV.mncvision">
+    <title>Seleb On News</title>
+</programme>
+<programme start="20251125110000 +0000" stop="20251125120000 +0000" channel="Celebrities TV.mncvision">
+    <title>iSeleb</title>
+</programme>
+<programme start="20251125120000 +0000" stop="20251125123000 +0000" channel="Celebrities TV.mncvision">
+    <title>Celebrity Files</title>
+</programme>
+<programme start="20251125123000 +0000" stop="20251125130000 +0000" channel="Celebrities TV.mncvision">
+    <title>Go Spot</title>
+</programme>
+<programme start="20251125130000 +0000" stop="20251125140000 +0000" channel="Celebrities TV.mncvision">
+    <title>Obrolan Seputar Selebriti</title>
+</programme>
+<programme start="20251125140000 +0000" stop="20251125150000 +0000" channel="Celebrities TV.mncvision">
+    <title>Eksis</title>
+</programme>
+<programme start="20251125150000 +0000" stop="20251125160000 +0000" channel="Celebrities TV.mncvision">
+    <title>iSeleb</title>
+</programme>
+<programme start="20251125160000 +0000" stop="20251125163000 +0000" channel="Celebrities TV.mncvision">
+    <title>Celebrity Files</title>
+</programme>
+<programme start="20251125163000 +0000" stop="20251124170000 +0000" channel="Celebrities TV.mncvision">
+    <title>Silet</title>
+</programme>
 <programme start="20251124173600 +0000" stop="20251124191600 +0000" channel="Celestial Movies.mncvision">
     <title>Social Distancing</title>
 </programme>
