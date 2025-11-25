@@ -430,6 +430,10 @@
     <title>Volleyball: Allianz Powervolley Milano - Olympiacos (L)</title>
     <desc>Live: Ya</desc>
 </programme>
+<programme start="20251127043000 +0700" stop="20251127050000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Sports Classics: 2025 Sports Rundown E6</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251126030000 +0700" stop="20251126050500 +0700" channel="COSMOTE Sport 7 HD">
     <title>Football: Borussia Dortmund - Villarreal CF (L)</title>
     <desc>Live: Ya</desc>
