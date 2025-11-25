@@ -1125,23 +1125,23 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251125221500 +0000" stop="20251125230000 +0000" channel="Heimatkanal.skyde">
     <title>Der Landarzt</title>
 </programme>
-<programme start="20251124233000 +0000" stop="20251125001500 +0000" channel="HISTORY Channel HD.skyde">
+<programme start="20251124230000 +0000" stop="20251124235500 +0000" channel="HISTORY Channel HD.skyde">
     <title>Terra X: Ein Moment in der Geschichte</title>
 </programme>
-<programme start="20251125001500 +0000" stop="20251125010000 +0000" channel="HISTORY Channel HD.skyde">
+<programme start="20251124235500 +0000" stop="20251125004000 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Terra X: Ein Moment in der Geschichte</title>
+</programme>
+<programme start="20251125004000 +0000" stop="20251125013000 +0000" channel="HISTORY Channel HD.skyde">
     <title>Meilensteine der Technik</title>
 </programme>
-<programme start="20251125010000 +0000" stop="20251125015000 +0000" channel="HISTORY Channel HD.skyde">
+<programme start="20251125013000 +0000" stop="20251125023000 +0000" channel="HISTORY Channel HD.skyde">
     <title>Rekordverdächtig - Architektur der Extreme</title>
 </programme>
-<programme start="20251125015000 +0000" stop="20251125023500 +0000" channel="HISTORY Channel HD.skyde">
+<programme start="20251125023000 +0000" stop="20251125031500 +0000" channel="HISTORY Channel HD.skyde">
     <title>Innovationen, die die Welt veränderten</title>
 </programme>
-<programme start="20251125023500 +0000" stop="20251125031500 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Zukunft ohne Menschen</title>
-</programme>
 <programme start="20251125031500 +0000" stop="20251125040000 +0000" channel="HISTORY Channel HD.skyde">
-    <title>The Proof is Out There - Auf den Spuren des Unerklärlichen</title>
+    <title>Zukunft ohne Menschen</title>
 </programme>
 <programme start="20251125040000 +0000" stop="20251125044000 +0000" channel="HISTORY Channel HD.skyde">
     <title>Das Geheimnis der Skinwalker Ranch</title>
@@ -2748,7 +2748,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251125193000 +0000" stop="20251125195000 +0000" channel="Sky Sport Austria 5 HD.skyde">
     <title>Es folgt: UEFA CL</title>
 </programme>
-<programme start="20251125195000 +0000" stop="20251125223000 +0000" channel="Sky Sport Austria 5 HD.skyde">
+<programme start="20251125195000 +0000" stop="20251125220000 +0000" channel="Sky Sport Austria 5 HD.skyde">
     <title>Live UEFA CL: Olympique Marseille - Newcastle United, Ligaphase, 5. Spieltag, Dienstag</title>
 </programme>
 <programme start="20251125193000 +0000" stop="20251125195000 +0000" channel="Sky Sport Austria 6 HD.skyde">
@@ -2760,13 +2760,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251125193000 +0000" stop="20251125195000 +0000" channel="Sky Sport Austria 7 HD.skyde">
     <title>Es folgt: UEFA CL</title>
 </programme>
-<programme start="20251125195000 +0000" stop="20251125223000 +0000" channel="Sky Sport Austria 7 HD.skyde">
+<programme start="20251125195000 +0000" stop="20251125220000 +0000" channel="Sky Sport Austria 7 HD.skyde">
     <title>Live UEFA CL: SSC Neapel - FK Qarabag, Ligaphase, 5. Spieltag, Dienstag</title>
 </programme>
 <programme start="20251125193000 +0000" stop="20251125195000 +0000" channel="Sky Sport Austria 8 HD.skyde">
     <title>Es folgt: UEFA CL</title>
 </programme>
-<programme start="20251125195000 +0000" stop="20251125223000 +0000" channel="Sky Sport Austria 8 HD.skyde">
+<programme start="20251125195000 +0000" stop="20251125220000 +0000" channel="Sky Sport Austria 8 HD.skyde">
     <title>Live UEFA CL: Slavia Prag - Athletic Bilbao, Ligaphase, 5. Spieltag, Dienstag</title>
 </programme>
 <programme start="20251124233000 +0000" stop="20251125000000 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -2990,15 +2990,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 </programme>
 <programme start="20251125040000 +0000" stop="20251125060000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>DFB-Pokal Frauen: VfL Wolfsburg - SC Freiburg, Achtelfinale</title>
-</programme>
-<programme start="20251125060000 +0000" stop="20251125080000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NHL: St. Louis Blues @ New York Rangers</title>
-</programme>
-<programme start="20251125080000 +0000" stop="20251125083000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NBA: Showtime</title>
-</programme>
-<programme start="20251125083000 +0000" stop="20251125103000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NBA: Cleveland Cavaliers @ Toronto Raptors</title>
 </programme>
 <programme start="20251125103000 +0000" stop="20251125104500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Highlights DET@NJD</title>
@@ -3228,26 +3219,29 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251125070000 +0000" stop="20251125090000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: A. Zverev (GER) - K. Khachanov, National Bank Open Presented By Rogers in Toronto (CAN), Halbfinale 1</title>
 </programme>
-<programme start="20251125090000 +0000" stop="20251125110000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20251125090000 +0000" stop="20251125101500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: B. Shelton (USA) - T. Fritz (USA), National Bank Open Presented By Rogers in Toronto (CAN), Halbfinale 2</title>
 </programme>
-<programme start="20251125110000 +0000" stop="20251125133000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20251125101500 +0000" stop="20251125124500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: K. Khachanov - B. Shelton (USA), National Bank Open Presented By Rogers in Toronto (CAN), Finale</title>
 </programme>
-<programme start="20251125133000 +0000" stop="20251125160000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20251125124500 +0000" stop="20251125151500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: J. Salisbury (GBR) / N. Skupski (GBR) - J. Cash (GBR) / L. Glasspool (GBR), National Bank Open Presented By Rogers in Toronto (CAN), Doppelfinale</title>
 </programme>
-<programme start="20251125160000 +0000" stop="20251125170000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20251125151500 +0000" stop="20251125161500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: Review Toronto</title>
 </programme>
-<programme start="20251125170000 +0000" stop="20251125190000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20251125161500 +0000" stop="20251125181500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: E. Rybakina (KAZ) - V. Mboko (CAN), National Bank Open Presented By Rogers in Montreal (CAN), Halbfinale 1</title>
 </programme>
-<programme start="20251125190000 +0000" stop="20251125210000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20251125181500 +0000" stop="20251125201500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: N. Osaka (JPN) - C. Tauson (DEN), National Bank Open Presented By Rogers in Montreal (CAN), Halbfinale 2</title>
 </programme>
-<programme start="20251125210000 +0000" stop="20251125233000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20251125201500 +0000" stop="20251125224500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: V. Mboko (CAN) - N. Osaka (JPN), National Bank Open Presented By Rogers in Montreal (CAN), Finale</title>
+</programme>
+<programme start="20251125224500 +0000" stop="20251125231500 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 1000: Review Montreal</title>
 </programme>
 <programme start="20251124230000 +0000" stop="20251124233000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Frauen-BL: Alle Spiele, alle Tore, 11. Spieltag komplett</title>
