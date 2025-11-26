@@ -3242,7 +3242,7 @@
         <title>Best of DW-online Content</title>
     </programme>
     <programme start="20251125233000 +0000" stop="20251126000000 +0000" channel="DW English HD.starhub">
-        <title>What connects us all</title>
+        <title>India&#039;s women step up: Courage against violence and misogyny</title>
     </programme>
     <programme start="20251126000000 +0000" stop="20251126000200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3251,7 +3251,7 @@
         <title>News in Review</title>
     </programme>
     <programme start="20251126003000 +0000" stop="20251126010000 +0000" channel="DW English HD.starhub">
-        <title>Your Business Magazine</title>
+        <title>Foreign students working in Germany</title>
     </programme>
     <programme start="20251126010000 +0000" stop="20251126011500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3266,13 +3266,13 @@
         <title>News in Review</title>
     </programme>
     <programme start="20251126023000 +0000" stop="20251126030000 +0000" channel="DW English HD.starhub">
-        <title>What connects us all</title>
+        <title>India&#039;s women step up: Courage against violence and misogyny</title>
     </programme>
     <programme start="20251126030000 +0000" stop="20251126031500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20251126031500 +0000" stop="20251126033000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>Ngozi Okonjo-Iweala, WTO Director-General</title>
     </programme>
     <programme start="20251126033000 +0000" stop="20251126040000 +0000" channel="DW English HD.starhub">
         <title>Turning threats to the environment into opportunities</title>
@@ -3290,13 +3290,13 @@
         <title>News in Review</title>
     </programme>
     <programme start="20251126053000 +0000" stop="20251126060000 +0000" channel="DW English HD.starhub">
-        <title>Your Business Magazine</title>
+        <title>Foreign students working in Germany</title>
     </programme>
     <programme start="20251126060000 +0000" stop="20251126061500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20251126061500 +0000" stop="20251126063000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>Ngozi Okonjo-Iweala, WTO Director-General</title>
     </programme>
     <programme start="20251126063000 +0000" stop="20251126070000 +0000" channel="DW English HD.starhub">
         <title>AI in healthcare: How smart tech is changing medicine</title>
@@ -3305,7 +3305,7 @@
         <title>News</title>
     </programme>
     <programme start="20251126073000 +0000" stop="20251126080000 +0000" channel="DW English HD.starhub">
-        <title>The Current Affairs Documentary</title>
+        <title>Poland’s Fentanyl Crisis</title>
     </programme>
     <programme start="20251126080000 +0000" stop="20251126083000 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3323,13 +3323,13 @@
         <title>News</title>
     </programme>
     <programme start="20251126103000 +0000" stop="20251126110000 +0000" channel="DW English HD.starhub">
-        <title>The Current Affairs Documentary</title>
+        <title>Poland’s Fentanyl Crisis</title>
     </programme>
     <programme start="20251126110000 +0000" stop="20251126113000 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20251126113000 +0000" stop="20251126120000 +0000" channel="DW English HD.starhub">
-        <title>Your Business Magazine</title>
+        <title>Foreign students working in Germany</title>
     </programme>
     <programme start="20251126120000 +0000" stop="20251126121500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3341,7 +3341,7 @@
         <title>News</title>
     </programme>
     <programme start="20251126131500 +0000" stop="20251126133000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>Inside Germany&#039;s massive spending spree</title>
     </programme>
     <programme start="20251126133000 +0000" stop="20251126140000 +0000" channel="DW English HD.starhub">
         <title>Turning threats to the environment into opportunities</title>
@@ -3350,7 +3350,7 @@
         <title>News</title>
     </programme>
     <programme start="20251126143000 +0000" stop="20251126150000 +0000" channel="DW English HD.starhub">
-        <title>Your Business Magazine</title>
+        <title>Foreign students working in Germany</title>
     </programme>
     <programme start="20251126150000 +0000" stop="20251126153000 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -7948,10 +7948,10 @@
     <programme start="20251125232000 +0000" stop="20251126013000 +0000" channel="Asianet Movies.starhub">
         <title>Chitta</title>
     </programme>
-    <programme start="20251126013000 +0000" stop="20251126043000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251126013000 +0000" stop="20251126043500 +0000" channel="Asianet Movies.starhub">
         <title>Innathe Chinthavishayam</title>
     </programme>
-    <programme start="20251126043000 +0000" stop="20251126073000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251126043500 +0000" stop="20251126073000 +0000" channel="Asianet Movies.starhub">
         <title>Ananthabhadram</title>
     </programme>
     <programme start="20251126073000 +0000" stop="20251126103000 +0000" channel="Asianet Movies.starhub">
