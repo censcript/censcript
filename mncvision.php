@@ -8420,7 +8420,7 @@
     <title>The Ultimate Goals</title>
 </programme>
 <programme start="20251126100000 +0000" stop="20251126120000 +0000" channel="Sportstars 3.mncvision">
-    <title>ACL Elite: ULS Vs BUR (L)</title>
+    <title>Liga 2</title>
 </programme>
 <programme start="20251126120000 +0000" stop="20251126140000 +0000" channel="Sportstars 3.mncvision">
     <title>BRI Liga 1</title>
@@ -8468,7 +8468,7 @@
     <title>The Ultimate Goals</title>
 </programme>
 <programme start="20251126100000 +0000" stop="20251126120000 +0000" channel="sportstars 3 HD.mncvision">
-    <title>ACL Elite: ULS Vs BUR (L)</title>
+    <title>Liga 2</title>
 </programme>
 <programme start="20251126120000 +0000" stop="20251126140000 +0000" channel="sportstars 3 HD.mncvision">
     <title>BRI Liga 1</title>

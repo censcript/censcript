@@ -5336,7 +5336,7 @@
         <title>Sinister Beings 2</title>
     </programme>
     <programme start="20251126094500 +0000" stop="20251126103500 +0000" channel="TestChannel 996.starhub">
-        <title>Golden City (Ep 751-800) VVD Mandarin</title>
+        <title>ReplaceC</title>
     </programme>
     <programme start="20251126103500 +0000" stop="20251126110000 +0000" channel="TestChannel 996.starhub">
         <title>Lo And Behold</title>
