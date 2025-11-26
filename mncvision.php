@@ -7697,7 +7697,7 @@
     <title>Montir Cantik</title>
 </programme>
 <programme start="20251126080000 +0000" stop="20251126090000 +0000" channel="RCTI.mncvision">
-    <title>Preman Pensiun S9</title>
+    <title>Preman Pensiun X</title>
 </programme>
 <programme start="20251126090000 +0000" stop="20251126103000 +0000" channel="RCTI.mncvision">
     <title>Manda Curhat</title>
@@ -7745,7 +7745,7 @@
     <title>Montir Cantik</title>
 </programme>
 <programme start="20251126080000 +0000" stop="20251126090000 +0000" channel="RCTI HD.mncvision">
-    <title>Preman Pensiun S9</title>
+    <title>Preman Pensiun X</title>
 </programme>
 <programme start="20251126090000 +0000" stop="20251126103000 +0000" channel="RCTI HD.mncvision">
     <title>Manda Curhat</title>

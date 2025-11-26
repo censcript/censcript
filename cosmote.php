@@ -134,6 +134,10 @@
     <title>Football: Olympiacos - Real Madrid CF</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251127181500 +0700" stop="20251127202500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Olympiacos - Atromitos Athens</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251126170000 +0700" stop="20251126190000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Motherwell - St. Mirren</title>
     <desc>Live: Tidak</desc>
@@ -184,10 +188,6 @@
 </programme>
 <programme start="20251127170000 +0700" stop="20251127194000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Celtic FC - Rangers FC</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251126164000 +0700" stop="20251126171000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>NBA Specials</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251126171000 +0700" stop="20251126194000 +0700" channel="COSMOTE Sport 4 HD">
@@ -244,14 +244,6 @@
 </programme>
 <programme start="20251127170000 +0700" stop="20251127193000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Boston Celtics - Detroit Pistons</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251126161000 +0700" stop="20251126170500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>2025 GT World Challenge Europe</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251126170500 +0700" stop="20251126175500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251126175500 +0700" stop="20251126184000 +0700" channel="COSMOTE Sport 5 HD">
@@ -350,6 +342,10 @@
     <title>Grand Prix Show 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251127183000 +0700" stop="20251127192000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>DTM</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251126170000 +0700" stop="20251126183000 +0700" channel="COSMOTE Sport 6 HD">
     <title>OPAP Padel Series Tournament Padel Place Marousi</title>
     <desc>Live: Tidak</desc>
@@ -428,6 +424,10 @@
 </programme>
 <programme start="20251127165000 +0700" stop="20251127183000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Premier Padel Tour 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251127183000 +0700" stop="20251127210000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Volleyball: Allianz Powervolley Milano - Olympiacos</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251126170000 +0700" stop="20251126190000 +0700" channel="COSMOTE Sport 7 HD">

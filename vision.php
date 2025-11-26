@@ -652,6 +652,9 @@
 <programme start="20251126010000 +0000" stop="20251126030000 +0000" channel="ANTV.vision">
 <title>Mangal Lakshmi</title>
 </programme>
+<programme start="20251126030000 +0000" stop="20251126063000 +0000" channel="ANTV.vision">
+<title>Shakti: The Power</title>
+</programme>
 <programme start="20251126063000 +0000" stop="20251126080000 +0000" channel="ANTV.vision">
 <title>Cinta Keluarga Pandya</title>
 </programme>
@@ -1493,8 +1496,5 @@
 <title>TVRI</title>
 </programme>
 <programme start="20251126070000 +0000" stop="20251126083500 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20251126083500 +0000" stop="20251126102000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
