@@ -988,54 +988,6 @@
 <programme start="20251126223000 +0000" stop="20251126230000 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20251125230000 +0000" stop="20251126070000 +0000" channel="DAZN 2 HD.skyde">
-    <title>Sendepause</title>
-</programme>
-<programme start="20251126070000 +0000" stop="20251126090000 +0000" channel="DAZN 2 HD.skyde">
-    <title>Serie A 25/26: Inter Mailand - AC Mailand</title>
-</programme>
-<programme start="20251126090000 +0000" stop="20251126110000 +0000" channel="DAZN 2 HD.skyde">
-    <title>Bundesliga: FC St. Pauli - 1. FC Union Berlin</title>
-</programme>
-<programme start="20251126110000 +0000" stop="20251126113000 +0000" channel="DAZN 2 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
-</programme>
-<programme start="20251126113000 +0000" stop="20251126120000 +0000" channel="DAZN 2 HD.skyde">
-    <title>Google Pixel Frauen-Bundesliga Highlightshow 2025/26: 11. Spieltag</title>
-</programme>
-<programme start="20251126120000 +0000" stop="20251126123000 +0000" channel="DAZN 2 HD.skyde">
-    <title>Serie A Highlightshow: 12. Spieltag</title>
-</programme>
-<programme start="20251126123000 +0000" stop="20251126142000 +0000" channel="DAZN 2 HD.skyde">
-    <title>Bundesliga: RB Leipzig - SV Werder Bremen</title>
-</programme>
-<programme start="20251126142000 +0000" stop="20251126145000 +0000" channel="DAZN 2 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
-</programme>
-<programme start="20251126145000 +0000" stop="20251126152500 +0000" channel="DAZN 2 HD.skyde">
-    <title>Das Herz des deutschen Fußballs: Episode 1</title>
-</programme>
-<programme start="20251126152500 +0000" stop="20251126155500 +0000" channel="DAZN 2 HD.skyde">
-    <title>Das Herz des deutschen Fußballs: Episode 2</title>
-</programme>
-<programme start="20251126155500 +0000" stop="20251126162500 +0000" channel="DAZN 2 HD.skyde">
-    <title>Das Herz des deutschen Fußballs: Episode 3</title>
-</programme>
-<programme start="20251126162500 +0000" stop="20251126171500 +0000" channel="DAZN 2 HD.skyde">
-    <title>3. Liga Highlightshow 2025/26: 15. Spieltag</title>
-</programme>
-<programme start="20251126171500 +0000" stop="20251126172500 +0000" channel="DAZN 2 HD.skyde">
-    <title>UCL Warm Up: UEFA Champions League Highlights. Nur in Deutschland verfügbar!</title>
-</programme>
-<programme start="20251126172500 +0000" stop="20251126195500 +0000" channel="DAZN 2 HD.skyde">
-    <title>UEFA Champions League 25/26: Konferenz. Nur in Deutschland verfügbar!</title>
-</programme>
-<programme start="20251126195500 +0000" stop="20251126223000 +0000" channel="DAZN 2 HD.skyde">
-    <title>UEFA Champions League 25/26: Konferenz. Nur in Deutschland verfügbar!</title>
-</programme>
-<programme start="20251126223000 +0000" stop="20251126230000 +0000" channel="DAZN 2 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
-</programme>
 <programme start="20251125230000 +0000" stop="20251125233000 +0000" channel="Heimatkanal.skyde">
     <title>Königlich Bayerisches Amtsgericht</title>
 </programme>
@@ -3169,10 +3121,10 @@
 <programme start="20251126003000 +0000" stop="20251126010000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Showtime</title>
 </programme>
-<programme start="20251126010000 +0000" stop="20251126040000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20251126010000 +0000" stop="20251126034500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Orlando Magic @ Philadelphia 76ers</title>
 </programme>
-<programme start="20251126040000 +0000" stop="20251126070000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20251126034500 +0000" stop="20251126070000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: LA Clippers @ LA Lakers</title>
 </programme>
 <programme start="20251126070000 +0000" stop="20251126080000 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3253,10 +3205,10 @@
 <programme start="20251126003000 +0000" stop="20251126010000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime</title>
 </programme>
-<programme start="20251126010000 +0000" stop="20251126040000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20251126010000 +0000" stop="20251126034500 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Orlando Magic @ Philadelphia 76ers</title>
 </programme>
-<programme start="20251126040000 +0000" stop="20251126090000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20251126034500 +0000" stop="20251126090000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: LA Clippers @ LA Lakers</title>
 </programme>
 <programme start="20251126214000 +0000" stop="20251126220000 +0000" channel="Sky Sport 1 HD.skyde">
