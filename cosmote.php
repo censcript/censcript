@@ -58,10 +58,6 @@
     <title>Football: Liverpool FC - PSV Eindhoven</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251126100000 +0700" stop="20251126120000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Udinese - Bologna</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251126120000 +0700" stop="20251126141000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Volos - Levadiakos</title>
     <desc>Live: Tidak</desc>
@@ -128,6 +124,10 @@
 </programme>
 <programme start="20251127100000 +0700" stop="20251127120000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Torino - Como</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251127120000 +0700" stop="20251127141000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: AEL Novibet - OFI</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251126110000 +0700" stop="20251126143000 +0700" channel="COSMOTE Sport 3 HD">
@@ -246,10 +246,6 @@
     <title>Basketball: Golden State Warriors - Houston Rockets (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251126110000 +0700" stop="20251126115500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251126115500 +0700" stop="20251126125000 +0700" channel="COSMOTE Sport 5 HD">
     <title>WRC 2025</title>
     <desc>Live: Tidak</desc>
@@ -341,6 +337,10 @@
 <programme start="20251127113000 +0700" stop="20251127120500 +0700" channel="COSMOTE Sport 5 HD">
     <title>WRC Magazine 2025</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251127120500 +0700" stop="20251127130500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC 2025 (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20251126110000 +0700" stop="20251126131000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Athletics: World Athletics Continental Tour Gold 2025</title>
