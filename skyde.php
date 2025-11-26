@@ -3253,10 +3253,10 @@
 <programme start="20251126003000 +0000" stop="20251126010000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime</title>
 </programme>
-<programme start="20251126010000 +0000" stop="20251126034500 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20251126010000 +0000" stop="20251126040000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Orlando Magic @ Philadelphia 76ers</title>
 </programme>
-<programme start="20251126034500 +0000" stop="20251126090000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20251126040000 +0000" stop="20251126090000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: LA Clippers @ LA Lakers</title>
 </programme>
 <programme start="20251126214000 +0000" stop="20251126220000 +0000" channel="Sky Sport 1 HD.skyde">
