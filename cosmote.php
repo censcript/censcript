@@ -62,10 +62,6 @@
     <title>Football: Olympiacos - Real Madrid CF</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251126202000 +0700" stop="20251126220000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Documentary</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251126220000 +0700" stop="20251127000000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Olympiacos - Real Madrid CF (L)</title>
     <desc>Live: Ya</desc>
@@ -134,8 +130,8 @@
     <title>Football: ACF Fiorentina - Juventus Football Club</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251126210000 +0700" stop="20251126213000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Copa Sudamericana 2025 - Highlights</title>
+<programme start="20251127222500 +0700" stop="20251127230000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Serie A Full Impact 2025-26 E12</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251126213000 +0700" stop="20251127004500 +0700" channel="COSMOTE Sport 3 HD">
@@ -186,8 +182,12 @@
     <title>Copa Libertadores 2025 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251126203500 +0700" stop="20251126215500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Pick n&#039; Roll</title>
+<programme start="20251127221000 +0700" stop="20251127223000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>William Hill Scottish Premiership - Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251127223000 +0700" stop="20251128004500 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Al Ahli - Al-Qadsiah</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251126215500 +0700" stop="20251126235500 +0700" channel="COSMOTE Sport 4 HD">
@@ -238,8 +238,8 @@
     <title>Basketball: Golden State Warriors - Houston Rockets</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251126203000 +0700" stop="20251126213500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC 2025</title>
+<programme start="20251127220000 +0700" stop="20251128000000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Cantu - Virtus Bologna</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251126213500 +0700" stop="20251126220500 +0700" channel="COSMOTE Sport 5 HD">
@@ -338,12 +338,8 @@
     <title>Motorsports: Extreme E 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251126203500 +0700" stop="20251126210500 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Premier Padel Tour 2025 - Highlights</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251126210500 +0700" stop="20251126215500 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Beach Volley: 2025 FIVB Beach Volleyball World Championships</title>
+<programme start="20251127223000 +0700" stop="20251128004000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: Extreme E 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251126215500 +0700" stop="20251126230500 +0700" channel="COSMOTE Sport 6 HD">
@@ -419,6 +415,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251127213500 +0700" stop="20251127222500 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Beach Volley: 2025 FIVB Beach Volleyball World Championships</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251127222500 +0700" stop="20251127232500 +0700" channel="COSMOTE Sport 6 HD">
     <title>Beach Volley: 2025 FIVB Beach Volleyball World Championships</title>
     <desc>Live: Tidak</desc>
 </programme>

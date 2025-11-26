@@ -682,12 +682,6 @@
 <programme start="20251126093000 +0000" stop="20251126110000 +0000" channel="ANTV.vision">
 <title>Takdir Cinta Layla</title>
 </programme>
-<programme start="20251126110000 +0000" stop="20251126130000 +0000" channel="ANTV.vision">
-<title>Pendekar Mata Satu Lawan...</title>
-</programme>
-<programme start="20251126130000 +0000" stop="20251126143000 +0000" channel="ANTV.vision">
-<title>Samson &amp; Delilah</title>
-</programme>
 <programme start="20251126143000 +0000" stop="20251126163000 +0000" channel="ANTV.vision">
 <title>Saur Sepuh 3</title>
 </programme>
@@ -1497,4 +1491,10 @@
 </programme>
 <programme start="20251127103000 +0000" stop="20251127123000 +0000" channel="BTV.vision">
 <title>Berita Satu Utama</title>
+</programme>
+<programme start="20251125233000 +0000" stop="20251126010000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251126010000 +0000" stop="20251126022500 +0000" channel="TVRI.vision">
+<title>TVRI</title>
 </programme>
