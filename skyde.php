@@ -934,58 +934,49 @@
 <programme start="20251126224000 +0000" stop="20251126233000 +0000" channel="Crime + Investigation.skyde">
     <title>Witness to Murder - Digitale Zeugen</title>
 </programme>
-<programme start="20251125230000 +0000" stop="20251126070000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20251119230000 +0000" stop="20251120070000 +0000" channel="DAZN 1 HD.skyde">
     <title>Sendepause</title>
 </programme>
-<programme start="20251126070000 +0000" stop="20251126073000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20251120070000 +0000" stop="20251120073500 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20251126073000 +0000" stop="20251126080000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Google Pixel Frauen-Bundesliga Highlightshow 2025/26: 11. Spieltag</title>
+<programme start="20251120073500 +0000" stop="20251120080000 +0000" channel="DAZN 1 HD.skyde">
+    <title>Serie A Highlightshow: 11. Spieltag</title>
 </programme>
-<programme start="20251126080000 +0000" stop="20251126083000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Serie A Highlightshow: 12. Spieltag</title>
+<programme start="20251120080000 +0000" stop="20251120083000 +0000" channel="DAZN 1 HD.skyde">
+    <title>Ligue 1 Highlightshow 2025/26: 12. Spieltag</title>
 </programme>
-<programme start="20251126083000 +0000" stop="20251126103000 +0000" channel="DAZN 1 HD.skyde">
-    <title>LaLiga 25/26: FC Barcelona - Athletic Bilbao</title>
+<programme start="20251120083000 +0000" stop="20251120103000 +0000" channel="DAZN 1 HD.skyde">
+    <title>UEFA World Cup Qualifiers 2026 Canada/Mexico/United States: Spanien - Türkei</title>
 </programme>
-<programme start="20251126103000 +0000" stop="20251126122500 +0000" channel="DAZN 1 HD.skyde">
-    <title>Bundesliga: Borussia Dortmund - VFB Stuttgart</title>
+<programme start="20251120103000 +0000" stop="20251120122500 +0000" channel="DAZN 1 HD.skyde">
+    <title>Bundesliga: Eintracht Frankfurt - 1. FSV Mainz 05</title>
 </programme>
-<programme start="20251126122500 +0000" stop="20251126130000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20251120122500 +0000" stop="20251120130000 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20251126130000 +0000" stop="20251126145000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Serie A 25/26: Inter Mailand - AC Mailand</title>
+<programme start="20251120130000 +0000" stop="20251120150000 +0000" channel="DAZN 1 HD.skyde">
+    <title>Bundesliga: Borussia M&#039;gladbach - 1. FC Köln</title>
 </programme>
-<programme start="20251126145000 +0000" stop="20251126152000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20251120150000 +0000" stop="20251120153000 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20251126152000 +0000" stop="20251126155000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Google Pixel Frauen-Bundesliga Highlightshow 2025/26: 11. Spieltag</title>
+<programme start="20251120153000 +0000" stop="20251120172500 +0000" channel="DAZN 1 HD.skyde">
+    <title>UEFA World Cup Qualifiers 2026 Canada/Mexico/United States: Deutschland - Slovakei</title>
 </programme>
-<programme start="20251126155000 +0000" stop="20251126162000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Serie A Highlightshow: 12. Spieltag</title>
+<programme start="20251120172500 +0000" stop="20251120190000 +0000" channel="DAZN 1 HD.skyde">
+    <title>VfB in Team: Folge 10 - Das Saisonfinale</title>
 </programme>
-<programme start="20251126162000 +0000" stop="20251126165000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Ligue 1 Highlightshow 2025/26: 13. Spieltag</title>
-</programme>
-<programme start="20251126165000 +0000" stop="20251126171500 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20251120190000 +0000" stop="20251120193000 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20251126171500 +0000" stop="20251126182500 +0000" channel="DAZN 1 HD.skyde">
-    <title>ALL IN - Die Bundesliga Highlight Show: 11. Spieltag</title>
+<programme start="20251120193000 +0000" stop="20251120212000 +0000" channel="DAZN 1 HD.skyde">
+    <title>EHF Champions League: Füchse Berlin - Sporting CP</title>
 </programme>
-<programme start="20251126182500 +0000" stop="20251126185000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
+<programme start="20251120212000 +0000" stop="20251120223000 +0000" channel="DAZN 1 HD.skyde">
+    <title>ALL IN - Die Bundesliga Highlight Show: 10. Spieltag</title>
 </programme>
-<programme start="20251126185000 +0000" stop="20251126190000 +0000" channel="DAZN 1 HD.skyde">
-    <title>UCL Warm Up: UEFA Champions League Highlights. Nur in Deutschland verfügbar!</title>
-</programme>
-<programme start="20251126190000 +0000" stop="20251126223000 +0000" channel="DAZN 1 HD.skyde">
-    <title>UEFA Champions League 25/26: FC Arsenal - FC Bayern München. Nur in Deutschland verfügbar!</title>
-</programme>
-<programme start="20251126223000 +0000" stop="20251126230000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20251120223000 +0000" stop="20251120230000 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
 <programme start="20251125230000 +0000" stop="20251126070000 +0000" channel="DAZN 2 HD.skyde">
@@ -3169,10 +3160,10 @@
 <programme start="20251126003000 +0000" stop="20251126010000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Showtime</title>
 </programme>
-<programme start="20251126010000 +0000" stop="20251126040000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20251126010000 +0000" stop="20251126034500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Orlando Magic @ Philadelphia 76ers</title>
 </programme>
-<programme start="20251126040000 +0000" stop="20251126070000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20251126034500 +0000" stop="20251126070000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: LA Clippers @ LA Lakers</title>
 </programme>
 <programme start="20251126070000 +0000" stop="20251126080000 +0000" channel="Sky Sport Top Event HD.skyde">

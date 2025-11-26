@@ -5311,10 +5311,10 @@
     <programme start="20251126020000 +0000" stop="20251126025500 +0000" channel="TestChannel 996.starhub">
         <title>Golden City (Ep 751-800) VVD Mandarin</title>
     </programme>
-    <programme start="20251126025500 +0000" stop="20251126035500 +0000" channel="TestChannel 996.starhub">
+    <programme start="20251126025500 +0000" stop="20251126035000 +0000" channel="TestChannel 996.starhub">
         <title>Prism Breaker</title>
     </programme>
-    <programme start="20251126035500 +0000" stop="20251126044500 +0000" channel="TestChannel 996.starhub">
+    <programme start="20251126035000 +0000" stop="20251126044500 +0000" channel="TestChannel 996.starhub">
         <title>The Wanted Detective</title>
     </programme>
     <programme start="20251126044500 +0000" stop="20251126051500 +0000" channel="TestChannel 996.starhub">
@@ -5323,13 +5323,13 @@
     <programme start="20251126051500 +0000" stop="20251126060500 +0000" channel="TestChannel 996.starhub">
         <title>The Heir to the Throne (with Eng Subs)</title>
     </programme>
-    <programme start="20251126060500 +0000" stop="20251126070000 +0000" channel="TestChannel 996.starhub">
+    <programme start="20251126060500 +0000" stop="20251126065500 +0000" channel="TestChannel 996.starhub">
         <title>Golden City (Ep 751-800) VVD Mandarin</title>
     </programme>
-    <programme start="20251126070000 +0000" stop="20251126081500 +0000" channel="TestChannel 996.starhub">
+    <programme start="20251126065500 +0000" stop="20251126081000 +0000" channel="TestChannel 996.starhub">
         <title>The Escape of the Seven</title>
     </programme>
-    <programme start="20251126081500 +0000" stop="20251126090000 +0000" channel="TestChannel 996.starhub">
+    <programme start="20251126081000 +0000" stop="20251126090000 +0000" channel="TestChannel 996.starhub">
         <title>The Litchi Road</title>
     </programme>
     <programme start="20251126090000 +0000" stop="20251126094500 +0000" channel="TestChannel 996.starhub">
@@ -8110,10 +8110,10 @@
     <programme start="20251126103000 +0000" stop="20251126113000 +0000" channel="SPOTV2.starhub">
         <title>PIF Saudi International</title>
     </programme>
-    <programme start="20251126113000 +0000" stop="20251126150000 +0000" channel="SPOTV2.starhub">
+    <programme start="20251126113000 +0000" stop="20251126151000 +0000" channel="SPOTV2.starhub">
         <title>Day 3 Session 2</title>
     </programme>
-    <programme start="20251126150000 +0000" stop="20251126160000 +0000" channel="SPOTV2.starhub">
+    <programme start="20251126151000 +0000" stop="20251126161000 +0000" channel="SPOTV2.starhub">
         <title>2025 WorldSBK Season Review</title>
     </programme>
     <programme start="20251125160000 +0000" stop="20251125170300 +0000" channel="Dragon TV.starhub">

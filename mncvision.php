@@ -8728,13 +8728,13 @@
 <programme start="20251126103000 +0000" stop="20251126113000 +0000" channel="SPOTV 2.mncvision">
     <title>PIF Saudi International</title>
 </programme>
-<programme start="20251126113000 +0000" stop="20251126150000 +0000" channel="SPOTV 2.mncvision">
+<programme start="20251126113000 +0000" stop="20251126151000 +0000" channel="SPOTV 2.mncvision">
     <title>WTT Star Contender Muscat &#039;25</title>
 </programme>
-<programme start="20251126150000 +0000" stop="20251126160000 +0000" channel="SPOTV 2.mncvision">
+<programme start="20251126151000 +0000" stop="20251126161000 +0000" channel="SPOTV 2.mncvision">
     <title>2025 WorldSBK Season Review</title>
 </programme>
-<programme start="20251126160000 +0000" stop="20251126163000 +0000" channel="SPOTV 2.mncvision">
+<programme start="20251126161000 +0000" stop="20251126164000 +0000" channel="SPOTV 2.mncvision">
     <title>A-League Men: NEW Vs PER</title>
 </programme>
 <programme start="20251125180000 +0000" stop="20251125221000 +0000" channel="SPOTV 2 HD.mncvision">
@@ -8767,13 +8767,13 @@
 <programme start="20251126103000 +0000" stop="20251126113000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>PIF Saudi International</title>
 </programme>
-<programme start="20251126113000 +0000" stop="20251126150000 +0000" channel="SPOTV 2 HD.mncvision">
+<programme start="20251126113000 +0000" stop="20251126151000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>WTT Star Contender Muscat &#039;25</title>
 </programme>
-<programme start="20251126150000 +0000" stop="20251126160000 +0000" channel="SPOTV 2 HD.mncvision">
+<programme start="20251126151000 +0000" stop="20251126161000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>2025 WorldSBK Season Review</title>
 </programme>
-<programme start="20251126160000 +0000" stop="20251126163000 +0000" channel="SPOTV 2 HD.mncvision">
+<programme start="20251126161000 +0000" stop="20251126164000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>A-League Men: NEW Vs PER</title>
 </programme>
 <programme start="20251125180000 +0000" stop="20251125183000 +0000" channel="SPOTV HD.mncvision">
