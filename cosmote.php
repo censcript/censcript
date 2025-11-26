@@ -58,14 +58,6 @@
     <title>European Football Minute by Minute 2025-26 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251127010000 +0700" stop="20251127013000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Sports Classics: Sporting Countdowns</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251127013000 +0700" stop="20251127020000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Sports Classics: My Sporting Moment</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251127020000 +0700" stop="20251127030000 +0700" channel="COSMOTE Sport 2 HD">
     <title>UEFA Champions League Show 2025-26 (L)</title>
     <desc>Live: Ya</desc>
@@ -330,10 +322,6 @@
     <title>WRC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251127010000 +0700" stop="20251127020000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Sports Classics: 2025 Outdoor Specials</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251127020000 +0700" stop="20251127043000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Volleyball: Allianz Powervolley Milano - Olympiacos (L)</title>
     <desc>Live: Ya</desc>
@@ -405,10 +393,6 @@
 <programme start="20251128004500 +0700" stop="20251128030000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Football: FC Porto - Nice (L)</title>
     <desc>Live: Ya</desc>
-</programme>
-<programme start="20251127010000 +0700" stop="20251127020000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
-    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251127020000 +0700" stop="20251127023000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
@@ -482,10 +466,6 @@
     <title>Football: AS Roma - FC Midtjylland (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251127010000 +0700" stop="20251127020000 +0700" channel="COSMOTE Sport 8 HD">
-    <title>COSMOTESport8HD</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251127020000 +0700" stop="20251127023000 +0700" channel="COSMOTE Sport 8 HD">
     <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
@@ -557,10 +537,6 @@
 <programme start="20251128004500 +0700" stop="20251128030000 +0700" channel="COSMOTE Sport 8 HD">
     <title>Football: Feyenoord - Celtic FC (L)</title>
     <desc>Live: Ya</desc>
-</programme>
-<programme start="20251127010000 +0700" stop="20251127020000 +0700" channel="COSMOTE Sport 9 HD">
-    <title>COSMOTESport9HD</title>
-    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251127020000 +0700" stop="20251127023000 +0700" channel="COSMOTE Sport 9 HD">
     <title>COSMOTESport9HD</title>
