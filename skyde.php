@@ -2734,7 +2734,7 @@
 <programme start="20251126193000 +0000" stop="20251126195000 +0000" channel="Sky Sport Austria 7 HD.skyde">
     <title>Es folgt: UEFA CL</title>
 </programme>
-<programme start="20251126195000 +0000" stop="20251126220000 +0000" channel="Sky Sport Austria 7 HD.skyde">
+<programme start="20251126195000 +0000" stop="20251126223000 +0000" channel="Sky Sport Austria 7 HD.skyde">
     <title>Live UEFA CL: Sporting Lissabon - Club Brügge, Ligaphase, 5. Spieltag, Mittwoch</title>
 </programme>
 <programme start="20251125233000 +0000" stop="20251126013000 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -2816,7 +2816,7 @@
     <title>2. BL: 90in30: SVD - SGF. 13. Spieltag</title>
 </programme>
 <programme start="20251126210000 +0000" stop="20251126230000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: Klassiker der Woche</title>
+    <title>BL: Klassiker der Woche: B04 - BVB (2012/13)</title>
 </programme>
 <programme start="20251126003000 +0000" stop="20251126023000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
     <title>BL: Borussia Dortmund - VfB Stuttgart, 11. Spieltag</title>
@@ -3253,16 +3253,16 @@
 <programme start="20251126003000 +0000" stop="20251126010000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime</title>
 </programme>
-<programme start="20251126010000 +0000" stop="20251126040000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20251126010000 +0000" stop="20251126034500 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Orlando Magic @ Philadelphia 76ers</title>
 </programme>
-<programme start="20251126040000 +0000" stop="20251126090000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20251126034500 +0000" stop="20251126090000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: LA Clippers @ LA Lakers</title>
 </programme>
 <programme start="20251126214000 +0000" stop="20251126220000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: LIVE Basketball NBA</title>
 </programme>
-<programme start="20251126220000 +0000" stop="20251127003000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20251126220000 +0000" stop="20251127090000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Detroit Pistons @ Boston Celtics</title>
 </programme>
 <programme start="20251125230000 +0000" stop="20251125234500 +0000" channel="SYFY HD.skyde">
