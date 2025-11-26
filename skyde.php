@@ -2692,7 +2692,7 @@
 <programme start="20251126190000 +0000" stop="20251126195000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live Die UEFA CL am Mittwoch: Vorbericht</title>
 </programme>
-<programme start="20251126195000 +0000" stop="20251126221500 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20251126195000 +0000" stop="20251126224500 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live UEFA CL: Paris Saint-Germain - Tottenham Hotspur, Ligaphase, 5. Spieltag, Mittwoch</title>
 </programme>
 <programme start="20251126164000 +0000" stop="20251126170000 +0000" channel="Sky Sport Austria 3 HD.skyde">
@@ -2704,7 +2704,7 @@
 <programme start="20251126173500 +0000" stop="20251126195000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live UEFA CL: FC Pafos - AS Monaco, Ligaphase, 5. Spieltag, Mittwoch</title>
 </programme>
-<programme start="20251126195000 +0000" stop="20251126220000 +0000" channel="Sky Sport Austria 3 HD.skyde">
+<programme start="20251126195000 +0000" stop="20251126223000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live UEFA CL: Atletico Madrid - Inter Mailand, Ligaphase, 5. Spieltag, Mittwoch</title>
 </programme>
 <programme start="20251126164000 +0000" stop="20251126170000 +0000" channel="Sky Sport Austria 4 HD.skyde">
@@ -2716,19 +2716,19 @@
 <programme start="20251126173500 +0000" stop="20251126195000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live UEFA CL: FC Kopenhagen - Kairat Almaty, Ligaphase, 5. Spieltag, Mittwoch</title>
 </programme>
-<programme start="20251126195000 +0000" stop="20251126220000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+<programme start="20251126195000 +0000" stop="20251126223000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live UEFA CL: FC Liverpool - PSV Eindhoven, Ligaphase, 5. Spieltag, Mittwoch</title>
 </programme>
 <programme start="20251126193000 +0000" stop="20251126195000 +0000" channel="Sky Sport Austria 5 HD.skyde">
     <title>Es folgt: UEFA CL</title>
 </programme>
-<programme start="20251126195000 +0000" stop="20251126220000 +0000" channel="Sky Sport Austria 5 HD.skyde">
+<programme start="20251126195000 +0000" stop="20251126223000 +0000" channel="Sky Sport Austria 5 HD.skyde">
     <title>Live UEFA CL: Eintracht Frankfurt - Atalanta Bergamo, Ligaphase, 5. Spieltag, Mittwoch</title>
 </programme>
 <programme start="20251126193000 +0000" stop="20251126195000 +0000" channel="Sky Sport Austria 6 HD.skyde">
     <title>Es folgt: UEFA CL</title>
 </programme>
-<programme start="20251126195000 +0000" stop="20251126220000 +0000" channel="Sky Sport Austria 6 HD.skyde">
+<programme start="20251126195000 +0000" stop="20251126223000 +0000" channel="Sky Sport Austria 6 HD.skyde">
     <title>Live UEFA CL: Olympiacos Piräus - Real Madrid, Ligaphase, 5. Spieltag, Mittwoch</title>
 </programme>
 <programme start="20251126193000 +0000" stop="20251126195000 +0000" channel="Sky Sport Austria 7 HD.skyde">
@@ -2816,7 +2816,7 @@
     <title>2. BL: 90in30: SVD - SGF. 13. Spieltag</title>
 </programme>
 <programme start="20251126210000 +0000" stop="20251126230000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: Klassiker der Woche: B04 - BVB (2012/13)</title>
+    <title>BL: Klassiker der Woche</title>
 </programme>
 <programme start="20251126003000 +0000" stop="20251126023000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
     <title>BL: Borussia Dortmund - VfB Stuttgart, 11. Spieltag</title>

@@ -3179,16 +3179,16 @@
         <title>News</title>
     </programme>
     <programme start="20251125161500 +0000" stop="20251125164500 +0000" channel="DW English HD.starhub">
-        <title>The Current Affairs Documentary</title>
+        <title>Poland’s Fentanyl Crisis</title>
     </programme>
     <programme start="20251125164500 +0000" stop="20251125170000 +0000" channel="DW English HD.starhub">
-        <title>On Location</title>
+        <title>A village struggles to stay united</title>
     </programme>
     <programme start="20251125170000 +0000" stop="20251125171500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20251125171500 +0000" stop="20251125173000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>Ngozi Okonjo-Iweala, WTO Director-General</title>
     </programme>
     <programme start="20251125173000 +0000" stop="20251125180000 +0000" channel="DW English HD.starhub">
         <title>Why Brazil’s Streets Are Killing Thousands</title>
@@ -3218,13 +3218,13 @@
         <title>News</title>
     </programme>
     <programme start="20251125210200 +0000" stop="20251125211500 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>Ngozi Okonjo-Iweala, WTO Director-General</title>
     </programme>
     <programme start="20251125211500 +0000" stop="20251125214500 +0000" channel="DW English HD.starhub">
-        <title>The Current Affairs Documentary</title>
+        <title>Poland’s Fentanyl Crisis</title>
     </programme>
     <programme start="20251125214500 +0000" stop="20251125220000 +0000" channel="DW English HD.starhub">
-        <title>Living in the Digital Age</title>
+        <title>Palantir’s rise: CIA supplier turned tech powerhouse</title>
     </programme>
     <programme start="20251125220000 +0000" stop="20251125220200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3239,7 +3239,7 @@
         <title>News</title>
     </programme>
     <programme start="20251125231500 +0000" stop="20251125233000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>Ngozi Okonjo-Iweala, WTO Director-General</title>
     </programme>
     <programme start="20251125233000 +0000" stop="20251126000000 +0000" channel="DW English HD.starhub">
         <title>India&#039;s women step up: Courage against violence and misogyny</title>
@@ -5162,7 +5162,7 @@
         <title>Race</title>
     </programme>
     <programme start="20251126073000 +0000" stop="20251126093000 +0000" channel="SPOTV.starhub">
-        <title>25/26 ROSHN Saudi League MW 9 Al Nassr vs Al Khaleej</title>
+        <title>Al Nassr vs Al Khaleej</title>
     </programme>
     <programme start="20251126093000 +0000" stop="20251126104500 +0000" channel="SPOTV.starhub">
         <title>Qualification Race</title>
@@ -5174,13 +5174,13 @@
         <title>Rd1 Buenos Aires</title>
     </programme>
     <programme start="20251126130000 +0000" stop="20251126133000 +0000" channel="SPOTV.starhub">
-        <title>2025/26 ALM Mini Match Rd 5 Sydney FC vs Melbourne Victory</title>
+        <title>Sydney FC vs Melbourne Victory</title>
     </programme>
     <programme start="20251126133000 +0000" stop="20251126140000 +0000" channel="SPOTV.starhub">
         <title>Season Review</title>
     </programme>
     <programme start="20251126140000 +0000" stop="20251126160000 +0000" channel="SPOTV.starhub">
-        <title>25/26 Scottish Premiership Round 13 Aberdeen vs Heart of Midlothian</title>
+        <title>Aberdeen vs Heart of Midlothian</title>
     </programme>
     <programme start="20251125153500 +0000" stop="20251125165000 +0000" channel="KBS World HD.starhub">
         <title>The Merchant : Gaekju 2015</title>

@@ -649,9 +649,6 @@
 <programme start="20251127114500 +0000" stop="20251127121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
-<programme start="20251125230000 +0000" stop="20251126010000 +0000" channel="ANTV.vision">
-<title>Samson Betawi</title>
-</programme>
 <programme start="20251126010000 +0000" stop="20251126030000 +0000" channel="ANTV.vision">
 <title>Mangal Lakshmi</title>
 </programme>
@@ -1496,5 +1493,8 @@
 <title>TVRI</title>
 </programme>
 <programme start="20251126053500 +0000" stop="20251126070000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251126070000 +0000" stop="20251126083500 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
