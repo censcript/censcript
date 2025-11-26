@@ -130,6 +130,10 @@
     <title>Football: AEL Novibet - OFI</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251127141000 +0700" stop="20251127161000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Cagliari - Genoa</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251126110000 +0700" stop="20251126143000 +0700" channel="COSMOTE Sport 3 HD">
     <title>American Football: San Francisco 49ers - Carolina Panthers</title>
     <desc>Live: Tidak</desc>
@@ -346,8 +350,12 @@
     <title>WRC 2025 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251126110000 +0700" stop="20251126131000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Athletics: World Athletics Continental Tour Gold 2025</title>
+<programme start="20251127140000 +0700" stop="20251127145500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC 2025 (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
+<programme start="20251127145500 +0700" stop="20251127152500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251126131000 +0700" stop="20251126140500 +0700" channel="COSMOTE Sport 6 HD">
@@ -432,6 +440,10 @@
 </programme>
 <programme start="20251127131000 +0700" stop="20251127140500 +0700" channel="COSMOTE Sport 6 HD">
     <title>ATP Masters 1000 2025 - Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251127140500 +0700" stop="20251127150500 +0700" channel="COSMOTE Sport 6 HD">
+    <title>ATP 500 2025 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251126130000 +0700" stop="20251126150000 +0700" channel="COSMOTE Sport 7 HD">
