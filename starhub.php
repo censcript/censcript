@@ -2825,7 +2825,7 @@
         <title>Idhayam</title>
     </programme>
     <programme start="20251125220000 +0000" stop="20251125223000 +0000" channel="Zee Tamil.starhub">
-        <title>Manasellam</title>
+        <title>Zee Flix</title>
     </programme>
     <programme start="20251125223000 +0000" stop="20251125230000 +0000" channel="Zee Tamil.starhub">
         <title>Naane Varuvean</title>
@@ -5126,10 +5126,10 @@
         <title>On The Beach At Night Alone</title>
     </programme>
     <programme start="20251125160000 +0000" stop="20251125180000 +0000" channel="SPOTV.starhub">
-        <title>25/26 A-League Men Round 5 Adelaide United vs Melbourne City FC</title>
+        <title>Adelaide United vs Melbourne City FC</title>
     </programme>
     <programme start="20251125180000 +0000" stop="20251125183000 +0000" channel="SPOTV.starhub">
-        <title>2025/26 ALM Mini Match Rd 5 Newcastle Jets FC vs Perth Glory</title>
+        <title>Newcastle Jets FC vs Perth Glory</title>
     </programme>
     <programme start="20251125183000 +0000" stop="20251125195500 +0000" channel="SPOTV.starhub">
         <title>Qualifying</title>
