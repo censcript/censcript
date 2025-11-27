@@ -2726,9 +2726,9 @@
     <title>Live Der UEFA Super Donnerstag: Vorbericht</title>
 </programme>
 <programme start="20251127173500 +0000" stop="20251127195000 +0000" channel="Sky Sport Austria 2 HD.skyde">
-    <title>Live UEFA ECL: Raków Czestochowa - SK Rapid, Ligaphase, 4. Spieltag</title>
+    <title>Live UEFA ECL: Rakow Czestochowa - SK Rapid, Ligaphase, 4. Spieltag</title>
 </programme>
-<programme start="20251127195000 +0000" stop="20251127220000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20251127195000 +0000" stop="20251127223000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live UEFA EL: FC Bologna - FC Salzburg, Ligaphase, 5. Spieltag</title>
 </programme>
 <programme start="20251127171500 +0000" stop="20251127173500 +0000" channel="Sky Sport Austria 3 HD.skyde">
@@ -2737,7 +2737,7 @@
 <programme start="20251127173500 +0000" stop="20251127195000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live UEFA EL: Feyenoord Rotterdam - Celtic Glasgow, Ligaphase, 5. Spieltag</title>
 </programme>
-<programme start="20251127195000 +0000" stop="20251127220000 +0000" channel="Sky Sport Austria 3 HD.skyde">
+<programme start="20251127195000 +0000" stop="20251127223000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live UEFA EL: Go Ahead Eagles - VfB Stuttgart, Ligaphase, 5. Spieltag</title>
 </programme>
 <programme start="20251127171500 +0000" stop="20251127173500 +0000" channel="Sky Sport Austria 4 HD.skyde">
@@ -2746,7 +2746,7 @@
 <programme start="20251127173500 +0000" stop="20251127195000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live UEFA EL: FC Porto - OGC Nizza, Ligaphase, 5. Spieltag</title>
 </programme>
-<programme start="20251127195000 +0000" stop="20251127220000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+<programme start="20251127195000 +0000" stop="20251127223000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live UEFA EL: Roter Stern Belgrad - FCSB, Ligaphase, 5. Spieltag</title>
 </programme>
 <programme start="20251127171500 +0000" stop="20251127173500 +0000" channel="Sky Sport Austria 5 HD.skyde">
@@ -2755,7 +2755,7 @@
 <programme start="20251127173500 +0000" stop="20251127195000 +0000" channel="Sky Sport Austria 5 HD.skyde">
     <title>Live UEFA EL: Viktoria Pilsen - SC Freiburg, Ligaphase, 5. Spieltag</title>
 </programme>
-<programme start="20251127195000 +0000" stop="20251127220000 +0000" channel="Sky Sport Austria 5 HD.skyde">
+<programme start="20251127195000 +0000" stop="20251127223000 +0000" channel="Sky Sport Austria 5 HD.skyde">
     <title>Live UEFA EL: Rangers FC - SC Braga, Ligaphase, 5. Spieltag</title>
 </programme>
 <programme start="20251127171500 +0000" stop="20251127173500 +0000" channel="Sky Sport Austria 6 HD.skyde">
@@ -2764,7 +2764,7 @@
 <programme start="20251127173500 +0000" stop="20251127195000 +0000" channel="Sky Sport Austria 6 HD.skyde">
     <title>Live UEFA EL: AS Rom - FC Midtjylland, Ligaphase, 5. Spieltag</title>
 </programme>
-<programme start="20251127195000 +0000" stop="20251127223000 +0000" channel="Sky Sport Austria 6 HD.skyde">
+<programme start="20251127195000 +0000" stop="20251127220000 +0000" channel="Sky Sport Austria 6 HD.skyde">
     <title>Live UEFA EL: KRC Genk - FC Basel, Ligaphase, 5. Spieltag</title>
 </programme>
 <programme start="20251127171500 +0000" stop="20251127173500 +0000" channel="Sky Sport Austria 7 HD.skyde">
@@ -2773,19 +2773,19 @@
 <programme start="20251127173500 +0000" stop="20251127195000 +0000" channel="Sky Sport Austria 7 HD.skyde">
     <title>Live UEFA EL: Aston Villa - Young Boys Bern, Ligaphase, 5. Spieltag</title>
 </programme>
-<programme start="20251127195000 +0000" stop="20251127220000 +0000" channel="Sky Sport Austria 7 HD.skyde">
+<programme start="20251127195000 +0000" stop="20251127223000 +0000" channel="Sky Sport Austria 7 HD.skyde">
     <title>Live UEFA EL: Nottingham Forest - Malmö FF, Ligaphase, 5. Spieltag</title>
 </programme>
 <programme start="20251127152500 +0000" stop="20251127154500 +0000" channel="Sky Sport Austria 8 HD.skyde">
-    <title>Es folgt: LIVE FIFA U-17 WM</title>
+    <title>Es folgt: FIFA U-17 WM</title>
 </programme>
-<programme start="20251127154500 +0000" stop="20251127190000 +0000" channel="Sky Sport Austria 8 HD.skyde">
+<programme start="20251127154500 +0000" stop="20251127183000 +0000" channel="Sky Sport Austria 8 HD.skyde">
     <title>Live Junioren: Portugal - Österreich, FIFA U-17 WM 2025, Finale</title>
 </programme>
 <programme start="20251127193000 +0000" stop="20251127195000 +0000" channel="Sky Sport Austria 8 HD.skyde">
-    <title>Es folgt: LIVE UEFA ECL</title>
+    <title>Es folgt: UEFA ECL</title>
 </programme>
-<programme start="20251127195000 +0000" stop="20251127223000 +0000" channel="Sky Sport Austria 8 HD.skyde">
+<programme start="20251127195000 +0000" stop="20251127220000 +0000" channel="Sky Sport Austria 8 HD.skyde">
     <title>Live UEFA ECL: RC Strasbourg - Crystal Palace, Ligaphase, 4. Spieltag</title>
 </programme>
 <programme start="20251126230000 +0000" stop="20251126233000 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -3223,10 +3223,10 @@
 <programme start="20251127220000 +0000" stop="20251127230000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: Review Indian Wells</title>
 </programme>
-<programme start="20251127003000 +0000" stop="20251127030000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20251127005000 +0000" stop="20251127025500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NHL: Nashville Predators @ Detroit Red Wings</title>
 </programme>
-<programme start="20251127030000 +0000" stop="20251127060000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20251127025500 +0000" stop="20251127060000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live Golf: BMW Australian PGA Championship, 1. Tag in Brisbane (Australien)</title>
 </programme>
 <programme start="20251127060000 +0000" stop="20251127080000 +0000" channel="Sky Sport Top Event HD.skyde">
