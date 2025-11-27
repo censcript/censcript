@@ -1,7 +1,3 @@
-<programme start="20251127154500 +0700" stop="20251127174500 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: Club Atletico de Madrid - FC Internazionale Milano</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251127174500 +0700" stop="20251127194500 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Paris Saint Germain - Tottenham Hotspur</title>
     <desc>Live: Tidak</desc>
@@ -116,6 +112,10 @@
 </programme>
 <programme start="20251128160000 +0700" stop="20251128180000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: FK Crvena Zvezda - Fotbal Club FCSB</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251128180000 +0700" stop="20251128200000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: SK Slovan Bratislava - Rayo Vallecano</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251127170000 +0700" stop="20251127194000 +0700" channel="COSMOTE Sport 3 HD">
@@ -234,10 +234,6 @@
     <title>Basketball: Aquila Basket Trento - Treviso</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251127161000 +0700" stop="20251127171000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>MotoGP 2025 - Highlights</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251127171000 +0700" stop="20251127183000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Grand Prix Show 2025</title>
     <desc>Live: Tidak</desc>
@@ -328,6 +324,10 @@
 </programme>
 <programme start="20251128175000 +0700" stop="20251128184500 +0700" channel="COSMOTE Sport 5 HD">
     <title>WRC 2025 (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
+<programme start="20251128184500 +0700" stop="20251128200000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20251127165000 +0700" stop="20251127183000 +0700" channel="COSMOTE Sport 6 HD">

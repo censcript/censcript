@@ -5519,7 +5519,7 @@
     <title>Beyond Blessed Repalced</title>
 </programme>
 <programme start="20251127160000 +0000" stop="20251127163000 +0000" channel="LIFE.mncvision">
-    <title>Solusi</title>
+    <title>Smoketown</title>
 </programme>
 <programme start="20251127163000 +0000" stop="20251126170000 +0000" channel="LIFE.mncvision">
     <title>Glow Series</title>
@@ -7751,7 +7751,7 @@
     <title>Hard Truths Of... S2, Ep 4</title>
 </programme>
 <programme start="20251126171500 +0000" stop="20251126181500 +0000" channel="RCTI.mncvision">
-    <title>Si Doel Anak Sekolahan S2</title>
+    <title>Si Doel Anak Sekolahan S3</title>
 </programme>
 <programme start="20251126181500 +0000" stop="20251126190000 +0000" channel="RCTI.mncvision">
     <title>Gadis Kesayangan Papa</title>
@@ -7801,14 +7801,14 @@
 <programme start="20251127131500 +0000" stop="20251127144500 +0000" channel="RCTI.mncvision">
     <title>Cinta Sepenuh Jiwa</title>
 </programme>
-<programme start="20251127144500 +0000" stop="20251127160000 +0000" channel="RCTI.mncvision">
+<programme start="20251127144500 +0000" stop="20251127154500 +0000" channel="RCTI.mncvision">
     <title>Kau Ditakdirkan Untukku</title>
 </programme>
-<programme start="20251127160000 +0000" stop="20251127163000 +0000" channel="RCTI.mncvision">
-    <title>Si Doel Anak Sekolahan S3</title>
+<programme start="20251127154500 +0000" stop="20251127161500 +0000" channel="RCTI.mncvision">
+    <title>Oplet Kesayangan Babe...</title>
 </programme>
 <programme start="20251126171500 +0000" stop="20251126181500 +0000" channel="RCTI HD.mncvision">
-    <title>Si Doel Anak Sekolahan S2</title>
+    <title>Si Doel Anak Sekolahan S3</title>
 </programme>
 <programme start="20251126181500 +0000" stop="20251126190000 +0000" channel="RCTI HD.mncvision">
     <title>Gadis Kesayangan Papa</title>
@@ -7858,11 +7858,11 @@
 <programme start="20251127131500 +0000" stop="20251127144500 +0000" channel="RCTI HD.mncvision">
     <title>Cinta Sepenuh Jiwa</title>
 </programme>
-<programme start="20251127144500 +0000" stop="20251127160000 +0000" channel="RCTI HD.mncvision">
+<programme start="20251127144500 +0000" stop="20251127154500 +0000" channel="RCTI HD.mncvision">
     <title>Kau Ditakdirkan Untukku</title>
 </programme>
-<programme start="20251127160000 +0000" stop="20251127163000 +0000" channel="RCTI HD.mncvision">
-    <title>Si Doel Anak Sekolahan S3</title>
+<programme start="20251127154500 +0000" stop="20251127161500 +0000" channel="RCTI HD.mncvision">
+    <title>Oplet Kesayangan Babe...</title>
 </programme>
 <programme start="20251126180000 +0000" stop="20251126193000 +0000" channel="Rock Action.mncvision">
     <title>Starship Troopers: Invasion</title>
