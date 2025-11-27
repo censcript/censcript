@@ -54,8 +54,8 @@
     <title>Football: AS Roma - FC Midtjylland</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251127161000 +0700" stop="20251127181500 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Olympiacos - Real Madrid CF</title>
+<programme start="20251128193000 +0700" stop="20251128213000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: FC Porto - Nice</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251127181500 +0700" stop="20251127202500 +0700" channel="COSMOTE Sport 2 HD">
@@ -178,6 +178,10 @@
     <title>Football: Aston Villa - BSC Young Boys</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251128190000 +0700" stop="20251128210000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Viktoria Plzen - SC Freiburg</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251127170000 +0700" stop="20251127193000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Boston Celtics - Detroit Pistons</title>
     <desc>Live: Tidak</desc>
@@ -234,8 +238,8 @@
     <title>Basketball: Aquila Basket Trento - Treviso</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251127171000 +0700" stop="20251127183000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Grand Prix Show 2025</title>
+<programme start="20251128190000 +0700" stop="20251128210500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Tofas - Anadolu Efes</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251127183000 +0700" stop="20251127192000 +0700" channel="COSMOTE Sport 5 HD">
@@ -330,10 +334,6 @@
     <title>WRC (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251127165000 +0700" stop="20251127183000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Premier Padel Tour 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251127183000 +0700" stop="20251127210000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Volleyball: Allianz Powervolley Milano - Olympiacos</title>
     <desc>Live: Tidak</desc>
@@ -406,8 +406,8 @@
     <title>Premier Padel Tour 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251127170000 +0700" stop="20251127190000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
+<programme start="20251128194000 +0700" stop="20251128203500 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Nitto ATP Finals 2025 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251127190000 +0700" stop="20251127210000 +0700" channel="COSMOTE Sport 7 HD">
@@ -474,8 +474,8 @@
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251127170000 +0700" stop="20251127190000 +0700" channel="COSMOTE Sport 8 HD">
-    <title>COSMOTESport8HD</title>
+<programme start="20251128190000 +0700" stop="20251128210000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251127190000 +0700" stop="20251127210000 +0700" channel="COSMOTE Sport 8 HD">
@@ -542,8 +542,8 @@
     <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251127170000 +0700" stop="20251127190000 +0700" channel="COSMOTE Sport 9 HD">
-    <title>COSMOTESport9HD</title>
+<programme start="20251128190000 +0700" stop="20251128210000 +0700" channel="COSMOTE Sport 8 HD">
+    <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251127190000 +0700" stop="20251127210000 +0700" channel="COSMOTE Sport 9 HD">
@@ -603,6 +603,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251128170000 +0700" stop="20251128190000 +0700" channel="COSMOTE Sport 9 HD">
+    <title>COSMOTESport9HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251128190000 +0700" stop="20251128210000 +0700" channel="COSMOTE Sport 9 HD">
     <title>COSMOTESport9HD</title>
     <desc>Live: Tidak</desc>
 </programme>
