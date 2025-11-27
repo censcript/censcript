@@ -652,12 +652,6 @@
 <programme start="20251127093000 +0000" stop="20251127110000 +0000" channel="ANTV.vision">
 <title>Takdir Cinta Layla</title>
 </programme>
-<programme start="20251127163000 +0000" stop="20251127183000 +0000" channel="ANTV.vision">
-<title>The Iron Fisted Monk</title>
-</programme>
-<programme start="20251127183000 +0000" stop="20251127200000 +0000" channel="ANTV.vision">
-<title>A Certain Justice</title>
-</programme>
 <programme start="20251127200000 +0000" stop="20251127223000 +0000" channel="ANTV.vision">
 <title>Swades</title>
 </programme>
@@ -1496,5 +1490,11 @@
 <title>TVRI</title>
 </programme>
 <programme start="20251127155500 +0000" stop="20251127175500 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251127175500 +0000" stop="20251127194500 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251127194500 +0000" stop="20251127212000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
