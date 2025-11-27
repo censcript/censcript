@@ -110,6 +110,14 @@
     <title>Football: Rangers FC - SC Braga</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251129020000 +0700" stop="20251129024500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Serie A Inside Serie A 2025-26 E13</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251129024500 +0700" stop="20251129044500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Como - Sassuolo (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
 <programme start="20251128004500 +0700" stop="20251128030000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: PAOK - SK Brann (L)</title>
     <desc>Live: Ya</desc>
@@ -230,8 +238,8 @@
     <title>NBA Action 2025-26 E3506 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251128004000 +0700" stop="20251128014500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC 2025</title>
+<programme start="20251129023000 +0700" stop="20251129050000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Golden State Warriors - Houston Rockets</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251128014500 +0700" stop="20251128030000 +0700" channel="COSMOTE Sport 5 HD">
@@ -334,6 +342,14 @@
     <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251129022000 +0700" stop="20251129025000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Extreme E - Highlights 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251129025000 +0700" stop="20251129041000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Grand Prix Show 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251128004500 +0700" stop="20251128030000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Football: FC Porto - Nice (L)</title>
     <desc>Live: Ya</desc>
@@ -398,6 +414,10 @@
     <title>Authentic Athens Marathon 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251129020000 +0700" stop="20251129034500 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Handball: ThSV Eisenach - THW Kiel (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
 <programme start="20251128004500 +0700" stop="20251128030000 +0700" channel="COSMOTE Sport 7 HD">
     <title>Football: AS Roma - FC Midtjylland (L)</title>
     <desc>Live: Ya</desc>
@@ -455,6 +475,14 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251129010000 +0700" stop="20251129020000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251129020000 +0700" stop="20251129023000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251129023000 +0700" stop="20251129030000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
@@ -521,6 +549,10 @@
 <programme start="20251129003000 +0700" stop="20251129023000 +0700" channel="COSMOTE Sport 8 HD">
     <title>Football: Al Ahli - Al-Qadsiah (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20251129023000 +0700" stop="20251129030000 +0700" channel="COSMOTE Sport 8 HD">
+    <title>COSMOTESport8HD</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251128004500 +0700" stop="20251128030000 +0700" channel="COSMOTE Sport 9 HD">
     <title>Football: Omonoia FC - FC Dynamo Kyiv (L)</title>
