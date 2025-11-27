@@ -710,13 +710,13 @@
 <title>Ratu Sakti Calon Arang</title>
 </programme>
 <programme start="20251127143000 +0000" stop="20251127163000 +0000" channel="ANTV.vision">
-<title>Mana Bisa Tahan</title>
+<title>Saur Sepuh 4</title>
 </programme>
 <programme start="20251127163000 +0000" stop="20251127183000 +0000" channel="ANTV.vision">
 <title>The Iron Fisted Monk</title>
 </programme>
 <programme start="20251127183000 +0000" stop="20251127200000 +0000" channel="ANTV.vision">
-<title>A Certain Justice</title>
+<title>The Devils Tomb</title>
 </programme>
 <programme start="20251127200000 +0000" stop="20251127223000 +0000" channel="ANTV.vision">
 <title>Swades</title>
@@ -1417,10 +1417,7 @@
 <programme start="20251127050000 +0000" stop="20251127060000 +0000" channel="BTV.vision">
 <title>Investor Market Today</title>
 </programme>
-<programme start="20251127060000 +0000" stop="20251127063000 +0000" channel="BTV.vision">
-<title>30 Minutes With</title>
-</programme>
-<programme start="20251127063000 +0000" stop="20251127073000 +0000" channel="BTV.vision">
+<programme start="20251127060000 +0000" stop="20251127073000 +0000" channel="BTV.vision">
 <title>Spot On</title>
 </programme>
 <programme start="20251127073000 +0000" stop="20251127080000 +0000" channel="BTV.vision">
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20251128031500 +0000" stop="20251128040000 +0000" channel="BTV.vision">
 <title>Ketulusan Hati</title>
+</programme>
+<programme start="20251128040000 +0000" stop="20251128050000 +0000" channel="BTV.vision">
+<title>Berita Satu Siang</title>
 </programme>
