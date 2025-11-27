@@ -5815,17 +5815,17 @@
 <programme start="20251127123000 +0000" stop="20251127132500 +0000" channel="MDTV.mncvision">
     <title>Ipar Adalah Maut: The Series</title>
 </programme>
-<programme start="20251127132500 +0000" stop="20251127142500 +0000" channel="MDTV.mncvision">
+<programme start="20251127132500 +0000" stop="20251127141500 +0000" channel="MDTV.mncvision">
     <title>Layangan Putus</title>
 </programme>
-<programme start="20251127142500 +0000" stop="20251127151500 +0000" channel="MDTV.mncvision">
+<programme start="20251127141500 +0000" stop="20251127150500 +0000" channel="MDTV.mncvision">
     <title>Janji Cinta (Sindoor Ki Keemat)</title>
 </programme>
-<programme start="20251127151500 +0000" stop="20251127163000 +0000" channel="MDTV.mncvision">
-    <title>Perfume</title>
-</programme>
-<programme start="20251127163000 +0000" stop="20251126170000 +0000" channel="MDTV.mncvision">
+<programme start="20251127150500 +0000" stop="20251127161500 +0000" channel="MDTV.mncvision">
     <title>Now, We Are Breaking Up</title>
+</programme>
+<programme start="20251127161500 +0000" stop="20251127164500 +0000" channel="MDTV.mncvision">
+    <title>Perfume</title>
 </programme>
 <programme start="20251126170000 +0000" stop="20251126170500 +0000" channel="Metro TV.mncvision">
     <title>Metro TV</title>
