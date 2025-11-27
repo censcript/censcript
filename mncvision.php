@@ -197,7 +197,7 @@
     <title>News (L)</title>
 </programme>
 <programme start="20251127113000 +0000" stop="20251127120000 +0000" channel="Al Jazeera English.mncvision">
-    <title>Inside Story</title>
+    <title>Talk To Al Jazeera: E. Valtonen</title>
 </programme>
 <programme start="20251127120000 +0000" stop="20251127130000 +0000" channel="Al Jazeera English.mncvision">
     <title>Head To Head: Getachew Reda</title>
@@ -1549,7 +1549,10 @@
 <programme start="20251127090000 +0000" stop="20251127100000 +0000" channel="Bloomberg.mncvision">
     <title>The Pulse With Francine Lacqua</title>
 </programme>
-<programme start="20251127100000 +0000" stop="20251127103000 +0000" channel="Bloomberg.mncvision">
+<programme start="20251127100000 +0000" stop="20251127140000 +0000" channel="Bloomberg.mncvision">
+    <title>Bloomberg Markets</title>
+</programme>
+<programme start="20251127140000 +0000" stop="20251127143000 +0000" channel="Bloomberg.mncvision">
     <title>Bloomberg Markets</title>
 </programme>
 <programme start="20251126173000 +0000" stop="20251126182700 +0000" channel="BTV.mncvision">
@@ -1873,9 +1876,177 @@
 <programme start="20251127002500 +0000" stop="20251127005500 +0000" channel="CBeebies.mncvision">
     <title>Steve &amp; Aneeshwar Go..., Ep 4</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20251126182500 +0000" stop="20251126201000 +0000" channel="CCM.mncvision">
+    <title>Life Gamble</title>
+</programme>
+<programme start="20251126201000 +0000" stop="20251126221000 +0000" channel="CCM.mncvision">
+    <title>The Venus&#039; Tear Diamond</title>
+</programme>
+<programme start="20251126221000 +0000" stop="20251126234500 +0000" channel="CCM.mncvision">
+    <title>Super Inframan</title>
+</programme>
+<programme start="20251126234500 +0000" stop="20251127012500 +0000" channel="CCM.mncvision">
+    <title>Forever Diamonds</title>
+</programme>
+<programme start="20251127012500 +0000" stop="20251127031500 +0000" channel="CCM.mncvision">
+    <title>The Kung-Fu Instructor</title>
+</programme>
+<programme start="20251127031500 +0000" stop="20251127045500 +0000" channel="CCM.mncvision">
+    <title>The Perfumed Arrow</title>
+</programme>
+<programme start="20251127045500 +0000" stop="20251127063000 +0000" channel="CCM.mncvision">
+    <title>The Bloody Escape</title>
+</programme>
+<programme start="20251127063000 +0000" stop="20251127075500 +0000" channel="CCM.mncvision">
+    <title>River Of Tears</title>
+</programme>
+<programme start="20251127075500 +0000" stop="20251127092500 +0000" channel="CCM.mncvision">
+    <title>The Villains</title>
+</programme>
+<programme start="20251127092500 +0000" stop="20251127111500 +0000" channel="CCM.mncvision">
+    <title>The Dream Of Red Chamber</title>
+</programme>
+<programme start="20251127111500 +0000" stop="20251127130000 +0000" channel="CCM.mncvision">
+    <title>The Lady Hermit</title>
+</programme>
+<programme start="20251127130000 +0000" stop="20251127145000 +0000" channel="CCM.mncvision">
+    <title>Crocodile River</title>
+</programme>
+<programme start="20251127145000 +0000" stop="20251127162500 +0000" channel="CCM.mncvision">
+    <title>The Bells Of Death</title>
+</programme>
+<programme start="20251127162500 +0000" stop="20251127165500 +0000" channel="CCM.mncvision">
+    <title>Whose Baby Is In Classroom?</title>
+</programme>
+<programme start="20251126170000 +0000" stop="20251126180000 +0000" channel="Celebrities TV.mncvision">
+    <title>Hotman Paris Show</title>
+</programme>
+<programme start="20251126180000 +0000" stop="20251126190000 +0000" channel="Celebrities TV.mncvision">
+    <title>Tamu Dadakan</title>
+</programme>
+<programme start="20251126190000 +0000" stop="20251126200000 +0000" channel="Celebrities TV.mncvision">
+    <title>Cinta Yasmin</title>
+</programme>
+<programme start="20251126200000 +0000" stop="20251126210000 +0000" channel="Celebrities TV.mncvision">
+    <title>iSeleb</title>
+</programme>
+<programme start="20251126210000 +0000" stop="20251126213000 +0000" channel="Celebrities TV.mncvision">
+    <title>Celebrity Top 10</title>
+</programme>
+<programme start="20251126213000 +0000" stop="20251126220000 +0000" channel="Celebrities TV.mncvision">
+    <title>Seleb On News</title>
+</programme>
+<programme start="20251126220000 +0000" stop="20251126230000 +0000" channel="Celebrities TV.mncvision">
+    <title>Logika Ahmad Dhani</title>
+</programme>
+<programme start="20251126230000 +0000" stop="20251126233000 +0000" channel="Celebrities TV.mncvision">
+    <title>Super Papa</title>
+</programme>
+<programme start="20251126233000 +0000" stop="20251127000000 +0000" channel="Celebrities TV.mncvision">
+    <title>Celebrity Top 10</title>
+</programme>
+<programme start="20251127000000 +0000" stop="20251127010000 +0000" channel="Celebrities TV.mncvision">
+    <title>iSeleb</title>
+</programme>
+<programme start="20251127010000 +0000" stop="20251127020000 +0000" channel="Celebrities TV.mncvision">
+    <title>Emang Boleh?</title>
+</programme>
+<programme start="20251127020000 +0000" stop="20251127023000 +0000" channel="Celebrities TV.mncvision">
+    <title>Seleb On News</title>
+</programme>
+<programme start="20251127023000 +0000" stop="20251127030000 +0000" channel="Celebrities TV.mncvision">
+    <title>Go Spot</title>
+</programme>
+<programme start="20251127030000 +0000" stop="20251127040000 +0000" channel="Celebrities TV.mncvision">
+    <title>Obrolan Seputar Selebriti</title>
+</programme>
+<programme start="20251127040000 +0000" stop="20251127050000 +0000" channel="Celebrities TV.mncvision">
+    <title>Tamu Dadakan</title>
+</programme>
+<programme start="20251127050000 +0000" stop="20251127060000 +0000" channel="Celebrities TV.mncvision">
+    <title>Cinta Yasmin</title>
+</programme>
+<programme start="20251127060000 +0000" stop="20251127070000 +0000" channel="Celebrities TV.mncvision">
+    <title>Logika Ahmad Dhani</title>
+</programme>
+<programme start="20251127070000 +0000" stop="20251127073000 +0000" channel="Celebrities TV.mncvision">
+    <title>Celebrity Top 10</title>
+</programme>
+<programme start="20251127073000 +0000" stop="20251127083000 +0000" channel="Celebrities TV.mncvision">
+    <title>Emang Boleh?</title>
+</programme>
+<programme start="20251127083000 +0000" stop="20251127093000 +0000" channel="Celebrities TV.mncvision">
+    <title>Obrolan Seputar Selebriti</title>
+</programme>
+<programme start="20251127093000 +0000" stop="20251127100000 +0000" channel="Celebrities TV.mncvision">
+    <title>Go Spot</title>
+</programme>
+<programme start="20251127100000 +0000" stop="20251127103000 +0000" channel="Celebrities TV.mncvision">
+    <title>Super Papa</title>
+</programme>
+<programme start="20251127103000 +0000" stop="20251127110000 +0000" channel="Celebrities TV.mncvision">
+    <title>Seleb On News</title>
+</programme>
+<programme start="20251127110000 +0000" stop="20251127120000 +0000" channel="Celebrities TV.mncvision">
+    <title>iSeleb</title>
+</programme>
+<programme start="20251127120000 +0000" stop="20251127123000 +0000" channel="Celebrities TV.mncvision">
+    <title>Today&#039;s Special</title>
+</programme>
+<programme start="20251127123000 +0000" stop="20251127130000 +0000" channel="Celebrities TV.mncvision">
+    <title>Go Spot</title>
+</programme>
+<programme start="20251127130000 +0000" stop="20251127140000 +0000" channel="Celebrities TV.mncvision">
+    <title>Obrolan Seputar Selebriti</title>
+</programme>
+<programme start="20251127140000 +0000" stop="20251127150000 +0000" channel="Celebrities TV.mncvision">
+    <title>Emang Boleh?</title>
+</programme>
+<programme start="20251127150000 +0000" stop="20251127160000 +0000" channel="Celebrities TV.mncvision">
+    <title>iSeleb</title>
+</programme>
+<programme start="20251127160000 +0000" stop="20251127163000 +0000" channel="Celebrities TV.mncvision">
+    <title>Today&#039;s Special</title>
+</programme>
+<programme start="20251127163000 +0000" stop="20251126170000 +0000" channel="Celebrities TV.mncvision">
+    <title>Seleb On News</title>
+</programme>
+<programme start="20251126180300 +0000" stop="20251126201900 +0000" channel="Celestial Movies.mncvision">
+    <title>A Guilty Conscience</title>
+</programme>
+<programme start="20251126201900 +0000" stop="20251126221000 +0000" channel="Celestial Movies.mncvision">
+    <title>Mad Fate</title>
+</programme>
+<programme start="20251126221000 +0000" stop="20251126235100 +0000" channel="Celestial Movies.mncvision">
+    <title>Europe Raiders</title>
+</programme>
+<programme start="20251126235100 +0000" stop="20251127014500 +0000" channel="Celestial Movies.mncvision">
+    <title>Everything Under Control</title>
+</programme>
+<programme start="20251127014500 +0000" stop="20251127033500 +0000" channel="Celestial Movies.mncvision">
+    <title>Fox Hunt</title>
+</programme>
+<programme start="20251127033500 +0000" stop="20251127055800 +0000" channel="Celestial Movies.mncvision">
+    <title>Bodyguards And Assassins</title>
+</programme>
+<programme start="20251127055800 +0000" stop="20251127080000 +0000" channel="Celestial Movies.mncvision">
+    <title>Beyond The Dream</title>
+</programme>
+<programme start="20251127080000 +0000" stop="20251127100300 +0000" channel="Celestial Movies.mncvision">
+    <title>Over My Dead Body</title>
+</programme>
+<programme start="20251127100300 +0000" stop="20251127120000 +0000" channel="Celestial Movies.mncvision">
+    <title>Man On The Edge</title>
+</programme>
+<programme start="20251127120000 +0000" stop="20251127140000 +0000" channel="Celestial Movies.mncvision">
+    <title>I Did It My Way</title>
+</programme>
+<programme start="20251127140000 +0000" stop="20251127154400 +0000" channel="Celestial Movies.mncvision">
+    <title>Acting Out Of Love</title>
+</programme>
+<programme start="20251127154400 +0000" stop="20251127161400 +0000" channel="Celestial Movies.mncvision">
+    <title>The Sunny Side Of The Street</title>
+</programme>
 <programme start="20251126170000 +0000" stop="20251126180000 +0000" channel="CGTN.mncvision">
     <title>Africa Live</title>
 </programme>
@@ -6133,9 +6304,282 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20251127163000 +0000" stop="20251126170000 +0000" channel="Music TV.mncvision">
     <title>One Hour With Local</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20251126190000 +0000" stop="20251126200000 +0000" channel="Music TV HD.mncvision">
+    <title>Godain</title>
+</programme>
+<programme start="20251126200000 +0000" stop="20251126203000 +0000" channel="Music TV HD.mncvision">
+    <title>Terbaik</title>
+</programme>
+<programme start="20251126203000 +0000" stop="20251126213000 +0000" channel="Music TV HD.mncvision">
+    <title>Juke Box</title>
+</programme>
+<programme start="20251126213000 +0000" stop="20251126223000 +0000" channel="Music TV HD.mncvision">
+    <title>K-Hits</title>
+</programme>
+<programme start="20251126223000 +0000" stop="20251127001500 +0000" channel="Music TV HD.mncvision">
+    <title>One Hour With Local</title>
+</programme>
+<programme start="20251127001500 +0000" stop="20251127023000 +0000" channel="Music TV HD.mncvision">
+    <title>DMD Panggung Rezeki</title>
+</programme>
+<programme start="20251127023000 +0000" stop="20251127031500 +0000" channel="Music TV HD.mncvision">
+    <title>The Best Concert 2017</title>
+</programme>
+<programme start="20251127031500 +0000" stop="20251127034500 +0000" channel="Music TV HD.mncvision">
+    <title>Legenda Indonesia</title>
+</programme>
+<programme start="20251127034500 +0000" stop="20251127041500 +0000" channel="Music TV HD.mncvision">
+    <title>Terbaik</title>
+</programme>
+<programme start="20251127041500 +0000" stop="20251127061500 +0000" channel="Music TV HD.mncvision">
+    <title>DMD Panggung Rezeki</title>
+</programme>
+<programme start="20251127061500 +0000" stop="20251127070000 +0000" channel="Music TV HD.mncvision">
+    <title>Godain</title>
+</programme>
+<programme start="20251127070000 +0000" stop="20251127073000 +0000" channel="Music TV HD.mncvision">
+    <title>XOXO</title>
+</programme>
+<programme start="20251127073000 +0000" stop="20251127083000 +0000" channel="Music TV HD.mncvision">
+    <title>Idolove</title>
+</programme>
+<programme start="20251127083000 +0000" stop="20251127100000 +0000" channel="Music TV HD.mncvision">
+    <title>Idolyfe</title>
+</programme>
+<programme start="20251127100000 +0000" stop="20251127110000 +0000" channel="Music TV HD.mncvision">
+    <title>Made In India</title>
+</programme>
+<programme start="20251127110000 +0000" stop="20251127120000 +0000" channel="Music TV HD.mncvision">
+    <title>K-Hits</title>
+</programme>
+<programme start="20251127120000 +0000" stop="20251127130000 +0000" channel="Music TV HD.mncvision">
+    <title>Juke Box</title>
+</programme>
+<programme start="20251127130000 +0000" stop="20251127140000 +0000" channel="Music TV HD.mncvision">
+    <title>Musik Asyik</title>
+</programme>
+<programme start="20251127140000 +0000" stop="20251127153000 +0000" channel="Music TV HD.mncvision">
+    <title>Masterpiece</title>
+</programme>
+<programme start="20251127153000 +0000" stop="20251127163000 +0000" channel="Music TV HD.mncvision">
+    <title>Sambalado</title>
+</programme>
+<programme start="20251127163000 +0000" stop="20251126170000 +0000" channel="Music TV HD.mncvision">
+    <title>One Hour With Local</title>
+</programme>
+<programme start="20251126171500 +0000" stop="20251126193000 +0000" channel="Muslim TV.mncvision">
+    <title>Live Dari Mekkah (L)</title>
+</programme>
+<programme start="20251126193000 +0000" stop="20251126200000 +0000" channel="Muslim TV.mncvision">
+    <title>World Of Moslem</title>
+</programme>
+<programme start="20251126200000 +0000" stop="20251126210000 +0000" channel="Muslim TV.mncvision">
+    <title>Abah &amp; Aa</title>
+</programme>
+<programme start="20251126210000 +0000" stop="20251126220000 +0000" channel="Muslim TV.mncvision">
+    <title>Hafizah</title>
+</programme>
+<programme start="20251126220000 +0000" stop="20251126233000 +0000" channel="Muslim TV.mncvision">
+    <title>Hafiz Indonesia 2025</title>
+</programme>
+<programme start="20251126233000 +0000" stop="20251127004500 +0000" channel="Muslim TV.mncvision">
+    <title>Siraman Qolbu, Ust. Dhanu</title>
+</programme>
+<programme start="20251127004500 +0000" stop="20251127014500 +0000" channel="Muslim TV.mncvision">
+    <title>Kun Anta</title>
+</programme>
+<programme start="20251127014500 +0000" stop="20251127041500 +0000" channel="Muslim TV.mncvision">
+    <title>Amanah Wali 7: Menukar Takdir</title>
+</programme>
+<programme start="20251127041500 +0000" stop="20251127051500 +0000" channel="Muslim TV.mncvision">
+    <title>Kami Bukan Malaikat S2</title>
+</programme>
+<programme start="20251127051500 +0000" stop="20251127053000 +0000" channel="Muslim TV.mncvision">
+    <title>Cahaya Tauhid Aa Gym</title>
+</programme>
+<programme start="20251127053000 +0000" stop="20251127063000 +0000" channel="Muslim TV.mncvision">
+    <title>Kuasa Ilahi</title>
+</programme>
+<programme start="20251127063000 +0000" stop="20251127073000 +0000" channel="Muslim TV.mncvision">
+    <title>Siraman Qolbu, Ust. Dhanu</title>
+</programme>
+<programme start="20251127073000 +0000" stop="20251127083000 +0000" channel="Muslim TV.mncvision">
+    <title>KSNS</title>
+</programme>
+<programme start="20251127083000 +0000" stop="20251127093000 +0000" channel="Muslim TV.mncvision">
+    <title>Satu</title>
+</programme>
+<programme start="20251127093000 +0000" stop="20251127100000 +0000" channel="Muslim TV.mncvision">
+    <title>Kajian Bioskop</title>
+</programme>
+<programme start="20251127100000 +0000" stop="20251127123000 +0000" channel="Muslim TV.mncvision">
+    <title>Amanah Wali 7: Menukar Takdir</title>
+</programme>
+<programme start="20251127123000 +0000" stop="20251127133000 +0000" channel="Muslim TV.mncvision">
+    <title>Hafizah</title>
+</programme>
+<programme start="20251127133000 +0000" stop="20251127140000 +0000" channel="Muslim TV.mncvision">
+    <title>World Of Moslem</title>
+</programme>
+<programme start="20251127140000 +0000" stop="20251127144500 +0000" channel="Muslim TV.mncvision">
+    <title>Siraman Qolbu</title>
+</programme>
+<programme start="20251127144500 +0000" stop="20251127154500 +0000" channel="Muslim TV.mncvision">
+    <title>Catatan Hati Seorang Istri</title>
+</programme>
+<programme start="20251127154500 +0000" stop="20251127161500 +0000" channel="Muslim TV.mncvision">
+    <title>Cahaya Hati Indonesia</title>
+</programme>
+<programme start="20251126170000 +0000" stop="20251126173000 +0000" channel="NHK World.mncvision">
+    <title>NHK Newsline</title>
+</programme>
+<programme start="20251126173000 +0000" stop="20251126174500 +0000" channel="NHK World.mncvision">
+    <title>Direct Talk</title>
+</programme>
+<programme start="20251126174500 +0000" stop="20251126180000 +0000" channel="NHK World.mncvision">
+    <title>Japan&#039;s Top Inventions</title>
+</programme>
+<programme start="20251126180000 +0000" stop="20251126182800 +0000" channel="NHK World.mncvision">
+    <title>Newsroom Tokyo</title>
+</programme>
+<programme start="20251126182800 +0000" stop="20251126184300 +0000" channel="NHK World.mncvision">
+    <title>Direct Talk</title>
+</programme>
+<programme start="20251126184300 +0000" stop="20251126185500 +0000" channel="NHK World.mncvision">
+    <title>Herbal Symphony: Winter</title>
+</programme>
+<programme start="20251126185500 +0000" stop="20251126190000 +0000" channel="NHK World.mncvision">
+    <title>Ukiyoe Edo-Life: Rush Hour</title>
+</programme>
+<programme start="20251126190000 +0000" stop="20251126193000 +0000" channel="NHK World.mncvision">
+    <title>Science View</title>
+</programme>
+<programme start="20251126193000 +0000" stop="20251126200000 +0000" channel="NHK World.mncvision">
+    <title>Frontrunners</title>
+</programme>
+<programme start="20251126200000 +0000" stop="20251126203000 +0000" channel="NHK World.mncvision">
+    <title>NHK Newsline</title>
+</programme>
+<programme start="20251126203000 +0000" stop="20251126210000 +0000" channel="NHK World.mncvision">
+    <title>Trails To Oishii Tokyo</title>
+</programme>
+<programme start="20251126210000 +0000" stop="20251126213000 +0000" channel="NHK World.mncvision">
+    <title>NHK Newsline</title>
+</programme>
+<programme start="20251126213000 +0000" stop="20251126220000 +0000" channel="NHK World.mncvision">
+    <title>Dive In Tokyo</title>
+</programme>
+<programme start="20251126220000 +0000" stop="20251126223000 +0000" channel="NHK World.mncvision">
+    <title>NHK Newsline</title>
+</programme>
+<programme start="20251126223000 +0000" stop="20251126224500 +0000" channel="NHK World.mncvision">
+    <title>Direct Talk</title>
+</programme>
+<programme start="20251126224500 +0000" stop="20251126230000 +0000" channel="NHK World.mncvision">
+    <title>Japan&#039;s Top Inventions</title>
+</programme>
+<programme start="20251126230000 +0000" stop="20251126233000 +0000" channel="NHK World.mncvision">
+    <title>NHK Newsline</title>
+</programme>
+<programme start="20251126233000 +0000" stop="20251127000000 +0000" channel="NHK World.mncvision">
+    <title>Kabuki Kool</title>
+</programme>
+<programme start="20251127000000 +0000" stop="20251127003000 +0000" channel="NHK World.mncvision">
+    <title>NHK Newsline</title>
+</programme>
+<programme start="20251127003000 +0000" stop="20251127010000 +0000" channel="NHK World.mncvision">
+    <title>Core Kyoto</title>
+</programme>
+<programme start="20251127010000 +0000" stop="20251127013000 +0000" channel="NHK World.mncvision">
+    <title>NHK Newsline</title>
+</programme>
+<programme start="20251127013000 +0000" stop="20251127020000 +0000" channel="NHK World.mncvision">
+    <title>Ethical Every Day</title>
+</programme>
+<programme start="20251127020000 +0000" stop="20251127023000 +0000" channel="NHK World.mncvision">
+    <title>NHK Newsline</title>
+</programme>
+<programme start="20251127023000 +0000" stop="20251127030000 +0000" channel="NHK World.mncvision">
+    <title>Japanology Plus</title>
+</programme>
+<programme start="20251127030000 +0000" stop="20251127033000 +0000" channel="NHK World.mncvision">
+    <title>NHK Newsline</title>
+</programme>
+<programme start="20251127033000 +0000" stop="20251127040000 +0000" channel="NHK World.mncvision">
+    <title>Trails To Oishii Tokyo</title>
+</programme>
+<programme start="20251127040000 +0000" stop="20251127043000 +0000" channel="NHK World.mncvision">
+    <title>NHK Newsline</title>
+</programme>
+<programme start="20251127043000 +0000" stop="20251127050000 +0000" channel="NHK World.mncvision">
+    <title>Outside In: Lost In Academia</title>
+</programme>
+<programme start="20251127050000 +0000" stop="20251127053000 +0000" channel="NHK World.mncvision">
+    <title>NHK Newsline</title>
+</programme>
+<programme start="20251127053000 +0000" stop="20251127060000 +0000" channel="NHK World.mncvision">
+    <title>Core Kyoto</title>
+</programme>
+<programme start="20251127060000 +0000" stop="20251127063000 +0000" channel="NHK World.mncvision">
+    <title>Newsline Asia 24</title>
+</programme>
+<programme start="20251127063000 +0000" stop="20251127070000 +0000" channel="NHK World.mncvision">
+    <title>Ethical Every Day</title>
+</programme>
+<programme start="20251127070000 +0000" stop="20251127073000 +0000" channel="NHK World.mncvision">
+    <title>Newsline Asia 24</title>
+</programme>
+<programme start="20251127073000 +0000" stop="20251127080000 +0000" channel="NHK World.mncvision">
+    <title>Japanology Plus</title>
+</programme>
+<programme start="20251127080000 +0000" stop="20251127083000 +0000" channel="NHK World.mncvision">
+    <title>NHK Newsline</title>
+</programme>
+<programme start="20251127083000 +0000" stop="20251127090000 +0000" channel="NHK World.mncvision">
+    <title>Outside In: Lost In Academia</title>
+</programme>
+<programme start="20251127090000 +0000" stop="20251127093000 +0000" channel="NHK World.mncvision">
+    <title>NHK Newsline</title>
+</programme>
+<programme start="20251127093000 +0000" stop="20251127100000 +0000" channel="NHK World.mncvision">
+    <title>Trails To Oishii Tokyo</title>
+</programme>
+<programme start="20251127100000 +0000" stop="20251127103000 +0000" channel="NHK World.mncvision">
+    <title>NHK News 7</title>
+</programme>
+<programme start="20251127103000 +0000" stop="20251127110000 +0000" channel="NHK World.mncvision">
+    <title>Core Kyoto</title>
+</programme>
+<programme start="20251127110000 +0000" stop="20251127112800 +0000" channel="NHK World.mncvision">
+    <title>Newsroom Tokyo</title>
+</programme>
+<programme start="20251127112800 +0000" stop="20251127114300 +0000" channel="NHK World.mncvision">
+    <title>Direct Talk</title>
+</programme>
+<programme start="20251127114300 +0000" stop="20251127115500 +0000" channel="NHK World.mncvision">
+    <title>Herbal Symphony</title>
+</programme>
+<programme start="20251127115500 +0000" stop="20251127120000 +0000" channel="NHK World.mncvision">
+    <title>Ukiyoe Edo-Life: The Bird Cafe</title>
+</programme>
+<programme start="20251127120000 +0000" stop="20251127123000 +0000" channel="NHK World.mncvision">
+    <title>Newsroom Tokyo</title>
+</programme>
+<programme start="20251127123000 +0000" stop="20251127130000 +0000" channel="NHK World.mncvision">
+    <title>Ethical Every Day</title>
+</programme>
+<programme start="20251127130000 +0000" stop="20251127133000 +0000" channel="NHK World.mncvision">
+    <title>NHK Newsline</title>
+</programme>
+<programme start="20251127133000 +0000" stop="20251127140000 +0000" channel="NHK World.mncvision">
+    <title>Japanology Plus</title>
+</programme>
+<programme start="20251127140000 +0000" stop="20251127143000 +0000" channel="NHK World.mncvision">
+    <title>NHK Newsline</title>
+</programme>
+<programme start="20251127143000 +0000" stop="20251127150000 +0000" channel="NHK World.mncvision">
+    <title>Japan Railway Journal</title>
+</programme>
 <programme start="20251126170500 +0000" stop="20251126171000 +0000" channel="NHK World Premium.mncvision">
     <title>Cruising From The Sky</title>
 </programme>
@@ -9322,8 +9766,117 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20251127152800 +0000" stop="20251127155800 +0000" channel="UNIQUES.mncvision">
     <title>Platinum</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20251126183800 +0000" stop="20251126203400 +0000" channel="UNIQUES HD.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20251126203400 +0000" stop="20251126221000 +0000" channel="UNIQUES HD.mncvision">
+    <title>Gangster Land</title>
+</programme>
+<programme start="20251126221000 +0000" stop="20251127000500 +0000" channel="UNIQUES HD.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20251127000500 +0000" stop="20251127014100 +0000" channel="UNIQUES HD.mncvision">
+    <title>Hope Gap</title>
+</programme>
+<programme start="20251127014100 +0000" stop="20251127031800 +0000" channel="UNIQUES HD.mncvision">
+    <title>High Heat</title>
+</programme>
+<programme start="20251127031800 +0000" stop="20251127050500 +0000" channel="UNIQUES HD.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20251127050500 +0000" stop="20251127063700 +0000" channel="UNIQUES HD.mncvision">
+    <title>Crawl To Me Darling</title>
+</programme>
+<programme start="20251127063700 +0000" stop="20251127082200 +0000" channel="UNIQUES HD.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20251127082200 +0000" stop="20251127100400 +0000" channel="UNIQUES HD.mncvision">
+    <title>The Marksman</title>
+</programme>
+<programme start="20251127100400 +0000" stop="20251127122000 +0000" channel="UNIQUES HD.mncvision">
+    <title>Kandahar</title>
+</programme>
+<programme start="20251127122000 +0000" stop="20251127135400 +0000" channel="UNIQUES HD.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20251127135400 +0000" stop="20251127152800 +0000" channel="UNIQUES HD.mncvision">
+    <title>Drone</title>
+</programme>
+<programme start="20251127152800 +0000" stop="20251127155800 +0000" channel="UNIQUES HD.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20251126170000 +0000" stop="20251126180000 +0000" channel="Vision Prime.mncvision">
+    <title>Mencintai Ipar Sendiri</title>
+</programme>
+<programme start="20251126180000 +0000" stop="20251126190000 +0000" channel="Vision Prime.mncvision">
+    <title>Cinta Sepenuh Jiwa</title>
+</programme>
+<programme start="20251126190000 +0000" stop="20251126200000 +0000" channel="Vision Prime.mncvision">
+    <title>Dusta Di Balik Cinta</title>
+</programme>
+<programme start="20251126200000 +0000" stop="20251126210000 +0000" channel="Vision Prime.mncvision">
+    <title>Kau Ditakdirkan Untukku</title>
+</programme>
+<programme start="20251126210000 +0000" stop="20251126220000 +0000" channel="Vision Prime.mncvision">
+    <title>Terbelenggu Rindu</title>
+</programme>
+<programme start="20251126220000 +0000" stop="20251126230000 +0000" channel="Vision Prime.mncvision">
+    <title>Mencintai Ipar Sendiri</title>
+</programme>
+<programme start="20251126230000 +0000" stop="20251127000000 +0000" channel="Vision Prime.mncvision">
+    <title>Cinta Sepenuh Jiwa</title>
+</programme>
+<programme start="20251127000000 +0000" stop="20251127010000 +0000" channel="Vision Prime.mncvision">
+    <title>Lucky Spinner Indonesia</title>
+</programme>
+<programme start="20251127010000 +0000" stop="20251127020000 +0000" channel="Vision Prime.mncvision">
+    <title>Supermarket Sweep</title>
+</programme>
+<programme start="20251127020000 +0000" stop="20251127030000 +0000" channel="Vision Prime.mncvision">
+    <title>Intan</title>
+</programme>
+<programme start="20251127030000 +0000" stop="20251127040000 +0000" channel="Vision Prime.mncvision">
+    <title>Ikatan Cinta</title>
+</programme>
+<programme start="20251127040000 +0000" stop="20251127050000 +0000" channel="Vision Prime.mncvision">
+    <title>Kau Ditakdirkan Untukku</title>
+</programme>
+<programme start="20251127050000 +0000" stop="20251127060000 +0000" channel="Vision Prime.mncvision">
+    <title>Ada Apa Dengan Cinta The Series</title>
+</programme>
+<programme start="20251127060000 +0000" stop="20251127070000 +0000" channel="Vision Prime.mncvision">
+    <title>Jomblo-Jomblo Bahagia</title>
+</programme>
+<programme start="20251127070000 +0000" stop="20251127080000 +0000" channel="Vision Prime.mncvision">
+    <title>Ada Dua Cinta</title>
+</programme>
+<programme start="20251127080000 +0000" stop="20251127090000 +0000" channel="Vision Prime.mncvision">
+    <title>Dusta Di Balik Cinta</title>
+</programme>
+<programme start="20251127090000 +0000" stop="20251127100000 +0000" channel="Vision Prime.mncvision">
+    <title>Intan</title>
+</programme>
+<programme start="20251127100000 +0000" stop="20251127110000 +0000" channel="Vision Prime.mncvision">
+    <title>Mencintai Ipar Sendiri</title>
+</programme>
+<programme start="20251127110000 +0000" stop="20251127120000 +0000" channel="Vision Prime.mncvision">
+    <title>Cinta Sepenuh Jiwa</title>
+</programme>
+<programme start="20251127120000 +0000" stop="20251127130000 +0000" channel="Vision Prime.mncvision">
+    <title>Kau Ditakdirkan Untukku</title>
+</programme>
+<programme start="20251127130000 +0000" stop="20251127140000 +0000" channel="Vision Prime.mncvision">
+    <title>Terbelenggu Rindu</title>
+</programme>
+<programme start="20251127140000 +0000" stop="20251127143000 +0000" channel="Vision Prime.mncvision">
+    <title>Temen Ngekost</title>
+</programme>
+<programme start="20251127143000 +0000" stop="20251127150000 +0000" channel="Vision Prime.mncvision">
+    <title>Katanya</title>
+</programme>
+<programme start="20251127150000 +0000" stop="20251127153000 +0000" channel="Vision Prime.mncvision">
+    <title>Shubh Mangal Saavdhan</title>
+</programme>
 <programme start="20251126170000 +0000" stop="20251126180000 +0000" channel="Vision Prime HD.mncvision">
     <title>Mencintai Ipar Sendiri</title>
 </programme>

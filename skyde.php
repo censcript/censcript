@@ -2764,7 +2764,7 @@
 <programme start="20251127173500 +0000" stop="20251127195000 +0000" channel="Sky Sport Austria 6 HD.skyde">
     <title>Live UEFA EL: AS Rom - FC Midtjylland, Ligaphase, 5. Spieltag</title>
 </programme>
-<programme start="20251127195000 +0000" stop="20251127220000 +0000" channel="Sky Sport Austria 6 HD.skyde">
+<programme start="20251127195000 +0000" stop="20251127223000 +0000" channel="Sky Sport Austria 6 HD.skyde">
     <title>Live UEFA EL: KRC Genk - FC Basel, Ligaphase, 5. Spieltag</title>
 </programme>
 <programme start="20251127171500 +0000" stop="20251127173500 +0000" channel="Sky Sport Austria 7 HD.skyde">
@@ -2777,15 +2777,15 @@
     <title>Live UEFA EL: Nottingham Forest - Malmö FF, Ligaphase, 5. Spieltag</title>
 </programme>
 <programme start="20251127152500 +0000" stop="20251127154500 +0000" channel="Sky Sport Austria 8 HD.skyde">
-    <title>Es folgt: FIFA U-17 WM</title>
+    <title>Es folgt: LIVE FIFA U-17 WM</title>
 </programme>
-<programme start="20251127154500 +0000" stop="20251127183000 +0000" channel="Sky Sport Austria 8 HD.skyde">
+<programme start="20251127154500 +0000" stop="20251127190000 +0000" channel="Sky Sport Austria 8 HD.skyde">
     <title>Live Junioren: Portugal - Österreich, FIFA U-17 WM 2025, Finale</title>
 </programme>
 <programme start="20251127193000 +0000" stop="20251127195000 +0000" channel="Sky Sport Austria 8 HD.skyde">
-    <title>Es folgt: UEFA ECL</title>
+    <title>Es folgt: LIVE UEFA ECL</title>
 </programme>
-<programme start="20251127195000 +0000" stop="20251127220000 +0000" channel="Sky Sport Austria 8 HD.skyde">
+<programme start="20251127195000 +0000" stop="20251127223000 +0000" channel="Sky Sport Austria 8 HD.skyde">
     <title>Live UEFA ECL: RC Strasbourg - Crystal Palace, Ligaphase, 4. Spieltag</title>
 </programme>
 <programme start="20251126230000 +0000" stop="20251126233000 +0000" channel="Sky Sport Bundesliga HD.skyde">

@@ -2105,7 +2105,7 @@
         <title>The Source with Kaitlan Collins</title>
     </programme>
     <programme start="20251127030000 +0000" stop="20251127040000 +0000" channel="CNN HD.starhub">
-        <title>CNN NewsNight</title>
+        <title>Wednesday, November 26, 2025 10PM</title>
     </programme>
     <programme start="20251127040000 +0000" stop="20251127050000 +0000" channel="CNN HD.starhub">
         <title>Laura Coates Live</title>
