@@ -7870,16 +7870,16 @@
     <programme start="20251127013000 +0000" stop="20251127043000 +0000" channel="Asianet Movies.starhub">
         <title>Pachakuthira</title>
     </programme>
-    <programme start="20251127043000 +0000" stop="20251127073000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251127043000 +0000" stop="20251127074000 +0000" channel="Asianet Movies.starhub">
         <title>Summer in Bethlehem</title>
     </programme>
-    <programme start="20251127073000 +0000" stop="20251127103000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251127074000 +0000" stop="20251127103000 +0000" channel="Asianet Movies.starhub">
         <title>Keshu Ee Veedinte Nadhan</title>
     </programme>
     <programme start="20251127103000 +0000" stop="20251127133000 +0000" channel="Asianet Movies.starhub">
         <title>Thuruppugulan</title>
     </programme>
-    <programme start="20251127133000 +0000" stop="20251127173000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251127133000 +0000" stop="20251127174000 +0000" channel="Asianet Movies.starhub">
         <title>Pushpa 2: The Rule</title>
     </programme>
     <programme start="20251126160000 +0000" stop="20251126163000 +0000" channel="Astro Warna HD.starhub">

@@ -685,9 +685,6 @@
 <programme start="20251128114500 +0000" stop="20251128121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
-<programme start="20251126230000 +0000" stop="20251127010000 +0000" channel="ANTV.vision">
-<title>Tarsan Kota</title>
-</programme>
 <programme start="20251127010000 +0000" stop="20251127030000 +0000" channel="ANTV.vision">
 <title>Mangal Lakshmi</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20251128040000 +0000" stop="20251128050000 +0000" channel="BTV.vision">
 <title>Berita Satu Siang</title>
+</programme>
+<programme start="20251128050000 +0000" stop="20251128060000 +0000" channel="BTV.vision">
+<title>Investor Market Today</title>
 </programme>
