@@ -8720,7 +8720,7 @@
         <title>Hands Up</title>
     </programme>
     <programme start="20251127020000 +0000" stop="20251127023000 +0000" channel="TVB Jade HD.starhub">
-        <title>Take Liza to the World &amp; What&#039;s On Today</title>
+        <title>Prestige In Central &amp; What&#039;s On Today</title>
     </programme>
     <programme start="20251127023000 +0000" stop="20251127030000 +0000" channel="TVB Jade HD.starhub">
         <title>Not Far From Here</title>
@@ -8747,7 +8747,7 @@
         <title>Under The Moonlight &amp; What&#039;s On Today</title>
     </programme>
     <programme start="20251127073000 +0000" stop="20251127080000 +0000" channel="TVB Jade HD.starhub">
-        <title>Take Liza to the World</title>
+        <title>Prestige In Central</title>
     </programme>
     <programme start="20251127080000 +0000" stop="20251127083000 +0000" channel="TVB Jade HD.starhub">
         <title>I Will Be Back</title>
@@ -8767,11 +8767,8 @@
     <programme start="20251127110000 +0000" stop="20251127113500 +0000" channel="TVB Jade HD.starhub">
         <title>Shock Mystery (Sr.2) &amp; What&#039;s On Today</title>
     </programme>
-    <programme start="20251127113500 +0000" stop="20251127120000 +0000" channel="TVB Jade HD.starhub">
+    <programme start="20251127113500 +0000" stop="20251127123000 +0000" channel="TVB Jade HD.starhub">
         <title>Scoop 2025</title>
-    </programme>
-    <programme start="20251127120000 +0000" stop="20251127123000 +0000" channel="TVB Jade HD.starhub">
-        <title>Lo And Behold</title>
     </programme>
     <programme start="20251127123000 +0000" stop="20251127133000 +0000" channel="TVB Jade HD.starhub">
         <title>The QUEEN Of News 2</title>
@@ -8779,17 +8776,14 @@
     <programme start="20251127133000 +0000" stop="20251127143000 +0000" channel="TVB Jade HD.starhub">
         <title>Under The Moonlight</title>
     </programme>
-    <programme start="20251127143000 +0000" stop="20251127150000 +0000" channel="TVB Jade HD.starhub">
-        <title>Take Liza to the World</title>
-    </programme>
-    <programme start="20251127150000 +0000" stop="20251127151500 +0000" channel="TVB Jade HD.starhub">
-        <title>EXTRA</title>
-    </programme>
-    <programme start="20251127151500 +0000" stop="20251127155000 +0000" channel="TVB Jade HD.starhub">
+    <programme start="20251127143000 +0000" stop="20251127150500 +0000" channel="TVB Jade HD.starhub">
         <title>News Roundup</title>
     </programme>
-    <programme start="20251127155000 +0000" stop="20251127160000 +0000" channel="TVB Jade HD.starhub">
+    <programme start="20251127150500 +0000" stop="20251127151500 +0000" channel="TVB Jade HD.starhub">
         <title>Global View</title>
+    </programme>
+    <programme start="20251127151500 +0000" stop="20251127160000 +0000" channel="TVB Jade HD.starhub">
+        <title>Star Trail - Jackson Wang Special</title>
     </programme>
     <programme start="20251126160000 +0000" stop="20251126162000 +0000" channel="Nick Jr.starhub">
         <title>Pups Save a Robosaurus / Pups Save a Film Festival</title>
