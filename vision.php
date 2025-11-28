@@ -619,9 +619,6 @@
 <programme start="20251128010000 +0000" stop="20251128030000 +0000" channel="ANTV.vision">
 <title>Zeynep</title>
 </programme>
-<programme start="20251128030000 +0000" stop="20251128063000 +0000" channel="ANTV.vision">
-<title>Krrish</title>
-</programme>
 <programme start="20251128063000 +0000" stop="20251128080000 +0000" channel="ANTV.vision">
 <title>Cinta Keluarga Pandya</title>
 </programme>
@@ -1496,5 +1493,8 @@
 <title>TVRI</title>
 </programme>
 <programme start="20251128175000 +0000" stop="20251128194500 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251128194500 +0000" stop="20251128212500 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
