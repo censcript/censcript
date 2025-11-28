@@ -6977,7 +6977,7 @@
         <title>NHK Newsline</title>
     </programme>
     <programme start="20251128023000 +0000" stop="20251128030000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>Special Programme</title>
+        <title>Catch Japan</title>
     </programme>
     <programme start="20251128030000 +0000" stop="20251128033000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>NHK Newsline</title>
@@ -7007,7 +7007,7 @@
         <title>Newsline Asia 24</title>
     </programme>
     <programme start="20251128073000 +0000" stop="20251128080000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>Special Programme</title>
+        <title>Catch Japan</title>
     </programme>
     <programme start="20251128080000 +0000" stop="20251128083000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>NHK Newsline</title>
@@ -7049,7 +7049,7 @@
         <title>NHK Newsline</title>
     </programme>
     <programme start="20251128133000 +0000" stop="20251128140000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>Special Programme</title>
+        <title>Catch Japan</title>
     </programme>
     <programme start="20251128140000 +0000" stop="20251128143000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>NHK Newsline</title>
