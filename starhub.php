@@ -5128,7 +5128,7 @@
     <programme start="20251128124500 +0000" stop="20251128150000 +0000" channel="SPOTV.starhub">
         <title>Compound Final Fours</title>
     </programme>
-    <programme start="20251128150000 +0000" stop="20251128165500 +0000" channel="SPOTV.starhub">
+    <programme start="20251128150000 +0000" stop="20251128172500 +0000" channel="SPOTV.starhub">
         <title>Wellington Phoenix vs Macarthur FC</title>
     </programme>
     <programme start="20251127154000 +0000" stop="20251127162000 +0000" channel="KBS World HD.starhub">
