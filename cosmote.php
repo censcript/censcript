@@ -1,7 +1,3 @@
-<programme start="20251128173000 +0700" stop="20251128193000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: AS Roma - FC Midtjylland</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251128193000 +0700" stop="20251128213000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: FC Porto - Nice</title>
     <desc>Live: Tidak</desc>
@@ -74,8 +70,8 @@
     <title>Football: PAOK - SK Brann</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251128180000 +0700" stop="20251128200000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: SK Slovan Bratislava - Rayo Vallecano</title>
+<programme start="20251129200000 +0700" stop="20251129210000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Highlights: UEL &amp; UECL 2025-26</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251128200000 +0700" stop="20251128220000 +0700" channel="COSMOTE Sport 2 HD">
@@ -262,10 +258,6 @@
     <title>Basketball: Heidelberg - Promitheas</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251128184500 +0700" stop="20251128200000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
 <programme start="20251128200000 +0700" stop="20251128210500 +0700" channel="COSMOTE Sport 5 HD">
     <title>WRC 2025 (L)</title>
     <desc>Live: Ya</desc>
@@ -370,8 +362,8 @@
     <title>DTM</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251128175500 +0700" stop="20251128194000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Premier Padel Tour 2025</title>
+<programme start="20251129200000 +0700" stop="20251129210500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251128194000 +0700" stop="20251128203500 +0700" channel="COSMOTE Sport 6 HD">
