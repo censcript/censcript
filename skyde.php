@@ -3404,6 +3404,27 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251128221500 +0000" stop="20251129000000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NHL: Ottawa Senators @ St. Louis Blues</title>
 </programme>
+<programme start="20251127230000 +0000" stop="20251127233000 +0000" channel="Sky Sport UHD.skyde">
+    <title>Golf: Greatest Holes (7)</title>
+</programme>
+<programme start="20251127233000 +0000" stop="20251128013000 +0000" channel="Sky Sport UHD.skyde">
+    <title>DFB-Pokal: 1. FC Köln - FC Bayern München, 2. Runde</title>
+</programme>
+<programme start="20251128013000 +0000" stop="20251128033000 +0000" channel="Sky Sport UHD.skyde">
+    <title>F1: Rennen - GP Sao Paulo</title>
+</programme>
+<programme start="20251128033000 +0000" stop="20251128043000 +0000" channel="Sky Sport UHD.skyde">
+    <title>F1 Academy: 2. Rennen - GP Las Vegas</title>
+</programme>
+<programme start="20251128043000 +0000" stop="20251128060000 +0000" channel="Sky Sport UHD.skyde">
+    <title>F1: Qualifying - GP Las Vegas</title>
+</programme>
+<programme start="20251128060000 +0000" stop="20251128080000 +0000" channel="Sky Sport UHD.skyde">
+    <title>F1: Rennen - GP Las Vegas</title>
+</programme>
+<programme start="20251128080000 +0000" stop="20251128081500 +0000" channel="Sky Sport UHD.skyde">
+    <title>Info: UHD</title>
+</programme>
 <programme start="20251127231500 +0000" stop="20251128000000 +0000" channel="SYFY HD.skyde">
     <title>Stargate SG-1</title>
 </programme>
