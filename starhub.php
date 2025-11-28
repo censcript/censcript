@@ -5098,8 +5098,11 @@
     <programme start="20251128140000 +0000" stop="20251128160000 +0000" channel="Astro Sensasi HD.starhub">
         <title>Obses</title>
     </programme>
-    <programme start="20251127160000 +0000" stop="20251127180000 +0000" channel="SPOTV.starhub">
+    <programme start="20251127160000 +0000" stop="20251127165500 +0000" channel="SPOTV.starhub">
         <title>Auckland FC vs Brisbane Roar FC</title>
+    </programme>
+    <programme start="20251127165500 +0000" stop="20251127180000 +0000" channel="SPOTV.starhub">
+        <title>Newcastle Jets FC vs Perth Glory</title>
     </programme>
     <programme start="20251127180000 +0000" stop="20251127230000 +0000" channel="SPOTV.starhub">
         <title>Endurance Cup</title>

@@ -1,7 +1,3 @@
-<programme start="20251128133000 +0700" stop="20251128153000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: Panathinaikos - SK Sturm Graz</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251128153000 +0700" stop="20251128173000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: PAOK - SK Brann</title>
     <desc>Live: Tidak</desc>
@@ -74,8 +70,8 @@
     <title>Game R1 S6 E14</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251128140000 +0700" stop="20251128160000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: ACF Fiorentina - AEK</title>
+<programme start="20251129160000 +0700" stop="20251129180000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: Panathinaikos - SK Sturm Graz</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251128160000 +0700" stop="20251128180000 +0700" channel="COSMOTE Sport 2 HD">
@@ -250,8 +246,8 @@
     <title>Pick n&#039; Roll</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251128150000 +0700" stop="20251128160000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC 2025</title>
+<programme start="20251129163500 +0700" stop="20251129190500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Badalona - Hapoel Holon</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251128160000 +0700" stop="20251128165500 +0700" channel="COSMOTE Sport 5 HD">
@@ -362,14 +358,6 @@
     <title>Grand Prix Show 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251128140500 +0700" stop="20251128150500 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Nitto ATP Finals 2025 - Highlights</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251128150500 +0700" stop="20251128160000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Sports Classics: 2025 Outdoor Specials</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251128160000 +0700" stop="20251128175500 +0700" channel="COSMOTE Sport 6 HD">
     <title>Premier Padel Tour 2025</title>
     <desc>Live: Tidak</desc>
@@ -432,6 +420,10 @@
 </programme>
 <programme start="20251129143000 +0700" stop="20251129160500 +0700" channel="COSMOTE Sport 6 HD">
     <title>Handball: ThSV Eisenach - THW Kiel</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251129160500 +0700" stop="20251129170000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Sports Classics: 2025 Outdoor Specials</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251128150000 +0700" stop="20251128170000 +0700" channel="COSMOTE Sport 7 HD">
