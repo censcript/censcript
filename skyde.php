@@ -2855,7 +2855,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251128164000 +0000" stop="20251128170000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Es folgt: Live 2. Bundesliga</title>
 </programme>
-<programme start="20251128170000 +0000" stop="20251128200000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
+<programme start="20251128170000 +0000" stop="20251128193000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Live 2. BL: Multiview, 14. Spieltag, Freitag</title>
 </programme>
 <programme start="20251128103000 +0000" stop="20251128120000 +0000" channel="Sky Sport Bundesliga 8 HD.skyde">
@@ -3803,47 +3803,44 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251128214000 +0000" stop="20251129001000 +0000" channel="Warner TV Film.skyde">
     <title>The Dark Knight</title>
 </programme>
-<programme start="20251127231000 +0000" stop="20251128005500 +0000" channel="Warner TV Film HD.skyde">
-    <title>Get Smart</title>
+<programme start="20251129001000 +0000" stop="20251129025000 +0000" channel="Warner TV Film HD.skyde">
+    <title>The Dark Knight Rises</title>
 </programme>
-<programme start="20251128005500 +0000" stop="20251128023000 +0000" channel="Warner TV Film HD.skyde">
-    <title>Police Academy - Dümmer als die Polizei erlaubt</title>
+<programme start="20251129025000 +0000" stop="20251129043500 +0000" channel="Warner TV Film HD.skyde">
+    <title>Meteor</title>
 </programme>
-<programme start="20251128023000 +0000" stop="20251128035000 +0000" channel="Warner TV Film HD.skyde">
-    <title>Police Academy 2 - Jetzt geht&#039;s erst richtig los</title>
+<programme start="20251129043500 +0000" stop="20251129050000 +0000" channel="Warner TV Film HD.skyde">
+    <title>Hinter den Kulissen - Christian Slater</title>
 </programme>
-<programme start="20251128035000 +0000" stop="20251128050000 +0000" channel="Warner TV Film HD.skyde">
-    <title>Hinter den Kulissen - Michael Ballhaus</title>
+<programme start="20251129050000 +0000" stop="20251129071500 +0000" channel="Warner TV Film HD.skyde">
+    <title>Mystic River</title>
 </programme>
-<programme start="20251128050000 +0000" stop="20251128064000 +0000" channel="Warner TV Film HD.skyde">
-    <title>Rush Hour</title>
+<programme start="20251129071500 +0000" stop="20251129095000 +0000" channel="Warner TV Film HD.skyde">
+    <title>Transformers 3 - Die dunkle Seite des Mondes</title>
 </programme>
-<programme start="20251128064000 +0000" stop="20251128082500 +0000" channel="Warner TV Film HD.skyde">
-    <title>Gangster in Key Largo</title>
+<programme start="20251129095000 +0000" stop="20251129102000 +0000" channel="Warner TV Film HD.skyde">
+    <title>Hinter den Kulissen - Christian Slater</title>
 </programme>
-<programme start="20251128082500 +0000" stop="20251128100000 +0000" channel="Warner TV Film HD.skyde">
-    <title>Liebling, laß das Lügen</title>
+<programme start="20251129102000 +0000" stop="20251129122500 +0000" channel="Warner TV Film HD.skyde">
+    <title>Interview mit einem Vampir</title>
 </programme>
-<programme start="20251128100000 +0000" stop="20251128113000 +0000" channel="Warner TV Film HD.skyde">
-    <title>Stichtag - Schluss mit gemütlich</title>
+<programme start="20251129122500 +0000" stop="20251129145500 +0000" channel="Warner TV Film HD.skyde">
+    <title>The Dark Knight</title>
 </programme>
-<programme start="20251128113000 +0000" stop="20251128132500 +0000" channel="Warner TV Film HD.skyde">
-    <title>Der Teufel trägt Prada</title>
-</programme>
-<programme start="20251128132500 +0000" stop="20251128151500 +0000" channel="Warner TV Film HD.skyde">
-    <title>Get Smart</title>
-</programme>
-<programme start="20251128151500 +0000" stop="20251128172000 +0000" channel="Warner TV Film HD.skyde">
-    <title>Ocean&#039;s 13</title>
-</programme>
-<programme start="20251128172000 +0000" stop="20251128191500 +0000" channel="Warner TV Film HD.skyde">
-    <title>Ocean&#039;s 8</title>
-</programme>
-<programme start="20251128191500 +0000" stop="20251128214000 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20251129145500 +0000" stop="20251129172000 +0000" channel="Warner TV Film HD.skyde">
     <title>Die Verurteilten</title>
 </programme>
-<programme start="20251128214000 +0000" stop="20251129001000 +0000" channel="Warner TV Film HD.skyde">
-    <title>The Dark Knight</title>
+<programme start="20251129172000 +0000" stop="20251129191500 +0000" channel="Warner TV Film HD.skyde">
+    <title>New York Für Anfänger</title>
+</programme>
+<programme start="20251129191500 +0000" stop="20251129210500 +0000" channel="Warner TV Film HD.skyde">
+    <title>Eddie the Eagle - Alles ist möglich</title>
+</programme>
+<programme start="20251129210500 +0000" stop="20251129225500 +0000" channel="Warner TV Film HD.skyde">
+    <title>Demolition - Lieben und Leben</title>
+</programme>
+<programme start="20251129225500 +0000" stop="20251130002000 +0000" channel="Warner TV Film HD.skyde">
+    <title>The Big Wedding</title>
 </programme>
 <programme start="20251127233000 +0000" stop="20251128001500 +0000" channel="Warner TV Serie HD.skyde">
     <title>NCIS: Los Angeles</title>

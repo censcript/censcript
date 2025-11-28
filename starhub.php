@@ -7295,7 +7295,7 @@
         <title>BBC News</title>
     </programme>
     <programme start="20251128013000 +0000" stop="20251128020000 +0000" channel="BBC World News HD.starhub">
-        <title>The Media Show</title>
+        <title>Ed Sheeran&#039;s One-Shot Film</title>
     </programme>
     <programme start="20251128020000 +0000" stop="20251128023000 +0000" channel="BBC World News HD.starhub">
         <title>Newsday</title>

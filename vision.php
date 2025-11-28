@@ -616,9 +616,6 @@
 <programme start="20251129114500 +0000" stop="20251129121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
-<programme start="20251127230000 +0000" stop="20251128010000 +0000" channel="ANTV.vision">
-<title>Drakula Mantu</title>
-</programme>
 <programme start="20251128010000 +0000" stop="20251128030000 +0000" channel="ANTV.vision">
 <title>Zeynep</title>
 </programme>
@@ -1496,5 +1493,8 @@
 <title>TVRI</title>
 </programme>
 <programme start="20251128160000 +0000" stop="20251128175000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251128175000 +0000" stop="20251128194500 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
