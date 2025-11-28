@@ -989,11 +989,14 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251128122500 +0000" stop="20251128130000 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20251128130000 +0000" stop="20251128145500 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20251128130000 +0000" stop="20251128145000 +0000" channel="DAZN 1 HD.skyde">
     <title>Serie A 25/26: Inter Mailand - AC Mailand</title>
 </programme>
-<programme start="20251128145500 +0000" stop="20251128153000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20251128145000 +0000" stop="20251128150500 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
+</programme>
+<programme start="20251128150500 +0000" stop="20251128153000 +0000" channel="DAZN 1 HD.skyde">
+    <title>Let&#039;s go Ballin&#039;: Episode 2</title>
 </programme>
 <programme start="20251128153000 +0000" stop="20251128172000 +0000" channel="DAZN 1 HD.skyde">
     <title>Bundesliga: Borussia Dortmund - VFB Stuttgart</title>
@@ -1052,11 +1055,11 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251128170000 +0000" stop="20251128171500 +0000" channel="DAZN 2 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20251128171500 +0000" stop="20251128191000 +0000" channel="DAZN 2 HD.skyde">
+<programme start="20251128171500 +0000" stop="20251128190500 +0000" channel="DAZN 2 HD.skyde">
     <title>Bundesliga: RB Leipzig - SV Werder Bremen</title>
 </programme>
-<programme start="20251128191000 +0000" stop="20251128194000 +0000" channel="DAZN 2 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
+<programme start="20251128190500 +0000" stop="20251128194000 +0000" channel="DAZN 2 HD.skyde">
+    <title>NFL Features 2025/26: Rise of a Lion - Amon-Ra St. Brown</title>
 </programme>
 <programme start="20251128194000 +0000" stop="20251128215000 +0000" channel="DAZN 2 HD.skyde">
     <title>Serie A 25/26: Como 1907 - Sassuolo Calcio</title>
@@ -2834,7 +2837,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251128170000 +0000" stop="20251128193000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Live 2. BL: Freitags-Konferenz, 14. Spieltag</title>
 </programme>
-<programme start="20251128193000 +0000" stop="20251128201500 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+<programme start="20251128193000 +0000" stop="20251128204500 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Live 2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 14. Spieltag, Freitag</title>
 </programme>
 <programme start="20251128164000 +0000" stop="20251128170000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
@@ -2843,13 +2846,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251128170000 +0000" stop="20251128193000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live 2. BL: FC Schalke 04 - SC Paderborn 07, 14. Spieltag</title>
 </programme>
-<programme start="20251128193000 +0000" stop="20251128213000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
+<programme start="20251128193000 +0000" stop="20251128220000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live BL: Sky Sport Fantasy: BMG - RBL, 12. Spieltag</title>
 </programme>
 <programme start="20251128164000 +0000" stop="20251128170000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Es folgt: Live 2. Bundesliga</title>
 </programme>
-<programme start="20251128170000 +0000" stop="20251128193000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
+<programme start="20251128170000 +0000" stop="20251128200000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live 2. BL: Hannover 96 - Karlsruher SC, 14. Spieltag</title>
 </programme>
 <programme start="20251128164000 +0000" stop="20251128170000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
@@ -2942,6 +2945,9 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251128221500 +0000" stop="20251129001500 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Rennen - GP Las Vegas</title>
 </programme>
+<programme start="20251128001000 +0000" stop="20251128010000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>PGA Championship: Official Film 2025 (Scottie Scheffler)</title>
+</programme>
 <programme start="20251128010000 +0000" stop="20251128011500 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: Das Final Four 2024 - die Highlights</title>
 </programme>
@@ -2954,14 +2960,11 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251128014500 +0000" stop="20251128023000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>PGA Championship: Official Film 2025 (Scottie Scheffler)</title>
 </programme>
-<programme start="20251128023000 +0000" stop="20251128060000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20251128023000 +0000" stop="20251128073000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Live Golf: BMW Australian PGA Championship, 2. Tag in Brisbane (Australien)</title>
 </programme>
-<programme start="20251128060000 +0000" stop="20251128070000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>The Open: Duel - Golf&#039;s Greatest Showdown</title>
-</programme>
-<programme start="20251128070000 +0000" stop="20251128080000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Golf: Trevino</title>
+<programme start="20251128073000 +0000" stop="20251128080000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Golf: Golfszene 2025 (5)</title>
 </programme>
 <programme start="20251128080000 +0000" stop="20251128110000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: BMW Australian PGA Championship, 2. Tag in Brisbane (Australien)</title>
