@@ -66,10 +66,6 @@
     <title>Football: Pafos FC - AS Monaco FC</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251128100000 +0700" stop="20251128120000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Strasbourg - Crystal Palace</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251128120000 +0700" stop="20251128140000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Feyenoord - Celtic FC</title>
     <desc>Live: Tidak</desc>
@@ -242,10 +238,6 @@
     <title>Basketball: Granada - Real Madrid</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251128110000 +0700" stop="20251128115500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>2025 GT World Challenge Europe</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251128115500 +0700" stop="20251128122500 +0700" channel="COSMOTE Sport 5 HD">
     <title>Sports Classics: Gearing Up 2024 E10</title>
     <desc>Live: Tidak</desc>
@@ -352,10 +344,6 @@
 </programme>
 <programme start="20251129115500 +0700" stop="20251129130000 +0700" channel="COSMOTE Sport 5 HD">
     <title>WRC 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251128095000 +0700" stop="20251128111000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Beach Volley: 2025 FIVB Beach Volleyball World Championships</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251128111000 +0700" stop="20251128131000 +0700" channel="COSMOTE Sport 6 HD">
@@ -557,10 +545,6 @@
 <programme start="20251129110000 +0700" stop="20251129130000 +0700" channel="COSMOTE Sport 8 HD">
     <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251128082000 +0700" stop="20251128115000 +0700" channel="COSMOTE Sport 9 HD">
-    <title>American Football: Baltimore Ravens - Cincinnati Bengals (L)</title>
-    <desc>Live: Ya</desc>
 </programme>
 <programme start="20251128115000 +0700" stop="20251128121000 +0700" channel="COSMOTE Sport 9 HD">
     <title>COSMOTESport9HD</title>
