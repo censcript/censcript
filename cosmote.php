@@ -66,6 +66,10 @@
     <title>Sportshow (L)</title>
     <desc>Live: Ya</desc>
 </programme>
+<programme start="20251201063000 +0700" stop="20251201085000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Sportshow</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251130044500 +0700" stop="20251130070000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: OFI - Volos</title>
     <desc>Live: Tidak</desc>
@@ -258,6 +262,10 @@
     <title>Basketball: Utah Jazz - Houston Rockets (L)</title>
     <desc>Live: Ya</desc>
 </programme>
+<programme start="20251201060000 +0700" stop="20251201090000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Cleveland Cavaliers - Boston Celtics (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
 <programme start="20251130040000 +0700" stop="20251130061000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Motorsports: Extreme E 2025</title>
     <desc>Live: Tidak</desc>
@@ -362,6 +370,14 @@
     <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251201062000 +0700" stop="20251201065000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251201065000 +0700" stop="20251201081000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Grand Prix Show 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251130050000 +0700" stop="20251130070000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Premier Padel Tour 2025 (L)</title>
     <desc>Live: Ya</desc>
@@ -425,6 +441,10 @@
 <programme start="20251201030000 +0700" stop="20251201060000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Fight Sports: Oktagon 2025</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251201060000 +0700" stop="20251201080000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Premier Padel Tour 2025 (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20251130050000 +0700" stop="20251130070000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
