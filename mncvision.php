@@ -9892,6 +9892,174 @@
 <programme start="20251129151000 +0000" stop="20251129154000 +0000" channel="UNIQUES.mncvision">
     <title>Judy &amp; Punch</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20251128180100 +0000" stop="20251128195200 +0000" channel="UNIQUES HD.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20251128195200 +0000" stop="20251128213100 +0000" channel="UNIQUES HD.mncvision">
+    <title>Breaking</title>
+</programme>
+<programme start="20251128213100 +0000" stop="20251128230700 +0000" channel="UNIQUES HD.mncvision">
+    <title>Josie</title>
+</programme>
+<programme start="20251128230700 +0000" stop="20251129004200 +0000" channel="UNIQUES HD.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20251129004200 +0000" stop="20251129023100 +0000" channel="UNIQUES HD.mncvision">
+    <title>Disturbing The Peace</title>
+</programme>
+<programme start="20251129023100 +0000" stop="20251129043700 +0000" channel="UNIQUES HD.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20251129043700 +0000" stop="20251129061600 +0000" channel="UNIQUES HD.mncvision">
+    <title>Breaking</title>
+</programme>
+<programme start="20251129061600 +0000" stop="20251129075400 +0000" channel="UNIQUES HD.mncvision">
+    <title>The Hunter&#039;s Prayer</title>
+</programme>
+<programme start="20251129075400 +0000" stop="20251129094500 +0000" channel="UNIQUES HD.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20251129094500 +0000" stop="20251129113300 +0000" channel="UNIQUES HD.mncvision">
+    <title>One Way</title>
+</programme>
+<programme start="20251129113300 +0000" stop="20251129132900 +0000" channel="UNIQUES HD.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20251129132900 +0000" stop="20251129151000 +0000" channel="UNIQUES HD.mncvision">
+    <title>Escape From Pretoria</title>
+</programme>
+<programme start="20251129151000 +0000" stop="20251129154000 +0000" channel="UNIQUES HD.mncvision">
+    <title>Judy &amp; Punch</title>
+</programme>
+<programme start="20251128170000 +0000" stop="20251128180000 +0000" channel="Vision Prime.mncvision">
+    <title>Mencintai Ipar Sendiri</title>
+</programme>
+<programme start="20251128180000 +0000" stop="20251128190000 +0000" channel="Vision Prime.mncvision">
+    <title>Cinta Sepenuh Jiwa</title>
+</programme>
+<programme start="20251128190000 +0000" stop="20251128200000 +0000" channel="Vision Prime.mncvision">
+    <title>Dusta Di Balik Cinta</title>
+</programme>
+<programme start="20251128200000 +0000" stop="20251128210000 +0000" channel="Vision Prime.mncvision">
+    <title>Kau Ditakdirkan Untukku</title>
+</programme>
+<programme start="20251128210000 +0000" stop="20251128220000 +0000" channel="Vision Prime.mncvision">
+    <title>Terbelenggu Rindu</title>
+</programme>
+<programme start="20251128220000 +0000" stop="20251128230000 +0000" channel="Vision Prime.mncvision">
+    <title>Mencintai Ipar Sendiri</title>
+</programme>
+<programme start="20251128230000 +0000" stop="20251129000000 +0000" channel="Vision Prime.mncvision">
+    <title>Cinta Sepenuh Jiwa</title>
+</programme>
+<programme start="20251129000000 +0000" stop="20251129020000 +0000" channel="Vision Prime.mncvision">
+    <title>Shubh Mangal Saavdhan</title>
+</programme>
+<programme start="20251129020000 +0000" stop="20251129030000 +0000" channel="Vision Prime.mncvision">
+    <title>Intan</title>
+</programme>
+<programme start="20251129030000 +0000" stop="20251129040000 +0000" channel="Vision Prime.mncvision">
+    <title>Ikatan Cinta</title>
+</programme>
+<programme start="20251129040000 +0000" stop="20251129050000 +0000" channel="Vision Prime.mncvision">
+    <title>Kau Ditakdirkan Untukku</title>
+</programme>
+<programme start="20251129050000 +0000" stop="20251129070000 +0000" channel="Vision Prime.mncvision">
+    <title>Longxing Northern Expedition</title>
+</programme>
+<programme start="20251129070000 +0000" stop="20251129080000 +0000" channel="Vision Prime.mncvision">
+    <title>Ada Dua Cinta</title>
+</programme>
+<programme start="20251129080000 +0000" stop="20251129090000 +0000" channel="Vision Prime.mncvision">
+    <title>Dusta Di Balik Cinta</title>
+</programme>
+<programme start="20251129090000 +0000" stop="20251129100000 +0000" channel="Vision Prime.mncvision">
+    <title>Intan</title>
+</programme>
+<programme start="20251129100000 +0000" stop="20251129110000 +0000" channel="Vision Prime.mncvision">
+    <title>Mencintai Ipar Sendiri</title>
+</programme>
+<programme start="20251129110000 +0000" stop="20251129120000 +0000" channel="Vision Prime.mncvision">
+    <title>Cinta Sepenuh Jiwa</title>
+</programme>
+<programme start="20251129120000 +0000" stop="20251129130000 +0000" channel="Vision Prime.mncvision">
+    <title>Kau Ditakdirkan Untukku</title>
+</programme>
+<programme start="20251129130000 +0000" stop="20251129140000 +0000" channel="Vision Prime.mncvision">
+    <title>Terbelenggu Rindu</title>
+</programme>
+<programme start="20251129140000 +0000" stop="20251129143000 +0000" channel="Vision Prime.mncvision">
+    <title>Sugar Daddy</title>
+</programme>
+<programme start="20251129143000 +0000" stop="20251129150000 +0000" channel="Vision Prime.mncvision">
+    <title>Hindmata</title>
+</programme>
+<programme start="20251129150000 +0000" stop="20251129153000 +0000" channel="Vision Prime.mncvision">
+    <title>Longxing Northern Expedition</title>
+</programme>
+<programme start="20251128170000 +0000" stop="20251128180000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Mencintai Ipar Sendiri</title>
+</programme>
+<programme start="20251128180000 +0000" stop="20251128190000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Cinta Sepenuh Jiwa</title>
+</programme>
+<programme start="20251128190000 +0000" stop="20251128200000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Dusta Di Balik Cinta</title>
+</programme>
+<programme start="20251128200000 +0000" stop="20251128210000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Kau Ditakdirkan Untukku</title>
+</programme>
+<programme start="20251128210000 +0000" stop="20251128220000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Terbelenggu Rindu</title>
+</programme>
+<programme start="20251128220000 +0000" stop="20251128230000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Mencintai Ipar Sendiri</title>
+</programme>
+<programme start="20251128230000 +0000" stop="20251129000000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Cinta Sepenuh Jiwa</title>
+</programme>
+<programme start="20251129000000 +0000" stop="20251129020000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Shubh Mangal Saavdhan</title>
+</programme>
+<programme start="20251129020000 +0000" stop="20251129030000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Intan</title>
+</programme>
+<programme start="20251129030000 +0000" stop="20251129040000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Ikatan Cinta</title>
+</programme>
+<programme start="20251129040000 +0000" stop="20251129050000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Kau Ditakdirkan Untukku</title>
+</programme>
+<programme start="20251129050000 +0000" stop="20251129070000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Longxing Northern Expedition</title>
+</programme>
+<programme start="20251129070000 +0000" stop="20251129080000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Ada Dua Cinta</title>
+</programme>
+<programme start="20251129080000 +0000" stop="20251129090000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Dusta Di Balik Cinta</title>
+</programme>
+<programme start="20251129090000 +0000" stop="20251129100000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Intan</title>
+</programme>
+<programme start="20251129100000 +0000" stop="20251129110000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Mencintai Ipar Sendiri</title>
+</programme>
+<programme start="20251129110000 +0000" stop="20251129120000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Cinta Sepenuh Jiwa</title>
+</programme>
+<programme start="20251129120000 +0000" stop="20251129130000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Kau Ditakdirkan Untukku</title>
+</programme>
+<programme start="20251129130000 +0000" stop="20251129140000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Terbelenggu Rindu</title>
+</programme>
+<programme start="20251129140000 +0000" stop="20251129143000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Sugar Daddy</title>
+</programme>
+<programme start="20251129143000 +0000" stop="20251129150000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Hindmata</title>
+</programme>
+<programme start="20251129150000 +0000" stop="20251129153000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Longxing Northern Expedition</title>
+</programme>
