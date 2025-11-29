@@ -2593,7 +2593,7 @@
 <programme start="20251129153000 +0000" stop="20251129155000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: Admiral BL</title>
 </programme>
-<programme start="20251129155000 +0000" stop="20251129183600 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20251129155000 +0000" stop="20251129180000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live Admiral BL: FK Austria Wien - WSG Tirol, 15. Runde</title>
 </programme>
 <programme start="20251129153000 +0000" stop="20251129155000 +0000" channel="Sky Sport Austria 3 HD.skyde">
