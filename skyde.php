@@ -2599,13 +2599,13 @@
 <programme start="20251129153000 +0000" stop="20251129155000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Es folgt: Admiral BL</title>
 </programme>
-<programme start="20251129155000 +0000" stop="20251129180000 +0000" channel="Sky Sport Austria 3 HD.skyde">
+<programme start="20251129155000 +0000" stop="20251129183600 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live Admiral BL: SV Oberbank Ried - RZ Pellets WAC, 15. Runde</title>
 </programme>
 <programme start="20251129153000 +0000" stop="20251129155000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Es folgt: Admiral BL</title>
 </programme>
-<programme start="20251129155000 +0000" stop="20251129180000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+<programme start="20251129155000 +0000" stop="20251129183600 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live Admiral BL: Grazer AK 1902 - FC Blau-Weiß Linz, 15. Runde</title>
 </programme>
 <programme start="20251128233000 +0000" stop="20251129013000 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -2716,7 +2716,7 @@
 <programme start="20251129141500 +0000" stop="20251129164500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: FC Bayern München - FC St. Pauli, 12. Spieltag</title>
 </programme>
-<programme start="20251129164500 +0000" stop="20251129201500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
+<programme start="20251129164500 +0000" stop="20251129205100 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: Bayer Leverkusen - Borussia Dortmund, tipico Topspiel der Woche, 12. Spieltag</title>
 </programme>
 <programme start="20251129111000 +0000" stop="20251129113000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
@@ -2740,7 +2740,7 @@
 <programme start="20251129190000 +0000" stop="20251129220000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Live 2. BL: 1. FC Magdeburg - 1. FC Nürnberg, tipico Topspiel der Woche, 14. Spieltag</title>
 </programme>
-<programme start="20251129220000 +0000" stop="20251129230000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+<programme start="20251129220000 +0000" stop="20251129233600 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 14. Spieltag, Samstag komplett</title>
 </programme>
 <programme start="20251129111000 +0000" stop="20251129113000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
@@ -2755,7 +2755,7 @@
 <programme start="20251129141500 +0000" stop="20251129164500 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live BL: 1. FC Union Berlin - 1. FC Heidenheim, 12. Spieltag</title>
 </programme>
-<programme start="20251129164500 +0000" stop="20251129201500 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
+<programme start="20251129164500 +0000" stop="20251129205100 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live BL: Tactical Feed: B04 - BVB, 12. Spieltag</title>
 </programme>
 <programme start="20251129111000 +0000" stop="20251129113000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
@@ -2767,13 +2767,13 @@
 <programme start="20251129140000 +0000" stop="20251129141500 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live BL: TSG - FCA: tipico Countdown, 12. Spieltag</title>
 </programme>
-<programme start="20251129141500 +0000" stop="20251129164500 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
+<programme start="20251129141500 +0000" stop="20251129172100 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live BL: TSG Hoffenheim - FC Augsburg, 12. Spieltag</title>
 </programme>
 <programme start="20251129111000 +0000" stop="20251129113000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Es folgt: Live 2. Bundesliga</title>
 </programme>
-<programme start="20251129113000 +0000" stop="20251129140000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
+<programme start="20251129113000 +0000" stop="20251129143600 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Live 2. BL: SpVgg Greuther Fürth - VfL Bochum, 14. Spieltag</title>
 </programme>
 <programme start="20251129111000 +0000" stop="20251129113000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
@@ -2782,7 +2782,7 @@
 <programme start="20251129113000 +0000" stop="20251129140000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
     <title>Live 2. BL: Multiview, 14. Spieltag, Samstag</title>
 </programme>
-<programme start="20251129140000 +0000" stop="20251129163000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
+<programme start="20251129140000 +0000" stop="20251129170600 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
     <title>Live BL: Multiview, 12. Spieltag</title>
 </programme>
 <programme start="20251129111000 +0000" stop="20251129113000 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
@@ -2791,7 +2791,7 @@
 <programme start="20251129113000 +0000" stop="20251129140000 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
     <title>Live 2. BL: Samstags-Konferenz, 14. Spieltag</title>
 </programme>
-<programme start="20251129140000 +0000" stop="20251129144500 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
+<programme start="20251129140000 +0000" stop="20251129152100 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
     <title>Live 2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 14. Spieltag, Samstag</title>
 </programme>
 <programme start="20251129001500 +0000" stop="20251129004500 +0000" channel="Sky Sport F1 HD.skyde">
@@ -2866,14 +2866,11 @@
 <programme start="20251129223000 +0000" stop="20251129233000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F2: 1. Rennen - GP Katar</title>
 </programme>
-<programme start="20251129010000 +0000" stop="20251129014500 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>The Masters: A Champion&#039;s Dream - Jordan Spieth</title>
-</programme>
-<programme start="20251129014500 +0000" stop="20251129023000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Golf: Augusta National Women&#039;s Amateur Official Film 2025</title>
-</programme>
-<programme start="20251129023000 +0000" stop="20251129060000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20251128233000 +0000" stop="20251129051500 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Live Golf: BMW Australian PGA Championship, 3. Tag in Brisbane (Australien)</title>
+</programme>
+<programme start="20251129051500 +0000" stop="20251129060000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>PGA Championship: Official Film 2025 (Scottie Scheffler)</title>
 </programme>
 <programme start="20251129060000 +0000" stop="20251129061500 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: Projekt 0 (6)</title>
@@ -3229,20 +3226,11 @@
 <programme start="20251129223000 +0000" stop="20251129230000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: Review Miami</title>
 </programme>
-<programme start="20251129000000 +0000" stop="20251129010000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>F1: Sprint Qualifying - GP Katar</title>
-</programme>
-<programme start="20251129010000 +0000" stop="20251129013000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>F1 Academy: Weekend Wrapped - GP Las Vegas</title>
-</programme>
-<programme start="20251129013000 +0000" stop="20251129020000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>PL: Preview, 13. Spieltag</title>
-</programme>
-<programme start="20251129020000 +0000" stop="20251129023000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Meine Geschichte: Das Leben von Niklas Dorsch</title>
-</programme>
-<programme start="20251129023000 +0000" stop="20251129060000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20251129000000 +0000" stop="20251129053000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live Golf: BMW Australian PGA Championship, 3. Tag in Brisbane (Australien)</title>
+</programme>
+<programme start="20251129053000 +0000" stop="20251129060000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>PL: Preview, 13. Spieltag</title>
 </programme>
 <programme start="20251129060000 +0000" stop="20251129070000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live WRC: Rally Saudi Arabia - SS15 Thabhan 1</title>
@@ -3676,10 +3664,10 @@
 <programme start="20251129191500 +0000" stop="20251129210500 +0000" channel="Warner TV Film HD.skyde">
     <title>Eddie the Eagle - Alles ist möglich</title>
 </programme>
-<programme start="20251129210500 +0000" stop="20251129225500 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20251129210500 +0000" stop="20251129225000 +0000" channel="Warner TV Film HD.skyde">
     <title>Demolition - Lieben und Leben</title>
 </programme>
-<programme start="20251129225500 +0000" stop="20251130002000 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20251129225000 +0000" stop="20251130001500 +0000" channel="Warner TV Film HD.skyde">
     <title>The Big Wedding</title>
 </programme>
 <programme start="20251128230500 +0000" stop="20251128235500 +0000" channel="Warner TV Serie HD.skyde">
