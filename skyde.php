@@ -2590,29 +2590,17 @@
 <programme start="20251129220000 +0000" stop="20251129230000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: Alle Spiele, alle Tore 15. Runde (Samstag)</title>
 </programme>
-<programme start="20251209152000 +0000" stop="20251209173000 +0000" channel="Sky Sport Austria 2 HD.skyde">
-    <title>Live UEFA CL: Kairat Almaty - Olympiakos Piräus, Ligaphase, 6. Spieltag, Dienstag</title>
+<programme start="20251129153000 +0000" stop="20251129155000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+    <title>Es folgt: Admiral BL</title>
 </programme>
-<programme start="20251209190000 +0000" stop="20251209195000 +0000" channel="Sky Sport Austria 2 HD.skyde">
-    <title>Live Die UEFA CL am Dienstag: Vorbericht</title>
-</programme>
-<programme start="20251209195000 +0000" stop="20251209220000 +0000" channel="Sky Sport Austria 2 HD.skyde">
-    <title>Live UEFA CL: Inter Mailand - FC Liverpool, Ligaphase, 6. Spieltag, Dienstag</title>
-</programme>
-<programme start="20251209220000 +0000" stop="20251209230000 +0000" channel="Sky Sport Austria 2 HD.skyde">
-    <title>Live Die UEFA CL am Dienstag: Analyse</title>
+<programme start="20251129155000 +0000" stop="20251129183600 +0000" channel="Sky Sport Austria 2 HD.skyde">
+    <title>Live Admiral BL: FK Austria Wien - WSG Tirol, 15. Runde</title>
 </programme>
 <programme start="20251129153000 +0000" stop="20251129155000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Es folgt: Admiral BL</title>
 </programme>
 <programme start="20251129155000 +0000" stop="20251129183600 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live Admiral BL: SV Oberbank Ried - RZ Pellets WAC, 15. Runde</title>
-</programme>
-<programme start="20251129153000 +0000" stop="20251129155000 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Es folgt: Admiral BL</title>
-</programme>
-<programme start="20251129155000 +0000" stop="20251129183600 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Live Admiral BL: Grazer AK 1902 - FC Blau-Weiß Linz, 15. Runde</title>
 </programme>
 <programme start="20251128233000 +0000" stop="20251129013000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: Borussia M&#039;gladbach - RB Leipzig, Flutlicht-Freitag, 12. Spieltag</title>
