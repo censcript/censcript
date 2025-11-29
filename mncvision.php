@@ -415,7 +415,156 @@
 <programme start="20251129163000 +0000" stop="20251128170000 +0000" channel="ANTV.mncvision">
     <title>Pengabdi Setan</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20251128170000 +0000" stop="20251128173000 +0000" channel="Arirang.mncvision">
+    <title>The Kulture Wave</title>
+</programme>
+<programme start="20251128173000 +0000" stop="20251128180000 +0000" channel="Arirang.mncvision">
+    <title>Within The Frame</title>
+</programme>
+<programme start="20251128180000 +0000" stop="20251128183000 +0000" channel="Arirang.mncvision">
+    <title>The Globalists</title>
+</programme>
+<programme start="20251128183000 +0000" stop="20251128185000 +0000" channel="Arirang.mncvision">
+    <title>1Day 1K-Culture: K-Trend</title>
+</programme>
+<programme start="20251128185000 +0000" stop="20251128190000 +0000" channel="Arirang.mncvision">
+    <title>Exploring Korean Literature A</title>
+</programme>
+<programme start="20251128190000 +0000" stop="20251128192000 +0000" channel="Arirang.mncvision">
+    <title>Taste Log</title>
+</programme>
+<programme start="20251128192000 +0000" stop="20251128193000 +0000" channel="Arirang.mncvision">
+    <title>Heritage Walks, Little Friend</title>
+</programme>
+<programme start="20251128193000 +0000" stop="20251128200000 +0000" channel="Arirang.mncvision">
+    <title>Premium Collection</title>
+</programme>
+<programme start="20251128200000 +0000" stop="20251128203000 +0000" channel="Arirang.mncvision">
+    <title>The Agenda</title>
+</programme>
+<programme start="20251128203000 +0000" stop="20251128210000 +0000" channel="Arirang.mncvision">
+    <title>Diplomat&#039;s Archive: Hidden</title>
+</programme>
+<programme start="20251128210000 +0000" stop="20251128213000 +0000" channel="Arirang.mncvision">
+    <title>Press Perspective</title>
+</programme>
+<programme start="20251128213000 +0000" stop="20251128215000 +0000" channel="Arirang.mncvision">
+    <title>RPG</title>
+</programme>
+<programme start="20251128215000 +0000" stop="20251128220000 +0000" channel="Arirang.mncvision">
+    <title>Exploring Korean Literature A</title>
+</programme>
+<programme start="20251128220000 +0000" stop="20251128223000 +0000" channel="Arirang.mncvision">
+    <title>Arirang Special</title>
+</programme>
+<programme start="20251128223000 +0000" stop="20251128230000 +0000" channel="Arirang.mncvision">
+    <title>I&#039;m Live</title>
+</programme>
+<programme start="20251128230000 +0000" stop="20251129000000 +0000" channel="Arirang.mncvision">
+    <title>Simply K-Pop SNS</title>
+</programme>
+<programme start="20251129000000 +0000" stop="20251129001000 +0000" channel="Arirang.mncvision">
+    <title>K-Sports Unlocked</title>
+</programme>
+<programme start="20251129001000 +0000" stop="20251129003000 +0000" channel="Arirang.mncvision">
+    <title>Drawing Diary</title>
+</programme>
+<programme start="20251129003000 +0000" stop="20251129010000 +0000" channel="Arirang.mncvision">
+    <title>Bravo K-Scientist</title>
+</programme>
+<programme start="20251129010000 +0000" stop="20251129013000 +0000" channel="Arirang.mncvision">
+    <title>K-Stage Pan</title>
+</programme>
+<programme start="20251129013000 +0000" stop="20251129020000 +0000" channel="Arirang.mncvision">
+    <title>SmartBiz Accelerators</title>
+</programme>
+<programme start="20251129020000 +0000" stop="20251129023000 +0000" channel="Arirang.mncvision">
+    <title>The Agenda</title>
+</programme>
+<programme start="20251129023000 +0000" stop="20251129030000 +0000" channel="Arirang.mncvision">
+    <title>Talk Room</title>
+</programme>
+<programme start="20251129030000 +0000" stop="20251129033000 +0000" channel="Arirang.mncvision">
+    <title>Weekly News Highlights</title>
+</programme>
+<programme start="20251129033000 +0000" stop="20251129040000 +0000" channel="Arirang.mncvision">
+    <title>Arirang Special</title>
+</programme>
+<programme start="20251129040000 +0000" stop="20251129043000 +0000" channel="Arirang.mncvision">
+    <title>Dive Into Korean</title>
+</programme>
+<programme start="20251129043000 +0000" stop="20251129050000 +0000" channel="Arirang.mncvision">
+    <title>Premium Collection</title>
+</programme>
+<programme start="20251129050000 +0000" stop="20251129060000 +0000" channel="Arirang.mncvision">
+    <title>Simply K-Pop SNS</title>
+</programme>
+<programme start="20251129060000 +0000" stop="20251129061000 +0000" channel="Arirang.mncvision">
+    <title>K-Sports Unlocked</title>
+</programme>
+<programme start="20251129061000 +0000" stop="20251129063000 +0000" channel="Arirang.mncvision">
+    <title>Drawing Diary</title>
+</programme>
+<programme start="20251129063000 +0000" stop="20251129065000 +0000" channel="Arirang.mncvision">
+    <title>RPG</title>
+</programme>
+<programme start="20251129065000 +0000" stop="20251129070000 +0000" channel="Arirang.mncvision">
+    <title>Exploring Korean Literature A</title>
+</programme>
+<programme start="20251129070000 +0000" stop="20251129073000 +0000" channel="Arirang.mncvision">
+    <title>The Agenda</title>
+</programme>
+<programme start="20251129073000 +0000" stop="20251129080000 +0000" channel="Arirang.mncvision">
+    <title>I&#039;m Live</title>
+</programme>
+<programme start="20251129080000 +0000" stop="20251129083000 +0000" channel="Arirang.mncvision">
+    <title>With Science, We Live</title>
+</programme>
+<programme start="20251129083000 +0000" stop="20251129090000 +0000" channel="Arirang.mncvision">
+    <title>SmartBiz Accelerators</title>
+</programme>
+<programme start="20251129090000 +0000" stop="20251129093000 +0000" channel="Arirang.mncvision">
+    <title>Weekly News Highlights</title>
+</programme>
+<programme start="20251129093000 +0000" stop="20251129103000 +0000" channel="Arirang.mncvision">
+    <title>PerformArts Reload</title>
+</programme>
+<programme start="20251129103000 +0000" stop="20251129110000 +0000" channel="Arirang.mncvision">
+    <title>Arirang Special</title>
+</programme>
+<programme start="20251129110000 +0000" stop="20251129113000 +0000" channel="Arirang.mncvision">
+    <title>I&#039;m Live</title>
+</programme>
+<programme start="20251129113000 +0000" stop="20251129120000 +0000" channel="Arirang.mncvision">
+    <title>Premium Collection</title>
+</programme>
+<programme start="20251129120000 +0000" stop="20251129130000 +0000" channel="Arirang.mncvision">
+    <title>Simply K-Pop SNS</title>
+</programme>
+<programme start="20251129130000 +0000" stop="20251129133000 +0000" channel="Arirang.mncvision">
+    <title>Peace Insight</title>
+</programme>
+<programme start="20251129133000 +0000" stop="20251129140000 +0000" channel="Arirang.mncvision">
+    <title>Talk Room</title>
+</programme>
+<programme start="20251129140000 +0000" stop="20251129141000 +0000" channel="Arirang.mncvision">
+    <title>K-Sports Unlocked</title>
+</programme>
+<programme start="20251129141000 +0000" stop="20251129143000 +0000" channel="Arirang.mncvision">
+    <title>1Day 1K-Culture: K-People</title>
+</programme>
+<programme start="20251129143000 +0000" stop="20251129144500 +0000" channel="Arirang.mncvision">
+    <title>1Day 1K-Culture: K-Story</title>
+</programme>
+<programme start="20251129144500 +0000" stop="20251129150000 +0000" channel="Arirang.mncvision">
+    <title>1Day 1K-Culture: K-Stage</title>
+</programme>
+<programme start="20251129150000 +0000" stop="20251129153000 +0000" channel="Arirang.mncvision">
+    <title>Dive Into Korean</title>
+</programme>
+<programme start="20251129153000 +0000" stop="20251129160000 +0000" channel="Arirang.mncvision">
+    <title>The Agenda</title>
+</programme>
 <programme start="20251128170500 +0000" stop="20251128173500 +0000" channel="AXN.mncvision">
     <title>Cyril: Simply Magic, Ep 6</title>
 </programme>
@@ -3929,9 +4078,315 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20251129160000 +0000" stop="20251129163000 +0000" channel="Galaxy Premium.mncvision">
     <title>The Walk</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20251128173000 +0000" stop="20251128182000 +0000" channel="Global Trekker.mncvision">
+    <title>Aerial Italy, Ep 1</title>
+</programme>
+<programme start="20251128182000 +0000" stop="20251128191000 +0000" channel="Global Trekker.mncvision">
+    <title>Aerial Italy, Ep 2</title>
+</programme>
+<programme start="20251128191000 +0000" stop="20251128204000 +0000" channel="Global Trekker.mncvision">
+    <title>Gameplay: Story Of Videogame</title>
+</programme>
+<programme start="20251128204000 +0000" stop="20251128211000 +0000" channel="Global Trekker.mncvision">
+    <title>Hotel Chocolat, Ep 1</title>
+</programme>
+<programme start="20251128211000 +0000" stop="20251128220000 +0000" channel="Global Trekker.mncvision">
+    <title>Hotel Chocolat, Ep 2</title>
+</programme>
+<programme start="20251128220000 +0000" stop="20251128225500 +0000" channel="Global Trekker.mncvision">
+    <title>Yorkshire: A Year In..., Ep 2</title>
+</programme>
+<programme start="20251128225500 +0000" stop="20251128234500 +0000" channel="Global Trekker.mncvision">
+    <title>Yorkshire: A Year In..., Ep 3</title>
+</programme>
+<programme start="20251128234500 +0000" stop="20251129003500 +0000" channel="Global Trekker.mncvision">
+    <title>Evolving Vegan S2, Ep 1</title>
+</programme>
+<programme start="20251129003500 +0000" stop="20251129012500 +0000" channel="Global Trekker.mncvision">
+    <title>Evolving Vegan S2, Ep 2</title>
+</programme>
+<programme start="20251129012500 +0000" stop="20251129021500 +0000" channel="Global Trekker.mncvision">
+    <title>Evolving Vegan S2, Ep 2</title>
+</programme>
+<programme start="20251129021500 +0000" stop="20251129030500 +0000" channel="Global Trekker.mncvision">
+    <title>Evolving Vegan S2, Ep 4</title>
+</programme>
+<programme start="20251129030500 +0000" stop="20251129033000 +0000" channel="Global Trekker.mncvision">
+    <title>Food Trail S2, Ep 3</title>
+</programme>
+<programme start="20251129033000 +0000" stop="20251129035500 +0000" channel="Global Trekker.mncvision">
+    <title>Food Trail S2, Ep 4</title>
+</programme>
+<programme start="20251129035500 +0000" stop="20251129042000 +0000" channel="Global Trekker.mncvision">
+    <title>Food Trail S2, Ep 5</title>
+</programme>
+<programme start="20251129042000 +0000" stop="20251129044500 +0000" channel="Global Trekker.mncvision">
+    <title>Food Trail S2, Ep 6</title>
+</programme>
+<programme start="20251129044500 +0000" stop="20251129051000 +0000" channel="Global Trekker.mncvision">
+    <title>Food Trail S2, Ep 7</title>
+</programme>
+<programme start="20251129051000 +0000" stop="20251129053500 +0000" channel="Global Trekker.mncvision">
+    <title>Food Trail S2, Ep 8</title>
+</programme>
+<programme start="20251129053500 +0000" stop="20251129062500 +0000" channel="Global Trekker.mncvision">
+    <title>Evolving Vegan S2, Ep 5</title>
+</programme>
+<programme start="20251129062500 +0000" stop="20251129071500 +0000" channel="Global Trekker.mncvision">
+    <title>Evolving Vegan S2, Ep 6</title>
+</programme>
+<programme start="20251129071500 +0000" stop="20251129073000 +0000" channel="Global Trekker.mncvision">
+    <title>Taiwan Top 5, Ep 1</title>
+</programme>
+<programme start="20251129073000 +0000" stop="20251129074500 +0000" channel="Global Trekker.mncvision">
+    <title>Taiwan Top 5, Ep 2</title>
+</programme>
+<programme start="20251129074500 +0000" stop="20251129080000 +0000" channel="Global Trekker.mncvision">
+    <title>Taiwan Top 5, Ep 3</title>
+</programme>
+<programme start="20251129080000 +0000" stop="20251129081500 +0000" channel="Global Trekker.mncvision">
+    <title>Taiwan Top 5, Ep 4</title>
+</programme>
+<programme start="20251129081500 +0000" stop="20251129083000 +0000" channel="Global Trekker.mncvision">
+    <title>Taiwan Top 5, Ep 5</title>
+</programme>
+<programme start="20251129083000 +0000" stop="20251129084500 +0000" channel="Global Trekker.mncvision">
+    <title>Taiwan Top 5, Ep 6</title>
+</programme>
+<programme start="20251129084500 +0000" stop="20251129090000 +0000" channel="Global Trekker.mncvision">
+    <title>Taiwan Top 5, Ep 7</title>
+</programme>
+<programme start="20251129090000 +0000" stop="20251129091500 +0000" channel="Global Trekker.mncvision">
+    <title>Taiwan Top 5, Ep 8</title>
+</programme>
+<programme start="20251129091500 +0000" stop="20251129093000 +0000" channel="Global Trekker.mncvision">
+    <title>Taiwan Top 5, Ep 1</title>
+</programme>
+<programme start="20251129093000 +0000" stop="20251129095500 +0000" channel="Global Trekker.mncvision">
+    <title>Food Trail S2, Ep 3</title>
+</programme>
+<programme start="20251129095500 +0000" stop="20251129102000 +0000" channel="Global Trekker.mncvision">
+    <title>Food Trail S2, Ep 4</title>
+</programme>
+<programme start="20251129102000 +0000" stop="20251129104500 +0000" channel="Global Trekker.mncvision">
+    <title>Food Trail S2, Ep 5</title>
+</programme>
+<programme start="20251129104500 +0000" stop="20251129111000 +0000" channel="Global Trekker.mncvision">
+    <title>Food Trail S2, Ep 6</title>
+</programme>
+<programme start="20251129111000 +0000" stop="20251129113500 +0000" channel="Global Trekker.mncvision">
+    <title>Food Trail S2, Ep 7</title>
+</programme>
+<programme start="20251129113500 +0000" stop="20251129120000 +0000" channel="Global Trekker.mncvision">
+    <title>Food Trail S2, Ep 8</title>
+</programme>
+<programme start="20251129120000 +0000" stop="20251129121000 +0000" channel="Global Trekker.mncvision">
+    <title>Prawn Noodles And A Dream</title>
+</programme>
+<programme start="20251129121000 +0000" stop="20251129130000 +0000" channel="Global Trekker.mncvision">
+    <title>Wildest Survival S2, Ep 10</title>
+</programme>
+<programme start="20251129130000 +0000" stop="20251129140000 +0000" channel="Global Trekker.mncvision">
+    <title>Naledi: A Baby Elephant&#039;s Tale</title>
+</programme>
+<programme start="20251129140000 +0000" stop="20251129143000 +0000" channel="Global Trekker.mncvision">
+    <title>Wild Warrior Encounters, Ep 1</title>
+</programme>
+<programme start="20251129143000 +0000" stop="20251129150000 +0000" channel="Global Trekker.mncvision">
+    <title>Wild Warrior Encounters, Ep 2</title>
+</programme>
+<programme start="20251129150000 +0000" stop="20251129155000 +0000" channel="Global Trekker.mncvision">
+    <title>Yorkshire: A Year In..., Ep 4</title>
+</programme>
+<programme start="20251129155000 +0000" stop="20251129161500 +0000" channel="Global Trekker.mncvision">
+    <title>Extraordinary Dogs, Ep 1</title>
+</programme>
+<programme start="20251129161500 +0000" stop="20251129164000 +0000" channel="Global Trekker.mncvision">
+    <title>Extraordinary Dogs, Ep 2</title>
+</programme>
+<programme start="20251129164000 +0000" stop="20251128171000 +0000" channel="Global Trekker.mncvision">
+    <title>Extraordinary Dogs, Ep 3</title>
+</programme>
+<programme start="20251128173000 +0000" stop="20251128182000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Aerial Italy, Ep 1</title>
+</programme>
+<programme start="20251128182000 +0000" stop="20251128191000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Aerial Italy, Ep 2</title>
+</programme>
+<programme start="20251128191000 +0000" stop="20251128204000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Gameplay: Story Of Videogame</title>
+</programme>
+<programme start="20251128204000 +0000" stop="20251128211000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Hotel Chocolat, Ep 1</title>
+</programme>
+<programme start="20251128211000 +0000" stop="20251128220000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Hotel Chocolat, Ep 2</title>
+</programme>
+<programme start="20251128220000 +0000" stop="20251128225500 +0000" channel="Global Trekker HD.mncvision">
+    <title>Yorkshire: A Year In..., Ep 2</title>
+</programme>
+<programme start="20251128225500 +0000" stop="20251128234500 +0000" channel="Global Trekker HD.mncvision">
+    <title>Yorkshire: A Year In..., Ep 3</title>
+</programme>
+<programme start="20251128234500 +0000" stop="20251129003500 +0000" channel="Global Trekker HD.mncvision">
+    <title>Evolving Vegan S2, Ep 1</title>
+</programme>
+<programme start="20251129003500 +0000" stop="20251129012500 +0000" channel="Global Trekker HD.mncvision">
+    <title>Evolving Vegan S2, Ep 2</title>
+</programme>
+<programme start="20251129012500 +0000" stop="20251129021500 +0000" channel="Global Trekker HD.mncvision">
+    <title>Evolving Vegan S2, Ep 2</title>
+</programme>
+<programme start="20251129021500 +0000" stop="20251129030500 +0000" channel="Global Trekker HD.mncvision">
+    <title>Evolving Vegan S2, Ep 4</title>
+</programme>
+<programme start="20251129030500 +0000" stop="20251129033000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Food Trail S2, Ep 3</title>
+</programme>
+<programme start="20251129033000 +0000" stop="20251129035500 +0000" channel="Global Trekker HD.mncvision">
+    <title>Food Trail S2, Ep 4</title>
+</programme>
+<programme start="20251129035500 +0000" stop="20251129042000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Food Trail S2, Ep 5</title>
+</programme>
+<programme start="20251129042000 +0000" stop="20251129044500 +0000" channel="Global Trekker HD.mncvision">
+    <title>Food Trail S2, Ep 6</title>
+</programme>
+<programme start="20251129044500 +0000" stop="20251129051000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Food Trail S2, Ep 7</title>
+</programme>
+<programme start="20251129051000 +0000" stop="20251129053500 +0000" channel="Global Trekker HD.mncvision">
+    <title>Food Trail S2, Ep 8</title>
+</programme>
+<programme start="20251129053500 +0000" stop="20251129062500 +0000" channel="Global Trekker HD.mncvision">
+    <title>Evolving Vegan S2, Ep 5</title>
+</programme>
+<programme start="20251129062500 +0000" stop="20251129071500 +0000" channel="Global Trekker HD.mncvision">
+    <title>Evolving Vegan S2, Ep 6</title>
+</programme>
+<programme start="20251129071500 +0000" stop="20251129073000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Taiwan Top 5, Ep 1</title>
+</programme>
+<programme start="20251129073000 +0000" stop="20251129074500 +0000" channel="Global Trekker HD.mncvision">
+    <title>Taiwan Top 5, Ep 2</title>
+</programme>
+<programme start="20251129074500 +0000" stop="20251129080000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Taiwan Top 5, Ep 3</title>
+</programme>
+<programme start="20251129080000 +0000" stop="20251129081500 +0000" channel="Global Trekker HD.mncvision">
+    <title>Taiwan Top 5, Ep 4</title>
+</programme>
+<programme start="20251129081500 +0000" stop="20251129083000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Taiwan Top 5, Ep 5</title>
+</programme>
+<programme start="20251129083000 +0000" stop="20251129084500 +0000" channel="Global Trekker HD.mncvision">
+    <title>Taiwan Top 5, Ep 6</title>
+</programme>
+<programme start="20251129084500 +0000" stop="20251129090000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Taiwan Top 5, Ep 7</title>
+</programme>
+<programme start="20251129090000 +0000" stop="20251129091500 +0000" channel="Global Trekker HD.mncvision">
+    <title>Taiwan Top 5, Ep 8</title>
+</programme>
+<programme start="20251129091500 +0000" stop="20251129093000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Taiwan Top 5, Ep 1</title>
+</programme>
+<programme start="20251129093000 +0000" stop="20251129095500 +0000" channel="Global Trekker HD.mncvision">
+    <title>Food Trail S2, Ep 3</title>
+</programme>
+<programme start="20251129095500 +0000" stop="20251129102000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Food Trail S2, Ep 4</title>
+</programme>
+<programme start="20251129102000 +0000" stop="20251129104500 +0000" channel="Global Trekker HD.mncvision">
+    <title>Food Trail S2, Ep 5</title>
+</programme>
+<programme start="20251129104500 +0000" stop="20251129111000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Food Trail S2, Ep 6</title>
+</programme>
+<programme start="20251129111000 +0000" stop="20251129113500 +0000" channel="Global Trekker HD.mncvision">
+    <title>Food Trail S2, Ep 7</title>
+</programme>
+<programme start="20251129113500 +0000" stop="20251129120000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Food Trail S2, Ep 8</title>
+</programme>
+<programme start="20251129120000 +0000" stop="20251129121000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Prawn Noodles And A Dream</title>
+</programme>
+<programme start="20251129121000 +0000" stop="20251129130000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Wildest Survival S2, Ep 10</title>
+</programme>
+<programme start="20251129130000 +0000" stop="20251129140000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Naledi: A Baby Elephant&#039;s Tale</title>
+</programme>
+<programme start="20251129140000 +0000" stop="20251129143000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Wild Warrior Encounters, Ep 1</title>
+</programme>
+<programme start="20251129143000 +0000" stop="20251129150000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Wild Warrior Encounters, Ep 2</title>
+</programme>
+<programme start="20251129150000 +0000" stop="20251129155000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Yorkshire: A Year In..., Ep 4</title>
+</programme>
+<programme start="20251129155000 +0000" stop="20251129161500 +0000" channel="Global Trekker HD.mncvision">
+    <title>Extraordinary Dogs, Ep 1</title>
+</programme>
+<programme start="20251129161500 +0000" stop="20251129164000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Extraordinary Dogs, Ep 2</title>
+</programme>
+<programme start="20251129164000 +0000" stop="20251128171000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Extraordinary Dogs, Ep 3</title>
+</programme>
+<programme start="20251128170000 +0000" stop="20251128180000 +0000" channel="GTV.mncvision">
+    <title>Jelajah Mitos</title>
+</programme>
+<programme start="20251128180000 +0000" stop="20251128190000 +0000" channel="GTV.mncvision">
+    <title>Crime KV</title>
+</programme>
+<programme start="20251128190000 +0000" stop="20251128200000 +0000" channel="GTV.mncvision">
+    <title>Naik Enak Turun Ogah</title>
+</programme>
+<programme start="20251128200000 +0000" stop="20251128220000 +0000" channel="GTV.mncvision">
+    <title>Awas Ada Sule</title>
+</programme>
+<programme start="20251128220000 +0000" stop="20251128231500 +0000" channel="GTV.mncvision">
+    <title>Kisah Viral</title>
+</programme>
+<programme start="20251128231500 +0000" stop="20251128234500 +0000" channel="GTV.mncvision">
+    <title>Bima-S</title>
+</programme>
+<programme start="20251128234500 +0000" stop="20251129013000 +0000" channel="GTV.mncvision">
+    <title>SpongeBob SquarePants</title>
+</programme>
+<programme start="20251129013000 +0000" stop="20251129050000 +0000" channel="GTV.mncvision">
+    <title>SpongeBob SquarePants</title>
+</programme>
+<programme start="20251129050000 +0000" stop="20251129063000 +0000" channel="GTV.mncvision">
+    <title>Zak Storm</title>
+</programme>
+<programme start="20251129063000 +0000" stop="20251129070000 +0000" channel="GTV.mncvision">
+    <title>Bernard Bear</title>
+</programme>
+<programme start="20251129070000 +0000" stop="20251129074500 +0000" channel="GTV.mncvision">
+    <title>Bleach: Eternal Wounds</title>
+</programme>
+<programme start="20251129074500 +0000" stop="20251129083000 +0000" channel="GTV.mncvision">
+    <title>Generasi Emas Lotte 2025</title>
+</programme>
+<programme start="20251129083000 +0000" stop="20251129110000 +0000" channel="GTV.mncvision">
+    <title>SpongeBob SquarePants</title>
+</programme>
+<programme start="20251129110000 +0000" stop="20251129123000 +0000" channel="GTV.mncvision">
+    <title>New Family 100</title>
+</programme>
+<programme start="20251129123000 +0000" stop="20251129140000 +0000" channel="GTV.mncvision">
+    <title>The Bodyguard 2</title>
+</programme>
+<programme start="20251129140000 +0000" stop="20251129153000 +0000" channel="GTV.mncvision">
+    <title>Special Police &amp; Snake Revenge</title>
+</programme>
+<programme start="20251129153000 +0000" stop="20251129160000 +0000" channel="GTV.mncvision">
+    <title>Predator: PBS World C&#039;ship</title>
+</programme>
 <programme start="20251128170000 +0000" stop="20251128180000 +0000" channel="GTV HD.mncvision">
     <title>Jelajah Mitos</title>
 </programme>
@@ -5114,7 +5569,81 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20251129162500 +0000" stop="20251129165500 +0000" channel="KIX.mncvision">
     <title>Bangkok Storm</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20251128170000 +0000" stop="20251128180000 +0000" channel="Kompas TV.mncvision">
+    <title>Berita Utama</title>
+</programme>
+<programme start="20251128180000 +0000" stop="20251128193000 +0000" channel="Kompas TV.mncvision">
+    <title>Kompas Petang</title>
+</programme>
+<programme start="20251128193000 +0000" stop="20251128200000 +0000" channel="Kompas TV.mncvision">
+    <title>Kompas Malam</title>
+</programme>
+<programme start="20251128200000 +0000" stop="20251128210000 +0000" channel="Kompas TV.mncvision">
+    <title>Kalam Hati</title>
+</programme>
+<programme start="20251128210000 +0000" stop="20251128213000 +0000" channel="Kompas TV.mncvision">
+    <title>Borgol</title>
+</programme>
+<programme start="20251128213000 +0000" stop="20251129000000 +0000" channel="Kompas TV.mncvision">
+    <title>Kompas Pagi Akhir Pekan</title>
+</programme>
+<programme start="20251129000000 +0000" stop="20251129013000 +0000" channel="Kompas TV.mncvision">
+    <title>Sapa Indonesia Pagi</title>
+</programme>
+<programme start="20251129013000 +0000" stop="20251129020000 +0000" channel="Kompas TV.mncvision">
+    <title>Sasaran</title>
+</programme>
+<programme start="20251129020000 +0000" stop="20251129023000 +0000" channel="Kompas TV.mncvision">
+    <title>Jalan-Jalan</title>
+</programme>
+<programme start="20251129023000 +0000" stop="20251129030000 +0000" channel="Kompas TV.mncvision">
+    <title>Pop News</title>
+</programme>
+<programme start="20251129030000 +0000" stop="20251129033000 +0000" channel="Kompas TV.mncvision">
+    <title>Kompas Sepekan</title>
+</programme>
+<programme start="20251129033000 +0000" stop="20251129040000 +0000" channel="Kompas TV.mncvision">
+    <title>Cerita Rasa</title>
+</programme>
+<programme start="20251129040000 +0000" stop="20251129050000 +0000" channel="Kompas TV.mncvision">
+    <title>Kompas Siang</title>
+</programme>
+<programme start="20251129050000 +0000" stop="20251129053000 +0000" channel="Kompas TV.mncvision">
+    <title>Borgol</title>
+</programme>
+<programme start="20251129053000 +0000" stop="20251129060000 +0000" channel="Kompas TV.mncvision">
+    <title>News Or Hoax</title>
+</programme>
+<programme start="20251129060000 +0000" stop="20251129070000 +0000" channel="Kompas TV.mncvision">
+    <title>Dipo Investigasi</title>
+</programme>
+<programme start="20251129070000 +0000" stop="20251129080000 +0000" channel="Kompas TV.mncvision">
+    <title>Berita Utama</title>
+</programme>
+<programme start="20251129080000 +0000" stop="20251129090000 +0000" channel="Kompas TV.mncvision">
+    <title>Cerita Militer</title>
+</programme>
+<programme start="20251129090000 +0000" stop="20251129110000 +0000" channel="Kompas TV.mncvision">
+    <title>Kompas Petang</title>
+</programme>
+<programme start="20251129110000 +0000" stop="20251129120000 +0000" channel="Kompas TV.mncvision">
+    <title>Gelar Perkara</title>
+</programme>
+<programme start="20251129120000 +0000" stop="20251129130000 +0000" channel="Kompas TV.mncvision">
+    <title>Sapa Indonesia Malam</title>
+</programme>
+<programme start="20251129130000 +0000" stop="20251129140000 +0000" channel="Kompas TV.mncvision">
+    <title>Berita Utama</title>
+</programme>
+<programme start="20251129140000 +0000" stop="20251129150000 +0000" channel="Kompas TV.mncvision">
+    <title>Kompas Malam</title>
+</programme>
+<programme start="20251129150000 +0000" stop="20251129163000 +0000" channel="Kompas TV.mncvision">
+    <title>Rosi On Location</title>
+</programme>
+<programme start="20251129163000 +0000" stop="20251128170000 +0000" channel="Kompas TV.mncvision">
+    <title>Kilas Kompas</title>
+</programme>
 <programme start="20251128173000 +0000" stop="20251128183000 +0000" channel="LIFE.mncvision">
     <title>AnugerahNya</title>
 </programme>
@@ -7686,7 +8215,84 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20251129160000 +0000" stop="20251129163000 +0000" channel="SCTV HD.mncvision">
     <title>Tak Duren Maka Tak Sayang</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20251128170000 +0000" stop="20251128173000 +0000" channel="Sindo News TV.mncvision">
+    <title>iNews Sport</title>
+</programme>
+<programme start="20251128173000 +0000" stop="20251128180000 +0000" channel="Sindo News TV.mncvision">
+    <title>New Top Files</title>
+</programme>
+<programme start="20251128180000 +0000" stop="20251128190000 +0000" channel="Sindo News TV.mncvision">
+    <title>iNews Malam</title>
+</programme>
+<programme start="20251128190000 +0000" stop="20251128200000 +0000" channel="Sindo News TV.mncvision">
+    <title>SINDO Prime</title>
+</programme>
+<programme start="20251128200000 +0000" stop="20251128210000 +0000" channel="Sindo News TV.mncvision">
+    <title>iNews Sore</title>
+</programme>
+<programme start="20251128210000 +0000" stop="20251128220000 +0000" channel="Sindo News TV.mncvision">
+    <title>SINDO Malam</title>
+</programme>
+<programme start="20251128220000 +0000" stop="20251128223000 +0000" channel="Sindo News TV.mncvision">
+    <title>Ayat-Ayat Langit</title>
+</programme>
+<programme start="20251128223000 +0000" stop="20251128233000 +0000" channel="Sindo News TV.mncvision">
+    <title>Lintas iNews Pagi</title>
+</programme>
+<programme start="20251128233000 +0000" stop="20251129003000 +0000" channel="Sindo News TV.mncvision">
+    <title>iNews Today</title>
+</programme>
+<programme start="20251129003000 +0000" stop="20251129020000 +0000" channel="Sindo News TV.mncvision">
+    <title>SINDO Today</title>
+</programme>
+<programme start="20251129020000 +0000" stop="20251129030000 +0000" channel="Sindo News TV.mncvision">
+    <title>Special Report</title>
+</programme>
+<programme start="20251129030000 +0000" stop="20251129033000 +0000" channel="Sindo News TV.mncvision">
+    <title>iNews Sport</title>
+</programme>
+<programme start="20251129033000 +0000" stop="20251129050000 +0000" channel="Sindo News TV.mncvision">
+    <title>SINDO Siang</title>
+</programme>
+<programme start="20251129050000 +0000" stop="20251129053000 +0000" channel="Sindo News TV.mncvision">
+    <title>Food Diary</title>
+</programme>
+<programme start="20251129053000 +0000" stop="20251129060000 +0000" channel="Sindo News TV.mncvision">
+    <title>I Love Indonesia</title>
+</programme>
+<programme start="20251129060000 +0000" stop="20251129073000 +0000" channel="Sindo News TV.mncvision">
+    <title>SINDO Today</title>
+</programme>
+<programme start="20251129073000 +0000" stop="20251129083000 +0000" channel="Sindo News TV.mncvision">
+    <title>SINDO Siang</title>
+</programme>
+<programme start="20251129083000 +0000" stop="20251129093000 +0000" channel="Sindo News TV.mncvision">
+    <title>Top Issue</title>
+</programme>
+<programme start="20251129093000 +0000" stop="20251129110000 +0000" channel="Sindo News TV.mncvision">
+    <title>SINDO Sore</title>
+</programme>
+<programme start="20251129110000 +0000" stop="20251129120000 +0000" channel="Sindo News TV.mncvision">
+    <title>SINDO Files Weekend</title>
+</programme>
+<programme start="20251129120000 +0000" stop="20251129130000 +0000" channel="Sindo News TV.mncvision">
+    <title>One On One</title>
+</programme>
+<programme start="20251129130000 +0000" stop="20251129133000 +0000" channel="Sindo News TV.mncvision">
+    <title>OMG</title>
+</programme>
+<programme start="20251129133000 +0000" stop="20251129143000 +0000" channel="Sindo News TV.mncvision">
+    <title>SINDO Malam</title>
+</programme>
+<programme start="20251129143000 +0000" stop="20251129153000 +0000" channel="Sindo News TV.mncvision">
+    <title>iNews Room Weekend</title>
+</programme>
+<programme start="20251129153000 +0000" stop="20251129163000 +0000" channel="Sindo News TV.mncvision">
+    <title>Top Issue</title>
+</programme>
+<programme start="20251129163000 +0000" stop="20251128170000 +0000" channel="Sindo News TV.mncvision">
+    <title>Special Report</title>
+</programme>
 <programme start="20251128170000 +0000" stop="20251128173000 +0000" channel="Sindo News TV HD.mncvision">
     <title>iNews Sport</title>
 </programme>
