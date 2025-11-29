@@ -1,7 +1,3 @@
-<programme start="20251129130000 +0700" stop="20251129140000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>UEFA Champions League Highlights 2025-26</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251129140000 +0700" stop="20251129150000 +0700" channel="COSMOTE Sport 1 HD">
     <title>UEFA Champions League Highlights 2025-26</title>
     <desc>Live: Tidak</desc>
@@ -86,10 +82,6 @@
     <title>Football: ACF Fiorentina - AEK</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251129110000 +0700" stop="20251129131000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: AEL Novibet - OFI</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251129131000 +0700" stop="20251129151000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Olympiacos - Real Madrid CF</title>
     <desc>Live: Tidak</desc>
@@ -160,6 +152,14 @@
 </programme>
 <programme start="20251130120000 +0700" stop="20251130140000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Juventus Football Club - Cagliari</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251130140000 +0700" stop="20251130143000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Sports Classics: Sporting Countdowns</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251130143000 +0700" stop="20251130163000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: AC Milan - SS Lazio</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251129110000 +0700" stop="20251129141000 +0700" channel="COSMOTE Sport 3 HD">
@@ -244,6 +244,10 @@
 </programme>
 <programme start="20251130120000 +0700" stop="20251130140000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: West Bromwich Albion - Swansea City</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251130140000 +0700" stop="20251130163000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Palmeiras - Flamengo</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251129130000 +0700" stop="20251129145500 +0700" channel="COSMOTE Sport 4 HD">
@@ -418,8 +422,8 @@
     <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251129110000 +0700" stop="20251129140000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Authentic Athens Marathon 2025</title>
+<programme start="20251130142500 +0700" stop="20251130153000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251129140000 +0700" stop="20251129143000 +0700" channel="COSMOTE Sport 6 HD">

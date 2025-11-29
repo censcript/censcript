@@ -2782,7 +2782,7 @@
 <programme start="20251129113000 +0000" stop="20251129140000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
     <title>Live 2. BL: Multiview, 14. Spieltag, Samstag</title>
 </programme>
-<programme start="20251129140000 +0000" stop="20251129163000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
+<programme start="20251129140000 +0000" stop="20251129170600 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
     <title>Live BL: Multiview, 12. Spieltag</title>
 </programme>
 <programme start="20251129111000 +0000" stop="20251129113000 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
@@ -2791,7 +2791,7 @@
 <programme start="20251129113000 +0000" stop="20251129140000 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
     <title>Live 2. BL: Samstags-Konferenz, 14. Spieltag</title>
 </programme>
-<programme start="20251129140000 +0000" stop="20251129144500 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
+<programme start="20251129140000 +0000" stop="20251129152100 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
     <title>Live 2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 14. Spieltag, Samstag</title>
 </programme>
 <programme start="20251129001500 +0000" stop="20251129004500 +0000" channel="Sky Sport F1 HD.skyde">
