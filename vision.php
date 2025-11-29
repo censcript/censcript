@@ -676,9 +676,6 @@
 <programme start="20251129013000 +0000" stop="20251129030000 +0000" channel="ANTV.vision">
 <title>Zeynep</title>
 </programme>
-<programme start="20251129030000 +0000" stop="20251129063000 +0000" channel="ANTV.vision">
-<title>Krrish 3</title>
-</programme>
 <programme start="20251129063000 +0000" stop="20251129080000 +0000" channel="ANTV.vision">
 <title>Cinta Keluarga Pandya</title>
 </programme>
@@ -739,9 +736,6 @@
 <programme start="20251129010000 +0000" stop="20251129013000 +0000" channel="TVOne.vision">
 <title>Inspirasi Pagi</title>
 </programme>
-<programme start="20251129013000 +0000" stop="20251129020000 +0000" channel="TVOne.vision">
-<title>Oase Indonesia</title>
-</programme>
 <programme start="20251129020000 +0000" stop="20251129023000 +0000" channel="TVOne.vision">
 <title>Jajago</title>
 </programme>
@@ -771,9 +765,6 @@
 </programme>
 <programme start="20251129090000 +0000" stop="20251129110000 +0000" channel="TVOne.vision">
 <title>Kabar Petang (L)</title>
-</programme>
-<programme start="20251129110000 +0000" stop="20251129125700 +0000" channel="TVOne.vision">
-<title>Apa Kabar Indonesia (L)</title>
 </programme>
 <programme start="20251129125700 +0000" stop="20251129130000 +0000" channel="TVOne.vision">
 <title>Kabar Terkini</title>
@@ -1496,5 +1487,14 @@
 <title>TVRI</title>
 </programme>
 <programme start="20251129155000 +0000" stop="20251129175000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251129175000 +0000" stop="20251129194500 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251129194500 +0000" stop="20251129212500 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251129212500 +0000" stop="20251129230000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
