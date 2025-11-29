@@ -2593,7 +2593,7 @@
 <programme start="20251129153000 +0000" stop="20251129155000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: Admiral BL</title>
 </programme>
-<programme start="20251129155000 +0000" stop="20251129180000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20251129155000 +0000" stop="20251129183600 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live Admiral BL: FK Austria Wien - WSG Tirol, 15. Runde</title>
 </programme>
 <programme start="20251129153000 +0000" stop="20251129155000 +0000" channel="Sky Sport Austria 3 HD.skyde">
@@ -2782,7 +2782,7 @@
 <programme start="20251129113000 +0000" stop="20251129140000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
     <title>Live 2. BL: Multiview, 14. Spieltag, Samstag</title>
 </programme>
-<programme start="20251129140000 +0000" stop="20251129170600 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
+<programme start="20251129140000 +0000" stop="20251129163000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
     <title>Live BL: Multiview, 12. Spieltag</title>
 </programme>
 <programme start="20251129111000 +0000" stop="20251129113000 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
@@ -2791,7 +2791,7 @@
 <programme start="20251129113000 +0000" stop="20251129140000 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
     <title>Live 2. BL: Samstags-Konferenz, 14. Spieltag</title>
 </programme>
-<programme start="20251129140000 +0000" stop="20251129152100 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
+<programme start="20251129140000 +0000" stop="20251129144500 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
     <title>Live 2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 14. Spieltag, Samstag</title>
 </programme>
 <programme start="20251129001500 +0000" stop="20251129004500 +0000" channel="Sky Sport F1 HD.skyde">
@@ -3271,7 +3271,7 @@
 <programme start="20251129212500 +0000" stop="20251129214500 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: Basketball NBA</title>
 </programme>
-<programme start="20251129214500 +0000" stop="20251130003000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20251129214500 +0000" stop="20251130023600 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Boston Celtics @ Minnesota Timberwolves</title>
 </programme>
 <programme start="20251128230000 +0000" stop="20251128234500 +0000" channel="SYFY HD.skyde">
@@ -3478,16 +3478,16 @@
 <programme start="20251129052500 +0000" stop="20251129055500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Die Nanny</title>
 </programme>
-<programme start="20251129055500 +0000" stop="20251129062000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251129055500 +0000" stop="20251129062500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Die Nanny</title>
 </programme>
-<programme start="20251129062000 +0000" stop="20251129065000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251129062500 +0000" stop="20251129065000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Die Nanny</title>
 </programme>
-<programme start="20251129065000 +0000" stop="20251129071500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251129065000 +0000" stop="20251129072000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Die Nanny</title>
 </programme>
-<programme start="20251129071500 +0000" stop="20251129074500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251129072000 +0000" stop="20251129074500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Die Nanny</title>
 </programme>
 <programme start="20251129074500 +0000" stop="20251129081000 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3625,10 +3625,10 @@
 <programme start="20251129191500 +0000" stop="20251129210500 +0000" channel="Warner TV Film.skyde">
     <title>Eddie the Eagle - Alles ist möglich</title>
 </programme>
-<programme start="20251129210500 +0000" stop="20251129225500 +0000" channel="Warner TV Film.skyde">
+<programme start="20251129210500 +0000" stop="20251129225000 +0000" channel="Warner TV Film.skyde">
     <title>Demolition - Lieben und Leben</title>
 </programme>
-<programme start="20251129225500 +0000" stop="20251130002000 +0000" channel="Warner TV Film.skyde">
+<programme start="20251129225000 +0000" stop="20251130001500 +0000" channel="Warner TV Film.skyde">
     <title>The Big Wedding</title>
 </programme>
 <programme start="20251129001000 +0000" stop="20251129025000 +0000" channel="Warner TV Film HD.skyde">
@@ -3718,16 +3718,16 @@
 <programme start="20251129121000 +0000" stop="20251129130500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Fringe</title>
 </programme>
-<programme start="20251129130500 +0000" stop="20251129135500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20251129130500 +0000" stop="20251129140000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Fringe</title>
 </programme>
-<programme start="20251129135500 +0000" stop="20251129145000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20251129140000 +0000" stop="20251129145000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Fringe</title>
 </programme>
-<programme start="20251129145000 +0000" stop="20251129154000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20251129145000 +0000" stop="20251129154500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Fringe</title>
 </programme>
-<programme start="20251129154000 +0000" stop="20251129163500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20251129154500 +0000" stop="20251129163500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Fringe</title>
 </programme>
 <programme start="20251129163500 +0000" stop="20251129173000 +0000" channel="Warner TV Serie HD.skyde">
