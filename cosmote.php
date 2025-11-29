@@ -1,11 +1,3 @@
-<programme start="20251130025500 +0700" stop="20251130032500 +0700" channel="COSMOTE Sport 1 HD">
-    <title>UEFA Champions League Magazine 2025-26 E13</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251130032500 +0700" stop="20251130035500 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Game R1 S6 E14</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251130035500 +0700" stop="20251130060500 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Kifisia - Panserraikos</title>
     <desc>Live: Tidak</desc>
@@ -68,6 +60,10 @@
 </programme>
 <programme start="20251201020000 +0700" stop="20251201041500 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Panathinaikos - AEK (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
+<programme start="20251201041500 +0700" stop="20251201063000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Sportshow (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20251130024500 +0700" stop="20251130044500 +0700" channel="COSMOTE Sport 2 HD">
@@ -138,12 +134,8 @@
     <title>Football: AS Roma - SSC Napoli (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251130030000 +0700" stop="20251130033000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Copa Sudamericana 2025 - Highlights</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251130033000 +0700" stop="20251130040000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Copa Libertadores 2025 - Highlights</title>
+<programme start="20251201044500 +0700" stop="20251201070000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Panathinaikos - AEK</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251130040000 +0700" stop="20251130063000 +0700" channel="COSMOTE Sport 3 HD">
@@ -218,10 +210,6 @@
     <title>Football: FC Porto - Estoril (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251130020000 +0700" stop="20251130040000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Fenerbahce - Bursaspor</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251130040000 +0700" stop="20251130050000 +0700" channel="COSMOTE Sport 4 HD">
     <title>NBA Specials: Basketball Stories</title>
     <desc>Live: Tidak</desc>
@@ -274,24 +262,20 @@
     <title>Basketball: Utah Jazz - Houston Rockets (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251130030000 +0700" stop="20251130040000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>DTM</title>
+<programme start="20251130040000 +0700" stop="20251130061000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: Extreme E 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251130040000 +0700" stop="20251130053000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>eSports: 2025 MotoGP eChampionship Global Series</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251130053000 +0700" stop="20251130063000 +0700" channel="COSMOTE Sport 5 HD">
+<programme start="20251130061000 +0700" stop="20251130071000 +0700" channel="COSMOTE Sport 5 HD">
     <title>WRC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251130063000 +0700" stop="20251130080500 +0700" channel="COSMOTE Sport 5 HD">
+<programme start="20251130071000 +0700" stop="20251130084500 +0700" channel="COSMOTE Sport 5 HD">
     <title>WRC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251130080500 +0700" stop="20251130093500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>eSports: 2025 MotoGP eChampionship Global Series</title>
+<programme start="20251130084500 +0700" stop="20251130093500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251130093500 +0700" stop="20251130100500 +0700" channel="COSMOTE Sport 5 HD">
@@ -322,16 +306,12 @@
     <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251130153000 +0700" stop="20251130160000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251130160000 +0700" stop="20251130165500 +0700" channel="COSMOTE Sport 5 HD">
+<programme start="20251130153000 +0700" stop="20251130161500 +0700" channel="COSMOTE Sport 5 HD">
     <title>2025 GT World Challenge Europe</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251130165500 +0700" stop="20251130182500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>eSports: 2025 MotoGP eChampionship Global Series</title>
+<programme start="20251130161500 +0700" stop="20251130182500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: Extreme E 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251130182500 +0700" stop="20251130194500 +0700" channel="COSMOTE Sport 5 HD">
@@ -372,6 +352,14 @@
 </programme>
 <programme start="20251201033000 +0700" stop="20251201040000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Extreme E - Highlights 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251201040000 +0700" stop="20251201043000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Sports Classics: Gearing Up 2025 E11</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251201043000 +0700" stop="20251201051500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251130020000 +0700" stop="20251130043000 +0700" channel="COSMOTE Sport 6 HD">
@@ -604,6 +592,10 @@
 </programme>
 <programme start="20251201010000 +0700" stop="20251201042500 +0700" channel="COSMOTE Sport 9 HD">
     <title>American Football: Carolina Panthers - Los Angeles Rams (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
+<programme start="20251201042500 +0700" stop="20251201075000 +0700" channel="COSMOTE Sport 9 HD">
+    <title>American Football: Pittsburgh Steelers - Buffalo Bills (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 No EPG found for COSMOTE Sport 10 HD
