@@ -766,6 +766,9 @@
 <programme start="20251129090000 +0000" stop="20251129110000 +0000" channel="TVOne.vision">
 <title>Kabar Petang (L)</title>
 </programme>
+<programme start="20251129110000 +0000" stop="20251129125700 +0000" channel="TVOne.vision">
+<title>Apa Kabar Indonesia (L)</title>
+</programme>
 <programme start="20251129125700 +0000" stop="20251129130000 +0000" channel="TVOne.vision">
 <title>Kabar Terkini</title>
 </programme>
@@ -1493,8 +1496,5 @@
 <title>TVRI</title>
 </programme>
 <programme start="20251129194500 +0000" stop="20251129212500 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20251129212500 +0000" stop="20251129230000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>

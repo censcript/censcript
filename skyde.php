@@ -2530,6 +2530,66 @@
 <programme start="20251129220000 +0000" stop="20251129233500 +0000" channel="Sky Showcase HD.skyde">
     <title>Nord bei Nordwest: Auf der Flucht</title>
 </programme>
+<programme start="20251128230000 +0000" stop="20251129004500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Fußball: Klassiker der Woche: ASK - SCR (2019/20)</title>
+</programme>
+<programme start="20251129004500 +0000" stop="20251129011500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>UEFA CL: Magazin</title>
+</programme>
+<programme start="20251129011500 +0000" stop="20251129014500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: 90in30: STU - ASK, 14. Runde</title>
+</programme>
+<programme start="20251129014500 +0000" stop="20251129034500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>UEFA ECL: Rakow Czestochowa - SK Rapid, Ligaphase, 4. Spieltag</title>
+</programme>
+<programme start="20251129034500 +0000" stop="20251129054500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: SK Rapid - Grazer AK 1902, 14. Runde</title>
+</programme>
+<programme start="20251129054500 +0000" stop="20251129073000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Fußball: Klassiker der Woche: ASK - SCR (2019/20)</title>
+</programme>
+<programme start="20251129073000 +0000" stop="20251129100000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Junioren: Portugal - Österreich, FIFA U-17 WM 2025, Finale</title>
+</programme>
+<programme start="20251129100000 +0000" stop="20251129104500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Fußball: Herzog gegen Herzig - Die Next Generation Show (Grazer SC Straßenbahn)</title>
+</programme>
+<programme start="20251129104500 +0000" stop="20251129111500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: ASAT Kompakt, 14. Runde</title>
+</programme>
+<programme start="20251129111500 +0000" stop="20251129121500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Der UEFA Super Donnerstag: Alle Spiele, alle Tore, Ligaphase</title>
+</programme>
+<programme start="20251129121500 +0000" stop="20251129140000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Fußball: Klassiker der Woche: ASK - SCR (2019/20)</title>
+</programme>
+<programme start="20251129140000 +0000" stop="20251129143000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: 90in30: STU - ASK, 14. Runde</title>
+</programme>
+<programme start="20251129143000 +0000" stop="20251129150000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>UEFA CL: Magazin</title>
+</programme>
+<programme start="20251129150000 +0000" stop="20251129153000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: ASAT Kompakt, 14. Runde</title>
+</programme>
+<programme start="20251129153000 +0000" stop="20251129180000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Live Admiral BL: Samstags-Konferenz, 15. Runde</title>
+</programme>
+<programme start="20251129180000 +0000" stop="20251129190000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Live Admiral BL: Alle Spiele, alle Tore 15. Runde (Samstag)</title>
+</programme>
+<programme start="20251129190000 +0000" stop="20251129193000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>UEFA CL: Magazin</title>
+</programme>
+<programme start="20251129193000 +0000" stop="20251129195000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>PL: The Greatest Solo Goals</title>
+</programme>
+<programme start="20251129195000 +0000" stop="20251129220000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Live PL: Tottenham Hotspur - FC Fulham, 13. Spieltag</title>
+</programme>
+<programme start="20251129220000 +0000" stop="20251129230000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: Alle Spiele, alle Tore 15. Runde (Samstag)</title>
+</programme>
 <programme start="20251129153000 +0000" stop="20251129155000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: Admiral BL</title>
 </programme>
