@@ -2086,14 +2086,29 @@
     <programme start="20251128200000 +0000" stop="20251128220000 +0000" channel="KTV HD.starhub">
         <title>Information Not Available</title>
     </programme>
-    <programme start="20251128220000 +0000" stop="20251129040000 +0000" channel="KTV HD.starhub">
-        <title>Information Not Available</title>
+    <programme start="20251128223000 +0000" stop="20251129010000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Sivanda Kangal</title>
     </programme>
-    <programme start="20251129040000 +0000" stop="20251129100000 +0000" channel="KTV HD.starhub">
-        <title>Information Not Available</title>
+    <programme start="20251129010000 +0000" stop="20251129013000 +0000" channel="KTV HD.starhub">
+        <title>Fillers</title>
     </programme>
-    <programme start="20251129100000 +0000" stop="20251129160000 +0000" channel="KTV HD.starhub">
-        <title>Information Not Available</title>
+    <programme start="20251129013000 +0000" stop="20251129043000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Kaalai</title>
+    </programme>
+    <programme start="20251129043000 +0000" stop="20251129063000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Naane Varuven</title>
+    </programme>
+    <programme start="20251129063000 +0000" stop="20251129083000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Billa II</title>
+    </programme>
+    <programme start="20251129083000 +0000" stop="20251129103000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Sanguchakkaram</title>
+    </programme>
+    <programme start="20251129103000 +0000" stop="20251129133000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Nallavanukku Nallavan</title>
+    </programme>
+    <programme start="20251129133000 +0000" stop="20251129170000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Marudhu</title>
     </programme>
     <programme start="20251128155300 +0000" stop="20251128180000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>TotalEnergies CAF Champions League 2025/26: Rivers vs RS Berkane (Live)</title>
@@ -6622,19 +6637,19 @@
     <programme start="20251129030800 +0000" stop="20251129053500 +0000" channel="SONY MAX.starhub">
         <title>Lage Raho Munna Bhai</title>
     </programme>
-    <programme start="20251129053500 +0000" stop="20251129073900 +0000" channel="SONY MAX.starhub">
+    <programme start="20251129053500 +0000" stop="20251129074000 +0000" channel="SONY MAX.starhub">
         <title>Sadak</title>
     </programme>
-    <programme start="20251129073900 +0000" stop="20251129095500 +0000" channel="SONY MAX.starhub">
+    <programme start="20251129074000 +0000" stop="20251129095500 +0000" channel="SONY MAX.starhub">
         <title>Batla House</title>
     </programme>
-    <programme start="20251129095500 +0000" stop="20251129120000 +0000" channel="SONY MAX.starhub">
+    <programme start="20251129095500 +0000" stop="20251129115900 +0000" channel="SONY MAX.starhub">
         <title>Saale Aashiq</title>
     </programme>
-    <programme start="20251129120000 +0000" stop="20251129144100 +0000" channel="SONY MAX.starhub">
+    <programme start="20251129115900 +0000" stop="20251129141500 +0000" channel="SONY MAX.starhub">
         <title>Binny &amp; Family</title>
     </programme>
-    <programme start="20251129144100 +0000" stop="20251129164200 +0000" channel="SONY MAX.starhub">
+    <programme start="20251129141500 +0000" stop="20251129161500 +0000" channel="SONY MAX.starhub">
         <title>Bewakoofiyaan</title>
     </programme>
     <programme start="20251128160000 +0000" stop="20251128163000 +0000" channel="Sky News HD.starhub">
@@ -7882,10 +7897,10 @@
     <programme start="20251129000000 +0000" stop="20251129013000 +0000" channel="Asianet Movies.starhub">
         <title>The Great Indian Kitchen</title>
     </programme>
-    <programme start="20251129013000 +0000" stop="20251129043000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251129013000 +0000" stop="20251129042500 +0000" channel="Asianet Movies.starhub">
         <title>Teja Bhai &amp; Family</title>
     </programme>
-    <programme start="20251129043000 +0000" stop="20251129073000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251129042500 +0000" stop="20251129073000 +0000" channel="Asianet Movies.starhub">
         <title>Baba Kalyani</title>
     </programme>
     <programme start="20251129073000 +0000" stop="20251129103000 +0000" channel="Asianet Movies.starhub">
@@ -7894,7 +7909,7 @@
     <programme start="20251129103000 +0000" stop="20251129133000 +0000" channel="Asianet Movies.starhub">
         <title>Adi Kapyare Koottamani</title>
     </programme>
-    <programme start="20251129133000 +0000" stop="20251129163000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251129133000 +0000" stop="20251129162000 +0000" channel="Asianet Movies.starhub">
         <title>Sir Madam</title>
     </programme>
     <programme start="20251128160000 +0000" stop="20251128163000 +0000" channel="Astro Warna HD.starhub">
