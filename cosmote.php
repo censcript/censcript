@@ -74,13 +74,9 @@
     <title>Sportshow (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251130004500 +0700" stop="20251130011500 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Sports Classics: My Sporting Moment</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251130011500 +0700" stop="20251130014500 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Sports Classics: Sporting Countdowns</title>
-    <desc>Live: Tidak</desc>
+<programme start="20251201020000 +0700" stop="20251201041500 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: Panathinaikos - AEK (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20251130014500 +0700" stop="20251130021500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Sports Classics: My Sporting Moment</title>
@@ -150,8 +146,12 @@
     <title>Football: Atalanta - ACF Fiorentina (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251130000000 +0700" stop="20251130020000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Juventus Football Club - Cagliari (L)</title>
+<programme start="20251201020000 +0700" stop="20251201024500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Sports Classics: My Sporting Moment</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251201024500 +0700" stop="20251201044500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: AS Roma - SSC Napoli (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20251130020000 +0700" stop="20251130023000 +0700" channel="COSMOTE Sport 3 HD">
@@ -232,10 +232,6 @@
 </programme>
 <programme start="20251201010000 +0700" stop="20251201030000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Sporting CP - CF Estrela de Amadora (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20251130000000 +0700" stop="20251130020000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Football: Anorthosis Famagusta - APOEL (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20251130020000 +0700" stop="20251130040000 +0700" channel="COSMOTE Sport 4 HD">
@@ -384,10 +380,6 @@
 </programme>
 <programme start="20251201012500 +0700" stop="20251201030000 +0700" channel="COSMOTE Sport 5 HD">
     <title>WRC 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251130010000 +0700" stop="20251130020000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Sports Classics: 2025 Outdoor Specials</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251130020000 +0700" stop="20251130043000 +0700" channel="COSMOTE Sport 6 HD">
