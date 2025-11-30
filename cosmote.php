@@ -110,8 +110,8 @@
     <title>Football: Bologna - Cremonese (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251201030000 +0700" stop="20251201033000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Sports Highlights</title>
+<programme start="20251202044500 +0700" stop="20251202070000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Panathinaikos - AEK</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251201033000 +0700" stop="20251201053000 +0700" channel="COSMOTE Sport 3 HD">
@@ -226,12 +226,8 @@
     <title>Basketball: Utah Jazz - Houston Rockets</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251201030000 +0700" stop="20251201033000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251201033000 +0700" stop="20251201040000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Extreme E - Highlights 2025</title>
+<programme start="20251202043000 +0700" stop="20251202070000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Cleveland Cavaliers - Boston Celtics</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251201040000 +0700" stop="20251201043000 +0700" channel="COSMOTE Sport 5 HD">
@@ -330,6 +326,14 @@
     <title>2025 GT World Challenge Europe</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251202041000 +0700" stop="20251202044000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Extreme E - Highlights 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251202044000 +0700" stop="20251202054000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Highlights: 2025 Extreme H</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251201030000 +0700" stop="20251201060000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Fight Sports: Oktagon 2025</title>
     <desc>Live: Tidak</desc>
@@ -392,6 +396,10 @@
 </programme>
 <programme start="20251202030000 +0700" stop="20251202040000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Football: Greece - USA</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251202040000 +0700" stop="20251202060000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: ATP Challenger 50 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251201030000 +0700" stop="20251201050000 +0700" channel="COSMOTE Sport 7 HD">
