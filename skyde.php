@@ -1159,35 +1159,32 @@
 <programme start="20251130221500 +0000" stop="20251130231000 +0000" channel="HISTORY Channel HD.skyde">
     <title>Britanniens Mythen und Legenden</title>
 </programme>
-<programme start="20251129230000 +0000" stop="20251130010000 +0000" channel="Jukebox.skyde">
-    <title>PARTY BOX</title>
+<programme start="20251203230000 +0000" stop="20251204010000 +0000" channel="Jukebox.skyde">
+    <title>BACK TO ... 2015</title>
 </programme>
-<programme start="20251130010000 +0000" stop="20251130020000 +0000" channel="Jukebox.skyde">
-    <title>BACK TO ... GROOVE</title>
+<programme start="20251204010000 +0000" stop="20251204020000 +0000" channel="Jukebox.skyde">
+    <title>ROCK</title>
 </programme>
-<programme start="20251130020000 +0000" stop="20251130050000 +0000" channel="Jukebox.skyde">
+<programme start="20251204020000 +0000" stop="20251204050000 +0000" channel="Jukebox.skyde">
     <title>NIGHTSHIFT</title>
 </programme>
-<programme start="20251130050000 +0000" stop="20251130110000 +0000" channel="Jukebox.skyde">
+<programme start="20251204050000 +0000" stop="20251204110000 +0000" channel="Jukebox.skyde">
     <title>MORNING GLORY</title>
 </programme>
-<programme start="20251130110000 +0000" stop="20251130130000 +0000" channel="Jukebox.skyde">
-    <title>JUKEBOX NEWS</title>
-</programme>
-<programme start="20251130130000 +0000" stop="20251130150000 +0000" channel="Jukebox.skyde">
+<programme start="20251204110000 +0000" stop="20251204130000 +0000" channel="Jukebox.skyde">
     <title>JUKEBOX TOP 25</title>
 </programme>
-<programme start="20251130150000 +0000" stop="20251130170000 +0000" channel="Jukebox.skyde">
-    <title>JUKEBOX DANCE</title>
+<programme start="20251204130000 +0000" stop="20251204170000 +0000" channel="Jukebox.skyde">
+    <title>JUKEBOX TRENDS</title>
 </programme>
-<programme start="20251130170000 +0000" stop="20251130190000 +0000" channel="Jukebox.skyde">
-    <title>JUKEBOX GROOVE</title>
-</programme>
-<programme start="20251130190000 +0000" stop="20251130210000 +0000" channel="Jukebox.skyde">
-    <title>#1S</title>
-</programme>
-<programme start="20251130210000 +0000" stop="20251130230000 +0000" channel="Jukebox.skyde">
+<programme start="20251204170000 +0000" stop="20251204190000 +0000" channel="Jukebox.skyde">
     <title>LOGOUT</title>
+</programme>
+<programme start="20251204190000 +0000" stop="20251204210000 +0000" channel="Jukebox.skyde">
+    <title>JUKEBOX TOP 50 MIX</title>
+</programme>
+<programme start="20251204210000 +0000" stop="20251204230000 +0000" channel="Jukebox.skyde">
+    <title>JUKEBOX GROOVE</title>
 </programme>
 <programme start="20251129231000 +0000" stop="20251130000000 +0000" channel="Motorvision+.skyde">
     <title>UK Rally Show 2024</title>
