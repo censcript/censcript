@@ -772,6 +772,9 @@
 <programme start="20251130023000 +0000" stop="20251130030000 +0000" channel="TVOne.vision">
 <title>Xpose</title>
 </programme>
+<programme start="20251130030000 +0000" stop="20251130033000 +0000" channel="TVOne.vision">
+<title>Dunia Dalam Kamera</title>
+</programme>
 <programme start="20251130033000 +0000" stop="20251130040000 +0000" channel="TVOne.vision">
 <title>Indonesia Plus</title>
 </programme>
@@ -1494,7 +1497,4 @@
 </programme>
 <programme start="20251130123000 +0000" stop="20251130130000 +0000" channel="JAK TV.vision">
 <title>Rezeki Tanah</title>
-</programme>
-<programme start="20251130130000 +0000" stop="20251130140000 +0000" channel="JAK TV.vision">
-<title>Medika Natura</title>
 </programme>
