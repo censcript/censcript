@@ -487,9 +487,6 @@
 <programme start="20251130091500 +0000" stop="20251130100000 +0000" channel="Trans TV.vision">
 <title>Sehari Jadi Ratu</title>
 </programme>
-<programme start="20251130100000 +0000" stop="20251130103000 +0000" channel="Trans TV.vision">
-<title>Termangu-Mangu</title>
-</programme>
 <programme start="20251130103000 +0000" stop="20251130114500 +0000" channel="Trans TV.vision">
 <title>Bikin Laper</title>
 </programme>
@@ -670,14 +667,8 @@
 <programme start="20251130013000 +0000" stop="20251130030000 +0000" channel="ANTV.vision">
 <title>Zeynep</title>
 </programme>
-<programme start="20251130030000 +0000" stop="20251130063000 +0000" channel="ANTV.vision">
-<title>Jab Tak Hai Jaan</title>
-</programme>
 <programme start="20251130063000 +0000" stop="20251130080000 +0000" channel="ANTV.vision">
 <title>Cinta Keluarga Pandya</title>
-</programme>
-<programme start="20251130080000 +0000" stop="20251130093000 +0000" channel="ANTV.vision">
-<title>Baalveer</title>
 </programme>
 <programme start="20251130093000 +0000" stop="20251130110000 +0000" channel="ANTV.vision">
 <title>ANTV Seru</title>
@@ -772,9 +763,6 @@
 <programme start="20251130023000 +0000" stop="20251130030000 +0000" channel="TVOne.vision">
 <title>Xpose</title>
 </programme>
-<programme start="20251130030000 +0000" stop="20251130033000 +0000" channel="TVOne.vision">
-<title>Dunia Dalam Kamera</title>
-</programme>
 <programme start="20251130033000 +0000" stop="20251130040000 +0000" channel="TVOne.vision">
 <title>Indonesia Plus</title>
 </programme>
@@ -786,9 +774,6 @@
 </programme>
 <programme start="20251130070000 +0000" stop="20251130073000 +0000" channel="TVOne.vision">
 <title>Selalu Ada Hikmah</title>
-</programme>
-<programme start="20251130073000 +0000" stop="20251130080000 +0000" channel="TVOne.vision">
-<title>Dunia Kita Dan Anak</title>
 </programme>
 <programme start="20251130080000 +0000" stop="20251130090000 +0000" channel="TVOne.vision">
 <title>Apa Kabar Indonesia... (L)</title>
@@ -1189,9 +1174,6 @@
 <programme start="20251130093000 +0000" stop="20251130103000 +0000" channel="BTV.vision">
 <title>Berita Satu Sore</title>
 </programme>
-<programme start="20251130103000 +0000" stop="20251130110000 +0000" channel="BTV.vision">
-<title>Ekspos</title>
-</programme>
 <programme start="20251130110000 +0000" stop="20251130120000 +0000" channel="BTV.vision">
 <title>Jendela Dunia</title>
 </programme>
@@ -1212,6 +1194,66 @@
 </programme>
 <programme start="20251130163000 +0000" stop="20251130173000 +0000" channel="BTV.vision">
 <title>Supercar Championship 2025</title>
+</programme>
+<programme start="20251130173000 +0000" stop="20251130182700 +0000" channel="BTV.vision">
+<title>Berita Viral</title>
+</programme>
+<programme start="20251130182700 +0000" stop="20251130183000 +0000" channel="BTV.vision">
+<title>Tanah Airku</title>
+</programme>
+<programme start="20251130183000 +0000" stop="20251130193000 +0000" channel="BTV.vision">
+<title>Berita Satu Sore</title>
+</programme>
+<programme start="20251130193000 +0000" stop="20251130203000 +0000" channel="BTV.vision">
+<title>Berita Satu Malam</title>
+</programme>
+<programme start="20251130203000 +0000" stop="20251130213000 +0000" channel="BTV.vision">
+<title>Spot On</title>
+</programme>
+<programme start="20251130213000 +0000" stop="20251130230000 +0000" channel="BTV.vision">
+<title>Berita Satu Pagi</title>
+</programme>
+<programme start="20251130230000 +0000" stop="20251130230300 +0000" channel="BTV.vision">
+<title>Indonesia Raya</title>
+</programme>
+<programme start="20251130230300 +0000" stop="20251201003000 +0000" channel="BTV.vision">
+<title>Jalan Dakwah</title>
+</programme>
+<programme start="20251201003000 +0000" stop="20251201011500 +0000" channel="BTV.vision">
+<title>Figur Publik</title>
+</programme>
+<programme start="20251201011500 +0000" stop="20251201014500 +0000" channel="BTV.vision">
+<title>Kuyliner</title>
+</programme>
+<programme start="20251201014500 +0000" stop="20251201023000 +0000" channel="BTV.vision">
+<title>Masak Ala Devina Hermawan</title>
+</programme>
+<programme start="20251201023000 +0000" stop="20251201033000 +0000" channel="BTV.vision">
+<title>Investor Market Today</title>
+</programme>
+<programme start="20251201033000 +0000" stop="20251201040000 +0000" channel="BTV.vision">
+<title>Ketulusan Hati</title>
+</programme>
+<programme start="20251201040000 +0000" stop="20251201060000 +0000" channel="BTV.vision">
+<title>Berita Satu Siang</title>
+</programme>
+<programme start="20251201060000 +0000" stop="20251201073000 +0000" channel="BTV.vision">
+<title>Spot On</title>
+</programme>
+<programme start="20251201073000 +0000" stop="20251201080000 +0000" channel="BTV.vision">
+<title>Dikit-Dikit Damkar</title>
+</programme>
+<programme start="20251201080000 +0000" stop="20251201083000 +0000" channel="BTV.vision">
+<title>Berita Merah Putih</title>
+</programme>
+<programme start="20251201083000 +0000" stop="20251201103000 +0000" channel="BTV.vision">
+<title>Berita Satu Sore</title>
+</programme>
+<programme start="20251201103000 +0000" stop="20251201110000 +0000" channel="BTV.vision">
+<title>Berita Kriminal</title>
+</programme>
+<programme start="20251201110000 +0000" stop="20251201130000 +0000" channel="BTV.vision">
+<title>Berita Satu Utama</title>
 </programme>
 <programme start="20251129230000 +0000" stop="20251130010000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
@@ -1455,46 +1497,4 @@
 </programme>
 <programme start="20251130040000 +0000" stop="20251130043000 +0000" channel="JAK TV.vision">
 <title>Above And Beyond</title>
-</programme>
-<programme start="20251130043000 +0000" stop="20251130050000 +0000" channel="JAK TV.vision">
-<title>Take Me To Sarawak</title>
-</programme>
-<programme start="20251130050000 +0000" stop="20251130060000 +0000" channel="JAK TV.vision">
-<title>Lejel</title>
-</programme>
-<programme start="20251130060000 +0000" stop="20251130063000 +0000" channel="JAK TV.vision">
-<title>Kiddies World</title>
-</programme>
-<programme start="20251130063000 +0000" stop="20251130070000 +0000" channel="JAK TV.vision">
-<title>Headgear Hunting</title>
-</programme>
-<programme start="20251130070000 +0000" stop="20251130080000 +0000" channel="JAK TV.vision">
-<title>Medika Natura</title>
-</programme>
-<programme start="20251130080000 +0000" stop="20251130090000 +0000" channel="JAK TV.vision">
-<title>Berkah Shop</title>
-</programme>
-<programme start="20251130090000 +0000" stop="20251130093000 +0000" channel="JAK TV.vision">
-<title>Cerita Alif</title>
-</programme>
-<programme start="20251130093000 +0000" stop="20251130100000 +0000" channel="JAK TV.vision">
-<title>Medika Natura</title>
-</programme>
-<programme start="20251130100000 +0000" stop="20251130103000 +0000" channel="JAK TV.vision">
-<title>Pangeran Naga</title>
-</programme>
-<programme start="20251130103000 +0000" stop="20251130110000 +0000" channel="JAK TV.vision">
-<title>Pangeran Naga</title>
-</programme>
-<programme start="20251130110000 +0000" stop="20251130113000 +0000" channel="JAK TV.vision">
-<title>Muslimpedia</title>
-</programme>
-<programme start="20251130113000 +0000" stop="20251130120000 +0000" channel="JAK TV.vision">
-<title>Vlogger On The Road</title>
-</programme>
-<programme start="20251130120000 +0000" stop="20251130123000 +0000" channel="JAK TV.vision">
-<title>IBL Best Shoot</title>
-</programme>
-<programme start="20251130123000 +0000" stop="20251130130000 +0000" channel="JAK TV.vision">
-<title>Rezeki Tanah</title>
 </programme>
