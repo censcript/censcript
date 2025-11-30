@@ -1,7 +1,3 @@
-<programme start="20251130133000 +0700" stop="20251130153000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: ACF Fiorentina - AEK</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251130153000 +0700" stop="20251130173000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Olympiacos - Real Madrid CF</title>
     <desc>Live: Tidak</desc>
@@ -66,6 +62,10 @@
     <title>UEFA Champions League Highlights 2025-26</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251201163000 +0700" stop="20251201183000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: SK Slavia Praha - Athletic Club</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251130143000 +0700" stop="20251130163000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: AC Milan - SS Lazio</title>
     <desc>Live: Tidak</desc>
@@ -128,6 +128,10 @@
 </programme>
 <programme start="20251201141500 +0700" stop="20251201161500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Atalanta - ACF Fiorentina</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251201161500 +0700" stop="20251201181500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Lecce - Torino</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251130140000 +0700" stop="20251130163000 +0700" channel="COSMOTE Sport 3 HD">
@@ -258,10 +262,6 @@
     <title>Basketball: Gran Canaria - Barcelona</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251130142500 +0700" stop="20251130153000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251130153000 +0700" stop="20251130161500 +0700" channel="COSMOTE Sport 5 HD">
     <title>2025 GT World Challenge Europe</title>
     <desc>Live: Tidak</desc>
@@ -362,8 +362,8 @@
     <title>WRC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251130133000 +0700" stop="20251130153000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: ATP Challenger 50 2025</title>
+<programme start="20251201162500 +0700" stop="20251201172500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251130153000 +0700" stop="20251130180000 +0700" channel="COSMOTE Sport 6 HD">
