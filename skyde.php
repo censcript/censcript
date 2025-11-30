@@ -2555,24 +2555,24 @@
     <title>UEFA CL: Magazin</title>
 </programme>
 <programme start="20251130130000 +0000" stop="20251130132000 +0000" channel="Sky Sport Austria 2 HD.skyde">
-    <title>Es folgt: LIVE Admiral BL</title>
+    <title>Es folgt: Admiral BL</title>
 </programme>
-<programme start="20251130132000 +0000" stop="20251130160000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20251130132000 +0000" stop="20251130154500 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live Admiral BL: TSV Egger Glas Hartberg - SK Puntigamer Sturm Graz, 15. Runde</title>
 </programme>
 <programme start="20251130174000 +0000" stop="20251130180000 +0000" channel="Sky Sport Austria 2 HD.skyde">
-    <title>Es folgt: LIVE NHL</title>
+    <title>Es folgt: NHL</title>
 </programme>
 <programme start="20251130180000 +0000" stop="20251130203000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live NHL: Washington Capitals @ New York Islanders</title>
 </programme>
-<programme start="20251130203000 +0000" stop="20251201003000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20251130203000 +0000" stop="20251130233000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live NHL: Anaheim Ducks @ Chicago Blackhawks</title>
 </programme>
 <programme start="20251130130000 +0000" stop="20251130132000 +0000" channel="Sky Sport Austria 3 HD.skyde">
-    <title>Es folgt: LIVE Admiral BL</title>
+    <title>Es folgt: Admiral BL</title>
 </programme>
-<programme start="20251130132000 +0000" stop="20251130160000 +0000" channel="Sky Sport Austria 3 HD.skyde">
+<programme start="20251130132000 +0000" stop="20251130154500 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live Admiral BL: SCR Altach - FC Red Bull Salzburg, 15. Runde</title>
 </programme>
 <programme start="20251130113000 +0000" stop="20251130115000 +0000" channel="Sky Sport Austria 4 HD.skyde">
@@ -2723,15 +2723,15 @@
     <title>BL: SC Freiburg - 1. FSV Mainz 05, 12. Spieltag</title>
 </programme>
 <programme start="20251130114000 +0000" stop="20251130120000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
-    <title>Es folgt: 2. BL</title>
+    <title>Es folgt: LIVE 2. BL</title>
 </programme>
-<programme start="20251130120000 +0000" stop="20251130143000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
+<programme start="20251130120000 +0000" stop="20251130150000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live 2. BL: SV Elversberg - SV Darmstadt 98, 14. Spieltag</title>
 </programme>
 <programme start="20251130114000 +0000" stop="20251130120000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
-    <title>Es folgt: LIVE 2. BL</title>
+    <title>Es folgt: 2. BL</title>
 </programme>
-<programme start="20251130120000 +0000" stop="20251130150000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
+<programme start="20251130120000 +0000" stop="20251130143000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live 2. BL: Arminia Bielefeld - Preußen Münster, 14. Spieltag</title>
 </programme>
 <programme start="20251130114000 +0000" stop="20251130120000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
@@ -3245,18 +3245,18 @@
     <title>Es folgt: LIVE Basketball NBA</title>
 </programme>
 <programme start="20251130133500 +0000" stop="20251130135500 +0000" channel="Sky Sport 6 HD.skyde">
-    <title>Es folgt: Premier League</title>
+    <title>Es folgt: LIVE Premier League</title>
 </programme>
-<programme start="20251130135500 +0000" stop="20251130160500 +0000" channel="Sky Sport 6 HD.skyde">
+<programme start="20251130135500 +0000" stop="20251130163000 +0000" channel="Sky Sport 6 HD.skyde">
     <title>Live PL: Aston Villa - Wolverhampton Wanderers, 13. Spieltag</title>
 </programme>
 <programme start="20251130133500 +0000" stop="20251130135500 +0000" channel="Sky Sport 7 HD.skyde">
-    <title>Es folgt: Premier League</title>
+    <title>Es folgt: LIVE Premier League</title>
 </programme>
 <programme start="20251130135500 +0000" stop="20251130160500 +0000" channel="Sky Sport 7 HD.skyde">
     <title>Live PL: West Ham United - FC Liverpool, 13. Spieltag</title>
 </programme>
-<programme start="20251130135500 +0000" stop="20251130160500 +0000" channel="Sky Sport 7 HD.skyde">
+<programme start="20251130135500 +0000" stop="20251130163000 +0000" channel="Sky Sport 7 HD.skyde">
     <title>Live PL: West Ham United - FC Liverpool, 13. Spieltag</title>
 </programme>
 <programme start="20251129230000 +0000" stop="20251129234500 +0000" channel="SYFY HD.skyde">

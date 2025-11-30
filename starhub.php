@@ -7663,16 +7663,19 @@
     <programme start="20251129230500 +0000" stop="20251130013000 +0000" channel="Asianet Movies.starhub">
         <title>Ulsaha Committee</title>
     </programme>
-    <programme start="20251130013000 +0000" stop="20251130043000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251130013000 +0000" stop="20251130020000 +0000" channel="Asianet Movies.starhub">
+        <title>Chirikkum Thalika</title>
+    </programme>
+    <programme start="20251130020000 +0000" stop="20251130045000 +0000" channel="Asianet Movies.starhub">
         <title>Pulival Kalyanam</title>
     </programme>
-    <programme start="20251130043000 +0000" stop="20251130073000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251130045000 +0000" stop="20251130073000 +0000" channel="Asianet Movies.starhub">
         <title>Grrr...</title>
     </programme>
-    <programme start="20251130073000 +0000" stop="20251130103000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251130073000 +0000" stop="20251130102000 +0000" channel="Asianet Movies.starhub">
         <title>Hello Mummy</title>
     </programme>
-    <programme start="20251130103000 +0000" stop="20251130133000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251130102000 +0000" stop="20251130133000 +0000" channel="Asianet Movies.starhub">
         <title>RRR</title>
     </programme>
     <programme start="20251130133000 +0000" stop="20251130160000 +0000" channel="Asianet Movies.starhub">
