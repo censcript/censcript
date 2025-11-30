@@ -110,10 +110,6 @@
     <title>Football: Panathinaikos - AEK</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251201033000 +0700" stop="20251201053000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: FC Porto - Estoril (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
 <programme start="20251201053000 +0700" stop="20251201074500 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Panetolikos - Olympiacos</title>
     <desc>Live: Tidak</desc>
@@ -186,10 +182,6 @@
     <title>Football: Palmeiras - Flamengo</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251201030000 +0700" stop="20251201060000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Utah Jazz - Houston Rockets (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
 <programme start="20251201060000 +0700" stop="20251201090000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Cleveland Cavaliers - Boston Celtics (L)</title>
     <desc>Live: Ya</desc>
@@ -232,10 +224,6 @@
 </programme>
 <programme start="20251202043000 +0700" stop="20251202070000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Cleveland Cavaliers - Boston Celtics</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251201043000 +0700" stop="20251201051500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251201051500 +0700" stop="20251201062000 +0700" channel="COSMOTE Sport 5 HD">
@@ -338,10 +326,6 @@
     <title>Grand Prix Show 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251201030000 +0700" stop="20251201060000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Fight Sports: Oktagon 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251201060000 +0700" stop="20251201080000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Premier Padel Tour 2025 (L)</title>
     <desc>Live: Ya</desc>
@@ -404,6 +388,14 @@
 </programme>
 <programme start="20251202040000 +0700" stop="20251202060000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP Challenger 50 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251202060000 +0700" stop="20251202063000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Sports Classics: 2025 Outdoor Specials</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251202063000 +0700" stop="20251202070000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Watersports: Inside Sailing E11</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251201050000 +0700" stop="20251201070000 +0700" channel="COSMOTE Sport 7 HD">
