@@ -781,9 +781,6 @@
 <programme start="20251130070000 +0000" stop="20251130073000 +0000" channel="TVOne.vision">
 <title>Selalu Ada Hikmah</title>
 </programme>
-<programme start="20251130073000 +0000" stop="20251130080000 +0000" channel="TVOne.vision">
-<title>Dunia Kita Dan Anak</title>
-</programme>
 <programme start="20251130080000 +0000" stop="20251130090000 +0000" channel="TVOne.vision">
 <title>Apa Kabar Indonesia... (L)</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20251130020000 +0000" stop="20251130030000 +0000" channel="JAK TV.vision">
 <title>Lejel</title>
+</programme>
+<programme start="20251130030000 +0000" stop="20251130033000 +0000" channel="JAK TV.vision">
+<title>Rev</title>
 </programme>
