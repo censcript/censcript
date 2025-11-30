@@ -1,7 +1,3 @@
-<programme start="20251130210000 +0700" stop="20251130220000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>PreGame (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
 <programme start="20251130220000 +0700" stop="20251201001000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Panetolikos - Olympiacos (L)</title>
     <desc>Live: Ya</desc>
@@ -118,8 +114,8 @@
     <title>Football: AS Roma - SSC Napoli</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251130210000 +0700" stop="20251130213000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Emirates FA Cup 2025-26 - Highlights</title>
+<programme start="20251201223000 +0700" stop="20251202003000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Pisa - FC Internazionale Milano</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251130213000 +0700" stop="20251201000000 +0700" channel="COSMOTE Sport 3 HD">
@@ -194,10 +190,6 @@
     <title>American Football: Carolina Panthers - Los Angeles Rams</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251130200500 +0700" stop="20251130220000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Gran Canaria - Barcelona</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251130220000 +0700" stop="20251201003000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Badalona - Hapoel Holon</title>
     <desc>Live: Tidak</desc>
@@ -238,8 +230,8 @@
     <title>Basketball: Cleveland Cavaliers - Boston Celtics</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251130201500 +0700" stop="20251130211000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC 2025</title>
+<programme start="20251201220000 +0700" stop="20251202000000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Trentino - Treviso</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251130211000 +0700" stop="20251130221500 +0700" channel="COSMOTE Sport 5 HD">
@@ -346,8 +338,8 @@
     <title>WRC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251130210000 +0700" stop="20251130220000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Nitto ATP Finals 2025 - Highlights</title>
+<programme start="20251201222500 +0700" stop="20251201232500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251130220000 +0700" stop="20251130223000 +0700" channel="COSMOTE Sport 6 HD">
