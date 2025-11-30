@@ -4594,11 +4594,8 @@
     <programme start="20251130120000 +0000" stop="20251130133000 +0000" channel="Vijay TV HD.starhub">
         <title>Start Music</title>
     </programme>
-    <programme start="20251130133000 +0000" stop="20251130150000 +0000" channel="Vijay TV HD.starhub">
+    <programme start="20251130133000 +0000" stop="20251130160000 +0000" channel="Vijay TV HD.starhub">
         <title>Bigg Boss Tamil</title>
-    </programme>
-    <programme start="20251130150000 +0000" stop="20251130163000 +0000" channel="Vijay TV HD.starhub">
-        <title>Super Singer</title>
     </programme>
     <programme start="20251129160000 +0000" stop="20251129163000 +0000" channel="Asianet.starhub">
         <title>Kattathe Kilikoodu</title>

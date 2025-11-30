@@ -100,129 +100,7 @@
 <programme start="20251130163000 +0000" stop="20251129170000 +0000" channel="ABC Australia.mncvision">
     <title>The Streets With Dan Hong</title>
 </programme>
-<programme start="20251129170000 +0000" stop="20251129173000 +0000" channel="Al Jazeera English.mncvision">
-    <title>News (L)</title>
-</programme>
-<programme start="20251129173000 +0000" stop="20251129180000 +0000" channel="Al Jazeera English.mncvision">
-    <title>Inside Story</title>
-</programme>
-<programme start="20251129180000 +0000" stop="20251129190000 +0000" channel="Al Jazeera English.mncvision">
-    <title>NewsHour</title>
-</programme>
-<programme start="20251129190000 +0000" stop="20251129193000 +0000" channel="Al Jazeera English.mncvision">
-    <title>News (L)</title>
-</programme>
-<programme start="20251129193000 +0000" stop="20251129200000 +0000" channel="Al Jazeera English.mncvision">
-    <title>Talk To Al Jazeera: E. Valtonen</title>
-</programme>
-<programme start="20251129200000 +0000" stop="20251129203000 +0000" channel="Al Jazeera English.mncvision">
-    <title>News (L)</title>
-</programme>
-<programme start="20251129203000 +0000" stop="20251129210000 +0000" channel="Al Jazeera English.mncvision">
-    <title>Inside Story</title>
-</programme>
-<programme start="20251129210000 +0000" stop="20251129220000 +0000" channel="Al Jazeera English.mncvision">
-    <title>NewsHour</title>
-</programme>
-<programme start="20251129220000 +0000" stop="20251129223000 +0000" channel="Al Jazeera English.mncvision">
-    <title>News (L)</title>
-</programme>
-<programme start="20251129223000 +0000" stop="20251129230000 +0000" channel="Al Jazeera English.mncvision">
-    <title>A Sense Of Community</title>
-</programme>
-<programme start="20251129230000 +0000" stop="20251129233000 +0000" channel="Al Jazeera English.mncvision">
-    <title>News (L)</title>
-</programme>
-<programme start="20251129233000 +0000" stop="20251130000000 +0000" channel="Al Jazeera English.mncvision">
-    <title>Nuked: The Promise</title>
-</programme>
-<programme start="20251130000000 +0000" stop="20251130003000 +0000" channel="Al Jazeera English.mncvision">
-    <title>News (L)</title>
-</programme>
-<programme start="20251130003000 +0000" stop="20251130010000 +0000" channel="Al Jazeera English.mncvision">
-    <title>Inside Story</title>
-</programme>
-<programme start="20251130010000 +0000" stop="20251130013000 +0000" channel="Al Jazeera English.mncvision">
-    <title>The Bottom Line</title>
-</programme>
-<programme start="20251130013000 +0000" stop="20251130020000 +0000" channel="Al Jazeera English.mncvision">
-    <title>Earthrise: Fixing Food Cycle</title>
-</programme>
-<programme start="20251130020000 +0000" stop="20251130023000 +0000" channel="Al Jazeera English.mncvision">
-    <title>News (L)</title>
-</programme>
-<programme start="20251130023000 +0000" stop="20251130030000 +0000" channel="Al Jazeera English.mncvision">
-    <title>The Stream: Women Resist</title>
-</programme>
-<programme start="20251130030000 +0000" stop="20251130033000 +0000" channel="Al Jazeera English.mncvision">
-    <title>News (L)</title>
-</programme>
-<programme start="20251130033000 +0000" stop="20251130040000 +0000" channel="Al Jazeera English.mncvision">
-    <title>Counting The Cost</title>
-</programme>
-<programme start="20251130040000 +0000" stop="20251130043000 +0000" channel="Al Jazeera English.mncvision">
-    <title>News (L)</title>
-</programme>
-<programme start="20251130043000 +0000" stop="20251130050000 +0000" channel="Al Jazeera English.mncvision">
-    <title>Talk To Al Jazeera: E. Valtonen</title>
-</programme>
-<programme start="20251130050000 +0000" stop="20251130053000 +0000" channel="Al Jazeera English.mncvision">
-    <title>News (L)</title>
-</programme>
-<programme start="20251130053000 +0000" stop="20251130060000 +0000" channel="Al Jazeera English.mncvision">
-    <title>Inside Story</title>
-</programme>
-<programme start="20251130060000 +0000" stop="20251130063000 +0000" channel="Al Jazeera English.mncvision">
-    <title>News (L)</title>
-</programme>
-<programme start="20251130063000 +0000" stop="20251130070000 +0000" channel="Al Jazeera English.mncvision">
-    <title>Nuked: The Promise</title>
-</programme>
-<programme start="20251130070000 +0000" stop="20251130080000 +0000" channel="Al Jazeera English.mncvision">
-    <title>NewsHour</title>
-</programme>
-<programme start="20251130080000 +0000" stop="20251130083000 +0000" channel="Al Jazeera English.mncvision">
-    <title>News (L)</title>
-</programme>
-<programme start="20251130083000 +0000" stop="20251130090000 +0000" channel="Al Jazeera English.mncvision">
-    <title>A Sense Of Community</title>
-</programme>
-<programme start="20251130090000 +0000" stop="20251130093000 +0000" channel="Al Jazeera English.mncvision">
-    <title>News (L)</title>
-</programme>
-<programme start="20251130093000 +0000" stop="20251130100000 +0000" channel="Al Jazeera English.mncvision">
-    <title>UpFront</title>
-</programme>
-<programme start="20251130100000 +0000" stop="20251130110000 +0000" channel="Al Jazeera English.mncvision">
-    <title>NewsHour</title>
-</programme>
-<programme start="20251130110000 +0000" stop="20251130113000 +0000" channel="Al Jazeera English.mncvision">
-    <title>News (L)</title>
-</programme>
-<programme start="20251130113000 +0000" stop="20251130120000 +0000" channel="Al Jazeera English.mncvision">
-    <title>Inside Story</title>
-</programme>
-<programme start="20251130120000 +0000" stop="20251130130000 +0000" channel="Al Jazeera English.mncvision">
-    <title>Witness: Child Of Their Time</title>
-</programme>
-<programme start="20251130130000 +0000" stop="20251130140000 +0000" channel="Al Jazeera English.mncvision">
-    <title>NewsHour</title>
-</programme>
-<programme start="20251130140000 +0000" stop="20251130143000 +0000" channel="Al Jazeera English.mncvision">
-    <title>News (L)</title>
-</programme>
-<programme start="20251130143000 +0000" stop="20251130150000 +0000" channel="Al Jazeera English.mncvision">
-    <title>Talk To Al Jazeera: E. Valtonen</title>
-</programme>
-<programme start="20251130150000 +0000" stop="20251130160000 +0000" channel="Al Jazeera English.mncvision">
-    <title>NewsHour</title>
-</programme>
-<programme start="20251130160000 +0000" stop="20251130163000 +0000" channel="Al Jazeera English.mncvision">
-    <title>News (L)</title>
-</programme>
-<programme start="20251130163000 +0000" stop="20251129170000 +0000" channel="Al Jazeera English.mncvision">
-    <title>101 East: Philippines</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20251129170000 +0000" stop="20251129190000 +0000" channel="Al Quran Al Kareem.mncvision">
     <title>Live From Mekkah</title>
 </programme>
@@ -1549,39 +1427,7 @@
 <programme start="20251130152900 +0000" stop="20251130155900 +0000" channel="beIN Sports 3 HD.mncvision">
     <title>HSBC SVNS Series &#039;26: Dubai (L)</title>
 </programme>
-<programme start="20251129170000 +0000" stop="20251129200000 +0000" channel="beIN SPORTS 4.mncvision">
-    <title>beIN Sports 4</title>
-</programme>
-<programme start="20251129200000 +0000" stop="20251129220000 +0000" channel="beIN SPORTS 4.mncvision">
-    <title>beIN Sports 4</title>
-</programme>
-<programme start="20251129220000 +0000" stop="20251130010000 +0000" channel="beIN SPORTS 4.mncvision">
-    <title>beIN Sports 4</title>
-</programme>
-<programme start="20251130010000 +0000" stop="20251130030000 +0000" channel="beIN SPORTS 4.mncvision">
-    <title>beIN Sports 4</title>
-</programme>
-<programme start="20251130030000 +0000" stop="20251130050000 +0000" channel="beIN SPORTS 4.mncvision">
-    <title>beIN Sports 4</title>
-</programme>
-<programme start="20251130050000 +0000" stop="20251130070000 +0000" channel="beIN SPORTS 4.mncvision">
-    <title>beIN Sports 4</title>
-</programme>
-<programme start="20251130070000 +0000" stop="20251130090000 +0000" channel="beIN SPORTS 4.mncvision">
-    <title>beIN Sports 4</title>
-</programme>
-<programme start="20251130090000 +0000" stop="20251130110000 +0000" channel="beIN SPORTS 4.mncvision">
-    <title>beIN Sports 4</title>
-</programme>
-<programme start="20251130110000 +0000" stop="20251130130000 +0000" channel="beIN SPORTS 4.mncvision">
-    <title>beIN Sports 4</title>
-</programme>
-<programme start="20251130130000 +0000" stop="20251130150000 +0000" channel="beIN SPORTS 4.mncvision">
-    <title>beIN Sports 4</title>
-</programme>
-<programme start="20251130150000 +0000" stop="20251130153000 +0000" channel="beIN SPORTS 4.mncvision">
-    <title>beIN Sports 4</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20251129170000 +0000" stop="20251129200000 +0000" channel="beIN SPORTS 5.mncvision">
     <title>beIN Sports 5</title>
 </programme>
@@ -1825,51 +1671,7 @@
 <programme start="20251130163000 +0000" stop="20251129170000 +0000" channel="BTV.mncvision">
     <title>Supercar Championship 2025</title>
 </programme>
-<programme start="20251129170800 +0000" stop="20251129184700 +0000" channel="BUDDY STARS.mncvision">
-    <title>School Of Magical Animals</title>
-</programme>
-<programme start="20251129184700 +0000" stop="20251129211600 +0000" channel="BUDDY STARS.mncvision">
-    <title>Silver</title>
-</programme>
-<programme start="20251129211600 +0000" stop="20251129224600 +0000" channel="BUDDY STARS.mncvision">
-    <title>The Queen&#039;s Corgi</title>
-</programme>
-<programme start="20251129224600 +0000" stop="20251130003500 +0000" channel="BUDDY STARS.mncvision">
-    <title>Silver</title>
-</programme>
-<programme start="20251130003500 +0000" stop="20251130022200 +0000" channel="BUDDY STARS.mncvision">
-    <title>Lena And Snowball</title>
-</programme>
-<programme start="20251130022200 +0000" stop="20251130040700 +0000" channel="BUDDY STARS.mncvision">
-    <title>Silver</title>
-</programme>
-<programme start="20251130040700 +0000" stop="20251130054700 +0000" channel="BUDDY STARS.mncvision">
-    <title>The Little Ghost</title>
-</programme>
-<programme start="20251130054700 +0000" stop="20251130072800 +0000" channel="BUDDY STARS.mncvision">
-    <title>Silver</title>
-</programme>
-<programme start="20251130072800 +0000" stop="20251130090500 +0000" channel="BUDDY STARS.mncvision">
-    <title>Lena And Snowball</title>
-</programme>
-<programme start="20251130090500 +0000" stop="20251130094800 +0000" channel="BUDDY STARS.mncvision">
-    <title>Silver</title>
-</programme>
-<programme start="20251130094800 +0000" stop="20251130113200 +0000" channel="BUDDY STARS.mncvision">
-    <title>Autumn &amp; The Black Jaguar</title>
-</programme>
-<programme start="20251130113200 +0000" stop="20251130131700 +0000" channel="BUDDY STARS.mncvision">
-    <title>Silver</title>
-</programme>
-<programme start="20251130131700 +0000" stop="20251130150700 +0000" channel="BUDDY STARS.mncvision">
-    <title>Code M</title>
-</programme>
-<programme start="20251130150700 +0000" stop="20251130161000 +0000" channel="BUDDY STARS.mncvision">
-    <title>Silver</title>
-</programme>
-<programme start="20251130161000 +0000" stop="20251130164000 +0000" channel="BUDDY STARS.mncvision">
-    <title>Ribbit</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20251129170800 +0000" stop="20251129184700 +0000" channel="BUDDY STARS HD.mncvision">
     <title>School Of Magical Animals</title>
 </programme>
@@ -8170,6 +7972,7 @@
 <programme start="20251130163000 +0000" stop="20251129170000 +0000" channel="SCTV HD.mncvision">
     <title>Premier League (L)</title>
 </programme>
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20251129170000 +0000" stop="20251129173000 +0000" channel="Sindo News TV.mncvision">
     <title>iNews Sport</title>
 </programme>
@@ -8383,63 +8186,7 @@
 <programme start="20251130163000 +0000" stop="20251129170000 +0000" channel="Soccer Channel.mncvision">
     <title>Bundesliga: SGE Vs WOB (L)</title>
 </programme>
-<programme start="20251129172500 +0000" stop="20251129193000 +0000" channel="Soccer Channel HD.mncvision">
-    <title>Bundesliga: LEV Vs BVB (L)</title>
-</programme>
-<programme start="20251129193000 +0000" stop="20251129200000 +0000" channel="Soccer Channel HD.mncvision">
-    <title>Top Goals</title>
-</programme>
-<programme start="20251129200000 +0000" stop="20251129203000 +0000" channel="Soccer Channel HD.mncvision">
-    <title>World Classic Soccer</title>
-</programme>
-<programme start="20251129203000 +0000" stop="20251129210000 +0000" channel="Soccer Channel HD.mncvision">
-    <title>World Classic Soccer</title>
-</programme>
-<programme start="20251129210000 +0000" stop="20251129213000 +0000" channel="Soccer Channel HD.mncvision">
-    <title>Planet Football</title>
-</programme>
-<programme start="20251129213000 +0000" stop="20251129233000 +0000" channel="Soccer Channel HD.mncvision">
-    <title>Timnas Special: DWU Vs SHU</title>
-</programme>
-<programme start="20251129233000 +0000" stop="20251130013000 +0000" channel="Soccer Channel HD.mncvision">
-    <title>European Qual.: ENG Vs WAL</title>
-</programme>
-<programme start="20251130013000 +0000" stop="20251130033000 +0000" channel="Soccer Channel HD.mncvision">
-    <title>Bundesliga: LEV Vs SCF</title>
-</programme>
-<programme start="20251130033000 +0000" stop="20251130040000 +0000" channel="Soccer Channel HD.mncvision">
-    <title>World Classic Soccer</title>
-</programme>
-<programme start="20251130040000 +0000" stop="20251130060000 +0000" channel="Soccer Channel HD.mncvision">
-    <title>Pro Futsal League 2025/2026</title>
-</programme>
-<programme start="20251130060000 +0000" stop="20251130080000 +0000" channel="Soccer Channel HD.mncvision">
-    <title>Road To SEA Games 2025</title>
-</programme>
-<programme start="20251130080000 +0000" stop="20251130100000 +0000" channel="Soccer Channel HD.mncvision">
-    <title>Bundesliga: LEV Vs SCF</title>
-</programme>
-<programme start="20251130100000 +0000" stop="20251130103000 +0000" channel="Soccer Channel HD.mncvision">
-    <title>Planet Football</title>
-</programme>
-<programme start="20251130103000 +0000" stop="20251130123000 +0000" channel="Soccer Channel HD.mncvision">
-    <title>European Qual.: ENG Vs WAL</title>
-</programme>
-<programme start="20251130123000 +0000" stop="20251130130000 +0000" channel="Soccer Channel HD.mncvision">
-    <title>Planet Football</title>
-</programme>
-<programme start="20251130130000 +0000" stop="20251130133000 +0000" channel="Soccer Channel HD.mncvision">
-    <title>World Classic Soccer</title>
-</programme>
-<programme start="20251130133000 +0000" stop="20251130142500 +0000" channel="Soccer Channel HD.mncvision">
-    <title>Bundesliga Weekly</title>
-</programme>
-<programme start="20251130142500 +0000" stop="20251130163000 +0000" channel="Soccer Channel HD.mncvision">
-    <title>Bundesliga: HSV Vs VFB (L)</title>
-</programme>
-<programme start="20251130163000 +0000" stop="20251129170000 +0000" channel="Soccer Channel HD.mncvision">
-    <title>Bundesliga: SGE Vs WOB (L)</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20251129173000 +0000" stop="20251129200000 +0000" channel="Sportstars.mncvision">
     <title>Best Of Badminton</title>
 </programme>
@@ -8491,51 +8238,7 @@
 <programme start="20251130153000 +0000" stop="20251130160000 +0000" channel="Sportstars.mncvision">
     <title>V-League 2025-2026 Men</title>
 </programme>
-<programme start="20251129170000 +0000" stop="20251129190000 +0000" channel="Sportstars 2.mncvision">
-    <title>European Qualifiers</title>
-</programme>
-<programme start="20251129190000 +0000" stop="20251129210000 +0000" channel="Sportstars 2.mncvision">
-    <title>V-League</title>
-</programme>
-<programme start="20251129210000 +0000" stop="20251129233000 +0000" channel="Sportstars 2.mncvision">
-    <title>Best Of Badminton</title>
-</programme>
-<programme start="20251129233000 +0000" stop="20251130000000 +0000" channel="Sportstars 2.mncvision">
-    <title>Golden Fit</title>
-</programme>
-<programme start="20251130000000 +0000" stop="20251130003000 +0000" channel="Sportstars 2.mncvision">
-    <title>iNews Sport</title>
-</programme>
-<programme start="20251130003000 +0000" stop="20251130023000 +0000" channel="Sportstars 2.mncvision">
-    <title>Timnas Special</title>
-</programme>
-<programme start="20251130023000 +0000" stop="20251130030000 +0000" channel="Sportstars 2.mncvision">
-    <title>Sport Today: Viral</title>
-</programme>
-<programme start="20251130030000 +0000" stop="20251130050000 +0000" channel="Sportstars 2.mncvision">
-    <title>Road To SEA Games 2025</title>
-</programme>
-<programme start="20251130050000 +0000" stop="20251130070000 +0000" channel="Sportstars 2.mncvision">
-    <title>V-League</title>
-</programme>
-<programme start="20251130070000 +0000" stop="20251130083000 +0000" channel="Sportstars 2.mncvision">
-    <title>Tinju</title>
-</programme>
-<programme start="20251130083000 +0000" stop="20251130103000 +0000" channel="Sportstars 2.mncvision">
-    <title>Timnas Special</title>
-</programme>
-<programme start="20251130103000 +0000" stop="20251130130000 +0000" channel="Sportstars 2.mncvision">
-    <title>Best Of Badminton</title>
-</programme>
-<programme start="20251130130000 +0000" stop="20251130150000 +0000" channel="Sportstars 2.mncvision">
-    <title>Road To SEA Games 2025</title>
-</programme>
-<programme start="20251130150000 +0000" stop="20251130153000 +0000" channel="Sportstars 2.mncvision">
-    <title>Sport Today: Viral</title>
-</programme>
-<programme start="20251130153000 +0000" stop="20251130160000 +0000" channel="Sportstars 2.mncvision">
-    <title>Tinju</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20251129170000 +0000" stop="20251129190000 +0000" channel="Sportstars 2 HD.mncvision">
     <title>European Qualifiers</title>
 </programme>

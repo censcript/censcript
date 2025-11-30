@@ -3151,6 +3151,51 @@
 <programme start="20251130223000 +0000" stop="20251201003000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: T. Maria (GER) - A. Anisimova (USA), HSBC Championships in London (GBR), Finale</title>
 </programme>
+<programme start="20251130003000 +0000" stop="20251130030000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Live NHL: Toronto Maple Leafs @ Pittsburgh Penguins</title>
+</programme>
+<programme start="20251130030000 +0000" stop="20251130060000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Live Golf: BMW Australian PGA Championship, 4. Tag in Brisbane (Australien)</title>
+</programme>
+<programme start="20251130060000 +0000" stop="20251130070000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>F1: Sprint - GP Katar</title>
+</programme>
+<programme start="20251130070000 +0000" stop="20251130071500 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>F1: Qualifying Kompakt - GP Katar</title>
+</programme>
+<programme start="20251130071500 +0000" stop="20251130073000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>BL: Highlights XXL: BMG - RBL, 12. Spieltag</title>
+</programme>
+<programme start="20251130073000 +0000" stop="20251130081500 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>3. Liga: Alle Spiele, alle Tore, 16. Spieltag, Samstag</title>
+</programme>
+<programme start="20251130081500 +0000" stop="20251130090000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 14. Spieltag, Samstag komplett</title>
+</programme>
+<programme start="20251130090000 +0000" stop="20251130095500 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>BL: Alle Spiele, alle Stimmen, 12. Spieltag</title>
+</programme>
+<programme start="20251130095500 +0000" stop="20251130120000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Live DFB-Nachwuchsliga: Werder Bremen U19 - FC St. Pauli U19, 13. Spieltag</title>
+</programme>
+<programme start="20251130120000 +0000" stop="20251130143000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Live 2. BL: Sonntags-Konferenz, 14. Spieltag</title>
+</programme>
+<programme start="20251130143000 +0000" stop="20251130155500 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Live F1: Vorberichte - GP Katar</title>
+</programme>
+<programme start="20251130155500 +0000" stop="20251130174500 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Live F1: Rennen - GP Katar</title>
+</programme>
+<programme start="20251130174500 +0000" stop="20251130183000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Live F1: Analysen &amp; Interviews - GP Katar</title>
+</programme>
+<programme start="20251130183000 +0000" stop="20251130210000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Live NHL: Washington Capitals @ New York Islanders</title>
+</programme>
+<programme start="20251130210000 +0000" stop="20251130233000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Live NHL: Anaheim Ducks @ Chicago Blackhawks</title>
+</programme>
 <programme start="20251130103000 +0000" stop="20251130110000 +0000" channel="Sky Sport UHD.skyde">
     <title>Golf: Greatest Holes (1)</title>
 </programme>
