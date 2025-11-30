@@ -1159,35 +1159,32 @@
 <programme start="20251130221500 +0000" stop="20251130231000 +0000" channel="HISTORY Channel HD.skyde">
     <title>Britanniens Mythen und Legenden</title>
 </programme>
-<programme start="20251129230000 +0000" stop="20251130010000 +0000" channel="Jukebox.skyde">
-    <title>PARTY BOX</title>
+<programme start="20251203230000 +0000" stop="20251204010000 +0000" channel="Jukebox.skyde">
+    <title>BACK TO ... 2015</title>
 </programme>
-<programme start="20251130010000 +0000" stop="20251130020000 +0000" channel="Jukebox.skyde">
-    <title>BACK TO ... GROOVE</title>
+<programme start="20251204010000 +0000" stop="20251204020000 +0000" channel="Jukebox.skyde">
+    <title>ROCK</title>
 </programme>
-<programme start="20251130020000 +0000" stop="20251130050000 +0000" channel="Jukebox.skyde">
+<programme start="20251204020000 +0000" stop="20251204050000 +0000" channel="Jukebox.skyde">
     <title>NIGHTSHIFT</title>
 </programme>
-<programme start="20251130050000 +0000" stop="20251130110000 +0000" channel="Jukebox.skyde">
+<programme start="20251204050000 +0000" stop="20251204110000 +0000" channel="Jukebox.skyde">
     <title>MORNING GLORY</title>
 </programme>
-<programme start="20251130110000 +0000" stop="20251130130000 +0000" channel="Jukebox.skyde">
-    <title>JUKEBOX NEWS</title>
-</programme>
-<programme start="20251130130000 +0000" stop="20251130150000 +0000" channel="Jukebox.skyde">
+<programme start="20251204110000 +0000" stop="20251204130000 +0000" channel="Jukebox.skyde">
     <title>JUKEBOX TOP 25</title>
 </programme>
-<programme start="20251130150000 +0000" stop="20251130170000 +0000" channel="Jukebox.skyde">
-    <title>JUKEBOX DANCE</title>
+<programme start="20251204130000 +0000" stop="20251204170000 +0000" channel="Jukebox.skyde">
+    <title>JUKEBOX TRENDS</title>
 </programme>
-<programme start="20251130170000 +0000" stop="20251130190000 +0000" channel="Jukebox.skyde">
-    <title>JUKEBOX GROOVE</title>
-</programme>
-<programme start="20251130190000 +0000" stop="20251130210000 +0000" channel="Jukebox.skyde">
-    <title>#1S</title>
-</programme>
-<programme start="20251130210000 +0000" stop="20251130230000 +0000" channel="Jukebox.skyde">
+<programme start="20251204170000 +0000" stop="20251204190000 +0000" channel="Jukebox.skyde">
     <title>LOGOUT</title>
+</programme>
+<programme start="20251204190000 +0000" stop="20251204210000 +0000" channel="Jukebox.skyde">
+    <title>JUKEBOX TOP 50 MIX</title>
+</programme>
+<programme start="20251204210000 +0000" stop="20251204230000 +0000" channel="Jukebox.skyde">
+    <title>JUKEBOX GROOVE</title>
 </programme>
 <programme start="20251129231000 +0000" stop="20251130000000 +0000" channel="Motorvision+.skyde">
     <title>UK Rally Show 2024</title>
@@ -2555,24 +2552,24 @@
     <title>UEFA CL: Magazin</title>
 </programme>
 <programme start="20251130130000 +0000" stop="20251130132000 +0000" channel="Sky Sport Austria 2 HD.skyde">
-    <title>Es folgt: Admiral BL</title>
+    <title>Es folgt: LIVE Admiral BL</title>
 </programme>
-<programme start="20251130132000 +0000" stop="20251130154500 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20251130132000 +0000" stop="20251130160000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live Admiral BL: TSV Egger Glas Hartberg - SK Puntigamer Sturm Graz, 15. Runde</title>
 </programme>
 <programme start="20251130174000 +0000" stop="20251130180000 +0000" channel="Sky Sport Austria 2 HD.skyde">
-    <title>Es folgt: NHL</title>
+    <title>Es folgt: LIVE NHL</title>
 </programme>
 <programme start="20251130180000 +0000" stop="20251130203000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live NHL: Washington Capitals @ New York Islanders</title>
 </programme>
-<programme start="20251130203000 +0000" stop="20251130233000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20251130203000 +0000" stop="20251201003000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live NHL: Anaheim Ducks @ Chicago Blackhawks</title>
 </programme>
 <programme start="20251130130000 +0000" stop="20251130132000 +0000" channel="Sky Sport Austria 3 HD.skyde">
-    <title>Es folgt: Admiral BL</title>
+    <title>Es folgt: LIVE Admiral BL</title>
 </programme>
-<programme start="20251130132000 +0000" stop="20251130154500 +0000" channel="Sky Sport Austria 3 HD.skyde">
+<programme start="20251130132000 +0000" stop="20251130160000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live Admiral BL: SCR Altach - FC Red Bull Salzburg, 15. Runde</title>
 </programme>
 <programme start="20251130113000 +0000" stop="20251130115000 +0000" channel="Sky Sport Austria 4 HD.skyde">
@@ -2684,7 +2681,7 @@
     <title>Info: UHD</title>
 </programme>
 <programme start="20251130114000 +0000" stop="20251130120000 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
-    <title>Es folgt: 2. BL</title>
+    <title>Es folgt: LIVE 2. BL</title>
 </programme>
 <programme start="20251130120000 +0000" stop="20251130143000 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live 2. BL: Sonntags-Konferenz, 14. Spieltag</title>
@@ -2701,16 +2698,16 @@
 <programme start="20251130170000 +0000" stop="20251130183000 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: Sky90 - Die Fußballdebatte</title>
 </programme>
-<programme start="20251130183000 +0000" stop="20251130191500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
+<programme start="20251130183000 +0000" stop="20251130193000 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: Highlights XXL. SGE - WOB, 12. Spieltag</title>
 </programme>
 <programme start="20251130114000 +0000" stop="20251130120000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
-    <title>Es folgt: 2. BL</title>
+    <title>Es folgt: LIVE 2. BL</title>
 </programme>
-<programme start="20251130120000 +0000" stop="20251130143000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+<programme start="20251130120000 +0000" stop="20251130150000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Live 2. BL: Dynamo Dresden - Fortuna Düsseldorf, 14. Spieltag</title>
 </programme>
-<programme start="20251130161000 +0000" stop="20251130163000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+<programme start="20251130150000 +0000" stop="20251130163000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Es folgt: ab 17:30: BL</title>
 </programme>
 <programme start="20251130163000 +0000" stop="20251130183000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
@@ -2719,7 +2716,7 @@
 <programme start="20251130183000 +0000" stop="20251130203000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>BL: Eintracht Frankfurt - VfL Wolfsburg, 12. Spieltag</title>
 </programme>
-<programme start="20251130203000 +0000" stop="20251130223000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+<programme start="20251130203000 +0000" stop="20251130230000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>BL: SC Freiburg - 1. FSV Mainz 05, 12. Spieltag</title>
 </programme>
 <programme start="20251130114000 +0000" stop="20251130120000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
@@ -2729,15 +2726,15 @@
     <title>Live 2. BL: SV Elversberg - SV Darmstadt 98, 14. Spieltag</title>
 </programme>
 <programme start="20251130114000 +0000" stop="20251130120000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
-    <title>Es folgt: 2. BL</title>
+    <title>Es folgt: LIVE 2. BL</title>
 </programme>
-<programme start="20251130120000 +0000" stop="20251130143000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
+<programme start="20251130120000 +0000" stop="20251130150000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live 2. BL: Arminia Bielefeld - Preußen Münster, 14. Spieltag</title>
 </programme>
 <programme start="20251130114000 +0000" stop="20251130120000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
-    <title>Es folgt: 2. BL</title>
+    <title>Es folgt: LIVE 2. Liga</title>
 </programme>
-<programme start="20251130120000 +0000" stop="20251130143000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
+<programme start="20251130120000 +0000" stop="20251130150000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Live 2. BL: Multiview, 14. Spieltag, Sonntag</title>
 </programme>
 <programme start="20251129233000 +0000" stop="20251129234500 +0000" channel="Sky Sport F1 HD.skyde">
@@ -3122,7 +3119,7 @@
     <title>ATP Finals: Review Turin 2025</title>
 </programme>
 <programme start="20251130070000 +0000" stop="20251130090000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: A. Zverev (GER) - F. Marozsán (HUN), BMW Open in München, Halbfinale 2</title>
+    <title>ATP 500: A. Zverev (GER) - F. Marozsan (HUN), BMW Open in München, Halbfinale 2</title>
 </programme>
 <programme start="20251130090000 +0000" stop="20251130110500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: A. Zverev (GER) - B. Shelton (USA), BMW Open in München, Finale</title>
@@ -3241,8 +3238,11 @@
 <programme start="20251130223000 +0000" stop="20251201003000 +0000" channel="Sky Sport UHD.skyde">
     <title>DFB-Pokal: 1. FC Köln - FC Bayern München, 2. Runde</title>
 </programme>
-<programme start="20251130224000 +0000" stop="20251130230000 +0000" channel="Sky Sport 1 HD.skyde">
-    <title>Es folgt: LIVE Basketball NBA</title>
+<programme start="20251130170200 +0000" stop="20251130172200 +0000" channel="Sky Sport 1 HD.skyde">
+    <title>Es folgt: LIVE Basketball: NBA</title>
+</programme>
+<programme start="20251130172300 +0000" stop="20251201032300 +0000" channel="Sky Sport 1 HD.skyde">
+    <title>Live NBA: Oklahoma City Thunder @ Portland Trail Blazers</title>
 </programme>
 <programme start="20251130133500 +0000" stop="20251130135500 +0000" channel="Sky Sport 6 HD.skyde">
     <title>Es folgt: LIVE Premier League</title>
