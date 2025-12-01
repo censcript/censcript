@@ -3223,7 +3223,7 @@
 <programme start="20251201083000 +0000" stop="20251201084500 +0000" channel="Sky Sport UHD.skyde">
     <title>Info: UHD</title>
 </programme>
-<programme start="20251130230000 +0000" stop="20251201090000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20251130230000 +0000" stop="20251201024500 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Oklahoma City Thunder @ Portland Trail Blazers</title>
 </programme>
 <programme start="20251130230000 +0000" stop="20251130234500 +0000" channel="SYFY HD.skyde">
