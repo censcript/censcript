@@ -114,12 +114,8 @@
     <title>Football: Volos - Egaleo</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251202031500 +0700" stop="20251202051500 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Arouca - SC Braga (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20251202051500 +0700" stop="20251202054000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>William Hill Scottish Premiership - Highlights</title>
+<programme start="20251203064000 +0700" stop="20251203070000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Sports Classics: My Sporting Moment</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251202054000 +0700" stop="20251202081000 +0700" channel="COSMOTE Sport 3 HD">
@@ -242,8 +238,8 @@
     <title>Basketball: Los Angeles Lakers - Phoenix Suns</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251202044000 +0700" stop="20251202054000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Highlights: 2025 Extreme H</title>
+<programme start="20251203064500 +0700" stop="20251203073500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>NBA Specials</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251202054000 +0700" stop="20251202070000 +0700" channel="COSMOTE Sport 5 HD">
@@ -336,6 +332,10 @@
 </programme>
 <programme start="20251203055500 +0700" stop="20251203062500 +0700" channel="COSMOTE Sport 5 HD">
     <title>ERC 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251203062500 +0700" stop="20251203073000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251202040000 +0700" stop="20251202063000 +0700" channel="COSMOTE Sport 6 HD">

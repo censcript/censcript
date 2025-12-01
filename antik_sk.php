@@ -1205,7 +1205,7 @@
     <title lang="id">Padel - Majstrovstvá Slovenska 2025</title>
   </programme>
   <programme start="20251203092500 +0000" stop="20251203112500 +0000" channel="JOJ Šport.webtv.sk">
-    <title lang="id">Basketbal - Tipos extraliga</title>
+    <title lang="id">FIS Skoky na lyžiach</title>
   </programme>
   <programme start="20251203112500 +0000" stop="20251203141000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Volejbal - Niké Extraliga ženy</title>
@@ -1213,17 +1213,17 @@
   <programme start="20251203141000 +0000" stop="20251203165000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">FIS Skoky na lyžiach</title>
   </programme>
-  <programme start="20251203165000 +0000" stop="20251203191000 +0000" channel="JOJ Šport.webtv.sk">
-    <title lang="id">Basketbal - Tipos SBL</title>
+  <programme start="20251203165000 +0000" stop="20251203194500 +0000" channel="JOJ Šport.webtv.sk">
+    <title lang="id">Hokej - Tipos SHL</title>
   </programme>
-  <programme start="20251203191000 +0000" stop="20251203201500 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20251203194500 +0000" stop="20251203205000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">FIS Svetový pohár slalom ženy</title>
   </programme>
-  <programme start="20251203201500 +0000" stop="20251203215500 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20251203205000 +0000" stop="20251203225000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">FIS Svetový pohár slalom ženy</title>
   </programme>
-  <programme start="20251203215500 +0000" stop="20251203234000 +0000" channel="JOJ Šport.webtv.sk">
-    <title lang="id">Portugalský pohár</title>
+  <programme start="20251203225000 +0000" stop="20251204014000 +0000" channel="JOJ Šport.webtv.sk">
+    <title lang="id">IIHF MS ženy U18 2025</title>
   </programme>
   <programme start="20251202224500 +0000" stop="20251203004500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Automobilové preteky</title>
@@ -3205,22 +3205,25 @@
   <programme start="20251203212500 +0000" stop="20251203230500 +0000" channel="NOE.webtv.sk">
     <title lang="id">Noční univerzita</title>
   </programme>
-  <programme start="20251202230000 +0000" stop="20251202235000 +0000" channel="ČT1.webtv.sk">
+  <programme start="20251202220900 +0000" stop="20251202230100 +0000" channel="ČT1.webtv.sk">
+    <title lang="id">Slečna Holmesová (6)</title>
+  </programme>
+  <programme start="20251202230100 +0000" stop="20251202235000 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Grantchester VIII (4/6)</title>
   </programme>
   <programme start="20251202235000 +0000" stop="20251203002500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">AZ-kvíz</title>
   </programme>
-  <programme start="20251203002500 +0000" stop="20251203005000 +0000" channel="ČT1.webtv.sk">
+  <programme start="20251203002500 +0000" stop="20251203005100 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Zajímavosti z regionů</title>
   </programme>
-  <programme start="20251203005000 +0000" stop="20251203011500 +0000" channel="ČT1.webtv.sk">
+  <programme start="20251203005100 +0000" stop="20251203011600 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Lis na sýr</title>
   </programme>
-  <programme start="20251203011500 +0000" stop="20251203034500 +0000" channel="ČT1.webtv.sk">
+  <programme start="20251203011600 +0000" stop="20251203034800 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Dobré ráno</title>
   </programme>
-  <programme start="20251203034500 +0000" stop="20251203041500 +0000" channel="ČT1.webtv.sk">
+  <programme start="20251203034800 +0000" stop="20251203041500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">13. komnata Hany Třeštíkové</title>
   </programme>
   <programme start="20251203041500 +0000" stop="20251203043000 +0000" channel="ČT1.webtv.sk">
@@ -3232,10 +3235,10 @@
   <programme start="20251203045900 +0000" stop="20251203080000 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Studio 6</title>
   </programme>
-  <programme start="20251203080000 +0000" stop="20251203081000 +0000" channel="ČT1.webtv.sk">
+  <programme start="20251203080000 +0000" stop="20251203081100 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Na silnici jako doma (7)</title>
   </programme>
-  <programme start="20251203081000 +0000" stop="20251203090000 +0000" channel="ČT1.webtv.sk">
+  <programme start="20251203081100 +0000" stop="20251203090000 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Magnum VIII (10)</title>
   </programme>
   <programme start="20251203090000 +0000" stop="20251203093500 +0000" channel="ČT1.webtv.sk">
@@ -3256,10 +3259,10 @@
   <programme start="20251203113000 +0000" stop="20251203130500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Sama doma</title>
   </programme>
-  <programme start="20251203130500 +0000" stop="20251203140500 +0000" channel="ČT1.webtv.sk">
+  <programme start="20251203130500 +0000" stop="20251203140600 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Nejlepší Bakaláři</title>
   </programme>
-  <programme start="20251203140500 +0000" stop="20251203143500 +0000" channel="ČT1.webtv.sk">
+  <programme start="20251203140600 +0000" stop="20251203143500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Herbář</title>
   </programme>
   <programme start="20251203143500 +0000" stop="20251203153000 +0000" channel="ČT1.webtv.sk">
@@ -3289,28 +3292,28 @@
   <programme start="20251203180000 +0000" stop="20251203185600 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Události</title>
   </programme>
-  <programme start="20251203185600 +0000" stop="20251203190500 +0000" channel="ČT1.webtv.sk">
+  <programme start="20251203185600 +0000" stop="20251203190600 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Branky, body, vteřiny</title>
   </programme>
-  <programme start="20251203190500 +0000" stop="20251203191000 +0000" channel="ČT1.webtv.sk">
+  <programme start="20251203190600 +0000" stop="20251203191100 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Losování Sportky a Šance</title>
   </programme>
-  <programme start="20251203191000 +0000" stop="20251203201000 +0000" channel="ČT1.webtv.sk">
+  <programme start="20251203191100 +0000" stop="20251203201000 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Sever (2/6)</title>
   </programme>
-  <programme start="20251203201000 +0000" stop="20251203203500 +0000" channel="ČT1.webtv.sk">
+  <programme start="20251203201000 +0000" stop="20251203203800 +0000" channel="ČT1.webtv.sk">
     <title lang="id">13. komnata Tomáše Kluse</title>
   </programme>
-  <programme start="20251203203500 +0000" stop="20251203215900 +0000" channel="ČT1.webtv.sk">
+  <programme start="20251203203800 +0000" stop="20251203220200 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Všichni musí zemřít</title>
   </programme>
-  <programme start="20251203215900 +0000" stop="20251203220000 +0000" channel="ČT1.webtv.sk">
+  <programme start="20251203220200 +0000" stop="20251203220300 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Výsledky losování Šťastných 10</title>
   </programme>
-  <programme start="20251203220000 +0000" stop="20251203225500 +0000" channel="ČT1.webtv.sk">
+  <programme start="20251203220300 +0000" stop="20251203225500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Zpátky se Sobotou</title>
   </programme>
-  <programme start="20251203225500 +0000" stop="20251203234500 +0000" channel="ČT1.webtv.sk">
+  <programme start="20251203225500 +0000" stop="20251203234800 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Inspektorka Candice Renoirová III (7)</title>
   </programme>
   <programme start="20251202223100 +0000" stop="20251202232400 +0000" channel="ČT2.webtv.sk">
@@ -5044,8 +5047,11 @@
   <programme start="20251203151500 +0000" stop="20251203160000 +0000" channel="Arena Sport 2.webtv.sk">
     <title lang="id">Naša Garáž</title>
   </programme>
-  <programme start="20251203160000 +0000" stop="20251203164500 +0000" channel="Arena Sport 2.webtv.sk">
+  <programme start="20251203160000 +0000" stop="20251203163000 +0000" channel="Arena Sport 2.webtv.sk">
     <title lang="id">Naša Garáž</title>
+  </programme>
+  <programme start="20251203163000 +0000" stop="20251203164500 +0000" channel="Arena Sport 2.webtv.sk">
+    <title lang="id">ARIES RACING ukončil sezónu 2025</title>
   </programme>
   <programme start="20251203164500 +0000" stop="20251203173000 +0000" channel="Arena Sport 2.webtv.sk">
     <title lang="id">MM Automotive</title>
@@ -5219,7 +5225,7 @@
     <title lang="id">Snooker: UK Championship</title>
   </programme>
   <programme start="20251203163000 +0000" stop="20251203170000 +0000" channel="Eurosport 1.webtv.sk">
-    <title lang="id">Alpské lyžování: SP v Copper Mountain</title>
+    <title lang="id">Biatlon: SP v Ostersundu</title>
   </programme>
   <programme start="20251203170000 +0000" stop="20251203174500 +0000" channel="Eurosport 1.webtv.sk">
     <title lang="id">Biatlon: SP v Ostersundu</title>
@@ -5230,8 +5236,8 @@
   <programme start="20251203184500 +0000" stop="20251203223000 +0000" channel="Eurosport 1.webtv.sk">
     <title lang="id">Snooker: UK Championship</title>
   </programme>
-  <programme start="20251203223000 +0000" stop="20251203233000 +0000" channel="Eurosport 1.webtv.sk">
-    <title lang="id">Jezdectví: SP v Madridu</title>
+  <programme start="20251203223000 +0000" stop="20251203230000 +0000" channel="Eurosport 1.webtv.sk">
+    <title lang="id">Skoky na lyžích: SP v Ruce</title>
   </programme>
   <programme start="20251202230000 +0000" stop="20251203003000 +0000" channel="Eurosport 2.webtv.sk">
     <title lang="id">Skoky na lyžích: SP v Ruce</title>
@@ -5272,10 +5278,10 @@
   <programme start="20251203141500 +0000" stop="20251203161500 +0000" channel="Eurosport 2.webtv.sk">
     <title lang="id">Biatlon: SP v Ostersundu</title>
   </programme>
-  <programme start="20251203161500 +0000" stop="20251203170000 +0000" channel="Eurosport 2.webtv.sk">
+  <programme start="20251203161500 +0000" stop="20251203171500 +0000" channel="Eurosport 2.webtv.sk">
     <title lang="id">Skoky na lyžích: SP v Ruce</title>
   </programme>
-  <programme start="20251203170000 +0000" stop="20251203183000 +0000" channel="Eurosport 2.webtv.sk">
+  <programme start="20251203171500 +0000" stop="20251203183000 +0000" channel="Eurosport 2.webtv.sk">
     <title lang="id">Skoky na lyžích: SP v Ruce</title>
   </programme>
   <programme start="20251203183000 +0000" stop="20251203200000 +0000" channel="Eurosport 2.webtv.sk">
