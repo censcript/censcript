@@ -2551,10 +2551,10 @@
 <programme start="20251201225500 +0000" stop="20251201234500 +0000" channel="Sky Showcase HD.skyde">
     <title>Teuflische Nachbarn</title>
 </programme>
-<programme start="20251130230000 +0000" stop="20251130233000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20251130231000 +0000" stop="20251130233500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: ASAT Kompakt, 15. Runde</title>
 </programme>
-<programme start="20251130233000 +0000" stop="20251201013000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20251130233500 +0000" stop="20251201013000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: TSV Egger Glas Hartberg - SK Puntigamer Sturm Graz, 15. Runde</title>
 </programme>
 <programme start="20251201013000 +0000" stop="20251201033000 +0000" channel="Sky Sport Austria 1 HD.skyde">
@@ -3223,7 +3223,7 @@
 <programme start="20251201083000 +0000" stop="20251201084500 +0000" channel="Sky Sport UHD.skyde">
     <title>Info: UHD</title>
 </programme>
-<programme start="20251130230000 +0000" stop="20251201024500 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20251130230000 +0000" stop="20251201090000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Oklahoma City Thunder @ Portland Trail Blazers</title>
 </programme>
 <programme start="20251130230000 +0000" stop="20251130234500 +0000" channel="SYFY HD.skyde">
