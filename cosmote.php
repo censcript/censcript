@@ -106,6 +106,10 @@
     <title>Football: Kifisia - Panserraikos</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251202141000 +0700" stop="20251202161000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Parma - Udinese</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251201114500 +0700" stop="20251201150000 +0700" channel="COSMOTE Sport 3 HD">
     <title>American Football: Pittsburgh Steelers - Buffalo Bills</title>
     <desc>Live: Tidak</desc>
@@ -334,8 +338,8 @@
     <title>Grand Prix Show 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251201130000 +0700" stop="20251201140000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Beach Volley: 2025 FIVB Beach Volleyball World Championships</title>
+<programme start="20251202142500 +0700" stop="20251202151500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>2025 GT World Challenge Europe</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251201140000 +0700" stop="20251201150000 +0700" channel="COSMOTE Sport 6 HD">
@@ -399,6 +403,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251202125500 +0700" stop="20251202141000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Beach Volley: 2025 FIVB Beach Volleyball World Championships</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251202141000 +0700" stop="20251202151000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Beach Volley: 2025 FIVB Beach Volleyball World Championships</title>
     <desc>Live: Tidak</desc>
 </programme>
