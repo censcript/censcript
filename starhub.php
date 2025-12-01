@@ -2741,7 +2741,7 @@
         <title>Thamizha Thamizha S03</title>
     </programme>
     <programme start="20251130220000 +0000" stop="20251130223000 +0000" channel="Zee Tamil.starhub">
-        <title>Manasellam</title>
+        <title>Annamalai Kudumbam</title>
     </programme>
     <programme start="20251130223000 +0000" stop="20251130230000 +0000" channel="Zee Tamil.starhub">
         <title>Naane Varuvean</title>
@@ -8302,17 +8302,14 @@
     <programme start="20251201153000 +0000" stop="20251201163000 +0000" channel="ADITHYA TV.starhub">
         <title>Vedi Sirippu</title>
     </programme>
-    <programme start="20251130140000 +0000" stop="20251130163000 +0000" channel="Hub E City HD.starhub">
+    <programme start="20251130152100 +0000" stop="20251130172500 +0000" channel="Hub E City HD.starhub">
         <title>The Big Call</title>
     </programme>
-    <programme start="20251130163000 +0000" stop="20251130173000 +0000" channel="Hub E City HD.starhub">
+    <programme start="20251130172500 +0000" stop="20251130181200 +0000" channel="Hub E City HD.starhub">
         <title>A Date with The Future</title>
     </programme>
-    <programme start="20251130173000 +0000" stop="20251130183000 +0000" channel="Hub E City HD.starhub">
+    <programme start="20251130181200 +0000" stop="20251130190000 +0000" channel="Hub E City HD.starhub">
         <title>Warm on a Cold Night</title>
-    </programme>
-    <programme start="20251130183000 +0000" stop="20251130190000 +0000" channel="Hub E City HD.starhub">
-        <title>Subtle Flavors</title>
     </programme>
     <programme start="20251130190000 +0000" stop="20251130210000 +0000" channel="Hub E City HD.starhub">
         <title>Genius Go Go Go</title>
@@ -9043,17 +9040,14 @@
     <programme start="20251201145000 +0000" stop="20251201164000 +0000" channel="Discovery HD.starhub">
         <title>Storm Warning</title>
     </programme>
-    <programme start="20251130140000 +0000" stop="20251130163000 +0000" channel="Hub E City HD.starhub">
+    <programme start="20251130152100 +0000" stop="20251130172500 +0000" channel="Hub E City HD.starhub">
         <title>The Big Call</title>
     </programme>
-    <programme start="20251130163000 +0000" stop="20251130173000 +0000" channel="Hub E City HD.starhub">
+    <programme start="20251130172500 +0000" stop="20251130181200 +0000" channel="Hub E City HD.starhub">
         <title>A Date with The Future</title>
     </programme>
-    <programme start="20251130173000 +0000" stop="20251130183000 +0000" channel="Hub E City HD.starhub">
+    <programme start="20251130181200 +0000" stop="20251130190000 +0000" channel="Hub E City HD.starhub">
         <title>Warm on a Cold Night</title>
-    </programme>
-    <programme start="20251130183000 +0000" stop="20251130190000 +0000" channel="Hub E City HD.starhub">
-        <title>Subtle Flavors</title>
     </programme>
     <programme start="20251130190000 +0000" stop="20251130210000 +0000" channel="Hub E City HD.starhub">
         <title>Genius Go Go Go</title>
@@ -9103,17 +9097,14 @@
     <programme start="20251201150000 +0000" stop="20251201160000 +0000" channel="Hub E City HD.starhub">
         <title>Hot Door Night</title>
     </programme>
-    <programme start="20251130140000 +0000" stop="20251130163000 +0000" channel="TestChannel1.starhub">
+    <programme start="20251130152100 +0000" stop="20251130172500 +0000" channel="TestChannel1.starhub">
         <title>The Big Call</title>
     </programme>
-    <programme start="20251130163000 +0000" stop="20251130173000 +0000" channel="TestChannel1.starhub">
+    <programme start="20251130172500 +0000" stop="20251130181200 +0000" channel="TestChannel1.starhub">
         <title>A Date with The Future</title>
     </programme>
-    <programme start="20251130173000 +0000" stop="20251130183000 +0000" channel="TestChannel1.starhub">
+    <programme start="20251130181200 +0000" stop="20251130190000 +0000" channel="TestChannel1.starhub">
         <title>Warm on a Cold Night</title>
-    </programme>
-    <programme start="20251130183000 +0000" stop="20251130190000 +0000" channel="TestChannel1.starhub">
-        <title>Subtle Flavors</title>
     </programme>
     <programme start="20251130190000 +0000" stop="20251130210000 +0000" channel="TestChannel1.starhub">
         <title>Genius Go Go Go</title>

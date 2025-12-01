@@ -385,47 +385,47 @@
 <programme start="20251201163000 +0000" stop="20251130170000 +0000" channel="Animax.mncvision">
     <title>Witch Watch, Ep 15</title>
 </programme>
-<programme start="20251130183000 +0000" stop="20251130203000 +0000" channel="ANTV.mncvision">
+<programme start="20251130183000 +0000" stop="20251130190000 +0000" channel="ANTV.mncvision">
     <title>Sinema Spesial</title>
 </programme>
-<programme start="20251130203000 +0000" stop="20251130220000 +0000" channel="ANTV.mncvision">
-    <title>ANTV</title>
+<programme start="20251130190000 +0000" stop="20251130193000 +0000" channel="ANTV.mncvision">
+    <title>Lanjutan Sinema Spesial</title>
 </programme>
-<programme start="20251130220000 +0000" stop="20251130223000 +0000" channel="ANTV.mncvision">
-    <title>ANTV</title>
+<programme start="20251130193000 +0000" stop="20251130214500 +0000" channel="ANTV.mncvision">
+    <title>Serie A Liga Italia</title>
 </programme>
-<programme start="20251130223000 +0000" stop="20251130233000 +0000" channel="ANTV.mncvision">
-    <title>ANTV</title>
+<programme start="20251130214500 +0000" stop="20251130230000 +0000" channel="ANTV.mncvision">
+    <title>Nadin</title>
 </programme>
-<programme start="20251130233000 +0000" stop="20251201013000 +0000" channel="ANTV.mncvision">
-    <title>ANTV</title>
+<programme start="20251130230000 +0000" stop="20251201010000 +0000" channel="ANTV.mncvision">
+    <title>Musuh Bebuyutan</title>
 </programme>
-<programme start="20251201013000 +0000" stop="20251201050000 +0000" channel="ANTV.mncvision">
-    <title>ANTV</title>
+<programme start="20251201010000 +0000" stop="20251201030000 +0000" channel="ANTV.mncvision">
+    <title>Zeynep</title>
 </programme>
-<programme start="20251201050000 +0000" stop="20251201063000 +0000" channel="ANTV.mncvision">
-    <title>ANTV</title>
+<programme start="20251201030000 +0000" stop="20251201063000 +0000" channel="ANTV.mncvision">
+    <title>Chalte Chalte</title>
 </programme>
 <programme start="20251201063000 +0000" stop="20251201080000 +0000" channel="ANTV.mncvision">
-    <title>ANTV</title>
+    <title>Cinta Keluarga Pandya</title>
 </programme>
 <programme start="20251201080000 +0000" stop="20251201093000 +0000" channel="ANTV.mncvision">
-    <title>ANTV</title>
+    <title>Baalveer</title>
 </programme>
-<programme start="20251201093000 +0000" stop="20251201110000 +0000" channel="ANTV.mncvision">
-    <title>ANTV</title>
+<programme start="20251201093000 +0000" stop="20251201103000 +0000" channel="ANTV.mncvision">
+    <title>Takdir Cinta Layla</title>
 </programme>
-<programme start="20251201110000 +0000" stop="20251201123000 +0000" channel="ANTV.mncvision">
-    <title>ANTV</title>
+<programme start="20251201103000 +0000" stop="20251201123000 +0000" channel="ANTV.mncvision">
+    <title>Si Gobang</title>
 </programme>
-<programme start="20251201123000 +0000" stop="20251201143000 +0000" channel="ANTV.mncvision">
-    <title>ANTV</title>
+<programme start="20251201123000 +0000" stop="20251201140000 +0000" channel="ANTV.mncvision">
+    <title>Ratu Ilmu Hitam</title>
 </programme>
-<programme start="20251201143000 +0000" stop="20251201163000 +0000" channel="ANTV.mncvision">
-    <title>ANTV</title>
+<programme start="20251201140000 +0000" stop="20251201163000 +0000" channel="ANTV.mncvision">
+    <title>Godain Kita Dong</title>
 </programme>
 <programme start="20251201163000 +0000" stop="20251130170000 +0000" channel="ANTV.mncvision">
-    <title>ANTV</title>
+    <title>The Happy Ghost</title>
 </programme>
 <programme start="20251130170000 +0000" stop="20251130173000 +0000" channel="Arirang.mncvision">
     <title>SmartBiz Accelerators</title>
@@ -4751,40 +4751,46 @@
     <title>Mega Film Asia</title>
 </programme>
 <programme start="20251130213000 +0000" stop="20251130230000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Fokus Pagi</title>
 </programme>
-<programme start="20251130230000 +0000" stop="20251201010000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+<programme start="20251130230000 +0000" stop="20251201000000 +0000" channel="Indosiar.mncvision">
+    <title>Merangkai Kisah Indah</title>
 </programme>
-<programme start="20251201010000 +0000" stop="20251201030000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+<programme start="20251201000000 +0000" stop="20251201013000 +0000" channel="Indosiar.mncvision">
+    <title>Kisah Nyata Pagi</title>
+</programme>
+<programme start="20251201013000 +0000" stop="20251201030000 +0000" channel="Indosiar.mncvision">
+    <title>Kisah Nyata Pagi</title>
 </programme>
 <programme start="20251201030000 +0000" stop="20251201040000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Kiss Pagi</title>
 </programme>
 <programme start="20251201040000 +0000" stop="20251201043000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Patroli Siang</title>
 </programme>
 <programme start="20251201043000 +0000" stop="20251201050000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Fokus Siang</title>
 </programme>
 <programme start="20251201050000 +0000" stop="20251201063000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Kisah Nyata Siang</title>
 </programme>
 <programme start="20251201063000 +0000" stop="20251201080000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Kisah Nyata</title>
 </programme>
 <programme start="20251201080000 +0000" stop="20251201100000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Kisah Nyata Spesial</title>
 </programme>
 <programme start="20251201100000 +0000" stop="20251201120000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Merangkai Kisah Indah</title>
 </programme>
 <programme start="20251201120000 +0000" stop="20251201160000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>D&#039;Academy S7</title>
 </programme>
 <programme start="20251201160000 +0000" stop="20251201163000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Gibran Bicara Bersama R. Pinasti</title>
+</programme>
+<programme start="20251201163000 +0000" stop="20251130170000 +0000" channel="Indosiar.mncvision">
+    <title>Mega Film Asia</title>
 </programme>
 <programme start="20251130183000 +0000" stop="20251130200000 +0000" channel="Indosiar HD.mncvision">
     <title>Mega Film Asia</title>
@@ -4793,40 +4799,46 @@
     <title>Mega Film Asia</title>
 </programme>
 <programme start="20251130213000 +0000" stop="20251130230000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Fokus Pagi</title>
 </programme>
-<programme start="20251130230000 +0000" stop="20251201010000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+<programme start="20251130230000 +0000" stop="20251201000000 +0000" channel="Indosiar HD.mncvision">
+    <title>Merangkai Kisah Indah</title>
 </programme>
-<programme start="20251201010000 +0000" stop="20251201030000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+<programme start="20251201000000 +0000" stop="20251201013000 +0000" channel="Indosiar HD.mncvision">
+    <title>Kisah Nyata Pagi</title>
+</programme>
+<programme start="20251201013000 +0000" stop="20251201030000 +0000" channel="Indosiar HD.mncvision">
+    <title>Kisah Nyata Pagi</title>
 </programme>
 <programme start="20251201030000 +0000" stop="20251201040000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Kiss Pagi</title>
 </programme>
 <programme start="20251201040000 +0000" stop="20251201043000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Patroli Siang</title>
 </programme>
 <programme start="20251201043000 +0000" stop="20251201050000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Fokus Siang</title>
 </programme>
 <programme start="20251201050000 +0000" stop="20251201063000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Kisah Nyata Siang</title>
 </programme>
 <programme start="20251201063000 +0000" stop="20251201080000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Kisah Nyata</title>
 </programme>
 <programme start="20251201080000 +0000" stop="20251201100000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Kisah Nyata Spesial</title>
 </programme>
 <programme start="20251201100000 +0000" stop="20251201120000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Merangkai Kisah Indah</title>
 </programme>
 <programme start="20251201120000 +0000" stop="20251201160000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>D&#039;Academy S7</title>
 </programme>
 <programme start="20251201160000 +0000" stop="20251201163000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Gibran Bicara Bersama R. Pinasti</title>
+</programme>
+<programme start="20251201163000 +0000" stop="20251130170000 +0000" channel="Indosiar HD.mncvision">
+    <title>Mega Film Asia</title>
 </programme>
 <programme start="20251130170000 +0000" stop="20251130180000 +0000" channel="iNews.mncvision">
     <title>Realita</title>
@@ -4841,7 +4853,7 @@
     <title>Special Report</title>
 </programme>
 <programme start="20251130210000 +0000" stop="20251130211500 +0000" channel="iNews.mncvision">
-    <title>iNews Sport</title>
+    <title>Special Report</title>
 </programme>
 <programme start="20251130211500 +0000" stop="20251130230000 +0000" channel="iNews.mncvision">
     <title>iNews Pagi (L)</title>
@@ -4876,10 +4888,25 @@
 <programme start="20251201080000 +0000" stop="20251201093000 +0000" channel="iNews.mncvision">
     <title>Realita (L)</title>
 </programme>
-<programme start="20251201093000 +0000" stop="20251201120000 +0000" channel="iNews.mncvision">
+<programme start="20251201093000 +0000" stop="20251201110000 +0000" channel="iNews.mncvision">
     <title>iNews Sore (L)</title>
 </programme>
-<programme start="20251201120000 +0000" stop="20251201133000 +0000" channel="iNews.mncvision">
+<programme start="20251201110000 +0000" stop="20251201110500 +0000" channel="iNews.mncvision">
+    <title>iNews Terkini</title>
+</programme>
+<programme start="20251201110500 +0000" stop="20251201120000 +0000" channel="iNews.mncvision">
+    <title>iNews Sore (L)</title>
+</programme>
+<programme start="20251201120000 +0000" stop="20251201120500 +0000" channel="iNews.mncvision">
+    <title>iNews Terkini</title>
+</programme>
+<programme start="20251201120500 +0000" stop="20251201130000 +0000" channel="iNews.mncvision">
+    <title>iNews Room (L)</title>
+</programme>
+<programme start="20251201130000 +0000" stop="20251201130500 +0000" channel="iNews.mncvision">
+    <title>iNews Terkini</title>
+</programme>
+<programme start="20251201130500 +0000" stop="20251201133000 +0000" channel="iNews.mncvision">
     <title>iNews Room (L)</title>
 </programme>
 <programme start="20251201133000 +0000" stop="20251201143000 +0000" channel="iNews.mncvision">
@@ -4907,7 +4934,7 @@
     <title>Special Report</title>
 </programme>
 <programme start="20251130210000 +0000" stop="20251130211500 +0000" channel="iNews HD.mncvision">
-    <title>iNews Sport</title>
+    <title>Special Report</title>
 </programme>
 <programme start="20251130211500 +0000" stop="20251130230000 +0000" channel="iNews HD.mncvision">
     <title>iNews Pagi (L)</title>
@@ -4942,10 +4969,25 @@
 <programme start="20251201080000 +0000" stop="20251201093000 +0000" channel="iNews HD.mncvision">
     <title>Realita (L)</title>
 </programme>
-<programme start="20251201093000 +0000" stop="20251201120000 +0000" channel="iNews HD.mncvision">
+<programme start="20251201093000 +0000" stop="20251201110000 +0000" channel="iNews HD.mncvision">
     <title>iNews Sore (L)</title>
 </programme>
-<programme start="20251201120000 +0000" stop="20251201133000 +0000" channel="iNews HD.mncvision">
+<programme start="20251201110000 +0000" stop="20251201110500 +0000" channel="iNews HD.mncvision">
+    <title>iNews Terkini</title>
+</programme>
+<programme start="20251201110500 +0000" stop="20251201120000 +0000" channel="iNews HD.mncvision">
+    <title>iNews Sore (L)</title>
+</programme>
+<programme start="20251201120000 +0000" stop="20251201120500 +0000" channel="iNews HD.mncvision">
+    <title>iNews Terkini</title>
+</programme>
+<programme start="20251201120500 +0000" stop="20251201130000 +0000" channel="iNews HD.mncvision">
+    <title>iNews Room (L)</title>
+</programme>
+<programme start="20251201130000 +0000" stop="20251201130500 +0000" channel="iNews HD.mncvision">
+    <title>iNews Terkini</title>
+</programme>
+<programme start="20251201130500 +0000" stop="20251201133000 +0000" channel="iNews HD.mncvision">
     <title>iNews Room (L)</title>
 </programme>
 <programme start="20251201133000 +0000" stop="20251201143000 +0000" channel="iNews HD.mncvision">
@@ -7840,104 +7882,116 @@
 <programme start="20251130183000 +0000" stop="20251130200000 +0000" channel="SCTV.mncvision">
     <title>Pacar Baru</title>
 </programme>
-<programme start="20251130200000 +0000" stop="20251130210000 +0000" channel="SCTV.mncvision">
+<programme start="20251130200000 +0000" stop="20251130210500 +0000" channel="SCTV.mncvision">
     <title>Cinta Semanis Gudeg</title>
 </programme>
-<programme start="20251130210000 +0000" stop="20251130213000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20251130210500 +0000" stop="20251130213300 +0000" channel="SCTV.mncvision">
+    <title>Indahnya Kebersamaan</title>
 </programme>
-<programme start="20251130213000 +0000" stop="20251130230000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20251130213300 +0000" stop="20251130215500 +0000" channel="SCTV.mncvision">
+    <title>Buser</title>
 </programme>
-<programme start="20251130230000 +0000" stop="20251130233000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20251130215500 +0000" stop="20251130230000 +0000" channel="SCTV.mncvision">
+    <title>Liputan 6 Pagi (L)</title>
 </programme>
-<programme start="20251130233000 +0000" stop="20251201000000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20251130230000 +0000" stop="20251201000000 +0000" channel="SCTV.mncvision">
+    <title>Hot Shot</title>
 </programme>
-<programme start="20251201000000 +0000" stop="20251201013000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20251201000000 +0000" stop="20251201014000 +0000" channel="SCTV.mncvision">
+    <title>Beri Cinta Waktu</title>
 </programme>
-<programme start="20251201013000 +0000" stop="20251201030000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20251201014000 +0000" stop="20251201025000 +0000" channel="SCTV.mncvision">
+    <title>Asmara Gen Z</title>
 </programme>
-<programme start="20251201030000 +0000" stop="20251201050000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20251201025000 +0000" stop="20251201044600 +0000" channel="SCTV.mncvision">
+    <title>Dek Jamu Kuat Cintaku...</title>
 </programme>
-<programme start="20251201050000 +0000" stop="20251201053000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20251201044600 +0000" stop="20251201051800 +0000" channel="SCTV.mncvision">
+    <title>Liputan 6 Siang (L)</title>
 </programme>
-<programme start="20251201053000 +0000" stop="20251201070000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20251201051800 +0000" stop="20251201065500 +0000" channel="SCTV.mncvision">
+    <title>Mas Sapi Gantengnya...</title>
 </programme>
-<programme start="20251201070000 +0000" stop="20251201100000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20251201065500 +0000" stop="20251201082800 +0000" channel="SCTV.mncvision">
+    <title>Langit Bisakah Kau Turunkan...</title>
 </programme>
-<programme start="20251201100000 +0000" stop="20251201113000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20251201082800 +0000" stop="20251201092500 +0000" channel="SCTV.mncvision">
+    <title>Janji Cinta Zahra</title>
 </programme>
-<programme start="20251201113000 +0000" stop="20251201130000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20251201092500 +0000" stop="20251201095500 +0000" channel="SCTV.mncvision">
+    <title>Gibran Bicara</title>
 </programme>
-<programme start="20251201130000 +0000" stop="20251201143000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20251201095500 +0000" stop="20251201111700 +0000" channel="SCTV.mncvision">
+    <title>Asmara Gen Z</title>
 </programme>
-<programme start="20251201143000 +0000" stop="20251201160000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20251201111700 +0000" stop="20251201125500 +0000" channel="SCTV.mncvision">
+    <title>Beri Cinta Waktu</title>
+</programme>
+<programme start="20251201125500 +0000" stop="20251201143500 +0000" channel="SCTV.mncvision">
+    <title>Cinta Sedalam Rindu</title>
+</programme>
+<programme start="20251201143500 +0000" stop="20251201160000 +0000" channel="SCTV.mncvision">
+    <title>Wanita Istimewa</title>
 </programme>
 <programme start="20251201160000 +0000" stop="20251201163000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+    <title>Gulali Bikin Kangen</title>
 </programme>
 <programme start="20251130183000 +0000" stop="20251130200000 +0000" channel="SCTV HD.mncvision">
     <title>Pacar Baru</title>
 </programme>
-<programme start="20251130200000 +0000" stop="20251130210000 +0000" channel="SCTV HD.mncvision">
+<programme start="20251130200000 +0000" stop="20251130210500 +0000" channel="SCTV HD.mncvision">
     <title>Cinta Semanis Gudeg</title>
 </programme>
-<programme start="20251130210000 +0000" stop="20251130213000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20251130210500 +0000" stop="20251130213300 +0000" channel="SCTV HD.mncvision">
+    <title>Indahnya Kebersamaan</title>
 </programme>
-<programme start="20251130213000 +0000" stop="20251130230000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20251130213300 +0000" stop="20251130215500 +0000" channel="SCTV HD.mncvision">
+    <title>Buser</title>
 </programme>
-<programme start="20251130230000 +0000" stop="20251130233000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20251130215500 +0000" stop="20251130230000 +0000" channel="SCTV HD.mncvision">
+    <title>Liputan 6 Pagi (L)</title>
 </programme>
-<programme start="20251130233000 +0000" stop="20251201000000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20251130230000 +0000" stop="20251201000000 +0000" channel="SCTV HD.mncvision">
+    <title>Hot Shot</title>
 </programme>
-<programme start="20251201000000 +0000" stop="20251201013000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20251201000000 +0000" stop="20251201014000 +0000" channel="SCTV HD.mncvision">
+    <title>Beri Cinta Waktu</title>
 </programme>
-<programme start="20251201013000 +0000" stop="20251201030000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20251201014000 +0000" stop="20251201025000 +0000" channel="SCTV HD.mncvision">
+    <title>Asmara Gen Z</title>
 </programme>
-<programme start="20251201030000 +0000" stop="20251201050000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20251201025000 +0000" stop="20251201044600 +0000" channel="SCTV HD.mncvision">
+    <title>Dek Jamu Kuat Cintaku...</title>
 </programme>
-<programme start="20251201050000 +0000" stop="20251201053000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20251201044600 +0000" stop="20251201051800 +0000" channel="SCTV HD.mncvision">
+    <title>Liputan 6 Siang (L)</title>
 </programme>
-<programme start="20251201053000 +0000" stop="20251201070000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20251201051800 +0000" stop="20251201065500 +0000" channel="SCTV HD.mncvision">
+    <title>Mas Sapi Gantengnya...</title>
 </programme>
-<programme start="20251201070000 +0000" stop="20251201100000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20251201065500 +0000" stop="20251201082800 +0000" channel="SCTV HD.mncvision">
+    <title>Langit Bisakah Kau Turunkan...</title>
 </programme>
-<programme start="20251201100000 +0000" stop="20251201113000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20251201082800 +0000" stop="20251201092500 +0000" channel="SCTV HD.mncvision">
+    <title>Janji Cinta Zahra</title>
 </programme>
-<programme start="20251201113000 +0000" stop="20251201130000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20251201092500 +0000" stop="20251201095500 +0000" channel="SCTV HD.mncvision">
+    <title>Gibran Bicara</title>
 </programme>
-<programme start="20251201130000 +0000" stop="20251201143000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20251201095500 +0000" stop="20251201111700 +0000" channel="SCTV HD.mncvision">
+    <title>Asmara Gen Z</title>
 </programme>
-<programme start="20251201143000 +0000" stop="20251201160000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20251201111700 +0000" stop="20251201125500 +0000" channel="SCTV HD.mncvision">
+    <title>Beri Cinta Waktu</title>
+</programme>
+<programme start="20251201125500 +0000" stop="20251201143500 +0000" channel="SCTV HD.mncvision">
+    <title>Cinta Sedalam Rindu</title>
+</programme>
+<programme start="20251201143500 +0000" stop="20251201160000 +0000" channel="SCTV HD.mncvision">
+    <title>Wanita Istimewa</title>
 </programme>
 <programme start="20251201160000 +0000" stop="20251201163000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+    <title>Gulali Bikin Kangen</title>
 </programme>
 <programme start="20251130170000 +0000" stop="20251130173000 +0000" channel="Sindo News TV.mncvision">
     <title>iNews Sport</title>
