@@ -114,8 +114,8 @@
     <title>Football: Panathinaikos - AEK</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251202011000 +0700" stop="20251202031500 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Anorthosis Famagusta - APOEL</title>
+<programme start="20251203043000 +0700" stop="20251203064000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Volos - Egaleo</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251202031500 +0700" stop="20251202051500 +0700" channel="COSMOTE Sport 3 HD">
@@ -242,9 +242,9 @@
     <title>Pick n&#039; Roll (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251202020000 +0700" stop="20251202032000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Grand Prix Show 2025 (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20251203041500 +0700" stop="20251203064500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Los Angeles Lakers - Phoenix Suns</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251202032000 +0700" stop="20251202041000 +0700" channel="COSMOTE Sport 5 HD">
     <title>2025 GT World Challenge Europe</title>
@@ -338,8 +338,12 @@
     <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251202021500 +0700" stop="20251202040000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: ATP Challenger 50 2025</title>
+<programme start="20251203040000 +0700" stop="20251203045000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251203045000 +0700" stop="20251203055500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251202040000 +0700" stop="20251202063000 +0700" channel="COSMOTE Sport 6 HD">
