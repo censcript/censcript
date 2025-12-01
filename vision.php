@@ -664,68 +664,65 @@
 <programme start="20251202114500 +0000" stop="20251202121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
-<programme start="20251130233000 +0000" stop="20251201013000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<programme start="20251130230000 +0000" stop="20251201010000 +0000" channel="ANTV.vision">
+<title>Musuh Bebuyutan</title>
 </programme>
-<programme start="20251201013000 +0000" stop="20251201050000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<programme start="20251201010000 +0000" stop="20251201030000 +0000" channel="ANTV.vision">
+<title>Zeynep</title>
 </programme>
-<programme start="20251201050000 +0000" stop="20251201063000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<programme start="20251201030000 +0000" stop="20251201063000 +0000" channel="ANTV.vision">
+<title>Chalte Chalte</title>
 </programme>
 <programme start="20251201063000 +0000" stop="20251201080000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<title>Cinta Keluarga Pandya</title>
 </programme>
 <programme start="20251201080000 +0000" stop="20251201093000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<title>Baalveer</title>
 </programme>
-<programme start="20251201093000 +0000" stop="20251201110000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<programme start="20251201093000 +0000" stop="20251201104500 +0000" channel="ANTV.vision">
+<title>Takdir Cinta Layla</title>
 </programme>
-<programme start="20251201110000 +0000" stop="20251201123000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<programme start="20251201124500 +0000" stop="20251201141500 +0000" channel="ANTV.vision">
+<title>Ratu Ilmu Hitam</title>
 </programme>
-<programme start="20251201123000 +0000" stop="20251201143000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<programme start="20251201141500 +0000" stop="20251201161500 +0000" channel="ANTV.vision">
+<title>Godain Kita Dong</title>
 </programme>
-<programme start="20251201143000 +0000" stop="20251201163000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<programme start="20251201161500 +0000" stop="20251201183000 +0000" channel="ANTV.vision">
+<title>The Happy Ghost</title>
 </programme>
-<programme start="20251201163000 +0000" stop="20251201183000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<programme start="20251201183000 +0000" stop="20251201190000 +0000" channel="ANTV.vision">
+<title>Sinema Spesial</title>
 </programme>
-<programme start="20251201183000 +0000" stop="20251201203000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<programme start="20251201190000 +0000" stop="20251201193000 +0000" channel="ANTV.vision">
+<title>Lanjutan Sinema Spesial</title>
 </programme>
-<programme start="20251201203000 +0000" stop="20251201220000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<programme start="20251201193000 +0000" stop="20251201213000 +0000" channel="ANTV.vision">
+<title>Yuva</title>
 </programme>
-<programme start="20251201220000 +0000" stop="20251201223000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<programme start="20251201213000 +0000" stop="20251201230000 +0000" channel="ANTV.vision">
+<title>Serie A Liga Italia</title>
 </programme>
-<programme start="20251201223000 +0000" stop="20251201233000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<programme start="20251201230000 +0000" stop="20251202010000 +0000" channel="ANTV.vision">
+<title>Si Doel Anak Modern</title>
 </programme>
-<programme start="20251201233000 +0000" stop="20251202013000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<programme start="20251202010000 +0000" stop="20251202030000 +0000" channel="ANTV.vision">
+<title>Zeynep</title>
 </programme>
-<programme start="20251202013000 +0000" stop="20251202050000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
-</programme>
-<programme start="20251202050000 +0000" stop="20251202063000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<programme start="20251202030000 +0000" stop="20251202063000 +0000" channel="ANTV.vision">
+<title>Raees</title>
 </programme>
 <programme start="20251202063000 +0000" stop="20251202080000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<title>Cinta Keluarga Pandya</title>
 </programme>
 <programme start="20251202080000 +0000" stop="20251202093000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<title>Baalveer</title>
 </programme>
-<programme start="20251202093000 +0000" stop="20251202110000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<programme start="20251202093000 +0000" stop="20251202104500 +0000" channel="ANTV.vision">
+<title>Takdir Cinta Layla</title>
 </programme>
-<programme start="20251202110000 +0000" stop="20251202123000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<programme start="20251202104500 +0000" stop="20251202124500 +0000" channel="ANTV.vision">
+<title>Rajawali Dari Utara</title>
 </programme>
 <programme start="20251130230000 +0000" stop="20251201010000 +0000" channel="RTV.vision">
 <title>Bread Barbershop</title>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20251202080000 +0000" stop="20251202083000 +0000" channel="BTV.vision">
 <title>Berita Merah Putih</title>
+</programme>
+<programme start="20251202083000 +0000" stop="20251202103000 +0000" channel="BTV.vision">
+<title>Berita Satu Sore</title>
 </programme>

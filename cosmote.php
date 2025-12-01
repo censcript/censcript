@@ -106,6 +106,10 @@
     <title>Football: Panetolikos - Olympiacos</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251202202000 +0700" stop="20251202222000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Atalanta - ACF Fiorentina</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251201190000 +0700" stop="20251201210000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: West Bromwich Albion - Swansea City</title>
     <desc>Live: Tidak</desc>
@@ -170,10 +174,6 @@
     <title>Football: Birmingham City - Watford</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251201170000 +0700" stop="20251201193000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Utah Jazz - Houston Rockets</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251201193000 +0700" stop="20251201220000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Cleveland Cavaliers - Boston Celtics</title>
     <desc>Live: Tidak</desc>
@@ -224,10 +224,6 @@
 </programme>
 <programme start="20251202193000 +0700" stop="20251202214000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Heidelberg - Promitheas</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251201181500 +0700" stop="20251201191000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251201191000 +0700" stop="20251201201500 +0700" channel="COSMOTE Sport 5 HD">
@@ -330,8 +326,8 @@
     <title>DTM 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251201190000 +0700" stop="20251201200000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>ATP 500 2025 - Highlights</title>
+<programme start="20251202205500 +0700" stop="20251202224000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>DTM 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251201200000 +0700" stop="20251201210000 +0700" channel="COSMOTE Sport 6 HD">
