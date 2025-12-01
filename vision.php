@@ -682,8 +682,14 @@
 <programme start="20251201093000 +0000" stop="20251201104500 +0000" channel="ANTV.vision">
 <title>Takdir Cinta Layla</title>
 </programme>
+<programme start="20251201124500 +0000" stop="20251201141500 +0000" channel="ANTV.vision">
+<title>Ratu Ilmu Hitam</title>
+</programme>
 <programme start="20251201141500 +0000" stop="20251201161500 +0000" channel="ANTV.vision">
 <title>Godain Kita Dong</title>
+</programme>
+<programme start="20251201161500 +0000" stop="20251201183000 +0000" channel="ANTV.vision">
+<title>The Happy Ghost</title>
 </programme>
 <programme start="20251201183000 +0000" stop="20251201190000 +0000" channel="ANTV.vision">
 <title>Sinema Spesial</title>
@@ -1491,10 +1497,4 @@
 </programme>
 <programme start="20251202083000 +0000" stop="20251202103000 +0000" channel="BTV.vision">
 <title>Berita Satu Sore</title>
-</programme>
-<programme start="20251202103000 +0000" stop="20251202110000 +0000" channel="BTV.vision">
-<title>Berita Kriminal</title>
-</programme>
-<programme start="20251202110000 +0000" stop="20251202130000 +0000" channel="BTV.vision">
-<title>Berita Satu Utama</title>
 </programme>
