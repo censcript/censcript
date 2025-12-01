@@ -2110,6 +2110,324 @@
   <programme start="20251203224500 +0000" stop="20251203230000 +0000" channel="Jojko.webtv.sk">
     <title lang="id">Moe a jeho šou II (40)</title>
   </programme>
+  <programme start="20251202223500 +0000" stop="20251202232000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Flopyho veselé príbehy (26)</title>
+  </programme>
+  <programme start="20251202232000 +0000" stop="20251202234500 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Malý medvedík I (23)</title>
+  </programme>
+  <programme start="20251202234500 +0000" stop="20251203001000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Myšiak Anatole I (21)</title>
+  </programme>
+  <programme start="20251203001000 +0000" stop="20251203002500 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Tri mušketierky I (37)</title>
+  </programme>
+  <programme start="20251203002500 +0000" stop="20251203003500 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Esá z pralesa I (25)</title>
+  </programme>
+  <programme start="20251203003500 +0000" stop="20251203004500 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Apollo a veselé chrobáčiky I (13)</title>
+  </programme>
+  <programme start="20251203004500 +0000" stop="20251203011000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Volám sa Caillou V (18)</title>
+  </programme>
+  <programme start="20251203011000 +0000" stop="20251203012000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Dumper a Skoop IV (13)</title>
+  </programme>
+  <programme start="20251203012000 +0000" stop="20251203013000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Panda a Krash I (33)</title>
+  </programme>
+  <programme start="20251203013000 +0000" stop="20251203015500 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Príbehy dvoch myší I (1)</title>
+  </programme>
+  <programme start="20251203015500 +0000" stop="20251203022000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Rev a motoroví miláčikovia I (19)</title>
+  </programme>
+  <programme start="20251203022000 +0000" stop="20251203023000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Máša a medveď I (1)</title>
+  </programme>
+  <programme start="20251203023000 +0000" stop="20251203024000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Chuggington - veselé vláčiky II (21)</title>
+  </programme>
+  <programme start="20251203024000 +0000" stop="20251203025000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Malý silák Bheem I (25)</title>
+  </programme>
+  <programme start="20251203025000 +0000" stop="20251203031500 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Jahôdka a jej kamaráti III (16)</title>
+  </programme>
+  <programme start="20251203031500 +0000" stop="20251203034000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Malý medvedík I (24)</title>
+  </programme>
+  <programme start="20251203034000 +0000" stop="20251203040500 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Ruby z dúhy II (15)</title>
+  </programme>
+  <programme start="20251203040500 +0000" stop="20251203041000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Maličké príšerky I (12)</title>
+  </programme>
+  <programme start="20251203041000 +0000" stop="20251203041500 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Hot Wheels autíčka II (3)</title>
+  </programme>
+  <programme start="20251203041500 +0000" stop="20251203042500 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Bob staviteľ II (50)</title>
+  </programme>
+  <programme start="20251203042500 +0000" stop="20251203044000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Požiarnik Sam XIV (5)</title>
+  </programme>
+  <programme start="20251203044000 +0000" stop="20251203045000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Máša a medveď I (2)</title>
+  </programme>
+  <programme start="20251203045000 +0000" stop="20251203050000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Máša a medveď I (3)</title>
+  </programme>
+  <programme start="20251203050000 +0000" stop="20251203050500 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Kiri a Lou II (2)</title>
+  </programme>
+  <programme start="20251203050500 +0000" stop="20251203053000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Barbie: Dom snov II (15)</title>
+  </programme>
+  <programme start="20251203053000 +0000" stop="20251203054500 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Flopy (145)</title>
+  </programme>
+  <programme start="20251203054500 +0000" stop="20251203055500 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">WoW Lisa I (20)</title>
+  </programme>
+  <programme start="20251203055500 +0000" stop="20251203060500 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Dobrodružstvá Bolka a Lolka I (29)</title>
+  </programme>
+  <programme start="20251203060500 +0000" stop="20251203061500 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Mojo Transformer I (17)</title>
+  </programme>
+  <programme start="20251203061500 +0000" stop="20251203062500 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Ovečka Shaun I (26)</title>
+  </programme>
+  <programme start="20251203062500 +0000" stop="20251203063000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Prasiatko Peppa II (21)</title>
+  </programme>
+  <programme start="20251203063000 +0000" stop="20251203064000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Hanička a Murko I (16)</title>
+  </programme>
+  <programme start="20251203064000 +0000" stop="20251203065000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Máša a medveď I (4)</title>
+  </programme>
+  <programme start="20251203065000 +0000" stop="20251203070500 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Štístko a Poupěnka I (5)</title>
+  </programme>
+  <programme start="20251203070500 +0000" stop="20251203071000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Prasiatko Peppa II (22)</title>
+  </programme>
+  <programme start="20251203071000 +0000" stop="20251203080000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Flopyho veselé príbehy (27)</title>
+  </programme>
+  <programme start="20251203080000 +0000" stop="20251203081000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Ovečka Shaun I (27)</title>
+  </programme>
+  <programme start="20251203081000 +0000" stop="20251203082500 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Bob staviteľ II (51)</title>
+  </programme>
+  <programme start="20251203082500 +0000" stop="20251203083500 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Požiarnik Sam XIV (6)</title>
+  </programme>
+  <programme start="20251203083500 +0000" stop="20251203085000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Drobčekovia III (4)</title>
+  </programme>
+  <programme start="20251203085000 +0000" stop="20251203091500 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Príbehy z nočnej záhrady III (19)</title>
+  </programme>
+  <programme start="20251203091500 +0000" stop="20251203092500 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Dobrodružstvá Bolka a Lolka II (8)</title>
+  </programme>
+  <programme start="20251203092500 +0000" stop="20251203094000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Krajina fantázie s TintiLinti (2)</title>
+  </programme>
+  <programme start="20251203094000 +0000" stop="20251203095000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Máša a medveď I (5)</title>
+  </programme>
+  <programme start="20251203095000 +0000" stop="20251203100000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Kúzelný Kvet - Hanička a Murko</title>
+  </programme>
+  <programme start="20251203100000 +0000" stop="20251203101500 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Teletubbies I (14b)</title>
+  </programme>
+  <programme start="20251203101500 +0000" stop="20251203103000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Chuggington - veselé vláčiky II (21)</title>
+  </programme>
+  <programme start="20251203103000 +0000" stop="20251203105500 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Malý medvedík I (24)</title>
+  </programme>
+  <programme start="20251203105500 +0000" stop="20251203110000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Maličké príšerky I (13)</title>
+  </programme>
+  <programme start="20251203110000 +0000" stop="20251203111500 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Flopy (169)</title>
+  </programme>
+  <programme start="20251203111500 +0000" stop="20251203112500 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Dobrodružstvá Bolka a Lolka I (31)</title>
+  </programme>
+  <programme start="20251203112500 +0000" stop="20251203113000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Pingu V (1)</title>
+  </programme>
+  <programme start="20251203113000 +0000" stop="20251203114500 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Flopy (174)</title>
+  </programme>
+  <programme start="20251203114500 +0000" stop="20251203115500 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Volám sa Caillou II./III. II (26)</title>
+  </programme>
+  <programme start="20251203115500 +0000" stop="20251203121000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Vesmírni pretekári I (36)</title>
+  </programme>
+  <programme start="20251203121000 +0000" stop="20251203122000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">American Girl II (1)</title>
+  </programme>
+  <programme start="20251203122000 +0000" stop="20251203122500 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Tina a Tony I (25)</title>
+  </programme>
+  <programme start="20251203122500 +0000" stop="20251203125000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Jahôdka a jej kamaráti III (16)</title>
+  </programme>
+  <programme start="20251203125000 +0000" stop="20251203130500 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Tri mušketierky I (37)</title>
+  </programme>
+  <programme start="20251203130500 +0000" stop="20251203131500 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Ovečka Shaun I (28)</title>
+  </programme>
+  <programme start="20251203131500 +0000" stop="20251203132500 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Dumper a Skoop IV (13)</title>
+  </programme>
+  <programme start="20251203132500 +0000" stop="20251203134000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Esá z pralesa I (25)</title>
+  </programme>
+  <programme start="20251203134000 +0000" stop="20251203135500 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Rozprávky líšky a vlka (5)</title>
+  </programme>
+  <programme start="20251203135500 +0000" stop="20251203140000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Smejko a Tanculienka II (3)</title>
+  </programme>
+  <programme start="20251203140000 +0000" stop="20251203141000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Máša a medveď I (6)</title>
+  </programme>
+  <programme start="20251203141000 +0000" stop="20251203142000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Hanička a Murko I (17)</title>
+  </programme>
+  <programme start="20251203142000 +0000" stop="20251203142500 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Kiri a Lou II (3)</title>
+  </programme>
+  <programme start="20251203142500 +0000" stop="20251203143500 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Bob staviteľ II (50)</title>
+  </programme>
+  <programme start="20251203143500 +0000" stop="20251203145000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Požiarnik Sam XIV (5)</title>
+  </programme>
+  <programme start="20251203145000 +0000" stop="20251203152000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Flopy (175)</title>
+  </programme>
+  <programme start="20251203152000 +0000" stop="20251203154500 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Barbie: Dom snov II (16)</title>
+  </programme>
+  <programme start="20251203154500 +0000" stop="20251203155500 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Pingu V (2)</title>
+  </programme>
+  <programme start="20251203155500 +0000" stop="20251203160000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Hot Wheels autíčka II (4)</title>
+  </programme>
+  <programme start="20251203160000 +0000" stop="20251203161000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Dobrodružstvá Bolka a Lolka I (32)</title>
+  </programme>
+  <programme start="20251203161000 +0000" stop="20251203161500 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Matchbox II (1)</title>
+  </programme>
+  <programme start="20251203161500 +0000" stop="20251203163000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Ukecaný Tom I (47)</title>
+  </programme>
+  <programme start="20251203163000 +0000" stop="20251203164500 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Tomáš a Priatelia VI (16)</title>
+  </programme>
+  <programme start="20251203164500 +0000" stop="20251203165500 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Ovečka Shaun I (29)</title>
+  </programme>
+  <programme start="20251203165500 +0000" stop="20251203170500 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Štístko a Poupěnka I (6)</title>
+  </programme>
+  <programme start="20251203170500 +0000" stop="20251203171500 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">WoW Lisa I (21)</title>
+  </programme>
+  <programme start="20251203171500 +0000" stop="20251203172000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Morph I (5)</title>
+  </programme>
+  <programme start="20251203172000 +0000" stop="20251203180500 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Flopyho veselé príbehy (28)</title>
+  </programme>
+  <programme start="20251203180500 +0000" stop="20251203181000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Pingu V (3)</title>
+  </programme>
+  <programme start="20251203181000 +0000" stop="20251203181500 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Prasiatko Peppa II (23)</title>
+  </programme>
+  <programme start="20251203181500 +0000" stop="20251203182500 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Dobrodružstvá Bolka a Lolka I (33)</title>
+  </programme>
+  <programme start="20251203182500 +0000" stop="20251203184000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Mojo Transformer I (18)</title>
+  </programme>
+  <programme start="20251203184000 +0000" stop="20251203185000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Máša a medveď I (7)</title>
+  </programme>
+  <programme start="20251203185000 +0000" stop="20251203190000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Fíha Tralala I (3)</title>
+  </programme>
+  <programme start="20251203190000 +0000" stop="20251203191500 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Priatelia z farmy I (23)</title>
+  </programme>
+  <programme start="20251203191500 +0000" stop="20251203192000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Kiri a Lou II (4)</title>
+  </programme>
+  <programme start="20251203192000 +0000" stop="20251203193500 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Štístko a Poupěnka I (7)</title>
+  </programme>
+  <programme start="20251203193500 +0000" stop="20251203195000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Požiarnik Sam XIV (7)</title>
+  </programme>
+  <programme start="20251203195000 +0000" stop="20251203200000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Máša a medveď I (8)</title>
+  </programme>
+  <programme start="20251203200000 +0000" stop="20251203201000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Máša a medveď I (9)</title>
+  </programme>
+  <programme start="20251203201000 +0000" stop="20251203202500 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Bob staviteľ II (52)</title>
+  </programme>
+  <programme start="20251203202500 +0000" stop="20251203204000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Kung Fu Prasiatka I (24)</title>
+  </programme>
+  <programme start="20251203204000 +0000" stop="20251203205000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Bob staviteľ III (1)</title>
+  </programme>
+  <programme start="20251203205000 +0000" stop="20251203210500 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Priatelia z farmy I (24)</title>
+  </programme>
+  <programme start="20251203210500 +0000" stop="20251203213000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Barbie: Dotyk kúziel I (10)</title>
+  </programme>
+  <programme start="20251203213000 +0000" stop="20251203214000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Dobrodružstvá z farmy I (17)</title>
+  </programme>
+  <programme start="20251203214000 +0000" stop="20251203215500 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Priatelia z farmy I (25)</title>
+  </programme>
+  <programme start="20251203215500 +0000" stop="20251203221000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Mojo Transformer I (19)</title>
+  </programme>
+  <programme start="20251203221000 +0000" stop="20251203221500 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Morph I (6)</title>
+  </programme>
+  <programme start="20251203221500 +0000" stop="20251203222500 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Tomáš a Priatelia VI (17)</title>
+  </programme>
+  <programme start="20251203222500 +0000" stop="20251203223500 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Máša a medveď I (10)</title>
+  </programme>
+  <programme start="20251203223500 +0000" stop="20251203232000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Flopyho veselé príbehy (29)</title>
+  </programme>
   <programme start="20251202230000 +0000" stop="20251203040000 +0000" channel="LALA TV.webtv.sk">
     <title lang="id">Spíva celá rodina</title>
   </programme>
@@ -4293,6 +4611,111 @@
   </programme>
   <programme start="20251203223500 +0000" stop="20251204025500 +0000" channel="Barrandov Krimi.webtv.sk">
     <title lang="id">Aféry - neuvěřitelné životní příběhy</title>
+  </programme>
+  <programme start="20251202212500 +0000" stop="20251202231500 +0000" channel="A11.webtv.sk">
+    <title lang="id">Na návštěvě u známých</title>
+  </programme>
+  <programme start="20251202231500 +0000" stop="20251203012500 +0000" channel="A11.webtv.sk">
+    <title lang="id">Dobrý večer s A11</title>
+  </programme>
+  <programme start="20251203012500 +0000" stop="20251203014500 +0000" channel="A11.webtv.sk">
+    <title lang="id">Magazín ze Strakonicka</title>
+  </programme>
+  <programme start="20251203014500 +0000" stop="20251203021500 +0000" channel="A11.webtv.sk">
+    <title lang="id">Olomoucký magazín</title>
+  </programme>
+  <programme start="20251203021500 +0000" stop="20251203024500 +0000" channel="A11.webtv.sk">
+    <title lang="id">Cesta na Olymp</title>
+  </programme>
+  <programme start="20251203024500 +0000" stop="20251203030500 +0000" channel="A11.webtv.sk">
+    <title lang="id">S ženskou za kniplem</title>
+  </programme>
+  <programme start="20251203030500 +0000" stop="20251203032500 +0000" channel="A11.webtv.sk">
+    <title lang="id">S ženskou za kniplem</title>
+  </programme>
+  <programme start="20251203032500 +0000" stop="20251203041000 +0000" channel="A11.webtv.sk">
+    <title lang="id">Vtipkování</title>
+  </programme>
+  <programme start="20251203041000 +0000" stop="20251203044000 +0000" channel="A11.webtv.sk">
+    <title lang="id">Zločin jak ho pamatuju</title>
+  </programme>
+  <programme start="20251203044000 +0000" stop="20251203051000 +0000" channel="A11.webtv.sk">
+    <title lang="id">Cesta na Olymp</title>
+  </programme>
+  <programme start="20251203051000 +0000" stop="20251203053000 +0000" channel="A11.webtv.sk">
+    <title lang="id">Magazín ze Strakonicka</title>
+  </programme>
+  <programme start="20251203053000 +0000" stop="20251203060000 +0000" channel="A11.webtv.sk">
+    <title lang="id">Olomoucký magazín</title>
+  </programme>
+  <programme start="20251203060000 +0000" stop="20251203062000 +0000" channel="A11.webtv.sk">
+    <title lang="id">Týden ze západu Čech</title>
+  </programme>
+  <programme start="20251203062000 +0000" stop="20251203064000 +0000" channel="A11.webtv.sk">
+    <title lang="id">O letadlech a létání</title>
+  </programme>
+  <programme start="20251203064000 +0000" stop="20251203070000 +0000" channel="A11.webtv.sk">
+    <title lang="id">S ženskou za kniplem</title>
+  </programme>
+  <programme start="20251203070000 +0000" stop="20251203091000 +0000" channel="A11.webtv.sk">
+    <title lang="id">Dobrý večer s A11</title>
+  </programme>
+  <programme start="20251203091000 +0000" stop="20251203093000 +0000" channel="A11.webtv.sk">
+    <title lang="id">Putování v regionech</title>
+  </programme>
+  <programme start="20251203093000 +0000" stop="20251203101500 +0000" channel="A11.webtv.sk">
+    <title lang="id">Vtipkování</title>
+  </programme>
+  <programme start="20251203101500 +0000" stop="20251203111000 +0000" channel="A11.webtv.sk">
+    <title lang="id">Mladý Svět</title>
+  </programme>
+  <programme start="20251203111000 +0000" stop="20251203114000 +0000" channel="A11.webtv.sk">
+    <title lang="id">Cesta na Olymp</title>
+  </programme>
+  <programme start="20251203114000 +0000" stop="20251203122000 +0000" channel="A11.webtv.sk">
+    <title lang="id">Pozor vlak</title>
+  </programme>
+  <programme start="20251203122000 +0000" stop="20251203125000 +0000" channel="A11.webtv.sk">
+    <title lang="id">Občanská sebeobrana Josefa Klímy</title>
+  </programme>
+  <programme start="20251203125000 +0000" stop="20251203130500 +0000" channel="A11.webtv.sk">
+    <title lang="id">S ženskou za kniplem</title>
+  </programme>
+  <programme start="20251203130500 +0000" stop="20251203133500 +0000" channel="A11.webtv.sk">
+    <title lang="id">Zločin jak ho pamatuju</title>
+  </programme>
+  <programme start="20251203133500 +0000" stop="20251203140000 +0000" channel="A11.webtv.sk">
+    <title lang="id">Putování v regionech</title>
+  </programme>
+  <programme start="20251203140000 +0000" stop="20251203142000 +0000" channel="A11.webtv.sk">
+    <title lang="id">Magazín z Orlickoústecka</title>
+  </programme>
+  <programme start="20251203142000 +0000" stop="20251203145000 +0000" channel="A11.webtv.sk">
+    <title lang="id">Magazín z Prostějova</title>
+  </programme>
+  <programme start="20251203145000 +0000" stop="20251203154500 +0000" channel="A11.webtv.sk">
+    <title lang="id">Mladý Svět</title>
+  </programme>
+  <programme start="20251203154500 +0000" stop="20251203163000 +0000" channel="A11.webtv.sk">
+    <title lang="id">Pozor vlak</title>
+  </programme>
+  <programme start="20251203163000 +0000" stop="20251203170000 +0000" channel="A11.webtv.sk">
+    <title lang="id">A11 rozhovor</title>
+  </programme>
+  <programme start="20251203170000 +0000" stop="20251203191500 +0000" channel="A11.webtv.sk">
+    <title lang="id">Dobrý večer s A11</title>
+  </programme>
+  <programme start="20251203191500 +0000" stop="20251203201000 +0000" channel="A11.webtv.sk">
+    <title lang="id">Co vy na to!?</title>
+  </programme>
+  <programme start="20251203201000 +0000" stop="20251203213000 +0000" channel="A11.webtv.sk">
+    <title lang="id">Hvězdná kavárna Pepy Melena</title>
+  </programme>
+  <programme start="20251203213000 +0000" stop="20251203221500 +0000" channel="A11.webtv.sk">
+    <title lang="id">Vtipkování</title>
+  </programme>
+  <programme start="20251203221500 +0000" stop="20251203231000 +0000" channel="A11.webtv.sk">
+    <title lang="id">Show podle Michaela V. V (6)</title>
   </programme>
   <programme start="20251202230000 +0000" stop="20251202233000 +0000" channel="Fashion TV Czech & Slovak.webtv.sk">
     <title lang="id">Lingerie</title>
@@ -9345,6 +9768,129 @@
   </programme>
   <programme start="20251203223000 +0000" stop="20251203230000 +0000" channel="Fast and Funbox.webtv.sk">
     <title lang="id">Cape Epic 2019 I (9)</title>
+  </programme>
+  <programme start="20251202225500 +0000" stop="20251202234500 +0000" channel="DocuBox.webtv.sk">
+    <title lang="id">Colonies Under the Sea</title>
+  </programme>
+  <programme start="20251202234500 +0000" stop="20251203004000 +0000" channel="DocuBox.webtv.sk">
+    <title lang="id">Freedom, the Legend of the Eagles</title>
+  </programme>
+  <programme start="20251203004000 +0000" stop="20251203014000 +0000" channel="DocuBox.webtv.sk">
+    <title lang="id">Mefloquine</title>
+  </programme>
+  <programme start="20251203014000 +0000" stop="20251203021000 +0000" channel="DocuBox.webtv.sk">
+    <title lang="id">Music Voyager (2)</title>
+  </programme>
+  <programme start="20251203021000 +0000" stop="20251203024000 +0000" channel="DocuBox.webtv.sk">
+    <title lang="id">Music Voyager (32)</title>
+  </programme>
+  <programme start="20251203024000 +0000" stop="20251203030500 +0000" channel="DocuBox.webtv.sk">
+    <title lang="id">Rip Files I (2)</title>
+  </programme>
+  <programme start="20251203030500 +0000" stop="20251203033000 +0000" channel="DocuBox.webtv.sk">
+    <title lang="id">Rip Files I (3)</title>
+  </programme>
+  <programme start="20251203033000 +0000" stop="20251203041500 +0000" channel="DocuBox.webtv.sk">
+    <title lang="id">The Past Hunters (2)</title>
+  </programme>
+  <programme start="20251203041500 +0000" stop="20251203050000 +0000" channel="DocuBox.webtv.sk">
+    <title lang="id">The Past Hunters (4)</title>
+  </programme>
+  <programme start="20251203050000 +0000" stop="20251203053000 +0000" channel="DocuBox.webtv.sk">
+    <title lang="id">What in the World (2)</title>
+  </programme>
+  <programme start="20251203053000 +0000" stop="20251203060000 +0000" channel="DocuBox.webtv.sk">
+    <title lang="id">What in the World (3)</title>
+  </programme>
+  <programme start="20251203060000 +0000" stop="20251203062500 +0000" channel="DocuBox.webtv.sk">
+    <title lang="id">Travel Thru History (3)</title>
+  </programme>
+  <programme start="20251203062500 +0000" stop="20251203065000 +0000" channel="DocuBox.webtv.sk">
+    <title lang="id">Travel Thru History (4)</title>
+  </programme>
+  <programme start="20251203065000 +0000" stop="20251203072000 +0000" channel="DocuBox.webtv.sk">
+    <title lang="id">Nature&apos;s Force (3)</title>
+  </programme>
+  <programme start="20251203072000 +0000" stop="20251203075000 +0000" channel="DocuBox.webtv.sk">
+    <title lang="id">Nature&apos;s Force (4)</title>
+  </programme>
+  <programme start="20251203075000 +0000" stop="20251203081500 +0000" channel="DocuBox.webtv.sk">
+    <title lang="id">Animal Embassy (3)</title>
+  </programme>
+  <programme start="20251203081500 +0000" stop="20251203084000 +0000" channel="DocuBox.webtv.sk">
+    <title lang="id">Animal Embassy (4)</title>
+  </programme>
+  <programme start="20251203084000 +0000" stop="20251203090500 +0000" channel="DocuBox.webtv.sk">
+    <title lang="id">Sarah Shark (3)</title>
+  </programme>
+  <programme start="20251203090500 +0000" stop="20251203100000 +0000" channel="DocuBox.webtv.sk">
+    <title lang="id">Meet My Wild Friend (3)</title>
+  </programme>
+  <programme start="20251203100000 +0000" stop="20251203105500 +0000" channel="DocuBox.webtv.sk">
+    <title lang="id">Meet My Wild Friend (1)</title>
+  </programme>
+  <programme start="20251203105500 +0000" stop="20251203112000 +0000" channel="DocuBox.webtv.sk">
+    <title lang="id">Angelo&apos;s Outdoor Kitchen (3)</title>
+  </programme>
+  <programme start="20251203112000 +0000" stop="20251203114500 +0000" channel="DocuBox.webtv.sk">
+    <title lang="id">Angelo&apos;s Outdoor Kitchen (4)</title>
+  </programme>
+  <programme start="20251203114500 +0000" stop="20251203124000 +0000" channel="DocuBox.webtv.sk">
+    <title lang="id">Nomads (25)</title>
+  </programme>
+  <programme start="20251203124000 +0000" stop="20251203133500 +0000" channel="DocuBox.webtv.sk">
+    <title lang="id">Nomads (40)</title>
+  </programme>
+  <programme start="20251203133500 +0000" stop="20251203140500 +0000" channel="DocuBox.webtv.sk">
+    <title lang="id">Show Me Where You Live I (3)</title>
+  </programme>
+  <programme start="20251203140500 +0000" stop="20251203143500 +0000" channel="DocuBox.webtv.sk">
+    <title lang="id">Show Me Where You Live I (4)</title>
+  </programme>
+  <programme start="20251203143500 +0000" stop="20251203150000 +0000" channel="DocuBox.webtv.sk">
+    <title lang="id">Outta Town Adventures I (1)</title>
+  </programme>
+  <programme start="20251203150000 +0000" stop="20251203152500 +0000" channel="DocuBox.webtv.sk">
+    <title lang="id">Journeys in Africa I (3)</title>
+  </programme>
+  <programme start="20251203152500 +0000" stop="20251203155500 +0000" channel="DocuBox.webtv.sk">
+    <title lang="id">Journeys in Africa I (4)</title>
+  </programme>
+  <programme start="20251203155500 +0000" stop="20251203162500 +0000" channel="DocuBox.webtv.sk">
+    <title lang="id">Journeys in India II (12)</title>
+  </programme>
+  <programme start="20251203162500 +0000" stop="20251203165500 +0000" channel="DocuBox.webtv.sk">
+    <title lang="id">Journeys in India II (3)</title>
+  </programme>
+  <programme start="20251203165500 +0000" stop="20251203172000 +0000" channel="DocuBox.webtv.sk">
+    <title lang="id">Outta Town Adventures I (2)</title>
+  </programme>
+  <programme start="20251203172000 +0000" stop="20251203175000 +0000" channel="DocuBox.webtv.sk">
+    <title lang="id">The Great Journey (2)</title>
+  </programme>
+  <programme start="20251203175000 +0000" stop="20251203181500 +0000" channel="DocuBox.webtv.sk">
+    <title lang="id">European Islands (4)</title>
+  </programme>
+  <programme start="20251203181500 +0000" stop="20251203184500 +0000" channel="DocuBox.webtv.sk">
+    <title lang="id">European Islands (1)</title>
+  </programme>
+  <programme start="20251203184500 +0000" stop="20251203191000 +0000" channel="DocuBox.webtv.sk">
+    <title lang="id">Blue World V (3)</title>
+  </programme>
+  <programme start="20251203191000 +0000" stop="20251203200500 +0000" channel="DocuBox.webtv.sk">
+    <title lang="id">Paris Berlin: Shapes and Shades of History (1)</title>
+  </programme>
+  <programme start="20251203200500 +0000" stop="20251203210000 +0000" channel="DocuBox.webtv.sk">
+    <title lang="id">Paris Berlin: Shapes and Shades of History (2)</title>
+  </programme>
+  <programme start="20251203210000 +0000" stop="20251203220000 +0000" channel="DocuBox.webtv.sk">
+    <title lang="id">WWII Documentary Films (1)</title>
+  </programme>
+  <programme start="20251203220000 +0000" stop="20251203225500 +0000" channel="DocuBox.webtv.sk">
+    <title lang="id">WWII Documentary Films (2)</title>
+  </programme>
+  <programme start="20251203225500 +0000" stop="20251203232000 +0000" channel="DocuBox.webtv.sk">
+    <title lang="id">What in the World (1)</title>
   </programme>
   <programme start="20251202230000 +0000" stop="20251202231000 +0000" channel="Disney Channel.webtv.sk">
     <title lang="id">Kluk Holka atd. (46)</title>
@@ -16225,6 +16771,198 @@
   <programme start="20251203223000 +0000" stop="20251203233000 +0000" channel="TVP Polonia.webtv.sk">
     <title lang="id">Magazyn Ekspresu Reporterów (1058)</title>
   </programme>
+  <programme start="20251202220100 +0000" stop="20251202233000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Інформаційні сюжети</title>
+  </programme>
+  <programme start="20251202233000 +0000" stop="20251203030000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">FreeДОМ</title>
+  </programme>
+  <programme start="20251203030000 +0000" stop="20251203040000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Інформаційні сюжети</title>
+  </programme>
+  <programme start="20251203040000 +0000" stop="20251203041000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Наш час</title>
+  </programme>
+  <programme start="20251203041000 +0000" stop="20251203043000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Pеальна історія</title>
+  </programme>
+  <programme start="20251203043000 +0000" stop="20251203050000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Інформаційні сюжети</title>
+  </programme>
+  <programme start="20251203050000 +0000" stop="20251203053000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Наш час</title>
+  </programme>
+  <programme start="20251203053000 +0000" stop="20251203060000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Інформаційні сюжети</title>
+  </programme>
+  <programme start="20251203060000 +0000" stop="20251203061000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Наш час</title>
+  </programme>
+  <programme start="20251203061000 +0000" stop="20251203080000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">FreeДОМ</title>
+  </programme>
+  <programme start="20251203080000 +0000" stop="20251203081500 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Антизомбі</title>
+  </programme>
+  <programme start="20251203081500 +0000" stop="20251203083000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Громадянська оборона</title>
+  </programme>
+  <programme start="20251203083000 +0000" stop="20251203093000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Інформаційні сюжети</title>
+  </programme>
+  <programme start="20251203093000 +0000" stop="20251203100000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Ваші гроші</title>
+  </programme>
+  <programme start="20251203100000 +0000" stop="20251203101000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Наш час</title>
+  </programme>
+  <programme start="20251203101000 +0000" stop="20251203110000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">FreeДОМ</title>
+  </programme>
+  <programme start="20251203110000 +0000" stop="20251203113000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Популярна історія</title>
+  </programme>
+  <programme start="20251203113000 +0000" stop="20251203130000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">FreeДОМ</title>
+  </programme>
+  <programme start="20251203130000 +0000" stop="20251203133000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Люди доброї волі</title>
+  </programme>
+  <programme start="20251203133000 +0000" stop="20251203140000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Інформаційні сюжети</title>
+  </programme>
+  <programme start="20251203140000 +0000" stop="20251203143000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Наш час</title>
+  </programme>
+  <programme start="20251203143000 +0000" stop="20251203160000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">FreeДОМ</title>
+  </programme>
+  <programme start="20251203160000 +0000" stop="20251203163000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Останній день диктатора</title>
+  </programme>
+  <programme start="20251203163000 +0000" stop="20251203190000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">FreeДОМ</title>
+  </programme>
+  <programme start="20251203190000 +0000" stop="20251203193000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Наш час</title>
+  </programme>
+  <programme start="20251203193000 +0000" stop="20251203203000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">FreeДОМ</title>
+  </programme>
+  <programme start="20251203203000 +0000" stop="20251203204000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Наш час</title>
+  </programme>
+  <programme start="20251203204000 +0000" stop="20251203211000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Небайдужі</title>
+  </programme>
+  <programme start="20251203211000 +0000" stop="20251203220000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Інформаційні сюжети</title>
+  </programme>
+  <programme start="20251203220000 +0000" stop="20251203220100 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Гімн України</title>
+  </programme>
+  <programme start="20251203220100 +0000" stop="20251203233000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Інформаційні сюжети</title>
+  </programme>
+  <programme start="20251202220000 +0000" stop="20251202234500 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Великий ефір Василя Зими</title>
+  </programme>
+  <programme start="20251202234500 +0000" stop="20251203013000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Вердикт</title>
+  </programme>
+  <programme start="20251203013000 +0000" stop="20251203020000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Коментар з Антоном Борковським</title>
+  </programme>
+  <programme start="20251203020000 +0000" stop="20251203024000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">СвітОгляд з Євгеном Магдою</title>
+  </programme>
+  <programme start="20251203024000 +0000" stop="20251203030000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Близько політики, близько світу</title>
+  </programme>
+  <programme start="20251203030000 +0000" stop="20251203050000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Вердикт</title>
+  </programme>
+  <programme start="20251203050000 +0000" stop="20251203051000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Новини</title>
+  </programme>
+  <programme start="20251203051000 +0000" stop="20251203060000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Інформаційний марафон</title>
+  </programme>
+  <programme start="20251203060000 +0000" stop="20251203061000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Новини</title>
+  </programme>
+  <programme start="20251203061000 +0000" stop="20251203070000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Інформаційний марафон</title>
+  </programme>
+  <programme start="20251203070000 +0000" stop="20251203070100 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Хвилина мовчання</title>
+  </programme>
+  <programme start="20251203070100 +0000" stop="20251203080000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Інформаційний марафон</title>
+  </programme>
+  <programme start="20251203080000 +0000" stop="20251203081000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Новини</title>
+  </programme>
+  <programme start="20251203081000 +0000" stop="20251203090000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Інформаційний марафон</title>
+  </programme>
+  <programme start="20251203090000 +0000" stop="20251203091000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Новини</title>
+  </programme>
+  <programme start="20251203091000 +0000" stop="20251203094500 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Хроніки інформаційної війни</title>
+  </programme>
+  <programme start="20251203094500 +0000" stop="20251203100000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Актуальні сюжети</title>
+  </programme>
+  <programme start="20251203100000 +0000" stop="20251203103000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Новини</title>
+  </programme>
+  <programme start="20251203103000 +0000" stop="20251203111000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Pозмовна студія</title>
+  </programme>
+  <programme start="20251203111000 +0000" stop="20251203130000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Вердикт</title>
+  </programme>
+  <programme start="20251203130000 +0000" stop="20251203140000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Євроінтеграція з Юрієм Фізером</title>
+  </programme>
+  <programme start="20251203140000 +0000" stop="20251203141000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Новини</title>
+  </programme>
+  <programme start="20251203141000 +0000" stop="20251203150000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Коментар з Антоном Борковським</title>
+  </programme>
+  <programme start="20251203150000 +0000" stop="20251203151000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Новини</title>
+  </programme>
+  <programme start="20251203151000 +0000" stop="20251203160000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Коментар з Антоном Борковським</title>
+  </programme>
+  <programme start="20251203160000 +0000" stop="20251203161500 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Новини</title>
+  </programme>
+  <programme start="20251203161500 +0000" stop="20251203180000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Великий ефір Василя Зими</title>
+  </programme>
+  <programme start="20251203180000 +0000" stop="20251203190000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Вердикт</title>
+  </programme>
+  <programme start="20251203190000 +0000" stop="20251203191500 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">BBC News Україна</title>
+  </programme>
+  <programme start="20251203191500 +0000" stop="20251203200000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Вердикт</title>
+  </programme>
+  <programme start="20251203200000 +0000" stop="20251203210000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Коментар з Антоном Борковським</title>
+  </programme>
+  <programme start="20251203210000 +0000" stop="20251203220000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Свобода Live</title>
+  </programme>
+  <programme start="20251203220000 +0000" stop="20251203234500 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Великий ефір Василя Зими</title>
+  </programme>
   <programme start="20251202230000 +0000" stop="20251202233000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">Неизвестная Pоссия</title>
   </programme>
@@ -16683,6 +17421,480 @@
   </programme>
   <programme start="20251203223000 +0000" stop="20251203230000 +0000" channel="Euronews.webtv.sk">
     <title lang="id">The European debrief</title>
+  </programme>
+  <programme start="20251202230000 +0000" stop="20251202232800 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">NHK NEWSLINE</title>
+  </programme>
+  <programme start="20251202232800 +0000" stop="20251202233000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20251202233000 +0000" stop="20251202235800 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">Journeys in Japan</title>
+  </programme>
+  <programme start="20251202235800 +0000" stop="20251203000000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20251203000000 +0000" stop="20251203002800 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">NHK NEWSLINE</title>
+  </programme>
+  <programme start="20251203002800 +0000" stop="20251203003000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20251203003000 +0000" stop="20251203004500 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">DEEPER LOOK</title>
+  </programme>
+  <programme start="20251203004500 +0000" stop="20251203005500 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">Dig More Japan</title>
+  </programme>
+  <programme start="20251203005500 +0000" stop="20251203010000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">Dining with the Chef Mini</title>
+  </programme>
+  <programme start="20251203010000 +0000" stop="20251203012800 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">NHK NEWSLINE</title>
+  </programme>
+  <programme start="20251203012800 +0000" stop="20251203013000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20251203013000 +0000" stop="20251203015800 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">Dining with the Chef</title>
+  </programme>
+  <programme start="20251203015800 +0000" stop="20251203020000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20251203020000 +0000" stop="20251203022800 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">NEWSROOM TOKYO</title>
+  </programme>
+  <programme start="20251203022800 +0000" stop="20251203024300 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">Direct Talk</title>
+  </programme>
+  <programme start="20251203024300 +0000" stop="20251203024800 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">JAPAN DELISH</title>
+  </programme>
+  <programme start="20251203024800 +0000" stop="20251203025300 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">National Parks of Japan</title>
+  </programme>
+  <programme start="20251203025300 +0000" stop="20251203025500 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20251203025500 +0000" stop="20251203030000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">Ukiyoe EDO-LIFE</title>
+  </programme>
+  <programme start="20251203030000 +0000" stop="20251203032900 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">Japan in Focus</title>
+  </programme>
+  <programme start="20251203032900 +0000" stop="20251203033000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20251203033000 +0000" stop="20251203035900 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">Document 72 Hours</title>
+  </programme>
+  <programme start="20251203035900 +0000" stop="20251203040000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20251203040000 +0000" stop="20251203042800 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">NHK NEWSLINE</title>
+  </programme>
+  <programme start="20251203042800 +0000" stop="20251203043000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20251203043000 +0000" stop="20251203045800 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">Science View</title>
+  </programme>
+  <programme start="20251203045800 +0000" stop="20251203050000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20251203050000 +0000" stop="20251203052800 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">NHK NEWSLINE</title>
+  </programme>
+  <programme start="20251203052800 +0000" stop="20251203053000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20251203053000 +0000" stop="20251203055800 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">Journeys in Japan</title>
+  </programme>
+  <programme start="20251203055800 +0000" stop="20251203060000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20251203060000 +0000" stop="20251203062800 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">NHK NEWSLINE</title>
+  </programme>
+  <programme start="20251203062800 +0000" stop="20251203063000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20251203063000 +0000" stop="20251203065800 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">Dining with the Chef</title>
+  </programme>
+  <programme start="20251203065800 +0000" stop="20251203070000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20251203070000 +0000" stop="20251203072800 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">NHK NEWSLINE</title>
+  </programme>
+  <programme start="20251203072800 +0000" stop="20251203073000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20251203073000 +0000" stop="20251203074500 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">DEEPER LOOK</title>
+  </programme>
+  <programme start="20251203074500 +0000" stop="20251203075500 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">Dig More Japan</title>
+  </programme>
+  <programme start="20251203075500 +0000" stop="20251203080000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">Dining with the Chef Mini</title>
+  </programme>
+  <programme start="20251203080000 +0000" stop="20251203082800 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">NHK NEWSLINE</title>
+  </programme>
+  <programme start="20251203082800 +0000" stop="20251203083000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20251203083000 +0000" stop="20251203085800 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">Dive in Tokyo</title>
+  </programme>
+  <programme start="20251203085800 +0000" stop="20251203090000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20251203090000 +0000" stop="20251203092800 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">NHK NEWSLINE</title>
+  </programme>
+  <programme start="20251203092800 +0000" stop="20251203093000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20251203093000 +0000" stop="20251203094500 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">Direct Talk</title>
+  </programme>
+  <programme start="20251203094500 +0000" stop="20251203100000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">Japan&apos;s Top Inventions</title>
+  </programme>
+  <programme start="20251203100000 +0000" stop="20251203102800 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">NHK NEWSLINE</title>
+  </programme>
+  <programme start="20251203102800 +0000" stop="20251203103000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20251203103000 +0000" stop="20251203105800 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">FRONTRUNNERS</title>
+  </programme>
+  <programme start="20251203105800 +0000" stop="20251203110000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20251203110000 +0000" stop="20251203112800 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">NHK NEWSLINE</title>
+  </programme>
+  <programme start="20251203112800 +0000" stop="20251203113000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20251203113000 +0000" stop="20251203115800 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">Science View</title>
+  </programme>
+  <programme start="20251203115800 +0000" stop="20251203120000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20251203120000 +0000" stop="20251203122800 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">NHK NEWSLINE</title>
+  </programme>
+  <programme start="20251203122800 +0000" stop="20251203123000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20251203123000 +0000" stop="20251203125800 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">KABUKI KOOL</title>
+  </programme>
+  <programme start="20251203125800 +0000" stop="20251203130000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20251203130000 +0000" stop="20251203132800 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">NHK NEWSLINE</title>
+  </programme>
+  <programme start="20251203132800 +0000" stop="20251203133000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20251203133000 +0000" stop="20251203135800 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">Dive in Tokyo</title>
+  </programme>
+  <programme start="20251203135800 +0000" stop="20251203140000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20251203140000 +0000" stop="20251203142800 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">NEWSLINE ASIA 24</title>
+  </programme>
+  <programme start="20251203142800 +0000" stop="20251203143000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20251203143000 +0000" stop="20251203144500 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">Direct Talk</title>
+  </programme>
+  <programme start="20251203144500 +0000" stop="20251203150000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">Japan&apos;s Top Inventions</title>
+  </programme>
+  <programme start="20251203150000 +0000" stop="20251203152800 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">NEWSLINE ASIA 24</title>
+  </programme>
+  <programme start="20251203152800 +0000" stop="20251203153000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20251203153000 +0000" stop="20251203155800 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">FRONTRUNNERS</title>
+  </programme>
+  <programme start="20251203155800 +0000" stop="20251203160000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20251203160000 +0000" stop="20251203162800 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">NHK NEWSLINE</title>
+  </programme>
+  <programme start="20251203162800 +0000" stop="20251203163000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20251203163000 +0000" stop="20251203165800 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">KABUKI KOOL</title>
+  </programme>
+  <programme start="20251203165800 +0000" stop="20251203170000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20251203170000 +0000" stop="20251203172800 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">NHK NEWSLINE</title>
+  </programme>
+  <programme start="20251203172800 +0000" stop="20251203173000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20251203173000 +0000" stop="20251203175800 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">Science View</title>
+  </programme>
+  <programme start="20251203175800 +0000" stop="20251203180000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20251203180000 +0000" stop="20251203183000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">NHK NEWS 7</title>
+  </programme>
+  <programme start="20251203183000 +0000" stop="20251203185800 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">Dive in Tokyo</title>
+  </programme>
+  <programme start="20251203185800 +0000" stop="20251203190000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20251203190000 +0000" stop="20251203192800 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">NEWSROOM TOKYO</title>
+  </programme>
+  <programme start="20251203192800 +0000" stop="20251203194300 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">Direct Talk</title>
+  </programme>
+  <programme start="20251203194300 +0000" stop="20251203194800 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">JAPAN DELISH</title>
+  </programme>
+  <programme start="20251203194800 +0000" stop="20251203195300 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">National Parks of Japan</title>
+  </programme>
+  <programme start="20251203195300 +0000" stop="20251203195500 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20251203195500 +0000" stop="20251203200000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">Ukiyoe EDO-LIFE</title>
+  </programme>
+  <programme start="20251203200000 +0000" stop="20251203202800 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">NEWSROOM TOKYO</title>
+  </programme>
+  <programme start="20251203202800 +0000" stop="20251203203000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20251203203000 +0000" stop="20251203204500 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">Direct Talk</title>
+  </programme>
+  <programme start="20251203204500 +0000" stop="20251203210000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">Japan&apos;s Top Inventions</title>
+  </programme>
+  <programme start="20251203210000 +0000" stop="20251203212800 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">NHK NEWSLINE</title>
+  </programme>
+  <programme start="20251203212800 +0000" stop="20251203213000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20251203213000 +0000" stop="20251203215800 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">FRONTRUNNERS</title>
+  </programme>
+  <programme start="20251203215800 +0000" stop="20251203220000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20251203220000 +0000" stop="20251203222800 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">NHK NEWSLINE</title>
+  </programme>
+  <programme start="20251203222800 +0000" stop="20251203223000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20251203223000 +0000" stop="20251203225800 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">Trails to Oishii Tokyo</title>
+  </programme>
+  <programme start="20251203225800 +0000" stop="20251203230000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20251202230000 +0000" stop="20251202232000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">K-arts Artists</title>
+  </programme>
+  <programme start="20251202232000 +0000" stop="20251202233000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">Exploring Korean Literature B</title>
+  </programme>
+  <programme start="20251202233000 +0000" stop="20251202235000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">1day 1k-culture: K-story</title>
+  </programme>
+  <programme start="20251202235000 +0000" stop="20251203000000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">Smartbiz Accel 2</title>
+  </programme>
+  <programme start="20251203000000 +0000" stop="20251203003000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">Premium Collection B</title>
+  </programme>
+  <programme start="20251203003000 +0000" stop="20251203010000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">Seoulscape</title>
+  </programme>
+  <programme start="20251203010000 +0000" stop="20251203013000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">New Day At Arirang</title>
+  </programme>
+  <programme start="20251203013000 +0000" stop="20251203020000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">News Generation</title>
+  </programme>
+  <programme start="20251203020000 +0000" stop="20251203030000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">Culture Crunch</title>
+  </programme>
+  <programme start="20251203030000 +0000" stop="20251203033000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">Arirang News 12:00</title>
+  </programme>
+  <programme start="20251203033000 +0000" stop="20251203040000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">Talk Room</title>
+  </programme>
+  <programme start="20251203040000 +0000" stop="20251203043000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">I&apos;m Live</title>
+  </programme>
+  <programme start="20251203043000 +0000" stop="20251203050000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">K-stage Pan</title>
+  </programme>
+  <programme start="20251203050000 +0000" stop="20251203053000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">The Kulture Wave</title>
+  </programme>
+  <programme start="20251203053000 +0000" stop="20251203060000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">News Generation</title>
+  </programme>
+  <programme start="20251203060000 +0000" stop="20251203063000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">Home To Table</title>
+  </programme>
+  <programme start="20251203063000 +0000" stop="20251203070000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">Premium Collection B</title>
+  </programme>
+  <programme start="20251203070000 +0000" stop="20251203070500 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">Ai Headline News 16:00</title>
+  </programme>
+  <programme start="20251203070500 +0000" stop="20251203074000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">Talk Room</title>
+  </programme>
+  <programme start="20251203074000 +0000" stop="20251203080000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">1day 1k-culture: K-story</title>
+  </programme>
+  <programme start="20251203080000 +0000" stop="20251203083000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">The Daily Report</title>
+  </programme>
+  <programme start="20251203083000 +0000" stop="20251203090000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">Press Perspective</title>
+  </programme>
+  <programme start="20251203090000 +0000" stop="20251203093000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">I&apos;m Live</title>
+  </programme>
+  <programme start="20251203093000 +0000" stop="20251203100000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">K-stage Pan</title>
+  </programme>
+  <programme start="20251203100000 +0000" stop="20251203103000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">Talk Room</title>
+  </programme>
+  <programme start="20251203103000 +0000" stop="20251203110000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">Premium Collection B</title>
+  </programme>
+  <programme start="20251203110000 +0000" stop="20251203113000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">Newscenter</title>
+  </programme>
+  <programme start="20251203113000 +0000" stop="20251203120000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">Within The Frame</title>
+  </programme>
+  <programme start="20251203120000 +0000" stop="20251203123000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">The Kulture Wave</title>
+  </programme>
+  <programme start="20251203123000 +0000" stop="20251203125000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">1day 1k-culture: K-story</title>
+  </programme>
+  <programme start="20251203125000 +0000" stop="20251203130000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">Smartbiz Accel 2</title>
+  </programme>
+  <programme start="20251203130000 +0000" stop="20251203130500 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">Ai Headline News 22:00</title>
+  </programme>
+  <programme start="20251203130500 +0000" stop="20251203134000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">Seoulscape</title>
+  </programme>
+  <programme start="20251203134000 +0000" stop="20251203140000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">Korea Travelogue 4</title>
+  </programme>
+  <programme start="20251203140000 +0000" stop="20251203143000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">Press Perspective</title>
+  </programme>
+  <programme start="20251203143000 +0000" stop="20251203150000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">Talk Room</title>
+  </programme>
+  <programme start="20251203150000 +0000" stop="20251203153000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">I&apos;m Live</title>
+  </programme>
+  <programme start="20251203153000 +0000" stop="20251203160000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">K-stage Pan</title>
+  </programme>
+  <programme start="20251203160000 +0000" stop="20251203162000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">K-arts Artists</title>
+  </programme>
+  <programme start="20251203162000 +0000" stop="20251203163000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">Exploring Korean Literature A</title>
+  </programme>
+  <programme start="20251203163000 +0000" stop="20251203170000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">Premium Collection B</title>
+  </programme>
+  <programme start="20251203170000 +0000" stop="20251203173000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">The Kulture Wave</title>
+  </programme>
+  <programme start="20251203173000 +0000" stop="20251203180000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">Within The Frame</title>
+  </programme>
+  <programme start="20251203180000 +0000" stop="20251203183000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">Discover World</title>
+  </programme>
+  <programme start="20251203183000 +0000" stop="20251203185000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">1day 1k-culture: K-story</title>
+  </programme>
+  <programme start="20251203185000 +0000" stop="20251203190000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">Exploring Korean Literature B</title>
+  </programme>
+  <programme start="20251203190000 +0000" stop="20251203200000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">Arirang Special</title>
+  </programme>
+  <programme start="20251203200000 +0000" stop="20251203203000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">Talk Room</title>
+  </programme>
+  <programme start="20251203203000 +0000" stop="20251203210000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">Seoulscape</title>
+  </programme>
+  <programme start="20251203210000 +0000" stop="20251203213000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">Press Perspective</title>
+  </programme>
+  <programme start="20251203213000 +0000" stop="20251203215000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">Korea Travelogue 4</title>
+  </programme>
+  <programme start="20251203215000 +0000" stop="20251203220000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">Discovering Korea: Experience</title>
+  </programme>
+  <programme start="20251203220000 +0000" stop="20251203222000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">The Grand Heritage Asmr</title>
+  </programme>
+  <programme start="20251203222000 +0000" stop="20251203223000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">Heritage Walks With Little Friend</title>
+  </programme>
+  <programme start="20251203223000 +0000" stop="20251203224000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">K-chat: Conversing In Korean</title>
+  </programme>
+  <programme start="20251203224000 +0000" stop="20251203225000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">K-chat: Travel In Korea</title>
+  </programme>
+  <programme start="20251203225000 +0000" stop="20251203230000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">Exploring Korean Literature A</title>
   </programme>
   <programme start="20251202230000 +0000" stop="20251202233000 +0000" channel="TRT World.webtv.sk">
     <title lang="id">News</title>
@@ -17688,6 +18900,471 @@
   </programme>
   <programme start="20251203225100 +0000" stop="20251203230000 +0000" channel="France 24.webtv.sk">
     <title lang="id">FOCUS</title>
+  </programme>
+  <programme start="20251202230000 +0000" stop="20251203002500 +0000" channel="Rai Uno.webtv.sk">
+    <title lang="id">Porta a porta</title>
+  </programme>
+  <programme start="20251203002500 +0000" stop="20251203003000 +0000" channel="Rai Uno.webtv.sk">
+    <title lang="id">Che tempo fa</title>
+  </programme>
+  <programme start="20251203003000 +0000" stop="20251203014500 +0000" channel="Rai Uno.webtv.sk">
+    <title lang="id">L&apos;Eredita</title>
+  </programme>
+  <programme start="20251203014500 +0000" stop="20251203023500 +0000" channel="Rai Uno.webtv.sk">
+    <title lang="id">Nero a meta I (7)</title>
+  </programme>
+  <programme start="20251203023500 +0000" stop="20251203033000 +0000" channel="Rai Uno.webtv.sk">
+    <title lang="id">Nero a meta I (8)</title>
+  </programme>
+  <programme start="20251203033000 +0000" stop="20251203050000 +0000" channel="Rai Uno.webtv.sk">
+    <title lang="id">RaiNews</title>
+  </programme>
+  <programme start="20251203050000 +0000" stop="20251203052800 +0000" channel="Rai Uno.webtv.sk">
+    <title lang="id">1mattina News</title>
+  </programme>
+  <programme start="20251203052800 +0000" stop="20251203053000 +0000" channel="Rai Uno.webtv.sk">
+    <title lang="id">CCISS - Viaggiare informati</title>
+  </programme>
+  <programme start="20251203053000 +0000" stop="20251203053300 +0000" channel="Rai Uno.webtv.sk">
+    <title lang="id">Tg1</title>
+  </programme>
+  <programme start="20251203053300 +0000" stop="20251203055800 +0000" channel="Rai Uno.webtv.sk">
+    <title lang="id">1mattina News</title>
+  </programme>
+  <programme start="20251203055800 +0000" stop="20251203060000 +0000" channel="Rai Uno.webtv.sk">
+    <title lang="id">Che tempo fa</title>
+  </programme>
+  <programme start="20251203060000 +0000" stop="20251203061000 +0000" channel="Rai Uno.webtv.sk">
+    <title lang="id">Tg1</title>
+  </programme>
+  <programme start="20251203061000 +0000" stop="20251203070000 +0000" channel="Rai Uno.webtv.sk">
+    <title lang="id">1mattina News</title>
+  </programme>
+  <programme start="20251203070000 +0000" stop="20251203073000 +0000" channel="Rai Uno.webtv.sk">
+    <title lang="id">Tg1</title>
+  </programme>
+  <programme start="20251203073000 +0000" stop="20251203073500 +0000" channel="Rai Uno.webtv.sk">
+    <title lang="id">Che tempo fa</title>
+  </programme>
+  <programme start="20251203073500 +0000" stop="20251203075500 +0000" channel="Rai Uno.webtv.sk">
+    <title lang="id">Unomattina</title>
+  </programme>
+  <programme start="20251203075500 +0000" stop="20251203080000 +0000" channel="Rai Uno.webtv.sk">
+    <title lang="id">Tg Parlamento</title>
+  </programme>
+  <programme start="20251203080000 +0000" stop="20251203080300 +0000" channel="Rai Uno.webtv.sk">
+    <title lang="id">TG1 LIS</title>
+  </programme>
+  <programme start="20251203080300 +0000" stop="20251203084000 +0000" channel="Rai Uno.webtv.sk">
+    <title lang="id">Unomattina</title>
+  </programme>
+  <programme start="20251203084000 +0000" stop="20251203084200 +0000" channel="Rai Uno.webtv.sk">
+    <title lang="id">Meteo verde</title>
+  </programme>
+  <programme start="20251203084200 +0000" stop="20251203085000 +0000" channel="Rai Uno.webtv.sk">
+    <title lang="id">Unomattina</title>
+  </programme>
+  <programme start="20251203085000 +0000" stop="20251203105500 +0000" channel="Rai Uno.webtv.sk">
+    <title lang="id">Storie italiane</title>
+  </programme>
+  <programme start="20251203105500 +0000" stop="20251203123000 +0000" channel="Rai Uno.webtv.sk">
+    <title lang="id">E sempre mezzogiorno!</title>
+  </programme>
+  <programme start="20251203123000 +0000" stop="20251203130500 +0000" channel="Rai Uno.webtv.sk">
+    <title lang="id">Tg1</title>
+  </programme>
+  <programme start="20251203130500 +0000" stop="20251203150000 +0000" channel="Rai Uno.webtv.sk">
+    <title lang="id">La volta buona</title>
+  </programme>
+  <programme start="20251203150000 +0000" stop="20251203150500 +0000" channel="Rai Uno.webtv.sk">
+    <title lang="id">Tg1</title>
+  </programme>
+  <programme start="20251203150500 +0000" stop="20251203151000 +0000" channel="Rai Uno.webtv.sk">
+    <title lang="id">Che tempo fa</title>
+  </programme>
+  <programme start="20251203151000 +0000" stop="20251203160500 +0000" channel="Rai Uno.webtv.sk">
+    <title lang="id">Il paradiso delle signore X (63)</title>
+  </programme>
+  <programme start="20251203160500 +0000" stop="20251203174000 +0000" channel="Rai Uno.webtv.sk">
+    <title lang="id">Vita in diretta</title>
+  </programme>
+  <programme start="20251203174000 +0000" stop="20251203190000 +0000" channel="Rai Uno.webtv.sk">
+    <title lang="id">L&apos;Eredita</title>
+  </programme>
+  <programme start="20251203190000 +0000" stop="20251203193000 +0000" channel="Rai Uno.webtv.sk">
+    <title lang="id">Tg1</title>
+  </programme>
+  <programme start="20251203193000 +0000" stop="20251203193500 +0000" channel="Rai Uno.webtv.sk">
+    <title lang="id">Cinque Minuti</title>
+  </programme>
+  <programme start="20251203193500 +0000" stop="20251203203000 +0000" channel="Rai Uno.webtv.sk">
+    <title lang="id">Affari tuoi</title>
+  </programme>
+  <programme start="20251203203000 +0000" stop="20251203214000 +0000" channel="Rai Uno.webtv.sk">
+    <title lang="id">L&apos;altro ispettore I (3)</title>
+  </programme>
+  <programme start="20251203214000 +0000" stop="20251203224500 +0000" channel="Rai Uno.webtv.sk">
+    <title lang="id">L&apos;altro ispettore I (4)</title>
+  </programme>
+  <programme start="20251203224500 +0000" stop="20251203225500 +0000" channel="Rai Uno.webtv.sk">
+    <title lang="id">Porta a porta</title>
+  </programme>
+  <programme start="20251203225500 +0000" stop="20251203225900 +0000" channel="Rai Uno.webtv.sk">
+    <title lang="id">Tg1</title>
+  </programme>
+  <programme start="20251203225900 +0000" stop="20251204003000 +0000" channel="Rai Uno.webtv.sk">
+    <title lang="id">Porta a porta</title>
+  </programme>
+  <programme start="20251202230000 +0000" stop="20251203000000 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">Tg3 Linea Notte</title>
+  </programme>
+  <programme start="20251203000000 +0000" stop="20251203000500 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">Meteo 3</title>
+  </programme>
+  <programme start="20251203000500 +0000" stop="20251203001500 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">Parlamento Magazine</title>
+  </programme>
+  <programme start="20251203001500 +0000" stop="20251203004500 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">Sorgente di vita</title>
+  </programme>
+  <programme start="20251203004500 +0000" stop="20251203012000 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">Sulla via di Damasco</title>
+  </programme>
+  <programme start="20251203012000 +0000" stop="20251203050000 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">RaiNews</title>
+  </programme>
+  <programme start="20251203050000 +0000" stop="20251203060000 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">RaiNews</title>
+  </programme>
+  <programme start="20251203060000 +0000" stop="20251203063000 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">TGR Buongiorno Italia</title>
+  </programme>
+  <programme start="20251203063000 +0000" stop="20251203070000 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">TGR Buongiorno Regione</title>
+  </programme>
+  <programme start="20251203070000 +0000" stop="20251203084500 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">Agora</title>
+  </programme>
+  <programme start="20251203084500 +0000" stop="20251203094000 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">Re Start</title>
+  </programme>
+  <programme start="20251203094000 +0000" stop="20251203095500 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">Parlamento Spaziolibero</title>
+  </programme>
+  <programme start="20251203095500 +0000" stop="20251203105500 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">Elisir</title>
+  </programme>
+  <programme start="20251203105500 +0000" stop="20251203110000 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">Meteo 3</title>
+  </programme>
+  <programme start="20251203110000 +0000" stop="20251203112500 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">Tg3</title>
+  </programme>
+  <programme start="20251203112500 +0000" stop="20251203115000 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">TG3 Fuori TG</title>
+  </programme>
+  <programme start="20251203115000 +0000" stop="20251203122000 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">Quante storie</title>
+  </programme>
+  <programme start="20251203122000 +0000" stop="20251203130000 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">Passato e Presente</title>
+  </programme>
+  <programme start="20251203130000 +0000" stop="20251203131900 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">Tg Regione</title>
+  </programme>
+  <programme start="20251203131900 +0000" stop="20251203132000 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">Tg Regione Meteo</title>
+  </programme>
+  <programme start="20251203132000 +0000" stop="20251203134900 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">Tg3</title>
+  </programme>
+  <programme start="20251203134900 +0000" stop="20251203135000 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">Meteo 3</title>
+  </programme>
+  <programme start="20251203135000 +0000" stop="20251203140500 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">TGR Leonardo</title>
+  </programme>
+  <programme start="20251203140500 +0000" stop="20251203141500 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">TGR Piazza Affari</title>
+  </programme>
+  <programme start="20251203141500 +0000" stop="20251203142000 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">TG3 LIS</title>
+  </programme>
+  <programme start="20251203142000 +0000" stop="20251203142500 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">Tg Parlamento</title>
+  </programme>
+  <programme start="20251203142500 +0000" stop="20251203151000 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">Il commissario Rex</title>
+  </programme>
+  <programme start="20251203151000 +0000" stop="20251203180000 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">Geo</title>
+  </programme>
+  <programme start="20251203180000 +0000" stop="20251203183000 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">Tg3</title>
+  </programme>
+  <programme start="20251203183000 +0000" stop="20251203185100 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">Tg Regione</title>
+  </programme>
+  <programme start="20251203185100 +0000" stop="20251203190000 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">Tg Regione Meteo</title>
+  </programme>
+  <programme start="20251203190000 +0000" stop="20251203191500 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">Blob</title>
+  </programme>
+  <programme start="20251203191500 +0000" stop="20251203194000 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">Nuovi Eroi</title>
+  </programme>
+  <programme start="20251203194000 +0000" stop="20251203195000 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">Il cavallo e la torre</title>
+  </programme>
+  <programme start="20251203195000 +0000" stop="20251203202000 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">Un posto al sole XXIX</title>
+  </programme>
+  <programme start="20251203202000 +0000" stop="20251203230000 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">Chi l&apos;ha visto?</title>
+  </programme>
+  <programme start="20251202230000 +0000" stop="20251202233000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">The Heat</title>
+  </programme>
+  <programme start="20251202233000 +0000" stop="20251203000000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">The World Today</title>
+  </programme>
+  <programme start="20251203000000 +0000" stop="20251203010000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">Global Business</title>
+  </programme>
+  <programme start="20251203010000 +0000" stop="20251203013000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">The World Today</title>
+  </programme>
+  <programme start="20251203013000 +0000" stop="20251203020000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">China 24</title>
+  </programme>
+  <programme start="20251203020000 +0000" stop="20251203023000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">The World Today</title>
+  </programme>
+  <programme start="20251203023000 +0000" stop="20251203030000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">World Insight With Tian Wei</title>
+  </programme>
+  <programme start="20251203030000 +0000" stop="20251203031500 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">The World Today</title>
+  </programme>
+  <programme start="20251203031500 +0000" stop="20251203033000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">Sports Scene</title>
+  </programme>
+  <programme start="20251203033000 +0000" stop="20251203040000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">The Point with Liu Xin</title>
+  </programme>
+  <programme start="20251203040000 +0000" stop="20251203050000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">Global Watch</title>
+  </programme>
+  <programme start="20251203050000 +0000" stop="20251203051500 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">The World Today</title>
+  </programme>
+  <programme start="20251203051500 +0000" stop="20251203053000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">Sports Scene</title>
+  </programme>
+  <programme start="20251203053000 +0000" stop="20251203060000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">Rediscovering China</title>
+  </programme>
+  <programme start="20251203060000 +0000" stop="20251203063000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">The World Today</title>
+  </programme>
+  <programme start="20251203063000 +0000" stop="20251203070000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">The Heat</title>
+  </programme>
+  <programme start="20251203070000 +0000" stop="20251203073000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">The World Today</title>
+  </programme>
+  <programme start="20251203073000 +0000" stop="20251203080000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">Sports Scene</title>
+  </programme>
+  <programme start="20251203080000 +0000" stop="20251203081500 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">The World Today</title>
+  </programme>
+  <programme start="20251203081500 +0000" stop="20251203090000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">Global Business</title>
+  </programme>
+  <programme start="20251203090000 +0000" stop="20251203093000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">The World Today</title>
+  </programme>
+  <programme start="20251203093000 +0000" stop="20251203100000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">The Vibe</title>
+  </programme>
+  <programme start="20251203100000 +0000" stop="20251203101500 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">The World Today</title>
+  </programme>
+  <programme start="20251203101500 +0000" stop="20251203110000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">Africa Live</title>
+  </programme>
+  <programme start="20251203110000 +0000" stop="20251203113000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">Asia Today</title>
+  </programme>
+  <programme start="20251203113000 +0000" stop="20251203120000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">Dialogue</title>
+  </programme>
+  <programme start="20251203120000 +0000" stop="20251203121500 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">The World Today</title>
+  </programme>
+  <programme start="20251203121500 +0000" stop="20251203130000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">China 24</title>
+  </programme>
+  <programme start="20251203130000 +0000" stop="20251203133000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">Global Business</title>
+  </programme>
+  <programme start="20251203133000 +0000" stop="20251203140000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">The Point with Liu Xin</title>
+  </programme>
+  <programme start="20251203140000 +0000" stop="20251203143000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">The World Today</title>
+  </programme>
+  <programme start="20251203143000 +0000" stop="20251203150000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">World Insight With Tian Wei</title>
+  </programme>
+  <programme start="20251203150000 +0000" stop="20251203153000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">The World Today</title>
+  </programme>
+  <programme start="20251203153000 +0000" stop="20251203160000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">The Vibe</title>
+  </programme>
+  <programme start="20251203160000 +0000" stop="20251203170000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">Global Business</title>
+  </programme>
+  <programme start="20251203170000 +0000" stop="20251203180000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">Africa Live</title>
+  </programme>
+  <programme start="20251203180000 +0000" stop="20251203190000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">Global Business</title>
+  </programme>
+  <programme start="20251203190000 +0000" stop="20251203193000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">The World Today</title>
+  </programme>
+  <programme start="20251203193000 +0000" stop="20251203200000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">World Insight With Tian Wei</title>
+  </programme>
+  <programme start="20251203200000 +0000" stop="20251203203000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">The World Today</title>
+  </programme>
+  <programme start="20251203203000 +0000" stop="20251203210000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">Dialogue</title>
+  </programme>
+  <programme start="20251203210000 +0000" stop="20251203213000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">Global Business</title>
+  </programme>
+  <programme start="20251203213000 +0000" stop="20251203220000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">The Point with Liu Xin</title>
+  </programme>
+  <programme start="20251203220000 +0000" stop="20251203223000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">The World Today</title>
+  </programme>
+  <programme start="20251203223000 +0000" stop="20251203230000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">Rediscovering China</title>
+  </programme>
+  <programme start="20251202230000 +0000" stop="20251202233000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Journeys and Discoveries</title>
+  </programme>
+  <programme start="20251202233000 +0000" stop="20251203000000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">History in the Frame</title>
+  </programme>
+  <programme start="20251203000000 +0000" stop="20251203010000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Best Eats</title>
+  </programme>
+  <programme start="20251203010000 +0000" stop="20251203013000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Youthful China</title>
+  </programme>
+  <programme start="20251203013000 +0000" stop="20251203020000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Pixel Collage</title>
+  </programme>
+  <programme start="20251203020000 +0000" stop="20251203030000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Today’s Top Pick</title>
+  </programme>
+  <programme start="20251203030000 +0000" stop="20251203033000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Humanities and Geography</title>
+  </programme>
+  <programme start="20251203033000 +0000" stop="20251203040000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Living China</title>
+  </programme>
+  <programme start="20251203040000 +0000" stop="20251203050000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Special Edition</title>
+  </programme>
+  <programme start="20251203050000 +0000" stop="20251203053000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Journeys and Discoveries</title>
+  </programme>
+  <programme start="20251203053000 +0000" stop="20251203060000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">History in the Frame</title>
+  </programme>
+  <programme start="20251203060000 +0000" stop="20251203070000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Best Eats</title>
+  </programme>
+  <programme start="20251203070000 +0000" stop="20251203073000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Youthful China</title>
+  </programme>
+  <programme start="20251203073000 +0000" stop="20251203080000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Pixel Collage</title>
+  </programme>
+  <programme start="20251203080000 +0000" stop="20251203090000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Today’s Top Pick</title>
+  </programme>
+  <programme start="20251203090000 +0000" stop="20251203093000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Humanities and Geography</title>
+  </programme>
+  <programme start="20251203093000 +0000" stop="20251203100000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Living China</title>
+  </programme>
+  <programme start="20251203100000 +0000" stop="20251203110000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Special Edition</title>
+  </programme>
+  <programme start="20251203110000 +0000" stop="20251203113000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Journeys and Discoveries</title>
+  </programme>
+  <programme start="20251203113000 +0000" stop="20251203120000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">History in the Frame</title>
+  </programme>
+  <programme start="20251203120000 +0000" stop="20251203130000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Best Eats</title>
+  </programme>
+  <programme start="20251203130000 +0000" stop="20251203133000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Youthful China</title>
+  </programme>
+  <programme start="20251203133000 +0000" stop="20251203140000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Pixel Collage</title>
+  </programme>
+  <programme start="20251203140000 +0000" stop="20251203150000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Today’s Top Pick</title>
+  </programme>
+  <programme start="20251203150000 +0000" stop="20251203153000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Humanities and Geography</title>
+  </programme>
+  <programme start="20251203153000 +0000" stop="20251203160000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Living China</title>
+  </programme>
+  <programme start="20251203160000 +0000" stop="20251203170000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Special Edition</title>
+  </programme>
+  <programme start="20251203170000 +0000" stop="20251203173000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Journeys and Discoveries</title>
+  </programme>
+  <programme start="20251203173000 +0000" stop="20251203180000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">History in the Frame</title>
+  </programme>
+  <programme start="20251203180000 +0000" stop="20251203190000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Best Eats</title>
+  </programme>
+  <programme start="20251203190000 +0000" stop="20251203193000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Youthful China</title>
+  </programme>
+  <programme start="20251203193000 +0000" stop="20251203200000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Pixel Collage</title>
+  </programme>
+  <programme start="20251203200000 +0000" stop="20251203210000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Today’s Top Pick</title>
+  </programme>
+  <programme start="20251203210000 +0000" stop="20251203213000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Humanities and Geography</title>
+  </programme>
+  <programme start="20251203213000 +0000" stop="20251203220000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Living China</title>
+  </programme>
+  <programme start="20251203220000 +0000" stop="20251203230000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Special Edition</title>
   </programme>
   <programme start="20251202230000 +0000" stop="20251203000000 +0000" channel="MTV Hits.webtv.sk">
     <title lang="id">MTV Top 20 Of 2024!</title>
