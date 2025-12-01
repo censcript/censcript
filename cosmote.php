@@ -106,6 +106,10 @@
     <title>Football: Bologna - Cremonese</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251202181000 +0700" stop="20251202202000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Panetolikos - Olympiacos</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251201170000 +0700" stop="20251201190000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Al-Kholood - Al Khaleej</title>
     <desc>Live: Tidak</desc>
@@ -226,10 +230,6 @@
     <title>Basketball: Los Angeles Lakers - Phoenix Suns</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251201162500 +0700" stop="20251201172500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251201172500 +0700" stop="20251201181500 +0700" channel="COSMOTE Sport 5 HD">
     <title>WRC 2025</title>
     <desc>Live: Tidak</desc>
@@ -332,10 +332,6 @@
 </programme>
 <programme start="20251202172500 +0700" stop="20251202192500 +0700" channel="COSMOTE Sport 5 HD">
     <title>2025 Extreme H</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251201150000 +0700" stop="20251201180000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Authentic Athens Marathon 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251201180000 +0700" stop="20251201190000 +0700" channel="COSMOTE Sport 6 HD">
