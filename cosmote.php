@@ -50,6 +50,14 @@
     <title>Football: Volos - Egaleo (L)</title>
     <desc>Live: Ya</desc>
 </programme>
+<programme start="20251203021500 +0700" stop="20251203023000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Sports Classics: My Sporting Moment</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251203023000 +0700" stop="20251203030000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEFA Champions League Magazine 2025-26 E13</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251202003000 +0700" stop="20251202024500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Panetolikos - Olympiacos</title>
     <desc>Live: Tidak</desc>
@@ -106,8 +114,8 @@
     <title>Football: Juventus Football Club - Cagliari</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251202004000 +0700" stop="20251202011000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Emirates FA Cup 2025-26 - Highlights</title>
+<programme start="20251203022000 +0700" stop="20251203043000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Panathinaikos - AEK</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251202011000 +0700" stop="20251202031500 +0700" channel="COSMOTE Sport 3 HD">
@@ -174,10 +182,6 @@
     <title>Football: West Bromwich Albion - Swansea City</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251202000000 +0700" stop="20251202020000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Granada - Real Madrid</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251202020000 +0700" stop="20251202043000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Utah Jazz - Houston Rockets</title>
     <desc>Live: Tidak</desc>
@@ -234,9 +238,9 @@
     <title>NBA Action 2025-26 E3506</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251202010000 +0700" stop="20251202020000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC 2025</title>
-    <desc>Live: Tidak</desc>
+<programme start="20251203023000 +0700" stop="20251203041500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Pick n&#039; Roll (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20251202020000 +0700" stop="20251202032000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Grand Prix Show 2025 (L)</title>
@@ -326,8 +330,8 @@
     <title>eSports: 2025 MotoGP eChampionship Global Series</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251201232000 +0700" stop="20251202011500 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Premier Padel Tour 2025</title>
+<programme start="20251203021500 +0700" stop="20251203030000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251202011500 +0700" stop="20251202021500 +0700" channel="COSMOTE Sport 6 HD">
