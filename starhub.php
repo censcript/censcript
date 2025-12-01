@@ -2752,79 +2752,67 @@
     <programme start="20251130233000 +0000" stop="20251201000000 +0000" channel="Zee Tamil.starhub">
         <title>Lakshmi Kalyanam</title>
     </programme>
-    <programme start="20251201000000 +0000" stop="20251201023000 +0000" channel="Zee Tamil.starhub">
-        <title>Movie</title>
+    <programme start="20251201000000 +0000" stop="20251201020000 +0000" channel="Zee Tamil.starhub">
+        <title>House Owner</title>
+    </programme>
+    <programme start="20251201020000 +0000" stop="20251201023000 +0000" channel="Zee Tamil.starhub">
+        <title>Veera</title>
     </programme>
     <programme start="20251201023000 +0000" stop="20251201030000 +0000" channel="Zee Tamil.starhub">
-        <title>Raja Chinna Roja</title>
+        <title>Veera</title>
     </programme>
     <programme start="20251201030000 +0000" stop="20251201033000 +0000" channel="Zee Tamil.starhub">
-        <title>Raja Chinna Roja</title>
+        <title>Veera</title>
     </programme>
     <programme start="20251201033000 +0000" stop="20251201040000 +0000" channel="Zee Tamil.starhub">
-        <title>Salangai Oli</title>
+        <title>Veera</title>
     </programme>
     <programme start="20251201040000 +0000" stop="20251201043000 +0000" channel="Zee Tamil.starhub">
-        <title>Salangai Oli</title>
+        <title>Aval Varuvala</title>
     </programme>
     <programme start="20251201043000 +0000" stop="20251201050000 +0000" channel="Zee Tamil.starhub">
-        <title>Lakshmi Kalyanam</title>
+        <title>Aval Varuvala</title>
     </programme>
     <programme start="20251201050000 +0000" stop="20251201053000 +0000" channel="Zee Tamil.starhub">
-        <title>Mounam Pesiyathey</title>
+        <title>Lakshmi Kalyanam</title>
     </programme>
     <programme start="20251201053000 +0000" stop="20251201060000 +0000" channel="Zee Tamil.starhub">
-        <title>Manasellam</title>
+        <title>Annamalai Kudumbam</title>
     </programme>
-    <programme start="20251201060000 +0000" stop="20251201063000 +0000" channel="Zee Tamil.starhub">
-        <title>Ayali</title>
-    </programme>
-    <programme start="20251201063000 +0000" stop="20251201070000 +0000" channel="Zee Tamil.starhub">
-        <title>Special - Ayali</title>
-    </programme>
-    <programme start="20251201070000 +0000" stop="20251201073000 +0000" channel="Zee Tamil.starhub">
-        <title>Special - Ayali</title>
-    </programme>
-    <programme start="20251201073000 +0000" stop="20251201080000 +0000" channel="Zee Tamil.starhub">
-        <title>Special - Ayali</title>
-    </programme>
-    <programme start="20251201080000 +0000" stop="20251201083000 +0000" channel="Zee Tamil.starhub">
-        <title>Special - Ayali</title>
+    <programme start="20251201060000 +0000" stop="20251201083000 +0000" channel="Zee Tamil.starhub">
+        <title>Kabadadaari</title>
     </programme>
     <programme start="20251201083000 +0000" stop="20251201090000 +0000" channel="Zee Tamil.starhub">
-        <title>KCKC - Vetrivel</title>
+        <title>KCKC - Billa Pandi</title>
     </programme>
     <programme start="20251201090000 +0000" stop="20251201093000 +0000" channel="Zee Tamil.starhub">
-        <title>Maari</title>
+        <title>KCKC - Pothuvanga Ennmanasu Thangam</title>
     </programme>
     <programme start="20251201093000 +0000" stop="20251201100000 +0000" channel="Zee Tamil.starhub">
-        <title>Manasellam</title>
-    </programme>
-    <programme start="20251201100000 +0000" stop="20251201103000 +0000" channel="Zee Tamil.starhub">
         <title>Varisu</title>
     </programme>
-    <programme start="20251201103000 +0000" stop="20251201110000 +0000" channel="Zee Tamil.starhub">
+    <programme start="20251201100000 +0000" stop="20251201103000 +0000" channel="Zee Tamil.starhub">
         <title>Gettimelam</title>
+    </programme>
+    <programme start="20251201103000 +0000" stop="20251201110000 +0000" channel="Zee Tamil.starhub">
+        <title>Veera</title>
     </programme>
     <programme start="20251201110000 +0000" stop="20251201113000 +0000" channel="Zee Tamil.starhub">
         <title>Chinnanjiru Kiliye</title>
     </programme>
     <programme start="20251201113000 +0000" stop="20251201120000 +0000" channel="Zee Tamil.starhub">
-        <title>Veera</title>
+        <title>Thirumangalyam</title>
     </programme>
     <programme start="20251201120000 +0000" stop="20251201123000 +0000" channel="Zee Tamil.starhub">
         <title>Anna</title>
     </programme>
     <programme start="20251201123000 +0000" stop="20251201130000 +0000" channel="Zee Tamil.starhub">
-        <title>Special - Ayali</title>
+        <title>Ayali</title>
     </programme>
     <programme start="20251201130000 +0000" stop="20251201133000 +0000" channel="Zee Tamil.starhub">
         <title>Karthigai Deepam</title>
     </programme>
-    <programme start="20251201133000 +0000" stop="20251201134500 +0000" channel="Zee Tamil.starhub">
-        <title>Parijatham</title>
-    </programme>
-    <programme start="20251201134500 +0000" stop="20251201140000 +0000" channel="Zee Tamil.starhub">
+    <programme start="20251201133000 +0000" stop="20251201140000 +0000" channel="Zee Tamil.starhub">
         <title>Parijatham</title>
     </programme>
     <programme start="20251201140000 +0000" stop="20251201143000 +0000" channel="Zee Tamil.starhub">
