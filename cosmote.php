@@ -106,6 +106,10 @@
     <title>Football: Atalanta - ACF Fiorentina</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251202222000 +0700" stop="20251203002000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: AC Milan - SS Lazio</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251201210000 +0700" stop="20251202004000 +0700" channel="COSMOTE Sport 3 HD">
     <title>American Football: Carolina Panthers - Los Angeles Rams</title>
     <desc>Live: Tidak</desc>
@@ -170,10 +174,6 @@
     <title>Football: Hibernian - Celtic FC</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251201193000 +0700" stop="20251201220000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Cleveland Cavaliers - Boston Celtics</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251201220000 +0700" stop="20251202000000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Trentino - Treviso</title>
     <desc>Live: Tidak</desc>
@@ -224,10 +224,6 @@
 </programme>
 <programme start="20251202214000 +0700" stop="20251202234000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Granada - Real Madrid</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251201201500 +0700" stop="20251201212000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251201212000 +0700" stop="20251201222500 +0700" channel="COSMOTE Sport 5 HD">
@@ -324,6 +320,10 @@
 </programme>
 <programme start="20251202205500 +0700" stop="20251202224000 +0700" channel="COSMOTE Sport 5 HD">
     <title>DTM 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251202224000 +0700" stop="20251203000000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Grand Prix Show 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251201210000 +0700" stop="20251201232000 +0700" channel="COSMOTE Sport 6 HD">
