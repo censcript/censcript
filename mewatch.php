@@ -652,125 +652,113 @@
     <programme start="20251130154000 +0000" stop="20251130163000 +0000" channel="now-80s.mewatch">
         <title>80s Rock Anthems! - EP1</title>
     </programme>
-    <programme start="20251130163000 +0000" stop="20251130170000 +0000" channel="now-80s.mewatch">
-        <title>Night Moves! - EP1</title>
+    <programme start="20251130160000 +0000" stop="20251130180000 +0000" channel="now-80s.mewatch">
+        <title>The UK&#039;s Most Streamed Xmas Songs! - EP1</title>
     </programme>
-    <programme start="20251130170000 +0000" stop="20251130190500 +0000" channel="now-80s.mewatch">
-        <title>One Massive Hit - Then Zilch! - EP1</title>
+    <programme start="20251130180000 +0000" stop="20251130212000 +0000" channel="now-80s.mewatch">
+        <title>Bruno Brookes UK Top 40 of the 80s - EP1</title>
     </programme>
-    <programme start="20251130190500 +0000" stop="20251130200000 +0000" channel="now-80s.mewatch">
-        <title>Night Moves! - EP1</title>
-    </programme>
-    <programme start="20251130200000 +0000" stop="20251130220000 +0000" channel="now-80s.mewatch">
-        <title>80s Yacht Rock! Top 30 - EP1</title>
+    <programme start="20251130212000 +0000" stop="20251130220000 +0000" channel="now-80s.mewatch">
+        <title>We&#039;re Feelin&#039; Xmas All Over! - EP1</title>
     </programme>
     <programme start="20251130220000 +0000" stop="20251130230000 +0000" channel="now-80s.mewatch">
-        <title>Madonna - 80s Fashion Icon! - EP1</title>
+        <title>Around The World! 1980-1989 - EP1</title>
     </programme>
     <programme start="20251130230000 +0000" stop="20251201000000 +0000" channel="now-80s.mewatch">
-        <title>Simply The Best! Tina Turner 80-95 - EP1</title>
+        <title>Bruno&#039;s Forgotten Hits: 1981 - EP1</title>
     </programme>
     <programme start="20251201000000 +0000" stop="20251201010000 +0000" channel="now-80s.mewatch">
-        <title>Kate Bush 1978-1989 - EP1</title>
+        <title>1984&#039;s Lesser-Heard-Hits! - EP1</title>
     </programme>
-    <programme start="20251201010000 +0000" stop="20251201013500 +0000" channel="now-80s.mewatch">
-        <title>Bonnie Tyler&#039;s Greatest Hits! - EP1</title>
+    <programme start="20251201010000 +0000" stop="20251201020000 +0000" channel="now-80s.mewatch">
+        <title>Bruno&#039;s Forgotten Hits: 1986 - EP1</title>
     </programme>
-    <programme start="20251201013500 +0000" stop="20251201020000 +0000" channel="now-80s.mewatch">
-        <title>First Blast of Summer! - EP1</title>
+    <programme start="20251201020000 +0000" stop="20251201050000 +0000" channel="now-80s.mewatch">
+        <title>MegaStar MiniHits! 1980-1989 - EP1</title>
     </programme>
-    <programme start="20251201020000 +0000" stop="20251201045000 +0000" channel="now-80s.mewatch">
-        <title>The NOW Yearbook 1989 - EP1</title>
+    <programme start="20251201050000 +0000" stop="20251201060000 +0000" channel="now-80s.mewatch">
+        <title>1981&#039;s Lesser-Heard-Hits! - EP1</title>
     </programme>
-    <programme start="20251201045000 +0000" stop="20251201050000 +0000" channel="now-80s.mewatch">
-        <title>First Blast of Summer! - EP1</title>
+    <programme start="20251201060000 +0000" stop="20251201090000 +0000" channel="now-80s.mewatch">
+        <title>Forgotten Follow-Ups: 1980-89 - EP1</title>
     </programme>
-    <programme start="20251201050000 +0000" stop="20251201072500 +0000" channel="now-80s.mewatch">
-        <title>The Heat Is On! Top 30 - EP1</title>
+    <programme start="20251201090000 +0000" stop="20251201100000 +0000" channel="now-80s.mewatch">
+        <title>1987&#039;s Lesser-Heard-Hits! - EP1</title>
     </programme>
-    <programme start="20251201072500 +0000" stop="20251201080000 +0000" channel="now-80s.mewatch">
-        <title>First Blast of Summer! - EP1</title>
+    <programme start="20251201100000 +0000" stop="20251201110000 +0000" channel="now-80s.mewatch">
+        <title>Bruno&#039;s Forgotten Hits: 1989 - EP1</title>
     </programme>
-    <programme start="20251201080000 +0000" stop="20251201084500 +0000" channel="now-80s.mewatch">
-        <title>1987&#039;s One-Hit-Wonders! Top 10 - EP1</title>
+    <programme start="20251201110000 +0000" stop="20251201120000 +0000" channel="now-80s.mewatch">
+        <title>1981&#039;s Lesser-Heard-Hits! - EP1</title>
     </programme>
-    <programme start="20251201084500 +0000" stop="20251201090000 +0000" channel="now-80s.mewatch">
-        <title>1987 Unleashed! - EP1</title>
+    <programme start="20251201120000 +0000" stop="20251201140500 +0000" channel="now-80s.mewatch">
+        <title>Jason Donovan&#039;s 80s Pop Pin-Ups! - EP1</title>
     </programme>
-    <programme start="20251201090000 +0000" stop="20251201093000 +0000" channel="now-80s.mewatch">
-        <title>Mark Goodier&#039;s No.1s of 1987 - EP1</title>
+    <programme start="20251201140500 +0000" stop="20251201150000 +0000" channel="now-80s.mewatch">
+        <title>Monday Night at the Movies! - EP1</title>
     </programme>
-    <programme start="20251201093000 +0000" stop="20251201103000 +0000" channel="now-80s.mewatch">
-        <title>One Massive Hit - Then Zilch! - EP1</title>
+    <programme start="20251201150000 +0000" stop="20251201173000 +0000" channel="now-80s.mewatch">
+        <title>Limahl&#039;s Frocky Horror Show! - EP1</title>
     </programme>
-    <programme start="20251201103000 +0000" stop="20251201110000 +0000" channel="now-80s.mewatch">
-        <title>Way Back When! 1987 - EP1</title>
+    <programme start="20251130160000 +0000" stop="20251130165000 +0000" channel="now-70s.mewatch">
+        <title>John, Paul, George &amp; Ringo! - EP1</title>
     </programme>
-    <programme start="20251201110000 +0000" stop="20251201140000 +0000" channel="now-80s.mewatch">
-        <title>That&#039;s NOT My Name! 1980-1989 - EP1</title>
+    <programme start="20251130165000 +0000" stop="20251130170000 +0000" channel="now-70s.mewatch">
+        <title>Far Out, Man! - EP1</title>
     </programme>
-    <programme start="20251201140000 +0000" stop="20251201162000 +0000" channel="now-80s.mewatch">
-        <title>Clare Grogan&#039;s Teenage Kicks! - EP1</title>
+    <programme start="20251130170000 +0000" stop="20251130180000 +0000" channel="now-70s.mewatch">
+        <title>Simon Bates Golden Hour: 1973 - EP1</title>
     </programme>
-    <programme start="20251130160000 +0000" stop="20251130162500 +0000" channel="now-70s.mewatch">
-        <title>All Day - It&#039;s 1978! - EP1</title>
+    <programme start="20251130180000 +0000" stop="20251130190000 +0000" channel="now-70s.mewatch">
+        <title>Simon Bates Golden Hour: 1975 - EP1</title>
     </programme>
-    <programme start="20251130162500 +0000" stop="20251130172500 +0000" channel="now-70s.mewatch">
-        <title>Who Won Wot in 1978? - EP1</title>
+    <programme start="20251130190000 +0000" stop="20251130200000 +0000" channel="now-70s.mewatch">
+        <title>Simon Bates Golden Hour: 1977 - EP1</title>
     </programme>
-    <programme start="20251130172500 +0000" stop="20251130201500 +0000" channel="now-70s.mewatch">
-        <title>The NOW Yearbook 1978 - EP1</title>
+    <programme start="20251130200000 +0000" stop="20251130210000 +0000" channel="now-70s.mewatch">
+        <title>Simon Bates Golden Hour: 1979 - EP1</title>
     </programme>
-    <programme start="20251130201500 +0000" stop="20251130202500 +0000" channel="now-70s.mewatch">
-        <title>All Day - It&#039;s 1978! - EP1</title>
+    <programme start="20251130210000 +0000" stop="20251130220000 +0000" channel="now-70s.mewatch">
+        <title>The 5 O&#039;Clock Groovy Zone! - EP1</title>
     </programme>
-    <programme start="20251130202500 +0000" stop="20251130210000 +0000" channel="now-70s.mewatch">
-        <title>American No.1s of 1978 - EP1</title>
+    <programme start="20251130220000 +0000" stop="20251201011500 +0000" channel="now-70s.mewatch">
+        <title>Simon Bates: Disco Inferno! - EP1</title>
     </programme>
-    <programme start="20251130210000 +0000" stop="20251130233000 +0000" channel="now-70s.mewatch">
-        <title>Hamilton&#039;s Million Sellers! 70-79 - EP1</title>
+    <programme start="20251201011500 +0000" stop="20251201020000 +0000" channel="now-70s.mewatch">
+        <title>Disco Fever! - EP1</title>
     </programme>
-    <programme start="20251130233000 +0000" stop="20251201000000 +0000" channel="now-70s.mewatch">
-        <title>70s Heatwave Hits! - EP1</title>
+    <programme start="20251201020000 +0000" stop="20251201035000 +0000" channel="now-70s.mewatch">
+        <title>Tony&#039;s Take On 70s Fashion! - EP1</title>
     </programme>
-    <programme start="20251201000000 +0000" stop="20251201034500 +0000" channel="now-70s.mewatch">
-        <title>50 Summer Sizzlers! 1970-1979 - EP1</title>
-    </programme>
-    <programme start="20251201034500 +0000" stop="20251201040000 +0000" channel="now-70s.mewatch">
-        <title>70s Heatwave Hits! - EP1</title>
+    <programme start="20251201035000 +0000" stop="20251201040000 +0000" channel="now-70s.mewatch">
+        <title>Disco Fever! - EP1</title>
     </programme>
     <programme start="20251201040000 +0000" stop="20251201061000 +0000" channel="now-70s.mewatch">
-        <title>Blackburn&#039;s 25 Blue Sky Belters! - EP1</title>
+        <title>Pat Sharp&#039;s Surely Not A Cover?! - EP1</title>
     </programme>
     <programme start="20251201061000 +0000" stop="20251201070000 +0000" channel="now-70s.mewatch">
-        <title>70s Heatwave Hits! - EP1</title>
+        <title>Simply Having A Wonderful Xmas! - EP1</title>
     </programme>
-    <programme start="20251201070000 +0000" stop="20251201080000 +0000" channel="now-70s.mewatch">
-        <title>Hold On Tight: It&#039;s ELO! - EP1</title>
+    <programme start="20251201070000 +0000" stop="20251201104000 +0000" channel="now-70s.mewatch">
+        <title>Never Even A Top 10?! - EP1</title>
     </programme>
-    <programme start="20251201080000 +0000" stop="20251201093000 +0000" channel="now-70s.mewatch">
-        <title>Party Hits &#039;76! with Dave Bartram - EP1</title>
+    <programme start="20251201104000 +0000" stop="20251201110000 +0000" channel="now-70s.mewatch">
+        <title>Simply Having A Wonderful Xmas! - EP1</title>
     </programme>
-    <programme start="20251201093000 +0000" stop="20251201095500 +0000" channel="now-70s.mewatch">
-        <title>All Day - It&#039;s 1978! - EP1</title>
+    <programme start="20251201110000 +0000" stop="20251201122500 +0000" channel="now-70s.mewatch">
+        <title>Tony&#039;s Sensational 70s Xmas! - EP1</title>
     </programme>
-    <programme start="20251201095500 +0000" stop="20251201103000 +0000" channel="now-70s.mewatch">
-        <title>Who Won Wot in 1978? - EP1</title>
+    <programme start="20251201122500 +0000" stop="20251201130000 +0000" channel="now-70s.mewatch">
+        <title>Simply Having A Wonderful Xmas! - EP1</title>
     </programme>
-    <programme start="20251201103000 +0000" stop="20251201110000 +0000" channel="now-70s.mewatch">
-        <title>70s Heatwave Hits! - EP1</title>
+    <programme start="20251201130000 +0000" stop="20251201140000 +0000" channel="now-70s.mewatch">
+        <title>Pete Waterman&#039;s Xmas in the 70s - EP1</title>
     </programme>
-    <programme start="20251201110000 +0000" stop="20251201142500 +0000" channel="now-70s.mewatch">
-        <title>Chunks of Funk! 45 x 45s! - EP1</title>
+    <programme start="20251201140000 +0000" stop="20251201160000 +0000" channel="now-70s.mewatch">
+        <title>Festive Faves! 70s v 60s v 50s - EP1</title>
     </programme>
-    <programme start="20251201142500 +0000" stop="20251201150000 +0000" channel="now-70s.mewatch">
-        <title>70s Heatwave Hits! - EP1</title>
-    </programme>
-    <programme start="20251201150000 +0000" stop="20251201160000 +0000" channel="now-70s.mewatch">
-        <title>Who Forgot The Words?! - EP1</title>
-    </programme>
-    <programme start="20251201160000 +0000" stop="20251201162500 +0000" channel="now-70s.mewatch">
-        <title>70s Heatwave Hits! - EP1</title>
+    <programme start="20251201160000 +0000" stop="20251201170000 +0000" channel="now-70s.mewatch">
+        <title>Every ABBA Video - Ever! - EP1</title>
     </programme>
     <programme start="20251130150000 +0000" stop="20251130164500 +0000" channel="cinemaworld.mewatch">
         <title>Passed by Censor</title>

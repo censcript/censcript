@@ -7645,23 +7645,20 @@
 <programme start="20251130190000 +0000" stop="20251130200000 +0000" channel="RCTI.mncvision">
     <title>My Angry Oboss</title>
 </programme>
-<programme start="20251130200000 +0000" stop="20251130231500 +0000" channel="RCTI.mncvision">
+<programme start="20251130200000 +0000" stop="20251130224500 +0000" channel="RCTI.mncvision">
     <title>Preman Pensiun S5</title>
 </programme>
-<programme start="20251130231500 +0000" stop="20251201000000 +0000" channel="RCTI.mncvision">
+<programme start="20251130224500 +0000" stop="20251130234500 +0000" channel="RCTI.mncvision">
     <title>Go Spot</title>
 </programme>
-<programme start="20251201000000 +0000" stop="20251201010000 +0000" channel="RCTI.mncvision">
+<programme start="20251130234500 +0000" stop="20251201010000 +0000" channel="RCTI.mncvision">
     <title>Upin Ipin</title>
 </programme>
 <programme start="20251201010000 +0000" stop="20251201011500 +0000" channel="RCTI.mncvision">
     <title>Kiko</title>
 </programme>
-<programme start="20251201011500 +0000" stop="20251201021500 +0000" channel="RCTI.mncvision">
+<programme start="20251201011500 +0000" stop="20251201033000 +0000" channel="RCTI.mncvision">
     <title>Doraemon Series</title>
-</programme>
-<programme start="20251201021500 +0000" stop="20251201033000 +0000" channel="RCTI.mncvision">
-    <title>Si Doel Anak Sekolahan S3</title>
 </programme>
 <programme start="20251201033000 +0000" stop="20251201043000 +0000" channel="RCTI.mncvision">
     <title>Silet</title>
@@ -7694,7 +7691,7 @@
     <title>Kau Ditakdirkan Untukku</title>
 </programme>
 <programme start="20251201160000 +0000" stop="20251201163000 +0000" channel="RCTI.mncvision">
-    <title>Engkong Kebelet Nikah Lagi</title>
+    <title>Si Doel Anak Sekolahan S3</title>
 </programme>
 <programme start="20251130171500 +0000" stop="20251130181500 +0000" channel="RCTI HD.mncvision">
     <title>Ngebet Jadi Tukang Insinyur</title>
@@ -7705,23 +7702,20 @@
 <programme start="20251130190000 +0000" stop="20251130200000 +0000" channel="RCTI HD.mncvision">
     <title>My Angry Oboss</title>
 </programme>
-<programme start="20251130200000 +0000" stop="20251130231500 +0000" channel="RCTI HD.mncvision">
+<programme start="20251130200000 +0000" stop="20251130224500 +0000" channel="RCTI HD.mncvision">
     <title>Preman Pensiun S5</title>
 </programme>
-<programme start="20251130231500 +0000" stop="20251201000000 +0000" channel="RCTI HD.mncvision">
+<programme start="20251130224500 +0000" stop="20251130234500 +0000" channel="RCTI HD.mncvision">
     <title>Go Spot</title>
 </programme>
-<programme start="20251201000000 +0000" stop="20251201010000 +0000" channel="RCTI HD.mncvision">
+<programme start="20251130234500 +0000" stop="20251201010000 +0000" channel="RCTI HD.mncvision">
     <title>Upin Ipin</title>
 </programme>
 <programme start="20251201010000 +0000" stop="20251201011500 +0000" channel="RCTI HD.mncvision">
     <title>Kiko</title>
 </programme>
-<programme start="20251201011500 +0000" stop="20251201021500 +0000" channel="RCTI HD.mncvision">
+<programme start="20251201011500 +0000" stop="20251201033000 +0000" channel="RCTI HD.mncvision">
     <title>Doraemon Series</title>
-</programme>
-<programme start="20251201021500 +0000" stop="20251201033000 +0000" channel="RCTI HD.mncvision">
-    <title>Si Doel Anak Sekolahan S3</title>
 </programme>
 <programme start="20251201033000 +0000" stop="20251201043000 +0000" channel="RCTI HD.mncvision">
     <title>Silet</title>
@@ -7754,7 +7748,7 @@
     <title>Kau Ditakdirkan Untukku</title>
 </programme>
 <programme start="20251201160000 +0000" stop="20251201163000 +0000" channel="RCTI HD.mncvision">
-    <title>Engkong Kebelet Nikah Lagi</title>
+    <title>Si Doel Anak Sekolahan S3</title>
 </programme>
 <programme start="20251130171500 +0000" stop="20251130183500 +0000" channel="Rock Action.mncvision">
     <title>Welcome To Sudden Death</title>
@@ -8605,11 +8599,8 @@
 <programme start="20251201064500 +0000" stop="20251201090000 +0000" channel="SPOTV.mncvision">
     <title>Dhaka &#039;25 Asian Archery C&#039;ships</title>
 </programme>
-<programme start="20251201090000 +0000" stop="20251201110000 +0000" channel="SPOTV.mncvision">
+<programme start="20251201090000 +0000" stop="20251201120500 +0000" channel="SPOTV.mncvision">
     <title>2025/26 King&#039;s Cup: AHL Vs QAD</title>
-</programme>
-<programme start="20251201110000 +0000" stop="20251201120500 +0000" channel="SPOTV.mncvision">
-    <title>2025 FIA GT World Cup: Macau</title>
 </programme>
 <programme start="20251201120500 +0000" stop="20251201133000 +0000" channel="SPOTV.mncvision">
     <title>2025 FIA GT World Cup: Macau</title>
@@ -8764,11 +8755,8 @@
 <programme start="20251201064500 +0000" stop="20251201090000 +0000" channel="SPOTV HD.mncvision">
     <title>Dhaka &#039;25 Asian Archery C&#039;ships</title>
 </programme>
-<programme start="20251201090000 +0000" stop="20251201110000 +0000" channel="SPOTV HD.mncvision">
+<programme start="20251201090000 +0000" stop="20251201120500 +0000" channel="SPOTV HD.mncvision">
     <title>2025/26 King&#039;s Cup: AHL Vs QAD</title>
-</programme>
-<programme start="20251201110000 +0000" stop="20251201120500 +0000" channel="SPOTV HD.mncvision">
-    <title>2025 FIA GT World Cup: Macau</title>
 </programme>
 <programme start="20251201120500 +0000" stop="20251201133000 +0000" channel="SPOTV HD.mncvision">
     <title>2025 FIA GT World Cup: Macau</title>

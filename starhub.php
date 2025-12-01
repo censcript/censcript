@@ -5086,11 +5086,8 @@
     <programme start="20251201064500 +0000" stop="20251201090000 +0000" channel="SPOTV.starhub">
         <title>Compound Final Fours</title>
     </programme>
-    <programme start="20251201090000 +0000" stop="20251201110000 +0000" channel="SPOTV.starhub">
+    <programme start="20251201090000 +0000" stop="20251201120500 +0000" channel="SPOTV.starhub">
         <title>Al Ahli vs Al Qadsiah</title>
-    </programme>
-    <programme start="20251201110000 +0000" stop="20251201120500 +0000" channel="SPOTV.starhub">
-        <title>Qualification Race</title>
     </programme>
     <programme start="20251201120500 +0000" stop="20251201133000 +0000" channel="SPOTV.starhub">
         <title>Main Race</title>

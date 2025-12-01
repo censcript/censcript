@@ -2752,16 +2752,16 @@
 <programme start="20251201130000 +0000" stop="20251201143000 +0000" channel="Sky Sport Bundesliga 10 HD.skyde">
     <title>Test Bundesliga 10</title>
 </programme>
-<programme start="20251130233000 +0000" stop="20251201013000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20251130233500 +0000" stop="20251201013500 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Rennen - GP Katar</title>
 </programme>
-<programme start="20251201013000 +0000" stop="20251201020000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20251201013500 +0000" stop="20251201020500 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Ted&#039;s Notebook: GP Katar</title>
 </programme>
-<programme start="20251201020000 +0000" stop="20251201030000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20251201020500 +0000" stop="20251201030500 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F2: 2. Rennen - GP Katar</title>
 </programme>
-<programme start="20251201030000 +0000" stop="20251201050000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20251201030500 +0000" stop="20251201050000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Rennen - GP Katar</title>
 </programme>
 <programme start="20251201050000 +0000" stop="20251201063000 +0000" channel="Sky Sport F1 HD.skyde">
@@ -3223,17 +3223,8 @@
 <programme start="20251201083000 +0000" stop="20251201084500 +0000" channel="Sky Sport UHD.skyde">
     <title>Info: UHD</title>
 </programme>
-<programme start="20251201180500 +0000" stop="20251201182500 +0000" channel="Sky Sport 1 HD.skyde">
-    <title>Es folgt: LIVE Basketball NBA</title>
-</programme>
-<programme start="20251201182600 +0000" stop="20251201185600 +0000" channel="Sky Sport 1 HD.skyde">
-    <title>Live NBA: Showtime</title>
-</programme>
-<programme start="20251201185700 +0000" stop="20251201212700 +0000" channel="Sky Sport 1 HD.skyde">
-    <title>Live NBA: Chicago Bulls @ Orlando Magic</title>
-</programme>
-<programme start="20251201212800 +0000" stop="20251201235800 +0000" channel="Sky Sport 1 HD.skyde">
-    <title>Live NBA: Phoenix Suns @ LA Lakers</title>
+<programme start="20251130230000 +0000" stop="20251201024500 +0000" channel="Sky Sport 1 HD.skyde">
+    <title>Live NBA: Oklahoma City Thunder @ Portland Trail Blazers</title>
 </programme>
 <programme start="20251130230000 +0000" stop="20251130234500 +0000" channel="SYFY HD.skyde">
     <title>Akte X - Die unheimlichen Fälle des FBI</title>
