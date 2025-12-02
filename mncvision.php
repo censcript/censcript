@@ -559,8 +559,11 @@
 <programme start="20251202083000 +0000" stop="20251202090000 +0000" channel="Arirang.mncvision">
     <title>Press Perspective (L)</title>
 </programme>
-<programme start="20251202090000 +0000" stop="20251202100000 +0000" channel="Arirang.mncvision">
+<programme start="20251202090000 +0000" stop="20251202095000 +0000" channel="Arirang.mncvision">
     <title>Gugak: The Music Of Korea</title>
+</programme>
+<programme start="20251202095000 +0000" stop="20251202100000 +0000" channel="Arirang.mncvision">
+    <title>Heritage Walks, Little Friend</title>
 </programme>
 <programme start="20251202100000 +0000" stop="20251202103000 +0000" channel="Arirang.mncvision">
     <title>Talk Room</title>
@@ -586,11 +589,8 @@
 <programme start="20251202130000 +0000" stop="20251202130500 +0000" channel="Arirang.mncvision">
     <title>AI Headline News</title>
 </programme>
-<programme start="20251202130500 +0000" stop="20251202133000 +0000" channel="Arirang.mncvision">
+<programme start="20251202130500 +0000" stop="20251202133500 +0000" channel="Arirang.mncvision">
     <title>Drawing Diary</title>
-</programme>
-<programme start="20251202133000 +0000" stop="20251202140000 +0000" channel="Arirang.mncvision">
-    <title>Exploring Korean Literature A</title>
 </programme>
 <programme start="20251201172500 +0000" stop="20251201182000 +0000" channel="AXN.mncvision">
     <title>Hudson &amp; Rex S5, Ep 20</title>
@@ -2237,43 +2237,43 @@
     <title>CGTN Documentary</title>
 </programme>
 <programme start="20251202080000 +0000" stop="20251202090000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>Toward A Better Life, Ep 2</title>
 </programme>
 <programme start="20251202090000 +0000" stop="20251202093000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>Charming Xijiang River, Ep 1</title>
 </programme>
 <programme start="20251202093000 +0000" stop="20251202100000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>Memory Of World: When..., Ep 5</title>
 </programme>
 <programme start="20251202100000 +0000" stop="20251202110000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>The Songhua River, Ep 2</title>
 </programme>
 <programme start="20251202110000 +0000" stop="20251202113000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>Through Thick And Thin, Ep 2</title>
 </programme>
 <programme start="20251202113000 +0000" stop="20251202120000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>Inseparable: Marking..., Ep 3</title>
 </programme>
 <programme start="20251202120000 +0000" stop="20251202130000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>A Bite Of China S4, Ep 2</title>
 </programme>
 <programme start="20251202130000 +0000" stop="20251202133000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>Art In The Field</title>
 </programme>
 <programme start="20251202133000 +0000" stop="20251202140000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>Sensing The Sights, Ep 2</title>
 </programme>
 <programme start="20251202140000 +0000" stop="20251202150000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>Toward A Better Life, Ep 2</title>
 </programme>
 <programme start="20251202150000 +0000" stop="20251202153000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>Charming Xijiang River, Ep 1</title>
 </programme>
 <programme start="20251202153000 +0000" stop="20251202160000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>Memory Of World: When..., Ep 5</title>
 </programme>
 <programme start="20251202160000 +0000" stop="20251202163000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>The Songhua River, Ep 2</title>
 </programme>
 <programme start="20251201170000 +0000" stop="20251201180000 +0000" channel="Channel News Asia.mncvision">
     <title>Singapore Hour, Ep 22</title>

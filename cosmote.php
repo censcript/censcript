@@ -118,10 +118,6 @@
     <title>Football: Genoa - Hellas Verona</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251202114500 +0700" stop="20251202152500 +0700" channel="COSMOTE Sport 3 HD">
-    <title>American Football: Washington Commanders - Denver Broncos</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251202152500 +0700" stop="20251202172500 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Arouca - SC Braga</title>
     <desc>Live: Tidak</desc>
@@ -172,6 +168,10 @@
 </programme>
 <programme start="20251203145000 +0700" stop="20251203165000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Sporting CP - CF Estrela de Amadora</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251203165000 +0700" stop="20251203185000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Al Hilal - Al Fateh</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251202150000 +0700" stop="20251202170000 +0700" channel="COSMOTE Sport 4 HD">
@@ -234,8 +234,8 @@
     <title>Basketball: Fenerbahce - Bursaspor</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251202142500 +0700" stop="20251202151500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>2025 GT World Challenge Europe</title>
+<programme start="20251203164500 +0700" stop="20251203191500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Boston Celtics - New York Knicks</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251202151500 +0700" stop="20251202162000 +0700" channel="COSMOTE Sport 5 HD">
@@ -330,8 +330,8 @@
     <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251202142500 +0700" stop="20251202152000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Beach Volley: 2025 FIVB Beach Volleyball World Championships</title>
+<programme start="20251203163500 +0700" stop="20251203172500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251202152000 +0700" stop="20251202165500 +0700" channel="COSMOTE Sport 6 HD">
@@ -404,6 +404,10 @@
 </programme>
 <programme start="20251203153000 +0700" stop="20251203162000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Sports Classics: 2025 Outdoor Specials</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251203162000 +0700" stop="20251203190000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: ATP Challenger 50 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251202150000 +0700" stop="20251202170000 +0700" channel="COSMOTE Sport 7 HD">
