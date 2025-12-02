@@ -70,6 +70,10 @@
     <title>Football: Aris - PAOK (L)</title>
     <desc>Live: Ya</desc>
 </programme>
+<programme start="20251204044500 +0700" stop="20251204070000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Greek Cup Time (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
 <programme start="20251203022000 +0700" stop="20251203043000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Panathinaikos - AEK</title>
     <desc>Live: Tidak</desc>
@@ -134,6 +138,10 @@
     <title>Football: AS Roma - SSC Napoli</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251204045000 +0700" stop="20251204065500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: AEK - OFI</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251203030000 +0700" stop="20251203050000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Kilmarnock - Dundee United</title>
     <desc>Live: Tidak</desc>
@@ -150,8 +158,12 @@
     <title>Football: Al-Kholood - Al Khaleej</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251203110000 +0700" stop="20251203141500 +0700" channel="COSMOTE Sport 3 HD">
+<programme start="20251203110000 +0700" stop="20251203135000 +0700" channel="COSMOTE Sport 3 HD">
     <title>American Football: New England Patriots - New York Giants</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251203135000 +0700" stop="20251203141500 +0700" channel="COSMOTE Sport 3 HD">
+    <title>William Hill Scottish Premiership - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251203141500 +0700" stop="20251203145000 +0700" channel="COSMOTE Sport 3 HD">
@@ -189,6 +201,10 @@
 <programme start="20251204024500 +0700" stop="20251204044500 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Dundee United - Rangers FC (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20251204044500 +0700" stop="20251204065000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Ellas Syroy - Olympiacos</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251203023000 +0700" stop="20251203041500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Pick n&#039; Roll (L)</title>
@@ -244,10 +260,6 @@
 </programme>
 <programme start="20251204023000 +0700" stop="20251204050000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Boston Celtics - New York Knicks</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251203030000 +0700" stop="20251203040000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251203040000 +0700" stop="20251203045000 +0700" channel="COSMOTE Sport 5 HD">
@@ -346,9 +358,9 @@
     <title>Motorsports: MotoGP 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251203010000 +0700" stop="20251203033000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Volleyball: Olympiacos - Eczacibasi Dynavit Istanbul (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20251204043500 +0700" stop="20251204053500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>MotoGP 2025 - Highlights</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251203033000 +0700" stop="20251203051000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Handball: ThSV Eisenach - THW Kiel</title>
@@ -404,6 +416,10 @@
 </programme>
 <programme start="20251204030000 +0700" stop="20251204040000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Sports Classics: 2025 Outdoor Specials</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251204040000 +0700" stop="20251204050000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Nitto ATP Finals 2025 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251203030000 +0700" stop="20251203050000 +0700" channel="COSMOTE Sport 7 HD">
