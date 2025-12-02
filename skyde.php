@@ -3212,10 +3212,10 @@
     <title>Live DFB-Pokal: Alle Spiele, alle Tore: Achtelfinale, Dienstag</title>
 </programme>
 <programme start="20251202093000 +0000" stop="20251202113000 +0000" channel="Sky Sport UHD.skyde">
-    <title>PL: West Ham United - FC Liverpool, 13. Spieltag</title>
+    <title>PL: Crystal Palace - Manchester United, 13. Spieltag</title>
 </programme>
 <programme start="20251202093000 +0000" stop="20251202113000 +0000" channel="Sky Sport UHD.skyde">
-    <title>PL: Crystal Palace - Manchester United, 13. Spieltag</title>
+    <title>PL: West Ham United - FC Liverpool, 13. Spieltag</title>
 </programme>
 <programme start="20251202113000 +0000" stop="20251202133000 +0000" channel="Sky Sport UHD.skyde">
     <title>F1: Rennen - GP Katar</title>
