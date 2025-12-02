@@ -887,10 +887,10 @@
         <title>No programme available now. Next broadcast on 6th December, Saturday 10am. ONE Fight Night 38: Andrade vs. Baatarkhuu</title>
     </programme>
     <programme start="20251201160000 +0000" stop="20251202160000 +0000" channel="Live 5.mewatch">
-        <title>No Programme available now. Next Broadcast on 3rd December, Wednesday 7.30pm. ASEAN Shopee Cup 2025/2026</title>
+        <title>No Programme available now. Next Broadcast on 3rd December, Wednesday 7.02pm. ASEAN Shopee Cup 2025/2026</title>
     </programme>
-    <programme start="20251202160000 +0000" stop="20251203113000 +0000" channel="Live 5.mewatch">
-        <title>No Programme available now. Next Broadcast on 3rd December, Wednesday 7.30pm. ASEAN Shopee Cup 2025/2026</title>
+    <programme start="20251202160000 +0000" stop="20251203110200 +0000" channel="Live 5.mewatch">
+        <title>No Programme available now. Next Broadcast on 3rd December, Wednesday 7.02pm. ASEAN Shopee Cup 2025/2026</title>
     </programme>
     <programme start="20251201160000 +0000" stop="20251202160000 +0000" channel="Live 6.mewatch">
         <title>No Programme available now. Next Broadcast on 6th December, Saturday 2pm. Asia Artist Awards 2025 - Red Carpet</title>

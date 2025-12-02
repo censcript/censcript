@@ -1100,7 +1100,7 @@
     <title>Meilensteine der Technik</title>
 </programme>
 <programme start="20251202010000 +0000" stop="20251202015000 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Rekordverdächtig - Konstruktionen in der Tiefe</title>
+    <title>Record-Breaking: Paris Underground</title>
 </programme>
 <programme start="20251202015000 +0000" stop="20251202023500 +0000" channel="HISTORY Channel HD.skyde">
     <title>Innovationen, die die Welt veränderten</title>
@@ -3160,10 +3160,10 @@
 <programme start="20251202000000 +0000" stop="20251202003000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Showtime</title>
 </programme>
-<programme start="20251202003000 +0000" stop="20251202030000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20251202003000 +0000" stop="20251202031500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Chicago Bulls @ Orlando Magic</title>
 </programme>
-<programme start="20251202030000 +0000" stop="20251202053000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20251202031500 +0000" stop="20251202053000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Phoenix Suns @ LA Lakers</title>
 </programme>
 <programme start="20251202053000 +0000" stop="20251202060000 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3298,10 +3298,10 @@
 <programme start="20251202161000 +0000" stop="20251202163000 +0000" channel="Sky Sport 3 HD.skyde">
     <title>Es folgt Live DFB-Pokal</title>
 </programme>
-<programme start="20251202163000 +0000" stop="20251202195000 +0000" channel="Sky Sport 3 HD.skyde">
+<programme start="20251202163000 +0000" stop="20251202191500 +0000" channel="Sky Sport 3 HD.skyde">
     <title>Live DFB-Pokal: Hertha BSC - 1. FC Kaiserslautern, Achtelfinale</title>
 </programme>
-<programme start="20251202195000 +0000" stop="20251202231500 +0000" channel="Sky Sport 3 HD.skyde">
+<programme start="20251202195000 +0000" stop="20251202221500 +0000" channel="Sky Sport 3 HD.skyde">
     <title>Live DFB-Pokal: RB Leipzig - 1. FC Magdeburg, Achtelfinale</title>
 </programme>
 <programme start="20251202130000 +0000" stop="20251202143000 +0000" channel="Sky Sport 4 HD.skyde">
@@ -3310,7 +3310,7 @@
 <programme start="20251202161000 +0000" stop="20251202163000 +0000" channel="Sky Sport 4 HD.skyde">
     <title>Es folgt Live DFB-Pokal</title>
 </programme>
-<programme start="20251202163000 +0000" stop="20251202201500 +0000" channel="Sky Sport 4 HD.skyde">
+<programme start="20251202163000 +0000" stop="20251202191500 +0000" channel="Sky Sport 4 HD.skyde">
     <title>Live DFB-Pokal: Borussia M&#039;gladbach - FC St. Pauli, Achtelfinale</title>
 </programme>
 <programme start="20251202193000 +0000" stop="20251202195000 +0000" channel="Sky Sport 5 HD.skyde">
