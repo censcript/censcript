@@ -161,7 +161,7 @@
     <title>News (L)</title>
 </programme>
 <programme start="20251202043000 +0000" stop="20251202050000 +0000" channel="Al Jazeera English.mncvision">
-    <title>The Stream</title>
+    <title>The Stream: End Of The Internet</title>
 </programme>
 <programme start="20251202050000 +0000" stop="20251202053000 +0000" channel="Al Jazeera English.mncvision">
     <title>News (L)</title>
@@ -209,7 +209,7 @@
     <title>News (L)</title>
 </programme>
 <programme start="20251202143000 +0000" stop="20251202150000 +0000" channel="Al Jazeera English.mncvision">
-    <title>The Stream</title>
+    <title>The Stream: End Of The Internet</title>
 </programme>
 <programme start="20251202150000 +0000" stop="20251202160000 +0000" channel="Al Jazeera English.mncvision">
     <title>NewsHour</title>
@@ -5990,7 +5990,7 @@
     <title>Upin &amp; Ipin</title>
 </programme>
 <programme start="20251202073000 +0000" stop="20251202090000 +0000" channel="MNCTV.mncvision">
-    <title>Kilau Uang Kaget &amp; Bedah Rumah</title>
+    <title>Upin &amp; Ipin</title>
 </programme>
 <programme start="20251202090000 +0000" stop="20251202100000 +0000" channel="MNCTV.mncvision">
     <title>Upin &amp; Ipin</title>
@@ -6005,7 +6005,7 @@
     <title>Super Deal</title>
 </programme>
 <programme start="20251202141500 +0000" stop="20251202160000 +0000" channel="MNCTV.mncvision">
-    <title>DMD Panggung Rezeki</title>
+    <title>DMD Panggung Rezeki (L)</title>
 </programme>
 <programme start="20251202160000 +0000" stop="20251202163000 +0000" channel="MNCTV.mncvision">
     <title>TLC: TV, Love, Cinema</title>
@@ -6050,7 +6050,7 @@
     <title>Upin &amp; Ipin</title>
 </programme>
 <programme start="20251202073000 +0000" stop="20251202090000 +0000" channel="MNCTV HD.mncvision">
-    <title>Kilau Uang Kaget &amp; Bedah Rumah</title>
+    <title>Upin &amp; Ipin</title>
 </programme>
 <programme start="20251202090000 +0000" stop="20251202100000 +0000" channel="MNCTV HD.mncvision">
     <title>Upin &amp; Ipin</title>
@@ -6065,7 +6065,7 @@
     <title>Super Deal</title>
 </programme>
 <programme start="20251202141500 +0000" stop="20251202160000 +0000" channel="MNCTV HD.mncvision">
-    <title>DMD Panggung Rezeki</title>
+    <title>DMD Panggung Rezeki (L)</title>
 </programme>
 <programme start="20251202160000 +0000" stop="20251202163000 +0000" channel="MNCTV HD.mncvision">
     <title>TLC: TV, Love, Cinema</title>
