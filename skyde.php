@@ -1100,7 +1100,7 @@
     <title>Meilensteine der Technik</title>
 </programme>
 <programme start="20251202010000 +0000" stop="20251202015000 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Record-Breaking: Paris Underground</title>
+    <title>Rekordverdächtig - Konstruktionen in der Tiefe</title>
 </programme>
 <programme start="20251202015000 +0000" stop="20251202023500 +0000" channel="HISTORY Channel HD.skyde">
     <title>Innovationen, die die Welt veränderten</title>
@@ -3224,10 +3224,10 @@
     <title>Golf: Greatest Holes (4)</title>
 </programme>
 <programme start="20251202173000 +0000" stop="20251202193000 +0000" channel="Sky Sport UHD.skyde">
-    <title>PL: Crystal Palace - Manchester United, 13. Spieltag</title>
+    <title>F1: Rennen - GP Katar</title>
 </programme>
 <programme start="20251202173000 +0000" stop="20251202193000 +0000" channel="Sky Sport UHD.skyde">
-    <title>F1: Rennen - GP Katar</title>
+    <title>PL: Crystal Palace - Manchester United, 13. Spieltag</title>
 </programme>
 <programme start="20251202193000 +0000" stop="20251202195500 +0000" channel="Sky Sport UHD.skyde">
     <title>Live DFB-Pokal: Vorbericht</title>
@@ -3265,19 +3265,19 @@
 <programme start="20251202163000 +0000" stop="20251202220000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live DFB-Pokal: Dienstags-Konferenz, Achtelfinale</title>
 </programme>
-<programme start="20251202220000 +0000" stop="20251203000000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20251202220000 +0000" stop="20251202230000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live DFB-Pokal: Alle Spiele, alle Tore: Achtelfinale, Dienstag</title>
 </programme>
 <programme start="20251202161000 +0000" stop="20251202163000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Es folgt Live DFB-Pokal</title>
 </programme>
-<programme start="20251202163000 +0000" stop="20251202193000 +0000" channel="Sky Sport 2 HD.skyde">
+<programme start="20251202163000 +0000" stop="20251202191500 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live DFB-Pokal: Borussia M&#039;gladbach - FC St. Pauli, Achtelfinale</title>
 </programme>
 <programme start="20251202193000 +0000" stop="20251202195500 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live DFB-Pokal: Vorbericht</title>
 </programme>
-<programme start="20251202195500 +0000" stop="20251202231500 +0000" channel="Sky Sport 2 HD.skyde">
+<programme start="20251202195500 +0000" stop="20251202221500 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live DFB-Pokal: Borussia Dortmund - Bayer Leverkusen, Achtelfinale</title>
 </programme>
 <programme start="20251202103000 +0000" stop="20251202120000 +0000" channel="Sky Sport 3 HD.skyde">
@@ -3733,7 +3733,7 @@
 <programme start="20251202191500 +0000" stop="20251202212500 +0000" channel="Warner TV Film.skyde">
     <title>Jack Reacher</title>
 </programme>
-<programme start="20251202212500 +0000" stop="20251202231000 +0000" channel="Warner TV Film.skyde">
+<programme start="20251202212500 +0000" stop="20251202230500 +0000" channel="Warner TV Film.skyde">
     <title>Unstoppable: Außer Kontrolle</title>
 </programme>
 <programme start="20251201233500 +0000" stop="20251202014000 +0000" channel="Warner TV Film HD.skyde">
