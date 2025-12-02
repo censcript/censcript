@@ -2744,7 +2744,7 @@
     <title>BL: FC Bayern München - FC St. Pauli, 12. Spieltag</title>
 </programme>
 <programme start="20251202130000 +0000" stop="20251202131500 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: &quot;Wenn man gebraucht wird&quot; - Manuel Neuer Exklusiv</title>
+    <title>BL: Wenn man gebraucht wird - Manuel Neuer Exklusiv</title>
 </programme>
 <programme start="20251202131500 +0000" stop="20251202151500 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>DFB-Nachwuchsliga: Werder Bremen U19 - FC St. Pauli U19, 13. Spieltag</title>
@@ -2765,7 +2765,7 @@
     <title>BL: Dein Spieltags-Sprint (12)</title>
 </programme>
 <programme start="20251202174500 +0000" stop="20251202180000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: &quot;Wenn man gebraucht wird&quot; - Manuel Neuer Exklusiv</title>
+    <title>BL: Wenn man gebraucht wird - Manuel Neuer Exklusiv</title>
 </programme>
 <programme start="20251202180000 +0000" stop="20251202200000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: Tactical Feed: B04 - BVB, 12. Spieltag</title>
@@ -2902,10 +2902,10 @@
 <programme start="20251202000000 +0000" stop="20251202003000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NBA: Showtime</title>
 </programme>
-<programme start="20251202003000 +0000" stop="20251202031000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20251202003000 +0000" stop="20251202030000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NBA: Chicago Bulls @ Orlando Magic</title>
 </programme>
-<programme start="20251202031000 +0000" stop="20251202060000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20251202030000 +0000" stop="20251202060000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NHL: Utah Mammoth @ San Jose Sharks</title>
 </programme>
 <programme start="20251202060000 +0000" stop="20251202063000 +0000" channel="Sky Sport Mix HD.skyde">
@@ -2963,30 +2963,15 @@
     <title>BL: Glanzparade - Die Show mit Buschmann, Fuss und Wagner</title>
 </programme>
 <programme start="20251202090000 +0000" stop="20251202093000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live Sky Sport News: FCB-PK vor Union Berlin</title>
+    <title>Sky Sport News: FCB-PK vor Union Berlin</title>
 </programme>
 <programme start="20251202093000 +0000" stop="20251202100000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Sky Sport News: Der Morgen</title>
+    <title>Live Sky Sport News: Der Morgen</title>
 </programme>
 <programme start="20251202100000 +0000" stop="20251202110000 +0000" channel="Sky Sport News HD.skyde">
     <title>Transfer Update: Die Show XXL</title>
 </programme>
-<programme start="20251202110000 +0000" stop="20251202111500 +0000" channel="Sky Sport News HD.skyde">
-    <title>BL: &quot;Wenn man gebraucht wird&quot; - Manuel Neuer Exklusiv</title>
-</programme>
-<programme start="20251202111500 +0000" stop="20251202113000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live DFB-Pokal: Matchday</title>
-</programme>
-<programme start="20251202113000 +0000" stop="20251202140000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live DFB-Pokal: Matchday</title>
-</programme>
-<programme start="20251202140000 +0000" stop="20251202141500 +0000" channel="Sky Sport News HD.skyde">
-    <title>BL: &quot;Wenn man gebraucht wird&quot; - Manuel Neuer Exklusiv</title>
-</programme>
-<programme start="20251202141500 +0000" stop="20251202143000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live DFB-Pokal: Matchday</title>
-</programme>
-<programme start="20251202143000 +0000" stop="20251202160000 +0000" channel="Sky Sport News HD.skyde">
+<programme start="20251202110000 +0000" stop="20251202160000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live DFB-Pokal: Matchday</title>
 </programme>
 <programme start="20251202160000 +0000" stop="20251202161500 +0000" channel="Sky Sport News HD.skyde">
@@ -2998,13 +2983,7 @@
 <programme start="20251202163000 +0000" stop="20251202170000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live DFB-Pokal: Matchday</title>
 </programme>
-<programme start="20251202170000 +0000" stop="20251202171500 +0000" channel="Sky Sport News HD.skyde">
-    <title>BL: &quot;Wenn man gebraucht wird&quot; - Manuel Neuer Exklusiv</title>
-</programme>
-<programme start="20251202171500 +0000" stop="20251202173000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live Sky Sport News: Primetime</title>
-</programme>
-<programme start="20251202173000 +0000" stop="20251202183000 +0000" channel="Sky Sport News HD.skyde">
+<programme start="20251202170000 +0000" stop="20251202183000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Primetime</title>
 </programme>
 <programme start="20251202183000 +0000" stop="20251202190000 +0000" channel="Sky Sport News HD.skyde">
@@ -3015,9 +2994,6 @@
 </programme>
 <programme start="20251202193000 +0000" stop="20251202195500 +0000" channel="Sky Sport News HD.skyde">
     <title>Live DFB-Pokal: Vorbericht</title>
-</programme>
-<programme start="20251202195500 +0000" stop="20251202221500 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live DFB-Pokal: Borussia Dortmund - Bayer Leverkusen, Achtelfinale</title>
 </programme>
 <programme start="20251202221500 +0000" stop="20251202230000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Late Night News</title>
@@ -3233,10 +3209,10 @@
     <title>Live DFB-Pokal: Alle Spiele, alle Tore: Achtelfinale, Dienstag</title>
 </programme>
 <programme start="20251202093000 +0000" stop="20251202113000 +0000" channel="Sky Sport UHD.skyde">
-    <title>PL: Crystal Palace - Manchester United, 13. Spieltag</title>
+    <title>PL: West Ham United - FC Liverpool, 13. Spieltag</title>
 </programme>
 <programme start="20251202093000 +0000" stop="20251202113000 +0000" channel="Sky Sport UHD.skyde">
-    <title>PL: West Ham United - FC Liverpool, 13. Spieltag</title>
+    <title>PL: Crystal Palace - Manchester United, 13. Spieltag</title>
 </programme>
 <programme start="20251202113000 +0000" stop="20251202133000 +0000" channel="Sky Sport UHD.skyde">
     <title>F1: Rennen - GP Katar</title>
@@ -3257,10 +3233,10 @@
     <title>Golf: Greatest Holes (4)</title>
 </programme>
 <programme start="20251202173000 +0000" stop="20251202193000 +0000" channel="Sky Sport UHD.skyde">
-    <title>F1: Rennen - GP Katar</title>
+    <title>PL: Crystal Palace - Manchester United, 13. Spieltag</title>
 </programme>
 <programme start="20251202173000 +0000" stop="20251202193000 +0000" channel="Sky Sport UHD.skyde">
-    <title>PL: Crystal Palace - Manchester United, 13. Spieltag</title>
+    <title>F1: Rennen - GP Katar</title>
 </programme>
 <programme start="20251202193000 +0000" stop="20251202195500 +0000" channel="Sky Sport UHD.skyde">
     <title>Live DFB-Pokal: Vorbericht</title>
@@ -3293,7 +3269,7 @@
     <title>Live NBA: Showtime - Post Show</title>
 </programme>
 <programme start="20251202161000 +0000" stop="20251202163000 +0000" channel="Sky Sport 1 HD.skyde">
-    <title>Es folgt: Live DFB-Pokal</title>
+    <title>Es folgt Live DFB-Pokal</title>
 </programme>
 <programme start="20251202163000 +0000" stop="20251202220000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live DFB-Pokal: Dienstags-Konferenz, Achtelfinale</title>
@@ -3349,7 +3325,7 @@
 <programme start="20251202190000 +0000" stop="20251202192000 +0000" channel="Sky Sport 7 HD.skyde">
     <title>Es folgt: Live Premier League</title>
 </programme>
-<programme start="20251202192000 +0000" stop="20251202214500 +0000" channel="Sky Sport 7 HD.skyde">
+<programme start="20251202192000 +0000" stop="20251202213000 +0000" channel="Sky Sport 7 HD.skyde">
     <title>Live PL: AFC Bournemouth - FC Everton, 14. Spieltag</title>
 </programme>
 <programme start="20251201230500 +0000" stop="20251201235000 +0000" channel="SYFY HD.skyde">
