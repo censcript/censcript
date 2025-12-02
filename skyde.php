@@ -3277,7 +3277,7 @@
 <programme start="20251202163000 +0000" stop="20251202220000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live DFB-Pokal: Dienstags-Konferenz, Achtelfinale</title>
 </programme>
-<programme start="20251202220000 +0000" stop="20251203000000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20251202220000 +0000" stop="20251202230000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live DFB-Pokal: Alle Spiele, alle Tore: Achtelfinale, Dienstag</title>
 </programme>
 <programme start="20251202161000 +0000" stop="20251202163000 +0000" channel="Sky Sport 2 HD.skyde">
@@ -3298,10 +3298,10 @@
 <programme start="20251202161000 +0000" stop="20251202163000 +0000" channel="Sky Sport 3 HD.skyde">
     <title>Es folgt Live DFB-Pokal</title>
 </programme>
-<programme start="20251202163000 +0000" stop="20251202191500 +0000" channel="Sky Sport 3 HD.skyde">
+<programme start="20251202163000 +0000" stop="20251202195000 +0000" channel="Sky Sport 3 HD.skyde">
     <title>Live DFB-Pokal: Hertha BSC - 1. FC Kaiserslautern, Achtelfinale</title>
 </programme>
-<programme start="20251202195000 +0000" stop="20251202221500 +0000" channel="Sky Sport 3 HD.skyde">
+<programme start="20251202195000 +0000" stop="20251202231500 +0000" channel="Sky Sport 3 HD.skyde">
     <title>Live DFB-Pokal: RB Leipzig - 1. FC Magdeburg, Achtelfinale</title>
 </programme>
 <programme start="20251202130000 +0000" stop="20251202143000 +0000" channel="Sky Sport 4 HD.skyde">
@@ -3328,7 +3328,7 @@
 <programme start="20251202190000 +0000" stop="20251202192000 +0000" channel="Sky Sport 7 HD.skyde">
     <title>Es folgt: Live Premier League</title>
 </programme>
-<programme start="20251202192000 +0000" stop="20251202213000 +0000" channel="Sky Sport 7 HD.skyde">
+<programme start="20251202192000 +0000" stop="20251202214500 +0000" channel="Sky Sport 7 HD.skyde">
     <title>Live PL: AFC Bournemouth - FC Everton, 14. Spieltag</title>
 </programme>
 <programme start="20251201230500 +0000" stop="20251201235000 +0000" channel="SYFY HD.skyde">
@@ -3547,10 +3547,10 @@
 <programme start="20251202012500 +0000" stop="20251202013500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Robot Chicken</title>
 </programme>
-<programme start="20251202013500 +0000" stop="20251202014500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251202013500 +0000" stop="20251202015000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Robot Chicken</title>
 </programme>
-<programme start="20251202014500 +0000" stop="20251202020000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251202015000 +0000" stop="20251202020000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Robot Chicken</title>
 </programme>
 <programme start="20251202020000 +0000" stop="20251202021000 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3574,10 +3574,10 @@
 <programme start="20251202041500 +0000" stop="20251202044000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Die Nanny</title>
 </programme>
-<programme start="20251202044000 +0000" stop="20251202050500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251202044000 +0000" stop="20251202050000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Die Nanny</title>
 </programme>
-<programme start="20251202050500 +0000" stop="20251202053500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251202050000 +0000" stop="20251202053500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Die Nanny</title>
 </programme>
 <programme start="20251202053500 +0000" stop="20251202060000 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3685,13 +3685,13 @@
 <programme start="20251202194000 +0000" stop="20251202200500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Two and a Half Men</title>
 </programme>
-<programme start="20251202200500 +0000" stop="20251202203000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251202200500 +0000" stop="20251202202500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Two and a Half Men</title>
 </programme>
-<programme start="20251202203000 +0000" stop="20251202205000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251202202500 +0000" stop="20251202205500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>2 Broke Girls</title>
 </programme>
-<programme start="20251202205000 +0000" stop="20251202211500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251202205500 +0000" stop="20251202211500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>2 Broke Girls</title>
 </programme>
 <programme start="20251202211500 +0000" stop="20251202214500 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3781,7 +3781,7 @@
 <programme start="20251202191500 +0000" stop="20251202212500 +0000" channel="Warner TV Film HD.skyde">
     <title>Jack Reacher</title>
 </programme>
-<programme start="20251202212500 +0000" stop="20251202230500 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20251202212500 +0000" stop="20251202231000 +0000" channel="Warner TV Film HD.skyde">
     <title>Unstoppable: Außer Kontrolle</title>
 </programme>
 <programme start="20251201231500 +0000" stop="20251202005000 +0000" channel="Warner TV Serie HD.skyde">

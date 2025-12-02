@@ -3173,10 +3173,10 @@
         <title>News</title>
     </programme>
     <programme start="20251201171500 +0000" stop="20251201173000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>Why American health bills are set to go higher</title>
     </programme>
     <programme start="20251201173000 +0000" stop="20251201180000 +0000" channel="DW English HD.starhub">
-        <title>Experiencing and understanding the art world</title>
+        <title>Cigarettes: Addiction and propaganda</title>
     </programme>
     <programme start="20251201180000 +0000" stop="20251201183000 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3188,10 +3188,10 @@
         <title>News</title>
     </programme>
     <programme start="20251201190200 +0000" stop="20251201193000 +0000" channel="DW English HD.starhub">
-        <title>Modern African Lifestyle</title>
+        <title>About Cultural Trailblazers</title>
     </programme>
     <programme start="20251201193000 +0000" stop="20251201200000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW Podcasts</title>
+        <title>Dudula: Fighting for South Africa or fighting Africans?</title>
     </programme>
     <programme start="20251201200000 +0000" stop="20251201203000 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3203,7 +3203,7 @@
         <title>News</title>
     </programme>
     <programme start="20251201210200 +0000" stop="20251201211500 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>Why American health bills are set to go higher</title>
     </programme>
     <programme start="20251201211500 +0000" stop="20251201220000 +0000" channel="DW English HD.starhub">
         <title>Neuschwanstein - Ludwig&#039;s Dream, Ludwig&#039;s Tragedy - Part 2</title>
@@ -3221,7 +3221,7 @@
         <title>News</title>
     </programme>
     <programme start="20251201231500 +0000" stop="20251201233000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>Why American health bills are set to go higher</title>
     </programme>
     <programme start="20251201233000 +0000" stop="20251202000000 +0000" channel="DW English HD.starhub">
         <title>The Current Affairs Documentary</title>
@@ -7849,13 +7849,13 @@
     <programme start="20251201133000 +0000" stop="20251201163000 +0000" channel="Asianet Movies.starhub">
         <title>Vettam</title>
     </programme>
-    <programme start="20251201163000 +0000" stop="20251201193000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251201163000 +0000" stop="20251201191500 +0000" channel="Asianet Movies.starhub">
         <title>Velugu</title>
     </programme>
-    <programme start="20251201193000 +0000" stop="20251201213000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251201191500 +0000" stop="20251201212000 +0000" channel="Asianet Movies.starhub">
         <title>Helen</title>
     </programme>
-    <programme start="20251201213000 +0000" stop="20251201233000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251201212000 +0000" stop="20251201232000 +0000" channel="Asianet Movies.starhub">
         <title>Cheriya Kallanum Valiya Poleesum</title>
     </programme>
     <programme start="20251201232000 +0000" stop="20251202013000 +0000" channel="Asianet Movies.starhub">
