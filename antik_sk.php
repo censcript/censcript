@@ -2114,322 +2114,304 @@
     <title lang="id">Moe a jeho šou II (41)</title>
   </programme>
   <programme start="20251203223500 +0000" stop="20251203232000 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Flopyho veselé príbehy (29)</title>
+    <title lang="id">Flopyho veselé príbehy I (9)</title>
   </programme>
   <programme start="20251203232000 +0000" stop="20251203234500 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Malý medvedík I (25)</title>
+    <title lang="id">Malý medvedík I (3)</title>
   </programme>
   <programme start="20251203234500 +0000" stop="20251204001000 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Myšiak Anatole I (22)</title>
+    <title lang="id">Myšiak Anatole I (15)</title>
   </programme>
   <programme start="20251204001000 +0000" stop="20251204002500 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Tri mušketierky I (38)</title>
+    <title lang="id">Tri mušketierky I (9)</title>
   </programme>
   <programme start="20251204002500 +0000" stop="20251204003500 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Esá z pralesa I (26)</title>
+    <title lang="id">Esá z pralesa I (46)</title>
   </programme>
   <programme start="20251204003500 +0000" stop="20251204004500 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Apollo a veselé chrobáčiky I (14)</title>
+    <title lang="id">Apollo a veselé chrobáčiky I (34)</title>
   </programme>
   <programme start="20251204004500 +0000" stop="20251204011000 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Volám sa Caillou V (19)</title>
+    <title lang="id">Volám sa Caillou V (3)</title>
   </programme>
   <programme start="20251204011000 +0000" stop="20251204012000 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Dumper a Skoop I (1)</title>
+    <title lang="id">Dumper a Skoop III (3)</title>
   </programme>
   <programme start="20251204012000 +0000" stop="20251204013000 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Panda a Krash I (34)</title>
+    <title lang="id">Panda a Krash I (10)</title>
   </programme>
   <programme start="20251204013000 +0000" stop="20251204015500 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Príbehy dvoch myší I (2)</title>
+    <title lang="id">Príbehy dvoch myší II (4)</title>
   </programme>
   <programme start="20251204015500 +0000" stop="20251204022000 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Rev a motoroví miláčikovia I (20)</title>
+    <title lang="id">Rev a motoroví miláčikovia I (22)</title>
   </programme>
   <programme start="20251204022000 +0000" stop="20251204023000 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Máša a medveď I (11)</title>
+    <title lang="id">Máša a medveď VI (126)</title>
   </programme>
   <programme start="20251204023000 +0000" stop="20251204024000 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Chuggington - veselé vláčiky II (22)</title>
+    <title lang="id">Chuggington - veselé vláčiky IV (9)</title>
   </programme>
   <programme start="20251204024000 +0000" stop="20251204025000 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Malý silák Bheem I (26)</title>
+    <title lang="id">Malý silák Bheem I (46)</title>
   </programme>
   <programme start="20251204025000 +0000" stop="20251204031500 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Jahôdka a jej kamaráti III (17)</title>
+    <title lang="id">Jahôdka a jej kamaráti III (1)</title>
   </programme>
   <programme start="20251204031500 +0000" stop="20251204034000 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Malý medvedík I (26)</title>
+    <title lang="id">Malý medvedík I (4)</title>
   </programme>
   <programme start="20251204034000 +0000" stop="20251204040500 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Ruby z dúhy II (16)</title>
+    <title lang="id">Ruby z dúhy I (21)</title>
   </programme>
   <programme start="20251204040500 +0000" stop="20251204041000 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Maličké príšerky I (14)</title>
+    <title lang="id">Maličké príšerky II (3)</title>
   </programme>
   <programme start="20251204041000 +0000" stop="20251204041500 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Hot Wheels autíčka II (5)</title>
-  </programme>
-  <programme start="20251204041500 +0000" stop="20251204042500 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Bob staviteľ III (2)</title>
-  </programme>
-  <programme start="20251204042500 +0000" stop="20251204044000 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Požiarnik Sam XIV (9)</title>
-  </programme>
-  <programme start="20251204044000 +0000" stop="20251204045000 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Máša a medveď I (12)</title>
-  </programme>
-  <programme start="20251204045000 +0000" stop="20251204050000 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Máša a medveď I (13)</title>
-  </programme>
-  <programme start="20251204050000 +0000" stop="20251204050500 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Kiri a Lou II (5)</title>
-  </programme>
-  <programme start="20251204050500 +0000" stop="20251204053000 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Barbie: Dom snov II (17)</title>
-  </programme>
-  <programme start="20251204053000 +0000" stop="20251204054500 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Flopy (127)</title>
-  </programme>
-  <programme start="20251204054500 +0000" stop="20251204055500 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">WoW Lisa I (22)</title>
-  </programme>
-  <programme start="20251204055500 +0000" stop="20251204060500 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Dobrodružstvá Bolka a Lolka I (34)</title>
-  </programme>
-  <programme start="20251204060500 +0000" stop="20251204061500 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Mojo Transformer I (20)</title>
-  </programme>
-  <programme start="20251204061500 +0000" stop="20251204062500 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Ovečka Shaun I (30)</title>
-  </programme>
-  <programme start="20251204062500 +0000" stop="20251204063000 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Prasiatko Peppa II (24)</title>
-  </programme>
-  <programme start="20251204063000 +0000" stop="20251204064000 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Hanička a Murko I (2)</title>
-  </programme>
-  <programme start="20251204064000 +0000" stop="20251204065000 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Máša a medveď I (14)</title>
-  </programme>
-  <programme start="20251204065000 +0000" stop="20251204070500 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Štístko a Poupěnka I (8)</title>
-  </programme>
-  <programme start="20251204070500 +0000" stop="20251204071000 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Prasiatko Peppa II (25)</title>
-  </programme>
-  <programme start="20251204071000 +0000" stop="20251204080000 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Flopyho veselé príbehy (30)</title>
-  </programme>
-  <programme start="20251204080000 +0000" stop="20251204081000 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Ovečka Shaun I (31)</title>
-  </programme>
-  <programme start="20251204081000 +0000" stop="20251204082500 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Bob staviteľ III (3)</title>
-  </programme>
-  <programme start="20251204082500 +0000" stop="20251204083500 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Požiarnik Sam XIV (10)</title>
-  </programme>
-  <programme start="20251204083500 +0000" stop="20251204085000 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Drobčekovia III (5)</title>
-  </programme>
-  <programme start="20251204085000 +0000" stop="20251204091500 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Príbehy z nočnej záhrady III (20)</title>
-  </programme>
-  <programme start="20251204091500 +0000" stop="20251204092500 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Dobrodružstvá Bolka a Lolka II (9)</title>
-  </programme>
-  <programme start="20251204092500 +0000" stop="20251204094000 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Krajina fantázie s TintiLinti (3)</title>
-  </programme>
-  <programme start="20251204094000 +0000" stop="20251204095000 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Máša a medveď I (15)</title>
-  </programme>
-  <programme start="20251204095000 +0000" stop="20251204100000 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Kúzelný Kvet - Hanička a Murko</title>
-  </programme>
-  <programme start="20251204100000 +0000" stop="20251204101500 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Teletubbies I (15a)</title>
-  </programme>
-  <programme start="20251204101500 +0000" stop="20251204103000 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Chuggington - veselé vláčiky II (22)</title>
-  </programme>
-  <programme start="20251204103000 +0000" stop="20251204105500 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Malý medvedík I (26)</title>
-  </programme>
-  <programme start="20251204105500 +0000" stop="20251204110000 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Maličké príšerky I (15)</title>
-  </programme>
-  <programme start="20251204110000 +0000" stop="20251204111500 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Flopy (140)</title>
-  </programme>
-  <programme start="20251204111500 +0000" stop="20251204112500 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Dobrodružstvá Bolka a Lolka I (36)</title>
-  </programme>
-  <programme start="20251204112500 +0000" stop="20251204113000 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Pingu V (4)</title>
-  </programme>
-  <programme start="20251204113000 +0000" stop="20251204114500 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Flopy (135)</title>
-  </programme>
-  <programme start="20251204114500 +0000" stop="20251204115500 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Volám sa Caillou II./III. II (27)</title>
-  </programme>
-  <programme start="20251204115500 +0000" stop="20251204121000 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Vesmírni pretekári I (37)</title>
-  </programme>
-  <programme start="20251204121000 +0000" stop="20251204122000 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">American Girl II (2)</title>
-  </programme>
-  <programme start="20251204122000 +0000" stop="20251204122500 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Tina a Tony I (26)</title>
-  </programme>
-  <programme start="20251204122500 +0000" stop="20251204125000 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Jahôdka a jej kamaráti III (17)</title>
-  </programme>
-  <programme start="20251204125000 +0000" stop="20251204130500 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Tri mušketierky I (38)</title>
-  </programme>
-  <programme start="20251204130500 +0000" stop="20251204131500 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Ovečka Shaun I (32)</title>
-  </programme>
-  <programme start="20251204131500 +0000" stop="20251204132500 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Dumper a Skoop I (1)</title>
-  </programme>
-  <programme start="20251204132500 +0000" stop="20251204134000 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Esá z pralesa I (26)</title>
-  </programme>
-  <programme start="20251204134000 +0000" stop="20251204135500 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Rozprávky líšky a vlka (6)</title>
-  </programme>
-  <programme start="20251204135500 +0000" stop="20251204140000 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Smejko a Tanculienka II (4)</title>
-  </programme>
-  <programme start="20251204140000 +0000" stop="20251204141000 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Máša a medveď I (16)</title>
-  </programme>
-  <programme start="20251204141000 +0000" stop="20251204142000 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Hanička a Murko I (3)</title>
-  </programme>
-  <programme start="20251204142000 +0000" stop="20251204142500 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Kiri a Lou II (6)</title>
-  </programme>
-  <programme start="20251204142500 +0000" stop="20251204143500 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Bob staviteľ III (2)</title>
-  </programme>
-  <programme start="20251204143500 +0000" stop="20251204145000 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Požiarnik Sam XIV (9)</title>
-  </programme>
-  <programme start="20251204145000 +0000" stop="20251204152000 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Flopy (153)</title>
-  </programme>
-  <programme start="20251204152000 +0000" stop="20251204154500 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Barbie: Dom snov II (18)</title>
-  </programme>
-  <programme start="20251204154500 +0000" stop="20251204155500 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Pingu V (5)</title>
-  </programme>
-  <programme start="20251204155500 +0000" stop="20251204160000 +0000" channel="RiK TV.webtv.sk">
     <title lang="id">Hot Wheels autíčka II (6)</title>
   </programme>
-  <programme start="20251204160000 +0000" stop="20251204161000 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Dobrodružstvá Bolka a Lolka I (37)</title>
+  <programme start="20251204041500 +0000" stop="20251204042500 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Bob staviteľ II (20)</title>
   </programme>
-  <programme start="20251204161000 +0000" stop="20251204161500 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Matchbox II (2)</title>
+  <programme start="20251204042500 +0000" stop="20251204044000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Požiarnik Sam XIV (13)</title>
   </programme>
-  <programme start="20251204161500 +0000" stop="20251204163000 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Ukecaný Tom I (48)</title>
+  <programme start="20251204044000 +0000" stop="20251204045000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Máša a medveď VI (127)</title>
   </programme>
-  <programme start="20251204163000 +0000" stop="20251204164500 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Tomáš a Priatelia VI (18)</title>
+  <programme start="20251204045000 +0000" stop="20251204050000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Máša a medveď VI (128)</title>
   </programme>
-  <programme start="20251204164500 +0000" stop="20251204165500 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Ovečka Shaun I (33)</title>
+  <programme start="20251204050000 +0000" stop="20251204050500 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Prasiatko Peppa I (40)</title>
   </programme>
-  <programme start="20251204165500 +0000" stop="20251204170500 +0000" channel="RiK TV.webtv.sk">
+  <programme start="20251204050500 +0000" stop="20251204053000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Jahôdka a jej kamaráti III (2)</title>
+  </programme>
+  <programme start="20251204053000 +0000" stop="20251204054500 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Flopy (152)</title>
+  </programme>
+  <programme start="20251204054500 +0000" stop="20251204055500 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">WoW Lisa I (1)</title>
+  </programme>
+  <programme start="20251204055500 +0000" stop="20251204060500 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Dobrodružstvá Bolka a Lolka I (40)</title>
+  </programme>
+  <programme start="20251204060500 +0000" stop="20251204061500 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Mojo Transformer I (48)</title>
+  </programme>
+  <programme start="20251204061500 +0000" stop="20251204062500 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Ovečka Shaun I (22)</title>
+  </programme>
+  <programme start="20251204062500 +0000" stop="20251204065000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Volám sa Caillou V (3)</title>
+  </programme>
+  <programme start="20251204065000 +0000" stop="20251204070500 +0000" channel="RiK TV.webtv.sk">
     <title lang="id">Štístko a Poupěnka I (9)</title>
   </programme>
-  <programme start="20251204170500 +0000" stop="20251204171500 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">WoW Lisa I (23)</title>
+  <programme start="20251204070500 +0000" stop="20251204071000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Prasiatko Peppa I (41)</title>
   </programme>
-  <programme start="20251204171500 +0000" stop="20251204172000 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Morph I (7)</title>
+  <programme start="20251204071000 +0000" stop="20251204080000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Flopyho veselé príbehy I (10)</title>
   </programme>
-  <programme start="20251204172000 +0000" stop="20251204180500 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Flopyho veselé príbehy (31)</title>
+  <programme start="20251204080000 +0000" stop="20251204081000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Ovečka Shaun I (23)</title>
   </programme>
-  <programme start="20251204180500 +0000" stop="20251204181000 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Pingu V (6)</title>
+  <programme start="20251204081000 +0000" stop="20251204082500 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Bob staviteľ II (21)</title>
   </programme>
-  <programme start="20251204181000 +0000" stop="20251204181500 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Prasiatko Peppa II (26)</title>
+  <programme start="20251204082500 +0000" stop="20251204083500 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Požiarnik Sam XIV (14)</title>
   </programme>
-  <programme start="20251204181500 +0000" stop="20251204182500 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Dobrodružstvá Bolka a Lolka I (38)</title>
+  <programme start="20251204083500 +0000" stop="20251204085000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Drobčekovia II (5)</title>
   </programme>
-  <programme start="20251204182500 +0000" stop="20251204184000 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Mojo Transformer I (21)</title>
+  <programme start="20251204085000 +0000" stop="20251204091500 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Príbehy z nočnej záhrady I (20)</title>
   </programme>
-  <programme start="20251204184000 +0000" stop="20251204185000 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Máša a medveď I (17)</title>
+  <programme start="20251204091500 +0000" stop="20251204092500 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Dobrodružstvá Bolka a Lolka II (17)</title>
   </programme>
-  <programme start="20251204185000 +0000" stop="20251204190000 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Fíha Tralala I (4)</title>
+  <programme start="20251204092500 +0000" stop="20251204094000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Krajina fantázie s TintiLinti I (6)</title>
   </programme>
-  <programme start="20251204190000 +0000" stop="20251204191500 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Priatelia z farmy I (26)</title>
+  <programme start="20251204094000 +0000" stop="20251204095000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Máša a medveď VI (126)</title>
   </programme>
-  <programme start="20251204191500 +0000" stop="20251204192000 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Kiri a Lou II (7)</title>
+  <programme start="20251204095000 +0000" stop="20251204100000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Kúzelný Kvet - Hanička a Murko I (4)</title>
   </programme>
-  <programme start="20251204192000 +0000" stop="20251204193500 +0000" channel="RiK TV.webtv.sk">
+  <programme start="20251204100000 +0000" stop="20251204101500 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Teletubbies I (25a)</title>
+  </programme>
+  <programme start="20251204101500 +0000" stop="20251204103000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Chuggington - veselé vláčiky IV (9)</title>
+  </programme>
+  <programme start="20251204103000 +0000" stop="20251204105500 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Malý medvedík I (3)</title>
+  </programme>
+  <programme start="20251204105500 +0000" stop="20251204110000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Maličké príšerky II (4)</title>
+  </programme>
+  <programme start="20251204110000 +0000" stop="20251204111500 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Flopy (158)</title>
+  </programme>
+  <programme start="20251204111500 +0000" stop="20251204112500 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Dobrodružstvá Bolka a Lolka I (41)</title>
+  </programme>
+  <programme start="20251204112500 +0000" stop="20251204113000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Pingu VI (11)</title>
+  </programme>
+  <programme start="20251204113000 +0000" stop="20251204114500 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Flopy (159)</title>
+  </programme>
+  <programme start="20251204114500 +0000" stop="20251204115500 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Volám sa Caillou II./III. III (17)</title>
+  </programme>
+  <programme start="20251204115500 +0000" stop="20251204121000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Vesmírni pretekári I (15)</title>
+  </programme>
+  <programme start="20251204121000 +0000" stop="20251204122000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">American Girl II (4)</title>
+  </programme>
+  <programme start="20251204122000 +0000" stop="20251204122500 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Tina a Tony I (46)</title>
+  </programme>
+  <programme start="20251204122500 +0000" stop="20251204125000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Jahôdka a jej kamaráti III (1)</title>
+  </programme>
+  <programme start="20251204125000 +0000" stop="20251204130500 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Tri mušketierky I (9)</title>
+  </programme>
+  <programme start="20251204130500 +0000" stop="20251204131500 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Ovečka Shaun I (24)</title>
+  </programme>
+  <programme start="20251204131500 +0000" stop="20251204134000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Ruby z dúhy I (22)</title>
+  </programme>
+  <programme start="20251204134000 +0000" stop="20251204135500 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Rozprávky líšky a vlka I (33)</title>
+  </programme>
+  <programme start="20251204135500 +0000" stop="20251204140000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Smejko a Tanculienka II (24)</title>
+  </programme>
+  <programme start="20251204140000 +0000" stop="20251204141000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Máša a medveď VI (129)</title>
+  </programme>
+  <programme start="20251204141000 +0000" stop="20251204142500 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Tomáš a Priatelia II (19)</title>
+  </programme>
+  <programme start="20251204142500 +0000" stop="20251204143500 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Bob staviteľ II (22)</title>
+  </programme>
+  <programme start="20251204143500 +0000" stop="20251204145000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Požiarnik Sam XIV (15)</title>
+  </programme>
+  <programme start="20251204145000 +0000" stop="20251204152000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Flopy (163)</title>
+  </programme>
+  <programme start="20251204152000 +0000" stop="20251204154500 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Barbie: Dom snov II (21)</title>
+  </programme>
+  <programme start="20251204154500 +0000" stop="20251204155500 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Pingu VI (12)</title>
+  </programme>
+  <programme start="20251204155500 +0000" stop="20251204160000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Hot Wheels autíčka II (7)</title>
+  </programme>
+  <programme start="20251204160000 +0000" stop="20251204161000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Dobrodružstvá Bolka a Lolka II (18)</title>
+  </programme>
+  <programme start="20251204161000 +0000" stop="20251204161500 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Matchbox I (3)</title>
+  </programme>
+  <programme start="20251204161500 +0000" stop="20251204163000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Ukecaný Tom I (40)</title>
+  </programme>
+  <programme start="20251204163000 +0000" stop="20251204164500 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Krajina fantázie s TintiLinti I (7)</title>
+  </programme>
+  <programme start="20251204164500 +0000" stop="20251204165500 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Ovečka Shaun I (25)</title>
+  </programme>
+  <programme start="20251204165500 +0000" stop="20251204170500 +0000" channel="RiK TV.webtv.sk">
     <title lang="id">Štístko a Poupěnka I (10)</title>
   </programme>
+  <programme start="20251204170500 +0000" stop="20251204171500 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">WoW Lisa I (2)</title>
+  </programme>
+  <programme start="20251204171500 +0000" stop="20251204172000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Morph I (3)</title>
+  </programme>
+  <programme start="20251204172000 +0000" stop="20251204180500 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Flopyho veselé príbehy I (11)</title>
+  </programme>
+  <programme start="20251204180500 +0000" stop="20251204181000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Pingu VI (13)</title>
+  </programme>
+  <programme start="20251204181000 +0000" stop="20251204181500 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Prasiatko Peppa I (42)</title>
+  </programme>
+  <programme start="20251204181500 +0000" stop="20251204182500 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Dobrodružstvá Bolka a Lolka II (1)</title>
+  </programme>
+  <programme start="20251204182500 +0000" stop="20251204184000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Mojo Transformer I (49)</title>
+  </programme>
+  <programme start="20251204184000 +0000" stop="20251204185000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Máša a medveď VI (130)</title>
+  </programme>
+  <programme start="20251204185000 +0000" stop="20251204190000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Fíha Tralala I (2)</title>
+  </programme>
+  <programme start="20251204190000 +0000" stop="20251204192500 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Volám sa Caillou I (5)</title>
+  </programme>
+  <programme start="20251204192500 +0000" stop="20251204193500 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Štístko a Poupěnka I (11)</title>
+  </programme>
   <programme start="20251204193500 +0000" stop="20251204195000 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Požiarnik Sam XIV (11)</title>
+    <title lang="id">Požiarnik Sam XIV (16)</title>
   </programme>
   <programme start="20251204195000 +0000" stop="20251204200000 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Máša a medveď I (18)</title>
+    <title lang="id">Máša a medveď VII (131)</title>
   </programme>
-  <programme start="20251204200000 +0000" stop="20251204201000 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Máša a medveď I (19)</title>
-  </programme>
-  <programme start="20251204201000 +0000" stop="20251204202500 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Bob staviteľ III (4)</title>
+  <programme start="20251204200000 +0000" stop="20251204202500 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Barbie: Dom snov II (22)</title>
   </programme>
   <programme start="20251204202500 +0000" stop="20251204204000 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Kung Fu Prasiatka I (25)</title>
+    <title lang="id">Tri mušketierky I (10)</title>
   </programme>
   <programme start="20251204204000 +0000" stop="20251204205000 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Bob staviteľ III (5)</title>
+    <title lang="id">Bob staviteľ II (23)</title>
   </programme>
   <programme start="20251204205000 +0000" stop="20251204210500 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Priatelia z farmy I (27)</title>
+    <title lang="id">Priatelia z farmy I (38)</title>
   </programme>
   <programme start="20251204210500 +0000" stop="20251204213000 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Barbie: Dotyk kúziel I (11)</title>
+    <title lang="id">Barbie: Dotyk kúziel I (22)</title>
   </programme>
   <programme start="20251204213000 +0000" stop="20251204214000 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Dobrodružstvá z farmy I (18)</title>
+    <title lang="id">Dobrodružstvá z farmy I (46)</title>
   </programme>
   <programme start="20251204214000 +0000" stop="20251204215500 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Priatelia z farmy I (28)</title>
+    <title lang="id">Priatelia z farmy I (39)</title>
   </programme>
   <programme start="20251204215500 +0000" stop="20251204221000 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Mojo Transformer I (22)</title>
+    <title lang="id">Mojo Transformer I (50)</title>
   </programme>
   <programme start="20251204221000 +0000" stop="20251204221500 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Morph I (8)</title>
+    <title lang="id">Morph I (4)</title>
   </programme>
   <programme start="20251204221500 +0000" stop="20251204222500 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Tomáš a Priatelia VI (19)</title>
+    <title lang="id">Tomáš a Priatelia II (20)</title>
   </programme>
   <programme start="20251204222500 +0000" stop="20251204223500 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Máša a medveď I (20)</title>
+    <title lang="id">Máša a medveď VII (132)</title>
   </programme>
   <programme start="20251204223500 +0000" stop="20251204232000 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Flopyho veselé príbehy (32)</title>
+    <title lang="id">Flopyho veselé príbehy I (12)</title>
   </programme>
   <programme start="20251203230000 +0000" stop="20251204040000 +0000" channel="LALA TV.webtv.sk">
     <title lang="id">Spíva celá rodina</title>
