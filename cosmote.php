@@ -134,6 +134,10 @@
     <title>Football: AEK - OFI</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251204065500 +0700" stop="20251204090000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Panathinaikos - Kifisia</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251203050000 +0700" stop="20251203070000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Sporting CP - CF Estrela de Amadora</title>
     <desc>Live: Tidak</desc>
@@ -194,6 +198,10 @@
     <title>Football: Ellas Syroy - Olympiacos</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251204065000 +0700" stop="20251204090000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Aris - PAOK</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251203041500 +0700" stop="20251203064500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Los Angeles Lakers - Phoenix Suns</title>
     <desc>Live: Tidak</desc>
@@ -248,10 +256,6 @@
 </programme>
 <programme start="20251204050000 +0700" stop="20251204071000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Heidelberg - Promitheas</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251203045000 +0700" stop="20251203055500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251203055500 +0700" stop="20251203062500 +0700" channel="COSMOTE Sport 5 HD">
@@ -350,8 +354,8 @@
     <title>Highlights: 2025 Extreme H</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251203033000 +0700" stop="20251203051000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Handball: ThSV Eisenach - THW Kiel</title>
+<programme start="20251204063500 +0700" stop="20251204073000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>2025 GT World Challenge Europe</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251203051000 +0700" stop="20251203073000 +0700" channel="COSMOTE Sport 6 HD">
