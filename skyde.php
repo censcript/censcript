@@ -2902,10 +2902,10 @@
 <programme start="20251202000000 +0000" stop="20251202003000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NBA: Showtime</title>
 </programme>
-<programme start="20251202003000 +0000" stop="20251202030000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20251202003000 +0000" stop="20251202031000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NBA: Chicago Bulls @ Orlando Magic</title>
 </programme>
-<programme start="20251202030000 +0000" stop="20251202060000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20251202031000 +0000" stop="20251202060000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NHL: Utah Mammoth @ San Jose Sharks</title>
 </programme>
 <programme start="20251202060000 +0000" stop="20251202063000 +0000" channel="Sky Sport Mix HD.skyde">
@@ -3236,10 +3236,10 @@
     <title>Golf: Greatest Holes (4)</title>
 </programme>
 <programme start="20251202173000 +0000" stop="20251202193000 +0000" channel="Sky Sport UHD.skyde">
-    <title>PL: Crystal Palace - Manchester United, 13. Spieltag</title>
+    <title>F1: Rennen - GP Katar</title>
 </programme>
 <programme start="20251202173000 +0000" stop="20251202193000 +0000" channel="Sky Sport UHD.skyde">
-    <title>F1: Rennen - GP Katar</title>
+    <title>PL: Crystal Palace - Manchester United, 13. Spieltag</title>
 </programme>
 <programme start="20251202193000 +0000" stop="20251202195500 +0000" channel="Sky Sport UHD.skyde">
     <title>Live DFB-Pokal: Vorbericht</title>
@@ -3262,10 +3262,10 @@
 <programme start="20251202000000 +0000" stop="20251202003000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime</title>
 </programme>
-<programme start="20251202003000 +0000" stop="20251202030000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20251202003000 +0000" stop="20251202031500 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Chicago Bulls @ Orlando Magic</title>
 </programme>
-<programme start="20251202030000 +0000" stop="20251202053000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20251202031500 +0000" stop="20251202053000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Phoenix Suns @ LA Lakers</title>
 </programme>
 <programme start="20251202053000 +0000" stop="20251202090000 +0000" channel="Sky Sport 1 HD.skyde">

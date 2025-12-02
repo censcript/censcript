@@ -478,6 +478,9 @@
 <programme start="20251203114500 +0000" stop="20251203121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
+<programme start="20251201230000 +0000" stop="20251202010000 +0000" channel="ANTV.vision">
+<title>Si Doel Anak Modern</title>
+</programme>
 <programme start="20251202010000 +0000" stop="20251202030000 +0000" channel="ANTV.vision">
 <title>Zeynep</title>
 </programme>
@@ -1494,7 +1497,4 @@
 </programme>
 <programme start="20251202184500 +0000" stop="20251202193000 +0000" channel="MDTV.vision">
 <title>Fenomena</title>
-</programme>
-<programme start="20251202193000 +0000" stop="20251202202000 +0000" channel="MDTV.vision">
-<title>Inilah Kisahnya</title>
 </programme>
