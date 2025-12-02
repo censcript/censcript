@@ -2383,8 +2383,96 @@
 <programme start="20251202162500 +0000" stop="20251202165500 +0000" channel="CINEEDGE.mncvision">
     <title>Platinum</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20251201180600 +0000" stop="20251201195500 +0000" channel="CINEEDGE HD.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20251201195500 +0000" stop="20251201215400 +0000" channel="CINEEDGE HD.mncvision">
+    <title>The Siege Of Robin Hood</title>
+</programme>
+<programme start="20251201215400 +0000" stop="20251201234300 +0000" channel="CINEEDGE HD.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20251201234300 +0000" stop="20251202013600 +0000" channel="CINEEDGE HD.mncvision">
+    <title>A Day To Die</title>
+</programme>
+<programme start="20251202013600 +0000" stop="20251202035900 +0000" channel="CINEEDGE HD.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20251202035900 +0000" stop="20251202053500 +0000" channel="CINEEDGE HD.mncvision">
+    <title>Renegades</title>
+</programme>
+<programme start="20251202053500 +0000" stop="20251202072400 +0000" channel="CINEEDGE HD.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20251202072400 +0000" stop="20251202090900 +0000" channel="CINEEDGE HD.mncvision">
+    <title>One Shot</title>
+</programme>
+<programme start="20251202090900 +0000" stop="20251202110700 +0000" channel="CINEEDGE HD.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20251202110700 +0000" stop="20251202124200 +0000" channel="CINEEDGE HD.mncvision">
+    <title>Ticker</title>
+</programme>
+<programme start="20251202124200 +0000" stop="20251202144600 +0000" channel="CINEEDGE HD.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20251202144600 +0000" stop="20251202162500 +0000" channel="CINEEDGE HD.mncvision">
+    <title>Code Name Banshee</title>
+</programme>
+<programme start="20251202162500 +0000" stop="20251202165500 +0000" channel="CINEEDGE HD.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20251201170000 +0000" stop="20251201180000 +0000" channel="CNBC.mncvision">
+    <title>Halftime Report</title>
+</programme>
+<programme start="20251201180000 +0000" stop="20251201190000 +0000" channel="CNBC.mncvision">
+    <title>The Exchange</title>
+</programme>
+<programme start="20251201190000 +0000" stop="20251201200000 +0000" channel="CNBC.mncvision">
+    <title>Power Lunch</title>
+</programme>
+<programme start="20251201200000 +0000" stop="20251201210000 +0000" channel="CNBC.mncvision">
+    <title>Closing Bell</title>
+</programme>
+<programme start="20251201210000 +0000" stop="20251201220000 +0000" channel="CNBC.mncvision">
+    <title>Closing Bell: Overtime</title>
+</programme>
+<programme start="20251201220000 +0000" stop="20251201230000 +0000" channel="CNBC.mncvision">
+    <title>Fast Money</title>
+</programme>
+<programme start="20251201230000 +0000" stop="20251202020000 +0000" channel="CNBC.mncvision">
+    <title>Squawk Box Asia</title>
+</programme>
+<programme start="20251202020000 +0000" stop="20251202030000 +0000" channel="CNBC.mncvision">
+    <title>The China Connection</title>
+</programme>
+<programme start="20251202030000 +0000" stop="20251202040000 +0000" channel="CNBC.mncvision">
+    <title>Inside India</title>
+</programme>
+<programme start="20251202040000 +0000" stop="20251202050000 +0000" channel="CNBC.mncvision">
+    <title>Access Middle East</title>
+</programme>
+<programme start="20251202050000 +0000" stop="20251202060000 +0000" channel="CNBC.mncvision">
+    <title>U.S. Markets Edition</title>
+</programme>
+<programme start="20251202060000 +0000" stop="20251202070000 +0000" channel="CNBC.mncvision">
+    <title>Europe Early Edition</title>
+</programme>
+<programme start="20251202070000 +0000" stop="20251202100000 +0000" channel="CNBC.mncvision">
+    <title>Squawk Box Europe</title>
+</programme>
+<programme start="20251202100000 +0000" stop="20251202110000 +0000" channel="CNBC.mncvision">
+    <title>Worldwide Exchange</title>
+</programme>
+<programme start="20251202110000 +0000" stop="20251202140000 +0000" channel="CNBC.mncvision">
+    <title>US Squawk Box</title>
+</programme>
+<programme start="20251202140000 +0000" stop="20251202160000 +0000" channel="CNBC.mncvision">
+    <title>Squawk On The Street</title>
+</programme>
+<programme start="20251202160000 +0000" stop="20251202163000 +0000" channel="CNBC.mncvision">
+    <title>Money Movers</title>
+</programme>
 <programme start="20251201172000 +0000" stop="20251201191000 +0000" channel="Crime Investigation.mncvision">
     <title>Cold Case Files: Rifkin, Ep 2</title>
 </programme>
