@@ -97,9 +97,6 @@
 <programme start="20251202020000 +0000" stop="20251202050000 +0000" channel="GTV.vision">
 <title>Spongebob Squarepants (GTV)</title>
 </programme>
-<programme start="20251202050000 +0000" stop="20251202073000 +0000" channel="GTV.vision">
-<title>SpongeBob SquarePants</title>
-</programme>
 <programme start="20251202073000 +0000" stop="20251202093000 +0000" channel="GTV.vision">
 <title>SpongeBob SquarePants</title>
 </programme>
@@ -480,9 +477,6 @@
 </programme>
 <programme start="20251202010000 +0000" stop="20251202030000 +0000" channel="ANTV.vision">
 <title>Zeynep</title>
-</programme>
-<programme start="20251202030000 +0000" stop="20251202063000 +0000" channel="ANTV.vision">
-<title>Raees</title>
 </programme>
 <programme start="20251202063000 +0000" stop="20251202080000 +0000" channel="ANTV.vision">
 <title>Cinta Keluarga Pandya</title>
@@ -1497,4 +1491,7 @@
 </programme>
 <programme start="20251202193000 +0000" stop="20251202202000 +0000" channel="MDTV.vision">
 <title>Inilah Kisahnya</title>
+</programme>
+<programme start="20251202202000 +0000" stop="20251202214500 +0000" channel="MDTV.vision">
+<title>Di Balik Mitos</title>
 </programme>
