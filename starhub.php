@@ -3233,7 +3233,7 @@
         <title>News in Review</title>
     </programme>
     <programme start="20251202003000 +0000" stop="20251202010000 +0000" channel="DW English HD.starhub">
-        <title>The Environment Magazine</title>
+        <title>Green mobility gains ground: E-cargo bikes empower communities in Uganda</title>
     </programme>
     <programme start="20251202010000 +0000" stop="20251202011500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3248,13 +3248,13 @@
         <title>News in Review</title>
     </programme>
     <programme start="20251202023000 +0000" stop="20251202030000 +0000" channel="DW English HD.starhub">
-        <title>The Global Auto and Mobility Show</title>
+        <title>The forgotten Porsche founder: Adolf Rosenberger’s untold story</title>
     </programme>
     <programme start="20251202030000 +0000" stop="20251202031500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20251202031500 +0000" stop="20251202033000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>Why American health bills are set to go higher</title>
     </programme>
     <programme start="20251202033000 +0000" stop="20251202040000 +0000" channel="DW English HD.starhub">
         <title>The Current Affairs Documentary</title>
@@ -3272,16 +3272,16 @@
         <title>News in Review</title>
     </programme>
     <programme start="20251202053000 +0000" stop="20251202060000 +0000" channel="DW English HD.starhub">
-        <title>The Environment Magazine</title>
+        <title>Going green with technology</title>
     </programme>
     <programme start="20251202060000 +0000" stop="20251202061500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20251202061500 +0000" stop="20251202063000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>Why American health bills are set to go higher</title>
     </programme>
     <programme start="20251202063000 +0000" stop="20251202070000 +0000" channel="DW English HD.starhub">
-        <title>Experiencing and understanding the art world</title>
+        <title>Cigarettes: Addiction and propaganda</title>
     </programme>
     <programme start="20251202070000 +0000" stop="20251202073000 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3293,7 +3293,7 @@
         <title>News</title>
     </programme>
     <programme start="20251202083000 +0000" stop="20251202090000 +0000" channel="DW English HD.starhub">
-        <title>The Environment Magazine</title>
+        <title>Green mobility gains ground: E-cargo bikes empower communities in Uganda</title>
     </programme>
     <programme start="20251202090000 +0000" stop="20251202091500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3302,13 +3302,13 @@
         <title>The Current Affairs Documentary</title>
     </programme>
     <programme start="20251202094500 +0000" stop="20251202100000 +0000" channel="DW English HD.starhub">
-        <title>On Location</title>
+        <title>Danger in the Baltics: The threat from Russia_x000D_</title>
     </programme>
     <programme start="20251202100000 +0000" stop="20251202103000 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20251202103000 +0000" stop="20251202110000 +0000" channel="DW English HD.starhub">
-        <title>The Science Magazine</title>
+        <title>How X-ray imaging is driving a crash test revolution</title>
     </programme>
     <programme start="20251202110000 +0000" stop="20251202113000 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3323,28 +3323,28 @@
         <title>The Current Affairs Documentary</title>
     </programme>
     <programme start="20251202124500 +0000" stop="20251202130000 +0000" channel="DW English HD.starhub">
-        <title>Living in the Digital Age</title>
+        <title>How deep can a relationship with AI get?</title>
     </programme>
     <programme start="20251202130000 +0000" stop="20251202131500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20251202131500 +0000" stop="20251202133000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>Small turbines, huge potential: Can alternative hydropower save the planet?</title>
     </programme>
     <programme start="20251202133000 +0000" stop="20251202140000 +0000" channel="DW English HD.starhub">
-        <title>The Environment Magazine</title>
+        <title>Going green with technology</title>
     </programme>
     <programme start="20251202140000 +0000" stop="20251202143000 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20251202143000 +0000" stop="20251202150000 +0000" channel="DW English HD.starhub">
-        <title>What connects us all</title>
+        <title>Is the West falling behind on renewables?</title>
     </programme>
     <programme start="20251202150000 +0000" stop="20251202153000 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20251202153000 +0000" stop="20251202160000 +0000" channel="DW English HD.starhub">
-        <title>The Environment Magazine</title>
+        <title>Green mobility gains ground: E-cargo bikes empower communities in Uganda</title>
     </programme>
     <programme start="20251201160000 +0000" stop="20251201220000 +0000" channel="Preview Channel.starhub">
         <title>Preview Channel</title>
@@ -7858,13 +7858,16 @@
     <programme start="20251201213000 +0000" stop="20251201233000 +0000" channel="Asianet Movies.starhub">
         <title>Cheriya Kallanum Valiya Poleesum</title>
     </programme>
-    <programme start="20251201233000 +0000" stop="20251202013000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251201232000 +0000" stop="20251202013000 +0000" channel="Asianet Movies.starhub">
         <title>Payyans</title>
     </programme>
-    <programme start="20251202013000 +0000" stop="20251202043000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251202013000 +0000" stop="20251202020000 +0000" channel="Asianet Movies.starhub">
+        <title>Chirikkum Thalika</title>
+    </programme>
+    <programme start="20251202020000 +0000" stop="20251202044500 +0000" channel="Asianet Movies.starhub">
         <title>Neelakasham Pachakadal Chuvanna Bhoomi</title>
     </programme>
-    <programme start="20251202043000 +0000" stop="20251202073000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251202044500 +0000" stop="20251202073000 +0000" channel="Asianet Movies.starhub">
         <title>Romancham</title>
     </programme>
     <programme start="20251202073000 +0000" stop="20251202103000 +0000" channel="Asianet Movies.starhub">
@@ -8693,7 +8696,7 @@
         <title>Hands Up</title>
     </programme>
     <programme start="20251202020000 +0000" stop="20251202023000 +0000" channel="TVB Jade HD.starhub">
-        <title>Take Liza to the World &amp; What&#039;s On Today</title>
+        <title>10 Festive Ways to Enjoy Hong Kong</title>
     </programme>
     <programme start="20251202023000 +0000" stop="20251202030000 +0000" channel="TVB Jade HD.starhub">
         <title>Gourmet Express</title>
@@ -8720,7 +8723,7 @@
         <title>Under The Moonlight &amp; What&#039;s On Today</title>
     </programme>
     <programme start="20251202073000 +0000" stop="20251202080000 +0000" channel="TVB Jade HD.starhub">
-        <title>Take Liza to the World</title>
+        <title>Gourmet Express</title>
     </programme>
     <programme start="20251202080000 +0000" stop="20251202083000 +0000" channel="TVB Jade HD.starhub">
         <title>Funny Funny Home</title>
