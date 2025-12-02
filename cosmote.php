@@ -70,6 +70,10 @@
     <title>Highlights: UEL &amp; UECL 2025-26</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251203223000 +0700" stop="20251204004500 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: AEK - OFI (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
 <programme start="20251202202000 +0700" stop="20251202222000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Atalanta - ACF Fiorentina</title>
     <desc>Live: Tidak</desc>
@@ -126,6 +130,14 @@
     <title>Football: Marko - Levadiakos (L)</title>
     <desc>Live: Ya</desc>
 </programme>
+<programme start="20251203221500 +0700" stop="20251203225000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Sports Classics: My Sporting Moment</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251203225000 +0700" stop="20251203235000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Highlights: UEL &amp; UECL 2025-26</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251202210000 +0700" stop="20251202230000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Hibernian - Celtic FC</title>
     <desc>Live: Tidak</desc>
@@ -177,10 +189,6 @@
 <programme start="20251203210000 +0700" stop="20251203231500 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: AEL Novibet - Atromitos (L)</title>
     <desc>Live: Ya</desc>
-</programme>
-<programme start="20251202193000 +0700" stop="20251202214000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Heidelberg - Promitheas</title>
-    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251202214000 +0700" stop="20251202234000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Granada - Real Madrid</title>
@@ -339,6 +347,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251203212500 +0700" stop="20251203223000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>2025 Extreme H</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251203223000 +0700" stop="20251204003000 +0700" channel="COSMOTE Sport 5 HD">
     <title>2025 Extreme H</title>
     <desc>Live: Tidak</desc>
 </programme>
