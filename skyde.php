@@ -2257,19 +2257,19 @@
 <programme start="20251203065000 +0000" stop="20251203073500 +0000" channel="Sky Nature HD.skyde">
     <title>Hunde außer Kontrolle</title>
 </programme>
-<programme start="20251203073500 +0000" stop="20251203082000 +0000" channel="Sky Nature HD.skyde">
+<programme start="20251203073500 +0000" stop="20251203082500 +0000" channel="Sky Nature HD.skyde">
     <title>Tierarzt Dr. Jeff - Der Rocky Mountain Doc</title>
 </programme>
-<programme start="20251203082000 +0000" stop="20251203091000 +0000" channel="Sky Nature HD.skyde">
+<programme start="20251203082500 +0000" stop="20251203091000 +0000" channel="Sky Nature HD.skyde">
     <title>Tierarzt Dr. Jeff - Der Rocky Mountain Doc</title>
 </programme>
 <programme start="20251203091000 +0000" stop="20251203100000 +0000" channel="Sky Nature HD.skyde">
     <title>Animal Park: Zoo-Geschichten aus Longleat</title>
 </programme>
-<programme start="20251203100000 +0000" stop="20251203104500 +0000" channel="Sky Nature HD.skyde">
+<programme start="20251203100000 +0000" stop="20251203105000 +0000" channel="Sky Nature HD.skyde">
     <title>Animal Park: Zoo-Geschichten aus Longleat</title>
 </programme>
-<programme start="20251203104500 +0000" stop="20251203114000 +0000" channel="Sky Nature HD.skyde">
+<programme start="20251203105000 +0000" stop="20251203114000 +0000" channel="Sky Nature HD.skyde">
     <title>Sri Lanka - Die Monsun-Insel</title>
 </programme>
 <programme start="20251203114000 +0000" stop="20251203123000 +0000" channel="Sky Nature HD.skyde">
@@ -2666,7 +2666,7 @@
     <title>2. BL: Hannover 96 - Karlsruher SC, 14. Spieltag</title>
 </programme>
 <programme start="20251203080000 +0000" stop="20251203081500 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: Wenn man gebraucht wird - Manuel Neuer Exklusiv</title>
+    <title>BL: &quot;Wenn man gebraucht wird&quot; - Manuel Neuer Exklusiv</title>
 </programme>
 <programme start="20251203081500 +0000" stop="20251203084500 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>2. BL: 90in30: FCM - FCN. 14. Spieltag</title>
@@ -2687,7 +2687,7 @@
     <title>2. BL: SpVgg Greuther Fürth - VfL Bochum, 14. Spieltag</title>
 </programme>
 <programme start="20251203151500 +0000" stop="20251203153000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: Wenn man gebraucht wird - Manuel Neuer Exklusiv</title>
+    <title>BL: &quot;Wenn man gebraucht wird&quot; - Manuel Neuer Exklusiv</title>
 </programme>
 <programme start="20251203153000 +0000" stop="20251203163000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL Kompakt: 12. Spieltag</title>
@@ -2705,7 +2705,7 @@
     <title>BL: Dein Spieltags-Sprint (12)</title>
 </programme>
 <programme start="20251203191500 +0000" stop="20251203193000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: Wenn man gebraucht wird - Manuel Neuer Exklusiv</title>
+    <title>BL: &quot;Wenn man gebraucht wird&quot; - Manuel Neuer Exklusiv</title>
 </programme>
 <programme start="20251203193000 +0000" stop="20251203200000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: 90in30: RBL - SGE, 13. Spieltag</title>
@@ -2866,14 +2866,17 @@
 <programme start="20251203143000 +0000" stop="20251203173000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: Nedbank Golf Challenge 2024, 4. Tag in Sun City (Südafrika)</title>
 </programme>
-<programme start="20251203173000 +0000" stop="20251203203000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Golf: Hero World Challenge 2024, 4. Tag in New Providence (Bahamas)</title>
+<programme start="20251203173000 +0000" stop="20251203183000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Golf: Highlights Hero World Challenge</title>
 </programme>
-<programme start="20251203203000 +0000" stop="20251203213000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20251203183000 +0000" stop="20251203193000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf Ladies ET: Highlights Andalucia Costa del Sol Open de Espana</title>
 </programme>
-<programme start="20251203213000 +0000" stop="20251204003000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Golf: BMW Australian PGA Championship, 4. Tag in Brisbane (Australien)</title>
+<programme start="20251203193000 +0000" stop="20251203200000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Golf: On The Bubble</title>
+</programme>
+<programme start="20251203200000 +0000" stop="20251204060000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Live Golf: 2025 Crown Australian Open, 1. Tag in Melbourne (Australien)</title>
 </programme>
 <programme start="20251202230000 +0000" stop="20251202233000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Fußball: scooore Niederlande! Alle Tore</title>
@@ -2957,7 +2960,7 @@
     <title>Live DFB-Pokal: Matchday</title>
 </programme>
 <programme start="20251203133000 +0000" stop="20251203134500 +0000" channel="Sky Sport News HD.skyde">
-    <title>BL: Wenn man gebraucht wird - Manuel Neuer Exklusiv</title>
+    <title>BL: &quot;Wenn man gebraucht wird&quot; - Manuel Neuer Exklusiv</title>
 </programme>
 <programme start="20251203134500 +0000" stop="20251203140000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live DFB-Pokal: Matchday</title>
@@ -3214,7 +3217,7 @@
 <programme start="20251203163000 +0000" stop="20251203193500 +0000" channel="Sky Sport 3 HD.skyde">
     <title>Live DFB-Pokal: SC Freiburg - SV Darmstadt 98, Achtelfinale</title>
 </programme>
-<programme start="20251203193500 +0000" stop="20251203220000 +0000" channel="Sky Sport 3 HD.skyde">
+<programme start="20251203193500 +0000" stop="20251203230000 +0000" channel="Sky Sport 3 HD.skyde">
     <title>Live DFB-Pokal: Hamburger SV - Holstein Kiel, Achtelfinale</title>
 </programme>
 <programme start="20251203161000 +0000" stop="20251203163000 +0000" channel="Sky Sport 4 HD.skyde">
@@ -3244,25 +3247,25 @@
 <programme start="20251203194500 +0000" stop="20251203200500 +0000" channel="Sky Sport 7 HD.skyde">
     <title>Es folgt: Live Premier League</title>
 </programme>
-<programme start="20251203200500 +0000" stop="20251203221500 +0000" channel="Sky Sport 7 HD.skyde">
+<programme start="20251203200500 +0000" stop="20251203224500 +0000" channel="Sky Sport 7 HD.skyde">
     <title>Live PL: Leeds United - FC Chelsea, 14. Spieltag</title>
 </programme>
 <programme start="20251203190000 +0000" stop="20251203192000 +0000" channel="Sky Sport 8 HD.skyde">
     <title>Es folgt: Live Premier League</title>
 </programme>
-<programme start="20251203192000 +0000" stop="20251203213000 +0000" channel="Sky Sport 8 HD.skyde">
+<programme start="20251203192000 +0000" stop="20251203220000 +0000" channel="Sky Sport 8 HD.skyde">
     <title>Live PL: Brighton &amp; Hove Albion - Aston Villa, 14. Spieltag</title>
 </programme>
 <programme start="20251203190000 +0000" stop="20251203192000 +0000" channel="Sky Sport 9 HD.skyde">
     <title>Es folgt: Live Premier League</title>
 </programme>
-<programme start="20251203192000 +0000" stop="20251203213000 +0000" channel="Sky Sport 9 HD.skyde">
+<programme start="20251203192000 +0000" stop="20251203220000 +0000" channel="Sky Sport 9 HD.skyde">
     <title>Live PL: Wolverhampton Wanderers - Nottingham Forest, 14. Spieltag</title>
 </programme>
 <programme start="20251203190000 +0000" stop="20251203192000 +0000" channel="Sky Sport 10 HD.skyde">
     <title>Es folgt: Live Premier League</title>
 </programme>
-<programme start="20251203192000 +0000" stop="20251203213000 +0000" channel="Sky Sport 10 HD.skyde">
+<programme start="20251203192000 +0000" stop="20251203220000 +0000" channel="Sky Sport 10 HD.skyde">
     <title>Live PL: FC Burnley - Crystal Palace, 14. Spieltag</title>
 </programme>
 <programme start="20251202230500 +0000" stop="20251202235000 +0000" channel="SYFY HD.skyde">
