@@ -1130,7 +1130,7 @@
     <title>LaLiga 2025/26: BAR Vs ATM</title>
 </programme>
 <programme start="20251203160000 +0000" stop="20251203163000 +0000" channel="beIN Sports 1.mncvision">
-    <title>LaLiga Classic: RMA Vs ATM</title>
+    <title>LaLiga Archive: ATM Vs ALM</title>
 </programme>
 <programme start="20251202175000 +0000" stop="20251202194000 +0000" channel="beIN Sports 1 HD.mncvision">
     <title>LaLiga 2025/26: MLL Vs OSA</title>
@@ -1190,7 +1190,7 @@
     <title>LaLiga 2025/26: BAR Vs ATM</title>
 </programme>
 <programme start="20251203160000 +0000" stop="20251203163000 +0000" channel="beIN Sports 1 HD.mncvision">
-    <title>LaLiga Classic: RMA Vs ATM</title>
+    <title>LaLiga Archive: ATM Vs ALM</title>
 </programme>
 <programme start="20251202173000 +0000" stop="20251202190000 +0000" channel="beIN Sports 2.mncvision">
     <title>ATP Tour 250 2025: Brussels</title>
@@ -7502,7 +7502,7 @@
     <title>Doraemon Series</title>
 </programme>
 <programme start="20251203030000 +0000" stop="20251203043000 +0000" channel="RCTI.mncvision">
-    <title>Layar Drama Indonesia</title>
+    <title>Jadi Bintang It&#039;s My Dream</title>
 </programme>
 <programme start="20251203043000 +0000" stop="20251203051500 +0000" channel="RCTI.mncvision">
     <title>Seputar iNews Siang</title>
@@ -7556,7 +7556,7 @@
     <title>Doraemon Series</title>
 </programme>
 <programme start="20251203030000 +0000" stop="20251203043000 +0000" channel="RCTI HD.mncvision">
-    <title>Layar Drama Indonesia</title>
+    <title>Jadi Bintang It&#039;s My Dream</title>
 </programme>
 <programme start="20251203043000 +0000" stop="20251203051500 +0000" channel="RCTI HD.mncvision">
     <title>Seputar iNews Siang</title>
