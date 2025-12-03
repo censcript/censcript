@@ -8000,7 +8000,7 @@
     <title>Top Goals</title>
 </programme>
 <programme start="20251203140000 +0000" stop="20251203143000 +0000" channel="Soccer Channel.mncvision">
-    <title>World Classic Soccer</title>
+    <title>Bundesliga Special</title>
 </programme>
 <programme start="20251203143000 +0000" stop="20251203163000 +0000" channel="Soccer Channel.mncvision">
     <title>Bundesliga 2025/26: STP Vs BMG</title>
@@ -8051,7 +8051,7 @@
     <title>Top Goals</title>
 </programme>
 <programme start="20251203140000 +0000" stop="20251203143000 +0000" channel="Soccer Channel HD.mncvision">
-    <title>World Classic Soccer</title>
+    <title>Bundesliga Special</title>
 </programme>
 <programme start="20251203143000 +0000" stop="20251203163000 +0000" channel="Soccer Channel HD.mncvision">
     <title>Bundesliga 2025/26: STP Vs BMG</title>

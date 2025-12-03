@@ -3020,7 +3020,7 @@
     <title>PL: Newcastle United - Tottenham Hotspur, 14. Spieltag</title>
 </programme>
 <programme start="20251203123000 +0000" stop="20251203124500 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Under the Skin (West Ham United)</title>
+    <title>PL: THIS is Newcastle - Nick Woltemade &amp; Malick Thiaw Exklusiv</title>
 </programme>
 <programme start="20251203124500 +0000" stop="20251203131500 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: PL Rewind: West Ham (2025/26)</title>
@@ -3100,7 +3100,13 @@
 <programme start="20251202230000 +0000" stop="20251202233000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Fußball: scooore Niederlande! Alle Tore</title>
 </programme>
-<programme start="20251202233000 +0000" stop="20251203003000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20251202233000 +0000" stop="20251202234500 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>BL: Torparade 12. Spieltag</title>
+</programme>
+<programme start="20251202234500 +0000" stop="20251203000000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>2. BL: Torparade 14. Spieltag</title>
+</programme>
+<programme start="20251203000000 +0000" stop="20251203003000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>NHL: On the Fly</title>
 </programme>
 <programme start="20251203003000 +0000" stop="20251203010000 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3142,8 +3148,8 @@
 <programme start="20251203214500 +0000" stop="20251203224500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live DFB-Pokal: Alle Spiele, alle Tore: Achtelfinale, Mittwoch</title>
 </programme>
-<programme start="20251203224500 +0000" stop="20251203231500 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Fußball: scooore Portugal! Alle Tore</title>
+<programme start="20251203224500 +0000" stop="20251204030000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Live Golf: 2025 Crown Australian Open, 1. Tag in Melbourne (Australien)</title>
 </programme>
 <programme start="20251203001500 +0000" stop="20251203021500 +0000" channel="Sky Sport UHD.skyde">
     <title>DFB-Pokal: Borussia Dortmund - Bayer Leverkusen, Achtelfinale</title>
@@ -3170,7 +3176,7 @@
     <title>Info: UHD</title>
 </programme>
 <programme start="20251203001000 +0000" stop="20251203003000 +0000" channel="Sky Sport 1 HD.skyde">
-    <title>Es folgt: Basketball NBA</title>
+    <title>Es folgt: LIVE Basketball NBA</title>
 </programme>
 <programme start="20251203003000 +0000" stop="20251203010000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime</title>
@@ -3178,16 +3184,16 @@
 <programme start="20251203010000 +0000" stop="20251203040000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: New York Knicks @ Boston Celtics</title>
 </programme>
-<programme start="20251203040000 +0000" stop="20251203070000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20251203040000 +0000" stop="20251203090000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Oklahoma City Thunder @ Golden State Warriors</title>
 </programme>
 <programme start="20251203161000 +0000" stop="20251203163000 +0000" channel="Sky Sport 1 HD.skyde">
-    <title>Es folgt Live DFB-Pokal</title>
+    <title>Es folgt: Live DFB-Pokal</title>
 </programme>
 <programme start="20251203163000 +0000" stop="20251203214500 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live DFB-Pokal: Mittwochs-Konferenz, Achtelfinale</title>
 </programme>
-<programme start="20251203214500 +0000" stop="20251203224500 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20251203214500 +0000" stop="20251204000000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live DFB-Pokal: Alle Spiele, alle Tore: Achtelfinale, Mittwoch</title>
 </programme>
 <programme start="20251203161000 +0000" stop="20251203163000 +0000" channel="Sky Sport 2 HD.skyde">
@@ -3199,7 +3205,7 @@
 <programme start="20251203193000 +0000" stop="20251203194000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live DFB-Pokal: Vorbericht</title>
 </programme>
-<programme start="20251203194000 +0000" stop="20251203220000 +0000" channel="Sky Sport 2 HD.skyde">
+<programme start="20251203194000 +0000" stop="20251203230000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live DFB-Pokal: 1. FC Union Berlin - FC Bayern München, Achtelfinale</title>
 </programme>
 <programme start="20251203161000 +0000" stop="20251203163000 +0000" channel="Sky Sport 3 HD.skyde">
@@ -3214,7 +3220,7 @@
 <programme start="20251203161000 +0000" stop="20251203163000 +0000" channel="Sky Sport 4 HD.skyde">
     <title>Es folgt Live DFB-Pokal</title>
 </programme>
-<programme start="20251203163000 +0000" stop="20251203193000 +0000" channel="Sky Sport 4 HD.skyde">
+<programme start="20251203163000 +0000" stop="20251203203000 +0000" channel="Sky Sport 4 HD.skyde">
     <title>Live DFB-Pokal: VfL Bochum - VfB Stuttgart, Achtelfinale</title>
 </programme>
 <programme start="20251203103000 +0000" stop="20251203120000 +0000" channel="Sky Sport 5 HD.skyde">
@@ -3223,7 +3229,7 @@
 <programme start="20251203191500 +0000" stop="20251203193500 +0000" channel="Sky Sport 5 HD.skyde">
     <title>Es folgt Live DFB-Pokal</title>
 </programme>
-<programme start="20251203193500 +0000" stop="20251203220000 +0000" channel="Sky Sport 5 HD.skyde">
+<programme start="20251203193500 +0000" stop="20251203230000 +0000" channel="Sky Sport 5 HD.skyde">
     <title>Live DFB-Pokal: Hamburger SV - Holstein Kiel, Achtelfinale</title>
 </programme>
 <programme start="20251203130000 +0000" stop="20251203143000 +0000" channel="Sky Sport 6 HD.skyde">
@@ -3232,7 +3238,7 @@
 <programme start="20251203190000 +0000" stop="20251203192000 +0000" channel="Sky Sport 6 HD.skyde">
     <title>Es folgt: Live Premier League</title>
 </programme>
-<programme start="20251203192000 +0000" stop="20251203213000 +0000" channel="Sky Sport 6 HD.skyde">
+<programme start="20251203192000 +0000" stop="20251203220000 +0000" channel="Sky Sport 6 HD.skyde">
     <title>Live PL: FC Arsenal - FC Brentford, 14. Spieltag</title>
 </programme>
 <programme start="20251203194500 +0000" stop="20251203200500 +0000" channel="Sky Sport 7 HD.skyde">

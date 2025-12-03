@@ -70,10 +70,6 @@
     <title>Football: Olympique de Marseille - Newcastle United</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251203073000 +0700" stop="20251203093000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Como - Sassuolo</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251203093000 +0700" stop="20251203113000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Genoa - Hellas Verona</title>
     <desc>Live: Tidak</desc>
@@ -408,6 +404,10 @@
 </programme>
 <programme start="20251204073500 +0700" stop="20251204100000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Fight Sports: UFC Fight Night 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251204100000 +0700" stop="20251204110000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Nitto ATP Finals 2025 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251203090000 +0700" stop="20251203110000 +0700" channel="COSMOTE Sport 7 HD">
