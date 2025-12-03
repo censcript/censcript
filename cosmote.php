@@ -110,6 +110,10 @@
     <title>Football: Iraklis - Panetolikos</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251205064000 +0700" stop="20251205071000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Serie A Full Impact 2025-26 E13</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251204044500 +0700" stop="20251204065000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Ellas Syroy - Olympiacos</title>
     <desc>Live: Tidak</desc>
@@ -160,6 +164,10 @@
 </programme>
 <programme start="20251205042500 +0700" stop="20251205063000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Vitoria Guimaraes - AVS Futebol</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251205063000 +0700" stop="20251205070000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Copa Libertadores 2025 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251204050000 +0700" stop="20251204071000 +0700" channel="COSMOTE Sport 4 HD">
@@ -216,10 +224,6 @@
 </programme>
 <programme start="20251205043000 +0700" stop="20251205070000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Badalona - Hapoel Holon</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251204043500 +0700" stop="20251204053500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>MotoGP 2025 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251204053500 +0700" stop="20251204063500 +0700" channel="COSMOTE Sport 5 HD">
@@ -300,6 +304,14 @@
 </programme>
 <programme start="20251205050000 +0700" stop="20251205060000 +0700" channel="COSMOTE Sport 5 HD">
     <title>WRC 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251205060000 +0700" stop="20251205063000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Extreme E - Highlights 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251205063000 +0700" stop="20251205075000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Grand Prix Show 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251204050000 +0700" stop="20251204073500 +0700" channel="COSMOTE Sport 6 HD">
@@ -388,6 +400,14 @@
 </programme>
 <programme start="20251205050000 +0700" stop="20251205062000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Premier Padel Tour 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251205062000 +0700" stop="20251205064000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Sports Classics: Worldies E13</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251205064000 +0700" stop="20251205070000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Sports Classics: Worldies E14</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251204050000 +0700" stop="20251204070000 +0700" channel="COSMOTE Sport 7 HD">
