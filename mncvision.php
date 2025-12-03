@@ -1582,7 +1582,10 @@
 <programme start="20251203103000 +0000" stop="20251203110000 +0000" channel="BTV.mncvision">
     <title>Berita Kriminal</title>
 </programme>
-<programme start="20251203110000 +0000" stop="20251203130000 +0000" channel="BTV.mncvision">
+<programme start="20251203110000 +0000" stop="20251203120000 +0000" channel="BTV.mncvision">
+    <title>Berita Satu Spesial</title>
+</programme>
+<programme start="20251203120000 +0000" stop="20251203130000 +0000" channel="BTV.mncvision">
     <title>Berita Satu Utama</title>
 </programme>
 <programme start="20251203130000 +0000" stop="20251203140000 +0000" channel="BTV.mncvision">

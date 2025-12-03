@@ -8030,7 +8030,7 @@
         <title>Race 2</title>
     </programme>
     <programme start="20251203093000 +0000" stop="20251203113000 +0000" channel="SPOTV2.starhub">
-        <title>25/26 A-League Men Round 6 Wellington Phoenix vs Adelaide United</title>
+        <title>Wellington Phoenix vs Adelaide United</title>
     </programme>
     <programme start="20251203113000 +0000" stop="20251203163000 +0000" channel="SPOTV2.starhub">
         <title>Race</title>
