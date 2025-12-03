@@ -66,8 +66,8 @@
     <title>UEFA Champions League Highlights 2025-26</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251203174500 +0700" stop="20251203200000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Volos - Egaleo</title>
+<programme start="20251204200000 +0700" stop="20251204220000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: Strasbourg - Crystal Palace</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251203200000 +0700" stop="20251203221500 +0700" channel="COSMOTE Sport 2 HD">
@@ -126,6 +126,10 @@
     <title>Football: Ellas Syroy - Olympiacos</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251204202000 +0700" stop="20251204222000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Bologna - Cremonese</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251203185000 +0700" stop="20251203210000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Leicester City FC - Sheffield United</title>
     <desc>Live: Tidak</desc>
@@ -167,7 +171,7 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251204143000 +0700" stop="20251204163000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Nacional - SL Benfica</title>
+    <title>Football: Nacional Madeira - SL Benfica</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251204163000 +0700" stop="20251204183000 +0700" channel="COSMOTE Sport 3 HD">
@@ -178,8 +182,8 @@
     <title>Football: Oxford United F.C. - Ipswich Town</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251203164500 +0700" stop="20251203191500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Boston Celtics - New York Knicks</title>
+<programme start="20251204203000 +0700" stop="20251204223000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Dundee United - Rangers FC</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251203191500 +0700" stop="20251203214500 +0700" channel="COSMOTE Sport 4 HD">
@@ -318,24 +322,28 @@
     <title>DTM</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251204200000 +0700" stop="20251204210500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: Extreme E 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251203190000 +0700" stop="20251203213000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP Challenger 50 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251203213000 +0700" stop="20251204000000 +0700" channel="COSMOTE Sport 6 HD">
+<programme start="20251203213000 +0700" stop="20251204002500 +0700" channel="COSMOTE Sport 6 HD">
     <title>Volleyball: Olympiacos - Eczacibasi Dynavit Istanbul</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251204000000 +0700" stop="20251204030000 +0700" channel="COSMOTE Sport 6 HD">
+<programme start="20251204002500 +0700" stop="20251204030000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Authentic Athens Marathon 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251204030000 +0700" stop="20251204040000 +0700" channel="COSMOTE Sport 6 HD">
+<programme start="20251204030000 +0700" stop="20251204042500 +0700" channel="COSMOTE Sport 6 HD">
     <title>Sports Classics: 2025 Outdoor Specials</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251204040000 +0700" stop="20251204050000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Nitto ATP Finals 2025 - Highlights</title>
+<programme start="20251204042500 +0700" stop="20251204050000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Sports Classics: The Outdoor Sports Show 2025 E11</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251204050000 +0700" stop="20251204073500 +0700" channel="COSMOTE Sport 6 HD">
@@ -388,6 +396,10 @@
 </programme>
 <programme start="20251204194500 +0700" stop="20251204204500 +0700" channel="COSMOTE Sport 6 HD">
     <title>ATP Masters 1000 2025 - Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251204204500 +0700" stop="20251204222500 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Handball: ThSV Eisenach - THW Kiel</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251203190000 +0700" stop="20251203210000 +0700" channel="COSMOTE Sport 7 HD">

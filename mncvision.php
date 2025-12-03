@@ -3745,7 +3745,51 @@
 <programme start="20251203045000 +0000" stop="20251203052000 +0000" channel="France 24 English.mncvision">
     <title>Introduction (L)</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20251202183000 +0000" stop="20251202201000 +0000" channel="Galaxy.mncvision">
+    <title>Gunfight At Dry River</title>
+</programme>
+<programme start="20251202201000 +0000" stop="20251202215000 +0000" channel="Galaxy.mncvision">
+    <title>The Calling</title>
+</programme>
+<programme start="20251202215000 +0000" stop="20251202232000 +0000" channel="Galaxy.mncvision">
+    <title>Shock And Awe</title>
+</programme>
+<programme start="20251202232000 +0000" stop="20251203005000 +0000" channel="Galaxy.mncvision">
+    <title>The Junkyard Dogs</title>
+</programme>
+<programme start="20251203005000 +0000" stop="20251203023000 +0000" channel="Galaxy.mncvision">
+    <title>Squatters</title>
+</programme>
+<programme start="20251203023000 +0000" stop="20251203035500 +0000" channel="Galaxy.mncvision">
+    <title>Come Out Fighting</title>
+</programme>
+<programme start="20251203035500 +0000" stop="20251203053500 +0000" channel="Galaxy.mncvision">
+    <title>Code Name: Geronimo</title>
+</programme>
+<programme start="20251203053500 +0000" stop="20251203070500 +0000" channel="Galaxy.mncvision">
+    <title>Wicked Games</title>
+</programme>
+<programme start="20251203070500 +0000" stop="20251203084500 +0000" channel="Galaxy.mncvision">
+    <title>Death In Texas</title>
+</programme>
+<programme start="20251203084500 +0000" stop="20251203102000 +0000" channel="Galaxy.mncvision">
+    <title>Armed Response</title>
+</programme>
+<programme start="20251203102000 +0000" stop="20251203120000 +0000" channel="Galaxy.mncvision">
+    <title>After We Fell</title>
+</programme>
+<programme start="20251203120000 +0000" stop="20251203133500 +0000" channel="Galaxy.mncvision">
+    <title>Hours</title>
+</programme>
+<programme start="20251203133500 +0000" stop="20251203151000 +0000" channel="Galaxy.mncvision">
+    <title>Spread</title>
+</programme>
+<programme start="20251203151000 +0000" stop="20251203163500 +0000" channel="Galaxy.mncvision">
+    <title>Detention</title>
+</programme>
+<programme start="20251203163500 +0000" stop="20251202170500 +0000" channel="Galaxy.mncvision">
+    <title>The Spiderwick Chronicles</title>
+</programme>
 <programme start="20251202173500 +0000" stop="20251202190000 +0000" channel="Galaxy Premium.mncvision">
     <title>Jungleland</title>
 </programme>
@@ -5684,7 +5728,156 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20251203160000 +0000" stop="20251203163000 +0000" channel="MDTV.mncvision">
     <title>Perfume</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20251202170000 +0000" stop="20251202170500 +0000" channel="Metro TV.mncvision">
+    <title>Metro TV</title>
+</programme>
+<programme start="20251202170500 +0000" stop="20251202173000 +0000" channel="Metro TV.mncvision">
+    <title>Metro TV</title>
+</programme>
+<programme start="20251202173000 +0000" stop="20251202180000 +0000" channel="Metro TV.mncvision">
+    <title>Metro TV</title>
+</programme>
+<programme start="20251202180000 +0000" stop="20251202180500 +0000" channel="Metro TV.mncvision">
+    <title>Metro TV</title>
+</programme>
+<programme start="20251202180500 +0000" stop="20251202183000 +0000" channel="Metro TV.mncvision">
+    <title>Metro TV</title>
+</programme>
+<programme start="20251202183000 +0000" stop="20251202184500 +0000" channel="Metro TV.mncvision">
+    <title>Metro TV</title>
+</programme>
+<programme start="20251202184500 +0000" stop="20251202190000 +0000" channel="Metro TV.mncvision">
+    <title>Metro TV</title>
+</programme>
+<programme start="20251202190000 +0000" stop="20251202190500 +0000" channel="Metro TV.mncvision">
+    <title>Metro TV</title>
+</programme>
+<programme start="20251202190500 +0000" stop="20251202193000 +0000" channel="Metro TV.mncvision">
+    <title>Metro TV</title>
+</programme>
+<programme start="20251202193000 +0000" stop="20251202200000 +0000" channel="Metro TV.mncvision">
+    <title>Metro TV</title>
+</programme>
+<programme start="20251202200000 +0000" stop="20251202200500 +0000" channel="Metro TV.mncvision">
+    <title>Metro TV</title>
+</programme>
+<programme start="20251202200500 +0000" stop="20251202203000 +0000" channel="Metro TV.mncvision">
+    <title>Metro TV</title>
+</programme>
+<programme start="20251202203000 +0000" stop="20251202210000 +0000" channel="Metro TV.mncvision">
+    <title>Metro TV</title>
+</programme>
+<programme start="20251202210000 +0000" stop="20251202210500 +0000" channel="Metro TV.mncvision">
+    <title>Metro TV</title>
+</programme>
+<programme start="20251202210500 +0000" stop="20251202213000 +0000" channel="Metro TV.mncvision">
+    <title>Metro TV</title>
+</programme>
+<programme start="20251202213000 +0000" stop="20251202220000 +0000" channel="Metro TV.mncvision">
+    <title>Metro TV</title>
+</programme>
+<programme start="20251202220000 +0000" stop="20251202220500 +0000" channel="Metro TV.mncvision">
+    <title>Metro TV</title>
+</programme>
+<programme start="20251202220500 +0000" stop="20251202223000 +0000" channel="Metro TV.mncvision">
+    <title>Metro TV</title>
+</programme>
+<programme start="20251202223000 +0000" stop="20251202230000 +0000" channel="Metro TV.mncvision">
+    <title>Metro TV</title>
+</programme>
+<programme start="20251202230000 +0000" stop="20251202230500 +0000" channel="Metro TV.mncvision">
+    <title>Metro TV</title>
+</programme>
+<programme start="20251202230500 +0000" stop="20251202233000 +0000" channel="Metro TV.mncvision">
+    <title>Metro TV</title>
+</programme>
+<programme start="20251202233000 +0000" stop="20251203000000 +0000" channel="Metro TV.mncvision">
+    <title>Metro TV</title>
+</programme>
+<programme start="20251203000000 +0000" stop="20251203000500 +0000" channel="Metro TV.mncvision">
+    <title>Metro TV</title>
+</programme>
+<programme start="20251203000500 +0000" stop="20251203003000 +0000" channel="Metro TV.mncvision">
+    <title>Metro TV</title>
+</programme>
+<programme start="20251203003000 +0000" stop="20251203010000 +0000" channel="Metro TV.mncvision">
+    <title>Metro TV</title>
+</programme>
+<programme start="20251203010000 +0000" stop="20251203010500 +0000" channel="Metro TV.mncvision">
+    <title>Metro TV</title>
+</programme>
+<programme start="20251203010500 +0000" stop="20251203013000 +0000" channel="Metro TV.mncvision">
+    <title>Metro TV</title>
+</programme>
+<programme start="20251203013000 +0000" stop="20251203015500 +0000" channel="Metro TV.mncvision">
+    <title>Metro TV</title>
+</programme>
+<programme start="20251203015500 +0000" stop="20251203020000 +0000" channel="Metro TV.mncvision">
+    <title>Metro TV</title>
+</programme>
+<programme start="20251203020000 +0000" stop="20251203020500 +0000" channel="Metro TV.mncvision">
+    <title>Metro TV</title>
+</programme>
+<programme start="20251203020500 +0000" stop="20251203023000 +0000" channel="Metro TV.mncvision">
+    <title>Metro TV</title>
+</programme>
+<programme start="20251203023000 +0000" stop="20251203030000 +0000" channel="Metro TV.mncvision">
+    <title>Metro TV</title>
+</programme>
+<programme start="20251203030000 +0000" stop="20251203030500 +0000" channel="Metro TV.mncvision">
+    <title>Metro TV</title>
+</programme>
+<programme start="20251203030500 +0000" stop="20251203033000 +0000" channel="Metro TV.mncvision">
+    <title>Metro TV</title>
+</programme>
+<programme start="20251203033000 +0000" stop="20251203040000 +0000" channel="Metro TV.mncvision">
+    <title>Metro TV</title>
+</programme>
+<programme start="20251203040000 +0000" stop="20251203040500 +0000" channel="Metro TV.mncvision">
+    <title>Metro TV</title>
+</programme>
+<programme start="20251203040500 +0000" stop="20251203043000 +0000" channel="Metro TV.mncvision">
+    <title>Metro TV</title>
+</programme>
+<programme start="20251203043000 +0000" stop="20251203050000 +0000" channel="Metro TV.mncvision">
+    <title>Metro TV</title>
+</programme>
+<programme start="20251203050000 +0000" stop="20251203053000 +0000" channel="Metro TV.mncvision">
+    <title>Metro TV</title>
+</programme>
+<programme start="20251203053000 +0000" stop="20251203055500 +0000" channel="Metro TV.mncvision">
+    <title>Metro TV</title>
+</programme>
+<programme start="20251203055500 +0000" stop="20251203060000 +0000" channel="Metro TV.mncvision">
+    <title>Metro TV</title>
+</programme>
+<programme start="20251203060000 +0000" stop="20251203062500 +0000" channel="Metro TV.mncvision">
+    <title>Metro TV</title>
+</programme>
+<programme start="20251203062500 +0000" stop="20251203063000 +0000" channel="Metro TV.mncvision">
+    <title>Metro TV</title>
+</programme>
+<programme start="20251203063000 +0000" stop="20251203065500 +0000" channel="Metro TV.mncvision">
+    <title>Metro TV</title>
+</programme>
+<programme start="20251203065500 +0000" stop="20251203070000 +0000" channel="Metro TV.mncvision">
+    <title>Metro TV</title>
+</programme>
+<programme start="20251203070000 +0000" stop="20251203070500 +0000" channel="Metro TV.mncvision">
+    <title>Metro TV</title>
+</programme>
+<programme start="20251203070500 +0000" stop="20251203072500 +0000" channel="Metro TV.mncvision">
+    <title>Metro TV</title>
+</programme>
+<programme start="20251203072500 +0000" stop="20251203073000 +0000" channel="Metro TV.mncvision">
+    <title>Metro TV</title>
+</programme>
+<programme start="20251203073000 +0000" stop="20251203075500 +0000" channel="Metro TV.mncvision">
+    <title>Metro TV</title>
+</programme>
+<programme start="20251203075500 +0000" stop="20251203082500 +0000" channel="Metro TV.mncvision">
+    <title>Metro TV</title>
+</programme>
 <programme start="20251202170000 +0000" stop="20251202190000 +0000" channel="MNCTV.mncvision">
     <title>Suparman Reborn 2</title>
 </programme>
