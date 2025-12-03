@@ -682,9 +682,6 @@
 <programme start="20251204114500 +0000" stop="20251204121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
-<programme start="20251202230000 +0000" stop="20251203010000 +0000" channel="ANTV.vision">
-<title>Ratu Amplop</title>
-</programme>
 <programme start="20251203010000 +0000" stop="20251203030000 +0000" channel="ANTV.vision">
 <title>Zeynep</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20251204014500 +0000" stop="20251204023000 +0000" channel="BTV.vision">
 <title>Masak Ala Devina Hermawan</title>
+</programme>
+<programme start="20251204023000 +0000" stop="20251204033000 +0000" channel="BTV.vision">
+<title>Investor Market Today</title>
 </programme>

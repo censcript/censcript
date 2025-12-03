@@ -628,23 +628,17 @@
     <programme start="20251202233000 +0000" stop="20251202235000 +0000" channel="Arirang TV HD.starhub">
         <title>1DAY 1K-Culture: K-Story</title>
     </programme>
-    <programme start="20251202235000 +0000" stop="20251203000000 +0000" channel="Arirang TV HD.starhub">
+    <programme start="20251202235000 +0000" stop="20251203002000 +0000" channel="Arirang TV HD.starhub">
+        <title>News Special</title>
+    </programme>
+    <programme start="20251203002000 +0000" stop="20251203003000 +0000" channel="Arirang TV HD.starhub">
         <title>Smartbiz Accelerators 2</title>
     </programme>
-    <programme start="20251203000000 +0000" stop="20251203003000 +0000" channel="Arirang TV HD.starhub">
-        <title>Premium Collection</title>
+    <programme start="20251203003000 +0000" stop="20251203022000 +0000" channel="Arirang TV HD.starhub">
+        <title>News Special</title>
     </programme>
-    <programme start="20251203003000 +0000" stop="20251203010000 +0000" channel="Arirang TV HD.starhub">
-        <title>Seoulscape</title>
-    </programme>
-    <programme start="20251203010000 +0000" stop="20251203013000 +0000" channel="Arirang TV HD.starhub">
-        <title>New Day At Arirang</title>
-    </programme>
-    <programme start="20251203013000 +0000" stop="20251203020000 +0000" channel="Arirang TV HD.starhub">
+    <programme start="20251203022000 +0000" stop="20251203030000 +0000" channel="Arirang TV HD.starhub">
         <title>News Generation [L]</title>
-    </programme>
-    <programme start="20251203020000 +0000" stop="20251203030000 +0000" channel="Arirang TV HD.starhub">
-        <title>Culture Crunch [L]</title>
     </programme>
     <programme start="20251203030000 +0000" stop="20251203033000 +0000" channel="Arirang TV HD.starhub">
         <title>Arirang News 12:00</title>
@@ -677,7 +671,7 @@
         <title>Talk Room</title>
     </programme>
     <programme start="20251203074000 +0000" stop="20251203080000 +0000" channel="Arirang TV HD.starhub">
-        <title>1DAY 1K-Culture: K-Story</title>
+        <title>1day 1k-Culture: K-Story</title>
     </programme>
     <programme start="20251203080000 +0000" stop="20251203083000 +0000" channel="Arirang TV HD.starhub">
         <title>The Daily Report</title>
@@ -707,7 +701,7 @@
         <title>The Kulture Wave</title>
     </programme>
     <programme start="20251203123000 +0000" stop="20251203125000 +0000" channel="Arirang TV HD.starhub">
-        <title>1DAY 1K-Culture: K-Story</title>
+        <title>1day 1k-Culture: K-Story</title>
     </programme>
     <programme start="20251203125000 +0000" stop="20251203130000 +0000" channel="Arirang TV HD.starhub">
         <title>Smartbiz Accelerators 2</title>
@@ -3257,7 +3251,7 @@
         <title>News</title>
     </programme>
     <programme start="20251203031500 +0000" stop="20251203033000 +0000" channel="DW English HD.starhub">
-        <title>Small turbines, huge potential: Can alternative hydropower save the planet?</title>
+        <title>President of Georgia Mikheil Kavelashvili</title>
     </programme>
     <programme start="20251203033000 +0000" stop="20251203040000 +0000" channel="DW English HD.starhub">
         <title>Green mobility gains ground: E-cargo bikes empower communities in Uganda</title>
@@ -3281,7 +3275,7 @@
         <title>News</title>
     </programme>
     <programme start="20251203061500 +0000" stop="20251203063000 +0000" channel="DW English HD.starhub">
-        <title>Small turbines, huge potential: Can alternative hydropower save the planet?</title>
+        <title>President of Georgia Mikheil Kavelashvili</title>
     </programme>
     <programme start="20251203063000 +0000" stop="20251203070000 +0000" channel="DW English HD.starhub">
         <title>Knocked sideways: How to cope when life hits hard</title>
@@ -3290,7 +3284,7 @@
         <title>News</title>
     </programme>
     <programme start="20251203073000 +0000" stop="20251203080000 +0000" channel="DW English HD.starhub">
-        <title>The Current Affairs Documentary</title>
+        <title>Dark Destiny - How Child Rescue Ends in Abuse</title>
     </programme>
     <programme start="20251203080000 +0000" stop="20251203083000 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3308,7 +3302,7 @@
         <title>News</title>
     </programme>
     <programme start="20251203103000 +0000" stop="20251203110000 +0000" channel="DW English HD.starhub">
-        <title>The Current Affairs Documentary</title>
+        <title>Dark Destiny - How Child Rescue Ends in Abuse</title>
     </programme>
     <programme start="20251203110000 +0000" stop="20251203113000 +0000" channel="DW English HD.starhub">
         <title>News</title>
