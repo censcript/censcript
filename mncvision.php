@@ -2828,25 +2828,25 @@
     <title>DW News</title>
 </programme>
 <programme start="20251202171500 +0000" stop="20251202173000 +0000" channel="DW English.mncvision">
-    <title>Best Of DW Online Content</title>
+    <title>Planet A: Small Turbines</title>
 </programme>
 <programme start="20251202173000 +0000" stop="20251202180000 +0000" channel="DW English.mncvision">
-    <title>REV: Auto &amp; Mobility Show</title>
+    <title>REV: Forgotten Porsche Founder</title>
 </programme>
 <programme start="20251202180000 +0000" stop="20251202183000 +0000" channel="DW English.mncvision">
     <title>DW News</title>
 </programme>
 <programme start="20251202183000 +0000" stop="20251202190000 +0000" channel="DW English.mncvision">
-    <title>Eco Africa: Environment</title>
+    <title>Eco Africa: Green Mobility</title>
 </programme>
 <programme start="20251202190000 +0000" stop="20251202190200 +0000" channel="DW English.mncvision">
     <title>DW News</title>
 </programme>
 <programme start="20251202190200 +0000" stop="20251202193000 +0000" channel="DW English.mncvision">
-    <title>Eco India: Environment</title>
+    <title>Eco India: Going Green</title>
 </programme>
 <programme start="20251202193000 +0000" stop="20251202200000 +0000" channel="DW English.mncvision">
-    <title>Tomorrow Today: Science</title>
+    <title>Tomorrow Today: How X-Ray...</title>
 </programme>
 <programme start="20251202200000 +0000" stop="20251202203000 +0000" channel="DW English.mncvision">
     <title>DW News</title>
@@ -2858,13 +2858,13 @@
     <title>DW News</title>
 </programme>
 <programme start="20251202210200 +0000" stop="20251202211500 +0000" channel="DW English.mncvision">
-    <title>Best Of DW Online Content</title>
+    <title>Planet A: Small Turbines</title>
 </programme>
 <programme start="20251202211500 +0000" stop="20251202214500 +0000" channel="DW English.mncvision">
     <title>Close Up: The Current Affairs</title>
 </programme>
 <programme start="20251202214500 +0000" stop="20251202220000 +0000" channel="DW English.mncvision">
-    <title>Shift: Living In Digital Age</title>
+    <title>Shift: How Deep Can...</title>
 </programme>
 <programme start="20251202220000 +0000" stop="20251202220200 +0000" channel="DW English.mncvision">
     <title>DW News</title>
@@ -2873,16 +2873,16 @@
     <title>The Day: News In Review</title>
 </programme>
 <programme start="20251202223000 +0000" stop="20251202230000 +0000" channel="DW English.mncvision">
-    <title>The 77 Percent: Africa&#039;s Youth</title>
+    <title>The 77 Percent: Democracy</title>
 </programme>
 <programme start="20251202230000 +0000" stop="20251202231500 +0000" channel="DW English.mncvision">
     <title>DW News</title>
 </programme>
 <programme start="20251202231500 +0000" stop="20251202233000 +0000" channel="DW English.mncvision">
-    <title>Best Of DW Online Content</title>
+    <title>Planet A: Small Turbines</title>
 </programme>
 <programme start="20251202233000 +0000" stop="20251203000000 +0000" channel="DW English.mncvision">
-    <title>Global Us: What Connects Us All</title>
+    <title>Global Us: Is West Falling...</title>
 </programme>
 <programme start="20251203000000 +0000" stop="20251203000200 +0000" channel="DW English.mncvision">
     <title>DW News</title>
@@ -2891,7 +2891,7 @@
     <title>The Day: News In Review</title>
 </programme>
 <programme start="20251203003000 +0000" stop="20251203010000 +0000" channel="DW English.mncvision">
-    <title>Made In Germany: Business</title>
+    <title>Made In Germany: Of Humans</title>
 </programme>
 <programme start="20251203010000 +0000" stop="20251203011500 +0000" channel="DW English.mncvision">
     <title>DW News</title>
@@ -2906,16 +2906,16 @@
     <title>The Day: News In Review</title>
 </programme>
 <programme start="20251203023000 +0000" stop="20251203030000 +0000" channel="DW English.mncvision">
-    <title>Global Us: What Connects Us All</title>
+    <title>Global Us: Is West Falling...</title>
 </programme>
 <programme start="20251203030000 +0000" stop="20251203031500 +0000" channel="DW English.mncvision">
     <title>DW News</title>
 </programme>
 <programme start="20251203031500 +0000" stop="20251203033000 +0000" channel="DW English.mncvision">
-    <title>Best Of DW Online Content</title>
+    <title>Interview: President Of Georgia</title>
 </programme>
 <programme start="20251203033000 +0000" stop="20251203040000 +0000" channel="DW English.mncvision">
-    <title>Eco Africa: Environment</title>
+    <title>Eco Africa: Green Mobility</title>
 </programme>
 <programme start="20251203040000 +0000" stop="20251203041500 +0000" channel="DW English.mncvision">
     <title>DW News</title>
@@ -2930,13 +2930,13 @@
     <title>The Day: News In Review</title>
 </programme>
 <programme start="20251203053000 +0000" stop="20251203060000 +0000" channel="DW English.mncvision">
-    <title>Made In Germany: Business</title>
+    <title>Made In Germany: Of Humans</title>
 </programme>
 <programme start="20251203060000 +0000" stop="20251203061500 +0000" channel="DW English.mncvision">
     <title>DW News</title>
 </programme>
 <programme start="20251203061500 +0000" stop="20251203063000 +0000" channel="DW English.mncvision">
-    <title>Best Of DW Online Content</title>
+    <title>Interview: President Of Georgia</title>
 </programme>
 <programme start="20251203063000 +0000" stop="20251203070000 +0000" channel="DW English.mncvision">
     <title>In Good Shape: Knocked Sideways</title>
@@ -2945,13 +2945,13 @@
     <title>DW News</title>
 </programme>
 <programme start="20251203073000 +0000" stop="20251203080000 +0000" channel="DW English.mncvision">
-    <title>Close Up: The Current Affairs</title>
+    <title>Close Up: Dark Destiny</title>
 </programme>
 <programme start="20251203080000 +0000" stop="20251203083000 +0000" channel="DW English.mncvision">
     <title>DW News</title>
 </programme>
 <programme start="20251203083000 +0000" stop="20251203090000 +0000" channel="DW English.mncvision">
-    <title>Eco India: Environment</title>
+    <title>Eco India: Going Green</title>
 </programme>
 <programme start="20251203090000 +0000" stop="20251203091500 +0000" channel="DW English.mncvision">
     <title>DW News</title>
@@ -2963,13 +2963,13 @@
     <title>DW News</title>
 </programme>
 <programme start="20251203103000 +0000" stop="20251203110000 +0000" channel="DW English.mncvision">
-    <title>Close Up: The Current Affairs</title>
+    <title>Close Up: Dark Destiny</title>
 </programme>
 <programme start="20251203110000 +0000" stop="20251203113000 +0000" channel="DW English.mncvision">
     <title>DW News</title>
 </programme>
 <programme start="20251203113000 +0000" stop="20251203120000 +0000" channel="DW English.mncvision">
-    <title>Made In Germany: Business</title>
+    <title>Made In Germany: Of Humans</title>
 </programme>
 <programme start="20251203120000 +0000" stop="20251203123000 +0000" channel="DW English.mncvision">
     <title>DW News</title>
@@ -8101,20 +8101,17 @@
 <programme start="20251203100000 +0000" stop="20251203120000 +0000" channel="Sportstars.mncvision">
     <title>V-League 2025-2026 Men (L)</title>
 </programme>
-<programme start="20251203120000 +0000" stop="20251203123000 +0000" channel="Sportstars.mncvision">
-    <title>30 Minutes Extreme</title>
+<programme start="20251203120000 +0000" stop="20251203140000 +0000" channel="Sportstars.mncvision">
+    <title>ASEAN Club C&#039;ship Shopee (L)</title>
 </programme>
-<programme start="20251203123000 +0000" stop="20251203130000 +0000" channel="Sportstars.mncvision">
-    <title>Adrenaline Rush</title>
-</programme>
-<programme start="20251203130000 +0000" stop="20251203150000 +0000" channel="Sportstars.mncvision">
-    <title>IBA World Men&#039;s C&#039;ship 2025</title>
-</programme>
-<programme start="20251203150000 +0000" stop="20251203153000 +0000" channel="Sportstars.mncvision">
+<programme start="20251203140000 +0000" stop="20251203143000 +0000" channel="Sportstars.mncvision">
     <title>Sports Today</title>
 </programme>
-<programme start="20251203153000 +0000" stop="20251203160000 +0000" channel="Sportstars.mncvision">
-    <title>Best Of Badminton</title>
+<programme start="20251203143000 +0000" stop="20251203163000 +0000" channel="Sportstars.mncvision">
+    <title>V-League 2025-2026 Women</title>
+</programme>
+<programme start="20251203163000 +0000" stop="20251202170000 +0000" channel="Sportstars.mncvision">
+    <title>V-League 2025-2026 Men</title>
 </programme>
 <programme start="20251202170000 +0000" stop="20251202190000 +0000" channel="Sportstars 2.mncvision">
     <title>Road To SEA Games 2025</title>
@@ -8422,20 +8419,17 @@
 <programme start="20251203100000 +0000" stop="20251203120000 +0000" channel="Sportstars HD.mncvision">
     <title>V-League 2025-2026 Men (L)</title>
 </programme>
-<programme start="20251203120000 +0000" stop="20251203123000 +0000" channel="Sportstars HD.mncvision">
-    <title>30 Minutes Extreme</title>
+<programme start="20251203120000 +0000" stop="20251203140000 +0000" channel="Sportstars HD.mncvision">
+    <title>ASEAN Club C&#039;ship Shopee (L)</title>
 </programme>
-<programme start="20251203123000 +0000" stop="20251203130000 +0000" channel="Sportstars HD.mncvision">
-    <title>Adrenaline Rush</title>
-</programme>
-<programme start="20251203130000 +0000" stop="20251203150000 +0000" channel="Sportstars HD.mncvision">
-    <title>IBA World Men&#039;s C&#039;ship 2025</title>
-</programme>
-<programme start="20251203150000 +0000" stop="20251203153000 +0000" channel="Sportstars HD.mncvision">
+<programme start="20251203140000 +0000" stop="20251203143000 +0000" channel="Sportstars HD.mncvision">
     <title>Sports Today</title>
 </programme>
-<programme start="20251203153000 +0000" stop="20251203160000 +0000" channel="Sportstars HD.mncvision">
-    <title>Best Of Badminton</title>
+<programme start="20251203143000 +0000" stop="20251203163000 +0000" channel="Sportstars HD.mncvision">
+    <title>V-League 2025-2026 Women</title>
+</programme>
+<programme start="20251203163000 +0000" stop="20251202170000 +0000" channel="Sportstars HD.mncvision">
+    <title>V-League 2025-2026 Men</title>
 </programme>
 <programme start="20251202173000 +0000" stop="20251202180000 +0000" channel="SPOTV.mncvision">
     <title>ALM Mini Match: WEL Vs ADL</title>

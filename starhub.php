@@ -8294,7 +8294,7 @@
         <title>Good Morning Adithyans</title>
     </programme>
     <programme start="20251203033000 +0000" stop="20251203043000 +0000" channel="ADITHYA TV.starhub">
-        <title>Anbudan Adithya</title>
+        <title>Vaanga Sirikkalam</title>
     </programme>
     <programme start="20251203043000 +0000" stop="20251203053000 +0000" channel="ADITHYA TV.starhub">
         <title>Idaividaatha Comedy</title>
@@ -8318,13 +8318,13 @@
         <title>Vadivelu Special</title>
     </programme>
     <programme start="20251203103000 +0000" stop="20251203113000 +0000" channel="ADITHYA TV.starhub">
-        <title>Combo Comedy Special</title>
+        <title>Anbudan Adithya</title>
     </programme>
     <programme start="20251203113000 +0000" stop="20251203123000 +0000" channel="ADITHYA TV.starhub">
         <title>Adithya Paarunga Sirichute Irunga</title>
     </programme>
     <programme start="20251203123000 +0000" stop="20251203133000 +0000" channel="ADITHYA TV.starhub">
-        <title>Vaanga Sirikkalam</title>
+        <title>Combo Comedy Special</title>
     </programme>
     <programme start="20251203133000 +0000" stop="20251203143000 +0000" channel="ADITHYA TV.starhub">
         <title>Natchathira Comedy</title>

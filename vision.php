@@ -367,6 +367,21 @@
 <programme start="20251204110500 +0000" stop="20251204120000 +0000" channel="iNews.vision">
 <title>iNews Sore (L)</title>
 </programme>
+<programme start="20251203000000 +0000" stop="20251203003000 +0000" channel="SindoNews.vision">
+<title>iNews Today</title>
+</programme>
+<programme start="20251203003000 +0000" stop="20251203020000 +0000" channel="SindoNews.vision">
+<title>SINDO Today</title>
+</programme>
+<programme start="20251203020000 +0000" stop="20251203030000 +0000" channel="SindoNews.vision">
+<title>Special Report</title>
+</programme>
+<programme start="20251203030000 +0000" stop="20251203033000 +0000" channel="SindoNews.vision">
+<title>iNews Sport Pagi</title>
+</programme>
+<programme start="20251203033000 +0000" stop="20251203050000 +0000" channel="SindoNews.vision">
+<title>SINDO Siang</title>
+</programme>
 <programme start="20251203050000 +0000" stop="20251203053000 +0000" channel="SindoNews.vision">
 <title>Lintas iNews Siang</title>
 </programme>
@@ -430,34 +445,34 @@
 <programme start="20251204003000 +0000" stop="20251204020000 +0000" channel="SindoNews.vision">
 <title>SINDO Today</title>
 </programme>
-<programme start="20251205020000 +0000" stop="20251205030000 +0000" channel="SindoNews.vision">
+<programme start="20251204020000 +0000" stop="20251204030000 +0000" channel="SindoNews.vision">
 <title>Special Report</title>
 </programme>
-<programme start="20251205030000 +0000" stop="20251205033000 +0000" channel="SindoNews.vision">
+<programme start="20251204030000 +0000" stop="20251204033000 +0000" channel="SindoNews.vision">
 <title>iNews Sport Pagi</title>
 </programme>
 <programme start="20251204033000 +0000" stop="20251204050000 +0000" channel="SindoNews.vision">
 <title>SINDO Siang</title>
 </programme>
-<programme start="20251205050000 +0000" stop="20251205053000 +0000" channel="SindoNews.vision">
+<programme start="20251204050000 +0000" stop="20251204053000 +0000" channel="SindoNews.vision">
 <title>Lintas iNews Siang</title>
 </programme>
 <programme start="20251204053000 +0000" stop="20251204063000 +0000" channel="SindoNews.vision">
 <title>iNews Today</title>
 </programme>
-<programme start="20251205063000 +0000" stop="20251205070000 +0000" channel="SindoNews.vision">
+<programme start="20251204063000 +0000" stop="20251204070000 +0000" channel="SindoNews.vision">
 <title>Seputar iNews Siang</title>
 </programme>
 <programme start="20251204070000 +0000" stop="20251204083000 +0000" channel="SindoNews.vision">
 <title>iNews Siang</title>
 </programme>
-<programme start="20251205083000 +0000" stop="20251205093000 +0000" channel="SindoNews.vision">
+<programme start="20251204083000 +0000" stop="20251204093000 +0000" channel="SindoNews.vision">
 <title>Special Report</title>
 </programme>
-<programme start="20251205093000 +0000" stop="20251205110000 +0000" channel="SindoNews.vision">
+<programme start="20251204093000 +0000" stop="20251204110000 +0000" channel="SindoNews.vision">
 <title>SINDO Sore</title>
 </programme>
-<programme start="20251205110000 +0000" stop="20251205120000 +0000" channel="SindoNews.vision">
+<programme start="20251204110000 +0000" stop="20251204120000 +0000" channel="SindoNews.vision">
 <title>SINDO Files</title>
 </programme>
 <programme start="20251202233000 +0000" stop="20251203003000 +0000" channel="Trans TV.vision">
