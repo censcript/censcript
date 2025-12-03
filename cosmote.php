@@ -1,7 +1,3 @@
-<programme start="20251203170000 +0700" stop="20251203180000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>UEFA Champions League Highlights 2025-26</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251203180000 +0700" stop="20251203183000 +0700" channel="COSMOTE Sport 1 HD">
     <title>UEFA Champions League Magazine 2025-26 E13</title>
     <desc>Live: Tidak</desc>
@@ -70,10 +66,6 @@
     <title>Greek Cup Time</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251203154000 +0700" stop="20251203174500 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Genoa - Hellas Verona</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251203174500 +0700" stop="20251203200000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Volos - Egaleo</title>
     <desc>Live: Tidak</desc>
@@ -130,6 +122,10 @@
     <title>Football: AEK - OFI</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251204181000 +0700" stop="20251204202000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Ellas Syroy - Olympiacos</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251203165000 +0700" stop="20251203185000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Al Hilal - Al Fateh</title>
     <desc>Live: Tidak</desc>
@@ -180,6 +176,10 @@
 </programme>
 <programme start="20251204163000 +0700" stop="20251204183000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Al Ittihad - Al Shabab</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251204183000 +0700" stop="20251204203000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Oxford United F.C. - Ipswich Town</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251203164500 +0700" stop="20251203191500 +0700" channel="COSMOTE Sport 4 HD">
@@ -236,10 +236,6 @@
 </programme>
 <programme start="20251204170000 +0700" stop="20251204193000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Milwaukee Bucks - Detroit Pistons</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251203163500 +0700" stop="20251203172500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251203172500 +0700" stop="20251203183000 +0700" channel="COSMOTE Sport 5 HD">
@@ -392,6 +388,10 @@
 </programme>
 <programme start="20251204163000 +0700" stop="20251204184500 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP Challenger 50 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251204184500 +0700" stop="20251204194500 +0700" channel="COSMOTE Sport 6 HD">
+    <title>ATP 500 2025 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251203170000 +0700" stop="20251203190000 +0700" channel="COSMOTE Sport 7 HD">
