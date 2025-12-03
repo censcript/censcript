@@ -700,9 +700,6 @@
 <programme start="20251203093000 +0000" stop="20251203104500 +0000" channel="ANTV.vision">
 <title>Takdir Cinta Layla</title>
 </programme>
-<programme start="20251203104500 +0000" stop="20251203121500 +0000" channel="ANTV.vision">
-<title>Susuk Nyi Roro Kidul</title>
-</programme>
 <programme start="20251203121500 +0000" stop="20251203133000 +0000" channel="ANTV.vision">
 <title>Nyi Ageng Ratu Pemikat</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20251204011500 +0000" stop="20251204014500 +0000" channel="BTV.vision">
 <title>Kuyliner</title>
+</programme>
+<programme start="20251204014500 +0000" stop="20251204023000 +0000" channel="BTV.vision">
+<title>Masak Ala Devina Hermawan</title>
 </programme>

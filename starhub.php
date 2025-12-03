@@ -8003,13 +8003,13 @@
         <title>Full throttle 2</title>
     </programme>
     <programme start="20251202160500 +0000" stop="20251202180000 +0000" channel="SPOTV2.starhub">
-        <title>2025/26 King&#039;s Cup Quarter Final Al Hilal vs Al Fateh</title>
+        <title>Al Hilal vs Al Fateh</title>
     </programme>
     <programme start="20251202180000 +0000" stop="20251202200000 +0000" channel="SPOTV2.starhub">
         <title>Men&#039;s 6th Tournament</title>
     </programme>
     <programme start="20251202200000 +0000" stop="20251202220000 +0000" channel="SPOTV2.starhub">
-        <title>25/26 A-League Men Round 6 Wellington Phoenix vs Adelaide United</title>
+        <title>Wellington Phoenix vs Adelaide United</title>
     </programme>
     <programme start="20251202220000 +0000" stop="20251203030000 +0000" channel="SPOTV2.starhub">
         <title>Race</title>
