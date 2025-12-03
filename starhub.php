@@ -572,7 +572,7 @@
         <title>Within The Frame</title>
     </programme>
     <programme start="20251202180000 +0000" stop="20251202181500 +0000" channel="Arirang TV HD.starhub">
-        <title>1DAY 1K-Culture: K-People</title>
+        <title>1day 1k-Culture: K-People</title>
     </programme>
     <programme start="20251202181500 +0000" stop="20251202183000 +0000" channel="Arirang TV HD.starhub">
         <title>Exploring Korean Literature C</title>
@@ -626,7 +626,7 @@
         <title>Exploring Korean Literature B</title>
     </programme>
     <programme start="20251202233000 +0000" stop="20251202235000 +0000" channel="Arirang TV HD.starhub">
-        <title>1DAY 1K-Culture: K-Story</title>
+        <title>1day 1k-Culture: K-Story</title>
     </programme>
     <programme start="20251202235000 +0000" stop="20251203002000 +0000" channel="Arirang TV HD.starhub">
         <title>News Special</title>
@@ -3158,7 +3158,7 @@
         <title>News</title>
     </programme>
     <programme start="20251202161500 +0000" stop="20251202164500 +0000" channel="DW English HD.starhub">
-        <title>The Current Affairs Documentary</title>
+        <title>Dark Destiny - How Child Rescue Ends in Abuse</title>
     </programme>
     <programme start="20251202164500 +0000" stop="20251202170000 +0000" channel="DW English HD.starhub">
         <title>Danger in the Baltics: The threat from Russia_x000D_</title>
@@ -3167,7 +3167,7 @@
         <title>News</title>
     </programme>
     <programme start="20251202171500 +0000" stop="20251202173000 +0000" channel="DW English HD.starhub">
-        <title>Small turbines, huge potential: Can alternative hydropower save the planet?</title>
+        <title>President of Georgia Mikheil Kavelashvili</title>
     </programme>
     <programme start="20251202173000 +0000" stop="20251202180000 +0000" channel="DW English HD.starhub">
         <title>The forgotten Porsche founder: Adolf Rosenberger’s untold story</title>
@@ -3197,10 +3197,10 @@
         <title>News</title>
     </programme>
     <programme start="20251202210200 +0000" stop="20251202211500 +0000" channel="DW English HD.starhub">
-        <title>Small turbines, huge potential: Can alternative hydropower save the planet?</title>
+        <title>President of Georgia Mikheil Kavelashvili</title>
     </programme>
     <programme start="20251202211500 +0000" stop="20251202214500 +0000" channel="DW English HD.starhub">
-        <title>The Current Affairs Documentary</title>
+        <title>Dark Destiny - How Child Rescue Ends in Abuse</title>
     </programme>
     <programme start="20251202214500 +0000" stop="20251202220000 +0000" channel="DW English HD.starhub">
         <title>How deep can a relationship with AI get?</title>
@@ -3218,7 +3218,7 @@
         <title>News</title>
     </programme>
     <programme start="20251202231500 +0000" stop="20251202233000 +0000" channel="DW English HD.starhub">
-        <title>Small turbines, huge potential: Can alternative hydropower save the planet?</title>
+        <title>President of Georgia Mikheil Kavelashvili</title>
     </programme>
     <programme start="20251202233000 +0000" stop="20251203000000 +0000" channel="DW English HD.starhub">
         <title>Is the West falling behind on renewables?</title>
