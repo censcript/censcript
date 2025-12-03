@@ -1,7 +1,3 @@
-<programme start="20251203213000 +0700" stop="20251203223000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Highlights: UEL &amp; UECL 2025-26</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251203223000 +0700" stop="20251204004500 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: AEK - OFI (L)</title>
     <desc>Live: Ya</desc>
@@ -61,14 +57,6 @@
 <programme start="20251204220000 +0700" stop="20251205001500 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Iraklis - Panetolikos (L)</title>
     <desc>Live: Ya</desc>
-</programme>
-<programme start="20251203200000 +0700" stop="20251203221500 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Marko - Levadiakos (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20251203221500 +0700" stop="20251203225000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Sports Classics: My Sporting Moment</title>
-    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251203225000 +0700" stop="20251203235000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Highlights: UEL &amp; UECL 2025-26</title>
@@ -238,8 +226,8 @@
     <title>Basketball: Heidelberg - Promitheas</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251203212500 +0700" stop="20251203223000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>2025 Extreme H</title>
+<programme start="20251204234000 +0700" stop="20251205000000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>ACB Liga Endesa 2025-26 - Fifth Quarter E8</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251203223000 +0700" stop="20251204003000 +0700" channel="COSMOTE Sport 5 HD">
@@ -318,6 +306,10 @@
     <title>Motorsports: Extreme E 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251204231000 +0700" stop="20251205001500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251203213000 +0700" stop="20251204002500 +0700" channel="COSMOTE Sport 6 HD">
     <title>Volleyball: Olympiacos - Eczacibasi Dynavit Istanbul</title>
     <desc>Live: Tidak</desc>
@@ -394,10 +386,6 @@
     <title>Volleyball: Las Palmas - Olympiacos</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251203210000 +0700" stop="20251203230000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251203230000 +0700" stop="20251204010000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
@@ -446,8 +434,8 @@
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251203210000 +0700" stop="20251203230000 +0700" channel="COSMOTE Sport 8 HD">
-    <title>COSMOTESport8HD</title>
+<programme start="20251204230000 +0700" stop="20251205000000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251203230000 +0700" stop="20251204010000 +0700" channel="COSMOTE Sport 8 HD">
@@ -498,8 +486,8 @@
     <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251203210000 +0700" stop="20251203230000 +0700" channel="COSMOTE Sport 9 HD">
-    <title>COSMOTESport9HD</title>
+<programme start="20251204230000 +0700" stop="20251205010000 +0700" channel="COSMOTE Sport 8 HD">
+    <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251203230000 +0700" stop="20251204010000 +0700" channel="COSMOTE Sport 9 HD">
@@ -547,6 +535,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251204210000 +0700" stop="20251204230000 +0700" channel="COSMOTE Sport 9 HD">
+    <title>COSMOTESport9HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251204230000 +0700" stop="20251205010000 +0700" channel="COSMOTE Sport 9 HD">
     <title>COSMOTESport9HD</title>
     <desc>Live: Tidak</desc>
 </programme>
