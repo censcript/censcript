@@ -58,8 +58,12 @@
     <title>Football: Iraklis - Panetolikos (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251203225000 +0700" stop="20251203235000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Highlights: UEL &amp; UECL 2025-26</title>
+<programme start="20251205001500 +0700" stop="20251205004500 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEFA Champions League Magazine 2025-26 E13</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251205004500 +0700" stop="20251205010000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Sports Classics: My Sporting Moment</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251203235000 +0700" stop="20251204003000 +0700" channel="COSMOTE Sport 2 HD">
@@ -114,12 +118,8 @@
     <title>Football: AS Roma - SSC Napoli</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251203210000 +0700" stop="20251203231500 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: AEL Novibet - Atromitos (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20251203231500 +0700" stop="20251203235000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Emirates FA Cup 2025-26 - Highlights</title>
+<programme start="20251205002000 +0700" stop="20251205023000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Aris - PAOK</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251203235000 +0700" stop="20251204021500 +0700" channel="COSMOTE Sport 3 HD">
@@ -168,10 +168,6 @@
 </programme>
 <programme start="20251204223000 +0700" stop="20251205013500 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Lanus - Atletico Mineiro</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251203214500 +0700" stop="20251203233000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Pick n&#039; Roll</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251203233000 +0700" stop="20251204013000 +0700" channel="COSMOTE Sport 4 HD">
@@ -228,6 +224,10 @@
 </programme>
 <programme start="20251204234000 +0700" stop="20251205000000 +0700" channel="COSMOTE Sport 4 HD">
     <title>ACB Liga Endesa 2025-26 - Fifth Quarter E8</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251205000000 +0700" stop="20251205020000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Tofas - Anadolu Efes</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251203223000 +0700" stop="20251204003000 +0700" channel="COSMOTE Sport 5 HD">
@@ -310,6 +310,10 @@
     <title>WRC</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251205001500 +0700" stop="20251205012000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251203213000 +0700" stop="20251204002500 +0700" channel="COSMOTE Sport 6 HD">
     <title>Volleyball: Olympiacos - Eczacibasi Dynavit Istanbul</title>
     <desc>Live: Tidak</desc>
@@ -386,6 +390,14 @@
     <title>Volleyball: Las Palmas - Olympiacos</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251205000500 +0700" stop="20251205003500 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Watersports: Inside Sailing E11</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251205003500 +0700" stop="20251205013500 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Sports Classics: 2025 Outdoor Specials</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251203230000 +0700" stop="20251204010000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
@@ -435,6 +447,14 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251204230000 +0700" stop="20251205000000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251205000000 +0700" stop="20251205003000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251205003000 +0700" stop="20251205010000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
