@@ -425,10 +425,10 @@
 <title>iNews Malam</title>
 </programme>
 <programme start="20251203190000 +0000" stop="20251203200000 +0000" channel="SindoNews.vision">
-<title>SINDO Files</title>
+<title>SINDO Prime</title>
 </programme>
 <programme start="20251203200000 +0000" stop="20251203210000 +0000" channel="SindoNews.vision">
-<title>SINDO Prime</title>
+<title>iNews Sore</title>
 </programme>
 <programme start="20251203210000 +0000" stop="20251203220000 +0000" channel="SindoNews.vision">
 <title>SINDO Sore</title>
@@ -684,6 +684,9 @@
 </programme>
 <programme start="20251203010000 +0000" stop="20251203030000 +0000" channel="ANTV.vision">
 <title>Zeynep</title>
+</programme>
+<programme start="20251203030000 +0000" stop="20251203063000 +0000" channel="ANTV.vision">
+<title>Asoka</title>
 </programme>
 <programme start="20251203063000 +0000" stop="20251203080000 +0000" channel="ANTV.vision">
 <title>Cinta Keluarga Pandya</title>
@@ -1494,7 +1497,4 @@
 </programme>
 <programme start="20251204023000 +0000" stop="20251204033000 +0000" channel="BTV.vision">
 <title>Investor Market Today</title>
-</programme>
-<programme start="20251204033000 +0000" stop="20251204040000 +0000" channel="BTV.vision">
-<title>Berita Kriminal</title>
 </programme>
