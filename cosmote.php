@@ -70,10 +70,6 @@
     <title>Football: FK Crvena Zvezda - Fotbal Club FCSB</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251203113000 +0700" stop="20251203134000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Panetolikos - Olympiacos</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251203134000 +0700" stop="20251203154000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Como - Sassuolo</title>
     <desc>Live: Tidak</desc>
@@ -134,10 +130,6 @@
     <title>Football: Panathinaikos - Kifisia</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251203110000 +0700" stop="20251203135000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>American Football: New England Patriots - New York Giants</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251203135000 +0700" stop="20251203141500 +0700" channel="COSMOTE Sport 3 HD">
     <title>William Hill Scottish Premiership - Highlights</title>
     <desc>Live: Tidak</desc>
@@ -194,6 +186,10 @@
     <title>Football: Palmeiras - Flamengo</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251204143000 +0700" stop="20251204163000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Nacional - SL Benfica</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251203124500 +0700" stop="20251203144500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Granada - Real Madrid</title>
     <desc>Live: Tidak</desc>
@@ -248,10 +244,6 @@
 </programme>
 <programme start="20251204130000 +0700" stop="20251204150000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Cantu - Virtus Bologna</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251203130000 +0700" stop="20251203140000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251203140000 +0700" stop="20251203144500 +0700" channel="COSMOTE Sport 5 HD">
@@ -344,10 +336,6 @@
 </programme>
 <programme start="20251204135500 +0700" stop="20251204155500 +0700" channel="COSMOTE Sport 5 HD">
     <title>2025 Extreme H</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251203110000 +0700" stop="20251203133500 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Premier Padel Tour 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251203133500 +0700" stop="20251203142500 +0700" channel="COSMOTE Sport 6 HD">
