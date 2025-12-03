@@ -425,10 +425,10 @@
 <title>iNews Malam</title>
 </programme>
 <programme start="20251203190000 +0000" stop="20251203200000 +0000" channel="SindoNews.vision">
-<title>SINDO Files</title>
+<title>SINDO Prime</title>
 </programme>
 <programme start="20251203200000 +0000" stop="20251203210000 +0000" channel="SindoNews.vision">
-<title>SINDO Prime</title>
+<title>iNews Sore</title>
 </programme>
 <programme start="20251203210000 +0000" stop="20251203220000 +0000" channel="SindoNews.vision">
 <title>SINDO Sore</title>
@@ -689,7 +689,7 @@
 <title>Zeynep</title>
 </programme>
 <programme start="20251203030000 +0000" stop="20251203063000 +0000" channel="ANTV.vision">
-<title>Kal Ho Naa Ho</title>
+<title>Asoka</title>
 </programme>
 <programme start="20251203063000 +0000" stop="20251203080000 +0000" channel="ANTV.vision">
 <title>Cinta Keluarga Pandya</title>
@@ -699,6 +699,12 @@
 </programme>
 <programme start="20251203093000 +0000" stop="20251203104500 +0000" channel="ANTV.vision">
 <title>Takdir Cinta Layla</title>
+</programme>
+<programme start="20251203104500 +0000" stop="20251203121500 +0000" channel="ANTV.vision">
+<title>Susuk Nyi Roro Kidul</title>
+</programme>
+<programme start="20251203121500 +0000" stop="20251203133000 +0000" channel="ANTV.vision">
+<title>Nyi Ageng Ratu Pemikat</title>
 </programme>
 <programme start="20251203133000 +0000" stop="20251203160000 +0000" channel="ANTV.vision">
 <title>ANTV</title>
@@ -712,10 +718,10 @@
 <programme start="20251203190000 +0000" stop="20251203193000 +0000" channel="ANTV.vision">
 <title>Lanjutan Sinema Spesial</title>
 </programme>
-<programme start="20251203193000 +0000" stop="20251203220000 +0000" channel="ANTV.vision">
+<programme start="20251203193000 +0000" stop="20251203213000 +0000" channel="ANTV.vision">
 <title>ANTV</title>
 </programme>
-<programme start="20251203220000 +0000" stop="20251203230000 +0000" channel="ANTV.vision">
+<programme start="20251203213000 +0000" stop="20251203230000 +0000" channel="ANTV.vision">
 <title>Serie A Liga Italia</title>
 </programme>
 <programme start="20251203230000 +0000" stop="20251204010000 +0000" channel="ANTV.vision">
@@ -725,7 +731,7 @@
 <title>Zeynep</title>
 </programme>
 <programme start="20251204030000 +0000" stop="20251204063000 +0000" channel="ANTV.vision">
-<title>Kabhi Khushi Kabhi Gham</title>
+<title>Kal Ho Naa Ho</title>
 </programme>
 <programme start="20251204063000 +0000" stop="20251204080000 +0000" channel="ANTV.vision">
 <title>Cinta Keluarga Pandya</title>
@@ -737,7 +743,7 @@
 <title>Takdir Cinta Layla</title>
 </programme>
 <programme start="20251204104500 +0000" stop="20251204123000 +0000" channel="ANTV.vision">
-<title>Jampang</title>
+<title>Primitif</title>
 </programme>
 <programme start="20251202230000 +0000" stop="20251203010000 +0000" channel="RTV.vision">
 <title>Bread Barbershop</title>
@@ -1441,10 +1447,7 @@
 <programme start="20251203103000 +0000" stop="20251203110000 +0000" channel="BTV.vision">
 <title>Berita Kriminal</title>
 </programme>
-<programme start="20251203110000 +0000" stop="20251203120000 +0000" channel="BTV.vision">
-<title>Berita Satu Spesial</title>
-</programme>
-<programme start="20251203120000 +0000" stop="20251203130000 +0000" channel="BTV.vision">
+<programme start="20251203110000 +0000" stop="20251203130000 +0000" channel="BTV.vision">
 <title>Berita Satu Utama</title>
 </programme>
 <programme start="20251203130000 +0000" stop="20251203140000 +0000" channel="BTV.vision">
@@ -1494,7 +1497,4 @@
 </programme>
 <programme start="20251204014500 +0000" stop="20251204023000 +0000" channel="BTV.vision">
 <title>Masak Ala Devina Hermawan</title>
-</programme>
-<programme start="20251204023000 +0000" stop="20251204033000 +0000" channel="BTV.vision">
-<title>Investor Market Today</title>
 </programme>
