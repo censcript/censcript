@@ -54,6 +54,14 @@
     <title>Game R1 S6 E15</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251206040000 +0700" stop="20251206043000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEFA Champions League Magazine 2025-26 E14</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251206043000 +0700" stop="20251206053000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEFA Champions League Highlights 2025-26</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251205023000 +0700" stop="20251205043000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Atalanta - ACF Fiorentina</title>
     <desc>Live: Tidak</desc>
@@ -116,10 +124,6 @@
 </programme>
 <programme start="20251206030000 +0700" stop="20251206050000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: AC Milan - SS Lazio</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251205013500 +0700" stop="20251205033500 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Anorthosis Famagusta - APOEL</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251205033500 +0700" stop="20251205040500 +0700" channel="COSMOTE Sport 3 HD">
@@ -254,10 +258,6 @@
     <title>Basketball: Philadelphia 76ers - Golden State Warriors</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251205022500 +0700" stop="20251205032500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251205032500 +0700" stop="20251205050000 +0700" channel="COSMOTE Sport 5 HD">
     <title>WRC 2025</title>
     <desc>Live: Tidak</desc>
@@ -358,14 +358,6 @@
     <title>Football: Hull City - Middlesbrough (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251205021000 +0700" stop="20251205031000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Sports Classics: 2025 Outdoor Specials</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251205031000 +0700" stop="20251205040000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Beach Volley: 2025 FIVB Beach Volleyball World Championships</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251205040000 +0700" stop="20251205050000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Beach Volley: 2025 FIVB Beach Volleyball World Championships</title>
     <desc>Live: Tidak</desc>
@@ -450,6 +442,10 @@
     <title>Beach Volley: 2025 FIVB Beach Volleyball World Championships</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251206042500 +0700" stop="20251206054500 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Beach Volley: 2025 FIVB Beach Volleyball World Championships</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251205030000 +0700" stop="20251205050000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
@@ -505,6 +501,10 @@
 <programme start="20251206023000 +0700" stop="20251206043000 +0700" channel="COSMOTE Sport 7 HD">
     <title>Football: Salford City - Leyton Orient (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20251206043000 +0700" stop="20251206050000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251205030000 +0700" stop="20251205050000 +0700" channel="COSMOTE Sport 8 HD">
     <title>COSMOTESport8HD</title>
