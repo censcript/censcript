@@ -694,6 +694,12 @@
 <programme start="20251204093000 +0000" stop="20251204104500 +0000" channel="ANTV.vision">
 <title>Takdir Cinta Layla</title>
 </programme>
+<programme start="20251204104500 +0000" stop="20251204123000 +0000" channel="ANTV.vision">
+<title>Jampang</title>
+</programme>
+<programme start="20251204123000 +0000" stop="20251204140000 +0000" channel="ANTV.vision">
+<title>Malam Jumat Kliwon</title>
+</programme>
 <programme start="20251204140000 +0000" stop="20251204160000 +0000" channel="ANTV.vision">
 <title>Tawa Kalcer</title>
 </programme>
@@ -1491,10 +1497,4 @@
 </programme>
 <programme start="20251205023000 +0000" stop="20251205031500 +0000" channel="BTV.vision">
 <title>Selera Rasa</title>
-</programme>
-<programme start="20251205031500 +0000" stop="20251205033000 +0000" channel="BTV.vision">
-<title>Endeus</title>
-</programme>
-<programme start="20251205033000 +0000" stop="20251205040000 +0000" channel="BTV.vision">
-<title>Ekspos</title>
 </programme>
