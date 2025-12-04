@@ -1162,25 +1162,25 @@
   <programme start="20251206214500 +0000" stop="20251206235500 +0000" channel="JOJ Plus.webtv.sk">
     <title lang="id">Bezos: Najbohatší muž</title>
   </programme>
-  <programme start="20251205225500 +0000" stop="20251206004500 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20251205223000 +0000" stop="20251206004000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">IIHF MS ženy U18 2025</title>
   </programme>
-  <programme start="20251206004500 +0000" stop="20251206024500 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20251206004000 +0000" stop="20251206023500 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">2025 IIHF Majstrovstvá sveta</title>
   </programme>
-  <programme start="20251206024500 +0000" stop="20251206043000 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20251206023500 +0000" stop="20251206043000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">2025 IIHF Majstrovstvá sveta</title>
   </programme>
-  <programme start="20251206043000 +0000" stop="20251206063000 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20251206043000 +0000" stop="20251206064000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Spengler Cup</title>
   </programme>
-  <programme start="20251206063000 +0000" stop="20251206083500 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20251206064000 +0000" stop="20251206083500 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">FIS Skoky na lyžiach</title>
   </programme>
-  <programme start="20251206083500 +0000" stop="20251206095500 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20251206083500 +0000" stop="20251206094500 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Krasokorčuľovanie ISU Grand Prix</title>
   </programme>
-  <programme start="20251206095500 +0000" stop="20251206110000 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20251206094500 +0000" stop="20251206110000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Hokej – Zostrihy Tipsport ligy</title>
   </programme>
   <programme start="20251206110000 +0000" stop="20251206121000 +0000" channel="JOJ Šport.webtv.sk">
@@ -1195,10 +1195,10 @@
   <programme start="20251206154000 +0000" stop="20251206155500 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">FIS štúdio</title>
   </programme>
-  <programme start="20251206155500 +0000" stop="20251206170000 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20251206155500 +0000" stop="20251206165500 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">FIS Svetový pohár obrovský slalom ženy</title>
   </programme>
-  <programme start="20251206170000 +0000" stop="20251206172500 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20251206165500 +0000" stop="20251206172500 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">FIS štúdio</title>
   </programme>
   <programme start="20251206172500 +0000" stop="20251206184500 +0000" channel="JOJ Šport.webtv.sk">
@@ -1210,10 +1210,10 @@
   <programme start="20251206185500 +0000" stop="20251206203000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">FIS Svetový pohár obrovský slalom ženy</title>
   </programme>
-  <programme start="20251206203000 +0000" stop="20251206215000 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20251206203000 +0000" stop="20251206214000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Skialpinizmus Svetový pohár</title>
   </programme>
-  <programme start="20251206215000 +0000" stop="20251207005000 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20251206214000 +0000" stop="20251207000000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Hokej - Tipsport liga</title>
   </programme>
   <programme start="20251205223500 +0000" stop="20251206000500 +0000" channel="JOJ Šport 2.webtv.sk">
@@ -2218,11 +2218,11 @@
   <programme start="20251206073500 +0000" stop="20251206074000 +0000" channel="RiK TV.webtv.sk">
     <title lang="id">Všetko najlepšie s Flopym</title>
   </programme>
-  <programme start="20251206074000 +0000" stop="20251206083500 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">FILM</title>
+  <programme start="20251206074000 +0000" stop="20251206080500 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Máša a medveď - O dvanástich mesiačikoch</title>
   </programme>
-  <programme start="20251206083500 +0000" stop="20251206085000 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Monchhichi I (8)</title>
+  <programme start="20251206080500 +0000" stop="20251206085000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Ovečka Shaun</title>
   </programme>
   <programme start="20251206085000 +0000" stop="20251206090000 +0000" channel="RiK TV.webtv.sk">
     <title lang="id">WoW Lisa I (6)</title>
@@ -2296,17 +2296,11 @@
   <programme start="20251206134500 +0000" stop="20251206135500 +0000" channel="RiK TV.webtv.sk">
     <title lang="id">Máša a medveď VII (143)</title>
   </programme>
-  <programme start="20251206135500 +0000" stop="20251206140500 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Fíha Tralala I (4)</title>
-  </programme>
-  <programme start="20251206140500 +0000" stop="20251206142000 +0000" channel="RiK TV.webtv.sk">
+  <programme start="20251206135500 +0000" stop="20251206141000 +0000" channel="RiK TV.webtv.sk">
     <title lang="id">Tomáš a Priatelia I (3)</title>
   </programme>
-  <programme start="20251206142000 +0000" stop="20251206150500 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">FILM</title>
-  </programme>
-  <programme start="20251206150500 +0000" stop="20251206152000 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Ukecaný Tom I (43)</title>
+  <programme start="20251206141000 +0000" stop="20251206152000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Príbehy z lesa 2</title>
   </programme>
   <programme start="20251206152000 +0000" stop="20251206153500 +0000" channel="RiK TV.webtv.sk">
     <title lang="id">Štístko a Poupěnka I (16)</title>
