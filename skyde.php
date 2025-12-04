@@ -2986,7 +2986,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Live Sky Sport News: Primetime</title>
 </programme>
 <programme start="20251204193000 +0000" stop="20251204203000 +0000" channel="Sky Sport News HD.skyde">
-    <title>BL: Matchplan: XXX - YYY, 13 Spieltag</title>
+    <title>BL: Matchplan: RBL - SGE, 13 Spieltag</title>
 </programme>
 <programme start="20251204203000 +0000" stop="20251204210000 +0000" channel="Sky Sport News HD.skyde">
     <title>Fußball: Spielmacher Podcast von Sports 360 mit Sebastian Hellmann (Gast: Horst Steffen)</title>
@@ -3441,10 +3441,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251204050000 +0000" stop="20251204053000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Die Nanny</title>
 </programme>
-<programme start="20251204053000 +0000" stop="20251204055500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251204053000 +0000" stop="20251204060000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Friends</title>
 </programme>
-<programme start="20251204055500 +0000" stop="20251204062500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251204060000 +0000" stop="20251204062500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Friends</title>
 </programme>
 <programme start="20251204062500 +0000" stop="20251204065000 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3510,10 +3510,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251204144000 +0000" stop="20251204150500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20251204150500 +0000" stop="20251204153000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251204150500 +0000" stop="20251204153500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20251204153000 +0000" stop="20251204155500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251204153500 +0000" stop="20251204155500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Two and a Half Men</title>
 </programme>
 <programme start="20251204155500 +0000" stop="20251204162000 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3561,16 +3561,16 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251204214500 +0000" stop="20251204221000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Harley Quinn</title>
 </programme>
-<programme start="20251204221000 +0000" stop="20251204222000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251204221000 +0000" stop="20251204222500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Robot Chicken</title>
 </programme>
-<programme start="20251204222000 +0000" stop="20251204223500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251204222500 +0000" stop="20251204224000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Robot Chicken</title>
 </programme>
-<programme start="20251204223500 +0000" stop="20251204224500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251204224000 +0000" stop="20251204225000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Robot Chicken</title>
 </programme>
-<programme start="20251204224500 +0000" stop="20251204230000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251204225000 +0000" stop="20251204230500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Robot Chicken</title>
 </programme>
 <programme start="20251203230500 +0000" stop="20251204005500 +0000" channel="Warner TV Film.skyde">
