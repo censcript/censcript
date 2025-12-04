@@ -2302,7 +2302,45 @@
 <programme start="20251204160300 +0000" stop="20251204163300 +0000" channel="Channel News Asia.mncvision">
     <title>East Asia Tonight</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20251203172600 +0000" stop="20251203192600 +0000" channel="CINEEDGE.mncvision">
+    <title>The Siege Of Robin Hood</title>
+</programme>
+<programme start="20251203192600 +0000" stop="20251203210600 +0000" channel="CINEEDGE.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20251203210600 +0000" stop="20251203225200 +0000" channel="CINEEDGE.mncvision">
+    <title>Agent Jade Black</title>
+</programme>
+<programme start="20251203225200 +0000" stop="20251204005100 +0000" channel="CINEEDGE.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20251204005100 +0000" stop="20251204023800 +0000" channel="CINEEDGE.mncvision">
+    <title>A Day To Die</title>
+</programme>
+<programme start="20251204023800 +0000" stop="20251204042900 +0000" channel="CINEEDGE.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20251204042900 +0000" stop="20251204061600 +0000" channel="CINEEDGE.mncvision">
+    <title>American Sicario</title>
+</programme>
+<programme start="20251204061600 +0000" stop="20251204081100 +0000" channel="CINEEDGE.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20251204081100 +0000" stop="20251204095200 +0000" channel="CINEEDGE.mncvision">
+    <title>Deadlock</title>
+</programme>
+<programme start="20251204095200 +0000" stop="20251204115000 +0000" channel="CINEEDGE.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20251204115000 +0000" stop="20251204133600 +0000" channel="CINEEDGE.mncvision">
+    <title>Gasoline Alley</title>
+</programme>
+<programme start="20251204133600 +0000" stop="20251204154300 +0000" channel="CINEEDGE.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20251204154300 +0000" stop="20251204161300 +0000" channel="CINEEDGE.mncvision">
+    <title>Kandahar</title>
+</programme>
 <programme start="20251203172600 +0000" stop="20251203192600 +0000" channel="CINEEDGE HD.mncvision">
     <title>The Siege Of Robin Hood</title>
 </programme>
@@ -2864,17 +2902,20 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20251204023000 +0000" stop="20251204030000 +0000" channel="DW English.mncvision">
     <title>Made In Germany: Of Humans</title>
 </programme>
-<programme start="20251204030000 +0000" stop="20251204031500 +0000" channel="DW English.mncvision">
+<programme start="20251204030000 +0000" stop="20251204030200 +0000" channel="DW English.mncvision">
     <title>DW News</title>
 </programme>
-<programme start="20251204031500 +0000" stop="20251204033000 +0000" channel="DW English.mncvision">
-    <title>Mapped Out: Morocco&#039;s Western</title>
+<programme start="20251204030200 +0000" stop="20251204033000 +0000" channel="DW English.mncvision">
+    <title>The Day: News In Review</title>
 </programme>
 <programme start="20251204033000 +0000" stop="20251204040000 +0000" channel="DW English.mncvision">
     <title>Eco India: Going Green</title>
 </programme>
-<programme start="20251204040000 +0000" stop="20251204041500 +0000" channel="DW English.mncvision">
+<programme start="20251204040000 +0000" stop="20251204040200 +0000" channel="DW English.mncvision">
     <title>DW News</title>
+</programme>
+<programme start="20251204040200 +0000" stop="20251204041500 +0000" channel="DW English.mncvision">
+    <title>Interview: Denmark&#039;s...</title>
 </programme>
 <programme start="20251204041500 +0000" stop="20251204050000 +0000" channel="DW English.mncvision">
     <title>DocFilm</title>
@@ -2892,7 +2933,7 @@ Error: Unable to fetch data. HTTP Status Code: 500
     <title>DW News</title>
 </programme>
 <programme start="20251204061500 +0000" stop="20251204063000 +0000" channel="DW English.mncvision">
-    <title>Mapped Out: Morocco&#039;s Western</title>
+    <title>Interview: Denmark&#039;s...</title>
 </programme>
 <programme start="20251204063000 +0000" stop="20251204070000 +0000" channel="DW English.mncvision">
     <title>Made In Germany: Of Humans</title>
@@ -2927,11 +2968,8 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20251204113000 +0000" stop="20251204120000 +0000" channel="DW English.mncvision">
     <title>Focus On Europe: Spotlight</title>
 </programme>
-<programme start="20251204120000 +0000" stop="20251204121500 +0000" channel="DW English.mncvision">
+<programme start="20251204120000 +0000" stop="20251204123000 +0000" channel="DW English.mncvision">
     <title>DW News</title>
-</programme>
-<programme start="20251204121500 +0000" stop="20251204124500 +0000" channel="DW English.mncvision">
-    <title>DocFilm</title>
 </programme>
 <programme start="20251203170000 +0000" stop="20251203173000 +0000" channel="Entertainment.mncvision">
     <title>Hot Spot Viral</title>
@@ -4998,7 +5036,7 @@ Error: Unable to fetch data. HTTP Status Code: 500
     <title>Rat A Tat</title>
 </programme>
 <programme start="20251203200000 +0000" stop="20251203203000 +0000" channel="Kids TV.mncvision">
-    <title>Kungfu Panda</title>
+    <title>Kung Fu Panda</title>
 </programme>
 <programme start="20251203203000 +0000" stop="20251203210000 +0000" channel="Kids TV.mncvision">
     <title>Penguins Of Madagascar</title>
@@ -5019,7 +5057,7 @@ Error: Unable to fetch data. HTTP Status Code: 500
     <title>CoComelon</title>
 </programme>
 <programme start="20251204000000 +0000" stop="20251204003000 +0000" channel="Kids TV.mncvision">
-    <title>Kungfu Panda</title>
+    <title>Kung Fu Panda</title>
 </programme>
 <programme start="20251204003000 +0000" stop="20251204010000 +0000" channel="Kids TV.mncvision">
     <title>Penguins Of Madagascar</title>
@@ -5091,7 +5129,7 @@ Error: Unable to fetch data. HTTP Status Code: 500
     <title>Rat A Tat</title>
 </programme>
 <programme start="20251203200000 +0000" stop="20251203203000 +0000" channel="Kids TV HD.mncvision">
-    <title>Kungfu Panda</title>
+    <title>Kung Fu Panda</title>
 </programme>
 <programme start="20251203203000 +0000" stop="20251203210000 +0000" channel="Kids TV HD.mncvision">
     <title>Penguins Of Madagascar</title>
@@ -5112,7 +5150,7 @@ Error: Unable to fetch data. HTTP Status Code: 500
     <title>CoComelon</title>
 </programme>
 <programme start="20251204000000 +0000" stop="20251204003000 +0000" channel="Kids TV HD.mncvision">
-    <title>Kungfu Panda</title>
+    <title>Kung Fu Panda</title>
 </programme>
 <programme start="20251204003000 +0000" stop="20251204010000 +0000" channel="Kids TV HD.mncvision">
     <title>Penguins Of Madagascar</title>
@@ -5174,7 +5212,60 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20251204160000 +0000" stop="20251204163000 +0000" channel="Kids TV HD.mncvision">
     <title>Bola Koki</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20251203180500 +0000" stop="20251203185500 +0000" channel="KIX.mncvision">
+    <title>The Ultimate BROcation, Ep 4</title>
+</programme>
+<programme start="20251203185500 +0000" stop="20251203210000 +0000" channel="KIX.mncvision">
+    <title>Iron Squad W, Ep 7</title>
+</programme>
+<programme start="20251203210000 +0000" stop="20251203220000 +0000" channel="KIX.mncvision">
+    <title>10 Fight 10 S3, Ep 3</title>
+</programme>
+<programme start="20251203220000 +0000" stop="20251203231500 +0000" channel="KIX.mncvision">
+    <title>Wusong Vs Ximenqing</title>
+</programme>
+<programme start="20251203231500 +0000" stop="20251204003500 +0000" channel="KIX.mncvision">
+    <title>Iron Ball, Ep 12</title>
+</programme>
+<programme start="20251204003500 +0000" stop="20251204020500 +0000" channel="KIX.mncvision">
+    <title>Punish Evil</title>
+</programme>
+<programme start="20251204020500 +0000" stop="20251204025500 +0000" channel="KIX.mncvision">
+    <title>The Ultimate BROcation, Ep 4</title>
+</programme>
+<programme start="20251204025500 +0000" stop="20251204050000 +0000" channel="KIX.mncvision">
+    <title>Iron Squad W, Ep 7</title>
+</programme>
+<programme start="20251204050000 +0000" stop="20251204060000 +0000" channel="KIX.mncvision">
+    <title>10 Fight 10 S3, Ep 3</title>
+</programme>
+<programme start="20251204060000 +0000" stop="20251204071500 +0000" channel="KIX.mncvision">
+    <title>Wusong Vs Ximenqing</title>
+</programme>
+<programme start="20251204071500 +0000" stop="20251204083500 +0000" channel="KIX.mncvision">
+    <title>Iron Ball, Ep 12</title>
+</programme>
+<programme start="20251204083500 +0000" stop="20251204100500 +0000" channel="KIX.mncvision">
+    <title>Punish Evil</title>
+</programme>
+<programme start="20251204100500 +0000" stop="20251204105500 +0000" channel="KIX.mncvision">
+    <title>The Ultimate BROcation, Ep 4</title>
+</programme>
+<programme start="20251204105500 +0000" stop="20251204130000 +0000" channel="KIX.mncvision">
+    <title>Iron Squad W, Ep 7</title>
+</programme>
+<programme start="20251204130000 +0000" stop="20251204135500 +0000" channel="KIX.mncvision">
+    <title>10 Fight 10 S3, Ep 4</title>
+</programme>
+<programme start="20251204135500 +0000" stop="20251204142000 +0000" channel="KIX.mncvision">
+    <title>RUTE: Toughness Redefined</title>
+</programme>
+<programme start="20251204142000 +0000" stop="20251204160500 +0000" channel="KIX.mncvision">
+    <title>Iron Ball, Ep 13</title>
+</programme>
+<programme start="20251204160500 +0000" stop="20251204163500 +0000" channel="KIX.mncvision">
+    <title>Song Of The Assassins</title>
+</programme>
 <programme start="20251203170000 +0000" stop="20251203183000 +0000" channel="Kompas TV.mncvision">
     <title>Kompas Petang</title>
 </programme>
@@ -6996,8 +7087,114 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20251204074000 +0000" stop="20251204081000 +0000" channel="Nickelodeon Jr.mncvision">
     <title>Rubble &amp; Crew</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20251203173000 +0000" stop="20251203192000 +0000" channel="ONE.mncvision">
+    <title>Reveal My Star&#039;s Life, Ep 4</title>
+</programme>
+<programme start="20251203192000 +0000" stop="20251203203000 +0000" channel="ONE.mncvision">
+    <title>Delivery Man, Ep 9</title>
+</programme>
+<programme start="20251203203000 +0000" stop="20251203220000 +0000" channel="ONE.mncvision">
+    <title>Reborn Rich, Ep 6</title>
+</programme>
+<programme start="20251203220000 +0000" stop="20251203224500 +0000" channel="ONE.mncvision">
+    <title>The Woman Who..., Ep 71</title>
+</programme>
+<programme start="20251203224500 +0000" stop="20251204000500 +0000" channel="ONE.mncvision">
+    <title>Curtain Call, Ep 2</title>
+</programme>
+<programme start="20251204000500 +0000" stop="20251204012500 +0000" channel="ONE.mncvision">
+    <title>Delivery Man, Ep 9</title>
+</programme>
+<programme start="20251204012500 +0000" stop="20251204030000 +0000" channel="ONE.mncvision">
+    <title>Reborn Rich, Ep 6</title>
+</programme>
+<programme start="20251204030000 +0000" stop="20251204042500 +0000" channel="ONE.mncvision">
+    <title>Band Of Sisters, Ep 43</title>
+</programme>
+<programme start="20251204042500 +0000" stop="20251204051500 +0000" channel="ONE.mncvision">
+    <title>The Woman Who..., Ep 71</title>
+</programme>
+<programme start="20251204051500 +0000" stop="20251204063500 +0000" channel="ONE.mncvision">
+    <title>Curtain Call, Ep 2</title>
+</programme>
+<programme start="20251204063500 +0000" stop="20251204081000 +0000" channel="ONE.mncvision">
+    <title>Reborn Rich, Ep 6</title>
+</programme>
+<programme start="20251204081000 +0000" stop="20251204085500 +0000" channel="ONE.mncvision">
+    <title>The Woman Who..., Ep 71</title>
+</programme>
+<programme start="20251204085500 +0000" stop="20251204102000 +0000" channel="ONE.mncvision">
+    <title>Band Of Sisters, Ep 43</title>
+</programme>
+<programme start="20251204102000 +0000" stop="20251204113300 +0000" channel="ONE.mncvision">
+    <title>Delivery Man, Ep 10</title>
+</programme>
+<programme start="20251204113300 +0000" stop="20251204130000 +0000" channel="ONE.mncvision">
+    <title>Reborn Rich, Ep 7</title>
+</programme>
+<programme start="20251204130000 +0000" stop="20251204143000 +0000" channel="ONE.mncvision">
+    <title>Taxi Driver S3, Ep 3</title>
+</programme>
+<programme start="20251204143000 +0000" stop="20251204161500 +0000" channel="ONE.mncvision">
+    <title>The Half-Star Hotel..., Ep 4</title>
+</programme>
+<programme start="20251204161500 +0000" stop="20251204164500 +0000" channel="ONE.mncvision">
+    <title>Taxi Driver S3, Ep 3</title>
+</programme>
+<programme start="20251203173000 +0000" stop="20251203192000 +0000" channel="ONE HD.mncvision">
+    <title>Reveal My Star&#039;s Life, Ep 4</title>
+</programme>
+<programme start="20251203192000 +0000" stop="20251203203000 +0000" channel="ONE HD.mncvision">
+    <title>Delivery Man, Ep 9</title>
+</programme>
+<programme start="20251203203000 +0000" stop="20251203220000 +0000" channel="ONE HD.mncvision">
+    <title>Reborn Rich, Ep 6</title>
+</programme>
+<programme start="20251203220000 +0000" stop="20251203224500 +0000" channel="ONE HD.mncvision">
+    <title>The Woman Who..., Ep 71</title>
+</programme>
+<programme start="20251203224500 +0000" stop="20251204000500 +0000" channel="ONE HD.mncvision">
+    <title>Curtain Call, Ep 2</title>
+</programme>
+<programme start="20251204000500 +0000" stop="20251204012500 +0000" channel="ONE HD.mncvision">
+    <title>Delivery Man, Ep 9</title>
+</programme>
+<programme start="20251204012500 +0000" stop="20251204030000 +0000" channel="ONE HD.mncvision">
+    <title>Reborn Rich, Ep 6</title>
+</programme>
+<programme start="20251204030000 +0000" stop="20251204042500 +0000" channel="ONE HD.mncvision">
+    <title>Band Of Sisters, Ep 43</title>
+</programme>
+<programme start="20251204042500 +0000" stop="20251204051500 +0000" channel="ONE HD.mncvision">
+    <title>The Woman Who..., Ep 71</title>
+</programme>
+<programme start="20251204051500 +0000" stop="20251204063500 +0000" channel="ONE HD.mncvision">
+    <title>Curtain Call, Ep 2</title>
+</programme>
+<programme start="20251204063500 +0000" stop="20251204081000 +0000" channel="ONE HD.mncvision">
+    <title>Reborn Rich, Ep 6</title>
+</programme>
+<programme start="20251204081000 +0000" stop="20251204085500 +0000" channel="ONE HD.mncvision">
+    <title>The Woman Who..., Ep 71</title>
+</programme>
+<programme start="20251204085500 +0000" stop="20251204102000 +0000" channel="ONE HD.mncvision">
+    <title>Band Of Sisters, Ep 43</title>
+</programme>
+<programme start="20251204102000 +0000" stop="20251204113300 +0000" channel="ONE HD.mncvision">
+    <title>Delivery Man, Ep 10</title>
+</programme>
+<programme start="20251204113300 +0000" stop="20251204130000 +0000" channel="ONE HD.mncvision">
+    <title>Reborn Rich, Ep 7</title>
+</programme>
+<programme start="20251204130000 +0000" stop="20251204143000 +0000" channel="ONE HD.mncvision">
+    <title>Taxi Driver S3, Ep 3</title>
+</programme>
+<programme start="20251204143000 +0000" stop="20251204161500 +0000" channel="ONE HD.mncvision">
+    <title>The Half-Star Hotel..., Ep 4</title>
+</programme>
+<programme start="20251204161500 +0000" stop="20251204164500 +0000" channel="ONE HD.mncvision">
+    <title>Taxi Driver S3, Ep 3</title>
+</programme>
 <programme start="20251203170200 +0000" stop="20251203190100 +0000" channel="ORIGINALS.mncvision">
     <title>Gold</title>
 </programme>

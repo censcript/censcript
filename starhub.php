@@ -5260,10 +5260,10 @@
     <programme start="20251204020000 +0000" stop="20251204025500 +0000" channel="TestChannel 996.starhub">
         <title>Golden City (Ep 751-800) VVD Mandarin</title>
     </programme>
-    <programme start="20251204025500 +0000" stop="20251204035500 +0000" channel="TestChannel 996.starhub">
+    <programme start="20251204025500 +0000" stop="20251204035000 +0000" channel="TestChannel 996.starhub">
         <title>Prism Breaker</title>
     </programme>
-    <programme start="20251204035500 +0000" stop="20251204044500 +0000" channel="TestChannel 996.starhub">
+    <programme start="20251204035000 +0000" stop="20251204044500 +0000" channel="TestChannel 996.starhub">
         <title>The Wanted Detective</title>
     </programme>
     <programme start="20251204044500 +0000" stop="20251204051500 +0000" channel="TestChannel 996.starhub">
@@ -5275,10 +5275,10 @@
     <programme start="20251204060500 +0000" stop="20251204070000 +0000" channel="TestChannel 996.starhub">
         <title>Golden City (Ep 751-800) VVD Mandarin</title>
     </programme>
-    <programme start="20251204070000 +0000" stop="20251204081500 +0000" channel="TestChannel 996.starhub">
+    <programme start="20251204070000 +0000" stop="20251204081000 +0000" channel="TestChannel 996.starhub">
         <title>The Escape of the Seven</title>
     </programme>
-    <programme start="20251204081500 +0000" stop="20251204090000 +0000" channel="TestChannel 996.starhub">
+    <programme start="20251204081000 +0000" stop="20251204090000 +0000" channel="TestChannel 996.starhub">
         <title>Duel on Mount Hua - Nine Yin True Sutra</title>
     </programme>
     <programme start="20251204090000 +0000" stop="20251204094500 +0000" channel="TestChannel 996.starhub">
@@ -6789,6 +6789,66 @@
     </programme>
     <programme start="20251204140000 +0000" stop="20251204160000 +0000" channel="beIN Sports HD.starhub">
         <title>Formula 1 Main Race 2025: FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2025</title>
+    </programme>
+    <programme start="20251203231500 +0000" stop="20251204003000 +0000" channel="TestChannel2.starhub">
+        <title>My Perfect Stranger</title>
+    </programme>
+    <programme start="20251204003000 +0000" stop="20251204013000 +0000" channel="TestChannel2.starhub">
+        <title>Duel on Mount Hua - Nine Yin True Sutra</title>
+    </programme>
+    <programme start="20251204013000 +0000" stop="20251204020000 +0000" channel="TestChannel2.starhub">
+        <title>Lo And Behold</title>
+    </programme>
+    <programme start="20251204020000 +0000" stop="20251204025500 +0000" channel="TestChannel2.starhub">
+        <title>Golden City (Ep 751-800) VVD Mandarin</title>
+    </programme>
+    <programme start="20251204025500 +0000" stop="20251204035000 +0000" channel="TestChannel2.starhub">
+        <title>Prism Breaker</title>
+    </programme>
+    <programme start="20251204035000 +0000" stop="20251204044500 +0000" channel="TestChannel2.starhub">
+        <title>The Wanted Detective</title>
+    </programme>
+    <programme start="20251204044500 +0000" stop="20251204051500 +0000" channel="TestChannel2.starhub">
+        <title>Lo And Behold</title>
+    </programme>
+    <programme start="20251204051500 +0000" stop="20251204060500 +0000" channel="TestChannel2.starhub">
+        <title>The Heir to the Throne (with Eng Subs)</title>
+    </programme>
+    <programme start="20251204060500 +0000" stop="20251204070000 +0000" channel="TestChannel2.starhub">
+        <title>Golden City (Ep 751-800) VVD Mandarin</title>
+    </programme>
+    <programme start="20251204070000 +0000" stop="20251204081000 +0000" channel="TestChannel2.starhub">
+        <title>The Escape of the Seven</title>
+    </programme>
+    <programme start="20251204081000 +0000" stop="20251204090000 +0000" channel="TestChannel2.starhub">
+        <title>Duel on Mount Hua - Nine Yin True Sutra</title>
+    </programme>
+    <programme start="20251204090000 +0000" stop="20251204094500 +0000" channel="TestChannel2.starhub">
+        <title>Sinister Beings 2</title>
+    </programme>
+    <programme start="20251204094500 +0000" stop="20251204103500 +0000" channel="TestChannel2.starhub">
+        <title>Golden City (Ep 751-800) VVD Mandarin</title>
+    </programme>
+    <programme start="20251204103500 +0000" stop="20251204110000 +0000" channel="TestChannel2.starhub">
+        <title>Lo And Behold</title>
+    </programme>
+    <programme start="20251204110000 +0000" stop="20251204120000 +0000" channel="TestChannel2.starhub">
+        <title>Duel on Mount Hua - Nine Yin True Sutra</title>
+    </programme>
+    <programme start="20251204120000 +0000" stop="20251204130000 +0000" channel="TestChannel2.starhub">
+        <title>Prism Breaker</title>
+    </programme>
+    <programme start="20251204130000 +0000" stop="20251204140000 +0000" channel="TestChannel2.starhub">
+        <title>The Wanted Detective</title>
+    </programme>
+    <programme start="20251204140000 +0000" stop="20251204143000 +0000" channel="TestChannel2.starhub">
+        <title>Lo And Behold</title>
+    </programme>
+    <programme start="20251204143000 +0000" stop="20251204152000 +0000" channel="TestChannel2.starhub">
+        <title>The Heir to the Throne (with Eng Subs)</title>
+    </programme>
+    <programme start="20251204152000 +0000" stop="20251204161500 +0000" channel="TestChannel2.starhub">
+        <title>Golden City (Ep 751-800) VVD Mandarin</title>
     </programme>
     <programme start="20251203160000 +0000" stop="20251203163000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>NHK Newsline</title>

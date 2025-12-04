@@ -58,10 +58,6 @@
     <title>Football: SSC Napoli - Qarabag FK</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251204090000 +0700" stop="20251204093500 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Serie A Full Impact 2025-26 E13</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251204093500 +0700" stop="20251204114000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Marko - Levadiakos</title>
     <desc>Live: Tidak</desc>
@@ -116,6 +112,10 @@
 </programme>
 <programme start="20251205093000 +0700" stop="20251205100000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Serie A Full Impact 2025-26 E13</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251205100000 +0700" stop="20251205120000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Como - Sassuolo</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251204090000 +0700" stop="20251204120000 +0700" channel="COSMOTE Sport 3 HD">
@@ -222,6 +222,14 @@
     <title>Basketball: Philadelphia 76ers - Golden State Warriors (L)</title>
     <desc>Live: Ya</desc>
 </programme>
+<programme start="20251205100000 +0700" stop="20251205103000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>NBA Specials</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251205103000 +0700" stop="20251205110000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>NBA Specials</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251204085500 +0700" stop="20251204110000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Motorsports: Extreme E 2025</title>
     <desc>Live: Tidak</desc>
@@ -306,8 +314,8 @@
     <title>Sports Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251204073500 +0700" stop="20251204100000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Fight Sports: UFC Fight Night 2025</title>
+<programme start="20251205100500 +0700" stop="20251205110000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>2025 GT World Challenge Europe</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251204100000 +0700" stop="20251204110000 +0700" channel="COSMOTE Sport 6 HD">
@@ -400,6 +408,14 @@
 </programme>
 <programme start="20251205070000 +0700" stop="20251205101500 +0700" channel="COSMOTE Sport 6 HD">
     <title>Fight Sports: UFC Fight Night 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251205101500 +0700" stop="20251205103000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Sports Classics: Worldies E13</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251205103000 +0700" stop="20251205110000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Sports Classics: The Outdoor Sports Show 2025 E11</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251204090000 +0700" stop="20251204110000 +0700" channel="COSMOTE Sport 7 HD">
