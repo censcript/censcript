@@ -76,7 +76,129 @@
 <programme start="20251205164000 +0000" stop="20251204171000 +0000" channel="ABC Australia.mncvision">
     <title>Annabel Crabb&#039;s Civic Duty</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20251204170000 +0000" stop="20251204173000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20251204173000 +0000" stop="20251204180000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Inside Story</title>
+</programme>
+<programme start="20251204180000 +0000" stop="20251204190000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
+</programme>
+<programme start="20251204190000 +0000" stop="20251204193000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20251204193000 +0000" stop="20251204200000 +0000" channel="Al Jazeera English.mncvision">
+    <title>The Stream: Climate Change</title>
+</programme>
+<programme start="20251204200000 +0000" stop="20251204203000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20251204203000 +0000" stop="20251204210000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Inside Story</title>
+</programme>
+<programme start="20251204210000 +0000" stop="20251204220000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
+</programme>
+<programme start="20251204220000 +0000" stop="20251204223000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20251204223000 +0000" stop="20251204230000 +0000" channel="Al Jazeera English.mncvision">
+    <title>101 East: Maternal Mortality</title>
+</programme>
+<programme start="20251204230000 +0000" stop="20251204233000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20251204233000 +0000" stop="20251205000000 +0000" channel="Al Jazeera English.mncvision">
+    <title>India-Pakistan: New Red Line</title>
+</programme>
+<programme start="20251205000000 +0000" stop="20251205003000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20251205003000 +0000" stop="20251205010000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Inside Story</title>
+</programme>
+<programme start="20251205010000 +0000" stop="20251205020000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Witness: Searching For Amani</title>
+</programme>
+<programme start="20251205020000 +0000" stop="20251205023000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20251205023000 +0000" stop="20251205030000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Nuked: The Testing</title>
+</programme>
+<programme start="20251205030000 +0000" stop="20251205033000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20251205033000 +0000" stop="20251205040000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Fault Lines: All That Remains</title>
+</programme>
+<programme start="20251205040000 +0000" stop="20251205043000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20251205043000 +0000" stop="20251205050000 +0000" channel="Al Jazeera English.mncvision">
+    <title>The Stream: Climate Change</title>
+</programme>
+<programme start="20251205050000 +0000" stop="20251205053000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20251205053000 +0000" stop="20251205060000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Inside Story</title>
+</programme>
+<programme start="20251205060000 +0000" stop="20251205063000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20251205063000 +0000" stop="20251205070000 +0000" channel="Al Jazeera English.mncvision">
+    <title>India-Pakistan: New Red Line</title>
+</programme>
+<programme start="20251205070000 +0000" stop="20251205080000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
+</programme>
+<programme start="20251205080000 +0000" stop="20251205083000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20251205083000 +0000" stop="20251205090000 +0000" channel="Al Jazeera English.mncvision">
+    <title>101 East: Maternal Mortality</title>
+</programme>
+<programme start="20251205090000 +0000" stop="20251205093000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20251205093000 +0000" stop="20251205100000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Witness: Cobalt Miners</title>
+</programme>
+<programme start="20251205100000 +0000" stop="20251205110000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
+</programme>
+<programme start="20251205110000 +0000" stop="20251205113000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20251205113000 +0000" stop="20251205120000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Inside Story</title>
+</programme>
+<programme start="20251205120000 +0000" stop="20251205123000 +0000" channel="Al Jazeera English.mncvision">
+    <title>The Bottom Line</title>
+</programme>
+<programme start="20251205123000 +0000" stop="20251205130000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Earthrise: Change Of Power</title>
+</programme>
+<programme start="20251205130000 +0000" stop="20251205140000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
+</programme>
+<programme start="20251205140000 +0000" stop="20251205143000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20251205143000 +0000" stop="20251205150000 +0000" channel="Al Jazeera English.mncvision">
+    <title>The Stream: Climate Change</title>
+</programme>
+<programme start="20251205150000 +0000" stop="20251205160000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
+</programme>
+<programme start="20251205160000 +0000" stop="20251205163000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20251205163000 +0000" stop="20251204170000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Nuked: The Testing</title>
+</programme>
 <programme start="20251204170000 +0000" stop="20251204190000 +0000" channel="Al Quran Al Kareem.mncvision">
     <title>Live From Mekkah</title>
 </programme>
@@ -3218,7 +3340,126 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20251205160000 +0000" stop="20251205163000 +0000" channel="Fight Sports.mncvision">
     <title>FS MMA: McLellan Vs Du Plessis</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20251204170000 +0000" stop="20251204173000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Indonesian Authentic Places</title>
+</programme>
+<programme start="20251204173000 +0000" stop="20251204180000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Let&#039;s Go</title>
+</programme>
+<programme start="20251204180000 +0000" stop="20251204183000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Extreme Kuliner</title>
+</programme>
+<programme start="20251204183000 +0000" stop="20251204193000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Untung Ada Rudy</title>
+</programme>
+<programme start="20251204193000 +0000" stop="20251204203000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Dapur Ngebor</title>
+</programme>
+<programme start="20251204203000 +0000" stop="20251204210000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Ada Tamu Gokil</title>
+</programme>
+<programme start="20251204210000 +0000" stop="20251204213000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Travel Addict</title>
+</programme>
+<programme start="20251204213000 +0000" stop="20251204220000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Rating 5</title>
+</programme>
+<programme start="20251204220000 +0000" stop="20251204223000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Indonesian Authentic Places</title>
+</programme>
+<programme start="20251204223000 +0000" stop="20251204230000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Celebs Food</title>
+</programme>
+<programme start="20251204230000 +0000" stop="20251204233000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Celebs Trip</title>
+</programme>
+<programme start="20251204233000 +0000" stop="20251205000000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Around The World</title>
+</programme>
+<programme start="20251205000000 +0000" stop="20251205003000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Selebriti Masak?</title>
+</programme>
+<programme start="20251205003000 +0000" stop="20251205010000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Viral Kuliner</title>
+</programme>
+<programme start="20251205010000 +0000" stop="20251205013000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Viral Kuliner Review</title>
+</programme>
+<programme start="20251205013000 +0000" stop="20251205020000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Kuliner Anak Nusantara</title>
+</programme>
+<programme start="20251205020000 +0000" stop="20251205023000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Rating 5</title>
+</programme>
+<programme start="20251205023000 +0000" stop="20251205030000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Extreme Kuliner</title>
+</programme>
+<programme start="20251205030000 +0000" stop="20251205033000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Around The World</title>
+</programme>
+<programme start="20251205033000 +0000" stop="20251205040000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Let&#039;s Go</title>
+</programme>
+<programme start="20251205040000 +0000" stop="20251205050000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Untung Ada Rudy</title>
+</programme>
+<programme start="20251205050000 +0000" stop="20251205060000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Makan Bareng Luna</title>
+</programme>
+<programme start="20251205060000 +0000" stop="20251205063000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Viral Kuliner</title>
+</programme>
+<programme start="20251205063000 +0000" stop="20251205070000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Viral Kuliner Review</title>
+</programme>
+<programme start="20251205070000 +0000" stop="20251205080000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Dapur Ngebor</title>
+</programme>
+<programme start="20251205080000 +0000" stop="20251205083000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Let&#039;s Go</title>
+</programme>
+<programme start="20251205083000 +0000" stop="20251205090000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Kuliner Anak Nusantara</title>
+</programme>
+<programme start="20251205090000 +0000" stop="20251205100000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Untung Ada Rudy</title>
+</programme>
+<programme start="20251205100000 +0000" stop="20251205110000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Makan Bareng Luna</title>
+</programme>
+<programme start="20251205110000 +0000" stop="20251205113000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Viral Kuliner Review</title>
+</programme>
+<programme start="20251205113000 +0000" stop="20251205120000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Viral Kuliner</title>
+</programme>
+<programme start="20251205120000 +0000" stop="20251205123000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Rating 5</title>
+</programme>
+<programme start="20251205123000 +0000" stop="20251205130000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Indonesian Authentic Places</title>
+</programme>
+<programme start="20251205130000 +0000" stop="20251205133000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Celebs Food</title>
+</programme>
+<programme start="20251205133000 +0000" stop="20251205140000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Extreme Kuliner</title>
+</programme>
+<programme start="20251205140000 +0000" stop="20251205143000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Around The World</title>
+</programme>
+<programme start="20251205143000 +0000" stop="20251205150000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Selebriti Masak?</title>
+</programme>
+<programme start="20251205150000 +0000" stop="20251205153000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Ada Tamu Gokil</title>
+</programme>
+<programme start="20251205153000 +0000" stop="20251205160000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Travel Addict</title>
+</programme>
+<programme start="20251205160000 +0000" stop="20251205163000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Makan Bareng Luna</title>
+</programme>
 <programme start="20251204170000 +0000" stop="20251204173000 +0000" channel="Food Travel HD.mncvision">
     <title>Indonesian Authentic Places</title>
 </programme>
@@ -4362,7 +4603,93 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20251205163000 +0000" stop="20251204170000 +0000" channel="IDX.mncvision">
     <title>New Top Files</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20251204173000 +0000" stop="20251204183000 +0000" channel="IDX HD.mncvision">
+    <title>Prime Market Highlight</title>
+</programme>
+<programme start="20251204183000 +0000" stop="20251204193000 +0000" channel="IDX HD.mncvision">
+    <title>Market Review</title>
+</programme>
+<programme start="20251204193000 +0000" stop="20251204203000 +0000" channel="IDX HD.mncvision">
+    <title>Market Headlines</title>
+</programme>
+<programme start="20251204203000 +0000" stop="20251204213000 +0000" channel="IDX HD.mncvision">
+    <title>OMG IDX</title>
+</programme>
+<programme start="20251204213000 +0000" stop="20251204220000 +0000" channel="IDX HD.mncvision">
+    <title>Technobizz</title>
+</programme>
+<programme start="20251204220000 +0000" stop="20251204230000 +0000" channel="IDX HD.mncvision">
+    <title>New Top Files</title>
+</programme>
+<programme start="20251204230000 +0000" stop="20251205000000 +0000" channel="IDX HD.mncvision">
+    <title>Prime Market Highlight</title>
+</programme>
+<programme start="20251205000000 +0000" stop="20251205010000 +0000" channel="IDX HD.mncvision">
+    <title>Market Headlines</title>
+</programme>
+<programme start="20251205010000 +0000" stop="20251205013000 +0000" channel="IDX HD.mncvision">
+    <title>IDXTainment</title>
+</programme>
+<programme start="20251205013000 +0000" stop="20251205023000 +0000" channel="IDX HD.mncvision">
+    <title>Market Buzz (L)</title>
+</programme>
+<programme start="20251205023000 +0000" stop="20251205033000 +0000" channel="IDX HD.mncvision">
+    <title>Market Review</title>
+</programme>
+<programme start="20251205033000 +0000" stop="20251205043000 +0000" channel="IDX HD.mncvision">
+    <title>New Top Files</title>
+</programme>
+<programme start="20251205043000 +0000" stop="20251205050000 +0000" channel="IDX HD.mncvision">
+    <title>IDX 1st Closing Market (L)</title>
+</programme>
+<programme start="20251205050000 +0000" stop="20251205053000 +0000" channel="IDX HD.mncvision">
+    <title>IDXTainment</title>
+</programme>
+<programme start="20251205053000 +0000" stop="20251205063000 +0000" channel="IDX HD.mncvision">
+    <title>Prime Market Highlight</title>
+</programme>
+<programme start="20251205063000 +0000" stop="20251205070000 +0000" channel="IDX HD.mncvision">
+    <title>Rating 5</title>
+</programme>
+<programme start="20251205070000 +0000" stop="20251205073000 +0000" channel="IDX HD.mncvision">
+    <title>I Love Indonesia</title>
+</programme>
+<programme start="20251205073000 +0000" stop="20251205083000 +0000" channel="IDX HD.mncvision">
+    <title>New Top Files</title>
+</programme>
+<programme start="20251205083000 +0000" stop="20251205093000 +0000" channel="IDX HD.mncvision">
+    <title>IDX 2nd Closing Market (L)</title>
+</programme>
+<programme start="20251205093000 +0000" stop="20251205103000 +0000" channel="IDX HD.mncvision">
+    <title>OMG IDX</title>
+</programme>
+<programme start="20251205103000 +0000" stop="20251205110000 +0000" channel="IDX HD.mncvision">
+    <title>Kalaparan</title>
+</programme>
+<programme start="20251205110000 +0000" stop="20251205113000 +0000" channel="IDX HD.mncvision">
+    <title>Food Diary</title>
+</programme>
+<programme start="20251205113000 +0000" stop="20251205120000 +0000" channel="IDX HD.mncvision">
+    <title>IDXTainment</title>
+</programme>
+<programme start="20251205120000 +0000" stop="20251205130000 +0000" channel="IDX HD.mncvision">
+    <title>Tukang Makan</title>
+</programme>
+<programme start="20251205130000 +0000" stop="20251205140000 +0000" channel="IDX HD.mncvision">
+    <title>Prime Market Highlight (L)</title>
+</programme>
+<programme start="20251205140000 +0000" stop="20251205150000 +0000" channel="IDX HD.mncvision">
+    <title>Market Review (L)</title>
+</programme>
+<programme start="20251205150000 +0000" stop="20251205160000 +0000" channel="IDX HD.mncvision">
+    <title>Market Headlines</title>
+</programme>
+<programme start="20251205160000 +0000" stop="20251205163000 +0000" channel="IDX HD.mncvision">
+    <title>Technobizz</title>
+</programme>
+<programme start="20251205163000 +0000" stop="20251204170000 +0000" channel="IDX HD.mncvision">
+    <title>New Top Files</title>
+</programme>
 <programme start="20251204174000 +0000" stop="20251204203000 +0000" channel="IMC.mncvision">
     <title>Kabut Sutra Ungu</title>
 </programme>
@@ -5044,7 +5371,108 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20251205163000 +0000" stop="20251204170000 +0000" channel="Kompas TV.mncvision">
     <title>Kilas Kompas</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20251204173000 +0000" stop="20251204183000 +0000" channel="LIFE.mncvision">
+    <title>AnugerahNya</title>
+</programme>
+<programme start="20251204183000 +0000" stop="20251204193000 +0000" channel="LIFE.mncvision">
+    <title>Rumah CGN Keluarga</title>
+</programme>
+<programme start="20251204193000 +0000" stop="20251204203000 +0000" channel="LIFE.mncvision">
+    <title>Bukan Untuk Orang Sempurna</title>
+</programme>
+<programme start="20251204203000 +0000" stop="20251204210000 +0000" channel="LIFE.mncvision">
+    <title>Solusi</title>
+</programme>
+<programme start="20251204210000 +0000" stop="20251204213000 +0000" channel="LIFE.mncvision">
+    <title>Light Talk</title>
+</programme>
+<programme start="20251204213000 +0000" stop="20251204220000 +0000" channel="LIFE.mncvision">
+    <title>The Art Of Church</title>
+</programme>
+<programme start="20251204220000 +0000" stop="20251204223000 +0000" channel="LIFE.mncvision">
+    <title>Love Revolution</title>
+</programme>
+<programme start="20251204223000 +0000" stop="20251204230000 +0000" channel="LIFE.mncvision">
+    <title>Praise And Worship</title>
+</programme>
+<programme start="20251204230000 +0000" stop="20251205000000 +0000" channel="LIFE.mncvision">
+    <title>Rumah CGN Keluarga</title>
+</programme>
+<programme start="20251205000000 +0000" stop="20251205010000 +0000" channel="LIFE.mncvision">
+    <title>Bukan Untuk Orang Sempurna</title>
+</programme>
+<programme start="20251205010000 +0000" stop="20251205020000 +0000" channel="LIFE.mncvision">
+    <title>Glow Series</title>
+</programme>
+<programme start="20251205020000 +0000" stop="20251205030000 +0000" channel="LIFE.mncvision">
+    <title>AnugerahNya</title>
+</programme>
+<programme start="20251205030000 +0000" stop="20251205033000 +0000" channel="LIFE.mncvision">
+    <title>Bimbingan Rohani Katolik</title>
+</programme>
+<programme start="20251205033000 +0000" stop="20251205040000 +0000" channel="LIFE.mncvision">
+    <title>Mujizat Itu Nyata</title>
+</programme>
+<programme start="20251205040000 +0000" stop="20251205050000 +0000" channel="LIFE.mncvision">
+    <title>GBI VIFA</title>
+</programme>
+<programme start="20251205050000 +0000" stop="20251205053000 +0000" channel="LIFE.mncvision">
+    <title>Light Talk</title>
+</programme>
+<programme start="20251205053000 +0000" stop="20251205060000 +0000" channel="LIFE.mncvision">
+    <title>The Art Of Church</title>
+</programme>
+<programme start="20251205060000 +0000" stop="20251205063000 +0000" channel="LIFE.mncvision">
+    <title>Love Revolution</title>
+</programme>
+<programme start="20251205063000 +0000" stop="20251205070000 +0000" channel="LIFE.mncvision">
+    <title>Today&#039;s Breakthrough</title>
+</programme>
+<programme start="20251205070000 +0000" stop="20251205073000 +0000" channel="LIFE.mncvision">
+    <title>Bimbingan Rohani Katolik</title>
+</programme>
+<programme start="20251205073000 +0000" stop="20251205080000 +0000" channel="LIFE.mncvision">
+    <title>Mujizat Itu Nyata</title>
+</programme>
+<programme start="20251205080000 +0000" stop="20251205090000 +0000" channel="LIFE.mncvision">
+    <title>Glow Series</title>
+</programme>
+<programme start="20251205090000 +0000" stop="20251205093000 +0000" channel="LIFE.mncvision">
+    <title>Superbook Kids Club</title>
+</programme>
+<programme start="20251205093000 +0000" stop="20251205103000 +0000" channel="LIFE.mncvision">
+    <title>Rumah CGN Keluarga</title>
+</programme>
+<programme start="20251205103000 +0000" stop="20251205113000 +0000" channel="LIFE.mncvision">
+    <title>Bukan Untuk Orang Sempurna</title>
+</programme>
+<programme start="20251205113000 +0000" stop="20251205123000 +0000" channel="LIFE.mncvision">
+    <title>AnugerahNya</title>
+</programme>
+<programme start="20251205123000 +0000" stop="20251205130000 +0000" channel="LIFE.mncvision">
+    <title>Light Talk</title>
+</programme>
+<programme start="20251205130000 +0000" stop="20251205133000 +0000" channel="LIFE.mncvision">
+    <title>The Art Of Church</title>
+</programme>
+<programme start="20251205133000 +0000" stop="20251205140000 +0000" channel="LIFE.mncvision">
+    <title>Love Revolution</title>
+</programme>
+<programme start="20251205140000 +0000" stop="20251205150000 +0000" channel="LIFE.mncvision">
+    <title>GBI VIFA</title>
+</programme>
+<programme start="20251205150000 +0000" stop="20251205153000 +0000" channel="LIFE.mncvision">
+    <title>Praise And Worship</title>
+</programme>
+<programme start="20251205153000 +0000" stop="20251205160000 +0000" channel="LIFE.mncvision">
+    <title>In The Gap With Choco De Jesus</title>
+</programme>
+<programme start="20251205160000 +0000" stop="20251205163000 +0000" channel="LIFE.mncvision">
+    <title>Solusi</title>
+</programme>
+<programme start="20251205163000 +0000" stop="20251204170000 +0000" channel="LIFE.mncvision">
+    <title>Glow Series</title>
+</programme>
 <programme start="20251204173500 +0000" stop="20251204183500 +0000" channel="Lifetime.mncvision">
     <title>Zombie House Flipping S6, Ep 80</title>
 </programme>
@@ -5756,7 +6184,6 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20251205162400 +0000" stop="20251205165400 +0000" channel="Moonbug.mncvision">
     <title>CoComelon</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20251204190000 +0000" stop="20251204200000 +0000" channel="Music TV.mncvision">
     <title>Godain</title>
 </programme>
@@ -6840,7 +7267,42 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20251205150700 +0000" stop="20251205153700 +0000" channel="ORIGINALS.mncvision">
     <title>The Escape Of Prisoner 614</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20251204173000 +0000" stop="20251204190300 +0000" channel="ORIGINALS HD.mncvision">
+    <title>A Vigilante</title>
+</programme>
+<programme start="20251204190300 +0000" stop="20251204224600 +0000" channel="ORIGINALS HD.mncvision">
+    <title>Gold</title>
+</programme>
+<programme start="20251204224600 +0000" stop="20251205001900 +0000" channel="ORIGINALS HD.mncvision">
+    <title>10 Days With Dad</title>
+</programme>
+<programme start="20251205001900 +0000" stop="20251205020800 +0000" channel="ORIGINALS HD.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20251205020800 +0000" stop="20251205041600 +0000" channel="ORIGINALS HD.mncvision">
+    <title>The Road Dance</title>
+</programme>
+<programme start="20251205041600 +0000" stop="20251205060300 +0000" channel="ORIGINALS HD.mncvision">
+    <title>Gold</title>
+</programme>
+<programme start="20251205060300 +0000" stop="20251205075100 +0000" channel="ORIGINALS HD.mncvision">
+    <title>Hidden Identity</title>
+</programme>
+<programme start="20251205075100 +0000" stop="20251205091500 +0000" channel="ORIGINALS HD.mncvision">
+    <title>Full Out 2: You Got This!</title>
+</programme>
+<programme start="20251205091500 +0000" stop="20251205111600 +0000" channel="ORIGINALS HD.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20251205111600 +0000" stop="20251205125700 +0000" channel="ORIGINALS HD.mncvision">
+    <title>Never Grow Old</title>
+</programme>
+<programme start="20251205125700 +0000" stop="20251205150700 +0000" channel="ORIGINALS HD.mncvision">
+    <title>Gold</title>
+</programme>
+<programme start="20251205150700 +0000" stop="20251205153700 +0000" channel="ORIGINALS HD.mncvision">
+    <title>The Escape Of Prisoner 614</title>
+</programme>
 <programme start="20251204170000 +0000" stop="20251204173000 +0000" channel="Outdoor Channel.mncvision">
     <title>Hard Truths Of... S2, Ep 5</title>
 </programme>

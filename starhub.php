@@ -7216,6 +7216,9 @@
     <programme start="20251205063000 +0000" stop="20251205070000 +0000" channel="COLORS.starhub">
         <title>Binddii</title>
     </programme>
+    <programme start="20251205070000 +0000" stop="20251205080000 +0000" channel="COLORS.starhub">
+        <title>Mangal Lakshmi</title>
+    </programme>
     <programme start="20251205080000 +0000" stop="20251205083000 +0000" channel="COLORS.starhub">
         <title>Seher Hone Ko Hai</title>
     </programme>
@@ -7224,6 +7227,9 @@
     </programme>
     <programme start="20251205090000 +0000" stop="20251205093000 +0000" channel="COLORS.starhub">
         <title>Mannat Harr Khushi Paane Ki</title>
+    </programme>
+    <programme start="20251205093000 +0000" stop="20251205103000 +0000" channel="COLORS.starhub">
+        <title>Mangal Lakshmi</title>
     </programme>
     <programme start="20251205103000 +0000" stop="20251205110000 +0000" channel="COLORS.starhub">
         <title>Noyontara</title>
@@ -7249,7 +7255,7 @@
     <programme start="20251205150000 +0000" stop="20251205153000 +0000" channel="COLORS.starhub">
         <title>Shiv-Shakti Tap..Tyaag..Tandav</title>
     </programme>
-    <programme start="20251205153000 +0000" stop="20251205163000 +0000" channel="COLORS.starhub">
+    <programme start="20251205153000 +0000" stop="20251205160000 +0000" channel="COLORS.starhub">
         <title>Mangal Lakshmi</title>
     </programme>
     <programme start="20251204160000 +0000" stop="20251204163000 +0000" channel="BBC World News HD.starhub">
