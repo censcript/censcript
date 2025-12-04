@@ -1,7 +1,3 @@
-<programme start="20251204200000 +0700" stop="20251204220000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: Strasbourg - Crystal Palace</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251204220000 +0700" stop="20251205001500 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Iraklis - Panetolikos (L)</title>
     <desc>Live: Ya</desc>
@@ -118,6 +114,10 @@
     <title>Football: Juventus Football Club - Cagliari</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251205222000 +0700" stop="20251206002000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Atalanta - ACF Fiorentina</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251204203000 +0700" stop="20251204223000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Dundee United - Rangers FC</title>
     <desc>Live: Tidak</desc>
@@ -186,8 +186,8 @@
     <title>Football: Palmeiras - Flamengo</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251204193000 +0700" stop="20251204213000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Gran Canaria - Barcelona</title>
+<programme start="20251205223000 +0700" stop="20251205230000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Emirates FA Cup 2025-26 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251204213000 +0700" stop="20251204234000 +0700" channel="COSMOTE Sport 4 HD">
@@ -248,10 +248,6 @@
 </programme>
 <programme start="20251205214500 +0700" stop="20251206001000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Badalona - Hapoel Holon</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251204200000 +0700" stop="20251204210500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: Extreme E 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251204210500 +0700" stop="20251204231000 +0700" channel="COSMOTE Sport 5 HD">
@@ -350,6 +346,10 @@
     <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251205223500 +0700" stop="20251205232500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251204204500 +0700" stop="20251204222500 +0700" channel="COSMOTE Sport 6 HD">
     <title>Handball: ThSV Eisenach - THW Kiel</title>
     <desc>Live: Tidak</desc>
@@ -436,6 +436,10 @@
 </programme>
 <programme start="20251205204500 +0700" stop="20251205223000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Handball: Lemgo Lippe - SG Flensburg-Handewitt</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251205223000 +0700" stop="20251205233000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Nitto ATP Finals 2025 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251204210000 +0700" stop="20251204230000 +0700" channel="COSMOTE Sport 7 HD">
