@@ -7228,7 +7228,7 @@
     <programme start="20251204150000 +0000" stop="20251204153000 +0000" channel="COLORS.starhub">
         <title>Shiv-Shakti Tap..Tyaag..Tandav</title>
     </programme>
-    <programme start="20251204153000 +0000" stop="20251204163000 +0000" channel="COLORS.starhub">
+    <programme start="20251204153000 +0000" stop="20251204160000 +0000" channel="COLORS.starhub">
         <title>Mangal Lakshmi</title>
     </programme>
     <programme start="20251203160000 +0000" stop="20251203163000 +0000" channel="BBC World News HD.starhub">
