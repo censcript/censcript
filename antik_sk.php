@@ -17851,6 +17851,126 @@
   <programme start="20251206220000 +0000" stop="20251206230000 +0000" channel="Al Jazeera.webtv.sk">
     <title lang="id">News Bulletin</title>
   </programme>
+  <programme start="20251205230000 +0000" stop="20251205233000 +0000" channel="Sky News.webtv.sk">
+    <title lang="id">News and Press Preview</title>
+  </programme>
+  <programme start="20251205233000 +0000" stop="20251206000000 +0000" channel="Sky News.webtv.sk">
+    <title lang="id">Press Preview</title>
+  </programme>
+  <programme start="20251206000000 +0000" stop="20251206010000 +0000" channel="Sky News.webtv.sk">
+    <title lang="id">Sky News</title>
+  </programme>
+  <programme start="20251206010000 +0000" stop="20251206020000 +0000" channel="Sky News.webtv.sk">
+    <title lang="id">Sky News</title>
+  </programme>
+  <programme start="20251206020000 +0000" stop="20251206030000 +0000" channel="Sky News.webtv.sk">
+    <title lang="id">Sky News</title>
+  </programme>
+  <programme start="20251206030000 +0000" stop="20251206040000 +0000" channel="Sky News.webtv.sk">
+    <title lang="id">Sky News</title>
+  </programme>
+  <programme start="20251206040000 +0000" stop="20251206050000 +0000" channel="Sky News.webtv.sk">
+    <title lang="id">Sky News</title>
+  </programme>
+  <programme start="20251206050000 +0000" stop="20251206060000 +0000" channel="Sky News.webtv.sk">
+    <title lang="id">Sky News</title>
+  </programme>
+  <programme start="20251206060000 +0000" stop="20251206063000 +0000" channel="Sky News.webtv.sk">
+    <title lang="id">Mornings with Jones and Melbourne</title>
+  </programme>
+  <programme start="20251206063000 +0000" stop="20251206070000 +0000" channel="Sky News.webtv.sk">
+    <title lang="id">Mornings with Jones and Melbourne</title>
+  </programme>
+  <programme start="20251206070000 +0000" stop="20251206073000 +0000" channel="Sky News.webtv.sk">
+    <title lang="id">Mornings with Jones and Melbourne</title>
+  </programme>
+  <programme start="20251206073000 +0000" stop="20251206080000 +0000" channel="Sky News.webtv.sk">
+    <title lang="id">Mornings with Jones and Melbourne</title>
+  </programme>
+  <programme start="20251206080000 +0000" stop="20251206083000 +0000" channel="Sky News.webtv.sk">
+    <title lang="id">Mornings with Jones and Melbourne</title>
+  </programme>
+  <programme start="20251206083000 +0000" stop="20251206090000 +0000" channel="Sky News.webtv.sk">
+    <title lang="id">Mornings with Jones and Melbourne</title>
+  </programme>
+  <programme start="20251206090000 +0000" stop="20251206093000 +0000" channel="Sky News.webtv.sk">
+    <title lang="id">Mornings with Jones and Melbourne</title>
+  </programme>
+  <programme start="20251206093000 +0000" stop="20251206100000 +0000" channel="Sky News.webtv.sk">
+    <title lang="id">Mornings with Jones and Melbourne</title>
+  </programme>
+  <programme start="20251206100000 +0000" stop="20251206103000 +0000" channel="Sky News.webtv.sk">
+    <title lang="id">Sky News Today with Sam Washington</title>
+  </programme>
+  <programme start="20251206103000 +0000" stop="20251206110000 +0000" channel="Sky News.webtv.sk">
+    <title lang="id">Sky News Today With Matt Barbet</title>
+  </programme>
+  <programme start="20251206110000 +0000" stop="20251206113000 +0000" channel="Sky News.webtv.sk">
+    <title lang="id">Sky News Today with Sam Washington</title>
+  </programme>
+  <programme start="20251206113000 +0000" stop="20251206120000 +0000" channel="Sky News.webtv.sk">
+    <title lang="id">Sky News Today with Sam Washington</title>
+  </programme>
+  <programme start="20251206120000 +0000" stop="20251206123000 +0000" channel="Sky News.webtv.sk">
+    <title lang="id">Sky News Today with Sam Washington</title>
+  </programme>
+  <programme start="20251206123000 +0000" stop="20251206130000 +0000" channel="Sky News.webtv.sk">
+    <title lang="id">Sky News Today with Sam Washington</title>
+  </programme>
+  <programme start="20251206130000 +0000" stop="20251206133000 +0000" channel="Sky News.webtv.sk">
+    <title lang="id">Sky News Today with Sam Washington</title>
+  </programme>
+  <programme start="20251206133000 +0000" stop="20251206140000 +0000" channel="Sky News.webtv.sk">
+    <title lang="id">Politics Hub</title>
+  </programme>
+  <programme start="20251206140000 +0000" stop="20251206150000 +0000" channel="Sky News.webtv.sk">
+    <title lang="id">Prey: Inside Today&apos;s Grooming Gangs</title>
+  </programme>
+  <programme start="20251206150000 +0000" stop="20251206153000 +0000" channel="Sky News.webtv.sk">
+    <title lang="id">Sky News Today</title>
+  </programme>
+  <programme start="20251206153000 +0000" stop="20251206160000 +0000" channel="Sky News.webtv.sk">
+    <title lang="id">Sky News Today</title>
+  </programme>
+  <programme start="20251206160000 +0000" stop="20251206163000 +0000" channel="Sky News.webtv.sk">
+    <title lang="id">Sky News Today</title>
+  </programme>
+  <programme start="20251206163000 +0000" stop="20251206170000 +0000" channel="Sky News.webtv.sk">
+    <title lang="id">Politics Hub</title>
+  </programme>
+  <programme start="20251206170000 +0000" stop="20251206173000 +0000" channel="Sky News.webtv.sk">
+    <title lang="id">The News Hour With Jonathan Samuels</title>
+  </programme>
+  <programme start="20251206173000 +0000" stop="20251206180000 +0000" channel="Sky News.webtv.sk">
+    <title lang="id">The News Hour With Jonathan Samuels</title>
+  </programme>
+  <programme start="20251206180000 +0000" stop="20251206183000 +0000" channel="Sky News.webtv.sk">
+    <title lang="id">The News Hour With Jonathan Samuels</title>
+  </programme>
+  <programme start="20251206183000 +0000" stop="20251206190000 +0000" channel="Sky News.webtv.sk">
+    <title lang="id">The News Hour With Jonathan Samuels</title>
+  </programme>
+  <programme start="20251206190000 +0000" stop="20251206193000 +0000" channel="Sky News.webtv.sk">
+    <title lang="id">Sky News</title>
+  </programme>
+  <programme start="20251206193000 +0000" stop="20251206200000 +0000" channel="Sky News.webtv.sk">
+    <title lang="id">Politics Hub</title>
+  </programme>
+  <programme start="20251206200000 +0000" stop="20251206210000 +0000" channel="Sky News.webtv.sk">
+    <title lang="id">Prey: Inside Today&apos;s Grooming Gangs</title>
+  </programme>
+  <programme start="20251206210000 +0000" stop="20251206213000 +0000" channel="Sky News.webtv.sk">
+    <title lang="id">Sky News</title>
+  </programme>
+  <programme start="20251206213000 +0000" stop="20251206220000 +0000" channel="Sky News.webtv.sk">
+    <title lang="id">World with Yalda Hakim</title>
+  </programme>
+  <programme start="20251206220000 +0000" stop="20251206223000 +0000" channel="Sky News.webtv.sk">
+    <title lang="id">Sky News At 10 With Gillian Joseph</title>
+  </programme>
+  <programme start="20251206223000 +0000" stop="20251206230000 +0000" channel="Sky News.webtv.sk">
+    <title lang="id">Press Preview</title>
+  </programme>
   <programme start="20251205230000 +0000" stop="20251205231000 +0000" channel="France 24 English.webtv.sk">
     <title lang="id">NEWS</title>
   </programme>

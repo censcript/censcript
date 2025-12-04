@@ -3898,8 +3898,11 @@
     <programme start="20251204120000 +0000" stop="20251204130000 +0000" channel="NHK World Premium HD.starhub">
         <title>News Watch 9 (B)</title>
     </programme>
-    <programme start="20251204130000 +0000" stop="20251204134500 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20251204130000 +0000" stop="20251204134300 +0000" channel="NHK World Premium HD.starhub">
         <title>Songs of Our Generation</title>
+    </programme>
+    <programme start="20251204134300 +0000" stop="20251204134500 +0000" channel="NHK World Premium HD.starhub">
+        <title>Mini Program</title>
     </programme>
     <programme start="20251204134500 +0000" stop="20251204140000 +0000" channel="NHK World Premium HD.starhub">
         <title>Night Serial Drama &quot;Hirayasumi&quot;</title>

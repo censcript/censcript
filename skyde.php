@@ -3175,10 +3175,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>F1: Rennen - GP Katar</title>
 </programme>
 <programme start="20251204154500 +0000" stop="20251204174500 +0000" channel="Sky Sport UHD.skyde">
-    <title>DFB-Pokal: 1. FC Köln - FC Bayern München, 2. Runde</title>
+    <title>DFB-Pokal: Borussia Dortmund - Bayer Leverkusen, Achtelfinale</title>
 </programme>
 <programme start="20251204154500 +0000" stop="20251204174500 +0000" channel="Sky Sport UHD.skyde">
-    <title>DFB-Pokal: Borussia Dortmund - Bayer Leverkusen, Achtelfinale</title>
+    <title>DFB-Pokal: 1. FC Köln - FC Bayern München, 2. Runde</title>
 </programme>
 <programme start="20251204174500 +0000" stop="20251204195000 +0000" channel="Sky Sport UHD.skyde">
     <title>PL: Crystal Palace - Manchester United, 13. Spieltag</title>
@@ -3588,10 +3588,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251204050000 +0000" stop="20251204063000 +0000" channel="Warner TV Film.skyde">
     <title>Die Letzten vom Red River</title>
 </programme>
-<programme start="20251204063000 +0000" stop="20251204100000 +0000" channel="Warner TV Film.skyde">
+<programme start="20251204063000 +0000" stop="20251204100500 +0000" channel="Warner TV Film.skyde">
     <title>Ben-Hur</title>
 </programme>
-<programme start="20251204100000 +0000" stop="20251204113500 +0000" channel="Warner TV Film.skyde">
+<programme start="20251204100500 +0000" stop="20251204113500 +0000" channel="Warner TV Film.skyde">
     <title>The Big Wedding</title>
 </programme>
 <programme start="20251204113500 +0000" stop="20251204132000 +0000" channel="Warner TV Film.skyde">
@@ -3600,10 +3600,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251204132000 +0000" stop="20251204152000 +0000" channel="Warner TV Film.skyde">
     <title>G.I. Joe: Geheimauftrag Cobra</title>
 </programme>
-<programme start="20251204152000 +0000" stop="20251204171500 +0000" channel="Warner TV Film.skyde">
+<programme start="20251204152000 +0000" stop="20251204171000 +0000" channel="Warner TV Film.skyde">
     <title>The Drop - Bargeld</title>
 </programme>
-<programme start="20251204171500 +0000" stop="20251204191500 +0000" channel="Warner TV Film.skyde">
+<programme start="20251204171000 +0000" stop="20251204191500 +0000" channel="Warner TV Film.skyde">
     <title>Das A-Team - Der Film</title>
 </programme>
 <programme start="20251204191500 +0000" stop="20251204212500 +0000" channel="Warner TV Film.skyde">
