@@ -1,7 +1,5 @@
 
 Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa.serv00.net/public_html/cen/epg/skyde.php on line 135
-
-Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa.serv00.net/public_html/cen/epg/skyde.php on line 135
 <programme start="20251203230000 +0000" stop="20251203234500 +0000" channel="13th Street HD.skyde">
     <title>Law &amp; Order</title>
 </programme>
@@ -2625,7 +2623,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Admiral BL: SK Puntigamer Sturm Graz - WSG Tirol, Nachholspiel der 4. Runde</title>
 </programme>
 <programme start="20251204081500 +0000" stop="20251204084500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>RIESENrad: Sportgrößen im Waggon 28 (Stephanie Venier)</title>
+    <title>RIESENrad: Sportgrößen im Waggon 28 (Gast: Stephanie Venier)</title>
 </programme>
 <programme start="20251204084500 +0000" stop="20251204093000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Fußball: Herzog gegen Herzig - Die Next Generation Show (Grazer SC Straßenbahn)</title>
@@ -2721,7 +2719,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>2. BL: Dein Zweitligatalk - HvK &amp; Tusche</title>
 </programme>
 <programme start="20251204160000 +0000" stop="20251204170000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>Live BL: Matchplan: XXX - YYY, 13 Spieltag</title>
+    <title>Live BL: Matchplan: RBL - SGE, 13 Spieltag</title>
 </programme>
 <programme start="20251204170000 +0000" stop="20251204173000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: Best of November</title>
@@ -2733,7 +2731,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>2. BL: Dein Zweitligatalk - HvK &amp; Tusche</title>
 </programme>
 <programme start="20251204183000 +0000" stop="20251204193000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: Matchplan: XXX - YYY, 13 Spieltag</title>
+    <title>BL: Matchplan: RBL - SGE, 13 Spieltag</title>
 </programme>
 <programme start="20251204193000 +0000" stop="20251204200000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: 90in30: B04 - BVB. 12. Spieltag</title>
@@ -2751,7 +2749,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>BL: Best of November</title>
 </programme>
 <programme start="20251204220000 +0000" stop="20251204230000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: Matchplan: XXX - YYY, 13 Spieltag</title>
+    <title>BL: Matchplan: RBL - SGE, 13 Spieltag</title>
 </programme>
 <programme start="20251203233000 +0000" stop="20251204013000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
     <title>2. BL: 1. FC Magdeburg - 1. FC Nürnberg, tipico Topspiel der Woche, 14. Spieltag</title>
@@ -2829,7 +2827,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>F1: Warm Up - Das Motorsport Spezial</title>
 </programme>
 <programme start="20251204213000 +0000" stop="20251204223000 +0000" channel="Sky Sport F1 HD.skyde">
-    <title></title>
+    <title>F1: Pressekonferenz Fahrer - GP Abu Dhabi</title>
 </programme>
 <programme start="20251204223000 +0000" stop="20251204230000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: GP Confidential</title>
@@ -2864,13 +2862,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251204213000 +0000" stop="20251205003000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: Nedbank Golf Challenge, 1. Tag in Sun City (Südafrika)</title>
 </programme>
-<programme start="20251203234500 +0000" stop="20251204014500 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20251203233000 +0000" stop="20251204013000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>DFB-Pokal: VfL Bochum - VfB Stuttgart, Achtelfinale</title>
 </programme>
-<programme start="20251204014500 +0000" stop="20251204024500 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20251204013000 +0000" stop="20251204023000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>DFB-Pokal: Alle Spiele, alle Tore: Achtelfinale, Mittwoch</title>
 </programme>
-<programme start="20251204024500 +0000" stop="20251204030000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20251204023000 +0000" stop="20251204030000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Highlights BOS@DET</title>
 </programme>
 <programme start="20251204030000 +0000" stop="20251204060000 +0000" channel="Sky Sport Mix HD.skyde">
@@ -3590,10 +3588,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251204050000 +0000" stop="20251204063000 +0000" channel="Warner TV Film.skyde">
     <title>Die Letzten vom Red River</title>
 </programme>
-<programme start="20251204063000 +0000" stop="20251204100000 +0000" channel="Warner TV Film.skyde">
+<programme start="20251204063000 +0000" stop="20251204100500 +0000" channel="Warner TV Film.skyde">
     <title>Ben-Hur</title>
 </programme>
-<programme start="20251204100000 +0000" stop="20251204113500 +0000" channel="Warner TV Film.skyde">
+<programme start="20251204100500 +0000" stop="20251204113500 +0000" channel="Warner TV Film.skyde">
     <title>The Big Wedding</title>
 </programme>
 <programme start="20251204113500 +0000" stop="20251204132000 +0000" channel="Warner TV Film.skyde">
@@ -3602,10 +3600,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251204132000 +0000" stop="20251204152000 +0000" channel="Warner TV Film.skyde">
     <title>G.I. Joe: Geheimauftrag Cobra</title>
 </programme>
-<programme start="20251204152000 +0000" stop="20251204171500 +0000" channel="Warner TV Film.skyde">
+<programme start="20251204152000 +0000" stop="20251204171000 +0000" channel="Warner TV Film.skyde">
     <title>The Drop - Bargeld</title>
 </programme>
-<programme start="20251204171500 +0000" stop="20251204191500 +0000" channel="Warner TV Film.skyde">
+<programme start="20251204171000 +0000" stop="20251204191500 +0000" channel="Warner TV Film.skyde">
     <title>Das A-Team - Der Film</title>
 </programme>
 <programme start="20251204191500 +0000" stop="20251204212500 +0000" channel="Warner TV Film.skyde">
