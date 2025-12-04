@@ -904,10 +904,10 @@
     <programme start="20251204160000 +0000" stop="20251205160000 +0000" channel="Live 2.mewatch">
         <title>No programme available now. Next broadcast on 6th December, Saturday 10am. ONE Fight Night 38: Andrade vs. Baatarkhuu</title>
     </programme>
-    <programme start="20251203160000 +0000" stop="20251204120000 +0000" channel="Live 5.mewatch">
-        <title>No Programme available now. Next Broadcast on 4th December, Thursday 8pm. ASEAN Shopee Cup 2025/2026</title>
+    <programme start="20251203160000 +0000" stop="20251204113400 +0000" channel="Live 5.mewatch">
+        <title>No Programme available now. Next Broadcast on 4th December, Thursday 7.34pm. ASEAN Shopee Cup 2025/2026</title>
     </programme>
-    <programme start="20251204120000 +0000" stop="20251204140000 +0000" channel="Live 5.mewatch">
+    <programme start="20251204113400 +0000" stop="20251204140000 +0000" channel="Live 5.mewatch">
         <title>ASEAN Shopee Cup 2025/2026: Bangkok United FC vs Lion City Sailors FC</title>
     </programme>
     <programme start="20251204140000 +0000" stop="20251204160000 +0000" channel="Live 5.mewatch">
