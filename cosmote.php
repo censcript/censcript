@@ -122,6 +122,10 @@
     <title>Football: Atalanta - ACF Fiorentina</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251206002000 +0700" stop="20251206023000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Panetolikos - Olympiacos</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251204223000 +0700" stop="20251205013500 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Lanus - Atletico Mineiro</title>
     <desc>Live: Tidak</desc>
@@ -194,14 +198,6 @@
     <title>Football: Anorthosis Famagusta - APOEL</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251204213000 +0700" stop="20251204234000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Heidelberg - Promitheas</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251204234000 +0700" stop="20251205000000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>ACB Liga Endesa 2025-26 - Fifth Quarter E8</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251205000000 +0700" stop="20251205020000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Tofas - Anadolu Efes</title>
     <desc>Live: Tidak</desc>
@@ -254,8 +250,8 @@
     <title>Basketball: Badalona - Hapoel Holon</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251204210500 +0700" stop="20251204231000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: Extreme E 2025</title>
+<programme start="20251206001000 +0700" stop="20251206015500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Pick n&#039; Roll</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251204231000 +0700" stop="20251205001500 +0700" channel="COSMOTE Sport 5 HD">
@@ -358,6 +354,10 @@
     <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251206003000 +0700" stop="20251206010000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251204222500 +0700" stop="20251205000500 +0700" channel="COSMOTE Sport 6 HD">
     <title>Volleyball: Las Palmas - Olympiacos</title>
     <desc>Live: Tidak</desc>
@@ -448,10 +448,6 @@
 </programme>
 <programme start="20251205233000 +0700" stop="20251206022500 +0700" channel="COSMOTE Sport 6 HD">
     <title>Volleyball: Olympiacos - Eczacibasi Dynavit Istanbul</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251204230000 +0700" stop="20251205000000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251205000000 +0700" stop="20251205003000 +0700" channel="COSMOTE Sport 7 HD">
