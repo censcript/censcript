@@ -8182,7 +8182,7 @@
     <programme start="20251204135100 +0000" stop="20251204153600 +0000" channel="Dragon TV.starhub">
         <title>Future China</title>
     </programme>
-    <programme start="20251204153600 +0000" stop="20251204160000 +0000" channel="Dragon TV.starhub">
+    <programme start="20251204153600 +0000" stop="20251204160100 +0000" channel="Dragon TV.starhub">
         <title>New Entertainment</title>
     </programme>
     <programme start="20251203160000 +0000" stop="20251203163000 +0000" channel="Travelxp HD.starhub">
