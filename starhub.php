@@ -3151,9 +3151,6 @@
     <programme start="20251203170000 +0000" stop="20251203171500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
-    <programme start="20251203171500 +0000" stop="20251203173000 +0000" channel="DW English HD.starhub">
-        <title>Morocco&#039;s Western Sahara gamble</title>
-    </programme>
     <programme start="20251203173000 +0000" stop="20251203180000 +0000" channel="DW English HD.starhub">
         <title>Dark Destiny - How Child Rescue Ends in Abuse</title>
     </programme>
@@ -3181,9 +3178,6 @@
     <programme start="20251203210000 +0000" stop="20251203210200 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
-    <programme start="20251203210200 +0000" stop="20251203211500 +0000" channel="DW English HD.starhub">
-        <title>Morocco&#039;s Western Sahara gamble</title>
-    </programme>
     <programme start="20251203211500 +0000" stop="20251203220000 +0000" channel="DW English HD.starhub">
         <title>Machu Picchu - The Incas&#039; Architectural Masterpiece</title>
     </programme>
@@ -3198,9 +3192,6 @@
     </programme>
     <programme start="20251203230000 +0000" stop="20251203231500 +0000" channel="DW English HD.starhub">
         <title>News</title>
-    </programme>
-    <programme start="20251203231500 +0000" stop="20251203233000 +0000" channel="DW English HD.starhub">
-        <title>Morocco&#039;s Western Sahara gamble</title>
     </programme>
     <programme start="20251203233000 +0000" stop="20251204000000 +0000" channel="DW English HD.starhub">
         <title>Spotlight on People</title>
@@ -3229,17 +3220,20 @@
     <programme start="20251204023000 +0000" stop="20251204030000 +0000" channel="DW English HD.starhub">
         <title>Of humans and machines</title>
     </programme>
-    <programme start="20251204030000 +0000" stop="20251204031500 +0000" channel="DW English HD.starhub">
+    <programme start="20251204030000 +0000" stop="20251204030200 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
-    <programme start="20251204031500 +0000" stop="20251204033000 +0000" channel="DW English HD.starhub">
-        <title>Morocco&#039;s Western Sahara gamble</title>
+    <programme start="20251204030200 +0000" stop="20251204033000 +0000" channel="DW English HD.starhub">
+        <title>News in Review</title>
     </programme>
     <programme start="20251204033000 +0000" stop="20251204040000 +0000" channel="DW English HD.starhub">
         <title>Going green with technology</title>
     </programme>
-    <programme start="20251204040000 +0000" stop="20251204041500 +0000" channel="DW English HD.starhub">
+    <programme start="20251204040000 +0000" stop="20251204040200 +0000" channel="DW English HD.starhub">
         <title>News</title>
+    </programme>
+    <programme start="20251204040200 +0000" stop="20251204041500 +0000" channel="DW English HD.starhub">
+        <title>Denmark&#039;s Immigration minister Rasmus Stoklund: European asylum system is broken</title>
     </programme>
     <programme start="20251204041500 +0000" stop="20251204050000 +0000" channel="DW English HD.starhub">
         <title>Dock Workers and Drug Cartels - A Dangerous Collaboration</title>
@@ -3257,7 +3251,7 @@
         <title>News</title>
     </programme>
     <programme start="20251204061500 +0000" stop="20251204063000 +0000" channel="DW English HD.starhub">
-        <title>Morocco&#039;s Western Sahara gamble</title>
+        <title>Denmark&#039;s Immigration minister Rasmus Stoklund: European asylum system is broken</title>
     </programme>
     <programme start="20251204063000 +0000" stop="20251204070000 +0000" channel="DW English HD.starhub">
         <title>Of humans and machines</title>
@@ -3302,7 +3296,7 @@
         <title>News</title>
     </programme>
     <programme start="20251204131500 +0000" stop="20251204133000 +0000" channel="DW English HD.starhub">
-        <title>The Lada - cult classic car from Soviet era</title>
+        <title>Morocco&#039;s Western Sahara gamble</title>
     </programme>
     <programme start="20251204133000 +0000" stop="20251204140000 +0000" channel="DW English HD.starhub">
         <title>The forgotten Porsche founder: Adolf Rosenberger’s untold story</title>
@@ -4760,7 +4754,7 @@
         <title>Pandian Stores Thanthai Sol Mikka Mandhiram Illai</title>
     </programme>
     <programme start="20251204123000 +0000" stop="20251204130000 +0000" channel="Vijay TV HD.starhub">
-        <title>To Be Announced</title>
+        <title>Ayyanar Thunai</title>
     </programme>
     <programme start="20251204130000 +0000" stop="20251204133000 +0000" channel="Vijay TV HD.starhub">
         <title>Siragadikka Aasai</title>
@@ -7834,7 +7828,7 @@
     <programme start="20251203213000 +0000" stop="20251203233000 +0000" channel="Asianet Movies.starhub">
         <title>Kili Poyi</title>
     </programme>
-    <programme start="20251203233000 +0000" stop="20251204013000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251203231000 +0000" stop="20251204013000 +0000" channel="Asianet Movies.starhub">
         <title>London Bridge</title>
     </programme>
     <programme start="20251204013000 +0000" stop="20251204043000 +0000" channel="Asianet Movies.starhub">

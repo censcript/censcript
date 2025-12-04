@@ -1643,101 +1643,98 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251204222000 +0000" stop="20251204231500 +0000" channel="Romance TV HD.skyde">
     <title>Familie Dr. Kleist</title>
 </programme>
-<programme start="20251203230500 +0000" stop="20251203235000 +0000" channel="Sky Atlantic HD.skyde">
-    <title>Strike Back</title>
+<programme start="20251130235000 +0000" stop="20251201004000 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Game of Thrones - Das Lied von Eis und Feuer</title>
 </programme>
-<programme start="20251203235000 +0000" stop="20251204004000 +0000" channel="Sky Atlantic HD.skyde">
-    <title>Strike Back</title>
+<programme start="20251201004000 +0000" stop="20251201013500 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Game of Thrones - Das Lied von Eis und Feuer</title>
 </programme>
-<programme start="20251204004000 +0000" stop="20251204012500 +0000" channel="Sky Atlantic HD.skyde">
-    <title>Strike Back</title>
+<programme start="20251201013500 +0000" stop="20251201023000 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Game of Thrones - Das Lied von Eis und Feuer</title>
 </programme>
-<programme start="20251204012500 +0000" stop="20251204021000 +0000" channel="Sky Atlantic HD.skyde">
-    <title>Strike Back</title>
+<programme start="20251201023000 +0000" stop="20251201032000 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Game of Thrones - Das Lied von Eis und Feuer</title>
 </programme>
-<programme start="20251204021000 +0000" stop="20251204030000 +0000" channel="Sky Atlantic HD.skyde">
-    <title>Banshee - Small Town. Big Secrets.</title>
+<programme start="20251201032000 +0000" stop="20251201042500 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Game of Thrones - Das Lied von Eis und Feuer</title>
 </programme>
-<programme start="20251204030000 +0000" stop="20251204034500 +0000" channel="Sky Atlantic HD.skyde">
-    <title>Banshee - Small Town. Big Secrets.</title>
-</programme>
-<programme start="20251204034500 +0000" stop="20251204041000 +0000" channel="Sky Atlantic HD.skyde">
-    <title>The House that Dragons Built: Episode 9</title>
-</programme>
-<programme start="20251204041000 +0000" stop="20251204044000 +0000" channel="Sky Atlantic HD.skyde">
+<programme start="20251201042500 +0000" stop="20251201045500 +0000" channel="Sky Atlantic HD.skyde">
     <title>Barry</title>
 </programme>
-<programme start="20251204044000 +0000" stop="20251204055000 +0000" channel="Sky Atlantic HD.skyde">
-    <title>Lovecraft Country</title>
+<programme start="20251201045500 +0000" stop="20251201052500 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Barry</title>
 </programme>
-<programme start="20251204055000 +0000" stop="20251204064500 +0000" channel="Sky Atlantic HD.skyde">
-    <title>Lovecraft Country</title>
+<programme start="20251201052500 +0000" stop="20251201062000 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Halo</title>
 </programme>
-<programme start="20251204064500 +0000" stop="20251204074000 +0000" channel="Sky Atlantic HD.skyde">
-    <title>Jett</title>
+<programme start="20251201062000 +0000" stop="20251201070000 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Halo</title>
 </programme>
-<programme start="20251204074000 +0000" stop="20251204084500 +0000" channel="Sky Atlantic HD.skyde">
-    <title>Jett</title>
+<programme start="20251201070000 +0000" stop="20251201075500 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Perry Mason</title>
 </programme>
-<programme start="20251204084500 +0000" stop="20251204094500 +0000" channel="Sky Atlantic HD.skyde">
+<programme start="20251201075500 +0000" stop="20251201085000 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Perry Mason</title>
+</programme>
+<programme start="20251201085000 +0000" stop="20251201095000 +0000" channel="Sky Atlantic HD.skyde">
     <title>Die Sopranos</title>
 </programme>
-<programme start="20251204094500 +0000" stop="20251204104500 +0000" channel="Sky Atlantic HD.skyde">
+<programme start="20251201095000 +0000" stop="20251201104000 +0000" channel="Sky Atlantic HD.skyde">
     <title>Die Sopranos</title>
 </programme>
-<programme start="20251204104500 +0000" stop="20251204111500 +0000" channel="Sky Atlantic HD.skyde">
+<programme start="20251201104000 +0000" stop="20251201111000 +0000" channel="Sky Atlantic HD.skyde">
     <title>Sex and the City</title>
 </programme>
-<programme start="20251204111500 +0000" stop="20251204115000 +0000" channel="Sky Atlantic HD.skyde">
+<programme start="20251201111000 +0000" stop="20251201114500 +0000" channel="Sky Atlantic HD.skyde">
     <title>Sex and the City</title>
 </programme>
-<programme start="20251204115000 +0000" stop="20251204122500 +0000" channel="Sky Atlantic HD.skyde">
+<programme start="20251201114500 +0000" stop="20251201121500 +0000" channel="Sky Atlantic HD.skyde">
     <title>Sex and the City</title>
 </programme>
-<programme start="20251204122500 +0000" stop="20251204125000 +0000" channel="Sky Atlantic HD.skyde">
+<programme start="20251201121500 +0000" stop="20251201124500 +0000" channel="Sky Atlantic HD.skyde">
     <title>Sex and the City</title>
 </programme>
-<programme start="20251204125000 +0000" stop="20251204132000 +0000" channel="Sky Atlantic HD.skyde">
+<programme start="20251201124500 +0000" stop="20251201131500 +0000" channel="Sky Atlantic HD.skyde">
     <title>Bored To Death</title>
 </programme>
-<programme start="20251204132000 +0000" stop="20251204135000 +0000" channel="Sky Atlantic HD.skyde">
+<programme start="20251201131500 +0000" stop="20251201135000 +0000" channel="Sky Atlantic HD.skyde">
     <title>Bored To Death</title>
 </programme>
-<programme start="20251204135000 +0000" stop="20251204144000 +0000" channel="Sky Atlantic HD.skyde">
+<programme start="20251201135000 +0000" stop="20251201144000 +0000" channel="Sky Atlantic HD.skyde">
     <title>Strike Back</title>
 </programme>
-<programme start="20251204144000 +0000" stop="20251204153000 +0000" channel="Sky Atlantic HD.skyde">
+<programme start="20251201144000 +0000" stop="20251201153000 +0000" channel="Sky Atlantic HD.skyde">
     <title>Strike Back</title>
 </programme>
-<programme start="20251204153000 +0000" stop="20251204162000 +0000" channel="Sky Atlantic HD.skyde">
+<programme start="20251201153000 +0000" stop="20251201162000 +0000" channel="Sky Atlantic HD.skyde">
     <title>Strike Back</title>
 </programme>
-<programme start="20251204162000 +0000" stop="20251204170500 +0000" channel="Sky Atlantic HD.skyde">
+<programme start="20251201162000 +0000" stop="20251201171000 +0000" channel="Sky Atlantic HD.skyde">
     <title>Strike Back</title>
 </programme>
-<programme start="20251204170500 +0000" stop="20251204174000 +0000" channel="Sky Atlantic HD.skyde">
+<programme start="20251201171000 +0000" stop="20251201174000 +0000" channel="Sky Atlantic HD.skyde">
     <title>Sex and the City</title>
 </programme>
-<programme start="20251204174000 +0000" stop="20251204181000 +0000" channel="Sky Atlantic HD.skyde">
+<programme start="20251201174000 +0000" stop="20251201181000 +0000" channel="Sky Atlantic HD.skyde">
     <title>Sex and the City</title>
 </programme>
-<programme start="20251204181000 +0000" stop="20251204184500 +0000" channel="Sky Atlantic HD.skyde">
+<programme start="20251201181000 +0000" stop="20251201184000 +0000" channel="Sky Atlantic HD.skyde">
     <title>Sex and the City</title>
 </programme>
-<programme start="20251204184500 +0000" stop="20251204191500 +0000" channel="Sky Atlantic HD.skyde">
+<programme start="20251201184000 +0000" stop="20251201191500 +0000" channel="Sky Atlantic HD.skyde">
     <title>Sex and the City</title>
 </programme>
-<programme start="20251204191500 +0000" stop="20251204201500 +0000" channel="Sky Atlantic HD.skyde">
-    <title>This City Is Ours</title>
+<programme start="20251201191500 +0000" stop="20251201201000 +0000" channel="Sky Atlantic HD.skyde">
+    <title>ES: Welcome to Derry</title>
 </programme>
-<programme start="20251204201500 +0000" stop="20251204212000 +0000" channel="Sky Atlantic HD.skyde">
-    <title>This City Is Ours</title>
+<programme start="20251201201000 +0000" stop="20251201211500 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Midwich Cuckoos - Das Dorf der Verdammten</title>
 </programme>
-<programme start="20251204212000 +0000" stop="20251204222500 +0000" channel="Sky Atlantic HD.skyde">
-    <title>This City Is Ours</title>
+<programme start="20251201211500 +0000" stop="20251201220500 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Midwich Cuckoos - Das Dorf der Verdammten</title>
 </programme>
-<programme start="20251204222500 +0000" stop="20251204232500 +0000" channel="Sky Atlantic HD.skyde">
-    <title>This City Is Ours</title>
+<programme start="20251201220500 +0000" stop="20251201230500 +0000" channel="Sky Atlantic HD.skyde">
+    <title>ES: Welcome to Derry</title>
 </programme>
 <programme start="20251204003500 +0000" stop="20251204022000 +0000" channel="Sky Cinema Action HD.skyde">
     <title>Friedhof der Kuscheltiere 2</title>

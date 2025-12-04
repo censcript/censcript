@@ -490,9 +490,6 @@
 <programme start="20251205114500 +0000" stop="20251205121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
-<programme start="20251203230000 +0000" stop="20251204010000 +0000" channel="ANTV.vision">
-<title>Asal Tahu Saja</title>
-</programme>
 <programme start="20251204010000 +0000" stop="20251204030000 +0000" channel="ANTV.vision">
 <title>Zeynep</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20251204101500 +0000" stop="20251204110000 +0000" channel="MDTV.vision">
 <title>Cinta Paulina</title>
+</programme>
+<programme start="20251204110000 +0000" stop="20251204114500 +0000" channel="MDTV.vision">
+<title>Maria Cinta Yang Hilang</title>
 </programme>
