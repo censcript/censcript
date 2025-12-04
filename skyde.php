@@ -2719,7 +2719,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>2. BL: Dein Zweitligatalk - HvK &amp; Tusche</title>
 </programme>
 <programme start="20251204160000 +0000" stop="20251204170000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>Live BL: Matchplan: XXX - YYY, 13 Spieltag</title>
+    <title>Live BL: Matchplan: RBL - SGE, 13 Spieltag</title>
 </programme>
 <programme start="20251204170000 +0000" stop="20251204173000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: Best of November</title>
@@ -2731,7 +2731,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>2. BL: Dein Zweitligatalk - HvK &amp; Tusche</title>
 </programme>
 <programme start="20251204183000 +0000" stop="20251204193000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: Matchplan: XXX - YYY, 13 Spieltag</title>
+    <title>BL: Matchplan: RBL - SGE, 13 Spieltag</title>
 </programme>
 <programme start="20251204193000 +0000" stop="20251204200000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: 90in30: B04 - BVB. 12. Spieltag</title>
@@ -2749,7 +2749,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>BL: Best of November</title>
 </programme>
 <programme start="20251204220000 +0000" stop="20251204230000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: Matchplan: XXX - YYY, 13 Spieltag</title>
+    <title>BL: Matchplan: RBL - SGE, 13 Spieltag</title>
 </programme>
 <programme start="20251203233000 +0000" stop="20251204013000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
     <title>2. BL: 1. FC Magdeburg - 1. FC Nürnberg, tipico Topspiel der Woche, 14. Spieltag</title>
@@ -3588,10 +3588,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251204050000 +0000" stop="20251204063000 +0000" channel="Warner TV Film.skyde">
     <title>Die Letzten vom Red River</title>
 </programme>
-<programme start="20251204063000 +0000" stop="20251204100000 +0000" channel="Warner TV Film.skyde">
+<programme start="20251204063000 +0000" stop="20251204100500 +0000" channel="Warner TV Film.skyde">
     <title>Ben-Hur</title>
 </programme>
-<programme start="20251204100000 +0000" stop="20251204113500 +0000" channel="Warner TV Film.skyde">
+<programme start="20251204100500 +0000" stop="20251204113500 +0000" channel="Warner TV Film.skyde">
     <title>The Big Wedding</title>
 </programme>
 <programme start="20251204113500 +0000" stop="20251204132000 +0000" channel="Warner TV Film.skyde">
@@ -3600,10 +3600,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251204132000 +0000" stop="20251204152000 +0000" channel="Warner TV Film.skyde">
     <title>G.I. Joe: Geheimauftrag Cobra</title>
 </programme>
-<programme start="20251204152000 +0000" stop="20251204171500 +0000" channel="Warner TV Film.skyde">
+<programme start="20251204152000 +0000" stop="20251204171000 +0000" channel="Warner TV Film.skyde">
     <title>The Drop - Bargeld</title>
 </programme>
-<programme start="20251204171500 +0000" stop="20251204191500 +0000" channel="Warner TV Film.skyde">
+<programme start="20251204171000 +0000" stop="20251204191500 +0000" channel="Warner TV Film.skyde">
     <title>Das A-Team - Der Film</title>
 </programme>
 <programme start="20251204191500 +0000" stop="20251204212500 +0000" channel="Warner TV Film.skyde">
