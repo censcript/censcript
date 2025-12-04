@@ -3175,10 +3175,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>F1: Rennen - GP Katar</title>
 </programme>
 <programme start="20251204154500 +0000" stop="20251204174500 +0000" channel="Sky Sport UHD.skyde">
-    <title>DFB-Pokal: 1. FC Köln - FC Bayern München, 2. Runde</title>
+    <title>DFB-Pokal: Borussia Dortmund - Bayer Leverkusen, Achtelfinale</title>
 </programme>
 <programme start="20251204154500 +0000" stop="20251204174500 +0000" channel="Sky Sport UHD.skyde">
-    <title>DFB-Pokal: Borussia Dortmund - Bayer Leverkusen, Achtelfinale</title>
+    <title>DFB-Pokal: 1. FC Köln - FC Bayern München, 2. Runde</title>
 </programme>
 <programme start="20251204174500 +0000" stop="20251204195000 +0000" channel="Sky Sport UHD.skyde">
     <title>PL: Crystal Palace - Manchester United, 13. Spieltag</title>
