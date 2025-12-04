@@ -118,6 +118,10 @@
     <title>Football: Como - Sassuolo</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251205181000 +0700" stop="20251205202000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Iraklis - Panetolikos</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251204163000 +0700" stop="20251204183000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Al Ittihad - Al Shabab</title>
     <desc>Live: Tidak</desc>
@@ -238,10 +242,6 @@
     <title>Basketball: Philadelphia 76ers - Golden State Warriors</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251204155500 +0700" stop="20251204172500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>DTM 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251204172500 +0700" stop="20251204191000 +0700" channel="COSMOTE Sport 5 HD">
     <title>DTM 2025</title>
     <desc>Live: Tidak</desc>
@@ -330,6 +330,10 @@
     <title>Grand Prix Show 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251205180000 +0700" stop="20251205190000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Highlights: 2025 Extreme H</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251204163000 +0700" stop="20251204184500 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP Challenger 50 2025</title>
     <desc>Live: Tidak</desc>
@@ -416,6 +420,10 @@
 </programme>
 <programme start="20251205163000 +0700" stop="20251205184500 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP Challenger 50 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251205184500 +0700" stop="20251205194500 +0700" channel="COSMOTE Sport 6 HD">
+    <title>ATP 500 2025 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251204170000 +0700" stop="20251204190000 +0700" channel="COSMOTE Sport 7 HD">
