@@ -962,11 +962,8 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251205130000 +0000" stop="20251205145000 +0000" channel="DAZN 1 HD.skyde">
     <title>LaLiga 25/26: FC Barcelona - Atlético Madrid</title>
 </programme>
-<programme start="20251205145000 +0000" stop="20251205153500 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20251205145000 +0000" stop="20251205160500 +0000" channel="DAZN 1 HD.skyde">
     <title>3. Liga Highlightshow 2025/26: 16. Spieltag</title>
-</programme>
-<programme start="20251205153500 +0000" stop="20251205160500 +0000" channel="DAZN 1 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
 </programme>
 <programme start="20251205160500 +0000" stop="20251205171500 +0000" channel="DAZN 1 HD.skyde">
     <title>ALL IN - Die Bundesliga Highlight Show: 12. Spieltag</title>
@@ -2804,7 +2801,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251205183000 +0000" stop="20251205191500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: M05 - BMG: tipico Countdown, Flutlicht-Freitag, 13. Spieltag</title>
 </programme>
-<programme start="20251205191500 +0000" stop="20251205221500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
+<programme start="20251205191500 +0000" stop="20251205224500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: 1. FSV Mainz 05 - Borussia M&#039;gladbach, Flutlicht-Freitag, 13. Spieltag</title>
 </programme>
 <programme start="20251205164000 +0000" stop="20251205170000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
@@ -2813,7 +2810,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251205170000 +0000" stop="20251205193000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Live 2. BL: Freitags-Konferenz, 15. Spieltag</title>
 </programme>
-<programme start="20251205193000 +0000" stop="20251205201500 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+<programme start="20251205193000 +0000" stop="20251205204500 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Live 2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 15. Spieltag, Freitag</title>
 </programme>
 <programme start="20251205164000 +0000" stop="20251205170000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
@@ -2822,19 +2819,19 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251205170000 +0000" stop="20251205193000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live 2. BL: Fortuna Düsseldorf - FC Schalke 04, 15. Spieltag</title>
 </programme>
-<programme start="20251205193000 +0000" stop="20251205213000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
+<programme start="20251205193000 +0000" stop="20251205220000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live BL: Sky Sport Fantasy: M05 - BMG, 13. Spieltag</title>
 </programme>
 <programme start="20251205164000 +0000" stop="20251205170000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>2. BL: Es folgt</title>
 </programme>
-<programme start="20251205170000 +0000" stop="20251205193000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
+<programme start="20251205170000 +0000" stop="20251205200000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live 2. BL: Preußen Münster - Hannover 96, 15. Spieltag</title>
 </programme>
 <programme start="20251205164000 +0000" stop="20251205170000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>2. BL: Es folgt</title>
 </programme>
-<programme start="20251205170000 +0000" stop="20251205193000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
+<programme start="20251205170000 +0000" stop="20251205200000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Live 2. BL: Multiview, 15. Spieltag, Freitag</title>
 </programme>
 <programme start="20251204230000 +0000" stop="20251205010000 +0000" channel="Sky Sport F1 HD.skyde">
