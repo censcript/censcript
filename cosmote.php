@@ -74,6 +74,10 @@
     <title>PreGame (L)</title>
     <desc>Live: Ya</desc>
 </programme>
+<programme start="20251206220000 +0700" stop="20251207001000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: Olympiacos - OFI (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
 <programme start="20251205202000 +0700" stop="20251205222000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Juventus Football Club - Cagliari</title>
     <desc>Live: Tidak</desc>
@@ -136,6 +140,10 @@
 </programme>
 <programme start="20251206203500 +0700" stop="20251206225000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Aris - PAOK</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251206225000 +0700" stop="20251207010000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Volos - Egaleo</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251205200000 +0700" stop="20251205223000 +0700" channel="COSMOTE Sport 3 HD">
@@ -206,14 +214,6 @@
     <title>Football: Sassuolo - ACF Fiorentina (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251205193000 +0700" stop="20251205212500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Fenerbahce - Bursaspor</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251205212500 +0700" stop="20251205214500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>ACB Liga Endesa 2025-26 - Fifth Quarter E8</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251205214500 +0700" stop="20251206001000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Badalona - Hapoel Holon</title>
     <desc>Live: Tidak</desc>
@@ -264,10 +264,6 @@
 </programme>
 <programme start="20251206205500 +0700" stop="20251206233000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Philadelphia 76ers - Golden State Warriors</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251205204500 +0700" stop="20251205213000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251205213000 +0700" stop="20251205223500 +0700" channel="COSMOTE Sport 5 HD">
@@ -362,6 +358,10 @@
     <title>Sports Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251206220000 +0700" stop="20251207000000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Football: Bristol City - Millwall (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
 <programme start="20251205204500 +0700" stop="20251205223000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Handball: Lemgo Lippe - SG Flensburg-Handewitt</title>
     <desc>Live: Tidak</desc>
@@ -436,6 +436,10 @@
 </programme>
 <programme start="20251206213000 +0700" stop="20251206223000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Sports Classics: 2025 Outdoor Specials</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251206223000 +0700" stop="20251207010000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Volleyball: Vasas - Olympiacos</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251205210000 +0700" stop="20251205230000 +0700" channel="COSMOTE Sport 7 HD">
