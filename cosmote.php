@@ -1,11 +1,3 @@
-<programme start="20251206043000 +0700" stop="20251206053000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>UEFA Champions League Highlights 2025-26</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251206053000 +0700" stop="20251206060000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Game R1 S6 E15</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251206060000 +0700" stop="20251206080000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: PAOK - SK Brann</title>
     <desc>Live: Tidak</desc>
@@ -78,10 +70,6 @@
     <title>Football: Olympiacos - OFI</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251206030000 +0700" stop="20251206051000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: AC Milan - SS Lazio</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251206051000 +0700" stop="20251206074000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Panathinaikos - AEK</title>
     <desc>Live: Tidak</desc>
@@ -138,12 +126,8 @@
     <title>Football: Volos - Kifisia</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251206031500 +0700" stop="20251206051500 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: SL Benfica - Sporting CP (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20251206051500 +0700" stop="20251206054000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>William Hill Scottish Premiership - Highlights</title>
+<programme start="20251207060000 +0700" stop="20251207080000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Sassuolo - ACF Fiorentina</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251206054000 +0700" stop="20251206061000 +0700" channel="COSMOTE Sport 3 HD">
@@ -214,6 +198,10 @@
     <title>Football: Bristol City - Millwall</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251207064500 +0700" stop="20251207084500 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Derby County - Leicester City FC</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251206050000 +0700" stop="20251206070000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Tofas - Anadolu Efes</title>
     <desc>Live: Tidak</desc>
@@ -272,10 +260,6 @@
 </programme>
 <programme start="20251207051000 +0700" stop="20251207071500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Heidelberg - Promitheas</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251206050000 +0700" stop="20251206054000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Moto-E World Championship 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251206054000 +0700" stop="20251206062500 +0700" channel="COSMOTE Sport 5 HD">
@@ -362,8 +346,8 @@
     <title>Sports Classics: Gearing Up 2024 E11</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251206042500 +0700" stop="20251206054500 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Beach Volley: 2025 FIVB Beach Volleyball World Championships</title>
+<programme start="20251207060000 +0700" stop="20251207072000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Grand Prix Show 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251206054500 +0700" stop="20251206074000 +0700" channel="COSMOTE Sport 6 HD">
