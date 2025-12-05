@@ -223,10 +223,10 @@
 <programme start="20251205231500 +0000" stop="20251205234500 +0000" channel="GTV.vision">
 <title>BIMA-S</title>
 </programme>
-<programme start="20251205234500 +0000" stop="20251206013000 +0000" channel="GTV.vision">
+<programme start="20251205234500 +0000" stop="20251206020000 +0000" channel="GTV.vision">
 <title>SpongeBob SquarePants</title>
 </programme>
-<programme start="20251206013000 +0000" stop="20251206050000 +0000" channel="GTV.vision">
+<programme start="20251206020000 +0000" stop="20251206050000 +0000" channel="GTV.vision">
 <title>Spongebob Squarepants (GTV)</title>
 </programme>
 <programme start="20251206050000 +0000" stop="20251206070000 +0000" channel="GTV.vision">
@@ -539,7 +539,7 @@
 <title>Brownis On The Weekend</title>
 </programme>
 <programme start="20251206070000 +0000" stop="20251206080000 +0000" channel="Trans TV.vision">
-<title>Rumpi: No Secret</title>
+<title>Rumpi Hot Of The Week</title>
 </programme>
 <programme start="20251206080000 +0000" stop="20251206091500 +0000" channel="Trans TV.vision">
 <title>Insert Investigasi</title>
@@ -708,9 +708,6 @@
 </programme>
 <programme start="20251205093000 +0000" stop="20251205103000 +0000" channel="ANTV.vision">
 <title>Takdir Cinta Layla</title>
-</programme>
-<programme start="20251205103000 +0000" stop="20251205123000 +0000" channel="ANTV.vision">
-<title>Tarzan Penunggu Harta Karun</title>
 </programme>
 <programme start="20251205123000 +0000" stop="20251205140000 +0000" channel="ANTV.vision">
 <title>Petualangan Cinta Nyi Blorong</title>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20251205150000 +0000" stop="20251205160000 +0000" channel="BTV.vision">
 <title>Berita Satu Malam</title>
+</programme>
+<programme start="20251205160000 +0000" stop="20251205163000 +0000" channel="BTV.vision">
+<title>Dari Nol</title>
 </programme>

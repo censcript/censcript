@@ -70,6 +70,10 @@
     <title>Football: Olympiacos - Real Madrid CF</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251206200000 +0700" stop="20251206210000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEL &amp; UECL Magazine 2025-26 E6</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251205181000 +0700" stop="20251205202000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Iraklis - Panetolikos</title>
     <desc>Live: Tidak</desc>
@@ -134,12 +138,8 @@
     <title>Football: Panathinaikos - AEK</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251205190000 +0700" stop="20251205193000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Copa Libertadores 2025 - Highlights</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251205193000 +0700" stop="20251205200000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Copa Sudamericana 2025 - Highlights</title>
+<programme start="20251206203500 +0700" stop="20251206225000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Aris - PAOK</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251205200000 +0700" stop="20251205223000 +0700" channel="COSMOTE Sport 3 HD">
@@ -206,10 +206,6 @@
     <title>Football: SL Benfica - Sporting CP</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251205170000 +0700" stop="20251205193000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Philadelphia 76ers - Golden State Warriors</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251205193000 +0700" stop="20251205212500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Fenerbahce - Bursaspor</title>
     <desc>Live: Tidak</desc>
@@ -266,8 +262,8 @@
     <title>Basketball: Heidelberg - Promitheas</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251205190000 +0700" stop="20251205200000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC 2025</title>
+<programme start="20251206205500 +0700" stop="20251206233000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Philadelphia 76ers - Golden State Warriors</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251205200000 +0700" stop="20251205204500 +0700" channel="COSMOTE Sport 5 HD">
@@ -366,10 +362,6 @@
     <title>Football: Derby County - Leicester City FC (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251205184500 +0700" stop="20251205194500 +0700" channel="COSMOTE Sport 6 HD">
-    <title>ATP 500 2025 - Highlights</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251205194500 +0700" stop="20251205204500 +0700" channel="COSMOTE Sport 6 HD">
     <title>ATP Masters 1000 2025 - Highlights</title>
     <desc>Live: Tidak</desc>
@@ -440,6 +432,10 @@
 </programme>
 <programme start="20251206193000 +0700" stop="20251206203000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Nitto ATP Finals 2025 - Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251206203000 +0700" stop="20251206213000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Sports Classics: 2025 Outdoor Specials</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251205190000 +0700" stop="20251205210000 +0700" channel="COSMOTE Sport 7 HD">
