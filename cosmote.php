@@ -66,10 +66,6 @@
     <title>Football: SK Slovan Bratislava - Rayo Vallecano</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251205100000 +0700" stop="20251205120000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Como - Sassuolo</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251205120000 +0700" stop="20251205141000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Marko - Levadiakos</title>
     <desc>Live: Tidak</desc>
@@ -124,14 +120,6 @@
 </programme>
 <programme start="20251206113500 +0700" stop="20251206133000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Juventus Football Club - Cagliari</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251205110000 +0700" stop="20251205113000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Emirates FA Cup 2025-26 - Highlights</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251205113000 +0700" stop="20251205120000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Copa Libertadores 2025 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251205120000 +0700" stop="20251205150500 +0700" channel="COSMOTE Sport 3 HD">
@@ -258,10 +246,6 @@
     <title>Basketball: Granada - Real Madrid</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251205110000 +0700" stop="20251205120000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251205120000 +0700" stop="20251205130500 +0700" channel="COSMOTE Sport 5 HD">
     <title>WRC 2025</title>
     <desc>Live: Tidak</desc>
@@ -351,6 +335,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251206110000 +0700" stop="20251206120000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Red Bull MotoGP Rookies Cup 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251206120000 +0700" stop="20251206130000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Red Bull MotoGP Rookies Cup 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
@@ -540,14 +528,6 @@
 </programme>
 <programme start="20251206110000 +0700" stop="20251206130000 +0700" channel="COSMOTE Sport 8 HD">
     <title>COSMOTESport8HD</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251205081500 +0700" stop="20251205114500 +0700" channel="COSMOTE Sport 9 HD">
-    <title>American Football: Detroit Lions - Dallas Cowboys (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20251205114500 +0700" stop="20251205120000 +0700" channel="COSMOTE Sport 9 HD">
-    <title>COSMOTESport9HD</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251205120000 +0700" stop="20251205123000 +0700" channel="COSMOTE Sport 9 HD">

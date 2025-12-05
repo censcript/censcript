@@ -1625,7 +1625,7 @@
     <title>Berita Satu Siang</title>
 </programme>
 <programme start="20251205060000 +0000" stop="20251205063000 +0000" channel="BTV.mncvision">
-    <title>Dunia RANS</title>
+    <title>Berita Satu Spesial BPS</title>
 </programme>
 <programme start="20251205063000 +0000" stop="20251205073000 +0000" channel="BTV.mncvision">
     <title>Spot On</title>
@@ -1634,7 +1634,7 @@
     <title>Dikit-Dikit Damkar</title>
 </programme>
 <programme start="20251205080000 +0000" stop="20251205083000 +0000" channel="BTV.mncvision">
-    <title>Cocoklogi</title>
+    <title>Berita Merah Putih</title>
 </programme>
 <programme start="20251205083000 +0000" stop="20251205103000 +0000" channel="BTV.mncvision">
     <title>Berita Satu Sore</title>
@@ -1642,11 +1642,8 @@
 <programme start="20251205103000 +0000" stop="20251205110000 +0000" channel="BTV.mncvision">
     <title>Berita Kriminal</title>
 </programme>
-<programme start="20251205110000 +0000" stop="20251205120000 +0000" channel="BTV.mncvision">
-    <title>Dunia Binatang</title>
-</programme>
-<programme start="20251205120000 +0000" stop="20251205130000 +0000" channel="BTV.mncvision">
-    <title>Ketulusan Hati</title>
+<programme start="20251205110000 +0000" stop="20251205130000 +0000" channel="BTV.mncvision">
+    <title>Berita Satu Utama</title>
 </programme>
 <programme start="20251205130000 +0000" stop="20251205140000 +0000" channel="BTV.mncvision">
     <title>Berita Viral</title>
@@ -1658,10 +1655,10 @@
     <title>Berita Satu Malam</title>
 </programme>
 <programme start="20251205160000 +0000" stop="20251205163000 +0000" channel="BTV.mncvision">
-    <title>Dari Nol</title>
+    <title>Mitos Tengah Malam</title>
 </programme>
 <programme start="20251205163000 +0000" stop="20251204170000 +0000" channel="BTV.mncvision">
-    <title>Supercar Championship 2025</title>
+    <title>ONE Vault</title>
 </programme>
 <programme start="20251204171000 +0000" stop="20251204184600 +0000" channel="BUDDY STARS.mncvision">
     <title>Little Crumb Race To Gold Mine</title>
