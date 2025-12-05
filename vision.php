@@ -56,10 +56,10 @@
 <title>Kiko In The Deep Sea</title>
 </programme>
 <programme start="20251206023000 +0000" stop="20251206041500 +0000" channel="RCTI.vision">
-<title>Doraemon (RCTI)</title>
+<title>Doraemon Series</title>
 </programme>
 <programme start="20251206041500 +0000" stop="20251206063000 +0000" channel="RCTI.vision">
-<title>Doraemon Series</title>
+<title>Doraemon (RCTI)</title>
 </programme>
 <programme start="20251206063000 +0000" stop="20251206093000 +0000" channel="RCTI.vision">
 <title>Spotify Wrapped Indonesia 2025</title>
@@ -106,11 +106,14 @@
 <programme start="20251205100000 +0000" stop="20251205113000 +0000" channel="MNCTV.vision">
 <title>Upin &amp; Ipin</title>
 </programme>
-<programme start="20251205113000 +0000" stop="20251205123000 +0000" channel="MNCTV.vision">
+<programme start="20251205113000 +0000" stop="20251205121500 +0000" channel="MNCTV.vision">
 <title>Entong</title>
 </programme>
-<programme start="20251205123000 +0000" stop="20251205160000 +0000" channel="MNCTV.vision">
-<title>KDI 2025 (L)</title>
+<programme start="20251205121500 +0000" stop="20251205134500 +0000" channel="MNCTV.vision">
+<title>Doa Untuk Bangsa</title>
+</programme>
+<programme start="20251205134500 +0000" stop="20251205160000 +0000" channel="MNCTV.vision">
+<title>DMD Panggung Rezeki (MNCTV)</title>
 </programme>
 <programme start="20251205160000 +0000" stop="20251205170000 +0000" channel="MNCTV.vision">
 <title>TLC: TV, Love, Cinema</title>
@@ -220,10 +223,10 @@
 <programme start="20251205231500 +0000" stop="20251205234500 +0000" channel="GTV.vision">
 <title>BIMA-S</title>
 </programme>
-<programme start="20251205234500 +0000" stop="20251206013000 +0000" channel="GTV.vision">
+<programme start="20251205234500 +0000" stop="20251206020000 +0000" channel="GTV.vision">
 <title>SpongeBob SquarePants</title>
 </programme>
-<programme start="20251206013000 +0000" stop="20251206050000 +0000" channel="GTV.vision">
+<programme start="20251206020000 +0000" stop="20251206050000 +0000" channel="GTV.vision">
 <title>Spongebob Squarepants (GTV)</title>
 </programme>
 <programme start="20251206050000 +0000" stop="20251206070000 +0000" channel="GTV.vision">
@@ -266,7 +269,7 @@
 <title>Realita (L)</title>
 </programme>
 <programme start="20251205093000 +0000" stop="20251205105500 +0000" channel="iNews.vision">
-<title>Inews Sore (Live)</title>
+<title>iNews Sore (L)</title>
 </programme>
 <programme start="20251205105500 +0000" stop="20251205110000 +0000" channel="iNews.vision">
 <title>iNews Terkini</title>
@@ -287,7 +290,7 @@
 <title>Kabinet Merah Putih</title>
 </programme>
 <programme start="20251205150000 +0000" stop="20251205160000 +0000" channel="iNews.vision">
-<title>iNews Files</title>
+<title>Inews Files (Live)</title>
 </programme>
 <programme start="20251205160000 +0000" stop="20251205163000 +0000" channel="iNews.vision">
 <title>iNews Sport (L)</title>
@@ -338,7 +341,7 @@
 <title>The Prime Show (iNews)</title>
 </programme>
 <programme start="20251206023000 +0000" stop="20251206033000 +0000" channel="iNews.vision">
-<title>iNews Files</title>
+<title>Inews Files (Live)</title>
 </programme>
 <programme start="20251206033000 +0000" stop="20251206053000 +0000" channel="iNews.vision">
 <title>iNews Siang (L)</title>
@@ -356,7 +359,7 @@
 <title>iNews</title>
 </programme>
 <programme start="20251206110000 +0000" stop="20251206120000 +0000" channel="iNews.vision">
-<title>Inews Sore (Live)</title>
+<title>iNews Sore (L)</title>
 </programme>
 <programme start="20251205000000 +0000" stop="20251205003000 +0000" channel="SindoNews.vision">
 <title>iNews Today</title>
@@ -536,7 +539,7 @@
 <title>Brownis On The Weekend</title>
 </programme>
 <programme start="20251206070000 +0000" stop="20251206080000 +0000" channel="Trans TV.vision">
-<title>Rumpi: No Secret</title>
+<title>Rumpi Hot Of The Week</title>
 </programme>
 <programme start="20251206080000 +0000" stop="20251206091500 +0000" channel="Trans TV.vision">
 <title>Insert Investigasi</title>
@@ -703,23 +706,17 @@
 <programme start="20251205080000 +0000" stop="20251205093000 +0000" channel="ANTV.vision">
 <title>Baalveer</title>
 </programme>
-<programme start="20251205093000 +0000" stop="20251205104500 +0000" channel="ANTV.vision">
+<programme start="20251205093000 +0000" stop="20251205103000 +0000" channel="ANTV.vision">
 <title>Takdir Cinta Layla</title>
 </programme>
-<programme start="20251205104500 +0000" stop="20251205123000 +0000" channel="ANTV.vision">
-<title>Tarzan Penunggu Harta Karun</title>
-</programme>
-<programme start="20251205123000 +0000" stop="20251205140000 +0000" channel="ANTV.vision">
-<title>Petualangan Cinta Nyi Blorong</title>
-</programme>
-<programme start="20251205140000 +0000" stop="20251205160000 +0000" channel="ANTV.vision">
+<programme start="20251205140000 +0000" stop="20251205153000 +0000" channel="ANTV.vision">
 <title>Tawa Kalcer</title>
 </programme>
-<programme start="20251205160000 +0000" stop="20251205180000 +0000" channel="ANTV.vision">
+<programme start="20251205153000 +0000" stop="20251205173000 +0000" channel="ANTV.vision">
 <title>Happy Ghost 3</title>
 </programme>
-<programme start="20251205180000 +0000" stop="20251205190000 +0000" channel="ANTV.vision">
-<title>Best Of The Best 4: Without...</title>
+<programme start="20251205173000 +0000" stop="20251205190000 +0000" channel="ANTV.vision">
+<title>Best Of The Best 2</title>
 </programme>
 <programme start="20251205190000 +0000" stop="20251205200000 +0000" channel="ANTV.vision">
 <title>Best Of The Best 4: Without...</title>
@@ -752,7 +749,7 @@
 <title>ANTV Seru</title>
 </programme>
 <programme start="20251206103000 +0000" stop="20251206120000 +0000" channel="ANTV.vision">
-<title>Ratu Buaya</title>
+<title>Kisah Cinta Nyi Blorong</title>
 </programme>
 <programme start="20251204230000 +0000" stop="20251205010000 +0000" channel="RTV.vision">
 <title>Bread Barbershop</title>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20251205160000 +0000" stop="20251205163000 +0000" channel="BTV.vision">
 <title>Dari Nol</title>
+</programme>
+<programme start="20251205163000 +0000" stop="20251205173000 +0000" channel="BTV.vision">
+<title>Supercar Championship 2025</title>
 </programme>

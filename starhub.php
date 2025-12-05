@@ -2074,11 +2074,23 @@
     <programme start="20251205223000 +0000" stop="20251206010000 +0000" channel="KTV HD.starhub">
         <title>Movie - Pudhu Pudhu Raagangal</title>
     </programme>
-    <programme start="20251206040000 +0000" stop="20251206100000 +0000" channel="KTV HD.starhub">
-        <title>Information Not Available</title>
+    <programme start="20251206010000 +0000" stop="20251206013000 +0000" channel="KTV HD.starhub">
+        <title>Fillers</title>
     </programme>
-    <programme start="20251206100000 +0000" stop="20251206160000 +0000" channel="KTV HD.starhub">
-        <title>Information Not Available</title>
+    <programme start="20251206013000 +0000" stop="20251206043000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Arudhra</title>
+    </programme>
+    <programme start="20251206043000 +0000" stop="20251206073000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Kanden Kadhalai</title>
+    </programme>
+    <programme start="20251206073000 +0000" stop="20251206103000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Raja</title>
+    </programme>
+    <programme start="20251206103000 +0000" stop="20251206133000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Satyam</title>
+    </programme>
+    <programme start="20251206133000 +0000" stop="20251206170000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Sakalakala Vallavan</title>
     </programme>
     <programme start="20251205143500 +0000" stop="20251205160500 +0000" channel="beIN Sports 2 HD.starhub">
         <title>ATP Tour 1000 2025: Paris Day 2 Davidovich Fokina v Royer</title>
