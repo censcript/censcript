@@ -962,8 +962,11 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251205130000 +0000" stop="20251205145000 +0000" channel="DAZN 1 HD.skyde">
     <title>LaLiga 25/26: FC Barcelona - Atlético Madrid</title>
 </programme>
-<programme start="20251205145000 +0000" stop="20251205160500 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20251205145000 +0000" stop="20251205153500 +0000" channel="DAZN 1 HD.skyde">
     <title>3. Liga Highlightshow 2025/26: 16. Spieltag</title>
+</programme>
+<programme start="20251205153500 +0000" stop="20251205160500 +0000" channel="DAZN 1 HD.skyde">
+    <title>Best of DAZN: Highlights</title>
 </programme>
 <programme start="20251205160500 +0000" stop="20251205171500 +0000" channel="DAZN 1 HD.skyde">
     <title>ALL IN - Die Bundesliga Highlight Show: 12. Spieltag</title>
@@ -2715,7 +2718,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>BL: Borussia M&#039;gladbach - RB Leipzig, Flutlicht-Freitag, 12. Spieltag</title>
 </programme>
 <programme start="20251205080000 +0000" stop="20251205090000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: Matchplan: RBL - SGE, 13 Spieltag</title>
+    <title>BL: Matchplan: RBL - SGE, 13. Spieltag</title>
 </programme>
 <programme start="20251205090000 +0000" stop="20251205110000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: TSG Hoffenheim - FC Augsburg, 12. Spieltag</title>
@@ -2724,7 +2727,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>BL: Matchplan Spezial - Die Trainingsphilosophie für Deutschland</title>
 </programme>
 <programme start="20251205113000 +0000" stop="20251205123000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: Matchplan: RBL - SGE, 13 Spieltag</title>
+    <title>BL: Matchplan: RBL - SGE, 13. Spieltag</title>
 </programme>
 <programme start="20251205123000 +0000" stop="20251205141000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: Klassiker der Woche: VFB - FCB (2010/11)</title>
@@ -2754,7 +2757,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>2. BL: Dein Zweitligatalk - HvK &amp; Tusche</title>
 </programme>
 <programme start="20251205170000 +0000" stop="20251205180000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: Matchplan: RBL - SGE, 13 Spieltag</title>
+    <title>BL: Matchplan: RBL - SGE, 13. Spieltag</title>
 </programme>
 <programme start="20251205180000 +0000" stop="20251205183000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: Bundesliga Weekly</title>
@@ -3039,7 +3042,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Sky Sport News: Nightline</title>
 </programme>
 <programme start="20251205010000 +0000" stop="20251205020000 +0000" channel="Sky Sport News HD.skyde">
-    <title>BL: Matchplan: RBL - SGE, 13 Spieltag</title>
+    <title>BL: Matchplan: RBL - SGE, 13. Spieltag</title>
 </programme>
 <programme start="20251205020000 +0000" stop="20251205050000 +0000" channel="Sky Sport News HD.skyde">
     <title>Sky Sport News: Nightline</title>
@@ -3051,7 +3054,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Sky Sport News: Der Morgen</title>
 </programme>
 <programme start="20251205060000 +0000" stop="20251205070000 +0000" channel="Sky Sport News HD.skyde">
-    <title>BL: Matchplan: RBL - SGE, 13 Spieltag</title>
+    <title>BL: Matchplan: RBL - SGE, 13. Spieltag</title>
 </programme>
 <programme start="20251205070000 +0000" stop="20251205080000 +0000" channel="Sky Sport News HD.skyde">
     <title>Sky Sport News: Der Morgen</title>

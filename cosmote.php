@@ -66,14 +66,6 @@
     <title>Football: FK Bodo/Glimt - Juventus Football Club</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251205073000 +0700" stop="20251205093000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Bologna - Cremonese</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251205093000 +0700" stop="20251205100000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Serie A Full Impact 2025-26 E13</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251205100000 +0700" stop="20251205120000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Como - Sassuolo</title>
     <desc>Live: Tidak</desc>
@@ -206,10 +198,6 @@
     <title>Football: Salford City - Leyton Orient</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251205070000 +0700" stop="20251205100000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Philadelphia 76ers - Golden State Warriors (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
 <programme start="20251205100000 +0700" stop="20251205103000 +0700" channel="COSMOTE Sport 4 HD">
     <title>NBA Specials</title>
     <desc>Live: Tidak</desc>
@@ -268,10 +256,6 @@
 </programme>
 <programme start="20251206090000 +0700" stop="20251206110000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Fenerbahce - Bursaspor</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251205084500 +0700" stop="20251205094500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Highlights: 2025 Extreme H</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251205094500 +0700" stop="20251205100500 +0700" channel="COSMOTE Sport 5 HD">
@@ -452,6 +436,10 @@
 </programme>
 <programme start="20251206074000 +0700" stop="20251206103000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Fight Sports: UFC Fight Night 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251206103000 +0700" stop="20251206110000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Premier Padel Tour 2025 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251205090000 +0700" stop="20251205110000 +0700" channel="COSMOTE Sport 7 HD">
