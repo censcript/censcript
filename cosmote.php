@@ -1,7 +1,3 @@
-<programme start="20251205230000 +0700" stop="20251205233000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>UEFA Champions League Magazine 2025-26 E13</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251205233000 +0700" stop="20251206013000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Panathinaikos - SK Sturm Graz</title>
     <desc>Live: Tidak</desc>
@@ -72,6 +68,10 @@
 </programme>
 <programme start="20251206220000 +0700" stop="20251207001000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Olympiacos - OFI (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
+<programme start="20251207001000 +0700" stop="20251207010000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>PostGame (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20251205222000 +0700" stop="20251206002000 +0700" channel="COSMOTE Sport 2 HD">
@@ -206,6 +206,10 @@
     <title>Sports Classics: Worldies E9</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251207000000 +0700" stop="20251207020000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: FC Internazionale Milano - Como (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
 <programme start="20251205214500 +0700" stop="20251206001000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Badalona - Hapoel Holon</title>
     <desc>Live: Tidak</desc>
@@ -262,8 +266,12 @@
     <title>NBA on Fire 2025-26 E6 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251205223500 +0700" stop="20251205232500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC 2025</title>
+<programme start="20251207000500 +0700" stop="20251207004000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>NBA Action 2025-26 E3507</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251207004000 +0700" stop="20251207024000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Gran Canaria - Barcelona</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251205232500 +0700" stop="20251206003000 +0700" channel="COSMOTE Sport 5 HD">
@@ -354,8 +362,8 @@
     <title>Football: Bristol City - Millwall (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251205223000 +0700" stop="20251205233000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Nitto ATP Finals 2025 - Highlights</title>
+<programme start="20251207000000 +0700" stop="20251207010000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251205233000 +0700" stop="20251206022500 +0700" channel="COSMOTE Sport 6 HD">
