@@ -70,6 +70,10 @@
     <title>UEFA Champions League Magazine 2025-26 E14</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251206180000 +0700" stop="20251206200000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: Olympiacos - Real Madrid CF</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251205161000 +0700" stop="20251205181000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Como - Sassuolo</title>
     <desc>Live: Tidak</desc>
@@ -132,6 +136,10 @@
 </programme>
 <programme start="20251206163000 +0700" stop="20251206182500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: AS Roma - SSC Napoli</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251206182500 +0700" stop="20251206203500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Panathinaikos - AEK</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251205170000 +0700" stop="20251205190000 +0700" channel="COSMOTE Sport 3 HD">
@@ -202,6 +210,14 @@
     <title>American Football: Detroit Lions - Dallas Cowboys</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251206182500 +0700" stop="20251206185000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>William Hill Scottish Premiership - Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251206185000 +0700" stop="20251206210000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: SL Benfica - Sporting CP</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251205170000 +0700" stop="20251205193000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Philadelphia 76ers - Golden State Warriors</title>
     <desc>Live: Tidak</desc>
@@ -258,8 +274,8 @@
     <title>Basketball: Fenerbahce - Bursaspor</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251205164000 +0700" stop="20251205180000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Grand Prix Show 2025</title>
+<programme start="20251206184500 +0700" stop="20251206205500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Heidelberg - Promitheas</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251205180000 +0700" stop="20251205190000 +0700" channel="COSMOTE Sport 5 HD">
@@ -432,6 +448,10 @@
 </programme>
 <programme start="20251206160000 +0700" stop="20251206183000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP Challenger 50 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251206183000 +0700" stop="20251206193000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>ATP 500 2025 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251205170000 +0700" stop="20251205190000 +0700" channel="COSMOTE Sport 7 HD">
