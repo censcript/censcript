@@ -296,6 +296,9 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251205100000 +0000" stop="20251205101500 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
+<programme start="20251205101500 +0000" stop="20251205103000 +0000" channel="Cartoon Network.skyde">
+    <title>Die fantastische Welt von Gumball</title>
+</programme>
 <programme start="20251205103000 +0000" stop="20251205104000 +0000" channel="Cartoon Network.skyde">
     <title>Teen Titans Go!</title>
 </programme>
@@ -2798,7 +2801,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251205183000 +0000" stop="20251205191500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: M05 - BMG: tipico Countdown, Flutlicht-Freitag, 13. Spieltag</title>
 </programme>
-<programme start="20251205191500 +0000" stop="20251205224500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
+<programme start="20251205191500 +0000" stop="20251205221500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: 1. FSV Mainz 05 - Borussia M&#039;gladbach, Flutlicht-Freitag, 13. Spieltag</title>
 </programme>
 <programme start="20251205164000 +0000" stop="20251205170000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
