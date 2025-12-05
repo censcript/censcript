@@ -694,9 +694,6 @@
 <programme start="20251205010000 +0000" stop="20251205030000 +0000" channel="ANTV.vision">
 <title>Zeynep</title>
 </programme>
-<programme start="20251205030000 +0000" stop="20251205063000 +0000" channel="ANTV.vision">
-<title>Singham Return</title>
-</programme>
 <programme start="20251205063000 +0000" stop="20251205080000 +0000" channel="ANTV.vision">
 <title>Cinta Keluarga Pandya</title>
 </programme>
@@ -870,9 +867,6 @@
 </programme>
 <programme start="20251205012700 +0000" stop="20251205013000 +0000" channel="TVOne.vision">
 <title>Kabar Terkini</title>
-</programme>
-<programme start="20251205013000 +0000" stop="20251205020000 +0000" channel="TVOne.vision">
-<title>Hidup Sehat</title>
 </programme>
 <programme start="20251205020000 +0000" stop="20251205023000 +0000" channel="TVOne.vision">
 <title>Inspirasi Pagi (L)</title>
@@ -1497,4 +1491,10 @@
 </programme>
 <programme start="20251205160000 +0000" stop="20251205163000 +0000" channel="BTV.vision">
 <title>Dari Nol</title>
+</programme>
+<programme start="20251205163000 +0000" stop="20251205173000 +0000" channel="BTV.vision">
+<title>Supercar Championship 2025</title>
+</programme>
+<programme start="20251205173000 +0000" stop="20251205182700 +0000" channel="BTV.vision">
+<title>Berita Viral</title>
 </programme>
