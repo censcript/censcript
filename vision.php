@@ -595,9 +595,6 @@
 <programme start="20251206154500 +0000" stop="20251206163000 +0000" channel="Trans 7.vision">
 <title>The Police</title>
 </programme>
-<programme start="20251206163000 +0000" stop="20251206181500 +0000" channel="Trans 7.vision">
-<title>Comic 8</title>
-</programme>
 <programme start="20251206181500 +0000" stop="20251206190000 +0000" channel="Trans 7.vision">
 <title>Best Fishing</title>
 </programme>
@@ -688,23 +685,8 @@
 <programme start="20251206093000 +0000" stop="20251206103000 +0000" channel="ANTV.vision">
 <title>ANTV Seru</title>
 </programme>
-<programme start="20251206103000 +0000" stop="20251206120000 +0000" channel="ANTV.vision">
-<title>Kisah Cinta Nyi Blorong</title>
-</programme>
-<programme start="20251206120000 +0000" stop="20251206133000 +0000" channel="ANTV.vision">
-<title>Telaga Angker</title>
-</programme>
 <programme start="20251206133000 +0000" stop="20251206160000 +0000" channel="ANTV.vision">
 <title>Serie A Liga Italia</title>
-</programme>
-<programme start="20251206160000 +0000" stop="20251206180000 +0000" channel="ANTV.vision">
-<title>Happy Ghost 4</title>
-</programme>
-<programme start="20251206180000 +0000" stop="20251206190000 +0000" channel="ANTV.vision">
-<title>Best Of The Best 3</title>
-</programme>
-<programme start="20251206190000 +0000" stop="20251206200000 +0000" channel="ANTV.vision">
-<title>No Holds Barred</title>
 </programme>
 <programme start="20251206200000 +0000" stop="20251206223000 +0000" channel="ANTV.vision">
 <title>Jug Jugg Jeeyo</title>
@@ -891,9 +873,6 @@
 </programme>
 <programme start="20251206150000 +0000" stop="20251206160000 +0000" channel="TVOne.vision">
 <title>One Pride MMA (L)</title>
-</programme>
-<programme start="20251206160000 +0000" stop="20251206163000 +0000" channel="TVOne.vision">
-<title>Sport Style (L)</title>
 </programme>
 <programme start="20251206163000 +0000" stop="20251206170000 +0000" channel="TVOne.vision">
 <title>Kabar Utama</title>
@@ -1497,4 +1476,25 @@
 </programme>
 <programme start="20251206182700 +0000" stop="20251206183000 +0000" channel="BTV.vision">
 <title>Tanah Airku</title>
+</programme>
+<programme start="20251206183000 +0000" stop="20251206193000 +0000" channel="BTV.vision">
+<title>Berita Satu Sore</title>
+</programme>
+<programme start="20251206193000 +0000" stop="20251206203000 +0000" channel="BTV.vision">
+<title>Berita Satu Malam</title>
+</programme>
+<programme start="20251206203000 +0000" stop="20251206213000 +0000" channel="BTV.vision">
+<title>Spot On</title>
+</programme>
+<programme start="20251206213000 +0000" stop="20251206230000 +0000" channel="BTV.vision">
+<title>Berita Satu Pagi</title>
+</programme>
+<programme start="20251206230000 +0000" stop="20251206230300 +0000" channel="BTV.vision">
+<title>Indonesia Raya</title>
+</programme>
+<programme start="20251206230300 +0000" stop="20251206233000 +0000" channel="BTV.vision">
+<title>Saat Teduh Bersama GMS</title>
+</programme>
+<programme start="20251206233000 +0000" stop="20251207003000 +0000" channel="BTV.vision">
+<title>Jalan Dakwah</title>
 </programme>
