@@ -868,9 +868,6 @@
 <programme start="20251206053000 +0000" stop="20251206070000 +0000" channel="TVOne.vision">
 <title>Damai Indonesiaku (L)</title>
 </programme>
-<programme start="20251206070000 +0000" stop="20251206080000 +0000" channel="TVOne.vision">
-<title>PodCast</title>
-</programme>
 <programme start="20251206080000 +0000" stop="20251206090000 +0000" channel="TVOne.vision">
 <title>Apa Kabar Indonesia... (L)</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20251206173000 +0000" stop="20251206182700 +0000" channel="BTV.vision">
 <title>Berita Viral</title>
+</programme>
+<programme start="20251206182700 +0000" stop="20251206183000 +0000" channel="BTV.vision">
+<title>Tanah Airku</title>
 </programme>
