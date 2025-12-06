@@ -70,10 +70,6 @@
     <title>Football: Omonoia FC - FC Dynamo Kyiv</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251206094000 +0700" stop="20251206113500 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Lecce - Torino</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251206113500 +0700" stop="20251206133000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Juventus Football Club - Cagliari</title>
     <desc>Live: Tidak</desc>
@@ -128,6 +124,10 @@
 </programme>
 <programme start="20251207100000 +0700" stop="20251207120000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Hellas Verona - Atalanta</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251207120000 +0700" stop="20251207140000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Sassuolo - ACF Fiorentina</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251206110000 +0700" stop="20251206130500 +0700" channel="COSMOTE Sport 3 HD">
@@ -198,6 +198,10 @@
     <title>Copa Sudamericana 2025 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251207120000 +0700" stop="20251207140000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Derby County - Leicester City FC</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251206110000 +0700" stop="20251206130000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Granada - Real Madrid</title>
     <desc>Live: Tidak</desc>
@@ -266,8 +270,8 @@
     <title>NBA Specials</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251206110000 +0700" stop="20251206120000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Red Bull MotoGP Rookies Cup 2025</title>
+<programme start="20251207120000 +0700" stop="20251207140000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Cantu - Virtus Bologna</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251206120000 +0700" stop="20251206130000 +0700" channel="COSMOTE Sport 5 HD">
@@ -348,6 +352,14 @@
 </programme>
 <programme start="20251207110000 +0700" stop="20251207122000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Grand Prix Show 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251207122000 +0700" stop="20251207125000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Extreme E - Highlights 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251207125000 +0700" stop="20251207135500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: Extreme E 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251206110000 +0700" stop="20251206131500 +0700" channel="COSMOTE Sport 6 HD">
@@ -477,6 +489,10 @@
 <programme start="20251207080000 +0700" stop="20251207123000 +0700" channel="COSMOTE Sport 7 HD">
     <title>Boxing: Isaac Cruz - Lamont Roach (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20251207123000 +0700" stop="20251207130000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251206110000 +0700" stop="20251206130000 +0700" channel="COSMOTE Sport 8 HD">
     <title>COSMOTESport8HD</title>

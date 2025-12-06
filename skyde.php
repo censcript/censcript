@@ -2628,25 +2628,25 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251206153000 +0000" stop="20251206155000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt Fußball: Österreich, Admiral Bundesliga</title>
 </programme>
-<programme start="20251206155000 +0000" stop="20251206180000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20251206155000 +0000" stop="20251206183000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live Admiral BL: SK Rapid - SV Oberbank Ried, 16. Runde</title>
 </programme>
 <programme start="20251206201000 +0000" stop="20251206203000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt Eishockey NHL</title>
 </programme>
-<programme start="20251206203000 +0000" stop="20251206233000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20251206203000 +0000" stop="20251207090000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live NHL: Columbus Blue Jackets @ Florida Panthers</title>
 </programme>
 <programme start="20251206153000 +0000" stop="20251206155000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Es folgt Fußball: Österreich, Admiral Bundesliga</title>
 </programme>
-<programme start="20251206155000 +0000" stop="20251206180000 +0000" channel="Sky Sport Austria 3 HD.skyde">
+<programme start="20251206155000 +0000" stop="20251206183000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live Admiral BL: FC Blau-Weiß Linz - FC Red Bull Salzburg, 16. Runde</title>
 </programme>
 <programme start="20251206153000 +0000" stop="20251206155000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Es folgt Fußball: Österreich, Admiral Bundesliga</title>
 </programme>
-<programme start="20251206155000 +0000" stop="20251206180000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+<programme start="20251206155000 +0000" stop="20251206183000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live Admiral BL: TSV Egger Glas Hartberg - LASK, 16. Runde</title>
 </programme>
 <programme start="20251205233000 +0000" stop="20251206013000 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -2757,7 +2757,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251206141500 +0000" stop="20251206164500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: VfB Stuttgart - FC Bayern München, 13. Spieltag</title>
 </programme>
-<programme start="20251206164500 +0000" stop="20251206201500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
+<programme start="20251206164500 +0000" stop="20251206204500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: RB Leipzig - Eintracht Frankfurt, tipico Topspiel der Woche, 13. Spieltag</title>
 </programme>
 <programme start="20251206111000 +0000" stop="20251206113000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
@@ -2781,7 +2781,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251206190000 +0000" stop="20251206220000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Live 2. BL: SV Darmstadt 98 - Karlsruher SC, tipico Topspiel der Woche, 15. Spieltag</title>
 </programme>
-<programme start="20251206220000 +0000" stop="20251206230000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+<programme start="20251206220000 +0000" stop="20251206233000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 15. Spieltag, Samstag komplett</title>
 </programme>
 <programme start="20251206111000 +0000" stop="20251206113000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
@@ -2796,7 +2796,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251206141500 +0000" stop="20251206164500 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live BL: 1. FC Köln - FC St. Pauli, 13. Spieltag</title>
 </programme>
-<programme start="20251206164500 +0000" stop="20251206201500 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
+<programme start="20251206164500 +0000" stop="20251206204500 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live BL: Tactical Feed: RBL - SGE, 13. Spieltag</title>
 </programme>
 <programme start="20251206111000 +0000" stop="20251206113000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
@@ -2808,7 +2808,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251206140000 +0000" stop="20251206141500 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live BL: FCH - SCF: tipico Countdown, 13. Spieltag</title>
 </programme>
-<programme start="20251206141500 +0000" stop="20251206164500 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
+<programme start="20251206141500 +0000" stop="20251206171500 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live BL: 1. FC Heidenheim - SC Freiburg, 13. Spieltag</title>
 </programme>
 <programme start="20251206111000 +0000" stop="20251206113000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
@@ -2820,7 +2820,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251206140000 +0000" stop="20251206141500 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Live BL: WOB - FCU: tipico Countdown, 13. Spieltag</title>
 </programme>
-<programme start="20251206141500 +0000" stop="20251206164500 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
+<programme start="20251206141500 +0000" stop="20251206171500 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Live BL: VfL Wolfsburg - 1. FC Union Berlin, 13. Spieltag</title>
 </programme>
 <programme start="20251206111000 +0000" stop="20251206113000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
@@ -2829,7 +2829,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251206113000 +0000" stop="20251206140000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
     <title>Live 2. BL: Multiview, 15. Spieltag, Samstag</title>
 </programme>
-<programme start="20251206140000 +0000" stop="20251206163000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
+<programme start="20251206140000 +0000" stop="20251206171500 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
     <title>Live BL: Multiview, 13. Spieltag</title>
 </programme>
 <programme start="20251206111000 +0000" stop="20251206113000 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
@@ -2838,7 +2838,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251206113000 +0000" stop="20251206140000 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
     <title>Live 2. BL: Samstags-Konferenz, 15. Spieltag</title>
 </programme>
-<programme start="20251206140000 +0000" stop="20251206144500 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
+<programme start="20251206140000 +0000" stop="20251206151500 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
     <title>Live 2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 15. Spieltag, Samstag</title>
 </programme>
 <programme start="20251205230000 +0000" stop="20251206010000 +0000" channel="Sky Sport F1 HD.skyde">
@@ -3237,13 +3237,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251206212500 +0000" stop="20251206214500 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: LIVE Basketball NBA</title>
 </programme>
-<programme start="20251206214500 +0000" stop="20251207003000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20251206214500 +0000" stop="20251207090000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: New Orleans Pelicans @ Brooklyn Nets</title>
 </programme>
 <programme start="20251206143000 +0000" stop="20251206145000 +0000" channel="Sky Sport 8 HD.skyde">
     <title>Es folgt: Live Premier League</title>
 </programme>
-<programme start="20251206145000 +0000" stop="20251206170000 +0000" channel="Sky Sport 8 HD.skyde">
+<programme start="20251206145000 +0000" stop="20251206173000 +0000" channel="Sky Sport 8 HD.skyde">
     <title>Live PL: AFC Bournemouth - FC Chelsea, 15. Spieltag</title>
 </programme>
 <programme start="20251205233500 +0000" stop="20251206002000 +0000" channel="SYFY HD.skyde">
