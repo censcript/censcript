@@ -1,7 +1,3 @@
-<programme start="20251206180000 +0700" stop="20251206200000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: Olympiacos - Real Madrid CF</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251206200000 +0700" stop="20251206210000 +0700" channel="COSMOTE Sport 1 HD">
     <title>UEL &amp; UECL Magazine 2025-26 E6</title>
     <desc>Live: Tidak</desc>
@@ -202,6 +198,10 @@
     <title>Football: Cremonese - Lecce (L)</title>
     <desc>Live: Ya</desc>
 </programme>
+<programme start="20251207203000 +0700" stop="20251207210000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Copa Libertadores 2025 - Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251206184500 +0700" stop="20251206205500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Heidelberg - Promitheas</title>
     <desc>Live: Tidak</desc>
@@ -273,10 +273,6 @@
 <programme start="20251207190000 +0700" stop="20251207210000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Tenerife - Real Madrid (L)</title>
     <desc>Live: Ya</desc>
-</programme>
-<programme start="20251206173000 +0700" stop="20251206193000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>2025 Extreme H</title>
-    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251206193000 +0700" stop="20251206213000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Football: Derby County - Leicester City FC (L)</title>
@@ -358,8 +354,8 @@
     <title>WRC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251206183000 +0700" stop="20251206193000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>ATP 500 2025 - Highlights</title>
+<programme start="20251207200500 +0700" stop="20251207214000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251206193000 +0700" stop="20251206203000 +0700" channel="COSMOTE Sport 6 HD">
@@ -419,6 +415,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251207190000 +0700" stop="20251207200000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Beach Volley: Pro Tour Elite 16 2025 (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
+<programme start="20251207200000 +0700" stop="20251207210000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Beach Volley: Pro Tour Elite 16 2025 (L)</title>
     <desc>Live: Ya</desc>
 </programme>

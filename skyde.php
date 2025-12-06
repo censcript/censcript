@@ -3669,90 +3669,96 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251206213500 +0000" stop="20251206233500 +0000" channel="Warner TV Film HD.skyde">
     <title>Road to Perdition</title>
 </programme>
-<programme start="20251205230500 +0000" stop="20251205235000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20251211232500 +0000" stop="20251212001500 +0000" channel="Warner TV Serie HD.skyde">
     <title>NCIS: Los Angeles</title>
 </programme>
-<programme start="20251205235000 +0000" stop="20251206004000 +0000" channel="Warner TV Serie HD.skyde">
-    <title>The Calling</title>
+<programme start="20251212001500 +0000" stop="20251212010000 +0000" channel="Warner TV Serie HD.skyde">
+    <title>NCIS: Los Angeles</title>
 </programme>
-<programme start="20251206004000 +0000" stop="20251206012500 +0000" channel="Warner TV Serie HD.skyde">
-    <title>The Calling</title>
+<programme start="20251212010000 +0000" stop="20251212014500 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Rizzoli and Isles</title>
 </programme>
-<programme start="20251206012500 +0000" stop="20251206014000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20251212014500 +0000" stop="20251212023000 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Rizzoli and Isles</title>
+</programme>
+<programme start="20251212023000 +0000" stop="20251212031500 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Fringe</title>
+</programme>
+<programme start="20251212031500 +0000" stop="20251212035500 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Fringe</title>
+</programme>
+<programme start="20251212035500 +0000" stop="20251212040500 +0000" channel="Warner TV Serie HD.skyde">
     <title>NTSF:SD:SUV::</title>
 </programme>
-<programme start="20251206014000 +0000" stop="20251206015000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20251212040500 +0000" stop="20251212042000 +0000" channel="Warner TV Serie HD.skyde">
     <title>NTSF:SD:SUV::</title>
 </programme>
-<programme start="20251206015000 +0000" stop="20251206023500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20251212042000 +0000" stop="20251212051500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Daktari</title>
 </programme>
-<programme start="20251206023500 +0000" stop="20251206032500 +0000" channel="Warner TV Serie HD.skyde">
-    <title>Daktari</title>
+<programme start="20251212051500 +0000" stop="20251212060500 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Mord ist ihr Hobby</title>
 </programme>
-<programme start="20251206032500 +0000" stop="20251206041000 +0000" channel="Warner TV Serie HD.skyde">
-    <title>Daktari</title>
+<programme start="20251212060500 +0000" stop="20251212065500 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Mord ist ihr Hobby</title>
 </programme>
-<programme start="20251206041000 +0000" stop="20251206050000 +0000" channel="Warner TV Serie HD.skyde">
-    <title>Daktari</title>
+<programme start="20251212065500 +0000" stop="20251212074500 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Mord ist ihr Hobby</title>
 </programme>
-<programme start="20251206050000 +0000" stop="20251206055500 +0000" channel="Warner TV Serie HD.skyde">
-    <title>Daktari</title>
+<programme start="20251212074500 +0000" stop="20251212083500 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Mord ist ihr Hobby</title>
 </programme>
-<programme start="20251206055500 +0000" stop="20251206065000 +0000" channel="Warner TV Serie HD.skyde">
-    <title>Daktari</title>
+<programme start="20251212083500 +0000" stop="20251212092500 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Mord ist ihr Hobby</title>
 </programme>
-<programme start="20251206065000 +0000" stop="20251206074500 +0000" channel="Warner TV Serie HD.skyde">
-    <title>Daktari</title>
+<programme start="20251212092500 +0000" stop="20251212101500 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Mord ist ihr Hobby</title>
 </programme>
-<programme start="20251206074500 +0000" stop="20251206083500 +0000" channel="Warner TV Serie HD.skyde">
-    <title>Daktari</title>
+<programme start="20251212101500 +0000" stop="20251212111000 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Unsere kleine Farm</title>
 </programme>
-<programme start="20251206083500 +0000" stop="20251206093000 +0000" channel="Warner TV Serie HD.skyde">
-    <title>Daktari</title>
+<programme start="20251212111000 +0000" stop="20251212120000 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Unsere kleine Farm</title>
 </programme>
-<programme start="20251206093000 +0000" stop="20251206102000 +0000" channel="Warner TV Serie HD.skyde">
-    <title>Daktari</title>
+<programme start="20251212120000 +0000" stop="20251212125000 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Unsere kleine Farm</title>
 </programme>
-<programme start="20251206102000 +0000" stop="20251206111500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20251212125000 +0000" stop="20251212134500 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Unsere kleine Farm</title>
+</programme>
+<programme start="20251212134500 +0000" stop="20251212143500 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Unsere kleine Farm</title>
+</programme>
+<programme start="20251212143500 +0000" stop="20251212152000 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Rizzoli and Isles</title>
+</programme>
+<programme start="20251212152000 +0000" stop="20251212160500 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Rizzoli and Isles</title>
+</programme>
+<programme start="20251212160500 +0000" stop="20251212165500 +0000" channel="Warner TV Serie HD.skyde">
+    <title>NCIS</title>
+</programme>
+<programme start="20251212165500 +0000" stop="20251212174000 +0000" channel="Warner TV Serie HD.skyde">
+    <title>NCIS</title>
+</programme>
+<programme start="20251212174000 +0000" stop="20251212182500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Fringe</title>
 </programme>
-<programme start="20251206111500 +0000" stop="20251206120500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20251212182500 +0000" stop="20251212191500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Fringe</title>
 </programme>
-<programme start="20251206120500 +0000" stop="20251206130000 +0000" channel="Warner TV Serie HD.skyde">
-    <title>Fringe</title>
+<programme start="20251212191500 +0000" stop="20251212200000 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Alert: Missing Persons Unit</title>
 </programme>
-<programme start="20251206130000 +0000" stop="20251206135500 +0000" channel="Warner TV Serie HD.skyde">
-    <title>Fringe</title>
+<programme start="20251212200000 +0000" stop="20251212205000 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Alert: Missing Persons Unit</title>
 </programme>
-<programme start="20251206135500 +0000" stop="20251206145000 +0000" channel="Warner TV Serie HD.skyde">
-    <title>Fringe</title>
+<programme start="20251212205000 +0000" stop="20251212213500 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Alert: Missing Persons Unit</title>
 </programme>
-<programme start="20251206145000 +0000" stop="20251206154000 +0000" channel="Warner TV Serie HD.skyde">
-    <title>Fringe</title>
+<programme start="20251212213500 +0000" stop="20251212222500 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Alert: Missing Persons Unit</title>
 </programme>
-<programme start="20251206154000 +0000" stop="20251206163500 +0000" channel="Warner TV Serie HD.skyde">
-    <title>Fringe</title>
-</programme>
-<programme start="20251206163500 +0000" stop="20251206172500 +0000" channel="Warner TV Serie HD.skyde">
-    <title>Fringe</title>
-</programme>
-<programme start="20251206172500 +0000" stop="20251206182000 +0000" channel="Warner TV Serie HD.skyde">
-    <title>Fringe</title>
-</programme>
-<programme start="20251206182000 +0000" stop="20251206191500 +0000" channel="Warner TV Serie HD.skyde">
-    <title>Fringe</title>
-</programme>
-<programme start="20251206191500 +0000" stop="20251206211000 +0000" channel="Warner TV Serie HD.skyde">
-    <title>The Day After Tomorrow</title>
-</programme>
-<programme start="20251206211000 +0000" stop="20251206215500 +0000" channel="Warner TV Serie HD.skyde">
-    <title>Falling Skies</title>
-</programme>
-<programme start="20251206215500 +0000" stop="20251206224000 +0000" channel="Warner TV Serie HD.skyde">
-    <title>Falling Skies</title>
-</programme>
-<programme start="20251206224000 +0000" stop="20251206232500 +0000" channel="Warner TV Serie HD.skyde">
-    <title>Falling Skies</title>
+<programme start="20251212222500 +0000" stop="20251212231000 +0000" channel="Warner TV Serie HD.skyde">
+    <title>NCIS: Los Angeles</title>
 </programme>
