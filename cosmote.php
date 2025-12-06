@@ -54,8 +54,8 @@
     <title>Football: AEK - Atromitos (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251207013000 +0700" stop="20251207034500 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Volos - Kifisia (L)</title>
+<programme start="20251208041000 +0700" stop="20251208063000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Sportshow (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20251207034500 +0700" stop="20251207060000 +0700" channel="COSMOTE Sport 2 HD">
@@ -121,6 +121,10 @@
 <programme start="20251208024500 +0700" stop="20251208044500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: SSC Napoli - Juventus Football Club (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20251208044500 +0700" stop="20251208070000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: AEL Novibet - Panathinaikos</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251207024500 +0700" stop="20251207044500 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Hellas Verona - Atalanta (L)</title>
@@ -278,10 +282,6 @@
     <title>Basketball: Toronto Raptors - Boston Celtics (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251207023500 +0700" stop="20251207033000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251207033000 +0700" stop="20251207053000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Football: Famalicao - SC Braga (L)</title>
     <desc>Live: Ya</desc>
@@ -438,6 +438,10 @@
     <title>Beach Volley: Pro Tour Elite 16 2025 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
+<programme start="20251208040000 +0700" stop="20251208053000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Beach Volley: Pro Tour Elite 16 2025 (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
 <programme start="20251207023000 +0700" stop="20251207043000 +0700" channel="COSMOTE Sport 7 HD">
     <title>Football: Chesterfield  - Doncaster Rovers (L)</title>
     <desc>Live: Ya</desc>
@@ -523,6 +527,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251208033000 +0700" stop="20251208040000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251208040000 +0700" stop="20251208050000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
@@ -644,6 +652,10 @@
 </programme>
 <programme start="20251208010000 +0700" stop="20251208042500 +0700" channel="COSMOTE Sport 9 HD">
     <title>American Football: Jacksonville Jaguars - Indianapolis Colts (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
+<programme start="20251208042500 +0700" stop="20251208075500 +0700" channel="COSMOTE Sport 9 HD">
+    <title>American Football: Green Bay Packers - Chicago Bears (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 No EPG found for COSMOTE Sport 10 HD
