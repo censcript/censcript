@@ -1105,7 +1105,90 @@
 <programme start="20251206165500 +0000" stop="20251205172500 +0000" channel="beIN Sports 1.mncvision">
     <title>Super Lig 25/26: IBA Vs FEN (L)</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20251205190000 +0000" stop="20251205191000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>LaLiga Club Classic: RMA Vs BAR</title>
+</programme>
+<programme start="20251205191000 +0000" stop="20251205194000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>FastZone 2025, Ep 34</title>
+</programme>
+<programme start="20251205194000 +0000" stop="20251205195500 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>Chasing The Dream 7: Lusail</title>
+</programme>
+<programme start="20251205195500 +0000" stop="20251205220000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>LaLiga 2025/26: OVI Vs MLL (L)</title>
+</programme>
+<programme start="20251205220000 +0000" stop="20251206000000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>LFCTV 2025/26: LIV Vs SUN</title>
+</programme>
+<programme start="20251206000000 +0000" stop="20251206003000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>LFC Trending 2025/26, Ep 17</title>
+</programme>
+<programme start="20251206003000 +0000" stop="20251206010000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>LFCTV HL 2025/26: LIV Vs PSV</title>
+</programme>
+<programme start="20251206010000 +0000" stop="20251206025000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>LaLiga 2025/26: BAR Vs ATM</title>
+</programme>
+<programme start="20251206025000 +0000" stop="20251206044500 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>Super Lig 2025/26: GAL Vs SAM</title>
+</programme>
+<programme start="20251206044500 +0000" stop="20251206051500 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>GP Confidential 2025, Ep 24</title>
+</programme>
+<programme start="20251206051500 +0000" stop="20251206060000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>FIA Formula 2 2025: Yas Marina</title>
+</programme>
+<programme start="20251206060000 +0000" stop="20251206063000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>FIA Formula 2 2025: Yas Marina</title>
+</programme>
+<programme start="20251206063000 +0000" stop="20251206073000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>F1 Practice 2025: Abu Dhabi GP</title>
+</programme>
+<programme start="20251206073000 +0000" stop="20251206083000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>F1 Practice 2025: Abu Dhabi GP</title>
+</programme>
+<programme start="20251206083000 +0000" stop="20251206102500 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>LaLiga 2025/26: OVI Vs MLL</title>
+</programme>
+<programme start="20251206102500 +0000" stop="20251206113000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>F1 Practice 2025: Abu Dhabi (L)</title>
+</programme>
+<programme start="20251206113000 +0000" stop="20251206114500 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>LaLiga Goals Galore 2024/25</title>
+</programme>
+<programme start="20251206114500 +0000" stop="20251206115500 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>LaLiga Goals Galore 2024/25</title>
+</programme>
+<programme start="20251206115500 +0000" stop="20251206121000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>Chasing The Dream 7: Lusail</title>
+</programme>
+<programme start="20251206121000 +0000" stop="20251206130000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>FIA Formula 2: Yas Marina (L)</title>
+</programme>
+<programme start="20251206130000 +0000" stop="20251206131500 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>LaLiga Goals Galore 2024/25</title>
+</programme>
+<programme start="20251206131500 +0000" stop="20251206135500 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>Qual. Pre Show: Abu Dhabi (L)</title>
+</programme>
+<programme start="20251206135500 +0000" stop="20251206150000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>F1 Qual. 2025: Abu Dhabi (L)</title>
+</programme>
+<programme start="20251206150000 +0000" stop="20251206160000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>Qual. Post Show: Abu Dhabi (L)</title>
+</programme>
+<programme start="20251206160000 +0000" stop="20251206163000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>Ted&#039;s Qualifying Notebook (L)</title>
+</programme>
+<programme start="20251206163000 +0000" stop="20251206164000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>LaLiga Club Classic: BAR Vs RMA</title>
+</programme>
+<programme start="20251206164000 +0000" stop="20251206165500 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>LaLiga Goals Galore 2024/25</title>
+</programme>
+<programme start="20251206165500 +0000" stop="20251205172500 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>Super Lig 25/26: IBA Vs FEN (L)</title>
+</programme>
 <programme start="20251205173500 +0000" stop="20251205190500 +0000" channel="beIN Sports 2.mncvision">
     <title>ATP Tour 250 2025: Stockholm</title>
 </programme>
@@ -7166,7 +7249,156 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20251206111500 +0000" stop="20251206114500 +0000" channel="Nickelodeon.mncvision">
     <title>The Thundermans: Undercover</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20251205170000 +0000" stop="20251205172000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Dora</title>
+</programme>
+<programme start="20251205172000 +0000" stop="20251205174500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Barbapapa: Big Happy Family</title>
+</programme>
+<programme start="20251205174500 +0000" stop="20251205180000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Barbapapa: Big Happy Family</title>
+</programme>
+<programme start="20251205180000 +0000" stop="20251205182500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Tim Rex In Space</title>
+</programme>
+<programme start="20251205182500 +0000" stop="20251205184500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Blaze &amp; The Monster Machines</title>
+</programme>
+<programme start="20251205184500 +0000" stop="20251205191000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>PAW Patrol</title>
+</programme>
+<programme start="20251205191000 +0000" stop="20251205193500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>PAW Patrol</title>
+</programme>
+<programme start="20251205193500 +0000" stop="20251205194500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>PAW Patrol</title>
+</programme>
+<programme start="20251205194500 +0000" stop="20251205201000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Rubble &amp; Crew</title>
+</programme>
+<programme start="20251205201000 +0000" stop="20251205203000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Rubble &amp; Crew</title>
+</programme>
+<programme start="20251205203000 +0000" stop="20251205205500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Dora</title>
+</programme>
+<programme start="20251205205500 +0000" stop="20251205212000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Baby Shark&#039;s Big Show!</title>
+</programme>
+<programme start="20251205212000 +0000" stop="20251205214000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Baby Shark&#039;s Big Show!</title>
+</programme>
+<programme start="20251205214000 +0000" stop="20251205214500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20251205214500 +0000" stop="20251205215000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20251205215000 +0000" stop="20251205215500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20251205215500 +0000" stop="20251205220500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20251205220500 +0000" stop="20251205221000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20251205221000 +0000" stop="20251205221500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20251205221500 +0000" stop="20251205222000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20251205222000 +0000" stop="20251205224000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Barbapapa: Big Happy Family</title>
+</programme>
+<programme start="20251205224000 +0000" stop="20251205230500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Barbapapa: Big Happy Family</title>
+</programme>
+<programme start="20251205230500 +0000" stop="20251205233000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Rubble &amp; Crew</title>
+</programme>
+<programme start="20251205233000 +0000" stop="20251205235500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Rubble &amp; Crew</title>
+</programme>
+<programme start="20251205235500 +0000" stop="20251206001500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>PAW Patrol</title>
+</programme>
+<programme start="20251206001500 +0000" stop="20251206002500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>PAW Patrol</title>
+</programme>
+<programme start="20251206002500 +0000" stop="20251206005000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Barbapapa: Big Happy Family</title>
+</programme>
+<programme start="20251206005000 +0000" stop="20251206010500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Barbapapa: Big Happy Family</title>
+</programme>
+<programme start="20251206010500 +0000" stop="20251206013000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Tim Rex In Space</title>
+</programme>
+<programme start="20251206013000 +0000" stop="20251206015000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Rubble &amp; Crew</title>
+</programme>
+<programme start="20251206015000 +0000" stop="20251206020000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Rubble &amp; Crew</title>
+</programme>
+<programme start="20251206020000 +0000" stop="20251206022500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Dora</title>
+</programme>
+<programme start="20251206022500 +0000" stop="20251206025000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Blaze &amp; The Monster Machines</title>
+</programme>
+<programme start="20251206025000 +0000" stop="20251206031000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Barbapapa: Big Happy Family</title>
+</programme>
+<programme start="20251206031000 +0000" stop="20251206033500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Barbapapa: Big Happy Family</title>
+</programme>
+<programme start="20251206033500 +0000" stop="20251206040000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Tim Rex In Space</title>
+</programme>
+<programme start="20251206040000 +0000" stop="20251206042500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Rubble &amp; Crew</title>
+</programme>
+<programme start="20251206042500 +0000" stop="20251206044500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>PAW Patrol</title>
+</programme>
+<programme start="20251206044500 +0000" stop="20251206050000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>PAW Patrol</title>
+</programme>
+<programme start="20251206050000 +0000" stop="20251206050500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20251206050500 +0000" stop="20251206051000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20251206051000 +0000" stop="20251206051500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20251206051500 +0000" stop="20251206052000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20251206052000 +0000" stop="20251206052500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20251206052500 +0000" stop="20251206054500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Barbapapa: Big Happy Family</title>
+</programme>
+<programme start="20251206054500 +0000" stop="20251206060000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Barbapapa: Big Happy Family</title>
+</programme>
+<programme start="20251206060000 +0000" stop="20251206062500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Tim Rex In Space</title>
+</programme>
+<programme start="20251206062500 +0000" stop="20251206064500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Blaze &amp; The Monster Machines</title>
+</programme>
+<programme start="20251206064500 +0000" stop="20251206071000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>PAW Patrol</title>
+</programme>
+<programme start="20251206071000 +0000" stop="20251206074000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>PAW Patrol</title>
+</programme>
 <programme start="20251205180000 +0000" stop="20251205200500 +0000" channel="ONE.mncvision">
     <title>Running Man, Ep 758</title>
 </programme>
@@ -7215,8 +7447,93 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20251206154500 +0000" stop="20251206161500 +0000" channel="ONE.mncvision">
     <title>Running Man, Ep 623</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20251205180000 +0000" stop="20251205200500 +0000" channel="ONE HD.mncvision">
+    <title>Running Man, Ep 758</title>
+</programme>
+<programme start="20251205200500 +0000" stop="20251205214500 +0000" channel="ONE HD.mncvision">
+    <title>Reborn Rich, Ep 8</title>
+</programme>
+<programme start="20251205214500 +0000" stop="20251205220000 +0000" channel="ONE HD.mncvision">
+    <title>K-Hits</title>
+</programme>
+<programme start="20251205220000 +0000" stop="20251205231500 +0000" channel="ONE HD.mncvision">
+    <title>Band Of Sisters, Ep 40</title>
+</programme>
+<programme start="20251205231500 +0000" stop="20251206004000 +0000" channel="ONE HD.mncvision">
+    <title>Band Of Sisters, Ep 41</title>
+</programme>
+<programme start="20251206004000 +0000" stop="20251206020000 +0000" channel="ONE HD.mncvision">
+    <title>Band Of Sisters, Ep 42</title>
+</programme>
+<programme start="20251206020000 +0000" stop="20251206035000 +0000" channel="ONE HD.mncvision">
+    <title>The Half-Star Hotel..., Ep 4</title>
+</programme>
+<programme start="20251206035000 +0000" stop="20251206055000 +0000" channel="ONE HD.mncvision">
+    <title>Running Man, Ep 758</title>
+</programme>
+<programme start="20251206055000 +0000" stop="20251206072000 +0000" channel="ONE HD.mncvision">
+    <title>Reborn Rich, Ep 7</title>
+</programme>
+<programme start="20251206072000 +0000" stop="20251206090000 +0000" channel="ONE HD.mncvision">
+    <title>Reborn Rich, Ep 8</title>
+</programme>
+<programme start="20251206090000 +0000" stop="20251206110000 +0000" channel="ONE HD.mncvision">
+    <title>Home Alone, Ep 5</title>
+</programme>
+<programme start="20251206110000 +0000" stop="20251206114500 +0000" channel="ONE HD.mncvision">
+    <title>The Woman Who..., Ep 73</title>
+</programme>
+<programme start="20251206114500 +0000" stop="20251206123000 +0000" channel="ONE HD.mncvision">
+    <title>The Woman Who..., Ep 74</title>
+</programme>
+<programme start="20251206123000 +0000" stop="20251206134500 +0000" channel="ONE HD.mncvision">
+    <title>Bitter Sweet Hell, Ep 9</title>
+</programme>
+<programme start="20251206134500 +0000" stop="20251206154500 +0000" channel="ONE HD.mncvision">
+    <title>Running Man, Ep 622</title>
+</programme>
+<programme start="20251206154500 +0000" stop="20251206161500 +0000" channel="ONE HD.mncvision">
+    <title>Running Man, Ep 623</title>
+</programme>
+<programme start="20251205170100 +0000" stop="20251205184100 +0000" channel="ORIGINALS.mncvision">
+    <title>The Young And Prodigious...</title>
+</programme>
+<programme start="20251205184100 +0000" stop="20251205220800 +0000" channel="ORIGINALS.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20251205220800 +0000" stop="20251205235600 +0000" channel="ORIGINALS.mncvision">
+    <title>Gold</title>
+</programme>
+<programme start="20251205235600 +0000" stop="20251206020000 +0000" channel="ORIGINALS.mncvision">
+    <title>Mystery Road</title>
+</programme>
+<programme start="20251206020000 +0000" stop="20251206032500 +0000" channel="ORIGINALS.mncvision">
+    <title>Red Dog</title>
+</programme>
+<programme start="20251206032500 +0000" stop="20251206060900 +0000" channel="ORIGINALS.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20251206060900 +0000" stop="20251206075100 +0000" channel="ORIGINALS.mncvision">
+    <title>Unplugging</title>
+</programme>
+<programme start="20251206075100 +0000" stop="20251206093600 +0000" channel="ORIGINALS.mncvision">
+    <title>Gold</title>
+</programme>
+<programme start="20251206093600 +0000" stop="20251206114000 +0000" channel="ORIGINALS.mncvision">
+    <title>The Lost Husband</title>
+</programme>
+<programme start="20251206114000 +0000" stop="20251206130800 +0000" channel="ORIGINALS.mncvision">
+    <title>Natural Born Liar</title>
+</programme>
+<programme start="20251206130800 +0000" stop="20251206151700 +0000" channel="ORIGINALS.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20251206151700 +0000" stop="20251206165200 +0000" channel="ORIGINALS.mncvision">
+    <title>Hide And Seek</title>
+</programme>
+<programme start="20251206165200 +0000" stop="20251205172200 +0000" channel="ORIGINALS.mncvision">
+    <title>Gold</title>
+</programme>
 <programme start="20251205170100 +0000" stop="20251205184100 +0000" channel="ORIGINALS HD.mncvision">
     <title>The Young And Prodigious...</title>
 </programme>
@@ -7256,9 +7573,234 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20251206165200 +0000" stop="20251205172200 +0000" channel="ORIGINALS HD.mncvision">
     <title>Gold</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20251205170000 +0000" stop="20251205180000 +0000" channel="Outdoor Channel.mncvision">
+    <title>Get Out Alive S1, Ep 8</title>
+</programme>
+<programme start="20251205180000 +0000" stop="20251205190000 +0000" channel="Outdoor Channel.mncvision">
+    <title>Running Wild S2, Ep 9</title>
+</programme>
+<programme start="20251205190000 +0000" stop="20251205200000 +0000" channel="Outdoor Channel.mncvision">
+    <title>Ice Pilots NWT S4, Ep 9</title>
+</programme>
+<programme start="20251205200000 +0000" stop="20251205210000 +0000" channel="Outdoor Channel.mncvision">
+    <title>Ice Pilots NWT S4, Ep 10</title>
+</programme>
+<programme start="20251205210000 +0000" stop="20251205213000 +0000" channel="Outdoor Channel.mncvision">
+    <title>Duck Camp Dinners S1, Ep 5</title>
+</programme>
+<programme start="20251205213000 +0000" stop="20251205220000 +0000" channel="Outdoor Channel.mncvision">
+    <title>Duck Camp Dinners S1, Ep 6</title>
+</programme>
+<programme start="20251205220000 +0000" stop="20251205230000 +0000" channel="Outdoor Channel.mncvision">
+    <title>River Hunters S1, Ep 7</title>
+</programme>
+<programme start="20251205230000 +0000" stop="20251206000000 +0000" channel="Outdoor Channel.mncvision">
+    <title>Get Out Alive S1, Ep 8</title>
+</programme>
+<programme start="20251206000000 +0000" stop="20251206010000 +0000" channel="Outdoor Channel.mncvision">
+    <title>Running Wild S2, Ep 9</title>
+</programme>
+<programme start="20251206010000 +0000" stop="20251206020000 +0000" channel="Outdoor Channel.mncvision">
+    <title>Ice Pilots NWT S4, Ep 9</title>
+</programme>
+<programme start="20251206020000 +0000" stop="20251206030000 +0000" channel="Outdoor Channel.mncvision">
+    <title>Ice Pilots NWT S4, Ep 10</title>
+</programme>
+<programme start="20251206030000 +0000" stop="20251206033000 +0000" channel="Outdoor Channel.mncvision">
+    <title>Duck Camp Dinners S1, Ep 5</title>
+</programme>
+<programme start="20251206033000 +0000" stop="20251206040000 +0000" channel="Outdoor Channel.mncvision">
+    <title>Duck Camp Dinners S1, Ep 6</title>
+</programme>
+<programme start="20251206040000 +0000" stop="20251206050000 +0000" channel="Outdoor Channel.mncvision">
+    <title>River Hunters S1, Ep 7</title>
+</programme>
+<programme start="20251206050000 +0000" stop="20251206060000 +0000" channel="Outdoor Channel.mncvision">
+    <title>Get Out Alive S1, Ep 8</title>
+</programme>
+<programme start="20251206060000 +0000" stop="20251206070000 +0000" channel="Outdoor Channel.mncvision">
+    <title>Running Wild S2, Ep 9</title>
+</programme>
+<programme start="20251206070000 +0000" stop="20251206073000 +0000" channel="Outdoor Channel.mncvision">
+    <title>Wild Fed S1, Ep 5</title>
+</programme>
+<programme start="20251206073000 +0000" stop="20251206080000 +0000" channel="Outdoor Channel.mncvision">
+    <title>Wild Fed S1, Ep 6</title>
+</programme>
+<programme start="20251206080000 +0000" stop="20251206090000 +0000" channel="Outdoor Channel.mncvision">
+    <title>Trucking Hell S2, Ep 4</title>
+</programme>
+<programme start="20251206090000 +0000" stop="20251206093000 +0000" channel="Outdoor Channel.mncvision">
+    <title>Jade Fever S4, Ep 11</title>
+</programme>
+<programme start="20251206093000 +0000" stop="20251206100000 +0000" channel="Outdoor Channel.mncvision">
+    <title>Jade Fever S4, Ep 12</title>
+</programme>
+<programme start="20251206100000 +0000" stop="20251206110000 +0000" channel="Outdoor Channel.mncvision">
+    <title>Ice Pilots NWT S4, Ep 11</title>
+</programme>
+<programme start="20251206110000 +0000" stop="20251206120000 +0000" channel="Outdoor Channel.mncvision">
+    <title>Ice Pilots NWT S4, Ep 12</title>
+</programme>
+<programme start="20251206120000 +0000" stop="20251206123000 +0000" channel="Outdoor Channel.mncvision">
+    <title>Million Dollar House..., Ep 3</title>
+</programme>
+<programme start="20251206123000 +0000" stop="20251206130000 +0000" channel="Outdoor Channel.mncvision">
+    <title>Million Dollar House..., Ep 4</title>
+</programme>
+<programme start="20251206130000 +0000" stop="20251206133000 +0000" channel="Outdoor Channel.mncvision">
+    <title>Wild Fed S1, Ep 5</title>
+</programme>
+<programme start="20251206133000 +0000" stop="20251206140000 +0000" channel="Outdoor Channel.mncvision">
+    <title>Wild Fed S1, Ep 6</title>
+</programme>
+<programme start="20251206140000 +0000" stop="20251206150000 +0000" channel="Outdoor Channel.mncvision">
+    <title>Trucking Hell S2, Ep 4</title>
+</programme>
+<programme start="20251206150000 +0000" stop="20251206153000 +0000" channel="Outdoor Channel.mncvision">
+    <title>Jade Fever S4, Ep 11</title>
+</programme>
+<programme start="20251206153000 +0000" stop="20251206160000 +0000" channel="Outdoor Channel.mncvision">
+    <title>Jade Fever S4, Ep 12</title>
+</programme>
+<programme start="20251206160000 +0000" stop="20251206163000 +0000" channel="Outdoor Channel.mncvision">
+    <title>Ice Pilots NWT S4, Ep 11</title>
+</programme>
+<programme start="20251205170000 +0000" stop="20251205180000 +0000" channel="Outdoor channel HD.mncvision">
+    <title>Get Out Alive S1, Ep 8</title>
+</programme>
+<programme start="20251205180000 +0000" stop="20251205190000 +0000" channel="Outdoor channel HD.mncvision">
+    <title>Running Wild S2, Ep 9</title>
+</programme>
+<programme start="20251205190000 +0000" stop="20251205200000 +0000" channel="Outdoor channel HD.mncvision">
+    <title>Ice Pilots NWT S4, Ep 9</title>
+</programme>
+<programme start="20251205200000 +0000" stop="20251205210000 +0000" channel="Outdoor channel HD.mncvision">
+    <title>Ice Pilots NWT S4, Ep 10</title>
+</programme>
+<programme start="20251205210000 +0000" stop="20251205213000 +0000" channel="Outdoor channel HD.mncvision">
+    <title>Duck Camp Dinners S1, Ep 5</title>
+</programme>
+<programme start="20251205213000 +0000" stop="20251205220000 +0000" channel="Outdoor channel HD.mncvision">
+    <title>Duck Camp Dinners S1, Ep 6</title>
+</programme>
+<programme start="20251205220000 +0000" stop="20251205230000 +0000" channel="Outdoor channel HD.mncvision">
+    <title>River Hunters S1, Ep 7</title>
+</programme>
+<programme start="20251205230000 +0000" stop="20251206000000 +0000" channel="Outdoor channel HD.mncvision">
+    <title>Get Out Alive S1, Ep 8</title>
+</programme>
+<programme start="20251206000000 +0000" stop="20251206010000 +0000" channel="Outdoor channel HD.mncvision">
+    <title>Running Wild S2, Ep 9</title>
+</programme>
+<programme start="20251206010000 +0000" stop="20251206020000 +0000" channel="Outdoor channel HD.mncvision">
+    <title>Ice Pilots NWT S4, Ep 9</title>
+</programme>
+<programme start="20251206020000 +0000" stop="20251206030000 +0000" channel="Outdoor channel HD.mncvision">
+    <title>Ice Pilots NWT S4, Ep 10</title>
+</programme>
+<programme start="20251206030000 +0000" stop="20251206033000 +0000" channel="Outdoor channel HD.mncvision">
+    <title>Duck Camp Dinners S1, Ep 5</title>
+</programme>
+<programme start="20251206033000 +0000" stop="20251206040000 +0000" channel="Outdoor channel HD.mncvision">
+    <title>Duck Camp Dinners S1, Ep 6</title>
+</programme>
+<programme start="20251206040000 +0000" stop="20251206050000 +0000" channel="Outdoor channel HD.mncvision">
+    <title>River Hunters S1, Ep 7</title>
+</programme>
+<programme start="20251206050000 +0000" stop="20251206060000 +0000" channel="Outdoor channel HD.mncvision">
+    <title>Get Out Alive S1, Ep 8</title>
+</programme>
+<programme start="20251206060000 +0000" stop="20251206070000 +0000" channel="Outdoor channel HD.mncvision">
+    <title>Running Wild S2, Ep 9</title>
+</programme>
+<programme start="20251206070000 +0000" stop="20251206073000 +0000" channel="Outdoor channel HD.mncvision">
+    <title>Wild Fed S1, Ep 5</title>
+</programme>
+<programme start="20251206073000 +0000" stop="20251206080000 +0000" channel="Outdoor channel HD.mncvision">
+    <title>Wild Fed S1, Ep 6</title>
+</programme>
+<programme start="20251206080000 +0000" stop="20251206090000 +0000" channel="Outdoor channel HD.mncvision">
+    <title>Trucking Hell S2, Ep 4</title>
+</programme>
+<programme start="20251206090000 +0000" stop="20251206093000 +0000" channel="Outdoor channel HD.mncvision">
+    <title>Jade Fever S4, Ep 11</title>
+</programme>
+<programme start="20251206093000 +0000" stop="20251206100000 +0000" channel="Outdoor channel HD.mncvision">
+    <title>Jade Fever S4, Ep 12</title>
+</programme>
+<programme start="20251206100000 +0000" stop="20251206110000 +0000" channel="Outdoor channel HD.mncvision">
+    <title>Ice Pilots NWT S4, Ep 11</title>
+</programme>
+<programme start="20251206110000 +0000" stop="20251206120000 +0000" channel="Outdoor channel HD.mncvision">
+    <title>Ice Pilots NWT S4, Ep 12</title>
+</programme>
+<programme start="20251206120000 +0000" stop="20251206123000 +0000" channel="Outdoor channel HD.mncvision">
+    <title>Million Dollar House..., Ep 3</title>
+</programme>
+<programme start="20251206123000 +0000" stop="20251206130000 +0000" channel="Outdoor channel HD.mncvision">
+    <title>Million Dollar House..., Ep 4</title>
+</programme>
+<programme start="20251206130000 +0000" stop="20251206133000 +0000" channel="Outdoor channel HD.mncvision">
+    <title>Wild Fed S1, Ep 5</title>
+</programme>
+<programme start="20251206133000 +0000" stop="20251206140000 +0000" channel="Outdoor channel HD.mncvision">
+    <title>Wild Fed S1, Ep 6</title>
+</programme>
+<programme start="20251206140000 +0000" stop="20251206150000 +0000" channel="Outdoor channel HD.mncvision">
+    <title>Trucking Hell S2, Ep 4</title>
+</programme>
+<programme start="20251206150000 +0000" stop="20251206153000 +0000" channel="Outdoor channel HD.mncvision">
+    <title>Jade Fever S4, Ep 11</title>
+</programme>
+<programme start="20251206153000 +0000" stop="20251206160000 +0000" channel="Outdoor channel HD.mncvision">
+    <title>Jade Fever S4, Ep 12</title>
+</programme>
+<programme start="20251206160000 +0000" stop="20251206163000 +0000" channel="Outdoor channel HD.mncvision">
+    <title>Ice Pilots NWT S4, Ep 11</title>
+</programme>
+<programme start="20251205181500 +0000" stop="20251205190000 +0000" channel="RCTI.mncvision">
+    <title>Preman Pensiun</title>
+</programme>
+<programme start="20251205190000 +0000" stop="20251205213000 +0000" channel="RCTI.mncvision">
+    <title>Bundesliga 2025/2026 (L)</title>
+</programme>
+<programme start="20251205213000 +0000" stop="20251205233000 +0000" channel="RCTI.mncvision">
+    <title>Preman Pensiun S6</title>
+</programme>
+<programme start="20251205233000 +0000" stop="20251206003000 +0000" channel="RCTI.mncvision">
+    <title>Upin Ipin</title>
+</programme>
+<programme start="20251206003000 +0000" stop="20251206023000 +0000" channel="RCTI.mncvision">
+    <title>Kiko In The Deep Sea</title>
+</programme>
+<programme start="20251206023000 +0000" stop="20251206041500 +0000" channel="RCTI.mncvision">
+    <title>Doraemon Series</title>
+</programme>
+<programme start="20251206041500 +0000" stop="20251206063000 +0000" channel="RCTI.mncvision">
+    <title>Doraemon Series</title>
+</programme>
+<programme start="20251206063000 +0000" stop="20251206093000 +0000" channel="RCTI.mncvision">
+    <title>Spotify Wrapped Indonesia 2025</title>
+</programme>
+<programme start="20251206093000 +0000" stop="20251206103000 +0000" channel="RCTI.mncvision">
+    <title>Preman Pensiun X</title>
+</programme>
+<programme start="20251206103000 +0000" stop="20251206114500 +0000" channel="RCTI.mncvision">
+    <title>Terbelenggu Rindu</title>
+</programme>
+<programme start="20251206114500 +0000" stop="20251206131500 +0000" channel="RCTI.mncvision">
+    <title>Mencintai Ipar Sendiri</title>
+</programme>
+<programme start="20251206131500 +0000" stop="20251206144500 +0000" channel="RCTI.mncvision">
+    <title>Cinta Sepenuh Jiwa</title>
+</programme>
+<programme start="20251206144500 +0000" stop="20251206160000 +0000" channel="RCTI.mncvision">
+    <title>Kau Ditakdirkan Untukku</title>
+</programme>
+<programme start="20251206160000 +0000" stop="20251206163000 +0000" channel="RCTI.mncvision">
+    <title>Si Doel Anak Sekolahan S3</title>
+</programme>
 <programme start="20251205181500 +0000" stop="20251205190000 +0000" channel="RCTI HD.mncvision">
     <title>Preman Pensiun</title>
 </programme>
