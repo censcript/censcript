@@ -2646,7 +2646,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251206153000 +0000" stop="20251206155000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Es folgt Fußball: Österreich, Admiral Bundesliga</title>
 </programme>
-<programme start="20251206155000 +0000" stop="20251206180000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+<programme start="20251206155000 +0000" stop="20251206183000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live Admiral BL: TSV Egger Glas Hartberg - LASK, 16. Runde</title>
 </programme>
 <programme start="20251205233000 +0000" stop="20251206013000 +0000" channel="Sky Sport Bundesliga HD.skyde">
