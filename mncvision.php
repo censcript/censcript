@@ -7759,129 +7759,9 @@
 <programme start="20251206160000 +0000" stop="20251206163000 +0000" channel="Outdoor channel HD.mncvision">
     <title>Ice Pilots NWT S4, Ep 11</title>
 </programme>
-<programme start="20251205181500 +0000" stop="20251205190000 +0000" channel="RCTI.mncvision">
-    <title>Preman Pensiun</title>
-</programme>
-<programme start="20251205190000 +0000" stop="20251205213000 +0000" channel="RCTI.mncvision">
-    <title>Bundesliga 2025/2026 (L)</title>
-</programme>
-<programme start="20251205213000 +0000" stop="20251205233000 +0000" channel="RCTI.mncvision">
-    <title>Preman Pensiun S6</title>
-</programme>
-<programme start="20251205233000 +0000" stop="20251206003000 +0000" channel="RCTI.mncvision">
-    <title>Upin Ipin</title>
-</programme>
-<programme start="20251206003000 +0000" stop="20251206023000 +0000" channel="RCTI.mncvision">
-    <title>Kiko In The Deep Sea</title>
-</programme>
-<programme start="20251206023000 +0000" stop="20251206041500 +0000" channel="RCTI.mncvision">
-    <title>Doraemon Series</title>
-</programme>
-<programme start="20251206041500 +0000" stop="20251206063000 +0000" channel="RCTI.mncvision">
-    <title>Doraemon Series</title>
-</programme>
-<programme start="20251206063000 +0000" stop="20251206093000 +0000" channel="RCTI.mncvision">
-    <title>Spotify Wrapped Indonesia 2025</title>
-</programme>
-<programme start="20251206093000 +0000" stop="20251206103000 +0000" channel="RCTI.mncvision">
-    <title>Preman Pensiun X</title>
-</programme>
-<programme start="20251206103000 +0000" stop="20251206114500 +0000" channel="RCTI.mncvision">
-    <title>Terbelenggu Rindu</title>
-</programme>
-<programme start="20251206114500 +0000" stop="20251206131500 +0000" channel="RCTI.mncvision">
-    <title>Mencintai Ipar Sendiri</title>
-</programme>
-<programme start="20251206131500 +0000" stop="20251206144500 +0000" channel="RCTI.mncvision">
-    <title>Cinta Sepenuh Jiwa</title>
-</programme>
-<programme start="20251206144500 +0000" stop="20251206160000 +0000" channel="RCTI.mncvision">
-    <title>Kau Ditakdirkan Untukku</title>
-</programme>
-<programme start="20251206160000 +0000" stop="20251206163000 +0000" channel="RCTI.mncvision">
-    <title>Si Doel Anak Sekolahan S3</title>
-</programme>
-<programme start="20251205181500 +0000" stop="20251205190000 +0000" channel="RCTI HD.mncvision">
-    <title>Preman Pensiun</title>
-</programme>
-<programme start="20251205190000 +0000" stop="20251205213000 +0000" channel="RCTI HD.mncvision">
-    <title>Bundesliga 2025/2026 (L)</title>
-</programme>
-<programme start="20251205213000 +0000" stop="20251205233000 +0000" channel="RCTI HD.mncvision">
-    <title>Preman Pensiun S6</title>
-</programme>
-<programme start="20251205233000 +0000" stop="20251206003000 +0000" channel="RCTI HD.mncvision">
-    <title>Upin Ipin</title>
-</programme>
-<programme start="20251206003000 +0000" stop="20251206023000 +0000" channel="RCTI HD.mncvision">
-    <title>Kiko In The Deep Sea</title>
-</programme>
-<programme start="20251206023000 +0000" stop="20251206041500 +0000" channel="RCTI HD.mncvision">
-    <title>Doraemon Series</title>
-</programme>
-<programme start="20251206041500 +0000" stop="20251206063000 +0000" channel="RCTI HD.mncvision">
-    <title>Doraemon Series</title>
-</programme>
-<programme start="20251206063000 +0000" stop="20251206093000 +0000" channel="RCTI HD.mncvision">
-    <title>Spotify Wrapped Indonesia 2025</title>
-</programme>
-<programme start="20251206093000 +0000" stop="20251206103000 +0000" channel="RCTI HD.mncvision">
-    <title>Preman Pensiun X</title>
-</programme>
-<programme start="20251206103000 +0000" stop="20251206114500 +0000" channel="RCTI HD.mncvision">
-    <title>Terbelenggu Rindu</title>
-</programme>
-<programme start="20251206114500 +0000" stop="20251206131500 +0000" channel="RCTI HD.mncvision">
-    <title>Mencintai Ipar Sendiri</title>
-</programme>
-<programme start="20251206131500 +0000" stop="20251206144500 +0000" channel="RCTI HD.mncvision">
-    <title>Cinta Sepenuh Jiwa</title>
-</programme>
-<programme start="20251206144500 +0000" stop="20251206160000 +0000" channel="RCTI HD.mncvision">
-    <title>Kau Ditakdirkan Untukku</title>
-</programme>
-<programme start="20251206160000 +0000" stop="20251206163000 +0000" channel="RCTI HD.mncvision">
-    <title>Si Doel Anak Sekolahan S3</title>
-</programme>
-<programme start="20251205190500 +0000" stop="20251205205500 +0000" channel="Rock Action.mncvision">
-    <title>Collide</title>
-</programme>
-<programme start="20251205205500 +0000" stop="20251205223500 +0000" channel="Rock Action.mncvision">
-    <title>Dragonheart: The Heartfire</title>
-</programme>
-<programme start="20251205223500 +0000" stop="20251206005000 +0000" channel="Rock Action.mncvision">
-    <title>Backdraft</title>
-</programme>
-<programme start="20251206005000 +0000" stop="20251206023000 +0000" channel="Rock Action.mncvision">
-    <title>Killers</title>
-</programme>
-<programme start="20251206023000 +0000" stop="20251206043000 +0000" channel="Rock Action.mncvision">
-    <title>3:10 To Yuma</title>
-</programme>
-<programme start="20251206043000 +0000" stop="20251206062000 +0000" channel="Rock Action.mncvision">
-    <title>Sudden Death</title>
-</programme>
-<programme start="20251206062000 +0000" stop="20251206074000 +0000" channel="Rock Action.mncvision">
-    <title>Welcome To Sudden Death</title>
-</programme>
-<programme start="20251206074000 +0000" stop="20251206091500 +0000" channel="Rock Action.mncvision">
-    <title>Anacondas: The Blood Orchid</title>
-</programme>
-<programme start="20251206091500 +0000" stop="20251206105500 +0000" channel="Rock Action.mncvision">
-    <title>Collide</title>
-</programme>
-<programme start="20251206105500 +0000" stop="20251206125500 +0000" channel="Rock Action.mncvision">
-    <title>3:10 To Yuma</title>
-</programme>
-<programme start="20251206125500 +0000" stop="20251206144500 +0000" channel="Rock Action.mncvision">
-    <title>The World&#039;s End</title>
-</programme>
-<programme start="20251206144500 +0000" stop="20251206162000 +0000" channel="Rock Action.mncvision">
-    <title>War</title>
-</programme>
-<programme start="20251206162000 +0000" stop="20251206165000 +0000" channel="Rock Action.mncvision">
-    <title>Welcome To Sudden Death</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
+Error: Unable to fetch data. HTTP Status Code: 500
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20251205171500 +0000" stop="20251205184500 +0000" channel="Rock Entertainment.mncvision">
     <title>Hotel Transylvania 2</title>
 </programme>
@@ -9661,45 +9541,7 @@
 <programme start="20251206150000 +0000" stop="20251206153000 +0000" channel="TVRI.mncvision">
     <title>TVRI</title>
 </programme>
-<programme start="20251205181700 +0000" stop="20251205200300 +0000" channel="UNIQUES.mncvision">
-    <title>Long Flat Balls 2</title>
-</programme>
-<programme start="20251205200300 +0000" stop="20251205213100 +0000" channel="UNIQUES.mncvision">
-    <title>Silver</title>
-</programme>
-<programme start="20251205213100 +0000" stop="20251205231700 +0000" channel="UNIQUES.mncvision">
-    <title>Deadlock</title>
-</programme>
-<programme start="20251205231700 +0000" stop="20251206012000 +0000" channel="UNIQUES.mncvision">
-    <title>Platinum</title>
-</programme>
-<programme start="20251206012000 +0000" stop="20251206024400 +0000" channel="UNIQUES.mncvision">
-    <title>Sinister Seduction</title>
-</programme>
-<programme start="20251206024400 +0000" stop="20251206045000 +0000" channel="UNIQUES.mncvision">
-    <title>Embattled</title>
-</programme>
-<programme start="20251206045000 +0000" stop="20251206063300 +0000" channel="UNIQUES.mncvision">
-    <title>Gold</title>
-</programme>
-<programme start="20251206063300 +0000" stop="20251206080500 +0000" channel="UNIQUES.mncvision">
-    <title>Emu Runner</title>
-</programme>
-<programme start="20251206080500 +0000" stop="20251206100500 +0000" channel="UNIQUES.mncvision">
-    <title>Silver</title>
-</programme>
-<programme start="20251206100500 +0000" stop="20251206121300 +0000" channel="UNIQUES.mncvision">
-    <title>The Siege Of Robin Hood</title>
-</programme>
-<programme start="20251206121300 +0000" stop="20251206135300 +0000" channel="UNIQUES.mncvision">
-    <title>Platinum</title>
-</programme>
-<programme start="20251206135300 +0000" stop="20251206152000 +0000" channel="UNIQUES.mncvision">
-    <title>A Rainy Day In New York</title>
-</programme>
-<programme start="20251206152000 +0000" stop="20251206155000 +0000" channel="UNIQUES.mncvision">
-    <title>Every Breath You Take</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20251205181700 +0000" stop="20251205200300 +0000" channel="UNIQUES HD.mncvision">
     <title>Long Flat Balls 2</title>
 </programme>
