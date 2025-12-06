@@ -2895,13 +2895,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251206003000 +0000" stop="20251206004500 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: Golfszene 2025 (1)</title>
 </programme>
-<programme start="20251206004500 +0000" stop="20251206014500 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Golf: FedExCup Playoffs Official Film 2025</title>
-</programme>
-<programme start="20251206014500 +0000" stop="20251206023000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20251206004500 +0000" stop="20251206013000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>PGA Tour Champions: Learning Center (28)</title>
 </programme>
-<programme start="20251206023000 +0000" stop="20251206060000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20251206013000 +0000" stop="20251206060000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Live Golf: 2025 Crown Australian Open, 3. Tag in Melbourne (Australien)</title>
 </programme>
 <programme start="20251206060000 +0000" stop="20251206083000 +0000" channel="Sky Sport Golf HD.skyde">
@@ -3168,16 +3165,19 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251206110000 +0000" stop="20251206133000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 250: C. Moutet (FRA) - T. Griekspoor (NED), Mallorca Championships in Santa Ponsa (ESP), Finale</title>
 </programme>
-<programme start="20251206133000 +0000" stop="20251206153000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20251206133000 +0000" stop="20251206143000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP &amp; WTA: Zeit für ein Break - das Tennisjahr 2025</title>
+</programme>
+<programme start="20251206143000 +0000" stop="20251206162000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 250: T. Fritz (USA) - J. Brooksby (USA), Lexus Eastbourne Open in Eastbourne (GBR), Finale</title>
 </programme>
-<programme start="20251206153000 +0000" stop="20251206180000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20251206162000 +0000" stop="20251206180500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 250: Finale, Mifel Tennis Open by Telcel Oppo in Los Cabos (MEX), Finale</title>
 </programme>
-<programme start="20251206180000 +0000" stop="20251206203000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20251206180500 +0000" stop="20251206203500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 250: J. M. Cerundolo (ARG) - A. Bublik (KAZ), EFG Swiss Open in Gstaad (SUI), Finale</title>
 </programme>
-<programme start="20251206203000 +0000" stop="20251206230000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20251206203500 +0000" stop="20251206230000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 250: L. Darderi (ITA) - J. de Jong (NED), Nordea Open in Bastad (SWE), Finale</title>
 </programme>
 <programme start="20251206001500 +0000" stop="20251206014500 +0000" channel="Sky Sport Top Event HD.skyde">
