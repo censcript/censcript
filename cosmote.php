@@ -54,8 +54,8 @@
     <title>Sportshow (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251207034500 +0700" stop="20251207060000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Volos - Kifisia</title>
+<programme start="20251208063000 +0700" stop="20251208090000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Sportshow</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251207060000 +0700" stop="20251207080000 +0700" channel="COSMOTE Sport 2 HD">
@@ -206,10 +206,6 @@
     <title>Football: AEK - Atromitos</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251207043500 +0700" stop="20251207051000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>NBA on Fire 2025-26 E6</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251207051000 +0700" stop="20251207071500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Heidelberg - Promitheas</title>
     <desc>Live: Tidak</desc>
@@ -274,12 +270,8 @@
     <title>Basketball: Toronto Raptors - Boston Celtics (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251207033000 +0700" stop="20251207053000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Football: Famalicao - SC Braga (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20251207053000 +0700" stop="20251207060000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Sports Classics: Gearing Up 2024 E11</title>
+<programme start="20251208063000 +0700" stop="20251208082500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Armani Milano - Aquila Basket Trento</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251207060000 +0700" stop="20251207072000 +0700" channel="COSMOTE Sport 5 HD">
@@ -362,6 +354,14 @@
     <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251208060000 +0700" stop="20251208064500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251208064500 +0700" stop="20251208073000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251207041500 +0700" stop="20251207071500 +0700" channel="COSMOTE Sport 6 HD">
     <title>Fight Sports: Oktagon 2025</title>
     <desc>Live: Tidak</desc>
@@ -436,6 +436,10 @@
 </programme>
 <programme start="20251208053000 +0700" stop="20251208060000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Premier Padel Tour 2025 - Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251208060000 +0700" stop="20251208100000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Fight Sports: UFC Fight Night 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251207050000 +0700" stop="20251207070000 +0700" channel="COSMOTE Sport 7 HD">
