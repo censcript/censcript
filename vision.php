@@ -532,9 +532,6 @@
 <programme start="20251207000000 +0000" stop="20251207010000 +0000" channel="Trans 7.vision">
 <title>Spotlite</title>
 </programme>
-<programme start="20251207010000 +0000" stop="20251207013000 +0000" channel="Trans 7.vision">
-<title>Selebrita Pagi On The Weekend</title>
-</programme>
 <programme start="20251207013000 +0000" stop="20251207023000 +0000" channel="Trans 7.vision">
 <title>Obrolan Tiap Waktu</title>
 </programme>
@@ -1496,5 +1493,8 @@
 <title>BTV</title>
 </programme>
 <programme start="20251208050000 +0000" stop="20251208060000 +0000" channel="BTV.vision">
+<title>BTV</title>
+</programme>
+<programme start="20251208060000 +0000" stop="20251208063000 +0000" channel="BTV.vision">
 <title>BTV</title>
 </programme>

@@ -659,7 +659,7 @@
         <title>Dylan&#039;s Playtime Adventures/Wishes 许愿泡泡茶/Lil Wild/Syber Surfer Sam</title>
     </programme>
     <programme start="20251206160000 +0000" stop="20251207112000 +0000" channel="spl01.mewatch">
-        <title>No Programme available now. Next Broadcast on 6th December, Saturday 7.20pm. Singapore Cup 2025/2026 </title>
+        <title>No Programme available now. Next Broadcast on 7th December, Sunday 7.20pm. Singapore Cup 2025/2026 </title>
     </programme>
     <programme start="20251207112000 +0000" stop="20251207133000 +0000" channel="spl01.mewatch">
         <title>Singapore Cup 2025/2026: Balestier Khalsa FC vs Hougang United FC</title>

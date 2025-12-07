@@ -3279,7 +3279,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251207162500 +0000" stop="20251207164500 +0000" channel="Sky Sport 3 HD.skyde">
     <title>Es folgt: LIVE Basketball NBA</title>
 </programme>
-<programme start="20251207164500 +0000" stop="20251207193000 +0000" channel="Sky Sport 3 HD.skyde">
+<programme start="20251207164500 +0000" stop="20251207213000 +0000" channel="Sky Sport 3 HD.skyde">
     <title>Live NBA: Orlando Magic @ New York Knicks</title>
 </programme>
 <programme start="20251206232000 +0000" stop="20251207000500 +0000" channel="SYFY HD.skyde">
