@@ -463,9 +463,6 @@
 <programme start="20251207053000 +0000" stop="20251207070000 +0000" channel="Trans TV.vision">
 <title>Brownis On The Weekend</title>
 </programme>
-<programme start="20251207070000 +0000" stop="20251207080000 +0000" channel="Trans TV.vision">
-<title>Rumpi Hot Of The Week</title>
-</programme>
 <programme start="20251207080000 +0000" stop="20251207091500 +0000" channel="Trans TV.vision">
 <title>Insert Investigasi</title>
 </programme>
@@ -1496,5 +1493,8 @@
 <title>BTV</title>
 </programme>
 <programme start="20251208060000 +0000" stop="20251208063000 +0000" channel="BTV.vision">
+<title>BTV</title>
+</programme>
+<programme start="20251208063000 +0000" stop="20251208080000 +0000" channel="BTV.vision">
 <title>BTV</title>
 </programme>
