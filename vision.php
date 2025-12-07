@@ -577,6 +577,9 @@
 <programme start="20251207154500 +0000" stop="20251207163000 +0000" channel="Trans 7.vision">
 <title>The Police</title>
 </programme>
+<programme start="20251207163000 +0000" stop="20251207181500 +0000" channel="Trans 7.vision">
+<title>Pasukan Garuda: In Lebanon</title>
+</programme>
 <programme start="20251207181500 +0000" stop="20251207193000 +0000" channel="Trans 7.vision">
 <title>Best Fishing</title>
 </programme>
@@ -1494,7 +1497,4 @@
 </programme>
 <programme start="20251208103000 +0000" stop="20251208123000 +0000" channel="BTV.vision">
 <title>BTV</title>
-</programme>
-<programme start="20251206230000 +0000" stop="20251207010000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
 </programme>

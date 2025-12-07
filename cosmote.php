@@ -1,7 +1,3 @@
-<programme start="20251208004000 +0700" stop="20251208020000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Sportshow (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
 <programme start="20251208020000 +0700" stop="20251208041000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: AEK - Atromitos (L)</title>
     <desc>Live: Ya</desc>
@@ -54,8 +50,12 @@
     <title>Football: Udinese - Genoa (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251208000000 +0700" stop="20251208020000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: SS Lazio - Bologna (L)</title>
+<programme start="20251209020000 +0700" stop="20251209024500 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEFA Champions League Magazine 2025-26 E14</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251209024500 +0700" stop="20251209044500 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: Torino - AC Milan (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20251208020000 +0700" stop="20251208024500 +0700" channel="COSMOTE Sport 2 HD">
@@ -112,6 +112,10 @@
 </programme>
 <programme start="20251209003000 +0700" stop="20251209024000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: AEK - Atromitos</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251209024000 +0700" stop="20251209045000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Olympiacos - OFI</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251208010000 +0700" stop="20251208030000 +0700" channel="COSMOTE Sport 3 HD">
@@ -178,6 +182,14 @@
     <title>Football: Salford City - Leyton Orient</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251209022000 +0700" stop="20251209025000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Copa Libertadores 2025 - Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251209025000 +0700" stop="20251209033000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Copa Sudamericana 2025 - Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251208000000 +0700" stop="20251208030000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: New York Knicks - Orlando Magic (L)</title>
     <desc>Live: Ya</desc>
@@ -230,8 +242,8 @@
     <title>Basketball: Virtus Bologna - Bertram Derthona Tortona (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251208003500 +0700" stop="20251208020000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Grand Prix Show 2025</title>
+<programme start="20251209023000 +0700" stop="20251209050000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Toronto Raptors - Boston Celtics</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251208020000 +0700" stop="20251208030000 +0700" channel="COSMOTE Sport 5 HD">
@@ -334,9 +346,9 @@
     <title>WRC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251208010000 +0700" stop="20251208020000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Beach Volley: Pro Tour Elite 16 2025 (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20251209020000 +0700" stop="20251209030500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2025</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251208020000 +0700" stop="20251208030000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Beach Volley: Pro Tour Elite 16 2025 (L)</title>
@@ -474,8 +486,12 @@
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251208000000 +0700" stop="20251208020000 +0700" channel="COSMOTE Sport 8 HD">
-    <title>Basketball: Armani Milano - Aquila Basket Trento (L)</title>
+<programme start="20251209020000 +0700" stop="20251209023000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251209023000 +0700" stop="20251209043000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>Football: Brackley Town - Burton Albion (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20251208020000 +0700" stop="20251208023000 +0700" channel="COSMOTE Sport 8 HD">
