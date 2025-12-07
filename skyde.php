@@ -2613,19 +2613,19 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251207130000 +0000" stop="20251207132000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt Fußball: Österreich, Admiral Bundesliga</title>
 </programme>
-<programme start="20251207132000 +0000" stop="20251207154500 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20251207132000 +0000" stop="20251207160000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live Admiral BL: RZ Pellets WAC - FK Austria Wien, 16. Runde</title>
 </programme>
 <programme start="20251207174000 +0000" stop="20251207180000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt Eishockey NHL</title>
 </programme>
-<programme start="20251207180000 +0000" stop="20251207210000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20251207180000 +0000" stop="20251207230000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live NHL: Colorado Avalanche @ Philadelphia Flyers</title>
 </programme>
 <programme start="20251207130000 +0000" stop="20251207132000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Es folgt Fußball: Österreich, Admiral Bundesliga</title>
 </programme>
-<programme start="20251207132000 +0000" stop="20251207154500 +0000" channel="Sky Sport Austria 3 HD.skyde">
+<programme start="20251207132000 +0000" stop="20251207160000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live Admiral BL: WSG Tirol - SCR Altach, 16. Runde</title>
 </programme>
 <programme start="20251207133000 +0000" stop="20251207135000 +0000" channel="Sky Sport Austria 4 HD.skyde">
@@ -2634,7 +2634,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251207135000 +0000" stop="20251207160000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live PL: Brighton &amp; Hove Albion - West Ham United, 15. Spieltag</title>
 </programme>
-<programme start="20251207160000 +0000" stop="20251207183000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+<programme start="20251207160000 +0000" stop="20251207190000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live PL: FC Fulham - Crystal Palace, Match of the Week, 15. Spieltag</title>
 </programme>
 <programme start="20251206234500 +0000" stop="20251207004500 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -2745,40 +2745,40 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251207170000 +0000" stop="20251207183000 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: Sky90 - Die Fußballdebatte</title>
 </programme>
-<programme start="20251207183000 +0000" stop="20251207191500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
+<programme start="20251207183000 +0000" stop="20251207193000 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: Highlights XXL: BVB - TSG, 13. Spieltag</title>
 </programme>
 <programme start="20251207114000 +0000" stop="20251207120000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>2. BL: Es folgt</title>
 </programme>
-<programme start="20251207120000 +0000" stop="20251207143000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+<programme start="20251207120000 +0000" stop="20251207150000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Live 2. BL: Hertha BSC - 1. FC Magdeburg, 15. Spieltag</title>
 </programme>
-<programme start="20251207143000 +0000" stop="20251207163000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+<programme start="20251207150000 +0000" stop="20251207163000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Es folgt: Live Bundesliga</title>
 </programme>
 <programme start="20251207163000 +0000" stop="20251207183000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>BL: Hamburger SV - Werder Bremen, 13. Spieltag</title>
 </programme>
-<programme start="20251207183000 +0000" stop="20251207203000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+<programme start="20251207183000 +0000" stop="20251207210000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>BL: Borussia Dortmund - TSG Hoffenheim, 13. Spieltag</title>
 </programme>
 <programme start="20251207114000 +0000" stop="20251207120000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>2. BL: Es folgt</title>
 </programme>
-<programme start="20251207120000 +0000" stop="20251207143000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
+<programme start="20251207120000 +0000" stop="20251207150000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live 2. BL: 1. FC Nürnberg - SpVgg Greuther Fürth, 15. Spieltag</title>
 </programme>
 <programme start="20251207114000 +0000" stop="20251207120000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>2. BL: Es folgt</title>
 </programme>
-<programme start="20251207120000 +0000" stop="20251207143000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
+<programme start="20251207120000 +0000" stop="20251207150000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live 2. BL: Eintracht Braunschweig - Holstein Kiel, 15. Spieltag</title>
 </programme>
 <programme start="20251207114000 +0000" stop="20251207120000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>2. BL: Es folgt</title>
 </programme>
-<programme start="20251207120000 +0000" stop="20251207143000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
+<programme start="20251207120000 +0000" stop="20251207150000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Live 2. BL: Multiview, 15. Spieltag, Sonntag</title>
 </programme>
 <programme start="20251206230000 +0000" stop="20251206231500 +0000" channel="Sky Sport F1 HD.skyde">
@@ -2850,13 +2850,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251207220000 +0000" stop="20251208000000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Rennen - GP Abu Dhabi</title>
 </programme>
-<programme start="20251207010000 +0000" stop="20251207014500 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>The Masters: A Champion&#039;s Dream - Jordan Spieth</title>
-</programme>
-<programme start="20251207014500 +0000" stop="20251207023000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20251207004500 +0000" stop="20251207013000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>The Masters: The Legend of Bernhard Langer</title>
 </programme>
-<programme start="20251207023000 +0000" stop="20251207060000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20251207013000 +0000" stop="20251207060000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Live Golf: 2025 Crown Australian Open, 4. Tag in Melbourne (Australien)</title>
 </programme>
 <programme start="20251207060000 +0000" stop="20251207070000 +0000" channel="Sky Sport Golf HD.skyde">
@@ -2868,20 +2865,20 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251207074500 +0000" stop="20251207080000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: Follow the Pros (1)</title>
 </programme>
-<programme start="20251207080000 +0000" stop="20251207081500 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20251207080000 +0000" stop="20251207133000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Live Golf: Nedbank Golf Challenge, 4. Tag in Sun City (Südafrika)</title>
+</programme>
+<programme start="20251207133000 +0000" stop="20251207134500 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: Follow the Pros (2)</title>
 </programme>
-<programme start="20251207081500 +0000" stop="20251207083000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20251207134500 +0000" stop="20251207140000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: Follow the Pros (3)</title>
 </programme>
-<programme start="20251207083000 +0000" stop="20251207084500 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20251207140000 +0000" stop="20251207141500 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: Follow the Pros (4)</title>
 </programme>
-<programme start="20251207084500 +0000" stop="20251207090000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20251207141500 +0000" stop="20251207143000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: Follow the Pros (5)</title>
-</programme>
-<programme start="20251207090000 +0000" stop="20251207143000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Live Golf: Nedbank Golf Challenge, 4. Tag in Sun City (Südafrika)</title>
 </programme>
 <programme start="20251207143000 +0000" stop="20251207153000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>The Open: Official Film 2025 (Scottie Scheffler)</title>
@@ -2895,7 +2892,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251207213000 +0000" stop="20251208003000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: Nedbank Golf Challenge, 4. Tag in Sun City (Südafrika)</title>
 </programme>
-<programme start="20251206233000 +0000" stop="20251207001500 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20251206234000 +0000" stop="20251207001500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>3. Liga: Alle Spiele, alle Tore, 17. Spieltag, Samstag</title>
 </programme>
 <programme start="20251207001500 +0000" stop="20251207003000 +0000" channel="Sky Sport Mix HD.skyde">
