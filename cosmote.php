@@ -58,6 +58,10 @@
     <title>Football: Torino - AC Milan (L)</title>
     <desc>Live: Ya</desc>
 </programme>
+<programme start="20251209044500 +0700" stop="20251209064500 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: Olympiacos - Real Madrid CF</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251208024500 +0700" stop="20251208044500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: SSC Napoli - Juventus Football Club (L)</title>
     <desc>Live: Ya</desc>
@@ -114,8 +118,8 @@
     <title>Football: Olympiacos - OFI</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251208030000 +0700" stop="20251208033000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Sports Classics: Worldies E21</title>
+<programme start="20251209045000 +0700" stop="20251209065000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Pisa - Parma</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251208033000 +0700" stop="20251208053000 +0700" channel="COSMOTE Sport 3 HD">
@@ -185,10 +189,6 @@
 <programme start="20251209033000 +0700" stop="20251209053000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Vitoria Guimaraes - Gil Vicente (L)</title>
     <desc>Live: Ya</desc>
-</programme>
-<programme start="20251208030000 +0700" stop="20251208033000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Sports Highlights</title>
-    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251208033000 +0700" stop="20251208063000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Toronto Raptors - Boston Celtics (L)</title>
@@ -346,9 +346,9 @@
     <title>MotoGP 2025 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251208030000 +0700" stop="20251208040000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Beach Volley: Pro Tour Elite 16 2025 (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20251209044000 +0700" stop="20251209051000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Extreme E - Highlights 2025</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251208040000 +0700" stop="20251208053000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Beach Volley: Pro Tour Elite 16 2025 (L)</title>
@@ -418,14 +418,6 @@
     <title>CEV Beach Volleyball European Cup 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251208030000 +0700" stop="20251208033000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251208033000 +0700" stop="20251208040000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251208040000 +0700" stop="20251208050000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
@@ -485,6 +477,10 @@
 <programme start="20251209023000 +0700" stop="20251209043000 +0700" channel="COSMOTE Sport 7 HD">
     <title>Football: Brackley Town - Burton Albion (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20251209043000 +0700" stop="20251209050000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251208030000 +0700" stop="20251208050000 +0700" channel="COSMOTE Sport 8 HD">
     <title>COSMOTESport8HD</title>
