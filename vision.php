@@ -562,9 +562,6 @@
 <programme start="20251207100000 +0000" stop="20251207110000 +0000" channel="Trans 7.vision">
 <title>Selebrita On The Weekend</title>
 </programme>
-<programme start="20251207110000 +0000" stop="20251207114500 +0000" channel="Trans 7.vision">
-<title>On The Spot Weekend</title>
-</programme>
 <programme start="20251207114500 +0000" stop="20251207121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
@@ -663,15 +660,6 @@
 </programme>
 <programme start="20251207093000 +0000" stop="20251207103000 +0000" channel="ANTV.vision">
 <title>ANTV Seru</title>
-</programme>
-<programme start="20251207103000 +0000" stop="20251207130000 +0000" channel="ANTV.vision">
-<title>Pasukan Berani Mati</title>
-</programme>
-<programme start="20251207130000 +0000" stop="20251207143000 +0000" channel="ANTV.vision">
-<title>Perjanjian Di Malam Keramat</title>
-</programme>
-<programme start="20251207143000 +0000" stop="20251207163000 +0000" channel="ANTV.vision">
-<title>Sabar Dulu Dong</title>
 </programme>
 <programme start="20251207163000 +0000" stop="20251207190000 +0000" channel="ANTV.vision">
 <title>Serie A Liga Italia</title>
@@ -1496,5 +1484,17 @@
 <title>BTV</title>
 </programme>
 <programme start="20251208063000 +0000" stop="20251208080000 +0000" channel="BTV.vision">
+<title>BTV</title>
+</programme>
+<programme start="20251208080000 +0000" stop="20251208083000 +0000" channel="BTV.vision">
+<title>BTV</title>
+</programme>
+<programme start="20251208083000 +0000" stop="20251208093000 +0000" channel="BTV.vision">
+<title>BTV</title>
+</programme>
+<programme start="20251208093000 +0000" stop="20251208103000 +0000" channel="BTV.vision">
+<title>BTV</title>
+</programme>
+<programme start="20251208103000 +0000" stop="20251208123000 +0000" channel="BTV.vision">
 <title>BTV</title>
 </programme>
