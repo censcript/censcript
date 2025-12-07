@@ -54,6 +54,10 @@
     <title>UEFA Champions League Magazine 2025-26 E14</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251208180000 +0700" stop="20251208203000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Sportshow</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251207165000 +0700" stop="20251207185000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Volos - Kifisia</title>
     <desc>Live: Tidak</desc>
@@ -116,6 +120,10 @@
 </programme>
 <programme start="20251208161000 +0700" stop="20251208181000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: SS Lazio - Bologna</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251208181000 +0700" stop="20251208202000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Volos - Kifisia</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251207162000 +0700" stop="20251207183000 +0700" channel="COSMOTE Sport 3 HD">
@@ -262,10 +270,6 @@
     <title>Basketball: Toronto Raptors - Boston Celtics</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251207170000 +0700" stop="20251207180000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251207180000 +0700" stop="20251207190500 +0700" channel="COSMOTE Sport 5 HD">
     <title>WRC 2025</title>
     <desc>Live: Tidak</desc>
@@ -356,6 +360,10 @@
 </programme>
 <programme start="20251208165500 +0700" stop="20251208180500 +0700" channel="COSMOTE Sport 5 HD">
     <title>Motorsports: Extreme E 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251208180500 +0700" stop="20251208190000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>2025 GT World Challenge Europe</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251207160500 +0700" stop="20251207190000 +0700" channel="COSMOTE Sport 6 HD">

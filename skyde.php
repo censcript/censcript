@@ -1887,100 +1887,85 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251207213500 +0000" stop="20251207233000 +0000" channel="Sky Cinema Premiere HD.skyde">
     <title>Final Destination 6: Bloodlines</title>
 </programme>
-<programme start="20251206230000 +0000" stop="20251206234500 +0000" channel="Sky Crime HD.skyde">
-    <title>Der Unglücksbringer: Das Leben und die Tode des Robert Durst</title>
+<programme start="20251211235000 +0000" stop="20251212003500 +0000" channel="Sky Crime HD.skyde">
+    <title>Teuflische Nachbarn</title>
 </programme>
-<programme start="20251206234500 +0000" stop="20251207003000 +0000" channel="Sky Crime HD.skyde">
-    <title>Der Unglücksbringer: Das Leben und die Tode des Robert Durst</title>
+<programme start="20251212003500 +0000" stop="20251212015500 +0000" channel="Sky Crime HD.skyde">
+    <title>Edmund Kemper: Die Psychologie des Killers</title>
 </programme>
-<programme start="20251207003000 +0000" stop="20251207011500 +0000" channel="Sky Crime HD.skyde">
-    <title>Der Unglücksbringer: Das Leben und die Tode des Robert Durst</title>
+<programme start="20251212015500 +0000" stop="20251212024000 +0000" channel="Sky Crime HD.skyde">
+    <title>#killerpost</title>
 </programme>
-<programme start="20251207011500 +0000" stop="20251207020500 +0000" channel="Sky Crime HD.skyde">
-    <title>Der Unglücksbringer: Das Leben und die Tode des Robert Durst</title>
+<programme start="20251212024000 +0000" stop="20251212032000 +0000" channel="Sky Crime HD.skyde">
+    <title>#killerpost</title>
 </programme>
-<programme start="20251207020500 +0000" stop="20251207025000 +0000" channel="Sky Crime HD.skyde">
-    <title>Der Unglücksbringer: Das Leben und die Tode des Robert Durst</title>
+<programme start="20251212032000 +0000" stop="20251212041000 +0000" channel="Sky Crime HD.skyde">
+    <title>Dead in the Water - Wer ermordete Peta Frampton und Chris Farmer?</title>
 </programme>
-<programme start="20251207025000 +0000" stop="20251207033500 +0000" channel="Sky Crime HD.skyde">
-    <title>Killer on the Line - Notruf Mord</title>
+<programme start="20251212041000 +0000" stop="20251212050000 +0000" channel="Sky Crime HD.skyde">
+    <title>Die Ermordung der Essex Boys</title>
 </programme>
-<programme start="20251207033500 +0000" stop="20251207035500 +0000" channel="Sky Crime HD.skyde">
-    <title>Hunde im Einsatz</title>
+<programme start="20251212050000 +0000" stop="20251212055000 +0000" channel="Sky Crime HD.skyde">
+    <title>Der Tote von nebenan</title>
 </programme>
-<programme start="20251207035500 +0000" stop="20251207042000 +0000" channel="Sky Crime HD.skyde">
-    <title>Hunde im Einsatz</title>
+<programme start="20251212055000 +0000" stop="20251212064000 +0000" channel="Sky Crime HD.skyde">
+    <title>Der Tote von nebenan</title>
 </programme>
-<programme start="20251207042000 +0000" stop="20251207050500 +0000" channel="Sky Crime HD.skyde">
-    <title>Unfall, Selbstmord oder Mord</title>
-</programme>
-<programme start="20251207050500 +0000" stop="20251207055000 +0000" channel="Sky Crime HD.skyde">
-    <title>Unfall, Selbstmord oder Mord</title>
-</programme>
-<programme start="20251207055000 +0000" stop="20251207063500 +0000" channel="Sky Crime HD.skyde">
-    <title>Unfall, Selbstmord oder Mord</title>
-</programme>
-<programme start="20251207063500 +0000" stop="20251207072000 +0000" channel="Sky Crime HD.skyde">
-    <title>Unfall, Selbstmord oder Mord</title>
-</programme>
-<programme start="20251207072000 +0000" stop="20251207080500 +0000" channel="Sky Crime HD.skyde">
-    <title>Unfall, Selbstmord oder Mord</title>
-</programme>
-<programme start="20251207080500 +0000" stop="20251207085000 +0000" channel="Sky Crime HD.skyde">
-    <title>Unfall, Selbstmord oder Mord</title>
-</programme>
-<programme start="20251207085000 +0000" stop="20251207094000 +0000" channel="Sky Crime HD.skyde">
-    <title>Unfall, Selbstmord oder Mord</title>
-</programme>
-<programme start="20251207094000 +0000" stop="20251207102500 +0000" channel="Sky Crime HD.skyde">
-    <title>Unfall, Selbstmord oder Mord</title>
-</programme>
-<programme start="20251207102500 +0000" stop="20251207111000 +0000" channel="Sky Crime HD.skyde">
-    <title>Unfall, Selbstmord oder Mord</title>
-</programme>
-<programme start="20251207111000 +0000" stop="20251207115500 +0000" channel="Sky Crime HD.skyde">
-    <title>Unfall, Selbstmord oder Mord</title>
-</programme>
-<programme start="20251207115500 +0000" stop="20251207124000 +0000" channel="Sky Crime HD.skyde">
+<programme start="20251212064000 +0000" stop="20251212072500 +0000" channel="Sky Crime HD.skyde">
     <title>Hours to Kill - Zeitachse des Todes</title>
 </programme>
-<programme start="20251207124000 +0000" stop="20251207132500 +0000" channel="Sky Crime HD.skyde">
+<programme start="20251212072500 +0000" stop="20251212081000 +0000" channel="Sky Crime HD.skyde">
     <title>Hours to Kill - Zeitachse des Todes</title>
 </programme>
-<programme start="20251207132500 +0000" stop="20251207141500 +0000" channel="Sky Crime HD.skyde">
+<programme start="20251212081000 +0000" stop="20251212091000 +0000" channel="Sky Crime HD.skyde">
+    <title>The Vow</title>
+</programme>
+<programme start="20251212091000 +0000" stop="20251212101000 +0000" channel="Sky Crime HD.skyde">
+    <title>The Vow</title>
+</programme>
+<programme start="20251212101000 +0000" stop="20251212105500 +0000" channel="Sky Crime HD.skyde">
+    <title>Unfall, Selbstmord oder Mord</title>
+</programme>
+<programme start="20251212105500 +0000" stop="20251212114000 +0000" channel="Sky Crime HD.skyde">
+    <title>Unfall, Selbstmord oder Mord</title>
+</programme>
+<programme start="20251212114000 +0000" stop="20251212122500 +0000" channel="Sky Crime HD.skyde">
+    <title>#killerpost</title>
+</programme>
+<programme start="20251212122500 +0000" stop="20251212131000 +0000" channel="Sky Crime HD.skyde">
+    <title>#killerpost</title>
+</programme>
+<programme start="20251212131000 +0000" stop="20251212135500 +0000" channel="Sky Crime HD.skyde">
     <title>Hours to Kill - Zeitachse des Todes</title>
 </programme>
-<programme start="20251207141500 +0000" stop="20251207150000 +0000" channel="Sky Crime HD.skyde">
+<programme start="20251212135500 +0000" stop="20251212144500 +0000" channel="Sky Crime HD.skyde">
     <title>Hours to Kill - Zeitachse des Todes</title>
 </programme>
-<programme start="20251207150000 +0000" stop="20251207155000 +0000" channel="Sky Crime HD.skyde">
+<programme start="20251212144500 +0000" stop="20251212161000 +0000" channel="Sky Crime HD.skyde">
+    <title>Edmund Kemper: Die Psychologie des Killers</title>
+</programme>
+<programme start="20251212161000 +0000" stop="20251212165500 +0000" channel="Sky Crime HD.skyde">
+    <title>Unfall, Selbstmord oder Mord</title>
+</programme>
+<programme start="20251212165500 +0000" stop="20251212174000 +0000" channel="Sky Crime HD.skyde">
+    <title>Unfall, Selbstmord oder Mord</title>
+</programme>
+<programme start="20251212174000 +0000" stop="20251212182500 +0000" channel="Sky Crime HD.skyde">
     <title>Hours to Kill - Zeitachse des Todes</title>
 </programme>
-<programme start="20251207155000 +0000" stop="20251207163500 +0000" channel="Sky Crime HD.skyde">
+<programme start="20251212182500 +0000" stop="20251212191500 +0000" channel="Sky Crime HD.skyde">
     <title>Hours to Kill - Zeitachse des Todes</title>
 </programme>
-<programme start="20251207163500 +0000" stop="20251207172000 +0000" channel="Sky Crime HD.skyde">
-    <title>Hours to Kill - Zeitachse des Todes</title>
+<programme start="20251212191500 +0000" stop="20251212200500 +0000" channel="Sky Crime HD.skyde">
+    <title>Teuflische Nachbarn</title>
 </programme>
-<programme start="20251207172000 +0000" stop="20251207181000 +0000" channel="Sky Crime HD.skyde">
-    <title>Hours to Kill - Zeitachse des Todes</title>
+<programme start="20251212200500 +0000" stop="20251212205500 +0000" channel="Sky Crime HD.skyde">
+    <title>Teuflische Nachbarn</title>
 </programme>
-<programme start="20251207181000 +0000" stop="20251207185500 +0000" channel="Sky Crime HD.skyde">
-    <title>Hours to Kill - Zeitachse des Todes</title>
+<programme start="20251212205500 +0000" stop="20251212222000 +0000" channel="Sky Crime HD.skyde">
+    <title>Edmund Kemper: Die Psychologie des Killers</title>
 </programme>
-<programme start="20251207185500 +0000" stop="20251207194500 +0000" channel="Sky Crime HD.skyde">
-    <title>Hours to Kill - Zeitachse des Todes</title>
-</programme>
-<programme start="20251207194500 +0000" stop="20251207204500 +0000" channel="Sky Crime HD.skyde">
-    <title>Sin City Gigolo: A Murder in Las Vegas</title>
-</programme>
-<programme start="20251207204500 +0000" stop="20251207213500 +0000" channel="Sky Crime HD.skyde">
-    <title>Sin City Gigolo: A Murder in Las Vegas</title>
-</programme>
-<programme start="20251207213500 +0000" stop="20251207222500 +0000" channel="Sky Crime HD.skyde">
-    <title>Der Killer-Kannibale: Jeffrey Dahmer</title>
-</programme>
-<programme start="20251207222500 +0000" stop="20251207231000 +0000" channel="Sky Crime HD.skyde">
+<programme start="20251212222000 +0000" stop="20251212231000 +0000" channel="Sky Crime HD.skyde">
     <title>Der Killer-Kannibale: Jeffrey Dahmer</title>
 </programme>
 <programme start="20251206230000 +0000" stop="20251206233000 +0000" channel="Sky Documentaries HD.skyde">
