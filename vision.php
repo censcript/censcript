@@ -463,6 +463,9 @@
 <programme start="20251207053000 +0000" stop="20251207070000 +0000" channel="Trans TV.vision">
 <title>Brownis On The Weekend</title>
 </programme>
+<programme start="20251207070000 +0000" stop="20251207080000 +0000" channel="Trans TV.vision">
+<title>Rumpi Hot Of The Week</title>
+</programme>
 <programme start="20251207080000 +0000" stop="20251207091500 +0000" channel="Trans TV.vision">
 <title>Insert Investigasi</title>
 </programme>
@@ -562,6 +565,9 @@
 <programme start="20251207100000 +0000" stop="20251207110000 +0000" channel="Trans 7.vision">
 <title>Selebrita On The Weekend</title>
 </programme>
+<programme start="20251207110000 +0000" stop="20251207114500 +0000" channel="Trans 7.vision">
+<title>On The Spot Weekend</title>
+</programme>
 <programme start="20251207114500 +0000" stop="20251207121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
@@ -660,6 +666,9 @@
 </programme>
 <programme start="20251207093000 +0000" stop="20251207103000 +0000" channel="ANTV.vision">
 <title>ANTV Seru</title>
+</programme>
+<programme start="20251207103000 +0000" stop="20251207130000 +0000" channel="ANTV.vision">
+<title>Pasukan Berani Mati</title>
 </programme>
 <programme start="20251207130000 +0000" stop="20251207143000 +0000" channel="ANTV.vision">
 <title>Perjanjian Di Malam Keramat</title>
@@ -1487,14 +1496,5 @@
 <title>BTV</title>
 </programme>
 <programme start="20251208060000 +0000" stop="20251208063000 +0000" channel="BTV.vision">
-<title>BTV</title>
-</programme>
-<programme start="20251208063000 +0000" stop="20251208080000 +0000" channel="BTV.vision">
-<title>BTV</title>
-</programme>
-<programme start="20251208080000 +0000" stop="20251208083000 +0000" channel="BTV.vision">
-<title>BTV</title>
-</programme>
-<programme start="20251208083000 +0000" stop="20251208093000 +0000" channel="BTV.vision">
 <title>BTV</title>
 </programme>
