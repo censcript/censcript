@@ -118,10 +118,6 @@
     <title>Football: FC Internazionale Milano - Liverpool FC (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251209025000 +0700" stop="20251209033000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Copa Sudamericana 2025 - Highlights</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251209033000 +0700" stop="20251209053000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Vitoria Guimaraes - Gil Vicente (L)</title>
     <desc>Live: Ya</desc>
@@ -250,8 +246,8 @@
     <title>Pick n&#039; Roll (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251209013500 +0700" stop="20251209033500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>2025 Extreme H</title>
+<programme start="20251210044500 +0700" stop="20251210071500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Minnesota Timberwolves - Phoenix Suns</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251209033500 +0700" stop="20251209044000 +0700" channel="COSMOTE Sport 5 HD">
@@ -341,10 +337,6 @@
 <programme start="20251210030000 +0700" stop="20251210050500 +0700" channel="COSMOTE Sport 5 HD">
     <title>Football: Atalanta - Chelsea FC (L)</title>
     <desc>Live: Ya</desc>
-</programme>
-<programme start="20251209005000 +0700" stop="20251209032000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: ATP Challenger 50 2025</title>
-    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251209032000 +0700" stop="20251209052000 +0700" channel="COSMOTE Sport 6 HD">
     <title>CEV Beach Volleyball European Cup 2025</title>
