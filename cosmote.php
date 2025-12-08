@@ -126,6 +126,10 @@
     <title>Football: AEL Novibet - Panathinaikos</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251209202500 +0700" stop="20251209222500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Torino - AC Milan</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251208190000 +0700" stop="20251208210000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Derby County - Leicester City FC</title>
     <desc>Live: Tidak</desc>
@@ -194,10 +198,6 @@
     <title>Football: Bristol City - Millwall</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251208173000 +0700" stop="20251208200000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Toronto Raptors - Boston Celtics</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251208200000 +0700" stop="20251208220000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Heidelberg - Promitheas</title>
     <desc>Live: Tidak</desc>
@@ -246,10 +246,6 @@
     <title>Basketball: Badalona - Hapoel Holon</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251208190000 +0700" stop="20251208193000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Highlights: ROC Nations Cup 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251208193000 +0700" stop="20251208202500 +0700" channel="COSMOTE Sport 5 HD">
     <title>Red Bull MotoGP Rookies Cup 2025</title>
     <desc>Live: Tidak</desc>
@@ -266,24 +262,20 @@
     <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251208222000 +0700" stop="20251208232500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC 2025</title>
+<programme start="20251208222000 +0700" stop="20251208234000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Grand Prix Show 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251208232500 +0700" stop="20251209010000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC 2025</title>
+<programme start="20251208234000 +0700" stop="20251209000000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Sports Classics: Worldies E22</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251209010000 +0700" stop="20251209020000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC 2025</title>
+<programme start="20251209000000 +0700" stop="20251209013500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: MotoGP 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251209020000 +0700" stop="20251209030500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251209030500 +0700" stop="20251209033500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC 2025</title>
+<programme start="20251209013500 +0700" stop="20251209033500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>2025 Extreme H</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251209033500 +0700" stop="20251209044000 +0700" channel="COSMOTE Sport 5 HD">
@@ -347,6 +339,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251209194000 +0700" stop="20251209203000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Red Bull MotoGP Rookies Cup 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251209203000 +0700" stop="20251209213000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Red Bull MotoGP Rookies Cup 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
