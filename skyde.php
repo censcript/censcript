@@ -1082,98 +1082,98 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251208225500 +0000" stop="20251208234000 +0000" channel="Heimatkanal.skyde">
     <title>Der Landarzt</title>
 </programme>
-<programme start="20251211233000 +0000" stop="20251212001500 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Terra X: Europa in...</title>
+<programme start="20251207230500 +0000" stop="20251207235500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Europas Mythen und Kreaturen</title>
 </programme>
-<programme start="20251212001500 +0000" stop="20251212010000 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Beyond Skinwalker Ranch - Geheimnissen auf der Spur</title>
+<programme start="20251207235500 +0000" stop="20251208003500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Zukunft ohne Menschen</title>
 </programme>
-<programme start="20251212010000 +0000" stop="20251212014500 +0000" channel="HISTORY Channel HD.skyde">
-    <title>History&#039;s Greatest Mysteries</title>
+<programme start="20251208003500 +0000" stop="20251208013500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Britanniens verborgene Schätze</title>
 </programme>
-<programme start="20251212014500 +0000" stop="20251212023000 +0000" channel="HISTORY Channel HD.skyde">
-    <title>The Proof is Out There - Auf den Spuren des Unerklärlichen</title>
+<programme start="20251208013500 +0000" stop="20251208023500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Britanniens verborgene Schätze</title>
 </programme>
-<programme start="20251212023000 +0000" stop="20251212031000 +0000" channel="HISTORY Channel HD.skyde">
-    <title>The Proof is Out There - Auf den Spuren des Unerklärlichen</title>
+<programme start="20251208023500 +0000" stop="20251208032000 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Europas Mythen und Kreaturen</title>
 </programme>
-<programme start="20251212031000 +0000" stop="20251212035500 +0000" channel="HISTORY Channel HD.skyde">
-    <title>The Proof is Out There - Auf den Spuren des Unerklärlichen</title>
+<programme start="20251208032000 +0000" stop="20251208040500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Europas Mythen und Kreaturen</title>
 </programme>
-<programme start="20251212035500 +0000" stop="20251212044000 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Oak Island - Fluch und Legende</title>
+<programme start="20251208040500 +0000" stop="20251208044500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Forged in Fire - Wettkampf der Schmiede</title>
 </programme>
-<programme start="20251212044000 +0000" stop="20251212053000 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Oak Island - Fluch und Legende</title>
+<programme start="20251208044500 +0000" stop="20251208053000 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Forged in Fire - Wettkampf der Schmiede</title>
 </programme>
-<programme start="20251212053000 +0000" stop="20251212061500 +0000" channel="HISTORY Channel HD.skyde">
+<programme start="20251208053000 +0000" stop="20251208061500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Forged in Fire - Wettkampf der Schmiede</title>
+</programme>
+<programme start="20251208061500 +0000" stop="20251208070000 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Forged in Fire - Wettkampf der Schmiede</title>
+</programme>
+<programme start="20251208070000 +0000" stop="20251208074500 +0000" channel="HISTORY Channel HD.skyde">
     <title>Ancient Aliens - Unerklärliche Phänomene</title>
 </programme>
-<programme start="20251212061500 +0000" stop="20251212070000 +0000" channel="HISTORY Channel HD.skyde">
+<programme start="20251208074500 +0000" stop="20251208083000 +0000" channel="HISTORY Channel HD.skyde">
     <title>Ancient Aliens - Unerklärliche Phänomene</title>
 </programme>
-<programme start="20251212070000 +0000" stop="20251212074500 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Ancient Aliens - Unerklärliche Phänomene</title>
+<programme start="20251208083000 +0000" stop="20251208092000 +0000" channel="HISTORY Channel HD.skyde">
+    <title>The Proof is Out There - Alien Edition</title>
 </programme>
-<programme start="20251212074500 +0000" stop="20251212083000 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Ancient Aliens - Unerklärliche Phänomene</title>
+<programme start="20251208092000 +0000" stop="20251208100500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>The Proof is Out There - Alien Edition</title>
 </programme>
-<programme start="20251212083000 +0000" stop="20251212092000 +0000" channel="HISTORY Channel HD.skyde">
-    <title>The Proof is Out There - Auf den Spuren des Unerklärlichen</title>
+<programme start="20251208100500 +0000" stop="20251208105000 +0000" channel="HISTORY Channel HD.skyde">
+    <title>The UnXplained mit William Shatner</title>
 </programme>
-<programme start="20251212092000 +0000" stop="20251212100500 +0000" channel="HISTORY Channel HD.skyde">
-    <title>The Proof is Out There - Auf den Spuren des Unerklärlichen</title>
-</programme>
-<programme start="20251212100500 +0000" stop="20251212105500 +0000" channel="HISTORY Channel HD.skyde">
+<programme start="20251208105000 +0000" stop="20251208114000 +0000" channel="HISTORY Channel HD.skyde">
     <title>The UnXplained - Mysterien des Universums</title>
 </programme>
-<programme start="20251212105500 +0000" stop="20251212114000 +0000" channel="HISTORY Channel HD.skyde">
-    <title>The UnXplained mit William Shatner</title>
-</programme>
-<programme start="20251212114000 +0000" stop="20251212122500 +0000" channel="HISTORY Channel HD.skyde">
+<programme start="20251208114000 +0000" stop="20251208122500 +0000" channel="HISTORY Channel HD.skyde">
     <title>History&#039;s Greatest Mysteries</title>
 </programme>
-<programme start="20251212122500 +0000" stop="20251212130500 +0000" channel="HISTORY Channel HD.skyde">
+<programme start="20251208122500 +0000" stop="20251208130500 +0000" channel="HISTORY Channel HD.skyde">
     <title>History&#039;s Greatest Mysteries</title>
 </programme>
-<programme start="20251212130500 +0000" stop="20251212135500 +0000" channel="HISTORY Channel HD.skyde">
+<programme start="20251208130500 +0000" stop="20251208135500 +0000" channel="HISTORY Channel HD.skyde">
     <title>The Proof is Out There - Auf den Spuren des Unerklärlichen</title>
 </programme>
-<programme start="20251212135500 +0000" stop="20251212144000 +0000" channel="HISTORY Channel HD.skyde">
+<programme start="20251208135500 +0000" stop="20251208144000 +0000" channel="HISTORY Channel HD.skyde">
     <title>The Proof is Out There - Auf den Spuren des Unerklärlichen</title>
 </programme>
-<programme start="20251212144000 +0000" stop="20251212152500 +0000" channel="HISTORY Channel HD.skyde">
-    <title>The UnXplained mit William Shatner</title>
+<programme start="20251208144000 +0000" stop="20251208152500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>The UnXplained - Mysterien des Universums</title>
 </programme>
-<programme start="20251212152500 +0000" stop="20251212161000 +0000" channel="HISTORY Channel HD.skyde">
-    <title>The UnXplained mit William Shatner</title>
+<programme start="20251208152500 +0000" stop="20251208161000 +0000" channel="HISTORY Channel HD.skyde">
+    <title>The UnXplained - Mysterien des Universums</title>
 </programme>
-<programme start="20251212161000 +0000" stop="20251212165500 +0000" channel="HISTORY Channel HD.skyde">
+<programme start="20251208161000 +0000" stop="20251208165500 +0000" channel="HISTORY Channel HD.skyde">
     <title>Ancient Aliens - Unerklärliche Phänomene</title>
 </programme>
-<programme start="20251212165500 +0000" stop="20251212174000 +0000" channel="HISTORY Channel HD.skyde">
+<programme start="20251208165500 +0000" stop="20251208174000 +0000" channel="HISTORY Channel HD.skyde">
     <title>Ancient Aliens - Unerklärliche Phänomene</title>
 </programme>
-<programme start="20251212174000 +0000" stop="20251212183000 +0000" channel="HISTORY Channel HD.skyde">
+<programme start="20251208174000 +0000" stop="20251208183000 +0000" channel="HISTORY Channel HD.skyde">
     <title>Ancient Aliens - Unerklärliche Phänomene</title>
 </programme>
-<programme start="20251212183000 +0000" stop="20251212191500 +0000" channel="HISTORY Channel HD.skyde">
+<programme start="20251208183000 +0000" stop="20251208191500 +0000" channel="HISTORY Channel HD.skyde">
     <title>Ancient Aliens - Unerklärliche Phänomene</title>
 </programme>
-<programme start="20251212191500 +0000" stop="20251212201000 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Hitlers Macht</title>
+<programme start="20251208191500 +0000" stop="20251208200500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Meilensteine der Technik</title>
 </programme>
-<programme start="20251212201000 +0000" stop="20251212210500 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Hitlers Macht</title>
+<programme start="20251208200500 +0000" stop="20251208210000 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Rekordverdächtig - Superflugzeuge</title>
 </programme>
-<programme start="20251212210500 +0000" stop="20251212220000 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Hitlers Macht</title>
+<programme start="20251208210000 +0000" stop="20251208215000 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Innovationen, die die Welt veränderten</title>
 </programme>
-<programme start="20251212220000 +0000" stop="20251212225000 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Der Zweite Weltkrieg - Die letzten Stunden</title>
+<programme start="20251208215000 +0000" stop="20251208224000 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Zukunft ohne Menschen</title>
 </programme>
-<programme start="20251212225000 +0000" stop="20251212234000 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Der Zweite Weltkrieg - Die letzten Stunden</title>
+<programme start="20251208224000 +0000" stop="20251208233000 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Terra X: Sieben Kontinente - Ein Planet</title>
 </programme>
 <programme start="20251207230000 +0000" stop="20251208000000 +0000" channel="Jukebox.skyde">
     <title>LOGOUT</title>
@@ -1564,6 +1564,66 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 </programme>
 <programme start="20251208224000 +0000" stop="20251208230500 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
+</programme>
+<programme start="20251207235500 +0000" stop="20251208012500 +0000" channel="Romance TV HD.skyde">
+    <title>Einfach Rosa - Die Hochzeitsplanerin</title>
+</programme>
+<programme start="20251208012500 +0000" stop="20251208025000 +0000" channel="Romance TV HD.skyde">
+    <title>Rosamunde Pilcher: Wo die Liebe begann</title>
+</programme>
+<programme start="20251208025000 +0000" stop="20251208030500 +0000" channel="Romance TV HD.skyde">
+    <title>Stars im Interview</title>
+</programme>
+<programme start="20251208030500 +0000" stop="20251208035500 +0000" channel="Romance TV HD.skyde">
+    <title>Familie Dr. Kleist</title>
+</programme>
+<programme start="20251208035500 +0000" stop="20251208044500 +0000" channel="Romance TV HD.skyde">
+    <title>Familie Dr. Kleist</title>
+</programme>
+<programme start="20251208044500 +0000" stop="20251208045500 +0000" channel="Romance TV HD.skyde">
+    <title>Stars im Interview</title>
+</programme>
+<programme start="20251208045500 +0000" stop="20251208050000 +0000" channel="Romance TV HD.skyde">
+    <title>Paare</title>
+</programme>
+<programme start="20251208050000 +0000" stop="20251208063500 +0000" channel="Romance TV HD.skyde">
+    <title>Der Ranger - Paradies Heimat</title>
+</programme>
+<programme start="20251208063500 +0000" stop="20251208081000 +0000" channel="Romance TV HD.skyde">
+    <title>Für immer Sommer - Ein neues Leben</title>
+</programme>
+<programme start="20251208081000 +0000" stop="20251208094000 +0000" channel="Romance TV HD.skyde">
+    <title>Inga Lindström: Zurück ins Morgen</title>
+</programme>
+<programme start="20251208094000 +0000" stop="20251208103500 +0000" channel="Romance TV HD.skyde">
+    <title>Familie Dr. Kleist</title>
+</programme>
+<programme start="20251208103500 +0000" stop="20251208121000 +0000" channel="Romance TV HD.skyde">
+    <title>Das große Comeback</title>
+</programme>
+<programme start="20251208121000 +0000" stop="20251208134000 +0000" channel="Romance TV HD.skyde">
+    <title>Einfach Rosa - Die Hochzeitsplanerin</title>
+</programme>
+<programme start="20251208134000 +0000" stop="20251208151500 +0000" channel="Romance TV HD.skyde">
+    <title>Rosamunde Pilcher: Wo die Liebe begann</title>
+</programme>
+<programme start="20251208151500 +0000" stop="20251208164500 +0000" channel="Romance TV HD.skyde">
+    <title>Ladylike - Jetzt erst recht!</title>
+</programme>
+<programme start="20251208164500 +0000" stop="20251208182000 +0000" channel="Romance TV HD.skyde">
+    <title>Woanders ist es auch nicht ruhiger</title>
+</programme>
+<programme start="20251208182000 +0000" stop="20251208191500 +0000" channel="Romance TV HD.skyde">
+    <title>Familie Dr. Kleist</title>
+</programme>
+<programme start="20251208191500 +0000" stop="20251208204500 +0000" channel="Romance TV HD.skyde">
+    <title>Der Ferienarzt... auf Capri</title>
+</programme>
+<programme start="20251208204500 +0000" stop="20251208221500 +0000" channel="Romance TV HD.skyde">
+    <title>Entscheidung auf Mauritius</title>
+</programme>
+<programme start="20251208221500 +0000" stop="20251208231000 +0000" channel="Romance TV HD.skyde">
+    <title>Familie Dr. Kleist</title>
 </programme>
 <programme start="20251207230500 +0000" stop="20251208000000 +0000" channel="Sky Atlantic HD.skyde">
     <title>Game of Thrones - Das Lied von Eis und Feuer</title>

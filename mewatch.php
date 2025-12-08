@@ -640,59 +640,59 @@
     <programme start="20251207150000 +0000" stop="20251207165000 +0000" channel="now-80s.mewatch">
         <title>The NOW Yearbook 1989 - EP1</title>
     </programme>
-    <programme start="20251207165000 +0000" stop="20251207170000 +0000" channel="now-80s.mewatch">
-        <title>80s Rock Anthems Night! - EP1</title>
+    <programme start="20251207160000 +0000" stop="20251207170000 +0000" channel="now-80s.mewatch">
+        <title>The UK&#039;s Most Streamed Xmas Songs! - EP1</title>
     </programme>
-    <programme start="20251207170000 +0000" stop="20251207190000 +0000" channel="now-80s.mewatch">
-        <title>Every Song From NOW 16 - 1989 - EP1</title>
+    <programme start="20251207170000 +0000" stop="20251207171000 +0000" channel="now-80s.mewatch">
+        <title>40 From The Flicks! - EP1</title>
     </programme>
-    <programme start="20251207190000 +0000" stop="20251207200000 +0000" channel="now-80s.mewatch">
-        <title>All Day - It&#039;s 1989! - EP1</title>
+    <programme start="20251207171000 +0000" stop="20251207180000 +0000" channel="now-80s.mewatch">
+        <title>Cinema Soundtracks - All Day! - EP1</title>
     </programme>
-    <programme start="20251207200000 +0000" stop="20251207210000 +0000" channel="now-80s.mewatch">
-        <title>The NOW Yearbook 1989 - EP1</title>
+    <programme start="20251207180000 +0000" stop="20251207190000 +0000" channel="now-80s.mewatch">
+        <title>Soundtrack Smashes: 1985 - EP1</title>
     </programme>
-    <programme start="20251207210000 +0000" stop="20251207220000 +0000" channel="now-80s.mewatch">
-        <title>The NOW Yearbook 1989 - EP1</title>
+    <programme start="20251207190000 +0000" stop="20251207213500 +0000" channel="now-80s.mewatch">
+        <title>Limahl&#039;s Never Ending Soundtracks! - EP1</title>
     </programme>
-    <programme start="20251207220000 +0000" stop="20251208020000 +0000" channel="now-80s.mewatch">
-        <title>Soft Rock Classics! 1980-1989 - EP1</title>
+    <programme start="20251207213500 +0000" stop="20251207220000 +0000" channel="now-80s.mewatch">
+        <title>Cinema Soundtracks - All Day! - EP1</title>
     </programme>
-    <programme start="20251208020000 +0000" stop="20251208042000 +0000" channel="now-80s.mewatch">
-        <title>Jenny Powell&#039;s Powerplays - Top 25 - EP1</title>
+    <programme start="20251207220000 +0000" stop="20251207230000 +0000" channel="now-80s.mewatch">
+        <title>The Name&#039;s Bond - James Bond! - EP1</title>
     </programme>
-    <programme start="20251208042000 +0000" stop="20251208050000 +0000" channel="now-80s.mewatch">
-        <title>Soft Rock &amp; Power Pop! - EP1</title>
+    <programme start="20251207230000 +0000" stop="20251208012000 +0000" channel="now-80s.mewatch">
+        <title>One Hit Wonders of Dance 1980-1989 - EP1</title>
     </programme>
-    <programme start="20251208050000 +0000" stop="20251208073000 +0000" channel="now-80s.mewatch">
-        <title>Tony Hadley&#039;s Solid Gold Anthems! - EP1</title>
+    <programme start="20251208012000 +0000" stop="20251208020000 +0000" channel="now-80s.mewatch">
+        <title>Your Festive Party Channel! - EP1</title>
     </programme>
-    <programme start="20251208073000 +0000" stop="20251208080000 +0000" channel="now-80s.mewatch">
-        <title>1981 Unleashed! - EP1</title>
+    <programme start="20251208020000 +0000" stop="20251208045000 +0000" channel="now-80s.mewatch">
+        <title>Mark Goodier&#039;s 12 inch 80s! - EP1</title>
     </programme>
-    <programme start="20251208080000 +0000" stop="20251208084000 +0000" channel="now-80s.mewatch">
-        <title>1981&#039;s One-Hit-Wonders! Top 10 - EP1</title>
+    <programme start="20251208045000 +0000" stop="20251208050000 +0000" channel="now-80s.mewatch">
+        <title>Your Festive Party Channel! - EP1</title>
     </programme>
-    <programme start="20251208084000 +0000" stop="20251208090000 +0000" channel="now-80s.mewatch">
-        <title>1981 Unleashed! - EP1</title>
+    <programme start="20251208050000 +0000" stop="20251208070000 +0000" channel="now-80s.mewatch">
+        <title>80s v 90s Xmas Party! - EP1</title>
     </programme>
-    <programme start="20251208090000 +0000" stop="20251208093000 +0000" channel="now-80s.mewatch">
-        <title>Mark Goodier&#039;s No.1s of 1981 - EP1</title>
+    <programme start="20251208070000 +0000" stop="20251208094000 +0000" channel="now-80s.mewatch">
+        <title>Tight Fit&#039;s 30 Fantasy Islands! - EP1</title>
     </programme>
-    <programme start="20251208093000 +0000" stop="20251208103000 +0000" channel="now-80s.mewatch">
-        <title>Every Song From NOW 16 - 1989 - EP1</title>
+    <programme start="20251208094000 +0000" stop="20251208100000 +0000" channel="now-80s.mewatch">
+        <title>Your Festive Party Channel! - EP1</title>
     </programme>
-    <programme start="20251208103000 +0000" stop="20251208110000 +0000" channel="now-80s.mewatch">
-        <title>Way Back When! 1981 - EP1</title>
+    <programme start="20251208100000 +0000" stop="20251208110000 +0000" channel="now-80s.mewatch">
+        <title>The 1984 POWER Hour! - EP1</title>
     </programme>
-    <programme start="20251208110000 +0000" stop="20251208124500 +0000" channel="now-80s.mewatch">
-        <title>Duncan James&#039; Eurovision Top 25 - EP1</title>
+    <programme start="20251208110000 +0000" stop="20251208140500 +0000" channel="now-80s.mewatch">
+        <title>The NOW Yearbook 1984 - EP1</title>
     </programme>
-    <programme start="20251208124500 +0000" stop="20251208130000 +0000" channel="now-80s.mewatch">
-        <title>WOW! What A Party! - EP1</title>
+    <programme start="20251208140500 +0000" stop="20251208150000 +0000" channel="now-80s.mewatch">
+        <title>Your Festive Party Channel! - EP1</title>
     </programme>
-    <programme start="20251208130000 +0000" stop="20251208170000 +0000" channel="now-80s.mewatch">
-        <title>80s School Disco Top 50 - EP1</title>
+    <programme start="20251208150000 +0000" stop="20251208170000 +0000" channel="now-80s.mewatch">
+        <title>More Forgotten Feelgood Faves! - EP1</title>
     </programme>
     <programme start="20251207160000 +0000" stop="20251207172500 +0000" channel="now-70s.mewatch">
         <title>The 30 Grooviest Stars of the 60s! - EP1</title>

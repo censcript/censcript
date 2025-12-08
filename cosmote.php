@@ -62,6 +62,10 @@
     <title>Highlights: UEL &amp; UECL 2025-26</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251209140000 +0700" stop="20251209160000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: FC Kairat Almaty - Olympiacos (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
 <programme start="20251208120000 +0700" stop="20251208141000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Olympiacos - OFI</title>
     <desc>Live: Tidak</desc>
@@ -120,6 +124,10 @@
 </programme>
 <programme start="20251209120000 +0700" stop="20251209141000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Volos - Kifisia</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251209141000 +0700" stop="20251209161000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Udinese - Genoa</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251208114500 +0700" stop="20251208150000 +0700" channel="COSMOTE Sport 3 HD">
@@ -238,8 +246,8 @@
     <title>Basketball: Karsiyaka - Besiktas</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251208122000 +0700" stop="20251208134500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>DTM 2025</title>
+<programme start="20251209143000 +0700" stop="20251209152500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>NBA Specials: Basketball Stories</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251208134500 +0700" stop="20251208144000 +0700" channel="COSMOTE Sport 5 HD">
@@ -346,8 +354,8 @@
     <title>2025 FIM Women&#039;s Circuit Racing World Championship</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251208123000 +0700" stop="20251208133000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Nitto ATP Finals 2025 - Highlights</title>
+<programme start="20251209144000 +0700" stop="20251209153500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>2025 FIM Women&#039;s Circuit Racing World Championship</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251208133000 +0700" stop="20251208143500 +0700" channel="COSMOTE Sport 6 HD">
