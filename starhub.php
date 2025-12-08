@@ -2032,9 +2032,6 @@
     <programme start="20251207200000 +0000" stop="20251207210000 +0000" channel="CNN HD.starhub">
         <title>CNN Newsroom Sunday</title>
     </programme>
-    <programme start="20251207210000 +0000" stop="20251207220000 +0000" channel="CNN HD.starhub">
-        <title>CNN Newsroom Sunday</title>
-    </programme>
     <programme start="20251207220000 +0000" stop="20251207223000 +0000" channel="CNN HD.starhub">
         <title>World Sport</title>
     </programme>

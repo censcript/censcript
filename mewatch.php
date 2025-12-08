@@ -52,8 +52,14 @@
     <programme start="20251208015200 +0000" stop="20251208020000 +0000" channel="Channel 5.mewatch">
         <title>Roots and Fruits: Sr2 - EP 10</title>
     </programme>
-    <programme start="20251208020000 +0000" stop="20251208073000 +0000" channel="Channel 5.mewatch">
+    <programme start="20251208020000 +0000" stop="20251208023000 +0000" channel="Channel 5.mewatch">
         <title>Ollie And Friends S7 - EP 14</title>
+    </programme>
+    <programme start="20251208023000 +0000" stop="20251208025500 +0000" channel="Channel 5.mewatch">
+        <title>Tangranimals - EP 17</title>
+    </programme>
+    <programme start="20251208025500 +0000" stop="20251208073000 +0000" channel="Channel 5.mewatch">
+        <title>33rd SEA Games 2025: Daily Action At The Games - EP 23</title>
     </programme>
     <programme start="20251208073000 +0000" stop="20251208080000 +0000" channel="Channel 5.mewatch">
         <title>Talking Point - EP 27</title>
@@ -611,10 +617,16 @@
         <title>Dylan&#039;s Playtime Adventures/Wishes 许愿泡泡茶/Lil Wild/Syber Surfer Sam</title>
     </programme>
     <programme start="20251207160000 +0000" stop="20251208160000 +0000" channel="spl01.mewatch">
-        <title>No programmes streaming LIVE at this moment</title>
+        <title>No Programme available now. Next Broadcast on 14th December, Sunday 7.20pm. Singapore Cup 2025/2026 </title>
     </programme>
     <programme start="20251208160000 +0000" stop="20251209160000 +0000" channel="spl01.mewatch">
-        <title>No programmes streaming LIVE at this moment</title>
+        <title>No Programme available now. Next Broadcast on 14th December, Sunday 7.20pm. Singapore Cup 2025/2026 </title>
+    </programme>
+    <programme start="20251207160000 +0000" stop="20251208160000 +0000" channel="spl02.mewatch">
+        <title>No Programme available now. Next Broadcast on 14th December, Sunday 7.20pm. Singapore Cup 2025/2026 </title>
+    </programme>
+    <programme start="20251208160000 +0000" stop="20251209160000 +0000" channel="spl02.mewatch">
+        <title>No Programme available now. Next Broadcast on 14th December, Sunday 7.20pm. Singapore Cup 2025/2026 </title>
     </programme>
     <programme start="20251207150000 +0000" stop="20251207165000 +0000" channel="now-80s.mewatch">
         <title>The NOW Yearbook 1989 - EP1</title>
