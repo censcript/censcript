@@ -7862,15 +7862,18 @@
     <title>Lintas iNews Siang</title>
 </programme>
 <programme start="20251208053000 +0000" stop="20251208063000 +0000" channel="Sindo News TV.mncvision">
-    <title>iNews Today</title>
+    <title>SINDO Today</title>
 </programme>
 <programme start="20251208063000 +0000" stop="20251208070000 +0000" channel="Sindo News TV.mncvision">
     <title>Seputar iNews Siang</title>
 </programme>
-<programme start="20251208070000 +0000" stop="20251208083000 +0000" channel="Sindo News TV.mncvision">
+<programme start="20251208070000 +0000" stop="20251208080000 +0000" channel="Sindo News TV.mncvision">
     <title>iNews Siang</title>
 </programme>
-<programme start="20251208083000 +0000" stop="20251208093000 +0000" channel="Sindo News TV.mncvision">
+<programme start="20251208080000 +0000" stop="20251208090000 +0000" channel="Sindo News TV.mncvision">
+    <title>SINDO Siang</title>
+</programme>
+<programme start="20251208090000 +0000" stop="20251208093000 +0000" channel="Sindo News TV.mncvision">
     <title>Special Report</title>
 </programme>
 <programme start="20251208093000 +0000" stop="20251208110000 +0000" channel="Sindo News TV.mncvision">
@@ -7937,15 +7940,18 @@
     <title>Lintas iNews Siang</title>
 </programme>
 <programme start="20251208053000 +0000" stop="20251208063000 +0000" channel="Sindo News TV HD.mncvision">
-    <title>iNews Today</title>
+    <title>SINDO Today</title>
 </programme>
 <programme start="20251208063000 +0000" stop="20251208070000 +0000" channel="Sindo News TV HD.mncvision">
     <title>Seputar iNews Siang</title>
 </programme>
-<programme start="20251208070000 +0000" stop="20251208083000 +0000" channel="Sindo News TV HD.mncvision">
+<programme start="20251208070000 +0000" stop="20251208080000 +0000" channel="Sindo News TV HD.mncvision">
     <title>iNews Siang</title>
 </programme>
-<programme start="20251208083000 +0000" stop="20251208093000 +0000" channel="Sindo News TV HD.mncvision">
+<programme start="20251208080000 +0000" stop="20251208090000 +0000" channel="Sindo News TV HD.mncvision">
+    <title>SINDO Siang</title>
+</programme>
+<programme start="20251208090000 +0000" stop="20251208093000 +0000" channel="Sindo News TV HD.mncvision">
     <title>Special Report</title>
 </programme>
 <programme start="20251208093000 +0000" stop="20251208110000 +0000" channel="Sindo News TV HD.mncvision">
@@ -8446,19 +8452,19 @@
 <programme start="20251208030000 +0000" stop="20251208040000 +0000" channel="SPOTV.mncvision">
     <title>2025 Ryder Cup Official Film</title>
 </programme>
-<programme start="20251208040000 +0000" stop="20251208050000 +0000" channel="SPOTV.mncvision">
+<programme start="20251208040000 +0000" stop="20251208051000 +0000" channel="SPOTV.mncvision">
     <title>Formula E S12: Sao Paulo</title>
 </programme>
-<programme start="20251208050000 +0000" stop="20251208060000 +0000" channel="SPOTV.mncvision">
+<programme start="20251208051000 +0000" stop="20251208070500 +0000" channel="SPOTV.mncvision">
     <title>Formula E S12: Sao Paulo</title>
 </programme>
-<programme start="20251208060000 +0000" stop="20251208080000 +0000" channel="SPOTV.mncvision">
+<programme start="20251208070500 +0000" stop="20251208094500 +0000" channel="SPOTV.mncvision">
     <title>Formula E S12: Sao Paulo</title>
 </programme>
-<programme start="20251208080000 +0000" stop="20251208100000 +0000" channel="SPOTV.mncvision">
-    <title>Formula E S12: Sao Paulo</title>
+<programme start="20251208094500 +0000" stop="20251208110000 +0000" channel="SPOTV.mncvision">
+    <title>Formula E S12: Sao Paulo HL</title>
 </programme>
-<programme start="20251208100000 +0000" stop="20251208150000 +0000" channel="SPOTV.mncvision">
+<programme start="20251208110000 +0000" stop="20251208150000 +0000" channel="SPOTV.mncvision">
     <title>Snow League 25/26</title>
 </programme>
 <programme start="20251208150000 +0000" stop="20251208160000 +0000" channel="SPOTV.mncvision">
@@ -8572,19 +8578,19 @@
 <programme start="20251208030000 +0000" stop="20251208040000 +0000" channel="SPOTV HD.mncvision">
     <title>2025 Ryder Cup Official Film</title>
 </programme>
-<programme start="20251208040000 +0000" stop="20251208050000 +0000" channel="SPOTV HD.mncvision">
+<programme start="20251208040000 +0000" stop="20251208051000 +0000" channel="SPOTV HD.mncvision">
     <title>Formula E S12: Sao Paulo</title>
 </programme>
-<programme start="20251208050000 +0000" stop="20251208060000 +0000" channel="SPOTV HD.mncvision">
+<programme start="20251208051000 +0000" stop="20251208070500 +0000" channel="SPOTV HD.mncvision">
     <title>Formula E S12: Sao Paulo</title>
 </programme>
-<programme start="20251208060000 +0000" stop="20251208080000 +0000" channel="SPOTV HD.mncvision">
+<programme start="20251208070500 +0000" stop="20251208094500 +0000" channel="SPOTV HD.mncvision">
     <title>Formula E S12: Sao Paulo</title>
 </programme>
-<programme start="20251208080000 +0000" stop="20251208100000 +0000" channel="SPOTV HD.mncvision">
-    <title>Formula E S12: Sao Paulo</title>
+<programme start="20251208094500 +0000" stop="20251208110000 +0000" channel="SPOTV HD.mncvision">
+    <title>Formula E S12: Sao Paulo HL</title>
 </programme>
-<programme start="20251208100000 +0000" stop="20251208150000 +0000" channel="SPOTV HD.mncvision">
+<programme start="20251208110000 +0000" stop="20251208150000 +0000" channel="SPOTV HD.mncvision">
     <title>Snow League 25/26</title>
 </programme>
 <programme start="20251208150000 +0000" stop="20251208160000 +0000" channel="SPOTV HD.mncvision">
