@@ -6841,14 +6841,68 @@
     <programme start="20251207220000 +0000" stop="20251207231500 +0000" channel="TestChannel2.starhub">
         <title>Good Job</title>
     </programme>
-    <programme start="20251207220000 +0000" stop="20251208040000 +0000" channel="TestChannel2.starhub">
-        <title>End of Transmission</title>
+    <programme start="20251207231500 +0000" stop="20251208003000 +0000" channel="TestChannel2.starhub">
+        <title>Moonshine</title>
     </programme>
-    <programme start="20251208040000 +0000" stop="20251208100000 +0000" channel="TestChannel2.starhub">
-        <title>End of Transmission</title>
+    <programme start="20251208003000 +0000" stop="20251208013000 +0000" channel="TestChannel2.starhub">
+        <title>Duel on Mount Hua - Nine Yin True Sutra</title>
     </programme>
-    <programme start="20251208100000 +0000" stop="20251208160000 +0000" channel="TestChannel2.starhub">
-        <title>End of Transmission</title>
+    <programme start="20251208013000 +0000" stop="20251208020000 +0000" channel="TestChannel2.starhub">
+        <title>Lo And Behold</title>
+    </programme>
+    <programme start="20251208020000 +0000" stop="20251208025000 +0000" channel="TestChannel2.starhub">
+        <title>Golden City (Ep 751-800) VVD Mandarin</title>
+    </programme>
+    <programme start="20251208025000 +0000" stop="20251208034000 +0000" channel="TestChannel2.starhub">
+        <title>Prism Breaker</title>
+    </programme>
+    <programme start="20251208034000 +0000" stop="20251208042500 +0000" channel="TestChannel2.starhub">
+        <title>The Wanted Detective</title>
+    </programme>
+    <programme start="20251208042500 +0000" stop="20251208045000 +0000" channel="TestChannel2.starhub">
+        <title>Lo And Behold</title>
+    </programme>
+    <programme start="20251208045000 +0000" stop="20251208054000 +0000" channel="TestChannel2.starhub">
+        <title>The Heir to the Throne (with Eng Subs)</title>
+    </programme>
+    <programme start="20251208054000 +0000" stop="20251208063000 +0000" channel="TestChannel2.starhub">
+        <title>Golden City (Ep 751-800) VVD Mandarin</title>
+    </programme>
+    <programme start="20251208063000 +0000" stop="20251208073000 +0000" channel="TestChannel2.starhub">
+        <title>The Limbo</title>
+    </programme>
+    <programme start="20251208073000 +0000" stop="20251208081000 +0000" channel="TestChannel2.starhub">
+        <title>The Limbo</title>
+    </programme>
+    <programme start="20251208081000 +0000" stop="20251208090000 +0000" channel="TestChannel2.starhub">
+        <title>Duel on Mount Hua - Nine Yin True Sutra</title>
+    </programme>
+    <programme start="20251208090000 +0000" stop="20251208094500 +0000" channel="TestChannel2.starhub">
+        <title>No Room for Crime</title>
+    </programme>
+    <programme start="20251208094500 +0000" stop="20251208103500 +0000" channel="TestChannel2.starhub">
+        <title>Golden City (Ep 751-800) VVD Mandarin</title>
+    </programme>
+    <programme start="20251208103500 +0000" stop="20251208110000 +0000" channel="TestChannel2.starhub">
+        <title>Lo And Behold</title>
+    </programme>
+    <programme start="20251208110000 +0000" stop="20251208120000 +0000" channel="TestChannel2.starhub">
+        <title>Duel on Mount Hua - Nine Yin True Sutra</title>
+    </programme>
+    <programme start="20251208120000 +0000" stop="20251208130000 +0000" channel="TestChannel2.starhub">
+        <title>Prism Breaker</title>
+    </programme>
+    <programme start="20251208130000 +0000" stop="20251208140000 +0000" channel="TestChannel2.starhub">
+        <title>The Wanted Detective</title>
+    </programme>
+    <programme start="20251208140000 +0000" stop="20251208143000 +0000" channel="TestChannel2.starhub">
+        <title>Lo And Behold</title>
+    </programme>
+    <programme start="20251208143000 +0000" stop="20251208152000 +0000" channel="TestChannel2.starhub">
+        <title>The Heir to the Throne (with Eng Subs)</title>
+    </programme>
+    <programme start="20251208152000 +0000" stop="20251208161500 +0000" channel="TestChannel2.starhub">
+        <title>Golden City (Ep 751-800) VVD Mandarin</title>
     </programme>
     <programme start="20251207160000 +0000" stop="20251207161000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>NHK Newsline</title>
@@ -7228,8 +7282,11 @@
     <programme start="20251208110000 +0000" stop="20251208113000 +0000" channel="COLORS.starhub">
         <title>Tuu Juliet Jatt Di</title>
     </programme>
-    <programme start="20251208113000 +0000" stop="20251208150000 +0000" channel="COLORS.starhub">
+    <programme start="20251208113000 +0000" stop="20251208143000 +0000" channel="COLORS.starhub">
         <title>Bigg Boss</title>
+    </programme>
+    <programme start="20251208143000 +0000" stop="20251208150000 +0000" channel="COLORS.starhub">
+        <title>Tuu Juliet Jatt Di</title>
     </programme>
     <programme start="20251208150000 +0000" stop="20251208153000 +0000" channel="COLORS.starhub">
         <title>Seher Hone Ko Hai</title>
