@@ -2750,8 +2750,8 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251208223000 +0000" stop="20251208233000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: Glanzparade - Die Show mit Buschmann, Fuss und Wagner</title>
 </programme>
-<programme start="20251208000000 +0000" stop="20251208010000 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>F2: 2. Rennen - GP Abu Dhabi</title>
+<programme start="20251207230000 +0000" stop="20251208010000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>F1: Rennen - GP Abu Dhabi</title>
 </programme>
 <programme start="20251208010000 +0000" stop="20251208013000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Rennen Kompakt - GP Abu Dhabi</title>
