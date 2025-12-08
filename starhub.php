@@ -6817,8 +6817,8 @@
     <programme start="20251208153000 +0000" stop="20251208160000 +0000" channel="beIN Sports HD.starhub">
         <title>LFC Trending 2025/26</title>
     </programme>
-    <programme start="20251207150000 +0000" stop="20251207161500 +0000" channel="TestChannel2.starhub">
-        <title>Good Job</title>
+    <programme start="20251207160000 +0000" stop="20251207161500 +0000" channel="TestChannel2.starhub">
+        <title>End of Transmission</title>
     </programme>
     <programme start="20251207161500 +0000" stop="20251207170500 +0000" channel="TestChannel2.starhub">
         <title>Destined</title>
