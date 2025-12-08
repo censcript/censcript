@@ -1,11 +1,3 @@
-<programme start="20251208153000 +0700" stop="20251208173000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: PAOK - SK Brann</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251208173000 +0700" stop="20251208180000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>UEFA Champions League Magazine 2025-26 E14</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251208180000 +0700" stop="20251208203000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Sportshow</title>
     <desc>Live: Tidak</desc>
@@ -130,6 +122,10 @@
     <title>Football: Hellas Verona - Atalanta</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251209181000 +0700" stop="20251209202500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: AEL Novibet - Panathinaikos</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251208170000 +0700" stop="20251208190000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Celtic FC - Heart of Midlothian</title>
     <desc>Live: Tidak</desc>
@@ -196,10 +192,6 @@
 </programme>
 <programme start="20251209171000 +0700" stop="20251209190000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Hull City - Middlesbrough</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251208150000 +0700" stop="20251208173000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: New York Knicks - Orlando Magic</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251208173000 +0700" stop="20251208200000 +0700" channel="COSMOTE Sport 4 HD">
@@ -354,10 +346,6 @@
     <title>Motorsports: Extreme E 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251208160500 +0700" stop="20251208170500 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Nitto ATP Finals 2025 - Highlights</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251208170500 +0700" stop="20251208200500 +0700" channel="COSMOTE Sport 6 HD">
     <title>Volleyball: Olympiacos - Eczacibasi Dynavit Istanbul</title>
     <desc>Live: Tidak</desc>
@@ -416,6 +404,10 @@
 </programme>
 <programme start="20251209173000 +0700" stop="20251209183000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Sports Classics: 2025 Outdoor Specials</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251209183000 +0700" stop="20251209193000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Nitto ATP Finals 2025 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251208170000 +0700" stop="20251208190000 +0700" channel="COSMOTE Sport 7 HD">

@@ -8225,7 +8225,7 @@
     <title>Planet Footbal</title>
 </programme>
 <programme start="20251208130000 +0000" stop="20251208150000 +0000" channel="Sportstars 3.mncvision">
-    <title>European Qualifiers</title>
+    <title>Friendly Match</title>
 </programme>
 <programme start="20251208150000 +0000" stop="20251208153000 +0000" channel="Sportstars 3.mncvision">
     <title>Liga 2</title>
@@ -8270,7 +8270,7 @@
     <title>Planet Footbal</title>
 </programme>
 <programme start="20251208130000 +0000" stop="20251208150000 +0000" channel="sportstars 3 HD.mncvision">
-    <title>European Qualifiers</title>
+    <title>Friendly Match</title>
 </programme>
 <programme start="20251208150000 +0000" stop="20251208153000 +0000" channel="sportstars 3 HD.mncvision">
     <title>Liga 2</title>
