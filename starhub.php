@@ -2032,6 +2032,9 @@
     <programme start="20251207200000 +0000" stop="20251207210000 +0000" channel="CNN HD.starhub">
         <title>CNN Newsroom Sunday</title>
     </programme>
+    <programme start="20251207210000 +0000" stop="20251207220000 +0000" channel="CNN HD.starhub">
+        <title>State of the Union with Jake Tapper and Dana Bash</title>
+    </programme>
     <programme start="20251207220000 +0000" stop="20251207223000 +0000" channel="CNN HD.starhub">
         <title>World Sport</title>
     </programme>
@@ -5122,19 +5125,19 @@
     <programme start="20251208030000 +0000" stop="20251208040000 +0000" channel="SPOTV.starhub">
         <title>2025 Ryder Cup Official Film</title>
     </programme>
-    <programme start="20251208040000 +0000" stop="20251208050000 +0000" channel="SPOTV.starhub">
-        <title>Free Practice 1</title>
-    </programme>
-    <programme start="20251208050000 +0000" stop="20251208060000 +0000" channel="SPOTV.starhub">
+    <programme start="20251208040000 +0000" stop="20251208051000 +0000" channel="SPOTV.starhub">
         <title>Free Practice 2</title>
     </programme>
-    <programme start="20251208060000 +0000" stop="20251208080000 +0000" channel="SPOTV.starhub">
+    <programme start="20251208051000 +0000" stop="20251208070500 +0000" channel="SPOTV.starhub">
         <title>Qualifying</title>
     </programme>
-    <programme start="20251208080000 +0000" stop="20251208100000 +0000" channel="SPOTV.starhub">
+    <programme start="20251208070500 +0000" stop="20251208094500 +0000" channel="SPOTV.starhub">
         <title>Race</title>
     </programme>
-    <programme start="20251208100000 +0000" stop="20251208150000 +0000" channel="SPOTV.starhub">
+    <programme start="20251208094500 +0000" stop="20251208110000 +0000" channel="SPOTV.starhub">
+        <title>Highlights 1</title>
+    </programme>
+    <programme start="20251208110000 +0000" stop="20251208150000 +0000" channel="SPOTV.starhub">
         <title>Day 2 Snowboard Finals</title>
     </programme>
     <programme start="20251208150000 +0000" stop="20251208160000 +0000" channel="SPOTV.starhub">
@@ -8029,13 +8032,13 @@
     <programme start="20251208050000 +0000" stop="20251208060000 +0000" channel="SPOTV2.starhub">
         <title>Highlights</title>
     </programme>
-    <programme start="20251208060000 +0000" stop="20251208080000 +0000" channel="SPOTV2.starhub">
+    <programme start="20251208060000 +0000" stop="20251208075100 +0000" channel="SPOTV2.starhub">
         <title>Match 1 Australia v New Zealand</title>
     </programme>
-    <programme start="20251208080000 +0000" stop="20251208083000 +0000" channel="SPOTV2.starhub">
+    <programme start="20251208075100 +0000" stop="20251208081800 +0000" channel="SPOTV2.starhub">
         <title>Highlights</title>
     </programme>
-    <programme start="20251208083000 +0000" stop="20251208123000 +0000" channel="SPOTV2.starhub">
+    <programme start="20251208081800 +0000" stop="20251208123000 +0000" channel="SPOTV2.starhub">
         <title>Race 1</title>
     </programme>
     <programme start="20251208123000 +0000" stop="20251208140000 +0000" channel="SPOTV2.starhub">

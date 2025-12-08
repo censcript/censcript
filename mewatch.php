@@ -58,8 +58,17 @@
     <programme start="20251208023000 +0000" stop="20251208025500 +0000" channel="Channel 5.mewatch">
         <title>Tangranimals - EP 17</title>
     </programme>
-    <programme start="20251208025500 +0000" stop="20251208073000 +0000" channel="Channel 5.mewatch">
+    <programme start="20251208025500 +0000" stop="20251208060000 +0000" channel="Channel 5.mewatch">
         <title>33rd SEA Games 2025: Daily Action At The Games - EP 23</title>
+    </programme>
+    <programme start="20251208060000 +0000" stop="20251208063000 +0000" channel="Channel 5.mewatch">
+        <title>Supa Strikas - EP 34</title>
+    </programme>
+    <programme start="20251208063000 +0000" stop="20251208070000 +0000" channel="Channel 5.mewatch">
+        <title>Gigantosaurus S2 - EP 11</title>
+    </programme>
+    <programme start="20251208070000 +0000" stop="20251208073000 +0000" channel="Channel 5.mewatch">
+        <title>Planet Action S4 - EP 4</title>
     </programme>
     <programme start="20251208073000 +0000" stop="20251208080000 +0000" channel="Channel 5.mewatch">
         <title>Talking Point - EP 27</title>

@@ -4189,10 +4189,7 @@
 <programme start="20251208070000 +0000" stop="20251208073000 +0000" channel="Hanacaraka TV.mncvision">
     <title>Dagelan Jowo New</title>
 </programme>
-<programme start="20251208073000 +0000" stop="20251208083000 +0000" channel="Hanacaraka TV.mncvision">
-    <title>Cerita Jawa</title>
-</programme>
-<programme start="20251208083000 +0000" stop="20251208090000 +0000" channel="Hanacaraka TV.mncvision">
+<programme start="20251208073000 +0000" stop="20251208090000 +0000" channel="Hanacaraka TV.mncvision">
     <title>Wayang On The Street</title>
 </programme>
 <programme start="20251208090000 +0000" stop="20251208100000 +0000" channel="Hanacaraka TV.mncvision">
