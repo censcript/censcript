@@ -865,10 +865,10 @@
     <programme start="20251207153000 +0000" stop="20251207173000 +0000" channel="Live 5.mewatch">
         <title>Women&#039;s World Floorball Championships 2025: Estonia vs Singapore</title>
     </programme>
-    <programme start="20251207173000 +0000" stop="20251208094500 +0000" channel="Live 5.mewatch">
-        <title>No Programme available now. Next Broadcast on 8th December, Monday 5.45pm. Women&#039;s World Floorball Championships 2025</title>
+    <programme start="20251207173000 +0000" stop="20251208093500 +0000" channel="Live 5.mewatch">
+        <title>No Programme available now. Next Broadcast on 8th December, Monday 5.35pm. Women&#039;s World Floorball Championships 2025</title>
     </programme>
-    <programme start="20251208094500 +0000" stop="20251208114500 +0000" channel="Live 5.mewatch">
+    <programme start="20251208093500 +0000" stop="20251208114500 +0000" channel="Live 5.mewatch">
         <title>Women&#039;s World Floorball Championships 2025: Germany vs Singapore</title>
     </programme>
     <programme start="20251208114500 +0000" stop="20251208160000 +0000" channel="Live 5.mewatch">

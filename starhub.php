@@ -7879,10 +7879,13 @@
     <programme start="20251207232000 +0000" stop="20251208013000 +0000" channel="Asianet Movies.starhub">
         <title>C/O Saira Banu</title>
     </programme>
-    <programme start="20251208013000 +0000" stop="20251208043000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251208013000 +0000" stop="20251208015500 +0000" channel="Asianet Movies.starhub">
+        <title>Chirikkum Thalika</title>
+    </programme>
+    <programme start="20251208015500 +0000" stop="20251208044000 +0000" channel="Asianet Movies.starhub">
         <title>Vismayam</title>
     </programme>
-    <programme start="20251208043000 +0000" stop="20251208073000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251208044000 +0000" stop="20251208073000 +0000" channel="Asianet Movies.starhub">
         <title>Mannar Mathai Speaking 2</title>
     </programme>
     <programme start="20251208073000 +0000" stop="20251208103000 +0000" channel="Asianet Movies.starhub">

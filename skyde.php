@@ -1175,29 +1175,35 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251208224000 +0000" stop="20251208233000 +0000" channel="HISTORY Channel HD.skyde">
     <title>Terra X: Sieben Kontinente - Ein Planet</title>
 </programme>
-<programme start="20251207230000 +0000" stop="20251208000000 +0000" channel="Jukebox.skyde">
-    <title>LOGOUT</title>
+<programme start="20251206230000 +0000" stop="20251207010000 +0000" channel="Jukebox.skyde">
+    <title>PARTY BOX</title>
 </programme>
-<programme start="20251208000000 +0000" stop="20251208050000 +0000" channel="Jukebox.skyde">
+<programme start="20251207010000 +0000" stop="20251207020000 +0000" channel="Jukebox.skyde">
+    <title>BACK TO ... GROOVE</title>
+</programme>
+<programme start="20251207020000 +0000" stop="20251207050000 +0000" channel="Jukebox.skyde">
     <title>NIGHTSHIFT</title>
 </programme>
-<programme start="20251208050000 +0000" stop="20251208110000 +0000" channel="Jukebox.skyde">
+<programme start="20251207050000 +0000" stop="20251207110000 +0000" channel="Jukebox.skyde">
     <title>MORNING GLORY</title>
 </programme>
-<programme start="20251208110000 +0000" stop="20251208130000 +0000" channel="Jukebox.skyde">
+<programme start="20251207110000 +0000" stop="20251207130000 +0000" channel="Jukebox.skyde">
     <title>JUKEBOX NEWS</title>
 </programme>
-<programme start="20251208130000 +0000" stop="20251208170000 +0000" channel="Jukebox.skyde">
-    <title>JUKEBOX TRENDS</title>
-</programme>
-<programme start="20251208170000 +0000" stop="20251208190000 +0000" channel="Jukebox.skyde">
-    <title>LOGOUT</title>
-</programme>
-<programme start="20251208190000 +0000" stop="20251208210000 +0000" channel="Jukebox.skyde">
-    <title>JUKEBOX TOP 50 MIX</title>
-</programme>
-<programme start="20251208210000 +0000" stop="20251208230000 +0000" channel="Jukebox.skyde">
+<programme start="20251207130000 +0000" stop="20251207150000 +0000" channel="Jukebox.skyde">
     <title>JUKEBOX TOP 25</title>
+</programme>
+<programme start="20251207150000 +0000" stop="20251207170000 +0000" channel="Jukebox.skyde">
+    <title>JUKEBOX DANCE</title>
+</programme>
+<programme start="20251207170000 +0000" stop="20251207190000 +0000" channel="Jukebox.skyde">
+    <title>JUKEBOX GROOVE</title>
+</programme>
+<programme start="20251207190000 +0000" stop="20251207210000 +0000" channel="Jukebox.skyde">
+    <title>#1S</title>
+</programme>
+<programme start="20251207210000 +0000" stop="20251207230000 +0000" channel="Jukebox.skyde">
+    <title>LOGOUT</title>
 </programme>
 <programme start="20251208021000 +0000" stop="20251208050000 +0000" channel="Motorvision+.skyde">
     <title>IMSA WeatherTech SportsCar Championship 2025</title>
@@ -2750,17 +2756,8 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251208223000 +0000" stop="20251208233000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: Glanzparade - Die Show mit Buschmann, Fuss und Wagner</title>
 </programme>
-<programme start="20251212181000 +0000" stop="20251212183000 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
-    <title>Es folgt: Live 2. Bundesliga</title>
-</programme>
-<programme start="20251212183000 +0000" stop="20251212191500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
-    <title>Live BL: FCU - RBL: tipico Countdown, Flutlicht-Freitag, 14. Spieltag</title>
-</programme>
-<programme start="20251212191500 +0000" stop="20251212221500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
-    <title>Live BL: 1. FC Union Berlin - RB Leipzig, Flutlicht-Freitag, 14. Spieltag</title>
-</programme>
-<programme start="20251207230000 +0000" stop="20251208010000 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>F1: Rennen - GP Abu Dhabi</title>
+<programme start="20251208000000 +0000" stop="20251208010000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>F2: 2. Rennen - GP Abu Dhabi</title>
 </programme>
 <programme start="20251208010000 +0000" stop="20251208013000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Rennen Kompakt - GP Abu Dhabi</title>
