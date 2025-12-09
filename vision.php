@@ -676,6 +676,9 @@
 <programme start="20251209010000 +0000" stop="20251209030000 +0000" channel="ANTV.vision">
 <title>Zeynep</title>
 </programme>
+<programme start="20251209030000 +0000" stop="20251209063000 +0000" channel="ANTV.vision">
+<title>Dil Hai Tumhara</title>
+</programme>
 <programme start="20251209063000 +0000" stop="20251209080000 +0000" channel="ANTV.vision">
 <title>Cinta Keluarga Pandya</title>
 </programme>
@@ -1493,8 +1496,5 @@
 <title>BTV</title>
 </programme>
 <programme start="20251208230000 +0000" stop="20251209010000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20251209010000 +0000" stop="20251209030000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
