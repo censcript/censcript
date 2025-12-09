@@ -5194,17 +5194,92 @@
     <programme start="20251210153500 +0000" stop="20251210170500 +0000" channel="KBS World HD.starhub">
         <title>Stars&#039; Top Recipe at Fun-Staurant</title>
     </programme>
-    <programme start="20251209160000 +0000" stop="20251209220000 +0000" channel="TestChannel 996.starhub">
+    <programme start="20251209160000 +0000" stop="20251209161500 +0000" channel="TestChannel 996.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20251209220000 +0000" stop="20251210040000 +0000" channel="TestChannel 996.starhub">
-        <title>End of Transmission</title>
+    <programme start="20251209161500 +0000" stop="20251209173000 +0000" channel="TestChannel 996.starhub">
+        <title>Moonshine</title>
     </programme>
-    <programme start="20251210040000 +0000" stop="20251210100000 +0000" channel="TestChannel 996.starhub">
-        <title>End of Transmission</title>
+    <programme start="20251209173000 +0000" stop="20251209183000 +0000" channel="TestChannel 996.starhub">
+        <title>Duel on Mount Hua - Eastern Heretic and Western Venom</title>
     </programme>
-    <programme start="20251210100000 +0000" stop="20251210160000 +0000" channel="TestChannel 996.starhub">
-        <title>End of Transmission</title>
+    <programme start="20251209183000 +0000" stop="20251209190000 +0000" channel="TestChannel 996.starhub">
+        <title>Lo And Behold</title>
+    </programme>
+    <programme start="20251209190000 +0000" stop="20251209200000 +0000" channel="TestChannel 996.starhub">
+        <title>The Queen of News Season 2</title>
+    </programme>
+    <programme start="20251209200000 +0000" stop="20251209210000 +0000" channel="TestChannel 996.starhub">
+        <title>The Wanted Detective</title>
+    </programme>
+    <programme start="20251209210000 +0000" stop="20251209213000 +0000" channel="TestChannel 996.starhub">
+        <title>Lo And Behold</title>
+    </programme>
+    <programme start="20251209213000 +0000" stop="20251209222000 +0000" channel="TestChannel 996.starhub">
+        <title>In Bed With A Stranger</title>
+    </programme>
+    <programme start="20251209222000 +0000" stop="20251209231500 +0000" channel="TestChannel 996.starhub">
+        <title>Golden City (Ep 751-800) VVD Mandarin</title>
+    </programme>
+    <programme start="20251209231500 +0000" stop="20251210003000 +0000" channel="TestChannel 996.starhub">
+        <title>Moonshine</title>
+    </programme>
+    <programme start="20251210003000 +0000" stop="20251210013000 +0000" channel="TestChannel 996.starhub">
+        <title>Duel on Mount Hua - Eastern Heretic and Western Venom</title>
+    </programme>
+    <programme start="20251210013000 +0000" stop="20251210020000 +0000" channel="TestChannel 996.starhub">
+        <title>Lo And Behold</title>
+    </programme>
+    <programme start="20251210020000 +0000" stop="20251210025500 +0000" channel="TestChannel 996.starhub">
+        <title>Golden City (Ep 751-800) VVD Mandarin</title>
+    </programme>
+    <programme start="20251210025500 +0000" stop="20251210035000 +0000" channel="TestChannel 996.starhub">
+        <title>The Queen of News Season 2</title>
+    </programme>
+    <programme start="20251210035000 +0000" stop="20251210044500 +0000" channel="TestChannel 996.starhub">
+        <title>The Wanted Detective</title>
+    </programme>
+    <programme start="20251210044500 +0000" stop="20251210051000 +0000" channel="TestChannel 996.starhub">
+        <title>Lo And Behold</title>
+    </programme>
+    <programme start="20251210051000 +0000" stop="20251210055500 +0000" channel="TestChannel 996.starhub">
+        <title>In Bed With A Stranger</title>
+    </programme>
+    <programme start="20251210055500 +0000" stop="20251210064500 +0000" channel="TestChannel 996.starhub">
+        <title>Golden City (Ep 751-800) VVD Mandarin</title>
+    </programme>
+    <programme start="20251210064500 +0000" stop="20251210081000 +0000" channel="TestChannel 996.starhub">
+        <title>The Escape of the Seven: Resurrection</title>
+    </programme>
+    <programme start="20251210081000 +0000" stop="20251210090000 +0000" channel="TestChannel 996.starhub">
+        <title>Duel on Mount Hua - Eastern Heretic and Western Venom</title>
+    </programme>
+    <programme start="20251210090000 +0000" stop="20251210094500 +0000" channel="TestChannel 996.starhub">
+        <title>No Room for Crime</title>
+    </programme>
+    <programme start="20251210094500 +0000" stop="20251210103500 +0000" channel="TestChannel 996.starhub">
+        <title>Golden City (Ep 751-800) VVD Mandarin</title>
+    </programme>
+    <programme start="20251210103500 +0000" stop="20251210110000 +0000" channel="TestChannel 996.starhub">
+        <title>Lo And Behold</title>
+    </programme>
+    <programme start="20251210110000 +0000" stop="20251210120000 +0000" channel="TestChannel 996.starhub">
+        <title>Duel on Mount Hua - Eastern Heretic and Western Venom</title>
+    </programme>
+    <programme start="20251210120000 +0000" stop="20251210130000 +0000" channel="TestChannel 996.starhub">
+        <title>The Queen of News Season 2</title>
+    </programme>
+    <programme start="20251210130000 +0000" stop="20251210140000 +0000" channel="TestChannel 996.starhub">
+        <title>The Wanted Detective</title>
+    </programme>
+    <programme start="20251210140000 +0000" stop="20251210143000 +0000" channel="TestChannel 996.starhub">
+        <title>Lo And Behold</title>
+    </programme>
+    <programme start="20251210143000 +0000" stop="20251210152000 +0000" channel="TestChannel 996.starhub">
+        <title>In Bed With A Stranger</title>
+    </programme>
+    <programme start="20251210152000 +0000" stop="20251210161500 +0000" channel="TestChannel 996.starhub">
+        <title>Golden City (Ep 751-800) VVD Mandarin</title>
     </programme>
     <programme start="20251209160000 +0000" stop="20251209161500 +0000" channel="Euronews HD.starhub">
         <title>The European debrief</title>
@@ -6709,17 +6784,92 @@
     <programme start="20251210145500 +0000" stop="20251210170000 +0000" channel="beIN Sports HD.starhub">
         <title>UEFA Youth League 2025/26: Real Madrid vs Man City - MD6 (Live)</title>
     </programme>
-    <programme start="20251209160000 +0000" stop="20251209220000 +0000" channel="TestChannel2.starhub">
+    <programme start="20251209160000 +0000" stop="20251209161500 +0000" channel="TestChannel2.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20251209220000 +0000" stop="20251210040000 +0000" channel="TestChannel2.starhub">
-        <title>End of Transmission</title>
+    <programme start="20251209161500 +0000" stop="20251209173000 +0000" channel="TestChannel2.starhub">
+        <title>Moonshine</title>
     </programme>
-    <programme start="20251210040000 +0000" stop="20251210100000 +0000" channel="TestChannel2.starhub">
-        <title>End of Transmission</title>
+    <programme start="20251209173000 +0000" stop="20251209183000 +0000" channel="TestChannel2.starhub">
+        <title>Duel on Mount Hua - Eastern Heretic and Western Venom</title>
     </programme>
-    <programme start="20251210100000 +0000" stop="20251210160000 +0000" channel="TestChannel2.starhub">
-        <title>End of Transmission</title>
+    <programme start="20251209183000 +0000" stop="20251209190000 +0000" channel="TestChannel2.starhub">
+        <title>Lo And Behold</title>
+    </programme>
+    <programme start="20251209190000 +0000" stop="20251209200000 +0000" channel="TestChannel2.starhub">
+        <title>The Queen of News Season 2</title>
+    </programme>
+    <programme start="20251209200000 +0000" stop="20251209210000 +0000" channel="TestChannel2.starhub">
+        <title>The Wanted Detective</title>
+    </programme>
+    <programme start="20251209210000 +0000" stop="20251209213000 +0000" channel="TestChannel2.starhub">
+        <title>Lo And Behold</title>
+    </programme>
+    <programme start="20251209213000 +0000" stop="20251209222000 +0000" channel="TestChannel2.starhub">
+        <title>In Bed With A Stranger</title>
+    </programme>
+    <programme start="20251209222000 +0000" stop="20251209231500 +0000" channel="TestChannel2.starhub">
+        <title>Golden City (Ep 751-800) VVD Mandarin</title>
+    </programme>
+    <programme start="20251209231500 +0000" stop="20251210003000 +0000" channel="TestChannel2.starhub">
+        <title>Moonshine</title>
+    </programme>
+    <programme start="20251210003000 +0000" stop="20251210013000 +0000" channel="TestChannel2.starhub">
+        <title>Duel on Mount Hua - Eastern Heretic and Western Venom</title>
+    </programme>
+    <programme start="20251210013000 +0000" stop="20251210020000 +0000" channel="TestChannel2.starhub">
+        <title>Lo And Behold</title>
+    </programme>
+    <programme start="20251210020000 +0000" stop="20251210025500 +0000" channel="TestChannel2.starhub">
+        <title>Golden City (Ep 751-800) VVD Mandarin</title>
+    </programme>
+    <programme start="20251210025500 +0000" stop="20251210035000 +0000" channel="TestChannel2.starhub">
+        <title>The Queen of News Season 2</title>
+    </programme>
+    <programme start="20251210035000 +0000" stop="20251210044500 +0000" channel="TestChannel2.starhub">
+        <title>The Wanted Detective</title>
+    </programme>
+    <programme start="20251210044500 +0000" stop="20251210051000 +0000" channel="TestChannel2.starhub">
+        <title>Lo And Behold</title>
+    </programme>
+    <programme start="20251210051000 +0000" stop="20251210055500 +0000" channel="TestChannel2.starhub">
+        <title>In Bed With A Stranger</title>
+    </programme>
+    <programme start="20251210055500 +0000" stop="20251210064500 +0000" channel="TestChannel2.starhub">
+        <title>Golden City (Ep 751-800) VVD Mandarin</title>
+    </programme>
+    <programme start="20251210064500 +0000" stop="20251210081000 +0000" channel="TestChannel2.starhub">
+        <title>The Escape of the Seven: Resurrection</title>
+    </programme>
+    <programme start="20251210081000 +0000" stop="20251210090000 +0000" channel="TestChannel2.starhub">
+        <title>Duel on Mount Hua - Eastern Heretic and Western Venom</title>
+    </programme>
+    <programme start="20251210090000 +0000" stop="20251210094500 +0000" channel="TestChannel2.starhub">
+        <title>No Room for Crime</title>
+    </programme>
+    <programme start="20251210094500 +0000" stop="20251210103500 +0000" channel="TestChannel2.starhub">
+        <title>Golden City (Ep 751-800) VVD Mandarin</title>
+    </programme>
+    <programme start="20251210103500 +0000" stop="20251210110000 +0000" channel="TestChannel2.starhub">
+        <title>Lo And Behold</title>
+    </programme>
+    <programme start="20251210110000 +0000" stop="20251210120000 +0000" channel="TestChannel2.starhub">
+        <title>Duel on Mount Hua - Eastern Heretic and Western Venom</title>
+    </programme>
+    <programme start="20251210120000 +0000" stop="20251210130000 +0000" channel="TestChannel2.starhub">
+        <title>The Queen of News Season 2</title>
+    </programme>
+    <programme start="20251210130000 +0000" stop="20251210140000 +0000" channel="TestChannel2.starhub">
+        <title>The Wanted Detective</title>
+    </programme>
+    <programme start="20251210140000 +0000" stop="20251210143000 +0000" channel="TestChannel2.starhub">
+        <title>Lo And Behold</title>
+    </programme>
+    <programme start="20251210143000 +0000" stop="20251210152000 +0000" channel="TestChannel2.starhub">
+        <title>In Bed With A Stranger</title>
+    </programme>
+    <programme start="20251210152000 +0000" stop="20251210161500 +0000" channel="TestChannel2.starhub">
+        <title>Golden City (Ep 751-800) VVD Mandarin</title>
     </programme>
     <programme start="20251209160000 +0000" stop="20251209163000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>NHK Newsline</title>

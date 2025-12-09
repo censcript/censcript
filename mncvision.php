@@ -2101,114 +2101,7 @@
 <programme start="20251210160000 +0000" stop="20251210163000 +0000" channel="CGTN.mncvision">
     <title>Global Business</title>
 </programme>
-<programme start="20251209170000 +0000" stop="20251209173000 +0000" channel="CGTN Documentary.mncvision">
-    <title>Traces Of China S2, Ep 2</title>
-</programme>
-<programme start="20251209173000 +0000" stop="20251209180000 +0000" channel="CGTN Documentary.mncvision">
-    <title>Life &amp; Death Adventures, Ep 2</title>
-</programme>
-<programme start="20251209180000 +0000" stop="20251209190000 +0000" channel="CGTN Documentary.mncvision">
-    <title>Foodwise: Xishuangbanna</title>
-</programme>
-<programme start="20251209190000 +0000" stop="20251209193000 +0000" channel="CGTN Documentary.mncvision">
-    <title>Insiders, Ep 2</title>
-</programme>
-<programme start="20251209193000 +0000" stop="20251209200000 +0000" channel="CGTN Documentary.mncvision">
-    <title>Beautiful...: Saihanba, Ep 2</title>
-</programme>
-<programme start="20251209200000 +0000" stop="20251209210000 +0000" channel="CGTN Documentary.mncvision">
-    <title>The New Yimeng</title>
-</programme>
-<programme start="20251209210000 +0000" stop="20251209213000 +0000" channel="CGTN Documentary.mncvision">
-    <title>The Tianshan Mountains, Ep 1</title>
-</programme>
-<programme start="20251209213000 +0000" stop="20251209220000 +0000" channel="CGTN Documentary.mncvision">
-    <title>A Decade In China..., Ep 3</title>
-</programme>
-<programme start="20251209220000 +0000" stop="20251209230000 +0000" channel="CGTN Documentary.mncvision">
-    <title>Asia-Pacific War..., Ep 5</title>
-</programme>
-<programme start="20251209230000 +0000" stop="20251209233000 +0000" channel="CGTN Documentary.mncvision">
-    <title>Traces Of China S2, Ep 3</title>
-</programme>
-<programme start="20251209233000 +0000" stop="20251210000000 +0000" channel="CGTN Documentary.mncvision">
-    <title>Life &amp; Death Adventures, Ep 3</title>
-</programme>
-<programme start="20251210000000 +0000" stop="20251210010000 +0000" channel="CGTN Documentary.mncvision">
-    <title>Foodwise: Huangshan</title>
-</programme>
-<programme start="20251210010000 +0000" stop="20251210013000 +0000" channel="CGTN Documentary.mncvision">
-    <title>Insiders, Ep 3</title>
-</programme>
-<programme start="20251210013000 +0000" stop="20251210020000 +0000" channel="CGTN Documentary.mncvision">
-    <title>Beautiful...: Saihanba, Ep 3</title>
-</programme>
-<programme start="20251210020000 +0000" stop="20251210030000 +0000" channel="CGTN Documentary.mncvision">
-    <title>The New Yimeng</title>
-</programme>
-<programme start="20251210030000 +0000" stop="20251210033000 +0000" channel="CGTN Documentary.mncvision">
-    <title>The Tianshan Mountains, Ep 1</title>
-</programme>
-<programme start="20251210033000 +0000" stop="20251210040000 +0000" channel="CGTN Documentary.mncvision">
-    <title>A Decade In China..., Ep 3</title>
-</programme>
-<programme start="20251210040000 +0000" stop="20251210050000 +0000" channel="CGTN Documentary.mncvision">
-    <title>Asia-Pacific War..., Ep 5</title>
-</programme>
-<programme start="20251210050000 +0000" stop="20251210053000 +0000" channel="CGTN Documentary.mncvision">
-    <title>Traces Of China S2, Ep 3</title>
-</programme>
-<programme start="20251210053000 +0000" stop="20251210060000 +0000" channel="CGTN Documentary.mncvision">
-    <title>Life &amp; Death Adventures, Ep 3</title>
-</programme>
-<programme start="20251210060000 +0000" stop="20251210070000 +0000" channel="CGTN Documentary.mncvision">
-    <title>Foodwise: Huangshan</title>
-</programme>
-<programme start="20251210070000 +0000" stop="20251210073000 +0000" channel="CGTN Documentary.mncvision">
-    <title>Insiders, Ep 3</title>
-</programme>
-<programme start="20251210073000 +0000" stop="20251210080000 +0000" channel="CGTN Documentary.mncvision">
-    <title>Beautiful...: Saihanba, Ep 3</title>
-</programme>
-<programme start="20251210080000 +0000" stop="20251210090000 +0000" channel="CGTN Documentary.mncvision">
-    <title>The New Yimeng</title>
-</programme>
-<programme start="20251210090000 +0000" stop="20251210093000 +0000" channel="CGTN Documentary.mncvision">
-    <title>The Tianshan Mountains, Ep 1</title>
-</programme>
-<programme start="20251210093000 +0000" stop="20251210100000 +0000" channel="CGTN Documentary.mncvision">
-    <title>A Decade In China..., Ep 3</title>
-</programme>
-<programme start="20251210100000 +0000" stop="20251210110000 +0000" channel="CGTN Documentary.mncvision">
-    <title>Rediscovering The Arctic, Ep 5</title>
-</programme>
-<programme start="20251210110000 +0000" stop="20251210113000 +0000" channel="CGTN Documentary.mncvision">
-    <title>Traces Of China S2, Ep 3</title>
-</programme>
-<programme start="20251210113000 +0000" stop="20251210120000 +0000" channel="CGTN Documentary.mncvision">
-    <title>Life &amp; Death Adventures, Ep 3</title>
-</programme>
-<programme start="20251210120000 +0000" stop="20251210130000 +0000" channel="CGTN Documentary.mncvision">
-    <title>Foodwise: Huangshan</title>
-</programme>
-<programme start="20251210130000 +0000" stop="20251210133000 +0000" channel="CGTN Documentary.mncvision">
-    <title>Insiders, Ep 3</title>
-</programme>
-<programme start="20251210133000 +0000" stop="20251210140000 +0000" channel="CGTN Documentary.mncvision">
-    <title>Beautiful...: Saihanba, Ep 3</title>
-</programme>
-<programme start="20251210140000 +0000" stop="20251210150000 +0000" channel="CGTN Documentary.mncvision">
-    <title>The New Yimeng</title>
-</programme>
-<programme start="20251210150000 +0000" stop="20251210153000 +0000" channel="CGTN Documentary.mncvision">
-    <title>The Tianshan Mountains, Ep 1</title>
-</programme>
-<programme start="20251210153000 +0000" stop="20251210160000 +0000" channel="CGTN Documentary.mncvision">
-    <title>A Decade In China..., Ep 3</title>
-</programme>
-<programme start="20251210160000 +0000" stop="20251210163000 +0000" channel="CGTN Documentary.mncvision">
-    <title>Asia-Pacific War..., Ep 5</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20251209170000 +0000" stop="20251209180000 +0000" channel="Channel News Asia.mncvision">
     <title>Inside Great ATM Heist, Ep 1</title>
 </programme>
@@ -2278,42 +2171,7 @@
 <programme start="20251210160300 +0000" stop="20251210163300 +0000" channel="Channel News Asia.mncvision">
     <title>East Asia Tonight</title>
 </programme>
-<programme start="20251209184700 +0000" stop="20251209203200 +0000" channel="CINEEDGE.mncvision">
-    <title>Edison</title>
-</programme>
-<programme start="20251209203200 +0000" stop="20251209225100 +0000" channel="CINEEDGE.mncvision">
-    <title>Platinum</title>
-</programme>
-<programme start="20251209225100 +0000" stop="20251210002900 +0000" channel="CINEEDGE.mncvision">
-    <title>Blowback</title>
-</programme>
-<programme start="20251210002900 +0000" stop="20251210024000 +0000" channel="CINEEDGE.mncvision">
-    <title>Platinum</title>
-</programme>
-<programme start="20251210024000 +0000" stop="20251210044300 +0000" channel="CINEEDGE.mncvision">
-    <title>Kandahar</title>
-</programme>
-<programme start="20251210044300 +0000" stop="20251210062900 +0000" channel="CINEEDGE.mncvision">
-    <title>Platinum</title>
-</programme>
-<programme start="20251210062900 +0000" stop="20251210080600 +0000" channel="CINEEDGE.mncvision">
-    <title>Poker Face</title>
-</programme>
-<programme start="20251210080600 +0000" stop="20251210095600 +0000" channel="CINEEDGE.mncvision">
-    <title>Platinum</title>
-</programme>
-<programme start="20251210095600 +0000" stop="20251210113200 +0000" channel="CINEEDGE.mncvision">
-    <title>Standoff</title>
-</programme>
-<programme start="20251210113200 +0000" stop="20251210134500 +0000" channel="CINEEDGE.mncvision">
-    <title>Platinum</title>
-</programme>
-<programme start="20251210134500 +0000" stop="20251210153200 +0000" channel="CINEEDGE.mncvision">
-    <title>American Sicario</title>
-</programme>
-<programme start="20251210153200 +0000" stop="20251210160200 +0000" channel="CINEEDGE.mncvision">
-    <title>Platinum</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20251209184700 +0000" stop="20251209203200 +0000" channel="CINEEDGE HD.mncvision">
     <title>Edison</title>
 </programme>
