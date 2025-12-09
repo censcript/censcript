@@ -940,6 +940,9 @@
 <programme start="20251209122000 +0000" stop="20251209125000 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
+<programme start="20251209125000 +0000" stop="20251209131000 +0000" channel="DAZN 1 HD.skyde">
+    <title>Best of DAZN: Highlights</title>
+</programme>
 <programme start="20251209131000 +0000" stop="20251209133000 +0000" channel="DAZN 1 HD.skyde">
     <title>&quot;Mehr als 90 Minuten&quot; 2025/26: Staffel 2 - Folge 1</title>
 </programme>
@@ -960,6 +963,9 @@
 </programme>
 <programme start="20251209143500 +0000" stop="20251209145000 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
+</programme>
+<programme start="20251209145000 +0000" stop="20251209170000 +0000" channel="DAZN 1 HD.skyde">
+    <title>UEFA Youth League 25/26: FC Barcelona U19 - Eintracht Frankfurt U19</title>
 </programme>
 <programme start="20251209170000 +0000" stop="20251209195500 +0000" channel="DAZN 1 HD.skyde">
     <title>UEFA Champions League 25/26: FC Bayern München - Sporting Lissabon. Nur in Deutschland verfügbar!</title>
@@ -2707,7 +2713,7 @@
 <programme start="20251209195000 +0000" stop="20251209220000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live UEFA CL: Inter Mailand - FC Liverpool, Ligaphase, 6. Spieltag, Dienstag</title>
 </programme>
-<programme start="20251209220000 +0000" stop="20251209230000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20251209220000 +0000" stop="20251209233000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live Die UEFA CL am Dienstag: Analyse</title>
 </programme>
 <programme start="20251209150000 +0000" stop="20251209152000 +0000" channel="Sky Sport Austria 3 HD.skyde">
@@ -2737,19 +2743,19 @@
 <programme start="20251209193000 +0000" stop="20251209195000 +0000" channel="Sky Sport Austria 6 HD.skyde">
     <title>Es folgt: Live UEFA Champions League</title>
 </programme>
-<programme start="20251209195000 +0000" stop="20251209220000 +0000" channel="Sky Sport Austria 6 HD.skyde">
+<programme start="20251209195000 +0000" stop="20251209223000 +0000" channel="Sky Sport Austria 6 HD.skyde">
     <title>Live UEFA CL: Tottenham Hotspur - Slavia Prag, Ligaphase, 6. Spieltag, Dienstag</title>
 </programme>
 <programme start="20251209193000 +0000" stop="20251209195000 +0000" channel="Sky Sport Austria 7 HD.skyde">
     <title>Es folgt: Live UEFA Champions League</title>
 </programme>
-<programme start="20251209195000 +0000" stop="20251209220000 +0000" channel="Sky Sport Austria 7 HD.skyde">
+<programme start="20251209195000 +0000" stop="20251209223000 +0000" channel="Sky Sport Austria 7 HD.skyde">
     <title>Live UEFA CL: PSV Eindhoven - Atletico Madrid, Ligaphase, 6. Spieltag, Dienstag</title>
 </programme>
 <programme start="20251209193000 +0000" stop="20251209195000 +0000" channel="Sky Sport Austria 8 HD.skyde">
     <title>Es folgt: Live UEFA Champions League</title>
 </programme>
-<programme start="20251209195000 +0000" stop="20251209220000 +0000" channel="Sky Sport Austria 8 HD.skyde">
+<programme start="20251209195000 +0000" stop="20251209223000 +0000" channel="Sky Sport Austria 8 HD.skyde">
     <title>Live UEFA CL: Union Saint-Gilloise - Olympique Marseille, Ligaphase, 6. Spieltag, Dienstag</title>
 </programme>
 <programme start="20251208233000 +0000" stop="20251209000000 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -3077,7 +3083,7 @@
     <title>BL: Matchplan Spezial - Die Trainingsphilosophie für Deutschland</title>
 </programme>
 <programme start="20251209193000 +0000" stop="20251209200000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live Sky Sport News: Guten Abend Fans!</title>
+    <title>Sky Sport News: F1 Spezial - Saisonrückblick 2025</title>
 </programme>
 <programme start="20251209200000 +0000" stop="20251209220000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Watch Party</title>
@@ -3313,23 +3319,23 @@
 <programme start="20251209223000 +0000" stop="20251209233000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>PL: Generation xG</title>
 </programme>
-<programme start="20251209000000 +0000" stop="20251209010000 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20251209000500 +0000" stop="20251209010500 +0000" channel="Sky Sport UHD.skyde">
     <title>F2: 2. Rennen - GP Abu Dhabi</title>
 </programme>
-<programme start="20251209010000 +0000" stop="20251209030000 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20251209010500 +0000" stop="20251209030500 +0000" channel="Sky Sport UHD.skyde">
     <title>DFB-Pokal: Borussia Dortmund - Bayer Leverkusen, Achtelfinale</title>
 </programme>
-<programme start="20251209030000 +0000" stop="20251209050000 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20251209030500 +0000" stop="20251209050500 +0000" channel="Sky Sport UHD.skyde">
     <title>F1: Rennen - GP Abu Dhabi</title>
 </programme>
-<programme start="20251209050000 +0000" stop="20251209070000 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20251209050500 +0000" stop="20251209070000 +0000" channel="Sky Sport UHD.skyde">
     <title>PL: Wolverhampton Wanderers - Manchester United, 15. Spieltag</title>
 </programme>
 <programme start="20251209070000 +0000" stop="20251209071500 +0000" channel="Sky Sport UHD.skyde">
     <title>Info: UHD</title>
 </programme>
-<programme start="20251208234000 +0000" stop="20251209000000 +0000" channel="Sky Sport 1 HD.skyde">
-    <title>Es folgt: Basketball NBA</title>
+<programme start="20251208230000 +0000" stop="20251209000000 +0000" channel="Sky Sport 1 HD.skyde">
+    <title>Es folgt: ab 01:00: LIVE Basketball NBA</title>
 </programme>
 <programme start="20251209000000 +0000" stop="20251209003000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime</title>
@@ -3805,10 +3811,10 @@
 <programme start="20251209050000 +0000" stop="20251209055000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Mord ist ihr Hobby</title>
 </programme>
-<programme start="20251209055000 +0000" stop="20251209064500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20251209055000 +0000" stop="20251209064000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Mord ist ihr Hobby</title>
 </programme>
-<programme start="20251209064500 +0000" stop="20251209073500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20251209064000 +0000" stop="20251209073500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Mord ist ihr Hobby</title>
 </programme>
 <programme start="20251209073500 +0000" stop="20251209082500 +0000" channel="Warner TV Serie HD.skyde">
