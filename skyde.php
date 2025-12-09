@@ -2743,7 +2743,7 @@
 <programme start="20251209193000 +0000" stop="20251209195000 +0000" channel="Sky Sport Austria 6 HD.skyde">
     <title>Es folgt: Live UEFA Champions League</title>
 </programme>
-<programme start="20251209195000 +0000" stop="20251209220000 +0000" channel="Sky Sport Austria 6 HD.skyde">
+<programme start="20251209195000 +0000" stop="20251209223000 +0000" channel="Sky Sport Austria 6 HD.skyde">
     <title>Live UEFA CL: Tottenham Hotspur - Slavia Prag, Ligaphase, 6. Spieltag, Dienstag</title>
 </programme>
 <programme start="20251209193000 +0000" stop="20251209195000 +0000" channel="Sky Sport Austria 7 HD.skyde">
@@ -3340,10 +3340,10 @@
 <programme start="20251209000000 +0000" stop="20251209003000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime</title>
 </programme>
-<programme start="20251209003000 +0000" stop="20251209030000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20251209003000 +0000" stop="20251209033000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Phoenix Suns @ Minnesota Timberwolves</title>
 </programme>
-<programme start="20251209030000 +0000" stop="20251209090000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20251209033000 +0000" stop="20251209090000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime - Post Show</title>
 </programme>
 <programme start="20251208230500 +0000" stop="20251208235000 +0000" channel="SYFY HD.skyde">
