@@ -3889,6 +3889,9 @@
     <programme start="20251211235422 +0000" stop="20251211235959 +0000" channel="976272.shahid">
         <title>Al Kabeer Season 5 Episode 17</title>
     </programme>
+    <programme start="20251210000000 +0000" stop="20251211235959 +0000" channel="986014.shahid">
+        <title>TV guide is not available</title>
+    </programme>
     <programme start="20251210000000 +0000" stop="20251210002326 +0000" channel="975435.shahid">
         <title>Bab Al Hara Season 3 Episode 2</title>
     </programme>
@@ -4077,9 +4080,6 @@
     </programme>
     <programme start="20251211233419 +0000" stop="20251211235959 +0000" channel="975435.shahid">
         <title>Bab Al Hara Season 5 Episode 2</title>
-    </programme>
-    <programme start="20251210000000 +0000" stop="20251211235959 +0000" channel="986014.shahid">
-        <title>TV guide is not available</title>
     </programme>
     <programme start="20251210000000 +0000" stop="20251211235959 +0000" channel="49922763891977.shahid">
         <title>TV guide is not available</title>
@@ -4984,6 +4984,174 @@
     <programme start="20251210000000 +0000" stop="20251211235959 +0000" channel="388566.shahid">
         <title>TV guide is not available</title>
     </programme>
+    <programme start="20251210000000 +0000" stop="20251210001107 +0000" channel="1005232.shahid">
+        <title>Selfie Season 1 Episode 19</title>
+    </programme>
+    <programme start="20251210001107 +0000" stop="20251210005806 +0000" channel="1005232.shahid">
+        <title>Selfie Season 1 Episode 20</title>
+    </programme>
+    <programme start="20251210005806 +0000" stop="20251210013940 +0000" channel="1005232.shahid">
+        <title>Selfie Season 1 Episode 21</title>
+    </programme>
+    <programme start="20251210013940 +0000" stop="20251210022401 +0000" channel="1005232.shahid">
+        <title>Selfie Season 1 Episode 22</title>
+    </programme>
+    <programme start="20251210022401 +0000" stop="20251210030427 +0000" channel="1005232.shahid">
+        <title>Selfie Season 1 Episode 23</title>
+    </programme>
+    <programme start="20251210030427 +0000" stop="20251210034500 +0000" channel="1005232.shahid">
+        <title>Selfie Season 1 Episode 24</title>
+    </programme>
+    <programme start="20251210034500 +0000" stop="20251210043303 +0000" channel="1005232.shahid">
+        <title>Selfie Season 1 Episode 25</title>
+    </programme>
+    <programme start="20251210043303 +0000" stop="20251210050909 +0000" channel="1005232.shahid">
+        <title>Selfie Season 1 Episode 16</title>
+    </programme>
+    <programme start="20251210050909 +0000" stop="20251210053950 +0000" channel="1005232.shahid">
+        <title>Selfie Season 1 Episode 17</title>
+    </programme>
+    <programme start="20251210053950 +0000" stop="20251210061108 +0000" channel="1005232.shahid">
+        <title>Selfie Season 1 Episode 18</title>
+    </programme>
+    <programme start="20251210061108 +0000" stop="20251210064909 +0000" channel="1005232.shahid">
+        <title>Selfie Season 1 Episode 19</title>
+    </programme>
+    <programme start="20251210064909 +0000" stop="20251210073613 +0000" channel="1005232.shahid">
+        <title>Selfie Season 1 Episode 20</title>
+    </programme>
+    <programme start="20251210073613 +0000" stop="20251210081747 +0000" channel="1005232.shahid">
+        <title>Selfie Season 1 Episode 21</title>
+    </programme>
+    <programme start="20251210081747 +0000" stop="20251210090203 +0000" channel="1005232.shahid">
+        <title>Selfie Season 1 Episode 22</title>
+    </programme>
+    <programme start="20251210090203 +0000" stop="20251210094239 +0000" channel="1005232.shahid">
+        <title>Selfie Season 1 Episode 23</title>
+    </programme>
+    <programme start="20251210094239 +0000" stop="20251210102257 +0000" channel="1005232.shahid">
+        <title>Selfie Season 1 Episode 24</title>
+    </programme>
+    <programme start="20251210102257 +0000" stop="20251210111100 +0000" channel="1005232.shahid">
+        <title>Selfie Season 1 Episode 25</title>
+    </programme>
+    <programme start="20251210111100 +0000" stop="20251210114737 +0000" channel="1005232.shahid">
+        <title>Selfie Season 2 Episode 1</title>
+    </programme>
+    <programme start="20251210114737 +0000" stop="20251210122929 +0000" channel="1005232.shahid">
+        <title>Selfie Season 2 Episode 2</title>
+    </programme>
+    <programme start="20251210122929 +0000" stop="20251210130900 +0000" channel="1005232.shahid">
+        <title>Selfie Season 2 Episode 3</title>
+    </programme>
+    <programme start="20251210130900 +0000" stop="20251210134757 +0000" channel="1005232.shahid">
+        <title>Selfie Season 2 Episode 4</title>
+    </programme>
+    <programme start="20251210134757 +0000" stop="20251210143151 +0000" channel="1005232.shahid">
+        <title>Selfie Season 2 Episode 5</title>
+    </programme>
+    <programme start="20251210143151 +0000" stop="20251210150838 +0000" channel="1005232.shahid">
+        <title>Selfie Season 2 Episode 6</title>
+    </programme>
+    <programme start="20251210150838 +0000" stop="20251210154831 +0000" channel="1005232.shahid">
+        <title>Selfie Season 2 Episode 7</title>
+    </programme>
+    <programme start="20251210154831 +0000" stop="20251210163243 +0000" channel="1005232.shahid">
+        <title>Selfie Season 2 Episode 8</title>
+    </programme>
+    <programme start="20251210163243 +0000" stop="20251210171212 +0000" channel="1005232.shahid">
+        <title>Selfie Season 2 Episode 9</title>
+    </programme>
+    <programme start="20251210171212 +0000" stop="20251210175015 +0000" channel="1005232.shahid">
+        <title>Selfie Season 2 Episode 10</title>
+    </programme>
+    <programme start="20251210175015 +0000" stop="20251210182751 +0000" channel="1005232.shahid">
+        <title>Selfie Season 2 Episode 11</title>
+    </programme>
+    <programme start="20251210182751 +0000" stop="20251210190950 +0000" channel="1005232.shahid">
+        <title>Selfie Season 2 Episode 12</title>
+    </programme>
+    <programme start="20251210190950 +0000" stop="20251210194631 +0000" channel="1005232.shahid">
+        <title>Selfie Season 2 Episode 1</title>
+    </programme>
+    <programme start="20251210194631 +0000" stop="20251210202829 +0000" channel="1005232.shahid">
+        <title>Selfie Season 2 Episode 2</title>
+    </programme>
+    <programme start="20251210202829 +0000" stop="20251210210755 +0000" channel="1005232.shahid">
+        <title>Selfie Season 2 Episode 3</title>
+    </programme>
+    <programme start="20251210210755 +0000" stop="20251210214652 +0000" channel="1005232.shahid">
+        <title>Selfie Season 2 Episode 4</title>
+    </programme>
+    <programme start="20251210214652 +0000" stop="20251210223046 +0000" channel="1005232.shahid">
+        <title>Selfie Season 2 Episode 5</title>
+    </programme>
+    <programme start="20251210223046 +0000" stop="20251210230733 +0000" channel="1005232.shahid">
+        <title>Selfie Season 2 Episode 6</title>
+    </programme>
+    <programme start="20251210230733 +0000" stop="20251210234731 +0000" channel="1005232.shahid">
+        <title>Selfie Season 2 Episode 7</title>
+    </programme>
+    <programme start="20251210234731 +0000" stop="20251211003143 +0000" channel="1005232.shahid">
+        <title>Selfie Season 2 Episode 8</title>
+    </programme>
+    <programme start="20251211003143 +0000" stop="20251211011102 +0000" channel="1005232.shahid">
+        <title>Selfie Season 2 Episode 9</title>
+    </programme>
+    <programme start="20251211011102 +0000" stop="20251211014907 +0000" channel="1005232.shahid">
+        <title>Selfie Season 2 Episode 10</title>
+    </programme>
+    <programme start="20251211014907 +0000" stop="20251211022651 +0000" channel="1005232.shahid">
+        <title>Selfie Season 2 Episode 11</title>
+    </programme>
+    <programme start="20251211022651 +0000" stop="20251211030856 +0000" channel="1005232.shahid">
+        <title>Selfie Season 2 Episode 12</title>
+    </programme>
+    <programme start="20251211030856 +0000" stop="20251211034537 +0000" channel="1005232.shahid">
+        <title>Selfie Season 2 Episode 1</title>
+    </programme>
+    <programme start="20251211034537 +0000" stop="20251211042729 +0000" channel="1005232.shahid">
+        <title>Selfie Season 2 Episode 2</title>
+    </programme>
+    <programme start="20251211042729 +0000" stop="20251211050655 +0000" channel="1005232.shahid">
+        <title>Selfie Season 2 Episode 3</title>
+    </programme>
+    <programme start="20251211050655 +0000" stop="20251211054543 +0000" channel="1005232.shahid">
+        <title>Selfie Season 2 Episode 4</title>
+    </programme>
+    <programme start="20251211054543 +0000" stop="20251211062936 +0000" channel="1005232.shahid">
+        <title>Selfie Season 2 Episode 5</title>
+    </programme>
+    <programme start="20251211062936 +0000" stop="20251211070614 +0000" channel="1005232.shahid">
+        <title>Selfie Season 2 Episode 6</title>
+    </programme>
+    <programme start="20251211070614 +0000" stop="20251211074607 +0000" channel="1005232.shahid">
+        <title>Selfie Season 2 Episode 7</title>
+    </programme>
+    <programme start="20251211074607 +0000" stop="20251211083008 +0000" channel="1005232.shahid">
+        <title>Selfie Season 2 Episode 8</title>
+    </programme>
+    <programme start="20251211083008 +0000" stop="20251211090922 +0000" channel="1005232.shahid">
+        <title>Selfie Season 2 Episode 9</title>
+    </programme>
+    <programme start="20251211090922 +0000" stop="20251211094736 +0000" channel="1005232.shahid">
+        <title>Selfie Season 2 Episode 10</title>
+    </programme>
+    <programme start="20251211094736 +0000" stop="20251211102511 +0000" channel="1005232.shahid">
+        <title>Selfie Season 2 Episode 11</title>
+    </programme>
+    <programme start="20251211102511 +0000" stop="20251211110706 +0000" channel="1005232.shahid">
+        <title>Selfie Season 2 Episode 12</title>
+    </programme>
+    <programme start="20251211110706 +0000" stop="20251211114805 +0000" channel="1005232.shahid">
+        <title>Selfie Season 2 Episode 13</title>
+    </programme>
+    <programme start="20251211114805 +0000" stop="20251211120000 +0000" channel="1005232.shahid">
+        <title>Selfie Season 2 Episode 14</title>
+    </programme>
+    <programme start="20251211120000 +0000" stop="20251211235959 +0000" channel="1005232.shahid">
+        <title>TV guide is not available</title>
+    </programme>
     <programme start="20251210000000 +0000" stop="20251211235959 +0000" channel="49923264736646.shahid">
         <title>TV guide is not available</title>
     </programme>
@@ -5265,174 +5433,6 @@
     </programme>
     <programme start="20251211233000 +0000" stop="20251211235959 +0000" channel="387294.shahid">
         <title>Al Marsa</title>
-    </programme>
-    <programme start="20251210000000 +0000" stop="20251210001107 +0000" channel="1005232.shahid">
-        <title>Selfie Season 1 Episode 19</title>
-    </programme>
-    <programme start="20251210001107 +0000" stop="20251210005806 +0000" channel="1005232.shahid">
-        <title>Selfie Season 1 Episode 20</title>
-    </programme>
-    <programme start="20251210005806 +0000" stop="20251210013940 +0000" channel="1005232.shahid">
-        <title>Selfie Season 1 Episode 21</title>
-    </programme>
-    <programme start="20251210013940 +0000" stop="20251210022401 +0000" channel="1005232.shahid">
-        <title>Selfie Season 1 Episode 22</title>
-    </programme>
-    <programme start="20251210022401 +0000" stop="20251210030427 +0000" channel="1005232.shahid">
-        <title>Selfie Season 1 Episode 23</title>
-    </programme>
-    <programme start="20251210030427 +0000" stop="20251210034500 +0000" channel="1005232.shahid">
-        <title>Selfie Season 1 Episode 24</title>
-    </programme>
-    <programme start="20251210034500 +0000" stop="20251210043303 +0000" channel="1005232.shahid">
-        <title>Selfie Season 1 Episode 25</title>
-    </programme>
-    <programme start="20251210043303 +0000" stop="20251210050909 +0000" channel="1005232.shahid">
-        <title>Selfie Season 1 Episode 16</title>
-    </programme>
-    <programme start="20251210050909 +0000" stop="20251210053950 +0000" channel="1005232.shahid">
-        <title>Selfie Season 1 Episode 17</title>
-    </programme>
-    <programme start="20251210053950 +0000" stop="20251210061108 +0000" channel="1005232.shahid">
-        <title>Selfie Season 1 Episode 18</title>
-    </programme>
-    <programme start="20251210061108 +0000" stop="20251210064909 +0000" channel="1005232.shahid">
-        <title>Selfie Season 1 Episode 19</title>
-    </programme>
-    <programme start="20251210064909 +0000" stop="20251210073613 +0000" channel="1005232.shahid">
-        <title>Selfie Season 1 Episode 20</title>
-    </programme>
-    <programme start="20251210073613 +0000" stop="20251210081747 +0000" channel="1005232.shahid">
-        <title>Selfie Season 1 Episode 21</title>
-    </programme>
-    <programme start="20251210081747 +0000" stop="20251210090203 +0000" channel="1005232.shahid">
-        <title>Selfie Season 1 Episode 22</title>
-    </programme>
-    <programme start="20251210090203 +0000" stop="20251210094239 +0000" channel="1005232.shahid">
-        <title>Selfie Season 1 Episode 23</title>
-    </programme>
-    <programme start="20251210094239 +0000" stop="20251210102257 +0000" channel="1005232.shahid">
-        <title>Selfie Season 1 Episode 24</title>
-    </programme>
-    <programme start="20251210102257 +0000" stop="20251210111100 +0000" channel="1005232.shahid">
-        <title>Selfie Season 1 Episode 25</title>
-    </programme>
-    <programme start="20251210111100 +0000" stop="20251210114737 +0000" channel="1005232.shahid">
-        <title>Selfie Season 2 Episode 1</title>
-    </programme>
-    <programme start="20251210114737 +0000" stop="20251210122929 +0000" channel="1005232.shahid">
-        <title>Selfie Season 2 Episode 2</title>
-    </programme>
-    <programme start="20251210122929 +0000" stop="20251210130900 +0000" channel="1005232.shahid">
-        <title>Selfie Season 2 Episode 3</title>
-    </programme>
-    <programme start="20251210130900 +0000" stop="20251210134757 +0000" channel="1005232.shahid">
-        <title>Selfie Season 2 Episode 4</title>
-    </programme>
-    <programme start="20251210134757 +0000" stop="20251210143151 +0000" channel="1005232.shahid">
-        <title>Selfie Season 2 Episode 5</title>
-    </programme>
-    <programme start="20251210143151 +0000" stop="20251210150838 +0000" channel="1005232.shahid">
-        <title>Selfie Season 2 Episode 6</title>
-    </programme>
-    <programme start="20251210150838 +0000" stop="20251210154831 +0000" channel="1005232.shahid">
-        <title>Selfie Season 2 Episode 7</title>
-    </programme>
-    <programme start="20251210154831 +0000" stop="20251210163243 +0000" channel="1005232.shahid">
-        <title>Selfie Season 2 Episode 8</title>
-    </programme>
-    <programme start="20251210163243 +0000" stop="20251210171212 +0000" channel="1005232.shahid">
-        <title>Selfie Season 2 Episode 9</title>
-    </programme>
-    <programme start="20251210171212 +0000" stop="20251210175015 +0000" channel="1005232.shahid">
-        <title>Selfie Season 2 Episode 10</title>
-    </programme>
-    <programme start="20251210175015 +0000" stop="20251210182751 +0000" channel="1005232.shahid">
-        <title>Selfie Season 2 Episode 11</title>
-    </programme>
-    <programme start="20251210182751 +0000" stop="20251210190950 +0000" channel="1005232.shahid">
-        <title>Selfie Season 2 Episode 12</title>
-    </programme>
-    <programme start="20251210190950 +0000" stop="20251210194631 +0000" channel="1005232.shahid">
-        <title>Selfie Season 2 Episode 1</title>
-    </programme>
-    <programme start="20251210194631 +0000" stop="20251210202829 +0000" channel="1005232.shahid">
-        <title>Selfie Season 2 Episode 2</title>
-    </programme>
-    <programme start="20251210202829 +0000" stop="20251210210755 +0000" channel="1005232.shahid">
-        <title>Selfie Season 2 Episode 3</title>
-    </programme>
-    <programme start="20251210210755 +0000" stop="20251210214652 +0000" channel="1005232.shahid">
-        <title>Selfie Season 2 Episode 4</title>
-    </programme>
-    <programme start="20251210214652 +0000" stop="20251210223046 +0000" channel="1005232.shahid">
-        <title>Selfie Season 2 Episode 5</title>
-    </programme>
-    <programme start="20251210223046 +0000" stop="20251210230733 +0000" channel="1005232.shahid">
-        <title>Selfie Season 2 Episode 6</title>
-    </programme>
-    <programme start="20251210230733 +0000" stop="20251210234731 +0000" channel="1005232.shahid">
-        <title>Selfie Season 2 Episode 7</title>
-    </programme>
-    <programme start="20251210234731 +0000" stop="20251211003143 +0000" channel="1005232.shahid">
-        <title>Selfie Season 2 Episode 8</title>
-    </programme>
-    <programme start="20251211003143 +0000" stop="20251211011102 +0000" channel="1005232.shahid">
-        <title>Selfie Season 2 Episode 9</title>
-    </programme>
-    <programme start="20251211011102 +0000" stop="20251211014907 +0000" channel="1005232.shahid">
-        <title>Selfie Season 2 Episode 10</title>
-    </programme>
-    <programme start="20251211014907 +0000" stop="20251211022651 +0000" channel="1005232.shahid">
-        <title>Selfie Season 2 Episode 11</title>
-    </programme>
-    <programme start="20251211022651 +0000" stop="20251211030856 +0000" channel="1005232.shahid">
-        <title>Selfie Season 2 Episode 12</title>
-    </programme>
-    <programme start="20251211030856 +0000" stop="20251211034537 +0000" channel="1005232.shahid">
-        <title>Selfie Season 2 Episode 1</title>
-    </programme>
-    <programme start="20251211034537 +0000" stop="20251211042729 +0000" channel="1005232.shahid">
-        <title>Selfie Season 2 Episode 2</title>
-    </programme>
-    <programme start="20251211042729 +0000" stop="20251211050655 +0000" channel="1005232.shahid">
-        <title>Selfie Season 2 Episode 3</title>
-    </programme>
-    <programme start="20251211050655 +0000" stop="20251211054543 +0000" channel="1005232.shahid">
-        <title>Selfie Season 2 Episode 4</title>
-    </programme>
-    <programme start="20251211054543 +0000" stop="20251211062936 +0000" channel="1005232.shahid">
-        <title>Selfie Season 2 Episode 5</title>
-    </programme>
-    <programme start="20251211062936 +0000" stop="20251211070614 +0000" channel="1005232.shahid">
-        <title>Selfie Season 2 Episode 6</title>
-    </programme>
-    <programme start="20251211070614 +0000" stop="20251211074607 +0000" channel="1005232.shahid">
-        <title>Selfie Season 2 Episode 7</title>
-    </programme>
-    <programme start="20251211074607 +0000" stop="20251211083008 +0000" channel="1005232.shahid">
-        <title>Selfie Season 2 Episode 8</title>
-    </programme>
-    <programme start="20251211083008 +0000" stop="20251211090922 +0000" channel="1005232.shahid">
-        <title>Selfie Season 2 Episode 9</title>
-    </programme>
-    <programme start="20251211090922 +0000" stop="20251211094736 +0000" channel="1005232.shahid">
-        <title>Selfie Season 2 Episode 10</title>
-    </programme>
-    <programme start="20251211094736 +0000" stop="20251211102511 +0000" channel="1005232.shahid">
-        <title>Selfie Season 2 Episode 11</title>
-    </programme>
-    <programme start="20251211102511 +0000" stop="20251211110706 +0000" channel="1005232.shahid">
-        <title>Selfie Season 2 Episode 12</title>
-    </programme>
-    <programme start="20251211110706 +0000" stop="20251211114805 +0000" channel="1005232.shahid">
-        <title>Selfie Season 2 Episode 13</title>
-    </programme>
-    <programme start="20251211114805 +0000" stop="20251211120000 +0000" channel="1005232.shahid">
-        <title>Selfie Season 2 Episode 14</title>
-    </programme>
-    <programme start="20251211120000 +0000" stop="20251211235959 +0000" channel="1005232.shahid">
-        <title>TV guide is not available</title>
     </programme>
     <programme start="20251210000000 +0000" stop="20251210000420 +0000" channel="49923172117967.shahid">
         <title>El Yom Momken Tgool</title>
@@ -7051,9 +7051,6 @@
     <programme start="20251211231735 +0000" stop="20251211235959 +0000" channel="989622.shahid">
         <title>Asrar El Banat</title>
     </programme>
-    <programme start="20251210000000 +0000" stop="20251211235959 +0000" channel="1007223.shahid">
-        <title>TV guide is not available</title>
-    </programme>
     <programme start="20251210000000 +0000" stop="20251210002530 +0000" channel="49923086870104.shahid">
         <title>Sikkat Safar Season 3 Episode 3</title>
     </programme>
@@ -7363,6 +7360,9 @@
     <programme start="20251211120000 +0000" stop="20251211235959 +0000" channel="49923086870104.shahid">
         <title>TV guide is not available</title>
     </programme>
+    <programme start="20251210000000 +0000" stop="20251211235959 +0000" channel="1007223.shahid">
+        <title>TV guide is not available</title>
+    </programme>
     <programme start="20251210000000 +0000" stop="20251210000857 +0000" channel="969745.shahid">
         <title>Tash Ma Tash Season 18 Episode 23</title>
     </programme>
@@ -7597,6 +7597,9 @@
     <programme start="20251210000000 +0000" stop="20251211235959 +0000" channel="986024.shahid">
         <title>TV guide is not available</title>
     </programme>
+    <programme start="20251210000000 +0000" stop="20251211235959 +0000" channel="49923088717401.shahid">
+        <title>TV guide is not available</title>
+    </programme>
     <programme start="20251210000000 +0000" stop="20251210002746 +0000" channel="988045.shahid">
         <title>Maraya 2003 Episode 8</title>
     </programme>
@@ -7730,8 +7733,5 @@
         <title>Hadeeth Al Maraya Episode 18</title>
     </programme>
     <programme start="20251211120000 +0000" stop="20251211235959 +0000" channel="988045.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20251210000000 +0000" stop="20251211235959 +0000" channel="49923088717401.shahid">
         <title>TV guide is not available</title>
     </programme>
