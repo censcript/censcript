@@ -2743,7 +2743,7 @@
 <programme start="20251209193000 +0000" stop="20251209195000 +0000" channel="Sky Sport Austria 6 HD.skyde">
     <title>Es folgt: Live UEFA Champions League</title>
 </programme>
-<programme start="20251209195000 +0000" stop="20251209223000 +0000" channel="Sky Sport Austria 6 HD.skyde">
+<programme start="20251209195000 +0000" stop="20251209220000 +0000" channel="Sky Sport Austria 6 HD.skyde">
     <title>Live UEFA CL: Tottenham Hotspur - Slavia Prag, Ligaphase, 6. Spieltag, Dienstag</title>
 </programme>
 <programme start="20251209193000 +0000" stop="20251209195000 +0000" channel="Sky Sport Austria 7 HD.skyde">

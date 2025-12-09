@@ -9127,78 +9127,8 @@
 <programme start="20251209155000 +0000" stop="20251209162000 +0000" channel="tvN HD.mncvision">
     <title>My Dearest Nemesis, Ep 1</title>
 </programme>
-<programme start="20251208175500 +0000" stop="20251208194000 +0000" channel="tvN Movies.mncvision">
-    <title>Following</title>
-</programme>
-<programme start="20251208194000 +0000" stop="20251208214500 +0000" channel="tvN Movies.mncvision">
-    <title>Train To Busan</title>
-</programme>
-<programme start="20251208214500 +0000" stop="20251208233500 +0000" channel="tvN Movies.mncvision">
-    <title>Return Of The Mafia</title>
-</programme>
-<programme start="20251208233500 +0000" stop="20251209021000 +0000" channel="tvN Movies.mncvision">
-    <title>Tazza: The Hidden Card</title>
-</programme>
-<programme start="20251209021000 +0000" stop="20251209042500 +0000" channel="tvN Movies.mncvision">
-    <title>The King</title>
-</programme>
-<programme start="20251209042500 +0000" stop="20251209062500 +0000" channel="tvN Movies.mncvision">
-    <title>The Girl On A Bulldozer</title>
-</programme>
-<programme start="20251209062500 +0000" stop="20251209082500 +0000" channel="tvN Movies.mncvision">
-    <title>I Don&#039;t Fire Myself</title>
-</programme>
-<programme start="20251209082500 +0000" stop="20251209103000 +0000" channel="tvN Movies.mncvision">
-    <title>Miss Fortune</title>
-</programme>
-<programme start="20251209103000 +0000" stop="20251209122500 +0000" channel="tvN Movies.mncvision">
-    <title>The Lost Choices</title>
-</programme>
-<programme start="20251209122500 +0000" stop="20251209140000 +0000" channel="tvN Movies.mncvision">
-    <title>ActionHero</title>
-</programme>
-<programme start="20251209140000 +0000" stop="20251209160500 +0000" channel="tvN Movies.mncvision">
-    <title>Long Live The King</title>
-</programme>
-<programme start="20251209160500 +0000" stop="20251209163500 +0000" channel="tvN Movies.mncvision">
-    <title>Love Reset</title>
-</programme>
-<programme start="20251208175500 +0000" stop="20251208194000 +0000" channel="tvN Movies HD.mncvision">
-    <title>Following</title>
-</programme>
-<programme start="20251208194000 +0000" stop="20251208214500 +0000" channel="tvN Movies HD.mncvision">
-    <title>Train To Busan</title>
-</programme>
-<programme start="20251208214500 +0000" stop="20251208233500 +0000" channel="tvN Movies HD.mncvision">
-    <title>Return Of The Mafia</title>
-</programme>
-<programme start="20251208233500 +0000" stop="20251209021000 +0000" channel="tvN Movies HD.mncvision">
-    <title>Tazza: The Hidden Card</title>
-</programme>
-<programme start="20251209021000 +0000" stop="20251209042500 +0000" channel="tvN Movies HD.mncvision">
-    <title>The King</title>
-</programme>
-<programme start="20251209042500 +0000" stop="20251209062500 +0000" channel="tvN Movies HD.mncvision">
-    <title>The Girl On A Bulldozer</title>
-</programme>
-<programme start="20251209062500 +0000" stop="20251209082500 +0000" channel="tvN Movies HD.mncvision">
-    <title>I Don&#039;t Fire Myself</title>
-</programme>
-<programme start="20251209082500 +0000" stop="20251209103000 +0000" channel="tvN Movies HD.mncvision">
-    <title>Miss Fortune</title>
-</programme>
-<programme start="20251209103000 +0000" stop="20251209122500 +0000" channel="tvN Movies HD.mncvision">
-    <title>The Lost Choices</title>
-</programme>
-<programme start="20251209122500 +0000" stop="20251209140000 +0000" channel="tvN Movies HD.mncvision">
-    <title>ActionHero</title>
-</programme>
-<programme start="20251209140000 +0000" stop="20251209160500 +0000" channel="tvN Movies HD.mncvision">
-    <title>Long Live The King</title>
-</programme>
-<programme start="20251209160500 +0000" stop="20251209163500 +0000" channel="tvN Movies HD.mncvision">
-    <title>Love Reset</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20251208173000 +0000" stop="20251208190000 +0000" channel="tvOne.mncvision">
     <title>Kabar Petang</title>
 </programme>
@@ -9277,42 +9207,7 @@
 <programme start="20251209163000 +0000" stop="20251208170000 +0000" channel="tvOne.mncvision">
     <title>Apa Kabar Indonesia Malam</title>
 </programme>
-<programme start="20251208170000 +0000" stop="20251208190000 +0000" channel="TVRI.mncvision">
-    <title>TVRI</title>
-</programme>
-<programme start="20251208190000 +0000" stop="20251208210000 +0000" channel="TVRI.mncvision">
-    <title>TVRI</title>
-</programme>
-<programme start="20251208210000 +0000" stop="20251208230000 +0000" channel="TVRI.mncvision">
-    <title>TVRI</title>
-</programme>
-<programme start="20251208230000 +0000" stop="20251209010000 +0000" channel="TVRI.mncvision">
-    <title>TVRI</title>
-</programme>
-<programme start="20251209010000 +0000" stop="20251209030000 +0000" channel="TVRI.mncvision">
-    <title>TVRI</title>
-</programme>
-<programme start="20251209030000 +0000" stop="20251209050000 +0000" channel="TVRI.mncvision">
-    <title>TVRI</title>
-</programme>
-<programme start="20251209050000 +0000" stop="20251209070000 +0000" channel="TVRI.mncvision">
-    <title>TVRI</title>
-</programme>
-<programme start="20251209070000 +0000" stop="20251209090000 +0000" channel="TVRI.mncvision">
-    <title>TVRI</title>
-</programme>
-<programme start="20251209090000 +0000" stop="20251209110000 +0000" channel="TVRI.mncvision">
-    <title>TVRI</title>
-</programme>
-<programme start="20251209110000 +0000" stop="20251209130000 +0000" channel="TVRI.mncvision">
-    <title>TVRI</title>
-</programme>
-<programme start="20251209130000 +0000" stop="20251209150000 +0000" channel="TVRI.mncvision">
-    <title>TVRI</title>
-</programme>
-<programme start="20251209150000 +0000" stop="20251209153000 +0000" channel="TVRI.mncvision">
-    <title>TVRI</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20251208174600 +0000" stop="20251208194200 +0000" channel="UNIQUES.mncvision">
     <title>Gold</title>
 </programme>

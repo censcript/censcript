@@ -121,14 +121,11 @@
     <programme start="20251209113000 +0000" stop="20251209120000 +0000" channel="Channel 5.mewatch">
         <title>Provocative - EP 180</title>
     </programme>
-    <programme start="20251209120000 +0000" stop="20251209140000 +0000" channel="Channel 5.mewatch">
-        <title>33rd SEA Games Thailand 2025: Opening Ceremony - EP 1</title>
-    </programme>
-    <programme start="20251209140000 +0000" stop="20251209143000 +0000" channel="Channel 5.mewatch">
-        <title>(Live) News Tonight</title>
+    <programme start="20251209120000 +0000" stop="20251209143000 +0000" channel="Channel 5.mewatch">
+        <title>(Live) 33rd SEA Games Thailand 2025: Opening Ceremony - EP 1</title>
     </programme>
     <programme start="20251209143000 +0000" stop="20251209150000 +0000" channel="Channel 5.mewatch">
-        <title>CinemaSHORT Asian Short Film Competition - EP 1</title>
+        <title>(Live) News Tonight</title>
     </programme>
     <programme start="20251209150000 +0000" stop="20251209160000 +0000" channel="Channel 5.mewatch">
         <title>La Brea S2 - EP 5</title>
