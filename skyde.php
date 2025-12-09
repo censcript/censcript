@@ -463,13 +463,13 @@
 <programme start="20251208232500 +0000" stop="20251208234000 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
-<programme start="20251208234000 +0000" stop="20251208235000 +0000" channel="Cartoonito.skyde">
+<programme start="20251208234000 +0000" stop="20251208235500 +0000" channel="Cartoonito.skyde">
     <title>Ella im Weltall</title>
 </programme>
-<programme start="20251208235000 +0000" stop="20251209000000 +0000" channel="Cartoonito.skyde">
+<programme start="20251208235500 +0000" stop="20251209000500 +0000" channel="Cartoonito.skyde">
     <title>Ella im Weltall</title>
 </programme>
-<programme start="20251209000000 +0000" stop="20251209002000 +0000" channel="Cartoonito.skyde">
+<programme start="20251209000500 +0000" stop="20251209002000 +0000" channel="Cartoonito.skyde">
     <title>Ella im Weltall</title>
 </programme>
 <programme start="20251209002000 +0000" stop="20251209003000 +0000" channel="Cartoonito.skyde">
@@ -478,10 +478,10 @@
 <programme start="20251209003000 +0000" stop="20251209004500 +0000" channel="Cartoonito.skyde">
     <title>Ella im Weltall</title>
 </programme>
-<programme start="20251209004500 +0000" stop="20251209005500 +0000" channel="Cartoonito.skyde">
+<programme start="20251209004500 +0000" stop="20251209010000 +0000" channel="Cartoonito.skyde">
     <title>Geschichten von Kröterich &amp; Co.</title>
 </programme>
-<programme start="20251209005500 +0000" stop="20251209011500 +0000" channel="Cartoonito.skyde">
+<programme start="20251209010000 +0000" stop="20251209011500 +0000" channel="Cartoonito.skyde">
     <title>Geschichten von Kröterich &amp; Co.</title>
 </programme>
 <programme start="20251209011500 +0000" stop="20251209012500 +0000" channel="Cartoonito.skyde">
@@ -595,10 +595,10 @@
 <programme start="20251209084000 +0000" stop="20251209090000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20251209090000 +0000" stop="20251209090600 +0000" channel="Cartoonito.skyde">
+<programme start="20251209090000 +0000" stop="20251209090500 +0000" channel="Cartoonito.skyde">
     <title>Lamput</title>
 </programme>
-<programme start="20251209090600 +0000" stop="20251209091000 +0000" channel="Cartoonito.skyde">
+<programme start="20251209090500 +0000" stop="20251209091000 +0000" channel="Cartoonito.skyde">
     <title>Lamput</title>
 </programme>
 <programme start="20251209091000 +0000" stop="20251209092500 +0000" channel="Cartoonito.skyde">
@@ -607,10 +607,10 @@
 <programme start="20251209092500 +0000" stop="20251209093000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20251209093000 +0000" stop="20251209093500 +0000" channel="Cartoonito.skyde">
+<programme start="20251209093000 +0000" stop="20251209094000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20251209093500 +0000" stop="20251209095000 +0000" channel="Cartoonito.skyde">
+<programme start="20251209094000 +0000" stop="20251209095000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
 <programme start="20251209095000 +0000" stop="20251209100000 +0000" channel="Cartoonito.skyde">
@@ -628,10 +628,10 @@
 <programme start="20251209102500 +0000" stop="20251209103500 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
-<programme start="20251209103500 +0000" stop="20251209104500 +0000" channel="Cartoonito.skyde">
+<programme start="20251209103500 +0000" stop="20251209105000 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
-<programme start="20251209104500 +0000" stop="20251209105500 +0000" channel="Cartoonito.skyde">
+<programme start="20251209105000 +0000" stop="20251209105500 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
 <programme start="20251209105500 +0000" stop="20251209110000 +0000" channel="Cartoonito.skyde">
@@ -658,10 +658,10 @@
 <programme start="20251209122500 +0000" stop="20251209123500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20251209123500 +0000" stop="20251209125000 +0000" channel="Cartoonito.skyde">
+<programme start="20251209123500 +0000" stop="20251209125500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20251209125000 +0000" stop="20251209130500 +0000" channel="Cartoonito.skyde">
+<programme start="20251209125500 +0000" stop="20251209130500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
 <programme start="20251209130500 +0000" stop="20251209131500 +0000" channel="Cartoonito.skyde">
@@ -703,10 +703,10 @@
 <programme start="20251209151000 +0000" stop="20251209152500 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
-<programme start="20251209152500 +0000" stop="20251209153000 +0000" channel="Cartoonito.skyde">
+<programme start="20251209152500 +0000" stop="20251209153500 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
-<programme start="20251209153000 +0000" stop="20251209154000 +0000" channel="Cartoonito.skyde">
+<programme start="20251209153500 +0000" stop="20251209154000 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
 <programme start="20251209154000 +0000" stop="20251209154500 +0000" channel="Cartoonito.skyde">
@@ -733,10 +733,10 @@
 <programme start="20251209165500 +0000" stop="20251209170000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20251209170000 +0000" stop="20251209170500 +0000" channel="Cartoonito.skyde">
+<programme start="20251209170000 +0000" stop="20251209171000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20251209170500 +0000" stop="20251209172000 +0000" channel="Cartoonito.skyde">
+<programme start="20251209171000 +0000" stop="20251209172000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
 <programme start="20251209172000 +0000" stop="20251209173000 +0000" channel="Cartoonito.skyde">
@@ -775,16 +775,16 @@
 <programme start="20251209191000 +0000" stop="20251209192500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20251209192500 +0000" stop="20251209193500 +0000" channel="Cartoonito.skyde">
+<programme start="20251209192500 +0000" stop="20251209194000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20251209193500 +0000" stop="20251209195500 +0000" channel="Cartoonito.skyde">
+<programme start="20251209194000 +0000" stop="20251209195500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20251209195500 +0000" stop="20251209200000 +0000" channel="Cartoonito.skyde">
+<programme start="20251209195500 +0000" stop="20251209200500 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20251209200000 +0000" stop="20251209201000 +0000" channel="Cartoonito.skyde">
+<programme start="20251209200500 +0000" stop="20251209201000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
 <programme start="20251209201000 +0000" stop="20251209202500 +0000" channel="Cartoonito.skyde">
@@ -814,10 +814,10 @@
 <programme start="20251209213500 +0000" stop="20251209215000 +0000" channel="Cartoonito.skyde">
     <title>Batwheels</title>
 </programme>
-<programme start="20251209215000 +0000" stop="20251209220000 +0000" channel="Cartoonito.skyde">
+<programme start="20251209215000 +0000" stop="20251209220500 +0000" channel="Cartoonito.skyde">
     <title>Bugs Bunnys Baumeister</title>
 </programme>
-<programme start="20251209220000 +0000" stop="20251209222000 +0000" channel="Cartoonito.skyde">
+<programme start="20251209220500 +0000" stop="20251209222000 +0000" channel="Cartoonito.skyde">
     <title>Bugs Bunnys Baumeister</title>
 </programme>
 <programme start="20251209222000 +0000" stop="20251209223000 +0000" channel="Cartoonito.skyde">
@@ -2713,7 +2713,7 @@
 <programme start="20251209195000 +0000" stop="20251209220000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live UEFA CL: Inter Mailand - FC Liverpool, Ligaphase, 6. Spieltag, Dienstag</title>
 </programme>
-<programme start="20251209220000 +0000" stop="20251209230000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20251209220000 +0000" stop="20251209233000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live Die UEFA CL am Dienstag: Analyse</title>
 </programme>
 <programme start="20251209150000 +0000" stop="20251209152000 +0000" channel="Sky Sport Austria 3 HD.skyde">
@@ -2722,10 +2722,10 @@
 <programme start="20251209152000 +0000" stop="20251209173000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live UEFA CL: Kairat Almaty - Olympiakos Piräus, Ligaphase, 6. Spieltag, Dienstag</title>
 </programme>
-<programme start="20251209193000 +0000" stop="20251209195000 +0000" channel="Sky Sport Austria 3 HD.skyde">
-    <title>Es folgt: Live UEFA Champions League</title>
+<programme start="20251209173000 +0000" stop="20251209195000 +0000" channel="Sky Sport Austria 3 HD.skyde">
+    <title>Es folgt: ab 20:50: Live UEFA Champions League</title>
 </programme>
-<programme start="20251209195000 +0000" stop="20251209220000 +0000" channel="Sky Sport Austria 3 HD.skyde">
+<programme start="20251209195000 +0000" stop="20251209223000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live UEFA CL: FC Barcelona - Eintracht Frankfurt, Ligaphase, 6. Spieltag, Dienstag</title>
 </programme>
 <programme start="20251209193000 +0000" stop="20251209195000 +0000" channel="Sky Sport Austria 4 HD.skyde">
@@ -3319,31 +3319,31 @@
 <programme start="20251209223000 +0000" stop="20251209233000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>PL: Generation xG</title>
 </programme>
-<programme start="20251209000000 +0000" stop="20251209010000 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20251209000500 +0000" stop="20251209010500 +0000" channel="Sky Sport UHD.skyde">
     <title>F2: 2. Rennen - GP Abu Dhabi</title>
 </programme>
-<programme start="20251209010000 +0000" stop="20251209030000 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20251209010500 +0000" stop="20251209030500 +0000" channel="Sky Sport UHD.skyde">
     <title>DFB-Pokal: Borussia Dortmund - Bayer Leverkusen, Achtelfinale</title>
 </programme>
-<programme start="20251209030000 +0000" stop="20251209050000 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20251209030500 +0000" stop="20251209050500 +0000" channel="Sky Sport UHD.skyde">
     <title>F1: Rennen - GP Abu Dhabi</title>
 </programme>
-<programme start="20251209050000 +0000" stop="20251209070000 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20251209050500 +0000" stop="20251209070000 +0000" channel="Sky Sport UHD.skyde">
     <title>PL: Wolverhampton Wanderers - Manchester United, 15. Spieltag</title>
 </programme>
 <programme start="20251209070000 +0000" stop="20251209071500 +0000" channel="Sky Sport UHD.skyde">
     <title>Info: UHD</title>
 </programme>
-<programme start="20251208234000 +0000" stop="20251209000000 +0000" channel="Sky Sport 1 HD.skyde">
-    <title>Es folgt: Basketball NBA</title>
+<programme start="20251208230000 +0000" stop="20251209000000 +0000" channel="Sky Sport 1 HD.skyde">
+    <title>Es folgt: ab 01:00: LIVE Basketball NBA</title>
 </programme>
 <programme start="20251209000000 +0000" stop="20251209003000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime</title>
 </programme>
-<programme start="20251209003000 +0000" stop="20251209030000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20251209003000 +0000" stop="20251209033000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Phoenix Suns @ Minnesota Timberwolves</title>
 </programme>
-<programme start="20251209030000 +0000" stop="20251209090000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20251209033000 +0000" stop="20251209090000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime - Post Show</title>
 </programme>
 <programme start="20251208230500 +0000" stop="20251208235000 +0000" channel="SYFY HD.skyde">

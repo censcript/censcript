@@ -1,7 +1,3 @@
-<programme start="20251209160000 +0700" stop="20251209170000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>UEL &amp; UECL Magazine 2025-26 E6</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251209170000 +0700" stop="20251209190000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Olympiacos - Real Madrid CF</title>
     <desc>Live: Tidak</desc>
@@ -52,10 +48,6 @@
 </programme>
 <programme start="20251210160000 +0700" stop="20251210180000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: FC Barcelona - Eintracht Frankfurt</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251209141000 +0700" stop="20251209161000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Udinese - Genoa</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251209161000 +0700" stop="20251209181000 +0700" channel="COSMOTE Sport 2 HD">
@@ -238,10 +230,6 @@
     <title>Basketball: Tenerife - Real Madrid</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251209153500 +0700" stop="20251209162000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Moto-E World Championship 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251209162000 +0700" stop="20251209170500 +0700" channel="COSMOTE Sport 5 HD">
     <title>Moto-E World Championship 2025</title>
     <desc>Live: Tidak</desc>
@@ -334,6 +322,14 @@
     <title>Moto-E World Championship 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251210170500 +0700" stop="20251210173500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Extreme E - Highlights 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251210173500 +0700" stop="20251210184500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>2025 Extreme H</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251209153000 +0700" stop="20251209173000 +0700" channel="COSMOTE Sport 6 HD">
     <title>CEV Beach Volleyball European Cup 2025</title>
     <desc>Live: Tidak</desc>
@@ -410,8 +406,8 @@
     <title>Handball: Lemgo Lippe - SG Flensburg-Handewitt</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251209150000 +0700" stop="20251209170000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
+<programme start="20251210175500 +0700" stop="20251210183000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Watersports: Inside Sailing E11</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251209170000 +0700" stop="20251209190000 +0700" channel="COSMOTE Sport 7 HD">
@@ -478,8 +474,8 @@
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251209150000 +0700" stop="20251209170000 +0700" channel="COSMOTE Sport 8 HD">
-    <title>COSMOTESport8HD</title>
+<programme start="20251210170000 +0700" stop="20251210190000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251209170000 +0700" stop="20251209190000 +0700" channel="COSMOTE Sport 8 HD">
@@ -546,8 +542,8 @@
     <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251209150000 +0700" stop="20251209170000 +0700" channel="COSMOTE Sport 9 HD">
-    <title>COSMOTESport9HD</title>
+<programme start="20251210170000 +0700" stop="20251210190000 +0700" channel="COSMOTE Sport 8 HD">
+    <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251209170000 +0700" stop="20251209190000 +0700" channel="COSMOTE Sport 9 HD">
@@ -611,6 +607,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251210150000 +0700" stop="20251210170000 +0700" channel="COSMOTE Sport 9 HD">
+    <title>COSMOTESport9HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251210170000 +0700" stop="20251210190000 +0700" channel="COSMOTE Sport 9 HD">
     <title>COSMOTESport9HD</title>
     <desc>Live: Tidak</desc>
 </programme>
