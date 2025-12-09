@@ -3134,13 +3134,13 @@
         <title>Next Billion</title>
     </programme>
     <programme start="20251209010000 +0000" stop="20251209020000 +0000" channel="Bloomberg Originals.starhub">
-        <title>Iceland</title>
+        <title>Spain</title>
     </programme>
     <programme start="20251209020000 +0000" stop="20251209030000 +0000" channel="Bloomberg Originals.starhub">
         <title>South Korea</title>
     </programme>
     <programme start="20251209030000 +0000" stop="20251209040000 +0000" channel="Bloomberg Originals.starhub">
-        <title>Iceland</title>
+        <title>Spain</title>
     </programme>
     <programme start="20251209040000 +0000" stop="20251209050000 +0000" channel="Bloomberg Originals.starhub">
         <title>Irish Traditions and Identity Explored</title>
@@ -3176,7 +3176,7 @@
         <title>Irish Traditions and Identity Explored</title>
     </programme>
     <programme start="20251209110000 +0000" stop="20251209120000 +0000" channel="Bloomberg Originals.starhub">
-        <title>Iceland</title>
+        <title>Spain</title>
     </programme>
     <programme start="20251209120000 +0000" stop="20251209150000 +0000" channel="Bloomberg Originals.starhub">
         <title>Bloomberg Surveillance Radio</title>
@@ -4850,7 +4850,7 @@
         <title>Patharamattu</title>
     </programme>
     <programme start="20251208233000 +0000" stop="20251209020000 +0000" channel="Asianet.starhub">
-        <title>Movie</title>
+        <title>Achayans</title>
     </programme>
     <programme start="20251209020000 +0000" stop="20251209023000 +0000" channel="Asianet.starhub">
         <title>Pavithram</title>
@@ -4871,7 +4871,7 @@
         <title>Santhwanam-2</title>
     </programme>
     <programme start="20251209050000 +0000" stop="20251209073000 +0000" channel="Asianet.starhub">
-        <title>Movie</title>
+        <title>Adiyozhukkukal</title>
     </programme>
     <programme start="20251209073000 +0000" stop="20251209080000 +0000" channel="Asianet.starhub">
         <title>Kattathe Kilikoodu</title>
@@ -4886,7 +4886,7 @@
         <title>Amma Manassu(Dub . Fiction)</title>
     </programme>
     <programme start="20251209093000 +0000" stop="20251209120000 +0000" channel="Asianet.starhub">
-        <title>Movie</title>
+        <title>Kilometers &amp; Kilometers</title>
     </programme>
     <programme start="20251209120000 +0000" stop="20251209123000 +0000" channel="Asianet.starhub">
         <title>Chirikkum Thalika II</title>
@@ -7945,10 +7945,10 @@
     <programme start="20251208223000 +0000" stop="20251209013000 +0000" channel="Asianet Movies.starhub">
         <title>Kanakasimhasanam</title>
     </programme>
-    <programme start="20251209013000 +0000" stop="20251209043000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251209013000 +0000" stop="20251209042000 +0000" channel="Asianet Movies.starhub">
         <title>Ohm Shanthi Oshaana</title>
     </programme>
-    <programme start="20251209043000 +0000" stop="20251209073000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251209042000 +0000" stop="20251209073000 +0000" channel="Asianet Movies.starhub">
         <title>Manassinakkare</title>
     </programme>
     <programme start="20251209073000 +0000" stop="20251209103000 +0000" channel="Asianet Movies.starhub">
