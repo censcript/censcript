@@ -229,10 +229,10 @@
 <programme start="20251209052000 +0000" stop="20251209053000 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20251209053000 +0000" stop="20251209054000 +0000" channel="Cartoon Network.skyde">
+<programme start="20251209053000 +0000" stop="20251209054500 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20251209054000 +0000" stop="20251209055500 +0000" channel="Cartoon Network.skyde">
+<programme start="20251209054500 +0000" stop="20251209055500 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
 <programme start="20251209055500 +0000" stop="20251209060500 +0000" channel="Cartoon Network.skyde">
@@ -265,16 +265,16 @@
 <programme start="20251209074500 +0000" stop="20251209075500 +0000" channel="Cartoon Network.skyde">
     <title>Looney Tunes Cartoons</title>
 </programme>
-<programme start="20251209075500 +0000" stop="20251209081000 +0000" channel="Cartoon Network.skyde">
+<programme start="20251209075500 +0000" stop="20251209080500 +0000" channel="Cartoon Network.skyde">
     <title>Looney Tunes Cartoons</title>
 </programme>
-<programme start="20251209081000 +0000" stop="20251209082500 +0000" channel="Cartoon Network.skyde">
+<programme start="20251209080500 +0000" stop="20251209082500 +0000" channel="Cartoon Network.skyde">
     <title>Looney Tunes Cartoons</title>
 </programme>
-<programme start="20251209082500 +0000" stop="20251209083500 +0000" channel="Cartoon Network.skyde">
+<programme start="20251209082500 +0000" stop="20251209083000 +0000" channel="Cartoon Network.skyde">
     <title>Looney Tunes Cartoons</title>
 </programme>
-<programme start="20251209083500 +0000" stop="20251209090000 +0000" channel="Cartoon Network.skyde">
+<programme start="20251209083000 +0000" stop="20251209090000 +0000" channel="Cartoon Network.skyde">
     <title>Tiny Toons Looniversity</title>
 </programme>
 <programme start="20251209090000 +0000" stop="20251209093000 +0000" channel="Cartoon Network.skyde">
@@ -298,10 +298,10 @@
 <programme start="20251209104000 +0000" stop="20251209105000 +0000" channel="Cartoon Network.skyde">
     <title>Teen Titans Go!</title>
 </programme>
-<programme start="20251209105000 +0000" stop="20251209110500 +0000" channel="Cartoon Network.skyde">
+<programme start="20251209105000 +0000" stop="20251209110000 +0000" channel="Cartoon Network.skyde">
     <title>Teen Titans Go!</title>
 </programme>
-<programme start="20251209110500 +0000" stop="20251209111500 +0000" channel="Cartoon Network.skyde">
+<programme start="20251209110000 +0000" stop="20251209111500 +0000" channel="Cartoon Network.skyde">
     <title>Teen Titans Go!</title>
 </programme>
 <programme start="20251209111500 +0000" stop="20251209113000 +0000" channel="Cartoon Network.skyde">
@@ -325,16 +325,16 @@
 <programme start="20251209123500 +0000" stop="20251209125000 +0000" channel="Cartoon Network.skyde">
     <title>Teen Titans Go!</title>
 </programme>
-<programme start="20251209125000 +0000" stop="20251209130500 +0000" channel="Cartoon Network.skyde">
+<programme start="20251209125000 +0000" stop="20251209130000 +0000" channel="Cartoon Network.skyde">
     <title>Teen Titans Go!</title>
 </programme>
-<programme start="20251209130500 +0000" stop="20251209133000 +0000" channel="Cartoon Network.skyde">
+<programme start="20251209130000 +0000" stop="20251209133000 +0000" channel="Cartoon Network.skyde">
     <title>Teen Titans Go!</title>
 </programme>
-<programme start="20251209133000 +0000" stop="20251209135000 +0000" channel="Cartoon Network.skyde">
+<programme start="20251209133000 +0000" stop="20251209134500 +0000" channel="Cartoon Network.skyde">
     <title>Die wunderbar schräge Welt von Gumball</title>
 </programme>
-<programme start="20251209135000 +0000" stop="20251209140000 +0000" channel="Cartoon Network.skyde">
+<programme start="20251209134500 +0000" stop="20251209140000 +0000" channel="Cartoon Network.skyde">
     <title>Die wunderbar schräge Welt von Gumball</title>
 </programme>
 <programme start="20251209140000 +0000" stop="20251209141000 +0000" channel="Cartoon Network.skyde">
@@ -349,10 +349,10 @@
 <programme start="20251209144000 +0000" stop="20251209145000 +0000" channel="Cartoon Network.skyde">
     <title>Looney Tunes Cartoons</title>
 </programme>
-<programme start="20251209145000 +0000" stop="20251209152000 +0000" channel="Cartoon Network.skyde">
+<programme start="20251209145000 +0000" stop="20251209151500 +0000" channel="Cartoon Network.skyde">
     <title>Tiny Toons Looniversity</title>
 </programme>
-<programme start="20251209152000 +0000" stop="20251209153500 +0000" channel="Cartoon Network.skyde">
+<programme start="20251209151500 +0000" stop="20251209153500 +0000" channel="Cartoon Network.skyde">
     <title>Lana Longbeard</title>
 </programme>
 <programme start="20251209153500 +0000" stop="20251209154500 +0000" channel="Cartoon Network.skyde">
@@ -361,52 +361,52 @@
 <programme start="20251209154500 +0000" stop="20251209160000 +0000" channel="Cartoon Network.skyde">
     <title>Teen Titans Go!</title>
 </programme>
-<programme start="20251209160000 +0000" stop="20251209161500 +0000" channel="Cartoon Network.skyde">
+<programme start="20251209160000 +0000" stop="20251209161000 +0000" channel="Cartoon Network.skyde">
     <title>Teen Titans Go!</title>
 </programme>
-<programme start="20251209161500 +0000" stop="20251209163000 +0000" channel="Cartoon Network.skyde">
+<programme start="20251209161000 +0000" stop="20251209163000 +0000" channel="Cartoon Network.skyde">
     <title>Die wunderbar schräge Welt von Gumball</title>
 </programme>
 <programme start="20251209163000 +0000" stop="20251209164000 +0000" channel="Cartoon Network.skyde">
     <title>Die wunderbar schräge Welt von Gumball</title>
 </programme>
-<programme start="20251209164000 +0000" stop="20251209170000 +0000" channel="Cartoon Network.skyde">
+<programme start="20251209164000 +0000" stop="20251209165500 +0000" channel="Cartoon Network.skyde">
     <title>Clarence</title>
 </programme>
-<programme start="20251209170000 +0000" stop="20251209171000 +0000" channel="Cartoon Network.skyde">
+<programme start="20251209165500 +0000" stop="20251209170500 +0000" channel="Cartoon Network.skyde">
     <title>Clarence</title>
 </programme>
-<programme start="20251209171000 +0000" stop="20251209172500 +0000" channel="Cartoon Network.skyde">
+<programme start="20251209170500 +0000" stop="20251209172500 +0000" channel="Cartoon Network.skyde">
     <title>Craig of the Creek - Im Wald der Abenteuer</title>
 </programme>
 <programme start="20251209172500 +0000" stop="20251209173500 +0000" channel="Cartoon Network.skyde">
     <title>Craig of the Creek - Im Wald der Abenteuer</title>
 </programme>
-<programme start="20251209173500 +0000" stop="20251209175500 +0000" channel="Cartoon Network.skyde">
+<programme start="20251209173500 +0000" stop="20251209175000 +0000" channel="Cartoon Network.skyde">
     <title>Lana Longbeard</title>
 </programme>
-<programme start="20251209175500 +0000" stop="20251209180500 +0000" channel="Cartoon Network.skyde">
+<programme start="20251209175000 +0000" stop="20251209180500 +0000" channel="Cartoon Network.skyde">
     <title>Lana Longbeard</title>
 </programme>
-<programme start="20251209180500 +0000" stop="20251209183500 +0000" channel="Cartoon Network.skyde">
+<programme start="20251209180500 +0000" stop="20251209183000 +0000" channel="Cartoon Network.skyde">
     <title>Tiny Toons Looniversity</title>
 </programme>
-<programme start="20251209183500 +0000" stop="20251209185000 +0000" channel="Cartoon Network.skyde">
+<programme start="20251209183000 +0000" stop="20251209184500 +0000" channel="Cartoon Network.skyde">
     <title>Teen Titans Go!</title>
 </programme>
-<programme start="20251209185000 +0000" stop="20251209190000 +0000" channel="Cartoon Network.skyde">
+<programme start="20251209184500 +0000" stop="20251209190000 +0000" channel="Cartoon Network.skyde">
     <title>Teen Titans Go!</title>
 </programme>
 <programme start="20251209190000 +0000" stop="20251209191500 +0000" channel="Cartoon Network.skyde">
     <title>Die wunderbar schräge Welt von Gumball</title>
 </programme>
-<programme start="20251209191500 +0000" stop="20251209193000 +0000" channel="Cartoon Network.skyde">
+<programme start="20251209191500 +0000" stop="20251209192500 +0000" channel="Cartoon Network.skyde">
     <title>Die wunderbar schräge Welt von Gumball</title>
 </programme>
-<programme start="20251209193000 +0000" stop="20251209194500 +0000" channel="Cartoon Network.skyde">
+<programme start="20251209192500 +0000" stop="20251209194000 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20251209194500 +0000" stop="20251209195500 +0000" channel="Cartoon Network.skyde">
+<programme start="20251209194000 +0000" stop="20251209195500 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
 <programme start="20251209195500 +0000" stop="20251209200500 +0000" channel="Cartoon Network.skyde">
@@ -421,37 +421,37 @@
 <programme start="20251209204000 +0000" stop="20251209205000 +0000" channel="Cartoon Network.skyde">
     <title>Teen Titans Go!</title>
 </programme>
-<programme start="20251209205000 +0000" stop="20251209211000 +0000" channel="Cartoon Network.skyde">
+<programme start="20251209205000 +0000" stop="20251209210500 +0000" channel="Cartoon Network.skyde">
     <title>Die wunderbar schräge Welt von Gumball</title>
 </programme>
-<programme start="20251209211000 +0000" stop="20251209212000 +0000" channel="Cartoon Network.skyde">
+<programme start="20251209210500 +0000" stop="20251209211500 +0000" channel="Cartoon Network.skyde">
     <title>Die wunderbar schräge Welt von Gumball</title>
 </programme>
-<programme start="20251209212000 +0000" stop="20251209213500 +0000" channel="Cartoon Network.skyde">
+<programme start="20251209211500 +0000" stop="20251209213000 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20251209213500 +0000" stop="20251209214500 +0000" channel="Cartoon Network.skyde">
+<programme start="20251209213000 +0000" stop="20251209214500 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20251209214500 +0000" stop="20251209220000 +0000" channel="Cartoon Network.skyde">
+<programme start="20251209214500 +0000" stop="20251209215500 +0000" channel="Cartoon Network.skyde">
     <title>Adventure Time - Abenteuerzeit mit Finn und Jake</title>
 </programme>
-<programme start="20251209220000 +0000" stop="20251209221000 +0000" channel="Cartoon Network.skyde">
+<programme start="20251209215500 +0000" stop="20251209220500 +0000" channel="Cartoon Network.skyde">
     <title>Adventure Time - Abenteuerzeit mit Finn und Jake</title>
 </programme>
-<programme start="20251209221000 +0000" stop="20251209222000 +0000" channel="Cartoon Network.skyde">
+<programme start="20251209220500 +0000" stop="20251209221500 +0000" channel="Cartoon Network.skyde">
     <title>Adventure Time - Abenteuerzeit mit Finn und Jake</title>
 </programme>
-<programme start="20251209222000 +0000" stop="20251209223000 +0000" channel="Cartoon Network.skyde">
+<programme start="20251209221500 +0000" stop="20251209222500 +0000" channel="Cartoon Network.skyde">
     <title>Adventure Time - Abenteuerzeit mit Finn und Jake</title>
 </programme>
-<programme start="20251209223000 +0000" stop="20251209224500 +0000" channel="Cartoon Network.skyde">
+<programme start="20251209222500 +0000" stop="20251209224000 +0000" channel="Cartoon Network.skyde">
     <title>Regular Show - Völlig abgedreht</title>
 </programme>
-<programme start="20251209224500 +0000" stop="20251209225500 +0000" channel="Cartoon Network.skyde">
+<programme start="20251209224000 +0000" stop="20251209225000 +0000" channel="Cartoon Network.skyde">
     <title>Regular Show - Völlig abgedreht</title>
 </programme>
-<programme start="20251209225500 +0000" stop="20251209232000 +0000" channel="Cartoon Network.skyde">
+<programme start="20251209225000 +0000" stop="20251209231500 +0000" channel="Cartoon Network.skyde">
     <title>Regular Show - Völlig abgedreht</title>
 </programme>
 <programme start="20251208230000 +0000" stop="20251208231500 +0000" channel="Cartoonito.skyde">
@@ -463,13 +463,13 @@
 <programme start="20251208232500 +0000" stop="20251208234000 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
-<programme start="20251208234000 +0000" stop="20251208235500 +0000" channel="Cartoonito.skyde">
+<programme start="20251208234000 +0000" stop="20251208235000 +0000" channel="Cartoonito.skyde">
     <title>Ella im Weltall</title>
 </programme>
-<programme start="20251208235500 +0000" stop="20251209000500 +0000" channel="Cartoonito.skyde">
+<programme start="20251208235000 +0000" stop="20251209000000 +0000" channel="Cartoonito.skyde">
     <title>Ella im Weltall</title>
 </programme>
-<programme start="20251209000500 +0000" stop="20251209002000 +0000" channel="Cartoonito.skyde">
+<programme start="20251209000000 +0000" stop="20251209002000 +0000" channel="Cartoonito.skyde">
     <title>Ella im Weltall</title>
 </programme>
 <programme start="20251209002000 +0000" stop="20251209003000 +0000" channel="Cartoonito.skyde">
@@ -478,10 +478,10 @@
 <programme start="20251209003000 +0000" stop="20251209004500 +0000" channel="Cartoonito.skyde">
     <title>Ella im Weltall</title>
 </programme>
-<programme start="20251209004500 +0000" stop="20251209010000 +0000" channel="Cartoonito.skyde">
+<programme start="20251209004500 +0000" stop="20251209005500 +0000" channel="Cartoonito.skyde">
     <title>Geschichten von Kröterich &amp; Co.</title>
 </programme>
-<programme start="20251209010000 +0000" stop="20251209011500 +0000" channel="Cartoonito.skyde">
+<programme start="20251209005500 +0000" stop="20251209011500 +0000" channel="Cartoonito.skyde">
     <title>Geschichten von Kröterich &amp; Co.</title>
 </programme>
 <programme start="20251209011500 +0000" stop="20251209012500 +0000" channel="Cartoonito.skyde">
@@ -595,10 +595,10 @@
 <programme start="20251209084000 +0000" stop="20251209090000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20251209090000 +0000" stop="20251209090500 +0000" channel="Cartoonito.skyde">
+<programme start="20251209090000 +0000" stop="20251209090600 +0000" channel="Cartoonito.skyde">
     <title>Lamput</title>
 </programme>
-<programme start="20251209090500 +0000" stop="20251209091000 +0000" channel="Cartoonito.skyde">
+<programme start="20251209090600 +0000" stop="20251209091000 +0000" channel="Cartoonito.skyde">
     <title>Lamput</title>
 </programme>
 <programme start="20251209091000 +0000" stop="20251209092500 +0000" channel="Cartoonito.skyde">
@@ -607,10 +607,10 @@
 <programme start="20251209092500 +0000" stop="20251209093000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20251209093000 +0000" stop="20251209094000 +0000" channel="Cartoonito.skyde">
+<programme start="20251209093000 +0000" stop="20251209093500 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20251209094000 +0000" stop="20251209095000 +0000" channel="Cartoonito.skyde">
+<programme start="20251209093500 +0000" stop="20251209095000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
 <programme start="20251209095000 +0000" stop="20251209100000 +0000" channel="Cartoonito.skyde">
@@ -628,10 +628,10 @@
 <programme start="20251209102500 +0000" stop="20251209103500 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
-<programme start="20251209103500 +0000" stop="20251209105000 +0000" channel="Cartoonito.skyde">
+<programme start="20251209103500 +0000" stop="20251209104500 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
-<programme start="20251209105000 +0000" stop="20251209105500 +0000" channel="Cartoonito.skyde">
+<programme start="20251209104500 +0000" stop="20251209105500 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
 <programme start="20251209105500 +0000" stop="20251209110000 +0000" channel="Cartoonito.skyde">
@@ -658,10 +658,10 @@
 <programme start="20251209122500 +0000" stop="20251209123500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20251209123500 +0000" stop="20251209125500 +0000" channel="Cartoonito.skyde">
+<programme start="20251209123500 +0000" stop="20251209125000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20251209125500 +0000" stop="20251209130500 +0000" channel="Cartoonito.skyde">
+<programme start="20251209125000 +0000" stop="20251209130500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
 <programme start="20251209130500 +0000" stop="20251209131500 +0000" channel="Cartoonito.skyde">
@@ -703,10 +703,10 @@
 <programme start="20251209151000 +0000" stop="20251209152500 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
-<programme start="20251209152500 +0000" stop="20251209153500 +0000" channel="Cartoonito.skyde">
+<programme start="20251209152500 +0000" stop="20251209153000 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
-<programme start="20251209153500 +0000" stop="20251209154000 +0000" channel="Cartoonito.skyde">
+<programme start="20251209153000 +0000" stop="20251209154000 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
 <programme start="20251209154000 +0000" stop="20251209154500 +0000" channel="Cartoonito.skyde">
@@ -733,10 +733,10 @@
 <programme start="20251209165500 +0000" stop="20251209170000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20251209170000 +0000" stop="20251209171000 +0000" channel="Cartoonito.skyde">
+<programme start="20251209170000 +0000" stop="20251209170500 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20251209171000 +0000" stop="20251209172000 +0000" channel="Cartoonito.skyde">
+<programme start="20251209170500 +0000" stop="20251209172000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
 <programme start="20251209172000 +0000" stop="20251209173000 +0000" channel="Cartoonito.skyde">
@@ -775,16 +775,16 @@
 <programme start="20251209191000 +0000" stop="20251209192500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20251209192500 +0000" stop="20251209194000 +0000" channel="Cartoonito.skyde">
+<programme start="20251209192500 +0000" stop="20251209193500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20251209194000 +0000" stop="20251209195500 +0000" channel="Cartoonito.skyde">
+<programme start="20251209193500 +0000" stop="20251209195500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20251209195500 +0000" stop="20251209200500 +0000" channel="Cartoonito.skyde">
+<programme start="20251209195500 +0000" stop="20251209200000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20251209200500 +0000" stop="20251209201000 +0000" channel="Cartoonito.skyde">
+<programme start="20251209200000 +0000" stop="20251209201000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
 <programme start="20251209201000 +0000" stop="20251209202500 +0000" channel="Cartoonito.skyde">
@@ -814,10 +814,10 @@
 <programme start="20251209213500 +0000" stop="20251209215000 +0000" channel="Cartoonito.skyde">
     <title>Batwheels</title>
 </programme>
-<programme start="20251209215000 +0000" stop="20251209220500 +0000" channel="Cartoonito.skyde">
+<programme start="20251209215000 +0000" stop="20251209220000 +0000" channel="Cartoonito.skyde">
     <title>Bugs Bunnys Baumeister</title>
 </programme>
-<programme start="20251209220500 +0000" stop="20251209222000 +0000" channel="Cartoonito.skyde">
+<programme start="20251209220000 +0000" stop="20251209222000 +0000" channel="Cartoonito.skyde">
     <title>Bugs Bunnys Baumeister</title>
 </programme>
 <programme start="20251209222000 +0000" stop="20251209223000 +0000" channel="Cartoonito.skyde">
@@ -934,38 +934,38 @@
 <programme start="20251209083000 +0000" stop="20251209103000 +0000" channel="DAZN 1 HD.skyde">
     <title>Bundesliga: RB Leipzig - Eintracht Frankfurt</title>
 </programme>
-<programme start="20251209103000 +0000" stop="20251209122000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20251209103000 +0000" stop="20251209122500 +0000" channel="DAZN 1 HD.skyde">
     <title>Bundesliga: Borussia Dortmund - TSG 1899 Hoffenheim</title>
 </programme>
-<programme start="20251209122000 +0000" stop="20251209125000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20251209122500 +0000" stop="20251209130000 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20251209125000 +0000" stop="20251209131000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20251209130000 +0000" stop="20251209145000 +0000" channel="DAZN 1 HD.skyde">
+    <title>Bundesliga: VFB Stuttgart - FC Bayern München</title>
+</programme>
+<programme start="20251209145000 +0000" stop="20251209151000 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20251209131000 +0000" stop="20251209133000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20251209151000 +0000" stop="20251209153000 +0000" channel="DAZN 1 HD.skyde">
     <title>&quot;Mehr als 90 Minuten&quot; 2025/26: Staffel 2 - Folge 1</title>
 </programme>
-<programme start="20251209133000 +0000" stop="20251209134500 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20251209153000 +0000" stop="20251209154500 +0000" channel="DAZN 1 HD.skyde">
     <title>&quot;Mehr als 90 Minuten&quot; 2025/26: Staffel 2 - Folge 2</title>
 </programme>
-<programme start="20251209134500 +0000" stop="20251209140000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20251209154500 +0000" stop="20251209160500 +0000" channel="DAZN 1 HD.skyde">
     <title>&quot;Mehr als 90 Minuten&quot; 2025/26: Staffel 2 - Folge 3</title>
 </programme>
-<programme start="20251209140000 +0000" stop="20251209141500 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20251209160500 +0000" stop="20251209162000 +0000" channel="DAZN 1 HD.skyde">
     <title>&quot;Mehr als 90 Minuten&quot; 2025/26: Staffel 2 - Folge 4</title>
 </programme>
-<programme start="20251209141500 +0000" stop="20251209142500 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20251209162000 +0000" stop="20251209163500 +0000" channel="DAZN 1 HD.skyde">
     <title>&quot;Mehr als 90 Minuten&quot; 2025/26: Staffel 2 - Folge 5</title>
 </programme>
-<programme start="20251209142500 +0000" stop="20251209143500 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20251209163500 +0000" stop="20251209165000 +0000" channel="DAZN 1 HD.skyde">
     <title>&quot;Mehr als 90 Minuten&quot; 2025/26: Staffel 2 - Folge 6</title>
 </programme>
-<programme start="20251209143500 +0000" stop="20251209145000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
-</programme>
-<programme start="20251209145000 +0000" stop="20251209170000 +0000" channel="DAZN 1 HD.skyde">
-    <title>UEFA Youth League 25/26: FC Barcelona U19 - Eintracht Frankfurt U19</title>
+<programme start="20251209165000 +0000" stop="20251209170000 +0000" channel="DAZN 1 HD.skyde">
+    <title>UCL Warm Up: UEFA Champions League Highlights. Nur in Deutschland verfügbar!</title>
 </programme>
 <programme start="20251209170000 +0000" stop="20251209195500 +0000" channel="DAZN 1 HD.skyde">
     <title>UEFA Champions League 25/26: FC Bayern München - Sporting Lissabon. Nur in Deutschland verfügbar!</title>
@@ -1347,270 +1347,6 @@
 </programme>
 <programme start="20251209224000 +0000" stop="20251209233000 +0000" channel="Motorvision+.skyde">
     <title>Road Wars Staffel 7</title>
-</programme>
-<programme start="20251208230500 +0000" stop="20251208231500 +0000" channel="Nick Jr..skyde">
-    <title>Rubble &amp; Crew</title>
-</programme>
-<programme start="20251208231500 +0000" stop="20251208233000 +0000" channel="Nick Jr..skyde">
-    <title>Rubble &amp; Crew</title>
-</programme>
-<programme start="20251208233000 +0000" stop="20251208235500 +0000" channel="Nick Jr..skyde">
-    <title>Rubble &amp; Crew</title>
-</programme>
-<programme start="20251208235500 +0000" stop="20251209001500 +0000" channel="Nick Jr..skyde">
-    <title>Paw Patrol: Helfer auf vier Pfoten</title>
-</programme>
-<programme start="20251209001500 +0000" stop="20251209003000 +0000" channel="Nick Jr..skyde">
-    <title>Paw Patrol: Helfer auf vier Pfoten</title>
-</programme>
-<programme start="20251209003000 +0000" stop="20251209005000 +0000" channel="Nick Jr..skyde">
-    <title>BARBAPAPA und Familie</title>
-</programme>
-<programme start="20251209005000 +0000" stop="20251209010500 +0000" channel="Nick Jr..skyde">
-    <title>BARBAPAPA und Familie</title>
-</programme>
-<programme start="20251209010500 +0000" stop="20251209013000 +0000" channel="Nick Jr..skyde">
-    <title>Tim Rex im All</title>
-</programme>
-<programme start="20251209013000 +0000" stop="20251209014000 +0000" channel="Nick Jr..skyde">
-    <title>Rubble &amp; Crew</title>
-</programme>
-<programme start="20251209014000 +0000" stop="20251209015000 +0000" channel="Nick Jr..skyde">
-    <title>Rubble &amp; Crew</title>
-</programme>
-<programme start="20251209015000 +0000" stop="20251209020500 +0000" channel="Nick Jr..skyde">
-    <title>Rubble &amp; Crew</title>
-</programme>
-<programme start="20251209020500 +0000" stop="20251209022500 +0000" channel="Nick Jr..skyde">
-    <title>DORA</title>
-</programme>
-<programme start="20251209022500 +0000" stop="20251209025000 +0000" channel="Nick Jr..skyde">
-    <title>Blaze und die Monster-Maschinen</title>
-</programme>
-<programme start="20251209025000 +0000" stop="20251209031500 +0000" channel="Nick Jr..skyde">
-    <title>BARBAPAPA und Familie</title>
-</programme>
-<programme start="20251209031500 +0000" stop="20251209033500 +0000" channel="Nick Jr..skyde">
-    <title>BARBAPAPA und Familie</title>
-</programme>
-<programme start="20251209033500 +0000" stop="20251209040000 +0000" channel="Nick Jr..skyde">
-    <title>Tim Rex im All</title>
-</programme>
-<programme start="20251209040000 +0000" stop="20251209041000 +0000" channel="Nick Jr..skyde">
-    <title>Rubble &amp; Crew</title>
-</programme>
-<programme start="20251209041000 +0000" stop="20251209043000 +0000" channel="Nick Jr..skyde">
-    <title>Rubble &amp; Crew</title>
-</programme>
-<programme start="20251209043000 +0000" stop="20251209045000 +0000" channel="Nick Jr..skyde">
-    <title>Paw Patrol: Helfer auf vier Pfoten</title>
-</programme>
-<programme start="20251209045000 +0000" stop="20251209050000 +0000" channel="Nick Jr..skyde">
-    <title>Paw Patrol: Helfer auf vier Pfoten</title>
-</programme>
-<programme start="20251209050000 +0000" stop="20251209050500 +0000" channel="Nick Jr..skyde">
-    <title>Peppa Wutz</title>
-</programme>
-<programme start="20251209050500 +0000" stop="20251209051500 +0000" channel="Nick Jr..skyde">
-    <title>Peppa Wutz</title>
-</programme>
-<programme start="20251209051500 +0000" stop="20251209051600 +0000" channel="Nick Jr..skyde">
-    <title>Peppa Wutz</title>
-</programme>
-<programme start="20251209051600 +0000" stop="20251209052500 +0000" channel="Nick Jr..skyde">
-    <title>Peppa Wutz</title>
-</programme>
-<programme start="20251209052500 +0000" stop="20251209054500 +0000" channel="Nick Jr..skyde">
-    <title>BARBAPAPA und Familie</title>
-</programme>
-<programme start="20251209054500 +0000" stop="20251209060000 +0000" channel="Nick Jr..skyde">
-    <title>BARBAPAPA und Familie</title>
-</programme>
-<programme start="20251209060000 +0000" stop="20251209062500 +0000" channel="Nick Jr..skyde">
-    <title>Tim Rex im All</title>
-</programme>
-<programme start="20251209062500 +0000" stop="20251209064500 +0000" channel="Nick Jr..skyde">
-    <title>Blaze und die Monster-Maschinen</title>
-</programme>
-<programme start="20251209064500 +0000" stop="20251209071000 +0000" channel="Nick Jr..skyde">
-    <title>Paw Patrol: Helfer auf vier Pfoten</title>
-</programme>
-<programme start="20251209071000 +0000" stop="20251209073500 +0000" channel="Nick Jr..skyde">
-    <title>Paw Patrol: Helfer auf vier Pfoten</title>
-</programme>
-<programme start="20251209073500 +0000" stop="20251209074500 +0000" channel="Nick Jr..skyde">
-    <title>Paw Patrol: Helfer auf vier Pfoten</title>
-</programme>
-<programme start="20251209074500 +0000" stop="20251209075500 +0000" channel="Nick Jr..skyde">
-    <title>Rubble &amp; Crew</title>
-</programme>
-<programme start="20251209075500 +0000" stop="20251209081000 +0000" channel="Nick Jr..skyde">
-    <title>Rubble &amp; Crew</title>
-</programme>
-<programme start="20251209081000 +0000" stop="20251209083000 +0000" channel="Nick Jr..skyde">
-    <title>Rubble &amp; Crew</title>
-</programme>
-<programme start="20251209083000 +0000" stop="20251209085500 +0000" channel="Nick Jr..skyde">
-    <title>DORA</title>
-</programme>
-<programme start="20251209085500 +0000" stop="20251209092000 +0000" channel="Nick Jr..skyde">
-    <title>Baby Sharks große Show</title>
-</programme>
-<programme start="20251209092000 +0000" stop="20251209094000 +0000" channel="Nick Jr..skyde">
-    <title>Baby Sharks große Show</title>
-</programme>
-<programme start="20251209094000 +0000" stop="20251209094500 +0000" channel="Nick Jr..skyde">
-    <title>Peppa Wutz</title>
-</programme>
-<programme start="20251209094500 +0000" stop="20251209095000 +0000" channel="Nick Jr..skyde">
-    <title>Peppa Wutz</title>
-</programme>
-<programme start="20251209095000 +0000" stop="20251209095500 +0000" channel="Nick Jr..skyde">
-    <title>Peppa Wutz</title>
-</programme>
-<programme start="20251209095500 +0000" stop="20251209100500 +0000" channel="Nick Jr..skyde">
-    <title>Peppa Wutz</title>
-</programme>
-<programme start="20251209100500 +0000" stop="20251209101000 +0000" channel="Nick Jr..skyde">
-    <title>Peppa Wutz</title>
-</programme>
-<programme start="20251209101000 +0000" stop="20251209101500 +0000" channel="Nick Jr..skyde">
-    <title>Peppa Wutz</title>
-</programme>
-<programme start="20251209101500 +0000" stop="20251209102000 +0000" channel="Nick Jr..skyde">
-    <title>Peppa Wutz</title>
-</programme>
-<programme start="20251209102000 +0000" stop="20251209104000 +0000" channel="Nick Jr..skyde">
-    <title>BARBAPAPA und Familie</title>
-</programme>
-<programme start="20251209104000 +0000" stop="20251209110500 +0000" channel="Nick Jr..skyde">
-    <title>BARBAPAPA und Familie</title>
-</programme>
-<programme start="20251209110500 +0000" stop="20251209111500 +0000" channel="Nick Jr..skyde">
-    <title>Rubble &amp; Crew</title>
-</programme>
-<programme start="20251209111500 +0000" stop="20251209113000 +0000" channel="Nick Jr..skyde">
-    <title>Rubble &amp; Crew</title>
-</programme>
-<programme start="20251209113000 +0000" stop="20251209115500 +0000" channel="Nick Jr..skyde">
-    <title>Rubble &amp; Crew</title>
-</programme>
-<programme start="20251209115500 +0000" stop="20251209121500 +0000" channel="Nick Jr..skyde">
-    <title>Paw Patrol: Helfer auf vier Pfoten</title>
-</programme>
-<programme start="20251209121500 +0000" stop="20251209123000 +0000" channel="Nick Jr..skyde">
-    <title>Paw Patrol: Helfer auf vier Pfoten</title>
-</programme>
-<programme start="20251209123000 +0000" stop="20251209125000 +0000" channel="Nick Jr..skyde">
-    <title>BARBAPAPA und Familie</title>
-</programme>
-<programme start="20251209125000 +0000" stop="20251209130500 +0000" channel="Nick Jr..skyde">
-    <title>BARBAPAPA und Familie</title>
-</programme>
-<programme start="20251209130500 +0000" stop="20251209133000 +0000" channel="Nick Jr..skyde">
-    <title>Tim Rex im All</title>
-</programme>
-<programme start="20251209133000 +0000" stop="20251209134000 +0000" channel="Nick Jr..skyde">
-    <title>Rubble &amp; Crew</title>
-</programme>
-<programme start="20251209134000 +0000" stop="20251209135000 +0000" channel="Nick Jr..skyde">
-    <title>Rubble &amp; Crew</title>
-</programme>
-<programme start="20251209135000 +0000" stop="20251209140500 +0000" channel="Nick Jr..skyde">
-    <title>Rubble &amp; Crew</title>
-</programme>
-<programme start="20251209140500 +0000" stop="20251209142500 +0000" channel="Nick Jr..skyde">
-    <title>DORA</title>
-</programme>
-<programme start="20251209142500 +0000" stop="20251209145000 +0000" channel="Nick Jr..skyde">
-    <title>Blaze und die Monster-Maschinen</title>
-</programme>
-<programme start="20251209145000 +0000" stop="20251209151500 +0000" channel="Nick Jr..skyde">
-    <title>BARBAPAPA und Familie</title>
-</programme>
-<programme start="20251209151500 +0000" stop="20251209153500 +0000" channel="Nick Jr..skyde">
-    <title>BARBAPAPA und Familie</title>
-</programme>
-<programme start="20251209153500 +0000" stop="20251209160000 +0000" channel="Nick Jr..skyde">
-    <title>Tim Rex im All</title>
-</programme>
-<programme start="20251209160000 +0000" stop="20251209161000 +0000" channel="Nick Jr..skyde">
-    <title>Rubble &amp; Crew</title>
-</programme>
-<programme start="20251209161000 +0000" stop="20251209162500 +0000" channel="Nick Jr..skyde">
-    <title>Rubble &amp; Crew</title>
-</programme>
-<programme start="20251209162500 +0000" stop="20251209164500 +0000" channel="Nick Jr..skyde">
-    <title>Paw Patrol: Helfer auf vier Pfoten</title>
-</programme>
-<programme start="20251209164500 +0000" stop="20251209170000 +0000" channel="Nick Jr..skyde">
-    <title>Paw Patrol: Helfer auf vier Pfoten</title>
-</programme>
-<programme start="20251209170000 +0000" stop="20251209172500 +0000" channel="Nick Jr..skyde">
-    <title>DORA</title>
-</programme>
-<programme start="20251209172500 +0000" stop="20251209175000 +0000" channel="Nick Jr..skyde">
-    <title>BARBAPAPA und Familie</title>
-</programme>
-<programme start="20251209175000 +0000" stop="20251209180000 +0000" channel="Nick Jr..skyde">
-    <title>BARBAPAPA und Familie</title>
-</programme>
-<programme start="20251209180000 +0000" stop="20251209182500 +0000" channel="Nick Jr..skyde">
-    <title>Tim Rex im All</title>
-</programme>
-<programme start="20251209182500 +0000" stop="20251209184500 +0000" channel="Nick Jr..skyde">
-    <title>Blaze und die Monster-Maschinen</title>
-</programme>
-<programme start="20251209184500 +0000" stop="20251209191000 +0000" channel="Nick Jr..skyde">
-    <title>Paw Patrol: Helfer auf vier Pfoten</title>
-</programme>
-<programme start="20251209191000 +0000" stop="20251209193500 +0000" channel="Nick Jr..skyde">
-    <title>Paw Patrol: Helfer auf vier Pfoten</title>
-</programme>
-<programme start="20251209193500 +0000" stop="20251209194500 +0000" channel="Nick Jr..skyde">
-    <title>Paw Patrol: Helfer auf vier Pfoten</title>
-</programme>
-<programme start="20251209194500 +0000" stop="20251209201000 +0000" channel="Nick Jr..skyde">
-    <title>Rubble &amp; Crew</title>
-</programme>
-<programme start="20251209201000 +0000" stop="20251209203000 +0000" channel="Nick Jr..skyde">
-    <title>Rubble &amp; Crew</title>
-</programme>
-<programme start="20251209203000 +0000" stop="20251209205500 +0000" channel="Nick Jr..skyde">
-    <title>DORA</title>
-</programme>
-<programme start="20251209205500 +0000" stop="20251209212000 +0000" channel="Nick Jr..skyde">
-    <title>Super-Duper-Hasen-Liga</title>
-</programme>
-<programme start="20251209212000 +0000" stop="20251209214000 +0000" channel="Nick Jr..skyde">
-    <title>Baby Sharks große Show</title>
-</programme>
-<programme start="20251209214000 +0000" stop="20251209214500 +0000" channel="Nick Jr..skyde">
-    <title>Peppa Wutz</title>
-</programme>
-<programme start="20251209214500 +0000" stop="20251209215000 +0000" channel="Nick Jr..skyde">
-    <title>Peppa Wutz</title>
-</programme>
-<programme start="20251209215000 +0000" stop="20251209215500 +0000" channel="Nick Jr..skyde">
-    <title>Peppa Wutz</title>
-</programme>
-<programme start="20251209215500 +0000" stop="20251209220000 +0000" channel="Nick Jr..skyde">
-    <title>Peppa Wutz</title>
-</programme>
-<programme start="20251209220000 +0000" stop="20251209220500 +0000" channel="Nick Jr..skyde">
-    <title>Peppa Wutz</title>
-</programme>
-<programme start="20251209220500 +0000" stop="20251209221000 +0000" channel="Nick Jr..skyde">
-    <title>Peppa Wutz</title>
-</programme>
-<programme start="20251209221000 +0000" stop="20251209222000 +0000" channel="Nick Jr..skyde">
-    <title>Peppa Wutz</title>
-</programme>
-<programme start="20251209222000 +0000" stop="20251209224000 +0000" channel="Nick Jr..skyde">
-    <title>BARBAPAPA und Familie</title>
-</programme>
-<programme start="20251209224000 +0000" stop="20251209230500 +0000" channel="Nick Jr..skyde">
-    <title>BARBAPAPA und Familie</title>
 </programme>
 <programme start="20251208231000 +0000" stop="20251209004000 +0000" channel="Romance TV HD.skyde">
     <title>Der Ferienarzt... am Gardasee</title>
@@ -2731,7 +2467,7 @@
 <programme start="20251209193000 +0000" stop="20251209195000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Es folgt: Live UEFA Champions League</title>
 </programme>
-<programme start="20251209195000 +0000" stop="20251209223000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+<programme start="20251209195000 +0000" stop="20251209220000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live UEFA CL: Atalanta Bergamo - FC Chelsea, Ligaphase, 6. Spieltag, Dienstag</title>
 </programme>
 <programme start="20251209193000 +0000" stop="20251209195000 +0000" channel="Sky Sport Austria 5 HD.skyde">
@@ -2743,7 +2479,7 @@
 <programme start="20251209193000 +0000" stop="20251209195000 +0000" channel="Sky Sport Austria 6 HD.skyde">
     <title>Es folgt: Live UEFA Champions League</title>
 </programme>
-<programme start="20251209195000 +0000" stop="20251209223000 +0000" channel="Sky Sport Austria 6 HD.skyde">
+<programme start="20251209195000 +0000" stop="20251209220000 +0000" channel="Sky Sport Austria 6 HD.skyde">
     <title>Live UEFA CL: Tottenham Hotspur - Slavia Prag, Ligaphase, 6. Spieltag, Dienstag</title>
 </programme>
 <programme start="20251209193000 +0000" stop="20251209195000 +0000" channel="Sky Sport Austria 7 HD.skyde">
@@ -3319,16 +3055,16 @@
 <programme start="20251209223000 +0000" stop="20251209233000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>PL: Generation xG</title>
 </programme>
-<programme start="20251209000500 +0000" stop="20251209010500 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20251209000000 +0000" stop="20251209010000 +0000" channel="Sky Sport UHD.skyde">
     <title>F2: 2. Rennen - GP Abu Dhabi</title>
 </programme>
-<programme start="20251209010500 +0000" stop="20251209030500 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20251209010000 +0000" stop="20251209030000 +0000" channel="Sky Sport UHD.skyde">
     <title>DFB-Pokal: Borussia Dortmund - Bayer Leverkusen, Achtelfinale</title>
 </programme>
-<programme start="20251209030500 +0000" stop="20251209050500 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20251209030000 +0000" stop="20251209050000 +0000" channel="Sky Sport UHD.skyde">
     <title>F1: Rennen - GP Abu Dhabi</title>
 </programme>
-<programme start="20251209050500 +0000" stop="20251209070000 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20251209050000 +0000" stop="20251209070000 +0000" channel="Sky Sport UHD.skyde">
     <title>PL: Wolverhampton Wanderers - Manchester United, 15. Spieltag</title>
 </programme>
 <programme start="20251209070000 +0000" stop="20251209071500 +0000" channel="Sky Sport UHD.skyde">
@@ -3340,10 +3076,10 @@
 <programme start="20251209000000 +0000" stop="20251209003000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime</title>
 </programme>
-<programme start="20251209003000 +0000" stop="20251209033000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20251209003000 +0000" stop="20251209030000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Phoenix Suns @ Minnesota Timberwolves</title>
 </programme>
-<programme start="20251209033000 +0000" stop="20251209090000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20251209030000 +0000" stop="20251209090000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime - Post Show</title>
 </programme>
 <programme start="20251208230500 +0000" stop="20251208235000 +0000" channel="SYFY HD.skyde">
@@ -3580,31 +3316,31 @@
 <programme start="20251209041500 +0000" stop="20251209043500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Die Nanny</title>
 </programme>
-<programme start="20251209043500 +0000" stop="20251209050000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251209043500 +0000" stop="20251209050500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Die Nanny</title>
 </programme>
-<programme start="20251209050000 +0000" stop="20251209053000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251209050500 +0000" stop="20251209053000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Die Nanny</title>
 </programme>
-<programme start="20251209053000 +0000" stop="20251209055500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251209053000 +0000" stop="20251209060000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Friends</title>
 </programme>
-<programme start="20251209055500 +0000" stop="20251209062000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251209060000 +0000" stop="20251209062500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Friends</title>
 </programme>
-<programme start="20251209062000 +0000" stop="20251209064500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251209062500 +0000" stop="20251209065000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Friends</title>
 </programme>
-<programme start="20251209064500 +0000" stop="20251209071000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251209065000 +0000" stop="20251209071500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Friends</title>
 </programme>
-<programme start="20251209071000 +0000" stop="20251209074000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251209071500 +0000" stop="20251209074000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Die Nanny</title>
 </programme>
-<programme start="20251209074000 +0000" stop="20251209080500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251209074000 +0000" stop="20251209081000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Die Nanny</title>
 </programme>
-<programme start="20251209080500 +0000" stop="20251209083500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251209081000 +0000" stop="20251209083500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Die Nanny</title>
 </programme>
 <programme start="20251209083500 +0000" stop="20251209090000 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3619,61 +3355,61 @@
 <programme start="20251209095000 +0000" stop="20251209101500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20251209101500 +0000" stop="20251209104000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251209101500 +0000" stop="20251209104500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20251209104000 +0000" stop="20251209110500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251209104500 +0000" stop="20251209111000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Friends</title>
 </programme>
-<programme start="20251209110500 +0000" stop="20251209113000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251209111000 +0000" stop="20251209113500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Friends</title>
 </programme>
-<programme start="20251209113000 +0000" stop="20251209115500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251209113500 +0000" stop="20251209120000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Friends</title>
 </programme>
-<programme start="20251209115500 +0000" stop="20251209122000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251209120000 +0000" stop="20251209122500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Friends</title>
 </programme>
-<programme start="20251209122000 +0000" stop="20251209124000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251209122500 +0000" stop="20251209124500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Young Sheldon</title>
 </programme>
-<programme start="20251209124000 +0000" stop="20251209130500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251209124500 +0000" stop="20251209130500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Young Sheldon</title>
 </programme>
-<programme start="20251209130500 +0000" stop="20251209132500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251209130500 +0000" stop="20251209133000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Young Sheldon</title>
 </programme>
-<programme start="20251209132500 +0000" stop="20251209135000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251209133000 +0000" stop="20251209135500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Young Sheldon</title>
 </programme>
-<programme start="20251209135000 +0000" stop="20251209141500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251209135500 +0000" stop="20251209142000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20251209141500 +0000" stop="20251209144000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251209142000 +0000" stop="20251209144500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20251209144000 +0000" stop="20251209150500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251209144500 +0000" stop="20251209151000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20251209150500 +0000" stop="20251209153000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251209151000 +0000" stop="20251209153500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20251209153000 +0000" stop="20251209155500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251209153500 +0000" stop="20251209155500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Two and a Half Men</title>
 </programme>
-<programme start="20251209155500 +0000" stop="20251209162000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251209155500 +0000" stop="20251209162500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Two and a Half Men</title>
 </programme>
-<programme start="20251209162000 +0000" stop="20251209164500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251209162500 +0000" stop="20251209165000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Two and a Half Men</title>
 </programme>
-<programme start="20251209164500 +0000" stop="20251209171000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251209165000 +0000" stop="20251209171500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Animal Control</title>
 </programme>
-<programme start="20251209171000 +0000" stop="20251209173500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251209171500 +0000" stop="20251209174000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Animal Control</title>
 </programme>
-<programme start="20251209173500 +0000" stop="20251209180000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251209174000 +0000" stop="20251209180000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Big Bang Theory</title>
 </programme>
 <programme start="20251209180000 +0000" stop="20251209182500 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3703,10 +3439,10 @@
 <programme start="20251209211500 +0000" stop="20251209214000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Harley Quinn</title>
 </programme>
-<programme start="20251209214000 +0000" stop="20251209221000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251209214000 +0000" stop="20251209220500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Harley Quinn</title>
 </programme>
-<programme start="20251209221000 +0000" stop="20251209222000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251209220500 +0000" stop="20251209222000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Robot Chicken</title>
 </programme>
 <programme start="20251209222000 +0000" stop="20251209223500 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3715,7 +3451,7 @@
 <programme start="20251209223500 +0000" stop="20251209224500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Robot Chicken</title>
 </programme>
-<programme start="20251209224500 +0000" stop="20251209230500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251209224500 +0000" stop="20251209230000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Robot Chicken</title>
 </programme>
 <programme start="20251208233500 +0000" stop="20251209013500 +0000" channel="Warner TV Film.skyde">

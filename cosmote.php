@@ -54,10 +54,6 @@
     <title>Football: FC Bayern Munchen - Sporting CP</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251209100000 +0700" stop="20251209120000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Hellas Verona - Atalanta</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251209120000 +0700" stop="20251209141000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Volos - Kifisia</title>
     <desc>Live: Tidak</desc>
@@ -110,8 +106,8 @@
     <title>Football: Cremonese - Lecce</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251209110000 +0700" stop="20251209113000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Copa Sudamericana 2025 - Highlights</title>
+<programme start="20251210120000 +0700" stop="20251210141000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: AEL Novibet - Panathinaikos</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251209113000 +0700" stop="20251209151000 +0700" channel="COSMOTE Sport 3 HD">
@@ -230,6 +226,10 @@
     <title>Pick n&#039; Roll</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251210123500 +0700" stop="20251210143500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Armani Milano - Aquila Basket Trento</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251209110000 +0700" stop="20251209122500 +0700" channel="COSMOTE Sport 5 HD">
     <title>DTM</title>
     <desc>Live: Tidak</desc>
@@ -319,6 +319,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251210110000 +0700" stop="20251210122000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>DTM 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251210122000 +0700" stop="20251210135500 +0700" channel="COSMOTE Sport 5 HD">
     <title>DTM 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
@@ -528,14 +532,6 @@
 </programme>
 <programme start="20251210110000 +0700" stop="20251210130000 +0700" channel="COSMOTE Sport 8 HD">
     <title>COSMOTESport8HD</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251209081500 +0700" stop="20251209114500 +0700" channel="COSMOTE Sport 9 HD">
-    <title>American Football: Los Angeles Chargers - Philadelphia Eagles (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20251209114500 +0700" stop="20251209120000 +0700" channel="COSMOTE Sport 9 HD">
-    <title>COSMOTESport9HD</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251209120000 +0700" stop="20251209123000 +0700" channel="COSMOTE Sport 9 HD">

@@ -5284,71 +5284,17 @@
     <programme start="20251208213000 +0000" stop="20251208222000 +0000" channel="TestChannel 996.starhub">
         <title>The Heir to the Throne (with Eng Subs)</title>
     </programme>
+    <programme start="20251208220000 +0000" stop="20251209040000 +0000" channel="TestChannel 996.starhub">
+        <title>End of Transmission</title>
+    </programme>
     <programme start="20251208222000 +0000" stop="20251208231500 +0000" channel="TestChannel 996.starhub">
         <title>Golden City (Ep 751-800) VVD Mandarin</title>
     </programme>
-    <programme start="20251208231500 +0000" stop="20251209003000 +0000" channel="TestChannel 996.starhub">
-        <title>Moonshine</title>
+    <programme start="20251209040000 +0000" stop="20251209100000 +0000" channel="TestChannel 996.starhub">
+        <title>End of Transmission</title>
     </programme>
-    <programme start="20251209003000 +0000" stop="20251209013000 +0000" channel="TestChannel 996.starhub">
-        <title>Duel on Mount Hua - Nine Yin True Sutra</title>
-    </programme>
-    <programme start="20251209013000 +0000" stop="20251209015500 +0000" channel="TestChannel 996.starhub">
-        <title>Lo And Behold</title>
-    </programme>
-    <programme start="20251209015500 +0000" stop="20251209024500 +0000" channel="TestChannel 996.starhub">
-        <title>Golden City (Ep 751-800) VVD Mandarin</title>
-    </programme>
-    <programme start="20251209024500 +0000" stop="20251209033000 +0000" channel="TestChannel 996.starhub">
-        <title>Prism Breaker</title>
-    </programme>
-    <programme start="20251209033000 +0000" stop="20251209041500 +0000" channel="TestChannel 996.starhub">
-        <title>The Wanted Detective</title>
-    </programme>
-    <programme start="20251209041500 +0000" stop="20251209044000 +0000" channel="TestChannel 996.starhub">
-        <title>Lo And Behold</title>
-    </programme>
-    <programme start="20251209044000 +0000" stop="20251209053000 +0000" channel="TestChannel 996.starhub">
-        <title>The Heir to the Throne (with Eng Subs)</title>
-    </programme>
-    <programme start="20251209053000 +0000" stop="20251209062000 +0000" channel="TestChannel 996.starhub">
-        <title>Golden City (Ep 751-800) VVD Mandarin</title>
-    </programme>
-    <programme start="20251209062000 +0000" stop="20251209073000 +0000" channel="TestChannel 996.starhub">
-        <title>The Limbo</title>
-    </programme>
-    <programme start="20251209073000 +0000" stop="20251209081000 +0000" channel="TestChannel 996.starhub">
-        <title>The Limbo</title>
-    </programme>
-    <programme start="20251209081000 +0000" stop="20251209090000 +0000" channel="TestChannel 996.starhub">
-        <title>Duel on Mount Hua - Nine Yin True Sutra</title>
-    </programme>
-    <programme start="20251209090000 +0000" stop="20251209094500 +0000" channel="TestChannel 996.starhub">
-        <title>No Room for Crime</title>
-    </programme>
-    <programme start="20251209094500 +0000" stop="20251209103500 +0000" channel="TestChannel 996.starhub">
-        <title>Golden City (Ep 751-800) VVD Mandarin</title>
-    </programme>
-    <programme start="20251209103500 +0000" stop="20251209110000 +0000" channel="TestChannel 996.starhub">
-        <title>Lo And Behold</title>
-    </programme>
-    <programme start="20251209110000 +0000" stop="20251209120000 +0000" channel="TestChannel 996.starhub">
-        <title>Duel on Mount Hua - Eastern Heretic and Western Venom</title>
-    </programme>
-    <programme start="20251209120000 +0000" stop="20251209130000 +0000" channel="TestChannel 996.starhub">
-        <title>The Queen of News Season 2</title>
-    </programme>
-    <programme start="20251209130000 +0000" stop="20251209140000 +0000" channel="TestChannel 996.starhub">
-        <title>The Wanted Detective</title>
-    </programme>
-    <programme start="20251209140000 +0000" stop="20251209143000 +0000" channel="TestChannel 996.starhub">
-        <title>Lo And Behold</title>
-    </programme>
-    <programme start="20251209143000 +0000" stop="20251209152000 +0000" channel="TestChannel 996.starhub">
-        <title>In Bed With A Stranger</title>
-    </programme>
-    <programme start="20251209152000 +0000" stop="20251209161500 +0000" channel="TestChannel 996.starhub">
-        <title>Golden City (Ep 751-800) VVD Mandarin</title>
+    <programme start="20251209100000 +0000" stop="20251209160000 +0000" channel="TestChannel 996.starhub">
+        <title>End of Transmission</title>
     </programme>
     <programme start="20251208160000 +0000" stop="20251208161500 +0000" channel="Euronews HD.starhub">
         <title>The European debrief</title>
@@ -6910,71 +6856,17 @@
     <programme start="20251208213000 +0000" stop="20251208222000 +0000" channel="TestChannel2.starhub">
         <title>The Heir to the Throne (with Eng Subs)</title>
     </programme>
+    <programme start="20251208220000 +0000" stop="20251209040000 +0000" channel="TestChannel2.starhub">
+        <title>End of Transmission</title>
+    </programme>
     <programme start="20251208222000 +0000" stop="20251208231500 +0000" channel="TestChannel2.starhub">
         <title>Golden City (Ep 751-800) VVD Mandarin</title>
     </programme>
-    <programme start="20251208231500 +0000" stop="20251209003000 +0000" channel="TestChannel2.starhub">
-        <title>Moonshine</title>
+    <programme start="20251209040000 +0000" stop="20251209100000 +0000" channel="TestChannel2.starhub">
+        <title>End of Transmission</title>
     </programme>
-    <programme start="20251209003000 +0000" stop="20251209013000 +0000" channel="TestChannel2.starhub">
-        <title>Duel on Mount Hua - Nine Yin True Sutra</title>
-    </programme>
-    <programme start="20251209013000 +0000" stop="20251209015500 +0000" channel="TestChannel2.starhub">
-        <title>Lo And Behold</title>
-    </programme>
-    <programme start="20251209015500 +0000" stop="20251209024500 +0000" channel="TestChannel2.starhub">
-        <title>Golden City (Ep 751-800) VVD Mandarin</title>
-    </programme>
-    <programme start="20251209024500 +0000" stop="20251209033000 +0000" channel="TestChannel2.starhub">
-        <title>Prism Breaker</title>
-    </programme>
-    <programme start="20251209033000 +0000" stop="20251209041500 +0000" channel="TestChannel2.starhub">
-        <title>The Wanted Detective</title>
-    </programme>
-    <programme start="20251209041500 +0000" stop="20251209044000 +0000" channel="TestChannel2.starhub">
-        <title>Lo And Behold</title>
-    </programme>
-    <programme start="20251209044000 +0000" stop="20251209053000 +0000" channel="TestChannel2.starhub">
-        <title>The Heir to the Throne (with Eng Subs)</title>
-    </programme>
-    <programme start="20251209053000 +0000" stop="20251209062000 +0000" channel="TestChannel2.starhub">
-        <title>Golden City (Ep 751-800) VVD Mandarin</title>
-    </programme>
-    <programme start="20251209062000 +0000" stop="20251209073000 +0000" channel="TestChannel2.starhub">
-        <title>The Limbo</title>
-    </programme>
-    <programme start="20251209073000 +0000" stop="20251209081000 +0000" channel="TestChannel2.starhub">
-        <title>The Limbo</title>
-    </programme>
-    <programme start="20251209081000 +0000" stop="20251209090000 +0000" channel="TestChannel2.starhub">
-        <title>Duel on Mount Hua - Nine Yin True Sutra</title>
-    </programme>
-    <programme start="20251209090000 +0000" stop="20251209094500 +0000" channel="TestChannel2.starhub">
-        <title>No Room for Crime</title>
-    </programme>
-    <programme start="20251209094500 +0000" stop="20251209103500 +0000" channel="TestChannel2.starhub">
-        <title>Golden City (Ep 751-800) VVD Mandarin</title>
-    </programme>
-    <programme start="20251209103500 +0000" stop="20251209110000 +0000" channel="TestChannel2.starhub">
-        <title>Lo And Behold</title>
-    </programme>
-    <programme start="20251209110000 +0000" stop="20251209120000 +0000" channel="TestChannel2.starhub">
-        <title>Duel on Mount Hua - Eastern Heretic and Western Venom</title>
-    </programme>
-    <programme start="20251209120000 +0000" stop="20251209130000 +0000" channel="TestChannel2.starhub">
-        <title>The Queen of News Season 2</title>
-    </programme>
-    <programme start="20251209130000 +0000" stop="20251209140000 +0000" channel="TestChannel2.starhub">
-        <title>The Wanted Detective</title>
-    </programme>
-    <programme start="20251209140000 +0000" stop="20251209143000 +0000" channel="TestChannel2.starhub">
-        <title>Lo And Behold</title>
-    </programme>
-    <programme start="20251209143000 +0000" stop="20251209152000 +0000" channel="TestChannel2.starhub">
-        <title>In Bed With A Stranger</title>
-    </programme>
-    <programme start="20251209152000 +0000" stop="20251209161500 +0000" channel="TestChannel2.starhub">
-        <title>Golden City (Ep 751-800) VVD Mandarin</title>
+    <programme start="20251209100000 +0000" stop="20251209160000 +0000" channel="TestChannel2.starhub">
+        <title>End of Transmission</title>
     </programme>
     <programme start="20251208160000 +0000" stop="20251208163000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>NHK Newsline</title>
