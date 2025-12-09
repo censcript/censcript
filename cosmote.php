@@ -162,10 +162,6 @@
     <title>Football: SL Benfica - SSC Napoli (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251210010000 +0700" stop="20251210031000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Karditsa - Mersin MSK (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
 <programme start="20251210031000 +0700" stop="20251210044500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Pick n&#039; Roll (L)</title>
     <desc>Live: Ya</desc>
