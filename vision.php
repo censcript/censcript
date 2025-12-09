@@ -688,6 +688,9 @@
 <programme start="20251209093000 +0000" stop="20251209110000 +0000" channel="ANTV.vision">
 <title>Takdir Cinta Layla</title>
 </programme>
+<programme start="20251209110000 +0000" stop="20251209123000 +0000" channel="ANTV.vision">
+<title>Jampang 2</title>
+</programme>
 <programme start="20251209123000 +0000" stop="20251209140000 +0000" channel="ANTV.vision">
 <title>Santet 2: Wanita Harimau</title>
 </programme>
@@ -1493,8 +1496,5 @@
 <title>BTV</title>
 </programme>
 <programme start="20251208230000 +0000" stop="20251209010000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20251209010000 +0000" stop="20251209030000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
