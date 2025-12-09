@@ -4838,7 +4838,7 @@
         <title>Happy Couples</title>
     </programme>
     <programme start="20251208190000 +0000" stop="20251208220000 +0000" channel="Asianet.starhub">
-        <title>Movie</title>
+        <title>83 (Mal-dub)</title>
     </programme>
     <programme start="20251208220000 +0000" stop="20251208223000 +0000" channel="Asianet.starhub">
         <title>Pavithram</title>
@@ -5260,35 +5260,11 @@
     <programme start="20251209153500 +0000" stop="20251209165000 +0000" channel="KBS World HD.starhub">
         <title>The Merchant : Gaekju 2015</title>
     </programme>
-    <programme start="20251208152000 +0000" stop="20251208161500 +0000" channel="TestChannel 996.starhub">
-        <title>Golden City (Ep 751-800) VVD Mandarin</title>
-    </programme>
-    <programme start="20251208161500 +0000" stop="20251208173000 +0000" channel="TestChannel 996.starhub">
-        <title>Moonshine</title>
-    </programme>
-    <programme start="20251208173000 +0000" stop="20251208183000 +0000" channel="TestChannel 996.starhub">
-        <title>Duel on Mount Hua - Nine Yin True Sutra</title>
-    </programme>
-    <programme start="20251208183000 +0000" stop="20251208190000 +0000" channel="TestChannel 996.starhub">
-        <title>Lo And Behold</title>
-    </programme>
-    <programme start="20251208190000 +0000" stop="20251208200000 +0000" channel="TestChannel 996.starhub">
-        <title>Prism Breaker</title>
-    </programme>
-    <programme start="20251208200000 +0000" stop="20251208210000 +0000" channel="TestChannel 996.starhub">
-        <title>The Wanted Detective</title>
-    </programme>
-    <programme start="20251208210000 +0000" stop="20251208213000 +0000" channel="TestChannel 996.starhub">
-        <title>Lo And Behold</title>
-    </programme>
-    <programme start="20251208213000 +0000" stop="20251208222000 +0000" channel="TestChannel 996.starhub">
-        <title>The Heir to the Throne (with Eng Subs)</title>
+    <programme start="20251208160000 +0000" stop="20251208220000 +0000" channel="TestChannel 996.starhub">
+        <title>End of Transmission</title>
     </programme>
     <programme start="20251208220000 +0000" stop="20251209040000 +0000" channel="TestChannel 996.starhub">
         <title>End of Transmission</title>
-    </programme>
-    <programme start="20251208222000 +0000" stop="20251208231500 +0000" channel="TestChannel 996.starhub">
-        <title>Golden City (Ep 751-800) VVD Mandarin</title>
     </programme>
     <programme start="20251209040000 +0000" stop="20251209100000 +0000" channel="TestChannel 996.starhub">
         <title>End of Transmission</title>
@@ -6832,35 +6808,11 @@
     <programme start="20251209145500 +0000" stop="20251209170000 +0000" channel="beIN Sports HD.starhub">
         <title>UEFA Youth League 2025/26: Inter vs Liverpool- MD6 (Live)</title>
     </programme>
-    <programme start="20251208152000 +0000" stop="20251208161500 +0000" channel="TestChannel2.starhub">
-        <title>Golden City (Ep 751-800) VVD Mandarin</title>
-    </programme>
-    <programme start="20251208161500 +0000" stop="20251208173000 +0000" channel="TestChannel2.starhub">
-        <title>Moonshine</title>
-    </programme>
-    <programme start="20251208173000 +0000" stop="20251208183000 +0000" channel="TestChannel2.starhub">
-        <title>Duel on Mount Hua - Nine Yin True Sutra</title>
-    </programme>
-    <programme start="20251208183000 +0000" stop="20251208190000 +0000" channel="TestChannel2.starhub">
-        <title>Lo And Behold</title>
-    </programme>
-    <programme start="20251208190000 +0000" stop="20251208200000 +0000" channel="TestChannel2.starhub">
-        <title>Prism Breaker</title>
-    </programme>
-    <programme start="20251208200000 +0000" stop="20251208210000 +0000" channel="TestChannel2.starhub">
-        <title>The Wanted Detective</title>
-    </programme>
-    <programme start="20251208210000 +0000" stop="20251208213000 +0000" channel="TestChannel2.starhub">
-        <title>Lo And Behold</title>
-    </programme>
-    <programme start="20251208213000 +0000" stop="20251208222000 +0000" channel="TestChannel2.starhub">
-        <title>The Heir to the Throne (with Eng Subs)</title>
+    <programme start="20251208160000 +0000" stop="20251208220000 +0000" channel="TestChannel2.starhub">
+        <title>End of Transmission</title>
     </programme>
     <programme start="20251208220000 +0000" stop="20251209040000 +0000" channel="TestChannel2.starhub">
         <title>End of Transmission</title>
-    </programme>
-    <programme start="20251208222000 +0000" stop="20251208231500 +0000" channel="TestChannel2.starhub">
-        <title>Golden City (Ep 751-800) VVD Mandarin</title>
     </programme>
     <programme start="20251209040000 +0000" stop="20251209100000 +0000" channel="TestChannel2.starhub">
         <title>End of Transmission</title>
@@ -7825,11 +7777,8 @@
     <programme start="20251209153000 +0000" stop="20251209160000 +0000" channel="ABC Australia HD.starhub">
         <title>Cat</title>
     </programme>
-    <programme start="20251208160000 +0000" stop="20251208183000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251208160000 +0000" stop="20251208204000 +0000" channel="Asianet Movies.starhub">
         <title>Chettayees</title>
-    </programme>
-    <programme start="20251208183000 +0000" stop="20251208204000 +0000" channel="Asianet Movies.starhub">
-        <title>Nayattu</title>
     </programme>
     <programme start="20251208204000 +0000" stop="20251208223000 +0000" channel="Asianet Movies.starhub">
         <title>Arjun Reddy</title>
