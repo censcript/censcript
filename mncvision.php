@@ -7484,10 +7484,10 @@
     <title>Gold Fever S3, Ep 2</title>
 </programme>
 <programme start="20251208181500 +0000" stop="20251208190000 +0000" channel="RCTI.mncvision">
-    <title>Mega Film TV Malam</title>
+    <title>Rasa Kangenku Ojo Dibanding...</title>
 </programme>
 <programme start="20251208190000 +0000" stop="20251208200000 +0000" channel="RCTI.mncvision">
-    <title>Mega Film TV Malam</title>
+    <title>Rasa Kangenku Ojo Dibanding...</title>
 </programme>
 <programme start="20251208200000 +0000" stop="20251208224500 +0000" channel="RCTI.mncvision">
     <title>Preman Pensiun S6</title>
@@ -7538,10 +7538,10 @@
     <title>33th SEA Games Thailand 2025</title>
 </programme>
 <programme start="20251208181500 +0000" stop="20251208190000 +0000" channel="RCTI HD.mncvision">
-    <title>Mega Film TV Malam</title>
+    <title>Rasa Kangenku Ojo Dibanding...</title>
 </programme>
 <programme start="20251208190000 +0000" stop="20251208200000 +0000" channel="RCTI HD.mncvision">
-    <title>Mega Film TV Malam</title>
+    <title>Rasa Kangenku Ojo Dibanding...</title>
 </programme>
 <programme start="20251208200000 +0000" stop="20251208224500 +0000" channel="RCTI HD.mncvision">
     <title>Preman Pensiun S6</title>

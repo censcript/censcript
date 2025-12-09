@@ -50,6 +50,10 @@
     <title>Football: FC Barcelona - Eintracht Frankfurt</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251210180000 +0700" stop="20251210200000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: FC Internazionale Milano - Liverpool FC</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251209161000 +0700" stop="20251209181000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Hellas Verona - Atalanta</title>
     <desc>Live: Tidak</desc>
@@ -106,8 +110,8 @@
     <title>Football: Cremonese - Lecce</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251209151000 +0700" stop="20251209171000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Famalicao - SC Braga</title>
+<programme start="20251210181000 +0700" stop="20251210202500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: AEK - Atromitos</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251209171000 +0700" stop="20251209190000 +0700" channel="COSMOTE Sport 3 HD">
@@ -174,8 +178,8 @@
     <title>Football: Kilmarnock - Rangers FC</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251209152500 +0700" stop="20251209172500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Virtus Bologna - Bertram Derthona Tortona</title>
+<programme start="20251210183500 +0700" stop="20251210203500 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: PAOK - Legia Warszawa</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251209172500 +0700" stop="20251209195500 +0700" channel="COSMOTE Sport 4 HD">
@@ -230,8 +234,8 @@
     <title>Basketball: Tenerife - Real Madrid</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251209162000 +0700" stop="20251209170500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Moto-E World Championship 2025</title>
+<programme start="20251210181500 +0700" stop="20251210201500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Virtus Bologna - Bertram Derthona Tortona</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251209170500 +0700" stop="20251209191000 +0700" channel="COSMOTE Sport 5 HD">
@@ -330,8 +334,8 @@
     <title>2025 Extreme H</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251209153000 +0700" stop="20251209173000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>CEV Beach Volleyball European Cup 2025</title>
+<programme start="20251210184500 +0700" stop="20251210191500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Highlights: ROC Nations Cup 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251209173000 +0700" stop="20251209183000 +0700" channel="COSMOTE Sport 6 HD">
@@ -408,6 +412,10 @@
 </programme>
 <programme start="20251210175500 +0700" stop="20251210183000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Watersports: Inside Sailing E11</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251210183000 +0700" stop="20251210193000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Beach Volley: Pro Tour Elite 16 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251209170000 +0700" stop="20251209190000 +0700" channel="COSMOTE Sport 7 HD">
