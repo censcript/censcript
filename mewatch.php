@@ -700,44 +700,47 @@
     <programme start="20251209150000 +0000" stop="20251209170000 +0000" channel="now-80s.mewatch">
         <title>High NRG! 1984-1989 - EP1</title>
     </programme>
-    <programme start="20251208160000 +0000" stop="20251208172500 +0000" channel="now-70s.mewatch">
-        <title>Gone...But Not Forgotten Top 25 - EP1</title>
+    <programme start="20251208160000 +0000" stop="20251208183500 +0000" channel="now-70s.mewatch">
+        <title>The NOW Yearbook 1973 - EP1</title>
     </programme>
-    <programme start="20251208172500 +0000" stop="20251208203000 +0000" channel="now-70s.mewatch">
-        <title>Bruno Brookes UK Top 40 of the 70s - EP1</title>
+    <programme start="20251208183500 +0000" stop="20251208190000 +0000" channel="now-70s.mewatch">
+        <title>Glam Rock Day! - EP1</title>
     </programme>
-    <programme start="20251208203000 +0000" stop="20251208210000 +0000" channel="now-70s.mewatch">
-        <title>Help Me Make It Through the Night! - EP1</title>
+    <programme start="20251208190000 +0000" stop="20251208194500 +0000" channel="now-70s.mewatch">
+        <title>T.Rex &amp; Marc Bolan: 1970-1973 - EP1</title>
     </programme>
-    <programme start="20251208210000 +0000" stop="20251209014500 +0000" channel="now-70s.mewatch">
-        <title>70s v 80s Mixtape! - EP1</title>
+    <programme start="20251208194500 +0000" stop="20251208200000 +0000" channel="now-70s.mewatch">
+        <title>Glam Rock Day! - EP1</title>
     </programme>
-    <programme start="20251209014500 +0000" stop="20251209020000 +0000" channel="now-70s.mewatch">
-        <title>1970 Unleashed! - EP1</title>
+    <programme start="20251208200000 +0000" stop="20251208210000 +0000" channel="now-70s.mewatch">
+        <title>Hellraisers! Sweet vs Slade - EP1</title>
     </programme>
-    <programme start="20251209020000 +0000" stop="20251209070000 +0000" channel="now-70s.mewatch">
-        <title>Top Singalongs! 1970-1979 - EP1</title>
+    <programme start="20251208210000 +0000" stop="20251208220000 +0000" channel="now-70s.mewatch">
+        <title>Glam Rock Day! - EP1</title>
     </programme>
-    <programme start="20251209070000 +0000" stop="20251209093000 +0000" channel="now-70s.mewatch">
-        <title>Limahl&#039;s Never Ending Soundtracks! - EP1</title>
+    <programme start="20251208220000 +0000" stop="20251209013000 +0000" channel="now-70s.mewatch">
+        <title>Blockbusters! 50 Stomping Hits - EP1</title>
     </programme>
-    <programme start="20251209093000 +0000" stop="20251209103000 +0000" channel="now-70s.mewatch">
-        <title>Gone...But Not Forgotten Top 25 - EP1</title>
+    <programme start="20251209013000 +0000" stop="20251209020000 +0000" channel="now-70s.mewatch">
+        <title>As Noddy Says.. It&#039;s Christmaaas! - EP1</title>
     </programme>
-    <programme start="20251209103000 +0000" stop="20251209110000 +0000" channel="now-70s.mewatch">
-        <title>Wings v Fleetwood Mac! - EP1</title>
+    <programme start="20251209020000 +0000" stop="20251209101000 +0000" channel="now-70s.mewatch">
+        <title>The NOW 100 of the 70s - EP1</title>
     </programme>
-    <programme start="20251209110000 +0000" stop="20251209120000 +0000" channel="now-70s.mewatch">
-        <title>Killer Queen! 1974-1979 - EP1</title>
+    <programme start="20251209101000 +0000" stop="20251209110000 +0000" channel="now-70s.mewatch">
+        <title>Boogie Nights! - EP1</title>
     </programme>
-    <programme start="20251209120000 +0000" stop="20251209152500 +0000" channel="now-70s.mewatch">
-        <title>Simon Bates 70s Pop! Top 50 - EP1</title>
+    <programme start="20251209110000 +0000" stop="20251209141500 +0000" channel="now-70s.mewatch">
+        <title>Simon Bates: Disco Inferno! - EP1</title>
     </programme>
-    <programme start="20251209152500 +0000" stop="20251209160000 +0000" channel="now-70s.mewatch">
-        <title>Let The Good Times Roll! - EP1</title>
+    <programme start="20251209141500 +0000" stop="20251209150000 +0000" channel="now-70s.mewatch">
+        <title>Boogie Nights! - EP1</title>
     </programme>
-    <programme start="20251209160000 +0000" stop="20251209162500 +0000" channel="now-70s.mewatch">
-        <title>Wings v Fleetwood Mac! - EP1</title>
+    <programme start="20251209150000 +0000" stop="20251209160000 +0000" channel="now-70s.mewatch">
+        <title>25 Disco Divas! - EP1</title>
+    </programme>
+    <programme start="20251209160000 +0000" stop="20251209211000 +0000" channel="now-70s.mewatch">
+        <title>The NOW 100 of the 70s - EP1</title>
     </programme>
     <programme start="20251208150000 +0000" stop="20251208163500 +0000" channel="cinemaworld.mewatch">
         <title>Open Door</title>
