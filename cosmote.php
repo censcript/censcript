@@ -54,14 +54,6 @@
     <title>Football: Tottenham Hotspur - SK Slavia Praha</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251209075000 +0700" stop="20251209095000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Udinese - Genoa</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251209095000 +0700" stop="20251209100000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Sports Highlights</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251209100000 +0700" stop="20251209120000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Hellas Verona - Atalanta</title>
     <desc>Live: Tidak</desc>
@@ -112,6 +104,10 @@
 </programme>
 <programme start="20251210080000 +0700" stop="20251210100000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: FC Kairat Almaty - Olympiacos</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251210100000 +0700" stop="20251210120000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Cremonese - Lecce</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251209081000 +0700" stop="20251209101000 +0700" channel="COSMOTE Sport 3 HD">
@@ -332,10 +328,6 @@
 </programme>
 <programme start="20251210095000 +0700" stop="20251210110000 +0700" channel="COSMOTE Sport 5 HD">
     <title>2025 Extreme H</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251209062000 +0700" stop="20251209100000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Fight Sports: Oktagon 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251209100000 +0700" stop="20251209110000 +0700" channel="COSMOTE Sport 6 HD">
