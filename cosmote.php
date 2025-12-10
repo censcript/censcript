@@ -230,10 +230,6 @@
     <title>Football: Samsunspor - AEK (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251211005000 +0700" stop="20251211014500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251211014500 +0700" stop="20251211030000 +0700" channel="COSMOTE Sport 5 HD">
     <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
@@ -418,14 +414,6 @@
     <title>Football: GNK Dinamo - Real Betis Balompie (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251210230000 +0700" stop="20251211013000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>Volleyball: Ziraat Bankasi SK Ankara - Tours VB (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20251211013000 +0700" stop="20251211020000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251211020000 +0700" stop="20251211023000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
@@ -498,10 +486,6 @@
     <title>Football: Utrecht - Nottingham F. (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251211010000 +0700" stop="20251211020000 +0700" channel="COSMOTE Sport 8 HD">
-    <title>COSMOTESport8HD</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251211020000 +0700" stop="20251211023000 +0700" channel="COSMOTE Sport 8 HD">
     <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
@@ -573,10 +557,6 @@
 <programme start="20251212004500 +0700" stop="20251212030000 +0700" channel="COSMOTE Sport 8 HD">
     <title>Football: ACF Fiorentina - FC Dynamo Kyiv (L)</title>
     <desc>Live: Ya</desc>
-</programme>
-<programme start="20251211010000 +0700" stop="20251211020000 +0700" channel="COSMOTE Sport 9 HD">
-    <title>COSMOTESport9HD</title>
-    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251211020000 +0700" stop="20251211023000 +0700" channel="COSMOTE Sport 9 HD">
     <title>COSMOTESport9HD</title>
