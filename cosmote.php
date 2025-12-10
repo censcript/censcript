@@ -114,6 +114,10 @@
     <title>Football: Olympiacos - OFI</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251211203000 +0700" stop="20251211223000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Cagliari - AS Roma</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251210183500 +0700" stop="20251210203500 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: PAOK - Legia Warszawa</title>
     <desc>Live: Tidak</desc>
@@ -323,6 +327,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251211193000 +0700" stop="20251211203000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Red Bull MotoGP Rookies Cup 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251211203000 +0700" stop="20251211213000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Red Bull MotoGP Rookies Cup 2025</title>
     <desc>Live: Tidak</desc>
 </programme>

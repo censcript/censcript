@@ -106,8 +106,11 @@
     <programme start="20251210073000 +0000" stop="20251210080000 +0000" channel="Channel 5.mewatch">
         <title>Provocative - EP 180</title>
     </programme>
-    <programme start="20251210080000 +0000" stop="20251210130000 +0000" channel="Channel 5.mewatch">
+    <programme start="20251210080000 +0000" stop="20251210110000 +0000" channel="Channel 5.mewatch">
         <title>33rd SEA Games 2025: Daily Action At The Games - EP 1</title>
+    </programme>
+    <programme start="20251210110000 +0000" stop="20251210130000 +0000" channel="Channel 5.mewatch">
+        <title>33rd SEA Games 2025: Daily Action At The Games - EP 2</title>
     </programme>
     <programme start="20251210130000 +0000" stop="20251210133000 +0000" channel="Channel 5.mewatch">
         <title>(Live) News Tonight</title>
