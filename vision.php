@@ -670,9 +670,6 @@
 <programme start="20251210140000 +0000" stop="20251210160000 +0000" channel="ANTV.vision">
 <title>Tawa Kalcer</title>
 </programme>
-<programme start="20251210160000 +0000" stop="20251210180000 +0000" channel="ANTV.vision">
-<title>Slaughter In San Francisco</title>
-</programme>
 <programme start="20251210180000 +0000" stop="20251210200000 +0000" channel="ANTV.vision">
 <title>The Minion</title>
 </programme>
@@ -1496,5 +1493,8 @@
 <title>TVRI</title>
 </programme>
 <programme start="20251211030000 +0000" stop="20251211050000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251211050000 +0000" stop="20251211070000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
