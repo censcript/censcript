@@ -2591,7 +2591,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251210221500 +0000" stop="20251210231000 +0000" channel="Sky Showcase HD.skyde">
     <title>Red Eye</title>
 </programme>
-<programme start="20251209230000 +0000" stop="20251210010000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20251209230500 +0000" stop="20251210010000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA CL: Inter Mailand - FC Liverpool, Ligaphase, 6. Spieltag, Dienstag</title>
 </programme>
 <programme start="20251210010000 +0000" stop="20251210013000 +0000" channel="Sky Sport Austria 1 HD.skyde">
@@ -2672,7 +2672,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251210173500 +0000" stop="20251210195000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live UEFA CL: FK Qarabag - Ajax Amsterdam, Ligaphase, 6. Spieltag, Mittwoch</title>
 </programme>
-<programme start="20251210195000 +0000" stop="20251210220000 +0000" channel="Sky Sport Austria 3 HD.skyde">
+<programme start="20251210195000 +0000" stop="20251210223000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live UEFA CL: Athletic Bilbao - Paris Saint-Germain, Ligaphase, 6. Spieltag, Mittwoch</title>
 </programme>
 <programme start="20251210164000 +0000" stop="20251210170000 +0000" channel="Sky Sport Austria 4 HD.skyde">
@@ -2684,7 +2684,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251210173500 +0000" stop="20251210195000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live UEFA CL: FC Villarreal - FC Kopenhagen, Ligaphase, 6. Spieltag, Mittwoch</title>
 </programme>
-<programme start="20251210195000 +0000" stop="20251210220000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+<programme start="20251210195000 +0000" stop="20251210223000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live UEFA CL: Club Brügge - FC Arsenal, Ligaphase, 6. Spieltag, Mittwoch</title>
 </programme>
 <programme start="20251210193000 +0000" stop="20251210195000 +0000" channel="Sky Sport Austria 5 HD.skyde">

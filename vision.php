@@ -466,9 +466,6 @@
 <programme start="20251211114500 +0000" stop="20251211121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
-<programme start="20251209230000 +0000" stop="20251210010000 +0000" channel="ANTV.vision">
-<title>Raja Dangdut</title>
-</programme>
 <programme start="20251210010000 +0000" stop="20251210030000 +0000" channel="ANTV.vision">
 <title>Zeynep</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20251211040500 +0000" stop="20251211053000 +0000" channel="MDTV.vision">
 <title>Cerita Nyata</title>
+</programme>
+<programme start="20251211053000 +0000" stop="20251211071000 +0000" channel="MDTV.vision">
+<title>Cinta Fitri S5</title>
 </programme>
