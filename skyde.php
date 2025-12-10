@@ -2660,7 +2660,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251210190000 +0000" stop="20251210195000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live Die UEFA CL am Mittwoch: Vorbericht</title>
 </programme>
-<programme start="20251210195000 +0000" stop="20251210221500 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20251210195000 +0000" stop="20251210224500 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live UEFA CL: Borussia Dortmund - FK Bodo/Glimt, Ligaphase, 6. Spieltag, Mittwoch</title>
 </programme>
 <programme start="20251210164000 +0000" stop="20251210170000 +0000" channel="Sky Sport Austria 3 HD.skyde">
@@ -2690,19 +2690,19 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251210193000 +0000" stop="20251210195000 +0000" channel="Sky Sport Austria 5 HD.skyde">
     <title>Es folgt: Live UEFA Champions League</title>
 </programme>
-<programme start="20251210195000 +0000" stop="20251210220000 +0000" channel="Sky Sport Austria 5 HD.skyde">
+<programme start="20251210195000 +0000" stop="20251210223000 +0000" channel="Sky Sport Austria 5 HD.skyde">
     <title>Live UEFA CL: Bayer Leverkusen - Newcastle United, Ligaphase, 6. Spieltag, Mittwoch</title>
 </programme>
 <programme start="20251210193000 +0000" stop="20251210195000 +0000" channel="Sky Sport Austria 6 HD.skyde">
     <title>Es folgt: Live UEFA Champions League</title>
 </programme>
-<programme start="20251210195000 +0000" stop="20251210220000 +0000" channel="Sky Sport Austria 6 HD.skyde">
+<programme start="20251210195000 +0000" stop="20251210223000 +0000" channel="Sky Sport Austria 6 HD.skyde">
     <title>Live UEFA CL: Benfica Lissabon - SSC Neapel, Ligaphase, 6. Spieltag, Mittwoch</title>
 </programme>
 <programme start="20251210193000 +0000" stop="20251210195000 +0000" channel="Sky Sport Austria 7 HD.skyde">
     <title>Es folgt: Live UEFA Champions League</title>
 </programme>
-<programme start="20251210195000 +0000" stop="20251210220000 +0000" channel="Sky Sport Austria 7 HD.skyde">
+<programme start="20251210195000 +0000" stop="20251210223000 +0000" channel="Sky Sport Austria 7 HD.skyde">
     <title>Live UEFA CL: Juventus Turin - FC Pafos, Ligaphase, 6. Spieltag, Mittwoch</title>
 </programme>
 <programme start="20251209233000 +0000" stop="20251210013000 +0000" channel="Sky Sport Bundesliga HD.skyde">
