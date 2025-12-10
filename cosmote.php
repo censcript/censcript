@@ -58,8 +58,8 @@
     <title>Football: Borussia Dortmund - FK Bodo/Glimt</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251210100000 +0700" stop="20251210120000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Cremonese - Lecce</title>
+<programme start="20251211125500 +0700" stop="20251211145000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: Bayer 04 Leverkusen - Newcastle United</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251210120000 +0700" stop="20251210141000 +0700" channel="COSMOTE Sport 2 HD">
@@ -112,6 +112,10 @@
 </programme>
 <programme start="20251211100000 +0700" stop="20251211120000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Udinese - Genoa</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251211120000 +0700" stop="20251211141500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: AEK - Atromitos</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251210110000 +0700" stop="20251210143500 +0700" channel="COSMOTE Sport 3 HD">
@@ -319,6 +323,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251211110000 +0700" stop="20251211124000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>DTM 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251211124000 +0700" stop="20251211140000 +0700" channel="COSMOTE Sport 5 HD">
     <title>DTM 2025</title>
     <desc>Live: Tidak</desc>
 </programme>

@@ -4681,6 +4681,144 @@
 <programme start="20251210160000 +0000" stop="20251210163000 +0000" channel="Indosiar HD.mncvision">
     <title>Mega Film Asia</title>
 </programme>
+<programme start="20251209170000 +0000" stop="20251209180000 +0000" channel="iNews.mncvision">
+    <title>Realita</title>
+</programme>
+<programme start="20251209180000 +0000" stop="20251209193000 +0000" channel="iNews.mncvision">
+    <title>Opening Ceremony SEA Games</title>
+</programme>
+<programme start="20251209193000 +0000" stop="20251209201500 +0000" channel="iNews.mncvision">
+    <title>iNews Sore</title>
+</programme>
+<programme start="20251209201500 +0000" stop="20251209210000 +0000" channel="iNews.mncvision">
+    <title>Special Report</title>
+</programme>
+<programme start="20251209210000 +0000" stop="20251209211500 +0000" channel="iNews.mncvision">
+    <title>iNews Sport</title>
+</programme>
+<programme start="20251209211500 +0000" stop="20251209230000 +0000" channel="iNews.mncvision">
+    <title>iNews Pagi (L)</title>
+</programme>
+<programme start="20251209230000 +0000" stop="20251209230200 +0000" channel="iNews.mncvision">
+    <title>Indonesia Raya</title>
+</programme>
+<programme start="20251209230200 +0000" stop="20251209233000 +0000" channel="iNews.mncvision">
+    <title>iNews Sport Pagi (L)</title>
+</programme>
+<programme start="20251209233000 +0000" stop="20251210000000 +0000" channel="iNews.mncvision">
+    <title>iBreak: The One Entrepreneur</title>
+</programme>
+<programme start="20251210000000 +0000" stop="20251210003000 +0000" channel="iNews.mncvision">
+    <title>Special Report</title>
+</programme>
+<programme start="20251210003000 +0000" stop="20251210010000 +0000" channel="iNews.mncvision">
+    <title>Morning Update</title>
+</programme>
+<programme start="20251210010000 +0000" stop="20251210020000 +0000" channel="iNews.mncvision">
+    <title>Lapor Polisi (L)</title>
+</programme>
+<programme start="20251210020000 +0000" stop="20251210030000 +0000" channel="iNews.mncvision">
+    <title>iNews Today (L)</title>
+</programme>
+<programme start="20251210030000 +0000" stop="20251210060000 +0000" channel="iNews.mncvision">
+    <title>SEA Games Thailand 2025 (L)</title>
+</programme>
+<programme start="20251210060000 +0000" stop="20251210063000 +0000" channel="iNews.mncvision">
+    <title>Pemimpin Rakyat (L)</title>
+</programme>
+<programme start="20251210063000 +0000" stop="20251210080000 +0000" channel="iNews.mncvision">
+    <title>iSeleb (L)</title>
+</programme>
+<programme start="20251210080000 +0000" stop="20251210110000 +0000" channel="iNews.mncvision">
+    <title>SEA Games Thailand 2025 (L)</title>
+</programme>
+<programme start="20251210110000 +0000" stop="20251210120000 +0000" channel="iNews.mncvision">
+    <title>iNews Sore (L)</title>
+</programme>
+<programme start="20251210120000 +0000" stop="20251210141500 +0000" channel="iNews.mncvision">
+    <title>ACL Two: PSB Vs BKU (L)</title>
+</programme>
+<programme start="20251210141500 +0000" stop="20251210151500 +0000" channel="iNews.mncvision">
+    <title>iNews Prime (L)</title>
+</programme>
+<programme start="20251210151500 +0000" stop="20251210160000 +0000" channel="iNews.mncvision">
+    <title>iNews Malam (L)</title>
+</programme>
+<programme start="20251210160000 +0000" stop="20251210163000 +0000" channel="iNews.mncvision">
+    <title>iNews Sport (L)</title>
+</programme>
+<programme start="20251210163000 +0000" stop="20251209170000 +0000" channel="iNews.mncvision">
+    <title>New Top Files</title>
+</programme>
+<programme start="20251209170000 +0000" stop="20251209180000 +0000" channel="iNews HD.mncvision">
+    <title>Realita</title>
+</programme>
+<programme start="20251209180000 +0000" stop="20251209193000 +0000" channel="iNews HD.mncvision">
+    <title>Opening Ceremony SEA Games</title>
+</programme>
+<programme start="20251209193000 +0000" stop="20251209201500 +0000" channel="iNews HD.mncvision">
+    <title>iNews Sore</title>
+</programme>
+<programme start="20251209201500 +0000" stop="20251209210000 +0000" channel="iNews HD.mncvision">
+    <title>Special Report</title>
+</programme>
+<programme start="20251209210000 +0000" stop="20251209211500 +0000" channel="iNews HD.mncvision">
+    <title>iNews Sport</title>
+</programme>
+<programme start="20251209211500 +0000" stop="20251209230000 +0000" channel="iNews HD.mncvision">
+    <title>iNews Pagi (L)</title>
+</programme>
+<programme start="20251209230000 +0000" stop="20251209230200 +0000" channel="iNews HD.mncvision">
+    <title>Indonesia Raya</title>
+</programme>
+<programme start="20251209230200 +0000" stop="20251209233000 +0000" channel="iNews HD.mncvision">
+    <title>iNews Sport Pagi (L)</title>
+</programme>
+<programme start="20251209233000 +0000" stop="20251210000000 +0000" channel="iNews HD.mncvision">
+    <title>iBreak: The One Entrepreneur</title>
+</programme>
+<programme start="20251210000000 +0000" stop="20251210003000 +0000" channel="iNews HD.mncvision">
+    <title>Special Report</title>
+</programme>
+<programme start="20251210003000 +0000" stop="20251210010000 +0000" channel="iNews HD.mncvision">
+    <title>Morning Update</title>
+</programme>
+<programme start="20251210010000 +0000" stop="20251210020000 +0000" channel="iNews HD.mncvision">
+    <title>Lapor Polisi (L)</title>
+</programme>
+<programme start="20251210020000 +0000" stop="20251210030000 +0000" channel="iNews HD.mncvision">
+    <title>iNews Today (L)</title>
+</programme>
+<programme start="20251210030000 +0000" stop="20251210060000 +0000" channel="iNews HD.mncvision">
+    <title>SEA Games Thailand 2025 (L)</title>
+</programme>
+<programme start="20251210060000 +0000" stop="20251210063000 +0000" channel="iNews HD.mncvision">
+    <title>Pemimpin Rakyat (L)</title>
+</programme>
+<programme start="20251210063000 +0000" stop="20251210080000 +0000" channel="iNews HD.mncvision">
+    <title>iSeleb (L)</title>
+</programme>
+<programme start="20251210080000 +0000" stop="20251210110000 +0000" channel="iNews HD.mncvision">
+    <title>SEA Games Thailand 2025 (L)</title>
+</programme>
+<programme start="20251210110000 +0000" stop="20251210120000 +0000" channel="iNews HD.mncvision">
+    <title>iNews Sore (L)</title>
+</programme>
+<programme start="20251210120000 +0000" stop="20251210141500 +0000" channel="iNews HD.mncvision">
+    <title>ACL Two: PSB Vs BKU (L)</title>
+</programme>
+<programme start="20251210141500 +0000" stop="20251210151500 +0000" channel="iNews HD.mncvision">
+    <title>iNews Prime (L)</title>
+</programme>
+<programme start="20251210151500 +0000" stop="20251210160000 +0000" channel="iNews HD.mncvision">
+    <title>iNews Malam (L)</title>
+</programme>
+<programme start="20251210160000 +0000" stop="20251210163000 +0000" channel="iNews HD.mncvision">
+    <title>iNews Sport (L)</title>
+</programme>
+<programme start="20251210163000 +0000" stop="20251209170000 +0000" channel="iNews HD.mncvision">
+    <title>New Top Files</title>
+</programme>
 <programme start="20251209220000 +0000" stop="20251209223000 +0000" channel="JAKTV.mncvision">
     <title>Senyum Quran</title>
 </programme>
@@ -7870,10 +8008,10 @@
 <programme start="20251210000000 +0000" stop="20251210020000 +0000" channel="Sportstars 2.mncvision">
     <title>SEA Games Thailand 2025</title>
 </programme>
-<programme start="20251210020000 +0000" stop="20251210023000 +0000" channel="Sportstars 2.mncvision">
+<programme start="20251210020000 +0000" stop="20251210030000 +0000" channel="Sportstars 2.mncvision">
     <title>SEA Games Thailand 2025 (L)</title>
 </programme>
-<programme start="20251210023000 +0000" stop="20251210053000 +0000" channel="Sportstars 2.mncvision">
+<programme start="20251210030000 +0000" stop="20251210053000 +0000" channel="Sportstars 2.mncvision">
     <title>SEA Games Thailand 2025 (L)</title>
 </programme>
 <programme start="20251210053000 +0000" stop="20251210073000 +0000" channel="Sportstars 2.mncvision">
@@ -7882,16 +8020,10 @@
 <programme start="20251210073000 +0000" stop="20251210080000 +0000" channel="Sportstars 2.mncvision">
     <title>SEA Games Thailand 2025 (L)</title>
 </programme>
-<programme start="20251210080000 +0000" stop="20251210100000 +0000" channel="Sportstars 2.mncvision">
+<programme start="20251210080000 +0000" stop="20251210110000 +0000" channel="Sportstars 2.mncvision">
     <title>SEA Games Thailand 2025 (L)</title>
 </programme>
-<programme start="20251210100000 +0000" stop="20251210103000 +0000" channel="Sportstars 2.mncvision">
-    <title>SEA Games Thailand 2025 (L)</title>
-</programme>
-<programme start="20251210103000 +0000" stop="20251210123000 +0000" channel="Sportstars 2.mncvision">
-    <title>SEA Games Thailand 2025 (L)</title>
-</programme>
-<programme start="20251210123000 +0000" stop="20251210130000 +0000" channel="Sportstars 2.mncvision">
+<programme start="20251210110000 +0000" stop="20251210130000 +0000" channel="Sportstars 2.mncvision">
     <title>SEA Games Thailand 2025 (L)</title>
 </programme>
 <programme start="20251210130000 +0000" stop="20251210150000 +0000" channel="Sportstars 2.mncvision">
@@ -7909,10 +8041,10 @@
 <programme start="20251210000000 +0000" stop="20251210020000 +0000" channel="Sportstars 2 HD.mncvision">
     <title>SEA Games Thailand 2025</title>
 </programme>
-<programme start="20251210020000 +0000" stop="20251210023000 +0000" channel="Sportstars 2 HD.mncvision">
+<programme start="20251210020000 +0000" stop="20251210030000 +0000" channel="Sportstars 2 HD.mncvision">
     <title>SEA Games Thailand 2025 (L)</title>
 </programme>
-<programme start="20251210023000 +0000" stop="20251210053000 +0000" channel="Sportstars 2 HD.mncvision">
+<programme start="20251210030000 +0000" stop="20251210053000 +0000" channel="Sportstars 2 HD.mncvision">
     <title>SEA Games Thailand 2025 (L)</title>
 </programme>
 <programme start="20251210053000 +0000" stop="20251210073000 +0000" channel="Sportstars 2 HD.mncvision">
@@ -7921,16 +8053,10 @@
 <programme start="20251210073000 +0000" stop="20251210080000 +0000" channel="Sportstars 2 HD.mncvision">
     <title>SEA Games Thailand 2025 (L)</title>
 </programme>
-<programme start="20251210080000 +0000" stop="20251210100000 +0000" channel="Sportstars 2 HD.mncvision">
+<programme start="20251210080000 +0000" stop="20251210110000 +0000" channel="Sportstars 2 HD.mncvision">
     <title>SEA Games Thailand 2025 (L)</title>
 </programme>
-<programme start="20251210100000 +0000" stop="20251210103000 +0000" channel="Sportstars 2 HD.mncvision">
-    <title>SEA Games Thailand 2025 (L)</title>
-</programme>
-<programme start="20251210103000 +0000" stop="20251210123000 +0000" channel="Sportstars 2 HD.mncvision">
-    <title>SEA Games Thailand 2025 (L)</title>
-</programme>
-<programme start="20251210123000 +0000" stop="20251210130000 +0000" channel="Sportstars 2 HD.mncvision">
+<programme start="20251210110000 +0000" stop="20251210130000 +0000" channel="Sportstars 2 HD.mncvision">
     <title>SEA Games Thailand 2025 (L)</title>
 </programme>
 <programme start="20251210130000 +0000" stop="20251210150000 +0000" channel="Sportstars 2 HD.mncvision">
@@ -7963,13 +8089,16 @@
 <programme start="20251210050000 +0000" stop="20251210080000 +0000" channel="Sportstars 3.mncvision">
     <title>SEA Games Thailand 2025 (L)</title>
 </programme>
-<programme start="20251210080000 +0000" stop="20251210110000 +0000" channel="Sportstars 3.mncvision">
+<programme start="20251210080000 +0000" stop="20251210100000 +0000" channel="Sportstars 3.mncvision">
     <title>SEA Games Thailand 2025 (L)</title>
 </programme>
-<programme start="20251210110000 +0000" stop="20251210113000 +0000" channel="Sportstars 3.mncvision">
+<programme start="20251210100000 +0000" stop="20251210103000 +0000" channel="Sportstars 3.mncvision">
     <title>SEA Games Thailand 2025 (L)</title>
 </programme>
-<programme start="20251210113000 +0000" stop="20251210133000 +0000" channel="Sportstars 3.mncvision">
+<programme start="20251210103000 +0000" stop="20251210123000 +0000" channel="Sportstars 3.mncvision">
+    <title>SEA Games Thailand 2025 (L)</title>
+</programme>
+<programme start="20251210123000 +0000" stop="20251210133000 +0000" channel="Sportstars 3.mncvision">
     <title>SEA Games Thailand 2025 (L)</title>
 </programme>
 <programme start="20251210133000 +0000" stop="20251210140000 +0000" channel="Sportstars 3.mncvision">
@@ -8008,13 +8137,16 @@
 <programme start="20251210050000 +0000" stop="20251210080000 +0000" channel="sportstars 3 HD.mncvision">
     <title>SEA Games Thailand 2025 (L)</title>
 </programme>
-<programme start="20251210080000 +0000" stop="20251210110000 +0000" channel="sportstars 3 HD.mncvision">
+<programme start="20251210080000 +0000" stop="20251210100000 +0000" channel="sportstars 3 HD.mncvision">
     <title>SEA Games Thailand 2025 (L)</title>
 </programme>
-<programme start="20251210110000 +0000" stop="20251210113000 +0000" channel="sportstars 3 HD.mncvision">
+<programme start="20251210100000 +0000" stop="20251210103000 +0000" channel="sportstars 3 HD.mncvision">
     <title>SEA Games Thailand 2025 (L)</title>
 </programme>
-<programme start="20251210113000 +0000" stop="20251210133000 +0000" channel="sportstars 3 HD.mncvision">
+<programme start="20251210103000 +0000" stop="20251210123000 +0000" channel="sportstars 3 HD.mncvision">
+    <title>SEA Games Thailand 2025 (L)</title>
+</programme>
+<programme start="20251210123000 +0000" stop="20251210133000 +0000" channel="sportstars 3 HD.mncvision">
     <title>SEA Games Thailand 2025 (L)</title>
 </programme>
 <programme start="20251210133000 +0000" stop="20251210140000 +0000" channel="sportstars 3 HD.mncvision">
