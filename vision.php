@@ -664,11 +664,23 @@
 <programme start="20251210070000 +0000" stop="20251210090000 +0000" channel="ANTV.vision">
 <title>Cinta Keluarga Pandya</title>
 </programme>
+<programme start="20251210090000 +0000" stop="20251210110000 +0000" channel="ANTV.vision">
+<title>Bebas Aturan Main</title>
+</programme>
+<programme start="20251210110000 +0000" stop="20251210123000 +0000" channel="ANTV.vision">
+<title>Bangunnya Nyi Roro Kidul</title>
+</programme>
 <programme start="20251210123000 +0000" stop="20251210140000 +0000" channel="ANTV.vision">
 <title>Senandung Cinta Lilis</title>
 </programme>
 <programme start="20251210140000 +0000" stop="20251210160000 +0000" channel="ANTV.vision">
 <title>Tawa Kalcer</title>
+</programme>
+<programme start="20251210160000 +0000" stop="20251210180000 +0000" channel="ANTV.vision">
+<title>Slaughter In San Francisco</title>
+</programme>
+<programme start="20251210180000 +0000" stop="20251210200000 +0000" channel="ANTV.vision">
+<title>The Minion</title>
 </programme>
 <programme start="20251210200000 +0000" stop="20251210220000 +0000" channel="ANTV.vision">
 <title>Mardaani 2</title>
@@ -1484,17 +1496,5 @@
 <title>TVRI</title>
 </programme>
 <programme start="20251210230000 +0000" stop="20251211010000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20251211010000 +0000" stop="20251211030000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20251211030000 +0000" stop="20251211050000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20251211050000 +0000" stop="20251211070000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20251211070000 +0000" stop="20251211090000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>

@@ -4342,22 +4342,22 @@
   <programme start="20251212053500 +0000" stop="20251212063500 +0000" channel="Seznam.cz TV.webtv.sk">
     <title lang="id">Stavitelé hradů (2)</title>
   </programme>
-  <programme start="20251212063500 +0000" stop="20251212072500 +0000" channel="Seznam.cz TV.webtv.sk">
+  <programme start="20251212063500 +0000" stop="20251212073000 +0000" channel="Seznam.cz TV.webtv.sk">
     <title lang="id">Malinkaté domky IV (9)</title>
   </programme>
-  <programme start="20251212072500 +0000" stop="20251212082000 +0000" channel="Seznam.cz TV.webtv.sk">
+  <programme start="20251212073000 +0000" stop="20251212082500 +0000" channel="Seznam.cz TV.webtv.sk">
     <title lang="id">Vražedná čísla VI (8)</title>
   </programme>
-  <programme start="20251212082000 +0000" stop="20251212092000 +0000" channel="Seznam.cz TV.webtv.sk">
+  <programme start="20251212082500 +0000" stop="20251212092500 +0000" channel="Seznam.cz TV.webtv.sk">
     <title lang="id">Věřte nevěřte (39)</title>
   </programme>
-  <programme start="20251212092000 +0000" stop="20251212102000 +0000" channel="Seznam.cz TV.webtv.sk">
+  <programme start="20251212092500 +0000" stop="20251212102500 +0000" channel="Seznam.cz TV.webtv.sk">
     <title lang="id">JAG VIII (15)</title>
   </programme>
-  <programme start="20251212102000 +0000" stop="20251212112000 +0000" channel="Seznam.cz TV.webtv.sk">
+  <programme start="20251212102500 +0000" stop="20251212112500 +0000" channel="Seznam.cz TV.webtv.sk">
     <title lang="id">JAG VIII (16)</title>
   </programme>
-  <programme start="20251212112000 +0000" stop="20251212132000 +0000" channel="Seznam.cz TV.webtv.sk">
+  <programme start="20251212112500 +0000" stop="20251212132000 +0000" channel="Seznam.cz TV.webtv.sk">
     <title lang="id">Smrt v sedle</title>
   </programme>
   <programme start="20251212132000 +0000" stop="20251212141500 +0000" channel="Seznam.cz TV.webtv.sk">
