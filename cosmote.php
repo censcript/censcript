@@ -1,7 +1,3 @@
-<programme start="20251210180000 +0700" stop="20251210200000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: FC Internazionale Milano - Liverpool FC</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251210200000 +0700" stop="20251210220000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: FC Kairat Almaty - Olympiacos</title>
     <desc>Live: Tidak</desc>
@@ -58,8 +54,8 @@
     <title>UEFA Champions League Highlights 2025-26</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251210161000 +0700" stop="20251210181000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Cremonese - Lecce</title>
+<programme start="20251211194500 +0700" stop="20251211214500 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: Athletic Club - Paris Saint Germain</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251210181000 +0700" stop="20251210202500 +0700" channel="COSMOTE Sport 2 HD">
@@ -118,10 +114,6 @@
     <title>Football: Olympiacos - OFI</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251210163500 +0700" stop="20251210183500 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Kilmarnock - Rangers FC</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251210183500 +0700" stop="20251210203500 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: PAOK - Legia Warszawa</title>
     <desc>Live: Tidak</desc>
@@ -170,8 +162,8 @@
     <title>Football: Celtic FC - Heart of Midlothian</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251210161500 +0700" stop="20251210181500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Tenerife - Real Madrid</title>
+<programme start="20251211190000 +0700" stop="20251211210000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Hull City - Wrexham</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251210181500 +0700" stop="20251210201500 +0700" channel="COSMOTE Sport 4 HD">
@@ -230,16 +222,12 @@
     <title>Basketball: Karsiyaka - Besiktas</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251210173500 +0700" stop="20251210184500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>2025 Extreme H</title>
+<programme start="20251211190000 +0700" stop="20251211192000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>ACB Liga Endesa 2025-26 - Fifth Quarter E9</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251210184500 +0700" stop="20251210191500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Highlights: ROC Nations Cup 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251210191500 +0700" stop="20251210194500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Highlights: ROC Race of Champions 2025</title>
+<programme start="20251211192000 +0700" stop="20251211212000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Tenerife - Real Madrid</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251210194500 +0700" stop="20251210204000 +0700" channel="COSMOTE Sport 5 HD">
@@ -330,12 +318,12 @@
     <title>Extreme E - Highlights 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251210175500 +0700" stop="20251210183000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Watersports: Inside Sailing E11</title>
+<programme start="20251211190000 +0700" stop="20251211193000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Sports Classics: Gearing Up 2024 E11</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251210183000 +0700" stop="20251210193000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Beach Volley: Pro Tour Elite 16 2025</title>
+<programme start="20251211193000 +0700" stop="20251211203000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Red Bull MotoGP Rookies Cup 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251210193000 +0700" stop="20251210213000 +0700" channel="COSMOTE Sport 6 HD">
@@ -418,9 +406,9 @@
     <title>Sports Classics: 2025 Sports Rundown E6</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251210170000 +0700" stop="20251210190000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
-    <desc>Live: Tidak</desc>
+<programme start="20251211190000 +0700" stop="20251211210000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>2025 Premier Padel Tour Finals (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20251210190000 +0700" stop="20251210210000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
@@ -494,8 +482,8 @@
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251210170000 +0700" stop="20251210190000 +0700" channel="COSMOTE Sport 8 HD">
-    <title>COSMOTESport8HD</title>
+<programme start="20251211190000 +0700" stop="20251211210000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251210190000 +0700" stop="20251210210000 +0700" channel="COSMOTE Sport 8 HD">
@@ -562,8 +550,8 @@
     <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251210170000 +0700" stop="20251210190000 +0700" channel="COSMOTE Sport 9 HD">
-    <title>COSMOTESport9HD</title>
+<programme start="20251211190000 +0700" stop="20251211210000 +0700" channel="COSMOTE Sport 8 HD">
+    <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251210190000 +0700" stop="20251210210000 +0700" channel="COSMOTE Sport 9 HD">
@@ -627,6 +615,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251211170000 +0700" stop="20251211190000 +0700" channel="COSMOTE Sport 9 HD">
+    <title>COSMOTESport9HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251211190000 +0700" stop="20251211210000 +0700" channel="COSMOTE Sport 9 HD">
     <title>COSMOTESport9HD</title>
     <desc>Live: Tidak</desc>
 </programme>

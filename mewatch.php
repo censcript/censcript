@@ -106,14 +106,8 @@
     <programme start="20251210073000 +0000" stop="20251210080000 +0000" channel="Channel 5.mewatch">
         <title>Provocative - EP 180</title>
     </programme>
-    <programme start="20251210080000 +0000" stop="20251210103000 +0000" channel="Channel 5.mewatch">
-        <title>Artistic Gymnastics - 33rd SEA Games Thailand 2025: Women&#039;s Apparatus Preliminary Round</title>
-    </programme>
-    <programme start="20251210103000 +0000" stop="20251210110000 +0000" channel="Channel 5.mewatch">
-        <title>Taekwondo - 33rd SEA Games Thailand 2025: Mixed Recognised Poomsae Pair Final</title>
-    </programme>
-    <programme start="20251210110000 +0000" stop="20251210130000 +0000" channel="Channel 5.mewatch">
-        <title>Swimming - 33rd SEA Games Thailand 2025: Men&#039;s &amp; Women&#039;s Finals - 10 Dec 2025</title>
+    <programme start="20251210080000 +0000" stop="20251210130000 +0000" channel="Channel 5.mewatch">
+        <title>33rd SEA Games 2025: Daily Action At The Games - EP 1</title>
     </programme>
     <programme start="20251210130000 +0000" stop="20251210133000 +0000" channel="Channel 5.mewatch">
         <title>(Live) News Tonight</title>
