@@ -1,7 +1,3 @@
-<programme start="20251210160000 +0700" stop="20251210180000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: FC Barcelona - Eintracht Frankfurt</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251210180000 +0700" stop="20251210200000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: FC Internazionale Milano - Liverpool FC</title>
     <desc>Live: Tidak</desc>
@@ -58,6 +54,10 @@
     <title>Football: Juventus Football Club - Pafos FC</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251211185000 +0700" stop="20251211194500 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEFA Champions League Highlights 2025-26</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251210161000 +0700" stop="20251210181000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Cremonese - Lecce</title>
     <desc>Live: Tidak</desc>
@@ -112,6 +112,10 @@
 </programme>
 <programme start="20251211161500 +0700" stop="20251211181500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Udinese - Genoa</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251211181500 +0700" stop="20251211203000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Olympiacos - OFI</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251210163500 +0700" stop="20251210183500 +0700" channel="COSMOTE Sport 3 HD">
@@ -226,14 +230,6 @@
     <title>Basketball: Karsiyaka - Besiktas</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251210162500 +0700" stop="20251210170500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Moto-E World Championship 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251210170500 +0700" stop="20251210173500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Extreme E - Highlights 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251210173500 +0700" stop="20251210184500 +0700" channel="COSMOTE Sport 5 HD">
     <title>2025 Extreme H</title>
     <desc>Live: Tidak</desc>
@@ -330,8 +326,8 @@
     <title>2025 Extreme H</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251210162000 +0700" stop="20251210175500 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Handball: Lemgo Lippe - SG Flensburg-Handewitt</title>
+<programme start="20251211183000 +0700" stop="20251211190000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Extreme E - Highlights 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251210175500 +0700" stop="20251210183000 +0700" channel="COSMOTE Sport 6 HD">
@@ -412,6 +408,14 @@
 </programme>
 <programme start="20251211160000 +0700" stop="20251211181000 +0700" channel="COSMOTE Sport 6 HD">
     <title>CEV Beach Volleyball European Cup 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251211181000 +0700" stop="20251211183000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Sports Classics: Worldies E9</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251211183000 +0700" stop="20251211190000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Sports Classics: 2025 Sports Rundown E6</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251210170000 +0700" stop="20251210190000 +0700" channel="COSMOTE Sport 7 HD">

@@ -388,13 +388,13 @@
   <programme start="20251212000500 +0000" stop="20251212005000 +0000" channel=":Šport.webtv.sk">
     <title lang="id">FutbalSK (magazín o futbale)</title>
   </programme>
-  <programme start="20251212005000 +0000" stop="20251212005500 +0000" channel=":Šport.webtv.sk">
+  <programme start="20251212005000 +0000" stop="20251212010000 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Návraty 2025</title>
   </programme>
-  <programme start="20251212005500 +0000" stop="20251212014500 +0000" channel=":Šport.webtv.sk">
+  <programme start="20251212010000 +0000" stop="20251212015000 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Správy</title>
   </programme>
-  <programme start="20251212014500 +0000" stop="20251212020000 +0000" channel=":Šport.webtv.sk">
+  <programme start="20251212015000 +0000" stop="20251212020000 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Góly - body - sekundy</title>
   </programme>
   <programme start="20251212020000 +0000" stop="20251212025000 +0000" channel=":Šport.webtv.sk">
@@ -433,17 +433,23 @@
   <programme start="20251212115500 +0000" stop="20251212130500 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Volejbal - MS 2025 klubov - MS klubov 2025 (ženy; Sao Paulo): Savino Del Bene Scandicci - Club Alianza Lima</title>
   </programme>
-  <programme start="20251212130500 +0000" stop="20251212144000 +0000" channel=":Šport.webtv.sk">
+  <programme start="20251212130500 +0000" stop="20251212143500 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Biatlon - Svetový pohár</title>
   </programme>
-  <programme start="20251212144000 +0000" stop="20251212172000 +0000" channel=":Šport.webtv.sk">
-    <title lang="id">Florbal - MS 2025 (ženy) - MS 2025 (ženy; Ostrava) - štvrťfinále</title>
+  <programme start="20251212143500 +0000" stop="20251212145500 +0000" channel=":Šport.webtv.sk">
+    <title lang="id">Téma :24</title>
+  </programme>
+  <programme start="20251212145500 +0000" stop="20251212170000 +0000" channel=":Šport.webtv.sk">
+    <title lang="id">Florbal - MS 2025 (ženy)</title>
+  </programme>
+  <programme start="20251212170000 +0000" stop="20251212172000 +0000" channel=":Šport.webtv.sk">
+    <title lang="id">Téma :24</title>
   </programme>
   <programme start="20251212172000 +0000" stop="20251212191000 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Hádzaná - Niké handball extraliga</title>
   </programme>
   <programme start="20251212191000 +0000" stop="20251212194000 +0000" channel=":Šport.webtv.sk">
-    <title lang="id">Šport :24</title>
+    <title lang="id">Tichý hlas velikánov</title>
   </programme>
   <programme start="20251212194000 +0000" stop="20251212211500 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Hádzaná - MS 2025 (ženy) - MS 2025 (ženy; Nemecko / Holandsko) - semifinále</title>
