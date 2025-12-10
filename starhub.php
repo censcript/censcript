@@ -6218,7 +6218,7 @@
         <title>The Prestige</title>
     </programme>
     <programme start="20251210043500 +0000" stop="20251210050500 +0000" channel="HBO Signature HD.starhub">
-        <title>Episode 6</title>
+        <title>Game Night</title>
     </programme>
     <programme start="20251210050500 +0000" stop="20251210065000 +0000" channel="HBO Signature HD.starhub">
         <title>Clear History</title>
