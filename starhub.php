@@ -2495,7 +2495,7 @@
         <title>End of Transmission</title>
     </programme>
     <programme start="20251209160000 +0000" stop="20251209220000 +0000" channel="Hub Sports 5 HD.starhub">
-        <title>End of Transmission</title>
+        <title>hp5 End of Transmission</title>
     </programme>
     <programme start="20251209220000 +0000" stop="20251210040000 +0000" channel="Hub Sports 5 HD.starhub">
         <title>End of Transmission</title>
@@ -3110,7 +3110,7 @@
         <title>Bloomberg Intelligence</title>
     </programme>
     <programme start="20251209160000 +0000" stop="20251209220000 +0000" channel="Hub Sports 4 HD.starhub">
-        <title>End of Transmission</title>
+        <title>hp4 End of Transmission</title>
     </programme>
     <programme start="20251209220000 +0000" stop="20251210021500 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
@@ -4151,7 +4151,7 @@
         <title>Lalo Land / Maybe-Sitter</title>
     </programme>
     <programme start="20251209160000 +0000" stop="20251209220000 +0000" channel="Hub Sports 3 HD.starhub">
-        <title>End of Transmission</title>
+        <title>hp3 End of Transmission</title>
     </programme>
     <programme start="20251209220000 +0000" stop="20251210040000 +0000" channel="Hub Sports 3 HD.starhub">
         <title>End of Transmission</title>
@@ -5927,7 +5927,7 @@
         <title>Episode 4</title>
     </programme>
     <programme start="20251209160000 +0000" stop="20251209220000 +0000" channel="Hub Sports 6.starhub">
-        <title>End of Transmission</title>
+        <title>hp6 End of Transmission</title>
     </programme>
     <programme start="20251209220000 +0000" stop="20251210040000 +0000" channel="Hub Sports 6.starhub">
         <title>End of Transmission</title>

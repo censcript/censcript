@@ -8365,8 +8365,11 @@
 <programme start="20251210080000 +0000" stop="20251210100000 +0000" channel="SPOTV 2.mncvision">
     <title>A-League Men: PER Vs WSW</title>
 </programme>
-<programme start="20251210100000 +0000" stop="20251210130000 +0000" channel="SPOTV 2.mncvision">
+<programme start="20251210100000 +0000" stop="20251210123000 +0000" channel="SPOTV 2.mncvision">
     <title>MLB 2025: TBJ Vs LAD</title>
+</programme>
+<programme start="20251210123000 +0000" stop="20251210130000 +0000" channel="SPOTV 2.mncvision">
+    <title>2025/26 ALM Mini Match</title>
 </programme>
 <programme start="20251210130000 +0000" stop="20251210150000 +0000" channel="SPOTV 2.mncvision">
     <title>Women&#039;s Football Friendlies</title>
@@ -8395,8 +8398,11 @@
 <programme start="20251210080000 +0000" stop="20251210100000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>A-League Men: PER Vs WSW</title>
 </programme>
-<programme start="20251210100000 +0000" stop="20251210130000 +0000" channel="SPOTV 2 HD.mncvision">
+<programme start="20251210100000 +0000" stop="20251210123000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>MLB 2025: TBJ Vs LAD</title>
+</programme>
+<programme start="20251210123000 +0000" stop="20251210130000 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>2025/26 ALM Mini Match</title>
 </programme>
 <programme start="20251210130000 +0000" stop="20251210150000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>Women&#039;s Football Friendlies</title>

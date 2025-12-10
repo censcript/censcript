@@ -110,7 +110,7 @@
         <title>Artistic Gymnastics - 33rd SEA Games Thailand 2025: Women&#039;s Apparatus Preliminary Round</title>
     </programme>
     <programme start="20251210103000 +0000" stop="20251210110000 +0000" channel="Channel 5.mewatch">
-        <title>Basketball 3x3 - 33rd SEA Games Thailand 2025: Women&#039;s Group Stage - 10 Dec 2025</title>
+        <title>Taekwondo - 33rd SEA Games Thailand 2025: Mixed Recognised Poomsae Pair Final</title>
     </programme>
     <programme start="20251210110000 +0000" stop="20251210130000 +0000" channel="Channel 5.mewatch">
         <title>Swimming - 33rd SEA Games Thailand 2025: Men&#039;s &amp; Women&#039;s Finals - 10 Dec 2025</title>
@@ -890,10 +890,10 @@
         <title>AFC Champions League Two 2025/26: Selangor FC vs Lion City Sailors FC</title>
     </programme>
     <programme start="20251210141500 +0000" stop="20251210160000 +0000" channel="Live 5.mewatch">
-        <title>No Programme available now. Next Broadcast on 11th December, Thursday 8.05pm. AFC Champions League Two 2025/26</title>
+        <title>No Programme available now. Next Broadcast on 11th December, Thursday 1.50am. Women&#039;s World Floorball Championships 2025</title>
     </programme>
-    <programme start="20251210160000 +0000" stop="20251211120500 +0000" channel="Live 5.mewatch">
-        <title>No Programme available now. Next Broadcast on 11th December, Thursday 8.05pm. AFC Champions League Two 2025/26</title>
+    <programme start="20251210160000 +0000" stop="20251210175000 +0000" channel="Live 5.mewatch">
+        <title>No Programme available now. Next Broadcast on 11th December, Thursday 1.50am. Women&#039;s World Floorball Championships 2025</title>
     </programme>
     <programme start="20251209160000 +0000" stop="20251210160000 +0000" channel="Live 6.mewatch">
         <title>No Programme available now. Next Broadcast on 18th December, Thursday 4.05am. Carabao Cup 2025/26</title>
