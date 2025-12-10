@@ -7429,16 +7429,10 @@
 <programme start="20251210011500 +0000" stop="20251210024500 +0000" channel="RCTI.mncvision">
     <title>Doraemon Series</title>
 </programme>
-<programme start="20251210024500 +0000" stop="20251210060000 +0000" channel="RCTI.mncvision">
+<programme start="20251210024500 +0000" stop="20251210081500 +0000" channel="RCTI.mncvision">
     <title>33rd SEA Games Thailand (L)</title>
 </programme>
-<programme start="20251210060000 +0000" stop="20251210070000 +0000" channel="RCTI.mncvision">
-    <title>Take Me Out Indonesia</title>
-</programme>
-<programme start="20251210070000 +0000" stop="20251210074500 +0000" channel="RCTI.mncvision">
-    <title>Menemukan-Mu</title>
-</programme>
-<programme start="20251210074500 +0000" stop="20251210114500 +0000" channel="RCTI.mncvision">
+<programme start="20251210081500 +0000" stop="20251210114500 +0000" channel="RCTI.mncvision">
     <title>33rd SEA Games Thailand (L)</title>
 </programme>
 <programme start="20251210114500 +0000" stop="20251210141500 +0000" channel="RCTI.mncvision">
@@ -7474,16 +7468,10 @@
 <programme start="20251210011500 +0000" stop="20251210024500 +0000" channel="RCTI HD.mncvision">
     <title>Doraemon Series</title>
 </programme>
-<programme start="20251210024500 +0000" stop="20251210060000 +0000" channel="RCTI HD.mncvision">
+<programme start="20251210024500 +0000" stop="20251210081500 +0000" channel="RCTI HD.mncvision">
     <title>33rd SEA Games Thailand (L)</title>
 </programme>
-<programme start="20251210060000 +0000" stop="20251210070000 +0000" channel="RCTI HD.mncvision">
-    <title>Take Me Out Indonesia</title>
-</programme>
-<programme start="20251210070000 +0000" stop="20251210074500 +0000" channel="RCTI HD.mncvision">
-    <title>Menemukan-Mu</title>
-</programme>
-<programme start="20251210074500 +0000" stop="20251210114500 +0000" channel="RCTI HD.mncvision">
+<programme start="20251210081500 +0000" stop="20251210114500 +0000" channel="RCTI HD.mncvision">
     <title>33rd SEA Games Thailand (L)</title>
 </programme>
 <programme start="20251210114500 +0000" stop="20251210141500 +0000" channel="RCTI HD.mncvision">
