@@ -110,6 +110,14 @@
     <title>Football: Celtic FC - AS Roma</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251213020500 +0700" stop="20251213024500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Serie A Inside Serie A 2025-26 E15</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251213024500 +0700" stop="20251213044500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Lecce - Pisa (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
 <programme start="20251212004500 +0700" stop="20251212030000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: PFC Ludogorets 1945 - PAOK (L)</title>
     <desc>Live: Ya</desc>
@@ -226,8 +234,8 @@
     <title>NBA Action 2025-26 E3508 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251212005000 +0700" stop="20251212015000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC</title>
+<programme start="20251213023000 +0700" stop="20251213050000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Sacramento Kings - Denver Nuggets</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251212015000 +0700" stop="20251212030000 +0700" channel="COSMOTE Sport 5 HD">
@@ -312,6 +320,10 @@
 </programme>
 <programme start="20251213015000 +0700" stop="20251213025500 +0700" channel="COSMOTE Sport 5 HD">
     <title>ERC 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251213025500 +0700" stop="20251213032500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251212004500 +0700" stop="20251212030000 +0700" channel="COSMOTE Sport 6 HD">
