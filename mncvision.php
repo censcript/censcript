@@ -745,7 +745,84 @@
 <programme start="20251211163000 +0000" stop="20251210170000 +0000" channel="AXN HD.mncvision">
     <title>NCIS: Sydney S2, Ep 7</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20251210173000 +0000" stop="20251210182500 +0000" channel="BBC Earth.mncvision">
+    <title>Return To The Wild S4, Ep 4</title>
+</programme>
+<programme start="20251210182500 +0000" stop="20251210191500 +0000" channel="BBC Earth.mncvision">
+    <title>Chasing Monsters S5, Ep 3</title>
+</programme>
+<programme start="20251210191500 +0000" stop="20251210202000 +0000" channel="BBC Earth.mncvision">
+    <title>Kingdom S1, Ep 4</title>
+</programme>
+<programme start="20251210202000 +0000" stop="20251210211000 +0000" channel="BBC Earth.mncvision">
+    <title>Big Adv.: Gobi Desert S1, Ep 2</title>
+</programme>
+<programme start="20251210211000 +0000" stop="20251210220000 +0000" channel="BBC Earth.mncvision">
+    <title>Ancient Powers S1, Ep 5</title>
+</programme>
+<programme start="20251210220000 +0000" stop="20251210230000 +0000" channel="BBC Earth.mncvision">
+    <title>Kingdom S1, Ep 4</title>
+</programme>
+<programme start="20251210230000 +0000" stop="20251210235500 +0000" channel="BBC Earth.mncvision">
+    <title>Return To The Wild S4, Ep 4</title>
+</programme>
+<programme start="20251210235500 +0000" stop="20251211004500 +0000" channel="BBC Earth.mncvision">
+    <title>Chasing Monsters S5, Ep 3</title>
+</programme>
+<programme start="20251211004500 +0000" stop="20251211014000 +0000" channel="BBC Earth.mncvision">
+    <title>Ancient Powers S1, Ep 5</title>
+</programme>
+<programme start="20251211014000 +0000" stop="20251211024500 +0000" channel="BBC Earth.mncvision">
+    <title>Kingdom S1, Ep 4</title>
+</programme>
+<programme start="20251211024500 +0000" stop="20251211033500 +0000" channel="BBC Earth.mncvision">
+    <title>Return To The Wild S4, Ep 4</title>
+</programme>
+<programme start="20251211033500 +0000" stop="20251211043000 +0000" channel="BBC Earth.mncvision">
+    <title>Amazing Railway Adv. S2, Ep 5</title>
+</programme>
+<programme start="20251211043000 +0000" stop="20251211052500 +0000" channel="BBC Earth.mncvision">
+    <title>Blue Planet S2, Ep 1</title>
+</programme>
+<programme start="20251211052500 +0000" stop="20251211063000 +0000" channel="BBC Earth.mncvision">
+    <title>Kingdom S1, Ep 4</title>
+</programme>
+<programme start="20251211063000 +0000" stop="20251211072000 +0000" channel="BBC Earth.mncvision">
+    <title>Return To The Wild S4, Ep 4</title>
+</programme>
+<programme start="20251211072000 +0000" stop="20251211082000 +0000" channel="BBC Earth.mncvision">
+    <title>Ancient Powers S1, Ep 5</title>
+</programme>
+<programme start="20251211082000 +0000" stop="20251211091000 +0000" channel="BBC Earth.mncvision">
+    <title>Chasing Monsters S5, Ep 3</title>
+</programme>
+<programme start="20251211091000 +0000" stop="20251211101500 +0000" channel="BBC Earth.mncvision">
+    <title>Kingdom S1, Ep 4</title>
+</programme>
+<programme start="20251211101500 +0000" stop="20251211111000 +0000" channel="BBC Earth.mncvision">
+    <title>Amazing Railway Adv. S2, Ep 5</title>
+</programme>
+<programme start="20251211111000 +0000" stop="20251211120000 +0000" channel="BBC Earth.mncvision">
+    <title>Chasing Monsters S5, Ep 4</title>
+</programme>
+<programme start="20251211120000 +0000" stop="20251211130000 +0000" channel="BBC Earth.mncvision">
+    <title>China&#039;s Wild Guangdong, Ep 1</title>
+</programme>
+<programme start="20251211130000 +0000" stop="20251211135500 +0000" channel="BBC Earth.mncvision">
+    <title>J. Lumley&#039;s Great Cities, Ep 2</title>
+</programme>
+<programme start="20251211135500 +0000" stop="20251211150000 +0000" channel="BBC Earth.mncvision">
+    <title>Human S1, Ep 2</title>
+</programme>
+<programme start="20251211150000 +0000" stop="20251211155500 +0000" channel="BBC Earth.mncvision">
+    <title>Chasing Monsters S5, Ep 4</title>
+</programme>
+<programme start="20251211155500 +0000" stop="20251211165500 +0000" channel="BBC Earth.mncvision">
+    <title>China&#039;s Wild Guangdong, Ep 1</title>
+</programme>
+<programme start="20251211165500 +0000" stop="20251210172500 +0000" channel="BBC Earth.mncvision">
+    <title>J. Lumley&#039;s Great Cities, Ep 2</title>
+</programme>
 <programme start="20251210173000 +0000" stop="20251210182500 +0000" channel="BBC Earth HD.mncvision">
     <title>Return To The Wild S4, Ep 4</title>
 </programme>
@@ -2814,7 +2891,7 @@ Error: Unable to fetch data. HTTP Status Code: 500
     <title>The Day: News In Review</title>
 </programme>
 <programme start="20251211003000 +0000" stop="20251211010000 +0000" channel="DW English.mncvision">
-    <title>Arts Unveiled: Experiencing...</title>
+    <title>Arts Unveiled: Money, Power</title>
 </programme>
 <programme start="20251211010000 +0000" stop="20251211011500 +0000" channel="DW English.mncvision">
     <title>DW News</title>
@@ -2829,13 +2906,13 @@ Error: Unable to fetch data. HTTP Status Code: 500
     <title>The Day: News In Review</title>
 </programme>
 <programme start="20251211023000 +0000" stop="20251211030000 +0000" channel="DW English.mncvision">
-    <title>Made In Germany: Business</title>
+    <title>Made In Germany: Munich</title>
 </programme>
 <programme start="20251211030000 +0000" stop="20251211031500 +0000" channel="DW English.mncvision">
     <title>DW News</title>
 </programme>
 <programme start="20251211031500 +0000" stop="20251211033000 +0000" channel="DW English.mncvision">
-    <title>Best Of DW Online Content</title>
+    <title>Euromaxx: Serving Pope With...</title>
 </programme>
 <programme start="20251211033000 +0000" stop="20251211040000 +0000" channel="DW English.mncvision">
     <title>Eco India: Making Change Green</title>
@@ -2859,10 +2936,10 @@ Error: Unable to fetch data. HTTP Status Code: 500
     <title>DW News</title>
 </programme>
 <programme start="20251211061500 +0000" stop="20251211063000 +0000" channel="DW English.mncvision">
-    <title>Best Of DW Online Content</title>
+    <title>Euromaxx: Serving Pope With...</title>
 </programme>
 <programme start="20251211063000 +0000" stop="20251211070000 +0000" channel="DW English.mncvision">
-    <title>Made In Germany: Business</title>
+    <title>Made In Germany: Munich</title>
 </programme>
 <programme start="20251211070000 +0000" stop="20251211073000 +0000" channel="DW English.mncvision">
     <title>DW News</title>
@@ -2874,7 +2951,7 @@ Error: Unable to fetch data. HTTP Status Code: 500
     <title>DW News</title>
 </programme>
 <programme start="20251211083000 +0000" stop="20251211090000 +0000" channel="DW English.mncvision">
-    <title>Tomorrow Today: Science</title>
+    <title>Tomorrow Today: Big, Bigger</title>
 </programme>
 <programme start="20251211090000 +0000" stop="20251211091500 +0000" channel="DW English.mncvision">
     <title>DW News</title>
@@ -5906,9 +5983,153 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20251211160000 +0000" stop="20251211163000 +0000" channel="MNCTV HD.mncvision">
     <title>Suparman Reborn</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20251210171600 +0000" stop="20251210173500 +0000" channel="Moonbug.mncvision">
+    <title>CoComelon</title>
+</programme>
+<programme start="20251210173500 +0000" stop="20251210180500 +0000" channel="Moonbug.mncvision">
+    <title>Little Angel</title>
+</programme>
+<programme start="20251210180500 +0000" stop="20251210183100 +0000" channel="Moonbug.mncvision">
+    <title>Little Angel</title>
+</programme>
+<programme start="20251210183100 +0000" stop="20251210185900 +0000" channel="Moonbug.mncvision">
+    <title>Oddbods</title>
+</programme>
+<programme start="20251210185900 +0000" stop="20251210192500 +0000" channel="Moonbug.mncvision">
+    <title>Oddbods</title>
+</programme>
+<programme start="20251210192500 +0000" stop="20251210200400 +0000" channel="Moonbug.mncvision">
+    <title>Meekah</title>
+</programme>
+<programme start="20251210200400 +0000" stop="20251210202900 +0000" channel="Moonbug.mncvision">
+    <title>Meekah</title>
+</programme>
+<programme start="20251210202900 +0000" stop="20251210204500 +0000" channel="Moonbug.mncvision">
+    <title>CoComelon</title>
+</programme>
+<programme start="20251210204500 +0000" stop="20251210212000 +0000" channel="Moonbug.mncvision">
+    <title>Dance Party</title>
+</programme>
+<programme start="20251210212000 +0000" stop="20251210213700 +0000" channel="Moonbug.mncvision">
+    <title>CoComelon</title>
+</programme>
+<programme start="20251210213700 +0000" stop="20251210221500 +0000" channel="Moonbug.mncvision">
+    <title>Blippi</title>
+</programme>
+<programme start="20251210221500 +0000" stop="20251210224100 +0000" channel="Moonbug.mncvision">
+    <title>Blippi</title>
+</programme>
+<programme start="20251210224100 +0000" stop="20251210230000 +0000" channel="Moonbug.mncvision">
+    <title>Oddbods: Short</title>
+</programme>
+<programme start="20251210230000 +0000" stop="20251210232100 +0000" channel="Moonbug.mncvision">
+    <title>CoComelon</title>
+</programme>
+<programme start="20251210232100 +0000" stop="20251210235700 +0000" channel="Moonbug.mncvision">
+    <title>JJ&#039;s Animal Time</title>
+</programme>
+<programme start="20251210235700 +0000" stop="20251211003100 +0000" channel="Moonbug.mncvision">
+    <title>CoComelon</title>
+</programme>
+<programme start="20251211003100 +0000" stop="20251211005600 +0000" channel="Moonbug.mncvision">
+    <title>Little Angel</title>
+</programme>
+<programme start="20251211005600 +0000" stop="20251211012900 +0000" channel="Moonbug.mncvision">
+    <title>Little Angel</title>
+</programme>
+<programme start="20251211012900 +0000" stop="20251211015300 +0000" channel="Moonbug.mncvision">
+    <title>Blippi</title>
+</programme>
+<programme start="20251211015300 +0000" stop="20251211023100 +0000" channel="Moonbug.mncvision">
+    <title>Blippi</title>
+</programme>
+<programme start="20251211023100 +0000" stop="20251211025900 +0000" channel="Moonbug.mncvision">
+    <title>Morphle</title>
+</programme>
+<programme start="20251211025900 +0000" stop="20251211033100 +0000" channel="Moonbug.mncvision">
+    <title>Morphle</title>
+</programme>
+<programme start="20251211033100 +0000" stop="20251211034800 +0000" channel="Moonbug.mncvision">
+    <title>Little Baby Bum</title>
+</programme>
+<programme start="20251211034800 +0000" stop="20251211040400 +0000" channel="Moonbug.mncvision">
+    <title>Little Baby Bum</title>
+</programme>
+<programme start="20251211040400 +0000" stop="20251211043400 +0000" channel="Moonbug.mncvision">
+    <title>Go Buster</title>
+</programme>
+<programme start="20251211043400 +0000" stop="20251211050200 +0000" channel="Moonbug.mncvision">
+    <title>Go Buster</title>
+</programme>
+<programme start="20251211050200 +0000" stop="20251211052100 +0000" channel="Moonbug.mncvision">
+    <title>Cody Time</title>
+</programme>
+<programme start="20251211052100 +0000" stop="20251211053800 +0000" channel="Moonbug.mncvision">
+    <title>CoComelon</title>
+</programme>
+<programme start="20251211053800 +0000" stop="20251211060500 +0000" channel="Moonbug.mncvision">
+    <title>CoComelon</title>
+</programme>
+<programme start="20251211060500 +0000" stop="20251211063300 +0000" channel="Moonbug.mncvision">
+    <title>Little Angel</title>
+</programme>
+<programme start="20251211063300 +0000" stop="20251211070000 +0000" channel="Moonbug.mncvision">
+    <title>Little Angel</title>
+</programme>
+<programme start="20251211070000 +0000" stop="20251211073400 +0000" channel="Moonbug.mncvision">
+    <title>Blippi</title>
+</programme>
+<programme start="20251211073400 +0000" stop="20251211080500 +0000" channel="Moonbug.mncvision">
+    <title>Blippi</title>
+</programme>
+<programme start="20251211080500 +0000" stop="20251211083700 +0000" channel="Moonbug.mncvision">
+    <title>Oddbods</title>
+</programme>
+<programme start="20251211083700 +0000" stop="20251211085800 +0000" channel="Moonbug.mncvision">
+    <title>Oddbods</title>
+</programme>
+<programme start="20251211085800 +0000" stop="20251211092600 +0000" channel="Moonbug.mncvision">
+    <title>Oddbods</title>
+</programme>
+<programme start="20251211092600 +0000" stop="20251211094600 +0000" channel="Moonbug.mncvision">
+    <title>CoComelon</title>
+</programme>
+<programme start="20251211094600 +0000" stop="20251211102100 +0000" channel="Moonbug.mncvision">
+    <title>JJ&#039;s Animal Time</title>
+</programme>
+<programme start="20251211102100 +0000" stop="20251211105600 +0000" channel="Moonbug.mncvision">
+    <title>CoComelon</title>
+</programme>
+<programme start="20251211105600 +0000" stop="20251211113100 +0000" channel="Moonbug.mncvision">
+    <title>Meekah</title>
+</programme>
+<programme start="20251211113100 +0000" stop="20251211115800 +0000" channel="Moonbug.mncvision">
+    <title>Meekah</title>
+</programme>
+<programme start="20251211115800 +0000" stop="20251211123200 +0000" channel="Moonbug.mncvision">
+    <title>Rob The Robot</title>
+</programme>
+<programme start="20251211123200 +0000" stop="20251211125500 +0000" channel="Moonbug.mncvision">
+    <title>Rob The Robot</title>
+</programme>
+<programme start="20251211125500 +0000" stop="20251211132600 +0000" channel="Moonbug.mncvision">
+    <title>CoComelon</title>
+</programme>
+<programme start="20251211132600 +0000" stop="20251211135500 +0000" channel="Moonbug.mncvision">
+    <title>Little Angel</title>
+</programme>
+<programme start="20251211135500 +0000" stop="20251211142500 +0000" channel="Moonbug.mncvision">
+    <title>Little Baby Bum</title>
+</programme>
+<programme start="20251211142500 +0000" stop="20251211162400 +0000" channel="Moonbug.mncvision">
+    <title>Little Baby Bum: Lullabies</title>
+</programme>
+<programme start="20251211162400 +0000" stop="20251211164600 +0000" channel="Moonbug.mncvision">
+    <title>Cody Time</title>
+</programme>
+<programme start="20251211164600 +0000" stop="20251210171600 +0000" channel="Moonbug.mncvision">
+    <title>CoComelon</title>
+</programme>
 <programme start="20251210190000 +0000" stop="20251210200000 +0000" channel="Music TV.mncvision">
     <title>Godain</title>
 </programme>
@@ -9185,17 +9406,11 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20251211090000 +0000" stop="20251211100000 +0000" channel="Vision Prime.mncvision">
     <title>Intan</title>
 </programme>
-<programme start="20251211100000 +0000" stop="20251211110000 +0000" channel="Vision Prime.mncvision">
-    <title>Mencintai Ipar Sendiri</title>
-</programme>
-<programme start="20251211110000 +0000" stop="20251211120000 +0000" channel="Vision Prime.mncvision">
+<programme start="20251211100000 +0000" stop="20251211120000 +0000" channel="Vision Prime.mncvision">
     <title>Cinta Sepenuh Jiwa</title>
 </programme>
-<programme start="20251211120000 +0000" stop="20251211130000 +0000" channel="Vision Prime.mncvision">
+<programme start="20251211120000 +0000" stop="20251211140000 +0000" channel="Vision Prime.mncvision">
     <title>Kau Ditakdirkan Untukku</title>
-</programme>
-<programme start="20251211130000 +0000" stop="20251211140000 +0000" channel="Vision Prime.mncvision">
-    <title>Terbelenggu Rindu</title>
 </programme>
 <programme start="20251211140000 +0000" stop="20251211143000 +0000" channel="Vision Prime.mncvision">
     <title>Second Account</title>
@@ -9257,17 +9472,11 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20251211090000 +0000" stop="20251211100000 +0000" channel="Vision Prime HD.mncvision">
     <title>Intan</title>
 </programme>
-<programme start="20251211100000 +0000" stop="20251211110000 +0000" channel="Vision Prime HD.mncvision">
-    <title>Mencintai Ipar Sendiri</title>
-</programme>
-<programme start="20251211110000 +0000" stop="20251211120000 +0000" channel="Vision Prime HD.mncvision">
+<programme start="20251211100000 +0000" stop="20251211120000 +0000" channel="Vision Prime HD.mncvision">
     <title>Cinta Sepenuh Jiwa</title>
 </programme>
-<programme start="20251211120000 +0000" stop="20251211130000 +0000" channel="Vision Prime HD.mncvision">
+<programme start="20251211120000 +0000" stop="20251211140000 +0000" channel="Vision Prime HD.mncvision">
     <title>Kau Ditakdirkan Untukku</title>
-</programme>
-<programme start="20251211130000 +0000" stop="20251211140000 +0000" channel="Vision Prime HD.mncvision">
-    <title>Terbelenggu Rindu</title>
 </programme>
 <programme start="20251211140000 +0000" stop="20251211143000 +0000" channel="Vision Prime HD.mncvision">
     <title>Second Account</title>

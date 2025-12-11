@@ -2863,15 +2863,6 @@
 <programme start="20251211073000 +0000" stop="20251211074500 +0000" channel="Sky Sport Bundesliga UHD.skyde">
     <title>Info: UHD</title>
 </programme>
-<programme start="20251212181000 +0000" stop="20251212183000 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
-    <title>Es folgt: Live 2. Bundesliga</title>
-</programme>
-<programme start="20251212183000 +0000" stop="20251212191500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
-    <title>Live BL: FCU - RBL: tipico Countdown, Flutlicht-Freitag, 14. Spieltag</title>
-</programme>
-<programme start="20251212191500 +0000" stop="20251212221500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
-    <title>Live BL: 1. FC Union Berlin - RB Leipzig, Flutlicht-Freitag, 14. Spieltag</title>
-</programme>
 <programme start="20251210230000 +0000" stop="20251211000000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>PMSC: Rennen - GP Italien</title>
 </programme>
