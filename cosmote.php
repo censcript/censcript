@@ -170,12 +170,8 @@
     <title>Basketball: Tenerife - Real Madrid</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251211212000 +0700" stop="20251211232500 +0700" channel="COSMOTE Sport 4 HD">
+<programme start="20251211212000 +0700" stop="20251211235000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: AEK - Levice</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251211232500 +0700" stop="20251211235000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>ACB Liga Endesa 2025-26 - Fifth Quarter E9</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251211235000 +0700" stop="20251212004500 +0700" channel="COSMOTE Sport 4 HD">
