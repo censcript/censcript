@@ -382,11 +382,11 @@
   <programme start="20251213163000 +0000" stop="20251213170000 +0000" channel=":24.webtv.sk">
     <title lang="id">Bedeker - Veľká Británia</title>
   </programme>
-  <programme start="20251213170000 +0000" stop="20251213171500 +0000" channel=":24.webtv.sk">
-    <title lang="id">Aktuálne :24</title>
-  </programme>
-  <programme start="20251213171500 +0000" stop="20251213180000 +0000" channel=":24.webtv.sk">
+  <programme start="20251213170000 +0000" stop="20251213175000 +0000" channel=":24.webtv.sk">
     <title lang="id">Cez lupu</title>
+  </programme>
+  <programme start="20251213175000 +0000" stop="20251213180000 +0000" channel=":24.webtv.sk">
+    <title lang="id">Počasie</title>
   </programme>
   <programme start="20251213180000 +0000" stop="20251213185500 +0000" channel=":24.webtv.sk">
     <title lang="id">Správy</title>
@@ -409,13 +409,13 @@
   <programme start="20251213212500 +0000" stop="20251213213000 +0000" channel=":24.webtv.sk">
     <title lang="id">Počasie</title>
   </programme>
-  <programme start="20251213213000 +0000" stop="20251213220000 +0000" channel=":24.webtv.sk">
+  <programme start="20251213213000 +0000" stop="20251213215500 +0000" channel=":24.webtv.sk">
     <title lang="id">Bedeker - Veľká Británia</title>
   </programme>
-  <programme start="20251213220000 +0000" stop="20251213222500 +0000" channel=":24.webtv.sk">
+  <programme start="20251213215500 +0000" stop="20251213222000 +0000" channel=":24.webtv.sk">
     <title lang="id">Archív :24</title>
   </programme>
-  <programme start="20251213222500 +0000" stop="20251213231000 +0000" channel=":24.webtv.sk">
+  <programme start="20251213222000 +0000" stop="20251213231000 +0000" channel=":24.webtv.sk">
     <title lang="id">Cez lupu</title>
   </programme>
   <programme start="20251212230000 +0000" stop="20251212232500 +0000" channel=":Šport.webtv.sk">
@@ -2794,17 +2794,26 @@
   <programme start="20251212230000 +0000" stop="20251213070000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">LIDOVÝ ŠLÁGR MIŠMAŠ</title>
   </programme>
-  <programme start="20251213070000 +0000" stop="20251213110000 +0000" channel="Šláger Muzika.webtv.sk">
-    <title lang="id">DOPOLEDNÍ DECHOVKA</title>
-  </programme>
-  <programme start="20251213110000 +0000" stop="20251213150000 +0000" channel="Šláger Muzika.webtv.sk">
-    <title lang="id">POLEDNÍ DECHOVKA</title>
-  </programme>
-  <programme start="20251213150000 +0000" stop="20251213180000 +0000" channel="Šláger Muzika.webtv.sk">
+  <programme start="20251213070000 +0000" stop="20251213150000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">Z DECHOVKY DO DECHOVKY</title>
   </programme>
-  <programme start="20251213180000 +0000" stop="20251213210000 +0000" channel="Šláger Muzika.webtv.sk">
-    <title lang="id">VEČERNÍ ZÁBAVA NA DVOJCE</title>
+  <programme start="20251213150000 +0000" stop="20251213160000 +0000" channel="Šláger Muzika.webtv.sk">
+    <title lang="id">Z DECHOVKY DO DECHOVKY</title>
+  </programme>
+  <programme start="20251213160000 +0000" stop="20251213170000 +0000" channel="Šláger Muzika.webtv.sk">
+    <title lang="id">SEDMKRÁT Z KOMPLETU</title>
+  </programme>
+  <programme start="20251213170000 +0000" stop="20251213180000 +0000" channel="Šláger Muzika.webtv.sk">
+    <title lang="id">PÍSNIČKY NA PŘÁNÍ</title>
+  </programme>
+  <programme start="20251213180000 +0000" stop="20251213190000 +0000" channel="Šláger Muzika.webtv.sk">
+    <title lang="id">ČAS NA DECHOVKU</title>
+  </programme>
+  <programme start="20251213190000 +0000" stop="20251213203000 +0000" channel="Šláger Muzika.webtv.sk">
+    <title lang="id">NEJŽÁDANĚJŠÍ PÍSNIČKY</title>
+  </programme>
+  <programme start="20251213203000 +0000" stop="20251213210000 +0000" channel="Šláger Muzika.webtv.sk">
+    <title lang="id">HARMONIKY</title>
   </programme>
   <programme start="20251213210000 +0000" stop="20251213230000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">Z DECHOVKY DO DECHOVKY</title>
