@@ -3188,7 +3188,7 @@
         <title>News in Review</title>
     </programme>
     <programme start="20251211003000 +0000" stop="20251211010000 +0000" channel="DW English HD.starhub">
-        <title>Experiencing and understanding the art world</title>
+        <title>Money, power, love - and mysterious creatures</title>
     </programme>
     <programme start="20251211010000 +0000" stop="20251211011500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3203,13 +3203,13 @@
         <title>News in Review</title>
     </programme>
     <programme start="20251211023000 +0000" stop="20251211030000 +0000" channel="DW English HD.starhub">
-        <title>Your Business Magazine</title>
+        <title>Munich: start-ups are revolutionizing drone technology</title>
     </programme>
     <programme start="20251211030000 +0000" stop="20251211031500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20251211031500 +0000" stop="20251211033000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>Serving the Pope with your life - what it&#039;s like to be a Swiss Guard</title>
     </programme>
     <programme start="20251211033000 +0000" stop="20251211040000 +0000" channel="DW English HD.starhub">
         <title>Making change green, fair and clean</title>
@@ -3233,10 +3233,10 @@
         <title>News</title>
     </programme>
     <programme start="20251211061500 +0000" stop="20251211063000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>Serving the Pope with your life - what it&#039;s like to be a Swiss Guard</title>
     </programme>
     <programme start="20251211063000 +0000" stop="20251211070000 +0000" channel="DW English HD.starhub">
-        <title>Your Business Magazine</title>
+        <title>Munich: start-ups are revolutionizing drone technology</title>
     </programme>
     <programme start="20251211070000 +0000" stop="20251211073000 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3248,7 +3248,7 @@
         <title>News</title>
     </programme>
     <programme start="20251211083000 +0000" stop="20251211090000 +0000" channel="DW English HD.starhub">
-        <title>The Science Magazine</title>
+        <title>Big, bigger, biggest: Record-breaking energy innovations</title>
     </programme>
     <programme start="20251211090000 +0000" stop="20251211091500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3278,7 +3278,7 @@
         <title>News</title>
     </programme>
     <programme start="20251211131500 +0000" stop="20251211133000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>How Malta became a classic car paradise</title>
     </programme>
     <programme start="20251211133000 +0000" stop="20251211140000 +0000" channel="DW English HD.starhub">
         <title>Why is Malta Europe’s classic car capital?</title>
@@ -7798,7 +7798,10 @@
     <programme start="20251210234000 +0000" stop="20251211013000 +0000" channel="Asianet Movies.starhub">
         <title>Amrutham</title>
     </programme>
-    <programme start="20251211013000 +0000" stop="20251211043000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251211013000 +0000" stop="20251211015000 +0000" channel="Asianet Movies.starhub">
+        <title>Chirikkum Thalika</title>
+    </programme>
+    <programme start="20251211015000 +0000" stop="20251211043000 +0000" channel="Asianet Movies.starhub">
         <title>Kunjiramayanam</title>
     </programme>
     <programme start="20251211043000 +0000" stop="20251211073000 +0000" channel="Asianet Movies.starhub">
