@@ -2713,7 +2713,7 @@
 <programme start="20251211173500 +0000" stop="20251211195000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live UEFA EL: SK Sturm Graz - Roter Stern Belgrad, Ligaphase, 6. Spieltag</title>
 </programme>
-<programme start="20251211195000 +0000" stop="20251211220000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20251211195000 +0000" stop="20251211223000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live UEFA ECL: SK Rapid - Omonia Nikosia, Ligaphase, 5. Spieltag</title>
 </programme>
 <programme start="20251211171500 +0000" stop="20251211173500 +0000" channel="Sky Sport Austria 3 HD.skyde">
@@ -2758,7 +2758,7 @@
 <programme start="20251211173500 +0000" stop="20251211195000 +0000" channel="Sky Sport Austria 7 HD.skyde">
     <title>Live UEFA EL: Ferencváros Budapest - Rangers FC, Ligaphase, 6. Spieltag</title>
 </programme>
-<programme start="20251211195000 +0000" stop="20251211220000 +0000" channel="Sky Sport Austria 7 HD.skyde">
+<programme start="20251211195000 +0000" stop="20251211223000 +0000" channel="Sky Sport Austria 7 HD.skyde">
     <title>Live UEFA EL: Olympique Lyon - Go Ahead Eagles, Ligaphase, 6. Spieltag</title>
 </programme>
 <programme start="20251211171500 +0000" stop="20251211173500 +0000" channel="Sky Sport Austria 8 HD.skyde">
@@ -3838,10 +3838,10 @@
 <programme start="20251211042500 +0000" stop="20251211051000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Daktari</title>
 </programme>
-<programme start="20251211051000 +0000" stop="20251211061000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20251211051000 +0000" stop="20251211060500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Mord ist ihr Hobby</title>
 </programme>
-<programme start="20251211061000 +0000" stop="20251211070000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20251211060500 +0000" stop="20251211070000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Mord ist ihr Hobby</title>
 </programme>
 <programme start="20251211070000 +0000" stop="20251211075000 +0000" channel="Warner TV Serie HD.skyde">
@@ -3877,10 +3877,10 @@
 <programme start="20251211152000 +0000" stop="20251211161000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Rizzoli and Isles</title>
 </programme>
-<programme start="20251211161000 +0000" stop="20251211165000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20251211161000 +0000" stop="20251211165500 +0000" channel="Warner TV Serie HD.skyde">
     <title>NCIS</title>
 </programme>
-<programme start="20251211165000 +0000" stop="20251211174000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20251211165500 +0000" stop="20251211174000 +0000" channel="Warner TV Serie HD.skyde">
     <title>NCIS</title>
 </programme>
 <programme start="20251211174000 +0000" stop="20251211182500 +0000" channel="Warner TV Serie HD.skyde">
@@ -3898,6 +3898,6 @@
 <programme start="20251211204500 +0000" stop="20251211213000 +0000" channel="Warner TV Serie HD.skyde">
     <title>NCIS</title>
 </programme>
-<programme start="20251211213000 +0000" stop="20251211232500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20251211213000 +0000" stop="20251211233000 +0000" channel="Warner TV Serie HD.skyde">
     <title>The Day After Tomorrow</title>
 </programme>

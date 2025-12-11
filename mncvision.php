@@ -8425,42 +8425,7 @@
 <programme start="20251211161500 +0000" stop="20251211164500 +0000" channel="SPOTV 2.mncvision">
     <title>SailGP S5: Abu Dhabi</title>
 </programme>
-<programme start="20251210172000 +0000" stop="20251210213000 +0000" channel="SPOTV 2 HD.mncvision">
-    <title>2025 FIM ARRC Thailand</title>
-</programme>
-<programme start="20251210213000 +0000" stop="20251210220000 +0000" channel="SPOTV 2 HD.mncvision">
-    <title>Aramco Invitational Tournament</title>
-</programme>
-<programme start="20251210220000 +0000" stop="20251211023000 +0000" channel="SPOTV 2 HD.mncvision">
-    <title>WTT Finals Hong Kong 2025</title>
-</programme>
-<programme start="20251211023000 +0000" stop="20251211043000 +0000" channel="SPOTV 2 HD.mncvision">
-    <title>Women&#039;s Football Friendlies</title>
-</programme>
-<programme start="20251211043000 +0000" stop="20251211053000 +0000" channel="SPOTV 2 HD.mncvision">
-    <title>MotoGP eSports C&#039;ship 2025</title>
-</programme>
-<programme start="20251211053000 +0000" stop="20251211063500 +0000" channel="SPOTV 2 HD.mncvision">
-    <title>MotoGP eSports C&#039;ship 2025</title>
-</programme>
-<programme start="20251211063500 +0000" stop="20251211080500 +0000" channel="SPOTV 2 HD.mncvision">
-    <title>MotoGP eSports C&#039;ship 2025</title>
-</programme>
-<programme start="20251211080500 +0000" stop="20251211100000 +0000" channel="SPOTV 2 HD.mncvision">
-    <title>A-League Men: NEW Vs MCY</title>
-</programme>
-<programme start="20251211100000 +0000" stop="20251211130000 +0000" channel="SPOTV 2 HD.mncvision">
-    <title>MLB 2025: LAD Vs TBJ</title>
-</programme>
-<programme start="20251211130000 +0000" stop="20251211154500 +0000" channel="SPOTV 2 HD.mncvision">
-    <title>MLB 2025: LAD Vs TBJ</title>
-</programme>
-<programme start="20251211154500 +0000" stop="20251211161500 +0000" channel="SPOTV 2 HD.mncvision">
-    <title>2025/26 A-League Men HL</title>
-</programme>
-<programme start="20251211161500 +0000" stop="20251211164500 +0000" channel="SPOTV 2 HD.mncvision">
-    <title>SailGP S5: Abu Dhabi</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20251210173000 +0000" stop="20251210180000 +0000" channel="SPOTV HD.mncvision">
     <title>ALM Mini Match: CCM Vs SYD</title>
 </programme>

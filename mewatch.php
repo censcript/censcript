@@ -103,11 +103,8 @@
     <programme start="20251211070000 +0000" stop="20251211073000 +0000" channel="Channel 5.mewatch">
         <title>Wheel Of Fortune S42 - EP 46</title>
     </programme>
-    <programme start="20251211073000 +0000" stop="20251211080000 +0000" channel="Channel 5.mewatch">
+    <programme start="20251211073000 +0000" stop="20251211110000 +0000" channel="Channel 5.mewatch">
         <title>Le Bisellahause - EP 1</title>
-    </programme>
-    <programme start="20251211080000 +0000" stop="20251211110000 +0000" channel="Channel 5.mewatch">
-        <title>33rd SEA Games 2025: Daily Action At The Games - EP 3</title>
     </programme>
     <programme start="20251211110000 +0000" stop="20251211130000 +0000" channel="Channel 5.mewatch">
         <title>33rd SEA Games 2025: Daily Action At The Games - EP 4</title>
