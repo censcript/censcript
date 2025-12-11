@@ -685,9 +685,6 @@
 <programme start="20251211140000 +0000" stop="20251211160000 +0000" channel="ANTV.vision">
 <title>Tawa Kalcer</title>
 </programme>
-<programme start="20251211160000 +0000" stop="20251211180000 +0000" channel="ANTV.vision">
-<title>Lucky Start Go Places</title>
-</programme>
 <programme start="20251211180000 +0000" stop="20251211200000 +0000" channel="ANTV.vision">
 <title>Empire State</title>
 </programme>
@@ -1496,5 +1493,8 @@
 <title>TVRI</title>
 </programme>
 <programme start="20251211130000 +0000" stop="20251211150000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251211150000 +0000" stop="20251211170000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
