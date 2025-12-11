@@ -1,7 +1,3 @@
-<programme start="20251211194500 +0700" stop="20251211214500 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: Athletic Club - Paris Saint Germain</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251211214500 +0700" stop="20251211234500 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Real Madrid CF - Manchester City FC</title>
     <desc>Live: Tidak</desc>
@@ -118,6 +114,10 @@
     <title>Football: SK Rapid Wien - Omonoia FC</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251212220500 +0700" stop="20251213000500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: ACF Fiorentina - FC Dynamo Kyiv</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251211210000 +0700" stop="20251211230000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Brackley Town - Burton Albion</title>
     <desc>Live: Tidak</desc>
@@ -168,10 +168,6 @@
 </programme>
 <programme start="20251212210000 +0700" stop="20251212230000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Lech Poznan - FSV Mainz 05</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251211192000 +0700" stop="20251211212000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Tenerife - Real Madrid</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251211212000 +0700" stop="20251211235000 +0700" channel="COSMOTE Sport 4 HD">
@@ -232,10 +228,6 @@
 </programme>
 <programme start="20251212213500 +0700" stop="20251212233500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Merkezefendi - Fenerbahce</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251211203000 +0700" stop="20251211213000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Red Bull MotoGP Rookies Cup 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251211213000 +0700" stop="20251211222000 +0700" channel="COSMOTE Sport 5 HD">
@@ -316,6 +308,14 @@
 </programme>
 <programme start="20251212213000 +0700" stop="20251212220000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Highlights: ROC Nations Cup 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251212220000 +0700" stop="20251212223000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Highlights: ROC Race of Champions 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251212223000 +0700" stop="20251212231500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251211210000 +0700" stop="20251211233000 +0700" channel="COSMOTE Sport 6 HD">
