@@ -3703,9 +3703,6 @@
     <programme start="20251210164000 +0000" stop="20251210170500 +0000" channel="NHK World Premium HD.starhub">
         <title>Haiku Poetry</title>
     </programme>
-    <programme start="20251210170500 +0000" stop="20251210171000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Mini Program</title>
-    </programme>
     <programme start="20251210171000 +0000" stop="20251210173000 +0000" channel="NHK World Premium HD.starhub">
         <title>Spanish in a Happy Mood</title>
     </programme>
@@ -3757,17 +3754,17 @@
     <programme start="20251210230000 +0000" stop="20251210231500 +0000" channel="NHK World Premium HD.starhub">
         <title>Drama Serial &quot;The Ghost Writer&#039;s Wife&quot; Eps. 54</title>
     </programme>
-    <programme start="20251210231500 +0000" stop="20251211005400 +0000" channel="NHK World Premium HD.starhub">
-        <title>asaichi</title>
+    <programme start="20251210235500 +0000" stop="20251211000000 +0000" channel="NHK World Premium HD.starhub">
+        <title>News &amp; Weather</title>
     </programme>
-    <programme start="20251211005400 +0000" stop="20251211005500 +0000" channel="NHK World Premium HD.starhub">
-        <title>World Weather</title>
+    <programme start="20251211000000 +0000" stop="20251211005500 +0000" channel="NHK World Premium HD.starhub">
+        <title>Classical Music Club</title>
     </programme>
     <programme start="20251211005500 +0000" stop="20251211010000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Exercise for Everyone</title>
+        <title>Cruising from the Sky Mini</title>
     </programme>
     <programme start="20251211010000 +0000" stop="20251211010500 +0000" channel="NHK World Premium HD.starhub">
-        <title>News &amp; Weather</title>
+        <title>The Great Nature 5min.</title>
     </programme>
     <programme start="20251211010500 +0000" stop="20251211015000 +0000" channel="NHK World Premium HD.starhub">
         <title>Eat Up! The Ultimate Homemade Cooking Battle &quot;Mochi Rice Cake&quot; (R)</title>
@@ -3830,7 +3827,7 @@
         <title>Fish Masters (R)</title>
     </programme>
     <programme start="20251211080500 +0000" stop="20251211081000 +0000" channel="NHK World Premium HD.starhub">
-        <title>See, Learn, Explore--A Deep Travelogue in Tohoku (R)</title>
+        <title>See, Learn, Explore--A Deep Travelogue in Tohoku</title>
     </programme>
     <programme start="20251211081000 +0000" stop="20251211082000 +0000" channel="NHK World Premium HD.starhub">
         <title>City-Scope</title>

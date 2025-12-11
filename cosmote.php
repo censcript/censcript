@@ -114,6 +114,10 @@
     <title>Football: Pisa - Parma</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251212180500 +0700" stop="20251212200500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Samsunspor - AEK</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251211170000 +0700" stop="20251211190000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Celtic FC - Heart of Midlothian</title>
     <desc>Live: Tidak</desc>
@@ -226,8 +230,8 @@
     <title>Basketball: Sacramento Kings - Denver Nuggets</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251211164500 +0700" stop="20251211172500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Moto-E World Championship 2025</title>
+<programme start="20251212183000 +0700" stop="20251212190000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>NBA Specials</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251211172500 +0700" stop="20251211183000 +0700" channel="COSMOTE Sport 5 HD">
@@ -392,6 +396,14 @@
 </programme>
 <programme start="20251212160000 +0700" stop="20251212181000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Premier Padel Tour 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251212181000 +0700" stop="20251212183000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Sports Classics: Worldies E11</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251212183000 +0700" stop="20251212190000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Premier Padel Tour 2025 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251211170000 +0700" stop="20251211190000 +0700" channel="COSMOTE Sport 7 HD">
