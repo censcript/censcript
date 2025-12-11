@@ -3128,10 +3128,10 @@
         <title>News</title>
     </programme>
     <programme start="20251210171500 +0000" stop="20251210173000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>Serving the Pope with your life - what it&#039;s like to be a Swiss Guard</title>
     </programme>
     <programme start="20251210173000 +0000" stop="20251210180000 +0000" channel="DW English HD.starhub">
-        <title>The Current Affairs Documentary</title>
+        <title>The EU’s Anti-Fraud Enforcer</title>
     </programme>
     <programme start="20251210180000 +0000" stop="20251210183000 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3158,7 +3158,7 @@
         <title>News</title>
     </programme>
     <programme start="20251210210200 +0000" stop="20251210211500 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>Serving the Pope with your life - what it&#039;s like to be a Swiss Guard</title>
     </programme>
     <programme start="20251210211500 +0000" stop="20251210220000 +0000" channel="DW English HD.starhub">
         <title>Under the Knife - A History of Surgery, Part 1</title>
@@ -3170,13 +3170,13 @@
         <title>News in Review</title>
     </programme>
     <programme start="20251210223000 +0000" stop="20251210230000 +0000" channel="DW English HD.starhub">
-        <title>Your Business Magazine</title>
+        <title>Munich: start-ups are revolutionizing drone technology</title>
     </programme>
     <programme start="20251210230000 +0000" stop="20251210231500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20251210231500 +0000" stop="20251210233000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>Serving the Pope with your life - what it&#039;s like to be a Swiss Guard</title>
     </programme>
     <programme start="20251210233000 +0000" stop="20251211000000 +0000" channel="DW English HD.starhub">
         <title>Spotlight on People</title>

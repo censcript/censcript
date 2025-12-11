@@ -103,11 +103,17 @@
     <programme start="20251211070000 +0000" stop="20251211073000 +0000" channel="Channel 5.mewatch">
         <title>Wheel Of Fortune S42 - EP 46</title>
     </programme>
-    <programme start="20251211073000 +0000" stop="20251211110000 +0000" channel="Channel 5.mewatch">
+    <programme start="20251211073000 +0000" stop="20251211080000 +0000" channel="Channel 5.mewatch">
         <title>Le Bisellahause - EP 1</title>
     </programme>
+    <programme start="20251211080000 +0000" stop="20251211090000 +0000" channel="Channel 5.mewatch">
+        <title>Artistic Gymnastics - 33rd SEA Games Thailand 2025: Men&#039;s &amp; Women&#039;s Apparatus Finals</title>
+    </programme>
+    <programme start="20251211090000 +0000" stop="20251211110000 +0000" channel="Channel 5.mewatch">
+        <title>Badminton - 33rd SEA Games Thailand 2025: Men&#039;s Singles &amp; Mixed Doubles Preliminary Round</title>
+    </programme>
     <programme start="20251211110000 +0000" stop="20251211130000 +0000" channel="Channel 5.mewatch">
-        <title>33rd SEA Games 2025: Daily Action At The Games - EP 4</title>
+        <title>Swimming - 33rd SEA Games Thailand 2025: Men&#039;s &amp; Women&#039;s Finals - 11 Dec 2025</title>
     </programme>
     <programme start="20251211130000 +0000" stop="20251211133000 +0000" channel="Channel 5.mewatch">
         <title>(Live) News Tonight</title>
