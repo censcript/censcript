@@ -54,6 +54,14 @@
     <title>Game R1 S6 E16</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251213040000 +0700" stop="20251213043000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEFA Champions League Magazine 2024-25 E15</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251213043000 +0700" stop="20251213053000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEFA Champions League Highlights 2025-26</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251212030000 +0700" stop="20251212050500 +0700" channel="COSMOTE Sport 2 HD">
     <title>European Football Show Greek Edition 2025-26 (L)</title>
     <desc>Live: Ya</desc>
@@ -113,6 +121,10 @@
 <programme start="20251213024500 +0700" stop="20251213044500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Lecce - Pisa (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20251213044500 +0700" stop="20251213064500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Utrecht - Nottingham F.</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251212030000 +0700" stop="20251212050500 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Celtic FC - AS Roma (L)</title>
@@ -318,6 +330,10 @@
     <title>MotoGP 2025 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251213042500 +0700" stop="20251213060500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>DTM</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251212030000 +0700" stop="20251212050500 +0700" channel="COSMOTE Sport 6 HD">
     <title>Football: FC Porto - Malmo FF (L)</title>
     <desc>Live: Ya</desc>
@@ -388,6 +404,10 @@
 </programme>
 <programme start="20251213033000 +0700" stop="20251213040000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Premier Padel Tour 2025 - Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251213040000 +0700" stop="20251213050000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Nitto ATP Finals 2025 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251212030000 +0700" stop="20251212050500 +0700" channel="COSMOTE Sport 7 HD">

@@ -865,7 +865,13 @@
     <programme start="20251212123000 +0000" stop="20251212163000 +0000" channel="Live 2.mewatch">
         <title>ONE Friday Fights 136</title>
     </programme>
-    <programme start="20251211160000 +0000" stop="20251212160000 +0000" channel="Live 5.mewatch">
+    <programme start="20251211160000 +0000" stop="20251212092000 +0000" channel="Live 5.mewatch">
+        <title>No Programme available now. Next Broadcast on 12th December, Friday 5.20pm. Women&#039;s World Floorball Championships 2025</title>
+    </programme>
+    <programme start="20251212092000 +0000" stop="20251212113000 +0000" channel="Live 5.mewatch">
+        <title>Women&#039;s World Floorball Championships 2025: USA vs Singapore</title>
+    </programme>
+    <programme start="20251212113000 +0000" stop="20251212160000 +0000" channel="Live 5.mewatch">
         <title>No Programme available now. Next Broadcast on 17th December, Wednesday 3.50am. Carabao Cup 2025/26</title>
     </programme>
     <programme start="20251212160000 +0000" stop="20251213160000 +0000" channel="Live 5.mewatch">
