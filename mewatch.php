@@ -679,53 +679,38 @@
     <programme start="20251210150000 +0000" stop="20251210162000 +0000" channel="now-80s.mewatch">
         <title>The UK&#039;s Most Streamed Xmas Songs! - EP1</title>
     </programme>
-    <programme start="20251210162000 +0000" stop="20251210170000 +0000" channel="now-80s.mewatch">
-        <title>Soft Rock &amp; Power Pop! - EP1</title>
+    <programme start="20251210170000 +0000" stop="20251210230000 +0000" channel="now-80s.mewatch">
+        <title>101 Feelgood Anthems of the 80s! - EP1</title>
     </programme>
-    <programme start="20251210170000 +0000" stop="20251210180000 +0000" channel="now-80s.mewatch">
-        <title>Blimey! Wasn&#039;t It Bigger? 1980-89 - EP1</title>
+    <programme start="20251210230000 +0000" stop="20251211011000 +0000" channel="now-80s.mewatch">
+        <title>The UK&#039;s Most Streamed Xmas Songs! - EP1</title>
     </programme>
-    <programme start="20251210180000 +0000" stop="20251210220000 +0000" channel="now-80s.mewatch">
-        <title>Cuddle On The Couch - The Love 50 - EP1</title>
+    <programme start="20251211011000 +0000" stop="20251211020000 +0000" channel="now-80s.mewatch">
+        <title>Your Festive Party Channel! - EP1</title>
     </programme>
-    <programme start="20251210220000 +0000" stop="20251211000500 +0000" channel="now-80s.mewatch">
-        <title>The Greatest Showmen! Top 25 - EP1</title>
+    <programme start="20251211020000 +0000" stop="20251211042500 +0000" channel="now-80s.mewatch">
+        <title>The Heat Is On! Top 30 - EP1</title>
     </programme>
-    <programme start="20251211000500 +0000" stop="20251211010000 +0000" channel="now-80s.mewatch">
-        <title>Sunday Love Songs! - EP1</title>
+    <programme start="20251211042500 +0000" stop="20251211050000 +0000" channel="now-80s.mewatch">
+        <title>Your Festive Party Channel! - EP1</title>
     </programme>
-    <programme start="20251211010000 +0000" stop="20251211042000 +0000" channel="now-80s.mewatch">
-        <title>40 One-Hit Wonders with Pat Sharp - EP1</title>
+    <programme start="20251211050000 +0000" stop="20251211073500 +0000" channel="now-80s.mewatch">
+        <title>Start Your Party With A Fizz! - EP1</title>
     </programme>
-    <programme start="20251211042000 +0000" stop="20251211050000 +0000" channel="now-80s.mewatch">
-        <title>Hits That Missed! - EP1</title>
+    <programme start="20251211073500 +0000" stop="20251211090000 +0000" channel="now-80s.mewatch">
+        <title>Your Festive Party Channel! - EP1</title>
     </programme>
-    <programme start="20251211050000 +0000" stop="20251211070000 +0000" channel="now-80s.mewatch">
-        <title>Less-Heard-Hits from A-List Stars! - EP1</title>
+    <programme start="20251211090000 +0000" stop="20251211110000 +0000" channel="now-80s.mewatch">
+        <title>The Last Days of Disco! 1980-1982 - EP1</title>
     </programme>
-    <programme start="20251211070000 +0000" stop="20251211084500 +0000" channel="now-80s.mewatch">
-        <title>Duncan James&#039; Eurovision Top 25 - EP1</title>
+    <programme start="20251211110000 +0000" stop="20251211133000 +0000" channel="now-80s.mewatch">
+        <title>Limahl&#039;s Frocky Horror Show! - EP1</title>
     </programme>
-    <programme start="20251211084500 +0000" stop="20251211090000 +0000" channel="now-80s.mewatch">
-        <title>WOW! What A Party! - EP1</title>
+    <programme start="20251211133000 +0000" stop="20251211140000 +0000" channel="now-80s.mewatch">
+        <title>Night Moves! - EP1</title>
     </programme>
-    <programme start="20251211090000 +0000" stop="20251211093000 +0000" channel="now-80s.mewatch">
-        <title>Too Funky! Paul Young v G Michael - EP1</title>
-    </programme>
-    <programme start="20251211093000 +0000" stop="20251211103000 +0000" channel="now-80s.mewatch">
-        <title>Blimey! Wasn&#039;t It Bigger? 1980-89 - EP1</title>
-    </programme>
-    <programme start="20251211103000 +0000" stop="20251211120500 +0000" channel="now-80s.mewatch">
-        <title>Paul Young&#039;s 25 Classic Covers! - EP1</title>
-    </programme>
-    <programme start="20251211120500 +0000" stop="20251211130000 +0000" channel="now-80s.mewatch">
-        <title>Soft Rock &amp; Power Pop! - EP1</title>
-    </programme>
-    <programme start="20251211130000 +0000" stop="20251211150000 +0000" channel="now-80s.mewatch">
-        <title>Complete George Michael: 1982-1989 - EP1</title>
-    </programme>
-    <programme start="20251211150000 +0000" stop="20251211161500 +0000" channel="now-80s.mewatch">
-        <title>Every Video- Queen&#039;s Greatest Hits - EP1</title>
+    <programme start="20251211140000 +0000" stop="20251211162000 +0000" channel="now-80s.mewatch">
+        <title>Gone...But Not Forgotten Top 30 - EP1</title>
     </programme>
     <programme start="20251210160000 +0000" stop="20251210163000 +0000" channel="now-70s.mewatch">
         <title>Tony Blackburn&#039;s Pop Party! 70-75 - EP1</title>

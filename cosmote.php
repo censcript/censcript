@@ -114,6 +114,10 @@
     <title>Football: Olympiacos - OFI</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251212141000 +0700" stop="20251212160500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Hellas Verona - Atalanta</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251211130000 +0700" stop="20251211150000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Kilmarnock - Rangers FC</title>
     <desc>Live: Tidak</desc>
@@ -226,10 +230,6 @@
     <title>Basketball: Tenerife - Real Madrid</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251211124000 +0700" stop="20251211140000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>DTM 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251211140000 +0700" stop="20251211150000 +0700" channel="COSMOTE Sport 5 HD">
     <title>2025 FIM Women&#039;s Circuit Racing World Championship</title>
     <desc>Live: Tidak</desc>
@@ -314,8 +314,8 @@
     <title>DTM</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251211110000 +0700" stop="20251211133000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Volleyball: Olympiacos - Apeldoorn</title>
+<programme start="20251212141000 +0700" stop="20251212150500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>2025 FIM Women&#039;s Circuit Racing World Championship</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251211133000 +0700" stop="20251211142000 +0700" channel="COSMOTE Sport 6 HD">
@@ -400,6 +400,10 @@
 </programme>
 <programme start="20251212130000 +0700" stop="20251212140000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Nitto ATP Finals 2025 - Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251212140000 +0700" stop="20251212160000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Premier Padel Tour 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251211130000 +0700" stop="20251211150000 +0700" channel="COSMOTE Sport 7 HD">
