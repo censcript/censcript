@@ -2722,7 +2722,7 @@
 <programme start="20251211173500 +0000" stop="20251211195000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live UEFA EL: FC Utrecht - Nottingham Forest, Ligaphase, 6. Spieltag</title>
 </programme>
-<programme start="20251211195000 +0000" stop="20251211220000 +0000" channel="Sky Sport Austria 3 HD.skyde">
+<programme start="20251211195000 +0000" stop="20251211223000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live UEFA EL: Celtic Glasgow - AS Rom, Ligaphase, 6. Spieltag</title>
 </programme>
 <programme start="20251211171500 +0000" stop="20251211173500 +0000" channel="Sky Sport Austria 4 HD.skyde">
@@ -2731,7 +2731,7 @@
 <programme start="20251211173500 +0000" stop="20251211195000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live UEFA EL: VfB Stuttgart - Maccabi Tel-Aviv, Ligaphase, 6. Spieltag</title>
 </programme>
-<programme start="20251211195000 +0000" stop="20251211220000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+<programme start="20251211195000 +0000" stop="20251211223000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live UEFA EL: FC Basel - Aston Villa, Ligaphase, 6. Spieltag</title>
 </programme>
 <programme start="20251211171500 +0000" stop="20251211173500 +0000" channel="Sky Sport Austria 5 HD.skyde">
@@ -2740,7 +2740,7 @@
 <programme start="20251211173500 +0000" stop="20251211195000 +0000" channel="Sky Sport Austria 5 HD.skyde">
     <title>Live UEFA EL: FC Midtjylland - KRC Genk, Ligaphase, 6. Spieltag</title>
 </programme>
-<programme start="20251211195000 +0000" stop="20251211220000 +0000" channel="Sky Sport Austria 5 HD.skyde">
+<programme start="20251211195000 +0000" stop="20251211223000 +0000" channel="Sky Sport Austria 5 HD.skyde">
     <title>Live UEFA EL: Celta Vigo - FC Bologna, Ligaphase, 6. Spieltag</title>
 </programme>
 <programme start="20251211171500 +0000" stop="20251211173500 +0000" channel="Sky Sport Austria 6 HD.skyde">
@@ -2749,7 +2749,7 @@
 <programme start="20251211173500 +0000" stop="20251211195000 +0000" channel="Sky Sport Austria 6 HD.skyde">
     <title>Live UEFA EL: Dinamo Zagreb - Real Betis, Ligaphase, 6. Spieltag</title>
 </programme>
-<programme start="20251211195000 +0000" stop="20251211220000 +0000" channel="Sky Sport Austria 6 HD.skyde">
+<programme start="20251211195000 +0000" stop="20251211223000 +0000" channel="Sky Sport Austria 6 HD.skyde">
     <title>Live UEFA EL: FC Porto - Malmö FF, Ligaphase, 6. Spieltag</title>
 </programme>
 <programme start="20251211171500 +0000" stop="20251211173500 +0000" channel="Sky Sport Austria 7 HD.skyde">
@@ -3838,10 +3838,10 @@
 <programme start="20251211042500 +0000" stop="20251211051000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Daktari</title>
 </programme>
-<programme start="20251211051000 +0000" stop="20251211060500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20251211051000 +0000" stop="20251211061000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Mord ist ihr Hobby</title>
 </programme>
-<programme start="20251211060500 +0000" stop="20251211070000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20251211061000 +0000" stop="20251211070000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Mord ist ihr Hobby</title>
 </programme>
 <programme start="20251211070000 +0000" stop="20251211075000 +0000" channel="Warner TV Serie HD.skyde">
@@ -3877,10 +3877,10 @@
 <programme start="20251211152000 +0000" stop="20251211161000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Rizzoli and Isles</title>
 </programme>
-<programme start="20251211161000 +0000" stop="20251211165500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20251211161000 +0000" stop="20251211165000 +0000" channel="Warner TV Serie HD.skyde">
     <title>NCIS</title>
 </programme>
-<programme start="20251211165500 +0000" stop="20251211174000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20251211165000 +0000" stop="20251211174000 +0000" channel="Warner TV Serie HD.skyde">
     <title>NCIS</title>
 </programme>
 <programme start="20251211174000 +0000" stop="20251211182500 +0000" channel="Warner TV Serie HD.skyde">
@@ -3898,6 +3898,6 @@
 <programme start="20251211204500 +0000" stop="20251211213000 +0000" channel="Warner TV Serie HD.skyde">
     <title>NCIS</title>
 </programme>
-<programme start="20251211213000 +0000" stop="20251211233000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20251211213000 +0000" stop="20251211232500 +0000" channel="Warner TV Serie HD.skyde">
     <title>The Day After Tomorrow</title>
 </programme>
