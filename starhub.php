@@ -3700,7 +3700,10 @@
     <programme start="20251210161500 +0000" stop="20251210164000 +0000" channel="NHK World Premium HD.starhub">
         <title>Today&#039;s Cooking</title>
     </programme>
-    <programme start="20251210164000 +0000" stop="20251210170500 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20251210164000 +0000" stop="20251210164300 +0000" channel="NHK World Premium HD.starhub">
+        <title>News</title>
+    </programme>
+    <programme start="20251210164300 +0000" stop="20251210171000 +0000" channel="NHK World Premium HD.starhub">
         <title>Haiku Poetry</title>
     </programme>
     <programme start="20251210171000 +0000" stop="20251210173000 +0000" channel="NHK World Premium HD.starhub">
@@ -3753,6 +3756,9 @@
     </programme>
     <programme start="20251210230000 +0000" stop="20251210231500 +0000" channel="NHK World Premium HD.starhub">
         <title>Drama Serial &quot;The Ghost Writer&#039;s Wife&quot; Eps. 54</title>
+    </programme>
+    <programme start="20251210231500 +0000" stop="20251210235500 +0000" channel="NHK World Premium HD.starhub">
+        <title>asaichi</title>
     </programme>
     <programme start="20251210235500 +0000" stop="20251211000000 +0000" channel="NHK World Premium HD.starhub">
         <title>News &amp; Weather</title>
