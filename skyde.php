@@ -984,6 +984,45 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251212214000 +0000" stop="20251212233000 +0000" channel="DAZN 1 HD.skyde">
     <title>Bundesliga: 1. FC Union Berlin - RB Leipzig</title>
 </programme>
+<programme start="20251211230000 +0000" stop="20251212070000 +0000" channel="DAZN 2 HD.skyde">
+    <title>Sendepause</title>
+</programme>
+<programme start="20251212070000 +0000" stop="20251212090000 +0000" channel="DAZN 2 HD.skyde">
+    <title>Bundesliga: RB Leipzig - Eintracht Frankfurt</title>
+</programme>
+<programme start="20251212090000 +0000" stop="20251212110000 +0000" channel="DAZN 2 HD.skyde">
+    <title>Bundesliga: Borussia Dortmund - TSG 1899 Hoffenheim</title>
+</programme>
+<programme start="20251212110000 +0000" stop="20251212113000 +0000" channel="DAZN 2 HD.skyde">
+    <title>Best of DAZN: Highlights</title>
+</programme>
+<programme start="20251212113000 +0000" stop="20251212120000 +0000" channel="DAZN 2 HD.skyde">
+    <title>Serie A Highlightshow: 14. Spieltag</title>
+</programme>
+<programme start="20251212120000 +0000" stop="20251212123100 +0000" channel="DAZN 2 HD.skyde">
+    <title>Ligue 1 Highlightshow 2025/26: 15. Spieltag</title>
+</programme>
+<programme start="20251212123100 +0000" stop="20251212160500 +0000" channel="DAZN 2 HD.skyde">
+    <title>World Darts Championship: Tag 2 - Session 1</title>
+</programme>
+<programme start="20251212160500 +0000" stop="20251212164500 +0000" channel="DAZN 2 HD.skyde">
+    <title>Best of DAZN: Highlights</title>
+</programme>
+<programme start="20251212164500 +0000" stop="20251212174000 +0000" channel="DAZN 2 HD.skyde">
+    <title>Her Element by Laura Wontorra: Episode 1</title>
+</programme>
+<programme start="20251212174000 +0000" stop="20251212182500 +0000" channel="DAZN 2 HD.skyde">
+    <title>Her Element by Laura Wontorra: Episode 2</title>
+</programme>
+<programme start="20251212182500 +0000" stop="20251212190000 +0000" channel="DAZN 2 HD.skyde">
+    <title>Best of DAZN: Highlights</title>
+</programme>
+<programme start="20251212190000 +0000" stop="20251212223000 +0000" channel="DAZN 2 HD.skyde">
+    <title>World Darts Championship: Tag 2 - Session 2</title>
+</programme>
+<programme start="20251212223000 +0000" stop="20251212230500 +0000" channel="DAZN 2 HD.skyde">
+    <title>Best of DAZN: Highlights</title>
+</programme>
 <programme start="20251211233500 +0000" stop="20251212000000 +0000" channel="Heimatkanal.skyde">
     <title>Königlich Bayerisches Amtsgericht</title>
 </programme>
