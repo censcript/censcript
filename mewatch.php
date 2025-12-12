@@ -679,56 +679,53 @@
     <programme start="20251212060000 +0000" stop="20251212170000 +0000" channel="now-80s.mewatch">
         <title>Every Number 1 of the 80s! - EP1</title>
     </programme>
-    <programme start="20251211160000 +0000" stop="20251211162500 +0000" channel="now-70s.mewatch">
-        <title>All Day - They Hit The Top Spot! - EP1</title>
+    <programme start="20251211160000 +0000" stop="20251211165000 +0000" channel="now-70s.mewatch">
+        <title>Derek Griffiths&#039; Cartoon Xmas! - EP1</title>
     </programme>
-    <programme start="20251211162500 +0000" stop="20251211202500 +0000" channel="now-70s.mewatch">
-        <title>Every Party No.1 of the 70s! - EP1</title>
+    <programme start="20251211165000 +0000" stop="20251211170000 +0000" channel="now-70s.mewatch">
+        <title>As Noddy Says.. It&#039;s Christmaaas! - EP1</title>
+    </programme>
+    <programme start="20251211170000 +0000" stop="20251211182500 +0000" channel="now-70s.mewatch">
+        <title>Tony&#039;s Sensational 70s Xmas! - EP1</title>
+    </programme>
+    <programme start="20251211182500 +0000" stop="20251211190000 +0000" channel="now-70s.mewatch">
+        <title>Simply Having A Wonderful Xmas! - EP1</title>
+    </programme>
+    <programme start="20251211190000 +0000" stop="20251211202500 +0000" channel="now-70s.mewatch">
+        <title>Christmas Party Anthems! Top 20 - EP1</title>
     </programme>
     <programme start="20251211202500 +0000" stop="20251211210000 +0000" channel="now-70s.mewatch">
-        <title>Every Party No.1 of the 70s! - EP1</title>
+        <title>Simply Having A Wonderful Xmas! - EP1</title>
     </programme>
-    <programme start="20251211210000 +0000" stop="20251211231500 +0000" channel="now-70s.mewatch">
-        <title>Hamilton&#039;s Hotshots! Top 30 - EP1</title>
+    <programme start="20251211210000 +0000" stop="20251211220000 +0000" channel="now-70s.mewatch">
+        <title>Bruno Brookes UK Top 40 of Xmas - EP1</title>
     </programme>
-    <programme start="20251211231500 +0000" stop="20251212000000 +0000" channel="now-70s.mewatch">
-        <title>Spring Has Sprung! - EP1</title>
+    <programme start="20251211220000 +0000" stop="20251212050000 +0000" channel="now-70s.mewatch">
+        <title>Sing It Loud! 1970-1979 - EP1</title>
     </programme>
-    <programme start="20251212000000 +0000" stop="20251212034500 +0000" channel="now-70s.mewatch">
-        <title>50 Summer Sizzlers! 1970-1979 - EP1</title>
+    <programme start="20251212050000 +0000" stop="20251212060000 +0000" channel="now-70s.mewatch">
+        <title>Simply Having A Wonderful Xmas! - EP1</title>
     </programme>
-    <programme start="20251212034500 +0000" stop="20251212040000 +0000" channel="now-70s.mewatch">
-        <title>Spring Has Sprung! - EP1</title>
+    <programme start="20251212060000 +0000" stop="20251212080000 +0000" channel="now-70s.mewatch">
+        <title>Festive Faves! 70s v 60s v 50s - EP1</title>
     </programme>
-    <programme start="20251212040000 +0000" stop="20251212060500 +0000" channel="now-70s.mewatch">
-        <title>Party Hits &#039;76! with Dave Bartram - EP1</title>
+    <programme start="20251212080000 +0000" stop="20251212111000 +0000" channel="now-70s.mewatch">
+        <title>Simon Bates 70s Pop Reloaded! - EP1</title>
     </programme>
-    <programme start="20251212060500 +0000" stop="20251212070000 +0000" channel="now-70s.mewatch">
-        <title>Spring Has Sprung! - EP1</title>
+    <programme start="20251212111000 +0000" stop="20251212120000 +0000" channel="now-70s.mewatch">
+        <title>As Noddy Says.. It&#039;s Christmaaas! - EP1</title>
     </programme>
-    <programme start="20251212070000 +0000" stop="20251212091000 +0000" channel="now-70s.mewatch">
-        <title>30 Boys In Love - In The 70s! - EP1</title>
+    <programme start="20251212120000 +0000" stop="20251212130000 +0000" channel="now-70s.mewatch">
+        <title>Pete Waterman&#039;s Xmas in the 70s - EP1</title>
     </programme>
-    <programme start="20251212091000 +0000" stop="20251212093000 +0000" channel="now-70s.mewatch">
-        <title>Retro Rewind! 70s Edition - EP1</title>
+    <programme start="20251212130000 +0000" stop="20251212150000 +0000" channel="now-70s.mewatch">
+        <title>The Best 1977 Party...Ever! - EP1</title>
     </programme>
-    <programme start="20251212093000 +0000" stop="20251212095500 +0000" channel="now-70s.mewatch">
-        <title>All Day - They Hit The Top Spot! - EP1</title>
+    <programme start="20251212150000 +0000" stop="20251212160000 +0000" channel="now-70s.mewatch">
+        <title>The Best 1973 Party...Ever! - EP1</title>
     </programme>
-    <programme start="20251212095500 +0000" stop="20251212103000 +0000" channel="now-70s.mewatch">
-        <title>Every Party No.1 of the 70s! - EP1</title>
-    </programme>
-    <programme start="20251212103000 +0000" stop="20251212120000 +0000" channel="now-70s.mewatch">
-        <title>Gone...But Not Forgotten Top 25 - EP1</title>
-    </programme>
-    <programme start="20251212120000 +0000" stop="20251212151000 +0000" channel="now-70s.mewatch">
-        <title>Pat Sharp&#039;s 40 Guilty Pleasures! - EP1</title>
-    </programme>
-    <programme start="20251212151000 +0000" stop="20251212160000 +0000" channel="now-70s.mewatch">
-        <title>Help Me Make It Through the Night! - EP1</title>
-    </programme>
-    <programme start="20251212160000 +0000" stop="20251212172500 +0000" channel="now-70s.mewatch">
-        <title>Gone...But Not Forgotten Top 25 - EP1</title>
+    <programme start="20251212160000 +0000" stop="20251212170000 +0000" channel="now-70s.mewatch">
+        <title>Simply Having A Wonderful Xmas! - EP1</title>
     </programme>
     <programme start="20251211145000 +0000" stop="20251211164500 +0000" channel="cinemaworld.mewatch">
         <title>With or Without you</title>

@@ -70,10 +70,6 @@
     <title>Football: Atalanta - Chelsea FC</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251212100000 +0700" stop="20251212120000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Pisa - Parma</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251212120000 +0700" stop="20251212141000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Olympiacos - OFI</title>
     <desc>Live: Tidak</desc>
@@ -132,6 +128,10 @@
 </programme>
 <programme start="20251213100000 +0700" stop="20251213120000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: GNK Dinamo - Real Betis Balompie</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251213120000 +0700" stop="20251213141000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Volos - Kifisia</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251212110000 +0700" stop="20251212130000 +0700" channel="COSMOTE Sport 3 HD">
@@ -200,6 +200,10 @@
 </programme>
 <programme start="20251213113000 +0700" stop="20251213120000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Emirates FA Cup 2025-26 - Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251213120000 +0700" stop="20251213153000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>American Football: Tampa Bay Buccaneers - Atlanta Falcons</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251212100000 +0700" stop="20251212130000 +0700" channel="COSMOTE Sport 4 HD">
@@ -355,6 +359,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251213110000 +0700" stop="20251213122000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>DTM 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251213122000 +0700" stop="20251213134000 +0700" channel="COSMOTE Sport 5 HD">
     <title>DTM 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
@@ -520,14 +528,6 @@
 </programme>
 <programme start="20251213110000 +0700" stop="20251213130000 +0700" channel="COSMOTE Sport 8 HD">
     <title>COSMOTESport8HD</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251212081500 +0700" stop="20251212114500 +0700" channel="COSMOTE Sport 9 HD">
-    <title>American Football: Tampa Bay Buccaneers - Atlanta Falcons (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20251212114500 +0700" stop="20251212120000 +0700" channel="COSMOTE Sport 9 HD">
-    <title>COSMOTESport9HD</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251212120000 +0700" stop="20251212123000 +0700" channel="COSMOTE Sport 9 HD">

@@ -4,10 +4,10 @@
 <programme start="20251212010000 +0000" stop="20251212011500 +0000" channel="RCTI.vision">
 <title>Kiko</title>
 </programme>
-<programme start="20251212011500 +0000" stop="20251212030000 +0000" channel="RCTI.vision">
+<programme start="20251212011500 +0000" stop="20251212023000 +0000" channel="RCTI.vision">
 <title>Doraemon (RCTI)</title>
 </programme>
-<programme start="20251212030000 +0000" stop="20251212043000 +0000" channel="RCTI.vision">
+<programme start="20251212023000 +0000" stop="20251212043000 +0000" channel="RCTI.vision">
 <title>Pantang Mundur Biar Ga Digusur</title>
 </programme>
 <programme start="20251212043000 +0000" stop="20251212051500 +0000" channel="RCTI.vision">
@@ -36,6 +36,36 @@
 </programme>
 <programme start="20251212160000 +0000" stop="20251212181500 +0000" channel="RCTI.vision">
 <title>Si Doel Anak Sekolahan S3</title>
+</programme>
+<programme start="20251212181500 +0000" stop="20251212190000 +0000" channel="RCTI.vision">
+<title>Cinta Datang Dari Kota Turun...</title>
+</programme>
+<programme start="20251212190000 +0000" stop="20251212200000 +0000" channel="RCTI.vision">
+<title>Cinta Datang Dari Kota Turun...</title>
+</programme>
+<programme start="20251212200000 +0000" stop="20251212233000 +0000" channel="RCTI.vision">
+<title>Preman Pensiun S7</title>
+</programme>
+<programme start="20251212233000 +0000" stop="20251213010000 +0000" channel="RCTI.vision">
+<title>Upin Ipin</title>
+</programme>
+<programme start="20251213010000 +0000" stop="20251213011500 +0000" channel="RCTI.vision">
+<title>Kiko</title>
+</programme>
+<programme start="20251213011500 +0000" stop="20251213041500 +0000" channel="RCTI.vision">
+<title>Doraemon Series</title>
+</programme>
+<programme start="20251213041500 +0000" stop="20251213063000 +0000" channel="RCTI.vision">
+<title>Doraemon (RCTI)</title>
+</programme>
+<programme start="20251213063000 +0000" stop="20251213080000 +0000" channel="RCTI.vision">
+<title>Bidadari Bermata Bening</title>
+</programme>
+<programme start="20251213080000 +0000" stop="20251213090000 +0000" channel="RCTI.vision">
+<title>Preman Pensiun X</title>
+</programme>
+<programme start="20251213090000 +0000" stop="20251213120000 +0000" channel="RCTI.vision">
+<title>MasterChef Indonesia S13</title>
 </programme>
 <programme start="20251211231500 +0000" stop="20251212004500 +0000" channel="MNCTV.vision">
 <title>Kiko</title>
@@ -1467,34 +1497,4 @@
 </programme>
 <programme start="20251212170000 +0000" stop="20251212190000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
-</programme>
-<programme start="20251212190000 +0000" stop="20251212210000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20251212210000 +0000" stop="20251212230000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20251212230000 +0000" stop="20251213010000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20251213010000 +0000" stop="20251213030000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20251213030000 +0000" stop="20251213050000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20251213050000 +0000" stop="20251213070000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20251213070000 +0000" stop="20251213090000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20251213090000 +0000" stop="20251213110000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20251213110000 +0000" stop="20251213130000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20251211230000 +0000" stop="20251212004500 +0000" channel="DAAI TV.vision">
-<title>DAAI TV</title>
 </programme>
