@@ -631,9 +631,6 @@
 <programme start="20251212070000 +0000" stop="20251212090000 +0000" channel="ANTV.vision">
 <title>Cinta Keluarga Pandya</title>
 </programme>
-<programme start="20251212110000 +0000" stop="20251212123000 +0000" channel="ANTV.vision">
-<title>Samson &amp; Delilah</title>
-</programme>
 <programme start="20251212123000 +0000" stop="20251212140000 +0000" channel="ANTV.vision">
 <title>Senandung Cinta Lilis</title>
 </programme>
@@ -1496,5 +1493,8 @@
 <title>TVRI</title>
 </programme>
 <programme start="20251212210000 +0000" stop="20251212230000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251212230000 +0000" stop="20251213010000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
