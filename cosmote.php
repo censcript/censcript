@@ -74,6 +74,14 @@
     <title>Game R1 S6 E16</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251213180000 +0700" stop="20251213183000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEFA Champions League Magazine 2024-25 E15</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251213183000 +0700" stop="20251213193000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Highlights: UEL &amp; UECL 2025-26</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251212160500 +0700" stop="20251212180500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Pisa - Parma</title>
     <desc>Live: Tidak</desc>
@@ -138,6 +146,10 @@
     <title>Football: Olympiacos - OFI</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251213182000 +0700" stop="20251213203000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: AEL Novibet - Panathinaikos</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251212170000 +0700" stop="20251212190000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Nice - SC Braga</title>
     <desc>Live: Tidak</desc>
@@ -200,6 +212,14 @@
 </programme>
 <programme start="20251213153000 +0700" stop="20251213181000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Celtic FC - Rangers FC</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251213181000 +0700" stop="20251213183000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>William Hill Scottish Premiership - Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251213183000 +0700" stop="20251213203000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: West Bromwich Albion - Sheffield United</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251212160000 +0700" stop="20251212183000 +0700" channel="COSMOTE Sport 4 HD">
@@ -268,10 +288,6 @@
 </programme>
 <programme start="20251213165000 +0700" stop="20251213192500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Golden State Warriors - Minnesota Timberwolves</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251212165000 +0700" stop="20251212173500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Moto-E World Championship 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251212173500 +0700" stop="20251212193500 +0700" channel="COSMOTE Sport 5 HD">
