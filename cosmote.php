@@ -138,6 +138,10 @@
     <title>Football: Volos - Kifisia</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251213141000 +0700" stop="20251213161000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: FC Kairat Almaty - Olympiacos</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251212130000 +0700" stop="20251212150000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Vitoria Guimaraes - Gil Vicente</title>
     <desc>Live: Tidak</desc>
@@ -366,8 +370,8 @@
     <title>2025 FIM Women&#039;s Circuit Racing World Championship</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251212130000 +0700" stop="20251212140000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Nitto ATP Finals 2025 - Highlights</title>
+<programme start="20251213145000 +0700" stop="20251213154500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>2025 FIM Women&#039;s Circuit Racing World Championship</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251212140000 +0700" stop="20251212160000 +0700" channel="COSMOTE Sport 6 HD">
