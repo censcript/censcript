@@ -146,6 +146,10 @@
     <title>Football: AEL Novibet - Panathinaikos</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251213203000 +0700" stop="20251213223000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Lecce - Pisa</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251212190000 +0700" stop="20251212210000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: BSC Young Boys - Lille OSC</title>
     <desc>Live: Tidak</desc>
@@ -166,23 +170,15 @@
     <title>Football: West Bromwich Albion - Sheffield United (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251213050000 +0700" stop="20251213053000 +0700" channel="COSMOTE Sport 3 HD">
+<programme start="20251213050000 +0700" stop="20251213060000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Emirates FA Cup 2025-26 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251213053000 +0700" stop="20251213073000 +0700" channel="COSMOTE Sport 3 HD">
+<programme start="20251213060000 +0700" stop="20251213080000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Tondela - FC Porto</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251213073000 +0700" stop="20251213080000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Copa Sudamericana 2025 - Highlights</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251213080000 +0700" stop="20251213083000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>William Hill Scottish Premiership - Highlights</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251213083000 +0700" stop="20251213090000 +0700" channel="COSMOTE Sport 3 HD">
+<programme start="20251213080000 +0700" stop="20251213090000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Emirates FA Cup 2025-26 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
@@ -190,11 +186,7 @@
     <title>Football: West Bromwich Albion - Sheffield United</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251213110000 +0700" stop="20251213113000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>William Hill Scottish Premiership - Highlights</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251213113000 +0700" stop="20251213120000 +0700" channel="COSMOTE Sport 3 HD">
+<programme start="20251213110000 +0700" stop="20251213120000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Emirates FA Cup 2025-26 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
@@ -212,6 +204,10 @@
 </programme>
 <programme start="20251213183000 +0700" stop="20251213203000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: West Bromwich Albion - Sheffield United</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251213203000 +0700" stop="20251213210000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Copa Sudamericana 2025 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251212190000 +0700" stop="20251212211000 +0700" channel="COSMOTE Sport 4 HD">
@@ -276,10 +272,6 @@
 </programme>
 <programme start="20251213192500 +0700" stop="20251213212500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Armani Milano - Aquila Basket Trento</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251212173500 +0700" stop="20251212193500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>2025 Extreme H</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251212193500 +0700" stop="20251212203500 +0700" channel="COSMOTE Sport 5 HD">
@@ -364,6 +356,10 @@
 </programme>
 <programme start="20251213171000 +0700" stop="20251213201000 +0700" channel="COSMOTE Sport 5 HD">
     <title>ROC Race of Champions 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251213201000 +0700" stop="20251213212500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Red Bull MotoGP Rookies Cup 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251212190000 +0700" stop="20251212210000 +0700" channel="COSMOTE Sport 6 HD">
