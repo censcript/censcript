@@ -7807,10 +7807,10 @@
     <programme start="20251212013000 +0000" stop="20251212043000 +0000" channel="Asianet Movies.starhub">
         <title>Kadha Parayumbol</title>
     </programme>
-    <programme start="20251212043000 +0000" stop="20251212073000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251212043000 +0000" stop="20251212072500 +0000" channel="Asianet Movies.starhub">
         <title>Natturajavu</title>
     </programme>
-    <programme start="20251212073000 +0000" stop="20251212103000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251212072500 +0000" stop="20251212103000 +0000" channel="Asianet Movies.starhub">
         <title>Hridayam</title>
     </programme>
     <programme start="20251212103000 +0000" stop="20251212133000 +0000" channel="Asianet Movies.starhub">

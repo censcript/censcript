@@ -107,10 +107,10 @@
         <title>Le Bisellahause - EP 2</title>
     </programme>
     <programme start="20251212080000 +0000" stop="20251212110000 +0000" channel="Channel 5.mewatch">
-        <title>33rd SEA Games 2025: Daily Action At The Games - EP 5</title>
+        <title>Badminton - 33rd SEA Games Thailand 2025: Men &amp; Women&#039;s Singles/Doubles &amp; Mixed Doubles Quarter-final</title>
     </programme>
     <programme start="20251212110000 +0000" stop="20251212130000 +0000" channel="Channel 5.mewatch">
-        <title>33rd SEA Games 2025: Daily Action At The Games - EP 6</title>
+        <title>Swimming - 33rd SEA Games Thailand 2025: Men&#039;s &amp; Women&#039;s Finals - 12 Dec 2025</title>
     </programme>
     <programme start="20251212130000 +0000" stop="20251212133000 +0000" channel="Channel 5.mewatch">
         <title>(Live) News Tonight</title>

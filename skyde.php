@@ -852,93 +852,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251212225500 +0000" stop="20251212230000 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
-<programme start="20251211233500 +0000" stop="20251212003000 +0000" channel="Crime + Investigation.skyde">
-    <title>Ursprung des Grauens - Profil eines Serienmörders</title>
-</programme>
-<programme start="20251212003000 +0000" stop="20251212011000 +0000" channel="Crime + Investigation.skyde">
-    <title>Panic 9-1-1</title>
-</programme>
-<programme start="20251212011000 +0000" stop="20251212021000 +0000" channel="Crime + Investigation.skyde">
-    <title>Surviving R. Kelly</title>
-</programme>
-<programme start="20251212021000 +0000" stop="20251212025500 +0000" channel="Crime + Investigation.skyde">
-    <title>Surviving R. Kelly</title>
-</programme>
-<programme start="20251212025500 +0000" stop="20251212034000 +0000" channel="Crime + Investigation.skyde">
-    <title>Am Ort des Verbrechens</title>
-</programme>
-<programme start="20251212034000 +0000" stop="20251212042500 +0000" channel="Crime + Investigation.skyde">
-    <title>Imperfect Murder - Die Fehler eines Mörders</title>
-</programme>
-<programme start="20251212042500 +0000" stop="20251212051500 +0000" channel="Crime + Investigation.skyde">
-    <title>Imperfect Murder - Die Fehler eines Mörders</title>
-</programme>
-<programme start="20251212051500 +0000" stop="20251212060500 +0000" channel="Crime + Investigation.skyde">
-    <title>Secrets of the Hells Angels - Ein Leben für den Club</title>
-</programme>
-<programme start="20251212060500 +0000" stop="20251212070000 +0000" channel="Crime + Investigation.skyde">
-    <title>Ursprung des Grauens - Profil eines Serienmörders</title>
-</programme>
-<programme start="20251212070000 +0000" stop="20251212075000 +0000" channel="Crime + Investigation.skyde">
-    <title>Panic 9-1-1</title>
-</programme>
-<programme start="20251212075000 +0000" stop="20251212084000 +0000" channel="Crime + Investigation.skyde">
-    <title>Am Ort des Verbrechens</title>
-</programme>
-<programme start="20251212084000 +0000" stop="20251212093000 +0000" channel="Crime + Investigation.skyde">
-    <title>Hours to Kill - Zeitachse des Todes</title>
-</programme>
-<programme start="20251212093000 +0000" stop="20251212102000 +0000" channel="Crime + Investigation.skyde">
-    <title>Imperfect Murder - Die Fehler eines Mörders</title>
-</programme>
-<programme start="20251212102000 +0000" stop="20251212111000 +0000" channel="Crime + Investigation.skyde">
-    <title>Imperfect Murder - Die Fehler eines Mörders</title>
-</programme>
-<programme start="20251212111000 +0000" stop="20251212120000 +0000" channel="Crime + Investigation.skyde">
-    <title>Secrets of Miss America - System der Ausbeutung</title>
-</programme>
-<programme start="20251212120000 +0000" stop="20251212125000 +0000" channel="Crime + Investigation.skyde">
-    <title>Secrets of the Hells Angels - Ein Leben für den Club</title>
-</programme>
-<programme start="20251212125000 +0000" stop="20251212131000 +0000" channel="Crime + Investigation.skyde">
-    <title>Unentdeckt - Mörder unter uns</title>
-</programme>
-<programme start="20251212131000 +0000" stop="20251212141000 +0000" channel="Crime + Investigation.skyde">
-    <title>Surviving R. Kelly</title>
-</programme>
-<programme start="20251212141000 +0000" stop="20251212150000 +0000" channel="Crime + Investigation.skyde">
-    <title>Surviving R. Kelly</title>
-</programme>
-<programme start="20251212150000 +0000" stop="20251212155000 +0000" channel="Crime + Investigation.skyde">
-    <title>The First 48</title>
-</programme>
-<programme start="20251212155000 +0000" stop="20251212164000 +0000" channel="Crime + Investigation.skyde">
-    <title>Am Ort des Verbrechens</title>
-</programme>
-<programme start="20251212164000 +0000" stop="20251212173000 +0000" channel="Crime + Investigation.skyde">
-    <title>Hours to Kill - Zeitachse des Todes</title>
-</programme>
-<programme start="20251212173000 +0000" stop="20251212182000 +0000" channel="Crime + Investigation.skyde">
-    <title>Imperfect Murder - Die Fehler eines Mörders</title>
-</programme>
-<programme start="20251212182000 +0000" stop="20251212191500 +0000" channel="Crime + Investigation.skyde">
-    <title>Imperfect Murder - Die Fehler eines Mörders</title>
-</programme>
-<programme start="20251212191500 +0000" stop="20251212200500 +0000" channel="Crime + Investigation.skyde">
-    <title>The First 48 - Momente der Entscheidung</title>
-</programme>
-<programme start="20251212200500 +0000" stop="20251212205500 +0000" channel="Crime + Investigation.skyde">
-    <title>The First 48</title>
-</programme>
-<programme start="20251212205500 +0000" stop="20251212214000 +0000" channel="Crime + Investigation.skyde">
-    <title>The First 48</title>
-</programme>
-<programme start="20251212214000 +0000" stop="20251212223000 +0000" channel="Crime + Investigation.skyde">
-    <title>Wanted - Flucht nach Mexiko</title>
-</programme>
-<programme start="20251212223000 +0000" stop="20251212232000 +0000" channel="Crime + Investigation.skyde">
-    <title>Secrets of the Hells Angels - Ein Leben für den Club</title>
-</programme>
 <programme start="20251211230000 +0000" stop="20251212070000 +0000" channel="DAZN 1 HD.skyde">
     <title>Sendepause</title>
 </programme>
@@ -954,8 +867,11 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251212083000 +0000" stop="20251212103000 +0000" channel="DAZN 1 HD.skyde">
     <title>Bundesliga: 1. FSV Mainz 05 - Borussia M&#039;gladbach</title>
 </programme>
-<programme start="20251212103000 +0000" stop="20251212130000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20251212103000 +0000" stop="20251212122500 +0000" channel="DAZN 1 HD.skyde">
     <title>LaLiga 25/26: Real Betis Sevilla - FC Barcelona</title>
+</programme>
+<programme start="20251212122500 +0000" stop="20251212130000 +0000" channel="DAZN 1 HD.skyde">
+    <title>Best of DAZN: Highlights</title>
 </programme>
 <programme start="20251212130000 +0000" stop="20251212145000 +0000" channel="DAZN 1 HD.skyde">
     <title>Bundesliga: VFB Stuttgart - FC Bayern München</title>
