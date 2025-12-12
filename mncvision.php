@@ -4015,20 +4015,17 @@
 <programme start="20251212073000 +0000" stop="20251212100000 +0000" channel="GTV.mncvision">
     <title>SpongeBob SquarePants</title>
 </programme>
-<programme start="20251212100000 +0000" stop="20251212123000 +0000" channel="GTV.mncvision">
+<programme start="20251212100000 +0000" stop="20251212130000 +0000" channel="GTV.mncvision">
     <title>33rd SEA Games 2025: Football</title>
 </programme>
-<programme start="20251212123000 +0000" stop="20251212140000 +0000" channel="GTV.mncvision">
+<programme start="20251212130000 +0000" stop="20251212150000 +0000" channel="GTV.mncvision">
     <title>Extraordinary Rescue</title>
 </programme>
-<programme start="20251212140000 +0000" stop="20251212153000 +0000" channel="GTV.mncvision">
-    <title>Vengeance Of An Assasin</title>
+<programme start="20251212150000 +0000" stop="20251212160000 +0000" channel="GTV.mncvision">
+    <title>Untold Story</title>
 </programme>
-<programme start="20251212153000 +0000" stop="20251212163000 +0000" channel="GTV.mncvision">
+<programme start="20251212160000 +0000" stop="20251212163000 +0000" channel="GTV.mncvision">
     <title>Buletin iNews Malam</title>
-</programme>
-<programme start="20251212163000 +0000" stop="20251211170000 +0000" channel="GTV.mncvision">
-    <title>Jelajah Mitos</title>
 </programme>
 <programme start="20251211170000 +0000" stop="20251211180000 +0000" channel="GTV HD.mncvision">
     <title>Jelajah Mitos</title>
@@ -4063,20 +4060,17 @@
 <programme start="20251212073000 +0000" stop="20251212100000 +0000" channel="GTV HD.mncvision">
     <title>SpongeBob SquarePants</title>
 </programme>
-<programme start="20251212100000 +0000" stop="20251212123000 +0000" channel="GTV HD.mncvision">
+<programme start="20251212100000 +0000" stop="20251212130000 +0000" channel="GTV HD.mncvision">
     <title>33rd SEA Games 2025: Football</title>
 </programme>
-<programme start="20251212123000 +0000" stop="20251212140000 +0000" channel="GTV HD.mncvision">
+<programme start="20251212130000 +0000" stop="20251212150000 +0000" channel="GTV HD.mncvision">
     <title>Extraordinary Rescue</title>
 </programme>
-<programme start="20251212140000 +0000" stop="20251212153000 +0000" channel="GTV HD.mncvision">
-    <title>Vengeance Of An Assasin</title>
+<programme start="20251212150000 +0000" stop="20251212160000 +0000" channel="GTV HD.mncvision">
+    <title>Untold Story</title>
 </programme>
-<programme start="20251212153000 +0000" stop="20251212163000 +0000" channel="GTV HD.mncvision">
+<programme start="20251212160000 +0000" stop="20251212163000 +0000" channel="GTV HD.mncvision">
     <title>Buletin iNews Malam</title>
-</programme>
-<programme start="20251212163000 +0000" stop="20251211170000 +0000" channel="GTV HD.mncvision">
-    <title>Jelajah Mitos</title>
 </programme>
 <programme start="20251211210000 +0000" stop="20251211213000 +0000" channel="Hanacaraka TV.mncvision">
     <title>Jan Enak Tenan</title>
@@ -6441,156 +6435,6 @@
 </programme>
 <programme start="20251212143000 +0000" stop="20251212150000 +0000" channel="NHK World.mncvision">
     <title>Design X Stories</title>
-</programme>
-<programme start="20251211171000 +0000" stop="20251211173500 +0000" channel="NHK World Premium.mncvision">
-    <title>Popular Writers And Their Cats</title>
-</programme>
-<programme start="20251211173500 +0000" stop="20251211174500 +0000" channel="NHK World Premium.mncvision">
-    <title>Real-Life Travel English</title>
-</programme>
-<programme start="20251211174500 +0000" stop="20251211180000 +0000" channel="NHK World Premium.mncvision">
-    <title>Kid&#039;s Discovery</title>
-</programme>
-<programme start="20251211180000 +0000" stop="20251211182500 +0000" channel="NHK World Premium.mncvision">
-    <title>With Mother</title>
-</programme>
-<programme start="20251211182500 +0000" stop="20251211183000 +0000" channel="NHK World Premium.mncvision">
-    <title>Hello! NHK World-Japan</title>
-</programme>
-<programme start="20251211183000 +0000" stop="20251211184500 +0000" channel="NHK World Premium.mncvision">
-    <title>The Ghost Writer&#039;s Wife, Ep 54</title>
-</programme>
-<programme start="20251211184500 +0000" stop="20251211193000 +0000" channel="NHK World Premium.mncvision">
-    <title>The Instruction Manual Show</title>
-</programme>
-<programme start="20251211193000 +0000" stop="20251211195800 +0000" channel="NHK World Premium.mncvision">
-    <title>Where We Call Home</title>
-</programme>
-<programme start="20251211195800 +0000" stop="20251211200000 +0000" channel="NHK World Premium.mncvision">
-    <title>World Weather</title>
-</programme>
-<programme start="20251211200000 +0000" stop="20251211201000 +0000" channel="NHK World Premium.mncvision">
-    <title>TV Exercise</title>
-</programme>
-<programme start="20251211201000 +0000" stop="20251211202500 +0000" channel="NHK World Premium.mncvision">
-    <title>Health For Today</title>
-</programme>
-<programme start="20251211202500 +0000" stop="20251211205300 +0000" channel="NHK World Premium.mncvision">
-    <title>Journeys In Japan</title>
-</programme>
-<programme start="20251211205300 +0000" stop="20251211205600 +0000" channel="NHK World Premium.mncvision">
-    <title>Mini Program</title>
-</programme>
-<programme start="20251211205600 +0000" stop="20251211210000 +0000" channel="NHK World Premium.mncvision">
-    <title>World Weather</title>
-</programme>
-<programme start="20251211210000 +0000" stop="20251211220000 +0000" channel="NHK World Premium.mncvision">
-    <title>News: Good Morning, Japan</title>
-</programme>
-<programme start="20251211220000 +0000" stop="20251211230000 +0000" channel="NHK World Premium.mncvision">
-    <title>News: Good Morning, Japan</title>
-</programme>
-<programme start="20251211230000 +0000" stop="20251211231500 +0000" channel="NHK World Premium.mncvision">
-    <title>The Ghost Writer&#039;s Wife, Ep 55</title>
-</programme>
-<programme start="20251211231500 +0000" stop="20251212005400 +0000" channel="NHK World Premium.mncvision">
-    <title>Asaichi</title>
-</programme>
-<programme start="20251212005400 +0000" stop="20251212005500 +0000" channel="NHK World Premium.mncvision">
-    <title>World Weather</title>
-</programme>
-<programme start="20251212005500 +0000" stop="20251212010000 +0000" channel="NHK World Premium.mncvision">
-    <title>Exercise For Everyone</title>
-</programme>
-<programme start="20251212010000 +0000" stop="20251212010500 +0000" channel="NHK World Premium.mncvision">
-    <title>News &amp; Weather</title>
-</programme>
-<programme start="20251212010500 +0000" stop="20251212013500 +0000" channel="NHK World Premium.mncvision">
-    <title>Slow Life At A Temple</title>
-</programme>
-<programme start="20251212013500 +0000" stop="20251212015000 +0000" channel="NHK World Premium.mncvision">
-    <title>Magnificent Sight!</title>
-</programme>
-<programme start="20251212015000 +0000" stop="20251212015500 +0000" channel="NHK World Premium.mncvision">
-    <title>Regional Bureau Short Story</title>
-</programme>
-<programme start="20251212015500 +0000" stop="20251212022300 +0000" channel="NHK World Premium.mncvision">
-    <title>Darwin&#039;s Amazing Animals</title>
-</programme>
-<programme start="20251212022300 +0000" stop="20251212024600 +0000" channel="NHK World Premium.mncvision">
-    <title>Delicious Japan!</title>
-</programme>
-<programme start="20251212024600 +0000" stop="20251212025000 +0000" channel="NHK World Premium.mncvision">
-    <title>Mini Program</title>
-</programme>
-<programme start="20251212025000 +0000" stop="20251212025600 +0000" channel="NHK World Premium.mncvision">
-    <title>Songs For Everyone</title>
-</programme>
-<programme start="20251212025600 +0000" stop="20251212030000 +0000" channel="NHK World Premium.mncvision">
-    <title>World Weather</title>
-</programme>
-<programme start="20251212030000 +0000" stop="20251212032000 +0000" channel="NHK World Premium.mncvision">
-    <title>News</title>
-</programme>
-<programme start="20251212032000 +0000" stop="20251212033000 +0000" channel="NHK World Premium.mncvision">
-    <title>Local Exquisite Omusubi</title>
-</programme>
-<programme start="20251212033000 +0000" stop="20251212034500 +0000" channel="NHK World Premium.mncvision">
-    <title>Toto Nee-Chan, Ep 155</title>
-</programme>
-<programme start="20251212034500 +0000" stop="20251212040000 +0000" channel="NHK World Premium.mncvision">
-    <title>The Ghost Writer&#039;s Wife, Ep 55</title>
-</programme>
-<programme start="20251212040000 +0000" stop="20251212040500 +0000" channel="NHK World Premium.mncvision">
-    <title>News</title>
-</programme>
-<programme start="20251212040500 +0000" stop="20251212055000 +0000" channel="NHK World Premium.mncvision">
-    <title>News Around Japan</title>
-</programme>
-<programme start="20251212055000 +0000" stop="20251212055500 +0000" channel="NHK World Premium.mncvision">
-    <title>World Weather</title>
-</programme>
-<programme start="20251212055500 +0000" stop="20251212060000 +0000" channel="NHK World Premium.mncvision">
-    <title>World Music Album</title>
-</programme>
-<programme start="20251212060000 +0000" stop="20251212061000 +0000" channel="NHK World Premium.mncvision">
-    <title>News &amp; Weather</title>
-</programme>
-<programme start="20251212061000 +0000" stop="20251212063000 +0000" channel="NHK World Premium.mncvision">
-    <title>Chinese Navi</title>
-</programme>
-<programme start="20251212063000 +0000" stop="20251212065500 +0000" channel="NHK World Premium.mncvision">
-    <title>Dear Japan</title>
-</programme>
-<programme start="20251212065500 +0000" stop="20251212074000 +0000" channel="NHK World Premium.mncvision">
-    <title>Choices On How To Deal...</title>
-</programme>
-<programme start="20251212074000 +0000" stop="20251212080500 +0000" channel="NHK World Premium.mncvision">
-    <title>Popular Writers And Their Cats</title>
-</programme>
-<programme start="20251212080500 +0000" stop="20251212081000 +0000" channel="NHK World Premium.mncvision">
-    <title>Mini Program</title>
-</programme>
-<programme start="20251212081000 +0000" stop="20251212082000 +0000" channel="NHK World Premium.mncvision">
-    <title>Blue &amp; Yellow</title>
-</programme>
-<programme start="20251212082000 +0000" stop="20251212083500 +0000" channel="NHK World Premium.mncvision">
-    <title>Peek-A-Boo</title>
-</programme>
-<programme start="20251212083500 +0000" stop="20251212085900 +0000" channel="NHK World Premium.mncvision">
-    <title>With Mother</title>
-</programme>
-<programme start="20251212085900 +0000" stop="20251212090000 +0000" channel="NHK World Premium.mncvision">
-    <title>1-Minute Anime: Songs For SDGs</title>
-</programme>
-<programme start="20251212090000 +0000" stop="20251212091000 +0000" channel="NHK World Premium.mncvision">
-    <title>News</title>
-</programme>
-<programme start="20251212091000 +0000" stop="20251212092500 +0000" channel="NHK World Premium.mncvision">
-    <title>Kid&#039;s Discovery</title>
-</programme>
-<programme start="20251212092500 +0000" stop="20251212095500 +0000" channel="NHK World Premium.mncvision">
-    <title>Whiz-Kids TV</title>
 </programme>
 <programme start="20251211170000 +0000" stop="20251211172000 +0000" channel="Nick Jr. HD.mncvision">
     <title>Dora</title>

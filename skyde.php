@@ -2955,77 +2955,74 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251212210000 +0000" stop="20251213000000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: Alfred Dunhill Championship, 2. Tag in Malelane, Südafrika</title>
 </programme>
-<programme start="20251211230000 +0000" stop="20251211233000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NBA: Action</title>
-</programme>
-<programme start="20251211233000 +0000" stop="20251212000000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20251210233000 +0000" stop="20251211003000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: On the Fly</title>
 </programme>
-<programme start="20251212000000 +0000" stop="20251212030000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>Live NHL: Tampa Bay Lightning @ New Jersey Devils</title>
+<programme start="20251211003000 +0000" stop="20251211033000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>Live NHL: New York Rangers @ Chicago Blackhawks</title>
 </programme>
-<programme start="20251212030000 +0000" stop="20251212050000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>UEFA EL: Celtic Glasgow - AS Rom, Ligaphase, 6. Spieltag</title>
+<programme start="20251211033000 +0000" stop="20251211053000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>DFB-Pokal: Borussia M&#039;gladbach - FC St. Pauli, Achtelfinale</title>
 </programme>
-<programme start="20251212050000 +0000" stop="20251212060000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>MotoGP: Season Review 2025 (Moto2 &amp; 3)</title>
+<programme start="20251211053000 +0000" stop="20251211060000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>Fußball: scooore Polen! Alle Tore</title>
 </programme>
-<programme start="20251212060000 +0000" stop="20251212080000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NHL: Tampa Bay Lightning @ New Jersey Devils</title>
+<programme start="20251211060000 +0000" stop="20251211080000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>NHL: New York Rangers @ Chicago Blackhawks</title>
 </programme>
-<programme start="20251212080000 +0000" stop="20251212090000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>3. Liga: Alle Spiele, alle Tore, 17. Spieltag, komplett</title>
-</programme>
-<programme start="20251212090000 +0000" stop="20251212093000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>Fußball: scooore Argentinien! Alle Tore</title>
-</programme>
-<programme start="20251212093000 +0000" stop="20251212094500 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NHL: Highlights BOS@WPG</title>
-</programme>
-<programme start="20251212094500 +0000" stop="20251212100000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NHL: Highlights DET@EDM</title>
-</programme>
-<programme start="20251212100000 +0000" stop="20251212101500 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NHL: Highlights OTT@CBJ</title>
-</programme>
-<programme start="20251212101500 +0000" stop="20251212110000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>DFB-Pokal: Kompakt, Achtelfinale</title>
-</programme>
-<programme start="20251212110000 +0000" stop="20251212130000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>UEFA ECL: AC Florenz - Dynamo Kiew, Ligaphase, 6. Spieltag</title>
-</programme>
-<programme start="20251212130000 +0000" stop="20251212140000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NHL: On the Fly</title>
-</programme>
-<programme start="20251212140000 +0000" stop="20251212143000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NBA: On Fire</title>
-</programme>
-<programme start="20251212143000 +0000" stop="20251212153000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>3. Liga: Alle Spiele, alle Tore, 17. Spieltag, komplett</title>
-</programme>
-<programme start="20251212153000 +0000" stop="20251212160000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20251211080000 +0000" stop="20251211083000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Frauen-BL: Alle Spiele, alle Tore, 12. Spieltag komplett</title>
 </programme>
-<programme start="20251212160000 +0000" stop="20251212180000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>UEFA EL: Celtic Glasgow - AS Rom, Ligaphase, 6. Spieltag</title>
+<programme start="20251211083000 +0000" stop="20251211093000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>3. Liga: Alle Spiele, alle Tore, 17. Spieltag, komplett</title>
 </programme>
-<programme start="20251212180000 +0000" stop="20251212190000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20251211093000 +0000" stop="20251211094500 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>NHL: Highlights DET@CGY</title>
+</programme>
+<programme start="20251211094500 +0000" stop="20251211101500 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>Fußball: scooore Portugal! Alle Tore</title>
+</programme>
+<programme start="20251211101500 +0000" stop="20251211110000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>World Surf League: Highlights 2025 WSL Finals Fiji</title>
+</programme>
+<programme start="20251211110000 +0000" stop="20251211130000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>NHL: New York Rangers @ Chicago Blackhawks</title>
+</programme>
+<programme start="20251211130000 +0000" stop="20251211133000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: On the Fly</title>
 </programme>
-<programme start="20251212190000 +0000" stop="20251212193000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NBA: On Fire</title>
+<programme start="20251211133000 +0000" stop="20251211140000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>Fußball: scooore Polen! Alle Tore</title>
 </programme>
-<programme start="20251212193000 +0000" stop="20251212200000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20251211140000 +0000" stop="20251211143000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NBA: Action</title>
 </programme>
-<programme start="20251212200000 +0000" stop="20251212220000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>UEFA ECL: AC Florenz - Dynamo Kiew, Ligaphase, 6. Spieltag</title>
+<programme start="20251211143000 +0000" stop="20251211153000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>MotoGP: Season Review 2025</title>
 </programme>
-<programme start="20251212220000 +0000" stop="20251212223000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20251211153000 +0000" stop="20251211160000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>Fußball: scooore Portugal! Alle Tore</title>
+</programme>
+<programme start="20251211160000 +0000" stop="20251211163000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Fußball: scooore Argentinien! Alle Tore</title>
 </programme>
-<programme start="20251212223000 +0000" stop="20251212230000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>Fußball: scooore Portugal! Alle Tore</title>
+<programme start="20251211163000 +0000" stop="20251211170000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>NHL: On the Fly</title>
+</programme>
+<programme start="20251211170000 +0000" stop="20251211173500 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>NBA: Action</title>
+</programme>
+<programme start="20251211173500 +0000" stop="20251211195000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>Live UEFA ECL: AC Florenz - Dynamo Kiew, Ligaphase, 6. Spieltag</title>
+</programme>
+<programme start="20251211195000 +0000" stop="20251211220500 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>Live UEFA EL: Celtic Glasgow - AS Rom, Ligaphase, 6. Spieltag</title>
+</programme>
+<programme start="20251211220500 +0000" stop="20251211223000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>NHL: On the Fly</title>
+</programme>
+<programme start="20251211223000 +0000" stop="20251211230000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>Fußball: scooore Argentinien! Alle Tore</title>
 </programme>
 <programme start="20251212000000 +0000" stop="20251212003000 +0000" channel="Sky Sport News HD.skyde">
     <title>Transfer Update: Die Show</title>
