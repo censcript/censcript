@@ -3311,7 +3311,7 @@
         <title>News</title>
     </programme>
     <programme start="20251212131500 +0000" stop="20251212133000 +0000" channel="DW English HD.starhub">
-        <title>Travel. Crete in the off-season</title>
+        <title>Why a Ukraine ceasefire wouldn&#039;t guarantee peace for Europe</title>
     </programme>
     <programme start="20251212133000 +0000" stop="20251212140000 +0000" channel="DW English HD.starhub">
         <title>Boosting brain health: How to protect mental fitness and memory</title>
@@ -3778,17 +3778,23 @@
     <programme start="20251211230000 +0000" stop="20251211231500 +0000" channel="NHK World Premium HD.starhub">
         <title>Drama Serial &quot;The Ghost Writer&#039;s Wife&quot; Eps. 55</title>
     </programme>
-    <programme start="20251211231500 +0000" stop="20251212005400 +0000" channel="NHK World Premium HD.starhub">
-        <title>asaichi</title>
+    <programme start="20251211235500 +0000" stop="20251212000000 +0000" channel="NHK World Premium HD.starhub">
+        <title>News &amp; Weather</title>
     </programme>
-    <programme start="20251212005400 +0000" stop="20251212005500 +0000" channel="NHK World Premium HD.starhub">
-        <title>World Weather</title>
+    <programme start="20251212000000 +0000" stop="20251212002500 +0000" channel="NHK World Premium HD.starhub">
+        <title>Kyoto&#039;s Finest Goods Travelogue</title>
     </programme>
-    <programme start="20251212005500 +0000" stop="20251212010000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Exercise for Everyone</title>
+    <programme start="20251212002500 +0000" stop="20251212003000 +0000" channel="NHK World Premium HD.starhub">
+        <title>100 Beautiful Mountains of Japan Mini</title>
+    </programme>
+    <programme start="20251212003000 +0000" stop="20251212005700 +0000" channel="NHK World Premium HD.starhub">
+        <title>JAPAN DELISH</title>
+    </programme>
+    <programme start="20251212005700 +0000" stop="20251212010000 +0000" channel="NHK World Premium HD.starhub">
+        <title>Mini Program</title>
     </programme>
     <programme start="20251212010000 +0000" stop="20251212010500 +0000" channel="NHK World Premium HD.starhub">
-        <title>News &amp; Weather</title>
+        <title>Exercise for Everyone</title>
     </programme>
     <programme start="20251212010500 +0000" stop="20251212013500 +0000" channel="NHK World Premium HD.starhub">
         <title>Slow Life at a Temple (R)</title>
@@ -3808,29 +3814,20 @@
     <programme start="20251212024600 +0000" stop="20251212025000 +0000" channel="NHK World Premium HD.starhub">
         <title>Mini Program</title>
     </programme>
-    <programme start="20251212025000 +0000" stop="20251212025600 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20251212025000 +0000" stop="20251212025300 +0000" channel="NHK World Premium HD.starhub">
         <title>Songs for Everyone</title>
     </programme>
-    <programme start="20251212025600 +0000" stop="20251212030000 +0000" channel="NHK World Premium HD.starhub">
-        <title>World Weather</title>
+    <programme start="20251212025300 +0000" stop="20251212044000 +0000" channel="NHK World Premium HD.starhub">
+        <title>News (B)</title>
     </programme>
-    <programme start="20251212030000 +0000" stop="20251212032000 +0000" channel="NHK World Premium HD.starhub">
-        <title>News</title>
+    <programme start="20251212044000 +0000" stop="20251212053500 +0000" channel="NHK World Premium HD.starhub">
+        <title>Classical Music Club</title>
     </programme>
-    <programme start="20251212032000 +0000" stop="20251212033000 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20251212053500 +0000" stop="20251212054500 +0000" channel="NHK World Premium HD.starhub">
         <title>Local Exquisite Omusubi</title>
     </programme>
-    <programme start="20251212033000 +0000" stop="20251212034500 +0000" channel="NHK World Premium HD.starhub">
-        <title>Drama Serial Encore &quot;Toto Nee-Chan: Fatherly Sister&quot; Eps. 155</title>
-    </programme>
-    <programme start="20251212034500 +0000" stop="20251212040000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Drama Serial &quot;The Ghost Writer&#039;s Wife&quot; Eps. 55 (R)</title>
-    </programme>
-    <programme start="20251212040000 +0000" stop="20251212040500 +0000" channel="NHK World Premium HD.starhub">
-        <title>News</title>
-    </programme>
-    <programme start="20251212040500 +0000" stop="20251212055000 +0000" channel="NHK World Premium HD.starhub">
-        <title>News Around Japan</title>
+    <programme start="20251212054500 +0000" stop="20251212055000 +0000" channel="NHK World Premium HD.starhub">
+        <title>ANIPARA-- Animation and Para-Sports</title>
     </programme>
     <programme start="20251212055000 +0000" stop="20251212055500 +0000" channel="NHK World Premium HD.starhub">
         <title>World Weather</title>
@@ -3839,7 +3836,7 @@
         <title>World Music Album</title>
     </programme>
     <programme start="20251212060000 +0000" stop="20251212061000 +0000" channel="NHK World Premium HD.starhub">
-        <title>News &amp; Weather</title>
+        <title>Darwin&#039;s Amazing Animals 10min.</title>
     </programme>
     <programme start="20251212061000 +0000" stop="20251212063000 +0000" channel="NHK World Premium HD.starhub">
         <title>Chinese Navi</title>
