@@ -1,7 +1,3 @@
-<programme start="20251212213000 +0700" stop="20251212233000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: Samsunspor - AEK</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251212233000 +0700" stop="20251213013000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: PFC Ludogorets 1945 - PAOK</title>
     <desc>Live: Tidak</desc>
@@ -80,6 +76,14 @@
 </programme>
 <programme start="20251213220000 +0700" stop="20251214000000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Wrexham  - Watford (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
+<programme start="20251214000000 +0700" stop="20251214003000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEFA Champions League Magazine 2024-25 E15</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251214003000 +0700" stop="20251214010000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>PreGame (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20251212220500 +0700" stop="20251213000500 +0700" channel="COSMOTE Sport 2 HD">
@@ -210,9 +214,9 @@
     <title>Emirates FA Cup 2025-26 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251212213500 +0700" stop="20251212233500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Merkezefendi - Fenerbahce</title>
-    <desc>Live: Tidak</desc>
+<programme start="20251214000000 +0700" stop="20251214020000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Parma - SS Lazio (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20251212233500 +0700" stop="20251213002000 +0700" channel="COSMOTE Sport 4 HD">
     <title>NBA Specials</title>
@@ -274,8 +278,12 @@
     <title>Basketball: Bahcesehir - Besiktas (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251212223000 +0700" stop="20251212231500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC 2025</title>
+<programme start="20251214000000 +0700" stop="20251214003500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>NBA on Fire 2025-26 E7 (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
+<programme start="20251214003500 +0700" stop="20251214010000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>ACB Liga Endesa 2025-26 - Fifth Quarter E9</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251212231500 +0700" stop="20251213005000 +0700" channel="COSMOTE Sport 5 HD">
@@ -354,6 +362,14 @@
     <title>WRC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251214000000 +0700" stop="20251214003000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251214003000 +0700" stop="20251214010000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Highlights: ROC Nations Cup 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251212230000 +0700" stop="20251213010000 +0700" channel="COSMOTE Sport 6 HD">
     <title>2025 Premier Padel Tour Finals (L)</title>
     <desc>Live: Ya</desc>
@@ -395,6 +411,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251213220000 +0700" stop="20251214000000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>2025 Premier Padel Tour Finals (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
+<programme start="20251214000000 +0700" stop="20251214023000 +0700" channel="COSMOTE Sport 6 HD">
     <title>2025 Premier Padel Tour Finals (L)</title>
     <desc>Live: Ya</desc>
 </programme>
