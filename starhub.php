@@ -3730,8 +3730,11 @@
     <programme start="20251213010500 +0000" stop="20251213013800 +0000" channel="NHK World Premium HD.starhub">
         <title>The Visualization Entertainment: Go! Kaneo-kun (R)</title>
     </programme>
+    <programme start="20251213013800 +0000" stop="20251213014000 +0000" channel="NHK World Premium HD.starhub">
+        <title>Mini Program</title>
+    </programme>
     <programme start="20251213014000 +0000" stop="20251213023500 +0000" channel="NHK World Premium HD.starhub">
-        <title>TBA</title>
+        <title>Classical Music Club</title>
     </programme>
     <programme start="20251213023500 +0000" stop="20251213025600 +0000" channel="NHK World Premium HD.starhub">
         <title>Documentary: 20 Minutes</title>
@@ -3754,29 +3757,29 @@
     <programme start="20251213040000 +0000" stop="20251213040500 +0000" channel="NHK World Premium HD.starhub">
         <title>News &amp; Weather</title>
     </programme>
-    <programme start="20251213040500 +0000" stop="20251213045000 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20251213040500 +0000" stop="20251213042000 +0000" channel="NHK World Premium HD.starhub">
+        <title>Drama Serial &quot;The Ghost Writer&#039;s Wife&quot; Eps. 55 (R)</title>
+    </programme>
+    <programme start="20251213042000 +0000" stop="20251213050500 +0000" channel="NHK World Premium HD.starhub">
         <title>Historical Drama &quot;UNBOUND&quot; Eps. 47 (R)</title>
     </programme>
-    <programme start="20251213045000 +0000" stop="20251213062000 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20251213050500 +0000" stop="20251213063500 +0000" channel="NHK World Premium HD.starhub">
         <title>Special Drama &quot;Mary of Magdalene Restaurant&quot; Part 2</title>
     </programme>
-    <programme start="20251213062000 +0000" stop="20251213065000 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20251213063500 +0000" stop="20251213070500 +0000" channel="NHK World Premium HD.starhub">
         <title>Outside in Lost in Academia &quot;Shopping Street&quot; (R)</title>
     </programme>
-    <programme start="20251213065000 +0000" stop="20251213082000 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20251213070500 +0000" stop="20251213083500 +0000" channel="NHK World Premium HD.starhub">
         <title>Solo Trip to Hot Springs &quot;Hokuriku &amp; Shinetsu&quot;</title>
-    </programme>
-    <programme start="20251213082000 +0000" stop="20251213083000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Mini Program</title>
-    </programme>
-    <programme start="20251213083000 +0000" stop="20251213083500 +0000" channel="NHK World Premium HD.starhub">
-        <title>Songs for Everyone (R)</title>
     </programme>
     <programme start="20251213083500 +0000" stop="20251213085900 +0000" channel="NHK World Premium HD.starhub">
         <title>With Mother</title>
     </programme>
     <programme start="20251213085900 +0000" stop="20251213090000 +0000" channel="NHK World Premium HD.starhub">
         <title>1-Minute Anime: Songs for SDGs</title>
+    </programme>
+    <programme start="20251213090000 +0000" stop="20251213090500 +0000" channel="NHK World Premium HD.starhub">
+        <title>News (B)</title>
     </programme>
     <programme start="20251213090500 +0000" stop="20251213093500 +0000" channel="NHK World Premium HD.starhub">
         <title>Tokoro-san&#039;s Pursuit of Truth</title>
