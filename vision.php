@@ -166,56 +166,20 @@
 <programme start="20251212073000 +0000" stop="20251212100000 +0000" channel="GTV.vision">
 <title>SpongeBob SquarePants</title>
 </programme>
-<programme start="20251212100000 +0000" stop="20251212130000 +0000" channel="GTV.vision">
+<programme start="20251212100000 +0000" stop="20251212123000 +0000" channel="GTV.vision">
 <title>GTV</title>
 </programme>
-<programme start="20251212130000 +0000" stop="20251212150000 +0000" channel="GTV.vision">
+<programme start="20251212123000 +0000" stop="20251212140000 +0000" channel="GTV.vision">
 <title>Extraordinary Rescue</title>
 </programme>
-<programme start="20251212150000 +0000" stop="20251212160000 +0000" channel="GTV.vision">
-<title>Untold Story</title>
+<programme start="20251212140000 +0000" stop="20251212153000 +0000" channel="GTV.vision">
+<title>Vengeance Of An Assasin</title>
 </programme>
-<programme start="20251212160000 +0000" stop="20251212170000 +0000" channel="GTV.vision">
+<programme start="20251212153000 +0000" stop="20251212163000 +0000" channel="GTV.vision">
 <title>Buletin iNews Malam</title>
 </programme>
-<programme start="20251212170000 +0000" stop="20251212180000 +0000" channel="GTV.vision">
+<programme start="20251212163000 +0000" stop="20251212180000 +0000" channel="GTV.vision">
 <title>Jelajah Mitos</title>
-</programme>
-<programme start="20251212180000 +0000" stop="20251212190000 +0000" channel="GTV.vision">
-<title>Crime KV</title>
-</programme>
-<programme start="20251212190000 +0000" stop="20251212200000 +0000" channel="GTV.vision">
-<title>Naik Enak Turun Ogah</title>
-</programme>
-<programme start="20251212200000 +0000" stop="20251212220000 +0000" channel="GTV.vision">
-<title>Awas Ada Sule</title>
-</programme>
-<programme start="20251212220000 +0000" stop="20251212231500 +0000" channel="GTV.vision">
-<title>Kisah Viral</title>
-</programme>
-<programme start="20251212231500 +0000" stop="20251212234500 +0000" channel="GTV.vision">
-<title>BIMA-S</title>
-</programme>
-<programme start="20251212234500 +0000" stop="20251213020000 +0000" channel="GTV.vision">
-<title>SpongeBob SquarePants</title>
-</programme>
-<programme start="20251213020000 +0000" stop="20251213050000 +0000" channel="GTV.vision">
-<title>Spongebob Squarepants (GTV)</title>
-</programme>
-<programme start="20251213050000 +0000" stop="20251213063000 +0000" channel="GTV.vision">
-<title>Zak Storm</title>
-</programme>
-<programme start="20251213063000 +0000" stop="20251213073000 +0000" channel="GTV.vision">
-<title>Naruto Shippuden (GTV)</title>
-</programme>
-<programme start="20251213073000 +0000" stop="20251213093000 +0000" channel="GTV.vision">
-<title>SpongeBob SquarePants</title>
-</programme>
-<programme start="20251213093000 +0000" stop="20251213113000 +0000" channel="GTV.vision">
-<title>SpongeBob SquarePants</title>
-</programme>
-<programme start="20251213113000 +0000" stop="20251213130000 +0000" channel="GTV.vision">
-<title>New Family 100 (GTV)</title>
 </programme>
 <programme start="20251212000000 +0000" stop="20251212003000 +0000" channel="iNews.vision">
 <title>Special Report</title>
@@ -503,7 +467,7 @@
 <title>Brownis On The Weekend</title>
 </programme>
 <programme start="20251213070000 +0000" stop="20251213080000 +0000" channel="Trans TV.vision">
-<title>Rumpi Hot Of The Week</title>
+<title>Rumpi: No Secret</title>
 </programme>
 <programme start="20251213080000 +0000" stop="20251213091500 +0000" channel="Trans TV.vision">
 <title>Insert Investigasi</title>
@@ -672,6 +636,9 @@
 </programme>
 <programme start="20251212140000 +0000" stop="20251212160000 +0000" channel="ANTV.vision">
 <title>Tawa Kalcer</title>
+</programme>
+<programme start="20251212160000 +0000" stop="20251212180000 +0000" channel="ANTV.vision">
+<title>The Prodigal Son</title>
 </programme>
 <programme start="20251212180000 +0000" stop="20251212200000 +0000" channel="ANTV.vision">
 <title>Ambushed</title>
@@ -1496,5 +1463,38 @@
 <title>TVRI</title>
 </programme>
 <programme start="20251212010000 +0000" stop="20251212030000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251212030000 +0000" stop="20251212050000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251212050000 +0000" stop="20251212070000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251212070000 +0000" stop="20251212090000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251212090000 +0000" stop="20251212110000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251212110000 +0000" stop="20251212130000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251212130000 +0000" stop="20251212150000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251212150000 +0000" stop="20251212170000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251212170000 +0000" stop="20251212190000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251212190000 +0000" stop="20251212210000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251212210000 +0000" stop="20251212230000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251212230000 +0000" stop="20251213010000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>

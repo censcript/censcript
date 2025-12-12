@@ -3134,7 +3134,7 @@
         <title>News</title>
     </programme>
     <programme start="20251213020200 +0000" stop="20251213021500 +0000" channel="DW English HD.starhub">
-        <title>Living in the Digital Age</title>
+        <title>Generative AI Videos: Real vs Fake - Can You Tell?</title>
     </programme>
     <programme start="20251213021500 +0000" stop="20251213030000 +0000" channel="DW English HD.starhub">
         <title>How Wars End and How Peace Can Succeed - Part 2</title>
@@ -3143,7 +3143,7 @@
         <title>News</title>
     </programme>
     <programme start="20251213031500 +0000" stop="20251213033000 +0000" channel="DW English HD.starhub">
-        <title>Travel. Crete in the off-season</title>
+        <title>Why a Ukraine ceasefire wouldn&#039;t guarantee peace for Europe</title>
     </programme>
     <programme start="20251213033000 +0000" stop="20251213040000 +0000" channel="DW English HD.starhub">
         <title>Europe’s trading power: Are We Stronger Than We Think?</title>
@@ -3152,7 +3152,7 @@
         <title>News</title>
     </programme>
     <programme start="20251213041500 +0000" stop="20251213043000 +0000" channel="DW English HD.starhub">
-        <title>Living in the Digital Age</title>
+        <title>Generative AI Videos: Real vs Fake - Can You Tell?</title>
     </programme>
     <programme start="20251213043000 +0000" stop="20251213050000 +0000" channel="DW English HD.starhub">
         <title>Lifestyle Europe</title>
@@ -3161,7 +3161,7 @@
         <title>News</title>
     </programme>
     <programme start="20251213050200 +0000" stop="20251213053000 +0000" channel="DW English HD.starhub">
-        <title>Experiencing and understanding the art world</title>
+        <title>Lifeline to Afghanistan</title>
     </programme>
     <programme start="20251213053000 +0000" stop="20251213060000 +0000" channel="DW English HD.starhub">
         <title>Street Debate: Visa and Flights - Why is African Travel Such a Struggle?</title>
@@ -3170,10 +3170,10 @@
         <title>News</title>
     </programme>
     <programme start="20251213061500 +0000" stop="20251213063000 +0000" channel="DW English HD.starhub">
-        <title>Travel. Crete in the off-season</title>
+        <title>Why a Ukraine ceasefire wouldn&#039;t guarantee peace for Europe</title>
     </programme>
     <programme start="20251213063000 +0000" stop="20251213070000 +0000" channel="DW English HD.starhub">
-        <title>Berlin Briefing</title>
+        <title>Ukraine, US, and Europe: The race for a truce before Christmas</title>
     </programme>
     <programme start="20251213070000 +0000" stop="20251213071500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3203,10 +3203,10 @@
         <title>News</title>
     </programme>
     <programme start="20251213101500 +0000" stop="20251213103000 +0000" channel="DW English HD.starhub">
-        <title>Living in the Digital Age</title>
+        <title>Generative AI Videos: Real vs Fake - Can You Tell?</title>
     </programme>
     <programme start="20251213103000 +0000" stop="20251213110000 +0000" channel="DW English HD.starhub">
-        <title>Berlin Briefing</title>
+        <title>Ukraine, US, and Europe: The race for a truce before Christmas</title>
     </programme>
     <programme start="20251213110000 +0000" stop="20251213110300 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3218,7 +3218,7 @@
         <title>News</title>
     </programme>
     <programme start="20251213121500 +0000" stop="20251213123000 +0000" channel="DW English HD.starhub">
-        <title>Living in the Digital Age</title>
+        <title>Generative AI Videos: Real vs Fake - Can You Tell?</title>
     </programme>
     <programme start="20251213123000 +0000" stop="20251213130000 +0000" channel="DW English HD.starhub">
         <title>Lifestyle Europe</title>
@@ -3233,7 +3233,7 @@
         <title>News</title>
     </programme>
     <programme start="20251213141500 +0000" stop="20251213143000 +0000" channel="DW English HD.starhub">
-        <title>On Location</title>
+        <title>The Philippines: When rescuing children ends in abuse</title>
     </programme>
     <programme start="20251213143000 +0000" stop="20251213150000 +0000" channel="DW English HD.starhub">
         <title>Street Debate: Visa and Flights - Why is African Travel Such a Struggle?</title>
