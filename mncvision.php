@@ -7460,7 +7460,7 @@
     <title>Doraemon Series</title>
 </programme>
 <programme start="20251212023000 +0000" stop="20251212043000 +0000" channel="RCTI.mncvision">
-    <title>Pantang Mundur Biar Ga Digusur</title>
+    <title>33rd SEA Games Thailand (L)</title>
 </programme>
 <programme start="20251212043000 +0000" stop="20251212051500 +0000" channel="RCTI.mncvision">
     <title>Seputar iNews Siang</title>
@@ -7511,7 +7511,7 @@
     <title>Doraemon Series</title>
 </programme>
 <programme start="20251212023000 +0000" stop="20251212043000 +0000" channel="RCTI HD.mncvision">
-    <title>Pantang Mundur Biar Ga Digusur</title>
+    <title>33rd SEA Games Thailand (L)</title>
 </programme>
 <programme start="20251212043000 +0000" stop="20251212051500 +0000" channel="RCTI HD.mncvision">
     <title>Seputar iNews Siang</title>
