@@ -655,6 +655,9 @@
 <programme start="20251213100000 +0000" stop="20251213110000 +0000" channel="ANTV.vision">
 <title>ANTV Seru</title>
 </programme>
+<programme start="20251213110000 +0000" stop="20251213123000 +0000" channel="ANTV.vision">
+<title>Malam Satu Syuro</title>
+</programme>
 <programme start="20251213123000 +0000" stop="20251213140000 +0000" channel="ANTV.vision">
 <title>Senandung Cinta Lilis</title>
 </programme>
@@ -1494,7 +1497,4 @@
 </programme>
 <programme start="20251214083000 +0000" stop="20251214103000 +0000" channel="BTV.vision">
 <title>Berita Satu Sore</title>
-</programme>
-<programme start="20251214103000 +0000" stop="20251214110000 +0000" channel="BTV.vision">
-<title>Berita Kriminal</title>
 </programme>
