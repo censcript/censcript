@@ -1,11 +1,3 @@
-<programme start="20251213193000 +0700" stop="20251213213000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: Norwich City - Southampton (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20251213213000 +0700" stop="20251213220000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>UEFA Champions League Magazine 2024-25 E15</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251213220000 +0700" stop="20251214000000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Wrexham  - Watford (L)</title>
     <desc>Live: Ya</desc>
@@ -76,6 +68,10 @@
 </programme>
 <programme start="20251214213000 +0700" stop="20251214223000 +0700" channel="COSMOTE Sport 1 HD">
     <title>PreGame (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
+<programme start="20251214223000 +0700" stop="20251215004000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: Panetolikos - AEK (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20251213203000 +0700" stop="20251213223000 +0700" channel="COSMOTE Sport 2 HD">
@@ -210,13 +206,13 @@
     <title>Football: Falkirk - Heart of Midlothian</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251213192500 +0700" stop="20251213212500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Armani Milano - Aquila Basket Trento</title>
+<programme start="20251214220000 +0700" stop="20251214223000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Copa Sudamericana 2025 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251213212500 +0700" stop="20251213220000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>NBA Action 2025-26 E3508</title>
-    <desc>Live: Tidak</desc>
+<programme start="20251214223000 +0700" stop="20251215010000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: St. Mirren - Celtic FC (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20251213220000 +0700" stop="20251214000000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Bahcesehir - Besiktas (L)</title>
@@ -288,10 +284,6 @@
 </programme>
 <programme start="20251214210000 +0700" stop="20251214233000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Sacramento Kings - Denver Nuggets</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251213201000 +0700" stop="20251213212500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Red Bull MotoGP Rookies Cup 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251213212500 +0700" stop="20251213222500 +0700" channel="COSMOTE Sport 5 HD">
@@ -370,14 +362,6 @@
     <title>Football: ACF Fiorentina - Hellas Verona (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251213190000 +0700" stop="20251213213000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>2025 Premier Padel Tour Finals (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20251213213000 +0700" stop="20251213220000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Premier Padel Tour 2025 - Highlights</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251213220000 +0700" stop="20251214000000 +0700" channel="COSMOTE Sport 6 HD">
     <title>2025 Premier Padel Tour Finals (L)</title>
     <desc>Live: Ya</desc>
@@ -425,6 +409,10 @@
 <programme start="20251214213000 +0700" stop="20251214220000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Sports Classics: The Outdoor Sports Show 2024 E11</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251214220000 +0700" stop="20251215000000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>2025 Premier Padel Tour Finals (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20251213210000 +0700" stop="20251213223000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
