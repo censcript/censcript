@@ -574,9 +574,6 @@
 <programme start="20251213154500 +0000" stop="20251213163000 +0000" channel="Trans 7.vision">
 <title>The Police</title>
 </programme>
-<programme start="20251213163000 +0000" stop="20251213181500 +0000" channel="Trans 7.vision">
-<title>Surga Yang Tak Dirindukan 2</title>
-</programme>
 <programme start="20251213181500 +0000" stop="20251213193000 +0000" channel="Trans 7.vision">
 <title>Best Fishing</title>
 </programme>
@@ -655,20 +652,11 @@
 <programme start="20251213100000 +0000" stop="20251213110000 +0000" channel="ANTV.vision">
 <title>ANTV Seru</title>
 </programme>
-<programme start="20251213110000 +0000" stop="20251213123000 +0000" channel="ANTV.vision">
-<title>Malam Satu Syuro</title>
-</programme>
 <programme start="20251213123000 +0000" stop="20251213140000 +0000" channel="ANTV.vision">
 <title>Senandung Cinta Lilis</title>
 </programme>
-<programme start="20251213140000 +0000" stop="20251213163000 +0000" channel="ANTV.vision">
-<title>Mana Bisa Tahan</title>
-</programme>
 <programme start="20251213163000 +0000" stop="20251213190000 +0000" channel="ANTV.vision">
 <title>Serie A Liga Italia</title>
-</programme>
-<programme start="20251213190000 +0000" stop="20251213200000 +0000" channel="ANTV.vision">
-<title>Drive Hard</title>
 </programme>
 <programme start="20251213200000 +0000" stop="20251213223000 +0000" channel="ANTV.vision">
 <title>Shaandaar</title>
@@ -864,9 +852,6 @@
 </programme>
 <programme start="20251213160000 +0000" stop="20251213163000 +0000" channel="TVOne.vision">
 <title>Sport Style</title>
-</programme>
-<programme start="20251213163000 +0000" stop="20251213170000 +0000" channel="TVOne.vision">
-<title>Apa Kabar Indonesia (L)</title>
 </programme>
 <programme start="20251213170000 +0000" stop="20251213180000 +0000" channel="TVOne.vision">
 <title>Apa Kabar Indonesia Malam</title>
@@ -1497,4 +1482,19 @@
 </programme>
 <programme start="20251214083000 +0000" stop="20251214103000 +0000" channel="BTV.vision">
 <title>Berita Satu Sore</title>
+</programme>
+<programme start="20251214103000 +0000" stop="20251214110000 +0000" channel="BTV.vision">
+<title>Berita Kriminal</title>
+</programme>
+<programme start="20251214110000 +0000" stop="20251214120000 +0000" channel="BTV.vision">
+<title>Dunia Binatang</title>
+</programme>
+<programme start="20251212230000 +0000" stop="20251213010000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251213010000 +0000" stop="20251213030000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251213030000 +0000" stop="20251213050000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
 </programme>
