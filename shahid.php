@@ -1381,9 +1381,6 @@
     <programme start="20251214233121 +0000" stop="20251214235959 +0000" channel="989622.shahid">
         <title>Khareg Ala El Qanoun</title>
     </programme>
-    <programme start="20251213000000 +0000" stop="20251214235959 +0000" channel="388566.shahid">
-        <title>TV guide is not available</title>
-    </programme>
     <programme start="20251213000000 +0000" stop="20251213003900 +0000" channel="387238.shahid">
         <title>Al Marsa Season 1 Episode 39</title>
     </programme>
@@ -1581,6 +1578,9 @@
     </programme>
     <programme start="20251214233000 +0000" stop="20251214235959 +0000" channel="387238.shahid">
         <title>Aa Amal Season 1 Episode 15</title>
+    </programme>
+    <programme start="20251213000000 +0000" stop="20251214235959 +0000" channel="388566.shahid">
+        <title>TV guide is not available</title>
     </programme>
     <programme start="20251213000000 +0000" stop="20251214235959 +0000" channel="946946.shahid">
         <title>TV guide is not available</title>
@@ -4987,9 +4987,6 @@
     <programme start="20251215000000 +0000" stop="20251214235959 +0000" channel="387251.shahid">
         <title>Nafs Al Haneen  </title>
     </programme>
-    <programme start="20251213000000 +0000" stop="20251214235959 +0000" channel="49922763510387.shahid">
-        <title>TV guide is not available</title>
-    </programme>
     <programme start="20251213000000 +0000" stop="20251213001124 +0000" channel="49923086870104.shahid">
         <title>Sikkat Safar Season 1 Episode 19</title>
     </programme>
@@ -5361,6 +5358,9 @@
     </programme>
     <programme start="20251214234036 +0000" stop="20251214235959 +0000" channel="49923086870104.shahid">
         <title>Sikkat Safar Season 2 Episode 16</title>
+    </programme>
+    <programme start="20251213000000 +0000" stop="20251214235959 +0000" channel="49922763510387.shahid">
+        <title>TV guide is not available</title>
     </programme>
     <programme start="20251213000000 +0000" stop="20251214235959 +0000" channel="1007223.shahid">
         <title>TV guide is not available</title>
