@@ -2652,7 +2652,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251213153000 +0000" stop="20251213155000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: Live Admiral Bundesliga</title>
 </programme>
-<programme start="20251213155000 +0000" stop="20251213180000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20251213155000 +0000" stop="20251213183000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live Admiral BL: Grazer AK 1902 - LASK, 17. Runde</title>
 </programme>
 <programme start="20251213193000 +0000" stop="20251213195000 +0000" channel="Sky Sport Austria 2 HD.skyde">
@@ -2676,11 +2676,11 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251213153000 +0000" stop="20251213155000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Es folgt: Live Admiral Bundesliga</title>
 </programme>
-<programme start="20251213155000 +0000" stop="20251213180000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+<programme start="20251213155000 +0000" stop="20251213183000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live Admiral BL: TSV Egger Glas Hartberg - WSG Tirol, 17. Runde</title>
 </programme>
 <programme start="20251213134000 +0000" stop="20251213140000 +0000" channel="Sky Sport Austria 5 HD.skyde">
-    <title>Es folgt: Tennis</title>
+    <title>Es folgt: LIVE Sport</title>
 </programme>
 <programme start="20251213140000 +0000" stop="20251213180000 +0000" channel="Sky Sport Austria 5 HD.skyde">
     <title>Live Tennis: Ischgl Trophy, Tag 2</title>
@@ -2832,7 +2832,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251213141500 +0000" stop="20251213164500 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live BL: Borussia M&#039;gladbach - VfL Wolfsburg, 14. Spieltag</title>
 </programme>
-<programme start="20251213164500 +0000" stop="20251213201500 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
+<programme start="20251213164500 +0000" stop="20251213204500 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live BL: Tactical Feed: B04 - KOE, 14. Spieltag</title>
 </programme>
 <programme start="20251213111000 +0000" stop="20251213113000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
@@ -2862,7 +2862,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251213113000 +0000" stop="20251213140000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
     <title>Live 2. BL: Multiview, 16. Spieltag, Samstag</title>
 </programme>
-<programme start="20251213140000 +0000" stop="20251213163000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
+<programme start="20251213140000 +0000" stop="20251213171500 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
     <title>Live BL: Multiview, 14. Spieltag</title>
 </programme>
 <programme start="20251213111000 +0000" stop="20251213113000 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
@@ -2871,7 +2871,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251213113000 +0000" stop="20251213140000 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
     <title>Live 2. BL: Samstags-Konferenz, 16. Spieltag</title>
 </programme>
-<programme start="20251213140000 +0000" stop="20251213144500 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
+<programme start="20251213140000 +0000" stop="20251213151500 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
     <title>Live 2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 16. Spieltag, Samstag</title>
 </programme>
 <programme start="20251212230000 +0000" stop="20251213000000 +0000" channel="Sky Sport F1 HD.skyde">
@@ -2958,20 +2958,20 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251213033000 +0000" stop="20251213040000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: Golfszene 2025 (4)</title>
 </programme>
-<programme start="20251213040000 +0000" stop="20251213070000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20251213040000 +0000" stop="20251213060000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: Alfred Dunhill Championship, 2. Tag in Malelane, Südafrika</title>
 </programme>
-<programme start="20251213070000 +0000" stop="20251213093000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Golf: Grant Thornton Invitational, 1. Tag in Naples, FL (USA)</title>
-</programme>
-<programme start="20251213093000 +0000" stop="20251213143000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20251213060000 +0000" stop="20251213110000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Live Golf: Alfred Dunhill Championship, 3. Tag in Malelane, Südafrika</title>
 </programme>
-<programme start="20251213143000 +0000" stop="20251213150000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Golf: Golfszene 2025 (5)</title>
-</programme>
-<programme start="20251213150000 +0000" stop="20251213173000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20251213110000 +0000" stop="20251213133000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: Grant Thornton Invitational, 1. Tag in Naples, FL (USA)</title>
+</programme>
+<programme start="20251213133000 +0000" stop="20251213143000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Golf: Year in Review 2025</title>
+</programme>
+<programme start="20251213143000 +0000" stop="20251213173000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Golf: Alfred Dunhill Championship, 3. Tag in Malelane, Südafrika</title>
 </programme>
 <programme start="20251213173000 +0000" stop="20251213174500 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: Projekt 0 (1)</title>
@@ -3078,7 +3078,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251213080000 +0000" stop="20251213090000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Guten Morgen Fans!</title>
 </programme>
-<programme start="20251213090000 +0000" stop="20251213100000 +0000" channel="Sky Sport News HD.skyde">
+<programme start="20251213090000 +0000" stop="20251213093000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: FCB-PK</title>
+</programme>
+<programme start="20251213093000 +0000" stop="20251213100000 +0000" channel="Sky Sport News HD.skyde">
     <title>Sky Sport News: Guten Morgen Fans!</title>
 </programme>
 <programme start="20251213100000 +0000" stop="20251213113000 +0000" channel="Sky Sport News HD.skyde">
@@ -3294,23 +3297,17 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251213050000 +0000" stop="20251213053000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>NBA: On Fire</title>
 </programme>
-<programme start="20251213053000 +0000" stop="20251213073000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>2. BL: Dynamo Dresden - Eintracht Braunschweig, 16. Spieltag</title>
-</programme>
-<programme start="20251213073000 +0000" stop="20251213080000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>PL: Preview, 16. Spieltag</title>
-</programme>
-<programme start="20251213080000 +0000" stop="20251213090000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live Sky Sport News: Guten Morgen Fans!</title>
-</programme>
-<programme start="20251213090000 +0000" stop="20251213091500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20251213053000 +0000" stop="20251213054500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>2. BL: Highlights XXL: SGD - EBS, 16. Spieltag</title>
 </programme>
-<programme start="20251213091500 +0000" stop="20251213093000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20251213054500 +0000" stop="20251213060000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>2. BL: Highlights XXL: SGF - BSC, 16. Spieltag</title>
 </programme>
-<programme start="20251213093000 +0000" stop="20251213113000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20251213060000 +0000" stop="20251213110000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live Golf: Alfred Dunhill Championship, 3. Tag in Malelane, Südafrika</title>
+</programme>
+<programme start="20251213110000 +0000" stop="20251213113000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Meine Geschichte: Das Leben von Dennis Diekmeier</title>
 </programme>
 <programme start="20251213113000 +0000" stop="20251213140000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live 2. BL: Samstags-Konferenz, 16. Spieltag</title>
