@@ -82,10 +82,6 @@
     <title>Football: Panathinaikos - Viktoria Plzen</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251213141000 +0700" stop="20251213161000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: FC Kairat Almaty - Olympiacos</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251213161000 +0700" stop="20251213182000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Olympiacos - OFI</title>
     <desc>Live: Tidak</desc>
@@ -222,10 +218,6 @@
     <title>Football: Wrexham  - Watford</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251213151000 +0700" stop="20251213165000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Pick n&#039; Roll</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251213165000 +0700" stop="20251213192500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Golden State Warriors - Minnesota Timberwolves</title>
     <desc>Live: Tidak</desc>
@@ -290,8 +282,8 @@
     <title>Basketball: Aquila Basket Trento - Reyer Venezia</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251213154500 +0700" stop="20251213162500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Moto-E World Championship 2025</title>
+<programme start="20251214173000 +0700" stop="20251214193000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Gran Canaria - Baskonia</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251213162500 +0700" stop="20251213171000 +0700" channel="COSMOTE Sport 5 HD">
@@ -370,10 +362,6 @@
     <title>ROC Nations Cup 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251213130000 +0700" stop="20251213170000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>2025 Premier Padel Tour Finals</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251213170000 +0700" stop="20251213190000 +0700" channel="COSMOTE Sport 6 HD">
     <title>2025 Premier Padel Tour Finals (L)</title>
     <desc>Live: Ya</desc>
@@ -422,9 +410,9 @@
     <title>2025 Premier Padel Tour Finals</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251213150000 +0700" stop="20251213170000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
-    <desc>Live: Tidak</desc>
+<programme start="20251214170000 +0700" stop="20251214190000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>2025 Premier Padel Tour Finals (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20251213170000 +0700" stop="20251213190000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
@@ -494,8 +482,8 @@
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251213150000 +0700" stop="20251213170000 +0700" channel="COSMOTE Sport 8 HD">
-    <title>COSMOTESport8HD</title>
+<programme start="20251214170000 +0700" stop="20251214190000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251213170000 +0700" stop="20251213190000 +0700" channel="COSMOTE Sport 8 HD">
@@ -570,8 +558,8 @@
     <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251213150000 +0700" stop="20251213170000 +0700" channel="COSMOTE Sport 9 HD">
-    <title>COSMOTESport9HD</title>
+<programme start="20251214170000 +0700" stop="20251214190000 +0700" channel="COSMOTE Sport 8 HD">
+    <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251213170000 +0700" stop="20251213190000 +0700" channel="COSMOTE Sport 9 HD">
@@ -635,6 +623,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251214150000 +0700" stop="20251214170000 +0700" channel="COSMOTE Sport 9 HD">
+    <title>COSMOTESport9HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251214170000 +0700" stop="20251214190000 +0700" channel="COSMOTE Sport 9 HD">
     <title>COSMOTESport9HD</title>
     <desc>Live: Tidak</desc>
 </programme>
