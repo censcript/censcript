@@ -1,11 +1,3 @@
-<programme start="20251213153000 +0700" stop="20251213173000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: Samsunspor - AEK</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251213173000 +0700" stop="20251213180000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Game R1 S6 E16</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251213180000 +0700" stop="20251213183000 +0700" channel="COSMOTE Sport 1 HD">
     <title>UEFA Champions League Magazine 2024-25 E15</title>
     <desc>Live: Tidak</desc>
@@ -82,6 +74,10 @@
     <title>Football: Panathinaikos - Viktoria Plzen</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251214183000 +0700" stop="20251214203000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: AC Milan - Sassuolo (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
 <programme start="20251213161000 +0700" stop="20251213182000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Olympiacos - OFI</title>
     <desc>Live: Tidak</desc>
@@ -144,6 +140,14 @@
 </programme>
 <programme start="20251214161000 +0700" stop="20251214182000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Kifisia - Asteras Aktor</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251214182000 +0700" stop="20251214185000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Sports Classics: My Sporting Moment</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251214185000 +0700" stop="20251214210000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Parma - SS Lazio</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251213153000 +0700" stop="20251213181000 +0700" channel="COSMOTE Sport 3 HD">
@@ -218,6 +222,10 @@
     <title>Football: Wrexham  - Watford</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251214180000 +0700" stop="20251214200000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: APOEL - Freedom24 Krasava E.N.Y</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251213165000 +0700" stop="20251213192500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Golden State Warriors - Minnesota Timberwolves</title>
     <desc>Live: Tidak</desc>
@@ -284,10 +292,6 @@
 </programme>
 <programme start="20251214173000 +0700" stop="20251214193000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Gran Canaria - Baskonia</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251213162500 +0700" stop="20251213171000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Moto-E World Championship 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251213171000 +0700" stop="20251213201000 +0700" channel="COSMOTE Sport 5 HD">
@@ -360,6 +364,10 @@
 </programme>
 <programme start="20251214154000 +0700" stop="20251214185500 +0700" channel="COSMOTE Sport 5 HD">
     <title>ROC Nations Cup 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251214185500 +0700" stop="20251214195500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Red Bull MotoGP Rookies Cup 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251213170000 +0700" stop="20251213190000 +0700" channel="COSMOTE Sport 6 HD">
