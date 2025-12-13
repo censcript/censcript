@@ -1,7 +1,3 @@
-<programme start="20251213183000 +0700" stop="20251213193000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Highlights: UEL &amp; UECL 2025-26</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251213193000 +0700" stop="20251213213000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Norwich City - Southampton (L)</title>
     <desc>Live: Ya</desc>
@@ -73,6 +69,10 @@
 <programme start="20251214183000 +0700" stop="20251214203000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: AC Milan - Sassuolo (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20251214203000 +0700" stop="20251214213000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEL &amp; UECL Magazine 2025-26 E7</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251213182000 +0700" stop="20251213203000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: AEL Novibet - Panathinaikos</title>
@@ -210,8 +210,8 @@
     <title>Football: APOEL - Freedom24 Krasava E.N.Y</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251213165000 +0700" stop="20251213192500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Golden State Warriors - Minnesota Timberwolves</title>
+<programme start="20251214200000 +0700" stop="20251214220000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Falkirk - Heart of Midlothian</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251213192500 +0700" stop="20251213212500 +0700" channel="COSMOTE Sport 4 HD">
@@ -280,6 +280,14 @@
 </programme>
 <programme start="20251214193000 +0700" stop="20251214200500 +0700" channel="COSMOTE Sport 4 HD">
     <title>NBA on Fire 2025-26 E7</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251214200500 +0700" stop="20251214204000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>NBA Action 2025-26 E3508</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251214204000 +0700" stop="20251214210000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>ACB Liga Endesa 2025-26 - Fifth Quarter E9</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251213171000 +0700" stop="20251213201000 +0700" channel="COSMOTE Sport 5 HD">

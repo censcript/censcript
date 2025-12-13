@@ -2038,8 +2038,8 @@
     <programme start="20251212170000 +0000" stop="20251212200000 +0000" channel="KTV HD.starhub">
         <title>Movie - Amarkkalam</title>
     </programme>
-    <programme start="20251212200000 +0000" stop="20251212220000 +0000" channel="KTV HD.starhub">
-        <title>Information Not Available</title>
+    <programme start="20251212200000 +0000" stop="20251212223000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Mythili</title>
     </programme>
     <programme start="20251212223000 +0000" stop="20251213010000 +0000" channel="KTV HD.starhub">
         <title>Movie - Padhavi</title>
