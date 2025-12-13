@@ -7852,10 +7852,10 @@
     <programme start="20251213043000 +0000" stop="20251213073000 +0000" channel="Asianet Movies.starhub">
         <title>Kalippattam</title>
     </programme>
-    <programme start="20251213073000 +0000" stop="20251213103000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251213073000 +0000" stop="20251213103500 +0000" channel="Asianet Movies.starhub">
         <title>RDX</title>
     </programme>
-    <programme start="20251213103000 +0000" stop="20251213133000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251213103500 +0000" stop="20251213133000 +0000" channel="Asianet Movies.starhub">
         <title>In Ghost House Inn</title>
     </programme>
     <programme start="20251213133000 +0000" stop="20251213163000 +0000" channel="Asianet Movies.starhub">
