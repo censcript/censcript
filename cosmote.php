@@ -1,7 +1,3 @@
-<programme start="20251213110000 +0700" stop="20251213130000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: Atalanta - Chelsea FC</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251213130000 +0700" stop="20251213133000 +0700" channel="COSMOTE Sport 1 HD">
     <title>UEFA Champions League Magazine 2024-25 E15</title>
     <desc>Live: Tidak</desc>
@@ -214,10 +210,6 @@
     <title>Football: Brackley Town - Burton Albion</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251213100000 +0700" stop="20251213130000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Golden State Warriors - Minnesota Timberwolves (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
 <programme start="20251213130000 +0700" stop="20251213151000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Karditsa - Mersin MSK</title>
     <desc>Live: Tidak</desc>
@@ -278,8 +270,12 @@
     <title>Basketball: Karditsa - Mersin MSK</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251213110000 +0700" stop="20251213122000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>DTM 2025</title>
+<programme start="20251214131000 +0700" stop="20251214133000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>ACB Liga Endesa 2025-26 - Fifth Quarter E9</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251214133000 +0700" stop="20251214153000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Bahcesehir - Besiktas</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251213122000 +0700" stop="20251213134000 +0700" channel="COSMOTE Sport 5 HD">
@@ -362,10 +358,6 @@
     <title>DTM 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251213090000 +0700" stop="20251213130000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>2025 Premier Padel Tour Finals</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251213130000 +0700" stop="20251213170000 +0700" channel="COSMOTE Sport 6 HD">
     <title>2025 Premier Padel Tour Finals</title>
     <desc>Live: Tidak</desc>
@@ -414,8 +406,8 @@
     <title>2025 Premier Padel Tour Finals</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251213110000 +0700" stop="20251213130000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
+<programme start="20251214130000 +0700" stop="20251214170000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>2025 Premier Padel Tour Finals</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251213130000 +0700" stop="20251213150000 +0700" channel="COSMOTE Sport 7 HD">
@@ -486,8 +478,8 @@
     <title>Fight Sports: UFC Fight Night 2025 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251213110000 +0700" stop="20251213130000 +0700" channel="COSMOTE Sport 8 HD">
-    <title>COSMOTESport8HD</title>
+<programme start="20251214130000 +0700" stop="20251214150000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251213130000 +0700" stop="20251213150000 +0700" channel="COSMOTE Sport 8 HD">
@@ -562,8 +554,8 @@
     <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251213110000 +0700" stop="20251213130000 +0700" channel="COSMOTE Sport 9 HD">
-    <title>COSMOTESport9HD</title>
+<programme start="20251214130000 +0700" stop="20251214150000 +0700" channel="COSMOTE Sport 8 HD">
+    <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251213130000 +0700" stop="20251213150000 +0700" channel="COSMOTE Sport 9 HD">
@@ -627,6 +619,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251214110000 +0700" stop="20251214130000 +0700" channel="COSMOTE Sport 9 HD">
+    <title>COSMOTESport9HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251214130000 +0700" stop="20251214150000 +0700" channel="COSMOTE Sport 9 HD">
     <title>COSMOTESport9HD</title>
     <desc>Live: Tidak</desc>
 </programme>
