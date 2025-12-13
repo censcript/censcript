@@ -1694,7 +1694,7 @@
     <title lang="id">Bielik Online - Boris Kollár</title>
   </programme>
   <programme start="20251215091000 +0000" stop="20251215103000 +0000" channel="Kanal1.webtv.sk">
-    <title lang="id">Slovenská filmová klasika</title>
+    <title lang="id">Slovenská klasika: Cena odvahy</title>
   </programme>
   <programme start="20251215103000 +0000" stop="20251215104000 +0000" channel="Kanal1.webtv.sk">
     <title lang="id">Tatranský národný park - SFU</title>
@@ -1724,7 +1724,7 @@
     <title lang="id">Vnútri Buckinghamského paláca (2)</title>
   </programme>
   <programme start="20251215170500 +0000" stop="20251215184000 +0000" channel="Kanal1.webtv.sk">
-    <title lang="id">Slovenská filmová klasika</title>
+    <title lang="id">Slovenská klasika: Šepkajúci fantóm</title>
   </programme>
   <programme start="20251215184000 +0000" stop="20251215192000 +0000" channel="Kanal1.webtv.sk">
     <title lang="id">Téma s Petrom Bielikom</title>

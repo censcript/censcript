@@ -9343,9 +9343,132 @@
 <programme start="20251213163000 +0000" stop="20251212170000 +0000" channel="tvOne.mncvision">
     <title>Apa Kabar Indonesia (L)</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20251212170000 +0000" stop="20251212190000 +0000" channel="TVRI.mncvision">
+    <title>TVRI</title>
+</programme>
+<programme start="20251212190000 +0000" stop="20251212210000 +0000" channel="TVRI.mncvision">
+    <title>TVRI</title>
+</programme>
+<programme start="20251212210000 +0000" stop="20251212230000 +0000" channel="TVRI.mncvision">
+    <title>TVRI</title>
+</programme>
+<programme start="20251212230000 +0000" stop="20251213010000 +0000" channel="TVRI.mncvision">
+    <title>TVRI</title>
+</programme>
+<programme start="20251213010000 +0000" stop="20251213030000 +0000" channel="TVRI.mncvision">
+    <title>TVRI</title>
+</programme>
+<programme start="20251213030000 +0000" stop="20251213050000 +0000" channel="TVRI.mncvision">
+    <title>TVRI</title>
+</programme>
+<programme start="20251213050000 +0000" stop="20251213070000 +0000" channel="TVRI.mncvision">
+    <title>TVRI</title>
+</programme>
+<programme start="20251213070000 +0000" stop="20251213090000 +0000" channel="TVRI.mncvision">
+    <title>TVRI</title>
+</programme>
+<programme start="20251213090000 +0000" stop="20251213110000 +0000" channel="TVRI.mncvision">
+    <title>TVRI</title>
+</programme>
+<programme start="20251213110000 +0000" stop="20251213130000 +0000" channel="TVRI.mncvision">
+    <title>TVRI</title>
+</programme>
+<programme start="20251213130000 +0000" stop="20251213150000 +0000" channel="TVRI.mncvision">
+    <title>TVRI</title>
+</programme>
+<programme start="20251213150000 +0000" stop="20251213153000 +0000" channel="TVRI.mncvision">
+    <title>TVRI</title>
+</programme>
+<programme start="20251212181000 +0000" stop="20251212194600 +0000" channel="UNIQUES.mncvision">
+    <title>Carnage</title>
+</programme>
+<programme start="20251212194600 +0000" stop="20251212212400 +0000" channel="UNIQUES.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20251212212400 +0000" stop="20251212224400 +0000" channel="UNIQUES.mncvision">
+    <title>Deadly Match</title>
+</programme>
+<programme start="20251212224400 +0000" stop="20251213002000 +0000" channel="UNIQUES.mncvision">
+    <title>Gangster Land</title>
+</programme>
+<programme start="20251213002000 +0000" stop="20251213015600 +0000" channel="UNIQUES.mncvision">
+    <title>Gold</title>
+</programme>
+<programme start="20251213015600 +0000" stop="20251213032700 +0000" channel="UNIQUES.mncvision">
+    <title>Learning To Love</title>
+</programme>
+<programme start="20251213032700 +0000" stop="20251213044900 +0000" channel="UNIQUES.mncvision">
+    <title>Silver</title>
+</programme>
+<programme start="20251213044900 +0000" stop="20251213063600 +0000" channel="UNIQUES.mncvision">
+    <title>The 2nd</title>
+</programme>
+<programme start="20251213063600 +0000" stop="20251213084200 +0000" channel="UNIQUES.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20251213084200 +0000" stop="20251213101300 +0000" channel="UNIQUES.mncvision">
+    <title>Before We Go</title>
+</programme>
+<programme start="20251213101300 +0000" stop="20251213121500 +0000" channel="UNIQUES.mncvision">
+    <title>Embattled</title>
+</programme>
+<programme start="20251213121500 +0000" stop="20251213134600 +0000" channel="UNIQUES.mncvision">
+    <title>Gold</title>
+</programme>
+<programme start="20251213134600 +0000" stop="20251213152000 +0000" channel="UNIQUES.mncvision">
+    <title>Lease On Love</title>
+</programme>
+<programme start="20251213152000 +0000" stop="20251213164700 +0000" channel="UNIQUES.mncvision">
+    <title>Silver</title>
+</programme>
+<programme start="20251213164700 +0000" stop="20251212171700 +0000" channel="UNIQUES.mncvision">
+    <title>The Stand In</title>
+</programme>
+<programme start="20251212181000 +0000" stop="20251212194600 +0000" channel="UNIQUES HD.mncvision">
+    <title>Carnage</title>
+</programme>
+<programme start="20251212194600 +0000" stop="20251212212400 +0000" channel="UNIQUES HD.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20251212212400 +0000" stop="20251212224400 +0000" channel="UNIQUES HD.mncvision">
+    <title>Deadly Match</title>
+</programme>
+<programme start="20251212224400 +0000" stop="20251213002000 +0000" channel="UNIQUES HD.mncvision">
+    <title>Gangster Land</title>
+</programme>
+<programme start="20251213002000 +0000" stop="20251213015600 +0000" channel="UNIQUES HD.mncvision">
+    <title>Gold</title>
+</programme>
+<programme start="20251213015600 +0000" stop="20251213032700 +0000" channel="UNIQUES HD.mncvision">
+    <title>Learning To Love</title>
+</programme>
+<programme start="20251213032700 +0000" stop="20251213044900 +0000" channel="UNIQUES HD.mncvision">
+    <title>Silver</title>
+</programme>
+<programme start="20251213044900 +0000" stop="20251213063600 +0000" channel="UNIQUES HD.mncvision">
+    <title>The 2nd</title>
+</programme>
+<programme start="20251213063600 +0000" stop="20251213084200 +0000" channel="UNIQUES HD.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20251213084200 +0000" stop="20251213101300 +0000" channel="UNIQUES HD.mncvision">
+    <title>Before We Go</title>
+</programme>
+<programme start="20251213101300 +0000" stop="20251213121500 +0000" channel="UNIQUES HD.mncvision">
+    <title>Embattled</title>
+</programme>
+<programme start="20251213121500 +0000" stop="20251213134600 +0000" channel="UNIQUES HD.mncvision">
+    <title>Gold</title>
+</programme>
+<programme start="20251213134600 +0000" stop="20251213152000 +0000" channel="UNIQUES HD.mncvision">
+    <title>Lease On Love</title>
+</programme>
+<programme start="20251213152000 +0000" stop="20251213164700 +0000" channel="UNIQUES HD.mncvision">
+    <title>Silver</title>
+</programme>
+<programme start="20251213164700 +0000" stop="20251212171700 +0000" channel="UNIQUES HD.mncvision">
+    <title>The Stand In</title>
+</programme>
 <programme start="20251212170000 +0000" stop="20251212180000 +0000" channel="Vision Prime.mncvision">
     <title>Mencintai Ipar Sendiri</title>
 </programme>
