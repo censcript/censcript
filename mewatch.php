@@ -95,10 +95,10 @@
         <title>Films &amp; Stars - EP 36</title>
     </programme>
     <programme start="20251213080000 +0000" stop="20251213110000 +0000" channel="Channel 5.mewatch">
-        <title>33rd SEA Games 2025: Daily Action At The Games - EP 7</title>
+        <title>Wushu - 33rd SEA Games Thailand 2025: Men&#039;s &amp; Women&#039;s Preliminary Round</title>
     </programme>
     <programme start="20251213110000 +0000" stop="20251213130000 +0000" channel="Channel 5.mewatch">
-        <title>33rd SEA Games 2025: Daily Action At The Games - EP 8</title>
+        <title>Swimming - 33rd SEA Games Thailand 2025: Men&#039;s &amp; Women&#039;s Finals - 13 Dec 2025</title>
     </programme>
     <programme start="20251213130000 +0000" stop="20251213133000 +0000" channel="Channel 5.mewatch">
         <title>(Live) News Tonight</title>
