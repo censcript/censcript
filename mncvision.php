@@ -6532,7 +6532,156 @@
 <programme start="20251213101000 +0000" stop="20251213104000 +0000" channel="NHK World.mncvision">
     <title>Cycle Around Japan</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20251212171000 +0000" stop="20251212174000 +0000" channel="NHK World Premium.mncvision">
+    <title>Hayauta: Songs For Morning</title>
+</programme>
+<programme start="20251212174000 +0000" stop="20251212174500 +0000" channel="NHK World Premium.mncvision">
+    <title>World Weather</title>
+</programme>
+<programme start="20251212174500 +0000" stop="20251212180000 +0000" channel="NHK World Premium.mncvision">
+    <title>Kid&#039;s Discovery</title>
+</programme>
+<programme start="20251212180000 +0000" stop="20251212182500 +0000" channel="NHK World Premium.mncvision">
+    <title>With Mother</title>
+</programme>
+<programme start="20251212182500 +0000" stop="20251212183000 +0000" channel="NHK World Premium.mncvision">
+    <title>Fun With Okinawa Dialects</title>
+</programme>
+<programme start="20251212183000 +0000" stop="20251212184500 +0000" channel="NHK World Premium.mncvision">
+    <title>The Ghost Writer&#039;s Wife, Ep 55</title>
+</programme>
+<programme start="20251212184500 +0000" stop="20251212191500 +0000" channel="NHK World Premium.mncvision">
+    <title>Natsui Itsuki&#039;s Haiku Trip!</title>
+</programme>
+<programme start="20251212191500 +0000" stop="20251212193500 +0000" channel="NHK World Premium.mncvision">
+    <title>French In A Happy Mood</title>
+</programme>
+<programme start="20251212193500 +0000" stop="20251212195800 +0000" channel="NHK World Premium.mncvision">
+    <title>Delicious Japan!</title>
+</programme>
+<programme start="20251212195800 +0000" stop="20251212200000 +0000" channel="NHK World Premium.mncvision">
+    <title>World Weather</title>
+</programme>
+<programme start="20251212200000 +0000" stop="20251212201000 +0000" channel="NHK World Premium.mncvision">
+    <title>TV Exercise</title>
+</programme>
+<programme start="20251212201000 +0000" stop="20251212202500 +0000" channel="NHK World Premium.mncvision">
+    <title>Natural Grandeur Of The East</title>
+</programme>
+<programme start="20251212202500 +0000" stop="20251212205000 +0000" channel="NHK World Premium.mncvision">
+    <title>NHK Regional Showcases</title>
+</programme>
+<programme start="20251212205000 +0000" stop="20251212205600 +0000" channel="NHK World Premium.mncvision">
+    <title>Mini Program</title>
+</programme>
+<programme start="20251212205600 +0000" stop="20251212210000 +0000" channel="NHK World Premium.mncvision">
+    <title>World Weather</title>
+</programme>
+<programme start="20251212210000 +0000" stop="20251212220000 +0000" channel="NHK World Premium.mncvision">
+    <title>News: Good Morning, Japan</title>
+</programme>
+<programme start="20251212220000 +0000" stop="20251212225900 +0000" channel="NHK World Premium.mncvision">
+    <title>News: Good Morning, Japan</title>
+</programme>
+<programme start="20251212225900 +0000" stop="20251212230000 +0000" channel="NHK World Premium.mncvision">
+    <title>World Weather</title>
+</programme>
+<programme start="20251212230000 +0000" stop="20251212231500 +0000" channel="NHK World Premium.mncvision">
+    <title>The Ghost Writer&#039;s Wife</title>
+</programme>
+<programme start="20251212231500 +0000" stop="20251212234800 +0000" channel="NHK World Premium.mncvision">
+    <title>Trivia Quizzes: Chiko-Chan!</title>
+</programme>
+<programme start="20251212234800 +0000" stop="20251212235800 +0000" channel="NHK World Premium.mncvision">
+    <title>Life Force</title>
+</programme>
+<programme start="20251212235800 +0000" stop="20251213000000 +0000" channel="NHK World Premium.mncvision">
+    <title>Mini Program</title>
+</programme>
+<programme start="20251213000000 +0000" stop="20251213003000 +0000" channel="NHK World Premium.mncvision">
+    <title>Recharge Your Knowledge...</title>
+</programme>
+<programme start="20251213003000 +0000" stop="20251213010000 +0000" channel="NHK World Premium.mncvision">
+    <title>Document 72 Hours</title>
+</programme>
+<programme start="20251213010000 +0000" stop="20251213010500 +0000" channel="NHK World Premium.mncvision">
+    <title>News &amp; Weather</title>
+</programme>
+<programme start="20251213010500 +0000" stop="20251213013800 +0000" channel="NHK World Premium.mncvision">
+    <title>Visualization Entertainment</title>
+</programme>
+<programme start="20251213013800 +0000" stop="20251213014000 +0000" channel="NHK World Premium.mncvision">
+    <title>Mini Program</title>
+</programme>
+<programme start="20251213014000 +0000" stop="20251213023500 +0000" channel="NHK World Premium.mncvision">
+    <title>Classical Music Club</title>
+</programme>
+<programme start="20251213023500 +0000" stop="20251213025600 +0000" channel="NHK World Premium.mncvision">
+    <title>Documentary: 20 Minutes</title>
+</programme>
+<programme start="20251213025600 +0000" stop="20251213030000 +0000" channel="NHK World Premium.mncvision">
+    <title>World Weather</title>
+</programme>
+<programme start="20251213030000 +0000" stop="20251213031500 +0000" channel="NHK World Premium.mncvision">
+    <title>News</title>
+</programme>
+<programme start="20251213031500 +0000" stop="20251213034000 +0000" channel="NHK World Premium.mncvision">
+    <title>Exploring Factories</title>
+</programme>
+<programme start="20251213034000 +0000" stop="20251213034500 +0000" channel="NHK World Premium.mncvision">
+    <title>Fun With Okinawa Dialects</title>
+</programme>
+<programme start="20251213034500 +0000" stop="20251213040000 +0000" channel="NHK World Premium.mncvision">
+    <title>The Ghost Writer&#039;s Wife</title>
+</programme>
+<programme start="20251213040000 +0000" stop="20251213040500 +0000" channel="NHK World Premium.mncvision">
+    <title>News &amp; Weather</title>
+</programme>
+<programme start="20251213040500 +0000" stop="20251213042000 +0000" channel="NHK World Premium.mncvision">
+    <title>The Ghost Writer&#039;s Wife, Ep 55</title>
+</programme>
+<programme start="20251213042000 +0000" stop="20251213050500 +0000" channel="NHK World Premium.mncvision">
+    <title>Unbound, Ep 47</title>
+</programme>
+<programme start="20251213050500 +0000" stop="20251213063500 +0000" channel="NHK World Premium.mncvision">
+    <title>Mary Of Magdalene Restaurant</title>
+</programme>
+<programme start="20251213063500 +0000" stop="20251213070500 +0000" channel="NHK World Premium.mncvision">
+    <title>Outside In Lost In Academia</title>
+</programme>
+<programme start="20251213070500 +0000" stop="20251213083500 +0000" channel="NHK World Premium.mncvision">
+    <title>Solo Trip To Hot Springs</title>
+</programme>
+<programme start="20251213083500 +0000" stop="20251213085900 +0000" channel="NHK World Premium.mncvision">
+    <title>With Mother</title>
+</programme>
+<programme start="20251213085900 +0000" stop="20251213090000 +0000" channel="NHK World Premium.mncvision">
+    <title>1-Minute Anime: Songs For SDGs</title>
+</programme>
+<programme start="20251213090000 +0000" stop="20251213090500 +0000" channel="NHK World Premium.mncvision">
+    <title>News</title>
+</programme>
+<programme start="20251213090500 +0000" stop="20251213093500 +0000" channel="NHK World Premium.mncvision">
+    <title>Tokoro-San&#039;s Pursuit Of Truth</title>
+</programme>
+<programme start="20251213093500 +0000" stop="20251213094500 +0000" channel="NHK World Premium.mncvision">
+    <title>Fun With Japanese</title>
+</programme>
+<programme start="20251213094500 +0000" stop="20251213095600 +0000" channel="NHK World Premium.mncvision">
+    <title>Let&#039;s Enjoy English &amp; Meets...</title>
+</programme>
+<programme start="20251213095600 +0000" stop="20251213100000 +0000" channel="NHK World Premium.mncvision">
+    <title>World Weather</title>
+</programme>
+<programme start="20251213100000 +0000" stop="20251213103000 +0000" channel="NHK World Premium.mncvision">
+    <title>NHK News</title>
+</programme>
+<programme start="20251213103000 +0000" stop="20251213110000 +0000" channel="NHK World Premium.mncvision">
+    <title>Strolling With Tamori</title>
+</programme>
+<programme start="20251213110000 +0000" stop="20251213113000 +0000" channel="NHK World Premium.mncvision">
+    <title>Project X: The Challengers</title>
+</programme>
 <programme start="20251212170000 +0000" stop="20251212172000 +0000" channel="Nick Jr. HD.mncvision">
     <title>Dora</title>
 </programme>
