@@ -91,13 +91,13 @@
   <programme start="20251215224200 +0000" stop="20251216001000 +0000" channel="Jednotka.webtv.sk">
     <title lang="id">Celkom iná rodina I (1/2)</title>
   </programme>
-  <programme start="20251214214500 +0000" stop="20251214231800 +0000" channel="Dvojka.webtv.sk">
+  <programme start="20251214221000 +0000" stop="20251214234200 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Mansfield Park</title>
   </programme>
-  <programme start="20251214231800 +0000" stop="20251214232000 +0000" channel="Dvojka.webtv.sk">
+  <programme start="20251214234200 +0000" stop="20251214234400 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Hymna SR</title>
   </programme>
-  <programme start="20251214232000 +0000" stop="20251215022000 +0000" channel="Dvojka.webtv.sk">
+  <programme start="20251214234400 +0000" stop="20251215022000 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Správy</title>
   </programme>
   <programme start="20251215051500 +0000" stop="20251215052500 +0000" channel="Dvojka.webtv.sk">
@@ -3115,8 +3115,11 @@
   <programme start="20251215043000 +0000" stop="20251215045900 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Zajímavosti z regionů</title>
   </programme>
-  <programme start="20251215045900 +0000" stop="20251215080000 +0000" channel="ČT1.webtv.sk">
+  <programme start="20251215045900 +0000" stop="20251215070000 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Studio 6</title>
+  </programme>
+  <programme start="20251215070000 +0000" stop="20251215080000 +0000" channel="ČT1.webtv.sk">
+    <title lang="id">Značka: Na dožití</title>
   </programme>
   <programme start="20251215080000 +0000" stop="20251215090600 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Tak neváhej a toč speciál</title>
@@ -4003,10 +4006,10 @@
   <programme start="20251214221500 +0000" stop="20251214232000 +0000" channel="Prima Cool SK.webtv.sk">
     <title lang="id">To nejlepší z Top Gearu: Top 41 (4)</title>
   </programme>
-  <programme start="20251214232000 +0000" stop="20251215000500 +0000" channel="Prima Cool SK.webtv.sk">
+  <programme start="20251214232000 +0000" stop="20251215001000 +0000" channel="Prima Cool SK.webtv.sk">
     <title lang="id">Prima Partička</title>
   </programme>
-  <programme start="20251215000500 +0000" stop="20251215011500 +0000" channel="Prima Cool SK.webtv.sk">
+  <programme start="20251215001000 +0000" stop="20251215011500 +0000" channel="Prima Cool SK.webtv.sk">
     <title lang="id">Prima Partička L</title>
   </programme>
   <programme start="20251215011500 +0000" stop="20251215014000 +0000" channel="Prima Cool SK.webtv.sk">
@@ -4021,8 +4024,11 @@
   <programme start="20251215030500 +0000" stop="20251215035500 +0000" channel="Prima Cool SK.webtv.sk">
     <title lang="id">Autosalon</title>
   </programme>
-  <programme start="20251215035500 +0000" stop="20251215050000 +0000" channel="Prima Cool SK.webtv.sk">
+  <programme start="20251215035500 +0000" stop="20251215044900 +0000" channel="Prima Cool SK.webtv.sk">
     <title lang="id">Vlakem přes Labské údolí</title>
+  </programme>
+  <programme start="20251215044900 +0000" stop="20251215050000 +0000" channel="Prima Cool SK.webtv.sk">
+    <title lang="id">Vysielacia prestávka</title>
   </programme>
   <programme start="20251215050000 +0000" stop="20251215053000 +0000" channel="Prima Cool SK.webtv.sk">
     <title lang="id">Vlakem přes Labské údolí</title>
@@ -4111,40 +4117,40 @@
   <programme start="20251215044000 +0000" stop="20251215050000 +0000" channel="Prima Love SK.webtv.sk">
     <title lang="id">Vysielacia prestávka</title>
   </programme>
-  <programme start="20251215050000 +0000" stop="20251215052000 +0000" channel="Prima Love SK.webtv.sk">
+  <programme start="20251215050000 +0000" stop="20251215052500 +0000" channel="Prima Love SK.webtv.sk">
     <title lang="id">Relaxační podívaná</title>
   </programme>
-  <programme start="20251215052000 +0000" stop="20251215060000 +0000" channel="Prima Love SK.webtv.sk">
+  <programme start="20251215052500 +0000" stop="20251215060500 +0000" channel="Prima Love SK.webtv.sk">
     <title lang="id">Šéf na grilu</title>
   </programme>
-  <programme start="20251215060000 +0000" stop="20251215063500 +0000" channel="Prima Love SK.webtv.sk">
+  <programme start="20251215060500 +0000" stop="20251215064000 +0000" channel="Prima Love SK.webtv.sk">
     <title lang="id">Šéf na grilu</title>
   </programme>
-  <programme start="20251215063500 +0000" stop="20251215075000 +0000" channel="Prima Love SK.webtv.sk">
+  <programme start="20251215064000 +0000" stop="20251215075500 +0000" channel="Prima Love SK.webtv.sk">
     <title lang="id">Ano, šéfe!</title>
   </programme>
-  <programme start="20251215075000 +0000" stop="20251215085500 +0000" channel="Prima Love SK.webtv.sk">
+  <programme start="20251215075500 +0000" stop="20251215090000 +0000" channel="Prima Love SK.webtv.sk">
     <title lang="id">Velmi křehké vztahy (3)</title>
   </programme>
-  <programme start="20251215085500 +0000" stop="20251215100500 +0000" channel="Prima Love SK.webtv.sk">
+  <programme start="20251215090000 +0000" stop="20251215101000 +0000" channel="Prima Love SK.webtv.sk">
     <title lang="id">Velmi křehké vztahy (4)</title>
   </programme>
-  <programme start="20251215100500 +0000" stop="20251215110000 +0000" channel="Prima Love SK.webtv.sk">
+  <programme start="20251215101000 +0000" stop="20251215110500 +0000" channel="Prima Love SK.webtv.sk">
     <title lang="id">V hre je láska I (198)</title>
   </programme>
-  <programme start="20251215110000 +0000" stop="20251215120000 +0000" channel="Prima Love SK.webtv.sk">
+  <programme start="20251215110500 +0000" stop="20251215120500 +0000" channel="Prima Love SK.webtv.sk">
     <title lang="id">V hre je láska I (199)</title>
   </programme>
-  <programme start="20251215120000 +0000" stop="20251215130000 +0000" channel="Prima Love SK.webtv.sk">
+  <programme start="20251215120500 +0000" stop="20251215130000 +0000" channel="Prima Love SK.webtv.sk">
     <title lang="id">Záchranáři z hor VII (5)</title>
   </programme>
-  <programme start="20251215130000 +0000" stop="20251215135500 +0000" channel="Prima Love SK.webtv.sk">
+  <programme start="20251215130000 +0000" stop="20251215140000 +0000" channel="Prima Love SK.webtv.sk">
     <title lang="id">Záchranáři z hor VII (6)</title>
   </programme>
-  <programme start="20251215135500 +0000" stop="20251215150500 +0000" channel="Prima Love SK.webtv.sk">
+  <programme start="20251215140000 +0000" stop="20251215151000 +0000" channel="Prima Love SK.webtv.sk">
     <title lang="id">Velmi křehké vztahy (5)</title>
   </programme>
-  <programme start="20251215150500 +0000" stop="20251215162500 +0000" channel="Prima Love SK.webtv.sk">
+  <programme start="20251215151000 +0000" stop="20251215162500 +0000" channel="Prima Love SK.webtv.sk">
     <title lang="id">Velmi křehké vztahy (6)</title>
   </programme>
   <programme start="20251215162500 +0000" stop="20251215173500 +0000" channel="Prima Love SK.webtv.sk">
@@ -4171,19 +4177,19 @@
   <programme start="20251214223000 +0000" stop="20251214231500 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Prvních 48 hodin XVI (16)</title>
   </programme>
-  <programme start="20251214231500 +0000" stop="20251215005000 +0000" channel="Prima Krimi SK.webtv.sk">
+  <programme start="20251214231500 +0000" stop="20251215004500 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Julie Lescautová III (4)</title>
   </programme>
-  <programme start="20251215005000 +0000" stop="20251215035000 +0000" channel="Prima Krimi SK.webtv.sk">
+  <programme start="20251215004500 +0000" stop="20251215035000 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Noční dobrodružství</title>
   </programme>
   <programme start="20251215044500 +0000" stop="20251215050000 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Vysielacia prestávka</title>
   </programme>
-  <programme start="20251215050000 +0000" stop="20251215080000 +0000" channel="Prima Krimi SK.webtv.sk">
+  <programme start="20251215050000 +0000" stop="20251215080500 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Noční dobrodružství</title>
   </programme>
-  <programme start="20251215080000 +0000" stop="20251215094500 +0000" channel="Prima Krimi SK.webtv.sk">
+  <programme start="20251215080500 +0000" stop="20251215094500 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Vraždy v Midsomeru VII (2)</title>
   </programme>
   <programme start="20251215094500 +0000" stop="20251215103000 +0000" channel="Prima Krimi SK.webtv.sk">
@@ -4192,28 +4198,28 @@
   <programme start="20251215103000 +0000" stop="20251215120500 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Big Ben III (7)</title>
   </programme>
-  <programme start="20251215120500 +0000" stop="20251215135000 +0000" channel="Prima Krimi SK.webtv.sk">
+  <programme start="20251215120500 +0000" stop="20251215135500 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Julie Lescautová III (3)</title>
   </programme>
-  <programme start="20251215135000 +0000" stop="20251215153500 +0000" channel="Prima Krimi SK.webtv.sk">
+  <programme start="20251215135500 +0000" stop="20251215153500 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Vraždy v Midsomeru VII (1)</title>
   </programme>
   <programme start="20251215153500 +0000" stop="20251215162000 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Prvních 48 hodin XVI (17)</title>
   </programme>
-  <programme start="20251215162000 +0000" stop="20251215170000 +0000" channel="Prima Krimi SK.webtv.sk">
+  <programme start="20251215162000 +0000" stop="20251215170500 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Prvních 48 hodin XVI (18)</title>
   </programme>
-  <programme start="20251215170000 +0000" stop="20251215174500 +0000" channel="Prima Krimi SK.webtv.sk">
+  <programme start="20251215170500 +0000" stop="20251215175000 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Prvních 48 hodin XVI (19)</title>
   </programme>
-  <programme start="20251215174500 +0000" stop="20251215183000 +0000" channel="Prima Krimi SK.webtv.sk">
+  <programme start="20251215175000 +0000" stop="20251215183500 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Vraždy v Kitzbühelu XI (13)</title>
   </programme>
-  <programme start="20251215183000 +0000" stop="20251215191500 +0000" channel="Prima Krimi SK.webtv.sk">
+  <programme start="20251215183500 +0000" stop="20251215192000 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Vraždy v Kitzbühelu I (1)</title>
   </programme>
-  <programme start="20251215191500 +0000" stop="20251215205000 +0000" channel="Prima Krimi SK.webtv.sk">
+  <programme start="20251215192000 +0000" stop="20251215205000 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Vraždy v Oxfordu VIII (1)</title>
   </programme>
   <programme start="20251215205000 +0000" stop="20251215213500 +0000" channel="Prima Krimi SK.webtv.sk">
