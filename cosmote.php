@@ -1,7 +1,3 @@
-<programme start="20251213130000 +0700" stop="20251213133000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>UEFA Champions League Magazine 2024-25 E15</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251213133000 +0700" stop="20251213153000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: SL Benfica - SSC Napoli</title>
     <desc>Live: Tidak</desc>
@@ -78,6 +74,10 @@
     <title>Football: FC Bayern Munchen - Sporting CP</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251214140000 +0700" stop="20251214160000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: PFC Ludogorets 1945 - PAOK</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251213120000 +0700" stop="20251213141000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Volos - Kifisia</title>
     <desc>Live: Tidak</desc>
@@ -140,6 +140,10 @@
 </programme>
 <programme start="20251214120000 +0700" stop="20251214140000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Torino - Cremonese</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251214140000 +0700" stop="20251214161000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: OFI - Panserraikos</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251213120000 +0700" stop="20251213153000 +0700" channel="COSMOTE Sport 3 HD">
@@ -210,6 +214,10 @@
     <title>Football: Brackley Town - Burton Albion</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251214140000 +0700" stop="20251214160000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Norwich City - Southampton</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251213130000 +0700" stop="20251213151000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Karditsa - Mersin MSK</title>
     <desc>Live: Tidak</desc>
@@ -276,10 +284,6 @@
 </programme>
 <programme start="20251214133000 +0700" stop="20251214153000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Bahcesehir - Besiktas</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251213122000 +0700" stop="20251213134000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>DTM 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251213134000 +0700" stop="20251213145000 +0700" channel="COSMOTE Sport 5 HD">
@@ -356,6 +360,14 @@
 </programme>
 <programme start="20251214123000 +0700" stop="20251214141500 +0700" channel="COSMOTE Sport 5 HD">
     <title>DTM 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251214141500 +0700" stop="20251214145500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Moto-E World Championship 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251214145500 +0700" stop="20251214154000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Moto-E World Championship 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251213130000 +0700" stop="20251213170000 +0700" channel="COSMOTE Sport 6 HD">
