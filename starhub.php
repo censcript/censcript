@@ -2041,14 +2041,26 @@
     <programme start="20251212200000 +0000" stop="20251212220000 +0000" channel="KTV HD.starhub">
         <title>Information Not Available</title>
     </programme>
-    <programme start="20251212220000 +0000" stop="20251213040000 +0000" channel="KTV HD.starhub">
-        <title>Information Not Available</title>
+    <programme start="20251212223000 +0000" stop="20251213010000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Padhavi</title>
     </programme>
-    <programme start="20251213040000 +0000" stop="20251213100000 +0000" channel="KTV HD.starhub">
-        <title>Information Not Available</title>
+    <programme start="20251213010000 +0000" stop="20251213013000 +0000" channel="KTV HD.starhub">
+        <title>Fillers</title>
     </programme>
-    <programme start="20251213100000 +0000" stop="20251213160000 +0000" channel="KTV HD.starhub">
-        <title>Information Not Available</title>
+    <programme start="20251213013000 +0000" stop="20251213043000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Aasai Aasaiyai</title>
+    </programme>
+    <programme start="20251213043000 +0000" stop="20251213073000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Kaalam Maripochu</title>
+    </programme>
+    <programme start="20251213073000 +0000" stop="20251213103000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Kaaviya Thalaivan</title>
+    </programme>
+    <programme start="20251213103000 +0000" stop="20251213133000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Sundara Travels</title>
+    </programme>
+    <programme start="20251213133000 +0000" stop="20251213170000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Rajavamsam</title>
     </programme>
     <programme start="20251212160000 +0000" stop="20251212173000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>Premier Padel 2025: Barcelona Finals Day 2 QF 3 (Live)</title>
