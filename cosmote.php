@@ -110,10 +110,6 @@
     <title>Football: Panathinaikos - Volos</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251215033000 +0700" stop="20251215053000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Arouca - Alverca (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
 <programme start="20251215053000 +0700" stop="20251215063000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Emirates FA Cup 2025-26 - Highlights</title>
     <desc>Live: Tidak</desc>
@@ -170,9 +166,9 @@
     <title>Emirates FA Cup 2025-26 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251215030000 +0700" stop="20251215060000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Indiana Pacers - Washington Wizards (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20251216064500 +0700" stop="20251216084500 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Salford City - Leyton Orient</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251215060000 +0700" stop="20251215063000 +0700" channel="COSMOTE Sport 4 HD">
     <title>NBA on Fire 2025-26 E7</title>
@@ -228,6 +224,10 @@
 </programme>
 <programme start="20251216043000 +0700" stop="20251216063000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Manresa - Barcelona</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251216063000 +0700" stop="20251216073000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>NBA Specials: Basketball Stories</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251215050000 +0700" stop="20251215063000 +0700" channel="COSMOTE Sport 5 HD">
@@ -334,6 +334,10 @@
     <title>Highlights: 2025 Extreme H</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251216062500 +0700" stop="20251216071500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>2025 GT World Challenge Europe</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251215043000 +0700" stop="20251215073000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Fight Sports: UFC Fight Night 2025</title>
     <desc>Live: Tidak</desc>
@@ -412,6 +416,10 @@
 </programme>
 <programme start="20251216045000 +0700" stop="20251216063000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Volleyball: Olympiacos - Apeldoorn</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251216063000 +0700" stop="20251216070000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Watersports: Inside Sailing 2025 E11</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251215050000 +0700" stop="20251215070000 +0700" channel="COSMOTE Sport 7 HD">
