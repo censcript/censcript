@@ -1,7 +1,3 @@
-<programme start="20251215004000 +0700" stop="20251215020000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Sportshow (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
 <programme start="20251215020000 +0700" stop="20251215041000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Panathinaikos - Volos (L)</title>
     <desc>Live: Ya</desc>
@@ -53,10 +49,6 @@
 <programme start="20251216010000 +0700" stop="20251216030000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: FC Kairat Almaty - Olympiacos</title>
     <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251215000000 +0700" stop="20251215020000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Genoa - FC Internazionale Milano (L)</title>
-    <desc>Live: Ya</desc>
 </programme>
 <programme start="20251215020000 +0700" stop="20251215024500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Sports Classics: My Sporting Moment</title>
@@ -114,6 +106,10 @@
     <title>Football: Genoa - FC Internazionale Milano</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251216024500 +0700" stop="20251216044500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: AS Roma - Como (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
 <programme start="20251215010000 +0700" stop="20251215033000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: St. Mirren - Celtic FC</title>
     <desc>Live: Tidak</desc>
@@ -168,10 +164,6 @@
 </programme>
 <programme start="20251216014500 +0700" stop="20251216034500 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Wrexham  - Watford</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251214233000 +0700" stop="20251215020000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Golden State Warriors - Minnesota Timberwolves</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251215020000 +0700" stop="20251215023000 +0700" channel="COSMOTE Sport 4 HD">
@@ -232,6 +224,10 @@
 </programme>
 <programme start="20251216000500 +0700" stop="20251216020500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Fenerbahce - Anadolu Efes</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251216020500 +0700" stop="20251216043000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Indiana Pacers - Washington Wizards</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251215010000 +0700" stop="20251215030000 +0700" channel="COSMOTE Sport 5 HD">
@@ -414,6 +410,14 @@
     <title>Volleyball: Ziraat Bankasi SK Ankara - Tours VB</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251216021500 +0700" stop="20251216023000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Sports Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251216023000 +0700" stop="20251216033000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Navarino Challenge 2025 Mini Movie</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251215003000 +0700" stop="20251215023000 +0700" channel="COSMOTE Sport 7 HD">
     <title>Basketball: Fenerbahce - Anadolu Efes (L)</title>
     <desc>Live: Ya</desc>
@@ -477,14 +481,6 @@
 <programme start="20251216014500 +0700" stop="20251216034500 +0700" channel="COSMOTE Sport 7 HD">
     <title>Football: SC Braga - Santa Clara (L)</title>
     <desc>Live: Ya</desc>
-</programme>
-<programme start="20251215010000 +0700" stop="20251215013000 +0700" channel="COSMOTE Sport 8 HD">
-    <title>COSMOTESport8HD</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251215013000 +0700" stop="20251215020000 +0700" channel="COSMOTE Sport 8 HD">
-    <title>COSMOTESport8HD</title>
-    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251215020000 +0700" stop="20251215040000 +0700" channel="COSMOTE Sport 8 HD">
     <title>Basketball: Armani Milano - Virtus Bologna (L)</title>

@@ -3056,6 +3056,54 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251214223000 +0000" stop="20251214230000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: Under the Skin (Nottingham Forest)</title>
 </programme>
+<programme start="20251214000000 +0000" stop="20251214020000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 250: A. Zverev (GER) - T. Fritz (USA), Boss Open in Stuttgart, Finale</title>
+</programme>
+<programme start="20251214020000 +0000" stop="20251214023000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 1000: Review Peking</title>
+</programme>
+<programme start="20251214023000 +0000" stop="20251214033000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 1000: Review Miami</title>
+</programme>
+<programme start="20251214033000 +0000" stop="20251214043000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 1000: Review Monte-Carlo</title>
+</programme>
+<programme start="20251214043000 +0000" stop="20251214053000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 1000: Review Madrid</title>
+</programme>
+<programme start="20251214053000 +0000" stop="20251214063000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 1000: Review Rom</title>
+</programme>
+<programme start="20251214063000 +0000" stop="20251214073000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 1000: Review Toronto</title>
+</programme>
+<programme start="20251214073000 +0000" stop="20251214083000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 1000: Review Cincinnati</title>
+</programme>
+<programme start="20251214083000 +0000" stop="20251214093000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 1000: Review Shanghai</title>
+</programme>
+<programme start="20251214093000 +0000" stop="20251214103000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 1000: Review Paris</title>
+</programme>
+<programme start="20251214103000 +0000" stop="20251214123000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 500: T. Maria (GER) - A. Anisimova (USA), HSBC Championships in London (GBR), Finale</title>
+</programme>
+<programme start="20251214123000 +0000" stop="20251214170000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>Live Tennis: Ischgl Trophy, Tag 3</title>
+</programme>
+<programme start="20251214170000 +0000" stop="20251214193000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP Finals: J. Sinner (ITA) - C. Alcaraz (ESP), Finale 2025 in Turin (ITA)</title>
+</programme>
+<programme start="20251214193000 +0000" stop="20251214203000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP Finals: Review Turin 2025</title>
+</programme>
+<programme start="20251214203000 +0000" stop="20251214210000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA Finals: Review Riyadh 2025</title>
+</programme>
+<programme start="20251214210000 +0000" stop="20251214230000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 500: T. Maria (GER) - M. Keys (USA), HSBC Championships in London (GBR), Halbfinale 1</title>
+</programme>
 <programme start="20251213233000 +0000" stop="20251214000000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>NHL: On the Fly</title>
 </programme>
