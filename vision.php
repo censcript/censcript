@@ -559,6 +559,12 @@
 <programme start="20251214094500 +0000" stop="20251214103000 +0000" channel="Trans 7.vision">
 <title>Selebrita On The Weekend</title>
 </programme>
+<programme start="20251214173000 +0000" stop="20251214190000 +0000" channel="Trans 7.vision">
+<title>Waktu Maghrib</title>
+</programme>
+<programme start="20251214190000 +0000" stop="20251214203000 +0000" channel="Trans 7.vision">
+<title>The Way Of The Dragon</title>
+</programme>
 <programme start="20251214203000 +0000" stop="20251214213000 +0000" channel="Trans 7.vision">
 <title>Anak Sekolah</title>
 </programme>
@@ -627,6 +633,9 @@
 </programme>
 <programme start="20251214110000 +0000" stop="20251214133000 +0000" channel="ANTV.vision">
 <title>Serie A Liga Italia</title>
+</programme>
+<programme start="20251214183000 +0000" stop="20251214203000 +0000" channel="ANTV.vision">
+<title>Sinema Spesial</title>
 </programme>
 <programme start="20251214203000 +0000" stop="20251214220000 +0000" channel="ANTV.vision">
 <title>ANTV</title>
@@ -1488,13 +1497,4 @@
 </programme>
 <programme start="20251215110000 +0000" stop="20251215130000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
-</programme>
-<programme start="20251214000000 +0000" stop="20251214030000 +0000" channel="DAAI TV.vision">
-<title>DAAI TV</title>
-</programme>
-<programme start="20251214030000 +0000" stop="20251214060000 +0000" channel="DAAI TV.vision">
-<title>DAAI TV</title>
-</programme>
-<programme start="20251214060000 +0000" stop="20251214090000 +0000" channel="DAAI TV.vision">
-<title>DAAI TV</title>
 </programme>
