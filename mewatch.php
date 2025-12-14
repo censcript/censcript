@@ -98,7 +98,7 @@
         <title>Table Tennis - 33rd SEA Games Thailand 2025: Men&#039;s &amp; Women&#039;s Team Semi-finals &amp; Finals</title>
     </programme>
     <programme start="20251214110000 +0000" stop="20251214130000 +0000" channel="Channel 5.mewatch">
-        <title>Swimming - 33rd SEA Games Thailand 2025: Men&#039;s &amp; Women&#039;s Finals - 14 Dec 2025</title>
+        <title>Table Tennis - 33rd SEA Games Thailand 2025: Men&#039;s &amp; Women&#039;s Team Semi-finals &amp; Finals</title>
     </programme>
     <programme start="20251214130000 +0000" stop="20251214133000 +0000" channel="Channel 5.mewatch">
         <title>(Live) News Tonight</title>

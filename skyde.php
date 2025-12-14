@@ -2312,95 +2312,104 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251214225500 +0000" stop="20251214233500 +0000" channel="Sky One HD.skyde">
     <title>Navy CIS</title>
 </programme>
-<programme start="20251211234000 +0000" stop="20251212002000 +0000" channel="Sky Replay HD.skyde">
-    <title>Criminal Intent - Verbrechen im Visier</title>
+<programme start="20251213233000 +0000" stop="20251214001500 +0000" channel="Sky Replay HD.skyde">
+    <title>Magnum P.I.</title>
 </programme>
-<programme start="20251212002000 +0000" stop="20251212010500 +0000" channel="Sky Replay HD.skyde">
-    <title>Criminal Intent - Verbrechen im Visier</title>
+<programme start="20251214001500 +0000" stop="20251214010000 +0000" channel="Sky Replay HD.skyde">
+    <title>Magnum P.I.</title>
 </programme>
-<programme start="20251212010500 +0000" stop="20251212015000 +0000" channel="Sky Replay HD.skyde">
-    <title>Criminal Intent - Verbrechen im Visier</title>
+<programme start="20251214010000 +0000" stop="20251214014500 +0000" channel="Sky Replay HD.skyde">
+    <title>Magnum P.I.</title>
 </programme>
-<programme start="20251212015000 +0000" stop="20251212023500 +0000" channel="Sky Replay HD.skyde">
-    <title>Criminal Intent - Verbrechen im Visier</title>
+<programme start="20251214014500 +0000" stop="20251214022500 +0000" channel="Sky Replay HD.skyde">
+    <title>Magnum P.I.</title>
 </programme>
-<programme start="20251212023500 +0000" stop="20251212031000 +0000" channel="Sky Replay HD.skyde">
-    <title>Diese Ochsenknechts 4: Warten auf Jimi</title>
+<programme start="20251214022500 +0000" stop="20251214031000 +0000" channel="Sky Replay HD.skyde">
+    <title>Magnum P.I.</title>
 </programme>
-<programme start="20251212031000 +0000" stop="20251212041000 +0000" channel="Sky Replay HD.skyde">
-    <title>Euphoria</title>
+<programme start="20251214031000 +0000" stop="20251214035500 +0000" channel="Sky Replay HD.skyde">
+    <title>Magnum P.I.</title>
 </programme>
-<programme start="20251212041000 +0000" stop="20251212051000 +0000" channel="Sky Replay HD.skyde">
-    <title>Euphoria</title>
+<programme start="20251214035500 +0000" stop="20251214042500 +0000" channel="Sky Replay HD.skyde">
+    <title>Art in the City</title>
 </programme>
-<programme start="20251212051000 +0000" stop="20251212060500 +0000" channel="Sky Replay HD.skyde">
-    <title>True Blood</title>
+<programme start="20251214042500 +0000" stop="20251214051000 +0000" channel="Sky Replay HD.skyde">
+    <title>Magnum P.I.</title>
 </programme>
-<programme start="20251212060500 +0000" stop="20251212065500 +0000" channel="Sky Replay HD.skyde">
-    <title>True Blood</title>
+<programme start="20251214051000 +0000" stop="20251214055000 +0000" channel="Sky Replay HD.skyde">
+    <title>Magnum P.I.</title>
 </programme>
-<programme start="20251212065500 +0000" stop="20251212075000 +0000" channel="Sky Replay HD.skyde">
-    <title>True Blood</title>
+<programme start="20251214055000 +0000" stop="20251214063500 +0000" channel="Sky Replay HD.skyde">
+    <title>Magnum P.I.</title>
 </programme>
-<programme start="20251212075000 +0000" stop="20251212090000 +0000" channel="Sky Replay HD.skyde">
-    <title>Band Of Brothers - Wir waren wie Brüder</title>
+<programme start="20251214063500 +0000" stop="20251214072000 +0000" channel="Sky Replay HD.skyde">
+    <title>Magnum P.I.</title>
 </programme>
-<programme start="20251212090000 +0000" stop="20251212095500 +0000" channel="Sky Replay HD.skyde">
-    <title>Band Of Brothers - Wir waren wie Brüder</title>
+<programme start="20251214072000 +0000" stop="20251214080500 +0000" channel="Sky Replay HD.skyde">
+    <title>Magnum P.I.</title>
 </programme>
-<programme start="20251212095500 +0000" stop="20251212105500 +0000" channel="Sky Replay HD.skyde">
-    <title>The Wire</title>
+<programme start="20251214080500 +0000" stop="20251214084500 +0000" channel="Sky Replay HD.skyde">
+    <title>Magnum P.I.</title>
 </programme>
-<programme start="20251212105500 +0000" stop="20251212115000 +0000" channel="Sky Replay HD.skyde">
-    <title>The Wire</title>
+<programme start="20251214084500 +0000" stop="20251214093000 +0000" channel="Sky Replay HD.skyde">
+    <title>Magnum P.I.</title>
 </programme>
-<programme start="20251212115000 +0000" stop="20251212123500 +0000" channel="Sky Replay HD.skyde">
-    <title>Blue Bloods - Crime Scene New York</title>
+<programme start="20251214093000 +0000" stop="20251214101500 +0000" channel="Sky Replay HD.skyde">
+    <title>Magnum P.I.</title>
 </programme>
-<programme start="20251212123500 +0000" stop="20251212132000 +0000" channel="Sky Replay HD.skyde">
-    <title>Blue Bloods - Crime Scene New York</title>
+<programme start="20251214101500 +0000" stop="20251214110000 +0000" channel="Sky Replay HD.skyde">
+    <title>Magnum P.I.</title>
 </programme>
-<programme start="20251212132000 +0000" stop="20251212140500 +0000" channel="Sky Replay HD.skyde">
-    <title>Blue Bloods - Crime Scene New York</title>
+<programme start="20251214110000 +0000" stop="20251214114500 +0000" channel="Sky Replay HD.skyde">
+    <title>Magnum P.I.</title>
 </programme>
-<programme start="20251212140500 +0000" stop="20251212145000 +0000" channel="Sky Replay HD.skyde">
-    <title>Blue Bloods - Crime Scene New York</title>
+<programme start="20251214114500 +0000" stop="20251214123000 +0000" channel="Sky Replay HD.skyde">
+    <title>Magnum P.I.</title>
 </programme>
-<programme start="20251212145000 +0000" stop="20251212153500 +0000" channel="Sky Replay HD.skyde">
-    <title>Criminal Intent - Verbrechen im Visier</title>
+<programme start="20251214123000 +0000" stop="20251214131500 +0000" channel="Sky Replay HD.skyde">
+    <title>Magnum P.I.</title>
 </programme>
-<programme start="20251212153500 +0000" stop="20251212162000 +0000" channel="Sky Replay HD.skyde">
-    <title>Criminal Intent - Verbrechen im Visier</title>
+<programme start="20251214131500 +0000" stop="20251214140000 +0000" channel="Sky Replay HD.skyde">
+    <title>Magnum P.I.</title>
 </programme>
-<programme start="20251212162000 +0000" stop="20251212170500 +0000" channel="Sky Replay HD.skyde">
-    <title>Criminal Intent - Verbrechen im Visier</title>
+<programme start="20251214140000 +0000" stop="20251214144500 +0000" channel="Sky Replay HD.skyde">
+    <title>Magnum P.I.</title>
 </programme>
-<programme start="20251212170500 +0000" stop="20251212174500 +0000" channel="Sky Replay HD.skyde">
-    <title>Criminal Intent - Verbrechen im Visier</title>
+<programme start="20251214144500 +0000" stop="20251214153000 +0000" channel="Sky Replay HD.skyde">
+    <title>Magnum P.I.</title>
 </programme>
-<programme start="20251212174500 +0000" stop="20251212183000 +0000" channel="Sky Replay HD.skyde">
-    <title>Criminal Intent - Verbrechen im Visier</title>
+<programme start="20251214153000 +0000" stop="20251214161500 +0000" channel="Sky Replay HD.skyde">
+    <title>Magnum P.I.</title>
 </programme>
-<programme start="20251212183000 +0000" stop="20251212191500 +0000" channel="Sky Replay HD.skyde">
-    <title>Criminal Intent - Verbrechen im Visier</title>
+<programme start="20251214161500 +0000" stop="20251214170000 +0000" channel="Sky Replay HD.skyde">
+    <title>Magnum P.I.</title>
 </programme>
-<programme start="20251212191500 +0000" stop="20251212195500 +0000" channel="Sky Replay HD.skyde">
-    <title>Blue Bloods - Crime Scene New York</title>
+<programme start="20251214170000 +0000" stop="20251214174500 +0000" channel="Sky Replay HD.skyde">
+    <title>Magnum P.I.</title>
 </programme>
-<programme start="20251212195500 +0000" stop="20251212204000 +0000" channel="Sky Replay HD.skyde">
-    <title>Blue Bloods - Crime Scene New York</title>
+<programme start="20251214174500 +0000" stop="20251214183000 +0000" channel="Sky Replay HD.skyde">
+    <title>Magnum P.I.</title>
 </programme>
-<programme start="20251212204000 +0000" stop="20251212212500 +0000" channel="Sky Replay HD.skyde">
-    <title>Blue Bloods - Crime Scene New York</title>
+<programme start="20251214183000 +0000" stop="20251214191500 +0000" channel="Sky Replay HD.skyde">
+    <title>Magnum P.I.</title>
 </programme>
-<programme start="20251212212500 +0000" stop="20251212221000 +0000" channel="Sky Replay HD.skyde">
-    <title>Blue Bloods - Crime Scene New York</title>
+<programme start="20251214191500 +0000" stop="20251214195500 +0000" channel="Sky Replay HD.skyde">
+    <title>Magnum P.I.</title>
 </programme>
-<programme start="20251212221000 +0000" stop="20251212225500 +0000" channel="Sky Replay HD.skyde">
-    <title>Criminal Intent - Verbrechen im Visier</title>
+<programme start="20251214195500 +0000" stop="20251214204000 +0000" channel="Sky Replay HD.skyde">
+    <title>Magnum P.I.</title>
 </programme>
-<programme start="20251212225500 +0000" stop="20251212233500 +0000" channel="Sky Replay HD.skyde">
-    <title>Criminal Intent - Verbrechen im Visier</title>
+<programme start="20251214204000 +0000" stop="20251214212500 +0000" channel="Sky Replay HD.skyde">
+    <title>Magnum P.I.</title>
+</programme>
+<programme start="20251214212500 +0000" stop="20251214221000 +0000" channel="Sky Replay HD.skyde">
+    <title>Magnum P.I.</title>
+</programme>
+<programme start="20251214221000 +0000" stop="20251214225500 +0000" channel="Sky Replay HD.skyde">
+    <title>Magnum P.I.</title>
+</programme>
+<programme start="20251214225500 +0000" stop="20251214234000 +0000" channel="Sky Replay HD.skyde">
+    <title>Magnum P.I.</title>
 </programme>
 <programme start="20251213234500 +0000" stop="20251214003500 +0000" channel="Sky Showcase HD.skyde">
     <title>Sin City Gigolo: A Murder in Las Vegas</title>
