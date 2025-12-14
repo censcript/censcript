@@ -22,74 +22,29 @@
     <programme start="20251213203500 +0000" stop="20251213210500 +0000" channel="Channel 5.mewatch">
         <title>Films &amp; Stars - EP 36</title>
     </programme>
-    <programme start="20251213210500 +0000" stop="20251213220000 +0000" channel="Channel 5.mewatch">
+    <programme start="20251213210500 +0000" stop="20251213233000 +0000" channel="Channel 5.mewatch">
         <title>Expedition With Steve Backshall S1 - EP 3</title>
     </programme>
-    <programme start="20251213220000 +0000" stop="20251213223000 +0000" channel="Channel 5.mewatch">
-        <title>Hiccup And Sneeze S3 - EP 41</title>
-    </programme>
-    <programme start="20251213223000 +0000" stop="20251213230000 +0000" channel="Channel 5.mewatch">
-        <title>Club M.A.G.I.C S2 - EP 5</title>
-    </programme>
-    <programme start="20251213230000 +0000" stop="20251213233000 +0000" channel="Channel 5.mewatch">
-        <title>123 Number Squad S4 - EP 5</title>
-    </programme>
-    <programme start="20251213233000 +0000" stop="20251214000000 +0000" channel="Channel 5.mewatch">
+    <programme start="20251213233000 +0000" stop="20251214001500 +0000" channel="Channel 5.mewatch">
         <title>Cows &amp; Crayons S2 - EP 1</title>
-    </programme>
-    <programme start="20251214000000 +0000" stop="20251214001500 +0000" channel="Channel 5.mewatch">
-        <title>Tayo the Little Bus 7 - EP 13</title>
     </programme>
     <programme start="20251214001500 +0000" stop="20251214003000 +0000" channel="Channel 5.mewatch">
         <title>Tayo the Little Bus 7 - EP 14</title>
     </programme>
-    <programme start="20251214003000 +0000" stop="20251214010000 +0000" channel="Channel 5.mewatch">
+    <programme start="20251214003000 +0000" stop="20251214023000 +0000" channel="Channel 5.mewatch">
         <title>Pinkfong Songs &amp; Stories - EP 25</title>
-    </programme>
-    <programme start="20251214010000 +0000" stop="20251214013000 +0000" channel="Channel 5.mewatch">
-        <title>Oddbods: Party Monsters</title>
-    </programme>
-    <programme start="20251214013000 +0000" stop="20251214014500 +0000" channel="Channel 5.mewatch">
-        <title>Chimera Keepers: Adventures with Incredible Creatures - EP 49</title>
-    </programme>
-    <programme start="20251214014500 +0000" stop="20251214020000 +0000" channel="Channel 5.mewatch">
-        <title>Chimera Keepers: Adventures with Incredible Creatures - EP 50</title>
-    </programme>
-    <programme start="20251214020000 +0000" stop="20251214021500 +0000" channel="Channel 5.mewatch">
-        <title>Dogmatix and the Indomitables S2 - EP 51</title>
-    </programme>
-    <programme start="20251214021500 +0000" stop="20251214023000 +0000" channel="Channel 5.mewatch">
-        <title>Dogmatix and the Indomitables S2 - EP 52</title>
     </programme>
     <programme start="20251214023000 +0000" stop="20251214030000 +0000" channel="Channel 5.mewatch">
         <title>Alfie&#039;s &quot;World of Wow!&quot; - EP 1</title>
     </programme>
-    <programme start="20251214030000 +0000" stop="20251214033000 +0000" channel="Channel 5.mewatch">
+    <programme start="20251214030000 +0000" stop="20251214050000 +0000" channel="Channel 5.mewatch">
         <title>Transformers: Earthspark S3 - EP 8</title>
-    </programme>
-    <programme start="20251214033000 +0000" stop="20251214040000 +0000" channel="Channel 5.mewatch">
-        <title>Totally Spies S7 - EP 18</title>
-    </programme>
-    <programme start="20251214040000 +0000" stop="20251214043000 +0000" channel="Channel 5.mewatch">
-        <title>Ultraman Omega - EP 13</title>
-    </programme>
-    <programme start="20251214043000 +0000" stop="20251214044500 +0000" channel="Channel 5.mewatch">
-        <title>P. King Duckling - EP 15</title>
-    </programme>
-    <programme start="20251214044500 +0000" stop="20251214050000 +0000" channel="Channel 5.mewatch">
-        <title>P. King Duckling - EP 16</title>
     </programme>
     <programme start="20251214050000 +0000" stop="20251214064500 +0000" channel="Channel 5.mewatch">
         <title>Son of Bigfoot</title>
     </programme>
-    <programme start="20251214064500 +0000" stop="20251214065200 +0000" channel="Channel 5.mewatch">
+    <programme start="20251214064500 +0000" stop="20251214073000 +0000" channel="Channel 5.mewatch">
         <title>Grizzy &amp; The Lemmings S3 - EP 58</title>
-    </programme>
-    <programme start="20251214065200 +0000" stop="20251214070000 +0000" channel="Channel 5.mewatch">
-        <title>Grizzy &amp; The Lemmings S3 - EP 59</title>
-    </programme>
-    <programme start="20251214070000 +0000" stop="20251214073000 +0000" channel="Channel 5.mewatch">
-        <title>Films &amp; Stars - EP 36</title>
     </programme>
     <programme start="20251214073000 +0000" stop="20251214080000 +0000" channel="Channel 5.mewatch">
         <title>Planet Action S4 - EP 8</title>
