@@ -122,8 +122,8 @@
     <title>Football: ACF Fiorentina - Hellas Verona</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251214160000 +0700" stop="20251214180000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Wrexham  - Watford</title>
+<programme start="20251215181000 +0700" stop="20251215202000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Kifisia - Asteras Aktor</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251214180000 +0700" stop="20251214200000 +0700" channel="COSMOTE Sport 3 HD">
@@ -182,8 +182,8 @@
     <title>Emirates FA Cup 2025-26 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251214153000 +0700" stop="20251214173000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Aquila Basket Trento - Reyer Venezia</title>
+<programme start="20251215180000 +0700" stop="20251215203000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: St. Mirren - Celtic FC</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251214173000 +0700" stop="20251214193000 +0700" channel="COSMOTE Sport 4 HD">
@@ -346,6 +346,10 @@
     <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251215183500 +0700" stop="20251215193500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251214170000 +0700" stop="20251214190000 +0700" channel="COSMOTE Sport 6 HD">
     <title>2025 Premier Padel Tour Finals (L)</title>
     <desc>Live: Ya</desc>
@@ -416,6 +420,10 @@
 </programme>
 <programme start="20251215170000 +0700" stop="20251215180000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Sports Classics: 2025 Outdoor Specials</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251215180000 +0700" stop="20251215190000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Nitto ATP Finals 2025 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251214170000 +0700" stop="20251214190000 +0700" channel="COSMOTE Sport 7 HD">
