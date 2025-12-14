@@ -559,9 +559,6 @@
 <programme start="20251214094500 +0000" stop="20251214103000 +0000" channel="Trans 7.vision">
 <title>Selebrita On The Weekend</title>
 </programme>
-<programme start="20251214103000 +0000" stop="20251214120000 +0000" channel="Trans 7.vision">
-<title>Arisan Spesial HUT Transmedia</title>
-</programme>
 <programme start="20251214120000 +0000" stop="20251214173000 +0000" channel="Trans 7.vision">
 <title>Transmedia 24Ours</title>
 </programme>
@@ -639,9 +636,6 @@
 </programme>
 <programme start="20251214110000 +0000" stop="20251214133000 +0000" channel="ANTV.vision">
 <title>Serie A Liga Italia</title>
-</programme>
-<programme start="20251214133000 +0000" stop="20251214150000 +0000" channel="ANTV.vision">
-<title>Senandung Cinta Lilis</title>
 </programme>
 <programme start="20251214150000 +0000" stop="20251214170000 +0000" channel="ANTV.vision">
 <title>Bernapas Dalam Kubur</title>
@@ -1496,5 +1490,11 @@
 <title>TVRI</title>
 </programme>
 <programme start="20251215010000 +0000" stop="20251215030000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251215030000 +0000" stop="20251215050000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251215050000 +0000" stop="20251215070000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
