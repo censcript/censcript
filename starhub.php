@@ -3991,17 +3991,14 @@
     <programme start="20251214040000 +0000" stop="20251214050000 +0000" channel="Hub Sports 3 HD.starhub">
         <title>Unfiltered - DP World Tour Championship</title>
     </programme>
-    <programme start="20251214050000 +0000" stop="20251214060000 +0000" channel="Hub Sports 3 HD.starhub">
+    <programme start="20251214050000 +0000" stop="20251214103000 +0000" channel="Hub Sports 3 HD.starhub">
+        <title>Alfred Dunhill Championship Day 4</title>
+    </programme>
+    <programme start="20251214103000 +0000" stop="20251214113000 +0000" channel="Hub Sports 3 HD.starhub">
         <title>Skechers World Champions Cup supporting Shriners Children&#039;s</title>
     </programme>
-    <programme start="20251214060000 +0000" stop="20251214063000 +0000" channel="Hub Sports 3 HD.starhub">
-        <title>Nedbank Golf Challenge in honour of Gary Player</title>
-    </programme>
-    <programme start="20251214063000 +0000" stop="20251214093000 +0000" channel="Hub Sports 3 HD.starhub">
+    <programme start="20251214113000 +0000" stop="20251214143000 +0000" channel="Hub Sports 3 HD.starhub">
         <title>Grant Thornton Invitational Round 2</title>
-    </programme>
-    <programme start="20251214093000 +0000" stop="20251214143000 +0000" channel="Hub Sports 3 HD.starhub">
-        <title>Alfred Dunhill Championship Day 4</title>
     </programme>
     <programme start="20251214143000 +0000" stop="20251214150000 +0000" channel="Hub Sports 3 HD.starhub">
         <title>On The Bubble - Fighting For Their Future</title>

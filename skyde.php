@@ -2582,7 +2582,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251214121000 +0000" stop="20251214123000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Es folgt: LIVE Sport</title>
 </programme>
-<programme start="20251214123000 +0000" stop="20251214193000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+<programme start="20251214123000 +0000" stop="20251214170000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live Tennis: Ischgl Trophy, Tag 3</title>
 </programme>
 <programme start="20251213234500 +0000" stop="20251214004500 +0000" channel="Sky Sport Bundesliga HD.skyde">
