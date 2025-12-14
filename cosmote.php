@@ -1,7 +1,3 @@
-<programme start="20251214120000 +0700" stop="20251214140000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: FC Bayern Munchen - Sporting CP</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251214140000 +0700" stop="20251214160000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: PFC Ludogorets 1945 - PAOK</title>
     <desc>Live: Tidak</desc>
@@ -60,10 +56,6 @@
 </programme>
 <programme start="20251215130000 +0700" stop="20251215150000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Fotbal Club FCSB - Feyenoord</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251214120000 +0700" stop="20251214140000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Torino - Cremonese</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251214140000 +0700" stop="20251214161000 +0700" channel="COSMOTE Sport 2 HD">
@@ -126,8 +118,8 @@
     <title>Football: OFI - Panserraikos</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251214120000 +0700" stop="20251214140000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Brackley Town - Burton Albion</title>
+<programme start="20251215141000 +0700" stop="20251215161000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Atalanta - Cagliari</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251214140000 +0700" stop="20251214160000 +0700" channel="COSMOTE Sport 3 HD">
@@ -184,14 +176,6 @@
 </programme>
 <programme start="20251215114500 +0700" stop="20251215150000 +0700" channel="COSMOTE Sport 3 HD">
     <title>American Football: Denver Broncos - Green Bay Packers</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251214110000 +0700" stop="20251214131000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Karditsa - Mersin MSK</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251214131000 +0700" stop="20251214133000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>ACB Liga Endesa 2025-26 - Fifth Quarter E9</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251214133000 +0700" stop="20251214153000 +0700" channel="COSMOTE Sport 4 HD">
@@ -408,6 +392,10 @@
 </programme>
 <programme start="20251215134000 +0700" stop="20251215143500 +0700" channel="COSMOTE Sport 6 HD">
     <title>Beach Volley: Pro Tour Elite 16 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251215143500 +0700" stop="20251215150500 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Sports Classics: The Outdoor Sports Show 2024 E11</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251214130000 +0700" stop="20251214150000 +0700" channel="COSMOTE Sport 7 HD">

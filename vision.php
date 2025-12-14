@@ -26,7 +26,7 @@
 <title>Preman Pensiun X</title>
 </programme>
 <programme start="20251214090000 +0000" stop="20251214120000 +0000" channel="RCTI.vision">
-<title>MasterChef Indonesia S13</title>
+<title>MasterChef Indonesia S13 (RCTI)</title>
 </programme>
 <programme start="20251214120000 +0000" stop="20251214131500 +0000" channel="RCTI.vision">
 <title>Mencintai Ipar Sendiri (RCTI)</title>
@@ -633,9 +633,6 @@
 </programme>
 <programme start="20251214010000 +0000" stop="20251214023000 +0000" channel="ANTV.vision">
 <title>Zeynep</title>
-</programme>
-<programme start="20251214023000 +0000" stop="20251214060000 +0000" channel="ANTV.vision">
-<title>Asoka</title>
 </programme>
 <programme start="20251214060000 +0000" stop="20251214080000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
@@ -1496,5 +1493,8 @@
 <title>TVRI</title>
 </programme>
 <programme start="20251214190000 +0000" stop="20251214210000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251214210000 +0000" stop="20251214230000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
