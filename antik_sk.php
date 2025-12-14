@@ -2770,8 +2770,8 @@
   <programme start="20251216220000 +0000" stop="20251216230000 +0000" channel="PREMIUM.webtv.sk">
     <title lang="id">PREMIUM VEČERKA</title>
   </programme>
-  <programme start="20251215191500 +0000" stop="20251216050000 +0000" channel="Šláger Originál.webtv.sk">
-    <title lang="id">VEČERNÍ POŘAD</title>
+  <programme start="20251215230000 +0000" stop="20251216050000 +0000" channel="Šláger Originál.webtv.sk">
+    <title lang="id">ŠLÁGR MIŠMAŠ</title>
   </programme>
   <programme start="20251216050000 +0000" stop="20251216070000 +0000" channel="Šláger Originál.webtv.sk">
     <title lang="id">VSTÁVÁME S DECHOVKOU</title>
@@ -2791,14 +2791,38 @@
   <programme start="20251216165000 +0000" stop="20251216191500 +0000" channel="Šláger Originál.webtv.sk">
     <title lang="id">PODVEČERNÍ ZÁBAVA</title>
   </programme>
-  <programme start="20251216191500 +0000" stop="20251217050000 +0000" channel="Šláger Originál.webtv.sk">
+  <programme start="20251216191500 +0000" stop="20251216230000 +0000" channel="Šláger Originál.webtv.sk">
     <title lang="id">VEČERNÍ POŘAD</title>
   </programme>
-  <programme start="20251215230000 +0000" stop="20251216070000 +0000" channel="Šláger Muzika.webtv.sk">
+  <programme start="20251215230000 +0000" stop="20251216050000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">LIDOVÝ ŠLÁGR MIŠMAŠ</title>
   </programme>
-  <programme start="20251216070000 +0000" stop="20251216180000 +0000" channel="Šláger Muzika.webtv.sk">
+  <programme start="20251216050000 +0000" stop="20251216060000 +0000" channel="Šláger Muzika.webtv.sk">
+    <title lang="id">RÁNO S MUZIKOU</title>
+  </programme>
+  <programme start="20251216060000 +0000" stop="20251216070000 +0000" channel="Šláger Muzika.webtv.sk">
+    <title lang="id">KRÁSNÝ DEN S MUZIKOU</title>
+  </programme>
+  <programme start="20251216070000 +0000" stop="20251216080000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">Z DECHOVKY DO DECHOVKY</title>
+  </programme>
+  <programme start="20251216080000 +0000" stop="20251216090000 +0000" channel="Šláger Muzika.webtv.sk">
+    <title lang="id">ODPOLEDNE S PÍSNIČKOU</title>
+  </programme>
+  <programme start="20251216090000 +0000" stop="20251216120000 +0000" channel="Šláger Muzika.webtv.sk">
+    <title lang="id">Z DECHOVKY DO DECHOVKY</title>
+  </programme>
+  <programme start="20251216120000 +0000" stop="20251216150000 +0000" channel="Šláger Muzika.webtv.sk">
+    <title lang="id">Z PÍSNIČKY DO PÍSNIČKY</title>
+  </programme>
+  <programme start="20251216150000 +0000" stop="20251216160000 +0000" channel="Šláger Muzika.webtv.sk">
+    <title lang="id">Z DECHOVKY DO DECHOVKY</title>
+  </programme>
+  <programme start="20251216160000 +0000" stop="20251216170000 +0000" channel="Šláger Muzika.webtv.sk">
+    <title lang="id">SEDMKRÁT Z KOMPLETU</title>
+  </programme>
+  <programme start="20251216170000 +0000" stop="20251216180000 +0000" channel="Šláger Muzika.webtv.sk">
+    <title lang="id">PÍSNIČKY NA PŘÁNÍ</title>
   </programme>
   <programme start="20251216180000 +0000" stop="20251216190000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">Z DECHOVKY DO DECHOVKY</title>
@@ -14674,7 +14698,7 @@
   <programme start="20251216220000 +0000" stop="20251217041000 +0000" channel="Life TV.webtv.sk">
     <title lang="id">Program z Domu modlitieb a chvál v Kansas City</title>
   </programme>
-  <programme start="20251215222700 +0000" stop="20251216031400 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20251215223100 +0000" stop="20251216031900 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Záznam z rokovania zastupiteľstva KSK / 27.10.2025</title>
   </programme>
   <programme start="20251216040000 +0000" stop="20251216040500 +0000" channel="TV Zemplín.webtv.sk">
@@ -14719,11 +14743,8 @@
   <programme start="20251216073000 +0000" stop="20251216074000 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Evanjelium na dnes</title>
   </programme>
-  <programme start="20251216074000 +0000" stop="20251216074100 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20251216074000 +0000" stop="20251216075600 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Charakterové minútky - Radosť z práce vs. Negativizmus</title>
-  </programme>
-  <programme start="20251216074100 +0000" stop="20251216075600 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Dnes bez lopty - Tornike Dzotsenidze</title>
   </programme>
   <programme start="20251216075600 +0000" stop="20251216084500 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Téma na Zemplíne - Ako sa na Vianoce pripravovali naši predkovia?</title>
@@ -14836,11 +14857,8 @@
   <programme start="20251216211400 +0000" stop="20251216211600 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Charakterové minútky - Iniciatíva vs. Ľahostajnosť</title>
   </programme>
-  <programme start="20251216211600 +0000" stop="20251216215600 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20251216211600 +0000" stop="20251216220700 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Zemplínska šírava - Príbeh vody I</title>
-  </programme>
-  <programme start="20251216215600 +0000" stop="20251216220700 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Dnes bez lopty - Tornike Dzotsenidze</title>
   </programme>
   <programme start="20251216220700 +0000" stop="20251216222800 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Hutorime i bisidujeme - Jenkovce</title>
@@ -15976,11 +15994,11 @@
   <programme start="20251216035500 +0000" stop="20251216040000 +0000" channel="TVP World.webtv.sk">
     <title lang="id">Weather</title>
   </programme>
-  <programme start="20251216040000 +0000" stop="20251216041500 +0000" channel="TVP World.webtv.sk">
+  <programme start="20251216040000 +0000" stop="20251216040500 +0000" channel="TVP World.webtv.sk">
     <title lang="id">World News Flash</title>
   </programme>
-  <programme start="20251216041500 +0000" stop="20251216050000 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">Document</title>
+  <programme start="20251216040500 +0000" stop="20251216050000 +0000" channel="TVP World.webtv.sk">
+    <title lang="id">Ukrainian Women</title>
   </programme>
   <programme start="20251216050000 +0000" stop="20251216053000 +0000" channel="TVP World.webtv.sk">
     <title lang="id">World News</title>
@@ -16480,8 +16498,11 @@
   <programme start="20251216011500 +0000" stop="20251216020500 +0000" channel="TVP Polonia.webtv.sk">
     <title lang="id">Matylda (13)</title>
   </programme>
-  <programme start="20251216020500 +0000" stop="20251216040000 +0000" channel="TVP Polonia.webtv.sk">
+  <programme start="20251216020500 +0000" stop="20251216034500 +0000" channel="TVP Polonia.webtv.sk">
     <title lang="id">Porady na zdrady</title>
+  </programme>
+  <programme start="20251216034500 +0000" stop="20251216040000 +0000" channel="TVP Polonia.webtv.sk">
+    <title lang="id">Zaginione - odnalezione (31)</title>
   </programme>
   <programme start="20251216040000 +0000" stop="20251216043000 +0000" channel="TVP Polonia.webtv.sk">
     <title lang="id">Barwy szczescia (3226)</title>
@@ -16610,7 +16631,7 @@
     <title lang="id">Грани времени</title>
   </programme>
   <programme start="20251216060000 +0000" stop="20251216070000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Настоящий сериал</title>
+    <title lang="id">Настоящий сериал: Пентагон</title>
   </programme>
   <programme start="20251216070000 +0000" stop="20251216090000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">Pеальное кино: Голод</title>
@@ -16628,7 +16649,7 @@
     <title lang="id">#ВУкраине</title>
   </programme>
   <programme start="20251216110000 +0000" stop="20251216120000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Настоящий сериал</title>
+    <title lang="id">Настоящий сериал: Пентагон</title>
   </programme>
   <programme start="20251216120000 +0000" stop="20251216123000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">Европейские ценности: Pабота с аварийным жильём</title>
@@ -16670,7 +16691,7 @@
     <title lang="id">Детали</title>
   </programme>
   <programme start="20251216200000 +0000" stop="20251216220000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Pеальное кино</title>
+    <title lang="id">Pеальное кино: Новое величие</title>
   </programme>
   <programme start="20251216220000 +0000" stop="20251216223000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">Лицом к событию</title>
@@ -17786,12 +17807,15 @@
     <title lang="id">News Summary</title>
   </programme>
   <programme start="20251216000500 +0000" stop="20251216010000 +0000" channel="Al Jazeera.webtv.sk">
-    <title lang="id">A Story and Follow Up</title>
+    <title lang="id">Opposite Direction</title>
   </programme>
   <programme start="20251216010000 +0000" stop="20251216020000 +0000" channel="Al Jazeera.webtv.sk">
     <title lang="id">News Bulletin</title>
   </programme>
-  <programme start="20251216020000 +0000" stop="20251216030000 +0000" channel="Al Jazeera.webtv.sk">
+  <programme start="20251216020000 +0000" stop="20251216023000 +0000" channel="Al Jazeera.webtv.sk">
+    <title lang="id">News Bulletin</title>
+  </programme>
+  <programme start="20251216023000 +0000" stop="20251216030000 +0000" channel="Al Jazeera.webtv.sk">
     <title lang="id">News Bulletin</title>
   </programme>
   <programme start="20251216030000 +0000" stop="20251216040000 +0000" channel="Al Jazeera.webtv.sk">
@@ -17833,7 +17857,10 @@
   <programme start="20251216150000 +0000" stop="20251216160000 +0000" channel="Al Jazeera.webtv.sk">
     <title lang="id">News Bulletin</title>
   </programme>
-  <programme start="20251216160000 +0000" stop="20251216170000 +0000" channel="Al Jazeera.webtv.sk">
+  <programme start="20251216160000 +0000" stop="20251216163000 +0000" channel="Al Jazeera.webtv.sk">
+    <title lang="id">News Bulletin</title>
+  </programme>
+  <programme start="20251216163000 +0000" stop="20251216170000 +0000" channel="Al Jazeera.webtv.sk">
     <title lang="id">News Bulletin</title>
   </programme>
   <programme start="20251216170000 +0000" stop="20251216173000 +0000" channel="Al Jazeera.webtv.sk">
@@ -17849,7 +17876,7 @@
     <title lang="id">News Summary</title>
   </programme>
   <programme start="20251216190500 +0000" stop="20251216200000 +0000" channel="Al Jazeera.webtv.sk">
-    <title lang="id">Opposite Direction</title>
+    <title lang="id">On the scale</title>
   </programme>
   <programme start="20251216200000 +0000" stop="20251216210000 +0000" channel="Al Jazeera.webtv.sk">
     <title lang="id">News Bulletin</title>

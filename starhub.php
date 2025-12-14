@@ -7642,13 +7642,13 @@
     <programme start="20251214043000 +0000" stop="20251214073000 +0000" channel="Asianet Movies.starhub">
         <title>Happy Husbands</title>
     </programme>
-    <programme start="20251214073000 +0000" stop="20251214103000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251214073000 +0000" stop="20251214103500 +0000" channel="Asianet Movies.starhub">
         <title>Thuruppugulan</title>
     </programme>
-    <programme start="20251214103000 +0000" stop="20251214133000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251214103500 +0000" stop="20251214133000 +0000" channel="Asianet Movies.starhub">
         <title>Thanneermathan Dinangal</title>
     </programme>
-    <programme start="20251214133000 +0000" stop="20251214163000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251214133000 +0000" stop="20251214164000 +0000" channel="Asianet Movies.starhub">
         <title>Christian Brothers</title>
     </programme>
     <programme start="20251213160000 +0000" stop="20251213163000 +0000" channel="Astro Warna HD.starhub">
