@@ -106,8 +106,8 @@
     <title>Football: OFI - Panserraikos</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251216014500 +0700" stop="20251216034500 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Wrexham  - Watford</title>
+<programme start="20251217044000 +0700" stop="20251217065000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Panetolikos - AEK</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251216034500 +0700" stop="20251216054500 +0700" channel="COSMOTE Sport 3 HD">
@@ -226,8 +226,8 @@
     <title>Basketball: Denver Nuggets - Houston Rockets</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251216015000 +0700" stop="20251216035500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: Extreme E 2025</title>
+<programme start="20251217044000 +0700" stop="20251217061000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Pick n&#039; Roll</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251216035500 +0700" stop="20251216045500 +0700" channel="COSMOTE Sport 5 HD">
@@ -338,10 +338,6 @@
     <title>Basketball: Szolnoki Olaj - AEK</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251216023000 +0700" stop="20251216033000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Navarino Challenge 2025 Mini Movie</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251216033000 +0700" stop="20251216045000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Boxing: Badou Jack - Norair Mikaeljan</title>
     <desc>Live: Tidak</desc>
@@ -412,14 +408,6 @@
 </programme>
 <programme start="20251217034500 +0700" stop="20251217064500 +0700" channel="COSMOTE Sport 6 HD">
     <title>Fight Sports: UFC Fight Night 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251216014500 +0700" stop="20251216034500 +0700" channel="COSMOTE Sport 7 HD">
-    <title>Football: SC Braga - Santa Clara (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20251216034500 +0700" stop="20251216040000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251216040000 +0700" stop="20251216043000 +0700" channel="COSMOTE Sport 7 HD">
