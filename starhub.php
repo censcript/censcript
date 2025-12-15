@@ -5125,23 +5125,20 @@
     <programme start="20251214180000 +0000" stop="20251214200000 +0000" channel="SPOTV.starhub">
         <title>25/26 A-League Men Round 8 Melbourne Victory vs Adelaide United</title>
     </programme>
-    <programme start="20251214200000 +0000" stop="20251215020000 +0000" channel="SPOTV.starhub">
+    <programme start="20251214200000 +0000" stop="20251215030000 +0000" channel="SPOTV.starhub">
         <title>Men&#039;s &amp; Women&#039;s Race</title>
     </programme>
-    <programme start="20251215020000 +0000" stop="20251215030000 +0000" channel="SPOTV.starhub">
-        <title>Highlights</title>
-    </programme>
     <programme start="20251215030000 +0000" stop="20251215050000 +0000" channel="SPOTV.starhub">
-        <title>25/26 A-League Men Round 8 Western Sydney Wanderers FC vs Brisbane Roar FC</title>
+        <title>Western Sydney Wanderers FC vs Brisbane Roar FC</title>
     </programme>
     <programme start="20251215050000 +0000" stop="20251215070000 +0000" channel="SPOTV.starhub">
-        <title>25/26 Scottish Championship Round 18 Ayr United vs St Johnstone</title>
+        <title>Ayr United vs St Johnstone</title>
     </programme>
     <programme start="20251215070000 +0000" stop="20251215090000 +0000" channel="SPOTV.starhub">
-        <title>25/26 Scottish Premiership Round 20 Falkirk vs Heart of Midlothian</title>
+        <title>Falkirk vs Heart of Midlothian</title>
     </programme>
     <programme start="20251215090000 +0000" stop="20251215110000 +0000" channel="SPOTV.starhub">
-        <title>25/26 A-League Men Round 8 Melbourne Victory vs Adelaide United</title>
+        <title>Melbourne Victory vs Adelaide United</title>
     </programme>
     <programme start="20251215110000 +0000" stop="20251215150000 +0000" channel="SPOTV.starhub">
         <title>Race 2</title>
