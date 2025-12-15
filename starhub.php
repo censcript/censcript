@@ -7798,20 +7798,26 @@
     <programme start="20251215153000 +0000" stop="20251215160000 +0000" channel="Sony Entertainment Television.starhub">
         <title>Patiala Babes</title>
     </programme>
-    <programme start="20251214160000 +0000" stop="20251214163000 +0000" channel="ABC Australia HD.starhub">
+    <programme start="20251214154500 +0000" stop="20251214161000 +0000" channel="ABC Australia HD.starhub">
         <title>The Sauce Of It All</title>
     </programme>
-    <programme start="20251214163000 +0000" stop="20251214170000 +0000" channel="ABC Australia HD.starhub">
+    <programme start="20251214161000 +0000" stop="20251214164000 +0000" channel="ABC Australia HD.starhub">
         <title>The Streets with Dan Hong S1</title>
     </programme>
-    <programme start="20251214170000 +0000" stop="20251214183000 +0000" channel="ABC Australia HD.starhub">
+    <programme start="20251214164000 +0000" stop="20251214170000 +0000" channel="ABC Australia HD.starhub">
+        <title>The Chef&#039;s Garden S1</title>
+    </programme>
+    <programme start="20251214170000 +0000" stop="20251214180000 +0000" channel="ABC Australia HD.starhub">
         <title>Muster Dogs: Collies and Kelpies S3</title>
+    </programme>
+    <programme start="20251214180000 +0000" stop="20251214183000 +0000" channel="ABC Australia HD.starhub">
+        <title>Dreaming Big S1</title>
     </programme>
     <programme start="20251214183000 +0000" stop="20251214190000 +0000" channel="ABC Australia HD.starhub">
         <title>Mana Wave</title>
     </programme>
     <programme start="20251214190000 +0000" stop="20251214220000 +0000" channel="ABC Australia HD.starhub">
-        <title>News Breakfast (2025)</title>
+        <title>Bondi Beach Terror Attack</title>
     </programme>
     <programme start="20251214220000 +0000" stop="20251215010000 +0000" channel="ABC Australia HD.starhub">
         <title>ABC News Mornings (2025)</title>
@@ -8684,7 +8690,7 @@
         <title>OMG, Your Honour</title>
     </programme>
     <programme start="20251214173000 +0000" stop="20251214190000 +0000" channel="TVB Jade HD.starhub">
-        <title>Midlife, Sing &amp; Shine! 4</title>
+        <title>Midlife, Sing &amp; Shine! 4 - Jue Zhan TVB Yi Ren Sai Qu</title>
     </programme>
     <programme start="20251214190000 +0000" stop="20251214193000 +0000" channel="TVB Jade HD.starhub">
         <title>China Resources (Holdings) Co. Ltd. Presents: No Poverty Land V - Odyssey of Int</title>
