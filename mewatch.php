@@ -103,11 +103,14 @@
     <programme start="20251215073000 +0000" stop="20251215080000 +0000" channel="Channel 5.mewatch">
         <title>Le Bisellahause - EP 3</title>
     </programme>
-    <programme start="20251215080000 +0000" stop="20251215110000 +0000" channel="Channel 5.mewatch">
-        <title>33rd SEA Games 2025: Daily Action At The Games - EP 11</title>
+    <programme start="20251215080000 +0000" stop="20251215100000 +0000" channel="Channel 5.mewatch">
+        <title>Floorball - 33rd SEA Games Thailand 2025: Men&#039;s Round Robin - LAO vs SGP</title>
+    </programme>
+    <programme start="20251215100000 +0000" stop="20251215110000 +0000" channel="Channel 5.mewatch">
+        <title>Sepak Takraw - 33rd SEA Games Thailand 2025: Men&#039;s Quadrant Preliminary Round - SGP vs BRU</title>
     </programme>
     <programme start="20251215110000 +0000" stop="20251215130000 +0000" channel="Channel 5.mewatch">
-        <title>33rd SEA Games 2025: Daily Action At The Games - EP 12</title>
+        <title>Swimming - 33rd SEA Games Thailand 2025: Men&#039;s &amp; Women&#039;s Finals - 15 Dec 2025</title>
     </programme>
     <programme start="20251215130000 +0000" stop="20251215133000 +0000" channel="Channel 5.mewatch">
         <title>(Live) News Tonight</title>
