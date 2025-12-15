@@ -22,10 +22,13 @@
 <programme start="20251215030000 +0000" stop="20251215040000 +0000" channel="ABC Australia.mncvision">
     <title>A Brief History Of Cricket...</title>
 </programme>
-<programme start="20251215040000 +0000" stop="20251215051500 +0000" channel="ABC Australia.mncvision">
+<programme start="20251215040000 +0000" stop="20251215045500 +0000" channel="ABC Australia.mncvision">
     <title>Restoration Australia</title>
 </programme>
-<programme start="20251215051500 +0000" stop="20251215060000 +0000" channel="ABC Australia.mncvision">
+<programme start="20251215045500 +0000" stop="20251215051000 +0000" channel="ABC Australia.mncvision">
+    <title>Camel Capers</title>
+</programme>
+<programme start="20251215051000 +0000" stop="20251215060000 +0000" channel="ABC Australia.mncvision">
     <title>Outback Musical</title>
 </programme>
 <programme start="20251215060000 +0000" stop="20251215063000 +0000" channel="ABC Australia.mncvision">
@@ -34,32 +37,35 @@
 <programme start="20251215063000 +0000" stop="20251215070000 +0000" channel="ABC Australia.mncvision">
     <title>Pacific Break Live From Fiji</title>
 </programme>
-<programme start="20251215070000 +0000" stop="20251215073000 +0000" channel="ABC Australia.mncvision">
+<programme start="20251215070000 +0000" stop="20251215072500 +0000" channel="ABC Australia.mncvision">
     <title>On Country Kitchen</title>
 </programme>
-<programme start="20251215073000 +0000" stop="20251215080000 +0000" channel="ABC Australia.mncvision">
+<programme start="20251215072500 +0000" stop="20251215080000 +0000" channel="ABC Australia.mncvision">
     <title>Field To Feast</title>
 </programme>
 <programme start="20251215080000 +0000" stop="20251215083000 +0000" channel="ABC Australia.mncvision">
-    <title>ABC National News</title>
+    <title>ABC News</title>
 </programme>
 <programme start="20251215083000 +0000" stop="20251215090000 +0000" channel="ABC Australia.mncvision">
     <title>7.30</title>
 </programme>
 <programme start="20251215090000 +0000" stop="20251215100000 +0000" channel="ABC Australia.mncvision">
-    <title>Australia Remastered: Tasmania</title>
+    <title>Bondi Beach Terror Attack</title>
 </programme>
 <programme start="20251215100000 +0000" stop="20251215110000 +0000" channel="ABC Australia.mncvision">
-    <title>The World</title>
+    <title>Bondi Beach Terror Attack</title>
 </programme>
 <programme start="20251215110000 +0000" stop="20251215120000 +0000" channel="ABC Australia.mncvision">
-    <title>Restoration Australia</title>
+    <title>Bondi Beach Terror Attack</title>
 </programme>
-<programme start="20251215120000 +0000" stop="20251215123000 +0000" channel="ABC Australia.mncvision">
+<programme start="20251215120000 +0000" stop="20251215122500 +0000" channel="ABC Australia.mncvision">
     <title>On Country Kitchen</title>
 </programme>
-<programme start="20251215123000 +0000" stop="20251215130000 +0000" channel="ABC Australia.mncvision">
+<programme start="20251215122500 +0000" stop="20251215125500 +0000" channel="ABC Australia.mncvision">
     <title>Field To Feast</title>
+</programme>
+<programme start="20251215125500 +0000" stop="20251215130000 +0000" channel="ABC Australia.mncvision">
+    <title>Pasin Wantok</title>
 </programme>
 <programme start="20251215130000 +0000" stop="20251215133000 +0000" channel="ABC Australia.mncvision">
     <title>ABC Late News</title>
@@ -67,16 +73,19 @@
 <programme start="20251215133000 +0000" stop="20251215140000 +0000" channel="ABC Australia.mncvision">
     <title>7.30</title>
 </programme>
-<programme start="20251215140000 +0000" stop="20251215150000 +0000" channel="ABC Australia.mncvision">
-    <title>The World</title>
-</programme>
-<programme start="20251215150000 +0000" stop="20251215153000 +0000" channel="ABC Australia.mncvision">
+<programme start="20251215140000 +0000" stop="20251215143000 +0000" channel="ABC Australia.mncvision">
     <title>ABC Late News</title>
 </programme>
-<programme start="20251215153000 +0000" stop="20251215163000 +0000" channel="ABC Australia.mncvision">
+<programme start="20251215143000 +0000" stop="20251215145500 +0000" channel="ABC Australia.mncvision">
+    <title>Asia News Week</title>
+</programme>
+<programme start="20251215145500 +0000" stop="20251215151500 +0000" channel="ABC Australia.mncvision">
+    <title>Rural Flavours</title>
+</programme>
+<programme start="20251215151500 +0000" stop="20251215161000 +0000" channel="ABC Australia.mncvision">
     <title>A Brief History Of Cricket...</title>
 </programme>
-<programme start="20251215163000 +0000" stop="20251214170000 +0000" channel="ABC Australia.mncvision">
+<programme start="20251215161000 +0000" stop="20251215164000 +0000" channel="ABC Australia.mncvision">
     <title>Restoration Australia</title>
 </programme>
 <programme start="20251214170000 +0000" stop="20251214173000 +0000" channel="Al Jazeera English.mncvision">
