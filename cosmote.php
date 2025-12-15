@@ -106,8 +106,8 @@
     <title>Football: Torino - Cremonese</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251215170000 +0700" stop="20251215180000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Emirates FA Cup 2025-26 - Highlights</title>
+<programme start="20251216181000 +0700" stop="20251216202000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Panetolikos - AEK</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251215180000 +0700" stop="20251215201000 +0700" channel="COSMOTE Sport 3 HD">
@@ -226,10 +226,6 @@
     <title>Basketball: Denver Nuggets - Houston Rockets</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251215163000 +0700" stop="20251215173000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251215173000 +0700" stop="20251215183500 +0700" channel="COSMOTE Sport 5 HD">
     <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
@@ -338,8 +334,8 @@
     <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251215170000 +0700" stop="20251215180000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Sports Classics: 2025 Outdoor Specials</title>
+<programme start="20251216183000 +0700" stop="20251216193500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251215180000 +0700" stop="20251215190000 +0700" channel="COSMOTE Sport 6 HD">
@@ -411,6 +407,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251216174500 +0700" stop="20251216183500 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Beach Volley: Pro Tour Elite 16 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251216183500 +0700" stop="20251216193000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Beach Volley: Pro Tour Elite 16 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
