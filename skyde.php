@@ -2474,13 +2474,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251215225000 +0000" stop="20251215234000 +0000" channel="Sky Showcase HD.skyde">
     <title>Teuflische Nachbarn</title>
 </programme>
-<programme start="20251214231500 +0000" stop="20251215011500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20251214230000 +0000" stop="20251215010000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: FC Red Bull Salzburg - RZ Pellets WAC, 17. Runde</title>
 </programme>
-<programme start="20251215011500 +0000" stop="20251215031000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20251215010000 +0000" stop="20251215030000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: FC Blau-Weiß Linz - SK Rapid, 17. Runde</title>
 </programme>
-<programme start="20251215031000 +0000" stop="20251215040000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20251215030000 +0000" stop="20251215040000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA EL: UEL &amp; UECL Magazin</title>
 </programme>
 <programme start="20251215040000 +0000" stop="20251215060000 +0000" channel="Sky Sport Austria 1 HD.skyde">

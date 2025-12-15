@@ -4,11 +4,8 @@
 <programme start="20251215010000 +0000" stop="20251215011500 +0000" channel="RCTI.vision">
 <title>Kiko</title>
 </programme>
-<programme start="20251215011500 +0000" stop="20251215023000 +0000" channel="RCTI.vision">
+<programme start="20251215011500 +0000" stop="20251215033000 +0000" channel="RCTI.vision">
 <title>Doraemon (RCTI)</title>
-</programme>
-<programme start="20251215023000 +0000" stop="20251215033000 +0000" channel="RCTI.vision">
-<title>Ninja Hattori S2</title>
 </programme>
 <programme start="20251215033000 +0000" stop="20251215043000 +0000" channel="RCTI.vision">
 <title>Silet</title>
@@ -17,10 +14,10 @@
 <title>Seputar iNews Siang</title>
 </programme>
 <programme start="20251215051500 +0000" stop="20251215070000 +0000" channel="RCTI.vision">
-<title>Iiihhh Serrreemm</title>
+<title>Take Me Out Indonesia (RCTI)</title>
 </programme>
 <programme start="20251215070000 +0000" stop="20251215080000 +0000" channel="RCTI.vision">
-<title>Just Wanna Say I Love U</title>
+<title>Menemukan-Mu</title>
 </programme>
 <programme start="20251215080000 +0000" stop="20251215090000 +0000" channel="RCTI.vision">
 <title>Preman Pensiun X</title>
@@ -42,54 +39,6 @@
 </programme>
 <programme start="20251215160000 +0000" stop="20251215181500 +0000" channel="RCTI.vision">
 <title>Si Doel Anak Sekolahan S3</title>
-</programme>
-<programme start="20251215181500 +0000" stop="20251215190000 +0000" channel="RCTI.vision">
-<title>Mega Film TV Malam</title>
-</programme>
-<programme start="20251215190000 +0000" stop="20251215200000 +0000" channel="RCTI.vision">
-<title>Mega Film TV Malam</title>
-</programme>
-<programme start="20251215200000 +0000" stop="20251215224500 +0000" channel="RCTI.vision">
-<title>Preman Pensiun S7</title>
-</programme>
-<programme start="20251215224500 +0000" stop="20251215234500 +0000" channel="RCTI.vision">
-<title>Go Spot</title>
-</programme>
-<programme start="20251215234500 +0000" stop="20251216010000 +0000" channel="RCTI.vision">
-<title>Upin Ipin</title>
-</programme>
-<programme start="20251216010000 +0000" stop="20251216011500 +0000" channel="RCTI.vision">
-<title>Kiko</title>
-</programme>
-<programme start="20251216011500 +0000" stop="20251216023000 +0000" channel="RCTI.vision">
-<title>Doraemon (RCTI)</title>
-</programme>
-<programme start="20251216023000 +0000" stop="20251216033000 +0000" channel="RCTI.vision">
-<title>Ninja Hattori S2</title>
-</programme>
-<programme start="20251216033000 +0000" stop="20251216043000 +0000" channel="RCTI.vision">
-<title>Silet</title>
-</programme>
-<programme start="20251216043000 +0000" stop="20251216051500 +0000" channel="RCTI.vision">
-<title>Seputar iNews Siang</title>
-</programme>
-<programme start="20251216051500 +0000" stop="20251216070000 +0000" channel="RCTI.vision">
-<title>Iiihhh Serrreemm</title>
-</programme>
-<programme start="20251216070000 +0000" stop="20251216080000 +0000" channel="RCTI.vision">
-<title>Just Wanna Say I Love U</title>
-</programme>
-<programme start="20251216080000 +0000" stop="20251216090000 +0000" channel="RCTI.vision">
-<title>Preman Pensiun X</title>
-</programme>
-<programme start="20251216090000 +0000" stop="20251216103000 +0000" channel="RCTI.vision">
-<title>Manda Curhat (RCTI)</title>
-</programme>
-<programme start="20251216103000 +0000" stop="20251216114500 +0000" channel="RCTI.vision">
-<title>Terbelenggu Rindu (RCTI)</title>
-</programme>
-<programme start="20251216114500 +0000" stop="20251216131500 +0000" channel="RCTI.vision">
-<title>Mencintai Ipar Sendiri (RCTI)</title>
 </programme>
 <programme start="20251214231500 +0000" stop="20251215004500 +0000" channel="MNCTV.vision">
 <title>Kiko</title>
@@ -1496,5 +1445,56 @@
 <title>TVRI</title>
 </programme>
 <programme start="20251215010000 +0000" stop="20251215030000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251215030000 +0000" stop="20251215050000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251215050000 +0000" stop="20251215070000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251215070000 +0000" stop="20251215090000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251215090000 +0000" stop="20251215110000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251215110000 +0000" stop="20251215130000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251215130000 +0000" stop="20251215150000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251215150000 +0000" stop="20251215170000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251215170000 +0000" stop="20251215190000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251215190000 +0000" stop="20251215210000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251215210000 +0000" stop="20251215230000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251215230000 +0000" stop="20251216010000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251216010000 +0000" stop="20251216030000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251216030000 +0000" stop="20251216050000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251216050000 +0000" stop="20251216070000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251216070000 +0000" stop="20251216090000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251216090000 +0000" stop="20251216110000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251216110000 +0000" stop="20251216130000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>

@@ -106,6 +106,10 @@
     <title>Football: Kifisia - Asteras Aktor</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251216141000 +0700" stop="20251216161000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Lecce - Pisa</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251215114500 +0700" stop="20251215150000 +0700" channel="COSMOTE Sport 3 HD">
     <title>American Football: Denver Broncos - Green Bay Packers</title>
     <desc>Live: Tidak</desc>
@@ -222,10 +226,6 @@
     <title>Basketball: Bahcesehir - Besiktas</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251215122500 +0700" stop="20251215133000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251215133000 +0700" stop="20251215150000 +0700" channel="COSMOTE Sport 5 HD">
     <title>WRC 2025</title>
     <desc>Live: Tidak</desc>
@@ -330,10 +330,6 @@
     <title>WRC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251215125000 +0700" stop="20251215134000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Beach Volley: Pro Tour Elite 16 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251215134000 +0700" stop="20251215143500 +0700" channel="COSMOTE Sport 6 HD">
     <title>Beach Volley: Pro Tour Elite 16 2025</title>
     <desc>Live: Tidak</desc>
@@ -416,6 +412,10 @@
 </programme>
 <programme start="20251216133000 +0700" stop="20251216143000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Sports Classics: 2025 Outdoor Specials</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251216143000 +0700" stop="20251216153000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Navarino Challenge 2025 Mini Movie</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251215130000 +0700" stop="20251215150000 +0700" channel="COSMOTE Sport 7 HD">
