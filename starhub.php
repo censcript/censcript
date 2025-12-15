@@ -5120,10 +5120,10 @@
         <title>Memori Pajeri Nanas</title>
     </programme>
     <programme start="20251214160000 +0000" stop="20251214180000 +0000" channel="SPOTV.starhub">
-        <title>25/26 A-League Men Round 8 Western Sydney Wanderers FC vs Brisbane Roar FC</title>
+        <title>Western Sydney Wanderers FC vs Brisbane Roar FC</title>
     </programme>
     <programme start="20251214180000 +0000" stop="20251214200000 +0000" channel="SPOTV.starhub">
-        <title>25/26 A-League Men Round 8 Melbourne Victory vs Adelaide United</title>
+        <title>Melbourne Victory vs Adelaide United</title>
     </programme>
     <programme start="20251214200000 +0000" stop="20251215030000 +0000" channel="SPOTV.starhub">
         <title>Men&#039;s &amp; Women&#039;s Race</title>
@@ -7819,19 +7819,25 @@
     <programme start="20251215010000 +0000" stop="20251215020000 +0000" channel="ABC Australia HD.starhub">
         <title>ABC News At Noon (2025)</title>
     </programme>
-    <programme start="20251215020000 +0000" stop="20251215023000 +0000" channel="ABC Australia HD.starhub">
+    <programme start="20251215020000 +0000" stop="20251215022500 +0000" channel="ABC Australia HD.starhub">
         <title>On Country Kitchen S1</title>
     </programme>
-    <programme start="20251215023000 +0000" stop="20251215030000 +0000" channel="ABC Australia HD.starhub">
+    <programme start="20251215022500 +0000" stop="20251215025500 +0000" channel="ABC Australia HD.starhub">
         <title>Field To Feast S1</title>
     </programme>
-    <programme start="20251215030000 +0000" stop="20251215040000 +0000" channel="ABC Australia HD.starhub">
+    <programme start="20251215025500 +0000" stop="20251215030500 +0000" channel="ABC Australia HD.starhub">
+        <title>String Bands</title>
+    </programme>
+    <programme start="20251215030500 +0000" stop="20251215040000 +0000" channel="ABC Australia HD.starhub">
         <title>The Underarm Ball</title>
     </programme>
-    <programme start="20251215040000 +0000" stop="20251215051500 +0000" channel="ABC Australia HD.starhub">
+    <programme start="20251215040000 +0000" stop="20251215045500 +0000" channel="ABC Australia HD.starhub">
         <title>Old School House</title>
     </programme>
-    <programme start="20251215051500 +0000" stop="20251215060000 +0000" channel="ABC Australia HD.starhub">
+    <programme start="20251215045500 +0000" stop="20251215051000 +0000" channel="ABC Australia HD.starhub">
+        <title>Camel Queen</title>
+    </programme>
+    <programme start="20251215051000 +0000" stop="20251215060000 +0000" channel="ABC Australia HD.starhub">
         <title>Outback Musical</title>
     </programme>
     <programme start="20251215060000 +0000" stop="20251215063000 +0000" channel="ABC Australia HD.starhub">
@@ -7840,32 +7846,35 @@
     <programme start="20251215063000 +0000" stop="20251215070000 +0000" channel="ABC Australia HD.starhub">
         <title>Ratu</title>
     </programme>
-    <programme start="20251215070000 +0000" stop="20251215073000 +0000" channel="ABC Australia HD.starhub">
+    <programme start="20251215070000 +0000" stop="20251215072500 +0000" channel="ABC Australia HD.starhub">
         <title>On Country Kitchen S1</title>
     </programme>
-    <programme start="20251215073000 +0000" stop="20251215080000 +0000" channel="ABC Australia HD.starhub">
+    <programme start="20251215072500 +0000" stop="20251215080000 +0000" channel="ABC Australia HD.starhub">
         <title>Field To Feast S1</title>
     </programme>
     <programme start="20251215080000 +0000" stop="20251215083000 +0000" channel="ABC Australia HD.starhub">
-        <title>ABC National News (2025)</title>
+        <title>ABC News (2025)</title>
     </programme>
     <programme start="20251215083000 +0000" stop="20251215090000 +0000" channel="ABC Australia HD.starhub">
         <title>7.30 (2025)</title>
     </programme>
     <programme start="20251215090000 +0000" stop="20251215100000 +0000" channel="ABC Australia HD.starhub">
-        <title>Australia Remastered: Tasmania S1</title>
+        <title>Bondi Beach Terror Attack - ABC News Special Coverage (2025)</title>
     </programme>
     <programme start="20251215100000 +0000" stop="20251215110000 +0000" channel="ABC Australia HD.starhub">
-        <title>The World (2025)</title>
+        <title>Bondi Beach Terror Attack - ABC News Special Coverage (2025)</title>
     </programme>
     <programme start="20251215110000 +0000" stop="20251215120000 +0000" channel="ABC Australia HD.starhub">
-        <title>Old School House</title>
+        <title>Bondi Beach Terror Attack - ABC News Special Coverage (2025)</title>
     </programme>
-    <programme start="20251215120000 +0000" stop="20251215123000 +0000" channel="ABC Australia HD.starhub">
+    <programme start="20251215120000 +0000" stop="20251215122500 +0000" channel="ABC Australia HD.starhub">
         <title>On Country Kitchen S1</title>
     </programme>
-    <programme start="20251215123000 +0000" stop="20251215130000 +0000" channel="ABC Australia HD.starhub">
+    <programme start="20251215122500 +0000" stop="20251215125500 +0000" channel="ABC Australia HD.starhub">
         <title>Field To Feast S1</title>
+    </programme>
+    <programme start="20251215125500 +0000" stop="20251215130000 +0000" channel="ABC Australia HD.starhub">
+        <title>Bead Currency</title>
     </programme>
     <programme start="20251215130000 +0000" stop="20251215133000 +0000" channel="ABC Australia HD.starhub">
         <title>ABC Late News (2025)</title>
@@ -7873,13 +7882,16 @@
     <programme start="20251215133000 +0000" stop="20251215140000 +0000" channel="ABC Australia HD.starhub">
         <title>7.30 (2025)</title>
     </programme>
-    <programme start="20251215140000 +0000" stop="20251215150000 +0000" channel="ABC Australia HD.starhub">
-        <title>The World (2025)</title>
-    </programme>
-    <programme start="20251215150000 +0000" stop="20251215153000 +0000" channel="ABC Australia HD.starhub">
+    <programme start="20251215140000 +0000" stop="20251215143000 +0000" channel="ABC Australia HD.starhub">
         <title>ABC Late News (2025)</title>
     </programme>
-    <programme start="20251215153000 +0000" stop="20251215163000 +0000" channel="ABC Australia HD.starhub">
+    <programme start="20251215143000 +0000" stop="20251215145500 +0000" channel="ABC Australia HD.starhub">
+        <title>Best Of 2025 Special</title>
+    </programme>
+    <programme start="20251215145500 +0000" stop="20251215151500 +0000" channel="ABC Australia HD.starhub">
+        <title>Black Garlic</title>
+    </programme>
+    <programme start="20251215151500 +0000" stop="20251215161000 +0000" channel="ABC Australia HD.starhub">
         <title>The Underarm Ball</title>
     </programme>
     <programme start="20251214133000 +0000" stop="20251214164000 +0000" channel="Asianet Movies.starhub">
@@ -8038,14 +8050,11 @@
     <programme start="20251215093000 +0000" stop="20251215100000 +0000" channel="SPOTV2.starhub">
         <title>Highlights</title>
     </programme>
-    <programme start="20251215100000 +0000" stop="20251215120000 +0000" channel="SPOTV2.starhub">
+    <programme start="20251215100000 +0000" stop="20251215113000 +0000" channel="SPOTV2.starhub">
         <title>Day 5 Session 1</title>
     </programme>
-    <programme start="20251215120000 +0000" stop="20251215140000 +0000" channel="SPOTV2.starhub">
+    <programme start="20251215113000 +0000" stop="20251215143000 +0000" channel="SPOTV2.starhub">
         <title>Day 5 Session 2 Finals</title>
-    </programme>
-    <programme start="20251215140000 +0000" stop="20251215143000 +0000" channel="SPOTV2.starhub">
-        <title>2025/26 ALM Mini Match Rd 7 Adelaide United vs Brisbane Roar FC</title>
     </programme>
     <programme start="20251215143000 +0000" stop="20251215150000 +0000" channel="SPOTV2.starhub">
         <title>Aramco Invitational Tournament</title>

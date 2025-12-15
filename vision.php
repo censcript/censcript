@@ -4,8 +4,11 @@
 <programme start="20251215010000 +0000" stop="20251215011500 +0000" channel="RCTI.vision">
 <title>Kiko</title>
 </programme>
-<programme start="20251215011500 +0000" stop="20251215033000 +0000" channel="RCTI.vision">
+<programme start="20251215011500 +0000" stop="20251215023000 +0000" channel="RCTI.vision">
 <title>Doraemon (RCTI)</title>
+</programme>
+<programme start="20251215023000 +0000" stop="20251215033000 +0000" channel="RCTI.vision">
+<title>Ninja Hattori S2</title>
 </programme>
 <programme start="20251215033000 +0000" stop="20251215043000 +0000" channel="RCTI.vision">
 <title>Silet</title>
@@ -14,10 +17,10 @@
 <title>Seputar iNews Siang</title>
 </programme>
 <programme start="20251215051500 +0000" stop="20251215070000 +0000" channel="RCTI.vision">
-<title>Take Me Out Indonesia (RCTI)</title>
+<title>Iiihhh Serrreemm</title>
 </programme>
 <programme start="20251215070000 +0000" stop="20251215080000 +0000" channel="RCTI.vision">
-<title>Menemukan-Mu</title>
+<title>Just Wanna Say I Love U</title>
 </programme>
 <programme start="20251215080000 +0000" stop="20251215090000 +0000" channel="RCTI.vision">
 <title>Preman Pensiun X</title>
@@ -39,6 +42,54 @@
 </programme>
 <programme start="20251215160000 +0000" stop="20251215181500 +0000" channel="RCTI.vision">
 <title>Si Doel Anak Sekolahan S3</title>
+</programme>
+<programme start="20251215181500 +0000" stop="20251215190000 +0000" channel="RCTI.vision">
+<title>Mega Film TV Malam</title>
+</programme>
+<programme start="20251215190000 +0000" stop="20251215200000 +0000" channel="RCTI.vision">
+<title>Mega Film TV Malam</title>
+</programme>
+<programme start="20251215200000 +0000" stop="20251215224500 +0000" channel="RCTI.vision">
+<title>Preman Pensiun S7</title>
+</programme>
+<programme start="20251215224500 +0000" stop="20251215234500 +0000" channel="RCTI.vision">
+<title>Go Spot</title>
+</programme>
+<programme start="20251215234500 +0000" stop="20251216010000 +0000" channel="RCTI.vision">
+<title>Upin Ipin</title>
+</programme>
+<programme start="20251216010000 +0000" stop="20251216011500 +0000" channel="RCTI.vision">
+<title>Kiko</title>
+</programme>
+<programme start="20251216011500 +0000" stop="20251216023000 +0000" channel="RCTI.vision">
+<title>Doraemon (RCTI)</title>
+</programme>
+<programme start="20251216023000 +0000" stop="20251216033000 +0000" channel="RCTI.vision">
+<title>Ninja Hattori S2</title>
+</programme>
+<programme start="20251216033000 +0000" stop="20251216043000 +0000" channel="RCTI.vision">
+<title>Silet</title>
+</programme>
+<programme start="20251216043000 +0000" stop="20251216051500 +0000" channel="RCTI.vision">
+<title>Seputar iNews Siang</title>
+</programme>
+<programme start="20251216051500 +0000" stop="20251216070000 +0000" channel="RCTI.vision">
+<title>Iiihhh Serrreemm</title>
+</programme>
+<programme start="20251216070000 +0000" stop="20251216080000 +0000" channel="RCTI.vision">
+<title>Just Wanna Say I Love U</title>
+</programme>
+<programme start="20251216080000 +0000" stop="20251216090000 +0000" channel="RCTI.vision">
+<title>Preman Pensiun X</title>
+</programme>
+<programme start="20251216090000 +0000" stop="20251216103000 +0000" channel="RCTI.vision">
+<title>Manda Curhat (RCTI)</title>
+</programme>
+<programme start="20251216103000 +0000" stop="20251216114500 +0000" channel="RCTI.vision">
+<title>Terbelenggu Rindu (RCTI)</title>
+</programme>
+<programme start="20251216114500 +0000" stop="20251216131500 +0000" channel="RCTI.vision">
+<title>Mencintai Ipar Sendiri (RCTI)</title>
 </programme>
 <programme start="20251214231500 +0000" stop="20251215004500 +0000" channel="MNCTV.vision">
 <title>Kiko</title>
@@ -634,68 +685,65 @@
 <programme start="20251216114500 +0000" stop="20251216121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
-<programme start="20251214233000 +0000" stop="20251215013000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<programme start="20251214230000 +0000" stop="20251215010000 +0000" channel="ANTV.vision">
+<title>Takdir Cinta Layla</title>
 </programme>
-<programme start="20251215013000 +0000" stop="20251215030000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<programme start="20251215010000 +0000" stop="20251215023000 +0000" channel="ANTV.vision">
+<title>Zeynep</title>
 </programme>
-<programme start="20251215030000 +0000" stop="20251215063000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<programme start="20251215023000 +0000" stop="20251215060000 +0000" channel="ANTV.vision">
+<title>Karan Arjun</title>
 </programme>
-<programme start="20251215063000 +0000" stop="20251215080000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<programme start="20251215060000 +0000" stop="20251215073000 +0000" channel="ANTV.vision">
+<title>Jhanak</title>
 </programme>
-<programme start="20251215080000 +0000" stop="20251215093000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<programme start="20251215073000 +0000" stop="20251215084500 +0000" channel="ANTV.vision">
+<title>Shani</title>
 </programme>
-<programme start="20251215093000 +0000" stop="20251215110000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<programme start="20251215084500 +0000" stop="20251215110000 +0000" channel="ANTV.vision">
+<title>Mana Tahan</title>
 </programme>
 <programme start="20251215110000 +0000" stop="20251215123000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<title>Pusaka Penyebar Maut</title>
 </programme>
-<programme start="20251215123000 +0000" stop="20251215143000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<programme start="20251215123000 +0000" stop="20251215140000 +0000" channel="ANTV.vision">
+<title>Senandung Cinta Lilis</title>
 </programme>
-<programme start="20251215143000 +0000" stop="20251215163000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<programme start="20251215140000 +0000" stop="20251215160000 +0000" channel="ANTV.vision">
+<title>Tawa Kalcer</title>
 </programme>
-<programme start="20251215163000 +0000" stop="20251215190000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<programme start="20251215160000 +0000" stop="20251215180000 +0000" channel="ANTV.vision">
+<title>Typhoon</title>
 </programme>
-<programme start="20251215190000 +0000" stop="20251215203000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<programme start="20251215180000 +0000" stop="20251215193000 +0000" channel="ANTV.vision">
+<title>Force Of Execution</title>
 </programme>
-<programme start="20251215203000 +0000" stop="20251215220000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<programme start="20251215193000 +0000" stop="20251215213000 +0000" channel="ANTV.vision">
+<title>Serie A Liga Italia</title>
 </programme>
-<programme start="20251215220000 +0000" stop="20251215223000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<programme start="20251215213000 +0000" stop="20251215230000 +0000" channel="ANTV.vision">
+<title>Arya Penangsang</title>
 </programme>
-<programme start="20251215223000 +0000" stop="20251215233000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<programme start="20251215230000 +0000" stop="20251216010000 +0000" channel="ANTV.vision">
+<title>Takdir Cinta Layla</title>
 </programme>
-<programme start="20251215233000 +0000" stop="20251216013000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<programme start="20251216010000 +0000" stop="20251216023000 +0000" channel="ANTV.vision">
+<title>Zeynep</title>
 </programme>
-<programme start="20251216013000 +0000" stop="20251216030000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<programme start="20251216023000 +0000" stop="20251216060000 +0000" channel="ANTV.vision">
+<title>Kabhi Haan Kabhi Naa</title>
 </programme>
-<programme start="20251216030000 +0000" stop="20251216063000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<programme start="20251216060000 +0000" stop="20251216073000 +0000" channel="ANTV.vision">
+<title>Jhanak</title>
 </programme>
-<programme start="20251216063000 +0000" stop="20251216080000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<programme start="20251216073000 +0000" stop="20251216084500 +0000" channel="ANTV.vision">
+<title>Shani</title>
 </programme>
-<programme start="20251216080000 +0000" stop="20251216093000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
-</programme>
-<programme start="20251216093000 +0000" stop="20251216110000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<programme start="20251216084500 +0000" stop="20251216110000 +0000" channel="ANTV.vision">
+<title>Gengsi Dong</title>
 </programme>
 <programme start="20251216110000 +0000" stop="20251216123000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<title>Titisan Dewi Ular</title>
 </programme>
 <programme start="20251214230000 +0000" stop="20251215010000 +0000" channel="RTV.vision">
 <title>Bread Barbershop</title>
@@ -1343,7 +1391,7 @@
 <title>Investor Market Today</title>
 </programme>
 <programme start="20251215033000 +0000" stop="20251215040000 +0000" channel="BTV.vision">
-<title>Berita Kriminal</title>
+<title>30 Minutes With Pemkot Medan</title>
 </programme>
 <programme start="20251215040000 +0000" stop="20251215060000 +0000" channel="BTV.vision">
 <title>Berita Satu Siang</title>
@@ -1448,53 +1496,5 @@
 <title>TVRI</title>
 </programme>
 <programme start="20251215030000 +0000" stop="20251215050000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20251215050000 +0000" stop="20251215070000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20251215070000 +0000" stop="20251215090000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20251215090000 +0000" stop="20251215110000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20251215110000 +0000" stop="20251215130000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20251215130000 +0000" stop="20251215150000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20251215150000 +0000" stop="20251215170000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20251215170000 +0000" stop="20251215190000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20251215190000 +0000" stop="20251215210000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20251215210000 +0000" stop="20251215230000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20251215230000 +0000" stop="20251216010000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20251216010000 +0000" stop="20251216030000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20251216030000 +0000" stop="20251216050000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20251216050000 +0000" stop="20251216070000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20251216070000 +0000" stop="20251216090000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20251216090000 +0000" stop="20251216110000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20251216110000 +0000" stop="20251216130000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
