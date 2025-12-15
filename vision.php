@@ -706,9 +706,6 @@
 <programme start="20251215140000 +0000" stop="20251215160000 +0000" channel="ANTV.vision">
 <title>Tawa Kalcer</title>
 </programme>
-<programme start="20251215160000 +0000" stop="20251215180000 +0000" channel="ANTV.vision">
-<title>Typhoon</title>
-</programme>
 <programme start="20251215180000 +0000" stop="20251215193000 +0000" channel="ANTV.vision">
 <title>Force Of Execution</title>
 </programme>
@@ -1496,5 +1493,8 @@
 <title>TVRI</title>
 </programme>
 <programme start="20251215070000 +0000" stop="20251215090000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251215090000 +0000" stop="20251215110000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>

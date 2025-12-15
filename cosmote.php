@@ -106,8 +106,8 @@
     <title>Football: Udinese - SSC Napoli</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251215234500 +0700" stop="20251216014500 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: West Bromwich Albion - Sheffield United</title>
+<programme start="20251217023000 +0700" stop="20251217044000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: OFI - Panserraikos</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251216014500 +0700" stop="20251216034500 +0700" channel="COSMOTE Sport 3 HD">
@@ -226,8 +226,8 @@
     <title>Basketball: Szolnoki Olaj - AEK (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251216010000 +0700" stop="20251216015000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>2025 GT World Challenge Europe</title>
+<programme start="20251217021000 +0700" stop="20251217044000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Denver Nuggets - Houston Rockets</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251216015000 +0700" stop="20251216035500 +0700" channel="COSMOTE Sport 5 HD">
@@ -334,6 +334,10 @@
     <title>WRC</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251217021000 +0700" stop="20251217030000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>2025 GT World Challenge Europe</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251216000000 +0700" stop="20251216021500 +0700" channel="COSMOTE Sport 6 HD">
     <title>Volleyball: Ziraat Bankasi SK Ankara - Tours VB</title>
     <desc>Live: Tidak</desc>
@@ -410,12 +414,8 @@
     <title>Volleyball: Olympiacos - Apeldoorn</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251216010000 +0700" stop="20251216013000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251216013000 +0700" stop="20251216014500 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
+<programme start="20251217025500 +0700" stop="20251217034500 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Sports Classics: 2025 Outdoor Specials</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251216014500 +0700" stop="20251216034500 +0700" channel="COSMOTE Sport 7 HD">
