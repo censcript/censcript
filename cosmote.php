@@ -50,10 +50,6 @@
     <title>Football: Samsunspor - AEK</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251215100000 +0700" stop="20251215120000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: ACF Fiorentina - Hellas Verona</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251215120000 +0700" stop="20251215141000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: OFI - Panserraikos</title>
     <desc>Live: Tidak</desc>
@@ -106,12 +102,8 @@
     <title>Football: Torino - Cremonese</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251215110000 +0700" stop="20251215113000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Copa Sudamericana 2025 - Highlights</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251215113000 +0700" stop="20251215114500 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Sports Classics: Worldies E21</title>
+<programme start="20251216120000 +0700" stop="20251216141000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Kifisia - Asteras Aktor</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251215114500 +0700" stop="20251215150000 +0700" channel="COSMOTE Sport 3 HD">
@@ -226,8 +218,8 @@
     <title>Basketball: Denver Nuggets - Houston Rockets (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251215110000 +0700" stop="20251215115500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC 2025</title>
+<programme start="20251216123000 +0700" stop="20251216130000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>NBA Specials</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251215115500 +0700" stop="20251215122500 +0700" channel="COSMOTE Sport 5 HD">
@@ -334,8 +326,8 @@
     <title>2025 FIM Women&#039;s Circuit Racing World Championship</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251215110000 +0700" stop="20251215120000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Beach Volley: Pro Tour Elite 16 2025</title>
+<programme start="20251216122500 +0700" stop="20251216132500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251215120000 +0700" stop="20251215125000 +0700" channel="COSMOTE Sport 6 HD">
@@ -546,10 +538,6 @@
     <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251215082000 +0700" stop="20251215115000 +0700" channel="COSMOTE Sport 9 HD">
-    <title>American Football: Dallas Cowboys - Minnesota Vikings (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
 <programme start="20251215115000 +0700" stop="20251215120500 +0700" channel="COSMOTE Sport 9 HD">
     <title>COSMOTESport9HD</title>
     <desc>Live: Tidak</desc>
@@ -611,6 +599,10 @@
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20251216114500 +0700" stop="20251216120000 +0700" channel="COSMOTE Sport 9 HD">
+    <title>COSMOTESport9HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251216120000 +0700" stop="20251216130000 +0700" channel="COSMOTE Sport 9 HD">
     <title>COSMOTESport9HD</title>
     <desc>Live: Tidak</desc>
 </programme>

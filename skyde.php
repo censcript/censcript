@@ -2474,13 +2474,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251215225000 +0000" stop="20251215234000 +0000" channel="Sky Showcase HD.skyde">
     <title>Teuflische Nachbarn</title>
 </programme>
-<programme start="20251214230000 +0000" stop="20251215010000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20251214231500 +0000" stop="20251215011500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: FC Red Bull Salzburg - RZ Pellets WAC, 17. Runde</title>
 </programme>
-<programme start="20251215010000 +0000" stop="20251215030000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20251215011500 +0000" stop="20251215031000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: FC Blau-Weiß Linz - SK Rapid, 17. Runde</title>
 </programme>
-<programme start="20251215030000 +0000" stop="20251215040000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20251215031000 +0000" stop="20251215040000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA EL: UEL &amp; UECL Magazin</title>
 </programme>
 <programme start="20251215040000 +0000" stop="20251215060000 +0000" channel="Sky Sport Austria 1 HD.skyde">
@@ -3065,14 +3065,11 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251214230000 +0000" stop="20251214233000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>PL: All Goals: Die Highlight-Show, 16. Spieltag</title>
 </programme>
-<programme start="20251214233000 +0000" stop="20251215013000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20251215000000 +0000" stop="20251215020000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>BL: FC Bayern München - 1. FSV Mainz 05, 14. Spieltag</title>
 </programme>
-<programme start="20251215013000 +0000" stop="20251215020000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>PL: 90in30: CRY - MCI, 16. Spieltag</title>
-</programme>
 <programme start="20251215020000 +0000" stop="20251215023000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>PL: 90in30: SUN - NEW, 16. Spieltag</title>
+    <title>PL: 90in30: CRY - MCI, 16. Spieltag</title>
 </programme>
 <programme start="20251215023000 +0000" stop="20251215033000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>3. Liga: Alle Spiele, alle Tore, 18. Spieltag, komplett</title>

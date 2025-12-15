@@ -8500,14 +8500,11 @@
 <programme start="20251215093000 +0000" stop="20251215100000 +0000" channel="SPOTV 2.mncvision">
     <title>2025/26 A-League Men HL</title>
 </programme>
-<programme start="20251215100000 +0000" stop="20251215120000 +0000" channel="SPOTV 2.mncvision">
+<programme start="20251215100000 +0000" stop="20251215113000 +0000" channel="SPOTV 2.mncvision">
     <title>WTT Finals Hong Kong 2025</title>
 </programme>
-<programme start="20251215120000 +0000" stop="20251215140000 +0000" channel="SPOTV 2.mncvision">
+<programme start="20251215113000 +0000" stop="20251215143000 +0000" channel="SPOTV 2.mncvision">
     <title>WTT Finals Hong Kong 2025</title>
-</programme>
-<programme start="20251215140000 +0000" stop="20251215143000 +0000" channel="SPOTV 2.mncvision">
-    <title>2025/26 ALM Mini Match</title>
 </programme>
 <programme start="20251215143000 +0000" stop="20251215150000 +0000" channel="SPOTV 2.mncvision">
     <title>Aramco Invitational Tournament</title>
@@ -8515,14 +8512,8 @@
 <programme start="20251215150000 +0000" stop="20251215153000 +0000" channel="SPOTV 2.mncvision">
     <title>A-League Men: WEL Vs NEW</title>
 </programme>
-<programme start="20251214180000 +0000" stop="20251214183000 +0000" channel="SPOTV 2 HD.mncvision">
-    <title>A-League Men: MVC Vs ADL</title>
-</programme>
-<programme start="20251214183000 +0000" stop="20251214200000 +0000" channel="SPOTV 2 HD.mncvision">
+<programme start="20251214183000 +0000" stop="20251214230000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>WTT Finals Hong Kong 2025</title>
-</programme>
-<programme start="20251214200000 +0000" stop="20251214230000 +0000" channel="SPOTV 2 HD.mncvision">
-    <title>2025 Qatar T100</title>
 </programme>
 <programme start="20251214230000 +0000" stop="20251214233000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>2025/26 ALM Mini Match</title>
@@ -8530,14 +8521,8 @@
 <programme start="20251214233000 +0000" stop="20251215001500 +0000" channel="SPOTV 2 HD.mncvision">
     <title>MotoGP 2025 Spotlight</title>
 </programme>
-<programme start="20251215001500 +0000" stop="20251215020000 +0000" channel="SPOTV 2 HD.mncvision">
+<programme start="20251215001500 +0000" stop="20251215033000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>MLB 2025: TBJ Vs LAD</title>
-</programme>
-<programme start="20251215020000 +0000" stop="20251215030000 +0000" channel="SPOTV 2 HD.mncvision">
-    <title>2025 Qatar T100 HL</title>
-</programme>
-<programme start="20251215030000 +0000" stop="20251215033000 +0000" channel="SPOTV 2 HD.mncvision">
-    <title>A-League Men: WSW Vs BRI</title>
 </programme>
 <programme start="20251215033000 +0000" stop="20251215040000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>2025/26 ALM Mini Match</title>
@@ -8548,32 +8533,20 @@
 <programme start="20251215050000 +0000" stop="20251215063000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>2025 FIM Awards</title>
 </programme>
-<programme start="20251215063000 +0000" stop="20251215070000 +0000" channel="SPOTV 2 HD.mncvision">
+<programme start="20251215063000 +0000" stop="20251215073000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>2025 WorldSBK Season Review</title>
 </programme>
-<programme start="20251215070000 +0000" stop="20251215073000 +0000" channel="SPOTV 2 HD.mncvision">
-    <title>25/26 Scottish Premiership</title>
-</programme>
-<programme start="20251215073000 +0000" stop="20251215090000 +0000" channel="SPOTV 2 HD.mncvision">
+<programme start="20251215073000 +0000" stop="20251215093000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>GTour Mixed 4th Tournament</title>
-</programme>
-<programme start="20251215090000 +0000" stop="20251215093000 +0000" channel="SPOTV 2 HD.mncvision">
-    <title>A-League Men: MVC Vs ADL</title>
 </programme>
 <programme start="20251215093000 +0000" stop="20251215100000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>2025/26 A-League Men HL</title>
 </programme>
-<programme start="20251215100000 +0000" stop="20251215110000 +0000" channel="SPOTV 2 HD.mncvision">
+<programme start="20251215100000 +0000" stop="20251215113000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>WTT Finals Hong Kong 2025</title>
 </programme>
-<programme start="20251215110000 +0000" stop="20251215120000 +0000" channel="SPOTV 2 HD.mncvision">
-    <title>Asian Le Mans Series: Sepang</title>
-</programme>
-<programme start="20251215120000 +0000" stop="20251215140000 +0000" channel="SPOTV 2 HD.mncvision">
+<programme start="20251215113000 +0000" stop="20251215143000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>WTT Finals Hong Kong 2025</title>
-</programme>
-<programme start="20251215140000 +0000" stop="20251215143000 +0000" channel="SPOTV 2 HD.mncvision">
-    <title>2025/26 ALM Mini Match</title>
 </programme>
 <programme start="20251215143000 +0000" stop="20251215150000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>Aramco Invitational Tournament</title>
