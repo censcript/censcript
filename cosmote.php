@@ -106,8 +106,8 @@
     <title>Football: Panathinaikos - Volos</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251215203000 +0700" stop="20251215234500 +0700" channel="COSMOTE Sport 3 HD">
-    <title>American Football: Kansas City Chiefs - Los Angeles Chargers</title>
+<programme start="20251217003000 +0700" stop="20251217023000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Udinese - SSC Napoli</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251215234500 +0700" stop="20251216014500 +0700" channel="COSMOTE Sport 3 HD">
@@ -170,10 +170,6 @@
     <title>Football: Norwich City - Southampton</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251215220000 +0700" stop="20251216000000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Karditsa - Mersin MSK</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251216000000 +0700" stop="20251216022000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Fenerbahce - Anadolu Efes</title>
     <desc>Live: Tidak</desc>
@@ -226,9 +222,9 @@
     <title>Pick n&#039; Roll (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251215230000 +0700" stop="20251216000000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: MotoGP 2025</title>
-    <desc>Live: Tidak</desc>
+<programme start="20251217000000 +0700" stop="20251217021000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Szolnoki Olaj - AEK (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20251216000000 +0700" stop="20251216010000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Motorsports: MotoGP 2025</title>
@@ -334,8 +330,8 @@
     <title>Motorsports: MotoGP 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251215213000 +0700" stop="20251216000000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>2025 Premier Padel Tour Finals</title>
+<programme start="20251217001000 +0700" stop="20251217011000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: MotoGP 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251216000000 +0700" stop="20251216021500 +0700" channel="COSMOTE Sport 6 HD">
@@ -402,19 +398,11 @@
     <title>Beach Volley: Pro Tour Elite 16 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251216193000 +0700" stop="20251216200000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Sports Classics: The Outdoor Sports Show 2024 E11</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251216200000 +0700" stop="20251216203000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Sports Classics: 2025 Sports Rundown E6</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251216203000 +0700" stop="20251216223000 +0700" channel="COSMOTE Sport 6 HD">
+<programme start="20251216193000 +0700" stop="20251216214500 +0700" channel="COSMOTE Sport 6 HD">
     <title>2025 Premier Padel Tour Finals</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251216223000 +0700" stop="20251217010000 +0700" channel="COSMOTE Sport 6 HD">
+<programme start="20251216214500 +0700" stop="20251217011500 +0700" channel="COSMOTE Sport 6 HD">
     <title>2025 Premier Padel Tour Finals</title>
     <desc>Live: Tidak</desc>
 </programme>
