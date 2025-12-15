@@ -9037,13 +9037,10 @@
 <programme start="20251215114500 +0000" stop="20251215130000 +0000" channel="Trans TV.mncvision">
     <title>Insert Story</title>
 </programme>
-<programme start="20251215130000 +0000" stop="20251215140000 +0000" channel="Trans TV.mncvision">
-    <title>Dunia Punya Cerita</title>
+<programme start="20251215130000 +0000" stop="20251215150000 +0000" channel="Trans TV.mncvision">
+    <title>HUT Transmedia 24 Ours</title>
 </programme>
-<programme start="20251215140000 +0000" stop="20251215160000 +0000" channel="Trans TV.mncvision">
-    <title>Bioskop Trans TV</title>
-</programme>
-<programme start="20251215160000 +0000" stop="20251215163000 +0000" channel="Trans TV.mncvision">
+<programme start="20251215150000 +0000" stop="20251215153000 +0000" channel="Trans TV.mncvision">
     <title>Bioskop Trans TV</title>
 </programme>
 <programme start="20251214170000 +0000" stop="20251214185000 +0000" channel="tvN.mncvision">
