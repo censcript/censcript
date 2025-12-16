@@ -258,8 +258,12 @@
     <title>Basketball: Promitheas - Rytas Vilnius (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251217001000 +0700" stop="20251217011000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: MotoGP 2025</title>
+<programme start="20251218021000 +0700" stop="20251218024000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>NBA Specials</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251218024000 +0700" stop="20251218044500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Promitheas - Rytas Vilnius</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251217011000 +0700" stop="20251217021000 +0700" channel="COSMOTE Sport 5 HD">
@@ -369,10 +373,6 @@
 <programme start="20251218013000 +0700" stop="20251218034000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Basketball: Unicaja - Karditsa (L)</title>
     <desc>Live: Ya</desc>
-</programme>
-<programme start="20251216214500 +0700" stop="20251217011500 +0700" channel="COSMOTE Sport 6 HD">
-    <title>2025 Premier Padel Tour Finals</title>
-    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251217011500 +0700" stop="20251217025500 +0700" channel="COSMOTE Sport 6 HD">
     <title>Volleyball: Olympiacos - Apeldoorn</title>
