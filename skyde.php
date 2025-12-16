@@ -2557,13 +2557,13 @@
 <programme start="20251216225000 +0000" stop="20251216232000 +0000" channel="Sky Showcase HD.skyde">
     <title>Snake Man - Der Schlangenfänger</title>
 </programme>
-<programme start="20251215232000 +0000" stop="20251216012000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20251215231500 +0000" stop="20251216011500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: Grazer AK 1902 - LASK, 17. Runde</title>
 </programme>
-<programme start="20251216012000 +0000" stop="20251216032000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20251216011500 +0000" stop="20251216031500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: SV Oberbank Ried - SCR Altach, 17. Runde</title>
 </programme>
-<programme start="20251216032000 +0000" stop="20251216040000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20251216031500 +0000" stop="20251216040000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Fußball: Herzog gegen Herzig - Die Next Generation Show (Grazer SC Straßenbahn)</title>
 </programme>
 <programme start="20251216040000 +0000" stop="20251216060000 +0000" channel="Sky Sport Austria 1 HD.skyde">
@@ -3226,10 +3226,10 @@
 <programme start="20251215233000 +0000" stop="20251216000000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime</title>
 </programme>
-<programme start="20251216000000 +0000" stop="20251216023000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20251216000000 +0000" stop="20251216025000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Detroit Pistons @ Boston Celtics</title>
 </programme>
-<programme start="20251216023000 +0000" stop="20251216050000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20251216025000 +0000" stop="20251216050000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Houston Rockets @ Denver Nuggets</title>
 </programme>
 <programme start="20251216050000 +0000" stop="20251216090000 +0000" channel="Sky Sport 1 HD.skyde">

@@ -76,11 +76,8 @@
     <programme start="20251216080000 +0000" stop="20251216100000 +0000" channel="Channel 5.mewatch">
         <title>Volleyball - 33rd SEA Games Thailand 2025: Men&#039;s Group Stage - LAO vs SGP</title>
     </programme>
-    <programme start="20251216100000 +0000" stop="20251216120000 +0000" channel="Channel 5.mewatch">
+    <programme start="20251216100000 +0000" stop="20251216130000 +0000" channel="Channel 5.mewatch">
         <title>Athletics - 33rd SEA Games Thailand 2025: Men&#039;s &amp; Women&#039;s Finals - 16 Dec 2025</title>
-    </programme>
-    <programme start="20251216120000 +0000" stop="20251216130000 +0000" channel="Channel 5.mewatch">
-        <title>Weightlifting - 33rd SEA Games Thailand 2025: Men&#039;s 94kg Final</title>
     </programme>
     <programme start="20251216130000 +0000" stop="20251216133000 +0000" channel="Channel 5.mewatch">
         <title>(Live) News Tonight</title>
