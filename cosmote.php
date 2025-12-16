@@ -50,10 +50,6 @@
     <title>Football: Lech Poznan - FSV Mainz 05</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251216100000 +0700" stop="20251216120000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Torino - Cremonese</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251216120000 +0700" stop="20251216141000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Kifisia - Asteras Aktor</title>
     <desc>Live: Tidak</desc>
@@ -110,12 +106,8 @@
     <title>Football: Atalanta - Cagliari</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251216110000 +0700" stop="20251216113000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Copa Libertadores 2025 - Highlights</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251216113000 +0700" stop="20251216114500 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Sports Classics: Worldies E9</title>
+<programme start="20251217120000 +0700" stop="20251217141000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Panetolikos - AEK</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251216114500 +0700" stop="20251216150000 +0700" channel="COSMOTE Sport 3 HD">
@@ -238,10 +230,6 @@
     <title>Basketball: Fenerbahce - Anadolu Efes</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251216110000 +0700" stop="20251216113000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Sports Classics: Gearing Up 2024 E11</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251216113000 +0700" stop="20251216122500 +0700" channel="COSMOTE Sport 5 HD">
     <title>2025 FIM Women&#039;s Circuit Racing World Championship</title>
     <desc>Live: Tidak</desc>
@@ -350,12 +338,8 @@
     <title>2025 FIM Women&#039;s Circuit Racing World Championship</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251216110000 +0700" stop="20251216113000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Sports Classics: The Outdoor Sports Show 2024 E11</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251216113000 +0700" stop="20251216114500 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Sports Highlights</title>
+<programme start="20251217122500 +0700" stop="20251217132500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251216114500 +0700" stop="20251216133000 +0700" channel="COSMOTE Sport 6 HD">
@@ -520,14 +504,6 @@
 </programme>
 <programme start="20251217110000 +0700" stop="20251217130000 +0700" channel="COSMOTE Sport 8 HD">
     <title>COSMOTESport8HD</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251216081500 +0700" stop="20251216114500 +0700" channel="COSMOTE Sport 9 HD">
-    <title>American Football: Pittsburgh Steelers - Miami Dolphins (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20251216114500 +0700" stop="20251216120000 +0700" channel="COSMOTE Sport 9 HD">
-    <title>COSMOTESport9HD</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251216120000 +0700" stop="20251216130000 +0700" channel="COSMOTE Sport 9 HD">

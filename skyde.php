@@ -232,10 +232,10 @@
 <programme start="20251216051000 +0000" stop="20251216052000 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20251216052000 +0000" stop="20251216053500 +0000" channel="Cartoon Network.skyde">
+<programme start="20251216052000 +0000" stop="20251216053000 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20251216053500 +0000" stop="20251216054500 +0000" channel="Cartoon Network.skyde">
+<programme start="20251216053000 +0000" stop="20251216054500 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
 <programme start="20251216054500 +0000" stop="20251216055500 +0000" channel="Cartoon Network.skyde">
@@ -265,13 +265,13 @@
 <programme start="20251216071500 +0000" stop="20251216073000 +0000" channel="Cartoon Network.skyde">
     <title>Die wunderbar schräge Welt von Gumball</title>
 </programme>
-<programme start="20251216073000 +0000" stop="20251216074500 +0000" channel="Cartoon Network.skyde">
+<programme start="20251216073000 +0000" stop="20251216074000 +0000" channel="Cartoon Network.skyde">
     <title>Die wunderbar schräge Welt von Gumball</title>
 </programme>
-<programme start="20251216074500 +0000" stop="20251216080000 +0000" channel="Cartoon Network.skyde">
+<programme start="20251216074000 +0000" stop="20251216075500 +0000" channel="Cartoon Network.skyde">
     <title>Looney Tunes Cartoons</title>
 </programme>
-<programme start="20251216080000 +0000" stop="20251216081000 +0000" channel="Cartoon Network.skyde">
+<programme start="20251216075500 +0000" stop="20251216081000 +0000" channel="Cartoon Network.skyde">
     <title>Looney Tunes Cartoons</title>
 </programme>
 <programme start="20251216081000 +0000" stop="20251216082500 +0000" channel="Cartoon Network.skyde">
@@ -283,10 +283,10 @@
 <programme start="20251216083500 +0000" stop="20251216090000 +0000" channel="Cartoon Network.skyde">
     <title>Tiny Toons Looniversity</title>
 </programme>
-<programme start="20251216090000 +0000" stop="20251216091500 +0000" channel="Cartoon Network.skyde">
+<programme start="20251216090000 +0000" stop="20251216091000 +0000" channel="Cartoon Network.skyde">
     <title>Craig of the Creek - Im Wald der Abenteuer</title>
 </programme>
-<programme start="20251216091500 +0000" stop="20251216092500 +0000" channel="Cartoon Network.skyde">
+<programme start="20251216091000 +0000" stop="20251216092500 +0000" channel="Cartoon Network.skyde">
     <title>Craig of the Creek - Im Wald der Abenteuer</title>
 </programme>
 <programme start="20251216092500 +0000" stop="20251216093500 +0000" channel="Cartoon Network.skyde">
@@ -418,16 +418,16 @@
 <programme start="20251216181500 +0000" stop="20251216183000 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20251216183000 +0000" stop="20251216184000 +0000" channel="Cartoon Network.skyde">
+<programme start="20251216183000 +0000" stop="20251216184500 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20251216184000 +0000" stop="20251216185500 +0000" channel="Cartoon Network.skyde">
+<programme start="20251216184500 +0000" stop="20251216185500 +0000" channel="Cartoon Network.skyde">
     <title>Lana Longbeard</title>
 </programme>
-<programme start="20251216185500 +0000" stop="20251216190500 +0000" channel="Cartoon Network.skyde">
+<programme start="20251216185500 +0000" stop="20251216191000 +0000" channel="Cartoon Network.skyde">
     <title>Lana Longbeard</title>
 </programme>
-<programme start="20251216190500 +0000" stop="20251216192000 +0000" channel="Cartoon Network.skyde">
+<programme start="20251216191000 +0000" stop="20251216192000 +0000" channel="Cartoon Network.skyde">
     <title>Teen Titans Go!</title>
 </programme>
 <programme start="20251216192000 +0000" stop="20251216193000 +0000" channel="Cartoon Network.skyde">
@@ -463,10 +463,10 @@
 <programme start="20251216213000 +0000" stop="20251216215000 +0000" channel="Cartoon Network.skyde">
     <title>Dexters Labor</title>
 </programme>
-<programme start="20251216215000 +0000" stop="20251216224000 +0000" channel="Cartoon Network.skyde">
+<programme start="20251216215000 +0000" stop="20251216224500 +0000" channel="Cartoon Network.skyde">
     <title>Adventure Time: Ferne Länder</title>
 </programme>
-<programme start="20251216224000 +0000" stop="20251216230500 +0000" channel="Cartoon Network.skyde">
+<programme start="20251216224500 +0000" stop="20251216231000 +0000" channel="Cartoon Network.skyde">
     <title>Regular Show - Völlig abgedreht</title>
 </programme>
 <programme start="20251215230000 +0000" stop="20251215231500 +0000" channel="Cartoonito.skyde">
@@ -937,11 +937,8 @@
 <programme start="20251216083000 +0000" stop="20251216103000 +0000" channel="DAZN 1 HD.skyde">
     <title>Bundesliga: Bayer 04 Leverkusen - 1. FC Köln</title>
 </programme>
-<programme start="20251216103000 +0000" stop="20251216122500 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20251216103000 +0000" stop="20251216130000 +0000" channel="DAZN 1 HD.skyde">
     <title>Bundesliga: 1. FC Union Berlin - RB Leipzig</title>
-</programme>
-<programme start="20251216122500 +0000" stop="20251216130000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
 </programme>
 <programme start="20251216130000 +0000" stop="20251216145000 +0000" channel="DAZN 1 HD.skyde">
     <title>LaLiga 25/26: FC Barcelona - CA Osasuna</title>
@@ -949,11 +946,8 @@
 <programme start="20251216145000 +0000" stop="20251216152000 +0000" channel="DAZN 1 HD.skyde">
     <title>FC Bayern World Squad: Class of &#039;25 - Folge 1</title>
 </programme>
-<programme start="20251216152000 +0000" stop="20251216160000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20251216152000 +0000" stop="20251216162000 +0000" channel="DAZN 1 HD.skyde">
     <title>FC Bayern World Squad: Class of &#039;25 - Folge 2</title>
-</programme>
-<programme start="20251216160000 +0000" stop="20251216162000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
 </programme>
 <programme start="20251216162000 +0000" stop="20251216173000 +0000" channel="DAZN 1 HD.skyde">
     <title>ALL IN - Die Bundesliga Highlight Show: 14. Spieltag</title>
@@ -961,17 +955,17 @@
 <programme start="20251216173000 +0000" stop="20251216192000 +0000" channel="DAZN 1 HD.skyde">
     <title>Bundesliga: SV Werder Bremen - VFB Stuttgart</title>
 </programme>
-<programme start="20251216192000 +0000" stop="20251216195000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20251216192000 +0000" stop="20251216194000 +0000" channel="DAZN 1 HD.skyde">
     <title>Serie A Highlightshow: 15. Spieltag</title>
 </programme>
-<programme start="20251216195000 +0000" stop="20251216202000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20251216194000 +0000" stop="20251216215500 +0000" channel="DAZN 1 HD.skyde">
+    <title>Copa del Rey 25/26: CD Guadalajara - FC Barcelona</title>
+</programme>
+<programme start="20251216215500 +0000" stop="20251216222500 +0000" channel="DAZN 1 HD.skyde">
     <title>Ligue 1 Highlightshow 2025/26: 16. Spieltag</title>
 </programme>
-<programme start="20251216202000 +0000" stop="20251216211500 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20251216222500 +0000" stop="20251216230000 +0000" channel="DAZN 1 HD.skyde">
     <title>FC Bayern World Squad: Class of &#039;25 - Folge 3</title>
-</programme>
-<programme start="20251216211500 +0000" stop="20251216230000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Bundesliga: FC Bayern München - 1. FSV Mainz 05</title>
 </programme>
 <programme start="20251215230000 +0000" stop="20251216070000 +0000" channel="DAZN 2 HD.skyde">
     <title>Sendepause</title>
@@ -2714,7 +2708,7 @@
     <title>BL: 90in30: B04 - KOE, 14. Spieltag</title>
 </programme>
 <programme start="20251216223000 +0000" stop="20251216233000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>Fußball: Sammer &amp; Basile - Der Hagedorn-Talk</title>
+    <title>2. BL Kompakt: 16. Spieltag</title>
 </programme>
 <programme start="20251216000000 +0000" stop="20251216020000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
     <title>BL: Eintracht Frankfurt - FC Augsburg, 14. Spieltag</title>
@@ -3228,6 +3222,9 @@
 </programme>
 <programme start="20251216210000 +0000" stop="20251216230000 +0000" channel="Sky Sport UHD.skyde">
     <title>F1: Rennen - GP Abu Dhabi</title>
+</programme>
+<programme start="20251215231000 +0000" stop="20251215233000 +0000" channel="Sky Sport 1 HD.skyde">
+    <title>Es folgt: Basketball NBA</title>
 </programme>
 <programme start="20251215233000 +0000" stop="20251216000000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime</title>
