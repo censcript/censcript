@@ -106,14 +106,17 @@
 <programme start="20251216033000 +0000" stop="20251216053000 +0000" channel="MNCTV.vision">
 <title>Upin &amp; Ipin</title>
 </programme>
-<programme start="20251216053000 +0000" stop="20251216080000 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
-</programme>
-<programme start="20251216080000 +0000" stop="20251216093000 +0000" channel="MNCTV.vision">
+<programme start="20251216053000 +0000" stop="20251216063000 +0000" channel="MNCTV.vision">
 <title>Upin &amp; Ipin</title>
 </programme>
-<programme start="20251216093000 +0000" stop="20251216113000 +0000" channel="MNCTV.vision">
+<programme start="20251216063000 +0000" stop="20251216083000 +0000" channel="MNCTV.vision">
 <title>MNC TV</title>
+</programme>
+<programme start="20251216083000 +0000" stop="20251216110000 +0000" channel="MNCTV.vision">
+<title>MNC TV</title>
+</programme>
+<programme start="20251216110000 +0000" stop="20251216113000 +0000" channel="MNCTV.vision">
+<title>Upin &amp; Ipin</title>
 </programme>
 <programme start="20251216113000 +0000" stop="20251216123000 +0000" channel="MNCTV.vision">
 <title>Entong</title>
@@ -517,16 +520,16 @@
 <programme start="20251216114500 +0000" stop="20251216130000 +0000" channel="Trans TV.vision">
 <title>Insert Story</title>
 </programme>
-<programme start="20251216130000 +0000" stop="20251216150000 +0000" channel="Trans TV.vision">
-<title>HUT Transmedia 24 Ours</title>
+<programme start="20251216130000 +0000" stop="20251216140000 +0000" channel="Trans TV.vision">
+<title>Dunia Punya Cerita</title>
 </programme>
-<programme start="20251216150000 +0000" stop="20251216170000 +0000" channel="Trans TV.vision">
+<programme start="20251216140000 +0000" stop="20251216160000 +0000" channel="Trans TV.vision">
 <title>Bioskop Trans TV</title>
 </programme>
-<programme start="20251216170000 +0000" stop="20251216190000 +0000" channel="Trans TV.vision">
+<programme start="20251216160000 +0000" stop="20251216180000 +0000" channel="Trans TV.vision">
 <title>Bioskop Trans TV</title>
 </programme>
-<programme start="20251216190000 +0000" stop="20251216220000 +0000" channel="Trans TV.vision">
+<programme start="20251216180000 +0000" stop="20251216220000 +0000" channel="Trans TV.vision">
 <title>Pilihan Indonesia: Debat Capres</title>
 </programme>
 <programme start="20251216220000 +0000" stop="20251216233000 +0000" channel="Trans TV.vision">
@@ -697,17 +700,29 @@
 <programme start="20251216010000 +0000" stop="20251216023000 +0000" channel="ANTV.vision">
 <title>Zeynep</title>
 </programme>
+<programme start="20251216023000 +0000" stop="20251216060000 +0000" channel="ANTV.vision">
+<title>Kabhi Haan Kabhi Naa</title>
+</programme>
 <programme start="20251216060000 +0000" stop="20251216073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
 <programme start="20251216073000 +0000" stop="20251216084500 +0000" channel="ANTV.vision">
 <title>Shani</title>
 </programme>
+<programme start="20251216084500 +0000" stop="20251216110000 +0000" channel="ANTV.vision">
+<title>Gengsi Dong</title>
+</programme>
+<programme start="20251216110000 +0000" stop="20251216123000 +0000" channel="ANTV.vision">
+<title>Titisan Dewi Ular</title>
+</programme>
 <programme start="20251216123000 +0000" stop="20251216140000 +0000" channel="ANTV.vision">
 <title>Senandung Cinta Lilis</title>
 </programme>
 <programme start="20251216140000 +0000" stop="20251216160000 +0000" channel="ANTV.vision">
 <title>Tawa Kalcer</title>
+</programme>
+<programme start="20251216160000 +0000" stop="20251216180000 +0000" channel="ANTV.vision">
+<title>Storm City</title>
 </programme>
 <programme start="20251216180000 +0000" stop="20251216200000 +0000" channel="ANTV.vision">
 <title>Once Upon A Time In Venice</title>
@@ -1482,19 +1497,4 @@
 </programme>
 <programme start="20251217110000 +0000" stop="20251217130000 +0000" channel="BTV.vision">
 <title>Berita Satu Utama</title>
-</programme>
-<programme start="20251215230000 +0000" stop="20251216010000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20251216010000 +0000" stop="20251216030000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20251216030000 +0000" stop="20251216050000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20251216050000 +0000" stop="20251216070000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20251216070000 +0000" stop="20251216090000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
 </programme>

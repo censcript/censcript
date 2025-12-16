@@ -58,6 +58,10 @@
     <title>Greek Cup Time (L)</title>
     <desc>Live: Ya</desc>
 </programme>
+<programme start="20251218041500 +0700" stop="20251218062000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: Olympiacos - Iraklis</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251217023000 +0700" stop="20251217044000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: OFI - Panserraikos</title>
     <desc>Live: Tidak</desc>
@@ -258,6 +262,10 @@
     <title>Basketball: Promitheas - Rytas Vilnius</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251218044500 +0700" stop="20251218051000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>ACB Liga Endesa 2025-26 - Fifth Quarter E10</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251217030000 +0700" stop="20251217050500 +0700" channel="COSMOTE Sport 5 HD">
     <title>Basketball: Szolnoki Olaj - AEK</title>
     <desc>Live: Tidak</desc>
@@ -362,10 +370,6 @@
     <title>Motorsports: Extreme E 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251217025500 +0700" stop="20251217034500 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Sports Classics: 2025 Outdoor Specials</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251217034500 +0700" stop="20251217064500 +0700" channel="COSMOTE Sport 6 HD">
     <title>Fight Sports: UFC Fight Night 2025</title>
     <desc>Live: Tidak</desc>
@@ -416,6 +420,10 @@
 </programme>
 <programme start="20251218033000 +0700" stop="20251218040000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Watersports: Inside Sailing E11</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251218040000 +0700" stop="20251218080000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: 2025 Next Gen ATP Finals</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251217030000 +0700" stop="20251217050000 +0700" channel="COSMOTE Sport 7 HD">
