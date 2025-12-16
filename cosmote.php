@@ -110,6 +110,10 @@
     <title>Football: Parma - SS Lazio</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251217161000 +0700" stop="20251217181000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Atalanta - Cagliari</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251216150000 +0700" stop="20251216170000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: SC Braga - Santa Clara</title>
     <desc>Live: Tidak</desc>
@@ -170,20 +174,20 @@
     <title>Football: Rio Ave - Vitoria Guimaraes</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251217163500 +0700" stop="20251217170000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>William Hill Scottish Premiership - Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251216150000 +0700" stop="20251216170000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Manresa - Barcelona</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251216170000 +0700" stop="20251216193000 +0700" channel="COSMOTE Sport 4 HD">
+<programme start="20251216170000 +0700" stop="20251216200500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Denver Nuggets - Houston Rockets</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251216193000 +0700" stop="20251216215500 +0700" channel="COSMOTE Sport 4 HD">
+<programme start="20251216200500 +0700" stop="20251216223000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: AEK - Levice</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251216215500 +0700" stop="20251216223000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>NBA Action 2025-26 E3508</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251216223000 +0700" stop="20251217000000 +0700" channel="COSMOTE Sport 4 HD">
@@ -194,27 +198,31 @@
     <title>Basketball: Szolnoki Olaj - AEK (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251217021000 +0700" stop="20251217044000 +0700" channel="COSMOTE Sport 4 HD">
+<programme start="20251217021000 +0700" stop="20251217024500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>NBA Action 2025-26 E3508</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251217024500 +0700" stop="20251217054500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Denver Nuggets - Houston Rockets</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251217044000 +0700" stop="20251217061000 +0700" channel="COSMOTE Sport 4 HD">
+<programme start="20251217054500 +0700" stop="20251217071500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Pick n&#039; Roll</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251217061000 +0700" stop="20251217063000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Sports Highlights</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251217063000 +0700" stop="20251217083000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Aquila Basket Trento - Reyer Venezia</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251217083000 +0700" stop="20251217104000 +0700" channel="COSMOTE Sport 4 HD">
+<programme start="20251217071500 +0700" stop="20251217092500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Szolnoki Olaj - AEK</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251217104000 +0700" stop="20251217110000 +0700" channel="COSMOTE Sport 4 HD">
+<programme start="20251217092500 +0700" stop="20251217102000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>NBA Specials: Basketball Stories</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251217102000 +0700" stop="20251217104500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>NBA Specials</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251217104500 +0700" stop="20251217110000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Sports Classics: Worldies E8</title>
     <desc>Live: Tidak</desc>
 </programme>
@@ -236,10 +244,6 @@
 </programme>
 <programme start="20251217155000 +0700" stop="20251217175000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Aquila Basket Trento - Reyer Venezia</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251216150000 +0700" stop="20251216153000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251216153000 +0700" stop="20251216162500 +0700" channel="COSMOTE Sport 5 HD">
@@ -350,8 +354,8 @@
     <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251216143000 +0700" stop="20251216153000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Navarino Challenge 2025 Mini Movie</title>
+<programme start="20251217165000 +0700" stop="20251217173500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251216153000 +0700" stop="20251216174500 +0700" channel="COSMOTE Sport 6 HD">

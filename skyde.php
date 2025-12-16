@@ -2708,7 +2708,7 @@
     <title>BL: 90in30: B04 - KOE, 14. Spieltag</title>
 </programme>
 <programme start="20251216223000 +0000" stop="20251216233000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>2. BL Kompakt: 16. Spieltag</title>
+    <title>Fußball: Sammer &amp; Basile - Der Hagedorn-Talk</title>
 </programme>
 <programme start="20251216000000 +0000" stop="20251216020000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
     <title>BL: Eintracht Frankfurt - FC Augsburg, 14. Spieltag</title>
@@ -3136,14 +3136,11 @@
 <programme start="20251216000000 +0000" stop="20251216025000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Detroit Pistons @ Boston Celtics</title>
 </programme>
-<programme start="20251216025000 +0000" stop="20251216051500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20251216025000 +0000" stop="20251216053000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Houston Rockets @ Denver Nuggets</title>
 </programme>
-<programme start="20251216051500 +0000" stop="20251216053000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live NBA: Showtime - Post Show</title>
-</programme>
 <programme start="20251216053000 +0000" stop="20251216060000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>EFL: Highlights, 20. Spieltag</title>
+    <title>Live NBA: Showtime - Post Show</title>
 </programme>
 <programme start="20251216060000 +0000" stop="20251216063000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>EFL: Highlights, 20. Spieltag</title>
@@ -3225,9 +3222,6 @@
 </programme>
 <programme start="20251216210000 +0000" stop="20251216230000 +0000" channel="Sky Sport UHD.skyde">
     <title>F1: Rennen - GP Abu Dhabi</title>
-</programme>
-<programme start="20251215231000 +0000" stop="20251215233000 +0000" channel="Sky Sport 1 HD.skyde">
-    <title>Es folgt: Basketball NBA</title>
 </programme>
 <programme start="20251215233000 +0000" stop="20251216000000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime</title>
@@ -3715,10 +3709,10 @@
 <programme start="20251216041000 +0000" stop="20251216042000 +0000" channel="Warner TV Serie HD.skyde">
     <title>NTSF:SD:SUV::</title>
 </programme>
-<programme start="20251216042000 +0000" stop="20251216051500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20251216042000 +0000" stop="20251216051000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Daktari</title>
 </programme>
-<programme start="20251216051500 +0000" stop="20251216060500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20251216051000 +0000" stop="20251216060500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Mord ist ihr Hobby</title>
 </programme>
 <programme start="20251216060500 +0000" stop="20251216065500 +0000" channel="Warner TV Serie HD.skyde">
@@ -3772,10 +3766,10 @@
 <programme start="20251216191500 +0000" stop="20251216200000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Hudson &amp; Rex</title>
 </programme>
-<programme start="20251216200000 +0000" stop="20251216204500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20251216200000 +0000" stop="20251216205000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Hudson &amp; Rex</title>
 </programme>
-<programme start="20251216204500 +0000" stop="20251216213500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20251216205000 +0000" stop="20251216213500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Hudson &amp; Rex</title>
 </programme>
 <programme start="20251216213500 +0000" stop="20251216222000 +0000" channel="Warner TV Serie HD.skyde">
