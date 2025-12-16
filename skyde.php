@@ -3133,10 +3133,10 @@
 <programme start="20251215233000 +0000" stop="20251216000000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Showtime</title>
 </programme>
-<programme start="20251216000000 +0000" stop="20251216025000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20251216000000 +0000" stop="20251216023000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Detroit Pistons @ Boston Celtics</title>
 </programme>
-<programme start="20251216025000 +0000" stop="20251216050000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20251216023000 +0000" stop="20251216050000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Houston Rockets @ Denver Nuggets</title>
 </programme>
 <programme start="20251216050000 +0000" stop="20251216053000 +0000" channel="Sky Sport Top Event HD.skyde">
