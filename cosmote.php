@@ -54,6 +54,10 @@
     <title>Sports Classics: Football Countdowns E10</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251218000000 +0700" stop="20251218010000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Highlights: UEL &amp; UECL 2025-26</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251216222000 +0700" stop="20251217003000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Panathinaikos - Volos</title>
     <desc>Live: Tidak</desc>
@@ -182,10 +186,6 @@
     <title>Football: Wrexham  - Watford</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251216223000 +0700" stop="20251217000000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Pick n&#039; Roll (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
 <programme start="20251217000000 +0700" stop="20251217021000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Szolnoki Olaj - AEK (L)</title>
     <desc>Live: Ya</desc>
@@ -253,6 +253,10 @@
 <programme start="20251217233000 +0700" stop="20251218000000 +0700" channel="COSMOTE Sport 4 HD">
     <title>ACB Liga Endesa 2025-26 - Fifth Quarter E10</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251218000000 +0700" stop="20251218021000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Promitheas - Rytas Vilnius (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20251216230000 +0700" stop="20251217001000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Motorsports: MotoGP 2025</title>
@@ -355,6 +359,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251217230000 +0700" stop="20251218000000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: MotoGP 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251218000000 +0700" stop="20251218010000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Motorsports: MotoGP 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
