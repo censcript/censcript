@@ -721,10 +721,10 @@
 <programme start="20251216154500 +0000" stop="20251216155500 +0000" channel="Cartoonito.skyde">
     <title>Tom und Jerry</title>
 </programme>
-<programme start="20251216155500 +0000" stop="20251216160500 +0000" channel="Cartoonito.skyde">
+<programme start="20251216155500 +0000" stop="20251216161000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20251216160500 +0000" stop="20251216162500 +0000" channel="Cartoonito.skyde">
+<programme start="20251216161000 +0000" stop="20251216162500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
 <programme start="20251216162500 +0000" stop="20251216163500 +0000" channel="Cartoonito.skyde">
@@ -778,10 +778,10 @@
 <programme start="20251216191000 +0000" stop="20251216192500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20251216192500 +0000" stop="20251216193500 +0000" channel="Cartoonito.skyde">
+<programme start="20251216192500 +0000" stop="20251216194000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20251216193500 +0000" stop="20251216195500 +0000" channel="Cartoonito.skyde">
+<programme start="20251216194000 +0000" stop="20251216195500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
 <programme start="20251216195500 +0000" stop="20251216200500 +0000" channel="Cartoonito.skyde">
@@ -817,10 +817,10 @@
 <programme start="20251216213500 +0000" stop="20251216215000 +0000" channel="Cartoonito.skyde">
     <title>Batwheels</title>
 </programme>
-<programme start="20251216215000 +0000" stop="20251216220000 +0000" channel="Cartoonito.skyde">
+<programme start="20251216215000 +0000" stop="20251216220500 +0000" channel="Cartoonito.skyde">
     <title>Bugs Bunnys Baumeister</title>
 </programme>
-<programme start="20251216220000 +0000" stop="20251216222000 +0000" channel="Cartoonito.skyde">
+<programme start="20251216220500 +0000" stop="20251216222000 +0000" channel="Cartoonito.skyde">
     <title>Bugs Bunnys Baumeister</title>
 </programme>
 <programme start="20251216222000 +0000" stop="20251216223000 +0000" channel="Cartoonito.skyde">
@@ -2557,13 +2557,13 @@
 <programme start="20251216225000 +0000" stop="20251216232000 +0000" channel="Sky Showcase HD.skyde">
     <title>Snake Man - Der Schlangenfänger</title>
 </programme>
-<programme start="20251215231500 +0000" stop="20251216011500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20251215232000 +0000" stop="20251216012000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: Grazer AK 1902 - LASK, 17. Runde</title>
 </programme>
-<programme start="20251216011500 +0000" stop="20251216031500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20251216012000 +0000" stop="20251216032000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: SV Oberbank Ried - SCR Altach, 17. Runde</title>
 </programme>
-<programme start="20251216031500 +0000" stop="20251216040000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20251216032000 +0000" stop="20251216040000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Fußball: Herzog gegen Herzig - Die Next Generation Show (Grazer SC Straßenbahn)</title>
 </programme>
 <programme start="20251216040000 +0000" stop="20251216060000 +0000" channel="Sky Sport Austria 1 HD.skyde">
@@ -3709,10 +3709,10 @@
 <programme start="20251216041000 +0000" stop="20251216042000 +0000" channel="Warner TV Serie HD.skyde">
     <title>NTSF:SD:SUV::</title>
 </programme>
-<programme start="20251216042000 +0000" stop="20251216051000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20251216042000 +0000" stop="20251216051500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Daktari</title>
 </programme>
-<programme start="20251216051000 +0000" stop="20251216060500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20251216051500 +0000" stop="20251216060500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Mord ist ihr Hobby</title>
 </programme>
 <programme start="20251216060500 +0000" stop="20251216065500 +0000" channel="Warner TV Serie HD.skyde">
@@ -3766,10 +3766,10 @@
 <programme start="20251216191500 +0000" stop="20251216200000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Hudson &amp; Rex</title>
 </programme>
-<programme start="20251216200000 +0000" stop="20251216205000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20251216200000 +0000" stop="20251216204500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Hudson &amp; Rex</title>
 </programme>
-<programme start="20251216205000 +0000" stop="20251216213500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20251216204500 +0000" stop="20251216213500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Hudson &amp; Rex</title>
 </programme>
 <programme start="20251216213500 +0000" stop="20251216222000 +0000" channel="Warner TV Serie HD.skyde">
