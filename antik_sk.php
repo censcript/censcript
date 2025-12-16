@@ -4891,10 +4891,10 @@
   <programme start="20251218170000 +0000" stop="20251218174500 +0000" channel="Arena Sport 1.webtv.sk">
     <title lang="id">Naša Garáž</title>
   </programme>
-  <programme start="20251218174500 +0000" stop="20251218181500 +0000" channel="Arena Sport 1.webtv.sk">
+  <programme start="20251218174500 +0000" stop="20251218180000 +0000" channel="Arena Sport 1.webtv.sk">
     <title lang="id">Naša Garáž</title>
   </programme>
-  <programme start="20251218181500 +0000" stop="20251218184500 +0000" channel="Arena Sport 1.webtv.sk">
+  <programme start="20251218180000 +0000" stop="20251218184500 +0000" channel="Arena Sport 1.webtv.sk">
     <title lang="id">DominicCars</title>
   </programme>
   <programme start="20251218184500 +0000" stop="20251218190000 +0000" channel="Arena Sport 1.webtv.sk">
@@ -8752,82 +8752,82 @@
   <programme start="20251218225500 +0000" stop="20251219005500 +0000" channel="Film +.webtv.sk">
     <title lang="id">12 opic</title>
   </programme>
-  <programme start="20251217223500 +0000" stop="20251217231500 +0000" channel="AXN.webtv.sk">
-    <title lang="id">FBI: International I (8)</title>
-  </programme>
-  <programme start="20251217231500 +0000" stop="20251217235500 +0000" channel="AXN.webtv.sk">
+  <programme start="20251217230000 +0000" stop="20251217234000 +0000" channel="AXN.webtv.sk">
     <title lang="id">Námořní vyšetřovací služba: Havaj II (18)</title>
   </programme>
-  <programme start="20251217235500 +0000" stop="20251218003500 +0000" channel="AXN.webtv.sk">
+  <programme start="20251217234000 +0000" stop="20251218002000 +0000" channel="AXN.webtv.sk">
     <title lang="id">Námořní vyšetřovací služba: Havaj II (19)</title>
   </programme>
-  <programme start="20251218003500 +0000" stop="20251218011500 +0000" channel="AXN.webtv.sk">
+  <programme start="20251218002000 +0000" stop="20251218010000 +0000" channel="AXN.webtv.sk">
     <title lang="id">FBI: International I (8)</title>
   </programme>
-  <programme start="20251218011500 +0000" stop="20251218015500 +0000" channel="AXN.webtv.sk">
+  <programme start="20251218010000 +0000" stop="20251218014000 +0000" channel="AXN.webtv.sk">
     <title lang="id">Lucifer I (12)</title>
   </programme>
-  <programme start="20251218015500 +0000" stop="20251218030000 +0000" channel="AXN.webtv.sk">
+  <programme start="20251218014000 +0000" stop="20251218030000 +0000" channel="AXN.webtv.sk">
     <title lang="id">Námořní vyšetřovací služba: Havaj II (18)</title>
   </programme>
   <programme start="20251218030000 +0000" stop="20251218040000 +0000" channel="AXN.webtv.sk">
     <title lang="id">Teleshop</title>
   </programme>
-  <programme start="20251218040000 +0000" stop="20251218050000 +0000" channel="AXN.webtv.sk">
+  <programme start="20251218040000 +0000" stop="20251218052500 +0000" channel="AXN.webtv.sk">
     <title lang="id">Teleshop</title>
   </programme>
-  <programme start="20251218050000 +0000" stop="20251218055500 +0000" channel="AXN.webtv.sk">
-    <title lang="id">Hvězdná brána X (1)</title>
-  </programme>
-  <programme start="20251218055500 +0000" stop="20251218065000 +0000" channel="AXN.webtv.sk">
-    <title lang="id">Hvězdná brána X (2)</title>
-  </programme>
-  <programme start="20251218065000 +0000" stop="20251218074000 +0000" channel="AXN.webtv.sk">
+  <programme start="20251218052500 +0000" stop="20251218061500 +0000" channel="AXN.webtv.sk">
     <title lang="id">Vzpomínky III (5)</title>
   </programme>
-  <programme start="20251218074000 +0000" stop="20251218084000 +0000" channel="AXN.webtv.sk">
+  <programme start="20251218061500 +0000" stop="20251218070000 +0000" channel="AXN.webtv.sk">
+    <title lang="id">Hvězdná brána X (1)</title>
+  </programme>
+  <programme start="20251218070000 +0000" stop="20251218075000 +0000" channel="AXN.webtv.sk">
+    <title lang="id">Hvězdná brána X (2)</title>
+  </programme>
+  <programme start="20251218075000 +0000" stop="20251218084000 +0000" channel="AXN.webtv.sk">
+    <title lang="id">Vzpomínky III (5)</title>
+  </programme>
+  <programme start="20251218084000 +0000" stop="20251218093500 +0000" channel="AXN.webtv.sk">
     <title lang="id">Profil zločinu IV (1)</title>
   </programme>
-  <programme start="20251218084000 +0000" stop="20251218095000 +0000" channel="AXN.webtv.sk">
+  <programme start="20251218093500 +0000" stop="20251218104000 +0000" channel="AXN.webtv.sk">
     <title lang="id">Profil zločinu IV (2)</title>
   </programme>
-  <programme start="20251218095000 +0000" stop="20251218105500 +0000" channel="AXN.webtv.sk">
+  <programme start="20251218104000 +0000" stop="20251218114000 +0000" channel="AXN.webtv.sk">
     <title lang="id">Profil zločinu IV (3)</title>
   </programme>
-  <programme start="20251218105500 +0000" stop="20251218124500 +0000" channel="AXN.webtv.sk">
+  <programme start="20251218114000 +0000" stop="20251218132000 +0000" channel="AXN.webtv.sk">
     <title lang="id">Santův výcvik</title>
   </programme>
-  <programme start="20251218124500 +0000" stop="20251218143000 +0000" channel="AXN.webtv.sk">
+  <programme start="20251218132000 +0000" stop="20251218145500 +0000" channel="AXN.webtv.sk">
     <title lang="id">Jmelí a Molly</title>
   </programme>
-  <programme start="20251218143000 +0000" stop="20251218153000 +0000" channel="AXN.webtv.sk">
+  <programme start="20251218145500 +0000" stop="20251218155000 +0000" channel="AXN.webtv.sk">
     <title lang="id">Komisař Rex X (8)</title>
   </programme>
-  <programme start="20251218153000 +0000" stop="20251218162500 +0000" channel="AXN.webtv.sk">
+  <programme start="20251218155000 +0000" stop="20251218164000 +0000" channel="AXN.webtv.sk">
     <title lang="id">Lucifer I (12)</title>
   </programme>
-  <programme start="20251218162500 +0000" stop="20251218172000 +0000" channel="AXN.webtv.sk">
+  <programme start="20251218164000 +0000" stop="20251218173000 +0000" channel="AXN.webtv.sk">
     <title lang="id">Hvězdná brána X (3)</title>
   </programme>
-  <programme start="20251218172000 +0000" stop="20251218181500 +0000" channel="AXN.webtv.sk">
+  <programme start="20251218173000 +0000" stop="20251218182000 +0000" channel="AXN.webtv.sk">
     <title lang="id">Hvězdná brána X (4)</title>
   </programme>
-  <programme start="20251218181500 +0000" stop="20251218190500 +0000" channel="AXN.webtv.sk">
+  <programme start="20251218182000 +0000" stop="20251218190500 +0000" channel="AXN.webtv.sk">
     <title lang="id">Vzpomínky III (6)</title>
   </programme>
   <programme start="20251218190500 +0000" stop="20251218200000 +0000" channel="AXN.webtv.sk">
     <title lang="id">Lucifer I (13)</title>
   </programme>
-  <programme start="20251218200000 +0000" stop="20251218205500 +0000" channel="AXN.webtv.sk">
+  <programme start="20251218200000 +0000" stop="20251218205000 +0000" channel="AXN.webtv.sk">
     <title lang="id">FBI: International I (9)</title>
   </programme>
-  <programme start="20251218205500 +0000" stop="20251218215000 +0000" channel="AXN.webtv.sk">
+  <programme start="20251218205000 +0000" stop="20251218213500 +0000" channel="AXN.webtv.sk">
     <title lang="id">Námořní vyšetřovací služba: Havaj II (20)</title>
   </programme>
-  <programme start="20251218215000 +0000" stop="20251218224500 +0000" channel="AXN.webtv.sk">
+  <programme start="20251218213500 +0000" stop="20251218223000 +0000" channel="AXN.webtv.sk">
     <title lang="id">Námořní vyšetřovací služba: Havaj II (21)</title>
   </programme>
-  <programme start="20251218224500 +0000" stop="20251218232500 +0000" channel="AXN.webtv.sk">
+  <programme start="20251218223000 +0000" stop="20251218231000 +0000" channel="AXN.webtv.sk">
     <title lang="id">Námořní vyšetřovací služba: Havaj II (22)</title>
   </programme>
   <programme start="20251217220000 +0000" stop="20251217234000 +0000" channel="AXN White.webtv.sk">
@@ -14641,184 +14641,199 @@
   <programme start="20251218220000 +0000" stop="20251219041000 +0000" channel="Life TV.webtv.sk">
     <title lang="id">Program z Domu modlitieb a chvál v Kansas City</title>
   </programme>
-  <programme start="20251217222100 +0000" stop="20251218030900 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20251217222500 +0000" stop="20251218031300 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Záznam z rokovania zastupiteľstva KSK / 27.10.2025</title>
   </programme>
-  <programme start="20251218040000 +0000" stop="20251218040400 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20251218040000 +0000" stop="20251218040500 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Otcovia púšte</title>
   </programme>
-  <programme start="20251218040400 +0000" stop="20251218043900 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Michalovské správy 4.12.2025</title>
+  <programme start="20251218040500 +0000" stop="20251218043300 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Michalovské správy 11.12.2025</title>
   </programme>
-  <programme start="20251218043900 +0000" stop="20251218045400 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Evanjelium na dnes</title>
-  </programme>
-  <programme start="20251218045400 +0000" stop="20251218052700 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Michalovské správy 4.12.2025</title>
-  </programme>
-  <programme start="20251218052700 +0000" stop="20251218052900 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Charakterové minútky - Aktivita vs. Pasivita</title>
-  </programme>
-  <programme start="20251218052900 +0000" stop="20251218054900 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Sobranský magazín</title>
-  </programme>
-  <programme start="20251218054900 +0000" stop="20251218055500 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20251218043300 +0000" stop="20251218043500 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Litmanovská Vizionárka Iveta: Slovami sa nedá vyjadriť, aká je Panna Mária</title>
   </programme>
-  <programme start="20251218055500 +0000" stop="20251218070000 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20251218043500 +0000" stop="20251218045000 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Evanjelium na dnes</title>
+  </programme>
+  <programme start="20251218045000 +0000" stop="20251218051800 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Michalovské správy 11.12.2025</title>
+  </programme>
+  <programme start="20251218051800 +0000" stop="20251218052000 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Charakterové minútky - Aktivita vs. Pasivita</title>
+  </programme>
+  <programme start="20251218052000 +0000" stop="20251218053800 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Sobranský magazín</title>
+  </programme>
+  <programme start="20251218053800 +0000" stop="20251218054800 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Litmanovská vizionárka Iveta: Spomienka na prvý deň zjavení po 30tich rokoch - prvá časť</title>
+  </programme>
+  <programme start="20251218054800 +0000" stop="20251218055400 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Slovo - Ako zbaviť dom od zlých duchov</title>
+  </programme>
+  <programme start="20251218055400 +0000" stop="20251218060000 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Litmanovská Vizionárka Iveta: Slovami sa nedá vyjadriť, aká je Panna Mária</title>
+  </programme>
+  <programme start="20251218060000 +0000" stop="20251218070500 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Živý prenos - Katedrála Prešov - Sv. liturgia</title>
   </programme>
-  <programme start="20251218070000 +0000" stop="20251218071400 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20251218070500 +0000" stop="20251218071900 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Gréckokatolícky magazín - Beatifikácia P. P. Orosa</title>
   </programme>
-  <programme start="20251218071400 +0000" stop="20251218072000 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20251218071900 +0000" stop="20251218072500 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Litmanovská Vizionárka Iveta: Aká je moja obľúbená modlitba?</title>
   </programme>
-  <programme start="20251218072000 +0000" stop="20251218072500 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20251218072500 +0000" stop="20251218073000 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Otcovia púšte</title>
   </programme>
-  <programme start="20251218072500 +0000" stop="20251218075300 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20251218073000 +0000" stop="20251218074400 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Sobranský magazín</title>
   </programme>
-  <programme start="20251218075300 +0000" stop="20251218075500 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Charakterové minútky - Radosť z práce vs. Negativizmus</title>
-  </programme>
-  <programme start="20251218075500 +0000" stop="20251218084500 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Téma na Zemplíne - Ako sa na Vianoce pripravovali naši predkovia?</title>
-  </programme>
-  <programme start="20251218084500 +0000" stop="20251218085600 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Evanjelium na dnes</title>
-  </programme>
-  <programme start="20251218085600 +0000" stop="20251218092600 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Živý prenos - Litmanová - Modlitba sv. ruženca</title>
-  </programme>
-  <programme start="20251218092600 +0000" stop="20251218104400 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Živý prenos - Litmanová - Sv. liturgia</title>
-  </programme>
-  <programme start="20251218104400 +0000" stop="20251218105100 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Litmanovská Vizionárka Iveta: Aká je moja obľúbená modlitba?</title>
-  </programme>
-  <programme start="20251218105100 +0000" stop="20251218110700 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Gréckokatolícky magazín - Beatifikácia P. P. Orosa</title>
-  </programme>
-  <programme start="20251218110700 +0000" stop="20251218111000 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Litmanovská Vizionárka Iveta: Aká je moja obľúbená modlitba?</title>
-  </programme>
-  <programme start="20251218111000 +0000" stop="20251218112500 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Evanjelium na dnes</title>
-  </programme>
-  <programme start="20251218112500 +0000" stop="20251218114400 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Sobranský magazín</title>
-  </programme>
-  <programme start="20251218114400 +0000" stop="20251218114600 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Charakterové minútky - Iniciatíva vs. Ľahostajnosť</title>
-  </programme>
-  <programme start="20251218114600 +0000" stop="20251218121900 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Michalovské správy 4.12.2025</title>
-  </programme>
-  <programme start="20251218121900 +0000" stop="20251218122200 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Litmanovská Vizionárka Iveta: Slovami sa nedá vyjadriť, aká je Panna Mária</title>
-  </programme>
-  <programme start="20251218122200 +0000" stop="20251218125200 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Živý prenos - Kňazský seminár Prešov - Pobožnosť Putovania do Betlehema</title>
-  </programme>
-  <programme start="20251218125200 +0000" stop="20251218134700 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Michalovski nevesti i beťare</title>
-  </programme>
-  <programme start="20251218134700 +0000" stop="20251218135200 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Otcovia púšte</title>
-  </programme>
-  <programme start="20251218135200 +0000" stop="20251218143200 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Živý prenos - Litmanová - Korunka k Božiemu milosrdenstvu</title>
-  </programme>
-  <programme start="20251218143200 +0000" stop="20251218143700 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Charakterové minútky - Tímovosť vs. Individualizmus</title>
-  </programme>
-  <programme start="20251218143700 +0000" stop="20251218145000 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Gréckokatolícky magazín - Beatifikácia P. P. Orosa</title>
-  </programme>
-  <programme start="20251218145000 +0000" stop="20251218145200 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Charakterové minútky - Ochota vs. Neochota</title>
-  </programme>
-  <programme start="20251218145200 +0000" stop="20251218152600 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Michalovské správy 4.12.2025</title>
-  </programme>
-  <programme start="20251218152600 +0000" stop="20251218152700 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Charakterové minútky - Radosť z práce vs. Negativizmus</title>
-  </programme>
-  <programme start="20251218152700 +0000" stop="20251218154400 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Sobranský magazín</title>
-  </programme>
-  <programme start="20251218154400 +0000" stop="20251218154800 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Litmanovská Vizionárka Iveta: Slovami sa nedá vyjadriť, aká je Panna Mária</title>
-  </programme>
-  <programme start="20251218154800 +0000" stop="20251218155200 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Otcovia púšte</title>
-  </programme>
-  <programme start="20251218155200 +0000" stop="20251218160400 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Evanjelium na dnes</title>
-  </programme>
-  <programme start="20251218160400 +0000" stop="20251218160700 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Litmanovská Vizionárka Iveta: Aká je moja obľúbená modlitba?</title>
-  </programme>
-  <programme start="20251218160700 +0000" stop="20251218162100 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Gréckokatolícky magazín - Beatifikácia P. P. Orosa</title>
-  </programme>
-  <programme start="20251218162100 +0000" stop="20251218163000 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Slovo - Ako zbaviť dom od zlých duchov</title>
-  </programme>
-  <programme start="20251218163000 +0000" stop="20251218164100 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Litmanovská Vizionárka Iveta: Prečo sa modliť ruženec?</title>
-  </programme>
-  <programme start="20251218164100 +0000" stop="20251218174100 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Živý prenos - Bazilika Ľutina - Sv. liturgia</title>
-  </programme>
-  <programme start="20251218174100 +0000" stop="20251218182900 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Ostroški</title>
-  </programme>
-  <programme start="20251218182900 +0000" stop="20251218183600 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Slovo - Ako zbaviť dom od zlých duchov</title>
-  </programme>
-  <programme start="20251218183600 +0000" stop="20251218184100 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Litmanovská Vizionárka Iveta: Slovami sa nedá vyjadriť, aká je Panna Mária</title>
-  </programme>
-  <programme start="20251218184100 +0000" stop="20251218192900 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Živý prenos - Kňazský seminár Užhorod - Večiereň</title>
-  </programme>
-  <programme start="20251218192900 +0000" stop="20251218193100 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Litmanovská Vizionárka Iveta: Slovami sa nedá vyjadriť, aká je Panna Mária</title>
-  </programme>
-  <programme start="20251218193100 +0000" stop="20251218194000 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Varenie v lese - Jelenie ragú</title>
-  </programme>
-  <programme start="20251218194000 +0000" stop="20251218202900 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Téma na Zemplíne - Ako sa na Vianoce pripravovali naši predkovia?</title>
-  </programme>
-  <programme start="20251218202900 +0000" stop="20251218203100 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Charakterové minútky - Aktivita vs. Pasivita</title>
-  </programme>
-  <programme start="20251218203100 +0000" stop="20251218204500 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Hutorime i bisidujeme - Pinkovce</title>
-  </programme>
-  <programme start="20251218204500 +0000" stop="20251218213600 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Zemplínska šírava - Príbeh vody I</title>
-  </programme>
-  <programme start="20251218213600 +0000" stop="20251218215200 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20251218074400 +0000" stop="20251218075800 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Hutorime i bisidujeme - Poruba pod Vihorlatom</title>
   </programme>
-  <programme start="20251218215200 +0000" stop="20251218215800 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20251218075800 +0000" stop="20251218080000 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Charakterové minútky - Radosť z práce vs. Negativizmus</title>
+  </programme>
+  <programme start="20251218080000 +0000" stop="20251218085000 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Téma na Zemplíne - Ako sa na Vianoce pripravovali naši predkovia?</title>
+  </programme>
+  <programme start="20251218085000 +0000" stop="20251218090000 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Evanjelium na dnes</title>
+  </programme>
+  <programme start="20251218090000 +0000" stop="20251218093000 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Živý prenos - Litmanová - Modlitba sv. ruženca</title>
+  </programme>
+  <programme start="20251218093000 +0000" stop="20251218104800 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Živý prenos - Litmanová - Sv. liturgia</title>
+  </programme>
+  <programme start="20251218104800 +0000" stop="20251218105500 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Litmanovská Vizionárka Iveta: Aká je moja obľúbená modlitba?</title>
+  </programme>
+  <programme start="20251218105500 +0000" stop="20251218111100 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Gréckokatolícky magazín - Beatifikácia P. P. Orosa</title>
+  </programme>
+  <programme start="20251218111100 +0000" stop="20251218111500 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Litmanovská Vizionárka Iveta: Aká je moja obľúbená modlitba?</title>
+  </programme>
+  <programme start="20251218111500 +0000" stop="20251218113000 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Evanjelium na dnes</title>
+  </programme>
+  <programme start="20251218113000 +0000" stop="20251218115000 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Sobranský magazín</title>
+  </programme>
+  <programme start="20251218115000 +0000" stop="20251218121500 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Michalovské správy 11.12.2025</title>
+  </programme>
+  <programme start="20251218121500 +0000" stop="20251218122200 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Slovo - Ako zbaviť dom od zlých duchov</title>
   </programme>
-  <programme start="20251218215800 +0000" stop="20251218221800 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Litmanovská Vizionárka Ivetka: O depresiách a úzkostiach</title>
+  <programme start="20251218122200 +0000" stop="20251218123000 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Litmanovská Vizionárka Iveta: O čom je štastie</title>
   </programme>
-  <programme start="20251218221800 +0000" stop="20251218223300 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Hutorime i bisidujeme - Priekopa</title>
+  <programme start="20251218123000 +0000" stop="20251218130000 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Živý prenos - Kňazský seminár Prešov - Pobožnosť Putovania do Betlehema</title>
   </programme>
-  <programme start="20251218223300 +0000" stop="20251218223500 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20251218130000 +0000" stop="20251218135500 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Michalovski nevesti i beťare</title>
+  </programme>
+  <programme start="20251218135500 +0000" stop="20251218140000 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Otcovia púšte</title>
+  </programme>
+  <programme start="20251218140000 +0000" stop="20251218144000 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Živý prenos - Litmanová - Korunka k Božiemu milosrdenstvu</title>
+  </programme>
+  <programme start="20251218144000 +0000" stop="20251218144500 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Charakterové minútky - Tímovosť vs. Individualizmus</title>
+  </programme>
+  <programme start="20251218144500 +0000" stop="20251218145900 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Gréckokatolícky magazín - Beatifikácia P. P. Orosa</title>
+  </programme>
+  <programme start="20251218145900 +0000" stop="20251218150000 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Charakterové minútky - Ochota vs. Neochota</title>
   </programme>
-  <programme start="20251218223500 +0000" stop="20251219035700 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20251218150000 +0000" stop="20251218152900 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Michalovské správy 11.12.2025</title>
+  </programme>
+  <programme start="20251218152900 +0000" stop="20251218153500 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Charakterové minútky - Radosť z práce vs. Negativizmus</title>
+  </programme>
+  <programme start="20251218153500 +0000" stop="20251218155000 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Sobranský magazín</title>
+  </programme>
+  <programme start="20251218155000 +0000" stop="20251218155500 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Litmanovská Vizionárka Iveta: Slovami sa nedá vyjadriť, aká je Panna Mária</title>
+  </programme>
+  <programme start="20251218155500 +0000" stop="20251218160000 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Otcovia púšte</title>
+  </programme>
+  <programme start="20251218160000 +0000" stop="20251218161100 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Evanjelium na dnes</title>
+  </programme>
+  <programme start="20251218161100 +0000" stop="20251218161500 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Litmanovská Vizionárka Iveta: Aká je moja obľúbená modlitba?</title>
+  </programme>
+  <programme start="20251218161500 +0000" stop="20251218162900 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Gréckokatolícky magazín - Beatifikácia P. P. Orosa</title>
+  </programme>
+  <programme start="20251218162900 +0000" stop="20251218163500 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Slovo - Ako zbaviť dom od zlých duchov</title>
+  </programme>
+  <programme start="20251218163500 +0000" stop="20251218164800 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Litmanovská vizionárka Iveta: Spomienka na prvý deň zjavení po 30tich rokoch - prvá časť</title>
+  </programme>
+  <programme start="20251218164800 +0000" stop="20251218170000 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Litmanovská Vizionárka Iveta: Prečo sa modliť ruženec?</title>
+  </programme>
+  <programme start="20251218170000 +0000" stop="20251218180000 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Živý prenos - Bazilika Ľutina - Sv. liturgia</title>
+  </programme>
+  <programme start="20251218180000 +0000" stop="20251218184800 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Ostroški</title>
+  </programme>
+  <programme start="20251218184800 +0000" stop="20251218185500 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Slovo - Ako zbaviť dom od zlých duchov</title>
+  </programme>
+  <programme start="20251218185500 +0000" stop="20251218190000 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Litmanovská Vizionárka Iveta: Slovami sa nedá vyjadriť, aká je Panna Mária</title>
+  </programme>
+  <programme start="20251218190000 +0000" stop="20251218194900 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Živý prenos - Kňazský seminár Užhorod - Večiereň</title>
+  </programme>
+  <programme start="20251218194900 +0000" stop="20251218195100 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Litmanovská Vizionárka Iveta: Slovami sa nedá vyjadriť, aká je Panna Mária</title>
+  </programme>
+  <programme start="20251218195100 +0000" stop="20251218200000 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Varenie v lese - Jelenie ragú</title>
+  </programme>
+  <programme start="20251218200000 +0000" stop="20251218204800 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Téma na Zemplíne - Ako sa na Vianoce pripravovali naši predkovia?</title>
+  </programme>
+  <programme start="20251218204800 +0000" stop="20251218205100 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Charakterové minútky - Aktivita vs. Pasivita</title>
+  </programme>
+  <programme start="20251218205100 +0000" stop="20251218210500 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Hutorime i bisidujeme - Pinkovce</title>
+  </programme>
+  <programme start="20251218210500 +0000" stop="20251218214400 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Zemplínska šírava - Príbeh vody I</title>
+  </programme>
+  <programme start="20251218214400 +0000" stop="20251218220000 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Hutorime i bisidujeme - Poruba pod Vihorlatom</title>
+  </programme>
+  <programme start="20251218220000 +0000" stop="20251218220600 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Slovo - Ako zbaviť dom od zlých duchov</title>
+  </programme>
+  <programme start="20251218220600 +0000" stop="20251218222700 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Litmanovská Vizionárka Ivetka: O depresiách a úzkostiach</title>
+  </programme>
+  <programme start="20251218222700 +0000" stop="20251218224200 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Hutorime i bisidujeme - Priekopa</title>
+  </programme>
+  <programme start="20251218224200 +0000" stop="20251218224300 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Charakterové minútky - Ochota vs. Neochota</title>
+  </programme>
+  <programme start="20251218224300 +0000" stop="20251219040000 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Záznam z rokovania zastupiteľstva PSK / 13.10.2025</title>
   </programme>
   <programme start="20251217230000 +0000" stop="20251218000000 +0000" channel="TV Poprad.webtv.sk">

@@ -631,86 +631,95 @@
     <programme start="20251215150000 +0000" stop="20251215170000 +0000" channel="now-80s.mewatch">
         <title>Late Night Love! Top 25 - EP1</title>
     </programme>
-    <programme start="20251215170000 +0000" stop="20251215190000 +0000" channel="now-80s.mewatch">
-        <title>Surely Not A Cover? Top 25 - EP1</title>
+    <programme start="20251215162500 +0000" stop="20251215170000 +0000" channel="now-80s.mewatch">
+        <title>Your Festive Party Channel! - EP1</title>
     </programme>
-    <programme start="20251215190000 +0000" stop="20251215210000 +0000" channel="now-80s.mewatch">
-        <title>Steps&#039; Eurovision Night 80s! - EP1</title>
+    <programme start="20251215170000 +0000" stop="20251215202000 +0000" channel="now-80s.mewatch">
+        <title>Barrioke Karaoke! 80s v 90s - EP1</title>
     </programme>
-    <programme start="20251215210000 +0000" stop="20251215220000 +0000" channel="now-80s.mewatch">
-        <title>Late Night Love! Top 25 - EP1</title>
+    <programme start="20251215202000 +0000" stop="20251215210000 +0000" channel="now-80s.mewatch">
+        <title>Your Festive Party Channel! - EP1</title>
     </programme>
-    <programme start="20251215220000 +0000" stop="20251216003000 +0000" channel="now-80s.mewatch">
-        <title>Limahl&#039;s Frocky Horror Show! - EP1</title>
+    <programme start="20251215210000 +0000" stop="20251215230000 +0000" channel="now-80s.mewatch">
+        <title>The UK&#039;s Most Streamed Xmas Songs! - EP1</title>
     </programme>
-    <programme start="20251216003000 +0000" stop="20251216010000 +0000" channel="now-80s.mewatch">
-        <title>First Blast of Summer! - EP1</title>
+    <programme start="20251215230000 +0000" stop="20251216022000 +0000" channel="now-80s.mewatch">
+        <title>Mike Read&#039;s Superstore of Hits! - EP1</title>
     </programme>
-    <programme start="20251216010000 +0000" stop="20251216020000 +0000" channel="now-80s.mewatch">
-        <title>Eurovision Winners - and Losers! - EP1</title>
+    <programme start="20251216022000 +0000" stop="20251216030000 +0000" channel="now-80s.mewatch">
+        <title>Hits That Missed! - EP1</title>
     </programme>
-    <programme start="20251216020000 +0000" stop="20251216093000 +0000" channel="now-80s.mewatch">
-        <title>Most Weeks in US Chart? Top 100 - EP1</title>
+    <programme start="20251216030000 +0000" stop="20251216050000 +0000" channel="now-80s.mewatch">
+        <title>Complete George Michael: 1982-1989 - EP1</title>
     </programme>
-    <programme start="20251216093000 +0000" stop="20251216103000 +0000" channel="now-80s.mewatch">
-        <title>Surely Not A Cover? Top 25 - EP1</title>
+    <programme start="20251216050000 +0000" stop="20251216083000 +0000" channel="now-80s.mewatch">
+        <title>Pat Sharp&#039;s House of Fun 40 - EP1</title>
     </programme>
-    <programme start="20251216103000 +0000" stop="20251216110000 +0000" channel="now-80s.mewatch">
-        <title>That 80s Friday Feeling! - EP1</title>
+    <programme start="20251216083000 +0000" stop="20251216090000 +0000" channel="now-80s.mewatch">
+        <title>Your Festive Party Channel! - EP1</title>
     </programme>
-    <programme start="20251216110000 +0000" stop="20251216141500 +0000" channel="now-80s.mewatch">
-        <title>Bruno Brookes UK Top 40 of the 80s - EP1</title>
+    <programme start="20251216090000 +0000" stop="20251216105000 +0000" channel="now-80s.mewatch">
+        <title>Christmas Crackers! 1980-1989 - EP1</title>
     </programme>
-    <programme start="20251216141500 +0000" stop="20251216150000 +0000" channel="now-80s.mewatch">
-        <title>Get Fresh At The Weekend! - EP1</title>
+    <programme start="20251216105000 +0000" stop="20251216110000 +0000" channel="now-80s.mewatch">
+        <title>Your Festive Party Channel! - EP1</title>
     </programme>
-    <programme start="20251216150000 +0000" stop="20251216165000 +0000" channel="now-80s.mewatch">
-        <title>Cheryl Baker: Record Breaking Hits - EP1</title>
+    <programme start="20251216110000 +0000" stop="20251216123000 +0000" channel="now-80s.mewatch">
+        <title>70s v 80s Xmas Party! - EP1</title>
     </programme>
-    <programme start="20251215160000 +0000" stop="20251215170500 +0000" channel="now-70s.mewatch">
-        <title>Total Legends! 1970-1979 - EP1</title>
+    <programme start="20251216123000 +0000" stop="20251216130000 +0000" channel="now-80s.mewatch">
+        <title>Your Festive Party Channel! - EP1</title>
     </programme>
-    <programme start="20251215170500 +0000" stop="20251215172500 +0000" channel="now-70s.mewatch">
-        <title>Magic Moments! The 70s - EP1</title>
+    <programme start="20251216130000 +0000" stop="20251216140000 +0000" channel="now-80s.mewatch">
+        <title>Pete Waterman&#039;s Xmas in the 80s - EP1</title>
     </programme>
-    <programme start="20251215172500 +0000" stop="20251215201500 +0000" channel="now-70s.mewatch">
-        <title>Pat Sharp&#039;s One Hit Wonders! 70-79 - EP1</title>
+    <programme start="20251216140000 +0000" stop="20251216161000 +0000" channel="now-80s.mewatch">
+        <title>The UK&#039;s Most Streamed Xmas Songs! - EP1</title>
     </programme>
-    <programme start="20251215201500 +0000" stop="20251215202500 +0000" channel="now-70s.mewatch">
-        <title>1976 Unleashed! - EP1</title>
+    <programme start="20251215160000 +0000" stop="20251215171500 +0000" channel="now-70s.mewatch">
+        <title>Bruno Brookes UK Top 40 of Xmas - EP1</title>
     </programme>
-    <programme start="20251215202500 +0000" stop="20251215210000 +0000" channel="now-70s.mewatch">
-        <title>Simon Bates Golden Hour: 1976 - EP1</title>
+    <programme start="20251215171500 +0000" stop="20251215180000 +0000" channel="now-70s.mewatch">
+        <title>As Noddy Says.. It&#039;s Christmaaas! - EP1</title>
     </programme>
-    <programme start="20251215210000 +0000" stop="20251215232000 +0000" channel="now-70s.mewatch">
-        <title>Rustie Lee&#039;s Eat To The Beat! - EP1</title>
+    <programme start="20251215180000 +0000" stop="20251215220000 +0000" channel="now-70s.mewatch">
+        <title>NOW 70s presents NOW 60s! - EP1</title>
     </programme>
-    <programme start="20251215232000 +0000" stop="20251216000000 +0000" channel="now-70s.mewatch">
-        <title>Spring Has Sprung! - EP1</title>
+    <programme start="20251215220000 +0000" stop="20251216030000 +0000" channel="now-70s.mewatch">
+        <title>One Hit Wonders! 1970-1979 - EP1</title>
     </programme>
-    <programme start="20251216000000 +0000" stop="20251216093000 +0000" channel="now-70s.mewatch">
-        <title>Every No.1 of the 70s! - EP1</title>
+    <programme start="20251216030000 +0000" stop="20251216050000 +0000" channel="now-70s.mewatch">
+        <title>Pat Sharp&#039;s Bad Hair - Big Tunes! - EP1</title>
     </programme>
-    <programme start="20251216093000 +0000" stop="20251216103000 +0000" channel="now-70s.mewatch">
-        <title>Total Legends! 1970-1979 - EP1</title>
+    <programme start="20251216050000 +0000" stop="20251216060000 +0000" channel="now-70s.mewatch">
+        <title>We Will Rock You! - EP1</title>
     </programme>
-    <programme start="20251216103000 +0000" stop="20251216103500 +0000" channel="now-70s.mewatch">
-        <title>Every No.1 of the 70s! - EP1</title>
+    <programme start="20251216060000 +0000" stop="20251216072500 +0000" channel="now-70s.mewatch">
+        <title>20 Truckin&#039; Good Tunes! - EP1</title>
     </programme>
-    <programme start="20251216103500 +0000" stop="20251216110000 +0000" channel="now-70s.mewatch">
-        <title>70s Love Songs - EP1</title>
+    <programme start="20251216072500 +0000" stop="20251216080000 +0000" channel="now-70s.mewatch">
+        <title>As Noddy Says.. It&#039;s Christmaaas! - EP1</title>
+    </programme>
+    <programme start="20251216080000 +0000" stop="20251216110000 +0000" channel="now-70s.mewatch">
+        <title>What The Heck Kept This Off No.1? - EP1</title>
     </programme>
     <programme start="20251216110000 +0000" stop="20251216130000 +0000" channel="now-70s.mewatch">
-        <title>Simon Bates&#039; Rock Ballads! 1970-79 - EP1</title>
+        <title>Festive Faves! 70s v 60s v 50s - EP1</title>
     </programme>
-    <programme start="20251216130000 +0000" stop="20251216150000 +0000" channel="now-70s.mewatch">
-        <title>Torn Between Two Lovers! Top 25 - EP1</title>
+    <programme start="20251216130000 +0000" stop="20251216145000 +0000" channel="now-70s.mewatch">
+        <title>Derek Griffiths&#039; Cartoon Xmas! - EP1</title>
     </programme>
-    <programme start="20251216150000 +0000" stop="20251216160000 +0000" channel="now-70s.mewatch">
-        <title>Abba v Bee Gees: Love Songs - EP1</title>
+    <programme start="20251216145000 +0000" stop="20251216150000 +0000" channel="now-70s.mewatch">
+        <title>As Noddy Says.. It&#039;s Christmaaas! - EP1</title>
     </programme>
-    <programme start="20251216160000 +0000" stop="20251216162500 +0000" channel="now-70s.mewatch">
-        <title>70s Love Songs - EP1</title>
+    <programme start="20251216150000 +0000" stop="20251216155000 +0000" channel="now-70s.mewatch">
+        <title>Christmas No.1s 1970-1979 - EP1</title>
+    </programme>
+    <programme start="20251216155000 +0000" stop="20251216160000 +0000" channel="now-70s.mewatch">
+        <title>Simply Having A Wonderful Xmas! - EP1</title>
+    </programme>
+    <programme start="20251216160000 +0000" stop="20251216170000 +0000" channel="now-70s.mewatch">
+        <title>We Will Rock You! - EP1</title>
     </programme>
     <programme start="20251215151000 +0000" stop="20251215165000 +0000" channel="cinemaworld.mewatch">
         <title>The Traveller: The Naked King</title>
