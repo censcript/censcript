@@ -1331,7 +1331,7 @@
     <title lang="id">Hodiny zúfalstva I (1)</title>
   </programme>
   <programme start="20251218080000 +0000" stop="20251218090000 +0000" channel="JOJ Svet.webtv.sk">
-    <title lang="id">Osudné technické zlyhania</title>
+    <title lang="id">Osudné technické zlyhania I (6)</title>
   </programme>
   <programme start="20251218090000 +0000" stop="20251218100000 +0000" channel="JOJ Svet.webtv.sk">
     <title lang="id">Mimozemské spisy: Znovuotvorené I (4)</title>
@@ -1367,7 +1367,7 @@
     <title lang="id">Hodiny zúfalstva I (1)</title>
   </programme>
   <programme start="20251218160000 +0000" stop="20251218170000 +0000" channel="JOJ Svet.webtv.sk">
-    <title lang="id">Osudné technické zlyhania</title>
+    <title lang="id">Osudné technické zlyhania I (6)</title>
   </programme>
   <programme start="20251218170000 +0000" stop="20251218180000 +0000" channel="JOJ Svet.webtv.sk">
     <title lang="id">Mimozemské spisy: Znovuotvorené I (4)</title>
@@ -19556,7 +19556,7 @@
     <title lang="id">REMASTERY</title>
   </programme>
   <programme start="20251218170000 +0000" stop="20251218180000 +0000" channel="Óčko Star.webtv.sk">
-    <title lang="id">BEST OF ROXETTE</title>
+    <title lang="id">BEST OF THE ROLLING STONES</title>
   </programme>
   <programme start="20251218180000 +0000" stop="20251218190000 +0000" channel="Óčko Star.webtv.sk">
     <title lang="id">80&apos;s HITPARÁDA</title>

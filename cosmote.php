@@ -58,6 +58,10 @@
     <title>Football: Olympiacos - Iraklis</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251218062000 +0700" stop="20251218073000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Greek Cup Time</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251217044000 +0700" stop="20251217065000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Panetolikos - AEK</title>
     <desc>Live: Tidak</desc>
@@ -126,14 +130,6 @@
     <title>Football: Udinese - SSC Napoli</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251217050000 +0700" stop="20251217052500 +0700" channel="COSMOTE Sport 3 HD">
-    <title>William Hill Scottish Premiership - Highlights</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251217052500 +0700" stop="20251217055500 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Copa Libertadores 2025 - Highlights</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251217055500 +0700" stop="20251217065500 +0700" channel="COSMOTE Sport 3 HD">
     <title>Emirates FA Cup 2025-26 - Highlights</title>
     <desc>Live: Tidak</desc>
@@ -188,10 +184,6 @@
 </programme>
 <programme start="20251218050000 +0700" stop="20251218070000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: PAOK - Marko</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251217024500 +0700" stop="20251217054500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Denver Nuggets - Houston Rockets</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251217054500 +0700" stop="20251217071500 +0700" channel="COSMOTE Sport 4 HD">
@@ -268,10 +260,6 @@
 </programme>
 <programme start="20251218051000 +0700" stop="20251218071500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Unicaja - Karditsa</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251217030000 +0700" stop="20251217050500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Basketball: Szolnoki Olaj - AEK</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251217050500 +0700" stop="20251217061000 +0700" channel="COSMOTE Sport 5 HD">
@@ -376,6 +364,10 @@
 </programme>
 <programme start="20251218054500 +0700" stop="20251218063500 +0700" channel="COSMOTE Sport 5 HD">
     <title>2025 GT World Challenge Europe</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251218063500 +0700" stop="20251218070500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Sports Classics: Gearing Up 2024 E11</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251217034500 +0700" stop="20251217064500 +0700" channel="COSMOTE Sport 6 HD">
