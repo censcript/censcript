@@ -721,10 +721,10 @@
 <programme start="20251216154500 +0000" stop="20251216155500 +0000" channel="Cartoonito.skyde">
     <title>Tom und Jerry</title>
 </programme>
-<programme start="20251216155500 +0000" stop="20251216160500 +0000" channel="Cartoonito.skyde">
+<programme start="20251216155500 +0000" stop="20251216161000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20251216160500 +0000" stop="20251216162500 +0000" channel="Cartoonito.skyde">
+<programme start="20251216161000 +0000" stop="20251216162500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
 <programme start="20251216162500 +0000" stop="20251216163500 +0000" channel="Cartoonito.skyde">
@@ -778,10 +778,10 @@
 <programme start="20251216191000 +0000" stop="20251216192500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20251216192500 +0000" stop="20251216193500 +0000" channel="Cartoonito.skyde">
+<programme start="20251216192500 +0000" stop="20251216194000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20251216193500 +0000" stop="20251216195500 +0000" channel="Cartoonito.skyde">
+<programme start="20251216194000 +0000" stop="20251216195500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
 <programme start="20251216195500 +0000" stop="20251216200500 +0000" channel="Cartoonito.skyde">
@@ -817,10 +817,10 @@
 <programme start="20251216213500 +0000" stop="20251216215000 +0000" channel="Cartoonito.skyde">
     <title>Batwheels</title>
 </programme>
-<programme start="20251216215000 +0000" stop="20251216220000 +0000" channel="Cartoonito.skyde">
+<programme start="20251216215000 +0000" stop="20251216220500 +0000" channel="Cartoonito.skyde">
     <title>Bugs Bunnys Baumeister</title>
 </programme>
-<programme start="20251216220000 +0000" stop="20251216222000 +0000" channel="Cartoonito.skyde">
+<programme start="20251216220500 +0000" stop="20251216222000 +0000" channel="Cartoonito.skyde">
     <title>Bugs Bunnys Baumeister</title>
 </programme>
 <programme start="20251216222000 +0000" stop="20251216223000 +0000" channel="Cartoonito.skyde">
@@ -937,8 +937,11 @@
 <programme start="20251216083000 +0000" stop="20251216103000 +0000" channel="DAZN 1 HD.skyde">
     <title>Bundesliga: Bayer 04 Leverkusen - 1. FC Köln</title>
 </programme>
-<programme start="20251216103000 +0000" stop="20251216130000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20251216103000 +0000" stop="20251216122500 +0000" channel="DAZN 1 HD.skyde">
     <title>Bundesliga: 1. FC Union Berlin - RB Leipzig</title>
+</programme>
+<programme start="20251216122500 +0000" stop="20251216130000 +0000" channel="DAZN 1 HD.skyde">
+    <title>Best of DAZN: Highlights</title>
 </programme>
 <programme start="20251216130000 +0000" stop="20251216145000 +0000" channel="DAZN 1 HD.skyde">
     <title>LaLiga 25/26: FC Barcelona - CA Osasuna</title>
@@ -946,8 +949,11 @@
 <programme start="20251216145000 +0000" stop="20251216152000 +0000" channel="DAZN 1 HD.skyde">
     <title>FC Bayern World Squad: Class of &#039;25 - Folge 1</title>
 </programme>
-<programme start="20251216152000 +0000" stop="20251216162000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20251216152000 +0000" stop="20251216160000 +0000" channel="DAZN 1 HD.skyde">
     <title>FC Bayern World Squad: Class of &#039;25 - Folge 2</title>
+</programme>
+<programme start="20251216160000 +0000" stop="20251216162000 +0000" channel="DAZN 1 HD.skyde">
+    <title>Best of DAZN: Highlights</title>
 </programme>
 <programme start="20251216162000 +0000" stop="20251216173000 +0000" channel="DAZN 1 HD.skyde">
     <title>ALL IN - Die Bundesliga Highlight Show: 14. Spieltag</title>
@@ -955,17 +961,17 @@
 <programme start="20251216173000 +0000" stop="20251216192000 +0000" channel="DAZN 1 HD.skyde">
     <title>Bundesliga: SV Werder Bremen - VFB Stuttgart</title>
 </programme>
-<programme start="20251216192000 +0000" stop="20251216194000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20251216192000 +0000" stop="20251216195000 +0000" channel="DAZN 1 HD.skyde">
     <title>Serie A Highlightshow: 15. Spieltag</title>
 </programme>
-<programme start="20251216194000 +0000" stop="20251216215500 +0000" channel="DAZN 1 HD.skyde">
-    <title>Copa del Rey 25/26: CD Guadalajara - FC Barcelona</title>
-</programme>
-<programme start="20251216215500 +0000" stop="20251216222500 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20251216195000 +0000" stop="20251216202000 +0000" channel="DAZN 1 HD.skyde">
     <title>Ligue 1 Highlightshow 2025/26: 16. Spieltag</title>
 </programme>
-<programme start="20251216222500 +0000" stop="20251216230000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20251216202000 +0000" stop="20251216211500 +0000" channel="DAZN 1 HD.skyde">
     <title>FC Bayern World Squad: Class of &#039;25 - Folge 3</title>
+</programme>
+<programme start="20251216211500 +0000" stop="20251216230000 +0000" channel="DAZN 1 HD.skyde">
+    <title>Bundesliga: FC Bayern München - 1. FSV Mainz 05</title>
 </programme>
 <programme start="20251215230000 +0000" stop="20251216070000 +0000" channel="DAZN 2 HD.skyde">
     <title>Sendepause</title>
@@ -3226,9 +3232,6 @@
 <programme start="20251216210000 +0000" stop="20251216230000 +0000" channel="Sky Sport UHD.skyde">
     <title>F1: Rennen - GP Abu Dhabi</title>
 </programme>
-<programme start="20251215231000 +0000" stop="20251215233000 +0000" channel="Sky Sport 1 HD.skyde">
-    <title>Es folgt: Basketball NBA</title>
-</programme>
 <programme start="20251215233000 +0000" stop="20251216000000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime</title>
 </programme>
@@ -3667,10 +3670,10 @@
 <programme start="20251216064000 +0000" stop="20251216082000 +0000" channel="Warner TV Film HD.skyde">
     <title>Jailhouse Rock</title>
 </programme>
-<programme start="20251216082000 +0000" stop="20251216100500 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20251216082000 +0000" stop="20251216101000 +0000" channel="Warner TV Film HD.skyde">
     <title>Ob blond - ob braun</title>
 </programme>
-<programme start="20251216100500 +0000" stop="20251216120000 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20251216101000 +0000" stop="20251216120000 +0000" channel="Warner TV Film HD.skyde">
     <title>Get Smart</title>
 </programme>
 <programme start="20251216120000 +0000" stop="20251216134000 +0000" channel="Warner TV Film HD.skyde">

@@ -3832,6 +3832,9 @@
     <programme start="20251215230000 +0000" stop="20251215231500 +0000" channel="NHK World Premium HD.starhub">
         <title>Drama Serial &quot;The Ghost Writer&#039;s Wife&quot; Eps. 57</title>
     </programme>
+    <programme start="20251215231500 +0000" stop="20251215235500 +0000" channel="NHK World Premium HD.starhub">
+        <title>asaichi</title>
+    </programme>
     <programme start="20251215235500 +0000" stop="20251216000000 +0000" channel="NHK World Premium HD.starhub">
         <title>News &amp; Weather</title>
     </programme>

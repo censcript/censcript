@@ -4025,7 +4025,7 @@
     <title>SpongeBob SquarePants</title>
 </programme>
 <programme start="20251216113000 +0000" stop="20251216133000 +0000" channel="GTV.mncvision">
-    <title>Mission: Impossible Rogue...</title>
+    <title>Mission: Impossible II</title>
 </programme>
 <programme start="20251216133000 +0000" stop="20251216150000 +0000" channel="GTV.mncvision">
     <title>Shushan Subdues Evil</title>
@@ -4076,7 +4076,7 @@
     <title>SpongeBob SquarePants</title>
 </programme>
 <programme start="20251216113000 +0000" stop="20251216133000 +0000" channel="GTV HD.mncvision">
-    <title>Mission: Impossible Rogue...</title>
+    <title>Mission: Impossible II</title>
 </programme>
 <programme start="20251216133000 +0000" stop="20251216150000 +0000" channel="GTV HD.mncvision">
     <title>Shushan Subdues Evil</title>
