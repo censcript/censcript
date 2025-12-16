@@ -110,6 +110,10 @@
     <title>Football: Udinese - SSC Napoli</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251217222500 +0700" stop="20251217230000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Sports Classics: Sporting Countdowns</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251216210000 +0700" stop="20251216230000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: APOEL - Freedom24 Krasava E.N.Y</title>
     <desc>Live: Tidak</desc>
@@ -246,10 +250,6 @@
     <title>Basketball: Szolnoki Olaj - AEK</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251216210000 +0700" stop="20251216220000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251216220000 +0700" stop="20251216230000 +0700" channel="COSMOTE Sport 5 HD">
     <title>WRC 2025</title>
     <desc>Live: Tidak</desc>
@@ -350,8 +350,8 @@
     <title>WRC</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251216193000 +0700" stop="20251216214500 +0700" channel="COSMOTE Sport 6 HD">
-    <title>2025 Premier Padel Tour Finals</title>
+<programme start="20251217220000 +0700" stop="20251217230000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251216214500 +0700" stop="20251217011500 +0700" channel="COSMOTE Sport 6 HD">
@@ -401,6 +401,10 @@
 <programme start="20251217200000 +0700" stop="20251217223000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: 2025 Next Gen ATP Finals (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20251217223000 +0700" stop="20251217230000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Sports Classics: The Outdoor Sports Show 2024 E11</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251216210000 +0700" stop="20251216230000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
