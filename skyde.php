@@ -3223,9 +3223,6 @@
 <programme start="20251216210000 +0000" stop="20251216230000 +0000" channel="Sky Sport UHD.skyde">
     <title>F1: Rennen - GP Abu Dhabi</title>
 </programme>
-<programme start="20251215231000 +0000" stop="20251215233000 +0000" channel="Sky Sport 1 HD.skyde">
-    <title>Es folgt: Basketball NBA</title>
-</programme>
 <programme start="20251215233000 +0000" stop="20251216000000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime</title>
 </programme>
@@ -3625,10 +3622,10 @@
 <programme start="20251216064000 +0000" stop="20251216082000 +0000" channel="Warner TV Film.skyde">
     <title>Jailhouse Rock</title>
 </programme>
-<programme start="20251216082000 +0000" stop="20251216101000 +0000" channel="Warner TV Film.skyde">
+<programme start="20251216082000 +0000" stop="20251216100500 +0000" channel="Warner TV Film.skyde">
     <title>Ob blond - ob braun</title>
 </programme>
-<programme start="20251216101000 +0000" stop="20251216120000 +0000" channel="Warner TV Film.skyde">
+<programme start="20251216100500 +0000" stop="20251216120000 +0000" channel="Warner TV Film.skyde">
     <title>Get Smart</title>
 </programme>
 <programme start="20251216120000 +0000" stop="20251216134000 +0000" channel="Warner TV Film.skyde">
