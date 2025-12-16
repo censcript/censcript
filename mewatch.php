@@ -67,11 +67,20 @@
     <programme start="20251216023000 +0000" stop="20251216030000 +0000" channel="Channel 5.mewatch">
         <title>Tangranimals - EP 29</title>
     </programme>
-    <programme start="20251216030000 +0000" stop="20251216100000 +0000" channel="Channel 5.mewatch">
-        <title>33rd SEA Games 2025: Daily Action At The Games - EP 13</title>
+    <programme start="20251216030000 +0000" stop="20251216060000 +0000" channel="Channel 5.mewatch">
+        <title>Table Tennis - 33rd SEA Games Thailand 2025: Mixed Doubles Round of 16 &amp; Quarter-finals</title>
     </programme>
-    <programme start="20251216100000 +0000" stop="20251216130000 +0000" channel="Channel 5.mewatch">
-        <title>33rd SEA Games 2025: Daily Action At The Games - EP 14</title>
+    <programme start="20251216060000 +0000" stop="20251216080000 +0000" channel="Channel 5.mewatch">
+        <title>Weightlifting - 33rd SEA Games Thailand 2025: Men&#039;s 88kg Final</title>
+    </programme>
+    <programme start="20251216080000 +0000" stop="20251216100000 +0000" channel="Channel 5.mewatch">
+        <title>Volleyball - 33rd SEA Games Thailand 2025: Men&#039;s Group Stage - LAO vs SGP</title>
+    </programme>
+    <programme start="20251216100000 +0000" stop="20251216120000 +0000" channel="Channel 5.mewatch">
+        <title>Athletics - 33rd SEA Games Thailand 2025: Men&#039;s &amp; Women&#039;s Finals - 16 Dec 2025</title>
+    </programme>
+    <programme start="20251216120000 +0000" stop="20251216130000 +0000" channel="Channel 5.mewatch">
+        <title>Weightlifting - 33rd SEA Games Thailand 2025: Men&#039;s 94kg Final</title>
     </programme>
     <programme start="20251216130000 +0000" stop="20251216133000 +0000" channel="Channel 5.mewatch">
         <title>(Live) News Tonight</title>

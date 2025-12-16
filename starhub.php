@@ -3832,17 +3832,20 @@
     <programme start="20251215230000 +0000" stop="20251215231500 +0000" channel="NHK World Premium HD.starhub">
         <title>Drama Serial &quot;The Ghost Writer&#039;s Wife&quot; Eps. 57</title>
     </programme>
-    <programme start="20251215231500 +0000" stop="20251216005400 +0000" channel="NHK World Premium HD.starhub">
-        <title>asaichi</title>
+    <programme start="20251215235500 +0000" stop="20251216000000 +0000" channel="NHK World Premium HD.starhub">
+        <title>News &amp; Weather</title>
     </programme>
-    <programme start="20251216005400 +0000" stop="20251216005500 +0000" channel="NHK World Premium HD.starhub">
-        <title>World Weather</title>
+    <programme start="20251216000000 +0000" stop="20251216002900 +0000" channel="NHK World Premium HD.starhub">
+        <title>Outside in Lost in Academia &quot;Shopping Street&quot; (R)</title>
     </programme>
-    <programme start="20251216005500 +0000" stop="20251216010000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Exercise for Everyone</title>
+    <programme start="20251216002900 +0000" stop="20251216005700 +0000" channel="NHK World Premium HD.starhub">
+        <title>Journeys in Japan Encore (B) (R)</title>
+    </programme>
+    <programme start="20251216005700 +0000" stop="20251216010000 +0000" channel="NHK World Premium HD.starhub">
+        <title>Mini Program</title>
     </programme>
     <programme start="20251216010000 +0000" stop="20251216010500 +0000" channel="NHK World Premium HD.starhub">
-        <title>News &amp; Weather</title>
+        <title>Exercise for Everyone</title>
     </programme>
     <programme start="20251216010500 +0000" stop="20251216015000 +0000" channel="NHK World Premium HD.starhub">
         <title>Amazing Video Collection! Part 12 (R)</title>
@@ -3872,7 +3875,7 @@
         <title>Mini Program</title>
     </programme>
     <programme start="20251216033000 +0000" stop="20251216034500 +0000" channel="NHK World Premium HD.starhub">
-        <title>RAMEN JAPAN 15min.</title>
+        <title>Drama Serial Encore &quot;Toto Nee-Chan: Fatherly Sister&quot; Eps. 156 (Final)</title>
     </programme>
     <programme start="20251216034500 +0000" stop="20251216040000 +0000" channel="NHK World Premium HD.starhub">
         <title>Drama Serial &quot;The Ghost Writer&#039;s Wife&quot; Eps. 57 (R)</title>
@@ -8077,25 +8080,28 @@
     <programme start="20251215230000 +0000" stop="20251216010000 +0000" channel="Dragon TV.starhub">
         <title>Dragon TV Morning News</title>
     </programme>
-    <programme start="20251216010000 +0000" stop="20251216022000 +0000" channel="Dragon TV.starhub">
+    <programme start="20251216010000 +0000" stop="20251216014700 +0000" channel="Dragon TV.starhub">
         <title>A Green Trip</title>
     </programme>
-    <programme start="20251216022000 +0000" stop="20251216040000 +0000" channel="Dragon TV.starhub">
+    <programme start="20251216014700 +0000" stop="20251216033400 +0000" channel="Dragon TV.starhub">
         <title>THE CITY OF MUSICALS</title>
+    </programme>
+    <programme start="20251216033400 +0000" stop="20251216040000 +0000" channel="Dragon TV.starhub">
+        <title>CARE ON THE WAY</title>
     </programme>
     <programme start="20251216040000 +0000" stop="20251216042700 +0000" channel="Dragon TV.starhub">
         <title>MIDDAY NEWS</title>
     </programme>
-    <programme start="20251216042700 +0000" stop="20251216062400 +0000" channel="Dragon TV.starhub">
+    <programme start="20251216042700 +0000" stop="20251216061600 +0000" channel="Dragon TV.starhub">
         <title>Future China</title>
     </programme>
-    <programme start="20251216062400 +0000" stop="20251216070500 +0000" channel="Dragon TV.starhub">
+    <programme start="20251216061600 +0000" stop="20251216065600 +0000" channel="Dragon TV.starhub">
         <title>CHINA Now</title>
     </programme>
-    <programme start="20251216070500 +0000" stop="20251216073000 +0000" channel="Dragon TV.starhub">
+    <programme start="20251216065600 +0000" stop="20251216072600 +0000" channel="Dragon TV.starhub">
         <title>Next Station</title>
     </programme>
-    <programme start="20251216073000 +0000" stop="20251216090900 +0000" channel="Dragon TV.starhub">
+    <programme start="20251216072600 +0000" stop="20251216090900 +0000" channel="Dragon TV.starhub">
         <title>THE CITY OF MUSICALS</title>
     </programme>
     <programme start="20251216090900 +0000" stop="20251216093400 +0000" channel="Dragon TV.starhub">
@@ -8113,19 +8119,19 @@
     <programme start="20251216113900 +0000" stop="20251216120400 +0000" channel="Dragon TV.starhub">
         <title>Next Station</title>
     </programme>
-    <programme start="20251216120400 +0000" stop="20251216131300 +0000" channel="Dragon TV.starhub">
+    <programme start="20251216120400 +0000" stop="20251216125100 +0000" channel="Dragon TV.starhub">
         <title>A Green Trip</title>
     </programme>
-    <programme start="20251216131300 +0000" stop="20251216140400 +0000" channel="Dragon TV.starhub">
+    <programme start="20251216125100 +0000" stop="20251216144000 +0000" channel="Dragon TV.starhub">
         <title>Future China</title>
     </programme>
-    <programme start="20251216140400 +0000" stop="20251216142900 +0000" channel="Dragon TV.starhub">
+    <programme start="20251216144000 +0000" stop="20251216150500 +0000" channel="Dragon TV.starhub">
         <title>New Entertainment</title>
     </programme>
-    <programme start="20251216142900 +0000" stop="20251216145400 +0000" channel="Dragon TV.starhub">
+    <programme start="20251216150500 +0000" stop="20251216153000 +0000" channel="Dragon TV.starhub">
         <title>CARE ON THE WAY</title>
     </programme>
-    <programme start="20251216145400 +0000" stop="20251216160000 +0000" channel="Dragon TV.starhub">
+    <programme start="20251216153000 +0000" stop="20251216160000 +0000" channel="Dragon TV.starhub">
         <title>THE CITY OF MUSICALS</title>
     </programme>
     <programme start="20251215160000 +0000" stop="20251215163000 +0000" channel="Travelxp HD.starhub">
