@@ -62,7 +62,7 @@
         <title>Table Tennis - 33rd SEA Games Thailand 2025: Men&#039;s, Women&#039;s &amp; Mixed Doubles Semi-finals</title>
     </programme>
     <programme start="20251217060000 +0000" stop="20251217070000 +0000" channel="Channel 5.mewatch">
-        <title>Beach Volleyball - 33rd SEA Games Thailand 2025: Men&#039;s Classification 5th Placing - SGP vs LAO</title>
+        <title>Fencing - 33rd SEA Games Thailand 2025: Women&#039;s Epee &amp; Men&#039;s Foil Finals</title>
     </programme>
     <programme start="20251217070000 +0000" stop="20251217080000 +0000" channel="Channel 5.mewatch">
         <title>Table Tennis - 33rd SEA Games Thailand 2025: Men&#039;s Singles Preliminary Round - SGP vs INA</title>

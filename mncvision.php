@@ -8503,10 +8503,10 @@
 <programme start="20251217020000 +0000" stop="20251217023000 +0000" channel="SPOTV.mncvision">
     <title>ALM Mini Match: WEL Vs NEW</title>
 </programme>
-<programme start="20251217023000 +0000" stop="20251217062000 +0000" channel="SPOTV.mncvision">
+<programme start="20251217023000 +0000" stop="20251217061500 +0000" channel="SPOTV.mncvision">
     <title>2025 US Open Tennis C&#039;ships</title>
 </programme>
-<programme start="20251217062000 +0000" stop="20251217093000 +0000" channel="SPOTV.mncvision">
+<programme start="20251217061500 +0000" stop="20251217093000 +0000" channel="SPOTV.mncvision">
     <title>2025 US Open Tennis C&#039;ships</title>
 </programme>
 <programme start="20251217093000 +0000" stop="20251217100000 +0000" channel="SPOTV.mncvision">
@@ -8596,10 +8596,10 @@
 <programme start="20251217020000 +0000" stop="20251217023000 +0000" channel="SPOTV HD.mncvision">
     <title>ALM Mini Match: WEL Vs NEW</title>
 </programme>
-<programme start="20251217023000 +0000" stop="20251217062000 +0000" channel="SPOTV HD.mncvision">
+<programme start="20251217023000 +0000" stop="20251217061500 +0000" channel="SPOTV HD.mncvision">
     <title>2025 US Open Tennis C&#039;ships</title>
 </programme>
-<programme start="20251217062000 +0000" stop="20251217093000 +0000" channel="SPOTV HD.mncvision">
+<programme start="20251217061500 +0000" stop="20251217093000 +0000" channel="SPOTV HD.mncvision">
     <title>2025 US Open Tennis C&#039;ships</title>
 </programme>
 <programme start="20251217093000 +0000" stop="20251217100000 +0000" channel="SPOTV HD.mncvision">
