@@ -66,10 +66,6 @@
     <title>Football: SK Rapid Wien - Omonoia FC</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251217100500 +0700" stop="20251217120000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Atalanta - Cagliari</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251217120000 +0700" stop="20251217141000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Panetolikos - AEK</title>
     <desc>Live: Tidak</desc>
@@ -120,6 +116,10 @@
 </programme>
 <programme start="20251218100000 +0700" stop="20251218120000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Lecce - Pisa</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251218120000 +0700" stop="20251218141000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Kavala - Panathinaikos</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251217110000 +0700" stop="20251217141500 +0700" channel="COSMOTE Sport 3 HD">
@@ -258,10 +258,6 @@
     <title>Basketball: Bahcesehir - Besiktas</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251217110000 +0700" stop="20251217113000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Extreme E - Highlights 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251217113000 +0700" stop="20251217122500 +0700" channel="COSMOTE Sport 5 HD">
     <title>2025 FIM Women&#039;s Circuit Racing World Championship</title>
     <desc>Live: Tidak</desc>
@@ -358,8 +354,8 @@
     <title>2025 FIM Women&#039;s Circuit Racing World Championship</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251217110000 +0700" stop="20251217113000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Watersports: Sailing to the Games 2025 E6</title>
+<programme start="20251218124000 +0700" stop="20251218133500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251217113000 +0700" stop="20251217140000 +0700" channel="COSMOTE Sport 6 HD">
