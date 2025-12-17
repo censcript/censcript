@@ -58,11 +58,23 @@
     <programme start="20251217023000 +0000" stop="20251217030000 +0000" channel="Channel 5.mewatch">
         <title>Tangranimals - EP 31</title>
     </programme>
-    <programme start="20251217030000 +0000" stop="20251217110000 +0000" channel="Channel 5.mewatch">
-        <title>33rd SEA Games 2025: Daily Action At The Games - EP 15</title>
+    <programme start="20251217030000 +0000" stop="20251217060000 +0000" channel="Channel 5.mewatch">
+        <title>Table Tennis - 33rd SEA Games Thailand 2025: Men&#039;s, Women&#039;s &amp; Mixed Doubles Semi-finals</title>
     </programme>
-    <programme start="20251217110000 +0000" stop="20251217130000 +0000" channel="Channel 5.mewatch">
-        <title>33rd SEA Games 2025: Daily Action At The Games - EP 16</title>
+    <programme start="20251217060000 +0000" stop="20251217070000 +0000" channel="Channel 5.mewatch">
+        <title>Beach Volleyball - 33rd SEA Games Thailand 2025: Men&#039;s Classification 5th Placing - SGP vs LAO</title>
+    </programme>
+    <programme start="20251217070000 +0000" stop="20251217080000 +0000" channel="Channel 5.mewatch">
+        <title>Table Tennis - 33rd SEA Games Thailand 2025: Men&#039;s Singles Preliminary Round - SGP vs INA</title>
+    </programme>
+    <programme start="20251217080000 +0000" stop="20251217110000 +0000" channel="Channel 5.mewatch">
+        <title>Netball - 33rd SEA Games Thailand 2025: Women&#039;s Final - SGP vs MAS</title>
+    </programme>
+    <programme start="20251217110000 +0000" stop="20251217120000 +0000" channel="Channel 5.mewatch">
+        <title>Diving - 33rd SEA Games Thailand 2025: Men&#039;s 1m Springboard Final</title>
+    </programme>
+    <programme start="20251217120000 +0000" stop="20251217130000 +0000" channel="Channel 5.mewatch">
+        <title>Pencak Silat - 33rd SEA Games Thailand 2025: Men&#039;s Tanding Final</title>
     </programme>
     <programme start="20251217130000 +0000" stop="20251217133000 +0000" channel="Channel 5.mewatch">
         <title>(Live) News Tonight</title>
