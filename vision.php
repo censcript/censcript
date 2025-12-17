@@ -22,13 +22,13 @@
 <programme start="20251217090000 +0000" stop="20251217103000 +0000" channel="RCTI.vision">
 <title>Manda Curhat (RCTI)</title>
 </programme>
-<programme start="20251217103000 +0000" stop="20251217114500 +0000" channel="RCTI.vision">
+<programme start="20251215103000 +0000" stop="20251215114500 +0000" channel="RCTI.vision">
 <title>Terbelenggu Rindu (RCTI)</title>
 </programme>
-<programme start="20251217114500 +0000" stop="20251217131500 +0000" channel="RCTI.vision">
+<programme start="20251215114500 +0000" stop="20251215131500 +0000" channel="RCTI.vision">
 <title>Mencintai Ipar Sendiri (RCTI)</title>
 </programme>
-<programme start="20251217131500 +0000" stop="20251217144500 +0000" channel="RCTI.vision">
+<programme start="20251215131500 +0000" stop="20251215144500 +0000" channel="RCTI.vision">
 <title>Cinta Sepenuh Jiwa (RCTI)</title>
 </programme>
 <programme start="20251217144500 +0000" stop="20251217160000 +0000" channel="RCTI.vision">
@@ -184,37 +184,37 @@
 <programme start="20251217103000 +0000" stop="20251217113000 +0000" channel="GTV.vision">
 <title>SpongeBob SquarePants</title>
 </programme>
-<programme start="20251217113000 +0000" stop="20251217133000 +0000" channel="GTV.vision">
+<programme start="20251216113000 +0000" stop="20251216133000 +0000" channel="GTV.vision">
 <title>Mission: Impossible Rogue...</title>
 </programme>
 <programme start="20251217133000 +0000" stop="20251217150000 +0000" channel="GTV.vision">
 <title>Longxing Northern Expedition</title>
 </programme>
-<programme start="20251217150000 +0000" stop="20251217160000 +0000" channel="GTV.vision">
+<programme start="20251216150000 +0000" stop="20251216160000 +0000" channel="GTV.vision">
 <title>Untold Story</title>
 </programme>
 <programme start="20251217160000 +0000" stop="20251217170000 +0000" channel="GTV.vision">
 <title>Radio</title>
 </programme>
-<programme start="20251217170000 +0000" stop="20251217180000 +0000" channel="GTV.vision">
+<programme start="20251216170000 +0000" stop="20251216180000 +0000" channel="GTV.vision">
 <title>Jelajah Mitos</title>
 </programme>
-<programme start="20251217180000 +0000" stop="20251217190000 +0000" channel="GTV.vision">
+<programme start="20251216180000 +0000" stop="20251216190000 +0000" channel="GTV.vision">
 <title>Crime KV</title>
 </programme>
-<programme start="20251217190000 +0000" stop="20251217200000 +0000" channel="GTV.vision">
+<programme start="20251216190000 +0000" stop="20251216200000 +0000" channel="GTV.vision">
 <title>Naik Enak Turun Ogah</title>
 </programme>
-<programme start="20251217200000 +0000" stop="20251217220000 +0000" channel="GTV.vision">
+<programme start="20251216200000 +0000" stop="20251216220000 +0000" channel="GTV.vision">
 <title>Awas Ada Sule</title>
 </programme>
-<programme start="20251217220000 +0000" stop="20251217233000 +0000" channel="GTV.vision">
+<programme start="20251216220000 +0000" stop="20251216233000 +0000" channel="GTV.vision">
 <title>Kisah Viral</title>
 </programme>
 <programme start="20251217233000 +0000" stop="20251218003000 +0000" channel="GTV.vision">
 <title>SpongeBob SquarePants</title>
 </programme>
-<programme start="20251218003000 +0000" stop="20251218013000 +0000" channel="GTV.vision">
+<programme start="20251217003000 +0000" stop="20251217013000 +0000" channel="GTV.vision">
 <title>Obrolan Seputar Selebriti (GTV)</title>
 </programme>
 <programme start="20251218013000 +0000" stop="20251218020000 +0000" channel="GTV.vision">
@@ -226,13 +226,13 @@
 <programme start="20251218023000 +0000" stop="20251218050000 +0000" channel="GTV.vision">
 <title>Spongebob Squarepants (GTV)</title>
 </programme>
-<programme start="20251218050000 +0000" stop="20251218073000 +0000" channel="GTV.vision">
+<programme start="20251217050000 +0000" stop="20251217073000 +0000" channel="GTV.vision">
 <title>SpongeBob SquarePants</title>
 </programme>
-<programme start="20251218073000 +0000" stop="20251218093000 +0000" channel="GTV.vision">
+<programme start="20251217073000 +0000" stop="20251217093000 +0000" channel="GTV.vision">
 <title>SpongeBob SquarePants</title>
 </programme>
-<programme start="20251218093000 +0000" stop="20251218120000 +0000" channel="GTV.vision">
+<programme start="20251217093000 +0000" stop="20251217120000 +0000" channel="GTV.vision">
 <title>SpongeBob SquarePants</title>
 </programme>
 <programme start="20251217000000 +0000" stop="20251217003000 +0000" channel="iNews.vision">
@@ -355,7 +355,7 @@
 <programme start="20251218073000 +0000" stop="20251218083000 +0000" channel="iNews.vision">
 <title>Realita (L)</title>
 </programme>
-<programme start="20251218083000 +0000" stop="20251218103000 +0000" channel="iNews.vision">
+<programme start="20251213163000 +0000" stop="20251213180000 +0000" channel="iNews.vision">
 <title>iNews</title>
 </programme>
 <programme start="20251218103000 +0000" stop="20251218110000 +0000" channel="iNews.vision">
@@ -1385,7 +1385,7 @@
 <title>Investor Market Today</title>
 </programme>
 <programme start="20251217033000 +0000" stop="20251217040000 +0000" channel="BTV.vision">
-<title>Garuda Migran</title>
+<title>Berita Kriminal</title>
 </programme>
 <programme start="20251217040000 +0000" stop="20251217060000 +0000" channel="BTV.vision">
 <title>Berita Satu Siang</title>
@@ -1466,7 +1466,7 @@
 <title>Berita Satu Siang</title>
 </programme>
 <programme start="20251218060000 +0000" stop="20251218073000 +0000" channel="BTV.vision">
-<title>30 Minutes With</title>
+<title>Spot On</title>
 </programme>
 <programme start="20251218073000 +0000" stop="20251218080000 +0000" channel="BTV.vision">
 <title>Dikit-Dikit Damkar</title>
