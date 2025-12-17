@@ -856,10 +856,10 @@
     <programme start="20251216195000 +0000" stop="20251216220000 +0000" channel="Live 5.mewatch">
         <title>Carabao Cup 2025/26: Cardiff City vs Chelsea </title>
     </programme>
-    <programme start="20251216220000 +0000" stop="20251217113000 +0000" channel="Live 5.mewatch">
-        <title>No Programme available now. Next Broadcast on 17th December, Wednesday 7.30pm. ASEAN Shopee Cup 2025/2026</title>
+    <programme start="20251216220000 +0000" stop="20251217110200 +0000" channel="Live 5.mewatch">
+        <title>No Programme available now. Next Broadcast on 17th December, Wednesday 7.02pm. ASEAN Shopee Cup 2025/2026</title>
     </programme>
-    <programme start="20251217113000 +0000" stop="20251217133000 +0000" channel="Live 5.mewatch">
+    <programme start="20251217110200 +0000" stop="20251217133000 +0000" channel="Live 5.mewatch">
         <title>ASEAN Shopee Cup 2025/2026: Lion City Sailors FC vs Shan United FC</title>
     </programme>
     <programme start="20251217133000 +0000" stop="20251217160000 +0000" channel="Live 5.mewatch">

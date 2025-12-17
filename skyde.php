@@ -2267,115 +2267,118 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251217222500 +0000" stop="20251217232000 +0000" channel="Sky Nature HD.skyde">
     <title>Fletchers&#039; Family Farm</title>
 </programme>
-<programme start="20251219232500 +0000" stop="20251220001000 +0000" channel="Sky One HD.skyde">
+<programme start="20251216230000 +0000" stop="20251216234500 +0000" channel="Sky One HD.skyde">
     <title>Navy CIS</title>
 </programme>
-<programme start="20251220001000 +0000" stop="20251220005000 +0000" channel="Sky One HD.skyde">
+<programme start="20251216234500 +0000" stop="20251217002500 +0000" channel="Sky One HD.skyde">
     <title>Blue Bloods - Crime Scene New York</title>
 </programme>
-<programme start="20251220005000 +0000" stop="20251220013000 +0000" channel="Sky One HD.skyde">
+<programme start="20251217002500 +0000" stop="20251217010500 +0000" channel="Sky One HD.skyde">
     <title>Blue Bloods - Crime Scene New York</title>
 </programme>
-<programme start="20251220013000 +0000" stop="20251220015500 +0000" channel="Sky One HD.skyde">
+<programme start="20251217010500 +0000" stop="20251217013000 +0000" channel="Sky One HD.skyde">
     <title>Entourage</title>
 </programme>
-<programme start="20251220015500 +0000" stop="20251220023000 +0000" channel="Sky One HD.skyde">
+<programme start="20251217013000 +0000" stop="20251217020000 +0000" channel="Sky One HD.skyde">
     <title>Entourage</title>
 </programme>
-<programme start="20251220023000 +0000" stop="20251220030000 +0000" channel="Sky One HD.skyde">
+<programme start="20251217020000 +0000" stop="20251217023000 +0000" channel="Sky One HD.skyde">
     <title>Entourage</title>
 </programme>
-<programme start="20251220030000 +0000" stop="20251220032500 +0000" channel="Sky One HD.skyde">
+<programme start="20251217023000 +0000" stop="20251217025500 +0000" channel="Sky One HD.skyde">
+    <title>Entourage</title>
+</programme>
+<programme start="20251217025500 +0000" stop="20251217032500 +0000" channel="Sky One HD.skyde">
     <title>Ballers</title>
 </programme>
-<programme start="20251220032500 +0000" stop="20251220035500 +0000" channel="Sky One HD.skyde">
+<programme start="20251217032500 +0000" stop="20251217035000 +0000" channel="Sky One HD.skyde">
+    <title>FARID - Magic Unplugged: Sports Edition</title>
+</programme>
+<programme start="20251217035000 +0000" stop="20251217042000 +0000" channel="Sky One HD.skyde">
     <title>Ballers</title>
 </programme>
-<programme start="20251220035500 +0000" stop="20251220042500 +0000" channel="Sky One HD.skyde">
+<programme start="20251217042000 +0000" stop="20251217045000 +0000" channel="Sky One HD.skyde">
     <title>Ballers</title>
 </programme>
-<programme start="20251220042500 +0000" stop="20251220051000 +0000" channel="Sky One HD.skyde">
+<programme start="20251217045000 +0000" stop="20251217053500 +0000" channel="Sky One HD.skyde">
     <title>Magnum P.I.</title>
 </programme>
-<programme start="20251220051000 +0000" stop="20251220055500 +0000" channel="Sky One HD.skyde">
+<programme start="20251217053500 +0000" stop="20251217062000 +0000" channel="Sky One HD.skyde">
     <title>Magnum P.I.</title>
 </programme>
-<programme start="20251220055500 +0000" stop="20251220064000 +0000" channel="Sky One HD.skyde">
+<programme start="20251217062000 +0000" stop="20251217070500 +0000" channel="Sky One HD.skyde">
     <title>Navy CIS</title>
 </programme>
-<programme start="20251220064000 +0000" stop="20251220072000 +0000" channel="Sky One HD.skyde">
+<programme start="20251217070500 +0000" stop="20251217075000 +0000" channel="Sky One HD.skyde">
     <title>Navy CIS</title>
 </programme>
-<programme start="20251220072000 +0000" stop="20251220081000 +0000" channel="Sky One HD.skyde">
+<programme start="20251217075000 +0000" stop="20251217083500 +0000" channel="Sky One HD.skyde">
     <title>Navy CIS</title>
 </programme>
-<programme start="20251220081000 +0000" stop="20251220085500 +0000" channel="Sky One HD.skyde">
+<programme start="20251217083500 +0000" stop="20251217092500 +0000" channel="Sky One HD.skyde">
     <title>Blue Bloods - Crime Scene New York</title>
 </programme>
-<programme start="20251220085500 +0000" stop="20251220093500 +0000" channel="Sky One HD.skyde">
+<programme start="20251217092500 +0000" stop="20251217100500 +0000" channel="Sky One HD.skyde">
     <title>Blue Bloods - Crime Scene New York</title>
 </programme>
-<programme start="20251220093500 +0000" stop="20251220102500 +0000" channel="Sky One HD.skyde">
+<programme start="20251217100500 +0000" stop="20251217105000 +0000" channel="Sky One HD.skyde">
     <title>Chicago Fire</title>
 </programme>
-<programme start="20251220102500 +0000" stop="20251220110500 +0000" channel="Sky One HD.skyde">
+<programme start="20251217105000 +0000" stop="20251217113500 +0000" channel="Sky One HD.skyde">
     <title>Chicago Fire</title>
 </programme>
-<programme start="20251220110500 +0000" stop="20251220115500 +0000" channel="Sky One HD.skyde">
+<programme start="20251217113500 +0000" stop="20251217122000 +0000" channel="Sky One HD.skyde">
     <title>The Rookie</title>
 </programme>
-<programme start="20251220115500 +0000" stop="20251220122000 +0000" channel="Sky One HD.skyde">
+<programme start="20251217122000 +0000" stop="20251217124500 +0000" channel="Sky One HD.skyde">
     <title>Ghosts</title>
 </programme>
-<programme start="20251220122000 +0000" stop="20251220124500 +0000" channel="Sky One HD.skyde">
+<programme start="20251217124500 +0000" stop="20251217131000 +0000" channel="Sky One HD.skyde">
     <title>Ghosts</title>
 </programme>
-<programme start="20251220124500 +0000" stop="20251220131000 +0000" channel="Sky One HD.skyde">
-    <title>Ghosts</title>
-</programme>
-<programme start="20251220131000 +0000" stop="20251220135500 +0000" channel="Sky One HD.skyde">
+<programme start="20251217131000 +0000" stop="20251217135500 +0000" channel="Sky One HD.skyde">
     <title>Magnum P.I.</title>
 </programme>
-<programme start="20251220135500 +0000" stop="20251220144000 +0000" channel="Sky One HD.skyde">
+<programme start="20251217135500 +0000" stop="20251217144000 +0000" channel="Sky One HD.skyde">
     <title>Magnum P.I.</title>
 </programme>
-<programme start="20251220144000 +0000" stop="20251220152500 +0000" channel="Sky One HD.skyde">
+<programme start="20251217144000 +0000" stop="20251217152500 +0000" channel="Sky One HD.skyde">
     <title>Navy CIS</title>
 </programme>
-<programme start="20251220152500 +0000" stop="20251220161000 +0000" channel="Sky One HD.skyde">
+<programme start="20251217152500 +0000" stop="20251217161500 +0000" channel="Sky One HD.skyde">
     <title>Navy CIS</title>
 </programme>
-<programme start="20251220161000 +0000" stop="20251220165500 +0000" channel="Sky One HD.skyde">
+<programme start="20251217161500 +0000" stop="20251217170000 +0000" channel="Sky One HD.skyde">
     <title>Navy CIS</title>
 </programme>
-<programme start="20251220165500 +0000" stop="20251220174000 +0000" channel="Sky One HD.skyde">
+<programme start="20251217170000 +0000" stop="20251217174500 +0000" channel="Sky One HD.skyde">
     <title>Chicago Fire</title>
 </programme>
-<programme start="20251220174000 +0000" stop="20251220182500 +0000" channel="Sky One HD.skyde">
+<programme start="20251217174500 +0000" stop="20251217182500 +0000" channel="Sky One HD.skyde">
     <title>Chicago Fire</title>
 </programme>
-<programme start="20251220182500 +0000" stop="20251220191500 +0000" channel="Sky One HD.skyde">
+<programme start="20251217182500 +0000" stop="20251217191500 +0000" channel="Sky One HD.skyde">
     <title>The Rookie</title>
 </programme>
-<programme start="20251220191500 +0000" stop="20251220193500 +0000" channel="Sky One HD.skyde">
+<programme start="20251217191500 +0000" stop="20251217193500 +0000" channel="Sky One HD.skyde">
     <title>Ghosts</title>
 </programme>
-<programme start="20251220193500 +0000" stop="20251220200000 +0000" channel="Sky One HD.skyde">
+<programme start="20251217193500 +0000" stop="20251217200000 +0000" channel="Sky One HD.skyde">
     <title>Ghosts</title>
 </programme>
-<programme start="20251220200000 +0000" stop="20251220202500 +0000" channel="Sky One HD.skyde">
+<programme start="20251217200000 +0000" stop="20251217202500 +0000" channel="Sky One HD.skyde">
     <title>Ghosts</title>
 </programme>
-<programme start="20251220202500 +0000" stop="20251220211000 +0000" channel="Sky One HD.skyde">
+<programme start="20251217202500 +0000" stop="20251217211000 +0000" channel="Sky One HD.skyde">
     <title>Chicago Fire</title>
 </programme>
-<programme start="20251220211000 +0000" stop="20251220215000 +0000" channel="Sky One HD.skyde">
+<programme start="20251217211000 +0000" stop="20251217215500 +0000" channel="Sky One HD.skyde">
     <title>Chicago Fire</title>
 </programme>
-<programme start="20251220215000 +0000" stop="20251220223500 +0000" channel="Sky One HD.skyde">
+<programme start="20251217215500 +0000" stop="20251217224000 +0000" channel="Sky One HD.skyde">
     <title>Navy CIS</title>
 </programme>
-<programme start="20251220223500 +0000" stop="20251220232000 +0000" channel="Sky One HD.skyde">
+<programme start="20251217224000 +0000" stop="20251217232500 +0000" channel="Sky One HD.skyde">
     <title>Navy CIS</title>
 </programme>
 <programme start="20251216234000 +0000" stop="20251217002000 +0000" channel="Sky Replay HD.skyde">
@@ -2737,30 +2740,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 </programme>
 <programme start="20251217220000 +0000" stop="20251218000000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
     <title>BL: 1. FC Union Berlin - RB Leipzig, Flutlicht-Freitag, 14. Spieltag</title>
-</programme>
-<programme start="20251220111000 +0000" stop="20251220113000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
-    <title>Es folgt: Live 2. Bundesliga</title>
-</programme>
-<programme start="20251220113000 +0000" stop="20251220140000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
-    <title>Live 2. BL: Samstags-Konferenz, 17. Spieltag</title>
-</programme>
-<programme start="20251220140000 +0000" stop="20251220141500 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
-    <title>Live BL: VFB - TSG: tipico Countdown, 15. Spieltag</title>
-</programme>
-<programme start="20251220141500 +0000" stop="20251220163000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
-    <title>Live BL: VfB Stuttgart - TSG Hoffenheim, 15. Spieltag</title>
-</programme>
-<programme start="20251220163000 +0000" stop="20251220180000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
-    <title>Live BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 15. Spieltag, Samstag</title>
-</programme>
-<programme start="20251220180000 +0000" stop="20251220190000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
-    <title>2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 17. Spieltag, Samstag</title>
-</programme>
-<programme start="20251220190000 +0000" stop="20251220220000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
-    <title>Live 2. BL: Holstein Kiel - Dynamo Dresden, tipico Topspiel der Woche, 17. Spieltag</title>
-</programme>
-<programme start="20251220220000 +0000" stop="20251220230000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
-    <title>2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 17. Spieltag, Samstag komplett</title>
 </programme>
 <programme start="20251216230000 +0000" stop="20251217000000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1 Academy: 1. Rennen - GP China</title>
