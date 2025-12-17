@@ -1,7 +1,3 @@
-<programme start="20251218010000 +0700" stop="20251218030500 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: PAOK - Marko (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
 <programme start="20251218030500 +0700" stop="20251218041500 +0700" channel="COSMOTE Sport 1 HD">
     <title>Greek Cup Time (L)</title>
     <desc>Live: Ya</desc>
@@ -69,10 +65,6 @@
 <programme start="20251219030000 +0700" stop="20251219050500 +0700" channel="COSMOTE Sport 1 HD">
     <title>Conference League Minute By Minute (L)</title>
     <desc>Live: Ya</desc>
-</programme>
-<programme start="20251218011500 +0700" stop="20251218031500 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: AC Milan - Sassuolo</title>
-    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251218031500 +0700" stop="20251218052000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Kavala - Panathinaikos</title>
@@ -250,10 +242,6 @@
     <title>Football: FC Lausanne - ACF Fiorentina (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251218013000 +0700" stop="20251218034000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Basketball: Unicaja - Karditsa (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
 <programme start="20251218034000 +0700" stop="20251218054500 +0700" channel="COSMOTE Sport 5 HD">
     <title>Motorsports: Extreme E 2025</title>
     <desc>Live: Tidak</desc>
@@ -349,14 +337,6 @@
 <programme start="20251219030000 +0700" stop="20251219050500 +0700" channel="COSMOTE Sport 5 HD">
     <title>Football: Crystal Palace - KuPS Kuopio (L)</title>
     <desc>Live: Ya</desc>
-</programme>
-<programme start="20251218010000 +0700" stop="20251218033000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: Martín Landaluce - Nicolai Budkov Kjaer (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20251218033000 +0700" stop="20251218040000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Watersports: Inside Sailing E11</title>
-    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251218040000 +0700" stop="20251218080000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: 2025 Next Gen ATP Finals</title>
