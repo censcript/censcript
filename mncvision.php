@@ -1,4 +1,99 @@
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20251216170000 +0000" stop="20251216173000 +0000" channel="ABC Australia.mncvision">
+    <title>The Cook Up With Adam Liaw</title>
+</programme>
+<programme start="20251216173000 +0000" stop="20251216180000 +0000" channel="ABC Australia.mncvision">
+    <title>Australian Story</title>
+</programme>
+<programme start="20251216180000 +0000" stop="20251216190000 +0000" channel="ABC Australia.mncvision">
+    <title>The World</title>
+</programme>
+<programme start="20251216190000 +0000" stop="20251216220000 +0000" channel="ABC Australia.mncvision">
+    <title>News Breakfast</title>
+</programme>
+<programme start="20251216220000 +0000" stop="20251217010000 +0000" channel="ABC Australia.mncvision">
+    <title>ABC News Mornings</title>
+</programme>
+<programme start="20251217010000 +0000" stop="20251217020000 +0000" channel="ABC Australia.mncvision">
+    <title>ABC News At Noon</title>
+</programme>
+<programme start="20251217020000 +0000" stop="20251217022500 +0000" channel="ABC Australia.mncvision">
+    <title>The Cook Up With Adam Liaw</title>
+</programme>
+<programme start="20251217022500 +0000" stop="20251217033000 +0000" channel="ABC Australia.mncvision">
+    <title>Ghosts Of Saigon</title>
+</programme>
+<programme start="20251217033000 +0000" stop="20251217040000 +0000" channel="ABC Australia.mncvision">
+    <title>Stuff The British Stole</title>
+</programme>
+<programme start="20251217040000 +0000" stop="20251217043000 +0000" channel="ABC Australia.mncvision">
+    <title>Creative Types, Virginia Trioli</title>
+</programme>
+<programme start="20251217043000 +0000" stop="20251217050000 +0000" channel="ABC Australia.mncvision">
+    <title>Art Works</title>
+</programme>
+<programme start="20251217050000 +0000" stop="20251217060000 +0000" channel="ABC Australia.mncvision">
+    <title>Canvas Of Oceans</title>
+</programme>
+<programme start="20251217060000 +0000" stop="20251217063000 +0000" channel="ABC Australia.mncvision">
+    <title>Back Roads</title>
+</programme>
+<programme start="20251217063000 +0000" stop="20251217070000 +0000" channel="ABC Australia.mncvision">
+    <title>Pacific Break Live From Fiji</title>
+</programme>
+<programme start="20251217070000 +0000" stop="20251217073000 +0000" channel="ABC Australia.mncvision">
+    <title>The Cook Up With Adam Liaw</title>
+</programme>
+<programme start="20251217073000 +0000" stop="20251217080000 +0000" channel="ABC Australia.mncvision">
+    <title>That Pacific Sports Show</title>
+</programme>
+<programme start="20251217080000 +0000" stop="20251217083000 +0000" channel="ABC Australia.mncvision">
+    <title>ABC National News</title>
+</programme>
+<programme start="20251217083000 +0000" stop="20251217090000 +0000" channel="ABC Australia.mncvision">
+    <title>7.30</title>
+</programme>
+<programme start="20251217090000 +0000" stop="20251217093000 +0000" channel="ABC Australia.mncvision">
+    <title>Stuff The British Stole</title>
+</programme>
+<programme start="20251217093000 +0000" stop="20251217100000 +0000" channel="ABC Australia.mncvision">
+    <title>Creative Types, Virginia Trioli</title>
+</programme>
+<programme start="20251217100000 +0000" stop="20251217105500 +0000" channel="ABC Australia.mncvision">
+    <title>The World</title>
+</programme>
+<programme start="20251217105500 +0000" stop="20251217120000 +0000" channel="ABC Australia.mncvision">
+    <title>Ghosts Of Saigon</title>
+</programme>
+<programme start="20251217120000 +0000" stop="20251217123000 +0000" channel="ABC Australia.mncvision">
+    <title>ABC Late News</title>
+</programme>
+<programme start="20251217123000 +0000" stop="20251217125000 +0000" channel="ABC Australia.mncvision">
+    <title>If You&#039;re Listening</title>
+</programme>
+<programme start="20251217125000 +0000" stop="20251217130000 +0000" channel="ABC Australia.mncvision">
+    <title>Pasin Wantok</title>
+</programme>
+<programme start="20251217130000 +0000" stop="20251217133000 +0000" channel="ABC Australia.mncvision">
+    <title>ABC Late News</title>
+</programme>
+<programme start="20251217133000 +0000" stop="20251217140000 +0000" channel="ABC Australia.mncvision">
+    <title>7.30</title>
+</programme>
+<programme start="20251217140000 +0000" stop="20251217150000 +0000" channel="ABC Australia.mncvision">
+    <title>The World</title>
+</programme>
+<programme start="20251217150000 +0000" stop="20251217153000 +0000" channel="ABC Australia.mncvision">
+    <title>The Pacific: Talanoa</title>
+</programme>
+<programme start="20251217153000 +0000" stop="20251217160000 +0000" channel="ABC Australia.mncvision">
+    <title>Stuff The British Stole</title>
+</programme>
+<programme start="20251217160000 +0000" stop="20251217163000 +0000" channel="ABC Australia.mncvision">
+    <title>Creative Types, Virginia Trioli</title>
+</programme>
+<programme start="20251217163000 +0000" stop="20251216170000 +0000" channel="ABC Australia.mncvision">
+    <title>Ghosts Of Saigon</title>
+</programme>
 <programme start="20251216170000 +0000" stop="20251216173000 +0000" channel="Al Jazeera English.mncvision">
     <title>News (L)</title>
 </programme>
@@ -338,7 +433,156 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20251217160000 +0000" stop="20251217163000 +0000" channel="ANTV.mncvision">
     <title>Dukun Ilmu Hitam</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20251216170000 +0000" stop="20251216173000 +0000" channel="Arirang.mncvision">
+    <title>The Kulture Wave</title>
+</programme>
+<programme start="20251216173000 +0000" stop="20251216180000 +0000" channel="Arirang.mncvision">
+    <title>Within The Frame</title>
+</programme>
+<programme start="20251216180000 +0000" stop="20251216181500 +0000" channel="Arirang.mncvision">
+    <title>1Day 1K-Culture: K-People</title>
+</programme>
+<programme start="20251216181500 +0000" stop="20251216183000 +0000" channel="Arirang.mncvision">
+    <title>Exploring Korean Literature C</title>
+</programme>
+<programme start="20251216183000 +0000" stop="20251216185000 +0000" channel="Arirang.mncvision">
+    <title>Korea Travelogue 4</title>
+</programme>
+<programme start="20251216185000 +0000" stop="20251216190000 +0000" channel="Arirang.mncvision">
+    <title>Discovering Korea: View</title>
+</programme>
+<programme start="20251216190000 +0000" stop="20251216200000 +0000" channel="Arirang.mncvision">
+    <title>Arirang Special</title>
+</programme>
+<programme start="20251216200000 +0000" stop="20251216203000 +0000" channel="Arirang.mncvision">
+    <title>Talk Room</title>
+</programme>
+<programme start="20251216203000 +0000" stop="20251216210000 +0000" channel="Arirang.mncvision">
+    <title>K-Food Class</title>
+</programme>
+<programme start="20251216210000 +0000" stop="20251216213000 +0000" channel="Arirang.mncvision">
+    <title>Press Perspective</title>
+</programme>
+<programme start="20251216213000 +0000" stop="20251216215000 +0000" channel="Arirang.mncvision">
+    <title>Korea Travelogue 4</title>
+</programme>
+<programme start="20251216215000 +0000" stop="20251216220000 +0000" channel="Arirang.mncvision">
+    <title>Discovering Korea: View</title>
+</programme>
+<programme start="20251216220000 +0000" stop="20251216222000 +0000" channel="Arirang.mncvision">
+    <title>The Grand Heritage: Gyeongju</title>
+</programme>
+<programme start="20251216222000 +0000" stop="20251216223000 +0000" channel="Arirang.mncvision">
+    <title>The Living Sea Of Jeju</title>
+</programme>
+<programme start="20251216223000 +0000" stop="20251216224000 +0000" channel="Arirang.mncvision">
+    <title>K-Chat: Conversing In Korean</title>
+</programme>
+<programme start="20251216224000 +0000" stop="20251216225000 +0000" channel="Arirang.mncvision">
+    <title>K-Chat: Travel In Korea</title>
+</programme>
+<programme start="20251216225000 +0000" stop="20251216230000 +0000" channel="Arirang.mncvision">
+    <title>Exploring Korean Literature A</title>
+</programme>
+<programme start="20251216230000 +0000" stop="20251216232000 +0000" channel="Arirang.mncvision">
+    <title>K-Arts Artists</title>
+</programme>
+<programme start="20251216232000 +0000" stop="20251216233000 +0000" channel="Arirang.mncvision">
+    <title>Exploring Korean Literature B</title>
+</programme>
+<programme start="20251216233000 +0000" stop="20251216235000 +0000" channel="Arirang.mncvision">
+    <title>1Day 1K-Culture: K-Story</title>
+</programme>
+<programme start="20251216235000 +0000" stop="20251217000000 +0000" channel="Arirang.mncvision">
+    <title>SmartBiz Accelerators 2</title>
+</programme>
+<programme start="20251217000000 +0000" stop="20251217003000 +0000" channel="Arirang.mncvision">
+    <title>Premium Collection</title>
+</programme>
+<programme start="20251217003000 +0000" stop="20251217010000 +0000" channel="Arirang.mncvision">
+    <title>Seoulscape</title>
+</programme>
+<programme start="20251217010000 +0000" stop="20251217013000 +0000" channel="Arirang.mncvision">
+    <title>New Day At Arirang</title>
+</programme>
+<programme start="20251217013000 +0000" stop="20251217020000 +0000" channel="Arirang.mncvision">
+    <title>News Generation (L)</title>
+</programme>
+<programme start="20251217020000 +0000" stop="20251217030000 +0000" channel="Arirang.mncvision">
+    <title>Culture Crunch (L)</title>
+</programme>
+<programme start="20251217030000 +0000" stop="20251217033000 +0000" channel="Arirang.mncvision">
+    <title>Arirang News</title>
+</programme>
+<programme start="20251217033000 +0000" stop="20251217040000 +0000" channel="Arirang.mncvision">
+    <title>Talk Room</title>
+</programme>
+<programme start="20251217040000 +0000" stop="20251217043000 +0000" channel="Arirang.mncvision">
+    <title>I&#039;m Live</title>
+</programme>
+<programme start="20251217043000 +0000" stop="20251217050000 +0000" channel="Arirang.mncvision">
+    <title>K-Stage Pan</title>
+</programme>
+<programme start="20251217050000 +0000" stop="20251217053000 +0000" channel="Arirang.mncvision">
+    <title>The Kulture Wave (L)</title>
+</programme>
+<programme start="20251217053000 +0000" stop="20251217060000 +0000" channel="Arirang.mncvision">
+    <title>News Generation</title>
+</programme>
+<programme start="20251217060000 +0000" stop="20251217063000 +0000" channel="Arirang.mncvision">
+    <title>K-Food Class</title>
+</programme>
+<programme start="20251217063000 +0000" stop="20251217070000 +0000" channel="Arirang.mncvision">
+    <title>Premium Collection</title>
+</programme>
+<programme start="20251217070000 +0000" stop="20251217070500 +0000" channel="Arirang.mncvision">
+    <title>AI Headline News</title>
+</programme>
+<programme start="20251217070500 +0000" stop="20251217074000 +0000" channel="Arirang.mncvision">
+    <title>Talk Room</title>
+</programme>
+<programme start="20251217074000 +0000" stop="20251217080000 +0000" channel="Arirang.mncvision">
+    <title>1Day 1K-Culture: K-Story</title>
+</programme>
+<programme start="20251217080000 +0000" stop="20251217083000 +0000" channel="Arirang.mncvision">
+    <title>The Daily Report</title>
+</programme>
+<programme start="20251217083000 +0000" stop="20251217090000 +0000" channel="Arirang.mncvision">
+    <title>Press Perspective (L)</title>
+</programme>
+<programme start="20251217090000 +0000" stop="20251217093000 +0000" channel="Arirang.mncvision">
+    <title>I&#039;m Live</title>
+</programme>
+<programme start="20251217093000 +0000" stop="20251217100000 +0000" channel="Arirang.mncvision">
+    <title>K-Stage Pan</title>
+</programme>
+<programme start="20251217100000 +0000" stop="20251217103000 +0000" channel="Arirang.mncvision">
+    <title>K-Food Class</title>
+</programme>
+<programme start="20251217103000 +0000" stop="20251217110000 +0000" channel="Arirang.mncvision">
+    <title>Premium Collection</title>
+</programme>
+<programme start="20251217110000 +0000" stop="20251217113000 +0000" channel="Arirang.mncvision">
+    <title>NewsCenter</title>
+</programme>
+<programme start="20251217113000 +0000" stop="20251217120000 +0000" channel="Arirang.mncvision">
+    <title>Within The Frame (L)</title>
+</programme>
+<programme start="20251217120000 +0000" stop="20251217123000 +0000" channel="Arirang.mncvision">
+    <title>The Kulture Wave</title>
+</programme>
+<programme start="20251217123000 +0000" stop="20251217125000 +0000" channel="Arirang.mncvision">
+    <title>1Day 1K-Culture: K-Story</title>
+</programme>
+<programme start="20251217125000 +0000" stop="20251217130000 +0000" channel="Arirang.mncvision">
+    <title>The Living Sea Of Jeju</title>
+</programme>
+<programme start="20251217130000 +0000" stop="20251217130500 +0000" channel="Arirang.mncvision">
+    <title>AI Headline News</title>
+</programme>
+<programme start="20251217130500 +0000" stop="20251217133500 +0000" channel="Arirang.mncvision">
+    <title>Seoulscape</title>
+</programme>
 <programme start="20251216171000 +0000" stop="20251216180500 +0000" channel="AXN.mncvision">
     <title>Hudson &amp; Rex S6, Ep 11</title>
 </programme>
@@ -1725,7 +1969,45 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20251217163000 +0000" stop="20251216170000 +0000" channel="Celebrities TV.mncvision">
     <title>Seleb On News</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20251216173500 +0000" stop="20251216193700 +0000" channel="Celestial Movies.mncvision">
+    <title>Life Hotel</title>
+</programme>
+<programme start="20251216193700 +0000" stop="20251216210600 +0000" channel="Celestial Movies.mncvision">
+    <title>Love Is Blind, Hate Too</title>
+</programme>
+<programme start="20251216210600 +0000" stop="20251216225200 +0000" channel="Celestial Movies.mncvision">
+    <title>One Second</title>
+</programme>
+<programme start="20251216225200 +0000" stop="20251217003200 +0000" channel="Celestial Movies.mncvision">
+    <title>The Locksmith</title>
+</programme>
+<programme start="20251217003200 +0000" stop="20251217022500 +0000" channel="Celestial Movies.mncvision">
+    <title>The Moon Thieves</title>
+</programme>
+<programme start="20251217022500 +0000" stop="20251217041700 +0000" channel="Celestial Movies.mncvision">
+    <title>Band Four</title>
+</programme>
+<programme start="20251217041700 +0000" stop="20251217055600 +0000" channel="Celestial Movies.mncvision">
+    <title>Echoes Of The Thunder</title>
+</programme>
+<programme start="20251217055600 +0000" stop="20251217072600 +0000" channel="Celestial Movies.mncvision">
+    <title>City Of Desire</title>
+</programme>
+<programme start="20251217072600 +0000" stop="20251217092600 +0000" channel="Celestial Movies.mncvision">
+    <title>Wu Xia</title>
+</programme>
+<programme start="20251217092600 +0000" stop="20251217114500 +0000" channel="Celestial Movies.mncvision">
+    <title>The Sparring Partner</title>
+</programme>
+<programme start="20251217114500 +0000" stop="20251217140000 +0000" channel="Celestial Movies.mncvision">
+    <title>Only Cloud Knows</title>
+</programme>
+<programme start="20251217140000 +0000" stop="20251217160800 +0000" channel="Celestial Movies.mncvision">
+    <title>Operation Mekong</title>
+</programme>
+<programme start="20251217160800 +0000" stop="20251217163800 +0000" channel="Celestial Movies.mncvision">
+    <title>Smashing Frank</title>
+</programme>
 <programme start="20251216170000 +0000" stop="20251216180000 +0000" channel="CGTN.mncvision">
     <title>Africa Live</title>
 </programme>
@@ -3472,8 +3754,96 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20251217045000 +0000" stop="20251217052000 +0000" channel="France 24 English.mncvision">
     <title>Introduction (L)</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20251216170500 +0000" stop="20251216185000 +0000" channel="Galaxy.mncvision">
+    <title>Darkness Of Man</title>
+</programme>
+<programme start="20251216185000 +0000" stop="20251216203000 +0000" channel="Galaxy.mncvision">
+    <title>Don&#039;t Suck</title>
+</programme>
+<programme start="20251216203000 +0000" stop="20251216220500 +0000" channel="Galaxy.mncvision">
+    <title>A Tale Of Two Guns</title>
+</programme>
+<programme start="20251216220500 +0000" stop="20251216233500 +0000" channel="Galaxy.mncvision">
+    <title>Missionary</title>
+</programme>
+<programme start="20251216233500 +0000" stop="20251217010000 +0000" channel="Galaxy.mncvision">
+    <title>Come Out Fighting</title>
+</programme>
+<programme start="20251217010000 +0000" stop="20251217022000 +0000" channel="Galaxy.mncvision">
+    <title>The Rake</title>
+</programme>
+<programme start="20251217022000 +0000" stop="20251217035500 +0000" channel="Galaxy.mncvision">
+    <title>Revival</title>
+</programme>
+<programme start="20251217035500 +0000" stop="20251217053500 +0000" channel="Galaxy.mncvision">
+    <title>Death In Texas</title>
+</programme>
+<programme start="20251217053500 +0000" stop="20251217070500 +0000" channel="Galaxy.mncvision">
+    <title>Witches In The Woods</title>
+</programme>
+<programme start="20251217070500 +0000" stop="20251217083500 +0000" channel="Galaxy.mncvision">
+    <title>Road To Paloma</title>
+</programme>
+<programme start="20251217083500 +0000" stop="20251217100500 +0000" channel="Galaxy.mncvision">
+    <title>The Spiderwick Chronicles</title>
+</programme>
+<programme start="20251217100500 +0000" stop="20251217120000 +0000" channel="Galaxy.mncvision">
+    <title>Skin</title>
+</programme>
+<programme start="20251217120000 +0000" stop="20251217133000 +0000" channel="Galaxy.mncvision">
+    <title>Good Kids</title>
+</programme>
+<programme start="20251217133000 +0000" stop="20251217150000 +0000" channel="Galaxy.mncvision">
+    <title>Shock And Awe</title>
+</programme>
+<programme start="20251217150000 +0000" stop="20251217162500 +0000" channel="Galaxy.mncvision">
+    <title>Havenhurst</title>
+</programme>
+<programme start="20251217162500 +0000" stop="20251217165500 +0000" channel="Galaxy.mncvision">
+    <title>Wunderland</title>
+</programme>
+<programme start="20251216172500 +0000" stop="20251216185500 +0000" channel="Galaxy Premium.mncvision">
+    <title>Don&#039;t Breathe</title>
+</programme>
+<programme start="20251216185500 +0000" stop="20251216202000 +0000" channel="Galaxy Premium.mncvision">
+    <title>Fun With Dick And Jane</title>
+</programme>
+<programme start="20251216202000 +0000" stop="20251216221500 +0000" channel="Galaxy Premium.mncvision">
+    <title>The 5th Wave</title>
+</programme>
+<programme start="20251216221500 +0000" stop="20251216234000 +0000" channel="Galaxy Premium.mncvision">
+    <title>Brightburn</title>
+</programme>
+<programme start="20251216234000 +0000" stop="20251217014000 +0000" channel="Galaxy Premium.mncvision">
+    <title>Bad Boys For Life</title>
+</programme>
+<programme start="20251217014000 +0000" stop="20251217033000 +0000" channel="Galaxy Premium.mncvision">
+    <title>Baywatch</title>
+</programme>
+<programme start="20251217033000 +0000" stop="20251217050500 +0000" channel="Galaxy Premium.mncvision">
+    <title>Zombieland: Double Tap</title>
+</programme>
+<programme start="20251217050500 +0000" stop="20251217071500 +0000" channel="Galaxy Premium.mncvision">
+    <title>Little Women</title>
+</programme>
+<programme start="20251217071500 +0000" stop="20251217085500 +0000" channel="Galaxy Premium.mncvision">
+    <title>Lara Croft: Tomb Raider</title>
+</programme>
+<programme start="20251217085500 +0000" stop="20251217104500 +0000" channel="Galaxy Premium.mncvision">
+    <title>TMNT: Out Of The Shadows</title>
+</programme>
+<programme start="20251217104500 +0000" stop="20251217123500 +0000" channel="Galaxy Premium.mncvision">
+    <title>Paycheck</title>
+</programme>
+<programme start="20251217123500 +0000" stop="20251217140000 +0000" channel="Galaxy Premium.mncvision">
+    <title>A.C.O.D.</title>
+</programme>
+<programme start="20251217140000 +0000" stop="20251217153500 +0000" channel="Galaxy Premium.mncvision">
+    <title>Pet Sematary</title>
+</programme>
+<programme start="20251217153500 +0000" stop="20251217160500 +0000" channel="Galaxy Premium.mncvision">
+    <title>Crawl</title>
+</programme>
 <programme start="20251216174500 +0000" stop="20251216183500 +0000" channel="Global Trekker.mncvision">
     <title>Air Warriors S11, Ep 3</title>
 </programme>
@@ -7719,8 +8089,99 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20251217163000 +0000" stop="20251216170000 +0000" channel="Soccer Channel.mncvision">
     <title>ACL Elite: AHL Vs NAS</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20251216183000 +0000" stop="20251216203000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>AFC Women&#039;s Champions League</title>
+</programme>
+<programme start="20251216203000 +0000" stop="20251216210000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>World Classic Soccer</title>
+</programme>
+<programme start="20251216210000 +0000" stop="20251216213000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Top Goals</title>
+</programme>
+<programme start="20251216213000 +0000" stop="20251216233000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>SEA Games Thailand: TLS Vs THA</title>
+</programme>
+<programme start="20251216233000 +0000" stop="20251217013000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>European Qual.: POL Vs NED</title>
+</programme>
+<programme start="20251217013000 +0000" stop="20251217033000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Bundesliga 2025/26: SCF Vs BVB</title>
+</programme>
+<programme start="20251217033000 +0000" stop="20251217040000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>World Classic Soccer</title>
+</programme>
+<programme start="20251217040000 +0000" stop="20251217060000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>AFC Women&#039;s Champions League</title>
+</programme>
+<programme start="20251217060000 +0000" stop="20251217080000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>ACL Elite: AHL Vs NAS</title>
+</programme>
+<programme start="20251217080000 +0000" stop="20251217100000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Bundesliga 2025/26: FCB Vs M05</title>
+</programme>
+<programme start="20251217100000 +0000" stop="20251217115500 +0000" channel="Soccer Channel HD.mncvision">
+    <title>European Qual.: KAZ Vs BEL</title>
+</programme>
+<programme start="20251217115500 +0000" stop="20251217140000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>ASEAN Club C&#039;ship Shopee (L)</title>
+</programme>
+<programme start="20251217140000 +0000" stop="20251217143000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Bundesliga Special Show</title>
+</programme>
+<programme start="20251217143000 +0000" stop="20251217163000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Bundesliga 2025/26: FCB Vs M05</title>
+</programme>
+<programme start="20251217163000 +0000" stop="20251216170000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>ACL Elite: AHL Vs NAS</title>
+</programme>
+<programme start="20251216173000 +0000" stop="20251216200000 +0000" channel="Sportstars.mncvision">
+    <title>SEA Games Thailand 2025</title>
+</programme>
+<programme start="20251216200000 +0000" stop="20251216203000 +0000" channel="Sportstars.mncvision">
+    <title>Sports Today</title>
+</programme>
+<programme start="20251216203000 +0000" stop="20251216210000 +0000" channel="Sportstars.mncvision">
+    <title>iNews Sport</title>
+</programme>
+<programme start="20251216210000 +0000" stop="20251216230000 +0000" channel="Sportstars.mncvision">
+    <title>KOVO Cup</title>
+</programme>
+<programme start="20251216230000 +0000" stop="20251216233000 +0000" channel="Sportstars.mncvision">
+    <title>Sports Today</title>
+</programme>
+<programme start="20251216233000 +0000" stop="20251217000000 +0000" channel="Sportstars.mncvision">
+    <title>30 Minutes Extreme</title>
+</programme>
+<programme start="20251217000000 +0000" stop="20251217003000 +0000" channel="Sportstars.mncvision">
+    <title>Adrenaline Rush</title>
+</programme>
+<programme start="20251217003000 +0000" stop="20251217023000 +0000" channel="Sportstars.mncvision">
+    <title>V-League 2025-2026 Men</title>
+</programme>
+<programme start="20251217023000 +0000" stop="20251217030000 +0000" channel="Sportstars.mncvision">
+    <title>iNews Sport</title>
+</programme>
+<programme start="20251217030000 +0000" stop="20251217100000 +0000" channel="Sportstars.mncvision">
+    <title>SEA Games Thailand 2025 (L)</title>
+</programme>
+<programme start="20251217100000 +0000" stop="20251217120000 +0000" channel="Sportstars.mncvision">
+    <title>V-League 2025-2026 Men (L)</title>
+</programme>
+<programme start="20251217120000 +0000" stop="20251217123000 +0000" channel="Sportstars.mncvision">
+    <title>30 Minutes Extreme</title>
+</programme>
+<programme start="20251217123000 +0000" stop="20251217130000 +0000" channel="Sportstars.mncvision">
+    <title>Golden Fit</title>
+</programme>
+<programme start="20251217130000 +0000" stop="20251217150000 +0000" channel="Sportstars.mncvision">
+    <title>V-League 2025-2026 Women</title>
+</programme>
+<programme start="20251217150000 +0000" stop="20251217153000 +0000" channel="Sportstars.mncvision">
+    <title>Sports Today</title>
+</programme>
+<programme start="20251217153000 +0000" stop="20251217160000 +0000" channel="Sportstars.mncvision">
+    <title>V-League 2025-2026 Men</title>
+</programme>
 <programme start="20251216180000 +0000" stop="20251216210000 +0000" channel="Sportstars 2.mncvision">
     <title>SEA Games Thailand 2025</title>
 </programme>
