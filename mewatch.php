@@ -76,8 +76,11 @@
     <programme start="20251217110000 +0000" stop="20251217120000 +0000" channel="Channel 5.mewatch">
         <title>Diving - 33rd SEA Games Thailand 2025: Men&#039;s 1m Springboard Final</title>
     </programme>
-    <programme start="20251217120000 +0000" stop="20251217130000 +0000" channel="Channel 5.mewatch">
+    <programme start="20251217120000 +0000" stop="20251217122600 +0000" channel="Channel 5.mewatch">
         <title>Pencak Silat - 33rd SEA Games Thailand 2025: Men&#039;s Tanding Final</title>
+    </programme>
+    <programme start="20251217122600 +0000" stop="20251217130000 +0000" channel="Channel 5.mewatch">
+        <title>Table Tennis - 33rd SEA Games Thailand 2025: Mixed Doubles Final - SGP vs MAS</title>
     </programme>
     <programme start="20251217130000 +0000" stop="20251217133000 +0000" channel="Channel 5.mewatch">
         <title>(Live) News Tonight</title>
