@@ -5119,10 +5119,10 @@
     <programme start="20251217020000 +0000" stop="20251217023000 +0000" channel="SPOTV.starhub">
         <title>Wellington Phoenix vs Newcastle Jets FC</title>
     </programme>
-    <programme start="20251217023000 +0000" stop="20251217062000 +0000" channel="SPOTV.starhub">
+    <programme start="20251217023000 +0000" stop="20251217061500 +0000" channel="SPOTV.starhub">
         <title>Night Session M Semifinal (Arthur Ashe)</title>
     </programme>
-    <programme start="20251217062000 +0000" stop="20251217093000 +0000" channel="SPOTV.starhub">
+    <programme start="20251217061500 +0000" stop="20251217093000 +0000" channel="SPOTV.starhub">
         <title>Men&#039;s Doubles Final (Arthur Ashe)</title>
     </programme>
     <programme start="20251217093000 +0000" stop="20251217100000 +0000" channel="SPOTV.starhub">

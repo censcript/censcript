@@ -1565,7 +1565,7 @@
     <title>Investor Market Today</title>
 </programme>
 <programme start="20251217033000 +0000" stop="20251217040000 +0000" channel="BTV.mncvision">
-    <title>Berita Kriminal</title>
+    <title>Garuda Migran</title>
 </programme>
 <programme start="20251217040000 +0000" stop="20251217060000 +0000" channel="BTV.mncvision">
     <title>Berita Satu Siang</title>
@@ -2143,7 +2143,114 @@
 <programme start="20251217160000 +0000" stop="20251217163000 +0000" channel="CGTN.mncvision">
     <title>Global Business</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20251216170000 +0000" stop="20251216173000 +0000" channel="CGTN Documentary.mncvision">
+    <title>Decoded: Chinese..., Ep 1</title>
+</programme>
+<programme start="20251216173000 +0000" stop="20251216180000 +0000" channel="CGTN Documentary.mncvision">
+    <title>Wings Of War, Battle..., Ep 3</title>
+</programme>
+<programme start="20251216180000 +0000" stop="20251216190000 +0000" channel="CGTN Documentary.mncvision">
+    <title>Flavors Of...: Exploring Tastes</title>
+</programme>
+<programme start="20251216190000 +0000" stop="20251216193000 +0000" channel="CGTN Documentary.mncvision">
+    <title>Running In The Dark, Ep 3</title>
+</programme>
+<programme start="20251216193000 +0000" stop="20251216200000 +0000" channel="CGTN Documentary.mncvision">
+    <title>Fruits Of Friendship, Ep 1</title>
+</programme>
+<programme start="20251216200000 +0000" stop="20251216210000 +0000" channel="CGTN Documentary.mncvision">
+    <title>Xiaogang Village Today, Ep 3</title>
+</programme>
+<programme start="20251216210000 +0000" stop="20251216213000 +0000" channel="CGTN Documentary.mncvision">
+    <title>Makers: Chronicling... Ep 1</title>
+</programme>
+<programme start="20251216213000 +0000" stop="20251216220000 +0000" channel="CGTN Documentary.mncvision">
+    <title>A Decade In China..., Ep 9</title>
+</programme>
+<programme start="20251216220000 +0000" stop="20251216230000 +0000" channel="CGTN Documentary.mncvision">
+    <title>National Treasure..., Ep 4</title>
+</programme>
+<programme start="20251216230000 +0000" stop="20251216233000 +0000" channel="CGTN Documentary.mncvision">
+    <title>Decoded: Chinese..., Ep 2</title>
+</programme>
+<programme start="20251216233000 +0000" stop="20251217000000 +0000" channel="CGTN Documentary.mncvision">
+    <title>Wings Of War, Battle..., Ep 4</title>
+</programme>
+<programme start="20251217000000 +0000" stop="20251217010000 +0000" channel="CGTN Documentary.mncvision">
+    <title>Flavors Of...: Exploring Tastes</title>
+</programme>
+<programme start="20251217010000 +0000" stop="20251217013000 +0000" channel="CGTN Documentary.mncvision">
+    <title>Running In The Dark, Ep 4</title>
+</programme>
+<programme start="20251217013000 +0000" stop="20251217020000 +0000" channel="CGTN Documentary.mncvision">
+    <title>Fruits Of Friendship, Ep 2</title>
+</programme>
+<programme start="20251217020000 +0000" stop="20251217030000 +0000" channel="CGTN Documentary.mncvision">
+    <title>Xiaogang Village Today, Ep 3</title>
+</programme>
+<programme start="20251217030000 +0000" stop="20251217033000 +0000" channel="CGTN Documentary.mncvision">
+    <title>Makers: Chronicling... Ep 1</title>
+</programme>
+<programme start="20251217033000 +0000" stop="20251217040000 +0000" channel="CGTN Documentary.mncvision">
+    <title>A Decade In China..., Ep 9</title>
+</programme>
+<programme start="20251217040000 +0000" stop="20251217050000 +0000" channel="CGTN Documentary.mncvision">
+    <title>National Treasure..., Ep 4</title>
+</programme>
+<programme start="20251217050000 +0000" stop="20251217053000 +0000" channel="CGTN Documentary.mncvision">
+    <title>Decoded: Chinese..., Ep 2</title>
+</programme>
+<programme start="20251217053000 +0000" stop="20251217060000 +0000" channel="CGTN Documentary.mncvision">
+    <title>Wings Of War, Battle..., Ep 4</title>
+</programme>
+<programme start="20251217060000 +0000" stop="20251217070000 +0000" channel="CGTN Documentary.mncvision">
+    <title>Flavors Of...: Exploring Tastes</title>
+</programme>
+<programme start="20251217070000 +0000" stop="20251217073000 +0000" channel="CGTN Documentary.mncvision">
+    <title>Running In The Dark, Ep 4</title>
+</programme>
+<programme start="20251217073000 +0000" stop="20251217080000 +0000" channel="CGTN Documentary.mncvision">
+    <title>Fruits Of Friendship, Ep 2</title>
+</programme>
+<programme start="20251217080000 +0000" stop="20251217090000 +0000" channel="CGTN Documentary.mncvision">
+    <title>Xiaogang Village Today, Ep 3</title>
+</programme>
+<programme start="20251217090000 +0000" stop="20251217093000 +0000" channel="CGTN Documentary.mncvision">
+    <title>Makers: Chronicling... Ep 1</title>
+</programme>
+<programme start="20251217093000 +0000" stop="20251217100000 +0000" channel="CGTN Documentary.mncvision">
+    <title>A Decade In China..., Ep 9</title>
+</programme>
+<programme start="20251217100000 +0000" stop="20251217110000 +0000" channel="CGTN Documentary.mncvision">
+    <title>National Treasure..., Ep 4</title>
+</programme>
+<programme start="20251217110000 +0000" stop="20251217113000 +0000" channel="CGTN Documentary.mncvision">
+    <title>Decoded: Chinese..., Ep 2</title>
+</programme>
+<programme start="20251217113000 +0000" stop="20251217120000 +0000" channel="CGTN Documentary.mncvision">
+    <title>Wings Of War, Battle..., Ep 4</title>
+</programme>
+<programme start="20251217120000 +0000" stop="20251217130000 +0000" channel="CGTN Documentary.mncvision">
+    <title>Flavors Of...: Exploring Tastes</title>
+</programme>
+<programme start="20251217130000 +0000" stop="20251217133000 +0000" channel="CGTN Documentary.mncvision">
+    <title>Running In The Dark, Ep 4</title>
+</programme>
+<programme start="20251217133000 +0000" stop="20251217140000 +0000" channel="CGTN Documentary.mncvision">
+    <title>Fruits Of Friendship, Ep 2</title>
+</programme>
+<programme start="20251217140000 +0000" stop="20251217150000 +0000" channel="CGTN Documentary.mncvision">
+    <title>Xiaogang Village Today, Ep 3</title>
+</programme>
+<programme start="20251217150000 +0000" stop="20251217153000 +0000" channel="CGTN Documentary.mncvision">
+    <title>Makers: Chronicling... Ep 1</title>
+</programme>
+<programme start="20251217153000 +0000" stop="20251217160000 +0000" channel="CGTN Documentary.mncvision">
+    <title>A Decade In China..., Ep 9</title>
+</programme>
+<programme start="20251217160000 +0000" stop="20251217163000 +0000" channel="CGTN Documentary.mncvision">
+    <title>National Treasure..., Ep 4</title>
+</programme>
 <programme start="20251216170000 +0000" stop="20251216180000 +0000" channel="Channel News Asia.mncvision">
     <title>The Gen-Z Rebels</title>
 </programme>
@@ -4679,20 +4786,20 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20251217010000 +0000" stop="20251217020000 +0000" channel="iNews.mncvision">
     <title>Lapor Polisi (L)</title>
 </programme>
-<programme start="20251217020000 +0000" stop="20251217021000 +0000" channel="iNews.mncvision">
-    <title>Breaking News (L)</title>
+<programme start="20251217020000 +0000" stop="20251217021500 +0000" channel="iNews.mncvision">
+    <title>Breaking News SEA Games (L)</title>
 </programme>
-<programme start="20251217021000 +0000" stop="20251217035000 +0000" channel="iNews.mncvision">
+<programme start="20251217021500 +0000" stop="20251217035000 +0000" channel="iNews.mncvision">
     <title>iNews Today (L)</title>
 </programme>
 <programme start="20251217035000 +0000" stop="20251217040000 +0000" channel="iNews.mncvision">
-    <title>Breaking News (L)</title>
+    <title>Breaking News SEA Games (L)</title>
 </programme>
 <programme start="20251217040000 +0000" stop="20251217060000 +0000" channel="iNews.mncvision">
     <title>iNews Siang (L)</title>
 </programme>
 <programme start="20251217060000 +0000" stop="20251217061000 +0000" channel="iNews.mncvision">
-    <title>Breaking News (L)</title>
+    <title>Breaking News SEA Games (L)</title>
 </programme>
 <programme start="20251217061000 +0000" stop="20251217064500 +0000" channel="iNews.mncvision">
     <title>Pemimpin Rakyat (L)</title>
@@ -4772,20 +4879,20 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20251217010000 +0000" stop="20251217020000 +0000" channel="iNews HD.mncvision">
     <title>Lapor Polisi (L)</title>
 </programme>
-<programme start="20251217020000 +0000" stop="20251217021000 +0000" channel="iNews HD.mncvision">
-    <title>Breaking News (L)</title>
+<programme start="20251217020000 +0000" stop="20251217021500 +0000" channel="iNews HD.mncvision">
+    <title>Breaking News SEA Games (L)</title>
 </programme>
-<programme start="20251217021000 +0000" stop="20251217035000 +0000" channel="iNews HD.mncvision">
+<programme start="20251217021500 +0000" stop="20251217035000 +0000" channel="iNews HD.mncvision">
     <title>iNews Today (L)</title>
 </programme>
 <programme start="20251217035000 +0000" stop="20251217040000 +0000" channel="iNews HD.mncvision">
-    <title>Breaking News (L)</title>
+    <title>Breaking News SEA Games (L)</title>
 </programme>
 <programme start="20251217040000 +0000" stop="20251217060000 +0000" channel="iNews HD.mncvision">
     <title>iNews Siang (L)</title>
 </programme>
 <programme start="20251217060000 +0000" stop="20251217061000 +0000" channel="iNews HD.mncvision">
-    <title>Breaking News (L)</title>
+    <title>Breaking News SEA Games (L)</title>
 </programme>
 <programme start="20251217061000 +0000" stop="20251217064500 +0000" channel="iNews HD.mncvision">
     <title>Pemimpin Rakyat (L)</title>
@@ -8090,7 +8197,13 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20251217010000 +0000" stop="20251217020000 +0000" channel="Sportstars 2.mncvision">
     <title>SEA Games Thailand 2025</title>
 </programme>
-<programme start="20251217020000 +0000" stop="20251217090000 +0000" channel="Sportstars 2.mncvision">
+<programme start="20251217020000 +0000" stop="20251217043000 +0000" channel="Sportstars 2.mncvision">
+    <title>SEA Games Thailand 2025 (L)</title>
+</programme>
+<programme start="20251217043000 +0000" stop="20251217063000 +0000" channel="Sportstars 2.mncvision">
+    <title>SEA Games Thailand 2025 (L)</title>
+</programme>
+<programme start="20251217063000 +0000" stop="20251217090000 +0000" channel="Sportstars 2.mncvision">
     <title>SEA Games Thailand 2025 (L)</title>
 </programme>
 <programme start="20251217090000 +0000" stop="20251217110000 +0000" channel="Sportstars 2.mncvision">
@@ -8120,7 +8233,13 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20251217010000 +0000" stop="20251217020000 +0000" channel="Sportstars 2 HD.mncvision">
     <title>SEA Games Thailand 2025</title>
 </programme>
-<programme start="20251217020000 +0000" stop="20251217090000 +0000" channel="Sportstars 2 HD.mncvision">
+<programme start="20251217020000 +0000" stop="20251217043000 +0000" channel="Sportstars 2 HD.mncvision">
+    <title>SEA Games Thailand 2025 (L)</title>
+</programme>
+<programme start="20251217043000 +0000" stop="20251217063000 +0000" channel="Sportstars 2 HD.mncvision">
+    <title>SEA Games Thailand 2025 (L)</title>
+</programme>
+<programme start="20251217063000 +0000" stop="20251217090000 +0000" channel="Sportstars 2 HD.mncvision">
     <title>SEA Games Thailand 2025 (L)</title>
 </programme>
 <programme start="20251217090000 +0000" stop="20251217110000 +0000" channel="Sportstars 2 HD.mncvision">
@@ -8168,14 +8287,11 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20251217083000 +0000" stop="20251217103000 +0000" channel="Sportstars 3.mncvision">
     <title>SEA Games Thailand 2025 (L)</title>
 </programme>
-<programme start="20251217103000 +0000" stop="20251217113000 +0000" channel="Sportstars 3.mncvision">
+<programme start="20251217103000 +0000" stop="20251217120000 +0000" channel="Sportstars 3.mncvision">
     <title>SEA Games Thailand 2025 (L)</title>
 </programme>
-<programme start="20251217113000 +0000" stop="20251217133000 +0000" channel="Sportstars 3.mncvision">
-    <title>ASEAN Club C&#039;ship Shopee (L)</title>
-</programme>
-<programme start="20251217133000 +0000" stop="20251217140000 +0000" channel="Sportstars 3.mncvision">
-    <title>Top Goals</title>
+<programme start="20251217120000 +0000" stop="20251217140000 +0000" channel="Sportstars 3.mncvision">
+    <title>SEA Games Thailand 2025 (L)</title>
 </programme>
 <programme start="20251217140000 +0000" stop="20251217143000 +0000" channel="Sportstars 3.mncvision">
     <title>World Classic Soccer</title>
@@ -8216,14 +8332,11 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20251217083000 +0000" stop="20251217103000 +0000" channel="sportstars 3 HD.mncvision">
     <title>SEA Games Thailand 2025 (L)</title>
 </programme>
-<programme start="20251217103000 +0000" stop="20251217113000 +0000" channel="sportstars 3 HD.mncvision">
+<programme start="20251217103000 +0000" stop="20251217120000 +0000" channel="sportstars 3 HD.mncvision">
     <title>SEA Games Thailand 2025 (L)</title>
 </programme>
-<programme start="20251217113000 +0000" stop="20251217133000 +0000" channel="sportstars 3 HD.mncvision">
-    <title>ASEAN Club C&#039;ship Shopee (L)</title>
-</programme>
-<programme start="20251217133000 +0000" stop="20251217140000 +0000" channel="sportstars 3 HD.mncvision">
-    <title>Top Goals</title>
+<programme start="20251217120000 +0000" stop="20251217140000 +0000" channel="sportstars 3 HD.mncvision">
+    <title>SEA Games Thailand 2025 (L)</title>
 </programme>
 <programme start="20251217140000 +0000" stop="20251217143000 +0000" channel="sportstars 3 HD.mncvision">
     <title>World Classic Soccer</title>
@@ -8252,16 +8365,13 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20251217013000 +0000" stop="20251217020000 +0000" channel="Sportstars 4.mncvision">
     <title>Golden Fit</title>
 </programme>
-<programme start="20251217020000 +0000" stop="20251217023000 +0000" channel="Sportstars 4.mncvision">
-    <title>30 Minutes Extreme</title>
-</programme>
-<programme start="20251217023000 +0000" stop="20251217053000 +0000" channel="Sportstars 4.mncvision">
+<programme start="20251217020000 +0000" stop="20251217050000 +0000" channel="Sportstars 4.mncvision">
     <title>SEA Games Thailand 2025 (L)</title>
 </programme>
-<programme start="20251217053000 +0000" stop="20251217083000 +0000" channel="Sportstars 4.mncvision">
+<programme start="20251217050000 +0000" stop="20251217080000 +0000" channel="Sportstars 4.mncvision">
     <title>SEA Games Thailand 2025 (L)</title>
 </programme>
-<programme start="20251217083000 +0000" stop="20251217100000 +0000" channel="Sportstars 4.mncvision">
+<programme start="20251217080000 +0000" stop="20251217100000 +0000" channel="Sportstars 4.mncvision">
     <title>SEA Games Thailand 2025 (L)</title>
 </programme>
 <programme start="20251217100000 +0000" stop="20251217120000 +0000" channel="Sportstars 4.mncvision">
@@ -8297,16 +8407,13 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20251217013000 +0000" stop="20251217020000 +0000" channel="Sportstars 4 HD.mncvision">
     <title>Golden Fit</title>
 </programme>
-<programme start="20251217020000 +0000" stop="20251217023000 +0000" channel="Sportstars 4 HD.mncvision">
-    <title>30 Minutes Extreme</title>
-</programme>
-<programme start="20251217023000 +0000" stop="20251217053000 +0000" channel="Sportstars 4 HD.mncvision">
+<programme start="20251217020000 +0000" stop="20251217050000 +0000" channel="Sportstars 4 HD.mncvision">
     <title>SEA Games Thailand 2025 (L)</title>
 </programme>
-<programme start="20251217053000 +0000" stop="20251217083000 +0000" channel="Sportstars 4 HD.mncvision">
+<programme start="20251217050000 +0000" stop="20251217080000 +0000" channel="Sportstars 4 HD.mncvision">
     <title>SEA Games Thailand 2025 (L)</title>
 </programme>
-<programme start="20251217083000 +0000" stop="20251217100000 +0000" channel="Sportstars 4 HD.mncvision">
+<programme start="20251217080000 +0000" stop="20251217100000 +0000" channel="Sportstars 4 HD.mncvision">
     <title>SEA Games Thailand 2025 (L)</title>
 </programme>
 <programme start="20251217100000 +0000" stop="20251217120000 +0000" channel="Sportstars 4 HD.mncvision">
@@ -8429,7 +8536,10 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20251217043000 +0000" stop="20251217062000 +0000" channel="SPOTV 2.mncvision">
     <title>GTour Men&#039;s 7th Tournament</title>
 </programme>
-<programme start="20251217062000 +0000" stop="20251217121000 +0000" channel="SPOTV 2.mncvision">
+<programme start="20251217062000 +0000" stop="20251217092000 +0000" channel="SPOTV 2.mncvision">
+    <title>WTT Finals Hong Kong 2025</title>
+</programme>
+<programme start="20251217092000 +0000" stop="20251217121000 +0000" channel="SPOTV 2.mncvision">
     <title>WTT Finals Hong Kong 2025</title>
 </programme>
 <programme start="20251217121000 +0000" stop="20251217163000 +0000" channel="SPOTV 2.mncvision">
@@ -8453,7 +8563,10 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20251217043000 +0000" stop="20251217062000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>GTour Men&#039;s 7th Tournament</title>
 </programme>
-<programme start="20251217062000 +0000" stop="20251217121000 +0000" channel="SPOTV 2 HD.mncvision">
+<programme start="20251217062000 +0000" stop="20251217092000 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>WTT Finals Hong Kong 2025</title>
+</programme>
+<programme start="20251217092000 +0000" stop="20251217121000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>WTT Finals Hong Kong 2025</title>
 </programme>
 <programme start="20251217121000 +0000" stop="20251217163000 +0000" channel="SPOTV 2 HD.mncvision">

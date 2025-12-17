@@ -66,10 +66,6 @@
     <title>Football: Ferencvarosi TC - Rangers FC</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251217075000 +0700" stop="20251217095000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Parma - SS Lazio</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251217095000 +0700" stop="20251217100500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Sports Highlights</title>
     <desc>Live: Tidak</desc>
@@ -124,6 +120,10 @@
 </programme>
 <programme start="20251218080000 +0700" stop="20251218100000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: ACF Fiorentina - Hellas Verona</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251218100000 +0700" stop="20251218120000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Lecce - Pisa</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251217090000 +0700" stop="20251217110000 +0700" channel="COSMOTE Sport 3 HD">
@@ -186,8 +186,8 @@
     <title>Copa Libertadores 2025 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251217071500 +0700" stop="20251217092500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Szolnoki Olaj - AEK</title>
+<programme start="20251218100000 +0700" stop="20251218110000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Emirates FA Cup 2025-26 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251217092500 +0700" stop="20251217102000 +0700" channel="COSMOTE Sport 4 HD">
@@ -269,10 +269,6 @@
 <programme start="20251218080000 +0700" stop="20251218110000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Minnesota Timberwolves - Memphis Grizzlies (L)</title>
     <desc>Live: Ya</desc>
-</programme>
-<programme start="20251217081500 +0700" stop="20251217094000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>DTM</title>
-    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251217094000 +0700" stop="20251217110000 +0700" channel="COSMOTE Sport 5 HD">
     <title>DTM 2025</title>
