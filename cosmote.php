@@ -1,15 +1,3 @@
-<programme start="20251217210000 +0700" stop="20251217231500 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: Kavala - Panathinaikos (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20251217231500 +0700" stop="20251217233000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Sports Highlights</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251217233000 +0700" stop="20251218000000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Sports Classics: Football Countdowns E10</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251218000000 +0700" stop="20251218010000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Highlights: UEL &amp; UECL 2025-26</title>
     <desc>Live: Tidak</desc>
@@ -130,6 +118,10 @@
     <title>Football: PAOK - Marko</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251219003000 +0700" stop="20251219023000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Bologna - Juventus Football Club</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251217230000 +0700" stop="20251218010000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Wrexham  - Watford</title>
     <desc>Live: Tidak</desc>
@@ -194,16 +186,8 @@
     <title>Football: Dundee United - Celtic FC</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251217212000 +0700" stop="20251217231000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Szolnoki Olaj - AEK</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251217231000 +0700" stop="20251217233000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Sports Classics: Worldies E9</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251217233000 +0700" stop="20251218000000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>ACB Liga Endesa 2025-26 - Fifth Quarter E10</title>
+<programme start="20251219003000 +0700" stop="20251219030000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: St. Mirren - Celtic FC</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251218000000 +0700" stop="20251218021000 +0700" channel="COSMOTE Sport 4 HD">
@@ -262,8 +246,8 @@
     <title>Basketball: Promitheas - Rytas Vilnius</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251217230000 +0700" stop="20251218000000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: MotoGP 2025</title>
+<programme start="20251219002000 +0700" stop="20251219030000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Minnesota Timberwolves - Memphis Grizzlies</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251218000000 +0700" stop="20251218010000 +0700" channel="COSMOTE Sport 5 HD">
@@ -355,6 +339,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251218230000 +0700" stop="20251219000000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: MotoGP 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251219000000 +0700" stop="20251219010000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Motorsports: MotoGP 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
