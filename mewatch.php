@@ -67,8 +67,11 @@
     <programme start="20251217070000 +0000" stop="20251217080000 +0000" channel="Channel 5.mewatch">
         <title>Table Tennis - 33rd SEA Games Thailand 2025: Men&#039;s Singles Preliminary Round - SGP vs INA</title>
     </programme>
-    <programme start="20251217080000 +0000" stop="20251217110000 +0000" channel="Channel 5.mewatch">
+    <programme start="20251217080000 +0000" stop="20251217100500 +0000" channel="Channel 5.mewatch">
         <title>Netball - 33rd SEA Games Thailand 2025: Women&#039;s Final - SGP vs MAS</title>
+    </programme>
+    <programme start="20251217100500 +0000" stop="20251217110000 +0000" channel="Channel 5.mewatch">
+        <title>Water Polo - 33rd SEA Games Thailand 2025: Women&#039;s Round Robin - MAS vs SGP</title>
     </programme>
     <programme start="20251217110000 +0000" stop="20251217120000 +0000" channel="Channel 5.mewatch">
         <title>Diving - 33rd SEA Games Thailand 2025: Men&#039;s 1m Springboard Final</title>

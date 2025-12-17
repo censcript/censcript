@@ -415,23 +415,23 @@
 <programme start="20251217060000 +0000" stop="20251217073000 +0000" channel="ANTV.mncvision">
     <title>Jhanak</title>
 </programme>
-<programme start="20251217073000 +0000" stop="20251217084500 +0000" channel="ANTV.mncvision">
+<programme start="20251217073000 +0000" stop="20251217083000 +0000" channel="ANTV.mncvision">
     <title>Shani</title>
 </programme>
-<programme start="20251217084500 +0000" stop="20251217110000 +0000" channel="ANTV.mncvision">
+<programme start="20251217083000 +0000" stop="20251217110000 +0000" channel="ANTV.mncvision">
     <title>Jodoh Boleh Diatur</title>
 </programme>
 <programme start="20251217110000 +0000" stop="20251217123000 +0000" channel="ANTV.mncvision">
-    <title>Ajian Ratu Laut Kidul</title>
+    <title>Senandung Cinta Lilis</title>
 </programme>
 <programme start="20251217123000 +0000" stop="20251217140000 +0000" channel="ANTV.mncvision">
-    <title>Senandung Cinta Lilis</title>
+    <title>Ajian Ratu Laut Kidul</title>
 </programme>
 <programme start="20251217140000 +0000" stop="20251217160000 +0000" channel="ANTV.mncvision">
     <title>Tawa Kalcer</title>
 </programme>
 <programme start="20251217160000 +0000" stop="20251217163000 +0000" channel="ANTV.mncvision">
-    <title>Zombie Chickadee</title>
+    <title>Dukun Ilmu Hitam</title>
 </programme>
 <programme start="20251216170000 +0000" stop="20251216173000 +0000" channel="Arirang.mncvision">
     <title>The Kulture Wave</title>

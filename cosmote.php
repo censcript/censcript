@@ -126,6 +126,10 @@
     <title>Football: Lecce - Pisa</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251218181000 +0700" stop="20251218202000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Olympiacos - Iraklis</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251217170000 +0700" stop="20251217190000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Chesterfield  - Doncaster Rovers</title>
     <desc>Live: Tidak</desc>
@@ -184,10 +188,6 @@
 </programme>
 <programme start="20251218170000 +0700" stop="20251218190000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Brackley Town - Burton Albion</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251217155000 +0700" stop="20251217175000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Aquila Basket Trento - Reyer Venezia</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251217175000 +0700" stop="20251217195000 +0700" channel="COSMOTE Sport 4 HD">
@@ -252,10 +252,6 @@
 </programme>
 <programme start="20251218172000 +0700" stop="20251218195000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Minnesota Timberwolves - Memphis Grizzlies</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251217165000 +0700" stop="20251217173500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251217173500 +0700" stop="20251217183000 +0700" channel="COSMOTE Sport 5 HD">
@@ -354,8 +350,8 @@
     <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251217143000 +0700" stop="20251217180000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>2025 Premier Padel Tour Finals</title>
+<programme start="20251218183000 +0700" stop="20251218193500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251217180000 +0700" stop="20251217200000 +0700" channel="COSMOTE Sport 6 HD">
@@ -405,6 +401,10 @@
 <programme start="20251218140000 +0700" stop="20251218180000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: 2025 Next Gen ATP Finals</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251218180000 +0700" stop="20251218200000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: 2025 Next Gen ATP Finals (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20251217170000 +0700" stop="20251217190000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
