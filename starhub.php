@@ -3815,7 +3815,7 @@
         <title>Working Dogs mini</title>
     </programme>
     <programme start="20251218034500 +0000" stop="20251218040000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Drama Serial &quot;The Ghost Writer&#039;s Wife&quot; Eps. 59 (R)</title>
+        <title>Drama Serial &quot;The Ghost Writer&#039;s Wife&quot; Ep. 59 (R)</title>
     </programme>
     <programme start="20251218040000 +0000" stop="20251218040500 +0000" channel="NHK World Premium HD.starhub">
         <title>News</title>
@@ -3848,7 +3848,7 @@
         <title>See, Learn, Explore--A Deep Travelogue in Tohoku (R)</title>
     </programme>
     <programme start="20251218081000 +0000" stop="20251218082000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Mini Program</title>
+        <title>Darwin&#039;s Amazing Animals 10min.</title>
     </programme>
     <programme start="20251218082000 +0000" stop="20251218083500 +0000" channel="NHK World Premium HD.starhub">
         <title>Peek-a-boo</title>
@@ -3890,10 +3890,10 @@
         <title>Venue101 Special Edition</title>
     </programme>
     <programme start="20251218133000 +0000" stop="20251218134500 +0000" channel="NHK World Premium HD.starhub">
-        <title>Mini Program</title>
+        <title>Fishing Crazy</title>
     </programme>
     <programme start="20251218134500 +0000" stop="20251218140000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Night Drama Serial &quot;Stewing-A Journey to Taste Warmth&quot; Ibaraki Edition Eps. 4 (F</title>
+        <title>Night Drama Serial &quot;Stewing-A Journey to Taste Warmth&quot; Ibaraki Edition Ep. 4 (Fi</title>
     </programme>
     <programme start="20251218140000 +0000" stop="20251218143000 +0000" channel="NHK World Premium HD.starhub">
         <title>Tokoro-san&#039;s Pursuit of Truth (R)</title>
