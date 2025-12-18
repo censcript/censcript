@@ -211,7 +211,42 @@
 <programme start="20251218163000 +0000" stop="20251217170000 +0000" channel="Al Jazeera English.mncvision">
     <title>Witness: Bangladesh</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20251217170000 +0000" stop="20251217190000 +0000" channel="Al Quran Al Kareem.mncvision">
+    <title>Live From Mekkah</title>
+</programme>
+<programme start="20251217190000 +0000" stop="20251217210000 +0000" channel="Al Quran Al Kareem.mncvision">
+    <title>Live From Mekkah</title>
+</programme>
+<programme start="20251217210000 +0000" stop="20251217230000 +0000" channel="Al Quran Al Kareem.mncvision">
+    <title>Live From Mekkah</title>
+</programme>
+<programme start="20251217230000 +0000" stop="20251218010000 +0000" channel="Al Quran Al Kareem.mncvision">
+    <title>Live From Mekkah</title>
+</programme>
+<programme start="20251218010000 +0000" stop="20251218030000 +0000" channel="Al Quran Al Kareem.mncvision">
+    <title>Live From Mekkah</title>
+</programme>
+<programme start="20251218030000 +0000" stop="20251218050000 +0000" channel="Al Quran Al Kareem.mncvision">
+    <title>Live From Mekkah</title>
+</programme>
+<programme start="20251218050000 +0000" stop="20251218070000 +0000" channel="Al Quran Al Kareem.mncvision">
+    <title>Live From Mekkah</title>
+</programme>
+<programme start="20251218070000 +0000" stop="20251218090000 +0000" channel="Al Quran Al Kareem.mncvision">
+    <title>Live From Mekkah</title>
+</programme>
+<programme start="20251218090000 +0000" stop="20251218110000 +0000" channel="Al Quran Al Kareem.mncvision">
+    <title>Live From Mekkah</title>
+</programme>
+<programme start="20251218110000 +0000" stop="20251218130000 +0000" channel="Al Quran Al Kareem.mncvision">
+    <title>Live From Mekkah</title>
+</programme>
+<programme start="20251218130000 +0000" stop="20251218150000 +0000" channel="Al Quran Al Kareem.mncvision">
+    <title>Live From Mekkah</title>
+</programme>
+<programme start="20251218150000 +0000" stop="20251218153000 +0000" channel="Al Quran Al Kareem.mncvision">
+    <title>Live From Mekkah</title>
+</programme>
 <programme start="20251217170000 +0000" stop="20251217173000 +0000" channel="Animax.mncvision">
     <title>Grand Blue, Ep 9</title>
 </programme>
@@ -8105,10 +8140,13 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20251218000000 +0000" stop="20251218020000 +0000" channel="Sportstars 2.mncvision">
     <title>SEA Games Thailand 2025</title>
 </programme>
-<programme start="20251218020000 +0000" stop="20251218040000 +0000" channel="Sportstars 2.mncvision">
+<programme start="20251218020000 +0000" stop="20251218043000 +0000" channel="Sportstars 2.mncvision">
     <title>SEA Games Thailand 2025 (L)</title>
 </programme>
-<programme start="20251218040000 +0000" stop="20251218090000 +0000" channel="Sportstars 2.mncvision">
+<programme start="20251218043000 +0000" stop="20251218063000 +0000" channel="Sportstars 2.mncvision">
+    <title>SEA Games Thailand 2025 (L)</title>
+</programme>
+<programme start="20251218063000 +0000" stop="20251218090000 +0000" channel="Sportstars 2.mncvision">
     <title>SEA Games Thailand 2025 (L)</title>
 </programme>
 <programme start="20251218090000 +0000" stop="20251218113000 +0000" channel="Sportstars 2.mncvision">
@@ -8135,10 +8173,13 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20251218000000 +0000" stop="20251218020000 +0000" channel="Sportstars 2 HD.mncvision">
     <title>SEA Games Thailand 2025</title>
 </programme>
-<programme start="20251218020000 +0000" stop="20251218040000 +0000" channel="Sportstars 2 HD.mncvision">
+<programme start="20251218020000 +0000" stop="20251218043000 +0000" channel="Sportstars 2 HD.mncvision">
     <title>SEA Games Thailand 2025 (L)</title>
 </programme>
-<programme start="20251218040000 +0000" stop="20251218090000 +0000" channel="Sportstars 2 HD.mncvision">
+<programme start="20251218043000 +0000" stop="20251218063000 +0000" channel="Sportstars 2 HD.mncvision">
+    <title>SEA Games Thailand 2025 (L)</title>
+</programme>
+<programme start="20251218063000 +0000" stop="20251218090000 +0000" channel="Sportstars 2 HD.mncvision">
     <title>SEA Games Thailand 2025 (L)</title>
 </programme>
 <programme start="20251218090000 +0000" stop="20251218113000 +0000" channel="Sportstars 2 HD.mncvision">
@@ -8174,7 +8215,10 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20251218030000 +0000" stop="20251218060000 +0000" channel="Sportstars 3.mncvision">
     <title>SEA Games Thailand 2025 (L)</title>
 </programme>
-<programme start="20251218060000 +0000" stop="20251218090000 +0000" channel="Sportstars 3.mncvision">
+<programme start="20251218060000 +0000" stop="20251218070000 +0000" channel="Sportstars 3.mncvision">
+    <title>SEA Games Thailand 2025 (L)</title>
+</programme>
+<programme start="20251218070000 +0000" stop="20251218090000 +0000" channel="Sportstars 3.mncvision">
     <title>SEA Games Thailand 2025 (L)</title>
 </programme>
 <programme start="20251218090000 +0000" stop="20251218110000 +0000" channel="Sportstars 3.mncvision">
@@ -8184,10 +8228,10 @@ Error: Unable to fetch data. HTTP Status Code: 500
     <title>BRI Liga 1</title>
 </programme>
 <programme start="20251218130000 +0000" stop="20251218150000 +0000" channel="Sportstars 3.mncvision">
-    <title>Liga 2</title>
+    <title>European Qualifiers</title>
 </programme>
 <programme start="20251218150000 +0000" stop="20251218153000 +0000" channel="Sportstars 3.mncvision">
-    <title>Bundesliga</title>
+    <title>Liga 2</title>
 </programme>
 <programme start="20251217170000 +0000" stop="20251217190000 +0000" channel="sportstars 3 HD.mncvision">
     <title>Bundesliga</title>
@@ -8207,7 +8251,10 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20251218030000 +0000" stop="20251218060000 +0000" channel="sportstars 3 HD.mncvision">
     <title>SEA Games Thailand 2025 (L)</title>
 </programme>
-<programme start="20251218060000 +0000" stop="20251218090000 +0000" channel="sportstars 3 HD.mncvision">
+<programme start="20251218060000 +0000" stop="20251218070000 +0000" channel="sportstars 3 HD.mncvision">
+    <title>SEA Games Thailand 2025 (L)</title>
+</programme>
+<programme start="20251218070000 +0000" stop="20251218090000 +0000" channel="sportstars 3 HD.mncvision">
     <title>SEA Games Thailand 2025 (L)</title>
 </programme>
 <programme start="20251218090000 +0000" stop="20251218110000 +0000" channel="sportstars 3 HD.mncvision">
@@ -8217,10 +8264,10 @@ Error: Unable to fetch data. HTTP Status Code: 500
     <title>BRI Liga 1</title>
 </programme>
 <programme start="20251218130000 +0000" stop="20251218150000 +0000" channel="sportstars 3 HD.mncvision">
-    <title>Liga 2</title>
+    <title>European Qualifiers</title>
 </programme>
 <programme start="20251218150000 +0000" stop="20251218153000 +0000" channel="sportstars 3 HD.mncvision">
-    <title>Bundesliga</title>
+    <title>Liga 2</title>
 </programme>
 <programme start="20251217170000 +0000" stop="20251217190000 +0000" channel="Sportstars 4.mncvision">
     <title>Bundesliga</title>
