@@ -6781,14 +6781,11 @@
     <programme start="20251218105000 +0000" stop="20251218124000 +0000" channel="beIN Sports HD.starhub">
         <title>LaLiga 2025/26: Atletico Madrid vs Valencia</title>
     </programme>
-    <programme start="20251218124000 +0000" stop="20251218143000 +0000" channel="beIN Sports HD.starhub">
+    <programme start="20251218124000 +0000" stop="20251218152000 +0000" channel="beIN Sports HD.starhub">
         <title>FIFA Intercontinental Cup 2025: PSG vs Flamengo - Final</title>
     </programme>
-    <programme start="20251218143000 +0000" stop="20251218150000 +0000" channel="beIN Sports HD.starhub">
-        <title>Fastzone 2025</title>
-    </programme>
-    <programme start="20251218150000 +0000" stop="20251218153000 +0000" channel="beIN Sports HD.starhub">
-        <title>Mini Match - LaLiga 2025/26: Barcelona vs Osasuna</title>
+    <programme start="20251218152000 +0000" stop="20251218153000 +0000" channel="beIN Sports HD.starhub">
+        <title>Vini Jr</title>
     </programme>
     <programme start="20251218153000 +0000" stop="20251218160000 +0000" channel="beIN Sports HD.starhub">
         <title>Mini Match - LaLiga 2025/26: Alaves vs Real Madrid</title>

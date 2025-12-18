@@ -211,42 +211,7 @@
 <programme start="20251218163000 +0000" stop="20251217170000 +0000" channel="Al Jazeera English.mncvision">
     <title>Witness: Bangladesh</title>
 </programme>
-<programme start="20251217170000 +0000" stop="20251217190000 +0000" channel="Al Quran Al Kareem.mncvision">
-    <title>Live From Mekkah</title>
-</programme>
-<programme start="20251217190000 +0000" stop="20251217210000 +0000" channel="Al Quran Al Kareem.mncvision">
-    <title>Live From Mekkah</title>
-</programme>
-<programme start="20251217210000 +0000" stop="20251217230000 +0000" channel="Al Quran Al Kareem.mncvision">
-    <title>Live From Mekkah</title>
-</programme>
-<programme start="20251217230000 +0000" stop="20251218010000 +0000" channel="Al Quran Al Kareem.mncvision">
-    <title>Live From Mekkah</title>
-</programme>
-<programme start="20251218010000 +0000" stop="20251218030000 +0000" channel="Al Quran Al Kareem.mncvision">
-    <title>Live From Mekkah</title>
-</programme>
-<programme start="20251218030000 +0000" stop="20251218050000 +0000" channel="Al Quran Al Kareem.mncvision">
-    <title>Live From Mekkah</title>
-</programme>
-<programme start="20251218050000 +0000" stop="20251218070000 +0000" channel="Al Quran Al Kareem.mncvision">
-    <title>Live From Mekkah</title>
-</programme>
-<programme start="20251218070000 +0000" stop="20251218090000 +0000" channel="Al Quran Al Kareem.mncvision">
-    <title>Live From Mekkah</title>
-</programme>
-<programme start="20251218090000 +0000" stop="20251218110000 +0000" channel="Al Quran Al Kareem.mncvision">
-    <title>Live From Mekkah</title>
-</programme>
-<programme start="20251218110000 +0000" stop="20251218130000 +0000" channel="Al Quran Al Kareem.mncvision">
-    <title>Live From Mekkah</title>
-</programme>
-<programme start="20251218130000 +0000" stop="20251218150000 +0000" channel="Al Quran Al Kareem.mncvision">
-    <title>Live From Mekkah</title>
-</programme>
-<programme start="20251218150000 +0000" stop="20251218153000 +0000" channel="Al Quran Al Kareem.mncvision">
-    <title>Live From Mekkah</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20251217170000 +0000" stop="20251217173000 +0000" channel="Animax.mncvision">
     <title>Grand Blue, Ep 9</title>
 </programme>
