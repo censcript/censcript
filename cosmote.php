@@ -62,6 +62,10 @@
     <title>Game R1 S6 E17</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251220040000 +0700" stop="20251220050000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEFA Champions League Highlights 2025-26</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251219030000 +0700" stop="20251219050500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: AEK - Universitatea Craiova (L)</title>
     <desc>Live: Ya</desc>
@@ -400,6 +404,10 @@
 </programme>
 <programme start="20251220033000 +0700" stop="20251220040000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Sports Classics: The Outdoor Sports Show 2024 E12</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251220040000 +0700" stop="20251220080000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: 2025 Next Gen ATP Finals</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251219030000 +0700" stop="20251219050500 +0700" channel="COSMOTE Sport 7 HD">
