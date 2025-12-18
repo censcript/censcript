@@ -1,100 +1,97 @@
-<programme start="20251211230000 +0000" stop="20251211235000 +0000" channel="13th Street HD.skyde">
+<programme start="20251217230500 +0000" stop="20251217235000 +0000" channel="13th Street HD.skyde">
     <title>Navy CIS</title>
 </programme>
-<programme start="20251211235000 +0000" stop="20251212003000 +0000" channel="13th Street HD.skyde">
+<programme start="20251217235000 +0000" stop="20251218003000 +0000" channel="13th Street HD.skyde">
     <title>Law &amp; Order</title>
 </programme>
-<programme start="20251212003000 +0000" stop="20251212011000 +0000" channel="13th Street HD.skyde">
+<programme start="20251218003000 +0000" stop="20251218011000 +0000" channel="13th Street HD.skyde">
     <title>Law &amp; Order</title>
 </programme>
-<programme start="20251212011000 +0000" stop="20251212015000 +0000" channel="13th Street HD.skyde">
+<programme start="20251218011000 +0000" stop="20251218015500 +0000" channel="13th Street HD.skyde">
     <title>Law &amp; Order</title>
 </programme>
-<programme start="20251212015000 +0000" stop="20251212023500 +0000" channel="13th Street HD.skyde">
+<programme start="20251218015500 +0000" stop="20251218024000 +0000" channel="13th Street HD.skyde">
     <title>Law &amp; Order: Special Victims Unit</title>
 </programme>
-<programme start="20251212023500 +0000" stop="20251212031500 +0000" channel="13th Street HD.skyde">
+<programme start="20251218024000 +0000" stop="20251218032000 +0000" channel="13th Street HD.skyde">
     <title>Law &amp; Order: Special Victims Unit</title>
 </programme>
-<programme start="20251212031500 +0000" stop="20251212035500 +0000" channel="13th Street HD.skyde">
+<programme start="20251218032000 +0000" stop="20251218040500 +0000" channel="13th Street HD.skyde">
     <title>Law &amp; Order: Special Victims Unit</title>
 </programme>
-<programme start="20251212035500 +0000" stop="20251212040500 +0000" channel="13th Street HD.skyde">
-    <title>Die 13. Wahrheit - Uwe Ochsenknecht erzählt</title>
-</programme>
-<programme start="20251212040500 +0000" stop="20251212045000 +0000" channel="13th Street HD.skyde">
+<programme start="20251218040500 +0000" stop="20251218045000 +0000" channel="13th Street HD.skyde">
     <title>Navy CIS</title>
 </programme>
-<programme start="20251212045000 +0000" stop="20251212053500 +0000" channel="13th Street HD.skyde">
+<programme start="20251218045000 +0000" stop="20251218053500 +0000" channel="13th Street HD.skyde">
     <title>Navy CIS</title>
 </programme>
-<programme start="20251212053500 +0000" stop="20251212062000 +0000" channel="13th Street HD.skyde">
+<programme start="20251218053500 +0000" stop="20251218062000 +0000" channel="13th Street HD.skyde">
     <title>Law &amp; Order</title>
 </programme>
-<programme start="20251212062000 +0000" stop="20251212070500 +0000" channel="13th Street HD.skyde">
+<programme start="20251218062000 +0000" stop="20251218070500 +0000" channel="13th Street HD.skyde">
     <title>Law &amp; Order</title>
 </programme>
-<programme start="20251212070500 +0000" stop="20251212075000 +0000" channel="13th Street HD.skyde">
+<programme start="20251218070500 +0000" stop="20251218075000 +0000" channel="13th Street HD.skyde">
     <title>Law &amp; Order</title>
 </programme>
-<programme start="20251212075000 +0000" stop="20251212083500 +0000" channel="13th Street HD.skyde">
+<programme start="20251218075000 +0000" stop="20251218083500 +0000" channel="13th Street HD.skyde">
     <title>Law &amp; Order: Special Victims Unit</title>
 </programme>
-<programme start="20251212083500 +0000" stop="20251212092000 +0000" channel="13th Street HD.skyde">
+<programme start="20251218083500 +0000" stop="20251218092000 +0000" channel="13th Street HD.skyde">
     <title>Law &amp; Order: Special Victims Unit</title>
 </programme>
-<programme start="20251212092000 +0000" stop="20251212100500 +0000" channel="13th Street HD.skyde">
+<programme start="20251218092000 +0000" stop="20251218100500 +0000" channel="13th Street HD.skyde">
     <title>Law &amp; Order: Special Victims Unit</title>
 </programme>
-<programme start="20251212100500 +0000" stop="20251212105000 +0000" channel="13th Street HD.skyde">
+<programme start="20251218100500 +0000" stop="20251218105500 +0000" channel="13th Street HD.skyde">
     <title>Law &amp; Order: Special Victims Unit</title>
 </programme>
-<programme start="20251212105000 +0000" stop="20251212113500 +0000" channel="13th Street HD.skyde">
+<programme start="20251218105500 +0000" stop="20251218114000 +0000" channel="13th Street HD.skyde">
     <title>Law &amp; Order: Special Victims Unit</title>
 </programme>
-<programme start="20251212113500 +0000" stop="20251212122500 +0000" channel="13th Street HD.skyde">
+<programme start="20251218114000 +0000" stop="20251218122500 +0000" channel="13th Street HD.skyde">
     <title>Law &amp; Order: Special Victims Unit</title>
 </programme>
-<programme start="20251212122500 +0000" stop="20251212131000 +0000" channel="13th Street HD.skyde">
+<programme start="20251218122500 +0000" stop="20251218131000 +0000" channel="13th Street HD.skyde">
     <title>Law &amp; Order</title>
 </programme>
-<programme start="20251212131000 +0000" stop="20251212135500 +0000" channel="13th Street HD.skyde">
+<programme start="20251218131000 +0000" stop="20251218135500 +0000" channel="13th Street HD.skyde">
     <title>Law &amp; Order</title>
 </programme>
-<programme start="20251212135500 +0000" stop="20251212144000 +0000" channel="13th Street HD.skyde">
+<programme start="20251218135500 +0000" stop="20251218144000 +0000" channel="13th Street HD.skyde">
     <title>Law &amp; Order</title>
 </programme>
-<programme start="20251212144000 +0000" stop="20251212152500 +0000" channel="13th Street HD.skyde">
+<programme start="20251218144000 +0000" stop="20251218152500 +0000" channel="13th Street HD.skyde">
     <title>Criminal Minds</title>
 </programme>
-<programme start="20251212152500 +0000" stop="20251212160500 +0000" channel="13th Street HD.skyde">
+<programme start="20251218152500 +0000" stop="20251218161000 +0000" channel="13th Street HD.skyde">
     <title>Criminal Minds</title>
 </programme>
-<programme start="20251212160500 +0000" stop="20251212165500 +0000" channel="13th Street HD.skyde">
+<programme start="20251218161000 +0000" stop="20251218165500 +0000" channel="13th Street HD.skyde">
     <title>Criminal Minds</title>
 </programme>
-<programme start="20251212165500 +0000" stop="20251212174000 +0000" channel="13th Street HD.skyde">
+<programme start="20251218165500 +0000" stop="20251218174000 +0000" channel="13th Street HD.skyde">
     <title>Criminal Minds</title>
 </programme>
-<programme start="20251212174000 +0000" stop="20251212182500 +0000" channel="13th Street HD.skyde">
+<programme start="20251218174000 +0000" stop="20251218182500 +0000" channel="13th Street HD.skyde">
     <title>Navy CIS</title>
 </programme>
-<programme start="20251212182500 +0000" stop="20251212191500 +0000" channel="13th Street HD.skyde">
+<programme start="20251218182500 +0000" stop="20251218191500 +0000" channel="13th Street HD.skyde">
     <title>Navy CIS</title>
 </programme>
-<programme start="20251212191500 +0000" stop="20251212200000 +0000" channel="13th Street HD.skyde">
+<programme start="20251218191500 +0000" stop="20251218200000 +0000" channel="13th Street HD.skyde">
     <title>Hawaii Five-0</title>
 </programme>
-<programme start="20251212200000 +0000" stop="20251212204500 +0000" channel="13th Street HD.skyde">
+<programme start="20251218200000 +0000" stop="20251218204500 +0000" channel="13th Street HD.skyde">
     <title>Hawaii Five-0</title>
 </programme>
-<programme start="20251212204500 +0000" stop="20251212213000 +0000" channel="13th Street HD.skyde">
+<programme start="20251218204500 +0000" stop="20251218213000 +0000" channel="13th Street HD.skyde">
     <title>Hawaii Five-0</title>
 </programme>
-<programme start="20251212213000 +0000" stop="20251212221500 +0000" channel="13th Street HD.skyde">
+<programme start="20251218213000 +0000" stop="20251218221500 +0000" channel="13th Street HD.skyde">
     <title>Hawaii Five-0</title>
 </programme>
-<programme start="20251212221500 +0000" stop="20251212230000 +0000" channel="13th Street HD.skyde">
+<programme start="20251218221500 +0000" stop="20251218230000 +0000" channel="13th Street HD.skyde">
     <title>Navy CIS</title>
 </programme>
 <programme start="20251217231500 +0000" stop="20251217233000 +0000" channel="Beate Uhse HD.skyde">
