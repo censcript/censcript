@@ -1543,7 +1543,7 @@
     <programme start="20251218123000 +0000" stop="20251218140000 +0000" channel="COLORS Tamil HD.starhub">
         <title>Bigg Boss Unseen</title>
     </programme>
-    <programme start="20251218140000 +0000" stop="20251218170000 +0000" channel="COLORS Tamil HD.starhub">
+    <programme start="20251218140000 +0000" stop="20251218160000 +0000" channel="COLORS Tamil HD.starhub">
         <title>Nenjamundu Nermaiyundu Odu Raja</title>
     </programme>
     <programme start="20251217160000 +0000" stop="20251217180000 +0000" channel="TVBS Asia.starhub">
@@ -3176,7 +3176,7 @@
         <title>News in Review</title>
     </programme>
     <programme start="20251217223000 +0000" stop="20251217230000 +0000" channel="DW English HD.starhub">
-        <title>Your Business Magazine</title>
+        <title>US tech builds mega data center for AI revolution</title>
     </programme>
     <programme start="20251217230000 +0000" stop="20251217231500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3209,7 +3209,7 @@
         <title>News in Review</title>
     </programme>
     <programme start="20251218023000 +0000" stop="20251218030000 +0000" channel="DW English HD.starhub">
-        <title>Your Business Magazine</title>
+        <title>US tech builds mega data center for AI revolution</title>
     </programme>
     <programme start="20251218030000 +0000" stop="20251218031500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3242,7 +3242,7 @@
         <title>Small turbines, huge potential: Can alternative hydropower save the planet?</title>
     </programme>
     <programme start="20251218063000 +0000" stop="20251218070000 +0000" channel="DW English HD.starhub">
-        <title>Your Business Magazine</title>
+        <title>US tech builds mega data center for AI revolution</title>
     </programme>
     <programme start="20251218070000 +0000" stop="20251218073000 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -7834,7 +7834,7 @@
     <programme start="20251218103000 +0000" stop="20251218133000 +0000" channel="Asianet Movies.starhub">
         <title>Kammatti Paadam</title>
     </programme>
-    <programme start="20251218133000 +0000" stop="20251218163000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251218133000 +0000" stop="20251218164000 +0000" channel="Asianet Movies.starhub">
         <title>King of Kotha</title>
     </programme>
     <programme start="20251217160000 +0000" stop="20251217163000 +0000" channel="Astro Warna HD.starhub">
