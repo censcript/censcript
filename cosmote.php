@@ -58,6 +58,10 @@
     <title>UEFA Champions League Highlights 2025-26</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251219183000 +0700" stop="20251219203000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: Crystal Palace - KuPS Kuopio</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251218161000 +0700" stop="20251218181000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Lecce - Pisa</title>
     <desc>Live: Tidak</desc>
@@ -118,6 +122,10 @@
     <title>Football: Parma - SS Lazio</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251219181000 +0700" stop="20251219202000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Kavala - Panathinaikos</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251218170000 +0700" stop="20251218190000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Brackley Town - Burton Albion</title>
     <desc>Live: Tidak</desc>
@@ -174,10 +182,6 @@
     <title>Football: AEK Larnaca - Shkendija</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251218150000 +0700" stop="20251218172000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Fenerbahce - Anadolu Efes</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251218172000 +0700" stop="20251218195000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Minnesota Timberwolves - Memphis Grizzlies</title>
     <desc>Live: Tidak</desc>
@@ -232,10 +236,6 @@
 </programme>
 <programme start="20251219170000 +0700" stop="20251219193000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: New Orleans Pelicans - Houston Rockets</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251218165500 +0700" stop="20251218174500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251218174500 +0700" stop="20251218183000 +0700" channel="COSMOTE Sport 5 HD">
@@ -338,8 +338,8 @@
     <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251218140000 +0700" stop="20251218180000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: 2025 Next Gen ATP Finals</title>
+<programme start="20251219183000 +0700" stop="20251219193500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251218180000 +0700" stop="20251218200000 +0700" channel="COSMOTE Sport 6 HD">
@@ -401,6 +401,10 @@
 <programme start="20251219140000 +0700" stop="20251219180000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: 2025 Next Gen ATP Finals</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251219180000 +0700" stop="20251219200000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: 2025 Next Gen ATP Finals (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20251218170000 +0700" stop="20251218190000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
