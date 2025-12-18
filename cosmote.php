@@ -118,6 +118,10 @@
     <title>Football: Torino - Cremonese</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251219161000 +0700" stop="20251219181000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Parma - SS Lazio</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251218150000 +0700" stop="20251218170000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: FC Porto - CF Estrela de Amadora</title>
     <desc>Live: Tidak</desc>
@@ -230,10 +234,6 @@
     <title>Basketball: Armani Milano - Virtus Bologna</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251218133500 +0700" stop="20251218150500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251218150500 +0700" stop="20251218161000 +0700" channel="COSMOTE Sport 5 HD">
     <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
@@ -331,6 +331,14 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251219150000 +0700" stop="20251219160500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251219160500 +0700" stop="20251219164500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251219164500 +0700" stop="20251219175000 +0700" channel="COSMOTE Sport 5 HD">
     <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
