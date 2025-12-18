@@ -1088,7 +1088,7 @@
     <title lang="id">Profesionáli III (16)</title>
   </programme>
   <programme start="20251220013500 +0000" stop="20251220023000 +0000" channel="JOJ Plus.webtv.sk">
-    <title lang="id">Mafstory VII (2)</title>
+    <title lang="id">Nová záhrada</title>
   </programme>
   <programme start="20251220023000 +0000" stop="20251220040500 +0000" channel="JOJ Plus.webtv.sk">
     <title lang="id">V siedmom nebi</title>
@@ -1727,7 +1727,7 @@
     <title lang="id">Téma s Petrom Bielikom</title>
   </programme>
   <programme start="20251220084000 +0000" stop="20251220091500 +0000" channel="Kanal1.webtv.sk">
-    <title lang="id">Bielik Online</title>
+    <title lang="id">Bielik Online - Alexander Matušek</title>
   </programme>
   <programme start="20251220091500 +0000" stop="20251220103000 +0000" channel="Kanal1.webtv.sk">
     <title lang="id">Veliteľ (4)</title>
@@ -1754,7 +1754,7 @@
     <title lang="id">Arnold Schwarzenegger: Splnený americký sen</title>
   </programme>
   <programme start="20251220163000 +0000" stop="20251220175000 +0000" channel="Kanal1.webtv.sk">
-    <title lang="id">Slovenská klasika: Výlet do mladosti</title>
+    <title lang="id">Slovenská klasika: Pozor, ide Jozefína!</title>
   </programme>
   <programme start="20251220175000 +0000" stop="20251220183000 +0000" channel="Kanal1.webtv.sk">
     <title lang="id">Doslova</title>
@@ -1762,13 +1762,13 @@
   <programme start="20251220183000 +0000" stop="20251220191000 +0000" channel="Kanal1.webtv.sk">
     <title lang="id">Téma s Petrom Bielikom</title>
   </programme>
-  <programme start="20251220191000 +0000" stop="20251220210000 +0000" channel="Kanal1.webtv.sk">
-    <title lang="id">ZDENĚK SVĚRÁK: Kolja</title>
+  <programme start="20251220191000 +0000" stop="20251220205500 +0000" channel="Kanal1.webtv.sk">
+    <title lang="id">Jean-Paul Belmodno: Gašparko</title>
   </programme>
-  <programme start="20251220210000 +0000" stop="20251220223500 +0000" channel="Kanal1.webtv.sk">
+  <programme start="20251220205500 +0000" stop="20251220223000 +0000" channel="Kanal1.webtv.sk">
     <title lang="id">Na hrane smrti</title>
   </programme>
-  <programme start="20251220223500 +0000" stop="20251221003000 +0000" channel="Kanal1.webtv.sk">
+  <programme start="20251220223000 +0000" stop="20251221002500 +0000" channel="Kanal1.webtv.sk">
     <title lang="id">KAREL RODEN: Masaryk</title>
   </programme>
   <programme start="20251219230000 +0000" stop="20251219231500 +0000" channel="Jojko.webtv.sk">
@@ -2147,7 +2147,7 @@
     <title lang="id">Dobrodružstvá Bolka a Lolka I (22)</title>
   </programme>
   <programme start="20251220055500 +0000" stop="20251220061000 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Flopy</title>
+    <title lang="id">Flopy (182)</title>
   </programme>
   <programme start="20251220061000 +0000" stop="20251220063500 +0000" channel="RiK TV.webtv.sk">
     <title lang="id">Barbie: Dotyk kúziel I (16)</title>
@@ -9973,16 +9973,16 @@
   <programme start="20251220225000 +0000" stop="20251220231500 +0000" channel="Disney Junior.webtv.sk">
     <title lang="id">PJ Masks V (120)</title>
   </programme>
-  <programme start="20251219225000 +0000" stop="20251219231500 +0000" channel="Nickelodeon.webtv.sk">
+  <programme start="20251219224500 +0000" stop="20251219231000 +0000" channel="Nickelodeon.webtv.sk">
     <title lang="id">Hlasiťákovi VII (5)</title>
   </programme>
-  <programme start="20251219231500 +0000" stop="20251219234500 +0000" channel="Nickelodeon.webtv.sk">
+  <programme start="20251219231000 +0000" stop="20251219234000 +0000" channel="Nickelodeon.webtv.sk">
     <title lang="id">Henry Nebezpečný III (1)</title>
   </programme>
-  <programme start="20251219234500 +0000" stop="20251220000500 +0000" channel="Nickelodeon.webtv.sk">
+  <programme start="20251219234000 +0000" stop="20251220001000 +0000" channel="Nickelodeon.webtv.sk">
     <title lang="id">Nebezpečná síla II (17)</title>
   </programme>
-  <programme start="20251220000500 +0000" stop="20251220003500 +0000" channel="Nickelodeon.webtv.sk">
+  <programme start="20251220001000 +0000" stop="20251220003500 +0000" channel="Nickelodeon.webtv.sk">
     <title lang="id">Thundermanovi v utajení II (7)</title>
   </programme>
   <programme start="20251220003500 +0000" stop="20251220010000 +0000" channel="Nickelodeon.webtv.sk">
@@ -9991,13 +9991,13 @@
   <programme start="20251220010000 +0000" stop="20251220012000 +0000" channel="Nickelodeon.webtv.sk">
     <title lang="id">Příběy Želv ninja I (4)</title>
   </programme>
-  <programme start="20251220012000 +0000" stop="20251220014000 +0000" channel="Nickelodeon.webtv.sk">
+  <programme start="20251220012000 +0000" stop="20251220014500 +0000" channel="Nickelodeon.webtv.sk">
     <title lang="id">Příběy Želv ninja I (5)</title>
   </programme>
-  <programme start="20251220014000 +0000" stop="20251220020000 +0000" channel="Nickelodeon.webtv.sk">
+  <programme start="20251220014500 +0000" stop="20251220020500 +0000" channel="Nickelodeon.webtv.sk">
     <title lang="id">Příběy Želv ninja I (6)</title>
   </programme>
-  <programme start="20251220020000 +0000" stop="20251220022500 +0000" channel="Nickelodeon.webtv.sk">
+  <programme start="20251220020500 +0000" stop="20251220022500 +0000" channel="Nickelodeon.webtv.sk">
     <title lang="id">Nej a Nejnejka I (11)</title>
   </programme>
   <programme start="20251220022500 +0000" stop="20251220025000 +0000" channel="Nickelodeon.webtv.sk">
@@ -16508,10 +16508,10 @@
     <title lang="id">Pеальное кино: Виниловая нация</title>
   </programme>
   <programme start="20251220040000 +0000" stop="20251220043000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Перекресток</title>
+    <title lang="id">Перекресток: Фронт приближается</title>
   </programme>
   <programme start="20251220043000 +0000" stop="20251220050000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Ждем в гости</title>
+    <title lang="id">Ждем в гости: На природе с комфортом</title>
   </programme>
   <programme start="20251220050000 +0000" stop="20251220060000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">Археология</title>
@@ -16523,7 +16523,7 @@
     <title lang="id">Лицом к событию</title>
   </programme>
   <programme start="20251220073000 +0000" stop="20251220080000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Перекресток</title>
+    <title lang="id">Перекресток: Фронт приближается</title>
   </programme>
   <programme start="20251220080000 +0000" stop="20251220083000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">Донбасс.Pеалии</title>
@@ -16544,43 +16544,58 @@
     <title lang="id">DW. Европа в фокусе</title>
   </programme>
   <programme start="20251220130000 +0000" stop="20251220133000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">#ВУкраине</title>
+    <title lang="id">Все сложно: Что на самом деле происходит в Мариуполе?</title>
   </programme>
   <programme start="20251220133000 +0000" stop="20251220140000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Перекрёсток</title>
+    <title lang="id">Перекресток: Фронт приближается</title>
   </programme>
-  <programme start="20251220140000 +0000" stop="20251220143000 +0000" channel="Current Time.webtv.sk">
+  <programme start="20251220140000 +0000" stop="20251220141500 +0000" channel="Current Time.webtv.sk">
     <title lang="id">Новости</title>
   </programme>
-  <programme start="20251220143000 +0000" stop="20251220150000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Спецпроект.Док</title>
+  <programme start="20251220141500 +0000" stop="20251220143000 +0000" channel="Current Time.webtv.sk">
+    <title lang="id">Перекресток: Отшельники</title>
   </programme>
-  <programme start="20251220150000 +0000" stop="20251220160000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">VOTVOT</title>
+  <programme start="20251220143000 +0000" stop="20251220144500 +0000" channel="Current Time.webtv.sk">
+    <title lang="id">С нуля: Ap$ent</title>
+  </programme>
+  <programme start="20251220144500 +0000" stop="20251220150000 +0000" channel="Current Time.webtv.sk">
+    <title lang="id">Д/ф &quot;Блуждающая боль&quot;</title>
+  </programme>
+  <programme start="20251220150000 +0000" stop="20251220153000 +0000" channel="Current Time.webtv.sk">
+    <title lang="id">Не Нейтральные: Михаил Яковлев. От войны к войне</title>
+  </programme>
+  <programme start="20251220153000 +0000" stop="20251220160000 +0000" channel="Current Time.webtv.sk">
+    <title lang="id">Эмигранты: Прага</title>
   </programme>
   <programme start="20251220160000 +0000" stop="20251220170000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">Грани времени</title>
   </programme>
   <programme start="20251220170000 +0000" stop="20251220173000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Pеальная история</title>
+    <title lang="id">Защитницы: &quot;Бучанские ведьмы&quot;</title>
   </programme>
   <programme start="20251220173000 +0000" stop="20251220180000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Балтийский путь</title>
+    <title lang="id">Балтийский путь: Трудовые мигранты</title>
   </programme>
   <programme start="20251220180000 +0000" stop="20251220183000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Специальный репортаж Настоящего Времени</title>
+    <title lang="id">Все сложно: Что на самом деле происходит в Мариуполе?</title>
   </programme>
   <programme start="20251220183000 +0000" stop="20251220190000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">DW. Искусство в деталях</title>
   </programme>
-  <programme start="20251220190000 +0000" stop="20251220200000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">За Нашу Свободу. Интервью</title>
+  <programme start="20251220190000 +0000" stop="20251220193000 +0000" channel="Current Time.webtv.sk">
+    <title lang="id">За Нашу Свободу: Интервью. Ирина Лагунина</title>
+  </programme>
+  <programme start="20251220193000 +0000" stop="20251220200000 +0000" channel="Current Time.webtv.sk">
+    <title lang="id">За нашу Свободу: Свобода в Праге</title>
   </programme>
   <programme start="20251220200000 +0000" stop="20251220220000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">Pеальное кино: Восточный фронт</title>
   </programme>
-  <programme start="20251220220000 +0000" stop="20251220230000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">VOTVOT</title>
+  <programme start="20251220220000 +0000" stop="20251220223000 +0000" channel="Current Time.webtv.sk">
+    <title lang="id">Не Нейтральные: Михаил Яковлев. От войны к войне</title>
+  </programme>
+  <programme start="20251220223000 +0000" stop="20251220230000 +0000" channel="Current Time.webtv.sk">
+    <title lang="id">Эмигранты: Прага</title>
   </programme>
   <programme start="20251219230000 +0000" stop="20251219233500 +0000" channel="Armenia 1 TV.webtv.sk">
     <title lang="id">Different Style</title>
@@ -17099,7 +17114,7 @@
     <title lang="id">NHK NEWSLINE</title>
   </programme>
   <programme start="20251220081000 +0000" stop="20251220090000 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">Documentary 360</title>
+    <title lang="id">In the Wake of Agent Orange: 50 Years After the Vietnam War</title>
   </programme>
   <programme start="20251220090000 +0000" stop="20251220091000 +0000" channel="NHK World Japan.webtv.sk">
     <title lang="id">NHK NEWSLINE</title>
@@ -17174,7 +17189,7 @@
     <title lang="id">NHK NEWSLINE</title>
   </programme>
   <programme start="20251220141000 +0000" stop="20251220150000 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">Documentary 360</title>
+    <title lang="id">In the Wake of Agent Orange: 50 Years After the Vietnam War</title>
   </programme>
   <programme start="20251220150000 +0000" stop="20251220151000 +0000" channel="NHK World Japan.webtv.sk">
     <title lang="id">NHK NEWSLINE</title>
@@ -17249,7 +17264,7 @@
     <title lang="id">NHK NEWSLINE</title>
   </programme>
   <programme start="20251220201000 +0000" stop="20251220210000 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">Documentary 360</title>
+    <title lang="id">In the Wake of Agent Orange: 50 Years After the Vietnam War</title>
   </programme>
   <programme start="20251220210000 +0000" stop="20251220211000 +0000" channel="NHK World Japan.webtv.sk">
     <title lang="id">NHK NEWSLINE</title>

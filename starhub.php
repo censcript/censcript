@@ -2093,10 +2093,10 @@
         <title>World Sport</title>
     </programme>
     <programme start="20251218070000 +0000" stop="20251218080000 +0000" channel="CNN HD.starhub">
-        <title>CNN Newsroom (CNNI)</title>
+        <title>CNN Newsroom (CNNI) (60m)</title>
     </programme>
     <programme start="20251218080000 +0000" stop="20251218084500 +0000" channel="CNN HD.starhub">
-        <title>CNN Newsroom (CNNI)</title>
+        <title>CNN Newsroom (CNNI) (60m)</title>
     </programme>
     <programme start="20251218084500 +0000" stop="20251218090000 +0000" channel="CNN HD.starhub">
         <title>World Sport</title>
