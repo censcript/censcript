@@ -152,16 +152,16 @@
         <title>Sisters</title>
     </programme>
     <programme start="20251217180000 +0000" stop="20251217183000 +0000" channel="Zee Thirai.starhub">
-        <title>Freeticket</title>
+        <title>Free Ticket</title>
     </programme>
     <programme start="20251217183000 +0000" stop="20251217190000 +0000" channel="Zee Thirai.starhub">
-        <title>Freeticket</title>
+        <title>Free Ticket</title>
     </programme>
     <programme start="20251217190000 +0000" stop="20251217193000 +0000" channel="Zee Thirai.starhub">
-        <title>Freeticket</title>
+        <title>Free Ticket</title>
     </programme>
     <programme start="20251217193000 +0000" stop="20251217200000 +0000" channel="Zee Thirai.starhub">
-        <title>Freeticket</title>
+        <title>Free Ticket</title>
     </programme>
     <programme start="20251217200000 +0000" stop="20251217220000 +0000" channel="Zee Thirai.starhub">
         <title>Maniyar Kudumbam</title>
@@ -3746,7 +3746,7 @@
         <title>World&#039;s Magnificent Sight Journey</title>
     </programme>
     <programme start="20251217183000 +0000" stop="20251217184500 +0000" channel="NHK World Premium HD.starhub">
-        <title>Drama Serial &quot;The Ghost Writer&#039;s Wife&quot; Eps. 58 (R)</title>
+        <title>Drama Serial &quot;The Ghost Writer&#039;s Wife&quot; Ep. 58 (R)</title>
     </programme>
     <programme start="20251217184500 +0000" stop="20251217195700 +0000" channel="NHK World Premium HD.starhub">
         <title>Puppy Comes Home! Part 9 (R)</title>
@@ -3773,7 +3773,7 @@
         <title>News: Good Morning, Japan</title>
     </programme>
     <programme start="20251217230000 +0000" stop="20251217231500 +0000" channel="NHK World Premium HD.starhub">
-        <title>Drama Serial &quot;The Ghost Writer&#039;s Wife&quot; Eps. 59</title>
+        <title>Drama Serial &quot;The Ghost Writer&#039;s Wife&quot; Ep. 59</title>
     </programme>
     <programme start="20251217231500 +0000" stop="20251218005400 +0000" channel="NHK World Premium HD.starhub">
         <title>asaichi</title>
