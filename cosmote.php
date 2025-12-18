@@ -58,10 +58,6 @@
     <title>Football: FC Lausanne - ACF Fiorentina</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251218100000 +0700" stop="20251218120000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Lecce - Pisa</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251218120000 +0700" stop="20251218141000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Kavala - Panathinaikos</title>
     <desc>Live: Tidak</desc>
@@ -116,6 +112,10 @@
 </programme>
 <programme start="20251219100000 +0700" stop="20251219120000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Parma - SS Lazio</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251219120000 +0700" stop="20251219141000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: OFI - Panserraikos</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251218110000 +0700" stop="20251218130000 +0700" channel="COSMOTE Sport 3 HD">
@@ -230,10 +230,6 @@
     <title>Basketball: Manresa - Barcelona</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251218110000 +0700" stop="20251218115000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>2025 GT World Challenge Europe</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251218115000 +0700" stop="20251218124000 +0700" channel="COSMOTE Sport 5 HD">
     <title>2025 FIM Women&#039;s Circuit Racing World Championship</title>
     <desc>Live: Tidak</desc>
@@ -334,6 +330,10 @@
     <title>2025 FIM Women&#039;s Circuit Racing World Championship</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251219124000 +0700" stop="20251219132500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251218110000 +0700" stop="20251218131500 +0700" channel="COSMOTE Sport 6 HD">
     <title>Volleyball: Ziraat Bankasi SK Ankara - Tours VB</title>
     <desc>Live: Tidak</desc>
@@ -396,6 +396,10 @@
 </programme>
 <programme start="20251219110000 +0700" stop="20251219123500 +0700" channel="COSMOTE Sport 6 HD">
     <title>Volleyball: Olympiacos - Apeldoorn</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251219123500 +0700" stop="20251219133000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Nitto ATP Finals 2025 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251218110000 +0700" stop="20251218130000 +0700" channel="COSMOTE Sport 7 HD">
@@ -599,6 +603,10 @@
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20251219114500 +0700" stop="20251219120000 +0700" channel="COSMOTE Sport 9 HD">
+    <title>COSMOTESport9HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251219120000 +0700" stop="20251219130000 +0700" channel="COSMOTE Sport 9 HD">
     <title>COSMOTESport9HD</title>
     <desc>Live: Tidak</desc>
 </programme>

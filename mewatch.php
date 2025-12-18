@@ -70,8 +70,11 @@
     <programme start="20251218080000 +0000" stop="20251218103000 +0000" channel="Channel 5.mewatch">
         <title>Table Tennis - 33rd SEA Games Thailand 2025: Men&#039;s &amp; Women&#039;s Singles Preliminary Round 3</title>
     </programme>
-    <programme start="20251218103000 +0000" stop="20251218114500 +0000" channel="Channel 5.mewatch">
+    <programme start="20251218103000 +0000" stop="20251218110000 +0000" channel="Channel 5.mewatch">
         <title>Water Polo - 33rd SEA Games Thailand 2025: Women&#039;s Round Robin - SGP vs INA</title>
+    </programme>
+    <programme start="20251218110000 +0000" stop="20251218114500 +0000" channel="Channel 5.mewatch">
+        <title>33rd SEA Games 2025: Daily Action At The Games - EP 18</title>
     </programme>
     <programme start="20251218114500 +0000" stop="20251218130000 +0000" channel="Channel 5.mewatch">
         <title>Cycling Track - 33rd SEA Games Thailand 2025: Men&#039;s &amp; Women&#039;s Finals</title>
@@ -625,101 +628,86 @@
     <programme start="20251217153000 +0000" stop="20251217170000 +0000" channel="now-80s.mewatch">
         <title>Your Festive Party Channel! - EP1</title>
     </programme>
-    <programme start="20251217170000 +0000" stop="20251217213500 +0000" channel="now-80s.mewatch">
-        <title>Dirty Dancing! Top 60 - EP1</title>
+    <programme start="20251217160000 +0000" stop="20251217170000 +0000" channel="now-80s.mewatch">
+        <title>The NOW Yearbook 1986 - EP1</title>
     </programme>
-    <programme start="20251217213500 +0000" stop="20251217220000 +0000" channel="now-80s.mewatch">
-        <title>Eurovision Party Night! - EP1</title>
+    <programme start="20251217170000 +0000" stop="20251217230000 +0000" channel="now-80s.mewatch">
+        <title>Gary Davies: Video Hall of Fame! - EP1</title>
     </programme>
-    <programme start="20251217220000 +0000" stop="20251218001500 +0000" channel="now-80s.mewatch">
-        <title>Every Song From NOW 5 - 1985 - EP1</title>
+    <programme start="20251217230000 +0000" stop="20251218004000 +0000" channel="now-80s.mewatch">
+        <title>Nathan&#039;s 20 Xmas Boys &amp; Boybands - EP1</title>
     </programme>
-    <programme start="20251218001500 +0000" stop="20251218010000 +0000" channel="now-80s.mewatch">
-        <title>First Blast of Summer! - EP1</title>
+    <programme start="20251218004000 +0000" stop="20251218010000 +0000" channel="now-80s.mewatch">
+        <title>Your Festive Party Channel! - EP1</title>
     </programme>
-    <programme start="20251218010000 +0000" stop="20251218093000 +0000" channel="now-80s.mewatch">
-        <title>NOW 100 Hits: Love Songs! - EP1</title>
+    <programme start="20251218010000 +0000" stop="20251218033000 +0000" channel="now-80s.mewatch">
+        <title>Tony Hadley&#039;s Solid Gold Anthems! - EP1</title>
     </programme>
-    <programme start="20251218093000 +0000" stop="20251218103000 +0000" channel="now-80s.mewatch">
-        <title>Dirty Dancing! Top 60 - EP1</title>
+    <programme start="20251218033000 +0000" stop="20251218040000 +0000" channel="now-80s.mewatch">
+        <title>Your Festive Party Channel! - EP1</title>
     </programme>
-    <programme start="20251218103000 +0000" stop="20251218121000 +0000" channel="now-80s.mewatch">
-        <title>Alternative 80s! with Wayne Hussey - EP1</title>
+    <programme start="20251218040000 +0000" stop="20251218050000 +0000" channel="now-80s.mewatch">
+        <title>Golden Hour: Xmas in the 80s! - EP1</title>
     </programme>
-    <programme start="20251218121000 +0000" stop="20251218130000 +0000" channel="now-80s.mewatch">
-        <title>Best Played at 45 RPM! - EP1</title>
+    <programme start="20251218050000 +0000" stop="20251218070000 +0000" channel="now-80s.mewatch">
+        <title>Steps&#039; 25 Dance Moves of the 80s! - EP1</title>
+    </programme>
+    <programme start="20251218070000 +0000" stop="20251218110000 +0000" channel="now-80s.mewatch">
+        <title>Top Singalongs! 1980-1989 - EP1</title>
+    </programme>
+    <programme start="20251218110000 +0000" stop="20251218125000 +0000" channel="now-80s.mewatch">
+        <title>Christmas Crackers! 1980-1989 - EP1</title>
+    </programme>
+    <programme start="20251218125000 +0000" stop="20251218130000 +0000" channel="now-80s.mewatch">
+        <title>We&#039;re Feelin&#039; Xmas All Over! - EP1</title>
     </programme>
     <programme start="20251218130000 +0000" stop="20251218150000 +0000" channel="now-80s.mewatch">
-        <title>I Know You Got Soul! 1980-1989 - EP1</title>
+        <title>Christmas Stars - Then &amp; Now! - EP1</title>
     </programme>
-    <programme start="20251218150000 +0000" stop="20251218162500 +0000" channel="now-80s.mewatch">
-        <title>20 Reggae Classics of the 80s! - EP1</title>
+    <programme start="20251218150000 +0000" stop="20251218164000 +0000" channel="now-80s.mewatch">
+        <title>Nathan&#039;s 20 Xmas Boys &amp; Boybands - EP1</title>
     </programme>
-    <programme start="20251217160000 +0000" stop="20251217162500 +0000" channel="now-70s.mewatch">
-        <title>Eurovision Party! 70 from the 70s - EP1</title>
+    <programme start="20251217160000 +0000" stop="20251217172500 +0000" channel="now-70s.mewatch">
+        <title>Tony&#039;s Sensational 70s Xmas! - EP1</title>
     </programme>
-    <programme start="20251217162500 +0000" stop="20251217183000 +0000" channel="now-70s.mewatch">
-        <title>Carol Decker&#039;s 70s Rock Gods! - EP1</title>
+    <programme start="20251217172500 +0000" stop="20251217180000 +0000" channel="now-70s.mewatch">
+        <title>Simply Having A Wonderful Xmas! - EP1</title>
     </programme>
-    <programme start="20251217183000 +0000" stop="20251217192500 +0000" channel="now-70s.mewatch">
-        <title>70s Rock Anthems Night! - EP1</title>
+    <programme start="20251217180000 +0000" stop="20251217200500 +0000" channel="now-70s.mewatch">
+        <title>Sally James&#039; Bubblegum Pop! - EP1</title>
     </programme>
-    <programme start="20251217192500 +0000" stop="20251217210000 +0000" channel="now-70s.mewatch">
-        <title>Rock &#039;n&#039; Roll Top 5s: 1970-1979 - EP1</title>
+    <programme start="20251217200500 +0000" stop="20251217210000 +0000" channel="now-70s.mewatch">
+        <title>1974 Unleashed! - EP1</title>
     </programme>
-    <programme start="20251217210000 +0000" stop="20251217230500 +0000" channel="now-70s.mewatch">
-        <title>Kiki Dee&#039;s Duos &amp; Duets! 1970-1979 - EP1</title>
+    <programme start="20251217210000 +0000" stop="20251217220000 +0000" channel="now-70s.mewatch">
+        <title>Simon Bates Golden Hour: 1974 - EP1</title>
     </programme>
-    <programme start="20251217230500 +0000" stop="20251218000000 +0000" channel="now-70s.mewatch">
-        <title>70s Heatwave Hits! - EP1</title>
+    <programme start="20251217220000 +0000" stop="20251217232500 +0000" channel="now-70s.mewatch">
+        <title>Tony&#039;s Sensational 70s Xmas! - EP1</title>
     </programme>
-    <programme start="20251218000000 +0000" stop="20251218014000 +0000" channel="now-70s.mewatch">
-        <title>Country Crossovers! 1970-1979 - EP1</title>
+    <programme start="20251217232500 +0000" stop="20251218000000 +0000" channel="now-70s.mewatch">
+        <title>Simply Having A Wonderful Xmas! - EP1</title>
     </programme>
-    <programme start="20251218014000 +0000" stop="20251218020000 +0000" channel="now-70s.mewatch">
-        <title>70s Heatwave Hits! - EP1</title>
+    <programme start="20251218000000 +0000" stop="20251218043500 +0000" channel="now-70s.mewatch">
+        <title>Lessons in Love! 70s v 80s - EP1</title>
     </programme>
-    <programme start="20251218020000 +0000" stop="20251218040500 +0000" channel="now-70s.mewatch">
-        <title>Party Hits &#039;76! with Dave Bartram - EP1</title>
+    <programme start="20251218043500 +0000" stop="20251218050000 +0000" channel="now-70s.mewatch">
+        <title>Simply Having A Wonderful Xmas! - EP1</title>
     </programme>
-    <programme start="20251218040500 +0000" stop="20251218050000 +0000" channel="now-70s.mewatch">
-        <title>70s Heatwave Hits! - EP1</title>
+    <programme start="20251218050000 +0000" stop="20251218060000 +0000" channel="now-70s.mewatch">
+        <title>Pete Waterman&#039;s Xmas in the 70s - EP1</title>
     </programme>
-    <programme start="20251218050000 +0000" stop="20251218071000 +0000" channel="now-70s.mewatch">
-        <title>Blackburn&#039;s 25 Blue Sky Belters! - EP1</title>
+    <programme start="20251218060000 +0000" stop="20251218141000 +0000" channel="now-70s.mewatch">
+        <title>The NOW 100 of the 70s - EP1</title>
     </programme>
-    <programme start="20251218071000 +0000" stop="20251218080000 +0000" channel="now-70s.mewatch">
-        <title>70s Heatwave Hits! - EP1</title>
+    <programme start="20251218141000 +0000" stop="20251218150000 +0000" channel="now-70s.mewatch">
+        <title>Simply Having A Wonderful Xmas! - EP1</title>
     </programme>
-    <programme start="20251218080000 +0000" stop="20251218093000 +0000" channel="now-70s.mewatch">
-        <title>50 Summer Sizzlers! 1970-1979 - EP1</title>
+    <programme start="20251218150000 +0000" stop="20251218160000 +0000" channel="now-70s.mewatch">
+        <title>Simon Bates 70s Pop! Top 50 - EP1</title>
     </programme>
-    <programme start="20251218093000 +0000" stop="20251218095500 +0000" channel="now-70s.mewatch">
-        <title>Eurovision Party! 70 from the 70s - EP1</title>
-    </programme>
-    <programme start="20251218095500 +0000" stop="20251218103000 +0000" channel="now-70s.mewatch">
-        <title>Carol Decker&#039;s 70s Rock Gods! - EP1</title>
-    </programme>
-    <programme start="20251218103000 +0000" stop="20251218114500 +0000" channel="now-70s.mewatch">
-        <title>50 Summer Sizzlers! 1970-1979 - EP1</title>
-    </programme>
-    <programme start="20251218114500 +0000" stop="20251218120000 +0000" channel="now-70s.mewatch">
-        <title>Magic Moments! The 70s - EP1</title>
-    </programme>
-    <programme start="20251218120000 +0000" stop="20251218133500 +0000" channel="now-70s.mewatch">
-        <title>Bruno Brookes UK Top 20 of the 70s - EP1</title>
-    </programme>
-    <programme start="20251218133500 +0000" stop="20251218140000 +0000" channel="now-70s.mewatch">
-        <title>Magic Moments! The 70s - EP1</title>
-    </programme>
-    <programme start="20251218140000 +0000" stop="20251218155000 +0000" channel="now-70s.mewatch">
-        <title>It Could Only Happen In The 70s! - EP1</title>
-    </programme>
-    <programme start="20251218155000 +0000" stop="20251218160000 +0000" channel="now-70s.mewatch">
-        <title>It&#039;s A MASSIVE 70s Party Night! - EP1</title>
-    </programme>
-    <programme start="20251218160000 +0000" stop="20251218171000 +0000" channel="now-70s.mewatch">
-        <title>50 Summer Sizzlers! 1970-1979 - EP1</title>
+    <programme start="20251218160000 +0000" stop="20251218170000 +0000" channel="now-70s.mewatch">
+        <title>Pete Waterman&#039;s Xmas in the 70s - EP1</title>
     </programme>
     <programme start="20251217151500 +0000" stop="20251217165500 +0000" channel="cinemaworld.mewatch">
         <title>All For Diego</title>

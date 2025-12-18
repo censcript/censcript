@@ -2668,43 +2668,43 @@
 <programme start="20251218193000 +0000" stop="20251218195000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: LIVE UEFA Conference League</title>
 </programme>
-<programme start="20251218195000 +0000" stop="20251218220000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20251218195000 +0000" stop="20251218223000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live UEFA ECL: 1. FSV Mainz 05 - FC Samsunspor, Ligaphase, 6. Spieltag</title>
 </programme>
 <programme start="20251218193000 +0000" stop="20251218195000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Es folgt: LIVE UEFA Conference League</title>
 </programme>
-<programme start="20251218195000 +0000" stop="20251218220000 +0000" channel="Sky Sport Austria 3 HD.skyde">
-    <title>Live UEFA ECL: Crystal Palace - Kuopion PS, Ligaphase, 6. Spieltag</title>
+<programme start="20251218195000 +0000" stop="20251218223000 +0000" channel="Sky Sport Austria 3 HD.skyde">
+    <title>Live UEFA ECL: Crystal Palace - Kuopio PS, Ligaphase, 6. Spieltag</title>
 </programme>
 <programme start="20251218193000 +0000" stop="20251218195000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Es folgt: LIVE UEFA Conference League</title>
 </programme>
-<programme start="20251218195000 +0000" stop="20251218220000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+<programme start="20251218195000 +0000" stop="20251218223000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live UEFA ECL: FC Lausanne-Sport - AC Florenz, Ligaphase, 6. Spieltag</title>
 </programme>
 <programme start="20251218193000 +0000" stop="20251218195000 +0000" channel="Sky Sport Austria 5 HD.skyde">
     <title>Es folgt: LIVE UEFA Conference League</title>
 </programme>
-<programme start="20251218195000 +0000" stop="20251218220000 +0000" channel="Sky Sport Austria 5 HD.skyde">
+<programme start="20251218195000 +0000" stop="20251218223000 +0000" channel="Sky Sport Austria 5 HD.skyde">
     <title>Live UEFA ECL: Rayo Vallecano - FC Drita, Ligaphase, 6. Spieltag</title>
 </programme>
 <programme start="20251218193000 +0000" stop="20251218195000 +0000" channel="Sky Sport Austria 6 HD.skyde">
     <title>Es folgt: LIVE UEFA Conference League</title>
 </programme>
-<programme start="20251218195000 +0000" stop="20251218220000 +0000" channel="Sky Sport Austria 6 HD.skyde">
+<programme start="20251218195000 +0000" stop="20251218223000 +0000" channel="Sky Sport Austria 6 HD.skyde">
     <title>Live UEFA ECL: AZ Alkmaar - Jagiellonia Bialystok, Ligaphase, 6. Spieltag</title>
 </programme>
 <programme start="20251218193000 +0000" stop="20251218195000 +0000" channel="Sky Sport Austria 7 HD.skyde">
     <title>Es folgt: LIVE UEFA Conference League</title>
 </programme>
-<programme start="20251218195000 +0000" stop="20251218220000 +0000" channel="Sky Sport Austria 7 HD.skyde">
+<programme start="20251218195000 +0000" stop="20251218223000 +0000" channel="Sky Sport Austria 7 HD.skyde">
     <title>Live UEFA ECL: FC Strasbourg - Breidablik, Ligaphase, 6. Spieltag</title>
 </programme>
 <programme start="20251218193000 +0000" stop="20251218195000 +0000" channel="Sky Sport Austria 8 HD.skyde">
     <title>Es folgt: LIVE UEFA Conference League</title>
 </programme>
-<programme start="20251218195000 +0000" stop="20251218220000 +0000" channel="Sky Sport Austria 8 HD.skyde">
+<programme start="20251218195000 +0000" stop="20251218223000 +0000" channel="Sky Sport Austria 8 HD.skyde">
     <title>Live UEFA ECL: AEK Athen - Universitatea Craiova, Ligaphase, 6. Spieltag</title>
 </programme>
 <programme start="20251217230000 +0000" stop="20251218003500 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -2761,8 +2761,11 @@
 <programme start="20251218183000 +0000" stop="20251218193000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: Matchplan: RBL - B04, 15. Spieltag</title>
 </programme>
-<programme start="20251218193000 +0000" stop="20251218200000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: 90in30: B04 - KOE, 14. Spieltag</title>
+<programme start="20251218193000 +0000" stop="20251218194500 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: Alle Titel und Torrekord - Harry Kane exklusiv</title>
+</programme>
+<programme start="20251218194500 +0000" stop="20251218200000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: Dein Spieltags-Sprint (14)</title>
 </programme>
 <programme start="20251218200000 +0000" stop="20251218203000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: Report - Bundesliga Diamonds - The Next Generation</title>
@@ -2773,8 +2776,11 @@
 <programme start="20251218210000 +0000" stop="20251218213000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>Fußball: Spielmacher Podcast von Sports 360 mit Sebastian Hellmann (Gast: Rouven Schröder)</title>
 </programme>
-<programme start="20251218213000 +0000" stop="20251218220000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: 90in30: B04 - KOE, 14. Spieltag</title>
+<programme start="20251218213000 +0000" stop="20251218214500 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: Alle Titel und Torrekord - Harry Kane exklusiv</title>
+</programme>
+<programme start="20251218214500 +0000" stop="20251218220000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: Dein Spieltags-Sprint (14)</title>
 </programme>
 <programme start="20251218220000 +0000" stop="20251218230000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: Matchplan: RBL - B04, 15. Spieltag</title>
@@ -3164,25 +3170,25 @@
     <title>Next Gen ATP Finals: M. Landaluce (ESP) - N. Budkov Kjaer (NOR), 1. Tag in Jeddah (SAU)</title>
 </programme>
 <programme start="20251218110000 +0000" stop="20251218130000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live Next Gen ATP Finals: Spiel 1, 2. Tag in Jeddah (SAU)</title>
+    <title>Live Next Gen ATP Finals: J. Engel (GER) - D. Prizmic (CRO), 2. Tag in Jeddah (SAU)</title>
 </programme>
 <programme start="20251218130000 +0000" stop="20251218150000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live Next Gen ATP Finals: Spiel 2, 2. Tag in Jeddah (SAU)</title>
+    <title>Live Next Gen ATP Finals: N. Basavareddy (USA) - A. Blockx (BEL), 2. Tag in Jeddah (SAU)</title>
 </programme>
 <programme start="20251218150000 +0000" stop="20251218160000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP Finals: Review Turin 2025</title>
 </programme>
 <programme start="20251218160000 +0000" stop="20251218180000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live Next Gen ATP Finals: Spiel 3, 2. Tag in Jeddah (SAU)</title>
+    <title>Live Next Gen ATP Finals: N. Budkov Kjaer (NOR) - R. Jodar (ESP), 2. Tag in Jeddah (SAU)</title>
 </programme>
 <programme start="20251218180000 +0000" stop="20251218200000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live Next Gen ATP Finals: Spiel 4, 2. Tag in Jeddah (SAU)</title>
+    <title>Live Next Gen ATP Finals: M. Landaluce (ESP)  - L. Tien (USA), 2. Tag in Jeddah (SAU)</title>
 </programme>
 <programme start="20251218200000 +0000" stop="20251218220000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Next Gen ATP Finals: Spiel 1, 2. Tag in Jeddah (SAU)</title>
+    <title>Next Gen ATP Finals: J. Engel (GER) - D. Prizmic (CRO), 2. Tag in Jeddah (SAU)</title>
 </programme>
 <programme start="20251218220000 +0000" stop="20251219000000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Next Gen ATP Finals: Spiel 2, 2. Tag in Jeddah (SAU)</title>
+    <title>Next Gen ATP Finals: N. Basavareddy (USA) - A. Blockx (BEL), 2. Tag in Jeddah (SAU)</title>
 </programme>
 <programme start="20251217231500 +0000" stop="20251217233000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>NHL: Highlights UTA@BOS</title>
@@ -3221,7 +3227,7 @@
     <title>Live Next Gen ATP Finals: Spiel 1, 2. Tag in Jeddah (SAU)</title>
 </programme>
 <programme start="20251218130000 +0000" stop="20251218150000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live Next Gen ATP Finals: Spiel 2, 2. Tag in Jeddah (SAU)</title>
+    <title>Live Next Gen ATP Finals: N. Basavareddy (USA) - A. Blockx (BEL), 2. Tag in Jeddah (SAU)</title>
 </programme>
 <programme start="20251218150000 +0000" stop="20251218160000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>ATP Finals: Review Turin 2025</title>
