@@ -673,9 +673,6 @@
 <programme start="20251218010000 +0000" stop="20251218023000 +0000" channel="ANTV.vision">
 <title>Zeynep</title>
 </programme>
-<programme start="20251218023000 +0000" stop="20251218060000 +0000" channel="ANTV.vision">
-<title>Hanu Man</title>
-</programme>
 <programme start="20251218060000 +0000" stop="20251218073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -1496,5 +1493,8 @@
 <title>TVRI</title>
 </programme>
 <programme start="20251218170000 +0000" stop="20251218190000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251218190000 +0000" stop="20251218210000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
