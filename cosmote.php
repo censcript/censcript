@@ -1,7 +1,3 @@
-<programme start="20251218193000 +0700" stop="20251218213000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: PFC Ludogorets 1945 - PAOK</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251218213000 +0700" stop="20251218233000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Union Saint-Gilloise - Olympique de Marseille</title>
     <desc>Live: Tidak</desc>
@@ -56,6 +52,10 @@
 </programme>
 <programme start="20251219203000 +0700" stop="20251219223000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: FC Shakhtar Donetsk - Rijeka</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251219223000 +0700" stop="20251220003000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: FSV Mainz 05 - Samsunspor</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251218202000 +0700" stop="20251218222000 +0700" channel="COSMOTE Sport 2 HD">
@@ -118,6 +118,10 @@
     <title>Football: Genoa - FC Internazionale Milano</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251219222000 +0700" stop="20251220003000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Olympiacos - Iraklis</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251218203000 +0700" stop="20251218223000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Sheffield Wednesday - Derby County</title>
     <desc>Live: Tidak</desc>
@@ -168,10 +172,6 @@
 </programme>
 <programme start="20251219210000 +0700" stop="20251219230000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Rayo Vallecano de Madrid - FC Drita</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251218195000 +0700" stop="20251218220000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Unicaja - Karditsa</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251218220000 +0700" stop="20251219002000 +0700" channel="COSMOTE Sport 4 HD">
@@ -228,10 +228,6 @@
 </programme>
 <programme start="20251219214000 +0700" stop="20251219235000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Unicaja - Karditsa</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251218210000 +0700" stop="20251218220000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251218220000 +0700" stop="20251218230000 +0700" channel="COSMOTE Sport 5 HD">
@@ -330,6 +326,10 @@
     <title>WRC</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251219220000 +0700" stop="20251219230000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251218200000 +0700" stop="20251218223000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Alexander Blockx - Nishesh Basabareddy (L)</title>
     <desc>Live: Ya</desc>
@@ -393,6 +393,10 @@
 <programme start="20251219200000 +0700" stop="20251219223000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: 2025 Next Gen ATP Finals (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20251219223000 +0700" stop="20251219230000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Premier Padel Tour 2025 - Highlights</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251218210000 +0700" stop="20251218230000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>

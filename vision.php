@@ -673,20 +673,11 @@
 <programme start="20251218010000 +0000" stop="20251218023000 +0000" channel="ANTV.vision">
 <title>Zeynep</title>
 </programme>
-<programme start="20251218023000 +0000" stop="20251218060000 +0000" channel="ANTV.vision">
-<title>Hanu Man</title>
-</programme>
 <programme start="20251218060000 +0000" stop="20251218073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
 <programme start="20251218073000 +0000" stop="20251218084500 +0000" channel="ANTV.vision">
 <title>Shani</title>
-</programme>
-<programme start="20251218084500 +0000" stop="20251218110000 +0000" channel="ANTV.vision">
-<title>Sama Juga Bohong</title>
-</programme>
-<programme start="20251218110000 +0000" stop="20251218123000 +0000" channel="ANTV.vision">
-<title>Nyi Ageng Ratu Pemikat</title>
 </programme>
 <programme start="20251218123000 +0000" stop="20251218140000 +0000" channel="ANTV.vision">
 <title>Senandung Cinta Lilis</title>
@@ -1496,5 +1487,14 @@
 <title>TVRI</title>
 </programme>
 <programme start="20251218170000 +0000" stop="20251218190000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251218190000 +0000" stop="20251218210000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251218210000 +0000" stop="20251218230000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251218230000 +0000" stop="20251219010000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
