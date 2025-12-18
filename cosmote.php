@@ -1,7 +1,3 @@
-<programme start="20251218213000 +0700" stop="20251218233000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: Union Saint-Gilloise - Olympique de Marseille</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251218233000 +0700" stop="20251219013000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Samsunspor - AEK</title>
     <desc>Live: Tidak</desc>
@@ -56,6 +52,10 @@
 </programme>
 <programme start="20251219223000 +0700" stop="20251220003000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: FSV Mainz 05 - Samsunspor</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251220003000 +0700" stop="20251220023000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: AEK - Universitatea Craiova</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251218222000 +0700" stop="20251219003000 +0700" channel="COSMOTE Sport 2 HD">
@@ -116,6 +116,10 @@
 </programme>
 <programme start="20251219222000 +0700" stop="20251220003000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Olympiacos - Iraklis</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251220003000 +0700" stop="20251220023000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: AS Roma - Como</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251218223000 +0700" stop="20251219003000 +0700" channel="COSMOTE Sport 3 HD">
@@ -230,8 +234,8 @@
     <title>NBA Specials</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251218230000 +0700" stop="20251219000000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: MotoGP 2025</title>
+<programme start="20251220002000 +0700" stop="20251220015500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Pick n&#039; Roll</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251219000000 +0700" stop="20251219010000 +0700" channel="COSMOTE Sport 5 HD">
@@ -330,15 +334,19 @@
     <title>Motorsports: MotoGP 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251220000000 +0700" stop="20251220010000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: MotoGP 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251218230000 +0700" stop="20251219013000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Nicolai Budkov Kjaer - Rafael Jodar (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251219013000 +0700" stop="20251219020000 +0700" channel="COSMOTE Sport 6 HD">
+<programme start="20251219013000 +0700" stop="20251219014500 +0700" channel="COSMOTE Sport 6 HD">
     <title>Sports Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251219020000 +0700" stop="20251219030000 +0700" channel="COSMOTE Sport 6 HD">
+<programme start="20251219014500 +0700" stop="20251219030000 +0700" channel="COSMOTE Sport 6 HD">
     <title>ATP 2025 - Review</title>
     <desc>Live: Tidak</desc>
 </programme>
