@@ -49,10 +49,10 @@
 <programme start="20251218080000 +0000" stop="20251218083000 +0000" channel="ABC Australia.mncvision">
     <title>ABC National News</title>
 </programme>
-<programme start="20251218083000 +0000" stop="20251218090000 +0000" channel="ABC Australia.mncvision">
+<programme start="20251218083000 +0000" stop="20251218091000 +0000" channel="ABC Australia.mncvision">
     <title>7.30</title>
 </programme>
-<programme start="20251218090000 +0000" stop="20251218100000 +0000" channel="ABC Australia.mncvision">
+<programme start="20251218091000 +0000" stop="20251218100000 +0000" channel="ABC Australia.mncvision">
     <title>Ambulance Australia</title>
 </programme>
 <programme start="20251218100000 +0000" stop="20251218105500 +0000" channel="ABC Australia.mncvision">
@@ -73,19 +73,16 @@
 <programme start="20251218130000 +0000" stop="20251218134000 +0000" channel="ABC Australia.mncvision">
     <title>Wang Gungwu Lecture 2025</title>
 </programme>
-<programme start="20251218134000 +0000" stop="20251218141000 +0000" channel="ABC Australia.mncvision">
+<programme start="20251218134000 +0000" stop="20251218142000 +0000" channel="ABC Australia.mncvision">
     <title>7.30</title>
 </programme>
-<programme start="20251218141000 +0000" stop="20251218150500 +0000" channel="ABC Australia.mncvision">
+<programme start="20251218142000 +0000" stop="20251218152000 +0000" channel="ABC Australia.mncvision">
     <title>The World</title>
 </programme>
-<programme start="20251218150500 +0000" stop="20251218152500 +0000" channel="ABC Australia.mncvision">
+<programme start="20251218152000 +0000" stop="20251218154000 +0000" channel="ABC Australia.mncvision">
     <title>ABC Late News</title>
 </programme>
-<programme start="20251218152500 +0000" stop="20251218153500 +0000" channel="ABC Australia.mncvision">
-    <title>The Beautiful Bush</title>
-</programme>
-<programme start="20251218153500 +0000" stop="20251218162500 +0000" channel="ABC Australia.mncvision">
+<programme start="20251218154000 +0000" stop="20251218162500 +0000" channel="ABC Australia.mncvision">
     <title>Ambulance Australia</title>
 </programme>
 <programme start="20251218162500 +0000" stop="20251218165500 +0000" channel="ABC Australia.mncvision">

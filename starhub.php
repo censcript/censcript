@@ -1465,7 +1465,7 @@
     <programme start="20251218153500 +0000" stop="20251218171000 +0000" channel="Lifetime HD.starhub">
         <title>My Father&#039;s Murder In Greece</title>
     </programme>
-    <programme start="20251217140000 +0000" stop="20251217170000 +0000" channel="COLORS Tamil HD.starhub">
+    <programme start="20251217160000 +0000" stop="20251217170000 +0000" channel="COLORS Tamil HD.starhub">
         <title>Jeeva</title>
     </programme>
     <programme start="20251217170000 +0000" stop="20251217173000 +0000" channel="COLORS Tamil HD.starhub">
@@ -7765,10 +7765,10 @@
     <programme start="20251218080000 +0000" stop="20251218083000 +0000" channel="ABC Australia HD.starhub">
         <title>ABC National News (2025)</title>
     </programme>
-    <programme start="20251218083000 +0000" stop="20251218090000 +0000" channel="ABC Australia HD.starhub">
+    <programme start="20251218083000 +0000" stop="20251218091000 +0000" channel="ABC Australia HD.starhub">
         <title>7.30 (2025)</title>
     </programme>
-    <programme start="20251218090000 +0000" stop="20251218100000 +0000" channel="ABC Australia HD.starhub">
+    <programme start="20251218091000 +0000" stop="20251218100000 +0000" channel="ABC Australia HD.starhub">
         <title>Ambulance Australia S3</title>
     </programme>
     <programme start="20251218100000 +0000" stop="20251218105500 +0000" channel="ABC Australia HD.starhub">
@@ -7789,19 +7789,16 @@
     <programme start="20251218130000 +0000" stop="20251218134000 +0000" channel="ABC Australia HD.starhub">
         <title>Wang Gungwu Lecture 2025</title>
     </programme>
-    <programme start="20251218134000 +0000" stop="20251218141000 +0000" channel="ABC Australia HD.starhub">
+    <programme start="20251218134000 +0000" stop="20251218142000 +0000" channel="ABC Australia HD.starhub">
         <title>7.30 (2025)</title>
     </programme>
-    <programme start="20251218141000 +0000" stop="20251218150500 +0000" channel="ABC Australia HD.starhub">
+    <programme start="20251218142000 +0000" stop="20251218152000 +0000" channel="ABC Australia HD.starhub">
         <title>The World (2025)</title>
     </programme>
-    <programme start="20251218150500 +0000" stop="20251218152500 +0000" channel="ABC Australia HD.starhub">
+    <programme start="20251218152000 +0000" stop="20251218154000 +0000" channel="ABC Australia HD.starhub">
         <title>ABC Late News (2025)</title>
     </programme>
-    <programme start="20251218152500 +0000" stop="20251218153500 +0000" channel="ABC Australia HD.starhub">
-        <title>Bushfire Artist</title>
-    </programme>
-    <programme start="20251218153500 +0000" stop="20251218162500 +0000" channel="ABC Australia HD.starhub">
+    <programme start="20251218154000 +0000" stop="20251218162500 +0000" channel="ABC Australia HD.starhub">
         <title>Ambulance Australia S3</title>
     </programme>
     <programme start="20251217133000 +0000" stop="20251217163000 +0000" channel="Asianet Movies.starhub">
