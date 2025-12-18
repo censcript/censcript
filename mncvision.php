@@ -1084,14 +1084,11 @@
 <programme start="20251218105000 +0000" stop="20251218124000 +0000" channel="beIN Sports 1.mncvision">
     <title>LaLiga 2025/26: ATM Vs VAL</title>
 </programme>
-<programme start="20251218124000 +0000" stop="20251218143000 +0000" channel="beIN Sports 1.mncvision">
+<programme start="20251218124000 +0000" stop="20251218152000 +0000" channel="beIN Sports 1.mncvision">
     <title>FIFA Intercontinental Cup 2025</title>
 </programme>
-<programme start="20251218143000 +0000" stop="20251218150000 +0000" channel="beIN Sports 1.mncvision">
-    <title>FastZone 2025, Ep 36</title>
-</programme>
-<programme start="20251218150000 +0000" stop="20251218153000 +0000" channel="beIN Sports 1.mncvision">
-    <title>Mini Match LaLiga: BAR Vs OSA</title>
+<programme start="20251218152000 +0000" stop="20251218153000 +0000" channel="beIN Sports 1.mncvision">
+    <title>LaLiga Goals Galore 2024/2</title>
 </programme>
 <programme start="20251218153000 +0000" stop="20251218160000 +0000" channel="beIN Sports 1.mncvision">
     <title>Mini Match LaLiga: ALA Vs RMA</title>
@@ -1135,14 +1132,11 @@
 <programme start="20251218105000 +0000" stop="20251218124000 +0000" channel="beIN Sports 1 HD.mncvision">
     <title>LaLiga 2025/26: ATM Vs VAL</title>
 </programme>
-<programme start="20251218124000 +0000" stop="20251218143000 +0000" channel="beIN Sports 1 HD.mncvision">
+<programme start="20251218124000 +0000" stop="20251218152000 +0000" channel="beIN Sports 1 HD.mncvision">
     <title>FIFA Intercontinental Cup 2025</title>
 </programme>
-<programme start="20251218143000 +0000" stop="20251218150000 +0000" channel="beIN Sports 1 HD.mncvision">
-    <title>FastZone 2025, Ep 36</title>
-</programme>
-<programme start="20251218150000 +0000" stop="20251218153000 +0000" channel="beIN Sports 1 HD.mncvision">
-    <title>Mini Match LaLiga: BAR Vs OSA</title>
+<programme start="20251218152000 +0000" stop="20251218153000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>LaLiga Goals Galore 2024/2</title>
 </programme>
 <programme start="20251218153000 +0000" stop="20251218160000 +0000" channel="beIN Sports 1 HD.mncvision">
     <title>Mini Match LaLiga: ALA Vs RMA</title>
@@ -2876,7 +2870,7 @@
     <title>The Day: News In Review</title>
 </programme>
 <programme start="20251218023000 +0000" stop="20251218030000 +0000" channel="DW English.mncvision">
-    <title>Made In Germany: Business</title>
+    <title>Made In Germany: Us Tech...</title>
 </programme>
 <programme start="20251218030000 +0000" stop="20251218031500 +0000" channel="DW English.mncvision">
     <title>DW News</title>
@@ -2909,7 +2903,7 @@
     <title>Planet A: Small Turbines</title>
 </programme>
 <programme start="20251218063000 +0000" stop="20251218070000 +0000" channel="DW English.mncvision">
-    <title>Made In Germany: Business</title>
+    <title>Made In Germany: Us Tech...</title>
 </programme>
 <programme start="20251218070000 +0000" stop="20251218073000 +0000" channel="DW English.mncvision">
     <title>DW News</title>
@@ -4982,7 +4976,7 @@
     <title>Rat A Tat</title>
 </programme>
 <programme start="20251217200000 +0000" stop="20251217203000 +0000" channel="Kids TV.mncvision">
-    <title>Kung Fu Panda</title>
+    <title>Kungfu Panda</title>
 </programme>
 <programme start="20251217203000 +0000" stop="20251217210000 +0000" channel="Kids TV.mncvision">
     <title>Penguins Of Madagascar</title>
@@ -5006,7 +5000,7 @@
     <title>CoComelon</title>
 </programme>
 <programme start="20251218000000 +0000" stop="20251218003000 +0000" channel="Kids TV.mncvision">
-    <title>Kung Fu Panda</title>
+    <title>Kungfu Panda</title>
 </programme>
 <programme start="20251218003000 +0000" stop="20251218010000 +0000" channel="Kids TV.mncvision">
     <title>Penguins Of Madagascar</title>
@@ -5078,7 +5072,7 @@
     <title>Penguins Of Madagascar</title>
 </programme>
 <programme start="20251218140000 +0000" stop="20251218143000 +0000" channel="Kids TV.mncvision">
-    <title>Kung Fu Panda</title>
+    <title>Kungfu Panda</title>
 </programme>
 <programme start="20251218143000 +0000" stop="20251218150000 +0000" channel="Kids TV.mncvision">
     <title>Backkom S3</title>
@@ -5102,7 +5096,7 @@
     <title>Rat A Tat</title>
 </programme>
 <programme start="20251217200000 +0000" stop="20251217203000 +0000" channel="Kids TV HD.mncvision">
-    <title>Kung Fu Panda</title>
+    <title>Kungfu Panda</title>
 </programme>
 <programme start="20251217203000 +0000" stop="20251217210000 +0000" channel="Kids TV HD.mncvision">
     <title>Penguins Of Madagascar</title>
@@ -5126,7 +5120,7 @@
     <title>CoComelon</title>
 </programme>
 <programme start="20251218000000 +0000" stop="20251218003000 +0000" channel="Kids TV HD.mncvision">
-    <title>Kung Fu Panda</title>
+    <title>Kungfu Panda</title>
 </programme>
 <programme start="20251218003000 +0000" stop="20251218010000 +0000" channel="Kids TV HD.mncvision">
     <title>Penguins Of Madagascar</title>
@@ -5198,7 +5192,7 @@
     <title>Penguins Of Madagascar</title>
 </programme>
 <programme start="20251218140000 +0000" stop="20251218143000 +0000" channel="Kids TV HD.mncvision">
-    <title>Kung Fu Panda</title>
+    <title>Kungfu Panda</title>
 </programme>
 <programme start="20251218143000 +0000" stop="20251218150000 +0000" channel="Kids TV HD.mncvision">
     <title>Backkom S3</title>
@@ -7520,7 +7514,7 @@
     <title>Mendadak Jadi Kaya</title>
 </programme>
 <programme start="20251217200000 +0000" stop="20251217224500 +0000" channel="RCTI.mncvision">
-    <title>Preman Pensiun S7</title>
+    <title>Preman Pensiun</title>
 </programme>
 <programme start="20251217224500 +0000" stop="20251217234500 +0000" channel="RCTI.mncvision">
     <title>Go Spot</title>
@@ -7571,7 +7565,7 @@
     <title>Mendadak Jadi Kaya</title>
 </programme>
 <programme start="20251217200000 +0000" stop="20251217224500 +0000" channel="RCTI HD.mncvision">
-    <title>Preman Pensiun S7</title>
+    <title>Preman Pensiun</title>
 </programme>
 <programme start="20251217224500 +0000" stop="20251217234500 +0000" channel="RCTI HD.mncvision">
     <title>Go Spot</title>
