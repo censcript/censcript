@@ -957,7 +957,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Best of DAZN: Highlights</title>
 </programme>
 <programme start="20251219153000 +0000" stop="20251219172000 +0000" channel="DAZN 1 HD.skyde">
-    <title>FIFA Intercontinental Cup: TBC - TBC</title>
+    <title>FIFA Intercontinental Cup: PSG - Flamengo</title>
 </programme>
 <programme start="20251219172000 +0000" stop="20251219181500 +0000" channel="DAZN 1 HD.skyde">
     <title>Get Wild: Lange Version</title>
@@ -2870,7 +2870,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251218231500 +0000" stop="20251218234500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: On the Fly</title>
 </programme>
-<programme start="20251218234500 +0000" stop="20251219000000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20251218234000 +0000" stop="20251219000000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Highlights UTA@DET</title>
 </programme>
 <programme start="20251219000000 +0000" stop="20251219030000 +0000" channel="Sky Sport Mix HD.skyde">
@@ -2972,8 +2972,11 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251219110000 +0000" stop="20251219140000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Pressekonferenzen live</title>
 </programme>
-<programme start="20251219140000 +0000" stop="20251219153000 +0000" channel="Sky Sport News HD.skyde">
+<programme start="20251219140000 +0000" stop="20251219150000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live TGIF: Die Bundesliga-Vorschau</title>
+</programme>
+<programme start="20251219150000 +0000" stop="20251219153000 +0000" channel="Sky Sport News HD.skyde">
+    <title>F1: Warm Up Spezial - Die Saisonvorschau 2026</title>
 </programme>
 <programme start="20251219153000 +0000" stop="20251219154500 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Erste 11 meets Sky Sport Fantasy</title>
@@ -3131,6 +3134,9 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251219223000 +0000" stop="20251219230000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: 90in30: BUR - FUL, 16. Spieltag</title>
 </programme>
+<programme start="20251218231000 +0000" stop="20251218233000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>Tennis: Rafael Nadal - The No. 1 Story</title>
+</programme>
 <programme start="20251219000000 +0000" stop="20251219010000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP &amp; WTA: Zeit für ein Break - das Tennisjahr 2025</title>
 </programme>
@@ -3179,10 +3185,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251219220000 +0000" stop="20251220000000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Next Gen ATP Finals: Spiel 1, 3. Tag in Jeddah (SAU)</title>
 </programme>
-<programme start="20251218230500 +0000" stop="20251218233500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20251218230500 +0000" stop="20251218233000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>NBA: Action</title>
 </programme>
-<programme start="20251218233500 +0000" stop="20251219000000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20251218233000 +0000" stop="20251219000000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>NHL: On the Fly</title>
 </programme>
 <programme start="20251219000000 +0000" stop="20251219030000 +0000" channel="Sky Sport Top Event HD.skyde">
