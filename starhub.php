@@ -3848,7 +3848,7 @@
         <title>Local Exquisite Omusubi</title>
     </programme>
     <programme start="20251219033000 +0000" stop="20251219033500 +0000" channel="NHK World Premium HD.starhub">
-        <title>Fish Masters 5min</title>
+        <title>News</title>
     </programme>
     <programme start="20251219033500 +0000" stop="20251219034500 +0000" channel="NHK World Premium HD.starhub">
         <title>Mini Program</title>
@@ -3856,10 +3856,10 @@
     <programme start="20251219034500 +0000" stop="20251219040000 +0000" channel="NHK World Premium HD.starhub">
         <title>Drama Serial &quot;The Ghost Writer&#039;s Wife&quot; Eps. 60 (R)</title>
     </programme>
-    <programme start="20251219040000 +0000" stop="20251219040500 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20251219040000 +0000" stop="20251219040700 +0000" channel="NHK World Premium HD.starhub">
         <title>News</title>
     </programme>
-    <programme start="20251219040500 +0000" stop="20251219055000 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20251219040700 +0000" stop="20251219055000 +0000" channel="NHK World Premium HD.starhub">
         <title>News Around Japan</title>
     </programme>
     <programme start="20251219055000 +0000" stop="20251219055500 +0000" channel="NHK World Premium HD.starhub">
