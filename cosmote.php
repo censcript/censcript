@@ -1,11 +1,3 @@
-<programme start="20251220050000 +0700" stop="20251220053000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>UEFA Champions League Magazine 2024-25 E15</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251220053000 +0700" stop="20251220060000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Game R1 S6 E17</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251220060000 +0700" stop="20251220070000 +0700" channel="COSMOTE Sport 1 HD">
     <title>UEFA Champions League Highlights 2025-26</title>
     <desc>Live: Tidak</desc>
@@ -74,12 +66,8 @@
     <title>Football: Olympiacos - Kifisia</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251220030000 +0700" stop="20251220051000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Panathinaikos - Volos</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251220051000 +0700" stop="20251220054000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Serie A Inside Serie A 2025-26 E16</title>
+<programme start="20251221063500 +0700" stop="20251221070500 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Game R1 S6 E17</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251220054000 +0700" stop="20251220075000 +0700" channel="COSMOTE Sport 2 HD">
@@ -234,8 +222,8 @@
     <title>Football: Southampton - Coventry City</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251220023000 +0700" stop="20251220051500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: New Orleans Pelicans - Houston Rockets</title>
+<programme start="20251221064500 +0700" stop="20251221084500 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Ipswich Town - Sheffield Wednesday</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251220051500 +0700" stop="20251220061500 +0700" channel="COSMOTE Sport 4 HD">
@@ -305,18 +293,6 @@
 <programme start="20251221050000 +0700" stop="20251221080000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Denver Nuggets - Houston Rockets (L)</title>
     <desc>Live: Ya</desc>
-</programme>
-<programme start="20251220031500 +0700" stop="20251220051500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Football: Estoril - SC Braga (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20251220051500 +0700" stop="20251220053000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Sports Classics: Worldies E25</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251220053000 +0700" stop="20251220060000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Sports Classics: Gearing Up 2024 E11</title>
-    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251220060000 +0700" stop="20251220064500 +0700" channel="COSMOTE Sport 5 HD">
     <title>DTM</title>
@@ -416,6 +392,10 @@
 </programme>
 <programme start="20251221050000 +0700" stop="20251221060000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Highlights: 2025 Extreme H</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251221060000 +0700" stop="20251221080500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: Extreme E 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251220040000 +0700" stop="20251220080000 +0700" channel="COSMOTE Sport 6 HD">
