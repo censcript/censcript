@@ -421,9 +421,6 @@
 <programme start="20251219154500 +0000" stop="20251219163000 +0000" channel="Trans 7.vision">
 <title>The Police</title>
 </programme>
-<programme start="20251219163000 +0000" stop="20251219171500 +0000" channel="Trans 7.vision">
-<title>Misteri Dunia</title>
-</programme>
 <programme start="20251219171500 +0000" stop="20251219174500 +0000" channel="Trans 7.vision">
 <title>Redaksi Malam</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20251220051500 +0000" stop="20251220071500 +0000" channel="MDTV.vision">
 <title>Cinta Fitri S5</title>
+</programme>
+<programme start="20251220071500 +0000" stop="20251220080500 +0000" channel="MDTV.vision">
+<title>Makan Enak</title>
 </programme>

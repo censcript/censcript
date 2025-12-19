@@ -1184,25 +1184,25 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251219225500 +0000" stop="20251219234500 +0000" channel="HISTORY Channel HD.skyde">
     <title>Terra X</title>
 </programme>
-<programme start="20251218230000 +0000" stop="20251219010000 +0000" channel="Jukebox.skyde">
+<programme start="20251211230000 +0000" stop="20251212010000 +0000" channel="Jukebox.skyde">
     <title>BACK TO ... 2016</title>
 </programme>
-<programme start="20251219010000 +0000" stop="20251219020000 +0000" channel="Jukebox.skyde">
+<programme start="20251212010000 +0000" stop="20251212020000 +0000" channel="Jukebox.skyde">
     <title>RAP</title>
 </programme>
-<programme start="20251219020000 +0000" stop="20251219050000 +0000" channel="Jukebox.skyde">
+<programme start="20251212020000 +0000" stop="20251212050000 +0000" channel="Jukebox.skyde">
     <title>NIGHTSHIFT</title>
 </programme>
-<programme start="20251219050000 +0000" stop="20251219110000 +0000" channel="Jukebox.skyde">
+<programme start="20251212050000 +0000" stop="20251212110000 +0000" channel="Jukebox.skyde">
     <title>MORNING GLORY</title>
 </programme>
-<programme start="20251219110000 +0000" stop="20251219150000 +0000" channel="Jukebox.skyde">
+<programme start="20251212110000 +0000" stop="20251212150000 +0000" channel="Jukebox.skyde">
     <title>JUKEBOX TRENDS</title>
 </programme>
-<programme start="20251219150000 +0000" stop="20251219190000 +0000" channel="Jukebox.skyde">
+<programme start="20251212150000 +0000" stop="20251212190000 +0000" channel="Jukebox.skyde">
     <title>JUKEBOX TOP 50 MIX</title>
 </programme>
-<programme start="20251219190000 +0000" stop="20251219230000 +0000" channel="Jukebox.skyde">
+<programme start="20251212190000 +0000" stop="20251212230000 +0000" channel="Jukebox.skyde">
     <title>JUKEBOX DANCE</title>
 </programme>
 <programme start="20251218230000 +0000" stop="20251219000000 +0000" channel="Motorvision+.skyde">
