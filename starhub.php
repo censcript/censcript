@@ -2675,7 +2675,7 @@
         <title>Vanakkam Thamizha</title>
     </programme>
     <programme start="20251219000000 +0000" stop="20251219003000 +0000" channel="Sun TV.starhub">
-        <title>ETHIRNEECHAL THODARGIRADHU</title>
+        <title>Ethirneechal Thodargiradhu</title>
     </programme>
     <programme start="20251219003000 +0000" stop="20251219013000 +0000" channel="Sun TV.starhub">
         <title>Singapenne</title>
@@ -2696,31 +2696,31 @@
         <title>Punitha</title>
     </programme>
     <programme start="20251219043000 +0000" stop="20251219050000 +0000" channel="Sun TV.starhub">
-        <title>MANAMAGALE VAA</title>
+        <title>Manamagale Vaa</title>
     </programme>
     <programme start="20251219050000 +0000" stop="20251219053000 +0000" channel="Sun TV.starhub">
-        <title>VINODHINI</title>
+        <title>Vinodhini</title>
     </programme>
     <programme start="20251219053000 +0000" stop="20251219060000 +0000" channel="Sun TV.starhub">
-        <title>PUTHU VASANTHAM</title>
+        <title>Puthu Vasantham</title>
     </programme>
     <programme start="20251219060000 +0000" stop="20251219063000 +0000" channel="Sun TV.starhub">
-        <title>ilakkiya</title>
+        <title>Ilakkiya</title>
     </programme>
     <programme start="20251219063000 +0000" stop="20251219070000 +0000" channel="Sun TV.starhub">
-        <title>LAKSHMI</title>
+        <title>Lakshmi</title>
     </programme>
     <programme start="20251219070000 +0000" stop="20251219073000 +0000" channel="Sun TV.starhub">
-        <title>ANANDA RAGAM</title>
+        <title>Ananda Ragam</title>
     </programme>
     <programme start="20251219073000 +0000" stop="20251219080000 +0000" channel="Sun TV.starhub">
-        <title>Movie- PRIYAMANA THOZHI</title>
+        <title>Movie - Priyamana Thozhi</title>
     </programme>
     <programme start="20251219080000 +0000" stop="20251219083000 +0000" channel="Sun TV.starhub">
         <title>News</title>
     </programme>
     <programme start="20251219083000 +0000" stop="20251219103000 +0000" channel="Sun TV.starhub">
-        <title>Movie contd - PRIYAMANA THOZHI</title>
+        <title>Movie Contd - Priyamana Thozhi</title>
     </programme>
     <programme start="20251219103000 +0000" stop="20251219110000 +0000" channel="Sun TV.starhub">
         <title>Chellame Chellame</title>
@@ -2744,16 +2744,16 @@
         <title>News</title>
     </programme>
     <programme start="20251219140000 +0000" stop="20251219143000 +0000" channel="Sun TV.starhub">
-        <title>ETHIRNEECHAL THODARGIRADHU</title>
+        <title>Ethirneechal Thodargiradhu</title>
     </programme>
     <programme start="20251219143000 +0000" stop="20251219150000 +0000" channel="Sun TV.starhub">
-        <title>AADUKALAM</title>
+        <title>Aadukalam</title>
     </programme>
     <programme start="20251219150000 +0000" stop="20251219153000 +0000" channel="Sun TV.starhub">
         <title>Malli</title>
     </programme>
     <programme start="20251219153000 +0000" stop="20251219160000 +0000" channel="Sun TV.starhub">
-        <title>ANANDARAGAM - Serial</title>
+        <title>Anandaragam - Serial</title>
     </programme>
     <programme start="20251218160000 +0000" stop="20251218163000 +0000" channel="Zee Tamil.starhub">
         <title>Veera</title>
