@@ -76,11 +76,23 @@
     <programme start="20251219034200 +0000" stop="20251219035500 +0000" channel="Channel 5.mewatch">
         <title>Dino Ranch S2 - EP 50</title>
     </programme>
-    <programme start="20251219035500 +0000" stop="20251219100000 +0000" channel="Channel 5.mewatch">
-        <title>33rd SEA Games 2025: Daily Action At The Games - EP 19</title>
+    <programme start="20251219035500 +0000" stop="20251219050000 +0000" channel="Channel 5.mewatch">
+        <title>Fencing - 33rd SEA Games Thailand 2025: Women&#039;s Team Epee Final - SGP vs THA</title>
     </programme>
-    <programme start="20251219100000 +0000" stop="20251219130000 +0000" channel="Channel 5.mewatch">
-        <title>33rd SEA Games 2025: Daily Action At The Games - EP 20</title>
+    <programme start="20251219050000 +0000" stop="20251219070000 +0000" channel="Channel 5.mewatch">
+        <title>Floorball - 33rd SEA Games Thailand 2025: Women&#039;s Final - SGP vs THA</title>
+    </programme>
+    <programme start="20251219070000 +0000" stop="20251219083000 +0000" channel="Channel 5.mewatch">
+        <title>Diving - 33rd SEA Games Thailand 2025: Women&#039;s Synchronised Platform Final</title>
+    </programme>
+    <programme start="20251219083000 +0000" stop="20251219100000 +0000" channel="Channel 5.mewatch">
+        <title>Water Polo - 33rd SEA Games Thailand 2025: Men&#039;s Round Robin - SGP vs INA</title>
+    </programme>
+    <programme start="20251219100000 +0000" stop="20251219110000 +0000" channel="Channel 5.mewatch">
+        <title>Diving - 33rd SEA Games Thailand 2025: Men&#039;s Synchronised 3m Springboard Final</title>
+    </programme>
+    <programme start="20251219110000 +0000" stop="20251219130000 +0000" channel="Channel 5.mewatch">
+        <title>Table Tennis - 33rd SEA Games Thailand 2025: Men&#039;s &amp; Women&#039;s Singles Finals</title>
     </programme>
     <programme start="20251219130000 +0000" stop="20251219133000 +0000" channel="Channel 5.mewatch">
         <title>(Live) News Tonight</title>

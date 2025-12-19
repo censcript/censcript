@@ -673,9 +673,6 @@
 <programme start="20251219012700 +0000" stop="20251219013000 +0000" channel="TVOne.vision">
 <title>Kabar Terkini</title>
 </programme>
-<programme start="20251219013000 +0000" stop="20251219020000 +0000" channel="TVOne.vision">
-<title>Hidup Sehat</title>
-</programme>
 <programme start="20251219020000 +0000" stop="20251219023000 +0000" channel="TVOne.vision">
 <title>Inspirasi Pagi (L)</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20251220010500 +0000" stop="20251220020000 +0000" channel="MDTV.vision">
 <title>Fakta +62 Weekend</title>
+</programme>
+<programme start="20251220020000 +0000" stop="20251220025000 +0000" channel="MDTV.vision">
+<title>Sensasihot</title>
 </programme>

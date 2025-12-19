@@ -2162,7 +2162,7 @@
         <title>Movie - Kattumarakaran</title>
     </programme>
     <programme start="20251219103000 +0000" stop="20251219133000 +0000" channel="KTV HD.starhub">
-        <title>Movie - Harichandra (New)</title>
+        <title>Movie - Harichandra - new</title>
     </programme>
     <programme start="20251219133000 +0000" stop="20251219170000 +0000" channel="KTV HD.starhub">
         <title>Movie - Panchathandhiram</title>
@@ -3215,7 +3215,7 @@
         <title>LADA: Built by Pride-or by Prisoners?</title>
     </programme>
     <programme start="20251218233000 +0000" stop="20251219000000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW Podcasts</title>
+        <title>Africa</title>
     </programme>
     <programme start="20251219000000 +0000" stop="20251219000200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3272,7 +3272,7 @@
         <title>LADA: Built by Pride-or by Prisoners?</title>
     </programme>
     <programme start="20251219063000 +0000" stop="20251219070000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW Podcasts</title>
+        <title>Spotlight on People</title>
     </programme>
     <programme start="20251219070000 +0000" stop="20251219073000 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3296,7 +3296,7 @@
         <title>News</title>
     </programme>
     <programme start="20251219103000 +0000" stop="20251219110000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW Podcasts</title>
+        <title>US tech builds mega data center for AI revolution</title>
     </programme>
     <programme start="20251219110000 +0000" stop="20251219113000 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -7840,10 +7840,10 @@
     <programme start="20251218231000 +0000" stop="20251219013000 +0000" channel="Asianet Movies.starhub">
         <title>Minnaminnikkoottam</title>
     </programme>
-    <programme start="20251219013000 +0000" stop="20251219043000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251219013000 +0000" stop="20251219043500 +0000" channel="Asianet Movies.starhub">
         <title>Srungaravelan</title>
     </programme>
-    <programme start="20251219043000 +0000" stop="20251219073000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251219043500 +0000" stop="20251219073000 +0000" channel="Asianet Movies.starhub">
         <title>Take Off</title>
     </programme>
     <programme start="20251219073000 +0000" stop="20251219103000 +0000" channel="Asianet Movies.starhub">
