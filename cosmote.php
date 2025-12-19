@@ -78,6 +78,10 @@
     <title>Game R1 S6 E17</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251220160000 +0700" stop="20251220180000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: Real Madrid CF - Manchester City FC</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251219141000 +0700" stop="20251219161000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Torino - Cremonese</title>
     <desc>Live: Tidak</desc>
@@ -138,6 +142,10 @@
     <title>Football: PAOK - Marko</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251220162000 +0700" stop="20251220183000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Olympiacos - Iraklis</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251219150000 +0700" stop="20251219170000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Omonoia FC - Rakow Czestochowa</title>
     <desc>Live: Tidak</desc>
@@ -192,6 +200,14 @@
 </programme>
 <programme start="20251220150000 +0700" stop="20251220160000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Emirates FA Cup 2025-26 - Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251220160000 +0700" stop="20251220165000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Greece - USA</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251220165000 +0700" stop="20251220174500 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Greece - Serbia</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251219150000 +0700" stop="20251219170000 +0700" channel="COSMOTE Sport 4 HD">
@@ -374,6 +390,10 @@
     <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251220161500 +0700" stop="20251220172000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251219140000 +0700" stop="20251219180000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: 2025 Next Gen ATP Finals</title>
     <desc>Live: Tidak</desc>
@@ -431,6 +451,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251220153000 +0700" stop="20251220162000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Beach Volley: Pro Tour Elite 16 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251220162000 +0700" stop="20251220171000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Beach Volley: Pro Tour Elite 16 2025</title>
     <desc>Live: Tidak</desc>
 </programme>

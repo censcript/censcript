@@ -4034,7 +4034,7 @@
     <title>New Family 100</title>
 </programme>
 <programme start="20251219130000 +0000" stop="20251219150000 +0000" channel="GTV.mncvision">
-    <title>The First Myth Class Of Gods</title>
+    <title>Replicant</title>
 </programme>
 <programme start="20251219150000 +0000" stop="20251219160000 +0000" channel="GTV.mncvision">
     <title>Untold Story</title>
@@ -4085,7 +4085,7 @@
     <title>New Family 100</title>
 </programme>
 <programme start="20251219130000 +0000" stop="20251219150000 +0000" channel="GTV HD.mncvision">
-    <title>The First Myth Class Of Gods</title>
+    <title>Replicant</title>
 </programme>
 <programme start="20251219150000 +0000" stop="20251219160000 +0000" channel="GTV HD.mncvision">
     <title>Untold Story</title>
