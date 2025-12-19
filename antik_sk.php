@@ -1634,7 +1634,7 @@
     <title lang="id">PAOLO VILLAGGIO: Hasiči</title>
   </programme>
   <programme start="20251221073000 +0000" stop="20251221081000 +0000" channel="Kanal1.webtv.sk">
-    <title lang="id">Téma s Petrom Bielikom</title>
+    <title lang="id">Téma - Peter Žiga a Michal Šipoš</title>
   </programme>
   <programme start="20251221081000 +0000" stop="20251221093000 +0000" channel="Kanal1.webtv.sk">
     <title lang="id">Slovenská klasika: Jeden deň pre starú paniu</title>

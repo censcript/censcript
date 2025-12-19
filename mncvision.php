@@ -2930,7 +2930,7 @@
     <title>DW News</title>
 </programme>
 <programme start="20251219103000 +0000" stop="20251219110000 +0000" channel="DW English.mncvision">
-    <title>Best Of DW Podcasts</title>
+    <title>Made In Germany: Us Tech...</title>
 </programme>
 <programme start="20251219110000 +0000" stop="20251219113000 +0000" channel="DW English.mncvision">
     <title>DW News</title>
@@ -3376,7 +3376,126 @@
 <programme start="20251219160000 +0000" stop="20251219163000 +0000" channel="FOOD TRAVEL.mncvision">
     <title>Makan Bareng Luna</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20251218170000 +0000" stop="20251218173000 +0000" channel="Food Travel HD.mncvision">
+    <title>Indonesian Authentic Places</title>
+</programme>
+<programme start="20251218173000 +0000" stop="20251218180000 +0000" channel="Food Travel HD.mncvision">
+    <title>Let&#039;s Go</title>
+</programme>
+<programme start="20251218180000 +0000" stop="20251218183000 +0000" channel="Food Travel HD.mncvision">
+    <title>Extreme Kuliner</title>
+</programme>
+<programme start="20251218183000 +0000" stop="20251218193000 +0000" channel="Food Travel HD.mncvision">
+    <title>Untung Ada Rudy</title>
+</programme>
+<programme start="20251218193000 +0000" stop="20251218203000 +0000" channel="Food Travel HD.mncvision">
+    <title>Dapur Ngebor</title>
+</programme>
+<programme start="20251218203000 +0000" stop="20251218210000 +0000" channel="Food Travel HD.mncvision">
+    <title>Ada Tamu Gokil</title>
+</programme>
+<programme start="20251218210000 +0000" stop="20251218213000 +0000" channel="Food Travel HD.mncvision">
+    <title>Travel Addict</title>
+</programme>
+<programme start="20251218213000 +0000" stop="20251218220000 +0000" channel="Food Travel HD.mncvision">
+    <title>Rating 5</title>
+</programme>
+<programme start="20251218220000 +0000" stop="20251218223000 +0000" channel="Food Travel HD.mncvision">
+    <title>Indonesian Authentic Places</title>
+</programme>
+<programme start="20251218223000 +0000" stop="20251218230000 +0000" channel="Food Travel HD.mncvision">
+    <title>Celebs Food</title>
+</programme>
+<programme start="20251218230000 +0000" stop="20251218233000 +0000" channel="Food Travel HD.mncvision">
+    <title>Celebs Trip</title>
+</programme>
+<programme start="20251218233000 +0000" stop="20251219000000 +0000" channel="Food Travel HD.mncvision">
+    <title>Around The World</title>
+</programme>
+<programme start="20251219000000 +0000" stop="20251219003000 +0000" channel="Food Travel HD.mncvision">
+    <title>Selebriti Masak?</title>
+</programme>
+<programme start="20251219003000 +0000" stop="20251219010000 +0000" channel="Food Travel HD.mncvision">
+    <title>Viral Kuliner</title>
+</programme>
+<programme start="20251219010000 +0000" stop="20251219013000 +0000" channel="Food Travel HD.mncvision">
+    <title>Viral Kuliner Review</title>
+</programme>
+<programme start="20251219013000 +0000" stop="20251219020000 +0000" channel="Food Travel HD.mncvision">
+    <title>Kuliner Anak Nusantara</title>
+</programme>
+<programme start="20251219020000 +0000" stop="20251219023000 +0000" channel="Food Travel HD.mncvision">
+    <title>Rating 5</title>
+</programme>
+<programme start="20251219023000 +0000" stop="20251219030000 +0000" channel="Food Travel HD.mncvision">
+    <title>Extreme Kuliner</title>
+</programme>
+<programme start="20251219030000 +0000" stop="20251219033000 +0000" channel="Food Travel HD.mncvision">
+    <title>Around The World</title>
+</programme>
+<programme start="20251219033000 +0000" stop="20251219040000 +0000" channel="Food Travel HD.mncvision">
+    <title>Let&#039;s Go</title>
+</programme>
+<programme start="20251219040000 +0000" stop="20251219050000 +0000" channel="Food Travel HD.mncvision">
+    <title>Untung Ada Rudy</title>
+</programme>
+<programme start="20251219050000 +0000" stop="20251219060000 +0000" channel="Food Travel HD.mncvision">
+    <title>Makan Bareng Luna</title>
+</programme>
+<programme start="20251219060000 +0000" stop="20251219063000 +0000" channel="Food Travel HD.mncvision">
+    <title>Viral Kuliner</title>
+</programme>
+<programme start="20251219063000 +0000" stop="20251219070000 +0000" channel="Food Travel HD.mncvision">
+    <title>Viral Kuliner Review</title>
+</programme>
+<programme start="20251219070000 +0000" stop="20251219080000 +0000" channel="Food Travel HD.mncvision">
+    <title>Dapur Ngebor</title>
+</programme>
+<programme start="20251219080000 +0000" stop="20251219083000 +0000" channel="Food Travel HD.mncvision">
+    <title>Let&#039;s Go</title>
+</programme>
+<programme start="20251219083000 +0000" stop="20251219090000 +0000" channel="Food Travel HD.mncvision">
+    <title>Kuliner Anak Nusantara</title>
+</programme>
+<programme start="20251219090000 +0000" stop="20251219100000 +0000" channel="Food Travel HD.mncvision">
+    <title>Untung Ada Rudy</title>
+</programme>
+<programme start="20251219100000 +0000" stop="20251219110000 +0000" channel="Food Travel HD.mncvision">
+    <title>Makan Bareng Luna</title>
+</programme>
+<programme start="20251219110000 +0000" stop="20251219113000 +0000" channel="Food Travel HD.mncvision">
+    <title>Viral Kuliner Review</title>
+</programme>
+<programme start="20251219113000 +0000" stop="20251219120000 +0000" channel="Food Travel HD.mncvision">
+    <title>Viral Kuliner</title>
+</programme>
+<programme start="20251219120000 +0000" stop="20251219123000 +0000" channel="Food Travel HD.mncvision">
+    <title>Rating 5</title>
+</programme>
+<programme start="20251219123000 +0000" stop="20251219130000 +0000" channel="Food Travel HD.mncvision">
+    <title>Indonesian Authentic Places &#039;19</title>
+</programme>
+<programme start="20251219130000 +0000" stop="20251219133000 +0000" channel="Food Travel HD.mncvision">
+    <title>Celebs Food</title>
+</programme>
+<programme start="20251219133000 +0000" stop="20251219140000 +0000" channel="Food Travel HD.mncvision">
+    <title>Extreme Kuliner</title>
+</programme>
+<programme start="20251219140000 +0000" stop="20251219143000 +0000" channel="Food Travel HD.mncvision">
+    <title>Around The World</title>
+</programme>
+<programme start="20251219143000 +0000" stop="20251219150000 +0000" channel="Food Travel HD.mncvision">
+    <title>Selebriti Masak?</title>
+</programme>
+<programme start="20251219150000 +0000" stop="20251219153000 +0000" channel="Food Travel HD.mncvision">
+    <title>Ada Tamu Gokil</title>
+</programme>
+<programme start="20251219153000 +0000" stop="20251219160000 +0000" channel="Food Travel HD.mncvision">
+    <title>Travel Addict</title>
+</programme>
+<programme start="20251219160000 +0000" stop="20251219163000 +0000" channel="Food Travel HD.mncvision">
+    <title>Makan Bareng Luna</title>
+</programme>
 <programme start="20251218170000 +0000" stop="20251218180000 +0000" channel="FOX News.mncvision">
     <title>Outnumbered</title>
 </programme>
@@ -3449,7 +3568,156 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20251219160000 +0000" stop="20251219163000 +0000" channel="FOX News.mncvision">
     <title>The Faulkner Focus</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20251218170000 +0000" stop="20251218171000 +0000" channel="France 24 English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20251218171000 +0000" stop="20251218175300 +0000" channel="France 24 English.mncvision">
+    <title>The Debate (L)</title>
+</programme>
+<programme start="20251218175300 +0000" stop="20251218180000 +0000" channel="France 24 English.mncvision">
+    <title>Short Cuts</title>
+</programme>
+<programme start="20251218180000 +0000" stop="20251218182000 +0000" channel="France 24 English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20251218182000 +0000" stop="20251218183000 +0000" channel="France 24 English.mncvision">
+    <title>Sports (L)</title>
+</programme>
+<programme start="20251218183000 +0000" stop="20251218184500 +0000" channel="France 24 English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20251218184500 +0000" stop="20251218185100 +0000" channel="France 24 English.mncvision">
+    <title>Truth Or Fake (L)</title>
+</programme>
+<programme start="20251218185100 +0000" stop="20251218190000 +0000" channel="France 24 English.mncvision">
+    <title>Focus (L)</title>
+</programme>
+<programme start="20251218190000 +0000" stop="20251218192000 +0000" channel="France 24 English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20251218192000 +0000" stop="20251218193000 +0000" channel="France 24 English.mncvision">
+    <title>Business (L)</title>
+</programme>
+<programme start="20251218193000 +0000" stop="20251218194000 +0000" channel="France 24 English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20251218194000 +0000" stop="20251218200000 +0000" channel="France 24 English.mncvision">
+    <title>Eye On Africa (L)</title>
+</programme>
+<programme start="20251218200000 +0000" stop="20251218201500 +0000" channel="France 24 English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20251218201500 +0000" stop="20251218202100 +0000" channel="France 24 English.mncvision">
+    <title>Business (L)</title>
+</programme>
+<programme start="20251218202100 +0000" stop="20251218203000 +0000" channel="France 24 English.mncvision">
+    <title>Truth Or Fake (L)</title>
+</programme>
+<programme start="20251218203000 +0000" stop="20251218203200 +0000" channel="France 24 English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20251218203200 +0000" stop="20251218204400 +0000" channel="France 24 English.mncvision">
+    <title>A Propos (L)</title>
+</programme>
+<programme start="20251218204400 +0000" stop="20251218210000 +0000" channel="France 24 English.mncvision">
+    <title>Eye On Africa (L)</title>
+</programme>
+<programme start="20251218210000 +0000" stop="20251218211500 +0000" channel="France 24 English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20251218211500 +0000" stop="20251218213000 +0000" channel="France 24 English.mncvision">
+    <title>Business + Truth Or Fake</title>
+</programme>
+<programme start="20251218213000 +0000" stop="20251218214500 +0000" channel="France 24 English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20251218214500 +0000" stop="20251218215100 +0000" channel="France 24 English.mncvision">
+    <title>Sports (L)</title>
+</programme>
+<programme start="20251218215100 +0000" stop="20251218220000 +0000" channel="France 24 English.mncvision">
+    <title>Focus Semaine</title>
+</programme>
+<programme start="20251218220000 +0000" stop="20251218221000 +0000" channel="France 24 English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20251218221000 +0000" stop="20251218225300 +0000" channel="France 24 English.mncvision">
+    <title>The Debate</title>
+</programme>
+<programme start="20251218225300 +0000" stop="20251218230000 +0000" channel="France 24 English.mncvision">
+    <title>Short Cuts</title>
+</programme>
+<programme start="20251218230000 +0000" stop="20251218231500 +0000" channel="France 24 English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20251218231500 +0000" stop="20251218232000 +0000" channel="France 24 English.mncvision">
+    <title>Business</title>
+</programme>
+<programme start="20251218232000 +0000" stop="20251218233000 +0000" channel="France 24 English.mncvision">
+    <title>Focus Semaine</title>
+</programme>
+<programme start="20251218233000 +0000" stop="20251218234500 +0000" channel="France 24 English.mncvision">
+    <title>Bulletin (L)</title>
+</programme>
+<programme start="20251218234500 +0000" stop="20251219000000 +0000" channel="France 24 English.mncvision">
+    <title>Arts24</title>
+</programme>
+<programme start="20251219000000 +0000" stop="20251219001500 +0000" channel="France 24 English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20251219001500 +0000" stop="20251219003000 +0000" channel="France 24 English.mncvision">
+    <title>A Propos</title>
+</programme>
+<programme start="20251219003000 +0000" stop="20251219004500 +0000" channel="France 24 English.mncvision">
+    <title>Bulletin (L)</title>
+</programme>
+<programme start="20251219004500 +0000" stop="20251219010000 +0000" channel="France 24 English.mncvision">
+    <title>Eye On Africa</title>
+</programme>
+<programme start="20251219010000 +0000" stop="20251219011000 +0000" channel="France 24 English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20251219011000 +0000" stop="20251219015300 +0000" channel="France 24 English.mncvision">
+    <title>The Debate</title>
+</programme>
+<programme start="20251219015300 +0000" stop="20251219020000 +0000" channel="France 24 English.mncvision">
+    <title>Short Cuts</title>
+</programme>
+<programme start="20251219020000 +0000" stop="20251219021500 +0000" channel="France 24 English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20251219021500 +0000" stop="20251219023000 +0000" channel="France 24 English.mncvision">
+    <title>Talking Europe, Pt 2</title>
+</programme>
+<programme start="20251219023000 +0000" stop="20251219024500 +0000" channel="France 24 English.mncvision">
+    <title>Bulletin (L)</title>
+</programme>
+<programme start="20251219024500 +0000" stop="20251219025100 +0000" channel="France 24 English.mncvision">
+    <title>French Connections</title>
+</programme>
+<programme start="20251219025100 +0000" stop="20251219030000 +0000" channel="France 24 English.mncvision">
+    <title>The Observers</title>
+</programme>
+<programme start="20251219030000 +0000" stop="20251219031500 +0000" channel="France 24 English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20251219031500 +0000" stop="20251219033000 +0000" channel="France 24 English.mncvision">
+    <title>Eye On Africa</title>
+</programme>
+<programme start="20251219033000 +0000" stop="20251219034500 +0000" channel="France 24 English.mncvision">
+    <title>Bulletin (L)</title>
+</programme>
+<programme start="20251219034500 +0000" stop="20251219040000 +0000" channel="France 24 English.mncvision">
+    <title>Arts24</title>
+</programme>
+<programme start="20251219040000 +0000" stop="20251219041400 +0000" channel="France 24 English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20251219041400 +0000" stop="20251219042000 +0000" channel="France 24 English.mncvision">
+    <title>Truth Or Fake (L)</title>
+</programme>
+<programme start="20251219042000 +0000" stop="20251219045000 +0000" channel="France 24 English.mncvision">
+    <title>Introduction (L)</title>
+</programme>
 <programme start="20251218183000 +0000" stop="20251218200500 +0000" channel="Galaxy.mncvision">
     <title>After Ever Happy</title>
 </programme>
@@ -3495,9 +3763,234 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20251219162000 +0000" stop="20251219165000 +0000" channel="Galaxy.mncvision">
     <title>Road To Paloma</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20251218174500 +0000" stop="20251218192500 +0000" channel="Galaxy Premium.mncvision">
+    <title>Lara Croft: Tomb Raider</title>
+</programme>
+<programme start="20251218192500 +0000" stop="20251218211500 +0000" channel="Galaxy Premium.mncvision">
+    <title>TMNT: Out Of The Shadows</title>
+</programme>
+<programme start="20251218211500 +0000" stop="20251218230500 +0000" channel="Galaxy Premium.mncvision">
+    <title>Paycheck</title>
+</programme>
+<programme start="20251218230500 +0000" stop="20251219003000 +0000" channel="Galaxy Premium.mncvision">
+    <title>A.C.O.D.</title>
+</programme>
+<programme start="20251219003000 +0000" stop="20251219020500 +0000" channel="Galaxy Premium.mncvision">
+    <title>Pet Sematary</title>
+</programme>
+<programme start="20251219020500 +0000" stop="20251219033000 +0000" channel="Galaxy Premium.mncvision">
+    <title>Crawl</title>
+</programme>
+<programme start="20251219033000 +0000" stop="20251219051000 +0000" channel="Galaxy Premium.mncvision">
+    <title>The Tourist</title>
+</programme>
+<programme start="20251219051000 +0000" stop="20251219063500 +0000" channel="Galaxy Premium.mncvision">
+    <title>Brightburn</title>
+</programme>
+<programme start="20251219063500 +0000" stop="20251219083500 +0000" channel="Galaxy Premium.mncvision">
+    <title>Bad Boys For Life</title>
+</programme>
+<programme start="20251219083500 +0000" stop="20251219102500 +0000" channel="Galaxy Premium.mncvision">
+    <title>Baywatch</title>
+</programme>
+<programme start="20251219102500 +0000" stop="20251219120000 +0000" channel="Galaxy Premium.mncvision">
+    <title>Zombieland: Double Tap</title>
+</programme>
+<programme start="20251219120000 +0000" stop="20251219140000 +0000" channel="Galaxy Premium.mncvision">
+    <title>Shooter</title>
+</programme>
+<programme start="20251219140000 +0000" stop="20251219155500 +0000" channel="Galaxy Premium.mncvision">
+    <title>Jumanji: The Next Level</title>
+</programme>
+<programme start="20251219155500 +0000" stop="20251219162500 +0000" channel="Galaxy Premium.mncvision">
+    <title>Starsky And Hutch</title>
+</programme>
+<programme start="20251218171500 +0000" stop="20251218180500 +0000" channel="Global Trekker.mncvision">
+    <title>Air Warriors S11, Ep 5</title>
+</programme>
+<programme start="20251218180500 +0000" stop="20251218185500 +0000" channel="Global Trekker.mncvision">
+    <title>Air Warriors S11, Ep 6</title>
+</programme>
+<programme start="20251218185500 +0000" stop="20251218194000 +0000" channel="Global Trekker.mncvision">
+    <title>Evolving Vegan, Ep 3</title>
+</programme>
+<programme start="20251218194000 +0000" stop="20251218203000 +0000" channel="Global Trekker.mncvision">
+    <title>Evolving Vegan, Ep 4</title>
+</programme>
+<programme start="20251218203000 +0000" stop="20251218211500 +0000" channel="Global Trekker.mncvision">
+    <title>Evolving Vegan, Ep 5</title>
+</programme>
+<programme start="20251218211500 +0000" stop="20251218220000 +0000" channel="Global Trekker.mncvision">
+    <title>Evolving Vegan, Ep 3</title>
+</programme>
+<programme start="20251218220000 +0000" stop="20251218224500 +0000" channel="Global Trekker.mncvision">
+    <title>Evolving Vegan, Ep 6</title>
+</programme>
+<programme start="20251218224500 +0000" stop="20251218233500 +0000" channel="Global Trekker.mncvision">
+    <title>Leguizamo Does America, Ep 1</title>
+</programme>
+<programme start="20251218233500 +0000" stop="20251219002000 +0000" channel="Global Trekker.mncvision">
+    <title>Leguizamo Does America, Ep 2</title>
+</programme>
+<programme start="20251219002000 +0000" stop="20251219010500 +0000" channel="Global Trekker.mncvision">
+    <title>Evolving Vegan, Ep 6</title>
+</programme>
+<programme start="20251219010500 +0000" stop="20251219015000 +0000" channel="Global Trekker.mncvision">
+    <title>Leguizamo Does America, Ep 1</title>
+</programme>
+<programme start="20251219015000 +0000" stop="20251219024000 +0000" channel="Global Trekker.mncvision">
+    <title>Wildest Survival, Ep 4</title>
+</programme>
+<programme start="20251219024000 +0000" stop="20251219033000 +0000" channel="Global Trekker.mncvision">
+    <title>Wildest Survival, Ep 5</title>
+</programme>
+<programme start="20251219033000 +0000" stop="20251219042000 +0000" channel="Global Trekker.mncvision">
+    <title>Wildest Survival, Ep 6</title>
+</programme>
+<programme start="20251219042000 +0000" stop="20251219045000 +0000" channel="Global Trekker.mncvision">
+    <title>Taste Of The Territory, Ep 5</title>
+</programme>
+<programme start="20251219045000 +0000" stop="20251219052000 +0000" channel="Global Trekker.mncvision">
+    <title>Taste Of The Territory, Ep 6</title>
+</programme>
+<programme start="20251219052000 +0000" stop="20251219055000 +0000" channel="Global Trekker.mncvision">
+    <title>Taste Of The Territory, Ep 7</title>
+</programme>
+<programme start="20251219055000 +0000" stop="20251219062000 +0000" channel="Global Trekker.mncvision">
+    <title>Taste Of The Territory, Ep 8</title>
+</programme>
+<programme start="20251219062000 +0000" stop="20251219071000 +0000" channel="Global Trekker.mncvision">
+    <title>Around The World With..., Ep 1</title>
+</programme>
+<programme start="20251219071000 +0000" stop="20251219080000 +0000" channel="Global Trekker.mncvision">
+    <title>Battle Of Okinawa In Color</title>
+</programme>
+<programme start="20251219080000 +0000" stop="20251219085500 +0000" channel="Global Trekker.mncvision">
+    <title>The Lockerbie Bombing</title>
+</programme>
+<programme start="20251219085500 +0000" stop="20251219095000 +0000" channel="Global Trekker.mncvision">
+    <title>The Lost Tapes, Ep 3</title>
+</programme>
+<programme start="20251219095000 +0000" stop="20251219104000 +0000" channel="Global Trekker.mncvision">
+    <title>Visionaries Ft. Reeves, Ep 1</title>
+</programme>
+<programme start="20251219104000 +0000" stop="20251219113000 +0000" channel="Global Trekker.mncvision">
+    <title>Visionaries Ft. Reeves, Ep 2</title>
+</programme>
+<programme start="20251219113000 +0000" stop="20251219121000 +0000" channel="Global Trekker.mncvision">
+    <title>Visionaries Ft. Reeves, Ep 3</title>
+</programme>
+<programme start="20251219121000 +0000" stop="20251219130000 +0000" channel="Global Trekker.mncvision">
+    <title>Visionaries Ft. Reeves, Ep 4</title>
+</programme>
+<programme start="20251219130000 +0000" stop="20251219134500 +0000" channel="Global Trekker.mncvision">
+    <title>Visionaries Ft. Reeves, Ep 5</title>
+</programme>
+<programme start="20251219134500 +0000" stop="20251219143500 +0000" channel="Global Trekker.mncvision">
+    <title>Visionaries Ft. Reeves, Ep 6</title>
+</programme>
+<programme start="20251219143500 +0000" stop="20251219152500 +0000" channel="Global Trekker.mncvision">
+    <title>Curious Life &amp; Death..., Ep 5</title>
+</programme>
+<programme start="20251219152500 +0000" stop="20251219161500 +0000" channel="Global Trekker.mncvision">
+    <title>Curious Life &amp; Death..., Ep 6</title>
+</programme>
+<programme start="20251219161500 +0000" stop="20251219164500 +0000" channel="Global Trekker.mncvision">
+    <title>Samuel L. Jackson: I Stutter?</title>
+</programme>
+<programme start="20251218171500 +0000" stop="20251218180500 +0000" channel="Global Trekker HD.mncvision">
+    <title>Air Warriors S11, Ep 5</title>
+</programme>
+<programme start="20251218180500 +0000" stop="20251218185500 +0000" channel="Global Trekker HD.mncvision">
+    <title>Air Warriors S11, Ep 6</title>
+</programme>
+<programme start="20251218185500 +0000" stop="20251218194000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Evolving Vegan, Ep 3</title>
+</programme>
+<programme start="20251218194000 +0000" stop="20251218203000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Evolving Vegan, Ep 4</title>
+</programme>
+<programme start="20251218203000 +0000" stop="20251218211500 +0000" channel="Global Trekker HD.mncvision">
+    <title>Evolving Vegan, Ep 5</title>
+</programme>
+<programme start="20251218211500 +0000" stop="20251218220000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Evolving Vegan, Ep 3</title>
+</programme>
+<programme start="20251218220000 +0000" stop="20251218224500 +0000" channel="Global Trekker HD.mncvision">
+    <title>Evolving Vegan, Ep 6</title>
+</programme>
+<programme start="20251218224500 +0000" stop="20251218233500 +0000" channel="Global Trekker HD.mncvision">
+    <title>Leguizamo Does America, Ep 1</title>
+</programme>
+<programme start="20251218233500 +0000" stop="20251219002000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Leguizamo Does America, Ep 2</title>
+</programme>
+<programme start="20251219002000 +0000" stop="20251219010500 +0000" channel="Global Trekker HD.mncvision">
+    <title>Evolving Vegan, Ep 6</title>
+</programme>
+<programme start="20251219010500 +0000" stop="20251219015000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Leguizamo Does America, Ep 1</title>
+</programme>
+<programme start="20251219015000 +0000" stop="20251219024000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Wildest Survival, Ep 4</title>
+</programme>
+<programme start="20251219024000 +0000" stop="20251219033000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Wildest Survival, Ep 5</title>
+</programme>
+<programme start="20251219033000 +0000" stop="20251219042000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Wildest Survival, Ep 6</title>
+</programme>
+<programme start="20251219042000 +0000" stop="20251219045000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Taste Of The Territory, Ep 5</title>
+</programme>
+<programme start="20251219045000 +0000" stop="20251219052000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Taste Of The Territory, Ep 6</title>
+</programme>
+<programme start="20251219052000 +0000" stop="20251219055000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Taste Of The Territory, Ep 7</title>
+</programme>
+<programme start="20251219055000 +0000" stop="20251219062000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Taste Of The Territory, Ep 8</title>
+</programme>
+<programme start="20251219062000 +0000" stop="20251219071000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Around The World With..., Ep 1</title>
+</programme>
+<programme start="20251219071000 +0000" stop="20251219080000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Battle Of Okinawa In Color</title>
+</programme>
+<programme start="20251219080000 +0000" stop="20251219085500 +0000" channel="Global Trekker HD.mncvision">
+    <title>The Lockerbie Bombing</title>
+</programme>
+<programme start="20251219085500 +0000" stop="20251219095000 +0000" channel="Global Trekker HD.mncvision">
+    <title>The Lost Tapes, Ep 3</title>
+</programme>
+<programme start="20251219095000 +0000" stop="20251219104000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Visionaries Ft. Reeves, Ep 1</title>
+</programme>
+<programme start="20251219104000 +0000" stop="20251219113000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Visionaries Ft. Reeves, Ep 2</title>
+</programme>
+<programme start="20251219113000 +0000" stop="20251219121000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Visionaries Ft. Reeves, Ep 3</title>
+</programme>
+<programme start="20251219121000 +0000" stop="20251219130000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Visionaries Ft. Reeves, Ep 4</title>
+</programme>
+<programme start="20251219130000 +0000" stop="20251219134500 +0000" channel="Global Trekker HD.mncvision">
+    <title>Visionaries Ft. Reeves, Ep 5</title>
+</programme>
+<programme start="20251219134500 +0000" stop="20251219143500 +0000" channel="Global Trekker HD.mncvision">
+    <title>Visionaries Ft. Reeves, Ep 6</title>
+</programme>
+<programme start="20251219143500 +0000" stop="20251219152500 +0000" channel="Global Trekker HD.mncvision">
+    <title>Curious Life &amp; Death..., Ep 5</title>
+</programme>
+<programme start="20251219152500 +0000" stop="20251219161500 +0000" channel="Global Trekker HD.mncvision">
+    <title>Curious Life &amp; Death..., Ep 6</title>
+</programme>
+<programme start="20251219161500 +0000" stop="20251219164500 +0000" channel="Global Trekker HD.mncvision">
+    <title>Samuel L. Jackson: I Stutter?</title>
+</programme>
 <programme start="20251218170000 +0000" stop="20251218180000 +0000" channel="GTV.mncvision">
     <title>Jelajah Mitos</title>
 </programme>
@@ -4261,43 +4754,13 @@ Error: Unable to fetch data. HTTP Status Code: 500
     <title>iSeleb (L)</title>
 </programme>
 <programme start="20251219080000 +0000" stop="20251219093000 +0000" channel="iNews.mncvision">
-    <title>SEA Games Thailand 2025 (L)</title>
+    <title>Realita (L)</title>
 </programme>
 <programme start="20251219093000 +0000" stop="20251219110000 +0000" channel="iNews.mncvision">
     <title>iNews Sore (L)</title>
 </programme>
-<programme start="20251219110000 +0000" stop="20251219110500 +0000" channel="iNews.mncvision">
+<programme start="20251219110000 +0000" stop="20251219113000 +0000" channel="iNews.mncvision">
     <title>iNews Terkini</title>
-</programme>
-<programme start="20251219110500 +0000" stop="20251219120000 +0000" channel="iNews.mncvision">
-    <title>iNews Sore (L)</title>
-</programme>
-<programme start="20251219120000 +0000" stop="20251219120500 +0000" channel="iNews.mncvision">
-    <title>iNews Terkini</title>
-</programme>
-<programme start="20251219120500 +0000" stop="20251219130000 +0000" channel="iNews.mncvision">
-    <title>iNews Room (L)</title>
-</programme>
-<programme start="20251219130000 +0000" stop="20251219130500 +0000" channel="iNews.mncvision">
-    <title>iNews Terkini</title>
-</programme>
-<programme start="20251219130500 +0000" stop="20251219133000 +0000" channel="iNews.mncvision">
-    <title>iNews Room (L)</title>
-</programme>
-<programme start="20251219133000 +0000" stop="20251219143000 +0000" channel="iNews.mncvision">
-    <title>iNews Prime (L)</title>
-</programme>
-<programme start="20251219143000 +0000" stop="20251219150000 +0000" channel="iNews.mncvision">
-    <title>iNews Malam (L)</title>
-</programme>
-<programme start="20251219150000 +0000" stop="20251219160000 +0000" channel="iNews.mncvision">
-    <title>iNews Files</title>
-</programme>
-<programme start="20251219160000 +0000" stop="20251219163000 +0000" channel="iNews.mncvision">
-    <title>iNews Sport (L)</title>
-</programme>
-<programme start="20251219163000 +0000" stop="20251218170000 +0000" channel="iNews.mncvision">
-    <title>New Top Files</title>
 </programme>
 <programme start="20251218180000 +0000" stop="20251218184500 +0000" channel="iNews HD.mncvision">
     <title>iNews Room</title>
@@ -4348,43 +4811,13 @@ Error: Unable to fetch data. HTTP Status Code: 500
     <title>iSeleb (L)</title>
 </programme>
 <programme start="20251219080000 +0000" stop="20251219093000 +0000" channel="iNews HD.mncvision">
-    <title>SEA Games Thailand 2025 (L)</title>
+    <title>Realita (L)</title>
 </programme>
 <programme start="20251219093000 +0000" stop="20251219110000 +0000" channel="iNews HD.mncvision">
     <title>iNews Sore (L)</title>
 </programme>
-<programme start="20251219110000 +0000" stop="20251219110500 +0000" channel="iNews HD.mncvision">
+<programme start="20251219110000 +0000" stop="20251219113000 +0000" channel="iNews HD.mncvision">
     <title>iNews Terkini</title>
-</programme>
-<programme start="20251219110500 +0000" stop="20251219120000 +0000" channel="iNews HD.mncvision">
-    <title>iNews Sore (L)</title>
-</programme>
-<programme start="20251219120000 +0000" stop="20251219120500 +0000" channel="iNews HD.mncvision">
-    <title>iNews Terkini</title>
-</programme>
-<programme start="20251219120500 +0000" stop="20251219130000 +0000" channel="iNews HD.mncvision">
-    <title>iNews Room (L)</title>
-</programme>
-<programme start="20251219130000 +0000" stop="20251219130500 +0000" channel="iNews HD.mncvision">
-    <title>iNews Terkini</title>
-</programme>
-<programme start="20251219130500 +0000" stop="20251219133000 +0000" channel="iNews HD.mncvision">
-    <title>iNews Room (L)</title>
-</programme>
-<programme start="20251219133000 +0000" stop="20251219143000 +0000" channel="iNews HD.mncvision">
-    <title>iNews Prime (L)</title>
-</programme>
-<programme start="20251219143000 +0000" stop="20251219150000 +0000" channel="iNews HD.mncvision">
-    <title>iNews Malam (L)</title>
-</programme>
-<programme start="20251219150000 +0000" stop="20251219160000 +0000" channel="iNews HD.mncvision">
-    <title>iNews Files</title>
-</programme>
-<programme start="20251219160000 +0000" stop="20251219163000 +0000" channel="iNews HD.mncvision">
-    <title>iNews Sport (L)</title>
-</programme>
-<programme start="20251219163000 +0000" stop="20251218170000 +0000" channel="iNews HD.mncvision">
-    <title>New Top Files</title>
 </programme>
 <programme start="20251218220000 +0000" stop="20251218223000 +0000" channel="JAKTV.mncvision">
     <title>Senyum Quran</title>
@@ -5415,11 +5848,11 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20251219120000 +0000" stop="20251219140000 +0000" channel="MNCTV.mncvision">
     <title>SEA Games 2025: Futsal (L)</title>
 </programme>
-<programme start="20251219140000 +0000" stop="20251219160000 +0000" channel="MNCTV.mncvision">
+<programme start="20251219140000 +0000" stop="20251219163000 +0000" channel="MNCTV.mncvision">
     <title>SEA Games 2025: Volley Ball</title>
 </programme>
-<programme start="20251219160000 +0000" stop="20251219163000 +0000" channel="MNCTV.mncvision">
-    <title>Dendam</title>
+<programme start="20251219163000 +0000" stop="20251218170000 +0000" channel="MNCTV.mncvision">
+    <title>Suparman Reborn 2</title>
 </programme>
 <programme start="20251218190000 +0000" stop="20251218210000 +0000" channel="MNCTV HD.mncvision">
     <title>Suparman Reborn 2</title>
@@ -5466,11 +5899,11 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20251219120000 +0000" stop="20251219140000 +0000" channel="MNCTV HD.mncvision">
     <title>SEA Games 2025: Futsal (L)</title>
 </programme>
-<programme start="20251219140000 +0000" stop="20251219160000 +0000" channel="MNCTV HD.mncvision">
+<programme start="20251219140000 +0000" stop="20251219163000 +0000" channel="MNCTV HD.mncvision">
     <title>SEA Games 2025: Volley Ball</title>
 </programme>
-<programme start="20251219160000 +0000" stop="20251219163000 +0000" channel="MNCTV HD.mncvision">
-    <title>Dendam</title>
+<programme start="20251219163000 +0000" stop="20251218170000 +0000" channel="MNCTV HD.mncvision">
+    <title>Suparman Reborn 2</title>
 </programme>
 <programme start="20251218170100 +0000" stop="20251218172500 +0000" channel="Moonbug.mncvision">
     <title>CoComelon</title>
@@ -7554,23 +7987,11 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20251219000000 +0000" stop="20251219020000 +0000" channel="Sportstars.mncvision">
     <title>V-League 2025-2026 Men</title>
 </programme>
-<programme start="20251219020000 +0000" stop="20251219043000 +0000" channel="Sportstars.mncvision">
+<programme start="20251219020000 +0000" stop="20251219080000 +0000" channel="Sportstars.mncvision">
     <title>SEA Games Thailand 2025 (L)</title>
 </programme>
-<programme start="20251219043000 +0000" stop="20251219050000 +0000" channel="Sportstars.mncvision">
-    <title>iNews Sport</title>
-</programme>
-<programme start="20251219050000 +0000" stop="20251219053000 +0000" channel="Sportstars.mncvision">
-    <title>30 Minutes Extreme</title>
-</programme>
-<programme start="20251219053000 +0000" stop="20251219060000 +0000" channel="Sportstars.mncvision">
-    <title>Golden Fit</title>
-</programme>
-<programme start="20251219060000 +0000" stop="20251219080000 +0000" channel="Sportstars.mncvision">
-    <title>SEA Games Thailand 2025</title>
-</programme>
 <programme start="20251219080000 +0000" stop="20251219100000 +0000" channel="Sportstars.mncvision">
-    <title>KOVO Cup</title>
+    <title>SEA Games Thailand 2025 (L)</title>
 </programme>
 <programme start="20251219100000 +0000" stop="20251219120000 +0000" channel="Sportstars.mncvision">
     <title>V-League 2025-2026 Men (L)</title>
@@ -7599,22 +8020,25 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20251219000000 +0000" stop="20251219020000 +0000" channel="Sportstars 2.mncvision">
     <title>SEA Games Thailand 2025</title>
 </programme>
-<programme start="20251219020000 +0000" stop="20251219040000 +0000" channel="Sportstars 2.mncvision">
+<programme start="20251219020000 +0000" stop="20251219043000 +0000" channel="Sportstars 2.mncvision">
     <title>SEA Games Thailand 2025 (L)</title>
 </programme>
-<programme start="20251219040000 +0000" stop="20251219073000 +0000" channel="Sportstars 2.mncvision">
+<programme start="20251219043000 +0000" stop="20251219063000 +0000" channel="Sportstars 2.mncvision">
     <title>SEA Games Thailand 2025 (L)</title>
 </programme>
-<programme start="20251219073000 +0000" stop="20251219093000 +0000" channel="Sportstars 2.mncvision">
+<programme start="20251219063000 +0000" stop="20251219070000 +0000" channel="Sportstars 2.mncvision">
     <title>SEA Games Thailand 2025 (L)</title>
 </programme>
-<programme start="20251219093000 +0000" stop="20251219100000 +0000" channel="Sportstars 2.mncvision">
+<programme start="20251219070000 +0000" stop="20251219090000 +0000" channel="Sportstars 2.mncvision">
     <title>SEA Games Thailand 2025 (L)</title>
 </programme>
-<programme start="20251219100000 +0000" stop="20251219120000 +0000" channel="Sportstars 2.mncvision">
+<programme start="20251219090000 +0000" stop="20251219100000 +0000" channel="Sportstars 2.mncvision">
     <title>SEA Games Thailand 2025 (L)</title>
 </programme>
-<programme start="20251219120000 +0000" stop="20251219140000 +0000" channel="Sportstars 2.mncvision">
+<programme start="20251219100000 +0000" stop="20251219123000 +0000" channel="Sportstars 2.mncvision">
+    <title>SEA Games Thailand 2025 (L)</title>
+</programme>
+<programme start="20251219123000 +0000" stop="20251219140000 +0000" channel="Sportstars 2.mncvision">
     <title>SEA Games Thailand 2025 (L)</title>
 </programme>
 <programme start="20251219140000 +0000" stop="20251219160000 +0000" channel="Sportstars 2.mncvision">
@@ -7632,22 +8056,25 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20251219000000 +0000" stop="20251219020000 +0000" channel="Sportstars 2 HD.mncvision">
     <title>SEA Games Thailand 2025</title>
 </programme>
-<programme start="20251219020000 +0000" stop="20251219040000 +0000" channel="Sportstars 2 HD.mncvision">
+<programme start="20251219020000 +0000" stop="20251219043000 +0000" channel="Sportstars 2 HD.mncvision">
     <title>SEA Games Thailand 2025 (L)</title>
 </programme>
-<programme start="20251219040000 +0000" stop="20251219073000 +0000" channel="Sportstars 2 HD.mncvision">
+<programme start="20251219043000 +0000" stop="20251219063000 +0000" channel="Sportstars 2 HD.mncvision">
     <title>SEA Games Thailand 2025 (L)</title>
 </programme>
-<programme start="20251219073000 +0000" stop="20251219093000 +0000" channel="Sportstars 2 HD.mncvision">
+<programme start="20251219063000 +0000" stop="20251219070000 +0000" channel="Sportstars 2 HD.mncvision">
     <title>SEA Games Thailand 2025 (L)</title>
 </programme>
-<programme start="20251219093000 +0000" stop="20251219100000 +0000" channel="Sportstars 2 HD.mncvision">
+<programme start="20251219070000 +0000" stop="20251219090000 +0000" channel="Sportstars 2 HD.mncvision">
     <title>SEA Games Thailand 2025 (L)</title>
 </programme>
-<programme start="20251219100000 +0000" stop="20251219120000 +0000" channel="Sportstars 2 HD.mncvision">
+<programme start="20251219090000 +0000" stop="20251219100000 +0000" channel="Sportstars 2 HD.mncvision">
     <title>SEA Games Thailand 2025 (L)</title>
 </programme>
-<programme start="20251219120000 +0000" stop="20251219140000 +0000" channel="Sportstars 2 HD.mncvision">
+<programme start="20251219100000 +0000" stop="20251219123000 +0000" channel="Sportstars 2 HD.mncvision">
+    <title>SEA Games Thailand 2025 (L)</title>
+</programme>
+<programme start="20251219123000 +0000" stop="20251219140000 +0000" channel="Sportstars 2 HD.mncvision">
     <title>SEA Games Thailand 2025 (L)</title>
 </programme>
 <programme start="20251219140000 +0000" stop="20251219160000 +0000" channel="Sportstars 2 HD.mncvision">
@@ -7680,11 +8107,20 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20251219090000 +0000" stop="20251219110000 +0000" channel="Sportstars 3.mncvision">
     <title>SEA Games Thailand 2025 (L)</title>
 </programme>
-<programme start="20251219110000 +0000" stop="20251219130000 +0000" channel="Sportstars 3.mncvision">
-    <title>BRI Liga 1</title>
+<programme start="20251219110000 +0000" stop="20251219113000 +0000" channel="Sportstars 3.mncvision">
+    <title>Top Goals</title>
 </programme>
-<programme start="20251219130000 +0000" stop="20251219150000 +0000" channel="Sportstars 3.mncvision">
-    <title>European Qualifiers</title>
+<programme start="20251219113000 +0000" stop="20251219120000 +0000" channel="Sportstars 3.mncvision">
+    <title>Planet Footbal</title>
+</programme>
+<programme start="20251219120000 +0000" stop="20251219140000 +0000" channel="Sportstars 3.mncvision">
+    <title>SEA Games Thailand 2025 (L)</title>
+</programme>
+<programme start="20251219140000 +0000" stop="20251219143000 +0000" channel="Sportstars 3.mncvision">
+    <title>World Classic Soccer</title>
+</programme>
+<programme start="20251219143000 +0000" stop="20251219150000 +0000" channel="Sportstars 3.mncvision">
+    <title>Top Goals</title>
 </programme>
 <programme start="20251219150000 +0000" stop="20251219153000 +0000" channel="Sportstars 3.mncvision">
     <title>Liga 2</title>
@@ -7713,11 +8149,20 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20251219090000 +0000" stop="20251219110000 +0000" channel="sportstars 3 HD.mncvision">
     <title>SEA Games Thailand 2025 (L)</title>
 </programme>
-<programme start="20251219110000 +0000" stop="20251219130000 +0000" channel="sportstars 3 HD.mncvision">
-    <title>BRI Liga 1</title>
+<programme start="20251219110000 +0000" stop="20251219113000 +0000" channel="sportstars 3 HD.mncvision">
+    <title>Top Goals</title>
 </programme>
-<programme start="20251219130000 +0000" stop="20251219150000 +0000" channel="sportstars 3 HD.mncvision">
-    <title>European Qualifiers</title>
+<programme start="20251219113000 +0000" stop="20251219120000 +0000" channel="sportstars 3 HD.mncvision">
+    <title>Planet Footbal</title>
+</programme>
+<programme start="20251219120000 +0000" stop="20251219140000 +0000" channel="sportstars 3 HD.mncvision">
+    <title>SEA Games Thailand 2025 (L)</title>
+</programme>
+<programme start="20251219140000 +0000" stop="20251219143000 +0000" channel="sportstars 3 HD.mncvision">
+    <title>World Classic Soccer</title>
+</programme>
+<programme start="20251219143000 +0000" stop="20251219150000 +0000" channel="sportstars 3 HD.mncvision">
+    <title>Top Goals</title>
 </programme>
 <programme start="20251219150000 +0000" stop="20251219153000 +0000" channel="sportstars 3 HD.mncvision">
     <title>Liga 2</title>
@@ -7818,23 +8263,11 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20251219000000 +0000" stop="20251219020000 +0000" channel="Sportstars HD.mncvision">
     <title>V-League 2025-2026 Men</title>
 </programme>
-<programme start="20251219020000 +0000" stop="20251219043000 +0000" channel="Sportstars HD.mncvision">
+<programme start="20251219020000 +0000" stop="20251219080000 +0000" channel="Sportstars HD.mncvision">
     <title>SEA Games Thailand 2025 (L)</title>
 </programme>
-<programme start="20251219043000 +0000" stop="20251219050000 +0000" channel="Sportstars HD.mncvision">
-    <title>iNews Sport</title>
-</programme>
-<programme start="20251219050000 +0000" stop="20251219053000 +0000" channel="Sportstars HD.mncvision">
-    <title>30 Minutes Extreme</title>
-</programme>
-<programme start="20251219053000 +0000" stop="20251219060000 +0000" channel="Sportstars HD.mncvision">
-    <title>Golden Fit</title>
-</programme>
-<programme start="20251219060000 +0000" stop="20251219080000 +0000" channel="Sportstars HD.mncvision">
-    <title>SEA Games Thailand 2025</title>
-</programme>
 <programme start="20251219080000 +0000" stop="20251219100000 +0000" channel="Sportstars HD.mncvision">
-    <title>KOVO Cup</title>
+    <title>SEA Games Thailand 2025 (L)</title>
 </programme>
 <programme start="20251219100000 +0000" stop="20251219120000 +0000" channel="Sportstars HD.mncvision">
     <title>V-League 2025-2026 Men (L)</title>
