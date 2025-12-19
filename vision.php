@@ -502,9 +502,6 @@
 <programme start="20251219010000 +0000" stop="20251219023000 +0000" channel="ANTV.vision">
 <title>Zeynep</title>
 </programme>
-<programme start="20251219023000 +0000" stop="20251219060000 +0000" channel="ANTV.vision">
-<title>Dhoom</title>
-</programme>
 <programme start="20251219060000 +0000" stop="20251219073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20251220020000 +0000" stop="20251220025000 +0000" channel="MDTV.vision">
 <title>Sensasihot</title>
+</programme>
+<programme start="20251220025000 +0000" stop="20251220040000 +0000" channel="MDTV.vision">
+<title>Marimar</title>
 </programme>
