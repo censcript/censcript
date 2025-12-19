@@ -78,6 +78,10 @@
     <title>UEFA Champions League Magazine 2024-25 E15</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251220220000 +0700" stop="20251221000000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: Ipswich Town - Sheffield Wednesday (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
 <programme start="20251219202000 +0700" stop="20251219222000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Genoa - FC Internazionale Milano</title>
     <desc>Live: Tidak</desc>
@@ -145,6 +149,14 @@
 <programme start="20251220213000 +0700" stop="20251220220000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Sports Classics: Sporting Countdowns</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251220220000 +0700" stop="20251220223000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Sports Classics: Sporting Countdowns</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251220223000 +0700" stop="20251220230000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>PreGame (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20251219210000 +0700" stop="20251219230000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Rayo Vallecano de Madrid - FC Drita</title>
@@ -214,8 +226,8 @@
     <title>Football: Poland - Netherlands</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251219194500 +0700" stop="20251219214000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Szolnoki Olaj - AEK</title>
+<programme start="20251220224000 +0700" stop="20251221000000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Mexico - Poland</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251219214000 +0700" stop="20251219235000 +0700" channel="COSMOTE Sport 4 HD">
@@ -282,9 +294,9 @@
     <title>NBA Action 2025-26 E3509</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251219210000 +0700" stop="20251219220000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC</title>
-    <desc>Live: Tidak</desc>
+<programme start="20251220220000 +0700" stop="20251221000000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Trabzonspor - Fenerbahce (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20251219220000 +0700" stop="20251219230000 +0700" channel="COSMOTE Sport 5 HD">
     <title>WRC 2025</title>
@@ -392,6 +404,14 @@
 </programme>
 <programme start="20251220210000 +0700" stop="20251220220000 +0700" channel="COSMOTE Sport 5 HD">
     <title>WRC</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251220220000 +0700" stop="20251220225500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251220225500 +0700" stop="20251220235500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: MotoGP 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251219200000 +0700" stop="20251219223000 +0700" channel="COSMOTE Sport 6 HD">
