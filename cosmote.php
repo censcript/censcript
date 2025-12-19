@@ -1,7 +1,3 @@
-<programme start="20251219203000 +0700" stop="20251219223000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: FC Shakhtar Donetsk - Rijeka</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251219223000 +0700" stop="20251220003000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: FSV Mainz 05 - Samsunspor</title>
     <desc>Live: Tidak</desc>
@@ -82,10 +78,6 @@
     <title>Football: Ipswich Town - Sheffield Wednesday (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251219202000 +0700" stop="20251219222000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Genoa - FC Internazionale Milano</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251219222000 +0700" stop="20251220003000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Olympiacos - Iraklis</title>
     <desc>Live: Tidak</desc>
@@ -158,9 +150,9 @@
     <title>PreGame (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251219210000 +0700" stop="20251219230000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Rayo Vallecano de Madrid - FC Drita</title>
-    <desc>Live: Tidak</desc>
+<programme start="20251220230000 +0700" stop="20251221011000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Volos - Panetolikos (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20251219230000 +0700" stop="20251220010000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Strasbourg - Breidablik</title>
@@ -298,10 +290,6 @@
     <title>Basketball: Trabzonspor - Fenerbahce (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251219220000 +0700" stop="20251219230000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251219230000 +0700" stop="20251220000000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Motorsports: MotoGP 2025</title>
     <desc>Live: Tidak</desc>
@@ -414,12 +402,8 @@
     <title>Motorsports: MotoGP 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251219200000 +0700" stop="20251219223000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: Alexander Blockx - Dino Prizmic (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20251219223000 +0700" stop="20251219230000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Premier Padel Tour 2025 - Highlights</title>
+<programme start="20251220235500 +0700" stop="20251221005500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: MotoGP 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251219230000 +0700" stop="20251220010000 +0700" channel="COSMOTE Sport 6 HD">
@@ -482,9 +466,9 @@
     <title>Tennis: 2025 Next Gen ATP Finals</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251219210000 +0700" stop="20251219230000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
-    <desc>Live: Tidak</desc>
+<programme start="20251220230000 +0700" stop="20251221010000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: 2025 Next Gen ATP Finals (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20251219230000 +0700" stop="20251220010000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
@@ -534,8 +518,8 @@
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251219210000 +0700" stop="20251219230000 +0700" channel="COSMOTE Sport 8 HD">
-    <title>COSMOTESport8HD</title>
+<programme start="20251220230000 +0700" stop="20251221000000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251219230000 +0700" stop="20251220010000 +0700" channel="COSMOTE Sport 8 HD">
@@ -586,8 +570,8 @@
     <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251219210000 +0700" stop="20251219230000 +0700" channel="COSMOTE Sport 9 HD">
-    <title>COSMOTESport9HD</title>
+<programme start="20251220230000 +0700" stop="20251221010000 +0700" channel="COSMOTE Sport 8 HD">
+    <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251219230000 +0700" stop="20251220010000 +0700" channel="COSMOTE Sport 9 HD">
@@ -635,6 +619,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251220210000 +0700" stop="20251220230000 +0700" channel="COSMOTE Sport 9 HD">
+    <title>COSMOTESport9HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251220230000 +0700" stop="20251221000000 +0700" channel="COSMOTE Sport 9 HD">
     <title>COSMOTESport9HD</title>
     <desc>Live: Tidak</desc>
 </programme>

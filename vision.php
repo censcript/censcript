@@ -502,20 +502,11 @@
 <programme start="20251219010000 +0000" stop="20251219023000 +0000" channel="ANTV.vision">
 <title>Zeynep</title>
 </programme>
-<programme start="20251219023000 +0000" stop="20251219060000 +0000" channel="ANTV.vision">
-<title>Dhoom</title>
-</programme>
 <programme start="20251219060000 +0000" stop="20251219073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
 <programme start="20251219073000 +0000" stop="20251219084500 +0000" channel="ANTV.vision">
 <title>Shani</title>
-</programme>
-<programme start="20251219084500 +0000" stop="20251219110000 +0000" channel="ANTV.vision">
-<title>Manusia 6 Juta Dollar</title>
-</programme>
-<programme start="20251219110000 +0000" stop="20251219123000 +0000" channel="ANTV.vision">
-<title>Malam Jumat Kliwon</title>
 </programme>
 <programme start="20251219123000 +0000" stop="20251219140000 +0000" channel="ANTV.vision">
 <title>Senandung Cinta Lilis</title>
@@ -1497,4 +1488,13 @@
 </programme>
 <programme start="20251220020000 +0000" stop="20251220025000 +0000" channel="MDTV.vision">
 <title>Sensasihot</title>
+</programme>
+<programme start="20251220025000 +0000" stop="20251220040000 +0000" channel="MDTV.vision">
+<title>Marimar</title>
+</programme>
+<programme start="20251220040000 +0000" stop="20251220051500 +0000" channel="MDTV.vision">
+<title>Cerita Nyata</title>
+</programme>
+<programme start="20251220051500 +0000" stop="20251220071500 +0000" channel="MDTV.vision">
+<title>Cinta Fitri S5</title>
 </programme>
