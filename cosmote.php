@@ -74,6 +74,10 @@
     <title>Football: AEK - Universitatea Craiova</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251220202500 +0700" stop="20251220212500 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Highlights: UEL &amp; UECL 2025-26</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251219181000 +0700" stop="20251219202000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Kavala - Panathinaikos</title>
     <desc>Live: Tidak</desc>
@@ -206,8 +210,8 @@
     <title>Football: Mexico - Bulgaria</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251219170000 +0700" stop="20251219194500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: New Orleans Pelicans - Houston Rockets</title>
+<programme start="20251220205000 +0700" stop="20251220214500 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Mexico - Kazakhstan</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251219194500 +0700" stop="20251219214000 +0700" channel="COSMOTE Sport 4 HD">
@@ -272,10 +276,6 @@
 </programme>
 <programme start="20251220190500 +0700" stop="20251220212000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Promitheas - Rytas Vilnius</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251219183000 +0700" stop="20251219193500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251219193500 +0700" stop="20251219200500 +0700" channel="COSMOTE Sport 5 HD">
@@ -390,9 +390,9 @@
     <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251219180000 +0700" stop="20251219200000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: Nishesh Basabareddy - Justin Engel (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20251220200000 +0700" stop="20251220210000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>DTM - Highlights</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251219200000 +0700" stop="20251219223000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Alexander Blockx - Dino Prizmic (L)</title>
