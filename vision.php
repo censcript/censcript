@@ -511,9 +511,6 @@
 <programme start="20251219140000 +0000" stop="20251219160000 +0000" channel="ANTV.vision">
 <title>Tawa Kalcer</title>
 </programme>
-<programme start="20251219160000 +0000" stop="20251219183000 +0000" channel="ANTV.vision">
-<title>The Prodigal Son</title>
-</programme>
 <programme start="20251219183000 +0000" stop="20251219210000 +0000" channel="ANTV.vision">
 <title>Supercoppa</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20251220071500 +0000" stop="20251220080500 +0000" channel="MDTV.vision">
 <title>Makan Enak</title>
+</programme>
+<programme start="20251220080500 +0000" stop="20251220090000 +0000" channel="MDTV.vision">
+<title>Masak Gesss!!!</title>
 </programme>

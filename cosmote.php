@@ -67,7 +67,7 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251220212500 +0700" stop="20251220220000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>UEFA Champions League Magazine 2024-25 E15</title>
+    <title>UEFA Champions League Magazine 2025-26 E15</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251220220000 +0700" stop="20251221000000 +0700" channel="COSMOTE Sport 1 HD">
@@ -234,9 +234,13 @@
     <title>Football: SS Lazio - Cremonese (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251220002000 +0700" stop="20251220015500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Pick n&#039; Roll</title>
+<programme start="20251221020000 +0700" stop="20251221024500 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Copa Libertadores 2025 - Highlights</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251221024500 +0700" stop="20251221044500 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Juventus Football Club - AS Roma (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20251220015500 +0700" stop="20251220023000 +0700" channel="COSMOTE Sport 4 HD">
     <title>NBA Action 2025-26 E3509 (L)</title>
@@ -302,8 +306,12 @@
     <title>Basketball: Szolnoki Olaj - AEK</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251220010000 +0700" stop="20251220020000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC</title>
+<programme start="20251221022500 +0700" stop="20251221025000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>ACB Liga Endesa 2025-26 - Fifth Quarter E10</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251221025000 +0700" stop="20251221050000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Unicaja - Karditsa</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251220020000 +0700" stop="20251220030000 +0700" channel="COSMOTE Sport 5 HD">
@@ -413,6 +421,10 @@
 <programme start="20251221005500 +0700" stop="20251221020000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Highlights: Moto2 &amp; Moto3 2025</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251221020000 +0700" stop="20251221040000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Basketball: Cantu - Armani Milano (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20251220010000 +0700" stop="20251220033000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Learner Tien - Nicolai Budkov Kjaer (L)</title>
@@ -589,6 +601,10 @@
 <programme start="20251221013000 +0700" stop="20251221020000 +0700" channel="COSMOTE Sport 8 HD">
     <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251221020000 +0700" stop="20251221034500 +0700" channel="COSMOTE Sport 8 HD">
+    <title>Handball: THW Kiel - TSV Hannover-Burgdorf (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20251220010000 +0700" stop="20251220030000 +0700" channel="COSMOTE Sport 9 HD">
     <title>COSMOTESport9HD</title>
