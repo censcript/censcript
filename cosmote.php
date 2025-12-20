@@ -70,6 +70,10 @@
     <title>UEL &amp; UECL Magazine 2025-26 E8</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251221183000 +0700" stop="20251221203000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: Cagliari - Pisa (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
 <programme start="20251220162000 +0700" stop="20251220183000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Olympiacos - Iraklis</title>
     <desc>Live: Tidak</desc>
@@ -158,8 +162,8 @@
     <title>Football: Volos - Panetolikos</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251220165000 +0700" stop="20251220174500 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Greece - Serbia</title>
+<programme start="20251221184500 +0700" stop="20251221210000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Olympiacos - Kifisia</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251220174500 +0700" stop="20251220184500 +0700" channel="COSMOTE Sport 3 HD">
@@ -234,6 +238,10 @@
     <title>Football: Southampton - Coventry City</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251221183000 +0700" stop="20251221203000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Ipswich Town - Sheffield Wednesday</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251220170000 +0700" stop="20251220190500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Bahcesehir - Besiktas</title>
     <desc>Live: Tidak</desc>
@@ -296,10 +304,6 @@
 </programme>
 <programme start="20251221170000 +0700" stop="20251221192500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Denver Nuggets - Houston Rockets</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251220161500 +0700" stop="20251220172000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251220172000 +0700" stop="20251220182500 +0700" channel="COSMOTE Sport 5 HD">
@@ -402,9 +406,9 @@
     <title>DTM</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251220162000 +0700" stop="20251220171000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Beach Volley: Pro Tour Elite 16 2025</title>
-    <desc>Live: Tidak</desc>
+<programme start="20251221183000 +0700" stop="20251221203000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Basketball: Barcelona - Badalona (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20251220171000 +0700" stop="20251220180500 +0700" channel="COSMOTE Sport 6 HD">
     <title>Beach Volley: Pro Tour Elite 16 2025</title>
