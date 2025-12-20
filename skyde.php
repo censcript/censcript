@@ -2557,7 +2557,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251220173000 +0000" stop="20251220203000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live NHL: Detroit Red Wings @ Washington Capitals</title>
 </programme>
-<programme start="20251220203000 +0000" stop="20251220230000 +0000" channel="Sky Sport Austria 3 HD.skyde">
+<programme start="20251220203000 +0000" stop="20251221010000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live NHL: Edmonton Oilers @ Minnesota Wild</title>
 </programme>
 <programme start="20251219233000 +0000" stop="20251220013000 +0000" channel="Sky Sport Bundesliga HD.skyde">

@@ -6872,7 +6872,7 @@
         <title>NHK Newsline</title>
     </programme>
     <programme start="20251220001000 +0000" stop="20251220010000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>Documentary 360</title>
+        <title>In the Wake of Agent Orange</title>
     </programme>
     <programme start="20251220010000 +0000" stop="20251220011000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>NHK Newsline</title>
@@ -6905,7 +6905,7 @@
         <title>NHK Newsline</title>
     </programme>
     <programme start="20251220041000 +0000" stop="20251220044000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>Time and Tide</title>
+        <title>Sake Truth</title>
     </programme>
     <programme start="20251220044000 +0000" stop="20251220045000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>Magical Japanese</title>
@@ -6932,7 +6932,7 @@
         <title>NHK Newsline</title>
     </programme>
     <programme start="20251220061000 +0000" stop="20251220070000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>Documentary 360</title>
+        <title>In the Wake of Agent Orange</title>
     </programme>
     <programme start="20251220070000 +0000" stop="20251220071000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>NHK Newsline</title>
@@ -6944,7 +6944,7 @@
         <title>NHK Newsline</title>
     </programme>
     <programme start="20251220081000 +0000" stop="20251220084000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>Time and Tide</title>
+        <title>Sake Truth</title>
     </programme>
     <programme start="20251220084000 +0000" stop="20251220085000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>Magical Japanese</title>
@@ -6992,7 +6992,7 @@
         <title>NHK Newsline</title>
     </programme>
     <programme start="20251220121000 +0000" stop="20251220130000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>Documentary 360</title>
+        <title>In the Wake of Agent Orange</title>
     </programme>
     <programme start="20251220130000 +0000" stop="20251220131000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>NHK Newsline</title>
