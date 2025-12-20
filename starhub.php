@@ -3100,9 +3100,6 @@
     <programme start="20251219180000 +0000" stop="20251219183000 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
-    <programme start="20251219183000 +0000" stop="20251219190000 +0000" channel="DW English HD.starhub">
-        <title>Chronic pain: New therapies to help long-term sufferers</title>
-    </programme>
     <programme start="20251219190000 +0000" stop="20251219190200 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
@@ -3143,7 +3140,7 @@
         <title>How to escape the crowds and find the authentic Lisbon</title>
     </programme>
     <programme start="20251219233000 +0000" stop="20251220000000 +0000" channel="DW English HD.starhub">
-        <title>Africa</title>
+        <title>Germany&#039;s high-stakes EU gamble over Russia</title>
     </programme>
     <programme start="20251220000000 +0000" stop="20251220000200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3167,7 +3164,7 @@
         <title>News</title>
     </programme>
     <programme start="20251220020200 +0000" stop="20251220021500 +0000" channel="DW English HD.starhub">
-        <title>Living in the Digital Age</title>
+        <title>The Dark Side of Progress: Meta, AI, and Space Solutions</title>
     </programme>
     <programme start="20251220021500 +0000" stop="20251220030000 +0000" channel="DW English HD.starhub">
         <title>The Mystery of the Shroud of Turin - Part 1</title>
@@ -3185,16 +3182,16 @@
         <title>News</title>
     </programme>
     <programme start="20251220041500 +0000" stop="20251220043000 +0000" channel="DW English HD.starhub">
-        <title>Living in the Digital Age</title>
+        <title>The Dark Side of Progress: Meta, AI, and Space Solutions</title>
     </programme>
     <programme start="20251220043000 +0000" stop="20251220050000 +0000" channel="DW English HD.starhub">
-        <title>Lifestyle Europe</title>
+        <title>Bigger, Older, Lovelier - Christmas in Europe</title>
     </programme>
     <programme start="20251220050000 +0000" stop="20251220050200 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20251220050200 +0000" stop="20251220053000 +0000" channel="DW English HD.starhub">
-        <title>Experiencing and understanding the art world</title>
+        <title>Who remembers Bonn? Why a sleepy town became Germany&#039;s provisional capital</title>
     </programme>
     <programme start="20251220053000 +0000" stop="20251220060000 +0000" channel="DW English HD.starhub">
         <title>Christmas traditions across Africa</title>
@@ -3206,7 +3203,7 @@
         <title>How to escape the crowds and find the authentic Lisbon</title>
     </programme>
     <programme start="20251220063000 +0000" stop="20251220070000 +0000" channel="DW English HD.starhub">
-        <title>How high is too high to drive? We tested it!</title>
+        <title>Germany&#039;s high-stakes EU gamble over Russia</title>
     </programme>
     <programme start="20251220070000 +0000" stop="20251220071500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3236,7 +3233,7 @@
         <title>News</title>
     </programme>
     <programme start="20251220101500 +0000" stop="20251220103000 +0000" channel="DW English HD.starhub">
-        <title>Living in the Digital Age</title>
+        <title>The Dark Side of Progress: Meta, AI, and Space Solutions</title>
     </programme>
     <programme start="20251220103000 +0000" stop="20251220120000 +0000" channel="DW English HD.starhub">
         <title>Images of War - The Life and Death of Photographer Anja Niedringhaus</title>
@@ -3245,10 +3242,10 @@
         <title>News</title>
     </programme>
     <programme start="20251220121500 +0000" stop="20251220123000 +0000" channel="DW English HD.starhub">
-        <title>Living in the Digital Age</title>
+        <title>The Dark Side of Progress: Meta, AI, and Space Solutions</title>
     </programme>
     <programme start="20251220123000 +0000" stop="20251220130000 +0000" channel="DW English HD.starhub">
-        <title>Lifestyle Europe</title>
+        <title>Germany&#039;s high-stakes EU gamble over Russia</title>
     </programme>
     <programme start="20251220130000 +0000" stop="20251220131500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3260,7 +3257,7 @@
         <title>News</title>
     </programme>
     <programme start="20251220141500 +0000" stop="20251220143000 +0000" channel="DW English HD.starhub">
-        <title>Indonesia 1998: Protest, violence, hope</title>
+        <title>God has left the building - new life for deconsecrated churches</title>
     </programme>
     <programme start="20251220143000 +0000" stop="20251220150000 +0000" channel="DW English HD.starhub">
         <title>Christmas traditions across Africa</title>
@@ -3272,7 +3269,7 @@
         <title>Everything Jane Austen knows about love</title>
     </programme>
     <programme start="20251220153000 +0000" stop="20251220160000 +0000" channel="DW English HD.starhub">
-        <title>Lifestyle Europe</title>
+        <title>Bigger, Older, Lovelier - Christmas in Europe</title>
     </programme>
     <programme start="20251219160000 +0000" stop="20251219220000 +0000" channel="Preview Channel.starhub">
         <title>Preview Channel</title>
@@ -7756,13 +7753,13 @@
     <programme start="20251220043000 +0000" stop="20251220073000 +0000" channel="Asianet Movies.starhub">
         <title>Naran</title>
     </programme>
-    <programme start="20251220073000 +0000" stop="20251220103000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251220073000 +0000" stop="20251220104000 +0000" channel="Asianet Movies.starhub">
         <title>Thrissur Pooram</title>
     </programme>
-    <programme start="20251220103000 +0000" stop="20251220133000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251220104000 +0000" stop="20251220133000 +0000" channel="Asianet Movies.starhub">
         <title>Malikappuram</title>
     </programme>
-    <programme start="20251220133000 +0000" stop="20251220170000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251220133000 +0000" stop="20251220165000 +0000" channel="Asianet Movies.starhub">
         <title>Kuberaa</title>
     </programme>
     <programme start="20251219160000 +0000" stop="20251219163000 +0000" channel="Astro Warna HD.starhub">
