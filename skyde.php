@@ -1153,6 +1153,30 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251220221500 +0000" stop="20251220230000 +0000" channel="HISTORY Channel HD.skyde">
     <title>Secrets Declassified mit David Duchovny</title>
 </programme>
+<programme start="20251219230000 +0000" stop="20251220010000 +0000" channel="Jukebox.skyde">
+    <title>JUKEBOX DANCE</title>
+</programme>
+<programme start="20251220010000 +0000" stop="20251220020000 +0000" channel="Jukebox.skyde">
+    <title>BACK TO ... DANCE</title>
+</programme>
+<programme start="20251220020000 +0000" stop="20251220050000 +0000" channel="Jukebox.skyde">
+    <title>NIGHTSHIFT</title>
+</programme>
+<programme start="20251220050000 +0000" stop="20251220110000 +0000" channel="Jukebox.skyde">
+    <title>MORNING GLORY</title>
+</programme>
+<programme start="20251220110000 +0000" stop="20251220150000 +0000" channel="Jukebox.skyde">
+    <title>JUKEBOX TRENDS</title>
+</programme>
+<programme start="20251220150000 +0000" stop="20251220170000 +0000" channel="Jukebox.skyde">
+    <title>JUKEBOX NEWS</title>
+</programme>
+<programme start="20251220170000 +0000" stop="20251220190000 +0000" channel="Jukebox.skyde">
+    <title>JUKEBOX TOP 50 MIX</title>
+</programme>
+<programme start="20251220190000 +0000" stop="20251220230000 +0000" channel="Jukebox.skyde">
+    <title>PARTY BOX</title>
+</programme>
 <programme start="20251219230000 +0000" stop="20251220000000 +0000" channel="Motorvision+.skyde">
     <title>UK National Legends Cars Championship 2024</title>
 </programme>
@@ -3253,97 +3277,100 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251220221000 +0000" stop="20251220230000 +0000" channel="SYFY HD.skyde">
     <title>Akte X - Die unheimlichen Fälle des FBI</title>
 </programme>
-<programme start="20251219234000 +0000" stop="20251220002000 +0000" channel="Universal TV HD.skyde">
+<programme start="20251220230000 +0000" stop="20251220234500 +0000" channel="Universal TV HD.skyde">
     <title>Chicago Med</title>
 </programme>
-<programme start="20251220002000 +0000" stop="20251220010500 +0000" channel="Universal TV HD.skyde">
+<programme start="20251220234500 +0000" stop="20251221002500 +0000" channel="Universal TV HD.skyde">
     <title>Chicago Med</title>
 </programme>
-<programme start="20251220010500 +0000" stop="20251220014500 +0000" channel="Universal TV HD.skyde">
-    <title>Dr. House</title>
+<programme start="20251221002500 +0000" stop="20251221011000 +0000" channel="Universal TV HD.skyde">
+    <title>Chicago Med</title>
 </programme>
-<programme start="20251220014500 +0000" stop="20251220023000 +0000" channel="Universal TV HD.skyde">
-    <title>Dr. House</title>
+<programme start="20251221011000 +0000" stop="20251221015000 +0000" channel="Universal TV HD.skyde">
+    <title>Chicago Med</title>
 </programme>
-<programme start="20251220023000 +0000" stop="20251220031500 +0000" channel="Universal TV HD.skyde">
-    <title>Dr. House</title>
+<programme start="20251221015000 +0000" stop="20251221023000 +0000" channel="Universal TV HD.skyde">
+    <title>Chicago Med</title>
 </programme>
-<programme start="20251220031500 +0000" stop="20251220040000 +0000" channel="Universal TV HD.skyde">
-    <title>Dr. House</title>
+<programme start="20251221023000 +0000" stop="20251221031500 +0000" channel="Universal TV HD.skyde">
+    <title>Chicago Med</title>
 </programme>
-<programme start="20251220040000 +0000" stop="20251220044500 +0000" channel="Universal TV HD.skyde">
-    <title>Dr. House</title>
+<programme start="20251221031500 +0000" stop="20251221035500 +0000" channel="Universal TV HD.skyde">
+    <title>Chicago Med</title>
 </programme>
-<programme start="20251220044500 +0000" stop="20251220053000 +0000" channel="Universal TV HD.skyde">
-    <title>Chicago P.D.</title>
+<programme start="20251221035500 +0000" stop="20251221043500 +0000" channel="Universal TV HD.skyde">
+    <title>Chicago Med</title>
 </programme>
-<programme start="20251220053000 +0000" stop="20251220061500 +0000" channel="Universal TV HD.skyde">
-    <title>Chicago P.D.</title>
+<programme start="20251221043500 +0000" stop="20251221052500 +0000" channel="Universal TV HD.skyde">
+    <title>Chicago Med</title>
 </programme>
-<programme start="20251220061500 +0000" stop="20251220070000 +0000" channel="Universal TV HD.skyde">
-    <title>Chicago P.D.</title>
-</programme>
-<programme start="20251220070000 +0000" stop="20251220074500 +0000" channel="Universal TV HD.skyde">
-    <title>Chicago P.D.</title>
-</programme>
-<programme start="20251220074500 +0000" stop="20251220083000 +0000" channel="Universal TV HD.skyde">
-    <title>Chicago P.D.</title>
-</programme>
-<programme start="20251220083000 +0000" stop="20251220091500 +0000" channel="Universal TV HD.skyde">
-    <title>Chicago P.D.</title>
-</programme>
-<programme start="20251220091500 +0000" stop="20251220100000 +0000" channel="Universal TV HD.skyde">
-    <title>Chicago P.D.</title>
-</programme>
-<programme start="20251220100000 +0000" stop="20251220104500 +0000" channel="Universal TV HD.skyde">
-    <title>Chicago P.D.</title>
-</programme>
-<programme start="20251220104500 +0000" stop="20251220113000 +0000" channel="Universal TV HD.skyde">
+<programme start="20251221052500 +0000" stop="20251221061000 +0000" channel="Universal TV HD.skyde">
     <title>Hawaii Five-0</title>
 </programme>
-<programme start="20251220113000 +0000" stop="20251220122000 +0000" channel="Universal TV HD.skyde">
+<programme start="20251221061000 +0000" stop="20251221065500 +0000" channel="Universal TV HD.skyde">
     <title>Hawaii Five-0</title>
 </programme>
-<programme start="20251220122000 +0000" stop="20251220130500 +0000" channel="Universal TV HD.skyde">
+<programme start="20251221065500 +0000" stop="20251221074000 +0000" channel="Universal TV HD.skyde">
     <title>Hawaii Five-0</title>
 </programme>
-<programme start="20251220130500 +0000" stop="20251220135000 +0000" channel="Universal TV HD.skyde">
+<programme start="20251221074000 +0000" stop="20251221082500 +0000" channel="Universal TV HD.skyde">
     <title>Hawaii Five-0</title>
 </programme>
-<programme start="20251220135000 +0000" stop="20251220144000 +0000" channel="Universal TV HD.skyde">
+<programme start="20251221082500 +0000" stop="20251221091500 +0000" channel="Universal TV HD.skyde">
     <title>Hawaii Five-0</title>
 </programme>
-<programme start="20251220144000 +0000" stop="20251220152500 +0000" channel="Universal TV HD.skyde">
+<programme start="20251221091500 +0000" stop="20251221100000 +0000" channel="Universal TV HD.skyde">
+    <title>Chicago P.D.</title>
+</programme>
+<programme start="20251221100000 +0000" stop="20251221104500 +0000" channel="Universal TV HD.skyde">
+    <title>Chicago P.D.</title>
+</programme>
+<programme start="20251221104500 +0000" stop="20251221113000 +0000" channel="Universal TV HD.skyde">
     <title>Hawaii Five-0</title>
 </programme>
-<programme start="20251220152500 +0000" stop="20251220161000 +0000" channel="Universal TV HD.skyde">
+<programme start="20251221113000 +0000" stop="20251221121500 +0000" channel="Universal TV HD.skyde">
+    <title>Hawaii Five-0</title>
+</programme>
+<programme start="20251221121500 +0000" stop="20251221130500 +0000" channel="Universal TV HD.skyde">
+    <title>Hawaii Five-0</title>
+</programme>
+<programme start="20251221130500 +0000" stop="20251221135000 +0000" channel="Universal TV HD.skyde">
+    <title>Hawaii Five-0</title>
+</programme>
+<programme start="20251221135000 +0000" stop="20251221143500 +0000" channel="Universal TV HD.skyde">
+    <title>Hawaii Five-0</title>
+</programme>
+<programme start="20251221143500 +0000" stop="20251221152500 +0000" channel="Universal TV HD.skyde">
+    <title>Hawaii Five-0</title>
+</programme>
+<programme start="20251221152500 +0000" stop="20251221161000 +0000" channel="Universal TV HD.skyde">
     <title>Bones - Die Knochenjägerin</title>
 </programme>
-<programme start="20251220161000 +0000" stop="20251220165500 +0000" channel="Universal TV HD.skyde">
+<programme start="20251221161000 +0000" stop="20251221165500 +0000" channel="Universal TV HD.skyde">
     <title>Bones - Die Knochenjägerin</title>
 </programme>
-<programme start="20251220165500 +0000" stop="20251220174000 +0000" channel="Universal TV HD.skyde">
+<programme start="20251221165500 +0000" stop="20251221174000 +0000" channel="Universal TV HD.skyde">
     <title>Bones - Die Knochenjägerin</title>
 </programme>
-<programme start="20251220174000 +0000" stop="20251220182500 +0000" channel="Universal TV HD.skyde">
+<programme start="20251221174000 +0000" stop="20251221182500 +0000" channel="Universal TV HD.skyde">
     <title>Bones - Die Knochenjägerin</title>
 </programme>
-<programme start="20251220182500 +0000" stop="20251220191500 +0000" channel="Universal TV HD.skyde">
+<programme start="20251221182500 +0000" stop="20251221191500 +0000" channel="Universal TV HD.skyde">
     <title>Bones - Die Knochenjägerin</title>
 </programme>
-<programme start="20251220191500 +0000" stop="20251220200000 +0000" channel="Universal TV HD.skyde">
+<programme start="20251221191500 +0000" stop="20251221200000 +0000" channel="Universal TV HD.skyde">
     <title>Bones - Die Knochenjägerin</title>
 </programme>
-<programme start="20251220200000 +0000" stop="20251220204500 +0000" channel="Universal TV HD.skyde">
+<programme start="20251221200000 +0000" stop="20251221204500 +0000" channel="Universal TV HD.skyde">
     <title>Bones - Die Knochenjägerin</title>
 </programme>
-<programme start="20251220204500 +0000" stop="20251220213000 +0000" channel="Universal TV HD.skyde">
+<programme start="20251221204500 +0000" stop="20251221213000 +0000" channel="Universal TV HD.skyde">
     <title>Bones - Die Knochenjägerin</title>
 </programme>
-<programme start="20251220213000 +0000" stop="20251220221500 +0000" channel="Universal TV HD.skyde">
+<programme start="20251221213000 +0000" stop="20251221221500 +0000" channel="Universal TV HD.skyde">
     <title>Bones - Die Knochenjägerin</title>
 </programme>
-<programme start="20251220221500 +0000" stop="20251220230000 +0000" channel="Universal TV HD.skyde">
+<programme start="20251221221500 +0000" stop="20251221230000 +0000" channel="Universal TV HD.skyde">
     <title>Bones - Die Knochenjägerin</title>
 </programme>
 <programme start="20251219232000 +0000" stop="20251219234500 +0000" channel="Warner TV Comedy HD.skyde">
