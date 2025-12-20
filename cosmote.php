@@ -70,10 +70,6 @@
     <title>Football: Fotbal Club FCSB - Feyenoord</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251220075000 +0700" stop="20251220095000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Atalanta - Cagliari</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251220095000 +0700" stop="20251220100500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Sports Highlights</title>
     <desc>Live: Tidak</desc>
@@ -234,10 +230,6 @@
     <title>Football: Gil Vicente - Rio Ave</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251220081500 +0700" stop="20251220090500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>NBA Specials: Basketball Stories</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251220090500 +0700" stop="20251220110000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Aquila Basket Trento - Reyer Venezia</title>
     <desc>Live: Tidak</desc>
@@ -298,8 +290,8 @@
     <title>Basketball: Cantu - Armani Milano</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251220075500 +0700" stop="20251220093500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>DTM</title>
+<programme start="20251221100000 +0700" stop="20251221110000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>NBA Specials: Basketball Stories</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251220093500 +0700" stop="20251220110000 +0700" channel="COSMOTE Sport 5 HD">
@@ -468,6 +460,10 @@
 </programme>
 <programme start="20251221095000 +0700" stop="20251221101000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Sports Classics: Worldies E1</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251221101000 +0700" stop="20251221110000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Beach Volley: Pro Tour Elite 16 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251220090000 +0700" stop="20251220110000 +0700" channel="COSMOTE Sport 7 HD">

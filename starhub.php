@@ -2054,7 +2054,7 @@
         <title>Movie - Andha June 16AM Naal</title>
     </programme>
     <programme start="20251219223000 +0000" stop="20251220010000 +0000" channel="KTV HD.starhub">
-        <title>Movie - Andru peitha Mazhaiyil</title>
+        <title>Movie - Andru Peitha Mazhaiyil</title>
     </programme>
     <programme start="20251220010000 +0000" stop="20251220013000 +0000" channel="KTV HD.starhub">
         <title>Fillers</title>
