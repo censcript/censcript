@@ -13,16 +13,16 @@
   <programme start="20251222015500 +0000" stop="20251222024000 +0000" channel="Jednotka.webtv.sk">
     <title lang="id">Vianočné dobrodružstvá v Škandinávii</title>
   </programme>
-  <programme start="20251222024000 +0000" stop="20251222033500 +0000" channel="Jednotka.webtv.sk">
+  <programme start="20251222024000 +0000" stop="20251222033000 +0000" channel="Jednotka.webtv.sk">
     <title lang="id">Správy</title>
   </programme>
-  <programme start="20251222033500 +0000" stop="20251222035500 +0000" channel="Jednotka.webtv.sk">
+  <programme start="20251222033000 +0000" stop="20251222035000 +0000" channel="Jednotka.webtv.sk">
     <title lang="id">Góly - body - sekundy</title>
   </programme>
-  <programme start="20251222035500 +0000" stop="20251222040500 +0000" channel="Jednotka.webtv.sk">
+  <programme start="20251222035000 +0000" stop="20251222040000 +0000" channel="Jednotka.webtv.sk">
     <title lang="id">Počasie</title>
   </programme>
-  <programme start="20251222040500 +0000" stop="20251222043000 +0000" channel="Jednotka.webtv.sk">
+  <programme start="20251222040000 +0000" stop="20251222043000 +0000" channel="Jednotka.webtv.sk">
     <title lang="id">Slovensko v obrazoch</title>
   </programme>
   <programme start="20251222043000 +0000" stop="20251222044000 +0000" channel="Jednotka.webtv.sk">
