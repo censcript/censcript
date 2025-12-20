@@ -1,11 +1,3 @@
-<programme start="20251220150000 +0700" stop="20251220153000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>UEFA Champions League Magazine 2024-25 E15</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251220153000 +0700" stop="20251220160000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Game R1 S6 E17</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251220160000 +0700" stop="20251220181000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Real Madrid CF - Manchester City FC</title>
     <desc>Live: Tidak</desc>
@@ -150,8 +142,16 @@
     <title>Football: Juventus Football Club - AS Roma</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251220150000 +0700" stop="20251220160000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Emirates FA Cup 2025-26 - Highlights</title>
+<programme start="20251221160000 +0700" stop="20251221162500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Sports Classics: Worldies E2</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251221162500 +0700" stop="20251221164500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Sports Classics: Worldies E14</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251221164500 +0700" stop="20251221184500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Volos - Panetolikos</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251220160000 +0700" stop="20251220165000 +0700" channel="COSMOTE Sport 3 HD">
@@ -230,6 +230,10 @@
     <title>Football: Al Nassr - Al Khaleej</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251221163000 +0700" stop="20251221183000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Southampton - Coventry City</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251220150000 +0700" stop="20251220170000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Manresa - Barcelona</title>
     <desc>Live: Tidak</desc>
@@ -292,10 +296,6 @@
 </programme>
 <programme start="20251221150000 +0700" stop="20251221170000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Cantu - Armani Milano</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251220150000 +0700" stop="20251220153000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Extreme E - Highlights 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251220153000 +0700" stop="20251220161500 +0700" channel="COSMOTE Sport 5 HD">
@@ -398,8 +398,8 @@
     <title>WRC</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251220143000 +0700" stop="20251220153000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Beach Volley: Pro Tour Elite 16 2025</title>
+<programme start="20251221165000 +0700" stop="20251221174000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>2025 GT World Challenge Europe</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251220153000 +0700" stop="20251220162000 +0700" channel="COSMOTE Sport 6 HD">
