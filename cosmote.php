@@ -70,10 +70,6 @@
     <title>Football: AC Sparta Praha - Aberdeen</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251220100500 +0700" stop="20251220120000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: ACF Fiorentina - Hellas Verona</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251220120000 +0700" stop="20251220141000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Kifisia - Asteras Aktor</title>
     <desc>Live: Tidak</desc>
@@ -148,6 +144,10 @@
 </programme>
 <programme start="20251221095500 +0700" stop="20251221120000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Volos - Panetolikos</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251221120000 +0700" stop="20251221140000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: SS Lazio - Cremonese</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251220110000 +0700" stop="20251220144500 +0700" channel="COSMOTE Sport 3 HD">
@@ -230,6 +230,10 @@
     <title>Copa Libertadores 2025 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251221120000 +0700" stop="20251221143000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Palmeiras - Flamengo</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251220110000 +0700" stop="20251220130000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Armani Milano - Virtus Bologna</title>
     <desc>Live: Tidak</desc>
@@ -294,12 +298,8 @@
     <title>Pick n&#039; Roll</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251220110000 +0700" stop="20251220112000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Sports Classics: Worldies E22</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251220112000 +0700" stop="20251220113500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Sports Classics: Worldies E25</title>
+<programme start="20251221124500 +0700" stop="20251221130000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Sports Classics: Worldies E9</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251220113500 +0700" stop="20251220123500 +0700" channel="COSMOTE Sport 5 HD">
@@ -396,6 +396,10 @@
 </programme>
 <programme start="20251221113000 +0700" stop="20251221123000 +0700" channel="COSMOTE Sport 5 HD">
     <title>2025 FIM Women&#039;s Circuit Racing World Championship</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251221123000 +0700" stop="20251221133000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251220110000 +0700" stop="20251220124500 +0700" channel="COSMOTE Sport 6 HD">

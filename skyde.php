@@ -2548,7 +2548,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251220172000 +0000" stop="20251220195000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live PL: Tottenham Hotspur - FC Liverpool, 17. Spieltag</title>
 </programme>
-<programme start="20251220195000 +0000" stop="20251220220000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20251220195000 +0000" stop="20251220223000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live PL: FC Everton - FC Arsenal, 17. Spieltag</title>
 </programme>
 <programme start="20251220171000 +0000" stop="20251220173000 +0000" channel="Sky Sport Austria 3 HD.skyde">
@@ -2557,7 +2557,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251220173000 +0000" stop="20251220203000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live NHL: Detroit Red Wings @ Washington Capitals</title>
 </programme>
-<programme start="20251220203000 +0000" stop="20251221010000 +0000" channel="Sky Sport Austria 3 HD.skyde">
+<programme start="20251220203000 +0000" stop="20251220230000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live NHL: Edmonton Oilers @ Minnesota Wild</title>
 </programme>
 <programme start="20251219233000 +0000" stop="20251220013000 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -2671,7 +2671,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251220141500 +0000" stop="20251220164500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: Hamburger SV - Eintracht Frankfurt, 15. Spieltag</title>
 </programme>
-<programme start="20251220164500 +0000" stop="20251220201500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
+<programme start="20251220164500 +0000" stop="20251220210000 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: RB Leipzig - Bayer Leverkusen, tipico Topspiel der Woche, 15. Spieltag</title>
 </programme>
 <programme start="20251220111000 +0000" stop="20251220113000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
@@ -2695,7 +2695,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251220190000 +0000" stop="20251220220000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Live 2. BL: Holstein Kiel - Dynamo Dresden, tipico Topspiel der Woche, 17. Spieltag</title>
 </programme>
-<programme start="20251220220000 +0000" stop="20251220230000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+<programme start="20251220220000 +0000" stop="20251220233000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 17. Spieltag, Samstag komplett</title>
 </programme>
 <programme start="20251220111000 +0000" stop="20251220113000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
@@ -2710,7 +2710,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251220141500 +0000" stop="20251220164500 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live BL: 1. FC Köln - 1. FC Union Berlin, 15. Spieltag</title>
 </programme>
-<programme start="20251220164500 +0000" stop="20251220201500 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
+<programme start="20251220164500 +0000" stop="20251220210000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live BL: Tactical Feed: RBL - B04, 15. Spieltag</title>
 </programme>
 <programme start="20251220111000 +0000" stop="20251220113000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
@@ -2722,7 +2722,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251220140000 +0000" stop="20251220141500 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live BL: FCA - SVW: tipico Countdown, 15. Spieltag</title>
 </programme>
-<programme start="20251220141500 +0000" stop="20251220164500 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
+<programme start="20251220141500 +0000" stop="20251220171500 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live BL: FC Augsburg - Werder Bremen, 15. Spieltag</title>
 </programme>
 <programme start="20251220111000 +0000" stop="20251220113000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
@@ -2734,7 +2734,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251220140000 +0000" stop="20251220141500 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Live BL: WOB - SCF: tipico Countdown, 15. Spieltag</title>
 </programme>
-<programme start="20251220141500 +0000" stop="20251220164500 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
+<programme start="20251220141500 +0000" stop="20251220171500 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Live BL: VfL Wolfsburg - SC Freiburg, 15. Spieltag</title>
 </programme>
 <programme start="20251220111000 +0000" stop="20251220113000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
@@ -2743,7 +2743,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251220113000 +0000" stop="20251220140000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
     <title>Live 2. BL: Multiview, 17. Spieltag, Samstag</title>
 </programme>
-<programme start="20251220140000 +0000" stop="20251220163000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
+<programme start="20251220140000 +0000" stop="20251220170000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
     <title>Live BL: Multiview, 15. Spieltag</title>
 </programme>
 <programme start="20251220111000 +0000" stop="20251220113000 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
@@ -2752,7 +2752,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251220113000 +0000" stop="20251220140000 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
     <title>Live 2. BL: Samstags-Konferenz, 17. Spieltag</title>
 </programme>
-<programme start="20251220140000 +0000" stop="20251220144500 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
+<programme start="20251220140000 +0000" stop="20251220151500 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
     <title>Live 2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 17. Spieltag, Samstag</title>
 </programme>
 <programme start="20251219230000 +0000" stop="20251220000000 +0000" channel="Sky Sport F1 HD.skyde">
@@ -2930,7 +2930,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Live Sky Sport News: FCB-PK</title>
 </programme>
 <programme start="20251220093000 +0000" stop="20251220100000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Sky Sport News: Guten Morgen Fans!</title>
+    <title>Sky Sport News: FCB-PK</title>
 </programme>
 <programme start="20251220100000 +0000" stop="20251220113000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Guten Morgen Fans!</title>
@@ -3070,47 +3070,50 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251220220000 +0000" stop="20251221000000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: AFC Bournemouth - FC Burnley, 17. Spieltag</title>
 </programme>
-<programme start="20251220000000 +0000" stop="20251220020000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Next Gen ATP Finals: Spiel 2, 3. Tag in Jeddah (SAU)</title>
+<programme start="20251219233000 +0000" stop="20251220013000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>Next Gen ATP Finals: A. Blockx (BEL) - D. Prizmic (CRO), 3. Tag in Jeddah (SAU)</title>
 </programme>
-<programme start="20251220020000 +0000" stop="20251220030000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20251220013000 +0000" stop="20251220024500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP &amp; WTA: Zeit für ein Break - das Tennisjahr 2025</title>
 </programme>
-<programme start="20251220030000 +0000" stop="20251220053000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20251220024500 +0000" stop="20251220051500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP Finals: J. Sinner (ITA) - C. Alcaraz (ESP), Finale 2025 in Turin (ITA)</title>
 </programme>
-<programme start="20251220053000 +0000" stop="20251220063000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20251220051500 +0000" stop="20251220061500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP Finals: Review Turin 2025</title>
 </programme>
-<programme start="20251220063000 +0000" stop="20251220083000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Next Gen ATP Finals: Spiel 1, 3. Tag in Jeddah (SAU)</title>
+<programme start="20251220061500 +0000" stop="20251220074500 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>Next Gen ATP Finals: J. Engel (GER) - N. Basavareddy (USA) , 3. Tag in Jeddah (SAU)</title>
 </programme>
-<programme start="20251220083000 +0000" stop="20251220103000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Next Gen ATP Finals: Spiel 2, 3. Tag in Jeddah (SAU)</title>
+<programme start="20251220074500 +0000" stop="20251220094500 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>Next Gen ATP Finals: A. Blockx (BEL) - D. Prizmic (CRO), 3. Tag in Jeddah (SAU)</title>
 </programme>
-<programme start="20251220103000 +0000" stop="20251220110000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20251220094500 +0000" stop="20251220101500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA Finals: Review Riyadh 2025</title>
 </programme>
-<programme start="20251220110000 +0000" stop="20251220120000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20251220101500 +0000" stop="20251220111500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP &amp; WTA: Zeit für ein Break - das Tennisjahr 2025</title>
 </programme>
-<programme start="20251220120000 +0000" stop="20251220140000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Next Gen ATP Finals: Spiel 3, 3. Tag in Jeddah (SAU)</title>
+<programme start="20251220111500 +0000" stop="20251220130000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>Next Gen ATP Finals: M. Landaluce (ESP) - R. Jodar (ESP), 3. Tag in Jeddah (SAU)</title>
 </programme>
-<programme start="20251220140000 +0000" stop="20251220160000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Next Gen ATP Finals: Spiel 4, 3. Tag in Jeddah (SAU)</title>
+<programme start="20251220130000 +0000" stop="20251220143000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>Next Gen ATP Finals: L. Tien (USA) - N. Kjaer (NOR), 3. Tag in Jeddah (SAU)</title>
+</programme>
+<programme start="20251220143000 +0000" stop="20251220160000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>Next Gen ATP Finals: J. Engel (GER) - N. Basavareddy (USA) , 3. Tag in Jeddah (SAU)</title>
 </programme>
 <programme start="20251220160000 +0000" stop="20251220180000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live Next Gen ATP Finals: Halbfinale 1 in Jeddah (SAU)</title>
+    <title>Live Next Gen ATP Finals: A. Blockx (BEL) - N. Budkov Kjaer (NOR), Halbfinale 1 in Jeddah (SAU)</title>
 </programme>
 <programme start="20251220180000 +0000" stop="20251220200000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live Next Gen ATP Finals: Halbfinale 2 in Jeddah (SAU)</title>
+    <title>Live Next Gen ATP Finals: L. Tien (USA) - N. Basavareddy (USA), Halbfinale 2 in Jeddah (SAU)</title>
 </programme>
 <programme start="20251220200000 +0000" stop="20251220223000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP Finals: J. Sinner (ITA) - C. Alcaraz (ESP), Finale 2025 in Turin (ITA)</title>
 </programme>
 <programme start="20251220223000 +0000" stop="20251221003000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Next Gen ATP Finals: Halbfinale 1 in Jeddah (SAU)</title>
+    <title>Next Gen ATP Finals: A. Blockx (BEL) - N. Budkov Kjaer (NOR), Halbfinale 1 in Jeddah (SAU)</title>
 </programme>
 <programme start="20251219231500 +0000" stop="20251220000000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 17. Spieltag, Freitag</title>
@@ -3118,8 +3121,11 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251220000000 +0000" stop="20251220030000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NHL: Carolina Hurricanes @ Florida Panthers</title>
 </programme>
-<programme start="20251220030000 +0000" stop="20251220050000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Next Gen ATP Finals: Spiel 4, 3. Tag in Jeddah (SAU)</title>
+<programme start="20251220030000 +0000" stop="20251220043000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Next Gen ATP Finals: L. Tien (USA) - N. Kjaer (NOR), 3. Tag in Jeddah (SAU)</title>
+</programme>
+<programme start="20251220043000 +0000" stop="20251220050000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Tennis: Rafael Nadal - The No. 1 Story</title>
 </programme>
 <programme start="20251220050000 +0000" stop="20251220070000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>BL: Borussia Dortmund - Borussia M&#039;gladbach, Flutlicht-Freitag, 15. Spieltag</title>
@@ -3160,13 +3166,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251220212500 +0000" stop="20251220214500 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: Basketball NBA</title>
 </programme>
-<programme start="20251220214500 +0000" stop="20251221003000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20251220214500 +0000" stop="20251221020000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Houston Rockets @ Denver Nuggets</title>
 </programme>
 <programme start="20251220193000 +0000" stop="20251220195000 +0000" channel="Sky Sport 4 HD.skyde">
     <title>Es folgt: Live Premier League</title>
 </programme>
-<programme start="20251220195000 +0000" stop="20251220220000 +0000" channel="Sky Sport 4 HD.skyde">
+<programme start="20251220195000 +0000" stop="20251220223000 +0000" channel="Sky Sport 4 HD.skyde">
     <title>Live PL: Leeds United - Crystal Palace, 17. Spieltag</title>
 </programme>
 <programme start="20251220194000 +0000" stop="20251220200000 +0000" channel="Sky Sport 5 HD.skyde">
