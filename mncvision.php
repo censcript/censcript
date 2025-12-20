@@ -8773,7 +8773,84 @@
 <programme start="20251221160500 +0000" stop="20251221163500 +0000" channel="Thrill.mncvision">
     <title>Lost Memories</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20251220181500 +0000" stop="20251220193000 +0000" channel="Trans 7.mncvision">
+    <title>Best Fishing</title>
+</programme>
+<programme start="20251220193000 +0000" stop="20251220203000 +0000" channel="Trans 7.mncvision">
+    <title>The Power Of Emak Emak</title>
+</programme>
+<programme start="20251220203000 +0000" stop="20251220211500 +0000" channel="Trans 7.mncvision">
+    <title>LOL ComediHa!</title>
+</programme>
+<programme start="20251220211500 +0000" stop="20251220221500 +0000" channel="Trans 7.mncvision">
+    <title>FYP (For Your Pagi)</title>
+</programme>
+<programme start="20251220221500 +0000" stop="20251220230000 +0000" channel="Trans 7.mncvision">
+    <title>Jalur Langit</title>
+</programme>
+<programme start="20251220230000 +0000" stop="20251221000000 +0000" channel="Trans 7.mncvision">
+    <title>Redaksi Akhir Pekan Spesial</title>
+</programme>
+<programme start="20251221000000 +0000" stop="20251221010000 +0000" channel="Trans 7.mncvision">
+    <title>Spotlite</title>
+</programme>
+<programme start="20251221010000 +0000" stop="20251221013000 +0000" channel="Trans 7.mncvision">
+    <title>Selebrita Pagi On The Weekend</title>
+</programme>
+<programme start="20251221013000 +0000" stop="20251221023000 +0000" channel="Trans 7.mncvision">
+    <title>Obrolan Tiap Waktu</title>
+</programme>
+<programme start="20251221023000 +0000" stop="20251221033000 +0000" channel="Trans 7.mncvision">
+    <title>Heits Abis</title>
+</programme>
+<programme start="20251221033000 +0000" stop="20251221041500 +0000" channel="Trans 7.mncvision">
+    <title>Bikin Seneng</title>
+</programme>
+<programme start="20251221041500 +0000" stop="20251221050000 +0000" channel="Trans 7.mncvision">
+    <title>Enaknya Mantul</title>
+</programme>
+<programme start="20251221050000 +0000" stop="20251221054500 +0000" channel="Trans 7.mncvision">
+    <title>Cuan Bos</title>
+</programme>
+<programme start="20251221054500 +0000" stop="20251221063000 +0000" channel="Trans 7.mncvision">
+    <title>Jejak Petualang Explorer</title>
+</programme>
+<programme start="20251221063000 +0000" stop="20251221071500 +0000" channel="Trans 7.mncvision">
+    <title>Mancing Mania Strike Back</title>
+</programme>
+<programme start="20251221071500 +0000" stop="20251221081500 +0000" channel="Trans 7.mncvision">
+    <title>Redaksi Akhir Pekan</title>
+</programme>
+<programme start="20251221081500 +0000" stop="20251221090000 +0000" channel="Trans 7.mncvision">
+    <title>Jejak Si Gundul</title>
+</programme>
+<programme start="20251221090000 +0000" stop="20251221100000 +0000" channel="Trans 7.mncvision">
+    <title>Makan Receh</title>
+</programme>
+<programme start="20251221100000 +0000" stop="20251221110000 +0000" channel="Trans 7.mncvision">
+    <title>Selebrita On The Weekend</title>
+</programme>
+<programme start="20251221110000 +0000" stop="20251221114500 +0000" channel="Trans 7.mncvision">
+    <title>On The Spot</title>
+</programme>
+<programme start="20251221114500 +0000" stop="20251221121500 +0000" channel="Trans 7.mncvision">
+    <title>Secret Story</title>
+</programme>
+<programme start="20251221121500 +0000" stop="20251221130000 +0000" channel="Trans 7.mncvision">
+    <title>POV (Pasti Obrolan Viral)</title>
+</programme>
+<programme start="20251221130000 +0000" stop="20251221143000 +0000" channel="Trans 7.mncvision">
+    <title>Arisan</title>
+</programme>
+<programme start="20251221143000 +0000" stop="20251221154500 +0000" channel="Trans 7.mncvision">
+    <title>BTS</title>
+</programme>
+<programme start="20251221154500 +0000" stop="20251221163000 +0000" channel="Trans 7.mncvision">
+    <title>The Police</title>
+</programme>
+<programme start="20251221163000 +0000" stop="20251220170000 +0000" channel="Trans 7.mncvision">
+    <title>Deranged</title>
+</programme>
 <programme start="20251220180000 +0000" stop="20251220220000 +0000" channel="Trans TV.mncvision">
     <title>CNN Tech News</title>
 </programme>

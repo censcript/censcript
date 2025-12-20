@@ -3922,53 +3922,50 @@
   <programme start="20251222044500 +0000" stop="20251222050000 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Vysielacia prestávka</title>
   </programme>
-  <programme start="20251222050000 +0000" stop="20251222082000 +0000" channel="Prima Krimi SK.webtv.sk">
+  <programme start="20251222050000 +0000" stop="20251222090500 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Noční dobrodružství</title>
   </programme>
-  <programme start="20251222082000 +0000" stop="20251222095500 +0000" channel="Prima Krimi SK.webtv.sk">
+  <programme start="20251222090500 +0000" stop="20251222104000 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Vraždy v Midsomeru VII (4)</title>
   </programme>
-  <programme start="20251222095500 +0000" stop="20251222104000 +0000" channel="Prima Krimi SK.webtv.sk">
+  <programme start="20251222104000 +0000" stop="20251222112500 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Prvních 48 hodin XVII (10)</title>
   </programme>
-  <programme start="20251222104000 +0000" stop="20251222121500 +0000" channel="Prima Krimi SK.webtv.sk">
+  <programme start="20251222112500 +0000" stop="20251222130000 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Big Ben III (9)</title>
   </programme>
-  <programme start="20251222121500 +0000" stop="20251222140000 +0000" channel="Prima Krimi SK.webtv.sk">
+  <programme start="20251222130000 +0000" stop="20251222144000 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Julie Lescautová III (5)</title>
   </programme>
-  <programme start="20251222140000 +0000" stop="20251222153500 +0000" channel="Prima Krimi SK.webtv.sk">
+  <programme start="20251222144000 +0000" stop="20251222161500 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Vraždy v Midsomeru VII (3)</title>
   </programme>
-  <programme start="20251222153500 +0000" stop="20251222162000 +0000" channel="Prima Krimi SK.webtv.sk">
+  <programme start="20251222161500 +0000" stop="20251222170000 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Prvních 48 hodin XVII (12)</title>
   </programme>
-  <programme start="20251222162000 +0000" stop="20251222170000 +0000" channel="Prima Krimi SK.webtv.sk">
+  <programme start="20251222170000 +0000" stop="20251222174000 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Prvních 48 hodin XVII (13)</title>
   </programme>
-  <programme start="20251222170000 +0000" stop="20251222174500 +0000" channel="Prima Krimi SK.webtv.sk">
+  <programme start="20251222174000 +0000" stop="20251222182500 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Prvních 48 hodin XVIII (1)</title>
   </programme>
-  <programme start="20251222174500 +0000" stop="20251222183000 +0000" channel="Prima Krimi SK.webtv.sk">
+  <programme start="20251222182500 +0000" stop="20251222190500 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Vraždy v Kitzbühelu II (4)</title>
   </programme>
-  <programme start="20251222183000 +0000" stop="20251222191500 +0000" channel="Prima Krimi SK.webtv.sk">
+  <programme start="20251222190500 +0000" stop="20251222195000 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Vraždy v Kitzbühelu II (5)</title>
   </programme>
-  <programme start="20251222191500 +0000" stop="20251222204500 +0000" channel="Prima Krimi SK.webtv.sk">
+  <programme start="20251222195000 +0000" stop="20251222212500 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Vraždy v Oxfordu IX (3)</title>
   </programme>
-  <programme start="20251222204500 +0000" stop="20251222213000 +0000" channel="Prima Krimi SK.webtv.sk">
+  <programme start="20251222212500 +0000" stop="20251222220500 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Prvních 48 hodin XVII (12)</title>
   </programme>
-  <programme start="20251222213000 +0000" stop="20251222221000 +0000" channel="Prima Krimi SK.webtv.sk">
+  <programme start="20251222220500 +0000" stop="20251222225000 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Prvních 48 hodin XVII (13)</title>
   </programme>
-  <programme start="20251222221000 +0000" stop="20251222225500 +0000" channel="Prima Krimi SK.webtv.sk">
+  <programme start="20251222225000 +0000" stop="20251222233000 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Prvních 48 hodin XVIII (1)</title>
-  </programme>
-  <programme start="20251222225500 +0000" stop="20251222234000 +0000" channel="Prima Krimi SK.webtv.sk">
-    <title lang="id">Vraždy v Kitzbühelu II (4)</title>
   </programme>
   <programme start="20251221210500 +0000" stop="20251221233000 +0000" channel="Seznam.cz TV.webtv.sk">
     <title lang="id">Šaráda</title>

@@ -66,8 +66,8 @@
     <title>Sportshow (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251221045000 +0700" stop="20251221052000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Sports Classics: Sporting Countdowns</title>
+<programme start="20251222063000 +0700" stop="20251222090000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Sportshow</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251221052000 +0700" stop="20251221072000 +0700" channel="COSMOTE Sport 2 HD">
@@ -206,6 +206,10 @@
     <title>Football: AEK - OFI</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251222064000 +0700" stop="20251222084000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Pafos FC - APOEL</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251221050000 +0700" stop="20251221080000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Denver Nuggets - Houston Rockets (L)</title>
     <desc>Live: Ya</desc>
@@ -266,8 +270,8 @@
     <title>Basketball: Atlanta Hawks - Chicago Bulls (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251221050000 +0700" stop="20251221060000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Highlights: 2025 Extreme H</title>
+<programme start="20251222063000 +0700" stop="20251222070000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>NBA Specials</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251221060000 +0700" stop="20251221080500 +0700" channel="COSMOTE Sport 5 HD">
@@ -436,6 +440,10 @@
 </programme>
 <programme start="20251222040000 +0700" stop="20251222063000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: 2025 Next Gen ATP Finals</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251222063000 +0700" stop="20251222073000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>ATP Masters 1000 2025 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251221050000 +0700" stop="20251221070000 +0700" channel="COSMOTE Sport 7 HD">
