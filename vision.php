@@ -322,6 +322,9 @@
 <programme start="20251220010000 +0000" stop="20251220023000 +0000" channel="ANTV.vision">
 <title>Zeynep</title>
 </programme>
+<programme start="20251220023000 +0000" stop="20251220060000 +0000" channel="ANTV.vision">
+<title>Main Hoon Na</title>
+</programme>
 <programme start="20251220060000 +0000" stop="20251220080000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -331,8 +334,20 @@
 <programme start="20251220100000 +0000" stop="20251220110000 +0000" channel="ANTV.vision">
 <title>ANTV Seru</title>
 </programme>
+<programme start="20251220110000 +0000" stop="20251220123000 +0000" channel="ANTV.vision">
+<title>Petualangan Cinta Nyi Blorong</title>
+</programme>
 <programme start="20251220123000 +0000" stop="20251220140000 +0000" channel="ANTV.vision">
 <title>Senandung Cinta Lilis</title>
+</programme>
+<programme start="20251220140000 +0000" stop="20251220160000 +0000" channel="ANTV.vision">
+<title>Malaikat Bayangan</title>
+</programme>
+<programme start="20251220160000 +0000" stop="20251220180000 +0000" channel="ANTV.vision">
+<title>308</title>
+</programme>
+<programme start="20251220180000 +0000" stop="20251220200000 +0000" channel="ANTV.vision">
+<title>A Good Man</title>
 </programme>
 <programme start="20251220200000 +0000" stop="20251220223000 +0000" channel="ANTV.vision">
 <title>Double Dhamaal</title>
@@ -1482,19 +1497,4 @@
 </programme>
 <programme start="20251221020000 +0000" stop="20251221030000 +0000" channel="JAK TV.vision">
 <title>Lejel</title>
-</programme>
-<programme start="20251221030000 +0000" stop="20251221033000 +0000" channel="JAK TV.vision">
-<title>Rev</title>
-</programme>
-<programme start="20251221033000 +0000" stop="20251221040000 +0000" channel="JAK TV.vision">
-<title>Otomotif Tips</title>
-</programme>
-<programme start="20251221040000 +0000" stop="20251221050000 +0000" channel="JAK TV.vision">
-<title>IBL Best Shoot</title>
-</programme>
-<programme start="20251221050000 +0000" stop="20251221060000 +0000" channel="JAK TV.vision">
-<title>Joran Borneo</title>
-</programme>
-<programme start="20251221060000 +0000" stop="20251221063000 +0000" channel="JAK TV.vision">
-<title>Inovator</title>
 </programme>
