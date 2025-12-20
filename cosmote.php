@@ -70,8 +70,8 @@
     <title>Football: Cagliari - Pisa (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251220190000 +0700" stop="20251220193000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Serie A Inside Serie A 2025-26 E16</title>
+<programme start="20251221203000 +0700" stop="20251221210000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEFA Champions League Magazine 2024-25 E15</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251220193000 +0700" stop="20251220213000 +0700" channel="COSMOTE Sport 2 HD">
@@ -154,10 +154,6 @@
     <title>Football: Olympiacos - Kifisia</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251220184500 +0700" stop="20251220195500 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Mexico - Greece</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251220195500 +0700" stop="20251220205000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Mexico - Bulgaria</title>
     <desc>Live: Tidak</desc>
@@ -226,9 +222,9 @@
     <title>Football: Ipswich Town - Sheffield Wednesday</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251220170000 +0700" stop="20251220190500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Bahcesehir - Besiktas</title>
-    <desc>Live: Tidak</desc>
+<programme start="20251221203000 +0700" stop="20251221223000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Heart of Midlothian - Rangers FC (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20251220190500 +0700" stop="20251220212000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Promitheas - Rytas Vilnius</title>
@@ -294,12 +290,8 @@
     <title>NBA Action 2025-26 E3509</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251220182500 +0700" stop="20251220193000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251220193000 +0700" stop="20251220200000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC 2025</title>
+<programme start="20251221200000 +0700" stop="20251221220000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Trabzonspor - Fenerbahce</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251220200000 +0700" stop="20251220210000 +0700" channel="COSMOTE Sport 5 HD">
@@ -394,8 +386,8 @@
     <title>Basketball: Barcelona - Badalona (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251220190000 +0700" stop="20251220193000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Sports Classics: The Outdoor Sports Show 2025 E12</title>
+<programme start="20251221203000 +0700" stop="20251221210000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Extreme E - Highlights 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251220193000 +0700" stop="20251220212000 +0700" channel="COSMOTE Sport 6 HD">
@@ -464,6 +456,10 @@
 </programme>
 <programme start="20251221193000 +0700" stop="20251221203000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Navarino Challenge 2025 Mini Movie</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251221203000 +0700" stop="20251222000000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: 2025 Next Gen ATP Finals</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251220190000 +0700" stop="20251220210000 +0700" channel="COSMOTE Sport 7 HD">
