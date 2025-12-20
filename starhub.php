@@ -3100,6 +3100,9 @@
     <programme start="20251219180000 +0000" stop="20251219183000 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
+    <programme start="20251219183000 +0000" stop="20251219190000 +0000" channel="DW English HD.starhub">
+        <title>Germany&#039;s high-stakes EU gamble over Russia</title>
+    </programme>
     <programme start="20251219190000 +0000" stop="20251219190200 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
