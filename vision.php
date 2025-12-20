@@ -334,9 +334,6 @@
 <programme start="20251220100000 +0000" stop="20251220110000 +0000" channel="ANTV.vision">
 <title>ANTV Seru</title>
 </programme>
-<programme start="20251220110000 +0000" stop="20251220123000 +0000" channel="ANTV.vision">
-<title>Petualangan Cinta Nyi Blorong</title>
-</programme>
 <programme start="20251220123000 +0000" stop="20251220140000 +0000" channel="ANTV.vision">
 <title>Senandung Cinta Lilis</title>
 </programme>
@@ -1496,5 +1493,8 @@
 <title>Medika Natura</title>
 </programme>
 <programme start="20251221010000 +0000" stop="20251221020000 +0000" channel="JAK TV.vision">
+<title>Lejel</title>
+</programme>
+<programme start="20251221020000 +0000" stop="20251221030000 +0000" channel="JAK TV.vision">
 <title>Lejel</title>
 </programme>
