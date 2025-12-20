@@ -2734,7 +2734,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251220140000 +0000" stop="20251220141500 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Live BL: WOB - SCF: tipico Countdown, 15. Spieltag</title>
 </programme>
-<programme start="20251220141500 +0000" stop="20251220164500 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
+<programme start="20251220141500 +0000" stop="20251220171500 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Live BL: VfL Wolfsburg - SC Freiburg, 15. Spieltag</title>
 </programme>
 <programme start="20251220111000 +0000" stop="20251220113000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
@@ -2743,7 +2743,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251220113000 +0000" stop="20251220140000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
     <title>Live 2. BL: Multiview, 17. Spieltag, Samstag</title>
 </programme>
-<programme start="20251220140000 +0000" stop="20251220163000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
+<programme start="20251220140000 +0000" stop="20251220170000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
     <title>Live BL: Multiview, 15. Spieltag</title>
 </programme>
 <programme start="20251220111000 +0000" stop="20251220113000 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
@@ -3166,13 +3166,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251220212500 +0000" stop="20251220214500 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: Basketball NBA</title>
 </programme>
-<programme start="20251220214500 +0000" stop="20251221003000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20251220214500 +0000" stop="20251221020000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Houston Rockets @ Denver Nuggets</title>
 </programme>
 <programme start="20251220193000 +0000" stop="20251220195000 +0000" channel="Sky Sport 4 HD.skyde">
     <title>Es folgt: Live Premier League</title>
 </programme>
-<programme start="20251220195000 +0000" stop="20251220220000 +0000" channel="Sky Sport 4 HD.skyde">
+<programme start="20251220195000 +0000" stop="20251220223000 +0000" channel="Sky Sport 4 HD.skyde">
     <title>Live PL: Leeds United - Crystal Palace, 17. Spieltag</title>
 </programme>
 <programme start="20251220194000 +0000" stop="20251220200000 +0000" channel="Sky Sport 5 HD.skyde">
