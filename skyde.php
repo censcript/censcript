@@ -1153,30 +1153,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251220221500 +0000" stop="20251220230000 +0000" channel="HISTORY Channel HD.skyde">
     <title>Secrets Declassified mit David Duchovny</title>
 </programme>
-<programme start="20251219230000 +0000" stop="20251220010000 +0000" channel="Jukebox.skyde">
-    <title>JUKEBOX DANCE</title>
-</programme>
-<programme start="20251220010000 +0000" stop="20251220020000 +0000" channel="Jukebox.skyde">
-    <title>BACK TO ... DANCE</title>
-</programme>
-<programme start="20251220020000 +0000" stop="20251220050000 +0000" channel="Jukebox.skyde">
-    <title>NIGHTSHIFT</title>
-</programme>
-<programme start="20251220050000 +0000" stop="20251220110000 +0000" channel="Jukebox.skyde">
-    <title>MORNING GLORY</title>
-</programme>
-<programme start="20251220110000 +0000" stop="20251220150000 +0000" channel="Jukebox.skyde">
-    <title>JUKEBOX TRENDS</title>
-</programme>
-<programme start="20251220150000 +0000" stop="20251220170000 +0000" channel="Jukebox.skyde">
-    <title>JUKEBOX NEWS</title>
-</programme>
-<programme start="20251220170000 +0000" stop="20251220190000 +0000" channel="Jukebox.skyde">
-    <title>JUKEBOX TOP 50 MIX</title>
-</programme>
-<programme start="20251220190000 +0000" stop="20251220230000 +0000" channel="Jukebox.skyde">
-    <title>PARTY BOX</title>
-</programme>
 <programme start="20251219230000 +0000" stop="20251220000000 +0000" channel="Motorvision+.skyde">
     <title>UK National Legends Cars Championship 2024</title>
 </programme>

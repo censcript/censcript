@@ -1,11 +1,3 @@
-<programme start="20251220202500 +0700" stop="20251220212500 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Highlights: UEL &amp; UECL 2025-26</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251220212500 +0700" stop="20251220220000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>UEFA Champions League Magazine 2025-26 E15</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251220220000 +0700" stop="20251221000000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Ipswich Town - Sheffield Wednesday (L)</title>
     <desc>Live: Ya</desc>
@@ -74,13 +66,13 @@
     <title>UEL &amp; UECL Magazine 2025-26 E8</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251220193000 +0700" stop="20251220213000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Southampton - Coventry City (L)</title>
+<programme start="20251221220000 +0700" stop="20251221223000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>PreGame (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251220213000 +0700" stop="20251220220000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Sports Classics: Sporting Countdowns</title>
-    <desc>Live: Tidak</desc>
+<programme start="20251221223000 +0700" stop="20251222004000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: AEL Novibet - Atromitos (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20251220220000 +0700" stop="20251220223000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Sports Classics: Sporting Countdowns</title>
@@ -158,10 +150,6 @@
     <title>Football: Sassuolo - Torino (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251220205000 +0700" stop="20251220214500 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Mexico - Kazakhstan</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251220214500 +0700" stop="20251220224000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Poland - Netherlands</title>
     <desc>Live: Tidak</desc>
@@ -226,12 +214,8 @@
     <title>Football: Heart of Midlothian - Rangers FC (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251220190500 +0700" stop="20251220212000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Promitheas - Rytas Vilnius</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251220212000 +0700" stop="20251220220000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>NBA Action 2025-26 E3509</title>
+<programme start="20251221223000 +0700" stop="20251221230000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Copa Sudamericana 2025 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251220220000 +0700" stop="20251221000000 +0700" channel="COSMOTE Sport 4 HD">
@@ -294,8 +278,12 @@
     <title>Basketball: Trabzonspor - Fenerbahce</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251220210000 +0700" stop="20251220220000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC</title>
+<programme start="20251221220000 +0700" stop="20251221223000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>NBA Specials</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251221223000 +0700" stop="20251222010000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Denver Nuggets - Houston Rockets</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251220220000 +0700" stop="20251220225500 +0700" channel="COSMOTE Sport 5 HD">
@@ -390,8 +378,8 @@
     <title>WRC</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251220193000 +0700" stop="20251220212000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: Martín Landaluce - Rafael Jodar</title>
+<programme start="20251221220000 +0700" stop="20251221230000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251220212000 +0700" stop="20251220230000 +0700" channel="COSMOTE Sport 6 HD">

@@ -325,9 +325,6 @@
 <programme start="20251220010000 +0000" stop="20251220023000 +0000" channel="ANTV.vision">
 <title>Zeynep</title>
 </programme>
-<programme start="20251220023000 +0000" stop="20251220060000 +0000" channel="ANTV.vision">
-<title>Main Hoon Na</title>
-</programme>
 <programme start="20251220060000 +0000" stop="20251220080000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -519,9 +516,6 @@
 </programme>
 <programme start="20251220053000 +0000" stop="20251220070000 +0000" channel="TVOne.vision">
 <title>Damai Indonesiaku (L)</title>
-</programme>
-<programme start="20251220070000 +0000" stop="20251220073000 +0000" channel="TVOne.vision">
-<title>Selalu Ada Hikmah</title>
 </programme>
 <programme start="20251220073000 +0000" stop="20251220080000 +0000" channel="TVOne.vision">
 <title>Satria Biru</title>
@@ -1497,4 +1491,10 @@
 </programme>
 <programme start="20251220233000 +0000" stop="20251221000000 +0000" channel="JAK TV.vision">
 <title>My Health My Choice</title>
+</programme>
+<programme start="20251221000000 +0000" stop="20251221010000 +0000" channel="JAK TV.vision">
+<title>Medika Natura</title>
+</programme>
+<programme start="20251221010000 +0000" stop="20251221020000 +0000" channel="JAK TV.vision">
+<title>Lejel</title>
 </programme>
