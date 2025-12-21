@@ -2699,6 +2699,18 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251221120000 +0000" stop="20251221150000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live 2. BL: 1. FC Nürnberg - Hannover 96, 17. Spieltag</title>
 </programme>
+<programme start="20251221114000 +0000" stop="20251221120000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
+    <title>Es folgt: Live 2. Bundesliga</title>
+</programme>
+<programme start="20251221120000 +0000" stop="20251221150000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
+    <title>Live 2. BL: Preußen Münster - SV Elversberg, 17. Spieltag</title>
+</programme>
+<programme start="20251221114000 +0000" stop="20251221120000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
+    <title>Es folgt: Live 2. Bundesliga</title>
+</programme>
+<programme start="20251221120000 +0000" stop="20251221150000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
+    <title>Live 2. BL: Multiview, 17. Spieltag, Sonntag</title>
+</programme>
 <programme start="20251220230000 +0000" stop="20251221000000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1 Academy: 2. Rennen - GP Saudi-Arabien</title>
 </programme>

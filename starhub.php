@@ -7438,11 +7438,11 @@
     <programme start="20251221151500 +0000" stop="20251221161000 +0000" channel="ABC Australia HD.starhub">
         <title>Christmas In Australia With Christine Anu</title>
     </programme>
-    <programme start="20251220133000 +0000" stop="20251220165000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251220133000 +0000" stop="20251220164000 +0000" channel="Asianet Movies.starhub">
         <title>Kuberaa</title>
     </programme>
-    <programme start="20251220165000 +0000" stop="20251220194000 +0000" channel="Asianet Movies.starhub">
-        <title>Classmates</title>
+    <programme start="20251220164000 +0000" stop="20251220194000 +0000" channel="Asianet Movies.starhub">
+        <title>Udayananu Tharam</title>
     </programme>
     <programme start="20251220194000 +0000" stop="20251220214500 +0000" channel="Asianet Movies.starhub">
         <title>7th Day</title>
