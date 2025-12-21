@@ -325,6 +325,12 @@
 <programme start="20251220233000 +0000" stop="20251221003000 +0000" channel="ANTV.vision">
 <title>Takdir Cinta Layla</title>
 </programme>
+<programme start="20251221003000 +0000" stop="20251221023000 +0000" channel="ANTV.vision">
+<title>Durjana Pemetik Bunga</title>
+</programme>
+<programme start="20251221023000 +0000" stop="20251221060000 +0000" channel="ANTV.vision">
+<title>Hum Saath Saath Hain</title>
+</programme>
 <programme start="20251221060000 +0000" stop="20251221073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -1491,10 +1497,4 @@
 </programme>
 <programme start="20251222000000 +0000" stop="20251222010000 +0000" channel="JAK TV.vision">
 <title>Medika Natura</title>
-</programme>
-<programme start="20251222010000 +0000" stop="20251222020000 +0000" channel="JAK TV.vision">
-<title>Lejel</title>
-</programme>
-<programme start="20251222020000 +0000" stop="20251222030000 +0000" channel="JAK TV.vision">
-<title>Lejel</title>
 </programme>
