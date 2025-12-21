@@ -7453,20 +7453,23 @@
     <programme start="20251220233000 +0000" stop="20251221013000 +0000" channel="Asianet Movies.starhub">
         <title>Happy Journey</title>
     </programme>
-    <programme start="20251221013000 +0000" stop="20251221043000 +0000" channel="Asianet Movies.starhub">
-        <title>Lollipop</title>
+    <programme start="20251221013000 +0000" stop="20251221015500 +0000" channel="Asianet Movies.starhub">
+        <title>Chirikkum Thalika</title>
+    </programme>
+    <programme start="20251221015500 +0000" stop="20251221043000 +0000" channel="Asianet Movies.starhub">
+        <title>Gadhama</title>
     </programme>
     <programme start="20251221043000 +0000" stop="20251221073000 +0000" channel="Asianet Movies.starhub">
-        <title>Malaikottai Vaaliban</title>
+        <title>Love Action Drama</title>
     </programme>
     <programme start="20251221073000 +0000" stop="20251221103000 +0000" channel="Asianet Movies.starhub">
-        <title>Abhilasham</title>
+        <title>Best Actor</title>
     </programme>
     <programme start="20251221103000 +0000" stop="20251221133000 +0000" channel="Asianet Movies.starhub">
-        <title>Oru Marubhoomikkadha</title>
+        <title>Sakhavu</title>
     </programme>
-    <programme start="20251221133000 +0000" stop="20251221163000 +0000" channel="Asianet Movies.starhub">
-        <title>Swapnakoodu</title>
+    <programme start="20251221133000 +0000" stop="20251221162500 +0000" channel="Asianet Movies.starhub">
+        <title>Evidam Swargamanu</title>
     </programme>
     <programme start="20251220160000 +0000" stop="20251220163000 +0000" channel="Astro Warna HD.starhub">
         <title>Jihan Show S2</title>

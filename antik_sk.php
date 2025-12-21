@@ -16177,13 +16177,13 @@
   <programme start="20251223000300 +0000" stop="20251223005500 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Bez retuszu (288)</title>
   </programme>
-  <programme start="20251223005500 +0000" stop="20251223013000 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20251223005500 +0000" stop="20251223012900 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Oko na Swiat (624)</title>
   </programme>
-  <programme start="20251223013000 +0000" stop="20251223023000 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20251223012900 +0000" stop="20251223022900 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Panorama Dnia</title>
   </programme>
-  <programme start="20251223023000 +0000" stop="20251223023600 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20251223022900 +0000" stop="20251223023600 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Pogoda Info</title>
   </programme>
   <programme start="20251223023600 +0000" stop="20251223024700 +0000" channel="TVP Info.webtv.sk">
@@ -17927,7 +17927,7 @@
     <title lang="id">Sky News Today</title>
   </programme>
   <programme start="20251223153000 +0000" stop="20251223160000 +0000" channel="Sky News.webtv.sk">
-    <title lang="id">Electoral Dysfunction</title>
+    <title lang="id">Ukraine: The Future of Warfare</title>
   </programme>
   <programme start="20251223160000 +0000" stop="20251223163000 +0000" channel="Sky News.webtv.sk">
     <title lang="id">Sky News Today</title>
@@ -17957,7 +17957,7 @@
     <title lang="id">Sky News</title>
   </programme>
   <programme start="20251223203000 +0000" stop="20251223210000 +0000" channel="Sky News.webtv.sk">
-    <title lang="id">Hotspots</title>
+    <title lang="id">Trump&apos;s Trade War: On The Frontlines</title>
   </programme>
   <programme start="20251223210000 +0000" stop="20251223213000 +0000" channel="Sky News.webtv.sk">
     <title lang="id">Sky News</title>
@@ -18658,14 +18658,11 @@
   <programme start="20251223063000 +0000" stop="20251223070000 +0000" channel="Rai Tre.webtv.sk">
     <title lang="id">TGR Buongiorno Regione</title>
   </programme>
-  <programme start="20251223070000 +0000" stop="20251223073000 +0000" channel="Rai Tre.webtv.sk">
-    <title lang="id">Stanlio e Ollio - La scala musicale</title>
-  </programme>
-  <programme start="20251223073000 +0000" stop="20251223092000 +0000" channel="Rai Tre.webtv.sk">
+  <programme start="20251223070000 +0000" stop="20251223085800 +0000" channel="Rai Tre.webtv.sk">
     <title lang="id">San Paolo</title>
   </programme>
-  <programme start="20251223092000 +0000" stop="20251223105500 +0000" channel="Rai Tre.webtv.sk">
-    <title lang="id">La porta del cielo</title>
+  <programme start="20251223085800 +0000" stop="20251223105500 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">Rai Parlamento - Speciale Senato</title>
   </programme>
   <programme start="20251223105500 +0000" stop="20251223110000 +0000" channel="Rai Tre.webtv.sk">
     <title lang="id">Meteo 3</title>
@@ -18899,7 +18896,7 @@
     <title lang="id">Travelers on the Silk Road (2)</title>
   </programme>
   <programme start="20251223020000 +0000" stop="20251223030000 +0000" channel="CGTN Documentary.webtv.sk">
-    <title lang="id">North of the Great River: A Land of Culture (2)</title>
+    <title lang="id">Asia-Pacific War Crimes Trials (1)</title>
   </programme>
   <programme start="20251223030000 +0000" stop="20251223033000 +0000" channel="CGTN Documentary.webtv.sk">
     <title lang="id">Birth and Departure</title>
@@ -18926,7 +18923,7 @@
     <title lang="id">Travelers on the Silk Road (2)</title>
   </programme>
   <programme start="20251223080000 +0000" stop="20251223090000 +0000" channel="CGTN Documentary.webtv.sk">
-    <title lang="id">North of the Great River: A Land of Culture (2)</title>
+    <title lang="id">Rediscovering the Arctic (1)</title>
   </programme>
   <programme start="20251223090000 +0000" stop="20251223093000 +0000" channel="CGTN Documentary.webtv.sk">
     <title lang="id">Birth and Departure</title>
@@ -18953,7 +18950,7 @@
     <title lang="id">Travelers on the Silk Road (2)</title>
   </programme>
   <programme start="20251223140000 +0000" stop="20251223150000 +0000" channel="CGTN Documentary.webtv.sk">
-    <title lang="id">North of the Great River: A Land of Culture (2)</title>
+    <title lang="id">Asia-Pacific War Crimes Trials (1)</title>
   </programme>
   <programme start="20251223150000 +0000" stop="20251223153000 +0000" channel="CGTN Documentary.webtv.sk">
     <title lang="id">Birth and Departure</title>

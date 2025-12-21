@@ -2555,7 +2555,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251221174000 +0000" stop="20251221180000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt Eishockey:NHL</title>
 </programme>
-<programme start="20251221180000 +0000" stop="20251221210000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20251221180000 +0000" stop="20251222010000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live NHL: Washington Capitals @ Detroit Red Wings</title>
 </programme>
 <programme start="20251220234500 +0000" stop="20251221004500 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -2675,7 +2675,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251221170000 +0000" stop="20251221183000 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: Sky90 - Die Fußballdebatte</title>
 </programme>
-<programme start="20251221183000 +0000" stop="20251221191500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
+<programme start="20251221183000 +0000" stop="20251221193000 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: Highlights XXL: FCH - FCB, 15. Spieltag</title>
 </programme>
 <programme start="20251221114000 +0000" stop="20251221120000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
@@ -2696,19 +2696,19 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251221114000 +0000" stop="20251221120000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Es folgt: Live 2. Bundesliga</title>
 </programme>
-<programme start="20251221120000 +0000" stop="20251221143000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
+<programme start="20251221120000 +0000" stop="20251221150000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live 2. BL: 1. FC Nürnberg - Hannover 96, 17. Spieltag</title>
 </programme>
 <programme start="20251221114000 +0000" stop="20251221120000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Es folgt: Live 2. Bundesliga</title>
 </programme>
-<programme start="20251221120000 +0000" stop="20251221143000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
+<programme start="20251221120000 +0000" stop="20251221150000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live 2. BL: Preußen Münster - SV Elversberg, 17. Spieltag</title>
 </programme>
 <programme start="20251221114000 +0000" stop="20251221120000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Es folgt: Live 2. Bundesliga</title>
 </programme>
-<programme start="20251221120000 +0000" stop="20251221143000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
+<programme start="20251221120000 +0000" stop="20251221150000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Live 2. BL: Multiview, 17. Spieltag, Sonntag</title>
 </programme>
 <programme start="20251220230000 +0000" stop="20251221000000 +0000" channel="Sky Sport F1 HD.skyde">
@@ -2783,9 +2783,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251221220000 +0000" stop="20251222010000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>IndyCar: The 109th Indianapolis 500</title>
 </programme>
-<programme start="20251220230000 +0000" stop="20251221020000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Golf: AfrAsia Bank Mauritius Open, 3. Tag in Bel Ombre, Mauritius</title>
-</programme>
 <programme start="20251221020000 +0000" stop="20251221050000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>PGA Tour Champions: PNC Championship, 1. Tag in Orlando, FL (USA)</title>
 </programme>
@@ -2818,9 +2815,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 </programme>
 <programme start="20251221223000 +0000" stop="20251222013000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: AfrAsia Bank Mauritius Open, 4. Tag in Bel Ombre, Mauritius</title>
-</programme>
-<programme start="20251220230000 +0000" stop="20251221020000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>Live NHL: St. Louis Blues @ Florida Panthers</title>
 </programme>
 <programme start="20251221020000 +0000" stop="20251221024500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>3. Liga: Alle Spiele, alle Tore, 19. Spieltag, Samstag</title>
@@ -3047,46 +3041,49 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251221223000 +0000" stop="20251221230000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: Liverpool Classic Match: FC Liverpool - Tottenham Hotspur (2018/2019)</title>
 </programme>
-<programme start="20251221003000 +0000" stop="20251221023000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20251221003000 +0000" stop="20251221020500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Next Gen ATP Finals: L. Tien (USA) - N. Basavareddy (USA), Halbfinale 2 in Jeddah (SAU)</title>
 </programme>
-<programme start="20251221023000 +0000" stop="20251221030000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20251221020500 +0000" stop="20251221023500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA Finals: Review Riyadh 2025</title>
 </programme>
-<programme start="20251221030000 +0000" stop="20251221040000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20251221023500 +0000" stop="20251221033000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP Finals: Review Turin 2025</title>
 </programme>
-<programme start="20251221040000 +0000" stop="20251221060000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: A. Zverev (GER) - J. Fearnley (GBR), Erste Bank Open in Wien (Österreich), 2. Tag</title>
-</programme>
-<programme start="20251221060000 +0000" stop="20251221074500 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: A. Zverev (GER) - M. Arnaldi (ITA), Erste Bank Open in Wien (Österreich), 4. Tag</title>
-</programme>
-<programme start="20251221074500 +0000" stop="20251221093000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: A. Zverev (GER) - L. Musetti (ITA), Erste Bank Open in Wien (Österreich), Halbfinale 2</title>
-</programme>
-<programme start="20251221093000 +0000" stop="20251221120000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: A. Zverev (GER) - J. Sinner (ITA), Erste Bank Open in Wien (Österreich), Finale</title>
-</programme>
-<programme start="20251221120000 +0000" stop="20251221130000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20251221033000 +0000" stop="20251221043000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: Review Wien</title>
 </programme>
-<programme start="20251221130000 +0000" stop="20251221150000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20251221043000 +0000" stop="20251221063000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 500: A. Zverev (GER) - J. Fearnley (GBR), Erste Bank Open in Wien (Österreich), 2. Tag</title>
+</programme>
+<programme start="20251221063000 +0000" stop="20251221081500 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 500: A. Zverev (GER) - M. Arnaldi (ITA), Erste Bank Open in Wien (Österreich), 4. Tag</title>
+</programme>
+<programme start="20251221081500 +0000" stop="20251221100500 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 500: A. Zverev (GER) - L. Musetti (ITA), Erste Bank Open in Wien (Österreich), Halbfinale 2</title>
+</programme>
+<programme start="20251221100500 +0000" stop="20251221123500 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 500: A. Zverev (GER) - J. Sinner (ITA), Erste Bank Open in Wien (Österreich), Finale</title>
+</programme>
+<programme start="20251221123500 +0000" stop="20251221133500 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 500: Review Wien</title>
+</programme>
+<programme start="20251221133500 +0000" stop="20251221152000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Next Gen ATP Finals: A. Blockx (BEL) - N. Budkov Kjaer (NOR), Halbfinale 1 in Jeddah (SAU)</title>
 </programme>
-<programme start="20251221150000 +0000" stop="20251221170000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20251221152000 +0000" stop="20251221170000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Next Gen ATP Finals: L. Tien (USA) - N. Basavareddy (USA), Halbfinale 2 in Jeddah (SAU)</title>
 </programme>
 <programme start="20251221170000 +0000" stop="20251221193000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live Next Gen ATP Finals: Finale in Jeddah (SAU)</title>
+    <title>Live Next Gen ATP Finals: L. Tien (USA) - A. Blockx (BEL), Finale in Jeddah (SAU)</title>
 </programme>
 <programme start="20251221193000 +0000" stop="20251221203000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP &amp; WTA: Zeit für ein Break - das Tennisjahr 2025</title>
 </programme>
 <programme start="20251221203000 +0000" stop="20251221230000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Next Gen ATP Finals: Finale in Jeddah (SAU)</title>
+    <title>Next Gen ATP Finals: L. Tien (USA) - A. Blockx (BEL), Finale in Jeddah (SAU)</title>
 </programme>
-<programme start="20251221003000 +0000" stop="20251221020000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20251221003500 +0000" stop="20251221020000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NHL: St. Louis Blues @ Florida Panthers</title>
 </programme>
 <programme start="20251221020000 +0000" stop="20251221040000 +0000" channel="Sky Sport Top Event HD.skyde">
