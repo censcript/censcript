@@ -7720,6 +7720,39 @@
     <programme start="20251222153000 +0000" stop="20251222163000 +0000" channel="ABC Australia HD.starhub">
         <title>Bradman And Tendulkar</title>
     </programme>
+    <programme start="20251221133000 +0000" stop="20251221162500 +0000" channel="Asianet Movies.starhub">
+        <title>Evidam Swargamanu</title>
+    </programme>
+    <programme start="20251221162500 +0000" stop="20251221190000 +0000" channel="Asianet Movies.starhub">
+        <title>God&#039;s Own Country</title>
+    </programme>
+    <programme start="20251221190000 +0000" stop="20251221211000 +0000" channel="Asianet Movies.starhub">
+        <title>Pathemari</title>
+    </programme>
+    <programme start="20251221211000 +0000" stop="20251221231500 +0000" channel="Asianet Movies.starhub">
+        <title>Jawan of Vellimala</title>
+    </programme>
+    <programme start="20251221231500 +0000" stop="20251221234000 +0000" channel="Asianet Movies.starhub">
+        <title>Chirikkum Thalika</title>
+    </programme>
+    <programme start="20251221234000 +0000" stop="20251222013000 +0000" channel="Asianet Movies.starhub">
+        <title>Kadha, Samvidhanam Kunchakko</title>
+    </programme>
+    <programme start="20251222013000 +0000" stop="20251222043000 +0000" channel="Asianet Movies.starhub">
+        <title>Happy Husbands</title>
+    </programme>
+    <programme start="20251222043000 +0000" stop="20251222073000 +0000" channel="Asianet Movies.starhub">
+        <title>Bangalore Days</title>
+    </programme>
+    <programme start="20251222073000 +0000" stop="20251222103000 +0000" channel="Asianet Movies.starhub">
+        <title>Pulimurugan</title>
+    </programme>
+    <programme start="20251222103000 +0000" stop="20251222133000 +0000" channel="Asianet Movies.starhub">
+        <title>Vellinakshathram</title>
+    </programme>
+    <programme start="20251222133000 +0000" stop="20251222163000 +0000" channel="Asianet Movies.starhub">
+        <title>Drishyam 2</title>
+    </programme>
     <programme start="20251221160000 +0000" stop="20251221163000 +0000" channel="Astro Warna HD.starhub">
         <title>Jihan Show S2</title>
     </programme>
