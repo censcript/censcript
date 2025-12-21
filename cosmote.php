@@ -178,6 +178,10 @@
     <title>William Hill Scottish Premiership - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251223061000 +0700" stop="20251223081000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Southampton - Coventry City</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251222033000 +0700" stop="20251222063000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Atlanta Hawks - Chicago Bulls (L)</title>
     <desc>Live: Ya</desc>
@@ -244,10 +248,6 @@
 </programme>
 <programme start="20251223053000 +0700" stop="20251223080000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Atlanta Hawks - Chicago Bulls</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251222050000 +0700" stop="20251222054500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>DTM</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251222054500 +0700" stop="20251222074500 +0700" channel="COSMOTE Sport 5 HD">
@@ -327,6 +327,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251223052500 +0700" stop="20251223063000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251223063000 +0700" stop="20251223070000 +0700" channel="COSMOTE Sport 5 HD">
     <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
