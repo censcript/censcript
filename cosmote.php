@@ -58,6 +58,10 @@
     <title>Football: FC Kairat Almaty - Olympiacos</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251222203000 +0700" stop="20251222230000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Sportshow</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251221184500 +0700" stop="20251221210000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Olympiacos - Kifisia</title>
     <desc>Live: Tidak</desc>
@@ -120,6 +124,10 @@
 </programme>
 <programme start="20251222181000 +0700" stop="20251222202000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Volos - Panetolikos</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251222202000 +0700" stop="20251222222500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Juventus Football Club - AS Roma</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251221183000 +0700" stop="20251221203000 +0700" channel="COSMOTE Sport 3 HD">
@@ -188,14 +196,6 @@
 </programme>
 <programme start="20251222191500 +0700" stop="20251222211500 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Pafos FC - APOEL</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251221170000 +0700" stop="20251221192500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Denver Nuggets - Houston Rockets</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251221192500 +0700" stop="20251221200000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>NBA Action 2025-26 E3509</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251221200000 +0700" stop="20251221220000 +0700" channel="COSMOTE Sport 4 HD">
@@ -346,8 +346,8 @@
     <title>DTM 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251221190000 +0700" stop="20251221193000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Watersports: Inside Sailing E11</title>
+<programme start="20251222203500 +0700" stop="20251222222000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>DTM 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251221193000 +0700" stop="20251221203000 +0700" channel="COSMOTE Sport 6 HD">
@@ -359,7 +359,7 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251222000000 +0700" stop="20251222023000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: 2025 Next Gen ATP Finals (L)</title>
+    <title>Tennis: Learner Tien - Nicolai Budkov Kjaer (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20251222023000 +0700" stop="20251222030000 +0700" channel="COSMOTE Sport 6 HD">
@@ -371,7 +371,7 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251222040000 +0700" stop="20251222063000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: 2025 Next Gen ATP Finals</title>
+    <title>Tennis: Learner Tien - Nicolai Budkov Kjaer</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251222063000 +0700" stop="20251222073000 +0700" channel="COSMOTE Sport 6 HD">
@@ -386,15 +386,15 @@
     <title>Beach Volley: Pro Tour Elite 16 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251222110000 +0700" stop="20251222125500 +0700" channel="COSMOTE Sport 6 HD">
+<programme start="20251222110000 +0700" stop="20251222134500 +0700" channel="COSMOTE Sport 6 HD">
     <title>Fight Sports: Oktagon 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251222125500 +0700" stop="20251222155500 +0700" channel="COSMOTE Sport 6 HD">
+<programme start="20251222134500 +0700" stop="20251222165000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Fight Sports: Oktagon 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251222155500 +0700" stop="20251222192500 +0700" channel="COSMOTE Sport 6 HD">
+<programme start="20251222165000 +0700" stop="20251222192500 +0700" channel="COSMOTE Sport 6 HD">
     <title>Fight Sports: UFC Fight Night 2025</title>
     <desc>Live: Tidak</desc>
 </programme>

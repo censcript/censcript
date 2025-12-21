@@ -1450,7 +1450,126 @@
 <programme start="20251221150000 +0000" stop="20251221153000 +0000" channel="beIN SPORTS 5.mncvision">
     <title>beIN Sports 5</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20251220170000 +0000" stop="20251220173000 +0000" channel="Bloomberg.mncvision">
+    <title>Bloomberg Next Africa</title>
+</programme>
+<programme start="20251220173000 +0000" stop="20251220180000 +0000" channel="Bloomberg.mncvision">
+    <title>Bloomberg Originals</title>
+</programme>
+<programme start="20251220180000 +0000" stop="20251220183000 +0000" channel="Bloomberg.mncvision">
+    <title>The David Rubenstein Show</title>
+</programme>
+<programme start="20251220183000 +0000" stop="20251220190000 +0000" channel="Bloomberg.mncvision">
+    <title>Bloomberg New Economy</title>
+</programme>
+<programme start="20251220190000 +0000" stop="20251220193000 +0000" channel="Bloomberg.mncvision">
+    <title>The Circuit: Reese Witherspoon</title>
+</programme>
+<programme start="20251220193000 +0000" stop="20251220200000 +0000" channel="Bloomberg.mncvision">
+    <title>The Circuit: Dana Walden</title>
+</programme>
+<programme start="20251220200000 +0000" stop="20251220210000 +0000" channel="Bloomberg.mncvision">
+    <title>Bloomberg Investigates</title>
+</programme>
+<programme start="20251220210000 +0000" stop="20251220213000 +0000" channel="Bloomberg.mncvision">
+    <title>Women, Money &amp; Power Event</title>
+</programme>
+<programme start="20251220213000 +0000" stop="20251220220000 +0000" channel="Bloomberg.mncvision">
+    <title>Bloomberg Chief Future Officer</title>
+</programme>
+<programme start="20251220220000 +0000" stop="20251220223000 +0000" channel="Bloomberg.mncvision">
+    <title>Bloomberg Chief Future Officer</title>
+</programme>
+<programme start="20251220223000 +0000" stop="20251220230000 +0000" channel="Bloomberg.mncvision">
+    <title>Bloomberg Screentime</title>
+</programme>
+<programme start="20251220230000 +0000" stop="20251220233000 +0000" channel="Bloomberg.mncvision">
+    <title>The Mishal Husain Show</title>
+</programme>
+<programme start="20251220233000 +0000" stop="20251221000000 +0000" channel="Bloomberg.mncvision">
+    <title>The Mishal Husain Show</title>
+</programme>
+<programme start="20251221000000 +0000" stop="20251221010000 +0000" channel="Bloomberg.mncvision">
+    <title>The Deal, Rodriguez And Kelly</title>
+</programme>
+<programme start="20251221010000 +0000" stop="20251221013000 +0000" channel="Bloomberg.mncvision">
+    <title>Bloomberg New Economy</title>
+</programme>
+<programme start="20251221013000 +0000" stop="20251221020000 +0000" channel="Bloomberg.mncvision">
+    <title>The Circuit: Dana Walden</title>
+</programme>
+<programme start="20251221020000 +0000" stop="20251221023000 +0000" channel="Bloomberg.mncvision">
+    <title>Bloomberg Originals</title>
+</programme>
+<programme start="20251221023000 +0000" stop="20251221030000 +0000" channel="Bloomberg.mncvision">
+    <title>Leaders With Francine Lacqua</title>
+</programme>
+<programme start="20251221030000 +0000" stop="20251221040000 +0000" channel="Bloomberg.mncvision">
+    <title>Is Europe Too Late To...</title>
+</programme>
+<programme start="20251221040000 +0000" stop="20251221050000 +0000" channel="Bloomberg.mncvision">
+    <title>Bloomberg Investigates</title>
+</programme>
+<programme start="20251221050000 +0000" stop="20251221053000 +0000" channel="Bloomberg.mncvision">
+    <title>Bloomberg Chief Future Officer</title>
+</programme>
+<programme start="20251221053000 +0000" stop="20251221060000 +0000" channel="Bloomberg.mncvision">
+    <title>Bloomberg Chief Future Officer</title>
+</programme>
+<programme start="20251221060000 +0000" stop="20251221063000 +0000" channel="Bloomberg.mncvision">
+    <title>Bloomberg Next Africa</title>
+</programme>
+<programme start="20251221063000 +0000" stop="20251221070000 +0000" channel="Bloomberg.mncvision">
+    <title>Bloomberg New Economy</title>
+</programme>
+<programme start="20251221070000 +0000" stop="20251221073000 +0000" channel="Bloomberg.mncvision">
+    <title>The Mishal Husain Show</title>
+</programme>
+<programme start="20251221073000 +0000" stop="20251221080000 +0000" channel="Bloomberg.mncvision">
+    <title>The Mishal Husain Show</title>
+</programme>
+<programme start="20251221080000 +0000" stop="20251221090000 +0000" channel="Bloomberg.mncvision">
+    <title>Bloomberg Investigates</title>
+</programme>
+<programme start="20251221090000 +0000" stop="20251221100000 +0000" channel="Bloomberg.mncvision">
+    <title>Bloomberg Wall Street Week</title>
+</programme>
+<programme start="20251221100000 +0000" stop="20251221110000 +0000" channel="Bloomberg.mncvision">
+    <title>The Deal, Rodriguez And Kelly</title>
+</programme>
+<programme start="20251221110000 +0000" stop="20251221113000 +0000" channel="Bloomberg.mncvision">
+    <title>The Mishal Husain Show</title>
+</programme>
+<programme start="20251221113000 +0000" stop="20251221120000 +0000" channel="Bloomberg.mncvision">
+    <title>The Mishal Husain Show</title>
+</programme>
+<programme start="20251221120000 +0000" stop="20251221123000 +0000" channel="Bloomberg.mncvision">
+    <title>Bloomberg New Economy</title>
+</programme>
+<programme start="20251221123000 +0000" stop="20251221130000 +0000" channel="Bloomberg.mncvision">
+    <title>The David Rubenstein Show</title>
+</programme>
+<programme start="20251221130000 +0000" stop="20251221133000 +0000" channel="Bloomberg.mncvision">
+    <title>Bloomberg Chief Future Officer</title>
+</programme>
+<programme start="20251221133000 +0000" stop="20251221140000 +0000" channel="Bloomberg.mncvision">
+    <title>Leaders With Francine Lacqua</title>
+</programme>
+<programme start="20251221140000 +0000" stop="20251221150000 +0000" channel="Bloomberg.mncvision">
+    <title>Bloomberg Wall Street Week</title>
+</programme>
+<programme start="20251221150000 +0000" stop="20251221153000 +0000" channel="Bloomberg.mncvision">
+    <title>Leaders With Francine Lacqua</title>
+</programme>
+<programme start="20251221153000 +0000" stop="20251221160000 +0000" channel="Bloomberg.mncvision">
+    <title>The Circuit: Dana Walden</title>
+</programme>
+<programme start="20251221160000 +0000" stop="20251221163000 +0000" channel="Bloomberg.mncvision">
+    <title>Leaders With Francine Lacqua</title>
+</programme>
+<programme start="20251221163000 +0000" stop="20251220170000 +0000" channel="Bloomberg.mncvision">
+    <title>Bloomberg Originals</title>
+</programme>
 <programme start="20251220173000 +0000" stop="20251220182700 +0000" channel="BTV.mncvision">
     <title>Berita Viral</title>
 </programme>
@@ -4118,7 +4237,84 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20251221160000 +0000" stop="20251221163000 +0000" channel="Hanacaraka TV.mncvision">
     <title>Wayang Kulit Special S2</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20251220173500 +0000" stop="20251220183000 +0000" channel="History.mncvision">
+    <title>Hazardous History S1, Ep 4</title>
+</programme>
+<programme start="20251220183000 +0000" stop="20251220192500 +0000" channel="History.mncvision">
+    <title>Beyond Skinwalker Ranch, Ep 9</title>
+</programme>
+<programme start="20251220192500 +0000" stop="20251220202000 +0000" channel="History.mncvision">
+    <title>Ancient Aliens S15, Ep 223</title>
+</programme>
+<programme start="20251220202000 +0000" stop="20251220211500 +0000" channel="History.mncvision">
+    <title>Ancient Aliens S16, Ep 252</title>
+</programme>
+<programme start="20251220211500 +0000" stop="20251220221000 +0000" channel="History.mncvision">
+    <title>Greatest Escapes S2, Ep 10</title>
+</programme>
+<programme start="20251220221000 +0000" stop="20251220230500 +0000" channel="History.mncvision">
+    <title>The Death Coast, Ep 8</title>
+</programme>
+<programme start="20251220230500 +0000" stop="20251221000000 +0000" channel="History.mncvision">
+    <title>Ancient Aliens S15, Ep 223</title>
+</programme>
+<programme start="20251221000000 +0000" stop="20251221005500 +0000" channel="History.mncvision">
+    <title>Ancient Aliens S16, Ep 252</title>
+</programme>
+<programme start="20251221005500 +0000" stop="20251221015500 +0000" channel="History.mncvision">
+    <title>Curse Of Oak Island S11, Ep 17</title>
+</programme>
+<programme start="20251221015500 +0000" stop="20251221025000 +0000" channel="History.mncvision">
+    <title>Greatest Escapes S2, Ep 10</title>
+</programme>
+<programme start="20251221025000 +0000" stop="20251221034500 +0000" channel="History.mncvision">
+    <title>Hazardous History S1, Ep 4</title>
+</programme>
+<programme start="20251221034500 +0000" stop="20251221044000 +0000" channel="History.mncvision">
+    <title>Beyond Skinwalker Ranch, Ep 9</title>
+</programme>
+<programme start="20251221044000 +0000" stop="20251221053500 +0000" channel="History.mncvision">
+    <title>The Death Coast, Ep 8</title>
+</programme>
+<programme start="20251221053500 +0000" stop="20251221063000 +0000" channel="History.mncvision">
+    <title>Ancient Aliens S15, Ep 223</title>
+</programme>
+<programme start="20251221063000 +0000" stop="20251221072500 +0000" channel="History.mncvision">
+    <title>Greatest Escapes S2, Ep 10</title>
+</programme>
+<programme start="20251221072500 +0000" stop="20251221082000 +0000" channel="History.mncvision">
+    <title>Beyond Skinwalker Ranch, Ep 9</title>
+</programme>
+<programme start="20251221082000 +0000" stop="20251221092000 +0000" channel="History.mncvision">
+    <title>Ancient Aliens S16, Ep 252</title>
+</programme>
+<programme start="20251221092000 +0000" stop="20251221101500 +0000" channel="History.mncvision">
+    <title>Curse Of Oak Island S11, Ep 17</title>
+</programme>
+<programme start="20251221101500 +0000" stop="20251221111000 +0000" channel="History.mncvision">
+    <title>Food That Built World S5, Ep 9</title>
+</programme>
+<programme start="20251221111000 +0000" stop="20251221120500 +0000" channel="History.mncvision">
+    <title>The UnXplained S3, Ep 27</title>
+</programme>
+<programme start="20251221120500 +0000" stop="20251221130000 +0000" channel="History.mncvision">
+    <title>Mysteries Unearthed S1, Ep 3</title>
+</programme>
+<programme start="20251221130000 +0000" stop="20251221135500 +0000" channel="History.mncvision">
+    <title>The UnBelievable S2, Ep 7</title>
+</programme>
+<programme start="20251221135500 +0000" stop="20251221145000 +0000" channel="History.mncvision">
+    <title>The UnBelievable S2, Ep 8</title>
+</programme>
+<programme start="20251221145000 +0000" stop="20251221154500 +0000" channel="History.mncvision">
+    <title>Mega-Brands Built... S2, Ep 9</title>
+</programme>
+<programme start="20251221154500 +0000" stop="20251221164000 +0000" channel="History.mncvision">
+    <title>The Pickers S18, Ep 302</title>
+</programme>
+<programme start="20251221164000 +0000" stop="20251220171000 +0000" channel="History.mncvision">
+    <title>Mysteries Unearthed S1, Ep 3</title>
+</programme>
 <programme start="20251220170000 +0000" stop="20251220173000 +0000" channel="HITS.mncvision">
     <title>Married With Children S5, Ep 10</title>
 </programme>
@@ -8655,9 +8851,165 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20251221163000 +0000" stop="20251220170000 +0000" channel="Trans 7.mncvision">
     <title>Deranged</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20251220180000 +0000" stop="20251220220000 +0000" channel="Trans TV.mncvision">
+    <title>CNN Tech News</title>
+</programme>
+<programme start="20251220220000 +0000" stop="20251220233000 +0000" channel="Trans TV.mncvision">
+    <title>Islam Itu Indah</title>
+</programme>
+<programme start="20251220233000 +0000" stop="20251221003000 +0000" channel="Trans TV.mncvision">
+    <title>Insert Pagi (L)</title>
+</programme>
+<programme start="20251221003000 +0000" stop="20251221013000 +0000" channel="Trans TV.mncvision">
+    <title>Kajian Hati</title>
+</programme>
+<programme start="20251221013000 +0000" stop="20251221033000 +0000" channel="Trans TV.mncvision">
+    <title>Ambyar In Weekend</title>
+</programme>
+<programme start="20251221033000 +0000" stop="20251221043000 +0000" channel="Trans TV.mncvision">
+    <title>Insert Siang</title>
+</programme>
+<programme start="20251221043000 +0000" stop="20251221053000 +0000" channel="Trans TV.mncvision">
+    <title>Spill DD Tea</title>
+</programme>
+<programme start="20251221053000 +0000" stop="20251221070000 +0000" channel="Trans TV.mncvision">
+    <title>Brownis On The Weekend</title>
+</programme>
+<programme start="20251221070000 +0000" stop="20251221080000 +0000" channel="Trans TV.mncvision">
+    <title>Rumpi Hot Of The Week</title>
+</programme>
+<programme start="20251221080000 +0000" stop="20251221091500 +0000" channel="Trans TV.mncvision">
+    <title>Insert Investigasi</title>
+</programme>
+<programme start="20251221091500 +0000" stop="20251221100000 +0000" channel="Trans TV.mncvision">
+    <title>Sehari Jadi Ratu</title>
+</programme>
+<programme start="20251221100000 +0000" stop="20251221103000 +0000" channel="Trans TV.mncvision">
+    <title>CNN Indonesia News Update</title>
+</programme>
+<programme start="20251221103000 +0000" stop="20251221114500 +0000" channel="Trans TV.mncvision">
+    <title>Bikin Laper</title>
+</programme>
+<programme start="20251221114500 +0000" stop="20251221130000 +0000" channel="Trans TV.mncvision">
+    <title>Insert Story</title>
+</programme>
+<programme start="20251221130000 +0000" stop="20251221140000 +0000" channel="Trans TV.mncvision">
+    <title>Highlight</title>
+</programme>
+<programme start="20251221140000 +0000" stop="20251221160000 +0000" channel="Trans TV.mncvision">
+    <title>Bioskop Trans TV</title>
+</programme>
+<programme start="20251221160000 +0000" stop="20251221163000 +0000" channel="Trans TV.mncvision">
+    <title>Bioskop Trans TV</title>
+</programme>
+<programme start="20251220174500 +0000" stop="20251220191500 +0000" channel="tvN.mncvision">
+    <title>Arthdal Chronicles, Ep 16</title>
+</programme>
+<programme start="20251220191500 +0000" stop="20251220203000 +0000" channel="tvN.mncvision">
+    <title>Love Me, Ep 2</title>
+</programme>
+<programme start="20251220203000 +0000" stop="20251220210000 +0000" channel="tvN.mncvision">
+    <title>Chansung&#039;s Cooking, Ep 11</title>
+</programme>
+<programme start="20251220210000 +0000" stop="20251220220000 +0000" channel="tvN.mncvision">
+    <title>No Way Home, Ep 3</title>
+</programme>
+<programme start="20251220220000 +0000" stop="20251220235000 +0000" channel="tvN.mncvision">
+    <title>3 Meals A Day: Light, Ep 4</title>
+</programme>
+<programme start="20251220235000 +0000" stop="20251221011000 +0000" channel="tvN.mncvision">
+    <title>Country Life Of Gen-Z, Ep 3</title>
+</programme>
+<programme start="20251221011000 +0000" stop="20251221030000 +0000" channel="tvN.mncvision">
+    <title>Atom Boyz S2, Ep 6</title>
+</programme>
+<programme start="20251221030000 +0000" stop="20251221041500 +0000" channel="tvN.mncvision">
+    <title>Love Me, Ep 2</title>
+</programme>
+<programme start="20251221041500 +0000" stop="20251221061000 +0000" channel="tvN.mncvision">
+    <title>Sixth Sense: City Tour S2, Ep 7</title>
+</programme>
+<programme start="20251221061000 +0000" stop="20251221065000 +0000" channel="tvN.mncvision">
+    <title>Chef Of Antarctica, Ep 7</title>
+</programme>
+<programme start="20251221065000 +0000" stop="20251221073000 +0000" channel="tvN.mncvision">
+    <title>Chef Of Antarctica, Ep 8</title>
+</programme>
+<programme start="20251221073000 +0000" stop="20251221080000 +0000" channel="tvN.mncvision">
+    <title>Chansung&#039;s Cooking, Ep 11</title>
+</programme>
+<programme start="20251221080000 +0000" stop="20251221095000 +0000" channel="tvN.mncvision">
+    <title>GBRB: Joy Pops Laugh..., Ep 9</title>
+</programme>
+<programme start="20251221095000 +0000" stop="20251221113000 +0000" channel="tvN.mncvision">
+    <title>House On Wheels: Ocean, Ep 10</title>
+</programme>
+<programme start="20251221113000 +0000" stop="20251221132000 +0000" channel="tvN.mncvision">
+    <title>3 Meals A Day: Light, Ep 5</title>
+</programme>
+<programme start="20251221132000 +0000" stop="20251221143000 +0000" channel="tvN.mncvision">
+    <title>My Dearest Nemesis, Ep 5</title>
+</programme>
+<programme start="20251221143000 +0000" stop="20251221154500 +0000" channel="tvN.mncvision">
+    <title>Love Me, Ep 1</title>
+</programme>
+<programme start="20251221154500 +0000" stop="20251221161500 +0000" channel="tvN.mncvision">
+    <title>Love Me, Ep 2</title>
+</programme>
+<programme start="20251220174500 +0000" stop="20251220191500 +0000" channel="tvN HD.mncvision">
+    <title>Arthdal Chronicles, Ep 16</title>
+</programme>
+<programme start="20251220191500 +0000" stop="20251220203000 +0000" channel="tvN HD.mncvision">
+    <title>Love Me, Ep 2</title>
+</programme>
+<programme start="20251220203000 +0000" stop="20251220210000 +0000" channel="tvN HD.mncvision">
+    <title>Chansung&#039;s Cooking, Ep 11</title>
+</programme>
+<programme start="20251220210000 +0000" stop="20251220220000 +0000" channel="tvN HD.mncvision">
+    <title>No Way Home, Ep 3</title>
+</programme>
+<programme start="20251220220000 +0000" stop="20251220235000 +0000" channel="tvN HD.mncvision">
+    <title>3 Meals A Day: Light, Ep 4</title>
+</programme>
+<programme start="20251220235000 +0000" stop="20251221011000 +0000" channel="tvN HD.mncvision">
+    <title>Country Life Of Gen-Z, Ep 3</title>
+</programme>
+<programme start="20251221011000 +0000" stop="20251221030000 +0000" channel="tvN HD.mncvision">
+    <title>Atom Boyz S2, Ep 6</title>
+</programme>
+<programme start="20251221030000 +0000" stop="20251221041500 +0000" channel="tvN HD.mncvision">
+    <title>Love Me, Ep 2</title>
+</programme>
+<programme start="20251221041500 +0000" stop="20251221061000 +0000" channel="tvN HD.mncvision">
+    <title>Sixth Sense: City Tour S2, Ep 7</title>
+</programme>
+<programme start="20251221061000 +0000" stop="20251221065000 +0000" channel="tvN HD.mncvision">
+    <title>Chef Of Antarctica, Ep 7</title>
+</programme>
+<programme start="20251221065000 +0000" stop="20251221073000 +0000" channel="tvN HD.mncvision">
+    <title>Chef Of Antarctica, Ep 8</title>
+</programme>
+<programme start="20251221073000 +0000" stop="20251221080000 +0000" channel="tvN HD.mncvision">
+    <title>Chansung&#039;s Cooking, Ep 11</title>
+</programme>
+<programme start="20251221080000 +0000" stop="20251221095000 +0000" channel="tvN HD.mncvision">
+    <title>GBRB: Joy Pops Laugh..., Ep 9</title>
+</programme>
+<programme start="20251221095000 +0000" stop="20251221113000 +0000" channel="tvN HD.mncvision">
+    <title>House On Wheels: Ocean, Ep 10</title>
+</programme>
+<programme start="20251221113000 +0000" stop="20251221132000 +0000" channel="tvN HD.mncvision">
+    <title>3 Meals A Day: Light, Ep 5</title>
+</programme>
+<programme start="20251221132000 +0000" stop="20251221143000 +0000" channel="tvN HD.mncvision">
+    <title>My Dearest Nemesis, Ep 5</title>
+</programme>
+<programme start="20251221143000 +0000" stop="20251221154500 +0000" channel="tvN HD.mncvision">
+    <title>Love Me, Ep 1</title>
+</programme>
+<programme start="20251221154500 +0000" stop="20251221161500 +0000" channel="tvN HD.mncvision">
+    <title>Love Me, Ep 2</title>
+</programme>
 <programme start="20251220172500 +0000" stop="20251220191000 +0000" channel="tvN Movies.mncvision">
     <title>Return Of The Mafia</title>
 </programme>
