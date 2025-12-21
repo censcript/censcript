@@ -62,10 +62,6 @@
     <title>Football: Rayo Vallecano de Madrid - FC Drita</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251221095500 +0700" stop="20251221120000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Volos - Panetolikos</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251221120000 +0700" stop="20251221140000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: SS Lazio - Cremonese</title>
     <desc>Live: Tidak</desc>
@@ -134,12 +130,8 @@
     <title>Football: ACF Fiorentina - Udinese</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251221110000 +0700" stop="20251221113000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Copa Sudamericana 2025 - Highlights</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251221113000 +0700" stop="20251221120000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Copa Libertadores 2025 - Highlights</title>
+<programme start="20251222120000 +0700" stop="20251222141000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: AEK - OFI</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251221120000 +0700" stop="20251221143000 +0700" channel="COSMOTE Sport 3 HD">
@@ -206,6 +198,10 @@
     <title>Copa Sudamericana 2025 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251222120000 +0700" stop="20251222151500 +0700" channel="COSMOTE Sport 3 HD">
+    <title>American Football: Detroit Lions - Pittsburgh Steelers</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251221110000 +0700" stop="20251221124500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Pick n&#039; Roll</title>
     <desc>Live: Tidak</desc>
@@ -268,10 +264,6 @@
 </programme>
 <programme start="20251222110000 +0700" stop="20251222130000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Anadolu Efes - Galatasaray</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251221110000 +0700" stop="20251221113000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251221113000 +0700" stop="20251221123000 +0700" channel="COSMOTE Sport 5 HD">
@@ -370,6 +362,10 @@
     <title>Moto-E World Championship 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251222123000 +0700" stop="20251222130000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Extreme E - Highlights 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251221110000 +0700" stop="20251221133000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP Challenger 50 2025</title>
     <desc>Live: Tidak</desc>
@@ -435,6 +431,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251222110000 +0700" stop="20251222125500 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Fight Sports: Oktagon 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251222125500 +0700" stop="20251222155500 +0700" channel="COSMOTE Sport 6 HD">
     <title>Fight Sports: Oktagon 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
@@ -597,5 +597,13 @@
 <programme start="20251222082000 +0700" stop="20251222120000 +0700" channel="COSMOTE Sport 9 HD">
     <title>American Football: Baltimore Ravens - New England Patriots (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20251222120000 +0700" stop="20251222123000 +0700" channel="COSMOTE Sport 9 HD">
+    <title>COSMOTESport9HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251222123000 +0700" stop="20251222130000 +0700" channel="COSMOTE Sport 9 HD">
+    <title>COSMOTESport9HD</title>
+    <desc>Live: Tidak</desc>
 </programme>
 No EPG found for COSMOTE Sport 10 HD
