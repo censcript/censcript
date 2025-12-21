@@ -6274,16 +6274,10 @@
     <programme start="20251221053000 +0000" stop="20251221060000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>World Tour Finals Pre-show</title>
     </programme>
-    <programme start="20251221060000 +0000" stop="20251221110000 +0000" channel="Hub Sports 1  HD.starhub">
+    <programme start="20251221060000 +0000" stop="20251221125000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>World Tour Finals</title>
     </programme>
-    <programme start="20251221110000 +0000" stop="20251221113000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Highlights Show</title>
-    </programme>
-    <programme start="20251221113000 +0000" stop="20251221123000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Cape to Cape Australia</title>
-    </programme>
-    <programme start="20251221123000 +0000" stop="20251221163000 +0000" channel="Hub Sports 1  HD.starhub">
+    <programme start="20251221125000 +0000" stop="20251221163000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Day 11 Afternoon Session</title>
     </programme>
     <programme start="20251220135700 +0000" stop="20251220160600 +0000" channel="SONY MAX.starhub">

@@ -337,9 +337,6 @@
 <programme start="20251221110000 +0000" stop="20251221123000 +0000" channel="ANTV.vision">
 <title>Senandung Cinta Lilis</title>
 </programme>
-<programme start="20251221123000 +0000" stop="20251221140000 +0000" channel="ANTV.vision">
-<title>Sangkuriang</title>
-</programme>
 <programme start="20251221140000 +0000" stop="20251221160000 +0000" channel="ANTV.vision">
 <title>Bajing Ireng &amp; Jaka Sembung</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20251221233000 +0000" stop="20251222000000 +0000" channel="JAK TV.vision">
 <title>My Health My Choice</title>
+</programme>
+<programme start="20251222000000 +0000" stop="20251222010000 +0000" channel="JAK TV.vision">
+<title>Medika Natura</title>
 </programme>

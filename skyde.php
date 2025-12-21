@@ -2960,95 +2960,86 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251221223000 +0000" stop="20251221230000 +0000" channel="Sky Sport News HD.skyde">
     <title>Sky Sport News: Nightline</title>
 </programme>
-<programme start="20251228000000 +0000" stop="20251228020000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: FC Chelsea - Aston Villa, 18. Spieltag</title>
+<programme start="20251221000000 +0000" stop="20251221020000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Wolverhampton Wanderers - FC Brentford, 17. Spieltag</title>
 </programme>
-<programme start="20251228020000 +0000" stop="20251228023000 +0000" channel="Sky Sport Premier League HD.skyde">
+<programme start="20251221020000 +0000" stop="20251221040000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Manchester City - West Ham United, 17. Spieltag</title>
+</programme>
+<programme start="20251221040000 +0000" stop="20251221060000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Newcastle United - FC Chelsea, 17. Spieltag</title>
+</programme>
+<programme start="20251221060000 +0000" stop="20251221063000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Club 100: Ian Wright</title>
+</programme>
+<programme start="20251221063000 +0000" stop="20251221083000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Goal Rush, MCI - WHU, Premier League Konferenz, 17. Spieltag</title>
+</programme>
+<programme start="20251221083000 +0000" stop="20251221103000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Tottenham Hotspur - FC Liverpool, 17. Spieltag</title>
+</programme>
+<programme start="20251221103000 +0000" stop="20251221110000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Tottenham Hotspur - FC Liverpool (1993/1994)</title>
+</programme>
+<programme start="20251221110000 +0000" stop="20251221113000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: PL Stories (Edwin van der Sar)</title>
+</programme>
+<programme start="20251221113000 +0000" stop="20251221120000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: PL Stories (Manager Rivalries)</title>
 </programme>
-<programme start="20251228023000 +0000" stop="20251228030000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Icons: Eric Cantona</title>
-</programme>
-<programme start="20251228030000 +0000" stop="20251228050000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: FC Arsenal - Brighton &amp; Hove Albion, 18. Spieltag</title>
-</programme>
-<programme start="20251228050000 +0000" stop="20251228053000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Highlights Samstag, 18. Spieltag</title>
-</programme>
-<programme start="20251228053000 +0000" stop="20251228060000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Club 100: Dwight Yorke</title>
-</programme>
-<programme start="20251228060000 +0000" stop="20251228080000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: FC Liverpool - Wolverhampton Wanderers, 18. Spieltag</title>
-</programme>
-<programme start="20251228080000 +0000" stop="20251228100000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Nottingham Forest - Manchester City, 18. Spieltag</title>
-</programme>
-<programme start="20251228100000 +0000" stop="20251228103000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Highlights Samstag, 18. Spieltag</title>
-</programme>
-<programme start="20251228103000 +0000" stop="20251228104500 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>EFL: Highlights XXL: AFC Wrexham - Sheffield United, 23. Spieltag</title>
-</programme>
-<programme start="20251228104500 +0000" stop="20251228110000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>EFL: Highlights XXL: Leicester City - FC Watford, 23. Spieltag</title>
-</programme>
-<programme start="20251228110000 +0000" stop="20251228111500 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>EFL: Highlights XXL: Coventry County - Swansea City, 23. Spieltag</title>
-</programme>
-<programme start="20251228111500 +0000" stop="20251228113000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>EFL: Highlights XXL: Oxford United - FC Southampton, 23. Spieltag</title>
-</programme>
-<programme start="20251228113000 +0000" stop="20251228115000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Ultimates: Frank Lampard&#039;s Best PL Goal</title>
-</programme>
-<programme start="20251228115000 +0000" stop="20251228122000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 90in30: NFO - MCI, 18. Spieltag</title>
-</programme>
-<programme start="20251228122000 +0000" stop="20251228125000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 90in30: LIV - WOL, 18. Spieltag</title>
-</programme>
-<programme start="20251228125000 +0000" stop="20251228132000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 90in30: ARS - BRI, 18. Spieltag</title>
-</programme>
-<programme start="20251228132000 +0000" stop="20251228135000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Highlights Samstag, 18. Spieltag</title>
-</programme>
-<programme start="20251228135000 +0000" stop="20251228162000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>Live PL: AFC Sunderland - Leeds United, 18. Spieltag</title>
-</programme>
-<programme start="20251228162000 +0000" stop="20251228183000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>Live PL: Crystal Palace - Tottenham Hotspur, 18. Spieltag</title>
-</programme>
-<programme start="20251228183000 +0000" stop="20251228190500 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Highlights Sonntag, 18. Spieltag</title>
-</programme>
-<programme start="20251228190500 +0000" stop="20251228192000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Under the Skin (Tottenham Hotspur)</title>
-</programme>
-<programme start="20251228192000 +0000" stop="20251228195000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: PL Stories (Bournemouth - Against All Odds)</title>
-</programme>
-<programme start="20251228195000 +0000" stop="20251228200500 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>EFL: Highlights XXL: Coventry County - Swansea City, 23. Spieltag</title>
-</programme>
-<programme start="20251228200500 +0000" stop="20251228204000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Highlights Sonntag, 18. Spieltag</title>
-</programme>
-<programme start="20251228204000 +0000" stop="20251228210000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Ultimates: Frank Lampard&#039;s Best PL Goal</title>
-</programme>
-<programme start="20251228210000 +0000" stop="20251228213000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 90in30: CRY - TOT, 18. Spieltag</title>
-</programme>
-<programme start="20251228213000 +0000" stop="20251228220000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 90in30: SUN - LEE, 18. Spieltag</title>
-</programme>
-<programme start="20251228220000 +0000" stop="20251228223500 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Highlights Sonntag, 18. Spieltag</title>
-</programme>
-<programme start="20251228223500 +0000" stop="20251228233500 +0000" channel="Sky Sport Premier League HD.skyde">
+<programme start="20251221120000 +0000" stop="20251221130000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: 1 to 11 (Thomas Hitzelsberger)</title>
+</programme>
+<programme start="20251221130000 +0000" stop="20251221133000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: 90in30: EVE - ARS, 17. Spieltag</title>
+</programme>
+<programme start="20251221133000 +0000" stop="20251221140000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: 90in30: TOT - LIV, 17. Spieltag</title>
+</programme>
+<programme start="20251221140000 +0000" stop="20251221143000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: 90in30: LEE - CRY, 17. Spieltag</title>
+</programme>
+<programme start="20251221143000 +0000" stop="20251221150000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: 90in30: NEW - CHE, 17. Spieltag</title>
+</programme>
+<programme start="20251221150000 +0000" stop="20251221153000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: 90in30: EVE - ARS, 17. Spieltag</title>
+</programme>
+<programme start="20251221153000 +0000" stop="20251221160000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: 90in30: TOT - LIV, 17. Spieltag</title>
+</programme>
+<programme start="20251221160000 +0000" stop="20251221183000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>Live PL: Aston Villa - Manchester United, Match of the Week, 17. Spieltag</title>
+</programme>
+<programme start="20251221183000 +0000" stop="20251221190000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>Live PL: Match of the Week: Die Analyse, AVL - MUN, 17. Spieltag</title>
+</programme>
+<programme start="20251221190000 +0000" stop="20251221193000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>Live PL: All Goals: Die Highlight-Show, 17. Spieltag</title>
+</programme>
+<programme start="20251221193000 +0000" stop="20251221200000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: PL Stories (Edwin van der Sar)</title>
+</programme>
+<programme start="20251221200000 +0000" stop="20251221201500 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Fergie - Rise of a Dynasty</title>
+</programme>
+<programme start="20251221201500 +0000" stop="20251221203000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Rooney - Out of this World</title>
+</programme>
+<programme start="20251221203000 +0000" stop="20251221210000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: PL Stories (Wayne Rooney)</title>
+</programme>
+<programme start="20251221210000 +0000" stop="20251221213000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>EFL: 90in30: AVL - MUN, 17. Spieltag</title>
+</programme>
+<programme start="20251221213000 +0000" stop="20251221220000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Match of the Week: Die Analyse, AVL - MUN, 17. Spieltag</title>
+</programme>
+<programme start="20251221220000 +0000" stop="20251221223000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: All Goals: Die Highlight-Show, 17. Spieltag</title>
+</programme>
+<programme start="20251221223000 +0000" stop="20251221230000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Liverpool Classic Match: FC Liverpool - Tottenham Hotspur (2018/2019)</title>
 </programme>
 <programme start="20251221003000 +0000" stop="20251221020500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Next Gen ATP Finals: L. Tien (USA) - N. Basavareddy (USA), Halbfinale 2 in Jeddah (SAU)</title>
