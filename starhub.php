@@ -2783,7 +2783,7 @@
         <title>Zee Flix</title>
     </programme>
     <programme start="20251221210000 +0000" stop="20251221220000 +0000" channel="Zee Tamil.starhub">
-        <title>Thamizha Thamizha S03</title>
+        <title>Thamizha Thamizha S3</title>
     </programme>
     <programme start="20251221220000 +0000" stop="20251221223000 +0000" channel="Zee Tamil.starhub">
         <title>Annamalai Kudumbam</title>

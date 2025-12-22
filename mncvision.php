@@ -6442,7 +6442,156 @@
 <programme start="20251222050000 +0000" stop="20251222053000 +0000" channel="NHK World.mncvision">
     <title>NHK Newsline</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20251221180000 +0000" stop="20251221183000 +0000" channel="NHK World Premium.mncvision">
+    <title>What The Villains Have To Say</title>
+</programme>
+<programme start="20251221183000 +0000" stop="20251221190000 +0000" channel="NHK World Premium.mncvision">
+    <title>Science Zero</title>
+</programme>
+<programme start="20251221190000 +0000" stop="20251221193000 +0000" channel="NHK World Premium.mncvision">
+    <title>Fish Masters</title>
+</programme>
+<programme start="20251221193000 +0000" stop="20251221195800 +0000" channel="NHK World Premium.mncvision">
+    <title>Tokyo Local Information</title>
+</programme>
+<programme start="20251221195800 +0000" stop="20251221200000 +0000" channel="NHK World Premium.mncvision">
+    <title>World Weather</title>
+</programme>
+<programme start="20251221200000 +0000" stop="20251221210000 +0000" channel="NHK World Premium.mncvision">
+    <title>Ichibata Electric Railway</title>
+</programme>
+<programme start="20251221210000 +0000" stop="20251221220000 +0000" channel="NHK World Premium.mncvision">
+    <title>News: Good Morning, Japan</title>
+</programme>
+<programme start="20251221220000 +0000" stop="20251221230000 +0000" channel="NHK World Premium.mncvision">
+    <title>News: Good Morning, Japan</title>
+</programme>
+<programme start="20251221230000 +0000" stop="20251221231500 +0000" channel="NHK World Premium.mncvision">
+    <title>The Ghost Writer&#039;s Wife, Ep 61</title>
+</programme>
+<programme start="20251221231500 +0000" stop="20251222005400 +0000" channel="NHK World Premium.mncvision">
+    <title>Asaichi</title>
+</programme>
+<programme start="20251222005400 +0000" stop="20251222005500 +0000" channel="NHK World Premium.mncvision">
+    <title>World Weather</title>
+</programme>
+<programme start="20251222005500 +0000" stop="20251222010000 +0000" channel="NHK World Premium.mncvision">
+    <title>Exercise For Everyone</title>
+</programme>
+<programme start="20251222010000 +0000" stop="20251222010500 +0000" channel="NHK World Premium.mncvision">
+    <title>News &amp; Weather</title>
+</programme>
+<programme start="20251222010500 +0000" stop="20251222015300 +0000" channel="NHK World Premium.mncvision">
+    <title>Project X: The Challengers</title>
+</programme>
+<programme start="20251222015300 +0000" stop="20251222015800 +0000" channel="NHK World Premium.mncvision">
+    <title>Ukiyoe Edo-Life</title>
+</programme>
+<programme start="20251222015800 +0000" stop="20251222020500 +0000" channel="NHK World Premium.mncvision">
+    <title>Mini Program</title>
+</programme>
+<programme start="20251222020500 +0000" stop="20251222025000 +0000" channel="NHK World Premium.mncvision">
+    <title>Family History: Shimizu Michiko</title>
+</programme>
+<programme start="20251222025000 +0000" stop="20251222025600 +0000" channel="NHK World Premium.mncvision">
+    <title>Songs For Everyone</title>
+</programme>
+<programme start="20251222025600 +0000" stop="20251222030000 +0000" channel="NHK World Premium.mncvision">
+    <title>World Weather</title>
+</programme>
+<programme start="20251222030000 +0000" stop="20251222032000 +0000" channel="NHK World Premium.mncvision">
+    <title>News</title>
+</programme>
+<programme start="20251222032000 +0000" stop="20251222032800 +0000" channel="NHK World Premium.mncvision">
+    <title>Information Worth Knowing...</title>
+</programme>
+<programme start="20251222032800 +0000" stop="20251222033000 +0000" channel="NHK World Premium.mncvision">
+    <title>Mini Program</title>
+</programme>
+<programme start="20251222033000 +0000" stop="20251222034500 +0000" channel="NHK World Premium.mncvision">
+    <title>Massan Encore, Ep 1</title>
+</programme>
+<programme start="20251222034500 +0000" stop="20251222040000 +0000" channel="NHK World Premium.mncvision">
+    <title>The Ghost Writer&#039;s Wife, Ep 61</title>
+</programme>
+<programme start="20251222040000 +0000" stop="20251222040500 +0000" channel="NHK World Premium.mncvision">
+    <title>News</title>
+</programme>
+<programme start="20251222040500 +0000" stop="20251222055000 +0000" channel="NHK World Premium.mncvision">
+    <title>News Around Japan</title>
+</programme>
+<programme start="20251222055000 +0000" stop="20251222055500 +0000" channel="NHK World Premium.mncvision">
+    <title>World Weather</title>
+</programme>
+<programme start="20251222055500 +0000" stop="20251222060000 +0000" channel="NHK World Premium.mncvision">
+    <title>World Music Album</title>
+</programme>
+<programme start="20251222060000 +0000" stop="20251222061000 +0000" channel="NHK World Premium.mncvision">
+    <title>News &amp; Weather</title>
+</programme>
+<programme start="20251222061000 +0000" stop="20251222063500 +0000" channel="NHK World Premium.mncvision">
+    <title>My Gardening</title>
+</programme>
+<programme start="20251222063500 +0000" stop="20251222064000 +0000" channel="NHK World Premium.mncvision">
+    <title>Kyoto&#039;s Hidamariya Garden Shop</title>
+</programme>
+<programme start="20251222064000 +0000" stop="20251222065000 +0000" channel="NHK World Premium.mncvision">
+    <title>Points At Issue</title>
+</programme>
+<programme start="20251222065000 +0000" stop="20251222073500 +0000" channel="NHK World Premium.mncvision">
+    <title>Fountain Of Ancient Wisdom</title>
+</programme>
+<programme start="20251222073500 +0000" stop="20251222080000 +0000" channel="NHK World Premium.mncvision">
+    <title>Exploring Factories</title>
+</programme>
+<programme start="20251222080000 +0000" stop="20251222081000 +0000" channel="NHK World Premium.mncvision">
+    <title>PythagoraSwitch</title>
+</programme>
+<programme start="20251222081000 +0000" stop="20251222082000 +0000" channel="NHK World Premium.mncvision">
+    <title>Fun With Japanese</title>
+</programme>
+<programme start="20251222082000 +0000" stop="20251222083500 +0000" channel="NHK World Premium.mncvision">
+    <title>Peek-A-Boo</title>
+</programme>
+<programme start="20251222083500 +0000" stop="20251222085900 +0000" channel="NHK World Premium.mncvision">
+    <title>With Mother</title>
+</programme>
+<programme start="20251222085900 +0000" stop="20251222090000 +0000" channel="NHK World Premium.mncvision">
+    <title>1-Minute Anime: Songs For SDGs</title>
+</programme>
+<programme start="20251222090000 +0000" stop="20251222091000 +0000" channel="NHK World Premium.mncvision">
+    <title>News</title>
+</programme>
+<programme start="20251222091000 +0000" stop="20251222092500 +0000" channel="NHK World Premium.mncvision">
+    <title>Kid&#039;s Discovery</title>
+</programme>
+<programme start="20251222092500 +0000" stop="20251222095600 +0000" channel="NHK World Premium.mncvision">
+    <title>Nyan-Chu! Space! Broadcasting!</title>
+</programme>
+<programme start="20251222095600 +0000" stop="20251222100000 +0000" channel="NHK World Premium.mncvision">
+    <title>World Weather</title>
+</programme>
+<programme start="20251222100000 +0000" stop="20251222103000 +0000" channel="NHK World Premium.mncvision">
+    <title>NHK News</title>
+</programme>
+<programme start="20251222103000 +0000" stop="20251222114300 +0000" channel="NHK World Premium.mncvision">
+    <title>Today&#039;s Close-Up</title>
+</programme>
+<programme start="20251222114300 +0000" stop="20251222114500 +0000" channel="NHK World Premium.mncvision">
+    <title>Mini Program</title>
+</programme>
+<programme start="20251222114500 +0000" stop="20251222120000 +0000" channel="NHK World Premium.mncvision">
+    <title>NHK News</title>
+</programme>
+<programme start="20251222120000 +0000" stop="20251222130000 +0000" channel="NHK World Premium.mncvision">
+    <title>News Watch 9</title>
+</programme>
+<programme start="20251222130000 +0000" stop="20251222134500 +0000" channel="NHK World Premium.mncvision">
+    <title>Fountain Of Ancient Wisdom</title>
+</programme>
+<programme start="20251222134500 +0000" stop="20251222141500 +0000" channel="NHK World Premium.mncvision">
+    <title>Mini Program</title>
+</programme>
 <programme start="20251221170000 +0000" stop="20251221172000 +0000" channel="Nick Jr. HD.mncvision">
     <title>Dora</title>
 </programme>
@@ -7052,7 +7201,45 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20251222160800 +0000" stop="20251222163800 +0000" channel="ORIGINALS.mncvision">
     <title>An Innocent Kiss</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20251221171100 +0000" stop="20251221184900 +0000" channel="ORIGINALS HD.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20251221184900 +0000" stop="20251221223200 +0000" channel="ORIGINALS HD.mncvision">
+    <title>A Perfect Day</title>
+</programme>
+<programme start="20251221223200 +0000" stop="20251222002200 +0000" channel="ORIGINALS HD.mncvision">
+    <title>Literally, Right Before Aaron</title>
+</programme>
+<programme start="20251222002200 +0000" stop="20251222015900 +0000" channel="ORIGINALS HD.mncvision">
+    <title>Black Ice</title>
+</programme>
+<programme start="20251222015900 +0000" stop="20251222034500 +0000" channel="ORIGINALS HD.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20251222034500 +0000" stop="20251222051800 +0000" channel="ORIGINALS HD.mncvision">
+    <title>Albatross</title>
+</programme>
+<programme start="20251222051800 +0000" stop="20251222070400 +0000" channel="ORIGINALS HD.mncvision">
+    <title>Gold</title>
+</programme>
+<programme start="20251222070400 +0000" stop="20251222091500 +0000" channel="ORIGINALS HD.mncvision">
+    <title>Mystery Road</title>
+</programme>
+<programme start="20251222091500 +0000" stop="20251222104300 +0000" channel="ORIGINALS HD.mncvision">
+    <title>Natural Born Liar</title>
+</programme>
+<programme start="20251222104300 +0000" stop="20251222123600 +0000" channel="ORIGINALS HD.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20251222123600 +0000" stop="20251222142200 +0000" channel="ORIGINALS HD.mncvision">
+    <title>Boy Wonder</title>
+</programme>
+<programme start="20251222142200 +0000" stop="20251222160800 +0000" channel="ORIGINALS HD.mncvision">
+    <title>Gold</title>
+</programme>
+<programme start="20251222160800 +0000" stop="20251222163800 +0000" channel="ORIGINALS HD.mncvision">
+    <title>An Innocent Kiss</title>
+</programme>
 <programme start="20251221170000 +0000" stop="20251221173000 +0000" channel="Outdoor Channel.mncvision">
     <title>Fishing The Wild S1, Ep 9</title>
 </programme>
