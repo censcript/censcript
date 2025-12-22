@@ -17,7 +17,7 @@
         <title> Từ những miền quê : Nghề làm bánh xíu páo </title>
     </programme>
     <programme start="20251222033000 +0000" stop="20251222034500 +0000" channel="VTV1 HD.mytv">
-        <title> VTV Sống khỏe </title>
+        <title> VTV Sống khỏe : Chạy bộ với sức khỏe người cao tuổi </title>
     </programme>
     <programme start="20251222034500 +0000" stop="20251222043000 +0000" channel="VTV1 HD.mytv">
         <title> Không gian văn hóa nghệ thuật </title>
@@ -26,7 +26,7 @@
         <title> Phim truyện : Chạy trốn thanh xuân - Tập 11 </title>
     </programme>
     <programme start="20251222051500 +0000" stop="20251222060500 +0000" channel="VTV1 HD.mytv">
-        <title> S - Việt Nam </title>
+        <title> S - Việt Nam : Những người chinh phục đá ở Đồng Văn </title>
     </programme>
     <programme start="20251222060500 +0000" stop="20251222061000 +0000" channel="VTV1 HD.mytv">
         <title> Hành trình hy vọng </title>
@@ -38,7 +38,7 @@
         <title> Tài chính - Kinh doanh </title>
     </programme>
     <programme start="20251222080000 +0000" stop="20251222083000 +0000" channel="VTV1 HD.mytv">
-        <title> Phim tài liệu </title>
+        <title> Phim tài liệu : Khẳng định vai trò trụ cột </title>
     </programme>
     <programme start="20251222083000 +0000" stop="20251222090000 +0000" channel="VTV1 HD.mytv">
         <title> Phim truyện : Hoa sữa về trong gió - Tập 32 </title>
@@ -56,7 +56,7 @@
         <title> VTV kết nối </title>
     </programme>
     <programme start="20251222104500 +0000" stop="20251222110000 +0000" channel="VTV1 HD.mytv">
-        <title> Phim tài liệu </title>
+        <title> Phim tài liệu : Phía sau những dòng tin </title>
     </programme>
     <programme start="20251222110000 +0000" stop="20251222112500 +0000" channel="VTV1 HD.mytv">
         <title> Toàn cảnh thế giới </title>
@@ -80,7 +80,7 @@
         <title> VTV Sống khỏe </title>
     </programme>
     <programme start="20251222140000 +0000" stop="20251222144500 +0000" channel="VTV1 HD.mytv">
-        <title> Một vòng Việt Nam </title>
+        <title> Một vòng Việt Nam : Một ngày chạm vào hồn Việt </title>
     </programme>
     <programme start="20251222144500 +0000" stop="20251222145000 +0000" channel="VTV1 HD.mytv">
         <title> Giao lưu điển hình tiêu biểu trong Học và làm theo Bác </title>
@@ -107,10 +107,10 @@
         <title> Thông điệp từ bác sĩ </title>
     </programme>
     <programme start="20251222180000 +0000" stop="20251222181000 +0000" channel="VTV1 HD.mytv">
-        <title> Cải cách hành chính </title>
+        <title> Cải cách hành chính : Đẩy mạnh số hoá dữ liệu đất đai </title>
     </programme>
     <programme start="20251222181000 +0000" stop="20251222182000 +0000" channel="VTV1 HD.mytv">
-        <title> Hành trình vẻ đẹp </title>
+        <title> Hành trình vẻ đẹp : Ngôi làng cổ tích Lô Lô Chải </title>
     </programme>
     <programme start="20251222182000 +0000" stop="20251222183000 +0000" channel="VTV1 HD.mytv">
         <title> Việt Nam hôm nay </title>
@@ -131,13 +131,13 @@
         <title> Điểm tin </title>
     </programme>
     <programme start="20251222205500 +0000" stop="20251222210000 +0000" channel="VTV1 HD.mytv">
-        <title> S - Việt Nam : Mùa táo muối bàng La </title>
+        <title> S - Việt Nam : Mùa táo muối Bàng La </title>
     </programme>
     <programme start="20251222210000 +0000" stop="20251222210500 +0000" channel="VTV1 HD.mytv">
         <title> Việt Nam vui khỏe </title>
     </programme>
     <programme start="20251222210500 +0000" stop="20251222211000 +0000" channel="VTV1 HD.mytv">
-        <title> Quốc hội với cử tri </title>
+        <title> Quốc hội với cử tri : Lan tỏa giải báo chí Diên Hồng </title>
     </programme>
     <programme start="20251222211000 +0000" stop="20251222213000 +0000" channel="VTV1 HD.mytv">
         <title> Net Zero - Gửi tương lai </title>
@@ -161,7 +161,7 @@
         <title> Thế giới hôm nay </title>
     </programme>
     <programme start="20251222231500 +0000" stop="20251222233000 +0000" channel="VTV1 HD.mytv">
-        <title> Phim tài liệu </title>
+        <title> Phim tài liệu : Hào khí Tây Đô </title>
     </programme>
     <programme start="20251222233000 +0000" stop="20251223000000 +0000" channel="VTV1 HD.mytv">
         <title> Bản tin </title>
@@ -173,7 +173,7 @@
         <title> Theo dấu chân Người </title>
     </programme>
     <programme start="20251223002500 +0000" stop="20251223003000 +0000" channel="VTV1 HD.mytv">
-        <title> Ký sự </title>
+        <title> Ký sự : Thợ nấu quê tôi </title>
     </programme>
     <programme start="20251223003000 +0000" stop="20251223004500 +0000" channel="VTV1 HD.mytv">
         <title> Khám phá Việt Nam : Quà quê giữa lòng phố thị</title>
