@@ -6458,7 +6458,7 @@
     <title>World Weather</title>
 </programme>
 <programme start="20251221200000 +0000" stop="20251221210000 +0000" channel="NHK World Premium.mncvision">
-    <title>Ichibata Electric Railway</title>
+    <title>Seiji&#039;s Nomitetsu Railroad Trip</title>
 </programme>
 <programme start="20251221210000 +0000" stop="20251221220000 +0000" channel="NHK World Premium.mncvision">
     <title>News: Good Morning, Japan</title>
