@@ -58,6 +58,10 @@
     <title>Football: Real Madrid CF - Manchester City FC</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251224005000 +0700" stop="20251224025500 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: AS Monaco FC - Galatasaray AS</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251222222000 +0700" stop="20251223004000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Olympiacos - Kifisia</title>
     <desc>Live: Tidak</desc>
@@ -112,6 +116,10 @@
 </programme>
 <programme start="20251223223500 +0700" stop="20251224005000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: AEL Novibet - Atromitos</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251224005000 +0700" stop="20251224025000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Juventus Football Club - AS Roma</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251222213000 +0700" stop="20251223004000 +0700" channel="COSMOTE Sport 3 HD">
@@ -186,14 +194,6 @@
     <title>Football: Heart of Midlothian - Rangers FC</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251222215000 +0700" stop="20251222234000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Szolnoki Olaj - AEK</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251222234000 +0700" stop="20251223000000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Sports Classics: Worldies E16</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251223000000 +0700" stop="20251223023000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Atlanta Hawks - Chicago Bulls</title>
     <desc>Live: Tidak</desc>
@@ -244,10 +244,6 @@
 </programme>
 <programme start="20251223235500 +0700" stop="20251224015500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Barcelona - Badalona</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251222222000 +0700" stop="20251222232500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>2025 Extreme H</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251222232500 +0700" stop="20251223003000 +0700" channel="COSMOTE Sport 5 HD">
@@ -374,6 +370,10 @@
     <title>Volleyball: Allianz Powervolley Milano - VakifBank Istanbul</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251224000000 +0700" stop="20251224015500 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Volleyball: A. Carraro Imoco Conegliano - Savino Del Bene Scandicci</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251222230000 +0700" stop="20251223010000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
@@ -423,6 +423,14 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251223230000 +0700" stop="20251224000000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251224000000 +0700" stop="20251224003000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251224003000 +0700" stop="20251224010000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
