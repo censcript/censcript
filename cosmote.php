@@ -58,6 +58,10 @@
     <title>Highlights: UEL &amp; UECL 2025-26</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251223203000 +0700" stop="20251223225000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: AEK - Universitatea Craiova</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251222181000 +0700" stop="20251222202000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Volos - Panetolikos</title>
     <desc>Live: Tidak</desc>
@@ -114,8 +118,8 @@
     <title>Football: Olympiacos - Kifisia</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251222173000 +0700" stop="20251222193000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Heart of Midlothian - Rangers FC</title>
+<programme start="20251223203500 +0700" stop="20251223223500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: ACF Fiorentina - Udinese</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251222193000 +0700" stop="20251222213000 +0700" channel="COSMOTE Sport 3 HD">
@@ -186,10 +190,6 @@
     <title>Football: Swansea City - Wrexham</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251222170000 +0700" stop="20251222193000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Atlanta Hawks - Chicago Bulls</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251222193000 +0700" stop="20251222213000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Barcelona - Badalona</title>
     <desc>Live: Tidak</desc>
@@ -244,10 +244,6 @@
 </programme>
 <programme start="20251223193000 +0700" stop="20251223213000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Virtus Bologna - Brescia</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251222181000 +0700" stop="20251222191000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251222191000 +0700" stop="20251222203500 +0700" channel="COSMOTE Sport 5 HD">
@@ -334,8 +330,8 @@
     <title>WRC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251222165000 +0700" stop="20251222192500 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Fight Sports: UFC Fight Night 2025</title>
+<programme start="20251223203500 +0700" stop="20251223220000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251222192500 +0700" stop="20251222223500 +0700" channel="COSMOTE Sport 6 HD">
