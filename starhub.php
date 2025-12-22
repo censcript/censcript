@@ -2053,14 +2053,14 @@
     <programme start="20251222000000 +0000" stop="20251222010000 +0000" channel="CNN HD.starhub">
         <title>CNN Newsroom Sunday</title>
     </programme>
-    <programme start="20251222010000 +0000" stop="20251222013000 +0000" channel="CNN HD.starhub">
+    <programme start="20251222010000 +0000" stop="20251222020000 +0000" channel="CNN HD.starhub">
+        <title>The Whole Story: Rob Reiner: His Life and Legacy</title>
+    </programme>
+    <programme start="20251222020000 +0000" stop="20251222023000 +0000" channel="CNN HD.starhub">
         <title>Mohamed Mansour</title>
     </programme>
-    <programme start="20251222013000 +0000" stop="20251222020000 +0000" channel="CNN HD.starhub">
+    <programme start="20251222023000 +0000" stop="20251222030000 +0000" channel="CNN HD.starhub">
         <title>Botswana&#039;s Sports Stars</title>
-    </programme>
-    <programme start="20251222020000 +0000" stop="20251222030000 +0000" channel="CNN HD.starhub">
-        <title>Fareed Zakaria GPS</title>
     </programme>
     <programme start="20251222030000 +0000" stop="20251222033000 +0000" channel="CNN HD.starhub">
         <title>Julie Mehretu, Contemporary Visual Artist</title>

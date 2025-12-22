@@ -2730,10 +2730,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251222213000 +0000" stop="20251223003000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: AfrAsia Bank Mauritius Open, 4. Tag in Bel Ombre, Mauritius</title>
 </programme>
-<programme start="20251221230000 +0000" stop="20251222013000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20251221230000 +0000" stop="20251222013500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NBA: Miami Heat @ New York Knicks</title>
 </programme>
-<programme start="20251222013000 +0000" stop="20251222033000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20251222013500 +0000" stop="20251222033000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Washington Capitals @ Detroit Red Wings</title>
 </programme>
 <programme start="20251222033000 +0000" stop="20251222043000 +0000" channel="Sky Sport Mix HD.skyde">
@@ -3021,14 +3021,17 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251222223000 +0000" stop="20251222233000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: Review Wien</title>
 </programme>
-<programme start="20251221230000 +0000" stop="20251222013000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20251221230000 +0000" stop="20251222013500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Miami Heat @ New York Knicks</title>
 </programme>
-<programme start="20251222013000 +0000" stop="20251222033000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20251222013500 +0000" stop="20251222033000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>NHL: Washington Capitals @ Detroit Red Wings</title>
 </programme>
-<programme start="20251222033000 +0000" stop="20251222060000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20251222033000 +0000" stop="20251222050000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Next Gen ATP Finals: L. Tien (USA) - A. Blockx (BEL), Finale in Jeddah (SAU)</title>
+</programme>
+<programme start="20251222050000 +0000" stop="20251222060000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>NHL: On the Fly</title>
 </programme>
 <programme start="20251222060000 +0000" stop="20251222063000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Frauen-BL: Alle Spiele, alle Tore, 14. Spieltag, Sonntag</title>
@@ -3054,7 +3057,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251222114500 +0000" stop="20251222120000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>NHL: Highlights VGK@EDM</title>
 </programme>
-<programme start="20251222120000 +0000" stop="20251222143000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20251222120000 +0000" stop="20251222130000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>NHL: On the Fly</title>
+</programme>
+<programme start="20251222130000 +0000" stop="20251222143000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Next Gen ATP Finals: L. Tien (USA) - A. Blockx (BEL), Finale in Jeddah (SAU)</title>
 </programme>
 <programme start="20251222143000 +0000" stop="20251222170000 +0000" channel="Sky Sport Top Event HD.skyde">

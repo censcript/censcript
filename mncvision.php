@@ -1550,12 +1550,15 @@
     <title>Investor Market Today</title>
 </programme>
 <programme start="20251222033000 +0000" stop="20251222040000 +0000" channel="BTV.mncvision">
-    <title>30 Minutes With Kemenag</title>
+    <title>Berita Kriminal</title>
 </programme>
 <programme start="20251222040000 +0000" stop="20251222060000 +0000" channel="BTV.mncvision">
     <title>Berita Satu Siang</title>
 </programme>
-<programme start="20251222060000 +0000" stop="20251222073000 +0000" channel="BTV.mncvision">
+<programme start="20251222060000 +0000" stop="20251222063000 +0000" channel="BTV.mncvision">
+    <title>30 Minutes With Kemenag</title>
+</programme>
+<programme start="20251222063000 +0000" stop="20251222073000 +0000" channel="BTV.mncvision">
     <title>Spot On</title>
 </programme>
 <programme start="20251222073000 +0000" stop="20251222080000 +0000" channel="BTV.mncvision">
