@@ -54,10 +54,6 @@
     <title>Football: Celtic FC - AS Roma</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251223034500 +0700" stop="20251223055000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: AEL Novibet - Atromitos</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251223055000 +0700" stop="20251223080000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: AEK - OFI</title>
     <desc>Live: Tidak</desc>
@@ -105,10 +101,6 @@
 <programme start="20251224050000 +0700" stop="20251224070000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Cagliari - Pisa</title>
     <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251223034500 +0700" stop="20251223054500 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: SL Benfica - Famalicao (L)</title>
-    <desc>Live: Ya</desc>
 </programme>
 <programme start="20251223054500 +0700" stop="20251223061000 +0700" channel="COSMOTE Sport 3 HD">
     <title>William Hill Scottish Premiership - Highlights</title>
@@ -174,8 +166,8 @@
     <title>Emirates FA Cup 2025-26 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251223043000 +0700" stop="20251223053000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>NBA Specials: Basketball Stories</title>
+<programme start="20251224064500 +0700" stop="20251224084500 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: APOEL - Freedom24 Krasava E.N.Y</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251223053000 +0700" stop="20251223080000 +0700" channel="COSMOTE Sport 4 HD">
@@ -230,8 +222,8 @@
     <title>Basketball: New Orleans Pelicans - Dallas Mavericks</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251223043500 +0700" stop="20251223052500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC 2025</title>
+<programme start="20251224064500 +0700" stop="20251224071000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>NBA Specials</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251223052500 +0700" stop="20251223063000 +0700" channel="COSMOTE Sport 5 HD">
@@ -311,6 +303,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251224053000 +0700" stop="20251224063000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251224063000 +0700" stop="20251224070000 +0700" channel="COSMOTE Sport 5 HD">
     <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
