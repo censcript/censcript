@@ -106,6 +106,10 @@
     <title>Football: Volos - Panetolikos</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251223141000 +0700" stop="20251223161000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: SS Lazio - Cremonese</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251222120000 +0700" stop="20251222151500 +0700" channel="COSMOTE Sport 3 HD">
     <title>American Football: Detroit Lions - Pittsburgh Steelers</title>
     <desc>Live: Tidak</desc>
@@ -318,10 +322,6 @@
     <title>WRC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251222110000 +0700" stop="20251222134500 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Fight Sports: Oktagon 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251222134500 +0700" stop="20251222165000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Fight Sports: Oktagon 2025</title>
     <desc>Live: Tidak</desc>
@@ -356,6 +356,10 @@
 </programme>
 <programme start="20251223125000 +0700" stop="20251223144000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Volleyball: CSM Volei Alba Blaj - Igor Gorgonzola Novara</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251223144000 +0700" stop="20251223172500 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Volleyball: Resovia Rzeszow - Ziraat Bankasi SK Ankara</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251222130000 +0700" stop="20251222150000 +0700" channel="COSMOTE Sport 7 HD">
