@@ -1234,113 +1234,107 @@
 <programme start="20251223090000 +0000" stop="20251223120000 +0000" channel="DAAI TV.vision">
 <title>DAAI TV</title>
 </programme>
-<programme start="20251222000000 +0000" stop="20251222010500 +0000" channel="MDTV.vision">
-<title>AADD: Ada Apa Dengan Dunia</title>
+<programme start="20251221235000 +0000" stop="20251222010500 +0000" channel="MDTV.vision">
+<title>MDTV</title>
 </programme>
-<programme start="20251222010500 +0000" stop="20251222015000 +0000" channel="MDTV.vision">
-<title>Fakta +62</title>
+<programme start="20251222010500 +0000" stop="20251222015500 +0000" channel="MDTV.vision">
+<title>MDTV</title>
 </programme>
-<programme start="20251222015000 +0000" stop="20251222024500 +0000" channel="MDTV.vision">
-<title>Sensasihot</title>
+<programme start="20251222015500 +0000" stop="20251222025000 +0000" channel="MDTV.vision">
+<title>MDTV</title>
 </programme>
-<programme start="20251222024500 +0000" stop="20251222034500 +0000" channel="MDTV.vision">
-<title>Marimar</title>
+<programme start="20251222025000 +0000" stop="20251222040000 +0000" channel="MDTV.vision">
+<title>MDTV</title>
 </programme>
-<programme start="20251222034500 +0000" stop="20251222050500 +0000" channel="MDTV.vision">
-<title>Cerita Nyata</title>
+<programme start="20251222040000 +0000" stop="20251222051500 +0000" channel="MDTV.vision">
+<title>MDTV</title>
 </programme>
-<programme start="20251222050500 +0000" stop="20251222071000 +0000" channel="MDTV.vision">
-<title>Cinta Fitri S5</title>
+<programme start="20251222051500 +0000" stop="20251222072500 +0000" channel="MDTV.vision">
+<title>MDTV</title>
 </programme>
-<programme start="20251222071000 +0000" stop="20251222080500 +0000" channel="MDTV.vision">
-<title>Makan Enak</title>
+<programme start="20251222072500 +0000" stop="20251222081000 +0000" channel="MDTV.vision">
+<title>MDTV</title>
 </programme>
-<programme start="20251222080500 +0000" stop="20251222090500 +0000" channel="MDTV.vision">
-<title>Masak Gesss!!!</title>
+<programme start="20251222081000 +0000" stop="20251222091000 +0000" channel="MDTV.vision">
+<title>MDTV</title>
 </programme>
-<programme start="20251222090500 +0000" stop="20251222101000 +0000" channel="MDTV.vision">
-<title>Adit Sopo Jarwo</title>
+<programme start="20251222091000 +0000" stop="20251222100000 +0000" channel="MDTV.vision">
+<title>MDTV</title>
 </programme>
-<programme start="20251222101000 +0000" stop="20251222110000 +0000" channel="MDTV.vision">
-<title>Cinta Paulina</title>
+<programme start="20251222100000 +0000" stop="20251222104500 +0000" channel="MDTV.vision">
+<title>MDTV</title>
 </programme>
-<programme start="20251222110000 +0000" stop="20251222114500 +0000" channel="MDTV.vision">
-<title>Maria Cinta Yang Hilang</title>
+<programme start="20251222104500 +0000" stop="20251222114500 +0000" channel="MDTV.vision">
+<title>MDTV</title>
 </programme>
 <programme start="20251222114500 +0000" stop="20251222123000 +0000" channel="MDTV.vision">
-<title>Maria Mercedes</title>
+<title>MDTV</title>
 </programme>
-<programme start="20251222123000 +0000" stop="20251222133000 +0000" channel="MDTV.vision">
-<title>Pernikahan Dini Gen Z</title>
+<programme start="20251222123000 +0000" stop="20251222132500 +0000" channel="MDTV.vision">
+<title>MDTV</title>
 </programme>
-<programme start="20251222133000 +0000" stop="20251222142000 +0000" channel="MDTV.vision">
-<title>Ipar Adalah Maut: The Series</title>
+<programme start="20251222132500 +0000" stop="20251222143000 +0000" channel="MDTV.vision">
+<title>MDTV</title>
 </programme>
-<programme start="20251222142000 +0000" stop="20251222150500 +0000" channel="MDTV.vision">
-<title>My Lecturer My Husband S1</title>
+<programme start="20251222143000 +0000" stop="20251222152500 +0000" channel="MDTV.vision">
+<title>MDTV</title>
 </programme>
-<programme start="20251222150500 +0000" stop="20251222161000 +0000" channel="MDTV.vision">
-<title>My ID Is Gangnam Beauty</title>
+<programme start="20251222152500 +0000" stop="20251222162500 +0000" channel="MDTV.vision">
+<title>MDTV</title>
 </programme>
-<programme start="20251222161000 +0000" stop="20251222172000 +0000" channel="MDTV.vision">
-<title>Cheat On Me, If You Can</title>
+<programme start="20251222162500 +0000" stop="20251222174000 +0000" channel="MDTV.vision">
+<title>MDTV</title>
 </programme>
-<programme start="20251222172000 +0000" stop="20251222184500 +0000" channel="MDTV.vision">
-<title>Jatanras</title>
+<programme start="20251222174000 +0000" stop="20251222200000 +0000" channel="MDTV.vision">
+<title>MDTV</title>
 </programme>
-<programme start="20251222184500 +0000" stop="20251222193000 +0000" channel="MDTV.vision">
-<title>86</title>
+<programme start="20251222200000 +0000" stop="20251222210000 +0000" channel="MDTV.vision">
+<title>MDTV</title>
 </programme>
-<programme start="20251222193000 +0000" stop="20251222202000 +0000" channel="MDTV.vision">
-<title>Inilah Kisahnya</title>
+<programme start="20251222210000 +0000" stop="20251222220000 +0000" channel="MDTV.vision">
+<title>MDTV</title>
 </programme>
-<programme start="20251222202000 +0000" stop="20251222211000 +0000" channel="MDTV.vision">
-<title>Di Balik Mitos</title>
+<programme start="20251222220000 +0000" stop="20251222230000 +0000" channel="MDTV.vision">
+<title>MDTV</title>
 </programme>
-<programme start="20251222211000 +0000" stop="20251222222000 +0000" channel="MDTV.vision">
-<title>Keajaiban Dunia</title>
+<programme start="20251222230000 +0000" stop="20251223000000 +0000" channel="MDTV.vision">
+<title>MDTV</title>
 </programme>
-<programme start="20251222222000 +0000" stop="20251222231000 +0000" channel="MDTV.vision">
-<title>Top Spot</title>
+<programme start="20251223000000 +0000" stop="20251223010000 +0000" channel="MDTV.vision">
+<title>MDTV</title>
 </programme>
-<programme start="20251222231000 +0000" stop="20251223000000 +0000" channel="MDTV.vision">
-<title>All Hail King Julien</title>
+<programme start="20251223010000 +0000" stop="20251223020000 +0000" channel="MDTV.vision">
+<title>MDTV</title>
 </programme>
-<programme start="20251223000000 +0000" stop="20251223010500 +0000" channel="MDTV.vision">
-<title>AADD: Ada Apa Dengan Dunia</title>
+<programme start="20251223020000 +0000" stop="20251223030000 +0000" channel="MDTV.vision">
+<title>MDTV</title>
 </programme>
-<programme start="20251223010500 +0000" stop="20251223015000 +0000" channel="MDTV.vision">
-<title>Fakta +62</title>
+<programme start="20251223030000 +0000" stop="20251223035500 +0000" channel="MDTV.vision">
+<title>MDTV</title>
 </programme>
-<programme start="20251223015000 +0000" stop="20251223024500 +0000" channel="MDTV.vision">
-<title>Sensasihot</title>
+<programme start="20251223035500 +0000" stop="20251223052500 +0000" channel="MDTV.vision">
+<title>MDTV</title>
 </programme>
-<programme start="20251223024500 +0000" stop="20251223034500 +0000" channel="MDTV.vision">
-<title>Marimar</title>
+<programme start="20251223052500 +0000" stop="20251223062500 +0000" channel="MDTV.vision">
+<title>MDTV</title>
 </programme>
-<programme start="20251223034500 +0000" stop="20251223050500 +0000" channel="MDTV.vision">
-<title>Cerita Nyata</title>
+<programme start="20251223062500 +0000" stop="20251223073500 +0000" channel="MDTV.vision">
+<title>MDTV</title>
 </programme>
-<programme start="20251223050500 +0000" stop="20251223070000 +0000" channel="MDTV.vision">
-<title>Cinta Fitri S5</title>
+<programme start="20251223073500 +0000" stop="20251223083500 +0000" channel="MDTV.vision">
+<title>MDTV</title>
 </programme>
-<programme start="20251223070000 +0000" stop="20251223080500 +0000" channel="MDTV.vision">
-<title>Makan Enak</title>
+<programme start="20251223083500 +0000" stop="20251223093500 +0000" channel="MDTV.vision">
+<title>MDTV</title>
 </programme>
-<programme start="20251223080500 +0000" stop="20251223090500 +0000" channel="MDTV.vision">
-<title>Masak Gesss!!!</title>
+<programme start="20251223093500 +0000" stop="20251223100500 +0000" channel="MDTV.vision">
+<title>MDTV</title>
 </programme>
-<programme start="20251223090500 +0000" stop="20251223101000 +0000" channel="MDTV.vision">
-<title>Adit Sopo Jarwo</title>
+<programme start="20251223100500 +0000" stop="20251223110000 +0000" channel="MDTV.vision">
+<title>MDTV</title>
 </programme>
-<programme start="20251223101000 +0000" stop="20251223110000 +0000" channel="MDTV.vision">
-<title>Cinta Paulina</title>
-</programme>
-<programme start="20251223110000 +0000" stop="20251223114500 +0000" channel="MDTV.vision">
-<title>Maria Cinta Yang Hilang</title>
-</programme>
-<programme start="20251223114500 +0000" stop="20251223123000 +0000" channel="MDTV.vision">
-<title>Maria Mercedes</title>
+<programme start="20251223110000 +0000" stop="20251223123000 +0000" channel="MDTV.vision">
+<title>MDTV</title>
 </programme>
 <programme start="20251222000000 +0000" stop="20251222020000 +0000" channel="JTV.vision">
 <title>JTV</title>
@@ -1497,4 +1491,10 @@
 </programme>
 <programme start="20251223050000 +0000" stop="20251223060000 +0000" channel="JAK TV.vision">
 <title>Lejel</title>
+</programme>
+<programme start="20251223060000 +0000" stop="20251223063000 +0000" channel="JAK TV.vision">
+<title>Inovator</title>
+</programme>
+<programme start="20251223063000 +0000" stop="20251223070000 +0000" channel="JAK TV.vision">
+<title>Cooking Time</title>
 </programme>
