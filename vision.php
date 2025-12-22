@@ -685,12 +685,6 @@
 <programme start="20251222110000 +0000" stop="20251222123000 +0000" channel="ANTV.vision">
 <title>Senandung Cinta Lilis</title>
 </programme>
-<programme start="20251222123000 +0000" stop="20251222163000 +0000" channel="ANTV.vision">
-<title>Masuk Kena Keluar Kena</title>
-</programme>
-<programme start="20251222163000 +0000" stop="20251222183000 +0000" channel="ANTV.vision">
-<title>The Doll</title>
-</programme>
 <programme start="20251222183000 +0000" stop="20251222190000 +0000" channel="ANTV.vision">
 <title>Supercoppa</title>
 </programme>
@@ -849,9 +843,6 @@
 </programme>
 <programme start="20251222125700 +0000" stop="20251222130000 +0000" channel="TVOne.vision">
 <title>Kabar Terkini</title>
-</programme>
-<programme start="20251222130000 +0000" stop="20251222142700 +0000" channel="TVOne.vision">
-<title>Talkshow Spesial Hari Ibu</title>
 </programme>
 <programme start="20251222142700 +0000" stop="20251222143000 +0000" channel="TVOne.vision">
 <title>Kabar Terkini</title>
@@ -1496,5 +1487,14 @@
 <title>TVRI</title>
 </programme>
 <programme start="20251223010000 +0000" stop="20251223030000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251223030000 +0000" stop="20251223050000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251223050000 +0000" stop="20251223070000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251223070000 +0000" stop="20251223090000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
