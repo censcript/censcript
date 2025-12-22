@@ -1,7 +1,3 @@
-<programme start="20251222153000 +0700" stop="20251222173000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: FC Kairat Almaty - Olympiacos</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251222173000 +0700" stop="20251222183000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Highlights: UEL &amp; UECL 2025-26</title>
     <desc>Live: Tidak</desc>
@@ -18,8 +14,12 @@
     <title>Football: Athletic Club - Paris Saint Germain</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251223010000 +0700" stop="20251223030000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: SL Benfica - SSC Napoli</title>
+<programme start="20251223010000 +0700" stop="20251223020000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Highlights: UEL &amp; UECL 2025-26</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251223020000 +0700" stop="20251223030000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEL &amp; UECL Magazine 2025-26 E8</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251223030000 +0700" stop="20251223050000 +0700" channel="COSMOTE Sport 1 HD">
@@ -62,11 +62,11 @@
     <title>Football: Volos - Panetolikos</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251222202000 +0700" stop="20251222222500 +0700" channel="COSMOTE Sport 2 HD">
+<programme start="20251222202000 +0700" stop="20251222222000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Juventus Football Club - AS Roma</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251222222500 +0700" stop="20251223004000 +0700" channel="COSMOTE Sport 2 HD">
+<programme start="20251222222000 +0700" stop="20251223004000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Olympiacos - Kifisia</title>
     <desc>Live: Tidak</desc>
 </programme>
@@ -110,19 +110,19 @@
     <title>Football: Cagliari - Pisa</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251222151500 +0700" stop="20251222171500 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Al Nassr - Al Khaleej</title>
+<programme start="20251223181000 +0700" stop="20251223203500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Olympiacos - Kifisia</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251222171500 +0700" stop="20251222191500 +0700" channel="COSMOTE Sport 3 HD">
+<programme start="20251222173000 +0700" stop="20251222193000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Heart of Midlothian - Rangers FC</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251222191500 +0700" stop="20251222211500 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Pafos FC - APOEL</title>
+<programme start="20251222193000 +0700" stop="20251222213000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: APOEL - Freedom24 Krasava E.N.Y</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251222211500 +0700" stop="20251223004000 +0700" channel="COSMOTE Sport 3 HD">
+<programme start="20251222213000 +0700" stop="20251223004000 +0700" channel="COSMOTE Sport 3 HD">
     <title>American Football: Dallas Cowboys - Los Angeles Chargers</title>
     <desc>Live: Tidak</desc>
 </programme>
@@ -320,6 +320,10 @@
 </programme>
 <programme start="20251223150000 +0700" stop="20251223180500 +0700" channel="COSMOTE Sport 5 HD">
     <title>ROC Race of Champions 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251223180500 +0700" stop="20251223190000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>2025 GT World Challenge Europe</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251222165000 +0700" stop="20251222192500 +0700" channel="COSMOTE Sport 6 HD">

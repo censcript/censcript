@@ -4780,23 +4780,32 @@
 <programme start="20251222070000 +0000" stop="20251222083000 +0000" channel="iNews.mncvision">
     <title>iSeleb</title>
 </programme>
-<programme start="20251222083000 +0000" stop="20251222100000 +0000" channel="iNews.mncvision">
+<programme start="20251222083000 +0000" stop="20251222105500 +0000" channel="iNews.mncvision">
     <title>Realita (L)</title>
 </programme>
-<programme start="20251222100000 +0000" stop="20251222120000 +0000" channel="iNews.mncvision">
+<programme start="20251222105500 +0000" stop="20251222110000 +0000" channel="iNews.mncvision">
+    <title>iNews Terkini</title>
+</programme>
+<programme start="20251222110000 +0000" stop="20251222120000 +0000" channel="iNews.mncvision">
     <title>iNews Sore (L)</title>
 </programme>
-<programme start="20251222120000 +0000" stop="20251222133000 +0000" channel="iNews.mncvision">
-    <title>iNews Room Weekend (L)</title>
+<programme start="20251222120000 +0000" stop="20251222120500 +0000" channel="iNews.mncvision">
+    <title>iNews Terkini</title>
+</programme>
+<programme start="20251222120500 +0000" stop="20251222133000 +0000" channel="iNews.mncvision">
+    <title>iNews Room (L)</title>
 </programme>
 <programme start="20251222133000 +0000" stop="20251222143000 +0000" channel="iNews.mncvision">
+    <title>iNews Prime (L)</title>
+</programme>
+<programme start="20251222143000 +0000" stop="20251222153000 +0000" channel="iNews.mncvision">
     <title>iNews Malam (L)</title>
 </programme>
-<programme start="20251222143000 +0000" stop="20251222150000 +0000" channel="iNews.mncvision">
+<programme start="20251222153000 +0000" stop="20251222160000 +0000" channel="iNews.mncvision">
     <title>iNews Sport (L)</title>
 </programme>
-<programme start="20251222150000 +0000" stop="20251222153000 +0000" channel="iNews.mncvision">
-    <title>Rakyat Bersuara</title>
+<programme start="20251222160000 +0000" stop="20251222163000 +0000" channel="iNews.mncvision">
+    <title>AFC Champions League Elite (L)</title>
 </programme>
 <programme start="20251221170000 +0000" stop="20251221173000 +0000" channel="iNews HD.mncvision">
     <title>Highlight Formula E: Sao Paulo</title>
@@ -4852,23 +4861,32 @@
 <programme start="20251222070000 +0000" stop="20251222083000 +0000" channel="iNews HD.mncvision">
     <title>iSeleb</title>
 </programme>
-<programme start="20251222083000 +0000" stop="20251222100000 +0000" channel="iNews HD.mncvision">
+<programme start="20251222083000 +0000" stop="20251222105500 +0000" channel="iNews HD.mncvision">
     <title>Realita (L)</title>
 </programme>
-<programme start="20251222100000 +0000" stop="20251222120000 +0000" channel="iNews HD.mncvision">
+<programme start="20251222105500 +0000" stop="20251222110000 +0000" channel="iNews HD.mncvision">
+    <title>iNews Terkini</title>
+</programme>
+<programme start="20251222110000 +0000" stop="20251222120000 +0000" channel="iNews HD.mncvision">
     <title>iNews Sore (L)</title>
 </programme>
-<programme start="20251222120000 +0000" stop="20251222133000 +0000" channel="iNews HD.mncvision">
-    <title>iNews Room Weekend (L)</title>
+<programme start="20251222120000 +0000" stop="20251222120500 +0000" channel="iNews HD.mncvision">
+    <title>iNews Terkini</title>
+</programme>
+<programme start="20251222120500 +0000" stop="20251222133000 +0000" channel="iNews HD.mncvision">
+    <title>iNews Room (L)</title>
 </programme>
 <programme start="20251222133000 +0000" stop="20251222143000 +0000" channel="iNews HD.mncvision">
+    <title>iNews Prime (L)</title>
+</programme>
+<programme start="20251222143000 +0000" stop="20251222153000 +0000" channel="iNews HD.mncvision">
     <title>iNews Malam (L)</title>
 </programme>
-<programme start="20251222143000 +0000" stop="20251222150000 +0000" channel="iNews HD.mncvision">
+<programme start="20251222153000 +0000" stop="20251222160000 +0000" channel="iNews HD.mncvision">
     <title>iNews Sport (L)</title>
 </programme>
-<programme start="20251222150000 +0000" stop="20251222153000 +0000" channel="iNews HD.mncvision">
-    <title>Rakyat Bersuara</title>
+<programme start="20251222160000 +0000" stop="20251222163000 +0000" channel="iNews HD.mncvision">
+    <title>AFC Champions League Elite (L)</title>
 </programme>
 <programme start="20251221220000 +0000" stop="20251221223000 +0000" channel="JAKTV.mncvision">
     <title>Senyum Quran</title>
