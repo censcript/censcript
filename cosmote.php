@@ -1,7 +1,3 @@
-<programme start="20251222130000 +0700" stop="20251222153000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Sportshow</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251222153000 +0700" stop="20251222173000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: FC Kairat Almaty - Olympiacos</title>
     <desc>Live: Tidak</desc>
@@ -110,8 +106,8 @@
     <title>Football: SS Lazio - Cremonese</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251222120000 +0700" stop="20251222151500 +0700" channel="COSMOTE Sport 3 HD">
-    <title>American Football: Detroit Lions - Pittsburgh Steelers</title>
+<programme start="20251223161000 +0700" stop="20251223181000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Cagliari - Pisa</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251222151500 +0700" stop="20251222171500 +0700" channel="COSMOTE Sport 3 HD">
