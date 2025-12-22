@@ -2801,16 +2801,16 @@
         <title>Ayali</title>
     </programme>
     <programme start="20251222020000 +0000" stop="20251222023000 +0000" channel="Zee Tamil.starhub">
-        <title>Special - Ayali</title>
+        <title>Ayali</title>
     </programme>
     <programme start="20251222023000 +0000" stop="20251222030000 +0000" channel="Zee Tamil.starhub">
-        <title>Special - Ayali</title>
+        <title>Ayali</title>
     </programme>
     <programme start="20251222030000 +0000" stop="20251222033000 +0000" channel="Zee Tamil.starhub">
-        <title>Special - Ayali</title>
+        <title>Ayali</title>
     </programme>
     <programme start="20251222033000 +0000" stop="20251222040000 +0000" channel="Zee Tamil.starhub">
-        <title>Special - Ayali</title>
+        <title>Ayali</title>
     </programme>
     <programme start="20251222040000 +0000" stop="20251222043000 +0000" channel="Zee Tamil.starhub">
         <title>Aval Varuvala</title>
@@ -2837,7 +2837,7 @@
         <title>Gettimelam</title>
     </programme>
     <programme start="20251222103000 +0000" stop="20251222110000 +0000" channel="Zee Tamil.starhub">
-        <title>Veera</title>
+        <title>Mahasangamam Veera And Chinnanchiru Kiliye</title>
     </programme>
     <programme start="20251222110000 +0000" stop="20251222113000 +0000" channel="Zee Tamil.starhub">
         <title>KCKC - Vimanam</title>
@@ -2849,7 +2849,7 @@
         <title>Anna</title>
     </programme>
     <programme start="20251222123000 +0000" stop="20251222130000 +0000" channel="Zee Tamil.starhub">
-        <title>Special - Ayali</title>
+        <title>Ayali</title>
     </programme>
     <programme start="20251222130000 +0000" stop="20251222133000 +0000" channel="Zee Tamil.starhub">
         <title>Karthigai Deepam</title>
