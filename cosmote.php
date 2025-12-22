@@ -54,10 +54,6 @@
     <title>Football: Panathinaikos - Viktoria Plzen</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251223014500 +0700" stop="20251223034500 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Alverca - FC Porto (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
 <programme start="20251223034500 +0700" stop="20251223055000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: AEL Novibet - Atromitos</title>
     <desc>Live: Tidak</desc>
@@ -104,10 +100,6 @@
 </programme>
 <programme start="20251224025000 +0700" stop="20251224050000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: AEK - OFI</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251223014000 +0700" stop="20251223034500 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Al Hilal - Al Fateh</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251223034500 +0700" stop="20251223054500 +0700" channel="COSMOTE Sport 3 HD">
@@ -230,8 +222,8 @@
     <title>Pick n&#039; Roll (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251223023500 +0700" stop="20251223040000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Best of WRC 2025</title>
+<programme start="20251224041500 +0700" stop="20251224064500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: New Orleans Pelicans - Dallas Mavericks</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251223040000 +0700" stop="20251223043500 +0700" channel="COSMOTE Sport 5 HD">
@@ -308,6 +300,14 @@
 </programme>
 <programme start="20251224022500 +0700" stop="20251224040000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Best of WRC 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251224040000 +0700" stop="20251224043000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Extreme E - Highlights 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251224043000 +0700" stop="20251224053000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251223015500 +0700" stop="20251223050000 +0700" channel="COSMOTE Sport 6 HD">
