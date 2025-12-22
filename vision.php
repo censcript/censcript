@@ -850,9 +850,6 @@
 <programme start="20251222125700 +0000" stop="20251222130000 +0000" channel="TVOne.vision">
 <title>Kabar Terkini</title>
 </programme>
-<programme start="20251222130000 +0000" stop="20251222142700 +0000" channel="TVOne.vision">
-<title>Talkshow Spesial Hari Ibu</title>
-</programme>
 <programme start="20251222142700 +0000" stop="20251222143000 +0000" channel="TVOne.vision">
 <title>Kabar Terkini</title>
 </programme>
@@ -1496,5 +1493,8 @@
 <title>TVRI</title>
 </programme>
 <programme start="20251223010000 +0000" stop="20251223030000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251223030000 +0000" stop="20251223050000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>

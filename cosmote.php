@@ -58,6 +58,10 @@
     <title>Football: AEK - Universitatea Craiova</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251223225000 +0700" stop="20251224005000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: Real Madrid CF - Manchester City FC</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251222202000 +0700" stop="20251222222000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Juventus Football Club - AS Roma</title>
     <desc>Live: Tidak</desc>
@@ -114,8 +118,8 @@
     <title>Football: ACF Fiorentina - Udinese</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251222193000 +0700" stop="20251222213000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: APOEL - Freedom24 Krasava E.N.Y</title>
+<programme start="20251223223500 +0700" stop="20251224005000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: AEL Novibet - Atromitos</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251222213000 +0700" stop="20251223004000 +0700" channel="COSMOTE Sport 3 HD">
@@ -184,14 +188,6 @@
 </programme>
 <programme start="20251223214000 +0700" stop="20251223234000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Al Ahli - Al-Qadsiah</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251222193000 +0700" stop="20251222213000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Barcelona - Badalona</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251222213000 +0700" stop="20251222215000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251222215000 +0700" stop="20251222234000 +0700" channel="COSMOTE Sport 4 HD">
@@ -330,6 +326,10 @@
     <title>WRC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251223220000 +0700" stop="20251223230000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251222192500 +0700" stop="20251222223500 +0700" channel="COSMOTE Sport 6 HD">
     <title>Fight Sports: UFC Fight Night 2025</title>
     <desc>Live: Tidak</desc>
@@ -368,6 +368,10 @@
 </programme>
 <programme start="20251223194500 +0700" stop="20251223220000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Volleyball: Jastrzebski Wegiel - Halkbank Ankara</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251223220000 +0700" stop="20251224000000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Volleyball: Allianz Powervolley Milano - VakifBank Istanbul</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251222210000 +0700" stop="20251222230000 +0700" channel="COSMOTE Sport 7 HD">
