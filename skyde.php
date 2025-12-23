@@ -2829,6 +2829,9 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251223083000 +0000" stop="20251223103000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NBA: Charlotte Hornets @ Cleveland Cavaliers</title>
 </programme>
+<programme start="20251223103000 +0000" stop="20251223110000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>Frauen-BL: Alle Spiele, alle Tore, 14. Spieltag komplett</title>
+</programme>
 <programme start="20251223110000 +0000" stop="20251223130000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Vancouver Canucks @ Philadelphia Flyers</title>
 </programme>
@@ -2837,6 +2840,9 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 </programme>
 <programme start="20251223133000 +0000" stop="20251223153000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NBA: Memphis Grizzlies @ Oklahoma City Thunder</title>
+</programme>
+<programme start="20251223153000 +0000" stop="20251223160000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>NHL: On the Fly</title>
 </programme>
 <programme start="20251223160000 +0000" stop="20251223163000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Fußball: scooore Niederlande! Alle Tore</title>
@@ -3149,9 +3155,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 </programme>
 <programme start="20251223123000 +0000" stop="20251223143000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>NBA: Memphis Grizzlies @ Oklahoma City Thunder</title>
-</programme>
-<programme start="20251223143000 +0000" stop="20251223150000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>NHL: On the Fly</title>
 </programme>
 <programme start="20251223150000 +0000" stop="20251223170000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>NHL: Vancouver Canucks @ Philadelphia Flyers</title>

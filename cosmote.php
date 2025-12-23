@@ -114,8 +114,12 @@
     <title>Serie A Full Impact 2024-25 E16</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251224014000 +0700" stop="20251224034500 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Al Nassr - Al Khaleej</title>
+<programme start="20251225041000 +0700" stop="20251225044000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Serie A Inside Serie A 2025-26 E17</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251225044000 +0700" stop="20251225065000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Volos - Panetolikos</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251224034500 +0700" stop="20251224054500 +0700" channel="COSMOTE Sport 3 HD">
@@ -242,10 +246,6 @@
     <title>Basketball: Dallas Mavericks - Denver Nuggets</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251224022500 +0700" stop="20251224040000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Best of WRC 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251224040000 +0700" stop="20251224043000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Extreme E - Highlights 2025</title>
     <desc>Live: Tidak</desc>
@@ -334,6 +334,14 @@
     <title>Best of WRC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251225040500 +0700" stop="20251225044000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251225044000 +0700" stop="20251225052500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251224015500 +0700" stop="20251224053000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Volleyball: Warta Zawiercie - Sir Sicoma Monini Perugia</title>
     <desc>Live: Tidak</desc>
@@ -378,8 +386,8 @@
     <title>Authentic Athens Marathon 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251224024500 +0700" stop="20251224031500 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
+<programme start="20251225045000 +0700" stop="20251225065500 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Athletics: World Athletics Continental Tour Gold 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251224031500 +0700" stop="20251224050000 +0700" channel="COSMOTE Sport 7 HD">

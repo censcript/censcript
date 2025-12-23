@@ -263,7 +263,7 @@
 <title>iNews Siang (L)</title>
 </programme>
 <programme start="20251223060000 +0000" stop="20251223063000 +0000" channel="iNews.vision">
-<title>Speak After Lunch</title>
+<title>Pemimpin Rakyat (iNews)</title>
 </programme>
 <programme start="20251223063000 +0000" stop="20251223080000 +0000" channel="iNews.vision">
 <title>iSeleb (L)</title>
@@ -271,35 +271,38 @@
 <programme start="20251223080000 +0000" stop="20251223093000 +0000" channel="iNews.vision">
 <title>Realita (L)</title>
 </programme>
-<programme start="20251223093000 +0000" stop="20251223110000 +0000" channel="iNews.vision">
+<programme start="20251223093000 +0000" stop="20251223105500 +0000" channel="iNews.vision">
 <title>Inews Sore (Live)</title>
 </programme>
-<programme start="20251223110000 +0000" stop="20251223110500 +0000" channel="iNews.vision">
+<programme start="20251223105500 +0000" stop="20251223110000 +0000" channel="iNews.vision">
 <title>iNews Terkini</title>
 </programme>
-<programme start="20251223110500 +0000" stop="20251223120000 +0000" channel="iNews.vision">
+<programme start="20251223110000 +0000" stop="20251223113000 +0000" channel="iNews.vision">
+<title>iBreak: ESDM</title>
+</programme>
+<programme start="20251223113000 +0000" stop="20251223120000 +0000" channel="iNews.vision">
 <title>iNews Sore (L)</title>
 </programme>
-<programme start="20251223120000 +0000" stop="20251223120500 +0000" channel="iNews.vision">
-<title>iNews Terkini</title>
+<programme start="20251223120000 +0000" stop="20251223140000 +0000" channel="iNews.vision">
+<title>Rakyat Bersuara (L)</title>
 </programme>
-<programme start="20251223120500 +0000" stop="20251223133000 +0000" channel="iNews.vision">
-<title>iNews Room (L)</title>
-</programme>
-<programme start="20251223133000 +0000" stop="20251223143000 +0000" channel="iNews.vision">
+<programme start="20251223140000 +0000" stop="20251223150000 +0000" channel="iNews.vision">
 <title>iNews Prime (L)</title>
 </programme>
-<programme start="20251223143000 +0000" stop="20251223153000 +0000" channel="iNews.vision">
+<programme start="20251223150000 +0000" stop="20251223160000 +0000" channel="iNews.vision">
 <title>iNews Malam (Live)</title>
 </programme>
-<programme start="20251223153000 +0000" stop="20251223160000 +0000" channel="iNews.vision">
+<programme start="20251223160000 +0000" stop="20251223163000 +0000" channel="iNews.vision">
 <title>iNews Sport (L)</title>
 </programme>
-<programme start="20251223160000 +0000" stop="20251223180000 +0000" channel="iNews.vision">
+<programme start="20251223163000 +0000" stop="20251223170000 +0000" channel="iNews.vision">
 <title>iNews</title>
 </programme>
+<programme start="20251223170000 +0000" stop="20251223180000 +0000" channel="iNews.vision">
+<title>Realita</title>
+</programme>
 <programme start="20251223180000 +0000" stop="20251223184500 +0000" channel="iNews.vision">
-<title>iNews Room</title>
+<title>iNews Prime</title>
 </programme>
 <programme start="20251223184500 +0000" stop="20251223194500 +0000" channel="iNews.vision">
 <title>iNews Sore</title>
@@ -346,14 +349,8 @@
 <programme start="20251224080000 +0000" stop="20251224093000 +0000" channel="iNews.vision">
 <title>Realita (L)</title>
 </programme>
-<programme start="20251224093000 +0000" stop="20251224110000 +0000" channel="iNews.vision">
+<programme start="20251224093000 +0000" stop="20251224120000 +0000" channel="iNews.vision">
 <title>Inews Sore (Live)</title>
-</programme>
-<programme start="20251224110000 +0000" stop="20251224110500 +0000" channel="iNews.vision">
-<title>iNews Terkini</title>
-</programme>
-<programme start="20251224110500 +0000" stop="20251224120000 +0000" channel="iNews.vision">
-<title>iNews Sore (L)</title>
 </programme>
 <programme start="20251223000000 +0000" stop="20251223003000 +0000" channel="SindoNews.vision">
 <title>iNews Today</title>
@@ -694,7 +691,10 @@
 <programme start="20251223110000 +0000" stop="20251223123000 +0000" channel="ANTV.vision">
 <title>Senandung Cinta Lilis</title>
 </programme>
-<programme start="20251223123000 +0000" stop="20251223163000 +0000" channel="ANTV.vision">
+<programme start="20251223123000 +0000" stop="20251223143000 +0000" channel="ANTV.vision">
+<title>Mandala Dari Sungai Ular</title>
+</programme>
+<programme start="20251223143000 +0000" stop="20251223163000 +0000" channel="ANTV.vision">
 <title>Pencet Sana Pencet Sini</title>
 </programme>
 <programme start="20251223163000 +0000" stop="20251223183000 +0000" channel="ANTV.vision">
@@ -1367,7 +1367,7 @@
 <title>Investor Market Today</title>
 </programme>
 <programme start="20251223033000 +0000" stop="20251223040000 +0000" channel="BTV.vision">
-<title>Berita Kriminal</title>
+<title>30 Minutes With</title>
 </programme>
 <programme start="20251223040000 +0000" stop="20251223060000 +0000" channel="BTV.vision">
 <title>Berita Satu Siang</title>
