@@ -969,11 +969,8 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251223145500 +0000" stop="20251223155000 +0000" channel="DAZN 1 HD.skyde">
     <title>Her Element by Laura Wontorra: Episode 1</title>
 </programme>
-<programme start="20251223155000 +0000" stop="20251223164000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20251223155000 +0000" stop="20251223171000 +0000" channel="DAZN 1 HD.skyde">
     <title>Her Element by Laura Wontorra: Episode 2</title>
-</programme>
-<programme start="20251223164000 +0000" stop="20251223171000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
 </programme>
 <programme start="20251223171000 +0000" stop="20251223190000 +0000" channel="DAZN 1 HD.skyde">
     <title>Bundesliga: RB Leipzig - Bayer 04 Leverkusen</title>
@@ -2590,7 +2587,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>BL: Glanzparade - Die Show mit Buschmann, Fuss und Wagner</title>
 </programme>
 <programme start="20251223000000 +0000" stop="20251223003000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: BVB-Herstory - Der Dortmunder Weg nach oben</title>
+    <title>BL: BVB-Herstory - Der Dortmunder Weg nach oben (Auf und Ab)</title>
 </programme>
 <programme start="20251223003000 +0000" stop="20251223023000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: VfL Wolfsburg - SC Freiburg, 15. Spieltag</title>
@@ -2656,13 +2653,16 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>BL: BVB-Weihnachtssingen 2025</title>
 </programme>
 <programme start="20251223180000 +0000" stop="20251223183000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>Sky Sport News: Auffe Süd Spezial - der BVB-Rückblick</title>
+    <title>Sky Sport News: Auffe Süd Spezial - Der BVB-Rückblick</title>
 </programme>
 <programme start="20251223183000 +0000" stop="20251223203000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: Tactical Feed: RBL - B04, 15. Spieltag</title>
 </programme>
-<programme start="20251223203000 +0000" stop="20251223223000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+<programme start="20251223203000 +0000" stop="20251223221500 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: Sky Sport Fantasy: BVB - BMG, 15. Spieltag</title>
+</programme>
+<programme start="20251223221500 +0000" stop="20251223223000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: Torparade 15. Spieltag</title>
 </programme>
 <programme start="20251223223000 +0000" stop="20251223230000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>Sky Sport News: Der große Rückblick - Die Rekordjäger des FC Bayern</title>
@@ -3417,10 +3417,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251223042000 +0000" stop="20251223044500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Die Nanny</title>
 </programme>
-<programme start="20251223044500 +0000" stop="20251223051500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251223044500 +0000" stop="20251223051000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Die Nanny</title>
 </programme>
-<programme start="20251223051500 +0000" stop="20251223054000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251223051000 +0000" stop="20251223054000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Die Nanny</title>
 </programme>
 <programme start="20251223054000 +0000" stop="20251223060500 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3465,10 +3465,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251223110500 +0000" stop="20251223113000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Friends</title>
 </programme>
-<programme start="20251223113000 +0000" stop="20251223115500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251223113000 +0000" stop="20251223120000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Friends</title>
 </programme>
-<programme start="20251223115500 +0000" stop="20251223122500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251223120000 +0000" stop="20251223122500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Friends</title>
 </programme>
 <programme start="20251223122500 +0000" stop="20251223124500 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3552,10 +3552,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251223225500 +0000" stop="20251223232000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Big Bang Theory</title>
 </programme>
-<programme start="20251223000500 +0000" stop="20251223014500 +0000" channel="Warner TV Film.skyde">
+<programme start="20251223000500 +0000" stop="20251223015000 +0000" channel="Warner TV Film.skyde">
     <title>Demolition - Lieben und Leben</title>
 </programme>
-<programme start="20251223014500 +0000" stop="20251223032000 +0000" channel="Warner TV Film.skyde">
+<programme start="20251223015000 +0000" stop="20251223032000 +0000" channel="Warner TV Film.skyde">
     <title>In Hell: Rage Unleashed</title>
 </programme>
 <programme start="20251223032000 +0000" stop="20251223050000 +0000" channel="Warner TV Film.skyde">
@@ -3567,10 +3567,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251223065000 +0000" stop="20251223085000 +0000" channel="Warner TV Film.skyde">
     <title>Die Goonies</title>
 </programme>
-<programme start="20251223085000 +0000" stop="20251223104500 +0000" channel="Warner TV Film.skyde">
+<programme start="20251223085000 +0000" stop="20251223104000 +0000" channel="Warner TV Film.skyde">
     <title>Get Smart</title>
 </programme>
-<programme start="20251223104500 +0000" stop="20251223123500 +0000" channel="Warner TV Film.skyde">
+<programme start="20251223104000 +0000" stop="20251223123500 +0000" channel="Warner TV Film.skyde">
     <title>Sweet Home Alabama - Liebe auf Umwegen</title>
 </programme>
 <programme start="20251223123500 +0000" stop="20251223142000 +0000" channel="Warner TV Film.skyde">
@@ -3591,10 +3591,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251223223000 +0000" stop="20251224003000 +0000" channel="Warner TV Film.skyde">
     <title>Pretty Woman</title>
 </programme>
-<programme start="20251223000500 +0000" stop="20251223014500 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20251223000500 +0000" stop="20251223015000 +0000" channel="Warner TV Film HD.skyde">
     <title>Demolition - Lieben und Leben</title>
 </programme>
-<programme start="20251223014500 +0000" stop="20251223032000 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20251223015000 +0000" stop="20251223032000 +0000" channel="Warner TV Film HD.skyde">
     <title>In Hell: Rage Unleashed</title>
 </programme>
 <programme start="20251223032000 +0000" stop="20251223050000 +0000" channel="Warner TV Film HD.skyde">
@@ -3606,10 +3606,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251223065000 +0000" stop="20251223085000 +0000" channel="Warner TV Film HD.skyde">
     <title>Die Goonies</title>
 </programme>
-<programme start="20251223085000 +0000" stop="20251223104500 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20251223085000 +0000" stop="20251223104000 +0000" channel="Warner TV Film HD.skyde">
     <title>Get Smart</title>
 </programme>
-<programme start="20251223104500 +0000" stop="20251223123500 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20251223104000 +0000" stop="20251223123500 +0000" channel="Warner TV Film HD.skyde">
     <title>Sweet Home Alabama - Liebe auf Umwegen</title>
 </programme>
 <programme start="20251223123500 +0000" stop="20251223142000 +0000" channel="Warner TV Film HD.skyde">
@@ -3651,16 +3651,16 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251223034000 +0000" stop="20251223042500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Mord ist ihr Hobby</title>
 </programme>
-<programme start="20251223042500 +0000" stop="20251223051500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20251223042500 +0000" stop="20251223051000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Mord ist ihr Hobby</title>
 </programme>
-<programme start="20251223051500 +0000" stop="20251223060500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20251223051000 +0000" stop="20251223060500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Mord ist ihr Hobby</title>
 </programme>
-<programme start="20251223060500 +0000" stop="20251223070000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20251223060500 +0000" stop="20251223065500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Mord ist ihr Hobby</title>
 </programme>
-<programme start="20251223070000 +0000" stop="20251223081000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20251223065500 +0000" stop="20251223081000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Mord ist ihr Hobby</title>
 </programme>
 <programme start="20251223081000 +0000" stop="20251223090000 +0000" channel="Warner TV Serie HD.skyde">
@@ -3690,10 +3690,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251223152000 +0000" stop="20251223160500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Rizzoli and Isles</title>
 </programme>
-<programme start="20251223160500 +0000" stop="20251223165000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20251223160500 +0000" stop="20251223165500 +0000" channel="Warner TV Serie HD.skyde">
     <title>NCIS</title>
 </programme>
-<programme start="20251223165000 +0000" stop="20251223174000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20251223165500 +0000" stop="20251223174000 +0000" channel="Warner TV Serie HD.skyde">
     <title>NCIS</title>
 </programme>
 <programme start="20251223174000 +0000" stop="20251223182500 +0000" channel="Warner TV Serie HD.skyde">
@@ -3705,10 +3705,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251223191500 +0000" stop="20251223200000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Hudson &amp; Rex</title>
 </programme>
-<programme start="20251223200000 +0000" stop="20251223204500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20251223200000 +0000" stop="20251223205000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Hudson &amp; Rex</title>
 </programme>
-<programme start="20251223204500 +0000" stop="20251223213500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20251223205000 +0000" stop="20251223213500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Hudson &amp; Rex</title>
 </programme>
 <programme start="20251223213500 +0000" stop="20251223222000 +0000" channel="Warner TV Serie HD.skyde">
