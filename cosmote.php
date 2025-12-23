@@ -1,7 +1,3 @@
-<programme start="20251223110000 +0700" stop="20251223130000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: Strasbourg - Breidablik</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251223130000 +0700" stop="20251223150000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: AC Sparta Praha - Aberdeen</title>
     <desc>Live: Tidak</desc>
@@ -51,6 +47,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251224110000 +0700" stop="20251224130000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>90&#039; of European Glory</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251224130000 +0700" stop="20251224150000 +0700" channel="COSMOTE Sport 1 HD">
     <title>90&#039; of European Glory</title>
     <desc>Live: Tidak</desc>
 </programme>
@@ -168,10 +168,6 @@
 </programme>
 <programme start="20251224120000 +0700" stop="20251224151500 +0700" channel="COSMOTE Sport 3 HD">
     <title>American Football: Indianapolis Colts - San Francisco 49ers</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251223110000 +0700" stop="20251223130000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Cantu - Armani Milano</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251223130000 +0700" stop="20251223150000 +0700" channel="COSMOTE Sport 4 HD">
@@ -310,8 +306,8 @@
     <title>WRC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251223110000 +0700" stop="20251223125000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Volleyball: Igor Gorgonzola Novara - CSM Volei Alba Blaj</title>
+<programme start="20251224132500 +0700" stop="20251224150000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251223125000 +0700" stop="20251223144000 +0700" channel="COSMOTE Sport 6 HD">
@@ -354,8 +350,8 @@
     <title>World Athletics Indoor Tour Gold 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251223110000 +0700" stop="20251223130000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
+<programme start="20251224130500 +0700" stop="20251224151000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>World Athletics Indoor Tour Gold 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251223130000 +0700" stop="20251223150000 +0700" channel="COSMOTE Sport 7 HD">
@@ -418,8 +414,8 @@
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251223110000 +0700" stop="20251223130000 +0700" channel="COSMOTE Sport 8 HD">
-    <title>COSMOTESport8HD</title>
+<programme start="20251224130000 +0700" stop="20251224150000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251223130000 +0700" stop="20251223150000 +0700" channel="COSMOTE Sport 8 HD">
@@ -470,12 +466,8 @@
     <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251223115000 +0700" stop="20251223123000 +0700" channel="COSMOTE Sport 9 HD">
-    <title>COSMOTESport9HD</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251223123000 +0700" stop="20251223130000 +0700" channel="COSMOTE Sport 9 HD">
-    <title>COSMOTESport9HD</title>
+<programme start="20251224130000 +0700" stop="20251224150000 +0700" channel="COSMOTE Sport 8 HD">
+    <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251223130000 +0700" stop="20251223150000 +0700" channel="COSMOTE Sport 9 HD">
@@ -523,6 +515,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251224110000 +0700" stop="20251224130000 +0700" channel="COSMOTE Sport 9 HD">
+    <title>COSMOTESport9HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251224130000 +0700" stop="20251224150000 +0700" channel="COSMOTE Sport 9 HD">
     <title>COSMOTESport9HD</title>
     <desc>Live: Tidak</desc>
 </programme>
