@@ -110,8 +110,8 @@
     <title>Football: Sassuolo - Torino</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251223154000 +0700" stop="20251223174000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Estoril - SC Braga</title>
+<programme start="20251224183000 +0700" stop="20251224204000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: AEL Novibet - Atromitos</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251223174000 +0700" stop="20251223194000 +0700" channel="COSMOTE Sport 3 HD">
@@ -330,8 +330,8 @@
     <title>Moto-E World Championship 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251223144000 +0700" stop="20251223172500 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Volleyball: Resovia Rzeszow - Ziraat Bankasi SK Ankara</title>
+<programme start="20251224183500 +0700" stop="20251224200000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251223172500 +0700" stop="20251223194500 +0700" channel="COSMOTE Sport 6 HD">

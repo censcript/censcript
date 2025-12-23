@@ -7541,7 +7541,7 @@
     <title>Indonesian Idol 2025</title>
 </programme>
 <programme start="20251223164500 +0000" stop="20251222171500 +0000" channel="RCTI.mncvision">
-    <title>Si Doel Anak Sekolahan S6</title>
+    <title>Top Tukang Ojek Preman</title>
 </programme>
 <programme start="20251222181500 +0000" stop="20251222190000 +0000" channel="RCTI HD.mncvision">
     <title>Sule Cintaku Dimakan Cacing...</title>
@@ -7595,7 +7595,7 @@
     <title>Indonesian Idol 2025</title>
 </programme>
 <programme start="20251223164500 +0000" stop="20251222171500 +0000" channel="RCTI HD.mncvision">
-    <title>Si Doel Anak Sekolahan S6</title>
+    <title>Top Tukang Ojek Preman</title>
 </programme>
 <programme start="20251222171500 +0000" stop="20251222191500 +0000" channel="Rock Action.mncvision">
     <title>Jurassic World</title>
