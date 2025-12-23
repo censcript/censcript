@@ -4798,10 +4798,7 @@
 <programme start="20251223105500 +0000" stop="20251223110000 +0000" channel="iNews.mncvision">
     <title>iNews Terkini</title>
 </programme>
-<programme start="20251223110000 +0000" stop="20251223113000 +0000" channel="iNews.mncvision">
-    <title>iBreak: ESDM</title>
-</programme>
-<programme start="20251223113000 +0000" stop="20251223120000 +0000" channel="iNews.mncvision">
+<programme start="20251223110000 +0000" stop="20251223120000 +0000" channel="iNews.mncvision">
     <title>iNews Sore (L)</title>
 </programme>
 <programme start="20251223120000 +0000" stop="20251223140000 +0000" channel="iNews.mncvision">
@@ -4817,7 +4814,7 @@
     <title>iNews Sport (L)</title>
 </programme>
 <programme start="20251223163000 +0000" stop="20251222170000 +0000" channel="iNews.mncvision">
-    <title>Highlight Formula E: Sao Paulo</title>
+    <title>New Top Files</title>
 </programme>
 <programme start="20251222180000 +0000" stop="20251222184500 +0000" channel="iNews HD.mncvision">
     <title>iNews Room</title>
@@ -4873,10 +4870,7 @@
 <programme start="20251223105500 +0000" stop="20251223110000 +0000" channel="iNews HD.mncvision">
     <title>iNews Terkini</title>
 </programme>
-<programme start="20251223110000 +0000" stop="20251223113000 +0000" channel="iNews HD.mncvision">
-    <title>iBreak: ESDM</title>
-</programme>
-<programme start="20251223113000 +0000" stop="20251223120000 +0000" channel="iNews HD.mncvision">
+<programme start="20251223110000 +0000" stop="20251223120000 +0000" channel="iNews HD.mncvision">
     <title>iNews Sore (L)</title>
 </programme>
 <programme start="20251223120000 +0000" stop="20251223140000 +0000" channel="iNews HD.mncvision">
@@ -4892,7 +4886,7 @@
     <title>iNews Sport (L)</title>
 </programme>
 <programme start="20251223163000 +0000" stop="20251222170000 +0000" channel="iNews HD.mncvision">
-    <title>Highlight Formula E: Sao Paulo</title>
+    <title>New Top Files</title>
 </programme>
 <programme start="20251222220000 +0000" stop="20251222223000 +0000" channel="JAKTV.mncvision">
     <title>Senyum Quran</title>

@@ -110,6 +110,10 @@
     <title>Football: Olympiacos - Kifisia</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251224142000 +0700" stop="20251224163000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: AEK - OFI</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251223120000 +0700" stop="20251223151500 +0700" channel="COSMOTE Sport 3 HD">
     <title>American Football: Baltimore Ravens - New England Patriots</title>
     <desc>Live: Tidak</desc>
@@ -230,8 +234,8 @@
     <title>Basketball: Szolnoki Olaj - AEK</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251223120000 +0700" stop="20251223133500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC 2025</title>
+<programme start="20251224144500 +0700" stop="20251224150000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251223133500 +0700" stop="20251223150000 +0700" channel="COSMOTE Sport 5 HD">
