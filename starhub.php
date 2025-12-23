@@ -2369,7 +2369,7 @@
         <title>Sugatang Puso</title>
     </programme>
     <programme start="20251222160000 +0000" stop="20251222200000 +0000" channel="Hub Sports 2 HD.starhub">
-        <title>HSBC BWF World Tour 2025 HYLO Badminton Open Saarbrucken presented (Super 500) R</title>
+        <title>HSBC BWF World Tour 2025 HYLO Badminton Open Saarbrucken VICTOR (Super 500) Rd 1</title>
     </programme>
     <programme start="20251222200000 +0000" stop="20251222210000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>Sunrise, FL</title>
