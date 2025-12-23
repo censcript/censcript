@@ -685,6 +685,9 @@
 <programme start="20251223073000 +0000" stop="20251223083000 +0000" channel="ANTV.vision">
 <title>Shani</title>
 </programme>
+<programme start="20251223083000 +0000" stop="20251223110000 +0000" channel="ANTV.vision">
+<title>Saur Sepuh 2</title>
+</programme>
 <programme start="20251223110000 +0000" stop="20251223123000 +0000" channel="ANTV.vision">
 <title>Senandung Cinta Lilis</title>
 </programme>
@@ -1493,8 +1496,5 @@
 <title>TVRI</title>
 </programme>
 <programme start="20251223190000 +0000" stop="20251223210000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20251223210000 +0000" stop="20251223230000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
