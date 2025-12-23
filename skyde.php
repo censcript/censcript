@@ -2520,7 +2520,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251223220500 +0000" stop="20251223230000 +0000" channel="Sky Showcase HD.skyde">
     <title>Kobra und Co - Die tödlichsten Giftschlangen Indiens</title>
 </programme>
-<programme start="20251222235000 +0000" stop="20251223001500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20251222234500 +0000" stop="20251223001500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: 90in30: SCR - FAK, 8. Runde</title>
 </programme>
 <programme start="20251223001500 +0000" stop="20251223020000 +0000" channel="Sky Sport Austria 1 HD.skyde">
@@ -2829,14 +2829,20 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251223083000 +0000" stop="20251223103000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NBA: Charlotte Hornets @ Cleveland Cavaliers</title>
 </programme>
+<programme start="20251223103000 +0000" stop="20251223110000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>Frauen-BL: Alle Spiele, alle Tore, 14. Spieltag komplett</title>
+</programme>
 <programme start="20251223110000 +0000" stop="20251223130000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Vancouver Canucks @ Philadelphia Flyers</title>
 </programme>
 <programme start="20251223130000 +0000" stop="20251223133000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: On the Fly</title>
 </programme>
-<programme start="20251223133000 +0000" stop="20251223160000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20251223133000 +0000" stop="20251223153000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NBA: Memphis Grizzlies @ Oklahoma City Thunder</title>
+</programme>
+<programme start="20251223153000 +0000" stop="20251223160000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>NHL: On the Fly</title>
 </programme>
 <programme start="20251223160000 +0000" stop="20251223163000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Fußball: scooore Niederlande! Alle Tore</title>
@@ -3186,16 +3192,16 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251222231000 +0000" stop="20251222233000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: Basketball NBA</title>
 </programme>
-<programme start="20251222233000 +0000" stop="20251223000000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20251222233000 +0000" stop="20251223001000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime</title>
 </programme>
-<programme start="20251223000000 +0000" stop="20251223023000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20251223001000 +0000" stop="20251223024500 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Charlotte Hornets @ Cleveland Cavaliers</title>
 </programme>
-<programme start="20251223023000 +0000" stop="20251223050000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20251223024500 +0000" stop="20251223050000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Memphis Grizzlies @ Oklahoma City Thunder</title>
 </programme>
-<programme start="20251223050000 +0000" stop="20251223090000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20251223050000 +0000" stop="20251223055000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime - Post Show</title>
 </programme>
 <programme start="20251222230500 +0000" stop="20251222235000 +0000" channel="SYFY HD.skyde">
