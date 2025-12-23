@@ -2587,7 +2587,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>BL: Glanzparade - Die Show mit Buschmann, Fuss und Wagner</title>
 </programme>
 <programme start="20251223000000 +0000" stop="20251223003000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: BVB-Herstory - Der Dortmunder Weg nach oben</title>
+    <title>BL: BVB-Herstory - Der Dortmunder Weg nach oben (Auf und Ab)</title>
 </programme>
 <programme start="20251223003000 +0000" stop="20251223023000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: VfL Wolfsburg - SC Freiburg, 15. Spieltag</title>
@@ -2658,8 +2658,11 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251223183000 +0000" stop="20251223203000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: Tactical Feed: RBL - B04, 15. Spieltag</title>
 </programme>
-<programme start="20251223203000 +0000" stop="20251223223000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+<programme start="20251223203000 +0000" stop="20251223221500 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: Sky Sport Fantasy: BVB - BMG, 15. Spieltag</title>
+</programme>
+<programme start="20251223221500 +0000" stop="20251223223000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: Torparade 15. Spieltag</title>
 </programme>
 <programme start="20251223223000 +0000" stop="20251223230000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>Sky Sport News: Der große Rückblick - Die Rekordjäger des FC Bayern</title>
@@ -2892,7 +2895,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251223170000 +0000" stop="20251223173000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Der große Rückblick - Die Rekordjäger des FC Bayern</title>
 </programme>
-<programme start="20251223173000 +0000" stop="20251223193000 +0000" channel="Sky Sport News HD.skyde">
+<programme start="20251223173000 +0000" stop="20251223180000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: Primetime</title>
+</programme>
+<programme start="20251223180000 +0000" stop="20251223183000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Transfer Update: Spezial - Füllkrugs WM-Plan: Wechsel zur AC Mailand!</title>
+</programme>
+<programme start="20251223183000 +0000" stop="20251223193000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Primetime</title>
 </programme>
 <programme start="20251223193000 +0000" stop="20251223200000 +0000" channel="Sky Sport News HD.skyde">
@@ -2905,7 +2914,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Sky Sport News: Der große Rückblick - Die Rekordjäger des FC Bayern</title>
 </programme>
 <programme start="20251223210000 +0000" stop="20251223213000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live Sky Sport News: Top News</title>
+    <title>Transfer Update: Spezial - Füllkrugs WM-Plan: Wechsel zur AC Mailand!</title>
 </programme>
 <programme start="20251223213000 +0000" stop="20251223220000 +0000" channel="Sky Sport News HD.skyde">
     <title>Meine Geschichte: Das Leben von Miron Muslic</title>
