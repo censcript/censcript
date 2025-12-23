@@ -1207,8 +1207,123 @@
 <programme start="20251223160000 +0000" stop="20251223163000 +0000" channel="beIN Sports 2.mncvision">
     <title>ATP Tour 250 2025: Metz Day 3</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20251222190000 +0000" stop="20251222191800 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>ATP Doco Shorts</title>
+</programme>
+<programme start="20251222191800 +0000" stop="20251222194800 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>ATP Tour: This Week 2025, Ep 47</title>
+</programme>
+<programme start="20251222194800 +0000" stop="20251222220000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>AFCON 2025: EGY Vs ZIM (L)</title>
+</programme>
+<programme start="20251222220000 +0000" stop="20251222230000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>AO Originals 2026: AO25 Film</title>
+</programme>
+<programme start="20251222230000 +0000" stop="20251223003000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>Nitto ATP Finals 2025</title>
+</programme>
+<programme start="20251223003000 +0000" stop="20251223020000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>Nitto ATP Finals 2025</title>
+</programme>
+<programme start="20251223020000 +0000" stop="20251223030000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>ATP Tour Review Show 2025</title>
+</programme>
+<programme start="20251223030000 +0000" stop="20251223040000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>ATP Tour Review Show 2025</title>
+</programme>
+<programme start="20251223040000 +0000" stop="20251223053000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>ATP Tour 1000 2025: Paris Day 2</title>
+</programme>
+<programme start="20251223053000 +0000" stop="20251223070000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>ATP Tour 1000 2025: Paris Day 3</title>
+</programme>
+<programme start="20251223070000 +0000" stop="20251223083000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>ATP Tour 1000 2025: Paris Day 3</title>
+</programme>
+<programme start="20251223083000 +0000" stop="20251223100000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>Nitto ATP Finals 2025</title>
+</programme>
+<programme start="20251223100000 +0000" stop="20251223113000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>ATP Tour 1000 2025: Paris QF 1</title>
+</programme>
+<programme start="20251223113000 +0000" stop="20251223130000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>ATP Tour 1000 2025: Paris QF 2</title>
+</programme>
+<programme start="20251223130000 +0000" stop="20251223143000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>Nitto ATP Finals 2025</title>
+</programme>
+<programme start="20251223143000 +0000" stop="20251223160000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>Nitto ATP Finals 2025</title>
+</programme>
+<programme start="20251223160000 +0000" stop="20251223163000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>ATP Tour 250 2025: Metz Day 3</title>
+</programme>
+<programme start="20251222180000 +0000" stop="20251222213000 +0000" channel="beIN Sports 3.mncvision">
+    <title>Ultimate Pool: Mixed Pairs (L)</title>
+</programme>
+<programme start="20251222213000 +0000" stop="20251222220000 +0000" channel="beIN Sports 3.mncvision">
+    <title>The Outdoor Sports Show 2025</title>
+</programme>
+<programme start="20251222220000 +0000" stop="20251222230000 +0000" channel="beIN Sports 3.mncvision">
+    <title>MUTV Specials: Scholesy</title>
+</programme>
+<programme start="20251222230000 +0000" stop="20251223000000 +0000" channel="beIN Sports 3.mncvision">
+    <title>FEI North American League</title>
+</programme>
+<programme start="20251223000000 +0000" stop="20251223003000 +0000" channel="beIN Sports 3.mncvision">
+    <title>MUTV HL 2025/26: MUN Vs BOU</title>
+</programme>
+<programme start="20251223003000 +0000" stop="20251223023000 +0000" channel="beIN Sports 3.mncvision">
+    <title>MUTV 2025/26: AVL Vs MUN</title>
+</programme>
+<programme start="20251223023000 +0000" stop="20251223030000 +0000" channel="beIN Sports 3.mncvision">
+    <title>MUTV Match Day: AVL Vs MUN</title>
+</programme>
+<programme start="20251223030000 +0000" stop="20251223040000 +0000" channel="beIN Sports 3.mncvision">
+    <title>HOKA Kodiak Ultramarathons</title>
+</programme>
+<programme start="20251223040000 +0000" stop="20251223043000 +0000" channel="beIN Sports 3.mncvision">
+    <title>Inside Sailing 2025: December</title>
+</programme>
+<programme start="20251223043000 +0000" stop="20251223050000 +0000" channel="beIN Sports 3.mncvision">
+    <title>The Outdoor Sports Show 2025</title>
+</programme>
+<programme start="20251223050000 +0000" stop="20251223065000 +0000" channel="beIN Sports 3.mncvision">
+    <title>AFCON 2025: EGY Vs ZIM</title>
+</programme>
+<programme start="20251223065000 +0000" stop="20251223070000 +0000" channel="beIN Sports 3.mncvision">
+    <title>UCL Classic Matches: AND Vs PSG</title>
+</programme>
+<programme start="20251223070000 +0000" stop="20251223073000 +0000" channel="beIN Sports 3.mncvision">
+    <title>MUTV HL 2025/26: MUN Vs BOU</title>
+</programme>
+<programme start="20251223073000 +0000" stop="20251223093000 +0000" channel="beIN Sports 3.mncvision">
+    <title>MUTV 2025/26: AVL Vs MUN</title>
+</programme>
+<programme start="20251223093000 +0000" stop="20251223100000 +0000" channel="beIN Sports 3.mncvision">
+    <title>MUTV Match Day: AVL Vs MUN</title>
+</programme>
+<programme start="20251223100000 +0000" stop="20251223103000 +0000" channel="beIN Sports 3.mncvision">
+    <title>UWCL Highlights 2025/26</title>
+</programme>
+<programme start="20251223103000 +0000" stop="20251223113000 +0000" channel="beIN Sports 3.mncvision">
+    <title>UEL/UECL Highlights 2025/26</title>
+</programme>
+<programme start="20251223113000 +0000" stop="20251223123000 +0000" channel="beIN Sports 3.mncvision">
+    <title>FEI Western Europe League</title>
+</programme>
+<programme start="20251223123000 +0000" stop="20251223133000 +0000" channel="beIN Sports 3.mncvision">
+    <title>FEI Western Europe League</title>
+</programme>
+<programme start="20251223133000 +0000" stop="20251223153000 +0000" channel="beIN Sports 3.mncvision">
+    <title>UWCL 2025/26: LYO Vs ATM</title>
+</programme>
+<programme start="20251223153000 +0000" stop="20251223160000 +0000" channel="beIN Sports 3.mncvision">
+    <title>UWCL Highlights 2025/26</title>
+</programme>
+<programme start="20251223160000 +0000" stop="20251223163000 +0000" channel="beIN Sports 3.mncvision">
+    <title>UECL 2025/26: ACS Vs ABE</title>
+</programme>
 <programme start="20251222180000 +0000" stop="20251222213000 +0000" channel="beIN Sports 3 HD.mncvision">
     <title>Ultimate Pool: Mixed Pairs (L)</title>
 </programme>
@@ -1467,8 +1582,90 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20251223163000 +0000" stop="20251222170000 +0000" channel="BTV.mncvision">
     <title>ONE Vault</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20251222182100 +0000" stop="20251222195600 +0000" channel="BUDDY STARS.mncvision">
+    <title>Silver</title>
+</programme>
+<programme start="20251222195600 +0000" stop="20251222213800 +0000" channel="BUDDY STARS.mncvision">
+    <title>The Little Ghost</title>
+</programme>
+<programme start="20251222213800 +0000" stop="20251222231000 +0000" channel="BUDDY STARS.mncvision">
+    <title>Silver</title>
+</programme>
+<programme start="20251222231000 +0000" stop="20251223005000 +0000" channel="BUDDY STARS.mncvision">
+    <title>Pokemon Movie: Secrets Of...</title>
+</programme>
+<programme start="20251223005000 +0000" stop="20251223023600 +0000" channel="BUDDY STARS.mncvision">
+    <title>Silver</title>
+</programme>
+<programme start="20251223023600 +0000" stop="20251223041300 +0000" channel="BUDDY STARS.mncvision">
+    <title>The Queen&#039;s Corgi</title>
+</programme>
+<programme start="20251223041300 +0000" stop="20251223045500 +0000" channel="BUDDY STARS.mncvision">
+    <title>Silver</title>
+</programme>
+<programme start="20251223045500 +0000" stop="20251223063500 +0000" channel="BUDDY STARS.mncvision">
+    <title>Rally Caps</title>
+</programme>
+<programme start="20251223063500 +0000" stop="20251223081100 +0000" channel="BUDDY STARS.mncvision">
+    <title>Silver</title>
+</programme>
+<programme start="20251223081100 +0000" stop="20251223100200 +0000" channel="BUDDY STARS.mncvision">
+    <title>Animals United</title>
+</programme>
+<programme start="20251223100200 +0000" stop="20251223114400 +0000" channel="BUDDY STARS.mncvision">
+    <title>Silver</title>
+</programme>
+<programme start="20251223114400 +0000" stop="20251223132800 +0000" channel="BUDDY STARS.mncvision">
+    <title>The Christmas Project Reunion</title>
+</programme>
+<programme start="20251223132800 +0000" stop="20251223153200 +0000" channel="BUDDY STARS.mncvision">
+    <title>Silver</title>
+</programme>
+<programme start="20251223153200 +0000" stop="20251223160200 +0000" channel="BUDDY STARS.mncvision">
+    <title>Escape From Planet Earth</title>
+</programme>
+<programme start="20251222182100 +0000" stop="20251222195600 +0000" channel="BUDDY STARS HD.mncvision">
+    <title>Silver</title>
+</programme>
+<programme start="20251222195600 +0000" stop="20251222213800 +0000" channel="BUDDY STARS HD.mncvision">
+    <title>The Little Ghost</title>
+</programme>
+<programme start="20251222213800 +0000" stop="20251222231000 +0000" channel="BUDDY STARS HD.mncvision">
+    <title>Silver</title>
+</programme>
+<programme start="20251222231000 +0000" stop="20251223005000 +0000" channel="BUDDY STARS HD.mncvision">
+    <title>Pokemon Movie: Secrets Of...</title>
+</programme>
+<programme start="20251223005000 +0000" stop="20251223023600 +0000" channel="BUDDY STARS HD.mncvision">
+    <title>Silver</title>
+</programme>
+<programme start="20251223023600 +0000" stop="20251223041300 +0000" channel="BUDDY STARS HD.mncvision">
+    <title>The Queen&#039;s Corgi</title>
+</programme>
+<programme start="20251223041300 +0000" stop="20251223045500 +0000" channel="BUDDY STARS HD.mncvision">
+    <title>Silver</title>
+</programme>
+<programme start="20251223045500 +0000" stop="20251223063500 +0000" channel="BUDDY STARS HD.mncvision">
+    <title>Rally Caps</title>
+</programme>
+<programme start="20251223063500 +0000" stop="20251223081100 +0000" channel="BUDDY STARS HD.mncvision">
+    <title>Silver</title>
+</programme>
+<programme start="20251223081100 +0000" stop="20251223100200 +0000" channel="BUDDY STARS HD.mncvision">
+    <title>Animals United</title>
+</programme>
+<programme start="20251223100200 +0000" stop="20251223114400 +0000" channel="BUDDY STARS HD.mncvision">
+    <title>Silver</title>
+</programme>
+<programme start="20251223114400 +0000" stop="20251223132800 +0000" channel="BUDDY STARS HD.mncvision">
+    <title>The Christmas Project Reunion</title>
+</programme>
+<programme start="20251223132800 +0000" stop="20251223153200 +0000" channel="BUDDY STARS HD.mncvision">
+    <title>Silver</title>
+</programme>
+<programme start="20251223153200 +0000" stop="20251223160200 +0000" channel="BUDDY STARS HD.mncvision">
+    <title>Escape From Planet Earth</title>
+</programme>
 <programme start="20251222170000 +0000" stop="20251222170700 +0000" channel="CBeebies.mncvision">
     <title>Hey Duggee S5, Ep 6</title>
 </programme>
@@ -3323,8 +3520,228 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20251223160000 +0000" stop="20251223163000 +0000" channel="Food Travel HD.mncvision">
     <title>Makan Bareng Luna</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20251222170000 +0000" stop="20251222180000 +0000" channel="FOX News.mncvision">
+    <title>Outnumbered</title>
+</programme>
+<programme start="20251222180000 +0000" stop="20251222190000 +0000" channel="FOX News.mncvision">
+    <title>America Reports</title>
+</programme>
+<programme start="20251222190000 +0000" stop="20251222200000 +0000" channel="FOX News.mncvision">
+    <title>America Reports</title>
+</programme>
+<programme start="20251222200000 +0000" stop="20251222210000 +0000" channel="FOX News.mncvision">
+    <title>The Story</title>
+</programme>
+<programme start="20251222210000 +0000" stop="20251222220000 +0000" channel="FOX News.mncvision">
+    <title>The Will Cain Show</title>
+</programme>
+<programme start="20251222220000 +0000" stop="20251222230000 +0000" channel="FOX News.mncvision">
+    <title>The Five</title>
+</programme>
+<programme start="20251222230000 +0000" stop="20251223000000 +0000" channel="FOX News.mncvision">
+    <title>Special Report With Bret Baier</title>
+</programme>
+<programme start="20251223000000 +0000" stop="20251223010000 +0000" channel="FOX News.mncvision">
+    <title>The Ingraham Angle</title>
+</programme>
+<programme start="20251223010000 +0000" stop="20251223020000 +0000" channel="FOX News.mncvision">
+    <title>Jesse Watters Primetime</title>
+</programme>
+<programme start="20251223020000 +0000" stop="20251223030000 +0000" channel="FOX News.mncvision">
+    <title>Hannity</title>
+</programme>
+<programme start="20251223030000 +0000" stop="20251223040000 +0000" channel="FOX News.mncvision">
+    <title>Gutfeld!</title>
+</programme>
+<programme start="20251223040000 +0000" stop="20251223050000 +0000" channel="FOX News.mncvision">
+    <title>Fox News At Night</title>
+</programme>
+<programme start="20251223050000 +0000" stop="20251223060000 +0000" channel="FOX News.mncvision">
+    <title>The Five</title>
+</programme>
+<programme start="20251223060000 +0000" stop="20251223070000 +0000" channel="FOX News.mncvision">
+    <title>Jesse Watters Primetime</title>
+</programme>
+<programme start="20251223070000 +0000" stop="20251223080000 +0000" channel="FOX News.mncvision">
+    <title>Hannity</title>
+</programme>
+<programme start="20251223080000 +0000" stop="20251223090000 +0000" channel="FOX News.mncvision">
+    <title>Gutfeld!</title>
+</programme>
+<programme start="20251223090000 +0000" stop="20251223100000 +0000" channel="FOX News.mncvision">
+    <title>The Ingraham Angle</title>
+</programme>
+<programme start="20251223100000 +0000" stop="20251223110000 +0000" channel="FOX News.mncvision">
+    <title>Fox &amp; Friends First</title>
+</programme>
+<programme start="20251223110000 +0000" stop="20251223120000 +0000" channel="FOX News.mncvision">
+    <title>Fox &amp; Friends</title>
+</programme>
+<programme start="20251223120000 +0000" stop="20251223130000 +0000" channel="FOX News.mncvision">
+    <title>Fox &amp; Friends</title>
+</programme>
+<programme start="20251223130000 +0000" stop="20251223140000 +0000" channel="FOX News.mncvision">
+    <title>Fox &amp; Friends</title>
+</programme>
+<programme start="20251223140000 +0000" stop="20251223150000 +0000" channel="FOX News.mncvision">
+    <title>America&#039;s Newsroom</title>
+</programme>
+<programme start="20251223150000 +0000" stop="20251223160000 +0000" channel="FOX News.mncvision">
+    <title>America&#039;s Newsroom</title>
+</programme>
+<programme start="20251223160000 +0000" stop="20251223163000 +0000" channel="FOX News.mncvision">
+    <title>The Faulkner Focus</title>
+</programme>
+<programme start="20251222170000 +0000" stop="20251222171000 +0000" channel="France 24 English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20251222171000 +0000" stop="20251222173000 +0000" channel="France 24 English.mncvision">
+    <title>Reporters Plus</title>
+</programme>
+<programme start="20251222173000 +0000" stop="20251222174000 +0000" channel="France 24 English.mncvision">
+    <title>Bulletin (L)</title>
+</programme>
+<programme start="20251222174000 +0000" stop="20251222180000 +0000" channel="France 24 English.mncvision">
+    <title>Revisited</title>
+</programme>
+<programme start="20251222180000 +0000" stop="20251222183000 +0000" channel="France 24 English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20251222183000 +0000" stop="20251222190000 +0000" channel="France 24 English.mncvision">
+    <title>Bulletin (L)</title>
+</programme>
+<programme start="20251222190000 +0000" stop="20251222191500 +0000" channel="France 24 English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20251222191500 +0000" stop="20251222193000 +0000" channel="France 24 English.mncvision">
+    <title>ENTR Long</title>
+</programme>
+<programme start="20251222193000 +0000" stop="20251222194500 +0000" channel="France 24 English.mncvision">
+    <title>Bulletin (L)</title>
+</programme>
+<programme start="20251222194500 +0000" stop="20251222200000 +0000" channel="France 24 English.mncvision">
+    <title>Eye On Africa (L)</title>
+</programme>
+<programme start="20251222200000 +0000" stop="20251222201500 +0000" channel="France 24 English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20251222201500 +0000" stop="20251222202000 +0000" channel="France 24 English.mncvision">
+    <title>Focus Alone</title>
+</programme>
+<programme start="20251222202000 +0000" stop="20251222203000 +0000" channel="France 24 English.mncvision">
+    <title>The Observers</title>
+</programme>
+<programme start="20251222203000 +0000" stop="20251222204500 +0000" channel="France 24 English.mncvision">
+    <title>Bulletin (L)</title>
+</programme>
+<programme start="20251222204500 +0000" stop="20251222210000 +0000" channel="France 24 English.mncvision">
+    <title>Eye On Africa (L)</title>
+</programme>
+<programme start="20251222210000 +0000" stop="20251222213000 +0000" channel="France 24 English.mncvision">
+    <title>JT African Cup Of Nation (L)</title>
+</programme>
+<programme start="20251222213000 +0000" stop="20251222214500 +0000" channel="France 24 English.mncvision">
+    <title>Bulletin (L)</title>
+</programme>
+<programme start="20251222214500 +0000" stop="20251222220000 +0000" channel="France 24 English.mncvision">
+    <title>French Connections Plus</title>
+</programme>
+<programme start="20251222220000 +0000" stop="20251222221000 +0000" channel="France 24 English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20251222221000 +0000" stop="20251222223000 +0000" channel="France 24 English.mncvision">
+    <title>Paris Des Arts</title>
+</programme>
+<programme start="20251222223000 +0000" stop="20251222224000 +0000" channel="France 24 English.mncvision">
+    <title>Bulletin (L)</title>
+</programme>
+<programme start="20251222224000 +0000" stop="20251222225200 +0000" channel="France 24 English.mncvision">
+    <title>ENTR Long</title>
+</programme>
+<programme start="20251222225200 +0000" stop="20251222230000 +0000" channel="France 24 English.mncvision">
+    <title>Entre Nous</title>
+</programme>
+<programme start="20251222230000 +0000" stop="20251222231500 +0000" channel="France 24 English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20251222231500 +0000" stop="20251222232000 +0000" channel="France 24 English.mncvision">
+    <title>Focus Alone</title>
+</programme>
+<programme start="20251222232000 +0000" stop="20251222233000 +0000" channel="France 24 English.mncvision">
+    <title>French Connections</title>
+</programme>
+<programme start="20251222233000 +0000" stop="20251222234500 +0000" channel="France 24 English.mncvision">
+    <title>Bulletin (L)</title>
+</programme>
+<programme start="20251222234500 +0000" stop="20251223000000 +0000" channel="France 24 English.mncvision">
+    <title>Arts24</title>
+</programme>
+<programme start="20251223000000 +0000" stop="20251223001500 +0000" channel="France 24 English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20251223001500 +0000" stop="20251223004200 +0000" channel="France 24 English.mncvision">
+    <title>JT African Cup Of Nation</title>
+</programme>
+<programme start="20251223004200 +0000" stop="20251223010000 +0000" channel="France 24 English.mncvision">
+    <title>Eye On Africa</title>
+</programme>
+<programme start="20251223010000 +0000" stop="20251223011500 +0000" channel="France 24 English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20251223011500 +0000" stop="20251223013000 +0000" channel="France 24 English.mncvision">
+    <title>Reporters</title>
+</programme>
+<programme start="20251223013000 +0000" stop="20251223014500 +0000" channel="France 24 English.mncvision">
+    <title>Bulletin (L)</title>
+</programme>
+<programme start="20251223014500 +0000" stop="20251223020000 +0000" channel="France 24 English.mncvision">
+    <title>The Percent</title>
+</programme>
+<programme start="20251223020000 +0000" stop="20251223021500 +0000" channel="France 24 English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20251223021500 +0000" stop="20251223023000 +0000" channel="France 24 English.mncvision">
+    <title>French Connections Plus</title>
+</programme>
+<programme start="20251223023000 +0000" stop="20251223024500 +0000" channel="France 24 English.mncvision">
+    <title>Bulletin (L)</title>
+</programme>
+<programme start="20251223024500 +0000" stop="20251223030000 +0000" channel="France 24 English.mncvision">
+    <title>France In Focus</title>
+</programme>
+<programme start="20251223030000 +0000" stop="20251223031500 +0000" channel="France 24 English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20251223031500 +0000" stop="20251223033000 +0000" channel="France 24 English.mncvision">
+    <title>Eye On Africa</title>
+</programme>
+<programme start="20251223033000 +0000" stop="20251223034500 +0000" channel="France 24 English.mncvision">
+    <title>Bulletin (L)</title>
+</programme>
+<programme start="20251223034500 +0000" stop="20251223040000 +0000" channel="France 24 English.mncvision">
+    <title>Arts24</title>
+</programme>
+<programme start="20251223040000 +0000" stop="20251223041500 +0000" channel="France 24 English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20251223041500 +0000" stop="20251223043000 +0000" channel="France 24 English.mncvision">
+    <title>The Percent</title>
+</programme>
+<programme start="20251223043000 +0000" stop="20251223044500 +0000" channel="France 24 English.mncvision">
+    <title>Bulletin (L)</title>
+</programme>
+<programme start="20251223044500 +0000" stop="20251223045000 +0000" channel="France 24 English.mncvision">
+    <title>Focus Alone</title>
+</programme>
+<programme start="20251223045000 +0000" stop="20251223050000 +0000" channel="France 24 English.mncvision">
+    <title>Sports Pad</title>
+</programme>
+<programme start="20251223050000 +0000" stop="20251223051500 +0000" channel="France 24 English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20251223051500 +0000" stop="20251223054500 +0000" channel="France 24 English.mncvision">
+    <title>ENTR Long</title>
+</programme>
 <programme start="20251222182500 +0000" stop="20251222200000 +0000" channel="Galaxy.mncvision">
     <title>Gravy</title>
 </programme>
@@ -3415,8 +3832,192 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20251223151500 +0000" stop="20251223154500 +0000" channel="Galaxy Premium.mncvision">
     <title>The 5th Wave</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20251222174000 +0000" stop="20251222183500 +0000" channel="Global Trekker.mncvision">
+    <title>Fantastic Friends, Ep 5</title>
+</programme>
+<programme start="20251222183500 +0000" stop="20251222193000 +0000" channel="Global Trekker.mncvision">
+    <title>Fantastic Friends, Ep 6</title>
+</programme>
+<programme start="20251222193000 +0000" stop="20251222202000 +0000" channel="Global Trekker.mncvision">
+    <title>Evolving Vegan, Ep 1</title>
+</programme>
+<programme start="20251222202000 +0000" stop="20251222211000 +0000" channel="Global Trekker.mncvision">
+    <title>Evolving Vegan, Ep 2</title>
+</programme>
+<programme start="20251222211000 +0000" stop="20251222220000 +0000" channel="Global Trekker.mncvision">
+    <title>Evolving Vegan, Ep 3</title>
+</programme>
+<programme start="20251222220000 +0000" stop="20251222224500 +0000" channel="Global Trekker.mncvision">
+    <title>Evolving Vegan, Ep 4</title>
+</programme>
+<programme start="20251222224500 +0000" stop="20251222233500 +0000" channel="Global Trekker.mncvision">
+    <title>Evolving Vegan, Ep 5</title>
+</programme>
+<programme start="20251222233500 +0000" stop="20251223002000 +0000" channel="Global Trekker.mncvision">
+    <title>Evolving Vegan, Ep 6</title>
+</programme>
+<programme start="20251223002000 +0000" stop="20251223004500 +0000" channel="Global Trekker.mncvision">
+    <title>New Zealand Food Story S4, Ep 1</title>
+</programme>
+<programme start="20251223004500 +0000" stop="20251223011000 +0000" channel="Global Trekker.mncvision">
+    <title>New Zealand Food Story S4, Ep 2</title>
+</programme>
+<programme start="20251223011000 +0000" stop="20251223013500 +0000" channel="Global Trekker.mncvision">
+    <title>New Zealand Food Story S4, Ep 3</title>
+</programme>
+<programme start="20251223013500 +0000" stop="20251223020000 +0000" channel="Global Trekker.mncvision">
+    <title>New Zealand Food Story S4, Ep 4</title>
+</programme>
+<programme start="20251223020000 +0000" stop="20251223022500 +0000" channel="Global Trekker.mncvision">
+    <title>New Zealand Food Story S4, Ep 5</title>
+</programme>
+<programme start="20251223022500 +0000" stop="20251223025000 +0000" channel="Global Trekker.mncvision">
+    <title>New Zealand Food Story S4, Ep 6</title>
+</programme>
+<programme start="20251223025000 +0000" stop="20251223031500 +0000" channel="Global Trekker.mncvision">
+    <title>New Zealand Food Story S4, Ep 7</title>
+</programme>
+<programme start="20251223031500 +0000" stop="20251223040500 +0000" channel="Global Trekker.mncvision">
+    <title>Most Luxurious Train..., Ep 1</title>
+</programme>
+<programme start="20251223040500 +0000" stop="20251223045500 +0000" channel="Global Trekker.mncvision">
+    <title>Most Luxurious Train..., Ep 2</title>
+</programme>
+<programme start="20251223045500 +0000" stop="20251223054500 +0000" channel="Global Trekker.mncvision">
+    <title>Most Luxurious Train..., Ep 3</title>
+</programme>
+<programme start="20251223054500 +0000" stop="20251223063500 +0000" channel="Global Trekker.mncvision">
+    <title>Most Luxurious Train..., Ep 4</title>
+</programme>
+<programme start="20251223063500 +0000" stop="20251223072500 +0000" channel="Global Trekker.mncvision">
+    <title>Evolving Vegan S2, Ep 1</title>
+</programme>
+<programme start="20251223072500 +0000" stop="20251223081500 +0000" channel="Global Trekker.mncvision">
+    <title>Evolving Vegan S2, Ep 2</title>
+</programme>
+<programme start="20251223081500 +0000" stop="20251223090500 +0000" channel="Global Trekker.mncvision">
+    <title>Evolving Vegan S2, Ep 3</title>
+</programme>
+<programme start="20251223090500 +0000" stop="20251223095500 +0000" channel="Global Trekker.mncvision">
+    <title>Evolving Vegan S2, Ep 4</title>
+</programme>
+<programme start="20251223095500 +0000" stop="20251223104500 +0000" channel="Global Trekker.mncvision">
+    <title>Evolving Vegan S2, Ep 5</title>
+</programme>
+<programme start="20251223104500 +0000" stop="20251223113500 +0000" channel="Global Trekker.mncvision">
+    <title>Evolving Vegan S2, Ep 6</title>
+</programme>
+<programme start="20251223113500 +0000" stop="20251223123000 +0000" channel="Global Trekker.mncvision">
+    <title>Fantastic Friends, Ep 1</title>
+</programme>
+<programme start="20251223123000 +0000" stop="20251223132500 +0000" channel="Global Trekker.mncvision">
+    <title>Fantastic Friends, Ep 2</title>
+</programme>
+<programme start="20251223132500 +0000" stop="20251223142000 +0000" channel="Global Trekker.mncvision">
+    <title>Fantastic Friends, Ep 3</title>
+</programme>
+<programme start="20251223142000 +0000" stop="20251223151500 +0000" channel="Global Trekker.mncvision">
+    <title>Fantastic Friends, Ep 4</title>
+</programme>
+<programme start="20251223151500 +0000" stop="20251223161000 +0000" channel="Global Trekker.mncvision">
+    <title>Fantastic Friends, Ep 5</title>
+</programme>
+<programme start="20251223161000 +0000" stop="20251223164000 +0000" channel="Global Trekker.mncvision">
+    <title>Fantastic Friends, Ep 6</title>
+</programme>
+<programme start="20251222174000 +0000" stop="20251222183500 +0000" channel="Global Trekker HD.mncvision">
+    <title>Fantastic Friends, Ep 5</title>
+</programme>
+<programme start="20251222183500 +0000" stop="20251222193000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Fantastic Friends, Ep 6</title>
+</programme>
+<programme start="20251222193000 +0000" stop="20251222202000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Evolving Vegan, Ep 1</title>
+</programme>
+<programme start="20251222202000 +0000" stop="20251222211000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Evolving Vegan, Ep 2</title>
+</programme>
+<programme start="20251222211000 +0000" stop="20251222220000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Evolving Vegan, Ep 3</title>
+</programme>
+<programme start="20251222220000 +0000" stop="20251222224500 +0000" channel="Global Trekker HD.mncvision">
+    <title>Evolving Vegan, Ep 4</title>
+</programme>
+<programme start="20251222224500 +0000" stop="20251222233500 +0000" channel="Global Trekker HD.mncvision">
+    <title>Evolving Vegan, Ep 5</title>
+</programme>
+<programme start="20251222233500 +0000" stop="20251223002000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Evolving Vegan, Ep 6</title>
+</programme>
+<programme start="20251223002000 +0000" stop="20251223004500 +0000" channel="Global Trekker HD.mncvision">
+    <title>New Zealand Food Story S4, Ep 1</title>
+</programme>
+<programme start="20251223004500 +0000" stop="20251223011000 +0000" channel="Global Trekker HD.mncvision">
+    <title>New Zealand Food Story S4, Ep 2</title>
+</programme>
+<programme start="20251223011000 +0000" stop="20251223013500 +0000" channel="Global Trekker HD.mncvision">
+    <title>New Zealand Food Story S4, Ep 3</title>
+</programme>
+<programme start="20251223013500 +0000" stop="20251223020000 +0000" channel="Global Trekker HD.mncvision">
+    <title>New Zealand Food Story S4, Ep 4</title>
+</programme>
+<programme start="20251223020000 +0000" stop="20251223022500 +0000" channel="Global Trekker HD.mncvision">
+    <title>New Zealand Food Story S4, Ep 5</title>
+</programme>
+<programme start="20251223022500 +0000" stop="20251223025000 +0000" channel="Global Trekker HD.mncvision">
+    <title>New Zealand Food Story S4, Ep 6</title>
+</programme>
+<programme start="20251223025000 +0000" stop="20251223031500 +0000" channel="Global Trekker HD.mncvision">
+    <title>New Zealand Food Story S4, Ep 7</title>
+</programme>
+<programme start="20251223031500 +0000" stop="20251223040500 +0000" channel="Global Trekker HD.mncvision">
+    <title>Most Luxurious Train..., Ep 1</title>
+</programme>
+<programme start="20251223040500 +0000" stop="20251223045500 +0000" channel="Global Trekker HD.mncvision">
+    <title>Most Luxurious Train..., Ep 2</title>
+</programme>
+<programme start="20251223045500 +0000" stop="20251223054500 +0000" channel="Global Trekker HD.mncvision">
+    <title>Most Luxurious Train..., Ep 3</title>
+</programme>
+<programme start="20251223054500 +0000" stop="20251223063500 +0000" channel="Global Trekker HD.mncvision">
+    <title>Most Luxurious Train..., Ep 4</title>
+</programme>
+<programme start="20251223063500 +0000" stop="20251223072500 +0000" channel="Global Trekker HD.mncvision">
+    <title>Evolving Vegan S2, Ep 1</title>
+</programme>
+<programme start="20251223072500 +0000" stop="20251223081500 +0000" channel="Global Trekker HD.mncvision">
+    <title>Evolving Vegan S2, Ep 2</title>
+</programme>
+<programme start="20251223081500 +0000" stop="20251223090500 +0000" channel="Global Trekker HD.mncvision">
+    <title>Evolving Vegan S2, Ep 3</title>
+</programme>
+<programme start="20251223090500 +0000" stop="20251223095500 +0000" channel="Global Trekker HD.mncvision">
+    <title>Evolving Vegan S2, Ep 4</title>
+</programme>
+<programme start="20251223095500 +0000" stop="20251223104500 +0000" channel="Global Trekker HD.mncvision">
+    <title>Evolving Vegan S2, Ep 5</title>
+</programme>
+<programme start="20251223104500 +0000" stop="20251223113500 +0000" channel="Global Trekker HD.mncvision">
+    <title>Evolving Vegan S2, Ep 6</title>
+</programme>
+<programme start="20251223113500 +0000" stop="20251223123000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Fantastic Friends, Ep 1</title>
+</programme>
+<programme start="20251223123000 +0000" stop="20251223132500 +0000" channel="Global Trekker HD.mncvision">
+    <title>Fantastic Friends, Ep 2</title>
+</programme>
+<programme start="20251223132500 +0000" stop="20251223142000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Fantastic Friends, Ep 3</title>
+</programme>
+<programme start="20251223142000 +0000" stop="20251223151500 +0000" channel="Global Trekker HD.mncvision">
+    <title>Fantastic Friends, Ep 4</title>
+</programme>
+<programme start="20251223151500 +0000" stop="20251223161000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Fantastic Friends, Ep 5</title>
+</programme>
+<programme start="20251223161000 +0000" stop="20251223164000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Fantastic Friends, Ep 6</title>
+</programme>
 <programme start="20251222170000 +0000" stop="20251222180000 +0000" channel="GTV.mncvision">
     <title>Jelajah Mitos</title>
 </programme>
@@ -7971,8 +8572,99 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20251223150000 +0000" stop="20251223153000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>A-League Men: NEW Vs SYD</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20251222170000 +0000" stop="20251222180000 +0000" channel="SPOTV HD.mncvision">
+    <title>2025 AUSX Supercross C&#039;ship</title>
+</programme>
+<programme start="20251222180000 +0000" stop="20251222183000 +0000" channel="SPOTV HD.mncvision">
+    <title>ALM Mini Match: MAC Vs BRI</title>
+</programme>
+<programme start="20251222183000 +0000" stop="20251222190000 +0000" channel="SPOTV HD.mncvision">
+    <title>ALM Mini Match: WSW Vs AKL</title>
+</programme>
+<programme start="20251222190000 +0000" stop="20251222213000 +0000" channel="SPOTV HD.mncvision">
+    <title>WTT US Smash 2025</title>
+</programme>
+<programme start="20251222213000 +0000" stop="20251222220000 +0000" channel="SPOTV HD.mncvision">
+    <title>WTT US Smash 2025</title>
+</programme>
+<programme start="20251222220000 +0000" stop="20251222223000 +0000" channel="SPOTV HD.mncvision">
+    <title>UIM E1: Champions Of Water</title>
+</programme>
+<programme start="20251222223000 +0000" stop="20251223003000 +0000" channel="SPOTV HD.mncvision">
+    <title>A-League Men: PER Vs ADL</title>
+</programme>
+<programme start="20251223003000 +0000" stop="20251223013000 +0000" channel="SPOTV HD.mncvision">
+    <title>2025 AUSX Supercross C&#039;ship</title>
+</programme>
+<programme start="20251223013000 +0000" stop="20251223040000 +0000" channel="SPOTV HD.mncvision">
+    <title>Archery World Cup: Shanghai</title>
+</programme>
+<programme start="20251223040000 +0000" stop="20251223043000 +0000" channel="SPOTV HD.mncvision">
+    <title>ALM Mini Match: MAC Vs BRI</title>
+</programme>
+<programme start="20251223043000 +0000" stop="20251223050000 +0000" channel="SPOTV HD.mncvision">
+    <title>ALM Mini Match: WSW Vs AKL</title>
+</programme>
+<programme start="20251223050000 +0000" stop="20251223060000 +0000" channel="SPOTV HD.mncvision">
+    <title>2025 AUSX Supercross C&#039;ship</title>
+</programme>
+<programme start="20251223060000 +0000" stop="20251223084500 +0000" channel="SPOTV HD.mncvision">
+    <title>Archery World Cup: Shanghai</title>
+</programme>
+<programme start="20251223084500 +0000" stop="20251223104500 +0000" channel="SPOTV HD.mncvision">
+    <title>Archery World Cup: Shanghai</title>
+</programme>
+<programme start="20251223104500 +0000" stop="20251223130000 +0000" channel="SPOTV HD.mncvision">
+    <title>Archery World Cup: Shanghai</title>
+</programme>
+<programme start="20251223130000 +0000" stop="20251223150000 +0000" channel="SPOTV HD.mncvision">
+    <title>25/26 Scottish Premiership</title>
+</programme>
+<programme start="20251223150000 +0000" stop="20251223160000 +0000" channel="SPOTV HD.mncvision">
+    <title>2025 AUSX Supercross C&#039;ship</title>
+</programme>
+<programme start="20251223160000 +0000" stop="20251223163000 +0000" channel="SPOTV HD.mncvision">
+    <title>2025 AUSX Supercross C&#039;ship</title>
+</programme>
+<programme start="20251222182500 +0000" stop="20251222203500 +0000" channel="Studio Universal.mncvision">
+    <title>Downton Abbey</title>
+</programme>
+<programme start="20251222203500 +0000" stop="20251222222500 +0000" channel="Studio Universal.mncvision">
+    <title>Intolerable Cruelty</title>
+</programme>
+<programme start="20251222222500 +0000" stop="20251222230000 +0000" channel="Studio Universal.mncvision">
+    <title>Jurassic World Rebirth: New Era</title>
+</programme>
+<programme start="20251222230000 +0000" stop="20251223011000 +0000" channel="Studio Universal.mncvision">
+    <title>Notting Hill</title>
+</programme>
+<programme start="20251223011000 +0000" stop="20251223030500 +0000" channel="Studio Universal.mncvision">
+    <title>Mamma Mia!</title>
+</programme>
+<programme start="20251223030500 +0000" stop="20251223044500 +0000" channel="Studio Universal.mncvision">
+    <title>Sixteen Candles</title>
+</programme>
+<programme start="20251223044500 +0000" stop="20251223063500 +0000" channel="Studio Universal.mncvision">
+    <title>Intolerable Cruelty</title>
+</programme>
+<programme start="20251223063500 +0000" stop="20251223084500 +0000" channel="Studio Universal.mncvision">
+    <title>Notting Hill</title>
+</programme>
+<programme start="20251223084500 +0000" stop="20251223103000 +0000" channel="Studio Universal.mncvision">
+    <title>The Prince Of Egypt</title>
+</programme>
+<programme start="20251223103000 +0000" stop="20251223121000 +0000" channel="Studio Universal.mncvision">
+    <title>Mr. Peabody &amp; Sherman</title>
+</programme>
+<programme start="20251223121000 +0000" stop="20251223141500 +0000" channel="Studio Universal.mncvision">
+    <title>47 Ronin</title>
+</programme>
+<programme start="20251223141500 +0000" stop="20251223163500 +0000" channel="Studio Universal.mncvision">
+    <title>Van Helsing</title>
+</programme>
+<programme start="20251223163500 +0000" stop="20251222170500 +0000" channel="Studio Universal.mncvision">
+    <title>The Prince Of Egypt</title>
+</programme>
 <programme start="20251222182500 +0000" stop="20251222203500 +0000" channel="Studio Universal HD.mncvision">
     <title>Downton Abbey</title>
 </programme>
