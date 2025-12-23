@@ -7162,8 +7162,11 @@
     <programme start="20251223070000 +0000" stop="20251223080000 +0000" channel="COLORS.starhub">
         <title>Mangal Lakshmi</title>
     </programme>
-    <programme start="20251223080000 +0000" stop="20251223090000 +0000" channel="COLORS.starhub">
+    <programme start="20251223080000 +0000" stop="20251223083000 +0000" channel="COLORS.starhub">
         <title>Seher Hone Ko Hai</title>
+    </programme>
+    <programme start="20251223083000 +0000" stop="20251223090000 +0000" channel="COLORS.starhub">
+        <title>Shiv-Shakti Tap..Tyaag..Tandav</title>
     </programme>
     <programme start="20251223090000 +0000" stop="20251223093000 +0000" channel="COLORS.starhub">
         <title>Mannat Harr Khushi Paane Ki</title>
@@ -7189,11 +7192,11 @@
     <programme start="20251223130000 +0000" stop="20251223140000 +0000" channel="COLORS.starhub">
         <title>Mangal Lakshmi</title>
     </programme>
-    <programme start="20251223140000 +0000" stop="20251223150000 +0000" channel="COLORS.starhub">
+    <programme start="20251223140000 +0000" stop="20251223143000 +0000" channel="COLORS.starhub">
         <title>Seher Hone Ko Hai</title>
     </programme>
-    <programme start="20251223150000 +0000" stop="20251223153000 +0000" channel="COLORS.starhub">
-        <title>Noyontara</title>
+    <programme start="20251223143000 +0000" stop="20251223153000 +0000" channel="COLORS.starhub">
+        <title>Mangal Lakshmi</title>
     </programme>
     <programme start="20251223153000 +0000" stop="20251223160000 +0000" channel="COLORS.starhub">
         <title>Tuu Juliet Jatt Di</title>
