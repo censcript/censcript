@@ -2826,11 +2826,8 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251223080000 +0000" stop="20251223083000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NBA: Showtime</title>
 </programme>
-<programme start="20251223083000 +0000" stop="20251223103000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20251223083000 +0000" stop="20251223110000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NBA: Charlotte Hornets @ Cleveland Cavaliers</title>
-</programme>
-<programme start="20251223103000 +0000" stop="20251223110000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>Frauen-BL: Alle Spiele, alle Tore, 14. Spieltag komplett</title>
 </programme>
 <programme start="20251223110000 +0000" stop="20251223130000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Vancouver Canucks @ Philadelphia Flyers</title>
@@ -2838,11 +2835,8 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251223130000 +0000" stop="20251223133000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: On the Fly</title>
 </programme>
-<programme start="20251223133000 +0000" stop="20251223153000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20251223133000 +0000" stop="20251223160000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NBA: Memphis Grizzlies @ Oklahoma City Thunder</title>
-</programme>
-<programme start="20251223153000 +0000" stop="20251223160000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NHL: On the Fly</title>
 </programme>
 <programme start="20251223160000 +0000" stop="20251223163000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Fußball: scooore Niederlande! Alle Tore</title>
@@ -3156,6 +3150,9 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251223123000 +0000" stop="20251223143000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>NBA: Memphis Grizzlies @ Oklahoma City Thunder</title>
 </programme>
+<programme start="20251223143000 +0000" stop="20251223150000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>NHL: On the Fly</title>
+</programme>
 <programme start="20251223150000 +0000" stop="20251223170000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>NHL: Vancouver Canucks @ Philadelphia Flyers</title>
 </programme>
@@ -3186,110 +3183,14 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251222233000 +0000" stop="20251223001000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime</title>
 </programme>
-<programme start="20251223001000 +0000" stop="20251223024500 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20251223001000 +0000" stop="20251223030000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Charlotte Hornets @ Cleveland Cavaliers</title>
 </programme>
-<programme start="20251223024500 +0000" stop="20251223050000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20251223030000 +0000" stop="20251223050000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Memphis Grizzlies @ Oklahoma City Thunder</title>
 </programme>
-<programme start="20251223050000 +0000" stop="20251223055000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20251223050000 +0000" stop="20251223090000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime - Post Show</title>
-</programme>
-<programme start="20251222230500 +0000" stop="20251222235000 +0000" channel="SYFY HD.skyde">
-    <title>Stargate SG-1</title>
-</programme>
-<programme start="20251222235000 +0000" stop="20251223003500 +0000" channel="SYFY HD.skyde">
-    <title>Stargate: Atlantis</title>
-</programme>
-<programme start="20251223003500 +0000" stop="20251223012000 +0000" channel="SYFY HD.skyde">
-    <title>Stargate: Atlantis</title>
-</programme>
-<programme start="20251223012000 +0000" stop="20251223020500 +0000" channel="SYFY HD.skyde">
-    <title>Stargate: Atlantis</title>
-</programme>
-<programme start="20251223020500 +0000" stop="20251223025000 +0000" channel="SYFY HD.skyde">
-    <title>Akte X - Die unheimlichen Fälle des FBI</title>
-</programme>
-<programme start="20251223025000 +0000" stop="20251223033500 +0000" channel="SYFY HD.skyde">
-    <title>Akte X - Die unheimlichen Fälle des FBI</title>
-</programme>
-<programme start="20251223033500 +0000" stop="20251223042000 +0000" channel="SYFY HD.skyde">
-    <title>Akte X - Die unheimlichen Fälle des FBI</title>
-</programme>
-<programme start="20251223042000 +0000" stop="20251223050000 +0000" channel="SYFY HD.skyde">
-    <title>Akte X - Die unheimlichen Fälle des FBI</title>
-</programme>
-<programme start="20251223050000 +0000" stop="20251223051000 +0000" channel="SYFY HD.skyde">
-    <title>Sci Xpert - Leschs Universum</title>
-</programme>
-<programme start="20251223051000 +0000" stop="20251223055500 +0000" channel="SYFY HD.skyde">
-    <title>Van Helsing</title>
-</programme>
-<programme start="20251223055500 +0000" stop="20251223064000 +0000" channel="SYFY HD.skyde">
-    <title>Van Helsing</title>
-</programme>
-<programme start="20251223064000 +0000" stop="20251223073000 +0000" channel="SYFY HD.skyde">
-    <title>Van Helsing</title>
-</programme>
-<programme start="20251223073000 +0000" stop="20251223081500 +0000" channel="SYFY HD.skyde">
-    <title>La Brea</title>
-</programme>
-<programme start="20251223081500 +0000" stop="20251223090000 +0000" channel="SYFY HD.skyde">
-    <title>La Brea</title>
-</programme>
-<programme start="20251223090000 +0000" stop="20251223094500 +0000" channel="SYFY HD.skyde">
-    <title>Stargate: Atlantis</title>
-</programme>
-<programme start="20251223094500 +0000" stop="20251223103000 +0000" channel="SYFY HD.skyde">
-    <title>Stargate: Atlantis</title>
-</programme>
-<programme start="20251223103000 +0000" stop="20251223112000 +0000" channel="SYFY HD.skyde">
-    <title>Stargate: Atlantis</title>
-</programme>
-<programme start="20251223112000 +0000" stop="20251223120500 +0000" channel="SYFY HD.skyde">
-    <title>Stargate SG-1</title>
-</programme>
-<programme start="20251223120500 +0000" stop="20251223125500 +0000" channel="SYFY HD.skyde">
-    <title>Stargate SG-1</title>
-</programme>
-<programme start="20251223125500 +0000" stop="20251223134000 +0000" channel="SYFY HD.skyde">
-    <title>Stargate SG-1</title>
-</programme>
-<programme start="20251223134000 +0000" stop="20251223143000 +0000" channel="SYFY HD.skyde">
-    <title>Akte X - Die unheimlichen Fälle des FBI</title>
-</programme>
-<programme start="20251223143000 +0000" stop="20251223151500 +0000" channel="SYFY HD.skyde">
-    <title>Akte X - Die unheimlichen Fälle des FBI</title>
-</programme>
-<programme start="20251223151500 +0000" stop="20251223160500 +0000" channel="SYFY HD.skyde">
-    <title>Akte X - Die unheimlichen Fälle des FBI</title>
-</programme>
-<programme start="20251223160500 +0000" stop="20251223165500 +0000" channel="SYFY HD.skyde">
-    <title>Akte X - Die unheimlichen Fälle des FBI</title>
-</programme>
-<programme start="20251223165500 +0000" stop="20251223174000 +0000" channel="SYFY HD.skyde">
-    <title>Stargate: Atlantis</title>
-</programme>
-<programme start="20251223174000 +0000" stop="20251223182500 +0000" channel="SYFY HD.skyde">
-    <title>Stargate: Atlantis</title>
-</programme>
-<programme start="20251223182500 +0000" stop="20251223191500 +0000" channel="SYFY HD.skyde">
-    <title>Stargate: Atlantis</title>
-</programme>
-<programme start="20251223191500 +0000" stop="20251223200000 +0000" channel="SYFY HD.skyde">
-    <title>La Brea</title>
-</programme>
-<programme start="20251223200000 +0000" stop="20251223204500 +0000" channel="SYFY HD.skyde">
-    <title>La Brea</title>
-</programme>
-<programme start="20251223204500 +0000" stop="20251223213000 +0000" channel="SYFY HD.skyde">
-    <title>La Brea</title>
-</programme>
-<programme start="20251223213000 +0000" stop="20251223221500 +0000" channel="SYFY HD.skyde">
-    <title>Stargate SG-1</title>
-</programme>
-<programme start="20251223221500 +0000" stop="20251223230500 +0000" channel="SYFY HD.skyde">
-    <title>Stargate SG-1</title>
 </programme>
 <programme start="20251222234000 +0000" stop="20251223002500 +0000" channel="Universal TV HD.skyde">
     <title>Chicago Med</title>

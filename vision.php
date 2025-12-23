@@ -685,26 +685,8 @@
 <programme start="20251223073000 +0000" stop="20251223083000 +0000" channel="ANTV.vision">
 <title>Shani</title>
 </programme>
-<programme start="20251223083000 +0000" stop="20251223110000 +0000" channel="ANTV.vision">
-<title>Saur Sepuh 2</title>
-</programme>
 <programme start="20251223110000 +0000" stop="20251223123000 +0000" channel="ANTV.vision">
 <title>Senandung Cinta Lilis</title>
-</programme>
-<programme start="20251223123000 +0000" stop="20251223143000 +0000" channel="ANTV.vision">
-<title>Mandala Dari Sungai Ular</title>
-</programme>
-<programme start="20251223143000 +0000" stop="20251223163000 +0000" channel="ANTV.vision">
-<title>Pencet Sana Pencet Sini</title>
-</programme>
-<programme start="20251223163000 +0000" stop="20251223183000 +0000" channel="ANTV.vision">
-<title>The Doll 2</title>
-</programme>
-<programme start="20251223183000 +0000" stop="20251223200000 +0000" channel="ANTV.vision">
-<title>Aces Go Places</title>
-</programme>
-<programme start="20251223200000 +0000" stop="20251223220000 +0000" channel="ANTV.vision">
-<title>Peking Opera Blues</title>
 </programme>
 <programme start="20251223220000 +0000" stop="20251223230000 +0000" channel="ANTV.vision">
 <title>Zeynep</title>
@@ -1496,5 +1478,23 @@
 <title>TVRI</title>
 </programme>
 <programme start="20251223190000 +0000" stop="20251223210000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251223210000 +0000" stop="20251223230000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251223230000 +0000" stop="20251224010000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251224010000 +0000" stop="20251224030000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251224030000 +0000" stop="20251224050000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251224050000 +0000" stop="20251224070000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251224070000 +0000" stop="20251224090000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
