@@ -4217,7 +4217,7 @@
         <title>AfrAsia Bank Mauritius Open Day 4</title>
     </programme>
     <programme start="20251223130000 +0000" stop="20251223160000 +0000" channel="Hub Sports 3 HD.starhub">
-        <title>Skechers World Champions Cup supporting Shriners Children&#039;s Final Rd Afternoon Session</title>
+        <title>Skechers World Champions Cup supporting Shriners Children&#039;s Final Round Afternoon Session</title>
     </programme>
     <programme start="20251222160000 +0000" stop="20251222161500 +0000" channel="France24.starhub">
         <title>News</title>

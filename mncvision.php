@@ -416,7 +416,7 @@
     <title>Shani</title>
 </programme>
 <programme start="20251223083000 +0000" stop="20251223110000 +0000" channel="ANTV.mncvision">
-    <title>Saur Sepuh 2</title>
+    <title>Gadis Bionik</title>
 </programme>
 <programme start="20251223110000 +0000" stop="20251223123000 +0000" channel="ANTV.mncvision">
     <title>Senandung Cinta Lilis</title>
@@ -4058,10 +4058,10 @@
     <title>SpongeBob SquarePants</title>
 </programme>
 <programme start="20251223113000 +0000" stop="20251223133000 +0000" channel="GTV.mncvision">
-    <title>The Dragon Tamer</title>
+    <title>The Expendables 3</title>
 </programme>
 <programme start="20251223133000 +0000" stop="20251223150000 +0000" channel="GTV.mncvision">
-    <title>Desert Dragon</title>
+    <title>Return Of Special Force 5</title>
 </programme>
 <programme start="20251223150000 +0000" stop="20251223160000 +0000" channel="GTV.mncvision">
     <title>Untold Story</title>
@@ -4109,10 +4109,10 @@
     <title>SpongeBob SquarePants</title>
 </programme>
 <programme start="20251223113000 +0000" stop="20251223133000 +0000" channel="GTV HD.mncvision">
-    <title>The Dragon Tamer</title>
+    <title>The Expendables 3</title>
 </programme>
 <programme start="20251223133000 +0000" stop="20251223150000 +0000" channel="GTV HD.mncvision">
-    <title>Desert Dragon</title>
+    <title>Return Of Special Force 5</title>
 </programme>
 <programme start="20251223150000 +0000" stop="20251223160000 +0000" channel="GTV HD.mncvision">
     <title>Untold Story</title>
@@ -8220,78 +8220,6 @@
 </programme>
 <programme start="20251223153000 +0000" stop="20251223160000 +0000" channel="Sportstars 2 HD.mncvision">
     <title>Tinju</title>
-</programme>
-<programme start="20251222170000 +0000" stop="20251222190000 +0000" channel="Sportstars 3.mncvision">
-    <title>Bundesliga</title>
-</programme>
-<programme start="20251222190000 +0000" stop="20251222210000 +0000" channel="Sportstars 3.mncvision">
-    <title>BRI Liga 1</title>
-</programme>
-<programme start="20251222210000 +0000" stop="20251222230000 +0000" channel="Sportstars 3.mncvision">
-    <title>European Qualifiers</title>
-</programme>
-<programme start="20251222230000 +0000" stop="20251223010000 +0000" channel="Sportstars 3.mncvision">
-    <title>Bundesliga</title>
-</programme>
-<programme start="20251223010000 +0000" stop="20251223030000 +0000" channel="Sportstars 3.mncvision">
-    <title>Liga 2</title>
-</programme>
-<programme start="20251223030000 +0000" stop="20251223050000 +0000" channel="Sportstars 3.mncvision">
-    <title>BRI Liga 1</title>
-</programme>
-<programme start="20251223050000 +0000" stop="20251223070000 +0000" channel="Sportstars 3.mncvision">
-    <title>Bundesliga</title>
-</programme>
-<programme start="20251223070000 +0000" stop="20251223090000 +0000" channel="Sportstars 3.mncvision">
-    <title>European Qualifiers</title>
-</programme>
-<programme start="20251223090000 +0000" stop="20251223110000 +0000" channel="Sportstars 3.mncvision">
-    <title>Liga 2</title>
-</programme>
-<programme start="20251223110000 +0000" stop="20251223130000 +0000" channel="Sportstars 3.mncvision">
-    <title>BRI Liga 1</title>
-</programme>
-<programme start="20251223130000 +0000" stop="20251223150000 +0000" channel="Sportstars 3.mncvision">
-    <title>European Qualifiers</title>
-</programme>
-<programme start="20251223150000 +0000" stop="20251223153000 +0000" channel="Sportstars 3.mncvision">
-    <title>Liga 2</title>
-</programme>
-<programme start="20251222170000 +0000" stop="20251222190000 +0000" channel="sportstars 3 HD.mncvision">
-    <title>Bundesliga</title>
-</programme>
-<programme start="20251222190000 +0000" stop="20251222210000 +0000" channel="sportstars 3 HD.mncvision">
-    <title>BRI Liga 1</title>
-</programme>
-<programme start="20251222210000 +0000" stop="20251222230000 +0000" channel="sportstars 3 HD.mncvision">
-    <title>European Qualifiers</title>
-</programme>
-<programme start="20251222230000 +0000" stop="20251223010000 +0000" channel="sportstars 3 HD.mncvision">
-    <title>Bundesliga</title>
-</programme>
-<programme start="20251223010000 +0000" stop="20251223030000 +0000" channel="sportstars 3 HD.mncvision">
-    <title>Liga 2</title>
-</programme>
-<programme start="20251223030000 +0000" stop="20251223050000 +0000" channel="sportstars 3 HD.mncvision">
-    <title>BRI Liga 1</title>
-</programme>
-<programme start="20251223050000 +0000" stop="20251223070000 +0000" channel="sportstars 3 HD.mncvision">
-    <title>Bundesliga</title>
-</programme>
-<programme start="20251223070000 +0000" stop="20251223090000 +0000" channel="sportstars 3 HD.mncvision">
-    <title>European Qualifiers</title>
-</programme>
-<programme start="20251223090000 +0000" stop="20251223110000 +0000" channel="sportstars 3 HD.mncvision">
-    <title>Liga 2</title>
-</programme>
-<programme start="20251223110000 +0000" stop="20251223130000 +0000" channel="sportstars 3 HD.mncvision">
-    <title>BRI Liga 1</title>
-</programme>
-<programme start="20251223130000 +0000" stop="20251223150000 +0000" channel="sportstars 3 HD.mncvision">
-    <title>European Qualifiers</title>
-</programme>
-<programme start="20251223150000 +0000" stop="20251223153000 +0000" channel="sportstars 3 HD.mncvision">
-    <title>Liga 2</title>
 </programme>
 <programme start="20251222170000 +0000" stop="20251222190000 +0000" channel="Sportstars 4.mncvision">
     <title>Bundesliga</title>

@@ -262,20 +262,29 @@
 <programme start="20251223040000 +0000" stop="20251223060000 +0000" channel="iNews.vision">
 <title>iNews Siang (L)</title>
 </programme>
+<programme start="20251223060000 +0000" stop="20251223063000 +0000" channel="iNews.vision">
+<title>Pemimpin Rakyat (iNews)</title>
+</programme>
 <programme start="20251223063000 +0000" stop="20251223080000 +0000" channel="iNews.vision">
 <title>iSeleb (L)</title>
 </programme>
 <programme start="20251223080000 +0000" stop="20251223093000 +0000" channel="iNews.vision">
 <title>Realita (L)</title>
 </programme>
-<programme start="20251223093000 +0000" stop="20251223110000 +0000" channel="iNews.vision">
+<programme start="20251223093000 +0000" stop="20251223105500 +0000" channel="iNews.vision">
 <title>Inews Sore (Live)</title>
 </programme>
 <programme start="20251223105500 +0000" stop="20251223110000 +0000" channel="iNews.vision">
 <title>iNews Terkini</title>
 </programme>
+<programme start="20251223110000 +0000" stop="20251223113000 +0000" channel="iNews.vision">
+<title>iBreak: ESDM</title>
+</programme>
 <programme start="20251223113000 +0000" stop="20251223120000 +0000" channel="iNews.vision">
 <title>iNews Sore (L)</title>
+</programme>
+<programme start="20251223120000 +0000" stop="20251223140000 +0000" channel="iNews.vision">
+<title>Rakyat Bersuara (L)</title>
 </programme>
 <programme start="20251223140000 +0000" stop="20251223150000 +0000" channel="iNews.vision">
 <title>iNews Prime (L)</title>
@@ -288,6 +297,12 @@
 </programme>
 <programme start="20251223163000 +0000" stop="20251223170000 +0000" channel="iNews.vision">
 <title>iNews</title>
+</programme>
+<programme start="20251223170000 +0000" stop="20251223180000 +0000" channel="iNews.vision">
+<title>Realita</title>
+</programme>
+<programme start="20251223180000 +0000" stop="20251223184500 +0000" channel="iNews.vision">
+<title>iNews Prime</title>
 </programme>
 <programme start="20251223184500 +0000" stop="20251223194500 +0000" channel="iNews.vision">
 <title>iNews Sore</title>
@@ -1478,5 +1493,8 @@
 <title>TVRI</title>
 </programme>
 <programme start="20251223170000 +0000" stop="20251223190000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251223190000 +0000" stop="20251223210000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
