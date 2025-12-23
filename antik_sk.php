@@ -2554,17 +2554,26 @@
   <programme start="20251224230000 +0000" stop="20251225070000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">LIDOVÝ ŠLÁGR MIŠMAŠ</title>
   </programme>
-  <programme start="20251225070000 +0000" stop="20251225110000 +0000" channel="Šláger Muzika.webtv.sk">
-    <title lang="id">DOPOLEDNÍ DECHOVKA</title>
-  </programme>
-  <programme start="20251225110000 +0000" stop="20251225150000 +0000" channel="Šláger Muzika.webtv.sk">
-    <title lang="id">POLEDNÍ DECHOVKA</title>
-  </programme>
-  <programme start="20251225150000 +0000" stop="20251225180000 +0000" channel="Šláger Muzika.webtv.sk">
+  <programme start="20251225070000 +0000" stop="20251225130000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">Z DECHOVKY DO DECHOVKY</title>
   </programme>
-  <programme start="20251225180000 +0000" stop="20251225210000 +0000" channel="Šláger Muzika.webtv.sk">
-    <title lang="id">VEČERNÍ ZÁBAVA NA DVOJCE</title>
+  <programme start="20251225130000 +0000" stop="20251225150000 +0000" channel="Šláger Muzika.webtv.sk">
+    <title lang="id">MUZIKY, MUZIKY</title>
+  </programme>
+  <programme start="20251225150000 +0000" stop="20251225170000 +0000" channel="Šláger Muzika.webtv.sk">
+    <title lang="id">Z DECHOVKY DO DECHOVKY</title>
+  </programme>
+  <programme start="20251225170000 +0000" stop="20251225183000 +0000" channel="Šláger Muzika.webtv.sk">
+    <title lang="id">PÍSNIČKY NA PŘÁNÍ</title>
+  </programme>
+  <programme start="20251225183000 +0000" stop="20251225190000 +0000" channel="Šláger Muzika.webtv.sk">
+    <title lang="id">ČAS NA DECHOVKU</title>
+  </programme>
+  <programme start="20251225190000 +0000" stop="20251225203000 +0000" channel="Šláger Muzika.webtv.sk">
+    <title lang="id">NEJŽÁDANĚJŠÍ PÍSNIČKY</title>
+  </programme>
+  <programme start="20251225203000 +0000" stop="20251225210000 +0000" channel="Šláger Muzika.webtv.sk">
+    <title lang="id">HARMONIKY</title>
   </programme>
   <programme start="20251225210000 +0000" stop="20251225230000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">Z DECHOVKY DO DECHOVKY</title>
