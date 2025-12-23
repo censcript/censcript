@@ -110,12 +110,8 @@
     <title>Football: AEK - OFI</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251223120000 +0700" stop="20251223151500 +0700" channel="COSMOTE Sport 3 HD">
-    <title>American Football: Baltimore Ravens - New England Patriots</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251223151500 +0700" stop="20251223154000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>William Hill Scottish Premiership - Highlights</title>
+<programme start="20251224163000 +0700" stop="20251224183000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Sassuolo - Torino</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251223154000 +0700" stop="20251223174000 +0700" channel="COSMOTE Sport 3 HD">
@@ -319,6 +315,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251224150000 +0700" stop="20251224161000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>2025 FIM Women&#039;s Circuit Racing World Championship</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251224161000 +0700" stop="20251224170500 +0700" channel="COSMOTE Sport 5 HD">
     <title>2025 FIM Women&#039;s Circuit Racing World Championship</title>
     <desc>Live: Tidak</desc>
 </programme>
