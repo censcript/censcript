@@ -3619,10 +3619,10 @@
   <programme start="20251225044500 +0000" stop="20251225050000 +0000" channel="CNN Prima News.webtv.sk">
     <title lang="id">Vánoční archiv</title>
   </programme>
-  <programme start="20251225050000 +0000" stop="20251225054500 +0000" channel="CNN Prima News.webtv.sk">
+  <programme start="20251225050000 +0000" stop="20251225054000 +0000" channel="CNN Prima News.webtv.sk">
     <title lang="id">Live Aid: Příběh největšího koncertu všech dob</title>
   </programme>
-  <programme start="20251225054500 +0000" stop="20251225060000 +0000" channel="CNN Prima News.webtv.sk">
+  <programme start="20251225054000 +0000" stop="20251225060000 +0000" channel="CNN Prima News.webtv.sk">
     <title lang="id">Prima ARCHIV</title>
   </programme>
   <programme start="20251225060000 +0000" stop="20251225063000 +0000" channel="CNN Prima News.webtv.sk">
@@ -3634,7 +3634,10 @@
   <programme start="20251225070000 +0000" stop="20251225073000 +0000" channel="CNN Prima News.webtv.sk">
     <title lang="id">Zprávy</title>
   </programme>
-  <programme start="20251225073000 +0000" stop="20251225074500 +0000" channel="CNN Prima News.webtv.sk">
+  <programme start="20251225073000 +0000" stop="20251225074000 +0000" channel="CNN Prima News.webtv.sk">
+    <title lang="id">Prima ZIMA</title>
+  </programme>
+  <programme start="20251225074000 +0000" stop="20251225074500 +0000" channel="CNN Prima News.webtv.sk">
     <title lang="id">Prima ZIMA</title>
   </programme>
   <programme start="20251225074500 +0000" stop="20251225080000 +0000" channel="CNN Prima News.webtv.sk">
@@ -3670,23 +3673,35 @@
   <programme start="20251225123000 +0000" stop="20251225130000 +0000" channel="CNN Prima News.webtv.sk">
     <title lang="id">Speciál: Rok v ČESKU</title>
   </programme>
-  <programme start="20251225130000 +0000" stop="20251225132000 +0000" channel="CNN Prima News.webtv.sk">
+  <programme start="20251225130000 +0000" stop="20251225131500 +0000" channel="CNN Prima News.webtv.sk">
     <title lang="id">Zprávy</title>
   </programme>
-  <programme start="20251225132000 +0000" stop="20251225134500 +0000" channel="CNN Prima News.webtv.sk">
+  <programme start="20251225131500 +0000" stop="20251225132000 +0000" channel="CNN Prima News.webtv.sk">
     <title lang="id">Prima ČESKO: Vánoční speciál</title>
+  </programme>
+  <programme start="20251225132000 +0000" stop="20251225134000 +0000" channel="CNN Prima News.webtv.sk">
+    <title lang="id">Prima ČESKO: Vánoční speciál</title>
+  </programme>
+  <programme start="20251225134000 +0000" stop="20251225134500 +0000" channel="CNN Prima News.webtv.sk">
+    <title lang="id">Vánoční archiv</title>
   </programme>
   <programme start="20251225134500 +0000" stop="20251225140000 +0000" channel="CNN Prima News.webtv.sk">
     <title lang="id">Vánoční archiv</title>
   </programme>
-  <programme start="20251225140000 +0000" stop="20251225141500 +0000" channel="CNN Prima News.webtv.sk">
+  <programme start="20251225140000 +0000" stop="20251225141300 +0000" channel="CNN Prima News.webtv.sk">
     <title lang="id">Zprávy</title>
+  </programme>
+  <programme start="20251225141300 +0000" stop="20251225141500 +0000" channel="CNN Prima News.webtv.sk">
+    <title lang="id">Počasí</title>
   </programme>
   <programme start="20251225141500 +0000" stop="20251225142000 +0000" channel="CNN Prima News.webtv.sk">
     <title lang="id">Počasí</title>
   </programme>
-  <programme start="20251225142000 +0000" stop="20251225144500 +0000" channel="CNN Prima News.webtv.sk">
+  <programme start="20251225142000 +0000" stop="20251225144000 +0000" channel="CNN Prima News.webtv.sk">
     <title lang="id">Prima SVĚT: Vánoční speciál</title>
+  </programme>
+  <programme start="20251225144000 +0000" stop="20251225144500 +0000" channel="CNN Prima News.webtv.sk">
+    <title lang="id">Prima ZIMA</title>
   </programme>
   <programme start="20251225144500 +0000" stop="20251225150000 +0000" channel="CNN Prima News.webtv.sk">
     <title lang="id">Prima ZIMA</title>
@@ -3730,13 +3745,13 @@
   <programme start="20251225203000 +0000" stop="20251225210000 +0000" channel="CNN Prima News.webtv.sk">
     <title lang="id">Speciál: Rok v ČESKU</title>
   </programme>
-  <programme start="20251225210000 +0000" stop="20251225214500 +0000" channel="CNN Prima News.webtv.sk">
+  <programme start="20251225210000 +0000" stop="20251225215000 +0000" channel="CNN Prima News.webtv.sk">
     <title lang="id">Zprávy</title>
   </programme>
-  <programme start="20251225214500 +0000" stop="20251225221000 +0000" channel="CNN Prima News.webtv.sk">
+  <programme start="20251225215000 +0000" stop="20251225221500 +0000" channel="CNN Prima News.webtv.sk">
     <title lang="id">Speciál: Rok ve SVĚTĚ</title>
   </programme>
-  <programme start="20251225221000 +0000" stop="20251225230000 +0000" channel="CNN Prima News.webtv.sk">
+  <programme start="20251225221500 +0000" stop="20251225230000 +0000" channel="CNN Prima News.webtv.sk">
     <title lang="id">Live Aid: Příběh největšího koncertu všech dob</title>
   </programme>
   <programme start="20251224230000 +0000" stop="20251224234500 +0000" channel="Prima Cool SK.webtv.sk">

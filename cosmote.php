@@ -118,9 +118,9 @@
     <title>Football: Volos - Panetolikos</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251224034500 +0700" stop="20251224054500 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Vitoria Guimaraes - Sporting CP (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20251225065000 +0700" stop="20251225072000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Serie A Full Impact 2024-25 E16</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251224054500 +0700" stop="20251224064500 +0700" channel="COSMOTE Sport 3 HD">
     <title>Emirates FA Cup 2025-26 - Highlights</title>
@@ -246,10 +246,6 @@
     <title>Basketball: Unicaja - Karditsa</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251224043000 +0700" stop="20251224053000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251224053000 +0700" stop="20251224063000 +0700" channel="COSMOTE Sport 5 HD">
     <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
@@ -342,8 +338,8 @@
     <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251224015500 +0700" stop="20251224053000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Volleyball: Warta Zawiercie - Sir Sicoma Monini Perugia</title>
+<programme start="20251225063000 +0700" stop="20251225070000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251224053000 +0700" stop="20251224075000 +0700" channel="COSMOTE Sport 6 HD">
@@ -387,6 +383,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251225045000 +0700" stop="20251225065500 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Athletics: World Athletics Continental Tour Gold 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251225065500 +0700" stop="20251225090000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Athletics: World Athletics Continental Tour Gold 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
