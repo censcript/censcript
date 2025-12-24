@@ -1507,66 +1507,6 @@
 <programme start="20251224224000 +0000" stop="20251224230500 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20251223231500 +0000" stop="20251224004500 +0000" channel="Romance TV HD.skyde">
-    <title>Rosamunde Pilcher: Das Geheimnis der Blumeninsel</title>
-</programme>
-<programme start="20251224004500 +0000" stop="20251224021500 +0000" channel="Romance TV HD.skyde">
-    <title>Rosamunde Pilcher: Im Zweifel für die Liebe</title>
-</programme>
-<programme start="20251224021500 +0000" stop="20251224030000 +0000" channel="Romance TV HD.skyde">
-    <title>Familie Dr. Kleist</title>
-</programme>
-<programme start="20251224030000 +0000" stop="20251224030500 +0000" channel="Romance TV HD.skyde">
-    <title>Paare</title>
-</programme>
-<programme start="20251224030500 +0000" stop="20251224032000 +0000" channel="Romance TV HD.skyde">
-    <title>Stars im Interview</title>
-</programme>
-<programme start="20251224032000 +0000" stop="20251224044500 +0000" channel="Romance TV HD.skyde">
-    <title>Donna Leon: Das Mädchen seiner Träume</title>
-</programme>
-<programme start="20251224044500 +0000" stop="20251224064000 +0000" channel="Romance TV HD.skyde">
-    <title>Das Traumschiff - Papua-Neuguinea</title>
-</programme>
-<programme start="20251224064000 +0000" stop="20251224081500 +0000" channel="Romance TV HD.skyde">
-    <title>Das Traumschiff - Palau</title>
-</programme>
-<programme start="20251224081500 +0000" stop="20251224095000 +0000" channel="Romance TV HD.skyde">
-    <title>Lena Lorenz: Krank vor Sorge</title>
-</programme>
-<programme start="20251224095000 +0000" stop="20251224104500 +0000" channel="Romance TV HD.skyde">
-    <title>Familie Dr. Kleist</title>
-</programme>
-<programme start="20251224104500 +0000" stop="20251224121500 +0000" channel="Romance TV HD.skyde">
-    <title>Ein Sommer auf Kreta</title>
-</programme>
-<programme start="20251224121500 +0000" stop="20251224135000 +0000" channel="Romance TV HD.skyde">
-    <title>Rosamunde Pilcher: Das Geheimnis der Blumeninsel</title>
-</programme>
-<programme start="20251224135000 +0000" stop="20251224152500 +0000" channel="Romance TV HD.skyde">
-    <title>Rosamunde Pilcher: Im Zweifel für die Liebe</title>
-</programme>
-<programme start="20251224152500 +0000" stop="20251224165500 +0000" channel="Romance TV HD.skyde">
-    <title>Für immer Sommer - Ein neues Leben</title>
-</programme>
-<programme start="20251224165500 +0000" stop="20251224182500 +0000" channel="Romance TV HD.skyde">
-    <title>Frühling - Lauf weg, wenn du kannst</title>
-</programme>
-<programme start="20251224182500 +0000" stop="20251224191500 +0000" channel="Romance TV HD.skyde">
-    <title>Familie Dr. Kleist</title>
-</programme>
-<programme start="20251224191500 +0000" stop="20251224204000 +0000" channel="Romance TV HD.skyde">
-    <title>Ein buntes Weihnachtsfest</title>
-</programme>
-<programme start="20251224204000 +0000" stop="20251224220000 +0000" channel="Romance TV HD.skyde">
-    <title>Ein Weihnachtswunsch zu viel</title>
-</programme>
-<programme start="20251224220000 +0000" stop="20251224225000 +0000" channel="Romance TV HD.skyde">
-    <title>Familie Dr. Kleist</title>
-</programme>
-<programme start="20251224225000 +0000" stop="20251225002000 +0000" channel="Romance TV HD.skyde">
-    <title>Tief durchatmen, die Familie kommt</title>
-</programme>
 <programme start="20251223233000 +0000" stop="20251224000000 +0000" channel="Sky Atlantic HD.skyde">
     <title>Sex and the City</title>
 </programme>
@@ -1660,131 +1600,47 @@
 <programme start="20251224221500 +0000" stop="20251224231000 +0000" channel="Sky Atlantic HD.skyde">
     <title>Game of Thrones - Das Lied von Eis und Feuer</title>
 </programme>
-<programme start="20251223232000 +0000" stop="20251224012000 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>Gunpowder Milkshake</title>
+<programme start="20251223002000 +0000" stop="20251223020000 +0000" channel="Sky Cinema Classics HD.skyde">
+    <title>Der Henker von London</title>
 </programme>
-<programme start="20251224012000 +0000" stop="20251224031500 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>Annabelle 2</title>
+<programme start="20251223020000 +0000" stop="20251223031000 +0000" channel="Sky Cinema Classics HD.skyde">
+    <title>Die tätowierte Fremde</title>
 </programme>
-<programme start="20251224031500 +0000" stop="20251224045500 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>Gasoline Alley</title>
+<programme start="20251223031000 +0000" stop="20251223045500 +0000" channel="Sky Cinema Classics HD.skyde">
+    <title>Mord im Kloster</title>
 </programme>
-<programme start="20251224045500 +0000" stop="20251224063000 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>Rogue Hostage</title>
+<programme start="20251223045500 +0000" stop="20251223064500 +0000" channel="Sky Cinema Classics HD.skyde">
+    <title>Der Mann, der niemals aufgibt</title>
 </programme>
-<programme start="20251224063000 +0000" stop="20251224081500 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>Boss Level</title>
+<programme start="20251223064500 +0000" stop="20251223081500 +0000" channel="Sky Cinema Classics HD.skyde">
+    <title>In Beirut sind die Nächte lang</title>
 </programme>
-<programme start="20251224081500 +0000" stop="20251224100000 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>Friedhof der Kuscheltiere</title>
+<programme start="20251223081500 +0000" stop="20251223094500 +0000" channel="Sky Cinema Classics HD.skyde">
+    <title>Lawinenexpress</title>
 </programme>
-<programme start="20251224100000 +0000" stop="20251224121500 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>The Expendables 3 (Extended Director&#039;s Cut)</title>
+<programme start="20251223094500 +0000" stop="20251223111500 +0000" channel="Sky Cinema Classics HD.skyde">
+    <title>Der Löwe von Theben</title>
 </programme>
-<programme start="20251224121500 +0000" stop="20251224140500 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>The Last Witch Hunter</title>
+<programme start="20251223111500 +0000" stop="20251223132000 +0000" channel="Sky Cinema Classics HD.skyde">
+    <title>Der Mann, der Liberty Valance erschoss</title>
 </programme>
-<programme start="20251224140500 +0000" stop="20251224155500 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>The Protégé - Made for Revenge</title>
+<programme start="20251223132000 +0000" stop="20251223144500 +0000" channel="Sky Cinema Classics HD.skyde">
+    <title>Der Rächer</title>
 </programme>
-<programme start="20251224155500 +0000" stop="20251224174000 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>Friedhof der Kuscheltiere 2</title>
-</programme>
-<programme start="20251224174000 +0000" stop="20251224191500 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>47 Meters Down: Uncaged</title>
-</programme>
-<programme start="20251224191500 +0000" stop="20251224211000 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>Operation Fortune</title>
-</programme>
-<programme start="20251224211000 +0000" stop="20251224231000 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>Escape Plan</title>
-</programme>
-<programme start="20251224001500 +0000" stop="20251224013500 +0000" channel="Sky Cinema Classics HD.skyde">
-    <title>Der Siebente ist dran</title>
-</programme>
-<programme start="20251224013500 +0000" stop="20251224030000 +0000" channel="Sky Cinema Classics HD.skyde">
-    <title>Das Todesauge von Ceylon</title>
-</programme>
-<programme start="20251224030000 +0000" stop="20251224043500 +0000" channel="Sky Cinema Classics HD.skyde">
-    <title>Lieb Vaterland, magst ruhig sein</title>
-</programme>
-<programme start="20251224043500 +0000" stop="20251224060500 +0000" channel="Sky Cinema Classics HD.skyde">
-    <title>Sanders und das Schiff des Todes</title>
-</programme>
-<programme start="20251224060500 +0000" stop="20251224075500 +0000" channel="Sky Cinema Classics HD.skyde">
-    <title>Bis zur bitteren Neige</title>
-</programme>
-<programme start="20251224075500 +0000" stop="20251224092000 +0000" channel="Sky Cinema Classics HD.skyde">
-    <title>Heißes Spiel für harte Männer</title>
-</programme>
-<programme start="20251224092000 +0000" stop="20251224105500 +0000" channel="Sky Cinema Classics HD.skyde">
+<programme start="20251223144500 +0000" stop="20251223162000 +0000" channel="Sky Cinema Classics HD.skyde">
     <title>Königstiger vor El Alamein</title>
 </programme>
-<programme start="20251224105500 +0000" stop="20251224135000 +0000" channel="Sky Cinema Classics HD.skyde">
+<programme start="20251223162000 +0000" stop="20251223191500 +0000" channel="Sky Cinema Classics HD.skyde">
     <title>In 80 Tagen um die Welt</title>
 </programme>
-<programme start="20251224135000 +0000" stop="20251224152500 +0000" channel="Sky Cinema Classics HD.skyde">
-    <title>Alles um Anita</title>
+<programme start="20251223191500 +0000" stop="20251223211000 +0000" channel="Sky Cinema Classics HD.skyde">
+    <title>Planet der Affen</title>
 </programme>
-<programme start="20251224152500 +0000" stop="20251224172000 +0000" channel="Sky Cinema Classics HD.skyde">
-    <title>Die Flucht von Alcatraz</title>
+<programme start="20251223211000 +0000" stop="20251223225000 +0000" channel="Sky Cinema Classics HD.skyde">
+    <title>Rückkehr zum Planet der Affen</title>
 </programme>
-<programme start="20251224172000 +0000" stop="20251224191500 +0000" channel="Sky Cinema Classics HD.skyde">
-    <title>Der Glöckner von Notre Dame</title>
-</programme>
-<programme start="20251224191500 +0000" stop="20251224210500 +0000" channel="Sky Cinema Classics HD.skyde">
-    <title>Wir sind keine Engel</title>
-</programme>
-<programme start="20251224210500 +0000" stop="20251224224000 +0000" channel="Sky Cinema Classics HD.skyde">
-    <title>Der Hauptmann von Köpenick</title>
-</programme>
-<programme start="20251224224000 +0000" stop="20251225004000 +0000" channel="Sky Cinema Classics HD.skyde">
-    <title>Der weite Himmel</title>
-</programme>
-<programme start="20251223230500 +0000" stop="20251224005000 +0000" channel="Sky Cinema Family HD.skyde">
-    <title>Während Du schliefst</title>
-</programme>
-<programme start="20251224005000 +0000" stop="20251224023500 +0000" channel="Sky Cinema Family HD.skyde">
-    <title>Die Familie Stone - Verloben verboten!</title>
-</programme>
-<programme start="20251224023500 +0000" stop="20251224040500 +0000" channel="Sky Cinema Family HD.skyde">
-    <title>Der fabelhafte Mr. Blunden</title>
-</programme>
-<programme start="20251224040500 +0000" stop="20251224053500 +0000" channel="Sky Cinema Family HD.skyde">
-    <title>Der Grinch</title>
-</programme>
-<programme start="20251224053500 +0000" stop="20251224071500 +0000" channel="Sky Cinema Family HD.skyde">
-    <title>Bridget Jones - Schokolade zum Frühstück</title>
-</programme>
-<programme start="20251224071500 +0000" stop="20251224090000 +0000" channel="Sky Cinema Family HD.skyde">
-    <title>Edward mit den Scherenhänden</title>
-</programme>
-<programme start="20251224090000 +0000" stop="20251224103000 +0000" channel="Sky Cinema Family HD.skyde">
-    <title>Eine wüste Bescherung</title>
-</programme>
-<programme start="20251224103000 +0000" stop="20251224121500 +0000" channel="Sky Cinema Family HD.skyde">
-    <title>Das Wunder in der 8. Strasse</title>
-</programme>
-<programme start="20251224121500 +0000" stop="20251224140000 +0000" channel="Sky Cinema Family HD.skyde">
-    <title>Kevin - Allein zu Haus</title>
-</programme>
-<programme start="20251224140000 +0000" stop="20251224160000 +0000" channel="Sky Cinema Family HD.skyde">
-    <title>Kevin - Allein in New York</title>
-</programme>
-<programme start="20251224160000 +0000" stop="20251224174500 +0000" channel="Sky Cinema Family HD.skyde">
-    <title>Die Familie Stone - Verloben verboten!</title>
-</programme>
-<programme start="20251224174500 +0000" stop="20251224191500 +0000" channel="Sky Cinema Family HD.skyde">
-    <title>Der Grinch</title>
-</programme>
-<programme start="20251224191500 +0000" stop="20251224204500 +0000" channel="Sky Cinema Family HD.skyde">
-    <title>Versprochen ist versprochen</title>
-</programme>
-<programme start="20251224204500 +0000" stop="20251224224000 +0000" channel="Sky Cinema Family HD.skyde">
-    <title>Das Wunder von Manhattan</title>
-</programme>
-<programme start="20251224224000 +0000" stop="20251225002500 +0000" channel="Sky Cinema Family HD.skyde">
-    <title>Kevin - Allein zu Haus</title>
+<programme start="20251223225000 +0000" stop="20251224001500 +0000" channel="Sky Cinema Classics HD.skyde">
+    <title>Der Schatz vom Toplitzsee</title>
 </programme>
 <programme start="20251224001000 +0000" stop="20251224024500 +0000" channel="Sky Cinema Highlights HD.skyde">
     <title>Harry Potter und der Halbblutprinz</title>
@@ -3244,7 +3100,7 @@
 <programme start="20251224003000 +0000" stop="20251224010000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime</title>
 </programme>
-<programme start="20251224010000 +0000" stop="20251224034500 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20251224010000 +0000" stop="20251224090000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Denver Nuggets @ Dallas Mavericks</title>
 </programme>
 <programme start="20251223230500 +0000" stop="20251223235000 +0000" channel="SYFY HD.skyde">
