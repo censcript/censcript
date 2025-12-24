@@ -11,7 +11,7 @@
 <title>Seputar iNews Siang</title>
 </programme>
 <programme start="20251224051500 +0000" stop="20251224070000 +0000" channel="RCTI.vision">
-<title>Bajigur Mang Olon</title>
+<title>Boneka Misterius</title>
 </programme>
 <programme start="20251224070000 +0000" stop="20251224080000 +0000" channel="RCTI.vision">
 <title>Just Wanna Say I Love U</title>
@@ -36,51 +36,6 @@
 </programme>
 <programme start="20251224160000 +0000" stop="20251224180000 +0000" channel="RCTI.vision">
 <title>Christmas Celebration 2025 (RCTI)</title>
-</programme>
-<programme start="20251224180000 +0000" stop="20251224183000 +0000" channel="RCTI.vision">
-<title>Top Tukang Ojek Preman</title>
-</programme>
-<programme start="20251224183000 +0000" stop="20251224190000 +0000" channel="RCTI.vision">
-<title>Kompleks Pengabdi Istri</title>
-</programme>
-<programme start="20251224190000 +0000" stop="20251224201500 +0000" channel="RCTI.vision">
-<title>Kompleks Pengabdi Istri</title>
-</programme>
-<programme start="20251224201500 +0000" stop="20251224224500 +0000" channel="RCTI.vision">
-<title>Misa Natal Vatikan (Live)</title>
-</programme>
-<programme start="20251224224500 +0000" stop="20251224234500 +0000" channel="RCTI.vision">
-<title>Go Spot</title>
-</programme>
-<programme start="20251224234500 +0000" stop="20251225011500 +0000" channel="RCTI.vision">
-<title>Upin Ipin</title>
-</programme>
-<programme start="20251225011500 +0000" stop="20251225013000 +0000" channel="RCTI.vision">
-<title>Kiko</title>
-</programme>
-<programme start="20251225013000 +0000" stop="20251225043000 +0000" channel="RCTI.vision">
-<title>Doraemon (RCTI)</title>
-</programme>
-<programme start="20251225043000 +0000" stop="20251225051500 +0000" channel="RCTI.vision">
-<title>Seputar iNews Siang</title>
-</programme>
-<programme start="20251225051500 +0000" stop="20251225070000 +0000" channel="RCTI.vision">
-<title>Sule Superstar KW</title>
-</programme>
-<programme start="20251225070000 +0000" stop="20251225080000 +0000" channel="RCTI.vision">
-<title>Just Wanna Say I Love U</title>
-</programme>
-<programme start="20251225080000 +0000" stop="20251225090000 +0000" channel="RCTI.vision">
-<title>Preman Pensiun X</title>
-</programme>
-<programme start="20251225090000 +0000" stop="20251225103000 +0000" channel="RCTI.vision">
-<title>Manda Curhat (RCTI)</title>
-</programme>
-<programme start="20251225103000 +0000" stop="20251225114500 +0000" channel="RCTI.vision">
-<title>Terbelenggu Rindu (RCTI)</title>
-</programme>
-<programme start="20251225114500 +0000" stop="20251225131500 +0000" channel="RCTI.vision">
-<title>Mencintai Ipar Sendiri (RCTI)</title>
 </programme>
 <programme start="20251223231500 +0000" stop="20251224004500 +0000" channel="MNCTV.vision">
 <title>Kiko</title>
@@ -510,6 +465,9 @@
 </programme>
 <programme start="20251223230000 +0000" stop="20251224003000 +0000" channel="ANTV.vision">
 <title>Takdir Cinta Layla</title>
+</programme>
+<programme start="20251224023000 +0000" stop="20251224060000 +0000" channel="ANTV.vision">
+<title>Ra-One</title>
 </programme>
 <programme start="20251224060000 +0000" stop="20251224073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
@@ -1497,4 +1455,46 @@
 </programme>
 <programme start="20251225090000 +0000" stop="20251225093000 +0000" channel="DAAI TV.vision">
 <title>Cerita Sahabat</title>
+</programme>
+<programme start="20251225093000 +0000" stop="20251225094500 +0000" channel="DAAI TV.vision">
+<title>Pinocchio &amp; Friends</title>
+</programme>
+<programme start="20251225094500 +0000" stop="20251225100000 +0000" channel="DAAI TV.vision">
+<title>Pinocchio &amp; Friends</title>
+</programme>
+<programme start="20251225100000 +0000" stop="20251225103000 +0000" channel="DAAI TV.vision">
+<title>Clifford</title>
+</programme>
+<programme start="20251225103000 +0000" stop="20251225110000 +0000" channel="DAAI TV.vision">
+<title>Darwin &amp; Newts</title>
+</programme>
+<programme start="20251225110000 +0000" stop="20251225113000 +0000" channel="DAAI TV.vision">
+<title>Dr. Panda</title>
+</programme>
+<programme start="20251225113000 +0000" stop="20251225120000 +0000" channel="DAAI TV.vision">
+<title>Cerita Dan Rasa</title>
+</programme>
+<programme start="20251224000000 +0000" stop="20251224010500 +0000" channel="MDTV.vision">
+<title>AADD: Ada Apa Dengan Dunia</title>
+</programme>
+<programme start="20251224010500 +0000" stop="20251224015000 +0000" channel="MDTV.vision">
+<title>Fakta +62</title>
+</programme>
+<programme start="20251224015000 +0000" stop="20251224024500 +0000" channel="MDTV.vision">
+<title>Sensasihot</title>
+</programme>
+<programme start="20251224024500 +0000" stop="20251224040000 +0000" channel="MDTV.vision">
+<title>Rosalinda</title>
+</programme>
+<programme start="20251224040000 +0000" stop="20251224051500 +0000" channel="MDTV.vision">
+<title>Cerita Nyata</title>
+</programme>
+<programme start="20251224051500 +0000" stop="20251224071000 +0000" channel="MDTV.vision">
+<title>Cinta Fitri S5</title>
+</programme>
+<programme start="20251224071000 +0000" stop="20251224080500 +0000" channel="MDTV.vision">
+<title>Makan Enak</title>
+</programme>
+<programme start="20251224080500 +0000" stop="20251224090500 +0000" channel="MDTV.vision">
+<title>Masak Gesss!!!</title>
 </programme>

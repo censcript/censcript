@@ -3148,10 +3148,10 @@
 <programme start="20251223234500 +0000" stop="20251224022000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NHL: Dallas Stars @ Detroit Red Wings</title>
 </programme>
-<programme start="20251224022000 +0000" stop="20251224033000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20251224022000 +0000" stop="20251224040000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Denver Nuggets @ Dallas Mavericks</title>
 </programme>
-<programme start="20251224033000 +0000" stop="20251224063000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20251224040000 +0000" stop="20251224063000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Houston Rockets @ LA Clippers</title>
 </programme>
 <programme start="20251224063000 +0000" stop="20251224070000 +0000" channel="Sky Sport Top Event HD.skyde">
