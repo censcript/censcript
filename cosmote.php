@@ -50,10 +50,6 @@
     <title>UCL Absolute Cinema</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251225014000 +0700" stop="20251225034000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: ACF Fiorentina - Udinese</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251225034000 +0700" stop="20251225041000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Serie A Full Impact 2024-25 E16</title>
     <desc>Live: Tidak</desc>
@@ -116,10 +112,6 @@
 </programme>
 <programme start="20251226031000 +0700" stop="20251226053000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Panathinaikos - AEK</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251225014500 +0700" stop="20251225034500 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Heart of Midlothian - Rangers FC</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251225034500 +0700" stop="20251225054500 +0700" channel="COSMOTE Sport 3 HD">
@@ -326,6 +318,14 @@
     <title>Best of WRC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251226040000 +0700" stop="20251226043500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Sports Classics: Gearing Up 2024 E11</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251226043500 +0700" stop="20251226053000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251225015000 +0700" stop="20251225045000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Authentic Athens Marathon 2025</title>
     <desc>Live: Tidak</desc>
@@ -372,6 +372,10 @@
 </programme>
 <programme start="20251226031500 +0700" stop="20251226041500 +0700" channel="COSMOTE Sport 6 HD">
     <title>Next Gen ATP Finals 2024 - Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251226041500 +0700" stop="20251226064500 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: Felix Auger-Aliassime - Jannik Sinner</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251225030000 +0700" stop="20251225050000 +0700" channel="COSMOTE Sport 7 HD">
