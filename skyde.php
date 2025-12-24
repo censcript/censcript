@@ -2863,6 +2863,63 @@
 <programme start="20251224223000 +0000" stop="20251224230000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: Highlights Austrian Alpine Open presented by SalzburgerLand</title>
 </programme>
+<programme start="20251223234500 +0000" stop="20251224023000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>Live NHL: Dallas Stars @ Detroit Red Wings</title>
+</programme>
+<programme start="20251224023000 +0000" stop="20251224030000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>Frauen-BL: Alle Spiele, alle Tore, 14. Spieltag komplett</title>
+</programme>
+<programme start="20251224030000 +0000" stop="20251224033000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>Fußball: scooore Niederlande! Alle Tore</title>
+</programme>
+<programme start="20251224033000 +0000" stop="20251224063000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>Live NBA: Houston Rockets @ LA Clippers</title>
+</programme>
+<programme start="20251224063000 +0000" stop="20251224073000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>3. Liga: Alle Spiele, alle Tore, 19. Spieltag, komplett</title>
+</programme>
+<programme start="20251224073000 +0000" stop="20251224080000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>NBA: Showtime</title>
+</programme>
+<programme start="20251224080000 +0000" stop="20251224103000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>NBA: Denver Nuggets @ Dallas Mavericks</title>
+</programme>
+<programme start="20251224103000 +0000" stop="20251224104500 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>NHL: Highlights MTL@BOS</title>
+</programme>
+<programme start="20251224104500 +0000" stop="20251224110000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>NHL: Highlights DAL@DET</title>
+</programme>
+<programme start="20251224110000 +0000" stop="20251224130000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>NHL: Pittsburgh Penguins @ Toronto Maple Leafs</title>
+</programme>
+<programme start="20251224130000 +0000" stop="20251224140000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>NHL: On the Fly</title>
+</programme>
+<programme start="20251224140000 +0000" stop="20251224160000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>NHL: Dallas Stars @ Detroit Red Wings</title>
+</programme>
+<programme start="20251224160000 +0000" stop="20251224163000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>Fußball: scooore Niederlande! Alle Tore</title>
+</programme>
+<programme start="20251224163000 +0000" stop="20251224190000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>NBA: Houston Rockets @ LA Clippers</title>
+</programme>
+<programme start="20251224190000 +0000" stop="20251224193000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>Frauen-BL: Alle Spiele, alle Tore, 14. Spieltag komplett</title>
+</programme>
+<programme start="20251224193000 +0000" stop="20251224194500 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>NHL: Highlights CGY@EDM</title>
+</programme>
+<programme start="20251224194500 +0000" stop="20251224200000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>NHL: Highlights BUF@OTT</title>
+</programme>
+<programme start="20251224200000 +0000" stop="20251224203000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>Fußball: scooore Niederlande! Alle Tore</title>
+</programme>
+<programme start="20251224203000 +0000" stop="20251224230000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>DFB-Pokal: Arminia Bielefeld - VfB Stuttgart, Finale 2025 in Berlin</title>
+</programme>
 <programme start="20251223230000 +0000" stop="20251224050000 +0000" channel="Sky Sport News HD.skyde">
     <title>Sky Sport News: Nightline</title>
 </programme>
@@ -3091,10 +3148,10 @@
 <programme start="20251223234500 +0000" stop="20251224022000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NHL: Dallas Stars @ Detroit Red Wings</title>
 </programme>
-<programme start="20251224022000 +0000" stop="20251224040000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20251224022000 +0000" stop="20251224033000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Denver Nuggets @ Dallas Mavericks</title>
 </programme>
-<programme start="20251224040000 +0000" stop="20251224063000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20251224033000 +0000" stop="20251224063000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Houston Rockets @ LA Clippers</title>
 </programme>
 <programme start="20251224063000 +0000" stop="20251224070000 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3187,7 +3244,7 @@
 <programme start="20251224003000 +0000" stop="20251224010000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime</title>
 </programme>
-<programme start="20251224010000 +0000" stop="20251224090000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20251224010000 +0000" stop="20251224034500 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Denver Nuggets @ Dallas Mavericks</title>
 </programme>
 <programme start="20251223230500 +0000" stop="20251223235000 +0000" channel="SYFY HD.skyde">
