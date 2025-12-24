@@ -50,10 +50,6 @@
     <title>UCL Absolute Cinema</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251224100000 +0700" stop="20251224120000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Sassuolo - Torino</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251224120000 +0700" stop="20251224142000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Olympiacos - Kifisia</title>
     <desc>Live: Tidak</desc>
@@ -122,12 +118,8 @@
     <title>Football: SS Lazio - Cremonese</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251224110000 +0700" stop="20251224113000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Copa Sudamericana 2025 - Highlights</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251224113000 +0700" stop="20251224120000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Copa Libertadores 2025 - Highlights</title>
+<programme start="20251225120000 +0700" stop="20251225140000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: AEL Novibet - Atromitos</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251224120000 +0700" stop="20251224151500 +0700" channel="COSMOTE Sport 3 HD">
@@ -242,10 +234,6 @@
     <title>Basketball: Trabzonspor - Fenerbahce</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251224110000 +0700" stop="20251224120000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251224120000 +0700" stop="20251224132500 +0700" channel="COSMOTE Sport 5 HD">
     <title>WRC 2025</title>
     <desc>Live: Tidak</desc>
@@ -334,6 +322,10 @@
     <title>Highlights: 2025 Extreme H</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251225120000 +0700" stop="20251225133500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251224110000 +0700" stop="20251224130500 +0700" channel="COSMOTE Sport 6 HD">
     <title>World Athletics Indoor Tour Gold 2025</title>
     <desc>Live: Tidak</desc>
@@ -380,6 +372,10 @@
 </programme>
 <programme start="20251225110000 +0700" stop="20251225124500 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Jannik Sinner - Learner Tien</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251225124500 +0700" stop="20251225155500 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: Lorenzo Musetti - Alex de Minaur</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251224110000 +0700" stop="20251224130000 +0700" channel="COSMOTE Sport 7 HD">

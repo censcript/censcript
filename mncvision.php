@@ -3268,7 +3268,126 @@
 <programme start="20251224160000 +0000" stop="20251224163000 +0000" channel="Fight Sports.mncvision">
     <title>FS MMA: Emelianenko Vs Linland</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20251223170000 +0000" stop="20251223173000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Indonesian Authentic Places</title>
+</programme>
+<programme start="20251223173000 +0000" stop="20251223180000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Let&#039;s Go</title>
+</programme>
+<programme start="20251223180000 +0000" stop="20251223183000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Extreme Kuliner</title>
+</programme>
+<programme start="20251223183000 +0000" stop="20251223193000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Untung Ada Rudy</title>
+</programme>
+<programme start="20251223193000 +0000" stop="20251223203000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Dapur Ngebor</title>
+</programme>
+<programme start="20251223203000 +0000" stop="20251223210000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Ada Tamu Gokil</title>
+</programme>
+<programme start="20251223210000 +0000" stop="20251223213000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Travel Addict</title>
+</programme>
+<programme start="20251223213000 +0000" stop="20251223220000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Rating 5</title>
+</programme>
+<programme start="20251223220000 +0000" stop="20251223223000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Indonesian Authentic Places</title>
+</programme>
+<programme start="20251223223000 +0000" stop="20251223230000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Celebs Food</title>
+</programme>
+<programme start="20251223230000 +0000" stop="20251223233000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Celebs Trip</title>
+</programme>
+<programme start="20251223233000 +0000" stop="20251224000000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Around The World</title>
+</programme>
+<programme start="20251224000000 +0000" stop="20251224003000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Selebriti Masak?</title>
+</programme>
+<programme start="20251224003000 +0000" stop="20251224010000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Viral Kuliner</title>
+</programme>
+<programme start="20251224010000 +0000" stop="20251224013000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Viral Kuliner</title>
+</programme>
+<programme start="20251224013000 +0000" stop="20251224020000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Kuliner Anak Nusantara</title>
+</programme>
+<programme start="20251224020000 +0000" stop="20251224023000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Rating 5</title>
+</programme>
+<programme start="20251224023000 +0000" stop="20251224030000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Extreme Kuliner</title>
+</programme>
+<programme start="20251224030000 +0000" stop="20251224033000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Around The World</title>
+</programme>
+<programme start="20251224033000 +0000" stop="20251224040000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Let&#039;s Go</title>
+</programme>
+<programme start="20251224040000 +0000" stop="20251224050000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Untung Ada Rudy</title>
+</programme>
+<programme start="20251224050000 +0000" stop="20251224060000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Makan Bareng Luna</title>
+</programme>
+<programme start="20251224060000 +0000" stop="20251224063000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Viral Kuliner</title>
+</programme>
+<programme start="20251224063000 +0000" stop="20251224070000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Viral Kuliner</title>
+</programme>
+<programme start="20251224070000 +0000" stop="20251224080000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Dapur Ngebor</title>
+</programme>
+<programme start="20251224080000 +0000" stop="20251224083000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Let&#039;s Go</title>
+</programme>
+<programme start="20251224083000 +0000" stop="20251224090000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Kuliner Anak Nusantara</title>
+</programme>
+<programme start="20251224090000 +0000" stop="20251224100000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Untung Ada Rudy</title>
+</programme>
+<programme start="20251224100000 +0000" stop="20251224110000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Makan Bareng Luna</title>
+</programme>
+<programme start="20251224110000 +0000" stop="20251224113000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Viral Kuliner</title>
+</programme>
+<programme start="20251224113000 +0000" stop="20251224120000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Viral Kuliner</title>
+</programme>
+<programme start="20251224120000 +0000" stop="20251224123000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Rating 5</title>
+</programme>
+<programme start="20251224123000 +0000" stop="20251224130000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Indonesian Authentic Places &#039;18</title>
+</programme>
+<programme start="20251224130000 +0000" stop="20251224133000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Celebs Food</title>
+</programme>
+<programme start="20251224133000 +0000" stop="20251224140000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Extreme Kuliner</title>
+</programme>
+<programme start="20251224140000 +0000" stop="20251224143000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Around The World</title>
+</programme>
+<programme start="20251224143000 +0000" stop="20251224150000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Selebriti Masak?</title>
+</programme>
+<programme start="20251224150000 +0000" stop="20251224153000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Ada Tamu Gokil</title>
+</programme>
+<programme start="20251224153000 +0000" stop="20251224160000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Travel Addict</title>
+</programme>
+<programme start="20251224160000 +0000" stop="20251224163000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Makan Bareng Luna</title>
+</programme>
 <programme start="20251223170000 +0000" stop="20251223173000 +0000" channel="Food Travel HD.mncvision">
     <title>Indonesian Authentic Places</title>
 </programme>
@@ -7874,7 +7993,66 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20251224155500 +0000" stop="20251224162500 +0000" channel="Soccer Channel.mncvision">
     <title>ACL Two: NSR Vs ZAW (L)</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20251223180000 +0000" stop="20251223181000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Top Goals</title>
+</programme>
+<programme start="20251223181000 +0000" stop="20251223201500 +0000" channel="Soccer Channel HD.mncvision">
+    <title>ACL Elite: ITH Vs NAS (L)</title>
+</programme>
+<programme start="20251223201500 +0000" stop="20251223203000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>World Classic Soccer</title>
+</programme>
+<programme start="20251223203000 +0000" stop="20251223210000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>World Classic Soccer</title>
+</programme>
+<programme start="20251223210000 +0000" stop="20251223213000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Top Goals</title>
+</programme>
+<programme start="20251223213000 +0000" stop="20251223233000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>SEA Games Thailand: IDN Vs MYA</title>
+</programme>
+<programme start="20251223233000 +0000" stop="20251224013000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>ASEAN U16 Boy&#039;s Futsal C&#039;ship</title>
+</programme>
+<programme start="20251224013000 +0000" stop="20251224033000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Bundesliga 2025/26: FCB Vs RBL</title>
+</programme>
+<programme start="20251224033000 +0000" stop="20251224040000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>World Classic Soccer</title>
+</programme>
+<programme start="20251224040000 +0000" stop="20251224043000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Top Goals</title>
+</programme>
+<programme start="20251224043000 +0000" stop="20251224063000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>ASEAN U16 Boy&#039;s Futsal (L)</title>
+</programme>
+<programme start="20251224063000 +0000" stop="20251224070000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>World Classic Soccer</title>
+</programme>
+<programme start="20251224070000 +0000" stop="20251224090000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>ASEAN U19 Boy&#039;s Futsal (L)</title>
+</programme>
+<programme start="20251224090000 +0000" stop="20251224100000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Bundesliga Special Show</title>
+</programme>
+<programme start="20251224100000 +0000" stop="20251224103000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Top Goals</title>
+</programme>
+<programme start="20251224103000 +0000" stop="20251224123000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>ASEAN U16 Boy&#039;s Futsal (L)</title>
+</programme>
+<programme start="20251224123000 +0000" stop="20251224130000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Top Goals</title>
+</programme>
+<programme start="20251224130000 +0000" stop="20251224150000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>ASEAN U19 Boy&#039;s Futsal (L)</title>
+</programme>
+<programme start="20251224150000 +0000" stop="20251224155500 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Bundesliga Highlights</title>
+</programme>
+<programme start="20251224155500 +0000" stop="20251224162500 +0000" channel="Soccer Channel HD.mncvision">
+    <title>ACL Two: NSR Vs ZAW (L)</title>
+</programme>
 <programme start="20251223174500 +0000" stop="20251223203000 +0000" channel="Sportstars.mncvision">
     <title>SEA Games Thailand 2025</title>
 </programme>
@@ -7932,9 +8110,144 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20251224160000 +0000" stop="20251224163000 +0000" channel="Sportstars.mncvision">
     <title>AFC Champions League Two (L)</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20251223170000 +0000" stop="20251223190000 +0000" channel="Sportstars 2.mncvision">
+    <title>SEA Games Thailand 2025</title>
+</programme>
+<programme start="20251223190000 +0000" stop="20251223210000 +0000" channel="Sportstars 2.mncvision">
+    <title>V-League</title>
+</programme>
+<programme start="20251223210000 +0000" stop="20251223233000 +0000" channel="Sportstars 2.mncvision">
+    <title>SEA Games Thailand 2025</title>
+</programme>
+<programme start="20251223233000 +0000" stop="20251224000000 +0000" channel="Sportstars 2.mncvision">
+    <title>Adrenaline Rush</title>
+</programme>
+<programme start="20251224000000 +0000" stop="20251224003000 +0000" channel="Sportstars 2.mncvision">
+    <title>iNews Sport</title>
+</programme>
+<programme start="20251224003000 +0000" stop="20251224023000 +0000" channel="Sportstars 2.mncvision">
+    <title>SEA Games Thailand 2025</title>
+</programme>
+<programme start="20251224023000 +0000" stop="20251224030000 +0000" channel="Sportstars 2.mncvision">
+    <title>Sports Today</title>
+</programme>
+<programme start="20251224030000 +0000" stop="20251224050000 +0000" channel="Sportstars 2.mncvision">
+    <title>SEA Games Thailand 2025</title>
+</programme>
+<programme start="20251224050000 +0000" stop="20251224070000 +0000" channel="Sportstars 2.mncvision">
+    <title>V-League</title>
+</programme>
+<programme start="20251224070000 +0000" stop="20251224083000 +0000" channel="Sportstars 2.mncvision">
+    <title>Tinju</title>
+</programme>
+<programme start="20251224083000 +0000" stop="20251224103000 +0000" channel="Sportstars 2.mncvision">
+    <title>Timnas Special</title>
+</programme>
+<programme start="20251224103000 +0000" stop="20251224130000 +0000" channel="Sportstars 2.mncvision">
+    <title>SEA Games Thailand 2025</title>
+</programme>
+<programme start="20251224130000 +0000" stop="20251224150000 +0000" channel="Sportstars 2.mncvision">
+    <title>SEA Games Thailand 2025</title>
+</programme>
+<programme start="20251224150000 +0000" stop="20251224153000 +0000" channel="Sportstars 2.mncvision">
+    <title>World Classic Soccer</title>
+</programme>
+<programme start="20251224153000 +0000" stop="20251224160000 +0000" channel="Sportstars 2.mncvision">
+    <title>Adrenaline Rush</title>
+</programme>
+<programme start="20251224160000 +0000" stop="20251224163000 +0000" channel="Sportstars 2.mncvision">
+    <title>ACL Two: WAS VsWHD (L)</title>
+</programme>
+<programme start="20251223170000 +0000" stop="20251223190000 +0000" channel="Sportstars 2 HD.mncvision">
+    <title>SEA Games Thailand 2025</title>
+</programme>
+<programme start="20251223190000 +0000" stop="20251223210000 +0000" channel="Sportstars 2 HD.mncvision">
+    <title>V-League</title>
+</programme>
+<programme start="20251223210000 +0000" stop="20251223233000 +0000" channel="Sportstars 2 HD.mncvision">
+    <title>SEA Games Thailand 2025</title>
+</programme>
+<programme start="20251223233000 +0000" stop="20251224000000 +0000" channel="Sportstars 2 HD.mncvision">
+    <title>Adrenaline Rush</title>
+</programme>
+<programme start="20251224000000 +0000" stop="20251224003000 +0000" channel="Sportstars 2 HD.mncvision">
+    <title>iNews Sport</title>
+</programme>
+<programme start="20251224003000 +0000" stop="20251224023000 +0000" channel="Sportstars 2 HD.mncvision">
+    <title>SEA Games Thailand 2025</title>
+</programme>
+<programme start="20251224023000 +0000" stop="20251224030000 +0000" channel="Sportstars 2 HD.mncvision">
+    <title>Sports Today</title>
+</programme>
+<programme start="20251224030000 +0000" stop="20251224050000 +0000" channel="Sportstars 2 HD.mncvision">
+    <title>SEA Games Thailand 2025</title>
+</programme>
+<programme start="20251224050000 +0000" stop="20251224070000 +0000" channel="Sportstars 2 HD.mncvision">
+    <title>V-League</title>
+</programme>
+<programme start="20251224070000 +0000" stop="20251224083000 +0000" channel="Sportstars 2 HD.mncvision">
+    <title>Tinju</title>
+</programme>
+<programme start="20251224083000 +0000" stop="20251224103000 +0000" channel="Sportstars 2 HD.mncvision">
+    <title>Timnas Special</title>
+</programme>
+<programme start="20251224103000 +0000" stop="20251224130000 +0000" channel="Sportstars 2 HD.mncvision">
+    <title>SEA Games Thailand 2025</title>
+</programme>
+<programme start="20251224130000 +0000" stop="20251224150000 +0000" channel="Sportstars 2 HD.mncvision">
+    <title>SEA Games Thailand 2025</title>
+</programme>
+<programme start="20251224150000 +0000" stop="20251224153000 +0000" channel="Sportstars 2 HD.mncvision">
+    <title>World Classic Soccer</title>
+</programme>
+<programme start="20251224153000 +0000" stop="20251224160000 +0000" channel="Sportstars 2 HD.mncvision">
+    <title>Adrenaline Rush</title>
+</programme>
+<programme start="20251224160000 +0000" stop="20251224163000 +0000" channel="Sportstars 2 HD.mncvision">
+    <title>ACL Two: WAS VsWHD (L)</title>
+</programme>
+<programme start="20251223170000 +0000" stop="20251223190000 +0000" channel="Sportstars 3.mncvision">
+    <title>Bundesliga</title>
+</programme>
+<programme start="20251223190000 +0000" stop="20251223210000 +0000" channel="Sportstars 3.mncvision">
+    <title>BRI Liga 1</title>
+</programme>
+<programme start="20251223210000 +0000" stop="20251223230000 +0000" channel="Sportstars 3.mncvision">
+    <title>European Qualifiers</title>
+</programme>
+<programme start="20251223230000 +0000" stop="20251224010000 +0000" channel="Sportstars 3.mncvision">
+    <title>Bundesliga</title>
+</programme>
+<programme start="20251224010000 +0000" stop="20251224030000 +0000" channel="Sportstars 3.mncvision">
+    <title>Liga 2</title>
+</programme>
+<programme start="20251224030000 +0000" stop="20251224050000 +0000" channel="Sportstars 3.mncvision">
+    <title>BRI Liga 1</title>
+</programme>
+<programme start="20251224050000 +0000" stop="20251224070000 +0000" channel="Sportstars 3.mncvision">
+    <title>Bundesliga</title>
+</programme>
+<programme start="20251224070000 +0000" stop="20251224090000 +0000" channel="Sportstars 3.mncvision">
+    <title>European Qualifiers</title>
+</programme>
+<programme start="20251224090000 +0000" stop="20251224110000 +0000" channel="Sportstars 3.mncvision">
+    <title>Liga 2</title>
+</programme>
+<programme start="20251224110000 +0000" stop="20251224130000 +0000" channel="Sportstars 3.mncvision">
+    <title>BRI Liga 1</title>
+</programme>
+<programme start="20251224130000 +0000" stop="20251224150000 +0000" channel="Sportstars 3.mncvision">
+    <title>European Qualifiers</title>
+</programme>
+<programme start="20251224150000 +0000" stop="20251224153000 +0000" channel="Sportstars 3.mncvision">
+    <title>Top Goals</title>
+</programme>
+<programme start="20251224153000 +0000" stop="20251224160000 +0000" channel="Sportstars 3.mncvision">
+    <title>Planet Footbal</title>
+</programme>
+<programme start="20251224160000 +0000" stop="20251224163000 +0000" channel="Sportstars 3.mncvision">
+    <title>ACL Two: MUH Vs EST</title>
+</programme>
 <programme start="20251223170000 +0000" stop="20251223190000 +0000" channel="sportstars 3 HD.mncvision">
     <title>Bundesliga</title>
 </programme>
@@ -7977,8 +8290,108 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20251224160000 +0000" stop="20251224163000 +0000" channel="sportstars 3 HD.mncvision">
     <title>ACL Two: MUH Vs EST</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20251223170000 +0000" stop="20251223190000 +0000" channel="Sportstars 4.mncvision">
+    <title>Bundesliga</title>
+</programme>
+<programme start="20251223190000 +0000" stop="20251223210000 +0000" channel="Sportstars 4.mncvision">
+    <title>BRI Liga 1: BRT Vs PBY</title>
+</programme>
+<programme start="20251223210000 +0000" stop="20251223230000 +0000" channel="Sportstars 4.mncvision">
+    <title>European Qualifiers</title>
+</programme>
+<programme start="20251223230000 +0000" stop="20251224010000 +0000" channel="Sportstars 4.mncvision">
+    <title>Bundesliga</title>
+</programme>
+<programme start="20251224010000 +0000" stop="20251224030000 +0000" channel="Sportstars 4.mncvision">
+    <title>SEA Games Thailand 2025</title>
+</programme>
+<programme start="20251224030000 +0000" stop="20251224050000 +0000" channel="Sportstars 4.mncvision">
+    <title>V League (Women)</title>
+</programme>
+<programme start="20251224050000 +0000" stop="20251224070000 +0000" channel="Sportstars 4.mncvision">
+    <title>V League (Men)</title>
+</programme>
+<programme start="20251224070000 +0000" stop="20251224090000 +0000" channel="Sportstars 4.mncvision">
+    <title>European Qualifiers</title>
+</programme>
+<programme start="20251224090000 +0000" stop="20251224093000 +0000" channel="Sportstars 4.mncvision">
+    <title>Golden Fit</title>
+</programme>
+<programme start="20251224093000 +0000" stop="20251224100000 +0000" channel="Sportstars 4.mncvision">
+    <title>30 Minutes Extreme</title>
+</programme>
+<programme start="20251224100000 +0000" stop="20251224120000 +0000" channel="Sportstars 4.mncvision">
+    <title>V-League 2025/2026 Women (L)</title>
+</programme>
+<programme start="20251224120000 +0000" stop="20251224123000 +0000" channel="Sportstars 4.mncvision">
+    <title>World Classic Soccer</title>
+</programme>
+<programme start="20251224123000 +0000" stop="20251224130000 +0000" channel="Sportstars 4.mncvision">
+    <title>Golden Fit</title>
+</programme>
+<programme start="20251224130000 +0000" stop="20251224150000 +0000" channel="Sportstars 4.mncvision">
+    <title>European Qualifiers</title>
+</programme>
+<programme start="20251224150000 +0000" stop="20251224153000 +0000" channel="Sportstars 4.mncvision">
+    <title>Golden Fit</title>
+</programme>
+<programme start="20251224153000 +0000" stop="20251224160000 +0000" channel="Sportstars 4.mncvision">
+    <title>30 Minutes Extreme</title>
+</programme>
+<programme start="20251224160000 +0000" stop="20251224163000 +0000" channel="Sportstars 4.mncvision">
+    <title>ACL Two: GOA Vs IST (L)</title>
+</programme>
+<programme start="20251223170000 +0000" stop="20251223190000 +0000" channel="Sportstars 4 HD.mncvision">
+    <title>Bundesliga</title>
+</programme>
+<programme start="20251223190000 +0000" stop="20251223210000 +0000" channel="Sportstars 4 HD.mncvision">
+    <title>BRI Liga 1: BRT Vs PBY</title>
+</programme>
+<programme start="20251223210000 +0000" stop="20251223230000 +0000" channel="Sportstars 4 HD.mncvision">
+    <title>European Qualifiers</title>
+</programme>
+<programme start="20251223230000 +0000" stop="20251224010000 +0000" channel="Sportstars 4 HD.mncvision">
+    <title>Bundesliga</title>
+</programme>
+<programme start="20251224010000 +0000" stop="20251224030000 +0000" channel="Sportstars 4 HD.mncvision">
+    <title>SEA Games Thailand 2025</title>
+</programme>
+<programme start="20251224030000 +0000" stop="20251224050000 +0000" channel="Sportstars 4 HD.mncvision">
+    <title>V League (Women)</title>
+</programme>
+<programme start="20251224050000 +0000" stop="20251224070000 +0000" channel="Sportstars 4 HD.mncvision">
+    <title>V League (Men)</title>
+</programme>
+<programme start="20251224070000 +0000" stop="20251224090000 +0000" channel="Sportstars 4 HD.mncvision">
+    <title>European Qualifiers</title>
+</programme>
+<programme start="20251224090000 +0000" stop="20251224093000 +0000" channel="Sportstars 4 HD.mncvision">
+    <title>Golden Fit</title>
+</programme>
+<programme start="20251224093000 +0000" stop="20251224100000 +0000" channel="Sportstars 4 HD.mncvision">
+    <title>30 Minutes Extreme</title>
+</programme>
+<programme start="20251224100000 +0000" stop="20251224120000 +0000" channel="Sportstars 4 HD.mncvision">
+    <title>V-League 2025/2026 Women (L)</title>
+</programme>
+<programme start="20251224120000 +0000" stop="20251224123000 +0000" channel="Sportstars 4 HD.mncvision">
+    <title>World Classic Soccer</title>
+</programme>
+<programme start="20251224123000 +0000" stop="20251224130000 +0000" channel="Sportstars 4 HD.mncvision">
+    <title>Golden Fit</title>
+</programme>
+<programme start="20251224130000 +0000" stop="20251224150000 +0000" channel="Sportstars 4 HD.mncvision">
+    <title>European Qualifiers</title>
+</programme>
+<programme start="20251224150000 +0000" stop="20251224153000 +0000" channel="Sportstars 4 HD.mncvision">
+    <title>Golden Fit</title>
+</programme>
+<programme start="20251224153000 +0000" stop="20251224160000 +0000" channel="Sportstars 4 HD.mncvision">
+    <title>30 Minutes Extreme</title>
+</programme>
+<programme start="20251224160000 +0000" stop="20251224163000 +0000" channel="Sportstars 4 HD.mncvision">
+    <title>ACL Two: GOA Vs IST (L)</title>
+</programme>
 <programme start="20251223174500 +0000" stop="20251223203000 +0000" channel="Sportstars HD.mncvision">
     <title>SEA Games Thailand 2025</title>
 </programme>

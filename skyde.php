@@ -3244,7 +3244,7 @@
 <programme start="20251224003000 +0000" stop="20251224010000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime</title>
 </programme>
-<programme start="20251224010000 +0000" stop="20251224090000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20251224010000 +0000" stop="20251224034500 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Denver Nuggets @ Dallas Mavericks</title>
 </programme>
 <programme start="20251223230500 +0000" stop="20251223235000 +0000" channel="SYFY HD.skyde">
