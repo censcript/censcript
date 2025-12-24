@@ -50,14 +50,6 @@
     <title>UCL Absolute Cinema</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251225004000 +0700" stop="20251225011000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Serie A Full Impact 2024-25 E16</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251225011000 +0700" stop="20251225014000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Serie A Inside Serie A 2025-26 E17</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251225014000 +0700" stop="20251225034000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: ACF Fiorentina - Udinese</title>
     <desc>Live: Tidak</desc>
@@ -122,10 +114,6 @@
     <title>Football: AEK - Aris</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251224234500 +0700" stop="20251225014500 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Vitoria Guimaraes - Sporting CP</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251225014500 +0700" stop="20251225034500 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Heart of Midlothian - Rangers FC</title>
     <desc>Live: Tidak</desc>
@@ -172,10 +160,6 @@
 </programme>
 <programme start="20251226013000 +0700" stop="20251226033000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: APOEL - Freedom24 Krasava E.N.Y</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251225000000 +0700" stop="20251225020000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Trabzonspor - Fenerbahce</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251225020000 +0700" stop="20251225023000 +0700" channel="COSMOTE Sport 4 HD">
@@ -334,8 +318,8 @@
     <title>Best of WRC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251224234000 +0700" stop="20251225015000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Athletics: World Athletics Continental Tour Gold 2025</title>
+<programme start="20251226023000 +0700" stop="20251226040000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Best of WRC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251225015000 +0700" stop="20251225045000 +0700" channel="COSMOTE Sport 6 HD">
@@ -433,6 +417,14 @@
 <programme start="20251226010000 +0700" stop="20251226020000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251226020000 +0700" stop="20251226023000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251226023000 +0700" stop="20251226053000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>Basketball: Oklahoma City Thunder - San Antonio Spurs (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20251225010000 +0700" stop="20251225030000 +0700" channel="COSMOTE Sport 8 HD">
     <title>COSMOTESport8HD</title>
