@@ -122,6 +122,10 @@
     <title>Football: AEL Novibet - Atromitos</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251225140000 +0700" stop="20251225161500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Panathinaikos - Olympiacos</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251224120000 +0700" stop="20251224151500 +0700" channel="COSMOTE Sport 3 HD">
     <title>American Football: Indianapolis Colts - San Francisco 49ers</title>
     <desc>Live: Tidak</desc>
@@ -238,10 +242,6 @@
     <title>Basketball: Virtus Bologna - Brescia</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251224120000 +0700" stop="20251224132500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251224132500 +0700" stop="20251224150000 +0700" channel="COSMOTE Sport 5 HD">
     <title>WRC 2025</title>
     <desc>Live: Tidak</desc>
@@ -332,10 +332,6 @@
 </programme>
 <programme start="20251225133500 +0700" stop="20251225150500 +0700" channel="COSMOTE Sport 5 HD">
     <title>WRC 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251224110000 +0700" stop="20251224130500 +0700" channel="COSMOTE Sport 6 HD">
-    <title>World Athletics Indoor Tour Gold 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251224130500 +0700" stop="20251224151000 +0700" channel="COSMOTE Sport 6 HD">
