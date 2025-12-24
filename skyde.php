@@ -1567,98 +1567,98 @@
 <programme start="20251224225000 +0000" stop="20251225002000 +0000" channel="Romance TV HD.skyde">
     <title>Tief durchatmen, die Familie kommt</title>
 </programme>
-<programme start="20251222232000 +0000" stop="20251223002000 +0000" channel="Sky Atlantic HD.skyde">
-    <title>C.B. STRIKE</title>
-</programme>
-<programme start="20251223002000 +0000" stop="20251223012000 +0000" channel="Sky Atlantic HD.skyde">
-    <title>C.B. STRIKE</title>
-</programme>
-<programme start="20251223012000 +0000" stop="20251223022000 +0000" channel="Sky Atlantic HD.skyde">
-    <title>C.B. STRIKE</title>
-</programme>
-<programme start="20251223022000 +0000" stop="20251223032000 +0000" channel="Sky Atlantic HD.skyde">
-    <title>C.B. STRIKE</title>
-</programme>
-<programme start="20251223032000 +0000" stop="20251223034500 +0000" channel="Sky Atlantic HD.skyde">
-    <title>The House that Dragons Built: Episode 1</title>
-</programme>
-<programme start="20251223034500 +0000" stop="20251223044500 +0000" channel="Sky Atlantic HD.skyde">
-    <title>C.B. STRIKE</title>
-</programme>
-<programme start="20251223044500 +0000" stop="20251223054500 +0000" channel="Sky Atlantic HD.skyde">
-    <title>C.B. STRIKE</title>
-</programme>
-<programme start="20251223054500 +0000" stop="20251223064500 +0000" channel="Sky Atlantic HD.skyde">
-    <title>C.B. STRIKE</title>
-</programme>
-<programme start="20251223064500 +0000" stop="20251223074500 +0000" channel="Sky Atlantic HD.skyde">
-    <title>C.B. STRIKE</title>
-</programme>
-<programme start="20251223074500 +0000" stop="20251223084500 +0000" channel="Sky Atlantic HD.skyde">
-    <title>Die Sopranos</title>
-</programme>
-<programme start="20251223084500 +0000" stop="20251223094000 +0000" channel="Sky Atlantic HD.skyde">
-    <title>Die Sopranos</title>
-</programme>
-<programme start="20251223094000 +0000" stop="20251223103500 +0000" channel="Sky Atlantic HD.skyde">
-    <title>Die Sopranos</title>
-</programme>
-<programme start="20251223103500 +0000" stop="20251223110500 +0000" channel="Sky Atlantic HD.skyde">
+<programme start="20251223233000 +0000" stop="20251224000000 +0000" channel="Sky Atlantic HD.skyde">
     <title>Sex and the City</title>
 </programme>
-<programme start="20251223110500 +0000" stop="20251223114500 +0000" channel="Sky Atlantic HD.skyde">
-    <title>Sex and the City</title>
-</programme>
-<programme start="20251223114500 +0000" stop="20251223121500 +0000" channel="Sky Atlantic HD.skyde">
-    <title>Sex and the City</title>
-</programme>
-<programme start="20251223121500 +0000" stop="20251223125000 +0000" channel="Sky Atlantic HD.skyde">
-    <title>Sex and the City</title>
-</programme>
-<programme start="20251223125000 +0000" stop="20251223132500 +0000" channel="Sky Atlantic HD.skyde">
-    <title>Sex and the City</title>
-</programme>
-<programme start="20251223132500 +0000" stop="20251223135500 +0000" channel="Sky Atlantic HD.skyde">
-    <title>Sex and the City</title>
-</programme>
-<programme start="20251223135500 +0000" stop="20251223143000 +0000" channel="Sky Atlantic HD.skyde">
-    <title>Sex and the City</title>
-</programme>
-<programme start="20251223143000 +0000" stop="20251223150500 +0000" channel="Sky Atlantic HD.skyde">
-    <title>Sex and the City</title>
-</programme>
-<programme start="20251223150500 +0000" stop="20251223154000 +0000" channel="Sky Atlantic HD.skyde">
-    <title>Sex and the City</title>
-</programme>
-<programme start="20251223154000 +0000" stop="20251223162500 +0000" channel="Sky Atlantic HD.skyde">
-    <title>Sex and the City</title>
-</programme>
-<programme start="20251223162500 +0000" stop="20251223172500 +0000" channel="Sky Atlantic HD.skyde">
-    <title>Euphoria Special</title>
-</programme>
-<programme start="20251223172500 +0000" stop="20251223182500 +0000" channel="Sky Atlantic HD.skyde">
-    <title>Six Feet Under - Gestorben wird immer</title>
-</programme>
-<programme start="20251223182500 +0000" stop="20251223191500 +0000" channel="Sky Atlantic HD.skyde">
-    <title>Die Sopranos</title>
-</programme>
-<programme start="20251223191500 +0000" stop="20251223201500 +0000" channel="Sky Atlantic HD.skyde">
-    <title>Poker Face</title>
-</programme>
-<programme start="20251223201500 +0000" stop="20251223211500 +0000" channel="Sky Atlantic HD.skyde">
-    <title>Poker Face</title>
-</programme>
-<programme start="20251223211500 +0000" stop="20251223215000 +0000" channel="Sky Atlantic HD.skyde">
+<programme start="20251224000000 +0000" stop="20251224003000 +0000" channel="Sky Atlantic HD.skyde">
     <title>I Love LA</title>
 </programme>
-<programme start="20251223215000 +0000" stop="20251223222000 +0000" channel="Sky Atlantic HD.skyde">
+<programme start="20251224003000 +0000" stop="20251224010000 +0000" channel="Sky Atlantic HD.skyde">
     <title>Sex and the City</title>
 </programme>
-<programme start="20251223222000 +0000" stop="20251223225500 +0000" channel="Sky Atlantic HD.skyde">
+<programme start="20251224010000 +0000" stop="20251224013000 +0000" channel="Sky Atlantic HD.skyde">
     <title>Sex and the City</title>
 </programme>
-<programme start="20251223225500 +0000" stop="20251223233000 +0000" channel="Sky Atlantic HD.skyde">
+<programme start="20251224013000 +0000" stop="20251224020000 +0000" channel="Sky Atlantic HD.skyde">
     <title>Sex and the City</title>
+</programme>
+<programme start="20251224020000 +0000" stop="20251224023000 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Sex and the City</title>
+</programme>
+<programme start="20251224023000 +0000" stop="20251224030000 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Sex and the City</title>
+</programme>
+<programme start="20251224030000 +0000" stop="20251224035000 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Sex and the City</title>
+</programme>
+<programme start="20251224035000 +0000" stop="20251224042000 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Avenue 5</title>
+</programme>
+<programme start="20251224042000 +0000" stop="20251224045000 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Avenue 5</title>
+</programme>
+<programme start="20251224045000 +0000" stop="20251224052000 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Avenue 5</title>
+</programme>
+<programme start="20251224052000 +0000" stop="20251224055000 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Avenue 5</title>
+</programme>
+<programme start="20251224055000 +0000" stop="20251224062000 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Avenue 5</title>
+</programme>
+<programme start="20251224062000 +0000" stop="20251224065000 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Sex and the City</title>
+</programme>
+<programme start="20251224065000 +0000" stop="20251224075000 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Euphoria Special</title>
+</programme>
+<programme start="20251224075000 +0000" stop="20251224084500 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Six Feet Under - Gestorben wird immer</title>
+</programme>
+<programme start="20251224084500 +0000" stop="20251224093000 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Die Sopranos</title>
+</programme>
+<programme start="20251224093000 +0000" stop="20251224103000 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Game of Thrones - Das Lied von Eis und Feuer</title>
+</programme>
+<programme start="20251224103000 +0000" stop="20251224113000 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Game of Thrones - Das Lied von Eis und Feuer</title>
+</programme>
+<programme start="20251224113000 +0000" stop="20251224122500 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Game of Thrones - Das Lied von Eis und Feuer</title>
+</programme>
+<programme start="20251224122500 +0000" stop="20251224132000 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Game of Thrones - Das Lied von Eis und Feuer</title>
+</programme>
+<programme start="20251224132000 +0000" stop="20251224142000 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Game of Thrones - Das Lied von Eis und Feuer</title>
+</programme>
+<programme start="20251224142000 +0000" stop="20251224151500 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Game of Thrones - Das Lied von Eis und Feuer</title>
+</programme>
+<programme start="20251224151500 +0000" stop="20251224161500 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Game of Thrones - Das Lied von Eis und Feuer</title>
+</programme>
+<programme start="20251224161500 +0000" stop="20251224171500 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Game of Thrones - Das Lied von Eis und Feuer</title>
+</programme>
+<programme start="20251224171500 +0000" stop="20251224181500 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Game of Thrones - Das Lied von Eis und Feuer</title>
+</programme>
+<programme start="20251224181500 +0000" stop="20251224191500 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Game of Thrones - Das Lied von Eis und Feuer</title>
+</programme>
+<programme start="20251224191500 +0000" stop="20251224201500 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Game of Thrones - Das Lied von Eis und Feuer</title>
+</programme>
+<programme start="20251224201500 +0000" stop="20251224211500 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Game of Thrones - Das Lied von Eis und Feuer</title>
+</programme>
+<programme start="20251224211500 +0000" stop="20251224221500 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Game of Thrones - Das Lied von Eis und Feuer</title>
+</programme>
+<programme start="20251224221500 +0000" stop="20251224231000 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Game of Thrones - Das Lied von Eis und Feuer</title>
 </programme>
 <programme start="20251223232000 +0000" stop="20251224012000 +0000" channel="Sky Cinema Action HD.skyde">
     <title>Gunpowder Milkshake</title>
@@ -2863,63 +2863,6 @@
 <programme start="20251224223000 +0000" stop="20251224230000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: Highlights Austrian Alpine Open presented by SalzburgerLand</title>
 </programme>
-<programme start="20251223234500 +0000" stop="20251224023000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>Live NHL: Dallas Stars @ Detroit Red Wings</title>
-</programme>
-<programme start="20251224023000 +0000" stop="20251224030000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>Frauen-BL: Alle Spiele, alle Tore, 14. Spieltag komplett</title>
-</programme>
-<programme start="20251224030000 +0000" stop="20251224033000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>Fußball: scooore Niederlande! Alle Tore</title>
-</programme>
-<programme start="20251224033000 +0000" stop="20251224063000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>Live NBA: Houston Rockets @ LA Clippers</title>
-</programme>
-<programme start="20251224063000 +0000" stop="20251224073000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>3. Liga: Alle Spiele, alle Tore, 19. Spieltag, komplett</title>
-</programme>
-<programme start="20251224073000 +0000" stop="20251224080000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NBA: Showtime</title>
-</programme>
-<programme start="20251224080000 +0000" stop="20251224103000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NBA: Denver Nuggets @ Dallas Mavericks</title>
-</programme>
-<programme start="20251224103000 +0000" stop="20251224104500 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NHL: Highlights MTL@BOS</title>
-</programme>
-<programme start="20251224104500 +0000" stop="20251224110000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NHL: Highlights DAL@DET</title>
-</programme>
-<programme start="20251224110000 +0000" stop="20251224130000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NHL: Pittsburgh Penguins @ Toronto Maple Leafs</title>
-</programme>
-<programme start="20251224130000 +0000" stop="20251224140000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NHL: On the Fly</title>
-</programme>
-<programme start="20251224140000 +0000" stop="20251224160000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NHL: Dallas Stars @ Detroit Red Wings</title>
-</programme>
-<programme start="20251224160000 +0000" stop="20251224163000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>Fußball: scooore Niederlande! Alle Tore</title>
-</programme>
-<programme start="20251224163000 +0000" stop="20251224190000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NBA: Houston Rockets @ LA Clippers</title>
-</programme>
-<programme start="20251224190000 +0000" stop="20251224193000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>Frauen-BL: Alle Spiele, alle Tore, 14. Spieltag komplett</title>
-</programme>
-<programme start="20251224193000 +0000" stop="20251224194500 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NHL: Highlights CGY@EDM</title>
-</programme>
-<programme start="20251224194500 +0000" stop="20251224200000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NHL: Highlights BUF@OTT</title>
-</programme>
-<programme start="20251224200000 +0000" stop="20251224203000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>Fußball: scooore Niederlande! Alle Tore</title>
-</programme>
-<programme start="20251224203000 +0000" stop="20251224230000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>DFB-Pokal: Arminia Bielefeld - VfB Stuttgart, Finale 2025 in Berlin</title>
-</programme>
 <programme start="20251223230000 +0000" stop="20251224050000 +0000" channel="Sky Sport News HD.skyde">
     <title>Sky Sport News: Nightline</title>
 </programme>
@@ -3148,10 +3091,10 @@
 <programme start="20251223234500 +0000" stop="20251224022000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NHL: Dallas Stars @ Detroit Red Wings</title>
 </programme>
-<programme start="20251224022000 +0000" stop="20251224033000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20251224022000 +0000" stop="20251224040000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Denver Nuggets @ Dallas Mavericks</title>
 </programme>
-<programme start="20251224033000 +0000" stop="20251224063000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20251224040000 +0000" stop="20251224063000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Houston Rockets @ LA Clippers</title>
 </programme>
 <programme start="20251224063000 +0000" stop="20251224070000 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3244,7 +3187,7 @@
 <programme start="20251224003000 +0000" stop="20251224010000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime</title>
 </programme>
-<programme start="20251224010000 +0000" stop="20251224034500 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20251224010000 +0000" stop="20251224090000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Denver Nuggets @ Dallas Mavericks</title>
 </programme>
 <programme start="20251223230500 +0000" stop="20251223235000 +0000" channel="SYFY HD.skyde">
