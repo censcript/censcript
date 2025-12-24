@@ -466,9 +466,6 @@
 <programme start="20251223230000 +0000" stop="20251224003000 +0000" channel="ANTV.vision">
 <title>Takdir Cinta Layla</title>
 </programme>
-<programme start="20251224003000 +0000" stop="20251224023000 +0000" channel="ANTV.vision">
-<title>Tongkat Sakti</title>
-</programme>
 <programme start="20251224023000 +0000" stop="20251224060000 +0000" channel="ANTV.vision">
 <title>Ra-One</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20251224071000 +0000" stop="20251224080500 +0000" channel="MDTV.vision">
 <title>Makan Enak</title>
+</programme>
+<programme start="20251224080500 +0000" stop="20251224090500 +0000" channel="MDTV.vision">
+<title>Masak Gesss!!!</title>
 </programme>

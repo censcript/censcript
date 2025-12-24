@@ -1000,66 +1000,6 @@
 <programme start="20251224223500 +0000" stop="20251224230000 +0000" channel="DAZN 2 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20251223234500 +0000" stop="20251224004500 +0000" channel="Heimatkanal.skyde">
-    <title>Ina, Peter und die Rasselbande</title>
-</programme>
-<programme start="20251224004500 +0000" stop="20251224020500 +0000" channel="Heimatkanal.skyde">
-    <title>Kalle wird Bürgermeister</title>
-</programme>
-<programme start="20251224020500 +0000" stop="20251224024000 +0000" channel="Heimatkanal.skyde">
-    <title>Rotkäppchen</title>
-</programme>
-<programme start="20251224024000 +0000" stop="20251224033500 +0000" channel="Heimatkanal.skyde">
-    <title>Der Struwwelpeter</title>
-</programme>
-<programme start="20251224033500 +0000" stop="20251224045000 +0000" channel="Heimatkanal.skyde">
-    <title>Schneewittchen</title>
-</programme>
-<programme start="20251224045000 +0000" stop="20251224063000 +0000" channel="Heimatkanal.skyde">
-    <title>Der vertauschte Prinz</title>
-</programme>
-<programme start="20251224063000 +0000" stop="20251224075500 +0000" channel="Heimatkanal.skyde">
-    <title>König Drosselbart</title>
-</programme>
-<programme start="20251224075500 +0000" stop="20251224092000 +0000" channel="Heimatkanal.skyde">
-    <title>Aschenputtel</title>
-</programme>
-<programme start="20251224092000 +0000" stop="20251224100000 +0000" channel="Heimatkanal.skyde">
-    <title>Hänsel und Gretel</title>
-</programme>
-<programme start="20251224100000 +0000" stop="20251224111500 +0000" channel="Heimatkanal.skyde">
-    <title>Die Gänsemagd</title>
-</programme>
-<programme start="20251224111500 +0000" stop="20251224112000 +0000" channel="Heimatkanal.skyde">
-    <title>Das ist die stillste Zeit im Jahr</title>
-</programme>
-<programme start="20251224112000 +0000" stop="20251224123500 +0000" channel="Heimatkanal.skyde">
-    <title>Dornröschen</title>
-</programme>
-<programme start="20251224123500 +0000" stop="20251224134500 +0000" channel="Heimatkanal.skyde">
-    <title>Tischlein deck dich</title>
-</programme>
-<programme start="20251224134500 +0000" stop="20251224151000 +0000" channel="Heimatkanal.skyde">
-    <title>Der Froschkönig</title>
-</programme>
-<programme start="20251224151000 +0000" stop="20251224163500 +0000" channel="Heimatkanal.skyde">
-    <title>Rumpelstilzchen</title>
-</programme>
-<programme start="20251224163500 +0000" stop="20251224175000 +0000" channel="Heimatkanal.skyde">
-    <title>Frau Holle</title>
-</programme>
-<programme start="20251224175000 +0000" stop="20251224191500 +0000" channel="Heimatkanal.skyde">
-    <title>Schneeweißchen und Rosenrot</title>
-</programme>
-<programme start="20251224191500 +0000" stop="20251224204500 +0000" channel="Heimatkanal.skyde">
-    <title>Katja, die ungekrönte Kaiserin</title>
-</programme>
-<programme start="20251224204500 +0000" stop="20251224221500 +0000" channel="Heimatkanal.skyde">
-    <title>Gustav Adolfs Page</title>
-</programme>
-<programme start="20251224221500 +0000" stop="20251225000000 +0000" channel="Heimatkanal.skyde">
-    <title>Mädchenjahre einer Königin</title>
-</programme>
 <programme start="20251223231000 +0000" stop="20251224000000 +0000" channel="HISTORY Channel HD.skyde">
     <title>Terra X</title>
 </programme>
@@ -2863,7 +2803,7 @@
 <programme start="20251224223000 +0000" stop="20251224230000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: Highlights Austrian Alpine Open presented by SalzburgerLand</title>
 </programme>
-<programme start="20251223233000 +0000" stop="20251224023000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20251223234500 +0000" stop="20251224023000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NHL: Dallas Stars @ Detroit Red Wings</title>
 </programme>
 <programme start="20251224023000 +0000" stop="20251224030000 +0000" channel="Sky Sport Mix HD.skyde">
@@ -2989,14 +2929,14 @@
 <programme start="20251224213000 +0000" stop="20251224231500 +0000" channel="Sky Sport News HD.skyde">
     <title>Fußball: Der Kaiser</title>
 </programme>
-<programme start="20251224003000 +0000" stop="20251224013000 +0000" channel="Sky Sport Premier League HD.skyde">
+<programme start="20251223230000 +0000" stop="20251224010000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>Carabao Cup: FC Arsenal - Crystal Palace, Viertelfinale</title>
+</programme>
+<programme start="20251224010000 +0000" stop="20251224020000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: Best Volleys</title>
 </programme>
-<programme start="20251224013000 +0000" stop="20251224020000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Netbusters, 17. Spieltag</title>
-</programme>
 <programme start="20251224020000 +0000" stop="20251224023000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: My Season: Gareth Bale (2012/2013)</title>
+    <title>PL: Netbusters, 17. Spieltag</title>
 </programme>
 <programme start="20251224023000 +0000" stop="20251224030000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: My Season: Eden Hazard (2014/2015)</title>
@@ -3023,19 +2963,19 @@
     <title>Carabao Cup: FC Arsenal - Crystal Palace, Viertelfinale</title>
 </programme>
 <programme start="20251224110000 +0000" stop="20251224113000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 90in30: XXX - YYY, 17. Spieltag</title>
+    <title>PL: 90in30: BOU - BUR, 17. Spieltag</title>
 </programme>
 <programme start="20251224113000 +0000" stop="20251224120000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 90in30: XXX - YYY, 17. Spieltag</title>
+    <title>PL: 90in30: BRI - SUN, 17. Spieltag</title>
 </programme>
 <programme start="20251224120000 +0000" stop="20251224123000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 90in30: XXX - YYY, 17. Spieltag</title>
+    <title>PL: 90in30: WOL - BRE, 17. Spieltag</title>
 </programme>
 <programme start="20251224123000 +0000" stop="20251224130000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 90in30: XXX - YYY, 17. Spieltag</title>
+    <title>PL: 90in30: MCI - WHU, 17. Spieltag</title>
 </programme>
 <programme start="20251224130000 +0000" stop="20251224133000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 90in30: XXX - YYY, 17. Spieltag</title>
+    <title>PL: 90in30: FUL - NFO, 17. Spieltag</title>
 </programme>
 <programme start="20251224133000 +0000" stop="20251224140000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: Extra Time</title>
@@ -3062,7 +3002,7 @@
     <title>EFL: 90in30: AVL - MUN, 17. Spieltag</title>
 </programme>
 <programme start="20251224183000 +0000" stop="20251224190000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: PL Stories</title>
+    <title>PL: PL Stories (The Forgotten Class of &#039;92)</title>
 </programme>
 <programme start="20251224190000 +0000" stop="20251224193000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: PL Rewind: Dietmar Hamann - My Liverpool Years</title>
@@ -3145,10 +3085,10 @@
 <programme start="20251224220000 +0000" stop="20251225000000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 250: A. Zverev (GER) - C. Moutet (FRA), Boss Open in Stuttgart, 4. Tag</title>
 </programme>
-<programme start="20251223233000 +0000" stop="20251224023000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20251223234500 +0000" stop="20251224022000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NHL: Dallas Stars @ Detroit Red Wings</title>
 </programme>
-<programme start="20251224023000 +0000" stop="20251224040000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20251224022000 +0000" stop="20251224040000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Denver Nuggets @ Dallas Mavericks</title>
 </programme>
 <programme start="20251224040000 +0000" stop="20251224063000 +0000" channel="Sky Sport Top Event HD.skyde">

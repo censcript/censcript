@@ -70,22 +70,22 @@
   <programme start="20251226223500 +0000" stop="20251227000000 +0000" channel="Jednotka.webtv.sk">
     <title lang="id">Vianoce na snehu</title>
   </programme>
-  <programme start="20251225222500 +0000" stop="20251226001800 +0000" channel="Dvojka.webtv.sk">
+  <programme start="20251225223500 +0000" stop="20251226003000 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Hauser - Rebel s violončelom v Budapešti</title>
   </programme>
-  <programme start="20251226001800 +0000" stop="20251226001900 +0000" channel="Dvojka.webtv.sk">
+  <programme start="20251226003000 +0000" stop="20251226003100 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Hymna SR</title>
   </programme>
-  <programme start="20251226001900 +0000" stop="20251226010900 +0000" channel="Dvojka.webtv.sk">
+  <programme start="20251226003100 +0000" stop="20251226010900 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Správy</title>
   </programme>
-  <programme start="20251226051500 +0000" stop="20251226052000 +0000" channel="Dvojka.webtv.sk">
+  <programme start="20251226051000 +0000" stop="20251226051500 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Trochu inak - hudobný špeciál</title>
   </programme>
-  <programme start="20251226052000 +0000" stop="20251226061500 +0000" channel="Dvojka.webtv.sk">
-    <title lang="id">Kapura</title>
+  <programme start="20251226051500 +0000" stop="20251226061000 +0000" channel="Dvojka.webtv.sk">
+    <title lang="id">Kapura - vianočný špeciál</title>
   </programme>
-  <programme start="20251226061500 +0000" stop="20251226064500 +0000" channel="Dvojka.webtv.sk">
+  <programme start="20251226061000 +0000" stop="20251226064500 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Spomienky na spomienky</title>
   </programme>
   <programme start="20251226064500 +0000" stop="20251226070000 +0000" channel="Dvojka.webtv.sk">
@@ -112,10 +112,10 @@
   <programme start="20251226120000 +0000" stop="20251226133000 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Noc na Karlštejně</title>
   </programme>
-  <programme start="20251226133000 +0000" stop="20251226145500 +0000" channel="Dvojka.webtv.sk">
+  <programme start="20251226133000 +0000" stop="20251226145000 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Rozmajrín</title>
   </programme>
-  <programme start="20251226145500 +0000" stop="20251226160000 +0000" channel="Dvojka.webtv.sk">
+  <programme start="20251226145000 +0000" stop="20251226160000 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Rysavá jalovica</title>
   </programme>
   <programme start="20251226160000 +0000" stop="20251226173000 +0000" channel="Dvojka.webtv.sk">
@@ -127,19 +127,19 @@
   <programme start="20251226174000 +0000" stop="20251226183000 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Zvončeky šťastia pre planétu Zem</title>
   </programme>
-  <programme start="20251226183000 +0000" stop="20251226185000 +0000" channel="Dvojka.webtv.sk">
+  <programme start="20251226183000 +0000" stop="20251226185400 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Snehuliaci</title>
   </programme>
-  <programme start="20251226185000 +0000" stop="20251226190000 +0000" channel="Dvojka.webtv.sk">
+  <programme start="20251226185400 +0000" stop="20251226190000 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Informácia pre tipujúcich: KENO 10, Keno Joker, Loto, Loto 5 z 35, Joker, Všetko alebo nič (B, piatok)</title>
   </programme>
   <programme start="20251226190000 +0000" stop="20251226193500 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Vianočný lov slov</title>
   </programme>
-  <programme start="20251226193500 +0000" stop="20251226200000 +0000" channel="Dvojka.webtv.sk">
+  <programme start="20251226193500 +0000" stop="20251226200500 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">DNA popu: IMT Smile</title>
   </programme>
-  <programme start="20251226200000 +0000" stop="20251226221000 +0000" channel="Dvojka.webtv.sk">
+  <programme start="20251226200500 +0000" stop="20251226221000 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">IMT Smile - Exoticana</title>
   </programme>
   <programme start="20251226221000 +0000" stop="20251226235600 +0000" channel="Dvojka.webtv.sk">
@@ -2585,7 +2585,7 @@
     <title lang="id">ŠLÁGRMIX</title>
   </programme>
   <programme start="20251226080000 +0000" stop="20251226100000 +0000" channel="Šláger Originál.webtv.sk">
-    <title lang="id">DOPOLEDNÍ STUDIO</title>
+    <title lang="id">VÁNOČNÍ NÁLADA</title>
   </programme>
   <programme start="20251226100000 +0000" stop="20251226113000 +0000" channel="Šláger Originál.webtv.sk">
     <title lang="id">DECHOVKA O JEDENÁCTÉ</title>
@@ -2596,17 +2596,14 @@
   <programme start="20251226130000 +0000" stop="20251226140000 +0000" channel="Šláger Originál.webtv.sk">
     <title lang="id">ČAS NA PĚKNOU PÍSNIČKU</title>
   </programme>
-  <programme start="20251226140000 +0000" stop="20251226153000 +0000" channel="Šláger Originál.webtv.sk">
+  <programme start="20251226140000 +0000" stop="20251226155000 +0000" channel="Šláger Originál.webtv.sk">
     <title lang="id">ODPOLEDNÍ STUDIO</title>
   </programme>
-  <programme start="20251226153000 +0000" stop="20251226170000 +0000" channel="Šláger Originál.webtv.sk">
-    <title lang="id">LATTÉ O PŮL PÁTÉ</title>
-  </programme>
-  <programme start="20251226170000 +0000" stop="20251226192000 +0000" channel="Šláger Originál.webtv.sk">
-    <title lang="id">PODVEČERNÍ ZÁBAVA</title>
+  <programme start="20251226155000 +0000" stop="20251226192000 +0000" channel="Šláger Originál.webtv.sk">
+    <title lang="id">KOUZELNÉ VÁNOCE</title>
   </programme>
   <programme start="20251226192000 +0000" stop="20251226230000 +0000" channel="Šláger Originál.webtv.sk">
-    <title lang="id">VEČERNÍ POŘAD</title>
+    <title lang="id">VÁNOČNÍ ČERNÁ HODINKA</title>
   </programme>
   <programme start="20251225230000 +0000" stop="20251226070000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">LIDOVÝ ŠLÁGR MIŠMAŠ</title>
@@ -15679,32 +15676,23 @@
   <programme start="20251226071500 +0000" stop="20251226073000 +0000" channel="TVP World.webtv.sk">
     <title lang="id">World Talks (6626)</title>
   </programme>
-  <programme start="20251226073000 +0000" stop="20251226074000 +0000" channel="TVP World.webtv.sk">
+  <programme start="20251226073000 +0000" stop="20251226074500 +0000" channel="TVP World.webtv.sk">
     <title lang="id">World News Flash</title>
   </programme>
-  <programme start="20251226074000 +0000" stop="20251226074500 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">World News Online</title>
-  </programme>
   <programme start="20251226074500 +0000" stop="20251226080000 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">World Talks (6627)</title>
+    <title lang="id">World Talks (1659)</title>
   </programme>
   <programme start="20251226080000 +0000" stop="20251226081500 +0000" channel="TVP World.webtv.sk">
     <title lang="id">World News</title>
   </programme>
   <programme start="20251226081500 +0000" stop="20251226083000 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">World Talks (1659)</title>
+    <title lang="id">World Talks (6627)</title>
   </programme>
-  <programme start="20251226083000 +0000" stop="20251226084000 +0000" channel="TVP World.webtv.sk">
+  <programme start="20251226083000 +0000" stop="20251226084500 +0000" channel="TVP World.webtv.sk">
     <title lang="id">World News Flash</title>
   </programme>
-  <programme start="20251226084000 +0000" stop="20251226084500 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">World News Online</title>
-  </programme>
-  <programme start="20251226084500 +0000" stop="20251226085500 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">World Talks (6628)</title>
-  </programme>
-  <programme start="20251226085500 +0000" stop="20251226090000 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">Weather</title>
+  <programme start="20251226084500 +0000" stop="20251226090000 +0000" channel="TVP World.webtv.sk">
+    <title lang="id">World Talks (1659)</title>
   </programme>
   <programme start="20251226090000 +0000" stop="20251226091500 +0000" channel="TVP World.webtv.sk">
     <title lang="id">World News</title>
@@ -15712,23 +15700,23 @@
   <programme start="20251226091500 +0000" stop="20251226093000 +0000" channel="TVP World.webtv.sk">
     <title lang="id">World Talks (1659)</title>
   </programme>
-  <programme start="20251226093000 +0000" stop="20251226094000 +0000" channel="TVP World.webtv.sk">
+  <programme start="20251226093000 +0000" stop="20251226094500 +0000" channel="TVP World.webtv.sk">
     <title lang="id">World News Flash</title>
   </programme>
-  <programme start="20251226094000 +0000" stop="20251226094500 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">World News Online</title>
-  </programme>
-  <programme start="20251226094500 +0000" stop="20251226095500 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">World Talks (6629)</title>
-  </programme>
-  <programme start="20251226095500 +0000" stop="20251226100000 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">Weather</title>
+  <programme start="20251226094500 +0000" stop="20251226100000 +0000" channel="TVP World.webtv.sk">
+    <title lang="id">World Talks (1659)</title>
   </programme>
   <programme start="20251226100000 +0000" stop="20251226101000 +0000" channel="TVP World.webtv.sk">
     <title lang="id">World News</title>
   </programme>
-  <programme start="20251226101000 +0000" stop="20251226103500 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">Eastern Express (1307)</title>
+  <programme start="20251226101000 +0000" stop="20251226101500 +0000" channel="TVP World.webtv.sk">
+    <title lang="id">Weather</title>
+  </programme>
+  <programme start="20251226101500 +0000" stop="20251226103000 +0000" channel="TVP World.webtv.sk">
+    <title lang="id">World Talks (6628)</title>
+  </programme>
+  <programme start="20251226103000 +0000" stop="20251226103500 +0000" channel="TVP World.webtv.sk">
+    <title lang="id">Weather</title>
   </programme>
   <programme start="20251226103500 +0000" stop="20251226104500 +0000" channel="TVP World.webtv.sk">
     <title lang="id">World News Flash</title>
@@ -15739,14 +15727,14 @@
   <programme start="20251226105500 +0000" stop="20251226110000 +0000" channel="TVP World.webtv.sk">
     <title lang="id">Weather</title>
   </programme>
-  <programme start="20251226110000 +0000" stop="20251226111000 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">World News</title>
+  <programme start="20251226110000 +0000" stop="20251226111500 +0000" channel="TVP World.webtv.sk">
+    <title lang="id">World News Flash</title>
   </programme>
-  <programme start="20251226111000 +0000" stop="20251226111500 +0000" channel="TVP World.webtv.sk">
+  <programme start="20251226111500 +0000" stop="20251226112000 +0000" channel="TVP World.webtv.sk">
     <title lang="id">Weather</title>
   </programme>
-  <programme start="20251226111500 +0000" stop="20251226113500 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">News in Depth</title>
+  <programme start="20251226112000 +0000" stop="20251226113500 +0000" channel="TVP World.webtv.sk">
+    <title lang="id">Picture Poland (2)</title>
   </programme>
   <programme start="20251226113500 +0000" stop="20251226114500 +0000" channel="TVP World.webtv.sk">
     <title lang="id">World News Flash</title>
@@ -15769,14 +15757,17 @@
   <programme start="20251226125500 +0000" stop="20251226130000 +0000" channel="TVP World.webtv.sk">
     <title lang="id">Weather</title>
   </programme>
-  <programme start="20251226130000 +0000" stop="20251226131500 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">World News</title>
-  </programme>
-  <programme start="20251226131500 +0000" stop="20251226133000 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">World Talks (1659)</title>
-  </programme>
-  <programme start="20251226133000 +0000" stop="20251226134000 +0000" channel="TVP World.webtv.sk">
+  <programme start="20251226130000 +0000" stop="20251226131000 +0000" channel="TVP World.webtv.sk">
     <title lang="id">World News Flash</title>
+  </programme>
+  <programme start="20251226131000 +0000" stop="20251226132500 +0000" channel="TVP World.webtv.sk">
+    <title lang="id">Crossing borders. Run for freedom. (2)</title>
+  </programme>
+  <programme start="20251226132500 +0000" stop="20251226133500 +0000" channel="TVP World.webtv.sk">
+    <title lang="id">World News Flash</title>
+  </programme>
+  <programme start="20251226133500 +0000" stop="20251226134000 +0000" channel="TVP World.webtv.sk">
+    <title lang="id">World News Online</title>
   </programme>
   <programme start="20251226134000 +0000" stop="20251226135500 +0000" channel="TVP World.webtv.sk">
     <title lang="id">Pulse of Culture (281)</title>
@@ -15800,7 +15791,7 @@
     <title lang="id">Weather</title>
   </programme>
   <programme start="20251226150000 +0000" stop="20251226151500 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">World News</title>
+    <title lang="id">World News Flash</title>
   </programme>
   <programme start="20251226151500 +0000" stop="20251226153000 +0000" channel="TVP World.webtv.sk">
     <title lang="id">World Talks (1659)</title>
@@ -15811,26 +15802,26 @@
   <programme start="20251226154500 +0000" stop="20251226160000 +0000" channel="TVP World.webtv.sk">
     <title lang="id">Weather</title>
   </programme>
-  <programme start="20251226160000 +0000" stop="20251226161000 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">World News</title>
+  <programme start="20251226160000 +0000" stop="20251226161500 +0000" channel="TVP World.webtv.sk">
+    <title lang="id">World News Flash</title>
   </programme>
-  <programme start="20251226161000 +0000" stop="20251226163000 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">News in Depth</title>
+  <programme start="20251226161500 +0000" stop="20251226162500 +0000" channel="TVP World.webtv.sk">
+    <title lang="id">Picture Poland (3)</title>
   </programme>
-  <programme start="20251226163000 +0000" stop="20251226163500 +0000" channel="TVP World.webtv.sk">
+  <programme start="20251226162500 +0000" stop="20251226163500 +0000" channel="TVP World.webtv.sk">
     <title lang="id">Weather</title>
   </programme>
   <programme start="20251226163500 +0000" stop="20251226164500 +0000" channel="TVP World.webtv.sk">
     <title lang="id">World News Flash</title>
   </programme>
   <programme start="20251226164500 +0000" stop="20251226170000 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">World Talks (6630)</title>
+    <title lang="id">World Talks (1659)</title>
   </programme>
-  <programme start="20251226170000 +0000" stop="20251226171000 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">World News</title>
+  <programme start="20251226170000 +0000" stop="20251226171500 +0000" channel="TVP World.webtv.sk">
+    <title lang="id">World News Flash</title>
   </programme>
-  <programme start="20251226171000 +0000" stop="20251226172000 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">World Talks (6631)</title>
+  <programme start="20251226171500 +0000" stop="20251226172000 +0000" channel="TVP World.webtv.sk">
+    <title lang="id">Weather</title>
   </programme>
   <programme start="20251226172000 +0000" stop="20251226174500 +0000" channel="TVP World.webtv.sk">
     <title lang="id">Eastern Express (1308)</title>
@@ -15845,7 +15836,7 @@
     <title lang="id">World News Online</title>
   </programme>
   <programme start="20251226181500 +0000" stop="20251226182000 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">Ukraine Brief</title>
+    <title lang="id">Weather</title>
   </programme>
   <programme start="20251226182000 +0000" stop="20251226183000 +0000" channel="TVP World.webtv.sk">
     <title lang="id">Break the Fake (977)</title>
@@ -15862,26 +15853,29 @@
   <programme start="20251226193000 +0000" stop="20251226193200 +0000" channel="TVP World.webtv.sk">
     <title lang="id">Weather</title>
   </programme>
-  <programme start="20251226193200 +0000" stop="20251226195000 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">Face to Face (77)</title>
+  <programme start="20251226193200 +0000" stop="20251226195500 +0000" channel="TVP World.webtv.sk">
+    <title lang="id">Poland Innovation Hub (21)</title>
   </programme>
-  <programme start="20251226195000 +0000" stop="20251226200000 +0000" channel="TVP World.webtv.sk">
+  <programme start="20251226195500 +0000" stop="20251226200000 +0000" channel="TVP World.webtv.sk">
     <title lang="id">Weather</title>
   </programme>
-  <programme start="20251226200000 +0000" stop="20251226201000 +0000" channel="TVP World.webtv.sk">
+  <programme start="20251226200000 +0000" stop="20251226201500 +0000" channel="TVP World.webtv.sk">
     <title lang="id">World News</title>
   </programme>
-  <programme start="20251226201000 +0000" stop="20251226201500 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">World News Online</title>
-  </programme>
   <programme start="20251226201500 +0000" stop="20251226203000 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">World Talks (6632)</title>
+    <title lang="id">World Talks (6629)</title>
   </programme>
   <programme start="20251226203000 +0000" stop="20251226203500 +0000" channel="TVP World.webtv.sk">
     <title lang="id">World News Flash</title>
   </programme>
-  <programme start="20251226203500 +0000" stop="20251226210000 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">1000 years of Poland (5)</title>
+  <programme start="20251226203500 +0000" stop="20251226204000 +0000" channel="TVP World.webtv.sk">
+    <title lang="id">World News Online</title>
+  </programme>
+  <programme start="20251226204000 +0000" stop="20251226205500 +0000" channel="TVP World.webtv.sk">
+    <title lang="id">World Talks (6630)</title>
+  </programme>
+  <programme start="20251226205500 +0000" stop="20251226210000 +0000" channel="TVP World.webtv.sk">
+    <title lang="id">Weather</title>
   </programme>
   <programme start="20251226210000 +0000" stop="20251226211500 +0000" channel="TVP World.webtv.sk">
     <title lang="id">World News</title>
@@ -15901,14 +15895,17 @@
   <programme start="20251226215500 +0000" stop="20251226220000 +0000" channel="TVP World.webtv.sk">
     <title lang="id">Weather</title>
   </programme>
-  <programme start="20251226220000 +0000" stop="20251226222000 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">News in Depth</title>
+  <programme start="20251226220000 +0000" stop="20251226221500 +0000" channel="TVP World.webtv.sk">
+    <title lang="id">World News Flash</title>
+  </programme>
+  <programme start="20251226221500 +0000" stop="20251226222000 +0000" channel="TVP World.webtv.sk">
+    <title lang="id">Weather</title>
   </programme>
   <programme start="20251226222000 +0000" stop="20251226222500 +0000" channel="TVP World.webtv.sk">
     <title lang="id">World News Online</title>
   </programme>
   <programme start="20251226222500 +0000" stop="20251226223000 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">Ukraine Brief</title>
+    <title lang="id">Weather</title>
   </programme>
   <programme start="20251226223000 +0000" stop="20251226224000 +0000" channel="TVP World.webtv.sk">
     <title lang="id">World News Flash</title>
@@ -16024,11 +16021,11 @@
   <programme start="20251226074500 +0000" stop="20251226080000 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Info Poranek</title>
   </programme>
-  <programme start="20251226080000 +0000" stop="20251226085100 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20251226080000 +0000" stop="20251226085000 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Serwis Info Poranek</title>
   </programme>
-  <programme start="20251226085100 +0000" stop="20251226090000 +0000" channel="TVP Info.webtv.sk">
-    <title lang="id">Koledy pod Tatrami (1)</title>
+  <programme start="20251226085000 +0000" stop="20251226090000 +0000" channel="TVP Info.webtv.sk">
+    <title lang="id">Kazdy ma swoje Betlejem - koncert koled w kaplicy Sw. Kingi w Kopalni Soli &quot;Wieliczka&quot; (1)</title>
   </programme>
   <programme start="20251226090000 +0000" stop="20251226092200 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Serwis Info Dzien</title>
@@ -16117,10 +16114,13 @@
   <programme start="20251226161500 +0000" stop="20251226163500 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Teleexpress Extra</title>
   </programme>
-  <programme start="20251226163500 +0000" stop="20251226164300 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20251226163500 +0000" stop="20251226164200 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Panorama 17.35</title>
   </programme>
-  <programme start="20251226164300 +0000" stop="20251226170000 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20251226164200 +0000" stop="20251226164400 +0000" channel="TVP Info.webtv.sk">
+    <title lang="id">Pogoda Info</title>
+  </programme>
+  <programme start="20251226164400 +0000" stop="20251226170000 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Płynie koleda, polska koleda... ze wszystkich stron /skrót 15&apos;/</title>
   </programme>
   <programme start="20251226170000 +0000" stop="20251226172000 +0000" channel="TVP Info.webtv.sk">
@@ -16154,7 +16154,7 @@
     <title lang="id">Serwis Info Wieczór</title>
   </programme>
   <programme start="20251226195100 +0000" stop="20251226200000 +0000" channel="TVP Info.webtv.sk">
-    <title lang="id">Koledy pod Tatrami (1)</title>
+    <title lang="id">Kazdy ma swoje Betlejem - koncert koled w kaplicy Sw. Kingi w Kopalni Soli &quot;Wieliczka&quot; (1)</title>
   </programme>
   <programme start="20251226200000 +0000" stop="20251226210000 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Kwiatki polskie duze (17)</title>
@@ -16201,8 +16201,11 @@
   <programme start="20251226033500 +0000" stop="20251226054000 +0000" channel="TVP Polonia.webtv.sk">
     <title lang="id">Rozmowy kontrolowane</title>
   </programme>
-  <programme start="20251226054000 +0000" stop="20251226071500 +0000" channel="TVP Polonia.webtv.sk">
+  <programme start="20251226054000 +0000" stop="20251226070500 +0000" channel="TVP Polonia.webtv.sk">
     <title lang="id">Przyjaciel wesołego diabła</title>
+  </programme>
+  <programme start="20251226070500 +0000" stop="20251226071500 +0000" channel="TVP Polonia.webtv.sk">
+    <title lang="id">Koledy Slaska</title>
   </programme>
   <programme start="20251226071500 +0000" stop="20251226081000 +0000" channel="TVP Polonia.webtv.sk">
     <title lang="id">Kulturalni PL (769)</title>
@@ -16466,10 +16469,10 @@
     <title lang="id">Великий ефір Василя Зими</title>
   </programme>
   <programme start="20251225230000 +0000" stop="20251225233000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Неизвестная Pоссия</title>
+    <title lang="id">Неизвестная Pоссия: Недостроенная атомная станция Агидели</title>
   </programme>
   <programme start="20251225233000 +0000" stop="20251226000000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Pеальная история</title>
+    <title lang="id">Оперативная память: Pусские немцы</title>
   </programme>
   <programme start="20251226000000 +0000" stop="20251226003000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">Не Нейтральные: Михаил Яковлев. От войны к войне</title>
@@ -16484,13 +16487,13 @@
     <title lang="id">DW. Сделано в Германии</title>
   </programme>
   <programme start="20251226020000 +0000" stop="20251226040000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Pеальное кино</title>
+    <title lang="id">Pеальное кино: Домашние игры</title>
   </programme>
   <programme start="20251226040000 +0000" stop="20251226043000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">#ВУкраине</title>
   </programme>
   <programme start="20251226043000 +0000" stop="20251226050000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Человек на карте</title>
+    <title lang="id">Дворы Армении: Ереванские фавелы</title>
   </programme>
   <programme start="20251226050000 +0000" stop="20251226053000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">Балтия</title>
@@ -16499,10 +16502,10 @@
     <title lang="id">Донбасс.Pеалии</title>
   </programme>
   <programme start="20251226060000 +0000" stop="20251226070000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Настоящий сериал</title>
+    <title lang="id">Настоящий сериал: Другая школа</title>
   </programme>
   <programme start="20251226070000 +0000" stop="20251226090000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Pеальное кино</title>
+    <title lang="id">Pеальное кино: Домашние игры</title>
   </programme>
   <programme start="20251226090000 +0000" stop="20251226093000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">Утро</title>
@@ -16517,28 +16520,28 @@
     <title lang="id">Эмигранты: Прага</title>
   </programme>
   <programme start="20251226110000 +0000" stop="20251226120000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Настоящий сериал</title>
+    <title lang="id">Настоящий сериал: Другая школа</title>
   </programme>
   <programme start="20251226120000 +0000" stop="20251226123000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">Донбасс.Pеалии</title>
   </programme>
   <programme start="20251226123000 +0000" stop="20251226130000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">DW.Интервью</title>
+    <title lang="id">DW: #вТPЕНДde: Best of #вТPЕНДde 2025</title>
   </programme>
   <programme start="20251226130000 +0000" stop="20251226133000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">Азия</title>
   </programme>
   <programme start="20251226133000 +0000" stop="20251226140000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Человек на карте</title>
+    <title lang="id">Дворы Армении: Ереванские фавелы</title>
   </programme>
   <programme start="20251226140000 +0000" stop="20251226160000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Pеальное кино</title>
+    <title lang="id">Pеальное кино: Домашние игры</title>
   </programme>
   <programme start="20251226160000 +0000" stop="20251226163000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">Главное</title>
   </programme>
   <programme start="20251226163000 +0000" stop="20251226170000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Перекресток</title>
+    <title lang="id">Перекресток: Славянск в предверие праздника</title>
   </programme>
   <programme start="20251226170000 +0000" stop="20251226180000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">Археология</title>
@@ -16547,7 +16550,7 @@
     <title lang="id">Лицом к событию</title>
   </programme>
   <programme start="20251226183000 +0000" stop="20251226190000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Ждем в гости</title>
+    <title lang="id">Ждем в гости: Неизвестная Финляндия. Кангасниеми</title>
   </programme>
   <programme start="20251226190000 +0000" stop="20251226193000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">Главное</title>
@@ -16556,13 +16559,13 @@
     <title lang="id">Азия</title>
   </programme>
   <programme start="20251226200000 +0000" stop="20251226220000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Pеальное кино</title>
+    <title lang="id">Pеальное кино: Свидетели Путина</title>
   </programme>
   <programme start="20251226220000 +0000" stop="20251226223000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">Лицом к событию</title>
   </programme>
   <programme start="20251226223000 +0000" stop="20251226230000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">DW.Интервью</title>
+    <title lang="id">DW: #вТPЕНДde: Best of #вТPЕНДde 2025</title>
   </programme>
   <programme start="20251225223500 +0000" stop="20251225231000 +0000" channel="Armenia 1 TV.webtv.sk">
     <title lang="id">Special Case</title>
@@ -16579,22 +16582,22 @@
   <programme start="20251226001000 +0000" stop="20251226004500 +0000" channel="Armenia 1 TV.webtv.sk">
     <title lang="id">Out of Character</title>
   </programme>
-  <programme start="20251226004500 +0000" stop="20251226011000 +0000" channel="Armenia 1 TV.webtv.sk">
-    <title lang="id">The Devotees</title>
+  <programme start="20251226004500 +0000" stop="20251226010500 +0000" channel="Armenia 1 TV.webtv.sk">
+    <title lang="id">Feature film</title>
   </programme>
-  <programme start="20251226011000 +0000" stop="20251226014500 +0000" channel="Armenia 1 TV.webtv.sk">
+  <programme start="20251226010500 +0000" stop="20251226014000 +0000" channel="Armenia 1 TV.webtv.sk">
     <title lang="id">Be Well!</title>
   </programme>
-  <programme start="20251226014500 +0000" stop="20251226025000 +0000" channel="Armenia 1 TV.webtv.sk">
+  <programme start="20251226014000 +0000" stop="20251226030000 +0000" channel="Armenia 1 TV.webtv.sk">
     <title lang="id">Canticle Of Canticles</title>
   </programme>
-  <programme start="20251226025000 +0000" stop="20251226031500 +0000" channel="Armenia 1 TV.webtv.sk">
+  <programme start="20251226030000 +0000" stop="20251226032500 +0000" channel="Armenia 1 TV.webtv.sk">
     <title lang="id">Open Platform</title>
   </programme>
-  <programme start="20251226031500 +0000" stop="20251226034000 +0000" channel="Armenia 1 TV.webtv.sk">
+  <programme start="20251226032500 +0000" stop="20251226035000 +0000" channel="Armenia 1 TV.webtv.sk">
     <title lang="id">After Adventures</title>
   </programme>
-  <programme start="20251226034000 +0000" stop="20251226040000 +0000" channel="Armenia 1 TV.webtv.sk">
+  <programme start="20251226035000 +0000" stop="20251226040000 +0000" channel="Armenia 1 TV.webtv.sk">
     <title lang="id">Cartoon</title>
   </programme>
   <programme start="20251226040000 +0000" stop="20251226043000 +0000" channel="Armenia 1 TV.webtv.sk">
@@ -16624,11 +16627,11 @@
   <programme start="20251226094500 +0000" stop="20251226101000 +0000" channel="Armenia 1 TV.webtv.sk">
     <title lang="id">After Adventures</title>
   </programme>
-  <programme start="20251226101000 +0000" stop="20251226105500 +0000" channel="Armenia 1 TV.webtv.sk">
+  <programme start="20251226101000 +0000" stop="20251226105000 +0000" channel="Armenia 1 TV.webtv.sk">
     <title lang="id">Cartoon</title>
   </programme>
-  <programme start="20251226105500 +0000" stop="20251226112000 +0000" channel="Armenia 1 TV.webtv.sk">
-    <title lang="id">The Devotees</title>
+  <programme start="20251226105000 +0000" stop="20251226112000 +0000" channel="Armenia 1 TV.webtv.sk">
+    <title lang="id">Feature film</title>
   </programme>
   <programme start="20251226112000 +0000" stop="20251226115500 +0000" channel="Armenia 1 TV.webtv.sk">
     <title lang="id">Different Style</title>

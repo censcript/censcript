@@ -1934,10 +1934,10 @@
         <title>Snowball Skate</title>
     </programme>
     <programme start="20251223160000 +0000" stop="20251223180000 +0000" channel="beIN Sports 3.starhub">
-        <title>UEFA Conference League 2025/26: Sparta Prague vs Aberdeen - MD6</title>
+        <title>UEFA Conference League 2025/26 Sparta Prague vs Aberdeen - MD6</title>
     </programme>
     <programme start="20251223180000 +0000" stop="20251223200000 +0000" channel="beIN Sports 3.starhub">
-        <title>UEFA Women&#039;s Champions League 2025/26: Bayern vs Valerenga - MD6</title>
+        <title>UEFA Women&#039;s Champions League 2025/26 Bayern vs Valerenga - MD6</title>
     </programme>
     <programme start="20251223200000 +0000" stop="20251223203000 +0000" channel="beIN Sports 3.starhub">
         <title>PSG TV Specials 2025/26</title>
@@ -1946,7 +1946,7 @@
         <title>This Is Paris 2025/26</title>
     </programme>
     <programme start="20251223210000 +0000" stop="20251223230000 +0000" channel="beIN Sports 3.starhub">
-        <title>PSG TV 2025/26: Vendee Fontenay Foot vs PSG - Coupe de France</title>
+        <title>Vendee Fontenay Foot vs PSG - Coupe de France</title>
     </programme>
     <programme start="20251223230000 +0000" stop="20251224000000 +0000" channel="beIN Sports 3.starhub">
         <title>UECL MD6</title>
@@ -2669,10 +2669,13 @@
         <title>Kokdu: Season Of Deity</title>
     </programme>
     <programme start="20251223160000 +0000" stop="20251223163000 +0000" channel="Sun TV.starhub">
-        <title>Puthu Vasantham</title>
+        <title>PUTHU VASANTHAM</title>
     </programme>
     <programme start="20251223163000 +0000" stop="20251223230000 +0000" channel="Sun TV.starhub">
-        <title>Songs</title>
+        <title>SONGS</title>
+    </programme>
+    <programme start="20251223230000 +0000" stop="20251223233000 +0000" channel="Sun TV.starhub">
+        <title>NEWS</title>
     </programme>
     <programme start="20251223233000 +0000" stop="20251224000000 +0000" channel="Sun TV.starhub">
         <title>Vanakkam Thamizha</title>
