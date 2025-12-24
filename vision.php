@@ -652,9 +652,6 @@
 <programme start="20251224073000 +0000" stop="20251224083000 +0000" channel="ANTV.vision">
 <title>Shani</title>
 </programme>
-<programme start="20251224083000 +0000" stop="20251224110000 +0000" channel="ANTV.vision">
-<title>Saur Sepuh 3</title>
-</programme>
 <programme start="20251224110000 +0000" stop="20251224123000 +0000" channel="ANTV.vision">
 <title>Senandung Cinta Lilis</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20251224010000 +0000" stop="20251224013000 +0000" channel="DAAI TV.vision">
 <title>Clifford</title>
+</programme>
+<programme start="20251224013000 +0000" stop="20251224020000 +0000" channel="DAAI TV.vision">
+<title>At Indonesia</title>
 </programme>

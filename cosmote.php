@@ -122,8 +122,8 @@
     <title>Football: AEK - PAOK</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251224154500 +0700" stop="20251224174500 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Gil Vicente - Rio Ave</title>
+<programme start="20251225183000 +0700" stop="20251225204000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Panathinaikos - PAOK</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251224174500 +0700" stop="20251224194500 +0700" channel="COSMOTE Sport 3 HD">
@@ -172,10 +172,6 @@
 </programme>
 <programme start="20251225173000 +0700" stop="20251225193000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Vitoria Guimaraes - Sporting CP</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251224153000 +0700" stop="20251224171500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Pick n&#039; Roll</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251224171500 +0700" stop="20251224194500 +0700" channel="COSMOTE Sport 4 HD">
@@ -234,12 +230,8 @@
     <title>Basketball: Szolnoki Olaj - AEK</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251224161000 +0700" stop="20251224170500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>2025 FIM Women&#039;s Circuit Racing World Championship</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251224170500 +0700" stop="20251224174500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Moto-E World Championship 2025</title>
+<programme start="20251225185000 +0700" stop="20251225191000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Sports Classics: Worldies E17</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251224174500 +0700" stop="20251224183500 +0700" channel="COSMOTE Sport 5 HD">
@@ -326,8 +318,12 @@
     <title>DTM 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251224151000 +0700" stop="20251224172000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>World Athletics Indoor Tour Gold 2025</title>
+<programme start="20251225181000 +0700" stop="20251225185000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>DTM</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251225185000 +0700" stop="20251225191000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251224172000 +0700" stop="20251224192000 +0700" channel="COSMOTE Sport 6 HD">
@@ -372,6 +368,10 @@
 </programme>
 <programme start="20251225155500 +0700" stop="20251225181000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Jannik Sinner - Alex de Minaur</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251225181000 +0700" stop="20251225191000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Nitto ATP Finals 2025 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251224170000 +0700" stop="20251224190000 +0700" channel="COSMOTE Sport 7 HD">
