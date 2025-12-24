@@ -110,8 +110,12 @@
     <title>Serie A Full Impact 2024-25 E16</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251225034500 +0700" stop="20251225054500 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Alverca - FC Porto</title>
+<programme start="20251226060000 +0700" stop="20251226063000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Serie A Inside Serie A 2025-26 E17</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251226063000 +0700" stop="20251226081000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Documentary</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251225054500 +0700" stop="20251225074500 +0700" channel="COSMOTE Sport 3 HD">
@@ -226,10 +230,6 @@
     <title>Basketball: Golden State Warriors - Dallas Mavericks (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251225044000 +0700" stop="20251225052500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251225052500 +0700" stop="20251225063000 +0700" channel="COSMOTE Sport 5 HD">
     <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
@@ -322,6 +322,10 @@
     <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251226063000 +0700" stop="20251226070000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251225045000 +0700" stop="20251225065500 +0700" channel="COSMOTE Sport 6 HD">
     <title>Athletics: World Athletics Continental Tour Gold 2025</title>
     <desc>Live: Tidak</desc>
@@ -368,6 +372,10 @@
 </programme>
 <programme start="20251226041500 +0700" stop="20251226064500 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Felix Auger-Aliassime - Jannik Sinner</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251226064500 +0700" stop="20251226100500 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: Karen Khachanov - Ben Shelton</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251225050000 +0700" stop="20251225070000 +0700" channel="COSMOTE Sport 7 HD">
@@ -423,6 +431,10 @@
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20251226053000 +0700" stop="20251226060000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251226060000 +0700" stop="20251226073000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
