@@ -1000,66 +1000,6 @@
 <programme start="20251224223500 +0000" stop="20251224230000 +0000" channel="DAZN 2 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20251223234500 +0000" stop="20251224004500 +0000" channel="Heimatkanal.skyde">
-    <title>Ina, Peter und die Rasselbande</title>
-</programme>
-<programme start="20251224004500 +0000" stop="20251224020500 +0000" channel="Heimatkanal.skyde">
-    <title>Kalle wird Bürgermeister</title>
-</programme>
-<programme start="20251224020500 +0000" stop="20251224024000 +0000" channel="Heimatkanal.skyde">
-    <title>Rotkäppchen</title>
-</programme>
-<programme start="20251224024000 +0000" stop="20251224033500 +0000" channel="Heimatkanal.skyde">
-    <title>Der Struwwelpeter</title>
-</programme>
-<programme start="20251224033500 +0000" stop="20251224045000 +0000" channel="Heimatkanal.skyde">
-    <title>Schneewittchen</title>
-</programme>
-<programme start="20251224045000 +0000" stop="20251224063000 +0000" channel="Heimatkanal.skyde">
-    <title>Der vertauschte Prinz</title>
-</programme>
-<programme start="20251224063000 +0000" stop="20251224075500 +0000" channel="Heimatkanal.skyde">
-    <title>König Drosselbart</title>
-</programme>
-<programme start="20251224075500 +0000" stop="20251224092000 +0000" channel="Heimatkanal.skyde">
-    <title>Aschenputtel</title>
-</programme>
-<programme start="20251224092000 +0000" stop="20251224100000 +0000" channel="Heimatkanal.skyde">
-    <title>Hänsel und Gretel</title>
-</programme>
-<programme start="20251224100000 +0000" stop="20251224111500 +0000" channel="Heimatkanal.skyde">
-    <title>Die Gänsemagd</title>
-</programme>
-<programme start="20251224111500 +0000" stop="20251224112000 +0000" channel="Heimatkanal.skyde">
-    <title>Das ist die stillste Zeit im Jahr</title>
-</programme>
-<programme start="20251224112000 +0000" stop="20251224123500 +0000" channel="Heimatkanal.skyde">
-    <title>Dornröschen</title>
-</programme>
-<programme start="20251224123500 +0000" stop="20251224134500 +0000" channel="Heimatkanal.skyde">
-    <title>Tischlein deck dich</title>
-</programme>
-<programme start="20251224134500 +0000" stop="20251224151000 +0000" channel="Heimatkanal.skyde">
-    <title>Der Froschkönig</title>
-</programme>
-<programme start="20251224151000 +0000" stop="20251224163500 +0000" channel="Heimatkanal.skyde">
-    <title>Rumpelstilzchen</title>
-</programme>
-<programme start="20251224163500 +0000" stop="20251224175000 +0000" channel="Heimatkanal.skyde">
-    <title>Frau Holle</title>
-</programme>
-<programme start="20251224175000 +0000" stop="20251224191500 +0000" channel="Heimatkanal.skyde">
-    <title>Schneeweißchen und Rosenrot</title>
-</programme>
-<programme start="20251224191500 +0000" stop="20251224204500 +0000" channel="Heimatkanal.skyde">
-    <title>Katja, die ungekrönte Kaiserin</title>
-</programme>
-<programme start="20251224204500 +0000" stop="20251224221500 +0000" channel="Heimatkanal.skyde">
-    <title>Gustav Adolfs Page</title>
-</programme>
-<programme start="20251224221500 +0000" stop="20251225000000 +0000" channel="Heimatkanal.skyde">
-    <title>Mädchenjahre einer Königin</title>
-</programme>
 <programme start="20251223231000 +0000" stop="20251224000000 +0000" channel="HISTORY Channel HD.skyde">
     <title>Terra X</title>
 </programme>
@@ -3148,10 +3088,10 @@
 <programme start="20251223234500 +0000" stop="20251224022000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NHL: Dallas Stars @ Detroit Red Wings</title>
 </programme>
-<programme start="20251224022000 +0000" stop="20251224033000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20251224022000 +0000" stop="20251224040000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Denver Nuggets @ Dallas Mavericks</title>
 </programme>
-<programme start="20251224033000 +0000" stop="20251224063000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20251224040000 +0000" stop="20251224063000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Houston Rockets @ LA Clippers</title>
 </programme>
 <programme start="20251224063000 +0000" stop="20251224070000 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3244,7 +3184,7 @@
 <programme start="20251224003000 +0000" stop="20251224010000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime</title>
 </programme>
-<programme start="20251224010000 +0000" stop="20251224034500 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20251224010000 +0000" stop="20251224090000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Denver Nuggets @ Dallas Mavericks</title>
 </programme>
 <programme start="20251223230500 +0000" stop="20251223235000 +0000" channel="SYFY HD.skyde">

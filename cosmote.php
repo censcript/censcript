@@ -1,7 +1,3 @@
-<programme start="20251224190000 +0700" stop="20251224210000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>90&#039; of European Glory</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251224210000 +0700" stop="20251224230000 +0700" channel="COSMOTE Sport 1 HD">
     <title>90&#039; of European Glory</title>
     <desc>Live: Tidak</desc>
@@ -50,8 +46,8 @@
     <title>UCL Absolute Cinema</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251224183000 +0700" stop="20251224204000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: AEL Novibet - Atromitos</title>
+<programme start="20251225210000 +0700" stop="20251225230000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UCL Absolute Cinema</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251224204000 +0700" stop="20251224224000 +0700" channel="COSMOTE Sport 2 HD">
@@ -174,6 +170,10 @@
     <title>Football: Ipswich Town - Sheffield Wednesday</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251225213000 +0700" stop="20251225233000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Al Nassr - Al Khaleej</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251224194500 +0700" stop="20251224221500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: New Orleans Pelicans - Dallas Mavericks</title>
     <desc>Live: Tidak</desc>
@@ -236,6 +236,14 @@
 </programme>
 <programme start="20251225193000 +0700" stop="20251225213000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Unicaja - Baskonia</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251225213000 +0700" stop="20251225215000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>ACB Liga Endesa 2025-26 - Fifth Quarter E11</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251225215000 +0700" stop="20251226000000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Promitheas - Rytas Vilnius</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251224200000 +0700" stop="20251224213500 +0700" channel="COSMOTE Sport 5 HD">
@@ -378,10 +386,6 @@
     <title>Tennis: Jannik Sinner - Alexander Zverev</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251224190000 +0700" stop="20251224210000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251224210000 +0700" stop="20251224230000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
@@ -430,8 +434,8 @@
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251224190000 +0700" stop="20251224210000 +0700" channel="COSMOTE Sport 8 HD">
-    <title>COSMOTESport8HD</title>
+<programme start="20251225210000 +0700" stop="20251225230000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251224210000 +0700" stop="20251224230000 +0700" channel="COSMOTE Sport 8 HD">
@@ -482,8 +486,8 @@
     <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251224190000 +0700" stop="20251224210000 +0700" channel="COSMOTE Sport 9 HD">
-    <title>COSMOTESport9HD</title>
+<programme start="20251225210000 +0700" stop="20251225230000 +0700" channel="COSMOTE Sport 8 HD">
+    <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251224210000 +0700" stop="20251224230000 +0700" channel="COSMOTE Sport 9 HD">
@@ -531,6 +535,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251225190000 +0700" stop="20251225210000 +0700" channel="COSMOTE Sport 9 HD">
+    <title>COSMOTESport9HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251225210000 +0700" stop="20251225230000 +0700" channel="COSMOTE Sport 9 HD">
     <title>COSMOTESport9HD</title>
     <desc>Live: Tidak</desc>
 </programme>
