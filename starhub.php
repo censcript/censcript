@@ -1955,7 +1955,7 @@
         <title>December</title>
     </programme>
     <programme start="20251224003000 +0000" stop="20251224022000 +0000" channel="beIN Sports 3.starhub">
-        <title>UEFA Conference League 2025/26: AZ Alkmaar vs Jagiellonia Bialystok - MD6</title>
+        <title>UEFA Conference League 2025/26 AZ Alkmaar vs Jagiellonia Bialystok - MD6</title>
     </programme>
     <programme start="20251224022000 +0000" stop="20251224023000 +0000" channel="beIN Sports 3.starhub">
         <title>Anderlecht vs PSG (2013/14)</title>
@@ -1973,7 +1973,7 @@
         <title>This Is Paris 2025/26</title>
     </programme>
     <programme start="20251224050000 +0000" stop="20251224065000 +0000" channel="beIN Sports 3.starhub">
-        <title>TotalEnergies Africa Cup of Nations, Morocco 2025: Senegal vs Botswana - Group S</title>
+        <title>TotalEnergies Africa Cup of Nations, Morocco 2025 Senegal vs Botswana - Group St</title>
     </programme>
     <programme start="20251224065000 +0000" stop="20251224070000 +0000" channel="beIN Sports 3.starhub">
         <title>Barcelona vs Lyon (2001/02)</title>
@@ -1982,16 +1982,16 @@
         <title>Cape to Cape</title>
     </programme>
     <programme start="20251224080000 +0000" stop="20251224095000 +0000" channel="beIN Sports 3.starhub">
-        <title>UEFA Champions League 2025/26: Athletic Bilbao vs PSG - MD6</title>
+        <title>UEFA Champions League 2025/26 Athletic Bilbao vs PSG - MD6</title>
     </programme>
     <programme start="20251224095000 +0000" stop="20251224114000 +0000" channel="beIN Sports 3.starhub">
-        <title>UEFA Champions League 2025/26: Leverkusen vs Newcastle - MD6</title>
+        <title>UEFA Champions League 2025/26 Leverkusen vs Newcastle - MD6</title>
     </programme>
     <programme start="20251224114000 +0000" stop="20251224133000 +0000" channel="beIN Sports 3.starhub">
-        <title>UEFA Champions League 2025/26: Real Madrid vs Man City - MD6</title>
+        <title>UEFA Champions League 2025/26 Real Madrid vs Man City - MD6</title>
     </programme>
     <programme start="20251224133000 +0000" stop="20251224153000 +0000" channel="beIN Sports 3.starhub">
-        <title>PSG TV 2025/26: Vendee Fontenay Foot vs PSG - Coupe de France</title>
+        <title>Vendee Fontenay Foot vs PSG - Coupe de France</title>
     </programme>
     <programme start="20251224153000 +0000" stop="20251224160000 +0000" channel="beIN Sports 3.starhub">
         <title>Recap Swiss Epic Season 2025 Recap &amp; Season 2026 Preview</title>
@@ -2674,14 +2674,11 @@
     <programme start="20251223163000 +0000" stop="20251223230000 +0000" channel="Sun TV.starhub">
         <title>Songs</title>
     </programme>
-    <programme start="20251223230000 +0000" stop="20251223233000 +0000" channel="Sun TV.starhub">
-        <title>News</title>
-    </programme>
     <programme start="20251223233000 +0000" stop="20251224000000 +0000" channel="Sun TV.starhub">
         <title>Vanakkam Thamizha</title>
     </programme>
     <programme start="20251224000000 +0000" stop="20251224003000 +0000" channel="Sun TV.starhub">
-        <title>Ethirneechal Thodargiradhu</title>
+        <title>ETHIRNEECHAL THODARGIRADHU</title>
     </programme>
     <programme start="20251224003000 +0000" stop="20251224013000 +0000" channel="Sun TV.starhub">
         <title>Singapenne</title>
@@ -2702,31 +2699,31 @@
         <title>Punitha</title>
     </programme>
     <programme start="20251224043000 +0000" stop="20251224050000 +0000" channel="Sun TV.starhub">
-        <title>Manamagale Vaa</title>
+        <title>MANAMAGALE VAA</title>
     </programme>
     <programme start="20251224050000 +0000" stop="20251224053000 +0000" channel="Sun TV.starhub">
-        <title>Vinodhini</title>
+        <title>VINODHINI</title>
     </programme>
     <programme start="20251224053000 +0000" stop="20251224060000 +0000" channel="Sun TV.starhub">
-        <title>Puthu Vasantham</title>
+        <title>PUTHU VASANTHAM</title>
     </programme>
     <programme start="20251224060000 +0000" stop="20251224063000 +0000" channel="Sun TV.starhub">
-        <title>Ilakkiya</title>
+        <title>ilakkiya</title>
     </programme>
     <programme start="20251224063000 +0000" stop="20251224070000 +0000" channel="Sun TV.starhub">
-        <title>Lakshmi</title>
+        <title>LAKSHMI</title>
     </programme>
     <programme start="20251224070000 +0000" stop="20251224073000 +0000" channel="Sun TV.starhub">
-        <title>Ananda Ragam</title>
+        <title>ANANDA RAGAM</title>
     </programme>
     <programme start="20251224073000 +0000" stop="20251224080000 +0000" channel="Sun TV.starhub">
-        <title>Movie - Kizhakku Seemaiyilae</title>
+        <title>Movie- KIZHAKKU SEEMAIYILAE</title>
     </programme>
     <programme start="20251224080000 +0000" stop="20251224083000 +0000" channel="Sun TV.starhub">
         <title>News</title>
     </programme>
     <programme start="20251224083000 +0000" stop="20251224103000 +0000" channel="Sun TV.starhub">
-        <title>Movie Contd - Kizhakku Seemaiyilae</title>
+        <title>Movie contd - KIZHAKKU SEEMAIYILAE</title>
     </programme>
     <programme start="20251224103000 +0000" stop="20251224110000 +0000" channel="Sun TV.starhub">
         <title>Chellame Chellame</title>
@@ -2750,16 +2747,16 @@
         <title>News</title>
     </programme>
     <programme start="20251224140000 +0000" stop="20251224143000 +0000" channel="Sun TV.starhub">
-        <title>Ethirneechal Thodargiradhu</title>
+        <title>ETHIRNEECHAL THODARGIRADHU</title>
     </programme>
     <programme start="20251224143000 +0000" stop="20251224150000 +0000" channel="Sun TV.starhub">
-        <title>Aadukalam</title>
+        <title>AADUKALAM</title>
     </programme>
     <programme start="20251224150000 +0000" stop="20251224153000 +0000" channel="Sun TV.starhub">
         <title>Malli</title>
     </programme>
     <programme start="20251224153000 +0000" stop="20251224160000 +0000" channel="Sun TV.starhub">
-        <title>Anandaragam - Serial</title>
+        <title>ANANDARAGAM - Serial</title>
     </programme>
     <programme start="20251223160000 +0000" stop="20251223170000 +0000" channel="Zee Tamil.starhub">
         <title>Mahasangamam Veera And Chinnanchiru Kiliye</title>
@@ -7810,16 +7807,16 @@
     <programme start="20251224013000 +0000" stop="20251224043000 +0000" channel="Asianet Movies.starhub">
         <title>Pullippulikalum Aattinkuttiyum</title>
     </programme>
-    <programme start="20251224043000 +0000" stop="20251224073000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251224043000 +0000" stop="20251224072500 +0000" channel="Asianet Movies.starhub">
         <title>Thuruppugulan</title>
     </programme>
-    <programme start="20251224073000 +0000" stop="20251224103000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251224072500 +0000" stop="20251224103000 +0000" channel="Asianet Movies.starhub">
         <title>Christian Brothers</title>
     </programme>
     <programme start="20251224103000 +0000" stop="20251224133000 +0000" channel="Asianet Movies.starhub">
         <title>Neymar</title>
     </programme>
-    <programme start="20251224133000 +0000" stop="20251224163000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251224133000 +0000" stop="20251224162500 +0000" channel="Asianet Movies.starhub">
         <title>Drishyam</title>
     </programme>
     <programme start="20251223160000 +0000" stop="20251223163000 +0000" channel="Astro Warna HD.starhub">

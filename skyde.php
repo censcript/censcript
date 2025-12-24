@@ -2899,6 +2899,9 @@
 <programme start="20251224140000 +0000" stop="20251224160000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Dallas Stars @ Detroit Red Wings</title>
 </programme>
+<programme start="20251224160000 +0000" stop="20251224163000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>Fußball: scooore Niederlande! Alle Tore</title>
+</programme>
 <programme start="20251224163000 +0000" stop="20251224190000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NBA: Houston Rockets @ LA Clippers</title>
 </programme>
@@ -2910,6 +2913,9 @@
 </programme>
 <programme start="20251224194500 +0000" stop="20251224200000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Highlights BUF@OTT</title>
+</programme>
+<programme start="20251224200000 +0000" stop="20251224203000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>Fußball: scooore Niederlande! Alle Tore</title>
 </programme>
 <programme start="20251224203000 +0000" stop="20251224230000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>DFB-Pokal: Arminia Bielefeld - VfB Stuttgart, Finale 2025 in Berlin</title>
