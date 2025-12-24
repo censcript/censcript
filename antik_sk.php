@@ -3988,10 +3988,10 @@
   <programme start="20251226044500 +0000" stop="20251226050000 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Vysielacia prestávka</title>
   </programme>
-  <programme start="20251226050000 +0000" stop="20251226085000 +0000" channel="Prima Krimi SK.webtv.sk">
+  <programme start="20251226050000 +0000" stop="20251226085500 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Noční dobrodružství</title>
   </programme>
-  <programme start="20251226085000 +0000" stop="20251226102500 +0000" channel="Prima Krimi SK.webtv.sk">
+  <programme start="20251226085500 +0000" stop="20251226102500 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Detektiv Endeavour Morse I (2)</title>
   </programme>
   <programme start="20251226102500 +0000" stop="20251226111000 +0000" channel="Prima Krimi SK.webtv.sk">

@@ -4070,19 +4070,16 @@
     <title>SpongeBob SquarePants</title>
 </programme>
 <programme start="20251224113000 +0000" stop="20251224133000 +0000" channel="GTV.mncvision">
-    <title>Fighter</title>
+    <title>Operation Delta Force</title>
 </programme>
 <programme start="20251224133000 +0000" stop="20251224150000 +0000" channel="GTV.mncvision">
-    <title>Top Gun: Maverick</title>
+    <title>Detective Dee: Solitary Skies...</title>
 </programme>
 <programme start="20251224150000 +0000" stop="20251224160000 +0000" channel="GTV.mncvision">
-    <title>Countdown 2026 WIT</title>
-</programme>
-<programme start="20251224160000 +0000" stop="20251224160500 +0000" channel="GTV.mncvision">
-    <title>Countdown 2026 WITA</title>
-</programme>
-<programme start="20251224160500 +0000" stop="20251224163500 +0000" channel="GTV.mncvision">
     <title>Untold Story</title>
+</programme>
+<programme start="20251224160000 +0000" stop="20251224163000 +0000" channel="GTV.mncvision">
+    <title>Radio</title>
 </programme>
 <programme start="20251223170000 +0000" stop="20251223180000 +0000" channel="GTV HD.mncvision">
     <title>Jelajah Mitos</title>
@@ -4124,19 +4121,16 @@
     <title>SpongeBob SquarePants</title>
 </programme>
 <programme start="20251224113000 +0000" stop="20251224133000 +0000" channel="GTV HD.mncvision">
-    <title>Fighter</title>
+    <title>Operation Delta Force</title>
 </programme>
 <programme start="20251224133000 +0000" stop="20251224150000 +0000" channel="GTV HD.mncvision">
-    <title>Top Gun: Maverick</title>
+    <title>Detective Dee: Solitary Skies...</title>
 </programme>
 <programme start="20251224150000 +0000" stop="20251224160000 +0000" channel="GTV HD.mncvision">
-    <title>Countdown 2026 WIT</title>
-</programme>
-<programme start="20251224160000 +0000" stop="20251224160500 +0000" channel="GTV HD.mncvision">
-    <title>Countdown 2026 WITA</title>
-</programme>
-<programme start="20251224160500 +0000" stop="20251224163500 +0000" channel="GTV HD.mncvision">
     <title>Untold Story</title>
+</programme>
+<programme start="20251224160000 +0000" stop="20251224163000 +0000" channel="GTV HD.mncvision">
+    <title>Radio</title>
 </programme>
 <programme start="20251223180000 +0000" stop="20251223183000 +0000" channel="Hanacaraka TV.mncvision">
     <title>Arwah Lelembut</title>
