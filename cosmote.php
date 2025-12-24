@@ -122,8 +122,8 @@
     <title>Football: Olympiacos - Aris</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251224194500 +0700" stop="20251224214500 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Southampton - Coventry City</title>
+<programme start="20251225225000 +0700" stop="20251226010000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Olympiacos - AEK</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251224214500 +0700" stop="20251224234500 +0700" channel="COSMOTE Sport 3 HD">
@@ -246,14 +246,6 @@
     <title>Basketball: Promitheas - Rytas Vilnius</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251224200000 +0700" stop="20251224213500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251224213500 +0700" stop="20251224215500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Sports Classics: Worldies E15</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251224215500 +0700" stop="20251225000000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Motorsports: Extreme E 2025</title>
     <desc>Live: Tidak</desc>
@@ -338,8 +330,12 @@
     <title>WRC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251224192000 +0700" stop="20251224213000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Athletics: World Athletics Continental Tour Gold 2025</title>
+<programme start="20251225221500 +0700" stop="20251225225500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Gala</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251225225500 +0700" stop="20251225231500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251224213000 +0700" stop="20251224234000 +0700" channel="COSMOTE Sport 6 HD">
@@ -384,6 +380,10 @@
 </programme>
 <programme start="20251225191000 +0700" stop="20251225221000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Jannik Sinner - Alexander Zverev</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251225221000 +0700" stop="20251226011000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: Carlos Alcaraz - Jannik Sinner</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251224210000 +0700" stop="20251224230000 +0700" channel="COSMOTE Sport 7 HD">
