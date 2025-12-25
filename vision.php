@@ -544,9 +544,6 @@
 <programme start="20251225041500 +0000" stop="20251225050000 +0000" channel="Trans 7.vision">
 <title>Enah Bikin Enak</title>
 </programme>
-<programme start="20251225050000 +0000" stop="20251225064500 +0000" channel="Trans 7.vision">
-<title>Dear Nathan</title>
-</programme>
 <programme start="20251225064500 +0000" stop="20251225081500 +0000" channel="Trans 7.vision">
 <title>Milly &amp; Mamet</title>
 </programme>
@@ -633,12 +630,6 @@
 </programme>
 <programme start="20251224230000 +0000" stop="20251225003000 +0000" channel="ANTV.vision">
 <title>Takdir Cinta Layla</title>
-</programme>
-<programme start="20251225003000 +0000" stop="20251225023000 +0000" channel="ANTV.vision">
-<title>Intan Berduri</title>
-</programme>
-<programme start="20251225023000 +0000" stop="20251225060000 +0000" channel="ANTV.vision">
-<title>Krrish 3</title>
 </programme>
 <programme start="20251225060000 +0000" stop="20251225073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
@@ -1497,4 +1488,13 @@
 </programme>
 <programme start="20251225000000 +0000" stop="20251225003000 +0000" channel="DAAI TV.vision">
 <title>Dr. Panda</title>
+</programme>
+<programme start="20251225003000 +0000" stop="20251225010000 +0000" channel="DAAI TV.vision">
+<title>Darwin &amp; Newts</title>
+</programme>
+<programme start="20251225010000 +0000" stop="20251225013000 +0000" channel="DAAI TV.vision">
+<title>Clifford</title>
+</programme>
+<programme start="20251225013000 +0000" stop="20251225020000 +0000" channel="DAAI TV.vision">
+<title>At Indonesia</title>
 </programme>

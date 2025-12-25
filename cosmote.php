@@ -106,8 +106,8 @@
     <title>Football: ACF Fiorentina - Udinese</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251225130000 +0700" stop="20251225153000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Palmeiras - Flamengo</title>
+<programme start="20251226161000 +0700" stop="20251226181000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: SS Lazio - Cremonese</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251225153000 +0700" stop="20251225173000 +0700" channel="COSMOTE Sport 3 HD">
@@ -222,8 +222,8 @@
     <title>Basketball: New York Knicks - Cleveland Cavaliers</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251225133500 +0700" stop="20251225150500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC 2025</title>
+<programme start="20251226162000 +0700" stop="20251226185000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Golden State Warriors - Dallas Mavericks</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251225150500 +0700" stop="20251225163000 +0700" channel="COSMOTE Sport 5 HD">
@@ -322,8 +322,8 @@
     <title>2025 Extreme H</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251225124500 +0700" stop="20251225155500 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: Lorenzo Musetti - Alex de Minaur</title>
+<programme start="20251226160500 +0700" stop="20251226171000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>2025 Extreme H</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251225155500 +0700" stop="20251225181000 +0700" channel="COSMOTE Sport 6 HD">
@@ -371,6 +371,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251226142500 +0700" stop="20251226160500 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Premier Padel Tour 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251226160500 +0700" stop="20251226180500 +0700" channel="COSMOTE Sport 6 HD">
     <title>Premier Padel Tour 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
