@@ -637,6 +637,9 @@
 <programme start="20251225073000 +0000" stop="20251225083000 +0000" channel="ANTV.vision">
 <title>Shani</title>
 </programme>
+<programme start="20251225083000 +0000" stop="20251225110000 +0000" channel="ANTV.vision">
+<title>Saur Sepuh 4</title>
+</programme>
 <programme start="20251225110000 +0000" stop="20251225123000 +0000" channel="ANTV.vision">
 <title>Senandung Cinta Lilis</title>
 </programme>
@@ -1494,7 +1497,4 @@
 </programme>
 <programme start="20251225013000 +0000" stop="20251225020000 +0000" channel="DAAI TV.vision">
 <title>At Indonesia</title>
-</programme>
-<programme start="20251225020000 +0000" stop="20251225030000 +0000" channel="DAAI TV.vision">
-<title>Bincang Sehati</title>
 </programme>
