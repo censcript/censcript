@@ -2505,6 +2505,45 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251225225000 +0000" stop="20251225234500 +0000" channel="Sky Showcase HD.skyde">
     <title>Wilder Nordatlantik</title>
 </programme>
+<programme start="20251224232500 +0000" stop="20251225011000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Fußball: Historisches Derby: FAK-SCR (2012/2013)</title>
+</programme>
+<programme start="20251225011000 +0000" stop="20251225025500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Fußball: Historisches Derby: SCR-FAK (2004/2005)</title>
+</programme>
+<programme start="20251225025500 +0000" stop="20251225050000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Junioren: Österreich - Saudi-Arabien, FIFA U-17 WM 2025</title>
+</programme>
+<programme start="20251225050000 +0000" stop="20251225070000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Junioren: Österreich - Mali, FIFA U-17 WM 2025</title>
+</programme>
+<programme start="20251225070000 +0000" stop="20251225090000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Junioren: Österreich - Neuseeland, FIFA U-17 WM 2025</title>
+</programme>
+<programme start="20251225090000 +0000" stop="20251225110000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Junioren: Österreich - Tunesien, FIFA U-17 WM 2025</title>
+</programme>
+<programme start="20251225110000 +0000" stop="20251225130000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Junioren: Österreich - England, FIFA U-17 WM 2025</title>
+</programme>
+<programme start="20251225130000 +0000" stop="20251225150000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Junioren: Österreich - Japan,  FIFA U-17 WM 2025, Viertelfinale</title>
+</programme>
+<programme start="20251225150000 +0000" stop="20251225170000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Junioren: Österreich - Italien, FIFA U-17 WM 2025, Halbfinale</title>
+</programme>
+<programme start="20251225170000 +0000" stop="20251225193000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Junioren: Portugal - Österreich, FIFA U-17 WM 2025, Finale</title>
+</programme>
+<programme start="20251225193000 +0000" stop="20251225200000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Junioren: Unser Moment - ein halbes Sommermärchen</title>
+</programme>
+<programme start="20251225200000 +0000" stop="20251225214500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Fußball: Historisches Derby: SVR-ASK (2000/2001)</title>
+</programme>
+<programme start="20251225214500 +0000" stop="20251225233000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Fußball: Historisches Derby: SVR-ASK (2009/2010)</title>
+</programme>
 <programme start="20251224230000 +0000" stop="20251224232000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: 1. FC Union Berlin - Hinrunde 25-26</title>
 </programme>

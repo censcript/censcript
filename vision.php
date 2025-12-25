@@ -544,9 +544,6 @@
 <programme start="20251225041500 +0000" stop="20251225050000 +0000" channel="Trans 7.vision">
 <title>Enah Bikin Enak</title>
 </programme>
-<programme start="20251225050000 +0000" stop="20251225064500 +0000" channel="Trans 7.vision">
-<title>Dear Nathan</title>
-</programme>
 <programme start="20251225064500 +0000" stop="20251225081500 +0000" channel="Trans 7.vision">
 <title>Milly &amp; Mamet</title>
 </programme>
@@ -573,9 +570,6 @@
 </programme>
 <programme start="20251225143000 +0000" stop="20251225154500 +0000" channel="Trans 7.vision">
 <title>Lapor Pak!</title>
-</programme>
-<programme start="20251225154500 +0000" stop="20251225174500 +0000" channel="Trans 7.vision">
-<title>The Divine Fury</title>
 </programme>
 <programme start="20251225174500 +0000" stop="20251225193000 +0000" channel="Trans 7.vision">
 <title>Warkop: Pintar-Pintar Bodoh</title>
@@ -640,20 +634,8 @@
 <programme start="20251225073000 +0000" stop="20251225083000 +0000" channel="ANTV.vision">
 <title>Shani</title>
 </programme>
-<programme start="20251225083000 +0000" stop="20251225110000 +0000" channel="ANTV.vision">
-<title>Saur Sepuh 4</title>
-</programme>
 <programme start="20251225110000 +0000" stop="20251225123000 +0000" channel="ANTV.vision">
 <title>Senandung Cinta Lilis</title>
-</programme>
-<programme start="20251225123000 +0000" stop="20251225143000 +0000" channel="ANTV.vision">
-<title>Siluman Kera</title>
-</programme>
-<programme start="20251225143000 +0000" stop="20251225163000 +0000" channel="ANTV.vision">
-<title>Saya Duluan Dong</title>
-</programme>
-<programme start="20251225163000 +0000" stop="20251225183000 +0000" channel="ANTV.vision">
-<title>Sabrina</title>
 </programme>
 <programme start="20251225183000 +0000" stop="20251225200000 +0000" channel="ANTV.vision">
 <title>Aces Go Places 3</title>
@@ -1497,4 +1479,22 @@
 </programme>
 <programme start="20251225010000 +0000" stop="20251225013000 +0000" channel="DAAI TV.vision">
 <title>Clifford</title>
+</programme>
+<programme start="20251225013000 +0000" stop="20251225020000 +0000" channel="DAAI TV.vision">
+<title>At Indonesia</title>
+</programme>
+<programme start="20251225020000 +0000" stop="20251225030000 +0000" channel="DAAI TV.vision">
+<title>Bincang Sehati</title>
+</programme>
+<programme start="20251225030000 +0000" stop="20251225033000 +0000" channel="DAAI TV.vision">
+<title>Sehat Ala Timur</title>
+</programme>
+<programme start="20251225033000 +0000" stop="20251225040000 +0000" channel="DAAI TV.vision">
+<title>Vegetarian Kitchen</title>
+</programme>
+<programme start="20251225040000 +0000" stop="20251225050000 +0000" channel="DAAI TV.vision">
+<title>I Love You Mom</title>
+</programme>
+<programme start="20251225050000 +0000" stop="20251225060000 +0000" channel="DAAI TV.vision">
+<title>Halo Indonesia</title>
 </programme>
