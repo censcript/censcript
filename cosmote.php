@@ -70,12 +70,8 @@
     <title>Game R1 S6 E18</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251226031000 +0700" stop="20251226053000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Panathinaikos - AEK</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251226053000 +0700" stop="20251226060000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Serie A Full Impact 2024-25 E16</title>
+<programme start="20251227060000 +0700" stop="20251227070000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEFA Champions League Highlights 2025-26</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251226060000 +0700" stop="20251226063000 +0700" channel="COSMOTE Sport 2 HD">
@@ -142,10 +138,6 @@
     <title>Football: AEL Novibet - Atromitos</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251226033000 +0700" stop="20251226053000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Swansea City - Wrexham</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251226053000 +0700" stop="20251226073000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Estoril - SC Braga</title>
     <desc>Live: Tidak</desc>
@@ -202,6 +194,10 @@
     <title>Football: Birmingham City - Derby County</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251227064500 +0700" stop="20251227084500 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Middlesbrough - Blackburn Rovers</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251226050000 +0700" stop="20251226080000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Golden State Warriors - Dallas Mavericks (L)</title>
     <desc>Live: Ya</desc>
@@ -256,10 +252,6 @@
 </programme>
 <programme start="20251227050000 +0700" stop="20251227073000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Denver Nuggets - Minnesota Timberwolves</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251226043500 +0700" stop="20251226053000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251226053000 +0700" stop="20251226063000 +0700" channel="COSMOTE Sport 5 HD">
@@ -358,6 +350,10 @@
     <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251227063000 +0700" stop="20251227070000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251226041500 +0700" stop="20251226064500 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Felix Auger-Aliassime - Jannik Sinner</title>
     <desc>Live: Tidak</desc>
@@ -412,14 +408,6 @@
 </programme>
 <programme start="20251227040000 +0700" stop="20251227073000 +0700" channel="COSMOTE Sport 6 HD">
     <title>2025 Premier Padel Tour Finals</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251226023000 +0700" stop="20251226053000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>Basketball: Oklahoma City Thunder - San Antonio Spurs (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20251226053000 +0700" stop="20251226060000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251226060000 +0700" stop="20251226073000 +0700" channel="COSMOTE Sport 7 HD">

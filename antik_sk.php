@@ -10312,10 +10312,10 @@
   <programme start="20251227055000 +0000" stop="20251227062000 +0000" channel="Nicktoons.webtv.sk">
     <title lang="id">Supr čupr králíčci I (2)</title>
   </programme>
-  <programme start="20251227062000 +0000" stop="20251227065000 +0000" channel="Nicktoons.webtv.sk">
+  <programme start="20251227062000 +0000" stop="20251227064500 +0000" channel="Nicktoons.webtv.sk">
     <title lang="id">Supr čupr králíčci II (8)</title>
   </programme>
-  <programme start="20251227065000 +0000" stop="20251227071500 +0000" channel="Nicktoons.webtv.sk">
+  <programme start="20251227064500 +0000" stop="20251227071500 +0000" channel="Nicktoons.webtv.sk">
     <title lang="id">Hlasiťákovi III (24)</title>
   </programme>
   <programme start="20251227071500 +0000" stop="20251227074500 +0000" channel="Nicktoons.webtv.sk">
@@ -10327,17 +10327,20 @@
   <programme start="20251227080000 +0000" stop="20251227085000 +0000" channel="Nicktoons.webtv.sk">
     <title lang="id">Albert</title>
   </programme>
-  <programme start="20251227085000 +0000" stop="20251227092000 +0000" channel="Nicktoons.webtv.sk">
+  <programme start="20251227085000 +0000" stop="20251227091500 +0000" channel="Nicktoons.webtv.sk">
     <title lang="id">Patrikova hvězdná show II (8)</title>
   </programme>
-  <programme start="20251227092000 +0000" stop="20251227095000 +0000" channel="Nicktoons.webtv.sk">
+  <programme start="20251227091500 +0000" stop="20251227094500 +0000" channel="Nicktoons.webtv.sk">
     <title lang="id">Tučňáci z Madagaskaru II (14)</title>
   </programme>
-  <programme start="20251227095000 +0000" stop="20251227101000 +0000" channel="Nicktoons.webtv.sk">
+  <programme start="20251227094500 +0000" stop="20251227095500 +0000" channel="Nicktoons.webtv.sk">
     <title lang="id">Tučňáci z Madagaskaru I (10)</title>
   </programme>
-  <programme start="20251227101000 +0000" stop="20251227104000 +0000" channel="Nicktoons.webtv.sk">
+  <programme start="20251227095500 +0000" stop="20251227102500 +0000" channel="Nicktoons.webtv.sk">
     <title lang="id">Kouzelní kmotříčci: Nové přání I (5)</title>
+  </programme>
+  <programme start="20251227102500 +0000" stop="20251227104000 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Kouzelní kmotříčci: Nové přání I (19)</title>
   </programme>
   <programme start="20251227104000 +0000" stop="20251227110000 +0000" channel="Nicktoons.webtv.sk">
     <title lang="id">Kouzelní kmotříčci: Nové přání I (6)</title>
@@ -10354,46 +10357,46 @@
   <programme start="20251227121500 +0000" stop="20251227124500 +0000" channel="Nicktoons.webtv.sk">
     <title lang="id">Spongebob v kalhotách XIII (272)</title>
   </programme>
-  <programme start="20251227124500 +0000" stop="20251227131500 +0000" channel="Nicktoons.webtv.sk">
+  <programme start="20251227124500 +0000" stop="20251227131000 +0000" channel="Nicktoons.webtv.sk">
     <title lang="id">Spongebob v kalhotách XIV (296)</title>
   </programme>
-  <programme start="20251227131500 +0000" stop="20251227134000 +0000" channel="Nicktoons.webtv.sk">
+  <programme start="20251227131000 +0000" stop="20251227134000 +0000" channel="Nicktoons.webtv.sk">
     <title lang="id">Casagrandovi I (2)</title>
   </programme>
   <programme start="20251227134000 +0000" stop="20251227141000 +0000" channel="Nicktoons.webtv.sk">
     <title lang="id">Casagrandovi II (6)</title>
   </programme>
-  <programme start="20251227141000 +0000" stop="20251227144000 +0000" channel="Nicktoons.webtv.sk">
+  <programme start="20251227141000 +0000" stop="20251227143500 +0000" channel="Nicktoons.webtv.sk">
     <title lang="id">Casagrandovi I (5)</title>
   </programme>
-  <programme start="20251227144000 +0000" stop="20251227151000 +0000" channel="Nicktoons.webtv.sk">
+  <programme start="20251227143500 +0000" stop="20251227150500 +0000" channel="Nicktoons.webtv.sk">
     <title lang="id">Patrikova hvězdná show III (12)</title>
   </programme>
-  <programme start="20251227151000 +0000" stop="20251227154000 +0000" channel="Nicktoons.webtv.sk">
+  <programme start="20251227150500 +0000" stop="20251227153500 +0000" channel="Nicktoons.webtv.sk">
     <title lang="id">Spongebob v kalhotách VIII (175)</title>
   </programme>
-  <programme start="20251227154000 +0000" stop="20251227160500 +0000" channel="Nicktoons.webtv.sk">
+  <programme start="20251227153500 +0000" stop="20251227160000 +0000" channel="Nicktoons.webtv.sk">
     <title lang="id">Spongebob v kalhotách XIII (272)</title>
   </programme>
-  <programme start="20251227160500 +0000" stop="20251227163500 +0000" channel="Nicktoons.webtv.sk">
+  <programme start="20251227160000 +0000" stop="20251227163000 +0000" channel="Nicktoons.webtv.sk">
     <title lang="id">Hlasiťákovi VII (20)</title>
   </programme>
-  <programme start="20251227163500 +0000" stop="20251227170000 +0000" channel="Nicktoons.webtv.sk">
+  <programme start="20251227163000 +0000" stop="20251227165500 +0000" channel="Nicktoons.webtv.sk">
     <title lang="id">Hlasiťákovi VII (17)</title>
   </programme>
-  <programme start="20251227170000 +0000" stop="20251227181000 +0000" channel="Nicktoons.webtv.sk">
+  <programme start="20251227165500 +0000" stop="20251227181000 +0000" channel="Nicktoons.webtv.sk">
     <title lang="id">Kouzelní kmotříčci a vánoce</title>
   </programme>
-  <programme start="20251227181000 +0000" stop="20251227183000 +0000" channel="Nicktoons.webtv.sk">
+  <programme start="20251227181000 +0000" stop="20251227182500 +0000" channel="Nicktoons.webtv.sk">
     <title lang="id">Casagrandovi I (2)</title>
   </programme>
-  <programme start="20251227183000 +0000" stop="20251227184500 +0000" channel="Nicktoons.webtv.sk">
+  <programme start="20251227182500 +0000" stop="20251227184000 +0000" channel="Nicktoons.webtv.sk">
     <title lang="id">Casagrandovi I (14)</title>
   </programme>
-  <programme start="20251227184500 +0000" stop="20251227185500 +0000" channel="Nicktoons.webtv.sk">
+  <programme start="20251227184000 +0000" stop="20251227185000 +0000" channel="Nicktoons.webtv.sk">
     <title lang="id">Casagrandovi I (14)</title>
   </programme>
-  <programme start="20251227185500 +0000" stop="20251227192000 +0000" channel="Nicktoons.webtv.sk">
+  <programme start="20251227185000 +0000" stop="20251227192000 +0000" channel="Nicktoons.webtv.sk">
     <title lang="id">Spongebob v kalhotách XIII (289)</title>
   </programme>
   <programme start="20251227192000 +0000" stop="20251227195000 +0000" channel="Nicktoons.webtv.sk">
@@ -10405,10 +10408,10 @@
   <programme start="20251227202000 +0000" stop="20251227204500 +0000" channel="Nicktoons.webtv.sk">
     <title lang="id">Spongebob v kalhotách XIII (291)</title>
   </programme>
-  <programme start="20251227204500 +0000" stop="20251227210500 +0000" channel="Nicktoons.webtv.sk">
+  <programme start="20251227204500 +0000" stop="20251227211000 +0000" channel="Nicktoons.webtv.sk">
     <title lang="id">Kouzelní kmotříčci: Nové přání I (5)</title>
   </programme>
-  <programme start="20251227210500 +0000" stop="20251227213500 +0000" channel="Nicktoons.webtv.sk">
+  <programme start="20251227211000 +0000" stop="20251227213500 +0000" channel="Nicktoons.webtv.sk">
     <title lang="id">Kouzelní kmotříčci: Nové přání I (6)</title>
   </programme>
   <programme start="20251227213500 +0000" stop="20251227215500 +0000" channel="Nicktoons.webtv.sk">
