@@ -50,10 +50,6 @@
     <title>Football: FC Internazionale Milano - Liverpool FC</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251225120000 +0700" stop="20251225140000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: AEL Novibet - Atromitos</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251225140000 +0700" stop="20251225161500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Panathinaikos - Olympiacos</title>
     <desc>Live: Tidak</desc>
@@ -104,6 +100,10 @@
 </programme>
 <programme start="20251226120000 +0700" stop="20251226141000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: AEK - OFI</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251226141000 +0700" stop="20251226161000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: ACF Fiorentina - Udinese</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251225130000 +0700" stop="20251225153000 +0700" channel="COSMOTE Sport 3 HD">
@@ -220,10 +220,6 @@
 </programme>
 <programme start="20251226135000 +0700" stop="20251226162000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: New York Knicks - Cleveland Cavaliers</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251225120000 +0700" stop="20251225133500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251225133500 +0700" stop="20251225150500 +0700" channel="COSMOTE Sport 5 HD">
@@ -367,6 +363,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251226123000 +0700" stop="20251226142500 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Premier Padel Tour 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251226142500 +0700" stop="20251226160500 +0700" channel="COSMOTE Sport 6 HD">
     <title>Premier Padel Tour 2025</title>
     <desc>Live: Tidak</desc>
 </programme>

@@ -246,67 +246,67 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251225051000 +0000" stop="20251225052000 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20251225052000 +0000" stop="20251225053000 +0000" channel="Cartoon Network.skyde">
+<programme start="20251225052000 +0000" stop="20251225053500 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20251225053000 +0000" stop="20251225054500 +0000" channel="Cartoon Network.skyde">
+<programme start="20251225053500 +0000" stop="20251225054500 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20251225054500 +0000" stop="20251225055000 +0000" channel="Cartoon Network.skyde">
+<programme start="20251225054500 +0000" stop="20251225055500 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20251225055000 +0000" stop="20251225060000 +0000" channel="Cartoon Network.skyde">
+<programme start="20251225055500 +0000" stop="20251225060500 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20251225060000 +0000" stop="20251225061500 +0000" channel="Cartoon Network.skyde">
+<programme start="20251225060500 +0000" stop="20251225062000 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20251225061500 +0000" stop="20251225062500 +0000" channel="Cartoon Network.skyde">
+<programme start="20251225062000 +0000" stop="20251225063000 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20251225062500 +0000" stop="20251225063500 +0000" channel="Cartoon Network.skyde">
+<programme start="20251225063000 +0000" stop="20251225064000 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20251225063500 +0000" stop="20251225065000 +0000" channel="Cartoon Network.skyde">
+<programme start="20251225064000 +0000" stop="20251225065500 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20251225065000 +0000" stop="20251225070000 +0000" channel="Cartoon Network.skyde">
+<programme start="20251225065500 +0000" stop="20251225070500 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20251225070000 +0000" stop="20251225071000 +0000" channel="Cartoon Network.skyde">
+<programme start="20251225070500 +0000" stop="20251225071500 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20251225071000 +0000" stop="20251225072500 +0000" channel="Cartoon Network.skyde">
+<programme start="20251225071500 +0000" stop="20251225073000 +0000" channel="Cartoon Network.skyde">
     <title>Die wunderbar schräge Welt von Gumball</title>
 </programme>
-<programme start="20251225072500 +0000" stop="20251225073500 +0000" channel="Cartoon Network.skyde">
+<programme start="20251225073000 +0000" stop="20251225074000 +0000" channel="Cartoon Network.skyde">
     <title>Die wunderbar schräge Welt von Gumball</title>
 </programme>
-<programme start="20251225073500 +0000" stop="20251225075000 +0000" channel="Cartoon Network.skyde">
+<programme start="20251225074000 +0000" stop="20251225075500 +0000" channel="Cartoon Network.skyde">
     <title>Looney Tunes Cartoons</title>
 </programme>
-<programme start="20251225075000 +0000" stop="20251225080000 +0000" channel="Cartoon Network.skyde">
+<programme start="20251225075500 +0000" stop="20251225080500 +0000" channel="Cartoon Network.skyde">
     <title>Looney Tunes Cartoons</title>
 </programme>
-<programme start="20251225080000 +0000" stop="20251225081000 +0000" channel="Cartoon Network.skyde">
+<programme start="20251225080500 +0000" stop="20251225081500 +0000" channel="Cartoon Network.skyde">
     <title>Looney Tunes Cartoons</title>
 </programme>
-<programme start="20251225081000 +0000" stop="20251225082500 +0000" channel="Cartoon Network.skyde">
+<programme start="20251225081500 +0000" stop="20251225082500 +0000" channel="Cartoon Network.skyde">
     <title>Looney Tunes Cartoons</title>
 </programme>
-<programme start="20251225082500 +0000" stop="20251225083500 +0000" channel="Cartoon Network.skyde">
+<programme start="20251225082500 +0000" stop="20251225084000 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20251225083500 +0000" stop="20251225084500 +0000" channel="Cartoon Network.skyde">
+<programme start="20251225084000 +0000" stop="20251225085000 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20251225084500 +0000" stop="20251225090000 +0000" channel="Cartoon Network.skyde">
+<programme start="20251225085000 +0000" stop="20251225090500 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20251225090000 +0000" stop="20251225092000 +0000" channel="Cartoon Network.skyde">
+<programme start="20251225090500 +0000" stop="20251225092500 +0000" channel="Cartoon Network.skyde">
     <title>Tiny Toons Looniversity</title>
 </programme>
-<programme start="20251225092000 +0000" stop="20251225094500 +0000" channel="Cartoon Network.skyde">
+<programme start="20251225092500 +0000" stop="20251225094500 +0000" channel="Cartoon Network.skyde">
     <title>Tiny Toons Looniversity</title>
 </programme>
 <programme start="20251225094500 +0000" stop="20251225095500 +0000" channel="Cartoon Network.skyde">
@@ -357,19 +357,19 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251225124500 +0000" stop="20251225125500 +0000" channel="Cartoon Network.skyde">
     <title>We Bare Bears - Bären wie wir</title>
 </programme>
-<programme start="20251225125500 +0000" stop="20251225130500 +0000" channel="Cartoon Network.skyde">
+<programme start="20251225125500 +0000" stop="20251225131000 +0000" channel="Cartoon Network.skyde">
     <title>We Baby Bears - Bärchen wie wir</title>
 </programme>
-<programme start="20251225130500 +0000" stop="20251225132000 +0000" channel="Cartoon Network.skyde">
+<programme start="20251225131000 +0000" stop="20251225132000 +0000" channel="Cartoon Network.skyde">
     <title>Clarence</title>
 </programme>
 <programme start="20251225132000 +0000" stop="20251225133000 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20251225133000 +0000" stop="20251225134000 +0000" channel="Cartoon Network.skyde">
+<programme start="20251225133000 +0000" stop="20251225134500 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20251225134000 +0000" stop="20251225135500 +0000" channel="Cartoon Network.skyde">
+<programme start="20251225134500 +0000" stop="20251225135500 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
 <programme start="20251225135500 +0000" stop="20251225140500 +0000" channel="Cartoon Network.skyde">
@@ -384,76 +384,76 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251225143000 +0000" stop="20251225144000 +0000" channel="Cartoon Network.skyde">
     <title>Die wunderbar schräge Welt von Gumball</title>
 </programme>
-<programme start="20251225144000 +0000" stop="20251225145000 +0000" channel="Cartoon Network.skyde">
+<programme start="20251225144000 +0000" stop="20251225145500 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball: Die Gumball-Chroniken</title>
 </programme>
-<programme start="20251225145000 +0000" stop="20251225150500 +0000" channel="Cartoon Network.skyde">
+<programme start="20251225145500 +0000" stop="20251225150500 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball: Die Gumball-Chroniken</title>
 </programme>
 <programme start="20251225150500 +0000" stop="20251225151500 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball: Die Gumball-Chroniken</title>
 </programme>
-<programme start="20251225151500 +0000" stop="20251225152500 +0000" channel="Cartoon Network.skyde">
+<programme start="20251225151500 +0000" stop="20251225153000 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball: Die Gumball-Chroniken</title>
 </programme>
-<programme start="20251225152500 +0000" stop="20251225154000 +0000" channel="Cartoon Network.skyde">
+<programme start="20251225153000 +0000" stop="20251225154000 +0000" channel="Cartoon Network.skyde">
     <title>Die wunderbar schräge Welt von Gumball</title>
 </programme>
 <programme start="20251225154000 +0000" stop="20251225155000 +0000" channel="Cartoon Network.skyde">
     <title>Die wunderbar schräge Welt von Gumball</title>
 </programme>
-<programme start="20251225155000 +0000" stop="20251225160000 +0000" channel="Cartoon Network.skyde">
+<programme start="20251225155000 +0000" stop="20251225160500 +0000" channel="Cartoon Network.skyde">
     <title>Die wunderbar schräge Welt von Gumball</title>
 </programme>
-<programme start="20251225160000 +0000" stop="20251225161500 +0000" channel="Cartoon Network.skyde">
+<programme start="20251225160500 +0000" stop="20251225161500 +0000" channel="Cartoon Network.skyde">
     <title>Die wunderbar schräge Welt von Gumball</title>
 </programme>
-<programme start="20251225161500 +0000" stop="20251225162500 +0000" channel="Cartoon Network.skyde">
+<programme start="20251225161500 +0000" stop="20251225163000 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20251225162500 +0000" stop="20251225164000 +0000" channel="Cartoon Network.skyde">
+<programme start="20251225163000 +0000" stop="20251225164000 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
 <programme start="20251225164000 +0000" stop="20251225165000 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20251225165000 +0000" stop="20251225170000 +0000" channel="Cartoon Network.skyde">
+<programme start="20251225165000 +0000" stop="20251225170500 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20251225170000 +0000" stop="20251225171500 +0000" channel="Cartoon Network.skyde">
+<programme start="20251225170500 +0000" stop="20251225171500 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20251225171500 +0000" stop="20251225172500 +0000" channel="Cartoon Network.skyde">
+<programme start="20251225171500 +0000" stop="20251225173000 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20251225172500 +0000" stop="20251225174000 +0000" channel="Cartoon Network.skyde">
+<programme start="20251225173000 +0000" stop="20251225174000 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
 <programme start="20251225174000 +0000" stop="20251225175000 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20251225175000 +0000" stop="20251225180000 +0000" channel="Cartoon Network.skyde">
+<programme start="20251225175000 +0000" stop="20251225180500 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20251225180000 +0000" stop="20251225181500 +0000" channel="Cartoon Network.skyde">
+<programme start="20251225180500 +0000" stop="20251225181500 +0000" channel="Cartoon Network.skyde">
     <title>Die wunderbar schräge Welt von Gumball</title>
 </programme>
 <programme start="20251225181500 +0000" stop="20251225182500 +0000" channel="Cartoon Network.skyde">
     <title>Die wunderbar schräge Welt von Gumball</title>
 </programme>
-<programme start="20251225182500 +0000" stop="20251225183500 +0000" channel="Cartoon Network.skyde">
+<programme start="20251225182500 +0000" stop="20251225184000 +0000" channel="Cartoon Network.skyde">
     <title>Die wunderbar schräge Welt von Gumball</title>
 </programme>
-<programme start="20251225183500 +0000" stop="20251225185000 +0000" channel="Cartoon Network.skyde">
+<programme start="20251225184000 +0000" stop="20251225185000 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
 <programme start="20251225185000 +0000" stop="20251225190000 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20251225190000 +0000" stop="20251225191000 +0000" channel="Cartoon Network.skyde">
+<programme start="20251225190000 +0000" stop="20251225191500 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20251225191000 +0000" stop="20251225192500 +0000" channel="Cartoon Network.skyde">
+<programme start="20251225191500 +0000" stop="20251225192500 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
 <programme start="20251225192500 +0000" stop="20251225193500 +0000" channel="Cartoon Network.skyde">
@@ -468,19 +468,19 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251225200000 +0000" stop="20251225201000 +0000" channel="Cartoon Network.skyde">
     <title>Die wunderbar schräge Welt von Gumball</title>
 </programme>
-<programme start="20251225201000 +0000" stop="20251225202000 +0000" channel="Cartoon Network.skyde">
+<programme start="20251225201000 +0000" stop="20251225202500 +0000" channel="Cartoon Network.skyde">
     <title>Die wunderbar schräge Welt von Gumball</title>
 </programme>
-<programme start="20251225202000 +0000" stop="20251225203500 +0000" channel="Cartoon Network.skyde">
+<programme start="20251225202500 +0000" stop="20251225203500 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
 <programme start="20251225203500 +0000" stop="20251225204500 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20251225204500 +0000" stop="20251225205500 +0000" channel="Cartoon Network.skyde">
+<programme start="20251225204500 +0000" stop="20251225210000 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20251225205500 +0000" stop="20251225211000 +0000" channel="Cartoon Network.skyde">
+<programme start="20251225210000 +0000" stop="20251225211000 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
 <programme start="20251225211000 +0000" stop="20251225213000 +0000" channel="Cartoon Network.skyde">
