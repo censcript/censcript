@@ -54,6 +54,14 @@
     <title>Football: Middlesbrough - Blackburn Rovers (L)</title>
     <desc>Live: Ya</desc>
 </programme>
+<programme start="20251227000000 +0700" stop="20251227003000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Sports Classics: Worldies E16</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251227003000 +0700" stop="20251227023000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: Wrexham  - Sheffield United (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
 <programme start="20251225225000 +0700" stop="20251226010000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Olympiacos - AEK</title>
     <desc>Live: Tidak</desc>
@@ -118,9 +126,13 @@
     <title>Football: Chesterfield  - Notts County (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251225213000 +0700" stop="20251225233000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Al Nassr - Al Khaleej</title>
+<programme start="20251227000000 +0700" stop="20251227003000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Sports Classics: Worldies E16</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251227003000 +0700" stop="20251227023000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Al Hilal - Al Khaleej (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20251225233000 +0700" stop="20251226013000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: SL Benfica - Famalicao</title>
@@ -182,10 +194,6 @@
     <title>Football: Lanus - Atletico Mineiro</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251225215000 +0700" stop="20251226000000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Promitheas - Rytas Vilnius</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251226000000 +0700" stop="20251226030000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: New York Knicks - Cleveland Cavaliers (L)</title>
     <desc>Live: Ya</desc>
@@ -234,8 +242,8 @@
     <title>Basketball: Oklahoma City Thunder - San Antonio Spurs</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251225225500 +0700" stop="20251225231500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Highlights</title>
+<programme start="20251227001000 +0700" stop="20251227015500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Pick n&#039; Roll</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251225231500 +0700" stop="20251226001000 +0700" channel="COSMOTE Sport 5 HD">
@@ -332,6 +340,10 @@
 </programme>
 <programme start="20251226230000 +0700" stop="20251227000000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Highlights: Moto2 &amp; Moto3 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251227000000 +0700" stop="20251227010000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: MotoGP</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251225221000 +0700" stop="20251226011000 +0700" channel="COSMOTE Sport 6 HD">
