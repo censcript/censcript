@@ -7606,17 +7606,20 @@
     <programme start="20251225013000 +0000" stop="20251225043000 +0000" channel="Asianet Movies.starhub">
         <title>RDX</title>
     </programme>
-    <programme start="20251225043000 +0000" stop="20251225073000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251225043000 +0000" stop="20251225073500 +0000" channel="Asianet Movies.starhub">
         <title>Sthanarthi Sreekuttan</title>
     </programme>
-    <programme start="20251225073000 +0000" stop="20251225103000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251225073500 +0000" stop="20251225104000 +0000" channel="Asianet Movies.starhub">
         <title>A.R.M</title>
     </programme>
-    <programme start="20251225103000 +0000" stop="20251225133000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251225104000 +0000" stop="20251225133000 +0000" channel="Asianet Movies.starhub">
         <title>Hello Mummy</title>
     </programme>
-    <programme start="20251225133000 +0000" stop="20251225160000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251225133000 +0000" stop="20251225155500 +0000" channel="Asianet Movies.starhub">
         <title>Avihitham</title>
+    </programme>
+    <programme start="20251225155500 +0000" stop="20251225190000 +0000" channel="Asianet Movies.starhub">
+        <title>Neyyattinkara Gopante Aaraattu</title>
     </programme>
     <programme start="20251224160000 +0000" stop="20251224163000 +0000" channel="Astro Warna HD.starhub">
         <title>Lawak Ke Dik?</title>
