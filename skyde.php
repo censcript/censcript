@@ -3567,22 +3567,22 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251225045500 +0000" stop="20251225051500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Die Nanny</title>
 </programme>
-<programme start="20251225051500 +0000" stop="20251225054000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251225051500 +0000" stop="20251225054500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Die Nanny</title>
 </programme>
-<programme start="20251225054000 +0000" stop="20251225060500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251225054500 +0000" stop="20251225061000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Friends</title>
 </programme>
-<programme start="20251225060500 +0000" stop="20251225063000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251225061000 +0000" stop="20251225063500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Friends</title>
 </programme>
-<programme start="20251225063000 +0000" stop="20251225065500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251225063500 +0000" stop="20251225070000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Friends</title>
 </programme>
-<programme start="20251225065500 +0000" stop="20251225072000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251225070000 +0000" stop="20251225072500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Friends</title>
 </programme>
-<programme start="20251225072000 +0000" stop="20251225075000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251225072500 +0000" stop="20251225075000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Die Nanny</title>
 </programme>
 <programme start="20251225075000 +0000" stop="20251225081500 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3597,22 +3597,22 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251225090500 +0000" stop="20251225093000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20251225093000 +0000" stop="20251225095500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251225093000 +0000" stop="20251225100000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20251225095500 +0000" stop="20251225102000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251225100000 +0000" stop="20251225102500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20251225102000 +0000" stop="20251225104500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251225102500 +0000" stop="20251225105000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20251225104500 +0000" stop="20251225111000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251225105000 +0000" stop="20251225111500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Friends</title>
 </programme>
-<programme start="20251225111000 +0000" stop="20251225113500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251225111500 +0000" stop="20251225114000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Friends</title>
 </programme>
-<programme start="20251225113500 +0000" stop="20251225120000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251225114000 +0000" stop="20251225120000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Friends</title>
 </programme>
 <programme start="20251225120000 +0000" stop="20251225122500 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3672,32 +3672,29 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251225191500 +0000" stop="20251225194000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Two and a Half Men</title>
 </programme>
-<programme start="20251225194000 +0000" stop="20251225200000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251225194000 +0000" stop="20251225200500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Two and a Half Men</title>
 </programme>
-<programme start="20251225200000 +0000" stop="20251225202500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251225200500 +0000" stop="20251225203000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Two and a Half Men</title>
 </programme>
-<programme start="20251225202500 +0000" stop="20251225205000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251225203000 +0000" stop="20251225205500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>2 Broke Girls</title>
 </programme>
-<programme start="20251225205000 +0000" stop="20251225211500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251225205500 +0000" stop="20251225212000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>2 Broke Girls</title>
 </programme>
-<programme start="20251225211500 +0000" stop="20251225214000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251225212000 +0000" stop="20251225214500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>American Dad</title>
 </programme>
-<programme start="20251225214000 +0000" stop="20251225220500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251225214500 +0000" stop="20251225221000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>American Dad</title>
 </programme>
-<programme start="20251225220500 +0000" stop="20251225223000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251225221000 +0000" stop="20251225223500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Rick and Morty</title>
 </programme>
-<programme start="20251225223000 +0000" stop="20251225225500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251225223500 +0000" stop="20251225230000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Rick and Morty</title>
-</programme>
-<programme start="20251225225500 +0000" stop="20251225232000 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>The Big Bang Theory</title>
 </programme>
 <programme start="20251224230000 +0000" stop="20251225004000 +0000" channel="Warner TV Film.skyde">
     <title>Sister Act - Eine himmlische Karriere</title>
@@ -3711,10 +3708,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251225050000 +0000" stop="20251225055000 +0000" channel="Warner TV Film.skyde">
     <title>Lutz van der Horst - Der Filmtalker</title>
 </programme>
-<programme start="20251225055000 +0000" stop="20251225090500 +0000" channel="Warner TV Film.skyde">
+<programme start="20251225055000 +0000" stop="20251225090000 +0000" channel="Warner TV Film.skyde">
     <title>Titanic</title>
 </programme>
-<programme start="20251225090500 +0000" stop="20251225111000 +0000" channel="Warner TV Film.skyde">
+<programme start="20251225090000 +0000" stop="20251225111000 +0000" channel="Warner TV Film.skyde">
     <title>Hidden Figures - Unerkannte Heldinnen</title>
 </programme>
 <programme start="20251225111000 +0000" stop="20251225132000 +0000" channel="Warner TV Film.skyde">
@@ -3732,7 +3729,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251225191500 +0000" stop="20251225211000 +0000" channel="Warner TV Film.skyde">
     <title>Zurück in die Zukunft</title>
 </programme>
-<programme start="20251225211000 +0000" stop="20251225230000 +0000" channel="Warner TV Film.skyde">
+<programme start="20251225211000 +0000" stop="20251225230500 +0000" channel="Warner TV Film.skyde">
     <title>Zurück in die Zukunft II</title>
 </programme>
 <programme start="20251224230000 +0000" stop="20251225004000 +0000" channel="Warner TV Film HD.skyde">
@@ -3747,10 +3744,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251225050000 +0000" stop="20251225055000 +0000" channel="Warner TV Film HD.skyde">
     <title>Lutz van der Horst - Der Filmtalker</title>
 </programme>
-<programme start="20251225055000 +0000" stop="20251225090500 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20251225055000 +0000" stop="20251225090000 +0000" channel="Warner TV Film HD.skyde">
     <title>Titanic</title>
 </programme>
-<programme start="20251225090500 +0000" stop="20251225111000 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20251225090000 +0000" stop="20251225111000 +0000" channel="Warner TV Film HD.skyde">
     <title>Hidden Figures - Unerkannte Heldinnen</title>
 </programme>
 <programme start="20251225111000 +0000" stop="20251225132000 +0000" channel="Warner TV Film HD.skyde">
@@ -3768,7 +3765,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251225191500 +0000" stop="20251225211000 +0000" channel="Warner TV Film HD.skyde">
     <title>Zurück in die Zukunft</title>
 </programme>
-<programme start="20251225211000 +0000" stop="20251225230000 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20251225211000 +0000" stop="20251225230500 +0000" channel="Warner TV Film HD.skyde">
     <title>Zurück in die Zukunft II</title>
 </programme>
 <programme start="20251224234500 +0000" stop="20251225004000 +0000" channel="Warner TV Serie HD.skyde">
@@ -3789,10 +3786,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251225034500 +0000" stop="20251225042500 +0000" channel="Warner TV Serie HD.skyde">
     <title>NCIS: Los Angeles</title>
 </programme>
-<programme start="20251225042500 +0000" stop="20251225052000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20251225042500 +0000" stop="20251225051000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Mord ist ihr Hobby</title>
 </programme>
-<programme start="20251225052000 +0000" stop="20251225061000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20251225051000 +0000" stop="20251225061000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Mord ist ihr Hobby</title>
 </programme>
 <programme start="20251225061000 +0000" stop="20251225070000 +0000" channel="Warner TV Serie HD.skyde">
@@ -3807,10 +3804,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251225084000 +0000" stop="20251225093000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Mord ist ihr Hobby</title>
 </programme>
-<programme start="20251225093000 +0000" stop="20251225102000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20251225093000 +0000" stop="20251225102500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Unsere kleine Farm</title>
 </programme>
-<programme start="20251225102000 +0000" stop="20251225111000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20251225102500 +0000" stop="20251225111000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Unsere kleine Farm</title>
 </programme>
 <programme start="20251225111000 +0000" stop="20251225120000 +0000" channel="Warner TV Serie HD.skyde">
@@ -3825,10 +3822,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251225134500 +0000" stop="20251225143500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Unsere kleine Farm</title>
 </programme>
-<programme start="20251225143500 +0000" stop="20251225152000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20251225143500 +0000" stop="20251225152500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Rizzoli and Isles</title>
 </programme>
-<programme start="20251225152000 +0000" stop="20251225161000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20251225152500 +0000" stop="20251225161000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Rizzoli and Isles</title>
 </programme>
 <programme start="20251225161000 +0000" stop="20251225165500 +0000" channel="Warner TV Serie HD.skyde">

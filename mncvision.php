@@ -8497,45 +8497,7 @@
 <programme start="20251225150000 +0000" stop="20251225153000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>A-League Men: MAC Vs BRI</title>
 </programme>
-<programme start="20251224170000 +0000" stop="20251224180000 +0000" channel="SPOTV HD.mncvision">
-    <title>2025 Qatar T100 HL</title>
-</programme>
-<programme start="20251224180000 +0000" stop="20251224190000 +0000" channel="SPOTV HD.mncvision">
-    <title>2025 AUSX Supercross C&#039;ship</title>
-</programme>
-<programme start="20251224190000 +0000" stop="20251224211500 +0000" channel="SPOTV HD.mncvision">
-    <title>WTT China Smash 2025</title>
-</programme>
-<programme start="20251224211500 +0000" stop="20251224231500 +0000" channel="SPOTV HD.mncvision">
-    <title>A-League Men: MCY Vs MAC</title>
-</programme>
-<programme start="20251224231500 +0000" stop="20251225040000 +0000" channel="SPOTV HD.mncvision">
-    <title>Asian Le Mans Series: Sepang</title>
-</programme>
-<programme start="20251225040000 +0000" stop="20251225050000 +0000" channel="SPOTV HD.mncvision">
-    <title>2025 AUSX Supercross C&#039;ship</title>
-</programme>
-<programme start="20251225050000 +0000" stop="20251225060000 +0000" channel="SPOTV HD.mncvision">
-    <title>2025 AUSX Supercross C&#039;ship</title>
-</programme>
-<programme start="20251225060000 +0000" stop="20251225103000 +0000" channel="SPOTV HD.mncvision">
-    <title>Asian Le Mans Series: Sepang</title>
-</programme>
-<programme start="20251225103000 +0000" stop="20251225123000 +0000" channel="SPOTV HD.mncvision">
-    <title>A-League Men: PER Vs ADL</title>
-</programme>
-<programme start="20251225123000 +0000" stop="20251225143000 +0000" channel="SPOTV HD.mncvision">
-    <title>A-League Men: WEL Vs CCM</title>
-</programme>
-<programme start="20251225143000 +0000" stop="20251225153000 +0000" channel="SPOTV HD.mncvision">
-    <title>2025 AUSX Supercross C&#039;ship</title>
-</programme>
-<programme start="20251225153000 +0000" stop="20251225160000 +0000" channel="SPOTV HD.mncvision">
-    <title>ALM Mini Match: MAC Vs BRI</title>
-</programme>
-<programme start="20251225160000 +0000" stop="20251225163000 +0000" channel="SPOTV HD.mncvision">
-    <title>A-League Men: MCY Vs MAC</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20251224173000 +0000" stop="20251224192000 +0000" channel="Studio Universal.mncvision">
     <title>How The Grinch Stole Christmas</title>
 </programme>
