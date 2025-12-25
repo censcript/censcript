@@ -2105,10 +2105,10 @@
         <title>Movie - Masilamani</title>
     </programme>
     <programme start="20251225043000 +0000" stop="20251225073000 +0000" channel="KTV HD.starhub">
-        <title>Movie - Vasool Raja MBBS</title>
+        <title>Movie - Anegan</title>
     </programme>
     <programme start="20251225073000 +0000" stop="20251225103000 +0000" channel="KTV HD.starhub">
-        <title>Movie - Anegan</title>
+        <title>Movie - Vasool Raja MBBS</title>
     </programme>
     <programme start="20251225103000 +0000" stop="20251225133000 +0000" channel="KTV HD.starhub">
         <title>Movie - Dharma Durai</title>
