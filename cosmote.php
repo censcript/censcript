@@ -110,8 +110,12 @@
     <title>Football: SS Lazio - Cremonese</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251225153000 +0700" stop="20251225173000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Alverca - FC Porto</title>
+<programme start="20251226181000 +0700" stop="20251226184000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Serie A Full Impact 2024-25 E16</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251226184000 +0700" stop="20251226191000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Serie A Inside Serie A 2025-26 E17</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251225173000 +0700" stop="20251225193000 +0700" channel="COSMOTE Sport 3 HD">
@@ -164,6 +168,14 @@
 </programme>
 <programme start="20251226174500 +0700" stop="20251226180500 +0700" channel="COSMOTE Sport 3 HD">
     <title>William Hill Scottish Premiership - Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251226180500 +0700" stop="20251226183500 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Copa Sudamericana 2025 - Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251226183500 +0700" stop="20251226190500 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Copa Libertadores 2025 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251225170000 +0700" stop="20251225185000 +0700" channel="COSMOTE Sport 4 HD">
@@ -224,6 +236,10 @@
 </programme>
 <programme start="20251226162000 +0700" stop="20251226185000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Golden State Warriors - Dallas Mavericks</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251226185000 +0700" stop="20251226191000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>ACB Liga Endesa 2025-26 - Fifth Quarter E11</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251225163000 +0700" stop="20251225181000 +0700" channel="COSMOTE Sport 5 HD">
@@ -326,6 +342,10 @@
     <title>2025 GT World Challenge Europe</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251226180000 +0700" stop="20251226193000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC EKO Acropolis Rally Greece 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251225155500 +0700" stop="20251225181000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Jannik Sinner - Alex de Minaur</title>
     <desc>Live: Tidak</desc>
@@ -375,6 +395,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251226160500 +0700" stop="20251226180500 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Premier Padel Tour 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251226180500 +0700" stop="20251226201500 +0700" channel="COSMOTE Sport 6 HD">
     <title>Premier Padel Tour 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
