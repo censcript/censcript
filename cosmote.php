@@ -62,8 +62,8 @@
     <title>Game R1 S6 E18</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251226010000 +0700" stop="20251226031000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: AEK - Aris</title>
+<programme start="20251227040000 +0700" stop="20251227050000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Highlights: UEL &amp; UECL 2025-26</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251226031000 +0700" stop="20251226053000 +0700" channel="COSMOTE Sport 2 HD">
@@ -134,8 +134,8 @@
     <title>Football: Olympiacos - Kifisia</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251226013000 +0700" stop="20251226033000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: APOEL - Freedom24 Krasava E.N.Y</title>
+<programme start="20251227045500 +0700" stop="20251227070000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: AEL Novibet - Atromitos</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251226033000 +0700" stop="20251226053000 +0700" channel="COSMOTE Sport 3 HD">
@@ -194,6 +194,10 @@
     <title>Football: Palmeiras - Flamengo</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251227044500 +0700" stop="20251227064500 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Birmingham City - Derby County</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251226030000 +0700" stop="20251226050000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Cantu - Armani Milano</title>
     <desc>Live: Tidak</desc>
@@ -248,10 +252,6 @@
 </programme>
 <programme start="20251227023000 +0700" stop="20251227050000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Los Angeles Lakers - Houston Rockets</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251226023000 +0700" stop="20251226040000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Best of WRC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251226040000 +0700" stop="20251226043500 +0700" channel="COSMOTE Sport 5 HD">
@@ -346,8 +346,12 @@
     <title>Best of WRC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251226011000 +0700" stop="20251226031500 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: Stefanos Tsitsipas - Felix Auger-Aliassime</title>
+<programme start="20251227040000 +0700" stop="20251227044000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251227044000 +0700" stop="20251227052500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251226031500 +0700" stop="20251226041500 +0700" channel="COSMOTE Sport 6 HD">
@@ -403,6 +407,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251227013000 +0700" stop="20251227040000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>2025 Premier Padel Tour Finals</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251227040000 +0700" stop="20251227073000 +0700" channel="COSMOTE Sport 6 HD">
     <title>2025 Premier Padel Tour Finals</title>
     <desc>Live: Tidak</desc>
 </programme>
