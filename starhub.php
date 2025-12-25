@@ -2090,7 +2090,7 @@
         <title>Movie - Samsaram Adhu Minsaram</title>
     </programme>
     <programme start="20251224170000 +0000" stop="20251224200000 +0000" channel="KTV HD.starhub">
-        <title>Movie - Pudhukottayilirundhu Saravanan</title>
+        <title>Movie - Paadu Nilave</title>
     </programme>
     <programme start="20251224200000 +0000" stop="20251224223000 +0000" channel="KTV HD.starhub">
         <title>Movie - Enakkaga Kaathiru</title>

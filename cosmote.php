@@ -54,6 +54,10 @@
     <title>Sports Classics: Worldies E15</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251226220000 +0700" stop="20251227000000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: Middlesbrough - Blackburn Rovers (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
 <programme start="20251225204000 +0700" stop="20251225225000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Olympiacos - Aris</title>
     <desc>Live: Tidak</desc>
@@ -118,9 +122,9 @@
     <title>Serie A Inside Serie A 2025-26 E17</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251225193000 +0700" stop="20251225213000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Ipswich Town - Sheffield Wednesday</title>
-    <desc>Live: Tidak</desc>
+<programme start="20251226220000 +0700" stop="20251227000000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Chesterfield  - Notts County (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20251225213000 +0700" stop="20251225233000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Al Nassr - Al Khaleej</title>
@@ -180,14 +184,6 @@
 </programme>
 <programme start="20251226210500 +0700" stop="20251226230500 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Heart of Midlothian - Rangers FC</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251225193000 +0700" stop="20251225213000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Unicaja - Baskonia</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251225213000 +0700" stop="20251225215000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>ACB Liga Endesa 2025-26 - Fifth Quarter E11</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251225215000 +0700" stop="20251226000000 +0700" channel="COSMOTE Sport 4 HD">
@@ -342,6 +338,10 @@
     <title>WRC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251226220000 +0700" stop="20251226230000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Highlights: 2025 Extreme H</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251225191000 +0700" stop="20251225221000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Jannik Sinner - Alexander Zverev</title>
     <desc>Live: Tidak</desc>
@@ -395,6 +395,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251226203500 +0700" stop="20251226223500 +0700" channel="COSMOTE Sport 6 HD">
+    <title>2025 Premier Padel World Cup Pairs</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251226223500 +0700" stop="20251227010000 +0700" channel="COSMOTE Sport 6 HD">
     <title>2025 Premier Padel World Cup Pairs</title>
     <desc>Live: Tidak</desc>
 </programme>
