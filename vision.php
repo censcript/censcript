@@ -643,12 +643,6 @@
 <programme start="20251225230000 +0000" stop="20251226003000 +0000" channel="ANTV.vision">
 <title>Takdir Cinta Layla</title>
 </programme>
-<programme start="20251226003000 +0000" stop="20251226023000 +0000" channel="ANTV.vision">
-<title>Kesan Pertama</title>
-</programme>
-<programme start="20251226023000 +0000" stop="20251226060000 +0000" channel="ANTV.vision">
-<title>Kabhi Kushi Kabhi Gham</title>
-</programme>
 <programme start="20251226060000 +0000" stop="20251226073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -1496,5 +1490,11 @@
 <title>TVRI</title>
 </programme>
 <programme start="20251227010000 +0000" stop="20251227030000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251227030000 +0000" stop="20251227050000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251227050000 +0000" stop="20251227070000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
