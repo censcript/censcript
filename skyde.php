@@ -2877,9 +2877,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251226220000 +0000" stop="20251226230000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: Highlights Baycurrent Classic</title>
 </programme>
-<programme start="20251226003000 +0000" stop="20251226010000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NBA: Action</title>
-</programme>
 <programme start="20251226010000 +0000" stop="20251226033000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NBA: Houston Rockets @ LA Lakers</title>
 </programme>
@@ -3116,9 +3113,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 </programme>
 <programme start="20251226220000 +0000" stop="20251226230000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP &amp; WTA: Zeit für ein Break - das Tennisjahr 2025</title>
-</programme>
-<programme start="20251226003000 +0000" stop="20251226010000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>NBA: Action</title>
 </programme>
 <programme start="20251226010000 +0000" stop="20251226033000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Houston Rockets @ LA Lakers</title>
