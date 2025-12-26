@@ -1695,45 +1695,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251226224500 +0000" stop="20251226234000 +0000" channel="Sky Atlantic HD.skyde">
     <title>Game of Thrones - Das Lied von Eis und Feuer</title>
 </programme>
-<programme start="20251226004500 +0000" stop="20251226032500 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>Robin Hood - Director&#039;s Cut</title>
-</programme>
-<programme start="20251226032500 +0000" stop="20251226052500 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>Resident Evil: Welcome to Raccoon City</title>
-</programme>
-<programme start="20251226052500 +0000" stop="20251226071000 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>The Great Wall</title>
-</programme>
-<programme start="20251226071000 +0000" stop="20251226091500 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>Goliath - Im Netz der Lügen</title>
-</programme>
-<programme start="20251226091500 +0000" stop="20251226105000 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>Jolt</title>
-</programme>
-<programme start="20251226105000 +0000" stop="20251226122500 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>Rambo</title>
-</programme>
-<programme start="20251226122500 +0000" stop="20251226140500 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>Rambo II - Der Auftrag</title>
-</programme>
-<programme start="20251226140500 +0000" stop="20251226155000 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>Rambo III</title>
-</programme>
-<programme start="20251226155000 +0000" stop="20251226172500 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>John Rambo</title>
-</programme>
-<programme start="20251226172500 +0000" stop="20251226191500 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>Colombiana</title>
-</programme>
-<programme start="20251226191500 +0000" stop="20251226211000 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>96 Hours - Taken 3 (Extended Cut)</title>
-</programme>
-<programme start="20251226211000 +0000" stop="20251226225500 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>Rambo: Last Blood</title>
-</programme>
-<programme start="20251226225500 +0000" stop="20251227011000 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>Es</title>
-</programme>
 <programme start="20251226004000 +0000" stop="20251226021500 +0000" channel="Sky Cinema Classics HD.skyde">
     <title>Das Ungeheuer von London City</title>
 </programme>

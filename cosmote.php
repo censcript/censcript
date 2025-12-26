@@ -142,6 +142,14 @@
     <title>Football: Volos - Panetolikos</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251227141000 +0700" stop="20251227144000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Serie A Full Impact 2024-25 E16</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251227144000 +0700" stop="20251227151000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Serie A Inside Serie A 2025-26 E17</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251226130000 +0700" stop="20251226153500 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Celtic FC - Rangers FC</title>
     <desc>Live: Tidak</desc>
@@ -202,14 +210,6 @@
     <title>American Football: Kansas City Chiefs - Denver Broncos</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251226103000 +0700" stop="20251226133000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Denver Nuggets - Minnesota Timberwolves (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20251226133000 +0700" stop="20251226135000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>ACB Liga Endesa 2025-26 - Fifth Quarter E11</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251226135000 +0700" stop="20251226162000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: New York Knicks - Cleveland Cavaliers</title>
     <desc>Live: Tidak</desc>
@@ -264,10 +264,6 @@
 </programme>
 <programme start="20251227132000 +0700" stop="20251227150000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Pick n&#039; Roll</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251226120000 +0700" stop="20251226133000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC EKO Acropolis Rally Greece 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251226133000 +0700" stop="20251226150000 +0700" channel="COSMOTE Sport 5 HD">
