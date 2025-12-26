@@ -78,6 +78,14 @@
     <title>Football: Udinese - SS Lazio (L)</title>
     <desc>Live: Ya</desc>
 </programme>
+<programme start="20251228020000 +0700" stop="20251228024500 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEFA Champions League Magazine 2024-25 E15</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251228024500 +0700" stop="20251228044500 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: Pisa - Juventus Football Club (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
 <programme start="20251227003000 +0700" stop="20251227023000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Al Hilal - Al Khaleej (L)</title>
     <desc>Live: Ya</desc>
@@ -150,6 +158,10 @@
     <title>Football: Aberdeen - Dundee United (L)</title>
     <desc>Live: Ya</desc>
 </programme>
+<programme start="20251228024500 +0700" stop="20251228050000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: AEK - OFI</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251226230500 +0700" stop="20251227021500 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Lanus - Atletico Mineiro</title>
     <desc>Live: Tidak</desc>
@@ -214,8 +226,8 @@
     <title>Football: Al Ittihad - Al Shabab (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251227001000 +0700" stop="20251227015500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Pick n&#039; Roll</title>
+<programme start="20251228023000 +0700" stop="20251228033000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Emirates FA Cup 2025-26 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251227015500 +0700" stop="20251227023000 +0700" channel="COSMOTE Sport 4 HD">
@@ -280,6 +292,14 @@
 </programme>
 <programme start="20251228004000 +0700" stop="20251228023500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Cantu - Armani Milano</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251228023500 +0700" stop="20251228025500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>ACB Liga Endesa 2025-26 - Fifth Quarter E11</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251228025500 +0700" stop="20251228044500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Szolnoki Olaj - AEK</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251227010000 +0700" stop="20251227023000 +0700" channel="COSMOTE Sport 5 HD">
@@ -370,8 +390,8 @@
     <title>Best of WRC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251227010000 +0700" stop="20251227013000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Sports Classics: 2025 Outdoor Specials</title>
+<programme start="20251228023000 +0700" stop="20251228040500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Best of WRC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251227013000 +0700" stop="20251227040000 +0700" channel="COSMOTE Sport 6 HD">
@@ -436,6 +456,14 @@
 </programme>
 <programme start="20251228014500 +0700" stop="20251228020000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251228020000 +0700" stop="20251228023000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>HYROX - The World of Fitness Racing E1</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251228023000 +0700" stop="20251228030000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>HYROX - The World of Fitness Racing E2</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251227010000 +0700" stop="20251227030000 +0700" channel="COSMOTE Sport 7 HD">
