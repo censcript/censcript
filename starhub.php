@@ -3773,7 +3773,7 @@
         <title>News &amp; Weather</title>
     </programme>
     <programme start="20251226010500 +0000" stop="20251226023400 +0000" channel="NHK World Premium HD.starhub">
-        <title>Wildlife Photographer Iwago Mitsuaki&#039;s World &quot;Cats&quot;Travelogue: Montenegro(R)</title>
+        <title>Wildlife Photographer Iwago Mitsuaki&#039;s World &quot;Cats&quot; Travelogue: Montenegro (R)</title>
     </programme>
     <programme start="20251226023400 +0000" stop="20251226024400 +0000" channel="NHK World Premium HD.starhub">
         <title>Darwin&#039;s Amazing Animals 10min.</title>
@@ -3857,7 +3857,7 @@
         <title>Trivia Quizzes--You&#039;ll Get Scolded by Chiko-chan! Special Edition</title>
     </programme>
     <programme start="20251226114300 +0000" stop="20251226114500 +0000" channel="NHK World Premium HD.starhub">
-        <title>World Weather</title>
+        <title>Mini Program</title>
     </programme>
     <programme start="20251226114500 +0000" stop="20251226120000 +0000" channel="NHK World Premium HD.starhub">
         <title>NHK News 845</title>
@@ -3868,8 +3868,11 @@
     <programme start="20251226130000 +0000" stop="20251226133000 +0000" channel="NHK World Premium HD.starhub">
         <title>Document 72 Hours</title>
     </programme>
-    <programme start="20251226133000 +0000" stop="20251226143000 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20251226133000 +0000" stop="20251226142800 +0000" channel="NHK World Premium HD.starhub">
         <title>Meet the Legend Year-End Special Edition</title>
+    </programme>
+    <programme start="20251226142800 +0000" stop="20251226143000 +0000" channel="NHK World Premium HD.starhub">
+        <title>Mini Program</title>
     </programme>
     <programme start="20251226143000 +0000" stop="20251226144000 +0000" channel="NHK World Premium HD.starhub">
         <title>News Commentary</title>
@@ -3881,7 +3884,7 @@
         <title>International News Report 2025</title>
     </programme>
     <programme start="20251226154500 +0000" stop="20251226162800 +0000" channel="NHK World Premium HD.starhub">
-        <title>Samurai Drama Selections&quot;The Way of Commerce: Gold and Silver 2&quot;Ep.2(R)</title>
+        <title>Samurai Drama Selections &quot;The Way of Commerce: Gold and Silver 2&quot; Ep. 2 (R)</title>
     </programme>
     <programme start="20251225154500 +0000" stop="20251225180000 +0000" channel="HBO HD.starhub">
         <title>Mickey 17</title>

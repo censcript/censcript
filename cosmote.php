@@ -1,7 +1,3 @@
-<programme start="20251226170000 +0700" stop="20251226173000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>UEFA Champions League Magazine 2024-25 E15</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251226173000 +0700" stop="20251226193000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Real Madrid CF - Manchester City FC</title>
     <desc>Live: Tidak</desc>
@@ -78,6 +74,10 @@
     <title>Football: PFC Ludogorets 1945 - PAOK</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251227183000 +0700" stop="20251227203000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: Parma - ACF Fiorentina (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
 <programme start="20251226161000 +0700" stop="20251226181000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: SS Lazio - Cremonese</title>
     <desc>Live: Tidak</desc>
@@ -152,10 +152,6 @@
 </programme>
 <programme start="20251227171000 +0700" stop="20251227193000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Olympiacos - Kifisia</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251226153500 +0700" stop="20251226174500 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: St. Mirren - Celtic FC</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251226174500 +0700" stop="20251226180500 +0700" channel="COSMOTE Sport 3 HD">
@@ -274,14 +270,6 @@
     <title>Basketball: Fenerbahce - Manisa Basket (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251226160500 +0700" stop="20251226171000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>2025 Extreme H</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251226171000 +0700" stop="20251226180000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>2025 GT World Challenge Europe</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251226180000 +0700" stop="20251226193000 +0700" channel="COSMOTE Sport 5 HD">
     <title>WRC EKO Acropolis Rally Greece 2025</title>
     <desc>Live: Tidak</desc>
@@ -374,6 +362,10 @@
     <title>Highlights: 2025 Extreme H</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251227184000 +0700" stop="20251227201500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251226160500 +0700" stop="20251226180500 +0700" channel="COSMOTE Sport 6 HD">
     <title>Premier Padel Tour 2025</title>
     <desc>Live: Tidak</desc>
@@ -436,6 +428,10 @@
 </programme>
 <programme start="20251227153000 +0700" stop="20251227180000 +0700" channel="COSMOTE Sport 6 HD">
     <title>2025 Premier Padel World Cup Pairs</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251227180000 +0700" stop="20251227210000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: Carlos Alcaraz - Jannik Sinner</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251226170000 +0700" stop="20251226190000 +0700" channel="COSMOTE Sport 7 HD">
