@@ -1,11 +1,3 @@
-<programme start="20251226193000 +0700" stop="20251226213000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: Birmingham City - Derby County (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20251226213000 +0700" stop="20251226220000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Sports Classics: Worldies E15</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251226220000 +0700" stop="20251227000000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Middlesbrough - Blackburn Rovers (L)</title>
     <desc>Live: Ya</desc>
@@ -82,14 +74,6 @@
     <title>Football: Lecce - Como (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251226191000 +0700" stop="20251226212500 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Volos - Panetolikos</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251226212500 +0700" stop="20251226220000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Serie A Inside Serie A 2025-26 E17</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251226220000 +0700" stop="20251227000000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Chesterfield  - Notts County (L)</title>
     <desc>Live: Ya</desc>
@@ -154,9 +138,9 @@
     <title>Sports Classics: Worldies E15</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251226190500 +0700" stop="20251226210500 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: APOEL - Freedom24 Krasava E.N.Y</title>
-    <desc>Live: Tidak</desc>
+<programme start="20251227220000 +0700" stop="20251228000000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Livingston - Celtic FC (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20251226210500 +0700" stop="20251226230500 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Heart of Midlothian - Rangers FC</title>
@@ -209,10 +193,6 @@
 <programme start="20251227210000 +0700" stop="20251227230000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Torino - Cagliari (L)</title>
     <desc>Live: Ya</desc>
-</programme>
-<programme start="20251226184500 +0700" stop="20251226214000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Denver Nuggets - Minnesota Timberwolves</title>
-    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251226214000 +0700" stop="20251227001000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Oklahoma City Thunder - San Antonio Spurs</title>
@@ -274,9 +254,9 @@
     <title>NBA Action 2025-26 E3510</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251226203000 +0700" stop="20251226220000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC 2025</title>
-    <desc>Live: Tidak</desc>
+<programme start="20251227220000 +0700" stop="20251228000000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Turk Telekom - Anadolu Efes (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20251226220000 +0700" stop="20251226230000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Highlights: 2025 Extreme H</title>
@@ -424,6 +404,10 @@
 </programme>
 <programme start="20251227210000 +0700" stop="20251227223000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Learner Tien - Alexander Blockx</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251227223000 +0700" stop="20251227230000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Sports Classics: 2025 Outdoor Specials</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251226210000 +0700" stop="20251226230000 +0700" channel="COSMOTE Sport 7 HD">
