@@ -506,7 +506,7 @@
 <title>Brownis On The Weekend</title>
 </programme>
 <programme start="20251227070000 +0000" stop="20251227080000 +0000" channel="Trans TV.vision">
-<title>Rumpi: No Secret</title>
+<title>Rumpi Hot Of The Week</title>
 </programme>
 <programme start="20251227080000 +0000" stop="20251227091500 +0000" channel="Trans TV.vision">
 <title>Insert Investigasi</title>
@@ -645,9 +645,6 @@
 </programme>
 <programme start="20251226073000 +0000" stop="20251226083000 +0000" channel="ANTV.vision">
 <title>Shani</title>
-</programme>
-<programme start="20251226083000 +0000" stop="20251226110000 +0000" channel="ANTV.vision">
-<title>Saur Sepuh 5</title>
 </programme>
 <programme start="20251226110000 +0000" stop="20251226123000 +0000" channel="ANTV.vision">
 <title>Senandung Cinta Lilis</title>
@@ -1496,5 +1493,8 @@
 <title>TVRI</title>
 </programme>
 <programme start="20251227070000 +0000" stop="20251227090000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251227090000 +0000" stop="20251227110000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
