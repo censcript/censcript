@@ -1,7 +1,3 @@
-<programme start="20251226220000 +0700" stop="20251227000000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: Middlesbrough - Blackburn Rovers (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
 <programme start="20251227000000 +0700" stop="20251227003000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Sports Classics: Worldies E16</title>
     <desc>Live: Tidak</desc>
@@ -82,8 +78,8 @@
     <title>Sports Classics: Worldies E27</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251226220000 +0700" stop="20251227000000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Chesterfield  - Notts County (L)</title>
+<programme start="20251228000000 +0700" stop="20251228020000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: Udinese - SS Lazio (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20251227000000 +0700" stop="20251227003000 +0700" channel="COSMOTE Sport 2 HD">
@@ -150,9 +146,17 @@
     <title>Football: Livingston - Celtic FC (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251226210500 +0700" stop="20251226230500 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Heart of Midlothian - Rangers FC</title>
+<programme start="20251228000000 +0700" stop="20251228001500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Sports Classics: Worldies E20</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251228001500 +0700" stop="20251228004500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Sports Classics: Football Countdowns E8</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251228004500 +0700" stop="20251228024500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Aberdeen - Dundee United (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20251226230500 +0700" stop="20251227021500 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Lanus - Atletico Mineiro</title>
@@ -209,6 +213,14 @@
 <programme start="20251227233000 +0700" stop="20251228000000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Copa Libertadores 2025 - Highlights</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251228000000 +0700" stop="20251228003000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>William Hill Scottish Premiership - Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251228003000 +0700" stop="20251228023000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Al Ittihad - Al Shabab (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20251226214000 +0700" stop="20251227001000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Oklahoma City Thunder - San Antonio Spurs</title>
@@ -274,8 +286,12 @@
     <title>Basketball: Turk Telekom - Anadolu Efes (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251226230000 +0700" stop="20251227000000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Highlights: Moto2 &amp; Moto3 2025</title>
+<programme start="20251228000000 +0700" stop="20251228004000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>NBA on Fire 2025-26 E9 (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
+<programme start="20251228004000 +0700" stop="20251228023500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Cantu - Armani Milano</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251227000000 +0700" stop="20251227010000 +0700" channel="COSMOTE Sport 5 HD">
@@ -362,6 +378,10 @@
     <title>Sports Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251228000000 +0700" stop="20251228010000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251226223500 +0700" stop="20251227010000 +0700" channel="COSMOTE Sport 6 HD">
     <title>2025 Premier Padel World Cup Pairs</title>
     <desc>Live: Tidak</desc>
@@ -425,6 +445,10 @@
 <programme start="20251227230000 +0700" stop="20251228000000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Navarino Challenge 2025 Mini Movie</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251228000000 +0700" stop="20251228014500 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Handball: ThSV Eisenach - SC Magdeburg (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20251226230000 +0700" stop="20251227010000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
