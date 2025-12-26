@@ -568,6 +568,12 @@
 <programme start="20251226143000 +0000" stop="20251226154500 +0000" channel="Trans 7.vision">
 <title>Lapor Pak!</title>
 </programme>
+<programme start="20251226154500 +0000" stop="20251226174500 +0000" channel="Trans 7.vision">
+<title>Qodrat</title>
+</programme>
+<programme start="20251226174500 +0000" stop="20251226190000 +0000" channel="Trans 7.vision">
+<title>Warkop: IQ Jongkok</title>
+</programme>
 <programme start="20251226190000 +0000" stop="20251226193000 +0000" channel="Trans 7.vision">
 <title>Best Fishing</title>
 </programme>
@@ -642,6 +648,18 @@
 </programme>
 <programme start="20251226110000 +0000" stop="20251226123000 +0000" channel="ANTV.vision">
 <title>Senandung Cinta Lilis</title>
+</programme>
+<programme start="20251226123000 +0000" stop="20251226143000 +0000" channel="ANTV.vision">
+<title>Yang Perkasa</title>
+</programme>
+<programme start="20251226143000 +0000" stop="20251226163000 +0000" channel="ANTV.vision">
+<title>Atas Boleh Bawah Boleh</title>
+</programme>
+<programme start="20251226163000 +0000" stop="20251226183000 +0000" channel="ANTV.vision">
+<title>Mata Batin</title>
+</programme>
+<programme start="20251226183000 +0000" stop="20251226200000 +0000" channel="ANTV.vision">
+<title>Aces Go Places 4</title>
 </programme>
 <programme start="20251226200000 +0000" stop="20251226213000 +0000" channel="ANTV.vision">
 <title>The Magnificent Scoundrels</title>
@@ -1479,22 +1497,4 @@
 </programme>
 <programme start="20251227090000 +0000" stop="20251227110000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
-</programme>
-<programme start="20251227110000 +0000" stop="20251227130000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20251226000000 +0000" stop="20251226003000 +0000" channel="DAAI TV.vision">
-<title>Dr. Panda</title>
-</programme>
-<programme start="20251226003000 +0000" stop="20251226010000 +0000" channel="DAAI TV.vision">
-<title>Darwin &amp; Newts</title>
-</programme>
-<programme start="20251226010000 +0000" stop="20251226013000 +0000" channel="DAAI TV.vision">
-<title>Clifford</title>
-</programme>
-<programme start="20251226013000 +0000" stop="20251226020000 +0000" channel="DAAI TV.vision">
-<title>At Indonesia</title>
-</programme>
-<programme start="20251226020000 +0000" stop="20251226030000 +0000" channel="DAAI TV.vision">
-<title>Bincang Sehati</title>
 </programme>
