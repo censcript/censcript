@@ -506,7 +506,7 @@
 <title>Brownis On The Weekend</title>
 </programme>
 <programme start="20251227070000 +0000" stop="20251227080000 +0000" channel="Trans TV.vision">
-<title>Rumpi: No Secret</title>
+<title>Rumpi Hot Of The Week</title>
 </programme>
 <programme start="20251227080000 +0000" stop="20251227091500 +0000" channel="Trans TV.vision">
 <title>Insert Investigasi</title>
@@ -541,9 +541,6 @@
 <programme start="20251226041500 +0000" stop="20251226050000 +0000" channel="Trans 7.vision">
 <title>Enah Bikin Enak</title>
 </programme>
-<programme start="20251226050000 +0000" stop="20251226064500 +0000" channel="Trans 7.vision">
-<title>Wedding Agreement</title>
-</programme>
 <programme start="20251226064500 +0000" stop="20251226081500 +0000" channel="Trans 7.vision">
 <title>Sweet 20</title>
 </programme>
@@ -570,12 +567,6 @@
 </programme>
 <programme start="20251226143000 +0000" stop="20251226154500 +0000" channel="Trans 7.vision">
 <title>Lapor Pak!</title>
-</programme>
-<programme start="20251226154500 +0000" stop="20251226174500 +0000" channel="Trans 7.vision">
-<title>Qodrat</title>
-</programme>
-<programme start="20251226174500 +0000" stop="20251226190000 +0000" channel="Trans 7.vision">
-<title>Warkop: IQ Jongkok</title>
 </programme>
 <programme start="20251226190000 +0000" stop="20251226193000 +0000" channel="Trans 7.vision">
 <title>Best Fishing</title>
@@ -643,32 +634,14 @@
 <programme start="20251225230000 +0000" stop="20251226003000 +0000" channel="ANTV.vision">
 <title>Takdir Cinta Layla</title>
 </programme>
-<programme start="20251226023000 +0000" stop="20251226060000 +0000" channel="ANTV.vision">
-<title>Kabhi Kushi Kabhi Gham</title>
-</programme>
 <programme start="20251226060000 +0000" stop="20251226073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
 <programme start="20251226073000 +0000" stop="20251226083000 +0000" channel="ANTV.vision">
 <title>Shani</title>
 </programme>
-<programme start="20251226083000 +0000" stop="20251226110000 +0000" channel="ANTV.vision">
-<title>Saur Sepuh 5</title>
-</programme>
 <programme start="20251226110000 +0000" stop="20251226123000 +0000" channel="ANTV.vision">
 <title>Senandung Cinta Lilis</title>
-</programme>
-<programme start="20251226123000 +0000" stop="20251226143000 +0000" channel="ANTV.vision">
-<title>Yang Perkasa</title>
-</programme>
-<programme start="20251226143000 +0000" stop="20251226163000 +0000" channel="ANTV.vision">
-<title>Atas Boleh Bawah Boleh</title>
-</programme>
-<programme start="20251226163000 +0000" stop="20251226183000 +0000" channel="ANTV.vision">
-<title>Mata Batin</title>
-</programme>
-<programme start="20251226183000 +0000" stop="20251226200000 +0000" channel="ANTV.vision">
-<title>Aces Go Places 4</title>
 </programme>
 <programme start="20251226200000 +0000" stop="20251226213000 +0000" channel="ANTV.vision">
 <title>The Magnificent Scoundrels</title>
@@ -1497,4 +1470,31 @@
 </programme>
 <programme start="20251227030000 +0000" stop="20251227050000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
+</programme>
+<programme start="20251227050000 +0000" stop="20251227070000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251227070000 +0000" stop="20251227090000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251227090000 +0000" stop="20251227110000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251227110000 +0000" stop="20251227130000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251226000000 +0000" stop="20251226003000 +0000" channel="DAAI TV.vision">
+<title>Dr. Panda</title>
+</programme>
+<programme start="20251226003000 +0000" stop="20251226010000 +0000" channel="DAAI TV.vision">
+<title>Darwin &amp; Newts</title>
+</programme>
+<programme start="20251226010000 +0000" stop="20251226013000 +0000" channel="DAAI TV.vision">
+<title>Clifford</title>
+</programme>
+<programme start="20251226013000 +0000" stop="20251226020000 +0000" channel="DAAI TV.vision">
+<title>At Indonesia</title>
+</programme>
+<programme start="20251226020000 +0000" stop="20251226030000 +0000" channel="DAAI TV.vision">
+<title>Bincang Sehati</title>
 </programme>
