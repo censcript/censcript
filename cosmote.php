@@ -78,6 +78,10 @@
     <title>UEFA Champions League Magazine 2024-25 E15</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251227161500 +0700" stop="20251227183000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: PFC Ludogorets 1945 - PAOK</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251226141000 +0700" stop="20251226161000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: ACF Fiorentina - Udinese</title>
     <desc>Live: Tidak</desc>
@@ -154,10 +158,6 @@
     <title>Football: Juventus Football Club - AS Roma</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251226130000 +0700" stop="20251226153500 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Celtic FC - Rangers FC</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251226153500 +0700" stop="20251226174500 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: St. Mirren - Celtic FC</title>
     <desc>Live: Tidak</desc>
@@ -212,6 +212,10 @@
 </programme>
 <programme start="20251227130000 +0700" stop="20251227163000 +0700" channel="COSMOTE Sport 3 HD">
     <title>American Football: Kansas City Chiefs - Denver Broncos</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251227163000 +0700" stop="20251227170000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>William Hill Scottish Premiership - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251226135000 +0700" stop="20251226162000 +0700" channel="COSMOTE Sport 4 HD">
