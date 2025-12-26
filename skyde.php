@@ -2922,63 +2922,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251226221500 +0000" stop="20251227004500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NBA: San Antonio Spurs @ Oklahoma City Thunder</title>
 </programme>
-<programme start="20251225230000 +0000" stop="20251226050000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Sky Sport News: Nightline</title>
-</programme>
-<programme start="20251226050000 +0000" stop="20251226053000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Meine Geschichte: Das Leben von Dennis Diekmeier</title>
-</programme>
-<programme start="20251226053000 +0000" stop="20251226060000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Sky Sport News: Der Morgen</title>
-</programme>
-<programme start="20251226060000 +0000" stop="20251226063000 +0000" channel="Sky Sport News HD.skyde">
-    <title>PL: PL Stories (Edwin van der Sar)</title>
-</programme>
-<programme start="20251226063000 +0000" stop="20251226070000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Sky Sport News: Der Morgen</title>
-</programme>
-<programme start="20251226070000 +0000" stop="20251226083500 +0000" channel="Sky Sport News HD.skyde">
-    <title>PL: Schmeichel</title>
-</programme>
-<programme start="20251226083500 +0000" stop="20251226093000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Sky Sport News: Der Morgen</title>
-</programme>
-<programme start="20251226093000 +0000" stop="20251226100000 +0000" channel="Sky Sport News HD.skyde">
-    <title>BL: Report - DER KLASSIKER - Germany&#039;s Heavyweight Clash</title>
-</programme>
-<programme start="20251226100000 +0000" stop="20251226110000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Sky Sport News: Der Morgen</title>
-</programme>
-<programme start="20251226110000 +0000" stop="20251226113000 +0000" channel="Sky Sport News HD.skyde">
-    <title>MotoGP: Jorge Martin - From heaven to hell</title>
-</programme>
-<programme start="20251226113000 +0000" stop="20251226123000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Sky Sport News: Der Mittag</title>
-</programme>
-<programme start="20251226123000 +0000" stop="20251226130000 +0000" channel="Sky Sport News HD.skyde">
-    <title>F1: Die Saison 2025</title>
-</programme>
-<programme start="20251226130000 +0000" stop="20251226140000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live Sky Sport News: Der Mittag</title>
-</programme>
-<programme start="20251226140000 +0000" stop="20251226160000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live Sky Sport News: Der Nachmittag</title>
-</programme>
-<programme start="20251226160000 +0000" stop="20251226200000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live Sky Sport News: Guten Abend Fans!</title>
-</programme>
-<programme start="20251226200000 +0000" stop="20251226203000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Meine Geschichte: Das Leben von Daniel Elfadli</title>
-</programme>
-<programme start="20251226203000 +0000" stop="20251226213000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Sky Sport News: Guten Abend Fans!</title>
-</programme>
-<programme start="20251226213000 +0000" stop="20251226223000 +0000" channel="Sky Sport News HD.skyde">
-    <title>ATP &amp; WTA: Zeit für ein Break - das Tennisjahr 2025</title>
-</programme>
-<programme start="20251226223000 +0000" stop="20251226230000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Sky Sport News: Late Night News</title>
-</programme>
 <programme start="20251225230000 +0000" stop="20251225233000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: PL Rewind: West Ham (2025/26)</title>
 </programme>
