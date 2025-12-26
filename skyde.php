@@ -1,3746 +1,3783 @@
 
 Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa.serv00.net/public_html/cen/epg/skyde.php on line 135
-<programme start="20251225230000 +0000" stop="20251225234500 +0000" channel="13th Street HD.skyde">
+
+Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa.serv00.net/public_html/cen/epg/skyde.php on line 135
+
+Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa.serv00.net/public_html/cen/epg/skyde.php on line 135
+<programme start="20251226230000 +0000" stop="20251226234500 +0000" channel="13th Street HD.skyde">
     <title>Navy CIS</title>
 </programme>
-<programme start="20251225234500 +0000" stop="20251226003000 +0000" channel="13th Street HD.skyde">
+<programme start="20251226234500 +0000" stop="20251227002500 +0000" channel="13th Street HD.skyde">
     <title>Law &amp; Order</title>
 </programme>
-<programme start="20251226003000 +0000" stop="20251226011000 +0000" channel="13th Street HD.skyde">
+<programme start="20251227002500 +0000" stop="20251227011000 +0000" channel="13th Street HD.skyde">
     <title>Law &amp; Order</title>
 </programme>
-<programme start="20251226011000 +0000" stop="20251226015000 +0000" channel="13th Street HD.skyde">
+<programme start="20251227011000 +0000" stop="20251227015000 +0000" channel="13th Street HD.skyde">
     <title>Law &amp; Order</title>
 </programme>
-<programme start="20251226015000 +0000" stop="20251226023500 +0000" channel="13th Street HD.skyde">
+<programme start="20251227015000 +0000" stop="20251227023000 +0000" channel="13th Street HD.skyde">
     <title>Law &amp; Order: Special Victims Unit</title>
 </programme>
-<programme start="20251226023500 +0000" stop="20251226031500 +0000" channel="13th Street HD.skyde">
+<programme start="20251227023000 +0000" stop="20251227031500 +0000" channel="13th Street HD.skyde">
     <title>Law &amp; Order: Special Victims Unit</title>
 </programme>
-<programme start="20251226031500 +0000" stop="20251226040000 +0000" channel="13th Street HD.skyde">
+<programme start="20251227031500 +0000" stop="20251227040000 +0000" channel="13th Street HD.skyde">
     <title>Law &amp; Order: Special Victims Unit</title>
 </programme>
-<programme start="20251226040000 +0000" stop="20251226041000 +0000" channel="13th Street HD.skyde">
-    <title>Die 13. Wahrheit - Uwe Ochsenknecht erzählt</title>
-</programme>
-<programme start="20251226041000 +0000" stop="20251226045000 +0000" channel="13th Street HD.skyde">
+<programme start="20251227040000 +0000" stop="20251227044000 +0000" channel="13th Street HD.skyde">
     <title>Coroner - Fachgebiet Mord</title>
 </programme>
-<programme start="20251226045000 +0000" stop="20251226054000 +0000" channel="13th Street HD.skyde">
+<programme start="20251227044000 +0000" stop="20251227053000 +0000" channel="13th Street HD.skyde">
     <title>Coroner - Fachgebiet Mord</title>
 </programme>
-<programme start="20251226054000 +0000" stop="20251226062500 +0000" channel="13th Street HD.skyde">
-    <title>Law &amp; Order</title>
+<programme start="20251227053000 +0000" stop="20251227061500 +0000" channel="13th Street HD.skyde">
+    <title>Coroner - Fachgebiet Mord</title>
 </programme>
-<programme start="20251226062500 +0000" stop="20251226071000 +0000" channel="13th Street HD.skyde">
-    <title>Law &amp; Order</title>
+<programme start="20251227061500 +0000" stop="20251227070000 +0000" channel="13th Street HD.skyde">
+    <title>Coroner - Fachgebiet Mord</title>
 </programme>
-<programme start="20251226071000 +0000" stop="20251226075500 +0000" channel="13th Street HD.skyde">
-    <title>Law &amp; Order</title>
+<programme start="20251227070000 +0000" stop="20251227073000 +0000" channel="13th Street HD.skyde">
+    <title>Schnee in Rio</title>
 </programme>
-<programme start="20251226075500 +0000" stop="20251226084000 +0000" channel="13th Street HD.skyde">
-    <title>Law &amp; Order: Special Victims Unit</title>
-</programme>
-<programme start="20251226084000 +0000" stop="20251226092500 +0000" channel="13th Street HD.skyde">
-    <title>Law &amp; Order: Special Victims Unit</title>
-</programme>
-<programme start="20251226092500 +0000" stop="20251226101000 +0000" channel="13th Street HD.skyde">
-    <title>Law &amp; Order: Special Victims Unit</title>
-</programme>
-<programme start="20251226101000 +0000" stop="20251226105500 +0000" channel="13th Street HD.skyde">
-    <title>Law &amp; Order: Special Victims Unit</title>
-</programme>
-<programme start="20251226105500 +0000" stop="20251226114000 +0000" channel="13th Street HD.skyde">
-    <title>Law &amp; Order: Special Victims Unit</title>
-</programme>
-<programme start="20251226114000 +0000" stop="20251226122500 +0000" channel="13th Street HD.skyde">
-    <title>Law &amp; Order: Special Victims Unit</title>
-</programme>
-<programme start="20251226122500 +0000" stop="20251226131000 +0000" channel="13th Street HD.skyde">
-    <title>Law &amp; Order</title>
-</programme>
-<programme start="20251226131000 +0000" stop="20251226135500 +0000" channel="13th Street HD.skyde">
-    <title>Law &amp; Order</title>
-</programme>
-<programme start="20251226135500 +0000" stop="20251226144000 +0000" channel="13th Street HD.skyde">
-    <title>Law &amp; Order</title>
-</programme>
-<programme start="20251226144000 +0000" stop="20251226152500 +0000" channel="13th Street HD.skyde">
+<programme start="20251227073000 +0000" stop="20251227081500 +0000" channel="13th Street HD.skyde">
     <title>Criminal Minds</title>
 </programme>
-<programme start="20251226152500 +0000" stop="20251226161000 +0000" channel="13th Street HD.skyde">
+<programme start="20251227081500 +0000" stop="20251227090000 +0000" channel="13th Street HD.skyde">
     <title>Criminal Minds</title>
 </programme>
-<programme start="20251226161000 +0000" stop="20251226165500 +0000" channel="13th Street HD.skyde">
+<programme start="20251227090000 +0000" stop="20251227094500 +0000" channel="13th Street HD.skyde">
     <title>Criminal Minds</title>
 </programme>
-<programme start="20251226165500 +0000" stop="20251226174000 +0000" channel="13th Street HD.skyde">
-    <title>Criminal Minds</title>
+<programme start="20251227094500 +0000" stop="20251227113000 +0000" channel="13th Street HD.skyde">
+    <title>Get Out</title>
 </programme>
-<programme start="20251226174000 +0000" stop="20251226182500 +0000" channel="13th Street HD.skyde">
-    <title>Navy CIS</title>
+<programme start="20251227113000 +0000" stop="20251227121500 +0000" channel="13th Street HD.skyde">
+    <title>Law &amp; Order: Organized Crime</title>
 </programme>
-<programme start="20251226182500 +0000" stop="20251226191500 +0000" channel="13th Street HD.skyde">
-    <title>Navy CIS</title>
+<programme start="20251227121500 +0000" stop="20251227130000 +0000" channel="13th Street HD.skyde">
+    <title>Law &amp; Order: Organized Crime</title>
 </programme>
-<programme start="20251226191500 +0000" stop="20251226195500 +0000" channel="13th Street HD.skyde">
-    <title>Hawaii Five-0</title>
+<programme start="20251227130000 +0000" stop="20251227134500 +0000" channel="13th Street HD.skyde">
+    <title>Law &amp; Order: Organized Crime</title>
 </programme>
-<programme start="20251226195500 +0000" stop="20251226204000 +0000" channel="13th Street HD.skyde">
-    <title>Hawaii Five-0</title>
+<programme start="20251227134500 +0000" stop="20251227143500 +0000" channel="13th Street HD.skyde">
+    <title>Law &amp; Order: Organized Crime</title>
 </programme>
-<programme start="20251226204000 +0000" stop="20251226212500 +0000" channel="13th Street HD.skyde">
-    <title>Hawaii Five-0</title>
+<programme start="20251227143500 +0000" stop="20251227152000 +0000" channel="13th Street HD.skyde">
+    <title>Law &amp; Order: Organized Crime</title>
 </programme>
-<programme start="20251226212500 +0000" stop="20251226221000 +0000" channel="13th Street HD.skyde">
-    <title>Hawaii Five-0</title>
+<programme start="20251227152000 +0000" stop="20251227161000 +0000" channel="13th Street HD.skyde">
+    <title>Law &amp; Order: Organized Crime</title>
 </programme>
-<programme start="20251226221000 +0000" stop="20251226230000 +0000" channel="13th Street HD.skyde">
-    <title>Navy CIS</title>
+<programme start="20251227161000 +0000" stop="20251227165500 +0000" channel="13th Street HD.skyde">
+    <title>Law &amp; Order: Organized Crime</title>
 </programme>
-<programme start="20251225232000 +0000" stop="20251225234000 +0000" channel="Beate Uhse HD.skyde">
-    <title>Tat &amp; Wahrheit</title>
+<programme start="20251227165500 +0000" stop="20251227174000 +0000" channel="13th Street HD.skyde">
+    <title>Law &amp; Order: Organized Crime</title>
 </programme>
-<programme start="20251225234000 +0000" stop="20251226000000 +0000" channel="Beate Uhse HD.skyde">
-    <title>Last Minute Deal</title>
+<programme start="20251227174000 +0000" stop="20251227182500 +0000" channel="13th Street HD.skyde">
+    <title>Law &amp; Order: Organized Crime</title>
 </programme>
-<programme start="20251226000000 +0000" stop="20251226014500 +0000" channel="Beate Uhse HD.skyde">
-    <title>Idol</title>
+<programme start="20251227182500 +0000" stop="20251227191500 +0000" channel="13th Street HD.skyde">
+    <title>Law &amp; Order: Organized Crime</title>
 </programme>
-<programme start="20251226014500 +0000" stop="20251226025000 +0000" channel="Beate Uhse HD.skyde">
-    <title>Come Again</title>
+<programme start="20251227191500 +0000" stop="20251227200500 +0000" channel="13th Street HD.skyde">
+    <title>The Day of the Jackal</title>
 </programme>
-<programme start="20251226025000 +0000" stop="20251226030000 +0000" channel="Beate Uhse HD.skyde">
-    <title>Cumming Soon</title>
+<programme start="20251227200500 +0000" stop="20251227205500 +0000" channel="13th Street HD.skyde">
+    <title>The Day of the Jackal</title>
 </programme>
-<programme start="20251226030000 +0000" stop="20251226032500 +0000" channel="Beate Uhse HD.skyde">
-    <title>Girls lieben Girls</title>
+<programme start="20251227205500 +0000" stop="20251227214000 +0000" channel="13th Street HD.skyde">
+    <title>FBI: Special Crime Unit</title>
 </programme>
-<programme start="20251226032500 +0000" stop="20251226035000 +0000" channel="Beate Uhse HD.skyde">
-    <title>Pro Amateur</title>
+<programme start="20251227214000 +0000" stop="20251227222500 +0000" channel="13th Street HD.skyde">
+    <title>FBI: Special Crime Unit</title>
 </programme>
-<programme start="20251226035000 +0000" stop="20251226035500 +0000" channel="Beate Uhse HD.skyde">
-    <title>Feel Naked</title>
+<programme start="20251227222500 +0000" stop="20251227231000 +0000" channel="13th Street HD.skyde">
+    <title>FBI: Special Crime Unit</title>
 </programme>
-<programme start="20251226035500 +0000" stop="20251226044500 +0000" channel="Beate Uhse HD.skyde">
-    <title>Bodo bumst Mexiko 2</title>
+<programme start="20251226235000 +0000" stop="20251227011500 +0000" channel="Beate Uhse HD.skyde">
+    <title>Pärchentausch Spezial: Die Alm-Swinger</title>
 </programme>
-<programme start="20251226044500 +0000" stop="20251226191500 +0000" channel="Beate Uhse HD.skyde">
+<programme start="20251227011500 +0000" stop="20251227025000 +0000" channel="Beate Uhse HD.skyde">
+    <title>ERASMUS ORGASMUS: PRAG</title>
+</programme>
+<programme start="20251227025000 +0000" stop="20251227040000 +0000" channel="Beate Uhse HD.skyde">
+    <title>Dicke Freundinnen</title>
+</programme>
+<programme start="20251227040000 +0000" stop="20251227044500 +0000" channel="Beate Uhse HD.skyde">
+    <title>Bodo bumst Mexiko</title>
+</programme>
+<programme start="20251227044500 +0000" stop="20251227191500 +0000" channel="Beate Uhse HD.skyde">
     <title>Programm von 20.15 Uhr bis 05.45 Uhr</title>
 </programme>
-<programme start="20251226191500 +0000" stop="20251226193500 +0000" channel="Beate Uhse HD.skyde">
-    <title>Lustwichteln</title>
+<programme start="20251227191500 +0000" stop="20251227194500 +0000" channel="Beate Uhse HD.skyde">
+    <title>Car Babes</title>
 </programme>
-<programme start="20251226193500 +0000" stop="20251226195500 +0000" channel="Beate Uhse HD.skyde">
-    <title>Tension</title>
+<programme start="20251227194500 +0000" stop="20251227200500 +0000" channel="Beate Uhse HD.skyde">
+    <title>Amazing Tits</title>
 </programme>
-<programme start="20251226195500 +0000" stop="20251226210000 +0000" channel="Beate Uhse HD.skyde">
-    <title>Hard</title>
+<programme start="20251227200500 +0000" stop="20251227203000 +0000" channel="Beate Uhse HD.skyde">
+    <title>Meine heiße Trainerin</title>
 </programme>
-<programme start="20251226210000 +0000" stop="20251226220500 +0000" channel="Beate Uhse HD.skyde">
-    <title>The Listener</title>
+<programme start="20251227203000 +0000" stop="20251227215500 +0000" channel="Beate Uhse HD.skyde">
+    <title>Hintergedanken</title>
 </programme>
-<programme start="20251226220500 +0000" stop="20251226235000 +0000" channel="Beate Uhse HD.skyde">
-    <title>Die Cuckold-Therapie</title>
+<programme start="20251227215500 +0000" stop="20251227232000 +0000" channel="Beate Uhse HD.skyde">
+    <title>Hot Dancers are back</title>
 </programme>
-<programme start="20251225230000 +0000" stop="20251225231000 +0000" channel="Cartoon Network.skyde">
+<programme start="20251226230500 +0000" stop="20251226231500 +0000" channel="Cartoon Network.skyde">
     <title>Regular Show - Völlig abgedreht</title>
 </programme>
-<programme start="20251225231000 +0000" stop="20251225232000 +0000" channel="Cartoon Network.skyde">
-    <title>Regular Show - Völlig abgedreht</title>
-</programme>
-<programme start="20251225232000 +0000" stop="20251225233500 +0000" channel="Cartoon Network.skyde">
+<programme start="20251226231500 +0000" stop="20251226232500 +0000" channel="Cartoon Network.skyde">
     <title>Steven Universe</title>
 </programme>
-<programme start="20251225233500 +0000" stop="20251225234500 +0000" channel="Cartoon Network.skyde">
+<programme start="20251226232500 +0000" stop="20251226233500 +0000" channel="Cartoon Network.skyde">
     <title>Steven Universe</title>
 </programme>
-<programme start="20251225234500 +0000" stop="20251225235500 +0000" channel="Cartoon Network.skyde">
+<programme start="20251226233500 +0000" stop="20251226235000 +0000" channel="Cartoon Network.skyde">
     <title>Die wunderbar schräge Welt von Gumball</title>
 </programme>
-<programme start="20251225235500 +0000" stop="20251226000500 +0000" channel="Cartoon Network.skyde">
+<programme start="20251226235000 +0000" stop="20251227000000 +0000" channel="Cartoon Network.skyde">
     <title>Die wunderbar schräge Welt von Gumball</title>
 </programme>
-<programme start="20251226000500 +0000" stop="20251226002000 +0000" channel="Cartoon Network.skyde">
+<programme start="20251227000000 +0000" stop="20251227001000 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20251226002000 +0000" stop="20251226003000 +0000" channel="Cartoon Network.skyde">
+<programme start="20251227001000 +0000" stop="20251227002000 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20251226003000 +0000" stop="20251226004000 +0000" channel="Cartoon Network.skyde">
+<programme start="20251227002000 +0000" stop="20251227003500 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20251226004000 +0000" stop="20251226005000 +0000" channel="Cartoon Network.skyde">
+<programme start="20251227003500 +0000" stop="20251227004500 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20251226005000 +0000" stop="20251226011500 +0000" channel="Cartoon Network.skyde">
+<programme start="20251227004500 +0000" stop="20251227011000 +0000" channel="Cartoon Network.skyde">
     <title>Totally Spies!</title>
 </programme>
-<programme start="20251226011500 +0000" stop="20251226012500 +0000" channel="Cartoon Network.skyde">
+<programme start="20251227011000 +0000" stop="20251227012000 +0000" channel="Cartoon Network.skyde">
     <title>Die heldenhafte Reise des tapferen Prinz Ivandoe</title>
 </programme>
-<programme start="20251226012500 +0000" stop="20251226013500 +0000" channel="Cartoon Network.skyde">
+<programme start="20251227012000 +0000" stop="20251227013000 +0000" channel="Cartoon Network.skyde">
     <title>Die heldenhafte Reise des tapferen Prinz Ivandoe</title>
 </programme>
-<programme start="20251226013500 +0000" stop="20251226015000 +0000" channel="Cartoon Network.skyde">
+<programme start="20251227013000 +0000" stop="20251227014500 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20251226015000 +0000" stop="20251226020000 +0000" channel="Cartoon Network.skyde">
+<programme start="20251227014500 +0000" stop="20251227015500 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20251226020000 +0000" stop="20251226021000 +0000" channel="Cartoon Network.skyde">
+<programme start="20251227015500 +0000" stop="20251227020500 +0000" channel="Cartoon Network.skyde">
     <title>Die wunderbar schräge Welt von Gumball</title>
 </programme>
-<programme start="20251226021000 +0000" stop="20251226022000 +0000" channel="Cartoon Network.skyde">
+<programme start="20251227020500 +0000" stop="20251227021500 +0000" channel="Cartoon Network.skyde">
     <title>Die wunderbar schräge Welt von Gumball</title>
 </programme>
-<programme start="20251226022000 +0000" stop="20251226024500 +0000" channel="Cartoon Network.skyde">
+<programme start="20251227021500 +0000" stop="20251227024000 +0000" channel="Cartoon Network.skyde">
     <title>Jade Armor</title>
 </programme>
-<programme start="20251226024500 +0000" stop="20251226025500 +0000" channel="Cartoon Network.skyde">
+<programme start="20251227024000 +0000" stop="20251227025000 +0000" channel="Cartoon Network.skyde">
     <title>Die heldenhafte Reise des tapferen Prinz Ivandoe</title>
 </programme>
-<programme start="20251226025500 +0000" stop="20251226031000 +0000" channel="Cartoon Network.skyde">
+<programme start="20251227025000 +0000" stop="20251227030500 +0000" channel="Cartoon Network.skyde">
     <title>Die heldenhafte Reise des tapferen Prinz Ivandoe</title>
 </programme>
-<programme start="20251226031000 +0000" stop="20251226032000 +0000" channel="Cartoon Network.skyde">
+<programme start="20251227030500 +0000" stop="20251227031500 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20251226032000 +0000" stop="20251226033000 +0000" channel="Cartoon Network.skyde">
+<programme start="20251227031500 +0000" stop="20251227032500 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20251226033000 +0000" stop="20251226034000 +0000" channel="Cartoon Network.skyde">
+<programme start="20251227032500 +0000" stop="20251227033500 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20251226034000 +0000" stop="20251226035000 +0000" channel="Cartoon Network.skyde">
+<programme start="20251227033500 +0000" stop="20251227035000 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20251226035000 +0000" stop="20251226041500 +0000" channel="Cartoon Network.skyde">
+<programme start="20251227035000 +0000" stop="20251227041500 +0000" channel="Cartoon Network.skyde">
     <title>Totally Spies!</title>
 </programme>
-<programme start="20251226041500 +0000" stop="20251226042500 +0000" channel="Cartoon Network.skyde">
+<programme start="20251227041500 +0000" stop="20251227042500 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20251226042500 +0000" stop="20251226043500 +0000" channel="Cartoon Network.skyde">
+<programme start="20251227042500 +0000" stop="20251227043500 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20251226043500 +0000" stop="20251226044500 +0000" channel="Cartoon Network.skyde">
+<programme start="20251227043500 +0000" stop="20251227044500 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20251226044500 +0000" stop="20251226050000 +0000" channel="Cartoon Network.skyde">
+<programme start="20251227044500 +0000" stop="20251227050000 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20251226050000 +0000" stop="20251226051000 +0000" channel="Cartoon Network.skyde">
+<programme start="20251227050000 +0000" stop="20251227051000 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20251226051000 +0000" stop="20251226052000 +0000" channel="Cartoon Network.skyde">
+<programme start="20251227051000 +0000" stop="20251227052000 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20251226052000 +0000" stop="20251226053500 +0000" channel="Cartoon Network.skyde">
+<programme start="20251227052000 +0000" stop="20251227053500 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20251226053500 +0000" stop="20251226054500 +0000" channel="Cartoon Network.skyde">
+<programme start="20251227053500 +0000" stop="20251227054500 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20251226054500 +0000" stop="20251226055500 +0000" channel="Cartoon Network.skyde">
+<programme start="20251227054500 +0000" stop="20251227055500 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20251226055500 +0000" stop="20251226060500 +0000" channel="Cartoon Network.skyde">
+<programme start="20251227055500 +0000" stop="20251227060500 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20251226060500 +0000" stop="20251226062000 +0000" channel="Cartoon Network.skyde">
+<programme start="20251227060500 +0000" stop="20251227062000 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20251226062000 +0000" stop="20251226063000 +0000" channel="Cartoon Network.skyde">
+<programme start="20251227062000 +0000" stop="20251227063000 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20251226063000 +0000" stop="20251226064000 +0000" channel="Cartoon Network.skyde">
+<programme start="20251227063000 +0000" stop="20251227064000 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20251226064000 +0000" stop="20251226065500 +0000" channel="Cartoon Network.skyde">
+<programme start="20251227064000 +0000" stop="20251227065500 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20251226065500 +0000" stop="20251226070500 +0000" channel="Cartoon Network.skyde">
+<programme start="20251227065500 +0000" stop="20251227070500 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20251226070500 +0000" stop="20251226071500 +0000" channel="Cartoon Network.skyde">
+<programme start="20251227070500 +0000" stop="20251227071500 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20251226071500 +0000" stop="20251226073000 +0000" channel="Cartoon Network.skyde">
+<programme start="20251227071500 +0000" stop="20251227073000 +0000" channel="Cartoon Network.skyde">
     <title>Die wunderbar schräge Welt von Gumball</title>
 </programme>
-<programme start="20251226073000 +0000" stop="20251226074000 +0000" channel="Cartoon Network.skyde">
+<programme start="20251227073000 +0000" stop="20251227074000 +0000" channel="Cartoon Network.skyde">
     <title>Die wunderbar schräge Welt von Gumball</title>
 </programme>
-<programme start="20251226074000 +0000" stop="20251226075000 +0000" channel="Cartoon Network.skyde">
+<programme start="20251227074000 +0000" stop="20251227075500 +0000" channel="Cartoon Network.skyde">
     <title>Looney Tunes Cartoons</title>
 </programme>
-<programme start="20251226075000 +0000" stop="20251226080500 +0000" channel="Cartoon Network.skyde">
+<programme start="20251227075500 +0000" stop="20251227080000 +0000" channel="Cartoon Network.skyde">
     <title>Looney Tunes Cartoons</title>
 </programme>
-<programme start="20251226080500 +0000" stop="20251226081500 +0000" channel="Cartoon Network.skyde">
+<programme start="20251227080000 +0000" stop="20251227081500 +0000" channel="Cartoon Network.skyde">
     <title>Looney Tunes Cartoons</title>
 </programme>
-<programme start="20251226081500 +0000" stop="20251226082500 +0000" channel="Cartoon Network.skyde">
+<programme start="20251227081500 +0000" stop="20251227082500 +0000" channel="Cartoon Network.skyde">
     <title>Looney Tunes Cartoons</title>
 </programme>
-<programme start="20251226082500 +0000" stop="20251226083500 +0000" channel="Cartoon Network.skyde">
+<programme start="20251227082500 +0000" stop="20251227083500 +0000" channel="Cartoon Network.skyde">
     <title>Looney Tunes Cartoons</title>
 </programme>
-<programme start="20251226083500 +0000" stop="20251226090000 +0000" channel="Cartoon Network.skyde">
+<programme start="20251227083500 +0000" stop="20251227085500 +0000" channel="Cartoon Network.skyde">
     <title>Tiny Toons Looniversity</title>
 </programme>
-<programme start="20251226090000 +0000" stop="20251226091000 +0000" channel="Cartoon Network.skyde">
+<programme start="20251227085500 +0000" stop="20251227091000 +0000" channel="Cartoon Network.skyde">
     <title>Craig of the Creek - Im Wald der Abenteuer</title>
 </programme>
-<programme start="20251226091000 +0000" stop="20251226092500 +0000" channel="Cartoon Network.skyde">
+<programme start="20251227091000 +0000" stop="20251227092000 +0000" channel="Cartoon Network.skyde">
     <title>Craig of the Creek - Im Wald der Abenteuer</title>
 </programme>
-<programme start="20251226092500 +0000" stop="20251226093500 +0000" channel="Cartoon Network.skyde">
+<programme start="20251227092000 +0000" stop="20251227093000 +0000" channel="Cartoon Network.skyde">
     <title>Lana Longbeard</title>
 </programme>
-<programme start="20251226093500 +0000" stop="20251226094500 +0000" channel="Cartoon Network.skyde">
+<programme start="20251227093000 +0000" stop="20251227094500 +0000" channel="Cartoon Network.skyde">
     <title>Lana Longbeard</title>
 </programme>
-<programme start="20251226094500 +0000" stop="20251226100000 +0000" channel="Cartoon Network.skyde">
+<programme start="20251227094500 +0000" stop="20251227095500 +0000" channel="Cartoon Network.skyde">
     <title>Die wunderbar schräge Welt von Gumball</title>
 </programme>
-<programme start="20251226100000 +0000" stop="20251226101000 +0000" channel="Cartoon Network.skyde">
+<programme start="20251227095500 +0000" stop="20251227101000 +0000" channel="Cartoon Network.skyde">
     <title>Die wunderbar schräge Welt von Gumball</title>
 </programme>
-<programme start="20251226101000 +0000" stop="20251226102500 +0000" channel="Cartoon Network.skyde">
+<programme start="20251227101000 +0000" stop="20251227102000 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20251226102500 +0000" stop="20251226103500 +0000" channel="Cartoon Network.skyde">
+<programme start="20251227102000 +0000" stop="20251227103000 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20251226103500 +0000" stop="20251226104500 +0000" channel="Cartoon Network.skyde">
+<programme start="20251227103000 +0000" stop="20251227104500 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20251226104500 +0000" stop="20251226105500 +0000" channel="Cartoon Network.skyde">
-    <title>Teen Titans Go!</title>
-</programme>
-<programme start="20251226105500 +0000" stop="20251226110500 +0000" channel="Cartoon Network.skyde">
-    <title>Teen Titans Go!</title>
-</programme>
-<programme start="20251226110500 +0000" stop="20251226111500 +0000" channel="Cartoon Network.skyde">
-    <title>Teen Titans Go!</title>
-</programme>
-<programme start="20251226111500 +0000" stop="20251226113000 +0000" channel="Cartoon Network.skyde">
-    <title>Teen Titans Go!</title>
-</programme>
-<programme start="20251226113000 +0000" stop="20251226114000 +0000" channel="Cartoon Network.skyde">
-    <title>Clarence</title>
-</programme>
-<programme start="20251226114000 +0000" stop="20251226115000 +0000" channel="Cartoon Network.skyde">
-    <title>Clarence</title>
-</programme>
-<programme start="20251226115000 +0000" stop="20251226120000 +0000" channel="Cartoon Network.skyde">
-    <title>Clarence</title>
-</programme>
-<programme start="20251226120000 +0000" stop="20251226121000 +0000" channel="Cartoon Network.skyde">
-    <title>Clarence</title>
-</programme>
-<programme start="20251226121000 +0000" stop="20251226122500 +0000" channel="Cartoon Network.skyde">
-    <title>Uncle Grandpa</title>
-</programme>
-<programme start="20251226122500 +0000" stop="20251226123500 +0000" channel="Cartoon Network.skyde">
-    <title>Uncle Grandpa</title>
-</programme>
-<programme start="20251226123500 +0000" stop="20251226125500 +0000" channel="Cartoon Network.skyde">
+<programme start="20251227104500 +0000" stop="20251227111000 +0000" channel="Cartoon Network.skyde">
     <title>Tiny Toons Looniversity</title>
 </programme>
-<programme start="20251226125500 +0000" stop="20251226131000 +0000" channel="Cartoon Network.skyde">
+<programme start="20251227111000 +0000" stop="20251227113500 +0000" channel="Cartoon Network.skyde">
+    <title>Tiny Toons Looniversity</title>
+</programme>
+<programme start="20251227113500 +0000" stop="20251227115500 +0000" channel="Cartoon Network.skyde">
+    <title>Tiny Toons Looniversity</title>
+</programme>
+<programme start="20251227115500 +0000" stop="20251227121500 +0000" channel="Cartoon Network.skyde">
+    <title>Tiny Toons Looniversity</title>
+</programme>
+<programme start="20251227121500 +0000" stop="20251227124000 +0000" channel="Cartoon Network.skyde">
+    <title>Tiny Toons Looniversity</title>
+</programme>
+<programme start="20251227124000 +0000" stop="20251227130000 +0000" channel="Cartoon Network.skyde">
+    <title>Tiny Toons Looniversity</title>
+</programme>
+<programme start="20251227130000 +0000" stop="20251227131500 +0000" channel="Cartoon Network.skyde">
     <title>Die wunderbar schräge Welt von Gumball</title>
 </programme>
-<programme start="20251226131000 +0000" stop="20251226132000 +0000" channel="Cartoon Network.skyde">
+<programme start="20251227131500 +0000" stop="20251227132500 +0000" channel="Cartoon Network.skyde">
     <title>Die wunderbar schräge Welt von Gumball</title>
 </programme>
-<programme start="20251226132000 +0000" stop="20251226133000 +0000" channel="Cartoon Network.skyde">
+<programme start="20251227132500 +0000" stop="20251227133500 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20251226133000 +0000" stop="20251226134500 +0000" channel="Cartoon Network.skyde">
+<programme start="20251227133500 +0000" stop="20251227135000 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20251226134500 +0000" stop="20251226135500 +0000" channel="Cartoon Network.skyde">
+<programme start="20251227135000 +0000" stop="20251227140000 +0000" channel="Cartoon Network.skyde">
     <title>Bunnicula</title>
 </programme>
-<programme start="20251226135500 +0000" stop="20251226140500 +0000" channel="Cartoon Network.skyde">
+<programme start="20251227140000 +0000" stop="20251227141000 +0000" channel="Cartoon Network.skyde">
     <title>Bunnicula</title>
 </programme>
-<programme start="20251226140500 +0000" stop="20251226141500 +0000" channel="Cartoon Network.skyde">
+<programme start="20251227141000 +0000" stop="20251227142500 +0000" channel="Cartoon Network.skyde">
     <title>Teen Titans Go!</title>
 </programme>
-<programme start="20251226141500 +0000" stop="20251226142500 +0000" channel="Cartoon Network.skyde">
+<programme start="20251227142500 +0000" stop="20251227143500 +0000" channel="Cartoon Network.skyde">
     <title>Teen Titans Go!</title>
 </programme>
-<programme start="20251226142500 +0000" stop="20251226143500 +0000" channel="Cartoon Network.skyde">
+<programme start="20251227143500 +0000" stop="20251227144500 +0000" channel="Cartoon Network.skyde">
     <title>Teen Titans Go!</title>
 </programme>
-<programme start="20251226143500 +0000" stop="20251226145000 +0000" channel="Cartoon Network.skyde">
+<programme start="20251227144500 +0000" stop="20251227145500 +0000" channel="Cartoon Network.skyde">
     <title>Teen Titans Go!</title>
 </programme>
-<programme start="20251226145000 +0000" stop="20251226150000 +0000" channel="Cartoon Network.skyde">
+<programme start="20251227145500 +0000" stop="20251227150500 +0000" channel="Cartoon Network.skyde">
     <title>Lana Longbeard</title>
 </programme>
-<programme start="20251226150000 +0000" stop="20251226151000 +0000" channel="Cartoon Network.skyde">
+<programme start="20251227150500 +0000" stop="20251227151500 +0000" channel="Cartoon Network.skyde">
     <title>Lana Longbeard</title>
 </programme>
-<programme start="20251226151000 +0000" stop="20251226152500 +0000" channel="Cartoon Network.skyde">
+<programme start="20251227151500 +0000" stop="20251227153000 +0000" channel="Cartoon Network.skyde">
     <title>Looney Tunes Cartoons</title>
 </programme>
-<programme start="20251226152500 +0000" stop="20251226153500 +0000" channel="Cartoon Network.skyde">
+<programme start="20251227153000 +0000" stop="20251227154000 +0000" channel="Cartoon Network.skyde">
     <title>Looney Tunes Cartoons</title>
 </programme>
-<programme start="20251226153500 +0000" stop="20251226154500 +0000" channel="Cartoon Network.skyde">
-    <title>Looney Tunes Cartoons</title>
-</programme>
-<programme start="20251226154500 +0000" stop="20251226155500 +0000" channel="Cartoon Network.skyde">
+<programme start="20251227154000 +0000" stop="20251227155000 +0000" channel="Cartoon Network.skyde">
     <title>Die wunderbar schräge Welt von Gumball</title>
 </programme>
-<programme start="20251226155500 +0000" stop="20251226161000 +0000" channel="Cartoon Network.skyde">
+<programme start="20251227155000 +0000" stop="20251227160500 +0000" channel="Cartoon Network.skyde">
     <title>Die wunderbar schräge Welt von Gumball</title>
 </programme>
-<programme start="20251226161000 +0000" stop="20251226162500 +0000" channel="Cartoon Network.skyde">
+<programme start="20251227160500 +0000" stop="20251227161500 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20251226162500 +0000" stop="20251226163500 +0000" channel="Cartoon Network.skyde">
+<programme start="20251227161500 +0000" stop="20251227163000 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20251226163500 +0000" stop="20251226164500 +0000" channel="Cartoon Network.skyde">
+<programme start="20251227163000 +0000" stop="20251227164000 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20251226164500 +0000" stop="20251226170000 +0000" channel="Cartoon Network.skyde">
+<programme start="20251227164000 +0000" stop="20251227165500 +0000" channel="Cartoon Network.skyde">
     <title>Craig of the Creek - Im Wald der Abenteuer</title>
 </programme>
-<programme start="20251226170000 +0000" stop="20251226171000 +0000" channel="Cartoon Network.skyde">
+<programme start="20251227165500 +0000" stop="20251227170500 +0000" channel="Cartoon Network.skyde">
     <title>Craig of the Creek - Im Wald der Abenteuer</title>
 </programme>
-<programme start="20251226171000 +0000" stop="20251226172000 +0000" channel="Cartoon Network.skyde">
+<programme start="20251227170500 +0000" stop="20251227171500 +0000" channel="Cartoon Network.skyde">
     <title>Clarence</title>
 </programme>
-<programme start="20251226172000 +0000" stop="20251226173500 +0000" channel="Cartoon Network.skyde">
+<programme start="20251227171500 +0000" stop="20251227172500 +0000" channel="Cartoon Network.skyde">
     <title>Clarence</title>
 </programme>
-<programme start="20251226173500 +0000" stop="20251226174500 +0000" channel="Cartoon Network.skyde">
+<programme start="20251227172500 +0000" stop="20251227173500 +0000" channel="Cartoon Network.skyde">
     <title>Clarence</title>
 </programme>
-<programme start="20251226174500 +0000" stop="20251226175500 +0000" channel="Cartoon Network.skyde">
+<programme start="20251227173500 +0000" stop="20251227175000 +0000" channel="Cartoon Network.skyde">
     <title>Clarence</title>
 </programme>
-<programme start="20251226175500 +0000" stop="20251226182000 +0000" channel="Cartoon Network.skyde">
+<programme start="20251227175000 +0000" stop="20251227181000 +0000" channel="Cartoon Network.skyde">
     <title>Tiny Toons Looniversity</title>
 </programme>
-<programme start="20251226182000 +0000" stop="20251226183000 +0000" channel="Cartoon Network.skyde">
+<programme start="20251227181000 +0000" stop="20251227182500 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20251226183000 +0000" stop="20251226184500 +0000" channel="Cartoon Network.skyde">
+<programme start="20251227182500 +0000" stop="20251227183500 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20251226184500 +0000" stop="20251226185500 +0000" channel="Cartoon Network.skyde">
+<programme start="20251227183500 +0000" stop="20251227185000 +0000" channel="Cartoon Network.skyde">
     <title>Lana Longbeard</title>
 </programme>
-<programme start="20251226185500 +0000" stop="20251226190500 +0000" channel="Cartoon Network.skyde">
+<programme start="20251227185000 +0000" stop="20251227190000 +0000" channel="Cartoon Network.skyde">
     <title>Lana Longbeard</title>
 </programme>
-<programme start="20251226190500 +0000" stop="20251226192000 +0000" channel="Cartoon Network.skyde">
+<programme start="20251227190000 +0000" stop="20251227191000 +0000" channel="Cartoon Network.skyde">
     <title>Teen Titans Go!</title>
 </programme>
-<programme start="20251226192000 +0000" stop="20251226193000 +0000" channel="Cartoon Network.skyde">
+<programme start="20251227191000 +0000" stop="20251227192000 +0000" channel="Cartoon Network.skyde">
     <title>Teen Titans Go!</title>
 </programme>
-<programme start="20251226193000 +0000" stop="20251226194000 +0000" channel="Cartoon Network.skyde">
+<programme start="20251227192000 +0000" stop="20251227193500 +0000" channel="Cartoon Network.skyde">
     <title>Teen Titans Go!</title>
 </programme>
-<programme start="20251226194000 +0000" stop="20251226195000 +0000" channel="Cartoon Network.skyde">
+<programme start="20251227193500 +0000" stop="20251227194500 +0000" channel="Cartoon Network.skyde">
     <title>Teen Titans Go!</title>
 </programme>
-<programme start="20251226195000 +0000" stop="20251226200000 +0000" channel="Cartoon Network.skyde">
+<programme start="20251227194500 +0000" stop="20251227195500 +0000" channel="Cartoon Network.skyde">
     <title>Die wunderbar schräge Welt von Gumball</title>
 </programme>
-<programme start="20251226200000 +0000" stop="20251226201500 +0000" channel="Cartoon Network.skyde">
+<programme start="20251227195500 +0000" stop="20251227201000 +0000" channel="Cartoon Network.skyde">
     <title>Die wunderbar schräge Welt von Gumball</title>
 </programme>
-<programme start="20251226201500 +0000" stop="20251226202500 +0000" channel="Cartoon Network.skyde">
+<programme start="20251227201000 +0000" stop="20251227202000 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20251226202500 +0000" stop="20251226204000 +0000" channel="Cartoon Network.skyde">
+<programme start="20251227202000 +0000" stop="20251227203500 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20251226204000 +0000" stop="20251226205000 +0000" channel="Cartoon Network.skyde">
+<programme start="20251227203500 +0000" stop="20251227204500 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20251226205000 +0000" stop="20251226210000 +0000" channel="Cartoon Network.skyde">
+<programme start="20251227204500 +0000" stop="20251227205500 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20251226210000 +0000" stop="20251226212500 +0000" channel="Cartoon Network.skyde">
+<programme start="20251227205500 +0000" stop="20251227210500 +0000" channel="Cartoon Network.skyde">
+    <title>Die fantastische Welt von Gumball</title>
+</programme>
+<programme start="20251227210500 +0000" stop="20251227213000 +0000" channel="Cartoon Network.skyde">
     <title>Muh-Kuh und Chickie</title>
 </programme>
-<programme start="20251226212500 +0000" stop="20251226214500 +0000" channel="Cartoon Network.skyde">
+<programme start="20251227213000 +0000" stop="20251227215000 +0000" channel="Cartoon Network.skyde">
     <title>Dexters Labor</title>
 </programme>
-<programme start="20251226214500 +0000" stop="20251226215500 +0000" channel="Cartoon Network.skyde">
+<programme start="20251227215000 +0000" stop="20251227220500 +0000" channel="Cartoon Network.skyde">
     <title>Adventure Time - Abenteuerzeit mit Finn und Jake</title>
 </programme>
-<programme start="20251226215500 +0000" stop="20251226221000 +0000" channel="Cartoon Network.skyde">
+<programme start="20251227220500 +0000" stop="20251227221500 +0000" channel="Cartoon Network.skyde">
     <title>Adventure Time - Abenteuerzeit mit Finn und Jake</title>
 </programme>
-<programme start="20251226221000 +0000" stop="20251226222000 +0000" channel="Cartoon Network.skyde">
+<programme start="20251227221500 +0000" stop="20251227222500 +0000" channel="Cartoon Network.skyde">
     <title>Adventure Time - Abenteuerzeit mit Finn und Jake</title>
 </programme>
-<programme start="20251226222000 +0000" stop="20251226223000 +0000" channel="Cartoon Network.skyde">
+<programme start="20251227222500 +0000" stop="20251227223500 +0000" channel="Cartoon Network.skyde">
     <title>Adventure Time - Abenteuerzeit mit Finn und Jake</title>
 </programme>
-<programme start="20251226223000 +0000" stop="20251226224500 +0000" channel="Cartoon Network.skyde">
+<programme start="20251227223500 +0000" stop="20251227225000 +0000" channel="Cartoon Network.skyde">
     <title>Regular Show - Völlig abgedreht</title>
 </programme>
-<programme start="20251226224500 +0000" stop="20251226225500 +0000" channel="Cartoon Network.skyde">
+<programme start="20251227225000 +0000" stop="20251227230000 +0000" channel="Cartoon Network.skyde">
     <title>Regular Show - Völlig abgedreht</title>
 </programme>
-<programme start="20251226225500 +0000" stop="20251226230500 +0000" channel="Cartoon Network.skyde">
-    <title>Regular Show - Völlig abgedreht</title>
-</programme>
-<programme start="20251225230000 +0000" stop="20251225231500 +0000" channel="Cartoonito.skyde">
+<programme start="20251226230000 +0000" stop="20251226231500 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
-<programme start="20251225231500 +0000" stop="20251225232000 +0000" channel="Cartoonito.skyde">
+<programme start="20251226231500 +0000" stop="20251226232000 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
-<programme start="20251225232000 +0000" stop="20251225233000 +0000" channel="Cartoonito.skyde">
+<programme start="20251226232000 +0000" stop="20251226233000 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
-<programme start="20251225233000 +0000" stop="20251225234000 +0000" channel="Cartoonito.skyde">
+<programme start="20251226233000 +0000" stop="20251226234000 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
-<programme start="20251225234000 +0000" stop="20251225235000 +0000" channel="Cartoonito.skyde">
+<programme start="20251226234000 +0000" stop="20251226235000 +0000" channel="Cartoonito.skyde">
     <title>Ella im Weltall</title>
 </programme>
-<programme start="20251225235000 +0000" stop="20251226000000 +0000" channel="Cartoonito.skyde">
+<programme start="20251226235000 +0000" stop="20251227000000 +0000" channel="Cartoonito.skyde">
     <title>Ella im Weltall</title>
 </programme>
-<programme start="20251226000000 +0000" stop="20251226002000 +0000" channel="Cartoonito.skyde">
+<programme start="20251227000000 +0000" stop="20251227002000 +0000" channel="Cartoonito.skyde">
     <title>Ella im Weltall</title>
 </programme>
-<programme start="20251226002000 +0000" stop="20251226003000 +0000" channel="Cartoonito.skyde">
+<programme start="20251227002000 +0000" stop="20251227003000 +0000" channel="Cartoonito.skyde">
     <title>Ella im Weltall</title>
 </programme>
-<programme start="20251226003000 +0000" stop="20251226004500 +0000" channel="Cartoonito.skyde">
+<programme start="20251227003000 +0000" stop="20251227004500 +0000" channel="Cartoonito.skyde">
     <title>Ella im Weltall</title>
 </programme>
-<programme start="20251226004500 +0000" stop="20251226005500 +0000" channel="Cartoonito.skyde">
+<programme start="20251227004500 +0000" stop="20251227005500 +0000" channel="Cartoonito.skyde">
     <title>Geschichten von Kröterich &amp; Co.</title>
 </programme>
-<programme start="20251226005500 +0000" stop="20251226011500 +0000" channel="Cartoonito.skyde">
+<programme start="20251227005500 +0000" stop="20251227011500 +0000" channel="Cartoonito.skyde">
     <title>Geschichten von Kröterich &amp; Co.</title>
 </programme>
-<programme start="20251226011500 +0000" stop="20251226012500 +0000" channel="Cartoonito.skyde">
+<programme start="20251227011500 +0000" stop="20251227012500 +0000" channel="Cartoonito.skyde">
     <title>Geschichten von Kröterich &amp; Co.</title>
 </programme>
-<programme start="20251226012500 +0000" stop="20251226013500 +0000" channel="Cartoonito.skyde">
+<programme start="20251227012500 +0000" stop="20251227013500 +0000" channel="Cartoonito.skyde">
     <title>Geschichten von Kröterich &amp; Co.</title>
 </programme>
-<programme start="20251226013500 +0000" stop="20251226015000 +0000" channel="Cartoonito.skyde">
+<programme start="20251227013500 +0000" stop="20251227015000 +0000" channel="Cartoonito.skyde">
     <title>Geschichten von Kröterich &amp; Co.</title>
 </programme>
-<programme start="20251226015000 +0000" stop="20251226020000 +0000" channel="Cartoonito.skyde">
+<programme start="20251227015000 +0000" stop="20251227020000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20251226020000 +0000" stop="20251226021500 +0000" channel="Cartoonito.skyde">
+<programme start="20251227020000 +0000" stop="20251227022000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20251226021500 +0000" stop="20251226023000 +0000" channel="Cartoonito.skyde">
+<programme start="20251227022000 +0000" stop="20251227023000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20251226023000 +0000" stop="20251226024500 +0000" channel="Cartoonito.skyde">
+<programme start="20251227023000 +0000" stop="20251227024500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20251226024500 +0000" stop="20251226025500 +0000" channel="Cartoonito.skyde">
+<programme start="20251227024500 +0000" stop="20251227025500 +0000" channel="Cartoonito.skyde">
     <title>Ella im Weltall</title>
 </programme>
-<programme start="20251226025500 +0000" stop="20251226030500 +0000" channel="Cartoonito.skyde">
+<programme start="20251227025500 +0000" stop="20251227030500 +0000" channel="Cartoonito.skyde">
     <title>Ella im Weltall</title>
 </programme>
-<programme start="20251226030500 +0000" stop="20251226032500 +0000" channel="Cartoonito.skyde">
+<programme start="20251227030500 +0000" stop="20251227032500 +0000" channel="Cartoonito.skyde">
     <title>Ella im Weltall</title>
 </programme>
-<programme start="20251226032500 +0000" stop="20251226033500 +0000" channel="Cartoonito.skyde">
+<programme start="20251227032500 +0000" stop="20251227033500 +0000" channel="Cartoonito.skyde">
     <title>Ella im Weltall</title>
 </programme>
-<programme start="20251226033500 +0000" stop="20251226034500 +0000" channel="Cartoonito.skyde">
+<programme start="20251227033500 +0000" stop="20251227034500 +0000" channel="Cartoonito.skyde">
     <title>Ella im Weltall</title>
 </programme>
-<programme start="20251226034500 +0000" stop="20251226035500 +0000" channel="Cartoonito.skyde">
+<programme start="20251227034500 +0000" stop="20251227035500 +0000" channel="Cartoonito.skyde">
     <title>Tom und Jerry</title>
 </programme>
-<programme start="20251226035500 +0000" stop="20251226040500 +0000" channel="Cartoonito.skyde">
+<programme start="20251227035500 +0000" stop="20251227040500 +0000" channel="Cartoonito.skyde">
     <title>Geschichten von Kröterich &amp; Co.</title>
 </programme>
-<programme start="20251226040500 +0000" stop="20251226041500 +0000" channel="Cartoonito.skyde">
+<programme start="20251227040500 +0000" stop="20251227041500 +0000" channel="Cartoonito.skyde">
     <title>Geschichten von Kröterich &amp; Co.</title>
 </programme>
-<programme start="20251226041500 +0000" stop="20251226043000 +0000" channel="Cartoonito.skyde">
+<programme start="20251227041500 +0000" stop="20251227043000 +0000" channel="Cartoonito.skyde">
     <title>Geschichten von Kröterich &amp; Co.</title>
 </programme>
-<programme start="20251226043000 +0000" stop="20251226044000 +0000" channel="Cartoonito.skyde">
+<programme start="20251227043000 +0000" stop="20251227044000 +0000" channel="Cartoonito.skyde">
     <title>Geschichten von Kröterich &amp; Co.</title>
 </programme>
-<programme start="20251226044000 +0000" stop="20251226050000 +0000" channel="Cartoonito.skyde">
+<programme start="20251227044000 +0000" stop="20251227050000 +0000" channel="Cartoonito.skyde">
     <title>Geschichten von Kröterich &amp; Co.</title>
 </programme>
-<programme start="20251226050000 +0000" stop="20251226050500 +0000" channel="Cartoonito.skyde">
+<programme start="20251227050000 +0000" stop="20251227050500 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20251226050500 +0000" stop="20251226051000 +0000" channel="Cartoonito.skyde">
+<programme start="20251227050500 +0000" stop="20251227051000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20251226051000 +0000" stop="20251226052500 +0000" channel="Cartoonito.skyde">
+<programme start="20251227051000 +0000" stop="20251227052500 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20251226052500 +0000" stop="20251226053500 +0000" channel="Cartoonito.skyde">
+<programme start="20251227052500 +0000" stop="20251227053500 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20251226053500 +0000" stop="20251226054000 +0000" channel="Cartoonito.skyde">
+<programme start="20251227053500 +0000" stop="20251227054000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20251226054000 +0000" stop="20251226055500 +0000" channel="Cartoonito.skyde">
+<programme start="20251227054000 +0000" stop="20251227055500 +0000" channel="Cartoonito.skyde">
     <title>SuperThings: Rivalen von Kaboom - Kazoom-Power</title>
 </programme>
-<programme start="20251226055500 +0000" stop="20251226060500 +0000" channel="Cartoonito.skyde">
+<programme start="20251227055500 +0000" stop="20251227060500 +0000" channel="Cartoonito.skyde">
     <title>Bugs Bunnys Baumeister</title>
 </programme>
-<programme start="20251226060500 +0000" stop="20251226062500 +0000" channel="Cartoonito.skyde">
+<programme start="20251227060500 +0000" stop="20251227062500 +0000" channel="Cartoonito.skyde">
     <title>Bugs Bunnys Baumeister</title>
 </programme>
-<programme start="20251226062500 +0000" stop="20251226063500 +0000" channel="Cartoonito.skyde">
+<programme start="20251227062500 +0000" stop="20251227063500 +0000" channel="Cartoonito.skyde">
     <title>Batwheels</title>
 </programme>
-<programme start="20251226063500 +0000" stop="20251226065500 +0000" channel="Cartoonito.skyde">
+<programme start="20251227063500 +0000" stop="20251227065500 +0000" channel="Cartoonito.skyde">
     <title>Batwheels</title>
 </programme>
-<programme start="20251226065500 +0000" stop="20251226070000 +0000" channel="Cartoonito.skyde">
+<programme start="20251227065500 +0000" stop="20251227070000 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
-<programme start="20251226070000 +0000" stop="20251226070500 +0000" channel="Cartoonito.skyde">
+<programme start="20251227070000 +0000" stop="20251227070500 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
-<programme start="20251226070500 +0000" stop="20251226072000 +0000" channel="Cartoonito.skyde">
+<programme start="20251227070500 +0000" stop="20251227072000 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
-<programme start="20251226072000 +0000" stop="20251226073000 +0000" channel="Cartoonito.skyde">
+<programme start="20251227072000 +0000" stop="20251227073000 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
-<programme start="20251226073000 +0000" stop="20251226073500 +0000" channel="Cartoonito.skyde">
+<programme start="20251227073000 +0000" stop="20251227073500 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
-<programme start="20251226073500 +0000" stop="20251226075000 +0000" channel="Cartoonito.skyde">
+<programme start="20251227073500 +0000" stop="20251227075000 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
-<programme start="20251226075000 +0000" stop="20251226080000 +0000" channel="Cartoonito.skyde">
+<programme start="20251227075000 +0000" stop="20251227080000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20251226080000 +0000" stop="20251226081500 +0000" channel="Cartoonito.skyde">
+<programme start="20251227080000 +0000" stop="20251227081500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20251226081500 +0000" stop="20251226083000 +0000" channel="Cartoonito.skyde">
+<programme start="20251227081500 +0000" stop="20251227083000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20251226083000 +0000" stop="20251226084500 +0000" channel="Cartoonito.skyde">
+<programme start="20251227083000 +0000" stop="20251227084500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20251226084500 +0000" stop="20251226085500 +0000" channel="Cartoonito.skyde">
+<programme start="20251227084500 +0000" stop="20251227085500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20251226085500 +0000" stop="20251226091500 +0000" channel="Cartoonito.skyde">
+<programme start="20251227085500 +0000" stop="20251227091500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20251226091500 +0000" stop="20251226092500 +0000" channel="Cartoonito.skyde">
+<programme start="20251227091500 +0000" stop="20251227092500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20251226092500 +0000" stop="20251226094500 +0000" channel="Cartoonito.skyde">
+<programme start="20251227092500 +0000" stop="20251227094500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20251226094500 +0000" stop="20251226095500 +0000" channel="Cartoonito.skyde">
+<programme start="20251227094500 +0000" stop="20251227095500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20251226095500 +0000" stop="20251226100500 +0000" channel="Cartoonito.skyde">
+<programme start="20251227095500 +0000" stop="20251227100500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20251226100500 +0000" stop="20251226102000 +0000" channel="Cartoonito.skyde">
+<programme start="20251227100500 +0000" stop="20251227102000 +0000" channel="Cartoonito.skyde">
     <title>Lamput</title>
 </programme>
-<programme start="20251226102000 +0000" stop="20251226102500 +0000" channel="Cartoonito.skyde">
+<programme start="20251227102000 +0000" stop="20251227102500 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
-<programme start="20251226102500 +0000" stop="20251226103000 +0000" channel="Cartoonito.skyde">
+<programme start="20251227102500 +0000" stop="20251227103500 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
-<programme start="20251226103000 +0000" stop="20251226104500 +0000" channel="Cartoonito.skyde">
+<programme start="20251227103500 +0000" stop="20251227105000 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
-<programme start="20251226104500 +0000" stop="20251226105500 +0000" channel="Cartoonito.skyde">
+<programme start="20251227105000 +0000" stop="20251227105500 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
-<programme start="20251226105500 +0000" stop="20251226110000 +0000" channel="Cartoonito.skyde">
+<programme start="20251227105500 +0000" stop="20251227110000 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
-<programme start="20251226110000 +0000" stop="20251226111500 +0000" channel="Cartoonito.skyde">
+<programme start="20251227110000 +0000" stop="20251227111500 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
-<programme start="20251226111500 +0000" stop="20251226112500 +0000" channel="Cartoonito.skyde">
+<programme start="20251227111500 +0000" stop="20251227112500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20251226112500 +0000" stop="20251226114000 +0000" channel="Cartoonito.skyde">
+<programme start="20251227112500 +0000" stop="20251227114500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20251226114000 +0000" stop="20251226115500 +0000" channel="Cartoonito.skyde">
+<programme start="20251227114500 +0000" stop="20251227115500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20251226115500 +0000" stop="20251226121000 +0000" channel="Cartoonito.skyde">
+<programme start="20251227115500 +0000" stop="20251227121500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20251226121000 +0000" stop="20251226122000 +0000" channel="Cartoonito.skyde">
+<programme start="20251227121500 +0000" stop="20251227122500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20251226122000 +0000" stop="20251226123000 +0000" channel="Cartoonito.skyde">
+<programme start="20251227122500 +0000" stop="20251227123500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20251226123000 +0000" stop="20251226125000 +0000" channel="Cartoonito.skyde">
+<programme start="20251227123500 +0000" stop="20251227125000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20251226125000 +0000" stop="20251226130000 +0000" channel="Cartoonito.skyde">
+<programme start="20251227125000 +0000" stop="20251227130500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20251226130000 +0000" stop="20251226131000 +0000" channel="Cartoonito.skyde">
+<programme start="20251227130500 +0000" stop="20251227131500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20251226131000 +0000" stop="20251226133000 +0000" channel="Cartoonito.skyde">
+<programme start="20251227131500 +0000" stop="20251227133000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20251226133000 +0000" stop="20251226133500 +0000" channel="Cartoonito.skyde">
+<programme start="20251227133000 +0000" stop="20251227134000 +0000" channel="Cartoonito.skyde">
     <title>Lamput</title>
 </programme>
-<programme start="20251226133500 +0000" stop="20251226134400 +0000" channel="Cartoonito.skyde">
+<programme start="20251227134000 +0000" stop="20251227134500 +0000" channel="Cartoonito.skyde">
     <title>Lamput</title>
 </programme>
-<programme start="20251226134400 +0000" stop="20251226134600 +0000" channel="Cartoonito.skyde">
+<programme start="20251227134500 +0000" stop="20251227140000 +0000" channel="Cartoonito.skyde">
     <title>Lamput</title>
 </programme>
-<programme start="20251226134600 +0000" stop="20251226140000 +0000" channel="Cartoonito.skyde">
-    <title>Lamput</title>
-</programme>
-<programme start="20251226140000 +0000" stop="20251226141000 +0000" channel="Cartoonito.skyde">
+<programme start="20251227140000 +0000" stop="20251227141000 +0000" channel="Cartoonito.skyde">
     <title>Bugs Bunnys Baumeister</title>
 </programme>
-<programme start="20251226141000 +0000" stop="20251226142000 +0000" channel="Cartoonito.skyde">
+<programme start="20251227141000 +0000" stop="20251227142000 +0000" channel="Cartoonito.skyde">
     <title>Bugs Bunnys Baumeister</title>
 </programme>
-<programme start="20251226142000 +0000" stop="20251226143000 +0000" channel="Cartoonito.skyde">
+<programme start="20251227142000 +0000" stop="20251227143000 +0000" channel="Cartoonito.skyde">
     <title>Tom und Jerry Gokko</title>
 </programme>
-<programme start="20251226143000 +0000" stop="20251226144000 +0000" channel="Cartoonito.skyde">
+<programme start="20251227143000 +0000" stop="20251227144000 +0000" channel="Cartoonito.skyde">
     <title>Batwheels</title>
 </programme>
-<programme start="20251226144000 +0000" stop="20251226144500 +0000" channel="Cartoonito.skyde">
-    <title>Krypto als Retter in Not</title>
+<programme start="20251227144000 +0000" stop="20251227145500 +0000" channel="Cartoonito.skyde">
+    <title>Batwheels</title>
 </programme>
-<programme start="20251226144500 +0000" stop="20251226145500 +0000" channel="Cartoonito.skyde">
-    <title>Krypto als Retter in Not</title>
-</programme>
-<programme start="20251226145500 +0000" stop="20251226150500 +0000" channel="Cartoonito.skyde">
+<programme start="20251227145500 +0000" stop="20251227150500 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
-<programme start="20251226150500 +0000" stop="20251226152500 +0000" channel="Cartoonito.skyde">
+<programme start="20251227150500 +0000" stop="20251227151000 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
-<programme start="20251226152500 +0000" stop="20251226153500 +0000" channel="Cartoonito.skyde">
+<programme start="20251227151000 +0000" stop="20251227152500 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
-<programme start="20251226153500 +0000" stop="20251226154500 +0000" channel="Cartoonito.skyde">
+<programme start="20251227152500 +0000" stop="20251227153000 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
-<programme start="20251226154500 +0000" stop="20251226155500 +0000" channel="Cartoonito.skyde">
+<programme start="20251227153000 +0000" stop="20251227154000 +0000" channel="Cartoonito.skyde">
+    <title>Die Tom und Jerry Show</title>
+</programme>
+<programme start="20251227154000 +0000" stop="20251227154500 +0000" channel="Cartoonito.skyde">
+    <title>Die Tom und Jerry Show</title>
+</programme>
+<programme start="20251227154500 +0000" stop="20251227155500 +0000" channel="Cartoonito.skyde">
     <title>Tom und Jerry</title>
 </programme>
-<programme start="20251226155500 +0000" stop="20251226160500 +0000" channel="Cartoonito.skyde">
+<programme start="20251227155500 +0000" stop="20251227160500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20251226160500 +0000" stop="20251226162500 +0000" channel="Cartoonito.skyde">
+<programme start="20251227160500 +0000" stop="20251227162500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20251226162500 +0000" stop="20251226163500 +0000" channel="Cartoonito.skyde">
+<programme start="20251227162500 +0000" stop="20251227163500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20251226163500 +0000" stop="20251226165500 +0000" channel="Cartoonito.skyde">
+<programme start="20251227163500 +0000" stop="20251227165500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20251226165500 +0000" stop="20251226170000 +0000" channel="Cartoonito.skyde">
+<programme start="20251227165500 +0000" stop="20251227170000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20251226170000 +0000" stop="20251226171000 +0000" channel="Cartoonito.skyde">
+<programme start="20251227170000 +0000" stop="20251227171000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20251226171000 +0000" stop="20251226172000 +0000" channel="Cartoonito.skyde">
+<programme start="20251227171000 +0000" stop="20251227172000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20251226172000 +0000" stop="20251226173000 +0000" channel="Cartoonito.skyde">
+<programme start="20251227172000 +0000" stop="20251227173000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20251226173000 +0000" stop="20251226173500 +0000" channel="Cartoonito.skyde">
+<programme start="20251227173000 +0000" stop="20251227173500 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20251226173500 +0000" stop="20251226174500 +0000" channel="Cartoonito.skyde">
+<programme start="20251227173500 +0000" stop="20251227174500 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20251226174500 +0000" stop="20251226180000 +0000" channel="Cartoonito.skyde">
+<programme start="20251227174500 +0000" stop="20251227180000 +0000" channel="Cartoonito.skyde">
     <title>SuperThings: Rivalen von Kaboom - Kazoom-Power</title>
 </programme>
-<programme start="20251226180000 +0000" stop="20251226182500 +0000" channel="Cartoonito.skyde">
-    <title>Tom und Jerry als Weihnachtswichtel</title>
-</programme>
-<programme start="20251226182500 +0000" stop="20251226183500 +0000" channel="Cartoonito.skyde">
+<programme start="20251227180000 +0000" stop="20251227180500 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
-<programme start="20251226183500 +0000" stop="20251226184000 +0000" channel="Cartoonito.skyde">
+<programme start="20251227180500 +0000" stop="20251227181000 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
-<programme start="20251226184000 +0000" stop="20251226190000 +0000" channel="Cartoonito.skyde">
+<programme start="20251227181000 +0000" stop="20251227182500 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
-<programme start="20251226190000 +0000" stop="20251226191000 +0000" channel="Cartoonito.skyde">
+<programme start="20251227182500 +0000" stop="20251227183500 +0000" channel="Cartoonito.skyde">
+    <title>Die Tom und Jerry Show</title>
+</programme>
+<programme start="20251227183500 +0000" stop="20251227184000 +0000" channel="Cartoonito.skyde">
+    <title>Die Tom und Jerry Show</title>
+</programme>
+<programme start="20251227184000 +0000" stop="20251227190000 +0000" channel="Cartoonito.skyde">
+    <title>Die Tom und Jerry Show</title>
+</programme>
+<programme start="20251227190000 +0000" stop="20251227191000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20251226191000 +0000" stop="20251226192500 +0000" channel="Cartoonito.skyde">
+<programme start="20251227191000 +0000" stop="20251227192500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20251226192500 +0000" stop="20251226194000 +0000" channel="Cartoonito.skyde">
+<programme start="20251227192500 +0000" stop="20251227194000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20251226194000 +0000" stop="20251226195500 +0000" channel="Cartoonito.skyde">
+<programme start="20251227194000 +0000" stop="20251227195500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20251226195500 +0000" stop="20251226200500 +0000" channel="Cartoonito.skyde">
+<programme start="20251227195500 +0000" stop="20251227200500 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20251226200500 +0000" stop="20251226201000 +0000" channel="Cartoonito.skyde">
+<programme start="20251227200500 +0000" stop="20251227201000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20251226201000 +0000" stop="20251226202500 +0000" channel="Cartoonito.skyde">
+<programme start="20251227201000 +0000" stop="20251227202500 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20251226202500 +0000" stop="20251226203000 +0000" channel="Cartoonito.skyde">
+<programme start="20251227202500 +0000" stop="20251227203000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20251226203000 +0000" stop="20251226203500 +0000" channel="Cartoonito.skyde">
+<programme start="20251227203000 +0000" stop="20251227203500 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20251226203500 +0000" stop="20251226204500 +0000" channel="Cartoonito.skyde">
+<programme start="20251227203500 +0000" stop="20251227204500 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20251226204500 +0000" stop="20251226210000 +0000" channel="Cartoonito.skyde">
+<programme start="20251227204500 +0000" stop="20251227210000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20251226210000 +0000" stop="20251226211000 +0000" channel="Cartoonito.skyde">
+<programme start="20251227210000 +0000" stop="20251227211000 +0000" channel="Cartoonito.skyde">
     <title>Batwheels</title>
 </programme>
-<programme start="20251226211000 +0000" stop="20251226212500 +0000" channel="Cartoonito.skyde">
+<programme start="20251227211000 +0000" stop="20251227212500 +0000" channel="Cartoonito.skyde">
     <title>Batwheels</title>
 </programme>
-<programme start="20251226212500 +0000" stop="20251226213500 +0000" channel="Cartoonito.skyde">
+<programme start="20251227212500 +0000" stop="20251227213500 +0000" channel="Cartoonito.skyde">
     <title>Batwheels</title>
 </programme>
-<programme start="20251226213500 +0000" stop="20251226215500 +0000" channel="Cartoonito.skyde">
+<programme start="20251227213500 +0000" stop="20251227215000 +0000" channel="Cartoonito.skyde">
     <title>Batwheels</title>
 </programme>
-<programme start="20251226215500 +0000" stop="20251226220500 +0000" channel="Cartoonito.skyde">
+<programme start="20251227215000 +0000" stop="20251227220500 +0000" channel="Cartoonito.skyde">
     <title>Bugs Bunnys Baumeister</title>
 </programme>
-<programme start="20251226220500 +0000" stop="20251226222000 +0000" channel="Cartoonito.skyde">
+<programme start="20251227220500 +0000" stop="20251227222000 +0000" channel="Cartoonito.skyde">
     <title>Bugs Bunnys Baumeister</title>
 </programme>
-<programme start="20251226222000 +0000" stop="20251226223000 +0000" channel="Cartoonito.skyde">
+<programme start="20251227222000 +0000" stop="20251227223000 +0000" channel="Cartoonito.skyde">
     <title>Bugs Bunnys Baumeister</title>
 </programme>
-<programme start="20251226223000 +0000" stop="20251226224500 +0000" channel="Cartoonito.skyde">
+<programme start="20251227223000 +0000" stop="20251227224500 +0000" channel="Cartoonito.skyde">
     <title>Bugs Bunnys Baumeister</title>
 </programme>
-<programme start="20251226224500 +0000" stop="20251226225500 +0000" channel="Cartoonito.skyde">
+<programme start="20251227224500 +0000" stop="20251227225500 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
-<programme start="20251226225500 +0000" stop="20251226230000 +0000" channel="Cartoonito.skyde">
+<programme start="20251227225500 +0000" stop="20251227230000 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
-<programme start="20251225233500 +0000" stop="20251226002500 +0000" channel="Crime + Investigation.skyde">
+<programme start="20251226232500 +0000" stop="20251227001500 +0000" channel="Crime + Investigation.skyde">
     <title>Undercover - Allein unter Verbrechern</title>
 </programme>
-<programme start="20251226002500 +0000" stop="20251226011000 +0000" channel="Crime + Investigation.skyde">
+<programme start="20251227001500 +0000" stop="20251227010000 +0000" channel="Crime + Investigation.skyde">
     <title>11 Shots - Fußball und Verbrechen</title>
 </programme>
-<programme start="20251226011000 +0000" stop="20251226015500 +0000" channel="Crime + Investigation.skyde">
-    <title>Jack the Ripper - Blutige Schlagzeilen</title>
-</programme>
-<programme start="20251226015500 +0000" stop="20251226024000 +0000" channel="Crime + Investigation.skyde">
-    <title>Jack the Ripper - Blutige Schlagzeilen</title>
-</programme>
-<programme start="20251226024000 +0000" stop="20251226032500 +0000" channel="Crime + Investigation.skyde">
-    <title>The People vs. the Klan - Ein Volk wehrt sich</title>
-</programme>
-<programme start="20251226032500 +0000" stop="20251226041000 +0000" channel="Crime + Investigation.skyde">
-    <title>The People vs. the Klan - Ein Volk wehrt sich</title>
-</programme>
-<programme start="20251226041000 +0000" stop="20251226045500 +0000" channel="Crime + Investigation.skyde">
-    <title>Deadly Women - Wenn Frauen zu Mörderinnen werden</title>
-</programme>
-<programme start="20251226045500 +0000" stop="20251226052000 +0000" channel="Crime + Investigation.skyde">
-    <title>Unentdeckt - Mörder unter uns</title>
-</programme>
-<programme start="20251226052000 +0000" stop="20251226061000 +0000" channel="Crime + Investigation.skyde">
-    <title>Dead to me - Der Familie entrissen</title>
-</programme>
-<programme start="20251226061000 +0000" stop="20251226070000 +0000" channel="Crime + Investigation.skyde">
-    <title>Undercover - Allein unter Verbrechern</title>
-</programme>
-<programme start="20251226070000 +0000" stop="20251226075000 +0000" channel="Crime + Investigation.skyde">
-    <title>11 Shots - Fußball und Verbrechen</title>
-</programme>
-<programme start="20251226075000 +0000" stop="20251226084000 +0000" channel="Crime + Investigation.skyde">
-    <title>The People vs. the Klan - Ein Volk wehrt sich</title>
-</programme>
-<programme start="20251226084000 +0000" stop="20251226093000 +0000" channel="Crime + Investigation.skyde">
-    <title>The People vs. the Klan - Ein Volk wehrt sich</title>
-</programme>
-<programme start="20251226093000 +0000" stop="20251226102000 +0000" channel="Crime + Investigation.skyde">
-    <title>Deadly Women - Wenn Frauen zu Mörderinnen werden</title>
-</programme>
-<programme start="20251226102000 +0000" stop="20251226111000 +0000" channel="Crime + Investigation.skyde">
-    <title>Deadly Women - Wenn Frauen zu Mörderinnen werden</title>
-</programme>
-<programme start="20251226111000 +0000" stop="20251226120000 +0000" channel="Crime + Investigation.skyde">
-    <title>Die Jagd nach Ted Bundy</title>
-</programme>
-<programme start="20251226120000 +0000" stop="20251226125000 +0000" channel="Crime + Investigation.skyde">
-    <title>Dead to me - Der Familie entrissen</title>
-</programme>
-<programme start="20251226125000 +0000" stop="20251226131000 +0000" channel="Crime + Investigation.skyde">
-    <title>Unentdeckt - Mörder unter uns</title>
-</programme>
-<programme start="20251226131000 +0000" stop="20251226140500 +0000" channel="Crime + Investigation.skyde">
-    <title>Jack the Ripper - Blutige Schlagzeilen</title>
-</programme>
-<programme start="20251226140500 +0000" stop="20251226150000 +0000" channel="Crime + Investigation.skyde">
-    <title>Jack the Ripper - Blutige Schlagzeilen</title>
-</programme>
-<programme start="20251226150000 +0000" stop="20251226155000 +0000" channel="Crime + Investigation.skyde">
+<programme start="20251227010000 +0000" stop="20251227014500 +0000" channel="Crime + Investigation.skyde">
     <title>The First 48</title>
 </programme>
-<programme start="20251226155000 +0000" stop="20251226164000 +0000" channel="Crime + Investigation.skyde">
-    <title>The People vs. the Klan - Ein Volk wehrt sich</title>
-</programme>
-<programme start="20251226164000 +0000" stop="20251226173000 +0000" channel="Crime + Investigation.skyde">
-    <title>The People vs. the Klan - Ein Volk wehrt sich</title>
-</programme>
-<programme start="20251226173000 +0000" stop="20251226182000 +0000" channel="Crime + Investigation.skyde">
-    <title>Deadly Women - Wenn Frauen zu Mörderinnen werden</title>
-</programme>
-<programme start="20251226182000 +0000" stop="20251226191500 +0000" channel="Crime + Investigation.skyde">
-    <title>Deadly Women - Wenn Frauen zu Mörderinnen werden</title>
-</programme>
-<programme start="20251226191500 +0000" stop="20251226200500 +0000" channel="Crime + Investigation.skyde">
-    <title>The First 48</title>
-</programme>
-<programme start="20251226200500 +0000" stop="20251226205500 +0000" channel="Crime + Investigation.skyde">
+<programme start="20251227014500 +0000" stop="20251227023000 +0000" channel="Crime + Investigation.skyde">
     <title>The First 48 - Momente der Entscheidung</title>
 </programme>
-<programme start="20251226205500 +0000" stop="20251226214500 +0000" channel="Crime + Investigation.skyde">
-    <title>The First 48</title>
+<programme start="20251227023000 +0000" stop="20251227031500 +0000" channel="Crime + Investigation.skyde">
+    <title>The People vs. the Klan - Ein Volk wehrt sich</title>
 </programme>
-<programme start="20251226214500 +0000" stop="20251226223500 +0000" channel="Crime + Investigation.skyde">
-    <title>Wanted - Flucht nach Mexiko</title>
+<programme start="20251227031500 +0000" stop="20251227040000 +0000" channel="Crime + Investigation.skyde">
+    <title>The People vs. the Klan - Ein Volk wehrt sich</title>
 </programme>
-<programme start="20251226223500 +0000" stop="20251226232500 +0000" channel="Crime + Investigation.skyde">
+<programme start="20251227040000 +0000" stop="20251227045000 +0000" channel="Crime + Investigation.skyde">
+    <title>Deadly Women - Wenn Frauen zu Mörderinnen werden</title>
+</programme>
+<programme start="20251227045000 +0000" stop="20251227052000 +0000" channel="Crime + Investigation.skyde">
+    <title>Unentdeckt - Mörder unter uns</title>
+</programme>
+<programme start="20251227052000 +0000" stop="20251227061000 +0000" channel="Crime + Investigation.skyde">
     <title>Dead to me - Der Familie entrissen</title>
 </programme>
-<programme start="20251225230000 +0000" stop="20251226070000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20251227061000 +0000" stop="20251227070000 +0000" channel="Crime + Investigation.skyde">
+    <title>Undercover - Allein unter Verbrechern</title>
+</programme>
+<programme start="20251227070000 +0000" stop="20251227073000 +0000" channel="Crime + Investigation.skyde">
+    <title>Hometown Tragedy - Die dunkle Seite einer Stadt</title>
+</programme>
+<programme start="20251227073000 +0000" stop="20251227082000 +0000" channel="Crime + Investigation.skyde">
+    <title>Deadly Women - Wenn Frauen zu Mörderinnen werden</title>
+</programme>
+<programme start="20251227082000 +0000" stop="20251227091000 +0000" channel="Crime + Investigation.skyde">
+    <title>Deadly Women - Wenn Frauen zu Mörderinnen werden</title>
+</programme>
+<programme start="20251227091000 +0000" stop="20251227100000 +0000" channel="Crime + Investigation.skyde">
+    <title>Deadly Women - Wenn Frauen zu Mörderinnen werden</title>
+</programme>
+<programme start="20251227100000 +0000" stop="20251227105000 +0000" channel="Crime + Investigation.skyde">
+    <title>Deadly Women - Wenn Frauen zu Mörderinnen werden</title>
+</programme>
+<programme start="20251227105000 +0000" stop="20251227114000 +0000" channel="Crime + Investigation.skyde">
+    <title>Mörderisches Doppelleben</title>
+</programme>
+<programme start="20251227114000 +0000" stop="20251227123000 +0000" channel="Crime + Investigation.skyde">
+    <title>Mörderisches Doppelleben</title>
+</programme>
+<programme start="20251227123000 +0000" stop="20251227132000 +0000" channel="Crime + Investigation.skyde">
+    <title>Hinter den Schlagzeilen - Die Entführung von Tanya Kach</title>
+</programme>
+<programme start="20251227132000 +0000" stop="20251227141000 +0000" channel="Crime + Investigation.skyde">
+    <title>Sieben Geschichten hinter #MeToo</title>
+</programme>
+<programme start="20251227141000 +0000" stop="20251227143500 +0000" channel="Crime + Investigation.skyde">
+    <title>Der letzte Klick - Tödliche Online-Begegnungen</title>
+</programme>
+<programme start="20251227143500 +0000" stop="20251227160500 +0000" channel="Crime + Investigation.skyde">
+    <title>Fentanyl - Hollywoods tödlicher Rausch</title>
+</programme>
+<programme start="20251227160500 +0000" stop="20251227163500 +0000" channel="Crime + Investigation.skyde">
+    <title>Hometown Tragedy - Die dunkle Seite einer Stadt</title>
+</programme>
+<programme start="20251227163500 +0000" stop="20251227173500 +0000" channel="Crime + Investigation.skyde">
+    <title>The Invisible Line - Die Geschichte der Welle</title>
+</programme>
+<programme start="20251227173500 +0000" stop="20251227182500 +0000" channel="Crime + Investigation.skyde">
+    <title>Total Control - Im Bann der Seelenfänger</title>
+</programme>
+<programme start="20251227182500 +0000" stop="20251227191500 +0000" channel="Crime + Investigation.skyde">
+    <title>Bloodline Detectives - Die DNA der Täter</title>
+</programme>
+<programme start="20251227191500 +0000" stop="20251227200500 +0000" channel="Crime + Investigation.skyde">
+    <title>Vermisst und ermordet</title>
+</programme>
+<programme start="20251227200500 +0000" stop="20251227210000 +0000" channel="Crime + Investigation.skyde">
+    <title>Vermisst und ermordet</title>
+</programme>
+<programme start="20251227210000 +0000" stop="20251227215000 +0000" channel="Crime + Investigation.skyde">
+    <title>Houses of Horror: Gewalt und Terror am College</title>
+</programme>
+<programme start="20251227215000 +0000" stop="20251227224000 +0000" channel="Crime + Investigation.skyde">
+    <title>Houses of Horror: Gewalt und Terror am College</title>
+</programme>
+<programme start="20251227224000 +0000" stop="20251227231000 +0000" channel="Crime + Investigation.skyde">
+    <title>Der letzte Klick - Tödliche Online-Begegnungen</title>
+</programme>
+<programme start="20251226230000 +0000" stop="20251227070000 +0000" channel="DAZN 1 HD.skyde">
     <title>Sendepause</title>
 </programme>
-<programme start="20251226070000 +0000" stop="20251226072000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20251227070000 +0000" stop="20251227073000 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20251226072000 +0000" stop="20251226083000 +0000" channel="DAZN 1 HD.skyde">
-    <title>ALL IN - Die Bundesliga Highlight Show: 15. Spieltag</title>
+<programme start="20251227073000 +0000" stop="20251227075500 +0000" channel="DAZN 1 HD.skyde">
+    <title>Das Herz des deutschen Fußballs: Episode 1</title>
 </programme>
-<programme start="20251226083000 +0000" stop="20251226103000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20251227075500 +0000" stop="20251227083000 +0000" channel="DAZN 1 HD.skyde">
+    <title>Das Herz des deutschen Fußballs: Episode 2</title>
+</programme>
+<programme start="20251227083000 +0000" stop="20251227090500 +0000" channel="DAZN 1 HD.skyde">
+    <title>Das Herz des deutschen Fußballs: Episode 3</title>
+</programme>
+<programme start="20251227090500 +0000" stop="20251227105500 +0000" channel="DAZN 1 HD.skyde">
     <title>Bundesliga: RB Leipzig - Bayer 04 Leverkusen</title>
 </programme>
-<programme start="20251226103000 +0000" stop="20251226122500 +0000" channel="DAZN 1 HD.skyde">
-    <title>Bundesliga: Borussia Dortmund - Borussia M&#039;gladbach</title>
-</programme>
-<programme start="20251226122500 +0000" stop="20251226130000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20251227105500 +0000" stop="20251227112500 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20251226130000 +0000" stop="20251226145500 +0000" channel="DAZN 1 HD.skyde">
-    <title>Bundesliga: Hamburger SV - Eintracht Frankfurt</title>
+<programme start="20251227112500 +0000" stop="20251227133500 +0000" channel="DAZN 1 HD.skyde">
+    <title>Serie A 25/26: Parma Calcio - AC Florenz</title>
 </programme>
-<programme start="20251226145500 +0000" stop="20251226152500 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20251227133500 +0000" stop="20251227135500 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20251226152500 +0000" stop="20251226155500 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20251227135500 +0000" stop="20251227161000 +0000" channel="DAZN 1 HD.skyde">
+    <title>Serie A 25/26: US Lecce - Como 1907</title>
+</programme>
+<programme start="20251227161000 +0000" stop="20251227164000 +0000" channel="DAZN 1 HD.skyde">
+    <title>DECODED: Amon-Ra St. Brown</title>
+</programme>
+<programme start="20251227164000 +0000" stop="20251227165500 +0000" channel="DAZN 1 HD.skyde">
+    <title>Best of DAZN: Highlights</title>
+</programme>
+<programme start="20251227165500 +0000" stop="20251227191000 +0000" channel="DAZN 1 HD.skyde">
+    <title>Serie A 25/26: Udinese Calcio - Lazio Rom</title>
+</programme>
+<programme start="20251227191000 +0000" stop="20251227194000 +0000" channel="DAZN 1 HD.skyde">
+    <title>Best of DAZN: Highlights</title>
+</programme>
+<programme start="20251227194000 +0000" stop="20251227215000 +0000" channel="DAZN 1 HD.skyde">
+    <title>Serie A 25/26: Pisa Sporting Club - Juventus Turin</title>
+</programme>
+<programme start="20251227215000 +0000" stop="20251227221000 +0000" channel="DAZN 1 HD.skyde">
+    <title>Let&#039;s go Ballin&#039;: Episode 1</title>
+</programme>
+<programme start="20251227221000 +0000" stop="20251227223500 +0000" channel="DAZN 1 HD.skyde">
+    <title>Let&#039;s go Ballin&#039;: Episode 2</title>
+</programme>
+<programme start="20251227223500 +0000" stop="20251227230500 +0000" channel="DAZN 1 HD.skyde">
     <title>Google Pixel Frauen-Bundesliga Highlightshow 2025/26: 14. Spieltag</title>
 </programme>
-<programme start="20251226155500 +0000" stop="20251226162000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Serie A Highlightshow: 16. Spieltag</title>
-</programme>
-<programme start="20251226162000 +0000" stop="20251226165000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Ligue 1 Highlightshow 2025/26: 16. Spieltag</title>
-</programme>
-<programme start="20251226165000 +0000" stop="20251226171500 +0000" channel="DAZN 1 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
-</programme>
-<programme start="20251226171500 +0000" stop="20251226192500 +0000" channel="DAZN 1 HD.skyde">
-    <title>Saudi Pro League 25/26: Al Hilal - Al Khaleej</title>
-</programme>
-<programme start="20251226192500 +0000" stop="20251226203500 +0000" channel="DAZN 1 HD.skyde">
-    <title>ALL IN - Die Bundesliga Highlight Show: 15. Spieltag</title>
-</programme>
-<programme start="20251226203500 +0000" stop="20251226211000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
-</programme>
-<programme start="20251226211000 +0000" stop="20251226230000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Bundesliga: 1. FC Heidenheim - FC Bayern München</title>
-</programme>
-<programme start="20251225230000 +0000" stop="20251226070000 +0000" channel="DAZN 2 HD.skyde">
+<programme start="20251226230000 +0000" stop="20251227070000 +0000" channel="DAZN 2 HD.skyde">
     <title>Sendepause</title>
 </programme>
-<programme start="20251226070000 +0000" stop="20251226073000 +0000" channel="DAZN 2 HD.skyde">
+<programme start="20251227070000 +0000" stop="20251227085000 +0000" channel="DAZN 2 HD.skyde">
+    <title>Bundesliga: RB Leipzig - Bayer 04 Leverkusen</title>
+</programme>
+<programme start="20251227085000 +0000" stop="20251227092500 +0000" channel="DAZN 2 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20251226073000 +0000" stop="20251226083000 +0000" channel="DAZN 2 HD.skyde">
-    <title>Darts Features: WM Viertelfinale l Clemens - Price</title>
-</programme>
-<programme start="20251226083000 +0000" stop="20251226085500 +0000" channel="DAZN 2 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
-</programme>
-<programme start="20251226085500 +0000" stop="20251226101500 +0000" channel="DAZN 2 HD.skyde">
-    <title>Darts Features: Halbfinale &amp; Finale Martin Schindler : Austrian Darts Open 2025</title>
-</programme>
-<programme start="20251226101500 +0000" stop="20251226105000 +0000" channel="DAZN 2 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
-</programme>
-<programme start="20251226105000 +0000" stop="20251226123000 +0000" channel="DAZN 2 HD.skyde">
-    <title>Darts Features: MvG&#039;s erster WM-Titel 2014</title>
-</programme>
-<programme start="20251226123000 +0000" stop="20251226124000 +0000" channel="DAZN 2 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
-</programme>
-<programme start="20251226124000 +0000" stop="20251226133000 +0000" channel="DAZN 2 HD.skyde">
-    <title>Darts Features: Legendäres Finale: Barney vs Taylor 2007</title>
-</programme>
-<programme start="20251226133000 +0000" stop="20251226140000 +0000" channel="DAZN 2 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
-</programme>
-<programme start="20251226140000 +0000" stop="20251226162000 +0000" channel="DAZN 2 HD.skyde">
-    <title>World Darts Championship: Finale</title>
-</programme>
-<programme start="20251226162000 +0000" stop="20251226165500 +0000" channel="DAZN 2 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
-</programme>
-<programme start="20251226165500 +0000" stop="20251226173000 +0000" channel="DAZN 2 HD.skyde">
-    <title>Darts Features: Club Profile 2022/2023</title>
-</programme>
-<programme start="20251226173000 +0000" stop="20251226180000 +0000" channel="DAZN 2 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
-</programme>
-<programme start="20251226180000 +0000" stop="20251226194000 +0000" channel="DAZN 2 HD.skyde">
+<programme start="20251227092500 +0000" stop="20251227110500 +0000" channel="DAZN 2 HD.skyde">
     <title>Hungarian Darts Trophy Non Live: VF, HF &amp; Finale - Niko Springer</title>
 </programme>
-<programme start="20251226194000 +0000" stop="20251226201000 +0000" channel="DAZN 2 HD.skyde">
+<programme start="20251227110500 +0000" stop="20251227113000 +0000" channel="DAZN 2 HD.skyde">
+    <title>Let&#039;s go Ballin&#039;: Episode 1</title>
+</programme>
+<programme start="20251227113000 +0000" stop="20251227115500 +0000" channel="DAZN 2 HD.skyde">
+    <title>Let&#039;s go Ballin&#039;: Episode 2</title>
+</programme>
+<programme start="20251227115500 +0000" stop="20251227123000 +0000" channel="DAZN 2 HD.skyde">
+    <title>DECODED: Amon-Ra St. Brown</title>
+</programme>
+<programme start="20251227123000 +0000" stop="20251227160500 +0000" channel="DAZN 2 HD.skyde">
+    <title>World Darts Championship: Tag 14 - Session 1</title>
+</programme>
+<programme start="20251227160500 +0000" stop="20251227163000 +0000" channel="DAZN 2 HD.skyde">
+    <title>Get Wild: 1. Episode</title>
+</programme>
+<programme start="20251227163000 +0000" stop="20251227165500 +0000" channel="DAZN 2 HD.skyde">
+    <title>Get Wild: 2. Episode</title>
+</programme>
+<programme start="20251227165500 +0000" stop="20251227171500 +0000" channel="DAZN 2 HD.skyde">
+    <title>Get Wild: 3. Episode</title>
+</programme>
+<programme start="20251227171500 +0000" stop="20251227192500 +0000" channel="DAZN 2 HD.skyde">
+    <title>Saudi Pro League 25/26: Al Ittihad - Al Shabab</title>
+</programme>
+<programme start="20251227192500 +0000" stop="20251227223000 +0000" channel="DAZN 2 HD.skyde">
+    <title>World Darts Championship: Tag 14 - Session 2</title>
+</programme>
+<programme start="20251227223000 +0000" stop="20251227230000 +0000" channel="DAZN 2 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20251226201000 +0000" stop="20251226223000 +0000" channel="DAZN 2 HD.skyde">
-    <title>Darts Features: Alle Spiele von Niko Springer</title>
+<programme start="20251226234500 +0000" stop="20251227010000 +0000" channel="Heimatkanal.skyde">
+    <title>An der Donau, wenn der Wein blüht</title>
 </programme>
-<programme start="20251226223000 +0000" stop="20251226230000 +0000" channel="DAZN 2 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
+<programme start="20251227010000 +0000" stop="20251227023000 +0000" channel="Heimatkanal.skyde">
+    <title>Ein Tag ist schöner als der andere</title>
 </programme>
-<programme start="20251226000500 +0000" stop="20251226013000 +0000" channel="Heimatkanal.skyde">
-    <title>Die singenden Engel von Tirol</title>
+<programme start="20251227023000 +0000" stop="20251227034000 +0000" channel="Heimatkanal.skyde">
+    <title>Das Gässchen zum Paradies</title>
 </programme>
-<programme start="20251226013000 +0000" stop="20251226025000 +0000" channel="Heimatkanal.skyde">
-    <title>Als ich beim Käthele im Walde war</title>
+<programme start="20251227034000 +0000" stop="20251227050500 +0000" channel="Heimatkanal.skyde">
+    <title>Der Himmel auf Erden</title>
 </programme>
-<programme start="20251226025000 +0000" stop="20251226041000 +0000" channel="Heimatkanal.skyde">
-    <title>Als ich noch der Waldbauernbub war</title>
+<programme start="20251227050500 +0000" stop="20251227053000 +0000" channel="Heimatkanal.skyde">
+    <title>Königlich Bayerisches Amtsgericht</title>
 </programme>
-<programme start="20251226041000 +0000" stop="20251226054500 +0000" channel="Heimatkanal.skyde">
-    <title>Der Gauner und der liebe Gott</title>
+<programme start="20251227053000 +0000" stop="20251227055500 +0000" channel="Heimatkanal.skyde">
+    <title>Königlich Bayerisches Amtsgericht</title>
 </programme>
-<programme start="20251226054500 +0000" stop="20251226071000 +0000" channel="Heimatkanal.skyde">
-    <title>Hotel Allotria</title>
+<programme start="20251227055500 +0000" stop="20251227062500 +0000" channel="Heimatkanal.skyde">
+    <title>Königlich Bayerisches Amtsgericht</title>
 </programme>
-<programme start="20251226071000 +0000" stop="20251226083500 +0000" channel="Heimatkanal.skyde">
-    <title>Der Vogelhändler</title>
+<programme start="20251227062500 +0000" stop="20251227065000 +0000" channel="Heimatkanal.skyde">
+    <title>Königlich Bayerisches Amtsgericht</title>
 </programme>
-<programme start="20251226083500 +0000" stop="20251226100500 +0000" channel="Heimatkanal.skyde">
-    <title>Immer die Radfahrer</title>
+<programme start="20251227065000 +0000" stop="20251227071500 +0000" channel="Heimatkanal.skyde">
+    <title>Königlich Bayerisches Amtsgericht</title>
 </programme>
-<programme start="20251226100500 +0000" stop="20251226113500 +0000" channel="Heimatkanal.skyde">
-    <title>Drei Mann in einem Boot</title>
+<programme start="20251227071500 +0000" stop="20251227074500 +0000" channel="Heimatkanal.skyde">
+    <title>Königlich Bayerisches Amtsgericht</title>
 </programme>
-<programme start="20251226113500 +0000" stop="20251226130000 +0000" channel="Heimatkanal.skyde">
-    <title>Mariandl</title>
+<programme start="20251227074500 +0000" stop="20251227081000 +0000" channel="Heimatkanal.skyde">
+    <title>Königlich Bayerisches Amtsgericht</title>
 </programme>
-<programme start="20251226130000 +0000" stop="20251226142500 +0000" channel="Heimatkanal.skyde">
-    <title>Mariandls Heimkehr</title>
+<programme start="20251227081000 +0000" stop="20251227083500 +0000" channel="Heimatkanal.skyde">
+    <title>Königlich Bayerisches Amtsgericht</title>
 </programme>
-<programme start="20251226142500 +0000" stop="20251226160500 +0000" channel="Heimatkanal.skyde">
-    <title>Im weißen Rössl</title>
+<programme start="20251227083500 +0000" stop="20251227090000 +0000" channel="Heimatkanal.skyde">
+    <title>Königlich Bayerisches Amtsgericht</title>
 </programme>
-<programme start="20251226160500 +0000" stop="20251226173500 +0000" channel="Heimatkanal.skyde">
-    <title>Ich denke oft an Piroschka</title>
+<programme start="20251227090000 +0000" stop="20251227092500 +0000" channel="Heimatkanal.skyde">
+    <title>Königlich Bayerisches Amtsgericht</title>
 </programme>
-<programme start="20251226173500 +0000" stop="20251226191500 +0000" channel="Heimatkanal.skyde">
-    <title>Das Wirtshaus im Spessart</title>
+<programme start="20251227092500 +0000" stop="20251227095000 +0000" channel="Heimatkanal.skyde">
+    <title>Königlich Bayerisches Amtsgericht</title>
 </programme>
-<programme start="20251226191500 +0000" stop="20251226204000 +0000" channel="Heimatkanal.skyde">
-    <title>Der Hauptmann von Köpenick</title>
+<programme start="20251227095000 +0000" stop="20251227102000 +0000" channel="Heimatkanal.skyde">
+    <title>Königlich Bayerisches Amtsgericht</title>
 </programme>
-<programme start="20251226204000 +0000" stop="20251226221500 +0000" channel="Heimatkanal.skyde">
-    <title>Die Abenteuer des Kardinal Braun</title>
+<programme start="20251227102000 +0000" stop="20251227104500 +0000" channel="Heimatkanal.skyde">
+    <title>Königlich Bayerisches Amtsgericht</title>
 </programme>
-<programme start="20251226221500 +0000" stop="20251226234500 +0000" channel="Heimatkanal.skyde">
-    <title>Mein Schulfreund</title>
+<programme start="20251227104500 +0000" stop="20251227111000 +0000" channel="Heimatkanal.skyde">
+    <title>Königlich Bayerisches Amtsgericht</title>
 </programme>
-<programme start="20251226002500 +0000" stop="20251226011000 +0000" channel="HISTORY Channel HD.skyde">
+<programme start="20251227111000 +0000" stop="20251227114000 +0000" channel="Heimatkanal.skyde">
+    <title>Königlich Bayerisches Amtsgericht</title>
+</programme>
+<programme start="20251227114000 +0000" stop="20251227120500 +0000" channel="Heimatkanal.skyde">
+    <title>Königlich Bayerisches Amtsgericht</title>
+</programme>
+<programme start="20251227120500 +0000" stop="20251227123000 +0000" channel="Heimatkanal.skyde">
+    <title>Königlich Bayerisches Amtsgericht</title>
+</programme>
+<programme start="20251227123000 +0000" stop="20251227130000 +0000" channel="Heimatkanal.skyde">
+    <title>Königlich Bayerisches Amtsgericht</title>
+</programme>
+<programme start="20251227130000 +0000" stop="20251227132500 +0000" channel="Heimatkanal.skyde">
+    <title>Königlich Bayerisches Amtsgericht</title>
+</programme>
+<programme start="20251227132500 +0000" stop="20251227135000 +0000" channel="Heimatkanal.skyde">
+    <title>Königlich Bayerisches Amtsgericht</title>
+</programme>
+<programme start="20251227135000 +0000" stop="20251227142000 +0000" channel="Heimatkanal.skyde">
+    <title>Königlich Bayerisches Amtsgericht</title>
+</programme>
+<programme start="20251227142000 +0000" stop="20251227144500 +0000" channel="Heimatkanal.skyde">
+    <title>Königlich Bayerisches Amtsgericht</title>
+</programme>
+<programme start="20251227144500 +0000" stop="20251227151000 +0000" channel="Heimatkanal.skyde">
+    <title>Königlich Bayerisches Amtsgericht</title>
+</programme>
+<programme start="20251227151000 +0000" stop="20251227154000 +0000" channel="Heimatkanal.skyde">
+    <title>Königlich Bayerisches Amtsgericht</title>
+</programme>
+<programme start="20251227154000 +0000" stop="20251227160500 +0000" channel="Heimatkanal.skyde">
+    <title>Königlich Bayerisches Amtsgericht</title>
+</programme>
+<programme start="20251227160500 +0000" stop="20251227163000 +0000" channel="Heimatkanal.skyde">
+    <title>Königlich Bayerisches Amtsgericht</title>
+</programme>
+<programme start="20251227163000 +0000" stop="20251227170000 +0000" channel="Heimatkanal.skyde">
+    <title>Königlich Bayerisches Amtsgericht</title>
+</programme>
+<programme start="20251227170000 +0000" stop="20251227172500 +0000" channel="Heimatkanal.skyde">
+    <title>Königlich Bayerisches Amtsgericht</title>
+</programme>
+<programme start="20251227172500 +0000" stop="20251227175000 +0000" channel="Heimatkanal.skyde">
+    <title>Königlich Bayerisches Amtsgericht</title>
+</programme>
+<programme start="20251227175000 +0000" stop="20251227182000 +0000" channel="Heimatkanal.skyde">
+    <title>Königlich Bayerisches Amtsgericht</title>
+</programme>
+<programme start="20251227182000 +0000" stop="20251227184500 +0000" channel="Heimatkanal.skyde">
+    <title>Königlich Bayerisches Amtsgericht</title>
+</programme>
+<programme start="20251227184500 +0000" stop="20251227191500 +0000" channel="Heimatkanal.skyde">
+    <title>Königlich Bayerisches Amtsgericht</title>
+</programme>
+<programme start="20251227191500 +0000" stop="20251227204500 +0000" channel="Heimatkanal.skyde">
+    <title>Jetzt schlägt&#039;s 13</title>
+</programme>
+<programme start="20251227204500 +0000" stop="20251227223000 +0000" channel="Heimatkanal.skyde">
+    <title>Die Deutschmeister</title>
+</programme>
+<programme start="20251227223000 +0000" stop="20251228000000 +0000" channel="Heimatkanal.skyde">
+    <title>Fanfaren der Liebe</title>
+</programme>
+<programme start="20251227002500 +0000" stop="20251227011000 +0000" channel="HISTORY Channel HD.skyde">
     <title>Legendäre Pharaonen</title>
 </programme>
-<programme start="20251226011000 +0000" stop="20251226015500 +0000" channel="HISTORY Channel HD.skyde">
+<programme start="20251227011000 +0000" stop="20251227015500 +0000" channel="HISTORY Channel HD.skyde">
     <title>Legendäre Pharaonen</title>
 </programme>
-<programme start="20251226015500 +0000" stop="20251226024000 +0000" channel="HISTORY Channel HD.skyde">
+<programme start="20251227015500 +0000" stop="20251227024000 +0000" channel="HISTORY Channel HD.skyde">
     <title>Legendäre Pharaonen</title>
 </programme>
-<programme start="20251226024000 +0000" stop="20251226032500 +0000" channel="HISTORY Channel HD.skyde">
+<programme start="20251227024000 +0000" stop="20251227032500 +0000" channel="HISTORY Channel HD.skyde">
     <title>Legendäre Pharaonen</title>
 </programme>
-<programme start="20251226032500 +0000" stop="20251226052000 +0000" channel="HISTORY Channel HD.skyde">
+<programme start="20251227032500 +0000" stop="20251227052000 +0000" channel="HISTORY Channel HD.skyde">
     <title>Imperien der Antike</title>
 </programme>
-<programme start="20251226052000 +0000" stop="20251226070000 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Imperien der Antike</title>
+<programme start="20251227052000 +0000" stop="20251227061000 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Terra X: Ein Moment in der Geschichte</title>
 </programme>
-<programme start="20251226070000 +0000" stop="20251226080000 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Das U-Boot</title>
+<programme start="20251227061000 +0000" stop="20251227070000 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Terra X: Ein Moment in der Geschichte</title>
 </programme>
-<programme start="20251226080000 +0000" stop="20251226090000 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Das U-Boot</title>
+<programme start="20251227070000 +0000" stop="20251227075500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Lost Places - Geheime Welten</title>
 </programme>
-<programme start="20251226090000 +0000" stop="20251226100000 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Terra X: Unsere Kontinente</title>
+<programme start="20251227075500 +0000" stop="20251227085500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Lost Places - Geheime Welten</title>
 </programme>
-<programme start="20251226100000 +0000" stop="20251226110000 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Terra X: Unsere Kontinente</title>
+<programme start="20251227085500 +0000" stop="20251227095500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Lost Places - Geheime Welten</title>
 </programme>
-<programme start="20251226110000 +0000" stop="20251226115500 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Terra X: Unsere Kontinente</title>
+<programme start="20251227095500 +0000" stop="20251227105500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Lost Places - Geheime Welten</title>
 </programme>
-<programme start="20251226115500 +0000" stop="20251226125000 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Terra X: Unsere Kontinente</title>
+<programme start="20251227105500 +0000" stop="20251227114500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Britanniens Mythen und Legenden</title>
 </programme>
-<programme start="20251226125000 +0000" stop="20251226135000 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Terra X: Unsere Kontinente</title>
+<programme start="20251227114500 +0000" stop="20251227123500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Britanniens Mythen und Legenden</title>
 </programme>
-<programme start="20251226135000 +0000" stop="20251226144500 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Terra X: Unsere Kontinente</title>
+<programme start="20251227123500 +0000" stop="20251227132500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Britanniens Mythen und Legenden</title>
 </programme>
-<programme start="20251226144500 +0000" stop="20251226153000 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Wunder und Heiligtümer mit Dennis Quaid</title>
+<programme start="20251227132500 +0000" stop="20251227141500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Britanniens Mythen und Legenden</title>
 </programme>
-<programme start="20251226153000 +0000" stop="20251226161500 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Wunder und Heiligtümer mit Dennis Quaid</title>
+<programme start="20251227141500 +0000" stop="20251227150500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Entscheidung auf dem Schlachtfeld</title>
 </programme>
-<programme start="20251226161500 +0000" stop="20251226170000 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Wunder und Heiligtümer mit Dennis Quaid</title>
+<programme start="20251227150500 +0000" stop="20251227155500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Entscheidung auf dem Schlachtfeld</title>
 </programme>
-<programme start="20251226170000 +0000" stop="20251226174500 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Wunder und Heiligtümer mit Dennis Quaid</title>
+<programme start="20251227155500 +0000" stop="20251227164500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Entscheidung auf dem Schlachtfeld</title>
 </programme>
-<programme start="20251226174500 +0000" stop="20251226183000 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Wunder und Heiligtümer mit Dennis Quaid</title>
+<programme start="20251227164500 +0000" stop="20251227173500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Entscheidung auf dem Schlachtfeld</title>
 </programme>
-<programme start="20251226183000 +0000" stop="20251226191500 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Wunder und Heiligtümer mit Dennis Quaid</title>
+<programme start="20251227173500 +0000" stop="20251227182500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Geheime Bunker</title>
 </programme>
-<programme start="20251226191500 +0000" stop="20251226200500 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Legendäre Pharaonen</title>
+<programme start="20251227182500 +0000" stop="20251227191500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Geheime Bunker</title>
 </programme>
-<programme start="20251226200500 +0000" stop="20251226205500 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Legendäre Pharaonen</title>
+<programme start="20251227191500 +0000" stop="20251227200000 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Secrets Declassified mit David Duchovny</title>
 </programme>
-<programme start="20251226205500 +0000" stop="20251226214500 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Legendäre Pharaonen</title>
+<programme start="20251227200000 +0000" stop="20251227204500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Secrets Declassified mit David Duchovny</title>
 </programme>
-<programme start="20251226214500 +0000" stop="20251226223500 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Legendäre Pharaonen</title>
+<programme start="20251227204500 +0000" stop="20251227213000 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Secrets Declassified mit David Duchovny</title>
 </programme>
-<programme start="20251226223500 +0000" stop="20251227002500 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Imperien der Antike</title>
+<programme start="20251227213000 +0000" stop="20251227221500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Secrets Declassified mit David Duchovny</title>
 </programme>
-<programme start="20251225230000 +0000" stop="20251226010000 +0000" channel="Jukebox.skyde">
-    <title>BACK TO ... 2016</title>
+<programme start="20251227221500 +0000" stop="20251227230000 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Secrets Declassified mit David Duchovny</title>
 </programme>
-<programme start="20251226010000 +0000" stop="20251226020000 +0000" channel="Jukebox.skyde">
-    <title>RAP</title>
-</programme>
-<programme start="20251226020000 +0000" stop="20251226050000 +0000" channel="Jukebox.skyde">
-    <title>NIGHTSHIFT</title>
-</programme>
-<programme start="20251226050000 +0000" stop="20251226110000 +0000" channel="Jukebox.skyde">
-    <title>MORNING GLORY</title>
-</programme>
-<programme start="20251226110000 +0000" stop="20251226150000 +0000" channel="Jukebox.skyde">
-    <title>JUKEBOX TRENDS</title>
-</programme>
-<programme start="20251226150000 +0000" stop="20251226190000 +0000" channel="Jukebox.skyde">
-    <title>JUKEBOX TOP 50 MIX</title>
-</programme>
-<programme start="20251226190000 +0000" stop="20251226230000 +0000" channel="Jukebox.skyde">
+<programme start="20251226230000 +0000" stop="20251227010000 +0000" channel="Jukebox.skyde">
     <title>JUKEBOX DANCE</title>
 </programme>
-<programme start="20251225233500 +0000" stop="20251226000000 +0000" channel="Motorvision+.skyde">
-    <title>Classic</title>
+<programme start="20251227010000 +0000" stop="20251227020000 +0000" channel="Jukebox.skyde">
+    <title>BACK TO ... DANCE</title>
 </programme>
-<programme start="20251226000000 +0000" stop="20251226003000 +0000" channel="Motorvision+.skyde">
+<programme start="20251227020000 +0000" stop="20251227050000 +0000" channel="Jukebox.skyde">
+    <title>NIGHTSHIFT</title>
+</programme>
+<programme start="20251227050000 +0000" stop="20251227110000 +0000" channel="Jukebox.skyde">
+    <title>MORNING GLORY</title>
+</programme>
+<programme start="20251227110000 +0000" stop="20251227150000 +0000" channel="Jukebox.skyde">
+    <title>JUKEBOX TRENDS</title>
+</programme>
+<programme start="20251227150000 +0000" stop="20251227170000 +0000" channel="Jukebox.skyde">
+    <title>JUKEBOX NEWS</title>
+</programme>
+<programme start="20251227170000 +0000" stop="20251227190000 +0000" channel="Jukebox.skyde">
+    <title>JUKEBOX TOP 50 MIX</title>
+</programme>
+<programme start="20251227190000 +0000" stop="20251227230000 +0000" channel="Jukebox.skyde">
+    <title>PARTY BOX</title>
+</programme>
+<programme start="20251226232000 +0000" stop="20251227000000 +0000" channel="Motorvision+.skyde">
+    <title>Gearing Up 2023</title>
+</programme>
+<programme start="20251227000000 +0000" stop="20251227003000 +0000" channel="Motorvision+.skyde">
     <title>Infomercial</title>
 </programme>
-<programme start="20251226003000 +0000" stop="20251226010000 +0000" channel="Motorvision+.skyde">
+<programme start="20251227003000 +0000" stop="20251227010000 +0000" channel="Motorvision+.skyde">
     <title>Infomercial</title>
 </programme>
-<programme start="20251226010000 +0000" stop="20251226013000 +0000" channel="Motorvision+.skyde">
+<programme start="20251227010000 +0000" stop="20251227013000 +0000" channel="Motorvision+.skyde">
     <title>Infomercial</title>
 </programme>
-<programme start="20251226013000 +0000" stop="20251226020500 +0000" channel="Motorvision+.skyde">
+<programme start="20251227013000 +0000" stop="20251227020000 +0000" channel="Motorvision+.skyde">
     <title>Infomercial</title>
 </programme>
-<programme start="20251226020500 +0000" stop="20251226024000 +0000" channel="Motorvision+.skyde">
+<programme start="20251227020000 +0000" stop="20251227022500 +0000" channel="Motorvision+.skyde">
+    <title>Super Cars</title>
+</programme>
+<programme start="20251227022500 +0000" stop="20251227024500 +0000" channel="Motorvision+.skyde">
     <title>Top Speed Classic</title>
 </programme>
-<programme start="20251226024000 +0000" stop="20251226031000 +0000" channel="Motorvision+.skyde">
-    <title>Gearing Up 2024</title>
+<programme start="20251227024500 +0000" stop="20251227031500 +0000" channel="Motorvision+.skyde">
+    <title>Gearing Up 2023</title>
 </programme>
-<programme start="20251226031000 +0000" stop="20251226033500 +0000" channel="Motorvision+.skyde">
+<programme start="20251227031500 +0000" stop="20251227034000 +0000" channel="Motorvision+.skyde">
     <title>FIM World Motocross Championship 2023</title>
 </programme>
-<programme start="20251226033500 +0000" stop="20251226040500 +0000" channel="Motorvision+.skyde">
+<programme start="20251227034000 +0000" stop="20251227041000 +0000" channel="Motorvision+.skyde">
     <title>FastZone 2024</title>
 </programme>
-<programme start="20251226040500 +0000" stop="20251226043000 +0000" channel="Motorvision+.skyde">
+<programme start="20251227041000 +0000" stop="20251227043500 +0000" channel="Motorvision+.skyde">
     <title>Icelandic Formula Offroad 2024</title>
 </programme>
-<programme start="20251226043000 +0000" stop="20251226050000 +0000" channel="Motorvision+.skyde">
+<programme start="20251227043500 +0000" stop="20251227050000 +0000" channel="Motorvision+.skyde">
     <title>Car History</title>
 </programme>
-<programme start="20251226050000 +0000" stop="20251226055500 +0000" channel="Motorvision+.skyde">
-    <title>Report</title>
+<programme start="20251227050000 +0000" stop="20251227053500 +0000" channel="Motorvision+.skyde">
+    <title>Alpen Marathon</title>
 </programme>
-<programme start="20251226055500 +0000" stop="20251226062500 +0000" channel="Motorvision+.skyde">
-    <title>Abenteuer Allrad</title>
-</programme>
-<programme start="20251226062500 +0000" stop="20251226065000 +0000" channel="Motorvision+.skyde">
+<programme start="20251227053500 +0000" stop="20251227060500 +0000" channel="Motorvision+.skyde">
     <title>Bike World 2024</title>
 </programme>
-<programme start="20251226065000 +0000" stop="20251226074500 +0000" channel="Motorvision+.skyde">
-    <title>Australian Motocross Championship 2023</title>
-</programme>
-<programme start="20251226074500 +0000" stop="20251226081000 +0000" channel="Motorvision+.skyde">
-    <title>Biker Lifestyle</title>
-</programme>
-<programme start="20251226081000 +0000" stop="20251226084000 +0000" channel="Motorvision+.skyde">
-    <title>Classic</title>
-</programme>
-<programme start="20251226084000 +0000" stop="20251226090500 +0000" channel="Motorvision+.skyde">
-    <title>Classic Ride</title>
-</programme>
-<programme start="20251226090500 +0000" stop="20251226093500 +0000" channel="Motorvision+.skyde">
-    <title>Crash</title>
-</programme>
-<programme start="20251226093500 +0000" stop="20251226100000 +0000" channel="Motorvision+.skyde">
-    <title>Made in....</title>
-</programme>
-<programme start="20251226100000 +0000" stop="20251226102500 +0000" channel="Motorvision+.skyde">
-    <title>Top Speed Classic</title>
-</programme>
-<programme start="20251226102500 +0000" stop="20251226105500 +0000" channel="Motorvision+.skyde">
-    <title>Car History</title>
-</programme>
-<programme start="20251226105500 +0000" stop="20251226112500 +0000" channel="Motorvision+.skyde">
-    <title>FastZone 2024</title>
-</programme>
-<programme start="20251226112500 +0000" stop="20251226115500 +0000" channel="Motorvision+.skyde">
-    <title>FIM World Motocross Championship 2024</title>
-</programme>
-<programme start="20251226115500 +0000" stop="20251226122000 +0000" channel="Motorvision+.skyde">
+<programme start="20251227060500 +0000" stop="20251227063500 +0000" channel="Motorvision+.skyde">
     <title>Perfect Ride</title>
 </programme>
-<programme start="20251226122000 +0000" stop="20251226125000 +0000" channel="Motorvision+.skyde">
-    <title>Stunt Heroes</title>
+<programme start="20251227063500 +0000" stop="20251227070500 +0000" channel="Motorvision+.skyde">
+    <title>Super Cars</title>
 </programme>
-<programme start="20251226125000 +0000" stop="20251226131500 +0000" channel="Motorvision+.skyde">
-    <title>Dream Cars</title>
+<programme start="20251227070500 +0000" stop="20251227075500 +0000" channel="Motorvision+.skyde">
+    <title>Australian Boat Racing 2025</title>
 </programme>
-<programme start="20251226131500 +0000" stop="20251226134500 +0000" channel="Motorvision+.skyde">
-    <title>Gearing Up 2024</title>
+<programme start="20251227075500 +0000" stop="20251227084500 +0000" channel="Motorvision+.skyde">
+    <title>Australian Circuit Boat Racing 2024</title>
 </programme>
-<programme start="20251226134500 +0000" stop="20251226141500 +0000" channel="Motorvision+.skyde">
-    <title>Grüne Welle</title>
+<programme start="20251227084500 +0000" stop="20251227091500 +0000" channel="Motorvision+.skyde">
+    <title>P1 Class 1 Offshore Championship 2024</title>
 </programme>
-<programme start="20251226141500 +0000" stop="20251226150000 +0000" channel="Motorvision+.skyde">
-    <title>Australian Drag Racing Championship 2023</title>
+<programme start="20251227091500 +0000" stop="20251227094000 +0000" channel="Motorvision+.skyde">
+    <title>P1 Offshore Championship 2024</title>
 </programme>
-<programme start="20251226150000 +0000" stop="20251226152500 +0000" channel="Motorvision+.skyde">
-    <title>Top Speed Classic</title>
+<programme start="20251227094000 +0000" stop="20251227101500 +0000" channel="Motorvision+.skyde">
+    <title>FIM Enduro World Championship 2025</title>
 </programme>
-<programme start="20251226152500 +0000" stop="20251226155500 +0000" channel="Motorvision+.skyde">
-    <title>Tour European Rally Historic 2024</title>
+<programme start="20251227101500 +0000" stop="20251227110500 +0000" channel="Motorvision+.skyde">
+    <title>Isle of Man Tourist Trophy 2025</title>
 </programme>
-<programme start="20251226155500 +0000" stop="20251226162000 +0000" channel="Motorvision+.skyde">
-    <title>Top Speed Classic</title>
+<programme start="20251227110500 +0000" stop="20251227120500 +0000" channel="Motorvision+.skyde">
+    <title>FIM X-Trial World Championship 2025</title>
 </programme>
-<programme start="20251226162000 +0000" stop="20251226165000 +0000" channel="Motorvision+.skyde">
-    <title>Top Speed Classic</title>
+<programme start="20251227120500 +0000" stop="20251227125500 +0000" channel="Motorvision+.skyde">
+    <title>FIM Sidecarcross World Championship 2024</title>
 </programme>
-<programme start="20251226165000 +0000" stop="20251226171500 +0000" channel="Motorvision+.skyde">
-    <title>Classic Ride</title>
+<programme start="20251227125500 +0000" stop="20251227132500 +0000" channel="Motorvision+.skyde">
+    <title>FIM Superenduro World Championship 2024</title>
 </programme>
-<programme start="20251226171500 +0000" stop="20251226174500 +0000" channel="Motorvision+.skyde">
-    <title>Car History</title>
+<programme start="20251227132500 +0000" stop="20251227142000 +0000" channel="Motorvision+.skyde">
+    <title>Australian Superbike Championship 2024</title>
 </programme>
-<programme start="20251226174500 +0000" stop="20251226181500 +0000" channel="Motorvision+.skyde">
-    <title>Classic Races</title>
+<programme start="20251227142000 +0000" stop="20251227145000 +0000" channel="Motorvision+.skyde">
+    <title>P1 AquaX Championship 2024</title>
 </programme>
-<programme start="20251226181500 +0000" stop="20251226190000 +0000" channel="Motorvision+.skyde">
-    <title>Pikes Peak International Hill Climb 2024</title>
+<programme start="20251227145000 +0000" stop="20251227152000 +0000" channel="Motorvision+.skyde">
+    <title>UIM F1H2O World Powerboat Championship 2024</title>
 </programme>
-<programme start="20251226190000 +0000" stop="20251226195500 +0000" channel="Motorvision+.skyde">
-    <title>Australian Motocross Championship 2023</title>
-</programme>
-<programme start="20251226195500 +0000" stop="20251226204000 +0000" channel="Motorvision+.skyde">
+<programme start="20251227152000 +0000" stop="20251227160500 +0000" channel="Motorvision+.skyde">
     <title>Australian Drag Racing Championship 2024</title>
 </programme>
-<programme start="20251226204000 +0000" stop="20251226211000 +0000" channel="Motorvision+.skyde">
+<programme start="20251227160500 +0000" stop="20251227163500 +0000" channel="Motorvision+.skyde">
     <title>All Wheel Drive Safari Challenge 2025</title>
 </programme>
-<programme start="20251226211000 +0000" stop="20251226213500 +0000" channel="Motorvision+.skyde">
-    <title>EMX Quad European Championship 2024</title>
-</programme>
-<programme start="20251226213500 +0000" stop="20251226220000 +0000" channel="Motorvision+.skyde">
+<programme start="20251227163500 +0000" stop="20251227170500 +0000" channel="Motorvision+.skyde">
     <title>US Pro Pulling 2023</title>
 </programme>
-<programme start="20251226220000 +0000" stop="20251226222500 +0000" channel="Motorvision+.skyde">
+<programme start="20251227170500 +0000" stop="20251227173500 +0000" channel="Motorvision+.skyde">
     <title>Icelandic Formula Offroad 2025</title>
 </programme>
-<programme start="20251226222500 +0000" stop="20251226232000 +0000" channel="Motorvision+.skyde">
+<programme start="20251227173500 +0000" stop="20251227180500 +0000" channel="Motorvision+.skyde">
+    <title>EMX Quad European Championship 2024</title>
+</programme>
+<programme start="20251227180500 +0000" stop="20251227190000 +0000" channel="Motorvision+.skyde">
     <title>UK National Legends Cars Championship 2024</title>
 </programme>
-<programme start="20251225230500 +0000" stop="20251225233000 +0000" channel="Nick Jr..skyde">
+<programme start="20251227190000 +0000" stop="20251227195500 +0000" channel="Motorvision+.skyde">
+    <title>World Rally Raid Championship 2024</title>
+</programme>
+<programme start="20251227195500 +0000" stop="20251227204500 +0000" channel="Motorvision+.skyde">
+    <title>BTRDA Rallycross 2025</title>
+</programme>
+<programme start="20251227204500 +0000" stop="20251227211500 +0000" channel="Motorvision+.skyde">
+    <title>Tour European Rally 2025</title>
+</programme>
+<programme start="20251227211500 +0000" stop="20251227214000 +0000" channel="Motorvision+.skyde">
+    <title>Africa Eco Race 2025</title>
+</programme>
+<programme start="20251227214000 +0000" stop="20251227223500 +0000" channel="Motorvision+.skyde">
+    <title>British Rally Championship 2025</title>
+</programme>
+<programme start="20251227223500 +0000" stop="20251227230500 +0000" channel="Motorvision+.skyde">
+    <title>Belgian Rally Championship 2025</title>
+</programme>
+<programme start="20251226230500 +0000" stop="20251226233000 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20251225233000 +0000" stop="20251225235500 +0000" channel="Nick Jr..skyde">
+<programme start="20251226233000 +0000" stop="20251226235500 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20251225235500 +0000" stop="20251226001500 +0000" channel="Nick Jr..skyde">
+<programme start="20251226235500 +0000" stop="20251227001500 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20251226001500 +0000" stop="20251226004000 +0000" channel="Nick Jr..skyde">
+<programme start="20251227001500 +0000" stop="20251227002500 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20251226004000 +0000" stop="20251226010500 +0000" channel="Nick Jr..skyde">
+<programme start="20251227002500 +0000" stop="20251227005000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20251226010500 +0000" stop="20251226013000 +0000" channel="Nick Jr..skyde">
+<programme start="20251227005000 +0000" stop="20251227010500 +0000" channel="Nick Jr..skyde">
+    <title>BARBAPAPA und Familie</title>
+</programme>
+<programme start="20251227010500 +0000" stop="20251227013000 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
-<programme start="20251226013000 +0000" stop="20251226015000 +0000" channel="Nick Jr..skyde">
+<programme start="20251227013000 +0000" stop="20251227015000 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20251226015000 +0000" stop="20251226020000 +0000" channel="Nick Jr..skyde">
+<programme start="20251227015000 +0000" stop="20251227020000 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20251226020000 +0000" stop="20251226022500 +0000" channel="Nick Jr..skyde">
+<programme start="20251227020000 +0000" stop="20251227022500 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
 </programme>
-<programme start="20251226022500 +0000" stop="20251226025000 +0000" channel="Nick Jr..skyde">
+<programme start="20251227022500 +0000" stop="20251227025000 +0000" channel="Nick Jr..skyde">
     <title>Blaze und die Monster-Maschinen</title>
 </programme>
-<programme start="20251226025000 +0000" stop="20251226031500 +0000" channel="Nick Jr..skyde">
+<programme start="20251227025000 +0000" stop="20251227031000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20251226031500 +0000" stop="20251226034000 +0000" channel="Nick Jr..skyde">
-    <title>Paw Patrol: Helfer auf vier Pfoten</title>
+<programme start="20251227031000 +0000" stop="20251227033500 +0000" channel="Nick Jr..skyde">
+    <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20251226034000 +0000" stop="20251226040500 +0000" channel="Nick Jr..skyde">
-    <title>Paw Patrol: Helfer auf vier Pfoten</title>
-</programme>
-<programme start="20251226040500 +0000" stop="20251226043000 +0000" channel="Nick Jr..skyde">
+<programme start="20251227033500 +0000" stop="20251227035500 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
-<programme start="20251226043000 +0000" stop="20251226044000 +0000" channel="Nick Jr..skyde">
-    <title>Rubble &amp; Crew</title>
-</programme>
-<programme start="20251226044000 +0000" stop="20251226050000 +0000" channel="Nick Jr..skyde">
-    <title>Rubble &amp; Crew</title>
-</programme>
-<programme start="20251226050000 +0000" stop="20251226052500 +0000" channel="Nick Jr..skyde">
-    <title>Blaze und die Monster-Maschinen</title>
-</programme>
-<programme start="20251226052500 +0000" stop="20251226054500 +0000" channel="Nick Jr..skyde">
-    <title>Blaze und die Monster-Maschinen</title>
-</programme>
-<programme start="20251226054500 +0000" stop="20251226061000 +0000" channel="Nick Jr..skyde">
-    <title>Rubble &amp; Crew</title>
-</programme>
-<programme start="20251226061000 +0000" stop="20251226063500 +0000" channel="Nick Jr..skyde">
-    <title>Rubble &amp; Crew</title>
-</programme>
-<programme start="20251226063500 +0000" stop="20251226064500 +0000" channel="Nick Jr..skyde">
-    <title>Rubble &amp; Crew</title>
-</programme>
-<programme start="20251226064500 +0000" stop="20251226071000 +0000" channel="Nick Jr..skyde">
+<programme start="20251227035500 +0000" stop="20251227042000 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20251226071000 +0000" stop="20251226073500 +0000" channel="Nick Jr..skyde">
+<programme start="20251227042000 +0000" stop="20251227043500 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20251226073500 +0000" stop="20251226074500 +0000" channel="Nick Jr..skyde">
+<programme start="20251227043500 +0000" stop="20251227050000 +0000" channel="Nick Jr..skyde">
+    <title>Rubble &amp; Crew</title>
+</programme>
+<programme start="20251227050000 +0000" stop="20251227052500 +0000" channel="Nick Jr..skyde">
+    <title>Blaze und die Monster-Maschinen</title>
+</programme>
+<programme start="20251227052500 +0000" stop="20251227054500 +0000" channel="Nick Jr..skyde">
+    <title>Blaze und die Monster-Maschinen</title>
+</programme>
+<programme start="20251227054500 +0000" stop="20251227061000 +0000" channel="Nick Jr..skyde">
+    <title>Rubble &amp; Crew</title>
+</programme>
+<programme start="20251227061000 +0000" stop="20251227063500 +0000" channel="Nick Jr..skyde">
+    <title>Rubble &amp; Crew</title>
+</programme>
+<programme start="20251227063500 +0000" stop="20251227070000 +0000" channel="Nick Jr..skyde">
+    <title>Paw Patrol: Helfer auf vier Pfoten</title>
+</programme>
+<programme start="20251227070000 +0000" stop="20251227072000 +0000" channel="Nick Jr..skyde">
+    <title>Paw Patrol: Helfer auf vier Pfoten</title>
+</programme>
+<programme start="20251227072000 +0000" stop="20251227074500 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20251226074500 +0000" stop="20251226081000 +0000" channel="Nick Jr..skyde">
+<programme start="20251227074500 +0000" stop="20251227081000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20251226081000 +0000" stop="20251226083000 +0000" channel="Nick Jr..skyde">
+<programme start="20251227081000 +0000" stop="20251227083000 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
-<programme start="20251226083000 +0000" stop="20251226085500 +0000" channel="Nick Jr..skyde">
+<programme start="20251227083000 +0000" stop="20251227085500 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
 </programme>
-<programme start="20251226085500 +0000" stop="20251226092000 +0000" channel="Nick Jr..skyde">
+<programme start="20251227085500 +0000" stop="20251227092000 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
 </programme>
-<programme start="20251226092000 +0000" stop="20251226094000 +0000" channel="Nick Jr..skyde">
+<programme start="20251227092000 +0000" stop="20251227094000 +0000" channel="Nick Jr..skyde">
     <title>Baby Sharks große Show</title>
 </programme>
-<programme start="20251226094000 +0000" stop="20251226094500 +0000" channel="Nick Jr..skyde">
+<programme start="20251227094000 +0000" stop="20251227094500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20251226094500 +0000" stop="20251226095000 +0000" channel="Nick Jr..skyde">
+<programme start="20251227094500 +0000" stop="20251227095000 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20251226095000 +0000" stop="20251226095500 +0000" channel="Nick Jr..skyde">
+<programme start="20251227095000 +0000" stop="20251227095500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20251226095500 +0000" stop="20251226100500 +0000" channel="Nick Jr..skyde">
+<programme start="20251227095500 +0000" stop="20251227100500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20251226100500 +0000" stop="20251226101000 +0000" channel="Nick Jr..skyde">
+<programme start="20251227100500 +0000" stop="20251227101000 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20251226101000 +0000" stop="20251226101500 +0000" channel="Nick Jr..skyde">
+<programme start="20251227101000 +0000" stop="20251227101100 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20251226101500 +0000" stop="20251226102000 +0000" channel="Nick Jr..skyde">
+<programme start="20251227101100 +0000" stop="20251227102000 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20251226102000 +0000" stop="20251226104000 +0000" channel="Nick Jr..skyde">
+<programme start="20251227102000 +0000" stop="20251227104000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20251226104000 +0000" stop="20251226110500 +0000" channel="Nick Jr..skyde">
+<programme start="20251227104000 +0000" stop="20251227110500 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20251226110500 +0000" stop="20251226113000 +0000" channel="Nick Jr..skyde">
+<programme start="20251227110500 +0000" stop="20251227113000 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20251226113000 +0000" stop="20251226115500 +0000" channel="Nick Jr..skyde">
+<programme start="20251227113000 +0000" stop="20251227115000 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20251226115500 +0000" stop="20251226122000 +0000" channel="Nick Jr..skyde">
+<programme start="20251227115000 +0000" stop="20251227121500 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20251226122000 +0000" stop="20251226124000 +0000" channel="Nick Jr..skyde">
+<programme start="20251227121500 +0000" stop="20251227122500 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20251226124000 +0000" stop="20251226130500 +0000" channel="Nick Jr..skyde">
+<programme start="20251227122500 +0000" stop="20251227125000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20251226130500 +0000" stop="20251226133000 +0000" channel="Nick Jr..skyde">
+<programme start="20251227125000 +0000" stop="20251227130500 +0000" channel="Nick Jr..skyde">
+    <title>BARBAPAPA und Familie</title>
+</programme>
+<programme start="20251227130500 +0000" stop="20251227133000 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
-<programme start="20251226133000 +0000" stop="20251226135000 +0000" channel="Nick Jr..skyde">
+<programme start="20251227133000 +0000" stop="20251227135000 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20251226135000 +0000" stop="20251226140000 +0000" channel="Nick Jr..skyde">
+<programme start="20251227135000 +0000" stop="20251227140000 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20251226140000 +0000" stop="20251226142500 +0000" channel="Nick Jr..skyde">
+<programme start="20251227140000 +0000" stop="20251227142500 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
 </programme>
-<programme start="20251226142500 +0000" stop="20251226145000 +0000" channel="Nick Jr..skyde">
+<programme start="20251227142500 +0000" stop="20251227144500 +0000" channel="Nick Jr..skyde">
     <title>Blaze und die Monster-Maschinen</title>
 </programme>
-<programme start="20251226145000 +0000" stop="20251226151500 +0000" channel="Nick Jr..skyde">
+<programme start="20251227144500 +0000" stop="20251227151000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20251226151500 +0000" stop="20251226154000 +0000" channel="Nick Jr..skyde">
-    <title>Paw Patrol: Helfer auf vier Pfoten</title>
+<programme start="20251227151000 +0000" stop="20251227153000 +0000" channel="Nick Jr..skyde">
+    <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20251226154000 +0000" stop="20251226160000 +0000" channel="Nick Jr..skyde">
-    <title>Paw Patrol: Helfer auf vier Pfoten</title>
-</programme>
-<programme start="20251226160000 +0000" stop="20251226162500 +0000" channel="Nick Jr..skyde">
+<programme start="20251227153000 +0000" stop="20251227155500 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
-<programme start="20251226162500 +0000" stop="20251226164000 +0000" channel="Nick Jr..skyde">
+<programme start="20251227155500 +0000" stop="20251227162000 +0000" channel="Nick Jr..skyde">
+    <title>Paw Patrol: Helfer auf vier Pfoten</title>
+</programme>
+<programme start="20251227162000 +0000" stop="20251227163500 +0000" channel="Nick Jr..skyde">
+    <title>Paw Patrol: Helfer auf vier Pfoten</title>
+</programme>
+<programme start="20251227163500 +0000" stop="20251227165500 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20251226164000 +0000" stop="20251226170500 +0000" channel="Nick Jr..skyde">
+<programme start="20251227165500 +0000" stop="20251227170500 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20251226170500 +0000" stop="20251226173000 +0000" channel="Nick Jr..skyde">
+<programme start="20251227170500 +0000" stop="20251227173000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20251226173000 +0000" stop="20251226175000 +0000" channel="Nick Jr..skyde">
+<programme start="20251227173000 +0000" stop="20251227175000 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
 </programme>
-<programme start="20251226175000 +0000" stop="20251226180000 +0000" channel="Nick Jr..skyde">
+<programme start="20251227175000 +0000" stop="20251227180000 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
-<programme start="20251226180000 +0000" stop="20251226182500 +0000" channel="Nick Jr..skyde">
+<programme start="20251227180000 +0000" stop="20251227182500 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
-<programme start="20251226182500 +0000" stop="20251226184500 +0000" channel="Nick Jr..skyde">
+<programme start="20251227182500 +0000" stop="20251227185000 +0000" channel="Nick Jr..skyde">
     <title>Blaze und die Monster-Maschinen</title>
 </programme>
-<programme start="20251226184500 +0000" stop="20251226191000 +0000" channel="Nick Jr..skyde">
+<programme start="20251227185000 +0000" stop="20251227191000 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20251226191000 +0000" stop="20251226193500 +0000" channel="Nick Jr..skyde">
+<programme start="20251227191000 +0000" stop="20251227193500 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20251226193500 +0000" stop="20251226194500 +0000" channel="Nick Jr..skyde">
+<programme start="20251227193500 +0000" stop="20251227194500 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20251226194500 +0000" stop="20251226201000 +0000" channel="Nick Jr..skyde">
+<programme start="20251227194500 +0000" stop="20251227201000 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20251226201000 +0000" stop="20251226203000 +0000" channel="Nick Jr..skyde">
+<programme start="20251227201000 +0000" stop="20251227203000 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20251226203000 +0000" stop="20251226205500 +0000" channel="Nick Jr..skyde">
+<programme start="20251227203000 +0000" stop="20251227205500 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
 </programme>
-<programme start="20251226205500 +0000" stop="20251226212000 +0000" channel="Nick Jr..skyde">
+<programme start="20251227205500 +0000" stop="20251227212000 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
 </programme>
-<programme start="20251226212000 +0000" stop="20251226214000 +0000" channel="Nick Jr..skyde">
+<programme start="20251227212000 +0000" stop="20251227214500 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20251226214000 +0000" stop="20251226215500 +0000" channel="Nick Jr..skyde">
+<programme start="20251227214500 +0000" stop="20251227215500 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20251226215500 +0000" stop="20251226222000 +0000" channel="Nick Jr..skyde">
+<programme start="20251227215500 +0000" stop="20251227222000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20251226222000 +0000" stop="20251226224000 +0000" channel="Nick Jr..skyde">
+<programme start="20251227222000 +0000" stop="20251227224000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20251226224000 +0000" stop="20251226230500 +0000" channel="Nick Jr..skyde">
+<programme start="20251227224000 +0000" stop="20251227230500 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20251225230500 +0000" stop="20251226003500 +0000" channel="Romance TV HD.skyde">
-    <title>Inga Lindström: Liebe lebt weiter</title>
+<programme start="20251226231000 +0000" stop="20251227004000 +0000" channel="Romance TV HD.skyde">
+    <title>Das Traumschiff - Lappland</title>
 </programme>
-<programme start="20251226003500 +0000" stop="20251226020000 +0000" channel="Romance TV HD.skyde">
-    <title>Der Duft von Apfelblüten</title>
+<programme start="20251227004000 +0000" stop="20251227021000 +0000" channel="Romance TV HD.skyde">
+    <title>Katie Fforde: Hexensommer</title>
 </programme>
-<programme start="20251226020000 +0000" stop="20251226021500 +0000" channel="Romance TV HD.skyde">
+<programme start="20251227021000 +0000" stop="20251227022500 +0000" channel="Romance TV HD.skyde">
     <title>Stars im Interview</title>
 </programme>
-<programme start="20251226021500 +0000" stop="20251226030500 +0000" channel="Romance TV HD.skyde">
+<programme start="20251227022500 +0000" stop="20251227031500 +0000" channel="Romance TV HD.skyde">
     <title>Familie Dr. Kleist</title>
 </programme>
-<programme start="20251226030500 +0000" stop="20251226032000 +0000" channel="Romance TV HD.skyde">
+<programme start="20251227031500 +0000" stop="20251227033000 +0000" channel="Romance TV HD.skyde">
     <title>Stars im Interview</title>
 </programme>
-<programme start="20251226032000 +0000" stop="20251226033500 +0000" channel="Romance TV HD.skyde">
-    <title>Stars im Interview</title>
+<programme start="20251227033000 +0000" stop="20251227050000 +0000" channel="Romance TV HD.skyde">
+    <title>Zum Glück gibt&#039;s Schreiner</title>
 </programme>
-<programme start="20251226033500 +0000" stop="20251226051000 +0000" channel="Romance TV HD.skyde">
-    <title>Venus im vierten Haus</title>
+<programme start="20251227050000 +0000" stop="20251227063500 +0000" channel="Romance TV HD.skyde">
+    <title>Heiraten ist nichts für Feiglinge</title>
 </programme>
-<programme start="20251226051000 +0000" stop="20251226064500 +0000" channel="Romance TV HD.skyde">
-    <title>Rosamunde Pilcher: Vertrauen ist gut, verlieben ist besser</title>
+<programme start="20251227063500 +0000" stop="20251227081000 +0000" channel="Romance TV HD.skyde">
+    <title>Einer für alle, alles im Eimer</title>
 </programme>
-<programme start="20251226064500 +0000" stop="20251226081500 +0000" channel="Romance TV HD.skyde">
-    <title>Zwei verlorene Schafe</title>
+<programme start="20251227081000 +0000" stop="20251227094500 +0000" channel="Romance TV HD.skyde">
+    <title>Emilie Richards: Entscheidung des Herzens</title>
 </programme>
-<programme start="20251226081500 +0000" stop="20251226095000 +0000" channel="Romance TV HD.skyde">
-    <title>Toni, männlich, Hebamme - Das Glück der Anderen</title>
+<programme start="20251227094500 +0000" stop="20251227111500 +0000" channel="Romance TV HD.skyde">
+    <title>Rosamunde Pilcher: Der magische Bus</title>
 </programme>
-<programme start="20251226095000 +0000" stop="20251226104500 +0000" channel="Romance TV HD.skyde">
-    <title>Familie Dr. Kleist</title>
+<programme start="20251227111500 +0000" stop="20251227125000 +0000" channel="Romance TV HD.skyde">
+    <title>Toni, männlich, Hebamme - Mächtig schwanger</title>
 </programme>
-<programme start="20251226104500 +0000" stop="20251226122000 +0000" channel="Romance TV HD.skyde">
-    <title>Rosamunde Pilcher: Flügel der Liebe</title>
+<programme start="20251227125000 +0000" stop="20251227142500 +0000" channel="Romance TV HD.skyde">
+    <title>Das Traumschiff - Lappland</title>
 </programme>
-<programme start="20251226122000 +0000" stop="20251226135000 +0000" channel="Romance TV HD.skyde">
-    <title>Inga Lindström: Liebe lebt weiter</title>
+<programme start="20251227142500 +0000" stop="20251227160000 +0000" channel="Romance TV HD.skyde">
+    <title>Katie Fforde: Hexensommer</title>
 </programme>
-<programme start="20251226135000 +0000" stop="20251226152000 +0000" channel="Romance TV HD.skyde">
-    <title>Der Duft von Apfelblüten</title>
+<programme start="20251227160000 +0000" stop="20251227173000 +0000" channel="Romance TV HD.skyde">
+    <title>Rosamunde Pilcher: Englischer Wein</title>
 </programme>
-<programme start="20251226152000 +0000" stop="20251226165500 +0000" channel="Romance TV HD.skyde">
-    <title>Da hilft nur beten!</title>
+<programme start="20251227173000 +0000" stop="20251227191500 +0000" channel="Romance TV HD.skyde">
+    <title>Das Sacher. In bester Gesellschaft, Teil 1</title>
 </programme>
-<programme start="20251226165500 +0000" stop="20251226182500 +0000" channel="Romance TV HD.skyde">
-    <title>Die Mütter-Mafia</title>
+<programme start="20251227191500 +0000" stop="20251227204500 +0000" channel="Romance TV HD.skyde">
+    <title>Hochzeitsstrudel und Zwetschgenglück</title>
 </programme>
-<programme start="20251226182500 +0000" stop="20251226191500 +0000" channel="Romance TV HD.skyde">
-    <title>Familie Dr. Kleist</title>
+<programme start="20251227204500 +0000" stop="20251227222000 +0000" channel="Romance TV HD.skyde">
+    <title>Dora Heldt: Unzertrennlich</title>
 </programme>
-<programme start="20251226191500 +0000" stop="20251226200000 +0000" channel="Romance TV HD.skyde">
-    <title>Levi Strauss und der Stoff der Träume</title>
+<programme start="20251227222000 +0000" stop="20251227235500 +0000" channel="Romance TV HD.skyde">
+    <title>Familie Bundschuh - Bundschuh vs. Bundschuh</title>
 </programme>
-<programme start="20251226200000 +0000" stop="20251226204500 +0000" channel="Romance TV HD.skyde">
-    <title>Levi Strauss und der Stoff der Träume</title>
+<programme start="20260105230000 +0000" stop="20260105235500 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Halo</title>
 </programme>
-<programme start="20251226204500 +0000" stop="20251226222000 +0000" channel="Romance TV HD.skyde">
-    <title>Das Traumschiff - Coco Island</title>
+<programme start="20260105235500 +0000" stop="20260106005500 +0000" channel="Sky Atlantic HD.skyde">
+    <title>This City Is Ours</title>
 </programme>
-<programme start="20251226222000 +0000" stop="20251226231000 +0000" channel="Romance TV HD.skyde">
-    <title>Familie Dr. Kleist</title>
+<programme start="20260106005500 +0000" stop="20260106020000 +0000" channel="Sky Atlantic HD.skyde">
+    <title>This City Is Ours</title>
 </programme>
-<programme start="20251225235000 +0000" stop="20251226004500 +0000" channel="Sky Atlantic HD.skyde">
-    <title>Game of Thrones - Das Lied von Eis und Feuer</title>
+<programme start="20260106020000 +0000" stop="20260106024500 +0000" channel="Sky Atlantic HD.skyde">
+    <title>The Gilded Age</title>
 </programme>
-<programme start="20251226004500 +0000" stop="20251226013500 +0000" channel="Sky Atlantic HD.skyde">
-    <title>Game of Thrones - Das Lied von Eis und Feuer</title>
+<programme start="20260106024500 +0000" stop="20260106034000 +0000" channel="Sky Atlantic HD.skyde">
+    <title>The Gilded Age</title>
 </programme>
-<programme start="20251226013500 +0000" stop="20251226023000 +0000" channel="Sky Atlantic HD.skyde">
-    <title>Game of Thrones - Das Lied von Eis und Feuer</title>
+<programme start="20260106034000 +0000" stop="20260106041500 +0000" channel="Sky Atlantic HD.skyde">
+    <title>I Love LA</title>
 </programme>
-<programme start="20251226023000 +0000" stop="20251226032000 +0000" channel="Sky Atlantic HD.skyde">
-    <title>Game of Thrones - Das Lied von Eis und Feuer</title>
+<programme start="20260106041500 +0000" stop="20260106044500 +0000" channel="Sky Atlantic HD.skyde">
+    <title>I Love LA</title>
 </programme>
-<programme start="20251226032000 +0000" stop="20251226041500 +0000" channel="Sky Atlantic HD.skyde">
-    <title>Game of Thrones - Das Lied von Eis und Feuer</title>
+<programme start="20260106044500 +0000" stop="20260106055500 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Winning Time: Aufstieg der Lakers-Dynastie</title>
 </programme>
-<programme start="20251226041500 +0000" stop="20251226051000 +0000" channel="Sky Atlantic HD.skyde">
-    <title>Game of Thrones - Das Lied von Eis und Feuer</title>
+<programme start="20260106055500 +0000" stop="20260106065500 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Winning Time: Aufstieg der Lakers-Dynastie</title>
 </programme>
-<programme start="20251226051000 +0000" stop="20251226060500 +0000" channel="Sky Atlantic HD.skyde">
-    <title>Game of Thrones - Das Lied von Eis und Feuer</title>
+<programme start="20260106065500 +0000" stop="20260106073500 +0000" channel="Sky Atlantic HD.skyde">
+    <title>The Righteous Gemstones</title>
 </programme>
-<programme start="20251226060500 +0000" stop="20251226071000 +0000" channel="Sky Atlantic HD.skyde">
-    <title>Game of Thrones - Das Lied von Eis und Feuer</title>
+<programme start="20260106073500 +0000" stop="20260106081500 +0000" channel="Sky Atlantic HD.skyde">
+    <title>The Righteous Gemstones</title>
 </programme>
-<programme start="20251226071000 +0000" stop="20251226074500 +0000" channel="Sky Atlantic HD.skyde">
-    <title>Thronecast</title>
+<programme start="20260106081500 +0000" stop="20260106091000 +0000" channel="Sky Atlantic HD.skyde">
+    <title>The Gilded Age</title>
 </programme>
-<programme start="20251226074500 +0000" stop="20251226084000 +0000" channel="Sky Atlantic HD.skyde">
-    <title>Die Sopranos</title>
+<programme start="20260106091000 +0000" stop="20260106100000 +0000" channel="Sky Atlantic HD.skyde">
+    <title>The Gilded Age</title>
 </programme>
-<programme start="20251226084000 +0000" stop="20251226093500 +0000" channel="Sky Atlantic HD.skyde">
-    <title>Die Sopranos</title>
+<programme start="20260106100000 +0000" stop="20260106103500 +0000" channel="Sky Atlantic HD.skyde">
+    <title>I Love LA</title>
 </programme>
-<programme start="20251226093500 +0000" stop="20251226103500 +0000" channel="Sky Atlantic HD.skyde">
-    <title>Game of Thrones - Das Lied von Eis und Feuer</title>
+<programme start="20260106103500 +0000" stop="20260106110500 +0000" channel="Sky Atlantic HD.skyde">
+    <title>I Love LA</title>
 </programme>
-<programme start="20251226103500 +0000" stop="20251226113000 +0000" channel="Sky Atlantic HD.skyde">
-    <title>Game of Thrones - Das Lied von Eis und Feuer</title>
+<programme start="20260106110500 +0000" stop="20260106115500 +0000" channel="Sky Atlantic HD.skyde">
+    <title>And Just Like That...</title>
 </programme>
-<programme start="20251226113000 +0000" stop="20251226122500 +0000" channel="Sky Atlantic HD.skyde">
-    <title>Game of Thrones - Das Lied von Eis und Feuer</title>
+<programme start="20260106115500 +0000" stop="20260106124000 +0000" channel="Sky Atlantic HD.skyde">
+    <title>And Just Like That...</title>
 </programme>
-<programme start="20251226122500 +0000" stop="20251226132500 +0000" channel="Sky Atlantic HD.skyde">
-    <title>Game of Thrones - Das Lied von Eis und Feuer</title>
+<programme start="20260106124000 +0000" stop="20260106132500 +0000" channel="Sky Atlantic HD.skyde">
+    <title>And Just Like That...</title>
 </programme>
-<programme start="20251226132500 +0000" stop="20251226142000 +0000" channel="Sky Atlantic HD.skyde">
-    <title>Game of Thrones - Das Lied von Eis und Feuer</title>
+<programme start="20260106132500 +0000" stop="20260106141500 +0000" channel="Sky Atlantic HD.skyde">
+    <title>The Lazarus Project</title>
 </programme>
-<programme start="20251226142000 +0000" stop="20251226151500 +0000" channel="Sky Atlantic HD.skyde">
-    <title>Game of Thrones - Das Lied von Eis und Feuer</title>
+<programme start="20260106141500 +0000" stop="20260106150500 +0000" channel="Sky Atlantic HD.skyde">
+    <title>The Lazarus Project</title>
 </programme>
-<programme start="20251226151500 +0000" stop="20251226161500 +0000" channel="Sky Atlantic HD.skyde">
-    <title>Game of Thrones - Das Lied von Eis und Feuer</title>
+<programme start="20260106150500 +0000" stop="20260106160500 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Das Boot</title>
 </programme>
-<programme start="20251226161500 +0000" stop="20251226171500 +0000" channel="Sky Atlantic HD.skyde">
-    <title>Game of Thrones - Das Lied von Eis und Feuer</title>
+<programme start="20260106160500 +0000" stop="20260106171000 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Das Boot</title>
 </programme>
-<programme start="20251226171500 +0000" stop="20251226181000 +0000" channel="Sky Atlantic HD.skyde">
-    <title>Game of Thrones - Das Lied von Eis und Feuer</title>
+<programme start="20260106171000 +0000" stop="20260106181000 +0000" channel="Sky Atlantic HD.skyde">
+    <title>This City Is Ours</title>
 </programme>
-<programme start="20251226181000 +0000" stop="20251226191500 +0000" channel="Sky Atlantic HD.skyde">
-    <title>Game of Thrones - Das Lied von Eis und Feuer</title>
+<programme start="20260106181000 +0000" stop="20260106191500 +0000" channel="Sky Atlantic HD.skyde">
+    <title>This City Is Ours</title>
 </programme>
-<programme start="20251226191500 +0000" stop="20251226200500 +0000" channel="Sky Atlantic HD.skyde">
-    <title>Amadeus</title>
+<programme start="20260106191500 +0000" stop="20260106201500 +0000" channel="Sky Atlantic HD.skyde">
+    <title>The Copenhagen Test</title>
 </programme>
-<programme start="20251226200500 +0000" stop="20251226205500 +0000" channel="Sky Atlantic HD.skyde">
-    <title>Amadeus</title>
+<programme start="20260106201500 +0000" stop="20260106211000 +0000" channel="Sky Atlantic HD.skyde">
+    <title>The Copenhagen Test</title>
 </programme>
-<programme start="20251226205500 +0000" stop="20251226215000 +0000" channel="Sky Atlantic HD.skyde">
-    <title>Game of Thrones - Das Lied von Eis und Feuer</title>
+<programme start="20260106211000 +0000" stop="20260106215500 +0000" channel="Sky Atlantic HD.skyde">
+    <title>The Ark</title>
 </programme>
-<programme start="20251226215000 +0000" stop="20251226224500 +0000" channel="Sky Atlantic HD.skyde">
-    <title>Game of Thrones - Das Lied von Eis und Feuer</title>
+<programme start="20260106215500 +0000" stop="20260106224000 +0000" channel="Sky Atlantic HD.skyde">
+    <title>The Ark</title>
 </programme>
-<programme start="20251226224500 +0000" stop="20251226234000 +0000" channel="Sky Atlantic HD.skyde">
-    <title>Game of Thrones - Das Lied von Eis und Feuer</title>
+<programme start="20260106224000 +0000" stop="20260106234000 +0000" channel="Sky Atlantic HD.skyde">
+    <title>The Copenhagen Test</title>
 </programme>
-<programme start="20251226004500 +0000" stop="20251226032500 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>Robin Hood - Director&#039;s Cut</title>
-</programme>
-<programme start="20251226032500 +0000" stop="20251226052500 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>Resident Evil: Welcome to Raccoon City</title>
-</programme>
-<programme start="20251226052500 +0000" stop="20251226071000 +0000" channel="Sky Cinema Action HD.skyde">
+<programme start="20251227011000 +0000" stop="20251227025500 +0000" channel="Sky Cinema Action HD.skyde">
     <title>The Great Wall</title>
 </programme>
-<programme start="20251226071000 +0000" stop="20251226091500 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>Goliath - Im Netz der Lügen</title>
+<programme start="20251227025500 +0000" stop="20251227043500 +0000" channel="Sky Cinema Action HD.skyde">
+    <title>Dangerous</title>
 </programme>
-<programme start="20251226091500 +0000" stop="20251226105000 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>Jolt</title>
+<programme start="20251227043500 +0000" stop="20251227061000 +0000" channel="Sky Cinema Action HD.skyde">
+    <title>A Quiet Place</title>
 </programme>
-<programme start="20251226105000 +0000" stop="20251226122500 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>Rambo</title>
+<programme start="20251227061000 +0000" stop="20251227074500 +0000" channel="Sky Cinema Action HD.skyde">
+    <title>Overdrive</title>
 </programme>
-<programme start="20251226122500 +0000" stop="20251226140500 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>Rambo II - Der Auftrag</title>
+<programme start="20251227074500 +0000" stop="20251227093500 +0000" channel="Sky Cinema Action HD.skyde">
+    <title>10.000 BC</title>
 </programme>
-<programme start="20251226140500 +0000" stop="20251226155000 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>Rambo III</title>
+<programme start="20251227093500 +0000" stop="20251227113500 +0000" channel="Sky Cinema Action HD.skyde">
+    <title>Gletschergrab</title>
 </programme>
-<programme start="20251226155000 +0000" stop="20251226172500 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>John Rambo</title>
-</programme>
-<programme start="20251226172500 +0000" stop="20251226191500 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>Colombiana</title>
-</programme>
-<programme start="20251226191500 +0000" stop="20251226211000 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>96 Hours - Taken 3 (Extended Cut)</title>
-</programme>
-<programme start="20251226211000 +0000" stop="20251226225500 +0000" channel="Sky Cinema Action HD.skyde">
+<programme start="20251227113500 +0000" stop="20251227132000 +0000" channel="Sky Cinema Action HD.skyde">
     <title>Rambo: Last Blood</title>
 </programme>
-<programme start="20251226225500 +0000" stop="20251227011000 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>Es</title>
+<programme start="20251227132000 +0000" stop="20251227151500 +0000" channel="Sky Cinema Action HD.skyde">
+    <title>96 Hours - Taken 3 (Extended Cut)</title>
 </programme>
-<programme start="20251226004000 +0000" stop="20251226021500 +0000" channel="Sky Cinema Classics HD.skyde">
-    <title>Das Ungeheuer von London City</title>
+<programme start="20251227151500 +0000" stop="20251227174500 +0000" channel="Sky Cinema Action HD.skyde">
+    <title>Mission: Impossible - Fallout</title>
 </programme>
-<programme start="20251226021500 +0000" stop="20251226035500 +0000" channel="Sky Cinema Classics HD.skyde">
-    <title>Der Fluch des Pharao</title>
+<programme start="20251227174500 +0000" stop="20251227191500 +0000" channel="Sky Cinema Action HD.skyde">
+    <title>The Tracker - Spuren der Rache</title>
 </programme>
-<programme start="20251226035500 +0000" stop="20251226052500 +0000" channel="Sky Cinema Classics HD.skyde">
-    <title>Das Mädchen von Hongkong</title>
+<programme start="20251227191500 +0000" stop="20251227210500 +0000" channel="Sky Cinema Action HD.skyde">
+    <title>10.000 BC</title>
 </programme>
-<programme start="20251226052500 +0000" stop="20251226071000 +0000" channel="Sky Cinema Classics HD.skyde">
-    <title>... und Scotland Yard schweigt</title>
+<programme start="20251227210500 +0000" stop="20251227230500 +0000" channel="Sky Cinema Action HD.skyde">
+    <title>Killer Elite</title>
 </programme>
-<programme start="20251226071000 +0000" stop="20251226085000 +0000" channel="Sky Cinema Classics HD.skyde">
-    <title>Im Reiche des silbernen Löwen</title>
+<programme start="20251227005000 +0000" stop="20251227022000 +0000" channel="Sky Cinema Classics HD.skyde">
+    <title>Das Geheimnis der Todesinsel</title>
 </programme>
-<programme start="20251226085000 +0000" stop="20251226101500 +0000" channel="Sky Cinema Classics HD.skyde">
-    <title>Die große Treibjagd</title>
+<programme start="20251227022000 +0000" stop="20251227041500 +0000" channel="Sky Cinema Classics HD.skyde">
+    <title>Auf der Reeperbahn nachts um halb eins</title>
 </programme>
-<programme start="20251226101500 +0000" stop="20251226115000 +0000" channel="Sky Cinema Classics HD.skyde">
-    <title>Panik um King Kong</title>
+<programme start="20251227041500 +0000" stop="20251227061000 +0000" channel="Sky Cinema Classics HD.skyde">
+    <title>True Grit</title>
 </programme>
-<programme start="20251226115000 +0000" stop="20251226132500 +0000" channel="Sky Cinema Classics HD.skyde">
-    <title>Das Phantom der Oper</title>
+<programme start="20251227061000 +0000" stop="20251227080000 +0000" channel="Sky Cinema Classics HD.skyde">
+    <title>Das Gold von Sam Cooper</title>
 </programme>
-<programme start="20251226132500 +0000" stop="20251226150000 +0000" channel="Sky Cinema Classics HD.skyde">
-    <title>Das Phantom der Oper</title>
+<programme start="20251227080000 +0000" stop="20251227095500 +0000" channel="Sky Cinema Classics HD.skyde">
+    <title>Hausboot</title>
 </programme>
-<programme start="20251226150000 +0000" stop="20251226170000 +0000" channel="Sky Cinema Classics HD.skyde">
-    <title>Citizen Kane</title>
-</programme>
-<programme start="20251226170000 +0000" stop="20251226191500 +0000" channel="Sky Cinema Classics HD.skyde">
-    <title>Steiner - Das Eiserne Kreuz</title>
-</programme>
-<programme start="20251226191500 +0000" stop="20251226225500 +0000" channel="Sky Cinema Classics HD.skyde">
-    <title>Die zehn Gebote</title>
-</programme>
-<programme start="20251226225500 +0000" stop="20251227005000 +0000" channel="Sky Cinema Classics HD.skyde">
+<programme start="20251227095500 +0000" stop="20251227115000 +0000" channel="Sky Cinema Classics HD.skyde">
     <title>... denn sie wissen nicht, was sie tun</title>
 </programme>
-<programme start="20251226010000 +0000" stop="20251226025500 +0000" channel="Sky Cinema Family HD.skyde">
-    <title>Last Train To Christmas</title>
+<programme start="20251227115000 +0000" stop="20251227134000 +0000" channel="Sky Cinema Classics HD.skyde">
+    <title>Weihnachtsfest mit Hindernissen</title>
 </programme>
-<programme start="20251226025500 +0000" stop="20251226045000 +0000" channel="Sky Cinema Family HD.skyde">
-    <title>Stasikomödie</title>
+<programme start="20251227134000 +0000" stop="20251227172000 +0000" channel="Sky Cinema Classics HD.skyde">
+    <title>Die zehn Gebote</title>
 </programme>
-<programme start="20251226045000 +0000" stop="20251226063500 +0000" channel="Sky Cinema Family HD.skyde">
-    <title>Das Wunder in der 8. Strasse</title>
+<programme start="20251227172000 +0000" stop="20251227191500 +0000" channel="Sky Cinema Classics HD.skyde">
+    <title>Steiner - Das Eiserne Kreuz 2. Teil</title>
 </programme>
-<programme start="20251226063500 +0000" stop="20251226083000 +0000" channel="Sky Cinema Family HD.skyde">
-    <title>Schneesturm im Paradies</title>
+<programme start="20251227191500 +0000" stop="20251227205500 +0000" channel="Sky Cinema Classics HD.skyde">
+    <title>Der Graf von Monte Christo</title>
 </programme>
-<programme start="20251226083000 +0000" stop="20251226095500 +0000" channel="Sky Cinema Family HD.skyde">
-    <title>Niko - Reise zu den Polarlichtern</title>
+<programme start="20251227205500 +0000" stop="20251227224500 +0000" channel="Sky Cinema Classics HD.skyde">
+    <title>Der Graf von Monte Christo</title>
 </programme>
-<programme start="20251226095500 +0000" stop="20251226114500 +0000" channel="Sky Cinema Family HD.skyde">
-    <title>Der Grinch</title>
+<programme start="20251227224500 +0000" stop="20251228003500 +0000" channel="Sky Cinema Classics HD.skyde">
+    <title>Der Graf von Monte Christo</title>
 </programme>
-<programme start="20251226114500 +0000" stop="20251226133000 +0000" channel="Sky Cinema Family HD.skyde">
+<programme start="20251226233000 +0000" stop="20251227010000 +0000" channel="Sky Cinema Family HD.skyde">
+    <title>Eine wüste Bescherung</title>
+</programme>
+<programme start="20251227010000 +0000" stop="20251227022500 +0000" channel="Sky Cinema Family HD.skyde">
+    <title>Taxi 3</title>
+</programme>
+<programme start="20251227022500 +0000" stop="20251227041000 +0000" channel="Sky Cinema Family HD.skyde">
     <title>Edward mit den Scherenhänden</title>
 </programme>
-<programme start="20251226133000 +0000" stop="20251226154500 +0000" channel="Sky Cinema Family HD.skyde">
-    <title>Tatsächlich ... Liebe</title>
+<programme start="20251227041000 +0000" stop="20251227054000 +0000" channel="Sky Cinema Family HD.skyde">
+    <title>Niko - Reise zu den Polarlichtern</title>
 </programme>
-<programme start="20251226154500 +0000" stop="20251226173000 +0000" channel="Sky Cinema Family HD.skyde">
-    <title>Die Familie Stone - Verloben verboten!</title>
+<programme start="20251227054000 +0000" stop="20251227071000 +0000" channel="Sky Cinema Family HD.skyde">
+    <title>Versprochen ist versprochen</title>
 </programme>
-<programme start="20251226173000 +0000" stop="20251226191500 +0000" channel="Sky Cinema Family HD.skyde">
+<programme start="20251227071000 +0000" stop="20251227084500 +0000" channel="Sky Cinema Family HD.skyde">
+    <title>Ich - Einfach Unverbesserlich</title>
+</programme>
+<programme start="20251227084500 +0000" stop="20251227102500 +0000" channel="Sky Cinema Family HD.skyde">
+    <title>Ich - Einfach unverbesserlich 2</title>
+</programme>
+<programme start="20251227102500 +0000" stop="20251227120000 +0000" channel="Sky Cinema Family HD.skyde">
+    <title>Ich - Einfach unverbesserlich 3</title>
+</programme>
+<programme start="20251227120000 +0000" stop="20251227133500 +0000" channel="Sky Cinema Family HD.skyde">
+    <title>Ich - Einfach unverbesserlich 4</title>
+</programme>
+<programme start="20251227133500 +0000" stop="20251227152000 +0000" channel="Sky Cinema Family HD.skyde">
     <title>Kevin - Allein zu Haus</title>
 </programme>
-<programme start="20251226191500 +0000" stop="20251226211500 +0000" channel="Sky Cinema Family HD.skyde">
+<programme start="20251227152000 +0000" stop="20251227172000 +0000" channel="Sky Cinema Family HD.skyde">
     <title>Kevin - Allein in New York</title>
 </programme>
-<programme start="20251226211500 +0000" stop="20251226233000 +0000" channel="Sky Cinema Family HD.skyde">
-    <title>Liebe braucht keine Ferien</title>
+<programme start="20251227172000 +0000" stop="20251227191500 +0000" channel="Sky Cinema Family HD.skyde">
+    <title>Die Chroniken von Narnia: Die Reise auf der Morgenröte</title>
 </programme>
-<programme start="20251226001500 +0000" stop="20251226022500 +0000" channel="Sky Cinema Highlights HD.skyde">
-    <title>Harry Potter und die Heiligtümer des Todes (Teil 2)</title>
+<programme start="20251227191500 +0000" stop="20251227205500 +0000" channel="Sky Cinema Family HD.skyde">
+    <title>Die Familie Stone - Verloben verboten!</title>
 </programme>
-<programme start="20251226022500 +0000" stop="20251226041000 +0000" channel="Sky Cinema Highlights HD.skyde">
-    <title>Dragonheart</title>
+<programme start="20251227205500 +0000" stop="20251227222500 +0000" channel="Sky Cinema Family HD.skyde">
+    <title>Eine wüste Bescherung</title>
 </programme>
-<programme start="20251226041000 +0000" stop="20251226064500 +0000" channel="Sky Cinema Highlights HD.skyde">
-    <title>Harry Potter und der Stein der Weisen</title>
+<programme start="20251227222500 +0000" stop="20251228002000 +0000" channel="Sky Cinema Family HD.skyde">
+    <title>Schneesturm im Paradies</title>
 </programme>
-<programme start="20251226064500 +0000" stop="20251226092500 +0000" channel="Sky Cinema Highlights HD.skyde">
-    <title>Harry Potter und die Kammer des Schreckens</title>
+<programme start="20251226235000 +0000" stop="20251227020500 +0000" channel="Sky Cinema Highlights HD.skyde">
+    <title>Phantastische Tierwesen und wo sie zu finden sind</title>
 </programme>
-<programme start="20251226092500 +0000" stop="20251226114500 +0000" channel="Sky Cinema Highlights HD.skyde">
-    <title>Harry Potter und der Gefangene von Askaban</title>
+<programme start="20251227020500 +0000" stop="20251227042000 +0000" channel="Sky Cinema Highlights HD.skyde">
+    <title>Phantastische Tierwesen: Grindelwalds Verbrechen</title>
 </programme>
-<programme start="20251226114500 +0000" stop="20251226142000 +0000" channel="Sky Cinema Highlights HD.skyde">
-    <title>Harry Potter und der Feuerkelch</title>
+<programme start="20251227042000 +0000" stop="20251227060000 +0000" channel="Sky Cinema Highlights HD.skyde">
+    <title>Borderlands</title>
 </programme>
-<programme start="20251226142000 +0000" stop="20251226164000 +0000" channel="Sky Cinema Highlights HD.skyde">
-    <title>Harry Potter und der Orden des Phönix</title>
+<programme start="20251227060000 +0000" stop="20251227074000 +0000" channel="Sky Cinema Highlights HD.skyde">
+    <title>Companion - Die perfekte Begleitung</title>
 </programme>
-<programme start="20251226164000 +0000" stop="20251226191500 +0000" channel="Sky Cinema Highlights HD.skyde">
-    <title>Harry Potter und der Halbblutprinz</title>
+<programme start="20251227074000 +0000" stop="20251227100000 +0000" channel="Sky Cinema Highlights HD.skyde">
+    <title>Everything Everywhere All at Once</title>
 </programme>
-<programme start="20251226191500 +0000" stop="20251226214000 +0000" channel="Sky Cinema Highlights HD.skyde">
-    <title>Harry Potter und die Heiligtümer des Todes (Teil 1)</title>
+<programme start="20251227100000 +0000" stop="20251227121500 +0000" channel="Sky Cinema Highlights HD.skyde">
+    <title>Mickey 17</title>
 </programme>
-<programme start="20251226214000 +0000" stop="20251226235000 +0000" channel="Sky Cinema Highlights HD.skyde">
-    <title>Harry Potter und die Heiligtümer des Todes (Teil 2)</title>
+<programme start="20251227121500 +0000" stop="20251227140000 +0000" channel="Sky Cinema Highlights HD.skyde">
+    <title>Borderlands</title>
 </programme>
-<programme start="20251225230500 +0000" stop="20251226004500 +0000" channel="Sky Cinema Premiere HD.skyde">
-    <title>Plattfuß - Ein Cop in Neapel: Die Verdammten</title>
+<programme start="20251227140000 +0000" stop="20251227154500 +0000" channel="Sky Cinema Highlights HD.skyde">
+    <title>Beetlejuice Beetlejuice</title>
 </programme>
-<programme start="20251226004500 +0000" stop="20251226022000 +0000" channel="Sky Cinema Premiere HD.skyde">
-    <title>The Estate - Erben leicht verkackt</title>
+<programme start="20251227154500 +0000" stop="20251227173500 +0000" channel="Sky Cinema Highlights HD.skyde">
+    <title>The Last Witch Hunter</title>
 </programme>
-<programme start="20251226022000 +0000" stop="20251226035000 +0000" channel="Sky Cinema Premiere HD.skyde">
-    <title>The Woman in the Yard</title>
+<programme start="20251227173500 +0000" stop="20251227191500 +0000" channel="Sky Cinema Highlights HD.skyde">
+    <title>Companion - Die perfekte Begleitung</title>
 </programme>
-<programme start="20251226035000 +0000" stop="20251226054000 +0000" channel="Sky Cinema Premiere HD.skyde">
-    <title>Book of Love</title>
+<programme start="20251227191500 +0000" stop="20251227213500 +0000" channel="Sky Cinema Highlights HD.skyde">
+    <title>Freaks Out</title>
 </programme>
-<programme start="20251226054000 +0000" stop="20251226073500 +0000" channel="Sky Cinema Premiere HD.skyde">
-    <title>Alles Fifty Fifty</title>
+<programme start="20251227213500 +0000" stop="20251227233000 +0000" channel="Sky Cinema Highlights HD.skyde">
+    <title>Mr. No Pain</title>
 </programme>
-<programme start="20251226073500 +0000" stop="20251226093000 +0000" channel="Sky Cinema Premiere HD.skyde">
-    <title>Ghostbusters: Frozen Empire</title>
+<programme start="20251227001000 +0000" stop="20251227015000 +0000" channel="Sky Cinema Premiere HD.skyde">
+    <title>Bring Him to Me</title>
 </programme>
-<programme start="20251226093000 +0000" stop="20251226111500 +0000" channel="Sky Cinema Premiere HD.skyde">
-    <title>Riff Raff - Verbrechen ist Familiensache</title>
+<programme start="20251227015000 +0000" stop="20251227040500 +0000" channel="Sky Cinema Premiere HD.skyde">
+    <title>Blood &amp; Sinners</title>
 </programme>
-<programme start="20251226111500 +0000" stop="20251226132000 +0000" channel="Sky Cinema Premiere HD.skyde">
-    <title>Drachenzähmen leicht gemacht (2025)</title>
+<programme start="20251227040500 +0000" stop="20251227060500 +0000" channel="Sky Cinema Premiere HD.skyde">
+    <title>Depravity</title>
 </programme>
-<programme start="20251226132000 +0000" stop="20251226154500 +0000" channel="Sky Cinema Premiere HD.skyde">
+<programme start="20251227060500 +0000" stop="20251227083000 +0000" channel="Sky Cinema Premiere HD.skyde">
     <title>Gladiator II</title>
 </programme>
-<programme start="20251226154500 +0000" stop="20251226172000 +0000" channel="Sky Cinema Premiere HD.skyde">
-    <title>Sympathy for the Devil</title>
+<programme start="20251227083000 +0000" stop="20251227115000 +0000" channel="Sky Cinema Premiere HD.skyde">
+    <title>Der Brutalist</title>
 </programme>
-<programme start="20251226172000 +0000" stop="20251226191500 +0000" channel="Sky Cinema Premiere HD.skyde">
-    <title>Alles Fifty Fifty</title>
-</programme>
-<programme start="20251226191500 +0000" stop="20251226210000 +0000" channel="Sky Cinema Premiere HD.skyde">
+<programme start="20251227115000 +0000" stop="20251227133500 +0000" channel="Sky Cinema Premiere HD.skyde">
     <title>Afterburn</title>
 </programme>
-<programme start="20251226210000 +0000" stop="20251226223500 +0000" channel="Sky Cinema Premiere HD.skyde">
-    <title>Sympathy for the Devil</title>
+<programme start="20251227133500 +0000" stop="20251227153000 +0000" channel="Sky Cinema Premiere HD.skyde">
+    <title>Sleeping Dogs - Manche Lügen sterben nie</title>
 </programme>
-<programme start="20251226223500 +0000" stop="20251227001000 +0000" channel="Sky Cinema Premiere HD.skyde">
+<programme start="20251227153000 +0000" stop="20251227170500 +0000" channel="Sky Cinema Premiere HD.skyde">
     <title>Locked</title>
 </programme>
-<programme start="20251225232500 +0000" stop="20251226001500 +0000" channel="Sky Crime HD.skyde">
-    <title>Teuflische Nachbarn</title>
+<programme start="20251227170500 +0000" stop="20251227191500 +0000" channel="Sky Cinema Premiere HD.skyde">
+    <title>Drachenzähmen leicht gemacht (2025)</title>
 </programme>
-<programme start="20251226001500 +0000" stop="20251226010000 +0000" channel="Sky Crime HD.skyde">
-    <title>Vienna Killing - Die Unterweger Story</title>
+<programme start="20251227191500 +0000" stop="20251227210000 +0000" channel="Sky Cinema Premiere HD.skyde">
+    <title>Death of a Unicorn</title>
 </programme>
-<programme start="20251226010000 +0000" stop="20251226014500 +0000" channel="Sky Crime HD.skyde">
-    <title>Killing Versace - Der Modeschöpfer und sein Mörder</title>
+<programme start="20251227210000 +0000" stop="20251227225000 +0000" channel="Sky Cinema Premiere HD.skyde">
+    <title>Afterburn</title>
 </programme>
-<programme start="20251226014500 +0000" stop="20251226032500 +0000" channel="Sky Crime HD.skyde">
-    <title>Der Parkhausmord - Wer tötete Charlotte Böhringer?</title>
+<programme start="20251227225000 +0000" stop="20251228004000 +0000" channel="Sky Cinema Premiere HD.skyde">
+    <title>Final Destination 6: Bloodlines</title>
 </programme>
-<programme start="20251226032500 +0000" stop="20251226041000 +0000" channel="Sky Crime HD.skyde">
-    <title>Germanwings - Was geschah an Bord von Flug 9525?</title>
+<programme start="20251226230000 +0000" stop="20251227002000 +0000" channel="Sky Crime HD.skyde">
+    <title>Alabama Snake</title>
 </programme>
-<programme start="20251226041000 +0000" stop="20251226044500 +0000" channel="Sky Crime HD.skyde">
-    <title>Germanwings - Was geschah an Bord von Flug 9525?</title>
+<programme start="20251227002000 +0000" stop="20251227012000 +0000" channel="Sky Crime HD.skyde">
+    <title>Der Bestatter - Leichenschändung in Kalifornien</title>
 </programme>
-<programme start="20251226044500 +0000" stop="20251226054000 +0000" channel="Sky Crime HD.skyde">
+<programme start="20251227012000 +0000" stop="20251227022000 +0000" channel="Sky Crime HD.skyde">
+    <title>Der Bestatter - Leichenschändung in Kalifornien</title>
+</programme>
+<programme start="20251227022000 +0000" stop="20251227030500 +0000" channel="Sky Crime HD.skyde">
+    <title>Diabolical - Teuflische Morde</title>
+</programme>
+<programme start="20251227030500 +0000" stop="20251227034500 +0000" channel="Sky Crime HD.skyde">
+    <title>Diabolical - Teuflische Morde</title>
+</programme>
+<programme start="20251227034500 +0000" stop="20251227043500 +0000" channel="Sky Crime HD.skyde">
     <title>Last Call Killer: Todesangst im queeren New York</title>
 </programme>
-<programme start="20251226054000 +0000" stop="20251226063500 +0000" channel="Sky Crime HD.skyde">
-    <title>Der Killer in meinem Dorf</title>
+<programme start="20251227043500 +0000" stop="20251227052500 +0000" channel="Sky Crime HD.skyde">
+    <title>Forensik: Dem Mörder auf der Spur</title>
 </programme>
-<programme start="20251226063500 +0000" stop="20251226072000 +0000" channel="Sky Crime HD.skyde">
-    <title>Der Killer in meinem Dorf</title>
+<programme start="20251227052500 +0000" stop="20251227061500 +0000" channel="Sky Crime HD.skyde">
+    <title>Forensik: Dem Mörder auf der Spur</title>
 </programme>
-<programme start="20251226072000 +0000" stop="20251226081000 +0000" channel="Sky Crime HD.skyde">
-    <title>Die Mörder-Skala: Das Böse im Visier</title>
+<programme start="20251227061500 +0000" stop="20251227070000 +0000" channel="Sky Crime HD.skyde">
+    <title>Forensik: Dem Mörder auf der Spur</title>
 </programme>
-<programme start="20251226081000 +0000" stop="20251226090000 +0000" channel="Sky Crime HD.skyde">
-    <title>Die Mörder-Skala: Das Böse im Visier</title>
+<programme start="20251227070000 +0000" stop="20251227075500 +0000" channel="Sky Crime HD.skyde">
+    <title>Forensik: Dem Mörder auf der Spur</title>
 </programme>
-<programme start="20251226090000 +0000" stop="20251226093000 +0000" channel="Sky Crime HD.skyde">
-    <title>Inside FBI - Die härtesten Fälle</title>
+<programme start="20251227075500 +0000" stop="20251227084500 +0000" channel="Sky Crime HD.skyde">
+    <title>Forensik: Dem Mörder auf der Spur</title>
 </programme>
-<programme start="20251226093000 +0000" stop="20251226100000 +0000" channel="Sky Crime HD.skyde">
-    <title>Inside FBI - Die härtesten Fälle</title>
+<programme start="20251227084500 +0000" stop="20251227093000 +0000" channel="Sky Crime HD.skyde">
+    <title>Forensik: Dem Mörder auf der Spur</title>
 </programme>
-<programme start="20251226100000 +0000" stop="20251226102500 +0000" channel="Sky Crime HD.skyde">
-    <title>Inside FBI - Die härtesten Fälle</title>
+<programme start="20251227093000 +0000" stop="20251227102500 +0000" channel="Sky Crime HD.skyde">
+    <title>Forensik: Dem Mörder auf der Spur</title>
 </programme>
-<programme start="20251226102500 +0000" stop="20251226111500 +0000" channel="Sky Crime HD.skyde">
-    <title>Diabolical - Teuflische Morde</title>
+<programme start="20251227102500 +0000" stop="20251227111000 +0000" channel="Sky Crime HD.skyde">
+    <title>The Real Murders of Los Angeles</title>
 </programme>
-<programme start="20251226111500 +0000" stop="20251226120000 +0000" channel="Sky Crime HD.skyde">
-    <title>Diabolical - Teuflische Morde</title>
+<programme start="20251227111000 +0000" stop="20251227115500 +0000" channel="Sky Crime HD.skyde">
+    <title>The Real Murders of Los Angeles</title>
 </programme>
-<programme start="20251226120000 +0000" stop="20251226125000 +0000" channel="Sky Crime HD.skyde">
-    <title>Der Killer in meinem Dorf</title>
+<programme start="20251227115500 +0000" stop="20251227124000 +0000" channel="Sky Crime HD.skyde">
+    <title>The Real Murders of Los Angeles</title>
 </programme>
-<programme start="20251226125000 +0000" stop="20251226134000 +0000" channel="Sky Crime HD.skyde">
-    <title>Der Killer in meinem Dorf</title>
+<programme start="20251227124000 +0000" stop="20251227132500 +0000" channel="Sky Crime HD.skyde">
+    <title>The Real Murders of Los Angeles</title>
 </programme>
-<programme start="20251226134000 +0000" stop="20251226143000 +0000" channel="Sky Crime HD.skyde">
-    <title>Vienna Killing - Die Unterweger Story</title>
+<programme start="20251227132500 +0000" stop="20251227141000 +0000" channel="Sky Crime HD.skyde">
+    <title>The Real Murders of Los Angeles</title>
 </programme>
-<programme start="20251226143000 +0000" stop="20251226152000 +0000" channel="Sky Crime HD.skyde">
+<programme start="20251227141000 +0000" stop="20251227150000 +0000" channel="Sky Crime HD.skyde">
+    <title>The Real Murders of Los Angeles</title>
+</programme>
+<programme start="20251227150000 +0000" stop="20251227154500 +0000" channel="Sky Crime HD.skyde">
+    <title>The Real Murders of Los Angeles</title>
+</programme>
+<programme start="20251227154500 +0000" stop="20251227163000 +0000" channel="Sky Crime HD.skyde">
+    <title>The Real Murders of Los Angeles</title>
+</programme>
+<programme start="20251227163000 +0000" stop="20251227171500 +0000" channel="Sky Crime HD.skyde">
+    <title>The Real Murders of Los Angeles</title>
+</programme>
+<programme start="20251227171500 +0000" stop="20251227180000 +0000" channel="Sky Crime HD.skyde">
+    <title>The Real Murders of Los Angeles</title>
+</programme>
+<programme start="20251227180000 +0000" stop="20251227185000 +0000" channel="Sky Crime HD.skyde">
     <title>Holly Jolly Homicides</title>
 </programme>
-<programme start="20251226152000 +0000" stop="20251226161000 +0000" channel="Sky Crime HD.skyde">
+<programme start="20251227185000 +0000" stop="20251227194500 +0000" channel="Sky Crime HD.skyde">
     <title>Holly Jolly Homicides</title>
 </programme>
-<programme start="20251226161000 +0000" stop="20251226163500 +0000" channel="Sky Crime HD.skyde">
-    <title>Inside FBI - Die härtesten Fälle</title>
+<programme start="20251227194500 +0000" stop="20251227211000 +0000" channel="Sky Crime HD.skyde">
+    <title>Serial Killer Capital: Los Angeles</title>
 </programme>
-<programme start="20251226163500 +0000" stop="20251226170500 +0000" channel="Sky Crime HD.skyde">
-    <title>Inside FBI - Die härtesten Fälle</title>
-</programme>
-<programme start="20251226170500 +0000" stop="20251226173500 +0000" channel="Sky Crime HD.skyde">
-    <title>Inside FBI - Die härtesten Fälle</title>
-</programme>
-<programme start="20251226173500 +0000" stop="20251226182500 +0000" channel="Sky Crime HD.skyde">
-    <title>Der Killer in meinem Dorf</title>
-</programme>
-<programme start="20251226182500 +0000" stop="20251226191500 +0000" channel="Sky Crime HD.skyde">
-    <title>Der Killer in meinem Dorf</title>
-</programme>
-<programme start="20251226191500 +0000" stop="20251226201500 +0000" channel="Sky Crime HD.skyde">
+<programme start="20251227211000 +0000" stop="20251227221500 +0000" channel="Sky Crime HD.skyde">
     <title>Der Bestatter - Leichenschändung in Kalifornien</title>
 </programme>
-<programme start="20251226201500 +0000" stop="20251226212000 +0000" channel="Sky Crime HD.skyde">
+<programme start="20251227221500 +0000" stop="20251227231500 +0000" channel="Sky Crime HD.skyde">
     <title>Der Bestatter - Leichenschändung in Kalifornien</title>
 </programme>
-<programme start="20251226212000 +0000" stop="20251226221000 +0000" channel="Sky Crime HD.skyde">
-    <title>Vienna Killing - Die Unterweger Story</title>
+<programme start="20251226231000 +0000" stop="20251227004000 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Roger Moore - Ein Leben im Rampenlicht</title>
 </programme>
-<programme start="20251226221000 +0000" stop="20251226230000 +0000" channel="Sky Crime HD.skyde">
-    <title>Killing Versace - Der Modeschöpfer und sein Mörder</title>
+<programme start="20251227004000 +0000" stop="20251227012500 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Der XXL-Ostfriese - Unterwegs mit &quot;Knochenbrecher&quot; Tamme Hanken</title>
 </programme>
-<programme start="20251225231000 +0000" stop="20251225235500 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Terra X: Superhelden</title>
+<programme start="20251227012500 +0000" stop="20251227021000 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Der XXL-Ostfriese - Unterwegs mit &quot;Knochenbrecher&quot; Tamme Hanken</title>
 </programme>
-<programme start="20251225235500 +0000" stop="20251226004000 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Terra X: Superhelden</title>
+<programme start="20251227021000 +0000" stop="20251227032000 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Der XXL-Ostfriese - Unterwegs mit &quot;Knochenbrecher&quot; Tamme Hanken</title>
 </programme>
-<programme start="20251226004000 +0000" stop="20251226013000 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Terra X: Rom am Rhein</title>
-</programme>
-<programme start="20251226013000 +0000" stop="20251226021500 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Terra X: Rom am Rhein</title>
-</programme>
-<programme start="20251226021500 +0000" stop="20251226030000 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Terra X: Rom am Rhein</title>
-</programme>
-<programme start="20251226030000 +0000" stop="20251226034500 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Terra X: Der große Anfang - 500 Jahre Reformation</title>
-</programme>
-<programme start="20251226034500 +0000" stop="20251226044000 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Terra X: Der große Anfang - 500 Jahre Reformation</title>
-</programme>
-<programme start="20251226044000 +0000" stop="20251226052500 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Terra X: Der große Anfang - 500 Jahre Reformation</title>
-</programme>
-<programme start="20251226052500 +0000" stop="20251226061500 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Terra X: Der Rhein</title>
-</programme>
-<programme start="20251226061500 +0000" stop="20251226070500 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Terra X: Der Rhein</title>
-</programme>
-<programme start="20251226070500 +0000" stop="20251226075000 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Terra X: Die ersten Menschen</title>
-</programme>
-<programme start="20251226075000 +0000" stop="20251226084000 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Terra X: Die ersten Menschen</title>
-</programme>
-<programme start="20251226084000 +0000" stop="20251226093000 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Terra X: Der Dreißigjährige Krieg</title>
-</programme>
-<programme start="20251226093000 +0000" stop="20251226102000 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Terra X: Der Dreißigjährige Krieg</title>
-</programme>
-<programme start="20251226102000 +0000" stop="20251226110500 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Terra X: Drogen - Eine Weltgeschichte</title>
-</programme>
-<programme start="20251226110500 +0000" stop="20251226115500 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Terra X: Drogen - Eine Weltgeschichte</title>
-</programme>
-<programme start="20251226115500 +0000" stop="20251226124500 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Terra X: Faszination Universum</title>
-</programme>
-<programme start="20251226124500 +0000" stop="20251226133000 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Terra X: Faszination Universum</title>
-</programme>
-<programme start="20251226133000 +0000" stop="20251226142000 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Terra X: Mythos Nordsee</title>
-</programme>
-<programme start="20251226142000 +0000" stop="20251226151000 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Terra X: Mythos Nordsee</title>
-</programme>
-<programme start="20251226151000 +0000" stop="20251226155500 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Terra X: Der geheime Kontinent</title>
-</programme>
-<programme start="20251226155500 +0000" stop="20251226164500 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Terra X: Der geheime Kontinent</title>
-</programme>
-<programme start="20251226164500 +0000" stop="20251226173000 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Terra X: Deutschland bei Nacht</title>
-</programme>
-<programme start="20251226173000 +0000" stop="20251226182000 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Terra X: Deutschland bei Nacht</title>
-</programme>
-<programme start="20251226182000 +0000" stop="20251226191000 +0000" channel="Sky Documentaries HD.skyde">
+<programme start="20251227032000 +0000" stop="20251227040500 +0000" channel="Sky Documentaries HD.skyde">
     <title>Die Deutschen</title>
 </programme>
-<programme start="20251226191000 +0000" stop="20251226200000 +0000" channel="Sky Documentaries HD.skyde">
+<programme start="20251227040500 +0000" stop="20251227045000 +0000" channel="Sky Documentaries HD.skyde">
     <title>Die Deutschen</title>
 </programme>
-<programme start="20251226200000 +0000" stop="20251226210000 +0000" channel="Sky Documentaries HD.skyde">
+<programme start="20251227045000 +0000" stop="20251227053500 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Die Deutschen</title>
+</programme>
+<programme start="20251227053500 +0000" stop="20251227062500 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Die Deutschen</title>
+</programme>
+<programme start="20251227062500 +0000" stop="20251227071500 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Die Deutschen</title>
+</programme>
+<programme start="20251227071500 +0000" stop="20251227080000 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Die Deutschen</title>
+</programme>
+<programme start="20251227080000 +0000" stop="20251227085000 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Die Deutschen</title>
+</programme>
+<programme start="20251227085000 +0000" stop="20251227094000 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Der XXL-Ostfriese - Unterwegs mit &quot;Knochenbrecher&quot; Tamme Hanken</title>
+</programme>
+<programme start="20251227094000 +0000" stop="20251227103000 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Der XXL-Ostfriese - Unterwegs mit &quot;Knochenbrecher&quot; Tamme Hanken</title>
+</programme>
+<programme start="20251227103000 +0000" stop="20251227112000 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Der XXL-Ostfriese - Unterwegs mit &quot;Knochenbrecher&quot; Tamme Hanken</title>
+</programme>
+<programme start="20251227112000 +0000" stop="20251227121000 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Der XXL-Ostfriese - Unterwegs mit &quot;Knochenbrecher&quot; Tamme Hanken</title>
+</programme>
+<programme start="20251227121000 +0000" stop="20251227130000 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Der XXL-Ostfriese - Unterwegs mit &quot;Knochenbrecher&quot; Tamme Hanken</title>
+</programme>
+<programme start="20251227130000 +0000" stop="20251227133000 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Police Ten 7 - Auf Streife in Down Under</title>
+</programme>
+<programme start="20251227133000 +0000" stop="20251227135500 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Police Ten 7 - Auf Streife in Down Under</title>
+</programme>
+<programme start="20251227135500 +0000" stop="20251227142500 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Police Ten 7 - Auf Streife in Down Under</title>
+</programme>
+<programme start="20251227142500 +0000" stop="20251227145500 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Police Ten 7 - Auf Streife in Down Under</title>
+</programme>
+<programme start="20251227145500 +0000" stop="20251227152000 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Police Ten 7 - Auf Streife in Down Under</title>
+</programme>
+<programme start="20251227152000 +0000" stop="20251227155000 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Police Ten 7 - Auf Streife in Down Under</title>
+</programme>
+<programme start="20251227155000 +0000" stop="20251227162000 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Police Ten 7 - Auf Streife in Down Under</title>
+</programme>
+<programme start="20251227162000 +0000" stop="20251227164500 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Police Ten 7 - Auf Streife in Down Under</title>
+</programme>
+<programme start="20251227164500 +0000" stop="20251227175000 +0000" channel="Sky Documentaries HD.skyde">
     <title>Mozart - Genie und Rebell</title>
 </programme>
-<programme start="20251226210000 +0000" stop="20251226220500 +0000" channel="Sky Documentaries HD.skyde">
+<programme start="20251227175000 +0000" stop="20251227185500 +0000" channel="Sky Documentaries HD.skyde">
     <title>Mozart - Genie und Rebell</title>
 </programme>
-<programme start="20251226220500 +0000" stop="20251226231000 +0000" channel="Sky Documentaries HD.skyde">
+<programme start="20251227185500 +0000" stop="20251227200000 +0000" channel="Sky Documentaries HD.skyde">
     <title>Mozart - Genie und Rebell</title>
 </programme>
-<programme start="20251225230500 +0000" stop="20251225235000 +0000" channel="Sky Krimi HD.skyde">
-    <title>Die Rosenheim-Cops</title>
+<programme start="20251227200000 +0000" stop="20251227203000 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Meine Geschichte</title>
 </programme>
-<programme start="20251225235000 +0000" stop="20251226003500 +0000" channel="Sky Krimi HD.skyde">
-    <title>Die Rosenheim-Cops</title>
+<programme start="20251227203000 +0000" stop="20251227210000 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Meine Geschichte</title>
 </programme>
-<programme start="20251226003500 +0000" stop="20251226012000 +0000" channel="Sky Krimi HD.skyde">
-    <title>Die Rosenheim-Cops</title>
+<programme start="20251227210000 +0000" stop="20251227213500 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Meine Geschichte</title>
 </programme>
-<programme start="20251226012000 +0000" stop="20251226020500 +0000" channel="Sky Krimi HD.skyde">
-    <title>Die Rosenheim-Cops</title>
+<programme start="20251227213500 +0000" stop="20251227220500 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Meine Geschichte</title>
 </programme>
-<programme start="20251226020500 +0000" stop="20251226030000 +0000" channel="Sky Krimi HD.skyde">
-    <title>Die Rosenheim-Cops</title>
+<programme start="20251227220500 +0000" stop="20251227223500 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Meine Geschichte</title>
 </programme>
-<programme start="20251226025130 +0000" stop="20251226025938 +0000" channel="Sky Krimi HD.skyde">
-    <title></title>
+<programme start="20251227223500 +0000" stop="20251227231000 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Meine Geschichte</title>
 </programme>
-<programme start="20251226030000 +0000" stop="20251226034000 +0000" channel="Sky Krimi HD.skyde">
-    <title>Die Rosenheim-Cops</title>
-</programme>
-<programme start="20251226034000 +0000" stop="20251226042500 +0000" channel="Sky Krimi HD.skyde">
-    <title>Die Rosenheim-Cops</title>
-</programme>
-<programme start="20251226042500 +0000" stop="20251226051500 +0000" channel="Sky Krimi HD.skyde">
-    <title>Die Rosenheim-Cops</title>
-</programme>
-<programme start="20251226051500 +0000" stop="20251226060000 +0000" channel="Sky Krimi HD.skyde">
-    <title>Die Rosenheim-Cops</title>
-</programme>
-<programme start="20251226060000 +0000" stop="20251226064500 +0000" channel="Sky Krimi HD.skyde">
-    <title>Die Rosenheim-Cops</title>
-</programme>
-<programme start="20251226064500 +0000" stop="20251226082000 +0000" channel="Sky Krimi HD.skyde">
-    <title>Nord bei Nordwest: Käpt&#039;n Hook</title>
-</programme>
-<programme start="20251226082000 +0000" stop="20251226095500 +0000" channel="Sky Krimi HD.skyde">
-    <title>Nord bei Nordwest: Der wilde Sven</title>
-</programme>
-<programme start="20251226095500 +0000" stop="20251226112500 +0000" channel="Sky Krimi HD.skyde">
-    <title>Nord bei Nordwest: Estonia</title>
-</programme>
-<programme start="20251226112500 +0000" stop="20251226130000 +0000" channel="Sky Krimi HD.skyde">
-    <title>Nord bei Nordwest: Der Transport</title>
-</programme>
-<programme start="20251226130000 +0000" stop="20251226143500 +0000" channel="Sky Krimi HD.skyde">
-    <title>Nord bei Nordwest: Sandy</title>
-</programme>
-<programme start="20251226143500 +0000" stop="20251226160500 +0000" channel="Sky Krimi HD.skyde">
-    <title>Nord bei Nordwest: Waidmannsheil</title>
-</programme>
-<programme start="20251226160500 +0000" stop="20251226174000 +0000" channel="Sky Krimi HD.skyde">
-    <title>Nord bei Nordwest: Gold!</title>
-</programme>
-<programme start="20251226174000 +0000" stop="20251226191500 +0000" channel="Sky Krimi HD.skyde">
-    <title>Nord bei Nordwest: Frau Irmler</title>
-</programme>
-<programme start="20251226191500 +0000" stop="20251226204500 +0000" channel="Sky Krimi HD.skyde">
-    <title>Nord bei Nordwest: Dinge des Lebens</title>
-</programme>
-<programme start="20251226204500 +0000" stop="20251226222000 +0000" channel="Sky Krimi HD.skyde">
-    <title>Nord bei Nordwest: Ein Killer und ein halber</title>
-</programme>
-<programme start="20251226222000 +0000" stop="20251226231000 +0000" channel="Sky Krimi HD.skyde">
+<programme start="20251226231000 +0000" stop="20251227000000 +0000" channel="Sky Krimi HD.skyde">
     <title>Morden im Norden</title>
 </programme>
-<programme start="20251225234500 +0000" stop="20251226004000 +0000" channel="Sky Nature HD.skyde">
-    <title>Wilder Nordatlantik</title>
+<programme start="20251227000000 +0000" stop="20251227005000 +0000" channel="Sky Krimi HD.skyde">
+    <title>Morden im Norden</title>
 </programme>
-<programme start="20251226004000 +0000" stop="20251226013500 +0000" channel="Sky Nature HD.skyde">
-    <title>Wildes Großbritannien</title>
+<programme start="20251227005000 +0000" stop="20251227014000 +0000" channel="Sky Krimi HD.skyde">
+    <title>Morden im Norden</title>
 </programme>
-<programme start="20251226013500 +0000" stop="20251226023000 +0000" channel="Sky Nature HD.skyde">
-    <title>Wildes Großbritannien</title>
+<programme start="20251227014000 +0000" stop="20251227023000 +0000" channel="Sky Krimi HD.skyde">
+    <title>Morden im Norden</title>
 </programme>
-<programme start="20251226023000 +0000" stop="20251226032500 +0000" channel="Sky Nature HD.skyde">
-    <title>Die wilden Inseln Irlands</title>
+<programme start="20251227023000 +0000" stop="20251227035500 +0000" channel="Sky Krimi HD.skyde">
+    <title>Morden im Norden</title>
 </programme>
-<programme start="20251226032500 +0000" stop="20251226041000 +0000" channel="Sky Nature HD.skyde">
-    <title>Italiens wilde Schönheit</title>
+<programme start="20251227031958 +0000" stop="20251227032947 +0000" channel="Sky Krimi HD.skyde">
+    <title></title>
 </programme>
-<programme start="20251226041000 +0000" stop="20251226050500 +0000" channel="Sky Nature HD.skyde">
-    <title>Tiere XXS</title>
+<programme start="20251227033047 +0000" stop="20251227034320 +0000" channel="Sky Krimi HD.skyde">
+    <title></title>
 </programme>
-<programme start="20251226050500 +0000" stop="20251226060000 +0000" channel="Sky Nature HD.skyde">
+<programme start="20251227034350 +0000" stop="20251227035515 +0000" channel="Sky Krimi HD.skyde">
+    <title></title>
+</programme>
+<programme start="20251227035500 +0000" stop="20251227044000 +0000" channel="Sky Krimi HD.skyde">
+    <title>Morden im Norden</title>
+</programme>
+<programme start="20251227044000 +0000" stop="20251227053500 +0000" channel="Sky Krimi HD.skyde">
+    <title>Morden im Norden</title>
+</programme>
+<programme start="20251227053500 +0000" stop="20251227062500 +0000" channel="Sky Krimi HD.skyde">
+    <title>Morden im Norden</title>
+</programme>
+<programme start="20251227062500 +0000" stop="20251227071500 +0000" channel="Sky Krimi HD.skyde">
+    <title>Morden im Norden</title>
+</programme>
+<programme start="20251227071500 +0000" stop="20251227081000 +0000" channel="Sky Krimi HD.skyde">
+    <title>Morden im Norden</title>
+</programme>
+<programme start="20251227081000 +0000" stop="20251227090000 +0000" channel="Sky Krimi HD.skyde">
+    <title>Morden im Norden</title>
+</programme>
+<programme start="20251227090000 +0000" stop="20251227095500 +0000" channel="Sky Krimi HD.skyde">
+    <title>Morden im Norden</title>
+</programme>
+<programme start="20251227095500 +0000" stop="20251227105000 +0000" channel="Sky Krimi HD.skyde">
+    <title>Morden im Norden</title>
+</programme>
+<programme start="20251227105000 +0000" stop="20251227114000 +0000" channel="Sky Krimi HD.skyde">
+    <title>Morden im Norden</title>
+</programme>
+<programme start="20251227114000 +0000" stop="20251227123500 +0000" channel="Sky Krimi HD.skyde">
+    <title>Morden im Norden</title>
+</programme>
+<programme start="20251227123500 +0000" stop="20251227141000 +0000" channel="Sky Krimi HD.skyde">
+    <title>Der Usedom-Krimi: Entführt</title>
+</programme>
+<programme start="20251227141000 +0000" stop="20251227154000 +0000" channel="Sky Krimi HD.skyde">
+    <title>Der Usedom-Krimi: Ungebetene Gäste</title>
+</programme>
+<programme start="20251227154000 +0000" stop="20251227163500 +0000" channel="Sky Krimi HD.skyde">
+    <title>Morden im Norden</title>
+</programme>
+<programme start="20251227163500 +0000" stop="20251227172500 +0000" channel="Sky Krimi HD.skyde">
+    <title>Morden im Norden</title>
+</programme>
+<programme start="20251227172500 +0000" stop="20251227182000 +0000" channel="Sky Krimi HD.skyde">
+    <title>Morden im Norden</title>
+</programme>
+<programme start="20251227182000 +0000" stop="20251227191500 +0000" channel="Sky Krimi HD.skyde">
+    <title>Morden im Norden</title>
+</programme>
+<programme start="20251227191500 +0000" stop="20251227200500 +0000" channel="Sky Krimi HD.skyde">
+    <title>Morden im Norden</title>
+</programme>
+<programme start="20251227200500 +0000" stop="20251227205500 +0000" channel="Sky Krimi HD.skyde">
+    <title>Morden im Norden</title>
+</programme>
+<programme start="20251227205500 +0000" stop="20251227215000 +0000" channel="Sky Krimi HD.skyde">
+    <title>Morden im Norden</title>
+</programme>
+<programme start="20251227215000 +0000" stop="20251227224500 +0000" channel="Sky Krimi HD.skyde">
+    <title>Morden im Norden</title>
+</programme>
+<programme start="20251227224500 +0000" stop="20251227233500 +0000" channel="Sky Krimi HD.skyde">
+    <title>Morden im Norden</title>
+</programme>
+<programme start="20251226233000 +0000" stop="20251227002500 +0000" channel="Sky Nature HD.skyde">
+    <title>Afrikas Naturwunder - Ein Tag wie kein anderer</title>
+</programme>
+<programme start="20251227002500 +0000" stop="20251227012000 +0000" channel="Sky Nature HD.skyde">
+    <title>Kampf in der Kalahari: Löwen gegen Elefanten</title>
+</programme>
+<programme start="20251227012000 +0000" stop="20251227021500 +0000" channel="Sky Nature HD.skyde">
     <title>Tierische Herzensbrecher</title>
 </programme>
-<programme start="20251226060000 +0000" stop="20251226064500 +0000" channel="Sky Nature HD.skyde">
-    <title>Hunde außer Kontrolle</title>
+<programme start="20251227021500 +0000" stop="20251227031000 +0000" channel="Sky Nature HD.skyde">
+    <title>Großkatzen 24/7</title>
 </programme>
-<programme start="20251226064500 +0000" stop="20251226073500 +0000" channel="Sky Nature HD.skyde">
-    <title>Tierarzt Dr. Jeff - Der Rocky Mountain Doc</title>
-</programme>
-<programme start="20251226073500 +0000" stop="20251226082500 +0000" channel="Sky Nature HD.skyde">
-    <title>Tierarzt Dr. Jeff - Der Rocky Mountain Doc</title>
-</programme>
-<programme start="20251226082500 +0000" stop="20251226091500 +0000" channel="Sky Nature HD.skyde">
-    <title>Animal Park: Zoo-Geschichten aus Longleat</title>
-</programme>
-<programme start="20251226091500 +0000" stop="20251226100500 +0000" channel="Sky Nature HD.skyde">
-    <title>Animal Park: Zoo-Geschichten aus Longleat</title>
-</programme>
-<programme start="20251226100500 +0000" stop="20251226105500 +0000" channel="Sky Nature HD.skyde">
-    <title>Taronga Zoo Hautnah</title>
-</programme>
-<programme start="20251226105500 +0000" stop="20251226114000 +0000" channel="Sky Nature HD.skyde">
-    <title>Taronga Zoo Hautnah</title>
-</programme>
-<programme start="20251226114000 +0000" stop="20251226124000 +0000" channel="Sky Nature HD.skyde">
-    <title>Tropische Inseln unserer Erde</title>
-</programme>
-<programme start="20251226124000 +0000" stop="20251226133500 +0000" channel="Sky Nature HD.skyde">
-    <title>Tropische Inseln unserer Erde</title>
-</programme>
-<programme start="20251226133500 +0000" stop="20251226143000 +0000" channel="Sky Nature HD.skyde">
-    <title>Tropische Inseln unserer Erde</title>
-</programme>
-<programme start="20251226143000 +0000" stop="20251226152500 +0000" channel="Sky Nature HD.skyde">
-    <title>Trickser im Tierreich</title>
-</programme>
-<programme start="20251226152500 +0000" stop="20251226162500 +0000" channel="Sky Nature HD.skyde">
-    <title>Trickser im Tierreich</title>
-</programme>
-<programme start="20251226162500 +0000" stop="20251226172000 +0000" channel="Sky Nature HD.skyde">
-    <title>Trickser im Tierreich</title>
-</programme>
-<programme start="20251226172000 +0000" stop="20251226182500 +0000" channel="Sky Nature HD.skyde">
-    <title>Animal Park: Zoo-Geschichten aus Longleat</title>
-</programme>
-<programme start="20251226182500 +0000" stop="20251226191500 +0000" channel="Sky Nature HD.skyde">
-    <title>Animal Park: Zoo-Geschichten aus Longleat</title>
-</programme>
-<programme start="20251226191500 +0000" stop="20251226200500 +0000" channel="Sky Nature HD.skyde">
-    <title>Taronga Zoo Hautnah</title>
-</programme>
-<programme start="20251226200500 +0000" stop="20251226205000 +0000" channel="Sky Nature HD.skyde">
-    <title>Taronga Zoo Hautnah</title>
-</programme>
-<programme start="20251226205000 +0000" stop="20251226214000 +0000" channel="Sky Nature HD.skyde">
+<programme start="20251227031000 +0000" stop="20251227035500 +0000" channel="Sky Nature HD.skyde">
     <title>Raubtieren auf der Spur</title>
 </programme>
-<programme start="20251226214000 +0000" stop="20251226223500 +0000" channel="Sky Nature HD.skyde">
-    <title>Kampf der Giganten - Löwen gegen Elefanten</title>
+<programme start="20251227035500 +0000" stop="20251227044500 +0000" channel="Sky Nature HD.skyde">
+    <title>Animal Park: Zoo-Geschichten aus Longleat</title>
 </programme>
-<programme start="20251226223500 +0000" stop="20251226233000 +0000" channel="Sky Nature HD.skyde">
-    <title>Die größten Tiere der Erde</title>
+<programme start="20251227044500 +0000" stop="20251227053500 +0000" channel="Sky Nature HD.skyde">
+    <title>Animal Park: Zoo-Geschichten aus Longleat</title>
 </programme>
-<programme start="20251225234000 +0000" stop="20251226002000 +0000" channel="Sky One HD.skyde">
+<programme start="20251227053500 +0000" stop="20251227062000 +0000" channel="Sky Nature HD.skyde">
+    <title>Animal Park: Zoo-Geschichten aus Longleat</title>
+</programme>
+<programme start="20251227062000 +0000" stop="20251227071000 +0000" channel="Sky Nature HD.skyde">
+    <title>Animal Park: Zoo-Geschichten aus Longleat</title>
+</programme>
+<programme start="20251227071000 +0000" stop="20251227080000 +0000" channel="Sky Nature HD.skyde">
+    <title>Animal Park: Zoo-Geschichten aus Longleat</title>
+</programme>
+<programme start="20251227080000 +0000" stop="20251227085000 +0000" channel="Sky Nature HD.skyde">
+    <title>Animal Park: Zoo-Geschichten aus Longleat</title>
+</programme>
+<programme start="20251227085000 +0000" stop="20251227095000 +0000" channel="Sky Nature HD.skyde">
+    <title>Animal Park: Zoo-Geschichten aus Longleat</title>
+</programme>
+<programme start="20251227095000 +0000" stop="20251227104000 +0000" channel="Sky Nature HD.skyde">
+    <title>Taronga Zoo Hautnah</title>
+</programme>
+<programme start="20251227104000 +0000" stop="20251227112500 +0000" channel="Sky Nature HD.skyde">
+    <title>Taronga Zoo Hautnah</title>
+</programme>
+<programme start="20251227112500 +0000" stop="20251227122000 +0000" channel="Sky Nature HD.skyde">
+    <title>Fletchers&#039; Family Farm</title>
+</programme>
+<programme start="20251227122000 +0000" stop="20251227131000 +0000" channel="Sky Nature HD.skyde">
+    <title>Fletchers&#039; Family Farm</title>
+</programme>
+<programme start="20251227131000 +0000" stop="20251227140000 +0000" channel="Sky Nature HD.skyde">
+    <title>Fletchers&#039; Family Farm</title>
+</programme>
+<programme start="20251227140000 +0000" stop="20251227145500 +0000" channel="Sky Nature HD.skyde">
+    <title>Fletchers&#039; Family Farm</title>
+</programme>
+<programme start="20251227145500 +0000" stop="20251227154500 +0000" channel="Sky Nature HD.skyde">
+    <title>Fletchers&#039; Family Farm</title>
+</programme>
+<programme start="20251227154500 +0000" stop="20251227164000 +0000" channel="Sky Nature HD.skyde">
+    <title>Fletchers&#039; Family Farm</title>
+</programme>
+<programme start="20251227164000 +0000" stop="20251227173000 +0000" channel="Sky Nature HD.skyde">
+    <title>Fletchers&#039; Family Farm</title>
+</programme>
+<programme start="20251227173000 +0000" stop="20251227182000 +0000" channel="Sky Nature HD.skyde">
+    <title>Fletchers&#039; Family Farm</title>
+</programme>
+<programme start="20251227182000 +0000" stop="20251227191500 +0000" channel="Sky Nature HD.skyde">
+    <title>Fletchers&#039; Family Farm at Christmas</title>
+</programme>
+<programme start="20251227191500 +0000" stop="20251227200000 +0000" channel="Sky Nature HD.skyde">
+    <title>Taronga Zoo Hautnah</title>
+</programme>
+<programme start="20251227200000 +0000" stop="20251227205000 +0000" channel="Sky Nature HD.skyde">
+    <title>Taronga Zoo Hautnah</title>
+</programme>
+<programme start="20251227205000 +0000" stop="20251227214500 +0000" channel="Sky Nature HD.skyde">
+    <title>Das Wasserloch - Afrikas Wildtier-Oase</title>
+</programme>
+<programme start="20251227214500 +0000" stop="20251227223500 +0000" channel="Sky Nature HD.skyde">
+    <title>Das Wasserloch - Afrikas Wildtier-Oase</title>
+</programme>
+<programme start="20251227223500 +0000" stop="20251227233000 +0000" channel="Sky Nature HD.skyde">
+    <title>Das Wasserloch - Afrikas Wildtier-Oase</title>
+</programme>
+<programme start="20251226234000 +0000" stop="20251227002000 +0000" channel="Sky One HD.skyde">
     <title>Navy CIS</title>
 </programme>
-<programme start="20251226002000 +0000" stop="20251226010500 +0000" channel="Sky One HD.skyde">
+<programme start="20251227002000 +0000" stop="20251227010000 +0000" channel="Sky One HD.skyde">
     <title>Blue Bloods - Crime Scene New York</title>
 </programme>
-<programme start="20251226010500 +0000" stop="20251226014500 +0000" channel="Sky One HD.skyde">
+<programme start="20251227010000 +0000" stop="20251227014000 +0000" channel="Sky One HD.skyde">
     <title>Blue Bloods - Crime Scene New York</title>
 </programme>
-<programme start="20251226014500 +0000" stop="20251226021500 +0000" channel="Sky One HD.skyde">
+<programme start="20251227014000 +0000" stop="20251227021000 +0000" channel="Sky One HD.skyde">
     <title>Entourage</title>
 </programme>
-<programme start="20251226021500 +0000" stop="20251226024500 +0000" channel="Sky One HD.skyde">
+<programme start="20251227021000 +0000" stop="20251227023500 +0000" channel="Sky One HD.skyde">
     <title>Entourage</title>
 </programme>
-<programme start="20251226024500 +0000" stop="20251226031500 +0000" channel="Sky One HD.skyde">
+<programme start="20251227023500 +0000" stop="20251227030000 +0000" channel="Sky One HD.skyde">
     <title>Entourage</title>
 </programme>
-<programme start="20251226031500 +0000" stop="20251226034500 +0000" channel="Sky One HD.skyde">
+<programme start="20251227030000 +0000" stop="20251227033000 +0000" channel="Sky One HD.skyde">
     <title>Entourage</title>
 </programme>
-<programme start="20251226034500 +0000" stop="20251226041000 +0000" channel="Sky One HD.skyde">
+<programme start="20251227033000 +0000" stop="20251227040000 +0000" channel="Sky One HD.skyde">
     <title>Entourage</title>
 </programme>
-<programme start="20251226041000 +0000" stop="20251226041500 +0000" channel="Sky One HD.skyde">
-    <title>Das Boot 4: Neu an Board</title>
+<programme start="20251227040000 +0000" stop="20251227042000 +0000" channel="Sky One HD.skyde">
+    <title>Diese Ochsenknechts 4: Matteos Geburt</title>
 </programme>
-<programme start="20251226041500 +0000" stop="20251226050000 +0000" channel="Sky One HD.skyde">
+<programme start="20251227042000 +0000" stop="20251227050500 +0000" channel="Sky One HD.skyde">
     <title>Magnum P.I.</title>
 </programme>
-<programme start="20251226050000 +0000" stop="20251226054500 +0000" channel="Sky One HD.skyde">
+<programme start="20251227050500 +0000" stop="20251227055000 +0000" channel="Sky One HD.skyde">
     <title>Magnum P.I.</title>
 </programme>
-<programme start="20251226054500 +0000" stop="20251226063000 +0000" channel="Sky One HD.skyde">
+<programme start="20251227055000 +0000" stop="20251227063500 +0000" channel="Sky One HD.skyde">
     <title>Navy CIS</title>
 </programme>
-<programme start="20251226063000 +0000" stop="20251226071500 +0000" channel="Sky One HD.skyde">
+<programme start="20251227063500 +0000" stop="20251227072000 +0000" channel="Sky One HD.skyde">
     <title>Navy CIS</title>
 </programme>
-<programme start="20251226071500 +0000" stop="20251226080000 +0000" channel="Sky One HD.skyde">
+<programme start="20251227072000 +0000" stop="20251227080500 +0000" channel="Sky One HD.skyde">
     <title>Navy CIS</title>
 </programme>
-<programme start="20251226080000 +0000" stop="20251226084500 +0000" channel="Sky One HD.skyde">
+<programme start="20251227080500 +0000" stop="20251227084500 +0000" channel="Sky One HD.skyde">
     <title>Blue Bloods - Crime Scene New York</title>
 </programme>
-<programme start="20251226084500 +0000" stop="20251226092500 +0000" channel="Sky One HD.skyde">
+<programme start="20251227084500 +0000" stop="20251227093000 +0000" channel="Sky One HD.skyde">
     <title>Blue Bloods - Crime Scene New York</title>
 </programme>
-<programme start="20251226092500 +0000" stop="20251226101000 +0000" channel="Sky One HD.skyde">
+<programme start="20251227093000 +0000" stop="20251227101500 +0000" channel="Sky One HD.skyde">
     <title>Chicago Fire</title>
 </programme>
-<programme start="20251226101000 +0000" stop="20251226105500 +0000" channel="Sky One HD.skyde">
+<programme start="20251227101500 +0000" stop="20251227105500 +0000" channel="Sky One HD.skyde">
     <title>Chicago Fire</title>
 </programme>
-<programme start="20251226105500 +0000" stop="20251226114000 +0000" channel="Sky One HD.skyde">
+<programme start="20251227105500 +0000" stop="20251227114000 +0000" channel="Sky One HD.skyde">
     <title>The Rookie</title>
 </programme>
-<programme start="20251226114000 +0000" stop="20251226122500 +0000" channel="Sky One HD.skyde">
+<programme start="20251227114000 +0000" stop="20251227123000 +0000" channel="Sky One HD.skyde">
     <title>Watson</title>
 </programme>
-<programme start="20251226122500 +0000" stop="20251226131500 +0000" channel="Sky One HD.skyde">
+<programme start="20251227123000 +0000" stop="20251227131500 +0000" channel="Sky One HD.skyde">
     <title>Watson</title>
 </programme>
-<programme start="20251226131500 +0000" stop="20251226140000 +0000" channel="Sky One HD.skyde">
+<programme start="20251227131500 +0000" stop="20251227140000 +0000" channel="Sky One HD.skyde">
     <title>Magnum P.I.</title>
 </programme>
-<programme start="20251226140000 +0000" stop="20251226144500 +0000" channel="Sky One HD.skyde">
+<programme start="20251227140000 +0000" stop="20251227144500 +0000" channel="Sky One HD.skyde">
     <title>Magnum P.I.</title>
 </programme>
-<programme start="20251226144500 +0000" stop="20251226153000 +0000" channel="Sky One HD.skyde">
+<programme start="20251227144500 +0000" stop="20251227153500 +0000" channel="Sky One HD.skyde">
     <title>Navy CIS</title>
 </programme>
-<programme start="20251226153000 +0000" stop="20251226161500 +0000" channel="Sky One HD.skyde">
+<programme start="20251227153500 +0000" stop="20251227162000 +0000" channel="Sky One HD.skyde">
     <title>Navy CIS</title>
 </programme>
-<programme start="20251226161500 +0000" stop="20251226170000 +0000" channel="Sky One HD.skyde">
+<programme start="20251227162000 +0000" stop="20251227170500 +0000" channel="Sky One HD.skyde">
     <title>Navy CIS</title>
 </programme>
-<programme start="20251226170000 +0000" stop="20251226174500 +0000" channel="Sky One HD.skyde">
+<programme start="20251227170500 +0000" stop="20251227174500 +0000" channel="Sky One HD.skyde">
     <title>Chicago Fire</title>
 </programme>
-<programme start="20251226174500 +0000" stop="20251226182500 +0000" channel="Sky One HD.skyde">
+<programme start="20251227174500 +0000" stop="20251227182500 +0000" channel="Sky One HD.skyde">
     <title>Chicago Fire</title>
 </programme>
-<programme start="20251226182500 +0000" stop="20251226191500 +0000" channel="Sky One HD.skyde">
+<programme start="20251227182500 +0000" stop="20251227191500 +0000" channel="Sky One HD.skyde">
     <title>The Rookie</title>
 </programme>
-<programme start="20251226191500 +0000" stop="20251226200000 +0000" channel="Sky One HD.skyde">
+<programme start="20251227191500 +0000" stop="20251227200000 +0000" channel="Sky One HD.skyde">
     <title>Watson</title>
 </programme>
-<programme start="20251226200000 +0000" stop="20251226204500 +0000" channel="Sky One HD.skyde">
+<programme start="20251227200000 +0000" stop="20251227204500 +0000" channel="Sky One HD.skyde">
     <title>Watson</title>
 </programme>
-<programme start="20251226204500 +0000" stop="20251226212500 +0000" channel="Sky One HD.skyde">
+<programme start="20251227204500 +0000" stop="20251227212500 +0000" channel="Sky One HD.skyde">
     <title>Chicago Fire</title>
 </programme>
-<programme start="20251226212500 +0000" stop="20251226221000 +0000" channel="Sky One HD.skyde">
+<programme start="20251227212500 +0000" stop="20251227221000 +0000" channel="Sky One HD.skyde">
     <title>Chicago Fire</title>
 </programme>
-<programme start="20251226221000 +0000" stop="20251226225500 +0000" channel="Sky One HD.skyde">
+<programme start="20251227221000 +0000" stop="20251227225500 +0000" channel="Sky One HD.skyde">
     <title>Navy CIS</title>
 </programme>
-<programme start="20251226225500 +0000" stop="20251226234000 +0000" channel="Sky One HD.skyde">
+<programme start="20251227225500 +0000" stop="20251227234000 +0000" channel="Sky One HD.skyde">
     <title>Navy CIS</title>
 </programme>
-<programme start="20251225230500 +0000" stop="20251226000000 +0000" channel="Sky Replay HD.skyde">
+<programme start="20251226231000 +0000" stop="20251227003000 +0000" channel="Sky Replay HD.skyde">
     <title>Outlander</title>
 </programme>
-<programme start="20251226000000 +0000" stop="20251226005500 +0000" channel="Sky Replay HD.skyde">
+<programme start="20251227003000 +0000" stop="20251227014000 +0000" channel="Sky Replay HD.skyde">
     <title>Outlander</title>
 </programme>
-<programme start="20251226005500 +0000" stop="20251226015500 +0000" channel="Sky Replay HD.skyde">
+<programme start="20251227014000 +0000" stop="20251227024500 +0000" channel="Sky Replay HD.skyde">
     <title>Outlander</title>
 </programme>
-<programme start="20251226015500 +0000" stop="20251226025000 +0000" channel="Sky Replay HD.skyde">
+<programme start="20251227024500 +0000" stop="20251227040500 +0000" channel="Sky Replay HD.skyde">
     <title>Outlander</title>
 </programme>
-<programme start="20251226025000 +0000" stop="20251226035500 +0000" channel="Sky Replay HD.skyde">
+<programme start="20251227040500 +0000" stop="20251227050500 +0000" channel="Sky Replay HD.skyde">
     <title>Outlander</title>
 </programme>
-<programme start="20251226035500 +0000" stop="20251226043500 +0000" channel="Sky Replay HD.skyde">
-    <title>Art in the City</title>
-</programme>
-<programme start="20251226043500 +0000" stop="20251226053500 +0000" channel="Sky Replay HD.skyde">
+<programme start="20251227050500 +0000" stop="20251227061500 +0000" channel="Sky Replay HD.skyde">
     <title>Outlander</title>
 </programme>
-<programme start="20251226053500 +0000" stop="20251226063000 +0000" channel="Sky Replay HD.skyde">
+<programme start="20251227061500 +0000" stop="20251227072000 +0000" channel="Sky Replay HD.skyde">
     <title>Outlander</title>
 </programme>
-<programme start="20251226063000 +0000" stop="20251226073000 +0000" channel="Sky Replay HD.skyde">
+<programme start="20251227072000 +0000" stop="20251227082000 +0000" channel="Sky Replay HD.skyde">
     <title>Outlander</title>
 </programme>
-<programme start="20251226073000 +0000" stop="20251226082000 +0000" channel="Sky Replay HD.skyde">
+<programme start="20251227082000 +0000" stop="20251227092000 +0000" channel="Sky Replay HD.skyde">
     <title>Outlander</title>
 </programme>
-<programme start="20251226082000 +0000" stop="20251226092000 +0000" channel="Sky Replay HD.skyde">
+<programme start="20251227092000 +0000" stop="20251227102500 +0000" channel="Sky Replay HD.skyde">
     <title>Outlander</title>
 </programme>
-<programme start="20251226092000 +0000" stop="20251226102000 +0000" channel="Sky Replay HD.skyde">
+<programme start="20251227102500 +0000" stop="20251227112500 +0000" channel="Sky Replay HD.skyde">
     <title>Outlander</title>
 </programme>
-<programme start="20251226102000 +0000" stop="20251226112000 +0000" channel="Sky Replay HD.skyde">
+<programme start="20251227112500 +0000" stop="20251227122500 +0000" channel="Sky Replay HD.skyde">
     <title>Outlander</title>
 </programme>
-<programme start="20251226112000 +0000" stop="20251226122000 +0000" channel="Sky Replay HD.skyde">
+<programme start="20251227122500 +0000" stop="20251227132500 +0000" channel="Sky Replay HD.skyde">
     <title>Outlander</title>
 </programme>
-<programme start="20251226122000 +0000" stop="20251226131500 +0000" channel="Sky Replay HD.skyde">
+<programme start="20251227132500 +0000" stop="20251227142000 +0000" channel="Sky Replay HD.skyde">
     <title>Outlander</title>
 </programme>
-<programme start="20251226131500 +0000" stop="20251226141500 +0000" channel="Sky Replay HD.skyde">
+<programme start="20251227142000 +0000" stop="20251227151500 +0000" channel="Sky Replay HD.skyde">
     <title>Outlander</title>
 </programme>
-<programme start="20251226141500 +0000" stop="20251226151000 +0000" channel="Sky Replay HD.skyde">
+<programme start="20251227151500 +0000" stop="20251227161000 +0000" channel="Sky Replay HD.skyde">
     <title>Outlander</title>
 </programme>
-<programme start="20251226151000 +0000" stop="20251226161000 +0000" channel="Sky Replay HD.skyde">
+<programme start="20251227161000 +0000" stop="20251227171000 +0000" channel="Sky Replay HD.skyde">
     <title>Outlander</title>
 </programme>
-<programme start="20251226161000 +0000" stop="20251226171000 +0000" channel="Sky Replay HD.skyde">
+<programme start="20251227171000 +0000" stop="20251227181000 +0000" channel="Sky Replay HD.skyde">
     <title>Outlander</title>
 </programme>
-<programme start="20251226171000 +0000" stop="20251226181000 +0000" channel="Sky Replay HD.skyde">
+<programme start="20251227181000 +0000" stop="20251227191500 +0000" channel="Sky Replay HD.skyde">
     <title>Outlander</title>
 </programme>
-<programme start="20251226181000 +0000" stop="20251226191500 +0000" channel="Sky Replay HD.skyde">
+<programme start="20251227191500 +0000" stop="20251227201000 +0000" channel="Sky Replay HD.skyde">
     <title>Outlander</title>
 </programme>
-<programme start="20251226191500 +0000" stop="20251226201500 +0000" channel="Sky Replay HD.skyde">
+<programme start="20251227201000 +0000" stop="20251227211000 +0000" channel="Sky Replay HD.skyde">
     <title>Outlander</title>
 </programme>
-<programme start="20251226201500 +0000" stop="20251226211500 +0000" channel="Sky Replay HD.skyde">
+<programme start="20251227211000 +0000" stop="20251227221000 +0000" channel="Sky Replay HD.skyde">
     <title>Outlander</title>
 </programme>
-<programme start="20251226211500 +0000" stop="20251226222000 +0000" channel="Sky Replay HD.skyde">
+<programme start="20251227221000 +0000" stop="20251227231000 +0000" channel="Sky Replay HD.skyde">
     <title>Outlander</title>
 </programme>
-<programme start="20251226222000 +0000" stop="20251226231000 +0000" channel="Sky Replay HD.skyde">
-    <title>Outlander</title>
-</programme>
-<programme start="20251225234500 +0000" stop="20251226003500 +0000" channel="Sky Showcase HD.skyde">
-    <title>Mord mit Aussicht</title>
-</programme>
-<programme start="20251226003500 +0000" stop="20251226012500 +0000" channel="Sky Showcase HD.skyde">
-    <title>Mord mit Aussicht</title>
-</programme>
-<programme start="20251226012500 +0000" stop="20251226020500 +0000" channel="Sky Showcase HD.skyde">
-    <title>SOKO Wien</title>
-</programme>
-<programme start="20251226020500 +0000" stop="20251226025000 +0000" channel="Sky Showcase HD.skyde">
-    <title>SOKO Wien</title>
-</programme>
-<programme start="20251226025000 +0000" stop="20251226034000 +0000" channel="Sky Showcase HD.skyde">
-    <title>WaPo Berlin</title>
-</programme>
-<programme start="20251226034000 +0000" stop="20251226043000 +0000" channel="Sky Showcase HD.skyde">
-    <title>WaPo Berlin</title>
-</programme>
-<programme start="20251226043000 +0000" stop="20251226043500 +0000" channel="Sky Showcase HD.skyde">
-    <title>Diese Ochsenknechts 4: Jimi boxt</title>
-</programme>
-<programme start="20251226043500 +0000" stop="20251226052000 +0000" channel="Sky Showcase HD.skyde">
-    <title>Die Hunderetter</title>
-</programme>
-<programme start="20251226052000 +0000" stop="20251226061000 +0000" channel="Sky Showcase HD.skyde">
-    <title>Tierarzt Dr. Jeff - Der Rocky Mountain Doc</title>
-</programme>
-<programme start="20251226061000 +0000" stop="20251226065500 +0000" channel="Sky Showcase HD.skyde">
-    <title>Tierarzt Dr. Jeff - Der Rocky Mountain Doc</title>
-</programme>
-<programme start="20251226065500 +0000" stop="20251226074500 +0000" channel="Sky Showcase HD.skyde">
-    <title>WaPo Berlin</title>
-</programme>
-<programme start="20251226074500 +0000" stop="20251226084000 +0000" channel="Sky Showcase HD.skyde">
-    <title>WaPo Berlin</title>
-</programme>
-<programme start="20251226084000 +0000" stop="20251226092500 +0000" channel="Sky Showcase HD.skyde">
-    <title>SOKO Wien</title>
-</programme>
-<programme start="20251226092500 +0000" stop="20251226101500 +0000" channel="Sky Showcase HD.skyde">
-    <title>SOKO Wien</title>
-</programme>
-<programme start="20251226101500 +0000" stop="20251226110500 +0000" channel="Sky Showcase HD.skyde">
-    <title>Murder by Medic - Tödliche Behandlung</title>
-</programme>
-<programme start="20251226110500 +0000" stop="20251226115000 +0000" channel="Sky Showcase HD.skyde">
-    <title>Murder by Medic - Tödliche Behandlung</title>
-</programme>
-<programme start="20251226115000 +0000" stop="20251226124000 +0000" channel="Sky Showcase HD.skyde">
-    <title>Der XXL-Ostfriese - Unterwegs mit &quot;Knochenbrecher&quot; Tamme Hanken</title>
-</programme>
-<programme start="20251226124000 +0000" stop="20251226132500 +0000" channel="Sky Showcase HD.skyde">
-    <title>Der XXL-Ostfriese - Unterwegs mit &quot;Knochenbrecher&quot; Tamme Hanken</title>
-</programme>
-<programme start="20251226132500 +0000" stop="20251226142000 +0000" channel="Sky Showcase HD.skyde">
-    <title>Mord mit Aussicht</title>
-</programme>
-<programme start="20251226142000 +0000" stop="20251226151500 +0000" channel="Sky Showcase HD.skyde">
-    <title>Mord mit Aussicht</title>
-</programme>
-<programme start="20251226151500 +0000" stop="20251226161000 +0000" channel="Sky Showcase HD.skyde">
-    <title>Mord mit Aussicht</title>
-</programme>
-<programme start="20251226161000 +0000" stop="20251226170000 +0000" channel="Sky Showcase HD.skyde">
-    <title>Mord mit Aussicht</title>
-</programme>
-<programme start="20251226170000 +0000" stop="20251226174500 +0000" channel="Sky Showcase HD.skyde">
-    <title>Blue Bloods - Crime Scene New York</title>
-</programme>
-<programme start="20251226174500 +0000" stop="20251226183000 +0000" channel="Sky Showcase HD.skyde">
-    <title>Blue Bloods - Crime Scene New York</title>
-</programme>
-<programme start="20251226183000 +0000" stop="20251226191500 +0000" channel="Sky Showcase HD.skyde">
-    <title>S.W.A.T.</title>
-</programme>
-<programme start="20251226191500 +0000" stop="20251226200500 +0000" channel="Sky Showcase HD.skyde">
-    <title>Amadeus</title>
-</programme>
-<programme start="20251226200500 +0000" stop="20251226205500 +0000" channel="Sky Showcase HD.skyde">
-    <title>Amadeus</title>
-</programme>
-<programme start="20251226205500 +0000" stop="20251226215500 +0000" channel="Sky Showcase HD.skyde">
+<programme start="20251226230000 +0000" stop="20251227000000 +0000" channel="Sky Showcase HD.skyde">
     <title>Mozart - Genie und Rebell</title>
 </programme>
-<programme start="20251226215500 +0000" stop="20251226230000 +0000" channel="Sky Showcase HD.skyde">
-    <title>Mozart - Genie und Rebell</title>
+<programme start="20251227000000 +0000" stop="20251227005000 +0000" channel="Sky Showcase HD.skyde">
+    <title>Mord mit Aussicht</title>
 </programme>
-<programme start="20251225233000 +0000" stop="20251226001500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20251227005000 +0000" stop="20251227014000 +0000" channel="Sky Showcase HD.skyde">
+    <title>Mord mit Aussicht</title>
+</programme>
+<programme start="20251227014000 +0000" stop="20251227022500 +0000" channel="Sky Showcase HD.skyde">
+    <title>SOKO Wien</title>
+</programme>
+<programme start="20251227022500 +0000" stop="20251227030500 +0000" channel="Sky Showcase HD.skyde">
+    <title>SOKO Wien</title>
+</programme>
+<programme start="20251227030500 +0000" stop="20251227035500 +0000" channel="Sky Showcase HD.skyde">
+    <title>WaPo Berlin</title>
+</programme>
+<programme start="20251227035500 +0000" stop="20251227044500 +0000" channel="Sky Showcase HD.skyde">
+    <title>WaPo Berlin</title>
+</programme>
+<programme start="20251227044500 +0000" stop="20251227045500 +0000" channel="Sky Showcase HD.skyde">
+    <title>Diese Ochsenknechts 4: Jodeln</title>
+</programme>
+<programme start="20251227045500 +0000" stop="20251227054000 +0000" channel="Sky Showcase HD.skyde">
+    <title>The Good Doctor</title>
+</programme>
+<programme start="20251227054000 +0000" stop="20251227062000 +0000" channel="Sky Showcase HD.skyde">
+    <title>The Good Doctor</title>
+</programme>
+<programme start="20251227062000 +0000" stop="20251227070500 +0000" channel="Sky Showcase HD.skyde">
+    <title>The Good Doctor</title>
+</programme>
+<programme start="20251227070500 +0000" stop="20251227075000 +0000" channel="Sky Showcase HD.skyde">
+    <title>The Good Doctor</title>
+</programme>
+<programme start="20251227075000 +0000" stop="20251227083500 +0000" channel="Sky Showcase HD.skyde">
+    <title>The Good Doctor</title>
+</programme>
+<programme start="20251227083500 +0000" stop="20251227093000 +0000" channel="Sky Showcase HD.skyde">
+    <title>Mord mit Aussicht</title>
+</programme>
+<programme start="20251227093000 +0000" stop="20251227102000 +0000" channel="Sky Showcase HD.skyde">
+    <title>Mord mit Aussicht</title>
+</programme>
+<programme start="20251227102000 +0000" stop="20251227111500 +0000" channel="Sky Showcase HD.skyde">
+    <title>Mord mit Aussicht</title>
+</programme>
+<programme start="20251227111500 +0000" stop="20251227121000 +0000" channel="Sky Showcase HD.skyde">
+    <title>Mord mit Aussicht</title>
+</programme>
+<programme start="20251227121000 +0000" stop="20251227130000 +0000" channel="Sky Showcase HD.skyde">
+    <title>Mord mit Aussicht</title>
+</programme>
+<programme start="20251227130000 +0000" stop="20251227135500 +0000" channel="Sky Showcase HD.skyde">
+    <title>Mord mit Aussicht</title>
+</programme>
+<programme start="20251227135500 +0000" stop="20251227145000 +0000" channel="Sky Showcase HD.skyde">
+    <title>Mord mit Aussicht</title>
+</programme>
+<programme start="20251227145000 +0000" stop="20251227154000 +0000" channel="Sky Showcase HD.skyde">
+    <title>Mord mit Aussicht</title>
+</programme>
+<programme start="20251227154000 +0000" stop="20251227163500 +0000" channel="Sky Showcase HD.skyde">
+    <title>Mord mit Aussicht</title>
+</programme>
+<programme start="20251227163500 +0000" stop="20251227172500 +0000" channel="Sky Showcase HD.skyde">
+    <title>Mord mit Aussicht</title>
+</programme>
+<programme start="20251227172500 +0000" stop="20251227182000 +0000" channel="Sky Showcase HD.skyde">
+    <title>Mord mit Aussicht</title>
+</programme>
+<programme start="20251227182000 +0000" stop="20251227191500 +0000" channel="Sky Showcase HD.skyde">
+    <title>Mord mit Aussicht</title>
+</programme>
+<programme start="20251227191500 +0000" stop="20251227205500 +0000" channel="Sky Showcase HD.skyde">
+    <title>Boss Level</title>
+</programme>
+<programme start="20251227205500 +0000" stop="20251227214000 +0000" channel="Sky Showcase HD.skyde">
+    <title>And Just Like That...</title>
+</programme>
+<programme start="20251227214000 +0000" stop="20251227222500 +0000" channel="Sky Showcase HD.skyde">
+    <title>And Just Like That...</title>
+</programme>
+<programme start="20251227222500 +0000" stop="20251227231000 +0000" channel="Sky Showcase HD.skyde">
+    <title>And Just Like That...</title>
+</programme>
+<programme start="20251227014500 +0000" stop="20251227020500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Fußball: Bundesliga Classic: Salzburg - WAC (2019/2020)</title>
+</programme>
+<programme start="20251227020500 +0000" stop="20251227022500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Fußball: Bundesliga Classic: Austria - Rapid (2018/2019)</title>
+</programme>
+<programme start="20251227022500 +0000" stop="20251227025000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Fußball: Bundesliga Classic: Austria - Rapid (2017/2018)</title>
+</programme>
+<programme start="20251227025000 +0000" stop="20251227031000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Fußball: Bundesliga Classic: Mattersburg - Austria (2015/2016)</title>
+</programme>
+<programme start="20251227031000 +0000" stop="20251227034000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Fußball: Bundesliga Classic: Wr. Neustadt - Sturm (2014/2015)</title>
+</programme>
+<programme start="20251227034000 +0000" stop="20251227040500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Fußball: Bundesliga Classic: Rapid - Salzburg (2014/2015)</title>
+</programme>
+<programme start="20251227040500 +0000" stop="20251227042500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Fußball: Bundesliga Classic: Salzburg - Grödig (2014/2015)</title>
+</programme>
+<programme start="20251227042500 +0000" stop="20251227045000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Fußball: Bundesliga Classic: Austria - Mattersburg (2012/2013)</title>
+</programme>
+<programme start="20251227045000 +0000" stop="20251227050000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Golf: Gofus Österreich</title>
+</programme>
+<programme start="20251227050000 +0000" stop="20251227053000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>RIESENrad: Sportgrößen im Waggon 28 (Gast: Manuela Zinsberger)</title>
+</programme>
+<programme start="20251227053000 +0000" stop="20251227060000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>RIESENrad: Sportgrößen im Waggon 28 (Gast: Marcos Nader)</title>
+</programme>
+<programme start="20251227060000 +0000" stop="20251227064500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Fußball: Herzog gegen Herzig - Die Next Generation Show (USC Kirchberg am Wagram)</title>
 </programme>
-<programme start="20251226001500 +0000" stop="20251226010000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Fußball: Herzog gegen Herzig - Die Next Generation Show (Grazer SC Straßenbahn)</title>
+<programme start="20251227064500 +0000" stop="20251227071500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: 90in30: FAK - STU, 17. Runde</title>
 </programme>
-<programme start="20251226010000 +0000" stop="20251226014500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Fußball: Herzog gegen Herzig - Die Next Generation Show (USV Pressbaum)</title>
-</programme>
-<programme start="20251226014500 +0000" stop="20251226021500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: 100% Rapid (Runden 13-16)</title>
-</programme>
-<programme start="20251226021500 +0000" stop="20251226024500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: 100% Sturm Graz (Runden 13-16)</title>
-</programme>
-<programme start="20251226024500 +0000" stop="20251226031500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: Torparade XXL (Runden 13-16)</title>
-</programme>
-<programme start="20251226031500 +0000" stop="20251226050000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Fußball: Historisches Derby: ASK-SVR (2008/2009)</title>
-</programme>
-<programme start="20251226050000 +0000" stop="20251226053000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>RIESENrad: Sportgrößen im Waggon 28 (Gast: Dominique Heinrich)</title>
-</programme>
-<programme start="20251226053000 +0000" stop="20251226060000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>RIESENrad: Sportgrößen im Waggon 28 (Gast: Stephanie Venier)</title>
-</programme>
-<programme start="20251226060000 +0000" stop="20251226063000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>RIESENrad: Sportgrößen im Waggon 28 (Gast: Emma Spitz)</title>
-</programme>
-<programme start="20251226063000 +0000" stop="20251226070000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: ASAT Kompakt, 1. Runde</title>
-</programme>
-<programme start="20251226070000 +0000" stop="20251226073000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: ASAT Kompakt, 2. Runde</title>
-</programme>
-<programme start="20251226073000 +0000" stop="20251226080500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: ASAT Kompakt, 3. Runde</title>
-</programme>
-<programme start="20251226080500 +0000" stop="20251226083500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: ASAT Kompakt, 4. Runde</title>
-</programme>
-<programme start="20251226083500 +0000" stop="20251226090500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: ASAT Kompakt, 5. Runde</title>
-</programme>
-<programme start="20251226090500 +0000" stop="20251226093500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: ASAT Kompakt, 6. Runde</title>
-</programme>
-<programme start="20251226093500 +0000" stop="20251226100500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: ASAT Kompakt, 7. Runde</title>
-</programme>
-<programme start="20251226100500 +0000" stop="20251226103500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: ASAT Kompakt, 8. Runde</title>
-</programme>
-<programme start="20251226103500 +0000" stop="20251226110500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: ASAT Kompakt, 9. Runde</title>
-</programme>
-<programme start="20251226110500 +0000" stop="20251226113500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: ASAT Kompakt, 10. Runde</title>
-</programme>
-<programme start="20251226113500 +0000" stop="20251226121000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: ASAT Kompakt, 11. Runde</title>
-</programme>
-<programme start="20251226121000 +0000" stop="20251226124000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: ASAT Kompakt, 12. Runde</title>
-</programme>
-<programme start="20251226124000 +0000" stop="20251226131000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: ASAT Kompakt, 13. Runde</title>
-</programme>
-<programme start="20251226131000 +0000" stop="20251226134000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: ASAT Kompakt, 14. Runde</title>
-</programme>
-<programme start="20251226134000 +0000" stop="20251226141000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: ASAT Kompakt, 15. Runde</title>
-</programme>
-<programme start="20251226141000 +0000" stop="20251226144000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: ASAT Kompakt, 16. Runde</title>
-</programme>
-<programme start="20251226144000 +0000" stop="20251226151000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: ASAT Kompakt, 17. Runde</title>
-</programme>
-<programme start="20251226151000 +0000" stop="20251226155500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Fußball: Herzog gegen Herzig - Die Next Generation Show (USC Kirchberg am Wagram)</title>
-</programme>
-<programme start="20251226155500 +0000" stop="20251226164000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Fußball: Herzog gegen Herzig - Die Next Generation Show (Grazer SC Straßenbahn)</title>
-</programme>
-<programme start="20251226164000 +0000" stop="20251226165500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20251227071500 +0000" stop="20251227073000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Golf: Sky Golf Cups Österreich</title>
 </programme>
-<programme start="20251226165500 +0000" stop="20251226193000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Golf: Straka&#039;s dritter PGA Tour Sieg: The American Express, 4. Tag in La Quinta, CA (USA)</title>
+<programme start="20251227073000 +0000" stop="20251227080000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>UEFA CL: Magazin</title>
 </programme>
-<programme start="20251226193000 +0000" stop="20251226220000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live PL: Manchester United - Newcastle United, Match of the Week, 18. Spieltag</title>
+<programme start="20251227080000 +0000" stop="20251227083000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>RIESENrad: Sportgrößen im Waggon 28 (Gast: Dominique Heinrich)</title>
 </programme>
-<programme start="20251226220000 +0000" stop="20251226224500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20251227083000 +0000" stop="20251227090000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>RIESENrad: Sportgrößen im Waggon 28 (Gast: Stephanie Venier)</title>
+</programme>
+<programme start="20251227090000 +0000" stop="20251227100000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>UEFA ECL: UEL &amp; UECL Magazin</title>
+</programme>
+<programme start="20251227100000 +0000" stop="20251227104500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Fußball: Herzog gegen Herzig - Die Next Generation Show (USV Pressbaum)</title>
 </programme>
-<programme start="20251226224500 +0000" stop="20251227014500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Golf: Straka&#039;s vierter PGA Tour Sieg: Truist Championship, 4. Tag in Philadelphia, PA (USA)</title>
+<programme start="20251227104500 +0000" stop="20251227113500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Fußball: Herzog gegen Herzig - Die Next Generation Show (Grazer SC Straßenbahn)</title>
 </programme>
-<programme start="20251225235500 +0000" stop="20251226001000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: Torparade 13. Spieltag</title>
+<programme start="20251227113500 +0000" stop="20251227122000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Fußball: Herzog gegen Herzig - Die Next Generation Show (USC Kirchberg am Wagram)</title>
 </programme>
-<programme start="20251226001000 +0000" stop="20251226011000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL Kompakt: 14. Spieltag</title>
+<programme start="20251227122000 +0000" stop="20251227145000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Live PL: Nottingham Forest - Manchester City, 18. Spieltag</title>
 </programme>
-<programme start="20251226011000 +0000" stop="20251226012500 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: Torparade 14. Spieltag</title>
+<programme start="20251227145000 +0000" stop="20251227172000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Live PL: FC Liverpool - Wolverhampton Wanderers, 18. Spieltag</title>
 </programme>
-<programme start="20251226012500 +0000" stop="20251226022500 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL Kompakt: 15. Spieltag</title>
+<programme start="20251227172000 +0000" stop="20251227193000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Live PL: FC Chelsea - Aston Villa, 18. Spieltag</title>
 </programme>
-<programme start="20251226022500 +0000" stop="20251226024000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: Torparade 15. Spieltag</title>
+<programme start="20251227193000 +0000" stop="20251227200000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Junioren: Unser Moment - ein halbes Sommermärchen</title>
 </programme>
-<programme start="20251226024000 +0000" stop="20251226030000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>2. BL: 1. FC Magdeburg - Hinrunde 25-26</title>
+<programme start="20251227200000 +0000" stop="20251227202500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: Torparade XXL (Runden 13-16)</title>
 </programme>
-<programme start="20251226030000 +0000" stop="20251226032000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>2. BL: SpVgg Greuther Fürth - Hinrunde 25-26</title>
+<programme start="20251227202500 +0000" stop="20251227205000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: Torparade XXL (Runden 9-12)</title>
 </programme>
-<programme start="20251226032000 +0000" stop="20251226034000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>2. BL: SV Darmstadt 98 - Hinrunde 25-26</title>
+<programme start="20251227205000 +0000" stop="20251227211500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: Torparade XXL (Runden 5-8)</title>
 </programme>
-<programme start="20251226034000 +0000" stop="20251226040000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>2. BL: 1. FC Nürnberg - Hinrunde 25-26</title>
+<programme start="20251227211500 +0000" stop="20251227214000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: Torparade XXL (Runden 1-4)</title>
 </programme>
-<programme start="20251226040000 +0000" stop="20251226042000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>2. BL: Eintracht Braunschweig - Hinrunde 25-26</title>
+<programme start="20251227214000 +0000" stop="20251227221000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>RIESENrad: Sportgrößen im Waggon 28 (Gast: Stephanie Venier)</title>
 </programme>
-<programme start="20251226042000 +0000" stop="20251226044000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>2. BL: Dynamo Dresden - Hinrunde 25-26</title>
+<programme start="20251227221000 +0000" stop="20251227223000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Fußball: Bundesliga Classic: Mattersburg - Austria (2015/2016)</title>
 </programme>
-<programme start="20251226044000 +0000" stop="20251226050000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>2. BL: SV Elversberg - Hinrunde 25-26</title>
+<programme start="20251227223000 +0000" stop="20251227233000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>UEFA ECL: UEL &amp; UECL Magazin</title>
 </programme>
-<programme start="20251226050000 +0000" stop="20251226060000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>2. BL Kompakt: 1. Spieltag</title>
+<programme start="20251226230500 +0000" stop="20251226232000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>2. BL: Torparade 13. Spieltag</title>
 </programme>
-<programme start="20251226060000 +0000" stop="20251226061500 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>2. BL: Torparade 1. Spieltag</title>
+<programme start="20251226232000 +0000" stop="20251227001500 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>2. BL Kompakt: 14. Spieltag</title>
 </programme>
-<programme start="20251226061500 +0000" stop="20251226071000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>2. BL Kompakt: 2. Spieltag</title>
+<programme start="20251227001500 +0000" stop="20251227003000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>2. BL: Torparade 14. Spieltag</title>
 </programme>
-<programme start="20251226071000 +0000" stop="20251226072500 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>2. BL: Torparade 2. Spieltag</title>
+<programme start="20251227003000 +0000" stop="20251227013000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>2. BL Kompakt: 15. Spieltag</title>
 </programme>
-<programme start="20251226072500 +0000" stop="20251226073000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: Die Top 10 Tore der Hinrunde 25/26 - Sky Sport Bundesliga Kids Club</title>
+<programme start="20251227013000 +0000" stop="20251227014500 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>2. BL: Torparade 15. Spieltag</title>
 </programme>
-<programme start="20251226073000 +0000" stop="20251226082500 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>2. BL Kompakt: 3. Spieltag</title>
+<programme start="20251227014500 +0000" stop="20251227024500 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>2. BL Kompakt: 16. Spieltag</title>
 </programme>
-<programme start="20251226082500 +0000" stop="20251226084000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>2. BL: Torparade 3. Spieltag</title>
+<programme start="20251227024500 +0000" stop="20251227030000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>2. BL: Torparade 16. Spieltag</title>
 </programme>
-<programme start="20251226084000 +0000" stop="20251226093500 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>2. BL Kompakt: 4. Spieltag</title>
+<programme start="20251227030000 +0000" stop="20251227040000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>2. BL Kompakt: 17. Spieltag</title>
 </programme>
-<programme start="20251226093500 +0000" stop="20251226095000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>2. BL: Torparade 4. Spieltag</title>
+<programme start="20251227040000 +0000" stop="20251227041500 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>2. BL: Torparade 17. Spieltag</title>
 </programme>
-<programme start="20251226095000 +0000" stop="20251226095500 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: Die Top 10 Tore der Hinrunde 25/26 - Sky Sport Bundesliga Kids Club</title>
+<programme start="20251227041500 +0000" stop="20251227043500 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>2. BL: Arminia Bielefeld - Hinrunde 25-26</title>
 </programme>
-<programme start="20251226095500 +0000" stop="20251226100500 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: Torwart Special - Sky Sport Bundesliga Kids Club</title>
+<programme start="20251227043500 +0000" stop="20251227045500 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>2. BL: Holstein Kiel - Hinrunde 25-26</title>
 </programme>
-<programme start="20251226100500 +0000" stop="20251226110000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>2. BL Kompakt: 5. Spieltag</title>
+<programme start="20251227045500 +0000" stop="20251227051500 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>2. BL: VfL Bochum - Hirunde 25-26</title>
 </programme>
-<programme start="20251226110000 +0000" stop="20251226111500 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>2. BL: Torparade 5. Spieltag</title>
-</programme>
-<programme start="20251226111500 +0000" stop="20251226121500 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>2. BL Kompakt: 6. Spieltag</title>
-</programme>
-<programme start="20251226121500 +0000" stop="20251226123500 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>2. BL: Fortuna Düsseldorf - Hinrunde 25-26</title>
-</programme>
-<programme start="20251226123500 +0000" stop="20251226125500 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>2. BL: SC Paderborn 07 - Hinrunde 25-26</title>
-</programme>
-<programme start="20251226125500 +0000" stop="20251226131500 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>2. BL: Karlsruher SC - Hinrunde 25-26</title>
-</programme>
-<programme start="20251226131500 +0000" stop="20251226133500 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>2. BL: Preußen Münster - Hinrunde 25-26</title>
-</programme>
-<programme start="20251226133500 +0000" stop="20251226135500 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>2. BL: 1. FC Kaiserslautern - Hinrunde 25-26</title>
-</programme>
-<programme start="20251226135500 +0000" stop="20251226141500 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>2. BL: Hannover 96 - Hinrunde 25-26</title>
-</programme>
-<programme start="20251226141500 +0000" stop="20251226143000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>2. BL: Torparade 6. Spieltag</title>
-</programme>
-<programme start="20251226143000 +0000" stop="20251226152500 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>2. BL Kompakt: 7. Spieltag</title>
-</programme>
-<programme start="20251226152500 +0000" stop="20251226154000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>2. BL: Torparade 7. Spieltag</title>
-</programme>
-<programme start="20251226154000 +0000" stop="20251226155000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: Rising Stars - Sky Sport Bundesliga Kids Club</title>
-</programme>
-<programme start="20251226155000 +0000" stop="20251226160000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: Torwart Special - Sky Sport Bundesliga Kids Club</title>
-</programme>
-<programme start="20251226160000 +0000" stop="20251226161000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: Die Top Stars - Sky Sport Bundesliga Kids Club</title>
-</programme>
-<programme start="20251226161000 +0000" stop="20251226170500 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>2. BL Kompakt: 8. Spieltag</title>
-</programme>
-<programme start="20251226170500 +0000" stop="20251226172000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>2. BL: Torparade 8. Spieltag</title>
-</programme>
-<programme start="20251226172000 +0000" stop="20251226181500 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>2. BL Kompakt: 9. Spieltag</title>
-</programme>
-<programme start="20251226181500 +0000" stop="20251226183000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>2. BL: Torparade 9. Spieltag</title>
-</programme>
-<programme start="20251226183000 +0000" stop="20251226193000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>2. BL Kompakt: 10. Spieltag</title>
-</programme>
-<programme start="20251226193000 +0000" stop="20251226194500 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>2. BL: Torparade 10. Spieltag</title>
-</programme>
-<programme start="20251226194500 +0000" stop="20251226204000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>2. BL Kompakt: 11. Spieltag</title>
-</programme>
-<programme start="20251226204000 +0000" stop="20251226205500 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>2. BL: Torparade 11. Spieltag</title>
-</programme>
-<programme start="20251226205500 +0000" stop="20251226215000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>2. BL Kompakt: 12. Spieltag</title>
-</programme>
-<programme start="20251226215000 +0000" stop="20251226220500 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>2. BL: Torparade 12. Spieltag</title>
-</programme>
-<programme start="20251226220500 +0000" stop="20251226230500 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>2. BL Kompakt: 13. Spieltag</title>
-</programme>
-<programme start="20251225233000 +0000" stop="20251226013000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
-    <title>BL: Eintracht Frankfurt - FC Bayern München, tipico Topspiel der Woche, 6. Spieltag</title>
-</programme>
-<programme start="20251226013000 +0000" stop="20251226033000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
-    <title>BL: FC Bayern München - Borussia Dortmund, tipico Topspiel der Woche, 7. Spieltag</title>
-</programme>
-<programme start="20251226033000 +0000" stop="20251226053000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
-    <title>2. BL: VfL Bochum - Hertha BSC, tipico Topspiel der Woche, 9. Spieltag</title>
-</programme>
-<programme start="20251226053000 +0000" stop="20251226080000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
-    <title>BL: VfB Stuttgart - FC Bayern München, Franz-Beckenbauer-Supercup 2025</title>
-</programme>
-<programme start="20251226080000 +0000" stop="20251226081500 +0000" channel="Sky Sport Bundesliga UHD.skyde">
-    <title>Info: UHD</title>
-</programme>
-<programme start="20251225230000 +0000" stop="20251225233000 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>F1: Die Saison 2025</title>
-</programme>
-<programme start="20251225233000 +0000" stop="20251226000000 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>Motorsport: Always a racer! Timo Glock und sein Porsche Supercup Abenteuer</title>
-</programme>
-<programme start="20251226000000 +0000" stop="20251226010000 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>F2: 1. Rennen - GP Abu Dhabi</title>
-</programme>
-<programme start="20251226010000 +0000" stop="20251226020000 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>F2: 2. Rennen - GP Abu Dhabi</title>
-</programme>
-<programme start="20251226020000 +0000" stop="20251226030000 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>PMSC: Rennen - GP Italien</title>
-</programme>
-<programme start="20251226030000 +0000" stop="20251226040000 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>F3: 1. Rennen - GP Italien</title>
-</programme>
-<programme start="20251226040000 +0000" stop="20251226050000 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>F3: 2. Rennen - GP Italien</title>
-</programme>
-<programme start="20251226050000 +0000" stop="20251226053000 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>Extreme E: Highlights: Desert X Prix - The Final Lap</title>
-</programme>
-<programme start="20251226053000 +0000" stop="20251226073000 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>F1: Rennen - GP Abu Dhabi</title>
-</programme>
-<programme start="20251226073000 +0000" stop="20251226080000 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>F1: Die Saison 2025</title>
-</programme>
-<programme start="20251226080000 +0000" stop="20251226090000 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>F1: Sprint - GP China</title>
-</programme>
-<programme start="20251226090000 +0000" stop="20251226100000 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>F1: Sprint - GP Miami</title>
-</programme>
-<programme start="20251226100000 +0000" stop="20251226110000 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>F1: Sprint - GP Belgien</title>
-</programme>
-<programme start="20251226110000 +0000" stop="20251226113000 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>F1: Die Saison 2025</title>
-</programme>
-<programme start="20251226113000 +0000" stop="20251226123000 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>F1: Sprint - GP USA</title>
-</programme>
-<programme start="20251226123000 +0000" stop="20251226133000 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>F1: Sprint - GP Sao Paulo</title>
-</programme>
-<programme start="20251226133000 +0000" stop="20251226143000 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>F1: Sprint - GP Katar</title>
-</programme>
-<programme start="20251226143000 +0000" stop="20251226150000 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>F1: Die Saison 2025</title>
-</programme>
-<programme start="20251226150000 +0000" stop="20251226171500 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>F1: Rennen - GP Abu Dhabi 2010</title>
-</programme>
-<programme start="20251226171500 +0000" stop="20251226191000 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>F1: Rennen 2011 in Suzuka</title>
-</programme>
-<programme start="20251226191000 +0000" stop="20251226211500 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>F1: Rennen 2012 in Sao Paulo</title>
-</programme>
-<programme start="20251226211500 +0000" stop="20251226214500 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>F1: Die Saison 2025</title>
-</programme>
-<programme start="20251226214500 +0000" stop="20251227000000 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>F1: Rennen 2013 in Neu-Delhi</title>
-</programme>
-<programme start="20251225230000 +0000" stop="20251226000000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Golf: Highlights Valspar Championship</title>
-</programme>
-<programme start="20251226000000 +0000" stop="20251226010000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Golf: Highlights Texas Children&#039;s Houston Open</title>
-</programme>
-<programme start="20251226010000 +0000" stop="20251226020000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Golf: Highlights Valero Texas Open</title>
-</programme>
-<programme start="20251226020000 +0000" stop="20251226030000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Golf: Highlights RBC Heritage</title>
-</programme>
-<programme start="20251226030000 +0000" stop="20251226040000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Golf: Highlights Zurich Classic of New Orleans</title>
-</programme>
-<programme start="20251226040000 +0000" stop="20251226050000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Golf: Highlights The CJ Cup Byron Nelson</title>
-</programme>
-<programme start="20251226050000 +0000" stop="20251226060000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Golf: Highlights Truist Championship</title>
-</programme>
-<programme start="20251226060000 +0000" stop="20251226070000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Golf: Highlights Charles Schwab Challenge</title>
-</programme>
-<programme start="20251226070000 +0000" stop="20251226080000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Golf: Highlights The Memorial Tournament presented by Workday</title>
-</programme>
-<programme start="20251226080000 +0000" stop="20251226090000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Golf: Highlights RBC Canadian Open</title>
-</programme>
-<programme start="20251226090000 +0000" stop="20251226100000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Golf: Highlights Travelers Championship</title>
-</programme>
-<programme start="20251226100000 +0000" stop="20251226110000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Golf: Highlights Rocket Mortgage Classic</title>
-</programme>
-<programme start="20251226110000 +0000" stop="20251226120000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Golf: Highlights John Deere Classic</title>
-</programme>
-<programme start="20251226120000 +0000" stop="20251226130000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Golf: Highlights ISCO Championship</title>
-</programme>
-<programme start="20251226130000 +0000" stop="20251226140000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Golf: Highlights Barracuda Championship</title>
-</programme>
-<programme start="20251226140000 +0000" stop="20251226150000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Golf: Highlights 3M Open</title>
-</programme>
-<programme start="20251226150000 +0000" stop="20251226160000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Golf: Highlights Wyndham Championship</title>
-</programme>
-<programme start="20251226160000 +0000" stop="20251226170000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Golf: Highlights Fedex St. Jude Championship</title>
-</programme>
-<programme start="20251226170000 +0000" stop="20251226180000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Golf: Highlights BMW Championship</title>
-</programme>
-<programme start="20251226180000 +0000" stop="20251226190000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Golf: Highlights Tour Championship</title>
-</programme>
-<programme start="20251226190000 +0000" stop="20251226200000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Golf: What a Drive! Das Golfjahr 2025</title>
-</programme>
-<programme start="20251226200000 +0000" stop="20251226210000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Golf: Highlights Procore Championship</title>
-</programme>
-<programme start="20251226210000 +0000" stop="20251226220000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Golf: Highlights Sanderson Farms Championship</title>
-</programme>
-<programme start="20251226220000 +0000" stop="20251226230000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Golf: Highlights Baycurrent Classic</title>
-</programme>
-<programme start="20251226010000 +0000" stop="20251226033000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>Live NBA: Houston Rockets @ LA Lakers</title>
-</programme>
-<programme start="20251226033000 +0000" stop="20251226043000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NHL: Tonight - Top 20 Wings Right Now</title>
-</programme>
-<programme start="20251226043000 +0000" stop="20251226053000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NHL: Tonight - Top 10 Goalies Right Now</title>
-</programme>
-<programme start="20251226053000 +0000" stop="20251226063000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NHL: Tonight - Top 20 Centers Right Now</title>
-</programme>
-<programme start="20251226063000 +0000" stop="20251226073000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NHL: Tonight - Top 20 Defensemen Right Now</title>
-</programme>
-<programme start="20251226073000 +0000" stop="20251226083000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NHL: Series Rewind FLA-EDM (Stanley Cup Final 2025)</title>
-</programme>
-<programme start="20251226083000 +0000" stop="20251226110000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NBA: Cleveland Cavaliers @ New York Knicks</title>
-</programme>
-<programme start="20251226110000 +0000" stop="20251226133000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NBA: San Antonio Spurs @ Oklahoma City Thunder</title>
-</programme>
-<programme start="20251226133000 +0000" stop="20251226160000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NBA: Dallas Mavericks @ Golden State Warriors</title>
-</programme>
-<programme start="20251226160000 +0000" stop="20251226183000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NBA: Houston Rockets @ LA Lakers</title>
-</programme>
-<programme start="20251226183000 +0000" stop="20251226190000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NBA: Action</title>
-</programme>
-<programme start="20251226190000 +0000" stop="20251226193000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NBA: On Fire</title>
-</programme>
-<programme start="20251226193000 +0000" stop="20251226211500 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>Fußball: Die Nacht von Paris - Terror am Stade de France</title>
-</programme>
-<programme start="20251226211500 +0000" stop="20251226221500 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>WRC: Season Review 2025</title>
-</programme>
-<programme start="20251226221500 +0000" stop="20251227004500 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NBA: San Antonio Spurs @ Oklahoma City Thunder</title>
-</programme>
-<programme start="20251225230000 +0000" stop="20251226050000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Sky Sport News: Nightline</title>
-</programme>
-<programme start="20251226050000 +0000" stop="20251226053000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Meine Geschichte: Das Leben von Dennis Diekmeier</title>
-</programme>
-<programme start="20251226053000 +0000" stop="20251226060000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Sky Sport News: Der Morgen</title>
-</programme>
-<programme start="20251226060000 +0000" stop="20251226063000 +0000" channel="Sky Sport News HD.skyde">
-    <title>PL: PL Stories (Edwin van der Sar)</title>
-</programme>
-<programme start="20251226063000 +0000" stop="20251226070000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Sky Sport News: Der Morgen</title>
-</programme>
-<programme start="20251226070000 +0000" stop="20251226083500 +0000" channel="Sky Sport News HD.skyde">
-    <title>PL: Schmeichel</title>
-</programme>
-<programme start="20251226083500 +0000" stop="20251226093000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Sky Sport News: Der Morgen</title>
-</programme>
-<programme start="20251226093000 +0000" stop="20251226100000 +0000" channel="Sky Sport News HD.skyde">
-    <title>BL: Report - DER KLASSIKER - Germany&#039;s Heavyweight Clash</title>
-</programme>
-<programme start="20251226100000 +0000" stop="20251226110000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Sky Sport News: Der Morgen</title>
-</programme>
-<programme start="20251226110000 +0000" stop="20251226113000 +0000" channel="Sky Sport News HD.skyde">
-    <title>MotoGP: Jorge Martin - From heaven to hell</title>
-</programme>
-<programme start="20251226113000 +0000" stop="20251226123000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Sky Sport News: Der Mittag</title>
-</programme>
-<programme start="20251226123000 +0000" stop="20251226130000 +0000" channel="Sky Sport News HD.skyde">
-    <title>F1: Die Saison 2025</title>
-</programme>
-<programme start="20251226130000 +0000" stop="20251226140000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live Sky Sport News: Der Mittag</title>
-</programme>
-<programme start="20251226140000 +0000" stop="20251226160000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live Sky Sport News: Der Nachmittag</title>
-</programme>
-<programme start="20251226160000 +0000" stop="20251226200000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live Sky Sport News: Guten Abend Fans!</title>
-</programme>
-<programme start="20251226200000 +0000" stop="20251226203000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Meine Geschichte: Das Leben von Daniel Elfadli</title>
-</programme>
-<programme start="20251226203000 +0000" stop="20251226213000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Sky Sport News: Guten Abend Fans!</title>
-</programme>
-<programme start="20251226213000 +0000" stop="20251226223000 +0000" channel="Sky Sport News HD.skyde">
-    <title>ATP &amp; WTA: Zeit für ein Break - das Tennisjahr 2025</title>
-</programme>
-<programme start="20251226223000 +0000" stop="20251226230000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Sky Sport News: Late Night News</title>
-</programme>
-<programme start="20251225230000 +0000" stop="20251225233000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: PL Rewind: West Ham (2025/26)</title>
-</programme>
-<programme start="20251225233000 +0000" stop="20251226000000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Classic Match: FC Chelsea - FC Everton (2015/16)</title>
-</programme>
-<programme start="20251226000000 +0000" stop="20251226003000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Classic Match: Manchester City - Tottenham Hotspur (2016/17)</title>
-</programme>
-<programme start="20251226003000 +0000" stop="20251226010000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Classic Match: Manchester United - Newcastle United (2012/13)</title>
-</programme>
-<programme start="20251226010000 +0000" stop="20251226020000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Best Volleys</title>
-</programme>
-<programme start="20251226020000 +0000" stop="20251226030000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: GOATS (Alan Shearer&#039;s Top 10 Strikers)</title>
-</programme>
-<programme start="20251226030000 +0000" stop="20251226040000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: GOATS (Strikers)</title>
-</programme>
-<programme start="20251226040000 +0000" stop="20251226050000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: GOATS (Flair Players)</title>
-</programme>
-<programme start="20251226050000 +0000" stop="20251226060000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Best Volleys</title>
-</programme>
-<programme start="20251226060000 +0000" stop="20251226063000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: PL Stories (Yaya Toure)</title>
-</programme>
-<programme start="20251226063000 +0000" stop="20251226070000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Classic Match: FC Chelsea - Aston Villa (2007/08)</title>
-</programme>
-<programme start="20251226070000 +0000" stop="20251226073000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Icons: David Beckham</title>
-</programme>
-<programme start="20251226073000 +0000" stop="20251226080000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Under the Skin (Nottingham Forest)</title>
-</programme>
-<programme start="20251226080000 +0000" stop="20251226083000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Club 100: Wayne Rooney</title>
-</programme>
-<programme start="20251226083000 +0000" stop="20251226093000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: The Catch-Up Show</title>
-</programme>
-<programme start="20251226093000 +0000" stop="20251226100000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: PL Stories (Manager Rivalries)</title>
-</programme>
-<programme start="20251226100000 +0000" stop="20251226103000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Classic Match: Manchester United - Newcastle United (2012/13)</title>
-</programme>
-<programme start="20251226103000 +0000" stop="20251226105000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Best Freekicks</title>
-</programme>
-<programme start="20251226105000 +0000" stop="20251226112000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: PL Stories (Edwin van der Sar)</title>
-</programme>
-<programme start="20251226112000 +0000" stop="20251226122000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: The Catch-Up Show</title>
-</programme>
-<programme start="20251226122000 +0000" stop="20251226143000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>Live EFL: Birmingham City - Derby County, 23. Spieltag</title>
-</programme>
-<programme start="20251226143000 +0000" stop="20251226145000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Greatest Games: FC Birmingham - Aston Villa (2002)</title>
-</programme>
-<programme start="20251226145000 +0000" stop="20251226170000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>Live EFL: FC Middlesbrough - Blackburn Rovers, 23. Spieltag</title>
-</programme>
-<programme start="20251226170000 +0000" stop="20251226193000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>Live EFL: AFC Wrexham - Sheffield United, 23. Spieltag</title>
-</programme>
-<programme start="20251226193000 +0000" stop="20251226220000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>Live PL: Manchester United - Newcastle United, Match of the Week, 18. Spieltag</title>
-</programme>
-<programme start="20251226220000 +0000" stop="20251226224500 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>Live PL: Match of the Week: Die Analyse, MUN - NEW, 18. Spieltag</title>
-</programme>
-<programme start="20251226224500 +0000" stop="20251226231500 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: PL Stories (Edwin van der Sar)</title>
-</programme>
-<programme start="20251225230000 +0000" stop="20251226000000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: Review Miami</title>
-</programme>
-<programme start="20251226000000 +0000" stop="20251226010000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: Review Monte-Carlo</title>
-</programme>
-<programme start="20251226010000 +0000" stop="20251226020000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: Review Madrid</title>
-</programme>
-<programme start="20251226020000 +0000" stop="20251226030000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: Review Rom</title>
-</programme>
-<programme start="20251226030000 +0000" stop="20251226040000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: Review Toronto</title>
-</programme>
-<programme start="20251226040000 +0000" stop="20251226050000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: Review Cincinnati</title>
-</programme>
-<programme start="20251226050000 +0000" stop="20251226060000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: Review Shanghai</title>
-</programme>
-<programme start="20251226060000 +0000" stop="20251226070000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: Review Paris</title>
-</programme>
-<programme start="20251226070000 +0000" stop="20251226093000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: A. Zverev (GER) - J. Sinner (ITA), Erste Bank Open in Wien (Österreich), Finale</title>
-</programme>
-<programme start="20251226093000 +0000" stop="20251226103000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: Review Wien</title>
-</programme>
-<programme start="20251226103000 +0000" stop="20251226123000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: T. Maria (GER) - M. Keys (USA), HSBC Championships in London (GBR), Halbfinale 1</title>
-</programme>
-<programme start="20251226123000 +0000" stop="20251226143000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: T. Maria (GER) - A. Anisimova (USA), HSBC Championships in London (GBR), Finale</title>
-</programme>
-<programme start="20251226143000 +0000" stop="20251226163000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Next Gen ATP Finals: A. Blockx (BEL) - N. Budkov Kjaer (NOR), Halbfinale 1 in Jeddah (SAU)</title>
-</programme>
-<programme start="20251226163000 +0000" stop="20251226183000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Next Gen ATP Finals: L. Tien (USA) - N. Basavareddy (USA), Halbfinale 2 in Jeddah (SAU)</title>
-</programme>
-<programme start="20251226183000 +0000" stop="20251226200000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Next Gen ATP Finals: L. Tien (USA) - A. Blockx (BEL), Finale in Jeddah (SAU)</title>
-</programme>
-<programme start="20251226200000 +0000" stop="20251226210000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Next Gen ATP Finals: Review Jeddah 2025</title>
-</programme>
-<programme start="20251226210000 +0000" stop="20251226220000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP Finals: Review Turin 2025</title>
-</programme>
-<programme start="20251226220000 +0000" stop="20251226230000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP &amp; WTA: Zeit für ein Break - das Tennisjahr 2025</title>
-</programme>
-<programme start="20251226010000 +0000" stop="20251226033000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live NBA: Houston Rockets @ LA Lakers</title>
-</programme>
-<programme start="20251226033000 +0000" stop="20251226040000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>NBA: On Fire</title>
-</programme>
-<programme start="20251226040000 +0000" stop="20251226050000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>PL: The Catch-Up Show</title>
-</programme>
-<programme start="20251226050000 +0000" stop="20251226060000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>The Masters: Official Film 2025 (Rory McIllroy)</title>
-</programme>
-<programme start="20251226060000 +0000" stop="20251226065000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>PGA Championship: Official Film 2025 (Scottie Scheffler)</title>
-</programme>
-<programme start="20251226065000 +0000" stop="20251226075000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>US Open: Official Film 2025 (J.J. Spaun)</title>
-</programme>
-<programme start="20251226075000 +0000" stop="20251226085000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>The Open: Official Film 2025 (Scottie Scheffler)</title>
-</programme>
-<programme start="20251226085000 +0000" stop="20251226094500 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Ryder Cup: Official Film 2025</title>
-</programme>
-<programme start="20251226094500 +0000" stop="20251226104000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>IndyCar: Highlights: The 109th Indianapolis 500</title>
-</programme>
-<programme start="20251226104000 +0000" stop="20251226114000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20251227051500 +0000" stop="20251227061500 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: Hinrunden-Rückblick 2025/26</title>
 </programme>
-<programme start="20251226114000 +0000" stop="20251226115000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>BL: Rising Stars - Sky Sport Bundesliga Kids Club</title>
+<programme start="20251227061500 +0000" stop="20251227081500 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: FC St. Pauli - Borussia Dortmund, tipico Topspiel der Woche, 1. Spieltag</title>
 </programme>
-<programme start="20251226115000 +0000" stop="20251226120000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>BL: Torwart Special - Sky Sport Bundesliga Kids Club</title>
+<programme start="20251227081500 +0000" stop="20251227083000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: Torparade 1. Spieltag</title>
 </programme>
-<programme start="20251226120000 +0000" stop="20251226121000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>BL: Die Top Stars - Sky Sport Bundesliga Kids Club</title>
+<programme start="20251227083000 +0000" stop="20251227103000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: FC Augsburg - FC Bayern München, tipico Topspiel der Woche, 2. Spieltag</title>
 </programme>
-<programme start="20251226121000 +0000" stop="20251226121500 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>BL: Harry Kane Special - Sky Sport Bundesliga Kids Club</title>
+<programme start="20251227103000 +0000" stop="20251227104500 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: Torparade 2. Spieltag</title>
 </programme>
-<programme start="20251226121500 +0000" stop="20251226122000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>BL: Die Top 10 Tore der Hinrunde 25/26 - Sky Sport Bundesliga Kids Club</title>
+<programme start="20251227104500 +0000" stop="20251227110000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: Dein Spieltags-Sprint (2)</title>
 </programme>
-<programme start="20251226122000 +0000" stop="20251226143000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live EFL: Birmingham City - Derby County, 23. Spieltag</title>
+<programme start="20251227110000 +0000" stop="20251227130000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: FC Bayern München - Hamburger SV, tipico Topspiel der Woche, 3. Spieltag</title>
 </programme>
-<programme start="20251226143000 +0000" stop="20251226145000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>PL: Greatest Games: FC Birmingham - Aston Villa (2002)</title>
+<programme start="20251227130000 +0000" stop="20251227131500 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: Torparade 3. Spieltag</title>
 </programme>
-<programme start="20251226145000 +0000" stop="20251226170000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live EFL: FC Middlesbrough - Blackburn Rovers, 23. Spieltag</title>
+<programme start="20251227131500 +0000" stop="20251227133000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: Dein Spieltags-Sprint (3)</title>
 </programme>
-<programme start="20251226170000 +0000" stop="20251226193000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live EFL: AFC Wrexham - Sheffield United, 23. Spieltag</title>
+<programme start="20251227133000 +0000" stop="20251227134500 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: Dein Spieltags-Sprint (4)</title>
 </programme>
-<programme start="20251226193000 +0000" stop="20251226220000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live PL: Manchester United - Newcastle United, Match of the Week, 18. Spieltag</title>
+<programme start="20251227134500 +0000" stop="20251227140000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: Torparade 4. Spieltag</title>
 </programme>
-<programme start="20251226220000 +0000" stop="20251226224500 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live PL: Match of the Week: Die Analyse, MUN - NEW, 18. Spieltag</title>
+<programme start="20251227140000 +0000" stop="20251227160000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: Borussia M&#039;gladbach - Eintracht Frankfurt, tipico Topspiel der Woche, 5. Spieltag</title>
 </programme>
-<programme start="20251226224500 +0000" stop="20251226231500 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Meine Geschichte: Das Leben von Felix Neureuther</title>
+<programme start="20251227160000 +0000" stop="20251227163000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: 90in30: SGE - FCB. 6. Spieltag</title>
 </programme>
-<programme start="20251226083000 +0000" stop="20251226103000 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20251227163000 +0000" stop="20251227183000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: FC Bayern München - Borussia Dortmund, tipico Topspiel der Woche, 7. Spieltag</title>
+</programme>
+<programme start="20251227183000 +0000" stop="20251227190000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: 90in30: BVB - KOE, 8. Spieltag</title>
+</programme>
+<programme start="20251227190000 +0000" stop="20251227191500 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: Dein Spieltags-Sprint (8)</title>
+</programme>
+<programme start="20251227191500 +0000" stop="20251227193000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: Torparade 8. Spieltag</title>
+</programme>
+<programme start="20251227193000 +0000" stop="20251227213000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: FC Bayern München - Bayer Leverkusen, tipico Topspiel der Woche, 9. Spieltag</title>
+</programme>
+<programme start="20251227213000 +0000" stop="20251227214500 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: Dein Spieltags-Sprint (9)</title>
+</programme>
+<programme start="20251227214500 +0000" stop="20251227220000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: Torparade 9. Spieltag</title>
+</programme>
+<programme start="20251227220000 +0000" stop="20251228000000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: Borussia Dortmund - 1. FC Köln, tipico Topspiel der Woche, 8. Spieltag</title>
+</programme>
+<programme start="20251227000000 +0000" stop="20251227010000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>WRC: Season Review 2025</title>
+</programme>
+<programme start="20251227010000 +0000" stop="20251227014500 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>GTWC: Season Review 2025 (Sprint Cup)</title>
+</programme>
+<programme start="20251227014500 +0000" stop="20251227023000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>GTWC: Season Review 2025 (Endurance Cup)</title>
+</programme>
+<programme start="20251227023000 +0000" stop="20251227030000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>F1: Die Saison 2025</title>
+</programme>
+<programme start="20251227030000 +0000" stop="20251227050000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Rennen - GP Abu Dhabi</title>
 </programme>
-<programme start="20251226103000 +0000" stop="20251226130000 +0000" channel="Sky Sport UHD.skyde">
-    <title>DFB-Pokal: Arminia Bielefeld - VfB Stuttgart, Finale 2025 in Berlin</title>
+<programme start="20251227050000 +0000" stop="20251227063000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>F1: 1. Freies Training - GP Kanada</title>
 </programme>
-<programme start="20251226130000 +0000" stop="20251226150000 +0000" channel="Sky Sport UHD.skyde">
-    <title>DFB-Pokal: 1. FC Köln - FC Bayern München, 2. Runde</title>
+<programme start="20251227063000 +0000" stop="20251227080000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>F1: 2. Freies Training - GP Kanada</title>
 </programme>
-<programme start="20251226150000 +0000" stop="20251226170000 +0000" channel="Sky Sport UHD.skyde">
-    <title>DFB-Pokal: Borussia Dortmund - Bayer Leverkusen, Achtelfinale</title>
+<programme start="20251227080000 +0000" stop="20251227093000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>F1: 3. Freies Training - GP Kanada</title>
 </programme>
-<programme start="20251226170000 +0000" stop="20251226190000 +0000" channel="Sky Sport UHD.skyde">
-    <title>PL: Aston Villa - Manchester United, Match of the Week, 17. Spieltag</title>
+<programme start="20251227093000 +0000" stop="20251227110000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>F1: Qualifying - GP Kanada</title>
 </programme>
-<programme start="20251226190000 +0000" stop="20251226193000 +0000" channel="Sky Sport UHD.skyde">
-    <title>PL: Match of the Week: Die Analyse, AVL - MUN, 17. Spieltag</title>
+<programme start="20251227110000 +0000" stop="20251227130000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>F1: Rennen - GP Kanada</title>
 </programme>
-<programme start="20251226193000 +0000" stop="20251226220000 +0000" channel="Sky Sport UHD.skyde">
-    <title>Live PL: Manchester United - Newcastle United, Match of the Week, 18. Spieltag</title>
+<programme start="20251227130000 +0000" stop="20251227133000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>F1: Ted&#039;s Notebook: GP Kanada</title>
 </programme>
-<programme start="20251226220000 +0000" stop="20251226224500 +0000" channel="Sky Sport UHD.skyde">
-    <title>Live PL: Match of the Week: Die Analyse, MUN - NEW, 18. Spieltag</title>
+<programme start="20251227133000 +0000" stop="20251227143000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>F1 Academy: 1. Rennen - GP Kanada</title>
 </programme>
-<programme start="20251226224500 +0000" stop="20251227003000 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20251227143000 +0000" stop="20251227153000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>F1 Academy: 2. Rennen - GP Kanada</title>
+</programme>
+<programme start="20251227153000 +0000" stop="20251227173000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>Motorsport: FIA Extreme H - World Cup 2025 (Final)</title>
+</programme>
+<programme start="20251227173000 +0000" stop="20251227190000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>WRC: Central European Rally - SS18 Mühltal 2 (Wolf Power Stage)</title>
+</programme>
+<programme start="20251227190000 +0000" stop="20251227210000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>F1: Rennen - GP Kanada</title>
+</programme>
+<programme start="20251227210000 +0000" stop="20251227230000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>IndyCar: XPEL Grand Prix at Road America</title>
+</programme>
+<programme start="20251226230000 +0000" stop="20251227000000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Golf: Highlights World Wide Technology Championship</title>
+</programme>
+<programme start="20251227000000 +0000" stop="20251227010000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Golf: Highlights Butterfield Bermuda Championship</title>
+</programme>
+<programme start="20251227010000 +0000" stop="20251227020000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Golf: Highlights The RSM Classic</title>
+</programme>
+<programme start="20251227020000 +0000" stop="20251227030000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Golf: Highlights Hero World Challenge</title>
+</programme>
+<programme start="20251227030000 +0000" stop="20251227040000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Golf: Highlights Grant Thornton Invitational</title>
+</programme>
+<programme start="20251227040000 +0000" stop="20251227050000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>PGA Tour Champions: Highlights PNC Championship</title>
+</programme>
+<programme start="20251227050000 +0000" stop="20251227060000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Golf: What a Drive! Das Golfjahr 2025</title>
+</programme>
+<programme start="20251227060000 +0000" stop="20251227080000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>TGL: New York Golf Club - The Bay Golf Club, 1. Spieltag</title>
+</programme>
+<programme start="20251227080000 +0000" stop="20251227100000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>TGL: Los Angeles Golf Club - Jupiter Links Golf Club, 2. Spieltag</title>
+</programme>
+<programme start="20251227100000 +0000" stop="20251227120000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>TGL: New York Golf Club - Atlanta Drive GC, 3. Spieltag</title>
+</programme>
+<programme start="20251227120000 +0000" stop="20251227140000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>TGL: Jupiter Links Golf Club - Boston Common Golf, 4. Spieltag</title>
+</programme>
+<programme start="20251227140000 +0000" stop="20251227160000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>TGL: Boston Common Golf - Los Angeles Golf Club, 5. Spieltag</title>
+</programme>
+<programme start="20251227160000 +0000" stop="20251227180000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>TGL: Atlanta Drive GC - Los Angeles Golf Club, 6. Spieltag</title>
+</programme>
+<programme start="20251227180000 +0000" stop="20251227200000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>TGL: Atlanta Drive GC - The Bay Golf Club, 7. Spieltag</title>
+</programme>
+<programme start="20251227200000 +0000" stop="20251227220000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>TGL: The Bay Golf Club - Boston Common Golf, 8. Spieltag</title>
+</programme>
+<programme start="20251227220000 +0000" stop="20251228000000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>TGL: Jupiter Links Golf Club - New York Golf Club, 9. Spieltag</title>
+</programme>
+<programme start="20251227004500 +0000" stop="20251227011500 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>Meine Geschichte: Das Leben von Felix Magath (Der Mensch)</title>
+</programme>
+<programme start="20251227011500 +0000" stop="20251227014500 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>Meine Geschichte: Das Leben von Felix Magath (Teil 2)</title>
+</programme>
+<programme start="20251227014500 +0000" stop="20251227041500 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>NBA: Dallas Mavericks @ Golden State Warriors</title>
+</programme>
+<programme start="20251227041500 +0000" stop="20251227064500 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>NBA: Houston Rockets @ LA Lakers</title>
+</programme>
+<programme start="20251227064500 +0000" stop="20251227074500 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>3. Liga: Alle Spiele, alle Tore, 19. Spieltag, komplett</title>
+</programme>
+<programme start="20251227074500 +0000" stop="20251227082000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>WRC: More than Machine: Defend &amp; Attack</title>
+</programme>
+<programme start="20251227082000 +0000" stop="20251227090500 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>WRC: More than Machine: Now or never</title>
+</programme>
+<programme start="20251227090500 +0000" stop="20251227094500 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>WRC: More than Machine: Vanishing point</title>
+</programme>
+<programme start="20251227094500 +0000" stop="20251227103000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>WRC: More than Machine: Resilience</title>
+</programme>
+<programme start="20251227103000 +0000" stop="20251227111500 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>WRC: More than Machine: Cause and effect</title>
+</programme>
+<programme start="20251227111500 +0000" stop="20251227114500 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>NBA: On Fire</title>
+</programme>
+<programme start="20251227114500 +0000" stop="20251227120000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>MotoGP: Highlights 2025</title>
+</programme>
+<programme start="20251227120000 +0000" stop="20251227130000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>WRC: Season Review 2025</title>
+</programme>
+<programme start="20251227130000 +0000" stop="20251227132500 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>NHL: On the Fly</title>
+</programme>
+<programme start="20251227132500 +0000" stop="20251227142500 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>MotoGP: Die Saison 2025</title>
+</programme>
+<programme start="20251227142500 +0000" stop="20251227145000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>NHL: On the Fly</title>
+</programme>
+<programme start="20251227145000 +0000" stop="20251227170000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>Live PL: FC Liverpool - Wolverhampton Wanderers, 18. Spieltag</title>
+</programme>
+<programme start="20251227170000 +0000" stop="20251227174500 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>DFB-Pokal: Kompakt, Achtelfinale</title>
+</programme>
+<programme start="20251227174500 +0000" stop="20251227181500 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>NHL: On the Fly</title>
+</programme>
+<programme start="20251227181500 +0000" stop="20251227184500 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>Meine Geschichte: Das Leben von Felix Neureuther</title>
+</programme>
+<programme start="20251227184500 +0000" stop="20251227204500 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>DFB-Pokal: Hamburger SV - Holstein Kiel, Achtelfinale</title>
+</programme>
+<programme start="20251227204500 +0000" stop="20251227214000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>3. Liga: Alle Spiele, alle Tore, 19. Spieltag, komplett</title>
+</programme>
+<programme start="20251227214000 +0000" stop="20251227221000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>NHL: On the Fly</title>
+</programme>
+<programme start="20251227221000 +0000" stop="20251227223500 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>NHL: Road to the NHL Winter Classic (1. Folge)</title>
+</programme>
+<programme start="20251227223500 +0000" stop="20251227230000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>NHL: Road to the NHL Winter Classic (2. Folge)</title>
+</programme>
+<programme start="20251226230000 +0000" stop="20251227050000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Sky Sport News: Nightline</title>
+</programme>
+<programme start="20251227050000 +0000" stop="20251227053000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Meine Geschichte: Das Leben von Marvin Schwäbe</title>
+</programme>
+<programme start="20251227053000 +0000" stop="20251227060000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Sky Sport News: Der Morgen</title>
+</programme>
+<programme start="20251227060000 +0000" stop="20251227063000 +0000" channel="Sky Sport News HD.skyde">
+    <title>PL: PL Stories (Bournemouth - Against All Odds)</title>
+</programme>
+<programme start="20251227063000 +0000" stop="20251227070000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Sky Sport News: Der Morgen</title>
+</programme>
+<programme start="20251227070000 +0000" stop="20251227084000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Fußball: Rudi Völler - Es gibt nur einen</title>
+</programme>
+<programme start="20251227084000 +0000" stop="20251227090000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Bundesliga Collection: Die schönsten Tore: Bayer 04 Leverkusen</title>
+</programme>
+<programme start="20251227090000 +0000" stop="20251227093000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Sky Sport News: Der Morgen</title>
+</programme>
+<programme start="20251227093000 +0000" stop="20251227100000 +0000" channel="Sky Sport News HD.skyde">
+    <title>BL: Report - Roots - Díaz, Nusa &amp; El Khannouss</title>
+</programme>
+<programme start="20251227100000 +0000" stop="20251227110000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Sky Sport News: Der Morgen</title>
+</programme>
+<programme start="20251227110000 +0000" stop="20251227113000 +0000" channel="Sky Sport News HD.skyde">
+    <title>MotoGP: Sepang Clash - 10 years on</title>
+</programme>
+<programme start="20251227113000 +0000" stop="20251227120000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Sky Sport News: Der Mittag</title>
+</programme>
+<programme start="20251227120000 +0000" stop="20251227130000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Golf: What a Drive! Das Golfjahr 2025</title>
+</programme>
+<programme start="20251227130000 +0000" stop="20251227140000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: Der Mittag</title>
+</programme>
+<programme start="20251227140000 +0000" stop="20251227160000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: Der Nachmittag</title>
+</programme>
+<programme start="20251227160000 +0000" stop="20251227200000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: Guten Abend Fans!</title>
+</programme>
+<programme start="20251227200000 +0000" stop="20251227203000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Meine Geschichte: Das Leben von Miron Muslic</title>
+</programme>
+<programme start="20251227203000 +0000" stop="20251227213000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Sky Sport News: Guten Abend Fans!</title>
+</programme>
+<programme start="20251227213000 +0000" stop="20251227220000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Sky Sport News: Auffe Süd Spezial - Der BVB-Rückblick</title>
+</programme>
+<programme start="20251227220000 +0000" stop="20251227230000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Sky Sport News: Late Night News</title>
+</programme>
+<programme start="20251226231500 +0000" stop="20251226234500 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Classic Match: Manchester United - Newcastle United (2012/13)</title>
+</programme>
+<programme start="20251226234500 +0000" stop="20251227014500 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Manchester United - Newcastle United, Match of the Week, 18. Spieltag</title>
+</programme>
+<programme start="20251227014500 +0000" stop="20251227034500 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>EFL: AFC Wrexham - Sheffield United, 23. Spieltag</title>
+</programme>
+<programme start="20251227034500 +0000" stop="20251227041500 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Club 100: Wayne Rooney</title>
+</programme>
+<programme start="20251227041500 +0000" stop="20251227044500 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Club 100: Frank Lampard</title>
+</programme>
+<programme start="20251227044500 +0000" stop="20251227050000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Best Freekicks</title>
+</programme>
+<programme start="20251227050000 +0000" stop="20251227053000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: PL Stories (Yaya Toure)</title>
+</programme>
+<programme start="20251227053000 +0000" stop="20251227060000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: 90in30: MUN - NEW, 18. Spieltag</title>
+</programme>
+<programme start="20251227060000 +0000" stop="20251227080000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>EFL: FC Middlesbrough - Blackburn Rovers, 23. Spieltag</title>
+</programme>
+<programme start="20251227080000 +0000" stop="20251227083000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: PL Rewind: Dietmar Hamann - My Liverpool Years</title>
+</programme>
+<programme start="20251227083000 +0000" stop="20251227090000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: 90in30: MUN - NEW, 18. Spieltag</title>
+</programme>
+<programme start="20251227090000 +0000" stop="20251227091500 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Rooney - Out of this World</title>
+</programme>
+<programme start="20251227091500 +0000" stop="20251227112000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>EFL: AFC Wrexham - Sheffield United, 23. Spieltag</title>
+</programme>
+<programme start="20251227112000 +0000" stop="20251227115000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: 90in30: MUN - NEW, 18. Spieltag</title>
+</programme>
+<programme start="20251227115000 +0000" stop="20251227122000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Preview, 18. Spieltag</title>
+</programme>
+<programme start="20251227122000 +0000" stop="20251227145000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>Live PL: Nottingham Forest - Manchester City, 18. Spieltag</title>
+</programme>
+<programme start="20251227145000 +0000" stop="20251227172000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>Live PL: Samstags-Konferenz, 18. Spieltag</title>
+</programme>
+<programme start="20251227172000 +0000" stop="20251227193000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>Live PL: FC Chelsea - Aston Villa, 18. Spieltag</title>
+</programme>
+<programme start="20251227193000 +0000" stop="20251227200000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Highlights Samstag, 18. Spieltag</title>
+</programme>
+<programme start="20251227200000 +0000" stop="20251227203000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>EFL: Highlights, 22. Spieltag</title>
+</programme>
+<programme start="20251227203000 +0000" stop="20251227210000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>EFL: Highlights, 22. Spieltag</title>
+</programme>
+<programme start="20251227210000 +0000" stop="20251227213000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Highlights Samstag, 18. Spieltag</title>
+</programme>
+<programme start="20251227213000 +0000" stop="20251227220000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: PL Stories (Manager Rivalries)</title>
+</programme>
+<programme start="20251227220000 +0000" stop="20251228000000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: FC Liverpool - Wolverhampton Wanderers, 18. Spieltag</title>
+</programme>
+<programme start="20251226230000 +0000" stop="20251226233000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 1000: Review Indian Wells</title>
+</programme>
+<programme start="20251226233000 +0000" stop="20251227000000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 1000: Review Miami</title>
+</programme>
+<programme start="20251227000000 +0000" stop="20251227003000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 1000: Review Madrid</title>
+</programme>
+<programme start="20251227003000 +0000" stop="20251227010000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 1000: Review Rom</title>
+</programme>
+<programme start="20251227010000 +0000" stop="20251227013000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 1000: Review Montreal</title>
+</programme>
+<programme start="20251227013000 +0000" stop="20251227020000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 1000: Review Cincinnati</title>
+</programme>
+<programme start="20251227020000 +0000" stop="20251227023000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 1000: Review Peking</title>
+</programme>
+<programme start="20251227023000 +0000" stop="20251227030000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 1000: Review Wuhan</title>
+</programme>
+<programme start="20251227030000 +0000" stop="20251227053000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 1000: J. Sinner (ITA) - F. Auger-Aliassime (CAN), Rolex Paris Masters in Paris (FRA), Finale</title>
+</programme>
+<programme start="20251227053000 +0000" stop="20251227063000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 1000: Review Paris</title>
+</programme>
+<programme start="20251227063000 +0000" stop="20251227073000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP &amp; WTA: Zeit für ein Break - das Tennisjahr 2025</title>
+</programme>
+<programme start="20251227073000 +0000" stop="20251227093000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 1000: J. Ostapenko (LAT) - A. Anisimova (USA), Qatar TotalEnergies Open 2025 in Doha (Katar), Finale</title>
+</programme>
+<programme start="20251227093000 +0000" stop="20251227120000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 1000: C. Tauson (DEN) - M. Andreeva, Dubai Duty Free Tennis Championships in Dubai (VAE), Finale</title>
+</programme>
+<programme start="20251227120000 +0000" stop="20251227143000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 1000: A. Sabalenka - M. Andreeva, BNP Paribas Open in Indian Wells, Kalifornien (USA), Finale</title>
+</programme>
+<programme start="20251227143000 +0000" stop="20251227163000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 1000: J. Pegula (USA) - A. Sabalenka, Miami Open presented by Itaú in Miami, Florida (USA), Finale</title>
+</programme>
+<programme start="20251227163000 +0000" stop="20251227184500 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 1000: C. Gauff (USA) - A. Sabalenka, Mutua Madrid Open in Madrid (ESP), Finale</title>
+</programme>
+<programme start="20251227184500 +0000" stop="20251227210000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 1000: J. Paolini (ITA) - C. Gauff (USA), Internazionali BNL d&#039;Italia in Rom (Italien), Finale</title>
+</programme>
+<programme start="20251227210000 +0000" stop="20251227233000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 1000: V. Mboko (CAN) - N. Osaka (JPN), National Bank Open Presented By Rogers in Montreal (CAN), Finale</title>
+</programme>
+<programme start="20251226231500 +0000" stop="20251227010000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Fußball: Die Nacht von Paris - Terror am Stade de France</title>
+</programme>
+<programme start="20251227010000 +0000" stop="20251227014500 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>GTWC: Season Review 2025 (Sprint Cup)</title>
+</programme>
+<programme start="20251227014500 +0000" stop="20251227023000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>GTWC: Season Review 2025 (Endurance Cup)</title>
+</programme>
+<programme start="20251227023000 +0000" stop="20251227050000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>WTA Finals: A. Sabalenka - E. Rybakina (KAZ), Finale 2025 in Riyadh (SAU)</title>
+</programme>
+<programme start="20251227050000 +0000" stop="20251227052000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>BL: FC Bayern München - Hinrunde 25-26</title>
+</programme>
+<programme start="20251227052000 +0000" stop="20251227054000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>2. BL: 1. FC Magdeburg - Hinrunde 25-26</title>
+</programme>
+<programme start="20251227054000 +0000" stop="20251227060000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>2. BL: SpVgg Greuther Fürth - Hinrunde 25-26</title>
+</programme>
+<programme start="20251227060000 +0000" stop="20251227062000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>2. BL: SV Darmstadt 98 - Hinrunde 25-26</title>
+</programme>
+<programme start="20251227062000 +0000" stop="20251227064000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>2. BL: 1. FC Nürnberg - Hinrunde 25-26</title>
+</programme>
+<programme start="20251227064000 +0000" stop="20251227070000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>2. BL: Eintracht Braunschweig - Hinrunde 25-26</title>
+</programme>
+<programme start="20251227070000 +0000" stop="20251227072000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>2. BL: Dynamo Dresden - Hinrunde 25-26</title>
+</programme>
+<programme start="20251227072000 +0000" stop="20251227074000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>2. BL: SV Elversberg - Hinrunde 25-26</title>
+</programme>
+<programme start="20251227074000 +0000" stop="20251227080000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>2. BL: Fortuna Düsseldorf - Hinrunde 25-26</title>
+</programme>
+<programme start="20251227080000 +0000" stop="20251227082000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>2. BL: SC Paderborn 07 - Hinrunde 25-26</title>
+</programme>
+<programme start="20251227082000 +0000" stop="20251227084000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>2. BL: Karlsruher SC - Hinrunde 25-26</title>
+</programme>
+<programme start="20251227084000 +0000" stop="20251227090000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>2. BL: Preußen Münster - Hinrunde 25-26</title>
+</programme>
+<programme start="20251227090000 +0000" stop="20251227092000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>2. BL: 1. FC Kaiserslautern - Hinrunde 25-26</title>
+</programme>
+<programme start="20251227092000 +0000" stop="20251227094000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>2. BL: Hannover 96 - Hinrunde 25-26</title>
+</programme>
+<programme start="20251227094000 +0000" stop="20251227100000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>2. BL: VfL Bochum - Hirunde 25-26</title>
+</programme>
+<programme start="20251227100000 +0000" stop="20251227102000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>2. BL: Arminia Bielefeld - Hinrunde 25-26</title>
+</programme>
+<programme start="20251227102000 +0000" stop="20251227104000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>2. BL: Holstein Kiel - Hinrunde 25-26</title>
+</programme>
+<programme start="20251227104000 +0000" stop="20251227110000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>2. BL: Hertha BSC - Hinrunde 25-26</title>
+</programme>
+<programme start="20251227110000 +0000" stop="20251227112000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>2. BL: FC Schalke 04 - Hinrunde 25-26</title>
+</programme>
+<programme start="20251227112000 +0000" stop="20251227115000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>PL: 90in30: MUN - NEW, 18. Spieltag</title>
+</programme>
+<programme start="20251227115000 +0000" stop="20251227122000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>PL: Preview, 18. Spieltag</title>
+</programme>
+<programme start="20251227122000 +0000" stop="20251227145000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Live PL: Nottingham Forest - Manchester City, 18. Spieltag</title>
+</programme>
+<programme start="20251227145000 +0000" stop="20251227172000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Live PL: Samstags-Konferenz, 18. Spieltag</title>
+</programme>
+<programme start="20251227172000 +0000" stop="20251227193000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Live PL: FC Chelsea - Aston Villa, 18. Spieltag</title>
+</programme>
+<programme start="20251227193000 +0000" stop="20251227200000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>PL: Highlights Samstag, 18. Spieltag</title>
+</programme>
+<programme start="20251227200000 +0000" stop="20251227214500 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Fußball: Rudi Völler - Es gibt nur einen</title>
+</programme>
+<programme start="20251227214500 +0000" stop="20251228003000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Live NBA: Dallas Mavericks @ Sacramento Kings</title>
+</programme>
+<programme start="20251227003000 +0000" stop="20251227023000 +0000" channel="Sky Sport UHD.skyde">
+    <title>F1: Rennen - GP Abu Dhabi</title>
+</programme>
+<programme start="20251227023000 +0000" stop="20251227024500 +0000" channel="Sky Sport UHD.skyde">
+    <title>Info: UHD</title>
+</programme>
+<programme start="20251227024500 +0000" stop="20251227031500 +0000" channel="Sky Sport UHD.skyde">
+    <title>Golf: Greatest Holes (1)</title>
+</programme>
+<programme start="20251227031500 +0000" stop="20251227034500 +0000" channel="Sky Sport UHD.skyde">
+    <title>Golf: Greatest Holes (2)</title>
+</programme>
+<programme start="20251227034500 +0000" stop="20251227041500 +0000" channel="Sky Sport UHD.skyde">
+    <title>Golf: Greatest Holes (3)</title>
+</programme>
+<programme start="20251227041500 +0000" stop="20251227044500 +0000" channel="Sky Sport UHD.skyde">
+    <title>Golf: Greatest Holes (4)</title>
+</programme>
+<programme start="20251227044500 +0000" stop="20251227051500 +0000" channel="Sky Sport UHD.skyde">
+    <title>Golf: Greatest Holes (5)</title>
+</programme>
+<programme start="20251227051500 +0000" stop="20251227054500 +0000" channel="Sky Sport UHD.skyde">
+    <title>Golf: Greatest Holes (6)</title>
+</programme>
+<programme start="20251227054500 +0000" stop="20251227061500 +0000" channel="Sky Sport UHD.skyde">
+    <title>Golf: Greatest Holes (7)</title>
+</programme>
+<programme start="20251227061500 +0000" stop="20251227081500 +0000" channel="Sky Sport UHD.skyde">
+    <title>PL: Manchester United - Newcastle United, Match of the Week, 18. Spieltag</title>
+</programme>
+<programme start="20251227081500 +0000" stop="20251227090000 +0000" channel="Sky Sport UHD.skyde">
+    <title>PL: Match of the Week: Die Analyse, MUN - NEW, 18. Spieltag</title>
+</programme>
+<programme start="20251227090000 +0000" stop="20251227104500 +0000" channel="Sky Sport UHD.skyde">
     <title>Mondo Duplantis: Immer höher</title>
 </programme>
-<programme start="20251225230000 +0000" stop="20251225234500 +0000" channel="SYFY HD.skyde">
+<programme start="20251227104500 +0000" stop="20251227125000 +0000" channel="Sky Sport UHD.skyde">
+    <title>DFB-Pokal: Borussia Dortmund - Bayer Leverkusen, Achtelfinale</title>
+</programme>
+<programme start="20251227125000 +0000" stop="20251227145000 +0000" channel="Sky Sport UHD.skyde">
+    <title>PL: Manchester United - Newcastle United, Match of the Week, 18. Spieltag</title>
+</programme>
+<programme start="20251227145000 +0000" stop="20251227170000 +0000" channel="Sky Sport UHD.skyde">
+    <title>Live PL: FC Arsenal - Brighton &amp; Hove Albion, 18. Spieltag</title>
+</programme>
+<programme start="20251227170000 +0000" stop="20251227172000 +0000" channel="Sky Sport UHD.skyde">
+    <title>Info: UHD</title>
+</programme>
+<programme start="20251227172000 +0000" stop="20251227193000 +0000" channel="Sky Sport UHD.skyde">
+    <title>Live PL: FC Chelsea - Aston Villa, 18. Spieltag</title>
+</programme>
+<programme start="20251227193000 +0000" stop="20251227213000 +0000" channel="Sky Sport UHD.skyde">
+    <title>PL: FC Arsenal - Brighton &amp; Hove Albion, 18. Spieltag</title>
+</programme>
+<programme start="20251227213000 +0000" stop="20251227233000 +0000" channel="Sky Sport UHD.skyde">
+    <title>F1: Rennen - GP Abu Dhabi</title>
+</programme>
+<programme start="20251227143000 +0000" stop="20251227145000 +0000" channel="Sky Sport 1 HD.skyde">
+    <title>Es folgt: Premier League</title>
+</programme>
+<programme start="20251227145000 +0000" stop="20251227170000 +0000" channel="Sky Sport 1 HD.skyde">
+    <title>Live PL: FC Arsenal - Brighton &amp; Hove Albion, 18. Spieltag</title>
+</programme>
+<programme start="20251227212500 +0000" stop="20251227214500 +0000" channel="Sky Sport 1 HD.skyde">
+    <title>Es folgt: Basketball NBA</title>
+</programme>
+<programme start="20251227214500 +0000" stop="20251228003000 +0000" channel="Sky Sport 1 HD.skyde">
+    <title>Live NBA: Dallas Mavericks @ Sacramento Kings</title>
+</programme>
+<programme start="20251227143000 +0000" stop="20251227145000 +0000" channel="Sky Sport 2 HD.skyde">
+    <title>Es folgt: Premier League</title>
+</programme>
+<programme start="20251227145000 +0000" stop="20251227170000 +0000" channel="Sky Sport 2 HD.skyde">
+    <title>Live PL: FC Brentford - AFC Bournemouth, 18. Spieltag</title>
+</programme>
+<programme start="20251227143000 +0000" stop="20251227145000 +0000" channel="Sky Sport 3 HD.skyde">
+    <title>Es folgt: Premier League</title>
+</programme>
+<programme start="20251227145000 +0000" stop="20251227170000 +0000" channel="Sky Sport 3 HD.skyde">
+    <title>Live PL: West Ham United - FC Fulham, 18. Spieltag</title>
+</programme>
+<programme start="20251227143000 +0000" stop="20251227145000 +0000" channel="Sky Sport 4 HD.skyde">
+    <title>Es folgt: Premier League</title>
+</programme>
+<programme start="20251227145000 +0000" stop="20251227170000 +0000" channel="Sky Sport 4 HD.skyde">
+    <title>Live PL: FC Burnley - FC Everton, 18. Spieltag</title>
+</programme>
+<programme start="20251226230000 +0000" stop="20251226234500 +0000" channel="SYFY HD.skyde">
     <title>Stargate SG-1</title>
 </programme>
-<programme start="20251225234500 +0000" stop="20251226003000 +0000" channel="SYFY HD.skyde">
+<programme start="20251226234500 +0000" stop="20251227011500 +0000" channel="SYFY HD.skyde">
+    <title>The Marine</title>
+</programme>
+<programme start="20251227011500 +0000" stop="20251227020000 +0000" channel="SYFY HD.skyde">
+    <title>La Brea</title>
+</programme>
+<programme start="20251227020000 +0000" stop="20251227024500 +0000" channel="SYFY HD.skyde">
+    <title>Akte X - Die unheimlichen Fälle des FBI</title>
+</programme>
+<programme start="20251227024500 +0000" stop="20251227033000 +0000" channel="SYFY HD.skyde">
+    <title>Akte X - Die unheimlichen Fälle des FBI</title>
+</programme>
+<programme start="20251227033000 +0000" stop="20251227041500 +0000" channel="SYFY HD.skyde">
+    <title>Akte X - Die unheimlichen Fälle des FBI</title>
+</programme>
+<programme start="20251227041500 +0000" stop="20251227050000 +0000" channel="SYFY HD.skyde">
+    <title>Akte X - Die unheimlichen Fälle des FBI</title>
+</programme>
+<programme start="20251227050000 +0000" stop="20251227054500 +0000" channel="SYFY HD.skyde">
     <title>Stargate: Atlantis</title>
 </programme>
-<programme start="20251226003000 +0000" stop="20251226015000 +0000" channel="SYFY HD.skyde">
-    <title>Chronicle - Wozu bist du fähig?</title>
+<programme start="20251227054500 +0000" stop="20251227063000 +0000" channel="SYFY HD.skyde">
+    <title>Stargate: Atlantis</title>
 </programme>
-<programme start="20251226015000 +0000" stop="20251226020000 +0000" channel="SYFY HD.skyde">
-    <title>Sci Xpert - Leschs Universum</title>
+<programme start="20251227063000 +0000" stop="20251227072000 +0000" channel="SYFY HD.skyde">
+    <title>Stargate: Atlantis</title>
 </programme>
-<programme start="20251226020000 +0000" stop="20251226024500 +0000" channel="SYFY HD.skyde">
-    <title>Akte X - Die unheimlichen Fälle des FBI</title>
+<programme start="20251227072000 +0000" stop="20251227080500 +0000" channel="SYFY HD.skyde">
+    <title>Stargate: Atlantis</title>
 </programme>
-<programme start="20251226024500 +0000" stop="20251226033000 +0000" channel="SYFY HD.skyde">
-    <title>Akte X - Die unheimlichen Fälle des FBI</title>
+<programme start="20251227080500 +0000" stop="20251227085000 +0000" channel="SYFY HD.skyde">
+    <title>Stargate: Atlantis</title>
 </programme>
-<programme start="20251226033000 +0000" stop="20251226041500 +0000" channel="SYFY HD.skyde">
-    <title>Akte X - Die unheimlichen Fälle des FBI</title>
+<programme start="20251227085000 +0000" stop="20251227094000 +0000" channel="SYFY HD.skyde">
+    <title>Stargate: Atlantis</title>
 </programme>
-<programme start="20251226041500 +0000" stop="20251226045500 +0000" channel="SYFY HD.skyde">
-    <title>Akte X - Die unheimlichen Fälle des FBI</title>
+<programme start="20251227094000 +0000" stop="20251227102500 +0000" channel="SYFY HD.skyde">
+    <title>Stargate: Atlantis</title>
 </programme>
-<programme start="20251226045500 +0000" stop="20251226050500 +0000" channel="SYFY HD.skyde">
-    <title>Sci Xpert - Leschs Universum</title>
+<programme start="20251227102500 +0000" stop="20251227111000 +0000" channel="SYFY HD.skyde">
+    <title>Stargate: Atlantis</title>
 </programme>
-<programme start="20251226050500 +0000" stop="20251226051000 +0000" channel="SYFY HD.skyde">
-    <title>Sci Xpert - Leschs Universum</title>
+<programme start="20251227111000 +0000" stop="20251227120000 +0000" channel="SYFY HD.skyde">
+    <title>Stargate: Atlantis</title>
 </programme>
-<programme start="20251226051000 +0000" stop="20251226055500 +0000" channel="SYFY HD.skyde">
-    <title>Van Helsing</title>
+<programme start="20251227120000 +0000" stop="20251227124500 +0000" channel="SYFY HD.skyde">
+    <title>Stargate: Atlantis</title>
 </programme>
-<programme start="20251226055500 +0000" stop="20251226064000 +0000" channel="SYFY HD.skyde">
-    <title>Van Helsing</title>
-</programme>
-<programme start="20251226064000 +0000" stop="20251226073000 +0000" channel="SYFY HD.skyde">
-    <title>Van Helsing</title>
-</programme>
-<programme start="20251226073000 +0000" stop="20251226093000 +0000" channel="SYFY HD.skyde">
-    <title>Percy Jackson - Diebe im Olymp</title>
-</programme>
-<programme start="20251226093000 +0000" stop="20251226112000 +0000" channel="SYFY HD.skyde">
-    <title>Percy Jackson - Im Bann des Zyklopen</title>
-</programme>
-<programme start="20251226112000 +0000" stop="20251226120500 +0000" channel="SYFY HD.skyde">
-    <title>Stargate SG-1</title>
-</programme>
-<programme start="20251226120500 +0000" stop="20251226125500 +0000" channel="SYFY HD.skyde">
-    <title>Stargate SG-1</title>
-</programme>
-<programme start="20251226125500 +0000" stop="20251226134000 +0000" channel="SYFY HD.skyde">
-    <title>Stargate SG-1</title>
-</programme>
-<programme start="20251226134000 +0000" stop="20251226143000 +0000" channel="SYFY HD.skyde">
-    <title>Akte X - Die unheimlichen Fälle des FBI</title>
-</programme>
-<programme start="20251226143000 +0000" stop="20251226151500 +0000" channel="SYFY HD.skyde">
-    <title>Akte X - Die unheimlichen Fälle des FBI</title>
-</programme>
-<programme start="20251226151500 +0000" stop="20251226160500 +0000" channel="SYFY HD.skyde">
-    <title>Akte X - Die unheimlichen Fälle des FBI</title>
-</programme>
-<programme start="20251226160500 +0000" stop="20251226165500 +0000" channel="SYFY HD.skyde">
-    <title>Akte X - Die unheimlichen Fälle des FBI</title>
-</programme>
-<programme start="20251226165500 +0000" stop="20251226171500 +0000" channel="SYFY HD.skyde">
-    <title>SYFY Inside: Star Wars Celebration</title>
-</programme>
-<programme start="20251226171500 +0000" stop="20251226191500 +0000" channel="SYFY HD.skyde">
-    <title>Percy Jackson - Diebe im Olymp</title>
-</programme>
-<programme start="20251226191500 +0000" stop="20251226210000 +0000" channel="SYFY HD.skyde">
-    <title>Percy Jackson - Im Bann des Zyklopen</title>
-</programme>
-<programme start="20251226210000 +0000" stop="20251226212500 +0000" channel="SYFY HD.skyde">
+<programme start="20251227124500 +0000" stop="20251227130500 +0000" channel="SYFY HD.skyde">
     <title>SYFY Inside: Space Debris</title>
 </programme>
-<programme start="20251226212500 +0000" stop="20251226221000 +0000" channel="SYFY HD.skyde">
-    <title>Stargate SG-1</title>
+<programme start="20251227130500 +0000" stop="20251227150000 +0000" channel="SYFY HD.skyde">
+    <title>Alien - Das unheimliche Wesen aus einer fremden Welt (Director&#039;s Cut)</title>
 </programme>
-<programme start="20251226221000 +0000" stop="20251226230000 +0000" channel="SYFY HD.skyde">
-    <title>Stargate SG-1</title>
+<programme start="20251227150000 +0000" stop="20251227172000 +0000" channel="SYFY HD.skyde">
+    <title>Aliens - Die Rückkehr</title>
 </programme>
-<programme start="20251225230000 +0000" stop="20251225234000 +0000" channel="Universal TV HD.skyde">
+<programme start="20251227172000 +0000" stop="20251227191500 +0000" channel="SYFY HD.skyde">
+    <title>Alien 3</title>
+</programme>
+<programme start="20251227191500 +0000" stop="20251227210500 +0000" channel="SYFY HD.skyde">
+    <title>Alien - Die Wiedergeburt</title>
+</programme>
+<programme start="20251227210500 +0000" stop="20251227215000 +0000" channel="SYFY HD.skyde">
+    <title>Akte X - Die unheimlichen Fälle des FBI</title>
+</programme>
+<programme start="20251227215000 +0000" stop="20251227224000 +0000" channel="SYFY HD.skyde">
+    <title>Akte X - Die unheimlichen Fälle des FBI</title>
+</programme>
+<programme start="20251227224000 +0000" stop="20251227232500 +0000" channel="SYFY HD.skyde">
+    <title>Akte X - Die unheimlichen Fälle des FBI</title>
+</programme>
+<programme start="20251226234000 +0000" stop="20251227002000 +0000" channel="Universal TV HD.skyde">
     <title>Chicago Med</title>
 </programme>
-<programme start="20251225234000 +0000" stop="20251226002500 +0000" channel="Universal TV HD.skyde">
+<programme start="20251227002000 +0000" stop="20251227010000 +0000" channel="Universal TV HD.skyde">
     <title>Chicago Med</title>
 </programme>
-<programme start="20251226002500 +0000" stop="20251226011000 +0000" channel="Universal TV HD.skyde">
+<programme start="20251227010000 +0000" stop="20251227014500 +0000" channel="Universal TV HD.skyde">
     <title>Chicago Med</title>
 </programme>
-<programme start="20251226011000 +0000" stop="20251226015500 +0000" channel="Universal TV HD.skyde">
-    <title>Chicago Med</title>
-</programme>
-<programme start="20251226015500 +0000" stop="20251226024000 +0000" channel="Universal TV HD.skyde">
+<programme start="20251227014500 +0000" stop="20251227023000 +0000" channel="Universal TV HD.skyde">
     <title>Dr. House</title>
 </programme>
-<programme start="20251226024000 +0000" stop="20251226032500 +0000" channel="Universal TV HD.skyde">
+<programme start="20251227023000 +0000" stop="20251227031000 +0000" channel="Universal TV HD.skyde">
     <title>Dr. House</title>
 </programme>
-<programme start="20251226032500 +0000" stop="20251226041000 +0000" channel="Universal TV HD.skyde">
+<programme start="20251227031000 +0000" stop="20251227035500 +0000" channel="Universal TV HD.skyde">
     <title>Dr. House</title>
 </programme>
-<programme start="20251226041000 +0000" stop="20251226045000 +0000" channel="Universal TV HD.skyde">
+<programme start="20251227035500 +0000" stop="20251227044000 +0000" channel="Universal TV HD.skyde">
     <title>Dr. House</title>
 </programme>
-<programme start="20251226045000 +0000" stop="20251226054000 +0000" channel="Universal TV HD.skyde">
+<programme start="20251227044000 +0000" stop="20251227052500 +0000" channel="Universal TV HD.skyde">
     <title>Dr. House</title>
 </programme>
-<programme start="20251226054000 +0000" stop="20251226062500 +0000" channel="Universal TV HD.skyde">
-    <title>Bones - Die Knochenjägerin</title>
+<programme start="20251227052500 +0000" stop="20251227061500 +0000" channel="Universal TV HD.skyde">
+    <title>Dr. House</title>
 </programme>
-<programme start="20251226062500 +0000" stop="20251226071000 +0000" channel="Universal TV HD.skyde">
-    <title>Bones - Die Knochenjägerin</title>
+<programme start="20251227061500 +0000" stop="20251227070000 +0000" channel="Universal TV HD.skyde">
+    <title>Dr. House</title>
 </programme>
-<programme start="20251226071000 +0000" stop="20251226075500 +0000" channel="Universal TV HD.skyde">
-    <title>Bones - Die Knochenjägerin</title>
+<programme start="20251227070000 +0000" stop="20251227074500 +0000" channel="Universal TV HD.skyde">
+    <title>Dr. House</title>
 </programme>
-<programme start="20251226075500 +0000" stop="20251226084500 +0000" channel="Universal TV HD.skyde">
-    <title>Bones - Die Knochenjägerin</title>
+<programme start="20251227074500 +0000" stop="20251227083000 +0000" channel="Universal TV HD.skyde">
+    <title>Dr. House</title>
 </programme>
-<programme start="20251226084500 +0000" stop="20251226092500 +0000" channel="Universal TV HD.skyde">
-    <title>Chicago Med</title>
+<programme start="20251227083000 +0000" stop="20251227092000 +0000" channel="Universal TV HD.skyde">
+    <title>Dr. House</title>
 </programme>
-<programme start="20251226092500 +0000" stop="20251226101000 +0000" channel="Universal TV HD.skyde">
-    <title>Chicago Med</title>
+<programme start="20251227092000 +0000" stop="20251227100500 +0000" channel="Universal TV HD.skyde">
+    <title>Chicago P.D.</title>
 </programme>
-<programme start="20251226101000 +0000" stop="20251226105500 +0000" channel="Universal TV HD.skyde">
-    <title>Chicago Med</title>
+<programme start="20251227100500 +0000" stop="20251227105000 +0000" channel="Universal TV HD.skyde">
+    <title>Chicago P.D.</title>
 </programme>
-<programme start="20251226105500 +0000" stop="20251226114000 +0000" channel="Universal TV HD.skyde">
-    <title>Chicago Med</title>
-</programme>
-<programme start="20251226114000 +0000" stop="20251226122500 +0000" channel="Universal TV HD.skyde">
-    <title>Chicago Med</title>
-</programme>
-<programme start="20251226122500 +0000" stop="20251226131000 +0000" channel="Universal TV HD.skyde">
+<programme start="20251227105000 +0000" stop="20251227113500 +0000" channel="Universal TV HD.skyde">
     <title>Hawaii Five-0</title>
 </programme>
-<programme start="20251226131000 +0000" stop="20251226135500 +0000" channel="Universal TV HD.skyde">
+<programme start="20251227113500 +0000" stop="20251227122500 +0000" channel="Universal TV HD.skyde">
     <title>Hawaii Five-0</title>
 </programme>
-<programme start="20251226135500 +0000" stop="20251226144000 +0000" channel="Universal TV HD.skyde">
+<programme start="20251227122500 +0000" stop="20251227131000 +0000" channel="Universal TV HD.skyde">
     <title>Hawaii Five-0</title>
 </programme>
-<programme start="20251226144000 +0000" stop="20251226152500 +0000" channel="Universal TV HD.skyde">
+<programme start="20251227131000 +0000" stop="20251227135500 +0000" channel="Universal TV HD.skyde">
     <title>Hawaii Five-0</title>
 </programme>
-<programme start="20251226152500 +0000" stop="20251226161000 +0000" channel="Universal TV HD.skyde">
+<programme start="20251227135500 +0000" stop="20251227144000 +0000" channel="Universal TV HD.skyde">
     <title>Hawaii Five-0</title>
 </programme>
-<programme start="20251226161000 +0000" stop="20251226165500 +0000" channel="Universal TV HD.skyde">
+<programme start="20251227144000 +0000" stop="20251227152500 +0000" channel="Universal TV HD.skyde">
+    <title>Hawaii Five-0</title>
+</programme>
+<programme start="20251227152500 +0000" stop="20251227161000 +0000" channel="Universal TV HD.skyde">
     <title>Bones - Die Knochenjägerin</title>
 </programme>
-<programme start="20251226165500 +0000" stop="20251226174000 +0000" channel="Universal TV HD.skyde">
+<programme start="20251227161000 +0000" stop="20251227165500 +0000" channel="Universal TV HD.skyde">
     <title>Bones - Die Knochenjägerin</title>
 </programme>
-<programme start="20251226174000 +0000" stop="20251226182500 +0000" channel="Universal TV HD.skyde">
+<programme start="20251227165500 +0000" stop="20251227174500 +0000" channel="Universal TV HD.skyde">
     <title>Bones - Die Knochenjägerin</title>
 </programme>
-<programme start="20251226182500 +0000" stop="20251226191500 +0000" channel="Universal TV HD.skyde">
+<programme start="20251227174500 +0000" stop="20251227183000 +0000" channel="Universal TV HD.skyde">
     <title>Bones - Die Knochenjägerin</title>
 </programme>
-<programme start="20251226191500 +0000" stop="20251226200000 +0000" channel="Universal TV HD.skyde">
-    <title>Fire Country</title>
+<programme start="20251227183000 +0000" stop="20251227191500 +0000" channel="Universal TV HD.skyde">
+    <title>Bones - Die Knochenjägerin</title>
 </programme>
-<programme start="20251226200000 +0000" stop="20251226204500 +0000" channel="Universal TV HD.skyde">
-    <title>Fire Country</title>
+<programme start="20251227191500 +0000" stop="20251227200000 +0000" channel="Universal TV HD.skyde">
+    <title>Bones - Die Knochenjägerin</title>
 </programme>
-<programme start="20251226204500 +0000" stop="20251226213000 +0000" channel="Universal TV HD.skyde">
-    <title>Fire Country</title>
+<programme start="20251227200000 +0000" stop="20251227204500 +0000" channel="Universal TV HD.skyde">
+    <title>Bones - Die Knochenjägerin</title>
 </programme>
-<programme start="20251226213000 +0000" stop="20251226221500 +0000" channel="Universal TV HD.skyde">
-    <title>Fire Country</title>
+<programme start="20251227204500 +0000" stop="20251227213000 +0000" channel="Universal TV HD.skyde">
+    <title>Bones - Die Knochenjägerin</title>
 </programme>
-<programme start="20251226221500 +0000" stop="20251226225500 +0000" channel="Universal TV HD.skyde">
-    <title>Chicago Med</title>
+<programme start="20251227213000 +0000" stop="20251227221500 +0000" channel="Universal TV HD.skyde">
+    <title>Bones - Die Knochenjägerin</title>
 </programme>
-<programme start="20251226225500 +0000" stop="20251226234000 +0000" channel="Universal TV HD.skyde">
-    <title>Chicago Med</title>
+<programme start="20251227221500 +0000" stop="20251227230000 +0000" channel="Universal TV HD.skyde">
+    <title>Bones - Die Knochenjägerin</title>
 </programme>
-<programme start="20251225230000 +0000" stop="20251225232500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251226232000 +0000" stop="20251226234000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Big Bang Theory</title>
 </programme>
-<programme start="20251225232500 +0000" stop="20251225234500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251226234000 +0000" stop="20251227000500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Big Bang Theory</title>
 </programme>
-<programme start="20251225234500 +0000" stop="20251226000500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251227000500 +0000" stop="20251227002500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Big Bang Theory</title>
 </programme>
-<programme start="20251226000500 +0000" stop="20251226003000 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>The Big Bang Theory</title>
-</programme>
-<programme start="20251226003000 +0000" stop="20251226005500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251227002500 +0000" stop="20251227005000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>American Dad</title>
 </programme>
-<programme start="20251226005500 +0000" stop="20251226011500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251227005000 +0000" stop="20251227011000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>American Dad</title>
 </programme>
-<programme start="20251226011500 +0000" stop="20251226014000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251227011000 +0000" stop="20251227013500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Rick and Morty</title>
 </programme>
-<programme start="20251226014000 +0000" stop="20251226020000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251227013500 +0000" stop="20251227015500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Rick and Morty</title>
 </programme>
-<programme start="20251226020000 +0000" stop="20251226021500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251227015500 +0000" stop="20251227021000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Robot Chicken</title>
 </programme>
-<programme start="20251226021500 +0000" stop="20251226022500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251227021000 +0000" stop="20251227022000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Robot Chicken</title>
 </programme>
-<programme start="20251226022500 +0000" stop="20251226024000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251227022000 +0000" stop="20251227023000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Robot Chicken</title>
 </programme>
-<programme start="20251226024000 +0000" stop="20251226030000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251227023000 +0000" stop="20251227024500 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>Robot Chicken</title>
+</programme>
+<programme start="20251227024500 +0000" stop="20251227025500 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>Robot Chicken</title>
+</programme>
+<programme start="20251227025500 +0000" stop="20251227031000 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>Robot Chicken</title>
+</programme>
+<programme start="20251227031000 +0000" stop="20251227033000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Miracle Workers</title>
 </programme>
-<programme start="20251226030000 +0000" stop="20251226032000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251227033000 +0000" stop="20251227035500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Miracle Workers</title>
 </programme>
-<programme start="20251226032000 +0000" stop="20251226034000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251227035500 +0000" stop="20251227041500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Miracle Workers</title>
 </programme>
-<programme start="20251226034000 +0000" stop="20251226040000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251227041500 +0000" stop="20251227043500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Miracle Workers</title>
 </programme>
-<programme start="20251226040000 +0000" stop="20251226042500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251227043500 +0000" stop="20251227045500 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>The Big Bang Theory</title>
+</programme>
+<programme start="20251227045500 +0000" stop="20251227052000 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>The Big Bang Theory</title>
+</programme>
+<programme start="20251227052000 +0000" stop="20251227054500 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>The Big Bang Theory</title>
+</programme>
+<programme start="20251227054500 +0000" stop="20251227061000 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>The Big Bang Theory</title>
+</programme>
+<programme start="20251227061000 +0000" stop="20251227063500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Die Nanny</title>
 </programme>
-<programme start="20251226042500 +0000" stop="20251226045000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251227063500 +0000" stop="20251227070000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Die Nanny</title>
 </programme>
-<programme start="20251226045000 +0000" stop="20251226051000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251227070000 +0000" stop="20251227072500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Die Nanny</title>
 </programme>
-<programme start="20251226051000 +0000" stop="20251226054000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251227072500 +0000" stop="20251227075000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Die Nanny</title>
 </programme>
-<programme start="20251226054000 +0000" stop="20251226060500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Friends</title>
-</programme>
-<programme start="20251226060500 +0000" stop="20251226063000 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Friends</title>
-</programme>
-<programme start="20251226063000 +0000" stop="20251226065500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Friends</title>
-</programme>
-<programme start="20251226065500 +0000" stop="20251226072000 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Friends</title>
-</programme>
-<programme start="20251226072000 +0000" stop="20251226074500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251227075000 +0000" stop="20251227081500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Die Nanny</title>
 </programme>
-<programme start="20251226074500 +0000" stop="20251226081000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251227081500 +0000" stop="20251227084500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Die Nanny</title>
 </programme>
-<programme start="20251226081000 +0000" stop="20251226084000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251227084500 +0000" stop="20251227091000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Die Nanny</title>
 </programme>
-<programme start="20251226084000 +0000" stop="20251226090500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251227091000 +0000" stop="20251227093500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Die Nanny</title>
 </programme>
-<programme start="20251226090500 +0000" stop="20251226093000 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>The Middle</title>
+<programme start="20251227093500 +0000" stop="20251227100000 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>Die Nanny</title>
 </programme>
-<programme start="20251226093000 +0000" stop="20251226095500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>The Middle</title>
+<programme start="20251227100000 +0000" stop="20251227102500 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>Die Nanny</title>
 </programme>
-<programme start="20251226095500 +0000" stop="20251226102000 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>The Middle</title>
-</programme>
-<programme start="20251226102000 +0000" stop="20251226104500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>The Middle</title>
-</programme>
-<programme start="20251226104500 +0000" stop="20251226111000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251227102500 +0000" stop="20251227105000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Friends</title>
 </programme>
-<programme start="20251226111000 +0000" stop="20251226113500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251227105000 +0000" stop="20251227111500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Friends</title>
 </programme>
-<programme start="20251226113500 +0000" stop="20251226120000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251227111500 +0000" stop="20251227114000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Friends</title>
 </programme>
-<programme start="20251226120000 +0000" stop="20251226122500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251227114000 +0000" stop="20251227120500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Friends</title>
 </programme>
-<programme start="20251226122500 +0000" stop="20251226124500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251227120500 +0000" stop="20251227123000 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>The Big Bang Theory</title>
+</programme>
+<programme start="20251227123000 +0000" stop="20251227125500 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>The Big Bang Theory</title>
+</programme>
+<programme start="20251227125500 +0000" stop="20251227132000 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>The Big Bang Theory</title>
+</programme>
+<programme start="20251227132000 +0000" stop="20251227134000 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>The Big Bang Theory</title>
+</programme>
+<programme start="20251227134000 +0000" stop="20251227140500 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>The Big Bang Theory</title>
+</programme>
+<programme start="20251227140500 +0000" stop="20251227143000 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>The Big Bang Theory</title>
+</programme>
+<programme start="20251227143000 +0000" stop="20251227145500 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>The Big Bang Theory</title>
+</programme>
+<programme start="20251227145500 +0000" stop="20251227152000 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>The Big Bang Theory</title>
+</programme>
+<programme start="20251227152000 +0000" stop="20251227154000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Young Sheldon</title>
 </programme>
-<programme start="20251226124500 +0000" stop="20251226131000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251227154000 +0000" stop="20251227160500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Young Sheldon</title>
 </programme>
-<programme start="20251226131000 +0000" stop="20251226133000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251227160500 +0000" stop="20251227162500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Young Sheldon</title>
 </programme>
-<programme start="20251226133000 +0000" stop="20251226135500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251227162500 +0000" stop="20251227165000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Young Sheldon</title>
 </programme>
-<programme start="20251226135500 +0000" stop="20251226142000 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>The Middle</title>
-</programme>
-<programme start="20251226142000 +0000" stop="20251226144500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>The Middle</title>
-</programme>
-<programme start="20251226144500 +0000" stop="20251226151000 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>The Middle</title>
-</programme>
-<programme start="20251226151000 +0000" stop="20251226153500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>The Middle</title>
-</programme>
-<programme start="20251226153500 +0000" stop="20251226160000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251227165000 +0000" stop="20251227171000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Two and a Half Men</title>
 </programme>
-<programme start="20251226160000 +0000" stop="20251226162500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251227171000 +0000" stop="20251227173500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Two and a Half Men</title>
 </programme>
-<programme start="20251226162500 +0000" stop="20251226165000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251227173500 +0000" stop="20251227180000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Two and a Half Men</title>
 </programme>
-<programme start="20251226165000 +0000" stop="20251226171500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>2 Broke Girls</title>
+<programme start="20251227180000 +0000" stop="20251227182500 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>Two and a Half Men</title>
 </programme>
-<programme start="20251226171500 +0000" stop="20251226174000 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>2 Broke Girls</title>
+<programme start="20251227182500 +0000" stop="20251227185000 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>Two and a Half Men</title>
 </programme>
-<programme start="20251226174000 +0000" stop="20251226180000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251227185000 +0000" stop="20251227191500 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>Two and a Half Men</title>
+</programme>
+<programme start="20251227191500 +0000" stop="20251227203500 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>Police Academy 7 - Mission in Moskau</title>
+</programme>
+<programme start="20251227203500 +0000" stop="20251227210000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Big Bang Theory</title>
 </programme>
-<programme start="20251226180000 +0000" stop="20251226182500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251227210000 +0000" stop="20251227212000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Big Bang Theory</title>
 </programme>
-<programme start="20251226182500 +0000" stop="20251226185000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251227212000 +0000" stop="20251227214500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Big Bang Theory</title>
 </programme>
-<programme start="20251226185000 +0000" stop="20251226191500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251227214500 +0000" stop="20251227221000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Big Bang Theory</title>
 </programme>
-<programme start="20251226191500 +0000" stop="20251226194000 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Two and a Half Men</title>
-</programme>
-<programme start="20251226194000 +0000" stop="20251226200000 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Two and a Half Men</title>
-</programme>
-<programme start="20251226200000 +0000" stop="20251226202500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Two and a Half Men</title>
-</programme>
-<programme start="20251226202500 +0000" stop="20251226205000 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>2 Broke Girls</title>
-</programme>
-<programme start="20251226205000 +0000" stop="20251226211500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>2 Broke Girls</title>
-</programme>
-<programme start="20251226211500 +0000" stop="20251226214000 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>American Dad</title>
-</programme>
-<programme start="20251226214000 +0000" stop="20251226220500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>American Dad</title>
-</programme>
-<programme start="20251226220500 +0000" stop="20251226223000 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Rick and Morty</title>
-</programme>
-<programme start="20251226223000 +0000" stop="20251226225500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Rick and Morty</title>
-</programme>
-<programme start="20251226225500 +0000" stop="20251226232000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251227221000 +0000" stop="20251227223500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Big Bang Theory</title>
 </programme>
-<programme start="20251225230500 +0000" stop="20251226010000 +0000" channel="Warner TV Film.skyde">
-    <title>Zurück in die Zukunft III</title>
+<programme start="20251227223500 +0000" stop="20251227235500 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>Police Academy 7 - Mission in Moskau</title>
 </programme>
-<programme start="20251226010000 +0000" stop="20251226024500 +0000" channel="Warner TV Film.skyde">
-    <title>Edge of Tomorrow - Live. Die. Repeat</title>
+<programme start="20251226232000 +0000" stop="20251227005500 +0000" channel="Warner TV Film.skyde">
+    <title>Der weiße Hai 3</title>
 </programme>
-<programme start="20251226024500 +0000" stop="20251226030500 +0000" channel="Warner TV Film.skyde">
-    <title>Hinter den Kulissen - Anjelica Huston</title>
+<programme start="20251227005500 +0000" stop="20251227022000 +0000" channel="Warner TV Film.skyde">
+    <title>Der weiße Hai - Die Abrechnung</title>
 </programme>
-<programme start="20251226030500 +0000" stop="20251226050000 +0000" channel="Warner TV Film.skyde">
-    <title>Zurück in die Zukunft</title>
+<programme start="20251227022000 +0000" stop="20251227030000 +0000" channel="Warner TV Film.skyde">
+    <title>Ein Abend mit... David Kross</title>
 </programme>
-<programme start="20251226050000 +0000" stop="20251226065000 +0000" channel="Warner TV Film.skyde">
-    <title>Zurück in die Zukunft II</title>
-</programme>
-<programme start="20251226065000 +0000" stop="20251226085000 +0000" channel="Warner TV Film.skyde">
-    <title>Zurück in die Zukunft III</title>
-</programme>
-<programme start="20251226085000 +0000" stop="20251226091500 +0000" channel="Warner TV Film.skyde">
-    <title>New York on Set - Teil 2</title>
-</programme>
-<programme start="20251226091500 +0000" stop="20251226112500 +0000" channel="Warner TV Film.skyde">
-    <title>Das Schicksal ist ein mieser Verräter</title>
-</programme>
-<programme start="20251226112500 +0000" stop="20251226132500 +0000" channel="Warner TV Film.skyde">
-    <title>Pretty Woman</title>
-</programme>
-<programme start="20251226132500 +0000" stop="20251226152500 +0000" channel="Warner TV Film.skyde">
-    <title>Zurück in die Zukunft</title>
-</programme>
-<programme start="20251226152500 +0000" stop="20251226171500 +0000" channel="Warner TV Film.skyde">
-    <title>Zurück in die Zukunft II</title>
-</programme>
-<programme start="20251226171500 +0000" stop="20251226191500 +0000" channel="Warner TV Film.skyde">
-    <title>Zurück in die Zukunft III</title>
-</programme>
-<programme start="20251226191500 +0000" stop="20251226212000 +0000" channel="Warner TV Film.skyde">
+<programme start="20251227030000 +0000" stop="20251227050000 +0000" channel="Warner TV Film.skyde">
     <title>Der weiße Hai</title>
 </programme>
-<programme start="20251226212000 +0000" stop="20251226232000 +0000" channel="Warner TV Film.skyde">
+<programme start="20251227050000 +0000" stop="20251227065500 +0000" channel="Warner TV Film.skyde">
     <title>Der weiße Hai 2</title>
 </programme>
-<programme start="20251225230500 +0000" stop="20251226010000 +0000" channel="Warner TV Film HD.skyde">
-    <title>Zurück in die Zukunft III</title>
+<programme start="20251227065500 +0000" stop="20251227083500 +0000" channel="Warner TV Film.skyde">
+    <title>Der weiße Hai 3</title>
 </programme>
-<programme start="20251226010000 +0000" stop="20251226024500 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20251227083500 +0000" stop="20251227100500 +0000" channel="Warner TV Film.skyde">
+    <title>Der weiße Hai - Die Abrechnung</title>
+</programme>
+<programme start="20251227100500 +0000" stop="20251227115500 +0000" channel="Warner TV Film.skyde">
     <title>Edge of Tomorrow - Live. Die. Repeat</title>
 </programme>
-<programme start="20251226024500 +0000" stop="20251226030500 +0000" channel="Warner TV Film HD.skyde">
-    <title>Hinter den Kulissen - Anjelica Huston</title>
-</programme>
-<programme start="20251226030500 +0000" stop="20251226050000 +0000" channel="Warner TV Film HD.skyde">
-    <title>Zurück in die Zukunft</title>
-</programme>
-<programme start="20251226050000 +0000" stop="20251226065000 +0000" channel="Warner TV Film HD.skyde">
-    <title>Zurück in die Zukunft II</title>
-</programme>
-<programme start="20251226065000 +0000" stop="20251226085000 +0000" channel="Warner TV Film HD.skyde">
-    <title>Zurück in die Zukunft III</title>
-</programme>
-<programme start="20251226085000 +0000" stop="20251226091500 +0000" channel="Warner TV Film HD.skyde">
-    <title>New York on Set - Teil 2</title>
-</programme>
-<programme start="20251226091500 +0000" stop="20251226112500 +0000" channel="Warner TV Film HD.skyde">
-    <title>Das Schicksal ist ein mieser Verräter</title>
-</programme>
-<programme start="20251226112500 +0000" stop="20251226132500 +0000" channel="Warner TV Film HD.skyde">
-    <title>Pretty Woman</title>
-</programme>
-<programme start="20251226132500 +0000" stop="20251226152500 +0000" channel="Warner TV Film HD.skyde">
-    <title>Zurück in die Zukunft</title>
-</programme>
-<programme start="20251226152500 +0000" stop="20251226171500 +0000" channel="Warner TV Film HD.skyde">
-    <title>Zurück in die Zukunft II</title>
-</programme>
-<programme start="20251226171500 +0000" stop="20251226191500 +0000" channel="Warner TV Film HD.skyde">
-    <title>Zurück in die Zukunft III</title>
-</programme>
-<programme start="20251226191500 +0000" stop="20251226212000 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20251227115500 +0000" stop="20251227140000 +0000" channel="Warner TV Film.skyde">
     <title>Der weiße Hai</title>
 </programme>
-<programme start="20251226212000 +0000" stop="20251226232000 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20251227140000 +0000" stop="20251227160000 +0000" channel="Warner TV Film.skyde">
     <title>Der weiße Hai 2</title>
 </programme>
-<programme start="20251225232000 +0000" stop="20251226000500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20251227160000 +0000" stop="20251227174000 +0000" channel="Warner TV Film.skyde">
+    <title>Der weiße Hai 3</title>
+</programme>
+<programme start="20251227174000 +0000" stop="20251227191500 +0000" channel="Warner TV Film.skyde">
+    <title>Der weiße Hai - Die Abrechnung</title>
+</programme>
+<programme start="20251227191500 +0000" stop="20251227214000 +0000" channel="Warner TV Film.skyde">
+    <title>Transformers</title>
+</programme>
+<programme start="20251227214000 +0000" stop="20251228001000 +0000" channel="Warner TV Film.skyde">
+    <title>Transformers - Die Rache</title>
+</programme>
+<programme start="20251226232000 +0000" stop="20251227005500 +0000" channel="Warner TV Film HD.skyde">
+    <title>Der weiße Hai 3</title>
+</programme>
+<programme start="20251227005500 +0000" stop="20251227022000 +0000" channel="Warner TV Film HD.skyde">
+    <title>Der weiße Hai - Die Abrechnung</title>
+</programme>
+<programme start="20251227022000 +0000" stop="20251227030000 +0000" channel="Warner TV Film HD.skyde">
+    <title>Ein Abend mit... David Kross</title>
+</programme>
+<programme start="20251227030000 +0000" stop="20251227050000 +0000" channel="Warner TV Film HD.skyde">
+    <title>Der weiße Hai</title>
+</programme>
+<programme start="20251227050000 +0000" stop="20251227065500 +0000" channel="Warner TV Film HD.skyde">
+    <title>Der weiße Hai 2</title>
+</programme>
+<programme start="20251227065500 +0000" stop="20251227083500 +0000" channel="Warner TV Film HD.skyde">
+    <title>Der weiße Hai 3</title>
+</programme>
+<programme start="20251227083500 +0000" stop="20251227100500 +0000" channel="Warner TV Film HD.skyde">
+    <title>Der weiße Hai - Die Abrechnung</title>
+</programme>
+<programme start="20251227100500 +0000" stop="20251227115500 +0000" channel="Warner TV Film HD.skyde">
+    <title>Edge of Tomorrow - Live. Die. Repeat</title>
+</programme>
+<programme start="20251227115500 +0000" stop="20251227140000 +0000" channel="Warner TV Film HD.skyde">
+    <title>Der weiße Hai</title>
+</programme>
+<programme start="20251227140000 +0000" stop="20251227160000 +0000" channel="Warner TV Film HD.skyde">
+    <title>Der weiße Hai 2</title>
+</programme>
+<programme start="20251227160000 +0000" stop="20251227174000 +0000" channel="Warner TV Film HD.skyde">
+    <title>Der weiße Hai 3</title>
+</programme>
+<programme start="20251227174000 +0000" stop="20251227191500 +0000" channel="Warner TV Film HD.skyde">
+    <title>Der weiße Hai - Die Abrechnung</title>
+</programme>
+<programme start="20251227191500 +0000" stop="20251227214000 +0000" channel="Warner TV Film HD.skyde">
+    <title>Transformers</title>
+</programme>
+<programme start="20251227214000 +0000" stop="20251228001000 +0000" channel="Warner TV Film HD.skyde">
+    <title>Transformers - Die Rache</title>
+</programme>
+<programme start="20251226230500 +0000" stop="20251227000000 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Spy/Master</title>
+</programme>
+<programme start="20251227000000 +0000" stop="20251227005500 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Spy/Master</title>
+</programme>
+<programme start="20251227005500 +0000" stop="20251227014500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Emperor of Ocean Park</title>
 </programme>
-<programme start="20251226000500 +0000" stop="20251226005500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20251227014500 +0000" stop="20251227024000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Emperor of Ocean Park</title>
 </programme>
-<programme start="20251226005500 +0000" stop="20251226014500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20251227024000 +0000" stop="20251227033000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Emperor of Ocean Park</title>
 </programme>
-<programme start="20251226014500 +0000" stop="20251226023000 +0000" channel="Warner TV Serie HD.skyde">
-    <title>Hudson &amp; Rex</title>
+<programme start="20251227033000 +0000" stop="20251227042500 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Emperor of Ocean Park</title>
 </programme>
-<programme start="20251226023000 +0000" stop="20251226031500 +0000" channel="Warner TV Serie HD.skyde">
-    <title>Hudson &amp; Rex</title>
-</programme>
-<programme start="20251226031500 +0000" stop="20251226040000 +0000" channel="Warner TV Serie HD.skyde">
-    <title>Hudson &amp; Rex</title>
-</programme>
-<programme start="20251226040000 +0000" stop="20251226044500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20251227042500 +0000" stop="20251227051500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Mord ist ihr Hobby</title>
 </programme>
-<programme start="20251226044500 +0000" stop="20251226053000 +0000" channel="Warner TV Serie HD.skyde">
-    <title>Mord ist ihr Hobby</title>
+<programme start="20251227051500 +0000" stop="20251227060500 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Daktari</title>
 </programme>
-<programme start="20251226053000 +0000" stop="20251226062500 +0000" channel="Warner TV Serie HD.skyde">
-    <title>Mord ist ihr Hobby</title>
+<programme start="20251227060500 +0000" stop="20251227070000 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Daktari</title>
 </programme>
-<programme start="20251226062500 +0000" stop="20251226072000 +0000" channel="Warner TV Serie HD.skyde">
-    <title>Mord ist ihr Hobby</title>
+<programme start="20251227070000 +0000" stop="20251227075000 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Daktari</title>
 </programme>
-<programme start="20251226072000 +0000" stop="20251226081000 +0000" channel="Warner TV Serie HD.skyde">
-    <title>Mord ist ihr Hobby</title>
+<programme start="20251227075000 +0000" stop="20251227084500 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Daktari</title>
 </programme>
-<programme start="20251226081000 +0000" stop="20251226090000 +0000" channel="Warner TV Serie HD.skyde">
-    <title>Mord ist ihr Hobby</title>
+<programme start="20251227084500 +0000" stop="20251227093500 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Daktari</title>
 </programme>
-<programme start="20251226090000 +0000" stop="20251226095000 +0000" channel="Warner TV Serie HD.skyde">
-    <title>Unsere kleine Farm</title>
+<programme start="20251227093500 +0000" stop="20251227103000 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Daktari</title>
 </programme>
-<programme start="20251226095000 +0000" stop="20251226104500 +0000" channel="Warner TV Serie HD.skyde">
-    <title>Unsere kleine Farm</title>
+<programme start="20251227103000 +0000" stop="20251227112000 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Daktari</title>
 </programme>
-<programme start="20251226104500 +0000" stop="20251226113500 +0000" channel="Warner TV Serie HD.skyde">
-    <title>Unsere kleine Farm</title>
-</programme>
-<programme start="20251226113500 +0000" stop="20251226122500 +0000" channel="Warner TV Serie HD.skyde">
-    <title>Unsere kleine Farm</title>
-</programme>
-<programme start="20251226122500 +0000" stop="20251226132000 +0000" channel="Warner TV Serie HD.skyde">
-    <title>Unsere kleine Farm</title>
-</programme>
-<programme start="20251226132000 +0000" stop="20251226144000 +0000" channel="Warner TV Serie HD.skyde">
-    <title>Unsere kleine Farm</title>
-</programme>
-<programme start="20251226144000 +0000" stop="20251226152500 +0000" channel="Warner TV Serie HD.skyde">
-    <title>Rizzoli and Isles</title>
-</programme>
-<programme start="20251226152500 +0000" stop="20251226161000 +0000" channel="Warner TV Serie HD.skyde">
-    <title>Rizzoli and Isles</title>
-</programme>
-<programme start="20251226161000 +0000" stop="20251226165500 +0000" channel="Warner TV Serie HD.skyde">
-    <title>NCIS</title>
-</programme>
-<programme start="20251226165500 +0000" stop="20251226174000 +0000" channel="Warner TV Serie HD.skyde">
-    <title>NCIS</title>
-</programme>
-<programme start="20251226174000 +0000" stop="20251226182500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20251227112000 +0000" stop="20251227121000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Fringe</title>
 </programme>
-<programme start="20251226182500 +0000" stop="20251226191500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20251227121000 +0000" stop="20251227125500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Fringe</title>
 </programme>
-<programme start="20251226191500 +0000" stop="20251226201500 +0000" channel="Warner TV Serie HD.skyde">
-    <title>Emperor of Ocean Park</title>
+<programme start="20251227125500 +0000" stop="20251227134500 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Fringe</title>
 </programme>
-<programme start="20251226201500 +0000" stop="20251226211000 +0000" channel="Warner TV Serie HD.skyde">
-    <title>Emperor of Ocean Park</title>
+<programme start="20251227134500 +0000" stop="20251227143000 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Fringe</title>
 </programme>
-<programme start="20251226211000 +0000" stop="20251226220500 +0000" channel="Warner TV Serie HD.skyde">
-    <title>Emperor of Ocean Park</title>
+<programme start="20251227143000 +0000" stop="20251227152000 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Fringe</title>
 </programme>
-<programme start="20251226220500 +0000" stop="20251226230500 +0000" channel="Warner TV Serie HD.skyde">
-    <title>Emperor of Ocean Park</title>
+<programme start="20251227152000 +0000" stop="20251227160500 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Fringe</title>
+</programme>
+<programme start="20251227160500 +0000" stop="20251227165000 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Fringe</title>
+</programme>
+<programme start="20251227165000 +0000" stop="20251227174000 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Fringe</title>
+</programme>
+<programme start="20251227174000 +0000" stop="20251227182500 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Fringe</title>
+</programme>
+<programme start="20251227182500 +0000" stop="20251227191500 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Fringe</title>
+</programme>
+<programme start="20251227191500 +0000" stop="20251227200000 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Rescue: HI-Surf</title>
+</programme>
+<programme start="20251227200000 +0000" stop="20251227205000 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Rescue: HI-Surf</title>
+</programme>
+<programme start="20251227205000 +0000" stop="20251227213500 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Rescue: HI-Surf</title>
+</programme>
+<programme start="20251227213500 +0000" stop="20251227222000 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Rescue: HI-Surf</title>
+</programme>
+<programme start="20251227222000 +0000" stop="20251227231000 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Rescue: HI-Surf</title>
 </programme>
