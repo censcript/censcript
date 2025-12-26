@@ -811,9 +811,6 @@
 <programme start="20251226012700 +0000" stop="20251226013000 +0000" channel="TVOne.vision">
 <title>Kabar Terkini</title>
 </programme>
-<programme start="20251226013000 +0000" stop="20251226020000 +0000" channel="TVOne.vision">
-<title>Hidup Sehat</title>
-</programme>
 <programme start="20251226020000 +0000" stop="20251226023000 +0000" channel="TVOne.vision">
 <title>Inspirasi Pagi (L)</title>
 </programme>
@@ -1496,5 +1493,8 @@
 <title>TVRI</title>
 </programme>
 <programme start="20251226230000 +0000" stop="20251227010000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251227010000 +0000" stop="20251227030000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>

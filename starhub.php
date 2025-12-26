@@ -3773,7 +3773,7 @@
         <title>News &amp; Weather</title>
     </programme>
     <programme start="20251226010500 +0000" stop="20251226023400 +0000" channel="NHK World Premium HD.starhub">
-        <title>Wildlife Photographer Iwago Mitsuaki&#039;s World &quot;Cats&quot; Travelogue: Montenegro (R)</title>
+        <title>Wildlife Photographer Iwago Mitsuaki&#039;s World &quot;Cats&quot;Travelogue: Montenegro(R)</title>
     </programme>
     <programme start="20251226023400 +0000" stop="20251226024400 +0000" channel="NHK World Premium HD.starhub">
         <title>Darwin&#039;s Amazing Animals 10min.</title>
@@ -3857,7 +3857,7 @@
         <title>Trivia Quizzes--You&#039;ll Get Scolded by Chiko-chan! Special Edition</title>
     </programme>
     <programme start="20251226114300 +0000" stop="20251226114500 +0000" channel="NHK World Premium HD.starhub">
-        <title>Mini Program</title>
+        <title>World Weather</title>
     </programme>
     <programme start="20251226114500 +0000" stop="20251226120000 +0000" channel="NHK World Premium HD.starhub">
         <title>NHK News 845</title>
@@ -3881,7 +3881,7 @@
         <title>International News Report 2025</title>
     </programme>
     <programme start="20251226154500 +0000" stop="20251226162800 +0000" channel="NHK World Premium HD.starhub">
-        <title>Samurai Drama Selections &quot;The Way of Commerce: Gold and Silver 2&quot; Ep. 2 (R)</title>
+        <title>Samurai Drama Selections&quot;The Way of Commerce: Gold and Silver 2&quot;Ep.2(R)</title>
     </programme>
     <programme start="20251225154500 +0000" stop="20251225180000 +0000" channel="HBO HD.starhub">
         <title>Mickey 17</title>
@@ -7121,7 +7121,7 @@
         <title>BBC News</title>
     </programme>
     <programme start="20251226013000 +0000" stop="20251226020000 +0000" channel="BBC World News HD.starhub">
-        <title>Reporting the Bondi Beach Attack</title>
+        <title>Jeremy Vine on Trolls, Free Speech, and the Law</title>
     </programme>
     <programme start="20251226020000 +0000" stop="20251226023000 +0000" channel="BBC World News HD.starhub">
         <title>Newsday</title>
@@ -7151,7 +7151,7 @@
         <title>BBC News</title>
     </programme>
     <programme start="20251226063000 +0000" stop="20251226070000 +0000" channel="BBC World News HD.starhub">
-        <title>Patti Smith: Art, Music and Love</title>
+        <title>Patti Smith: Art, Music and Love</title>
     </programme>
     <programme start="20251226070000 +0000" stop="20251226073000 +0000" channel="BBC World News HD.starhub">
         <title>BBC News</title>
@@ -7175,7 +7175,7 @@
         <title>BBC News</title>
     </programme>
     <programme start="20251226103000 +0000" stop="20251226110000 +0000" channel="BBC World News HD.starhub">
-        <title>Patti Smith: Art, Music and Love</title>
+        <title>Patti Smith: Art, Music and Love</title>
     </programme>
     <programme start="20251226110000 +0000" stop="20251226113000 +0000" channel="BBC World News HD.starhub">
         <title>BBC News</title>
@@ -7205,7 +7205,7 @@
         <title>BBC News</title>
     </programme>
     <programme start="20251226153000 +0000" stop="20251226160000 +0000" channel="BBC World News HD.starhub">
-        <title>Patti Smith: Art, Music and Love</title>
+        <title>Patti Smith: Art, Music and Love</title>
     </programme>
     <programme start="20251225150000 +0000" stop="20251225165000 +0000" channel="Premier Sports.starhub">
         <title>URC Stormers v Lions</title>
