@@ -3247,7 +3247,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251227143000 +0000" stop="20251227145000 +0000" channel="Sky Sport 4 HD.skyde">
     <title>Es folgt: Premier League</title>
 </programme>
-<programme start="20251227145000 +0000" stop="20251227173000 +0000" channel="Sky Sport 4 HD.skyde">
+<programme start="20251227145000 +0000" stop="20251227170000 +0000" channel="Sky Sport 4 HD.skyde">
     <title>Live PL: FC Burnley - FC Everton, 18. Spieltag</title>
 </programme>
 <programme start="20251226230000 +0000" stop="20251226234500 +0000" channel="SYFY HD.skyde">
