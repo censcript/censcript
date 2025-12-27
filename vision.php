@@ -652,9 +652,6 @@
 <programme start="20251226233000 +0000" stop="20251227003000 +0000" channel="ANTV.vision">
 <title>Takdir Cinta Layla</title>
 </programme>
-<programme start="20251227023000 +0000" stop="20251227060000 +0000" channel="ANTV.vision">
-<title>Mohabbatein</title>
-</programme>
 <programme start="20251227060000 +0000" stop="20251227073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -1496,5 +1493,8 @@
 <title>TVRI</title>
 </programme>
 <programme start="20251227010000 +0000" stop="20251227030000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251227030000 +0000" stop="20251227050000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
