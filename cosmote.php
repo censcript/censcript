@@ -82,8 +82,8 @@
     <title>Football: AC Milan - Hellas Verona (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251227171000 +0700" stop="20251227193000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Olympiacos - Kifisia</title>
+<programme start="20251228203000 +0700" stop="20251228210000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Sports Classics: Worldies E19</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251227193000 +0700" stop="20251227213000 +0700" channel="COSMOTE Sport 2 HD">
@@ -148,6 +148,10 @@
 </programme>
 <programme start="20251228180000 +0700" stop="20251228201000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: AEK - OFI</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251228201000 +0700" stop="20251228222000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: AEL Novibet - Atromitos</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251227190000 +0700" stop="20251227210000 +0700" channel="COSMOTE Sport 3 HD">
@@ -290,6 +294,10 @@
     <title>Basketball: Fenerbahce - Manisa Basket</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251228203000 +0700" stop="20251228223000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Turk Telekom - Anadolu Efes</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251227184000 +0700" stop="20251227201500 +0700" channel="COSMOTE Sport 5 HD">
     <title>WRC 2025</title>
     <desc>Live: Tidak</desc>
@@ -378,6 +386,10 @@
     <title>WRC</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251228204000 +0700" stop="20251228221500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251227180000 +0700" stop="20251227210000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Carlos Alcaraz - Jannik Sinner</title>
     <desc>Live: Tidak</desc>
@@ -464,6 +476,10 @@
 </programme>
 <programme start="20251228185000 +0700" stop="20251228203000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Handball: ThSV Eisenach - SC Magdeburg</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251228203000 +0700" stop="20251228213000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Navarino Challenge 2025 Mini Movie</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251227190000 +0700" stop="20251227210000 +0700" channel="COSMOTE Sport 7 HD">
