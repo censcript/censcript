@@ -1,7 +1,3 @@
-<programme start="20251228000000 +0700" stop="20251228020000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: Udinese - SS Lazio (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
 <programme start="20251228020000 +0700" stop="20251228024500 +0700" channel="COSMOTE Sport 1 HD">
     <title>UEFA Champions League Magazine 2024-25 E15</title>
     <desc>Live: Tidak</desc>
@@ -82,6 +78,14 @@
     <title>Football: Bologna - Sassuolo (L)</title>
     <desc>Live: Ya</desc>
 </programme>
+<programme start="20251229020000 +0700" stop="20251229024500 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Sports Classics: Football&#039;s Greatest IV E5</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251229024500 +0700" stop="20251229044500 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: Atalanta - FC Internazionale Milano (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
 <programme start="20251228004500 +0700" stop="20251228024500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Aberdeen - Dundee United (L)</title>
     <desc>Live: Ya</desc>
@@ -136,6 +140,10 @@
 </programme>
 <programme start="20251229003000 +0700" stop="20251229025000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Olympiacos - Kifisia</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251229025000 +0700" stop="20251229043000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Documentary</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251228003000 +0700" stop="20251228023000 +0700" channel="COSMOTE Sport 3 HD">
@@ -354,12 +362,8 @@
     <title>Best of WRC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251228000000 +0700" stop="20251228014500 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Handball: ThSV Eisenach - SC Magdeburg (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20251228014500 +0700" stop="20251228020000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Highlights</title>
+<programme start="20251229023000 +0700" stop="20251229040000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Best of WRC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251228020000 +0700" stop="20251228023000 +0700" channel="COSMOTE Sport 6 HD">
@@ -454,6 +458,14 @@
     <title>HYROX - The World of Fitness Racing E4</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251229020000 +0700" stop="20251229023000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>HYROX - The World of Fitness Racing E5</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251229023000 +0700" stop="20251229030000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>HYROX - The World of Fitness Racing E3</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251228010000 +0700" stop="20251228030000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
@@ -509,6 +521,10 @@
 <programme start="20251229003000 +0700" stop="20251229023000 +0700" channel="COSMOTE Sport 7 HD">
     <title>Basketball: Napoli - Cantu (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20251229023000 +0700" stop="20251229030000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251228010000 +0700" stop="20251228030000 +0700" channel="COSMOTE Sport 8 HD">
     <title>COSMOTESport8HD</title>
