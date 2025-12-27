@@ -5894,7 +5894,7 @@
         <title>2000 Evening News</title>
     </programme>
     <programme start="20251227130000 +0000" stop="20251227140000 +0000" channel="TVBS-NEWS.starhub">
-        <title>2100 Hot Topics</title>
+        <title>2025 Taiwan Year In Review</title>
     </programme>
     <programme start="20251227140000 +0000" stop="20251227150000 +0000" channel="TVBS-NEWS.starhub">
         <title>News Night</title>
@@ -6740,7 +6740,7 @@
         <title>Japan&#039;s Top Inventions</title>
     </programme>
     <programme start="20251226233000 +0000" stop="20251227000000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>Grand Sumo Preview</title>
+        <title>Grand Sumo Review</title>
     </programme>
     <programme start="20251227000000 +0000" stop="20251227001000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>NHK Newsline</title>
@@ -6752,7 +6752,7 @@
         <title>NHK Newsline</title>
     </programme>
     <programme start="20251227011000 +0000" stop="20251227020000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>NHK World-Japan Special Programme</title>
+        <title>Barakan Discovers Hagi</title>
     </programme>
     <programme start="20251227020000 +0000" stop="20251227021000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>NHK Newsline</title>
@@ -6788,7 +6788,7 @@
         <title>NHK Newsline</title>
     </programme>
     <programme start="20251227051000 +0000" stop="20251227054000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>NHK World-Japan Special Programme</title>
+        <title>80 Years and Beyond</title>
     </programme>
     <programme start="20251227054000 +0000" stop="20251227055500 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>Bosai: Science That Can Save Your Life</title>
@@ -6806,7 +6806,7 @@
         <title>NHK Newsline</title>
     </programme>
     <programme start="20251227071000 +0000" stop="20251227080000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>NHK World-Japan Special Programme</title>
+        <title>Barakan Discovers Hagi</title>
     </programme>
     <programme start="20251227080000 +0000" stop="20251227081000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>NHK Newsline</title>
@@ -6842,7 +6842,7 @@
         <title>NHK Newsline</title>
     </programme>
     <programme start="20251227111000 +0000" stop="20251227114000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>NHK World-Japan Special Programme</title>
+        <title>80 Years and Beyond</title>
     </programme>
     <programme start="20251227114000 +0000" stop="20251227115500 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>Bosai: Science That Can Save Your Life</title>
@@ -6860,7 +6860,7 @@
         <title>NHK Newsline</title>
     </programme>
     <programme start="20251227131000 +0000" stop="20251227140000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>NHK World-Japan Special Programme</title>
+        <title>Barakan Discovers Hagi</title>
     </programme>
     <programme start="20251227140000 +0000" stop="20251227141000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>NHK Newsline</title>

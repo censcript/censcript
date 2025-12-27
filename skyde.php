@@ -1636,92 +1636,80 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251227222000 +0000" stop="20251227235500 +0000" channel="Romance TV HD.skyde">
     <title>Familie Bundschuh - Bundschuh vs. Bundschuh</title>
 </programme>
-<programme start="20260105230000 +0000" stop="20260105235500 +0000" channel="Sky Atlantic HD.skyde">
-    <title>Halo</title>
+<programme start="20251226234000 +0000" stop="20251227003500 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Game of Thrones - Das Lied von Eis und Feuer</title>
 </programme>
-<programme start="20260105235500 +0000" stop="20260106005500 +0000" channel="Sky Atlantic HD.skyde">
-    <title>This City Is Ours</title>
+<programme start="20251227003500 +0000" stop="20251227013000 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Game of Thrones - Das Lied von Eis und Feuer</title>
 </programme>
-<programme start="20260106005500 +0000" stop="20260106020000 +0000" channel="Sky Atlantic HD.skyde">
-    <title>This City Is Ours</title>
+<programme start="20251227013000 +0000" stop="20251227022000 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Game of Thrones - Das Lied von Eis und Feuer</title>
 </programme>
-<programme start="20260106020000 +0000" stop="20260106024500 +0000" channel="Sky Atlantic HD.skyde">
-    <title>The Gilded Age</title>
+<programme start="20251227022000 +0000" stop="20251227031500 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Game of Thrones - Das Lied von Eis und Feuer</title>
 </programme>
-<programme start="20260106024500 +0000" stop="20260106034000 +0000" channel="Sky Atlantic HD.skyde">
-    <title>The Gilded Age</title>
+<programme start="20251227031500 +0000" stop="20251227041500 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Game of Thrones - Das Lied von Eis und Feuer</title>
 </programme>
-<programme start="20260106034000 +0000" stop="20260106041500 +0000" channel="Sky Atlantic HD.skyde">
-    <title>I Love LA</title>
+<programme start="20251227041500 +0000" stop="20251227050500 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Game of Thrones - Das Lied von Eis und Feuer</title>
 </programme>
-<programme start="20260106041500 +0000" stop="20260106044500 +0000" channel="Sky Atlantic HD.skyde">
-    <title>I Love LA</title>
+<programme start="20251227050500 +0000" stop="20251227061000 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Game of Thrones - Das Lied von Eis und Feuer</title>
 </programme>
-<programme start="20260106044500 +0000" stop="20260106055500 +0000" channel="Sky Atlantic HD.skyde">
-    <title>Winning Time: Aufstieg der Lakers-Dynastie</title>
+<programme start="20251227061000 +0000" stop="20251227065500 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Thronecast</title>
 </programme>
-<programme start="20260106055500 +0000" stop="20260106065500 +0000" channel="Sky Atlantic HD.skyde">
-    <title>Winning Time: Aufstieg der Lakers-Dynastie</title>
+<programme start="20251227065500 +0000" stop="20251227075000 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Die Sopranos</title>
 </programme>
-<programme start="20260106065500 +0000" stop="20260106073500 +0000" channel="Sky Atlantic HD.skyde">
-    <title>The Righteous Gemstones</title>
+<programme start="20251227075000 +0000" stop="20251227084500 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Die Sopranos</title>
 </programme>
-<programme start="20260106073500 +0000" stop="20260106081500 +0000" channel="Sky Atlantic HD.skyde">
-    <title>The Righteous Gemstones</title>
+<programme start="20251227084500 +0000" stop="20251227094500 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Die Sopranos</title>
 </programme>
-<programme start="20260106081500 +0000" stop="20260106091000 +0000" channel="Sky Atlantic HD.skyde">
-    <title>The Gilded Age</title>
+<programme start="20251227094500 +0000" stop="20251227104500 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Game of Thrones - Das Lied von Eis und Feuer</title>
 </programme>
-<programme start="20260106091000 +0000" stop="20260106100000 +0000" channel="Sky Atlantic HD.skyde">
-    <title>The Gilded Age</title>
+<programme start="20251227104500 +0000" stop="20251227114000 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Game of Thrones - Das Lied von Eis und Feuer</title>
 </programme>
-<programme start="20260106100000 +0000" stop="20260106103500 +0000" channel="Sky Atlantic HD.skyde">
-    <title>I Love LA</title>
+<programme start="20251227114000 +0000" stop="20251227124000 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Game of Thrones - Das Lied von Eis und Feuer</title>
 </programme>
-<programme start="20260106103500 +0000" stop="20260106110500 +0000" channel="Sky Atlantic HD.skyde">
-    <title>I Love LA</title>
+<programme start="20251227124000 +0000" stop="20251227133500 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Game of Thrones - Das Lied von Eis und Feuer</title>
 </programme>
-<programme start="20260106110500 +0000" stop="20260106115500 +0000" channel="Sky Atlantic HD.skyde">
-    <title>And Just Like That...</title>
+<programme start="20251227133500 +0000" stop="20251227143000 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Game of Thrones - Das Lied von Eis und Feuer</title>
 </programme>
-<programme start="20260106115500 +0000" stop="20260106124000 +0000" channel="Sky Atlantic HD.skyde">
-    <title>And Just Like That...</title>
+<programme start="20251227143000 +0000" stop="20251227152500 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Game of Thrones - Das Lied von Eis und Feuer</title>
 </programme>
-<programme start="20260106124000 +0000" stop="20260106132500 +0000" channel="Sky Atlantic HD.skyde">
-    <title>And Just Like That...</title>
+<programme start="20251227152500 +0000" stop="20251227162000 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Game of Thrones - Das Lied von Eis und Feuer</title>
 </programme>
-<programme start="20260106132500 +0000" stop="20260106141500 +0000" channel="Sky Atlantic HD.skyde">
-    <title>The Lazarus Project</title>
+<programme start="20251227162000 +0000" stop="20251227171500 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Game of Thrones - Das Lied von Eis und Feuer</title>
 </programme>
-<programme start="20260106141500 +0000" stop="20260106150500 +0000" channel="Sky Atlantic HD.skyde">
-    <title>The Lazarus Project</title>
+<programme start="20251227171500 +0000" stop="20251227180500 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Game of Thrones - Das Lied von Eis und Feuer</title>
 </programme>
-<programme start="20260106150500 +0000" stop="20260106160500 +0000" channel="Sky Atlantic HD.skyde">
-    <title>Das Boot</title>
+<programme start="20251227180500 +0000" stop="20251227191500 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Game of Thrones - Das Lied von Eis und Feuer</title>
 </programme>
-<programme start="20260106160500 +0000" stop="20260106171000 +0000" channel="Sky Atlantic HD.skyde">
-    <title>Das Boot</title>
+<programme start="20251227191500 +0000" stop="20251227201500 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Game of Thrones - Das Lied von Eis und Feuer</title>
 </programme>
-<programme start="20260106171000 +0000" stop="20260106181000 +0000" channel="Sky Atlantic HD.skyde">
-    <title>This City Is Ours</title>
+<programme start="20251227201500 +0000" stop="20251227211000 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Game of Thrones - Das Lied von Eis und Feuer</title>
 </programme>
-<programme start="20260106181000 +0000" stop="20260106191500 +0000" channel="Sky Atlantic HD.skyde">
-    <title>This City Is Ours</title>
+<programme start="20251227211000 +0000" stop="20251227221000 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Game of Thrones - Das Lied von Eis und Feuer</title>
 </programme>
-<programme start="20260106191500 +0000" stop="20260106201500 +0000" channel="Sky Atlantic HD.skyde">
-    <title>The Copenhagen Test</title>
-</programme>
-<programme start="20260106201500 +0000" stop="20260106211000 +0000" channel="Sky Atlantic HD.skyde">
-    <title>The Copenhagen Test</title>
-</programme>
-<programme start="20260106211000 +0000" stop="20260106215500 +0000" channel="Sky Atlantic HD.skyde">
-    <title>The Ark</title>
-</programme>
-<programme start="20260106215500 +0000" stop="20260106224000 +0000" channel="Sky Atlantic HD.skyde">
-    <title>The Ark</title>
-</programme>
-<programme start="20260106224000 +0000" stop="20260106234000 +0000" channel="Sky Atlantic HD.skyde">
-    <title>The Copenhagen Test</title>
+<programme start="20251227221000 +0000" stop="20251227230500 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Game of Thrones - Das Lied von Eis und Feuer</title>
 </programme>
 <programme start="20251227011000 +0000" stop="20251227025500 +0000" channel="Sky Cinema Action HD.skyde">
     <title>The Great Wall</title>
