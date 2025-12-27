@@ -82,14 +82,6 @@
     <title>Football: Cremonese - SSC Napoli (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251227193000 +0700" stop="20251227213000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Hibernian - Heart of Midlothian (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20251227213000 +0700" stop="20251227220000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Sports Classics: Worldies E15</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251227220000 +0700" stop="20251228000000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Livingston - Celtic FC (L)</title>
     <desc>Live: Ya</desc>
@@ -148,6 +140,10 @@
 </programme>
 <programme start="20251228201000 +0700" stop="20251228222000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: AEL Novibet - Atromitos</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251228222000 +0700" stop="20251229003000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Volos - Panetolikos</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251227210000 +0700" stop="20251227230000 +0700" channel="COSMOTE Sport 3 HD">
@@ -218,14 +214,6 @@
     <title>Football: Al Ittihad - Al Shabab</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251227210000 +0700" stop="20251227212000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>ACB Liga Endesa 2025-26 - Fifth Quarter E11</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251227212000 +0700" stop="20251227220000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>NBA Action 2025-26 E3510</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251227220000 +0700" stop="20251228000000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Turk Telekom - Anadolu Efes (L)</title>
     <desc>Live: Ya</desc>
@@ -290,8 +278,8 @@
     <title>Basketball: Turk Telekom - Anadolu Efes</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251227201500 +0700" stop="20251227215000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC 2025</title>
+<programme start="20251228223000 +0700" stop="20251229010000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Sacramento Kings - Dallas Mavericks</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251227215000 +0700" stop="20251227235000 +0700" channel="COSMOTE Sport 5 HD">
@@ -376,6 +364,10 @@
 </programme>
 <programme start="20251228204000 +0700" stop="20251228221500 +0700" channel="COSMOTE Sport 5 HD">
     <title>WRC 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251228221500 +0700" stop="20251228231500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Highlights: 2025 Extreme H</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251227210000 +0700" stop="20251227223000 +0700" channel="COSMOTE Sport 6 HD">
@@ -468,6 +460,14 @@
 </programme>
 <programme start="20251228213000 +0700" stop="20251228220000 +0700" channel="COSMOTE Sport 6 HD">
     <title>HYROX - The World of Fitness Racing E1</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251228220000 +0700" stop="20251228223000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>HYROX - The World of Fitness Racing E2</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251228223000 +0700" stop="20251228230000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>HYROX - The World of Fitness Racing E3</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251227210000 +0700" stop="20251227230000 +0700" channel="COSMOTE Sport 7 HD">

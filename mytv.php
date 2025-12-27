@@ -49,10 +49,13 @@
     <programme start="20251227083000 +0000" stop="20251227090000 +0000" channel="VTV1 HD.mytv">
         <title> Truyền hình trực tiếp : Đại hội Thi đua yêu nước toàn quốc lần thứ XI </title>
     </programme>
-    <programme start="20251227090000 +0000" stop="20251227123000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20251227090000 +0000" stop="20251227120000 +0000" channel="VTV1 HD.mytv">
+        <title> Cuộc sống số </title>
+    </programme>
+    <programme start="20251227120000 +0000" stop="20251227121500 +0000" channel="VTV1 HD.mytv">
         <title> Chuyển động 24h </title>
     </programme>
-    <programme start="20251227123000 +0000" stop="20251227130000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20251227121500 +0000" stop="20251227130000 +0000" channel="VTV1 HD.mytv">
         <title> Thời sự </title>
     </programme>
     <programme start="20251227130000 +0000" stop="20251227134000 +0000" channel="VTV1 HD.mytv">
