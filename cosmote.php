@@ -82,6 +82,10 @@
     <title>Football: Atalanta - FC Internazionale Milano (L)</title>
     <desc>Live: Ya</desc>
 </programme>
+<programme start="20251229044500 +0700" stop="20251229054500 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Highlights: UEL &amp; UECL 2025-26</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251228024500 +0700" stop="20251228050000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: AEK - OFI</title>
     <desc>Live: Tidak</desc>
@@ -138,8 +142,8 @@
     <title>Documentary</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251228023000 +0700" stop="20251228033000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Emirates FA Cup 2025-26 - Highlights</title>
+<programme start="20251229043000 +0700" stop="20251229050000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Sports Classics: Football Countdowns E8</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251228033000 +0700" stop="20251228053000 +0700" channel="COSMOTE Sport 3 HD">
@@ -354,12 +358,12 @@
     <title>Best of WRC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251228030000 +0700" stop="20251228033000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>HYROX - The World of Fitness Racing E3</title>
+<programme start="20251229040000 +0700" stop="20251229044000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251228033000 +0700" stop="20251228040000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Premier Padel Tour 2025 - Highlights</title>
+<programme start="20251229044000 +0700" stop="20251229052500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251228040000 +0700" stop="20251228050000 +0700" channel="COSMOTE Sport 6 HD">
@@ -616,6 +620,10 @@
 </programme>
 <programme start="20251229010000 +0700" stop="20251229042500 +0700" channel="COSMOTE Sport 9 HD">
     <title>American Football: Indianapolis Colts - Jacksonville Jaguars (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
+<programme start="20251229042500 +0700" stop="20251229075500 +0700" channel="COSMOTE Sport 9 HD">
+    <title>American Football: Buffalo Bills - Philadelphia Eagles (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 No EPG found for COSMOTE Sport 10 HD
