@@ -1099,38 +1099,35 @@
   <programme start="20251229224000 +0000" stop="20251229230000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Štúdio Hokej</title>
   </programme>
-  <programme start="20251228222500 +0000" stop="20251229005000 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20251228223500 +0000" stop="20251229010500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Hokej - Reprezentácia</title>
   </programme>
-  <programme start="20251229005000 +0000" stop="20251229030000 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20251229010500 +0000" stop="20251229025500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">2025 IIHF Majstrovstvá sveta</title>
   </programme>
-  <programme start="20251229030000 +0000" stop="20251229054500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20251229025500 +0000" stop="20251229051500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">2025 IIHF Majstrovstvá sveta</title>
   </programme>
-  <programme start="20251229054500 +0000" stop="20251229075000 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20251229051500 +0000" stop="20251229072500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">World Triathlon Championships Series</title>
   </programme>
-  <programme start="20251229075000 +0000" stop="20251229112000 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20251229072500 +0000" stop="20251229115000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Bedminton World Tour</title>
   </programme>
-  <programme start="20251229112000 +0000" stop="20251229134000 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20251229115000 +0000" stop="20251229134000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Basketbal - Tipos SBL</title>
   </programme>
   <programme start="20251229134000 +0000" stop="20251229152500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">FIS Beh na lyžiach</title>
   </programme>
-  <programme start="20251229152500 +0000" stop="20251229173500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20251229152500 +0000" stop="20251229175000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">FIS Skoky na lyžiach</title>
   </programme>
-  <programme start="20251229173500 +0000" stop="20251229202000 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20251229175000 +0000" stop="20251229202500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">IIHF MS juniorov 2025</title>
   </programme>
-  <programme start="20251229202000 +0000" stop="20251229224500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20251229202500 +0000" stop="20251229230000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Hokej - Tipsport liga</title>
-  </programme>
-  <programme start="20251229224500 +0000" stop="20251229234000 +0000" channel="JOJ Šport 2.webtv.sk">
-    <title lang="id">Skialpinizmus Svetový pohár</title>
   </programme>
   <programme start="20251228225500 +0000" stop="20251228235000 +0000" channel="WAU.webtv.sk">
     <title lang="id">Šíre nebo (16/16)</title>
@@ -17873,10 +17870,10 @@
     <title lang="id">The News Hour</title>
   </programme>
   <programme start="20251229190000 +0000" stop="20251229193000 +0000" channel="Sky News.webtv.sk">
-    <title lang="id">Politics Hub Awards Of The Year</title>
+    <title lang="id">Sky News</title>
   </programme>
   <programme start="20251229193000 +0000" stop="20251229200000 +0000" channel="Sky News.webtv.sk">
-    <title lang="id">Politics Hub Awards Of The Year</title>
+    <title lang="id">Ukraine: The Future of Warfare</title>
   </programme>
   <programme start="20251229200000 +0000" stop="20251229203000 +0000" channel="Sky News.webtv.sk">
     <title lang="id">Sky News</title>
@@ -18545,7 +18542,7 @@
     <title lang="id">Se fossi te I (4)</title>
   </programme>
   <programme start="20251229224000 +0000" stop="20251229230000 +0000" channel="Rai Uno.webtv.sk">
-    <title lang="id">1949 - 1968 Quando l&apos;Italia sognava</title>
+    <title lang="id">1949-1968. Quando l&apos;Italia sognava</title>
   </programme>
   <programme start="20251228230000 +0000" stop="20251228231000 +0000" channel="Rai Tre.webtv.sk">
     <title lang="id">Tg3</title>

@@ -6653,7 +6653,7 @@
         <title>My Street Piano</title>
     </programme>
     <programme start="20251226163000 +0000" stop="20251226170000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>Grand Sumo Preview</title>
+        <title>Grand Sumo Review</title>
     </programme>
     <programme start="20251226170000 +0000" stop="20251226171000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>NHK Newsline</title>
