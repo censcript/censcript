@@ -3241,13 +3241,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251227143000 +0000" stop="20251227145000 +0000" channel="Sky Sport 3 HD.skyde">
     <title>Es folgt: Premier League</title>
 </programme>
-<programme start="20251227145000 +0000" stop="20251227170000 +0000" channel="Sky Sport 3 HD.skyde">
+<programme start="20251227145000 +0000" stop="20251227173000 +0000" channel="Sky Sport 3 HD.skyde">
     <title>Live PL: West Ham United - FC Fulham, 18. Spieltag</title>
 </programme>
 <programme start="20251227143000 +0000" stop="20251227145000 +0000" channel="Sky Sport 4 HD.skyde">
     <title>Es folgt: Premier League</title>
 </programme>
-<programme start="20251227145000 +0000" stop="20251227170000 +0000" channel="Sky Sport 4 HD.skyde">
+<programme start="20251227145000 +0000" stop="20251227173000 +0000" channel="Sky Sport 4 HD.skyde">
     <title>Live PL: FC Burnley - FC Everton, 18. Spieltag</title>
 </programme>
 <programme start="20251226230000 +0000" stop="20251226234500 +0000" channel="SYFY HD.skyde">
@@ -3597,6 +3597,48 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 </programme>
 <programme start="20251227223500 +0000" stop="20251227235500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Police Academy 7 - Mission in Moskau</title>
+</programme>
+<programme start="20251226232000 +0000" stop="20251227005500 +0000" channel="Warner TV Film.skyde">
+    <title>Der weiße Hai 3</title>
+</programme>
+<programme start="20251227005500 +0000" stop="20251227022000 +0000" channel="Warner TV Film.skyde">
+    <title>Der weiße Hai - Die Abrechnung</title>
+</programme>
+<programme start="20251227022000 +0000" stop="20251227030000 +0000" channel="Warner TV Film.skyde">
+    <title>Ein Abend mit... David Kross</title>
+</programme>
+<programme start="20251227030000 +0000" stop="20251227050000 +0000" channel="Warner TV Film.skyde">
+    <title>Der weiße Hai</title>
+</programme>
+<programme start="20251227050000 +0000" stop="20251227065500 +0000" channel="Warner TV Film.skyde">
+    <title>Der weiße Hai 2</title>
+</programme>
+<programme start="20251227065500 +0000" stop="20251227083500 +0000" channel="Warner TV Film.skyde">
+    <title>Der weiße Hai 3</title>
+</programme>
+<programme start="20251227083500 +0000" stop="20251227100500 +0000" channel="Warner TV Film.skyde">
+    <title>Der weiße Hai - Die Abrechnung</title>
+</programme>
+<programme start="20251227100500 +0000" stop="20251227115500 +0000" channel="Warner TV Film.skyde">
+    <title>Edge of Tomorrow - Live. Die. Repeat</title>
+</programme>
+<programme start="20251227115500 +0000" stop="20251227140000 +0000" channel="Warner TV Film.skyde">
+    <title>Der weiße Hai</title>
+</programme>
+<programme start="20251227140000 +0000" stop="20251227160000 +0000" channel="Warner TV Film.skyde">
+    <title>Der weiße Hai 2</title>
+</programme>
+<programme start="20251227160000 +0000" stop="20251227174000 +0000" channel="Warner TV Film.skyde">
+    <title>Der weiße Hai 3</title>
+</programme>
+<programme start="20251227174000 +0000" stop="20251227191500 +0000" channel="Warner TV Film.skyde">
+    <title>Der weiße Hai - Die Abrechnung</title>
+</programme>
+<programme start="20251227191500 +0000" stop="20251227214000 +0000" channel="Warner TV Film.skyde">
+    <title>Transformers</title>
+</programme>
+<programme start="20251227214000 +0000" stop="20251228001000 +0000" channel="Warner TV Film.skyde">
+    <title>Transformers - Die Rache</title>
 </programme>
 <programme start="20251226232000 +0000" stop="20251227005500 +0000" channel="Warner TV Film HD.skyde">
     <title>Der weiße Hai 3</title>
