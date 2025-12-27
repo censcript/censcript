@@ -664,12 +664,6 @@
 <programme start="20251227110000 +0000" stop="20251227123000 +0000" channel="ANTV.vision">
 <title>Senandung Cinta Lilis</title>
 </programme>
-<programme start="20251227123000 +0000" stop="20251227143000 +0000" channel="ANTV.vision">
-<title>Pancasona</title>
-</programme>
-<programme start="20251227143000 +0000" stop="20251227163000 +0000" channel="ANTV.vision">
-<title>Bisa Naik Bisa Turun</title>
-</programme>
 <programme start="20251227163000 +0000" stop="20251227183000 +0000" channel="ANTV.vision">
 <title>Mata Batin 2</title>
 </programme>
@@ -1496,5 +1490,11 @@
 <title>TVRI</title>
 </programme>
 <programme start="20251227050000 +0000" stop="20251227070000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251227070000 +0000" stop="20251227090000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251227090000 +0000" stop="20251227110000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
