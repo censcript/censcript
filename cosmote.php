@@ -1,11 +1,3 @@
-<programme start="20251228024500 +0700" stop="20251228044500 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: Pisa - Juventus Football Club (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20251228044500 +0700" stop="20251228050000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Sports Highlights</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251228050000 +0700" stop="20251228053000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Game R1 S6 E18</title>
     <desc>Live: Tidak</desc>
@@ -86,8 +78,8 @@
     <title>Highlights: UEL &amp; UECL 2025-26</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251228024500 +0700" stop="20251228050000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: AEK - OFI</title>
+<programme start="20251229054500 +0700" stop="20251229064500 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEL &amp; UECL Magazine 2025-26 E8</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251228050000 +0700" stop="20251228070000 +0700" channel="COSMOTE Sport 2 HD">
@@ -146,6 +138,10 @@
     <title>Sports Classics: Football Countdowns E8</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251229050000 +0700" stop="20251229070000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Cremonese - SSC Napoli</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251228033000 +0700" stop="20251228053000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Estoril - Alverca (L)</title>
     <desc>Live: Ya</desc>
@@ -202,12 +198,8 @@
     <title>Football: Middlesbrough - Blackburn Rovers</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251228025500 +0700" stop="20251228044500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Szolnoki Olaj - AEK</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251228044500 +0700" stop="20251228050000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Highlights</title>
+<programme start="20251229050000 +0700" stop="20251229070000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Wrexham  - Sheffield United</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251228050000 +0700" stop="20251228080000 +0700" channel="COSMOTE Sport 4 HD">
@@ -265,14 +257,6 @@
 <programme start="20251229033000 +0700" stop="20251229063000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Oklahoma City Thunder - Philadelphia 76ers (L)</title>
     <desc>Live: Ya</desc>
-</programme>
-<programme start="20251228023000 +0700" stop="20251228040500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Best of WRC 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251228040500 +0700" stop="20251228044500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC 2025</title>
-    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251228044500 +0700" stop="20251228052500 +0700" channel="COSMOTE Sport 5 HD">
     <title>ERC 2025</title>
@@ -366,8 +350,8 @@
     <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251228040000 +0700" stop="20251228050000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Next Gen ATP Finals 2024 - Highlights</title>
+<programme start="20251229052500 +0700" stop="20251229063000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251228050000 +0700" stop="20251228080000 +0700" channel="COSMOTE Sport 6 HD">
@@ -454,10 +438,6 @@
     <title>Fight Sports: Oktagon 2025 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251228030000 +0700" stop="20251228050000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251228050000 +0700" stop="20251228070000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
@@ -518,8 +498,8 @@
     <title>Football: Sporting CP - Rio Ave (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251228030000 +0700" stop="20251228050000 +0700" channel="COSMOTE Sport 8 HD">
-    <title>COSMOTESport8HD</title>
+<programme start="20251229053000 +0700" stop="20251229060000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251228050000 +0700" stop="20251228070000 +0700" channel="COSMOTE Sport 8 HD">
@@ -570,8 +550,8 @@
     <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251228030000 +0700" stop="20251228043000 +0700" channel="COSMOTE Sport 9 HD">
-    <title>COSMOTESport9HD</title>
+<programme start="20251229050000 +0700" stop="20251229070000 +0700" channel="COSMOTE Sport 8 HD">
+    <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251228043000 +0700" stop="20251228080000 +0700" channel="COSMOTE Sport 9 HD">
