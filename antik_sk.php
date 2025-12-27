@@ -1060,16 +1060,16 @@
   <programme start="20251229220000 +0000" stop="20251230000000 +0000" channel="JOJ Plus.webtv.sk">
     <title lang="id">Princezná</title>
   </programme>
-  <programme start="20251228195500 +0000" stop="20251228231000 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20251228195000 +0000" stop="20251228231500 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">IIHF MS juniorov 2025</title>
   </programme>
-  <programme start="20251228231000 +0000" stop="20251229012000 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20251228231500 +0000" stop="20251229013500 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">FIS Svetový pohár Super G ženy</title>
   </programme>
-  <programme start="20251229012000 +0000" stop="20251229060000 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20251229013500 +0000" stop="20251229061000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">LIV Golf Tour</title>
   </programme>
-  <programme start="20251229060000 +0000" stop="20251229082000 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20251229061000 +0000" stop="20251229082000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Hokej - Reprezentácia</title>
   </programme>
   <programme start="20251229082000 +0000" stop="20251229104000 +0000" channel="JOJ Šport.webtv.sk">
@@ -1081,20 +1081,14 @@
   <programme start="20251229115000 +0000" stop="20251229141000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">FIS Svetový pohár Super G muži</title>
   </programme>
-  <programme start="20251229141000 +0000" stop="20251229174000 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20251229141000 +0000" stop="20251229181500 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Spengler Cup</title>
   </programme>
-  <programme start="20251229174000 +0000" stop="20251229180500 +0000" channel="JOJ Šport.webtv.sk">
-    <title lang="id">Magazín FIFA</title>
-  </programme>
-  <programme start="20251229180500 +0000" stop="20251229191000 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20251229181500 +0000" stop="20251229191000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Hokej – Zostrihy Tipsport ligy</title>
   </programme>
-  <programme start="20251229191000 +0000" stop="20251229220000 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20251229191000 +0000" stop="20251229224000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Spengler Cup</title>
-  </programme>
-  <programme start="20251229220000 +0000" stop="20251229224000 +0000" channel="JOJ Šport.webtv.sk">
-    <title lang="id">Magazín FIFA</title>
   </programme>
   <programme start="20251229224000 +0000" stop="20251229230000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Štúdio Hokej</title>
