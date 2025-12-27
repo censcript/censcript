@@ -652,6 +652,12 @@
 <programme start="20251226233000 +0000" stop="20251227003000 +0000" channel="ANTV.vision">
 <title>Takdir Cinta Layla</title>
 </programme>
+<programme start="20251227003000 +0000" stop="20251227023000 +0000" channel="ANTV.vision">
+<title>Pertarungan Dahsyat</title>
+</programme>
+<programme start="20251227023000 +0000" stop="20251227060000 +0000" channel="ANTV.vision">
+<title>Mohabbatein</title>
+</programme>
 <programme start="20251227060000 +0000" stop="20251227073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -663,6 +669,12 @@
 </programme>
 <programme start="20251227110000 +0000" stop="20251227123000 +0000" channel="ANTV.vision">
 <title>Senandung Cinta Lilis</title>
+</programme>
+<programme start="20251227123000 +0000" stop="20251227143000 +0000" channel="ANTV.vision">
+<title>Pancasona</title>
+</programme>
+<programme start="20251227143000 +0000" stop="20251227163000 +0000" channel="ANTV.vision">
+<title>Bisa Naik Bisa Turun</title>
 </programme>
 <programme start="20251227163000 +0000" stop="20251227183000 +0000" channel="ANTV.vision">
 <title>Mata Batin 2</title>
@@ -831,6 +843,9 @@
 </programme>
 <programme start="20251227070000 +0000" stop="20251227073000 +0000" channel="TVOne.vision">
 <title>Selalu Ada Hikmah</title>
+</programme>
+<programme start="20251227073000 +0000" stop="20251227080000 +0000" channel="TVOne.vision">
+<title>Indonesia Terkini</title>
 </programme>
 <programme start="20251227080000 +0000" stop="20251227090000 +0000" channel="TVOne.vision">
 <title>Apa Kabar Indonesia... (L)</title>
@@ -1481,20 +1496,5 @@
 <title>Dunia Binatang</title>
 </programme>
 <programme start="20251226230000 +0000" stop="20251227010000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20251227010000 +0000" stop="20251227030000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20251227030000 +0000" stop="20251227050000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20251227050000 +0000" stop="20251227070000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20251227070000 +0000" stop="20251227090000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20251227090000 +0000" stop="20251227110000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
