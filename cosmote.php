@@ -1,11 +1,3 @@
-<programme start="20251227130000 +0700" stop="20251227151500 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: AEK - Universitatea Craiova</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251227151500 +0700" stop="20251227154500 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Game R1 S6 E18</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251227154500 +0700" stop="20251227161500 +0700" channel="COSMOTE Sport 1 HD">
     <title>UEFA Champions League Magazine 2024-25 E15</title>
     <desc>Live: Tidak</desc>
@@ -86,10 +78,6 @@
     <title>Football: Panathinaikos - Viktoria Plzen</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251227144000 +0700" stop="20251227151000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Serie A Inside Serie A 2025-26 E17</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251227151000 +0700" stop="20251227171000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Juventus Football Club - AS Roma</title>
     <desc>Live: Tidak</desc>
@@ -152,6 +140,10 @@
 </programme>
 <programme start="20251228140000 +0700" stop="20251228160000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Torino - Cagliari</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251228160000 +0700" stop="20251228180000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Parma - ACF Fiorentina</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251227130000 +0700" stop="20251227163000 +0700" channel="COSMOTE Sport 3 HD">
@@ -298,10 +290,6 @@
     <title>Basketball: Sacramento Kings - Dallas Mavericks</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251227150000 +0700" stop="20251227154500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>DTM</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251227154500 +0700" stop="20251227174500 +0700" channel="COSMOTE Sport 5 HD">
     <title>2025 Extreme H</title>
     <desc>Live: Tidak</desc>
@@ -386,10 +374,6 @@
     <title>Motorsports: Extreme E 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251227133500 +0700" stop="20251227153000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>2025 Premier Padel World Cup Pairs</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251227153000 +0700" stop="20251227180000 +0700" channel="COSMOTE Sport 6 HD">
     <title>2025 Premier Padel World Cup Pairs</title>
     <desc>Live: Tidak</desc>
@@ -464,6 +448,10 @@
 </programme>
 <programme start="20251228145000 +0700" stop="20251228162000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Learner Tien - Alexander Blockx</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251228162000 +0700" stop="20251228172000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Next Gen ATP Finals 2024 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251227150000 +0700" stop="20251227170000 +0700" channel="COSMOTE Sport 7 HD">
