@@ -1,7 +1,3 @@
-<programme start="20251228130000 +0700" stop="20251228133000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>UEFA Champions League Magazine 2024-25 E15</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251228133000 +0700" stop="20251228153000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: FC Kairat Almaty - Olympiacos</title>
     <desc>Live: Tidak</desc>
@@ -78,10 +74,6 @@
     <title>Football: Nice - SC Braga</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251228120000 +0700" stop="20251228140000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Lecce - Como</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251228140000 +0700" stop="20251228160000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Torino - Cagliari</title>
     <desc>Live: Tidak</desc>
@@ -136,6 +128,10 @@
 </programme>
 <programme start="20251229120000 +0700" stop="20251229142000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Olympiacos - Kifisia</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251229142000 +0700" stop="20251229162000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Bologna - Sassuolo</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251228130000 +0700" stop="20251228150000 +0700" channel="COSMOTE Sport 3 HD">
@@ -250,10 +246,6 @@
     <title>Basketball: Fenerbahce - Manisa Basket</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251228120000 +0700" stop="20251228133000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251228133000 +0700" stop="20251228150500 +0700" channel="COSMOTE Sport 5 HD">
     <title>WRC 2025</title>
     <desc>Live: Tidak</desc>
@@ -344,10 +336,6 @@
 </programme>
 <programme start="20251229133000 +0700" stop="20251229150000 +0700" channel="COSMOTE Sport 5 HD">
     <title>WRC 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251228122000 +0700" stop="20251228140000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Volleyball: Olympiacos - Apeldoorn</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251228140000 +0700" stop="20251228145000 +0700" channel="COSMOTE Sport 6 HD">
