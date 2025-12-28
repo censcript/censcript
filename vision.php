@@ -607,6 +607,9 @@
 <programme start="20251227233000 +0000" stop="20251228003000 +0000" channel="ANTV.vision">
 <title>Takdir Cinta Layla</title>
 </programme>
+<programme start="20251228023000 +0000" stop="20251228060000 +0000" channel="ANTV.vision">
+<title>Raja Hindustani</title>
+</programme>
 <programme start="20251228060000 +0000" stop="20251228073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -616,8 +619,14 @@
 <programme start="20251228100000 +0000" stop="20251228110000 +0000" channel="ANTV.vision">
 <title>ANTV Seru</title>
 </programme>
+<programme start="20251228110000 +0000" stop="20251228133000 +0000" channel="ANTV.vision">
+<title>Serie A Liga Italia</title>
+</programme>
 <programme start="20251228133000 +0000" stop="20251228150000 +0000" channel="ANTV.vision">
 <title>Senandung Cinta Lilis</title>
+</programme>
+<programme start="20251228150000 +0000" stop="20251228170000 +0000" channel="ANTV.vision">
+<title>Duel Naga Wulung</title>
 </programme>
 <programme start="20251228170000 +0000" stop="20251228180000 +0000" channel="ANTV.vision">
 <title>Mall Klender</title>
@@ -1488,13 +1497,4 @@
 </programme>
 <programme start="20251228223000 +0000" stop="20251228230000 +0000" channel="DAAI TV.vision">
 <title>Galeri Hijau</title>
-</programme>
-<programme start="20251229020000 +0000" stop="20251229030000 +0000" channel="DAAI TV.vision">
-<title>Bincang Sehati</title>
-</programme>
-<programme start="20251229030000 +0000" stop="20251229033000 +0000" channel="DAAI TV.vision">
-<title>Sehat Ala Timur</title>
-</programme>
-<programme start="20251229033000 +0000" stop="20251229034500 +0000" channel="DAAI TV.vision">
-<title>All About Health</title>
 </programme>
