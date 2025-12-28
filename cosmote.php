@@ -130,6 +130,10 @@
     <title>Football: AEL Novibet - Atromitos</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251229202500 +0700" stop="20251229222500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Parma - ACF Fiorentina</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251228190000 +0700" stop="20251228210000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Aberdeen - Dundee United</title>
     <desc>Live: Tidak</desc>
@@ -246,10 +250,6 @@
     <title>Basketball: Bilbao Basket - Barcelona</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251228181000 +0700" stop="20251228191000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: MotoGP</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251228191000 +0700" stop="20251228204000 +0700" channel="COSMOTE Sport 5 HD">
     <title>WRC</title>
     <desc>Live: Tidak</desc>
@@ -346,6 +346,10 @@
     <title>WRC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251229202000 +0700" stop="20251229215000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251228185000 +0700" stop="20251228203000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Handball: ThSV Eisenach - SC Magdeburg</title>
     <desc>Live: Tidak</desc>
@@ -427,6 +431,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251229173500 +0700" stop="20251229201000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>2025 Premier Padel Tour Finals</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251229201000 +0700" stop="20251229220000 +0700" channel="COSMOTE Sport 6 HD">
     <title>2025 Premier Padel Tour Finals</title>
     <desc>Live: Tidak</desc>
 </programme>
