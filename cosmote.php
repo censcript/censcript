@@ -126,6 +126,10 @@
     <title>Football: Parma - ACF Fiorentina</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251229222500 +0700" stop="20251230003500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: AEK - OFI</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251228210000 +0700" stop="20251228230000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Al Ittihad - Al Shabab</title>
     <desc>Live: Tidak</desc>
@@ -342,12 +346,12 @@
     <title>Extreme E - Highlights 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251228203000 +0700" stop="20251228213000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Navarino Challenge 2025 Mini Movie</title>
+<programme start="20251229222000 +0700" stop="20251229225000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Sports Classics: Gearing Up 2024 E11</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251228213000 +0700" stop="20251228220000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>HYROX - The World of Fitness Racing E1</title>
+<programme start="20251229225000 +0700" stop="20251230010000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: Extreme E 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251228220000 +0700" stop="20251228223000 +0700" channel="COSMOTE Sport 6 HD">
@@ -424,6 +428,10 @@
 </programme>
 <programme start="20251229201000 +0700" stop="20251229220000 +0700" channel="COSMOTE Sport 6 HD">
     <title>2025 Premier Padel Tour Finals</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251229220000 +0700" stop="20251230005000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Volleyball: Olympiacos - Eczacibasi Dynavit Istanbul</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251228210000 +0700" stop="20251228230000 +0700" channel="COSMOTE Sport 7 HD">
