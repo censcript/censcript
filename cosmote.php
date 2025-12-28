@@ -1,11 +1,3 @@
-<programme start="20251228153000 +0700" stop="20251228173000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: Panathinaikos - Viktoria Plzen</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251228173000 +0700" stop="20251228180000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Game R1 S6 E18</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251228180000 +0700" stop="20251228183000 +0700" channel="COSMOTE Sport 1 HD">
     <title>UEFA Champions League Magazine 2024-25 E15</title>
     <desc>Live: Tidak</desc>
@@ -78,10 +70,6 @@
     <title>Football: Crystal Palace - KuPS Kuopio</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251228160000 +0700" stop="20251228180000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Parma - ACF Fiorentina</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251228180000 +0700" stop="20251228201000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: AEK - OFI</title>
     <desc>Live: Tidak</desc>
@@ -136,6 +124,10 @@
 </programme>
 <programme start="20251229162000 +0700" stop="20251229182000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: AC Milan - Hellas Verona</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251229182000 +0700" stop="20251229202500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: AEL Novibet - Atromitos</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251228170000 +0700" stop="20251228190000 +0700" channel="COSMOTE Sport 3 HD">
@@ -198,10 +190,6 @@
     <title>Football: Mexico - Greece</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251228153500 +0700" stop="20251228180000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Sacramento Kings - Dallas Mavericks</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251228180000 +0700" stop="20251228183500 +0700" channel="COSMOTE Sport 4 HD">
     <title>NBA Action 2025-26 E3510</title>
     <desc>Live: Tidak</desc>
@@ -256,10 +244,6 @@
 </programme>
 <programme start="20251229170000 +0700" stop="20251229193000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Oklahoma City Thunder - Philadelphia 76ers</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251228150500 +0700" stop="20251228171000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: Extreme E 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251228171000 +0700" stop="20251228181000 +0700" channel="COSMOTE Sport 5 HD">
@@ -362,12 +346,8 @@
     <title>MotoGP Classics</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251228162000 +0700" stop="20251228172000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Next Gen ATP Finals 2024 - Highlights</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251228172000 +0700" stop="20251228175000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Sports Classics: 2025 Outdoor Specials</title>
+<programme start="20251229185000 +0700" stop="20251229202000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251228175000 +0700" stop="20251228185000 +0700" channel="COSMOTE Sport 6 HD">
