@@ -607,6 +607,9 @@
 <programme start="20251227233000 +0000" stop="20251228003000 +0000" channel="ANTV.vision">
 <title>Takdir Cinta Layla</title>
 </programme>
+<programme start="20251228023000 +0000" stop="20251228060000 +0000" channel="ANTV.vision">
+<title>Raja Hindustani</title>
+</programme>
 <programme start="20251228060000 +0000" stop="20251228073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -1494,7 +1497,4 @@
 </programme>
 <programme start="20251228223000 +0000" stop="20251228230000 +0000" channel="DAAI TV.vision">
 <title>Galeri Hijau</title>
-</programme>
-<programme start="20251229020000 +0000" stop="20251229030000 +0000" channel="DAAI TV.vision">
-<title>Bincang Sehati</title>
 </programme>
