@@ -1,7 +1,3 @@
-<programme start="20251229044500 +0700" stop="20251229054500 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Highlights: UEL &amp; UECL 2025-26</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251229054500 +0700" stop="20251229064500 +0700" channel="COSMOTE Sport 1 HD">
     <title>UEL &amp; UECL Magazine 2025-26 E8</title>
     <desc>Live: Tidak</desc>
@@ -186,6 +182,10 @@
     <title>Copa Sudamericana 2025 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251230061000 +0700" stop="20251230081000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Wrexham  - Preston North End</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251229033000 +0700" stop="20251229063000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Oklahoma City Thunder - Philadelphia 76ers (L)</title>
     <desc>Live: Ya</desc>
@@ -242,8 +242,8 @@
     <title>Basketball: Oklahoma City Thunder - Philadelphia 76ers</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251229044000 +0700" stop="20251229052500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC 2025</title>
+<programme start="20251230063000 +0700" stop="20251230070000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>NBA Specials</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251229052500 +0700" stop="20251229063000 +0700" channel="COSMOTE Sport 5 HD">
@@ -334,9 +334,9 @@
     <title>MotoGP Classics</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251229030000 +0700" stop="20251229060000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Fight Sports: Oktagon 2025 (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20251230063000 +0700" stop="20251230080500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: MotoGP 2025</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251229060000 +0700" stop="20251229063000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Premier Padel Tour 2025 - Highlights</title>
@@ -406,12 +406,8 @@
     <title>Fight Sports: Oktagon 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251229033000 +0700" stop="20251229053000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>Football: Sporting CP - Rio Ave (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20251229053000 +0700" stop="20251229060000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
+<programme start="20251230063000 +0700" stop="20251230073000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Sports Classics: 2025 Outdoor Specials</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251229060000 +0700" stop="20251229070000 +0700" channel="COSMOTE Sport 7 HD">
