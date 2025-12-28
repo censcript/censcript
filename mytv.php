@@ -28,7 +28,10 @@
     <programme start="20251228043000 +0000" stop="20251228051500 +0000" channel="VTV1 HD.mytv">
         <title> Phim truyện : Chạy trốn thanh xuân - Tập 17 </title>
     </programme>
-    <programme start="20251228051500 +0000" stop="20251228061000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20251228051500 +0000" stop="20251228060500 +0000" channel="VTV1 HD.mytv">
+        <title> S - Việt Nam : Hành trình qua miền sương trắng </title>
+    </programme>
+    <programme start="20251228060500 +0000" stop="20251228061000 +0000" channel="VTV1 HD.mytv">
         <title> Vì cộng đồng : Sắc hoa từ trái tim </title>
     </programme>
     <programme start="20251228061000 +0000" stop="20251228062500 +0000" channel="VTV1 HD.mytv">
@@ -88,7 +91,10 @@
     <programme start="20251228144500 +0000" stop="20251228150000 +0000" channel="VTV1 HD.mytv">
         <title> Dám sống : Người giữ lửa truyền thống </title>
     </programme>
-    <programme start="20251228150000 +0000" stop="20251228164500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20251228150000 +0000" stop="20251228151500 +0000" channel="VTV1 HD.mytv">
+        <title> Gala Hồn Việt </title>
+    </programme>
+    <programme start="20251228151500 +0000" stop="20251228164500 +0000" channel="VTV1 HD.mytv">
         <title> Khuyến học - Hành trình tri thức </title>
     </programme>
     <programme start="20251228164500 +0000" stop="20251228165500 +0000" channel="VTV1 HD.mytv">
@@ -104,7 +110,7 @@
         <title> Tuổi cao gương sáng : Công nghệ số chăm sóc người cao tuổi </title>
     </programme>
     <programme start="20251228174500 +0000" stop="20251228180000 +0000" channel="VTV1 HD.mytv">
-        <title> Nhật ký người Việt : Bưu điện TPHCM - Top 10 kiến trúc thế giới </title>
+        <title> Nhật ký người Việt : Bưu điện TP HCM - Top 10 kiến trúc thế giới </title>
     </programme>
     <programme start="20251228180000 +0000" stop="20251228180500 +0000" channel="VTV1 HD.mytv">
         <title> Khám phá Việt Nam : Nét đẹp Mê Linh </title>
