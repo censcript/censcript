@@ -1,11 +1,3 @@
-<programme start="20251228230000 +0700" stop="20251228233000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Sports Classics: Football&#039;s Greatest IV E10</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251228233000 +0700" stop="20251229000000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Sports Classics: Worldies E28</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251229000000 +0700" stop="20251229020000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Bologna - Sassuolo (L)</title>
     <desc>Live: Ya</desc>
@@ -126,6 +118,10 @@
     <title>Football: AEK - OFI</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251230003500 +0700" stop="20251230024500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Pisa - Juventus Football Club</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251228230000 +0700" stop="20251229010000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Estoril - Alverca</title>
     <desc>Live: Tidak</desc>
@@ -182,6 +178,14 @@
     <title>American Football: Buffalo Bills - Philadelphia Eagles</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251230001500 +0700" stop="20251230004500 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Copa Libertadores 2025 - Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251230004500 +0700" stop="20251230024500 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Livingston - Celtic FC</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251228223000 +0700" stop="20251229010000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Sacramento Kings - Dallas Mavericks</title>
     <desc>Live: Tidak</desc>
@@ -236,14 +240,6 @@
 </programme>
 <programme start="20251229233000 +0700" stop="20251230013000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Turk Telekom - Anadolu Efes</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251228221500 +0700" stop="20251228231500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Highlights: 2025 Extreme H</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251228231500 +0700" stop="20251228234500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Extreme E - Highlights 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251228234500 +0700" stop="20251229000500 +0700" channel="COSMOTE Sport 5 HD">
@@ -414,8 +410,8 @@
     <title>Volleyball: Olympiacos - Eczacibasi Dynavit Istanbul</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251228230000 +0700" stop="20251229000000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
+<programme start="20251230005000 +0700" stop="20251230021500 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Handball: ThSV Eisenach - SC Magdeburg</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251229000000 +0700" stop="20251229003000 +0700" channel="COSMOTE Sport 7 HD">
