@@ -616,17 +616,8 @@
 <programme start="20251228100000 +0000" stop="20251228110000 +0000" channel="ANTV.vision">
 <title>ANTV Seru</title>
 </programme>
-<programme start="20251228110000 +0000" stop="20251228133000 +0000" channel="ANTV.vision">
-<title>Serie A Liga Italia</title>
-</programme>
 <programme start="20251228133000 +0000" stop="20251228150000 +0000" channel="ANTV.vision">
 <title>Senandung Cinta Lilis</title>
-</programme>
-<programme start="20251228150000 +0000" stop="20251228170000 +0000" channel="ANTV.vision">
-<title>Duel Naga Wulung</title>
-</programme>
-<programme start="20251228170000 +0000" stop="20251228180000 +0000" channel="ANTV.vision">
-<title>Mall Klender</title>
 </programme>
 <programme start="20251228180000 +0000" stop="20251228203000 +0000" channel="ANTV.vision">
 <title>Naga Merah</title>
@@ -1497,4 +1488,13 @@
 </programme>
 <programme start="20251229020000 +0000" stop="20251229030000 +0000" channel="DAAI TV.vision">
 <title>Bincang Sehati</title>
+</programme>
+<programme start="20251229030000 +0000" stop="20251229033000 +0000" channel="DAAI TV.vision">
+<title>Sehat Ala Timur</title>
+</programme>
+<programme start="20251229033000 +0000" stop="20251229034500 +0000" channel="DAAI TV.vision">
+<title>All About Health</title>
+</programme>
+<programme start="20251229034500 +0000" stop="20251229040000 +0000" channel="DAAI TV.vision">
+<title>Vegetarian Living</title>
 </programme>
