@@ -122,6 +122,10 @@
     <title>Football: AS Roma - Genoa (L)</title>
     <desc>Live: Ya</desc>
 </programme>
+<programme start="20251230044500 +0700" stop="20251230070000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Volos - Panetolikos</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251229030000 +0700" stop="20251229050000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Middlesbrough - Blackburn Rovers</title>
     <desc>Live: Tidak</desc>
@@ -182,8 +186,8 @@
     <title>Football: Wrexham  - Preston North End (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251229030000 +0700" stop="20251229033000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>NBA Specials</title>
+<programme start="20251230044500 +0700" stop="20251230051000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>William Hill Scottish Premiership - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251229033000 +0700" stop="20251229063000 +0700" channel="COSMOTE Sport 4 HD">
@@ -238,8 +242,8 @@
     <title>Basketball: Rio Breogan - Baskonia (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251229023000 +0700" stop="20251229040000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Best of WRC 2025</title>
+<programme start="20251230040000 +0700" stop="20251230063000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Oklahoma City Thunder - Philadelphia 76ers</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251229040000 +0700" stop="20251229044000 +0700" channel="COSMOTE Sport 5 HD">
@@ -330,6 +334,10 @@
     <title>Best of MotoGP 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251230041000 +0700" stop="20251230053000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>MotoGP Classics</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251229030000 +0700" stop="20251229060000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Fight Sports: Oktagon 2025 (L)</title>
     <desc>Live: Ya</desc>
@@ -402,10 +410,6 @@
     <title>Fight Sports: Oktagon 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251229030000 +0700" stop="20251229033000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251229033000 +0700" stop="20251229053000 +0700" channel="COSMOTE Sport 7 HD">
     <title>Football: Sporting CP - Rio Ave (L)</title>
     <desc>Live: Ya</desc>
@@ -466,6 +470,14 @@
     <title>Basketball: Armani Milano - Vanoli Cremona (L)</title>
     <desc>Live: Ya</desc>
 </programme>
+<programme start="20251230040000 +0700" stop="20251230043000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251230043000 +0700" stop="20251230050000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251229030000 +0700" stop="20251229050000 +0700" channel="COSMOTE Sport 8 HD">
     <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
@@ -523,6 +535,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251230033000 +0700" stop="20251230040000 +0700" channel="COSMOTE Sport 8 HD">
+    <title>COSMOTESport8HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251230040000 +0700" stop="20251230050000 +0700" channel="COSMOTE Sport 8 HD">
     <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
 </programme>
