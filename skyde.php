@@ -3061,7 +3061,7 @@
 <programme start="20251228220000 +0000" stop="20251229010000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NHL: Montreal Canadiens @ Tampa Bay Lightning</title>
 </programme>
-<programme start="20251227233000 +0000" stop="20251228000000 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20251227233500 +0000" stop="20251228000000 +0000" channel="Sky Sport UHD.skyde">
     <title>Golf: Greatest Holes (1)</title>
 </programme>
 <programme start="20251228000000 +0000" stop="20251228003000 +0000" channel="Sky Sport UHD.skyde">
