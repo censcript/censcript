@@ -1081,8 +1081,14 @@
 <programme start="20251229110000 +0000" stop="20251229130000 +0000" channel="beIN Sports 1.mncvision">
     <title>LFCTV 2025/26: LIV Vs WOL</title>
 </programme>
-<programme start="20251229130000 +0000" stop="20251229140000 +0000" channel="beIN Sports 1.mncvision">
-    <title>LFC Trending 2025/26, Ep 21</title>
+<programme start="20251229130000 +0000" stop="20251229133000 +0000" channel="beIN Sports 1.mncvision">
+    <title>LFCTV Specials 2025/26</title>
+</programme>
+<programme start="20251229133000 +0000" stop="20251229134500 +0000" channel="beIN Sports 1.mncvision">
+    <title>LFCTV Specials 2025/26</title>
+</programme>
+<programme start="20251229134500 +0000" stop="20251229140000 +0000" channel="beIN Sports 1.mncvision">
+    <title>LaLiga Goals Galore 2024/25</title>
 </programme>
 <programme start="20251229140000 +0000" stop="20251229143000 +0000" channel="beIN Sports 1.mncvision">
     <title>Mini Match LaLiga: ATH Vs ATM</title>
@@ -1165,8 +1171,14 @@
 <programme start="20251229110000 +0000" stop="20251229130000 +0000" channel="beIN Sports 1 HD.mncvision">
     <title>LFCTV 2025/26: LIV Vs WOL</title>
 </programme>
-<programme start="20251229130000 +0000" stop="20251229140000 +0000" channel="beIN Sports 1 HD.mncvision">
-    <title>LFC Trending 2025/26, Ep 21</title>
+<programme start="20251229130000 +0000" stop="20251229133000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>LFCTV Specials 2025/26</title>
+</programme>
+<programme start="20251229133000 +0000" stop="20251229134500 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>LFCTV Specials 2025/26</title>
+</programme>
+<programme start="20251229134500 +0000" stop="20251229140000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>LaLiga Goals Galore 2024/25</title>
 </programme>
 <programme start="20251229140000 +0000" stop="20251229143000 +0000" channel="beIN Sports 1 HD.mncvision">
     <title>Mini Match LaLiga: ATH Vs ATM</title>
@@ -1337,7 +1349,7 @@
     <title>TGL S2 2026</title>
 </programme>
 <programme start="20251229110000 +0000" stop="20251229113000 +0000" channel="beIN Sports 3.mncvision">
-    <title>MUTV HL 2025/26: AVL Vs MUN</title>
+    <title>MUTV HL 2025/26: MUN Vs BOU</title>
 </programme>
 <programme start="20251229113000 +0000" stop="20251229133000 +0000" channel="beIN Sports 3.mncvision">
     <title>MUTV 2025/26: MUN Vs NEW</title>
@@ -1397,7 +1409,7 @@
     <title>TGL S2 2026</title>
 </programme>
 <programme start="20251229110000 +0000" stop="20251229113000 +0000" channel="beIN Sports 3 HD.mncvision">
-    <title>MUTV HL 2025/26: AVL Vs MUN</title>
+    <title>MUTV HL 2025/26: MUN Vs BOU</title>
 </programme>
 <programme start="20251229113000 +0000" stop="20251229133000 +0000" channel="beIN Sports 3 HD.mncvision">
     <title>MUTV 2025/26: MUN Vs NEW</title>
@@ -8512,11 +8524,11 @@
 <programme start="20251229100000 +0000" stop="20251229120000 +0000" channel="SPOTV.mncvision">
     <title>25/26 Roshn Saudi League</title>
 </programme>
-<programme start="20251229120000 +0000" stop="20251229163000 +0000" channel="SPOTV.mncvision">
+<programme start="20251229120000 +0000" stop="20251229150000 +0000" channel="SPOTV.mncvision">
     <title>MGM Macau Tennis Masters</title>
 </programme>
-<programme start="20251229163000 +0000" stop="20251228170000 +0000" channel="SPOTV.mncvision">
-    <title>Asian Le Mans Series: Sepang</title>
+<programme start="20251229150000 +0000" stop="20251229153000 +0000" channel="SPOTV.mncvision">
+    <title>MGM Macau Tennis Masters</title>
 </programme>
 <programme start="20251228170000 +0000" stop="20251228180000 +0000" channel="SPOTV 2.mncvision">
     <title>Betr Darwin Triple Crown</title>
@@ -8623,11 +8635,11 @@
 <programme start="20251229100000 +0000" stop="20251229120000 +0000" channel="SPOTV HD.mncvision">
     <title>25/26 Roshn Saudi League</title>
 </programme>
-<programme start="20251229120000 +0000" stop="20251229163000 +0000" channel="SPOTV HD.mncvision">
+<programme start="20251229120000 +0000" stop="20251229150000 +0000" channel="SPOTV HD.mncvision">
     <title>MGM Macau Tennis Masters</title>
 </programme>
-<programme start="20251229163000 +0000" stop="20251228170000 +0000" channel="SPOTV HD.mncvision">
-    <title>Asian Le Mans Series: Sepang</title>
+<programme start="20251229150000 +0000" stop="20251229153000 +0000" channel="SPOTV HD.mncvision">
+    <title>MGM Macau Tennis Masters</title>
 </programme>
 <programme start="20251228185000 +0000" stop="20251228205500 +0000" channel="Studio Universal.mncvision">
     <title>2 Fast 2 Furious</title>
