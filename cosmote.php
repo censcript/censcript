@@ -118,6 +118,10 @@
     <title>Football: Al Ettifaq FC - Al Nassr (L)</title>
     <desc>Live: Ya</desc>
 </programme>
+<programme start="20251231023000 +0700" stop="20251231043000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Cremonese - SSC Napoli</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251230004500 +0700" stop="20251230024500 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Livingston - Celtic FC</title>
     <desc>Live: Tidak</desc>
@@ -198,14 +202,6 @@
     <title>Football: Estoril - Alverca</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251229233000 +0700" stop="20251230013000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Turk Telekom - Anadolu Efes</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251230013000 +0700" stop="20251230020000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>NBA Specials</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251230020000 +0700" stop="20251230040000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Rio Breogan - Baskonia (L)</title>
     <desc>Live: Ya</desc>
@@ -264,6 +260,10 @@
 </programme>
 <programme start="20251231003000 +0700" stop="20251231023000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Fenerbahce - Manisa Basket</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251231023000 +0700" stop="20251231050000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Charlotte Hornets - Milwaukee Bucks</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251230010000 +0700" stop="20251230023500 +0700" channel="COSMOTE Sport 5 HD">
@@ -354,6 +354,10 @@
     <title>Best of MotoGP 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251231024000 +0700" stop="20251231042000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Best of MotoGP 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251230005000 +0700" stop="20251230021500 +0700" channel="COSMOTE Sport 6 HD">
     <title>Handball: ThSV Eisenach - SC Magdeburg</title>
     <desc>Live: Tidak</desc>
@@ -434,12 +438,8 @@
     <title>Nitto ATP Finals 2025 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251230010000 +0700" stop="20251230013000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251230013000 +0700" stop="20251230020000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
+<programme start="20251231020000 +0700" stop="20251231030000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>ATP 2025 - Review</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251230020000 +0700" stop="20251230040000 +0700" channel="COSMOTE Sport 7 HD">
@@ -495,6 +495,14 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251231010000 +0700" stop="20251231020000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251231020000 +0700" stop="20251231023000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251231023000 +0700" stop="20251231030000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
