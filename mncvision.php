@@ -5173,8 +5173,17 @@
 <programme start="20251229073000 +0000" stop="20251229093000 +0000" channel="Kids TV.mncvision">
     <title>SpongeBob SquarePants</title>
 </programme>
-<programme start="20251229093000 +0000" stop="20251229113000 +0000" channel="Kids TV.mncvision">
-    <title>Upin &amp; Ipin Bermula</title>
+<programme start="20251229093000 +0000" stop="20251229100000 +0000" channel="Kids TV.mncvision">
+    <title>Rat A Tat</title>
+</programme>
+<programme start="20251229100000 +0000" stop="20251229103000 +0000" channel="Kids TV.mncvision">
+    <title>Blippi Wonders</title>
+</programme>
+<programme start="20251229103000 +0000" stop="20251229110000 +0000" channel="Kids TV.mncvision">
+    <title>Backkom S3</title>
+</programme>
+<programme start="20251229110000 +0000" stop="20251229113000 +0000" channel="Kids TV.mncvision">
+    <title>Titus The Detective</title>
 </programme>
 <programme start="20251229113000 +0000" stop="20251229120000 +0000" channel="Kids TV.mncvision">
     <title>Titus The Detective</title>
@@ -5281,8 +5290,17 @@
 <programme start="20251229073000 +0000" stop="20251229093000 +0000" channel="Kids TV HD.mncvision">
     <title>SpongeBob SquarePants</title>
 </programme>
-<programme start="20251229093000 +0000" stop="20251229113000 +0000" channel="Kids TV HD.mncvision">
-    <title>Upin &amp; Ipin Bermula</title>
+<programme start="20251229093000 +0000" stop="20251229100000 +0000" channel="Kids TV HD.mncvision">
+    <title>Rat A Tat</title>
+</programme>
+<programme start="20251229100000 +0000" stop="20251229103000 +0000" channel="Kids TV HD.mncvision">
+    <title>Blippi Wonders</title>
+</programme>
+<programme start="20251229103000 +0000" stop="20251229110000 +0000" channel="Kids TV HD.mncvision">
+    <title>Backkom S3</title>
+</programme>
+<programme start="20251229110000 +0000" stop="20251229113000 +0000" channel="Kids TV HD.mncvision">
+    <title>Titus The Detective</title>
 </programme>
 <programme start="20251229113000 +0000" stop="20251229120000 +0000" channel="Kids TV HD.mncvision">
     <title>Titus The Detective</title>
