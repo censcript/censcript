@@ -5137,7 +5137,7 @@
     <programme start="20251229100000 +0000" stop="20251229120000 +0000" channel="SPOTV.starhub">
         <title>25/26 ROSHN Saudi League MW 11 Al Nassr vs Al Okhdood</title>
     </programme>
-    <programme start="20251229120000 +0000" stop="20251229163000 +0000" channel="SPOTV.starhub">
+    <programme start="20251229120000 +0000" stop="20251229170000 +0000" channel="SPOTV.starhub">
         <title>Day 1</title>
     </programme>
     <programme start="20251228154500 +0000" stop="20251228171500 +0000" channel="KBS World HD.starhub">
@@ -7717,13 +7717,13 @@
     <programme start="20251228133000 +0000" stop="20251228163000 +0000" channel="Asianet Movies.starhub">
         <title>Bromance</title>
     </programme>
-    <programme start="20251228163000 +0000" stop="20251228193000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251228163000 +0000" stop="20251228191000 +0000" channel="Asianet Movies.starhub">
         <title>In Ghost House Inn</title>
     </programme>
-    <programme start="20251228193000 +0000" stop="20251228213000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251228191000 +0000" stop="20251228212000 +0000" channel="Asianet Movies.starhub">
         <title>Idukki Gold</title>
     </programme>
-    <programme start="20251228213000 +0000" stop="20251228233000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251228212000 +0000" stop="20251228225500 +0000" channel="Asianet Movies.starhub">
         <title>Seelabathi</title>
     </programme>
     <programme start="20251228225500 +0000" stop="20251229013000 +0000" channel="Asianet Movies.starhub">

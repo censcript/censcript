@@ -2906,6 +2906,105 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251229220000 +0000" stop="20251229230000 +0000" channel="Sky Sport News HD.skyde">
     <title>Sky Sport News: Late Night News</title>
 </programme>
+<programme start="20251228233500 +0000" stop="20251229000000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Best Freekicks</title>
+</programme>
+<programme start="20251229000000 +0000" stop="20251229020000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: AFC Sunderland - Leeds United, 18. Spieltag</title>
+</programme>
+<programme start="20251229020000 +0000" stop="20251229023000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Club 100: David James</title>
+</programme>
+<programme start="20251229023000 +0000" stop="20251229030000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Club 100: Ryan Giggs</title>
+</programme>
+<programme start="20251229030000 +0000" stop="20251229050000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Crystal Palace - Tottenham Hotspur, 18. Spieltag</title>
+</programme>
+<programme start="20251229050000 +0000" stop="20251229060000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: GOATS (Wayne Rooney)</title>
+</programme>
+<programme start="20251229060000 +0000" stop="20251229063000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Under the Skin (Nottingham Forest)</title>
+</programme>
+<programme start="20251229063000 +0000" stop="20251229070000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: PL Stories (Wayne Rooney)</title>
+</programme>
+<programme start="20251229070000 +0000" stop="20251229073000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: 90in30: CRY - TOT, 18. Spieltag</title>
+</programme>
+<programme start="20251229073000 +0000" stop="20251229080000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: PL Stories (Manager Rivalries)</title>
+</programme>
+<programme start="20251229080000 +0000" stop="20251229083000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Club 100: Michael Owen</title>
+</programme>
+<programme start="20251229083000 +0000" stop="20251229090000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: 90in30: SUN - LEE, 18. Spieltag</title>
+</programme>
+<programme start="20251229090000 +0000" stop="20251229093000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: PL Rewind: Sunderland (99/00)</title>
+</programme>
+<programme start="20251229093000 +0000" stop="20251229100000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: PL Rewind: Les Ferdinand (Newcastle 1995/96)</title>
+</programme>
+<programme start="20251229100000 +0000" stop="20251229103000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: 90in30: NFO - MCI, 18. Spieltag</title>
+</programme>
+<programme start="20251229103000 +0000" stop="20251229110000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: 90in30: LIV - WOL, 18. Spieltag</title>
+</programme>
+<programme start="20251229110000 +0000" stop="20251229120000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: PL Moments: Michael Owen</title>
+</programme>
+<programme start="20251229120000 +0000" stop="20251229123000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: 90in30: ARS - BRI, 18. Spieltag</title>
+</programme>
+<programme start="20251229123000 +0000" stop="20251229124500 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Under the Skin (FC Everton)</title>
+</programme>
+<programme start="20251229124500 +0000" stop="20251229131500 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: 90in30: NFO - MCI, 18. Spieltag</title>
+</programme>
+<programme start="20251229131500 +0000" stop="20251229134500 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: 90in30: CRY - TOT, 18. Spieltag</title>
+</programme>
+<programme start="20251229134500 +0000" stop="20251229141500 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: 90in30: SUN - LEE, 18. Spieltag</title>
+</programme>
+<programme start="20251229141500 +0000" stop="20251229151500 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: 1 to 11 (Thomas Hitzelsberger)</title>
+</programme>
+<programme start="20251229151500 +0000" stop="20251229153000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>EFL: Highlights XXL: Coventry County - Swansea City, 23. Spieltag</title>
+</programme>
+<programme start="20251229153000 +0000" stop="20251229154500 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>EFL: Highlights XXL: Oxford United - FC Southampton, 23. Spieltag</title>
+</programme>
+<programme start="20251229154500 +0000" stop="20251229161500 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: 90in30: CRY - TOT, 18. Spieltag</title>
+</programme>
+<programme start="20251229161500 +0000" stop="20251229164500 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: PL Stories (Yaya Toure)</title>
+</programme>
+<programme start="20251229164500 +0000" stop="20251229165500 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Under the Skin (Newcastle United)</title>
+</programme>
+<programme start="20251229165500 +0000" stop="20251229175000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Review, 18. Spieltag</title>
+</programme>
+<programme start="20251229175000 +0000" stop="20251229200500 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>Live EFL: Coventry County - Ipswich Town, 24. Spieltag</title>
+</programme>
+<programme start="20251229200500 +0000" stop="20251229221500 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>Live EFL: Birmingham City - FC Southampton, 24. Spieltag</title>
+</programme>
+<programme start="20251229221500 +0000" stop="20251229223000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Greatest Games: FC Birmingham - Aston Villa (2002)</title>
+</programme>
+<programme start="20251229223000 +0000" stop="20251229233000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Review, 18. Spieltag</title>
+</programme>
 <programme start="20251229001500 +0000" stop="20251229024500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 250: A. Davidovich Fokina (ESP) - M. Kecmanovic (SRB), Delray Beach Open in Delray Beach (USA), Finale</title>
 </programme>
