@@ -760,6 +760,9 @@
 <programme start="20251229125700 +0000" stop="20251229130000 +0000" channel="TVOne.vision">
 <title>Kabar Terkini</title>
 </programme>
+<programme start="20251229130000 +0000" stop="20251229135700 +0000" channel="TVOne.vision">
+<title>Fakta</title>
+</programme>
 <programme start="20251229135700 +0000" stop="20251229140000 +0000" channel="TVOne.vision">
 <title>Kabar Terkini</title>
 </programme>
@@ -1494,7 +1497,4 @@
 </programme>
 <programme start="20251229035000 +0000" stop="20251229051000 +0000" channel="MDTV.vision">
 <title>Cerita Nyata</title>
-</programme>
-<programme start="20251229051000 +0000" stop="20251229070500 +0000" channel="MDTV.vision">
-<title>Cinta Fitri S5</title>
 </programme>

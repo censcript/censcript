@@ -58,9 +58,9 @@
     <title>Football: Motherwell - Celtic FC (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251230024500 +0700" stop="20251230044500 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: AS Roma - Genoa (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20251231050000 +0700" stop="20251231072000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: AEK - Universitatea Craiova</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251230044500 +0700" stop="20251230070000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Volos - Panetolikos</title>
@@ -117,10 +117,6 @@
 <programme start="20251231043000 +0700" stop="20251231065000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Olympiacos - Kifisia</title>
     <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251230024500 +0700" stop="20251230044500 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Wrexham  - Preston North End (L)</title>
-    <desc>Live: Ya</desc>
 </programme>
 <programme start="20251230044500 +0700" stop="20251230051000 +0700" channel="COSMOTE Sport 3 HD">
     <title>William Hill Scottish Premiership - Highlights</title>
@@ -198,6 +194,10 @@
     <title>Football: Sporting CP - Rio Ave</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251231050000 +0700" stop="20251231070000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: APOEL - Freedom24 Krasava E.N.Y</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251230040000 +0700" stop="20251230063000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Oklahoma City Thunder - Philadelphia 76ers</title>
     <desc>Live: Tidak</desc>
@@ -258,8 +258,8 @@
     <title>Basketball: Charlotte Hornets - Milwaukee Bucks</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251230023500 +0700" stop="20251230041000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Best of MotoGP 2025</title>
+<programme start="20251231050000 +0700" stop="20251231070000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Unicaja - Karditsa</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251230041000 +0700" stop="20251230053000 +0700" channel="COSMOTE Sport 5 HD">
@@ -350,6 +350,10 @@
     <title>MotoGP Classics</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251231052000 +0700" stop="20251231062000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>MotoGP Classics</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251230033000 +0700" stop="20251230063000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Fight Sports: Oktagon 2025</title>
     <desc>Live: Tidak</desc>
@@ -430,12 +434,8 @@
     <title>HYROX - The World of Fitness Racing E3</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251230040000 +0700" stop="20251230043000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251230043000 +0700" stop="20251230050000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
+<programme start="20251231050000 +0700" stop="20251231080000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Fight Sports: UFC Fight Night 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251230050000 +0700" stop="20251230070000 +0700" channel="COSMOTE Sport 7 HD">
@@ -494,6 +494,14 @@
     <title>Basketball: Murcia - Real Madrid (L)</title>
     <desc>Live: Ya</desc>
 </programme>
+<programme start="20251231050000 +0700" stop="20251231053000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251231053000 +0700" stop="20251231060000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251230031500 +0700" stop="20251230051500 +0700" channel="COSMOTE Sport 8 HD">
     <title>Football: FC Porto - AVS Futebol (L)</title>
     <desc>Live: Ya</desc>
@@ -546,8 +554,8 @@
     <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251230030000 +0700" stop="20251230050000 +0700" channel="COSMOTE Sport 9 HD">
-    <title>COSMOTESport9HD</title>
+<programme start="20251231050000 +0700" stop="20251231070000 +0700" channel="COSMOTE Sport 8 HD">
+    <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251230050000 +0700" stop="20251230070000 +0700" channel="COSMOTE Sport 9 HD">
@@ -611,6 +619,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251231030000 +0700" stop="20251231050000 +0700" channel="COSMOTE Sport 9 HD">
+    <title>COSMOTESport9HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251231050000 +0700" stop="20251231070000 +0700" channel="COSMOTE Sport 9 HD">
     <title>COSMOTESport9HD</title>
     <desc>Live: Tidak</desc>
 </programme>
