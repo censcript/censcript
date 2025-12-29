@@ -388,44 +388,44 @@
 <programme start="20251228170000 +0000" stop="20251228180000 +0000" channel="ANTV.mncvision">
     <title>Mall Klender</title>
 </programme>
-<programme start="20251228180000 +0000" stop="20251228203000 +0000" channel="ANTV.mncvision">
+<programme start="20251228180000 +0000" stop="20251228200000 +0000" channel="ANTV.mncvision">
     <title>Naga Merah</title>
 </programme>
-<programme start="20251228203000 +0000" stop="20251228220000 +0000" channel="ANTV.mncvision">
-    <title>ANTV</title>
+<programme start="20251228200000 +0000" stop="20251228220000 +0000" channel="ANTV.mncvision">
+    <title>2002</title>
 </programme>
-<programme start="20251228220000 +0000" stop="20251228223000 +0000" channel="ANTV.mncvision">
-    <title>ANTV</title>
+<programme start="20251228220000 +0000" stop="20251228230000 +0000" channel="ANTV.mncvision">
+    <title>Zeynep</title>
 </programme>
-<programme start="20251228223000 +0000" stop="20251228233000 +0000" channel="ANTV.mncvision">
-    <title>ANTV</title>
+<programme start="20251228230000 +0000" stop="20251229003000 +0000" channel="ANTV.mncvision">
+    <title>Takdir Cinta Layla</title>
 </programme>
-<programme start="20251228233000 +0000" stop="20251229013000 +0000" channel="ANTV.mncvision">
-    <title>ANTV</title>
+<programme start="20251229003000 +0000" stop="20251229023000 +0000" channel="ANTV.mncvision">
+    <title>Ateng Minta Kawin</title>
 </programme>
-<programme start="20251229013000 +0000" stop="20251229030000 +0000" channel="ANTV.mncvision">
-    <title>ANTV</title>
+<programme start="20251229023000 +0000" stop="20251229060000 +0000" channel="ANTV.mncvision">
+    <title>Chori Chori Chupke Chupke</title>
 </programme>
-<programme start="20251229030000 +0000" stop="20251229063000 +0000" channel="ANTV.mncvision">
-    <title>ANTV</title>
+<programme start="20251229060000 +0000" stop="20251229073000 +0000" channel="ANTV.mncvision">
+    <title>Jhanak</title>
 </programme>
-<programme start="20251229063000 +0000" stop="20251229080000 +0000" channel="ANTV.mncvision">
-    <title>ANTV</title>
+<programme start="20251229073000 +0000" stop="20251229090000 +0000" channel="ANTV.mncvision">
+    <title>Shani</title>
 </programme>
-<programme start="20251229080000 +0000" stop="20251229093000 +0000" channel="ANTV.mncvision">
-    <title>ANTV</title>
+<programme start="20251229090000 +0000" stop="20251229110000 +0000" channel="ANTV.mncvision">
+    <title>Brahmana Manggala</title>
 </programme>
-<programme start="20251229093000 +0000" stop="20251229110000 +0000" channel="ANTV.mncvision">
-    <title>ANTV</title>
+<programme start="20251229110000 +0000" stop="20251229123000 +0000" channel="ANTV.mncvision">
+    <title>Senandung Cinta Lilis</title>
 </programme>
-<programme start="20251229110000 +0000" stop="20251229130000 +0000" channel="ANTV.mncvision">
-    <title>ANTV</title>
+<programme start="20251229123000 +0000" stop="20251229143000 +0000" channel="ANTV.mncvision">
+    <title>Jampang S1</title>
 </programme>
-<programme start="20251229130000 +0000" stop="20251229150000 +0000" channel="ANTV.mncvision">
-    <title>ANTV</title>
+<programme start="20251229143000 +0000" stop="20251229163000 +0000" channel="ANTV.mncvision">
+    <title>Lupa Aturan Main</title>
 </programme>
-<programme start="20251229150000 +0000" stop="20251229153000 +0000" channel="ANTV.mncvision">
-    <title>ANTV</title>
+<programme start="20251229163000 +0000" stop="20251228170000 +0000" channel="ANTV.mncvision">
+    <title>Rumah Kentang: The Beginning</title>
 </programme>
 <programme start="20251228170000 +0000" stop="20251228173000 +0000" channel="Arirang.mncvision">
     <title>The Agenda</title>
@@ -6464,22 +6464,19 @@
     <title>NHK Newsline</title>
 </programme>
 <programme start="20251228211000 +0000" stop="20251228214000 +0000" channel="NHK World.mncvision">
-    <title>NHK World Selection</title>
+    <title>Tiny Desk Concerts Japan</title>
 </programme>
 <programme start="20251228214000 +0000" stop="20251228215000 +0000" channel="NHK World.mncvision">
     <title>Little Charo</title>
 </programme>
-<programme start="20251228215000 +0000" stop="20251228215500 +0000" channel="NHK World.mncvision">
+<programme start="20251228215000 +0000" stop="20251228220000 +0000" channel="NHK World.mncvision">
     <title>Japanology Plus Mini</title>
-</programme>
-<programme start="20251228215500 +0000" stop="20251228220000 +0000" channel="NHK World.mncvision">
-    <title>A Cat&#039;s-Eye View Of Japan</title>
 </programme>
 <programme start="20251228220000 +0000" stop="20251228221000 +0000" channel="NHK World.mncvision">
     <title>NHK Newsline</title>
 </programme>
 <programme start="20251228221000 +0000" stop="20251228222500 +0000" channel="NHK World.mncvision">
-    <title>NHK World Selection</title>
+    <title>Through The Kitchen Window</title>
 </programme>
 <programme start="20251228222500 +0000" stop="20251228223000 +0000" channel="NHK World.mncvision">
     <title>Core Kyoto Mini</title>
@@ -6503,7 +6500,7 @@
     <title>Chatroom Japan</title>
 </programme>
 <programme start="20251229001500 +0000" stop="20251229002500 +0000" channel="NHK World.mncvision">
-    <title>Impacts: Climates Change...</title>
+    <title>Impacts: Climates Change World</title>
 </programme>
 <programme start="20251229002500 +0000" stop="20251229003000 +0000" channel="NHK World.mncvision">
     <title>An Evolving Font</title>
@@ -6548,7 +6545,7 @@
     <title>NHK Newsline</title>
 </programme>
 <programme start="20251229031000 +0000" stop="20251229032300 +0000" channel="NHK World.mncvision">
-    <title>NHK World-Japan Spc. Program</title>
+    <title>Biz Stream Special Edition</title>
 </programme>
 <programme start="20251229032300 +0000" stop="20251229033000 +0000" channel="NHK World.mncvision">
     <title>1/156: Transgenders</title>
@@ -6560,7 +6557,7 @@
     <title>NHK Newsline</title>
 </programme>
 <programme start="20251229041000 +0000" stop="20251229042300 +0000" channel="NHK World.mncvision">
-    <title>NHK World-Japan Spc. Program</title>
+    <title>Biz Stream Special Edition</title>
 </programme>
 <programme start="20251229042300 +0000" stop="20251229043000 +0000" channel="NHK World.mncvision">
     <title>The Beauty Of Japanese Swords</title>
@@ -6568,8 +6565,11 @@
 <programme start="20251229043000 +0000" stop="20251229045700 +0000" channel="NHK World.mncvision">
     <title>Hometown Stories</title>
 </programme>
-<programme start="20251229045700 +0000" stop="20251229052700 +0000" channel="NHK World.mncvision">
+<programme start="20251229045700 +0000" stop="20251229050000 +0000" channel="NHK World.mncvision">
     <title>Satoyama Kitchen Fall</title>
+</programme>
+<programme start="20251229050000 +0000" stop="20251229053000 +0000" channel="NHK World.mncvision">
+    <title>NHK Newsline</title>
 </programme>
 <programme start="20251228180000 +0000" stop="20251228183000 +0000" channel="NHK World Premium.mncvision">
     <title>What The Villains Have To Say</title>
@@ -6613,35 +6613,38 @@
 <programme start="20251229030000 +0000" stop="20251229031500 +0000" channel="NHK World Premium.mncvision">
     <title>News</title>
 </programme>
-<programme start="20251229031500 +0000" stop="20251229032800 +0000" channel="NHK World Premium.mncvision">
+<programme start="20251229031500 +0000" stop="20251229035800 +0000" channel="NHK World Premium.mncvision">
+    <title>Unbound Highlights, Pt 1</title>
+</programme>
+<programme start="20251229035800 +0000" stop="20251229040000 +0000" channel="NHK World Premium.mncvision">
     <title>Mini Program</title>
 </programme>
-<programme start="20251229032800 +0000" stop="20251229055000 +0000" channel="NHK World Premium.mncvision">
-    <title>Mini Program</title>
+<programme start="20251229040000 +0000" stop="20251229040500 +0000" channel="NHK World Premium.mncvision">
+    <title>News</title>
 </programme>
-<programme start="20251229055000 +0000" stop="20251229055500 +0000" channel="NHK World Premium.mncvision">
-    <title>World Weather</title>
+<programme start="20251229040500 +0000" stop="20251229044800 +0000" channel="NHK World Premium.mncvision">
+    <title>Unbound Highlights, Pt 2</title>
 </programme>
-<programme start="20251229055500 +0000" stop="20251229061000 +0000" channel="NHK World Premium.mncvision">
-    <title>Mini Program</title>
+<programme start="20251229044800 +0000" stop="20251229053100 +0000" channel="NHK World Premium.mncvision">
+    <title>Unbound Highlights, Pt 3</title>
 </programme>
-<programme start="20251229061000 +0000" stop="20251229063500 +0000" channel="NHK World Premium.mncvision">
-    <title>My Gardening</title>
+<programme start="20251229053100 +0000" stop="20251229061500 +0000" channel="NHK World Premium.mncvision">
+    <title>Unbound Highlights, Pt 4</title>
 </programme>
-<programme start="20251229063500 +0000" stop="20251229064000 +0000" channel="NHK World Premium.mncvision">
-    <title>Kyoto&#039;s Hidamariya Garden Shop</title>
+<programme start="20251229061500 +0000" stop="20251229062000 +0000" channel="NHK World Premium.mncvision">
+    <title>News &amp; Weather</title>
 </programme>
-<programme start="20251229064000 +0000" stop="20251229065000 +0000" channel="NHK World Premium.mncvision">
-    <title>Points At Issue</title>
+<programme start="20251229062000 +0000" stop="20251229070300 +0000" channel="NHK World Premium.mncvision">
+    <title>Unbound Highlights, Pt 5</title>
 </programme>
-<programme start="20251229065000 +0000" stop="20251229073500 +0000" channel="NHK World Premium.mncvision">
+<programme start="20251229070300 +0000" stop="20251229072200 +0000" channel="NHK World Premium.mncvision">
+    <title>Unbound Big Thank You Spc.</title>
+</programme>
+<programme start="20251229072200 +0000" stop="20251229080600 +0000" channel="NHK World Premium.mncvision">
     <title>Fountain Of Ancient Wisdom</title>
 </programme>
-<programme start="20251229073500 +0000" stop="20251229080000 +0000" channel="NHK World Premium.mncvision">
-    <title>Exploring Factories</title>
-</programme>
-<programme start="20251229080000 +0000" stop="20251229081000 +0000" channel="NHK World Premium.mncvision">
-    <title>PythagoraSwitch</title>
+<programme start="20251229080600 +0000" stop="20251229081000 +0000" channel="NHK World Premium.mncvision">
+    <title>Mini Program</title>
 </programme>
 <programme start="20251229081000 +0000" stop="20251229082000 +0000" channel="NHK World Premium.mncvision">
     <title>Fun With Japanese</title>
@@ -6658,41 +6661,47 @@
 <programme start="20251229090000 +0000" stop="20251229090500 +0000" channel="NHK World Premium.mncvision">
     <title>News</title>
 </programme>
-<programme start="20251229090500 +0000" stop="20251229091000 +0000" channel="NHK World Premium.mncvision">
+<programme start="20251229090500 +0000" stop="20251229094800 +0000" channel="NHK World Premium.mncvision">
+    <title>Looking Back At This Year...</title>
+</programme>
+<programme start="20251229094800 +0000" stop="20251229095300 +0000" channel="NHK World Premium.mncvision">
+    <title>Super Rare! Railroad Treasure</title>
+</programme>
+<programme start="20251229095300 +0000" stop="20251229095600 +0000" channel="NHK World Premium.mncvision">
     <title>Mini Program</title>
-</programme>
-<programme start="20251229091000 +0000" stop="20251229092500 +0000" channel="NHK World Premium.mncvision">
-    <title>Kid&#039;s Discovery</title>
-</programme>
-<programme start="20251229092500 +0000" stop="20251229095600 +0000" channel="NHK World Premium.mncvision">
-    <title>Nyan-Chu! Space! Broadcasting!</title>
 </programme>
 <programme start="20251229095600 +0000" stop="20251229100000 +0000" channel="NHK World Premium.mncvision">
     <title>World Weather</title>
 </programme>
-<programme start="20251229100000 +0000" stop="20251229114300 +0000" channel="NHK World Premium.mncvision">
+<programme start="20251229100000 +0000" stop="20251229103000 +0000" channel="NHK World Premium.mncvision">
     <title>NHK News</title>
 </programme>
-<programme start="20251229114300 +0000" stop="20251229130000 +0000" channel="NHK World Premium.mncvision">
-    <title>World Weather</title>
+<programme start="20251229103000 +0000" stop="20251229114300 +0000" channel="NHK World Premium.mncvision">
+    <title>The Magic Battle: Magicians...</title>
 </programme>
-<programme start="20251229130000 +0000" stop="20251229152900 +0000" channel="NHK World Premium.mncvision">
+<programme start="20251229114300 +0000" stop="20251229114500 +0000" channel="NHK World Premium.mncvision">
+    <title>Mini Program</title>
+</programme>
+<programme start="20251229114500 +0000" stop="20251229120000 +0000" channel="NHK World Premium.mncvision">
+    <title>News &amp; Weather</title>
+</programme>
+<programme start="20251229120000 +0000" stop="20251229133000 +0000" channel="NHK World Premium.mncvision">
+    <title>Tange Sazen: Ooka Echizen</title>
+</programme>
+<programme start="20251229133000 +0000" stop="20251229141500 +0000" channel="NHK World Premium.mncvision">
     <title>Fountain Of Ancient Wisdom</title>
 </programme>
-<programme start="20251229152900 +0000" stop="20251229153000 +0000" channel="NHK World Premium.mncvision">
-    <title>World Weather</title>
+<programme start="20251229141500 +0000" stop="20251229145000 +0000" channel="NHK World Premium.mncvision">
+    <title>Our Company&#039;s Embarrassing...</title>
 </programme>
-<programme start="20251229153000 +0000" stop="20251229153500 +0000" channel="NHK World Premium.mncvision">
-    <title>Cooking For Beginners</title>
+<programme start="20251229145000 +0000" stop="20251229160200 +0000" channel="NHK World Premium.mncvision">
+    <title>In-Depth News Seminar Spc.</title>
 </programme>
-<programme start="20251229153500 +0000" stop="20251229154000 +0000" channel="NHK World Premium.mncvision">
-    <title>Cooking For Beginners</title>
+<programme start="20251229160200 +0000" stop="20251229160500 +0000" channel="NHK World Premium.mncvision">
+    <title>Mini Program</title>
 </programme>
-<programme start="20251229154000 +0000" stop="20251229154500 +0000" channel="NHK World Premium.mncvision">
-    <title>Cooking For Beginners</title>
-</programme>
-<programme start="20251229154500 +0000" stop="20251229161500 +0000" channel="NHK World Premium.mncvision">
-    <title>Child-Rearing Hints &amp; Tips</title>
+<programme start="20251229160500 +0000" stop="20251229161500 +0000" channel="NHK World Premium.mncvision">
+    <title>PythagoraSwitch</title>
 </programme>
 <programme start="20251229161500 +0000" stop="20251229164000 +0000" channel="NHK World Premium.mncvision">
     <title>Gretel&#039;s Magical Oven</title>
@@ -8959,80 +8968,74 @@
 <programme start="20251229161000 +0000" stop="20251229164000 +0000" channel="Thrill.mncvision">
     <title>In Cycle</title>
 </programme>
-<programme start="20251228181500 +0000" stop="20251228193000 +0000" channel="Trans 7.mncvision">
-    <title>Trans7</title>
+<programme start="20251228174500 +0000" stop="20251228190000 +0000" channel="Trans 7.mncvision">
+    <title>Warkop: Itu Bisa Diatur</title>
+</programme>
+<programme start="20251228190000 +0000" stop="20251228193000 +0000" channel="Trans 7.mncvision">
+    <title>Best Fishing</title>
 </programme>
 <programme start="20251228193000 +0000" stop="20251228203000 +0000" channel="Trans 7.mncvision">
-    <title>Trans7</title>
+    <title>BTS</title>
 </programme>
 <programme start="20251228203000 +0000" stop="20251228213000 +0000" channel="Trans 7.mncvision">
-    <title>Trans7</title>
+    <title>Anak Sekolah</title>
 </programme>
 <programme start="20251228213000 +0000" stop="20251228221500 +0000" channel="Trans 7.mncvision">
-    <title>Trans7</title>
+    <title>Info Update</title>
 </programme>
 <programme start="20251228221500 +0000" stop="20251228233000 +0000" channel="Trans 7.mncvision">
-    <title>Trans7</title>
+    <title>Redaksi Pagi</title>
 </programme>
 <programme start="20251228233000 +0000" stop="20251229003000 +0000" channel="Trans 7.mncvision">
-    <title>Trans7</title>
+    <title>Spotlite</title>
 </programme>
 <programme start="20251229003000 +0000" stop="20251229013000 +0000" channel="Trans 7.mncvision">
-    <title>Trans7</title>
+    <title>Selebrita Pagi</title>
 </programme>
 <programme start="20251229013000 +0000" stop="20251229023000 +0000" channel="Trans 7.mncvision">
-    <title>Trans7</title>
+    <title>Fyp (For Your Pagi)</title>
 </programme>
 <programme start="20251229023000 +0000" stop="20251229031500 +0000" channel="Trans 7.mncvision">
-    <title>Trans7</title>
+    <title>Selebrita Heits</title>
 </programme>
 <programme start="20251229031500 +0000" stop="20251229041500 +0000" channel="Trans 7.mncvision">
-    <title>Trans7</title>
+    <title>Big-Bang!</title>
 </programme>
-<programme start="20251229041500 +0000" stop="20251229050000 +0000" channel="Trans 7.mncvision">
-    <title>Trans7</title>
+<programme start="20251229041500 +0000" stop="20251229060000 +0000" channel="Trans 7.mncvision">
+    <title>Sweet 20</title>
 </programme>
-<programme start="20251229050000 +0000" stop="20251229054500 +0000" channel="Trans 7.mncvision">
-    <title>Trans7</title>
+<programme start="20251229060000 +0000" stop="20251229073000 +0000" channel="Trans 7.mncvision">
+    <title>Comic 8</title>
 </programme>
-<programme start="20251229054500 +0000" stop="20251229063000 +0000" channel="Trans 7.mncvision">
-    <title>Trans7</title>
-</programme>
-<programme start="20251229063000 +0000" stop="20251229071500 +0000" channel="Trans 7.mncvision">
-    <title>Trans7</title>
-</programme>
-<programme start="20251229071500 +0000" stop="20251229081500 +0000" channel="Trans 7.mncvision">
-    <title>Trans7</title>
+<programme start="20251229073000 +0000" stop="20251229081500 +0000" channel="Trans 7.mncvision">
+    <title>Redaksi</title>
 </programme>
 <programme start="20251229081500 +0000" stop="20251229091500 +0000" channel="Trans 7.mncvision">
-    <title>Trans7</title>
+    <title>Jejak Si Gundul</title>
 </programme>
 <programme start="20251229091500 +0000" stop="20251229101500 +0000" channel="Trans 7.mncvision">
-    <title>Trans7</title>
+    <title>Makan Receh</title>
 </programme>
 <programme start="20251229101500 +0000" stop="20251229110000 +0000" channel="Trans 7.mncvision">
-    <title>Trans7</title>
+    <title>Speak Up</title>
 </programme>
 <programme start="20251229110000 +0000" stop="20251229114500 +0000" channel="Trans 7.mncvision">
-    <title>Trans7</title>
+    <title>On The Spot</title>
 </programme>
 <programme start="20251229114500 +0000" stop="20251229121500 +0000" channel="Trans 7.mncvision">
-    <title>Trans7</title>
+    <title>Secret Story</title>
 </programme>
 <programme start="20251229121500 +0000" stop="20251229130000 +0000" channel="Trans 7.mncvision">
-    <title>Trans7</title>
+    <title>POV (Pasti Obrolan Viral)</title>
 </programme>
 <programme start="20251229130000 +0000" stop="20251229143000 +0000" channel="Trans 7.mncvision">
-    <title>Trans7</title>
+    <title>Arisan</title>
 </programme>
 <programme start="20251229143000 +0000" stop="20251229154500 +0000" channel="Trans 7.mncvision">
-    <title>Trans7</title>
+    <title>Lapor Pak!</title>
 </programme>
-<programme start="20251229154500 +0000" stop="20251229163000 +0000" channel="Trans 7.mncvision">
-    <title>Trans7</title>
-</programme>
-<programme start="20251229163000 +0000" stop="20251228170000 +0000" channel="Trans 7.mncvision">
-    <title>Trans7</title>
+<programme start="20251229154500 +0000" stop="20251229161500 +0000" channel="Trans 7.mncvision">
+    <title>Au Tahu Kapan Kamu Mati</title>
 </programme>
 <programme start="20251228180000 +0000" stop="20251228220000 +0000" channel="Trans TV.mncvision">
     <title>CNN Tech News</title>
