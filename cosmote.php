@@ -118,6 +118,10 @@
     <title>Football: Volos - Panetolikos</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251231003000 +0700" stop="20251231023000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Al Ettifaq FC - Al Nassr (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
 <programme start="20251229210000 +0700" stop="20251230001500 +0700" channel="COSMOTE Sport 3 HD">
     <title>American Football: Buffalo Bills - Philadelphia Eagles</title>
     <desc>Live: Tidak</desc>
@@ -202,10 +206,6 @@
     <title>Football: Wrexham  - Preston North End</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251229213000 +0700" stop="20251229233000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Real Madrid - Unicaja</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251229233000 +0700" stop="20251230013000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Turk Telekom - Anadolu Efes</title>
     <desc>Live: Tidak</desc>
@@ -268,6 +268,10 @@
 </programme>
 <programme start="20251230235500 +0700" stop="20251231003000 +0700" channel="COSMOTE Sport 4 HD">
     <title>NBA Action 2025-26 E3510</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251231003000 +0700" stop="20251231023000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Fenerbahce - Manisa Basket</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251229225000 +0700" stop="20251230010000 +0700" channel="COSMOTE Sport 5 HD">
@@ -432,6 +436,10 @@
 </programme>
 <programme start="20251230225000 +0700" stop="20251231003000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Volleyball: Olympiacos - Apeldoorn</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251231003000 +0700" stop="20251231010000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Watersports: Inside Sailing E12</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251229230000 +0700" stop="20251230010000 +0700" channel="COSMOTE Sport 7 HD">
