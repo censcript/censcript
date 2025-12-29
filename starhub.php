@@ -7726,19 +7726,19 @@
     <programme start="20251228213000 +0000" stop="20251228233000 +0000" channel="Asianet Movies.starhub">
         <title>Seelabathi</title>
     </programme>
-    <programme start="20251228233000 +0000" stop="20251229013000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251228225500 +0000" stop="20251229013000 +0000" channel="Asianet Movies.starhub">
         <title>Udayon</title>
     </programme>
-    <programme start="20251229013000 +0000" stop="20251229043000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251229013000 +0000" stop="20251229041500 +0000" channel="Asianet Movies.starhub">
         <title>Ananthabhadram</title>
     </programme>
-    <programme start="20251229043000 +0000" stop="20251229073000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251229041500 +0000" stop="20251229073000 +0000" channel="Asianet Movies.starhub">
         <title>Minnal Murali</title>
     </programme>
-    <programme start="20251229073000 +0000" stop="20251229103000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251229073000 +0000" stop="20251229104000 +0000" channel="Asianet Movies.starhub">
         <title>Hridayam</title>
     </programme>
-    <programme start="20251229103000 +0000" stop="20251229133000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251229104000 +0000" stop="20251229133000 +0000" channel="Asianet Movies.starhub">
         <title>Oru Maravathoor Kanavu</title>
     </programme>
     <programme start="20251229133000 +0000" stop="20251229163000 +0000" channel="Asianet Movies.starhub">
