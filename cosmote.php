@@ -118,8 +118,8 @@
     <title>Football: Lecce - Como</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251229150000 +0700" stop="20251229155500 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Greece - USA</title>
+<programme start="20251230161000 +0700" stop="20251230181000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Torino - Cagliari</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251229155500 +0700" stop="20251229165500 +0700" channel="COSMOTE Sport 3 HD">
@@ -202,6 +202,10 @@
     <title>Football: Mexico - Kazakhstan</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251230165000 +0700" stop="20251230174500 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Poland - Netherlands</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251229150000 +0700" stop="20251229170000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Napoli - Cantu</title>
     <desc>Live: Tidak</desc>
@@ -260,10 +264,6 @@
 </programme>
 <programme start="20251230150000 +0700" stop="20251230170000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Rio Breogan - Baskonia</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251229150000 +0700" stop="20251229160000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251229160000 +0700" stop="20251229163000 +0700" channel="COSMOTE Sport 5 HD">
@@ -346,8 +346,12 @@
     <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251229133500 +0700" stop="20251229153500 +0700" channel="COSMOTE Sport 6 HD">
-    <title>2025 Premier Padel World Cup Pairs</title>
+<programme start="20251230161000 +0700" stop="20251230164000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251230164000 +0700" stop="20251230171000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Sports Classics: Gearing Up 2024 E11</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251229153500 +0700" stop="20251229173500 +0700" channel="COSMOTE Sport 6 HD">
@@ -419,6 +423,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251230141000 +0700" stop="20251230163500 +0700" channel="COSMOTE Sport 6 HD">
+    <title>2025 Premier Padel World Cup Pairs</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251230163500 +0700" stop="20251230180000 +0700" channel="COSMOTE Sport 6 HD">
     <title>2025 Premier Padel World Cup Pairs</title>
     <desc>Live: Tidak</desc>
 </programme>
