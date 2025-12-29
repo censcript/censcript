@@ -592,9 +592,6 @@
 <programme start="20251229073000 +0000" stop="20251229090000 +0000" channel="ANTV.vision">
 <title>Shani</title>
 </programme>
-<programme start="20251229090000 +0000" stop="20251229110000 +0000" channel="ANTV.vision">
-<title>Brahmana Manggala</title>
-</programme>
 <programme start="20251229110000 +0000" stop="20251229123000 +0000" channel="ANTV.vision">
 <title>Senandung Cinta Lilis</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20251229024500 +0000" stop="20251229035000 +0000" channel="MDTV.vision">
 <title>Rosalinda</title>
+</programme>
+<programme start="20251229035000 +0000" stop="20251229051000 +0000" channel="MDTV.vision">
+<title>Cerita Nyata</title>
 </programme>

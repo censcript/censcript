@@ -118,8 +118,8 @@
     <title>Football: Torino - Cagliari</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251229165500 +0700" stop="20251229175500 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Czech Republic - Greece</title>
+<programme start="20251230181000 +0700" stop="20251230202000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: AEK - OFI</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251229175500 +0700" stop="20251229190000 +0700" channel="COSMOTE Sport 3 HD">
@@ -262,10 +262,6 @@
     <title>Basketball: Charlotte Hornets - Milwaukee Bucks</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251229163000 +0700" stop="20251229175000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>MotoGP Classics</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251229175000 +0700" stop="20251229185000 +0700" channel="COSMOTE Sport 5 HD">
     <title>MotoGP Classics</title>
     <desc>Live: Tidak</desc>
@@ -350,8 +346,8 @@
     <title>MotoGP Classics</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251229153500 +0700" stop="20251229173500 +0700" channel="COSMOTE Sport 6 HD">
-    <title>2025 Premier Padel World Cup Pairs</title>
+<programme start="20251230181000 +0700" stop="20251230191000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>MotoGP Classics</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251229173500 +0700" stop="20251229201000 +0700" channel="COSMOTE Sport 6 HD">
@@ -424,6 +420,10 @@
 </programme>
 <programme start="20251230163500 +0700" stop="20251230180000 +0700" channel="COSMOTE Sport 6 HD">
     <title>2025 Premier Padel World Cup Pairs</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251230180000 +0700" stop="20251230203000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>2025 Premier Padel Tour Finals</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251229170000 +0700" stop="20251229190000 +0700" channel="COSMOTE Sport 7 HD">

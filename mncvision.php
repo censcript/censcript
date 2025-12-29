@@ -7649,7 +7649,7 @@
     <title>Seputar iNews Siang</title>
 </programme>
 <programme start="20251229051500 +0000" stop="20251229070000 +0000" channel="RCTI.mncvision">
-    <title>Sule Racun Cinta Di Kedai Kopi</title>
+    <title>Mega Film TV: 7/24</title>
 </programme>
 <programme start="20251229070000 +0000" stop="20251229080000 +0000" channel="RCTI.mncvision">
     <title>Cinlock: Love, Camera, Action!</title>
@@ -7673,7 +7673,7 @@
     <title>Indonesian Idol 2025</title>
 </programme>
 <programme start="20251229164500 +0000" stop="20251228171500 +0000" channel="RCTI.mncvision">
-    <title>Top Tukang Ojek Preman</title>
+    <title>Until Death</title>
 </programme>
 <programme start="20251228183000 +0000" stop="20251228190000 +0000" channel="RCTI HD.mncvision">
     <title>Kompleks Pengabdi Istri</title>
@@ -7703,7 +7703,7 @@
     <title>Seputar iNews Siang</title>
 </programme>
 <programme start="20251229051500 +0000" stop="20251229070000 +0000" channel="RCTI HD.mncvision">
-    <title>Sule Racun Cinta Di Kedai Kopi</title>
+    <title>Mega Film TV: 7/24</title>
 </programme>
 <programme start="20251229070000 +0000" stop="20251229080000 +0000" channel="RCTI HD.mncvision">
     <title>Cinlock: Love, Camera, Action!</title>
@@ -7727,7 +7727,7 @@
     <title>Indonesian Idol 2025</title>
 </programme>
 <programme start="20251229164500 +0000" stop="20251228171500 +0000" channel="RCTI HD.mncvision">
-    <title>Top Tukang Ojek Preman</title>
+    <title>Until Death</title>
 </programme>
 <programme start="20251228174000 +0000" stop="20251228195000 +0000" channel="Rock Action.mncvision">
     <title>Captain Phillips</title>
