@@ -1,7 +1,3 @@
-<programme start="20251230031500 +0700" stop="20251230051500 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: Birmingham City - Southampton (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
 <programme start="20251230051500 +0700" stop="20251230071500 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: FC Kairat Almaty - Olympiacos</title>
     <desc>Live: Tidak</desc>
@@ -118,12 +114,8 @@
     <title>Football: Olympiacos - Kifisia</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251230044500 +0700" stop="20251230051000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>William Hill Scottish Premiership - Highlights</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251230051000 +0700" stop="20251230054000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Copa Libertadores 2025 - Highlights</title>
+<programme start="20251231065000 +0700" stop="20251231070500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Sports Classics: Worldies E13</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251230054000 +0700" stop="20251230061000 +0700" channel="COSMOTE Sport 3 HD">
@@ -262,10 +254,6 @@
     <title>Basketball: Unicaja - Karditsa</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251230041000 +0700" stop="20251230053000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>MotoGP Classics</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251230053000 +0700" stop="20251230063000 +0700" channel="COSMOTE Sport 5 HD">
     <title>MotoGP Classics</title>
     <desc>Live: Tidak</desc>
@@ -352,6 +340,10 @@
 </programme>
 <programme start="20251231052000 +0700" stop="20251231062000 +0700" channel="COSMOTE Sport 5 HD">
     <title>MotoGP Classics</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251231062000 +0700" stop="20251231080000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: MotoGP 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251230033000 +0700" stop="20251230063000 +0700" channel="COSMOTE Sport 6 HD">
@@ -502,9 +494,9 @@
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251230031500 +0700" stop="20251230051500 +0700" channel="COSMOTE Sport 8 HD">
-    <title>Football: FC Porto - AVS Futebol (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20251231060000 +0700" stop="20251231070000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251230051500 +0700" stop="20251230070000 +0700" channel="COSMOTE Sport 8 HD">
     <title>COSMOTESport8HD</title>
