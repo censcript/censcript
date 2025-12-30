@@ -2819,7 +2819,7 @@
     <title>NHL: On the Fly</title>
 </programme>
 <programme start="20251230140000 +0000" stop="20251230143000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NHL: Road to the NHL Winter Classic (3. Folge)</title>
+    <title>MotoGP: Jorge Martin - From heaven to hell</title>
 </programme>
 <programme start="20251230143000 +0000" stop="20251230170000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NBA: Dallas Mavericks @ Portland Trail Blazers</title>
@@ -3109,7 +3109,7 @@
 <programme start="20251230003000 +0000" stop="20251230010000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime</title>
 </programme>
-<programme start="20251230010000 +0000" stop="20251230035000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20251230010000 +0000" stop="20251230090000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Cleveland Cavaliers @ San Antonio Spurs</title>
 </programme>
 <programme start="20251230190000 +0000" stop="20251230192000 +0000" channel="Sky Sport 1 HD.skyde">
