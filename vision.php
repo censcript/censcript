@@ -460,9 +460,6 @@
 <programme start="20251230110000 +0000" stop="20251230123000 +0000" channel="ANTV.vision">
 <title>Senandung Cinta Lilis</title>
 </programme>
-<programme start="20251230123000 +0000" stop="20251230143000 +0000" channel="ANTV.vision">
-<title>Jampang S2</title>
-</programme>
 <programme start="20251230143000 +0000" stop="20251230163000 +0000" channel="ANTV.vision">
 <title>Bebas Aturan Main</title>
 </programme>
@@ -1496,5 +1493,8 @@
 <title>JTV</title>
 </programme>
 <programme start="20251231080000 +0000" stop="20251231100000 +0000" channel="JTV.vision">
+<title>JTV</title>
+</programme>
+<programme start="20251231100000 +0000" stop="20251231120000 +0000" channel="JTV.vision">
 <title>JTV</title>
 </programme>
