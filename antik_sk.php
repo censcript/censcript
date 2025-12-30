@@ -4204,8 +4204,149 @@
   <programme start="20260101225000 +0000" stop="20260101234000 +0000" channel="A11.webtv.sk">
     <title lang="id">Pozor vlak</title>
   </programme>
-  <programme start="20251231223000 +0000" stop="20260101013000 +0000" channel="Fashion TV Czech & Slovak.webtv.sk">
-    <title lang="id">Top Photoshoots</title>
+  <programme start="20251231230000 +0000" stop="20251231233000 +0000" channel="Fashion TV Czech & Slovak.webtv.sk">
+    <title lang="id">LINGERIE</title>
+  </programme>
+  <programme start="20251231233000 +0000" stop="20260101000000 +0000" channel="Fashion TV Czech & Slovak.webtv.sk">
+    <title lang="id">LINGERIE</title>
+  </programme>
+  <programme start="20260101000000 +0000" stop="20260101003000 +0000" channel="Fashion TV Czech & Slovak.webtv.sk">
+    <title lang="id">SWIMWEAR</title>
+  </programme>
+  <programme start="20260101003000 +0000" stop="20260101010000 +0000" channel="Fashion TV Czech & Slovak.webtv.sk">
+    <title lang="id">SWIMWEAR</title>
+  </programme>
+  <programme start="20260101010000 +0000" stop="20260101013000 +0000" channel="Fashion TV Czech & Slovak.webtv.sk">
+    <title lang="id">TOP MODELS</title>
+  </programme>
+  <programme start="20260101013000 +0000" stop="20260101020000 +0000" channel="Fashion TV Czech & Slovak.webtv.sk">
+    <title lang="id">TOP MODELS</title>
+  </programme>
+  <programme start="20260101020000 +0000" stop="20260101023000 +0000" channel="Fashion TV Czech & Slovak.webtv.sk">
+    <title lang="id">LINGERIE</title>
+  </programme>
+  <programme start="20260101023000 +0000" stop="20260101030000 +0000" channel="Fashion TV Czech & Slovak.webtv.sk">
+    <title lang="id">LINGERIE</title>
+  </programme>
+  <programme start="20260101030000 +0000" stop="20260101033000 +0000" channel="Fashion TV Czech & Slovak.webtv.sk">
+    <title lang="id">SWIMWEAR</title>
+  </programme>
+  <programme start="20260101033000 +0000" stop="20260101040000 +0000" channel="Fashion TV Czech & Slovak.webtv.sk">
+    <title lang="id">SWIMWEAR</title>
+  </programme>
+  <programme start="20260101040000 +0000" stop="20260101043000 +0000" channel="Fashion TV Czech & Slovak.webtv.sk">
+    <title lang="id">TOP PHOTOSHOOTS</title>
+  </programme>
+  <programme start="20260101043000 +0000" stop="20260101050000 +0000" channel="Fashion TV Czech & Slovak.webtv.sk">
+    <title lang="id">TOP PHOTOSHOOTS</title>
+  </programme>
+  <programme start="20260101050000 +0000" stop="20260101053000 +0000" channel="Fashion TV Czech & Slovak.webtv.sk">
+    <title lang="id">FASHION &amp; SPORTS</title>
+  </programme>
+  <programme start="20260101053000 +0000" stop="20260101060000 +0000" channel="Fashion TV Czech & Slovak.webtv.sk">
+    <title lang="id">FASHION &amp; SPORTS</title>
+  </programme>
+  <programme start="20260101060000 +0000" stop="20260101063000 +0000" channel="Fashion TV Czech & Slovak.webtv.sk">
+    <title lang="id">BEAUTY</title>
+  </programme>
+  <programme start="20260101063000 +0000" stop="20260101070000 +0000" channel="Fashion TV Czech & Slovak.webtv.sk">
+    <title lang="id">BEAUTY</title>
+  </programme>
+  <programme start="20260101070000 +0000" stop="20260101073000 +0000" channel="Fashion TV Czech & Slovak.webtv.sk">
+    <title lang="id">FASHION FROM JAPAN</title>
+  </programme>
+  <programme start="20260101073000 +0000" stop="20260101080000 +0000" channel="Fashion TV Czech & Slovak.webtv.sk">
+    <title lang="id">FASHION FROM JAPAN</title>
+  </programme>
+  <programme start="20260101080000 +0000" stop="20260101083000 +0000" channel="Fashion TV Czech & Slovak.webtv.sk">
+    <title lang="id">SARA SAMPAIO</title>
+  </programme>
+  <programme start="20260101083000 +0000" stop="20260101090000 +0000" channel="Fashion TV Czech & Slovak.webtv.sk">
+    <title lang="id">SARA SAMPAIO</title>
+  </programme>
+  <programme start="20260101090000 +0000" stop="20260101093000 +0000" channel="Fashion TV Czech & Slovak.webtv.sk">
+    <title lang="id">MOST WATCHED</title>
+  </programme>
+  <programme start="20260101093000 +0000" stop="20260101100000 +0000" channel="Fashion TV Czech & Slovak.webtv.sk">
+    <title lang="id">MOST WATCHED</title>
+  </programme>
+  <programme start="20260101100000 +0000" stop="20260101103000 +0000" channel="Fashion TV Czech & Slovak.webtv.sk">
+    <title lang="id">FASHION JUNIOR</title>
+  </programme>
+  <programme start="20260101103000 +0000" stop="20260101110000 +0000" channel="Fashion TV Czech & Slovak.webtv.sk">
+    <title lang="id">FASHION JUNIOR</title>
+  </programme>
+  <programme start="20260101110000 +0000" stop="20260101113000 +0000" channel="Fashion TV Czech & Slovak.webtv.sk">
+    <title lang="id">MEN&apos;S FASHION WEEK</title>
+  </programme>
+  <programme start="20260101113000 +0000" stop="20260101120000 +0000" channel="Fashion TV Czech & Slovak.webtv.sk">
+    <title lang="id">MEN&apos;S FASHION WEEK</title>
+  </programme>
+  <programme start="20260101120000 +0000" stop="20260101123000 +0000" channel="Fashion TV Czech & Slovak.webtv.sk">
+    <title lang="id">TOP MODELS</title>
+  </programme>
+  <programme start="20260101123000 +0000" stop="20260101130000 +0000" channel="Fashion TV Czech & Slovak.webtv.sk">
+    <title lang="id">TOP MODELS</title>
+  </programme>
+  <programme start="20260101130000 +0000" stop="20260101133000 +0000" channel="Fashion TV Czech & Slovak.webtv.sk">
+    <title lang="id">BRIDAL</title>
+  </programme>
+  <programme start="20260101133000 +0000" stop="20260101140000 +0000" channel="Fashion TV Czech & Slovak.webtv.sk">
+    <title lang="id">BRIDAL</title>
+  </programme>
+  <programme start="20260101140000 +0000" stop="20260101143000 +0000" channel="Fashion TV Czech & Slovak.webtv.sk">
+    <title lang="id">FASHION FILMS</title>
+  </programme>
+  <programme start="20260101143000 +0000" stop="20260101150000 +0000" channel="Fashion TV Czech & Slovak.webtv.sk">
+    <title lang="id">FASHION FILMS</title>
+  </programme>
+  <programme start="20260101150000 +0000" stop="20260101153000 +0000" channel="Fashion TV Czech & Slovak.webtv.sk">
+    <title lang="id">FASHION TEENS</title>
+  </programme>
+  <programme start="20260101153000 +0000" stop="20260101160000 +0000" channel="Fashion TV Czech & Slovak.webtv.sk">
+    <title lang="id">FASHION TEENS</title>
+  </programme>
+  <programme start="20260101160000 +0000" stop="20260101163000 +0000" channel="Fashion TV Czech & Slovak.webtv.sk">
+    <title lang="id">TOP PHOTOSHOOTS</title>
+  </programme>
+  <programme start="20260101163000 +0000" stop="20260101170000 +0000" channel="Fashion TV Czech & Slovak.webtv.sk">
+    <title lang="id">TOP PHOTOSHOOTS</title>
+  </programme>
+  <programme start="20260101170000 +0000" stop="20260101173000 +0000" channel="Fashion TV Czech & Slovak.webtv.sk">
+    <title lang="id">FASHION FROM CHINA</title>
+  </programme>
+  <programme start="20260101173000 +0000" stop="20260101180000 +0000" channel="Fashion TV Czech & Slovak.webtv.sk">
+    <title lang="id">FASHION FROM CHINA</title>
+  </programme>
+  <programme start="20260101180000 +0000" stop="20260101183000 +0000" channel="Fashion TV Czech & Slovak.webtv.sk">
+    <title lang="id">MOST WATCHED</title>
+  </programme>
+  <programme start="20260101183000 +0000" stop="20260101190000 +0000" channel="Fashion TV Czech & Slovak.webtv.sk">
+    <title lang="id">MOST WATCHED</title>
+  </programme>
+  <programme start="20260101190000 +0000" stop="20260101193000 +0000" channel="Fashion TV Czech & Slovak.webtv.sk">
+    <title lang="id">FASHION NEWS</title>
+  </programme>
+  <programme start="20260101193000 +0000" stop="20260101200000 +0000" channel="Fashion TV Czech & Slovak.webtv.sk">
+    <title lang="id">FASHION NEWS</title>
+  </programme>
+  <programme start="20260101200000 +0000" stop="20260101203000 +0000" channel="Fashion TV Czech & Slovak.webtv.sk">
+    <title lang="id">SARA SAMPAIO</title>
+  </programme>
+  <programme start="20260101203000 +0000" stop="20260101210000 +0000" channel="Fashion TV Czech & Slovak.webtv.sk">
+    <title lang="id">SARA SAMPAIO</title>
+  </programme>
+  <programme start="20260101210000 +0000" stop="20260101213000 +0000" channel="Fashion TV Czech & Slovak.webtv.sk">
+    <title lang="id">FASHION MAGAZINES</title>
+  </programme>
+  <programme start="20260101213000 +0000" stop="20260101220000 +0000" channel="Fashion TV Czech & Slovak.webtv.sk">
+    <title lang="id">FASHION MAGAZINES</title>
+  </programme>
+  <programme start="20260101220000 +0000" stop="20260101223000 +0000" channel="Fashion TV Czech & Slovak.webtv.sk">
+    <title lang="id">DESIGNERS</title>
+  </programme>
+  <programme start="20260101223000 +0000" stop="20260101230000 +0000" channel="Fashion TV Czech & Slovak.webtv.sk">
+    <title lang="id">DESIGNERS</title>
   </programme>
   <programme start="20251231230000 +0000" stop="20260101000000 +0000" channel="Arena Sport 1.webtv.sk">
     <title lang="id">Naša Garáž</title>
