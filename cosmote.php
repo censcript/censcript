@@ -50,6 +50,10 @@
     <title>Football: Bayer 04 Leverkusen - Newcastle United</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251231160500 +0700" stop="20251231180500 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: Omonoia FC - Rakow Czestochowa</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251230141000 +0700" stop="20251230161000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Lecce - Como</title>
     <desc>Live: Tidak</desc>
@@ -106,8 +110,8 @@
     <title>Football: Panathinaikos - Olympiacos</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251230150000 +0700" stop="20251230155500 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Mexico - Bulgaria</title>
+<programme start="20251231161000 +0700" stop="20251231181000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: SS Lazio - AS Roma</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251230155500 +0700" stop="20251230165000 +0700" channel="COSMOTE Sport 3 HD">
@@ -234,10 +238,6 @@
     <title>Basketball: Armani Milano - Vanoli Cremona</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251230133500 +0700" stop="20251230150500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: MotoGP 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251230150500 +0700" stop="20251230161000 +0700" channel="COSMOTE Sport 5 HD">
     <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
@@ -328,6 +328,10 @@
 </programme>
 <programme start="20251231155000 +0700" stop="20251231164000 +0700" channel="COSMOTE Sport 5 HD">
     <title>DTM</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251231164000 +0700" stop="20251231170000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Sports Classics: Worldies E21</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251230141000 +0700" stop="20251230163500 +0700" channel="COSMOTE Sport 6 HD">
