@@ -2981,10 +2981,10 @@
         <title>My Italy With Margarita</title>
     </programme>
     <programme start="20251230150000 +0000" stop="20251230153000 +0000" channel="ANC.starhub">
-        <title>24X24</title>
+        <title>24x24</title>
     </programme>
     <programme start="20251230153000 +0000" stop="20251230160000 +0000" channel="ANC.starhub">
-        <title>24X24</title>
+        <title>24x24</title>
     </programme>
     <programme start="20251229153000 +0000" stop="20251229164500 +0000" channel="Karisma.starhub">
         <title>Memancing Cinta Di Kolam Hati Neng Mawar</title>
@@ -7837,13 +7837,13 @@
     <programme start="20251230013000 +0000" stop="20251230043000 +0000" channel="Asianet Movies.starhub">
         <title>Classmates</title>
     </programme>
-    <programme start="20251230043000 +0000" stop="20251230073000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251230043000 +0000" stop="20251230074000 +0000" channel="Asianet Movies.starhub">
         <title>Rasathanthram</title>
     </programme>
-    <programme start="20251230073000 +0000" stop="20251230103000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251230074000 +0000" stop="20251230104000 +0000" channel="Asianet Movies.starhub">
         <title>Aadu 2</title>
     </programme>
-    <programme start="20251230103000 +0000" stop="20251230133000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251230104000 +0000" stop="20251230133000 +0000" channel="Asianet Movies.starhub">
         <title>Puthiyamugham</title>
     </programme>
     <programme start="20251230133000 +0000" stop="20251230163000 +0000" channel="Asianet Movies.starhub">
