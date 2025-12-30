@@ -3034,10 +3034,10 @@
 <programme start="20251230003000 +0000" stop="20251230010000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Showtime</title>
 </programme>
-<programme start="20251230010000 +0000" stop="20251230040000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20251230010000 +0000" stop="20251230035000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Cleveland Cavaliers @ San Antonio Spurs</title>
 </programme>
-<programme start="20251230040000 +0000" stop="20251230063000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20251230035000 +0000" stop="20251230063000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Dallas Mavericks @ Portland Trail Blazers</title>
 </programme>
 <programme start="20251230063000 +0000" stop="20251230083000 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3070,7 +3070,7 @@
 <programme start="20251230190000 +0000" stop="20251230221500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live PL: Dienstags-Konferenz, 19. Spieltag</title>
 </programme>
-<programme start="20251230221500 +0000" stop="20251230230000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20251230221500 +0000" stop="20251230231500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live PL: Match of the Week: Die Analyse, ARS - AVL, 19. Spieltag</title>
 </programme>
 <programme start="20251230100000 +0000" stop="20251230120000 +0000" channel="Sky Sport UHD.skyde">
@@ -3100,7 +3100,7 @@
 <programme start="20251230200000 +0000" stop="20251230221500 +0000" channel="Sky Sport UHD.skyde">
     <title>Live PL: FC Arsenal - Aston Villa, Match of the Week, 19. Spieltag</title>
 </programme>
-<programme start="20251230221500 +0000" stop="20251230230000 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20251230221500 +0000" stop="20251230231500 +0000" channel="Sky Sport UHD.skyde">
     <title>Live PL: Analyse</title>
 </programme>
 <programme start="20251230001000 +0000" stop="20251230003000 +0000" channel="Sky Sport 1 HD.skyde">
@@ -3133,7 +3133,7 @@
 <programme start="20251230190000 +0000" stop="20251230192000 +0000" channel="Sky Sport 4 HD.skyde">
     <title>Es folgt: LIVE PL</title>
 </programme>
-<programme start="20251230192000 +0000" stop="20251230213000 +0000" channel="Sky Sport 4 HD.skyde">
+<programme start="20251230192000 +0000" stop="20251230220000 +0000" channel="Sky Sport 4 HD.skyde">
     <title>Live PL: Nottingham Forest - FC Everton, 19. Spieltag</title>
 </programme>
 <programme start="20251230194500 +0000" stop="20251230200500 +0000" channel="Sky Sport 5 HD.skyde">

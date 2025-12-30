@@ -50,6 +50,10 @@
     <title>Football: Al-Kholood - Al Hilal (L)</title>
     <desc>Live: Ya</desc>
 </programme>
+<programme start="20260101023000 +0700" stop="20260101030000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEFA Champions League Magazine 2024-25 E15</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251231003000 +0700" stop="20251231023000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Al Ettifaq FC - Al Nassr (L)</title>
     <desc>Live: Ya</desc>
@@ -112,6 +116,14 @@
 </programme>
 <programme start="20260101013000 +0700" stop="20260101020000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Serie A Inside Serie A 2025-26 E18</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260101020000 +0700" stop="20260101023000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Sports Classics: Football Countdowns E3</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260101023000 +0700" stop="20260101030000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Sports Classics: Football Countdowns E4</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251231010000 +0700" stop="20251231030000 +0700" channel="COSMOTE Sport 3 HD">
@@ -314,8 +326,8 @@
     <title>Best of MotoGP 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251231010000 +0700" stop="20251231020000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Nitto ATP Finals 2025 - Highlights</title>
+<programme start="20260101023000 +0700" stop="20260101040000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Best of MotoGP 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251231020000 +0700" stop="20251231030000 +0700" channel="COSMOTE Sport 6 HD">
@@ -378,8 +390,12 @@
     <title>Volleyball: Ziraat Bankasi SK Ankara - Tours VB</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251231010000 +0700" stop="20251231020000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
+<programme start="20260101021500 +0700" stop="20260101023000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Sports Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260101023000 +0700" stop="20260101050000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>2025 Premier Padel Tour Finals</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251231020000 +0700" stop="20251231023000 +0700" channel="COSMOTE Sport 7 HD">
