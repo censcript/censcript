@@ -2833,7 +2833,7 @@
 <programme start="20251230200000 +0000" stop="20251230221500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live PL: FC Arsenal - Aston Villa, Match of the Week, 19. Spieltag</title>
 </programme>
-<programme start="20251230221500 +0000" stop="20251230230000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20251230221500 +0000" stop="20251230231500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live PL: Match of the Week: Die Analyse, ARS - AVL, 19. Spieltag</title>
 </programme>
 <programme start="20251229230000 +0000" stop="20251230050000 +0000" channel="Sky Sport News HD.skyde">
@@ -3070,7 +3070,7 @@
 <programme start="20251230190000 +0000" stop="20251230221500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live PL: Dienstags-Konferenz, 19. Spieltag</title>
 </programme>
-<programme start="20251230221500 +0000" stop="20251230230000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20251230221500 +0000" stop="20251230231500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live PL: Match of the Week: Die Analyse, ARS - AVL, 19. Spieltag</title>
 </programme>
 <programme start="20251230100000 +0000" stop="20251230120000 +0000" channel="Sky Sport UHD.skyde">
@@ -3109,7 +3109,7 @@
 <programme start="20251230003000 +0000" stop="20251230010000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime</title>
 </programme>
-<programme start="20251230010000 +0000" stop="20251230035000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20251230010000 +0000" stop="20251230090000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Cleveland Cavaliers @ San Antonio Spurs</title>
 </programme>
 <programme start="20251230190000 +0000" stop="20251230192000 +0000" channel="Sky Sport 1 HD.skyde">
@@ -3127,19 +3127,19 @@
 <programme start="20251230190000 +0000" stop="20251230192000 +0000" channel="Sky Sport 3 HD.skyde">
     <title>Es folgt: LIVE PL</title>
 </programme>
-<programme start="20251230192000 +0000" stop="20251230220000 +0000" channel="Sky Sport 3 HD.skyde">
+<programme start="20251230192000 +0000" stop="20251230213000 +0000" channel="Sky Sport 3 HD.skyde">
     <title>Live PL: West Ham United - Brighton &amp; Hove Albion, 19. Spieltag</title>
 </programme>
 <programme start="20251230190000 +0000" stop="20251230192000 +0000" channel="Sky Sport 4 HD.skyde">
     <title>Es folgt: LIVE PL</title>
 </programme>
-<programme start="20251230192000 +0000" stop="20251230213000 +0000" channel="Sky Sport 4 HD.skyde">
+<programme start="20251230192000 +0000" stop="20251230220000 +0000" channel="Sky Sport 4 HD.skyde">
     <title>Live PL: Nottingham Forest - FC Everton, 19. Spieltag</title>
 </programme>
 <programme start="20251230194500 +0000" stop="20251230200500 +0000" channel="Sky Sport 5 HD.skyde">
     <title>Es folgt: LIVE PL</title>
 </programme>
-<programme start="20251230200500 +0000" stop="20251230221500 +0000" channel="Sky Sport 5 HD.skyde">
+<programme start="20251230200500 +0000" stop="20251230224500 +0000" channel="Sky Sport 5 HD.skyde">
     <title>Live PL: Manchester United - Wolverhampton Wanderers, 19. Spieltag</title>
 </programme>
 <programme start="20251229230000 +0000" stop="20251229235000 +0000" channel="SYFY HD.skyde">
@@ -3367,10 +3367,10 @@
 <programme start="20251230043000 +0000" stop="20251230045500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Die Nanny</title>
 </programme>
-<programme start="20251230045500 +0000" stop="20251230052000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251230045500 +0000" stop="20251230051500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Die Nanny</title>
 </programme>
-<programme start="20251230052000 +0000" stop="20251230054500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251230051500 +0000" stop="20251230054500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Die Nanny</title>
 </programme>
 <programme start="20251230054500 +0000" stop="20251230061000 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3394,22 +3394,22 @@
 <programme start="20251230081500 +0000" stop="20251230084000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Die Nanny</title>
 </programme>
-<programme start="20251230084000 +0000" stop="20251230090500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251230084000 +0000" stop="20251230091000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Die Nanny</title>
 </programme>
-<programme start="20251230090500 +0000" stop="20251230093000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251230091000 +0000" stop="20251230093500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20251230093000 +0000" stop="20251230095500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251230093500 +0000" stop="20251230100000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20251230095500 +0000" stop="20251230102000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251230100000 +0000" stop="20251230102500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20251230102000 +0000" stop="20251230104500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251230102500 +0000" stop="20251230105000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20251230104500 +0000" stop="20251230111000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251230105000 +0000" stop="20251230111000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Friends</title>
 </programme>
 <programme start="20251230111000 +0000" stop="20251230113500 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3523,10 +3523,10 @@
 <programme start="20251230102500 +0000" stop="20251230120500 +0000" channel="Warner TV Film.skyde">
     <title>Zorn der Titanen</title>
 </programme>
-<programme start="20251230120500 +0000" stop="20251230134000 +0000" channel="Warner TV Film.skyde">
+<programme start="20251230120500 +0000" stop="20251230134500 +0000" channel="Warner TV Film.skyde">
     <title>Mad Max</title>
 </programme>
-<programme start="20251230134000 +0000" stop="20251230152000 +0000" channel="Warner TV Film.skyde">
+<programme start="20251230134500 +0000" stop="20251230152000 +0000" channel="Warner TV Film.skyde">
     <title>Mad Max 2 - Der Vollstrecker</title>
 </programme>
 <programme start="20251230152000 +0000" stop="20251230171000 +0000" channel="Warner TV Film.skyde">
@@ -3607,19 +3607,19 @@
 <programme start="20251230043500 +0000" stop="20251230045000 +0000" channel="Warner TV Serie HD.skyde">
     <title>NTSF:SD:SUV::</title>
 </programme>
-<programme start="20251230045000 +0000" stop="20251230054000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20251230045000 +0000" stop="20251230053500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Mord ist ihr Hobby</title>
 </programme>
-<programme start="20251230054000 +0000" stop="20251230063000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20251230053500 +0000" stop="20251230063000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Mord ist ihr Hobby</title>
 </programme>
 <programme start="20251230063000 +0000" stop="20251230072000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Mord ist ihr Hobby</title>
 </programme>
-<programme start="20251230072000 +0000" stop="20251230081000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20251230072000 +0000" stop="20251230081500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Mord ist ihr Hobby</title>
 </programme>
-<programme start="20251230081000 +0000" stop="20251230090500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20251230081500 +0000" stop="20251230090500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Mord ist ihr Hobby</title>
 </programme>
 <programme start="20251230090500 +0000" stop="20251230102000 +0000" channel="Warner TV Serie HD.skyde">
@@ -3631,10 +3631,10 @@
 <programme start="20251230111000 +0000" stop="20251230120000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Unsere kleine Farm</title>
 </programme>
-<programme start="20251230120000 +0000" stop="20251230125000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20251230120000 +0000" stop="20251230125500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Unsere kleine Farm</title>
 </programme>
-<programme start="20251230125000 +0000" stop="20251230134500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20251230125500 +0000" stop="20251230134500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Unsere kleine Farm</title>
 </programme>
 <programme start="20251230134500 +0000" stop="20251230143500 +0000" channel="Warner TV Serie HD.skyde">
@@ -3667,9 +3667,9 @@
 <programme start="20251230205000 +0000" stop="20251230213500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Rescue: HI-Surf</title>
 </programme>
-<programme start="20251230213500 +0000" stop="20251230222000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20251230213500 +0000" stop="20251230222500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Rescue: HI-Surf</title>
 </programme>
-<programme start="20251230222000 +0000" stop="20251230231500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20251230222500 +0000" stop="20251230231500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Die Zwei Seiten Des Abgrunds</title>
 </programme>

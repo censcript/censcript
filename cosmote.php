@@ -50,6 +50,10 @@
     <title>Football: Ferencvarosi TC - Rangers FC</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251231140500 +0700" stop="20251231160500 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: Bayer 04 Leverkusen - Newcastle United</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251230120000 +0700" stop="20251230141000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: AEL Novibet - Atromitos</title>
     <desc>Live: Tidak</desc>
@@ -174,6 +178,14 @@
     <title>American Football: Atlanta Falcons - Los Angeles Rams</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251231141500 +0700" stop="20251231144500 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Copa Libertadores 2025 - Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251231144500 +0700" stop="20251231170000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: St. Mirren - Celtic FC</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251230130000 +0700" stop="20251230150000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Promitheas - Rytas Vilnius</title>
     <desc>Live: Tidak</desc>
@@ -232,10 +244,6 @@
 </programme>
 <programme start="20251231130000 +0700" stop="20251231150000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Rio Breogan - Baskonia</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251230120000 +0700" stop="20251230133500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: MotoGP 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251230133500 +0700" stop="20251230150500 +0700" channel="COSMOTE Sport 5 HD">
@@ -324,10 +332,6 @@
 </programme>
 <programme start="20251231134000 +0700" stop="20251231152000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Motorsports: MotoGP 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251230110000 +0700" stop="20251230135000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Volleyball: Olympiacos - Eczacibasi Dynavit Istanbul</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251230135000 +0700" stop="20251230141000 +0700" channel="COSMOTE Sport 6 HD">
