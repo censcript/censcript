@@ -3139,7 +3139,7 @@
 <programme start="20251230194500 +0000" stop="20251230200500 +0000" channel="Sky Sport 5 HD.skyde">
     <title>Es folgt: LIVE PL</title>
 </programme>
-<programme start="20251230200500 +0000" stop="20251230221500 +0000" channel="Sky Sport 5 HD.skyde">
+<programme start="20251230200500 +0000" stop="20251230224500 +0000" channel="Sky Sport 5 HD.skyde">
     <title>Live PL: Manchester United - Wolverhampton Wanderers, 19. Spieltag</title>
 </programme>
 <programme start="20251229230000 +0000" stop="20251229235000 +0000" channel="SYFY HD.skyde">
@@ -3523,10 +3523,10 @@
 <programme start="20251230102500 +0000" stop="20251230120500 +0000" channel="Warner TV Film.skyde">
     <title>Zorn der Titanen</title>
 </programme>
-<programme start="20251230120500 +0000" stop="20251230134500 +0000" channel="Warner TV Film.skyde">
+<programme start="20251230120500 +0000" stop="20251230134000 +0000" channel="Warner TV Film.skyde">
     <title>Mad Max</title>
 </programme>
-<programme start="20251230134500 +0000" stop="20251230152000 +0000" channel="Warner TV Film.skyde">
+<programme start="20251230134000 +0000" stop="20251230152000 +0000" channel="Warner TV Film.skyde">
     <title>Mad Max 2 - Der Vollstrecker</title>
 </programme>
 <programme start="20251230152000 +0000" stop="20251230171000 +0000" channel="Warner TV Film.skyde">
