@@ -326,8 +326,8 @@
     <title>Best of MotoGP 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251231030000 +0700" stop="20251231040000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Sports Classics: 2025 Outdoor Specials</title>
+<programme start="20260101040000 +0700" stop="20260101050000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: MotoGP</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251231040000 +0700" stop="20251231043000 +0700" channel="COSMOTE Sport 6 HD">
@@ -453,6 +453,14 @@
 <programme start="20260101010000 +0700" stop="20260101040000 +0700" channel="COSMOTE Sport 7 HD">
     <title>Basketball: Charlotte Hornets - Golden State Warriors (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20260101040000 +0700" stop="20260101043000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260101043000 +0700" stop="20260101050000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251231030000 +0700" stop="20251231050000 +0700" channel="COSMOTE Sport 8 HD">
     <title>COSMOTESport8HD</title>

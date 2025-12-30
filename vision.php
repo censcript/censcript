@@ -445,11 +445,140 @@
 <programme start="20251231110000 +0000" stop="20251231120000 +0000" channel="SindoNews.vision">
 <title>SINDO Files</title>
 </programme>
+<programme start="20251229233000 +0000" stop="20251230003000 +0000" channel="Trans 7.vision">
+<title>Trans 7</title>
+</programme>
+<programme start="20251230003000 +0000" stop="20251230013000 +0000" channel="Trans 7.vision">
+<title>Trans 7</title>
+</programme>
+<programme start="20251230013000 +0000" stop="20251230023000 +0000" channel="Trans 7.vision">
+<title>Trans 7</title>
+</programme>
+<programme start="20251230023000 +0000" stop="20251230031500 +0000" channel="Trans 7.vision">
+<title>Trans 7</title>
+</programme>
+<programme start="20251230031500 +0000" stop="20251230041500 +0000" channel="Trans 7.vision">
+<title>Trans 7</title>
+</programme>
+<programme start="20251230041500 +0000" stop="20251230050000 +0000" channel="Trans 7.vision">
+<title>Trans 7</title>
+</programme>
+<programme start="20251230050000 +0000" stop="20251230054500 +0000" channel="Trans 7.vision">
+<title>Trans 7</title>
+</programme>
+<programme start="20251230054500 +0000" stop="20251230063000 +0000" channel="Trans 7.vision">
+<title>Trans 7</title>
+</programme>
+<programme start="20251230063000 +0000" stop="20251230071500 +0000" channel="Trans 7.vision">
+<title>Trans 7</title>
+</programme>
+<programme start="20251230071500 +0000" stop="20251230081500 +0000" channel="Trans 7.vision">
+<title>Trans 7</title>
+</programme>
+<programme start="20251230081500 +0000" stop="20251230091500 +0000" channel="Trans 7.vision">
+<title>Trans 7</title>
+</programme>
+<programme start="20251230091500 +0000" stop="20251230101500 +0000" channel="Trans 7.vision">
+<title>Trans 7</title>
+</programme>
+<programme start="20251230101500 +0000" stop="20251230110000 +0000" channel="Trans 7.vision">
+<title>Trans 7</title>
+</programme>
+<programme start="20251230110000 +0000" stop="20251230114500 +0000" channel="Trans 7.vision">
+<title>Trans 7</title>
+</programme>
+<programme start="20251230114500 +0000" stop="20251230121500 +0000" channel="Trans 7.vision">
+<title>Trans 7</title>
+</programme>
+<programme start="20251230121500 +0000" stop="20251230130000 +0000" channel="Trans 7.vision">
+<title>Trans 7</title>
+</programme>
+<programme start="20251230130000 +0000" stop="20251230143000 +0000" channel="Trans 7.vision">
+<title>Trans 7</title>
+</programme>
+<programme start="20251230143000 +0000" stop="20251230154500 +0000" channel="Trans 7.vision">
+<title>Trans 7</title>
+</programme>
+<programme start="20251230154500 +0000" stop="20251230163000 +0000" channel="Trans 7.vision">
+<title>Trans 7</title>
+</programme>
+<programme start="20251230163000 +0000" stop="20251230171500 +0000" channel="Trans 7.vision">
+<title>Trans 7</title>
+</programme>
+<programme start="20251230171500 +0000" stop="20251230174500 +0000" channel="Trans 7.vision">
+<title>Trans 7</title>
+</programme>
+<programme start="20251230174500 +0000" stop="20251230183000 +0000" channel="Trans 7.vision">
+<title>Trans 7</title>
+</programme>
+<programme start="20251230183000 +0000" stop="20251230193000 +0000" channel="Trans 7.vision">
+<title>Trans 7</title>
+</programme>
+<programme start="20251230193000 +0000" stop="20251230203000 +0000" channel="Trans 7.vision">
+<title>Trans 7</title>
+</programme>
+<programme start="20251230203000 +0000" stop="20251230213000 +0000" channel="Trans 7.vision">
+<title>Trans 7</title>
+</programme>
+<programme start="20251230213000 +0000" stop="20251230221500 +0000" channel="Trans 7.vision">
+<title>Trans 7</title>
+</programme>
+<programme start="20251230221500 +0000" stop="20251230233000 +0000" channel="Trans 7.vision">
+<title>Trans 7</title>
+</programme>
+<programme start="20251230233000 +0000" stop="20251231003000 +0000" channel="Trans 7.vision">
+<title>Trans 7</title>
+</programme>
+<programme start="20251231003000 +0000" stop="20251231013000 +0000" channel="Trans 7.vision">
+<title>Trans 7</title>
+</programme>
+<programme start="20251231013000 +0000" stop="20251231023000 +0000" channel="Trans 7.vision">
+<title>Trans 7</title>
+</programme>
+<programme start="20251231023000 +0000" stop="20251231031500 +0000" channel="Trans 7.vision">
+<title>Trans 7</title>
+</programme>
+<programme start="20251231031500 +0000" stop="20251231041500 +0000" channel="Trans 7.vision">
+<title>Trans 7</title>
+</programme>
+<programme start="20251231041500 +0000" stop="20251231050000 +0000" channel="Trans 7.vision">
+<title>Trans 7</title>
+</programme>
+<programme start="20251231050000 +0000" stop="20251231054500 +0000" channel="Trans 7.vision">
+<title>Trans 7</title>
+</programme>
+<programme start="20251231054500 +0000" stop="20251231063000 +0000" channel="Trans 7.vision">
+<title>Trans 7</title>
+</programme>
+<programme start="20251231063000 +0000" stop="20251231071500 +0000" channel="Trans 7.vision">
+<title>Trans 7</title>
+</programme>
+<programme start="20251231071500 +0000" stop="20251231081500 +0000" channel="Trans 7.vision">
+<title>Trans 7</title>
+</programme>
+<programme start="20251231081500 +0000" stop="20251231091500 +0000" channel="Trans 7.vision">
+<title>Trans 7</title>
+</programme>
+<programme start="20251231091500 +0000" stop="20251231101500 +0000" channel="Trans 7.vision">
+<title>Trans 7</title>
+</programme>
+<programme start="20251231101500 +0000" stop="20251231110000 +0000" channel="Trans 7.vision">
+<title>Trans 7</title>
+</programme>
+<programme start="20251231110000 +0000" stop="20251231114500 +0000" channel="Trans 7.vision">
+<title>Trans 7</title>
+</programme>
+<programme start="20251231114500 +0000" stop="20251231121500 +0000" channel="Trans 7.vision">
+<title>Trans 7</title>
+</programme>
 <programme start="20251229230000 +0000" stop="20251230003000 +0000" channel="ANTV.vision">
 <title>Takdir Cinta Layla</title>
 </programme>
 <programme start="20251230003000 +0000" stop="20251230023000 +0000" channel="ANTV.vision">
 <title>Ateng Kaya Mendadak</title>
+</programme>
+<programme start="20251230023000 +0000" stop="20251230060000 +0000" channel="ANTV.vision">
+<title>Bade Miyan Chote Miyan</title>
 </programme>
 <programme start="20251230060000 +0000" stop="20251230073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
@@ -495,6 +624,12 @@
 </programme>
 <programme start="20251231073000 +0000" stop="20251231110000 +0000" channel="ANTV.vision">
 <title>Singham Return</title>
+</programme>
+<programme start="20251231110000 +0000" stop="20251231123000 +0000" channel="ANTV.vision">
+<title>Senandung Cinta Lilis</title>
+</programme>
+<programme start="20251229230000 +0000" stop="20251230010000 +0000" channel="RTV.vision">
+<title>Bread Barbershop</title>
 </programme>
 <programme start="20251230010000 +0000" stop="20251230023000 +0000" channel="RTV.vision">
 <title>Boonie Bear: Guardian Code</title>
@@ -691,11 +826,44 @@
 <programme start="20251231110000 +0000" stop="20251231125700 +0000" channel="TVOne.vision">
 <title>Apa Kabar Indonesia Malam (L)</title>
 </programme>
+<programme start="20251230000000 +0000" stop="20251230023000 +0000" channel="Kompas TV.vision">
+<title>Sapa Indonesia Pagi</title>
+</programme>
 <programme start="20251230023000 +0000" stop="20251230030000 +0000" channel="Kompas TV.vision">
 <title>Newsroom Rewind 2025</title>
 </programme>
+<programme start="20251230030000 +0000" stop="20251230033000 +0000" channel="Kompas TV.vision">
+<title>Berita Utama</title>
+</programme>
+<programme start="20251230033000 +0000" stop="20251230040000 +0000" channel="Kompas TV.vision">
+<title>Borgol</title>
+</programme>
+<programme start="20251230040000 +0000" stop="20251230060000 +0000" channel="Kompas TV.vision">
+<title>Kompas Siang</title>
+</programme>
+<programme start="20251230060000 +0000" stop="20251230070000 +0000" channel="Kompas TV.vision">
+<title>Sapa Indonesia Siang</title>
+</programme>
 <programme start="20251230070000 +0000" stop="20251230073000 +0000" channel="Kompas TV.vision">
 <title>News Or Hoax</title>
+</programme>
+<programme start="20251230073000 +0000" stop="20251230080000 +0000" channel="Kompas TV.vision">
+<title>Jurnal Merah Putih</title>
+</programme>
+<programme start="20251230080000 +0000" stop="20251230083000 +0000" channel="Kompas TV.vision">
+<title>Indonesia Update</title>
+</programme>
+<programme start="20251230083000 +0000" stop="20251230090000 +0000" channel="Kompas TV.vision">
+<title>Borgol</title>
+</programme>
+<programme start="20251230090000 +0000" stop="20251230103000 +0000" channel="Kompas TV.vision">
+<title>Kompas Petang</title>
+</programme>
+<programme start="20251230103000 +0000" stop="20251230123000 +0000" channel="Kompas TV.vision">
+<title>Sapa Indonesia Malam</title>
+</programme>
+<programme start="20251230123000 +0000" stop="20251230133000 +0000" channel="Kompas TV.vision">
+<title>Berita Utama</title>
 </programme>
 <programme start="20251230133000 +0000" stop="20251230143000 +0000" channel="Kompas TV.vision">
 <title>Kompas Malam</title>
@@ -1329,172 +1497,4 @@
 </programme>
 <programme start="20251231094500 +0000" stop="20251231100000 +0000" channel="DAAI TV.vision">
 <title>Pinocchio &amp; Friends</title>
-</programme>
-<programme start="20251231100000 +0000" stop="20251231103000 +0000" channel="DAAI TV.vision">
-<title>Clifford</title>
-</programme>
-<programme start="20251231103000 +0000" stop="20251231110000 +0000" channel="DAAI TV.vision">
-<title>Darwin &amp; Newts</title>
-</programme>
-<programme start="20251231110000 +0000" stop="20251231113000 +0000" channel="DAAI TV.vision">
-<title>Dr. Panda</title>
-</programme>
-<programme start="20251231113000 +0000" stop="20251231120000 +0000" channel="DAAI TV.vision">
-<title>Cerita Dan Rasa</title>
-</programme>
-<programme start="20251230000000 +0000" stop="20251230010500 +0000" channel="MDTV.vision">
-<title>AADD: Ada Apa Dengan Dunia</title>
-</programme>
-<programme start="20251230010500 +0000" stop="20251230015000 +0000" channel="MDTV.vision">
-<title>Fakta +62</title>
-</programme>
-<programme start="20251230015000 +0000" stop="20251230024500 +0000" channel="MDTV.vision">
-<title>Sensasihot</title>
-</programme>
-<programme start="20251230024500 +0000" stop="20251230035000 +0000" channel="MDTV.vision">
-<title>Rosalinda</title>
-</programme>
-<programme start="20251230035000 +0000" stop="20251230051000 +0000" channel="MDTV.vision">
-<title>Cerita Nyata</title>
-</programme>
-<programme start="20251230051000 +0000" stop="20251230070500 +0000" channel="MDTV.vision">
-<title>Cinta Fitri S5</title>
-</programme>
-<programme start="20251230070500 +0000" stop="20251230080000 +0000" channel="MDTV.vision">
-<title>Makan Enak</title>
-</programme>
-<programme start="20251230080000 +0000" stop="20251230090000 +0000" channel="MDTV.vision">
-<title>Masak Gesss!!!</title>
-</programme>
-<programme start="20251230090000 +0000" stop="20251230100500 +0000" channel="MDTV.vision">
-<title>Adit Sopo Jarwo</title>
-</programme>
-<programme start="20251230100500 +0000" stop="20251230105000 +0000" channel="MDTV.vision">
-<title>Cinta Paulina</title>
-</programme>
-<programme start="20251230105000 +0000" stop="20251230114500 +0000" channel="MDTV.vision">
-<title>Maria Cinta Yang Hilang</title>
-</programme>
-<programme start="20251230114500 +0000" stop="20251230123000 +0000" channel="MDTV.vision">
-<title>Maria Mercedes</title>
-</programme>
-<programme start="20251230123000 +0000" stop="20251230133000 +0000" channel="MDTV.vision">
-<title>Pernikahan Dini Gen Z</title>
-</programme>
-<programme start="20251230133000 +0000" stop="20251230142000 +0000" channel="MDTV.vision">
-<title>Ipar Adalah Maut: The Series</title>
-</programme>
-<programme start="20251230142000 +0000" stop="20251230150500 +0000" channel="MDTV.vision">
-<title>My Lecturer My Husband S1</title>
-</programme>
-<programme start="20251230150500 +0000" stop="20251230162000 +0000" channel="MDTV.vision">
-<title>True Beauty</title>
-</programme>
-<programme start="20251230162000 +0000" stop="20251230173000 +0000" channel="MDTV.vision">
-<title>Eve</title>
-</programme>
-<programme start="20251230173000 +0000" stop="20251230184500 +0000" channel="MDTV.vision">
-<title>Jatanras</title>
-</programme>
-<programme start="20251230184500 +0000" stop="20251230193000 +0000" channel="MDTV.vision">
-<title>86</title>
-</programme>
-<programme start="20251230193000 +0000" stop="20251230202500 +0000" channel="MDTV.vision">
-<title>Inilah Kisahnya</title>
-</programme>
-<programme start="20251230202500 +0000" stop="20251230213000 +0000" channel="MDTV.vision">
-<title>Di Balik Mitos</title>
-</programme>
-<programme start="20251230213000 +0000" stop="20251230222000 +0000" channel="MDTV.vision">
-<title>Keajaiban Dunia</title>
-</programme>
-<programme start="20251230222000 +0000" stop="20251230231000 +0000" channel="MDTV.vision">
-<title>Top Spot</title>
-</programme>
-<programme start="20251230231000 +0000" stop="20251231000000 +0000" channel="MDTV.vision">
-<title>Adit Sopo Jarwo</title>
-</programme>
-<programme start="20251231000000 +0000" stop="20251231010500 +0000" channel="MDTV.vision">
-<title>AADD: Ada Apa Dengan Dunia</title>
-</programme>
-<programme start="20251231010500 +0000" stop="20251231015000 +0000" channel="MDTV.vision">
-<title>Fakta +62</title>
-</programme>
-<programme start="20251231015000 +0000" stop="20251231024500 +0000" channel="MDTV.vision">
-<title>Sensasihot</title>
-</programme>
-<programme start="20251231024500 +0000" stop="20251231035000 +0000" channel="MDTV.vision">
-<title>Rosalinda</title>
-</programme>
-<programme start="20251231035000 +0000" stop="20251231051000 +0000" channel="MDTV.vision">
-<title>Cerita Nyata</title>
-</programme>
-<programme start="20251231051000 +0000" stop="20251231070500 +0000" channel="MDTV.vision">
-<title>Cinta Fitri S5</title>
-</programme>
-<programme start="20251231070500 +0000" stop="20251231080000 +0000" channel="MDTV.vision">
-<title>Makan Enak</title>
-</programme>
-<programme start="20251231080000 +0000" stop="20251231090000 +0000" channel="MDTV.vision">
-<title>Masak Gesss!!!</title>
-</programme>
-<programme start="20251231090000 +0000" stop="20251231100500 +0000" channel="MDTV.vision">
-<title>Adit Sopo Jarwo</title>
-</programme>
-<programme start="20251231100500 +0000" stop="20251231105000 +0000" channel="MDTV.vision">
-<title>Cinta Paulina</title>
-</programme>
-<programme start="20251231105000 +0000" stop="20251231114500 +0000" channel="MDTV.vision">
-<title>Maria Cinta Yang Hilang</title>
-</programme>
-<programme start="20251231114500 +0000" stop="20251231123000 +0000" channel="MDTV.vision">
-<title>Maria Mercedes</title>
-</programme>
-<programme start="20251230000000 +0000" stop="20251230020000 +0000" channel="JTV.vision">
-<title>JTV</title>
-</programme>
-<programme start="20251230020000 +0000" stop="20251230040000 +0000" channel="JTV.vision">
-<title>JTV</title>
-</programme>
-<programme start="20251230040000 +0000" stop="20251230060000 +0000" channel="JTV.vision">
-<title>JTV</title>
-</programme>
-<programme start="20251230060000 +0000" stop="20251230080000 +0000" channel="JTV.vision">
-<title>JTV</title>
-</programme>
-<programme start="20251230080000 +0000" stop="20251230100000 +0000" channel="JTV.vision">
-<title>JTV</title>
-</programme>
-<programme start="20251230100000 +0000" stop="20251230120000 +0000" channel="JTV.vision">
-<title>JTV</title>
-</programme>
-<programme start="20251230120000 +0000" stop="20251230140000 +0000" channel="JTV.vision">
-<title>JTV</title>
-</programme>
-<programme start="20251230140000 +0000" stop="20251230160000 +0000" channel="JTV.vision">
-<title>JTV</title>
-</programme>
-<programme start="20251230160000 +0000" stop="20251230180000 +0000" channel="JTV.vision">
-<title>JTV</title>
-</programme>
-<programme start="20251230180000 +0000" stop="20251230200000 +0000" channel="JTV.vision">
-<title>JTV</title>
-</programme>
-<programme start="20251230200000 +0000" stop="20251230220000 +0000" channel="JTV.vision">
-<title>JTV</title>
-</programme>
-<programme start="20251230220000 +0000" stop="20251231000000 +0000" channel="JTV.vision">
-<title>JTV</title>
-</programme>
-<programme start="20251231000000 +0000" stop="20251231020000 +0000" channel="JTV.vision">
-<title>JTV</title>
-</programme>
-<programme start="20251231020000 +0000" stop="20251231040000 +0000" channel="JTV.vision">
-<title>JTV</title>
-</programme>
-<programme start="20251231040000 +0000" stop="20251231060000 +0000" channel="JTV.vision">
-<title>JTV</title>
-</programme>
-<programme start="20251231060000 +0000" stop="20251231080000 +0000" channel="JTV.vision">
-<title>JTV</title>
 </programme>
