@@ -126,6 +126,10 @@
     <title>Football: SSC Napoli - Juventus Football Club</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260101065000 +0700" stop="20260101090000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: AEK - PAOK</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251231050000 +0700" stop="20251231070000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: APOEL - Freedom24 Krasava E.N.Y</title>
     <desc>Live: Tidak</desc>
@@ -238,8 +242,8 @@
     <title>Basketball: Cleveland Cavaliers - Phoenix Suns (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251231042000 +0700" stop="20251231052000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>MotoGP Classics</title>
+<programme start="20260101063000 +0700" stop="20260101083000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Napoli - Cantu</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251231052000 +0700" stop="20251231062000 +0700" channel="COSMOTE Sport 5 HD">
@@ -326,6 +330,10 @@
     <title>WRC</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260101060000 +0700" stop="20260101072000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: Moto3 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251231050000 +0700" stop="20251231080000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Fight Sports: UFC Fight Night 2025</title>
     <desc>Live: Tidak</desc>
@@ -382,12 +390,12 @@
     <title>Next Gen ATP Finals 2025 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251231050000 +0700" stop="20251231053000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
+<programme start="20260101060000 +0700" stop="20260101061500 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Sports Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251231053000 +0700" stop="20251231060000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
+<programme start="20260101061500 +0700" stop="20260101094000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>2025 Premier Padel Tour Finals</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251231060000 +0700" stop="20251231070000 +0700" channel="COSMOTE Sport 7 HD">

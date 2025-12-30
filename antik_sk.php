@@ -1006,7 +1006,7 @@
   <programme start="20260101222000 +0000" stop="20260101233000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">FIS Beh na lyžiach</title>
   </programme>
-  <programme start="20251231220500 +0000" stop="20260101025000 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20251231223000 +0000" stop="20260101025000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Parkúrové jazdectvo</title>
   </programme>
   <programme start="20260101025000 +0000" stop="20260101044500 +0000" channel="JOJ Šport 2.webtv.sk">
@@ -2461,10 +2461,10 @@
   <programme start="20260101151500 +0000" stop="20260101170000 +0000" channel="Šláger Originál.webtv.sk">
     <title lang="id">LATTÉ O PŮL PÁTÉ</title>
   </programme>
-  <programme start="20260101170000 +0000" stop="20260101193000 +0000" channel="Šláger Originál.webtv.sk">
+  <programme start="20260101170000 +0000" stop="20260101192000 +0000" channel="Šláger Originál.webtv.sk">
     <title lang="id">PODVEČERNÍ ZÁBAVA</title>
   </programme>
-  <programme start="20260101193000 +0000" stop="20260101230000 +0000" channel="Šláger Originál.webtv.sk">
+  <programme start="20260101192000 +0000" stop="20260101230000 +0000" channel="Šláger Originál.webtv.sk">
     <title lang="id">VEČERNÍ POŘAD</title>
   </programme>
   <programme start="20251231230000 +0000" stop="20260101070000 +0000" channel="Šláger Muzika.webtv.sk">
