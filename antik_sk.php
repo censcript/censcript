@@ -328,19 +328,19 @@
   <programme start="20260101232500 +0000" stop="20260101235000 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Hokej - Magazín NHL</title>
   </programme>
-  <programme start="20260101235000 +0000" stop="20260102000000 +0000" channel=":Šport.webtv.sk">
-    <title lang="id">Góly - body - sekundy</title>
+  <programme start="20260101235000 +0000" stop="20260101235500 +0000" channel=":Šport.webtv.sk">
+    <title lang="id">Návraty 2025</title>
   </programme>
-  <programme start="20260102000000 +0000" stop="20260102005000 +0000" channel=":Šport.webtv.sk">
+  <programme start="20260101235500 +0000" stop="20260102004500 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Správy</title>
   </programme>
-  <programme start="20260102005000 +0000" stop="20260102010000 +0000" channel=":Šport.webtv.sk">
+  <programme start="20260102004500 +0000" stop="20260102005500 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Góly - body - sekundy</title>
   </programme>
-  <programme start="20260102010000 +0000" stop="20260102015000 +0000" channel=":Šport.webtv.sk">
+  <programme start="20260102005500 +0000" stop="20260102014500 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Správy</title>
   </programme>
-  <programme start="20260102015000 +0000" stop="20260102020000 +0000" channel=":Šport.webtv.sk">
+  <programme start="20260102014500 +0000" stop="20260102020000 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Góly - body - sekundy</title>
   </programme>
   <programme start="20260102020000 +0000" stop="20260102025000 +0000" channel=":Šport.webtv.sk">
@@ -370,31 +370,31 @@
   <programme start="20260102060000 +0000" stop="20260102065000 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Správy</title>
   </programme>
-  <programme start="20260102065000 +0000" stop="20260102070500 +0000" channel=":Šport.webtv.sk">
+  <programme start="20260102065000 +0000" stop="20260102070000 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Góly - body - sekundy</title>
   </programme>
-  <programme start="20260102070500 +0000" stop="20260102084500 +0000" channel=":Šport.webtv.sk">
-    <title lang="id">Volejbal - MS 2025 klubov - MS klubov 2025 (ženy; Sao Paulo) - finále</title>
+  <programme start="20260102070000 +0000" stop="20260102084500 +0000" channel=":Šport.webtv.sk">
+    <title lang="id">Volejbal - MS 2025 klubov - MS klubov 2025 (ženy; Sao Paulo) - finále: Savino Del Bene Scandicci - Prosecco DOC Imoco Conegliano</title>
   </programme>
   <programme start="20260102084500 +0000" stop="20260102102500 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Hádzaná - Niké handball extraliga</title>
   </programme>
   <programme start="20260102102500 +0000" stop="20260102120500 +0000" channel=":Šport.webtv.sk">
-    <title lang="id">Volejbal - MS 2025 klubov - MS klubov 2025 (muži; Belém) - finále</title>
+    <title lang="id">Volejbal - MS 2025 klubov</title>
   </programme>
   <programme start="20260102120500 +0000" stop="20260102135500 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Biatlon - MS 2025</title>
   </programme>
-  <programme start="20260102135500 +0000" stop="20260102142500 +0000" channel=":Šport.webtv.sk">
+  <programme start="20260102135500 +0000" stop="20260102142000 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Paralympijský magazín</title>
   </programme>
-  <programme start="20260102142500 +0000" stop="20260102155500 +0000" channel=":Šport.webtv.sk">
+  <programme start="20260102142000 +0000" stop="20260102155500 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Tanečný šport</title>
   </programme>
-  <programme start="20260102155500 +0000" stop="20260102183000 +0000" channel=":Šport.webtv.sk">
+  <programme start="20260102155500 +0000" stop="20260102182500 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Futbal - ME 2025 do 21 rokov</title>
   </programme>
-  <programme start="20260102183000 +0000" stop="20260102185500 +0000" channel=":Šport.webtv.sk">
+  <programme start="20260102182500 +0000" stop="20260102185500 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Hokej - Magazín NHL</title>
   </programme>
   <programme start="20260102185500 +0000" stop="20260102205500 +0000" channel=":Šport.webtv.sk">
@@ -3634,40 +3634,40 @@
   <programme start="20260102044500 +0000" stop="20260102050000 +0000" channel="Prima SK.webtv.sk">
     <title lang="id">Vysielacia prestávka</title>
   </programme>
-  <programme start="20260102050000 +0000" stop="20260102053500 +0000" channel="Prima SK.webtv.sk">
+  <programme start="20260102050000 +0000" stop="20260102054500 +0000" channel="Prima SK.webtv.sk">
     <title lang="id">Klid pod hladinou</title>
   </programme>
-  <programme start="20260102053500 +0000" stop="20260102070000 +0000" channel="Prima SK.webtv.sk">
+  <programme start="20260102054500 +0000" stop="20260102071000 +0000" channel="Prima SK.webtv.sk">
     <title lang="id">Máme rádi Česko</title>
   </programme>
-  <programme start="20260102070000 +0000" stop="20260102075000 +0000" channel="Prima SK.webtv.sk">
+  <programme start="20260102071000 +0000" stop="20260102075500 +0000" channel="Prima SK.webtv.sk">
     <title lang="id">Receptář prima nápadů</title>
   </programme>
-  <programme start="20260102075000 +0000" stop="20260102082000 +0000" channel="Prima SK.webtv.sk">
+  <programme start="20260102075500 +0000" stop="20260102083000 +0000" channel="Prima SK.webtv.sk">
     <title lang="id">Vychytávky Ládi Hrušky</title>
   </programme>
-  <programme start="20260102082000 +0000" stop="20260102093500 +0000" channel="Prima SK.webtv.sk">
+  <programme start="20260102083000 +0000" stop="20260102094500 +0000" channel="Prima SK.webtv.sk">
     <title lang="id">VIP Prostřeno!</title>
   </programme>
-  <programme start="20260102093500 +0000" stop="20260102105000 +0000" channel="Prima SK.webtv.sk">
+  <programme start="20260102094500 +0000" stop="20260102110000 +0000" channel="Prima SK.webtv.sk">
     <title lang="id">Slnečná I (108)</title>
   </programme>
-  <programme start="20260102105000 +0000" stop="20260102115500 +0000" channel="Prima SK.webtv.sk">
+  <programme start="20260102110000 +0000" stop="20260102120000 +0000" channel="Prima SK.webtv.sk">
     <title lang="id">Modrý kód (35)</title>
   </programme>
-  <programme start="20260102115500 +0000" stop="20260102125000 +0000" channel="Prima SK.webtv.sk">
+  <programme start="20260102120000 +0000" stop="20260102130000 +0000" channel="Prima SK.webtv.sk">
     <title lang="id">Inkognito</title>
   </programme>
-  <programme start="20260102125000 +0000" stop="20260102140500 +0000" channel="Prima SK.webtv.sk">
+  <programme start="20260102130000 +0000" stop="20260102141500 +0000" channel="Prima SK.webtv.sk">
     <title lang="id">Slnečná I (109)</title>
   </programme>
-  <programme start="20260102140500 +0000" stop="20260102151500 +0000" channel="Prima SK.webtv.sk">
+  <programme start="20260102141500 +0000" stop="20260102152000 +0000" channel="Prima SK.webtv.sk">
     <title lang="id">Modrý kód (36)</title>
   </programme>
-  <programme start="20260102151500 +0000" stop="20260102164500 +0000" channel="Prima SK.webtv.sk">
+  <programme start="20260102152000 +0000" stop="20260102165000 +0000" channel="Prima SK.webtv.sk">
     <title lang="id">Máme rádi Česko</title>
   </programme>
-  <programme start="20260102164500 +0000" stop="20260102175500 +0000" channel="Prima SK.webtv.sk">
+  <programme start="20260102165000 +0000" stop="20260102175500 +0000" channel="Prima SK.webtv.sk">
     <title lang="id">VIP Prostřeno!</title>
   </programme>
   <programme start="20260102175500 +0000" stop="20260102190000 +0000" channel="Prima SK.webtv.sk">
@@ -4102,7 +4102,10 @@
   <programme start="20260102024500 +0000" stop="20260102031500 +0000" channel="Seznam.cz TV.webtv.sk">
     <title lang="id">Ušák Jaromíra Bosáka (80)</title>
   </programme>
-  <programme start="20260102031500 +0000" stop="20260102050000 +0000" channel="Seznam.cz TV.webtv.sk">
+  <programme start="20260102031500 +0000" stop="20260102032000 +0000" channel="Seznam.cz TV.webtv.sk">
+    <title lang="id">Ze dvora I (1)</title>
+  </programme>
+  <programme start="20260102032000 +0000" stop="20260102050000 +0000" channel="Seznam.cz TV.webtv.sk">
     <title lang="id">Mladý Vinnetou</title>
   </programme>
   <programme start="20260102050000 +0000" stop="20260102051500 +0000" channel="Seznam.cz TV.webtv.sk">
