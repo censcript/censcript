@@ -3004,6 +3004,69 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251231203000 +0000" stop="20251231233000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NBA: Phoenix Suns @ Cleveland Cavaliers</title>
 </programme>
+<programme start="20251230230000 +0000" stop="20251231050000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Sky Sport News: Nightline</title>
+</programme>
+<programme start="20251231050000 +0000" stop="20251231053000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Meine Geschichte: Das Leben von Oscar da Silva</title>
+</programme>
+<programme start="20251231053000 +0000" stop="20251231060000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Sky Sport News: Der Morgen</title>
+</programme>
+<programme start="20251231060000 +0000" stop="20251231063000 +0000" channel="Sky Sport News HD.skyde">
+    <title>PL: PL Stories (Bournemouth - Against All Odds)</title>
+</programme>
+<programme start="20251231063000 +0000" stop="20251231070000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Sky Sport News: Der Morgen</title>
+</programme>
+<programme start="20251231070000 +0000" stop="20251231080000 +0000" channel="Sky Sport News HD.skyde">
+    <title>BL: Mythos Borussia - Eine Legende wird 125 (Episode 1)</title>
+</programme>
+<programme start="20251231080000 +0000" stop="20251231090000 +0000" channel="Sky Sport News HD.skyde">
+    <title>BL: Mythos Borussia - Eine Legende wird 125 (Episode 2)</title>
+</programme>
+<programme start="20251231090000 +0000" stop="20251231093000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Sky Sport News: Der große Rückblick - Die Rekordjäger des FC Bayern</title>
+</programme>
+<programme start="20251231093000 +0000" stop="20251231100000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Sky Sport News: Auffe Süd Spezial - Der BVB-Rückblick</title>
+</programme>
+<programme start="20251231100000 +0000" stop="20251231110000 +0000" channel="Sky Sport News HD.skyde">
+    <title>BL: Hinrunden-Rückblick 2025/26</title>
+</programme>
+<programme start="20251231110000 +0000" stop="20251231140000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: Der Mittag</title>
+</programme>
+<programme start="20251231140000 +0000" stop="20251231160000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: Der Nachmittag</title>
+</programme>
+<programme start="20251231160000 +0000" stop="20251231174500 +0000" channel="Sky Sport News HD.skyde">
+    <title>Fußball: Der Kaiser</title>
+</programme>
+<programme start="20251231174500 +0000" stop="20251231180000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Bundesliga Collection: Die schönsten Tore: FC Bayern München</title>
+</programme>
+<programme start="20251231180000 +0000" stop="20251231183000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Sky Sport News: Guten Abend Fans!</title>
+</programme>
+<programme start="20251231183000 +0000" stop="20251231190000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Meine Geschichte: Das Leben von Boris Becker (Teil 1)</title>
+</programme>
+<programme start="20251231190000 +0000" stop="20251231193000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Meine Geschichte: Das Leben von Boris Becker (Teil 2)</title>
+</programme>
+<programme start="20251231193000 +0000" stop="20251231200000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Sky Sport News: Guten Abend Fans!</title>
+</programme>
+<programme start="20251231200000 +0000" stop="20251231210000 +0000" channel="Sky Sport News HD.skyde">
+    <title>BL: Hinrunden-Rückblick 2025/26</title>
+</programme>
+<programme start="20251231210000 +0000" stop="20251231213000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Sky Sport News: Guten Abend Fans!</title>
+</programme>
+<programme start="20251231213000 +0000" stop="20251231231000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Fußball: Rudi Völler - Es gibt nur einen</title>
+</programme>
 <programme start="20251230231500 +0000" stop="20251231011500 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: FC Burnley - Newcastle United, 19. Spieltag</title>
 </programme>
@@ -3268,7 +3331,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251231003000 +0000" stop="20251231010000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime</title>
 </programme>
-<programme start="20251231010000 +0000" stop="20251231090000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20251231010000 +0000" stop="20251231040500 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Philadelphia 76ers @ Memphis Grizzlies</title>
 </programme>
 <programme start="20251231174000 +0000" stop="20251231180000 +0000" channel="Sky Sport 1 HD.skyde">
