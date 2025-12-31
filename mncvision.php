@@ -4951,22 +4951,28 @@
 <programme start="20251231080000 +0000" stop="20251231093000 +0000" channel="iNews.mncvision">
     <title>Realita (L)</title>
 </programme>
-<programme start="20251231093000 +0000" stop="20251231120000 +0000" channel="iNews.mncvision">
+<programme start="20251231093000 +0000" stop="20251231113000 +0000" channel="iNews.mncvision">
     <title>iNews Sore (L)</title>
+</programme>
+<programme start="20251231113000 +0000" stop="20251231120000 +0000" channel="iNews.mncvision">
+    <title>Breaking News (L)</title>
 </programme>
 <programme start="20251231120000 +0000" stop="20251231130000 +0000" channel="iNews.mncvision">
     <title>iNews Room (L)</title>
 </programme>
-<programme start="20251231130000 +0000" stop="20251231145500 +0000" channel="iNews.mncvision">
+<programme start="20251231130000 +0000" stop="20251231144500 +0000" channel="iNews.mncvision">
     <title>Cahaya Hati Cahaya Indonesia</title>
 </programme>
-<programme start="20251231145500 +0000" stop="20251231151000 +0000" channel="iNews.mncvision">
+<programme start="20251231144500 +0000" stop="20251231151000 +0000" channel="iNews.mncvision">
     <title>Breaking News Tahun Baru (L)</title>
 </programme>
-<programme start="20251231151000 +0000" stop="20251231153500 +0000" channel="iNews.mncvision">
+<programme start="20251231151000 +0000" stop="20251231155000 +0000" channel="iNews.mncvision">
     <title>Cahaya Hati Cahaya Indonesia</title>
 </programme>
-<programme start="20251231153500 +0000" stop="20251231160500 +0000" channel="iNews.mncvision">
+<programme start="20251231155000 +0000" stop="20251231161500 +0000" channel="iNews.mncvision">
+    <title>Breaking News Tahun Baru (L)</title>
+</programme>
+<programme start="20251231161500 +0000" stop="20251231164500 +0000" channel="iNews.mncvision">
     <title>Breaking News Tahun Baru (L)</title>
 </programme>
 <programme start="20251230170000 +0000" stop="20251230183000 +0000" channel="iNews HD.mncvision">
@@ -5017,22 +5023,28 @@
 <programme start="20251231080000 +0000" stop="20251231093000 +0000" channel="iNews HD.mncvision">
     <title>Realita (L)</title>
 </programme>
-<programme start="20251231093000 +0000" stop="20251231120000 +0000" channel="iNews HD.mncvision">
+<programme start="20251231093000 +0000" stop="20251231113000 +0000" channel="iNews HD.mncvision">
     <title>iNews Sore (L)</title>
+</programme>
+<programme start="20251231113000 +0000" stop="20251231120000 +0000" channel="iNews HD.mncvision">
+    <title>Breaking News (L)</title>
 </programme>
 <programme start="20251231120000 +0000" stop="20251231130000 +0000" channel="iNews HD.mncvision">
     <title>iNews Room (L)</title>
 </programme>
-<programme start="20251231130000 +0000" stop="20251231145500 +0000" channel="iNews HD.mncvision">
+<programme start="20251231130000 +0000" stop="20251231144500 +0000" channel="iNews HD.mncvision">
     <title>Cahaya Hati Cahaya Indonesia</title>
 </programme>
-<programme start="20251231145500 +0000" stop="20251231151000 +0000" channel="iNews HD.mncvision">
+<programme start="20251231144500 +0000" stop="20251231151000 +0000" channel="iNews HD.mncvision">
     <title>Breaking News Tahun Baru (L)</title>
 </programme>
-<programme start="20251231151000 +0000" stop="20251231153500 +0000" channel="iNews HD.mncvision">
+<programme start="20251231151000 +0000" stop="20251231155000 +0000" channel="iNews HD.mncvision">
     <title>Cahaya Hati Cahaya Indonesia</title>
 </programme>
-<programme start="20251231153500 +0000" stop="20251231160500 +0000" channel="iNews HD.mncvision">
+<programme start="20251231155000 +0000" stop="20251231161500 +0000" channel="iNews HD.mncvision">
+    <title>Breaking News Tahun Baru (L)</title>
+</programme>
+<programme start="20251231161500 +0000" stop="20251231164500 +0000" channel="iNews HD.mncvision">
     <title>Breaking News Tahun Baru (L)</title>
 </programme>
 <programme start="20251230220000 +0000" stop="20251230223000 +0000" channel="JAKTV.mncvision">
