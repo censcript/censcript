@@ -170,6 +170,10 @@
     <title>Football: Lanus - Atletico Mineiro</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260101164000 +0700" stop="20260101190000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Palmeiras - Flamengo</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251231150000 +0700" stop="20251231170000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Armani Milano - Vanoli Cremona</title>
     <desc>Live: Tidak</desc>
@@ -228,14 +232,6 @@
 </programme>
 <programme start="20260101150000 +0700" stop="20260101173000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Cleveland Cavaliers - Phoenix Suns</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251231134000 +0700" stop="20251231152000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: MotoGP 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251231152000 +0700" stop="20251231155000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251231155000 +0700" stop="20251231164000 +0700" channel="COSMOTE Sport 5 HD">
@@ -318,8 +314,8 @@
     <title>2025 GT World Challenge Europe</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251231133000 +0700" stop="20251231153000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>2025 Premier Padel World Cup Pairs</title>
+<programme start="20260101160000 +0700" stop="20260101170000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251231153000 +0700" stop="20251231180000 +0700" channel="COSMOTE Sport 6 HD">
@@ -375,6 +371,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260101140000 +0700" stop="20260101163000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Best of Carlos Alcaraz</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260101163000 +0700" stop="20260101184500 +0700" channel="COSMOTE Sport 6 HD">
     <title>Best of Carlos Alcaraz</title>
     <desc>Live: Tidak</desc>
 </programme>

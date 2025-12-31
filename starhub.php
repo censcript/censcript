@@ -589,9 +589,6 @@
     <programme start="20251230200000 +0000" stop="20251230203000 +0000" channel="Arirang TV HD.starhub">
         <title>Talk Room</title>
     </programme>
-    <programme start="20251230203000 +0000" stop="20251230210000 +0000" channel="Arirang TV HD.starhub">
-        <title>K-Food Class</title>
-    </programme>
     <programme start="20251230210000 +0000" stop="20251230213000 +0000" channel="Arirang TV HD.starhub">
         <title>Press Perspective</title>
     </programme>
@@ -659,7 +656,7 @@
         <title>The Kulture Wave [L]</title>
     </programme>
     <programme start="20251231053000 +0000" stop="20251231060000 +0000" channel="Arirang TV HD.starhub">
-        <title>News Generation</title>
+        <title>News Generation [R]</title>
     </programme>
     <programme start="20251231060000 +0000" stop="20251231063000 +0000" channel="Arirang TV HD.starhub">
         <title>K-Food Class</title>
@@ -698,10 +695,10 @@
         <title>Newscenter</title>
     </programme>
     <programme start="20251231113000 +0000" stop="20251231120000 +0000" channel="Arirang TV HD.starhub">
-        <title>Within The Frame [L]</title>
+        <title>Within The Frame [R]</title>
     </programme>
     <programme start="20251231120000 +0000" stop="20251231123000 +0000" channel="Arirang TV HD.starhub">
-        <title>The Kulture Wave</title>
+        <title>The Kulture Wave [R]</title>
     </programme>
     <programme start="20251231123000 +0000" stop="20251231125000 +0000" channel="Arirang TV HD.starhub">
         <title>1day 1k-Culture: K-Story</title>
