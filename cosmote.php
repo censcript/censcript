@@ -174,10 +174,6 @@
     <title>Football: SC Braga - SL Benfica</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251231170000 +0700" stop="20251231193000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Memphis Grizzlies - Philadelphia 76ers</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251231193000 +0700" stop="20251231213000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Turk Telekom - Anadolu Efes</title>
     <desc>Live: Tidak</desc>
@@ -234,8 +230,8 @@
     <title>Basketball: Charlotte Hornets - Golden State Warriors</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251231180000 +0700" stop="20251231191000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>MotoGP Classics</title>
+<programme start="20260101200000 +0700" stop="20260101220000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Unicaja - Karditsa</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251231191000 +0700" stop="20251231205000 +0700" channel="COSMOTE Sport 5 HD">
@@ -316,6 +312,10 @@
 </programme>
 <programme start="20260101192000 +0700" stop="20260101204500 +0700" channel="COSMOTE Sport 5 HD">
     <title>Motorsports: Moto2 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260101204500 +0700" stop="20260101221000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: MotoGP 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251231180000 +0700" stop="20251231203000 +0700" channel="COSMOTE Sport 6 HD">
