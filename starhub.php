@@ -559,17 +559,14 @@
     <programme start="20251231153000 +0000" stop="20251231160000 +0000" channel="FashionTV HD.starhub">
         <title>Top Photoshoots</title>
     </programme>
-    <programme start="20251230160000 +0000" stop="20251230163000 +0000" channel="Arirang TV HD.starhub">
-        <title>K-Food Class</title>
-    </programme>
     <programme start="20251230163000 +0000" stop="20251230170000 +0000" channel="Arirang TV HD.starhub">
         <title>Decoded: The Ai Conversations</title>
     </programme>
     <programme start="20251230170000 +0000" stop="20251230173000 +0000" channel="Arirang TV HD.starhub">
-        <title>The Kulture Wave</title>
+        <title>The Kulture Wave [R]</title>
     </programme>
     <programme start="20251230173000 +0000" stop="20251230180000 +0000" channel="Arirang TV HD.starhub">
-        <title>Within The Frame</title>
+        <title>Within The Frame [R]</title>
     </programme>
     <programme start="20251230180000 +0000" stop="20251230181500 +0000" channel="Arirang TV HD.starhub">
         <title>1day 1k-Culture: K-People</title>
@@ -589,8 +586,11 @@
     <programme start="20251230200000 +0000" stop="20251230203000 +0000" channel="Arirang TV HD.starhub">
         <title>Talk Room</title>
     </programme>
+    <programme start="20251230203000 +0000" stop="20251230210000 +0000" channel="Arirang TV HD.starhub">
+        <title>K-Food Class</title>
+    </programme>
     <programme start="20251230210000 +0000" stop="20251230213000 +0000" channel="Arirang TV HD.starhub">
-        <title>Press Perspective</title>
+        <title>Press Perspective [R]</title>
     </programme>
     <programme start="20251230213000 +0000" stop="20251230215000 +0000" channel="Arirang TV HD.starhub">
         <title>Korea Travelogue 4</title>
