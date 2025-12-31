@@ -421,32 +421,8 @@
     <programme start="20251231140000 +0000" stop="20251231170000 +0000" channel="Vasantham.mewatch">
         <title>Ace</title>
     </programme>
-    <programme start="20251230160000 +0000" stop="20251230160300 +0000" channel="CNA.mewatch">
+    <programme start="20251230160000 +0000" stop="20251230220000 +0000" channel="CNA.mewatch">
         <title>Headline News</title>
-    </programme>
-    <programme start="20251230160300 +0000" stop="20251230170000 +0000" channel="CNA.mewatch">
-        <title>No Ordinary Rescue S2 - EP 3</title>
-    </programme>
-    <programme start="20251230170000 +0000" stop="20251230180000 +0000" channel="CNA.mewatch">
-        <title>The Year In Review 2025: Singapore</title>
-    </programme>
-    <programme start="20251230180000 +0000" stop="20251230183000 +0000" channel="CNA.mewatch">
-        <title>Singapore Tonight</title>
-    </programme>
-    <programme start="20251230183000 +0000" stop="20251230190000 +0000" channel="CNA.mewatch">
-        <title>Sour, Salty &amp; Alive - EP 5</title>
-    </programme>
-    <programme start="20251230190000 +0000" stop="20251230200000 +0000" channel="CNA.mewatch">
-        <title>The Year Ahead 2026: World</title>
-    </programme>
-    <programme start="20251230200000 +0000" stop="20251230203000 +0000" channel="CNA.mewatch">
-        <title>Asia Tonight</title>
-    </programme>
-    <programme start="20251230203000 +0000" stop="20251230210000 +0000" channel="CNA.mewatch">
-        <title>Byte The Habit - EP 3</title>
-    </programme>
-    <programme start="20251230210000 +0000" stop="20251230220000 +0000" channel="CNA.mewatch">
-        <title>Limitless S2 - EP 3</title>
     </programme>
     <programme start="20251230220000 +0000" stop="20251230223000 +0000" channel="CNA.mewatch">
         <title>Singapore Tonight</title>

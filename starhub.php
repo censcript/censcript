@@ -1519,7 +1519,7 @@
     <programme start="20251231123000 +0000" stop="20251231140000 +0000" channel="COLORS Tamil HD.starhub">
         <title>Bigg Boss Unseen</title>
     </programme>
-    <programme start="20251231140000 +0000" stop="20251231160000 +0000" channel="COLORS Tamil HD.starhub">
+    <programme start="20251231140000 +0000" stop="20251231170000 +0000" channel="COLORS Tamil HD.starhub">
         <title>Writer</title>
     </programme>
     <programme start="20251230160000 +0000" stop="20251230180000 +0000" channel="TVBS Asia.starhub">
@@ -2738,7 +2738,7 @@
         <title>Malli</title>
     </programme>
     <programme start="20251231153000 +0000" stop="20251231160000 +0000" channel="Sun TV.starhub">
-        <title>ANANDARAGAM - Serial</title>
+        <title>Movie- RAANGI</title>
     </programme>
     <programme start="20251230160000 +0000" stop="20251230170000 +0000" channel="Zee Tamil.starhub">
         <title>Mahasangamam Veera And Chinnanchiru Kiliye</title>
@@ -7753,7 +7753,10 @@
     <programme start="20251230232000 +0000" stop="20251231013000 +0000" channel="Asianet Movies.starhub">
         <title>Pachuvum Kovalanum</title>
     </programme>
-    <programme start="20251231013000 +0000" stop="20251231043000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251231013000 +0000" stop="20251231015500 +0000" channel="Asianet Movies.starhub">
+        <title>Chirikkum Thalika</title>
+    </programme>
+    <programme start="20251231015500 +0000" stop="20251231043000 +0000" channel="Asianet Movies.starhub">
         <title>Ohm Shanthi Oshaana</title>
     </programme>
     <programme start="20251231043000 +0000" stop="20251231073000 +0000" channel="Asianet Movies.starhub">

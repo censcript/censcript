@@ -3337,7 +3337,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251231174000 +0000" stop="20251231180000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: LIVE Basketball NBA</title>
 </programme>
-<programme start="20251231180000 +0000" stop="20251231223000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20251231180000 +0000" stop="20251231203000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Golden State Warriors @ Charlotte Hornets</title>
 </programme>
 <programme start="20251231002500 +0000" stop="20251231022500 +0000" channel="SYFY HD.skyde">
