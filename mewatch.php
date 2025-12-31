@@ -784,11 +784,8 @@
     <programme start="20251231140000 +0000" stop="20251231150000 +0000" channel="Live 1.mewatch">
         <title>Let&#039;s Celebrate 2026 - Part One</title>
     </programme>
-    <programme start="20251231150000 +0000" stop="20251231160000 +0000" channel="Live 1.mewatch">
+    <programme start="20251231150000 +0000" stop="20251231161500 +0000" channel="Live 1.mewatch">
         <title>Let&#039;s Celebrate 2026 - Part Two</title>
-    </programme>
-    <programme start="20251231160000 +0000" stop="20251231161500 +0000" channel="Live 1.mewatch">
-        <title>No programme available now. Next broadcast on 1st January, Thursday 7pm. The Wonder Shop Home Shopping</title>
     </programme>
     <programme start="20251230160000 +0000" stop="20251231160000 +0000" channel="Live 2.mewatch">
         <title>No programme streaming LIVE at this moment</title>
