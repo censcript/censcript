@@ -563,7 +563,7 @@
     <title>NewsCenter</title>
 </programme>
 <programme start="20251231113000 +0000" stop="20251231120000 +0000" channel="Arirang.mncvision">
-    <title>Within The Frame (L)</title>
+    <title>Within The Frame</title>
 </programme>
 <programme start="20251231120000 +0000" stop="20251231123000 +0000" channel="Arirang.mncvision">
     <title>The Kulture Wave</title>

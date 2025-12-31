@@ -54,10 +54,6 @@
     <title>Football: PFC Ludogorets 1945 - PAOK</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251231113000 +0700" stop="20251231135500 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Levadiakos - PAOK</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251231135500 +0700" stop="20251231161000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Panathinaikos - Olympiacos</title>
     <desc>Live: Tidak</desc>
@@ -234,8 +230,8 @@
     <title>NBA Specials: Basketball Stories</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251231120000 +0700" stop="20251231134000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: MotoGP 2025</title>
+<programme start="20260101143000 +0700" stop="20260101150000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>ACB Liga Endesa 2025-26 - Fifth Quarter E12</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251231134000 +0700" stop="20251231152000 +0700" channel="COSMOTE Sport 5 HD">
@@ -322,10 +318,6 @@
     <title>Motorsports: MotoGP 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251231124000 +0700" stop="20251231133000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Sports Classics: 2025 Outdoor Specials</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251231133000 +0700" stop="20251231153000 +0700" channel="COSMOTE Sport 6 HD">
     <title>2025 Premier Padel World Cup Pairs</title>
     <desc>Live: Tidak</desc>
@@ -380,6 +372,10 @@
 </programme>
 <programme start="20260101130000 +0700" stop="20260101140000 +0700" channel="COSMOTE Sport 6 HD">
     <title>ATP 2025 - Review</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260101140000 +0700" stop="20260101163000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Best of Carlos Alcaraz</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251231130000 +0700" stop="20251231150000 +0700" channel="COSMOTE Sport 7 HD">
