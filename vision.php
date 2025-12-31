@@ -610,9 +610,6 @@
 <programme start="20251231110000 +0000" stop="20251231123000 +0000" channel="ANTV.vision">
 <title>Senandung Cinta Lilis</title>
 </programme>
-<programme start="20251231123000 +0000" stop="20251231143000 +0000" channel="ANTV.vision">
-<title>Saya Suka Kamu Punya</title>
-</programme>
 <programme start="20251231143000 +0000" stop="20251231180000 +0000" channel="ANTV.vision">
 <title>Pathan</title>
 </programme>
@@ -762,9 +759,6 @@
 </programme>
 <programme start="20251231125700 +0000" stop="20251231130000 +0000" channel="TVOne.vision">
 <title>Kabar Terkini</title>
-</programme>
-<programme start="20251231130000 +0000" stop="20251231150000 +0000" channel="TVOne.vision">
-<title>Indonesia Berdzikir (L)</title>
 </programme>
 <programme start="20251231150000 +0000" stop="20251231170000 +0000" channel="TVOne.vision">
 <title>Indonesia Menyambut 2026 (L)</title>
@@ -1348,31 +1342,34 @@
 <programme start="20260101110000 +0000" stop="20260101130000 +0000" channel="BTV.vision">
 <title>Berita Satu Utama</title>
 </programme>
-<programme start="20251230230000 +0000" stop="20251231010000 +0000" channel="TVRI.vision">
+<programme start="20251231170000 +0000" stop="20251231190000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
-<programme start="20251231010000 +0000" stop="20251231030000 +0000" channel="TVRI.vision">
+<programme start="20251231190000 +0000" stop="20251231210000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
-<programme start="20251231030000 +0000" stop="20251231050000 +0000" channel="TVRI.vision">
+<programme start="20251231210000 +0000" stop="20251231230000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
-<programme start="20251231050000 +0000" stop="20251231070000 +0000" channel="TVRI.vision">
+<programme start="20251231230000 +0000" stop="20260101010000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
-<programme start="20251231070000 +0000" stop="20251231090000 +0000" channel="TVRI.vision">
+<programme start="20260101010000 +0000" stop="20260101030000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
-<programme start="20251231090000 +0000" stop="20251231110000 +0000" channel="TVRI.vision">
+<programme start="20260101030000 +0000" stop="20260101050000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
-<programme start="20251231110000 +0000" stop="20251231130000 +0000" channel="TVRI.vision">
+<programme start="20260101050000 +0000" stop="20260101070000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
-<programme start="20251231130000 +0000" stop="20251231150000 +0000" channel="TVRI.vision">
+<programme start="20260101070000 +0000" stop="20260101090000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
-<programme start="20251231150000 +0000" stop="20251231170000 +0000" channel="TVRI.vision">
+<programme start="20260101090000 +0000" stop="20260101110000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260101110000 +0000" stop="20260101130000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
 <programme start="20251231000000 +0000" stop="20251231003000 +0000" channel="DAAI TV.vision">
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20260101033000 +0000" stop="20260101040000 +0000" channel="DAAI TV.vision">
 <title>Vegetarian Kitchen</title>
+</programme>
+<programme start="20260101040000 +0000" stop="20260101050000 +0000" channel="DAAI TV.vision">
+<title>I Love You Mom</title>
 </programme>
