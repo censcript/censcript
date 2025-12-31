@@ -3331,7 +3331,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251231003000 +0000" stop="20251231010000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime</title>
 </programme>
-<programme start="20251231010000 +0000" stop="20251231040500 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20251231010000 +0000" stop="20251231090000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Philadelphia 76ers @ Memphis Grizzlies</title>
 </programme>
 <programme start="20251231174000 +0000" stop="20251231180000 +0000" channel="Sky Sport 1 HD.skyde">
