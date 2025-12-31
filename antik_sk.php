@@ -1036,25 +1036,25 @@
   <programme start="20260102004000 +0000" stop="20260102052000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">LIV Golf Tour</title>
   </programme>
-  <programme start="20260102052000 +0000" stop="20260102073000 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260102053000 +0000" stop="20260102074000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Futbal - Konferenčná liga</title>
   </programme>
-  <programme start="20260102073000 +0000" stop="20260102093000 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260102074000 +0000" stop="20260102094500 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Basketbal - Tipos SBL</title>
   </programme>
-  <programme start="20260102093000 +0000" stop="20260102103500 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260102094500 +0000" stop="20260102104500 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">FIS Beh na lyžiach</title>
   </programme>
-  <programme start="20260102103500 +0000" stop="20260102114500 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260102104500 +0000" stop="20260102114000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">FIS Beh na lyžiach</title>
   </programme>
-  <programme start="20260102114500 +0000" stop="20260102133500 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260102114000 +0000" stop="20260102132000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">FIS Svetový pohár Super G muži</title>
   </programme>
-  <programme start="20260102133500 +0000" stop="20260102161500 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260102132000 +0000" stop="20260102154500 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">IIHF MS juniorov 2025</title>
   </programme>
-  <programme start="20260102161500 +0000" stop="20260102184000 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260102154500 +0000" stop="20260102184000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">IIHF MS juniorov 2025</title>
   </programme>
   <programme start="20260102184000 +0000" stop="20260102190000 +0000" channel="JOJ Šport.webtv.sk">
