@@ -58,12 +58,8 @@
     <title>Football: Sheffield United - Leicester City FC (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260101010000 +0700" stop="20260101013000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Serie A Full Impact 2024-25 E17</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260101013000 +0700" stop="20260101020000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Serie A Inside Serie A 2025-26 E18</title>
+<programme start="20260102023000 +0700" stop="20260102043000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: FC Internazionale Milano - Liverpool FC</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260101020000 +0700" stop="20260101023000 +0700" channel="COSMOTE Sport 2 HD">
@@ -120,6 +116,10 @@
 </programme>
 <programme start="20260102000000 +0700" stop="20260102022000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Olympiacos - Kifisia</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260102022000 +0700" stop="20260102043000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: AEK - OFI</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260101010000 +0700" stop="20260101050000 +0700" channel="COSMOTE Sport 3 HD">
@@ -230,6 +230,10 @@
     <title>Basketball: Cleveland Cavaliers - Phoenix Suns</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260102023000 +0700" stop="20260102050000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Charlotte Hornets - Golden State Warriors</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260101010000 +0700" stop="20260101023000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Best of MotoGP 2025</title>
     <desc>Live: Tidak</desc>
@@ -314,6 +318,10 @@
     <title>Best of MotoGP 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260102024000 +0700" stop="20260102042000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Best of MotoGP 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260101000000 +0700" stop="20260101021500 +0700" channel="COSMOTE Sport 6 HD">
     <title>Volleyball: Ziraat Bankasi SK Ankara - Tours VB</title>
     <desc>Live: Tidak</desc>
@@ -375,6 +383,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260102004500 +0700" stop="20260102024500 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Best of Carlos Alcaraz</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260102024500 +0700" stop="20260102042500 +0700" channel="COSMOTE Sport 6 HD">
     <title>Best of Carlos Alcaraz</title>
     <desc>Live: Tidak</desc>
 </programme>
