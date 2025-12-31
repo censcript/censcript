@@ -54,6 +54,10 @@
     <title>Football: FC Internazionale Milano - Liverpool FC</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260102043000 +0700" stop="20260102063000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: FC Barcelona - Eintracht Frankfurt</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260101030000 +0700" stop="20260101050000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: SSC Napoli - FC Internazionale Milano</title>
     <desc>Live: Tidak</desc>
@@ -104,6 +108,10 @@
 </programme>
 <programme start="20260102022000 +0700" stop="20260102043000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: AEK - OFI</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260102043000 +0700" stop="20260102050000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Serie A Inside Serie A 2025-26 E18</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260101010000 +0700" stop="20260101050000 +0700" channel="COSMOTE Sport 3 HD">
@@ -166,12 +174,8 @@
     <title>Emirates FA Cup 2025-26 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260101010000 +0700" stop="20260101031000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Murcia - Real Madrid</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260101031000 +0700" stop="20260101033000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>ACB Liga Endesa 2025-26 - Fifth Quarter E12</title>
+<programme start="20260102045500 +0700" stop="20260102065500 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Sheffield United - Leicester City FC</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260101033000 +0700" stop="20260101063000 +0700" channel="COSMOTE Sport 4 HD">
@@ -224,10 +228,6 @@
 </programme>
 <programme start="20260102023000 +0700" stop="20260102050000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Charlotte Hornets - Golden State Warriors</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260101023000 +0700" stop="20260101040000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Best of MotoGP 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260101040000 +0700" stop="20260101050000 +0700" channel="COSMOTE Sport 5 HD">
@@ -310,6 +310,10 @@
     <title>Best of MotoGP 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260102042000 +0700" stop="20260102052000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>MotoGP Classics</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260101023000 +0700" stop="20260101050000 +0700" channel="COSMOTE Sport 6 HD">
     <title>2025 Premier Padel Tour Finals</title>
     <desc>Live: Tidak</desc>
@@ -370,9 +374,9 @@
     <title>Best of Carlos Alcaraz</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260101010000 +0700" stop="20260101040000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>Basketball: Charlotte Hornets - Golden State Warriors (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20260102042500 +0700" stop="20260102073000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Best of Carlos Alcaraz</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260101040000 +0700" stop="20260101043000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>

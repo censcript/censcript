@@ -155,9 +155,12 @@
     <title lang="id">Medvedík Pompon II</title>
   </programme>
   <programme start="20260102175000 +0000" stop="20260102180000 +0000" channel="Dvojka.webtv.sk">
+    <title lang="id">Fidlibumove pokusy</title>
+  </programme>
+  <programme start="20260102180000 +0000" stop="20260102181000 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Rodinka líšok a jazvecov II</title>
   </programme>
-  <programme start="20260102180000 +0000" stop="20260102181500 +0000" channel="Dvojka.webtv.sk">
+  <programme start="20260102181000 +0000" stop="20260102181500 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Ernest a Celestína</title>
   </programme>
   <programme start="20260102181500 +0000" stop="20260102182500 +0000" channel="Dvojka.webtv.sk">
@@ -166,11 +169,8 @@
   <programme start="20260102182500 +0000" stop="20260102183500 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Zvládnem to!</title>
   </programme>
-  <programme start="20260102183500 +0000" stop="20260102184500 +0000" channel="Dvojka.webtv.sk">
+  <programme start="20260102183500 +0000" stop="20260102190000 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Zvládnem to!</title>
-  </programme>
-  <programme start="20260102184500 +0000" stop="20260102190000 +0000" channel="Dvojka.webtv.sk">
-    <title lang="id">Zázračný miniateliér</title>
   </programme>
   <programme start="20260102190000 +0000" stop="20260102190700 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Správy v slovenskom posunkovom jazyku</title>
