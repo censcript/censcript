@@ -523,9 +523,6 @@
 <programme start="20251230230000 +0000" stop="20251231003000 +0000" channel="ANTV.vision">
 <title>Takdir Cinta Layla</title>
 </programme>
-<programme start="20251231023000 +0000" stop="20251231060000 +0000" channel="ANTV.vision">
-<title>Kuch Kuch Hota Hai</title>
-</programme>
 <programme start="20251231060000 +0000" stop="20251231073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -1496,5 +1493,8 @@
 <title>Bali TV</title>
 </programme>
 <programme start="20251231050000 +0000" stop="20251231070000 +0000" channel="Bali TV.vision">
+<title>Bali TV</title>
+</programme>
+<programme start="20251231070000 +0000" stop="20251231090000 +0000" channel="Bali TV.vision">
 <title>Bali TV</title>
 </programme>
