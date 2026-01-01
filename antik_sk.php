@@ -1069,34 +1069,34 @@
   <programme start="20260102232000 +0000" stop="20260103041000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">LIV Golf Tour</title>
   </programme>
-  <programme start="20260103041000 +0000" stop="20260103053000 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260103041000 +0000" stop="20260103052500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Hokej – Zostrihy Tipsport ligy</title>
   </programme>
-  <programme start="20260103053000 +0000" stop="20260103064500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260103052500 +0000" stop="20260103064000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Krasokorčuľovanie ISU Grand Prix</title>
   </programme>
-  <programme start="20260103064500 +0000" stop="20260103074000 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260103064000 +0000" stop="20260103073500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Krasokorčuľovanie ISU Grand Prix</title>
   </programme>
-  <programme start="20260103074000 +0000" stop="20260103085000 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260103073500 +0000" stop="20260103084000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Krasokorčuľovanie ISU Grand Prix</title>
   </programme>
-  <programme start="20260103085000 +0000" stop="20260103111000 +0000" channel="JOJ Šport 2.webtv.sk">
-    <title lang="id">JOJŠPORT Slovenský pohár</title>
-  </programme>
-  <programme start="20260103111000 +0000" stop="20260103141000 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260103084000 +0000" stop="20260103111500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Spengler Cup</title>
   </programme>
-  <programme start="20260103141000 +0000" stop="20260103165000 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260103111500 +0000" stop="20260103134000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Hokej - Tipsport liga</title>
+  </programme>
+  <programme start="20260103134000 +0000" stop="20260103165000 +0000" channel="JOJ Šport 2.webtv.sk">
+    <title lang="id">FIS Beh na lyžiach</title>
   </programme>
   <programme start="20260103165000 +0000" stop="20260103192000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Basketbal - Tipos SBL</title>
   </programme>
-  <programme start="20260103192000 +0000" stop="20260103211500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260103192000 +0000" stop="20260103210500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">FIS Beh na lyžiach</title>
   </programme>
-  <programme start="20260103211500 +0000" stop="20260103230500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260103210500 +0000" stop="20260103231000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">FIS Beh na lyžiach</title>
   </programme>
   <programme start="20260102221500 +0000" stop="20260102232000 +0000" channel="WAU.webtv.sk">
