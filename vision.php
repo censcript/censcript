@@ -526,26 +526,8 @@
 <programme start="20260101033000 +0000" stop="20260101043000 +0000" channel="Trans 7.vision">
 <title>Big-Bang!</title>
 </programme>
-<programme start="20260101043000 +0000" stop="20260101063000 +0000" channel="Trans 7.vision">
-<title>Argantara</title>
-</programme>
-<programme start="20260101063000 +0000" stop="20260101083000 +0000" channel="Trans 7.vision">
-<title>Hello Salma</title>
-</programme>
-<programme start="20260101083000 +0000" stop="20260101110000 +0000" channel="Trans 7.vision">
-<title>KKN Di Desa Penari</title>
-</programme>
 <programme start="20260101110000 +0000" stop="20260101123000 +0000" channel="Trans 7.vision">
 <title>Arisan</title>
-</programme>
-<programme start="20260101123000 +0000" stop="20260101150000 +0000" channel="Trans 7.vision">
-<title>Ipar Adalah Maut</title>
-</programme>
-<programme start="20260101150000 +0000" stop="20260101173000 +0000" channel="Trans 7.vision">
-<title>Badarawuhi Di Desa Penari</title>
-</programme>
-<programme start="20260101173000 +0000" stop="20260101194500 +0000" channel="Trans 7.vision">
-<title>The Battleship Island</title>
 </programme>
 <programme start="20260101194500 +0000" stop="20260101213000 +0000" channel="Trans 7.vision">
 <title>Game Of Death</title>
@@ -580,23 +562,8 @@
 <programme start="20260102110000 +0000" stop="20260102133000 +0000" channel="Trans 7.vision">
 <title>Exhuma</title>
 </programme>
-<programme start="20260101003000 +0000" stop="20260101023000 +0000" channel="ANTV.vision">
-<title>Srigala</title>
-</programme>
-<programme start="20260101023000 +0000" stop="20260101060000 +0000" channel="ANTV.vision">
-<title>Happy New Year</title>
-</programme>
-<programme start="20260101073000 +0000" stop="20260101110000 +0000" channel="ANTV.vision">
-<title>Singham Again</title>
-</programme>
-<programme start="20260101123000 +0000" stop="20260101143000 +0000" channel="ANTV.vision">
-<title>Sudah Pasti Tahan</title>
-</programme>
 <programme start="20260101143000 +0000" stop="20260101180000 +0000" channel="ANTV.vision">
 <title>Jawan</title>
-</programme>
-<programme start="20260101180000 +0000" stop="20260101200000 +0000" channel="ANTV.vision">
-<title>Water Monster</title>
 </programme>
 <programme start="20260101200000 +0000" stop="20260101220000 +0000" channel="ANTV.vision">
 <title>Fly Me To Polaris</title>
@@ -1497,4 +1464,37 @@
 </programme>
 <programme start="20260101094500 +0000" stop="20260101100000 +0000" channel="DAAI TV.vision">
 <title>Pinocchio &amp; Friends</title>
+</programme>
+<programme start="20260101100000 +0000" stop="20260101103000 +0000" channel="DAAI TV.vision">
+<title>Clifford</title>
+</programme>
+<programme start="20260101103000 +0000" stop="20260101110000 +0000" channel="DAAI TV.vision">
+<title>Darwin &amp; Newts</title>
+</programme>
+<programme start="20260101110000 +0000" stop="20260101113000 +0000" channel="DAAI TV.vision">
+<title>Dr. Panda</title>
+</programme>
+<programme start="20260101113000 +0000" stop="20260101120000 +0000" channel="DAAI TV.vision">
+<title>Cerita Dan Rasa</title>
+</programme>
+<programme start="20260101120000 +0000" stop="20260101123000 +0000" channel="DAAI TV.vision">
+<title>Potret</title>
+</programme>
+<programme start="20260101123000 +0000" stop="20260101130000 +0000" channel="DAAI TV.vision">
+<title>Jelajah Budaya Tionghoa...</title>
+</programme>
+<programme start="20260101130000 +0000" stop="20260101140000 +0000" channel="DAAI TV.vision">
+<title>Halo Hengchun</title>
+</programme>
+<programme start="20260101140000 +0000" stop="20260101150000 +0000" channel="DAAI TV.vision">
+<title>I Love You Mom</title>
+</programme>
+<programme start="20260101150000 +0000" stop="20260101151500 +0000" channel="DAAI TV.vision">
+<title>Lentera Kehidupan</title>
+</programme>
+<programme start="20260101151500 +0000" stop="20260101153000 +0000" channel="DAAI TV.vision">
+<title>DAAI Inspirasi</title>
+</programme>
+<programme start="20260101153000 +0000" stop="20260101160000 +0000" channel="DAAI TV.vision">
+<title>Jelajah Budaya Tionghoa...</title>
 </programme>

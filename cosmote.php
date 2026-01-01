@@ -62,6 +62,14 @@
     <title>Game R1 S6 E19</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260103040000 +0700" stop="20260103043000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEFA Champions League Magazine 2024-25 E15</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260103043000 +0700" stop="20260103053000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Highlights: UEL &amp; UECL 2025-26</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260102022000 +0700" stop="20260102043000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: AEK - OFI</title>
     <desc>Live: Tidak</desc>
@@ -134,12 +142,8 @@
     <title>Football: Cagliari - AC Milan (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260102013000 +0700" stop="20260102033000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Sporting CP - Rio Ave</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260102033000 +0700" stop="20260102035500 +0700" channel="COSMOTE Sport 3 HD">
-    <title>William Hill Scottish Premiership - Highlights</title>
+<programme start="20260103044500 +0700" stop="20260103070500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Olympiacos - Kifisia</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260102035500 +0700" stop="20260102045500 +0700" channel="COSMOTE Sport 3 HD">
@@ -340,6 +344,10 @@
 </programme>
 <programme start="20260103024000 +0700" stop="20260103042000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Best of MotoGP 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260103042000 +0700" stop="20260103052000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>MotoGP Classics</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260102024500 +0700" stop="20260102042500 +0700" channel="COSMOTE Sport 6 HD">
