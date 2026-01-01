@@ -118,6 +118,10 @@
     <title>Football: Torino - Cagliari</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260102161500 +0700" stop="20260102181500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: AS Roma - Genoa</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260101133000 +0700" stop="20260101164000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Lanus - Atletico Mineiro</title>
     <desc>Live: Tidak</desc>
@@ -174,6 +178,10 @@
     <title>Football: Al Ettifaq FC - Al Nassr</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260102163000 +0700" stop="20260102183000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Blackburn Rovers - Wrexham</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260101150000 +0700" stop="20260101173000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Cleveland Cavaliers - Phoenix Suns</title>
     <desc>Live: Tidak</desc>
@@ -224,14 +232,6 @@
 </programme>
 <programme start="20260102150000 +0700" stop="20260102170000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Turk Telekom - Anadolu Efes</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260101133500 +0700" stop="20260101151000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: MotoGP 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260101151000 +0700" stop="20260101160000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>2025 GT World Challenge Europe</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260101160000 +0700" stop="20260101170000 +0700" channel="COSMOTE Sport 5 HD">
@@ -322,6 +322,10 @@
     <title>WRC</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260102163000 +0700" stop="20260102170000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260101140000 +0700" stop="20260101163000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Best of Carlos Alcaraz</title>
     <desc>Live: Tidak</desc>
@@ -400,6 +404,10 @@
 </programme>
 <programme start="20260102150000 +0700" stop="20260102160000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Next Gen ATP Finals 2025 - Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260102160000 +0700" stop="20260102170000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Nitto ATP Finals 2025 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260101150000 +0700" stop="20260101170000 +0700" channel="COSMOTE Sport 7 HD">
