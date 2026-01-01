@@ -3309,6 +3309,9 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260101221500 +0000" stop="20260102010000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>United Cup: T. Fritz (USA) - H. Hurkacz (POL), Finale 2025 in Sydney (AUS)</title>
 </programme>
+<programme start="20251231230000 +0000" stop="20251231233000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>NBA: Action</title>
+</programme>
 <programme start="20251231233000 +0000" stop="20260101000000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>NHL: On the Fly</title>
 </programme>
@@ -3372,10 +3375,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260101121500 +0000" stop="20260101141500 +0000" channel="Sky Sport UHD.skyde">
     <title>DFB-Pokal: Borussia Dortmund - Bayer Leverkusen, Achtelfinale</title>
 </programme>
-<programme start="20260101141500 +0000" stop="20260101161500 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20260101141500 +0000" stop="20260101162000 +0000" channel="Sky Sport UHD.skyde">
     <title>PL: FC Arsenal - Aston Villa, Match of the Week, 19. Spieltag</title>
 </programme>
-<programme start="20260101161500 +0000" stop="20260101172000 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20260101162000 +0000" stop="20260101172000 +0000" channel="Sky Sport UHD.skyde">
     <title>PL: Analyse</title>
 </programme>
 <programme start="20260101172000 +0000" stop="20260101195000 +0000" channel="Sky Sport UHD.skyde">
@@ -3393,7 +3396,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260101172000 +0000" stop="20260101195000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live PL: Crystal Palace - FC Fulham, 19. Spieltag</title>
 </programme>
-<programme start="20260101195000 +0000" stop="20260101220000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260101195000 +0000" stop="20260101223000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live PL: FC Brentford - Tottenham Hotspur, 19. Spieltag</title>
 </programme>
 <programme start="20251231231000 +0000" stop="20251231232000 +0000" channel="SYFY HD.skyde">

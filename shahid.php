@@ -583,6 +583,9 @@
     <programme start="20260101000000 +0000" stop="20260102235959 +0000" channel="946938.shahid">
         <title>TV guide is not available</title>
     </programme>
+    <programme start="20260101000000 +0000" stop="20260102235959 +0000" channel="49922763891977.shahid">
+        <title>TV guide is not available</title>
+    </programme>
     <programme start="20260101000000 +0000" stop="20260101014113 +0000" channel="989622.shahid">
         <title>Wesh Egram</title>
     </programme>
@@ -672,9 +675,6 @@
     </programme>
     <programme start="20260102225500 +0000" stop="20260102235959 +0000" channel="989622.shahid">
         <title>Khareg Ala El Qanoun</title>
-    </programme>
-    <programme start="20260101000000 +0000" stop="20260102235959 +0000" channel="49922763891977.shahid">
-        <title>TV guide is not available</title>
     </programme>
     <programme start="20260101000000 +0000" stop="20260102235959 +0000" channel="49923086914927.shahid">
         <title>TV guide is not available</title>
@@ -1108,78 +1108,6 @@
     <programme start="20260101000000 +0000" stop="20260102235959 +0000" channel="49923088781412.shahid">
         <title>TV guide is not available</title>
     </programme>
-    <programme start="20260101000000 +0000" stop="20260102235959 +0000" channel="946948.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260101000000 +0000" stop="20260101024700 +0000" channel="414449.shahid">
-        <title>Al Jalsa Helwa</title>
-    </programme>
-    <programme start="20260101024700 +0000" stop="20260101060000 +0000" channel="414449.shahid">
-        <title>Sabahkom Wanasah</title>
-    </programme>
-    <programme start="20260101060000 +0000" stop="20260101070300 +0000" channel="414449.shahid">
-        <title>Ala Al Bal</title>
-    </programme>
-    <programme start="20260101070300 +0000" stop="20260101120300 +0000" channel="414449.shahid">
-        <title>Ahbab</title>
-    </programme>
-    <programme start="20260101120300 +0000" stop="20260101130100 +0000" channel="414449.shahid">
-        <title>Ala Al Bal</title>
-    </programme>
-    <programme start="20260101130100 +0000" stop="20260101170100 +0000" channel="414449.shahid">
-        <title>Ahla Al Aghani</title>
-    </programme>
-    <programme start="20260101170100 +0000" stop="20260101185900 +0000" channel="414449.shahid">
-        <title>Ahla Al Hafalat</title>
-    </programme>
-    <programme start="20260101185900 +0000" stop="20260101230100 +0000" channel="414449.shahid">
-        <title>Al Jalsa Helwa</title>
-    </programme>
-    <programme start="20260101230100 +0000" stop="20260101231800 +0000" channel="414449.shahid">
-        <title>Al Jalsa Helwa</title>
-    </programme>
-    <programme start="20260101231800 +0000" stop="20260102030200 +0000" channel="414449.shahid">
-        <title>Al Jalsa Helwa</title>
-    </programme>
-    <programme start="20260102030200 +0000" stop="20260102031900 +0000" channel="414449.shahid">
-        <title>Sabahkom Wanasah</title>
-    </programme>
-    <programme start="20260102031900 +0000" stop="20260102061900 +0000" channel="414449.shahid">
-        <title>Sabahkom Wanasah</title>
-    </programme>
-    <programme start="20260102061900 +0000" stop="20260102070400 +0000" channel="414449.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260102070400 +0000" stop="20260102120400 +0000" channel="414449.shahid">
-        <title>Ahbab</title>
-    </programme>
-    <programme start="20260102120400 +0000" stop="20260102122400 +0000" channel="414449.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260102122400 +0000" stop="20260102130400 +0000" channel="414449.shahid">
-        <title>Ala Al Bal</title>
-    </programme>
-    <programme start="20260102130400 +0000" stop="20260102170400 +0000" channel="414449.shahid">
-        <title>Ahla Al Aghani</title>
-    </programme>
-    <programme start="20260102170400 +0000" stop="20260102171800 +0000" channel="414449.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260102171800 +0000" stop="20260102190900 +0000" channel="414449.shahid">
-        <title>Ahla Al Hafalat</title>
-    </programme>
-    <programme start="20260102190900 +0000" stop="20260102230900 +0000" channel="414449.shahid">
-        <title>Al Jalsa Helwa</title>
-    </programme>
-    <programme start="20260102230900 +0000" stop="20260102231800 +0000" channel="414449.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260102231800 +0000" stop="20260103000000 +0000" channel="414449.shahid">
-        <title>Al Jalsa Helwa</title>
-    </programme>
-    <programme start="20260103000000 +0000" stop="20260102235959 +0000" channel="414449.shahid">
-        <title>Ala Al Bal</title>
-    </programme>
     <programme start="20260101000000 +0000" stop="20260101000600 +0000" channel="387286.shahid">
         <title>Al Arabiya News</title>
     </programme>
@@ -1518,6 +1446,78 @@
     </programme>
     <programme start="20260103000000 +0000" stop="20260102235959 +0000" channel="387286.shahid">
         <title>Al Arabiya News</title>
+    </programme>
+    <programme start="20260101000000 +0000" stop="20260102235959 +0000" channel="946948.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260101000000 +0000" stop="20260101024700 +0000" channel="414449.shahid">
+        <title>Al Jalsa Helwa</title>
+    </programme>
+    <programme start="20260101024700 +0000" stop="20260101060000 +0000" channel="414449.shahid">
+        <title>Sabahkom Wanasah</title>
+    </programme>
+    <programme start="20260101060000 +0000" stop="20260101070300 +0000" channel="414449.shahid">
+        <title>Ala Al Bal</title>
+    </programme>
+    <programme start="20260101070300 +0000" stop="20260101120300 +0000" channel="414449.shahid">
+        <title>Ahbab</title>
+    </programme>
+    <programme start="20260101120300 +0000" stop="20260101130100 +0000" channel="414449.shahid">
+        <title>Ala Al Bal</title>
+    </programme>
+    <programme start="20260101130100 +0000" stop="20260101170100 +0000" channel="414449.shahid">
+        <title>Ahla Al Aghani</title>
+    </programme>
+    <programme start="20260101170100 +0000" stop="20260101185900 +0000" channel="414449.shahid">
+        <title>Ahla Al Hafalat</title>
+    </programme>
+    <programme start="20260101185900 +0000" stop="20260101230100 +0000" channel="414449.shahid">
+        <title>Al Jalsa Helwa</title>
+    </programme>
+    <programme start="20260101230100 +0000" stop="20260101231800 +0000" channel="414449.shahid">
+        <title>Al Jalsa Helwa</title>
+    </programme>
+    <programme start="20260101231800 +0000" stop="20260102030200 +0000" channel="414449.shahid">
+        <title>Al Jalsa Helwa</title>
+    </programme>
+    <programme start="20260102030200 +0000" stop="20260102031900 +0000" channel="414449.shahid">
+        <title>Sabahkom Wanasah</title>
+    </programme>
+    <programme start="20260102031900 +0000" stop="20260102061900 +0000" channel="414449.shahid">
+        <title>Sabahkom Wanasah</title>
+    </programme>
+    <programme start="20260102061900 +0000" stop="20260102070400 +0000" channel="414449.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260102070400 +0000" stop="20260102120400 +0000" channel="414449.shahid">
+        <title>Ahbab</title>
+    </programme>
+    <programme start="20260102120400 +0000" stop="20260102122400 +0000" channel="414449.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260102122400 +0000" stop="20260102130400 +0000" channel="414449.shahid">
+        <title>Ala Al Bal</title>
+    </programme>
+    <programme start="20260102130400 +0000" stop="20260102170400 +0000" channel="414449.shahid">
+        <title>Ahla Al Aghani</title>
+    </programme>
+    <programme start="20260102170400 +0000" stop="20260102171800 +0000" channel="414449.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260102171800 +0000" stop="20260102190900 +0000" channel="414449.shahid">
+        <title>Ahla Al Hafalat</title>
+    </programme>
+    <programme start="20260102190900 +0000" stop="20260102230900 +0000" channel="414449.shahid">
+        <title>Al Jalsa Helwa</title>
+    </programme>
+    <programme start="20260102230900 +0000" stop="20260102231800 +0000" channel="414449.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260102231800 +0000" stop="20260103000000 +0000" channel="414449.shahid">
+        <title>Al Jalsa Helwa</title>
+    </programme>
+    <programme start="20260103000000 +0000" stop="20260102235959 +0000" channel="414449.shahid">
+        <title>Ala Al Bal</title>
     </programme>
     <programme start="20260101000000 +0000" stop="20260102235959 +0000" channel="946946.shahid">
         <title>TV guide is not available</title>
@@ -2419,9 +2419,6 @@
     <programme start="20260102235534 +0000" stop="20260102235959 +0000" channel="992538.shahid">
         <title>El Le&#039;ba: Level El Wahsh Episode 19</title>
     </programme>
-    <programme start="20260101000000 +0000" stop="20260102235959 +0000" channel="1007223.shahid">
-        <title>TV guide is not available</title>
-    </programme>
     <programme start="20260101000000 +0000" stop="20260101003000 +0000" channel="995495.shahid">
         <title>Ketab Wa Mon&#039;ataf Season 2 Episode 1</title>
     </programme>
@@ -2629,194 +2626,8 @@
     <programme start="20260102233000 +0000" stop="20260102235959 +0000" channel="995495.shahid">
         <title>Carlito&#039;s Way</title>
     </programme>
-    <programme start="20260101000000 +0000" stop="20260101003052 +0000" channel="975435.shahid">
-        <title>Bab Al Hara Season 4 Episode 3</title>
-    </programme>
-    <programme start="20260101003052 +0000" stop="20260101011831 +0000" channel="975435.shahid">
-        <title>Bab Al Hara Season 4 Episode 4</title>
-    </programme>
-    <programme start="20260101011831 +0000" stop="20260101020847 +0000" channel="975435.shahid">
-        <title>Bab Al Hara Season 4 Episode 5</title>
-    </programme>
-    <programme start="20260101020847 +0000" stop="20260101025126 +0000" channel="975435.shahid">
-        <title>Bab Al Hara Season 4 Episode 6</title>
-    </programme>
-    <programme start="20260101025126 +0000" stop="20260101033844 +0000" channel="975435.shahid">
-        <title>Bab Al Hara Season 4 Episode 7</title>
-    </programme>
-    <programme start="20260101033844 +0000" stop="20260101042558 +0000" channel="975435.shahid">
-        <title>Bab Al Hara Season 4 Episode 8</title>
-    </programme>
-    <programme start="20260101042558 +0000" stop="20260101051119 +0000" channel="975435.shahid">
-        <title>Bab Al Hara Season 4 Episode 9</title>
-    </programme>
-    <programme start="20260101051119 +0000" stop="20260101055747 +0000" channel="975435.shahid">
-        <title>Bab Al Hara Season 4 Episode 10</title>
-    </programme>
-    <programme start="20260101055747 +0000" stop="20260101064420 +0000" channel="975435.shahid">
-        <title>Bab Al Hara Season 4 Episode 11</title>
-    </programme>
-    <programme start="20260101064420 +0000" stop="20260101073056 +0000" channel="975435.shahid">
-        <title>Bab Al Hara Season 4 Episode 12</title>
-    </programme>
-    <programme start="20260101073056 +0000" stop="20260101081827 +0000" channel="975435.shahid">
-        <title>Bab Al Hara Season 4 Episode 13</title>
-    </programme>
-    <programme start="20260101081827 +0000" stop="20260101090508 +0000" channel="975435.shahid">
-        <title>Bab Al Hara Season 4 Episode 14</title>
-    </programme>
-    <programme start="20260101090508 +0000" stop="20260101095213 +0000" channel="975435.shahid">
-        <title>Bab Al Hara Season 4 Episode 15</title>
-    </programme>
-    <programme start="20260101095213 +0000" stop="20260101103756 +0000" channel="975435.shahid">
-        <title>Bab Al Hara Season 4 Episode 16</title>
-    </programme>
-    <programme start="20260101103756 +0000" stop="20260101112340 +0000" channel="975435.shahid">
-        <title>Bab Al Hara Season 4 Episode 17</title>
-    </programme>
-    <programme start="20260101112340 +0000" stop="20260101120937 +0000" channel="975435.shahid">
-        <title>Bab Al Hara Season 4 Episode 18</title>
-    </programme>
-    <programme start="20260101120937 +0000" stop="20260101125451 +0000" channel="975435.shahid">
-        <title>Bab Al Hara Season 4 Episode 19</title>
-    </programme>
-    <programme start="20260101125451 +0000" stop="20260101134614 +0000" channel="975435.shahid">
-        <title>Bab Al Hara Season 4 Episode 20</title>
-    </programme>
-    <programme start="20260101134614 +0000" stop="20260101142651 +0000" channel="975435.shahid">
-        <title>Bab Al Hara Season 4 Episode 21</title>
-    </programme>
-    <programme start="20260101142651 +0000" stop="20260101151239 +0000" channel="975435.shahid">
-        <title>Bab Al Hara Season 4 Episode 22</title>
-    </programme>
-    <programme start="20260101151239 +0000" stop="20260101155931 +0000" channel="975435.shahid">
-        <title>Bab Al Hara Season 4 Episode 23</title>
-    </programme>
-    <programme start="20260101155931 +0000" stop="20260101164616 +0000" channel="975435.shahid">
-        <title>Bab Al Hara Season 4 Episode 24</title>
-    </programme>
-    <programme start="20260101164616 +0000" stop="20260101173215 +0000" channel="975435.shahid">
-        <title>Bab Al Hara Season 4 Episode 25</title>
-    </programme>
-    <programme start="20260101173215 +0000" stop="20260101181752 +0000" channel="975435.shahid">
-        <title>Bab Al Hara Season 4 Episode 26</title>
-    </programme>
-    <programme start="20260101181752 +0000" stop="20260101190347 +0000" channel="975435.shahid">
-        <title>Bab Al Hara Season 4 Episode 27</title>
-    </programme>
-    <programme start="20260101190347 +0000" stop="20260101195009 +0000" channel="975435.shahid">
-        <title>Bab Al Hara Season 4 Episode 28</title>
-    </programme>
-    <programme start="20260101195009 +0000" stop="20260101203655 +0000" channel="975435.shahid">
-        <title>Bab Al Hara Season 4 Episode 29</title>
-    </programme>
-    <programme start="20260101203655 +0000" stop="20260101212403 +0000" channel="975435.shahid">
-        <title>Bab Al Hara Season 4 Episode 30</title>
-    </programme>
-    <programme start="20260101212403 +0000" stop="20260101221452 +0000" channel="975435.shahid">
-        <title>Bab Al Hara Season 5 Episode 1</title>
-    </programme>
-    <programme start="20260101221452 +0000" stop="20260101230042 +0000" channel="975435.shahid">
-        <title>Bab Al Hara Season 5 Episode 2</title>
-    </programme>
-    <programme start="20260101230042 +0000" stop="20260101234623 +0000" channel="975435.shahid">
-        <title>Bab Al Hara Season 5 Episode 3</title>
-    </programme>
-    <programme start="20260101234623 +0000" stop="20260102003612 +0000" channel="975435.shahid">
-        <title>Bab Al Hara Season 5 Episode 4</title>
-    </programme>
-    <programme start="20260102003612 +0000" stop="20260102011910 +0000" channel="975435.shahid">
-        <title>Bab Al Hara Season 5 Episode 5</title>
-    </programme>
-    <programme start="20260102011910 +0000" stop="20260102020531 +0000" channel="975435.shahid">
-        <title>Bab Al Hara Season 5 Episode 6</title>
-    </programme>
-    <programme start="20260102020531 +0000" stop="20260102025554 +0000" channel="975435.shahid">
-        <title>Bab Al Hara Season 5 Episode 7</title>
-    </programme>
-    <programme start="20260102025554 +0000" stop="20260102033750 +0000" channel="975435.shahid">
-        <title>Bab Al Hara Season 5 Episode 8</title>
-    </programme>
-    <programme start="20260102033750 +0000" stop="20260102042818 +0000" channel="975435.shahid">
-        <title>Bab Al Hara Season 5 Episode 9</title>
-    </programme>
-    <programme start="20260102042818 +0000" stop="20260102050946 +0000" channel="975435.shahid">
-        <title>Bab Al Hara Season 5 Episode 10</title>
-    </programme>
-    <programme start="20260102050946 +0000" stop="20260102060107 +0000" channel="975435.shahid">
-        <title>Bab Al Hara Season 5 Episode 11</title>
-    </programme>
-    <programme start="20260102060107 +0000" stop="20260102064821 +0000" channel="975435.shahid">
-        <title>Bab Al Hara Season 5 Episode 12</title>
-    </programme>
-    <programme start="20260102064821 +0000" stop="20260102072910 +0000" channel="975435.shahid">
-        <title>Bab Al Hara Season 5 Episode 13</title>
-    </programme>
-    <programme start="20260102072910 +0000" stop="20260102081905 +0000" channel="975435.shahid">
-        <title>Bab Al Hara Season 5 Episode 14</title>
-    </programme>
-    <programme start="20260102081905 +0000" stop="20260102090025 +0000" channel="975435.shahid">
-        <title>Bab Al Hara Season 5 Episode 15</title>
-    </programme>
-    <programme start="20260102090025 +0000" stop="20260102094716 +0000" channel="975435.shahid">
-        <title>Bab Al Hara Season 5 Episode 16</title>
-    </programme>
-    <programme start="20260102094716 +0000" stop="20260102103410 +0000" channel="975435.shahid">
-        <title>Bab Al Hara Season 5 Episode 17</title>
-    </programme>
-    <programme start="20260102103410 +0000" stop="20260102112201 +0000" channel="975435.shahid">
-        <title>Bab Al Hara Season 5 Episode 18</title>
-    </programme>
-    <programme start="20260102112201 +0000" stop="20260102121403 +0000" channel="975435.shahid">
-        <title>Bab Al Hara Season 5 Episode 19</title>
-    </programme>
-    <programme start="20260102121403 +0000" stop="20260102125914 +0000" channel="975435.shahid">
-        <title>Bab Al Hara Season 5 Episode 20</title>
-    </programme>
-    <programme start="20260102125914 +0000" stop="20260102134529 +0000" channel="975435.shahid">
-        <title>Bab Al Hara Season 5 Episode 21</title>
-    </programme>
-    <programme start="20260102134529 +0000" stop="20260102143128 +0000" channel="975435.shahid">
-        <title>Bab Al Hara Season 5 Episode 22</title>
-    </programme>
-    <programme start="20260102143128 +0000" stop="20260102151343 +0000" channel="975435.shahid">
-        <title>Bab Al Hara Season 5 Episode 23</title>
-    </programme>
-    <programme start="20260102151343 +0000" stop="20260102155838 +0000" channel="975435.shahid">
-        <title>Bab Al Hara Season 5 Episode 24</title>
-    </programme>
-    <programme start="20260102155838 +0000" stop="20260102164522 +0000" channel="975435.shahid">
-        <title>Bab Al Hara Season 5 Episode 25</title>
-    </programme>
-    <programme start="20260102164522 +0000" stop="20260102173211 +0000" channel="975435.shahid">
-        <title>Bab Al Hara Season 5 Episode 26</title>
-    </programme>
-    <programme start="20260102173211 +0000" stop="20260102182000 +0000" channel="975435.shahid">
-        <title>Bab Al Hara Season 5 Episode 27</title>
-    </programme>
-    <programme start="20260102182000 +0000" stop="20260102190600 +0000" channel="975435.shahid">
-        <title>Bab Al Hara Season 5 Episode 28</title>
-    </programme>
-    <programme start="20260102190600 +0000" stop="20260102195247 +0000" channel="975435.shahid">
-        <title>Bab Al Hara Season 5 Episode 29</title>
-    </programme>
-    <programme start="20260102195247 +0000" stop="20260102204411 +0000" channel="975435.shahid">
-        <title>Bab Al Hara Season 5 Episode 30</title>
-    </programme>
-    <programme start="20260102204411 +0000" stop="20260102213231 +0000" channel="975435.shahid">
-        <title>Bab Al Hara Season 6 Episode 1</title>
-    </programme>
-    <programme start="20260102213231 +0000" stop="20260102221808 +0000" channel="975435.shahid">
-        <title>Bab Al Hara Season 6 Episode 2</title>
-    </programme>
-    <programme start="20260102221808 +0000" stop="20260102230733 +0000" channel="975435.shahid">
-        <title>Bab Al Hara Season 6 Episode 3</title>
-    </programme>
-    <programme start="20260102230733 +0000" stop="20260102235433 +0000" channel="975435.shahid">
-        <title>Bab Al Hara Season 6 Episode 4</title>
-    </programme>
-    <programme start="20260102235433 +0000" stop="20260102235959 +0000" channel="975435.shahid">
-        <title>Bab Al Hara Season 6 Episode 5</title>
+    <programme start="20260101000000 +0000" stop="20260102235959 +0000" channel="1007223.shahid">
+        <title>TV guide is not available</title>
     </programme>
     <programme start="20260101000000 +0000" stop="20260101012500 +0000" channel="387238.shahid">
         <title>The Voice: Best Of</title>
@@ -3027,6 +2838,195 @@
     </programme>
     <programme start="20260102230000 +0000" stop="20260102235959 +0000" channel="387238.shahid">
         <title>The Voice  </title>
+    </programme>
+    <programme start="20260101000000 +0000" stop="20260101003052 +0000" channel="975435.shahid">
+        <title>Bab Al Hara Season 4 Episode 3</title>
+    </programme>
+    <programme start="20260101003052 +0000" stop="20260101011831 +0000" channel="975435.shahid">
+        <title>Bab Al Hara Season 4 Episode 4</title>
+    </programme>
+    <programme start="20260101011831 +0000" stop="20260101020847 +0000" channel="975435.shahid">
+        <title>Bab Al Hara Season 4 Episode 5</title>
+    </programme>
+    <programme start="20260101020847 +0000" stop="20260101025126 +0000" channel="975435.shahid">
+        <title>Bab Al Hara Season 4 Episode 6</title>
+    </programme>
+    <programme start="20260101025126 +0000" stop="20260101033844 +0000" channel="975435.shahid">
+        <title>Bab Al Hara Season 4 Episode 7</title>
+    </programme>
+    <programme start="20260101033844 +0000" stop="20260101042558 +0000" channel="975435.shahid">
+        <title>Bab Al Hara Season 4 Episode 8</title>
+    </programme>
+    <programme start="20260101042558 +0000" stop="20260101051119 +0000" channel="975435.shahid">
+        <title>Bab Al Hara Season 4 Episode 9</title>
+    </programme>
+    <programme start="20260101051119 +0000" stop="20260101055747 +0000" channel="975435.shahid">
+        <title>Bab Al Hara Season 4 Episode 10</title>
+    </programme>
+    <programme start="20260101055747 +0000" stop="20260101064420 +0000" channel="975435.shahid">
+        <title>Bab Al Hara Season 4 Episode 11</title>
+    </programme>
+    <programme start="20260101064420 +0000" stop="20260101073056 +0000" channel="975435.shahid">
+        <title>Bab Al Hara Season 4 Episode 12</title>
+    </programme>
+    <programme start="20260101073056 +0000" stop="20260101081827 +0000" channel="975435.shahid">
+        <title>Bab Al Hara Season 4 Episode 13</title>
+    </programme>
+    <programme start="20260101081827 +0000" stop="20260101090508 +0000" channel="975435.shahid">
+        <title>Bab Al Hara Season 4 Episode 14</title>
+    </programme>
+    <programme start="20260101090508 +0000" stop="20260101095213 +0000" channel="975435.shahid">
+        <title>Bab Al Hara Season 4 Episode 15</title>
+    </programme>
+    <programme start="20260101095213 +0000" stop="20260101103756 +0000" channel="975435.shahid">
+        <title>Bab Al Hara Season 4 Episode 16</title>
+    </programme>
+    <programme start="20260101103756 +0000" stop="20260101112340 +0000" channel="975435.shahid">
+        <title>Bab Al Hara Season 4 Episode 17</title>
+    </programme>
+    <programme start="20260101112340 +0000" stop="20260101120937 +0000" channel="975435.shahid">
+        <title>Bab Al Hara Season 4 Episode 18</title>
+    </programme>
+    <programme start="20260101120937 +0000" stop="20260101125451 +0000" channel="975435.shahid">
+        <title>Bab Al Hara Season 4 Episode 19</title>
+    </programme>
+    <programme start="20260101125451 +0000" stop="20260101134614 +0000" channel="975435.shahid">
+        <title>Bab Al Hara Season 4 Episode 20</title>
+    </programme>
+    <programme start="20260101134614 +0000" stop="20260101142651 +0000" channel="975435.shahid">
+        <title>Bab Al Hara Season 4 Episode 21</title>
+    </programme>
+    <programme start="20260101142651 +0000" stop="20260101151239 +0000" channel="975435.shahid">
+        <title>Bab Al Hara Season 4 Episode 22</title>
+    </programme>
+    <programme start="20260101151239 +0000" stop="20260101155931 +0000" channel="975435.shahid">
+        <title>Bab Al Hara Season 4 Episode 23</title>
+    </programme>
+    <programme start="20260101155931 +0000" stop="20260101164616 +0000" channel="975435.shahid">
+        <title>Bab Al Hara Season 4 Episode 24</title>
+    </programme>
+    <programme start="20260101164616 +0000" stop="20260101173215 +0000" channel="975435.shahid">
+        <title>Bab Al Hara Season 4 Episode 25</title>
+    </programme>
+    <programme start="20260101173215 +0000" stop="20260101181752 +0000" channel="975435.shahid">
+        <title>Bab Al Hara Season 4 Episode 26</title>
+    </programme>
+    <programme start="20260101181752 +0000" stop="20260101190347 +0000" channel="975435.shahid">
+        <title>Bab Al Hara Season 4 Episode 27</title>
+    </programme>
+    <programme start="20260101190347 +0000" stop="20260101195009 +0000" channel="975435.shahid">
+        <title>Bab Al Hara Season 4 Episode 28</title>
+    </programme>
+    <programme start="20260101195009 +0000" stop="20260101203655 +0000" channel="975435.shahid">
+        <title>Bab Al Hara Season 4 Episode 29</title>
+    </programme>
+    <programme start="20260101203655 +0000" stop="20260101212403 +0000" channel="975435.shahid">
+        <title>Bab Al Hara Season 4 Episode 30</title>
+    </programme>
+    <programme start="20260101212403 +0000" stop="20260101221452 +0000" channel="975435.shahid">
+        <title>Bab Al Hara Season 5 Episode 1</title>
+    </programme>
+    <programme start="20260101221452 +0000" stop="20260101230042 +0000" channel="975435.shahid">
+        <title>Bab Al Hara Season 5 Episode 2</title>
+    </programme>
+    <programme start="20260101230042 +0000" stop="20260101234623 +0000" channel="975435.shahid">
+        <title>Bab Al Hara Season 5 Episode 3</title>
+    </programme>
+    <programme start="20260101234623 +0000" stop="20260102003612 +0000" channel="975435.shahid">
+        <title>Bab Al Hara Season 5 Episode 4</title>
+    </programme>
+    <programme start="20260102003612 +0000" stop="20260102011910 +0000" channel="975435.shahid">
+        <title>Bab Al Hara Season 5 Episode 5</title>
+    </programme>
+    <programme start="20260102011910 +0000" stop="20260102020531 +0000" channel="975435.shahid">
+        <title>Bab Al Hara Season 5 Episode 6</title>
+    </programme>
+    <programme start="20260102020531 +0000" stop="20260102025554 +0000" channel="975435.shahid">
+        <title>Bab Al Hara Season 5 Episode 7</title>
+    </programme>
+    <programme start="20260102025554 +0000" stop="20260102033750 +0000" channel="975435.shahid">
+        <title>Bab Al Hara Season 5 Episode 8</title>
+    </programme>
+    <programme start="20260102033750 +0000" stop="20260102042818 +0000" channel="975435.shahid">
+        <title>Bab Al Hara Season 5 Episode 9</title>
+    </programme>
+    <programme start="20260102042818 +0000" stop="20260102050946 +0000" channel="975435.shahid">
+        <title>Bab Al Hara Season 5 Episode 10</title>
+    </programme>
+    <programme start="20260102050946 +0000" stop="20260102060107 +0000" channel="975435.shahid">
+        <title>Bab Al Hara Season 5 Episode 11</title>
+    </programme>
+    <programme start="20260102060107 +0000" stop="20260102064821 +0000" channel="975435.shahid">
+        <title>Bab Al Hara Season 5 Episode 12</title>
+    </programme>
+    <programme start="20260102064821 +0000" stop="20260102072910 +0000" channel="975435.shahid">
+        <title>Bab Al Hara Season 5 Episode 13</title>
+    </programme>
+    <programme start="20260102072910 +0000" stop="20260102081905 +0000" channel="975435.shahid">
+        <title>Bab Al Hara Season 5 Episode 14</title>
+    </programme>
+    <programme start="20260102081905 +0000" stop="20260102090025 +0000" channel="975435.shahid">
+        <title>Bab Al Hara Season 5 Episode 15</title>
+    </programme>
+    <programme start="20260102090025 +0000" stop="20260102094716 +0000" channel="975435.shahid">
+        <title>Bab Al Hara Season 5 Episode 16</title>
+    </programme>
+    <programme start="20260102094716 +0000" stop="20260102103410 +0000" channel="975435.shahid">
+        <title>Bab Al Hara Season 5 Episode 17</title>
+    </programme>
+    <programme start="20260102103410 +0000" stop="20260102112201 +0000" channel="975435.shahid">
+        <title>Bab Al Hara Season 5 Episode 18</title>
+    </programme>
+    <programme start="20260102112201 +0000" stop="20260102121403 +0000" channel="975435.shahid">
+        <title>Bab Al Hara Season 5 Episode 19</title>
+    </programme>
+    <programme start="20260102121403 +0000" stop="20260102125914 +0000" channel="975435.shahid">
+        <title>Bab Al Hara Season 5 Episode 20</title>
+    </programme>
+    <programme start="20260102125914 +0000" stop="20260102134529 +0000" channel="975435.shahid">
+        <title>Bab Al Hara Season 5 Episode 21</title>
+    </programme>
+    <programme start="20260102134529 +0000" stop="20260102143128 +0000" channel="975435.shahid">
+        <title>Bab Al Hara Season 5 Episode 22</title>
+    </programme>
+    <programme start="20260102143128 +0000" stop="20260102151343 +0000" channel="975435.shahid">
+        <title>Bab Al Hara Season 5 Episode 23</title>
+    </programme>
+    <programme start="20260102151343 +0000" stop="20260102155838 +0000" channel="975435.shahid">
+        <title>Bab Al Hara Season 5 Episode 24</title>
+    </programme>
+    <programme start="20260102155838 +0000" stop="20260102164522 +0000" channel="975435.shahid">
+        <title>Bab Al Hara Season 5 Episode 25</title>
+    </programme>
+    <programme start="20260102164522 +0000" stop="20260102173211 +0000" channel="975435.shahid">
+        <title>Bab Al Hara Season 5 Episode 26</title>
+    </programme>
+    <programme start="20260102173211 +0000" stop="20260102182000 +0000" channel="975435.shahid">
+        <title>Bab Al Hara Season 5 Episode 27</title>
+    </programme>
+    <programme start="20260102182000 +0000" stop="20260102190600 +0000" channel="975435.shahid">
+        <title>Bab Al Hara Season 5 Episode 28</title>
+    </programme>
+    <programme start="20260102190600 +0000" stop="20260102195247 +0000" channel="975435.shahid">
+        <title>Bab Al Hara Season 5 Episode 29</title>
+    </programme>
+    <programme start="20260102195247 +0000" stop="20260102204411 +0000" channel="975435.shahid">
+        <title>Bab Al Hara Season 5 Episode 30</title>
+    </programme>
+    <programme start="20260102204411 +0000" stop="20260102213231 +0000" channel="975435.shahid">
+        <title>Bab Al Hara Season 6 Episode 1</title>
+    </programme>
+    <programme start="20260102213231 +0000" stop="20260102221808 +0000" channel="975435.shahid">
+        <title>Bab Al Hara Season 6 Episode 2</title>
+    </programme>
+    <programme start="20260102221808 +0000" stop="20260102230733 +0000" channel="975435.shahid">
+        <title>Bab Al Hara Season 6 Episode 3</title>
+    </programme>
+    <programme start="20260102230733 +0000" stop="20260102235433 +0000" channel="975435.shahid">
+        <title>Bab Al Hara Season 6 Episode 4</title>
+    </programme>
+    <programme start="20260102235433 +0000" stop="20260102235959 +0000" channel="975435.shahid">
+        <title>Bab Al Hara Season 6 Episode 5</title>
     </programme>
     <programme start="20260101000000 +0000" stop="20260101060000 +0000" channel="1003218.shahid">
         <title>TV guide is not available</title>
@@ -5260,9 +5260,6 @@
     <programme start="20260102235955 +0000" stop="20260102235959 +0000" channel="49923172215352.shahid">
         <title>Fe Ahwe Al Mafraq</title>
     </programme>
-    <programme start="20260101000000 +0000" stop="20260102235959 +0000" channel="986024.shahid">
-        <title>TV guide is not available</title>
-    </programme>
     <programme start="20260101000000 +0000" stop="20260101001012 +0000" channel="969745.shahid">
         <title>Abu Al Malayeen Season 1 Episode 6</title>
     </programme>
@@ -5454,6 +5451,9 @@
     </programme>
     <programme start="20260102232400 +0000" stop="20260102235959 +0000" channel="969745.shahid">
         <title>Abu Al Malayeen Season 1 Episode 29</title>
+    </programme>
+    <programme start="20260101000000 +0000" stop="20260102235959 +0000" channel="986024.shahid">
+        <title>TV guide is not available</title>
     </programme>
     <programme start="20260101000000 +0000" stop="20260101001500 +0000" channel="387294.shahid">
         <title>Al Marsa Season 1 Episode 56</title>
@@ -6004,9 +6004,6 @@
     <programme start="20260101000000 +0000" stop="20260102235959 +0000" channel="388566.shahid">
         <title>TV guide is not available</title>
     </programme>
-    <programme start="20260101000000 +0000" stop="20260102235959 +0000" channel="946942.shahid">
-        <title>TV guide is not available</title>
-    </programme>
     <programme start="20260101000000 +0000" stop="20260101002224 +0000" channel="976272.shahid">
         <title>Al Kabeer Season 4 Episode 11</title>
     </programme>
@@ -6264,6 +6261,9 @@
     </programme>
     <programme start="20260102234016 +0000" stop="20260102235959 +0000" channel="976272.shahid">
         <title>El Kebeer Awi Season 7 Episode 6</title>
+    </programme>
+    <programme start="20260101000000 +0000" stop="20260102235959 +0000" channel="946942.shahid">
+        <title>TV guide is not available</title>
     </programme>
     <programme start="20260101000000 +0000" stop="20260102235959 +0000" channel="999927.shahid">
         <title>TV guide is not available</title>

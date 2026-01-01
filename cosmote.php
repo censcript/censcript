@@ -118,6 +118,10 @@
     <title>Football: Udinese - SS Lazio</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260102120000 +0700" stop="20260102142000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Olympiacos - Kifisia</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260101110000 +0700" stop="20260101131000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: St. Mirren - Celtic FC</title>
     <desc>Live: Tidak</desc>
@@ -234,10 +238,6 @@
     <title>Basketball: Fenerbahce - Manisa Basket</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260101110000 +0700" stop="20260101120000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>DTM</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260101120000 +0700" stop="20260101133500 +0700" channel="COSMOTE Sport 5 HD">
     <title>Motorsports: MotoGP 2025</title>
     <desc>Live: Tidak</desc>
@@ -322,8 +322,8 @@
     <title>Highlights: ROC Race of Champions 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260101110000 +0700" stop="20260101120000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Next Gen ATP Finals 2025 - Highlights</title>
+<programme start="20260102120000 +0700" stop="20260102134000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: MotoGP 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260101120000 +0700" stop="20260101130000 +0700" channel="COSMOTE Sport 6 HD">
@@ -388,6 +388,14 @@
 </programme>
 <programme start="20260102113000 +0700" stop="20260102120000 +0700" channel="COSMOTE Sport 6 HD">
     <title>HYROX - The World of Fitness Racing E2</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260102120000 +0700" stop="20260102123000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>HYROX - The World of Fitness Racing E3</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260102123000 +0700" stop="20260102130000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>HYROX - The World of Fitness Racing E4</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260101110000 +0700" stop="20260101130000 +0700" channel="COSMOTE Sport 7 HD">
