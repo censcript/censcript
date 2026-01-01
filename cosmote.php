@@ -118,12 +118,8 @@
     <title>Football: Olympiacos - Kifisia</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260101110000 +0700" stop="20260101131000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: St. Mirren - Celtic FC</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260101131000 +0700" stop="20260101133000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>William Hill Scottish Premiership - Highlights</title>
+<programme start="20260102142000 +0700" stop="20260102161500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Torino - Cagliari</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260101133000 +0700" stop="20260101164000 +0700" channel="COSMOTE Sport 3 HD">
@@ -176,6 +172,10 @@
 </programme>
 <programme start="20260102110000 +0700" stop="20260102143000 +0700" channel="COSMOTE Sport 3 HD">
     <title>American Football: Los Angeles Chargers - Houston Texans</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260102143000 +0700" stop="20260102163000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Al Ettifaq FC - Al Nassr</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260101130000 +0700" stop="20260101143000 +0700" channel="COSMOTE Sport 4 HD">
@@ -232,10 +232,6 @@
 </programme>
 <programme start="20260102130000 +0700" stop="20260102150000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Napoli - Cantu</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260101120000 +0700" stop="20260101133500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: MotoGP 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260101133500 +0700" stop="20260101151000 +0700" channel="COSMOTE Sport 5 HD">
@@ -326,10 +322,6 @@
     <title>Motorsports: MotoGP 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260101130000 +0700" stop="20260101140000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>ATP 2025 - Review</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260101140000 +0700" stop="20260101163000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Best of Carlos Alcaraz</title>
     <desc>Live: Tidak</desc>
@@ -400,6 +392,10 @@
 </programme>
 <programme start="20260102133000 +0700" stop="20260102140000 +0700" channel="COSMOTE Sport 6 HD">
     <title>HYROX - The World of Fitness Racing E3</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260102140000 +0700" stop="20260102150000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Sports Classics: 2025 Outdoor Specials</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260101130000 +0700" stop="20260101150000 +0700" channel="COSMOTE Sport 7 HD">
