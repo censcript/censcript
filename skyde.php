@@ -3396,7 +3396,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260101172000 +0000" stop="20260101195000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live PL: Crystal Palace - FC Fulham, 19. Spieltag</title>
 </programme>
-<programme start="20260101195000 +0000" stop="20260101220000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260101195000 +0000" stop="20260101223000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live PL: FC Brentford - Tottenham Hotspur, 19. Spieltag</title>
 </programme>
 <programme start="20251231231000 +0000" stop="20251231232000 +0000" channel="SYFY HD.skyde">
