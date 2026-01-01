@@ -3051,6 +3051,9 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260101200000 +0000" stop="20260101230000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>PGA Championship: 2. Tag in Charlotte, NC (USA)</title>
 </programme>
+<programme start="20251231230000 +0000" stop="20251231233000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>NBA: Action</title>
+</programme>
 <programme start="20251231233000 +0000" stop="20260101000000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: On the Fly</title>
 </programme>

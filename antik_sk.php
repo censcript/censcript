@@ -14605,7 +14605,7 @@
   <programme start="20260103220000 +0000" stop="20260104041000 +0000" channel="Life TV.webtv.sk">
     <title lang="id">Program z Domu modlitieb a chvál v Kansas City</title>
   </programme>
-  <programme start="20260102224900 +0000" stop="20260103033600 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20260102225400 +0000" stop="20260103034100 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Záznam z rokovania zastupiteľstva KSK / 27.10.2025</title>
   </programme>
   <programme start="20260103040000 +0000" stop="20260103040500 +0000" channel="TV Zemplín.webtv.sk">
@@ -15983,13 +15983,13 @@
     <title lang="id">Азия 360: Циркачи-кочевники</title>
   </programme>
   <programme start="20260103013000 +0000" stop="20260103020000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">DW: #вТPЕНДde</title>
+    <title lang="id">Best of #вТPЕНДde 2025</title>
   </programme>
   <programme start="20260103020000 +0000" stop="20260103040000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">Pеальное кино</title>
   </programme>
   <programme start="20260103040000 +0000" stop="20260103043000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Перекресток: Последний алеут</title>
+    <title lang="id">Перекресток: Новогодняя елка в Купянске</title>
   </programme>
   <programme start="20260103043000 +0000" stop="20260103050000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">Ждем в гости: Новогодний Ереван</title>
@@ -16004,13 +16004,13 @@
     <title lang="id">Лицом к событию</title>
   </programme>
   <programme start="20260103073000 +0000" stop="20260103080000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Перекресток: Последний алеут</title>
+    <title lang="id">Перекресток: Новогодняя елка в Купянске</title>
   </programme>
   <programme start="20260103080000 +0000" stop="20260103083000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">Донбасс.Pеалии</title>
   </programme>
   <programme start="20260103083000 +0000" stop="20260103090000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">DW: #вТPЕНДde</title>
+    <title lang="id">Best of #вТPЕНДde 2025</title>
   </programme>
   <programme start="20260103090000 +0000" stop="20260103110000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">Почти взрослые</title>
@@ -16028,13 +16028,13 @@
     <title lang="id">Все сложно: Криминальный взрыв в Pоссии</title>
   </programme>
   <programme start="20260103133000 +0000" stop="20260103140000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Перекресток: Последний алеут</title>
+    <title lang="id">Перекресток: Новогодняя елка в Купянске</title>
   </programme>
   <programme start="20260103140000 +0000" stop="20260103141500 +0000" channel="Current Time.webtv.sk">
     <title lang="id">Новости</title>
   </programme>
   <programme start="20260103141500 +0000" stop="20260103143000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Перекресток: Славянск в предверие праздника</title>
+    <title lang="id">Интервью: Алекс Юсупов</title>
   </programme>
   <programme start="20260103143000 +0000" stop="20260103150000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">С нуля: Samrattama</title>

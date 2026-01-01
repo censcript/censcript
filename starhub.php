@@ -8020,10 +8020,10 @@
     <programme start="20260101153000 +0000" stop="20260101163000 +0000" channel="ADITHYA TV.starhub">
         <title>Vedi Sirippu</title>
     </programme>
-    <programme start="20251231113000 +0000" stop="20251231163000 +0000" channel="Hub E City HD.starhub">
+    <programme start="20251231113000 +0000" stop="20251231164300 +0000" channel="Hub E City HD.starhub">
         <title>2025-2026 Hunan TV &amp; Mango TV Countdown Concert</title>
     </programme>
-    <programme start="20251231163000 +0000" stop="20251231173000 +0000" channel="Hub E City HD.starhub">
+    <programme start="20251231164300 +0000" stop="20251231173000 +0000" channel="Hub E City HD.starhub">
         <title>The Ordinary Road</title>
     </programme>
     <programme start="20251231173000 +0000" stop="20251231200000 +0000" channel="Hub E City HD.starhub">
@@ -8761,10 +8761,10 @@
     <programme start="20260101154500 +0000" stop="20260101164000 +0000" channel="Discovery HD.starhub">
         <title>Benefit For The Basin</title>
     </programme>
-    <programme start="20251231113000 +0000" stop="20251231163000 +0000" channel="Hub E City HD.starhub">
+    <programme start="20251231113000 +0000" stop="20251231164300 +0000" channel="Hub E City HD.starhub">
         <title>2025-2026 Hunan TV &amp; Mango TV Countdown Concert</title>
     </programme>
-    <programme start="20251231163000 +0000" stop="20251231173000 +0000" channel="Hub E City HD.starhub">
+    <programme start="20251231164300 +0000" stop="20251231173000 +0000" channel="Hub E City HD.starhub">
         <title>The Ordinary Road</title>
     </programme>
     <programme start="20251231173000 +0000" stop="20251231200000 +0000" channel="Hub E City HD.starhub">
@@ -8812,10 +8812,10 @@
     <programme start="20260101150000 +0000" stop="20260101160000 +0000" channel="Hub E City HD.starhub">
         <title>World&#039;s No. 1: Philippines</title>
     </programme>
-    <programme start="20251231113000 +0000" stop="20251231163000 +0000" channel="TestChannel1.starhub">
+    <programme start="20251231113000 +0000" stop="20251231164300 +0000" channel="TestChannel1.starhub">
         <title>2025-2026 Hunan TV &amp; Mango TV Countdown Concert</title>
     </programme>
-    <programme start="20251231163000 +0000" stop="20251231173000 +0000" channel="TestChannel1.starhub">
+    <programme start="20251231164300 +0000" stop="20251231173000 +0000" channel="TestChannel1.starhub">
         <title>The Ordinary Road</title>
     </programme>
     <programme start="20251231173000 +0000" stop="20251231200000 +0000" channel="TestChannel1.starhub">

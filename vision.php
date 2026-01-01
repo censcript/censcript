@@ -580,9 +580,6 @@
 <programme start="20260102110000 +0000" stop="20260102133000 +0000" channel="Trans 7.vision">
 <title>Exhuma</title>
 </programme>
-<programme start="20260101003000 +0000" stop="20260101023000 +0000" channel="ANTV.vision">
-<title>Srigala</title>
-</programme>
 <programme start="20260101023000 +0000" stop="20260101060000 +0000" channel="ANTV.vision">
 <title>Happy New Year</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20260101094500 +0000" stop="20260101100000 +0000" channel="DAAI TV.vision">
 <title>Pinocchio &amp; Friends</title>
+</programme>
+<programme start="20260101100000 +0000" stop="20260101103000 +0000" channel="DAAI TV.vision">
+<title>Clifford</title>
 </programme>
