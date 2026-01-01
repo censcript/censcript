@@ -7009,7 +7009,156 @@
 <programme start="20260101120000 +0000" stop="20260101123000 +0000" channel="Nickelodeon.mncvision">
     <title>Henry Danger</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20251231171000 +0000" stop="20251231173000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Barbapapa: Big Happy Family</title>
+</programme>
+<programme start="20251231173000 +0000" stop="20251231175000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Dora</title>
+</programme>
+<programme start="20251231175000 +0000" stop="20251231180000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Barbapapa: Big Happy Family</title>
+</programme>
+<programme start="20251231180000 +0000" stop="20251231182500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Tim Rex In Space</title>
+</programme>
+<programme start="20251231182500 +0000" stop="20251231184500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Blaze &amp; The Monster Machines</title>
+</programme>
+<programme start="20251231184500 +0000" stop="20251231191000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>PAW Patrol</title>
+</programme>
+<programme start="20251231191000 +0000" stop="20251231193000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>PAW Patrol</title>
+</programme>
+<programme start="20251231193000 +0000" stop="20251231194500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>PAW Patrol</title>
+</programme>
+<programme start="20251231194500 +0000" stop="20251231200500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Rubble &amp; Crew</title>
+</programme>
+<programme start="20251231200500 +0000" stop="20251231203000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Rubble &amp; Crew</title>
+</programme>
+<programme start="20251231203000 +0000" stop="20251231205000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Dora</title>
+</programme>
+<programme start="20251231205000 +0000" stop="20251231211500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Dora</title>
+</programme>
+<programme start="20251231211500 +0000" stop="20251231213500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Barbapapa: Big Happy Family</title>
+</programme>
+<programme start="20251231213500 +0000" stop="20251231220000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Barbapapa: Big Happy Family</title>
+</programme>
+<programme start="20251231220000 +0000" stop="20251231222000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Barbapapa: Big Happy Family</title>
+</programme>
+<programme start="20251231222000 +0000" stop="20251231224000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Barbapapa: Big Happy Family</title>
+</programme>
+<programme start="20251231224000 +0000" stop="20251231230000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Barbapapa: Big Happy Family</title>
+</programme>
+<programme start="20251231230000 +0000" stop="20251231232500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Rubble &amp; Crew</title>
+</programme>
+<programme start="20251231232500 +0000" stop="20251231234500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Rubble &amp; Crew</title>
+</programme>
+<programme start="20251231234500 +0000" stop="20260101001000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>PAW Patrol</title>
+</programme>
+<programme start="20260101001000 +0000" stop="20260101003000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>PAW Patrol</title>
+</programme>
+<programme start="20260101003000 +0000" stop="20260101005500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Barbapapa: Big Happy Family</title>
+</programme>
+<programme start="20260101005500 +0000" stop="20260101010500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Barbapapa: Big Happy Family</title>
+</programme>
+<programme start="20260101010500 +0000" stop="20260101013000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Tim Rex In Space</title>
+</programme>
+<programme start="20260101013000 +0000" stop="20260101015000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Rubble &amp; Crew</title>
+</programme>
+<programme start="20260101015000 +0000" stop="20260101020000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Rubble &amp; Crew</title>
+</programme>
+<programme start="20260101020000 +0000" stop="20260101022500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Dora</title>
+</programme>
+<programme start="20260101022500 +0000" stop="20260101024500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Blaze &amp; The Monster Machines</title>
+</programme>
+<programme start="20260101024500 +0000" stop="20260101031000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Barbapapa: Big Happy Family</title>
+</programme>
+<programme start="20260101031000 +0000" stop="20260101033000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Barbapapa: Big Happy Family</title>
+</programme>
+<programme start="20260101033000 +0000" stop="20260101035500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Tim Rex In Space</title>
+</programme>
+<programme start="20260101035500 +0000" stop="20260101041500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>PAW Patrol</title>
+</programme>
+<programme start="20260101041500 +0000" stop="20260101043000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>PAW Patrol</title>
+</programme>
+<programme start="20260101043000 +0000" stop="20260101045000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Rubble &amp; Crew</title>
+</programme>
+<programme start="20260101045000 +0000" stop="20260101050000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Rubble &amp; Crew</title>
+</programme>
+<programme start="20260101050000 +0000" stop="20260101052000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Blaze &amp; The Monster Machines</title>
+</programme>
+<programme start="20260101052000 +0000" stop="20260101054500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Blaze &amp; The Monster Machines</title>
+</programme>
+<programme start="20260101054500 +0000" stop="20260101061000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Rubble &amp; Crew</title>
+</programme>
+<programme start="20260101061000 +0000" stop="20260101063000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Rubble &amp; Crew</title>
+</programme>
+<programme start="20260101063000 +0000" stop="20260101065500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>PAW Patrol</title>
+</programme>
+<programme start="20260101065500 +0000" stop="20260101072000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>PAW Patrol</title>
+</programme>
+<programme start="20260101072000 +0000" stop="20260101074000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Barbapapa: Big Happy Family</title>
+</programme>
+<programme start="20260101074000 +0000" stop="20260101080500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Barbapapa: Big Happy Family</title>
+</programme>
+<programme start="20260101080500 +0000" stop="20260101083000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Tim Rex In Space</title>
+</programme>
+<programme start="20260101083000 +0000" stop="20260101085000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Dora</title>
+</programme>
+<programme start="20260101085000 +0000" stop="20260101091500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Dora</title>
+</programme>
+<programme start="20260101091500 +0000" stop="20260101093700 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Baby Shark&#039;s Big Show!</title>
+</programme>
+<programme start="20260101093700 +0000" stop="20260101094200 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20260101094200 +0000" stop="20260101094600 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20260101094600 +0000" stop="20260101101600 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Peppa Pig</title>
+</programme>
 <programme start="20251231173500 +0000" stop="20251231185000 +0000" channel="ONE.mncvision">
     <title>Law Of Jungle In Chatham, Ep 4</title>
 </programme>
@@ -7073,10 +7222,264 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260101162000 +0000" stop="20260101165000 +0000" channel="ONE.mncvision">
     <title>Taxi Driver S3, Ep 11</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20251231173500 +0000" stop="20251231185000 +0000" channel="ONE HD.mncvision">
+    <title>Law Of Jungle In Chatham, Ep 4</title>
+</programme>
+<programme start="20251231185000 +0000" stop="20251231202000 +0000" channel="ONE HD.mncvision">
+    <title>The Red Sleeve, Ep 6</title>
+</programme>
+<programme start="20251231202000 +0000" stop="20251231214500 +0000" channel="ONE HD.mncvision">
+    <title>The Haunted Palace, Ep 6</title>
+</programme>
+<programme start="20251231214500 +0000" stop="20251231220000 +0000" channel="ONE HD.mncvision">
+    <title>K-Hits</title>
+</programme>
+<programme start="20251231220000 +0000" stop="20251231225000 +0000" channel="ONE HD.mncvision">
+    <title>The Woman Who..., Ep 87</title>
+</programme>
+<programme start="20251231225000 +0000" stop="20260101001000 +0000" channel="ONE HD.mncvision">
+    <title>Curtain Call, Ep 10</title>
+</programme>
+<programme start="20260101001000 +0000" stop="20260101013500 +0000" channel="ONE HD.mncvision">
+    <title>Reunited Worlds, Ep 13</title>
+</programme>
+<programme start="20260101013500 +0000" stop="20260101030000 +0000" channel="ONE HD.mncvision">
+    <title>The Haunted Palace, Ep 6</title>
+</programme>
+<programme start="20260101030000 +0000" stop="20260101034500 +0000" channel="ONE HD.mncvision">
+    <title>The Brave Yongsujung, Ep 17</title>
+</programme>
+<programme start="20260101034500 +0000" stop="20260101043000 +0000" channel="ONE HD.mncvision">
+    <title>The Brave Yongsujung, Ep 18</title>
+</programme>
+<programme start="20260101043000 +0000" stop="20260101051500 +0000" channel="ONE HD.mncvision">
+    <title>The Woman Who..., Ep 87</title>
+</programme>
+<programme start="20260101051500 +0000" stop="20260101064000 +0000" channel="ONE HD.mncvision">
+    <title>Curtain Call, Ep 10</title>
+</programme>
+<programme start="20260101064000 +0000" stop="20260101080500 +0000" channel="ONE HD.mncvision">
+    <title>The Haunted Palace, Ep 6</title>
+</programme>
+<programme start="20260101080500 +0000" stop="20260101085000 +0000" channel="ONE HD.mncvision">
+    <title>The Woman Who..., Ep 87</title>
+</programme>
+<programme start="20260101085000 +0000" stop="20260101093500 +0000" channel="ONE HD.mncvision">
+    <title>The Brave Yongsujung, Ep 17</title>
+</programme>
+<programme start="20260101093500 +0000" stop="20260101102000 +0000" channel="ONE HD.mncvision">
+    <title>The Brave Yongsujung, Ep 18</title>
+</programme>
+<programme start="20260101102000 +0000" stop="20260101114000 +0000" channel="ONE HD.mncvision">
+    <title>Reunited Worlds, Ep 14</title>
+</programme>
+<programme start="20260101114000 +0000" stop="20260101130000 +0000" channel="ONE HD.mncvision">
+    <title>The Haunted Palace, Ep 7</title>
+</programme>
+<programme start="20260101130000 +0000" stop="20260101142500 +0000" channel="ONE HD.mncvision">
+    <title>Taxi Driver S3, Ep 11</title>
+</programme>
+<programme start="20260101142500 +0000" stop="20260101162000 +0000" channel="ONE HD.mncvision">
+    <title>The Half-Star Hotel..., Ep 74</title>
+</programme>
+<programme start="20260101162000 +0000" stop="20260101165000 +0000" channel="ONE HD.mncvision">
+    <title>Taxi Driver S3, Ep 11</title>
+</programme>
+<programme start="20251231174700 +0000" stop="20251231202000 +0000" channel="ORIGINALS.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20251231202000 +0000" stop="20251231220000 +0000" channel="ORIGINALS.mncvision">
+    <title>On The Line</title>
+</programme>
+<programme start="20251231220000 +0000" stop="20251231233900 +0000" channel="ORIGINALS.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20251231233900 +0000" stop="20260101014400 +0000" channel="ORIGINALS.mncvision">
+    <title>Dark Places</title>
+</programme>
+<programme start="20260101014400 +0000" stop="20260101033000 +0000" channel="ORIGINALS.mncvision">
+    <title>Gold</title>
+</programme>
+<programme start="20260101033000 +0000" stop="20260101054200 +0000" channel="ORIGINALS.mncvision">
+    <title>Logan Lucky</title>
+</programme>
+<programme start="20260101054200 +0000" stop="20260101071200 +0000" channel="ORIGINALS.mncvision">
+    <title>A Snow Globe Christmas</title>
+</programme>
+<programme start="20260101071200 +0000" stop="20260101085400 +0000" channel="ORIGINALS.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20260101085400 +0000" stop="20260101103600 +0000" channel="ORIGINALS.mncvision">
+    <title>Playing God</title>
+</programme>
+<programme start="20260101103600 +0000" stop="20260101125100 +0000" channel="ORIGINALS.mncvision">
+    <title>Gold</title>
+</programme>
+<programme start="20260101125100 +0000" stop="20260101144900 +0000" channel="ORIGINALS.mncvision">
+    <title>Hollywoo</title>
+</programme>
+<programme start="20260101144900 +0000" stop="20260101162100 +0000" channel="ORIGINALS.mncvision">
+    <title>Ride Like A Girl</title>
+</programme>
+<programme start="20260101162100 +0000" stop="20260101165100 +0000" channel="ORIGINALS.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20251231174700 +0000" stop="20251231202000 +0000" channel="ORIGINALS HD.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20251231202000 +0000" stop="20251231220000 +0000" channel="ORIGINALS HD.mncvision">
+    <title>On The Line</title>
+</programme>
+<programme start="20251231220000 +0000" stop="20251231233900 +0000" channel="ORIGINALS HD.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20251231233900 +0000" stop="20260101014400 +0000" channel="ORIGINALS HD.mncvision">
+    <title>Dark Places</title>
+</programme>
+<programme start="20260101014400 +0000" stop="20260101033000 +0000" channel="ORIGINALS HD.mncvision">
+    <title>Gold</title>
+</programme>
+<programme start="20260101033000 +0000" stop="20260101054200 +0000" channel="ORIGINALS HD.mncvision">
+    <title>Logan Lucky</title>
+</programme>
+<programme start="20260101054200 +0000" stop="20260101071200 +0000" channel="ORIGINALS HD.mncvision">
+    <title>A Snow Globe Christmas</title>
+</programme>
+<programme start="20260101071200 +0000" stop="20260101085400 +0000" channel="ORIGINALS HD.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20260101085400 +0000" stop="20260101103600 +0000" channel="ORIGINALS HD.mncvision">
+    <title>Playing God</title>
+</programme>
+<programme start="20260101103600 +0000" stop="20260101125100 +0000" channel="ORIGINALS HD.mncvision">
+    <title>Gold</title>
+</programme>
+<programme start="20260101125100 +0000" stop="20260101144900 +0000" channel="ORIGINALS HD.mncvision">
+    <title>Hollywoo</title>
+</programme>
+<programme start="20260101144900 +0000" stop="20260101162100 +0000" channel="ORIGINALS HD.mncvision">
+    <title>Ride Like A Girl</title>
+</programme>
+<programme start="20260101162100 +0000" stop="20260101165100 +0000" channel="ORIGINALS HD.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20251231170000 +0000" stop="20251231173000 +0000" channel="Outdoor Channel.mncvision">
+    <title>Wardens S9, Ep 7</title>
+</programme>
+<programme start="20251231173000 +0000" stop="20251231180000 +0000" channel="Outdoor Channel.mncvision">
+    <title>Wardens S9, Ep 8</title>
+</programme>
+<programme start="20251231180000 +0000" stop="20251231190000 +0000" channel="Outdoor Channel.mncvision">
+    <title>Trucking Hell S2, Ep 8</title>
+</programme>
+<programme start="20251231190000 +0000" stop="20251231200000 +0000" channel="Outdoor Channel.mncvision">
+    <title>The Whale Whisperer S1, Ep 1</title>
+</programme>
+<programme start="20251231200000 +0000" stop="20251231202500 +0000" channel="Outdoor Channel.mncvision">
+    <title>Duck Camp Dinners S2, Ep 5</title>
+</programme>
+<programme start="20251231202500 +0000" stop="20251231210000 +0000" channel="Outdoor Channel.mncvision">
+    <title>Duck Camp Dinners S2, Ep 6</title>
+</programme>
+<programme start="20251231210000 +0000" stop="20251231220000 +0000" channel="Outdoor Channel.mncvision">
+    <title>Trucking Hell S2, Ep 8</title>
+</programme>
+<programme start="20251231220000 +0000" stop="20251231223000 +0000" channel="Outdoor Channel.mncvision">
+    <title>Man Eats Wild S1, Ep 5</title>
+</programme>
+<programme start="20251231223000 +0000" stop="20251231230000 +0000" channel="Outdoor Channel.mncvision">
+    <title>Man Eats Wild S1, Ep 6</title>
+</programme>
+<programme start="20251231230000 +0000" stop="20251231233000 +0000" channel="Outdoor Channel.mncvision">
+    <title>Wardens S9, Ep 7</title>
+</programme>
+<programme start="20251231233000 +0000" stop="20260101000000 +0000" channel="Outdoor Channel.mncvision">
+    <title>Wardens S9, Ep 8</title>
+</programme>
+<programme start="20260101000000 +0000" stop="20260101010000 +0000" channel="Outdoor Channel.mncvision">
+    <title>Trucking Hell S2, Ep 8</title>
+</programme>
+<programme start="20260101010000 +0000" stop="20260101020000 +0000" channel="Outdoor Channel.mncvision">
+    <title>The Whale Whisperer S1, Ep 1</title>
+</programme>
+<programme start="20260101020000 +0000" stop="20260101022500 +0000" channel="Outdoor Channel.mncvision">
+    <title>Duck Camp Dinners S2, Ep 5</title>
+</programme>
+<programme start="20260101022500 +0000" stop="20260101030000 +0000" channel="Outdoor Channel.mncvision">
+    <title>Duck Camp Dinners S2, Ep 6</title>
+</programme>
+<programme start="20260101030000 +0000" stop="20260101040000 +0000" channel="Outdoor Channel.mncvision">
+    <title>Trucking Hell S2, Ep 8</title>
+</programme>
+<programme start="20260101040000 +0000" stop="20260101043000 +0000" channel="Outdoor Channel.mncvision">
+    <title>Man Eats Wild S1, Ep 5</title>
+</programme>
+<programme start="20260101043000 +0000" stop="20260101050000 +0000" channel="Outdoor Channel.mncvision">
+    <title>Great Aussie Road Trips, Ep 1</title>
+</programme>
+<programme start="20260101050000 +0000" stop="20260101053000 +0000" channel="Outdoor Channel.mncvision">
+    <title>Great Aussie Road Trips, Ep 2</title>
+</programme>
+<programme start="20260101053000 +0000" stop="20260101060000 +0000" channel="Outdoor Channel.mncvision">
+    <title>Great Aussie Road Trips, Ep 3</title>
+</programme>
+<programme start="20260101060000 +0000" stop="20260101063000 +0000" channel="Outdoor Channel.mncvision">
+    <title>Great Aussie Road Trips, Ep 4</title>
+</programme>
+<programme start="20260101063000 +0000" stop="20260101070000 +0000" channel="Outdoor Channel.mncvision">
+    <title>Great Aussie Road Trips, Ep 5</title>
+</programme>
+<programme start="20260101070000 +0000" stop="20260101073000 +0000" channel="Outdoor Channel.mncvision">
+    <title>Yukon For Sale S1, Ep 12</title>
+</programme>
+<programme start="20260101073000 +0000" stop="20260101080000 +0000" channel="Outdoor Channel.mncvision">
+    <title>Yukon For Sale S1, Ep 13</title>
+</programme>
+<programme start="20260101080000 +0000" stop="20260101090000 +0000" channel="Outdoor Channel.mncvision">
+    <title>Gold Fever S3, Ep 5</title>
+</programme>
+<programme start="20260101090000 +0000" stop="20260101093000 +0000" channel="Outdoor Channel.mncvision">
+    <title>Hollywood Weapons S6, Ep 7</title>
+</programme>
+<programme start="20260101093000 +0000" stop="20260101100000 +0000" channel="Outdoor Channel.mncvision">
+    <title>Hollywood Weapons S6, Ep 8</title>
+</programme>
+<programme start="20260101100000 +0000" stop="20260101103000 +0000" channel="Outdoor Channel.mncvision">
+    <title>Hunt For Monster Bass, Ep 5</title>
+</programme>
+<programme start="20260101103000 +0000" stop="20260101110000 +0000" channel="Outdoor Channel.mncvision">
+    <title>Hunt For Monster Bass, Ep 6</title>
+</programme>
+<programme start="20260101110000 +0000" stop="20260101113000 +0000" channel="Outdoor Channel.mncvision">
+    <title>Tasting Tasmania S1, Ep 7</title>
+</programme>
+<programme start="20260101113000 +0000" stop="20260101120000 +0000" channel="Outdoor Channel.mncvision">
+    <title>Tasting Tasmania S1, Ep 8</title>
+</programme>
+<programme start="20260101120000 +0000" stop="20260101130000 +0000" channel="Outdoor Channel.mncvision">
+    <title>Growing Wild S1, Ep 1</title>
+</programme>
+<programme start="20260101130000 +0000" stop="20260101133000 +0000" channel="Outdoor Channel.mncvision">
+    <title>Yukon For Sale S1, Ep 12</title>
+</programme>
+<programme start="20260101133000 +0000" stop="20260101140000 +0000" channel="Outdoor Channel.mncvision">
+    <title>Yukon For Sale S1, Ep 13</title>
+</programme>
+<programme start="20260101140000 +0000" stop="20260101150000 +0000" channel="Outdoor Channel.mncvision">
+    <title>Gold Fever S3, Ep 5</title>
+</programme>
+<programme start="20260101150000 +0000" stop="20260101153000 +0000" channel="Outdoor Channel.mncvision">
+    <title>Hollywood Weapons S6, Ep 7</title>
+</programme>
+<programme start="20260101153000 +0000" stop="20260101160000 +0000" channel="Outdoor Channel.mncvision">
+    <title>Hollywood Weapons S6, Ep 8</title>
+</programme>
+<programme start="20260101160000 +0000" stop="20260101163000 +0000" channel="Outdoor Channel.mncvision">
+    <title>Hunt For Monster Bass, Ep 5</title>
+</programme>
+<programme start="20260101163000 +0000" stop="20251231170000 +0000" channel="Outdoor Channel.mncvision">
+    <title>Hunt For Monster Bass, Ep 6</title>
+</programme>
 <programme start="20251231170000 +0000" stop="20251231173000 +0000" channel="Outdoor channel HD.mncvision">
     <title>Wardens S9, Ep 7</title>
 </programme>
@@ -7713,7 +8116,57 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260101163000 +0000" stop="20251231170000 +0000" channel="Soccer Channel HD.mncvision">
     <title>ACL Two: BKU Vs PSB</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20251231173000 +0000" stop="20251231200000 +0000" channel="Sportstars.mncvision">
+    <title>Indonesia Juara Badminton</title>
+</programme>
+<programme start="20251231200000 +0000" stop="20251231203000 +0000" channel="Sportstars.mncvision">
+    <title>Sport Today</title>
+</programme>
+<programme start="20251231203000 +0000" stop="20251231210000 +0000" channel="Sportstars.mncvision">
+    <title>iNews Sport</title>
+</programme>
+<programme start="20251231210000 +0000" stop="20251231230000 +0000" channel="Sportstars.mncvision">
+    <title>SEA Games Thailand: Volleyball</title>
+</programme>
+<programme start="20251231230000 +0000" stop="20251231233000 +0000" channel="Sportstars.mncvision">
+    <title>Sport Today</title>
+</programme>
+<programme start="20251231233000 +0000" stop="20260101000000 +0000" channel="Sportstars.mncvision">
+    <title>30 Minutes Extreme</title>
+</programme>
+<programme start="20260101000000 +0000" stop="20260101003000 +0000" channel="Sportstars.mncvision">
+    <title>Adrenaline Rush</title>
+</programme>
+<programme start="20260101003000 +0000" stop="20260101023000 +0000" channel="Sportstars.mncvision">
+    <title>V-League 2025-2026 Men</title>
+</programme>
+<programme start="20260101023000 +0000" stop="20260101043000 +0000" channel="Sportstars.mncvision">
+    <title>V-League 2025-2026 Women</title>
+</programme>
+<programme start="20260101043000 +0000" stop="20260101050000 +0000" channel="Sportstars.mncvision">
+    <title>iNews Sport</title>
+</programme>
+<programme start="20260101050000 +0000" stop="20260101070000 +0000" channel="Sportstars.mncvision">
+    <title>V-League 2025-2026 Men (L)</title>
+</programme>
+<programme start="20260101070000 +0000" stop="20260101090000 +0000" channel="Sportstars.mncvision">
+    <title>V-League 2025-2026 Women (L)</title>
+</programme>
+<programme start="20260101090000 +0000" stop="20260101110000 +0000" channel="Sportstars.mncvision">
+    <title>KOVO Cup</title>
+</programme>
+<programme start="20260101110000 +0000" stop="20260101130000 +0000" channel="Sportstars.mncvision">
+    <title>SEA Games Thailand: Volleyball</title>
+</programme>
+<programme start="20260101130000 +0000" stop="20260101133000 +0000" channel="Sportstars.mncvision">
+    <title>Sport Today</title>
+</programme>
+<programme start="20260101133000 +0000" stop="20260101153000 +0000" channel="Sportstars.mncvision">
+    <title>V-League 2025-2026 Women</title>
+</programme>
+<programme start="20260101153000 +0000" stop="20260101160000 +0000" channel="Sportstars.mncvision">
+    <title>V-League 2025-2026 Men</title>
+</programme>
 <programme start="20251231170000 +0000" stop="20251231190000 +0000" channel="Sportstars 2.mncvision">
     <title>SEA Games Thailand 2025</title>
 </programme>
@@ -7840,8 +8293,87 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260101150000 +0000" stop="20260101153000 +0000" channel="Sportstars 3.mncvision">
     <title>Liga 2</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20251231170000 +0000" stop="20251231190000 +0000" channel="sportstars 3 HD.mncvision">
+    <title>Bundesliga</title>
+</programme>
+<programme start="20251231190000 +0000" stop="20251231210000 +0000" channel="sportstars 3 HD.mncvision">
+    <title>BRI Liga 1</title>
+</programme>
+<programme start="20251231210000 +0000" stop="20251231230000 +0000" channel="sportstars 3 HD.mncvision">
+    <title>European Qualifiers</title>
+</programme>
+<programme start="20251231230000 +0000" stop="20260101010000 +0000" channel="sportstars 3 HD.mncvision">
+    <title>Bundesliga</title>
+</programme>
+<programme start="20260101010000 +0000" stop="20260101030000 +0000" channel="sportstars 3 HD.mncvision">
+    <title>Liga 2</title>
+</programme>
+<programme start="20260101030000 +0000" stop="20260101050000 +0000" channel="sportstars 3 HD.mncvision">
+    <title>BRI Liga 1</title>
+</programme>
+<programme start="20260101050000 +0000" stop="20260101070000 +0000" channel="sportstars 3 HD.mncvision">
+    <title>Bundesliga</title>
+</programme>
+<programme start="20260101070000 +0000" stop="20260101090000 +0000" channel="sportstars 3 HD.mncvision">
+    <title>European Qualifiers</title>
+</programme>
+<programme start="20260101090000 +0000" stop="20260101110000 +0000" channel="sportstars 3 HD.mncvision">
+    <title>Liga 2</title>
+</programme>
+<programme start="20260101110000 +0000" stop="20260101130000 +0000" channel="sportstars 3 HD.mncvision">
+    <title>BRI Liga 1</title>
+</programme>
+<programme start="20260101130000 +0000" stop="20260101150000 +0000" channel="sportstars 3 HD.mncvision">
+    <title>European Qualifiers</title>
+</programme>
+<programme start="20260101150000 +0000" stop="20260101153000 +0000" channel="sportstars 3 HD.mncvision">
+    <title>Liga 2</title>
+</programme>
+<programme start="20251231170000 +0000" stop="20251231190000 +0000" channel="Sportstars 4.mncvision">
+    <title>Bundesliga</title>
+</programme>
+<programme start="20251231190000 +0000" stop="20251231210000 +0000" channel="Sportstars 4.mncvision">
+    <title>BRI Liga 1</title>
+</programme>
+<programme start="20251231210000 +0000" stop="20251231230000 +0000" channel="Sportstars 4.mncvision">
+    <title>European Qualifiers</title>
+</programme>
+<programme start="20251231230000 +0000" stop="20260101010000 +0000" channel="Sportstars 4.mncvision">
+    <title>Bundesliga</title>
+</programme>
+<programme start="20260101010000 +0000" stop="20260101030000 +0000" channel="Sportstars 4.mncvision">
+    <title>SEA Games Thailand 2025</title>
+</programme>
+<programme start="20260101030000 +0000" stop="20260101050000 +0000" channel="Sportstars 4.mncvision">
+    <title>V League (Men)</title>
+</programme>
+<programme start="20260101050000 +0000" stop="20260101070000 +0000" channel="Sportstars 4.mncvision">
+    <title>V League (Women)</title>
+</programme>
+<programme start="20260101070000 +0000" stop="20260101090000 +0000" channel="Sportstars 4.mncvision">
+    <title>European Qualifiers</title>
+</programme>
+<programme start="20260101090000 +0000" stop="20260101093000 +0000" channel="Sportstars 4.mncvision">
+    <title>Adrenaline Rush</title>
+</programme>
+<programme start="20260101093000 +0000" stop="20260101100000 +0000" channel="Sportstars 4.mncvision">
+    <title>30 Minutes Extreme</title>
+</programme>
+<programme start="20260101100000 +0000" stop="20260101120000 +0000" channel="Sportstars 4.mncvision">
+    <title>V League (Women)</title>
+</programme>
+<programme start="20260101120000 +0000" stop="20260101123000 +0000" channel="Sportstars 4.mncvision">
+    <title>World Classic Soccer</title>
+</programme>
+<programme start="20260101123000 +0000" stop="20260101130000 +0000" channel="Sportstars 4.mncvision">
+    <title>Adrenaline Rush</title>
+</programme>
+<programme start="20260101130000 +0000" stop="20260101150000 +0000" channel="Sportstars 4.mncvision">
+    <title>European Qualifiers</title>
+</programme>
+<programme start="20260101150000 +0000" stop="20260101153000 +0000" channel="Sportstars 4.mncvision">
+    <title>Liga 2</title>
+</programme>
 <programme start="20251231170000 +0000" stop="20251231190000 +0000" channel="Sportstars 4 HD.mncvision">
     <title>Bundesliga</title>
 </programme>
@@ -8889,7 +9421,51 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260101163000 +0000" stop="20251231170000 +0000" channel="UNIQUES.mncvision">
     <title>Gold</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20251231181500 +0000" stop="20251231193700 +0000" channel="UNIQUES HD.mncvision">
+    <title>Pregnant At 17</title>
+</programme>
+<programme start="20251231193700 +0000" stop="20251231212800 +0000" channel="UNIQUES HD.mncvision">
+    <title>Enhanced</title>
+</programme>
+<programme start="20251231212800 +0000" stop="20251231220000 +0000" channel="UNIQUES HD.mncvision">
+    <title>Gold</title>
+</programme>
+<programme start="20251231220000 +0000" stop="20251231235800 +0000" channel="UNIQUES HD.mncvision">
+    <title>The Rover</title>
+</programme>
+<programme start="20251231235800 +0000" stop="20260101013900 +0000" channel="UNIQUES HD.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20260101013900 +0000" stop="20260101032000 +0000" channel="UNIQUES HD.mncvision">
+    <title>Undeserved</title>
+</programme>
+<programme start="20260101032000 +0000" stop="20260101050000 +0000" channel="UNIQUES HD.mncvision">
+    <title>Galaxy Games</title>
+</programme>
+<programme start="20260101050000 +0000" stop="20260101064600 +0000" channel="UNIQUES HD.mncvision">
+    <title>Gold</title>
+</programme>
+<programme start="20260101064600 +0000" stop="20260101080400 +0000" channel="UNIQUES HD.mncvision">
+    <title>Not Broken</title>
+</programme>
+<programme start="20260101080400 +0000" stop="20260101092400 +0000" channel="UNIQUES HD.mncvision">
+    <title>Silver</title>
+</programme>
+<programme start="20260101092400 +0000" stop="20260101111000 +0000" channel="UNIQUES HD.mncvision">
+    <title>The Yellow Birds</title>
+</programme>
+<programme start="20260101111000 +0000" stop="20260101132100 +0000" channel="UNIQUES HD.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20260101132100 +0000" stop="20260101145300 +0000" channel="UNIQUES HD.mncvision">
+    <title>Coda</title>
+</programme>
+<programme start="20260101145300 +0000" stop="20260101163000 +0000" channel="UNIQUES HD.mncvision">
+    <title>Gangster Land</title>
+</programme>
+<programme start="20260101163000 +0000" stop="20251231170000 +0000" channel="UNIQUES HD.mncvision">
+    <title>Gold</title>
+</programme>
 <programme start="20251231170000 +0000" stop="20251231190000 +0000" channel="Vision Prime.mncvision">
     <title>Mission: Impossible-Rouge...</title>
 </programme>

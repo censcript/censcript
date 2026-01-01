@@ -76,14 +76,17 @@
   <programme start="20260103223000 +0000" stop="20260104000500 +0000" channel="Jednotka.webtv.sk">
     <title lang="id">Učiteľka</title>
   </programme>
-  <programme start="20260102223000 +0000" stop="20260102232500 +0000" channel="Dvojka.webtv.sk">
+  <programme start="20260102223000 +0000" stop="20260102232400 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Zrod fenoménu Thelma &amp; Louise</title>
   </programme>
-  <programme start="20260102232500 +0000" stop="20260102232600 +0000" channel="Dvojka.webtv.sk">
+  <programme start="20260102232400 +0000" stop="20260102232600 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Hymna SR</title>
   </programme>
   <programme start="20260102232600 +0000" stop="20260103001600 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Správy</title>
+  </programme>
+  <programme start="20260103044500 +0000" stop="20260103051000 +0000" channel="Dvojka.webtv.sk">
+    <title lang="id">Divoká príroda Slovenska s Nigelom Marvenom- film o filme</title>
   </programme>
   <programme start="20260103051000 +0000" stop="20260103060500 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Divoké Slovensko s Nigelom Marvenom</title>
