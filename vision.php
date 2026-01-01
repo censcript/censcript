@@ -526,6 +526,9 @@
 <programme start="20260101033000 +0000" stop="20260101043000 +0000" channel="Trans 7.vision">
 <title>Big-Bang!</title>
 </programme>
+<programme start="20260101063000 +0000" stop="20260101083000 +0000" channel="Trans 7.vision">
+<title>Hello Salma</title>
+</programme>
 <programme start="20260101083000 +0000" stop="20260101110000 +0000" channel="Trans 7.vision">
 <title>KKN Di Desa Penari</title>
 </programme>
@@ -1494,7 +1497,4 @@
 </programme>
 <programme start="20260101110000 +0000" stop="20260101113000 +0000" channel="DAAI TV.vision">
 <title>Dr. Panda</title>
-</programme>
-<programme start="20260101113000 +0000" stop="20260101120000 +0000" channel="DAAI TV.vision">
-<title>Cerita Dan Rasa</title>
 </programme>
