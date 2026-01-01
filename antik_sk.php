@@ -10,10 +10,10 @@
   <programme start="20260103011500 +0000" stop="20260103013000 +0000" channel="Jednotka.webtv.sk">
     <title lang="id">Góly - body - sekundy</title>
   </programme>
-  <programme start="20260103013000 +0000" stop="20260103031000 +0000" channel="Jednotka.webtv.sk">
+  <programme start="20260103013000 +0000" stop="20260103031500 +0000" channel="Jednotka.webtv.sk">
     <title lang="id">Hrbáč</title>
   </programme>
-  <programme start="20260103031000 +0000" stop="20260103040500 +0000" channel="Jednotka.webtv.sk">
+  <programme start="20260103031500 +0000" stop="20260103040500 +0000" channel="Jednotka.webtv.sk">
     <title lang="id">Správy</title>
   </programme>
   <programme start="20260103040500 +0000" stop="20260103043000 +0000" channel="Jednotka.webtv.sk">

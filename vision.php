@@ -565,9 +565,6 @@
 <programme start="20260101143000 +0000" stop="20260101180000 +0000" channel="ANTV.vision">
 <title>Jawan</title>
 </programme>
-<programme start="20260101200000 +0000" stop="20260101220000 +0000" channel="ANTV.vision">
-<title>Fly Me To Polaris</title>
-</programme>
 <programme start="20260101220000 +0000" stop="20260101230000 +0000" channel="ANTV.vision">
 <title>Fire With Fire</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20260101153000 +0000" stop="20260101160000 +0000" channel="DAAI TV.vision">
 <title>Jelajah Budaya Tionghoa...</title>
+</programme>
+<programme start="20260101160000 +0000" stop="20260101223000 +0000" channel="DAAI TV.vision">
+<title>Halo Indonesia</title>
 </programme>
