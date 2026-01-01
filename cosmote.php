@@ -58,6 +58,10 @@
     <title>Football: Al Ahli - Al Nassr (L)</title>
     <desc>Live: Ya</desc>
 </programme>
+<programme start="20260103023000 +0700" stop="20260103033000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEFA Champions League Highlights 2025-26</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260102000000 +0700" stop="20260102022000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Olympiacos - Kifisia</title>
     <desc>Live: Tidak</desc>
@@ -126,9 +130,13 @@
     <title>Serie A Full Impact 2024-25 E17</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260101233000 +0700" stop="20260102013000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Motherwell - Celtic FC</title>
+<programme start="20260103020500 +0700" stop="20260103024500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Serie A Inside Serie A 2025-26 E18</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260103024500 +0700" stop="20260103044500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Cagliari - AC Milan (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260102013000 +0700" stop="20260102033000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Sporting CP - Rio Ave</title>
@@ -242,6 +250,10 @@
     <title>NBA Action 2025-26 E3511 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
+<programme start="20260103023000 +0700" stop="20260103050000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Brooklyn Nets - Houston Rockets</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260102010000 +0700" stop="20260102024000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Best of MotoGP 2025</title>
     <desc>Live: Tidak</desc>
@@ -331,6 +343,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260103010000 +0700" stop="20260103024000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Best of MotoGP 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260103024000 +0700" stop="20260103042000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Best of MotoGP 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
@@ -428,6 +444,10 @@
 </programme>
 <programme start="20260103003000 +0700" stop="20260103021000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Volleyball: Olympiacos - Apeldoorn</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260103021000 +0700" stop="20260103030000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Sports Classics: 2025 Outdoor Specials</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260102010000 +0700" stop="20260102030000 +0700" channel="COSMOTE Sport 7 HD">
