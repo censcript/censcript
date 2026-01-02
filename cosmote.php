@@ -74,6 +74,10 @@
     <title>UEFA Champions League Magazine 2024-25 E15</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260103162000 +0700" stop="20260103183000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: Borussia Dortmund - FK Bodo/Glimt</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260102142000 +0700" stop="20260102161500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Torino - Cagliari</title>
     <desc>Live: Tidak</desc>
@@ -214,6 +218,10 @@
     <title>Emirates FA Cup 2025-26 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260103160000 +0700" stop="20260103180000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Sheffield United - Leicester City FC</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260102150000 +0700" stop="20260102170000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Turk Telekom - Anadolu Efes</title>
     <desc>Live: Tidak</desc>
@@ -270,12 +278,8 @@
     <title>NBA Specials: Basketball Stories</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260102134000 +0700" stop="20260102151500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: MotoGP 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260102151500 +0700" stop="20260102153000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Sports Highlights</title>
+<programme start="20260103160000 +0700" stop="20260103180000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Napoli - Cantu</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260102153000 +0700" stop="20260102163000 +0700" channel="COSMOTE Sport 5 HD">
@@ -366,8 +370,12 @@
     <title>Extreme E - Highlights 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260102150000 +0700" stop="20260102160000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Next Gen ATP Finals 2025 - Highlights</title>
+<programme start="20260103160000 +0700" stop="20260103163000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Sports Classics: Gearing Up 2024 E11</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260103163000 +0700" stop="20260103172000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>2025 GT World Challenge Europe</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260102160000 +0700" stop="20260102170000 +0700" channel="COSMOTE Sport 6 HD">
