@@ -532,9 +532,6 @@
 <programme start="20260102013000 +0000" stop="20260102023000 +0000" channel="Trans 7.vision">
 <title>FYP (For Your Pagi)</title>
 </programme>
-<programme start="20260102023000 +0000" stop="20260102043000 +0000" channel="Trans 7.vision">
-<title>Laut Tengah</title>
-</programme>
 <programme start="20260102043000 +0000" stop="20260102063000 +0000" channel="Trans 7.vision">
 <title>Ancika</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20260102000000 +0000" stop="20260102003000 +0000" channel="DAAI TV.vision">
 <title>Dr. Panda</title>
+</programme>
+<programme start="20260102003000 +0000" stop="20260102010000 +0000" channel="DAAI TV.vision">
+<title>Darwin &amp; Newts</title>
 </programme>

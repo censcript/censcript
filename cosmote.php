@@ -70,10 +70,6 @@
     <title>Football: AEK - Universitatea Craiova</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260102100000 +0700" stop="20260102120000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Udinese - SS Lazio</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260102120000 +0700" stop="20260102142000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Olympiacos - Kifisia</title>
     <desc>Live: Tidak</desc>
@@ -136,6 +132,10 @@
 </programme>
 <programme start="20260103095000 +0700" stop="20260103120000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: AEK - OFI</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260103120000 +0700" stop="20260103141000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: AEL Novibet - Atromitos</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260102110000 +0700" stop="20260102143000 +0700" channel="COSMOTE Sport 3 HD">
@@ -254,14 +254,6 @@
     <title>Basketball: Promitheas - Rytas Vilnius</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260102110000 +0700" stop="20260102113000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Highlights: ROC Nations Cup 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260102113000 +0700" stop="20260102120000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Highlights: ROC Race of Champions 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260102120000 +0700" stop="20260102134000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Motorsports: MotoGP 2025</title>
     <desc>Live: Tidak</desc>
@@ -346,12 +338,8 @@
     <title>Highlights: 2025 Extreme H</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260102110000 +0700" stop="20260102113000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>HYROX - The World of Fitness Racing E1</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260102113000 +0700" stop="20260102120000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>HYROX - The World of Fitness Racing E2</title>
+<programme start="20260103120000 +0700" stop="20260103134000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: MotoGP 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260102120000 +0700" stop="20260102123000 +0700" channel="COSMOTE Sport 6 HD">
@@ -443,6 +431,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260103113000 +0700" stop="20260103123000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Beach Volley: 2025 FIVB Beach Volleyball World Championships</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260103123000 +0700" stop="20260103134500 +0700" channel="COSMOTE Sport 6 HD">
     <title>Beach Volley: 2025 FIVB Beach Volleyball World Championships</title>
     <desc>Live: Tidak</desc>
 </programme>
