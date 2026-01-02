@@ -532,9 +532,6 @@
 <programme start="20260102013000 +0000" stop="20260102023000 +0000" channel="Trans 7.vision">
 <title>FYP (For Your Pagi)</title>
 </programme>
-<programme start="20260102043000 +0000" stop="20260102063000 +0000" channel="Trans 7.vision">
-<title>Ancika</title>
-</programme>
 <programme start="20260102063000 +0000" stop="20260102083000 +0000" channel="Trans 7.vision">
 <title>Layangan Putus The Movie</title>
 </programme>
@@ -609,9 +606,6 @@
 </programme>
 <programme start="20260101230000 +0000" stop="20260102003000 +0000" channel="ANTV.vision">
 <title>Takdir Cinta Layla</title>
-</programme>
-<programme start="20260102023000 +0000" stop="20260102060000 +0000" channel="ANTV.vision">
-<title>Dilwale</title>
 </programme>
 <programme start="20260102060000 +0000" stop="20260102073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
@@ -1497,4 +1491,10 @@
 </programme>
 <programme start="20260102003000 +0000" stop="20260102010000 +0000" channel="DAAI TV.vision">
 <title>Darwin &amp; Newts</title>
+</programme>
+<programme start="20260102010000 +0000" stop="20260102013000 +0000" channel="DAAI TV.vision">
+<title>Clifford</title>
+</programme>
+<programme start="20260102013000 +0000" stop="20260102020000 +0000" channel="DAAI TV.vision">
+<title>At Indonesia</title>
 </programme>
