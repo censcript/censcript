@@ -1,7 +1,3 @@
-<programme start="20260102230000 +0700" stop="20260102233000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>UEFA Champions League Magazine 2024-25 E15</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260102233000 +0700" stop="20260103003000 +0700" channel="COSMOTE Sport 1 HD">
     <title>UEL &amp; UECL Magazine 2025-26 E8</title>
     <desc>Live: Tidak</desc>
@@ -78,9 +74,9 @@
     <title>UEFA Champions League Highlights 2025-26</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260102225500 +0700" stop="20260102232500 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Serie A Inside Serie A 2025-26 E18</title>
-    <desc>Live: Tidak</desc>
+<programme start="20260104000000 +0700" stop="20260104020000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: Juventus Football Club - Lecce (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260102232500 +0700" stop="20260103013500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Volos - Panetolikos</title>
@@ -149,6 +145,14 @@
 <programme start="20260103220000 +0700" stop="20260104000000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Dundee United - Dundee (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20260104000000 +0700" stop="20260104003000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Sports Classics: Football Countdowns E8</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260104003000 +0700" stop="20260104010000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Sports Classics: Worldies E17</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260102223000 +0700" stop="20260103003500 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Al-Kholood - Al Hilal</title>
@@ -222,6 +226,14 @@
     <title>Emirates FA Cup 2025-26 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260104000500 +0700" stop="20260104003000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>William Hill Scottish Premiership - Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260104003000 +0700" stop="20260104023000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Al Ittihad - Al Taawon (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
 <programme start="20260102220000 +0700" stop="20260103002500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Charlotte Hornets - Golden State Warriors</title>
     <desc>Live: Tidak</desc>
@@ -290,13 +302,9 @@
     <title>ACB Liga Endesa 2025-26 - Fifth Quarter E12</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260102222000 +0700" stop="20260102231000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>2025 GT World Challenge Europe</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260102231000 +0700" stop="20260103000000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>DTM</title>
-    <desc>Live: Tidak</desc>
+<programme start="20260104000000 +0700" stop="20260104020000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Badalona - Tenerife (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260103000000 +0700" stop="20260103010000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Motorsports: MotoGP</title>
@@ -386,12 +394,12 @@
     <title>WRC</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260102230000 +0700" stop="20260102233000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Watersports: Inside Sailing E12</title>
+<programme start="20260104000000 +0700" stop="20260104003000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Extreme E - Highlights 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260102233000 +0700" stop="20260103000000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Sports Classics: The Outdoor Sports Show 2024 E12</title>
+<programme start="20260104003000 +0700" stop="20260104010000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Sports Classics: Gearing Up 2024 E12</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260103000000 +0700" stop="20260103003000 +0700" channel="COSMOTE Sport 6 HD">

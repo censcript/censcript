@@ -229,10 +229,7 @@
 <programme start="20260103113000 +0000" stop="20260103130000 +0000" channel="GTV.vision">
 <title>New Family 100 (GTV)</title>
 </programme>
-<programme start="20260102000000 +0000" stop="20260102001000 +0000" channel="iNews.vision">
-<title>iNews Terkini</title>
-</programme>
-<programme start="20260102001000 +0000" stop="20260102010000 +0000" channel="iNews.vision">
+<programme start="20260102000000 +0000" stop="20260102010000 +0000" channel="iNews.vision">
 <title>Morning Update</title>
 </programme>
 <programme start="20260102010000 +0000" stop="20260102021500 +0000" channel="iNews.vision">
@@ -256,10 +253,7 @@
 <programme start="20260102093000 +0000" stop="20260102120000 +0000" channel="iNews.vision">
 <title>Inews Sore (Live)</title>
 </programme>
-<programme start="20260102120000 +0000" stop="20260102120300 +0000" channel="iNews.vision">
-<title>iNews Terkini</title>
-</programme>
-<programme start="20260102120300 +0000" stop="20260102133000 +0000" channel="iNews.vision">
+<programme start="20260102120000 +0000" stop="20260102133000 +0000" channel="iNews.vision">
 <title>iNews Room (L)</title>
 </programme>
 <programme start="20260102133000 +0000" stop="20260102143000 +0000" channel="iNews.vision">
@@ -269,7 +263,7 @@
 <title>iNews Malam (Live)</title>
 </programme>
 <programme start="20260102150000 +0000" stop="20260102160000 +0000" channel="iNews.vision">
-<title>Inews Files (Live)</title>
+<title>iNews Files</title>
 </programme>
 <programme start="20260102160000 +0000" stop="20260102163000 +0000" channel="iNews.vision">
 <title>iNews Sport (L)</title>
@@ -307,16 +301,13 @@
 <programme start="20260102233000 +0000" stop="20260103000000 +0000" channel="iNews.vision">
 <title>Special Report</title>
 </programme>
-<programme start="20260103000000 +0000" stop="20260103001000 +0000" channel="iNews.vision">
-<title>iNews Terkini</title>
-</programme>
-<programme start="20260103001000 +0000" stop="20260103003000 +0000" channel="iNews.vision">
+<programme start="20260103000000 +0000" stop="20260103003000 +0000" channel="iNews.vision">
 <title>iBreak: The One Entrepreneur</title>
 </programme>
-<programme start="20260103003000 +0000" stop="20260103013000 +0000" channel="iNews.vision">
+<programme start="20260103003000 +0000" stop="20260103010000 +0000" channel="iNews.vision">
 <title>Special Report</title>
 </programme>
-<programme start="20260103013000 +0000" stop="20260103023000 +0000" channel="iNews.vision">
+<programme start="20260103010000 +0000" stop="20260103023000 +0000" channel="iNews.vision">
 <title>Realita</title>
 </programme>
 <programme start="20260103023000 +0000" stop="20260103033000 +0000" channel="iNews.vision">
@@ -541,6 +532,18 @@
 <programme start="20260102013000 +0000" stop="20260102023000 +0000" channel="Trans 7.vision">
 <title>FYP (For Your Pagi)</title>
 </programme>
+<programme start="20260102023000 +0000" stop="20260102043000 +0000" channel="Trans 7.vision">
+<title>Laut Tengah</title>
+</programme>
+<programme start="20260102043000 +0000" stop="20260102063000 +0000" channel="Trans 7.vision">
+<title>Ancika</title>
+</programme>
+<programme start="20260102063000 +0000" stop="20260102083000 +0000" channel="Trans 7.vision">
+<title>Layangan Putus The Movie</title>
+</programme>
+<programme start="20260102083000 +0000" stop="20260102110000 +0000" channel="Trans 7.vision">
+<title>Sekawan Limo</title>
+</programme>
 <programme start="20260102110000 +0000" stop="20260102133000 +0000" channel="Trans 7.vision">
 <title>Exhuma</title>
 </programme>
@@ -610,11 +613,17 @@
 <programme start="20260101230000 +0000" stop="20260102003000 +0000" channel="ANTV.vision">
 <title>Takdir Cinta Layla</title>
 </programme>
+<programme start="20260102023000 +0000" stop="20260102060000 +0000" channel="ANTV.vision">
+<title>Dilwale</title>
+</programme>
 <programme start="20260102060000 +0000" stop="20260102073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
 <programme start="20260102073000 +0000" stop="20260102090000 +0000" channel="ANTV.vision">
 <title>Shani</title>
+</programme>
+<programme start="20260102090000 +0000" stop="20260102110000 +0000" channel="ANTV.vision">
+<title>Saur Sepuh 2: Kembang Gunung...</title>
 </programme>
 <programme start="20260102110000 +0000" stop="20260102123000 +0000" channel="ANTV.vision">
 <title>Senandung Cinta Lilis</title>
@@ -916,68 +925,56 @@
 <programme start="20260102163000 +0000" stop="20260102170000 +0000" channel="Kompas TV.vision">
 <title>Kilas Kompas</title>
 </programme>
-<programme start="20260102170000 +0000" stop="20260102180000 +0000" channel="Kompas TV.vision">
-<title>Berita Utama</title>
+<programme start="20260102170000 +0000" stop="20260102183000 +0000" channel="Kompas TV.vision">
+<title>Kompas TV</title>
 </programme>
-<programme start="20260102180000 +0000" stop="20260102193000 +0000" channel="Kompas TV.vision">
-<title>Kompas Petang</title>
+<programme start="20260102183000 +0000" stop="20260102190000 +0000" channel="Kompas TV.vision">
+<title>Kompas TV</title>
 </programme>
-<programme start="20260102193000 +0000" stop="20260102200000 +0000" channel="Kompas TV.vision">
-<title>Kompas Malam</title>
+<programme start="20260102190000 +0000" stop="20260102200000 +0000" channel="Kompas TV.vision">
+<title>Kompas TV</title>
 </programme>
 <programme start="20260102200000 +0000" stop="20260102210000 +0000" channel="Kompas TV.vision">
-<title>Kalam Hati</title>
+<title>Kompas TV</title>
 </programme>
 <programme start="20260102210000 +0000" stop="20260102213000 +0000" channel="Kompas TV.vision">
-<title>Borgol</title>
+<title>Kompas TV</title>
 </programme>
 <programme start="20260102213000 +0000" stop="20260103000000 +0000" channel="Kompas TV.vision">
-<title>Kompas Pagi Akhir Pekan</title>
+<title>Kompas TV</title>
 </programme>
-<programme start="20260103000000 +0000" stop="20260103013000 +0000" channel="Kompas TV.vision">
-<title>Sapa Indonesia Pagi</title>
+<programme start="20260103000000 +0000" stop="20260103023000 +0000" channel="Kompas TV.vision">
+<title>Kompas TV</title>
 </programme>
-<programme start="20260103013000 +0000" stop="20260103020000 +0000" channel="Kompas TV.vision">
-<title>Just For Laughs Gags</title>
-</programme>
-<programme start="20260103020000 +0000" stop="20260103023000 +0000" channel="Kompas TV.vision">
-<title>Jalan-Jalan</title>
-</programme>
-<programme start="20260103023000 +0000" stop="20260103030000 +0000" channel="Kompas TV.vision">
-<title>Pop News</title>
-</programme>
-<programme start="20260103030000 +0000" stop="20260103033000 +0000" channel="Kompas TV.vision">
-<title>Kompas Sepekan</title>
+<programme start="20260103023000 +0000" stop="20260103033000 +0000" channel="Kompas TV.vision">
+<title>Kompas TV</title>
 </programme>
 <programme start="20260103033000 +0000" stop="20260103040000 +0000" channel="Kompas TV.vision">
-<title>Cerita Rasa</title>
+<title>Kompas TV</title>
 </programme>
-<programme start="20260103040000 +0000" stop="20260103050000 +0000" channel="Kompas TV.vision">
-<title>Kompas Siang</title>
+<programme start="20260103040000 +0000" stop="20260103060000 +0000" channel="Kompas TV.vision">
+<title>Kompas TV</title>
 </programme>
-<programme start="20260103050000 +0000" stop="20260103053000 +0000" channel="Kompas TV.vision">
-<title>Borgol</title>
+<programme start="20260103060000 +0000" stop="20260103070000 +0000" channel="Kompas TV.vision">
+<title>Kompas TV</title>
 </programme>
-<programme start="20260103053000 +0000" stop="20260103060000 +0000" channel="Kompas TV.vision">
-<title>News Or Hoax</title>
+<programme start="20260103070000 +0000" stop="20260103073000 +0000" channel="Kompas TV.vision">
+<title>Kompas TV</title>
 </programme>
-<programme start="20260103060000 +0000" stop="20260103063000 +0000" channel="Kompas TV.vision">
-<title>Pop News</title>
+<programme start="20260103073000 +0000" stop="20260103080000 +0000" channel="Kompas TV.vision">
+<title>Kompas TV</title>
 </programme>
-<programme start="20260103063000 +0000" stop="20260103070000 +0000" channel="Kompas TV.vision">
-<title>Kompas Sepekan</title>
+<programme start="20260103080000 +0000" stop="20260103083000 +0000" channel="Kompas TV.vision">
+<title>Kompas TV</title>
 </programme>
-<programme start="20260103070000 +0000" stop="20260103080000 +0000" channel="Kompas TV.vision">
-<title>Berita Utama</title>
+<programme start="20260103083000 +0000" stop="20260103090000 +0000" channel="Kompas TV.vision">
+<title>Kompas TV</title>
 </programme>
-<programme start="20260103080000 +0000" stop="20260103090000 +0000" channel="Kompas TV.vision">
-<title>Cerita Militer</title>
+<programme start="20260103090000 +0000" stop="20260103103000 +0000" channel="Kompas TV.vision">
+<title>Kompas TV</title>
 </programme>
-<programme start="20260103090000 +0000" stop="20260103110000 +0000" channel="Kompas TV.vision">
-<title>Kompas Petang</title>
-</programme>
-<programme start="20260103110000 +0000" stop="20260103120000 +0000" channel="Kompas TV.vision">
-<title>Gelar Perkara</title>
+<programme start="20260103103000 +0000" stop="20260103123000 +0000" channel="Kompas TV.vision">
+<title>Kompas TV</title>
 </programme>
 <programme start="20260102000000 +0000" stop="20260102000500 +0000" channel="Metro TV.vision">
 <title>Metro TV</title>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20260103110000 +0000" stop="20260103130000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
+</programme>
+<programme start="20260102000000 +0000" stop="20260102003000 +0000" channel="DAAI TV.vision">
+<title>Dr. Panda</title>
 </programme>
