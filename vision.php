@@ -547,15 +547,6 @@
 <programme start="20260102133000 +0000" stop="20260102150000 +0000" channel="Trans 7.vision">
 <title>Arisan</title>
 </programme>
-<programme start="20260102150000 +0000" stop="20260102174500 +0000" channel="Trans 7.vision">
-<title>Do You See What I See</title>
-</programme>
-<programme start="20260102174500 +0000" stop="20260102190000 +0000" channel="Trans 7.vision">
-<title>Prison On Fire</title>
-</programme>
-<programme start="20260102190000 +0000" stop="20260102203000 +0000" channel="Trans 7.vision">
-<title>Warkop: Chips</title>
-</programme>
 <programme start="20260102203000 +0000" stop="20260102213000 +0000" channel="Trans 7.vision">
 <title>Anak Sekolah</title>
 </programme>
@@ -621,18 +612,6 @@
 </programme>
 <programme start="20260102123000 +0000" stop="20260102143000 +0000" channel="ANTV.vision">
 <title>Yang Perkasa</title>
-</programme>
-<programme start="20260102143000 +0000" stop="20260102163000 +0000" channel="ANTV.vision">
-<title>Bagi-Bagi Dong</title>
-</programme>
-<programme start="20260102163000 +0000" stop="20260102183000 +0000" channel="ANTV.vision">
-<title>Pengabdi Setan</title>
-</programme>
-<programme start="20260102183000 +0000" stop="20260102200000 +0000" channel="ANTV.vision">
-<title>Mutation Mars</title>
-</programme>
-<programme start="20260102200000 +0000" stop="20260102213000 +0000" channel="ANTV.vision">
-<title>Coffin Mountaint Tomb</title>
 </programme>
 <programme start="20260102213000 +0000" stop="20260102223000 +0000" channel="ANTV.vision">
 <title>Edge Of Fear</title>
@@ -1497,4 +1476,25 @@
 </programme>
 <programme start="20260103110000 +0000" stop="20260103130000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
+</programme>
+<programme start="20260102000000 +0000" stop="20260102003000 +0000" channel="DAAI TV.vision">
+<title>Dr. Panda</title>
+</programme>
+<programme start="20260102003000 +0000" stop="20260102010000 +0000" channel="DAAI TV.vision">
+<title>Darwin &amp; Newts</title>
+</programme>
+<programme start="20260102010000 +0000" stop="20260102013000 +0000" channel="DAAI TV.vision">
+<title>Clifford</title>
+</programme>
+<programme start="20260102013000 +0000" stop="20260102020000 +0000" channel="DAAI TV.vision">
+<title>At Indonesia</title>
+</programme>
+<programme start="20260102020000 +0000" stop="20260102030000 +0000" channel="DAAI TV.vision">
+<title>Bincang Sehati</title>
+</programme>
+<programme start="20260102030000 +0000" stop="20260102033000 +0000" channel="DAAI TV.vision">
+<title>Sehat Ala Timur</title>
+</programme>
+<programme start="20260102033000 +0000" stop="20260102040000 +0000" channel="DAAI TV.vision">
+<title>Vegetarian Kitchen</title>
 </programme>
