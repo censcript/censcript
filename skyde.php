@@ -3453,50 +3453,44 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260102223500 +0000" stop="20260102230000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Harley Quinn</title>
 </programme>
-<programme start="20251231232000 +0000" stop="20260101011500 +0000" channel="Warner TV Film.skyde">
-    <title>Ocean&#039;s 13</title>
-</programme>
-<programme start="20260101011500 +0000" stop="20260101030500 +0000" channel="Warner TV Film.skyde">
-    <title>Ocean&#039;s 8</title>
-</programme>
-<programme start="20260101030500 +0000" stop="20260101050000 +0000" channel="Warner TV Film.skyde">
-    <title>Lethal Weapon 3 - Die Profis sind zurück</title>
-</programme>
-<programme start="20260101050000 +0000" stop="20260101064500 +0000" channel="Warner TV Film.skyde">
-    <title>Ehekrieg</title>
-</programme>
-<programme start="20260101064500 +0000" stop="20260101084000 +0000" channel="Warner TV Film.skyde">
-    <title>Edge of Tomorrow - Live. Die. Repeat</title>
-</programme>
-<programme start="20260101084000 +0000" stop="20260101102000 +0000" channel="Warner TV Film.skyde">
+<programme start="20260102000000 +0000" stop="20260102013500 +0000" channel="Warner TV Film.skyde">
     <title>Police Academy - Dümmer als die Polizei erlaubt</title>
 </programme>
-<programme start="20260101102000 +0000" stop="20260101115000 +0000" channel="Warner TV Film.skyde">
+<programme start="20260102013500 +0000" stop="20260102030000 +0000" channel="Warner TV Film.skyde">
     <title>Police Academy 2 - Jetzt geht&#039;s erst richtig los</title>
 </programme>
-<programme start="20260101115000 +0000" stop="20260101131500 +0000" channel="Warner TV Film.skyde">
+<programme start="20260102030000 +0000" stop="20260102042000 +0000" channel="Warner TV Film.skyde">
     <title>Police Academy 3 - ...und keiner kann sie bremsen</title>
 </programme>
-<programme start="20260101131500 +0000" stop="20260101144500 +0000" channel="Warner TV Film.skyde">
-    <title>Police Academy 4 - Und jetzt geht&#039;s rund</title>
+<programme start="20260102042000 +0000" stop="20260102050000 +0000" channel="Warner TV Film.skyde">
+    <title>Ein Abend mit... David Kross</title>
 </programme>
-<programme start="20260101144500 +0000" stop="20260101162000 +0000" channel="Warner TV Film.skyde">
-    <title>Police Academy 5 - Auftrag Miami Beach</title>
+<programme start="20260102050000 +0000" stop="20260102075500 +0000" channel="Warner TV Film.skyde">
+    <title>Meuterei auf der Bounty</title>
 </programme>
-<programme start="20260101162000 +0000" stop="20260101174500 +0000" channel="Warner TV Film.skyde">
-    <title>Police Academy 6 - Widerstand zwecklos</title>
+<programme start="20260102075500 +0000" stop="20260102095500 +0000" channel="Warner TV Film.skyde">
+    <title>Pat Garrett jagt Billy the Kid</title>
 </programme>
-<programme start="20260101174500 +0000" stop="20260101191500 +0000" channel="Warner TV Film.skyde">
-    <title>Police Academy 7 - Mission in Moskau</title>
+<programme start="20260102095500 +0000" stop="20260102120000 +0000" channel="Warner TV Film.skyde">
+    <title>Batman</title>
 </programme>
-<programme start="20260101191500 +0000" stop="20260101205500 +0000" channel="Warner TV Film.skyde">
+<programme start="20260102120000 +0000" stop="20260102142500 +0000" channel="Warner TV Film.skyde">
+    <title>Transformers</title>
+</programme>
+<programme start="20260102142500 +0000" stop="20260102160500 +0000" channel="Warner TV Film.skyde">
     <title>Rush Hour</title>
 </programme>
-<programme start="20260101205500 +0000" stop="20260101223000 +0000" channel="Warner TV Film.skyde">
+<programme start="20260102160500 +0000" stop="20260102174000 +0000" channel="Warner TV Film.skyde">
     <title>Rush Hour 2</title>
 </programme>
-<programme start="20260101223000 +0000" stop="20260102000000 +0000" channel="Warner TV Film.skyde">
+<programme start="20260102174000 +0000" stop="20260102191500 +0000" channel="Warner TV Film.skyde">
     <title>Rush Hour 3</title>
+</programme>
+<programme start="20260102191500 +0000" stop="20260102205500 +0000" channel="Warner TV Film.skyde">
+    <title>The Running Man</title>
+</programme>
+<programme start="20260102205500 +0000" stop="20260102233500 +0000" channel="Warner TV Film.skyde">
+    <title>Transformers 3 - Die dunkle Seite des Mondes</title>
 </programme>
 <programme start="20260102000000 +0000" stop="20260102013500 +0000" channel="Warner TV Film HD.skyde">
     <title>Police Academy - Dümmer als die Polizei erlaubt</title>
