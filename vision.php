@@ -229,7 +229,10 @@
 <programme start="20260103113000 +0000" stop="20260103130000 +0000" channel="GTV.vision">
 <title>New Family 100 (GTV)</title>
 </programme>
-<programme start="20260102000000 +0000" stop="20260102010000 +0000" channel="iNews.vision">
+<programme start="20260102000000 +0000" stop="20260102001000 +0000" channel="iNews.vision">
+<title>iNews Terkini</title>
+</programme>
+<programme start="20260102001000 +0000" stop="20260102010000 +0000" channel="iNews.vision">
 <title>Morning Update</title>
 </programme>
 <programme start="20260102010000 +0000" stop="20260102021500 +0000" channel="iNews.vision">
@@ -253,7 +256,10 @@
 <programme start="20260102093000 +0000" stop="20260102120000 +0000" channel="iNews.vision">
 <title>Inews Sore (Live)</title>
 </programme>
-<programme start="20260102120000 +0000" stop="20260102133000 +0000" channel="iNews.vision">
+<programme start="20260102120000 +0000" stop="20260102120300 +0000" channel="iNews.vision">
+<title>iNews Terkini</title>
+</programme>
+<programme start="20260102120300 +0000" stop="20260102133000 +0000" channel="iNews.vision">
 <title>iNews Room (L)</title>
 </programme>
 <programme start="20260102133000 +0000" stop="20260102143000 +0000" channel="iNews.vision">
@@ -263,7 +269,7 @@
 <title>iNews Malam (Live)</title>
 </programme>
 <programme start="20260102150000 +0000" stop="20260102160000 +0000" channel="iNews.vision">
-<title>iNews Files</title>
+<title>Inews Files (Live)</title>
 </programme>
 <programme start="20260102160000 +0000" stop="20260102163000 +0000" channel="iNews.vision">
 <title>iNews Sport (L)</title>
@@ -301,13 +307,16 @@
 <programme start="20260102233000 +0000" stop="20260103000000 +0000" channel="iNews.vision">
 <title>Special Report</title>
 </programme>
-<programme start="20260103000000 +0000" stop="20260103003000 +0000" channel="iNews.vision">
+<programme start="20260103000000 +0000" stop="20260103001000 +0000" channel="iNews.vision">
+<title>iNews Terkini</title>
+</programme>
+<programme start="20260103001000 +0000" stop="20260103003000 +0000" channel="iNews.vision">
 <title>iBreak: The One Entrepreneur</title>
 </programme>
-<programme start="20260103003000 +0000" stop="20260103010000 +0000" channel="iNews.vision">
+<programme start="20260103003000 +0000" stop="20260103013000 +0000" channel="iNews.vision">
 <title>Special Report</title>
 </programme>
-<programme start="20260103010000 +0000" stop="20260103023000 +0000" channel="iNews.vision">
+<programme start="20260103013000 +0000" stop="20260103023000 +0000" channel="iNews.vision">
 <title>Realita</title>
 </programme>
 <programme start="20260103023000 +0000" stop="20260103033000 +0000" channel="iNews.vision">
@@ -531,9 +540,6 @@
 </programme>
 <programme start="20260102013000 +0000" stop="20260102023000 +0000" channel="Trans 7.vision">
 <title>FYP (For Your Pagi)</title>
-</programme>
-<programme start="20260102063000 +0000" stop="20260102083000 +0000" channel="Trans 7.vision">
-<title>Layangan Putus The Movie</title>
 </programme>
 <programme start="20260102083000 +0000" stop="20260102110000 +0000" channel="Trans 7.vision">
 <title>Sekawan Limo</title>
@@ -1491,10 +1497,4 @@
 </programme>
 <programme start="20260102003000 +0000" stop="20260102010000 +0000" channel="DAAI TV.vision">
 <title>Darwin &amp; Newts</title>
-</programme>
-<programme start="20260102010000 +0000" stop="20260102013000 +0000" channel="DAAI TV.vision">
-<title>Clifford</title>
-</programme>
-<programme start="20260102013000 +0000" stop="20260102020000 +0000" channel="DAAI TV.vision">
-<title>At Indonesia</title>
 </programme>
