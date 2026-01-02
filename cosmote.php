@@ -74,6 +74,10 @@
     <title>Football: Como - Udinese (L)</title>
     <desc>Live: Ya</desc>
 </programme>
+<programme start="20260103203000 +0700" stop="20260103210000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Sports Classics: Worldies E25</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260102181500 +0700" stop="20260102202500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: AEL Novibet - Atromitos</title>
     <desc>Live: Tidak</desc>
@@ -214,8 +218,12 @@
     <title>Football: Gil Vicente - Sporting CP</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260102170000 +0700" stop="20260102193000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Brooklyn Nets - Houston Rockets</title>
+<programme start="20260103200000 +0700" stop="20260103203000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Copa Libertadores 2025 - Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260103203000 +0700" stop="20260103210000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>William Hill Scottish Premiership - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260102193000 +0700" stop="20260102220000 +0700" channel="COSMOTE Sport 4 HD">
@@ -272,6 +280,14 @@
 </programme>
 <programme start="20260103180000 +0700" stop="20260103200000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Unicaja - Karditsa</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260103200000 +0700" stop="20260103203500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>NBA Action 2025-26 E3511</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260103203500 +0700" stop="20260103230000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Brooklyn Nets - Houston Rockets</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260102190000 +0700" stop="20260102204000 +0700" channel="COSMOTE Sport 5 HD">
@@ -366,6 +382,10 @@
     <title>Motorsports: MotoGP 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260103205000 +0700" stop="20260103223000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: MotoGP 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260102180000 +0700" stop="20260102205000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Volleyball: Olympiacos - Eczacibasi Dynavit Istanbul</title>
     <desc>Live: Tidak</desc>
@@ -452,6 +472,10 @@
 </programme>
 <programme start="20260103194000 +0700" stop="20260103203000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Sports Classics: 2025 Outdoor Specials</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260103203000 +0700" stop="20260103210000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>HYROX - The World of Fitness Racing E2</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260102190000 +0700" stop="20260102210000 +0700" channel="COSMOTE Sport 7 HD">

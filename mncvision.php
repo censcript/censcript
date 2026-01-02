@@ -724,7 +724,84 @@
 <programme start="20260102151500 +0000" stop="20260102154500 +0000" channel="AXN HD.mncvision">
     <title>Salt</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260101175000 +0000" stop="20260101190000 +0000" channel="BBC Earth.mncvision">
+    <title>Human S1, Ep 5</title>
+</programme>
+<programme start="20260101190000 +0000" stop="20260101195000 +0000" channel="BBC Earth.mncvision">
+    <title>Running Wild S2, Ep 8</title>
+</programme>
+<programme start="20260101195000 +0000" stop="20260101205000 +0000" channel="BBC Earth.mncvision">
+    <title>Joanna Lumley&#039;s Japan S1, Ep 1</title>
+</programme>
+<programme start="20260101205000 +0000" stop="20260101220000 +0000" channel="BBC Earth.mncvision">
+    <title>Human S1, Ep 5</title>
+</programme>
+<programme start="20260101220000 +0000" stop="20260101225500 +0000" channel="BBC Earth.mncvision">
+    <title>Joanna Lumley&#039;s Japan S1, Ep 1</title>
+</programme>
+<programme start="20260101225500 +0000" stop="20260102000000 +0000" channel="BBC Earth.mncvision">
+    <title>Solar System S1, Ep 2</title>
+</programme>
+<programme start="20260102000000 +0000" stop="20260102005000 +0000" channel="BBC Earth.mncvision">
+    <title>Running Wild S2, Ep 8</title>
+</programme>
+<programme start="20260102005000 +0000" stop="20260102014500 +0000" channel="BBC Earth.mncvision">
+    <title>Lumley&#039;s Unseen Adv. S1, Ep 2</title>
+</programme>
+<programme start="20260102014500 +0000" stop="20260102024000 +0000" channel="BBC Earth.mncvision">
+    <title>Joanna Lumley&#039;s Japan S1, Ep 1</title>
+</programme>
+<programme start="20260102024000 +0000" stop="20260102034000 +0000" channel="BBC Earth.mncvision">
+    <title>Griff&#039;s Canadian Adv. S1, Ep 4</title>
+</programme>
+<programme start="20260102034000 +0000" stop="20260102043500 +0000" channel="BBC Earth.mncvision">
+    <title>Lumley&#039;s Unseen Adv. S1, Ep 2</title>
+</programme>
+<programme start="20260102043500 +0000" stop="20260102053000 +0000" channel="BBC Earth.mncvision">
+    <title>Frozen Planet S1, Ep 5</title>
+</programme>
+<programme start="20260102053000 +0000" stop="20260102063500 +0000" channel="BBC Earth.mncvision">
+    <title>Solar System S1, Ep 2</title>
+</programme>
+<programme start="20260102063500 +0000" stop="20260102072500 +0000" channel="BBC Earth.mncvision">
+    <title>Engineering Reborn S1, Ep 5</title>
+</programme>
+<programme start="20260102072500 +0000" stop="20260102082500 +0000" channel="BBC Earth.mncvision">
+    <title>Saving Venice</title>
+</programme>
+<programme start="20260102082500 +0000" stop="20260102091500 +0000" channel="BBC Earth.mncvision">
+    <title>Running Wild S2, Ep 8</title>
+</programme>
+<programme start="20260102091500 +0000" stop="20260102101000 +0000" channel="BBC Earth.mncvision">
+    <title>Griff&#039;s Canadian Adv. S1, Ep 4</title>
+</programme>
+<programme start="20260102101000 +0000" stop="20260102110500 +0000" channel="BBC Earth.mncvision">
+    <title>Lumley&#039;s Unseen Adv. S1, Ep 2</title>
+</programme>
+<programme start="20260102110500 +0000" stop="20260102115500 +0000" channel="BBC Earth.mncvision">
+    <title>Running Wild S2, Ep 9</title>
+</programme>
+<programme start="20260102115500 +0000" stop="20260102125500 +0000" channel="BBC Earth.mncvision">
+    <title>Zoo Quest In Colour S1, Ep 2</title>
+</programme>
+<programme start="20260102125500 +0000" stop="20260102132500 +0000" channel="BBC Earth.mncvision">
+    <title>Greatest Train Journeys, Ep 1</title>
+</programme>
+<programme start="20260102132500 +0000" stop="20260102135500 +0000" channel="BBC Earth.mncvision">
+    <title>Greatest Train Journeys, Ep 2</title>
+</programme>
+<programme start="20260102135500 +0000" stop="20260102145500 +0000" channel="BBC Earth.mncvision">
+    <title>Deadliest Weather S6, Ep 3</title>
+</programme>
+<programme start="20260102145500 +0000" stop="20260102154500 +0000" channel="BBC Earth.mncvision">
+    <title>Running Wild S2, Ep 9</title>
+</programme>
+<programme start="20260102154500 +0000" stop="20260102164500 +0000" channel="BBC Earth.mncvision">
+    <title>Zoo Quest In Colour S1, Ep 2</title>
+</programme>
+<programme start="20260102164500 +0000" stop="20260101171500 +0000" channel="BBC Earth.mncvision">
+    <title>Greatest Train Journeys, Ep 1</title>
+</programme>
 <programme start="20260101175000 +0000" stop="20260101190000 +0000" channel="BBC Earth HD.mncvision">
     <title>Human S1, Ep 5</title>
 </programme>
@@ -3458,8 +3535,198 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260102160000 +0000" stop="20260102163000 +0000" channel="FOOD TRAVEL.mncvision">
     <title>Makan Bareng Luna</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260101170000 +0000" stop="20260101173000 +0000" channel="Food Travel HD.mncvision">
+    <title>Indonesian Authentic Places</title>
+</programme>
+<programme start="20260101173000 +0000" stop="20260101180000 +0000" channel="Food Travel HD.mncvision">
+    <title>Let&#039;s Go</title>
+</programme>
+<programme start="20260101180000 +0000" stop="20260101183000 +0000" channel="Food Travel HD.mncvision">
+    <title>Extreme Kuliner</title>
+</programme>
+<programme start="20260101183000 +0000" stop="20260101193000 +0000" channel="Food Travel HD.mncvision">
+    <title>Untung Ada Rudy</title>
+</programme>
+<programme start="20260101193000 +0000" stop="20260101203000 +0000" channel="Food Travel HD.mncvision">
+    <title>Dapur Ngebor</title>
+</programme>
+<programme start="20260101203000 +0000" stop="20260101210000 +0000" channel="Food Travel HD.mncvision">
+    <title>Ada Tamu Gokil</title>
+</programme>
+<programme start="20260101210000 +0000" stop="20260101213000 +0000" channel="Food Travel HD.mncvision">
+    <title>Travel Addict</title>
+</programme>
+<programme start="20260101213000 +0000" stop="20260101220000 +0000" channel="Food Travel HD.mncvision">
+    <title>Rating 5</title>
+</programme>
+<programme start="20260101220000 +0000" stop="20260101223000 +0000" channel="Food Travel HD.mncvision">
+    <title>Indonesian Authentic Places</title>
+</programme>
+<programme start="20260101223000 +0000" stop="20260101230000 +0000" channel="Food Travel HD.mncvision">
+    <title>Celebs Food</title>
+</programme>
+<programme start="20260101230000 +0000" stop="20260101233000 +0000" channel="Food Travel HD.mncvision">
+    <title>Celebs Trip</title>
+</programme>
+<programme start="20260101233000 +0000" stop="20260102000000 +0000" channel="Food Travel HD.mncvision">
+    <title>Around The World</title>
+</programme>
+<programme start="20260102000000 +0000" stop="20260102003000 +0000" channel="Food Travel HD.mncvision">
+    <title>Selebriti Masak?</title>
+</programme>
+<programme start="20260102003000 +0000" stop="20260102010000 +0000" channel="Food Travel HD.mncvision">
+    <title>Viral Kuliner</title>
+</programme>
+<programme start="20260102010000 +0000" stop="20260102013000 +0000" channel="Food Travel HD.mncvision">
+    <title>Viral Kuliner Review</title>
+</programme>
+<programme start="20260102013000 +0000" stop="20260102020000 +0000" channel="Food Travel HD.mncvision">
+    <title>Kuliner Anak Nusantara</title>
+</programme>
+<programme start="20260102020000 +0000" stop="20260102023000 +0000" channel="Food Travel HD.mncvision">
+    <title>Rating 5</title>
+</programme>
+<programme start="20260102023000 +0000" stop="20260102030000 +0000" channel="Food Travel HD.mncvision">
+    <title>Extreme Kuliner</title>
+</programme>
+<programme start="20260102030000 +0000" stop="20260102033000 +0000" channel="Food Travel HD.mncvision">
+    <title>Around The World</title>
+</programme>
+<programme start="20260102033000 +0000" stop="20260102040000 +0000" channel="Food Travel HD.mncvision">
+    <title>Let&#039;s Go</title>
+</programme>
+<programme start="20260102040000 +0000" stop="20260102050000 +0000" channel="Food Travel HD.mncvision">
+    <title>Untung Ada Rudy</title>
+</programme>
+<programme start="20260102050000 +0000" stop="20260102060000 +0000" channel="Food Travel HD.mncvision">
+    <title>Makan Bareng Luna</title>
+</programme>
+<programme start="20260102060000 +0000" stop="20260102063000 +0000" channel="Food Travel HD.mncvision">
+    <title>Viral Kuliner</title>
+</programme>
+<programme start="20260102063000 +0000" stop="20260102070000 +0000" channel="Food Travel HD.mncvision">
+    <title>Viral Kuliner Review</title>
+</programme>
+<programme start="20260102070000 +0000" stop="20260102080000 +0000" channel="Food Travel HD.mncvision">
+    <title>Dapur Ngebor</title>
+</programme>
+<programme start="20260102080000 +0000" stop="20260102083000 +0000" channel="Food Travel HD.mncvision">
+    <title>Let&#039;s Go</title>
+</programme>
+<programme start="20260102083000 +0000" stop="20260102090000 +0000" channel="Food Travel HD.mncvision">
+    <title>Kuliner Anak Nusantara</title>
+</programme>
+<programme start="20260102090000 +0000" stop="20260102100000 +0000" channel="Food Travel HD.mncvision">
+    <title>Untung Ada Rudy</title>
+</programme>
+<programme start="20260102100000 +0000" stop="20260102110000 +0000" channel="Food Travel HD.mncvision">
+    <title>Makan Bareng Luna</title>
+</programme>
+<programme start="20260102110000 +0000" stop="20260102113000 +0000" channel="Food Travel HD.mncvision">
+    <title>Viral Kuliner Review</title>
+</programme>
+<programme start="20260102113000 +0000" stop="20260102120000 +0000" channel="Food Travel HD.mncvision">
+    <title>Viral Kuliner</title>
+</programme>
+<programme start="20260102120000 +0000" stop="20260102123000 +0000" channel="Food Travel HD.mncvision">
+    <title>Rating 5</title>
+</programme>
+<programme start="20260102123000 +0000" stop="20260102130000 +0000" channel="Food Travel HD.mncvision">
+    <title>Indonesian Authentic Places &#039;22</title>
+</programme>
+<programme start="20260102130000 +0000" stop="20260102133000 +0000" channel="Food Travel HD.mncvision">
+    <title>Celebs Food</title>
+</programme>
+<programme start="20260102133000 +0000" stop="20260102140000 +0000" channel="Food Travel HD.mncvision">
+    <title>Extreme Kuliner</title>
+</programme>
+<programme start="20260102140000 +0000" stop="20260102143000 +0000" channel="Food Travel HD.mncvision">
+    <title>Around The World</title>
+</programme>
+<programme start="20260102143000 +0000" stop="20260102150000 +0000" channel="Food Travel HD.mncvision">
+    <title>Selebriti Masak?</title>
+</programme>
+<programme start="20260102150000 +0000" stop="20260102153000 +0000" channel="Food Travel HD.mncvision">
+    <title>Ada Tamu Gokil</title>
+</programme>
+<programme start="20260102153000 +0000" stop="20260102160000 +0000" channel="Food Travel HD.mncvision">
+    <title>Travel Addict</title>
+</programme>
+<programme start="20260102160000 +0000" stop="20260102163000 +0000" channel="Food Travel HD.mncvision">
+    <title>Makan Bareng Luna</title>
+</programme>
+<programme start="20260101170000 +0000" stop="20260101180000 +0000" channel="FOX News.mncvision">
+    <title>Outnumbered</title>
+</programme>
+<programme start="20260101180000 +0000" stop="20260101190000 +0000" channel="FOX News.mncvision">
+    <title>Fox News Live PM</title>
+</programme>
+<programme start="20260101190000 +0000" stop="20260101200000 +0000" channel="FOX News.mncvision">
+    <title>Fox News Live PM</title>
+</programme>
+<programme start="20260101200000 +0000" stop="20260101210000 +0000" channel="FOX News.mncvision">
+    <title>Fox News Live PM</title>
+</programme>
+<programme start="20260101210000 +0000" stop="20260101220000 +0000" channel="FOX News.mncvision">
+    <title>The Will Cain Show</title>
+</programme>
+<programme start="20260101220000 +0000" stop="20260101230000 +0000" channel="FOX News.mncvision">
+    <title>The Five</title>
+</programme>
+<programme start="20260101230000 +0000" stop="20260102000000 +0000" channel="FOX News.mncvision">
+    <title>Special Report With Bret Baier</title>
+</programme>
+<programme start="20260102000000 +0000" stop="20260102010000 +0000" channel="FOX News.mncvision">
+    <title>The Ingraham Angle</title>
+</programme>
+<programme start="20260102010000 +0000" stop="20260102020000 +0000" channel="FOX News.mncvision">
+    <title>Jesse Watters Primetime</title>
+</programme>
+<programme start="20260102020000 +0000" stop="20260102030000 +0000" channel="FOX News.mncvision">
+    <title>Hannity</title>
+</programme>
+<programme start="20260102030000 +0000" stop="20260102040000 +0000" channel="FOX News.mncvision">
+    <title>Gutfeld!</title>
+</programme>
+<programme start="20260102040000 +0000" stop="20260102050000 +0000" channel="FOX News.mncvision">
+    <title>Special Report With Bret Baier</title>
+</programme>
+<programme start="20260102050000 +0000" stop="20260102060000 +0000" channel="FOX News.mncvision">
+    <title>The Five</title>
+</programme>
+<programme start="20260102060000 +0000" stop="20260102070000 +0000" channel="FOX News.mncvision">
+    <title>Jesse Watters Primetime</title>
+</programme>
+<programme start="20260102070000 +0000" stop="20260102080000 +0000" channel="FOX News.mncvision">
+    <title>Hannity</title>
+</programme>
+<programme start="20260102080000 +0000" stop="20260102090000 +0000" channel="FOX News.mncvision">
+    <title>Gutfeld!</title>
+</programme>
+<programme start="20260102090000 +0000" stop="20260102100000 +0000" channel="FOX News.mncvision">
+    <title>The Ingraham Angle</title>
+</programme>
+<programme start="20260102100000 +0000" stop="20260102110000 +0000" channel="FOX News.mncvision">
+    <title>Fox &amp; Friends First</title>
+</programme>
+<programme start="20260102110000 +0000" stop="20260102120000 +0000" channel="FOX News.mncvision">
+    <title>Fox &amp; Friends</title>
+</programme>
+<programme start="20260102120000 +0000" stop="20260102130000 +0000" channel="FOX News.mncvision">
+    <title>Fox &amp; Friends</title>
+</programme>
+<programme start="20260102130000 +0000" stop="20260102140000 +0000" channel="FOX News.mncvision">
+    <title>Fox &amp; Friends</title>
+</programme>
+<programme start="20260102140000 +0000" stop="20260102150000 +0000" channel="FOX News.mncvision">
+    <title>America&#039;s Newsroom</title>
+</programme>
+<programme start="20260102150000 +0000" stop="20260102160000 +0000" channel="FOX News.mncvision">
+    <title>America&#039;s Newsroom</title>
+</programme>
+<programme start="20260102160000 +0000" stop="20260102163000 +0000" channel="FOX News.mncvision">
+    <title>The Faulkner Focus</title>
+</programme>
 <programme start="20260101170000 +0000" stop="20260101171000 +0000" channel="France 24 English.mncvision">
     <title>News (L)</title>
 </programme>
@@ -8431,8 +8698,78 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260102151000 +0000" stop="20260102154000 +0000" channel="Studio Universal HD.mncvision">
     <title>Oblivion</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260101182300 +0000" stop="20260101201900 +0000" channel="Superrix.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20260101201900 +0000" stop="20260101224400 +0000" channel="Superrix.mncvision">
+    <title>The Lost Girls</title>
+</programme>
+<programme start="20260101224400 +0000" stop="20260102013900 +0000" channel="Superrix.mncvision">
+    <title>Gold</title>
+</programme>
+<programme start="20260102013900 +0000" stop="20260102030900 +0000" channel="Superrix.mncvision">
+    <title>Christmas On Cobbler Street</title>
+</programme>
+<programme start="20260102030900 +0000" stop="20260102051200 +0000" channel="Superrix.mncvision">
+    <title>Bottom Of The 9th</title>
+</programme>
+<programme start="20260102051200 +0000" stop="20260102072100 +0000" channel="Superrix.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20260102072100 +0000" stop="20260102091100 +0000" channel="Superrix.mncvision">
+    <title>Cheerleader Nightmare</title>
+</programme>
+<programme start="20260102091100 +0000" stop="20260102105500 +0000" channel="Superrix.mncvision">
+    <title>Gold</title>
+</programme>
+<programme start="20260102105500 +0000" stop="20260102121800 +0000" channel="Superrix.mncvision">
+    <title>Bert&#039;s Diary</title>
+</programme>
+<programme start="20260102121800 +0000" stop="20260102140300 +0000" channel="Superrix.mncvision">
+    <title>Cosmic Sin</title>
+</programme>
+<programme start="20260102140300 +0000" stop="20260102155000 +0000" channel="Superrix.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20260102155000 +0000" stop="20260102162000 +0000" channel="Superrix.mncvision">
+    <title>Max Steel</title>
+</programme>
+<programme start="20260101182300 +0000" stop="20260101201900 +0000" channel="Superrix HD.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20260101201900 +0000" stop="20260101224400 +0000" channel="Superrix HD.mncvision">
+    <title>The Lost Girls</title>
+</programme>
+<programme start="20260101224400 +0000" stop="20260102013900 +0000" channel="Superrix HD.mncvision">
+    <title>Gold</title>
+</programme>
+<programme start="20260102013900 +0000" stop="20260102030900 +0000" channel="Superrix HD.mncvision">
+    <title>Christmas On Cobbler Street</title>
+</programme>
+<programme start="20260102030900 +0000" stop="20260102051200 +0000" channel="Superrix HD.mncvision">
+    <title>Bottom Of The 9th</title>
+</programme>
+<programme start="20260102051200 +0000" stop="20260102072100 +0000" channel="Superrix HD.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20260102072100 +0000" stop="20260102091100 +0000" channel="Superrix HD.mncvision">
+    <title>Cheerleader Nightmare</title>
+</programme>
+<programme start="20260102091100 +0000" stop="20260102105500 +0000" channel="Superrix HD.mncvision">
+    <title>Gold</title>
+</programme>
+<programme start="20260102105500 +0000" stop="20260102121800 +0000" channel="Superrix HD.mncvision">
+    <title>Bert&#039;s Diary</title>
+</programme>
+<programme start="20260102121800 +0000" stop="20260102140300 +0000" channel="Superrix HD.mncvision">
+    <title>Cosmic Sin</title>
+</programme>
+<programme start="20260102140300 +0000" stop="20260102155000 +0000" channel="Superrix HD.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20260102155000 +0000" stop="20260102162000 +0000" channel="Superrix HD.mncvision">
+    <title>Max Steel</title>
+</programme>
 <programme start="20260101170000 +0000" stop="20260101173000 +0000" channel="Tawaf TV.mncvision">
     <title>DMI TV</title>
 </programme>
