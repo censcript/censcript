@@ -2690,7 +2690,7 @@
         <title>SONGS</title>
     </programme>
     <programme start="20260101230000 +0000" stop="20260101233000 +0000" channel="Sun TV.starhub">
-        <title>NEWS</title>
+        <title>News</title>
     </programme>
     <programme start="20260101233000 +0000" stop="20260102000000 +0000" channel="Sun TV.starhub">
         <title>Vanakkam Thamizha</title>
