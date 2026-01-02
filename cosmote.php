@@ -74,9 +74,13 @@
     <title>Football: Juventus Football Club - Lecce (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260102232500 +0700" stop="20260103013500 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Volos - Panetolikos</title>
+<programme start="20260104020000 +0700" stop="20260104024500 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Sports Classics: Football&#039;s Greatest IV E10</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260104024500 +0700" stop="20260104044500 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: Atalanta - AS Roma (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260103013500 +0700" stop="20260103020500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Serie A Full Impact 2024-25 E17</title>
@@ -154,10 +158,6 @@
     <title>Football: SL Benfica - Estoril (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260103003500 +0700" stop="20260103014500 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Emirates FA Cup 2025-26 - Highlights</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260103014500 +0700" stop="20260103034500 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Gil Vicente - Sporting CP (L)</title>
     <desc>Live: Ya</desc>
@@ -230,8 +230,8 @@
     <title>Football: Al Ittihad - Al Taawon (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260103002500 +0700" stop="20260103015500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>NBA Specials: Basketball Stories</title>
+<programme start="20260104023000 +0700" stop="20260104043000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: APOEL - EN Paralimni</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260103015500 +0700" stop="20260103023000 +0700" channel="COSMOTE Sport 4 HD">
@@ -297,6 +297,10 @@
 <programme start="20260104000000 +0700" stop="20260104020000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Badalona - Tenerife (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20260104020000 +0700" stop="20260104040000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Fenerbahce - Manisa Basket</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260103010000 +0700" stop="20260103024000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Best of MotoGP 2025</title>
@@ -394,6 +398,10 @@
     <title>Best of MotoGP 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260104024000 +0700" stop="20260104042000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Best of MotoGP 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260103003000 +0700" stop="20260103021000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Volleyball: Olympiacos - Apeldoorn</title>
     <desc>Live: Tidak</desc>
@@ -488,6 +496,10 @@
 </programme>
 <programme start="20260104013000 +0700" stop="20260104023000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Nitto ATP Finals 2025 - Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260104023000 +0700" stop="20260104033000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>ATP 2025 - Review</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260103010000 +0700" stop="20260103030000 +0700" channel="COSMOTE Sport 7 HD">
