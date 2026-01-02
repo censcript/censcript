@@ -7744,16 +7744,16 @@
     <programme start="20260102153000 +0000" stop="20260102163000 +0000" channel="ABC Australia HD.starhub">
         <title>The Great Australian Bake Off S3</title>
     </programme>
-    <programme start="20260101133000 +0000" stop="20260101163000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260101133000 +0000" stop="20260101162000 +0000" channel="Asianet Movies.starhub">
         <title>Bramayugam</title>
     </programme>
-    <programme start="20260101163000 +0000" stop="20260101193000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260101162000 +0000" stop="20260101190000 +0000" channel="Asianet Movies.starhub">
         <title>Johny Johny Yes Appa</title>
     </programme>
-    <programme start="20260101193000 +0000" stop="20260101213000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260101190000 +0000" stop="20260101211000 +0000" channel="Asianet Movies.starhub">
         <title>Thaskara Lahala</title>
     </programme>
-    <programme start="20260101213000 +0000" stop="20260101233000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260101211000 +0000" stop="20260101234000 +0000" channel="Asianet Movies.starhub">
         <title>Parayam</title>
     </programme>
     <programme start="20260101234000 +0000" stop="20260102013000 +0000" channel="Asianet Movies.starhub">

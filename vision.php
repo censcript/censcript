@@ -613,9 +613,6 @@
 <programme start="20260101230000 +0000" stop="20260102003000 +0000" channel="ANTV.vision">
 <title>Takdir Cinta Layla</title>
 </programme>
-<programme start="20260102003000 +0000" stop="20260102023000 +0000" channel="ANTV.vision">
-<title>Misteri 8 Pendekar</title>
-</programme>
 <programme start="20260102023000 +0000" stop="20260102060000 +0000" channel="ANTV.vision">
 <title>Dilwale</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20260103110000 +0000" stop="20260103130000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
+</programme>
+<programme start="20260102000000 +0000" stop="20260102003000 +0000" channel="DAAI TV.vision">
+<title>Dr. Panda</title>
 </programme>
