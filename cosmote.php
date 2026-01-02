@@ -154,6 +154,10 @@
     <title>Sports Classics: Worldies E15</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260103220000 +0700" stop="20260104000000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Dundee United - Dundee (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
 <programme start="20260102203000 +0700" stop="20260102223000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Sheffield United - Leicester City FC</title>
     <desc>Live: Tidak</desc>
@@ -225,10 +229,6 @@
 <programme start="20260103210000 +0700" stop="20260103230000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Sassuolo - Parma (L)</title>
     <desc>Live: Ya</desc>
-</programme>
-<programme start="20260102193000 +0700" stop="20260102220000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Cleveland Cavaliers - Phoenix Suns</title>
-    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260102220000 +0700" stop="20260103002500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Charlotte Hornets - Golden State Warriors</title>
@@ -382,6 +382,10 @@
     <title>Motorsports: MotoGP 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260103223000 +0700" stop="20260103230000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Sports Classics: Gearing Up 2024 E11</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260102205000 +0700" stop="20260102223000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Handball: ThSV Eisenach - SC Magdeburg</title>
     <desc>Live: Tidak</desc>
@@ -476,6 +480,14 @@
 </programme>
 <programme start="20260103213000 +0700" stop="20260103220000 +0700" channel="COSMOTE Sport 6 HD">
     <title>HYROX - The World of Fitness Racing E4</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260103220000 +0700" stop="20260103223000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>HYROX - The World of Fitness Racing E5</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260103223000 +0700" stop="20260103230000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>HYROX - The World of Fitness Racing E3</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260102210000 +0700" stop="20260102230000 +0700" channel="COSMOTE Sport 7 HD">
