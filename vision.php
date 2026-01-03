@@ -655,9 +655,6 @@
 <programme start="20260102233000 +0000" stop="20260103003000 +0000" channel="ANTV.vision">
 <title>Takdir Cinta Layla</title>
 </programme>
-<programme start="20260103023000 +0000" stop="20260103060000 +0000" channel="ANTV.vision">
-<title>Ek Tha Tiger</title>
-</programme>
 <programme start="20260103060000 +0000" stop="20260103080000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -666,9 +663,6 @@
 </programme>
 <programme start="20260103103000 +0000" stop="20260103120000 +0000" channel="ANTV.vision">
 <title>Senandung Cinta Lilis</title>
-</programme>
-<programme start="20260103120000 +0000" stop="20260103133000 +0000" channel="ANTV.vision">
-<title>Sangkuriang</title>
 </programme>
 <programme start="20260103133000 +0000" stop="20260103160000 +0000" channel="ANTV.vision">
 <title>Serie A Liga Italia</title>
@@ -1497,4 +1491,10 @@
 </programme>
 <programme start="20260104080000 +0000" stop="20260104083000 +0000" channel="BTV.vision">
 <title>Cocoklogi</title>
+</programme>
+<programme start="20260104083000 +0000" stop="20260104103000 +0000" channel="BTV.vision">
+<title>Berita Satu Sore</title>
+</programme>
+<programme start="20260104103000 +0000" stop="20260104110000 +0000" channel="BTV.vision">
+<title>Berita Kriminal</title>
 </programme>
