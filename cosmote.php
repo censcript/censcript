@@ -66,10 +66,6 @@
     <title>Football: AC Sparta Praha - Aberdeen</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260103095000 +0700" stop="20260103120000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: AEK - OFI</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260103120000 +0700" stop="20260103141000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: AEL Novibet - Atromitos</title>
     <desc>Live: Tidak</desc>
@@ -138,6 +134,10 @@
     <title>Football: Cagliari - AC Milan</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260104120000 +0700" stop="20260104140000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Genoa - Pisa</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260103110000 +0700" stop="20260103130000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Southampton - Millwall</title>
     <desc>Live: Tidak</desc>
@@ -204,6 +204,10 @@
 </programme>
 <programme start="20260104110000 +0700" stop="20260104120000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Emirates FA Cup 2025-26 - Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260104120000 +0700" stop="20260104140000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Al Ittihad - Al Taawon</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260103110000 +0700" stop="20260103130000 +0700" channel="COSMOTE Sport 4 HD">
@@ -278,8 +282,8 @@
     <title>Basketball: Szolnoki Olaj - AEK</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260103110000 +0700" stop="20260103120000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Highlights: 2025 Extreme H</title>
+<programme start="20260104125000 +0700" stop="20260104130500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Sports Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260103120000 +0700" stop="20260103134000 +0700" channel="COSMOTE Sport 5 HD">
@@ -378,8 +382,8 @@
     <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260103110000 +0700" stop="20260103113000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Premier Padel Tour 2025 - Highlights</title>
+<programme start="20260104120000 +0700" stop="20260104134000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: MotoGP 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260103113000 +0700" stop="20260103123000 +0700" channel="COSMOTE Sport 6 HD">
@@ -472,6 +476,10 @@
 </programme>
 <programme start="20260104110000 +0700" stop="20260104120000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Next Gen ATP Finals 2025 - Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260104120000 +0700" stop="20260104130000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Nitto ATP Finals 2025 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260103110000 +0700" stop="20260103130000 +0700" channel="COSMOTE Sport 7 HD">

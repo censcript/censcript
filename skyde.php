@@ -3015,7 +3015,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260103212500 +0000" stop="20260103214500 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: Basketball NBA</title>
 </programme>
-<programme start="20260103214500 +0000" stop="20260104003000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260103214500 +0000" stop="20260104090000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Minnesota Timberwolves @ Miami Heat</title>
 </programme>
 <programme start="20260102232500 +0000" stop="20260103012000 +0000" channel="SYFY HD.skyde">
