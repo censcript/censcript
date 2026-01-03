@@ -664,6 +664,9 @@
 <programme start="20260103103000 +0000" stop="20260103120000 +0000" channel="ANTV.vision">
 <title>Senandung Cinta Lilis</title>
 </programme>
+<programme start="20260103120000 +0000" stop="20260103133000 +0000" channel="ANTV.vision">
+<title>Sangkuriang</title>
+</programme>
 <programme start="20260103133000 +0000" stop="20260103160000 +0000" channel="ANTV.vision">
 <title>Serie A Liga Italia</title>
 </programme>
@@ -1494,7 +1497,4 @@
 </programme>
 <programme start="20260104083000 +0000" stop="20260104103000 +0000" channel="BTV.vision">
 <title>Berita Satu Sore</title>
-</programme>
-<programme start="20260104103000 +0000" stop="20260104110000 +0000" channel="BTV.vision">
-<title>Berita Kriminal</title>
 </programme>
