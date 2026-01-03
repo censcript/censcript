@@ -8228,142 +8228,142 @@
     <title lang="id">Kde je ryba? - Boleni z kraje podzimu na nástrahy Topwater</title>
   </programme>
   <programme start="20260105000000 +0000" stop="20260105003000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">DOVIT - Bomb Feeder vs Method Feeder</title>
+    <title lang="id">Léto na jezeru Kastély-park tavak</title>
   </programme>
   <programme start="20260105003000 +0000" stop="20260105010000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">Satur Baits - Slunce, vítr, déšť, Legend lake</title>
+    <title lang="id">III. International Wild Carp Challenge na jezeru Tisza-tó</title>
   </programme>
   <programme start="20260105010000 +0000" stop="20260105013000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">András Némethy - Namibijské lovy (5)</title>
+    <title lang="id">Divočina - O lovu krokodýlů a hrochů</title>
   </programme>
   <programme start="20260105013000 +0000" stop="20260105020000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">Objevujeme lov s pomocí produktů Hikmicro</title>
+    <title lang="id">József Kolláth - Rybářská dobrodružství na Mauriciu</title>
   </programme>
   <programme start="20260105020000 +0000" stop="20260105023000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">József Kolláth - Rybářská dobrodružství na Mauriciu</title>
+    <title lang="id">Linzenbold Attila - V období srnčí říje - myslivecké příběhy ze Surjánu</title>
   </programme>
   <programme start="20260105023000 +0000" stop="20260105030000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">Feedermánie - Jak ulovit kapra přes 20 kilogramů na jezeru Bled</title>
+    <title lang="id">Fishmine - S4 - 6. Wolfgangsee (1)</title>
   </programme>
   <programme start="20260105030000 +0000" stop="20260105033000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">Pod vedením Marka (13)</title>
+    <title lang="id">Fishmine - S4 - 6. Wolfgangsee (2)</title>
   </programme>
   <programme start="20260105033000 +0000" stop="20260105040000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">MTC Baits - Naladěni na záběr</title>
+    <title lang="id">Modrý svět S03 E05</title>
   </programme>
   <programme start="20260105040000 +0000" stop="20260105043000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">Péter Pál Halmi - Na dlani Boží</title>
+    <title lang="id">Myslivecká horečka - Lov ve stopách bitvy u Moháče</title>
   </programme>
   <programme start="20260105043000 +0000" stop="20260105050000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">Myslivecká kuchyně - S Tamásem Fejszákem - Turecká pide s zebřím masem</title>
+    <title lang="id">Mistr zbrojíř - Sportovní střelba z pušky (1)</title>
   </programme>
   <programme start="20260105050000 +0000" stop="20260105053000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">Myslivecká horečka - Lov divočáků s křesadlovou puškou</title>
+    <title lang="id">Mistr zbrojíř - Sportovní střelba z pušky (2)</title>
   </programme>
   <programme start="20260105053000 +0000" stop="20260105060000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">Rybářské výpravy - Shanon, bláznivá řeka - Jezero jménem Touha</title>
+    <title lang="id">Gurmánští rybáři - Boj se sumci</title>
   </programme>
   <programme start="20260105060000 +0000" stop="20260105063000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">Kuchyně milovníků ryb - S GyörgyLiptákem</title>
+    <title lang="id">Kuchyně milovníků ryb - Bílé halászlé</title>
   </programme>
   <programme start="20260105063000 +0000" stop="20260105070000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">SEDO Fishing - Královna pískovny</title>
+    <title lang="id">V jednotě s přírodou - Momentky z deseti národních parků (2)</title>
   </programme>
   <programme start="20260105070000 +0000" stop="20260105073000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">Magazín Energofish (97)</title>
+    <title lang="id">Feedermánie - Šoulačka na sumce</title>
   </programme>
   <programme start="20260105073000 +0000" stop="20260105080000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">Haldorádo - Gábor Döme - Feederový lov kaprů ve studené vodě - Lednoví kapři</title>
+    <title lang="id">Kolem řeky Kriš s Reviczkym (3)</title>
   </programme>
   <programme start="20260105080000 +0000" stop="20260105083000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">Hodula Fishing - Používání nástrah TopWater</title>
+    <title lang="id">Rybolov pod lupou - Lov kaprů na Dunaji</title>
   </programme>
   <programme start="20260105083000 +0000" stop="20260105090000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">F&amp;H Events - Delta Spinning Challenge 2024 (1)</title>
+    <title lang="id">Kapří divadlo - Mistři</title>
   </programme>
   <programme start="20260105090000 +0000" stop="20260105093000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">F&amp;H Events - Delta Spinning Challenge 2024 (2)</title>
+    <title lang="id">Carp Zoom - Hanzó v akci</title>
   </programme>
   <programme start="20260105093000 +0000" stop="20260105100000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">Lov kaprů s MIVARDI</title>
+    <title lang="id">Dudi Bait - Kapři z důlního jezera</title>
   </programme>
   <programme start="20260105100000 +0000" stop="20260105103000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">Rybolov pod lupou - Dunajská dobrodružství</title>
+    <title lang="id">Hodula Fishing - Země štik</title>
   </programme>
   <programme start="20260105103000 +0000" stop="20260105110000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">Feedermánie - Obří štiky na živou nástražní rybičku</title>
+    <title lang="id">Akademie přívlače - Štičí přívlač</title>
   </programme>
   <programme start="20260105110000 +0000" stop="20260105113000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">Pod vedením Marka (11)</title>
+    <title lang="id">Kapří divadlo - Vladut Mateianu</title>
   </programme>
   <programme start="20260105113000 +0000" stop="20260105120000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">Jarní probouzení - Feeder s Don Carp Baits</title>
+    <title lang="id">Kde je ryba? - Boleni z kraje podzimu na nástrahy Topwater</title>
   </programme>
   <programme start="20260105120000 +0000" stop="20260105123000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">DOVIT - Bomb Feeder vs Method Feeder</title>
+    <title lang="id">Léto na jezeru Kastély-park tavak</title>
   </programme>
   <programme start="20260105123000 +0000" stop="20260105130000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">Satur Baits - Slunce, vítr, déšť, Legend lake</title>
+    <title lang="id">III. International Wild Carp Challenge na jezeru Tisza-tó</title>
   </programme>
   <programme start="20260105130000 +0000" stop="20260105133000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">András Némethy - Namibijské lovy (5)</title>
+    <title lang="id">Divočina - O lovu krokodýlů a hrochů</title>
   </programme>
   <programme start="20260105133000 +0000" stop="20260105140000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">Objevujeme lov s pomocí produktů Hikmicro</title>
-  </programme>
-  <programme start="20260105140000 +0000" stop="20260105143000 +0000" channel="Fishing&Hunting.webtv.sk">
     <title lang="id">József Kolláth - Rybářská dobrodružství na Mauriciu</title>
   </programme>
+  <programme start="20260105140000 +0000" stop="20260105143000 +0000" channel="Fishing&Hunting.webtv.sk">
+    <title lang="id">Linzenbold Attila - V období srnčí říje - myslivecké příběhy ze Surjánu</title>
+  </programme>
   <programme start="20260105143000 +0000" stop="20260105150000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">Pod vedením Marka (13)</title>
+    <title lang="id">Modrý svět S03 E05</title>
   </programme>
   <programme start="20260105150000 +0000" stop="20260105153000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">Gábor Döme - Na legendárních sumcových vodách 1.díl - Obři jezera Ohat na trhačku</title>
+    <title lang="id">DAIWA - Přívlač na Dunaji v protivětru</title>
   </programme>
   <programme start="20260105153000 +0000" stop="20260105160000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">Gábor Döme - Na legendárních sumcových vodách 2.díl - Obři jezera Ohat na trhačku</title>
+    <title lang="id">Tamás Csörgő - Lov kaprů na obrovské vodní nádrži</title>
   </programme>
   <programme start="20260105160000 +0000" stop="20260105163000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">Big Coast 10. ročník (8)</title>
+    <title lang="id">Big Coast 12. ročník (1)</title>
   </programme>
   <programme start="20260105163000 +0000" stop="20260105170000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">Rybářské výpravy - Delta Mon Amour (1)</title>
+    <title lang="id">Károly Bokor - Lov štik na jezeru Csépány</title>
   </programme>
   <programme start="20260105170000 +0000" stop="20260105173000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">Decathlon Caperlan - Parťáci</title>
+    <title lang="id">IBCC 2025 s Robem Hughesem</title>
   </programme>
   <programme start="20260105173000 +0000" stop="20260105180000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">Myslivecká horečka - Opět směr zázračná Afrika (1)</title>
+    <title lang="id">Mistr zbrojař - Podrobněji o spektivech</title>
   </programme>
   <programme start="20260105180000 +0000" stop="20260105183000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">Myslivecká kuchyně - S Zsoltem Novákem</title>
+    <title lang="id">Balázs Hajba - Hluk honců, výstřely pušek</title>
   </programme>
   <programme start="20260105183000 +0000" stop="20260105190000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">TopMixTV - V zemi Arapaimy</title>
+    <title lang="id">Rybolov bez hranic - Lov kaprů ve vázkách, nebo v místech s vázkami</title>
   </programme>
   <programme start="20260105190000 +0000" stop="20260105193000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">Haldorádo - Gábor Döme - Gábor Sipos - Jemný feeder na vodě s výskytem sumečka (1)</title>
+    <title lang="id">Hodula Fishing - Dravci uprostřed Balatonu (1)</title>
   </programme>
   <programme start="20260105193000 +0000" stop="20260105200000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">Haldorádo - Gábor Döme - Gábor Sipos - Jemný feeder na vodě s výskytem sumečka (2)</title>
+    <title lang="id">Hodula Fishing - Dravci uprostřed Balatonu (2)</title>
   </programme>
   <programme start="20260105200000 +0000" stop="20260105203000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">Bratři v nástrahách - Odveta (1)</title>
+    <title lang="id">F&amp;H Events - F&amp;H EXPO 2025</title>
   </programme>
   <programme start="20260105203000 +0000" stop="20260105210000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">András Némethy - Namibijské lovy (6)</title>
+    <title lang="id">Divočina - O lovu slonů</title>
   </programme>
   <programme start="20260105210000 +0000" stop="20260105213000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">Střelecká škola - Pod rouškou noci (1)</title>
+    <title lang="id">Ödön Blaumann - Srna (1)</title>
   </programme>
   <programme start="20260105213000 +0000" stop="20260105220000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">Střelecká škola - Pod rouškou noci (2)</title>
+    <title lang="id">Ödön Blaumann - Srna (2)</title>
   </programme>
   <programme start="20260105220000 +0000" stop="20260105223000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">Fishmine S3 6. Řeka Sió</title>
+    <title lang="id">Jen jemně! - Skrytý poklad města</title>
   </programme>
   <programme start="20260105223000 +0000" stop="20260105230000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">Pod vedením Marka (12)</title>
+    <title lang="id">Modrý svět S03 E04</title>
   </programme>
   <programme start="20260104211500 +0000" stop="20260104230500 +0000" channel="HBO.webtv.sk">
     <title lang="id">Pět nocí u Freddyho</title>

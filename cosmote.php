@@ -70,8 +70,8 @@
     <title>Football: FC Barcelona - Eintracht Frankfurt</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260104040000 +0700" stop="20260104060000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Celtic FC - Rangers FC</title>
+<programme start="20260105064500 +0700" stop="20260105084500 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: Panathinaikos - Viktoria Plzen</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260104060000 +0700" stop="20260104080000 +0700" channel="COSMOTE Sport 2 HD">
@@ -278,10 +278,6 @@
     <title>Basketball: Real Madrid - Barcelona</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260104042000 +0700" stop="20260104052000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: MotoGP</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260104052000 +0700" stop="20260104061500 +0700" channel="COSMOTE Sport 5 HD">
     <title>2025 GT World Challenge Europe</title>
     <desc>Live: Tidak</desc>
@@ -366,8 +362,8 @@
     <title>DTM</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260104043000 +0700" stop="20260104053000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Next Gen ATP Finals 2025 - Highlights</title>
+<programme start="20260105060500 +0700" stop="20260105070000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260104053000 +0700" stop="20260104073000 +0700" channel="COSMOTE Sport 6 HD">
@@ -524,6 +520,10 @@
 </programme>
 <programme start="20260105050000 +0700" stop="20260105060000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260105060000 +0700" stop="20260105090000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>NBA TV 2024-25</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260104050000 +0700" stop="20260104070000 +0700" channel="COSMOTE Sport 8 HD">
