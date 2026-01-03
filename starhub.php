@@ -2048,7 +2048,7 @@
         <title>Movie - Paradesi</title>
     </programme>
     <programme start="20260102200000 +0000" stop="20260102223000 +0000" channel="KTV HD.starhub">
-        <title>Movie - Kadhal Fm</title>
+        <title>Movie - Kadhal FM</title>
     </programme>
     <programme start="20260102223000 +0000" stop="20260103010000 +0000" channel="KTV HD.starhub">
         <title>Movie - Kadhal Kisu Kisu</title>
@@ -3080,13 +3080,13 @@
         <title>News</title>
     </programme>
     <programme start="20260102161500 +0000" stop="20260102170000 +0000" channel="DW English HD.starhub">
-        <title>DocFilm</title>
+        <title>Watching You - The World of Palantir and Alex Karp - Part 1</title>
     </programme>
     <programme start="20260102170000 +0000" stop="20260102171500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20260102171500 +0000" stop="20260102173000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>Impossible Love Stories - DR Koncerthuset in Copenhagen</title>
     </programme>
     <programme start="20260102173000 +0000" stop="20260102180000 +0000" channel="DW English HD.starhub">
         <title>Modern African Lifestyle</title>
@@ -3095,7 +3095,7 @@
         <title>News</title>
     </programme>
     <programme start="20260102183000 +0000" stop="20260102190000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW Podcasts</title>
+        <title>Fighting back against cyberbullies</title>
     </programme>
     <programme start="20260102190000 +0000" stop="20260102190200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3104,37 +3104,37 @@
         <title>Spotlight on People</title>
     </programme>
     <programme start="20260102193000 +0000" stop="20260102200000 +0000" channel="DW English HD.starhub">
-        <title>The Environment Magazine</title>
+        <title>Building bridges for all</title>
     </programme>
     <programme start="20260102200000 +0000" stop="20260102203000 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20260102203000 +0000" stop="20260102210000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW Podcasts</title>
+        <title>Fighting back against cyberbullies</title>
     </programme>
     <programme start="20260102210000 +0000" stop="20260102210200 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20260102210200 +0000" stop="20260102211500 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>Impossible Love Stories - DR Koncerthuset in Copenhagen</title>
     </programme>
     <programme start="20260102211500 +0000" stop="20260102220000 +0000" channel="DW English HD.starhub">
-        <title>DocFilm</title>
+        <title>Watching You - The World of Palantir and Alex Karp - Part 1</title>
     </programme>
     <programme start="20260102220000 +0000" stop="20260102220200 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20260102220200 +0000" stop="20260102221500 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>Dvořák: Symphony No. 7|Music Documentary with Alondra de la Parra &amp; the Münchner Symphoniker</title>
     </programme>
     <programme start="20260102221500 +0000" stop="20260102230000 +0000" channel="DW English HD.starhub">
-        <title>DocFilm</title>
+        <title>A Heart on Demand?</title>
     </programme>
     <programme start="20260102230000 +0000" stop="20260102231500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20260102231500 +0000" stop="20260102233000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>Impossible Love Stories - DR Koncerthuset in Copenhagen</title>
     </programme>
     <programme start="20260102233000 +0000" stop="20260103000000 +0000" channel="DW English HD.starhub">
         <title>Africa</title>
@@ -7636,13 +7636,13 @@
     <programme start="20260103155500 +0000" stop="20260103162500 +0000" channel="ABC Australia HD.starhub">
         <title>Jelena Dokic with Leigh Sales</title>
     </programme>
-    <programme start="20260102160000 +0000" stop="20260102185000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260102160000 +0000" stop="20260102193000 +0000" channel="Asianet Movies.starhub">
         <title>Ittymaani: Made in China</title>
     </programme>
-    <programme start="20260102185000 +0000" stop="20260102213000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260102193000 +0000" stop="20260102213000 +0000" channel="Asianet Movies.starhub">
         <title>Vakkalathu Narayanankutty</title>
     </programme>
-    <programme start="20260102213000 +0000" stop="20260102232000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260102213000 +0000" stop="20260102233000 +0000" channel="Asianet Movies.starhub">
         <title>The Great Indian Kitchen</title>
     </programme>
     <programme start="20260102233000 +0000" stop="20260103013000 +0000" channel="Asianet Movies.starhub">

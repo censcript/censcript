@@ -655,9 +655,6 @@
 <programme start="20260102233000 +0000" stop="20260103003000 +0000" channel="ANTV.vision">
 <title>Takdir Cinta Layla</title>
 </programme>
-<programme start="20260103003000 +0000" stop="20260103023000 +0000" channel="ANTV.vision">
-<title>Tiga Pendekar Bermain Api</title>
-</programme>
 <programme start="20260103023000 +0000" stop="20260103060000 +0000" channel="ANTV.vision">
 <title>Ek Tha Tiger</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20260104073000 +0000" stop="20260104080000 +0000" channel="BTV.vision">
 <title>Dikit-Dikit Damkar</title>
+</programme>
+<programme start="20260104080000 +0000" stop="20260104083000 +0000" channel="BTV.vision">
+<title>Cocoklogi</title>
 </programme>

@@ -2719,11 +2719,11 @@
   <programme start="20260105110000 +0000" stop="20260105150000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">POLEDNÍ DECHOVKA</title>
   </programme>
-  <programme start="20260105150000 +0000" stop="20260105180000 +0000" channel="Šláger Muzika.webtv.sk">
+  <programme start="20260105150000 +0000" stop="20260105170000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">Z DECHOVKY DO DECHOVKY</title>
   </programme>
-  <programme start="20260105180000 +0000" stop="20260105210000 +0000" channel="Šláger Muzika.webtv.sk">
-    <title lang="id">VEČERNÍ ZÁBAVA NA DVOJCE</title>
+  <programme start="20260105170000 +0000" stop="20260105210000 +0000" channel="Šláger Muzika.webtv.sk">
+    <title lang="id">PÍSNIČKY NA PŘÁNÍ</title>
   </programme>
   <programme start="20260105210000 +0000" stop="20260105230000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">Z DECHOVKY DO DECHOVKY</title>
@@ -17411,7 +17411,7 @@
     <title lang="id">Discover World</title>
   </programme>
   <programme start="20260105183000 +0000" stop="20260105185000 +0000" channel="Arirang TV.webtv.sk">
-    <title lang="id">1day 1k-culture: K-trend</title>
+    <title lang="id">K-culture Minutes: K-now</title>
   </programme>
   <programme start="20260105185000 +0000" stop="20260105190000 +0000" channel="Arirang TV.webtv.sk">
     <title lang="id">Exploring Korean Literature B</title>
