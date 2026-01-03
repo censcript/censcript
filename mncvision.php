@@ -8044,7 +8044,51 @@
 <programme start="20260103153000 +0000" stop="20260103160000 +0000" channel="Sportstars.mncvision">
     <title>V-League 2025-2026 Men</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260102170000 +0000" stop="20260102190000 +0000" channel="Sportstars 2.mncvision">
+    <title>SEA Games Thailand 2025</title>
+</programme>
+<programme start="20260102190000 +0000" stop="20260102210000 +0000" channel="Sportstars 2.mncvision">
+    <title>V-League</title>
+</programme>
+<programme start="20260102210000 +0000" stop="20260102233000 +0000" channel="Sportstars 2.mncvision">
+    <title>SEA Games Thailand 2025</title>
+</programme>
+<programme start="20260102233000 +0000" stop="20260103000000 +0000" channel="Sportstars 2.mncvision">
+    <title>Golden Fit</title>
+</programme>
+<programme start="20260103000000 +0000" stop="20260103003000 +0000" channel="Sportstars 2.mncvision">
+    <title>iNews Sport</title>
+</programme>
+<programme start="20260103003000 +0000" stop="20260103023000 +0000" channel="Sportstars 2.mncvision">
+    <title>SEA Games Thailand 2025</title>
+</programme>
+<programme start="20260103023000 +0000" stop="20260103030000 +0000" channel="Sportstars 2.mncvision">
+    <title>Sport Today</title>
+</programme>
+<programme start="20260103030000 +0000" stop="20260103050000 +0000" channel="Sportstars 2.mncvision">
+    <title>SEA Games Thailand 2025</title>
+</programme>
+<programme start="20260103050000 +0000" stop="20260103070000 +0000" channel="Sportstars 2.mncvision">
+    <title>V-League</title>
+</programme>
+<programme start="20260103070000 +0000" stop="20260103083000 +0000" channel="Sportstars 2.mncvision">
+    <title>Tinju</title>
+</programme>
+<programme start="20260103083000 +0000" stop="20260103103000 +0000" channel="Sportstars 2.mncvision">
+    <title>Timnas Special</title>
+</programme>
+<programme start="20260103103000 +0000" stop="20260103130000 +0000" channel="Sportstars 2.mncvision">
+    <title>Indonesia Juara Badminton</title>
+</programme>
+<programme start="20260103130000 +0000" stop="20260103150000 +0000" channel="Sportstars 2.mncvision">
+    <title>SEA Games Thailand 2025</title>
+</programme>
+<programme start="20260103150000 +0000" stop="20260103153000 +0000" channel="Sportstars 2.mncvision">
+    <title>Sport Today</title>
+</programme>
+<programme start="20260103153000 +0000" stop="20260103160000 +0000" channel="Sportstars 2.mncvision">
+    <title>Tinju</title>
+</programme>
 <programme start="20260102170000 +0000" stop="20260102190000 +0000" channel="Sportstars 2 HD.mncvision">
     <title>SEA Games Thailand 2025</title>
 </programme>
