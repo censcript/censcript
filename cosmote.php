@@ -70,8 +70,8 @@
     <title>Football: SS Lazio - SSC Napoli (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260103172500 +0700" stop="20260103193000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Cagliari - AC Milan</title>
+<programme start="20260104203000 +0700" stop="20260104210000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Sports Classics: Worldies E26</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260103193000 +0700" stop="20260103213000 +0700" channel="COSMOTE Sport 2 HD">
@@ -146,10 +146,6 @@
     <title>Football: Birmingham City - Coventry City (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260103180000 +0700" stop="20260103200000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Gil Vicente - Sporting CP</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260103200000 +0700" stop="20260103203000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Copa Libertadores 2025 - Highlights</title>
     <desc>Live: Tidak</desc>
@@ -218,8 +214,8 @@
     <title>Football: SL Benfica - Estoril</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260103180000 +0700" stop="20260103200000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Unicaja - Karditsa</title>
+<programme start="20260104203000 +0700" stop="20260104223000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: APOEL - EN Paralimni</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260103200000 +0700" stop="20260103203500 +0700" channel="COSMOTE Sport 4 HD">
@@ -294,8 +290,12 @@
     <title>NBA on Fire 2025-26 E10</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260103181000 +0700" stop="20260103191000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC</title>
+<programme start="20260104200500 +0700" stop="20260104203000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>ACB Liga Endesa 2025-26 - Fifth Quarter E12</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260104203000 +0700" stop="20260104223000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Badalona - Tenerife</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260103191000 +0700" stop="20260103205000 +0700" channel="COSMOTE Sport 5 HD">
@@ -386,8 +386,8 @@
     <title>Motorsports: MotoGP 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260103180000 +0700" stop="20260103194000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Volleyball: Olympiacos - Apeldoorn</title>
+<programme start="20260104204000 +0700" stop="20260104222000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: MotoGP 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260103194000 +0700" stop="20260103203000 +0700" channel="COSMOTE Sport 6 HD">
@@ -501,6 +501,10 @@
 <programme start="20260104183000 +0700" stop="20260104203000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Basketball: Real Madrid - Barcelona (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20260104203000 +0700" stop="20260104210000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Premier Padel Tour 2025 - Highlights</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260103190000 +0700" stop="20260103210000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
