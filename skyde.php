@@ -2584,9 +2584,9 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Live NHL: Philadelphia Flyers @ Edmonton Oilers</title>
 </programme>
 <programme start="20260102231000 +0000" stop="20260102233000 +0000" channel="Sky Sport Austria 2 HD.skyde">
-    <title>Es folgt: Tennis United Cup</title>
+    <title>Es folgt: LIVE Tennis</title>
 </programme>
-<programme start="20260102233000 +0000" stop="20260103160000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20260102233000 +0000" stop="20260103180000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live United Cup: Konferenz, 2. Tag in Perth und Sydney (AUS)</title>
 </programme>
 <programme start="20260102232500 +0000" stop="20260103012500 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -2767,7 +2767,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>NHL: Road to the NHL Winter Classic (3. Folge)</title>
 </programme>
 <programme start="20260103003000 +0000" stop="20260103010000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NHL: Road to the NHL Winter Classic (4. Folge)</title>
+    <title>NHL: Road to the NHL Winter Classic (1. Folge)</title>
 </programme>
 <programme start="20260103010000 +0000" stop="20260103040000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NHL: New York Rangers @ Florida Panthers, NHL Winter Classic</title>
