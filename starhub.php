@@ -2063,7 +2063,7 @@
         <title>Movie - Kaadhal Azhivathillai</title>
     </programme>
     <programme start="20260103073000 +0000" stop="20260103103000 +0000" channel="KTV HD.starhub">
-        <title>Movie - Porandha Veeda Puguntha veeda</title>
+        <title>Movie - Porandha Veeda Puguntha Veeda</title>
     </programme>
     <programme start="20260103103000 +0000" stop="20260103133000 +0000" channel="KTV HD.starhub">
         <title>Movie - Jana</title>
@@ -3146,13 +3146,13 @@
         <title>Building better: Climate-smart homes for improved lives</title>
     </programme>
     <programme start="20260103003000 +0000" stop="20260103010000 +0000" channel="DW English HD.starhub">
-        <title>The Global Auto and Mobility Show</title>
+        <title>How Ugandans reclaimed the Land Rover</title>
     </programme>
     <programme start="20260103010000 +0000" stop="20260103011500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20260103011500 +0000" stop="20260103013000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>Dvořák: Symphony No. 7|Music Documentary with Alondra de la Parra &amp; the Münchner Symphoniker</title>
     </programme>
     <programme start="20260103013000 +0000" stop="20260103020000 +0000" channel="DW English HD.starhub">
         <title>The Science Magazine</title>
@@ -3161,25 +3161,25 @@
         <title>News</title>
     </programme>
     <programme start="20260103020200 +0000" stop="20260103021500 +0000" channel="DW English HD.starhub">
-        <title>Living in the Digital Age</title>
+        <title>How to counter cyber violence against women worldwide</title>
     </programme>
     <programme start="20260103021500 +0000" stop="20260103030000 +0000" channel="DW English HD.starhub">
-        <title>DocFilm</title>
+        <title>Inside the Kingdom of MBS - Saudi Arabia Between Repression and Transformation</title>
     </programme>
     <programme start="20260103030000 +0000" stop="20260103031500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20260103031500 +0000" stop="20260103033000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>Impossible Love Stories - DR Koncerthuset in Copenhagen</title>
     </programme>
     <programme start="20260103033000 +0000" stop="20260103040000 +0000" channel="DW English HD.starhub">
-        <title>DocFilm</title>
+        <title>No Right to be a Mom? - Forced Sterilization in Europe</title>
     </programme>
     <programme start="20260103040000 +0000" stop="20260103041500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20260103041500 +0000" stop="20260103043000 +0000" channel="DW English HD.starhub">
-        <title>Living in the Digital Age</title>
+        <title>How to counter cyber violence against women worldwide</title>
     </programme>
     <programme start="20260103043000 +0000" stop="20260103050000 +0000" channel="DW English HD.starhub">
         <title>Lifestyle Europe</title>
@@ -3188,7 +3188,7 @@
         <title>News</title>
     </programme>
     <programme start="20260103050200 +0000" stop="20260103053000 +0000" channel="DW English HD.starhub">
-        <title>Experiencing and understanding the art world</title>
+        <title>The Haydn Expedition, Part 2</title>
     </programme>
     <programme start="20260103053000 +0000" stop="20260103060000 +0000" channel="DW English HD.starhub">
         <title>The Magazine for Africa&#039;s Youth</title>
@@ -3197,16 +3197,16 @@
         <title>News</title>
     </programme>
     <programme start="20260103061500 +0000" stop="20260103063000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>Impossible Love Stories - DR Koncerthuset in Copenhagen</title>
     </programme>
     <programme start="20260103063000 +0000" stop="20260103070000 +0000" channel="DW English HD.starhub">
-        <title>The Global Auto and Mobility Show</title>
+        <title>How Ugandans reclaimed the Land Rover</title>
     </programme>
     <programme start="20260103070000 +0000" stop="20260103071500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20260103071500 +0000" stop="20260103073000 +0000" channel="DW English HD.starhub">
-        <title>Overcoming Challenges with Sports</title>
+        <title>No Limits: An 11-year-old with paraplegia&#039;s sporting journey</title>
     </programme>
     <programme start="20260103073000 +0000" stop="20260103080000 +0000" channel="DW English HD.starhub">
         <title>The Science Magazine</title>
@@ -3215,37 +3215,37 @@
         <title>News</title>
     </programme>
     <programme start="20260103081500 +0000" stop="20260103090000 +0000" channel="DW English HD.starhub">
-        <title>DocFilm</title>
+        <title>The Mediterranean Diet - The Recipe for a Long and Healthy Life?</title>
     </programme>
     <programme start="20260103090000 +0000" stop="20260103091500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20260103091500 +0000" stop="20260103093000 +0000" channel="DW English HD.starhub">
-        <title>Overcoming Challenges with Sports</title>
+        <title>No Limits: An 11-year-old with paraplegia&#039;s sporting journey</title>
     </programme>
     <programme start="20260103093000 +0000" stop="20260103100000 +0000" channel="DW English HD.starhub">
-        <title>The Health Show</title>
+        <title>How sleep is affected by daily life</title>
     </programme>
     <programme start="20260103100000 +0000" stop="20260103101500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20260103101500 +0000" stop="20260103103000 +0000" channel="DW English HD.starhub">
-        <title>Living in the Digital Age</title>
+        <title>How to counter cyber violence against women worldwide</title>
     </programme>
     <programme start="20260103103000 +0000" stop="20260103110000 +0000" channel="DW English HD.starhub">
-        <title>Experiencing and understanding the art world</title>
+        <title>The Haydn Expedition, Part 2</title>
     </programme>
     <programme start="20260103110000 +0000" stop="20260103110300 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20260103110300 +0000" stop="20260103120000 +0000" channel="DW English HD.starhub">
-        <title>DocFilm</title>
+        <title>Budding Humans</title>
     </programme>
     <programme start="20260103120000 +0000" stop="20260103121500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20260103121500 +0000" stop="20260103123000 +0000" channel="DW English HD.starhub">
-        <title>Living in the Digital Age</title>
+        <title>How to counter cyber violence against women worldwide</title>
     </programme>
     <programme start="20260103123000 +0000" stop="20260103130000 +0000" channel="DW English HD.starhub">
         <title>Lifestyle Europe</title>
@@ -3254,13 +3254,13 @@
         <title>News</title>
     </programme>
     <programme start="20260103131500 +0000" stop="20260103140000 +0000" channel="DW English HD.starhub">
-        <title>DocFilm</title>
+        <title>A Heart on Demand?</title>
     </programme>
     <programme start="20260103140000 +0000" stop="20260103141500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20260103141500 +0000" stop="20260103143000 +0000" channel="DW English HD.starhub">
-        <title>On Location</title>
+        <title>Hunger for Education - Pashtun kids and their struggle to go to school</title>
     </programme>
     <programme start="20260103143000 +0000" stop="20260103150000 +0000" channel="DW English HD.starhub">
         <title>The Magazine for Africa&#039;s Youth</title>
@@ -3269,7 +3269,7 @@
         <title>News</title>
     </programme>
     <programme start="20260103151500 +0000" stop="20260103153000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>Asia 2050. Indias&#039;s Carbon Neutral Villages 2050</title>
     </programme>
     <programme start="20260103153000 +0000" stop="20260103160000 +0000" channel="DW English HD.starhub">
         <title>Lifestyle Europe</title>
@@ -7645,7 +7645,7 @@
     <programme start="20260102213000 +0000" stop="20260102232000 +0000" channel="Asianet Movies.starhub">
         <title>The Great Indian Kitchen</title>
     </programme>
-    <programme start="20260102232000 +0000" stop="20260103013000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260102233000 +0000" stop="20260103013000 +0000" channel="Asianet Movies.starhub">
         <title>Alibhai</title>
     </programme>
     <programme start="20260103013000 +0000" stop="20260103043000 +0000" channel="Asianet Movies.starhub">
@@ -7654,10 +7654,10 @@
     <programme start="20260103043000 +0000" stop="20260103073000 +0000" channel="Asianet Movies.starhub">
         <title>Ennum Eppozhum</title>
     </programme>
-    <programme start="20260103073000 +0000" stop="20260103103000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260103073000 +0000" stop="20260103104500 +0000" channel="Asianet Movies.starhub">
         <title>RRR</title>
     </programme>
-    <programme start="20260103103000 +0000" stop="20260103133000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260103104500 +0000" stop="20260103133000 +0000" channel="Asianet Movies.starhub">
         <title>Thanneermathan Dinangal</title>
     </programme>
     <programme start="20260103133000 +0000" stop="20260103163000 +0000" channel="Asianet Movies.starhub">
