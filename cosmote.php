@@ -1,7 +1,3 @@
-<programme start="20260104024500 +0700" stop="20260104044500 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: Atalanta - AS Roma (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
 <programme start="20260104044500 +0700" stop="20260104064500 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: FC Internazionale Milano - Liverpool FC</title>
     <desc>Live: Tidak</desc>
@@ -146,8 +142,8 @@
     <title>Football: Alverca - Famalicao (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260104023000 +0700" stop="20260104043000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: APOEL - EN Paralimni</title>
+<programme start="20260105053000 +0700" stop="20260105073000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: SS Lazio - SSC Napoli</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260104043000 +0700" stop="20260104063000 +0700" channel="COSMOTE Sport 3 HD">
@@ -210,12 +206,8 @@
     <title>Football: Birmingham City - Coventry City</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260104040000 +0700" stop="20260104043500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>NBA on Fire 2025-26 E10</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260104043500 +0700" stop="20260104050000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>ACB Liga Endesa 2025-26 - Fifth Quarter E12</title>
+<programme start="20260105050000 +0700" stop="20260105070000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Damak - Al Hilal</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260104050000 +0700" stop="20260104080000 +0700" channel="COSMOTE Sport 4 HD">
@@ -282,8 +274,8 @@
     <title>Basketball: Cleveland Cavaliers - Detroit Pistons (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260104024000 +0700" stop="20260104042000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Best of MotoGP 2025</title>
+<programme start="20260105050000 +0700" stop="20260105070000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Real Madrid - Barcelona</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260104042000 +0700" stop="20260104052000 +0700" channel="COSMOTE Sport 5 HD">
@@ -370,8 +362,8 @@
     <title>2025 GT World Challenge Europe</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260104033000 +0700" stop="20260104043000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Sports Classics: 2025 Outdoor Specials</title>
+<programme start="20260105051500 +0700" stop="20260105060500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>DTM</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260104043000 +0700" stop="20260104053000 +0700" channel="COSMOTE Sport 6 HD">
@@ -466,8 +458,8 @@
     <title>ATP 2025 - Review</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260104030000 +0700" stop="20260104050000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
+<programme start="20260105050000 +0700" stop="20260105073000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>2025 Premier Padel World Cup Pairs</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260104050000 +0700" stop="20260104070000 +0700" channel="COSMOTE Sport 7 HD">
@@ -530,8 +522,8 @@
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260104030000 +0700" stop="20260104050000 +0700" channel="COSMOTE Sport 8 HD">
-    <title>COSMOTESport8HD</title>
+<programme start="20260105050000 +0700" stop="20260105060000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260104050000 +0700" stop="20260104070000 +0700" channel="COSMOTE Sport 8 HD">
@@ -590,8 +582,8 @@
     <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260104030000 +0700" stop="20260104043000 +0700" channel="COSMOTE Sport 9 HD">
-    <title>COSMOTESport9HD</title>
+<programme start="20260105050000 +0700" stop="20260105070000 +0700" channel="COSMOTE Sport 8 HD">
+    <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260104043000 +0700" stop="20260104080000 +0700" channel="COSMOTE Sport 9 HD">
