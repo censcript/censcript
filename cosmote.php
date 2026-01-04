@@ -58,10 +58,6 @@
     <title>Football: Leicester City FC - West Bromwich Albion (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260105030000 +0700" stop="20260105033000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Sports Classics: Football Countdowns E10</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260105033000 +0700" stop="20260105053000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Alverca - Famalicao (L)</title>
     <desc>Live: Ya</desc>
@@ -172,6 +168,14 @@
 </programme>
 <programme start="20260106021500 +0700" stop="20260106041500 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Gil Vicente - Sporting CP</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260106041500 +0700" stop="20260106044000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>William Hill Scottish Premiership - Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260106044000 +0700" stop="20260106064000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Al Ahli - Al Nassr</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260105020000 +0700" stop="20260105050000 +0700" channel="COSMOTE Sport 4 HD">
@@ -318,8 +322,12 @@
     <title>Motorsports: Extreme E 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260105020000 +0700" stop="20260105040000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>2025 Premier Padel World Cup Pairs</title>
+<programme start="20260106041000 +0700" stop="20260106044000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Extreme E - Highlights 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260106044000 +0700" stop="20260106053500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: MotoGP 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260105040000 +0700" stop="20260105050000 +0700" channel="COSMOTE Sport 6 HD">
@@ -392,6 +400,10 @@
 </programme>
 <programme start="20260106020000 +0700" stop="20260106043000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP 250 2026</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260106043000 +0700" stop="20260106050000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Watersports: Inside Sailing E12</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260105030000 +0700" stop="20260105050000 +0700" channel="COSMOTE Sport 7 HD">
