@@ -70,10 +70,6 @@
     <title>Football: Ferencvarosi TC - Rangers FC</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260104120000 +0700" stop="20260104140000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Genoa - Pisa</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260104140000 +0700" stop="20260104160000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Sassuolo - Parma</title>
     <desc>Live: Tidak</desc>
@@ -146,8 +142,8 @@
     <title>Football: Volos - Panetolikos</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260104120000 +0700" stop="20260104140000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Al Ittihad - Al Taawon</title>
+<programme start="20260105141000 +0700" stop="20260105161000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: ACF Fiorentina - Cremonese</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260104140000 +0700" stop="20260104143000 +0700" channel="COSMOTE Sport 3 HD">
@@ -204,10 +200,6 @@
 </programme>
 <programme start="20260105130000 +0700" stop="20260105150000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Birmingham City - Coventry City</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260104125000 +0700" stop="20260104130500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Sports Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260104130500 +0700" stop="20260104150000 +0700" channel="COSMOTE Sport 4 HD">
@@ -268,10 +260,6 @@
 </programme>
 <programme start="20260105130000 +0700" stop="20260105150000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Real Madrid - Barcelona</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260104120000 +0700" stop="20260104134000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: MotoGP 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260104134000 +0700" stop="20260104152000 +0700" channel="COSMOTE Sport 5 HD">
@@ -356,10 +344,6 @@
 </programme>
 <programme start="20260105134000 +0700" stop="20260105151000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Motorsports: MotoGP 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260104130000 +0700" stop="20260104140000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>ATP 2025 - Review</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260104140000 +0700" stop="20260104143000 +0700" channel="COSMOTE Sport 6 HD">
