@@ -1330,9 +1330,6 @@
     <programme start="20260104153500 +0000" stop="20260104171000 +0000" channel="Lifetime HD.starhub">
         <title>Dating Hell</title>
     </programme>
-    <programme start="20260103160000 +0000" stop="20260103163000 +0000" channel="COLORS Tamil HD.starhub">
-        <title>Muthazhagu</title>
-    </programme>
     <programme start="20260103163000 +0000" stop="20260103170000 +0000" channel="COLORS Tamil HD.starhub">
         <title>Muthazhagu</title>
     </programme>
@@ -1351,11 +1348,8 @@
     <programme start="20260103220000 +0000" stop="20260104013000 +0000" channel="COLORS Tamil HD.starhub">
         <title>Lift</title>
     </programme>
-    <programme start="20260104013000 +0000" stop="20260104040000 +0000" channel="COLORS Tamil HD.starhub">
+    <programme start="20260104013000 +0000" stop="20260104043000 +0000" channel="COLORS Tamil HD.starhub">
         <title>Aranmanai Kili</title>
-    </programme>
-    <programme start="20260104040000 +0000" stop="20260104043000 +0000" channel="COLORS Tamil HD.starhub">
-        <title>Thendral Vandhu Ennai Thodum</title>
     </programme>
     <programme start="20260104043000 +0000" stop="20260104050000 +0000" channel="COLORS Tamil HD.starhub">
         <title>Thendral Vandhu Ennai Thodum</title>

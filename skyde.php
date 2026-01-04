@@ -2546,7 +2546,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260104013000 +0000" stop="20260104031000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Live United Cup: A. Zverev (GER) - T. Griekspoor (NED), 3. Tag in Sydney (AUS)</title>
 </programme>
-<programme start="20260104031000 +0000" stop="20260104053000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260104031000 +0000" stop="20260104050000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Live United Cup: GER - NED, 3. Tag in Sydney (AUS), Mixed Doubles</title>
 </programme>
 <programme start="20260104053000 +0000" stop="20260104061500 +0000" channel="Sky Sport Austria 1 HD.skyde">
