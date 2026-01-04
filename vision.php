@@ -592,9 +592,6 @@
 <programme start="20260104143000 +0000" stop="20260104154500 +0000" channel="Trans 7.vision">
 <title>BTS</title>
 </programme>
-<programme start="20260104154500 +0000" stop="20260104174500 +0000" channel="Trans 7.vision">
-<title>Pengabdi Setan 2: Communion</title>
-</programme>
 <programme start="20260104174500 +0000" stop="20260104190000 +0000" channel="Trans 7.vision">
 <title>Warkop: Kesempatan Dalam...</title>
 </programme>
@@ -670,14 +667,8 @@
 <programme start="20260104103000 +0000" stop="20260104120000 +0000" channel="ANTV.vision">
 <title>Senandung Cinta Lilis</title>
 </programme>
-<programme start="20260104120000 +0000" stop="20260104133000 +0000" channel="ANTV.vision">
-<title>Ratu Ilmu Hitam</title>
-</programme>
 <programme start="20260104133000 +0000" stop="20260104160000 +0000" channel="ANTV.vision">
 <title>Serie A Liga Italia</title>
-</programme>
-<programme start="20260104160000 +0000" stop="20260104180000 +0000" channel="ANTV.vision">
-<title>Malaikat Bayangan</title>
 </programme>
 <programme start="20260104180000 +0000" stop="20260104200000 +0000" channel="ANTV.vision">
 <title>Born Wild</title>
@@ -1496,5 +1487,14 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260104130000 +0000" stop="20260104150000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260104150000 +0000" stop="20260104170000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260104170000 +0000" stop="20260104190000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260104190000 +0000" stop="20260104210000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
