@@ -670,9 +670,6 @@
 <programme start="20260104103000 +0000" stop="20260104120000 +0000" channel="ANTV.vision">
 <title>Senandung Cinta Lilis</title>
 </programme>
-<programme start="20260104120000 +0000" stop="20260104133000 +0000" channel="ANTV.vision">
-<title>Ratu Ilmu Hitam</title>
-</programme>
 <programme start="20260104133000 +0000" stop="20260104160000 +0000" channel="ANTV.vision">
 <title>Serie A Liga Italia</title>
 </programme>
@@ -1496,5 +1493,8 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260104130000 +0000" stop="20260104150000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260104150000 +0000" stop="20260104170000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>

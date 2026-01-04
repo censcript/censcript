@@ -62,12 +62,8 @@
     <title>Football: PFC Ludogorets 1945 - PAOK</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260104210000 +0700" stop="20260104213000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Sports Classics: Football Countdowns E8</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260104213000 +0700" stop="20260104220000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Sports Classics: Worldies E16</title>
+<programme start="20260105224000 +0700" stop="20260106004000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: FC Kairat Almaty - Olympiacos</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260104220000 +0700" stop="20260105000000 +0700" channel="COSMOTE Sport 2 HD">
@@ -128,6 +124,10 @@
 </programme>
 <programme start="20260105203000 +0700" stop="20260105223000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: FC Internazionale Milano - Bologna</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260105223000 +0700" stop="20260106003000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: SS Lazio - SSC Napoli</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260104203000 +0700" stop="20260104223000 +0700" channel="COSMOTE Sport 3 HD">
@@ -332,6 +332,10 @@
 </programme>
 <programme start="20260105205500 +0700" stop="20260105224000 +0700" channel="COSMOTE Sport 5 HD">
     <title>DTM 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260105224000 +0700" stop="20260106000000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>MotoGP Classics</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260104210000 +0700" stop="20260104224000 +0700" channel="COSMOTE Sport 6 HD">
