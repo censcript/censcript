@@ -66,6 +66,10 @@
     <title>Football: AZ Alkmaar - Jagiellonia</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260105203000 +0700" stop="20260105224000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: PFC Ludogorets 1945 - PAOK</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260104190000 +0700" stop="20260104210000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Birmingham City - Coventry City (L)</title>
     <desc>Live: Ya</desc>
@@ -134,6 +138,10 @@
     <title>Football: Olympiacos - Kifisia</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260105203000 +0700" stop="20260105223000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: FC Internazionale Milano - Bologna</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260104183000 +0700" stop="20260104203000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: SL Benfica - Estoril</title>
     <desc>Live: Tidak</desc>
@@ -188,10 +196,6 @@
 </programme>
 <programme start="20260105190000 +0700" stop="20260105210000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Celtic FC - Rangers FC</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260104170000 +0700" stop="20260104193000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Miami Heat - Minnesota Timberwolves</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260104193000 +0700" stop="20260104200500 +0700" channel="COSMOTE Sport 4 HD">
@@ -346,6 +350,10 @@
     <title>DTM 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260105205500 +0700" stop="20260105224000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>DTM 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260104183000 +0700" stop="20260104203000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Basketball: Real Madrid - Barcelona (L)</title>
     <desc>Live: Ya</desc>
@@ -425,6 +433,10 @@
 <programme start="20260105180000 +0700" stop="20260105203000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP 250 2026 (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20260105203000 +0700" stop="20260105232500 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Volleyball: Olympiacos - Eczacibasi Dynavit Istanbul</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260104190000 +0700" stop="20260104210000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>

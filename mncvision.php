@@ -8038,7 +8038,60 @@
 <programme start="20260104163000 +0000" stop="20260103170000 +0000" channel="Soccer Channel HD.mncvision">
     <title>ACL Two: LCS Vs PSB</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260103173000 +0000" stop="20260103200000 +0000" channel="Sportstars.mncvision">
+    <title>Indonesia Juara Badminton</title>
+</programme>
+<programme start="20260103200000 +0000" stop="20260103203000 +0000" channel="Sportstars.mncvision">
+    <title>Sport Today</title>
+</programme>
+<programme start="20260103203000 +0000" stop="20260103210000 +0000" channel="Sportstars.mncvision">
+    <title>iNews Sport</title>
+</programme>
+<programme start="20260103210000 +0000" stop="20260103230000 +0000" channel="Sportstars.mncvision">
+    <title>SEA Games Thailand: Volleyball</title>
+</programme>
+<programme start="20260103230000 +0000" stop="20260103233000 +0000" channel="Sportstars.mncvision">
+    <title>Sport Today</title>
+</programme>
+<programme start="20260103233000 +0000" stop="20260104000000 +0000" channel="Sportstars.mncvision">
+    <title>30 Minutes Extreme</title>
+</programme>
+<programme start="20260104000000 +0000" stop="20260104003000 +0000" channel="Sportstars.mncvision">
+    <title>Golden Fit</title>
+</programme>
+<programme start="20260104003000 +0000" stop="20260104023000 +0000" channel="Sportstars.mncvision">
+    <title>V-League 2025-2026 Men</title>
+</programme>
+<programme start="20260104023000 +0000" stop="20260104043000 +0000" channel="Sportstars.mncvision">
+    <title>V-League 2025-2026 Women</title>
+</programme>
+<programme start="20260104043000 +0000" stop="20260104050000 +0000" channel="Sportstars.mncvision">
+    <title>iNews Sport</title>
+</programme>
+<programme start="20260104050000 +0000" stop="20260104070000 +0000" channel="Sportstars.mncvision">
+    <title>V-League 2025-2026 Men (L)</title>
+</programme>
+<programme start="20260104070000 +0000" stop="20260104071000 +0000" channel="Sportstars.mncvision">
+    <title>Golden Fit</title>
+</programme>
+<programme start="20260104071000 +0000" stop="20260104091000 +0000" channel="Sportstars.mncvision">
+    <title>V-League 2025-2026 Women (L)</title>
+</programme>
+<programme start="20260104091000 +0000" stop="20260104111000 +0000" channel="Sportstars.mncvision">
+    <title>KOVO Cup</title>
+</programme>
+<programme start="20260104111000 +0000" stop="20260104131000 +0000" channel="Sportstars.mncvision">
+    <title>SEA Games Thailand: Volleyball</title>
+</programme>
+<programme start="20260104131000 +0000" stop="20260104133000 +0000" channel="Sportstars.mncvision">
+    <title>Sport Today</title>
+</programme>
+<programme start="20260104133000 +0000" stop="20260104153000 +0000" channel="Sportstars.mncvision">
+    <title>V-League 2025-2026 Women</title>
+</programme>
+<programme start="20260104153000 +0000" stop="20260104160000 +0000" channel="Sportstars.mncvision">
+    <title>V-League 2025-2026 Men</title>
+</programme>
 <programme start="20260103170000 +0000" stop="20260103190000 +0000" channel="Sportstars 2.mncvision">
     <title>SEA Games Thailand 2025</title>
 </programme>
@@ -8798,8 +8851,132 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260104160500 +0000" stop="20260104163500 +0000" channel="Thrill.mncvision">
     <title>Dead In The Water</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260103174500 +0000" stop="20260103190000 +0000" channel="Trans 7.mncvision">
+    <title>Prison On Fire 2</title>
+</programme>
+<programme start="20260103190000 +0000" stop="20260103203000 +0000" channel="Trans 7.mncvision">
+    <title>The Way Of The Dragon</title>
+</programme>
+<programme start="20260103203000 +0000" stop="20260103211500 +0000" channel="Trans 7.mncvision">
+    <title>LOL ComediHa!</title>
+</programme>
+<programme start="20260103211500 +0000" stop="20260103221500 +0000" channel="Trans 7.mncvision">
+    <title>FYP (For Your Pagi)</title>
+</programme>
+<programme start="20260103221500 +0000" stop="20260103230000 +0000" channel="Trans 7.mncvision">
+    <title>Jalur Langit</title>
+</programme>
+<programme start="20260103230000 +0000" stop="20260104000000 +0000" channel="Trans 7.mncvision">
+    <title>Redaksi Akhir Pekan Spesial</title>
+</programme>
+<programme start="20260104000000 +0000" stop="20260104010000 +0000" channel="Trans 7.mncvision">
+    <title>Spotlite</title>
+</programme>
+<programme start="20260104010000 +0000" stop="20260104013000 +0000" channel="Trans 7.mncvision">
+    <title>Selebrita Pagi On The Weekend</title>
+</programme>
+<programme start="20260104013000 +0000" stop="20260104023000 +0000" channel="Trans 7.mncvision">
+    <title>Obrolan Tiap Waktu</title>
+</programme>
+<programme start="20260104023000 +0000" stop="20260104033000 +0000" channel="Trans 7.mncvision">
+    <title>Heits Abis</title>
+</programme>
+<programme start="20260104033000 +0000" stop="20260104041500 +0000" channel="Trans 7.mncvision">
+    <title>Bikin Seneng</title>
+</programme>
+<programme start="20260104041500 +0000" stop="20260104050000 +0000" channel="Trans 7.mncvision">
+    <title>Enaknya Mantul</title>
+</programme>
+<programme start="20260104050000 +0000" stop="20260104054500 +0000" channel="Trans 7.mncvision">
+    <title>Cuan Bos</title>
+</programme>
+<programme start="20260104054500 +0000" stop="20260104063000 +0000" channel="Trans 7.mncvision">
+    <title>Jejak Petualang Explorer</title>
+</programme>
+<programme start="20260104063000 +0000" stop="20260104071500 +0000" channel="Trans 7.mncvision">
+    <title>Mancing Mania Strike Back</title>
+</programme>
+<programme start="20260104071500 +0000" stop="20260104081500 +0000" channel="Trans 7.mncvision">
+    <title>Redaksi Akhir Pekan</title>
+</programme>
+<programme start="20260104081500 +0000" stop="20260104090000 +0000" channel="Trans 7.mncvision">
+    <title>Jejak Si Gundul</title>
+</programme>
+<programme start="20260104090000 +0000" stop="20260104100000 +0000" channel="Trans 7.mncvision">
+    <title>Makan Receh</title>
+</programme>
+<programme start="20260104100000 +0000" stop="20260104110000 +0000" channel="Trans 7.mncvision">
+    <title>Selebrita On The Weekend</title>
+</programme>
+<programme start="20260104110000 +0000" stop="20260104114500 +0000" channel="Trans 7.mncvision">
+    <title>On The Spot</title>
+</programme>
+<programme start="20260104114500 +0000" stop="20260104121500 +0000" channel="Trans 7.mncvision">
+    <title>Secret Story</title>
+</programme>
+<programme start="20260104121500 +0000" stop="20260104130000 +0000" channel="Trans 7.mncvision">
+    <title>POV (Pasti Obrolan Viral)</title>
+</programme>
+<programme start="20260104130000 +0000" stop="20260104143000 +0000" channel="Trans 7.mncvision">
+    <title>Arisan</title>
+</programme>
+<programme start="20260104143000 +0000" stop="20260104154500 +0000" channel="Trans 7.mncvision">
+    <title>BTS</title>
+</programme>
+<programme start="20260104154500 +0000" stop="20260104161500 +0000" channel="Trans 7.mncvision">
+    <title>Pengabdi Setan 2: Communion</title>
+</programme>
+<programme start="20260103180000 +0000" stop="20260103220000 +0000" channel="Trans TV.mncvision">
+    <title>CNN Tech News</title>
+</programme>
+<programme start="20260103220000 +0000" stop="20260103233000 +0000" channel="Trans TV.mncvision">
+    <title>Islam Itu Indah</title>
+</programme>
+<programme start="20260103233000 +0000" stop="20260104003000 +0000" channel="Trans TV.mncvision">
+    <title>Insert Pagi (L)</title>
+</programme>
+<programme start="20260104003000 +0000" stop="20260104013000 +0000" channel="Trans TV.mncvision">
+    <title>Kajian Hati</title>
+</programme>
+<programme start="20260104013000 +0000" stop="20260104033000 +0000" channel="Trans TV.mncvision">
+    <title>Ambyar In Weekend</title>
+</programme>
+<programme start="20260104033000 +0000" stop="20260104043000 +0000" channel="Trans TV.mncvision">
+    <title>Insert Siang</title>
+</programme>
+<programme start="20260104043000 +0000" stop="20260104053000 +0000" channel="Trans TV.mncvision">
+    <title>Spill DD Tea</title>
+</programme>
+<programme start="20260104053000 +0000" stop="20260104070000 +0000" channel="Trans TV.mncvision">
+    <title>Brownis On The Weekend</title>
+</programme>
+<programme start="20260104070000 +0000" stop="20260104080000 +0000" channel="Trans TV.mncvision">
+    <title>Rumpi Hot Of The Week</title>
+</programme>
+<programme start="20260104080000 +0000" stop="20260104091500 +0000" channel="Trans TV.mncvision">
+    <title>Insert Investigasi</title>
+</programme>
+<programme start="20260104091500 +0000" stop="20260104100000 +0000" channel="Trans TV.mncvision">
+    <title>Sehari Jadi Ratu</title>
+</programme>
+<programme start="20260104100000 +0000" stop="20260104103000 +0000" channel="Trans TV.mncvision">
+    <title>CNN Indonesia News Update</title>
+</programme>
+<programme start="20260104103000 +0000" stop="20260104114500 +0000" channel="Trans TV.mncvision">
+    <title>Bikin Laper</title>
+</programme>
+<programme start="20260104114500 +0000" stop="20260104130000 +0000" channel="Trans TV.mncvision">
+    <title>Insert Story</title>
+</programme>
+<programme start="20260104130000 +0000" stop="20260104140000 +0000" channel="Trans TV.mncvision">
+    <title>Highlight</title>
+</programme>
+<programme start="20260104140000 +0000" stop="20260104160000 +0000" channel="Trans TV.mncvision">
+    <title>Bioskop Trans TV</title>
+</programme>
+<programme start="20260104160000 +0000" stop="20260104163000 +0000" channel="Trans TV.mncvision">
+    <title>Bioskop Trans TV</title>
+</programme>
 <programme start="20260103171500 +0000" stop="20260103181500 +0000" channel="tvN.mncvision">
     <title>Queen Woo, Ep 2</title>
 </programme>
