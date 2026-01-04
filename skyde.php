@@ -1886,110 +1886,98 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260104212500 +0000" stop="20260104233000 +0000" channel="Sky Cinema Premiere HD.skyde">
     <title>Islands</title>
 </programme>
-<programme start="20260103231000 +0000" stop="20260103235500 +0000" channel="Sky Crime HD.skyde">
-    <title>Whistleblower - Der Preis der Wahrheit</title>
+<programme start="20260104233500 +0000" stop="20260105003000 +0000" channel="Sky Crime HD.skyde">
+    <title>Der Hillside Strangler: Serienmörder in Hollywood</title>
 </programme>
-<programme start="20260103235500 +0000" stop="20260104004000 +0000" channel="Sky Crime HD.skyde">
-    <title>Die Mörder-Skala: Das Böse im Visier</title>
+<programme start="20260105003000 +0000" stop="20260105012000 +0000" channel="Sky Crime HD.skyde">
+    <title>Der Hillside Strangler: Serienmörder in Hollywood</title>
 </programme>
-<programme start="20260104004000 +0000" stop="20260104012500 +0000" channel="Sky Crime HD.skyde">
-    <title>Die Mörder-Skala: Das Böse im Visier</title>
-</programme>
-<programme start="20260104012500 +0000" stop="20260104021000 +0000" channel="Sky Crime HD.skyde">
-    <title>Die Mörder-Skala: Das Böse im Visier</title>
-</programme>
-<programme start="20260104021000 +0000" stop="20260104025500 +0000" channel="Sky Crime HD.skyde">
+<programme start="20260105012000 +0000" stop="20260105020500 +0000" channel="Sky Crime HD.skyde">
     <title>Vermisst - Spurensuche in Down Under</title>
 </programme>
-<programme start="20260104025500 +0000" stop="20260104040500 +0000" channel="Sky Crime HD.skyde">
-    <title>Murder at the Cottage - Der Mord an Sophie du Plantier</title>
+<programme start="20260105020500 +0000" stop="20260105025000 +0000" channel="Sky Crime HD.skyde">
+    <title>Vermisst - Spurensuche in Down Under</title>
 </programme>
-<programme start="20260104040500 +0000" stop="20260104042500 +0000" channel="Sky Crime HD.skyde">
+<programme start="20260105025000 +0000" stop="20260105033500 +0000" channel="Sky Crime HD.skyde">
+    <title>Vermisst - Spurensuche in Down Under</title>
+</programme>
+<programme start="20260105033500 +0000" stop="20260105042500 +0000" channel="Sky Crime HD.skyde">
+    <title>Vermisst - Spurensuche in Down Under</title>
+</programme>
+<programme start="20260105042500 +0000" stop="20260105045000 +0000" channel="Sky Crime HD.skyde">
     <title>Hunde im Einsatz</title>
 </programme>
-<programme start="20260104042500 +0000" stop="20260104051000 +0000" channel="Sky Crime HD.skyde">
-    <title>Love Scam - Die Geschichte eines unglaublichen Betrugs</title>
+<programme start="20260105045000 +0000" stop="20260105051500 +0000" channel="Sky Crime HD.skyde">
+    <title>Hunde im Einsatz</title>
 </programme>
-<programme start="20260104051000 +0000" stop="20260104055500 +0000" channel="Sky Crime HD.skyde">
-    <title>Love Scam - Die Geschichte eines unglaublichen Betrugs</title>
+<programme start="20260105051500 +0000" stop="20260105060500 +0000" channel="Sky Crime HD.skyde">
+    <title>Death on the Beach</title>
 </programme>
-<programme start="20260104055500 +0000" stop="20260104062500 +0000" channel="Sky Crime HD.skyde">
-    <title>Inside FBI - Die härtesten Fälle</title>
-</programme>
-<programme start="20260104062500 +0000" stop="20260104065000 +0000" channel="Sky Crime HD.skyde">
-    <title>Inside FBI - Die härtesten Fälle</title>
-</programme>
-<programme start="20260104065000 +0000" stop="20260104072000 +0000" channel="Sky Crime HD.skyde">
-    <title>Inside FBI - Die härtesten Fälle</title>
-</programme>
-<programme start="20260104072000 +0000" stop="20260104074500 +0000" channel="Sky Crime HD.skyde">
-    <title>Inside FBI - Die härtesten Fälle</title>
-</programme>
-<programme start="20260104074500 +0000" stop="20260104081500 +0000" channel="Sky Crime HD.skyde">
-    <title>Inside FBI - Die härtesten Fälle</title>
-</programme>
-<programme start="20260104081500 +0000" stop="20260104084000 +0000" channel="Sky Crime HD.skyde">
-    <title>Inside FBI - Die härtesten Fälle</title>
-</programme>
-<programme start="20260104084000 +0000" stop="20260104091000 +0000" channel="Sky Crime HD.skyde">
-    <title>Inside FBI - Die härtesten Fälle</title>
-</programme>
-<programme start="20260104091000 +0000" stop="20260104094000 +0000" channel="Sky Crime HD.skyde">
-    <title>Inside FBI - Die härtesten Fälle</title>
-</programme>
-<programme start="20260104094000 +0000" stop="20260104100500 +0000" channel="Sky Crime HD.skyde">
-    <title>Inside FBI - Die härtesten Fälle</title>
-</programme>
-<programme start="20260104100500 +0000" stop="20260104103500 +0000" channel="Sky Crime HD.skyde">
-    <title>Inside FBI - Die härtesten Fälle</title>
-</programme>
-<programme start="20260104103500 +0000" stop="20260104110500 +0000" channel="Sky Crime HD.skyde">
-    <title>Inside FBI - Die härtesten Fälle</title>
-</programme>
-<programme start="20260104110500 +0000" stop="20260104113000 +0000" channel="Sky Crime HD.skyde">
-    <title>Inside FBI - Die härtesten Fälle</title>
-</programme>
-<programme start="20260104113000 +0000" stop="20260104122000 +0000" channel="Sky Crime HD.skyde">
+<programme start="20260105060500 +0000" stop="20260105065500 +0000" channel="Sky Crime HD.skyde">
     <title>Der Killer in meinem Dorf</title>
 </programme>
-<programme start="20260104122000 +0000" stop="20260104131000 +0000" channel="Sky Crime HD.skyde">
+<programme start="20260105065500 +0000" stop="20260105074000 +0000" channel="Sky Crime HD.skyde">
     <title>Der Killer in meinem Dorf</title>
 </programme>
-<programme start="20260104131000 +0000" stop="20260104140000 +0000" channel="Sky Crime HD.skyde">
+<programme start="20260105074000 +0000" stop="20260105083500 +0000" channel="Sky Crime HD.skyde">
+    <title>Vermisst - Spurensuche in Down Under</title>
+</programme>
+<programme start="20260105083500 +0000" stop="20260105092000 +0000" channel="Sky Crime HD.skyde">
+    <title>Vermisst - Spurensuche in Down Under</title>
+</programme>
+<programme start="20260105092000 +0000" stop="20260105095000 +0000" channel="Sky Crime HD.skyde">
+    <title>Inside FBI - Die härtesten Fälle</title>
+</programme>
+<programme start="20260105095000 +0000" stop="20260105102000 +0000" channel="Sky Crime HD.skyde">
+    <title>Inside FBI - Die härtesten Fälle</title>
+</programme>
+<programme start="20260105102000 +0000" stop="20260105104500 +0000" channel="Sky Crime HD.skyde">
+    <title>Inside FBI - Die härtesten Fälle</title>
+</programme>
+<programme start="20260105104500 +0000" stop="20260105113000 +0000" channel="Sky Crime HD.skyde">
+    <title>Diabolical - Teuflische Morde</title>
+</programme>
+<programme start="20260105113000 +0000" stop="20260105122000 +0000" channel="Sky Crime HD.skyde">
+    <title>Diabolical - Teuflische Morde</title>
+</programme>
+<programme start="20260105122000 +0000" stop="20260105130500 +0000" channel="Sky Crime HD.skyde">
     <title>Der Killer in meinem Dorf</title>
 </programme>
-<programme start="20260104140000 +0000" stop="20260104145000 +0000" channel="Sky Crime HD.skyde">
+<programme start="20260105130500 +0000" stop="20260105135500 +0000" channel="Sky Crime HD.skyde">
     <title>Der Killer in meinem Dorf</title>
 </programme>
-<programme start="20260104145000 +0000" stop="20260104154000 +0000" channel="Sky Crime HD.skyde">
-    <title>Der Killer in meinem Dorf</title>
+<programme start="20260105135500 +0000" stop="20260105145000 +0000" channel="Sky Crime HD.skyde">
+    <title>Der Bestatter - Leichenschändung in Kalifornien</title>
 </programme>
-<programme start="20260104154000 +0000" stop="20260104163000 +0000" channel="Sky Crime HD.skyde">
-    <title>Der Killer in meinem Dorf</title>
-</programme>
-<programme start="20260104163000 +0000" stop="20260104171500 +0000" channel="Sky Crime HD.skyde">
-    <title>Der Killer in meinem Dorf</title>
-</programme>
-<programme start="20260104171500 +0000" stop="20260104180500 +0000" channel="Sky Crime HD.skyde">
-    <title>Der Killer in meinem Dorf</title>
-</programme>
-<programme start="20260104180500 +0000" stop="20260104185500 +0000" channel="Sky Crime HD.skyde">
-    <title>Der Killer in meinem Dorf</title>
-</programme>
-<programme start="20260104185500 +0000" stop="20260104194500 +0000" channel="Sky Crime HD.skyde">
-    <title>Der Killer in meinem Dorf</title>
-</programme>
-<programme start="20260104194500 +0000" stop="20260104210500 +0000" channel="Sky Crime HD.skyde">
+<programme start="20260105145000 +0000" stop="20260105161500 +0000" channel="Sky Crime HD.skyde">
     <title>Im tödlichen Netz - Die Fischerclans von Kap York</title>
 </programme>
-<programme start="20260104210500 +0000" stop="20260104215500 +0000" channel="Sky Crime HD.skyde">
-    <title>Der Suffolk Strangler - Serienmorde im Rotlichtmilieu</title>
+<programme start="20260105161500 +0000" stop="20260105164000 +0000" channel="Sky Crime HD.skyde">
+    <title>Inside FBI - Die härtesten Fälle</title>
 </programme>
-<programme start="20260104215500 +0000" stop="20260104224500 +0000" channel="Sky Crime HD.skyde">
-    <title>Der Suffolk Strangler - Serienmorde im Rotlichtmilieu</title>
+<programme start="20260105164000 +0000" stop="20260105171000 +0000" channel="Sky Crime HD.skyde">
+    <title>Inside FBI - Die härtesten Fälle</title>
 </programme>
-<programme start="20260104224500 +0000" stop="20260104233500 +0000" channel="Sky Crime HD.skyde">
-    <title>Der Suffolk Strangler - Serienmorde im Rotlichtmilieu</title>
+<programme start="20260105171000 +0000" stop="20260105173500 +0000" channel="Sky Crime HD.skyde">
+    <title>Inside FBI - Die härtesten Fälle</title>
+</programme>
+<programme start="20260105173500 +0000" stop="20260105182500 +0000" channel="Sky Crime HD.skyde">
+    <title>Der Killer in meinem Dorf</title>
+</programme>
+<programme start="20260105182500 +0000" stop="20260105191500 +0000" channel="Sky Crime HD.skyde">
+    <title>Der Killer in meinem Dorf</title>
+</programme>
+<programme start="20260105191500 +0000" stop="20260105202500 +0000" channel="Sky Crime HD.skyde">
+    <title>Wayne Couzens - Mörder in Uniform</title>
+</programme>
+<programme start="20260105202500 +0000" stop="20260105211500 +0000" channel="Sky Crime HD.skyde">
+    <title>The Real Manhunter</title>
+</programme>
+<programme start="20260105211500 +0000" stop="20260105220500 +0000" channel="Sky Crime HD.skyde">
+    <title>The Real Manhunter</title>
+</programme>
+<programme start="20260105220500 +0000" stop="20260105230000 +0000" channel="Sky Crime HD.skyde">
+    <title>Der Bestatter - Leichenschändung in Kalifornien</title>
 </programme>
 <programme start="20260103230500 +0000" stop="20260103234000 +0000" channel="Sky Documentaries HD.skyde">
     <title>Meine Geschichte</title>
@@ -2543,10 +2531,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260103233000 +0000" stop="20260104013000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Live United Cup: E. Lys (GER) - S. Lamens (NED), 3. Tag in Sydney (AUS)</title>
 </programme>
-<programme start="20260104013000 +0000" stop="20260104031000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260104013000 +0000" stop="20260104033000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Live United Cup: A. Zverev (GER) - T. Griekspoor (NED), 3. Tag in Sydney (AUS)</title>
 </programme>
-<programme start="20260104031000 +0000" stop="20260104050000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260104033000 +0000" stop="20260104053000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Live United Cup: GER - NED, 3. Tag in Sydney (AUS), Mixed Doubles</title>
 </programme>
 <programme start="20260104053000 +0000" stop="20260104061500 +0000" channel="Sky Sport Austria 1 HD.skyde">
@@ -3002,10 +2990,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260103233000 +0000" stop="20260104013000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live United Cup: E. Lys (GER) - S. Lamens (NED), 3. Tag in Sydney (AUS)</title>
 </programme>
-<programme start="20260104013000 +0000" stop="20260104031000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260104013000 +0000" stop="20260104033000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live United Cup: A. Zverev (GER) - T. Griekspoor (NED), 3. Tag in Sydney (AUS)</title>
 </programme>
-<programme start="20260104031000 +0000" stop="20260104053000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260104033000 +0000" stop="20260104053000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live United Cup: GER - NED, 3. Tag in Sydney (AUS), Mixed Doubles</title>
 </programme>
 <programme start="20260104053000 +0000" stop="20260104160000 +0000" channel="Sky Sport Tennis HD.skyde">
@@ -3032,10 +3020,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260104003500 +0000" stop="20260104013000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live United Cup: E. Lys (GER) - S. Lamens (NED), 3. Tag in Sydney (AUS)</title>
 </programme>
-<programme start="20260104013000 +0000" stop="20260104031000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260104013000 +0000" stop="20260104033000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live United Cup: A. Zverev (GER) - T. Griekspoor (NED), 3. Tag in Sydney (AUS)</title>
 </programme>
-<programme start="20260104031000 +0000" stop="20260104053000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260104033000 +0000" stop="20260104053000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live United Cup: GER - NED, 3. Tag in Sydney (AUS), Mixed Doubles</title>
 </programme>
 <programme start="20260104053000 +0000" stop="20260104122000 +0000" channel="Sky Sport Top Event HD.skyde">

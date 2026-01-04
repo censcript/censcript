@@ -1,11 +1,3 @@
-<programme start="20260104170000 +0700" stop="20260104173000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>UEFA Champions League Magazine 2024-25 E15</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260104173000 +0700" stop="20260104180000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Game R1 S6 E19</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260104180000 +0700" stop="20260104183000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Sports Classics: Worldies E24</title>
     <desc>Live: Tidak</desc>
@@ -68,6 +60,14 @@
 </programme>
 <programme start="20260105160000 +0700" stop="20260105180000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Union Saint-Gilloise - Olympique de Marseille</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260105180000 +0700" stop="20260105183000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEFA Champions League Magazine 2024-25 E15</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260105183000 +0700" stop="20260105203000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: AZ Alkmaar - Jagiellonia</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260104170000 +0700" stop="20260104190000 +0700" channel="COSMOTE Sport 2 HD">
@@ -136,6 +136,10 @@
 </programme>
 <programme start="20260105161000 +0700" stop="20260105181000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Hellas Verona - Torino</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260105181000 +0700" stop="20260105203000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Olympiacos - Kifisia</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260104163000 +0700" stop="20260104183000 +0700" channel="COSMOTE Sport 3 HD">
@@ -342,12 +346,8 @@
     <title>WRC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260104170000 +0700" stop="20260104173000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>HYROX - The World of Fitness Racing E4</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260104173000 +0700" stop="20260104180000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>HYROX - The World of Fitness Racing E5</title>
+<programme start="20260105183000 +0700" stop="20260105193000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260104180000 +0700" stop="20260104183000 +0700" channel="COSMOTE Sport 6 HD">
@@ -429,6 +429,10 @@
 <programme start="20260105170000 +0700" stop="20260105180000 +0700" channel="COSMOTE Sport 6 HD">
     <title>ATP 2025 - Review</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260105180000 +0700" stop="20260105203000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: ATP 250 2026 (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260104170000 +0700" stop="20260104190000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
