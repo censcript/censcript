@@ -1,7 +1,3 @@
-<programme start="20260105000000 +0700" stop="20260105020000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: Hellas Verona - Torino (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
 <programme start="20260105020000 +0700" stop="20260105024500 +0700" channel="COSMOTE Sport 1 HD">
     <title>UEFA Champions League Magazine 2024-25 E15</title>
     <desc>Live: Tidak</desc>
@@ -182,8 +178,8 @@
     <title>Football: APOEL - EN Paralimni</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260104233000 +0700" stop="20260105020000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Miami Heat - Minnesota Timberwolves</title>
+<programme start="20260106021500 +0700" stop="20260106041500 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Gil Vicente - Sporting CP</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260105020000 +0700" stop="20260105050000 +0700" channel="COSMOTE Sport 4 HD">
@@ -236,6 +232,10 @@
 </programme>
 <programme start="20260106002000 +0700" stop="20260106022500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Real Madrid - Barcelona</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260106022500 +0700" stop="20260106050000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Cleveland Cavaliers - Detroit Pistons</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260105010000 +0700" stop="20260105024000 +0700" channel="COSMOTE Sport 5 HD">
@@ -326,8 +326,8 @@
     <title>Motorsports: Extreme E 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260105005500 +0700" stop="20260105020000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Sports Classics: 2025 Outdoor Specials</title>
+<programme start="20260106020500 +0700" stop="20260106041000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: Extreme E 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260105020000 +0700" stop="20260105040000 +0700" channel="COSMOTE Sport 6 HD">
@@ -402,9 +402,9 @@
     <title>Sports Classics: 2025 Outdoor Specials</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260105000000 +0700" stop="20260105020000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>Basketball: Armani Milano - Udine (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20260106020000 +0700" stop="20260106043000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: ATP 250 2026</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260105020000 +0700" stop="20260105023000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>

@@ -592,9 +592,6 @@
 <programme start="20260104143000 +0000" stop="20260104154500 +0000" channel="Trans 7.vision">
 <title>BTS</title>
 </programme>
-<programme start="20260104174500 +0000" stop="20260104190000 +0000" channel="Trans 7.vision">
-<title>Warkop: Kesempatan Dalam...</title>
-</programme>
 <programme start="20260104190000 +0000" stop="20260104193000 +0000" channel="Trans 7.vision">
 <title>Best Fishing</title>
 </programme>
@@ -1496,5 +1493,8 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260104190000 +0000" stop="20260104210000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260104210000 +0000" stop="20260104230000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
