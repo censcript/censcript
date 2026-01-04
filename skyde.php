@@ -2540,124 +2540,61 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260104223500 +0000" stop="20260104231000 +0000" channel="Sky Showcase HD.skyde">
     <title>The Chair Company</title>
 </programme>
-<programme start="20251231230000 +0000" stop="20251231233000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Fußball: Heimspiel - Wiener Viktoria</title>
+<programme start="20260103233000 +0000" stop="20260104013000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Live United Cup: E. Lys (GER) - S. Lamens (NED), 3. Tag in Sydney (AUS)</title>
 </programme>
-<programme start="20251231233000 +0000" stop="20260101000000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Fußball: Heimspiel - Austria Salzburg</title>
+<programme start="20260104013000 +0000" stop="20260104033000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Live United Cup: A. Zverev (GER) - T. Griekspoor (NED), 3. Tag in Sydney (AUS)</title>
 </programme>
-<programme start="20260101000000 +0000" stop="20260101003000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Fußball: Heimspiel - Union Gurten</title>
+<programme start="20260104033000 +0000" stop="20260104053000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Live United Cup: GER - NED, 3. Tag in Sydney (AUS), Mixed Doubles</title>
 </programme>
-<programme start="20260101003000 +0000" stop="20260101010000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>RIESENrad: Sportgrößen im Waggon 28 (Gast: Stephanie Venier)</title>
+<programme start="20260104053000 +0000" stop="20260104061500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Fußball: Herzog gegen Herzig - Die Next Generation Show (USV Pressbaum)</title>
 </programme>
-<programme start="20260101010000 +0000" stop="20260101024000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Fußball: Historisches Derby: LASK - Ried (2008/2009)</title>
+<programme start="20260104061500 +0000" stop="20260104063500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Fußball: Bundesliga Classic: Austria - Rapid (2018/2019)</title>
 </programme>
-<programme start="20260101024000 +0000" stop="20260101042000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Fußball: Historisches Derby: SCR - FAK (1999/2000)</title>
+<programme start="20260104063500 +0000" stop="20260104070500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: ASAT Kompakt, 9. Runde</title>
 </programme>
-<programme start="20260101042000 +0000" stop="20260101044000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Fußball: Bundesliga Classic: Mattersburg - Austria (2015/2016)</title>
+<programme start="20260104070500 +0000" stop="20260104085000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Fußball: Klassiker der Woche: GAK - WAC (2024/25)</title>
 </programme>
-<programme start="20260101044000 +0000" stop="20260101050000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Fußball: Bundesliga Classic: Salzburg - Grödig (2014/2015)</title>
+<programme start="20260104085000 +0000" stop="20260104092000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: ASAT Kompakt, 10. Runde</title>
 </programme>
-<programme start="20260101050000 +0000" stop="20260101064500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Fußball: Historisches Derby: ASK-SVR (2008/2009)</title>
+<programme start="20260104092000 +0000" stop="20260104110000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Fußball: Klassiker der Woche: ALT - RBS (2008/09)</title>
 </programme>
-<programme start="20260101064500 +0000" stop="20260101071000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: 100% RB Salzburg (Runden 1-4)</title>
+<programme start="20260104110000 +0000" stop="20260104113500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: ASAT Kompakt, 11. Runde</title>
 </programme>
-<programme start="20260101071000 +0000" stop="20260101073500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: 100% LASK (Runden 1-4)</title>
+<programme start="20260104113500 +0000" stop="20260104122000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Fußball: Herzog gegen Herzig - Die Next Generation Show (USV Pressbaum)</title>
 </programme>
-<programme start="20260101073500 +0000" stop="20260101080000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: 100% Sturm Graz (Runden 1-4)</title>
+<programme start="20260104122000 +0000" stop="20260104145000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Live PL: Leeds United - Manchester United, 20. Spieltag</title>
 </programme>
-<programme start="20260101080000 +0000" stop="20260101082500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: 100% Austria Wien (Runden 1-4)</title>
+<programme start="20260104145000 +0000" stop="20260104170000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Live PL: Newcastle United - Crystal Palace, 20. Spieltag</title>
 </programme>
-<programme start="20260101082500 +0000" stop="20260101085000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: 100% Rapid (Runden 1-4)</title>
+<programme start="20260104170000 +0000" stop="20260104193000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Live PL: Manchester City - FC Chelsea, Match of the Week, 20. Spieltag</title>
 </programme>
-<programme start="20260101085000 +0000" stop="20260101091500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: Torparade XXL (Runden 1-4)</title>
+<programme start="20260104193000 +0000" stop="20260104211500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Fußball: Klassiker der Woche: SCR - SVR (2012/13)</title>
 </programme>
-<programme start="20260101091500 +0000" stop="20260101094000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: 100% Lask (Runden 5-8)</title>
+<programme start="20260104211500 +0000" stop="20260104214500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: ASAT Kompakt, 12. Runde</title>
 </programme>
-<programme start="20260101094000 +0000" stop="20260101100500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: 100% Sturm Graz (Runden 5-8)</title>
+<programme start="20260104214500 +0000" stop="20260104233000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Fußball: Klassiker der Woche: STU - SCR (2017/18)</title>
 </programme>
-<programme start="20260101100500 +0000" stop="20260101103000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: 100% RB Salzburg (Runden 5-8)</title>
+<programme start="20260103230000 +0000" stop="20260104053000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+    <title>Es folgt: LIVE Tennis United Cup ab 06:30</title>
 </programme>
-<programme start="20260101103000 +0000" stop="20260101105500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: 100% Rapid (Runden 5-8)</title>
-</programme>
-<programme start="20260101105500 +0000" stop="20260101112000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: 100% Austria Wien (Runden 5-8)</title>
-</programme>
-<programme start="20260101112000 +0000" stop="20260101114500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: Torparade XXL (Runden 5-8)</title>
-</programme>
-<programme start="20260101114500 +0000" stop="20260101121000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: 100% Sturm Graz (Runden 9-12)</title>
-</programme>
-<programme start="20260101121000 +0000" stop="20260101124000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: 100% Rapid (Runden 9-12)</title>
-</programme>
-<programme start="20260101124000 +0000" stop="20260101130500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: 100% Austria Wien (Runden 9-12)</title>
-</programme>
-<programme start="20260101130500 +0000" stop="20260101133000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: 100% RB Salzburg (Runden 9-12)</title>
-</programme>
-<programme start="20260101133000 +0000" stop="20260101135500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: 100% LASK (Runden 9-12)</title>
-</programme>
-<programme start="20260101135500 +0000" stop="20260101142000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: Torparade XXL (Runden 9-12)</title>
-</programme>
-<programme start="20260101142000 +0000" stop="20260101145000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: 100% LASK (Runden 13-16)</title>
-</programme>
-<programme start="20260101145000 +0000" stop="20260101152000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: 100% RB Salzburg (Runden 13-16)</title>
-</programme>
-<programme start="20260101152000 +0000" stop="20260101155000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: 100% Austria Wien (Runden 13-16)</title>
-</programme>
-<programme start="20260101155000 +0000" stop="20260101162000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: 100% Rapid (Runden 13-16)</title>
-</programme>
-<programme start="20260101162000 +0000" stop="20260101165000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: 100% Sturm Graz (Runden 13-16)</title>
-</programme>
-<programme start="20260101165000 +0000" stop="20260101172000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: Torparade XXL (Runden 13-16)</title>
-</programme>
-<programme start="20260101172000 +0000" stop="20260101195000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live PL: FC Liverpool - Leeds United, 19. Spieltag</title>
-</programme>
-<programme start="20260101195000 +0000" stop="20260101220500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live PL: AFC Sunderland - Manchester City, 19. Spieltag</title>
-</programme>
-<programme start="20260101220500 +0000" stop="20260101223000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>RIESENrad: Sportgrößen im Waggon 28 (Gast: Dominique Heinrich)</title>
-</programme>
-<programme start="20260101223000 +0000" stop="20260101225000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Fußball: Bundesliga Classic: Mattersburg - Austria (2015/2016)</title>
-</programme>
-<programme start="20260101225000 +0000" stop="20260101231000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Fußball: Bundesliga Classic: Salzburg - Grödig (2014/2015)</title>
-</programme>
-<programme start="20260104051000 +0000" stop="20260104053000 +0000" channel="Sky Sport Austria 2 HD.skyde">
-    <title>Es folgt: Tennis United Cup</title>
-</programme>
-<programme start="20260104053000 +0000" stop="20260104160000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20260104053000 +0000" stop="20260104180000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live United Cup: Konferenz, 3. Tag in Perth und Sydney (AUS)</title>
 </programme>
 <programme start="20260104001500 +0000" stop="20260104003000 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -3173,13 +3110,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260104143000 +0000" stop="20260104145000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: LIVE PL</title>
 </programme>
-<programme start="20260104145000 +0000" stop="20260104170000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260104145000 +0000" stop="20260104173000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live PL: Newcastle United - Crystal Palace, 20. Spieltag</title>
 </programme>
 <programme start="20260104143000 +0000" stop="20260104145000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Es folgt: LIVE PL</title>
 </programme>
-<programme start="20260104145000 +0000" stop="20260104170000 +0000" channel="Sky Sport 2 HD.skyde">
+<programme start="20260104145000 +0000" stop="20260104173000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live PL: Tottenham Hotspur - AFC Sunderland, 20. Spieltag</title>
 </programme>
 <programme start="20260104143000 +0000" stop="20260104145000 +0000" channel="Sky Sport 3 HD.skyde">

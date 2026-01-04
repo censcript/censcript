@@ -7348,10 +7348,10 @@
     <programme start="20260103233000 +0000" stop="20260104013000 +0000" channel="Asianet Movies.starhub">
         <title>Matchbox</title>
     </programme>
-    <programme start="20260104013000 +0000" stop="20260104043000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260104013000 +0000" stop="20260104042500 +0000" channel="Asianet Movies.starhub">
         <title>Sunday Holiday</title>
     </programme>
-    <programme start="20260104043000 +0000" stop="20260104073000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260104042500 +0000" stop="20260104073000 +0000" channel="Asianet Movies.starhub">
         <title>Swapnakoodu</title>
     </programme>
     <programme start="20260104073000 +0000" stop="20260104103000 +0000" channel="Asianet Movies.starhub">
