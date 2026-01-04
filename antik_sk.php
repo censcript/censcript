@@ -76,11 +76,14 @@
   <programme start="20260106224800 +0000" stop="20260107003500 +0000" channel="Jednotka.webtv.sk">
     <title lang="id">Nedotknuteľní</title>
   </programme>
-  <programme start="20260105210000 +0000" stop="20260105234600 +0000" channel="Dvojka.webtv.sk">
+  <programme start="20260105210000 +0000" stop="20260105234400 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Maja z ostrova Stormskär</title>
   </programme>
-  <programme start="20260105234600 +0000" stop="20260106003500 +0000" channel="Dvojka.webtv.sk">
+  <programme start="20260105234400 +0000" stop="20260105234500 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Hymna SR</title>
+  </programme>
+  <programme start="20260105234500 +0000" stop="20260106003500 +0000" channel="Dvojka.webtv.sk">
+    <title lang="id">Správy</title>
   </programme>
   <programme start="20260106044000 +0000" stop="20260106051000 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Šťastia, zdravia vinšujeme Vám</title>
@@ -3775,19 +3778,19 @@
   <programme start="20260106225500 +0000" stop="20260107000000 +0000" channel="Nova International.webtv.sk">
     <title lang="id">Ordinace v růžové zahradě II (125)</title>
   </programme>
-  <programme start="20260105225000 +0000" stop="20260105234000 +0000" channel="Prima SK.webtv.sk">
+  <programme start="20260105225500 +0000" stop="20260105234000 +0000" channel="Prima SK.webtv.sk">
     <title lang="id">Show Jana Krause</title>
   </programme>
   <programme start="20260105234000 +0000" stop="20260106005500 +0000" channel="Prima SK.webtv.sk">
     <title lang="id">Máme rádi Česko</title>
   </programme>
-  <programme start="20260106005500 +0000" stop="20260106015500 +0000" channel="Prima SK.webtv.sk">
+  <programme start="20260106005500 +0000" stop="20260106020000 +0000" channel="Prima SK.webtv.sk">
     <title lang="id">Slnečná I (111)</title>
   </programme>
-  <programme start="20260106015500 +0000" stop="20260106025000 +0000" channel="Prima SK.webtv.sk">
+  <programme start="20260106020000 +0000" stop="20260106025500 +0000" channel="Prima SK.webtv.sk">
     <title lang="id">Modrý kód (38)</title>
   </programme>
-  <programme start="20260106025000 +0000" stop="20260106034000 +0000" channel="Prima SK.webtv.sk">
+  <programme start="20260106025500 +0000" stop="20260106034000 +0000" channel="Prima SK.webtv.sk">
     <title lang="id">Nikdo není dokonalý</title>
   </programme>
   <programme start="20260106034000 +0000" stop="20260106050000 +0000" channel="Prima SK.webtv.sk">
@@ -3982,10 +3985,10 @@
   <programme start="20260106225500 +0000" stop="20260106232400 +0000" channel="CNN Prima News.webtv.sk">
     <title lang="id">360°</title>
   </programme>
-  <programme start="20260105222000 +0000" stop="20260105231500 +0000" channel="Prima Cool SK.webtv.sk">
+  <programme start="20260105222000 +0000" stop="20260105232000 +0000" channel="Prima Cool SK.webtv.sk">
     <title lang="id">Top Gear speciál: Napříč Itálií (1)</title>
   </programme>
-  <programme start="20260105231500 +0000" stop="20260106000500 +0000" channel="Prima Cool SK.webtv.sk">
+  <programme start="20260105232000 +0000" stop="20260106000500 +0000" channel="Prima Cool SK.webtv.sk">
     <title lang="id">Prima Partička</title>
   </programme>
   <programme start="20260106000500 +0000" stop="20260106005000 +0000" channel="Prima Cool SK.webtv.sk">
@@ -4003,8 +4006,11 @@
   <programme start="20260106031500 +0000" stop="20260106040500 +0000" channel="Prima Cool SK.webtv.sk">
     <title lang="id">Autosalon</title>
   </programme>
-  <programme start="20260106040500 +0000" stop="20260106050000 +0000" channel="Prima Cool SK.webtv.sk">
+  <programme start="20260106040500 +0000" stop="20260106044500 +0000" channel="Prima Cool SK.webtv.sk">
     <title lang="id">Vlakem přes Labské údolí</title>
+  </programme>
+  <programme start="20260106044500 +0000" stop="20260106050000 +0000" channel="Prima Cool SK.webtv.sk">
+    <title lang="id">Vysielacia prestávka</title>
   </programme>
   <programme start="20260106050000 +0000" stop="20260106055500 +0000" channel="Prima Cool SK.webtv.sk">
     <title lang="id">Vlakem přes Labské údolí</title>
@@ -4078,25 +4084,22 @@
   <programme start="20260106222000 +0000" stop="20260106232000 +0000" channel="Prima Cool SK.webtv.sk">
     <title lang="id">Top Gear speciál: Napříč Itálií (2)</title>
   </programme>
-  <programme start="20260105220500 +0000" stop="20260105230500 +0000" channel="Prima Love SK.webtv.sk">
-    <title lang="id">Velmi křehké vztahy (47)</title>
-  </programme>
-  <programme start="20260105230500 +0000" stop="20260105235500 +0000" channel="Prima Love SK.webtv.sk">
+  <programme start="20260105230000 +0000" stop="20260105235000 +0000" channel="Prima Love SK.webtv.sk">
     <title lang="id">Velmi křehké vztahy (48)</title>
   </programme>
-  <programme start="20260105235500 +0000" stop="20260106004000 +0000" channel="Prima Love SK.webtv.sk">
+  <programme start="20260105235000 +0000" stop="20260106003500 +0000" channel="Prima Love SK.webtv.sk">
     <title lang="id">Zvrat osudu (40)</title>
   </programme>
-  <programme start="20260106004000 +0000" stop="20260106012500 +0000" channel="Prima Love SK.webtv.sk">
+  <programme start="20260106003500 +0000" stop="20260106012000 +0000" channel="Prima Love SK.webtv.sk">
     <title lang="id">Zvrat osudu (41)</title>
   </programme>
-  <programme start="20260106012500 +0000" stop="20260106020500 +0000" channel="Prima Love SK.webtv.sk">
+  <programme start="20260106012000 +0000" stop="20260106020500 +0000" channel="Prima Love SK.webtv.sk">
     <title lang="id">Záchranáři z hor X (13)</title>
   </programme>
-  <programme start="20260106020500 +0000" stop="20260106025000 +0000" channel="Prima Love SK.webtv.sk">
+  <programme start="20260106020500 +0000" stop="20260106024500 +0000" channel="Prima Love SK.webtv.sk">
     <title lang="id">Záchranáři z hor X (14)</title>
   </programme>
-  <programme start="20260106025000 +0000" stop="20260106043500 +0000" channel="Prima Love SK.webtv.sk">
+  <programme start="20260106024500 +0000" stop="20260106043500 +0000" channel="Prima Love SK.webtv.sk">
     <title lang="id">Relaxační podívaná</title>
   </programme>
   <programme start="20260106043500 +0000" stop="20260106050000 +0000" channel="Prima Love SK.webtv.sk">
@@ -4504,10 +4507,10 @@
   <programme start="20260106001000 +0000" stop="20260106002000 +0000" channel="A11.webtv.sk">
     <title lang="id">Petrovický zpravodaj</title>
   </programme>
-  <programme start="20260106002000 +0000" stop="20260106004000 +0000" channel="A11.webtv.sk">
+  <programme start="20260106002000 +0000" stop="20260106003500 +0000" channel="A11.webtv.sk">
     <title lang="id">Týden ze západu Čech</title>
   </programme>
-  <programme start="20260106004000 +0000" stop="20260106011000 +0000" channel="A11.webtv.sk">
+  <programme start="20260106003500 +0000" stop="20260106011000 +0000" channel="A11.webtv.sk">
     <title lang="id">A11 rozhovor</title>
   </programme>
   <programme start="20260106011000 +0000" stop="20260106015500 +0000" channel="A11.webtv.sk">
