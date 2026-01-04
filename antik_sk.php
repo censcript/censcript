@@ -16111,8 +16111,11 @@
   <programme start="20260106050000 +0000" stop="20260106053000 +0000" channel="TVP World.webtv.sk">
     <title lang="id">World News</title>
   </programme>
-  <programme start="20260106053000 +0000" stop="20260106060000 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">Document</title>
+  <programme start="20260106053000 +0000" stop="20260106055000 +0000" channel="TVP World.webtv.sk">
+    <title lang="id">Poland 4.0 (2)</title>
+  </programme>
+  <programme start="20260106055000 +0000" stop="20260106060000 +0000" channel="TVP World.webtv.sk">
+    <title lang="id">Weather</title>
   </programme>
   <programme start="20260106060000 +0000" stop="20260106061000 +0000" channel="TVP World.webtv.sk">
     <title lang="id">World News Flash</title>
@@ -16258,8 +16261,11 @@
   <programme start="20260106151500 +0000" stop="20260106153000 +0000" channel="TVP World.webtv.sk">
     <title lang="id">World Talks (1670)</title>
   </programme>
-  <programme start="20260106153000 +0000" stop="20260106160000 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">Document</title>
+  <programme start="20260106153000 +0000" stop="20260106155000 +0000" channel="TVP World.webtv.sk">
+    <title lang="id">Poland 4.0 (2)</title>
+  </programme>
+  <programme start="20260106155000 +0000" stop="20260106160000 +0000" channel="TVP World.webtv.sk">
+    <title lang="id">Weather</title>
   </programme>
   <programme start="20260106160000 +0000" stop="20260106161000 +0000" channel="TVP World.webtv.sk">
     <title lang="id">World News</title>
@@ -16366,8 +16372,11 @@
   <programme start="20260106224500 +0000" stop="20260106230000 +0000" channel="TVP World.webtv.sk">
     <title lang="id">Interview from Vilnius (179)</title>
   </programme>
-  <programme start="20260105230000 +0000" stop="20260105231500 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260105230000 +0000" stop="20260105230600 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Pogoda Info</title>
+  </programme>
+  <programme start="20260105230600 +0000" stop="20260105231500 +0000" channel="TVP Info.webtv.sk">
+    <title lang="id">Sport Info</title>
   </programme>
   <programme start="20260105231500 +0000" stop="20260105234300 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Program informacyjny 19.30</title>
@@ -16378,10 +16387,10 @@
   <programme start="20260106000300 +0000" stop="20260106005500 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Bez retuszu (290)</title>
   </programme>
-  <programme start="20260106005500 +0000" stop="20260106012000 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260106005500 +0000" stop="20260106012100 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Oko na Swiat (636)</title>
   </programme>
-  <programme start="20260106012000 +0000" stop="20260106013000 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260106012100 +0000" stop="20260106013000 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Pogoda Info</title>
   </programme>
   <programme start="20260106013000 +0000" stop="20260106023000 +0000" channel="TVP Info.webtv.sk">
@@ -16675,8 +16684,11 @@
   <programme start="20260106192500 +0000" stop="20260106211500 +0000" channel="TVP Polonia.webtv.sk">
     <title lang="id">Dama Kameliowa</title>
   </programme>
-  <programme start="20260106211500 +0000" stop="20260106221500 +0000" channel="TVP Polonia.webtv.sk">
+  <programme start="20260106211500 +0000" stop="20260106220500 +0000" channel="TVP Polonia.webtv.sk">
     <title lang="id">Z gwiazda przez swiat (26)</title>
+  </programme>
+  <programme start="20260106220500 +0000" stop="20260106221500 +0000" channel="TVP Polonia.webtv.sk">
+    <title lang="id">Tylko jeden skecz (32)</title>
   </programme>
   <programme start="20260106221500 +0000" stop="20260106224500 +0000" channel="TVP Polonia.webtv.sk">
     <title lang="id">Panorama</title>

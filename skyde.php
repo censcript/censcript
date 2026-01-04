@@ -2897,16 +2897,16 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260104163000 +0000" stop="20260104170000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Der Nachmittag</title>
 </programme>
-<programme start="20260104170000 +0000" stop="20260104173000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live Sky Sport News: Spezial - Die Bayern legen los!</title>
-</programme>
-<programme start="20260104173000 +0000" stop="20260104180000 +0000" channel="Sky Sport News HD.skyde">
+<programme start="20260104170000 +0000" stop="20260104180000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Guten Abend Fans!</title>
 </programme>
 <programme start="20260104180000 +0000" stop="20260104183000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Spezial - BVB-Update aus Marbella</title>
 </programme>
-<programme start="20260104183000 +0000" stop="20260104210000 +0000" channel="Sky Sport News HD.skyde">
+<programme start="20260104183000 +0000" stop="20260104190000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: Spezial - Die Bayern legen los!</title>
+</programme>
+<programme start="20260104190000 +0000" stop="20260104210000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Guten Abend Fans!</title>
 </programme>
 <programme start="20260104210000 +0000" stop="20260104213000 +0000" channel="Sky Sport News HD.skyde">
@@ -3029,7 +3029,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260104213000 +0000" stop="20260104233000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>United Cup: GER - NED, 3. Tag in Sydney (AUS), Mixed Doubles</title>
 </programme>
-<programme start="20260104003000 +0000" stop="20260104013000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260104003500 +0000" stop="20260104013000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live United Cup: E. Lys (GER) - S. Lamens (NED), 3. Tag in Sydney (AUS)</title>
 </programme>
 <programme start="20260104013000 +0000" stop="20260104033000 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3122,7 +3122,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260104143000 +0000" stop="20260104145000 +0000" channel="Sky Sport 3 HD.skyde">
     <title>Es folgt: LIVE PL</title>
 </programme>
-<programme start="20260104145000 +0000" stop="20260104170000 +0000" channel="Sky Sport 3 HD.skyde">
+<programme start="20260104145000 +0000" stop="20260104173000 +0000" channel="Sky Sport 3 HD.skyde">
     <title>Live PL: FC Everton - FC Brentford, 20. Spieltag</title>
 </programme>
 <programme start="20260104010500 +0000" stop="20260104015500 +0000" channel="SYFY HD.skyde">
