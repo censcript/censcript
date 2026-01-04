@@ -3002,10 +3002,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260103233000 +0000" stop="20260104013000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live United Cup: E. Lys (GER) - S. Lamens (NED), 3. Tag in Sydney (AUS)</title>
 </programme>
-<programme start="20260104013000 +0000" stop="20260104033000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260104013000 +0000" stop="20260104031000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live United Cup: A. Zverev (GER) - T. Griekspoor (NED), 3. Tag in Sydney (AUS)</title>
 </programme>
-<programme start="20260104033000 +0000" stop="20260104053000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260104031000 +0000" stop="20260104053000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live United Cup: GER - NED, 3. Tag in Sydney (AUS), Mixed Doubles</title>
 </programme>
 <programme start="20260104053000 +0000" stop="20260104160000 +0000" channel="Sky Sport Tennis HD.skyde">
@@ -3032,10 +3032,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260104003500 +0000" stop="20260104013000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live United Cup: E. Lys (GER) - S. Lamens (NED), 3. Tag in Sydney (AUS)</title>
 </programme>
-<programme start="20260104013000 +0000" stop="20260104033000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260104013000 +0000" stop="20260104031000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live United Cup: A. Zverev (GER) - T. Griekspoor (NED), 3. Tag in Sydney (AUS)</title>
 </programme>
-<programme start="20260104033000 +0000" stop="20260104053000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260104031000 +0000" stop="20260104053000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live United Cup: GER - NED, 3. Tag in Sydney (AUS), Mixed Doubles</title>
 </programme>
 <programme start="20260104053000 +0000" stop="20260104122000 +0000" channel="Sky Sport Top Event HD.skyde">
