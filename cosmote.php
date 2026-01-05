@@ -155,7 +155,7 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260106090000 +0700" stop="20260106110000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Rio Ave - Casa Pia</title>
+    <title>Football: SL Benfica - Estoril</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260106110000 +0700" stop="20260106130000 +0700" channel="COSMOTE Sport 3 HD">
@@ -222,19 +222,19 @@
     <title>Basketball: Badalona - Tenerife</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260106130000 +0700" stop="20260106150000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Virtus Bologna - Trapani</title>
+<programme start="20260106130000 +0700" stop="20260106151500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Besiktas - Fenerbahce</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260106150000 +0700" stop="20260106170000 +0700" channel="COSMOTE Sport 4 HD">
+<programme start="20260106151500 +0700" stop="20260106171500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Real Madrid - Barcelona</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260106170000 +0700" stop="20260106193000 +0700" channel="COSMOTE Sport 4 HD">
+<programme start="20260106171500 +0700" stop="20260106194500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Detroit Pistons - New York Knicks</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260106193000 +0700" stop="20260106214000 +0700" channel="COSMOTE Sport 4 HD">
+<programme start="20260106194500 +0700" stop="20260106214000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Unicaja - Karditsa</title>
     <desc>Live: Tidak</desc>
 </programme>
@@ -382,25 +382,25 @@
     <title>HYROX - The World of Fitness Racing E5</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260106120000 +0700" stop="20260106123000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>HYROX - The World of Fitness Racing E3</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260106123000 +0700" stop="20260106130000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Sports Classics: 2025 Outdoor Specials</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260106130000 +0700" stop="20260106153000 +0700" channel="COSMOTE Sport 6 HD">
+<programme start="20260106120000 +0700" stop="20260106143000 +0700" channel="COSMOTE Sport 6 HD">
     <title>2025 Premier Padel Tour Finals</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260106153000 +0700" stop="20260106180000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: ATP 250 2026</title>
+<programme start="20260106143000 +0700" stop="20260106170000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: Yibing Wu - Fabian Marozsan</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260106180000 +0700" stop="20260106203000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: ATP 250 2026 (L)</title>
+<programme start="20260106170000 +0700" stop="20260106193000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: Juncheng Shang - Francisco Comesana (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20260106193000 +0700" stop="20260106200000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>HYROX - The World of Fitness Racing E3</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260106200000 +0700" stop="20260106203000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Sports Classics: 2025 Outdoor Specials</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260106203000 +0700" stop="20260106224500 +0700" channel="COSMOTE Sport 6 HD">
     <title>Volleyball: Ziraat Bankasi SK Ankara - Tours VB</title>
