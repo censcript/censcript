@@ -194,13 +194,9 @@
     <title>William Hill Scottish Premiership - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260105214000 +0700" stop="20260105233000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Szolnoki Olaj - AEK</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260105233000 +0700" stop="20260105235000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>ACB Liga Endesa 2025-26 - Fifth Quarter E12</title>
-    <desc>Live: Tidak</desc>
+<programme start="20260107000000 +0700" stop="20260107020000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Lecce - AS Roma (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260105235000 +0700" stop="20260106002000 +0700" channel="COSMOTE Sport 4 HD">
     <title>NBA Specials</title>
@@ -262,8 +258,8 @@
     <title>Pick n&#039; Roll (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260105224000 +0700" stop="20260106000000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>MotoGP Classics</title>
+<programme start="20260107004500 +0700" stop="20260107020000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>NBA Specials: Basketball Stories</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260106000000 +0700" stop="20260106010000 +0700" channel="COSMOTE Sport 5 HD">
@@ -366,8 +362,8 @@
     <title>MotoGP Classics</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260105203000 +0700" stop="20260105232500 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Volleyball: Olympiacos - Eczacibasi Dynavit Istanbul</title>
+<programme start="20260107004500 +0700" stop="20260107020000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>2025 Extreme H</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260105232500 +0700" stop="20260106010500 +0700" channel="COSMOTE Sport 6 HD">
@@ -378,8 +374,12 @@
     <title>Sports Classics: 2025 Outdoor Specials</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260106020000 +0700" stop="20260106043000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: ATP 250 2026</title>
+<programme start="20260106020000 +0700" stop="20260106033000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: Yibing Wu - Fabian Marozsan</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260106033000 +0700" stop="20260106043000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Next Gen ATP Finals 2025 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260106043000 +0700" stop="20260106050000 +0700" channel="COSMOTE Sport 6 HD">
@@ -414,7 +414,11 @@
     <title>2025 Premier Padel Tour Finals</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260106143000 +0700" stop="20260106170000 +0700" channel="COSMOTE Sport 6 HD">
+<programme start="20260106143000 +0700" stop="20260106153000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>ATP 2025 - Review</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260106153000 +0700" stop="20260106170000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Yibing Wu - Fabian Marozsan</title>
     <desc>Live: Tidak</desc>
 </programme>
