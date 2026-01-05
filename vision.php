@@ -182,69 +182,72 @@
 <title>GTV</title>
 </programme>
 <programme start="20260105020000 +0000" stop="20260105050000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<title>Spongebob Squarepants (GTV)</title>
 </programme>
 <programme start="20260105050000 +0000" stop="20260105073000 +0000" channel="GTV.vision">
 <title>GTV</title>
 </programme>
 <programme start="20260105073000 +0000" stop="20260105093000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<title>SpongeBob SquarePants</title>
 </programme>
 <programme start="20260105093000 +0000" stop="20260105110000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<title>SpongeBob SquarePants</title>
 </programme>
 <programme start="20260105110000 +0000" stop="20260105123000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<title>New Family 100 (GTV)</title>
 </programme>
 <programme start="20260105123000 +0000" stop="20260105140000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<title>River God Water Strange Story</title>
 </programme>
 <programme start="20260105140000 +0000" stop="20260105153000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<title>Alien Invasion</title>
 </programme>
 <programme start="20260105153000 +0000" stop="20260105163000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<title>Untold Story</title>
 </programme>
 <programme start="20260105163000 +0000" stop="20260105180000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<title>Jelajah Mitos</title>
 </programme>
 <programme start="20260105180000 +0000" stop="20260105190000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<title>Crime KV</title>
 </programme>
 <programme start="20260105190000 +0000" stop="20260105200000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<title>Naik Enak Turun Ogah</title>
 </programme>
 <programme start="20260105200000 +0000" stop="20260105220000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<title>Awas Ada Sule</title>
 </programme>
-<programme start="20260105220000 +0000" stop="20260105231500 +0000" channel="GTV.vision">
-<title>GTV</title>
+<programme start="20260105220000 +0000" stop="20260105230000 +0000" channel="GTV.vision">
+<title>Kisah Viral</title>
 </programme>
-<programme start="20260105231500 +0000" stop="20260105234500 +0000" channel="GTV.vision">
-<title>GTV</title>
+<programme start="20260105230000 +0000" stop="20260106000000 +0000" channel="GTV.vision">
+<title>SpongeBob SquarePants</title>
 </programme>
-<programme start="20260105234500 +0000" stop="20260106020000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<programme start="20260106000000 +0000" stop="20260106003000 +0000" channel="GTV.vision">
+<title>Buletin iNews Pagi</title>
 </programme>
-<programme start="20260106020000 +0000" stop="20260106050000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<programme start="20260106003000 +0000" stop="20260106013000 +0000" channel="GTV.vision">
+<title>Obrolan Seputar Selebriti (GTV)</title>
 </programme>
-<programme start="20260106050000 +0000" stop="20260106070000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<programme start="20260106013000 +0000" stop="20260106020000 +0000" channel="GTV.vision">
+<title>CoComelon Dan Sahabat</title>
 </programme>
-<programme start="20260106070000 +0000" stop="20260106073000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<programme start="20260106020000 +0000" stop="20260106023000 +0000" channel="GTV.vision">
+<title>Bernard Bear</title>
 </programme>
-<programme start="20260106073000 +0000" stop="20260106081500 +0000" channel="GTV.vision">
-<title>GTV</title>
+<programme start="20260106023000 +0000" stop="20260106050000 +0000" channel="GTV.vision">
+<title>Spongebob Squarepants (GTV)</title>
 </programme>
-<programme start="20260106081500 +0000" stop="20260106090000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<programme start="20260106050000 +0000" stop="20260106073000 +0000" channel="GTV.vision">
+<title>SpongeBob SquarePants</title>
 </programme>
-<programme start="20260106090000 +0000" stop="20260106110000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<programme start="20260106073000 +0000" stop="20260106093000 +0000" channel="GTV.vision">
+<title>SpongeBob SquarePants</title>
 </programme>
-<programme start="20260106110000 +0000" stop="20260106123000 +0000" channel="GTV.vision">
+<programme start="20260106093000 +0000" stop="20260106110000 +0000" channel="GTV.vision">
+<title>SpongeBob SquarePants</title>
+</programme>
+<programme start="20260106110000 +0000" stop="20260106133000 +0000" channel="GTV.vision">
 <title>GTV</title>
 </programme>
 <programme start="20260105000000 +0000" stop="20260105001300 +0000" channel="iNews.vision">
@@ -295,13 +298,10 @@
 <programme start="20260105170000 +0000" stop="20260105180000 +0000" channel="iNews.vision">
 <title>Realita</title>
 </programme>
-<programme start="20260105180000 +0000" stop="20260105184500 +0000" channel="iNews.vision">
-<title>iNews Room</title>
+<programme start="20260105180000 +0000" stop="20260105193000 +0000" channel="iNews.vision">
+<title>iNews</title>
 </programme>
-<programme start="20260105184500 +0000" stop="20260105194500 +0000" channel="iNews.vision">
-<title>iNews Sore</title>
-</programme>
-<programme start="20260105194500 +0000" stop="20260105201500 +0000" channel="iNews.vision">
+<programme start="20260105193000 +0000" stop="20260105201500 +0000" channel="iNews.vision">
 <title>iNews Malam</title>
 </programme>
 <programme start="20260105201500 +0000" stop="20260105210000 +0000" channel="iNews.vision">
@@ -322,10 +322,10 @@
 <programme start="20260105233000 +0000" stop="20260106000000 +0000" channel="iNews.vision">
 <title>Special Report</title>
 </programme>
-<programme start="20260106000000 +0000" stop="20260106001300 +0000" channel="iNews.vision">
+<programme start="20260106000000 +0000" stop="20260106001000 +0000" channel="iNews.vision">
 <title>iNews Terkini</title>
 </programme>
-<programme start="20260106001300 +0000" stop="20260106010000 +0000" channel="iNews.vision">
+<programme start="20260106001000 +0000" stop="20260106010000 +0000" channel="iNews.vision">
 <title>Morning Update</title>
 </programme>
 <programme start="20260106010000 +0000" stop="20260106021500 +0000" channel="iNews.vision">
@@ -346,14 +346,8 @@
 <programme start="20260106080000 +0000" stop="20260106093000 +0000" channel="iNews.vision">
 <title>Realita (L)</title>
 </programme>
-<programme start="20260106093000 +0000" stop="20260106110000 +0000" channel="iNews.vision">
+<programme start="20260106093000 +0000" stop="20260106120000 +0000" channel="iNews.vision">
 <title>Inews Sore (Live)</title>
-</programme>
-<programme start="20260106110000 +0000" stop="20260106110300 +0000" channel="iNews.vision">
-<title>iNews Terkini</title>
-</programme>
-<programme start="20260106110300 +0000" stop="20260106120000 +0000" channel="iNews.vision">
-<title>iNews Sore (L)</title>
 </programme>
 <programme start="20260105000000 +0000" stop="20260105003000 +0000" channel="SindoNews.vision">
 <title>iNews Files</title>
@@ -1496,5 +1490,11 @@
 <title>BTV</title>
 </programme>
 <programme start="20260106080000 +0000" stop="20260106083000 +0000" channel="BTV.vision">
+<title>BTV</title>
+</programme>
+<programme start="20260106083000 +0000" stop="20260106103000 +0000" channel="BTV.vision">
+<title>BTV</title>
+</programme>
+<programme start="20260106103000 +0000" stop="20260106110000 +0000" channel="BTV.vision">
 <title>BTV</title>
 </programme>

@@ -50,6 +50,10 @@
     <title>Football: Aris - Panetolikos (L)</title>
     <desc>Live: Ya</desc>
 </programme>
+<programme start="20260106223000 +0700" stop="20260106230000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Sports Classics: Football Countdowns E8</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260105203000 +0700" stop="20260105223000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: FC Internazionale Milano - Bologna</title>
     <desc>Live: Tidak</desc>
@@ -126,6 +130,10 @@
     <title>Sports Classics: Football Countdowns E3</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260106223000 +0700" stop="20260107010000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Volos - Kifisia (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
 <programme start="20260105210000 +0700" stop="20260106001500 +0700" channel="COSMOTE Sport 3 HD">
     <title>American Football: Carolina Panthers - Tampa Bay Buccaneers</title>
     <desc>Live: Tidak</desc>
@@ -181,10 +189,6 @@
 <programme start="20260106210000 +0700" stop="20260106230000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Pisa - Como (L)</title>
     <desc>Live: Ya</desc>
-</programme>
-<programme start="20260105193000 +0700" stop="20260105214000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Promitheas - Rytas Vilnius</title>
-    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260105214000 +0700" stop="20260105233000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Szolnoki Olaj - AEK</title>
@@ -244,6 +248,10 @@
 </programme>
 <programme start="20260106214000 +0700" stop="20260106222500 +0700" channel="COSMOTE Sport 4 HD">
     <title>NBA Specials</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260106222500 +0700" stop="20260106230000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>NBA Action 2025-26 E3511</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260105205500 +0700" stop="20260105224000 +0700" channel="COSMOTE Sport 5 HD">
@@ -342,6 +350,14 @@
     <title>Sports Classics: Gearing Up 2024 E12</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260106221000 +0700" stop="20260106224500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Extreme E - Highlights 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260106224500 +0700" stop="20260106234500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>MotoGP Classics</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260105203000 +0700" stop="20260105232500 +0700" channel="COSMOTE Sport 6 HD">
     <title>Volleyball: Olympiacos - Eczacibasi Dynavit Istanbul</title>
     <desc>Live: Tidak</desc>
@@ -408,6 +424,10 @@
 </programme>
 <programme start="20260106203000 +0700" stop="20260106224500 +0700" channel="COSMOTE Sport 6 HD">
     <title>Volleyball: Ziraat Bankasi SK Ankara - Tours VB</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260106224500 +0700" stop="20260106230000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Sports Classics: Worldies E27</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260105210000 +0700" stop="20260105230000 +0700" channel="COSMOTE Sport 7 HD">
