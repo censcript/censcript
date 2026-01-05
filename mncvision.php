@@ -1465,66 +1465,7 @@
 <programme start="20260105150000 +0000" stop="20260105153000 +0000" channel="beIN SPORTS 5.mncvision">
     <title>beIN Sports 5</title>
 </programme>
-<programme start="20260104170000 +0000" stop="20260104180000 +0000" channel="Bloomberg.mncvision">
-    <title>Bloomberg Wall Street Week</title>
-</programme>
-<programme start="20260104180000 +0000" stop="20260104190000 +0000" channel="Bloomberg.mncvision">
-    <title>Bloomberg Investigates</title>
-</programme>
-<programme start="20260104190000 +0000" stop="20260104193000 +0000" channel="Bloomberg.mncvision">
-    <title>The David Rubenstein Show</title>
-</programme>
-<programme start="20260104193000 +0000" stop="20260104200000 +0000" channel="Bloomberg.mncvision">
-    <title>Leaders With Francine Lacqua</title>
-</programme>
-<programme start="20260104200000 +0000" stop="20260104203000 +0000" channel="Bloomberg.mncvision">
-    <title>The Mishal Husain Show</title>
-</programme>
-<programme start="20260104203000 +0000" stop="20260104210000 +0000" channel="Bloomberg.mncvision">
-    <title>The Mishal Husain Show</title>
-</programme>
-<programme start="20260104210000 +0000" stop="20260104213000 +0000" channel="Bloomberg.mncvision">
-    <title>The Circuit: Reese Witherspoon</title>
-</programme>
-<programme start="20260104213000 +0000" stop="20260104220000 +0000" channel="Bloomberg.mncvision">
-    <title>Bloomberg Originals</title>
-</programme>
-<programme start="20260104220000 +0000" stop="20260104230000 +0000" channel="Bloomberg.mncvision">
-    <title>Bloomberg Wall Street Week</title>
-</programme>
-<programme start="20260104230000 +0000" stop="20260105010000 +0000" channel="Bloomberg.mncvision">
-    <title>Bloomberg: The Asia Trade</title>
-</programme>
-<programme start="20260105010000 +0000" stop="20260105030000 +0000" channel="Bloomberg.mncvision">
-    <title>Bloomberg: The China Show</title>
-</programme>
-<programme start="20260105030000 +0000" stop="20260105050000 +0000" channel="Bloomberg.mncvision">
-    <title>Insight With Haslinda Amin</title>
-</programme>
-<programme start="20260105050000 +0000" stop="20260105060000 +0000" channel="Bloomberg.mncvision">
-    <title>Bloomberg Horizons</title>
-</programme>
-<programme start="20260105060000 +0000" stop="20260105070000 +0000" channel="Bloomberg.mncvision">
-    <title>Bloomberg Daybreak: Europe</title>
-</programme>
-<programme start="20260105070000 +0000" stop="20260105090000 +0000" channel="Bloomberg.mncvision">
-    <title>Bloomberg: The Opening Trade</title>
-</programme>
-<programme start="20260105090000 +0000" stop="20260105100000 +0000" channel="Bloomberg.mncvision">
-    <title>The Pulse With Francine Lacqua</title>
-</programme>
-<programme start="20260105100000 +0000" stop="20260105110000 +0000" channel="Bloomberg.mncvision">
-    <title>Bloomberg Brief</title>
-</programme>
-<programme start="20260105110000 +0000" stop="20260105140000 +0000" channel="Bloomberg.mncvision">
-    <title>Bloomberg Surveillance</title>
-</programme>
-<programme start="20260105140000 +0000" stop="20260105160000 +0000" channel="Bloomberg.mncvision">
-    <title>Bloomberg Open Interest</title>
-</programme>
-<programme start="20260105160000 +0000" stop="20260105163000 +0000" channel="Bloomberg.mncvision">
-    <title>Bloomberg Tech</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260104173000 +0000" stop="20260104182700 +0000" channel="BTV.mncvision">
     <title>Berita Viral</title>
 </programme>

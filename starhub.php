@@ -3745,8 +3745,8 @@
     <programme start="20260104230000 +0000" stop="20260104231500 +0000" channel="NHK World Premium HD.starhub">
         <title>Drama Serial &quot;The Ghost Writer&#039;s Wife&quot; Ep. 66</title>
     </programme>
-    <programme start="20260104231500 +0000" stop="20260105000500 +0000" channel="NHK World Premium HD.starhub">
-        <title>asaichi</title>
+    <programme start="20260104235800 +0000" stop="20260105000500 +0000" channel="NHK World Premium HD.starhub">
+        <title>Mini Program</title>
     </programme>
     <programme start="20260105000500 +0000" stop="20260105005400 +0000" channel="NHK World Premium HD.starhub">
         <title>Resilience in Noto: A Two-Year Chronicle of an Isolated Village (R)</title>
@@ -3799,20 +3799,23 @@
     <programme start="20260105040000 +0000" stop="20260105040500 +0000" channel="NHK World Premium HD.starhub">
         <title>News</title>
     </programme>
-    <programme start="20260105040500 +0000" stop="20260105055000 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20260105040500 +0000" stop="20260105053000 +0000" channel="NHK World Premium HD.starhub">
         <title>News Around Japan</title>
     </programme>
-    <programme start="20260105055000 +0000" stop="20260105055500 +0000" channel="NHK World Premium HD.starhub">
-        <title>World Weather</title>
+    <programme start="20260105053000 +0000" stop="20260105060800 +0000" channel="NHK World Premium HD.starhub">
+        <title>News</title>
     </programme>
-    <programme start="20260105055500 +0000" stop="20260105060000 +0000" channel="NHK World Premium HD.starhub">
-        <title>World Music Album</title>
-    </programme>
-    <programme start="20260105060000 +0000" stop="20260105061000 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20260105060800 +0000" stop="20260105061800 +0000" channel="NHK World Premium HD.starhub">
         <title>News &amp; Weather</title>
     </programme>
-    <programme start="20260105061000 +0000" stop="20260105063500 +0000" channel="NHK World Premium HD.starhub">
-        <title>My Gardening</title>
+    <programme start="20260105061800 +0000" stop="20260105062000 +0000" channel="NHK World Premium HD.starhub">
+        <title>Mini Program</title>
+    </programme>
+    <programme start="20260105062000 +0000" stop="20260105063000 +0000" channel="NHK World Premium HD.starhub">
+        <title>Darwin&#039;s Amazing Animals 10min.</title>
+    </programme>
+    <programme start="20260105063000 +0000" stop="20260105063500 +0000" channel="NHK World Premium HD.starhub">
+        <title>The Great Nature 5min.</title>
     </programme>
     <programme start="20260105063500 +0000" stop="20260105064000 +0000" channel="NHK World Premium HD.starhub">
         <title>Kyoto&#039;s Hidamariya Garden Shop</title>
@@ -6608,7 +6611,7 @@
         <title>LaLiga 2025/26: Real Madrid vs Real Betis</title>
     </programme>
     <programme start="20260105154800 +0000" stop="20260105180000 +0000" channel="beIN Sports HD.starhub">
-        <title>TotalEnergies Africa Cup of Nations, Morocco 2025: Rd of 16 (Live)</title>
+        <title>TotalEnergies Africa Cup of Nations, Morocco 2025: Egypt vs Benin - Rd of 16 (Li</title>
     </programme>
     <programme start="20260104160000 +0000" stop="20260104161000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>NHK Newsline</title>
