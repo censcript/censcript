@@ -3037,7 +3037,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>EFL: Highlights, 25. Spieltag</title>
 </programme>
 <programme start="20260105223000 +0000" stop="20260105230000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>EFL: Highlights, 25. Spieltag</title>
+    <title>PL: PL Stories (Oliver Glasner)</title>
 </programme>
 <programme start="20260104233000 +0000" stop="20260105063000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live United Cup: Konferenz, 4. Tag in Perth und Sydney (AUS)</title>
@@ -3100,7 +3100,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>EFL: Highlights, 25. Spieltag</title>
 </programme>
 <programme start="20260105223000 +0000" stop="20260105230000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>EFL: Highlights, 25. Spieltag</title>
+    <title>PL: PL Stories (Oliver Glasner)</title>
 </programme>
 <programme start="20260104230000 +0000" stop="20260104233000 +0000" channel="Sky Sport UHD.skyde">
     <title>Golf: Greatest Holes (2)</title>

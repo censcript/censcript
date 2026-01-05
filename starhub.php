@@ -2428,10 +2428,10 @@
     <programme start="20260105141500 +0000" stop="20260105161500 +0000" channel="The Filipino Channel HD.starhub">
         <title>It&#039;s Showtime</title>
     </programme>
-    <programme start="20260104145000 +0000" stop="20260104165000 +0000" channel="Hub Premier 2 HD.starhub">
+    <programme start="20260104150500 +0000" stop="20260104171500 +0000" channel="Hub Premier 2 HD.starhub">
         <title>Premier League 2025/26</title>
     </programme>
-    <programme start="20260104165000 +0000" stop="20260104172000 +0000" channel="Hub Premier 2 HD.starhub">
+    <programme start="20260104171500 +0000" stop="20260104172000 +0000" channel="Hub Premier 2 HD.starhub">
         <title>PL Stories 2025/26</title>
     </programme>
     <programme start="20260104172000 +0000" stop="20260104193000 +0000" channel="Hub Premier 2 HD.starhub">
@@ -6599,7 +6599,7 @@
         <title>LFCTV 2025/26: Fulham vs Liverpool</title>
     </programme>
     <programme start="20260105130000 +0000" stop="20260105133000 +0000" channel="beIN Sports HD.starhub">
-        <title>LFC Trending 2025/26</title>
+        <title>Review Show: Wolves</title>
     </programme>
     <programme start="20260105133000 +0000" stop="20260105140000 +0000" channel="beIN Sports HD.starhub">
         <title>LFCTV Highlights 2025/26 Liverpool vs Leeds</title>
@@ -8071,7 +8071,10 @@
     <programme start="20260105153000 +0000" stop="20260105163000 +0000" channel="ADITHYA TV.starhub">
         <title>Vedi Sirippu</title>
     </programme>
-    <programme start="20260104160000 +0000" stop="20260104170000 +0000" channel="Hub E City HD.starhub">
+    <programme start="20260104143500 +0000" stop="20260104160500 +0000" channel="Hub E City HD.starhub">
+        <title>The Shopaholics</title>
+    </programme>
+    <programme start="20260104160500 +0000" stop="20260104170000 +0000" channel="Hub E City HD.starhub">
         <title>The Ordinary Road</title>
     </programme>
     <programme start="20260104170000 +0000" stop="20260104180000 +0000" channel="Hub E City HD.starhub">
@@ -8866,7 +8869,10 @@
     <programme start="20260105145000 +0000" stop="20260105164000 +0000" channel="Discovery HD.starhub">
         <title>Pedal To The Gold Metal</title>
     </programme>
-    <programme start="20260104160000 +0000" stop="20260104170000 +0000" channel="Hub E City HD.starhub">
+    <programme start="20260104143500 +0000" stop="20260104160500 +0000" channel="Hub E City HD.starhub">
+        <title>The Shopaholics</title>
+    </programme>
+    <programme start="20260104160500 +0000" stop="20260104170000 +0000" channel="Hub E City HD.starhub">
         <title>The Ordinary Road</title>
     </programme>
     <programme start="20260104170000 +0000" stop="20260104180000 +0000" channel="Hub E City HD.starhub">
@@ -8926,7 +8932,10 @@
     <programme start="20260105150000 +0000" stop="20260105160000 +0000" channel="Hub E City HD.starhub">
         <title>The Ingenious One</title>
     </programme>
-    <programme start="20260104160000 +0000" stop="20260104170000 +0000" channel="TestChannel1.starhub">
+    <programme start="20260104143500 +0000" stop="20260104160500 +0000" channel="TestChannel1.starhub">
+        <title>The Shopaholics</title>
+    </programme>
+    <programme start="20260104160500 +0000" stop="20260104170000 +0000" channel="TestChannel1.starhub">
         <title>The Ordinary Road</title>
     </programme>
     <programme start="20260104170000 +0000" stop="20260104180000 +0000" channel="TestChannel1.starhub">
