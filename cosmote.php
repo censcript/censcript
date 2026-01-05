@@ -54,10 +54,6 @@
     <title>Greek Cup Time</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260106035000 +0700" stop="20260106055000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Juventus Football Club - Lecce</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260106055000 +0700" stop="20260106080000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: AEK - OFI</title>
     <desc>Live: Tidak</desc>
@@ -254,8 +250,8 @@
     <title>Basketball: Detroit Pistons - New York Knicks</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260106044000 +0700" stop="20260106053500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: MotoGP 2025</title>
+<programme start="20260107063000 +0700" stop="20260107080000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>NBA Specials: Basketball Stories</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260106053500 +0700" stop="20260106070000 +0700" channel="COSMOTE Sport 5 HD">
@@ -350,6 +346,10 @@
     <title>Basketball: Elan Chalon - Promitheas</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260107061000 +0700" stop="20260107081500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: Extreme E 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260106050000 +0700" stop="20260106072000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Volleyball: Ziraat Bankasi SK Ankara - Tours VB</title>
     <desc>Live: Tidak</desc>
@@ -430,10 +430,6 @@
     <title>Volleyball: Tours VB - Trentino Itas</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260106050000 +0700" stop="20260106060000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260106060000 +0700" stop="20260106090000 +0700" channel="COSMOTE Sport 7 HD">
     <title>NBA TV 2024-25</title>
     <desc>Live: Tidak</desc>
@@ -480,6 +476,10 @@
 </programme>
 <programme start="20260107050000 +0700" stop="20260107060000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260107060000 +0700" stop="20260107090000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>NBA TV 2024-25</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260106050000 +0700" stop="20260106070000 +0700" channel="COSMOTE Sport 8 HD">
