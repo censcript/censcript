@@ -839,7 +839,7 @@
         <title>No programme available now. Next broadcast on 7th January, Wednesday 7pm. The Wonder Shop Home Shopping</title>
     </programme>
     <programme start="20260105160000 +0000" stop="20260106160000 +0000" channel="Live 5.mewatch">
-        <title>No Programme available now. Next Broadcast on 28th January, Wednesday 7.30pm. ASEAN Shopee Cup 2025/2026</title>
+        <title>No Programme available now. Next Broadcast on 14th January, Wednesday 3.52am. Carabao Cup 2025/26</title>
     </programme>
     <programme start="20260106160000 +0000" stop="20260107160000 +0000" channel="Live 5.mewatch">
         <title>No Programme available now. Next Broadcast on 28th January, Wednesday 7.30pm. ASEAN Shopee Cup 2025/2026</title>
