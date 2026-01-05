@@ -114,6 +114,10 @@
     <title>Football: Olympiacos - Kifisia</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260106142000 +0700" stop="20260106162000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Como - Udinese</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260105130000 +0700" stop="20260105150000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Birmingham City - Coventry City</title>
     <desc>Live: Tidak</desc>
@@ -226,10 +230,6 @@
     <title>Basketball: Virtus Bologna - Trapani</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260105120000 +0700" stop="20260105134000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: MotoGP 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260105134000 +0700" stop="20260105151000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Motorsports: MotoGP 2025</title>
     <desc>Live: Tidak</desc>
@@ -316,6 +316,18 @@
 </programme>
 <programme start="20260106122500 +0700" stop="20260106141000 +0700" channel="COSMOTE Sport 5 HD">
     <title>DTM 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260106141000 +0700" stop="20260106142500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Sports Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260106142500 +0700" stop="20260106145500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Extreme E - Highlights 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260106145500 +0700" stop="20260106161500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>MotoGP Classics</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260105130000 +0700" stop="20260105152000 +0700" channel="COSMOTE Sport 6 HD">
