@@ -54,10 +54,6 @@
     <title>Greek Cup Time (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260106015000 +0700" stop="20260106035000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Atalanta - AS Roma</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260106035000 +0700" stop="20260106055000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Juventus Football Club - Lecce</title>
     <desc>Live: Tidak</desc>
@@ -202,6 +198,10 @@
     <title>Football: Sassuolo - Juventus Football Club (L)</title>
     <desc>Live: Ya</desc>
 </programme>
+<programme start="20260107044500 +0700" stop="20260107070000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: PAOK - Atromitos</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260106022500 +0700" stop="20260106043500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Cleveland Cavaliers - Detroit Pistons</title>
     <desc>Live: Tidak</desc>
@@ -261,6 +261,10 @@
 <programme start="20260107020000 +0700" stop="20260107041000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: KK Spartak - Karditsa (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20260107041000 +0700" stop="20260107063000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Detroit Pistons - New York Knicks</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260106020500 +0700" stop="20260106041000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Motorsports: Extreme E 2025</title>
@@ -362,8 +366,8 @@
     <title>Basketball: Elan Chalon - Promitheas (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260106020000 +0700" stop="20260106033000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: Yibing Wu - Fabian Marozsan</title>
+<programme start="20260107040000 +0700" stop="20260107061000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Basketball: Elan Chalon - Promitheas</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260106033000 +0700" stop="20260106043000 +0700" channel="COSMOTE Sport 6 HD">
@@ -441,6 +445,10 @@
 <programme start="20260107020000 +0700" stop="20260107043000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Volleyball: Tours VB - Trentino Itas (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20260107043000 +0700" stop="20260107050000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Watersports: Sailing to the Games 2025 E6</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260106030000 +0700" stop="20260106050000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
