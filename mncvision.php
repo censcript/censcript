@@ -418,29 +418,26 @@
 <programme start="20260105010000 +0000" stop="20260105030000 +0000" channel="ANTV.mncvision">
     <title>ANTV</title>
 </programme>
-<programme start="20260105030000 +0000" stop="20260105063000 +0000" channel="ANTV.mncvision">
+<programme start="20260105030000 +0000" stop="20260105060000 +0000" channel="ANTV.mncvision">
     <title>ANTV</title>
 </programme>
-<programme start="20260105063000 +0000" stop="20260105080000 +0000" channel="ANTV.mncvision">
-    <title>ANTV</title>
+<programme start="20260105060000 +0000" stop="20260105080000 +0000" channel="ANTV.mncvision">
+    <title>Jhanak</title>
 </programme>
 <programme start="20260105080000 +0000" stop="20260105093000 +0000" channel="ANTV.mncvision">
-    <title>ANTV</title>
+    <title>Shani</title>
 </programme>
-<programme start="20260105093000 +0000" stop="20260105103000 +0000" channel="ANTV.mncvision">
-    <title>ANTV</title>
+<programme start="20260105093000 +0000" stop="20260105113000 +0000" channel="ANTV.mncvision">
+    <title>Si Rawing</title>
 </programme>
-<programme start="20260105103000 +0000" stop="20260105123000 +0000" channel="ANTV.mncvision">
-    <title>ANTV</title>
+<programme start="20260105113000 +0000" stop="20260105130000 +0000" channel="ANTV.mncvision">
+    <title>Senandung Cinta Lilis</title>
 </programme>
-<programme start="20260105123000 +0000" stop="20260105140000 +0000" channel="ANTV.mncvision">
-    <title>ANTV</title>
+<programme start="20260105130000 +0000" stop="20260105150000 +0000" channel="ANTV.mncvision">
+    <title>Kelabang Seribu</title>
 </programme>
-<programme start="20260105140000 +0000" stop="20260105153000 +0000" channel="ANTV.mncvision">
-    <title>ANTV</title>
-</programme>
-<programme start="20260105153000 +0000" stop="20260105160000 +0000" channel="ANTV.mncvision">
-    <title>ANTV</title>
+<programme start="20260105150000 +0000" stop="20260105153000 +0000" channel="ANTV.mncvision">
+    <title>Mana Tahan</title>
 </programme>
 <programme start="20260104170000 +0000" stop="20260104173000 +0000" channel="Arirang.mncvision">
     <title>SmartBiz Accelerators</title>
