@@ -4832,7 +4832,7 @@
         <title>I Want To Stop Living The Slow Life, So I Have Decided To Start In The Dragon Knights</title>
     </programme>
     <programme start="20260104210000 +0000" stop="20260104213000 +0000" channel="Animax HD.starhub">
-        <title>I,The Dragon Consort,Am Now Hated By The Dragon And I Want To Find A Way To Be Friendly Again</title>
+        <title>I, The Dragon Consort, Am Now Hated By The Dragon And I Want To Find A Way To Be Friendly Again</title>
     </programme>
     <programme start="20260104213000 +0000" stop="20260104220000 +0000" channel="Animax HD.starhub">
         <title>My Fiancé And I Nearly Ripped Each Other To Shreds And It May Still End Up Being A Bloodbath</title>
