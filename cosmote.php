@@ -54,14 +54,6 @@
     <title>Football: PAOK - Atromitos (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260106005000 +0700" stop="20260106012000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Sports Classics: Football Countdowns E2</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260106012000 +0700" stop="20260106015000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Sports Classics: Football Countdowns E3</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260106015000 +0700" stop="20260106035000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Atalanta - AS Roma</title>
     <desc>Live: Tidak</desc>
@@ -130,6 +122,14 @@
     <title>Sports Classics: Football Countdowns E5</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260107020000 +0700" stop="20260107023000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Sports Classics: Football Countdowns E6</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260107023000 +0700" stop="20260107030000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Sports Classics: Football&#039;s Greatest IV E7</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260106001500 +0700" stop="20260106021500 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: APOEL - EN Paralimni</title>
     <desc>Live: Tidak</desc>
@@ -194,6 +194,14 @@
     <title>Football: Lecce - AS Roma (L)</title>
     <desc>Live: Ya</desc>
 </programme>
+<programme start="20260107020000 +0700" stop="20260107024500 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Copa Libertadores 2025 - Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260107024500 +0700" stop="20260107044500 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Sassuolo - Juventus Football Club (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
 <programme start="20260106002000 +0700" stop="20260106022500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Real Madrid - Barcelona</title>
     <desc>Live: Tidak</desc>
@@ -253,6 +261,10 @@
 <programme start="20260107004500 +0700" stop="20260107020000 +0700" channel="COSMOTE Sport 4 HD">
     <title>NBA Specials: Basketball Stories</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260107020000 +0700" stop="20260107041000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: KK Spartak - Karditsa (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260106010000 +0700" stop="20260106020500 +0700" channel="COSMOTE Sport 5 HD">
     <title>Motorsports: Extreme E 2025</title>
@@ -354,13 +366,9 @@
     <title>2025 Extreme H</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260105232500 +0700" stop="20260106010500 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Volleyball: Olympiacos - Apeldoorn</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260106010500 +0700" stop="20260106020000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Sports Classics: 2025 Outdoor Specials</title>
-    <desc>Live: Tidak</desc>
+<programme start="20260107020000 +0700" stop="20260107040000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Basketball: Elan Chalon - Promitheas (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260106020000 +0700" stop="20260106033000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Yibing Wu - Fabian Marozsan</title>
@@ -437,6 +445,10 @@
 <programme start="20260106233000 +0700" stop="20260107020000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Juncheng Shang - Francisco Comesana</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260107020000 +0700" stop="20260107043000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Volleyball: Tours VB - Trentino Itas (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260106010000 +0700" stop="20260106030000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
