@@ -1310,7 +1310,7 @@
     <title>UEL 2025/26: YOB Vs LIL</title>
 </programme>
 <programme start="20260105064000 +0000" stop="20260105070000 +0000" channel="beIN Sports 3.mncvision">
-    <title>MUTV: One Love: Trailblazers</title>
+    <title>MUTV One Love: Trailblazers</title>
 </programme>
 <programme start="20260105070000 +0000" stop="20260105093000 +0000" channel="beIN Sports 3.mncvision">
     <title>Ultimate Pool 2025: Pro Cup</title>
@@ -1367,7 +1367,7 @@
     <title>UEL 2025/26: YOB Vs LIL</title>
 </programme>
 <programme start="20260105064000 +0000" stop="20260105070000 +0000" channel="beIN Sports 3 HD.mncvision">
-    <title>MUTV: One Love: Trailblazers</title>
+    <title>MUTV One Love: Trailblazers</title>
 </programme>
 <programme start="20260105070000 +0000" stop="20260105093000 +0000" channel="beIN Sports 3 HD.mncvision">
     <title>Ultimate Pool 2025: Pro Cup</title>
@@ -4046,25 +4046,25 @@
     <title>GTV</title>
 </programme>
 <programme start="20260105073000 +0000" stop="20260105093000 +0000" channel="GTV.mncvision">
-    <title>GTV</title>
+    <title>SpongeBob SquarePants</title>
 </programme>
 <programme start="20260105093000 +0000" stop="20260105110000 +0000" channel="GTV.mncvision">
-    <title>GTV</title>
+    <title>SpongeBob SquarePants</title>
 </programme>
 <programme start="20260105110000 +0000" stop="20260105123000 +0000" channel="GTV.mncvision">
-    <title>GTV</title>
+    <title>New Family 100</title>
 </programme>
 <programme start="20260105123000 +0000" stop="20260105140000 +0000" channel="GTV.mncvision">
-    <title>GTV</title>
+    <title>River God Water Strange Story</title>
 </programme>
 <programme start="20260105140000 +0000" stop="20260105153000 +0000" channel="GTV.mncvision">
-    <title>GTV</title>
+    <title>Alien Invasion</title>
 </programme>
 <programme start="20260105153000 +0000" stop="20260105163000 +0000" channel="GTV.mncvision">
-    <title>GTV</title>
+    <title>Untold Story</title>
 </programme>
 <programme start="20260105163000 +0000" stop="20260104170000 +0000" channel="GTV.mncvision">
-    <title>GTV</title>
+    <title>Jelajah Mitos</title>
 </programme>
 <programme start="20260104173000 +0000" stop="20260104180000 +0000" channel="GTV HD.mncvision">
     <title>GTV</title>
@@ -4097,25 +4097,25 @@
     <title>GTV</title>
 </programme>
 <programme start="20260105073000 +0000" stop="20260105093000 +0000" channel="GTV HD.mncvision">
-    <title>GTV</title>
+    <title>SpongeBob SquarePants</title>
 </programme>
 <programme start="20260105093000 +0000" stop="20260105110000 +0000" channel="GTV HD.mncvision">
-    <title>GTV</title>
+    <title>SpongeBob SquarePants</title>
 </programme>
 <programme start="20260105110000 +0000" stop="20260105123000 +0000" channel="GTV HD.mncvision">
-    <title>GTV</title>
+    <title>New Family 100</title>
 </programme>
 <programme start="20260105123000 +0000" stop="20260105140000 +0000" channel="GTV HD.mncvision">
-    <title>GTV</title>
+    <title>River God Water Strange Story</title>
 </programme>
 <programme start="20260105140000 +0000" stop="20260105153000 +0000" channel="GTV HD.mncvision">
-    <title>GTV</title>
+    <title>Alien Invasion</title>
 </programme>
 <programme start="20260105153000 +0000" stop="20260105163000 +0000" channel="GTV HD.mncvision">
-    <title>GTV</title>
+    <title>Untold Story</title>
 </programme>
 <programme start="20260105163000 +0000" stop="20260104170000 +0000" channel="GTV HD.mncvision">
-    <title>GTV</title>
+    <title>Jelajah Mitos</title>
 </programme>
 <programme start="20260104210000 +0000" stop="20260104213000 +0000" channel="Hanacaraka TV.mncvision">
     <title>Jan Enak Tenan</title>

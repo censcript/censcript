@@ -1,7 +1,3 @@
-<programme start="20260105150000 +0700" stop="20260105160000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>UEL &amp; UECL Magazine 2025-26 E8</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260105160000 +0700" stop="20260105180000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Union Saint-Gilloise - Olympique de Marseille</title>
     <desc>Live: Tidak</desc>
@@ -112,6 +108,10 @@
 </programme>
 <programme start="20260106142000 +0700" stop="20260106162000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Como - Udinese</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260106162000 +0700" stop="20260106182000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Cagliari - AC Milan</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260105150000 +0700" stop="20260105170000 +0700" channel="COSMOTE Sport 3 HD">
@@ -226,18 +226,6 @@
     <title>Basketball: Real Madrid - Barcelona</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260105134000 +0700" stop="20260105151000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: MotoGP 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260105151000 +0700" stop="20260105152500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Sports Highlights</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260105152500 +0700" stop="20260105155500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Extreme E - Highlights 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260105155500 +0700" stop="20260105173000 +0700" channel="COSMOTE Sport 5 HD">
     <title>WRC 2025</title>
     <desc>Live: Tidak</desc>
@@ -326,12 +314,8 @@
     <title>MotoGP Classics</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260105130000 +0700" stop="20260105152000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>2025 Premier Padel Tour Finals</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260105152000 +0700" stop="20260105155500 +0700" channel="COSMOTE Sport 6 HD">
-    <title>HYROX - The World of Fitness Racing E4</title>
+<programme start="20260106161500 +0700" stop="20260106171500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>MotoGP Classics</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260105155500 +0700" stop="20260105163000 +0700" channel="COSMOTE Sport 6 HD">
