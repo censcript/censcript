@@ -2841,16 +2841,16 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260106010000 +0000" stop="20260106050000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf Ladies ET: ISPS Handa Women&#039;s Scottish Open, 4. Tag in Troon (Schottland)</title>
 </programme>
-<programme start="20260106050000 +0000" stop="20260106080000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260106050000 +0000" stop="20260106090000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf Ladies ET: PIF Championship, 3. Tag in Hertfordshire (England)</title>
 </programme>
-<programme start="20260106080000 +0000" stop="20260106093000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260106090000 +0000" stop="20260106102000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf Ladies ET: Aramco Houston Championship, 3. Tag in Houston, TX (USA)</title>
 </programme>
-<programme start="20260106093000 +0000" stop="20260106123000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260106102000 +0000" stop="20260106132000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf Ladies ET: VP Bank Swiss Ladies Open, 3. Tag in Risch-Rotkreutz (Schweiz)</title>
 </programme>
-<programme start="20260106123000 +0000" stop="20260106143000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260106132000 +0000" stop="20260106143000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>TGL: New York Golf Club - Atlanta Drive GC, 1. Spieltag</title>
 </programme>
 <programme start="20260106143000 +0000" stop="20260106163000 +0000" channel="Sky Sport Golf HD.skyde">
@@ -3162,10 +3162,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260106000000 +0000" stop="20260106023000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: New York Knicks @ Detroit Pistons</title>
 </programme>
-<programme start="20260106023000 +0000" stop="20260106040000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260106023000 +0000" stop="20260106041500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Denver Nuggets @ Philadelphia 76ers</title>
 </programme>
-<programme start="20260106040000 +0000" stop="20260106053000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260106041500 +0000" stop="20260106053000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Golden State Warriors @ LA Clippers</title>
 </programme>
 <programme start="20260106053000 +0000" stop="20260106060000 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3243,7 +3243,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260106053000 +0000" stop="20260106090000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime - Post Show</title>
 </programme>
-<programme start="20260105231000 +0000" stop="20260106013000 +0000" channel="Sky Sport 2 HD.skyde">
+<programme start="20260105230000 +0000" stop="20260106013000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Es folgt: Basketball NBA</title>
 </programme>
 <programme start="20260106013000 +0000" stop="20260106090000 +0000" channel="Sky Sport 2 HD.skyde">
@@ -3501,7 +3501,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260106221500 +0000" stop="20260106230000 +0000" channel="Universal TV HD.skyde">
     <title>Bones - Die Knochenjägerin</title>
 </programme>
-<programme start="20260105232000 +0000" stop="20260105234500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260105230000 +0000" stop="20260105232500 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>The Big Bang Theory</title>
+</programme>
+<programme start="20260105232500 +0000" stop="20260105234500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Big Bang Theory</title>
 </programme>
 <programme start="20260105234500 +0000" stop="20260106000500 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3549,10 +3552,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260106042500 +0000" stop="20260106044500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Die Nanny</title>
 </programme>
-<programme start="20260106044500 +0000" stop="20260106051000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260106044500 +0000" stop="20260106051500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Die Nanny</title>
 </programme>
-<programme start="20260106051000 +0000" stop="20260106054000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260106051500 +0000" stop="20260106054000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Die Nanny</title>
 </programme>
 <programme start="20260106054000 +0000" stop="20260106060500 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3561,19 +3564,19 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260106060500 +0000" stop="20260106063000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Friends</title>
 </programme>
-<programme start="20260106063000 +0000" stop="20260106070000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260106063000 +0000" stop="20260106065500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Friends</title>
 </programme>
-<programme start="20260106070000 +0000" stop="20260106072500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260106065500 +0000" stop="20260106072500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Friends</title>
 </programme>
-<programme start="20260106072500 +0000" stop="20260106075000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260106072500 +0000" stop="20260106074500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Die Nanny</title>
 </programme>
-<programme start="20260106075000 +0000" stop="20260106081500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260106074500 +0000" stop="20260106081000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Die Nanny</title>
 </programme>
-<programme start="20260106081500 +0000" stop="20260106084000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260106081000 +0000" stop="20260106084000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Die Nanny</title>
 </programme>
 <programme start="20260106084000 +0000" stop="20260106090500 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3675,11 +3678,14 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260106214000 +0000" stop="20260106220500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>American Dad</title>
 </programme>
-<programme start="20260106220500 +0000" stop="20260106223500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260106220500 +0000" stop="20260106223000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Harley Quinn</title>
 </programme>
-<programme start="20260106223500 +0000" stop="20260106230000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260106223000 +0000" stop="20260106225500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Harley Quinn</title>
+</programme>
+<programme start="20260106225500 +0000" stop="20260106232000 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>The Big Bang Theory</title>
 </programme>
 <programme start="20260106005000 +0000" stop="20260106024500 +0000" channel="Warner TV Film.skyde">
     <title>Gone Baby Gone - Kein Kinderspiel</title>
