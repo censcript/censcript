@@ -94,10 +94,10 @@
   <programme start="20260108223700 +0000" stop="20260109001500 +0000" channel="Jednotka.webtv.sk">
     <title lang="id">Julie Lescautová II</title>
   </programme>
-  <programme start="20260107210000 +0000" stop="20260107230900 +0000" channel="Dvojka.webtv.sk">
+  <programme start="20260107205500 +0000" stop="20260107230800 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Diamanty</title>
   </programme>
-  <programme start="20260107230900 +0000" stop="20260107231000 +0000" channel="Dvojka.webtv.sk">
+  <programme start="20260107230800 +0000" stop="20260107231000 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Hymna SR</title>
   </programme>
   <programme start="20260107231000 +0000" stop="20260108000000 +0000" channel="Dvojka.webtv.sk">

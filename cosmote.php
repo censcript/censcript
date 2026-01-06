@@ -174,6 +174,10 @@
     <title>Football: Gil Vicente - Sporting CP</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260108064500 +0700" stop="20260108084500 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: APOEL - EN Paralimni</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260107041000 +0700" stop="20260107063000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Detroit Pistons - New York Knicks</title>
     <desc>Live: Tidak</desc>
@@ -326,10 +330,6 @@
     <title>2025 Extreme H</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260107050000 +0700" stop="20260107053000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Sports Classics: The Outdoor Sports Show 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260107053000 +0700" stop="20260107080000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Volleyball: Tours VB - Trentino Itas</title>
     <desc>Live: Tidak</desc>
@@ -388,10 +388,6 @@
 </programme>
 <programme start="20260108053000 +0700" stop="20260108080000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Volleyball: Panathinaikos - Poitiers</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260107050000 +0700" stop="20260107060000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260107060000 +0700" stop="20260107090000 +0700" channel="COSMOTE Sport 7 HD">
