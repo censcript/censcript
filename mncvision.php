@@ -8017,10 +8017,10 @@
 <programme start="20260106133000 +0000" stop="20260106153000 +0000" channel="Soccer Channel.mncvision">
     <title>SEA Games Thailand: LAO Vs VIE</title>
 </programme>
-<programme start="20260106153000 +0000" stop="20260106155500 +0000" channel="Soccer Channel.mncvision">
+<programme start="20260106153000 +0000" stop="20260106154500 +0000" channel="Soccer Channel.mncvision">
     <title>World Classic League</title>
 </programme>
-<programme start="20260106155500 +0000" stop="20260106162500 +0000" channel="Soccer Channel.mncvision">
+<programme start="20260106154500 +0000" stop="20260106161500 +0000" channel="Soccer Channel.mncvision">
     <title>AFC Asian Cup: KSA Vs KGZ (L)</title>
 </programme>
 <programme start="20260105183000 +0000" stop="20260105203000 +0000" channel="Soccer Channel HD.mncvision">
@@ -8068,10 +8068,10 @@
 <programme start="20260106133000 +0000" stop="20260106153000 +0000" channel="Soccer Channel HD.mncvision">
     <title>SEA Games Thailand: LAO Vs VIE</title>
 </programme>
-<programme start="20260106153000 +0000" stop="20260106155500 +0000" channel="Soccer Channel HD.mncvision">
+<programme start="20260106153000 +0000" stop="20260106154500 +0000" channel="Soccer Channel HD.mncvision">
     <title>World Classic League</title>
 </programme>
-<programme start="20260106155500 +0000" stop="20260106162500 +0000" channel="Soccer Channel HD.mncvision">
+<programme start="20260106154500 +0000" stop="20260106161500 +0000" channel="Soccer Channel HD.mncvision">
     <title>AFC Asian Cup: KSA Vs KGZ (L)</title>
 </programme>
 <programme start="20260105173000 +0000" stop="20260105200000 +0000" channel="Sportstars.mncvision">
