@@ -434,7 +434,7 @@
 <title>SINDO Malam</title>
 </programme>
 <programme start="20260106230000 +0000" stop="20260107000000 +0000" channel="SindoNews.vision">
-<title>SINDO Files</title>
+<title>Lintas iNews Pagi</title>
 </programme>
 <programme start="20260107000000 +0000" stop="20260107003000 +0000" channel="SindoNews.vision">
 <title>iNews Today</title>
@@ -574,6 +574,9 @@
 <programme start="20260106050000 +0000" stop="20260106054500 +0000" channel="Trans 7.vision">
 <title>Bocah Petualang</title>
 </programme>
+<programme start="20260106054500 +0000" stop="20260106063000 +0000" channel="Trans 7.vision">
+<title>Indonesiaku</title>
+</programme>
 <programme start="20260106063000 +0000" stop="20260106071500 +0000" channel="Trans 7.vision">
 <title>Ujung-Ujungnya Damkar</title>
 </programme>
@@ -694,8 +697,17 @@
 <programme start="20260106080000 +0000" stop="20260106093000 +0000" channel="ANTV.vision">
 <title>Shani</title>
 </programme>
+<programme start="20260106093000 +0000" stop="20260106113000 +0000" channel="ANTV.vision">
+<title>Jaka Tuak</title>
+</programme>
 <programme start="20260106113000 +0000" stop="20260106130000 +0000" channel="ANTV.vision">
 <title>Senandung Cinta Lilis</title>
+</programme>
+<programme start="20260106130000 +0000" stop="20260106150000 +0000" channel="ANTV.vision">
+<title>Golok Setan</title>
+</programme>
+<programme start="20260106150000 +0000" stop="20260106163000 +0000" channel="ANTV.vision">
+<title>Makin Lama Makin Asik</title>
 </programme>
 <programme start="20260106163000 +0000" stop="20260106183000 +0000" channel="ANTV.vision">
 <title>Serie A Liga Italia</title>
@@ -1485,16 +1497,4 @@
 </programme>
 <programme start="20260107110000 +0000" stop="20260107130000 +0000" channel="BTV.vision">
 <title>Berita Satu Utama</title>
-</programme>
-<programme start="20260105230000 +0000" stop="20260106010000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260106010000 +0000" stop="20260106030000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260106030000 +0000" stop="20260106050000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260106050000 +0000" stop="20260106070000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
 </programme>
