@@ -434,7 +434,7 @@
 <title>SINDO Malam</title>
 </programme>
 <programme start="20260106230000 +0000" stop="20260107000000 +0000" channel="SindoNews.vision">
-<title>Lintas iNews Pagi</title>
+<title>SINDO Files</title>
 </programme>
 <programme start="20260107000000 +0000" stop="20260107003000 +0000" channel="SindoNews.vision">
 <title>iNews Today</title>
@@ -573,9 +573,6 @@
 </programme>
 <programme start="20260106050000 +0000" stop="20260106054500 +0000" channel="Trans 7.vision">
 <title>Bocah Petualang</title>
-</programme>
-<programme start="20260106054500 +0000" stop="20260106063000 +0000" channel="Trans 7.vision">
-<title>Indonesiaku</title>
 </programme>
 <programme start="20260106063000 +0000" stop="20260106071500 +0000" channel="Trans 7.vision">
 <title>Ujung-Ujungnya Damkar</title>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20260107110000 +0000" stop="20260107130000 +0000" channel="BTV.vision">
 <title>Berita Satu Utama</title>
+</programme>
+<programme start="20260105230000 +0000" stop="20260106010000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
 </programme>
