@@ -2595,14 +2595,17 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260105232000 +0000" stop="20260105233000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Golf: Gofus Österreich</title>
 </programme>
-<programme start="20260105233000 +0000" stop="20260106100000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260105233000 +0000" stop="20260106080000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Live United Cup: Konferenz, 5. Tag in Perth und Sydney (AUS)</title>
 </programme>
-<programme start="20260106100000 +0000" stop="20260106103000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260106080000 +0000" stop="20260106083000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>RIESENrad: Sportgrößen im Waggon 28 (Gast: Dominique Heinrich)</title>
 </programme>
-<programme start="20260106103000 +0000" stop="20260106110000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260106083000 +0000" stop="20260106090000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Junioren: Unser Moment - ein halbes Sommermärchen</title>
+</programme>
+<programme start="20260106090000 +0000" stop="20260106110000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>UEFA CL: FC Kopenhagen - Borussia Dortmund, Ligaphase, 3. Spieltag, Dienstag</title>
 </programme>
 <programme start="20260106110000 +0000" stop="20260106130000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA CL: FC Liverpool - Real Madrid, Ligaphase, 4. Spieltag, Dienstag</title>
@@ -3111,11 +3114,23 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260106223000 +0000" stop="20260106230000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: PL Stories (Edwin van der Sar)</title>
 </programme>
-<programme start="20260105233000 +0000" stop="20260106114500 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260105233000 +0000" stop="20260106080000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live United Cup: Konferenz, 5. Tag in Perth und Sydney (AUS)</title>
 </programme>
-<programme start="20260106114500 +0000" stop="20260106134500 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260106080000 +0000" stop="20260106093000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>Next Gen ATP Finals: L. Tien (USA) - A. Blockx (BEL), Finale in Jeddah (SAU)</title>
+</programme>
+<programme start="20260106093000 +0000" stop="20260106103000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>Next Gen ATP Finals: Review Jeddah 2025</title>
+</programme>
+<programme start="20260106103000 +0000" stop="20260106105000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>Next Gen ATP Finals: Journey to Jeddah - Episode 3 (Story of the 2025 Finals)</title>
+</programme>
+<programme start="20260106105000 +0000" stop="20260106131500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA Finals: A. Sabalenka - E. Rybakina (KAZ), Finale 2025 in Riyadh (SAU)</title>
+</programme>
+<programme start="20260106131500 +0000" stop="20260106134500 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA Finals: Review Riyadh 2025</title>
 </programme>
 <programme start="20260106134500 +0000" stop="20260106144500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP Finals: Review Turin 2025</title>
@@ -3158,9 +3173,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 </programme>
 <programme start="20260106060500 +0000" stop="20260106120000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live United Cup: Konferenz, 5. Tag in Perth und Sydney (AUS)</title>
-</programme>
-<programme start="20260106120000 +0000" stop="20260106123000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>PL: Netbusters, 20. Spieltag</title>
 </programme>
 <programme start="20260106123000 +0000" stop="20260106150000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>NBA: Denver Nuggets @ Philadelphia 76ers</title>
@@ -3224,9 +3236,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 </programme>
 <programme start="20260106054000 +0000" stop="20260106061500 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime - Post Show</title>
-</programme>
-<programme start="20260106220000 +0000" stop="20260107003000 +0000" channel="Sky Sport 1 HD.skyde">
-    <title>Es folgt: ab 01:30 LIVE Basketball NBA</title>
 </programme>
 <programme start="20260105231000 +0000" stop="20260106013000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Es folgt: Basketball NBA</title>
@@ -3700,42 +3709,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Lethal Weapon - Zwei stahlharte Profis</title>
 </programme>
 <programme start="20260106210500 +0000" stop="20260106230000 +0000" channel="Warner TV Film.skyde">
-    <title>Brennpunkt L.A. - Lethal Weapon 2</title>
-</programme>
-<programme start="20260106005000 +0000" stop="20260106024000 +0000" channel="Warner TV Film HD.skyde">
-    <title>Gone Baby Gone - Kein Kinderspiel</title>
-</programme>
-<programme start="20260106024000 +0000" stop="20260106030500 +0000" channel="Warner TV Film HD.skyde">
-    <title>Hinter den Kulissen - Carrie Fisher</title>
-</programme>
-<programme start="20260106030500 +0000" stop="20260106050000 +0000" channel="Warner TV Film HD.skyde">
-    <title>G.I. Joe: Geheimauftrag Cobra</title>
-</programme>
-<programme start="20260106050000 +0000" stop="20260106064000 +0000" channel="Warner TV Film HD.skyde">
-    <title>Ruf der Wildnis</title>
-</programme>
-<programme start="20260106064000 +0000" stop="20260106094000 +0000" channel="Warner TV Film HD.skyde">
-    <title>Meuterei auf der Bounty</title>
-</programme>
-<programme start="20260106094000 +0000" stop="20260106112000 +0000" channel="Warner TV Film HD.skyde">
-    <title>Nico</title>
-</programme>
-<programme start="20260106112000 +0000" stop="20260106131000 +0000" channel="Warner TV Film HD.skyde">
-    <title>Bonnie und Clyde</title>
-</programme>
-<programme start="20260106131000 +0000" stop="20260106154000 +0000" channel="Warner TV Film HD.skyde">
-    <title>Das dreckige Dutzend</title>
-</programme>
-<programme start="20260106154000 +0000" stop="20260106173000 +0000" channel="Warner TV Film HD.skyde">
-    <title>Wir sind die Millers</title>
-</programme>
-<programme start="20260106173000 +0000" stop="20260106191500 +0000" channel="Warner TV Film HD.skyde">
-    <title>Max Payne</title>
-</programme>
-<programme start="20260106191500 +0000" stop="20260106210500 +0000" channel="Warner TV Film HD.skyde">
-    <title>Lethal Weapon - Zwei stahlharte Profis</title>
-</programme>
-<programme start="20260106210500 +0000" stop="20260106230000 +0000" channel="Warner TV Film HD.skyde">
     <title>Brennpunkt L.A. - Lethal Weapon 2</title>
 </programme>
 <programme start="20260105230500 +0000" stop="20260105235000 +0000" channel="Warner TV Serie HD.skyde">
