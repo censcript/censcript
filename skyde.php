@@ -2595,17 +2595,14 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260105232000 +0000" stop="20260105233000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Golf: Gofus Österreich</title>
 </programme>
-<programme start="20260105233000 +0000" stop="20260106080000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260105233000 +0000" stop="20260106100000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Live United Cup: Konferenz, 5. Tag in Perth und Sydney (AUS)</title>
 </programme>
-<programme start="20260106080000 +0000" stop="20260106083000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260106100000 +0000" stop="20260106103000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>RIESENrad: Sportgrößen im Waggon 28 (Gast: Dominique Heinrich)</title>
 </programme>
-<programme start="20260106083000 +0000" stop="20260106090000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260106103000 +0000" stop="20260106110000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Junioren: Unser Moment - ein halbes Sommermärchen</title>
-</programme>
-<programme start="20260106090000 +0000" stop="20260106110000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>UEFA CL: FC Kopenhagen - Borussia Dortmund, Ligaphase, 3. Spieltag, Dienstag</title>
 </programme>
 <programme start="20260106110000 +0000" stop="20260106130000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA CL: FC Liverpool - Real Madrid, Ligaphase, 4. Spieltag, Dienstag</title>
@@ -2901,10 +2898,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260105235500 +0000" stop="20260106003000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: On the Fly</title>
 </programme>
-<programme start="20260106003000 +0000" stop="20260106033000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260106003000 +0000" stop="20260106034000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NHL: Detroit Red Wings @ Ottawa Senators</title>
 </programme>
-<programme start="20260106033000 +0000" stop="20260106053000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260106034000 +0000" stop="20260106053000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>DFB-Pokal: Borussia Dortmund - Bayer Leverkusen, Achtelfinale</title>
 </programme>
 <programme start="20260106053000 +0000" stop="20260106060000 +0000" channel="Sky Sport Mix HD.skyde">
@@ -3091,7 +3088,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>PL: PL Stories (Mohamed Salah)</title>
 </programme>
 <programme start="20260106170000 +0000" stop="20260106180000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 1 to 11 (Thomas Hitzlsperger)</title>
+    <title>PL: 1 to 11 (Thomas Hitzelsberger)</title>
 </programme>
 <programme start="20260106180000 +0000" stop="20260106183000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: 90in30: FUL - LIV, 20. Spieltag</title>
@@ -3114,23 +3111,11 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260106223000 +0000" stop="20260106230000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: PL Stories (Edwin van der Sar)</title>
 </programme>
-<programme start="20260105233000 +0000" stop="20260106080000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260105233000 +0000" stop="20260106114500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live United Cup: Konferenz, 5. Tag in Perth und Sydney (AUS)</title>
 </programme>
-<programme start="20260106080000 +0000" stop="20260106093000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Next Gen ATP Finals: L. Tien (USA) - A. Blockx (BEL), Finale in Jeddah (SAU)</title>
-</programme>
-<programme start="20260106093000 +0000" stop="20260106103000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Next Gen ATP Finals: Review Jeddah 2025</title>
-</programme>
-<programme start="20260106103000 +0000" stop="20260106105000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Next Gen ATP Finals: Journey to Jeddah - Episode 3 (Story of the 2025 Finals)</title>
-</programme>
-<programme start="20260106105000 +0000" stop="20260106131500 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260106114500 +0000" stop="20260106134500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA Finals: A. Sabalenka - E. Rybakina (KAZ), Finale 2025 in Riyadh (SAU)</title>
-</programme>
-<programme start="20260106131500 +0000" stop="20260106134500 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA Finals: Review Riyadh 2025</title>
 </programme>
 <programme start="20260106134500 +0000" stop="20260106144500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP Finals: Review Turin 2025</title>
@@ -3162,23 +3147,20 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260106000000 +0000" stop="20260106023000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: New York Knicks @ Detroit Pistons</title>
 </programme>
-<programme start="20260106023000 +0000" stop="20260106040000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260106023000 +0000" stop="20260106041500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Denver Nuggets @ Philadelphia 76ers</title>
 </programme>
-<programme start="20260106040000 +0000" stop="20260106053000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260106041500 +0000" stop="20260106054000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Golden State Warriors @ LA Clippers</title>
 </programme>
-<programme start="20260106053000 +0000" stop="20260106060000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260106054000 +0000" stop="20260106060500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Showtime - Post Show</title>
 </programme>
-<programme start="20260106060000 +0000" stop="20260106080000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260106060500 +0000" stop="20260106120000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live United Cup: Konferenz, 5. Tag in Perth und Sydney (AUS)</title>
 </programme>
-<programme start="20260106080000 +0000" stop="20260106100000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>NHL: Detroit Red Wings @ Ottawa Senators</title>
-</programme>
-<programme start="20260106100000 +0000" stop="20260106123000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>NBA: New York Knicks @ Detroit Pistons</title>
+<programme start="20260106120000 +0000" stop="20260106123000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>PL: Netbusters, 20. Spieltag</title>
 </programme>
 <programme start="20260106123000 +0000" stop="20260106150000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>NBA: Denver Nuggets @ Philadelphia 76ers</title>
@@ -3243,10 +3225,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260106054000 +0000" stop="20260106061500 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime - Post Show</title>
 </programme>
+<programme start="20260106220000 +0000" stop="20260107003000 +0000" channel="Sky Sport 1 HD.skyde">
+    <title>Es folgt: ab 01:30 LIVE Basketball NBA</title>
+</programme>
 <programme start="20260105231000 +0000" stop="20260106013000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Es folgt: Basketball NBA</title>
 </programme>
-<programme start="20260106013000 +0000" stop="20260106090000 +0000" channel="Sky Sport 2 HD.skyde">
+<programme start="20260106013000 +0000" stop="20260106050000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live NBA: Denver Nuggets @ Philadelphia 76ers</title>
 </programme>
 <programme start="20260105232000 +0000" stop="20260106001000 +0000" channel="SYFY HD.skyde">
