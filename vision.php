@@ -434,7 +434,7 @@
 <title>SINDO Malam</title>
 </programme>
 <programme start="20260106230000 +0000" stop="20260107000000 +0000" channel="SindoNews.vision">
-<title>Lintas iNews Pagi</title>
+<title>SINDO Files</title>
 </programme>
 <programme start="20260107000000 +0000" stop="20260107003000 +0000" channel="SindoNews.vision">
 <title>iNews Today</title>
@@ -693,9 +693,6 @@
 </programme>
 <programme start="20260106080000 +0000" stop="20260106093000 +0000" channel="ANTV.vision">
 <title>Shani</title>
-</programme>
-<programme start="20260106093000 +0000" stop="20260106113000 +0000" channel="ANTV.vision">
-<title>Jaka Tuak</title>
 </programme>
 <programme start="20260106113000 +0000" stop="20260106130000 +0000" channel="ANTV.vision">
 <title>Senandung Cinta Lilis</title>
@@ -1496,5 +1493,8 @@
 <title>Berita Satu Utama</title>
 </programme>
 <programme start="20260105230000 +0000" stop="20260106010000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260106010000 +0000" stop="20260106030000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>

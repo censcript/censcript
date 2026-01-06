@@ -2595,19 +2595,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260105232000 +0000" stop="20260105233000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Golf: Gofus Österreich</title>
 </programme>
-<programme start="20260105233000 +0000" stop="20260106080000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260105233000 +0000" stop="20260106120000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Live United Cup: Konferenz, 5. Tag in Perth und Sydney (AUS)</title>
 </programme>
-<programme start="20260106080000 +0000" stop="20260106083000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>RIESENrad: Sportgrößen im Waggon 28 (Gast: Dominique Heinrich)</title>
-</programme>
-<programme start="20260106083000 +0000" stop="20260106090000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Junioren: Unser Moment - ein halbes Sommermärchen</title>
-</programme>
-<programme start="20260106090000 +0000" stop="20260106110000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>UEFA CL: FC Kopenhagen - Borussia Dortmund, Ligaphase, 3. Spieltag, Dienstag</title>
-</programme>
-<programme start="20260106110000 +0000" stop="20260106130000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260106120000 +0000" stop="20260106130000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA CL: FC Liverpool - Real Madrid, Ligaphase, 4. Spieltag, Dienstag</title>
 </programme>
 <programme start="20260106130000 +0000" stop="20260106150000 +0000" channel="Sky Sport Austria 1 HD.skyde">
@@ -2841,16 +2832,16 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260106010000 +0000" stop="20260106050000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf Ladies ET: ISPS Handa Women&#039;s Scottish Open, 4. Tag in Troon (Schottland)</title>
 </programme>
-<programme start="20260106050000 +0000" stop="20260106090000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260106050000 +0000" stop="20260106080000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf Ladies ET: PIF Championship, 3. Tag in Hertfordshire (England)</title>
 </programme>
-<programme start="20260106090000 +0000" stop="20260106102000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260106080000 +0000" stop="20260106093000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf Ladies ET: Aramco Houston Championship, 3. Tag in Houston, TX (USA)</title>
 </programme>
-<programme start="20260106102000 +0000" stop="20260106132000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260106093000 +0000" stop="20260106123000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf Ladies ET: VP Bank Swiss Ladies Open, 3. Tag in Risch-Rotkreutz (Schweiz)</title>
 </programme>
-<programme start="20260106132000 +0000" stop="20260106143000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260106123000 +0000" stop="20260106143000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>TGL: New York Golf Club - Atlanta Drive GC, 1. Spieltag</title>
 </programme>
 <programme start="20260106143000 +0000" stop="20260106163000 +0000" channel="Sky Sport Golf HD.skyde">
@@ -3165,17 +3156,14 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260106023000 +0000" stop="20260106041500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Denver Nuggets @ Philadelphia 76ers</title>
 </programme>
-<programme start="20260106041500 +0000" stop="20260106054500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260106041500 +0000" stop="20260106054000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Golden State Warriors @ LA Clippers</title>
 </programme>
-<programme start="20260106054500 +0000" stop="20260106060000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260106054000 +0000" stop="20260106060500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Showtime - Post Show</title>
 </programme>
-<programme start="20260106060000 +0000" stop="20260106080000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260106060500 +0000" stop="20260106100000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live United Cup: Konferenz, 5. Tag in Perth und Sydney (AUS)</title>
-</programme>
-<programme start="20260106080000 +0000" stop="20260106100000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>NHL: Detroit Red Wings @ Ottawa Senators</title>
 </programme>
 <programme start="20260106100000 +0000" stop="20260106123000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>NBA: New York Knicks @ Detroit Pistons</title>
@@ -3246,7 +3234,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260105231000 +0000" stop="20260106013000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Es folgt: Basketball NBA</title>
 </programme>
-<programme start="20260106013000 +0000" stop="20260106050000 +0000" channel="Sky Sport 2 HD.skyde">
+<programme start="20260106013000 +0000" stop="20260106090000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live NBA: Denver Nuggets @ Philadelphia 76ers</title>
 </programme>
 <programme start="20260105232000 +0000" stop="20260106001000 +0000" channel="SYFY HD.skyde">
