@@ -1240,7 +1240,7 @@
   <programme start="20260108191500 +0000" stop="20260108215500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Hokej - Tipos SHL</title>
   </programme>
-  <programme start="20260108215500 +0000" stop="20260109003500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260108215500 +0000" stop="20260109003000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Hokej - Tipos SHL</title>
   </programme>
   <programme start="20260107225500 +0000" stop="20260107235000 +0000" channel="WAU.webtv.sk">
