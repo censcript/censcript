@@ -3228,8 +3228,8 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260106220000 +0000" stop="20260107000000 +0000" channel="Sky Sport UHD.skyde">
     <title>DFB-Pokal: Borussia Dortmund - Bayer Leverkusen, Achtelfinale</title>
 </programme>
-<programme start="20260105231000 +0000" stop="20260105233000 +0000" channel="Sky Sport 1 HD.skyde">
-    <title>Es folgt: LIVE Basketball NBA</title>
+<programme start="20260105230000 +0000" stop="20260105233000 +0000" channel="Sky Sport 1 HD.skyde">
+    <title>Es folgt: Basketball NBA</title>
 </programme>
 <programme start="20260105233000 +0000" stop="20260106000000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime</title>
@@ -3243,7 +3243,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260106053000 +0000" stop="20260106090000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime - Post Show</title>
 </programme>
-<programme start="20260105230000 +0000" stop="20260106013000 +0000" channel="Sky Sport 2 HD.skyde">
+<programme start="20260105231000 +0000" stop="20260106013000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Es folgt: Basketball NBA</title>
 </programme>
 <programme start="20260106013000 +0000" stop="20260106090000 +0000" channel="Sky Sport 2 HD.skyde">

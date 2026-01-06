@@ -2089,11 +2089,11 @@
     <programme start="20260105200000 +0000" stop="20260105210000 +0000" channel="CNN HD.starhub">
         <title>What We Know with Max Foster</title>
     </programme>
-    <programme start="20260105210000 +0000" stop="20260105223000 +0000" channel="CNN HD.starhub">
-        <title>Quest Means Business (45m)</title>
+    <programme start="20260105210000 +0000" stop="20260105220000 +0000" channel="CNN HD.starhub">
+        <title>Quest Means Business (60m)</title>
     </programme>
-    <programme start="20260105223000 +0000" stop="20260105230000 +0000" channel="CNN HD.starhub">
-        <title>World Sport (30m)</title>
+    <programme start="20260105220000 +0000" stop="20260105230000 +0000" channel="CNN HD.starhub">
+        <title>The Lead with Jake Tapper</title>
     </programme>
     <programme start="20260105230000 +0000" stop="20260106000000 +0000" channel="CNN HD.starhub">
         <title>The Brief with Jim Sciutto</title>
@@ -2113,23 +2113,20 @@
     <programme start="20260106040000 +0000" stop="20260106050000 +0000" channel="CNN HD.starhub">
         <title>Laura Coates Live</title>
     </programme>
-    <programme start="20260106050000 +0000" stop="20260106064500 +0000" channel="CNN HD.starhub">
+    <programme start="20260106050000 +0000" stop="20260106060000 +0000" channel="CNN HD.starhub">
         <title>The Story Is With Elex Michaelson</title>
     </programme>
-    <programme start="20260106064500 +0000" stop="20260106070000 +0000" channel="CNN HD.starhub">
-        <title>World Sport (15m)</title>
+    <programme start="20260106060000 +0000" stop="20260106070000 +0000" channel="CNN HD.starhub">
+        <title>The Story Is With Elex Michaelson</title>
     </programme>
     <programme start="20260106070000 +0000" stop="20260106080000 +0000" channel="CNN HD.starhub">
         <title>CNN Newsroom (CNNI) (60m)</title>
     </programme>
-    <programme start="20260106080000 +0000" stop="20260106084500 +0000" channel="CNN HD.starhub">
-        <title>CNN Newsroom (CNNI) (45m)</title>
-    </programme>
-    <programme start="20260106084500 +0000" stop="20260106090000 +0000" channel="CNN HD.starhub">
-        <title>World Sport (15m)</title>
+    <programme start="20260106080000 +0000" stop="20260106090000 +0000" channel="CNN HD.starhub">
+        <title>CNN Newsroom (CNNI) (60m)</title>
     </programme>
     <programme start="20260106090000 +0000" stop="20260106100000 +0000" channel="CNN HD.starhub">
-        <title>Amanpour</title>
+        <title>Early Start with Rahel Solomon</title>
     </programme>
     <programme start="20260106100000 +0000" stop="20260106110000 +0000" channel="CNN HD.starhub">
         <title>Early Start with Rahel Solomon</title>
@@ -2137,17 +2134,14 @@
     <programme start="20260106110000 +0000" stop="20260106120000 +0000" channel="CNN HD.starhub">
         <title>CNN This Morning</title>
     </programme>
-    <programme start="20260106120000 +0000" stop="20260106133000 +0000" channel="CNN HD.starhub">
+    <programme start="20260106120000 +0000" stop="20260106130000 +0000" channel="CNN HD.starhub">
         <title>CNN News Central</title>
     </programme>
-    <programme start="20260106133000 +0000" stop="20260106140000 +0000" channel="CNN HD.starhub">
-        <title>World Sport (30m)</title>
+    <programme start="20260106130000 +0000" stop="20260106140000 +0000" channel="CNN HD.starhub">
+        <title>CNN News Central</title>
     </programme>
-    <programme start="20260106140000 +0000" stop="20260106144500 +0000" channel="CNN HD.starhub">
-        <title>Connect the World (45m)</title>
-    </programme>
-    <programme start="20260106144500 +0000" stop="20260106150000 +0000" channel="CNN HD.starhub">
-        <title>World Sport (15m)</title>
+    <programme start="20260106140000 +0000" stop="20260106150000 +0000" channel="CNN HD.starhub">
+        <title>Connect the World (60m)</title>
     </programme>
     <programme start="20260106150000 +0000" stop="20260106160000 +0000" channel="CNN HD.starhub">
         <title>Connect the World (60m)</title>
@@ -7738,10 +7732,10 @@
     <programme start="20260105163000 +0000" stop="20260105193000 +0000" channel="Asianet Movies.starhub">
         <title>Chinthamani Kolacase</title>
     </programme>
-    <programme start="20260105193000 +0000" stop="20260105213000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260105193000 +0000" stop="20260105214500 +0000" channel="Asianet Movies.starhub">
         <title>Oru Black and White Kudumbam</title>
     </programme>
-    <programme start="20260105213000 +0000" stop="20260105233000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260105214500 +0000" stop="20260105232000 +0000" channel="Asianet Movies.starhub">
         <title>C U Soon</title>
     </programme>
     <programme start="20260105232000 +0000" stop="20260106013000 +0000" channel="Asianet Movies.starhub">
