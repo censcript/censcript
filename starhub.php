@@ -2002,11 +2002,8 @@
     <programme start="20260106132000 +0000" stop="20260106133000 +0000" channel="beIN Sports 3.starhub">
         <title>UCL Classic Matches Anderlecht vs PSG (2013/14)</title>
     </programme>
-    <programme start="20260106133000 +0000" stop="20260106153000 +0000" channel="beIN Sports 3.starhub">
+    <programme start="20260106133000 +0000" stop="20260106160000 +0000" channel="beIN Sports 3.starhub">
         <title>TotalEnergies Africa Cup of Nations, Morocco 2025: Egypt vs Benin - Rd of 16</title>
-    </programme>
-    <programme start="20260106153000 +0000" stop="20260106160000 +0000" channel="beIN Sports 3.starhub">
-        <title>Sir Alex: Life After Management</title>
     </programme>
     <programme start="20260105153000 +0000" stop="20260105163000 +0000" channel="Sun Music.starhub">
         <title>Non Stop Hits</title>
@@ -7747,10 +7744,13 @@
     <programme start="20260105213000 +0000" stop="20260105233000 +0000" channel="Asianet Movies.starhub">
         <title>C U Soon</title>
     </programme>
-    <programme start="20260105233000 +0000" stop="20260106013000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260105232000 +0000" stop="20260106013000 +0000" channel="Asianet Movies.starhub">
         <title>Mulla</title>
     </programme>
-    <programme start="20260106013000 +0000" stop="20260106043000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260106013000 +0000" stop="20260106015500 +0000" channel="Asianet Movies.starhub">
+        <title>Chirikkum Thalika</title>
+    </programme>
+    <programme start="20260106015500 +0000" stop="20260106043000 +0000" channel="Asianet Movies.starhub">
         <title>Kunjiramayanam</title>
     </programme>
     <programme start="20260106043000 +0000" stop="20260106073000 +0000" channel="Asianet Movies.starhub">
