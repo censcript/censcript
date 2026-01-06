@@ -134,6 +134,10 @@
     <title>Football: Volos - Kifisia</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260107182000 +0700" stop="20260107203000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: PAOK - Atromitos</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260106170000 +0700" stop="20260106190000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Al Ahli - Al Nassr</title>
     <desc>Live: Tidak</desc>
@@ -194,10 +198,6 @@
     <title>Football: Al Ittihad - Al Taawon</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260106151500 +0700" stop="20260106171500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Real Madrid - Barcelona</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260106171500 +0700" stop="20260106194500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Detroit Pistons - New York Knicks</title>
     <desc>Live: Tidak</desc>
@@ -252,10 +252,6 @@
 </programme>
 <programme start="20260107165000 +0700" stop="20260107192000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Minnesota Timberwolves - Miami Heat</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260106161500 +0700" stop="20260106171500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>MotoGP Classics</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260106171500 +0700" stop="20260106181000 +0700" channel="COSMOTE Sport 5 HD">
