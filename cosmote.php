@@ -54,13 +54,9 @@
     <title>Highlights: UEL &amp; UECL 2025-26</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260106210000 +0700" stop="20260106212000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Sports Classics: Worldies E19</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260106212000 +0700" stop="20260106215000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Sports Classics: Football Countdowns E2</title>
-    <desc>Live: Tidak</desc>
+<programme start="20260107220000 +0700" stop="20260108003000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: OFI - Asteras Aktor (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260106215000 +0700" stop="20260106223000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Sports Classics: Football Countdowns E3</title>
@@ -124,6 +120,10 @@
 </programme>
 <programme start="20260107203000 +0700" stop="20260107223000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Lecce - AS Roma</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260107223000 +0700" stop="20260108003000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Sassuolo - Juventus Football Club</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260106210000 +0700" stop="20260106230000 +0700" channel="COSMOTE Sport 3 HD">
@@ -190,8 +190,12 @@
     <title>Copa Libertadores 2025 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260106194500 +0700" stop="20260106214000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Unicaja - Karditsa</title>
+<programme start="20260107220000 +0700" stop="20260107222000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>William Hill Scottish Premiership - Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260107222000 +0700" stop="20260108003000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Rangers FC - Aberdeen</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260106214000 +0700" stop="20260106222500 +0700" channel="COSMOTE Sport 4 HD">
@@ -248,10 +252,6 @@
 </programme>
 <programme start="20260107213000 +0700" stop="20260107231500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Pick n&#039; Roll</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260106203500 +0700" stop="20260106213500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: MotoGP</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260106213500 +0700" stop="20260106221000 +0700" channel="COSMOTE Sport 5 HD">
@@ -342,6 +342,10 @@
     <title>2025 FIM Women&#039;s Circuit Racing World Championship</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260107223000 +0700" stop="20260107230000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Sports Classics: Gearing Up 2024 E12</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260106203000 +0700" stop="20260106224500 +0700" channel="COSMOTE Sport 6 HD">
     <title>Volleyball: Ziraat Bankasi SK Ankara - Tours VB</title>
     <desc>Live: Tidak</desc>
@@ -404,6 +408,10 @@
 </programme>
 <programme start="20260107193000 +0700" stop="20260107220000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Volleyball: Tours VB - Trentino Itas</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260107220000 +0700" stop="20260107230000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>ATP 2025 - Review</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260106210000 +0700" stop="20260106230000 +0700" channel="COSMOTE Sport 7 HD">
