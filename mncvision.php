@@ -4759,7 +4759,78 @@
 <programme start="20260106163000 +0000" stop="20260105170000 +0000" channel="iNews.mncvision">
     <title>New Top Files</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260105170000 +0000" stop="20260105180000 +0000" channel="iNews HD.mncvision">
+    <title>Realita</title>
+</programme>
+<programme start="20260105180000 +0000" stop="20260105193000 +0000" channel="iNews HD.mncvision">
+    <title>AFC Asian Cup &#039;23: VIE Vs IND</title>
+</programme>
+<programme start="20260105193000 +0000" stop="20260105201500 +0000" channel="iNews HD.mncvision">
+    <title>iNews Malam</title>
+</programme>
+<programme start="20260105201500 +0000" stop="20260105210000 +0000" channel="iNews HD.mncvision">
+    <title>Special Report</title>
+</programme>
+<programme start="20260105210000 +0000" stop="20260105211500 +0000" channel="iNews HD.mncvision">
+    <title>iNews Sport</title>
+</programme>
+<programme start="20260105211500 +0000" stop="20260105230000 +0000" channel="iNews HD.mncvision">
+    <title>iNews Pagi (L)</title>
+</programme>
+<programme start="20260105230000 +0000" stop="20260105230200 +0000" channel="iNews HD.mncvision">
+    <title>Indonesia Raya</title>
+</programme>
+<programme start="20260105230200 +0000" stop="20260105233000 +0000" channel="iNews HD.mncvision">
+    <title>iNews Sport Pagi (L)</title>
+</programme>
+<programme start="20260105233000 +0000" stop="20260106000000 +0000" channel="iNews HD.mncvision">
+    <title>Special Report</title>
+</programme>
+<programme start="20260106000000 +0000" stop="20260106001000 +0000" channel="iNews HD.mncvision">
+    <title>iNews Terkini</title>
+</programme>
+<programme start="20260106001000 +0000" stop="20260106010000 +0000" channel="iNews HD.mncvision">
+    <title>Morning Update</title>
+</programme>
+<programme start="20260106010000 +0000" stop="20260106021500 +0000" channel="iNews HD.mncvision">
+    <title>Lapor Polisi (L)</title>
+</programme>
+<programme start="20260106021500 +0000" stop="20260106040000 +0000" channel="iNews HD.mncvision">
+    <title>iNews Today (L)</title>
+</programme>
+<programme start="20260106040000 +0000" stop="20260106060000 +0000" channel="iNews HD.mncvision">
+    <title>iNews Siang (L)</title>
+</programme>
+<programme start="20260106060000 +0000" stop="20260106063000 +0000" channel="iNews HD.mncvision">
+    <title>Pemimpin Rakyat (L)</title>
+</programme>
+<programme start="20260106063000 +0000" stop="20260106080000 +0000" channel="iNews HD.mncvision">
+    <title>iSeleb (L)</title>
+</programme>
+<programme start="20260106080000 +0000" stop="20260106093000 +0000" channel="iNews HD.mncvision">
+    <title>Realita (L)</title>
+</programme>
+<programme start="20260106093000 +0000" stop="20260106120000 +0000" channel="iNews HD.mncvision">
+    <title>iNews Sore (L)</title>
+</programme>
+<programme start="20260106120000 +0000" stop="20260106120300 +0000" channel="iNews HD.mncvision">
+    <title>iNews Terkini</title>
+</programme>
+<programme start="20260106120300 +0000" stop="20260106133000 +0000" channel="iNews HD.mncvision">
+    <title>iNews Room (L)</title>
+</programme>
+<programme start="20260106133000 +0000" stop="20260106143000 +0000" channel="iNews HD.mncvision">
+    <title>iNews Prime (L)</title>
+</programme>
+<programme start="20260106143000 +0000" stop="20260106160000 +0000" channel="iNews HD.mncvision">
+    <title>iNews Malam (L)</title>
+</programme>
+<programme start="20260106160000 +0000" stop="20260106163000 +0000" channel="iNews HD.mncvision">
+    <title>iNews Sport (L)</title>
+</programme>
+<programme start="20260106163000 +0000" stop="20260105170000 +0000" channel="iNews HD.mncvision">
+    <title>New Top Files</title>
+</programme>
 <programme start="20260105220000 +0000" stop="20260105223000 +0000" channel="JAKTV.mncvision">
     <title>Senyum Quran</title>
 </programme>
@@ -6215,8 +6286,306 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260106160000 +0000" stop="20260106163000 +0000" channel="Muslim TV.mncvision">
     <title>Sahabat Ustadz</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260105170000 +0000" stop="20260105173000 +0000" channel="NHK World.mncvision">
+    <title>NHK Newsline</title>
+</programme>
+<programme start="20260105173000 +0000" stop="20260105174500 +0000" channel="NHK World.mncvision">
+    <title>Activate Your Japanese!</title>
+</programme>
+<programme start="20260105174500 +0000" stop="20260105175500 +0000" channel="NHK World.mncvision">
+    <title>Diversity For Disaster...</title>
+</programme>
+<programme start="20260105175500 +0000" stop="20260105180000 +0000" channel="NHK World.mncvision">
+    <title>Hello! NHK World-Japan</title>
+</programme>
+<programme start="20260105180000 +0000" stop="20260105182800 +0000" channel="NHK World.mncvision">
+    <title>Newsroom Tokyo</title>
+</programme>
+<programme start="20260105182800 +0000" stop="20260105184300 +0000" channel="NHK World.mncvision">
+    <title>Direct Talk</title>
+</programme>
+<programme start="20260105184300 +0000" stop="20260105184800 +0000" channel="NHK World.mncvision">
+    <title>Dosukoi Sumo Salon</title>
+</programme>
+<programme start="20260105184800 +0000" stop="20260105185500 +0000" channel="NHK World.mncvision">
+    <title>Japan From Above: Up Close</title>
+</programme>
+<programme start="20260105185500 +0000" stop="20260105190000 +0000" channel="NHK World.mncvision">
+    <title>Ukiyoe Edo-Life: Good Or...</title>
+</programme>
+<programme start="20260105190000 +0000" stop="20260105193000 +0000" channel="NHK World.mncvision">
+    <title>Repairing A Post-Quake...</title>
+</programme>
+<programme start="20260105193000 +0000" stop="20260105200000 +0000" channel="NHK World.mncvision">
+    <title>Seasoning The Seasons</title>
+</programme>
+<programme start="20260105200000 +0000" stop="20260105203000 +0000" channel="NHK World.mncvision">
+    <title>NHK Newsline</title>
+</programme>
+<programme start="20260105203000 +0000" stop="20260105210000 +0000" channel="NHK World.mncvision">
+    <title>Medical Frontiers</title>
+</programme>
+<programme start="20260105210000 +0000" stop="20260105213000 +0000" channel="NHK World.mncvision">
+    <title>NHK Newsline</title>
+</programme>
+<programme start="20260105213000 +0000" stop="20260105220000 +0000" channel="NHK World.mncvision">
+    <title>Where We Call Home</title>
+</programme>
+<programme start="20260105220000 +0000" stop="20260105223000 +0000" channel="NHK World.mncvision">
+    <title>NHK Newsline</title>
+</programme>
+<programme start="20260105223000 +0000" stop="20260105224500 +0000" channel="NHK World.mncvision">
+    <title>Activate Your Japanese!</title>
+</programme>
+<programme start="20260105224500 +0000" stop="20260105225500 +0000" channel="NHK World.mncvision">
+    <title>Diversity For Disaster...</title>
+</programme>
+<programme start="20260105225500 +0000" stop="20260105230000 +0000" channel="NHK World.mncvision">
+    <title>Hello! NHK World-Japan</title>
+</programme>
+<programme start="20260105230000 +0000" stop="20260105233000 +0000" channel="NHK World.mncvision">
+    <title>NHK Newsline</title>
+</programme>
+<programme start="20260105233000 +0000" stop="20260105235700 +0000" channel="NHK World.mncvision">
+    <title>Hometown Stories</title>
+</programme>
+<programme start="20260105235700 +0000" stop="20260106000000 +0000" channel="NHK World.mncvision">
+    <title>Satoyama Kitchen Winter</title>
+</programme>
+<programme start="20260106000000 +0000" stop="20260106003000 +0000" channel="NHK World.mncvision">
+    <title>NHK Newsline</title>
+</programme>
+<programme start="20260106003000 +0000" stop="20260106010000 +0000" channel="NHK World.mncvision">
+    <title>Journeys In Japan</title>
+</programme>
+<programme start="20260106010000 +0000" stop="20260106013000 +0000" channel="NHK World.mncvision">
+    <title>NHK Newsline</title>
+</programme>
+<programme start="20260106013000 +0000" stop="20260106020000 +0000" channel="NHK World.mncvision">
+    <title>Dining With The Chef</title>
+</programme>
+<programme start="20260106020000 +0000" stop="20260106023000 +0000" channel="NHK World.mncvision">
+    <title>NHK Newsline</title>
+</programme>
+<programme start="20260106023000 +0000" stop="20260106030000 +0000" channel="NHK World.mncvision">
+    <title>Document 72 Hours</title>
+</programme>
+<programme start="20260106030000 +0000" stop="20260106033000 +0000" channel="NHK World.mncvision">
+    <title>NHK Newsline</title>
+</programme>
+<programme start="20260106033000 +0000" stop="20260106040000 +0000" channel="NHK World.mncvision">
+    <title>Medical Frontiers</title>
+</programme>
+<programme start="20260106040000 +0000" stop="20260106043000 +0000" channel="NHK World.mncvision">
+    <title>NHK Newsline</title>
+</programme>
+<programme start="20260106043000 +0000" stop="20260106044500 +0000" channel="NHK World.mncvision">
+    <title>Deeper Look</title>
+</programme>
+<programme start="20260106044500 +0000" stop="20260106045500 +0000" channel="NHK World.mncvision">
+    <title>Dig More Japan</title>
+</programme>
+<programme start="20260106045500 +0000" stop="20260106050000 +0000" channel="NHK World.mncvision">
+    <title>Dining With The Chef Mini</title>
+</programme>
+<programme start="20260106050000 +0000" stop="20260106053000 +0000" channel="NHK World.mncvision">
+    <title>NHK Newsline</title>
+</programme>
+<programme start="20260106053000 +0000" stop="20260106060000 +0000" channel="NHK World.mncvision">
+    <title>Journeys In Japan</title>
+</programme>
+<programme start="20260106060000 +0000" stop="20260106063000 +0000" channel="NHK World.mncvision">
+    <title>Newsline Asia 24</title>
+</programme>
+<programme start="20260106063000 +0000" stop="20260106070000 +0000" channel="NHK World.mncvision">
+    <title>Dining With The Chef</title>
+</programme>
+<programme start="20260106070000 +0000" stop="20260106073000 +0000" channel="NHK World.mncvision">
+    <title>Newsline Asia 24</title>
+</programme>
+<programme start="20260106073000 +0000" stop="20260106080000 +0000" channel="NHK World.mncvision">
+    <title>Document 72 Hours</title>
+</programme>
+<programme start="20260106080000 +0000" stop="20260106083000 +0000" channel="NHK World.mncvision">
+    <title>NHK Newsline</title>
+</programme>
+<programme start="20260106083000 +0000" stop="20260106084500 +0000" channel="NHK World.mncvision">
+    <title>Deeper Look</title>
+</programme>
+<programme start="20260106084500 +0000" stop="20260106090000 +0000" channel="NHK World.mncvision">
+    <title>BOSAI</title>
+</programme>
+<programme start="20260106090000 +0000" stop="20260106093000 +0000" channel="NHK World.mncvision">
+    <title>NHK Newsline</title>
+</programme>
+<programme start="20260106093000 +0000" stop="20260106100000 +0000" channel="NHK World.mncvision">
+    <title>Medical Frontiers</title>
+</programme>
+<programme start="20260106100000 +0000" stop="20260106103000 +0000" channel="NHK World.mncvision">
+    <title>NHK News 7</title>
+</programme>
+<programme start="20260106103000 +0000" stop="20260106110000 +0000" channel="NHK World.mncvision">
+    <title>Journeys In Japan</title>
+</programme>
+<programme start="20260106110000 +0000" stop="20260106112800 +0000" channel="NHK World.mncvision">
+    <title>Newsroom Tokyo</title>
+</programme>
+<programme start="20260106112800 +0000" stop="20260106114300 +0000" channel="NHK World.mncvision">
+    <title>Direct Talk</title>
+</programme>
+<programme start="20260106114300 +0000" stop="20260106121300 +0000" channel="NHK World.mncvision">
+    <title>Dosukoi Sumo Salon</title>
+</programme>
+<programme start="20260105171000 +0000" stop="20260105173000 +0000" channel="NHK World Premium.mncvision">
+    <title>French In A Happy Mood</title>
+</programme>
+<programme start="20260105173000 +0000" stop="20260105174000 +0000" channel="NHK World Premium.mncvision">
+    <title>Cruising From The Sky</title>
+</programme>
+<programme start="20260105174000 +0000" stop="20260105174500 +0000" channel="NHK World Premium.mncvision">
+    <title>World Weather</title>
+</programme>
+<programme start="20260105174500 +0000" stop="20260105180000 +0000" channel="NHK World Premium.mncvision">
+    <title>Kid&#039;s Discovery</title>
+</programme>
+<programme start="20260105180000 +0000" stop="20260105182500 +0000" channel="NHK World Premium.mncvision">
+    <title>With Mother</title>
+</programme>
+<programme start="20260105182500 +0000" stop="20260105183000 +0000" channel="NHK World Premium.mncvision">
+    <title>See, Learn, Explore: Tohoku</title>
+</programme>
+<programme start="20260105183000 +0000" stop="20260105184500 +0000" channel="NHK World Premium.mncvision">
+    <title>The Ghost Writer&#039;s Wife, Ep 66</title>
+</programme>
+<programme start="20260105184500 +0000" stop="20260105191200 +0000" channel="NHK World Premium.mncvision">
+    <title>Today&#039;s Close-Up</title>
+</programme>
+<programme start="20260105191200 +0000" stop="20260105191500 +0000" channel="NHK World Premium.mncvision">
+    <title>World Weather</title>
+</programme>
+<programme start="20260105191500 +0000" stop="20260105200000 +0000" channel="NHK World Premium.mncvision">
+    <title>Great Tracking Of Global...</title>
+</programme>
+<programme start="20260105200000 +0000" stop="20260105201000 +0000" channel="NHK World Premium.mncvision">
+    <title>TV Exercise</title>
+</programme>
+<programme start="20260105201000 +0000" stop="20260105202500 +0000" channel="NHK World Premium.mncvision">
+    <title>Health For Today</title>
+</programme>
+<programme start="20260105202500 +0000" stop="20260105205600 +0000" channel="NHK World Premium.mncvision">
+    <title>Comedy Battle! Pin-Two-Three</title>
+</programme>
+<programme start="20260105205600 +0000" stop="20260105210000 +0000" channel="NHK World Premium.mncvision">
+    <title>World Weather</title>
+</programme>
+<programme start="20260105210000 +0000" stop="20260105220000 +0000" channel="NHK World Premium.mncvision">
+    <title>News: Good Morning, Japan</title>
+</programme>
+<programme start="20260105220000 +0000" stop="20260105230000 +0000" channel="NHK World Premium.mncvision">
+    <title>News: Good Morning, Japan</title>
+</programme>
+<programme start="20260105230000 +0000" stop="20260105231500 +0000" channel="NHK World Premium.mncvision">
+    <title>The Ghost Writer&#039;s Wife, Ep 67</title>
+</programme>
+<programme start="20260105231500 +0000" stop="20260106005400 +0000" channel="NHK World Premium.mncvision">
+    <title>Asaichi</title>
+</programme>
+<programme start="20260106005400 +0000" stop="20260106005500 +0000" channel="NHK World Premium.mncvision">
+    <title>World Weather</title>
+</programme>
+<programme start="20260106005500 +0000" stop="20260106010000 +0000" channel="NHK World Premium.mncvision">
+    <title>Exercise For Everyone</title>
+</programme>
+<programme start="20260106010000 +0000" stop="20260106010500 +0000" channel="NHK World Premium.mncvision">
+    <title>News &amp; Weather</title>
+</programme>
+<programme start="20260106010500 +0000" stop="20260106015000 +0000" channel="NHK World Premium.mncvision">
+    <title>Great Tracking Of Global...</title>
+</programme>
+<programme start="20260106015000 +0000" stop="20260106021700 +0000" channel="NHK World Premium.mncvision">
+    <title>Today&#039;s Close-Up</title>
+</programme>
+<programme start="20260106021700 +0000" stop="20260106022000 +0000" channel="NHK World Premium.mncvision">
+    <title>Mini Program</title>
+</programme>
+<programme start="20260106022000 +0000" stop="20260106025000 +0000" channel="NHK World Premium.mncvision">
+    <title>Comedy Battle! Pin-Two-Three</title>
+</programme>
+<programme start="20260106025000 +0000" stop="20260106025600 +0000" channel="NHK World Premium.mncvision">
+    <title>Songs For Everyone</title>
+</programme>
+<programme start="20260106025600 +0000" stop="20260106030000 +0000" channel="NHK World Premium.mncvision">
+    <title>World Weather</title>
+</programme>
+<programme start="20260106030000 +0000" stop="20260106032000 +0000" channel="NHK World Premium.mncvision">
+    <title>News</title>
+</programme>
+<programme start="20260106032000 +0000" stop="20260106032800 +0000" channel="NHK World Premium.mncvision">
+    <title>Information Worth Knowing...</title>
+</programme>
+<programme start="20260106032800 +0000" stop="20260106033000 +0000" channel="NHK World Premium.mncvision">
+    <title>Mini Program</title>
+</programme>
+<programme start="20260106033000 +0000" stop="20260106034500 +0000" channel="NHK World Premium.mncvision">
+    <title>Massan, Ep 7</title>
+</programme>
+<programme start="20260106034500 +0000" stop="20260106040000 +0000" channel="NHK World Premium.mncvision">
+    <title>The Ghost Writer&#039;s Wife, Ep 67</title>
+</programme>
+<programme start="20260106040000 +0000" stop="20260106040500 +0000" channel="NHK World Premium.mncvision">
+    <title>News</title>
+</programme>
+<programme start="20260106040500 +0000" stop="20260106055000 +0000" channel="NHK World Premium.mncvision">
+    <title>News Around Japan</title>
+</programme>
+<programme start="20260106055000 +0000" stop="20260106055500 +0000" channel="NHK World Premium.mncvision">
+    <title>World Weather</title>
+</programme>
+<programme start="20260106055500 +0000" stop="20260106060000 +0000" channel="NHK World Premium.mncvision">
+    <title>World Music Album</title>
+</programme>
+<programme start="20260106060000 +0000" stop="20260106061000 +0000" channel="NHK World Premium.mncvision">
+    <title>News &amp; Weather</title>
+</programme>
+<programme start="20260106061000 +0000" stop="20260106064000 +0000" channel="NHK World Premium.mncvision">
+    <title>Ready-To-Use Tips And Tricks</title>
+</programme>
+<programme start="20260106064000 +0000" stop="20260106065000 +0000" channel="NHK World Premium.mncvision">
+    <title>Points At Issue</title>
+</programme>
+<programme start="20260106065000 +0000" stop="20260106075000 +0000" channel="NHK World Premium.mncvision">
+    <title>With Mother Family Concert</title>
+</programme>
+<programme start="20260106075000 +0000" stop="20260106075500 +0000" channel="NHK World Premium.mncvision">
+    <title>Bijutune!</title>
+</programme>
+<programme start="20260106075500 +0000" stop="20260106081000 +0000" channel="NHK World Premium.mncvision">
+    <title>Working Dogs</title>
+</programme>
+<programme start="20260106081000 +0000" stop="20260106082000 +0000" channel="NHK World Premium.mncvision">
+    <title>Let&#039;s Enjoy English &amp; Meets...</title>
+</programme>
+<programme start="20260106082000 +0000" stop="20260106083500 +0000" channel="NHK World Premium.mncvision">
+    <title>Peek-A-Boo</title>
+</programme>
+<programme start="20260106083500 +0000" stop="20260106085900 +0000" channel="NHK World Premium.mncvision">
+    <title>With Mother</title>
+</programme>
+<programme start="20260106085900 +0000" stop="20260106090000 +0000" channel="NHK World Premium.mncvision">
+    <title>1-Minute Anime: Songs For SDGs</title>
+</programme>
+<programme start="20260106090000 +0000" stop="20260106091000 +0000" channel="NHK World Premium.mncvision">
+    <title>News</title>
+</programme>
+<programme start="20260106091000 +0000" stop="20260106092500 +0000" channel="NHK World Premium.mncvision">
+    <title>Kid&#039;s Discovery</title>
+</programme>
+<programme start="20260106092500 +0000" stop="20260106095600 +0000" channel="NHK World Premium.mncvision">
+    <title>Whiz-Kids TV</title>
+</programme>
+<programme start="20260106095600 +0000" stop="20260106102600 +0000" channel="NHK World Premium.mncvision">
+    <title>World Weather</title>
+</programme>
 <programme start="20260105171500 +0000" stop="20260105173000 +0000" channel="Nick Jr. HD.mncvision">
     <title>Barbapapa: Big Happy Family</title>
 </programme>
@@ -7156,9 +7525,183 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260106164500 +0000" stop="20260105171500 +0000" channel="RCTI.mncvision">
     <title>AFC U23 Asian Cup Saudi Arabia</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260105183000 +0000" stop="20260105190000 +0000" channel="RCTI HD.mncvision">
+    <title>iNews Sport</title>
+</programme>
+<programme start="20260105190000 +0000" stop="20260105224500 +0000" channel="RCTI HD.mncvision">
+    <title>Preman Pensiun S3</title>
+</programme>
+<programme start="20260105224500 +0000" stop="20260105234500 +0000" channel="RCTI HD.mncvision">
+    <title>Go Spot</title>
+</programme>
+<programme start="20260105234500 +0000" stop="20260106011500 +0000" channel="RCTI HD.mncvision">
+    <title>Upin Ipin</title>
+</programme>
+<programme start="20260106011500 +0000" stop="20260106020000 +0000" channel="RCTI HD.mncvision">
+    <title>Kiko</title>
+</programme>
+<programme start="20260106020000 +0000" stop="20260106033000 +0000" channel="RCTI HD.mncvision">
+    <title>Ninja Hattori</title>
+</programme>
+<programme start="20260106033000 +0000" stop="20260106043000 +0000" channel="RCTI HD.mncvision">
+    <title>Silet</title>
+</programme>
+<programme start="20260106043000 +0000" stop="20260106051500 +0000" channel="RCTI HD.mncvision">
+    <title>Seputar iNews Siang</title>
+</programme>
+<programme start="20260106051500 +0000" stop="20260106070000 +0000" channel="RCTI HD.mncvision">
+    <title>Nyak Babe Mau Nikah Lagi...</title>
+</programme>
+<programme start="20260106070000 +0000" stop="20260106080000 +0000" channel="RCTI HD.mncvision">
+    <title>Cinlock: Love, Camera, Action!</title>
+</programme>
+<programme start="20260106080000 +0000" stop="20260106083000 +0000" channel="RCTI HD.mncvision">
+    <title>Preman Pensiun S8</title>
+</programme>
+<programme start="20260106083000 +0000" stop="20260106100000 +0000" channel="RCTI HD.mncvision">
+    <title>Manda Curhat</title>
+</programme>
+<programme start="20260106100000 +0000" stop="20260106113000 +0000" channel="RCTI HD.mncvision">
+    <title>Terbelenggu Rindu</title>
+</programme>
+<programme start="20260106113000 +0000" stop="20260106124500 +0000" channel="RCTI HD.mncvision">
+    <title>Mencintai Ipar Sendiri</title>
+</programme>
+<programme start="20260106124500 +0000" stop="20260106141500 +0000" channel="RCTI HD.mncvision">
+    <title>Cinta Sepenuh Jiwa</title>
+</programme>
+<programme start="20260106141500 +0000" stop="20260106164500 +0000" channel="RCTI HD.mncvision">
+    <title>Indonesian Idol S14</title>
+</programme>
+<programme start="20260106164500 +0000" stop="20260105171500 +0000" channel="RCTI HD.mncvision">
+    <title>AFC U23 Asian Cup Saudi Arabia</title>
+</programme>
+<programme start="20260105172000 +0000" stop="20260105190500 +0000" channel="Rock Action.mncvision">
+    <title>Piper</title>
+</programme>
+<programme start="20260105190500 +0000" stop="20260105204500 +0000" channel="Rock Action.mncvision">
+    <title>Get Out</title>
+</programme>
+<programme start="20260105204500 +0000" stop="20260105230000 +0000" channel="Rock Action.mncvision">
+    <title>Terminator 2: Judgement Day</title>
+</programme>
+<programme start="20260105230000 +0000" stop="20260106011500 +0000" channel="Rock Action.mncvision">
+    <title>Robin Hood</title>
+</programme>
+<programme start="20260106011500 +0000" stop="20260106025000 +0000" channel="Rock Action.mncvision">
+    <title>Moby Dick, Pt 1</title>
+</programme>
+<programme start="20260106025000 +0000" stop="20260106043000 +0000" channel="Rock Action.mncvision">
+    <title>Moby Dick, Pt 2</title>
+</programme>
+<programme start="20260106043000 +0000" stop="20260106064500 +0000" channel="Rock Action.mncvision">
+    <title>Fast &amp; Furious 7</title>
+</programme>
+<programme start="20260106064500 +0000" stop="20260106084000 +0000" channel="Rock Action.mncvision">
+    <title>U-571</title>
+</programme>
+<programme start="20260106084000 +0000" stop="20260106110000 +0000" channel="Rock Action.mncvision">
+    <title>The Hunger Games: Catching Fire</title>
+</programme>
+<programme start="20260106110000 +0000" stop="20260106125500 +0000" channel="Rock Action.mncvision">
+    <title>Back To The Future 3</title>
+</programme>
+<programme start="20260106125500 +0000" stop="20260106144500 +0000" channel="Rock Action.mncvision">
+    <title>47 Ronin</title>
+</programme>
+<programme start="20260106144500 +0000" stop="20260106161500 +0000" channel="Rock Action.mncvision">
+    <title>Starship Troopers: Invasion</title>
+</programme>
+<programme start="20260106161500 +0000" stop="20260106164500 +0000" channel="Rock Action.mncvision">
+    <title>The Whole Nine Yards</title>
+</programme>
+<programme start="20260105173000 +0000" stop="20260105181500 +0000" channel="Rock Entertainment.mncvision">
+    <title>Law &amp; Order: SVU S27, Ep 8</title>
+</programme>
+<programme start="20260105181500 +0000" stop="20260105190000 +0000" channel="Rock Entertainment.mncvision">
+    <title>Law &amp; Order: SVU S27, Ep 7</title>
+</programme>
+<programme start="20260105190000 +0000" stop="20260105195000 +0000" channel="Rock Entertainment.mncvision">
+    <title>Next Level Chef S3, Ep 1</title>
+</programme>
+<programme start="20260105195000 +0000" stop="20260105203500 +0000" channel="Rock Entertainment.mncvision">
+    <title>Next Level Chef S3, Ep 2</title>
+</programme>
+<programme start="20260105203500 +0000" stop="20260105212500 +0000" channel="Rock Entertainment.mncvision">
+    <title>Next Level Chef S3, Ep 3</title>
+</programme>
+<programme start="20260105212500 +0000" stop="20260105220000 +0000" channel="Rock Entertainment.mncvision">
+    <title>Cobra Kai S2, Ep 9</title>
+</programme>
+<programme start="20260105220000 +0000" stop="20260105224500 +0000" channel="Rock Entertainment.mncvision">
+    <title>Late Night With... S13, Ep 45</title>
+</programme>
+<programme start="20260105224500 +0000" stop="20260105233000 +0000" channel="Rock Entertainment.mncvision">
+    <title>The Tonight Show S13, Ep 46</title>
+</programme>
+<programme start="20260105233000 +0000" stop="20260106000000 +0000" channel="Rock Entertainment.mncvision">
+    <title>Cobra Kai S2, Ep 8</title>
+</programme>
+<programme start="20260106000000 +0000" stop="20260106004500 +0000" channel="Rock Entertainment.mncvision">
+    <title>Law &amp; Order: SVU S27, Ep 7</title>
+</programme>
+<programme start="20260106004500 +0000" stop="20260106013000 +0000" channel="Rock Entertainment.mncvision">
+    <title>Law &amp; Order: SVU S27, Ep 8</title>
+</programme>
+<programme start="20260106013000 +0000" stop="20260106021000 +0000" channel="Rock Entertainment.mncvision">
+    <title>Law &amp; Order: SVU S27, Ep 7</title>
+</programme>
+<programme start="20260106021000 +0000" stop="20260106025500 +0000" channel="Rock Entertainment.mncvision">
+    <title>Law &amp; Order: SVU S27, Ep 8</title>
+</programme>
+<programme start="20260106025500 +0000" stop="20260106034000 +0000" channel="Rock Entertainment.mncvision">
+    <title>Real Housewives Of... S15, Ep 1</title>
+</programme>
+<programme start="20260106034000 +0000" stop="20260106042500 +0000" channel="Rock Entertainment.mncvision">
+    <title>The Tonight Show S13, Ep 46</title>
+</programme>
+<programme start="20260106042500 +0000" stop="20260106051000 +0000" channel="Rock Entertainment.mncvision">
+    <title>Late Night With... S13, Ep 45</title>
+</programme>
+<programme start="20260106051000 +0000" stop="20260106072500 +0000" channel="Rock Entertainment.mncvision">
+    <title>31st Critics Choice Awards 2026</title>
+</programme>
+<programme start="20260106072500 +0000" stop="20260106081600 +0000" channel="Rock Entertainment.mncvision">
+    <title>The Good Fight S6, Ep 3</title>
+</programme>
+<programme start="20260106081600 +0000" stop="20260106091000 +0000" channel="Rock Entertainment.mncvision">
+    <title>The Good Fight S6, Ep 4</title>
+</programme>
+<programme start="20260106091000 +0000" stop="20260106100000 +0000" channel="Rock Entertainment.mncvision">
+    <title>The Good Fight S6, Ep 5</title>
+</programme>
+<programme start="20260106100000 +0000" stop="20260106113000 +0000" channel="Rock Entertainment.mncvision">
+    <title>Staged Killer</title>
+</programme>
+<programme start="20260106113000 +0000" stop="20260106121500 +0000" channel="Rock Entertainment.mncvision">
+    <title>The Librarians: Next..., Ep 5</title>
+</programme>
+<programme start="20260106121500 +0000" stop="20260106130000 +0000" channel="Rock Entertainment.mncvision">
+    <title>The Librarians: Next..., Ep 6</title>
+</programme>
+<programme start="20260106130000 +0000" stop="20260106134500 +0000" channel="Rock Entertainment.mncvision">
+    <title>The Librarians: Next..., Ep 5</title>
+</programme>
+<programme start="20260106134500 +0000" stop="20260106143000 +0000" channel="Rock Entertainment.mncvision">
+    <title>The Librarians: Next..., Ep 6</title>
+</programme>
+<programme start="20260106143000 +0000" stop="20260106151500 +0000" channel="Rock Entertainment.mncvision">
+    <title>Below Deck Mediterranean, Ep 1</title>
+</programme>
+<programme start="20260106151500 +0000" stop="20260106160000 +0000" channel="Rock Entertainment.mncvision">
+    <title>The Tonight Show S13, Ep 47</title>
+</programme>
+<programme start="20260106160000 +0000" stop="20260106164500 +0000" channel="Rock Entertainment.mncvision">
+    <title>Late Night With... S13, Ep 46</title>
+</programme>
+<programme start="20260106164500 +0000" stop="20260105171500 +0000" channel="Rock Entertainment.mncvision">
+    <title>Below Deck Mediterranean, Ep 1</title>
+</programme>
 <programme start="20260105174500 +0000" stop="20260105190000 +0000" channel="SCTV.mncvision">
     <title>Bersih Bersinar Cinta Miss...</title>
 </programme>
@@ -7279,7 +7822,6 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260106160000 +0000" stop="20260106163000 +0000" channel="SCTV HD.mncvision">
     <title>Definitely Tour Guide Cinta...</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260105170000 +0000" stop="20260105173000 +0000" channel="Sindo News TV.mncvision">
     <title>iNews Sport</title>
 </programme>
@@ -7355,8 +7897,132 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260106163000 +0000" stop="20260105170000 +0000" channel="Sindo News TV.mncvision">
     <title>OMG</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260105170000 +0000" stop="20260105173000 +0000" channel="Sindo News TV HD.mncvision">
+    <title>iNews Sport</title>
+</programme>
+<programme start="20260105173000 +0000" stop="20260105180000 +0000" channel="Sindo News TV HD.mncvision">
+    <title>New Top Files</title>
+</programme>
+<programme start="20260105180000 +0000" stop="20260105190000 +0000" channel="Sindo News TV HD.mncvision">
+    <title>iNews Malam</title>
+</programme>
+<programme start="20260105190000 +0000" stop="20260105200000 +0000" channel="Sindo News TV HD.mncvision">
+    <title>SINDO Prime</title>
+</programme>
+<programme start="20260105200000 +0000" stop="20260105210000 +0000" channel="Sindo News TV HD.mncvision">
+    <title>iNews Sore</title>
+</programme>
+<programme start="20260105210000 +0000" stop="20260105220000 +0000" channel="Sindo News TV HD.mncvision">
+    <title>SINDO Sore</title>
+</programme>
+<programme start="20260105220000 +0000" stop="20260105230000 +0000" channel="Sindo News TV HD.mncvision">
+    <title>SINDO Malam</title>
+</programme>
+<programme start="20260105230000 +0000" stop="20260106000000 +0000" channel="Sindo News TV HD.mncvision">
+    <title>Lintas iNews Pagi</title>
+</programme>
+<programme start="20260106000000 +0000" stop="20260106003000 +0000" channel="Sindo News TV HD.mncvision">
+    <title>iNews Today</title>
+</programme>
+<programme start="20260106003000 +0000" stop="20260106020000 +0000" channel="Sindo News TV HD.mncvision">
+    <title>SINDO Today</title>
+</programme>
+<programme start="20260106020000 +0000" stop="20260106030000 +0000" channel="Sindo News TV HD.mncvision">
+    <title>Special Report</title>
+</programme>
+<programme start="20260106030000 +0000" stop="20260106033000 +0000" channel="Sindo News TV HD.mncvision">
+    <title>iNews Sport Pagi</title>
+</programme>
+<programme start="20260106033000 +0000" stop="20260106050000 +0000" channel="Sindo News TV HD.mncvision">
+    <title>SINDO Siang</title>
+</programme>
+<programme start="20260106050000 +0000" stop="20260106053000 +0000" channel="Sindo News TV HD.mncvision">
+    <title>Lintas iNews Siang</title>
+</programme>
+<programme start="20260106053000 +0000" stop="20260106063000 +0000" channel="Sindo News TV HD.mncvision">
+    <title>iNews Today</title>
+</programme>
+<programme start="20260106063000 +0000" stop="20260106070000 +0000" channel="Sindo News TV HD.mncvision">
+    <title>Seputar iNews Siang</title>
+</programme>
+<programme start="20260106070000 +0000" stop="20260106083000 +0000" channel="Sindo News TV HD.mncvision">
+    <title>iNews Siang</title>
+</programme>
+<programme start="20260106083000 +0000" stop="20260106093000 +0000" channel="Sindo News TV HD.mncvision">
+    <title>Special Report</title>
+</programme>
+<programme start="20260106093000 +0000" stop="20260106110000 +0000" channel="Sindo News TV HD.mncvision">
+    <title>SINDO Sore</title>
+</programme>
+<programme start="20260106110000 +0000" stop="20260106120000 +0000" channel="Sindo News TV HD.mncvision">
+    <title>SINDO Files</title>
+</programme>
+<programme start="20260106120000 +0000" stop="20260106133000 +0000" channel="Sindo News TV HD.mncvision">
+    <title>SINDO Prime</title>
+</programme>
+<programme start="20260106133000 +0000" stop="20260106143000 +0000" channel="Sindo News TV HD.mncvision">
+    <title>SINDO Malam</title>
+</programme>
+<programme start="20260106143000 +0000" stop="20260106153000 +0000" channel="Sindo News TV HD.mncvision">
+    <title>Inside Story</title>
+</programme>
+<programme start="20260106153000 +0000" stop="20260106163000 +0000" channel="Sindo News TV HD.mncvision">
+    <title>SINDO Files</title>
+</programme>
+<programme start="20260106163000 +0000" stop="20260105170000 +0000" channel="Sindo News TV HD.mncvision">
+    <title>OMG</title>
+</programme>
+<programme start="20260105183000 +0000" stop="20260105203000 +0000" channel="Soccer Channel.mncvision">
+    <title>AFC Women&#039;s Champions League</title>
+</programme>
+<programme start="20260105203000 +0000" stop="20260105210000 +0000" channel="Soccer Channel.mncvision">
+    <title>World Classic Soccer</title>
+</programme>
+<programme start="20260105210000 +0000" stop="20260105213000 +0000" channel="Soccer Channel.mncvision">
+    <title>Top Goals</title>
+</programme>
+<programme start="20260105213000 +0000" stop="20260105233000 +0000" channel="Soccer Channel.mncvision">
+    <title>SEA Games Thailand: PHI Vs MAS</title>
+</programme>
+<programme start="20260105233000 +0000" stop="20260106013000 +0000" channel="Soccer Channel.mncvision">
+    <title>European Qual.: POR Vs ARM</title>
+</programme>
+<programme start="20260106013000 +0000" stop="20260106033000 +0000" channel="Soccer Channel.mncvision">
+    <title>Bundesliga 2025/26: HDH Vs BVB</title>
+</programme>
+<programme start="20260106033000 +0000" stop="20260106040000 +0000" channel="Soccer Channel.mncvision">
+    <title>World Classic League</title>
+</programme>
+<programme start="20260106040000 +0000" stop="20260106060000 +0000" channel="Soccer Channel.mncvision">
+    <title>AFC Women&#039;s Champions League</title>
+</programme>
+<programme start="20260106060000 +0000" stop="20260106080000 +0000" channel="Soccer Channel.mncvision">
+    <title>ACL Elite: WAH Vs ITH</title>
+</programme>
+<programme start="20260106080000 +0000" stop="20260106100000 +0000" channel="Soccer Channel.mncvision">
+    <title>Bundesliga 2025/26: FCB Vs HSV</title>
+</programme>
+<programme start="20260106100000 +0000" stop="20260106103000 +0000" channel="Soccer Channel.mncvision">
+    <title>Top Goals</title>
+</programme>
+<programme start="20260106103000 +0000" stop="20260106110000 +0000" channel="Soccer Channel.mncvision">
+    <title>World Classic League</title>
+</programme>
+<programme start="20260106110000 +0000" stop="20260106112500 +0000" channel="Soccer Channel.mncvision">
+    <title>Top Goals</title>
+</programme>
+<programme start="20260106112500 +0000" stop="20260106133000 +0000" channel="Soccer Channel.mncvision">
+    <title>AFC Asian Cup: VIE Vs JOR (L)</title>
+</programme>
+<programme start="20260106133000 +0000" stop="20260106153000 +0000" channel="Soccer Channel.mncvision">
+    <title>SEA Games Thailand: LAO Vs VIE</title>
+</programme>
+<programme start="20260106153000 +0000" stop="20260106154500 +0000" channel="Soccer Channel.mncvision">
+    <title>World Classic League</title>
+</programme>
+<programme start="20260106154500 +0000" stop="20260106161500 +0000" channel="Soccer Channel.mncvision">
+    <title>AFC Asian Cup: KSA Vs KGZ (L)</title>
+</programme>
 <programme start="20260105183000 +0000" stop="20260105203000 +0000" channel="Soccer Channel HD.mncvision">
     <title>AFC Women&#039;s Champions League</title>
 </programme>
