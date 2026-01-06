@@ -176,7 +176,7 @@
         <title>Valimai</title>
     </programme>
     <programme start="20260106140000 +0000" stop="20260106160000 +0000" channel="Zee Thirai.starhub">
-        <title>Marma Bhoomi</title>
+        <title>The Smile Man</title>
     </programme>
     <programme start="20260105160000 +0000" stop="20260105163000 +0000" channel="Zee TV.starhub">
         <title>Bhabi Ji Ghar Par Hai!</title>
