@@ -434,7 +434,7 @@
 <title>SINDO Malam</title>
 </programme>
 <programme start="20260106230000 +0000" stop="20260107000000 +0000" channel="SindoNews.vision">
-<title>Lintas iNews Pagi</title>
+<title>SINDO Files</title>
 </programme>
 <programme start="20260107000000 +0000" stop="20260107003000 +0000" channel="SindoNews.vision">
 <title>iNews Today</title>
