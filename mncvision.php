@@ -8078,7 +8078,7 @@
     <title>Tinju</title>
 </programme>
 <programme start="20260107083000 +0000" stop="20260107103000 +0000" channel="Sportstars 2.mncvision">
-    <title>AFC Womens Champions League</title>
+    <title>AFC U23 Asian Cup Saudi Arabia</title>
 </programme>
 <programme start="20260107103000 +0000" stop="20260107113000 +0000" channel="Sportstars 2.mncvision">
     <title>Best Of Badminton</title>
@@ -8123,7 +8123,7 @@
     <title>Tinju</title>
 </programme>
 <programme start="20260107083000 +0000" stop="20260107103000 +0000" channel="Sportstars 2 HD.mncvision">
-    <title>AFC Womens Champions League</title>
+    <title>AFC U23 Asian Cup Saudi Arabia</title>
 </programme>
 <programme start="20260107103000 +0000" stop="20260107113000 +0000" channel="Sportstars 2 HD.mncvision">
     <title>Best Of Badminton</title>
