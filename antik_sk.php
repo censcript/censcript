@@ -14971,7 +14971,7 @@
   <programme start="20260109220000 +0000" stop="20260110041000 +0000" channel="Life TV.webtv.sk">
     <title lang="id">Program z Domu modlitieb a chvál v Kansas City</title>
   </programme>
-  <programme start="20260108225300 +0000" stop="20260109020100 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20260108225700 +0000" stop="20260109020600 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Záznam z rokovania zastupiteľstva PSK / 8.12.2025</title>
   </programme>
   <programme start="20260109040000 +0000" stop="20260109040500 +0000" channel="TV Zemplín.webtv.sk">
@@ -16468,11 +16468,8 @@
   <programme start="20260109224500 +0000" stop="20260109230000 +0000" channel="TVP World.webtv.sk">
     <title lang="id">World Talks (1673)</title>
   </programme>
-  <programme start="20260108230000 +0000" stop="20260108230600 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260108230000 +0000" stop="20260108231500 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Pogoda Info</title>
-  </programme>
-  <programme start="20260108230600 +0000" stop="20260108231500 +0000" channel="TVP Info.webtv.sk">
-    <title lang="id">Sport Info</title>
   </programme>
   <programme start="20260108231500 +0000" stop="20260108234300 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Program informacyjny 19.30</title>

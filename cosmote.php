@@ -262,10 +262,6 @@
     <title>Basketball: Golden State Warriors - Milwaukee Bucks</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260107164000 +0700" stop="20260107174500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: Extreme E 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260107174500 +0700" stop="20260107195000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Motorsports: Extreme E 2025</title>
     <desc>Live: Tidak</desc>
@@ -359,6 +355,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260108173500 +0700" stop="20260108184000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>2025 Extreme H</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260108184000 +0700" stop="20260108204500 +0700" channel="COSMOTE Sport 5 HD">
     <title>2025 Extreme H</title>
     <desc>Live: Tidak</desc>
 </programme>

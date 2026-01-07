@@ -1744,6 +1744,48 @@
 <programme start="20260107225000 +0000" stop="20260108005000 +0000" channel="Sky Cinema Action HD.skyde">
     <title>96 Hours - Taken 3 (Extended Cut)</title>
 </programme>
+<programme start="20260107001500 +0000" stop="20260107015500 +0000" channel="Sky Cinema Classics HD.skyde">
+    <title>Patient mit Dachschaden</title>
+</programme>
+<programme start="20260107015500 +0000" stop="20260107032500 +0000" channel="Sky Cinema Classics HD.skyde">
+    <title>Das Mädchen von Hongkong</title>
+</programme>
+<programme start="20260107032500 +0000" stop="20260107044500 +0000" channel="Sky Cinema Classics HD.skyde">
+    <title>Das unheimliche Fenster</title>
+</programme>
+<programme start="20260107044500 +0000" stop="20260107061500 +0000" channel="Sky Cinema Classics HD.skyde">
+    <title>Das Geheimnis der Todesinsel</title>
+</programme>
+<programme start="20260107061500 +0000" stop="20260107080500 +0000" channel="Sky Cinema Classics HD.skyde">
+    <title>Das Gold von Sam Cooper</title>
+</programme>
+<programme start="20260107080500 +0000" stop="20260107094000 +0000" channel="Sky Cinema Classics HD.skyde">
+    <title>Nur meiner Frau zuliebe</title>
+</programme>
+<programme start="20260107094000 +0000" stop="20260107112000 +0000" channel="Sky Cinema Classics HD.skyde">
+    <title>Bandidos</title>
+</programme>
+<programme start="20260107112000 +0000" stop="20260107124500 +0000" channel="Sky Cinema Classics HD.skyde">
+    <title>Oktaman - Die Bestie aus der Tiefe</title>
+</programme>
+<programme start="20260107124500 +0000" stop="20260107142500 +0000" channel="Sky Cinema Classics HD.skyde">
+    <title>Alles um Anita</title>
+</programme>
+<programme start="20260107142500 +0000" stop="20260107161000 +0000" channel="Sky Cinema Classics HD.skyde">
+    <title>Cincinnati Kid</title>
+</programme>
+<programme start="20260107161000 +0000" stop="20260107173500 +0000" channel="Sky Cinema Classics HD.skyde">
+    <title>Todeskommando Iwo Jima</title>
+</programme>
+<programme start="20260107173500 +0000" stop="20260107191500 +0000" channel="Sky Cinema Classics HD.skyde">
+    <title>Patient mit Dachschaden</title>
+</programme>
+<programme start="20260107191500 +0000" stop="20260107210000 +0000" channel="Sky Cinema Classics HD.skyde">
+    <title>Zwei tolle Kerle in Texas</title>
+</programme>
+<programme start="20260107210000 +0000" stop="20260107230500 +0000" channel="Sky Cinema Classics HD.skyde">
+    <title>Der Mann, der Liberty Valance erschoss</title>
+</programme>
 <programme start="20260106233000 +0000" stop="20260107010000 +0000" channel="Sky Cinema Family HD.skyde">
     <title>Gänsehaut 2</title>
 </programme>
