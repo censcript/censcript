@@ -2552,7 +2552,7 @@
     <title>Live United Cup: 6. Tag in Sydney (AUS)</title>
 </programme>
 <programme start="20260107020000 +0000" stop="20260107080000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live United Cup: Viertelfinale 1 in Perth (AUS)</title>
+    <title>Live United Cup: USA - GRE, Viertelfinale 1 in Perth (AUS)</title>
 </programme>
 <programme start="20260107080000 +0000" stop="20260107083000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Fußball: Heimspiel - Austria Salzburg</title>
@@ -2561,7 +2561,7 @@
     <title>Junioren: Unser Moment - ein halbes Sommermärchen</title>
 </programme>
 <programme start="20260107090000 +0000" stop="20260107150000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live United Cup: Viertelfinale 2 in Perth (AUS)</title>
+    <title>Live United Cup: SUI - ARG, Viertelfinale 2 in Perth (AUS)</title>
 </programme>
 <programme start="20260107150000 +0000" stop="20260107153000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: 90in30: FAK - RBS, 11. Runde</title>
@@ -2930,7 +2930,7 @@
     <title>PL: Under the Skin (West Ham United)</title>
 </programme>
 <programme start="20260107120000 +0000" stop="20260107130000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 1 to 11 (Thomas Hitzelsberger)</title>
+    <title>PL: 1 to 11 (Thomas Hitzlsperger)</title>
 </programme>
 <programme start="20260107130000 +0000" stop="20260107133000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: PL Rewind: MCI vs. QPR 2011/12</title>
@@ -2987,7 +2987,7 @@
     <title>Live United Cup: 6. Tag in Sydney (AUS)</title>
 </programme>
 <programme start="20260107020000 +0000" stop="20260107080000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live United Cup: Viertelfinale 1 in Perth (AUS)</title>
+    <title>Live United Cup: USA - GRE, Viertelfinale 1 in Perth (AUS)</title>
 </programme>
 <programme start="20260107080000 +0000" stop="20260107083000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Meine Geschichte: Das Leben von Boris Becker (Teil 1)</title>
@@ -2996,13 +2996,13 @@
     <title>Meine Geschichte: Das Leben von Boris Becker (Teil 2)</title>
 </programme>
 <programme start="20260107090000 +0000" stop="20260107150000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live United Cup: Viertelfinale 2 in Perth (AUS)</title>
+    <title>Live United Cup: SUI - ARG, Viertelfinale 2 in Perth (AUS)</title>
 </programme>
 <programme start="20260107150000 +0000" stop="20260107170000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: T. Maria (GER) - A. Anisimova (USA), HSBC Championships in London (GBR), Finale</title>
 </programme>
 <programme start="20260107170000 +0000" stop="20260107230000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>United Cup: Viertelfinale 1 in Perth (AUS)</title>
+    <title>United Cup: USA - GRE, Viertelfinale 1 in Perth (AUS)</title>
 </programme>
 <programme start="20260106233000 +0000" stop="20260107003000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live United Cup: 6. Tag in Sydney (AUS)</title>
@@ -3017,7 +3017,7 @@
     <title>Live NBA: Dallas Mavericks @ Sacramento Kings</title>
 </programme>
 <programme start="20260107070000 +0000" stop="20260107080000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live United Cup: Viertelfinale 1 in Perth (AUS)</title>
+    <title>Live United Cup: USA - GRE, Viertelfinale 1 in Perth (AUS)</title>
 </programme>
 <programme start="20260107080000 +0000" stop="20260107083000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Meine Geschichte: Das Leben von Boris Becker (Teil 1)</title>
@@ -3026,7 +3026,7 @@
     <title>Meine Geschichte: Das Leben von Boris Becker (Teil 2)</title>
 </programme>
 <programme start="20260107090000 +0000" stop="20260107150000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live United Cup: Viertelfinale 2 in Perth (AUS)</title>
+    <title>Live United Cup: SUI - ARG, Viertelfinale 2 in Perth (AUS)</title>
 </programme>
 <programme start="20260107150000 +0000" stop="20260107151500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Chasing the Dream: Die neue Generation</title>
@@ -3136,9 +3136,6 @@
 <programme start="20260107221500 +0000" stop="20260108001500 +0000" channel="Sky Sport UHD.skyde">
     <title>F1: Rennen - GP Abu Dhabi</title>
 </programme>
-<programme start="20260107001000 +0000" stop="20260107003000 +0000" channel="Sky Sport 1 HD.skyde">
-    <title>Es folgt: Basketball NBA</title>
-</programme>
 <programme start="20260107003000 +0000" stop="20260107010000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime</title>
 </programme>
@@ -3151,7 +3148,7 @@
 <programme start="20260107190000 +0000" stop="20260107192000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: LIVE PL</title>
 </programme>
-<programme start="20260107192000 +0000" stop="20260107213000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260107192000 +0000" stop="20260107220000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live PL: Manchester City - Brighton &amp; Hove Albion, 21. Spieltag</title>
 </programme>
 <programme start="20260107190000 +0000" stop="20260107192000 +0000" channel="Sky Sport 2 HD.skyde">
@@ -3163,31 +3160,31 @@
 <programme start="20260107190000 +0000" stop="20260107192000 +0000" channel="Sky Sport 3 HD.skyde">
     <title>Es folgt: LIVE PL</title>
 </programme>
-<programme start="20260107192000 +0000" stop="20260107213000 +0000" channel="Sky Sport 3 HD.skyde">
+<programme start="20260107192000 +0000" stop="20260107220000 +0000" channel="Sky Sport 3 HD.skyde">
     <title>Live PL: AFC Bournemouth - Tottenham Hotspur, 21. Spieltag</title>
 </programme>
 <programme start="20260107190000 +0000" stop="20260107192000 +0000" channel="Sky Sport 4 HD.skyde">
     <title>Es folgt: LIVE PL</title>
 </programme>
-<programme start="20260107192000 +0000" stop="20260107213000 +0000" channel="Sky Sport 4 HD.skyde">
+<programme start="20260107192000 +0000" stop="20260107220000 +0000" channel="Sky Sport 4 HD.skyde">
     <title>Live PL: FC Brentford - AFC Sunderland, 21. Spieltag</title>
 </programme>
 <programme start="20260107190000 +0000" stop="20260107192000 +0000" channel="Sky Sport 5 HD.skyde">
     <title>Es folgt: LIVE PL</title>
 </programme>
-<programme start="20260107192000 +0000" stop="20260107213000 +0000" channel="Sky Sport 5 HD.skyde">
+<programme start="20260107192000 +0000" stop="20260107220000 +0000" channel="Sky Sport 5 HD.skyde">
     <title>Live PL: Crystal Palace - Aston Villa, 21. Spieltag</title>
 </programme>
 <programme start="20260107190000 +0000" stop="20260107192000 +0000" channel="Sky Sport 6 HD.skyde">
     <title>Es folgt: LIVE PL</title>
 </programme>
-<programme start="20260107192000 +0000" stop="20260107213000 +0000" channel="Sky Sport 6 HD.skyde">
+<programme start="20260107192000 +0000" stop="20260107220000 +0000" channel="Sky Sport 6 HD.skyde">
     <title>Live PL: FC Everton - Wolverhampton Wanderers, 21. Spieltag</title>
 </programme>
 <programme start="20260107194500 +0000" stop="20260107200500 +0000" channel="Sky Sport 7 HD.skyde">
     <title>Es folgt: LIVE PL</title>
 </programme>
-<programme start="20260107200500 +0000" stop="20260107221500 +0000" channel="Sky Sport 7 HD.skyde">
+<programme start="20260107200500 +0000" stop="20260107224500 +0000" channel="Sky Sport 7 HD.skyde">
     <title>Live PL: FC Burnley - Manchester United, 21. Spieltag</title>
 </programme>
 <programme start="20260106232000 +0000" stop="20260107000500 +0000" channel="SYFY HD.skyde">

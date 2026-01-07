@@ -2131,20 +2131,17 @@
     <programme start="20260107110000 +0000" stop="20260107120000 +0000" channel="CNN HD.starhub">
         <title>CNN This Morning</title>
     </programme>
-    <programme start="20260107120000 +0000" stop="20260107133000 +0000" channel="CNN HD.starhub">
+    <programme start="20260107120000 +0000" stop="20260107130000 +0000" channel="CNN HD.starhub">
         <title>CNN News Central</title>
     </programme>
-    <programme start="20260107133000 +0000" stop="20260107140000 +0000" channel="CNN HD.starhub">
-        <title>World Sport (30m)</title>
+    <programme start="20260107130000 +0000" stop="20260107140000 +0000" channel="CNN HD.starhub">
+        <title>CNN News Central</title>
     </programme>
-    <programme start="20260107140000 +0000" stop="20260107144500 +0000" channel="CNN HD.starhub">
-        <title>Connect the World (45m)</title>
-    </programme>
-    <programme start="20260107144500 +0000" stop="20260107150000 +0000" channel="CNN HD.starhub">
-        <title>World Sport (15m)</title>
+    <programme start="20260107140000 +0000" stop="20260107150000 +0000" channel="CNN HD.starhub">
+        <title>Connect the World (60m)</title>
     </programme>
     <programme start="20260107150000 +0000" stop="20260107160000 +0000" channel="CNN HD.starhub">
-        <title>Connect the World (45m)</title>
+        <title>Connect the World (60m)</title>
     </programme>
     <programme start="20260106133000 +0000" stop="20260106170000 +0000" channel="KTV HD.starhub">
         <title>Movie - Peranmai</title>

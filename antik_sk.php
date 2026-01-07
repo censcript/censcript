@@ -1604,7 +1604,7 @@
     <title lang="id">Biznis</title>
   </programme>
   <programme start="20260109133000 +0000" stop="20260109140000 +0000" channel="TA3.webtv.sk">
-    <title lang="id">Zdravie na TA3</title>
+    <title lang="id">Správy</title>
   </programme>
   <programme start="20260109140000 +0000" stop="20260109143000 +0000" channel="TA3.webtv.sk">
     <title lang="id">Správy</title>
@@ -1754,7 +1754,7 @@
     <title lang="id">Život s vrahom (6)</title>
   </programme>
   <programme start="20260108235500 +0000" stop="20260109003500 +0000" channel="Kanal1.webtv.sk">
-    <title lang="id">Téma s Petrom Bielikom</title>
+    <title lang="id">Téma - Marián Kéry a Juraj Krúpa</title>
   </programme>
   <programme start="20260109003500 +0000" stop="20260109012500 +0000" channel="Kanal1.webtv.sk">
     <title lang="id">Život vo vesmíre (1)</title>
@@ -1784,13 +1784,13 @@
     <title lang="id">Skutočné zlo (2)</title>
   </programme>
   <programme start="20260109080000 +0000" stop="20260109084000 +0000" channel="Kanal1.webtv.sk">
-    <title lang="id">Téma s Petrom Bielikom</title>
+    <title lang="id">Téma - Marián Kéry a Juraj Krúpa</title>
   </programme>
   <programme start="20260109084000 +0000" stop="20260109093500 +0000" channel="Kanal1.webtv.sk">
     <title lang="id">Inspektor Taggart: Vražda na začátku sezóny (1) I (1)</title>
   </programme>
   <programme start="20260109093500 +0000" stop="20260109100000 +0000" channel="Kanal1.webtv.sk">
-    <title lang="id">Cestujeme bez batožiny - Maldivy: Male Avadu (14)</title>
+    <title lang="id">Cestujeme bez batožiny: Maldivy: Male Avadu (14)</title>
   </programme>
   <programme start="20260109100000 +0000" stop="20260109105000 +0000" channel="Kanal1.webtv.sk">
     <title lang="id">Ako prehrať vojnu (1)</title>
@@ -1808,13 +1808,13 @@
     <title lang="id">Vraždy v raji (5)</title>
   </programme>
   <programme start="20260109140000 +0000" stop="20260109144000 +0000" channel="Kanal1.webtv.sk">
-    <title lang="id">Téma s Petrom Bielikom</title>
+    <title lang="id">Téma - Marián Kéry a Juraj Krúpa</title>
   </programme>
   <programme start="20260109144000 +0000" stop="20260109151000 +0000" channel="Kanal1.webtv.sk">
-    <title lang="id">Cestujeme bez batožiny - Potápanie na Maldivách (11)</title>
+    <title lang="id">Cestujeme bez batožiny: Potápanie na Maldivách (11)</title>
   </programme>
   <programme start="20260109151000 +0000" stop="20260109154000 +0000" channel="Kanal1.webtv.sk">
-    <title lang="id">Cestujeme bez batožiny - Maldivy: Meedhupparu (13)</title>
+    <title lang="id">Cestujeme bez batožiny: Maldivy: Meedhupparu (13)</title>
   </programme>
   <programme start="20260109154000 +0000" stop="20260109172500 +0000" channel="Kanal1.webtv.sk">
     <title lang="id">Slovenská klasika: Boxer a smrť</title>

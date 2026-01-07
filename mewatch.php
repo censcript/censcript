@@ -637,56 +637,47 @@
     <programme start="20260107140000 +0000" stop="20260107163500 +0000" channel="now-80s.mewatch">
         <title>Limahl&#039;s Never Ending Soundtracks! - EP1</title>
     </programme>
-    <programme start="20260106160000 +0000" stop="20260106162500 +0000" channel="now-70s.mewatch">
+    <programme start="20260106160000 +0000" stop="20260106191000 +0000" channel="now-70s.mewatch">
+        <title>Pat Sharp&#039;s 40 Guilty Pleasures! - EP1</title>
+    </programme>
+    <programme start="20260106191000 +0000" stop="20260106200000 +0000" channel="now-70s.mewatch">
         <title>Magic Moments! The 70s - EP1</title>
     </programme>
-    <programme start="20260106162500 +0000" stop="20260106191000 +0000" channel="now-70s.mewatch">
-        <title>Bruno Brookes-Never Even A Top 10? - EP1</title>
+    <programme start="20260106200000 +0000" stop="20260106220000 +0000" channel="now-70s.mewatch">
+        <title>What The Heck Kept This Off No.1? - EP1</title>
     </programme>
-    <programme start="20260106191000 +0000" stop="20260106192500 +0000" channel="now-70s.mewatch">
-        <title>Punk &amp; Disorderly! - EP1</title>
+    <programme start="20260106220000 +0000" stop="20260106230000 +0000" channel="now-70s.mewatch">
+        <title>Simon Bates Golden Hour: 1975 - EP1</title>
     </programme>
-    <programme start="20260106192500 +0000" stop="20260106204500 +0000" channel="now-70s.mewatch">
-        <title>Not A Top 10?! Punk &amp; New Wave - EP1</title>
+    <programme start="20260106230000 +0000" stop="20260106235000 +0000" channel="now-70s.mewatch">
+        <title>Who Won Wot in 1975? - EP1</title>
     </programme>
-    <programme start="20260106204500 +0000" stop="20260106210000 +0000" channel="now-70s.mewatch">
-        <title>Punk &amp; Disorderly! - EP1</title>
+    <programme start="20260106235000 +0000" stop="20260107000000 +0000" channel="now-70s.mewatch">
+        <title>All Day - It&#039;s 1975! - EP1</title>
     </programme>
-    <programme start="20260106210000 +0000" stop="20260107020000 +0000" channel="now-70s.mewatch">
-        <title>One Hit Wonders! 1970-1979 - EP1</title>
+    <programme start="20260107000000 +0000" stop="20260107020500 +0000" channel="now-70s.mewatch">
+        <title>Sally James&#039; Bubblegum Pop! - EP1</title>
     </programme>
-    <programme start="20260107020000 +0000" stop="20260107050000 +0000" channel="now-70s.mewatch">
-        <title>The NOW Yearbook 1977 - EP1</title>
+    <programme start="20260107020500 +0000" stop="20260107030000 +0000" channel="now-70s.mewatch">
+        <title>All Day - It&#039;s 1975! - EP1</title>
     </programme>
-    <programme start="20260107050000 +0000" stop="20260107073500 +0000" channel="now-70s.mewatch">
-        <title>The NOW Yearbook 1973 - EP1</title>
+    <programme start="20260107030000 +0000" stop="20260107040000 +0000" channel="now-70s.mewatch">
+        <title>The 1975 POWER Hour with Bam! - EP1</title>
     </programme>
-    <programme start="20260107073500 +0000" stop="20260107080000 +0000" channel="now-70s.mewatch">
-        <title>1973 Unleashed! - EP1</title>
+    <programme start="20260107040000 +0000" stop="20260107050000 +0000" channel="now-70s.mewatch">
+        <title>American No.1s of 1975 - EP1</title>
     </programme>
-    <programme start="20260107080000 +0000" stop="20260107093000 +0000" channel="now-70s.mewatch">
-        <title>Essentials! 70s Crooners - EP1</title>
+    <programme start="20260107050000 +0000" stop="20260107060000 +0000" channel="now-70s.mewatch">
+        <title>Mark Goodier&#039;s No.1s of 1975 - EP1</title>
     </programme>
-    <programme start="20260107093000 +0000" stop="20260107095500 +0000" channel="now-70s.mewatch">
-        <title>Magic Moments! The 70s - EP1</title>
+    <programme start="20260107060000 +0000" stop="20260107070000 +0000" channel="now-70s.mewatch">
+        <title>All Day - It&#039;s 1975! - EP1</title>
     </programme>
-    <programme start="20260107095500 +0000" stop="20260107103000 +0000" channel="now-70s.mewatch">
-        <title>Bruno Brookes-Never Even A Top 10? - EP1</title>
+    <programme start="20260107070000 +0000" stop="20260107160000 +0000" channel="now-70s.mewatch">
+        <title>Who Won Wot? 1970-1979 - EP1</title>
     </programme>
-    <programme start="20260107103000 +0000" stop="20260107120000 +0000" channel="now-70s.mewatch">
-        <title>The 30 Grooviest Stars of the 60s! - EP1</title>
-    </programme>
-    <programme start="20260107120000 +0000" stop="20260107140500 +0000" channel="now-70s.mewatch">
-        <title>Tony Blackburn&#039;s Swinging 60s! - EP1</title>
-    </programme>
-    <programme start="20260107140500 +0000" stop="20260107150000 +0000" channel="now-70s.mewatch">
-        <title>Far Out, Man! - EP1</title>
-    </programme>
-    <programme start="20260107150000 +0000" stop="20260107160000 +0000" channel="now-70s.mewatch">
-        <title>John, Paul, George &amp; Ringo! - EP1</title>
-    </programme>
-    <programme start="20260107160000 +0000" stop="20260107172500 +0000" channel="now-70s.mewatch">
-        <title>The 30 Grooviest Stars of the 60s! - EP1</title>
+    <programme start="20260107160000 +0000" stop="20260107170000 +0000" channel="now-70s.mewatch">
+        <title>Mark Goodier&#039;s No.1s of 1975 - EP1</title>
     </programme>
     <programme start="20260106153000 +0000" stop="20260106172000 +0000" channel="cinemaworld.mewatch">
         <title>A River Within</title>
