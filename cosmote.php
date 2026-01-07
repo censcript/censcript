@@ -62,6 +62,10 @@
     <title>UEL &amp; UECL Magazine 2025-26 E8</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260109024500 +0700" stop="20260109044500 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: AC Milan - Genoa (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
 <programme start="20260108003000 +0700" stop="20260108023000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: SSC Napoli - Hellas Verona (L)</title>
     <desc>Live: Ya</desc>
@@ -121,6 +125,10 @@
 <programme start="20260109003000 +0700" stop="20260109023000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Cremonese - Cagliari (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20260109023000 +0700" stop="20260109050000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: PAOK - Atromitos</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260108003000 +0700" stop="20260108023000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Bologna - Atalanta (L)</title>
@@ -182,8 +190,8 @@
     <title>Football: Gil Vicente - Sporting CP</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260107231500 +0700" stop="20260108011500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Real Madrid - Barcelona</title>
+<programme start="20260109020000 +0700" stop="20260109030000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Emirates FA Cup 2025-26 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260108011500 +0700" stop="20260108020500 +0700" channel="COSMOTE Sport 4 HD">
@@ -253,14 +261,6 @@
 <programme start="20260109013000 +0700" stop="20260109034000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Promitheas - Elan Chalon (L)</title>
     <desc>Live: Ya</desc>
-</programme>
-<programme start="20260108000500 +0700" stop="20260108011500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>MotoGP Classics</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260108011500 +0700" stop="20260108014500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC 2025</title>
-    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260108014500 +0700" stop="20260108024500 +0700" channel="COSMOTE Sport 5 HD">
     <title>2025 GT World Challenge Europe</title>
@@ -350,12 +350,8 @@
     <title>Extreme E - Highlights 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260107230000 +0700" stop="20260108013000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Volleyball: Panathinaikos - Poitiers (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20260108013000 +0700" stop="20260108020000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Premier Padel Tour 2025 - Highlights</title>
+<programme start="20260109021500 +0700" stop="20260109032000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260108020000 +0700" stop="20260108043000 +0700" channel="COSMOTE Sport 6 HD">
@@ -418,8 +414,8 @@
     <title>Volleyball: Olympiacos - Zeleznicar (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260108010000 +0700" stop="20260108013000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
+<programme start="20260109023000 +0700" stop="20260109050000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: ATP 250 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260108013000 +0700" stop="20260108040000 +0700" channel="COSMOTE Sport 7 HD">
@@ -477,6 +473,10 @@
 <programme start="20260109003000 +0700" stop="20260109023000 +0700" channel="COSMOTE Sport 7 HD">
     <title>Football: Al Nassr - Al-Qadsiah (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20260109023000 +0700" stop="20260109030000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260108010000 +0700" stop="20260108030000 +0700" channel="COSMOTE Sport 8 HD">
     <title>COSMOTESport8HD</title>
