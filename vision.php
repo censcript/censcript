@@ -700,6 +700,9 @@
 <programme start="20260107113000 +0000" stop="20260107130000 +0000" channel="ANTV.vision">
 <title>Senandung Cinta Lilis</title>
 </programme>
+<programme start="20260107130000 +0000" stop="20260107150000 +0000" channel="ANTV.vision">
+<title>Si Buta Dari Gua Hantu</title>
+</programme>
 <programme start="20260107150000 +0000" stop="20260107170000 +0000" channel="ANTV.vision">
 <title>Gengsi Dong</title>
 </programme>
@@ -873,6 +876,9 @@
 </programme>
 <programme start="20260107110000 +0000" stop="20260107130000 +0000" channel="TVOne.vision">
 <title>Apa Kabar Indonesia Malam (L)</title>
+</programme>
+<programme start="20260107130000 +0000" stop="20260107140000 +0000" channel="TVOne.vision">
+<title>Indonesia Business Forum (L)</title>
 </programme>
 <programme start="20260107140000 +0000" stop="20260107150000 +0000" channel="TVOne.vision">
 <title>Kabar Utama (L)</title>
@@ -1490,11 +1496,5 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260107070000 +0000" stop="20260107090000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260107090000 +0000" stop="20260107110000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260107110000 +0000" stop="20260107130000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>

@@ -122,6 +122,10 @@
     <title>Football: Olympiacos - Kifisia</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260109003000 +0700" stop="20260109023000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Cremonese - Cagliari (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
 <programme start="20260107222000 +0700" stop="20260108003000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Rangers FC - Aberdeen</title>
     <desc>Live: Tidak</desc>
@@ -182,8 +186,8 @@
     <title>Football: Al Hilal - Al-Hazem FC (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260107213000 +0700" stop="20260107231500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Pick n&#039; Roll</title>
+<programme start="20260109000000 +0700" stop="20260109020000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Gil Vicente - Sporting CP</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260107231500 +0700" stop="20260108011500 +0700" channel="COSMOTE Sport 4 HD">
@@ -414,6 +418,10 @@
     <title>Sports Classics: 2025 Outdoor Specials</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260109000000 +0700" stop="20260109023000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Volleyball: Olympiacos - Zeleznicar (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
 <programme start="20260107230000 +0700" stop="20260108010000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
@@ -469,6 +477,14 @@
 <programme start="20260108230000 +0700" stop="20260109000000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260109000000 +0700" stop="20260109003000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260109003000 +0700" stop="20260109023000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>Football: Al Nassr - Al-Qadsiah (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260107230000 +0700" stop="20260108010000 +0700" channel="COSMOTE Sport 8 HD">
     <title>COSMOTESport8HD</title>
