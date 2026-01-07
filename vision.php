@@ -661,6 +661,9 @@
 <programme start="20260106230000 +0000" stop="20260107003000 +0000" channel="ANTV.vision">
 <title>Catatan Hati</title>
 </programme>
+<programme start="20260107003000 +0000" stop="20260107023000 +0000" channel="ANTV.vision">
+<title>Boleh Dong Untung Terus</title>
+</programme>
 <programme start="20260107023000 +0000" stop="20260107060000 +0000" channel="ANTV.vision">
 <title>Shakti: The Power</title>
 </programme>
@@ -1493,8 +1496,5 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260107190000 +0000" stop="20260107210000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260107210000 +0000" stop="20260107230000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>

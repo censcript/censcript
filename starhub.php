@@ -1495,7 +1495,7 @@
     <programme start="20260107153500 +0000" stop="20260107160500 +0000" channel="Lifetime HD.starhub">
         <title>Sensory Overload</title>
     </programme>
-    <programme start="20260106140000 +0000" stop="20260106170000 +0000" channel="COLORS Tamil HD.starhub">
+    <programme start="20260106160000 +0000" stop="20260106170000 +0000" channel="COLORS Tamil HD.starhub">
         <title>Kuruthi Aattam</title>
     </programme>
     <programme start="20260106170000 +0000" stop="20260106173000 +0000" channel="COLORS Tamil HD.starhub">
@@ -2075,10 +2075,10 @@
         <title>One World (60m)</title>
     </programme>
     <programme start="20260106170000 +0000" stop="20260106180000 +0000" channel="CNN HD.starhub">
-        <title>One World (60m)</title>
+        <title>Amanpour</title>
     </programme>
     <programme start="20260106180000 +0000" stop="20260106190000 +0000" channel="CNN HD.starhub">
-        <title>Amanpour</title>
+        <title>One World (60m)</title>
     </programme>
     <programme start="20260106190000 +0000" stop="20260106200000 +0000" channel="CNN HD.starhub">
         <title>Isa Soares Tonight (60m)</title>

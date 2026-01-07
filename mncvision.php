@@ -400,14 +400,11 @@
 <programme start="20260107023000 +0000" stop="20260107060000 +0000" channel="ANTV.mncvision">
     <title>Shakti: The Power</title>
 </programme>
-<programme start="20260107060000 +0000" stop="20260107080000 +0000" channel="ANTV.mncvision">
+<programme start="20260107060000 +0000" stop="20260107090000 +0000" channel="ANTV.mncvision">
     <title>Jhanak</title>
 </programme>
-<programme start="20260107080000 +0000" stop="20260107093000 +0000" channel="ANTV.mncvision">
+<programme start="20260107090000 +0000" stop="20260107113000 +0000" channel="ANTV.mncvision">
     <title>Shani</title>
-</programme>
-<programme start="20260107093000 +0000" stop="20260107113000 +0000" channel="ANTV.mncvision">
-    <title>Pendekar Jagad Kelana</title>
 </programme>
 <programme start="20260107113000 +0000" stop="20260107130000 +0000" channel="ANTV.mncvision">
     <title>Senandung Cinta Lilis</title>

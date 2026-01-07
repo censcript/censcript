@@ -54,10 +54,6 @@
     <title>Football: AC Sparta Praha - Aberdeen</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260107100000 +0700" stop="20260107120000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Lecce - AS Roma</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260107120000 +0700" stop="20260107141000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Aris - Panetolikos</title>
     <desc>Live: Tidak</desc>
@@ -112,6 +108,10 @@
 </programme>
 <programme start="20260108100000 +0700" stop="20260108120000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: SS Lazio - ACF Fiorentina</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260108120000 +0700" stop="20260108140500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Volos - Kifisia</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260107110000 +0700" stop="20260107130000 +0700" channel="COSMOTE Sport 3 HD">
@@ -398,8 +398,8 @@
     <title>ATP 2025 - Review</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260107090000 +0700" stop="20260107120000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>NBA TV 2024-25</title>
+<programme start="20260108120000 +0700" stop="20260108143000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Volleyball: Apeldoorn - Olympiacos</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260107120000 +0700" stop="20260107130000 +0700" channel="COSMOTE Sport 7 HD">
