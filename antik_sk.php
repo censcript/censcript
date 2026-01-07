@@ -1237,10 +1237,10 @@
   <programme start="20260109223000 +0000" stop="20260110005000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Basketbal - Tipos SBL</title>
   </programme>
-  <programme start="20260108215500 +0000" stop="20260109003000 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260108220000 +0000" stop="20260109010000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Hokej - Tipos SHL</title>
   </programme>
-  <programme start="20260109003000 +0000" stop="20260109025500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260109010000 +0000" stop="20260109025500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Futbal - Konferenčná liga</title>
   </programme>
   <programme start="20260109025500 +0000" stop="20260109035000 +0000" channel="JOJ Šport 2.webtv.sk">
