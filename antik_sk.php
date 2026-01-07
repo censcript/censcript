@@ -3740,13 +3740,13 @@
     <title lang="id">Myšák Tip I</title>
   </programme>
   <programme start="20260109112500 +0000" stop="20260109113000 +0000" channel="ČT :D - ČT art.webtv.sk">
-    <title lang="id">Mlsné medvědí příběhy</title>
+    <title lang="id">Mlsné medvědí příběhy I (1)</title>
   </programme>
   <programme start="20260109113000 +0000" stop="20260109114000 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Čtení do ouška: Čertovské pohádky</title>
   </programme>
   <programme start="20260109114000 +0000" stop="20260109115000 +0000" channel="ČT :D - ČT art.webtv.sk">
-    <title lang="id">My tři braši od muziky</title>
+    <title lang="id">My tři braši od muziky I (5)</title>
   </programme>
   <programme start="20260109115000 +0000" stop="20260109120000 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Hopsasa</title>
@@ -4684,13 +4684,13 @@
   <programme start="20260109093500 +0000" stop="20260109103000 +0000" channel="A11.webtv.sk">
     <title lang="id">Co vy na to!?</title>
   </programme>
-  <programme start="20260109103000 +0000" stop="20260109112000 +0000" channel="A11.webtv.sk">
+  <programme start="20260109103000 +0000" stop="20260109111500 +0000" channel="A11.webtv.sk">
     <title lang="id">Pozor vlak</title>
   </programme>
-  <programme start="20260109112000 +0000" stop="20260109115000 +0000" channel="A11.webtv.sk">
+  <programme start="20260109111500 +0000" stop="20260109114500 +0000" channel="A11.webtv.sk">
     <title lang="id">A11 rozhovor</title>
   </programme>
-  <programme start="20260109115000 +0000" stop="20260109121500 +0000" channel="A11.webtv.sk">
+  <programme start="20260109114500 +0000" stop="20260109121500 +0000" channel="A11.webtv.sk">
     <title lang="id">Zločin jak ho pamatuju</title>
   </programme>
   <programme start="20260109121500 +0000" stop="20260109131000 +0000" channel="A11.webtv.sk">
