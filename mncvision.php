@@ -1153,8 +1153,54 @@
 <programme start="20260107160000 +0000" stop="20260107163000 +0000" channel="beIN Sports 1 HD.mncvision">
     <title>LaLiga Archive: ATM Vs ALM</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260106170000 +0000" stop="20260106180000 +0000" channel="beIN Sports 2.mncvision">
+    <title>AO Originals 2026: AO25 Film</title>
+</programme>
+<programme start="20260106180000 +0000" stop="20260106183000 +0000" channel="beIN Sports 2.mncvision">
+    <title>Australian Open Classic: 1981</title>
+</programme>
+<programme start="20260106183000 +0000" stop="20260106230000 +0000" channel="beIN Sports 2.mncvision">
+    <title>United Cup 2026: Day 5</title>
+</programme>
+<programme start="20260106230000 +0000" stop="20260107040000 +0000" channel="beIN Sports 2.mncvision">
+    <title>United Cup 2026: Day 6 (L)</title>
+</programme>
+<programme start="20260107040000 +0000" stop="20260107090000 +0000" channel="beIN Sports 2.mncvision">
+    <title>United Cup 2026: Day 6 (L)</title>
+</programme>
+<programme start="20260107090000 +0000" stop="20260107120000 +0000" channel="beIN Sports 2.mncvision">
+    <title>United Cup 2026: Night 6 (L)</title>
+</programme>
+<programme start="20260107120000 +0000" stop="20260107153000 +0000" channel="beIN Sports 2.mncvision">
+    <title>United Cup 2026: Night 6 (L)</title>
+</programme>
+<programme start="20260107153000 +0000" stop="20260107160000 +0000" channel="beIN Sports 2.mncvision">
+    <title>United Cup 2026: Day 6 QF 1</title>
+</programme>
+<programme start="20260106170000 +0000" stop="20260106180000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>AO Originals 2026: AO25 Film</title>
+</programme>
+<programme start="20260106180000 +0000" stop="20260106183000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>Australian Open Classic: 1981</title>
+</programme>
+<programme start="20260106183000 +0000" stop="20260106230000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>United Cup 2026: Day 5</title>
+</programme>
+<programme start="20260106230000 +0000" stop="20260107040000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>United Cup 2026: Day 6 (L)</title>
+</programme>
+<programme start="20260107040000 +0000" stop="20260107090000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>United Cup 2026: Day 6 (L)</title>
+</programme>
+<programme start="20260107090000 +0000" stop="20260107120000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>United Cup 2026: Night 6 (L)</title>
+</programme>
+<programme start="20260107120000 +0000" stop="20260107153000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>United Cup 2026: Night 6 (L)</title>
+</programme>
+<programme start="20260107153000 +0000" stop="20260107160000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>United Cup 2026: Day 6 QF 1</title>
+</programme>
 <programme start="20260106175000 +0000" stop="20260106194000 +0000" channel="beIN Sports 3.mncvision">
     <title>UECL 2025/26: SHA Vs HAM</title>
 </programme>

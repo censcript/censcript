@@ -114,6 +114,10 @@
     <title>Football: Volos - Kifisia</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260108140500 +0700" stop="20260108160000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Bologna - Atalanta</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260107130000 +0700" stop="20260107150000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Birmingham City - Coventry City</title>
     <desc>Live: Tidak</desc>
@@ -242,10 +246,6 @@
     <title>Basketball: Besiktas - Fenerbahce</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260107123500 +0700" stop="20260107133500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260107133500 +0700" stop="20260107143500 +0700" channel="COSMOTE Sport 5 HD">
     <title>WRC</title>
     <desc>Live: Tidak</desc>
@@ -342,6 +342,10 @@
     <title>Highlights: Moto2 &amp; Moto3 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260108142000 +0700" stop="20260108152000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: MotoGP</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260107110000 +0700" stop="20260107143000 +0700" channel="COSMOTE Sport 6 HD">
     <title>2025 Premier Padel Tour Finals</title>
     <desc>Live: Tidak</desc>
@@ -400,6 +404,10 @@
 </programme>
 <programme start="20260108120000 +0700" stop="20260108143000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Volleyball: Apeldoorn - Olympiacos</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260108143000 +0700" stop="20260108170000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: ATP 250 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260107130000 +0700" stop="20260107150000 +0700" channel="COSMOTE Sport 7 HD">
