@@ -2552,7 +2552,7 @@
     <title>Live United Cup: 6. Tag in Sydney (AUS)</title>
 </programme>
 <programme start="20260107020000 +0000" stop="20260107080000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live United Cup: USA - GRE, Viertelfinale 1 in Perth (AUS)</title>
+    <title>Live United Cup: Viertelfinale 1 in Perth (AUS)</title>
 </programme>
 <programme start="20260107080000 +0000" stop="20260107083000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Fußball: Heimspiel - Austria Salzburg</title>
@@ -2561,7 +2561,7 @@
     <title>Junioren: Unser Moment - ein halbes Sommermärchen</title>
 </programme>
 <programme start="20260107090000 +0000" stop="20260107150000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live United Cup: SUI - ARG, Viertelfinale 2 in Perth (AUS)</title>
+    <title>Live United Cup: Viertelfinale 2 in Perth (AUS)</title>
 </programme>
 <programme start="20260107150000 +0000" stop="20260107153000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: 90in30: FAK - RBS, 11. Runde</title>
@@ -2930,7 +2930,7 @@
     <title>PL: Under the Skin (West Ham United)</title>
 </programme>
 <programme start="20260107120000 +0000" stop="20260107130000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 1 to 11 (Thomas Hitzlsperger)</title>
+    <title>PL: 1 to 11 (Thomas Hitzelsberger)</title>
 </programme>
 <programme start="20260107130000 +0000" stop="20260107133000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: PL Rewind: MCI vs. QPR 2011/12</title>
@@ -3157,13 +3157,13 @@
 <programme start="20260107190000 +0000" stop="20260107192000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Es folgt: LIVE PL</title>
 </programme>
-<programme start="20260107192000 +0000" stop="20260107213000 +0000" channel="Sky Sport 2 HD.skyde">
+<programme start="20260107192000 +0000" stop="20260107220000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live PL: FC Fulham - FC Chelsea, 21. Spieltag</title>
 </programme>
 <programme start="20260107190000 +0000" stop="20260107192000 +0000" channel="Sky Sport 3 HD.skyde">
     <title>Es folgt: LIVE PL</title>
 </programme>
-<programme start="20260107192000 +0000" stop="20260107220000 +0000" channel="Sky Sport 3 HD.skyde">
+<programme start="20260107192000 +0000" stop="20260107213000 +0000" channel="Sky Sport 3 HD.skyde">
     <title>Live PL: AFC Bournemouth - Tottenham Hotspur, 21. Spieltag</title>
 </programme>
 <programme start="20260107190000 +0000" stop="20260107192000 +0000" channel="Sky Sport 4 HD.skyde">

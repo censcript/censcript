@@ -1573,7 +1573,7 @@
     <programme start="20260107123000 +0000" stop="20260107140000 +0000" channel="COLORS Tamil HD.starhub">
         <title>Bigg Boss Unseen</title>
     </programme>
-    <programme start="20260107140000 +0000" stop="20260107170000 +0000" channel="COLORS Tamil HD.starhub">
+    <programme start="20260107140000 +0000" stop="20260107160000 +0000" channel="COLORS Tamil HD.starhub">
         <title>Nitham Oru Vaanam</title>
     </programme>
     <programme start="20260106160000 +0000" stop="20260106180000 +0000" channel="TVBS Asia.starhub">
