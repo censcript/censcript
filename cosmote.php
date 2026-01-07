@@ -62,6 +62,10 @@
     <title>Football: AC Milan - Genoa (L)</title>
     <desc>Live: Ya</desc>
 </programme>
+<programme start="20260109044500 +0700" stop="20260109064500 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: Juventus Football Club - Pafos FC</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260108024500 +0700" stop="20260108044500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: SS Lazio - ACF Fiorentina (L)</title>
     <desc>Live: Ya</desc>
@@ -334,10 +338,6 @@
     <title>Basketball: Karditsa - KK Spartak</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260108020000 +0700" stop="20260108040000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: Andrey Rublev - Yibing Wu</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260108040000 +0700" stop="20260108043000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Sports Classics: The Outdoor Sports Show 2025</title>
     <desc>Live: Tidak</desc>
@@ -405,10 +405,6 @@
 <programme start="20260109023000 +0700" stop="20260109050000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Botic van de Zandschulp - Alexander Bublik</title>
     <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260108013000 +0700" stop="20260108040000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>Volleyball: Apeldoorn - Olympiacos (L)</title>
-    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260108040000 +0700" stop="20260108050000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
