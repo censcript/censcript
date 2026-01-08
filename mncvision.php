@@ -1163,7 +1163,7 @@
     <title>Australian Open Classic: 2004</title>
 </programme>
 <programme start="20260108130000 +0000" stop="20260108133000 +0000" channel="beIN Sports 2.mncvision">
-    <title>United Cup 2026: Day 6 QF 2</title>
+    <title>United Cup 2026: QF 2</title>
 </programme>
 <programme start="20260107200000 +0000" stop="20260107210000 +0000" channel="beIN Sports 2 HD.mncvision">
     <title>AO Originals 2026: AO25 Film</title>
@@ -1184,7 +1184,7 @@
     <title>Australian Open Classic: 2004</title>
 </programme>
 <programme start="20260108130000 +0000" stop="20260108133000 +0000" channel="beIN Sports 2 HD.mncvision">
-    <title>United Cup 2026: Day 6 QF 2</title>
+    <title>United Cup 2026: QF 2</title>
 </programme>
 <programme start="20260107180000 +0000" stop="20260107190000 +0000" channel="beIN Sports 3.mncvision">
     <title>AusCycling MTB Enduro 2025</title>

@@ -2186,7 +2186,7 @@
         <title>2004 Men&#039;s Singles SF Agassi v Safin</title>
     </programme>
     <programme start="20260108130000 +0000" stop="20260108173000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Day 6 QF 2</title>
+        <title>United Cup 2026: QF 2 Switzerland vs Argentina</title>
     </programme>
     <programme start="20260107160000 +0000" stop="20260107170000 +0000" channel="TVB Xing He.starhub">
         <title>Gods Of Honour</title>

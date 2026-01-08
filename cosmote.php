@@ -58,10 +58,6 @@
     <title>Football: Bayer 04 Leverkusen - Newcastle United</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260108160000 +0700" stop="20260108175500 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Parma - FC Internazionale Milano</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260108175500 +0700" stop="20260108200500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: OFI - Asteras Aktor</title>
     <desc>Live: Tidak</desc>
@@ -174,10 +170,6 @@
     <title>Football: APOEL - EN Paralimni</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260108151500 +0700" stop="20260108171000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Badalona - Tenerife</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260108171000 +0700" stop="20260108194000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Golden State Warriors - Milwaukee Bucks</title>
     <desc>Live: Tidak</desc>
@@ -232,10 +224,6 @@
 </programme>
 <programme start="20260109170000 +0700" stop="20260109193000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Chicago Bulls - Miami Heat</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260108162500 +0700" stop="20260108173500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>MotoGP Classics</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260108173500 +0700" stop="20260108184000 +0700" channel="COSMOTE Sport 5 HD">
@@ -327,6 +315,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260109174000 +0700" stop="20260109185000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>2025 FIM Women&#039;s Circuit Racing World Championship</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260109185000 +0700" stop="20260109194500 +0700" channel="COSMOTE Sport 5 HD">
     <title>2025 FIM Women&#039;s Circuit Racing World Championship</title>
     <desc>Live: Tidak</desc>
 </programme>

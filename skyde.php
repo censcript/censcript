@@ -1197,6 +1197,33 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260108223500 +0000" stop="20260108232500 +0000" channel="HISTORY Channel HD.skyde">
     <title>Terra X: Die Vermessung der Erde</title>
 </programme>
+<programme start="20260107230000 +0000" stop="20260108010000 +0000" channel="Jukebox.skyde">
+    <title>BACK TO ... 2015</title>
+</programme>
+<programme start="20260108010000 +0000" stop="20260108020000 +0000" channel="Jukebox.skyde">
+    <title>ROCK</title>
+</programme>
+<programme start="20260108020000 +0000" stop="20260108050000 +0000" channel="Jukebox.skyde">
+    <title>NIGHTSHIFT</title>
+</programme>
+<programme start="20260108050000 +0000" stop="20260108110000 +0000" channel="Jukebox.skyde">
+    <title>MORNING GLORY</title>
+</programme>
+<programme start="20260108110000 +0000" stop="20260108130000 +0000" channel="Jukebox.skyde">
+    <title>JUKEBOX TOP 25</title>
+</programme>
+<programme start="20260108130000 +0000" stop="20260108170000 +0000" channel="Jukebox.skyde">
+    <title>JUKEBOX TRENDS</title>
+</programme>
+<programme start="20260108170000 +0000" stop="20260108190000 +0000" channel="Jukebox.skyde">
+    <title>LOGOUT</title>
+</programme>
+<programme start="20260108190000 +0000" stop="20260108210000 +0000" channel="Jukebox.skyde">
+    <title>JUKEBOX TOP 50 MIX</title>
+</programme>
+<programme start="20260108210000 +0000" stop="20260108230000 +0000" channel="Jukebox.skyde">
+    <title>JUKEBOX GROOVE</title>
+</programme>
 <programme start="20260107231000 +0000" stop="20260108000000 +0000" channel="Motorvision+.skyde">
     <title>King of the Roads 2024</title>
 </programme>
