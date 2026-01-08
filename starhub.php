@@ -3856,20 +3856,14 @@
     <programme start="20260109061000 +0000" stop="20260109063000 +0000" channel="NHK World Premium HD.starhub">
         <title>Chinese Navi</title>
     </programme>
-    <programme start="20260109063000 +0000" stop="20260109064500 +0000" channel="NHK World Premium HD.starhub">
-        <title>RAMEN JAPAN 15min.</title>
+    <programme start="20260109063000 +0000" stop="20260109070000 +0000" channel="NHK World Premium HD.starhub">
+        <title>Comedy Battle! PIN-TWO-THREE (R)</title>
     </programme>
-    <programme start="20260109064500 +0000" stop="20260109065500 +0000" channel="NHK World Premium HD.starhub">
-        <title>Life Force 10min.</title>
-    </programme>
-    <programme start="20260109065500 +0000" stop="20260109074000 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20260109070000 +0000" stop="20260109074500 +0000" channel="NHK World Premium HD.starhub">
         <title>Choices on How to Deal with Illness (R)</title>
     </programme>
-    <programme start="20260109074000 +0000" stop="20260109080500 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20260109074500 +0000" stop="20260109081000 +0000" channel="NHK World Premium HD.starhub">
         <title>Documentary on Popular Writers and Their Cats (R)</title>
-    </programme>
-    <programme start="20260109080500 +0000" stop="20260109081000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Mini Program</title>
     </programme>
     <programme start="20260109081000 +0000" stop="20260109082000 +0000" channel="NHK World Premium HD.starhub">
         <title>Blue &amp; Yellow 10min</title>
