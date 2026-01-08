@@ -4823,7 +4823,7 @@
         <title>Advocate Anjali</title>
     </programme>
     <programme start="20260108090000 +0000" stop="20260108093000 +0000" channel="Asianet.starhub">
-        <title>Amma Manassu (Dub . Fiction)</title>
+        <title>Amma Manassu(Dub . Fiction)</title>
     </programme>
     <programme start="20260108093000 +0000" stop="20260108123000 +0000" channel="Asianet.starhub">
         <title>Kilichundan Mambazham</title>
@@ -7705,10 +7705,13 @@
     <programme start="20260107231000 +0000" stop="20260108013000 +0000" channel="Asianet Movies.starhub">
         <title>Theerppu</title>
     </programme>
-    <programme start="20260108013000 +0000" stop="20260108043000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260108013000 +0000" stop="20260108020000 +0000" channel="Asianet Movies.starhub">
+        <title>Chirikkum Thalika</title>
+    </programme>
+    <programme start="20260108020000 +0000" stop="20260108044000 +0000" channel="Asianet Movies.starhub">
         <title>Philips and the Monkey Pen</title>
     </programme>
-    <programme start="20260108043000 +0000" stop="20260108073000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260108044000 +0000" stop="20260108073000 +0000" channel="Asianet Movies.starhub">
         <title>Aravindante Athidhikal</title>
     </programme>
     <programme start="20260108073000 +0000" stop="20260108110000 +0000" channel="Asianet Movies.starhub">
@@ -7717,7 +7720,7 @@
     <programme start="20260108110000 +0000" stop="20260108133000 +0000" channel="Asianet Movies.starhub">
         <title>Varikkuzhiyile Kolapathakam</title>
     </programme>
-    <programme start="20260108133000 +0000" stop="20260108170000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260108133000 +0000" stop="20260108163500 +0000" channel="Asianet Movies.starhub">
         <title>Bahubali-2</title>
     </programme>
     <programme start="20260107160000 +0000" stop="20260107163000 +0000" channel="Astro Warna HD.starhub">
