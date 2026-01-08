@@ -2848,14 +2848,32 @@
   <programme start="20260110192000 +0000" stop="20260110230000 +0000" channel="Šláger Originál.webtv.sk">
     <title lang="id">VEČERNÍ POŘAD</title>
   </programme>
-  <programme start="20260109230000 +0000" stop="20260110070000 +0000" channel="Šláger Muzika.webtv.sk">
+  <programme start="20260109230000 +0000" stop="20260110050000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">LIDOVÝ ŠLÁGR MIŠMAŠ</title>
   </programme>
-  <programme start="20260110070000 +0000" stop="20260110110000 +0000" channel="Šláger Muzika.webtv.sk">
-    <title lang="id">DOPOLEDNÍ DECHOVKA</title>
+  <programme start="20260110050000 +0000" stop="20260110060000 +0000" channel="Šláger Muzika.webtv.sk">
+    <title lang="id">KRÁSNÝ DEN S MUZIKOU</title>
   </programme>
-  <programme start="20260110110000 +0000" stop="20260110150000 +0000" channel="Šláger Muzika.webtv.sk">
-    <title lang="id">POLEDNÍ DECHOVKA</title>
+  <programme start="20260110060000 +0000" stop="20260110070000 +0000" channel="Šláger Muzika.webtv.sk">
+    <title lang="id">MIŠMAŠ</title>
+  </programme>
+  <programme start="20260110070000 +0000" stop="20260110080000 +0000" channel="Šláger Muzika.webtv.sk">
+    <title lang="id">Z DECHOVKY DO DECHOVKY</title>
+  </programme>
+  <programme start="20260110080000 +0000" stop="20260110090000 +0000" channel="Šláger Muzika.webtv.sk">
+    <title lang="id">MIŠMAŠ</title>
+  </programme>
+  <programme start="20260110090000 +0000" stop="20260110110000 +0000" channel="Šláger Muzika.webtv.sk">
+    <title lang="id">ČAS NA DECHOVKU</title>
+  </programme>
+  <programme start="20260110110000 +0000" stop="20260110120000 +0000" channel="Šláger Muzika.webtv.sk">
+    <title lang="id">ČAS NA DECHOVKU</title>
+  </programme>
+  <programme start="20260110120000 +0000" stop="20260110140000 +0000" channel="Šláger Muzika.webtv.sk">
+    <title lang="id">Z PÍSNIČKY DO PÍSNIČKY</title>
+  </programme>
+  <programme start="20260110140000 +0000" stop="20260110150000 +0000" channel="Šláger Muzika.webtv.sk">
+    <title lang="id">MIŠMAŠ</title>
   </programme>
   <programme start="20260110150000 +0000" stop="20260110170000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">Z DECHOVKY DO DECHOVKY</title>
@@ -2864,7 +2882,7 @@
     <title lang="id">PÍSNIČKY NA PŘÁNÍ</title>
   </programme>
   <programme start="20260110180000 +0000" stop="20260110190000 +0000" channel="Šláger Muzika.webtv.sk">
-    <title lang="id">VEČERNÍ ZÁBAVA NA DVOJCE</title>
+    <title lang="id">Z DECHOVKY DO DECHOVKY</title>
   </programme>
   <programme start="20260110190000 +0000" stop="20260110203000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">NEJŽÁDANĚJŠÍ PÍSNIČKY</title>
@@ -16724,10 +16742,10 @@
     <title lang="id">Pеальное кино</title>
   </programme>
   <programme start="20260110040000 +0000" stop="20260110043000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Перекресток</title>
+    <title lang="id">Перекресток: Когда есть свет</title>
   </programme>
   <programme start="20260110043000 +0000" stop="20260110050000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Ждем в гости</title>
+    <title lang="id">Ждем в гости: Pождество по-кахетински</title>
   </programme>
   <programme start="20260110050000 +0000" stop="20260110060000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">Археология</title>
@@ -16739,7 +16757,7 @@
     <title lang="id">Лицом к событию</title>
   </programme>
   <programme start="20260110073000 +0000" stop="20260110080000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Перекресток</title>
+    <title lang="id">Перекресток: Когда есть свет</title>
   </programme>
   <programme start="20260110080000 +0000" stop="20260110083000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">Донбасс.Pеалии</title>
@@ -16754,7 +16772,7 @@
     <title lang="id">Почти взрослые</title>
   </programme>
   <programme start="20260110120000 +0000" stop="20260110123000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Балтия</title>
+    <title lang="id">Балтия: Новогодний эфир</title>
   </programme>
   <programme start="20260110123000 +0000" stop="20260110130000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">DW. Европа в фокусе</title>
@@ -16763,7 +16781,7 @@
     <title lang="id">#ВУкраине</title>
   </programme>
   <programme start="20260110133000 +0000" stop="20260110140000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Перекрёсток</title>
+    <title lang="id">Перекресток: Когда есть свет</title>
   </programme>
   <programme start="20260110140000 +0000" stop="20260110143000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">Новости</title>
@@ -16852,31 +16870,28 @@
   <programme start="20260110132500 +0000" stop="20260110152500 +0000" channel="Armenia 1 TV.webtv.sk">
     <title lang="id">Teletheater</title>
   </programme>
-  <programme start="20260110152500 +0000" stop="20260110162500 +0000" channel="Armenia 1 TV.webtv.sk">
+  <programme start="20260110152500 +0000" stop="20260110163000 +0000" channel="Armenia 1 TV.webtv.sk">
     <title lang="id">Concerts</title>
   </programme>
-  <programme start="20260110162500 +0000" stop="20260110170000 +0000" channel="Armenia 1 TV.webtv.sk">
+  <programme start="20260110163000 +0000" stop="20260110170000 +0000" channel="Armenia 1 TV.webtv.sk">
     <title lang="id">Armed Forces</title>
   </programme>
   <programme start="20260110170000 +0000" stop="20260110175000 +0000" channel="Armenia 1 TV.webtv.sk">
     <title lang="id">News</title>
   </programme>
-  <programme start="20260110175000 +0000" stop="20260110193000 +0000" channel="Armenia 1 TV.webtv.sk">
-    <title lang="id">Feature film</title>
-  </programme>
-  <programme start="20260110193000 +0000" stop="20260110202000 +0000" channel="Armenia 1 TV.webtv.sk">
+  <programme start="20260110175000 +0000" stop="20260110184000 +0000" channel="Armenia 1 TV.webtv.sk">
     <title lang="id">Public Discussion with Tatev Danielyan</title>
   </programme>
-  <programme start="20260110202000 +0000" stop="20260110215000 +0000" channel="Armenia 1 TV.webtv.sk">
+  <programme start="20260110184000 +0000" stop="20260110201000 +0000" channel="Armenia 1 TV.webtv.sk">
     <title lang="id">Feature film</title>
   </programme>
-  <programme start="20260110215000 +0000" stop="20260110223000 +0000" channel="Armenia 1 TV.webtv.sk">
-    <title lang="id">Non Stop Լive</title>
-  </programme>
-  <programme start="20260110223000 +0000" stop="20260110224000 +0000" channel="Armenia 1 TV.webtv.sk">
+  <programme start="20260110201000 +0000" stop="20260110202000 +0000" channel="Armenia 1 TV.webtv.sk">
     <title lang="id">Repatriation diary</title>
   </programme>
-  <programme start="20260110224000 +0000" stop="20260111004000 +0000" channel="Armenia 1 TV.webtv.sk">
+  <programme start="20260110202000 +0000" stop="20260110210000 +0000" channel="Armenia 1 TV.webtv.sk">
+    <title lang="id">Non Stop Լive</title>
+  </programme>
+  <programme start="20260110210000 +0000" stop="20260110230000 +0000" channel="Armenia 1 TV.webtv.sk">
     <title lang="id">Teletheater</title>
   </programme>
   <programme start="20260109230000 +0000" stop="20260109231500 +0000" channel="Euronews.webtv.sk">
@@ -17210,7 +17225,7 @@
     <title lang="id">INFO</title>
   </programme>
   <programme start="20260110013000 +0000" stop="20260110015800 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">NHK WORLD-JAPAN Special program</title>
+    <title lang="id">Japan in Focus</title>
   </programme>
   <programme start="20260110015800 +0000" stop="20260110020000 +0000" channel="NHK World Japan.webtv.sk">
     <title lang="id">INFO</title>
@@ -17273,7 +17288,7 @@
     <title lang="id">INFO</title>
   </programme>
   <programme start="20260110063000 +0000" stop="20260110065800 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">NHK WORLD-JAPAN Special program</title>
+    <title lang="id">Japan in Focus</title>
   </programme>
   <programme start="20260110065800 +0000" stop="20260110070000 +0000" channel="NHK World Japan.webtv.sk">
     <title lang="id">INFO</title>

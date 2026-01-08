@@ -685,9 +685,6 @@
 <programme start="20260107230000 +0000" stop="20260108003000 +0000" channel="ANTV.vision">
 <title>Catatan Hati</title>
 </programme>
-<programme start="20260108003000 +0000" stop="20260108023000 +0000" channel="ANTV.vision">
-<title>Jawara Sok Kota</title>
-</programme>
 <programme start="20260108023000 +0000" stop="20260108060000 +0000" channel="ANTV.vision">
 <title>Khushi</title>
 </programme>
@@ -1496,5 +1493,8 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260108010000 +0000" stop="20260108030000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260108030000 +0000" stop="20260108050000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>

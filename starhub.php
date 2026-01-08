@@ -2116,17 +2116,14 @@
     <programme start="20260108110000 +0000" stop="20260108120000 +0000" channel="CNN HD.starhub">
         <title>CNN This Morning</title>
     </programme>
-    <programme start="20260108120000 +0000" stop="20260108133000 +0000" channel="CNN HD.starhub">
+    <programme start="20260108120000 +0000" stop="20260108130000 +0000" channel="CNN HD.starhub">
         <title>CNN News Central</title>
     </programme>
-    <programme start="20260108133000 +0000" stop="20260108140000 +0000" channel="CNN HD.starhub">
-        <title>World Sport (30m)</title>
+    <programme start="20260108130000 +0000" stop="20260108140000 +0000" channel="CNN HD.starhub">
+        <title>CNN News Central</title>
     </programme>
-    <programme start="20260108140000 +0000" stop="20260108144500 +0000" channel="CNN HD.starhub">
-        <title>Connect the World (45m)</title>
-    </programme>
-    <programme start="20260108144500 +0000" stop="20260108150000 +0000" channel="CNN HD.starhub">
-        <title>World Sport (15m)</title>
+    <programme start="20260108140000 +0000" stop="20260108150000 +0000" channel="CNN HD.starhub">
+        <title>Connect the World (60m)</title>
     </programme>
     <programme start="20260108150000 +0000" stop="20260108160000 +0000" channel="CNN HD.starhub">
         <title>Connect the World (60m)</title>

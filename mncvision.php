@@ -1,5 +1,198 @@
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260107173500 +0000" stop="20260107180500 +0000" channel="ABC Australia.mncvision">
+    <title>The World</title>
+</programme>
+<programme start="20260107180500 +0000" stop="20260107190000 +0000" channel="ABC Australia.mncvision">
+    <title>Alone Australia</title>
+</programme>
+<programme start="20260107190000 +0000" stop="20260107200000 +0000" channel="ABC Australia.mncvision">
+    <title>News Breakfast</title>
+</programme>
+<programme start="20260107200000 +0000" stop="20260107220000 +0000" channel="ABC Australia.mncvision">
+    <title>News Breakfast</title>
+</programme>
+<programme start="20260107220000 +0000" stop="20260108010000 +0000" channel="ABC Australia.mncvision">
+    <title>ABC News Mornings</title>
+</programme>
+<programme start="20260108010000 +0000" stop="20260108020000 +0000" channel="ABC Australia.mncvision">
+    <title>ABC News At Noon</title>
+</programme>
+<programme start="20260108020000 +0000" stop="20260108030000 +0000" channel="ABC Australia.mncvision">
+    <title>ABBA &amp; Elvis: In Outback Film</title>
+</programme>
+<programme start="20260108030000 +0000" stop="20260108033000 +0000" channel="ABC Australia.mncvision">
+    <title>I Was Actually There</title>
+</programme>
+<programme start="20260108033000 +0000" stop="20260108043000 +0000" channel="ABC Australia.mncvision">
+    <title>Ambulance Australia</title>
+</programme>
+<programme start="20260108043000 +0000" stop="20260108050000 +0000" channel="ABC Australia.mncvision">
+    <title>Off Country</title>
+</programme>
+<programme start="20260108050000 +0000" stop="20260108060000 +0000" channel="ABC Australia.mncvision">
+    <title>Secret Lives Of Our Urban Birds</title>
+</programme>
+<programme start="20260108060000 +0000" stop="20260108070000 +0000" channel="ABC Australia.mncvision">
+    <title>ABC News Summer</title>
+</programme>
+<programme start="20260108070000 +0000" stop="20260108080000 +0000" channel="ABC Australia.mncvision">
+    <title>ABBA &amp; Elvis: In Outback Film</title>
+</programme>
+<programme start="20260108080000 +0000" stop="20260108083000 +0000" channel="ABC Australia.mncvision">
+    <title>ABC National News</title>
+</programme>
+<programme start="20260108083000 +0000" stop="20260108090000 +0000" channel="ABC Australia.mncvision">
+    <title>7.30</title>
+</programme>
+<programme start="20260108090000 +0000" stop="20260108100000 +0000" channel="ABC Australia.mncvision">
+    <title>Ambulance Australia</title>
+</programme>
+<programme start="20260108100000 +0000" stop="20260108110000 +0000" channel="ABC Australia.mncvision">
+    <title>The World</title>
+</programme>
+<programme start="20260108110000 +0000" stop="20260108113000 +0000" channel="ABC Australia.mncvision">
+    <title>Better Date Than Never</title>
+</programme>
+<programme start="20260108113000 +0000" stop="20260108123000 +0000" channel="ABC Australia.mncvision">
+    <title>I Was Actually There</title>
+</programme>
+<programme start="20260108123000 +0000" stop="20260108130000 +0000" channel="ABC Australia.mncvision">
+    <title>Larapinta</title>
+</programme>
+<programme start="20260108130000 +0000" stop="20260108133000 +0000" channel="ABC Australia.mncvision">
+    <title>ABC Late News</title>
+</programme>
+<programme start="20260108133000 +0000" stop="20260108140000 +0000" channel="ABC Australia.mncvision">
+    <title>7.30</title>
+</programme>
+<programme start="20260108140000 +0000" stop="20260108143000 +0000" channel="ABC Australia.mncvision">
+    <title>The World</title>
+</programme>
+<programme start="20260108143000 +0000" stop="20260108153000 +0000" channel="ABC Australia.mncvision">
+    <title>ABBA &amp; Elvis: In Outback Film</title>
+</programme>
+<programme start="20260108153000 +0000" stop="20260108163000 +0000" channel="ABC Australia.mncvision">
+    <title>Ambulance Australia</title>
+</programme>
+<programme start="20260108163000 +0000" stop="20260107170000 +0000" channel="ABC Australia.mncvision">
+    <title>Better Date Than Never</title>
+</programme>
+<programme start="20260107170000 +0000" stop="20260107173000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260107173000 +0000" stop="20260107180000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Inside Story</title>
+</programme>
+<programme start="20260107180000 +0000" stop="20260107190000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
+</programme>
+<programme start="20260107190000 +0000" stop="20260107193000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260107193000 +0000" stop="20260107200000 +0000" channel="Al Jazeera English.mncvision">
+    <title>101 East: Rewilding Sharks</title>
+</programme>
+<programme start="20260107200000 +0000" stop="20260107210000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Witness: Young Plato</title>
+</programme>
+<programme start="20260107210000 +0000" stop="20260107220000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
+</programme>
+<programme start="20260107220000 +0000" stop="20260107223000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260107223000 +0000" stop="20260107230000 +0000" channel="Al Jazeera English.mncvision">
+    <title>People &amp; Power: Cost Of Control</title>
+</programme>
+<programme start="20260107230000 +0000" stop="20260107233000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260107233000 +0000" stop="20260108000000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Inside Story</title>
+</programme>
+<programme start="20260108000000 +0000" stop="20260108010000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
+</programme>
+<programme start="20260108010000 +0000" stop="20260108020000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Al Jazeera World: Mad Mullah</title>
+</programme>
+<programme start="20260108020000 +0000" stop="20260108023000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260108023000 +0000" stop="20260108030000 +0000" channel="Al Jazeera English.mncvision">
+    <title>The Stream: End Of The World</title>
+</programme>
+<programme start="20260108030000 +0000" stop="20260108033000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260108033000 +0000" stop="20260108040000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Al Jazeera Untangles</title>
+</programme>
+<programme start="20260108040000 +0000" stop="20260108043000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260108043000 +0000" stop="20260108050000 +0000" channel="Al Jazeera English.mncvision">
+    <title>All Hail The Planet</title>
+</programme>
+<programme start="20260108050000 +0000" stop="20260108053000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260108053000 +0000" stop="20260108060000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Inside Story</title>
+</programme>
+<programme start="20260108060000 +0000" stop="20260108063000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260108063000 +0000" stop="20260108070000 +0000" channel="Al Jazeera English.mncvision">
+    <title>The Bottom Line</title>
+</programme>
+<programme start="20260108070000 +0000" stop="20260108073000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260108073000 +0000" stop="20260108080000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Witness: Neymar</title>
+</programme>
+<programme start="20260108080000 +0000" stop="20260108083000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260108083000 +0000" stop="20260108090000 +0000" channel="Al Jazeera English.mncvision">
+    <title>The Listening Post</title>
+</programme>
+<programme start="20260108090000 +0000" stop="20260108093000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260108093000 +0000" stop="20260108100000 +0000" channel="Al Jazeera English.mncvision">
+    <title>People &amp; Power: Cost Of Control</title>
+</programme>
+<programme start="20260108100000 +0000" stop="20260108110000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
+</programme>
+<programme start="20260108110000 +0000" stop="20260108113000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260108113000 +0000" stop="20260108120000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Inside Story</title>
+</programme>
+<programme start="20260108120000 +0000" stop="20260108130000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Witness: Young Plato</title>
+</programme>
+<programme start="20260108130000 +0000" stop="20260108140000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
+</programme>
+<programme start="20260108140000 +0000" stop="20260108143000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260108143000 +0000" stop="20260108150000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Talk To Al Jazeera: A. Baerbock</title>
+</programme>
+<programme start="20260108150000 +0000" stop="20260108160000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
+</programme>
+<programme start="20260108160000 +0000" stop="20260108163000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260108163000 +0000" stop="20260107170000 +0000" channel="Al Jazeera English.mncvision">
+    <title>All Hail The Planet</title>
+</programme>
 <programme start="20260107170000 +0000" stop="20260107190000 +0000" channel="Al Quran Al Kareem.mncvision">
     <title>Live From Mekkah</title>
 </programme>
@@ -1356,7 +1549,48 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260108153600 +0000" stop="20260108160600 +0000" channel="BUDDY STARS.mncvision">
     <title>Silver</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260107180900 +0000" stop="20260107195700 +0000" channel="BUDDY STARS HD.mncvision">
+    <title>Pokemon: The Rise Of Darkrai</title>
+</programme>
+<programme start="20260107195700 +0000" stop="20260107214800 +0000" channel="BUDDY STARS HD.mncvision">
+    <title>Silver</title>
+</programme>
+<programme start="20260107214800 +0000" stop="20260107232300 +0000" channel="BUDDY STARS HD.mncvision">
+    <title>Dreambuilders</title>
+</programme>
+<programme start="20260107232300 +0000" stop="20260108011400 +0000" channel="BUDDY STARS HD.mncvision">
+    <title>Silver</title>
+</programme>
+<programme start="20260108011400 +0000" stop="20260108024100 +0000" channel="BUDDY STARS HD.mncvision">
+    <title>Horse Camp: A Love Tail</title>
+</programme>
+<programme start="20260108024100 +0000" stop="20260108032700 +0000" channel="BUDDY STARS HD.mncvision">
+    <title>Silver</title>
+</programme>
+<programme start="20260108032700 +0000" stop="20260108051000 +0000" channel="BUDDY STARS HD.mncvision">
+    <title>Jeremy Fink &amp; Meaning Of Life</title>
+</programme>
+<programme start="20260108051000 +0000" stop="20260108071700 +0000" channel="BUDDY STARS HD.mncvision">
+    <title>Silver</title>
+</programme>
+<programme start="20260108071700 +0000" stop="20260108085800 +0000" channel="BUDDY STARS HD.mncvision">
+    <title>Faunutland And The Lost Magic</title>
+</programme>
+<programme start="20260108085800 +0000" stop="20260108102800 +0000" channel="BUDDY STARS HD.mncvision">
+    <title>Silver</title>
+</programme>
+<programme start="20260108102800 +0000" stop="20260108121100 +0000" channel="BUDDY STARS HD.mncvision">
+    <title>The Little Ghost</title>
+</programme>
+<programme start="20260108121100 +0000" stop="20260108135000 +0000" channel="BUDDY STARS HD.mncvision">
+    <title>Silver</title>
+</programme>
+<programme start="20260108135000 +0000" stop="20260108153600 +0000" channel="BUDDY STARS HD.mncvision">
+    <title>Mees Kees Op De Planken</title>
+</programme>
+<programme start="20260108153600 +0000" stop="20260108160600 +0000" channel="BUDDY STARS HD.mncvision">
+    <title>Silver</title>
+</programme>
 <programme start="20260107170000 +0000" stop="20260107170700 +0000" channel="CBeebies.mncvision">
     <title>Hey Duggee S5, Ep 18</title>
 </programme>
@@ -4573,6 +4807,9 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260108163000 +0000" stop="20260107170000 +0000" channel="iNews HD.mncvision">
     <title>New Top Files</title>
 </programme>
+<programme start="20260107190000 +0000" stop="20260107220000 +0000" channel="JAKTV.mncvision">
+    <title>Kabar Misteri</title>
+</programme>
 <programme start="20260107220000 +0000" stop="20260107223000 +0000" channel="JAKTV.mncvision">
     <title>Senyum Quran</title>
 </programme>
@@ -4640,7 +4877,7 @@ Error: Unable to fetch data. HTTP Status Code: 500
     <title>Cave And Cavern</title>
 </programme>
 <programme start="20260108130000 +0000" stop="20260108140000 +0000" channel="JAKTV.mncvision">
-    <title>Medika Natura</title>
+    <title>Kata Dokter</title>
 </programme>
 <programme start="20260108140000 +0000" stop="20260108150000 +0000" channel="JAKTV.mncvision">
     <title>Medika Natura</title>
@@ -5677,8 +5914,156 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260108160000 +0000" stop="20260108163000 +0000" channel="MNCTV HD.mncvision">
     <title>Suparman Reborn</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260107180000 +0000" stop="20260107182700 +0000" channel="Moonbug.mncvision">
+    <title>ARPO</title>
+</programme>
+<programme start="20260107182700 +0000" stop="20260107185600 +0000" channel="Moonbug.mncvision">
+    <title>ARPO</title>
+</programme>
+<programme start="20260107185600 +0000" stop="20260107191500 +0000" channel="Moonbug.mncvision">
+    <title>CeCe Time</title>
+</programme>
+<programme start="20260107191500 +0000" stop="20260107194000 +0000" channel="Moonbug.mncvision">
+    <title>CoComelon</title>
+</programme>
+<programme start="20260107194000 +0000" stop="20260107200500 +0000" channel="Moonbug.mncvision">
+    <title>CoComelon</title>
+</programme>
+<programme start="20260107200500 +0000" stop="20260107202700 +0000" channel="Moonbug.mncvision">
+    <title>Oddbods</title>
+</programme>
+<programme start="20260107202700 +0000" stop="20260107204800 +0000" channel="Moonbug.mncvision">
+    <title>Oddbods</title>
+</programme>
+<programme start="20260107204800 +0000" stop="20260107211000 +0000" channel="Moonbug.mncvision">
+    <title>Oddbods</title>
+</programme>
+<programme start="20260107211000 +0000" stop="20260107214100 +0000" channel="Moonbug.mncvision">
+    <title>Little Angel</title>
+</programme>
+<programme start="20260107214100 +0000" stop="20260107220400 +0000" channel="Moonbug.mncvision">
+    <title>Little Angel</title>
+</programme>
+<programme start="20260107220400 +0000" stop="20260107222900 +0000" channel="Moonbug.mncvision">
+    <title>Little Angel</title>
+</programme>
+<programme start="20260107222900 +0000" stop="20260107224400 +0000" channel="Moonbug.mncvision">
+    <title>Oddbods: Short</title>
+</programme>
+<programme start="20260107224400 +0000" stop="20260107230000 +0000" channel="Moonbug.mncvision">
+    <title>Oddbods: Short</title>
+</programme>
+<programme start="20260107230000 +0000" stop="20260107232200 +0000" channel="Moonbug.mncvision">
+    <title>Dance Party</title>
+</programme>
+<programme start="20260107232200 +0000" stop="20260108000100 +0000" channel="Moonbug.mncvision">
+    <title>CoComelon</title>
+</programme>
+<programme start="20260108000100 +0000" stop="20260108003000 +0000" channel="Moonbug.mncvision">
+    <title>Antiks</title>
+</programme>
+<programme start="20260108003000 +0000" stop="20260108010000 +0000" channel="Moonbug.mncvision">
+    <title>Antiks</title>
+</programme>
+<programme start="20260108010000 +0000" stop="20260108012800 +0000" channel="Moonbug.mncvision">
+    <title>Morphle Classics</title>
+</programme>
+<programme start="20260108012800 +0000" stop="20260108020000 +0000" channel="Moonbug.mncvision">
+    <title>Morphle Classics</title>
+</programme>
+<programme start="20260108020000 +0000" stop="20260108023200 +0000" channel="Moonbug.mncvision">
+    <title>Little Angel</title>
+</programme>
+<programme start="20260108023200 +0000" stop="20260108030100 +0000" channel="Moonbug.mncvision">
+    <title>Little Angel</title>
+</programme>
+<programme start="20260108030100 +0000" stop="20260108031900 +0000" channel="Moonbug.mncvision">
+    <title>CoComelon</title>
+</programme>
+<programme start="20260108031900 +0000" stop="20260108034000 +0000" channel="Moonbug.mncvision">
+    <title>CoComelon</title>
+</programme>
+<programme start="20260108034000 +0000" stop="20260108035900 +0000" channel="Moonbug.mncvision">
+    <title>Dance Party</title>
+</programme>
+<programme start="20260108035900 +0000" stop="20260108042800 +0000" channel="Moonbug.mncvision">
+    <title>Digley &amp; Dazey</title>
+</programme>
+<programme start="20260108042800 +0000" stop="20260108045800 +0000" channel="Moonbug.mncvision">
+    <title>Digley &amp; Dazey</title>
+</programme>
+<programme start="20260108045800 +0000" stop="20260108053300 +0000" channel="Moonbug.mncvision">
+    <title>Morphle Classics</title>
+</programme>
+<programme start="20260108053300 +0000" stop="20260108060000 +0000" channel="Moonbug.mncvision">
+    <title>Morphle Classics</title>
+</programme>
+<programme start="20260108060000 +0000" stop="20260108063300 +0000" channel="Moonbug.mncvision">
+    <title>KiiYii</title>
+</programme>
+<programme start="20260108063300 +0000" stop="20260108070000 +0000" channel="Moonbug.mncvision">
+    <title>KiiYii</title>
+</programme>
+<programme start="20260108070000 +0000" stop="20260108074300 +0000" channel="Moonbug.mncvision">
+    <title>CoComelon</title>
+</programme>
+<programme start="20260108074300 +0000" stop="20260108081100 +0000" channel="Moonbug.mncvision">
+    <title>JJ&#039;s Animal Time</title>
+</programme>
+<programme start="20260108081100 +0000" stop="20260108082900 +0000" channel="Moonbug.mncvision">
+    <title>Dance Party</title>
+</programme>
+<programme start="20260108082900 +0000" stop="20260108085100 +0000" channel="Moonbug.mncvision">
+    <title>Oddbods</title>
+</programme>
+<programme start="20260108085100 +0000" stop="20260108091200 +0000" channel="Moonbug.mncvision">
+    <title>Oddbods</title>
+</programme>
+<programme start="20260108091200 +0000" stop="20260108093300 +0000" channel="Moonbug.mncvision">
+    <title>Oddbods</title>
+</programme>
+<programme start="20260108093300 +0000" stop="20260108101100 +0000" channel="Moonbug.mncvision">
+    <title>T-Rex Ranch</title>
+</programme>
+<programme start="20260108101100 +0000" stop="20260108103300 +0000" channel="Moonbug.mncvision">
+    <title>T-Rex Ranch</title>
+</programme>
+<programme start="20260108103300 +0000" stop="20260108110800 +0000" channel="Moonbug.mncvision">
+    <title>Rob The Robot</title>
+</programme>
+<programme start="20260108110800 +0000" stop="20260108113200 +0000" channel="Moonbug.mncvision">
+    <title>Rob The Robot</title>
+</programme>
+<programme start="20260108113200 +0000" stop="20260108121300 +0000" channel="Moonbug.mncvision">
+    <title>CoComelon</title>
+</programme>
+<programme start="20260108121300 +0000" stop="20260108123300 +0000" channel="Moonbug.mncvision">
+    <title>CoComelon</title>
+</programme>
+<programme start="20260108123300 +0000" stop="20260108125900 +0000" channel="Moonbug.mncvision">
+    <title>CoComelon</title>
+</programme>
+<programme start="20260108125900 +0000" stop="20260108132000 +0000" channel="Moonbug.mncvision">
+    <title>Oddbods</title>
+</programme>
+<programme start="20260108132000 +0000" stop="20260108134100 +0000" channel="Moonbug.mncvision">
+    <title>Oddbods</title>
+</programme>
+<programme start="20260108134100 +0000" stop="20260108140300 +0000" channel="Moonbug.mncvision">
+    <title>Oddbods</title>
+</programme>
+<programme start="20260108140300 +0000" stop="20260108143400 +0000" channel="Moonbug.mncvision">
+    <title>Playtime With Twinkle</title>
+</programme>
+<programme start="20260108143400 +0000" stop="20260108145900 +0000" channel="Moonbug.mncvision">
+    <title>Playtime With Twinkle</title>
+</programme>
+<programme start="20260108145900 +0000" stop="20260108153100 +0000" channel="Moonbug.mncvision">
+    <title>Little Baby Bum</title>
+</programme>
+<programme start="20260108153100 +0000" stop="20260108160100 +0000" channel="Moonbug.mncvision">
+    <title>Little Baby Bum</title>
+</programme>
 <programme start="20260107190000 +0000" stop="20260107200000 +0000" channel="Music TV.mncvision">
     <title>Bucin (Bursa Music Indonesia)</title>
 </programme>
@@ -5706,11 +6091,11 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260108034500 +0000" stop="20260108041500 +0000" channel="Music TV.mncvision">
     <title>Terbaik</title>
 </programme>
-<programme start="20260108041500 +0000" stop="20260108061500 +0000" channel="Music TV.mncvision">
-    <title>DMD Panggung Rezeki</title>
-</programme>
-<programme start="20260108061500 +0000" stop="20260108070000 +0000" channel="Music TV.mncvision">
+<programme start="20260108041500 +0000" stop="20260108050000 +0000" channel="Music TV.mncvision">
     <title>Godain</title>
+</programme>
+<programme start="20260108050000 +0000" stop="20260108070000 +0000" channel="Music TV.mncvision">
+    <title>DMD Panggung Rezeki</title>
 </programme>
 <programme start="20260108070000 +0000" stop="20260108073000 +0000" channel="Music TV.mncvision">
     <title>XOXO</title>
@@ -5769,11 +6154,11 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260108034500 +0000" stop="20260108041500 +0000" channel="Music TV HD.mncvision">
     <title>Terbaik</title>
 </programme>
-<programme start="20260108041500 +0000" stop="20260108061500 +0000" channel="Music TV HD.mncvision">
-    <title>DMD Panggung Rezeki</title>
-</programme>
-<programme start="20260108061500 +0000" stop="20260108070000 +0000" channel="Music TV HD.mncvision">
+<programme start="20260108041500 +0000" stop="20260108050000 +0000" channel="Music TV HD.mncvision">
     <title>Godain</title>
+</programme>
+<programme start="20260108050000 +0000" stop="20260108070000 +0000" channel="Music TV HD.mncvision">
+    <title>DMD Panggung Rezeki</title>
 </programme>
 <programme start="20260108070000 +0000" stop="20260108073000 +0000" channel="Music TV HD.mncvision">
     <title>XOXO</title>
@@ -5804,9 +6189,6 @@ Error: Unable to fetch data. HTTP Status Code: 500
 </programme>
 <programme start="20260108163000 +0000" stop="20260107170000 +0000" channel="Music TV HD.mncvision">
     <title>KDI 2025</title>
-</programme>
-<programme start="20260107170000 +0000" stop="20260107173000 +0000" channel="Muslim TV.mncvision">
-    <title>Para Malaikat Di Sekitar Kita</title>
 </programme>
 <programme start="20260107173000 +0000" stop="20260107193000 +0000" channel="Muslim TV.mncvision">
     <title>Live Dari Mekkah (L)</title>
@@ -7755,7 +8137,42 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260108153000 +0000" stop="20260108160000 +0000" channel="Sportstars 2 HD.mncvision">
     <title>Tinju</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260107170000 +0000" stop="20260107190000 +0000" channel="Sportstars 3.mncvision">
+    <title>Bundesliga</title>
+</programme>
+<programme start="20260107190000 +0000" stop="20260107210000 +0000" channel="Sportstars 3.mncvision">
+    <title>BRI Liga 1</title>
+</programme>
+<programme start="20260107210000 +0000" stop="20260107230000 +0000" channel="Sportstars 3.mncvision">
+    <title>European Qualifiers</title>
+</programme>
+<programme start="20260107230000 +0000" stop="20260108010000 +0000" channel="Sportstars 3.mncvision">
+    <title>Bundesliga</title>
+</programme>
+<programme start="20260108010000 +0000" stop="20260108030000 +0000" channel="Sportstars 3.mncvision">
+    <title>Liga 2</title>
+</programme>
+<programme start="20260108030000 +0000" stop="20260108050000 +0000" channel="Sportstars 3.mncvision">
+    <title>BRI Liga 1</title>
+</programme>
+<programme start="20260108050000 +0000" stop="20260108070000 +0000" channel="Sportstars 3.mncvision">
+    <title>Bundesliga</title>
+</programme>
+<programme start="20260108070000 +0000" stop="20260108090000 +0000" channel="Sportstars 3.mncvision">
+    <title>European Qualifiers</title>
+</programme>
+<programme start="20260108090000 +0000" stop="20260108110000 +0000" channel="Sportstars 3.mncvision">
+    <title>Liga 2</title>
+</programme>
+<programme start="20260108110000 +0000" stop="20260108130000 +0000" channel="Sportstars 3.mncvision">
+    <title>BRI Liga 1</title>
+</programme>
+<programme start="20260108130000 +0000" stop="20260108150000 +0000" channel="Sportstars 3.mncvision">
+    <title>European Qualifiers</title>
+</programme>
+<programme start="20260108150000 +0000" stop="20260108153000 +0000" channel="Sportstars 3.mncvision">
+    <title>Liga 2</title>
+</programme>
 <programme start="20260107170000 +0000" stop="20260107190000 +0000" channel="sportstars 3 HD.mncvision">
     <title>Bundesliga</title>
 </programme>

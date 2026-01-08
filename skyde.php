@@ -2737,25 +2737,25 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>BL: 90in30: RBL - B04, 15. Spieltag</title>
 </programme>
 <programme start="20260108160000 +0000" stop="20260108170000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>Live BL: Matchplan: XXX - YYY, 16. Spieltag</title>
+    <title>Live BL: Matchplan: B04 - VFB, 16. Spieltag</title>
 </programme>
 <programme start="20260108170000 +0000" stop="20260108173000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: Bundesliga Weekly</title>
+    <title>BL: BVB 09 - Stories who we are (Gefestigt)</title>
 </programme>
 <programme start="20260108173000 +0000" stop="20260108183000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: Hinrunden-Rückblick 2025/26</title>
 </programme>
 <programme start="20260108183000 +0000" stop="20260108193000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: Matchplan: XXX - YYY, 16. Spieltag</title>
+    <title>BL: Matchplan: B04 - VFB, 16. Spieltag</title>
 </programme>
 <programme start="20260108193000 +0000" stop="20260108200000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: Bundesliga Weekly</title>
+    <title>BL: BVB 09 - Stories who we are (Gefestigt)</title>
 </programme>
 <programme start="20260108200000 +0000" stop="20260108220000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: Borussia Dortmund - Borussia M&#039;gladbach, Flutlicht-Freitag, 15. Spieltag</title>
 </programme>
 <programme start="20260108220000 +0000" stop="20260108230000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: Matchplan: XXX - YYY, 16. Spieltag</title>
+    <title>BL: Matchplan: B04 - VFB, 16. Spieltag</title>
 </programme>
 <programme start="20260107230000 +0000" stop="20260108000000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1 Academy: 1. Rennen - GP Singapur</title>
@@ -2844,7 +2844,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260108214500 +0000" stop="20260109004500 +0000" channel="Sky Sport Golf HD.skyde">
     <title>LPGA: JM Eagle LA Championship Presented by Plastpro, Finaltag in Los Angeles, CA (USA)</title>
 </programme>
-<programme start="20260107230000 +0000" stop="20260108000000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260107231000 +0000" stop="20260108000000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: On the Fly</title>
 </programme>
 <programme start="20260108000000 +0000" stop="20260108030000 +0000" channel="Sky Sport Mix HD.skyde">
@@ -3039,23 +3039,23 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260108223000 +0000" stop="20260108231500 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>Live PL: All Goals: Die Highlight-Show, 21. Spieltag</title>
 </programme>
-<programme start="20260107230000 +0000" stop="20260108000000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260107233000 +0000" stop="20260108003000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP &amp; WTA: Zeit für ein Break - das Tennisjahr 2025</title>
 </programme>
-<programme start="20260108000000 +0000" stop="20260108003000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260108003000 +0000" stop="20260108010000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Tennis: Andrey Rublev - Breaking Back</title>
 </programme>
-<programme start="20260108003000 +0000" stop="20260108063000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260108010000 +0000" stop="20260108063000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>United Cup: SUI - ARG, Viertelfinale 2 in Perth (AUS)</title>
 </programme>
 <programme start="20260108063000 +0000" stop="20260108123000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live United Cup: Viertelfinale 3 in Sydney (AUS)</title>
+    <title>Live United Cup: BEL - CZE, Viertelfinale 3 in Sydney (AUS)</title>
 </programme>
 <programme start="20260108123000 +0000" stop="20260108150000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA Finals: A. Sabalenka - E. Rybakina (KAZ), Finale 2025 in Riyadh (SAU)</title>
 </programme>
 <programme start="20260108150000 +0000" stop="20260108210000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>United Cup: Viertelfinale 3 in Sydney (AUS)</title>
+    <title>United Cup: BEL - CZE, Viertelfinale 3 in Sydney (AUS)</title>
 </programme>
 <programme start="20260108210000 +0000" stop="20260108233000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP Finals: J. Sinner (ITA) - C. Alcaraz (ESP), Finale 2025 in Turin (ITA)</title>
