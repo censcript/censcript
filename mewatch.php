@@ -265,14 +265,8 @@
     <programme start="20260107183000 +0000" stop="20260108025700 +0000" channel="Channel U.mewatch">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20260108025700 +0000" stop="20260108031400 +0000" channel="Channel U.mewatch">
+    <programme start="20260108025700 +0000" stop="20260108033000 +0000" channel="Channel U.mewatch">
         <title>The Wonder Shop - EP 204</title>
-    </programme>
-    <programme start="20260108031400 +0000" stop="20260108031600 +0000" channel="Channel U.mewatch">
-        <title>The Wonder Shop - EP 233</title>
-    </programme>
-    <programme start="20260108031600 +0000" stop="20260108033000 +0000" channel="Channel U.mewatch">
-        <title>The Wonder Shop - EP 242</title>
     </programme>
     <programme start="20260108033000 +0000" stop="20260108034400 +0000" channel="Channel U.mewatch">
         <title>The Wonder Shop - EP 230</title>
@@ -310,20 +304,14 @@
     <programme start="20260108051600 +0000" stop="20260108053000 +0000" channel="Channel U.mewatch">
         <title>The Wonder Shop - EP 286</title>
     </programme>
-    <programme start="20260108053000 +0000" stop="20260108054400 +0000" channel="Channel U.mewatch">
+    <programme start="20260108053000 +0000" stop="20260108054600 +0000" channel="Channel U.mewatch">
         <title>The Wonder Shop - EP 220</title>
-    </programme>
-    <programme start="20260108054400 +0000" stop="20260108054600 +0000" channel="Channel U.mewatch">
-        <title>The Wonder Shop - EP 260</title>
     </programme>
     <programme start="20260108054600 +0000" stop="20260108060000 +0000" channel="Channel U.mewatch">
         <title>The Wonder Shop - EP 241</title>
     </programme>
-    <programme start="20260108060000 +0000" stop="20260108061400 +0000" channel="Channel U.mewatch">
+    <programme start="20260108060000 +0000" stop="20260108061600 +0000" channel="Channel U.mewatch">
         <title>The Wonder Shop - EP 293</title>
-    </programme>
-    <programme start="20260108061400 +0000" stop="20260108061600 +0000" channel="Channel U.mewatch">
-        <title>The Wonder Shop - EP 153</title>
     </programme>
     <programme start="20260108061600 +0000" stop="20260108063000 +0000" channel="Channel U.mewatch">
         <title>The Wonder Shop - EP 281</title>
@@ -346,25 +334,13 @@
     <programme start="20260108090000 +0000" stop="20260108100000 +0000" channel="Channel U.mewatch">
         <title>The Second Husband - EP 22</title>
     </programme>
-    <programme start="20260108100000 +0000" stop="20260108110000 +0000" channel="Channel U.mewatch">
+    <programme start="20260108100000 +0000" stop="20260108120000 +0000" channel="Channel U.mewatch">
         <title>Marital Justice - EP 17</title>
-    </programme>
-    <programme start="20260108110000 +0000" stop="20260108120000 +0000" channel="Channel U.mewatch">
-        <title>Sunny Again Tomorrow - EP 35</title>
     </programme>
     <programme start="20260108120000 +0000" stop="20260108130000 +0000" channel="Channel U.mewatch">
         <title>Sunny Again Tomorrow - EP 36</title>
     </programme>
-    <programme start="20260108130000 +0000" stop="20260108140000 +0000" channel="Channel U.mewatch">
-        <title>Life&#039;s Perfectionists S17 - EP 9</title>
-    </programme>
-    <programme start="20260108140000 +0000" stop="20260108150000 +0000" channel="Channel U.mewatch">
-        <title>What’s Wrong with Secretary Kim - EP 21</title>
-    </programme>
-    <programme start="20260108150000 +0000" stop="20260108153000 +0000" channel="Channel U.mewatch">
-        <title>News Tonight</title>
-    </programme>
-    <programme start="20260108153000 +0000" stop="20260108163000 +0000" channel="Channel U.mewatch">
+    <programme start="20260108130000 +0000" stop="20260108163000 +0000" channel="Channel U.mewatch">
         <title>Life&#039;s Perfectionists S17 - EP 9</title>
     </programme>
     <programme start="20260107160000 +0000" stop="20260108010000 +0000" channel="Suria.mewatch">

@@ -1994,7 +1994,7 @@
         <title>Paul Parker: Tackling the Game</title>
     </programme>
     <programme start="20260108140000 +0000" stop="20260108160000 +0000" channel="beIN Sports 3.starhub">
-        <title>TotalEnergies Africa Cup of Nations, Morocco 2025: Algeria vs DR Congo - Rd of 1</title>
+        <title>TotalEnergies Africa Cup of Nations, Morocco 2025: Ivory Coast vs Burkina Faso -</title>
     </programme>
     <programme start="20260107153000 +0000" stop="20260107163000 +0000" channel="Sun Music.starhub">
         <title>Non Stop Hits</title>
