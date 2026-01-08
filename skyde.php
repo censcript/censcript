@@ -2625,8 +2625,17 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260108060000 +0000" stop="20260108063000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: ASAT Kompakt, 5. Runde</title>
 </programme>
-<programme start="20260108063000 +0000" stop="20260108140000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260108063000 +0000" stop="20260108123000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Live United Cup: BEL - CZE, Viertelfinale 3 in Sydney (AUS)</title>
+</programme>
+<programme start="20260108123000 +0000" stop="20260108130000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: ASAT Kompakt, 6. Runde</title>
+</programme>
+<programme start="20260108130000 +0000" stop="20260108133000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: ASAT Kompakt, 7. Runde</title>
+</programme>
+<programme start="20260108133000 +0000" stop="20260108140000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: ASAT Kompakt, 8. Runde</title>
 </programme>
 <programme start="20260108140000 +0000" stop="20260108143000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: ASAT Kompakt, 9. Runde</title>

@@ -50,6 +50,14 @@
     <title>Game R1 S6 E20</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260110040000 +0700" stop="20260110043000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Sports Classics: Football Countdowns E8</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260110043000 +0700" stop="20260110050000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Sports Classics: Football Countdowns E9</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260109023000 +0700" stop="20260109050000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: PAOK - Atromitos</title>
     <desc>Live: Tidak</desc>
@@ -104,6 +112,10 @@
 </programme>
 <programme start="20260110023000 +0700" stop="20260110043000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Lecce - AS Roma</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260110043000 +0700" stop="20260110050000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Sports Classics: Football Countdowns E7</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260109030000 +0700" stop="20260109050000 +0700" channel="COSMOTE Sport 3 HD">
@@ -166,9 +178,9 @@
     <title>Football: Wrexham  - Nottingham F. (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260109013000 +0700" stop="20260109034000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Promitheas - Elan Chalon (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20260110043000 +0700" stop="20260110050000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Copa Sudamericana 2025 - Highlights</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260109034000 +0700" stop="20260109060000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Golden State Warriors - Milwaukee Bucks</title>
@@ -220,10 +232,6 @@
 </programme>
 <programme start="20260110023000 +0700" stop="20260110050000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Chicago Bulls - Miami Heat</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260109021500 +0700" stop="20260109032000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260109032000 +0700" stop="20260109053000 +0700" channel="COSMOTE Sport 5 HD">
@@ -334,8 +342,8 @@
     <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260109023000 +0700" stop="20260109033000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>ATP 2025 - Review</title>
+<programme start="20260110042500 +0700" stop="20260110055000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>DTM 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260109033000 +0700" stop="20260109050000 +0700" channel="COSMOTE Sport 6 HD">
@@ -398,6 +406,10 @@
     <title>Tennis: ATP 250 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260110043000 +0700" stop="20260110070000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>2025 Premier Padel Tour Finals</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260109030000 +0700" stop="20260109050000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
@@ -453,6 +465,14 @@
 <programme start="20260110020000 +0700" stop="20260110041000 +0700" channel="COSMOTE Sport 7 HD">
     <title>Basketball: Cholet - Tofas (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20260110041000 +0700" stop="20260110043000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260110043000 +0700" stop="20260110050000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260109030000 +0700" stop="20260109050000 +0700" channel="COSMOTE Sport 8 HD">
     <title>COSMOTESport8HD</title>
