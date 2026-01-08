@@ -385,17 +385,17 @@
 <programme start="20260108023000 +0000" stop="20260108060000 +0000" channel="ANTV.mncvision">
     <title>Khushi</title>
 </programme>
-<programme start="20260108060000 +0000" stop="20260108090000 +0000" channel="ANTV.mncvision">
+<programme start="20260108060000 +0000" stop="20260108091500 +0000" channel="ANTV.mncvision">
     <title>Jhanak</title>
 </programme>
-<programme start="20260108090000 +0000" stop="20260108113000 +0000" channel="ANTV.mncvision">
+<programme start="20260108091500 +0000" stop="20260108114500 +0000" channel="ANTV.mncvision">
     <title>Shani</title>
 </programme>
-<programme start="20260108113000 +0000" stop="20260108130000 +0000" channel="ANTV.mncvision">
+<programme start="20260108114500 +0000" stop="20260108130000 +0000" channel="ANTV.mncvision">
     <title>Senandung Cinta Lilis</title>
 </programme>
 <programme start="20260108130000 +0000" stop="20260108150000 +0000" channel="ANTV.mncvision">
-    <title>Pendekar Mata Satu</title>
+    <title>Siluman Kera</title>
 </programme>
 <programme start="20260108150000 +0000" stop="20260108153000 +0000" channel="ANTV.mncvision">
     <title>Malu Malu Mau</title>
@@ -1238,10 +1238,10 @@
     <title>MUTV 2025/26: BUR Vs MUN</title>
 </programme>
 <programme start="20260108133000 +0000" stop="20260108140000 +0000" channel="beIN Sports 3.mncvision">
-    <title>MUTV Match Day: BUR Vs MUN</title>
+    <title>MUTV Specials: Paul Parker</title>
 </programme>
 <programme start="20260108140000 +0000" stop="20260108160000 +0000" channel="beIN Sports 3.mncvision">
-    <title>AFCON 2025: ALG Vs COD</title>
+    <title>AFCON 2025: CIV Vs BFA</title>
 </programme>
 <programme start="20260108160000 +0000" stop="20260108163000 +0000" channel="beIN Sports 3.mncvision">
     <title>UWCL 2025/26: PAR Vs BAR</title>
@@ -1298,10 +1298,10 @@
     <title>MUTV 2025/26: BUR Vs MUN</title>
 </programme>
 <programme start="20260108133000 +0000" stop="20260108140000 +0000" channel="beIN Sports 3 HD.mncvision">
-    <title>MUTV Match Day: BUR Vs MUN</title>
+    <title>MUTV Specials: Paul Parker</title>
 </programme>
 <programme start="20260108140000 +0000" stop="20260108160000 +0000" channel="beIN Sports 3 HD.mncvision">
-    <title>AFCON 2025: ALG Vs COD</title>
+    <title>AFCON 2025: CIV Vs BFA</title>
 </programme>
 <programme start="20260108160000 +0000" stop="20260108163000 +0000" channel="beIN Sports 3 HD.mncvision">
     <title>UWCL 2025/26: PAR Vs BAR</title>
@@ -5858,7 +5858,7 @@
     <title>DMD Panggung Rezeki</title>
 </programme>
 <programme start="20260108160000 +0000" stop="20260108163000 +0000" channel="MNCTV.mncvision">
-    <title>Suparman Reborn</title>
+    <title>Suparman Reborn 2</title>
 </programme>
 <programme start="20260107190000 +0000" stop="20260107220000 +0000" channel="MNCTV HD.mncvision">
     <title>Suparman Reborn</title>
@@ -5912,7 +5912,7 @@
     <title>DMD Panggung Rezeki</title>
 </programme>
 <programme start="20260108160000 +0000" stop="20260108163000 +0000" channel="MNCTV HD.mncvision">
-    <title>Suparman Reborn</title>
+    <title>Suparman Reborn 2</title>
 </programme>
 <programme start="20260107180000 +0000" stop="20260107182700 +0000" channel="Moonbug.mncvision">
     <title>ARPO</title>
