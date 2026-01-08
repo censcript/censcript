@@ -700,9 +700,6 @@
 <programme start="20260108113000 +0000" stop="20260108130000 +0000" channel="ANTV.vision">
 <title>Senandung Cinta Lilis</title>
 </programme>
-<programme start="20260108130000 +0000" stop="20260108150000 +0000" channel="ANTV.vision">
-<title>Pendekar Mata Satu</title>
-</programme>
 <programme start="20260108150000 +0000" stop="20260108170000 +0000" channel="ANTV.vision">
 <title>Malu Malu Mau</title>
 </programme>
@@ -718,11 +715,11 @@
 <programme start="20260108220000 +0000" stop="20260108230000 +0000" channel="ANTV.vision">
 <title>Mr Zombie</title>
 </programme>
-<programme start="20260108230000 +0000" stop="20260109003000 +0000" channel="ANTV.vision">
-<title>Catatan Hati</title>
-</programme>
-<programme start="20260109003000 +0000" stop="20260109023000 +0000" channel="ANTV.vision">
+<programme start="20260108230000 +0000" stop="20260109010000 +0000" channel="ANTV.vision">
 <title>Pertarungan</title>
+</programme>
+<programme start="20260109010000 +0000" stop="20260109023000 +0000" channel="ANTV.vision">
+<title>Catatan Hati</title>
 </programme>
 <programme start="20260109023000 +0000" stop="20260109060000 +0000" channel="ANTV.vision">
 <title>Awara Paagal Deewana</title>
@@ -1496,5 +1493,8 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260108010000 +0000" stop="20260108030000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260108030000 +0000" stop="20260108050000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
