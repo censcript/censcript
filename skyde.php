@@ -2626,7 +2626,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Admiral BL: ASAT Kompakt, 5. Runde</title>
 </programme>
 <programme start="20260108063000 +0000" stop="20260108123000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live United Cup: Viertelfinale 3 in Sydney (AUS)</title>
+    <title>Live United Cup: BEL - CZE, Viertelfinale 3 in Sydney (AUS)</title>
 </programme>
 <programme start="20260108123000 +0000" stop="20260108130000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: ASAT Kompakt, 6. Runde</title>
@@ -2929,7 +2929,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Live Sky Sport News: Primetime</title>
 </programme>
 <programme start="20260108193000 +0000" stop="20260108203000 +0000" channel="Sky Sport News HD.skyde">
-    <title>BL: Matchplan: XXX - YYY, 16. Spieltag</title>
+    <title>BL: Matchplan: B04 - VFB, 16. Spieltag</title>
 </programme>
 <programme start="20260108203000 +0000" stop="20260108210000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Guten Abend Fans!</title>
@@ -2943,10 +2943,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260108220000 +0000" stop="20260108230000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Late Night News</title>
 </programme>
-<programme start="20260108004500 +0000" stop="20260108013000 +0000" channel="Sky Sport Premier League HD.skyde">
+<programme start="20260108005500 +0000" stop="20260108013500 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: 1 to 11 (Emile Heskey)</title>
 </programme>
-<programme start="20260108013000 +0000" stop="20260108033000 +0000" channel="Sky Sport Premier League HD.skyde">
+<programme start="20260108013500 +0000" stop="20260108033000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: Manchester City - Brighton &amp; Hove Albion, 21. Spieltag</title>
 </programme>
 <programme start="20260108033000 +0000" stop="20260108053000 +0000" channel="Sky Sport Premier League HD.skyde">
@@ -3060,7 +3060,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260108210000 +0000" stop="20260108233000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP Finals: J. Sinner (ITA) - C. Alcaraz (ESP), Finale 2025 in Turin (ITA)</title>
 </programme>
-<programme start="20260108000000 +0000" stop="20260108030000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260108001500 +0000" stop="20260108030000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NHL: Dallas Stars @ Washington Capitals</title>
 </programme>
 <programme start="20260108030000 +0000" stop="20260108050000 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3073,7 +3073,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>ATP &amp; WTA: Zeit für ein Break - das Tennisjahr 2025</title>
 </programme>
 <programme start="20260108063000 +0000" stop="20260108123000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live United Cup: Viertelfinale 3 in Sydney (AUS)</title>
+    <title>Live United Cup: BEL - CZE, Viertelfinale 3 in Sydney (AUS)</title>
 </programme>
 <programme start="20260108123000 +0000" stop="20260108143000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>NHL: Dallas Stars @ Washington Capitals</title>
@@ -3085,7 +3085,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>BL: Bundesliga Weekly</title>
 </programme>
 <programme start="20260108160000 +0000" stop="20260108170000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live BL: Matchplan: XXX - YYY, 16. Spieltag</title>
+    <title>Live BL: Matchplan: B04 - VFB, 16. Spieltag</title>
 </programme>
 <programme start="20260108170000 +0000" stop="20260108190000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>TGL: The Bay Golf Club - Atlanta Drive GC, 3. Spieltag</title>

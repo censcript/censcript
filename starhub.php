@@ -736,8 +736,17 @@
     <programme start="20260108150000 +0000" stop="20260108160000 +0000" channel="Arirang TV HD.starhub">
         <title>Simply K-Pop Sns</title>
     </programme>
-    <programme start="20260107150000 +0000" stop="20260107200000 +0000" channel="Fox News Channel.starhub">
-        <title>America&#039;s Newsroom</title>
+    <programme start="20260107160000 +0000" stop="20260107170000 +0000" channel="Fox News Channel.starhub">
+        <title>The Faulkner Focus</title>
+    </programme>
+    <programme start="20260107170000 +0000" stop="20260107180000 +0000" channel="Fox News Channel.starhub">
+        <title>Outnumbered</title>
+    </programme>
+    <programme start="20260107180000 +0000" stop="20260107190000 +0000" channel="Fox News Channel.starhub">
+        <title>America Reports</title>
+    </programme>
+    <programme start="20260107190000 +0000" stop="20260107200000 +0000" channel="Fox News Channel.starhub">
+        <title>America Reports</title>
     </programme>
     <programme start="20260107200000 +0000" stop="20260107210000 +0000" channel="Fox News Channel.starhub">
         <title>The Story</title>
@@ -1982,7 +1991,7 @@
         <title>MUTV 2025/26: Burnley vs Man United</title>
     </programme>
     <programme start="20260108133000 +0000" stop="20260108140000 +0000" channel="beIN Sports 3.starhub">
-        <title>MUTV: Match Day Review 2025/26 Burnley vs Man United</title>
+        <title>Paul Parker: Tackling the Game</title>
     </programme>
     <programme start="20260108140000 +0000" stop="20260108160000 +0000" channel="beIN Sports 3.starhub">
         <title>TotalEnergies Africa Cup of Nations, Morocco 2025: Algeria vs DR Congo - Rd of 1</title>
