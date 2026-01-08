@@ -62,6 +62,10 @@
     <title>Game R1 S6 E20</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260110060000 +0700" stop="20260110080000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: Strasbourg - Breidablik</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260109050000 +0700" stop="20260109071000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: AEL Novibet - Atromitos</title>
     <desc>Live: Tidak</desc>
@@ -186,10 +190,6 @@
     <title>Football: Al-Kholood - Al Ittihad</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260109034000 +0700" stop="20260109060000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Golden State Warriors - Milwaukee Bucks</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260109060000 +0700" stop="20260109080000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Promitheas - Elan Chalon</title>
     <desc>Live: Tidak</desc>
@@ -244,10 +244,6 @@
 </programme>
 <programme start="20260110053000 +0700" stop="20260110075000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Besiktas - Fenerbahce</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260109032000 +0700" stop="20260109053000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Basketball: Karditsa - KK Spartak</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260109053000 +0700" stop="20260109060500 +0700" channel="COSMOTE Sport 5 HD">
@@ -360,10 +356,6 @@
 </programme>
 <programme start="20260110055000 +0700" stop="20260110073500 +0700" channel="COSMOTE Sport 5 HD">
     <title>DTM 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260109050000 +0700" stop="20260109052000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Sports Classics: Worldies E26</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260109052000 +0700" stop="20260109075000 +0700" channel="COSMOTE Sport 6 HD">

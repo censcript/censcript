@@ -862,22 +862,22 @@
   <programme start="20260109231000 +0000" stop="20260109233000 +0000" channel="DajTo.webtv.sk">
     <title lang="id">2 baby na mizine II (7)</title>
   </programme>
-  <programme start="20260109233000 +0000" stop="20260110000500 +0000" channel="DajTo.webtv.sk">
+  <programme start="20260109233000 +0000" stop="20260110000000 +0000" channel="DajTo.webtv.sk">
     <title lang="id">Susedia II (17)</title>
   </programme>
-  <programme start="20260110000500 +0000" stop="20260110023500 +0000" channel="DajTo.webtv.sk">
-    <title lang="id">NHL: Utah Mammoth - St. Louis Blues</title>
-  </programme>
-  <programme start="20260110023500 +0000" stop="20260110024500 +0000" channel="DajTo.webtv.sk">
-    <title lang="id">Športové noviny</title>
-  </programme>
-  <programme start="20260110024500 +0000" stop="20260110033500 +0000" channel="DajTo.webtv.sk">
+  <programme start="20260110000000 +0000" stop="20260110005000 +0000" channel="DajTo.webtv.sk">
     <title lang="id">Horná Dolná IX (14)</title>
   </programme>
-  <programme start="20260110033500 +0000" stop="20260110044000 +0000" channel="DajTo.webtv.sk">
+  <programme start="20260110005000 +0000" stop="20260110015000 +0000" channel="DajTo.webtv.sk">
     <title lang="id">Horná Dolná IX (15)</title>
   </programme>
-  <programme start="20260110044000 +0000" stop="20260110044500 +0000" channel="DajTo.webtv.sk">
+  <programme start="20260110015000 +0000" stop="20260110020500 +0000" channel="DajTo.webtv.sk">
+    <title lang="id">Športové noviny</title>
+  </programme>
+  <programme start="20260110020500 +0000" stop="20260110043500 +0000" channel="DajTo.webtv.sk">
+    <title lang="id">NHL: Utah Mammoth - St. Louis Blues</title>
+  </programme>
+  <programme start="20260110043500 +0000" stop="20260110044500 +0000" channel="DajTo.webtv.sk">
     <title lang="id">Zig a Sharko</title>
   </programme>
   <programme start="20260110044500 +0000" stop="20260110050000 +0000" channel="DajTo.webtv.sk">
