@@ -86,9 +86,12 @@
         <title> Góc nhìn văn hóa</title>
     </programme>
     <programme start="20260108150000 +0000" stop="20260108151500 +0000" channel="VTV1 HD.mytv">
-        <title> Phim tài liệu</title>
+        <title> Phim tài liệu - Sống trên cao nguyên đá</title>
     </programme>
-    <programme start="20260108151500 +0000" stop="20260108164000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260108151500 +0000" stop="20260108162200 +0000" channel="VTV1 HD.mytv">
+        <title> Câu chuyện từ những bài ca</title>
+    </programme>
+    <programme start="20260108162200 +0000" stop="20260108164000 +0000" channel="VTV1 HD.mytv">
         <title> VTV kết nối</title>
     </programme>
     <programme start="20260108164000 +0000" stop="20260108164500 +0000" channel="VTV1 HD.mytv">
