@@ -1,11 +1,3 @@
-<programme start="20260110050000 +0700" stop="20260110053000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Sports Classics: Football Countdowns E10</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260110053000 +0700" stop="20260110060000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Game R1 S6 E20</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260110060000 +0700" stop="20260110080000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Strasbourg - Breidablik</title>
     <desc>Live: Tidak</desc>
@@ -84,6 +76,10 @@
 </programme>
 <programme start="20260111043000 +0700" stop="20260111064000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Panetolikos - PAOK</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260111064000 +0700" stop="20260111084000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: FC Barcelona - Eintracht Frankfurt</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260110050000 +0700" stop="20260110070500 +0700" channel="COSMOTE Sport 2 HD">
@@ -166,6 +162,10 @@
     <title>Football: AS Roma - Sassuolo</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260111064500 +0700" stop="20260111071500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Sports Classics: Football&#039;s Greatest IV E7</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260110050000 +0700" stop="20260110070000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Al-Kholood - Al Ittihad</title>
     <desc>Live: Tidak</desc>
@@ -238,10 +238,6 @@
     <title>Football: Macclesfield - Crystal Palace</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260110050000 +0700" stop="20260110053000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>NBA Specials</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260110053000 +0700" stop="20260110075000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Besiktas - Fenerbahce</title>
     <desc>Live: Tidak</desc>
@@ -300,10 +296,6 @@
 </programme>
 <programme start="20260111055500 +0700" stop="20260111080000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Karditsa - KK Spartak</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260110042500 +0700" stop="20260110055000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>DTM 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260110055000 +0700" stop="20260110073500 +0700" channel="COSMOTE Sport 5 HD">
@@ -395,6 +387,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260111053000 +0700" stop="20260111063000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260111063000 +0700" stop="20260111071500 +0700" channel="COSMOTE Sport 5 HD">
     <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>

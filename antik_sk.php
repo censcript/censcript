@@ -2746,11 +2746,8 @@
   <programme start="20260111140000 +0000" stop="20260111153000 +0000" channel="Šláger Originál.webtv.sk">
     <title lang="id">ODPOLEDNÍ STUDIO</title>
   </programme>
-  <programme start="20260111153000 +0000" stop="20260111173000 +0000" channel="Šláger Originál.webtv.sk">
+  <programme start="20260111153000 +0000" stop="20260111192000 +0000" channel="Šláger Originál.webtv.sk">
     <title lang="id">Čaj kolem páté</title>
-  </programme>
-  <programme start="20260111173000 +0000" stop="20260111192000 +0000" channel="Šláger Originál.webtv.sk">
-    <title lang="id">PÍSNIČKY NA PŘÁNÍ</title>
   </programme>
   <programme start="20260111192000 +0000" stop="20260111230000 +0000" channel="Šláger Originál.webtv.sk">
     <title lang="id">VEČERNÍ POŘAD</title>
