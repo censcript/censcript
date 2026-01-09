@@ -2815,13 +2815,16 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260109183000 +0000" stop="20260109191500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: SGE - BVB: tipico Countdown, Flutlicht-Freitag, 16. Spieltag</title>
 </programme>
-<programme start="20260109191500 +0000" stop="20260109221500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
+<programme start="20260109191500 +0000" stop="20260109224500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: Eintracht Frankfurt - Borussia Dortmund, Flutlicht-Freitag, 16. Spieltag</title>
 </programme>
-<programme start="20260109191000 +0000" stop="20260109193000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+<programme start="20260109181000 +0000" stop="20260109183000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Es folgt: LIVE Bundesliga</title>
 </programme>
-<programme start="20260109193000 +0000" stop="20260109213000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+<programme start="20260109183000 +0000" stop="20260109191500 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+    <title>Live BL: SGE - BVB: tipico Countdown, Flutlicht-Freitag, 16. Spieltag</title>
+</programme>
+<programme start="20260109191500 +0000" stop="20260109220000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Live BL: Sky Sport Fantasy: SGE - BVB, 18. Spieltag</title>
 </programme>
 <programme start="20260108230000 +0000" stop="20260109000000 +0000" channel="Sky Sport F1 HD.skyde">
@@ -2914,20 +2917,26 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260109103000 +0000" stop="20260109123000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>TGL: The Bay Golf Club - Atlanta Drive GC, 3. Spieltag</title>
 </programme>
-<programme start="20260109123000 +0000" stop="20260109130000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Golf: Tee Time Stories (1)</title>
-</programme>
-<programme start="20260109130000 +0000" stop="20260109153000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260109123000 +0000" stop="20260109150000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>LPGA: Riviera Maya Open, Finaltag in Quintana Roo (Mexiko)</title>
 </programme>
-<programme start="20260109153000 +0000" stop="20260109183000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260109150000 +0000" stop="20260109160000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>The Open: Official Film 1970 (Jack Nicklaus)</title>
+</programme>
+<programme start="20260109160000 +0000" stop="20260109170000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>The Open: Official Film 1976  (Johnny Miller)</title>
+</programme>
+<programme start="20260109170000 +0000" stop="20260109180000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>The Open: Official Film 1977 (Tom Watson)</title>
+</programme>
+<programme start="20260109180000 +0000" stop="20260109190000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>The Open: Official Film 1979 (Seve Ballesteros)</title>
+</programme>
+<programme start="20260109190000 +0000" stop="20260109200000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>The Open: Official Film 1982 (Tom Watson)</title>
+</programme>
+<programme start="20260109200000 +0000" stop="20260109230000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>LPGA: ShopRite LPGA Classic Presented by Acer, Finaltag in Galloway, NJ (USA)</title>
-</programme>
-<programme start="20260109183000 +0000" stop="20260109210000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>LPGA: Meijer LPGA Classic For Simply Give, Finaltag in Grand Rapids, MI (USA)</title>
-</programme>
-<programme start="20260109210000 +0000" stop="20260110000000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>LPGA: KPMG Women&#039;s PGA Championship, 4. Tag in Frisco, TX (USA)</title>
 </programme>
 <programme start="20260109000000 +0000" stop="20260109003000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NBA: Action</title>
@@ -3044,7 +3053,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Live Gesagt. Gemeint: Mit Cramer und Köhler</title>
 </programme>
 <programme start="20260109170000 +0000" stop="20260109173000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live Sky Sport News: Primetime</title>
+    <title>Sky Sport News: Primetime Spezial - Die Bayern-Vorbereitung</title>
 </programme>
 <programme start="20260109173000 +0000" stop="20260109174500 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Transfer Update: Express</title>
@@ -3172,9 +3181,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260109223000 +0000" stop="20260109233000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: Review, 21. Spieltag</title>
 </programme>
-<programme start="20260108233000 +0000" stop="20260109003000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP Finals: Review Turin 2025</title>
-</programme>
 <programme start="20260109003000 +0000" stop="20260109063000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>United Cup: BEL - CZE, Viertelfinale 3 in Sydney (AUS)</title>
 </programme>
@@ -3217,14 +3223,26 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260109063000 +0000" stop="20260109123000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live United Cup: AUS - POL, Viertelfinale 4 in Sydney (AUS)</title>
 </programme>
-<programme start="20260109123000 +0000" stop="20260109143000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>NHL: Edmonton Oilers @ Winnipeg Jets</title>
+<programme start="20260109123000 +0000" stop="20260109130000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>NBA: Action</title>
 </programme>
-<programme start="20260109143000 +0000" stop="20260109163000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>PL: FC Arsenal - FC Liverpool, Match of the Week, 21. Spieltag</title>
+<programme start="20260109130000 +0000" stop="20260109131500 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>NHL: Highlights CGY@BOS</title>
 </programme>
-<programme start="20260109163000 +0000" stop="20260109170000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>BL: Bundesliga Weekly</title>
+<programme start="20260109131500 +0000" stop="20260109133000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>NHL: Highlights VAN@DET</title>
+</programme>
+<programme start="20260109133000 +0000" stop="20260109134500 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>NHL: Highlights EDM@WPG</title>
+</programme>
+<programme start="20260109134500 +0000" stop="20260109140000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>NHL: Highlights OTT@COL</title>
+</programme>
+<programme start="20260109140000 +0000" stop="20260109150000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>BL: Hinrunden-Rückblick 2025/26</title>
+</programme>
+<programme start="20260109150000 +0000" stop="20260109170000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>PL: FC Arsenal - FC Liverpool, Match of the Week, 21. SpieltagHallo zusammen,</title>
 </programme>
 <programme start="20260109170000 +0000" stop="20260109171500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>BL: Torparade 15. Spieltag</title>
@@ -3247,17 +3265,26 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260109223000 +0000" stop="20260109233000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>PL: Review, 21. Spieltag</title>
 </programme>
-<programme start="20260108231500 +0000" stop="20260109011500 +0000" channel="Sky Sport UHD.skyde">
-    <title>F1: Rennen - GP Las Vegas</title>
+<programme start="20260108230500 +0000" stop="20260109001000 +0000" channel="Sky Sport UHD.skyde">
+    <title>Live PL: Match of the Week: Die Analyse, ARS - LIV, 21. Spieltag</title>
 </programme>
-<programme start="20260109011500 +0000" stop="20260109031500 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20260109001000 +0000" stop="20260109005500 +0000" channel="Sky Sport UHD.skyde">
+    <title>Live PL: All Goals: Die Highlight-Show, 21. Spieltag</title>
+</programme>
+<programme start="20260109004000 +0000" stop="20260109023000 +0000" channel="Sky Sport UHD.skyde">
     <title>F1: Rennen - GP Katar</title>
 </programme>
-<programme start="20260109031500 +0000" stop="20260109051500 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20260109023000 +0000" stop="20260109043000 +0000" channel="Sky Sport UHD.skyde">
     <title>F1: Rennen - GP Abu Dhabi</title>
+</programme>
+<programme start="20260109043000 +0000" stop="20260109061500 +0000" channel="Sky Sport UHD.skyde">
+    <title>PL: West Ham United - Nottingham Forest, 21. Spieltag</title>
 </programme>
 <programme start="20260109051500 +0000" stop="20260109071500 +0000" channel="Sky Sport UHD.skyde">
     <title>PL: FC Arsenal - FC Liverpool, Match of the Week, 21. Spieltag</title>
+</programme>
+<programme start="20260109061500 +0000" stop="20260109080000 +0000" channel="Sky Sport UHD.skyde">
+    <title>PL: FC Burnley - Manchester United, 21. Spieltag</title>
 </programme>
 <programme start="20260109071500 +0000" stop="20260109080000 +0000" channel="Sky Sport UHD.skyde">
     <title>PL: All Goals: Die Highlight-Show, 21. Spieltag</title>
