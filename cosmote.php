@@ -1,7 +1,3 @@
-<programme start="20260109192000 +0700" stop="20260109212500 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: AEK Larnaca - Shkendija</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260109212500 +0700" stop="20260109232500 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Fotbal Club FCSB - Feyenoord</title>
     <desc>Live: Tidak</desc>
@@ -86,10 +82,6 @@
     <title>Football: Como - Bologna (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260109200500 +0700" stop="20260109220000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: AC Milan - Genoa</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260109220000 +0700" stop="20260110003000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: PAOK - Atromitos</title>
     <desc>Live: Tidak</desc>
@@ -166,6 +158,10 @@
     <title>PreGame (L)</title>
     <desc>Live: Ya</desc>
 </programme>
+<programme start="20260110220000 +0700" stop="20260111001000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Kifisia - AEL Novibet (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
 <programme start="20260109210000 +0700" stop="20260109230000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: APOEL - EN Paralimni</title>
     <desc>Live: Tidak</desc>
@@ -238,13 +234,9 @@
     <title>William Hill Scottish Premiership - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260109193000 +0700" stop="20260109214000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Promitheas - Elan Chalon</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260109214000 +0700" stop="20260109220000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>ACB Liga Endesa 2025-26 - Fifth Quarter E13</title>
-    <desc>Live: Tidak</desc>
+<programme start="20260110220000 +0700" stop="20260111000000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Manchester City FC - Exeter City (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260109220000 +0700" stop="20260110001000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Karditsa - KK Spartak</title>
@@ -306,9 +298,9 @@
     <title>NBA on Fire 2025-26 E11</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260109210000 +0700" stop="20260109220000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC</title>
-    <desc>Live: Tidak</desc>
+<programme start="20260110220000 +0700" stop="20260111000000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Galatasaray - Besiktas (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260109220000 +0700" stop="20260109223000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Sports Classics: Gearing Up 2024 E12</title>
@@ -406,8 +398,8 @@
     <title>Extreme E - Highlights 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260109190000 +0700" stop="20260109213000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: Marcos Giron - Michael Mmoh (L)</title>
+<programme start="20260110220000 +0700" stop="20260111000000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Football: Newcastle United - AFC Bournemouth (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20260109213000 +0700" stop="20260109223000 +0700" channel="COSMOTE Sport 6 HD">
@@ -469,6 +461,10 @@
 <programme start="20260110210000 +0700" stop="20260110220000 +0700" channel="COSMOTE Sport 6 HD">
     <title>ATP 2025 - Review</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260110220000 +0700" stop="20260111000000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Football: Fulham - Middlesbrough (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260109210000 +0700" stop="20260109230000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
