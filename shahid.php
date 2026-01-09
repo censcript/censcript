@@ -208,6 +208,78 @@
     <programme start="20260109000000 +0000" stop="20260110235959 +0000" channel="999927.shahid">
         <title>TV guide is not available</title>
     </programme>
+    <programme start="20260109000000 +0000" stop="20260108231800 +0000" channel="414449.shahid">
+        <title>Al Jalsa Helwa</title>
+    </programme>
+    <programme start="20260108231800 +0000" stop="20260109030000 +0000" channel="414449.shahid">
+        <title>Al Jalsa Helwa</title>
+    </programme>
+    <programme start="20260109030000 +0000" stop="20260109031800 +0000" channel="414449.shahid">
+        <title>Sabahkom Wanasah</title>
+    </programme>
+    <programme start="20260109031800 +0000" stop="20260109060000 +0000" channel="414449.shahid">
+        <title>Sabahkom Wanasah</title>
+    </programme>
+    <programme start="20260109060000 +0000" stop="20260109070300 +0000" channel="414449.shahid">
+        <title>Ala Al Bal</title>
+    </programme>
+    <programme start="20260109070300 +0000" stop="20260109120000 +0000" channel="414449.shahid">
+        <title>Ahbab</title>
+    </programme>
+    <programme start="20260109120000 +0000" stop="20260109125900 +0000" channel="414449.shahid">
+        <title>Ala Al Bal</title>
+    </programme>
+    <programme start="20260109125900 +0000" stop="20260109170300 +0000" channel="414449.shahid">
+        <title>Ahla Al Aghani</title>
+    </programme>
+    <programme start="20260109170300 +0000" stop="20260109190100 +0000" channel="414449.shahid">
+        <title>Ahla Al Hafalat</title>
+    </programme>
+    <programme start="20260109190100 +0000" stop="20260109230400 +0000" channel="414449.shahid">
+        <title>Al Jalsa Helwa</title>
+    </programme>
+    <programme start="20260109230400 +0000" stop="20260109231800 +0000" channel="414449.shahid">
+        <title>Al Jalsa Helwa</title>
+    </programme>
+    <programme start="20260109231800 +0000" stop="20260110030000 +0000" channel="414449.shahid">
+        <title>Al Jalsa Helwa</title>
+    </programme>
+    <programme start="20260110030000 +0000" stop="20260110031900 +0000" channel="414449.shahid">
+        <title>Sabahkom Wanasah</title>
+    </programme>
+    <programme start="20260110031900 +0000" stop="20260110061900 +0000" channel="414449.shahid">
+        <title>Sabahkom Wanasah</title>
+    </programme>
+    <programme start="20260110061900 +0000" stop="20260110070400 +0000" channel="414449.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260110070400 +0000" stop="20260110120400 +0000" channel="414449.shahid">
+        <title>Ahbab</title>
+    </programme>
+    <programme start="20260110120400 +0000" stop="20260110122400 +0000" channel="414449.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260110122400 +0000" stop="20260110130400 +0000" channel="414449.shahid">
+        <title>Ala Al Bal</title>
+    </programme>
+    <programme start="20260110130400 +0000" stop="20260110170400 +0000" channel="414449.shahid">
+        <title>Ahla Al Aghani</title>
+    </programme>
+    <programme start="20260110170400 +0000" stop="20260110171800 +0000" channel="414449.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260110171800 +0000" stop="20260110190900 +0000" channel="414449.shahid">
+        <title>Ahla Al Hafalat</title>
+    </programme>
+    <programme start="20260110190900 +0000" stop="20260110230900 +0000" channel="414449.shahid">
+        <title>Al Jalsa Helwa</title>
+    </programme>
+    <programme start="20260110230900 +0000" stop="20260110231800 +0000" channel="414449.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260110231800 +0000" stop="20260110235959 +0000" channel="414449.shahid">
+        <title>Al Jalsa Helwa</title>
+    </programme>
     <programme start="20260109000000 +0000" stop="20260109001500 +0000" channel="387294.shahid">
         <title>Al Marsa Season 1 Episode 62</title>
     </programme>
@@ -402,78 +474,6 @@
     </programme>
     <programme start="20260110233000 +0000" stop="20260110235959 +0000" channel="387294.shahid">
         <title>The Voice</title>
-    </programme>
-    <programme start="20260109000000 +0000" stop="20260108231800 +0000" channel="414449.shahid">
-        <title>Al Jalsa Helwa</title>
-    </programme>
-    <programme start="20260108231800 +0000" stop="20260109030000 +0000" channel="414449.shahid">
-        <title>Al Jalsa Helwa</title>
-    </programme>
-    <programme start="20260109030000 +0000" stop="20260109031800 +0000" channel="414449.shahid">
-        <title>Sabahkom Wanasah</title>
-    </programme>
-    <programme start="20260109031800 +0000" stop="20260109060000 +0000" channel="414449.shahid">
-        <title>Sabahkom Wanasah</title>
-    </programme>
-    <programme start="20260109060000 +0000" stop="20260109070300 +0000" channel="414449.shahid">
-        <title>Ala Al Bal</title>
-    </programme>
-    <programme start="20260109070300 +0000" stop="20260109120000 +0000" channel="414449.shahid">
-        <title>Ahbab</title>
-    </programme>
-    <programme start="20260109120000 +0000" stop="20260109125900 +0000" channel="414449.shahid">
-        <title>Ala Al Bal</title>
-    </programme>
-    <programme start="20260109125900 +0000" stop="20260109170300 +0000" channel="414449.shahid">
-        <title>Ahla Al Aghani</title>
-    </programme>
-    <programme start="20260109170300 +0000" stop="20260109190100 +0000" channel="414449.shahid">
-        <title>Ahla Al Hafalat</title>
-    </programme>
-    <programme start="20260109190100 +0000" stop="20260109230400 +0000" channel="414449.shahid">
-        <title>Al Jalsa Helwa</title>
-    </programme>
-    <programme start="20260109230400 +0000" stop="20260109231800 +0000" channel="414449.shahid">
-        <title>Al Jalsa Helwa</title>
-    </programme>
-    <programme start="20260109231800 +0000" stop="20260110030000 +0000" channel="414449.shahid">
-        <title>Al Jalsa Helwa</title>
-    </programme>
-    <programme start="20260110030000 +0000" stop="20260110031900 +0000" channel="414449.shahid">
-        <title>Sabahkom Wanasah</title>
-    </programme>
-    <programme start="20260110031900 +0000" stop="20260110061900 +0000" channel="414449.shahid">
-        <title>Sabahkom Wanasah</title>
-    </programme>
-    <programme start="20260110061900 +0000" stop="20260110070400 +0000" channel="414449.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260110070400 +0000" stop="20260110120400 +0000" channel="414449.shahid">
-        <title>Ahbab</title>
-    </programme>
-    <programme start="20260110120400 +0000" stop="20260110122400 +0000" channel="414449.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260110122400 +0000" stop="20260110130400 +0000" channel="414449.shahid">
-        <title>Ala Al Bal</title>
-    </programme>
-    <programme start="20260110130400 +0000" stop="20260110170400 +0000" channel="414449.shahid">
-        <title>Ahla Al Aghani</title>
-    </programme>
-    <programme start="20260110170400 +0000" stop="20260110171800 +0000" channel="414449.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260110171800 +0000" stop="20260110190900 +0000" channel="414449.shahid">
-        <title>Ahla Al Hafalat</title>
-    </programme>
-    <programme start="20260110190900 +0000" stop="20260110230900 +0000" channel="414449.shahid">
-        <title>Al Jalsa Helwa</title>
-    </programme>
-    <programme start="20260110230900 +0000" stop="20260110231800 +0000" channel="414449.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260110231800 +0000" stop="20260110235959 +0000" channel="414449.shahid">
-        <title>Al Jalsa Helwa</title>
     </programme>
     <programme start="20260109000000 +0000" stop="20260109000908 +0000" channel="992538.shahid">
         <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 17</title>
@@ -4408,132 +4408,6 @@
     <programme start="20260110233427 +0000" stop="20260110235959 +0000" channel="963543.shahid">
         <title>Tash Ma Tash Season 18 Episode 18</title>
     </programme>
-    <programme start="20260109000000 +0000" stop="20260109004000 +0000" channel="49923122575716.shahid">
-        <title>Al Ostora Season 1 Episode 28</title>
-    </programme>
-    <programme start="20260109004000 +0000" stop="20260109012500 +0000" channel="49923122575716.shahid">
-        <title>Afareet Adly Allam Season 1 Episode 16</title>
-    </programme>
-    <programme start="20260109012500 +0000" stop="20260109021400 +0000" channel="49923122575716.shahid">
-        <title>Leh Laa?! Season 3 Episode 4</title>
-    </programme>
-    <programme start="20260109021400 +0000" stop="20260109024400 +0000" channel="49923122575716.shahid">
-        <title>Al Qadaa  </title>
-    </programme>
-    <programme start="20260109024400 +0000" stop="20260109032400 +0000" channel="49923122575716.shahid">
-        <title>Banat Khareqat Season 1 Episode 29</title>
-    </programme>
-    <programme start="20260109032400 +0000" stop="20260109042100 +0000" channel="49923122575716.shahid">
-        <title>Khamsa Wa Nos Season 1 Episode 14</title>
-    </programme>
-    <programme start="20260109042100 +0000" stop="20260109052000 +0000" channel="49923122575716.shahid">
-        <title>Al Ostora Season 1 Episode 28</title>
-    </programme>
-    <programme start="20260109052000 +0000" stop="20260109055600 +0000" channel="49923122575716.shahid">
-        <title>Afareet Adly Allam Season 1 Episode 16</title>
-    </programme>
-    <programme start="20260109055600 +0000" stop="20260109065100 +0000" channel="49923122575716.shahid">
-        <title>Leh Laa?! Season 3 Episode 4</title>
-    </programme>
-    <programme start="20260109065100 +0000" stop="20260109072200 +0000" channel="49923122575716.shahid">
-        <title>Al Qadaa  </title>
-    </programme>
-    <programme start="20260109072200 +0000" stop="20260109080700 +0000" channel="49923122575716.shahid">
-        <title>Banat Khareqat Season 1 Episode 29</title>
-    </programme>
-    <programme start="20260109080700 +0000" stop="20260109090600 +0000" channel="49923122575716.shahid">
-        <title>Khamsa Wa Nos Season 1 Episode 14</title>
-    </programme>
-    <programme start="20260109090600 +0000" stop="20260109100500 +0000" channel="49923122575716.shahid">
-        <title>Al Ostora Season 1 Episode 28</title>
-    </programme>
-    <programme start="20260109100500 +0000" stop="20260109105000 +0000" channel="49923122575716.shahid">
-        <title>Afareet Adly Allam Season 1 Episode 16</title>
-    </programme>
-    <programme start="20260109105000 +0000" stop="20260109114600 +0000" channel="49923122575716.shahid">
-        <title>Leh Laa?! Season 3 Episode 4</title>
-    </programme>
-    <programme start="20260109114600 +0000" stop="20260109121500 +0000" channel="49923122575716.shahid">
-        <title>Al Qadaa  </title>
-    </programme>
-    <programme start="20260109121500 +0000" stop="20260109130200 +0000" channel="49923122575716.shahid">
-        <title>Banat Khareqat Season 1 Episode 29</title>
-    </programme>
-    <programme start="20260109130200 +0000" stop="20260109135700 +0000" channel="49923122575716.shahid">
-        <title>Khamsa Wa Nos Season 1 Episode 14</title>
-    </programme>
-    <programme start="20260109135700 +0000" stop="20260109145000 +0000" channel="49923122575716.shahid">
-        <title>Al Ostora Season 1 Episode 28</title>
-    </programme>
-    <programme start="20260109145000 +0000" stop="20260109153700 +0000" channel="49923122575716.shahid">
-        <title>Afareet Adly Allam Season 1 Episode 16</title>
-    </programme>
-    <programme start="20260109153700 +0000" stop="20260109162500 +0000" channel="49923122575716.shahid">
-        <title>Leh Laa?! Season 3 Episode 4</title>
-    </programme>
-    <programme start="20260109162500 +0000" stop="20260109170000 +0000" channel="49923122575716.shahid">
-        <title>Al Qadaa  </title>
-    </programme>
-    <programme start="20260109170000 +0000" stop="20260109175200 +0000" channel="49923122575716.shahid">
-        <title>Banat Khareqat Season 1 Episode 30</title>
-    </programme>
-    <programme start="20260109175200 +0000" stop="20260109185200 +0000" channel="49923122575716.shahid">
-        <title>Khamsa Wa Nos Season 1 Episode 15</title>
-    </programme>
-    <programme start="20260109185200 +0000" stop="20260109190000 +0000" channel="49923122575716.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260109190000 +0000" stop="20260109200000 +0000" channel="49923122575716.shahid">
-        <title>Al Ostora Season 1 Episode 29</title>
-    </programme>
-    <programme start="20260109200000 +0000" stop="20260109204700 +0000" channel="49923122575716.shahid">
-        <title>Afareet Adly Allam Season 1 Episode 17</title>
-    </programme>
-    <programme start="20260109204700 +0000" stop="20260109210000 +0000" channel="49923122575716.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260109210000 +0000" stop="20260109214500 +0000" channel="49923122575716.shahid">
-        <title>Leh Laa?! Season 3 Episode 5</title>
-    </programme>
-    <programme start="20260109214500 +0000" stop="20260109221500 +0000" channel="49923122575716.shahid">
-        <title>Al Qadaa  </title>
-    </programme>
-    <programme start="20260109221500 +0000" stop="20260109230000 +0000" channel="49923122575716.shahid">
-        <title>Banat Khareqat Season 1 Episode 30</title>
-    </programme>
-    <programme start="20260109230000 +0000" stop="20260109234500 +0000" channel="49923122575716.shahid">
-        <title>Khamsa Wa Nos Season 1 Episode 15</title>
-    </programme>
-    <programme start="20260109234500 +0000" stop="20260110004500 +0000" channel="49923122575716.shahid">
-        <title>Al Ostora Season 1 Episode 29</title>
-    </programme>
-    <programme start="20260110004500 +0000" stop="20260110013000 +0000" channel="49923122575716.shahid">
-        <title>Afareet Adly Allam Season 1 Episode 17</title>
-    </programme>
-    <programme start="20260110013000 +0000" stop="20260110021500 +0000" channel="49923122575716.shahid">
-        <title>Leh Laa?! Season 3 Episode 5</title>
-    </programme>
-    <programme start="20260110021500 +0000" stop="20260110024500 +0000" channel="49923122575716.shahid">
-        <title>Al Qadaa  </title>
-    </programme>
-    <programme start="20260110024500 +0000" stop="20260110033000 +0000" channel="49923122575716.shahid">
-        <title>Banat Khareqat Season 1 Episode 30</title>
-    </programme>
-    <programme start="20260110033000 +0000" stop="20260110041500 +0000" channel="49923122575716.shahid">
-        <title>Khamsa Wa Nos Season 1 Episode 15</title>
-    </programme>
-    <programme start="20260110041500 +0000" stop="20260110051000 +0000" channel="49923122575716.shahid">
-        <title>Al Ostora Season 1 Episode 29</title>
-    </programme>
-    <programme start="20260110051000 +0000" stop="20260110055700 +0000" channel="49923122575716.shahid">
-        <title>Afareet Adly Allam Season 1 Episode 17</title>
-    </programme>
-    <programme start="20260110055700 +0000" stop="20260110235959 +0000" channel="49923122575716.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260109000000 +0000" stop="20260110235959 +0000" channel="946938.shahid">
-        <title>TV guide is not available</title>
-    </programme>
     <programme start="20260109000000 +0000" stop="20260109004741 +0000" channel="975435.shahid">
         <title>Bab Al Hara Season 5 Episode 4</title>
     </programme>
@@ -4722,6 +4596,132 @@
     </programme>
     <programme start="20260110235539 +0000" stop="20260110235959 +0000" channel="975435.shahid">
         <title>Bab Al Hara Season 7 Episode 6</title>
+    </programme>
+    <programme start="20260109000000 +0000" stop="20260109004000 +0000" channel="49923122575716.shahid">
+        <title>Al Ostora Season 1 Episode 28</title>
+    </programme>
+    <programme start="20260109004000 +0000" stop="20260109012500 +0000" channel="49923122575716.shahid">
+        <title>Afareet Adly Allam Season 1 Episode 16</title>
+    </programme>
+    <programme start="20260109012500 +0000" stop="20260109021400 +0000" channel="49923122575716.shahid">
+        <title>Leh Laa?! Season 3 Episode 4</title>
+    </programme>
+    <programme start="20260109021400 +0000" stop="20260109024400 +0000" channel="49923122575716.shahid">
+        <title>Al Qadaa  </title>
+    </programme>
+    <programme start="20260109024400 +0000" stop="20260109032400 +0000" channel="49923122575716.shahid">
+        <title>Banat Khareqat Season 1 Episode 29</title>
+    </programme>
+    <programme start="20260109032400 +0000" stop="20260109042100 +0000" channel="49923122575716.shahid">
+        <title>Khamsa Wa Nos Season 1 Episode 14</title>
+    </programme>
+    <programme start="20260109042100 +0000" stop="20260109052000 +0000" channel="49923122575716.shahid">
+        <title>Al Ostora Season 1 Episode 28</title>
+    </programme>
+    <programme start="20260109052000 +0000" stop="20260109055600 +0000" channel="49923122575716.shahid">
+        <title>Afareet Adly Allam Season 1 Episode 16</title>
+    </programme>
+    <programme start="20260109055600 +0000" stop="20260109065100 +0000" channel="49923122575716.shahid">
+        <title>Leh Laa?! Season 3 Episode 4</title>
+    </programme>
+    <programme start="20260109065100 +0000" stop="20260109072200 +0000" channel="49923122575716.shahid">
+        <title>Al Qadaa  </title>
+    </programme>
+    <programme start="20260109072200 +0000" stop="20260109080700 +0000" channel="49923122575716.shahid">
+        <title>Banat Khareqat Season 1 Episode 29</title>
+    </programme>
+    <programme start="20260109080700 +0000" stop="20260109090600 +0000" channel="49923122575716.shahid">
+        <title>Khamsa Wa Nos Season 1 Episode 14</title>
+    </programme>
+    <programme start="20260109090600 +0000" stop="20260109100500 +0000" channel="49923122575716.shahid">
+        <title>Al Ostora Season 1 Episode 28</title>
+    </programme>
+    <programme start="20260109100500 +0000" stop="20260109105000 +0000" channel="49923122575716.shahid">
+        <title>Afareet Adly Allam Season 1 Episode 16</title>
+    </programme>
+    <programme start="20260109105000 +0000" stop="20260109114600 +0000" channel="49923122575716.shahid">
+        <title>Leh Laa?! Season 3 Episode 4</title>
+    </programme>
+    <programme start="20260109114600 +0000" stop="20260109121500 +0000" channel="49923122575716.shahid">
+        <title>Al Qadaa  </title>
+    </programme>
+    <programme start="20260109121500 +0000" stop="20260109130200 +0000" channel="49923122575716.shahid">
+        <title>Banat Khareqat Season 1 Episode 29</title>
+    </programme>
+    <programme start="20260109130200 +0000" stop="20260109135700 +0000" channel="49923122575716.shahid">
+        <title>Khamsa Wa Nos Season 1 Episode 14</title>
+    </programme>
+    <programme start="20260109135700 +0000" stop="20260109145000 +0000" channel="49923122575716.shahid">
+        <title>Al Ostora Season 1 Episode 28</title>
+    </programme>
+    <programme start="20260109145000 +0000" stop="20260109153700 +0000" channel="49923122575716.shahid">
+        <title>Afareet Adly Allam Season 1 Episode 16</title>
+    </programme>
+    <programme start="20260109153700 +0000" stop="20260109162500 +0000" channel="49923122575716.shahid">
+        <title>Leh Laa?! Season 3 Episode 4</title>
+    </programme>
+    <programme start="20260109162500 +0000" stop="20260109170000 +0000" channel="49923122575716.shahid">
+        <title>Al Qadaa  </title>
+    </programme>
+    <programme start="20260109170000 +0000" stop="20260109175200 +0000" channel="49923122575716.shahid">
+        <title>Banat Khareqat Season 1 Episode 30</title>
+    </programme>
+    <programme start="20260109175200 +0000" stop="20260109185200 +0000" channel="49923122575716.shahid">
+        <title>Khamsa Wa Nos Season 1 Episode 15</title>
+    </programme>
+    <programme start="20260109185200 +0000" stop="20260109190000 +0000" channel="49923122575716.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260109190000 +0000" stop="20260109200000 +0000" channel="49923122575716.shahid">
+        <title>Al Ostora Season 1 Episode 29</title>
+    </programme>
+    <programme start="20260109200000 +0000" stop="20260109204700 +0000" channel="49923122575716.shahid">
+        <title>Afareet Adly Allam Season 1 Episode 17</title>
+    </programme>
+    <programme start="20260109204700 +0000" stop="20260109210000 +0000" channel="49923122575716.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260109210000 +0000" stop="20260109214500 +0000" channel="49923122575716.shahid">
+        <title>Leh Laa?! Season 3 Episode 5</title>
+    </programme>
+    <programme start="20260109214500 +0000" stop="20260109221500 +0000" channel="49923122575716.shahid">
+        <title>Al Qadaa  </title>
+    </programme>
+    <programme start="20260109221500 +0000" stop="20260109230000 +0000" channel="49923122575716.shahid">
+        <title>Banat Khareqat Season 1 Episode 30</title>
+    </programme>
+    <programme start="20260109230000 +0000" stop="20260109234500 +0000" channel="49923122575716.shahid">
+        <title>Khamsa Wa Nos Season 1 Episode 15</title>
+    </programme>
+    <programme start="20260109234500 +0000" stop="20260110004500 +0000" channel="49923122575716.shahid">
+        <title>Al Ostora Season 1 Episode 29</title>
+    </programme>
+    <programme start="20260110004500 +0000" stop="20260110013000 +0000" channel="49923122575716.shahid">
+        <title>Afareet Adly Allam Season 1 Episode 17</title>
+    </programme>
+    <programme start="20260110013000 +0000" stop="20260110021500 +0000" channel="49923122575716.shahid">
+        <title>Leh Laa?! Season 3 Episode 5</title>
+    </programme>
+    <programme start="20260110021500 +0000" stop="20260110024500 +0000" channel="49923122575716.shahid">
+        <title>Al Qadaa  </title>
+    </programme>
+    <programme start="20260110024500 +0000" stop="20260110033000 +0000" channel="49923122575716.shahid">
+        <title>Banat Khareqat Season 1 Episode 30</title>
+    </programme>
+    <programme start="20260110033000 +0000" stop="20260110041500 +0000" channel="49923122575716.shahid">
+        <title>Khamsa Wa Nos Season 1 Episode 15</title>
+    </programme>
+    <programme start="20260110041500 +0000" stop="20260110051000 +0000" channel="49923122575716.shahid">
+        <title>Al Ostora Season 1 Episode 29</title>
+    </programme>
+    <programme start="20260110051000 +0000" stop="20260110055700 +0000" channel="49923122575716.shahid">
+        <title>Afareet Adly Allam Season 1 Episode 17</title>
+    </programme>
+    <programme start="20260110055700 +0000" stop="20260110235959 +0000" channel="49923122575716.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260109000000 +0000" stop="20260110235959 +0000" channel="946938.shahid">
+        <title>TV guide is not available</title>
     </programme>
     <programme start="20260109000000 +0000" stop="20260110235959 +0000" channel="49923264736646.shahid">
         <title>TV guide is not available</title>
@@ -5167,6 +5167,9 @@
     <programme start="20260110232609 +0000" stop="20260110235959 +0000" channel="1005232.shahid">
         <title>Selfie Season 3 Episode 10</title>
     </programme>
+    <programme start="20260109000000 +0000" stop="20260110235959 +0000" channel="946945.shahid">
+        <title>TV guide is not available</title>
+    </programme>
     <programme start="20260109000000 +0000" stop="20260109001136 +0000" channel="976272.shahid">
         <title>Al Kabeer Season 3 Episode 26</title>
     </programme>
@@ -5430,9 +5433,6 @@
     </programme>
     <programme start="20260110234141 +0000" stop="20260110235959 +0000" channel="976272.shahid">
         <title>Al Kabeer Awi Season 6 Episode 23</title>
-    </programme>
-    <programme start="20260109000000 +0000" stop="20260110235959 +0000" channel="946945.shahid">
-        <title>TV guide is not available</title>
     </programme>
     <programme start="20260109000000 +0000" stop="20260109003000 +0000" channel="387288.shahid">
         <title>Al Hadath News</title>

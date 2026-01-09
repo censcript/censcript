@@ -5131,8 +5131,11 @@
     <programme start="20260108165500 +0000" stop="20260108181000 +0000" channel="KBS World HD.starhub">
         <title>Nothing Uncovered</title>
     </programme>
-    <programme start="20260108181000 +0000" stop="20260108183000 +0000" channel="KBS World HD.starhub">
+    <programme start="20260108181000 +0000" stop="20260108182500 +0000" channel="KBS World HD.starhub">
         <title>Moving Voices Mini Album</title>
+    </programme>
+    <programme start="20260108182500 +0000" stop="20260108183000 +0000" channel="KBS World HD.starhub">
+        <title>ROUND PLAYLIST</title>
     </programme>
     <programme start="20260108183000 +0000" stop="20260108190500 +0000" channel="KBS World HD.starhub">
         <title>Marie and Her Three Daddies</title>
