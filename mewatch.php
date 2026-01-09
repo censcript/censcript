@@ -590,10 +590,10 @@
         <title>No Programme available now. Next Broadcast on 10th January, Saturday 7.20pm. Singapore Cup 2025/2026 </title>
     </programme>
     <programme start="20260108160000 +0000" stop="20260109160000 +0000" channel="spl02.mewatch">
-        <title>No programmes streaming LIVE at this moment</title>
+        <title>No Programme available now. Next Broadcast on 18th January, Sunday 7.20pm. Singapore Premier League 2025/2026</title>
     </programme>
     <programme start="20260109160000 +0000" stop="20260110160000 +0000" channel="spl02.mewatch">
-        <title>No programmes streaming LIVE at this moment</title>
+        <title>No Programme available now. Next Broadcast on 18th January, Sunday 7.20pm. Singapore Premier League 2025/2026</title>
     </programme>
     <programme start="20260108150000 +0000" stop="20260108170000 +0000" channel="now-80s.mewatch">
         <title>25 Rock Guilty Pleasures! - EP1</title>
