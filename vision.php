@@ -185,39 +185,39 @@
 <title>Jelajah Mitos</title>
 </programme>
 <programme start="20260109180000 +0000" stop="20260109190000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<title>Crime KV</title>
 </programme>
 <programme start="20260109190000 +0000" stop="20260109200000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<title>Naik Enak Turun Ogah</title>
 </programme>
 <programme start="20260109200000 +0000" stop="20260109220000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<title>Awas Ada Sule</title>
 </programme>
-<programme start="20260109220000 +0000" stop="20260109233000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<programme start="20260109220000 +0000" stop="20260109231500 +0000" channel="GTV.vision">
+<title>Kisah Viral</title>
 </programme>
-<programme start="20260109233000 +0000" stop="20260110003000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<programme start="20260109231500 +0000" stop="20260109234500 +0000" channel="GTV.vision">
+<title>BIMA-S</title>
 </programme>
-<programme start="20260110003000 +0000" stop="20260110013000 +0000" channel="GTV.vision">
-<title>GTV</title>
-</programme>
-<programme start="20260110013000 +0000" stop="20260110020000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<programme start="20260109234500 +0000" stop="20260110020000 +0000" channel="GTV.vision">
+<title>SpongeBob SquarePants</title>
 </programme>
 <programme start="20260110020000 +0000" stop="20260110050000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<title>Spongebob Squarepants (GTV)</title>
 </programme>
-<programme start="20260110050000 +0000" stop="20260110073000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<programme start="20260110050000 +0000" stop="20260110063000 +0000" channel="GTV.vision">
+<title>Zak Storm</title>
+</programme>
+<programme start="20260110063000 +0000" stop="20260110073000 +0000" channel="GTV.vision">
+<title>Bleach: The Shinigami&#039;S Crisis</title>
 </programme>
 <programme start="20260110073000 +0000" stop="20260110093000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<title>SpongeBob SquarePants</title>
 </programme>
-<programme start="20260110093000 +0000" stop="20260110114500 +0000" channel="GTV.vision">
-<title>GTV</title>
+<programme start="20260110093000 +0000" stop="20260110110000 +0000" channel="GTV.vision">
+<title>SpongeBob SquarePants</title>
 </programme>
-<programme start="20260110114500 +0000" stop="20260110141000 +0000" channel="GTV.vision">
+<programme start="20260110110000 +0000" stop="20260110133000 +0000" channel="GTV.vision">
 <title>GTV</title>
 </programme>
 <programme start="20260109000000 +0000" stop="20260109001000 +0000" channel="iNews.vision">
@@ -511,17 +511,14 @@
 <programme start="20260110070000 +0000" stop="20260110080000 +0000" channel="Trans TV.vision">
 <title>Rumpi Hot Of The Week</title>
 </programme>
-<programme start="20260110080000 +0000" stop="20260110091500 +0000" channel="Trans TV.vision">
+<programme start="20260110080000 +0000" stop="20260110093000 +0000" channel="Trans TV.vision">
 <title>Insert Investigasi</title>
 </programme>
-<programme start="20260110091500 +0000" stop="20260110100000 +0000" channel="Trans TV.vision">
-<title>Sehari Jadi Ratu</title>
-</programme>
-<programme start="20260110100000 +0000" stop="20260110103000 +0000" channel="Trans TV.vision">
-<title>CNN Indonesia News Update</title>
+<programme start="20260110093000 +0000" stop="20260110103000 +0000" channel="Trans TV.vision">
+<title>HaHa HiHi</title>
 </programme>
 <programme start="20260110103000 +0000" stop="20260110114500 +0000" channel="Trans TV.vision">
-<title>Bikin Laper</title>
+<title>Bikin Laper Weekend</title>
 </programme>
 <programme start="20260110114500 +0000" stop="20260110130000 +0000" channel="Trans TV.vision">
 <title>Insert Story</title>
@@ -670,23 +667,11 @@
 <programme start="20260109060000 +0000" stop="20260109091500 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
-<programme start="20260109090000 +0000" stop="20260109113000 +0000" channel="ANTV.vision">
+<programme start="20260109091500 +0000" stop="20260109114500 +0000" channel="ANTV.vision">
 <title>Shani</title>
 </programme>
 <programme start="20260109114500 +0000" stop="20260109133000 +0000" channel="ANTV.vision">
 <title>Senandung Cinta Lilis</title>
-</programme>
-<programme start="20260109133000 +0000" stop="20260109153000 +0000" channel="ANTV.vision">
-<title>Pertarungan Iblis Merah</title>
-</programme>
-<programme start="20260109153000 +0000" stop="20260109171500 +0000" channel="ANTV.vision">
-<title>Masuk Kena Keluar Kena</title>
-</programme>
-<programme start="20260109171500 +0000" stop="20260109183000 +0000" channel="ANTV.vision">
-<title>Kisah Cinta Nyi Blorong</title>
-</programme>
-<programme start="20260109183000 +0000" stop="20260109200000 +0000" channel="ANTV.vision">
-<title>Heat Team</title>
 </programme>
 <programme start="20260109200000 +0000" stop="20260109223000 +0000" channel="ANTV.vision">
 <title>Oh Darling Yeh Hai India</title>
@@ -1496,5 +1481,20 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260109050000 +0000" stop="20260109070000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260109070000 +0000" stop="20260109090000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260109090000 +0000" stop="20260109110000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260109110000 +0000" stop="20260109130000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260109130000 +0000" stop="20260109150000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260109150000 +0000" stop="20260109170000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>

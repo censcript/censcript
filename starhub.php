@@ -3112,6 +3112,12 @@
     <programme start="20260110000200 +0000" stop="20260110003000 +0000" channel="DW English HD.starhub">
         <title>News in Review</title>
     </programme>
+    <programme start="20260110003000 +0000" stop="20260110010000 +0000" channel="DW English HD.starhub">
+        <title>Why India will shape the car of the future</title>
+    </programme>
+    <programme start="20260110010000 +0000" stop="20260110011500 +0000" channel="DW English HD.starhub">
+        <title>News</title>
+    </programme>
     <programme start="20260110011500 +0000" stop="20260110013000 +0000" channel="DW English HD.starhub">
         <title>Should we go back to hunting wolves?</title>
     </programme>
@@ -3130,11 +3136,8 @@
     <programme start="20260110030000 +0000" stop="20260110031500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
-    <programme start="20260110031500 +0000" stop="20260110033000 +0000" channel="DW English HD.starhub">
-        <title>Driving while high: I tried it so you don’t have to</title>
-    </programme>
-    <programme start="20260110033000 +0000" stop="20260110040000 +0000" channel="DW English HD.starhub">
-        <title>Animals on Instagram - Suffering for Likes?</title>
+    <programme start="20260110031500 +0000" stop="20260110040000 +0000" channel="DW English HD.starhub">
+        <title>Dictators, Drugs, Discord-Latin America and the USA-Part 1: Coups</title>
     </programme>
     <programme start="20260110040000 +0000" stop="20260110041500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3149,10 +3152,10 @@
         <title>News</title>
     </programme>
     <programme start="20260110050200 +0000" stop="20260110053000 +0000" channel="DW English HD.starhub">
-        <title>Experiencing and understanding the art world</title>
+        <title>Unmasking Revolutions: Russia</title>
     </programme>
     <programme start="20260110053000 +0000" stop="20260110060000 +0000" channel="DW English HD.starhub">
-        <title>What&#039;s Money got to do with Love?</title>
+        <title>Street Debate: Youth in Ugandan Politics</title>
     </programme>
     <programme start="20260110060000 +0000" stop="20260110061500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3161,13 +3164,13 @@
         <title>Driving while high: I tried it so you don’t have to</title>
     </programme>
     <programme start="20260110063000 +0000" stop="20260110070000 +0000" channel="DW English HD.starhub">
-        <title>Why India will shape the car of the future</title>
+        <title>Best of DW Podcasts</title>
     </programme>
     <programme start="20260110070000 +0000" stop="20260110071500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20260110071500 +0000" stop="20260110073000 +0000" channel="DW English HD.starhub">
-        <title>Overcoming Challenges with Sports</title>
+        <title>The Unseen Finish Line</title>
     </programme>
     <programme start="20260110073000 +0000" stop="20260110080000 +0000" channel="DW English HD.starhub">
         <title>The Science Magazine</title>
@@ -3181,11 +3184,8 @@
     <programme start="20260110090000 +0000" stop="20260110091500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
-    <programme start="20260110091500 +0000" stop="20260110093000 +0000" channel="DW English HD.starhub">
-        <title>Overcoming Challenges with Sports</title>
-    </programme>
-    <programme start="20260110093000 +0000" stop="20260110100000 +0000" channel="DW English HD.starhub">
-        <title>Look me in the eyes!</title>
+    <programme start="20260110091500 +0000" stop="20260110100000 +0000" channel="DW English HD.starhub">
+        <title>Dictators, Drugs, Discord-Latin America and the USA-Part 1: Coups</title>
     </programme>
     <programme start="20260110100000 +0000" stop="20260110101500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3194,7 +3194,7 @@
         <title>Living in the Digital Age</title>
     </programme>
     <programme start="20260110103000 +0000" stop="20260110110000 +0000" channel="DW English HD.starhub">
-        <title>Experiencing and understanding the art world</title>
+        <title>Best of DW Podcasts</title>
     </programme>
     <programme start="20260110110000 +0000" stop="20260110110300 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3215,7 +3215,7 @@
         <title>News</title>
     </programme>
     <programme start="20260110131500 +0000" stop="20260110140000 +0000" channel="DW English HD.starhub">
-        <title>Treasure Islands in the Pacific - Living with the Ocean - Part 1: From Hawaii to the Cook Islands</title>
+        <title>Treasure Islands in the Pacific-Living with the Ocean-Part 1: From Hawaii to the Cook Islands</title>
     </programme>
     <programme start="20260110140000 +0000" stop="20260110141500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3224,7 +3224,7 @@
         <title>On Location</title>
     </programme>
     <programme start="20260110143000 +0000" stop="20260110150000 +0000" channel="DW English HD.starhub">
-        <title>What&#039;s Money got to do with Love?</title>
+        <title>Street Debate: Youth in Ugandan Politics</title>
     </programme>
     <programme start="20260110150000 +0000" stop="20260110151500 +0000" channel="DW English HD.starhub">
         <title>News</title>
