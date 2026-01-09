@@ -6815,7 +6815,7 @@
         <title>NHK Newsline</title>
     </programme>
     <programme start="20260109013000 +0000" stop="20260109020000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>NHK World-Japan Special Programme</title>
+        <title>Every Second Counts</title>
     </programme>
     <programme start="20260109020000 +0000" stop="20260109023000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>NHK Newsline</title>
@@ -6845,7 +6845,7 @@
         <title>Newsline Asia 24</title>
     </programme>
     <programme start="20260109063000 +0000" stop="20260109070000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>NHK World-Japan Special Programme</title>
+        <title>Every Second Counts</title>
     </programme>
     <programme start="20260109070000 +0000" stop="20260109073000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>Newsline Asia 24</title>
@@ -6887,7 +6887,7 @@
         <title>Newsroom Tokyo</title>
     </programme>
     <programme start="20260109123000 +0000" stop="20260109130000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>NHK World-Japan Special Programme</title>
+        <title>Every Second Counts</title>
     </programme>
     <programme start="20260109130000 +0000" stop="20260109133000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>NHK Newsline</title>

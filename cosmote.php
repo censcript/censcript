@@ -82,6 +82,10 @@
     <title>Sports Classics: Football Countdowns E10</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260110170000 +0700" stop="20260110190000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: FC Kairat Almaty - Olympiacos</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260109160000 +0700" stop="20260109175500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Cremonese - Cagliari</title>
     <desc>Live: Tidak</desc>
@@ -150,10 +154,6 @@
     <title>Football: Aris - Panetolikos</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260109150000 +0700" stop="20260109170000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Al Hilal - Al-Hazem FC</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260109170000 +0700" stop="20260109190000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: APOEL - EN Paralimni</title>
     <desc>Live: Tidak</desc>
@@ -218,8 +218,8 @@
     <title>Football: Rangers FC - Aberdeen</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260109150000 +0700" stop="20260109170000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Karditsa - KK Spartak</title>
+<programme start="20260110171500 +0700" stop="20260110191500 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Wrexham  - Nottingham F.</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260109170000 +0700" stop="20260109190500 +0700" channel="COSMOTE Sport 4 HD">
@@ -288,10 +288,6 @@
 </programme>
 <programme start="20260110165000 +0700" stop="20260110192000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Los Angeles Lakers - Milwaukee Bucks</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260109154000 +0700" stop="20260109164000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>MotoGP Classics</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260109164000 +0700" stop="20260109174000 +0700" channel="COSMOTE Sport 5 HD">
@@ -394,8 +390,8 @@
     <title>MotoGP Classics</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260109160000 +0700" stop="20260109170000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>ATP 2025 - Review</title>
+<programme start="20260110170500 +0700" stop="20260110183000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>DTM 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260109170000 +0700" stop="20260109190000 +0700" channel="COSMOTE Sport 6 HD">
@@ -450,8 +446,8 @@
     <title>Tennis: Jannik Sinner - Carlos Alcaraz (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260109150000 +0700" stop="20260109170000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
+<programme start="20260110170000 +0700" stop="20260110180000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>ATP 2025 - Review</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260109170000 +0700" stop="20260109190000 +0700" channel="COSMOTE Sport 7 HD">
@@ -526,10 +522,6 @@
     <title>Tennis: ATP 250 2025 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260109150000 +0700" stop="20260109170000 +0700" channel="COSMOTE Sport 8 HD">
-    <title>COSMOTESport8HD</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260109170000 +0700" stop="20260109190000 +0700" channel="COSMOTE Sport 8 HD">
     <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
@@ -578,8 +570,8 @@
     <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260109150000 +0700" stop="20260109170000 +0700" channel="COSMOTE Sport 9 HD">
-    <title>COSMOTESport9HD</title>
+<programme start="20260110170000 +0700" stop="20260110184500 +0700" channel="COSMOTE Sport 8 HD">
+    <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260109170000 +0700" stop="20260109190000 +0700" channel="COSMOTE Sport 9 HD">
