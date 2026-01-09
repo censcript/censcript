@@ -1,11 +1,3 @@
-<programme start="20260110013000 +0700" stop="20260110033000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: FC Bayern Munchen - Sporting CP</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260110033000 +0700" stop="20260110040000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Game R1 S6 E20</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260110040000 +0700" stop="20260110043000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Sports Classics: Football Countdowns E8</title>
     <desc>Live: Tidak</desc>
@@ -94,6 +86,14 @@
     <title>UEFA Champions League Magazine 2024-25 E15</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260111040000 +0700" stop="20260111043000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Game R1 S6 E20</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260111043000 +0700" stop="20260111064000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: Panetolikos - PAOK</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260110023000 +0700" stop="20260110043000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Lecce - AS Roma</title>
     <desc>Live: Tidak</desc>
@@ -177,6 +177,10 @@
 <programme start="20260111024500 +0700" stop="20260111044500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Atalanta - Torino (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20260111044500 +0700" stop="20260111064500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: AS Roma - Sassuolo</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260110023000 +0700" stop="20260110043000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Wrexham  - Nottingham F. (L)</title>
@@ -320,10 +324,6 @@
 </programme>
 <programme start="20260111034500 +0700" stop="20260111055500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Promitheas - Elan Chalon</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260110025000 +0700" stop="20260110035500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260110035500 +0700" stop="20260110042500 +0700" channel="COSMOTE Sport 5 HD">
@@ -717,5 +717,13 @@
 <programme start="20260111023000 +0700" stop="20260111040000 +0700" channel="COSMOTE Sport 9 HD">
     <title>COSMOTESport9HD</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260111040000 +0700" stop="20260111043000 +0700" channel="COSMOTE Sport 9 HD">
+    <title>COSMOTESport9HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260111043000 +0700" stop="20260111080000 +0700" channel="COSMOTE Sport 9 HD">
+    <title>American Football: Carolina Panthers - Los Angeles Rams (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 No EPG found for COSMOTE Sport 10 HD
