@@ -40,6 +40,18 @@
 <programme start="20260109161500 +0000" stop="20260109183000 +0000" channel="RCTI.vision">
 <title>RCTI</title>
 </programme>
+<programme start="20260109183000 +0000" stop="20260109190000 +0000" channel="RCTI.vision">
+<title>RCTI</title>
+</programme>
+<programme start="20260109190000 +0000" stop="20260109213000 +0000" channel="RCTI.vision">
+<title>RCTI</title>
+</programme>
+<programme start="20260109213000 +0000" stop="20260109233000 +0000" channel="RCTI.vision">
+<title>RCTI</title>
+</programme>
+<programme start="20260109233000 +0000" stop="20260110003000 +0000" channel="RCTI.vision">
+<title>RCTI</title>
+</programme>
 <programme start="20260110003000 +0000" stop="20260110023000 +0000" channel="RCTI.vision">
 <title>RCTI</title>
 </programme>
@@ -62,7 +74,7 @@
 <title>Kiko</title>
 </programme>
 <programme start="20260109004500 +0000" stop="20260109013000 +0000" channel="MNCTV.vision">
-<title>PAW Patrol</title>
+<title>Kung Fu Panda Dan Sahabat</title>
 </programme>
 <programme start="20260109013000 +0000" stop="20260109023000 +0000" channel="MNCTV.vision">
 <title>Upin dan Ipin (MNCTV)</title>
@@ -101,46 +113,46 @@
 <title>Skripsick</title>
 </programme>
 <programme start="20260109170000 +0000" stop="20260109190000 +0000" channel="MNCTV.vision">
-<title>Suparman Reborn 2</title>
+<title>MNC TV</title>
 </programme>
-<programme start="20260109190000 +0000" stop="20260109230000 +0000" channel="MNCTV.vision">
-<title>Suparman Reborn 2</title>
+<programme start="20260109190000 +0000" stop="20260109220000 +0000" channel="MNCTV.vision">
+<title>MNC TV</title>
 </programme>
-<programme start="20260109230000 +0000" stop="20260109231500 +0000" channel="MNCTV.vision">
-<title>CoComelon</title>
+<programme start="20260109220000 +0000" stop="20260109231500 +0000" channel="MNCTV.vision">
+<title>MNC TV</title>
 </programme>
 <programme start="20260109231500 +0000" stop="20260109234500 +0000" channel="MNCTV.vision">
-<title>Thomas &amp; Friends</title>
+<title>MNC TV</title>
 </programme>
 <programme start="20260109234500 +0000" stop="20260110001500 +0000" channel="MNCTV.vision">
-<title>Zak Storm</title>
+<title>MNC TV</title>
 </programme>
 <programme start="20260110001500 +0000" stop="20260110004500 +0000" channel="MNCTV.vision">
-<title>PAW Patrol</title>
+<title>MNC TV</title>
 </programme>
 <programme start="20260110004500 +0000" stop="20260110011500 +0000" channel="MNCTV.vision">
-<title>Dapur Ngebor</title>
+<title>MNC TV</title>
 </programme>
 <programme start="20260110011500 +0000" stop="20260110041500 +0000" channel="MNCTV.vision">
-<title>Upin dan Ipin (MNCTV)</title>
+<title>MNC TV</title>
 </programme>
 <programme start="20260110041500 +0000" stop="20260110060000 +0000" channel="MNCTV.vision">
-<title>Upin &amp; Ipin</title>
+<title>MNC TV</title>
 </programme>
 <programme start="20260110060000 +0000" stop="20260110073000 +0000" channel="MNCTV.vision">
-<title>Upin &amp; Ipin</title>
+<title>MNC TV</title>
 </programme>
 <programme start="20260110073000 +0000" stop="20260110090000 +0000" channel="MNCTV.vision">
-<title>Kiko</title>
+<title>MNC TV</title>
 </programme>
 <programme start="20260110090000 +0000" stop="20260110100000 +0000" channel="MNCTV.vision">
-<title>Upin &amp; Ipin</title>
+<title>MNC TV</title>
 </programme>
-<programme start="20260110100000 +0000" stop="20260110110000 +0000" channel="MNCTV.vision">
-<title>Upin &amp; Ipin</title>
+<programme start="20260110100000 +0000" stop="20260110113000 +0000" channel="MNCTV.vision">
+<title>MNC TV</title>
 </programme>
-<programme start="20260110110000 +0000" stop="20260110120000 +0000" channel="MNCTV.vision">
-<title>Entong</title>
+<programme start="20260110113000 +0000" stop="20260110123000 +0000" channel="MNCTV.vision">
+<title>MNC TV</title>
 </programme>
 <programme start="20260109000000 +0000" stop="20260109003000 +0000" channel="GTV.vision">
 <title>Buletin iNews Pagi</title>
@@ -642,6 +654,9 @@
 </programme>
 <programme start="20260109010000 +0000" stop="20260109023000 +0000" channel="ANTV.vision">
 <title>Catatan Hati</title>
+</programme>
+<programme start="20260109023000 +0000" stop="20260109060000 +0000" channel="ANTV.vision">
+<title>Awara Paagal Deewana</title>
 </programme>
 <programme start="20260109060000 +0000" stop="20260109090000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
@@ -1481,8 +1496,5 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260109090000 +0000" stop="20260109110000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260109110000 +0000" stop="20260109130000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>

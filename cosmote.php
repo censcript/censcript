@@ -134,6 +134,14 @@
     <title>Football: PAOK - Atromitos</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260110143000 +0700" stop="20260110144500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Sports Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260110144500 +0700" stop="20260110151500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Sports Classics: Football Countdowns E5</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260109130000 +0700" stop="20260109150000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Rangers FC - Aberdeen</title>
     <desc>Live: Tidak</desc>
@@ -196,6 +204,10 @@
 </programme>
 <programme start="20260110130000 +0700" stop="20260110145500 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Leicester City FC - West Bromwich Albion</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260110145500 +0700" stop="20260110151500 +0700" channel="COSMOTE Sport 3 HD">
+    <title>William Hill Scottish Premiership - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260109125500 +0700" stop="20260109150000 +0700" channel="COSMOTE Sport 4 HD">
@@ -362,6 +374,10 @@
     <title>2025 Extreme H</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260110140500 +0700" stop="20260110150500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Highlights: 2025 Extreme H</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260109120000 +0700" stop="20260109143000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Volleyball: Olympiacos - Zeleznicar</title>
     <desc>Live: Tidak</desc>
@@ -421,6 +437,10 @@
 <programme start="20260110120000 +0700" stop="20260110140000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Volleyball: Tours VB - Trentino Itas</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260110140000 +0700" stop="20260110170000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: Jannik Sinner - Carlos Alcaraz (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260109130000 +0700" stop="20260109150000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
@@ -601,5 +621,13 @@
 <programme start="20260110133000 +0700" stop="20260110140000 +0700" channel="COSMOTE Sport 9 HD">
     <title>COSMOTESport9HD</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260110140000 +0700" stop="20260110143000 +0700" channel="COSMOTE Sport 9 HD">
+    <title>COSMOTESport9HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260110143000 +0700" stop="20260110163000 +0700" channel="COSMOTE Sport 9 HD">
+    <title>Tennis: ATP 250 2026 (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 No EPG found for COSMOTE Sport 10 HD
