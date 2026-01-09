@@ -4159,19 +4159,22 @@
   <programme start="20260111004000 +0000" stop="20260111021500 +0000" channel="Seznam.cz TV.webtv.sk">
     <title lang="id">Otec Braun (7)</title>
   </programme>
-  <programme start="20260111021500 +0000" stop="20260111024000 +0000" channel="Seznam.cz TV.webtv.sk">
+  <programme start="20260111021500 +0000" stop="20260111023500 +0000" channel="Seznam.cz TV.webtv.sk">
     <title lang="id">Ušák Jaromíra Bosáka (54)</title>
   </programme>
-  <programme start="20260111024000 +0000" stop="20260111030500 +0000" channel="Seznam.cz TV.webtv.sk">
+  <programme start="20260111023500 +0000" stop="20260111030000 +0000" channel="Seznam.cz TV.webtv.sk">
     <title lang="id">Ušák Jaromíra Bosáka (55)</title>
   </programme>
-  <programme start="20260111030500 +0000" stop="20260111031000 +0000" channel="Seznam.cz TV.webtv.sk">
+  <programme start="20260111030000 +0000" stop="20260111031000 +0000" channel="Seznam.cz TV.webtv.sk">
+    <title lang="id">U stánku II (16)</title>
+  </programme>
+  <programme start="20260111031000 +0000" stop="20260111031500 +0000" channel="Seznam.cz TV.webtv.sk">
     <title lang="id">Výleťák (149)</title>
   </programme>
-  <programme start="20260111031000 +0000" stop="20260111032000 +0000" channel="Seznam.cz TV.webtv.sk">
+  <programme start="20260111031500 +0000" stop="20260111032500 +0000" channel="Seznam.cz TV.webtv.sk">
     <title lang="id">Ze dvora I (2)</title>
   </programme>
-  <programme start="20260111032000 +0000" stop="20260111050000 +0000" channel="Seznam.cz TV.webtv.sk">
+  <programme start="20260111032500 +0000" stop="20260111050000 +0000" channel="Seznam.cz TV.webtv.sk">
     <title lang="id">Místo činu: Kolín (14)</title>
   </programme>
   <programme start="20260111050000 +0000" stop="20260111050500 +0000" channel="Seznam.cz TV.webtv.sk">
