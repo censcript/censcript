@@ -3062,7 +3062,7 @@
         <title>News</title>
     </programme>
     <programme start="20260109183000 +0000" stop="20260109190000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW Podcasts</title>
+        <title>Africa</title>
     </programme>
     <programme start="20260109190000 +0000" stop="20260109190200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3071,7 +3071,7 @@
         <title>Spotlight on People</title>
     </programme>
     <programme start="20260109193000 +0000" stop="20260109200000 +0000" channel="DW English HD.starhub">
-        <title>The Environment Magazine</title>
+        <title>Making big cities more livable - Green ideas for urban life</title>
     </programme>
     <programme start="20260109200000 +0000" stop="20260109203000 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3095,7 +3095,7 @@
         <title>News in Review</title>
     </programme>
     <programme start="20260109223000 +0000" stop="20260109230000 +0000" channel="DW English HD.starhub">
-        <title>The Environment Magazine</title>
+        <title>Second-hand clothes meet first-class eco-friendly fashion</title>
     </programme>
     <programme start="20260109230000 +0000" stop="20260109231500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3104,19 +3104,13 @@
         <title>Driving while high: I tried it so you don’t have to</title>
     </programme>
     <programme start="20260109233000 +0000" stop="20260110000000 +0000" channel="DW English HD.starhub">
-        <title>Africa</title>
+        <title>Best of DW Podcasts</title>
     </programme>
     <programme start="20260110000000 +0000" stop="20260110000200 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20260110000200 +0000" stop="20260110003000 +0000" channel="DW English HD.starhub">
         <title>News in Review</title>
-    </programme>
-    <programme start="20260110003000 +0000" stop="20260110010000 +0000" channel="DW English HD.starhub">
-        <title>Why India will shape the car of the future</title>
-    </programme>
-    <programme start="20260110010000 +0000" stop="20260110011500 +0000" channel="DW English HD.starhub">
-        <title>News</title>
     </programme>
     <programme start="20260110011500 +0000" stop="20260110013000 +0000" channel="DW English HD.starhub">
         <title>Should we go back to hunting wolves?</title>
