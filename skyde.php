@@ -943,16 +943,16 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260109072500 +0000" stop="20260109080000 +0000" channel="DAZN 1 HD.skyde">
     <title>&quot;Mehr als 90 Minuten&quot; 2025/26: Staffel 2 - Folge 2</title>
 </programme>
-<programme start="20260109080000 +0000" stop="20260109083000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260109080000 +0000" stop="20260109082000 +0000" channel="DAZN 1 HD.skyde">
     <title>Doppelpack Europa - Highlights der Serie A und Ligue 1 2025/26: 18./17. Spieltag</title>
 </programme>
-<programme start="20260109083000 +0000" stop="20260109103000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260109082000 +0000" stop="20260109101000 +0000" channel="DAZN 1 HD.skyde">
     <title>Serie A 25/26: Parma Calcio - Inter Mailand</title>
 </programme>
-<programme start="20260109103000 +0000" stop="20260109123000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260109101000 +0000" stop="20260109121000 +0000" channel="DAZN 1 HD.skyde">
     <title>LaLiga 25/26: Real Madrid - Real Betis Sevilla</title>
 </programme>
-<programme start="20260109123000 +0000" stop="20260109130500 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260109121000 +0000" stop="20260109130500 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
 <programme start="20260109130500 +0000" stop="20260109133000 +0000" channel="DAZN 1 HD.skyde">
@@ -967,10 +967,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260109160000 +0000" stop="20260109180000 +0000" channel="DAZN 1 HD.skyde">
     <title>Ligue 1 25/26: PSG - Paris FC</title>
 </programme>
-<programme start="20260109180000 +0000" stop="20260109183000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260109180000 +0000" stop="20260109184500 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20260109183000 +0000" stop="20260109192000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260109184500 +0000" stop="20260109192000 +0000" channel="DAZN 1 HD.skyde">
     <title>Doppelpack Europa - Highlights der Serie A und Ligue 1 2025/26: 18./17. Spieltag</title>
 </programme>
 <programme start="20260109192000 +0000" stop="20260109213000 +0000" channel="DAZN 1 HD.skyde">
@@ -2818,13 +2818,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260109191500 +0000" stop="20260109221500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: Eintracht Frankfurt - Borussia Dortmund, Flutlicht-Freitag, 16. Spieltag</title>
 </programme>
-<programme start="20260109181000 +0000" stop="20260109183000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+<programme start="20260109191000 +0000" stop="20260109193000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Es folgt: LIVE Bundesliga</title>
 </programme>
-<programme start="20260109183000 +0000" stop="20260109191500 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
-    <title>Live BL: SGE - BVB: tipico Countdown, Flutlicht-Freitag, 16. Spieltag</title>
-</programme>
-<programme start="20260109191500 +0000" stop="20260109213000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+<programme start="20260109193000 +0000" stop="20260109213000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Live BL: Sky Sport Fantasy: SGE - BVB, 18. Spieltag</title>
 </programme>
 <programme start="20260108230000 +0000" stop="20260109000000 +0000" channel="Sky Sport F1 HD.skyde">

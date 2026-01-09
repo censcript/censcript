@@ -5179,13 +5179,19 @@
     <programme start="20260109074000 +0000" stop="20260109080000 +0000" channel="KBS World HD.starhub">
         <title>KBS WORLD News Today</title>
     </programme>
-    <programme start="20260109080000 +0000" stop="20260109093000 +0000" channel="KBS World HD.starhub">
+    <programme start="20260109080000 +0000" stop="20260109082000 +0000" channel="KBS World HD.starhub">
+        <title>The 46th Blue Dragon Film Awards Highlights</title>
+    </programme>
+    <programme start="20260109082000 +0000" stop="20260109082500 +0000" channel="KBS World HD.starhub">
+        <title>Music Bank K-Chart</title>
+    </programme>
+    <programme start="20260109082500 +0000" stop="20260109093500 +0000" channel="KBS World HD.starhub">
         <title>Music Bank</title>
     </programme>
-    <programme start="20260109093000 +0000" stop="20260109094500 +0000" channel="KBS World HD.starhub">
+    <programme start="20260109093500 +0000" stop="20260109095000 +0000" channel="KBS World HD.starhub">
         <title>The Dropout Employee</title>
     </programme>
-    <programme start="20260109094500 +0000" stop="20260109104000 +0000" channel="KBS World HD.starhub">
+    <programme start="20260109095000 +0000" stop="20260109104000 +0000" channel="KBS World HD.starhub">
         <title>The Great Journey</title>
     </programme>
     <programme start="20260109104000 +0000" stop="20260109113500 +0000" channel="KBS World HD.starhub">
