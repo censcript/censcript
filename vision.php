@@ -637,6 +637,9 @@
 <programme start="20260111114500 +0000" stop="20260111121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
+<programme start="20260109230000 +0000" stop="20260110010000 +0000" channel="ANTV.vision">
+<title>Perwira Ksatria</title>
+</programme>
 <programme start="20260110010000 +0000" stop="20260110023000 +0000" channel="ANTV.vision">
 <title>Catatan Hati</title>
 </programme>
@@ -1493,8 +1496,5 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260110070000 +0000" stop="20260110090000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260110090000 +0000" stop="20260110110000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
