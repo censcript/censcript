@@ -568,9 +568,6 @@
 <programme start="20260110143000 +0000" stop="20260110163000 +0000" channel="Trans 7.vision">
 <title>BTS</title>
 </programme>
-<programme start="20260110163000 +0000" stop="20260110181500 +0000" channel="Trans 7.vision">
-<title>Dongkrak Antik</title>
-</programme>
 <programme start="20260110181500 +0000" stop="20260110190000 +0000" channel="Trans 7.vision">
 <title>Best Fishing</title>
 </programme>
@@ -637,9 +634,6 @@
 <programme start="20260111114500 +0000" stop="20260111121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
-<programme start="20260109230000 +0000" stop="20260110010000 +0000" channel="ANTV.vision">
-<title>Perwira Ksatria</title>
-</programme>
 <programme start="20260110010000 +0000" stop="20260110023000 +0000" channel="ANTV.vision">
 <title>Catatan Hati</title>
 </programme>
@@ -655,17 +649,8 @@
 <programme start="20260110114500 +0000" stop="20260110133000 +0000" channel="ANTV.vision">
 <title>Senandung Cinta Lilis</title>
 </programme>
-<programme start="20260110133000 +0000" stop="20260110153000 +0000" channel="ANTV.vision">
-<title>Jurus Dewa Naga</title>
-</programme>
 <programme start="20260110153000 +0000" stop="20260110171500 +0000" channel="ANTV.vision">
 <title>Makin Lama Makin Asik</title>
-</programme>
-<programme start="20260110171500 +0000" stop="20260110183000 +0000" channel="ANTV.vision">
-<title>Susuk Nyi Roro Kidul</title>
-</programme>
-<programme start="20260110183000 +0000" stop="20260110200000 +0000" channel="ANTV.vision">
-<title>Forest Of Death</title>
 </programme>
 <programme start="20260110200000 +0000" stop="20260110223000 +0000" channel="ANTV.vision">
 <title>Desi Boyz</title>
@@ -1496,5 +1481,20 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260110070000 +0000" stop="20260110090000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260110090000 +0000" stop="20260110110000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260110110000 +0000" stop="20260110130000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260110130000 +0000" stop="20260110150000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260110150000 +0000" stop="20260110170000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260110170000 +0000" stop="20260110190000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
