@@ -2527,11 +2527,8 @@
 <programme start="20260110221000 +0000" stop="20260110230500 +0000" channel="Sky Showcase HD.skyde">
     <title>The Copenhagen Test</title>
 </programme>
-<programme start="20260109230000 +0000" stop="20260110053000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260109230000 +0000" stop="20260110063000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Live United Cup: SUI - BEL, Halbfinale 1 in Sydney (AUS)</title>
-</programme>
-<programme start="20260110053000 +0000" stop="20260110063000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>ATP &amp; WTA: Zeit für ein Break - das Tennisjahr 2025</title>
 </programme>
 <programme start="20260110063000 +0000" stop="20260110123000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Live United Cup: POL - USA, Halbfinale 2 in Sydney (AUS)</title>
@@ -2666,10 +2663,10 @@
     <title>Live BL: tipico Countdown, 16. Spieltag</title>
 </programme>
 <programme start="20260110141500 +0000" stop="20260110163000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
-    <title>Live BL: FC St. Pauli - RB Leipzig, 16. Spieltag</title>
+    <title>Live BL: SC Freiburg - Hamburger SV, 16. Spieltag</title>
 </programme>
 <programme start="20260110141500 +0000" stop="20260110163000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
-    <title>Live BL: SC Freiburg - Hamburger SV, 16. Spieltag</title>
+    <title>Live BL: FC St. Pauli - RB Leipzig, 16. Spieltag</title>
 </programme>
 <programme start="20260110163000 +0000" stop="20260110201500 +0000" channel="Sky Sport Bundesliga UHD.skyde">
     <title>Live BL: Bayer Leverkusen - VfB Stuttgart, tipico Topspiel der Woche, 16. Spieltag</title>
@@ -2740,11 +2737,8 @@
 <programme start="20260110130000 +0000" stop="20260110140000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live BL: tipico Countdown, 16. Spieltag</title>
 </programme>
-<programme start="20260110140000 +0000" stop="20260110141500 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
-    <title>Live BL: SCF - HSV: tipico Countdown, 16. Spieltag</title>
-</programme>
-<programme start="20260110141500 +0000" stop="20260110164500 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
-    <title>Live BL: SC Freiburg - Hamburger SV, 16. Spieltag</title>
+<programme start="20260110140000 +0000" stop="20260110171500 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
+    <title>Live BL: Multiview, 16. Spieltag</title>
 </programme>
 <programme start="20260109230000 +0000" stop="20260110000000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F3: 1. Rennen - GP Italien</title>
