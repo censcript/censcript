@@ -3415,6 +3415,9 @@
     <programme start="20260111234546 +0000" stop="20260111235959 +0000" channel="992538.shahid">
         <title>El Le&#039;ba Season 1 Episode 11</title>
     </programme>
+    <programme start="20260110000000 +0000" stop="20260111235959 +0000" channel="49922763510387.shahid">
+        <title>TV guide is not available</title>
+    </programme>
     <programme start="20260110000000 +0000" stop="20260110020000 +0000" channel="995495.shahid">
         <title>Lost In Translation</title>
     </programme>
@@ -3579,9 +3582,6 @@
     </programme>
     <programme start="20260112000000 +0000" stop="20260111235959 +0000" channel="995495.shahid">
         <title>Awwal Marra Ashouf Season 1 Episode 3</title>
-    </programme>
-    <programme start="20260110000000 +0000" stop="20260111235959 +0000" channel="49922763510387.shahid">
-        <title>TV guide is not available</title>
     </programme>
     <programme start="20260110000000 +0000" stop="20260111235959 +0000" channel="946946.shahid">
         <title>TV guide is not available</title>
@@ -6766,6 +6766,9 @@
     <programme start="20260111060200 +0000" stop="20260111235959 +0000" channel="49923122575716.shahid">
         <title>TV guide is not available</title>
     </programme>
+    <programme start="20260110000000 +0000" stop="20260111235959 +0000" channel="946940.shahid">
+        <title>TV guide is not available</title>
+    </programme>
     <programme start="20260110000000 +0000" stop="20260110003257 +0000" channel="1005232.shahid">
         <title>Selfie Season 3 Episode 10</title>
     </programme>
@@ -7014,9 +7017,6 @@
     </programme>
     <programme start="20260111233646 +0000" stop="20260111235959 +0000" channel="1005232.shahid">
         <title>Selfie Season 3 Episode 22</title>
-    </programme>
-    <programme start="20260110000000 +0000" stop="20260111235959 +0000" channel="946940.shahid">
-        <title>TV guide is not available</title>
     </programme>
     <programme start="20260110000000 +0000" stop="20260111235959 +0000" channel="1029746.shahid">
         <title>TV guide is not available</title>
