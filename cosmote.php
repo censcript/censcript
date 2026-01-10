@@ -70,6 +70,10 @@
     <title>Sportshow (L)</title>
     <desc>Live: Ya</desc>
 </programme>
+<programme start="20260112063000 +0700" stop="20260112090000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Sportshow</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260111044500 +0700" stop="20260111064500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: AS Roma - Sassuolo</title>
     <desc>Live: Tidak</desc>
@@ -210,8 +214,8 @@
     <title>Football: OFI - Asteras Aktor</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260111034500 +0700" stop="20260111055500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Promitheas - Elan Chalon</title>
+<programme start="20260112061000 +0700" stop="20260112081000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Aberdeen - Rangers FC</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260111055500 +0700" stop="20260111080000 +0700" channel="COSMOTE Sport 4 HD">
@@ -274,8 +278,8 @@
     <title>Basketball: Orlando Magic - New Orleans Pelicans (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260111050000 +0700" stop="20260111053000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Extreme E - Highlights 2025</title>
+<programme start="20260112060000 +0700" stop="20260112080000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Valencia Basket Club - Unicaja</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260111053000 +0700" stop="20260111063000 +0700" channel="COSMOTE Sport 5 HD">
@@ -386,6 +390,10 @@
     <title>MotoGP Classics</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260112065500 +0700" stop="20260112080000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>2025 Extreme H</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260111030000 +0700" stop="20260111062000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Lorenzo Musetti - Andrey Rublev</title>
     <desc>Live: Tidak</desc>
@@ -444,6 +452,10 @@
 </programme>
 <programme start="20260112040000 +0700" stop="20260112063000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Daniil Medvedev - Brandon Nakashima</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260112063000 +0700" stop="20260112073000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Sports Classics: 2025 Outdoor Specials</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260111050000 +0700" stop="20260111070000 +0700" channel="COSMOTE Sport 7 HD">
