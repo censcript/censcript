@@ -2054,7 +2054,7 @@
         <title>Movie - Middle Class Madhavan</title>
     </programme>
     <programme start="20260110073000 +0000" stop="20260110103000 +0000" channel="KTV HD.starhub">
-        <title>Movie - Maanagara kaaval</title>
+        <title>Movie - Maanagara Kaaval</title>
     </programme>
     <programme start="20260110103000 +0000" stop="20260110133000 +0000" channel="KTV HD.starhub">
         <title>Movie - Rudhramadevi</title>
@@ -7636,10 +7636,13 @@
     <programme start="20260109233000 +0000" stop="20260110013000 +0000" channel="Asianet Movies.starhub">
         <title>Bada Dosth</title>
     </programme>
-    <programme start="20260110013000 +0000" stop="20260110043000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260110013000 +0000" stop="20260110020000 +0000" channel="Asianet Movies.starhub">
+        <title>Chirikkum Thalika</title>
+    </programme>
+    <programme start="20260110020000 +0000" stop="20260110043500 +0000" channel="Asianet Movies.starhub">
         <title>Salala Mobiles</title>
     </programme>
-    <programme start="20260110043000 +0000" stop="20260110073000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260110043500 +0000" stop="20260110073000 +0000" channel="Asianet Movies.starhub">
         <title>Mannar Mathai Speaking 2</title>
     </programme>
     <programme start="20260110073000 +0000" stop="20260110103000 +0000" channel="Asianet Movies.starhub">
