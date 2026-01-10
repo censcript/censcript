@@ -1,7 +1,3 @@
-<programme start="20260110110000 +0700" stop="20260110120000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>UEFA Champions League Highlights 2025-26</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260110120000 +0700" stop="20260110130000 +0700" channel="COSMOTE Sport 1 HD">
     <title>UEFA Champions League Highlights 2025-26</title>
     <desc>Live: Tidak</desc>
@@ -80,10 +76,6 @@
 </programme>
 <programme start="20260111110000 +0700" stop="20260111130000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: SK Sigma Olomouc - Lech Poznan</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260110100000 +0700" stop="20260110120000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Pisa - Como</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260110120000 +0700" stop="20260110143000 +0700" channel="COSMOTE Sport 2 HD">
@@ -166,6 +158,10 @@
     <title>Football: Udinese - Pisa</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260111120000 +0700" stop="20260111140000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: AS Roma - Sassuolo</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260110110000 +0700" stop="20260110130000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Gil Vicente - Sporting CP</title>
     <desc>Live: Tidak</desc>
@@ -240,6 +236,10 @@
 </programme>
 <programme start="20260111113000 +0700" stop="20260111120000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Copa Libertadores 2025 - Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260111120000 +0700" stop="20260111153000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>American Football: Carolina Panthers - Los Angeles Rams</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260110103000 +0700" stop="20260110133000 +0700" channel="COSMOTE Sport 4 HD">
@@ -402,12 +402,8 @@
     <title>2025 FIM Women&#039;s Circuit Racing World Championship</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260110110000 +0700" stop="20260110113000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Sports Classics: The Outdoor Sports Show 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260110113000 +0700" stop="20260110120000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Premier Padel Tour 2025 - Highlights</title>
+<programme start="20260111121000 +0700" stop="20260111130500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>2025 FIM Women&#039;s Circuit Racing World Championship</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260110120000 +0700" stop="20260110140000 +0700" channel="COSMOTE Sport 6 HD">
@@ -683,6 +679,10 @@
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20260111113000 +0700" stop="20260111120000 +0700" channel="COSMOTE Sport 9 HD">
+    <title>COSMOTESport9HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260111120000 +0700" stop="20260111130000 +0700" channel="COSMOTE Sport 9 HD">
     <title>COSMOTESport9HD</title>
     <desc>Live: Tidak</desc>
 </programme>

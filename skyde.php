@@ -2527,14 +2527,14 @@
 <programme start="20260110221000 +0000" stop="20260110230500 +0000" channel="Sky Showcase HD.skyde">
     <title>The Copenhagen Test</title>
 </programme>
-<programme start="20260109233000 +0000" stop="20260110053000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live United Cup: Halbfinale 1 in Sydney (AUS)</title>
+<programme start="20260109230000 +0000" stop="20260110053000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Live United Cup: SUI - BEL, Halbfinale 1 in Sydney (AUS)</title>
 </programme>
 <programme start="20260110053000 +0000" stop="20260110063000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>ATP &amp; WTA: Zeit für ein Break - das Tennisjahr 2025</title>
 </programme>
 <programme start="20260110063000 +0000" stop="20260110123000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live United Cup: Halbfinale 2 in Sydney (AUS)</title>
+    <title>Live United Cup: POL - USA, Halbfinale 2 in Sydney (AUS)</title>
 </programme>
 <programme start="20260110123000 +0000" stop="20260110143000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: Grazer AK 1902 - LASK, 17. Runde</title>
@@ -2569,7 +2569,7 @@
 <programme start="20260110102500 +0000" stop="20260110104500 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: LIVE Hallenfußball</title>
 </programme>
-<programme start="20260110104500 +0000" stop="20260110161500 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20260110104500 +0000" stop="20260110181500 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live Fußball: Mercedes-Benz JuniorCup 2026 in Sindelfingen, Vorrunde</title>
 </programme>
 <programme start="20260110004500 +0000" stop="20260110014500 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -2596,11 +2596,11 @@
 <programme start="20260110080000 +0000" stop="20260110090000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>Live Sky Sport News: Guten Morgen Fans!</title>
 </programme>
-<programme start="20260110090000 +0000" stop="20260110100000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: Hinrunden-Rückblick 2025/26</title>
-</programme>
-<programme start="20260110100000 +0000" stop="20260110101500 +0000" channel="Sky Sport Bundesliga HD.skyde">
+<programme start="20260110090000 +0000" stop="20260110091500 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: Highlights XXL; SGE - BVB, 16. Spieltag</title>
+</programme>
+<programme start="20260110091500 +0000" stop="20260110101500 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: Hinrunden-Rückblick 2025/26</title>
 </programme>
 <programme start="20260110101500 +0000" stop="20260110103000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: Highlights XXL; SGE - BVB, 16. Spieltag</title>
@@ -2621,19 +2621,22 @@
     <title>Live BL: tipico Countdown, 16. Spieltag</title>
 </programme>
 <programme start="20260110141500 +0000" stop="20260110163000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>Live BL: FC St. Pauli - RB Leipzig, 16. Spieltag</title>
+    <title>Live BL: SC Freiburg - Hamburger SV, 16. Spieltag</title>
 </programme>
 <programme start="20260110163000 +0000" stop="20260110201500 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>Live BL: Bayer Leverkusen - VfB Stuttgart, tipico Topspiel der Woche, 16. Spieltag</title>
 </programme>
-<programme start="20260110201500 +0000" stop="20260110214500 +0000" channel="Sky Sport Bundesliga HD.skyde">
+<programme start="20260110201500 +0000" stop="20260110213000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 16. Spieltag, Samstag komplett</title>
 </programme>
-<programme start="20260110214500 +0000" stop="20260110220000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: Highlights XXL; SGE - BVB, 16. Spieltag</title>
+<programme start="20260110213000 +0000" stop="20260110220000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>Meine Geschichte: Das Leben von Haris Tabakovic</title>
 </programme>
-<programme start="20260110220000 +0000" stop="20260110230000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+<programme start="20260110220000 +0000" stop="20260110224500 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: Alle Spiele, alle Stimmen, 16. Spieltag</title>
+</programme>
+<programme start="20260110224500 +0000" stop="20260111004500 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: Bayer Leverkusen - VfB Stuttgart, tipico Topspiel der Woche, 16. Spieltag</title>
 </programme>
 <programme start="20260110001500 +0000" stop="20260110021500 +0000" channel="Sky Sport Bundesliga UHD.skyde">
     <title>BL: Eintracht Frankfurt - Borussia Dortmund, Flutlicht-Freitag, 16. Spieltag</title>
@@ -2665,11 +2668,17 @@
 <programme start="20260110141500 +0000" stop="20260110163000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
     <title>Live BL: FC St. Pauli - RB Leipzig, 16. Spieltag</title>
 </programme>
+<programme start="20260110141500 +0000" stop="20260110163000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
+    <title>Live BL: SC Freiburg - Hamburger SV, 16. Spieltag</title>
+</programme>
 <programme start="20260110163000 +0000" stop="20260110201500 +0000" channel="Sky Sport Bundesliga UHD.skyde">
     <title>Live BL: Bayer Leverkusen - VfB Stuttgart, tipico Topspiel der Woche, 16. Spieltag</title>
 </programme>
 <programme start="20260110201500 +0000" stop="20260110221500 +0000" channel="Sky Sport Bundesliga UHD.skyde">
     <title>BL: FC St. Pauli - RB Leipzig, 16. Spieltag</title>
+</programme>
+<programme start="20260110201500 +0000" stop="20260110221500 +0000" channel="Sky Sport Bundesliga UHD.skyde">
+    <title>BL: SC Freiburg - Hamburger SV, 16. Spieltag</title>
 </programme>
 <programme start="20260110221500 +0000" stop="20260111001500 +0000" channel="Sky Sport Bundesliga UHD.skyde">
     <title>BL: Bayer Leverkusen - VfB Stuttgart, tipico Topspiel der Woche, 16. Spieltag</title>
@@ -2681,12 +2690,12 @@
     <title>Live BL: tipico Countdown, 16. Spieltag</title>
 </programme>
 <programme start="20260110140000 +0000" stop="20260110141500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
-    <title>Live BL: STP - RBL: tipico Countdown, 16. Spieltag</title>
+    <title>Live BL: SCF - HSV: tipico Countdown, 16. Spieltag</title>
 </programme>
 <programme start="20260110141500 +0000" stop="20260110164500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
-    <title>Live BL: FC St. Pauli - RB Leipzig, 16. Spieltag</title>
+    <title>Live BL: SC Freiburg - Hamburger SV, 16. Spieltag</title>
 </programme>
-<programme start="20260110164500 +0000" stop="20260110201500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
+<programme start="20260110164500 +0000" stop="20260110204500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: Bayer Leverkusen - VfB Stuttgart, tipico Topspiel der Woche, 16. Spieltag</title>
 </programme>
 <programme start="20260110124000 +0000" stop="20260110130000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
@@ -2696,18 +2705,18 @@
     <title>Live BL: tipico Countdown, 16. Spieltag</title>
 </programme>
 <programme start="20260110140000 +0000" stop="20260110141500 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
-    <title>Live BL: SVW - TSG: tipico Countdown, 16. Spieltag</title>
+    <title>Live BL: FCH - KOE: tipico Countdown, 16. Spieltag</title>
 </programme>
 <programme start="20260110141500 +0000" stop="20260110163000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
-    <title>Live BL: Werder Bremen - TSG Hoffenheim, 16. Spieltag</title>
+    <title>Live BL: 1. FC Heidenheim - 1. FC Köln. 16. Spieltag</title>
 </programme>
-<programme start="20260110163000 +0000" stop="20260110180000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+<programme start="20260110163000 +0000" stop="20260110173000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Live BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 16. Spieltag, Samstag</title>
 </programme>
-<programme start="20260110180000 +0000" stop="20260110193000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+<programme start="20260110173000 +0000" stop="20260110183000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 16. Spieltag, Samstag</title>
 </programme>
-<programme start="20260110193000 +0000" stop="20260110210000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+<programme start="20260110183000 +0000" stop="20260110200000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 16. Spieltag, Samstag</title>
 </programme>
 <programme start="20260110124000 +0000" stop="20260110130000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
@@ -2722,7 +2731,7 @@
 <programme start="20260110141500 +0000" stop="20260110164500 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live BL: 1. FC Union Berlin - 1. FSV Mainz 05, 16. Spieltag</title>
 </programme>
-<programme start="20260110164500 +0000" stop="20260110201500 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
+<programme start="20260110164500 +0000" stop="20260110204500 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live BL: Tactical Feed: B04 - VFB, 16. Spieltag</title>
 </programme>
 <programme start="20260110124000 +0000" stop="20260110130000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
@@ -2736,15 +2745,6 @@
 </programme>
 <programme start="20260110141500 +0000" stop="20260110164500 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live BL: SC Freiburg - Hamburger SV, 16. Spieltag</title>
-</programme>
-<programme start="20260110124000 +0000" stop="20260110130000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
-    <title>Es folgt: Live Bundesliga</title>
-</programme>
-<programme start="20260110130000 +0000" stop="20260110140000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
-    <title>Live BL: tipico Countdown, 16. Spieltag</title>
-</programme>
-<programme start="20260110140000 +0000" stop="20260110163000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
-    <title>Live BL: Multiview, 16. Spieltag</title>
 </programme>
 <programme start="20260109230000 +0000" stop="20260110000000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F3: 1. Rennen - GP Italien</title>
