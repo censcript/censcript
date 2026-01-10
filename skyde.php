@@ -2666,10 +2666,10 @@
     <title>Live BL: tipico Countdown, 16. Spieltag</title>
 </programme>
 <programme start="20260110141500 +0000" stop="20260110163000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
-    <title>Live BL: FC St. Pauli - RB Leipzig, 16. Spieltag</title>
+    <title>Live BL: SC Freiburg - Hamburger SV, 16. Spieltag</title>
 </programme>
 <programme start="20260110141500 +0000" stop="20260110163000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
-    <title>Live BL: SC Freiburg - Hamburger SV, 16. Spieltag</title>
+    <title>Live BL: FC St. Pauli - RB Leipzig, 16. Spieltag</title>
 </programme>
 <programme start="20260110163000 +0000" stop="20260110201500 +0000" channel="Sky Sport Bundesliga UHD.skyde">
     <title>Live BL: Bayer Leverkusen - VfB Stuttgart, tipico Topspiel der Woche, 16. Spieltag</title>

@@ -2252,13 +2252,13 @@
         <title>Week 18</title>
     </programme>
     <programme start="20260109170000 +0000" stop="20260109190000 +0000" channel="Hub Sports 2 HD.starhub">
-        <title>The Emirates FA Cup 2025/26 R2: Gateshead vs Walsall</title>
+        <title>R2: Gateshead vs Walsall</title>
     </programme>
     <programme start="20260109190000 +0000" stop="20260109192000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>Round 3</title>
     </programme>
     <programme start="20260109192000 +0000" stop="20260109213000 +0000" channel="Hub Sports 2 HD.starhub">
-        <title>The Emirates FA Cup 2025/26 R3: Wrexham AFC vs Nottingham Forest (Live)</title>
+        <title>R3: Wrexham AFC vs Nottingham Forest</title>
     </programme>
     <programme start="20260109213000 +0000" stop="20260109223000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>Sepang Race 1</title>
