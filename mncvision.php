@@ -3568,8 +3568,228 @@
 <programme start="20260110163000 +0000" stop="20260109170000 +0000" channel="Food Travel HD.mncvision">
     <title>Hati Sang Bidadari</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260109170000 +0000" stop="20260109180000 +0000" channel="FOX News.mncvision">
+    <title>Outnumbered</title>
+</programme>
+<programme start="20260109180000 +0000" stop="20260109190000 +0000" channel="FOX News.mncvision">
+    <title>America Reports</title>
+</programme>
+<programme start="20260109190000 +0000" stop="20260109200000 +0000" channel="FOX News.mncvision">
+    <title>America Reports</title>
+</programme>
+<programme start="20260109200000 +0000" stop="20260109210000 +0000" channel="FOX News.mncvision">
+    <title>The Story</title>
+</programme>
+<programme start="20260109210000 +0000" stop="20260109220000 +0000" channel="FOX News.mncvision">
+    <title>The Will Cain Show</title>
+</programme>
+<programme start="20260109220000 +0000" stop="20260109230000 +0000" channel="FOX News.mncvision">
+    <title>The Five</title>
+</programme>
+<programme start="20260109230000 +0000" stop="20260110000000 +0000" channel="FOX News.mncvision">
+    <title>Special Report With Bret Baier</title>
+</programme>
+<programme start="20260110000000 +0000" stop="20260110010000 +0000" channel="FOX News.mncvision">
+    <title>The Ingraham Angle</title>
+</programme>
+<programme start="20260110010000 +0000" stop="20260110020000 +0000" channel="FOX News.mncvision">
+    <title>Jesse Watters Primetime</title>
+</programme>
+<programme start="20260110020000 +0000" stop="20260110030000 +0000" channel="FOX News.mncvision">
+    <title>Hannity</title>
+</programme>
+<programme start="20260110030000 +0000" stop="20260110040000 +0000" channel="FOX News.mncvision">
+    <title>Gutfeld!</title>
+</programme>
+<programme start="20260110040000 +0000" stop="20260110050000 +0000" channel="FOX News.mncvision">
+    <title>Fox News At Night</title>
+</programme>
+<programme start="20260110050000 +0000" stop="20260110060000 +0000" channel="FOX News.mncvision">
+    <title>The Five</title>
+</programme>
+<programme start="20260110060000 +0000" stop="20260110070000 +0000" channel="FOX News.mncvision">
+    <title>Jesse Watters Primetime</title>
+</programme>
+<programme start="20260110070000 +0000" stop="20260110080000 +0000" channel="FOX News.mncvision">
+    <title>Hannity</title>
+</programme>
+<programme start="20260110080000 +0000" stop="20260110090000 +0000" channel="FOX News.mncvision">
+    <title>Gutfeld!</title>
+</programme>
+<programme start="20260110090000 +0000" stop="20260110100000 +0000" channel="FOX News.mncvision">
+    <title>The Ingraham Angle</title>
+</programme>
+<programme start="20260110100000 +0000" stop="20260110110000 +0000" channel="FOX News.mncvision">
+    <title>The Five</title>
+</programme>
+<programme start="20260110110000 +0000" stop="20260110120000 +0000" channel="FOX News.mncvision">
+    <title>Fox &amp; Friends Weekend</title>
+</programme>
+<programme start="20260110120000 +0000" stop="20260110130000 +0000" channel="FOX News.mncvision">
+    <title>Fox &amp; Friends Weekend</title>
+</programme>
+<programme start="20260110130000 +0000" stop="20260110140000 +0000" channel="FOX News.mncvision">
+    <title>Fox &amp; Friends Weekend</title>
+</programme>
+<programme start="20260110140000 +0000" stop="20260110150000 +0000" channel="FOX News.mncvision">
+    <title>Fox &amp; Friends Weekend</title>
+</programme>
+<programme start="20260110150000 +0000" stop="20260110160000 +0000" channel="FOX News.mncvision">
+    <title>Saturday In America</title>
+</programme>
+<programme start="20260110160000 +0000" stop="20260110163000 +0000" channel="FOX News.mncvision">
+    <title>Saturday In America</title>
+</programme>
+<programme start="20260109170000 +0000" stop="20260109171000 +0000" channel="France 24 English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260109171000 +0000" stop="20260109180000 +0000" channel="France 24 English.mncvision">
+    <title>The World This Week (L)</title>
+</programme>
+<programme start="20260109180000 +0000" stop="20260109181500 +0000" channel="France 24 English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260109181500 +0000" stop="20260109181600 +0000" channel="France 24 English.mncvision">
+    <title>Introduction (L)</title>
+</programme>
+<programme start="20260109181600 +0000" stop="20260109183000 +0000" channel="France 24 English.mncvision">
+    <title>People &amp; Profit</title>
+</programme>
+<programme start="20260109183000 +0000" stop="20260109184500 +0000" channel="France 24 English.mncvision">
+    <title>Bulletin (L)</title>
+</programme>
+<programme start="20260109184500 +0000" stop="20260109184600 +0000" channel="France 24 English.mncvision">
+    <title>Introduction (L)</title>
+</programme>
+<programme start="20260109184600 +0000" stop="20260109190000 +0000" channel="France 24 English.mncvision">
+    <title>Across Africa</title>
+</programme>
+<programme start="20260109190000 +0000" stop="20260109191500 +0000" channel="France 24 English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260109191500 +0000" stop="20260109193000 +0000" channel="France 24 English.mncvision">
+    <title>Tete A Tete</title>
+</programme>
+<programme start="20260109193000 +0000" stop="20260109194000 +0000" channel="France 24 English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260109194000 +0000" stop="20260109200000 +0000" channel="France 24 English.mncvision">
+    <title>Eye On Africa (L)</title>
+</programme>
+<programme start="20260109200000 +0000" stop="20260109203000 +0000" channel="France 24 English.mncvision">
+    <title>JT African Cup Of Nation (L)</title>
+</programme>
+<programme start="20260109203000 +0000" stop="20260109204200 +0000" channel="France 24 English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260109204200 +0000" stop="20260109210000 +0000" channel="France 24 English.mncvision">
+    <title>Eye On Africa (L)</title>
+</programme>
+<programme start="20260109210000 +0000" stop="20260109211500 +0000" channel="France 24 English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260109211500 +0000" stop="20260109213000 +0000" channel="France 24 English.mncvision">
+    <title>Scoop</title>
+</programme>
+<programme start="20260109213000 +0000" stop="20260109214500 +0000" channel="France 24 English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260109214500 +0000" stop="20260109215000 +0000" channel="France 24 English.mncvision">
+    <title>Focus Semaine</title>
+</programme>
+<programme start="20260109215000 +0000" stop="20260109220000 +0000" channel="France 24 English.mncvision">
+    <title>Sports Vendredi</title>
+</programme>
+<programme start="20260109220000 +0000" stop="20260109221000 +0000" channel="France 24 English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260109221000 +0000" stop="20260109230000 +0000" channel="France 24 English.mncvision">
+    <title>The World This Week</title>
+</programme>
+<programme start="20260109230000 +0000" stop="20260109231500 +0000" channel="France 24 English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260109231500 +0000" stop="20260109232100 +0000" channel="France 24 English.mncvision">
+    <title>French Connections</title>
+</programme>
+<programme start="20260109232100 +0000" stop="20260109233000 +0000" channel="France 24 English.mncvision">
+    <title>Focus Semaine</title>
+</programme>
+<programme start="20260109233000 +0000" stop="20260109234500 +0000" channel="France 24 English.mncvision">
+    <title>Bulletin (L)</title>
+</programme>
+<programme start="20260109234500 +0000" stop="20260110000000 +0000" channel="France 24 English.mncvision">
+    <title>Arts24</title>
+</programme>
+<programme start="20260110000000 +0000" stop="20260110001500 +0000" channel="France 24 English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260110001500 +0000" stop="20260110004200 +0000" channel="France 24 English.mncvision">
+    <title>African Cup Of Nation</title>
+</programme>
+<programme start="20260110004200 +0000" stop="20260110005400 +0000" channel="France 24 English.mncvision">
+    <title>Eye On Africa</title>
+</programme>
+<programme start="20260110005400 +0000" stop="20260110010000 +0000" channel="France 24 English.mncvision">
+    <title>Short Cuts</title>
+</programme>
+<programme start="20260110010000 +0000" stop="20260110011000 +0000" channel="France 24 English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260110011000 +0000" stop="20260110020000 +0000" channel="France 24 English.mncvision">
+    <title>The World This Week</title>
+</programme>
+<programme start="20260110020000 +0000" stop="20260110021500 +0000" channel="France 24 English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260110021500 +0000" stop="20260110023000 +0000" channel="France 24 English.mncvision">
+    <title>Across Africa</title>
+</programme>
+<programme start="20260110023000 +0000" stop="20260110024500 +0000" channel="France 24 English.mncvision">
+    <title>Bulletin (L)</title>
+</programme>
+<programme start="20260110024500 +0000" stop="20260110030000 +0000" channel="France 24 English.mncvision">
+    <title>Scoop</title>
+</programme>
+<programme start="20260110030000 +0000" stop="20260110031500 +0000" channel="France 24 English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260110031500 +0000" stop="20260110033000 +0000" channel="France 24 English.mncvision">
+    <title>Eye On Africa</title>
+</programme>
+<programme start="20260110033000 +0000" stop="20260110034500 +0000" channel="France 24 English.mncvision">
+    <title>Bulletin (L)</title>
+</programme>
+<programme start="20260110034500 +0000" stop="20260110040000 +0000" channel="France 24 English.mncvision">
+    <title>Arts24</title>
+</programme>
+<programme start="20260110040000 +0000" stop="20260110041200 +0000" channel="France 24 English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260110041200 +0000" stop="20260110050000 +0000" channel="France 24 English.mncvision">
+    <title>The World This Week</title>
+</programme>
+<programme start="20260110050000 +0000" stop="20260110052000 +0000" channel="France 24 English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260110052000 +0000" stop="20260110053000 +0000" channel="France 24 English.mncvision">
+    <title>Sports Saturday (L)</title>
+</programme>
+<programme start="20260110053000 +0000" stop="20260110060000 +0000" channel="France 24 English.mncvision">
+    <title>Bulletin (L)</title>
+</programme>
+<programme start="20260110060000 +0000" stop="20260110063000 +0000" channel="France 24 English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260110063000 +0000" stop="20260110070000 +0000" channel="France 24 English.mncvision">
+    <title>Bulletin (L)</title>
+</programme>
+<programme start="20260110070000 +0000" stop="20260110071500 +0000" channel="France 24 English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260110071500 +0000" stop="20260110074500 +0000" channel="France 24 English.mncvision">
+    <title>Guest Of The Day Direct (L)</title>
+</programme>
 <programme start="20260109180500 +0000" stop="20260109201000 +0000" channel="Galaxy.mncvision">
     <title>The Professor And The Madman</title>
 </programme>
@@ -3855,9 +4075,162 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260110162500 +0000" stop="20260110165500 +0000" channel="Global Trekker HD.mncvision">
     <title>Oceans Africa, Ep 1</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260109180000 +0000" stop="20260109190000 +0000" channel="GTV.mncvision">
+    <title>Crime KV</title>
+</programme>
+<programme start="20260109190000 +0000" stop="20260109200000 +0000" channel="GTV.mncvision">
+    <title>Naik Enak Turun Ogah</title>
+</programme>
+<programme start="20260109200000 +0000" stop="20260109220000 +0000" channel="GTV.mncvision">
+    <title>Awas Ada Sule</title>
+</programme>
+<programme start="20260109220000 +0000" stop="20260109231500 +0000" channel="GTV.mncvision">
+    <title>Kisah Viral</title>
+</programme>
+<programme start="20260109231500 +0000" stop="20260109234500 +0000" channel="GTV.mncvision">
+    <title>Bima-S</title>
+</programme>
+<programme start="20260109234500 +0000" stop="20260110020000 +0000" channel="GTV.mncvision">
+    <title>SpongeBob SquarePants</title>
+</programme>
+<programme start="20260110020000 +0000" stop="20260110050000 +0000" channel="GTV.mncvision">
+    <title>SpongeBob SquarePants</title>
+</programme>
+<programme start="20260110050000 +0000" stop="20260110063000 +0000" channel="GTV.mncvision">
+    <title>Zak Storm</title>
+</programme>
+<programme start="20260110063000 +0000" stop="20260110073000 +0000" channel="GTV.mncvision">
+    <title>Bleach: The Shinigami&#039;S Crisis</title>
+</programme>
+<programme start="20260110073000 +0000" stop="20260110093000 +0000" channel="GTV.mncvision">
+    <title>SpongeBob SquarePants</title>
+</programme>
+<programme start="20260110093000 +0000" stop="20260110110000 +0000" channel="GTV.mncvision">
+    <title>SpongeBob SquarePants</title>
+</programme>
+<programme start="20260110110000 +0000" stop="20260110133000 +0000" channel="GTV.mncvision">
+    <title>AFC U23 Asian Cup 2026 (L)</title>
+</programme>
+<programme start="20260110133000 +0000" stop="20260110153000 +0000" channel="GTV.mncvision">
+    <title>Meet Mr. Vampire</title>
+</programme>
+<programme start="20260110153000 +0000" stop="20260110163000 +0000" channel="GTV.mncvision">
+    <title>Untold Story</title>
+</programme>
+<programme start="20260110163000 +0000" stop="20260109170000 +0000" channel="GTV.mncvision">
+    <title>Jelajah Mitos</title>
+</programme>
+<programme start="20260109180000 +0000" stop="20260109190000 +0000" channel="GTV HD.mncvision">
+    <title>Crime KV</title>
+</programme>
+<programme start="20260109190000 +0000" stop="20260109200000 +0000" channel="GTV HD.mncvision">
+    <title>Naik Enak Turun Ogah</title>
+</programme>
+<programme start="20260109200000 +0000" stop="20260109220000 +0000" channel="GTV HD.mncvision">
+    <title>Awas Ada Sule</title>
+</programme>
+<programme start="20260109220000 +0000" stop="20260109231500 +0000" channel="GTV HD.mncvision">
+    <title>Kisah Viral</title>
+</programme>
+<programme start="20260109231500 +0000" stop="20260109234500 +0000" channel="GTV HD.mncvision">
+    <title>Bima-S</title>
+</programme>
+<programme start="20260109234500 +0000" stop="20260110020000 +0000" channel="GTV HD.mncvision">
+    <title>SpongeBob SquarePants</title>
+</programme>
+<programme start="20260110020000 +0000" stop="20260110050000 +0000" channel="GTV HD.mncvision">
+    <title>SpongeBob SquarePants</title>
+</programme>
+<programme start="20260110050000 +0000" stop="20260110063000 +0000" channel="GTV HD.mncvision">
+    <title>Zak Storm</title>
+</programme>
+<programme start="20260110063000 +0000" stop="20260110073000 +0000" channel="GTV HD.mncvision">
+    <title>Bleach: The Shinigami&#039;S Crisis</title>
+</programme>
+<programme start="20260110073000 +0000" stop="20260110093000 +0000" channel="GTV HD.mncvision">
+    <title>SpongeBob SquarePants</title>
+</programme>
+<programme start="20260110093000 +0000" stop="20260110110000 +0000" channel="GTV HD.mncvision">
+    <title>SpongeBob SquarePants</title>
+</programme>
+<programme start="20260110110000 +0000" stop="20260110133000 +0000" channel="GTV HD.mncvision">
+    <title>AFC U23 Asian Cup 2026 (L)</title>
+</programme>
+<programme start="20260110133000 +0000" stop="20260110153000 +0000" channel="GTV HD.mncvision">
+    <title>Meet Mr. Vampire</title>
+</programme>
+<programme start="20260110153000 +0000" stop="20260110163000 +0000" channel="GTV HD.mncvision">
+    <title>Untold Story</title>
+</programme>
+<programme start="20260110163000 +0000" stop="20260109170000 +0000" channel="GTV HD.mncvision">
+    <title>Jelajah Mitos</title>
+</programme>
+<programme start="20260109210000 +0000" stop="20260109213000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Jan Enak Tenan</title>
+</programme>
+<programme start="20260109213000 +0000" stop="20260109220000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Asal Mulane</title>
+</programme>
+<programme start="20260109220000 +0000" stop="20260109230000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Joko Tingkir</title>
+</programme>
+<programme start="20260109230000 +0000" stop="20260110000000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Cerita Jawa</title>
+</programme>
+<programme start="20260110000000 +0000" stop="20260110003000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Pagelaran Budaya Jawi</title>
+</programme>
+<programme start="20260110003000 +0000" stop="20260110010000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Mak Minten</title>
+</programme>
+<programme start="20260110010000 +0000" stop="20260110030000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Wayang On The Street</title>
+</programme>
+<programme start="20260110030000 +0000" stop="20260110040000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Joko Tingkir</title>
+</programme>
+<programme start="20260110040000 +0000" stop="20260110043000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Mak Minten</title>
+</programme>
+<programme start="20260110043000 +0000" stop="20260110053000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Eyang Mami Van Mounelen</title>
+</programme>
+<programme start="20260110053000 +0000" stop="20260110063000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Konco Ngaso</title>
+</programme>
+<programme start="20260110063000 +0000" stop="20260110070000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Jan Enak Tenan</title>
+</programme>
+<programme start="20260110070000 +0000" stop="20260110073000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Asal Mulane</title>
+</programme>
+<programme start="20260110073000 +0000" stop="20260110090000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Srikandi Kesasar</title>
+</programme>
+<programme start="20260110090000 +0000" stop="20260110100000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Joko Tingkir</title>
+</programme>
+<programme start="20260110100000 +0000" stop="20260110103000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Pagelaran Budaya Jawi</title>
+</programme>
+<programme start="20260110103000 +0000" stop="20260110110000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Jan Enak Tenan</title>
+</programme>
+<programme start="20260110110000 +0000" stop="20260110120000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Konco Ngaso</title>
+</programme>
+<programme start="20260110120000 +0000" stop="20260110123000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Asal Mulane</title>
+</programme>
+<programme start="20260110123000 +0000" stop="20260110140000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Cinta Iwak Peyek</title>
+</programme>
+<programme start="20260110140000 +0000" stop="20260110160000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Wayang On The Street</title>
+</programme>
+<programme start="20260110160000 +0000" stop="20260110163000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Wayang Kulit Special S2</title>
+</programme>
 <programme start="20260109173500 +0000" stop="20260109183000 +0000" channel="History.mncvision">
     <title>Dark Marvels, Ep 7</title>
 </programme>
@@ -4539,8 +4912,186 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260110164800 +0000" stop="20260109171800 +0000" channel="iNews HD.mncvision">
     <title>AFC Asian Cup &#039;26: IRN Vs UZB</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260109190000 +0000" stop="20260109220000 +0000" channel="JAKTV.mncvision">
+    <title>Kabar Misteri</title>
+</programme>
+<programme start="20260109220000 +0000" stop="20260109223000 +0000" channel="JAKTV.mncvision">
+    <title>Senyum Quran</title>
+</programme>
+<programme start="20260109223000 +0000" stop="20260109230000 +0000" channel="JAKTV.mncvision">
+    <title>Chess Player</title>
+</programme>
+<programme start="20260109230000 +0000" stop="20260109233000 +0000" channel="JAKTV.mncvision">
+    <title>Kara Dan Mayi</title>
+</programme>
+<programme start="20260109233000 +0000" stop="20260110000000 +0000" channel="JAKTV.mncvision">
+    <title>Cave And Cavern</title>
+</programme>
+<programme start="20260110000000 +0000" stop="20260110003000 +0000" channel="JAKTV.mncvision">
+    <title>Inovator</title>
+</programme>
+<programme start="20260110003000 +0000" stop="20260110010000 +0000" channel="JAKTV.mncvision">
+    <title>Cooking Time</title>
+</programme>
+<programme start="20260110010000 +0000" stop="20260110020000 +0000" channel="JAKTV.mncvision">
+    <title>Lejel</title>
+</programme>
+<programme start="20260110020000 +0000" stop="20260110030000 +0000" channel="JAKTV.mncvision">
+    <title>Lejel</title>
+</programme>
+<programme start="20260110030000 +0000" stop="20260110033000 +0000" channel="JAKTV.mncvision">
+    <title>REV</title>
+</programme>
+<programme start="20260110033000 +0000" stop="20260110040000 +0000" channel="JAKTV.mncvision">
+    <title>Otomotif Tips</title>
+</programme>
+<programme start="20260110040000 +0000" stop="20260110050000 +0000" channel="JAKTV.mncvision">
+    <title>IBL Best Shoot</title>
+</programme>
+<programme start="20260110050000 +0000" stop="20260110060000 +0000" channel="JAKTV.mncvision">
+    <title>Khazanah Kenyalang</title>
+</programme>
+<programme start="20260110060000 +0000" stop="20260110063000 +0000" channel="JAKTV.mncvision">
+    <title>Inovator</title>
+</programme>
+<programme start="20260110063000 +0000" stop="20260110070000 +0000" channel="JAKTV.mncvision">
+    <title>Cooking Time</title>
+</programme>
+<programme start="20260110070000 +0000" stop="20260110080000 +0000" channel="JAKTV.mncvision">
+    <title>Medika Natura</title>
+</programme>
+<programme start="20260110080000 +0000" stop="20260110090000 +0000" channel="JAKTV.mncvision">
+    <title>Berkah Shop</title>
+</programme>
+<programme start="20260110090000 +0000" stop="20260110093000 +0000" channel="JAKTV.mncvision">
+    <title>Berdoa Yuk</title>
+</programme>
+<programme start="20260110093000 +0000" stop="20260110100000 +0000" channel="JAKTV.mncvision">
+    <title>Berdoa Yuk</title>
+</programme>
+<programme start="20260110100000 +0000" stop="20260110110000 +0000" channel="JAKTV.mncvision">
+    <title>Douluo Continent</title>
+</programme>
+<programme start="20260110110000 +0000" stop="20260110113000 +0000" channel="JAKTV.mncvision">
+    <title>Muslimpedia</title>
+</programme>
+<programme start="20260110113000 +0000" stop="20260110120000 +0000" channel="JAKTV.mncvision">
+    <title>Borders Town</title>
+</programme>
+<programme start="20260110120000 +0000" stop="20260110123000 +0000" channel="JAKTV.mncvision">
+    <title>Khazanah Kenyalang</title>
+</programme>
+<programme start="20260110123000 +0000" stop="20260110130000 +0000" channel="JAKTV.mncvision">
+    <title>Cave And Cavern</title>
+</programme>
+<programme start="20260110130000 +0000" stop="20260110140000 +0000" channel="JAKTV.mncvision">
+    <title>Kata Dokter</title>
+</programme>
+<programme start="20260110140000 +0000" stop="20260110150000 +0000" channel="JAKTV.mncvision">
+    <title>Medika Natura</title>
+</programme>
+<programme start="20260110150000 +0000" stop="20260110153000 +0000" channel="JAKTV.mncvision">
+    <title>Global Us</title>
+</programme>
+<programme start="20260110153000 +0000" stop="20260110160000 +0000" channel="JAKTV.mncvision">
+    <title>Pak Kobra</title>
+</programme>
+<programme start="20260110160000 +0000" stop="20260110163000 +0000" channel="JAKTV.mncvision">
+    <title>Obrolan Malam</title>
+</programme>
+<programme start="20260109170000 +0000" stop="20260109190000 +0000" channel="Kids TV.mncvision">
+    <title>SpongeBob SquarePants</title>
+</programme>
+<programme start="20260109190000 +0000" stop="20260109193000 +0000" channel="Kids TV.mncvision">
+    <title>Blippi Wonders</title>
+</programme>
+<programme start="20260109193000 +0000" stop="20260109200000 +0000" channel="Kids TV.mncvision">
+    <title>Rat A Tat</title>
+</programme>
+<programme start="20260109200000 +0000" stop="20260109203000 +0000" channel="Kids TV.mncvision">
+    <title>Kung Fu Panda</title>
+</programme>
+<programme start="20260109203000 +0000" stop="20260109210000 +0000" channel="Kids TV.mncvision">
+    <title>Penguins Of Madagascar</title>
+</programme>
+<programme start="20260109210000 +0000" stop="20260109213000 +0000" channel="Kids TV.mncvision">
+    <title>Backkom S4</title>
+</programme>
+<programme start="20260109213000 +0000" stop="20260109220000 +0000" channel="Kids TV.mncvision">
+    <title>Blippi Visits</title>
+</programme>
+<programme start="20260109220000 +0000" stop="20260109230000 +0000" channel="Kids TV.mncvision">
+    <title>Kiko S4</title>
+</programme>
+<programme start="20260109230000 +0000" stop="20260109233000 +0000" channel="Kids TV.mncvision">
+    <title>PAW Patrol</title>
+</programme>
+<programme start="20260109233000 +0000" stop="20260110000000 +0000" channel="Kids TV.mncvision">
+    <title>I Can Do It</title>
+</programme>
+<programme start="20260110000000 +0000" stop="20260110003000 +0000" channel="Kids TV.mncvision">
+    <title>Kamen Rider ZEZTZ</title>
+</programme>
+<programme start="20260110003000 +0000" stop="20260110010000 +0000" channel="Kids TV.mncvision">
+    <title>Nina Bobo</title>
+</programme>
+<programme start="20260110010000 +0000" stop="20260110011500 +0000" channel="Kids TV.mncvision">
+    <title>The Patrick Star Show</title>
+</programme>
+<programme start="20260110011500 +0000" stop="20260110041500 +0000" channel="Kids TV.mncvision">
+    <title>Sahabat Selamanya Upin &amp; Ipin</title>
+</programme>
+<programme start="20260110041500 +0000" stop="20260110043000 +0000" channel="Kids TV.mncvision">
+    <title>Thomas &amp; Friends</title>
+</programme>
+<programme start="20260110043000 +0000" stop="20260110050000 +0000" channel="Kids TV.mncvision">
+    <title>PAW Patrol</title>
+</programme>
+<programme start="20260110050000 +0000" stop="20260110060000 +0000" channel="Kids TV.mncvision">
+    <title>Kiko S4</title>
+</programme>
+<programme start="20260110060000 +0000" stop="20260110073000 +0000" channel="Kids TV.mncvision">
+    <title>Crayon Sinchan The Movie</title>
+</programme>
+<programme start="20260110073000 +0000" stop="20260110093000 +0000" channel="Kids TV.mncvision">
+    <title>SpongeBob SquarePants</title>
+</programme>
+<programme start="20260110093000 +0000" stop="20260110103000 +0000" channel="Kids TV.mncvision">
+    <title>Kiko S4</title>
+</programme>
+<programme start="20260110103000 +0000" stop="20260110110000 +0000" channel="Kids TV.mncvision">
+    <title>Kamen Rider ZEZTZ</title>
+</programme>
+<programme start="20260110110000 +0000" stop="20260110113000 +0000" channel="Kids TV.mncvision">
+    <title>Blippi Visits</title>
+</programme>
+<programme start="20260110113000 +0000" stop="20260110120000 +0000" channel="Kids TV.mncvision">
+    <title>Titus The Detective</title>
+</programme>
+<programme start="20260110120000 +0000" stop="20260110123000 +0000" channel="Kids TV.mncvision">
+    <title>PAW Patrol</title>
+</programme>
+<programme start="20260110123000 +0000" stop="20260110130000 +0000" channel="Kids TV.mncvision">
+    <title>The Patrick Star Show</title>
+</programme>
+<programme start="20260110130000 +0000" stop="20260110133000 +0000" channel="Kids TV.mncvision">
+    <title>Thomas &amp; Friends</title>
+</programme>
+<programme start="20260110133000 +0000" stop="20260110140000 +0000" channel="Kids TV.mncvision">
+    <title>Dora</title>
+</programme>
+<programme start="20260110140000 +0000" stop="20260110143000 +0000" channel="Kids TV.mncvision">
+    <title>Kung Fu Panda</title>
+</programme>
+<programme start="20260110143000 +0000" stop="20260110150000 +0000" channel="Kids TV.mncvision">
+    <title>Nina Bobo</title>
+</programme>
+<programme start="20260110150000 +0000" stop="20260110160000 +0000" channel="Kids TV.mncvision">
+    <title>Kiko S4</title>
+</programme>
+<programme start="20260110160000 +0000" stop="20260110163000 +0000" channel="Kids TV.mncvision">
+    <title>Iiihhh Serrreemm</title>
+</programme>
 <programme start="20260109170000 +0000" stop="20260109190000 +0000" channel="Kids TV HD.mncvision">
     <title>SpongeBob SquarePants</title>
 </programme>
@@ -5576,7 +6127,6 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260110163800 +0000" stop="20260109170800 +0000" channel="Moonbug.mncvision">
     <title>Rob The Robot</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260109190000 +0000" stop="20260109200000 +0000" channel="Music TV.mncvision">
     <title>FWB</title>
 </programme>

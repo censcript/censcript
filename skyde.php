@@ -2527,8 +2527,11 @@
 <programme start="20260110221000 +0000" stop="20260110230500 +0000" channel="Sky Showcase HD.skyde">
     <title>The Copenhagen Test</title>
 </programme>
-<programme start="20260109230000 +0000" stop="20260110063000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260109230000 +0000" stop="20260110053000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Live United Cup: SUI - BEL, Halbfinale 1 in Sydney (AUS)</title>
+</programme>
+<programme start="20260110053000 +0000" stop="20260110063000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>ATP &amp; WTA: Zeit für ein Break - das Tennisjahr 2025</title>
 </programme>
 <programme start="20260110063000 +0000" stop="20260110123000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Live United Cup: POL - USA, Halbfinale 2 in Sydney (AUS)</title>

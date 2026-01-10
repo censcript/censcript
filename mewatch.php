@@ -577,10 +577,10 @@
     <programme start="20260109160000 +0000" stop="20260110112000 +0000" channel="spl01.mewatch">
         <title>No Programme available now. Next Broadcast on 10th January, Saturday 7.20pm. Singapore Cup 2025/2026 </title>
     </programme>
-    <programme start="20260110112000 +0000" stop="20260110133000 +0000" channel="spl01.mewatch">
+    <programme start="20260110112000 +0000" stop="20260110143000 +0000" channel="spl01.mewatch">
         <title>Singapore Cup 2025/2026 Final: Lion City Sailors FC vs BG Tampines Rovers FC</title>
     </programme>
-    <programme start="20260110133000 +0000" stop="20260110160000 +0000" channel="spl01.mewatch">
+    <programme start="20260110143000 +0000" stop="20260110160000 +0000" channel="spl01.mewatch">
         <title>No Programme available now. Next Broadcast on 16th January, Friday 7.20pm. Singapore Premier League 2025/2026</title>
     </programme>
     <programme start="20260110160000 +0000" stop="20260111160000 +0000" channel="spl01.mewatch">
