@@ -1,11 +1,3 @@
-<programme start="20260110133000 +0700" stop="20260110153000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: FC Basel 1893 - Aston Villa</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260110153000 +0700" stop="20260110160000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>UEFA Champions League Magazine 2024-25 E15</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260110160000 +0700" stop="20260110163000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Game R1 S6 E20</title>
     <desc>Live: Tidak</desc>
@@ -80,14 +72,6 @@
 </programme>
 <programme start="20260111153000 +0700" stop="20260111173000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Club Brugge - Arsenal</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260110144500 +0700" stop="20260110151500 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Sports Classics: Football Countdowns E5</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260110151500 +0700" stop="20260110154500 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Sports Classics: Football Countdowns E6</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260110154500 +0700" stop="20260110180000 +0700" channel="COSMOTE Sport 2 HD">
@@ -166,8 +150,8 @@
     <title>Football: Atalanta - Torino</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260110145500 +0700" stop="20260110151500 +0700" channel="COSMOTE Sport 3 HD">
-    <title>William Hill Scottish Premiership - Highlights</title>
+<programme start="20260111163000 +0700" stop="20260111184500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Kifisia - AEL Novibet</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260110151500 +0700" stop="20260110171500 +0700" channel="COSMOTE Sport 3 HD">
@@ -242,8 +226,12 @@
     <title>Copa Sudamericana 2025 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260110133000 +0700" stop="20260110150500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>NBA Specials: Basketball Stories</title>
+<programme start="20260111160000 +0700" stop="20260111163000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Copa Libertadores 2025 - Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260111163000 +0700" stop="20260111183000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: APOEL - EN Paralimni</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260110150500 +0700" stop="20260110170000 +0700" channel="COSMOTE Sport 4 HD">
@@ -306,8 +294,8 @@
     <title>NBA on Fire 2025-26 E11</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260110140500 +0700" stop="20260110150500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Highlights: 2025 Extreme H</title>
+<programme start="20260111160000 +0700" stop="20260111183000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Boston Celtics - San Antonio Spurs</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260110150500 +0700" stop="20260110160500 +0700" channel="COSMOTE Sport 5 HD">
@@ -418,6 +406,10 @@
     <title>MotoGP Classics</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260111160000 +0700" stop="20260111170000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>MotoGP Classics</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260110140000 +0700" stop="20260110170000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Jannik Sinner - Carlos Alcaraz (L)</title>
     <desc>Live: Ya</desc>
@@ -469,10 +461,6 @@
 <programme start="20260111143000 +0700" stop="20260111170000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP 250 2026 (L)</title>
     <desc>Live: Ya</desc>
-</programme>
-<programme start="20260110150000 +0700" stop="20260110153000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
-    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260110153000 +0700" stop="20260110180000 +0700" channel="COSMOTE Sport 7 HD">
     <title>Tennis: Daniil Medvedev - Alex Michelsen (L)</title>

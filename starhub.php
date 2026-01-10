@@ -2273,40 +2273,40 @@
         <title>Round 3</title>
     </programme>
     <programme start="20260110000000 +0000" stop="20260110020000 +0000" channel="Hub Sports 2 HD.starhub">
-        <title>East Asia Super League 2025/26 Hong Kong Eastern vs Seoul SK Knights</title>
+        <title>Hong Kong Eastern vs Seoul SK Knights</title>
     </programme>
     <programme start="20260110020000 +0000" stop="20260110040000 +0000" channel="Hub Sports 2 HD.starhub">
-        <title>The Emirates FA Cup 2025/26 R3: Milton Keynes Dons vs Oxford United</title>
+        <title>R3: Milton Keynes Dons vs Oxford United</title>
     </programme>
     <programme start="20260110040000 +0000" stop="20260110043000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>Week 18</title>
     </programme>
     <programme start="20260110043000 +0000" stop="20260110063000 +0000" channel="Hub Sports 2 HD.starhub">
-        <title>The Emirates FA Cup 2025/26 R3: Port Vale vs Fleetwood Town</title>
+        <title>R3: Port Vale vs Fleetwood Town</title>
     </programme>
     <programme start="20260110063000 +0000" stop="20260110070000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>#570</title>
     </programme>
     <programme start="20260110070000 +0000" stop="20260110090000 +0000" channel="Hub Sports 2 HD.starhub">
-        <title>The Emirates FA Cup 2025/26 R3: Preston North End vs Wigan Athletic</title>
+        <title>R3: Preston North End vs Wigan Athletic</title>
     </programme>
     <programme start="20260110090000 +0000" stop="20260110093000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>Week 18</title>
     </programme>
     <programme start="20260110093000 +0000" stop="20260110113000 +0000" channel="Hub Sports 2 HD.starhub">
-        <title>The Emirates FA Cup 2025/26 R3: Wrexham AFC vs Nottingham Forest</title>
+        <title>R3: Wrexham AFC vs Nottingham Forest</title>
     </programme>
     <programme start="20260110113000 +0000" stop="20260110120500 +0000" channel="Hub Sports 2 HD.starhub">
         <title>Round 3</title>
     </programme>
     <programme start="20260110120500 +0000" stop="20260110141500 +0000" channel="Hub Sports 2 HD.starhub">
-        <title>The Emirates FA Cup 2025/26 R3: Everton vs Sunderland AFC (Live)</title>
+        <title>R3: Everton vs Sunderland AFC</title>
     </programme>
     <programme start="20260110141500 +0000" stop="20260110144500 +0000" channel="Hub Sports 2 HD.starhub">
         <title>#1322</title>
     </programme>
     <programme start="20260110144500 +0000" stop="20260110170000 +0000" channel="Hub Sports 2 HD.starhub">
-        <title>The Emirates FA Cup 2025/26 R3: Newcastle United vs AFC Bournemouth (Live)</title>
+        <title>R3: Newcastle United vs AFC Bournemouth</title>
     </programme>
     <programme start="20260109141500 +0000" stop="20260109161500 +0000" channel="The Filipino Channel HD.starhub">
         <title>It&#039;s Showtime</title>
