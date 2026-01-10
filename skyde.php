@@ -3127,8 +3127,11 @@
 <programme start="20260110224500 +0000" stop="20260110230000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: Greatest Games: Manchester United - FC Everton (2012)</title>
 </programme>
-<programme start="20260109230000 +0000" stop="20260110063000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260109230000 +0000" stop="20260110053000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live United Cup: SUI - BEL, Halbfinale 1 in Sydney (AUS)</title>
+</programme>
+<programme start="20260110053000 +0000" stop="20260110063000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP &amp; WTA: Zeit für ein Break - das Tennisjahr 2025</title>
 </programme>
 <programme start="20260110063000 +0000" stop="20260110123000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live United Cup: POL - USA, Halbfinale 2 in Sydney (AUS)</title>
@@ -3142,8 +3145,11 @@
 <programme start="20260110190000 +0000" stop="20260111010000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>United Cup: POL - USA, Halbfinale 2 in Sydney (AUS)</title>
 </programme>
-<programme start="20260109230000 +0000" stop="20260110063000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260109230000 +0000" stop="20260110053000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live United Cup: SUI - BEL, Halbfinale 1 in Sydney (AUS)</title>
+</programme>
+<programme start="20260110053000 +0000" stop="20260110063000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>ATP &amp; WTA: Zeit für ein Break - das Tennisjahr 2025</title>
 </programme>
 <programme start="20260110063000 +0000" stop="20260110123000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live United Cup: POL - USA, Halbfinale 2 in Sydney (AUS)</title>
