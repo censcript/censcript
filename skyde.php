@@ -2737,18 +2737,6 @@
 <programme start="20260110141500 +0000" stop="20260110164500 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live BL: SC Freiburg - Hamburger SV, 16. Spieltag</title>
 </programme>
-<programme start="20260110124000 +0000" stop="20260110130000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
-    <title>Es folgt: Live Bundesliga</title>
-</programme>
-<programme start="20260110130000 +0000" stop="20260110140000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
-    <title>Live BL: tipico Countdown, 16. Spieltag</title>
-</programme>
-<programme start="20260110140000 +0000" stop="20260110141500 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
-    <title>Live BL: FCH - KOE: tipico Countdown, 16. Spieltag</title>
-</programme>
-<programme start="20260110141500 +0000" stop="20260110164500 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
-    <title>Live BL: 1. FC Heidenheim - 1. FC Köln. 16. Spieltag</title>
-</programme>
 <programme start="20260110124000 +0000" stop="20260110130000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
     <title>Es folgt: Live Bundesliga</title>
 </programme>
@@ -2806,14 +2794,23 @@
 <programme start="20260110133000 +0000" stop="20260110144000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Motorsport: FIA F4 World Cup - Qualification Race</title>
 </programme>
-<programme start="20260110144000 +0000" stop="20260110161500 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260110144000 +0000" stop="20260110153500 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Motorsport: FIA GT World Cup - Qualification Race</title>
 </programme>
-<programme start="20260110161500 +0000" stop="20260110174500 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260110153500 +0000" stop="20260110163500 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Motorsport: FIA FR World Cup - Qualification Race</title>
 </programme>
-<programme start="20260110174500 +0000" stop="20260110180000 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>F1: Top 20: Vettel Überholmanöver</title>
+<programme start="20260110163500 +0000" stop="20260110165500 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>F1: Inside Story: Lando reigns in stormy Melbourne</title>
+</programme>
+<programme start="20260110165500 +0000" stop="20260110172000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>F1: Inside Story: Hulkenberg&#039;s incredible podium as Lando triumphs</title>
+</programme>
+<programme start="20260110172000 +0000" stop="20260110174000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>F1: Inside Story: Pit lane to glory</title>
+</programme>
+<programme start="20260110174000 +0000" stop="20260110180000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>F1: Inside Story: 2025 Championship Showdown</title>
 </programme>
 <programme start="20260110180000 +0000" stop="20260110185000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Legends of F1 - Gerhard Berger</title>
@@ -2830,14 +2827,8 @@
 <programme start="20260110220000 +0000" stop="20260110230000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Ferrari Challenge Europe: Finali Mondiali - Coppa Shell</title>
 </programme>
-<programme start="20260109230000 +0000" stop="20260110000000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>The Open: Official Film 1984 (Seve Ballesteros)</title>
-</programme>
-<programme start="20260110000000 +0000" stop="20260110010000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>The Open: Official Film 1985 (Sandy Lyle)</title>
-</programme>
-<programme start="20260110010000 +0000" stop="20260110020000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>The Open: Official Film 1987 (Nick Faldo)</title>
+<programme start="20260109230000 +0000" stop="20260110020000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>LIV Golf: Promotions 2026, 2. Tag in Lecanto, FL (USA)</title>
 </programme>
 <programme start="20260110020000 +0000" stop="20260110043000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>LPGA: Meijer LPGA Classic For Simply Give, Finaltag in Grand Rapids, MI (USA)</title>
@@ -2846,43 +2837,46 @@
     <title>Golf: KPMG Women&#039;s PGA Championship, 4. Tag in Frisco, TX (USA)</title>
 </programme>
 <programme start="20260110073000 +0000" stop="20260110103000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>LPGA: Dow Championship, Finaltag in Midland, MI (USA)</title>
+    <title>LIV Golf: Promotions 2026, 2. Tag in Lecanto, FL (USA)</title>
 </programme>
 <programme start="20260110103000 +0000" stop="20260110110000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: Tee Time Stories (1)</title>
 </programme>
 <programme start="20260110110000 +0000" stop="20260110120000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>The Open: Official Film 1988 (Seve Ballesteros)</title>
+    <title>The Open: Duel - Golf&#039;s Greatest Showdown</title>
 </programme>
-<programme start="20260110120000 +0000" stop="20260110130000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>The Open: Official Film 1989 (Mark Calcavecchia)</title>
+<programme start="20260110120000 +0000" stop="20260110150000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>LIV Golf: Promotions 2026, 2. Tag in Lecanto, FL (USA)</title>
 </programme>
-<programme start="20260110130000 +0000" stop="20260110140000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>The Open: Official Film 1990 (Nick Faldo)</title>
+<programme start="20260110150000 +0000" stop="20260110200000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Live LIV Golf: Promotions 2026, 3. Tag in Lecanto, FL (USA)</title>
 </programme>
-<programme start="20260110140000 +0000" stop="20260110150000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>The Open: Official Film 1991 (Ian Baker-Finch)</title>
+<programme start="20260110200000 +0000" stop="20260110201500 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Golf: Projekt 0 (1)</title>
 </programme>
-<programme start="20260110150000 +0000" stop="20260110160000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>The Open: Official Film 1992 (Nick Faldo)</title>
+<programme start="20260110201500 +0000" stop="20260110203000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Golf: Projekt 0 (2)</title>
 </programme>
-<programme start="20260110160000 +0000" stop="20260110170000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>The Open: Official Film 1995 (John Daly)</title>
+<programme start="20260110203000 +0000" stop="20260110204500 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Golf: Projekt 0 (3)</title>
 </programme>
-<programme start="20260110170000 +0000" stop="20260110180000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>The Open: Official Film 1998 (Mark O&#039; Meara)</title>
+<programme start="20260110204500 +0000" stop="20260110210000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Golf: Projekt 0 (4)</title>
 </programme>
-<programme start="20260110180000 +0000" stop="20260110190000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>The Open: Official Film 1999 (Paul Lawrie)</title>
+<programme start="20260110210000 +0000" stop="20260110211500 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Golf: Projekt 0 (5)</title>
 </programme>
-<programme start="20260110190000 +0000" stop="20260110200000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>The Open: Official Film 2000 (Tiger Woods)</title>
+<programme start="20260110211500 +0000" stop="20260110213000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Golf: Projekt 0 (6)</title>
 </programme>
-<programme start="20260110200000 +0000" stop="20260110223000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>LPGA: The Standard Portland Classic, Finaltag in Portland, OR (USA)</title>
+<programme start="20260110213000 +0000" stop="20260110214500 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Golf: Projekt 0 (7)</title>
 </programme>
-<programme start="20260110223000 +0000" stop="20260110233000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>The Open: Official Film 2002 (Ernie Els)</title>
+<programme start="20260110214500 +0000" stop="20260110220000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Golf: Projekt 0 (8)</title>
+</programme>
+<programme start="20260110220000 +0000" stop="20260111010000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>LIV Golf: Promotions 2026, 3. Tag in Lecanto, FL (USA)</title>
 </programme>
 <programme start="20260109230000 +0000" stop="20260110010000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Edmonton Oilers @ Winnipeg Jets</title>
@@ -3139,32 +3133,32 @@
 <programme start="20260110224500 +0000" stop="20260110230000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: Greatest Games: Manchester United - FC Everton (2012)</title>
 </programme>
-<programme start="20260109233000 +0000" stop="20260110053000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live United Cup: Halbfinale 1 in Sydney (AUS)</title>
+<programme start="20260109230000 +0000" stop="20260110053000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>Live United Cup: SUI - BEL, Halbfinale 1 in Sydney (AUS)</title>
 </programme>
 <programme start="20260110053000 +0000" stop="20260110063000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP &amp; WTA: Zeit für ein Break - das Tennisjahr 2025</title>
 </programme>
 <programme start="20260110063000 +0000" stop="20260110123000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live United Cup: Halbfinale 2 in Sydney (AUS)</title>
+    <title>Live United Cup: POL - USA, Halbfinale 2 in Sydney (AUS)</title>
 </programme>
 <programme start="20260110123000 +0000" stop="20260110183000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>United Cup: Halbfinale 1 in Sydney (AUS)</title>
+    <title>United Cup: SUI - BEL, Halbfinale 1 in Sydney (AUS)</title>
 </programme>
 <programme start="20260110183000 +0000" stop="20260110190000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Tennis: Rafael Nadal - The No. 1 Story</title>
 </programme>
 <programme start="20260110190000 +0000" stop="20260111010000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>United Cup: Halbfinale 2 in Sydney (AUS)</title>
+    <title>United Cup: POL - USA, Halbfinale 2 in Sydney (AUS)</title>
 </programme>
-<programme start="20260109233000 +0000" stop="20260110053000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live United Cup: Halbfinale 1 in Sydney (AUS)</title>
+<programme start="20260109230000 +0000" stop="20260110053000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Live United Cup: SUI - BEL, Halbfinale 1 in Sydney (AUS)</title>
 </programme>
 <programme start="20260110053000 +0000" stop="20260110063000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>ATP &amp; WTA: Zeit für ein Break - das Tennisjahr 2025</title>
 </programme>
 <programme start="20260110063000 +0000" stop="20260110123000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live United Cup: Halbfinale 2 in Sydney (AUS)</title>
+    <title>Live United Cup: POL - USA, Halbfinale 2 in Sydney (AUS)</title>
 </programme>
 <programme start="20260110123000 +0000" stop="20260110130000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live Fußball: Mercedes-Benz JuniorCup 2026 in Sindelfingen, Vorrunde</title>
@@ -3173,7 +3167,7 @@
     <title>Live BL: tipico Countdown, 16. Spieltag</title>
 </programme>
 <programme start="20260110141500 +0000" stop="20260110164500 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live BL: FC St. Pauli - RB Leipzig, 16. Spieltag</title>
+    <title>Live BL: SC Freiburg - Hamburger SV, 16. Spieltag</title>
 </programme>
 <programme start="20260110164500 +0000" stop="20260110201500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live BL: Bayer Leverkusen - VfB Stuttgart, tipico Topspiel der Woche, 16. Spieltag</title>
