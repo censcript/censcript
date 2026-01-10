@@ -1871,22 +1871,22 @@
         <title>Stage 6</title>
     </programme>
     <programme start="20260110041000 +0000" stop="20260110060000 +0000" channel="beIN Sports 3.starhub">
-        <title>Bundesliga 2025/26 Frankfurt vs Dortmund</title>
+        <title>Frankfurt vs Dortmund</title>
     </programme>
     <programme start="20260110060000 +0000" stop="20260110080000 +0000" channel="beIN Sports 3.starhub">
-        <title>TotalEnergies Africa Cup of Nations, Morocco 2025 Mali vs Senegal - QF 1</title>
+        <title>Mali vs Senegal - QF 1</title>
     </programme>
     <programme start="20260110080000 +0000" stop="20260110100000 +0000" channel="beIN Sports 3.starhub">
-        <title>Bundesliga 2025/26 Frankfurt vs Dortmund</title>
+        <title>Frankfurt vs Dortmund</title>
     </programme>
     <programme start="20260110100000 +0000" stop="20260110110000 +0000" channel="beIN Sports 3.starhub">
         <title>Stage 6</title>
     </programme>
     <programme start="20260110110000 +0000" stop="20260110111000 +0000" channel="beIN Sports 3.starhub">
-        <title>UCL Classic Matches Barcelona vs Arsenal (2005/06)</title>
+        <title>Barcelona vs Arsenal (2005/06)</title>
     </programme>
     <programme start="20260110111000 +0000" stop="20260110112000 +0000" channel="beIN Sports 3.starhub">
-        <title>UCL Classic Matches PSV vs Milan (2008/09)</title>
+        <title>PSV vs Milan (2008/09)</title>
     </programme>
     <programme start="20260110112000 +0000" stop="20260110115000 +0000" channel="beIN Sports 3.starhub">
         <title>Analysis I</title>
@@ -1895,10 +1895,10 @@
         <title>Bundesliga Weekly 2025/26</title>
     </programme>
     <programme start="20260110122000 +0000" stop="20260110142500 +0000" channel="beIN Sports 3.starhub">
-        <title>Women&#039;s Super League 2025/26 Arsenal vs Man United (Live)</title>
+        <title>Arsenal vs Man United</title>
     </programme>
     <programme start="20260110142500 +0000" stop="20260110163500 +0000" channel="beIN Sports 3.starhub">
-        <title>Bundesliga 2025/26 St. Pauli vs Leipzig (Live)</title>
+        <title>Freiburg vs Hamburg</title>
     </programme>
     <programme start="20260109153000 +0000" stop="20260109163000 +0000" channel="Sun Music.starhub">
         <title>Non Stop Hits</title>
