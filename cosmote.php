@@ -78,6 +78,10 @@
     <title>Sportshow (L)</title>
     <desc>Live: Ya</desc>
 </programme>
+<programme start="20260112020000 +0700" stop="20260112041000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: Panathinaikos - Panserraikos (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
 <programme start="20260111003500 +0700" stop="20260111024500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Kifisia - AEL Novibet</title>
     <desc>Live: Tidak</desc>
@@ -144,6 +148,14 @@
 </programme>
 <programme start="20260112000000 +0700" stop="20260112020000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Hellas Verona - SS Lazio (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
+<programme start="20260112020000 +0700" stop="20260112024500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Sports Classics: Football&#039;s Greatest IV E10</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260112024500 +0700" stop="20260112044500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: FC Internazionale Milano - SSC Napoli (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20260111004500 +0700" stop="20260111024500 +0700" channel="COSMOTE Sport 3 HD">
@@ -218,8 +230,8 @@
     <title>Copa Libertadores 2025 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260111003500 +0700" stop="20260111011000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>NBA on Fire 2025-26 E11</title>
+<programme start="20260112020000 +0700" stop="20260112040000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Dundee - Heart of Midlothian</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260111011000 +0700" stop="20260111034500 +0700" channel="COSMOTE Sport 4 HD">
@@ -284,10 +296,6 @@
 </programme>
 <programme start="20260112003500 +0700" stop="20260112030000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Boston Celtics - San Antonio Spurs</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260111003000 +0700" stop="20260111013000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260111013000 +0700" stop="20260111023000 +0700" channel="COSMOTE Sport 5 HD">
@@ -458,10 +466,6 @@
     <title>Tennis: Lorenzo Musetti - Alexander Bublik</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260111000000 +0700" stop="20260111020000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>Football: AS Roma - Sassuolo (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
 <programme start="20260111020000 +0700" stop="20260111023000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
@@ -594,9 +598,9 @@
     <title>Basketball: Reyer Venezia - Virtus Bologna (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260111000000 +0700" stop="20260111020000 +0700" channel="COSMOTE Sport 9 HD">
-    <title>Football: APOEL - Akritas Chlorakas (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20260112023000 +0700" stop="20260112030000 +0700" channel="COSMOTE Sport 8 HD">
+    <title>COSMOTESport8HD</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260111020000 +0700" stop="20260111023000 +0700" channel="COSMOTE Sport 9 HD">
     <title>COSMOTESport9HD</title>
