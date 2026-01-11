@@ -460,6 +460,12 @@
 <programme start="20260111080000 +0000" stop="20260111093000 +0000" channel="Trans TV.vision">
 <title>Insert Investigasi</title>
 </programme>
+<programme start="20260111093000 +0000" stop="20260111103000 +0000" channel="Trans TV.vision">
+<title>HaHa HiHi</title>
+</programme>
+<programme start="20260111103000 +0000" stop="20260111114500 +0000" channel="Trans TV.vision">
+<title>Bikin Laper Weekend</title>
+</programme>
 <programme start="20260111114500 +0000" stop="20260111130000 +0000" channel="Trans TV.vision">
 <title>Insert Story</title>
 </programme>
@@ -568,6 +574,9 @@
 <programme start="20260111154500 +0000" stop="20260111163000 +0000" channel="Trans 7.vision">
 <title>The Police</title>
 </programme>
+<programme start="20260111163000 +0000" stop="20260111181500 +0000" channel="Trans 7.vision">
+<title>Pokoknya Beres</title>
+</programme>
 <programme start="20260111181500 +0000" stop="20260111193000 +0000" channel="Trans 7.vision">
 <title>Best Fishing</title>
 </programme>
@@ -634,6 +643,9 @@
 <programme start="20260111010000 +0000" stop="20260111023000 +0000" channel="ANTV.vision">
 <title>Catatan Hati</title>
 </programme>
+<programme start="20260111023000 +0000" stop="20260111060000 +0000" channel="ANTV.vision">
+<title>Chal Mere Bai</title>
+</programme>
 <programme start="20260111060000 +0000" stop="20260111091500 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -645,6 +657,9 @@
 </programme>
 <programme start="20260111133000 +0000" stop="20260111160000 +0000" channel="ANTV.vision">
 <title>Serie A Liga Italia</title>
+</programme>
+<programme start="20260111160000 +0000" stop="20260111180000 +0000" channel="ANTV.vision">
+<title>Jaka Sembung</title>
 </programme>
 <programme start="20260111180000 +0000" stop="20260111200000 +0000" channel="ANTV.vision">
 <title>Story Of Ricky</title>
@@ -1481,20 +1496,5 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260111210000 +0000" stop="20260111230000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260111230000 +0000" stop="20260112010000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260112010000 +0000" stop="20260112030000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260112030000 +0000" stop="20260112050000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260112050000 +0000" stop="20260112070000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260112070000 +0000" stop="20260112090000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
