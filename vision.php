@@ -640,9 +640,6 @@
 <programme start="20260112114500 +0000" stop="20260112121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
-<programme start="20260110230000 +0000" stop="20260111010000 +0000" channel="ANTV.vision">
-<title>Komando Samber Nyawa</title>
-</programme>
 <programme start="20260111010000 +0000" stop="20260111023000 +0000" channel="ANTV.vision">
 <title>Catatan Hati</title>
 </programme>
@@ -1496,5 +1493,8 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260111190000 +0000" stop="20260111210000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260111210000 +0000" stop="20260111230000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
