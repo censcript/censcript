@@ -2583,10 +2583,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Fußball: Herzog gegen Herzig - Die Next Generation Show (USC Kirchberg am Wagram)</title>
 </programme>
 <programme start="20260111063000 +0000" stop="20260111083000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live United Cup: Finale in Sydney (AUS), Damen Einzel</title>
+    <title>Live United Cup: B. Bencic (SUI) - I. Swiatek (POL), Finale in Sydney (AUS), Damen Einzel</title>
 </programme>
 <programme start="20260111083000 +0000" stop="20260111103000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live United Cup: Finale in Sydney (AUS), Herren Einzel</title>
+    <title>Live United Cup: S. Wawrinka (SUI) - H. Hurkacz (POL), Finale in Sydney (AUS), Herren Einzel</title>
 </programme>
 <programme start="20260111103000 +0000" stop="20260111123000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Live United Cup: Finale in Sydney (AUS), Mixed Doubles</title>
@@ -2639,7 +2639,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260111103500 +0000" stop="20260111105500 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt:  Mercedes-Benz Junior Cup</title>
 </programme>
-<programme start="20260111105500 +0000" stop="20260111180000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20260111105500 +0000" stop="20260111200000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live Fußball: Mercedes-Benz JuniorCup 2026 in Sindelfingen, Finaltag</title>
 </programme>
 <programme start="20260111004500 +0000" stop="20260111011500 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -2798,7 +2798,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260111163000 +0000" stop="20260111183000 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>BL: Borussia M&#039;gladbach - FC Augsburg, 16. Spieltag</title>
 </programme>
-<programme start="20260111183000 +0000" stop="20260111203000 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
+<programme start="20260111183000 +0000" stop="20260111210000 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>BL: FC Bayern München - VfL Wolfsburg, 16. Spieltag</title>
 </programme>
 <programme start="20260110230000 +0000" stop="20260111000000 +0000" channel="Sky Sport F1 HD.skyde">
@@ -3158,11 +3158,8 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260111220000 +0000" stop="20260111230000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: GOATS (Alan Shearer&#039;s Top 10 Strikers)</title>
 </programme>
-<programme start="20260111010000 +0000" stop="20260111023000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260111015000 +0000" stop="20260111033000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Next Gen ATP Finals: L. Tien (USA) - A. Blockx (BEL), Finale in Jeddah (SAU)</title>
-</programme>
-<programme start="20260111023000 +0000" stop="20260111033000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Next Gen ATP Finals: Review Jeddah 2025</title>
 </programme>
 <programme start="20260111033000 +0000" stop="20260111060000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA Finals: A. Sabalenka - E. Rybakina (KAZ), Finale 2025 in Riyadh (SAU)</title>
@@ -3171,28 +3168,28 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>WTA Finals: Review Riyadh 2025</title>
 </programme>
 <programme start="20260111063000 +0000" stop="20260111083000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live United Cup: Finale in Sydney (AUS), Damen Einzel</title>
+    <title>Live United Cup: B. Bencic (SUI) - I. Swiatek (POL), Finale in Sydney (AUS), Damen Einzel</title>
 </programme>
 <programme start="20260111083000 +0000" stop="20260111103000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live United Cup: Finale in Sydney (AUS), Herren Einzel</title>
+    <title>Live United Cup: S. Wawrinka (SUI) - H. Hurkacz (POL), Finale in Sydney (AUS), Herren Einzel</title>
 </programme>
 <programme start="20260111103000 +0000" stop="20260111123000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live United Cup: Finale in Sydney (AUS), Mixed Doubles</title>
 </programme>
 <programme start="20260111123000 +0000" stop="20260111150000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: Finale, Brisbane International presented by ANZ in Brisbane (AUS), Finale</title>
+    <title>WTA 500: M. Kostyuk (UKR) - A. Sabalenka, Brisbane International presented by ANZ in Brisbane (AUS), Finale</title>
 </programme>
 <programme start="20260111150000 +0000" stop="20260111173000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 250: Finale, Brisbane International presented by ANZ in Brisbane (AUS), Finale</title>
+    <title>ATP 250: B. Nakashima (USA) - D. Medvedev, Brisbane International presented by ANZ in Brisbane (AUS), Finale</title>
 </programme>
 <programme start="20260111173000 +0000" stop="20260111183000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP Finals: Review Turin 2025</title>
 </programme>
 <programme start="20260111183000 +0000" stop="20260111203000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>United Cup: Finale in Sydney (AUS), Damen Einzel</title>
+    <title>United Cup: B. Bencic (SUI) - I. Swiatek (POL), Finale in Sydney (AUS), Damen Einzel</title>
 </programme>
 <programme start="20260111203000 +0000" stop="20260111223000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>United Cup: Finale in Sydney (AUS), Herren Einzel</title>
+    <title>United Cup: S. Wawrinka (SUI) - H. Hurkacz (POL), Finale in Sydney (AUS), Herren Einzel</title>
 </programme>
 <programme start="20260111223000 +0000" stop="20260112003000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>United Cup: Finale in Sydney (AUS), Mixed Doubles</title>
@@ -3210,10 +3207,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>BL: Highlights XXL: SCF - HSV, 16. Spieltag</title>
 </programme>
 <programme start="20260111063000 +0000" stop="20260111083000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live United Cup: Finale in Sydney (AUS), Damen Einzel</title>
+    <title>Live United Cup: B. Bencic (SUI) - I. Swiatek (POL), Finale in Sydney (AUS), Damen Einzel</title>
 </programme>
 <programme start="20260111083000 +0000" stop="20260111103000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live United Cup: Finale in Sydney (AUS), Herren Einzel</title>
+    <title>Live United Cup: S. Wawrinka (SUI) - H. Hurkacz (POL), Finale in Sydney (AUS), Herren Einzel</title>
 </programme>
 <programme start="20260111103000 +0000" stop="20260111123000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live United Cup: Finale in Sydney (AUS), Mixed Doubles</title>
@@ -3230,25 +3227,19 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260111223000 +0000" stop="20260112010000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NHL: Pittsburgh Penguins @ Boston Bruins</title>
 </programme>
-<programme start="20260111054000 +0000" stop="20260111060000 +0000" channel="Sky Sport 1 HD.skyde">
-    <title>Es folgt: Live Tennis WTA Tour</title>
-</programme>
 <programme start="20260111060000 +0000" stop="20260111083000 +0000" channel="Sky Sport 1 HD.skyde">
-    <title>Live WTA 500: Finale, Brisbane International presented by ANZ in Brisbane (AUS), Finale</title>
+    <title>Live WTA 500: M. Kostyuk (UKR) - A. Sabalenka, Brisbane International presented by ANZ in Brisbane (AUS), Finale</title>
 </programme>
-<programme start="20260111083000 +0000" stop="20260111110000 +0000" channel="Sky Sport 1 HD.skyde">
-    <title>Live ATP 250: Finale, Brisbane International presented by ANZ in Brisbane (AUS), Finale</title>
+<programme start="20260111083000 +0000" stop="20260111130000 +0000" channel="Sky Sport 1 HD.skyde">
+    <title>Live ATP 250: B. Nakashima (USA) - D. Medvedev, Brisbane International presented by ANZ in Brisbane (AUS), Finale</title>
 </programme>
-<programme start="20260111071000 +0000" stop="20260111073000 +0000" channel="Sky Sport 2 HD.skyde">
-    <title>Es folgt: Live ATP World Tour</title>
-</programme>
-<programme start="20260111073000 +0000" stop="20260111100000 +0000" channel="Sky Sport 2 HD.skyde">
-    <title>Live ATP 250: Finale, Bank of China Hong Kong Tennis Open in Hong Kong (CHN), Finale</title>
+<programme start="20260111073000 +0000" stop="20260111120000 +0000" channel="Sky Sport 2 HD.skyde">
+    <title>Live ATP 250: L. Musetti (ITA) - A. Bublik (KAZ), Bank of China Hong Kong Tennis Open in Hong Kong (CHN), Finale</title>
 </programme>
 <programme start="20260111192500 +0000" stop="20260111194500 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Es folgt: Basketball NBA</title>
 </programme>
-<programme start="20260111194500 +0000" stop="20260111223000 +0000" channel="Sky Sport 2 HD.skyde">
+<programme start="20260111194500 +0000" stop="20260111233000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live NBA: New Orleans Pelicans @ Orlando Magic</title>
 </programme>
 <programme start="20260110233000 +0000" stop="20260111001500 +0000" channel="SYFY HD.skyde">
