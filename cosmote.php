@@ -1,11 +1,3 @@
-<programme start="20260111153000 +0700" stop="20260111173000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: Club Brugge - Arsenal</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260111173000 +0700" stop="20260111180000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Game R1 S6 E20</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260111180000 +0700" stop="20260111183000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Sports Classics: Worldies E16</title>
     <desc>Live: Tidak</desc>
@@ -138,6 +130,10 @@
     <title>Football: Lecce - Parma</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260112181000 +0700" stop="20260112202000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Panetolikos - PAOK</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260111163000 +0700" stop="20260111183000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: APOEL - EN Paralimni</title>
     <desc>Live: Tidak</desc>
@@ -212,6 +208,10 @@
 </programme>
 <programme start="20260112163000 +0700" stop="20260112183000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Macclesfield - Crystal Palace</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260112183000 +0700" stop="20260112203000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Dundee - Heart of Midlothian</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260111160000 +0700" stop="20260111183000 +0700" channel="COSMOTE Sport 4 HD">
@@ -366,12 +366,8 @@
     <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260111170000 +0700" stop="20260111173000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Premier Padel Tour 2025 - Highlights</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260111173000 +0700" stop="20260111180000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Sports Classics: 2025 Outdoor Specials</title>
+<programme start="20260112183500 +0700" stop="20260112194000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260111180000 +0700" stop="20260111183000 +0700" channel="COSMOTE Sport 6 HD">
@@ -436,10 +432,6 @@
 </programme>
 <programme start="20260112163000 +0700" stop="20260112190000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP 250 2026 (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20260111153000 +0700" stop="20260111180000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>Tennis: Daniil Medvedev - Brandon Nakashima (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20260111180000 +0700" stop="20260111183000 +0700" channel="COSMOTE Sport 7 HD">
