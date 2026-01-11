@@ -1,7 +1,3 @@
-<programme start="20260111210000 +0700" stop="20260111220000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>UEL &amp; UECL Magazine 2025-26 E8</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260111220000 +0700" stop="20260111223000 +0700" channel="COSMOTE Sport 1 HD">
     <title>PreGame (L)</title>
     <desc>Live: Ya</desc>
@@ -60,6 +56,10 @@
 </programme>
 <programme start="20260112194500 +0700" stop="20260112220500 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: AEK - Universitatea Craiova</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260112220500 +0700" stop="20260113003500 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Sportshow</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260111210000 +0700" stop="20260111230000 +0700" channel="COSMOTE Sport 2 HD">
@@ -124,6 +124,10 @@
 </programme>
 <programme start="20260112202000 +0700" stop="20260112222000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: ACF Fiorentina - AC Milan</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260112222000 +0700" stop="20260113003000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: OFI - Asteras Aktor</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260111210000 +0700" stop="20260111230000 +0700" channel="COSMOTE Sport 3 HD">
@@ -198,18 +202,6 @@
     <title>American Football: Jacksonville Jaguars - Buffalo Bills</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260111204000 +0700" stop="20260111211500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>NBA Action 2025-26 E3512</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260111211500 +0700" stop="20260111214500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>NBA Specials</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260111214500 +0700" stop="20260111220000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Sports Highlights</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260111220000 +0700" stop="20260112000000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Fenerbahce - Bahcesehir (L)</title>
     <desc>Live: Ya</desc>
@@ -252,6 +244,10 @@
 </programme>
 <programme start="20260112195500 +0700" stop="20260112220000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Reyer Venezia - Virtus Bologna</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260112220000 +0700" stop="20260113000000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: KK Spartak - Karditsa</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260111210000 +0700" stop="20260111230000 +0700" channel="COSMOTE Sport 5 HD">
@@ -342,6 +338,10 @@
     <title>WRC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260112220500 +0700" stop="20260112231000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260111210000 +0700" stop="20260111230000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Football: Dundee - Heart of Midlothian (L)</title>
     <desc>Live: Ya</desc>
@@ -414,8 +414,8 @@
     <title>Premier Padel Tour 2025 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260111210000 +0700" stop="20260111220000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
+<programme start="20260112220000 +0700" stop="20260113000000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Volleyball: Tours VB - Trentino Itas</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260111220000 +0700" stop="20260111223000 +0700" channel="COSMOTE Sport 7 HD">
