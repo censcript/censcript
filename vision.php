@@ -643,9 +643,6 @@
 <programme start="20260111010000 +0000" stop="20260111023000 +0000" channel="ANTV.vision">
 <title>Catatan Hati</title>
 </programme>
-<programme start="20260111023000 +0000" stop="20260111060000 +0000" channel="ANTV.vision">
-<title>Chal Mere Bai</title>
-</programme>
 <programme start="20260111060000 +0000" stop="20260111091500 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -1496,5 +1493,8 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260111210000 +0000" stop="20260111230000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260111230000 +0000" stop="20260112010000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
