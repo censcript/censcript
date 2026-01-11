@@ -58,6 +58,10 @@
     <title>Football: BSC Young Boys - Lille OSC</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260113064500 +0700" stop="20260113084500 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: AC Sparta Praha - Aberdeen</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260112044500 +0700" stop="20260112070000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Panathinaikos - Panserraikos</title>
     <desc>Live: Tidak</desc>
@@ -112,6 +116,10 @@
 </programme>
 <programme start="20260113044000 +0700" stop="20260113064000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: FC Internazionale Milano - SSC Napoli</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260113064000 +0700" stop="20260113071000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Sports Classics: Football&#039;s Greatest IV E3</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260112040000 +0700" stop="20260112061000 +0700" channel="COSMOTE Sport 3 HD">
@@ -186,10 +194,6 @@
     <title>Football: Tottenham Hotspur - Aston Villa</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260112030000 +0700" stop="20260112060000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Orlando Magic - New Orleans Pelicans (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
 <programme start="20260112060000 +0700" stop="20260112080000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Valencia Basket Club - Unicaja</title>
     <desc>Live: Tidak</desc>
@@ -232,10 +236,6 @@
 </programme>
 <programme start="20260113050000 +0700" stop="20260113070000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Valencia Basket Club - Unicaja</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260112045500 +0700" stop="20260112055500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>MotoGP Classics</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260112055500 +0700" stop="20260112065500 +0700" channel="COSMOTE Sport 5 HD">
@@ -334,8 +334,8 @@
     <title>WRC</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260112034500 +0700" stop="20260112054500 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: Daniil Medvedev - Brandon Nakashima</title>
+<programme start="20260113061500 +0700" stop="20260113073500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>DTM 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260112054500 +0700" stop="20260112061500 +0700" channel="COSMOTE Sport 6 HD">
@@ -420,6 +420,10 @@
 </programme>
 <programme start="20260113053000 +0700" stop="20260113060000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Sports Classics: The Outdoor Sports Show 2024 E12</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260113060000 +0700" stop="20260113083000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>2025 Premier Padel Tour Finals</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260112050000 +0700" stop="20260112070000 +0700" channel="COSMOTE Sport 7 HD">
