@@ -460,12 +460,6 @@
 <programme start="20260111080000 +0000" stop="20260111093000 +0000" channel="Trans TV.vision">
 <title>Insert Investigasi</title>
 </programme>
-<programme start="20260111093000 +0000" stop="20260111103000 +0000" channel="Trans TV.vision">
-<title>HaHa HiHi</title>
-</programme>
-<programme start="20260111103000 +0000" stop="20260111114500 +0000" channel="Trans TV.vision">
-<title>Bikin Laper Weekend</title>
-</programme>
 <programme start="20260111114500 +0000" stop="20260111130000 +0000" channel="Trans TV.vision">
 <title>Insert Story</title>
 </programme>
@@ -1496,5 +1490,11 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260111230000 +0000" stop="20260112010000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260112010000 +0000" stop="20260112030000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260112030000 +0000" stop="20260112050000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>

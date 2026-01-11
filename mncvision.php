@@ -1939,10 +1939,390 @@
 <programme start="20260111160100 +0000" stop="20260111163100 +0000" channel="Celestial Movies.mncvision">
     <title>Social Distancing</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260110170000 +0000" stop="20260110173000 +0000" channel="CGTN.mncvision">
+    <title>Africa Live</title>
+</programme>
+<programme start="20260110173000 +0000" stop="20260110180000 +0000" channel="CGTN.mncvision">
+    <title>Talk Africa</title>
+</programme>
+<programme start="20260110180000 +0000" stop="20260110183000 +0000" channel="CGTN.mncvision">
+    <title>Sports Scene</title>
+</programme>
+<programme start="20260110183000 +0000" stop="20260110190000 +0000" channel="CGTN.mncvision">
+    <title>Biz Talk</title>
+</programme>
+<programme start="20260110190000 +0000" stop="20260110193000 +0000" channel="CGTN.mncvision">
+    <title>The World Today</title>
+</programme>
+<programme start="20260110193000 +0000" stop="20260110200000 +0000" channel="CGTN.mncvision">
+    <title>Travelogue</title>
+</programme>
+<programme start="20260110200000 +0000" stop="20260110203000 +0000" channel="CGTN.mncvision">
+    <title>The World Today</title>
+</programme>
+<programme start="20260110203000 +0000" stop="20260110210000 +0000" channel="CGTN.mncvision">
+    <title>The Agenda</title>
+</programme>
+<programme start="20260110210000 +0000" stop="20260110213000 +0000" channel="CGTN.mncvision">
+    <title>The World Today</title>
+</programme>
+<programme start="20260110213000 +0000" stop="20260110220000 +0000" channel="CGTN.mncvision">
+    <title>Leaders Talk</title>
+</programme>
+<programme start="20260110220000 +0000" stop="20260110230000 +0000" channel="CGTN.mncvision">
+    <title>Full Frame</title>
+</programme>
+<programme start="20260110230000 +0000" stop="20260110233000 +0000" channel="CGTN.mncvision">
+    <title>The World Today</title>
+</programme>
+<programme start="20260110233000 +0000" stop="20260111000000 +0000" channel="CGTN.mncvision">
+    <title>Assignment Asia</title>
+</programme>
+<programme start="20260111000000 +0000" stop="20260111003000 +0000" channel="CGTN.mncvision">
+    <title>The World Today</title>
+</programme>
+<programme start="20260111003000 +0000" stop="20260111010000 +0000" channel="CGTN.mncvision">
+    <title>The Agenda</title>
+</programme>
+<programme start="20260111010000 +0000" stop="20260111020000 +0000" channel="CGTN.mncvision">
+    <title>Big Story</title>
+</programme>
+<programme start="20260111020000 +0000" stop="20260111023000 +0000" channel="CGTN.mncvision">
+    <title>The World Today</title>
+</programme>
+<programme start="20260111023000 +0000" stop="20260111030000 +0000" channel="CGTN.mncvision">
+    <title>Inheritors</title>
+</programme>
+<programme start="20260111030000 +0000" stop="20260111031500 +0000" channel="CGTN.mncvision">
+    <title>The World Today</title>
+</programme>
+<programme start="20260111031500 +0000" stop="20260111033000 +0000" channel="CGTN.mncvision">
+    <title>Sports Scene</title>
+</programme>
+<programme start="20260111033000 +0000" stop="20260111040000 +0000" channel="CGTN.mncvision">
+    <title>Leaders Talk</title>
+</programme>
+<programme start="20260111040000 +0000" stop="20260111050000 +0000" channel="CGTN.mncvision">
+    <title>Global Watch</title>
+</programme>
+<programme start="20260111050000 +0000" stop="20260111060000 +0000" channel="CGTN.mncvision">
+    <title>Full Frame</title>
+</programme>
+<programme start="20260111060000 +0000" stop="20260111063000 +0000" channel="CGTN.mncvision">
+    <title>The World Today</title>
+</programme>
+<programme start="20260111063000 +0000" stop="20260111070000 +0000" channel="CGTN.mncvision">
+    <title>Biz Talk</title>
+</programme>
+<programme start="20260111070000 +0000" stop="20260111073000 +0000" channel="CGTN.mncvision">
+    <title>The World Today</title>
+</programme>
+<programme start="20260111073000 +0000" stop="20260111080000 +0000" channel="CGTN.mncvision">
+    <title>Sports Scene</title>
+</programme>
+<programme start="20260111080000 +0000" stop="20260111083000 +0000" channel="CGTN.mncvision">
+    <title>The World Today</title>
+</programme>
+<programme start="20260111083000 +0000" stop="20260111090000 +0000" channel="CGTN.mncvision">
+    <title>Talk Africa</title>
+</programme>
+<programme start="20260111090000 +0000" stop="20260111093000 +0000" channel="CGTN.mncvision">
+    <title>The World Today</title>
+</programme>
+<programme start="20260111093000 +0000" stop="20260111100000 +0000" channel="CGTN.mncvision">
+    <title>Faces Of Africa</title>
+</programme>
+<programme start="20260111100000 +0000" stop="20260111101500 +0000" channel="CGTN.mncvision">
+    <title>The World Today</title>
+</programme>
+<programme start="20260111101500 +0000" stop="20260111110000 +0000" channel="CGTN.mncvision">
+    <title>Africa Live</title>
+</programme>
+<programme start="20260111110000 +0000" stop="20260111120000 +0000" channel="CGTN.mncvision">
+    <title>Zoom In</title>
+</programme>
+<programme start="20260111120000 +0000" stop="20260111121500 +0000" channel="CGTN.mncvision">
+    <title>The World Today</title>
+</programme>
+<programme start="20260111121500 +0000" stop="20260111130000 +0000" channel="CGTN.mncvision">
+    <title>China 24</title>
+</programme>
+<programme start="20260111130000 +0000" stop="20260111133000 +0000" channel="CGTN.mncvision">
+    <title>The World Today</title>
+</programme>
+<programme start="20260111133000 +0000" stop="20260111140000 +0000" channel="CGTN.mncvision">
+    <title>The Agenda</title>
+</programme>
+<programme start="20260111140000 +0000" stop="20260111150000 +0000" channel="CGTN.mncvision">
+    <title>Big Story</title>
+</programme>
+<programme start="20260111150000 +0000" stop="20260111153000 +0000" channel="CGTN.mncvision">
+    <title>The World Today</title>
+</programme>
+<programme start="20260111153000 +0000" stop="20260111160000 +0000" channel="CGTN.mncvision">
+    <title>Travelogue</title>
+</programme>
+<programme start="20260111160000 +0000" stop="20260111163000 +0000" channel="CGTN.mncvision">
+    <title>The World Today</title>
+</programme>
+<programme start="20260111163000 +0000" stop="20260110170000 +0000" channel="CGTN.mncvision">
+    <title>Razor</title>
+</programme>
+<programme start="20260110170000 +0000" stop="20260110173000 +0000" channel="CGTN Documentary.mncvision">
+    <title>Chinas Greatest Treasures, Ep 6</title>
+</programme>
+<programme start="20260110173000 +0000" stop="20260110180000 +0000" channel="CGTN Documentary.mncvision">
+    <title>L. E. Hudec, Ep 5</title>
+</programme>
+<programme start="20260110180000 +0000" stop="20260110190000 +0000" channel="CGTN Documentary.mncvision">
+    <title>Gourmets Alive S2</title>
+</programme>
+<programme start="20260110190000 +0000" stop="20260110193000 +0000" channel="CGTN Documentary.mncvision">
+    <title>Stretching The Limits S4, Ep 3</title>
+</programme>
+<programme start="20260110193000 +0000" stop="20260110200000 +0000" channel="CGTN Documentary.mncvision">
+    <title>Pixel Collage</title>
+</programme>
+<programme start="20260110200000 +0000" stop="20260110210000 +0000" channel="CGTN Documentary.mncvision">
+    <title>China&#039;s Home Front, Ep 7</title>
+</programme>
+<programme start="20260110210000 +0000" stop="20260110220000 +0000" channel="CGTN Documentary.mncvision">
+    <title>A Reputation To Treasure, Ep 1</title>
+</programme>
+<programme start="20260110220000 +0000" stop="20260110230000 +0000" channel="CGTN Documentary.mncvision">
+    <title>A Reputation To Treasure, Ep 2</title>
+</programme>
+<programme start="20260110230000 +0000" stop="20260111000000 +0000" channel="CGTN Documentary.mncvision">
+    <title>A Reputation To Treasure, Ep 3</title>
+</programme>
+<programme start="20260111000000 +0000" stop="20260111010000 +0000" channel="CGTN Documentary.mncvision">
+    <title>A Reputation To Treasure, Ep 4</title>
+</programme>
+<programme start="20260111010000 +0000" stop="20260111020000 +0000" channel="CGTN Documentary.mncvision">
+    <title>A Reputation To Treasure, Ep 5</title>
+</programme>
+<programme start="20260111020000 +0000" stop="20260111030000 +0000" channel="CGTN Documentary.mncvision">
+    <title>China&#039;s Home Front, Ep 7</title>
+</programme>
+<programme start="20260111030000 +0000" stop="20260111040000 +0000" channel="CGTN Documentary.mncvision">
+    <title>A Reputation To Treasure, Ep 1</title>
+</programme>
+<programme start="20260111040000 +0000" stop="20260111050000 +0000" channel="CGTN Documentary.mncvision">
+    <title>A Reputation To Treasure, Ep 2</title>
+</programme>
+<programme start="20260111050000 +0000" stop="20260111060000 +0000" channel="CGTN Documentary.mncvision">
+    <title>A Reputation To Treasure, Ep 3</title>
+</programme>
+<programme start="20260111060000 +0000" stop="20260111070000 +0000" channel="CGTN Documentary.mncvision">
+    <title>A Reputation To Treasure, Ep 4</title>
+</programme>
+<programme start="20260111070000 +0000" stop="20260111080000 +0000" channel="CGTN Documentary.mncvision">
+    <title>A Reputation To Treasure, Ep 5</title>
+</programme>
+<programme start="20260111080000 +0000" stop="20260111090000 +0000" channel="CGTN Documentary.mncvision">
+    <title>China&#039;s Home Front, Ep 7</title>
+</programme>
+<programme start="20260111090000 +0000" stop="20260111100000 +0000" channel="CGTN Documentary.mncvision">
+    <title>A Reputation To Treasure, Ep 1</title>
+</programme>
+<programme start="20260111100000 +0000" stop="20260111110000 +0000" channel="CGTN Documentary.mncvision">
+    <title>A Reputation To Treasure, Ep 2</title>
+</programme>
+<programme start="20260111110000 +0000" stop="20260111120000 +0000" channel="CGTN Documentary.mncvision">
+    <title>A Reputation To Treasure, Ep 3</title>
+</programme>
+<programme start="20260111120000 +0000" stop="20260111130000 +0000" channel="CGTN Documentary.mncvision">
+    <title>A Reputation To Treasure, Ep 4</title>
+</programme>
+<programme start="20260111130000 +0000" stop="20260111140000 +0000" channel="CGTN Documentary.mncvision">
+    <title>A Reputation To Treasure, Ep 5</title>
+</programme>
+<programme start="20260111140000 +0000" stop="20260111150000 +0000" channel="CGTN Documentary.mncvision">
+    <title>China&#039;s Home Front, Ep 7</title>
+</programme>
+<programme start="20260111150000 +0000" stop="20260111160000 +0000" channel="CGTN Documentary.mncvision">
+    <title>A Reputation To Treasure, Ep 1</title>
+</programme>
+<programme start="20260111160000 +0000" stop="20260111163000 +0000" channel="CGTN Documentary.mncvision">
+    <title>A Reputation To Treasure, Ep 2</title>
+</programme>
+<programme start="20260110170000 +0000" stop="20260110173000 +0000" channel="Channel News Asia.mncvision">
+    <title>Money Mind, Ep 33</title>
+</programme>
+<programme start="20260110173000 +0000" stop="20260110180000 +0000" channel="Channel News Asia.mncvision">
+    <title>Talking Point, Ep 6</title>
+</programme>
+<programme start="20260110180000 +0000" stop="20260110183000 +0000" channel="Channel News Asia.mncvision">
+    <title>Singapore Tonight</title>
+</programme>
+<programme start="20260110183000 +0000" stop="20260110190000 +0000" channel="Channel News Asia.mncvision">
+    <title>On The Red Dot, Ep 6</title>
+</programme>
+<programme start="20260110190000 +0000" stop="20260110200000 +0000" channel="Channel News Asia.mncvision">
+    <title>Limitless S2, Ep 4</title>
+</programme>
+<programme start="20260110200000 +0000" stop="20260110203000 +0000" channel="Channel News Asia.mncvision">
+    <title>Asia Tonight</title>
+</programme>
+<programme start="20260110203000 +0000" stop="20260110210000 +0000" channel="Channel News Asia.mncvision">
+    <title>Hobsessions, Ep 5</title>
+</programme>
+<programme start="20260110210000 +0000" stop="20260110220000 +0000" channel="Channel News Asia.mncvision">
+    <title>Legend In A Day</title>
+</programme>
+<programme start="20260110220000 +0000" stop="20260110223000 +0000" channel="Channel News Asia.mncvision">
+    <title>Singapore Tonight</title>
+</programme>
+<programme start="20260110223000 +0000" stop="20260110230000 +0000" channel="Channel News Asia.mncvision">
+    <title>CNA Correspondent, Ep 30</title>
+</programme>
+<programme start="20260110230000 +0000" stop="20260110233000 +0000" channel="Channel News Asia.mncvision">
+    <title>Asia Now</title>
+</programme>
+<programme start="20260110233000 +0000" stop="20260111000000 +0000" channel="Channel News Asia.mncvision">
+    <title>On The Red Dot, Ep 6</title>
+</programme>
+<programme start="20260111000000 +0000" stop="20260111003000 +0000" channel="Channel News Asia.mncvision">
+    <title>Asia Now</title>
+</programme>
+<programme start="20260111003000 +0000" stop="20260111010000 +0000" channel="Channel News Asia.mncvision">
+    <title>Hobsessions, Ep 5</title>
+</programme>
+<programme start="20260111010000 +0000" stop="20260111013000 +0000" channel="Channel News Asia.mncvision">
+    <title>Asia Now</title>
+</programme>
+<programme start="20260111013000 +0000" stop="20260111020000 +0000" channel="Channel News Asia.mncvision">
+    <title>Talking Point, Ep 6</title>
+</programme>
+<programme start="20260111020000 +0000" stop="20260111020200 +0000" channel="Channel News Asia.mncvision">
+    <title>Headline News 2025/2026</title>
+</programme>
+<programme start="20260111020200 +0000" stop="20260111030000 +0000" channel="Channel News Asia.mncvision">
+    <title>Legend In A Day</title>
+</programme>
+<programme start="20260111030000 +0000" stop="20260111033000 +0000" channel="Channel News Asia.mncvision">
+    <title>Asia Now</title>
+</programme>
+<programme start="20260111033000 +0000" stop="20260111040000 +0000" channel="Channel News Asia.mncvision">
+    <title>Money Mind, Ep 33</title>
+</programme>
+<programme start="20260111040000 +0000" stop="20260111043000 +0000" channel="Channel News Asia.mncvision">
+    <title>Asia Now</title>
+</programme>
+<programme start="20260111043000 +0000" stop="20260111050000 +0000" channel="Channel News Asia.mncvision">
+    <title>CNA Correspondent, Ep 30</title>
+</programme>
+<programme start="20260111050000 +0000" stop="20260111050200 +0000" channel="Channel News Asia.mncvision">
+    <title>Headline News 2025/2026</title>
+</programme>
+<programme start="20260111050200 +0000" stop="20260111060000 +0000" channel="Channel News Asia.mncvision">
+    <title>Japan Hour, Ep 2</title>
+</programme>
+<programme start="20260111060000 +0000" stop="20260111063000 +0000" channel="Channel News Asia.mncvision">
+    <title>Asia Now</title>
+</programme>
+<programme start="20260111063000 +0000" stop="20260111070000 +0000" channel="Channel News Asia.mncvision">
+    <title>Hobsessions, Ep 5</title>
+</programme>
+<programme start="20260111070000 +0000" stop="20260111073000 +0000" channel="Channel News Asia.mncvision">
+    <title>Asia Now</title>
+</programme>
+<programme start="20260111073000 +0000" stop="20260111080000 +0000" channel="Channel News Asia.mncvision">
+    <title>On The Red Dot, Ep 6</title>
+</programme>
+<programme start="20260111080000 +0000" stop="20260111080200 +0000" channel="Channel News Asia.mncvision">
+    <title>Headline News 2025/2026</title>
+</programme>
+<programme start="20260111080200 +0000" stop="20260111090000 +0000" channel="Channel News Asia.mncvision">
+    <title>China&#039;s Night Boom, Ep 3</title>
+</programme>
+<programme start="20260111090000 +0000" stop="20260111093000 +0000" channel="Channel News Asia.mncvision">
+    <title>Asia Now</title>
+</programme>
+<programme start="20260111093000 +0000" stop="20260111100000 +0000" channel="Channel News Asia.mncvision">
+    <title>CNA Correspondent, Ep 30</title>
+</programme>
+<programme start="20260111100000 +0000" stop="20260111103000 +0000" channel="Channel News Asia.mncvision">
+    <title>Asia Now</title>
+</programme>
+<programme start="20260111103000 +0000" stop="20260111110000 +0000" channel="Channel News Asia.mncvision">
+    <title>Talking Point, Ep 6</title>
+</programme>
+<programme start="20260111110000 +0000" stop="20260111110200 +0000" channel="Channel News Asia.mncvision">
+    <title>Headline News 2025/2026</title>
+</programme>
+<programme start="20260111110200 +0000" stop="20260111120000 +0000" channel="Channel News Asia.mncvision">
+    <title>Singapore Hour, Ep 28</title>
+</programme>
+<programme start="20260111120000 +0000" stop="20260111123000 +0000" channel="Channel News Asia.mncvision">
+    <title>Asia Tonight</title>
+</programme>
+<programme start="20260111123000 +0000" stop="20260111130000 +0000" channel="Channel News Asia.mncvision">
+    <title>Hobsessions, Ep 6</title>
+</programme>
+<programme start="20260111130000 +0000" stop="20260111130200 +0000" channel="Channel News Asia.mncvision">
+    <title>Headline News 2025/2026</title>
+</programme>
+<programme start="20260111130200 +0000" stop="20260111140000 +0000" channel="Channel News Asia.mncvision">
+    <title>Wombless, Ep 1</title>
+</programme>
+<programme start="20260111140000 +0000" stop="20260111143000 +0000" channel="Channel News Asia.mncvision">
+    <title>Singapore Tonight</title>
+</programme>
+<programme start="20260111143000 +0000" stop="20260111150000 +0000" channel="Channel News Asia.mncvision">
+    <title>Talking Point, Ep 28</title>
+</programme>
+<programme start="20260111150000 +0000" stop="20260111150300 +0000" channel="Channel News Asia.mncvision">
+    <title>Headline News 2025/2026</title>
+</programme>
+<programme start="20260111150300 +0000" stop="20260111160000 +0000" channel="Channel News Asia.mncvision">
+    <title>Legend In A Day</title>
+</programme>
+<programme start="20260111160000 +0000" stop="20260111160300 +0000" channel="Channel News Asia.mncvision">
+    <title>Headline News 2025/2026</title>
+</programme>
+<programme start="20260111160300 +0000" stop="20260111163300 +0000" channel="Channel News Asia.mncvision">
+    <title>China&#039;s Night Boom, Ep 3</title>
+</programme>
+<programme start="20260110173000 +0000" stop="20260110190500 +0000" channel="CINEEDGE.mncvision">
+    <title>Trading Paint</title>
+</programme>
+<programme start="20260110190500 +0000" stop="20260110205900 +0000" channel="CINEEDGE.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20260110205900 +0000" stop="20260110223200 +0000" channel="CINEEDGE.mncvision">
+    <title>Kill Switch</title>
+</programme>
+<programme start="20260110223200 +0000" stop="20260111005300 +0000" channel="CINEEDGE.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20260111005300 +0000" stop="20260111023000 +0000" channel="CINEEDGE.mncvision">
+    <title>Good People</title>
+</programme>
+<programme start="20260111023000 +0000" stop="20260111042000 +0000" channel="CINEEDGE.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20260111042000 +0000" stop="20260111055300 +0000" channel="CINEEDGE.mncvision">
+    <title>Renegades</title>
+</programme>
+<programme start="20260111055300 +0000" stop="20260111080300 +0000" channel="CINEEDGE.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20260111080300 +0000" stop="20260111094100 +0000" channel="CINEEDGE.mncvision">
+    <title>Cosmic Sin</title>
+</programme>
+<programme start="20260111094100 +0000" stop="20260111112400 +0000" channel="CINEEDGE.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20260111112400 +0000" stop="20260111130800 +0000" channel="CINEEDGE.mncvision">
+    <title>Hard Kill</title>
+</programme>
+<programme start="20260111130800 +0000" stop="20260111152000 +0000" channel="CINEEDGE.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20260111152000 +0000" stop="20260111155000 +0000" channel="CINEEDGE.mncvision">
+    <title>Occupation: Rainfall</title>
+</programme>
 <programme start="20260110173000 +0000" stop="20260110190500 +0000" channel="CINEEDGE HD.mncvision">
     <title>Trading Paint</title>
 </programme>
@@ -2306,7 +2686,156 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260111123500 +0000" stop="20260111130500 +0000" channel="Dreamworks.mncvision">
     <title>Spirit Riding Free: Academy</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260110171000 +0000" stop="20260110173500 +0000" channel="Dreamworks HD.mncvision">
+    <title>Trollhunters: Tales Of Arcadia</title>
+</programme>
+<programme start="20260110173500 +0000" stop="20260110180000 +0000" channel="Dreamworks HD.mncvision">
+    <title>Trollhunters: Tales Of Arcadia</title>
+</programme>
+<programme start="20260110180000 +0000" stop="20260110182500 +0000" channel="Dreamworks HD.mncvision">
+    <title>The Croods: Family Tree</title>
+</programme>
+<programme start="20260110182500 +0000" stop="20260110185000 +0000" channel="Dreamworks HD.mncvision">
+    <title>Dragons: Riders Of Berk</title>
+</programme>
+<programme start="20260110185000 +0000" stop="20260110191500 +0000" channel="Dreamworks HD.mncvision">
+    <title>Voltron: Legendary Defender</title>
+</programme>
+<programme start="20260110191500 +0000" stop="20260110194000 +0000" channel="Dreamworks HD.mncvision">
+    <title>Harvey Girls Forever!</title>
+</programme>
+<programme start="20260110194000 +0000" stop="20260110200500 +0000" channel="Dreamworks HD.mncvision">
+    <title>Dinotrux Supercharged</title>
+</programme>
+<programme start="20260110200500 +0000" stop="20260110203000 +0000" channel="Dreamworks HD.mncvision">
+    <title>The Adv. Of Rocky &amp; Bullwinkle</title>
+</programme>
+<programme start="20260110203000 +0000" stop="20260110204500 +0000" channel="Dreamworks HD.mncvision">
+    <title>Guess With Jess</title>
+</programme>
+<programme start="20260110204500 +0000" stop="20260110210000 +0000" channel="Dreamworks HD.mncvision">
+    <title>Guess With Jess</title>
+</programme>
+<programme start="20260110210000 +0000" stop="20260110211500 +0000" channel="Dreamworks HD.mncvision">
+    <title>Guess With Jess</title>
+</programme>
+<programme start="20260110211500 +0000" stop="20260110213000 +0000" channel="Dreamworks HD.mncvision">
+    <title>Guess With Jess</title>
+</programme>
+<programme start="20260110213000 +0000" stop="20260110214500 +0000" channel="Dreamworks HD.mncvision">
+    <title>Guess With Jess</title>
+</programme>
+<programme start="20260110214500 +0000" stop="20260110220000 +0000" channel="Dreamworks HD.mncvision">
+    <title>Guess With Jess</title>
+</programme>
+<programme start="20260110220000 +0000" stop="20260110222500 +0000" channel="Dreamworks HD.mncvision">
+    <title>Casper&#039;s Scare School</title>
+</programme>
+<programme start="20260110222500 +0000" stop="20260110225000 +0000" channel="Dreamworks HD.mncvision">
+    <title>Casper&#039;s Scare School</title>
+</programme>
+<programme start="20260110225000 +0000" stop="20260110231500 +0000" channel="Dreamworks HD.mncvision">
+    <title>Boss Baby: Back In Business</title>
+</programme>
+<programme start="20260110231500 +0000" stop="20260110234000 +0000" channel="Dreamworks HD.mncvision">
+    <title>Boss Baby: Back In Business</title>
+</programme>
+<programme start="20260110234000 +0000" stop="20260111000500 +0000" channel="Dreamworks HD.mncvision">
+    <title>The Epic Tales Of Captain...</title>
+</programme>
+<programme start="20260111000500 +0000" stop="20260111003000 +0000" channel="Dreamworks HD.mncvision">
+    <title>The Epic Tales Of Captain...</title>
+</programme>
+<programme start="20260111003000 +0000" stop="20260111005500 +0000" channel="Dreamworks HD.mncvision">
+    <title>Kung Fu Panda: Dragon Knight</title>
+</programme>
+<programme start="20260111005500 +0000" stop="20260111012000 +0000" channel="Dreamworks HD.mncvision">
+    <title>Kung Fu Panda: Dragon Knight</title>
+</programme>
+<programme start="20260111012000 +0000" stop="20260111014500 +0000" channel="Dreamworks HD.mncvision">
+    <title>Dragons: Race To The Edge</title>
+</programme>
+<programme start="20260111014500 +0000" stop="20260111021000 +0000" channel="Dreamworks HD.mncvision">
+    <title>Dragons: Race To The Edge</title>
+</programme>
+<programme start="20260111021000 +0000" stop="20260111023500 +0000" channel="Dreamworks HD.mncvision">
+    <title>All Hail King Julien</title>
+</programme>
+<programme start="20260111023500 +0000" stop="20260111030000 +0000" channel="Dreamworks HD.mncvision">
+    <title>All Hail King Julien</title>
+</programme>
+<programme start="20260111030000 +0000" stop="20260111032500 +0000" channel="Dreamworks HD.mncvision">
+    <title>All Hail King Julien</title>
+</programme>
+<programme start="20260111032500 +0000" stop="20260111035000 +0000" channel="Dreamworks HD.mncvision">
+    <title>All Hail King Julien</title>
+</programme>
+<programme start="20260111035000 +0000" stop="20260111041500 +0000" channel="Dreamworks HD.mncvision">
+    <title>All Hail King Julien</title>
+</programme>
+<programme start="20260111041500 +0000" stop="20260111044000 +0000" channel="Dreamworks HD.mncvision">
+    <title>All Hail King Julien</title>
+</programme>
+<programme start="20260111044000 +0000" stop="20260111050500 +0000" channel="Dreamworks HD.mncvision">
+    <title>All Hail King Julien</title>
+</programme>
+<programme start="20260111050500 +0000" stop="20260111053000 +0000" channel="Dreamworks HD.mncvision">
+    <title>Spirit Riding Free: Pony Tales</title>
+</programme>
+<programme start="20260111053000 +0000" stop="20260111055500 +0000" channel="Dreamworks HD.mncvision">
+    <title>Spirit Riding Free: Pony Tales</title>
+</programme>
+<programme start="20260111055500 +0000" stop="20260111062000 +0000" channel="Dreamworks HD.mncvision">
+    <title>Dawn Of The Croods</title>
+</programme>
+<programme start="20260111062000 +0000" stop="20260111064500 +0000" channel="Dreamworks HD.mncvision">
+    <title>Dawn Of The Croods</title>
+</programme>
+<programme start="20260111064500 +0000" stop="20260111071000 +0000" channel="Dreamworks HD.mncvision">
+    <title>Home: Adv. With Tip And Oh!</title>
+</programme>
+<programme start="20260111071000 +0000" stop="20260111073500 +0000" channel="Dreamworks HD.mncvision">
+    <title>Home: Adv. With Tip And Oh!</title>
+</programme>
+<programme start="20260111073500 +0000" stop="20260111080000 +0000" channel="Dreamworks HD.mncvision">
+    <title>Home: Adv. With Tip And Oh!</title>
+</programme>
+<programme start="20260111080000 +0000" stop="20260111082500 +0000" channel="Dreamworks HD.mncvision">
+    <title>The Epic Tales Of Captain...</title>
+</programme>
+<programme start="20260111082500 +0000" stop="20260111085000 +0000" channel="Dreamworks HD.mncvision">
+    <title>The Epic Tales Of Captain...</title>
+</programme>
+<programme start="20260111085000 +0000" stop="20260111091500 +0000" channel="Dreamworks HD.mncvision">
+    <title>The Epic Tales Of Captain...</title>
+</programme>
+<programme start="20260111091500 +0000" stop="20260111094000 +0000" channel="Dreamworks HD.mncvision">
+    <title>Kung Fu Panda: Dragon Knight</title>
+</programme>
+<programme start="20260111094000 +0000" stop="20260111100500 +0000" channel="Dreamworks HD.mncvision">
+    <title>Kung Fu Panda: Dragon Knight</title>
+</programme>
+<programme start="20260111100500 +0000" stop="20260111103000 +0000" channel="Dreamworks HD.mncvision">
+    <title>Kung Fu Panda: Dragon Knight</title>
+</programme>
+<programme start="20260111103000 +0000" stop="20260111105500 +0000" channel="Dreamworks HD.mncvision">
+    <title>Boss Baby: Back In Business</title>
+</programme>
+<programme start="20260111105500 +0000" stop="20260111112000 +0000" channel="Dreamworks HD.mncvision">
+    <title>Boss Baby: Back In Business</title>
+</programme>
+<programme start="20260111112000 +0000" stop="20260111114500 +0000" channel="Dreamworks HD.mncvision">
+    <title>Boss Baby: Back In Business</title>
+</programme>
+<programme start="20260111114500 +0000" stop="20260111121000 +0000" channel="Dreamworks HD.mncvision">
+    <title>Spirit Riding Free: Pony Tales</title>
+</programme>
+<programme start="20260111121000 +0000" stop="20260111123500 +0000" channel="Dreamworks HD.mncvision">
+    <title>Spirit Riding Free: Academy</title>
+</programme>
+<programme start="20260111123500 +0000" stop="20260111130500 +0000" channel="Dreamworks HD.mncvision">
+    <title>Spirit Riding Free: Academy</title>
+</programme>
 <programme start="20260110170000 +0000" stop="20260110171500 +0000" channel="DW English.mncvision">
     <title>DW News</title>
 </programme>
@@ -3573,8 +4102,165 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260111160000 +0000" stop="20260111163000 +0000" channel="Hanacaraka TV.mncvision">
     <title>Wayang Kulit Special S2</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260110173500 +0000" stop="20260110183000 +0000" channel="History.mncvision">
+    <title>Hazardous History S1, Ep 7</title>
+</programme>
+<programme start="20260110183000 +0000" stop="20260110192500 +0000" channel="History.mncvision">
+    <title>The UnXplained S3, Ep 20</title>
+</programme>
+<programme start="20260110192500 +0000" stop="20260110202000 +0000" channel="History.mncvision">
+    <title>Ancient Aliens S15, Ep 226</title>
+</programme>
+<programme start="20260110202000 +0000" stop="20260110211500 +0000" channel="History.mncvision">
+    <title>Ancient Aliens S16, Ep 255</title>
+</programme>
+<programme start="20260110211500 +0000" stop="20260110221000 +0000" channel="History.mncvision">
+    <title>Greatest Escapes S2, Ep 13</title>
+</programme>
+<programme start="20260110221000 +0000" stop="20260110230500 +0000" channel="History.mncvision">
+    <title>The UnXplained S3, Ep 21</title>
+</programme>
+<programme start="20260110230500 +0000" stop="20260111000000 +0000" channel="History.mncvision">
+    <title>Ancient Aliens S15, Ep 226</title>
+</programme>
+<programme start="20260111000000 +0000" stop="20260111005500 +0000" channel="History.mncvision">
+    <title>Ancient Aliens S16, Ep 255</title>
+</programme>
+<programme start="20260111005500 +0000" stop="20260111015500 +0000" channel="History.mncvision">
+    <title>Curse Of Oak Island S11, Ep 20</title>
+</programme>
+<programme start="20260111015500 +0000" stop="20260111025000 +0000" channel="History.mncvision">
+    <title>Greatest Escapes S2, Ep 13</title>
+</programme>
+<programme start="20260111025000 +0000" stop="20260111034500 +0000" channel="History.mncvision">
+    <title>Hazardous History S1, Ep 7</title>
+</programme>
+<programme start="20260111034500 +0000" stop="20260111044000 +0000" channel="History.mncvision">
+    <title>The UnXplained S3, Ep 20</title>
+</programme>
+<programme start="20260111044000 +0000" stop="20260111053500 +0000" channel="History.mncvision">
+    <title>The UnXplained S3, Ep 21</title>
+</programme>
+<programme start="20260111053500 +0000" stop="20260111063000 +0000" channel="History.mncvision">
+    <title>Ancient Aliens S15, Ep 226</title>
+</programme>
+<programme start="20260111063000 +0000" stop="20260111072500 +0000" channel="History.mncvision">
+    <title>Greatest Escapes S2, Ep 13</title>
+</programme>
+<programme start="20260111072500 +0000" stop="20260111082000 +0000" channel="History.mncvision">
+    <title>The UnXplained S3, Ep 20</title>
+</programme>
+<programme start="20260111082000 +0000" stop="20260111092000 +0000" channel="History.mncvision">
+    <title>Ancient Aliens S16, Ep 255</title>
+</programme>
+<programme start="20260111092000 +0000" stop="20260111101500 +0000" channel="History.mncvision">
+    <title>Curse Of Oak Island S11, Ep 20</title>
+</programme>
+<programme start="20260111101500 +0000" stop="20260111111000 +0000" channel="History.mncvision">
+    <title>Food That Built World S5, Ep 12</title>
+</programme>
+<programme start="20260111111000 +0000" stop="20260111120500 +0000" channel="History.mncvision">
+    <title>The UnXplained S3, Ep 30</title>
+</programme>
+<programme start="20260111120500 +0000" stop="20260111130000 +0000" channel="History.mncvision">
+    <title>Mysteries Unearthed S1, Ep 6</title>
+</programme>
+<programme start="20260111130000 +0000" stop="20260111135500 +0000" channel="History.mncvision">
+    <title>The UnBelievable S2, Ep 13</title>
+</programme>
+<programme start="20260111135500 +0000" stop="20260111145000 +0000" channel="History.mncvision">
+    <title>The UnBelievable S2, Ep 14</title>
+</programme>
+<programme start="20260111145000 +0000" stop="20260111154500 +0000" channel="History.mncvision">
+    <title>Mega-Brands Built... S2, Ep 12</title>
+</programme>
+<programme start="20260111154500 +0000" stop="20260111164000 +0000" channel="History.mncvision">
+    <title>The Pickers S18, Ep 305</title>
+</programme>
+<programme start="20260111164000 +0000" stop="20260110171000 +0000" channel="History.mncvision">
+    <title>Mysteries Unearthed S1, Ep 6</title>
+</programme>
+<programme start="20260110170000 +0000" stop="20260110173000 +0000" channel="HITS.mncvision">
+    <title>The Nanny S1, Ep 21</title>
+</programme>
+<programme start="20260110173000 +0000" stop="20260110183000 +0000" channel="HITS.mncvision">
+    <title>Law &amp; Order: SVU S12, Ep 17</title>
+</programme>
+<programme start="20260110183000 +0000" stop="20260110193000 +0000" channel="HITS.mncvision">
+    <title>Law &amp; Order: SVU S12, Ep 18</title>
+</programme>
+<programme start="20260110193000 +0000" stop="20260110203000 +0000" channel="HITS.mncvision">
+    <title>Law &amp; Order: SVU S12, Ep 19</title>
+</programme>
+<programme start="20260110203000 +0000" stop="20260110213000 +0000" channel="HITS.mncvision">
+    <title>Roots: Next Generations, Ep 7</title>
+</programme>
+<programme start="20260110213000 +0000" stop="20260110223000 +0000" channel="HITS.mncvision">
+    <title>Roots: Next Generations, Ep 8</title>
+</programme>
+<programme start="20260110223000 +0000" stop="20260110233000 +0000" channel="HITS.mncvision">
+    <title>Roots: Next Generations, Ep 9</title>
+</programme>
+<programme start="20260110233000 +0000" stop="20260111003000 +0000" channel="HITS.mncvision">
+    <title>Mission: Impossible S4, Ep 13</title>
+</programme>
+<programme start="20260111003000 +0000" stop="20260111013000 +0000" channel="HITS.mncvision">
+    <title>Mission: Impossible S4, Ep 14</title>
+</programme>
+<programme start="20260111013000 +0000" stop="20260111030000 +0000" channel="HITS.mncvision">
+    <title>Sugarplummed</title>
+</programme>
+<programme start="20260111030000 +0000" stop="20260111043000 +0000" channel="HITS.mncvision">
+    <title>Where Are You, Christmas?</title>
+</programme>
+<programme start="20260111043000 +0000" stop="20260111060000 +0000" channel="HITS.mncvision">
+    <title>Debbie Macomber&#039;s Joyful...</title>
+</programme>
+<programme start="20260111060000 +0000" stop="20260111070000 +0000" channel="HITS.mncvision">
+    <title>CSI S5, Ep 14</title>
+</programme>
+<programme start="20260111070000 +0000" stop="20260111080000 +0000" channel="HITS.mncvision">
+    <title>CSI S5, Ep 15</title>
+</programme>
+<programme start="20260111080000 +0000" stop="20260111083000 +0000" channel="HITS.mncvision">
+    <title>Married With Children S5, Ep 16</title>
+</programme>
+<programme start="20260111083000 +0000" stop="20260111090000 +0000" channel="HITS.mncvision">
+    <title>Married With Children S5, Ep 17</title>
+</programme>
+<programme start="20260111090000 +0000" stop="20260111093000 +0000" channel="HITS.mncvision">
+    <title>Married With Children S5, Ep 18</title>
+</programme>
+<programme start="20260111093000 +0000" stop="20260111103000 +0000" channel="HITS.mncvision">
+    <title>Law &amp; Order: SVU S12, Ep 20</title>
+</programme>
+<programme start="20260111103000 +0000" stop="20260111113000 +0000" channel="HITS.mncvision">
+    <title>Law &amp; Order: SVU S12, Ep 21</title>
+</programme>
+<programme start="20260111113000 +0000" stop="20260111123000 +0000" channel="HITS.mncvision">
+    <title>Roots: Next Generations, Ep 7</title>
+</programme>
+<programme start="20260111123000 +0000" stop="20260111133000 +0000" channel="HITS.mncvision">
+    <title>Roots: Next Generations, Ep 8</title>
+</programme>
+<programme start="20260111133000 +0000" stop="20260111143000 +0000" channel="HITS.mncvision">
+    <title>Roots: Next Generations, Ep 9</title>
+</programme>
+<programme start="20260111143000 +0000" stop="20260111150000 +0000" channel="HITS.mncvision">
+    <title>Bewitched S5, Ep 22</title>
+</programme>
+<programme start="20260111150000 +0000" stop="20260111153000 +0000" channel="HITS.mncvision">
+    <title>Bewitched S5, Ep 23</title>
+</programme>
+<programme start="20260111153000 +0000" stop="20260111160000 +0000" channel="HITS.mncvision">
+    <title>Bewitched S5, Ep 24</title>
+</programme>
+<programme start="20260111160000 +0000" stop="20260111163000 +0000" channel="HITS.mncvision">
+    <title>Bewitched S5, Ep 25</title>
+</programme>
+<programme start="20260111163000 +0000" stop="20260110170000 +0000" channel="HITS.mncvision">
+    <title>Bewitched S5, Ep 26</title>
+</programme>
 <programme start="20260110173000 +0000" stop="20260110193000 +0000" channel="HITS MOVIES.mncvision">
     <title>Elektra</title>
 </programme>
@@ -3962,7 +4648,78 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260111123000 +0000" stop="20260111130000 +0000" channel="Indosiar HD.mncvision">
     <title>Konser Raya 31 Tahun Indosiar</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260110181500 +0000" stop="20260110190000 +0000" channel="iNews.mncvision">
+    <title>Realita</title>
+</programme>
+<programme start="20260110190000 +0000" stop="20260110200000 +0000" channel="iNews.mncvision">
+    <title>iNews Sore</title>
+</programme>
+<programme start="20260110200000 +0000" stop="20260110210000 +0000" channel="iNews.mncvision">
+    <title>Formula E 2026 (L)</title>
+</programme>
+<programme start="20260110210000 +0000" stop="20260110211500 +0000" channel="iNews.mncvision">
+    <title>Special Report</title>
+</programme>
+<programme start="20260110211500 +0000" stop="20260110230000 +0000" channel="iNews.mncvision">
+    <title>iNews Pagi (L)</title>
+</programme>
+<programme start="20260110230000 +0000" stop="20260110230200 +0000" channel="iNews.mncvision">
+    <title>Indonesia Raya</title>
+</programme>
+<programme start="20260110230200 +0000" stop="20260110233000 +0000" channel="iNews.mncvision">
+    <title>iNews Sport</title>
+</programme>
+<programme start="20260110233000 +0000" stop="20260111000000 +0000" channel="iNews.mncvision">
+    <title>Special Report</title>
+</programme>
+<programme start="20260111000000 +0000" stop="20260111001000 +0000" channel="iNews.mncvision">
+    <title>iNews Terkini</title>
+</programme>
+<programme start="20260111001000 +0000" stop="20260111003000 +0000" channel="iNews.mncvision">
+    <title>iBreak: The One Entrepreneur</title>
+</programme>
+<programme start="20260111003000 +0000" stop="20260111010000 +0000" channel="iNews.mncvision">
+    <title>Special Report</title>
+</programme>
+<programme start="20260111010000 +0000" stop="20260111020000 +0000" channel="iNews.mncvision">
+    <title>Realita</title>
+</programme>
+<programme start="20260111020000 +0000" stop="20260111030000 +0000" channel="iNews.mncvision">
+    <title>iNews Files</title>
+</programme>
+<programme start="20260111030000 +0000" stop="20260111050000 +0000" channel="iNews.mncvision">
+    <title>iNews Siang (L)</title>
+</programme>
+<programme start="20260111050000 +0000" stop="20260111063000 +0000" channel="iNews.mncvision">
+    <title>Cahaya Hati Indonesia</title>
+</programme>
+<programme start="20260111063000 +0000" stop="20260111070000 +0000" channel="iNews.mncvision">
+    <title>OMG</title>
+</programme>
+<programme start="20260111070000 +0000" stop="20260111083000 +0000" channel="iNews.mncvision">
+    <title>iSeleb</title>
+</programme>
+<programme start="20260111083000 +0000" stop="20260111100000 +0000" channel="iNews.mncvision">
+    <title>Realita (L)</title>
+</programme>
+<programme start="20260111100000 +0000" stop="20260111112700 +0000" channel="iNews.mncvision">
+    <title>iNews Sore (L)</title>
+</programme>
+<programme start="20260111112700 +0000" stop="20260111113000 +0000" channel="iNews.mncvision">
+    <title>iNews Terkini</title>
+</programme>
+<programme start="20260111113000 +0000" stop="20260111133000 +0000" channel="iNews.mncvision">
+    <title>AFC Asian Cup: CHN Vs AUS (L)</title>
+</programme>
+<programme start="20260111133000 +0000" stop="20260111143000 +0000" channel="iNews.mncvision">
+    <title>iNews Malam (L)</title>
+</programme>
+<programme start="20260111143000 +0000" stop="20260111150000 +0000" channel="iNews.mncvision">
+    <title>iNews Sport (L)</title>
+</programme>
+<programme start="20260111150000 +0000" stop="20260111153000 +0000" channel="iNews.mncvision">
+    <title>AFC Asian Cup &#039;23: KOR Vs IND</title>
+</programme>
 <programme start="20260110181500 +0000" stop="20260110190000 +0000" channel="iNews HD.mncvision">
     <title>Realita</title>
 </programme>

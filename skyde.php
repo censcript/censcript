@@ -2766,10 +2766,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>BL: Eintracht Frankfurt - Borussia Dortmund, Flutlicht-Freitag, 16. Spieltag</title>
 </programme>
 <programme start="20260111103000 +0000" stop="20260111123000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
-    <title>BL: FC St. Pauli - RB Leipzig, 16. Spieltag</title>
+    <title>BL: SC Freiburg - Hamburger SV, 16. Spieltag</title>
 </programme>
 <programme start="20260111103000 +0000" stop="20260111123000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
-    <title>BL: SC Freiburg - Hamburger SV, 16. Spieltag</title>
+    <title>BL: FC St. Pauli - RB Leipzig, 16. Spieltag</title>
 </programme>
 <programme start="20260111123000 +0000" stop="20260111143000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
     <title>BL: Bayer Leverkusen - VfB Stuttgart, tipico Topspiel der Woche, 16. Spieltag</title>
