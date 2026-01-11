@@ -646,6 +646,9 @@
 <programme start="20260111133000 +0000" stop="20260111160000 +0000" channel="ANTV.vision">
 <title>Serie A Liga Italia</title>
 </programme>
+<programme start="20260111180000 +0000" stop="20260111200000 +0000" channel="ANTV.vision">
+<title>Story Of Ricky</title>
+</programme>
 <programme start="20260111200000 +0000" stop="20260111223000 +0000" channel="ANTV.vision">
 <title>ANTV</title>
 </programme>
@@ -1493,8 +1496,5 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260112070000 +0000" stop="20260112090000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260112090000 +0000" stop="20260112110000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
