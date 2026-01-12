@@ -1,7 +1,3 @@
-<programme start="20260112170000 +0700" stop="20260112171500 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Sports Highlights</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260112171500 +0700" stop="20260112191500 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Qarabag FK - AFC Ajax</title>
     <desc>Live: Tidak</desc>
@@ -62,6 +58,10 @@
     <title>Football: Borussia Dortmund - FK Bodo/Glimt</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260113185000 +0700" stop="20260113205000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: FSV Mainz 05 - Samsunspor</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260112161000 +0700" stop="20260112181000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Lecce - Parma</title>
     <desc>Live: Tidak</desc>
@@ -120,6 +120,10 @@
 </programme>
 <programme start="20260113161000 +0700" stop="20260113181000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Genoa - Cagliari</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260113181000 +0700" stop="20260113202000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: OFI - Asteras Aktor</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260112163000 +0700" stop="20260112183000 +0700" channel="COSMOTE Sport 3 HD">
@@ -194,10 +198,6 @@
     <title>Football: Al Hilal - Al Nassr</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260112150000 +0700" stop="20260112173000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Orlando Magic - New Orleans Pelicans</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260112173000 +0700" stop="20260112195500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Denver Nuggets - Milwaukee Bucks</title>
     <desc>Live: Tidak</desc>
@@ -244,14 +244,6 @@
 </programme>
 <programme start="20260113170000 +0700" stop="20260113193000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Sacramento Kings - Los Angeles Lakers</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260112154500 +0700" stop="20260112170500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260112170500 +0700" stop="20260112174500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260112174500 +0700" stop="20260112183500 +0700" channel="COSMOTE Sport 5 HD">
@@ -358,8 +350,12 @@
     <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260113185500 +0700" stop="20260113192500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260112163000 +0700" stop="20260112190000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: ATP 250 2026 (L)</title>
+    <title>Tennis: Thanasis Kokkinakis - Sebastian Korda (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20260112190000 +0700" stop="20260112193000 +0700" channel="COSMOTE Sport 6 HD">
@@ -395,7 +391,7 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260113020000 +0700" stop="20260113043000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: ATP 250 2026</title>
+    <title>Tennis: Thanasis Kokkinakis - Sebastian Korda</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260113043000 +0700" stop="20260113053000 +0700" channel="COSMOTE Sport 6 HD">
@@ -440,6 +436,10 @@
 </programme>
 <programme start="20260113173000 +0700" stop="20260113180000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Watersports: Inside Sailing E12</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260113180000 +0700" stop="20260113190000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>ATP 2025 - Review</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260112170000 +0700" stop="20260112190000 +0700" channel="COSMOTE Sport 7 HD">
