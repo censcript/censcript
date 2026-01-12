@@ -921,51 +921,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260112224000 +0000" stop="20260112233000 +0000" channel="Crime + Investigation.skyde">
     <title>Wie ich ermordet wurde</title>
 </programme>
-<programme start="20260111230000 +0000" stop="20260112070000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Sendepause</title>
-</programme>
-<programme start="20260112070000 +0000" stop="20260112073000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Das Herz des deutschen Fußballs: Episode 1</title>
-</programme>
-<programme start="20260112073000 +0000" stop="20260112080000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Das Herz des deutschen Fußballs: Episode 2</title>
-</programme>
-<programme start="20260112080000 +0000" stop="20260112083000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Kabayel - Knyba: Agit Kabayel: Unser Champion : The Rise - Part 2</title>
-</programme>
-<programme start="20260112083000 +0000" stop="20260112103000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Serie A 25/26: Inter Mailand - SSC Neapel</title>
-</programme>
-<programme start="20260112103000 +0000" stop="20260112123000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Bundesliga: FC Bayern München - VFL Wolfsburg</title>
-</programme>
-<programme start="20260112123000 +0000" stop="20260112130000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
-</programme>
-<programme start="20260112130000 +0000" stop="20260112133500 +0000" channel="DAZN 1 HD.skyde">
-    <title>Das Herz des deutschen Fußballs: Episode 1</title>
-</programme>
-<programme start="20260112133500 +0000" stop="20260112140000 +0000" channel="DAZN 1 HD.skyde">
-    <title>&quot;Mehr als 90 Minuten&quot; 2025/26: Staffel 2 - Folge 1</title>
-</programme>
-<programme start="20260112140000 +0000" stop="20260112160000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Bundesliga: SC Freiburg - Hamburger SV</title>
-</programme>
-<programme start="20260112160000 +0000" stop="20260112171500 +0000" channel="DAZN 1 HD.skyde">
-    <title>ALL IN - Die Bundesliga Highlight Show: 16. Spieltag</title>
-</programme>
-<programme start="20260112171500 +0000" stop="20260112193500 +0000" channel="DAZN 1 HD.skyde">
-    <title>Saudi Pro League 25/26: Al Hilal - Al Nassr</title>
-</programme>
-<programme start="20260112193500 +0000" stop="20260112220000 +0000" channel="DAZN 1 HD.skyde">
-    <title>FA Cup 25/26: FC Liverpool - FC Barnsley</title>
-</programme>
-<programme start="20260112220000 +0000" stop="20260112223500 +0000" channel="DAZN 1 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
-</programme>
-<programme start="20260112223500 +0000" stop="20260112230000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Decoded 2023/24: NFL: Berlin Game : Atlanta Falcons - Indianapolis Colts</title>
-</programme>
 <programme start="20260112000000 +0000" stop="20260112070000 +0000" channel="DAZN 2 HD.skyde">
     <title>Sendepause</title>
 </programme>
@@ -2737,10 +2692,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>BL: Glanzparade - Die Show mit Buschmann, Fuss und Wagner</title>
 </programme>
 <programme start="20260112003000 +0000" stop="20260112023000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
-    <title>BL: SC Freiburg - Hamburger SV, 16. Spieltag</title>
+    <title>BL: FC St. Pauli - RB Leipzig, 16. Spieltag</title>
 </programme>
 <programme start="20260112003000 +0000" stop="20260112023000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
-    <title>BL: FC St. Pauli - RB Leipzig, 16. Spieltag</title>
+    <title>BL: SC Freiburg - Hamburger SV, 16. Spieltag</title>
 </programme>
 <programme start="20260112023000 +0000" stop="20260112043000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
     <title>BL: Bayer Leverkusen - VfB Stuttgart, tipico Topspiel der Woche, 16. Spieltag</title>
