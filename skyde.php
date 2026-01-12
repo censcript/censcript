@@ -2737,10 +2737,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>BL: Glanzparade - Die Show mit Buschmann, Fuss und Wagner</title>
 </programme>
 <programme start="20260112003000 +0000" stop="20260112023000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
-    <title>BL: FC St. Pauli - RB Leipzig, 16. Spieltag</title>
+    <title>BL: SC Freiburg - Hamburger SV, 16. Spieltag</title>
 </programme>
 <programme start="20260112003000 +0000" stop="20260112023000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
-    <title>BL: SC Freiburg - Hamburger SV, 16. Spieltag</title>
+    <title>BL: FC St. Pauli - RB Leipzig, 16. Spieltag</title>
 </programme>
 <programme start="20260112023000 +0000" stop="20260112043000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
     <title>BL: Bayer Leverkusen - VfB Stuttgart, tipico Topspiel der Woche, 16. Spieltag</title>
