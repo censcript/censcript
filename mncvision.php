@@ -1390,7 +1390,39 @@
 <programme start="20260112160000 +0000" stop="20260112163000 +0000" channel="beIN Sports 3 HD.mncvision">
     <title>Premier Padel 2025: Dubai</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260111173000 +0000" stop="20260111200000 +0000" channel="beIN SPORTS 4.mncvision">
+    <title>beIN Sports 4</title>
+</programme>
+<programme start="20260111200000 +0000" stop="20260111220000 +0000" channel="beIN SPORTS 4.mncvision">
+    <title>beIN Sports 4</title>
+</programme>
+<programme start="20260111220000 +0000" stop="20260112010000 +0000" channel="beIN SPORTS 4.mncvision">
+    <title>beIN Sports 4</title>
+</programme>
+<programme start="20260112010000 +0000" stop="20260112030000 +0000" channel="beIN SPORTS 4.mncvision">
+    <title>beIN Sports 4</title>
+</programme>
+<programme start="20260112030000 +0000" stop="20260112050000 +0000" channel="beIN SPORTS 4.mncvision">
+    <title>beIN Sports 4</title>
+</programme>
+<programme start="20260112050000 +0000" stop="20260112070000 +0000" channel="beIN SPORTS 4.mncvision">
+    <title>beIN Sports 4</title>
+</programme>
+<programme start="20260112070000 +0000" stop="20260112090000 +0000" channel="beIN SPORTS 4.mncvision">
+    <title>beIN Sports 4</title>
+</programme>
+<programme start="20260112090000 +0000" stop="20260112110000 +0000" channel="beIN SPORTS 4.mncvision">
+    <title>beIN Sports 4</title>
+</programme>
+<programme start="20260112110000 +0000" stop="20260112130000 +0000" channel="beIN SPORTS 4.mncvision">
+    <title>beIN Sports 4</title>
+</programme>
+<programme start="20260112130000 +0000" stop="20260112151500 +0000" channel="beIN SPORTS 4.mncvision">
+    <title>beIN Sports 4</title>
+</programme>
+<programme start="20260112151500 +0000" stop="20260112154500 +0000" channel="beIN SPORTS 4.mncvision">
+    <title>beIN Sports 4</title>
+</programme>
 <programme start="20260111173000 +0000" stop="20260111200000 +0000" channel="beIN SPORTS 5.mncvision">
     <title>beIN Sports 5</title>
 </programme>
@@ -2417,7 +2449,90 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260112160000 +0000" stop="20260112163000 +0000" channel="CNBC.mncvision">
     <title>Money Movers</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260111172000 +0000" stop="20260111181500 +0000" channel="Crime Investigation.mncvision">
+    <title>Tell Me How I Died, Ep 1</title>
+</programme>
+<programme start="20260111181500 +0000" stop="20260111191000 +0000" channel="Crime Investigation.mncvision">
+    <title>Evil Up Close S6, Ep 3</title>
+</programme>
+<programme start="20260111191000 +0000" stop="20260111200500 +0000" channel="Crime Investigation.mncvision">
+    <title>City Confidential S8, Ep 15</title>
+</programme>
+<programme start="20260111200500 +0000" stop="20260111210000 +0000" channel="Crime Investigation.mncvision">
+    <title>Beyond The Headlines, Ep 6</title>
+</programme>
+<programme start="20260111210000 +0000" stop="20260111220000 +0000" channel="Crime Investigation.mncvision">
+    <title>Women On Death Row, Ep 6</title>
+</programme>
+<programme start="20260111220000 +0000" stop="20260111225000 +0000" channel="Crime Investigation.mncvision">
+    <title>Accused: Did I Do It?, Ep 1</title>
+</programme>
+<programme start="20260111225000 +0000" stop="20260111234500 +0000" channel="Crime Investigation.mncvision">
+    <title>Lie Detector: Truth Or..., Ep 2</title>
+</programme>
+<programme start="20260111234500 +0000" stop="20260112004000 +0000" channel="Crime Investigation.mncvision">
+    <title>Homicide Squad New... S1, Ep 7</title>
+</programme>
+<programme start="20260112004000 +0000" stop="20260112013500 +0000" channel="Crime Investigation.mncvision">
+    <title>City Confidential S8, Ep 15</title>
+</programme>
+<programme start="20260112013500 +0000" stop="20260112023000 +0000" channel="Crime Investigation.mncvision">
+    <title>Beyond The Headlines, Ep 6</title>
+</programme>
+<programme start="20260112023000 +0000" stop="20260112032500 +0000" channel="Crime Investigation.mncvision">
+    <title>Women On Death Row, Ep 6</title>
+</programme>
+<programme start="20260112032500 +0000" stop="20260112042000 +0000" channel="Crime Investigation.mncvision">
+    <title>Accused: Guilty Or... S6, Ep 4</title>
+</programme>
+<programme start="20260112042000 +0000" stop="20260112051500 +0000" channel="Crime Investigation.mncvision">
+    <title>Tell Me How I Died, Ep 1</title>
+</programme>
+<programme start="20260112051500 +0000" stop="20260112061000 +0000" channel="Crime Investigation.mncvision">
+    <title>Evil Up Close S6, Ep 3</title>
+</programme>
+<programme start="20260112061000 +0000" stop="20260112070500 +0000" channel="Crime Investigation.mncvision">
+    <title>Accused: Did I Do It?, Ep 1</title>
+</programme>
+<programme start="20260112070500 +0000" stop="20260112080000 +0000" channel="Crime Investigation.mncvision">
+    <title>Lie Detector: Truth Or..., Ep 2</title>
+</programme>
+<programme start="20260112080000 +0000" stop="20260112085500 +0000" channel="Crime Investigation.mncvision">
+    <title>Homicide Squad New... S1, Ep 7</title>
+</programme>
+<programme start="20260112085500 +0000" stop="20260112094500 +0000" channel="Crime Investigation.mncvision">
+    <title>Cold Case Files S3, Ep 31</title>
+</programme>
+<programme start="20260112094500 +0000" stop="20260112103500 +0000" channel="Crime Investigation.mncvision">
+    <title>The First 48 S25, Ep 499</title>
+</programme>
+<programme start="20260112103500 +0000" stop="20260112112500 +0000" channel="Crime Investigation.mncvision">
+    <title>Murder At The Motel, Ep 7</title>
+</programme>
+<programme start="20260112112500 +0000" stop="20260112121500 +0000" channel="Crime Investigation.mncvision">
+    <title>Meet, Marry, Murder S1, Ep 1</title>
+</programme>
+<programme start="20260112121500 +0000" stop="20260112130500 +0000" channel="Crime Investigation.mncvision">
+    <title>Murder In The 21st, Ep 6</title>
+</programme>
+<programme start="20260112130500 +0000" stop="20260112140000 +0000" channel="Crime Investigation.mncvision">
+    <title>Jean Perera: The Beauty Queen</title>
+</programme>
+<programme start="20260112140000 +0000" stop="20260112142500 +0000" channel="Crime Investigation.mncvision">
+    <title>Taking The Stand S1, Ep 4</title>
+</programme>
+<programme start="20260112142500 +0000" stop="20260112145000 +0000" channel="Crime Investigation.mncvision">
+    <title>Taking The Stand S1, Ep 7</title>
+</programme>
+<programme start="20260112145000 +0000" stop="20260112154000 +0000" channel="Crime Investigation.mncvision">
+    <title>#TextMeWhenYouGet... S2, Ep 4</title>
+</programme>
+<programme start="20260112154000 +0000" stop="20260112163000 +0000" channel="Crime Investigation.mncvision">
+    <title>Taking The Stand S3, Ep 3</title>
+</programme>
+<programme start="20260112163000 +0000" stop="20260111170000 +0000" channel="Crime Investigation.mncvision">
+    <title>Jean Perera: The Beauty Queen</title>
+</programme>
 <programme start="20260111171000 +0000" stop="20260111173500 +0000" channel="Dreamworks.mncvision">
     <title>Trollhunters: Tales Of Arcadia</title>
 </programme>
@@ -2568,7 +2683,156 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260112123500 +0000" stop="20260112130500 +0000" channel="Dreamworks.mncvision">
     <title>Spirit Riding Free: Academy</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260111171000 +0000" stop="20260111173500 +0000" channel="Dreamworks HD.mncvision">
+    <title>Trollhunters: Tales Of Arcadia</title>
+</programme>
+<programme start="20260111173500 +0000" stop="20260111180000 +0000" channel="Dreamworks HD.mncvision">
+    <title>Trollhunters: Tales Of Arcadia</title>
+</programme>
+<programme start="20260111180000 +0000" stop="20260111182500 +0000" channel="Dreamworks HD.mncvision">
+    <title>The Croods: Family Tree</title>
+</programme>
+<programme start="20260111182500 +0000" stop="20260111185000 +0000" channel="Dreamworks HD.mncvision">
+    <title>Dragons: Riders Of Berk</title>
+</programme>
+<programme start="20260111185000 +0000" stop="20260111191500 +0000" channel="Dreamworks HD.mncvision">
+    <title>Voltron: Legendary Defender</title>
+</programme>
+<programme start="20260111191500 +0000" stop="20260111194000 +0000" channel="Dreamworks HD.mncvision">
+    <title>Harvey Girls Forever!</title>
+</programme>
+<programme start="20260111194000 +0000" stop="20260111200500 +0000" channel="Dreamworks HD.mncvision">
+    <title>Dinotrux Supercharged</title>
+</programme>
+<programme start="20260111200500 +0000" stop="20260111203000 +0000" channel="Dreamworks HD.mncvision">
+    <title>The Adv. Of Rocky &amp; Bullwinkle</title>
+</programme>
+<programme start="20260111203000 +0000" stop="20260111204500 +0000" channel="Dreamworks HD.mncvision">
+    <title>Guess With Jess</title>
+</programme>
+<programme start="20260111204500 +0000" stop="20260111210000 +0000" channel="Dreamworks HD.mncvision">
+    <title>Guess With Jess</title>
+</programme>
+<programme start="20260111210000 +0000" stop="20260111211500 +0000" channel="Dreamworks HD.mncvision">
+    <title>Guess With Jess</title>
+</programme>
+<programme start="20260111211500 +0000" stop="20260111213000 +0000" channel="Dreamworks HD.mncvision">
+    <title>Guess With Jess</title>
+</programme>
+<programme start="20260111213000 +0000" stop="20260111214500 +0000" channel="Dreamworks HD.mncvision">
+    <title>Guess With Jess</title>
+</programme>
+<programme start="20260111214500 +0000" stop="20260111220000 +0000" channel="Dreamworks HD.mncvision">
+    <title>Guess With Jess</title>
+</programme>
+<programme start="20260111220000 +0000" stop="20260111222500 +0000" channel="Dreamworks HD.mncvision">
+    <title>Casper&#039;s Scare School</title>
+</programme>
+<programme start="20260111222500 +0000" stop="20260111225000 +0000" channel="Dreamworks HD.mncvision">
+    <title>Casper&#039;s Scare School</title>
+</programme>
+<programme start="20260111225000 +0000" stop="20260111231500 +0000" channel="Dreamworks HD.mncvision">
+    <title>Dragons: Rescue Riders</title>
+</programme>
+<programme start="20260111231500 +0000" stop="20260111234000 +0000" channel="Dreamworks HD.mncvision">
+    <title>Dragons: Rescue Riders</title>
+</programme>
+<programme start="20260111234000 +0000" stop="20260112000500 +0000" channel="Dreamworks HD.mncvision">
+    <title>Home: Adv. With Tip And Oh!</title>
+</programme>
+<programme start="20260112000500 +0000" stop="20260112003000 +0000" channel="Dreamworks HD.mncvision">
+    <title>Home: Adv. With Tip And Oh!</title>
+</programme>
+<programme start="20260112003000 +0000" stop="20260112005500 +0000" channel="Dreamworks HD.mncvision">
+    <title>Harvey Girls Forever!</title>
+</programme>
+<programme start="20260112005500 +0000" stop="20260112012000 +0000" channel="Dreamworks HD.mncvision">
+    <title>Harvey Girls Forever!</title>
+</programme>
+<programme start="20260112012000 +0000" stop="20260112014500 +0000" channel="Dreamworks HD.mncvision">
+    <title>Not Quite Narwhal</title>
+</programme>
+<programme start="20260112014500 +0000" stop="20260112021000 +0000" channel="Dreamworks HD.mncvision">
+    <title>Not Quite Narwhal</title>
+</programme>
+<programme start="20260112021000 +0000" stop="20260112023500 +0000" channel="Dreamworks HD.mncvision">
+    <title>Go, Dog. Go!</title>
+</programme>
+<programme start="20260112023500 +0000" stop="20260112030000 +0000" channel="Dreamworks HD.mncvision">
+    <title>Go, Dog. Go!</title>
+</programme>
+<programme start="20260112030000 +0000" stop="20260112032500 +0000" channel="Dreamworks HD.mncvision">
+    <title>Team Zenko Go</title>
+</programme>
+<programme start="20260112032500 +0000" stop="20260112035000 +0000" channel="Dreamworks HD.mncvision">
+    <title>Team Zenko Go</title>
+</programme>
+<programme start="20260112035000 +0000" stop="20260112041500 +0000" channel="Dreamworks HD.mncvision">
+    <title>Dew Drops Diaries</title>
+</programme>
+<programme start="20260112041500 +0000" stop="20260112044000 +0000" channel="Dreamworks HD.mncvision">
+    <title>Dew Drops Diaries</title>
+</programme>
+<programme start="20260112044000 +0000" stop="20260112050500 +0000" channel="Dreamworks HD.mncvision">
+    <title>Dawn Of The Croods</title>
+</programme>
+<programme start="20260112050500 +0000" stop="20260112053000 +0000" channel="Dreamworks HD.mncvision">
+    <title>Dawn Of The Croods</title>
+</programme>
+<programme start="20260112053000 +0000" stop="20260112055500 +0000" channel="Dreamworks HD.mncvision">
+    <title>Boss Baby: Back In Business</title>
+</programme>
+<programme start="20260112055500 +0000" stop="20260112062000 +0000" channel="Dreamworks HD.mncvision">
+    <title>Boss Baby: Back In Business</title>
+</programme>
+<programme start="20260112062000 +0000" stop="20260112064500 +0000" channel="Dreamworks HD.mncvision">
+    <title>Dragons: Race To The Edge</title>
+</programme>
+<programme start="20260112064500 +0000" stop="20260112071000 +0000" channel="Dreamworks HD.mncvision">
+    <title>Dragons: Race To The Edge</title>
+</programme>
+<programme start="20260112071000 +0000" stop="20260112073500 +0000" channel="Dreamworks HD.mncvision">
+    <title>Gabby&#039;s Dollhouse</title>
+</programme>
+<programme start="20260112073500 +0000" stop="20260112080000 +0000" channel="Dreamworks HD.mncvision">
+    <title>Gabby&#039;s Dollhouse</title>
+</programme>
+<programme start="20260112080000 +0000" stop="20260112082500 +0000" channel="Dreamworks HD.mncvision">
+    <title>The Epic Tales Of Captain...</title>
+</programme>
+<programme start="20260112082500 +0000" stop="20260112085000 +0000" channel="Dreamworks HD.mncvision">
+    <title>The Epic Tales Of Captain...</title>
+</programme>
+<programme start="20260112085000 +0000" stop="20260112091500 +0000" channel="Dreamworks HD.mncvision">
+    <title>The Epic Tales Of Captain...</title>
+</programme>
+<programme start="20260112091500 +0000" stop="20260112094000 +0000" channel="Dreamworks HD.mncvision">
+    <title>Kung Fu Panda: Dragon Knight</title>
+</programme>
+<programme start="20260112094000 +0000" stop="20260112100500 +0000" channel="Dreamworks HD.mncvision">
+    <title>Kung Fu Panda: Dragon Knight</title>
+</programme>
+<programme start="20260112100500 +0000" stop="20260112103000 +0000" channel="Dreamworks HD.mncvision">
+    <title>Kung Fu Panda: Dragon Knight</title>
+</programme>
+<programme start="20260112103000 +0000" stop="20260112105500 +0000" channel="Dreamworks HD.mncvision">
+    <title>Boss Baby: Back In Business</title>
+</programme>
+<programme start="20260112105500 +0000" stop="20260112112000 +0000" channel="Dreamworks HD.mncvision">
+    <title>Boss Baby: Back In Business</title>
+</programme>
+<programme start="20260112112000 +0000" stop="20260112114500 +0000" channel="Dreamworks HD.mncvision">
+    <title>Boss Baby: Back In Business</title>
+</programme>
+<programme start="20260112114500 +0000" stop="20260112121000 +0000" channel="Dreamworks HD.mncvision">
+    <title>Spirit Riding Free: Academy</title>
+</programme>
+<programme start="20260112121000 +0000" stop="20260112123500 +0000" channel="Dreamworks HD.mncvision">
+    <title>Spirit Riding Free: Academy</title>
+</programme>
+<programme start="20260112123500 +0000" stop="20260112130500 +0000" channel="Dreamworks HD.mncvision">
+    <title>Spirit Riding Free: Academy</title>
+</programme>
 <programme start="20260111170000 +0000" stop="20260111171500 +0000" channel="DW English.mncvision">
     <title>DW News</title>
 </programme>
@@ -5209,8 +5473,186 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260112163500 +0000" stop="20260111170500 +0000" channel="Lifetime.mncvision">
     <title>Oceanfront Property Hunt, Ep 8</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260111172500 +0000" stop="20260111182000 +0000" channel="Love Nature.mncvision">
+    <title>The Enchanted Waters S1, Ep 5</title>
+</programme>
+<programme start="20260111182000 +0000" stop="20260111191500 +0000" channel="Love Nature.mncvision">
+    <title>The Enchanted Waters S1, Ep 6</title>
+</programme>
+<programme start="20260111191500 +0000" stop="20260111201000 +0000" channel="Love Nature.mncvision">
+    <title>Wild Pacific Rescue S1, Ep 1</title>
+</programme>
+<programme start="20260111201000 +0000" stop="20260111210500 +0000" channel="Love Nature.mncvision">
+    <title>Wild Pacific Rescue S1, Ep 2</title>
+</programme>
+<programme start="20260111210500 +0000" stop="20260111220000 +0000" channel="Love Nature.mncvision">
+    <title>Wild Pacific Rescue S1, Ep 3</title>
+</programme>
+<programme start="20260111220000 +0000" stop="20260111222500 +0000" channel="Love Nature.mncvision">
+    <title>Battle Of The Alphas S1, Ep 8</title>
+</programme>
+<programme start="20260111222500 +0000" stop="20260111225000 +0000" channel="Love Nature.mncvision">
+    <title>Aussie Snake Wranglers S1, Ep 5</title>
+</programme>
+<programme start="20260111225000 +0000" stop="20260111232000 +0000" channel="Love Nature.mncvision">
+    <title>Aussie Snake Wranglers S1, Ep 6</title>
+</programme>
+<programme start="20260111232000 +0000" stop="20260112001500 +0000" channel="Love Nature.mncvision">
+    <title>After The Wildfires</title>
+</programme>
+<programme start="20260112001500 +0000" stop="20260112011000 +0000" channel="Love Nature.mncvision">
+    <title>Chasing The Rains S1, Ep 3</title>
+</programme>
+<programme start="20260112011000 +0000" stop="20260112020500 +0000" channel="Love Nature.mncvision">
+    <title>Gladiators S1, Ep 3</title>
+</programme>
+<programme start="20260112020500 +0000" stop="20260112030000 +0000" channel="Love Nature.mncvision">
+    <title>Gladiators S1, Ep 4</title>
+</programme>
+<programme start="20260112030000 +0000" stop="20260112035000 +0000" channel="Love Nature.mncvision">
+    <title>My Best Friend&#039;s An... S1, Ep 2</title>
+</programme>
+<programme start="20260112035000 +0000" stop="20260112044000 +0000" channel="Love Nature.mncvision">
+    <title>Land Of Primates S1, Ep 8</title>
+</programme>
+<programme start="20260112044000 +0000" stop="20260112051000 +0000" channel="Love Nature.mncvision">
+    <title>Aussie Snake Wranglers S1, Ep 5</title>
+</programme>
+<programme start="20260112051000 +0000" stop="20260112053500 +0000" channel="Love Nature.mncvision">
+    <title>Aussie Snake Wranglers S1, Ep 6</title>
+</programme>
+<programme start="20260112053500 +0000" stop="20260112063000 +0000" channel="Love Nature.mncvision">
+    <title>After The Wildfires</title>
+</programme>
+<programme start="20260112063000 +0000" stop="20260112072500 +0000" channel="Love Nature.mncvision">
+    <title>The Enchanted Waters S1, Ep 5</title>
+</programme>
+<programme start="20260112072500 +0000" stop="20260112082000 +0000" channel="Love Nature.mncvision">
+    <title>Gladiators S1, Ep 3</title>
+</programme>
+<programme start="20260112082000 +0000" stop="20260112091500 +0000" channel="Love Nature.mncvision">
+    <title>Gladiators S1, Ep 4</title>
+</programme>
+<programme start="20260112091500 +0000" stop="20260112101000 +0000" channel="Love Nature.mncvision">
+    <title>My Best Friend&#039;s An... S1, Ep 2</title>
+</programme>
+<programme start="20260112101000 +0000" stop="20260112110500 +0000" channel="Love Nature.mncvision">
+    <title>Land Of Primates S1, Ep 8</title>
+</programme>
+<programme start="20260112110500 +0000" stop="20260112113000 +0000" channel="Love Nature.mncvision">
+    <title>Aussie Snake Wranglers S1, Ep 5</title>
+</programme>
+<programme start="20260112113000 +0000" stop="20260112120000 +0000" channel="Love Nature.mncvision">
+    <title>Aussie Snake Wranglers S1, Ep 6</title>
+</programme>
+<programme start="20260112120000 +0000" stop="20260112125500 +0000" channel="Love Nature.mncvision">
+    <title>After The Wildfires</title>
+</programme>
+<programme start="20260112125500 +0000" stop="20260112135000 +0000" channel="Love Nature.mncvision">
+    <title>Chasing The Rains S1, Ep 3</title>
+</programme>
+<programme start="20260112135000 +0000" stop="20260112144500 +0000" channel="Love Nature.mncvision">
+    <title>Gladiators S1, Ep 3</title>
+</programme>
+<programme start="20260112144500 +0000" stop="20260112154000 +0000" channel="Love Nature.mncvision">
+    <title>Gladiators S1, Ep 4</title>
+</programme>
+<programme start="20260112154000 +0000" stop="20260112163500 +0000" channel="Love Nature.mncvision">
+    <title>My Best Friend&#039;s An... S1, Ep 2</title>
+</programme>
+<programme start="20260112163500 +0000" stop="20260111170500 +0000" channel="Love Nature.mncvision">
+    <title>Land Of Primates S1, Ep 8</title>
+</programme>
+<programme start="20260111172500 +0000" stop="20260111182000 +0000" channel="Love Nature HD.mncvision">
+    <title>The Enchanted Waters S1, Ep 5</title>
+</programme>
+<programme start="20260111182000 +0000" stop="20260111191500 +0000" channel="Love Nature HD.mncvision">
+    <title>The Enchanted Waters S1, Ep 6</title>
+</programme>
+<programme start="20260111191500 +0000" stop="20260111201000 +0000" channel="Love Nature HD.mncvision">
+    <title>Wild Pacific Rescue S1, Ep 1</title>
+</programme>
+<programme start="20260111201000 +0000" stop="20260111210500 +0000" channel="Love Nature HD.mncvision">
+    <title>Wild Pacific Rescue S1, Ep 2</title>
+</programme>
+<programme start="20260111210500 +0000" stop="20260111220000 +0000" channel="Love Nature HD.mncvision">
+    <title>Wild Pacific Rescue S1, Ep 3</title>
+</programme>
+<programme start="20260111220000 +0000" stop="20260111222500 +0000" channel="Love Nature HD.mncvision">
+    <title>Battle Of The Alphas S1, Ep 8</title>
+</programme>
+<programme start="20260111222500 +0000" stop="20260111225000 +0000" channel="Love Nature HD.mncvision">
+    <title>Aussie Snake Wranglers S1, Ep 5</title>
+</programme>
+<programme start="20260111225000 +0000" stop="20260111232000 +0000" channel="Love Nature HD.mncvision">
+    <title>Aussie Snake Wranglers S1, Ep 6</title>
+</programme>
+<programme start="20260111232000 +0000" stop="20260112001500 +0000" channel="Love Nature HD.mncvision">
+    <title>After The Wildfires</title>
+</programme>
+<programme start="20260112001500 +0000" stop="20260112011000 +0000" channel="Love Nature HD.mncvision">
+    <title>Chasing The Rains S1, Ep 3</title>
+</programme>
+<programme start="20260112011000 +0000" stop="20260112020500 +0000" channel="Love Nature HD.mncvision">
+    <title>Gladiators S1, Ep 3</title>
+</programme>
+<programme start="20260112020500 +0000" stop="20260112030000 +0000" channel="Love Nature HD.mncvision">
+    <title>Gladiators S1, Ep 4</title>
+</programme>
+<programme start="20260112030000 +0000" stop="20260112035000 +0000" channel="Love Nature HD.mncvision">
+    <title>My Best Friend&#039;s An... S1, Ep 2</title>
+</programme>
+<programme start="20260112035000 +0000" stop="20260112044000 +0000" channel="Love Nature HD.mncvision">
+    <title>Land Of Primates S1, Ep 8</title>
+</programme>
+<programme start="20260112044000 +0000" stop="20260112051000 +0000" channel="Love Nature HD.mncvision">
+    <title>Aussie Snake Wranglers S1, Ep 5</title>
+</programme>
+<programme start="20260112051000 +0000" stop="20260112053500 +0000" channel="Love Nature HD.mncvision">
+    <title>Aussie Snake Wranglers S1, Ep 6</title>
+</programme>
+<programme start="20260112053500 +0000" stop="20260112063000 +0000" channel="Love Nature HD.mncvision">
+    <title>After The Wildfires</title>
+</programme>
+<programme start="20260112063000 +0000" stop="20260112072500 +0000" channel="Love Nature HD.mncvision">
+    <title>The Enchanted Waters S1, Ep 5</title>
+</programme>
+<programme start="20260112072500 +0000" stop="20260112082000 +0000" channel="Love Nature HD.mncvision">
+    <title>Gladiators S1, Ep 3</title>
+</programme>
+<programme start="20260112082000 +0000" stop="20260112091500 +0000" channel="Love Nature HD.mncvision">
+    <title>Gladiators S1, Ep 4</title>
+</programme>
+<programme start="20260112091500 +0000" stop="20260112101000 +0000" channel="Love Nature HD.mncvision">
+    <title>My Best Friend&#039;s An... S1, Ep 2</title>
+</programme>
+<programme start="20260112101000 +0000" stop="20260112110500 +0000" channel="Love Nature HD.mncvision">
+    <title>Land Of Primates S1, Ep 8</title>
+</programme>
+<programme start="20260112110500 +0000" stop="20260112113000 +0000" channel="Love Nature HD.mncvision">
+    <title>Aussie Snake Wranglers S1, Ep 5</title>
+</programme>
+<programme start="20260112113000 +0000" stop="20260112120000 +0000" channel="Love Nature HD.mncvision">
+    <title>Aussie Snake Wranglers S1, Ep 6</title>
+</programme>
+<programme start="20260112120000 +0000" stop="20260112125500 +0000" channel="Love Nature HD.mncvision">
+    <title>After The Wildfires</title>
+</programme>
+<programme start="20260112125500 +0000" stop="20260112135000 +0000" channel="Love Nature HD.mncvision">
+    <title>Chasing The Rains S1, Ep 3</title>
+</programme>
+<programme start="20260112135000 +0000" stop="20260112144500 +0000" channel="Love Nature HD.mncvision">
+    <title>Gladiators S1, Ep 3</title>
+</programme>
+<programme start="20260112144500 +0000" stop="20260112154000 +0000" channel="Love Nature HD.mncvision">
+    <title>Gladiators S1, Ep 4</title>
+</programme>
+<programme start="20260112154000 +0000" stop="20260112163500 +0000" channel="Love Nature HD.mncvision">
+    <title>My Best Friend&#039;s An... S1, Ep 2</title>
+</programme>
+<programme start="20260112163500 +0000" stop="20260111170500 +0000" channel="Love Nature HD.mncvision">
+    <title>Land Of Primates S1, Ep 8</title>
+</programme>
 <programme start="20260111174500 +0000" stop="20260111184500 +0000" channel="MDTV.mncvision">
     <title>Jatanras</title>
 </programme>
@@ -7566,7 +8008,51 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260112162500 +0000" stop="20260112165500 +0000" channel="Soccer Channel.mncvision">
     <title>AFC Asian Cup: KSA Vs VIE (L)</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260111183000 +0000" stop="20260111203000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>AFC Asian Cup 2026: QAT Vs UAE</title>
+</programme>
+<programme start="20260111203000 +0000" stop="20260111210000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>The Ultimate Goals</title>
+</programme>
+<programme start="20260111210000 +0000" stop="20260111213000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Planet Football</title>
+</programme>
+<programme start="20260111213000 +0000" stop="20260111233000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>SEA Games Thailand: TLS Vs THA</title>
+</programme>
+<programme start="20260111233000 +0000" stop="20260112013000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>European Qual.: ALB Vs ENG</title>
+</programme>
+<programme start="20260112013000 +0000" stop="20260112033000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Bundesliga 2025/26: TSG Vs FCB</title>
+</programme>
+<programme start="20260112033000 +0000" stop="20260112040000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>World Classic Soccer</title>
+</programme>
+<programme start="20260112040000 +0000" stop="20260112060000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>AFC Asian Cup 2026: AUS Vs THA</title>
+</programme>
+<programme start="20260112060000 +0000" stop="20260112080000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>ACL Elite: GWN  Vs SHS</title>
+</programme>
+<programme start="20260112080000 +0000" stop="20260112100000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Bundesliga 2025/26: BVB Vs WOB</title>
+</programme>
+<programme start="20260112100000 +0000" stop="20260112103000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Top Goals</title>
+</programme>
+<programme start="20260112103000 +0000" stop="20260112123000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>European Qual.: ALB Vs ENG</title>
+</programme>
+<programme start="20260112123000 +0000" stop="20260112143000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>SEA Games Thailand: IDN Vs MYA</title>
+</programme>
+<programme start="20260112143000 +0000" stop="20260112162500 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Bundesliga 2025/26: BVB Vs WOB</title>
+</programme>
+<programme start="20260112162500 +0000" stop="20260112165500 +0000" channel="Soccer Channel HD.mncvision">
+    <title>AFC Asian Cup: KSA Vs VIE (L)</title>
+</programme>
 <programme start="20260111173000 +0000" stop="20260111200000 +0000" channel="Sportstars.mncvision">
     <title>Best Of Badminton</title>
 </programme>
