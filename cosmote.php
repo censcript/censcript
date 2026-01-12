@@ -1,7 +1,3 @@
-<programme start="20260112124500 +0700" stop="20260112134000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Highlights: UEL &amp; UECL 2025-26</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260112134000 +0700" stop="20260112143500 +0700" channel="COSMOTE Sport 1 HD">
     <title>UEFA Champions League Highlights 2025-26</title>
     <desc>Live: Tidak</desc>
@@ -120,6 +116,10 @@
 </programme>
 <programme start="20260113120000 +0700" stop="20260113141000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Panetolikos - PAOK</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260113141000 +0700" stop="20260113161000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Como - Bologna</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260112120000 +0700" stop="20260112153000 +0700" channel="COSMOTE Sport 3 HD">
@@ -246,10 +246,6 @@
     <title>Basketball: Valencia Basket Club - Unicaja</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260112122000 +0700" stop="20260112134000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>DTM 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260112134000 +0700" stop="20260112144000 +0700" channel="COSMOTE Sport 5 HD">
     <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
@@ -350,6 +346,10 @@
     <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260113142500 +0700" stop="20260113151000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260112120000 +0700" stop="20260112153000 +0700" channel="COSMOTE Sport 6 HD">
     <title>2025 Premier Padel Tour Finals</title>
     <desc>Live: Tidak</desc>
@@ -432,6 +432,10 @@
 </programme>
 <programme start="20260113120000 +0700" stop="20260113143000 +0700" channel="COSMOTE Sport 6 HD">
     <title>2025 Premier Padel Tour Finals</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260113143000 +0700" stop="20260113150000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Sports Classics: The Outdoor Sports Show 2024 E12</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260112130000 +0700" stop="20260112150000 +0700" channel="COSMOTE Sport 7 HD">

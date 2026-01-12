@@ -14,7 +14,7 @@
 <title>Seputar iNews Siang</title>
 </programme>
 <programme start="20260112051500 +0000" stop="20260112083000 +0000" channel="RCTI.vision">
-<title>Masterchef Indonesia Season 13 (RCTI)</title>
+<title>MasterChef Indonesia S13</title>
 </programme>
 <programme start="20260112083000 +0000" stop="20260112100000 +0000" channel="RCTI.vision">
 <title>Benci Jadi Bucin</title>
@@ -34,35 +34,47 @@
 <programme start="20260112164500 +0000" stop="20260112183000 +0000" channel="RCTI.vision">
 <title>RCTI</title>
 </programme>
-<programme start="20260112190000 +0000" stop="20260112200000 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<programme start="20260112183000 +0000" stop="20260112190000 +0000" channel="RCTI.vision">
+<title>iNews Sport</title>
 </programme>
-<programme start="20260112200000 +0000" stop="20260112233000 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<programme start="20260112190000 +0000" stop="20260112224500 +0000" channel="RCTI.vision">
+<title>Preman Pensiun S3</title>
 </programme>
-<programme start="20260112233000 +0000" stop="20260113010000 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<programme start="20260112224500 +0000" stop="20260112234500 +0000" channel="RCTI.vision">
+<title>Go Spot</title>
 </programme>
-<programme start="20260113010000 +0000" stop="20260113011500 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<programme start="20260112234500 +0000" stop="20260113011500 +0000" channel="RCTI.vision">
+<title>Upin Ipin</title>
 </programme>
-<programme start="20260113011500 +0000" stop="20260113031500 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<programme start="20260113011500 +0000" stop="20260113020000 +0000" channel="RCTI.vision">
+<title>Kiko</title>
 </programme>
-<programme start="20260113031500 +0000" stop="20260113041500 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<programme start="20260113020000 +0000" stop="20260113033000 +0000" channel="RCTI.vision">
+<title>Ninja Hattori</title>
 </programme>
-<programme start="20260113041500 +0000" stop="20260113063000 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<programme start="20260113033000 +0000" stop="20260113043000 +0000" channel="RCTI.vision">
+<title>Silet</title>
 </programme>
-<programme start="20260113063000 +0000" stop="20260113080000 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<programme start="20260113043000 +0000" stop="20260113051500 +0000" channel="RCTI.vision">
+<title>Seputar iNews Siang</title>
 </programme>
-<programme start="20260113080000 +0000" stop="20260113090000 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<programme start="20260113051500 +0000" stop="20260113070000 +0000" channel="RCTI.vision">
+<title>Nyak Babe Mau Nikah Lagi...</title>
 </programme>
-<programme start="20260113090000 +0000" stop="20260113120000 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<programme start="20260113070000 +0000" stop="20260113080000 +0000" channel="RCTI.vision">
+<title>CinLock: Love, Camera, Action!</title>
+</programme>
+<programme start="20260113080000 +0000" stop="20260113083000 +0000" channel="RCTI.vision">
+<title>Preman Pensiun S8</title>
+</programme>
+<programme start="20260113083000 +0000" stop="20260113100000 +0000" channel="RCTI.vision">
+<title>Manda Curhat (RCTI)</title>
+</programme>
+<programme start="20260113100000 +0000" stop="20260113113000 +0000" channel="RCTI.vision">
+<title>Terbelenggu Rindu (RCTI)</title>
+</programme>
+<programme start="20260113113000 +0000" stop="20260113124500 +0000" channel="RCTI.vision">
+<title>Mencintai Ipar Sendiri (RCTI)</title>
 </programme>
 <programme start="20260111231500 +0000" stop="20260112004500 +0000" channel="MNCTV.vision">
 <title>Kiko</title>
@@ -104,52 +116,49 @@
 <title>Skripsick</title>
 </programme>
 <programme start="20260112170000 +0000" stop="20260112190000 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<title>Suparman Reborn</title>
 </programme>
 <programme start="20260112190000 +0000" stop="20260112220000 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<title>Suparman Reborn</title>
 </programme>
 <programme start="20260112220000 +0000" stop="20260112230000 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<title>Siraman Qolbu</title>
 </programme>
 <programme start="20260112230000 +0000" stop="20260112231500 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<title>CoComelon</title>
 </programme>
 <programme start="20260112231500 +0000" stop="20260113004500 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<title>Kiko</title>
 </programme>
 <programme start="20260113004500 +0000" stop="20260113013000 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<title>PAW Patrol</title>
 </programme>
 <programme start="20260113013000 +0000" stop="20260113023000 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<title>Upin dan Ipin (MNCTV)</title>
 </programme>
 <programme start="20260113023000 +0000" stop="20260113033000 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<title>Seleb On News</title>
 </programme>
 <programme start="20260113033000 +0000" stop="20260113041500 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<title>Lintas iNews Siang</title>
 </programme>
 <programme start="20260113041500 +0000" stop="20260113044500 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<title>Jurnal Lintas iNews Siang</title>
 </programme>
 <programme start="20260113044500 +0000" stop="20260113060000 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<title>Upin &amp; Ipin</title>
 </programme>
 <programme start="20260113060000 +0000" stop="20260113073000 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<title>Upin &amp; Ipin</title>
 </programme>
-<programme start="20260113073000 +0000" stop="20260113090000 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
-</programme>
-<programme start="20260113090000 +0000" stop="20260113100000 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<programme start="20260113073000 +0000" stop="20260113100000 +0000" channel="MNCTV.vision">
+<title>Upin &amp; Ipin</title>
 </programme>
 <programme start="20260113100000 +0000" stop="20260113113000 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<title>Upin &amp; Ipin</title>
 </programme>
 <programme start="20260113113000 +0000" stop="20260113123000 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<title>Entong</title>
 </programme>
 <programme start="20260112000000 +0000" stop="20260112003000 +0000" channel="GTV.vision">
 <title>Buletin iNews Pagi</title>
@@ -1487,14 +1496,5 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260112190000 +0000" stop="20260112210000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260112210000 +0000" stop="20260112230000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260112230000 +0000" stop="20260113010000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260113010000 +0000" stop="20260113030000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
