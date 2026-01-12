@@ -58,6 +58,10 @@
     <title>Football: AS Monaco FC - Galatasaray AS</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260114025000 +0700" stop="20260114050000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: PFC Ludogorets 1945 - PAOK</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260113003000 +0700" stop="20260113023000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Genoa - Cagliari (L)</title>
     <desc>Live: Ya</desc>
@@ -118,9 +122,9 @@
     <title>Football: Panathinaikos - Panserraikos</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260113000000 +0700" stop="20260113020000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Pafos FC - Omonia Aradippou (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20260114023000 +0700" stop="20260114043000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: ACF Fiorentina - AC Milan</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260113020000 +0700" stop="20260113024500 +0700" channel="COSMOTE Sport 3 HD">
     <title>Copa Sudamericana 2025 - Highlights</title>
@@ -186,6 +190,10 @@
     <title>Football: Damak - Al Ittihad (L)</title>
     <desc>Live: Ya</desc>
 </programme>
+<programme start="20260114023000 +0700" stop="20260114043000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Dundee - Heart of Midlothian</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260113000000 +0700" stop="20260113023000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Orlando Magic - New Orleans Pelicans</title>
     <desc>Live: Tidak</desc>
@@ -241,6 +249,10 @@
 <programme start="20260114015500 +0700" stop="20260114023000 +0700" channel="COSMOTE Sport 4 HD">
     <title>NBA Action 2025-26 E3512</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260114023000 +0700" stop="20260114041500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Pick n&#039; Roll (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260113003000 +0700" stop="20260113023000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Football: Al Hilal - Al Nassr (L)</title>
@@ -342,8 +354,8 @@
     <title>Moto-E World Championship 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260113010000 +0700" stop="20260113020000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>ATP 2025 - Review</title>
+<programme start="20260114023000 +0700" stop="20260114033000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Highlights: Moto2 &amp; Moto3 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260113020000 +0700" stop="20260113043000 +0700" channel="COSMOTE Sport 6 HD">
@@ -416,6 +428,10 @@
 </programme>
 <programme start="20260114010000 +0700" stop="20260114020000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Sports Classics: 2025 Outdoor Specials</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260114020000 +0700" stop="20260114043000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: Stefanos Tsitsipas - Aleksandar Vukic</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260113004500 +0700" stop="20260113024500 +0700" channel="COSMOTE Sport 7 HD">

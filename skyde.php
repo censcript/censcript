@@ -3148,10 +3148,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>PL: FC Burnley - Manchester United, 21. Spieltag</title>
 </programme>
 <programme start="20260112110000 +0000" stop="20260112130000 +0000" channel="Sky Sport UHD.skyde">
-    <title>PL: FC Arsenal - FC Liverpool, Match of the Week, 21. Spieltag</title>
+    <title>DFB-Pokal: Borussia Dortmund - Bayer Leverkusen, Achtelfinale</title>
 </programme>
 <programme start="20260112110000 +0000" stop="20260112130000 +0000" channel="Sky Sport UHD.skyde">
-    <title>DFB-Pokal: Borussia Dortmund - Bayer Leverkusen, Achtelfinale</title>
+    <title>PL: FC Arsenal - FC Liverpool, Match of the Week, 21. Spieltag</title>
 </programme>
 <programme start="20260112130000 +0000" stop="20260112133000 +0000" channel="Sky Sport UHD.skyde">
     <title>Golf: Greatest Holes (1)</title>

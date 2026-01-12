@@ -700,15 +700,6 @@
 <programme start="20260112114500 +0000" stop="20260112131500 +0000" channel="ANTV.vision">
 <title>Senandung Cinta Lilis</title>
 </programme>
-<programme start="20260112131500 +0000" stop="20260112151500 +0000" channel="ANTV.vision">
-<title>212 Warrior</title>
-</programme>
-<programme start="20260112151500 +0000" stop="20260112171500 +0000" channel="ANTV.vision">
-<title>Mana Tahan</title>
-</programme>
-<programme start="20260112171500 +0000" stop="20260112191500 +0000" channel="ANTV.vision">
-<title>308</title>
-</programme>
 <programme start="20260112191500 +0000" stop="20260112213000 +0000" channel="ANTV.vision">
 <title>Serie A Liga Italia</title>
 </programme>
@@ -1496,5 +1487,14 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260112050000 +0000" stop="20260112070000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260112070000 +0000" stop="20260112090000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260112090000 +0000" stop="20260112110000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260112110000 +0000" stop="20260112130000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
