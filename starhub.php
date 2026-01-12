@@ -2728,23 +2728,26 @@
     <programme start="20260111230000 +0000" stop="20260111233000 +0000" channel="Zee Tamil.starhub">
         <title>Naane Varuvean</title>
     </programme>
-    <programme start="20260111233000 +0000" stop="20260112013000 +0000" channel="Zee Tamil.starhub">
-        <title>Savarakathi</title>
+    <programme start="20260111233000 +0000" stop="20260112000000 +0000" channel="Zee Tamil.starhub">
+        <title>Lakshmi Kalyanam</title>
     </programme>
-    <programme start="20260112013000 +0000" stop="20260112020000 +0000" channel="Zee Tamil.starhub">
-        <title>Varisu</title>
+    <programme start="20260112000000 +0000" stop="20260112020000 +0000" channel="Zee Tamil.starhub">
+        <title>Boomerang</title>
     </programme>
-    <programme start="20260112020000 +0000" stop="20260112023000 +0000" channel="Zee Tamil.starhub">
-        <title>Varisu</title>
+    <programme start="20260112020000 +0000" stop="20260112021500 +0000" channel="Zee Tamil.starhub">
+        <title>Parijatham</title>
+    </programme>
+    <programme start="20260112021500 +0000" stop="20260112023000 +0000" channel="Zee Tamil.starhub">
+        <title>Parijatham</title>
     </programme>
     <programme start="20260112023000 +0000" stop="20260112030000 +0000" channel="Zee Tamil.starhub">
-        <title>Varisu</title>
+        <title>Parijatham</title>
     </programme>
     <programme start="20260112030000 +0000" stop="20260112033000 +0000" channel="Zee Tamil.starhub">
-        <title>Varisu</title>
+        <title>Parijatham</title>
     </programme>
     <programme start="20260112033000 +0000" stop="20260112040000 +0000" channel="Zee Tamil.starhub">
-        <title>Varisu</title>
+        <title>Parijatham</title>
     </programme>
     <programme start="20260112040000 +0000" stop="20260112043000 +0000" channel="Zee Tamil.starhub">
         <title>Aval Varuvala</title>
@@ -2759,10 +2762,10 @@
         <title>Annamalai Kudumbam</title>
     </programme>
     <programme start="20260112060000 +0000" stop="20260112090000 +0000" channel="Zee Tamil.starhub">
-        <title>Kaari</title>
+        <title>The Warrior</title>
     </programme>
     <programme start="20260112090000 +0000" stop="20260112093000 +0000" channel="Zee Tamil.starhub">
-        <title>KCKC - Kedi Billa Killadi Ranga</title>
+        <title>KCKC - Irandam Ulagaporin Kadaisi Gundu</title>
     </programme>
     <programme start="20260112093000 +0000" stop="20260112100000 +0000" channel="Zee Tamil.starhub">
         <title>Varisu</title>
@@ -2771,10 +2774,10 @@
         <title>Gettimelam</title>
     </programme>
     <programme start="20260112103000 +0000" stop="20260112110000 +0000" channel="Zee Tamil.starhub">
-        <title>Mahasangamam Veera And Chinnanchiru Kiliye</title>
+        <title>Veera</title>
     </programme>
     <programme start="20260112110000 +0000" stop="20260112113000 +0000" channel="Zee Tamil.starhub">
-        <title>KCKC - Nisabtham</title>
+        <title>Chinnanchiru Kiliye</title>
     </programme>
     <programme start="20260112113000 +0000" stop="20260112120000 +0000" channel="Zee Tamil.starhub">
         <title>Thirumangalyam</title>
@@ -2788,10 +2791,7 @@
     <programme start="20260112130000 +0000" stop="20260112133000 +0000" channel="Zee Tamil.starhub">
         <title>Karthigai Deepam</title>
     </programme>
-    <programme start="20260112133000 +0000" stop="20260112134500 +0000" channel="Zee Tamil.starhub">
-        <title>Parijatham</title>
-    </programme>
-    <programme start="20260112134500 +0000" stop="20260112140000 +0000" channel="Zee Tamil.starhub">
+    <programme start="20260112133000 +0000" stop="20260112140000 +0000" channel="Zee Tamil.starhub">
         <title>Parijatham</title>
     </programme>
     <programme start="20260112140000 +0000" stop="20260112143000 +0000" channel="Zee Tamil.starhub">
@@ -7711,7 +7711,7 @@
     <programme start="20260111213000 +0000" stop="20260111233000 +0000" channel="Asianet Movies.starhub">
         <title>Jananam 1947 Pranayam Thudarunnu</title>
     </programme>
-    <programme start="20260111233000 +0000" stop="20260112013000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260111232000 +0000" stop="20260112013000 +0000" channel="Asianet Movies.starhub">
         <title>Hailesa</title>
     </programme>
     <programme start="20260112013000 +0000" stop="20260112043000 +0000" channel="Asianet Movies.starhub">
