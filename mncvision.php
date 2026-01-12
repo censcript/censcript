@@ -916,7 +916,156 @@
 <programme start="20260112163500 +0000" stop="20260111170500 +0000" channel="BBC Earth HD.mncvision">
     <title>Griff&#039;s Canadian Adv. S1, Ep 6</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260111170000 +0000" stop="20260111180000 +0000" channel="BBC World News.mncvision">
+    <title>BBC News</title>
+</programme>
+<programme start="20260111180000 +0000" stop="20260111183000 +0000" channel="BBC World News.mncvision">
+    <title>BBC News</title>
+</programme>
+<programme start="20260111183000 +0000" stop="20260111190000 +0000" channel="BBC World News.mncvision">
+    <title>The President&#039;s Path</title>
+</programme>
+<programme start="20260111190000 +0000" stop="20260111193000 +0000" channel="BBC World News.mncvision">
+    <title>BBC News</title>
+</programme>
+<programme start="20260111193000 +0000" stop="20260111200000 +0000" channel="BBC World News.mncvision">
+    <title>This Cultural Life: Tim Minchin</title>
+</programme>
+<programme start="20260111200000 +0000" stop="20260111203000 +0000" channel="BBC World News.mncvision">
+    <title>BBC News</title>
+</programme>
+<programme start="20260111203000 +0000" stop="20260111210000 +0000" channel="BBC World News.mncvision">
+    <title>Clive Myrie&#039;s Caribbean Adv.</title>
+</programme>
+<programme start="20260111210000 +0000" stop="20260111220000 +0000" channel="BBC World News.mncvision">
+    <title>BBC News</title>
+</programme>
+<programme start="20260111220000 +0000" stop="20260111223000 +0000" channel="BBC World News.mncvision">
+    <title>BBC News</title>
+</programme>
+<programme start="20260111223000 +0000" stop="20260111230000 +0000" channel="BBC World News.mncvision">
+    <title>AI Decoded</title>
+</programme>
+<programme start="20260111230000 +0000" stop="20260111233000 +0000" channel="BBC World News.mncvision">
+    <title>BBC News</title>
+</programme>
+<programme start="20260111233000 +0000" stop="20260112000000 +0000" channel="BBC World News.mncvision">
+    <title>Global Eye</title>
+</programme>
+<programme start="20260112000000 +0000" stop="20260112003000 +0000" channel="BBC World News.mncvision">
+    <title>BBC News</title>
+</programme>
+<programme start="20260112003000 +0000" stop="20260112010000 +0000" channel="BBC World News.mncvision">
+    <title>The Media Show</title>
+</programme>
+<programme start="20260112010000 +0000" stop="20260112013000 +0000" channel="BBC World News.mncvision">
+    <title>BBC News</title>
+</programme>
+<programme start="20260112013000 +0000" stop="20260112020000 +0000" channel="BBC World News.mncvision">
+    <title>The Big Cases: Liverpool...</title>
+</programme>
+<programme start="20260112020000 +0000" stop="20260112023000 +0000" channel="BBC World News.mncvision">
+    <title>Newsday</title>
+</programme>
+<programme start="20260112023000 +0000" stop="20260112024500 +0000" channel="BBC World News.mncvision">
+    <title>Business Today</title>
+</programme>
+<programme start="20260112024500 +0000" stop="20260112030000 +0000" channel="BBC World News.mncvision">
+    <title>BBC Sport</title>
+</programme>
+<programme start="20260112030000 +0000" stop="20260112033000 +0000" channel="BBC World News.mncvision">
+    <title>Newsday</title>
+</programme>
+<programme start="20260112033000 +0000" stop="20260112034500 +0000" channel="BBC World News.mncvision">
+    <title>Business Today</title>
+</programme>
+<programme start="20260112034500 +0000" stop="20260112040000 +0000" channel="BBC World News.mncvision">
+    <title>BBC Sport</title>
+</programme>
+<programme start="20260112040000 +0000" stop="20260112043000 +0000" channel="BBC World News.mncvision">
+    <title>Newsday</title>
+</programme>
+<programme start="20260112043000 +0000" stop="20260112044500 +0000" channel="BBC World News.mncvision">
+    <title>Business Today</title>
+</programme>
+<programme start="20260112044500 +0000" stop="20260112050000 +0000" channel="BBC World News.mncvision">
+    <title>BBC Sport</title>
+</programme>
+<programme start="20260112050000 +0000" stop="20260112053000 +0000" channel="BBC World News.mncvision">
+    <title>BBC News</title>
+</programme>
+<programme start="20260112053000 +0000" stop="20260112060000 +0000" channel="BBC World News.mncvision">
+    <title>Business Today</title>
+</programme>
+<programme start="20260112060000 +0000" stop="20260112063000 +0000" channel="BBC World News.mncvision">
+    <title>BBC News</title>
+</programme>
+<programme start="20260112063000 +0000" stop="20260112070000 +0000" channel="BBC World News.mncvision">
+    <title>Business Today</title>
+</programme>
+<programme start="20260112070000 +0000" stop="20260112073000 +0000" channel="BBC World News.mncvision">
+    <title>BBC News</title>
+</programme>
+<programme start="20260112073000 +0000" stop="20260112080000 +0000" channel="BBC World News.mncvision">
+    <title>Business Today</title>
+</programme>
+<programme start="20260112080000 +0000" stop="20260112083000 +0000" channel="BBC World News.mncvision">
+    <title>BBC News</title>
+</programme>
+<programme start="20260112083000 +0000" stop="20260112090000 +0000" channel="BBC World News.mncvision">
+    <title>BBC News</title>
+</programme>
+<programme start="20260112090000 +0000" stop="20260112093000 +0000" channel="BBC World News.mncvision">
+    <title>BBC News</title>
+</programme>
+<programme start="20260112093000 +0000" stop="20260112100000 +0000" channel="BBC World News.mncvision">
+    <title>BBC News</title>
+</programme>
+<programme start="20260112100000 +0000" stop="20260112103000 +0000" channel="BBC World News.mncvision">
+    <title>BBC News</title>
+</programme>
+<programme start="20260112103000 +0000" stop="20260112110000 +0000" channel="BBC World News.mncvision">
+    <title>BBC News</title>
+</programme>
+<programme start="20260112110000 +0000" stop="20260112113000 +0000" channel="BBC World News.mncvision">
+    <title>BBC News</title>
+</programme>
+<programme start="20260112113000 +0000" stop="20260112114500 +0000" channel="BBC World News.mncvision">
+    <title>Business Today</title>
+</programme>
+<programme start="20260112114500 +0000" stop="20260112120000 +0000" channel="BBC World News.mncvision">
+    <title>BBC News</title>
+</programme>
+<programme start="20260112120000 +0000" stop="20260112123000 +0000" channel="BBC World News.mncvision">
+    <title>BBC News Now</title>
+</programme>
+<programme start="20260112123000 +0000" stop="20260112130000 +0000" channel="BBC World News.mncvision">
+    <title>BBC News Now</title>
+</programme>
+<programme start="20260112130000 +0000" stop="20260112133000 +0000" channel="BBC World News.mncvision">
+    <title>BBC News Now</title>
+</programme>
+<programme start="20260112133000 +0000" stop="20260112140000 +0000" channel="BBC World News.mncvision">
+    <title>BBC News Now</title>
+</programme>
+<programme start="20260112140000 +0000" stop="20260112143000 +0000" channel="BBC World News.mncvision">
+    <title>BBC News Now</title>
+</programme>
+<programme start="20260112143000 +0000" stop="20260112144500 +0000" channel="BBC World News.mncvision">
+    <title>Business Today: NYSE</title>
+</programme>
+<programme start="20260112144500 +0000" stop="20260112150000 +0000" channel="BBC World News.mncvision">
+    <title>BBC News Now</title>
+</programme>
+<programme start="20260112150000 +0000" stop="20260112153000 +0000" channel="BBC World News.mncvision">
+    <title>Verified Live</title>
+</programme>
+<programme start="20260112153000 +0000" stop="20260112160000 +0000" channel="BBC World News.mncvision">
+    <title>Verified Live</title>
+</programme>
+<programme start="20260112160000 +0000" stop="20260112163000 +0000" channel="BBC World News.mncvision">
+    <title>Verified Live</title>
+</programme>
 <programme start="20260111171500 +0000" stop="20260111173000 +0000" channel="beIN Sports 1.mncvision">
     <title>LaLiga Match HL: BAR Vs VLD</title>
 </programme>
@@ -3836,7 +3985,60 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260112165500 +0000" stop="20260111172500 +0000" channel="Global Trekker HD.mncvision">
     <title>Shuttle Discovery&#039;s Last...</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260111170000 +0000" stop="20260111180000 +0000" channel="GTV.mncvision">
+    <title>Jelajah Mitos</title>
+</programme>
+<programme start="20260111180000 +0000" stop="20260111190000 +0000" channel="GTV.mncvision">
+    <title>Crime KV</title>
+</programme>
+<programme start="20260111190000 +0000" stop="20260111200000 +0000" channel="GTV.mncvision">
+    <title>Naik Enak Turun Ogah</title>
+</programme>
+<programme start="20260111200000 +0000" stop="20260111220000 +0000" channel="GTV.mncvision">
+    <title>Awas Ada Sule</title>
+</programme>
+<programme start="20260111220000 +0000" stop="20260111230000 +0000" channel="GTV.mncvision">
+    <title>Kisah Viral</title>
+</programme>
+<programme start="20260111230000 +0000" stop="20260112000000 +0000" channel="GTV.mncvision">
+    <title>SpongeBob SquarePants</title>
+</programme>
+<programme start="20260112000000 +0000" stop="20260112003000 +0000" channel="GTV.mncvision">
+    <title>Buletin iNews Pagi</title>
+</programme>
+<programme start="20260112003000 +0000" stop="20260112013000 +0000" channel="GTV.mncvision">
+    <title>Obrolan Seputar Selebriti</title>
+</programme>
+<programme start="20260112013000 +0000" stop="20260112020000 +0000" channel="GTV.mncvision">
+    <title>CoComelon Dan Sahabat</title>
+</programme>
+<programme start="20260112020000 +0000" stop="20260112023000 +0000" channel="GTV.mncvision">
+    <title>Bernard Bear</title>
+</programme>
+<programme start="20260112023000 +0000" stop="20260112050000 +0000" channel="GTV.mncvision">
+    <title>SpongeBob SquarePants</title>
+</programme>
+<programme start="20260112050000 +0000" stop="20260112073000 +0000" channel="GTV.mncvision">
+    <title>SpongeBob SquarePants</title>
+</programme>
+<programme start="20260112073000 +0000" stop="20260112093000 +0000" channel="GTV.mncvision">
+    <title>SpongeBob SquarePants</title>
+</programme>
+<programme start="20260112093000 +0000" stop="20260112110000 +0000" channel="GTV.mncvision">
+    <title>SpongeBob SquarePants</title>
+</programme>
+<programme start="20260112110000 +0000" stop="20260112123000 +0000" channel="GTV.mncvision">
+    <title>New Family 100</title>
+</programme>
+<programme start="20260112123000 +0000" stop="20260112143000 +0000" channel="GTV.mncvision">
+    <title>Mission: Impossible Iii</title>
+</programme>
+<programme start="20260112143000 +0000" stop="20260112160000 +0000" channel="GTV.mncvision">
+    <title>Detective Dee: Solitary...</title>
+</programme>
+<programme start="20260112160000 +0000" stop="20260112163000 +0000" channel="GTV.mncvision">
+    <title>Untold Story</title>
+</programme>
 <programme start="20260111170000 +0000" stop="20260111180000 +0000" channel="GTV HD.mncvision">
     <title>Jelajah Mitos</title>
 </programme>
@@ -4420,40 +4622,43 @@ Error: Unable to fetch data. HTTP Status Code: 500
     <title>Mega Film Asia</title>
 </programme>
 <programme start="20260111213000 +0000" stop="20260111230000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Fokus Pagi</title>
 </programme>
-<programme start="20260111230000 +0000" stop="20260112010000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+<programme start="20260111230000 +0000" stop="20260112003000 +0000" channel="Indosiar.mncvision">
+    <title>Merangkai Kisah Indah</title>
 </programme>
-<programme start="20260112010000 +0000" stop="20260112030000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+<programme start="20260112003000 +0000" stop="20260112020000 +0000" channel="Indosiar.mncvision">
+    <title>Kisah Nyata Pagi</title>
+</programme>
+<programme start="20260112020000 +0000" stop="20260112030000 +0000" channel="Indosiar.mncvision">
+    <title>Suara Hati Istri</title>
 </programme>
 <programme start="20260112030000 +0000" stop="20260112040000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Kiss Pagi</title>
 </programme>
 <programme start="20260112040000 +0000" stop="20260112043000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Patroli Siang</title>
 </programme>
 <programme start="20260112043000 +0000" stop="20260112050000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Fokus Siang</title>
 </programme>
-<programme start="20260112050000 +0000" stop="20260112063000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+<programme start="20260112050000 +0000" stop="20260112060000 +0000" channel="Indosiar.mncvision">
+    <title>Kisah Nyata Siang</title>
 </programme>
-<programme start="20260112063000 +0000" stop="20260112080000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+<programme start="20260112060000 +0000" stop="20260112080000 +0000" channel="Indosiar.mncvision">
+    <title>Kisah Nyata</title>
 </programme>
-<programme start="20260112080000 +0000" stop="20260112100000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+<programme start="20260112080000 +0000" stop="20260112103000 +0000" channel="Indosiar.mncvision">
+    <title>BRI Super League 2025/26</title>
 </programme>
-<programme start="20260112100000 +0000" stop="20260112120000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+<programme start="20260112103000 +0000" stop="20260112113000 +0000" channel="Indosiar.mncvision">
+    <title>Merangkai Kisah Indah</title>
 </programme>
-<programme start="20260112120000 +0000" stop="20260112160000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+<programme start="20260112113000 +0000" stop="20260112140000 +0000" channel="Indosiar.mncvision">
+    <title>BRI Super League 2025/26</title>
 </programme>
-<programme start="20260112160000 +0000" stop="20260112163000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+<programme start="20260112140000 +0000" stop="20260112143000 +0000" channel="Indosiar.mncvision">
+    <title>D&#039;Academy S7</title>
 </programme>
 <programme start="20260111170000 +0000" stop="20260111193000 +0000" channel="Indosiar HD.mncvision">
     <title>Blockbuster Spc. 31th Indosiar</title>
@@ -4462,40 +4667,43 @@ Error: Unable to fetch data. HTTP Status Code: 500
     <title>Mega Film Asia</title>
 </programme>
 <programme start="20260111213000 +0000" stop="20260111230000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Fokus Pagi</title>
 </programme>
-<programme start="20260111230000 +0000" stop="20260112010000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+<programme start="20260111230000 +0000" stop="20260112003000 +0000" channel="Indosiar HD.mncvision">
+    <title>Merangkai Kisah Indah</title>
 </programme>
-<programme start="20260112010000 +0000" stop="20260112030000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+<programme start="20260112003000 +0000" stop="20260112020000 +0000" channel="Indosiar HD.mncvision">
+    <title>Kisah Nyata Pagi</title>
+</programme>
+<programme start="20260112020000 +0000" stop="20260112030000 +0000" channel="Indosiar HD.mncvision">
+    <title>Suara Hati Istri</title>
 </programme>
 <programme start="20260112030000 +0000" stop="20260112040000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Kiss Pagi</title>
 </programme>
 <programme start="20260112040000 +0000" stop="20260112043000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Patroli Siang</title>
 </programme>
 <programme start="20260112043000 +0000" stop="20260112050000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Fokus Siang</title>
 </programme>
-<programme start="20260112050000 +0000" stop="20260112063000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+<programme start="20260112050000 +0000" stop="20260112060000 +0000" channel="Indosiar HD.mncvision">
+    <title>Kisah Nyata Siang</title>
 </programme>
-<programme start="20260112063000 +0000" stop="20260112080000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+<programme start="20260112060000 +0000" stop="20260112080000 +0000" channel="Indosiar HD.mncvision">
+    <title>Kisah Nyata</title>
 </programme>
-<programme start="20260112080000 +0000" stop="20260112100000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+<programme start="20260112080000 +0000" stop="20260112103000 +0000" channel="Indosiar HD.mncvision">
+    <title>BRI Super League 2025/26</title>
 </programme>
-<programme start="20260112100000 +0000" stop="20260112120000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+<programme start="20260112103000 +0000" stop="20260112113000 +0000" channel="Indosiar HD.mncvision">
+    <title>Merangkai Kisah Indah</title>
 </programme>
-<programme start="20260112120000 +0000" stop="20260112160000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+<programme start="20260112113000 +0000" stop="20260112140000 +0000" channel="Indosiar HD.mncvision">
+    <title>BRI Super League 2025/26</title>
 </programme>
-<programme start="20260112160000 +0000" stop="20260112163000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+<programme start="20260112140000 +0000" stop="20260112143000 +0000" channel="Indosiar HD.mncvision">
+    <title>D&#039;Academy S7</title>
 </programme>
 <programme start="20260111173000 +0000" stop="20260111181500 +0000" channel="iNews.mncvision">
     <title>Realita</title>
@@ -4522,9 +4730,15 @@ Error: Unable to fetch data. HTTP Status Code: 500
     <title>iNews Sport Pagi (L)</title>
 </programme>
 <programme start="20260111233000 +0000" stop="20260112000000 +0000" channel="iNews.mncvision">
+    <title>iBreak: The One Entrepreneur</title>
+</programme>
+<programme start="20260112000000 +0000" stop="20260112001000 +0000" channel="iNews.mncvision">
+    <title>iNews Terkini (L)</title>
+</programme>
+<programme start="20260112001000 +0000" stop="20260112003000 +0000" channel="iNews.mncvision">
     <title>Special Report</title>
 </programme>
-<programme start="20260112000000 +0000" stop="20260112010000 +0000" channel="iNews.mncvision">
+<programme start="20260112003000 +0000" stop="20260112010000 +0000" channel="iNews.mncvision">
     <title>Morning Update</title>
 </programme>
 <programme start="20260112010000 +0000" stop="20260112021500 +0000" channel="iNews.mncvision">
@@ -4548,7 +4762,10 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260112093000 +0000" stop="20260112120000 +0000" channel="iNews.mncvision">
     <title>iNews Sore (L)</title>
 </programme>
-<programme start="20260112120000 +0000" stop="20260112133000 +0000" channel="iNews.mncvision">
+<programme start="20260112120000 +0000" stop="20260112120500 +0000" channel="iNews.mncvision">
+    <title>iNews Terkini (L)</title>
+</programme>
+<programme start="20260112120500 +0000" stop="20260112133000 +0000" channel="iNews.mncvision">
     <title>iNews Room (L)</title>
 </programme>
 <programme start="20260112133000 +0000" stop="20260112143000 +0000" channel="iNews.mncvision">
@@ -4588,9 +4805,15 @@ Error: Unable to fetch data. HTTP Status Code: 500
     <title>iNews Sport Pagi (L)</title>
 </programme>
 <programme start="20260111233000 +0000" stop="20260112000000 +0000" channel="iNews HD.mncvision">
+    <title>iBreak: The One Entrepreneur</title>
+</programme>
+<programme start="20260112000000 +0000" stop="20260112001000 +0000" channel="iNews HD.mncvision">
+    <title>iNews Terkini (L)</title>
+</programme>
+<programme start="20260112001000 +0000" stop="20260112003000 +0000" channel="iNews HD.mncvision">
     <title>Special Report</title>
 </programme>
-<programme start="20260112000000 +0000" stop="20260112010000 +0000" channel="iNews HD.mncvision">
+<programme start="20260112003000 +0000" stop="20260112010000 +0000" channel="iNews HD.mncvision">
     <title>Morning Update</title>
 </programme>
 <programme start="20260112010000 +0000" stop="20260112021500 +0000" channel="iNews HD.mncvision">
@@ -4614,7 +4837,10 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260112093000 +0000" stop="20260112120000 +0000" channel="iNews HD.mncvision">
     <title>iNews Sore (L)</title>
 </programme>
-<programme start="20260112120000 +0000" stop="20260112133000 +0000" channel="iNews HD.mncvision">
+<programme start="20260112120000 +0000" stop="20260112120500 +0000" channel="iNews HD.mncvision">
+    <title>iNews Terkini (L)</title>
+</programme>
+<programme start="20260112120500 +0000" stop="20260112133000 +0000" channel="iNews HD.mncvision">
     <title>iNews Room (L)</title>
 </programme>
 <programme start="20260112133000 +0000" stop="20260112143000 +0000" channel="iNews HD.mncvision">
@@ -7486,55 +7712,52 @@ Error: Unable to fetch data. HTTP Status Code: 500
     <title>Sinema Dini Hari</title>
 </programme>
 <programme start="20260111210000 +0000" stop="20260111213000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+    <title>Indahnya Kebersamaan</title>
 </programme>
 <programme start="20260111213000 +0000" stop="20260111220000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+    <title>Buser</title>
 </programme>
 <programme start="20260111220000 +0000" stop="20260111230000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+    <title>Liputan 6 Pagi (L)</title>
 </programme>
-<programme start="20260111230000 +0000" stop="20260111233000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
-</programme>
-<programme start="20260111233000 +0000" stop="20260112000000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20260111230000 +0000" stop="20260112000000 +0000" channel="SCTV.mncvision">
+    <title>Hot Shot</title>
 </programme>
 <programme start="20260112000000 +0000" stop="20260112013000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+    <title>Terlalu Posesif Diputusin...</title>
 </programme>
 <programme start="20260112013000 +0000" stop="20260112030000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+    <title>Mencintai Lewat Jalur Langit...</title>
 </programme>
 <programme start="20260112030000 +0000" stop="20260112050000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+    <title>Gue Tunjukkin Rumus Aku Kau...</title>
 </programme>
 <programme start="20260112050000 +0000" stop="20260112053000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+    <title>Liputan 6 Siang (L)</title>
 </programme>
 <programme start="20260112053000 +0000" stop="20260112070000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+    <title>Jalannya Berdua Bapernya...</title>
 </programme>
 <programme start="20260112070000 +0000" stop="20260112083000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+    <title>Aku Menyebutnya Tampan...</title>
 </programme>
-<programme start="20260112083000 +0000" stop="20260112094500 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20260112083000 +0000" stop="20260112100000 +0000" channel="SCTV.mncvision">
+    <title>Temen Makan Temen Jadi...</title>
 </programme>
-<programme start="20260112094500 +0000" stop="20260112111500 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20260112100000 +0000" stop="20260112111500 +0000" channel="SCTV.mncvision">
+    <title>Asmara Gen Z</title>
 </programme>
-<programme start="20260112111500 +0000" stop="20260112134500 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20260112111500 +0000" stop="20260112130000 +0000" channel="SCTV.mncvision">
+    <title>Beri Cinta Waktu</title>
 </programme>
-<programme start="20260112134500 +0000" stop="20260112143000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20260112130000 +0000" stop="20260112143000 +0000" channel="SCTV.mncvision">
+    <title>Cinta Sedalam Rindu</title>
 </programme>
 <programme start="20260112143000 +0000" stop="20260112160000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+    <title>Jejak Duka Diandra</title>
 </programme>
 <programme start="20260112160000 +0000" stop="20260112163000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+    <title>Miss Duren Lupa Kulitnya</title>
 </programme>
 <programme start="20260111174500 +0000" stop="20260111194500 +0000" channel="SCTV HD.mncvision">
     <title>Sinema Malam</title>
@@ -7543,55 +7766,52 @@ Error: Unable to fetch data. HTTP Status Code: 500
     <title>Sinema Dini Hari</title>
 </programme>
 <programme start="20260111210000 +0000" stop="20260111213000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+    <title>Indahnya Kebersamaan</title>
 </programme>
 <programme start="20260111213000 +0000" stop="20260111220000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+    <title>Buser</title>
 </programme>
 <programme start="20260111220000 +0000" stop="20260111230000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+    <title>Liputan 6 Pagi (L)</title>
 </programme>
-<programme start="20260111230000 +0000" stop="20260111233000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
-</programme>
-<programme start="20260111233000 +0000" stop="20260112000000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20260111230000 +0000" stop="20260112000000 +0000" channel="SCTV HD.mncvision">
+    <title>Hot Shot</title>
 </programme>
 <programme start="20260112000000 +0000" stop="20260112013000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+    <title>Terlalu Posesif Diputusin...</title>
 </programme>
 <programme start="20260112013000 +0000" stop="20260112030000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+    <title>Mencintai Lewat Jalur Langit...</title>
 </programme>
 <programme start="20260112030000 +0000" stop="20260112050000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+    <title>Gue Tunjukkin Rumus Aku Kau...</title>
 </programme>
 <programme start="20260112050000 +0000" stop="20260112053000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+    <title>Liputan 6 Siang (L)</title>
 </programme>
 <programme start="20260112053000 +0000" stop="20260112070000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+    <title>Jalannya Berdua Bapernya...</title>
 </programme>
 <programme start="20260112070000 +0000" stop="20260112083000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+    <title>Aku Menyebutnya Tampan...</title>
 </programme>
-<programme start="20260112083000 +0000" stop="20260112094500 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20260112083000 +0000" stop="20260112100000 +0000" channel="SCTV HD.mncvision">
+    <title>Temen Makan Temen Jadi...</title>
 </programme>
-<programme start="20260112094500 +0000" stop="20260112111500 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20260112100000 +0000" stop="20260112111500 +0000" channel="SCTV HD.mncvision">
+    <title>Asmara Gen Z</title>
 </programme>
-<programme start="20260112111500 +0000" stop="20260112134500 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20260112111500 +0000" stop="20260112130000 +0000" channel="SCTV HD.mncvision">
+    <title>Beri Cinta Waktu</title>
 </programme>
-<programme start="20260112134500 +0000" stop="20260112143000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20260112130000 +0000" stop="20260112143000 +0000" channel="SCTV HD.mncvision">
+    <title>Cinta Sedalam Rindu</title>
 </programme>
 <programme start="20260112143000 +0000" stop="20260112160000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+    <title>Jejak Duka Diandra</title>
 </programme>
 <programme start="20260112160000 +0000" stop="20260112163000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+    <title>Miss Duren Lupa Kulitnya</title>
 </programme>
 <programme start="20260111170000 +0000" stop="20260111173000 +0000" channel="Sindo News TV.mncvision">
     <title>iNews Sport</title>

@@ -227,7 +227,7 @@
         <title>Sonchiriya</title>
     </programme>
     <programme start="20260112070000 +0000" stop="20260112073000 +0000" channel="Zee TV.starhub">
-        <title>Jagriti</title>
+        <title>Jaane Anjaane Hum Mile</title>
     </programme>
     <programme start="20260112073000 +0000" stop="20260112080000 +0000" channel="Zee TV.starhub">
         <title>Saru</title>
@@ -2608,16 +2608,16 @@
     <programme start="20260112000000 +0000" stop="20260112003000 +0000" channel="Sun TV.starhub">
         <title>ETHIRNEECHAL THODARGIRADHU</title>
     </programme>
-    <programme start="20260112003000 +0000" stop="20260112013000 +0000" channel="Sun TV.starhub">
-        <title>Singapenne</title>
-    </programme>
-    <programme start="20260112013000 +0000" stop="20260112020000 +0000" channel="Sun TV.starhub">
-        <title>Nandhini</title>
+    <programme start="20260112003000 +0000" stop="20260112020000 +0000" channel="Sun TV.starhub">
+        <title>Ulagam Ungal Kaiyil</title>
     </programme>
     <programme start="20260112020000 +0000" stop="20260112023000 +0000" channel="Sun TV.starhub">
         <title>News</title>
     </programme>
-    <programme start="20260112023000 +0000" stop="20260112033000 +0000" channel="Sun TV.starhub">
+    <programme start="20260112023000 +0000" stop="20260112030000 +0000" channel="Sun TV.starhub">
+        <title>Singapenne</title>
+    </programme>
+    <programme start="20260112030000 +0000" stop="20260112033000 +0000" channel="Sun TV.starhub">
         <title>Nandhini</title>
     </programme>
     <programme start="20260112033000 +0000" stop="20260112040000 +0000" channel="Sun TV.starhub">
@@ -3470,7 +3470,7 @@
         <title>News</title>
     </programme>
     <programme start="20260112080000 +0000" stop="20260112113000 +0000" channel="Kalaignar TV.starhub">
-        <title>MOVIE - AADHAVAN (U)</title>
+        <title>MOVIE - PANDI (U)</title>
     </programme>
     <programme start="20260112113000 +0000" stop="20260112120000 +0000" channel="Kalaignar TV.starhub">
         <title>Thillu Mullu</title>
