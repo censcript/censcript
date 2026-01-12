@@ -118,8 +118,8 @@
     <title>Football: Kifisia - AEL Novibet</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260113044500 +0700" stop="20260113050500 +0700" channel="COSMOTE Sport 3 HD">
-    <title>William Hill Scottish Premiership - Highlights</title>
+<programme start="20260114064000 +0700" stop="20260114071000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Sports Classics: Football&#039;s Greatest IV E5</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260113050500 +0700" stop="20260113070500 +0700" channel="COSMOTE Sport 3 HD">
@@ -242,8 +242,8 @@
     <title>Basketball: Sacramento Kings - Los Angeles Lakers</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260113044500 +0700" stop="20260113051500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Extreme E - Highlights 2025</title>
+<programme start="20260114065000 +0700" stop="20260114072500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>NBA on Fire 2025-26 E11</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260113051500 +0700" stop="20260113061500 +0700" channel="COSMOTE Sport 5 HD">
@@ -342,12 +342,8 @@
     <title>MotoGP Classics</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260113043000 +0700" stop="20260113053000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Sports Classics: 2025 Outdoor Specials</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260113053000 +0700" stop="20260113060000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Sports Classics: The Outdoor Sports Show 2024 E12</title>
+<programme start="20260114062000 +0700" stop="20260114074000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>DTM</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260113060000 +0700" stop="20260113083000 +0700" channel="COSMOTE Sport 6 HD">
@@ -420,6 +416,10 @@
 </programme>
 <programme start="20260114050000 +0700" stop="20260114060000 +0700" channel="COSMOTE Sport 6 HD">
     <title>ATP 2025 - Review</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260114060000 +0700" stop="20260114093000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>2025 Premier Padel Tour Finals</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260113050000 +0700" stop="20260113070000 +0700" channel="COSMOTE Sport 7 HD">
