@@ -557,7 +557,7 @@
         <title>(Live) Asia Tonight</title>
     </programme>
     <programme start="20260112130000 +0000" stop="20260112140000 +0000" channel="CNA.mewatch">
-        <title>Elon Musk&#039;s Twitter Takeover - EP 2</title>
+        <title>Wombless - EP 2</title>
     </programme>
     <programme start="20260112140000 +0000" stop="20260112150000 +0000" channel="CNA.mewatch">
         <title>(Live) Singapore Tonight</title>

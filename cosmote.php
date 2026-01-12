@@ -58,6 +58,14 @@
     <title>Highlights: UEL &amp; UECL 2025-26</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260113162000 +0700" stop="20260113165000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEFA Champions League Magazine 2024-25 E15</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260113165000 +0700" stop="20260113185000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: Borussia Dortmund - FK Bodo/Glimt</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260112141000 +0700" stop="20260112161000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Hellas Verona - SS Lazio</title>
     <desc>Live: Tidak</desc>
@@ -118,12 +126,8 @@
     <title>Football: Como - Bologna</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260112120000 +0700" stop="20260112153000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>American Football: Carolina Panthers - Los Angeles Rams</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260112153000 +0700" stop="20260112160000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Copa Libertadores 2025 - Highlights</title>
+<programme start="20260113161000 +0700" stop="20260113181000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Genoa - Cagliari</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260112160000 +0700" stop="20260112163000 +0700" channel="COSMOTE Sport 3 HD">
@@ -246,10 +250,6 @@
     <title>Basketball: Fenerbahce - Bahcesehir</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260112144000 +0700" stop="20260112154500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260112154500 +0700" stop="20260112170500 +0700" channel="COSMOTE Sport 5 HD">
     <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
@@ -354,12 +354,8 @@
     <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260112120000 +0700" stop="20260112153000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>2025 Premier Padel Tour Finals</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260112153000 +0700" stop="20260112160000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Watersports: Inside Sailing E12</title>
+<programme start="20260113165500 +0700" stop="20260113175500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260112160000 +0700" stop="20260112163000 +0700" channel="COSMOTE Sport 6 HD">

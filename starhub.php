@@ -5119,6 +5119,69 @@
     <programme start="20260112153500 +0000" stop="20260112165000 +0000" channel="KBS World HD.starhub">
         <title>The Merchant : Gaekju 2015</title>
     </programme>
+    <programme start="20260111231500 +0000" stop="20260112003000 +0000" channel="TestChannel 996.starhub">
+        <title>Good Partner</title>
+    </programme>
+    <programme start="20260112003000 +0000" stop="20260112013000 +0000" channel="TestChannel 996.starhub">
+        <title>Under the Moonlight</title>
+    </programme>
+    <programme start="20260112013000 +0000" stop="20260112020000 +0000" channel="TestChannel 996.starhub">
+        <title>Lo And Behold</title>
+    </programme>
+    <programme start="20260112020000 +0000" stop="20260112025500 +0000" channel="TestChannel 996.starhub">
+        <title>Golden City (Ep 751-800) VVD Mandarin</title>
+    </programme>
+    <programme start="20260112025500 +0000" stop="20260112035000 +0000" channel="TestChannel 996.starhub">
+        <title>The Queen of News Season 2</title>
+    </programme>
+    <programme start="20260112035000 +0000" stop="20260112044500 +0000" channel="TestChannel 996.starhub">
+        <title>Shadow Love</title>
+    </programme>
+    <programme start="20260112044500 +0000" stop="20260112051000 +0000" channel="TestChannel 996.starhub">
+        <title>Lo And Behold</title>
+    </programme>
+    <programme start="20260112051000 +0000" stop="20260112055500 +0000" channel="TestChannel 996.starhub">
+        <title>In Bed With A Stranger</title>
+    </programme>
+    <programme start="20260112055500 +0000" stop="20260112064500 +0000" channel="TestChannel 996.starhub">
+        <title>Golden City (Ep 751-800) VVD Mandarin</title>
+    </programme>
+    <programme start="20260112064500 +0000" stop="20260112073000 +0000" channel="TestChannel 996.starhub">
+        <title>Love Song in Winter</title>
+    </programme>
+    <programme start="20260112073000 +0000" stop="20260112081000 +0000" channel="TestChannel 996.starhub">
+        <title>Love Song in Winter</title>
+    </programme>
+    <programme start="20260112081000 +0000" stop="20260112090000 +0000" channel="TestChannel 996.starhub">
+        <title>Under the Moonlight</title>
+    </programme>
+    <programme start="20260112090000 +0000" stop="20260112094500 +0000" channel="TestChannel 996.starhub">
+        <title>Forensic Heroes VI: Redemption</title>
+    </programme>
+    <programme start="20260112094500 +0000" stop="20260112103500 +0000" channel="TestChannel 996.starhub">
+        <title>Golden City (Ep 751-800) VVD Mandarin</title>
+    </programme>
+    <programme start="20260112103500 +0000" stop="20260112110000 +0000" channel="TestChannel 996.starhub">
+        <title>Lo And Behold</title>
+    </programme>
+    <programme start="20260112110000 +0000" stop="20260112120000 +0000" channel="TestChannel 996.starhub">
+        <title>Under the Moonlight</title>
+    </programme>
+    <programme start="20260112120000 +0000" stop="20260112130000 +0000" channel="TestChannel 996.starhub">
+        <title>The Queen of News Season 2</title>
+    </programme>
+    <programme start="20260112130000 +0000" stop="20260112140000 +0000" channel="TestChannel 996.starhub">
+        <title>Shadow Love</title>
+    </programme>
+    <programme start="20260112140000 +0000" stop="20260112143000 +0000" channel="TestChannel 996.starhub">
+        <title>Lo And Behold</title>
+    </programme>
+    <programme start="20260112143000 +0000" stop="20260112152000 +0000" channel="TestChannel 996.starhub">
+        <title>In Bed With A Stranger</title>
+    </programme>
+    <programme start="20260112152000 +0000" stop="20260112161500 +0000" channel="TestChannel 996.starhub">
+        <title>Golden City (Ep 751-800) VVD Mandarin</title>
+    </programme>
     <programme start="20260111160000 +0000" stop="20260111160500 +0000" channel="Euronews HD.starhub">
         <title>The European debrief</title>
     </programme>
