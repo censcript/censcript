@@ -58,6 +58,10 @@
     <title>Football: Atalanta - Chelsea FC</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260114005000 +0700" stop="20260114025000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: AS Monaco FC - Galatasaray AS</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260112222000 +0700" stop="20260113003000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: OFI - Asteras Aktor</title>
     <desc>Live: Tidak</desc>
@@ -118,8 +122,8 @@
     <title>Football: AS Roma - Sassuolo</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260112203000 +0700" stop="20260113000000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>American Football: Jacksonville Jaguars - Buffalo Bills</title>
+<programme start="20260114002000 +0700" stop="20260114023000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Panathinaikos - Panserraikos</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260113000000 +0700" stop="20260113020000 +0700" channel="COSMOTE Sport 3 HD">
@@ -186,9 +190,9 @@
     <title>Football: Aberdeen - Rangers FC</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260112220000 +0700" stop="20260113000000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: KK Spartak - Karditsa</title>
-    <desc>Live: Tidak</desc>
+<programme start="20260114003000 +0700" stop="20260114023000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Damak - Al Ittihad (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260113000000 +0700" stop="20260113023000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Orlando Magic - New Orleans Pelicans</title>
@@ -236,14 +240,6 @@
 </programme>
 <programme start="20260113225500 +0700" stop="20260114012500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Denver Nuggets - Milwaukee Bucks</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260112220500 +0700" stop="20260112231000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260112231000 +0700" stop="20260113000000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>2025 GT World Challenge Europe</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260113000000 +0700" stop="20260113003000 +0700" channel="COSMOTE Sport 5 HD">
@@ -346,10 +342,6 @@
     <title>Basketball: Szolnoki Olaj - Trieste (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260112220000 +0700" stop="20260113000000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Volleyball: Tours VB - Trentino Itas</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260113000000 +0700" stop="20260113003000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Watersports: Inside Sailing 2025 E12</title>
     <desc>Live: Tidak</desc>
@@ -426,8 +418,8 @@
     <title>Volleyball: Panathinaikos - Poitiers</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260112230000 +0700" stop="20260113000000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
+<programme start="20260114003000 +0700" stop="20260114010000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Sports Classics: The Outdoor Sports Show 2024 E12</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260113000000 +0700" stop="20260113003000 +0700" channel="COSMOTE Sport 7 HD">
