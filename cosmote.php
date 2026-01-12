@@ -118,6 +118,10 @@
     <title>Football: ACF Fiorentina - AC Milan</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260114043000 +0700" stop="20260114064000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Kifisia - AEL Novibet</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260113024500 +0700" stop="20260113044500 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Liverpool FC - Barnsley (L)</title>
     <desc>Live: Ya</desc>
@@ -182,6 +186,10 @@
     <title>Football: Dundee - Heart of Midlothian</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260114043000 +0700" stop="20260114050000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Copa Sudamericana 2025 - Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260113023000 +0700" stop="20260113050000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Denver Nuggets - Milwaukee Bucks</title>
     <desc>Live: Tidak</desc>
@@ -238,12 +246,8 @@
     <title>Pick n&#039; Roll (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260113023000 +0700" stop="20260113031500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>DTM</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260113031500 +0700" stop="20260113035500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Moto-E World Championship 2025</title>
+<programme start="20260114041500 +0700" stop="20260114065000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Sacramento Kings - Los Angeles Lakers</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260113035500 +0700" stop="20260113044500 +0700" channel="COSMOTE Sport 5 HD">
@@ -342,6 +346,10 @@
     <title>WRC</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260114042500 +0700" stop="20260114052000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>MotoGP Classics</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260113020000 +0700" stop="20260113043000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Thanasis Kokkinakis - Sebastian Korda</title>
     <desc>Live: Tidak</desc>
@@ -418,12 +426,8 @@
     <title>Tennis: Stefanos Tsitsipas - Aleksandar Vukic</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260113030000 +0700" stop="20260113033000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260113033000 +0700" stop="20260113040000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
+<programme start="20260114043000 +0700" stop="20260114050000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Watersports: Sailing to the Games 2025 E6</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260113040000 +0700" stop="20260113050000 +0700" channel="COSMOTE Sport 7 HD">
