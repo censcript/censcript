@@ -3103,19 +3103,19 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>ATP 250: L. Musetti (ITA) - A. Bublik (KAZ), Bank of China Hong Kong Tennis Open in Hong Kong (CHN), Finale</title>
 </programme>
 <programme start="20260112143000 +0000" stop="20260112163000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: Topspiel, Adelaide International in Adelaide (AUS), 1. Tag</title>
+    <title>WTA 500: D. Kasatkina (AUS) - M. Sakkari (GRE), Adelaide International in Adelaide (AUS), 1. Tag</title>
 </programme>
 <programme start="20260112163000 +0000" stop="20260112183000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 250: Topspiel, Adelaide International in Adelaide (AUS), 1. Tag</title>
+    <title>ATP 250: T. Kokkinakis (AUS) - S. Korda (USA), Adelaide International in Adelaide (AUS), 1. Tag</title>
 </programme>
 <programme start="20260112183000 +0000" stop="20260112193000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>United Cup: Review 2026</title>
 </programme>
 <programme start="20260112193000 +0000" stop="20260112213000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: Topspiel, Adelaide International in Adelaide (AUS), 1. Tag</title>
+    <title>WTA 500: D. Kasatkina (AUS) - M. Sakkari (GRE), Adelaide International in Adelaide (AUS), 1. Tag</title>
 </programme>
 <programme start="20260112213000 +0000" stop="20260112233000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 250: Topspiel, Adelaide International in Adelaide (AUS), 1. Tag</title>
+    <title>ATP 250: T. Kokkinakis (AUS) - S. Korda (USA), Adelaide International in Adelaide (AUS), 1. Tag</title>
 </programme>
 <programme start="20260112010000 +0000" stop="20260112120000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live ATP &amp; WTA: Konferenz Adelaide International in Adelaide (AUS), 1. Tag</title>

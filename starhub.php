@@ -1952,7 +1952,7 @@
         <title>TotalEnergies Africa Cup of Nations, Morocco 2025 Egypt vs Ivory Coast - QF 4</title>
     </programme>
     <programme start="20260111160000 +0000" stop="20260111163000 +0000" channel="Sun Music.starhub">
-        <title>Hits Of Gautham Vasudev Menon</title>
+        <title>Hits Of Harris</title>
     </programme>
     <programme start="20260111163000 +0000" stop="20260111173000 +0000" channel="Sun Music.starhub">
         <title>Marana Kuthu</title>
@@ -3419,10 +3419,10 @@
         <title>MOVIE - SILAMBATTAM (U/A)</title>
     </programme>
     <programme start="20260111170000 +0000" stop="20260111203000 +0000" channel="Kalaignar TV.starhub">
-        <title>MOVIE - VAARANAM AAYIRAM (U)</title>
+        <title>MOVIE - SARPATTA PARAMBARAI (V/UA)</title>
     </programme>
     <programme start="20260111203000 +0000" stop="20260111230000 +0000" channel="Kalaignar TV.starhub">
-        <title>BREAKFREE MOVIE - AYITHA EZHUTHU (U)</title>
+        <title>BREAKFREE MOVIE - CHAMPION (U/A)</title>
     </programme>
     <programme start="20260111230000 +0000" stop="20260112000000 +0000" channel="Kalaignar TV.starhub">
         <title>Songs</title>
@@ -7033,11 +7033,8 @@
     <programme start="20260111203000 +0000" stop="20260111210000 +0000" channel="COLORS.starhub">
         <title>Noyontara</title>
     </programme>
-    <programme start="20260111210000 +0000" stop="20260111213000 +0000" channel="COLORS.starhub">
+    <programme start="20260111210000 +0000" stop="20260111220000 +0000" channel="COLORS.starhub">
         <title>Naagin</title>
-    </programme>
-    <programme start="20260111213000 +0000" stop="20260111220000 +0000" channel="COLORS.starhub">
-        <title>Megha Barsenge</title>
     </programme>
     <programme start="20260111220000 +0000" stop="20260111223000 +0000" channel="COLORS.starhub">
         <title>Noyontara</title>
@@ -7702,13 +7699,13 @@
     <programme start="20260111133000 +0000" stop="20260111163000 +0000" channel="Asianet Movies.starhub">
         <title>Rasathanthram</title>
     </programme>
-    <programme start="20260111163000 +0000" stop="20260111193000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260111163000 +0000" stop="20260111191000 +0000" channel="Asianet Movies.starhub">
         <title>Ennum Eppozhum</title>
     </programme>
-    <programme start="20260111193000 +0000" stop="20260111213000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260111191000 +0000" stop="20260111213000 +0000" channel="Asianet Movies.starhub">
         <title>Monayi Angane Aanayi</title>
     </programme>
-    <programme start="20260111213000 +0000" stop="20260111233000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260111213000 +0000" stop="20260111232000 +0000" channel="Asianet Movies.starhub">
         <title>Jananam 1947 Pranayam Thudarunnu</title>
     </programme>
     <programme start="20260111232000 +0000" stop="20260112013000 +0000" channel="Asianet Movies.starhub">
