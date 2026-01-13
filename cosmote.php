@@ -54,10 +54,6 @@
     <title>Football: FSV Mainz 05 - Samsunspor</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260113100000 +0700" stop="20260113120000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Genoa - Cagliari</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260113120000 +0700" stop="20260113141000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Panetolikos - PAOK</title>
     <desc>Live: Tidak</desc>
@@ -114,12 +110,8 @@
     <title>Football: Hellas Verona - SS Lazio</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260113083000 +0700" stop="20260113112000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Wrexham  - Nottingham F.</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260113112000 +0700" stop="20260113113500 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Sports Highlights</title>
+<programme start="20260114120000 +0700" stop="20260114141000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: OFI - Asteras Aktor</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260113113500 +0700" stop="20260113120500 +0700" channel="COSMOTE Sport 3 HD">
@@ -326,8 +318,8 @@
     <title>DTM 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260113110000 +0700" stop="20260113120000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>ATP 2025 - Review</title>
+<programme start="20260114122000 +0700" stop="20260114135500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>DTM 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260113120000 +0700" stop="20260113143000 +0700" channel="COSMOTE Sport 6 HD">
@@ -500,14 +492,6 @@
 </programme>
 <programme start="20260114110000 +0700" stop="20260114130000 +0700" channel="COSMOTE Sport 8 HD">
     <title>COSMOTESport8HD</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260113080000 +0700" stop="20260113113000 +0700" channel="COSMOTE Sport 9 HD">
-    <title>American Football: 2026 NFL Playoffs (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20260113113000 +0700" stop="20260113120000 +0700" channel="COSMOTE Sport 9 HD">
-    <title>COSMOTESport9HD</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260113120000 +0700" stop="20260113130000 +0700" channel="COSMOTE Sport 9 HD">

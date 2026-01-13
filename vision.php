@@ -256,10 +256,13 @@
 <programme start="20260113003000 +0000" stop="20260113010000 +0000" channel="iNews.vision">
 <title>Morning Update</title>
 </programme>
-<programme start="20260113010000 +0000" stop="20260113021500 +0000" channel="iNews.vision">
+<programme start="20260113010000 +0000" stop="20260113020000 +0000" channel="iNews.vision">
 <title>Lapor Polisi (L)</title>
 </programme>
-<programme start="20260113021500 +0000" stop="20260113040000 +0000" channel="iNews.vision">
+<programme start="20260113020000 +0000" stop="20260113030000 +0000" channel="iNews.vision">
+<title>iBreak: Pertamina</title>
+</programme>
+<programme start="20260113030000 +0000" stop="20260113040000 +0000" channel="iNews.vision">
 <title>iNews Today (L)</title>
 </programme>
 <programme start="20260113040000 +0000" stop="20260113060000 +0000" channel="iNews.vision">
@@ -1390,13 +1393,13 @@
 <programme start="20260113014500 +0000" stop="20260113023000 +0000" channel="BTV.vision">
 <title>Masak Ala Devina Hermawan</title>
 </programme>
-<programme start="20260113023000 +0000" stop="20260113033000 +0000" channel="BTV.vision">
+<programme start="20260113023000 +0000" stop="20260113025500 +0000" channel="BTV.vision">
 <title>Investor Market Today</title>
 </programme>
-<programme start="20260113033000 +0000" stop="20260113040000 +0000" channel="BTV.vision">
-<title>Berita Kriminal</title>
+<programme start="20260113025500 +0000" stop="20260113040700 +0000" channel="BTV.vision">
+<title>Pertamina</title>
 </programme>
-<programme start="20260113040000 +0000" stop="20260113060000 +0000" channel="BTV.vision">
+<programme start="20260113040700 +0000" stop="20260113060000 +0000" channel="BTV.vision">
 <title>Berita Satu Siang</title>
 </programme>
 <programme start="20260113060000 +0000" stop="20260113073000 +0000" channel="BTV.vision">
@@ -1493,8 +1496,5 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260113010000 +0000" stop="20260113030000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260113030000 +0000" stop="20260113050000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>

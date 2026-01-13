@@ -416,10 +416,10 @@
     <title>Senandung Cinta Lilis</title>
 </programme>
 <programme start="20260113131500 +0000" stop="20260113151500 +0000" channel="ANTV.mncvision">
-    <title>Pendekar Jagad Kelana</title>
+    <title>Jin Galunggung</title>
 </programme>
 <programme start="20260113151500 +0000" stop="20260113154500 +0000" channel="ANTV.mncvision">
-    <title>Saya Duluan Dong</title>
+    <title>Salah Masuk</title>
 </programme>
 <programme start="20260112170000 +0000" stop="20260112173000 +0000" channel="Arirang.mncvision">
     <title>K-Culture Dive</title>
@@ -9145,13 +9145,13 @@
 <programme start="20260113061000 +0000" stop="20260113080000 +0000" channel="tvN.mncvision">
     <title>3 Meals A Day: Light, Ep 8</title>
 </programme>
-<programme start="20260113080000 +0000" stop="20260113092500 +0000" channel="tvN.mncvision">
+<programme start="20260113080000 +0000" stop="20260113092000 +0000" channel="tvN.mncvision">
     <title>Country Life Of Gen-Z, Ep 7</title>
 </programme>
-<programme start="20260113092500 +0000" stop="20260113111500 +0000" channel="tvN.mncvision">
+<programme start="20260113092000 +0000" stop="20260113112500 +0000" channel="tvN.mncvision">
     <title>Reply 1988 10th Anniv., Ep 3</title>
 </programme>
-<programme start="20260113111500 +0000" stop="20260113131500 +0000" channel="tvN.mncvision">
+<programme start="20260113112500 +0000" stop="20260113131500 +0000" channel="tvN.mncvision">
     <title>Sixth Sense: City... S2, Ep 10</title>
 </programme>
 <programme start="20260113131500 +0000" stop="20260113143000 +0000" channel="tvN.mncvision">
@@ -9202,13 +9202,13 @@
 <programme start="20260113061000 +0000" stop="20260113080000 +0000" channel="tvN HD.mncvision">
     <title>3 Meals A Day: Light, Ep 8</title>
 </programme>
-<programme start="20260113080000 +0000" stop="20260113092500 +0000" channel="tvN HD.mncvision">
+<programme start="20260113080000 +0000" stop="20260113092000 +0000" channel="tvN HD.mncvision">
     <title>Country Life Of Gen-Z, Ep 7</title>
 </programme>
-<programme start="20260113092500 +0000" stop="20260113111500 +0000" channel="tvN HD.mncvision">
+<programme start="20260113092000 +0000" stop="20260113112500 +0000" channel="tvN HD.mncvision">
     <title>Reply 1988 10th Anniv., Ep 3</title>
 </programme>
-<programme start="20260113111500 +0000" stop="20260113131500 +0000" channel="tvN HD.mncvision">
+<programme start="20260113112500 +0000" stop="20260113131500 +0000" channel="tvN HD.mncvision">
     <title>Sixth Sense: City... S2, Ep 10</title>
 </programme>
 <programme start="20260113131500 +0000" stop="20260113143000 +0000" channel="tvN HD.mncvision">

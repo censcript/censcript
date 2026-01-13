@@ -2089,8 +2089,11 @@
     <programme start="20260112200000 +0000" stop="20260112210000 +0000" channel="CNN HD.starhub">
         <title>What We Know with Max Foster</title>
     </programme>
-    <programme start="20260112210000 +0000" stop="20260112223000 +0000" channel="CNN HD.starhub">
+    <programme start="20260112210000 +0000" stop="20260112220000 +0000" channel="CNN HD.starhub">
         <title>Quest Means Business (45m)</title>
+    </programme>
+    <programme start="20260112220000 +0000" stop="20260112230000 +0000" channel="CNN HD.starhub">
+        <title>The Lead with Jake Tapper</title>
     </programme>
     <programme start="20260112230000 +0000" stop="20260113000000 +0000" channel="CNN HD.starhub">
         <title>The Brief with Jim Sciutto</title>
