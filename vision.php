@@ -256,13 +256,10 @@
 <programme start="20260113003000 +0000" stop="20260113010000 +0000" channel="iNews.vision">
 <title>Morning Update</title>
 </programme>
-<programme start="20260113010000 +0000" stop="20260113020000 +0000" channel="iNews.vision">
+<programme start="20260113010000 +0000" stop="20260113021500 +0000" channel="iNews.vision">
 <title>Lapor Polisi (L)</title>
 </programme>
-<programme start="20260113020000 +0000" stop="20260113030000 +0000" channel="iNews.vision">
-<title>iBreak: Pertamina</title>
-</programme>
-<programme start="20260113030000 +0000" stop="20260113040000 +0000" channel="iNews.vision">
+<programme start="20260113021500 +0000" stop="20260113040000 +0000" channel="iNews.vision">
 <title>iNews Today (L)</title>
 </programme>
 <programme start="20260113040000 +0000" stop="20260113060000 +0000" channel="iNews.vision">
@@ -691,6 +688,9 @@
 <programme start="20260113010000 +0000" stop="20260113023000 +0000" channel="ANTV.vision">
 <title>Catatan Hati</title>
 </programme>
+<programme start="20260113023000 +0000" stop="20260113060000 +0000" channel="ANTV.vision">
+<title>Mujhse Dosti Karoge</title>
+</programme>
 <programme start="20260113060000 +0000" stop="20260113083000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -700,11 +700,14 @@
 <programme start="20260113100000 +0000" stop="20260113114500 +0000" channel="ANTV.vision">
 <title>Shani</title>
 </programme>
-<programme start="20260114114500 +0000" stop="20260114131500 +0000" channel="ANTV.vision">
+<programme start="20260113114500 +0000" stop="20260113131500 +0000" channel="ANTV.vision">
 <title>Senandung Cinta Lilis</title>
 </programme>
 <programme start="20260113131500 +0000" stop="20260113151500 +0000" channel="ANTV.vision">
 <title>Pendekar Jagad Kelana</title>
+</programme>
+<programme start="20260113151500 +0000" stop="20260113171500 +0000" channel="ANTV.vision">
+<title>Saya Duluan Dong</title>
 </programme>
 <programme start="20260113171500 +0000" stop="20260113193000 +0000" channel="ANTV.vision">
 <title>Pasukan Berani Mati</title>
@@ -718,19 +721,22 @@
 <programme start="20260113230000 +0000" stop="20260114010000 +0000" channel="ANTV.vision">
 <title>Saur Sepuh: Satria Madangkara</title>
 </programme>
+<programme start="20260114010000 +0000" stop="20260114023000 +0000" channel="ANTV.vision">
+<title>Catatan Hati</title>
+</programme>
 <programme start="20260114023000 +0000" stop="20260114060000 +0000" channel="ANTV.vision">
 <title>Dhoom</title>
 </programme>
 <programme start="20260114060000 +0000" stop="20260114083000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
-<programme start="20260115083000 +0000" stop="20260115100000 +0000" channel="ANTV.vision">
+<programme start="20260114083000 +0000" stop="20260114100000 +0000" channel="ANTV.vision">
 <title>Vasudha</title>
 </programme>
-<programme start="20260115100000 +0000" stop="20260115114500 +0000" channel="ANTV.vision">
+<programme start="20260114100000 +0000" stop="20260114114500 +0000" channel="ANTV.vision">
 <title>Shani</title>
 </programme>
-<programme start="20260115114500 +0000" stop="20260115131500 +0000" channel="ANTV.vision">
+<programme start="20260114114500 +0000" stop="20260114131500 +0000" channel="ANTV.vision">
 <title>Senandung Cinta Lilis</title>
 </programme>
 <programme start="20260112230000 +0000" stop="20260113010000 +0000" channel="RTV.vision">
@@ -1384,13 +1390,13 @@
 <programme start="20260113014500 +0000" stop="20260113023000 +0000" channel="BTV.vision">
 <title>Masak Ala Devina Hermawan</title>
 </programme>
-<programme start="20260113023000 +0000" stop="20260113025500 +0000" channel="BTV.vision">
+<programme start="20260113023000 +0000" stop="20260113033000 +0000" channel="BTV.vision">
 <title>Investor Market Today</title>
 </programme>
-<programme start="20260113025500 +0000" stop="20260113040700 +0000" channel="BTV.vision">
-<title>Pertamina</title>
+<programme start="20260113033000 +0000" stop="20260113040000 +0000" channel="BTV.vision">
+<title>Berita Kriminal</title>
 </programme>
-<programme start="20260113040700 +0000" stop="20260113060000 +0000" channel="BTV.vision">
+<programme start="20260113040000 +0000" stop="20260113060000 +0000" channel="BTV.vision">
 <title>Berita Satu Siang</title>
 </programme>
 <programme start="20260113060000 +0000" stop="20260113073000 +0000" channel="BTV.vision">
