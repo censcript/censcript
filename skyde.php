@@ -2732,13 +2732,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260113184000 +0000" stop="20260113190000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Es folgt: Live Bundesliga</title>
 </programme>
-<programme start="20260113190000 +0000" stop="20260113223000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+<programme start="20260113190000 +0000" stop="20260113220000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Live BL: Borussia Dortmund - Werder Bremen, 17. Spieltag</title>
 </programme>
 <programme start="20260113184000 +0000" stop="20260113190000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Es folgt: Live Bundesliga</title>
 </programme>
-<programme start="20260113190000 +0000" stop="20260113223000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
+<programme start="20260113190000 +0000" stop="20260113220000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live BL: Hamburger SV - Bayer Leverkusen, 17. Spieltag</title>
 </programme>
 <programme start="20260113184000 +0000" stop="20260113190000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
@@ -2756,7 +2756,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260113161000 +0000" stop="20260113163000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
     <title>Es folgt: Live Bundesliga</title>
 </programme>
-<programme start="20260113163000 +0000" stop="20260113210000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
+<programme start="20260113163000 +0000" stop="20260113194500 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
     <title>Live BL: VfB Stuttgart - Eintracht Frankfurt, 17. Spieltag</title>
 </programme>
 <programme start="20260112230000 +0000" stop="20260113000000 +0000" channel="Sky Sport F1 HD.skyde">
@@ -3093,7 +3093,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>PL: 90in30: FUL - CHE, 21. Spieltag</title>
 </programme>
 <programme start="20260112233000 +0000" stop="20260113003000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>United Cup: Review 2026</title>
+    <title>ATP Finals: Review Turin 2025</title>
 </programme>
 <programme start="20260113003000 +0000" stop="20260113120000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP &amp; WTA: Konferenz Adelaide International in Adelaide (AUS), 2. Tag</title>
