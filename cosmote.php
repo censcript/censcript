@@ -66,6 +66,10 @@
     <title>Greek Cup Time (L)</title>
     <desc>Live: Ya</desc>
 </programme>
+<programme start="20260115044500 +0700" stop="20260115070000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: Panathinaikos - Aris</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260114023000 +0700" stop="20260114043000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: ACF Fiorentina - AC Milan</title>
     <desc>Live: Tidak</desc>
@@ -206,6 +210,10 @@
     <title>Football: Falkirk - Celtic FC (L)</title>
     <desc>Live: Ya</desc>
 </programme>
+<programme start="20260115044500 +0700" stop="20260115050000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Sports Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260114023000 +0700" stop="20260114041500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Pick n&#039; Roll (L)</title>
     <desc>Live: Ya</desc>
@@ -264,10 +272,6 @@
 </programme>
 <programme start="20260115023500 +0700" stop="20260115050500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Milwaukee Bucks - Minnesota Timberwolves</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260114023000 +0700" stop="20260114033000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Highlights: Moto2 &amp; Moto3 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260114033000 +0700" stop="20260114042500 +0700" channel="COSMOTE Sport 5 HD">
@@ -361,6 +365,10 @@
 <programme start="20260115024500 +0700" stop="20260115044500 +0700" channel="COSMOTE Sport 5 HD">
     <title>Football: FC Internazionale Milano - Lecce (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20260115044500 +0700" stop="20260115055500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>MotoGP Classics</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260114020000 +0700" stop="20260114043000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Stefanos Tsitsipas - Aleksandar Vukic</title>
