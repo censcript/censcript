@@ -266,10 +266,6 @@
     <title>Basketball: Szolnoki Olaj - Trieste</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260114042500 +0700" stop="20260114052000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>MotoGP Classics</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260114052000 +0700" stop="20260114062000 +0700" channel="COSMOTE Sport 5 HD">
     <title>MotoGP Classics</title>
     <desc>Live: Tidak</desc>
@@ -360,10 +356,6 @@
 </programme>
 <programme start="20260115055500 +0700" stop="20260115071500 +0700" channel="COSMOTE Sport 5 HD">
     <title>DTM 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260114050000 +0700" stop="20260114060000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>ATP 2025 - Review</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260114060000 +0700" stop="20260114093000 +0700" channel="COSMOTE Sport 6 HD">

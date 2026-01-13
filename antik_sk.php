@@ -1162,40 +1162,40 @@
   <programme start="20260115221000 +0000" stop="20260116003000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Volejbal Slovenský pohár ženy</title>
   </programme>
-  <programme start="20260114213000 +0000" stop="20260115000500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260114204000 +0000" stop="20260114231000 +0000" channel="JOJ Šport 2.webtv.sk">
+    <title lang="id">Portugalský pohár</title>
+  </programme>
+  <programme start="20260114231000 +0000" stop="20260115012500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Spengler Cup</title>
   </programme>
-  <programme start="20260115000500 +0000" stop="20260115030500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260115012500 +0000" stop="20260115034000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Spengler Cup</title>
   </programme>
-  <programme start="20260115030500 +0000" stop="20260115060500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260115034000 +0000" stop="20260115055000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Atletika - Diamantová liga</title>
   </programme>
-  <programme start="20260115060500 +0000" stop="20260115080500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260115055000 +0000" stop="20260115075000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Frisbee</title>
   </programme>
-  <programme start="20260115080500 +0000" stop="20260115092500 +0000" channel="JOJ Šport 2.webtv.sk">
-    <title lang="id">Padel - Majstrovstvá Slovenska 2025</title>
+  <programme start="20260115075000 +0000" stop="20260115102000 +0000" channel="JOJ Šport 2.webtv.sk">
+    <title lang="id">Portugalský pohár</title>
   </programme>
-  <programme start="20260115092500 +0000" stop="20260115120000 +0000" channel="JOJ Šport 2.webtv.sk">
-    <title lang="id">Volejbal Slovenský pohár ženy</title>
+  <programme start="20260115102000 +0000" stop="20260115121000 +0000" channel="JOJ Šport 2.webtv.sk">
+    <title lang="id">IIHF MS ženy U18</title>
   </programme>
-  <programme start="20260115120000 +0000" stop="20260115155000 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260115121000 +0000" stop="20260115143000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Hokej - Tipos SHL</title>
   </programme>
-  <programme start="20260115155000 +0000" stop="20260115165000 +0000" channel="JOJ Šport 2.webtv.sk">
-    <title lang="id">Hokej - Tipos SHL</title>
+  <programme start="20260115143000 +0000" stop="20260115165000 +0000" channel="JOJ Šport 2.webtv.sk">
+    <title lang="id">Volejbal CEV Liga Majstrov ženy</title>
   </programme>
-  <programme start="20260115165000 +0000" stop="20260115183500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260115165000 +0000" stop="20260115192000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Hádzaná - EHF Euro 2026</title>
   </programme>
-  <programme start="20260115183500 +0000" stop="20260115192500 +0000" channel="JOJ Šport 2.webtv.sk">
-    <title lang="id">FIS Skoky na lyžiach</title>
-  </programme>
-  <programme start="20260115192500 +0000" stop="20260115215500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260115192000 +0000" stop="20260115215000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Hádzaná - EHF Euro 2026</title>
   </programme>
-  <programme start="20260115215500 +0000" stop="20260116003500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260115215000 +0000" stop="20260116003000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Spengler Cup</title>
   </programme>
   <programme start="20260114225500 +0000" stop="20260114235500 +0000" channel="WAU.webtv.sk">
@@ -17836,7 +17836,7 @@
   <programme start="20260115223000 +0000" stop="20260115225800 +0000" channel="NHK World Japan.webtv.sk">
     <title lang="id">Japan Railway Journal</title>
   </programme>
-  <programme start="20260115225800 +0000" stop="20260116015800 +0000" channel="NHK World Japan.webtv.sk">
+  <programme start="20260115225800 +0000" stop="20260115230000 +0000" channel="NHK World Japan.webtv.sk">
     <title lang="id">INFO</title>
   </programme>
   <programme start="20260114230000 +0000" stop="20260114232000 +0000" channel="Arirang TV.webtv.sk">
