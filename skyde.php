@@ -2756,7 +2756,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260113161000 +0000" stop="20260113163000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
     <title>Es folgt: Live Bundesliga</title>
 </programme>
-<programme start="20260113163000 +0000" stop="20260113210000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
+<programme start="20260113163000 +0000" stop="20260113194500 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
     <title>Live BL: VfB Stuttgart - Eintracht Frankfurt, 17. Spieltag</title>
 </programme>
 <programme start="20260112230000 +0000" stop="20260113000000 +0000" channel="Sky Sport F1 HD.skyde">
@@ -3203,7 +3203,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260113003000 +0000" stop="20260113030000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Boston Celtics @ Indiana Pacers</title>
 </programme>
-<programme start="20260113030000 +0000" stop="20260113040000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260113030000 +0000" stop="20260113090000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime - Post Show</title>
 </programme>
 <programme start="20260112230500 +0000" stop="20260112235000 +0000" channel="SYFY HD.skyde">
