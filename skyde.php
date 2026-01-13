@@ -2312,108 +2312,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260113224500 +0000" stop="20260113234000 +0000" channel="Sky Nature HD.skyde">
     <title>Planet Hai</title>
 </programme>
-<programme start="20260112230000 +0000" stop="20260112234500 +0000" channel="Sky One HD.skyde">
-    <title>Navy CIS</title>
-</programme>
-<programme start="20260112234500 +0000" stop="20260113002500 +0000" channel="Sky One HD.skyde">
-    <title>The Equalizer</title>
-</programme>
-<programme start="20260113002500 +0000" stop="20260113011000 +0000" channel="Sky One HD.skyde">
-    <title>The Equalizer</title>
-</programme>
-<programme start="20260113011000 +0000" stop="20260113013000 +0000" channel="Sky One HD.skyde">
-    <title>Home Economics</title>
-</programme>
-<programme start="20260113013000 +0000" stop="20260113015000 +0000" channel="Sky One HD.skyde">
-    <title>Home Economics</title>
-</programme>
-<programme start="20260113015000 +0000" stop="20260113023000 +0000" channel="Sky One HD.skyde">
-    <title>Magnum P.I.</title>
-</programme>
-<programme start="20260113023000 +0000" stop="20260113031500 +0000" channel="Sky One HD.skyde">
-    <title>Magnum P.I.</title>
-</programme>
-<programme start="20260113031500 +0000" stop="20260113035500 +0000" channel="Sky One HD.skyde">
-    <title>Magnum P.I.</title>
-</programme>
-<programme start="20260113035500 +0000" stop="20260113041000 +0000" channel="Sky One HD.skyde">
-    <title>Diese Ochsenknechts 4: Cheyenne auf der IFA</title>
-</programme>
-<programme start="20260113041000 +0000" stop="20260113045000 +0000" channel="Sky One HD.skyde">
-    <title>Magnum P.I.</title>
-</programme>
-<programme start="20260113045000 +0000" stop="20260113053500 +0000" channel="Sky One HD.skyde">
-    <title>Magnum P.I.</title>
-</programme>
-<programme start="20260113053500 +0000" stop="20260113062000 +0000" channel="Sky One HD.skyde">
-    <title>Magnum P.I.</title>
-</programme>
-<programme start="20260113062000 +0000" stop="20260113070500 +0000" channel="Sky One HD.skyde">
-    <title>Navy CIS</title>
-</programme>
-<programme start="20260113070500 +0000" stop="20260113075000 +0000" channel="Sky One HD.skyde">
-    <title>Navy CIS</title>
-</programme>
-<programme start="20260113075000 +0000" stop="20260113083500 +0000" channel="Sky One HD.skyde">
-    <title>Navy CIS</title>
-</programme>
-<programme start="20260113083500 +0000" stop="20260113092000 +0000" channel="Sky One HD.skyde">
-    <title>Blue Bloods - Crime Scene New York</title>
-</programme>
-<programme start="20260113092000 +0000" stop="20260113101000 +0000" channel="Sky One HD.skyde">
-    <title>Blue Bloods - Crime Scene New York</title>
-</programme>
-<programme start="20260113101000 +0000" stop="20260113105000 +0000" channel="Sky One HD.skyde">
-    <title>Chicago Fire</title>
-</programme>
-<programme start="20260113105000 +0000" stop="20260113113500 +0000" channel="Sky One HD.skyde">
-    <title>Chicago Fire</title>
-</programme>
-<programme start="20260113113500 +0000" stop="20260113122000 +0000" channel="Sky One HD.skyde">
-    <title>The Rookie</title>
-</programme>
-<programme start="20260113122000 +0000" stop="20260113131000 +0000" channel="Sky One HD.skyde">
-    <title>The Rookie</title>
-</programme>
-<programme start="20260113131000 +0000" stop="20260113135500 +0000" channel="Sky One HD.skyde">
-    <title>The Equalizer</title>
-</programme>
-<programme start="20260113135500 +0000" stop="20260113144000 +0000" channel="Sky One HD.skyde">
-    <title>The Equalizer</title>
-</programme>
-<programme start="20260113144000 +0000" stop="20260113152500 +0000" channel="Sky One HD.skyde">
-    <title>Navy CIS</title>
-</programme>
-<programme start="20260113152500 +0000" stop="20260113161500 +0000" channel="Sky One HD.skyde">
-    <title>Navy CIS</title>
-</programme>
-<programme start="20260113161500 +0000" stop="20260113170000 +0000" channel="Sky One HD.skyde">
-    <title>Navy CIS</title>
-</programme>
-<programme start="20260113170000 +0000" stop="20260113174500 +0000" channel="Sky One HD.skyde">
-    <title>Chicago Fire</title>
-</programme>
-<programme start="20260113174500 +0000" stop="20260113183000 +0000" channel="Sky One HD.skyde">
-    <title>Chicago Fire</title>
-</programme>
-<programme start="20260113183000 +0000" stop="20260113191500 +0000" channel="Sky One HD.skyde">
-    <title>The Rookie</title>
-</programme>
-<programme start="20260113191500 +0000" stop="20260113200000 +0000" channel="Sky One HD.skyde">
-    <title>The Rookie</title>
-</programme>
-<programme start="20260113200000 +0000" stop="20260113204500 +0000" channel="Sky One HD.skyde">
-    <title>Chicago Fire</title>
-</programme>
-<programme start="20260113204500 +0000" stop="20260113212500 +0000" channel="Sky One HD.skyde">
-    <title>Chicago Fire</title>
-</programme>
-<programme start="20260113212500 +0000" stop="20260113221000 +0000" channel="Sky One HD.skyde">
-    <title>Navy CIS</title>
-</programme>
-<programme start="20260113221000 +0000" stop="20260113230000 +0000" channel="Sky One HD.skyde">
-    <title>Navy CIS</title>
-</programme>
 <programme start="20260112233500 +0000" stop="20260113001500 +0000" channel="Sky Replay HD.skyde">
     <title>La Brea</title>
 </programme>
@@ -3092,9 +2990,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260113223000 +0000" stop="20260113230000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: 90in30: FUL - CHE, 21. Spieltag</title>
 </programme>
-<programme start="20260112233000 +0000" stop="20260113003000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP Finals: Review Turin 2025</title>
-</programme>
 <programme start="20260113003000 +0000" stop="20260113120000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP &amp; WTA: Konferenz Adelaide International in Adelaide (AUS), 2. Tag</title>
 </programme>
@@ -3149,10 +3044,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260113152500 +0000" stop="20260113154500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>EFL: Highlights, 26. Spieltag</title>
 </programme>
-<programme start="20260113154500 +0000" stop="20260113161500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260113154500 +0000" stop="20260113161000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>BL: 90in30: B04 - VFB. 16. Spieltag</title>
 </programme>
-<programme start="20260113161500 +0000" stop="20260113163000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260113161000 +0000" stop="20260113163000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>BL: Torparade 16. Spieltag</title>
 </programme>
 <programme start="20260113163000 +0000" stop="20260113192500 +0000" channel="Sky Sport Top Event HD.skyde">
