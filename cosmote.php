@@ -130,6 +130,10 @@
     <title>Greek Cup Time (L)</title>
     <desc>Live: Ya</desc>
 </programme>
+<programme start="20260115024500 +0700" stop="20260115031500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Serie A Full Impact 2024-25 E20</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260114003000 +0700" stop="20260114023000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Damak - Al Ittihad (L)</title>
     <desc>Live: Ya</desc>
@@ -198,13 +202,13 @@
     <title>Copa Sudamericana 2025 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260113225500 +0700" stop="20260114012500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Denver Nuggets - Milwaukee Bucks</title>
+<programme start="20260115021500 +0700" stop="20260115024500 +0700" channel="COSMOTE Sport 3 HD">
+    <title>William Hill Scottish Premiership - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260114012500 +0700" stop="20260114015500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>NBA Specials</title>
-    <desc>Live: Tidak</desc>
+<programme start="20260115024500 +0700" stop="20260115044500 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Falkirk - Celtic FC (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260114015500 +0700" stop="20260114023000 +0700" channel="COSMOTE Sport 4 HD">
     <title>NBA Action 2025-26 E3512</title>
@@ -262,9 +266,13 @@
     <title>Basketball: Tofas - Cholet (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260113233000 +0700" stop="20260114013000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Basketball: Szolnoki Olaj - Trieste (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20260115021000 +0700" stop="20260115023500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>ACB Liga Endesa 2025-26 - Fifth Quarter E14</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260115023500 +0700" stop="20260115050500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Milwaukee Bucks - Minnesota Timberwolves</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260114013000 +0700" stop="20260114023000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Moto-E World Championship 2025</title>
@@ -358,9 +366,13 @@
     <title>Football: SSC Napoli - Parma (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260114010000 +0700" stop="20260114020000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Sports Classics: 2025 Outdoor Specials</title>
+<programme start="20260115023000 +0700" stop="20260115024500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Sports Highlights</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260115024500 +0700" stop="20260115044500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Football: FC Internazionale Milano - Lecce (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260114020000 +0700" stop="20260114043000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Stefanos Tsitsipas - Aleksandar Vukic</title>
@@ -481,6 +493,10 @@
 <programme start="20260115003000 +0700" stop="20260115023000 +0700" channel="COSMOTE Sport 7 HD">
     <title>Football: Al Ahli - Al Taawon (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20260115023000 +0700" stop="20260115030000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260114010000 +0700" stop="20260114030000 +0700" channel="COSMOTE Sport 8 HD">
     <title>COSMOTESport8HD</title>
