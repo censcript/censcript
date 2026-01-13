@@ -7313,7 +7313,7 @@
         <title>BBC News</title>
     </programme>
     <programme start="20260113003000 +0000" stop="20260113010000 +0000" channel="BBC World News HD.starhub">
-        <title>Newscast</title>
+        <title>I Was There: Inside the Salisbury Poisonings</title>
     </programme>
     <programme start="20260113010000 +0000" stop="20260113013000 +0000" channel="BBC World News HD.starhub">
         <title>BBC News</title>
@@ -7858,16 +7858,19 @@
     <programme start="20260112233000 +0000" stop="20260113013000 +0000" channel="Asianet Movies.starhub">
         <title>Karutha Pakshikal</title>
     </programme>
-    <programme start="20260113013000 +0000" stop="20260113043000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260113013000 +0000" stop="20260113015500 +0000" channel="Asianet Movies.starhub">
+        <title>Chirikkum Thalika</title>
+    </programme>
+    <programme start="20260113015500 +0000" stop="20260113043500 +0000" channel="Asianet Movies.starhub">
         <title>Masters</title>
     </programme>
-    <programme start="20260113043000 +0000" stop="20260113073000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260113043500 +0000" stop="20260113074000 +0000" channel="Asianet Movies.starhub">
         <title>Natturajavu</title>
     </programme>
-    <programme start="20260113073000 +0000" stop="20260113103000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260113074000 +0000" stop="20260113103500 +0000" channel="Asianet Movies.starhub">
         <title>Kantara</title>
     </programme>
-    <programme start="20260113103000 +0000" stop="20260113133000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260113103500 +0000" stop="20260113133000 +0000" channel="Asianet Movies.starhub">
         <title>Manjummel Boys</title>
     </programme>
     <programme start="20260113133000 +0000" stop="20260113163000 +0000" channel="Asianet Movies.starhub">
