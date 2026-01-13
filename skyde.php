@@ -638,10 +638,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260113090000 +0000" stop="20260113090500 +0000" channel="Cartoonito.skyde">
     <title>Lamput</title>
 </programme>
-<programme start="20260113090500 +0000" stop="20260113091000 +0000" channel="Cartoonito.skyde">
+<programme start="20260113090500 +0000" stop="20260113091500 +0000" channel="Cartoonito.skyde">
     <title>Lamput</title>
 </programme>
-<programme start="20260113091000 +0000" stop="20260113092500 +0000" channel="Cartoonito.skyde">
+<programme start="20260113091500 +0000" stop="20260113092500 +0000" channel="Cartoonito.skyde">
     <title>Lamput</title>
 </programme>
 <programme start="20260113092500 +0000" stop="20260113093000 +0000" channel="Cartoonito.skyde">
@@ -650,10 +650,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260113093000 +0000" stop="20260113094000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20260113094000 +0000" stop="20260113095000 +0000" channel="Cartoonito.skyde">
+<programme start="20260113094000 +0000" stop="20260113095500 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20260113095000 +0000" stop="20260113100000 +0000" channel="Cartoonito.skyde">
+<programme start="20260113095500 +0000" stop="20260113100000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
 <programme start="20260113100000 +0000" stop="20260113100500 +0000" channel="Cartoonito.skyde">
@@ -662,10 +662,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260113100500 +0000" stop="20260113102000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20260113102000 +0000" stop="20260113102500 +0000" channel="Cartoonito.skyde">
+<programme start="20260113102000 +0000" stop="20260113103000 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
-<programme start="20260113102500 +0000" stop="20260113103500 +0000" channel="Cartoonito.skyde">
+<programme start="20260113103000 +0000" stop="20260113103500 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
 <programme start="20260113103500 +0000" stop="20260113105000 +0000" channel="Cartoonito.skyde">
@@ -674,16 +674,16 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260113105000 +0000" stop="20260113105500 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
-<programme start="20260113105500 +0000" stop="20260113110000 +0000" channel="Cartoonito.skyde">
+<programme start="20260113105500 +0000" stop="20260113110500 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
-<programme start="20260113110000 +0000" stop="20260113111500 +0000" channel="Cartoonito.skyde">
+<programme start="20260113110500 +0000" stop="20260113111500 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
-<programme start="20260113111500 +0000" stop="20260113112500 +0000" channel="Cartoonito.skyde">
+<programme start="20260113111500 +0000" stop="20260113113000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20260113112500 +0000" stop="20260113114500 +0000" channel="Cartoonito.skyde">
+<programme start="20260113113000 +0000" stop="20260113114500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
 <programme start="20260113114500 +0000" stop="20260113115500 +0000" channel="Cartoonito.skyde">
@@ -761,10 +761,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260113165500 +0000" stop="20260113170000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20260113170000 +0000" stop="20260113171000 +0000" channel="Cartoonito.skyde">
+<programme start="20260113170000 +0000" stop="20260113170500 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20260113171000 +0000" stop="20260113172000 +0000" channel="Cartoonito.skyde">
+<programme start="20260113170500 +0000" stop="20260113172000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
 <programme start="20260113172000 +0000" stop="20260113173000 +0000" channel="Cartoonito.skyde">
@@ -794,10 +794,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260113191000 +0000" stop="20260113192500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20260113192500 +0000" stop="20260113194000 +0000" channel="Cartoonito.skyde">
+<programme start="20260113192500 +0000" stop="20260113193500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20260113194000 +0000" stop="20260113195500 +0000" channel="Cartoonito.skyde">
+<programme start="20260113193500 +0000" stop="20260113195500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
 <programme start="20260113195500 +0000" stop="20260113200500 +0000" channel="Cartoonito.skyde">
@@ -2726,7 +2726,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260113192500 +0000" stop="20260113213000 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: Borussia Dortmund - Werder Bremen, 17. Spieltag</title>
 </programme>
-<programme start="20260113213000 +0000" stop="20260113224500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
+<programme start="20260113213000 +0000" stop="20260113233000 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 17. Spieltag, Dienstag</title>
 </programme>
 <programme start="20260113184000 +0000" stop="20260113190000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
@@ -2744,7 +2744,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260113184000 +0000" stop="20260113190000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Es folgt: Live Bundesliga</title>
 </programme>
-<programme start="20260113190000 +0000" stop="20260113223000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
+<programme start="20260113190000 +0000" stop="20260113220000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live BL: 1. FSV Mainz 05 - 1. FC Heidenheim, 17. Spieltag</title>
 </programme>
 <programme start="20260113184000 +0000" stop="20260113190000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
@@ -2861,14 +2861,8 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260112233000 +0000" stop="20260113000000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: On the Fly</title>
 </programme>
-<programme start="20260113000000 +0000" stop="20260113030000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260113000000 +0000" stop="20260113033000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NHL: Carolina Hurricanes @ Detroit Red Wings</title>
-</programme>
-<programme start="20260113030000 +0000" stop="20260113031500 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>DFB-Pokal: Highlights XXL: Arminia Bielefeld - Werder Bremen, 1. Runde</title>
-</programme>
-<programme start="20260113031500 +0000" stop="20260113033000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>DFB-Pokal: Highlights XXL: FV Illertissen - 1. FC Nürnberg, 1. Runde</title>
 </programme>
 <programme start="20260113033000 +0000" stop="20260113034500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>DFB-Pokal: Highlights XXL: Rot-Weiss Essen - Borussia Dortmund, 1. Runde</title>
@@ -3099,7 +3093,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>PL: 90in30: FUL - CHE, 21. Spieltag</title>
 </programme>
 <programme start="20260112233000 +0000" stop="20260113003000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>United Cup: Review 2026</title>
+    <title>ATP Finals: Review Turin 2025</title>
 </programme>
 <programme start="20260113003000 +0000" stop="20260113120000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP &amp; WTA: Konferenz Adelaide International in Adelaide (AUS), 2. Tag</title>
@@ -3209,7 +3203,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260113003000 +0000" stop="20260113030000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Boston Celtics @ Indiana Pacers</title>
 </programme>
-<programme start="20260113030000 +0000" stop="20260113090000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260113030000 +0000" stop="20260113040000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime - Post Show</title>
 </programme>
 <programme start="20260112230500 +0000" stop="20260112235000 +0000" channel="SYFY HD.skyde">
@@ -3611,7 +3605,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260113191500 +0000" stop="20260113211500 +0000" channel="Warner TV Film.skyde">
     <title>Lethal Weapon 3 - Die Profis sind zurück</title>
 </programme>
-<programme start="20260113211500 +0000" stop="20260113232000 +0000" channel="Warner TV Film.skyde">
+<programme start="20260113211500 +0000" stop="20260113232500 +0000" channel="Warner TV Film.skyde">
     <title>Lethal Weapon 4 - Zwei Profis räumen auf</title>
 </programme>
 <programme start="20260112233500 +0000" stop="20260113010500 +0000" channel="Warner TV Film HD.skyde">
