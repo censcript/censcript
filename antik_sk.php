@@ -593,7 +593,7 @@
     <title lang="id">Dobre vedieť</title>
   </programme>
   <programme start="20260115205000 +0000" stop="20260115221000 +0000" channel="JOJ.webtv.sk">
-    <title lang="id">Hviezdy nad hlavou (2)</title>
+    <title lang="id">Dobre vedieť</title>
   </programme>
   <programme start="20260115221000 +0000" stop="20260115230500 +0000" channel="JOJ.webtv.sk">
     <title lang="id">Delukse I (1)</title>
@@ -740,7 +740,7 @@
     <title lang="id">Dobre vedieť</title>
   </programme>
   <programme start="20260115215000 +0000" stop="20260115231000 +0000" channel="JOJ +1.webtv.sk">
-    <title lang="id">Hviezdy nad hlavou (2)</title>
+    <title lang="id">Dobre vedieť</title>
   </programme>
   <programme start="20260114223500 +0000" stop="20260114232500 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">Komisár Rex I (13)</title>
@@ -910,14 +910,11 @@
   <programme start="20260115184000 +0000" stop="20260115193000 +0000" channel="DajTo.webtv.sk">
     <title lang="id">Susedia III (6)</title>
   </programme>
-  <programme start="20260115193000 +0000" stop="20260115221500 +0000" channel="DajTo.webtv.sk">
+  <programme start="20260115193000 +0000" stop="20260115222000 +0000" channel="DajTo.webtv.sk">
     <title lang="id">Spider-Man: Návrat domov</title>
   </programme>
-  <programme start="20260115221500 +0000" stop="20260115224500 +0000" channel="DajTo.webtv.sk">
-    <title lang="id">2 baby na mizine V (6)</title>
-  </programme>
-  <programme start="20260115224500 +0000" stop="20260115230000 +0000" channel="DajTo.webtv.sk">
-    <title lang="id">Športové noviny</title>
+  <programme start="20260115222000 +0000" stop="20260115231000 +0000" channel="DajTo.webtv.sk">
+    <title lang="id">Susedia III (6)</title>
   </programme>
   <programme start="20260114230000 +0000" stop="20260115000000 +0000" channel="Doma.webtv.sk">
     <title lang="id">Zachránené životy (16)</title>
@@ -1141,11 +1138,11 @@
   <programme start="20260114210000 +0000" stop="20260114233000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Krasokorčuľovanie ME 2026</title>
   </programme>
-  <programme start="20260114233000 +0000" stop="20260115070000 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260114233000 +0000" stop="20260115071000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Tenis - turnaj</title>
   </programme>
-  <programme start="20260115070000 +0000" stop="20260115100000 +0000" channel="JOJ Šport.webtv.sk">
-    <title lang="id">IIHF MS juniorov 2026</title>
+  <programme start="20260115071000 +0000" stop="20260115100000 +0000" channel="JOJ Šport.webtv.sk">
+    <title lang="id">Basketbal - Tipos Extraliga ženy</title>
   </programme>
   <programme start="20260115100000 +0000" stop="20260115115500 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">IIHF MS juniorov 2026</title>
@@ -1666,16 +1663,16 @@
   <programme start="20260115221500 +0000" stop="20260115230000 +0000" channel="JOJ 24.webtv.sk">
     <title lang="id">Štúdio 24</title>
   </programme>
-  <programme start="20260114225500 +0000" stop="20260114235000 +0000" channel="Kanal1.webtv.sk">
+  <programme start="20260114230000 +0000" stop="20260114235500 +0000" channel="Kanal1.webtv.sk">
     <title lang="id">Vyrobené v Taliansku</title>
   </programme>
-  <programme start="20260114235000 +0000" stop="20260115003000 +0000" channel="Kanal1.webtv.sk">
+  <programme start="20260114235500 +0000" stop="20260115003500 +0000" channel="Kanal1.webtv.sk">
     <title lang="id">Téma s Petrom Bielikom</title>
   </programme>
-  <programme start="20260115003000 +0000" stop="20260115012000 +0000" channel="Kanal1.webtv.sk">
+  <programme start="20260115003500 +0000" stop="20260115012500 +0000" channel="Kanal1.webtv.sk">
     <title lang="id">Horúce peklo (1)</title>
   </programme>
-  <programme start="20260115012000 +0000" stop="20260115015000 +0000" channel="Kanal1.webtv.sk">
+  <programme start="20260115012500 +0000" stop="20260115015000 +0000" channel="Kanal1.webtv.sk">
     <title lang="id">Svet z vtáčej perspektívy (10)</title>
   </programme>
   <programme start="20260115015000 +0000" stop="20260115020500 +0000" channel="Kanal1.webtv.sk">
@@ -1694,10 +1691,10 @@
     <title lang="id">Bez zábran</title>
   </programme>
   <programme start="20260115061500 +0000" stop="20260115070500 +0000" channel="Kanal1.webtv.sk">
-    <title lang="id">Vojnové továrne (3)</title>
+    <title lang="id">Vojnové továrne |Tlačová beseda (3)</title>
   </programme>
   <programme start="20260115070500 +0000" stop="20260115080000 +0000" channel="Kanal1.webtv.sk">
-    <title lang="id">Dejiny života na zemi (2)</title>
+    <title lang="id">Dejiny života na zemi |Tlačová beseda (2)</title>
   </programme>
   <programme start="20260115080000 +0000" stop="20260115084000 +0000" channel="Kanal1.webtv.sk">
     <title lang="id">Téma s Petrom Bielikom</title>

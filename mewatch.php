@@ -121,16 +121,16 @@
     <programme start="20260113123000 +0000" stop="20260113130000 +0000" channel="Channel 5.mewatch">
         <title>Malaysia Gourmet With Justine Schofield - EP 2</title>
     </programme>
-    <programme start="20260113130000 +0000" stop="20260113133000 +0000" channel="Channel 5.mewatch">
-        <title>(Live) News Tonight</title>
+    <programme start="20260113130000 +0000" stop="20260113134500 +0000" channel="Channel 5.mewatch">
+        <title>(Live) News Tonight With Highlights From Parliament</title>
     </programme>
-    <programme start="20260113133000 +0000" stop="20260113140000 +0000" channel="Channel 5.mewatch">
+    <programme start="20260113134500 +0000" stop="20260113141500 +0000" channel="Channel 5.mewatch">
         <title>In Search of Heat S2 - EP 3</title>
     </programme>
-    <programme start="20260113140000 +0000" stop="20260113150000 +0000" channel="Channel 5.mewatch">
+    <programme start="20260113141500 +0000" stop="20260113151000 +0000" channel="Channel 5.mewatch">
         <title>The Librarians: The Next Chapter - EP 4</title>
     </programme>
-    <programme start="20260113150000 +0000" stop="20260113160000 +0000" channel="Channel 5.mewatch">
+    <programme start="20260113151000 +0000" stop="20260113160000 +0000" channel="Channel 5.mewatch">
         <title>La Brea S2 - EP 9</title>
     </programme>
     <programme start="20260113160000 +0000" stop="20260113163000 +0000" channel="Channel 5.mewatch">
@@ -247,17 +247,14 @@
     <programme start="20260113130000 +0000" stop="20260113140000 +0000" channel="Channel 8.mewatch">
         <title>The Grind - EP 3</title>
     </programme>
-    <programme start="20260113140000 +0000" stop="20260113143000 +0000" channel="Channel 8.mewatch">
-        <title>(Live) News Tonight</title>
+    <programme start="20260113140000 +0000" stop="20260113144500 +0000" channel="Channel 8.mewatch">
+        <title>(Live) News Tonight With Highlights from Parliament</title>
     </programme>
-    <programme start="20260113143000 +0000" stop="20260113150000 +0000" channel="Channel 8.mewatch">
+    <programme start="20260113144500 +0000" stop="20260113151500 +0000" channel="Channel 8.mewatch">
         <title>The Truth About Health - EP 7</title>
     </programme>
-    <programme start="20260113150000 +0000" stop="20260113160000 +0000" channel="Channel 8.mewatch">
+    <programme start="20260113151500 +0000" stop="20260113161500 +0000" channel="Channel 8.mewatch">
         <title>Love of Nirvana - EP 6</title>
-    </programme>
-    <programme start="20260113160000 +0000" stop="20260113170000 +0000" channel="Channel 8.mewatch">
-        <title>The Land of Warriors - EP 35</title>
     </programme>
     <programme start="20260112154500 +0000" stop="20260112161000 +0000" channel="Channel U.mewatch">
         <title>Sour, Salty &amp; Alive - EP 1</title>
@@ -370,10 +367,10 @@
     <programme start="20260113140000 +0000" stop="20260113150000 +0000" channel="Channel U.mewatch">
         <title>What’s Wrong with Secretary Kim - EP 24</title>
     </programme>
-    <programme start="20260113150000 +0000" stop="20260113153000 +0000" channel="Channel U.mewatch">
-        <title>News Tonight</title>
+    <programme start="20260113150000 +0000" stop="20260113154500 +0000" channel="Channel U.mewatch">
+        <title>News Tonight With Highlights from Parliament</title>
     </programme>
-    <programme start="20260113153000 +0000" stop="20260113163000 +0000" channel="Channel U.mewatch">
+    <programme start="20260113154500 +0000" stop="20260113164000 +0000" channel="Channel U.mewatch">
         <title>Let&#039;s Go Flying - EP 13</title>
     </programme>
     <programme start="20260112160000 +0000" stop="20260113010000 +0000" channel="Suria.mewatch">

@@ -2092,9 +2092,6 @@
     <programme start="20260112210000 +0000" stop="20260112223000 +0000" channel="CNN HD.starhub">
         <title>Quest Means Business (45m)</title>
     </programme>
-    <programme start="20260112223000 +0000" stop="20260112230000 +0000" channel="CNN HD.starhub">
-        <title>World Sport (30m)</title>
-    </programme>
     <programme start="20260112230000 +0000" stop="20260113000000 +0000" channel="CNN HD.starhub">
         <title>The Brief with Jim Sciutto</title>
     </programme>
@@ -2113,20 +2110,17 @@
     <programme start="20260113040000 +0000" stop="20260113050000 +0000" channel="CNN HD.starhub">
         <title>Laura Coates Live</title>
     </programme>
-    <programme start="20260113050000 +0000" stop="20260113064500 +0000" channel="CNN HD.starhub">
+    <programme start="20260113050000 +0000" stop="20260113060000 +0000" channel="CNN HD.starhub">
         <title>The Story Is With Elex Michaelson</title>
     </programme>
-    <programme start="20260113064500 +0000" stop="20260113070000 +0000" channel="CNN HD.starhub">
-        <title>World Sport (15m)</title>
+    <programme start="20260113060000 +0000" stop="20260113070000 +0000" channel="CNN HD.starhub">
+        <title>The Story Is With Elex Michaelson</title>
     </programme>
     <programme start="20260113070000 +0000" stop="20260113080000 +0000" channel="CNN HD.starhub">
         <title>CNN Newsroom (CNNI) (60m)</title>
     </programme>
-    <programme start="20260113080000 +0000" stop="20260113084500 +0000" channel="CNN HD.starhub">
-        <title>CNN Newsroom (CNNI) (45m)</title>
-    </programme>
-    <programme start="20260113084500 +0000" stop="20260113090000 +0000" channel="CNN HD.starhub">
-        <title>World Sport (15m)</title>
+    <programme start="20260113080000 +0000" stop="20260113090000 +0000" channel="CNN HD.starhub">
+        <title>CNN Newsroom (CNNI) (60m)</title>
     </programme>
     <programme start="20260113090000 +0000" stop="20260113100000 +0000" channel="CNN HD.starhub">
         <title>Amanpour</title>
