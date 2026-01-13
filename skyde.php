@@ -2726,13 +2726,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260113192500 +0000" stop="20260113213000 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: Borussia Dortmund - Werder Bremen, 17. Spieltag</title>
 </programme>
-<programme start="20260113213000 +0000" stop="20260113224500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
+<programme start="20260113213000 +0000" stop="20260113233000 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 17. Spieltag, Dienstag</title>
 </programme>
 <programme start="20260113184000 +0000" stop="20260113190000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Es folgt: Live Bundesliga</title>
 </programme>
-<programme start="20260113190000 +0000" stop="20260113220000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+<programme start="20260113190000 +0000" stop="20260113223000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Live BL: Borussia Dortmund - Werder Bremen, 17. Spieltag</title>
 </programme>
 <programme start="20260113184000 +0000" stop="20260113190000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
@@ -2744,19 +2744,19 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260113184000 +0000" stop="20260113190000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Es folgt: Live Bundesliga</title>
 </programme>
-<programme start="20260113190000 +0000" stop="20260113220000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
+<programme start="20260113190000 +0000" stop="20260113223000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live BL: 1. FSV Mainz 05 - 1. FC Heidenheim, 17. Spieltag</title>
 </programme>
 <programme start="20260113184000 +0000" stop="20260113190000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Es folgt: Live Bundesliga</title>
 </programme>
-<programme start="20260113190000 +0000" stop="20260113213000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
+<programme start="20260113190000 +0000" stop="20260113220000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Live BL: Multiview, 17. Spieltag, Dienstag</title>
 </programme>
 <programme start="20260113161000 +0000" stop="20260113163000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
     <title>Es folgt: Live Bundesliga</title>
 </programme>
-<programme start="20260113163000 +0000" stop="20260113194500 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
+<programme start="20260113163000 +0000" stop="20260113210000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
     <title>Live BL: VfB Stuttgart - Eintracht Frankfurt, 17. Spieltag</title>
 </programme>
 <programme start="20260112230000 +0000" stop="20260113000000 +0000" channel="Sky Sport F1 HD.skyde">
@@ -2861,14 +2861,8 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260112233000 +0000" stop="20260113000000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: On the Fly</title>
 </programme>
-<programme start="20260113000000 +0000" stop="20260113030000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260113000000 +0000" stop="20260113033000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NHL: Carolina Hurricanes @ Detroit Red Wings</title>
-</programme>
-<programme start="20260113030000 +0000" stop="20260113031500 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>DFB-Pokal: Highlights XXL: Arminia Bielefeld - Werder Bremen, 1. Runde</title>
-</programme>
-<programme start="20260113031500 +0000" stop="20260113033000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>DFB-Pokal: Highlights XXL: FV Illertissen - 1. FC Nürnberg, 1. Runde</title>
 </programme>
 <programme start="20260113033000 +0000" stop="20260113034500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>DFB-Pokal: Highlights XXL: Rot-Weiss Essen - Borussia Dortmund, 1. Runde</title>
@@ -2942,7 +2936,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260113080000 +0000" stop="20260113090000 +0000" channel="Sky Sport News HD.skyde">
     <title>BL: Glanzparade - Die Show mit Buschmann, Fuss und Wagner</title>
 </programme>
-<programme start="20260113090000 +0000" stop="20260113103000 +0000" channel="Sky Sport News HD.skyde">
+<programme start="20260113090000 +0000" stop="20260113093000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: FCB-PK</title>
+</programme>
+<programme start="20260113093000 +0000" stop="20260113103000 +0000" channel="Sky Sport News HD.skyde">
     <title>Sky Sport News: Der Morgen</title>
 </programme>
 <programme start="20260113103000 +0000" stop="20260113110000 +0000" channel="Sky Sport News HD.skyde">
@@ -2969,14 +2966,20 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260113190000 +0000" stop="20260113193000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live BL: Vorbericht: Borussia Dortmund - Werder Bremen, 17. Spieltag</title>
 </programme>
-<programme start="20260113193000 +0000" stop="20260113210000 +0000" channel="Sky Sport News HD.skyde">
+<programme start="20260113193000 +0000" stop="20260113203000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Guten Abend Fans!</title>
+</programme>
+<programme start="20260113203000 +0000" stop="20260113210000 +0000" channel="Sky Sport News HD.skyde">
+    <title>#GameCHANGERINNEN: Dein Frauensport-Magazin</title>
 </programme>
 <programme start="20260113210000 +0000" stop="20260113213000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Top News</title>
 </programme>
-<programme start="20260113213000 +0000" stop="20260113220000 +0000" channel="Sky Sport News HD.skyde">
-    <title>#GameCHANGERINNEN: Dein Frauensport-Magazin</title>
+<programme start="20260113213000 +0000" stop="20260113214500 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live BL: Kompakt - Alles in 30</title>
+</programme>
+<programme start="20260113214500 +0000" stop="20260113220000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: Guten Abend Fans!</title>
 </programme>
 <programme start="20260113220000 +0000" stop="20260113230000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Late Night News</title>
@@ -3038,7 +3041,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260113123000 +0000" stop="20260113124500 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: Greatest Games: West Ham United - Brighton &amp; Hove Albion (2020)</title>
 </programme>
-<programme start="20260113124500 +0000" stop="20260113131500 +0000" channel="Sky Sport Premier League HD.skyde">
+<programme start="20260113124500 +0000" stop="20260113130500 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>EFL: Highlights, 26. Spieltag</title>
 </programme>
 <programme start="20260113131500 +0000" stop="20260113134500 +0000" channel="Sky Sport Premier League HD.skyde">
@@ -3096,10 +3099,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>ATP Finals: J. Sinner (ITA) - C. Alcaraz (ESP), Finale 2025 in Turin (ITA)</title>
 </programme>
 <programme start="20260113143000 +0000" stop="20260113163000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: Topspiel, Adelaide International in Adelaide (AUS), 2. Tag</title>
+    <title>WTA 500: M. Joint (AUS) - S. Kenin (USA), Adelaide International in Adelaide (AUS), 2. Tag</title>
 </programme>
 <programme start="20260113163000 +0000" stop="20260113183000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 250: Topspiel, Adelaide International in Adelaide (AUS), 2. Tag</title>
+    <title>ATP 250: S. Tsitsipas (GRE) - A. Vukic (AUS), Adelaide International in Adelaide (AUS), 2. Tag</title>
 </programme>
 <programme start="20260113183000 +0000" stop="20260113193000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: Season Review Show 2025</title>
@@ -3108,10 +3111,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>ATP 500: Review München</title>
 </programme>
 <programme start="20260113203000 +0000" stop="20260113223000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: Topspiel, Adelaide International in Adelaide (AUS), 2. Tag</title>
+    <title>WTA 500: M. Joint (AUS) - S. Kenin (USA), Adelaide International in Adelaide (AUS), 2. Tag</title>
 </programme>
 <programme start="20260113223000 +0000" stop="20260114003000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 250: Topspiel, Adelaide International in Adelaide (AUS), 2. Tag</title>
+    <title>ATP 250: S. Tsitsipas (GRE) - A. Vukic (AUS), Adelaide International in Adelaide (AUS), 2. Tag</title>
 </programme>
 <programme start="20260112230000 +0000" stop="20260112233000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>NHL: On the Fly</title>
@@ -3194,7 +3197,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260113003000 +0000" stop="20260113030000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Boston Celtics @ Indiana Pacers</title>
 </programme>
-<programme start="20260113030000 +0000" stop="20260113090000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260113030000 +0000" stop="20260113040000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime - Post Show</title>
 </programme>
 <programme start="20260112230500 +0000" stop="20260112235000 +0000" channel="SYFY HD.skyde">
@@ -3638,7 +3641,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260113191500 +0000" stop="20260113211500 +0000" channel="Warner TV Film HD.skyde">
     <title>Lethal Weapon 3 - Die Profis sind zurück</title>
 </programme>
-<programme start="20260113211500 +0000" stop="20260113232500 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20260113211500 +0000" stop="20260113232000 +0000" channel="Warner TV Film HD.skyde">
     <title>Lethal Weapon 4 - Zwei Profis räumen auf</title>
 </programme>
 <programme start="20260112231000 +0000" stop="20260113004500 +0000" channel="Warner TV Serie HD.skyde">
