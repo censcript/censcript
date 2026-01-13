@@ -1,7 +1,3 @@
-<programme start="20260113132000 +0700" stop="20260113152000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: Ferencvarosi TC - Rangers FC</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260113152000 +0700" stop="20260113162000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Highlights: UEL &amp; UECL 2025-26</title>
     <desc>Live: Tidak</desc>
@@ -118,8 +114,8 @@
     <title>Football: Udinese - Pisa</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260113120500 +0700" stop="20260113153500 +0700" channel="COSMOTE Sport 3 HD">
-    <title>American Football: Chicago Bears - Green Bay Packers</title>
+<programme start="20260114161000 +0700" stop="20260114181000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Hellas Verona - SS Lazio</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260113153500 +0700" stop="20260113173500 +0700" channel="COSMOTE Sport 3 HD">
@@ -168,6 +164,10 @@
 </programme>
 <programme start="20260114143000 +0700" stop="20260114163000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Rio Ave - Casa Pia</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260114163000 +0700" stop="20260114183000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Charlton Athletic  - Chelsea FC</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260113150000 +0700" stop="20260113170000 +0700" channel="COSMOTE Sport 4 HD">
@@ -230,12 +230,8 @@
     <title>Basketball: Andorra - Real Madrid</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260113142500 +0700" stop="20260113151000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260113151000 +0700" stop="20260113155500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC 2025</title>
+<programme start="20260114165000 +0700" stop="20260114192500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Milwaukee Bucks - Minnesota Timberwolves</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260113155500 +0700" stop="20260113165500 +0700" channel="COSMOTE Sport 5 HD">
@@ -323,6 +319,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260114154500 +0700" stop="20260114163000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260114163000 +0700" stop="20260114171000 +0700" channel="COSMOTE Sport 5 HD">
     <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>

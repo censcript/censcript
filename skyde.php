@@ -2744,7 +2744,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260113184000 +0000" stop="20260113190000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Es folgt: Live Bundesliga</title>
 </programme>
-<programme start="20260113190000 +0000" stop="20260113223000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
+<programme start="20260113190000 +0000" stop="20260113220000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live BL: 1. FSV Mainz 05 - 1. FC Heidenheim, 17. Spieltag</title>
 </programme>
 <programme start="20260113184000 +0000" stop="20260113190000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
@@ -2756,7 +2756,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260113161000 +0000" stop="20260113163000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
     <title>Es folgt: Live Bundesliga</title>
 </programme>
-<programme start="20260113163000 +0000" stop="20260113210000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
+<programme start="20260113163000 +0000" stop="20260113194500 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
     <title>Live BL: VfB Stuttgart - Eintracht Frankfurt, 17. Spieltag</title>
 </programme>
 <programme start="20260112230000 +0000" stop="20260113000000 +0000" channel="Sky Sport F1 HD.skyde">
@@ -2861,8 +2861,14 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260112233000 +0000" stop="20260113000000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: On the Fly</title>
 </programme>
-<programme start="20260113000000 +0000" stop="20260113033000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260113000000 +0000" stop="20260113030000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NHL: Carolina Hurricanes @ Detroit Red Wings</title>
+</programme>
+<programme start="20260113030000 +0000" stop="20260113031500 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>DFB-Pokal: Highlights XXL: Arminia Bielefeld - Werder Bremen, 1. Runde</title>
+</programme>
+<programme start="20260113031500 +0000" stop="20260113033000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>DFB-Pokal: Highlights XXL: FV Illertissen - 1. FC Nürnberg, 1. Runde</title>
 </programme>
 <programme start="20260113033000 +0000" stop="20260113034500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>DFB-Pokal: Highlights XXL: Rot-Weiss Essen - Borussia Dortmund, 1. Runde</title>
@@ -3043,9 +3049,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 </programme>
 <programme start="20260113124500 +0000" stop="20260113130500 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>EFL: Highlights, 26. Spieltag</title>
-</programme>
-<programme start="20260113130500 +0000" stop="20260113131500 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Under the Skin (Newcastle United)</title>
 </programme>
 <programme start="20260113131500 +0000" stop="20260113134500 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: PL Stories (Bournemouth - Against All Odds)</title>
@@ -3647,7 +3650,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260113191500 +0000" stop="20260113211500 +0000" channel="Warner TV Film HD.skyde">
     <title>Lethal Weapon 3 - Die Profis sind zurück</title>
 </programme>
-<programme start="20260113211500 +0000" stop="20260113232000 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20260113211500 +0000" stop="20260113232500 +0000" channel="Warner TV Film HD.skyde">
     <title>Lethal Weapon 4 - Zwei Profis räumen auf</title>
 </programme>
 <programme start="20260112231000 +0000" stop="20260113004500 +0000" channel="Warner TV Serie HD.skyde">
