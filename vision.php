@@ -688,8 +688,11 @@
 <programme start="20260114114500 +0000" stop="20260114121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
+<programme start="20260112230000 +0000" stop="20260113010000 +0000" channel="ANTV.vision">
+<title>Rindu Tak Berujung</title>
+</programme>
 <programme start="20260113010000 +0000" stop="20260113023000 +0000" channel="ANTV.vision">
-<title>Catatan Hati</title>
+<title>Baalveer Returns</title>
 </programme>
 <programme start="20260113023000 +0000" stop="20260113060000 +0000" channel="ANTV.vision">
 <title>Mujhse Dosti Karoge</title>
@@ -707,10 +710,10 @@
 <title>Senandung Cinta Lilis</title>
 </programme>
 <programme start="20260113131500 +0000" stop="20260113151500 +0000" channel="ANTV.vision">
-<title>Pendekar Jagad Kelana</title>
+<title>Jin Galunggung</title>
 </programme>
 <programme start="20260113151500 +0000" stop="20260113171500 +0000" channel="ANTV.vision">
-<title>Saya Duluan Dong</title>
+<title>Salah Masuk</title>
 </programme>
 <programme start="20260113171500 +0000" stop="20260113193000 +0000" channel="ANTV.vision">
 <title>Pasukan Berani Mati</title>
@@ -719,16 +722,16 @@
 <title>Coppa Italia</title>
 </programme>
 <programme start="20260113220000 +0000" stop="20260113230000 +0000" channel="ANTV.vision">
-<title>Sword Man</title>
+<title>Magnificent Warriors</title>
 </programme>
 <programme start="20260113230000 +0000" stop="20260114010000 +0000" channel="ANTV.vision">
-<title>Saur Sepuh: Satria Madangkara</title>
+<title>Rindu Tak Berujung</title>
 </programme>
 <programme start="20260114010000 +0000" stop="20260114023000 +0000" channel="ANTV.vision">
-<title>Catatan Hati</title>
+<title>Baalveer Returns</title>
 </programme>
 <programme start="20260114023000 +0000" stop="20260114060000 +0000" channel="ANTV.vision">
-<title>Dhoom</title>
+<title>Hanu Man</title>
 </programme>
 <programme start="20260114060000 +0000" stop="20260114083000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
@@ -1493,8 +1496,5 @@
 <title>Berita Satu Utama</title>
 </programme>
 <programme start="20260112230000 +0000" stop="20260113010000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260113010000 +0000" stop="20260113030000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>

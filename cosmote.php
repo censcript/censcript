@@ -110,8 +110,8 @@
     <title>Football: Hellas Verona - SS Lazio</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260113153500 +0700" stop="20260113173500 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Gil Vicente - Sporting CP</title>
+<programme start="20260114181000 +0700" stop="20260114202500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Panathinaikos - Panserraikos</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260113173500 +0700" stop="20260113193500 +0700" channel="COSMOTE Sport 3 HD">
@@ -160,6 +160,10 @@
 </programme>
 <programme start="20260114163000 +0700" stop="20260114183000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Charlton Athletic  - Chelsea FC</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260114183000 +0700" stop="20260114203000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Manchester City FC - Exeter City</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260113170000 +0700" stop="20260113193000 +0700" channel="COSMOTE Sport 4 HD">
@@ -220,10 +224,6 @@
 </programme>
 <programme start="20260114165000 +0700" stop="20260114192500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Milwaukee Bucks - Minnesota Timberwolves</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260113165500 +0700" stop="20260113175500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260113175500 +0700" stop="20260113185500 +0700" channel="COSMOTE Sport 5 HD">
@@ -318,14 +318,6 @@
     <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260113150000 +0700" stop="20260113173000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: Stefanos Tsitsipas - Aleksandar Vukic (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20260113173000 +0700" stop="20260113180000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Watersports: Inside Sailing E12</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260113180000 +0700" stop="20260113190000 +0700" channel="COSMOTE Sport 6 HD">
     <title>ATP 2025 - Review</title>
     <desc>Live: Tidak</desc>
@@ -392,6 +384,14 @@
 </programme>
 <programme start="20260114173000 +0700" stop="20260114180000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Premier Padel Tour 2025 - Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260114180000 +0700" stop="20260114183000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Sports Classics: The Outdoor Sports Show 2024 E12</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260114183000 +0700" stop="20260114220000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>2025 Premier Padel Tour Finals</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260113170000 +0700" stop="20260113190000 +0700" channel="COSMOTE Sport 7 HD">
