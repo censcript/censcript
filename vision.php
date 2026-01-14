@@ -1,10 +1,10 @@
 <programme start="20260113234500 +0000" stop="20260114011500 +0000" channel="RCTI.vision">
 <title>Upin Ipin</title>
 </programme>
-<programme start="20260114011500 +0000" stop="20260114020000 +0000" channel="RCTI.vision">
+<programme start="20260114011500 +0000" stop="20260114023000 +0000" channel="RCTI.vision">
 <title>Kiko</title>
 </programme>
-<programme start="20260114020000 +0000" stop="20260114033000 +0000" channel="RCTI.vision">
+<programme start="20260114023000 +0000" stop="20260114033000 +0000" channel="RCTI.vision">
 <title>Ninja Hattori</title>
 </programme>
 <programme start="20260114033000 +0000" stop="20260114043000 +0000" channel="RCTI.vision">
@@ -13,17 +13,11 @@
 <programme start="20260114043000 +0000" stop="20260114051500 +0000" channel="RCTI.vision">
 <title>Seputar iNews Siang</title>
 </programme>
-<programme start="20260114051500 +0000" stop="20260114070000 +0000" channel="RCTI.vision">
-<title>Banyak Adik Banyak Rezeki</title>
-</programme>
-<programme start="20260114070000 +0000" stop="20260114080000 +0000" channel="RCTI.vision">
-<title>CinLock: Love, Camera, Action!</title>
-</programme>
-<programme start="20260114080000 +0000" stop="20260114083000 +0000" channel="RCTI.vision">
-<title>Preman Pensiun S8</title>
+<programme start="20260114051500 +0000" stop="20260114083000 +0000" channel="RCTI.vision">
+<title>MasterChef Indonesia S13</title>
 </programme>
 <programme start="20260114083000 +0000" stop="20260114100000 +0000" channel="RCTI.vision">
-<title>Manda Curhat (RCTI)</title>
+<title>Garis-Garis Cinta</title>
 </programme>
 <programme start="20260114100000 +0000" stop="20260114113000 +0000" channel="RCTI.vision">
 <title>Terbelenggu Rindu (RCTI)</title>
@@ -34,59 +28,53 @@
 <programme start="20260114131500 +0000" stop="20260114150000 +0000" channel="RCTI.vision">
 <title>Cinta Sepenuh Jiwa (RCTI)</title>
 </programme>
-<programme start="20260114150000 +0000" stop="20260114161500 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<programme start="20260114150000 +0000" stop="20260114170000 +0000" channel="RCTI.vision">
+<title>Istri Bayaran</title>
 </programme>
-<programme start="20260114161500 +0000" stop="20260114183000 +0000" channel="RCTI.vision">
+<programme start="20260114170000 +0000" stop="20260114183000 +0000" channel="RCTI.vision">
 <title>RCTI</title>
 </programme>
 <programme start="20260114183000 +0000" stop="20260114190000 +0000" channel="RCTI.vision">
+<title>iNews Sport</title>
+</programme>
+<programme start="20260114190000 +0000" stop="20260114213000 +0000" channel="RCTI.vision">
 <title>RCTI</title>
 </programme>
-<programme start="20260114190000 +0000" stop="20260114200000 +0000" channel="RCTI.vision">
-<title>RCTI</title>
-</programme>
-<programme start="20260114200000 +0000" stop="20260114224500 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<programme start="20260114213000 +0000" stop="20260114224500 +0000" channel="RCTI.vision">
+<title>Preman Pensiun S4</title>
 </programme>
 <programme start="20260114224500 +0000" stop="20260114234500 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<title>Go Spot</title>
 </programme>
-<programme start="20260114234500 +0000" stop="20260115010000 +0000" channel="RCTI.vision">
-<title>RCTI</title>
-</programme>
-<programme start="20260115010000 +0000" stop="20260115011500 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<programme start="20260114234500 +0000" stop="20260115011500 +0000" channel="RCTI.vision">
+<title>Upin Ipin</title>
 </programme>
 <programme start="20260115011500 +0000" stop="20260115023000 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<title>Kiko</title>
 </programme>
 <programme start="20260115023000 +0000" stop="20260115033000 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<title>Ninja Hattori</title>
 </programme>
 <programme start="20260115033000 +0000" stop="20260115043000 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<title>Silet</title>
 </programme>
 <programme start="20260115043000 +0000" stop="20260115051500 +0000" channel="RCTI.vision">
+<title>Seputar iNews Siang</title>
+</programme>
+<programme start="20260115051500 +0000" stop="20260115083000 +0000" channel="RCTI.vision">
+<title>MasterChef Indonesia S13</title>
+</programme>
+<programme start="20260115083000 +0000" stop="20260115093000 +0000" channel="RCTI.vision">
+<title>Pacar Settingan</title>
+</programme>
+<programme start="20260115093000 +0000" stop="20260115101500 +0000" channel="RCTI.vision">
 <title>RCTI</title>
 </programme>
-<programme start="20260115051500 +0000" stop="20260115070000 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<programme start="20260115101500 +0000" stop="20260115113000 +0000" channel="RCTI.vision">
+<title>Terbelenggu Rindu (RCTI)</title>
 </programme>
-<programme start="20260115070000 +0000" stop="20260115080000 +0000" channel="RCTI.vision">
-<title>RCTI</title>
-</programme>
-<programme start="20260115080000 +0000" stop="20260115090000 +0000" channel="RCTI.vision">
-<title>RCTI</title>
-</programme>
-<programme start="20260115090000 +0000" stop="20260115103000 +0000" channel="RCTI.vision">
-<title>RCTI</title>
-</programme>
-<programme start="20260115103000 +0000" stop="20260115114500 +0000" channel="RCTI.vision">
-<title>RCTI</title>
-</programme>
-<programme start="20260115114500 +0000" stop="20260115131500 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<programme start="20260115113000 +0000" stop="20260115131500 +0000" channel="RCTI.vision">
+<title>Mencintai Ipar Sendiri (RCTI)</title>
 </programme>
 <programme start="20260113231500 +0000" stop="20260114004500 +0000" channel="MNCTV.vision">
 <title>Kiko</title>
@@ -209,43 +197,49 @@
 <title>12 Hari</title>
 </programme>
 <programme start="20260114170000 +0000" stop="20260114180000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<title>Jelajah Mitos</title>
 </programme>
-<programme start="20260114180000 +0000" stop="20260114203000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<programme start="20260114180000 +0000" stop="20260114190000 +0000" channel="GTV.vision">
+<title>Crime KV</title>
 </programme>
-<programme start="20260114203000 +0000" stop="20260114213000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<programme start="20260114190000 +0000" stop="20260114200000 +0000" channel="GTV.vision">
+<title>Naik Enak Turun Ogah</title>
 </programme>
-<programme start="20260114213000 +0000" stop="20260114233000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<programme start="20260114200000 +0000" stop="20260114220000 +0000" channel="GTV.vision">
+<title>Awas Ada Sule</title>
 </programme>
-<programme start="20260114233000 +0000" stop="20260115003000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<programme start="20260114220000 +0000" stop="20260114230000 +0000" channel="GTV.vision">
+<title>Kisah Viral</title>
+</programme>
+<programme start="20260114230000 +0000" stop="20260115000000 +0000" channel="GTV.vision">
+<title>SpongeBob SquarePants</title>
+</programme>
+<programme start="20260115000000 +0000" stop="20260115003000 +0000" channel="GTV.vision">
+<title>Buletin iNews Pagi</title>
 </programme>
 <programme start="20260115003000 +0000" stop="20260115013000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<title>Obrolan Seputar Selebriti (GTV)</title>
 </programme>
-<programme start="20260115013000 +0000" stop="20260115040000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<programme start="20260115013000 +0000" stop="20260115020000 +0000" channel="GTV.vision">
+<title>CoComelon Dan Sahabat</title>
 </programme>
-<programme start="20260115040000 +0000" stop="20260115070000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<programme start="20260115020000 +0000" stop="20260115023000 +0000" channel="GTV.vision">
+<title>Bernard Bear</title>
 </programme>
-<programme start="20260115070000 +0000" stop="20260115080000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<programme start="20260115023000 +0000" stop="20260115050000 +0000" channel="GTV.vision">
+<title>Spongebob Squarepants (GTV)</title>
 </programme>
-<programme start="20260115080000 +0000" stop="20260115090000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<programme start="20260115050000 +0000" stop="20260115073000 +0000" channel="GTV.vision">
+<title>SpongeBob SquarePants</title>
 </programme>
-<programme start="20260115090000 +0000" stop="20260115110000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<programme start="20260115073000 +0000" stop="20260115093000 +0000" channel="GTV.vision">
+<title>SpongeBob SquarePants</title>
 </programme>
-<programme start="20260115110000 +0000" stop="20260115111500 +0000" channel="GTV.vision">
-<title>GTV</title>
+<programme start="20260115093000 +0000" stop="20260115110000 +0000" channel="GTV.vision">
+<title>SpongeBob SquarePants</title>
 </programme>
-<programme start="20260115111500 +0000" stop="20260115123000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<programme start="20260115110000 +0000" stop="20260115130000 +0000" channel="GTV.vision">
+<title>Special Police &amp; Snake Revenge</title>
 </programme>
 <programme start="20260114000000 +0000" stop="20260114001000 +0000" channel="iNews.vision">
 <title>iNews Terkini (L)</title>
@@ -678,9 +672,6 @@
 </programme>
 <programme start="20260114010000 +0000" stop="20260114023000 +0000" channel="ANTV.vision">
 <title>Baalveer Returns</title>
-</programme>
-<programme start="20260114023000 +0000" stop="20260114060000 +0000" channel="ANTV.vision">
-<title>Hanu Man</title>
 </programme>
 <programme start="20260114060000 +0000" stop="20260114083000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
@@ -1496,5 +1487,14 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260114090000 +0000" stop="20260114110000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260114110000 +0000" stop="20260114130000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260114130000 +0000" stop="20260114150000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260114150000 +0000" stop="20260114170000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
