@@ -66,10 +66,6 @@
     <title>Football: FC Lausanne - ACF Fiorentina</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260114100000 +0700" stop="20260114120000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Hellas Verona - SS Lazio</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260114120000 +0700" stop="20260114141000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: OFI - Asteras Aktor</title>
     <desc>Live: Tidak</desc>
@@ -120,6 +116,10 @@
 </programme>
 <programme start="20260115100000 +0700" stop="20260115120000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Como - Bologna</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260115120000 +0700" stop="20260115141000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Panathinaikos - Panserraikos</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260114110000 +0700" stop="20260114143000 +0700" channel="COSMOTE Sport 3 HD">
@@ -190,6 +190,10 @@
     <title>Football: Newcastle United - AFC Bournemouth</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260115120000 +0700" stop="20260115153000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>American Football: New England Patriots - Los Angeles Chargers</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260114110000 +0700" stop="20260114130000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Fenerbahce - Bahcesehir</title>
     <desc>Live: Tidak</desc>
@@ -245,6 +249,10 @@
 <programme start="20260115093000 +0700" stop="20260115123000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Dallas Mavericks - Denver Nuggets (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20260115123000 +0700" stop="20260115130000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>NBA Specials</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260114110000 +0700" stop="20260114122000 +0700" channel="COSMOTE Sport 5 HD">
     <title>DTM 2025</title>
@@ -338,8 +346,8 @@
     <title>DTM 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260114110000 +0700" stop="20260114113000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Premier Padel Tour 2025 - Highlights</title>
+<programme start="20260115124500 +0700" stop="20260115141500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>DTM 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260114113000 +0700" stop="20260114140000 +0700" channel="COSMOTE Sport 6 HD">

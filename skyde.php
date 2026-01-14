@@ -3162,7 +3162,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260114003000 +0000" stop="20260114010000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime</title>
 </programme>
-<programme start="20260114010000 +0000" stop="20260114090000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260114010000 +0000" stop="20260114050000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: San Antonio Spurs @ Oklahoma City Thunder</title>
 </programme>
 <programme start="20260113230500 +0000" stop="20260113235000 +0000" channel="SYFY HD.skyde">
