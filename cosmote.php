@@ -126,6 +126,10 @@
     <title>Football: Lecce - Parma</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260115164000 +0700" stop="20260115171000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Serie A Full Impact 2024-25 E20</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260114143000 +0700" stop="20260114163000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Rio Ave - Casa Pia</title>
     <desc>Live: Tidak</desc>
@@ -258,10 +262,6 @@
     <title>Basketball: Galatasaray - Besiktas</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260114145000 +0700" stop="20260114154500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260114154500 +0700" stop="20260114163000 +0700" channel="COSMOTE Sport 5 HD">
     <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
@@ -350,6 +350,10 @@
     <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260115163000 +0700" stop="20260115174000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260114150000 +0700" stop="20260114173000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Thanasis Kokkinakis - Valentin Vacherot (L)</title>
     <desc>Live: Ya</desc>
@@ -413,6 +417,10 @@
 <programme start="20260115153000 +0700" stop="20260115163000 +0700" channel="COSMOTE Sport 6 HD">
     <title>ATP 2025 - Review</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260115163000 +0700" stop="20260115190000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: ATP 250 2026 (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260114150000 +0700" stop="20260114170000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
