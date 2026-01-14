@@ -266,14 +266,6 @@
     <title>Basketball: Dallas Mavericks - Denver Nuggets</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260114163000 +0700" stop="20260114171000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260114171000 +0700" stop="20260114175500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260114175500 +0700" stop="20260114190000 +0700" channel="COSMOTE Sport 5 HD">
     <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
@@ -358,12 +350,8 @@
     <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260114150000 +0700" stop="20260114173000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: Thanasis Kokkinakis - Valentin Vacherot (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20260114173000 +0700" stop="20260114180000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Premier Padel Tour 2025 - Highlights</title>
+<programme start="20260115182500 +0700" stop="20260115192000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260114180000 +0700" stop="20260114183000 +0700" channel="COSMOTE Sport 6 HD">

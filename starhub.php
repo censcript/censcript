@@ -7651,8 +7651,14 @@
     <programme start="20260113160000 +0000" stop="20260113163000 +0000" channel="ABC Australia HD.starhub">
         <title>Big Blue Ocean</title>
     </programme>
-    <programme start="20260113163000 +0000" stop="20260113180000 +0000" channel="ABC Australia HD.starhub">
+    <programme start="20260113163000 +0000" stop="20260113172500 +0000" channel="ABC Australia HD.starhub">
         <title>ABBA &amp; Elvis: In The Outback Film</title>
+    </programme>
+    <programme start="20260113172500 +0000" stop="20260113173500 +0000" channel="ABC Australia HD.starhub">
+        <title>Solo Set: Mr Tee</title>
+    </programme>
+    <programme start="20260113173500 +0000" stop="20260113180000 +0000" channel="ABC Australia HD.starhub">
+        <title>Stirred With Love</title>
     </programme>
     <programme start="20260113180000 +0000" stop="20260113183000 +0000" channel="ABC Australia HD.starhub">
         <title>The World (2026)</title>
