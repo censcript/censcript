@@ -1,7 +1,3 @@
-<programme start="20260115013000 +0700" stop="20260115034500 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: Panathinaikos - Aris (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
 <programme start="20260115034500 +0700" stop="20260115044500 +0700" channel="COSMOTE Sport 1 HD">
     <title>Greek Cup Time (L)</title>
     <desc>Live: Ya</desc>
@@ -58,8 +54,8 @@
     <title>Football: Como - AC Milan (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260115024500 +0700" stop="20260115031500 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Serie A Full Impact 2024-25 E20</title>
+<programme start="20260116044500 +0700" stop="20260116064500 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: Ferencvarosi TC - Rangers FC</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260115031500 +0700" stop="20260115053000 +0700" channel="COSMOTE Sport 2 HD">
@@ -120,6 +116,10 @@
 </programme>
 <programme start="20260116023000 +0700" stop="20260116044500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: AEK - OFI</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260116044500 +0700" stop="20260116051500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Serie A Full Impact 2024-25 E20</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260115024500 +0700" stop="20260115044500 +0700" channel="COSMOTE Sport 3 HD">
@@ -322,8 +322,8 @@
     <title>MotoGP Classics</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260115010000 +0700" stop="20260115033000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: Aleksandar Vukic - Andrea Vavassori</title>
+<programme start="20260116042000 +0700" stop="20260116052500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>MotoGP Classics</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260115033000 +0700" stop="20260115050000 +0700" channel="COSMOTE Sport 6 HD">
