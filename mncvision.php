@@ -385,7 +385,42 @@
 <programme start="20260114163000 +0000" stop="20260113170000 +0000" channel="Animax.mncvision">
     <title>The Red Ranger Becomes..., Ep 9</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260113171500 +0000" stop="20260113193000 +0000" channel="ANTV.mncvision">
+    <title>Pasukan Berani Mati</title>
+</programme>
+<programme start="20260113193000 +0000" stop="20260113220000 +0000" channel="ANTV.mncvision">
+    <title>Coppa Italia</title>
+</programme>
+<programme start="20260113220000 +0000" stop="20260113230000 +0000" channel="ANTV.mncvision">
+    <title>Magnificent Warriors</title>
+</programme>
+<programme start="20260113230000 +0000" stop="20260114010000 +0000" channel="ANTV.mncvision">
+    <title>Rindu Tak Berujung</title>
+</programme>
+<programme start="20260114010000 +0000" stop="20260114023000 +0000" channel="ANTV.mncvision">
+    <title>Baalveer Returns</title>
+</programme>
+<programme start="20260114023000 +0000" stop="20260114060000 +0000" channel="ANTV.mncvision">
+    <title>Hanu Man</title>
+</programme>
+<programme start="20260114060000 +0000" stop="20260114083000 +0000" channel="ANTV.mncvision">
+    <title>Jhanak</title>
+</programme>
+<programme start="20260114083000 +0000" stop="20260114100000 +0000" channel="ANTV.mncvision">
+    <title>Vasudha</title>
+</programme>
+<programme start="20260114100000 +0000" stop="20260114114500 +0000" channel="ANTV.mncvision">
+    <title>Shani</title>
+</programme>
+<programme start="20260114114500 +0000" stop="20260114131500 +0000" channel="ANTV.mncvision">
+    <title>Senandung Cinta Lilis</title>
+</programme>
+<programme start="20260114131500 +0000" stop="20260114151500 +0000" channel="ANTV.mncvision">
+    <title>Pendekar Jagad Kelana</title>
+</programme>
+<programme start="20260114151500 +0000" stop="20260114154500 +0000" channel="ANTV.mncvision">
+    <title>Sabar Dulu Dong</title>
+</programme>
 <programme start="20260113170000 +0000" stop="20260113173000 +0000" channel="Arirang.mncvision">
     <title>K-Culture Dive</title>
 </programme>
@@ -4271,7 +4306,39 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260114163000 +0000" stop="20260113170000 +0000" channel="HITS.mncvision">
     <title>Bewitched S5, Ep 29</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260113170000 +0000" stop="20260113194500 +0000" channel="HITS MOVIES.mncvision">
+    <title>Apollo 13</title>
+</programme>
+<programme start="20260113194500 +0000" stop="20260113220000 +0000" channel="HITS MOVIES.mncvision">
+    <title>Baby Boom</title>
+</programme>
+<programme start="20260113220000 +0000" stop="20260114001500 +0000" channel="HITS MOVIES.mncvision">
+    <title>Hannah And Her Sisters</title>
+</programme>
+<programme start="20260114001500 +0000" stop="20260114023000 +0000" channel="HITS MOVIES.mncvision">
+    <title>Rear Window</title>
+</programme>
+<programme start="20260114023000 +0000" stop="20260114051500 +0000" channel="HITS MOVIES.mncvision">
+    <title>Apollo 13</title>
+</programme>
+<programme start="20260114051500 +0000" stop="20260114073000 +0000" channel="HITS MOVIES.mncvision">
+    <title>Baby Boom</title>
+</programme>
+<programme start="20260114073000 +0000" stop="20260114094500 +0000" channel="HITS MOVIES.mncvision">
+    <title>Hannah And Her Sisters</title>
+</programme>
+<programme start="20260114094500 +0000" stop="20260114120000 +0000" channel="HITS MOVIES.mncvision">
+    <title>Rear Window</title>
+</programme>
+<programme start="20260114120000 +0000" stop="20260114144500 +0000" channel="HITS MOVIES.mncvision">
+    <title>One Flew Over Cuckoo&#039;s Nest</title>
+</programme>
+<programme start="20260114144500 +0000" stop="20260114163000 +0000" channel="HITS MOVIES.mncvision">
+    <title>Return Of The Seven</title>
+</programme>
+<programme start="20260114163000 +0000" stop="20260113170000 +0000" channel="HITS MOVIES.mncvision">
+    <title>What Happens In Vegas</title>
+</programme>
 <programme start="20260113170000 +0000" stop="20260113194500 +0000" channel="HITS MOVIES HD.mncvision">
     <title>Apollo 13</title>
 </programme>
