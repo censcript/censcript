@@ -955,7 +955,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>ALL IN - Die Bundesliga Highlight Show: 17. Spieltag - Mittwoch</title>
 </programme>
 <programme start="20260114225000 +0000" stop="20260114230000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Das Herz des deutschen Fußballs: Episode 2</title>
+    <title>Best of DAZN: Highlights</title>
 </programme>
 <programme start="20260113230000 +0000" stop="20260114070000 +0000" channel="DAZN 2 HD.skyde">
     <title>Sendepause</title>
@@ -2013,6 +2013,93 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260114224000 +0000" stop="20260114233000 +0000" channel="Sky Crime HD.skyde">
     <title>Libby, wo bist du?</title>
 </programme>
+<programme start="20260113234500 +0000" stop="20260114003000 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Die PS-Profis - Mehr Power aus dem Pott</title>
+</programme>
+<programme start="20260114003000 +0000" stop="20260114011500 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Die PS-Profis - Mehr Power aus dem Pott</title>
+</programme>
+<programme start="20260114011500 +0000" stop="20260114020000 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Wetterwahnsinn weltweit</title>
+</programme>
+<programme start="20260114020000 +0000" stop="20260114025000 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Wetterwahnsinn weltweit</title>
+</programme>
+<programme start="20260114025000 +0000" stop="20260114032000 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Bob Ross: The Joy of Painting</title>
+</programme>
+<programme start="20260114032000 +0000" stop="20260114035000 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Bob Ross: The Joy of Painting</title>
+</programme>
+<programme start="20260114035000 +0000" stop="20260114043500 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Bob Ross: The Joy of Painting</title>
+</programme>
+<programme start="20260114043500 +0000" stop="20260114052000 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Terra X: Palmyra: Entdeckung aus dem Weltall</title>
+</programme>
+<programme start="20260114052000 +0000" stop="20260114061000 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Terra X: Expedition ins ewige Eis</title>
+</programme>
+<programme start="20260114061000 +0000" stop="20260114065500 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Terra X: Casanova: die Kunst der Verführung</title>
+</programme>
+<programme start="20260114065500 +0000" stop="20260114074500 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Terra X: Magisches Deutschland</title>
+</programme>
+<programme start="20260114074500 +0000" stop="20260114083500 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Terra X: Australien-Saga: Auf den Spuren der Entdecker</title>
+</programme>
+<programme start="20260114083500 +0000" stop="20260114092000 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Terra X: Australien-Saga: Von Menschen und Meer</title>
+</programme>
+<programme start="20260114092000 +0000" stop="20260114102000 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Frontlines</title>
+</programme>
+<programme start="20260114102000 +0000" stop="20260114111500 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Frontlines</title>
+</programme>
+<programme start="20260114111500 +0000" stop="20260114121000 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Frontlines</title>
+</programme>
+<programme start="20260114121000 +0000" stop="20260114131000 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Frontlines</title>
+</programme>
+<programme start="20260114131000 +0000" stop="20260114140000 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Die PS-Profis - Mehr Power aus dem Pott</title>
+</programme>
+<programme start="20260114140000 +0000" stop="20260114145000 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Die PS-Profis - Mehr Power aus dem Pott</title>
+</programme>
+<programme start="20260114145000 +0000" stop="20260114154000 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Die PS-Profis - Mehr Power aus dem Pott</title>
+</programme>
+<programme start="20260114154000 +0000" stop="20260114163000 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Die PS-Profis - Mehr Power aus dem Pott</title>
+</programme>
+<programme start="20260114163000 +0000" stop="20260114172000 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Wetterwahnsinn weltweit</title>
+</programme>
+<programme start="20260114172000 +0000" stop="20260114181500 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Wetterwahnsinn weltweit</title>
+</programme>
+<programme start="20260114181500 +0000" stop="20260114190500 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Wetterwahnsinn weltweit</title>
+</programme>
+<programme start="20260114190500 +0000" stop="20260114200000 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Wetterwahnsinn weltweit</title>
+</programme>
+<programme start="20260114200000 +0000" stop="20260114204500 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Mysteriöse Phänomene - Rätsel von oben</title>
+</programme>
+<programme start="20260114204500 +0000" stop="20260114213500 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Mysteriöse Phänomene - Rätsel von oben</title>
+</programme>
+<programme start="20260114213500 +0000" stop="20260114222500 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Mysteriöse Phänomene - Rätsel von oben</title>
+</programme>
+<programme start="20260114222500 +0000" stop="20260114231500 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Mysteriöse Phänomene - Rätsel von oben</title>
+</programme>
 <programme start="20260113231500 +0000" stop="20260114000000 +0000" channel="Sky Krimi HD.skyde">
     <title>SOKO Wien</title>
 </programme>
@@ -2544,43 +2631,46 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260114223000 +0000" stop="20260114230000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>RIESENrad: Sportgrößen im Waggon 28 (Gast: Valentin Bontus)</title>
 </programme>
-<programme start="20260114000000 +0000" stop="20260114020000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+<programme start="20260113233000 +0000" stop="20260114013000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: Borussia Dortmund - Werder Bremen, 17. Spieltag</title>
 </programme>
-<programme start="20260114020000 +0000" stop="20260114031500 +0000" channel="Sky Sport Bundesliga HD.skyde">
+<programme start="20260114013000 +0000" stop="20260114023000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 17. Spieltag, Dienstag</title>
 </programme>
-<programme start="20260114031500 +0000" stop="20260114051500 +0000" channel="Sky Sport Bundesliga HD.skyde">
+<programme start="20260114023000 +0000" stop="20260114043000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: 1. FSV Mainz 05 - 1. FC Heidenheim, 17. Spieltag</title>
 </programme>
-<programme start="20260114051500 +0000" stop="20260114071500 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: Hamburger SV - Bayer Leverkusen, 17. Spieltag</title>
+<programme start="20260114043000 +0000" stop="20260114053000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 17. Spieltag, Dienstag</title>
 </programme>
-<programme start="20260114071500 +0000" stop="20260114073000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: Highlights XXL: BVB - SVW, 17. Spieltag</title>
-</programme>
-<programme start="20260114073000 +0000" stop="20260114080000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: Alle Spiele, alle Stimmen, 17. Spieltag, Dienstag</title>
-</programme>
-<programme start="20260114080000 +0000" stop="20260114100000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: VfB Stuttgart - Eintracht Frankfurt, 17. Spieltag</title>
-</programme>
-<programme start="20260114100000 +0000" stop="20260114103000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: Alle Spiele, alle Stimmen, 17. Spieltag, Dienstag</title>
-</programme>
-<programme start="20260114103000 +0000" stop="20260114104500 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: Highlights XXL: BVB - SVW, 17. Spieltag</title>
-</programme>
-<programme start="20260114104500 +0000" stop="20260114124500 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: 1. FSV Mainz 05 - 1. FC Heidenheim, 17. Spieltag</title>
-</programme>
-<programme start="20260114124500 +0000" stop="20260114131500 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: Alle Spiele, alle Stimmen, 17. Spieltag, Dienstag</title>
-</programme>
-<programme start="20260114131500 +0000" stop="20260114151500 +0000" channel="Sky Sport Bundesliga HD.skyde">
+<programme start="20260114053000 +0000" stop="20260114073000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: Borussia Dortmund - Werder Bremen, 17. Spieltag</title>
 </programme>
-<programme start="20260114151500 +0000" stop="20260114163000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+<programme start="20260114073000 +0000" stop="20260114074500 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: Highlights XXL: BVB - SVW, 17. Spieltag</title>
+</programme>
+<programme start="20260114074500 +0000" stop="20260114081500 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: Alle Spiele, alle Stimmen, 17. Spieltag, Dienstag</title>
+</programme>
+<programme start="20260114081500 +0000" stop="20260114101500 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: VfB Stuttgart - Eintracht Frankfurt, 17. Spieltag</title>
+</programme>
+<programme start="20260114101500 +0000" stop="20260114104500 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: Alle Spiele, alle Stimmen, 17. Spieltag, Dienstag</title>
+</programme>
+<programme start="20260114104500 +0000" stop="20260114110000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: Highlights XXL: BVB - SVW, 17. Spieltag</title>
+</programme>
+<programme start="20260114110000 +0000" stop="20260114130000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: 1. FSV Mainz 05 - 1. FC Heidenheim, 17. Spieltag</title>
+</programme>
+<programme start="20260114130000 +0000" stop="20260114133000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: Alle Spiele, alle Stimmen, 17. Spieltag, Dienstag</title>
+</programme>
+<programme start="20260114133000 +0000" stop="20260114153000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: Borussia Dortmund - Werder Bremen, 17. Spieltag</title>
+</programme>
+<programme start="20260114153000 +0000" stop="20260114163000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 17. Spieltag, Dienstag</title>
 </programme>
 <programme start="20260114163000 +0000" stop="20260114192500 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -2646,13 +2736,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260114192500 +0000" stop="20260114213000 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: 1. FC Köln - FC Bayern München, 17. Spieltag</title>
 </programme>
-<programme start="20260114213000 +0000" stop="20260114224500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
+<programme start="20260114213000 +0000" stop="20260114233000 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 17. Spieltag, Mittwoch</title>
 </programme>
 <programme start="20260114184000 +0000" stop="20260114190000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Es folgt: Live Bundesliga</title>
 </programme>
-<programme start="20260114190000 +0000" stop="20260114220000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+<programme start="20260114190000 +0000" stop="20260114223000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Live BL: 1. FC Köln - FC Bayern München, 17. Spieltag</title>
 </programme>
 <programme start="20260114184000 +0000" stop="20260114190000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
@@ -2664,19 +2754,19 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260114184000 +0000" stop="20260114190000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Es folgt: Live Bundesliga</title>
 </programme>
-<programme start="20260114190000 +0000" stop="20260114220000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
+<programme start="20260114190000 +0000" stop="20260114223000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live BL: TSG Hoffenheim - Borussia M&#039;gladbach, 17. Spieltag</title>
 </programme>
 <programme start="20260114184000 +0000" stop="20260114190000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Es folgt: Live Bundesliga</title>
 </programme>
-<programme start="20260114190000 +0000" stop="20260114213000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
+<programme start="20260114190000 +0000" stop="20260114220000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Live BL: Multiview, 17. Spieltag, Mittwoch</title>
 </programme>
 <programme start="20260114161000 +0000" stop="20260114163000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
     <title>Es folgt: Live Bundesliga</title>
 </programme>
-<programme start="20260114163000 +0000" stop="20260114194500 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
+<programme start="20260114163000 +0000" stop="20260114203000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
     <title>Live BL: VfL Wolfsburg - FC St. Pauli, 17. Spieltag</title>
 </programme>
 <programme start="20260113230000 +0000" stop="20260114000000 +0000" channel="Sky Sport F1 HD.skyde">
@@ -2793,13 +2883,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260114220000 +0000" stop="20260115010000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: KPMG Women&#039;s PGA Championship, 4. Tag in Frisco, TX (USA)</title>
 </programme>
-<programme start="20260113233000 +0000" stop="20260114003000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260113233000 +0000" stop="20260114002500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: On the Fly</title>
 </programme>
-<programme start="20260114003000 +0000" stop="20260114004500 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260114002500 +0000" stop="20260114004000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Highlights CAR@DET</title>
 </programme>
-<programme start="20260114004500 +0000" stop="20260114010000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260114004000 +0000" stop="20260114010000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Highlights EDM@CHI</title>
 </programme>
 <programme start="20260114010000 +0000" stop="20260114040000 +0000" channel="Sky Sport Mix HD.skyde">
@@ -3001,10 +3091,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>ATP 250: B. Nakashima (USA) - D. Medvedev, Brisbane International presented by ANZ in Brisbane (AUS), Finale</title>
 </programme>
 <programme start="20260114150000 +0000" stop="20260114170000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: Topspiel, Adelaide International in Adelaide (AUS), 3. Tag</title>
+    <title>WTA 500: M. Joint (AUS) - A. Tomljanovic (AUS), Adelaide International in Adelaide (AUS), 3. Tag</title>
 </programme>
 <programme start="20260114170000 +0000" stop="20260114190000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 250: Topspiel, Adelaide International in Adelaide (AUS), 3. Tag</title>
+    <title>ATP 250: T. Kokkinakis (AUS) - V. Vacherot (MON), Adelaide International in Adelaide (AUS), 3. Tag</title>
 </programme>
 <programme start="20260114190000 +0000" stop="20260114193000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
@@ -3013,15 +3103,18 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>United Cup: Review 2026</title>
 </programme>
 <programme start="20260114203000 +0000" stop="20260114223000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: Topspiel, Adelaide International in Adelaide (AUS), 3. Tag</title>
+    <title>WTA 500: M. Joint (AUS) - A. Tomljanovic (AUS), Adelaide International in Adelaide (AUS), 3. Tag</title>
 </programme>
 <programme start="20260114223000 +0000" stop="20260115003000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 250: Topspiel, Adelaide International in Adelaide (AUS), 3. Tag</title>
+    <title>ATP 250: T. Kokkinakis (AUS) - V. Vacherot (MON), Adelaide International in Adelaide (AUS), 3. Tag</title>
 </programme>
-<programme start="20260113231500 +0000" stop="20260114001500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260113230000 +0000" stop="20260113235500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>MotoGP: Die Saison 2025</title>
 </programme>
-<programme start="20260114001500 +0000" stop="20260114003000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260113235500 +0000" stop="20260114001000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>NHL: Highlights EDM@CHI</title>
+</programme>
+<programme start="20260114001000 +0000" stop="20260114003000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>NHL: Highlights CAR@DET</title>
 </programme>
 <programme start="20260114003000 +0000" stop="20260114010000 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3039,11 +3132,14 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260114120000 +0000" stop="20260114140000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Carabao Cup: Newcastle United - Manchester City, Halbfinale Hinspiel</title>
 </programme>
-<programme start="20260114140000 +0000" stop="20260114151500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260114140000 +0000" stop="20260114150000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 17. Spieltag, Dienstag</title>
 </programme>
-<programme start="20260114151500 +0000" stop="20260114153000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260114150000 +0000" stop="20260114151500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>BL: Highlights XXL: BVB - SVW, 17. Spieltag</title>
+</programme>
+<programme start="20260114151500 +0000" stop="20260114153000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>NHL: Highlights CAR@DET</title>
 </programme>
 <programme start="20260114153000 +0000" stop="20260114163000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>NHL: On the Fly</title>
@@ -3060,7 +3156,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260114224500 +0000" stop="20260114231500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>2. BL: Dein Zweitligatalk - HvK &amp; Tusche</title>
 </programme>
-<programme start="20260114001000 +0000" stop="20260114003000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260113230000 +0000" stop="20260114003000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: ab 01:30: LIVE Basketball NBA</title>
 </programme>
 <programme start="20260114003000 +0000" stop="20260114010000 +0000" channel="Sky Sport 1 HD.skyde">

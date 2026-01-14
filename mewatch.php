@@ -238,17 +238,14 @@
     <programme start="20260114130000 +0000" stop="20260114140000 +0000" channel="Channel 8.mewatch">
         <title>The Grind - EP 4</title>
     </programme>
-    <programme start="20260114140000 +0000" stop="20260114143000 +0000" channel="Channel 8.mewatch">
+    <programme start="20260114140000 +0000" stop="20260114144500 +0000" channel="Channel 8.mewatch">
         <title>(Live) News Tonight</title>
     </programme>
-    <programme start="20260114143000 +0000" stop="20260114150000 +0000" channel="Channel 8.mewatch">
+    <programme start="20260114144500 +0000" stop="20260114151500 +0000" channel="Channel 8.mewatch">
         <title>Hong Kong Chef’s Culinary Adventures - EP 7</title>
     </programme>
-    <programme start="20260114150000 +0000" stop="20260114160000 +0000" channel="Channel 8.mewatch">
+    <programme start="20260114151500 +0000" stop="20260114161500 +0000" channel="Channel 8.mewatch">
         <title>Love of Nirvana - EP 7</title>
-    </programme>
-    <programme start="20260114160000 +0000" stop="20260114170000 +0000" channel="Channel 8.mewatch">
-        <title>The Land of Warriors - EP 36</title>
     </programme>
     <programme start="20260113154500 +0000" stop="20260113164000 +0000" channel="Channel U.mewatch">
         <title>Let&#039;s Go Flying - EP 13</title>
@@ -358,10 +355,10 @@
     <programme start="20260114140000 +0000" stop="20260114150000 +0000" channel="Channel U.mewatch">
         <title>What’s Wrong with Secretary Kim - EP 25</title>
     </programme>
-    <programme start="20260114150000 +0000" stop="20260114153000 +0000" channel="Channel U.mewatch">
+    <programme start="20260114150000 +0000" stop="20260114154500 +0000" channel="Channel U.mewatch">
         <title>News Tonight</title>
     </programme>
-    <programme start="20260114153000 +0000" stop="20260114163000 +0000" channel="Channel U.mewatch">
+    <programme start="20260114154500 +0000" stop="20260114164000 +0000" channel="Channel U.mewatch">
         <title>Women Behind Bars - EP 5</title>
     </programme>
     <programme start="20260113160000 +0000" stop="20260114010000 +0000" channel="Suria.mewatch">

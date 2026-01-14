@@ -17819,7 +17819,7 @@
     <title lang="id">Arirang News 12:00</title>
   </programme>
   <programme start="20260116033000 +0000" stop="20260116040000 +0000" channel="Arirang TV.webtv.sk">
-    <title lang="id">With Science, We Live</title>
+    <title lang="id">News Special</title>
   </programme>
   <programme start="20260116040000 +0000" stop="20260116050000 +0000" channel="Arirang TV.webtv.sk">
     <title lang="id">Simply K-pop Sns</title>
@@ -17840,7 +17840,7 @@
     <title lang="id">Ai Headline News 16:00</title>
   </programme>
   <programme start="20260116070500 +0000" stop="20260116074000 +0000" channel="Arirang TV.webtv.sk">
-    <title lang="id">With Science, We Live</title>
+    <title lang="id">News Special</title>
   </programme>
   <programme start="20260116074000 +0000" stop="20260116080000 +0000" channel="Arirang TV.webtv.sk">
     <title lang="id">Rpg</title>
@@ -17891,7 +17891,7 @@
     <title lang="id">Press Perspective</title>
   </programme>
   <programme start="20260116143000 +0000" stop="20260116150000 +0000" channel="Arirang TV.webtv.sk">
-    <title lang="id">With Science, We Live</title>
+    <title lang="id">News Special</title>
   </programme>
   <programme start="20260116150000 +0000" stop="20260116160000 +0000" channel="Arirang TV.webtv.sk">
     <title lang="id">Simply K-pop Sns</title>
@@ -17921,7 +17921,7 @@
     <title lang="id">Simply K-pop Sns</title>
   </programme>
   <programme start="20260116200000 +0000" stop="20260116203000 +0000" channel="Arirang TV.webtv.sk">
-    <title lang="id">With Science, We Live</title>
+    <title lang="id">News Special</title>
   </programme>
   <programme start="20260116203000 +0000" stop="20260116210000 +0000" channel="Arirang TV.webtv.sk">
     <title lang="id">Home To Table</title>

@@ -7931,7 +7931,7 @@
     <title>AFC Asian Cup: IRQ Vs AUS (L)</title>
 </programme>
 <programme start="20260114133000 +0000" stop="20260114153000 +0000" channel="Soccer Channel.mncvision">
-    <title>SEA Games Thailand: MYA Vs THA</title>
+    <title>SEA Games &#039;25: Futsal Men</title>
 </programme>
 <programme start="20260114153000 +0000" stop="20260114160000 +0000" channel="Soccer Channel.mncvision">
     <title>Bundesliga 2025/26: FCB Vs SVW</title>
@@ -7979,7 +7979,7 @@
     <title>AFC Asian Cup: IRQ Vs AUS (L)</title>
 </programme>
 <programme start="20260114133000 +0000" stop="20260114153000 +0000" channel="Soccer Channel HD.mncvision">
-    <title>SEA Games Thailand: MYA Vs THA</title>
+    <title>SEA Games &#039;25: Futsal Men</title>
 </programme>
 <programme start="20260114153000 +0000" stop="20260114160000 +0000" channel="Soccer Channel HD.mncvision">
     <title>Bundesliga 2025/26: FCB Vs SVW</title>
