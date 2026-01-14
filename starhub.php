@@ -7672,8 +7672,11 @@
     <programme start="20260114010000 +0000" stop="20260114020000 +0000" channel="ABC Australia HD.starhub">
         <title>ABC News At Noon (2026)</title>
     </programme>
-    <programme start="20260114020000 +0000" stop="20260114030000 +0000" channel="ABC Australia HD.starhub">
+    <programme start="20260114020000 +0000" stop="20260114025000 +0000" channel="ABC Australia HD.starhub">
         <title>Headliners S1</title>
+    </programme>
+    <programme start="20260114025000 +0000" stop="20260114030000 +0000" channel="ABC Australia HD.starhub">
+        <title>Coloured Glass</title>
     </programme>
     <programme start="20260114030000 +0000" stop="20260114033000 +0000" channel="ABC Australia HD.starhub">
         <title>Joy</title>
@@ -7684,16 +7687,19 @@
     <programme start="20260114043000 +0000" stop="20260114050000 +0000" channel="ABC Australia HD.starhub">
         <title>Strath Creek, VIC</title>
     </programme>
-    <programme start="20260114050000 +0000" stop="20260114060000 +0000" channel="ABC Australia HD.starhub">
+    <programme start="20260114050000 +0000" stop="20260114055000 +0000" channel="ABC Australia HD.starhub">
         <title>The Beach</title>
+    </programme>
+    <programme start="20260114055000 +0000" stop="20260114060000 +0000" channel="ABC Australia HD.starhub">
+        <title>Vanuatu&#039;s Resilience Star - Ellen</title>
     </programme>
     <programme start="20260114060000 +0000" stop="20260114070000 +0000" channel="ABC Australia HD.starhub">
         <title>ABC News Summer (2026)</title>
     </programme>
-    <programme start="20260114070000 +0000" stop="20260114073000 +0000" channel="ABC Australia HD.starhub">
+    <programme start="20260114070000 +0000" stop="20260114072500 +0000" channel="ABC Australia HD.starhub">
         <title>Be My Guest</title>
     </programme>
-    <programme start="20260114073000 +0000" stop="20260114080000 +0000" channel="ABC Australia HD.starhub">
+    <programme start="20260114072500 +0000" stop="20260114080000 +0000" channel="ABC Australia HD.starhub">
         <title>One-on-One with Lisa Fiaola</title>
     </programme>
     <programme start="20260114080000 +0000" stop="20260114083000 +0000" channel="ABC Australia HD.starhub">
@@ -7714,8 +7720,11 @@
     <programme start="20260114110000 +0000" stop="20260114120000 +0000" channel="ABC Australia HD.starhub">
         <title>Australia&#039;s Vietnam War S1</title>
     </programme>
-    <programme start="20260114120000 +0000" stop="20260114130000 +0000" channel="ABC Australia HD.starhub">
+    <programme start="20260114120000 +0000" stop="20260114125500 +0000" channel="ABC Australia HD.starhub">
         <title>The Beach</title>
+    </programme>
+    <programme start="20260114125500 +0000" stop="20260114130000 +0000" channel="ABC Australia HD.starhub">
+        <title>Boat Rock</title>
     </programme>
     <programme start="20260114130000 +0000" stop="20260114133000 +0000" channel="ABC Australia HD.starhub">
         <title>ABC Late News (2026)</title>
