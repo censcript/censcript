@@ -1713,6 +1713,48 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260114221000 +0000" stop="20260114230000 +0000" channel="Sky Atlantic HD.skyde">
     <title>The Ark</title>
 </programme>
+<programme start="20260113232500 +0000" stop="20260114010500 +0000" channel="Sky Cinema Action HD.skyde">
+    <title>Rambo II - Der Auftrag</title>
+</programme>
+<programme start="20260114010500 +0000" stop="20260114025000 +0000" channel="Sky Cinema Action HD.skyde">
+    <title>Friedhof der Kuscheltiere</title>
+</programme>
+<programme start="20260114025000 +0000" stop="20260114044000 +0000" channel="Sky Cinema Action HD.skyde">
+    <title>13 Exorcisms</title>
+</programme>
+<programme start="20260114044000 +0000" stop="20260114062000 +0000" channel="Sky Cinema Action HD.skyde">
+    <title>Rogue Hostage</title>
+</programme>
+<programme start="20260114062000 +0000" stop="20260114075500 +0000" channel="Sky Cinema Action HD.skyde">
+    <title>Die in a Gunfight</title>
+</programme>
+<programme start="20260114075500 +0000" stop="20260114093500 +0000" channel="Sky Cinema Action HD.skyde">
+    <title>The Bunker Game</title>
+</programme>
+<programme start="20260114093500 +0000" stop="20260114111500 +0000" channel="Sky Cinema Action HD.skyde">
+    <title>The Nun</title>
+</programme>
+<programme start="20260114111500 +0000" stop="20260114130000 +0000" channel="Sky Cinema Action HD.skyde">
+    <title>Fortress - Stunde der Abrechnung</title>
+</programme>
+<programme start="20260114130000 +0000" stop="20260114150500 +0000" channel="Sky Cinema Action HD.skyde">
+    <title>Jason Bourne</title>
+</programme>
+<programme start="20260114150500 +0000" stop="20260114170000 +0000" channel="Sky Cinema Action HD.skyde">
+    <title>Cliffhanger - Nur die Starken überleben</title>
+</programme>
+<programme start="20260114170000 +0000" stop="20260114191500 +0000" channel="Sky Cinema Action HD.skyde">
+    <title>Es</title>
+</programme>
+<programme start="20260114191500 +0000" stop="20260114205500 +0000" channel="Sky Cinema Action HD.skyde">
+    <title>Rambo II - Der Auftrag</title>
+</programme>
+<programme start="20260114205500 +0000" stop="20260114225000 +0000" channel="Sky Cinema Action HD.skyde">
+    <title>Memory - Sein letzter Auftrag</title>
+</programme>
+<programme start="20260114225000 +0000" stop="20260115003000 +0000" channel="Sky Cinema Action HD.skyde">
+    <title>Safe - Todsicher</title>
+</programme>
 <programme start="20260114002500 +0000" stop="20260114022000 +0000" channel="Sky Cinema Classics HD.skyde">
     <title>True Grit</title>
 </programme>
@@ -1970,93 +2012,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 </programme>
 <programme start="20260114224000 +0000" stop="20260114233000 +0000" channel="Sky Crime HD.skyde">
     <title>Libby, wo bist du?</title>
-</programme>
-<programme start="20260113234500 +0000" stop="20260114003000 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Die PS-Profis - Mehr Power aus dem Pott</title>
-</programme>
-<programme start="20260114003000 +0000" stop="20260114011500 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Die PS-Profis - Mehr Power aus dem Pott</title>
-</programme>
-<programme start="20260114011500 +0000" stop="20260114020000 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Wetterwahnsinn weltweit</title>
-</programme>
-<programme start="20260114020000 +0000" stop="20260114025000 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Wetterwahnsinn weltweit</title>
-</programme>
-<programme start="20260114025000 +0000" stop="20260114032000 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Bob Ross: The Joy of Painting</title>
-</programme>
-<programme start="20260114032000 +0000" stop="20260114035000 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Bob Ross: The Joy of Painting</title>
-</programme>
-<programme start="20260114035000 +0000" stop="20260114043500 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Bob Ross: The Joy of Painting</title>
-</programme>
-<programme start="20260114043500 +0000" stop="20260114052000 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Terra X: Palmyra: Entdeckung aus dem Weltall</title>
-</programme>
-<programme start="20260114052000 +0000" stop="20260114061000 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Terra X: Expedition ins ewige Eis</title>
-</programme>
-<programme start="20260114061000 +0000" stop="20260114065500 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Terra X: Casanova: die Kunst der Verführung</title>
-</programme>
-<programme start="20260114065500 +0000" stop="20260114074500 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Terra X: Magisches Deutschland</title>
-</programme>
-<programme start="20260114074500 +0000" stop="20260114083500 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Terra X: Australien-Saga: Auf den Spuren der Entdecker</title>
-</programme>
-<programme start="20260114083500 +0000" stop="20260114092000 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Terra X: Australien-Saga: Von Menschen und Meer</title>
-</programme>
-<programme start="20260114092000 +0000" stop="20260114102000 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Frontlines</title>
-</programme>
-<programme start="20260114102000 +0000" stop="20260114111500 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Frontlines</title>
-</programme>
-<programme start="20260114111500 +0000" stop="20260114121000 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Frontlines</title>
-</programme>
-<programme start="20260114121000 +0000" stop="20260114131000 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Frontlines</title>
-</programme>
-<programme start="20260114131000 +0000" stop="20260114140000 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Die PS-Profis - Mehr Power aus dem Pott</title>
-</programme>
-<programme start="20260114140000 +0000" stop="20260114145000 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Die PS-Profis - Mehr Power aus dem Pott</title>
-</programme>
-<programme start="20260114145000 +0000" stop="20260114154000 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Die PS-Profis - Mehr Power aus dem Pott</title>
-</programme>
-<programme start="20260114154000 +0000" stop="20260114163000 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Die PS-Profis - Mehr Power aus dem Pott</title>
-</programme>
-<programme start="20260114163000 +0000" stop="20260114172000 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Wetterwahnsinn weltweit</title>
-</programme>
-<programme start="20260114172000 +0000" stop="20260114181500 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Wetterwahnsinn weltweit</title>
-</programme>
-<programme start="20260114181500 +0000" stop="20260114190500 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Wetterwahnsinn weltweit</title>
-</programme>
-<programme start="20260114190500 +0000" stop="20260114200000 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Wetterwahnsinn weltweit</title>
-</programme>
-<programme start="20260114200000 +0000" stop="20260114204500 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Mysteriöse Phänomene - Rätsel von oben</title>
-</programme>
-<programme start="20260114204500 +0000" stop="20260114213500 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Mysteriöse Phänomene - Rätsel von oben</title>
-</programme>
-<programme start="20260114213500 +0000" stop="20260114222500 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Mysteriöse Phänomene - Rätsel von oben</title>
-</programme>
-<programme start="20260114222500 +0000" stop="20260114231500 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Mysteriöse Phänomene - Rätsel von oben</title>
 </programme>
 <programme start="20260113231500 +0000" stop="20260114000000 +0000" channel="Sky Krimi HD.skyde">
     <title>SOKO Wien</title>
@@ -2703,7 +2658,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260114184000 +0000" stop="20260114190000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Es folgt: Live Bundesliga</title>
 </programme>
-<programme start="20260114190000 +0000" stop="20260114220000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
+<programme start="20260114190000 +0000" stop="20260114223000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live BL: RB Leipzig - SC Freiburg, 17. Spieltag</title>
 </programme>
 <programme start="20260114184000 +0000" stop="20260114190000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">

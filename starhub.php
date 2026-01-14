@@ -1973,7 +1973,7 @@
         <title>Stage 9</title>
     </programme>
     <programme start="20260114041000 +0000" stop="20260114060000 +0000" channel="beIN Sports 3.starhub">
-        <title>Bundesliga 2025/26 Hamburg vs Leverkusen</title>
+        <title>Bundesliga 2025/26 Dortmund vs Werder Bremen</title>
     </programme>
     <programme start="20260114060000 +0000" stop="20260114063000 +0000" channel="beIN Sports 3.starhub">
         <title>MUTV Highlights 2025/26 Burnley vs Man United</title>
@@ -2000,7 +2000,7 @@
         <title>Bundesliga 2025/26 Dortmund vs Werder Bremen</title>
     </programme>
     <programme start="20260114134000 +0000" stop="20260114153000 +0000" channel="beIN Sports 3.starhub">
-        <title>Bundesliga 2025/26 Hamburg vs Leverkusen</title>
+        <title>Bundesliga 2025/26 Mainz vs Heidenheim 1846</title>
     </programme>
     <programme start="20260114153000 +0000" stop="20260114172000 +0000" channel="beIN Sports 3.starhub">
         <title>Bundesliga 2025/26 Stuttgart vs Frankfurt</title>
