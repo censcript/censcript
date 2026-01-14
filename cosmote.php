@@ -1,7 +1,3 @@
-<programme start="20260114230000 +0700" stop="20260114233000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>UEFA Champions League Magazine 2024-25 E15</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260114233000 +0700" stop="20260115003000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Highlights: UEL &amp; UECL 2025-26</title>
     <desc>Live: Tidak</desc>
@@ -62,9 +58,9 @@
     <title>Football: FC Kairat Almaty - Olympiacos</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260114223000 +0700" stop="20260114233000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Greek Cup Time (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20260116003000 +0700" stop="20260116024500 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: Athletic Club - Paris Saint Germain</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260114233000 +0700" stop="20260115014500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Olympiacos - PAOK (L)</title>
@@ -130,6 +126,10 @@
     <title>Football: Olympiacos - PAOK</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260116003000 +0700" stop="20260116023000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Hellas Verona - Bologna (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
 <programme start="20260114220000 +0700" stop="20260115001500 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: AEK - OFI (L)</title>
     <desc>Live: Ya</desc>
@@ -194,12 +194,8 @@
     <title>Football: Falkirk - Celtic FC</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260114212500 +0700" stop="20260114231000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Pick n&#039; Roll</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260114231000 +0700" stop="20260115000000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>NBA Specials: Basketball Stories</title>
+<programme start="20260116003000 +0700" stop="20260116010000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Emirates FA Cup 2025-26 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260115000000 +0700" stop="20260115021000 +0700" channel="COSMOTE Sport 4 HD">
@@ -260,6 +256,10 @@
 </programme>
 <programme start="20260115235500 +0700" stop="20260116002000 +0700" channel="COSMOTE Sport 4 HD">
     <title>ACB Liga Endesa 2025-26 - Fifth Quarter E14</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260116002000 +0700" stop="20260116023000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Karditsa - KK Spartak</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260114223500 +0700" stop="20260115000500 +0700" channel="COSMOTE Sport 5 HD">
@@ -433,10 +433,6 @@
 <programme start="20260115223000 +0700" stop="20260116010000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Volleyball: Panathinaikos - Braga (L)</title>
     <desc>Live: Ya</desc>
-</programme>
-<programme start="20260114230000 +0700" stop="20260115000000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
-    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260115000000 +0700" stop="20260115003000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
