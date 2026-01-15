@@ -5789,55 +5789,55 @@
         <title>Early Morning News</title>
     </programme>
     <programme start="20260114230000 +0000" stop="20260115000000 +0000" channel="TVBS-NEWS.starhub">
-        <title>Early Morning News</title>
+        <title>Early Morning News (Live)</title>
     </programme>
     <programme start="20260115000000 +0000" stop="20260115010000 +0000" channel="TVBS-NEWS.starhub">
-        <title>Early Morning News</title>
+        <title>Early Morning News (Live)</title>
     </programme>
     <programme start="20260115010000 +0000" stop="20260115020000 +0000" channel="TVBS-NEWS.starhub">
-        <title>0900 Morning News</title>
+        <title>0900 Morning News (Live)</title>
     </programme>
     <programme start="20260115020000 +0000" stop="20260115030000 +0000" channel="TVBS-NEWS.starhub">
-        <title>1000 Morning News</title>
+        <title>1000 Morning News (Live)</title>
     </programme>
     <programme start="20260115030000 +0000" stop="20260115040000 +0000" channel="TVBS-NEWS.starhub">
-        <title>1100 Morning News</title>
+        <title>1100 Morning News (Live)</title>
     </programme>
     <programme start="20260115040000 +0000" stop="20260115050000 +0000" channel="TVBS-NEWS.starhub">
-        <title>1200/1300 Noon News</title>
+        <title>1200/1300 Noon News (Live)</title>
     </programme>
     <programme start="20260115050000 +0000" stop="20260115060000 +0000" channel="TVBS-NEWS.starhub">
-        <title>1200/1300 Noon News</title>
+        <title>1200/1300 Noon News (Live)</title>
     </programme>
     <programme start="20260115060000 +0000" stop="20260115070000 +0000" channel="TVBS-NEWS.starhub">
-        <title>News At 1400</title>
+        <title>News At 1400 (Live)</title>
     </programme>
     <programme start="20260115070000 +0000" stop="20260115080000 +0000" channel="TVBS-NEWS.starhub">
-        <title>1500 Afternoon News</title>
+        <title>1500 Afternoon News (Live)</title>
     </programme>
     <programme start="20260115080000 +0000" stop="20260115090000 +0000" channel="TVBS-NEWS.starhub">
-        <title>1600 Afternoon News</title>
+        <title>1600 Afternoon News (Live)</title>
     </programme>
     <programme start="20260115090000 +0000" stop="20260115100000 +0000" channel="TVBS-NEWS.starhub">
-        <title>1700 Afternoon News</title>
+        <title>1700 Afternoon News (Live)</title>
     </programme>
     <programme start="20260115100000 +0000" stop="20260115110000 +0000" channel="TVBS-NEWS.starhub">
-        <title>45911</title>
+        <title>1800/1900 Evening News (Live)</title>
     </programme>
     <programme start="20260115110000 +0000" stop="20260115120000 +0000" channel="TVBS-NEWS.starhub">
-        <title>1800/1900 Evening News</title>
+        <title>1800/1900 Evening News (Live)</title>
     </programme>
     <programme start="20260115120000 +0000" stop="20260115130000 +0000" channel="TVBS-NEWS.starhub">
-        <title>News Frontline</title>
+        <title>News Frontline (Live)</title>
     </programme>
     <programme start="20260115130000 +0000" stop="20260115140000 +0000" channel="TVBS-NEWS.starhub">
-        <title>2100 Hot Topics</title>
+        <title>2100 Hot Topics (Live)</title>
     </programme>
     <programme start="20260115140000 +0000" stop="20260115150000 +0000" channel="TVBS-NEWS.starhub">
-        <title>News Night</title>
+        <title>News Night (Live)</title>
     </programme>
     <programme start="20260115150000 +0000" stop="20260115160000 +0000" channel="TVBS-NEWS.starhub">
-        <title>Late Night Vision</title>
+        <title>Late Night Vision (Live)</title>
     </programme>
     <programme start="20260114155500 +0000" stop="20260114162000 +0000" channel="DreamWorks Channel HD.starhub">
         <title>The English Opening</title>
