@@ -202,9 +202,9 @@
     <title>Football: SL Benfica - Estoril</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260115215500 +0700" stop="20260115235500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Reyer Venezia - Virtus Bologna</title>
-    <desc>Live: Tidak</desc>
+<programme start="20260117003000 +0700" stop="20260117023000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Al Ittihad - Al Ettifaq FC (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260115235500 +0700" stop="20260116002000 +0700" channel="COSMOTE Sport 4 HD">
     <title>ACB Liga Endesa 2025-26 - Fifth Quarter E14</title>
@@ -266,8 +266,8 @@
     <title>Basketball: Dallas Mavericks - Denver Nuggets</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260115225000 +0700" stop="20260115235000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC 2025</title>
+<programme start="20260117001000 +0700" stop="20260117015500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Pick n&#039; Roll</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260115235000 +0700" stop="20260116012000 +0700" channel="COSMOTE Sport 5 HD">
@@ -362,12 +362,24 @@
     <title>WRC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260117004000 +0700" stop="20260117014000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260115223000 +0700" stop="20260116010000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Volleyball: Panathinaikos - Braga (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260116010000 +0700" stop="20260116050000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: ATP 250 2026</title>
+<programme start="20260116010000 +0700" stop="20260116021500 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: Aleksandar Vukic - Tommy Paul</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260116021500 +0700" stop="20260116040000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: Alejandro Davidovich Fokina - Valentin Vacherot</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260116040000 +0700" stop="20260116050000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>ATP 2025 - Review</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260116050000 +0700" stop="20260116073000 +0700" channel="COSMOTE Sport 6 HD">
@@ -383,7 +395,7 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260116093000 +0700" stop="20260116120000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: ATP 250 2026 (L)</title>
+    <title>Tennis: Tomas Machac - Tommy Paul (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20260116120000 +0700" stop="20260116123000 +0700" channel="COSMOTE Sport 6 HD">
@@ -395,7 +407,7 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260116150000 +0700" stop="20260116173000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: ATP 250 2026 (L)</title>
+    <title>Tennis: Alejandro Davidovich Fokina - Ugo Humbert (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20260116173000 +0700" stop="20260116180000 +0700" channel="COSMOTE Sport 6 HD">
@@ -414,8 +426,16 @@
     <title>Premier Padel Tour 2025 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260116210000 +0700" stop="20260117010000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: ATP 250 2026</title>
+<programme start="20260116210000 +0700" stop="20260116233000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Volleyball: Panathinaikos - Braga</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260116233000 +0700" stop="20260117003000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>ATP 2025 - Review</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260117003000 +0700" stop="20260117010000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Sports Classics: The Outdoor Sports Show 2025 E12</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260115230000 +0700" stop="20260116013000 +0700" channel="COSMOTE Sport 7 HD">
@@ -438,13 +458,9 @@
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260116070000 +0700" stop="20260116090000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>Tennis: ATP 250 2025 (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20260116090000 +0700" stop="20260116110000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>Tennis: ATP 250 2025 (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20260116070000 +0700" stop="20260116110000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260116110000 +0700" stop="20260116130000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>

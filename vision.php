@@ -688,9 +688,6 @@
 <programme start="20260115114500 +0000" stop="20260115131500 +0000" channel="ANTV.vision">
 <title>Senandung Cinta Lilis</title>
 </programme>
-<programme start="20260115151500 +0000" stop="20260115171500 +0000" channel="ANTV.vision">
-<title>Saya Suka Kamu Punya</title>
-</programme>
 <programme start="20260115171500 +0000" stop="20260115191500 +0000" channel="ANTV.vision">
 <title>Mall Klender</title>
 </programme>
@@ -1496,5 +1493,8 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260115170000 +0000" stop="20260115190000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260115190000 +0000" stop="20260115210000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
