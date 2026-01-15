@@ -2074,8 +2074,11 @@
     <programme start="20260114200000 +0000" stop="20260114210000 +0000" channel="CNN HD.starhub">
         <title>What We Know with Max Foster</title>
     </programme>
-    <programme start="20260114210000 +0000" stop="20260114223000 +0000" channel="CNN HD.starhub">
+    <programme start="20260114210000 +0000" stop="20260114220000 +0000" channel="CNN HD.starhub">
         <title>Quest Means Business (45m)</title>
+    </programme>
+    <programme start="20260114220000 +0000" stop="20260114230000 +0000" channel="CNN HD.starhub">
+        <title>The Lead with Jake Tapper</title>
     </programme>
     <programme start="20260114230000 +0000" stop="20260115000000 +0000" channel="CNN HD.starhub">
         <title>The Brief with Jim Sciutto</title>
@@ -2162,7 +2165,7 @@
         <title>Movie - Hero</title>
     </programme>
     <programme start="20260114160000 +0000" stop="20260114203000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>United Cup 2026: QF 3 Belgium v Czechia</title>
+        <title>QF 3 Belgium v Czechia</title>
     </programme>
     <programme start="20260114203000 +0000" stop="20260114204500 +0000" channel="beIN Sports 2 HD.starhub">
         <title>Barcelona Finals Men</title>

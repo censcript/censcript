@@ -7970,7 +7970,7 @@
     <title>European Qual.: SCO Vs DEN</title>
 </programme>
 <programme start="20260115123000 +0000" stop="20260115143000 +0000" channel="Soccer Channel.mncvision">
-    <title>SEA Games &#039;25: Futsal Men</title>
+    <title>SEA Games 2025: Futsal Men</title>
 </programme>
 <programme start="20260115143000 +0000" stop="20260115163000 +0000" channel="Soccer Channel.mncvision">
     <title>Bundesliga 2025/26: SGE Vs BVB</title>
@@ -8027,7 +8027,7 @@
     <title>European Qual.: SCO Vs DEN</title>
 </programme>
 <programme start="20260115123000 +0000" stop="20260115143000 +0000" channel="Soccer Channel HD.mncvision">
-    <title>SEA Games &#039;25: Futsal Men</title>
+    <title>SEA Games 2025: Futsal Men</title>
 </programme>
 <programme start="20260115143000 +0000" stop="20260115163000 +0000" channel="Soccer Channel HD.mncvision">
     <title>Bundesliga 2025/26: SGE Vs BVB</title>

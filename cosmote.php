@@ -58,10 +58,6 @@
     <title>Football: Crystal Palace - KuPS Kuopio</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260115100000 +0700" stop="20260115120000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Como - Bologna</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260115120000 +0700" stop="20260115141000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Panathinaikos - Panserraikos</title>
     <desc>Live: Tidak</desc>
@@ -126,8 +122,8 @@
     <title>Football: Udinese - Pisa</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260115090000 +0700" stop="20260115120000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Newcastle United - AFC Bournemouth</title>
+<programme start="20260116120000 +0700" stop="20260116141000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Kifisia - AEL Novibet</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260115120000 +0700" stop="20260115153000 +0700" channel="COSMOTE Sport 3 HD">
@@ -342,8 +338,8 @@
     <title>DTM</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260115110000 +0700" stop="20260115113000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Watersports: Inside Sailing E12</title>
+<programme start="20260116124000 +0700" stop="20260116141000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>DTM</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260115113000 +0700" stop="20260115140000 +0700" channel="COSMOTE Sport 6 HD">
@@ -409,6 +405,14 @@
 <programme start="20260116093000 +0700" stop="20260116120000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP 250 2026 (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20260116120000 +0700" stop="20260116123000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Premier Padel Tour 2025 - Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260116123000 +0700" stop="20260116150000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Volleyball: Panathinaikos - Braga</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260115110000 +0700" stop="20260115130000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
