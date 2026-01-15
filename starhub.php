@@ -3796,8 +3796,11 @@
     <programme start="20260115021500 +0000" stop="20260115035500 +0000" channel="HBO HD.starhub">
         <title>The Wedding Singer</title>
     </programme>
-    <programme start="20260115035500 +0000" stop="20260115060500 +0000" channel="HBO HD.starhub">
+    <programme start="20260115035500 +0000" stop="20260115054000 +0000" channel="HBO HD.starhub">
         <title>Rango</title>
+    </programme>
+    <programme start="20260115054000 +0000" stop="20260115060500 +0000" channel="HBO HD.starhub">
+        <title>Hollywood On Set S1</title>
     </programme>
     <programme start="20260115060500 +0000" stop="20260115074000 +0000" channel="HBO HD.starhub">
         <title>Anchorman: The Legend Of Ron Burgundy</title>

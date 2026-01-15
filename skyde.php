@@ -961,34 +961,37 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260114230000 +0000" stop="20260115070000 +0000" channel="DAZN 1 HD.skyde">
     <title>Sendepause</title>
 </programme>
-<programme start="20260115070000 +0000" stop="20260115081000 +0000" channel="DAZN 1 HD.skyde">
-    <title>ALL IN - Die Bundesliga Highlight Show: 17. Spieltag - Mittwoch</title>
+<programme start="20260115070000 +0000" stop="20260115075500 +0000" channel="DAZN 1 HD.skyde">
+    <title>ALL IN - Die Bundesliga Highlight Show: 17. Spieltag - Dienstag</title>
 </programme>
-<programme start="20260115081000 +0000" stop="20260115083500 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260115075500 +0000" stop="20260115083000 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20260115083500 +0000" stop="20260115103000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260115083000 +0000" stop="20260115103000 +0000" channel="DAZN 1 HD.skyde">
     <title>Bundesliga: Borussia M&#039;gladbach - FC Augsburg</title>
 </programme>
 <programme start="20260115103000 +0000" stop="20260115123000 +0000" channel="DAZN 1 HD.skyde">
     <title>Serie A 25/26: Inter Mailand - SSC Neapel</title>
 </programme>
-<programme start="20260115123000 +0000" stop="20260115134000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260115123000 +0000" stop="20260115131500 +0000" channel="DAZN 1 HD.skyde">
     <title>ALL IN - Die Bundesliga Highlight Show: 17. Spieltag - Mittwoch</title>
 </programme>
-<programme start="20260115134000 +0000" stop="20260115140000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260115131500 +0000" stop="20260115134500 +0000" channel="DAZN 1 HD.skyde">
     <title>Kabayel - Knyba: Agit Kabayel - Interview</title>
 </programme>
-<programme start="20260115140000 +0000" stop="20260115143000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260115134500 +0000" stop="20260115141500 +0000" channel="DAZN 1 HD.skyde">
     <title>Kabayel - Knyba: Agit Kabayel: Unser Champion : The Rise - Part 1</title>
 </programme>
-<programme start="20260115143000 +0000" stop="20260115150000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260115141500 +0000" stop="20260115144500 +0000" channel="DAZN 1 HD.skyde">
     <title>Serie A Highlightshow: 20. Spieltag</title>
 </programme>
-<programme start="20260115150000 +0000" stop="20260115153000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260115144500 +0000" stop="20260115151500 +0000" channel="DAZN 1 HD.skyde">
     <title>Das Herz des deutschen Fußballs: Episode 4</title>
 </programme>
-<programme start="20260115153000 +0000" stop="20260115172500 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260115151500 +0000" stop="20260115152500 +0000" channel="DAZN 1 HD.skyde">
+    <title>Best of DAZN: Highlights</title>
+</programme>
+<programme start="20260115152500 +0000" stop="20260115172500 +0000" channel="DAZN 1 HD.skyde">
     <title>Bundesliga: Borussia M&#039;gladbach - FC Augsburg</title>
 </programme>
 <programme start="20260115172500 +0000" stop="20260115194000 +0000" channel="DAZN 1 HD.skyde">
@@ -1012,10 +1015,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260115070000 +0000" stop="20260115090000 +0000" channel="DAZN 2 HD.skyde">
     <title>Bundesliga: SC Freiburg - Hamburger SV</title>
 </programme>
-<programme start="20260115090000 +0000" stop="20260115110100 +0000" channel="DAZN 2 HD.skyde">
+<programme start="20260115090000 +0000" stop="20260115110000 +0000" channel="DAZN 2 HD.skyde">
     <title>Bundesliga: FC Bayern München - VFL Wolfsburg</title>
 </programme>
-<programme start="20260115110100 +0000" stop="20260115121000 +0000" channel="DAZN 2 HD.skyde">
+<programme start="20260115110000 +0000" stop="20260115121000 +0000" channel="DAZN 2 HD.skyde">
     <title>ALL IN - Die Bundesliga Highlight Show: 17. Spieltag - Mittwoch</title>
 </programme>
 <programme start="20260115121000 +0000" stop="20260115123000 +0000" channel="DAZN 2 HD.skyde">
@@ -1024,8 +1027,11 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260115123000 +0000" stop="20260115145000 +0000" channel="DAZN 2 HD.skyde">
     <title>Bundesliga: Borussia M&#039;gladbach - FC Augsburg</title>
 </programme>
-<programme start="20260115145000 +0000" stop="20260115160000 +0000" channel="DAZN 2 HD.skyde">
+<programme start="20260115145000 +0000" stop="20260115152500 +0000" channel="DAZN 2 HD.skyde">
     <title>ALL IN - Die Bundesliga Highlight Show: 17. Spieltag - Mittwoch</title>
+</programme>
+<programme start="20260115152500 +0000" stop="20260115160000 +0000" channel="DAZN 2 HD.skyde">
+    <title>Best of DAZN: Highlights</title>
 </programme>
 <programme start="20260115160000 +0000" stop="20260115193500 +0000" channel="DAZN 2 HD.skyde">
     <title>Bahrain Darts Masters: Tag 1</title>
@@ -2689,20 +2695,20 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260115213500 +0000" stop="20260115232000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Fußball: Klassiker der Woche: SCR - FAK (2007/08)</title>
 </programme>
-<programme start="20260115000000 +0000" stop="20260115003000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>2. BL: Dein Zweitligatalk - HvK &amp; Tusche</title>
-</programme>
-<programme start="20260115003000 +0000" stop="20260115023000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: 1. FC Köln - FC Bayern München, 17. Spieltag</title>
-</programme>
-<programme start="20260115023000 +0000" stop="20260115034500 +0000" channel="Sky Sport Bundesliga HD.skyde">
+<programme start="20260114230000 +0000" stop="20260115001500 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 17. Spieltag, Mittwoch</title>
 </programme>
-<programme start="20260115034500 +0000" stop="20260115054500 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: VfL Wolfsburg - FC St. Pauli, 17. Spieltag</title>
+<programme start="20260115001500 +0000" stop="20260115004500 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>2. BL: Dein Zweitligatalk - HvK &amp; Tusche</title>
 </programme>
-<programme start="20260115054500 +0000" stop="20260115060000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: Highlights XXL: KOE - FCB, 17. Spieltag</title>
+<programme start="20260115004500 +0000" stop="20260115024500 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: 1. FC Köln - FC Bayern München, 17. Spieltag</title>
+</programme>
+<programme start="20260115024500 +0000" stop="20260115040000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 17. Spieltag, Mittwoch</title>
+</programme>
+<programme start="20260115040000 +0000" stop="20260115060000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: VfL Wolfsburg - FC St. Pauli, 17. Spieltag</title>
 </programme>
 <programme start="20260115060000 +0000" stop="20260115080000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: TSG Hoffenheim - Borussia M&#039;gladbach, 17. Spieltag</title>
@@ -2788,13 +2794,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260115181000 +0000" stop="20260115183000 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Es folgt: Live Bundesliga</title>
 </programme>
-<programme start="20260115183000 +0000" stop="20260115221500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
+<programme start="20260115183000 +0000" stop="20260115224500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: FC Augsburg - 1. FC Union Berlin, tipico Topspiel der Woche, 17. Spieltag</title>
 </programme>
 <programme start="20260115181000 +0000" stop="20260115183000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Es folgt: Live Bundesliga</title>
 </programme>
-<programme start="20260115183000 +0000" stop="20260115221500 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+<programme start="20260115183000 +0000" stop="20260115224500 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Live BL: Tactical Feed: FCA - FCU, 17. Spieltag</title>
 </programme>
 <programme start="20260114230000 +0000" stop="20260115000000 +0000" channel="Sky Sport F1 HD.skyde">
@@ -3149,10 +3155,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>ATP: This Week</title>
 </programme>
 <programme start="20260115150000 +0000" stop="20260115170000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: Topspiel, Adelaide International in Adelaide (AUS), 4. Tag</title>
+    <title>WTA 500: M. Andreeva - M. Joint (AUS), Adelaide International in Adelaide (AUS), 4. Tag</title>
 </programme>
 <programme start="20260115170000 +0000" stop="20260115190000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 250: Topspiel, Adelaide International in Adelaide (AUS), 4. Tag</title>
+    <title>ATP 250: A. Davidovich Fokina (ESP) - V. Vacherot (MON), Adelaide International in Adelaide (AUS), 4. Tag</title>
 </programme>
 <programme start="20260115190000 +0000" stop="20260115200000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: Season Review Show 2025</title>
@@ -3161,16 +3167,16 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>ATP: This Week</title>
 </programme>
 <programme start="20260115203000 +0000" stop="20260115223000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: Topspiel, Adelaide International in Adelaide (AUS), 4. Tag</title>
+    <title>WTA 500: M. Andreeva - M. Joint (AUS), Adelaide International in Adelaide (AUS), 4. Tag</title>
 </programme>
 <programme start="20260115223000 +0000" stop="20260116003000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 250: Topspiel, Adelaide International in Adelaide (AUS), 4. Tag</title>
+    <title>ATP 250: A. Davidovich Fokina (ESP) - V. Vacherot (MON), Adelaide International in Adelaide (AUS), 4. Tag</title>
 </programme>
-<programme start="20260114231500 +0000" stop="20260114234500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260114230000 +0000" stop="20260114233000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>2. BL: Dein Zweitligatalk - HvK &amp; Tusche</title>
+</programme>
+<programme start="20260114233000 +0000" stop="20260115000000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>F1: Die Saison 2025</title>
-</programme>
-<programme start="20260114234500 +0000" stop="20260115000000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>NHL: Highlights DET@BOS</title>
 </programme>
 <programme start="20260115000000 +0000" stop="20260115001500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>NHL: Highlights EDM@NSH</title>
@@ -3203,7 +3209,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Live BL: Matchplan: RBL - FCB, 18. Spieltag</title>
 </programme>
 <programme start="20260115170000 +0000" stop="20260115174500 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>BL: Faith over Fear - Benny Henrichs: Der lange Weg zum Comeback</title>
+    <title>Faith over Fear - Benny Henrichs: Der lange Weg zum Comeback</title>
 </programme>
 <programme start="20260115174500 +0000" stop="20260115180000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>BL: Highlights XXL: KOE - FCB, 17. Spieltag</title>
