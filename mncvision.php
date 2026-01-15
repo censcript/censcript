@@ -415,17 +415,14 @@
 <programme start="20260115060000 +0000" stop="20260115083000 +0000" channel="ANTV.mncvision">
     <title>Jhanak</title>
 </programme>
-<programme start="20260115083000 +0000" stop="20260115100000 +0000" channel="ANTV.mncvision">
+<programme start="20260115083000 +0000" stop="20260115114500 +0000" channel="ANTV.mncvision">
     <title>Vasudha</title>
-</programme>
-<programme start="20260115100000 +0000" stop="20260115114500 +0000" channel="ANTV.mncvision">
-    <title>Shani</title>
 </programme>
 <programme start="20260115114500 +0000" stop="20260115131500 +0000" channel="ANTV.mncvision">
     <title>Senandung Cinta Lilis</title>
 </programme>
 <programme start="20260115131500 +0000" stop="20260115151500 +0000" channel="ANTV.mncvision">
-    <title>Si Buta Dari Gua Hantu</title>
+    <title>Darah Perjaka</title>
 </programme>
 <programme start="20260115151500 +0000" stop="20260115154500 +0000" channel="ANTV.mncvision">
     <title>Saya Suka Kamu Punya</title>
@@ -1279,20 +1276,20 @@
 <programme start="20260115005000 +0000" stop="20260115022000 +0000" channel="beIN Sports 3.mncvision">
     <title>Premier Padel 2025: Barcelona</title>
 </programme>
-<programme start="20260115022000 +0000" stop="20260115031000 +0000" channel="beIN Sports 3.mncvision">
-    <title>MUTV Specials: Luke Chadwick</title>
-</programme>
-<programme start="20260115031000 +0000" stop="20260115041000 +0000" channel="beIN Sports 3.mncvision">
+<programme start="20260115022000 +0000" stop="20260115032000 +0000" channel="beIN Sports 3.mncvision">
     <title>Dakar Rally Highlights 2026</title>
 </programme>
-<programme start="20260115041000 +0000" stop="20260115051000 +0000" channel="beIN Sports 3.mncvision">
+<programme start="20260115032000 +0000" stop="20260115042000 +0000" channel="beIN Sports 3.mncvision">
     <title>WSL Highlights 2025/26</title>
 </programme>
-<programme start="20260115051000 +0000" stop="20260115071000 +0000" channel="beIN Sports 3.mncvision">
-    <title>AFCON 2025: SEN Vs EGY</title>
+<programme start="20260115042000 +0000" stop="20260115065000 +0000" channel="beIN Sports 3.mncvision">
+    <title>AFCON 2025: NGA Vs MAR</title>
+</programme>
+<programme start="20260115065000 +0000" stop="20260115071000 +0000" channel="beIN Sports 3.mncvision">
+    <title>MUTV Specials: Reds In Europe</title>
 </programme>
 <programme start="20260115071000 +0000" stop="20260115090000 +0000" channel="beIN Sports 3.mncvision">
-    <title>AFCON 2025: NGA Vs MAR</title>
+    <title>AFCON 2025: SEN Vs EGY</title>
 </programme>
 <programme start="20260115090000 +0000" stop="20260115100000 +0000" channel="beIN Sports 3.mncvision">
     <title>FEI Western European League</title>
@@ -1333,20 +1330,20 @@
 <programme start="20260115005000 +0000" stop="20260115022000 +0000" channel="beIN Sports 3 HD.mncvision">
     <title>Premier Padel 2025: Barcelona</title>
 </programme>
-<programme start="20260115022000 +0000" stop="20260115031000 +0000" channel="beIN Sports 3 HD.mncvision">
-    <title>MUTV Specials: Luke Chadwick</title>
-</programme>
-<programme start="20260115031000 +0000" stop="20260115041000 +0000" channel="beIN Sports 3 HD.mncvision">
+<programme start="20260115022000 +0000" stop="20260115032000 +0000" channel="beIN Sports 3 HD.mncvision">
     <title>Dakar Rally Highlights 2026</title>
 </programme>
-<programme start="20260115041000 +0000" stop="20260115051000 +0000" channel="beIN Sports 3 HD.mncvision">
+<programme start="20260115032000 +0000" stop="20260115042000 +0000" channel="beIN Sports 3 HD.mncvision">
     <title>WSL Highlights 2025/26</title>
 </programme>
-<programme start="20260115051000 +0000" stop="20260115071000 +0000" channel="beIN Sports 3 HD.mncvision">
-    <title>AFCON 2025: SEN Vs EGY</title>
+<programme start="20260115042000 +0000" stop="20260115065000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>AFCON 2025: NGA Vs MAR</title>
+</programme>
+<programme start="20260115065000 +0000" stop="20260115071000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>MUTV Specials: Reds In Europe</title>
 </programme>
 <programme start="20260115071000 +0000" stop="20260115090000 +0000" channel="beIN Sports 3 HD.mncvision">
-    <title>AFCON 2025: NGA Vs MAR</title>
+    <title>AFCON 2025: SEN Vs EGY</title>
 </programme>
 <programme start="20260115090000 +0000" stop="20260115100000 +0000" channel="beIN Sports 3 HD.mncvision">
     <title>FEI Western European League</title>
@@ -5009,7 +5006,7 @@
     <title>Thomas &amp; Friends</title>
 </programme>
 <programme start="20260115043000 +0000" stop="20260115050000 +0000" channel="Kids TV.mncvision">
-    <title>PAW Patrol</title>
+    <title>PAW Patrol S2</title>
 </programme>
 <programme start="20260115050000 +0000" stop="20260115053000 +0000" channel="Kids TV.mncvision">
     <title>Entong Animasi</title>
@@ -5036,7 +5033,7 @@
     <title>Titus The Detective</title>
 </programme>
 <programme start="20260115120000 +0000" stop="20260115123000 +0000" channel="Kids TV.mncvision">
-    <title>PAW Patrol</title>
+    <title>PAW Patrol S2</title>
 </programme>
 <programme start="20260115123000 +0000" stop="20260115130000 +0000" channel="Kids TV.mncvision">
     <title>The Patrick Star Show</title>
@@ -5120,7 +5117,7 @@
     <title>Thomas &amp; Friends</title>
 </programme>
 <programme start="20260115043000 +0000" stop="20260115050000 +0000" channel="Kids TV HD.mncvision">
-    <title>PAW Patrol</title>
+    <title>PAW Patrol S2</title>
 </programme>
 <programme start="20260115050000 +0000" stop="20260115053000 +0000" channel="Kids TV HD.mncvision">
     <title>Entong Animasi</title>
@@ -5147,7 +5144,7 @@
     <title>Titus The Detective</title>
 </programme>
 <programme start="20260115120000 +0000" stop="20260115123000 +0000" channel="Kids TV HD.mncvision">
-    <title>PAW Patrol</title>
+    <title>PAW Patrol S2</title>
 </programme>
 <programme start="20260115123000 +0000" stop="20260115130000 +0000" channel="Kids TV HD.mncvision">
     <title>The Patrick Star Show</title>
@@ -6106,7 +6103,6 @@
 <programme start="20260115153100 +0000" stop="20260115160100 +0000" channel="Moonbug.mncvision">
     <title>Little Baby Bum</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260114190000 +0000" stop="20260114200000 +0000" channel="Music TV.mncvision">
     <title>Bucin (Bursa Music Indonesia)</title>
 </programme>
@@ -6141,7 +6137,7 @@ Error: Unable to fetch data. HTTP Status Code: 500
     <title>DMD Panggung Rezeki</title>
 </programme>
 <programme start="20260115070000 +0000" stop="20260115073000 +0000" channel="Music TV.mncvision">
-    <title>Xoxo</title>
+    <title>XOXO</title>
 </programme>
 <programme start="20260115073000 +0000" stop="20260115083000 +0000" channel="Music TV.mncvision">
     <title>Idolove</title>
@@ -6170,7 +6166,69 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260115163000 +0000" stop="20260114170000 +0000" channel="Music TV.mncvision">
     <title>KDI 2025</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260114190000 +0000" stop="20260114200000 +0000" channel="Music TV HD.mncvision">
+    <title>Bucin (Bursa Music Indonesia)</title>
+</programme>
+<programme start="20260114200000 +0000" stop="20260114203000 +0000" channel="Music TV HD.mncvision">
+    <title>Music Files</title>
+</programme>
+<programme start="20260114203000 +0000" stop="20260114213000 +0000" channel="Music TV HD.mncvision">
+    <title>Juke Box</title>
+</programme>
+<programme start="20260114213000 +0000" stop="20260114223000 +0000" channel="Music TV HD.mncvision">
+    <title>K-Hits</title>
+</programme>
+<programme start="20260114223000 +0000" stop="20260115001500 +0000" channel="Music TV HD.mncvision">
+    <title>One Hour With</title>
+</programme>
+<programme start="20260115001500 +0000" stop="20260115023000 +0000" channel="Music TV HD.mncvision">
+    <title>DMD Panggung Rezeki</title>
+</programme>
+<programme start="20260115023000 +0000" stop="20260115031500 +0000" channel="Music TV HD.mncvision">
+    <title>The Best Concert 2017</title>
+</programme>
+<programme start="20260115031500 +0000" stop="20260115034500 +0000" channel="Music TV HD.mncvision">
+    <title>Music Files</title>
+</programme>
+<programme start="20260115034500 +0000" stop="20260115041500 +0000" channel="Music TV HD.mncvision">
+    <title>Terbaik</title>
+</programme>
+<programme start="20260115041500 +0000" stop="20260115050000 +0000" channel="Music TV HD.mncvision">
+    <title>Godain</title>
+</programme>
+<programme start="20260115050000 +0000" stop="20260115070000 +0000" channel="Music TV HD.mncvision">
+    <title>DMD Panggung Rezeki</title>
+</programme>
+<programme start="20260115070000 +0000" stop="20260115073000 +0000" channel="Music TV HD.mncvision">
+    <title>XOXO</title>
+</programme>
+<programme start="20260115073000 +0000" stop="20260115083000 +0000" channel="Music TV HD.mncvision">
+    <title>Idolove</title>
+</programme>
+<programme start="20260115083000 +0000" stop="20260115100000 +0000" channel="Music TV HD.mncvision">
+    <title>Idolyfe</title>
+</programme>
+<programme start="20260115100000 +0000" stop="20260115110000 +0000" channel="Music TV HD.mncvision">
+    <title>Godain</title>
+</programme>
+<programme start="20260115110000 +0000" stop="20260115120000 +0000" channel="Music TV HD.mncvision">
+    <title>K-Hits</title>
+</programme>
+<programme start="20260115120000 +0000" stop="20260115130000 +0000" channel="Music TV HD.mncvision">
+    <title>Juke Box</title>
+</programme>
+<programme start="20260115130000 +0000" stop="20260115140000 +0000" channel="Music TV HD.mncvision">
+    <title>Bucin (Bursa Music Indonesia)</title>
+</programme>
+<programme start="20260115140000 +0000" stop="20260115153000 +0000" channel="Music TV HD.mncvision">
+    <title>Kilau DMD Ratu Casting</title>
+</programme>
+<programme start="20260115153000 +0000" stop="20260115163000 +0000" channel="Music TV HD.mncvision">
+    <title>Aishiteru</title>
+</programme>
+<programme start="20260115163000 +0000" stop="20260114170000 +0000" channel="Music TV HD.mncvision">
+    <title>KDI 2025</title>
+</programme>
 <programme start="20260114170000 +0000" stop="20260114173000 +0000" channel="Muslim TV.mncvision">
     <title>Para Malaikat Di Sekitar Kita</title>
 </programme>
@@ -7047,7 +7105,66 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260115160000 +0000" stop="20260115163000 +0000" channel="ONE.mncvision">
     <title>Taxi Driver S3, Ep 15</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260114174500 +0000" stop="20260114191500 +0000" channel="ONE HD.mncvision">
+    <title>Taxi Driver S3, Ep 14</title>
+</programme>
+<programme start="20260114191500 +0000" stop="20260114204000 +0000" channel="ONE HD.mncvision">
+    <title>Doctors, Ep 1</title>
+</programme>
+<programme start="20260114204000 +0000" stop="20260114220000 +0000" channel="ONE HD.mncvision">
+    <title>The Haunted Palace, Ep 14</title>
+</programme>
+<programme start="20260114220000 +0000" stop="20260114224500 +0000" channel="ONE HD.mncvision">
+    <title>The Woman Who..., Ep 95</title>
+</programme>
+<programme start="20260114224500 +0000" stop="20260115001000 +0000" channel="ONE HD.mncvision">
+    <title>Curtain Call, Ep 14</title>
+</programme>
+<programme start="20260115001000 +0000" stop="20260115013500 +0000" channel="ONE HD.mncvision">
+    <title>Doctors, Ep 1</title>
+</programme>
+<programme start="20260115013500 +0000" stop="20260115030000 +0000" channel="ONE HD.mncvision">
+    <title>The Haunted Palace, Ep 14</title>
+</programme>
+<programme start="20260115030000 +0000" stop="20260115034000 +0000" channel="ONE HD.mncvision">
+    <title>The Brave Yongsujung, Ep 37</title>
+</programme>
+<programme start="20260115034000 +0000" stop="20260115042500 +0000" channel="ONE HD.mncvision">
+    <title>The Brave Yongsujung, Ep 38</title>
+</programme>
+<programme start="20260115042500 +0000" stop="20260115051500 +0000" channel="ONE HD.mncvision">
+    <title>The Woman Who..., Ep 95</title>
+</programme>
+<programme start="20260115051500 +0000" stop="20260115064000 +0000" channel="ONE HD.mncvision">
+    <title>Curtain Call, Ep 14</title>
+</programme>
+<programme start="20260115064000 +0000" stop="20260115080500 +0000" channel="ONE HD.mncvision">
+    <title>The Haunted Palace, Ep 14</title>
+</programme>
+<programme start="20260115080500 +0000" stop="20260115085000 +0000" channel="ONE HD.mncvision">
+    <title>The Woman Who..., Ep 95</title>
+</programme>
+<programme start="20260115085000 +0000" stop="20260115093500 +0000" channel="ONE HD.mncvision">
+    <title>The Brave Yongsujung, Ep 37</title>
+</programme>
+<programme start="20260115093500 +0000" stop="20260115102000 +0000" channel="ONE HD.mncvision">
+    <title>The Brave Yongsujung, Ep 38</title>
+</programme>
+<programme start="20260115102000 +0000" stop="20260115114000 +0000" channel="ONE HD.mncvision">
+    <title>Doctors, Ep 2</title>
+</programme>
+<programme start="20260115114000 +0000" stop="20260115130000 +0000" channel="ONE HD.mncvision">
+    <title>The Haunted Palace, Ep 15</title>
+</programme>
+<programme start="20260115130000 +0000" stop="20260115143000 +0000" channel="ONE HD.mncvision">
+    <title>Taxi Driver S3, Ep 15</title>
+</programme>
+<programme start="20260115143000 +0000" stop="20260115160000 +0000" channel="ONE HD.mncvision">
+    <title>Brewer Lee, Ep 2</title>
+</programme>
+<programme start="20260115160000 +0000" stop="20260115163000 +0000" channel="ONE HD.mncvision">
+    <title>Taxi Driver S3, Ep 15</title>
+</programme>
 <programme start="20260114174800 +0000" stop="20260114191700 +0000" channel="ORIGINALS.mncvision">
     <title>Adventure Boyz</title>
 </programme>

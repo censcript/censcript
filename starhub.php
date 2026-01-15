@@ -1966,14 +1966,11 @@
     <programme start="20260115040000 +0000" stop="20260115055000 +0000" channel="beIN Sports 3.starhub">
         <title>Bundesliga 2025/26 Wolfsburg vs St. Pauli</title>
     </programme>
-    <programme start="20260115055000 +0000" stop="20260115074000 +0000" channel="beIN Sports 3.starhub">
+    <programme start="20260115055000 +0000" stop="20260115073500 +0000" channel="beIN Sports 3.starhub">
         <title>Pacific Nations Cup 2025 Japan vs Canada</title>
     </programme>
-    <programme start="20260115074000 +0000" stop="20260115093000 +0000" channel="beIN Sports 3.starhub">
+    <programme start="20260115073500 +0000" stop="20260115100000 +0000" channel="beIN Sports 3.starhub">
         <title>TotalEnergies Africa Cup of Nations, Morocco 2025 Senegal vs Egypt - SF 1</title>
-    </programme>
-    <programme start="20260115093000 +0000" stop="20260115100000 +0000" channel="beIN Sports 3.starhub">
-        <title>Documentary</title>
     </programme>
     <programme start="20260115100000 +0000" stop="20260115110000 +0000" channel="beIN Sports 3.starhub">
         <title>Stage 10</title>
@@ -2080,9 +2077,6 @@
     <programme start="20260114210000 +0000" stop="20260114223000 +0000" channel="CNN HD.starhub">
         <title>Quest Means Business (45m)</title>
     </programme>
-    <programme start="20260114223000 +0000" stop="20260114230000 +0000" channel="CNN HD.starhub">
-        <title>World Sport (30m)</title>
-    </programme>
     <programme start="20260114230000 +0000" stop="20260115000000 +0000" channel="CNN HD.starhub">
         <title>The Brief with Jim Sciutto</title>
     </programme>
@@ -2101,17 +2095,20 @@
     <programme start="20260115040000 +0000" stop="20260115050000 +0000" channel="CNN HD.starhub">
         <title>Laura Coates Live</title>
     </programme>
-    <programme start="20260115050000 +0000" stop="20260115070000 +0000" channel="CNN HD.starhub">
+    <programme start="20260115050000 +0000" stop="20260115060000 +0000" channel="CNN HD.starhub">
+        <title>The Story Is With Elex Michaelson</title>
+    </programme>
+    <programme start="20260115060000 +0000" stop="20260115070000 +0000" channel="CNN HD.starhub">
         <title>The Story Is With Elex Michaelson</title>
     </programme>
     <programme start="20260115070000 +0000" stop="20260115080000 +0000" channel="CNN HD.starhub">
-        <title>CNN Newsroom (CNNI) (60m)</title>
+        <title>The Story Is With Elex Michaelson</title>
     </programme>
     <programme start="20260115080000 +0000" stop="20260115090000 +0000" channel="CNN HD.starhub">
-        <title>CNN Newsroom (CNNI) (45m)</title>
+        <title>The Story Is With Elex Michaelson</title>
     </programme>
     <programme start="20260115090000 +0000" stop="20260115100000 +0000" channel="CNN HD.starhub">
-        <title>Amanpour</title>
+        <title>Early Start with Rahel Solomon</title>
     </programme>
     <programme start="20260115100000 +0000" stop="20260115110000 +0000" channel="CNN HD.starhub">
         <title>Early Start with Rahel Solomon</title>

@@ -470,7 +470,7 @@
         <title>Madras (2014)</title>
     </programme>
     <programme start="20260115110000 +0000" stop="20260115123000 +0000" channel="Vasantham.mewatch">
-        <title>The Arumugam Family</title>
+        <title>Hey Surya</title>
     </programme>
     <programme start="20260115123000 +0000" stop="20260115130000 +0000" channel="Vasantham.mewatch">
         <title>(Live) Seithi</title>

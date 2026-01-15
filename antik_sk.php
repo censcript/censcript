@@ -14797,8 +14797,8 @@
   <programme start="20260117220000 +0000" stop="20260118041000 +0000" channel="Life TV.webtv.sk">
     <title lang="id">Program z Domu modlitieb a chvál v Kansas City</title>
   </programme>
-  <programme start="20260116224200 +0000" stop="20260117015100 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Záznam z rokovania zastupiteľstva PSK / 8.12.2025</title>
+  <programme start="20260116213000 +0000" stop="20260117040000 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Živý prenos - Klokočov - Vsenocné bdenie z modlitbového stretnutia Akoimetos v Klokočove</title>
   </programme>
   <programme start="20260117040000 +0000" stop="20260117040500 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Otcovia púšte</title>
@@ -14815,10 +14815,10 @@
   <programme start="20260117045000 +0000" stop="20260117051500 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Gréckokatolícky magazín - Beatifikácia P. P. Orosa</title>
   </programme>
-  <programme start="20260117051500 +0000" stop="20260117052500 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20260117051500 +0000" stop="20260117052600 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Sobranský magazín</title>
   </programme>
-  <programme start="20260117052500 +0000" stop="20260117055400 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20260117052600 +0000" stop="20260117055400 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Michalovské správy 8.1.2026</title>
   </programme>
   <programme start="20260117055400 +0000" stop="20260117060000 +0000" channel="TV Zemplín.webtv.sk">
@@ -14830,13 +14830,13 @@
   <programme start="20260117071000 +0000" stop="20260117071500 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Otcovia púšte</title>
   </programme>
-  <programme start="20260117071500 +0000" stop="20260117073000 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20260117071500 +0000" stop="20260117073100 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Gréckokatolícky magazín - Beatifikácia P. P. Orosa</title>
   </programme>
-  <programme start="20260117073000 +0000" stop="20260117073900 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20260117073100 +0000" stop="20260117074000 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Sobranský magazín</title>
   </programme>
-  <programme start="20260117073900 +0000" stop="20260117074500 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20260117074000 +0000" stop="20260117074500 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Litmanovská Vizionárka Iveta: Aká je moja obľúbená modlitba?</title>
   </programme>
   <programme start="20260117074500 +0000" stop="20260117075500 +0000" channel="TV Zemplín.webtv.sk">
@@ -14872,8 +14872,11 @@
   <programme start="20260117114000 +0000" stop="20260117120600 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Michalovské správy 8.1.2026</title>
   </programme>
-  <programme start="20260117120600 +0000" stop="20260117123000 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20260117120600 +0000" stop="20260117122800 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Hutorime i bisidujeme - Priekopa</title>
+  </programme>
+  <programme start="20260117122800 +0000" stop="20260117123000 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Charakterové minútky - Iniciatíva vs. Ľahostajnosť</title>
   </programme>
   <programme start="20260117123000 +0000" stop="20260117124700 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Sobranský magazín</title>
@@ -14893,8 +14896,11 @@
   <programme start="20260117140000 +0000" stop="20260117143300 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Živý prenos - Litmanová - Korunka k Božiemu milosrdenstvu</title>
   </programme>
-  <programme start="20260117143300 +0000" stop="20260117144000 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20260117143300 +0000" stop="20260117143700 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Charakterové minútky - Tímovosť vs. Individualizmus</title>
+  </programme>
+  <programme start="20260117143700 +0000" stop="20260117144000 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Litmanovská vizionárka Iveta: Človek vie viac o rozpínavosti vesmíru, než o svojej duši</title>
   </programme>
   <programme start="20260117144000 +0000" stop="20260117145800 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Gréckokatolícky magazín - Beatifikácia P. P. Orosa</title>
@@ -14938,11 +14944,14 @@
   <programme start="20260117185500 +0000" stop="20260117193000 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Michalovské správy 8.1.2026</title>
   </programme>
-  <programme start="20260117193000 +0000" stop="20260117193900 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20260117193000 +0000" stop="20260117194000 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Sobranský magazín</title>
   </programme>
-  <programme start="20260117193900 +0000" stop="20260117200000 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20260117194000 +0000" stop="20260117195700 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Hutorime i bisidujeme - Poruba pod Vihorlatom</title>
+  </programme>
+  <programme start="20260117195700 +0000" stop="20260117200000 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Varenie v lese - Netradičný táborák</title>
   </programme>
   <programme start="20260117200000 +0000" stop="20260117202800 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Téma na Zemplíne - Od Silvestra do Troch kráľov</title>
@@ -16048,17 +16057,20 @@
   <programme start="20260117035500 +0000" stop="20260117040000 +0000" channel="TVP World.webtv.sk">
     <title lang="id">Weather</title>
   </programme>
-  <programme start="20260117040000 +0000" stop="20260117041500 +0000" channel="TVP World.webtv.sk">
+  <programme start="20260117040000 +0000" stop="20260117041000 +0000" channel="TVP World.webtv.sk">
     <title lang="id">World News Flash</title>
   </programme>
-  <programme start="20260117041500 +0000" stop="20260117050000 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">Document</title>
+  <programme start="20260117041000 +0000" stop="20260117050000 +0000" channel="TVP World.webtv.sk">
+    <title lang="id">When Titans Clash (3)</title>
   </programme>
   <programme start="20260117050000 +0000" stop="20260117053000 +0000" channel="TVP World.webtv.sk">
     <title lang="id">World News</title>
   </programme>
-  <programme start="20260117053000 +0000" stop="20260117060000 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">Document</title>
+  <programme start="20260117053000 +0000" stop="20260117055000 +0000" channel="TVP World.webtv.sk">
+    <title lang="id">Unseen Poland (1)</title>
+  </programme>
+  <programme start="20260117055000 +0000" stop="20260117060000 +0000" channel="TVP World.webtv.sk">
+    <title lang="id">Weather</title>
   </programme>
   <programme start="20260117060000 +0000" stop="20260117061000 +0000" channel="TVP World.webtv.sk">
     <title lang="id">World News Flash</title>
@@ -16102,8 +16114,11 @@
   <programme start="20260117090000 +0000" stop="20260117091500 +0000" channel="TVP World.webtv.sk">
     <title lang="id">World News</title>
   </programme>
-  <programme start="20260117091500 +0000" stop="20260117100000 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">Document</title>
+  <programme start="20260117091500 +0000" stop="20260117095000 +0000" channel="TVP World.webtv.sk">
+    <title lang="id">80 years after WW2: Dangerous Ideas Reawaken</title>
+  </programme>
+  <programme start="20260117095000 +0000" stop="20260117100000 +0000" channel="TVP World.webtv.sk">
+    <title lang="id">Weather</title>
   </programme>
   <programme start="20260117100000 +0000" stop="20260117101000 +0000" channel="TVP World.webtv.sk">
     <title lang="id">World News</title>
@@ -16201,11 +16216,11 @@
   <programme start="20260117154500 +0000" stop="20260117160000 +0000" channel="TVP World.webtv.sk">
     <title lang="id">World Talks (1681)</title>
   </programme>
-  <programme start="20260117160000 +0000" stop="20260117161500 +0000" channel="TVP World.webtv.sk">
+  <programme start="20260117160000 +0000" stop="20260117161000 +0000" channel="TVP World.webtv.sk">
     <title lang="id">World News Flash</title>
   </programme>
-  <programme start="20260117161500 +0000" stop="20260117170000 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">Document</title>
+  <programme start="20260117161000 +0000" stop="20260117170000 +0000" channel="TVP World.webtv.sk">
+    <title lang="id">When Titans Clash (1)</title>
   </programme>
   <programme start="20260117170000 +0000" stop="20260117171500 +0000" channel="TVP World.webtv.sk">
     <title lang="id">World News Flash</title>
@@ -16312,11 +16327,8 @@
   <programme start="20260117005500 +0000" stop="20260117013000 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Oko na Swiat (646)</title>
   </programme>
-  <programme start="20260117013000 +0000" stop="20260117021500 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260117013000 +0000" stop="20260117023000 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Panorama Dnia</title>
-  </programme>
-  <programme start="20260117021500 +0000" stop="20260117023000 +0000" channel="TVP Info.webtv.sk">
-    <title lang="id">112. Magazyn kryminalny</title>
   </programme>
   <programme start="20260117023000 +0000" stop="20260117024500 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Pogoda Info</title>
@@ -17539,7 +17551,10 @@
   <programme start="20260117130000 +0000" stop="20260117131000 +0000" channel="NHK World Japan.webtv.sk">
     <title lang="id">NHK NEWSLINE</title>
   </programme>
-  <programme start="20260117131000 +0000" stop="20260117134000 +0000" channel="NHK World Japan.webtv.sk">
+  <programme start="20260117131000 +0000" stop="20260117133500 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">Spiritual Explorers</title>
+  </programme>
+  <programme start="20260117133500 +0000" stop="20260117134000 +0000" channel="NHK World Japan.webtv.sk">
     <title lang="id">NHK WORLD SELECTION</title>
   </programme>
   <programme start="20260117134000 +0000" stop="20260117135500 +0000" channel="NHK World Japan.webtv.sk">
@@ -17614,7 +17629,10 @@
   <programme start="20260117190000 +0000" stop="20260117191000 +0000" channel="NHK World Japan.webtv.sk">
     <title lang="id">NHK NEWSLINE</title>
   </programme>
-  <programme start="20260117191000 +0000" stop="20260117194000 +0000" channel="NHK World Japan.webtv.sk">
+  <programme start="20260117191000 +0000" stop="20260117193500 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">Spiritual Explorers</title>
+  </programme>
+  <programme start="20260117193500 +0000" stop="20260117194000 +0000" channel="NHK World Japan.webtv.sk">
     <title lang="id">NHK WORLD SELECTION</title>
   </programme>
   <programme start="20260117194000 +0000" stop="20260117195500 +0000" channel="NHK World Japan.webtv.sk">
@@ -18973,16 +18991,13 @@
   <programme start="20260117000500 +0000" stop="20260117002000 +0000" channel="Rai Tre.webtv.sk">
     <title lang="id">TG3 Chi e di scena</title>
   </programme>
-  <programme start="20260117002000 +0000" stop="20260117003000 +0000" channel="Rai Tre.webtv.sk">
-    <title lang="id">Parlamento Magazine</title>
-  </programme>
-  <programme start="20260117003000 +0000" stop="20260117010500 +0000" channel="Rai Tre.webtv.sk">
+  <programme start="20260117002000 +0000" stop="20260117005500 +0000" channel="Rai Tre.webtv.sk">
     <title lang="id">Movie Mag</title>
   </programme>
-  <programme start="20260117010500 +0000" stop="20260117011000 +0000" channel="Rai Tre.webtv.sk">
+  <programme start="20260117005500 +0000" stop="20260117010000 +0000" channel="Rai Tre.webtv.sk">
     <title lang="id">Appuntamento al cinema</title>
   </programme>
-  <programme start="20260117011000 +0000" stop="20260117041000 +0000" channel="Rai Tre.webtv.sk">
+  <programme start="20260117010000 +0000" stop="20260117050000 +0000" channel="Rai Tre.webtv.sk">
     <title lang="id">RaiNews</title>
   </programme>
   <programme start="20260117050000 +0000" stop="20260117070000 +0000" channel="Rai Tre.webtv.sk">
