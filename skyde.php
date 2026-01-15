@@ -2759,10 +2759,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Info: UHD</title>
 </programme>
 <programme start="20260115023000 +0000" stop="20260115043000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
-    <title>BL: SC Freiburg - Hamburger SV, 16. Spieltag</title>
+    <title>BL: Samstagsspiel, 25. Spieltag</title>
 </programme>
 <programme start="20260115023000 +0000" stop="20260115043000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
-    <title>BL: Samstagsspiel, 25. Spieltag</title>
+    <title>BL: SC Freiburg - Hamburger SV, 16. Spieltag</title>
 </programme>
 <programme start="20260115043000 +0000" stop="20260115063000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
     <title>BL: 1. FC Köln - FC Bayern München, 17. Spieltag</title>
@@ -3733,10 +3733,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260115122000 +0000" stop="20260115130500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Rizzoli and Isles</title>
 </programme>
-<programme start="20260115130500 +0000" stop="20260115135000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260115130500 +0000" stop="20260115135500 +0000" channel="Warner TV Serie HD.skyde">
     <title>NCIS</title>
 </programme>
-<programme start="20260115135000 +0000" stop="20260115144000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260115135500 +0000" stop="20260115144000 +0000" channel="Warner TV Serie HD.skyde">
     <title>NCIS</title>
 </programme>
 <programme start="20260115144000 +0000" stop="20260115152500 +0000" channel="Warner TV Serie HD.skyde">

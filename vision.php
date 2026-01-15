@@ -679,6 +679,9 @@
 <programme start="20260115010000 +0000" stop="20260115023000 +0000" channel="ANTV.vision">
 <title>Baalveer Returns</title>
 </programme>
+<programme start="20260115023000 +0000" stop="20260115060000 +0000" channel="ANTV.vision">
+<title>Karan Arjun</title>
+</programme>
 <programme start="20260115060000 +0000" stop="20260115083000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -1375,11 +1378,11 @@
 <programme start="20260115014500 +0000" stop="20260115023000 +0000" channel="BTV.vision">
 <title>Masak Ala Devina Hermawan</title>
 </programme>
-<programme start="20260115023000 +0000" stop="20260115030000 +0000" channel="BTV.vision">
+<programme start="20260115023000 +0000" stop="20260115033000 +0000" channel="BTV.vision">
 <title>Investor Market Today</title>
 </programme>
-<programme start="20260115030000 +0000" stop="20260115040000 +0000" channel="BTV.vision">
-<title>Marketing Outlook 2026</title>
+<programme start="20260115033000 +0000" stop="20260115040000 +0000" channel="BTV.vision">
+<title>Indonesia Update Cerita IDN</title>
 </programme>
 <programme start="20260115040000 +0000" stop="20260115060000 +0000" channel="BTV.vision">
 <title>Berita Satu Siang</title>
@@ -1493,8 +1496,5 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260115110000 +0000" stop="20260115130000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260115130000 +0000" stop="20260115150000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>

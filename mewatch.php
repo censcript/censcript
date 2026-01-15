@@ -367,29 +367,17 @@
     <programme start="20260115153000 +0000" stop="20260115163000 +0000" channel="Channel U.mewatch">
         <title>Life&#039;s Perfectionists S17 - EP 10</title>
     </programme>
-    <programme start="20260114160000 +0000" stop="20260115010000 +0000" channel="Suria.mewatch">
+    <programme start="20260114160000 +0000" stop="20260115013000 +0000" channel="Suria.mewatch">
         <title>End of Transmission</title>
-    </programme>
-    <programme start="20260115010000 +0000" stop="20260115013000 +0000" channel="Suria.mewatch">
-        <title>Ultraman Arc - EP 24</title>
     </programme>
     <programme start="20260115013000 +0000" stop="20260115020000 +0000" channel="Suria.mewatch">
         <title>Joran Borneo - EP 8</title>
     </programme>
-    <programme start="20260115020000 +0000" stop="20260115030000 +0000" channel="Suria.mewatch">
+    <programme start="20260115020000 +0000" stop="20260115050000 +0000" channel="Suria.mewatch">
         <title>Bukan Sekadar Lafaz 2 - EP 20</title>
     </programme>
-    <programme start="20260115030000 +0000" stop="20260115040000 +0000" channel="Suria.mewatch">
-        <title>Kerasnya Takdir - EP 27</title>
-    </programme>
-    <programme start="20260115040000 +0000" stop="20260115050000 +0000" channel="Suria.mewatch">
-        <title>Di Luar Garisan</title>
-    </programme>
-    <programme start="20260115050000 +0000" stop="20260115060000 +0000" channel="Suria.mewatch">
+    <programme start="20260115050000 +0000" stop="20260115070000 +0000" channel="Suria.mewatch">
         <title>Hasrat Tersirat - EP 13</title>
-    </programme>
-    <programme start="20260115060000 +0000" stop="20260115070000 +0000" channel="Suria.mewatch">
-        <title>Sayap Cinta Terindah - EP 23</title>
     </programme>
     <programme start="20260115070000 +0000" stop="20260115073000 +0000" channel="Suria.mewatch">
         <title>Hard To Heart S5 - EP 9</title>
@@ -397,11 +385,8 @@
     <programme start="20260115073000 +0000" stop="20260115080000 +0000" channel="Suria.mewatch">
         <title>Sembang Sihat S4 - EP 1</title>
     </programme>
-    <programme start="20260115080000 +0000" stop="20260115090000 +0000" channel="Suria.mewatch">
+    <programme start="20260115080000 +0000" stop="20260115100000 +0000" channel="Suria.mewatch">
         <title>Dedaun Hijau Di Angin Lalu - EP 11</title>
-    </programme>
-    <programme start="20260115090000 +0000" stop="20260115100000 +0000" channel="Suria.mewatch">
-        <title>Cinta Tiada Ganti - EP 95</title>
     </programme>
     <programme start="20260115100000 +0000" stop="20260115103000 +0000" channel="Suria.mewatch">
         <title>Ultraman Arc - EP 24</title>
@@ -409,11 +394,8 @@
     <programme start="20260115103000 +0000" stop="20260115110000 +0000" channel="Suria.mewatch">
         <title>Joran Borneo - EP 9</title>
     </programme>
-    <programme start="20260115110000 +0000" stop="20260115120000 +0000" channel="Suria.mewatch">
+    <programme start="20260115110000 +0000" stop="20260115123000 +0000" channel="Suria.mewatch">
         <title>Bukan Sekadar Lafaz 2 - EP 21</title>
-    </programme>
-    <programme start="20260115120000 +0000" stop="20260115123000 +0000" channel="Suria.mewatch">
-        <title>(Live) Berita</title>
     </programme>
     <programme start="20260115123000 +0000" stop="20260115133000 +0000" channel="Suria.mewatch">
         <title>Detik Dokumentari 2025 - EP 2</title>
