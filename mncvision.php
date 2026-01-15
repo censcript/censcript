@@ -1045,6 +1045,366 @@
 <programme start="20260115153000 +0000" stop="20260115160000 +0000" channel="BBC World News.mncvision">
     <title>Verified Live</title>
 </programme>
+<programme start="20260114190000 +0000" stop="20260114192000 +0000" channel="beIN Sports 1.mncvision">
+    <title>LaLiga Match HL: GET Vs RSO</title>
+</programme>
+<programme start="20260114192000 +0000" stop="20260114194800 +0000" channel="beIN Sports 1.mncvision">
+    <title>FastZone 2025, Ep 40</title>
+</programme>
+<programme start="20260114194800 +0000" stop="20260114220000 +0000" channel="beIN Sports 1.mncvision">
+    <title>AFCON 2025: NGA Vs MAR (L)</title>
+</programme>
+<programme start="20260114220000 +0000" stop="20260114230000 +0000" channel="beIN Sports 1.mncvision">
+    <title>Asian Le Mans Series HL 2025/26</title>
+</programme>
+<programme start="20260114230000 +0000" stop="20260114233000 +0000" channel="beIN Sports 1.mncvision">
+    <title>Mini Match UEL: ROM Vs FCM</title>
+</programme>
+<programme start="20260114233000 +0000" stop="20260115000000 +0000" channel="beIN Sports 1.mncvision">
+    <title>Mini Match UEL: AVL Vs YBO</title>
+</programme>
+<programme start="20260115000000 +0000" stop="20260115013000 +0000" channel="beIN Sports 1.mncvision">
+    <title>Australian Open Qual. 2026 (L)</title>
+</programme>
+<programme start="20260115013000 +0000" stop="20260115033000 +0000" channel="beIN Sports 1.mncvision">
+    <title>Australian Open Qual. 2026 (L)</title>
+</programme>
+<programme start="20260115033000 +0000" stop="20260115053000 +0000" channel="beIN Sports 1.mncvision">
+    <title>Australian Open Qual. 2026 (L)</title>
+</programme>
+<programme start="20260115053000 +0000" stop="20260115060000 +0000" channel="beIN Sports 1.mncvision">
+    <title>Mini Match LaLiga: BAR Vs ATM</title>
+</programme>
+<programme start="20260115060000 +0000" stop="20260115063000 +0000" channel="beIN Sports 1.mncvision">
+    <title>Mini Match LaLiga: ATH Vs RMA</title>
+</programme>
+<programme start="20260115063000 +0000" stop="20260115070000 +0000" channel="beIN Sports 1.mncvision">
+    <title>FastZone 2025, Ep 40</title>
+</programme>
+<programme start="20260115070000 +0000" stop="20260115073000 +0000" channel="beIN Sports 1.mncvision">
+    <title>Mass Participation 2025</title>
+</programme>
+<programme start="20260115073000 +0000" stop="20260115080000 +0000" channel="beIN Sports 1.mncvision">
+    <title>Gearing Up 2025: January</title>
+</programme>
+<programme start="20260115080000 +0000" stop="20260115090000 +0000" channel="beIN Sports 1.mncvision">
+    <title>FIM World Supercross C&#039;ship</title>
+</programme>
+<programme start="20260115090000 +0000" stop="20260115110000 +0000" channel="beIN Sports 1.mncvision">
+    <title>LaLiga 2 2025/26: LEG Vs VLD</title>
+</programme>
+<programme start="20260115110000 +0000" stop="20260115113000 +0000" channel="beIN Sports 1.mncvision">
+    <title>FastZone 2025, Ep 40</title>
+</programme>
+<programme start="20260115113000 +0000" stop="20260115120500 +0000" channel="beIN Sports 1.mncvision">
+    <title>LaLiga Highlights 2025/26</title>
+</programme>
+<programme start="20260115120500 +0000" stop="20260115140000 +0000" channel="beIN Sports 1.mncvision">
+    <title>LaLiga 2025/26: RAY Vs MLL</title>
+</programme>
+<programme start="20260115140000 +0000" stop="20260115160000 +0000" channel="beIN Sports 1.mncvision">
+    <title>LaLiga 2025/26: LEV Vs ESP</title>
+</programme>
+<programme start="20260115160000 +0000" stop="20260115163000 +0000" channel="beIN Sports 1.mncvision">
+    <title>LaLiga Archive: MLL Vs ATM</title>
+</programme>
+<programme start="20260114190000 +0000" stop="20260114192000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>LaLiga Match HL: GET Vs RSO</title>
+</programme>
+<programme start="20260114192000 +0000" stop="20260114194800 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>FastZone 2025, Ep 40</title>
+</programme>
+<programme start="20260114194800 +0000" stop="20260114220000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>AFCON 2025: NGA Vs MAR (L)</title>
+</programme>
+<programme start="20260114220000 +0000" stop="20260114230000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>Asian Le Mans Series HL 2025/26</title>
+</programme>
+<programme start="20260114230000 +0000" stop="20260114233000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>Mini Match UEL: ROM Vs FCM</title>
+</programme>
+<programme start="20260114233000 +0000" stop="20260115000000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>Mini Match UEL: AVL Vs YBO</title>
+</programme>
+<programme start="20260115000000 +0000" stop="20260115013000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>Australian Open Qual. 2026 (L)</title>
+</programme>
+<programme start="20260115013000 +0000" stop="20260115033000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>Australian Open Qual. 2026 (L)</title>
+</programme>
+<programme start="20260115033000 +0000" stop="20260115053000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>Australian Open Qual. 2026 (L)</title>
+</programme>
+<programme start="20260115053000 +0000" stop="20260115060000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>Mini Match LaLiga: BAR Vs ATM</title>
+</programme>
+<programme start="20260115060000 +0000" stop="20260115063000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>Mini Match LaLiga: ATH Vs RMA</title>
+</programme>
+<programme start="20260115063000 +0000" stop="20260115070000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>FastZone 2025, Ep 40</title>
+</programme>
+<programme start="20260115070000 +0000" stop="20260115073000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>Mass Participation 2025</title>
+</programme>
+<programme start="20260115073000 +0000" stop="20260115080000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>Gearing Up 2025: January</title>
+</programme>
+<programme start="20260115080000 +0000" stop="20260115090000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>FIM World Supercross C&#039;ship</title>
+</programme>
+<programme start="20260115090000 +0000" stop="20260115110000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>LaLiga 2 2025/26: LEG Vs VLD</title>
+</programme>
+<programme start="20260115110000 +0000" stop="20260115113000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>FastZone 2025, Ep 40</title>
+</programme>
+<programme start="20260115113000 +0000" stop="20260115120500 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>LaLiga Highlights 2025/26</title>
+</programme>
+<programme start="20260115120500 +0000" stop="20260115140000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>LaLiga 2025/26: RAY Vs MLL</title>
+</programme>
+<programme start="20260115140000 +0000" stop="20260115160000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>LaLiga 2025/26: LEV Vs ESP</title>
+</programme>
+<programme start="20260115160000 +0000" stop="20260115163000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>LaLiga Archive: MLL Vs ATM</title>
+</programme>
+<programme start="20260114203000 +0000" stop="20260114204500 +0000" channel="beIN Sports 2.mncvision">
+    <title>Premier Padel Match HL 2025</title>
+</programme>
+<programme start="20260114204500 +0000" stop="20260115011500 +0000" channel="beIN Sports 2.mncvision">
+    <title>United Cup 2026: QF 4</title>
+</programme>
+<programme start="20260115011500 +0000" stop="20260115014500 +0000" channel="beIN Sports 2.mncvision">
+    <title>Australian Open Classic: 2023</title>
+</programme>
+<programme start="20260115014500 +0000" stop="20260115021500 +0000" channel="beIN Sports 2.mncvision">
+    <title>Australian Open Classic: 2024</title>
+</programme>
+<programme start="20260115021500 +0000" stop="20260115040000 +0000" channel="beIN Sports 2.mncvision">
+    <title>Best Of AO &#039;25: Women&#039;s Singles</title>
+</programme>
+<programme start="20260115040000 +0000" stop="20260115060000 +0000" channel="beIN Sports 2.mncvision">
+    <title>Best Of AO &#039;25: Women&#039;s Singles</title>
+</programme>
+<programme start="20260115060000 +0000" stop="20260115080000 +0000" channel="beIN Sports 2.mncvision">
+    <title>Australian Open 2026 (L)</title>
+</programme>
+<programme start="20260115080000 +0000" stop="20260115093000 +0000" channel="beIN Sports 2.mncvision">
+    <title>Australian Open 2026 (L)</title>
+</programme>
+<programme start="20260115093000 +0000" stop="20260115103000 +0000" channel="beIN Sports 2.mncvision">
+    <title>United Cup 2026: Review</title>
+</programme>
+<programme start="20260115103000 +0000" stop="20260115120000 +0000" channel="beIN Sports 2.mncvision">
+    <title>Australian Open Qualifying 2026</title>
+</programme>
+<programme start="20260115120000 +0000" stop="20260115133000 +0000" channel="beIN Sports 2.mncvision">
+    <title>Australian Open Qualifying 2026</title>
+</programme>
+<programme start="20260115133000 +0000" stop="20260115150000 +0000" channel="beIN Sports 2.mncvision">
+    <title>Australian Open Qualifying 2026</title>
+</programme>
+<programme start="20260115150000 +0000" stop="20260115153000 +0000" channel="beIN Sports 2.mncvision">
+    <title>Mini Match Australian Open &#039;25</title>
+</programme>
+<programme start="20260115153000 +0000" stop="20260115163000 +0000" channel="beIN Sports 2.mncvision">
+    <title>AO Originals 2026: Ambition</title>
+</programme>
+<programme start="20260115163000 +0000" stop="20260114170000 +0000" channel="beIN Sports 2.mncvision">
+    <title>United Cup 2026: SF 1</title>
+</programme>
+<programme start="20260114203000 +0000" stop="20260114204500 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>Premier Padel Match HL 2025</title>
+</programme>
+<programme start="20260114204500 +0000" stop="20260115011500 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>United Cup 2026: QF 4</title>
+</programme>
+<programme start="20260115011500 +0000" stop="20260115014500 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>Australian Open Classic: 2023</title>
+</programme>
+<programme start="20260115014500 +0000" stop="20260115021500 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>Australian Open Classic: 2024</title>
+</programme>
+<programme start="20260115021500 +0000" stop="20260115040000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>Best Of AO &#039;25: Women&#039;s Singles</title>
+</programme>
+<programme start="20260115040000 +0000" stop="20260115060000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>Best Of AO &#039;25: Women&#039;s Singles</title>
+</programme>
+<programme start="20260115060000 +0000" stop="20260115080000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>Australian Open 2026 (L)</title>
+</programme>
+<programme start="20260115080000 +0000" stop="20260115093000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>Australian Open 2026 (L)</title>
+</programme>
+<programme start="20260115093000 +0000" stop="20260115103000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>United Cup 2026: Review</title>
+</programme>
+<programme start="20260115103000 +0000" stop="20260115120000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>Australian Open Qualifying 2026</title>
+</programme>
+<programme start="20260115120000 +0000" stop="20260115133000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>Australian Open Qualifying 2026</title>
+</programme>
+<programme start="20260115133000 +0000" stop="20260115150000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>Australian Open Qualifying 2026</title>
+</programme>
+<programme start="20260115150000 +0000" stop="20260115153000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>Mini Match Australian Open &#039;25</title>
+</programme>
+<programme start="20260115153000 +0000" stop="20260115163000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>AO Originals 2026: Ambition</title>
+</programme>
+<programme start="20260115163000 +0000" stop="20260114170000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>United Cup 2026: SF 1</title>
+</programme>
+<programme start="20260114175000 +0000" stop="20260114194000 +0000" channel="beIN Sports 3.mncvision">
+    <title>CAF Champions: JSK Vs YAF</title>
+</programme>
+<programme start="20260114194000 +0000" stop="20260114213000 +0000" channel="beIN Sports 3.mncvision">
+    <title>CAF Champions: ASF Vs ALY</title>
+</programme>
+<programme start="20260114213000 +0000" stop="20260114232000 +0000" channel="beIN Sports 3.mncvision">
+    <title>CAF Champions: MCA Vs MSU</title>
+</programme>
+<programme start="20260114232000 +0000" stop="20260115005000 +0000" channel="beIN Sports 3.mncvision">
+    <title>Premier Padel 2025: Barcelona</title>
+</programme>
+<programme start="20260115005000 +0000" stop="20260115022000 +0000" channel="beIN Sports 3.mncvision">
+    <title>Premier Padel 2025: Barcelona</title>
+</programme>
+<programme start="20260115022000 +0000" stop="20260115032000 +0000" channel="beIN Sports 3.mncvision">
+    <title>Dakar Rally Highlights 2026</title>
+</programme>
+<programme start="20260115032000 +0000" stop="20260115042000 +0000" channel="beIN Sports 3.mncvision">
+    <title>WSL Highlights 2025/26</title>
+</programme>
+<programme start="20260115042000 +0000" stop="20260115065000 +0000" channel="beIN Sports 3.mncvision">
+    <title>AFCON 2025: NGA Vs MAR</title>
+</programme>
+<programme start="20260115065000 +0000" stop="20260115071000 +0000" channel="beIN Sports 3.mncvision">
+    <title>MUTV Specials: Reds In Europe</title>
+</programme>
+<programme start="20260115071000 +0000" stop="20260115090000 +0000" channel="beIN Sports 3.mncvision">
+    <title>AFCON 2025: SEN Vs EGY</title>
+</programme>
+<programme start="20260115090000 +0000" stop="20260115100000 +0000" channel="beIN Sports 3.mncvision">
+    <title>FEI Western European League</title>
+</programme>
+<programme start="20260115100000 +0000" stop="20260115110000 +0000" channel="beIN Sports 3.mncvision">
+    <title>Dakar Rally Highlights 2026</title>
+</programme>
+<programme start="20260115110000 +0000" stop="20260115130000 +0000" channel="beIN Sports 3.mncvision">
+    <title>TGL S2: Jupiter Vs New York</title>
+</programme>
+<programme start="20260115130000 +0000" stop="20260115133000 +0000" channel="beIN Sports 3.mncvision">
+    <title>MUTV HL 2025/26: BUR Vs MUN</title>
+</programme>
+<programme start="20260115133000 +0000" stop="20260115150000 +0000" channel="beIN Sports 3.mncvision">
+    <title>MUTV 2025/26: MUN Vs BHA</title>
+</programme>
+<programme start="20260115150000 +0000" stop="20260115153000 +0000" channel="beIN Sports 3.mncvision">
+    <title>MUTV Match Day: MUN Vs BHA</title>
+</programme>
+<programme start="20260115153000 +0000" stop="20260115160000 +0000" channel="beIN Sports 3.mncvision">
+    <title>MUTV Specials: Gentleman John</title>
+</programme>
+<programme start="20260115160000 +0000" stop="20260115163000 +0000" channel="beIN Sports 3.mncvision">
+    <title>Macau Grand Prix HL 2025</title>
+</programme>
+<programme start="20260114175000 +0000" stop="20260114194000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>CAF Champions: JSK Vs YAF</title>
+</programme>
+<programme start="20260114194000 +0000" stop="20260114213000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>CAF Champions: ASF Vs ALY</title>
+</programme>
+<programme start="20260114213000 +0000" stop="20260114232000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>CAF Champions: MCA Vs MSU</title>
+</programme>
+<programme start="20260114232000 +0000" stop="20260115005000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>Premier Padel 2025: Barcelona</title>
+</programme>
+<programme start="20260115005000 +0000" stop="20260115022000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>Premier Padel 2025: Barcelona</title>
+</programme>
+<programme start="20260115022000 +0000" stop="20260115032000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>Dakar Rally Highlights 2026</title>
+</programme>
+<programme start="20260115032000 +0000" stop="20260115042000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>WSL Highlights 2025/26</title>
+</programme>
+<programme start="20260115042000 +0000" stop="20260115065000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>AFCON 2025: NGA Vs MAR</title>
+</programme>
+<programme start="20260115065000 +0000" stop="20260115071000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>MUTV Specials: Reds In Europe</title>
+</programme>
+<programme start="20260115071000 +0000" stop="20260115090000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>AFCON 2025: SEN Vs EGY</title>
+</programme>
+<programme start="20260115090000 +0000" stop="20260115100000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>FEI Western European League</title>
+</programme>
+<programme start="20260115100000 +0000" stop="20260115110000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>Dakar Rally Highlights 2026</title>
+</programme>
+<programme start="20260115110000 +0000" stop="20260115130000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>TGL S2: Jupiter Vs New York</title>
+</programme>
+<programme start="20260115130000 +0000" stop="20260115133000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>MUTV HL 2025/26: BUR Vs MUN</title>
+</programme>
+<programme start="20260115133000 +0000" stop="20260115150000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>MUTV 2025/26: MUN Vs BHA</title>
+</programme>
+<programme start="20260115150000 +0000" stop="20260115153000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>MUTV Match Day: MUN Vs BHA</title>
+</programme>
+<programme start="20260115153000 +0000" stop="20260115160000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>MUTV Specials: Gentleman John</title>
+</programme>
+<programme start="20260115160000 +0000" stop="20260115163000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>Macau Grand Prix HL 2025</title>
+</programme>
+<programme start="20260114170000 +0000" stop="20260114190000 +0000" channel="beIN SPORTS 4.mncvision">
+    <title>beIN Sports 4</title>
+</programme>
+<programme start="20260114190000 +0000" stop="20260114210000 +0000" channel="beIN SPORTS 4.mncvision">
+    <title>beIN Sports 4</title>
+</programme>
+<programme start="20260114210000 +0000" stop="20260114230000 +0000" channel="beIN SPORTS 4.mncvision">
+    <title>beIN Sports 4</title>
+</programme>
+<programme start="20260114230000 +0000" stop="20260115010000 +0000" channel="beIN SPORTS 4.mncvision">
+    <title>beIN Sports 4</title>
+</programme>
+<programme start="20260115010000 +0000" stop="20260115030000 +0000" channel="beIN SPORTS 4.mncvision">
+    <title>beIN Sports 4</title>
+</programme>
+<programme start="20260115030000 +0000" stop="20260115050000 +0000" channel="beIN SPORTS 4.mncvision">
+    <title>beIN Sports 4</title>
+</programme>
+<programme start="20260115050000 +0000" stop="20260115070000 +0000" channel="beIN SPORTS 4.mncvision">
+    <title>beIN Sports 4</title>
+</programme>
+<programme start="20260115070000 +0000" stop="20260115090000 +0000" channel="beIN SPORTS 4.mncvision">
+    <title>beIN Sports 4</title>
+</programme>
+<programme start="20260115090000 +0000" stop="20260115110000 +0000" channel="beIN SPORTS 4.mncvision">
+    <title>beIN Sports 4</title>
+</programme>
+<programme start="20260115110000 +0000" stop="20260115130000 +0000" channel="beIN SPORTS 4.mncvision">
+    <title>beIN Sports 4</title>
+</programme>
+<programme start="20260115130000 +0000" stop="20260115150000 +0000" channel="beIN SPORTS 4.mncvision">
+    <title>beIN Sports 4</title>
+</programme>
+<programme start="20260115150000 +0000" stop="20260115153000 +0000" channel="beIN SPORTS 4.mncvision">
+    <title>beIN Sports 4</title>
+</programme>
 <programme start="20260114170000 +0000" stop="20260114190000 +0000" channel="beIN SPORTS 5.mncvision">
     <title>beIN Sports 5</title>
 </programme>
@@ -6084,156 +6444,6 @@
 </programme>
 <programme start="20260115120000 +0000" stop="20260115123000 +0000" channel="NHK World.mncvision">
     <title>Newsroom Tokyo</title>
-</programme>
-<programme start="20260114170500 +0000" stop="20260114171000 +0000" channel="NHK World Premium.mncvision">
-    <title>We Love Fluffy Animals</title>
-</programme>
-<programme start="20260114171000 +0000" stop="20260114173000 +0000" channel="NHK World Premium.mncvision">
-    <title>Spanish In A Happy Mood</title>
-</programme>
-<programme start="20260114173000 +0000" stop="20260114174000 +0000" channel="NHK World Premium.mncvision">
-    <title>Real-Life Travel English</title>
-</programme>
-<programme start="20260114174000 +0000" stop="20260114174500 +0000" channel="NHK World Premium.mncvision">
-    <title>World Weather</title>
-</programme>
-<programme start="20260114174500 +0000" stop="20260114180000 +0000" channel="NHK World Premium.mncvision">
-    <title>Kid&#039;s Discovery</title>
-</programme>
-<programme start="20260114180000 +0000" stop="20260114182500 +0000" channel="NHK World Premium.mncvision">
-    <title>With Mother</title>
-</programme>
-<programme start="20260114182500 +0000" stop="20260114183000 +0000" channel="NHK World Premium.mncvision">
-    <title>Japan Genesis: Pilgrimage To...</title>
-</programme>
-<programme start="20260114183000 +0000" stop="20260114184500 +0000" channel="NHK World Premium.mncvision">
-    <title>The Ghost Writer&#039;s Wife, Ep 73</title>
-</programme>
-<programme start="20260114184500 +0000" stop="20260114191200 +0000" channel="NHK World Premium.mncvision">
-    <title>Today&#039;s Close-Up</title>
-</programme>
-<programme start="20260114191200 +0000" stop="20260114191500 +0000" channel="NHK World Premium.mncvision">
-    <title>World Weather</title>
-</programme>
-<programme start="20260114191500 +0000" stop="20260114200000 +0000" channel="NHK World Premium.mncvision">
-    <title>Eat Up! Ultimate Homemade...</title>
-</programme>
-<programme start="20260114200000 +0000" stop="20260114202500 +0000" channel="NHK World Premium.mncvision">
-    <title>Grand Sumo 2026 January HL</title>
-</programme>
-<programme start="20260114202500 +0000" stop="20260114205600 +0000" channel="NHK World Premium.mncvision">
-    <title>Missing Cultural Treasures</title>
-</programme>
-<programme start="20260114205600 +0000" stop="20260114210000 +0000" channel="NHK World Premium.mncvision">
-    <title>World Weather</title>
-</programme>
-<programme start="20260114210000 +0000" stop="20260114220000 +0000" channel="NHK World Premium.mncvision">
-    <title>News: Good Morning, Japan</title>
-</programme>
-<programme start="20260114220000 +0000" stop="20260114230000 +0000" channel="NHK World Premium.mncvision">
-    <title>News: Good Morning, Japan</title>
-</programme>
-<programme start="20260114230000 +0000" stop="20260114231500 +0000" channel="NHK World Premium.mncvision">
-    <title>The Ghost Writer&#039;s Wife, Ep 74</title>
-</programme>
-<programme start="20260114231500 +0000" stop="20260115005400 +0000" channel="NHK World Premium.mncvision">
-    <title>Asaichi</title>
-</programme>
-<programme start="20260115005400 +0000" stop="20260115005500 +0000" channel="NHK World Premium.mncvision">
-    <title>World Weather</title>
-</programme>
-<programme start="20260115005500 +0000" stop="20260115010000 +0000" channel="NHK World Premium.mncvision">
-    <title>Exercise For Everyone</title>
-</programme>
-<programme start="20260115010000 +0000" stop="20260115010500 +0000" channel="NHK World Premium.mncvision">
-    <title>News &amp; Weather</title>
-</programme>
-<programme start="20260115010500 +0000" stop="20260115015000 +0000" channel="NHK World Premium.mncvision">
-    <title>Eat Up! Ultimate Homemade...</title>
-</programme>
-<programme start="20260115015000 +0000" stop="20260115021700 +0000" channel="NHK World Premium.mncvision">
-    <title>Today&#039;s Close-Up</title>
-</programme>
-<programme start="20260115021700 +0000" stop="20260115022000 +0000" channel="NHK World Premium.mncvision">
-    <title>Mini Program</title>
-</programme>
-<programme start="20260115022000 +0000" stop="20260115025000 +0000" channel="NHK World Premium.mncvision">
-    <title>Unaginobori LAB: What Makes...</title>
-</programme>
-<programme start="20260115025000 +0000" stop="20260115025600 +0000" channel="NHK World Premium.mncvision">
-    <title>Songs For Everyone</title>
-</programme>
-<programme start="20260115025600 +0000" stop="20260115030000 +0000" channel="NHK World Premium.mncvision">
-    <title>World Weather</title>
-</programme>
-<programme start="20260115030000 +0000" stop="20260115032000 +0000" channel="NHK World Premium.mncvision">
-    <title>News</title>
-</programme>
-<programme start="20260115032000 +0000" stop="20260115032800 +0000" channel="NHK World Premium.mncvision">
-    <title>Information Worth Knowing...</title>
-</programme>
-<programme start="20260115032800 +0000" stop="20260115033000 +0000" channel="NHK World Premium.mncvision">
-    <title>Mini Program</title>
-</programme>
-<programme start="20260115033000 +0000" stop="20260115034500 +0000" channel="NHK World Premium.mncvision">
-    <title>Massan, Ep 14</title>
-</programme>
-<programme start="20260115034500 +0000" stop="20260115040000 +0000" channel="NHK World Premium.mncvision">
-    <title>The Ghost Writer&#039;s Wife, Ep 74</title>
-</programme>
-<programme start="20260115040000 +0000" stop="20260115040500 +0000" channel="NHK World Premium.mncvision">
-    <title>News</title>
-</programme>
-<programme start="20260115040500 +0000" stop="20260115055000 +0000" channel="NHK World Premium.mncvision">
-    <title>News Around Japan</title>
-</programme>
-<programme start="20260115055000 +0000" stop="20260115055500 +0000" channel="NHK World Premium.mncvision">
-    <title>World Weather</title>
-</programme>
-<programme start="20260115055500 +0000" stop="20260115060000 +0000" channel="NHK World Premium.mncvision">
-    <title>World Music Album</title>
-</programme>
-<programme start="20260115060000 +0000" stop="20260115061000 +0000" channel="NHK World Premium.mncvision">
-    <title>News &amp; Weather</title>
-</programme>
-<programme start="20260115061000 +0000" stop="20260115064000 +0000" channel="NHK World Premium.mncvision">
-    <title>Asagaya House: Let&#039;s Enjoy...</title>
-</programme>
-<programme start="20260115064000 +0000" stop="20260115065000 +0000" channel="NHK World Premium.mncvision">
-    <title>Mimicries: Natural Science</title>
-</programme>
-<programme start="20260115065000 +0000" stop="20260115065500 +0000" channel="NHK World Premium.mncvision">
-    <title>Songs For Everyone</title>
-</programme>
-<programme start="20260115065500 +0000" stop="20260115090000 +0000" channel="NHK World Premium.mncvision">
-    <title>Grand Sumo 2026 January</title>
-</programme>
-<programme start="20260115090000 +0000" stop="20260115091000 +0000" channel="NHK World Premium.mncvision">
-    <title>News</title>
-</programme>
-<programme start="20260115091000 +0000" stop="20260115092000 +0000" channel="NHK World Premium.mncvision">
-    <title>City-Scope</title>
-</programme>
-<programme start="20260115092000 +0000" stop="20260115093500 +0000" channel="NHK World Premium.mncvision">
-    <title>Peek-A-Boo</title>
-</programme>
-<programme start="20260115093500 +0000" stop="20260115100000 +0000" channel="NHK World Premium.mncvision">
-    <title>With Mother</title>
-</programme>
-<programme start="20260115100000 +0000" stop="20260115103000 +0000" channel="NHK World Premium.mncvision">
-    <title>NHK News</title>
-</programme>
-<programme start="20260115103000 +0000" stop="20260115111500 +0000" channel="NHK World Premium.mncvision">
-    <title>The Instruction Manual Show</title>
-</programme>
-<programme start="20260115111500 +0000" stop="20260115114500 +0000" channel="NHK World Premium.mncvision">
-    <title>Missing Cultural Treasures</title>
-</programme>
-<programme start="20260115114500 +0000" stop="20260115120000 +0000" channel="NHK World Premium.mncvision">
-    <title>NHK News</title>
-</programme>
-<programme start="20260115120000 +0000" stop="20260115123000 +0000" channel="NHK World Premium.mncvision">
-    <title>News Watch 9</title>
 </programme>
 <programme start="20260114171500 +0000" stop="20260114173000 +0000" channel="Nick Jr. HD.mncvision">
     <title>Barbapapa: Big Happy Family</title>

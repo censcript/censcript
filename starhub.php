@@ -3785,7 +3785,7 @@
         <title>Anchorman 2: The Legend Continues</title>
     </programme>
     <programme start="20260114181000 +0000" stop="20260114190500 +0000" channel="HBO HD.starhub">
-        <title>Industry S4</title>
+        <title>Paypal Of Bukkake</title>
     </programme>
     <programme start="20260114190500 +0000" stop="20260114203000 +0000" channel="HBO HD.starhub">
         <title>Metalocalypse: Army Of The Doomstar</title>
@@ -5393,7 +5393,7 @@
         <title>Made In Taiwan</title>
     </programme>
     <programme start="20260114170000 +0000" stop="20260114180000 +0000" channel="CTI TV HD.starhub">
-        <title>Huang,M.D.</title>
+        <title>Kangsi Coming</title>
     </programme>
     <programme start="20260114180000 +0000" stop="20260114190000 +0000" channel="CTI TV HD.starhub">
         <title>Super Followers</title>
@@ -5774,25 +5774,25 @@
         <title>End of Transmission</title>
     </programme>
     <programme start="20260114160000 +0000" stop="20260114170000 +0000" channel="TVBS-NEWS.starhub">
-        <title>Late Night Vision</title>
+        <title>Late Night Vision (Live)</title>
     </programme>
     <programme start="20260114170000 +0000" stop="20260114180000 +0000" channel="TVBS-NEWS.starhub">
-        <title>News Night</title>
+        <title>News Night (Live)</title>
     </programme>
     <programme start="20260114180000 +0000" stop="20260114190000 +0000" channel="TVBS-NEWS.starhub">
-        <title>Late Night Vision</title>
+        <title>Late Night Vision (Live)</title>
     </programme>
     <programme start="20260114190000 +0000" stop="20260114200000 +0000" channel="TVBS-NEWS.starhub">
-        <title>Late Night Vision</title>
+        <title>Late Night Vision (Live)</title>
     </programme>
     <programme start="20260114200000 +0000" stop="20260114210000 +0000" channel="TVBS-NEWS.starhub">
-        <title>2100 Hot Topics</title>
+        <title>2100 Hot Topics (Live)</title>
     </programme>
     <programme start="20260114210000 +0000" stop="20260114220000 +0000" channel="TVBS-NEWS.starhub">
-        <title>News Night</title>
+        <title>News Night (Live)</title>
     </programme>
     <programme start="20260114220000 +0000" stop="20260114230000 +0000" channel="TVBS-NEWS.starhub">
-        <title>Early Morning News</title>
+        <title>Early Morning News (Live)</title>
     </programme>
     <programme start="20260114230000 +0000" stop="20260115000000 +0000" channel="TVBS-NEWS.starhub">
         <title>Early Morning News (Live)</title>
