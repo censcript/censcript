@@ -139,7 +139,10 @@
 <programme start="20260116033000 +0000" stop="20260116041500 +0000" channel="MNCTV.vision">
 <title>Lintas iNews Siang</title>
 </programme>
-<programme start="20260116041500 +0000" stop="20260116060000 +0000" channel="MNCTV.vision">
+<programme start="20260116041500 +0000" stop="20260116044500 +0000" channel="MNCTV.vision">
+<title>Jurnal Lintas iNews Siang</title>
+</programme>
+<programme start="20260116044500 +0000" stop="20260116060000 +0000" channel="MNCTV.vision">
 <title>Upin &amp; Ipin</title>
 </programme>
 <programme start="20260116060000 +0000" stop="20260116073000 +0000" channel="MNCTV.vision">
@@ -687,6 +690,12 @@
 </programme>
 <programme start="20260115114500 +0000" stop="20260115131500 +0000" channel="ANTV.vision">
 <title>Senandung Cinta Lilis</title>
+</programme>
+<programme start="20260115131500 +0000" stop="20260115151500 +0000" channel="ANTV.vision">
+<title>Darah Perjaka</title>
+</programme>
+<programme start="20260115151500 +0000" stop="20260115171500 +0000" channel="ANTV.vision">
+<title>Saya Suka Kamu Punya</title>
 </programme>
 <programme start="20260115171500 +0000" stop="20260115191500 +0000" channel="ANTV.vision">
 <title>Mall Klender</title>
@@ -1487,14 +1496,5 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260115130000 +0000" stop="20260115150000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260115150000 +0000" stop="20260115170000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260115170000 +0000" stop="20260115190000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260115190000 +0000" stop="20260115210000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
