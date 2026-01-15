@@ -2800,7 +2800,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260115181000 +0000" stop="20260115183000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Es folgt: Live Bundesliga</title>
 </programme>
-<programme start="20260115183000 +0000" stop="20260115221500 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+<programme start="20260115183000 +0000" stop="20260115224500 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Live BL: Tactical Feed: FCA - FCU, 17. Spieltag</title>
 </programme>
 <programme start="20260114230000 +0000" stop="20260115000000 +0000" channel="Sky Sport F1 HD.skyde">

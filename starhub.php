@@ -3718,7 +3718,13 @@
     <programme start="20260115065000 +0000" stop="20260115065500 +0000" channel="NHK World Premium HD.starhub">
         <title>Songs for Everyone (R)</title>
     </programme>
-    <programme start="20260115065500 +0000" stop="20260115090000 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20260115065500 +0000" stop="20260115070200 +0000" channel="NHK World Premium HD.starhub">
+        <title>Grand Sumo 2026 January Tournament at Kokugikan (B)</title>
+    </programme>
+    <programme start="20260115070200 +0000" stop="20260115071900 +0000" channel="NHK World Premium HD.starhub">
+        <title>News</title>
+    </programme>
+    <programme start="20260115071900 +0000" stop="20260115090000 +0000" channel="NHK World Premium HD.starhub">
         <title>Grand Sumo 2026 January Tournament at Kokugikan (B)</title>
     </programme>
     <programme start="20260115090000 +0000" stop="20260115091000 +0000" channel="NHK World Premium HD.starhub">
@@ -3749,7 +3755,7 @@
         <title>News Watch 9 (B)</title>
     </programme>
     <programme start="20260115130000 +0000" stop="20260115132900 +0000" channel="NHK World Premium HD.starhub">
-        <title>Special Program</title>
+        <title>Neighbor&#039;s Nurturing Session</title>
     </programme>
     <programme start="20260115132900 +0000" stop="20260115134500 +0000" channel="NHK World Premium HD.starhub">
         <title>Mini Program</title>
@@ -5435,7 +5441,7 @@
         <title>Made In Taiwan</title>
     </programme>
     <programme start="20260115090000 +0000" stop="20260115100000 +0000" channel="CTI TV HD.starhub">
-        <title>Huang,M.D.</title>
+        <title>Kangsi Coming</title>
     </programme>
     <programme start="20260115100000 +0000" stop="20260115110000 +0000" channel="CTI TV HD.starhub">
         <title>CTI News Live</title>
