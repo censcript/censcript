@@ -275,7 +275,7 @@
 <title>iNews Room (L)</title>
 </programme>
 <programme start="20260115130000 +0000" stop="20260115140000 +0000" channel="iNews.vision">
-<title>Interupsi (iNews)</title>
+<title>Interupsi (L)</title>
 </programme>
 <programme start="20260115140000 +0000" stop="20260115150000 +0000" channel="iNews.vision">
 <title>iNews Prime (L)</title>
@@ -679,20 +679,20 @@
 <programme start="20260115010000 +0000" stop="20260115023000 +0000" channel="ANTV.vision">
 <title>Baalveer Returns</title>
 </programme>
-<programme start="20260115023000 +0000" stop="20260115060000 +0000" channel="ANTV.vision">
-<title>Karan Arjun</title>
-</programme>
 <programme start="20260115060000 +0000" stop="20260115083000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
-<programme start="20260115083000 +0000" stop="20260115114500 +0000" channel="ANTV.vision">
+<programme start="20260115083000 +0000" stop="20260115100000 +0000" channel="ANTV.vision">
 <title>Vasudha</title>
+</programme>
+<programme start="20260115100000 +0000" stop="20260115114500 +0000" channel="ANTV.vision">
+<title>Shani</title>
 </programme>
 <programme start="20260115114500 +0000" stop="20260115131500 +0000" channel="ANTV.vision">
 <title>Senandung Cinta Lilis</title>
 </programme>
 <programme start="20260115131500 +0000" stop="20260115151500 +0000" channel="ANTV.vision">
-<title>Darah Perjaka</title>
+<title>Si Buta Dari Gua Hantu</title>
 </programme>
 <programme start="20260115151500 +0000" stop="20260115171500 +0000" channel="ANTV.vision">
 <title>Saya Suka Kamu Punya</title>
@@ -700,17 +700,14 @@
 <programme start="20260115171500 +0000" stop="20260115191500 +0000" channel="ANTV.vision">
 <title>Mall Klender</title>
 </programme>
-<programme start="20260115191500 +0000" stop="20260115214500 +0000" channel="ANTV.vision">
+<programme start="20260115191500 +0000" stop="20260115213000 +0000" channel="ANTV.vision">
 <title>Serie A Liga Italia</title>
 </programme>
-<programme start="20260115214500 +0000" stop="20260115223000 +0000" channel="ANTV.vision">
-<title>Senyum Iman</title>
-</programme>
-<programme start="20260115223000 +0000" stop="20260115230000 +0000" channel="ANTV.vision">
-<title>Super Viral</title>
+<programme start="20260115213000 +0000" stop="20260115230000 +0000" channel="ANTV.vision">
+<title>Sword Man</title>
 </programme>
 <programme start="20260115230000 +0000" stop="20260116010000 +0000" channel="ANTV.vision">
-<title>Shani</title>
+<title>Rindu Tak Berujung</title>
 </programme>
 <programme start="20260116010000 +0000" stop="20260116023000 +0000" channel="ANTV.vision">
 <title>Baalveer Returns</title>
@@ -721,8 +718,11 @@
 <programme start="20260116060000 +0000" stop="20260116083000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
-<programme start="20260116083000 +0000" stop="20260116114500 +0000" channel="ANTV.vision">
+<programme start="20260116083000 +0000" stop="20260116100000 +0000" channel="ANTV.vision">
 <title>Vasudha</title>
+</programme>
+<programme start="20260116100000 +0000" stop="20260116114500 +0000" channel="ANTV.vision">
+<title>Shani</title>
 </programme>
 <programme start="20260116114500 +0000" stop="20260116131500 +0000" channel="ANTV.vision">
 <title>Senandung Cinta Lilis</title>

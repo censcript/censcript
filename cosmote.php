@@ -134,6 +134,14 @@
     <title>Serie A Full Impact 2024-25 E20</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260117020000 +0700" stop="20260117024500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Serie A Inside Serie A 2025-26 E21</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260117024500 +0700" stop="20260117044500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Pisa - Atalanta (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
 <programme start="20260116010000 +0700" stop="20260116030000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Gil Vicente - Sporting CP</title>
     <desc>Live: Tidak</desc>
@@ -197,6 +205,10 @@
 <programme start="20260117003000 +0700" stop="20260117023000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Al Ittihad - Al Ettifaq FC (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20260117023000 +0700" stop="20260117030000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Emirates FA Cup 2025-26 - Highlights</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260116002000 +0700" stop="20260116023000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Karditsa - KK Spartak</title>
@@ -262,8 +274,8 @@
     <title>NBA Action 2025-26 E3513 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260115235000 +0700" stop="20260116012000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC</title>
+<programme start="20260117023000 +0700" stop="20260117043000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Valencia Basket Club - Unicaja</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260116012000 +0700" stop="20260116022000 +0700" channel="COSMOTE Sport 5 HD">
@@ -362,6 +374,10 @@
     <title>DTM</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260117023000 +0700" stop="20260117030000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Sports Classics: Gearing Up 2024 E12</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260116010000 +0700" stop="20260116021500 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Aleksandar Vukic - Tommy Paul</title>
     <desc>Live: Tidak</desc>
@@ -432,14 +448,6 @@
 </programme>
 <programme start="20260117010000 +0700" stop="20260117050000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP 250 2026</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260115230000 +0700" stop="20260116013000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>Volleyball: Eczacibasi Dynavit Istanbul - Olympiacos (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20260116013000 +0700" stop="20260116020000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260116020000 +0700" stop="20260116030000 +0700" channel="COSMOTE Sport 7 HD">
