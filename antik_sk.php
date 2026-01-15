@@ -1171,10 +1171,10 @@
   <programme start="20260117003000 +0000" stop="20260117061000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">LIV Golf Tour</title>
   </programme>
-  <programme start="20260117061000 +0000" stop="20260117081500 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260117061000 +0000" stop="20260117082500 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">FIS Skoky na lyžiach</title>
   </programme>
-  <programme start="20260117081500 +0000" stop="20260117092500 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260117082500 +0000" stop="20260117092500 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Hokej - Zostrihy Tipsport ligy</title>
   </programme>
   <programme start="20260117092500 +0000" stop="20260117094000 +0000" channel="JOJ Šport.webtv.sk">
@@ -1186,10 +1186,10 @@
   <programme start="20260117111500 +0000" stop="20260117112500 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">FIS štúdio</title>
   </programme>
-  <programme start="20260117112500 +0000" stop="20260117132000 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260117112500 +0000" stop="20260117132500 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">FIS Svetový pohár zjazd muži</title>
   </programme>
-  <programme start="20260117132000 +0000" stop="20260117145000 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260117132500 +0000" stop="20260117145000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Skialpinizmus Svetový pohár</title>
   </programme>
   <programme start="20260117145000 +0000" stop="20260117175000 +0000" channel="JOJ Šport.webtv.sk">
@@ -1198,10 +1198,10 @@
   <programme start="20260117175000 +0000" stop="20260117202000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Basketbal - Tipos extraliga</title>
   </programme>
-  <programme start="20260117202000 +0000" stop="20260117222500 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260117202000 +0000" stop="20260117221500 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Krasokorčuľovanie ME 2026</title>
   </programme>
-  <programme start="20260117222500 +0000" stop="20260118003500 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260117221500 +0000" stop="20260118003500 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Hokej - Tipsport liga</title>
   </programme>
   <programme start="20260116220000 +0000" stop="20260117001000 +0000" channel="JOJ Šport 2.webtv.sk">
