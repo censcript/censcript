@@ -157,9 +157,6 @@
 <programme start="20260115000000 +0000" stop="20260115003000 +0000" channel="GTV.vision">
 <title>Buletin iNews Pagi</title>
 </programme>
-<programme start="20260115003000 +0000" stop="20260115013000 +0000" channel="GTV.vision">
-<title>Obrolan Seputar Selebriti (GTV)</title>
-</programme>
 <programme start="20260115013000 +0000" stop="20260115020000 +0000" channel="GTV.vision">
 <title>CoComelon Dan Sahabat</title>
 </programme>
@@ -454,7 +451,7 @@
 <programme start="20260116110000 +0000" stop="20260116120000 +0000" channel="SindoNews.vision">
 <title>SINDO Files</title>
 </programme>
-<programme start="20260108233000 +0000" stop="20260109003000 +0000" channel="Trans TV.vision">
+<programme start="20260114233000 +0000" stop="20260115003000 +0000" channel="Trans TV.vision">
 <title>Insert Pagi (L)</title>
 </programme>
 <programme start="20260115003000 +0000" stop="20260115013000 +0000" channel="Trans TV.vision">
@@ -532,7 +529,7 @@
 <programme start="20260116103000 +0000" stop="20260116114500 +0000" channel="Trans TV.vision">
 <title>Bikin Laper</title>
 </programme>
-<programme start="20260110114500 +0000" stop="20260110130000 +0000" channel="Trans TV.vision">
+<programme start="20260116114500 +0000" stop="20260116130000 +0000" channel="Trans TV.vision">
 <title>Insert Story</title>
 </programme>
 <programme start="20260114233000 +0000" stop="20260115003000 +0000" channel="Trans 7.vision">
