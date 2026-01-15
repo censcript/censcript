@@ -6106,6 +6106,7 @@
 <programme start="20260115153100 +0000" stop="20260115160100 +0000" channel="Moonbug.mncvision">
     <title>Little Baby Bum</title>
 </programme>
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260114190000 +0000" stop="20260114200000 +0000" channel="Music TV.mncvision">
     <title>Bucin (Bursa Music Indonesia)</title>
 </programme>
@@ -6169,69 +6170,7 @@
 <programme start="20260115163000 +0000" stop="20260114170000 +0000" channel="Music TV.mncvision">
     <title>KDI 2025</title>
 </programme>
-<programme start="20260114190000 +0000" stop="20260114200000 +0000" channel="Music TV HD.mncvision">
-    <title>Bucin (Bursa Music Indonesia)</title>
-</programme>
-<programme start="20260114200000 +0000" stop="20260114203000 +0000" channel="Music TV HD.mncvision">
-    <title>Music Files</title>
-</programme>
-<programme start="20260114203000 +0000" stop="20260114213000 +0000" channel="Music TV HD.mncvision">
-    <title>Juke Box</title>
-</programme>
-<programme start="20260114213000 +0000" stop="20260114223000 +0000" channel="Music TV HD.mncvision">
-    <title>K-Hits</title>
-</programme>
-<programme start="20260114223000 +0000" stop="20260115001500 +0000" channel="Music TV HD.mncvision">
-    <title>One Hour With</title>
-</programme>
-<programme start="20260115001500 +0000" stop="20260115023000 +0000" channel="Music TV HD.mncvision">
-    <title>DMD Panggung Rezeki</title>
-</programme>
-<programme start="20260115023000 +0000" stop="20260115031500 +0000" channel="Music TV HD.mncvision">
-    <title>The Best Concert 2017</title>
-</programme>
-<programme start="20260115031500 +0000" stop="20260115034500 +0000" channel="Music TV HD.mncvision">
-    <title>Music Files</title>
-</programme>
-<programme start="20260115034500 +0000" stop="20260115041500 +0000" channel="Music TV HD.mncvision">
-    <title>Terbaik</title>
-</programme>
-<programme start="20260115041500 +0000" stop="20260115050000 +0000" channel="Music TV HD.mncvision">
-    <title>Godain</title>
-</programme>
-<programme start="20260115050000 +0000" stop="20260115070000 +0000" channel="Music TV HD.mncvision">
-    <title>DMD Panggung Rezeki</title>
-</programme>
-<programme start="20260115070000 +0000" stop="20260115073000 +0000" channel="Music TV HD.mncvision">
-    <title>Xoxo</title>
-</programme>
-<programme start="20260115073000 +0000" stop="20260115083000 +0000" channel="Music TV HD.mncvision">
-    <title>Idolove</title>
-</programme>
-<programme start="20260115083000 +0000" stop="20260115100000 +0000" channel="Music TV HD.mncvision">
-    <title>Idolyfe</title>
-</programme>
-<programme start="20260115100000 +0000" stop="20260115110000 +0000" channel="Music TV HD.mncvision">
-    <title>Godain</title>
-</programme>
-<programme start="20260115110000 +0000" stop="20260115120000 +0000" channel="Music TV HD.mncvision">
-    <title>K-Hits</title>
-</programme>
-<programme start="20260115120000 +0000" stop="20260115130000 +0000" channel="Music TV HD.mncvision">
-    <title>Juke Box</title>
-</programme>
-<programme start="20260115130000 +0000" stop="20260115140000 +0000" channel="Music TV HD.mncvision">
-    <title>Bucin (Bursa Music Indonesia)</title>
-</programme>
-<programme start="20260115140000 +0000" stop="20260115153000 +0000" channel="Music TV HD.mncvision">
-    <title>Kilau DMD Ratu Casting</title>
-</programme>
-<programme start="20260115153000 +0000" stop="20260115163000 +0000" channel="Music TV HD.mncvision">
-    <title>Aishiteru</title>
-</programme>
-<programme start="20260115163000 +0000" stop="20260114170000 +0000" channel="Music TV HD.mncvision">
-    <title>KDI 2025</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260114170000 +0000" stop="20260114173000 +0000" channel="Muslim TV.mncvision">
     <title>Para Malaikat Di Sekitar Kita</title>
 </programme>
@@ -7108,66 +7047,7 @@
 <programme start="20260115160000 +0000" stop="20260115163000 +0000" channel="ONE.mncvision">
     <title>Taxi Driver S3, Ep 15</title>
 </programme>
-<programme start="20260114174500 +0000" stop="20260114191500 +0000" channel="ONE HD.mncvision">
-    <title>Taxi Driver S3, Ep 14</title>
-</programme>
-<programme start="20260114191500 +0000" stop="20260114204000 +0000" channel="ONE HD.mncvision">
-    <title>Doctors, Ep 1</title>
-</programme>
-<programme start="20260114204000 +0000" stop="20260114220000 +0000" channel="ONE HD.mncvision">
-    <title>The Haunted Palace, Ep 14</title>
-</programme>
-<programme start="20260114220000 +0000" stop="20260114224500 +0000" channel="ONE HD.mncvision">
-    <title>The Woman Who..., Ep 95</title>
-</programme>
-<programme start="20260114224500 +0000" stop="20260115001000 +0000" channel="ONE HD.mncvision">
-    <title>Curtain Call, Ep 14</title>
-</programme>
-<programme start="20260115001000 +0000" stop="20260115013500 +0000" channel="ONE HD.mncvision">
-    <title>Doctors, Ep 1</title>
-</programme>
-<programme start="20260115013500 +0000" stop="20260115030000 +0000" channel="ONE HD.mncvision">
-    <title>The Haunted Palace, Ep 14</title>
-</programme>
-<programme start="20260115030000 +0000" stop="20260115034000 +0000" channel="ONE HD.mncvision">
-    <title>The Brave Yongsujung, Ep 37</title>
-</programme>
-<programme start="20260115034000 +0000" stop="20260115042500 +0000" channel="ONE HD.mncvision">
-    <title>The Brave Yongsujung, Ep 38</title>
-</programme>
-<programme start="20260115042500 +0000" stop="20260115051500 +0000" channel="ONE HD.mncvision">
-    <title>The Woman Who..., Ep 95</title>
-</programme>
-<programme start="20260115051500 +0000" stop="20260115064000 +0000" channel="ONE HD.mncvision">
-    <title>Curtain Call, Ep 14</title>
-</programme>
-<programme start="20260115064000 +0000" stop="20260115080500 +0000" channel="ONE HD.mncvision">
-    <title>The Haunted Palace, Ep 14</title>
-</programme>
-<programme start="20260115080500 +0000" stop="20260115085000 +0000" channel="ONE HD.mncvision">
-    <title>The Woman Who..., Ep 95</title>
-</programme>
-<programme start="20260115085000 +0000" stop="20260115093500 +0000" channel="ONE HD.mncvision">
-    <title>The Brave Yongsujung, Ep 37</title>
-</programme>
-<programme start="20260115093500 +0000" stop="20260115102000 +0000" channel="ONE HD.mncvision">
-    <title>The Brave Yongsujung, Ep 38</title>
-</programme>
-<programme start="20260115102000 +0000" stop="20260115114000 +0000" channel="ONE HD.mncvision">
-    <title>Doctors, Ep 2</title>
-</programme>
-<programme start="20260115114000 +0000" stop="20260115130000 +0000" channel="ONE HD.mncvision">
-    <title>The Haunted Palace, Ep 15</title>
-</programme>
-<programme start="20260115130000 +0000" stop="20260115143000 +0000" channel="ONE HD.mncvision">
-    <title>Taxi Driver S3, Ep 15</title>
-</programme>
-<programme start="20260115143000 +0000" stop="20260115160000 +0000" channel="ONE HD.mncvision">
-    <title>Brewer Lee, Ep 2</title>
-</programme>
-<programme start="20260115160000 +0000" stop="20260115163000 +0000" channel="ONE HD.mncvision">
-    <title>Taxi Driver S3, Ep 15</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260114174800 +0000" stop="20260114191700 +0000" channel="ORIGINALS.mncvision">
     <title>Adventure Boyz</title>
 </programme>

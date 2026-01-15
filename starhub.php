@@ -2171,40 +2171,43 @@
         <title>Barcelona Finals Men</title>
     </programme>
     <programme start="20260114204500 +0000" stop="20260115011500 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>United Cup 2026: QF 4 Australia v Poland</title>
+        <title>QF 4 Australia v Poland</title>
     </programme>
     <programme start="20260115011500 +0000" stop="20260115014500 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Australian Open Classic: 2023 Women&#039;s Final Rybakina v Sabalenka</title>
+        <title>2023 Women&#039;s Final Rybakina v Sabalenka</title>
     </programme>
     <programme start="20260115014500 +0000" stop="20260115021500 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Australian Open Classic: 2024 Men’s Final Sinner v Medvedev</title>
+        <title>2024 Men’s Final Sinner v Medvedev</title>
     </programme>
     <programme start="20260115021500 +0000" stop="20260115040000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Best Of AO 2025: Women&#039;s Singles SF Sabalenka v Badosa</title>
+        <title>Women&#039;s Singles SF Sabalenka v Badosa</title>
     </programme>
     <programme start="20260115040000 +0000" stop="20260115060000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Best Of AO 2025: Women&#039;s Singles SF Swiatek v Keys</title>
+        <title>Women&#039;s Singles SF Swiatek v Keys</title>
     </programme>
     <programme start="20260115060000 +0000" stop="20260115080000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Australian Open 2026: Charity Match - Djokovic v Tiafoe (Live)</title>
+        <title>Charity Match - Djokovic v Tiafoe</title>
     </programme>
     <programme start="20260115080000 +0000" stop="20260115093000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Australian Open 2026: Charity Match - Alcaraz v De Minaur (Live)</title>
+        <title>Charity Match - Alcaraz v De Minaur</title>
     </programme>
     <programme start="20260115093000 +0000" stop="20260115103000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>United Cup 2026: Tournament Review</title>
+        <title>Tournament Review</title>
     </programme>
     <programme start="20260115103000 +0000" stop="20260115120000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Australian Open Qualifying 2026: Match 1</title>
+        <title>Travaglia v Sweeny</title>
     </programme>
     <programme start="20260115120000 +0000" stop="20260115133000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Australian Open Qualifying 2026: Match 2</title>
+        <title>Wong v Ymer</title>
     </programme>
     <programme start="20260115133000 +0000" stop="20260115150000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Australian Open Qualifying 2026: Match 3</title>
+        <title>Blockx v Kubler</title>
     </programme>
-    <programme start="20260115150000 +0000" stop="20260115163000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Australian Open Qualifying 2026: Match 4</title>
+    <programme start="20260115150000 +0000" stop="20260115153000 +0000" channel="beIN Sports 2 HD.starhub">
+        <title>Women&#039;s Singles Final Sabalenka v Keys</title>
+    </programme>
+    <programme start="20260115153000 +0000" stop="20260115163000 +0000" channel="beIN Sports 2 HD.starhub">
+        <title>Ambition: Next Gen Now</title>
     </programme>
     <programme start="20260114160000 +0000" stop="20260114170000 +0000" channel="TVB Xing He.starhub">
         <title>Happy Ever After</title>
@@ -4535,13 +4538,13 @@
         <title>Pongal Thina Sirappu Pattimandram 2026</title>
     </programme>
     <programme start="20260115030000 +0000" stop="20260115060000 +0000" channel="Vijay TV HD.starhub">
-        <title>DNA</title>
+        <title>Diesel</title>
     </programme>
     <programme start="20260115060000 +0000" stop="20260115080000 +0000" channel="Vijay TV HD.starhub">
-        <title>To Be Announced</title>
+        <title>Dhilluku Dhuddu - Dare To Win</title>
     </programme>
     <programme start="20260115080000 +0000" stop="20260115113000 +0000" channel="Vijay TV HD.starhub">
-        <title>DNA</title>
+        <title>Bison: Kaalamaadan</title>
     </programme>
     <programme start="20260115113000 +0000" stop="20260115120000 +0000" channel="Vijay TV HD.starhub">
         <title>Chinna Marumagal Panirendaam Vaguppu</title>
@@ -6563,13 +6566,13 @@
         <title>Mini Match - UEFA Europa League 2025/26: Aston Villa vs Young Boys - MD5</title>
     </programme>
     <programme start="20260115000000 +0000" stop="20260115013000 +0000" channel="beIN Sports HD.starhub">
-        <title>Australian Open Qualifying 2026: Travaglia v Dane (Live)</title>
+        <title>Australian Open Qualifying 2026: Travaglia v Sweeny (Live)</title>
     </programme>
     <programme start="20260115013000 +0000" stop="20260115033000 +0000" channel="beIN Sports HD.starhub">
-        <title>Australian Open Qualifying 2026: Wong v Moller (Live)</title>
+        <title>Australian Open Qualifying 2026: Wong v Ymer (Live)</title>
     </programme>
     <programme start="20260115033000 +0000" stop="20260115053000 +0000" channel="beIN Sports HD.starhub">
-        <title>Australian Open Qualifying 2026: Match 3 (Live)</title>
+        <title>Australian Open Qualifying 2026: Blockx v Kubler (Live)</title>
     </programme>
     <programme start="20260115053000 +0000" stop="20260115060000 +0000" channel="beIN Sports HD.starhub">
         <title>Mini Match - LaLiga 2025/26: Barcelona vs Atletico Madrid</title>
@@ -7567,13 +7570,13 @@
     <programme start="20260114232000 +0000" stop="20260115013000 +0000" channel="Asianet Movies.starhub">
         <title>Mulla</title>
     </programme>
-    <programme start="20260115013000 +0000" stop="20260115043000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260115013000 +0000" stop="20260115043500 +0000" channel="Asianet Movies.starhub">
         <title>Casanova</title>
     </programme>
-    <programme start="20260115043000 +0000" stop="20260115073000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260115043500 +0000" stop="20260115072500 +0000" channel="Asianet Movies.starhub">
         <title>Forensic</title>
     </programme>
-    <programme start="20260115073000 +0000" stop="20260115103000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260115072500 +0000" stop="20260115103000 +0000" channel="Asianet Movies.starhub">
         <title>Neymar</title>
     </programme>
     <programme start="20260115103000 +0000" stop="20260115133000 +0000" channel="Asianet Movies.starhub">
