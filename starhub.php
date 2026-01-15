@@ -1970,7 +1970,7 @@
         <title>Pacific Nations Cup 2025 Japan vs Canada</title>
     </programme>
     <programme start="20260115073500 +0000" stop="20260115100000 +0000" channel="beIN Sports 3.starhub">
-        <title>TotalEnergies Africa Cup of Nations, Morocco 2025 Senegal vs Egypt - SF 1</title>
+        <title>TotalEnergies Africa Cup of Nations, Morocco 2025 Nigeria vs Morocco - SF 2</title>
     </programme>
     <programme start="20260115100000 +0000" stop="20260115110000 +0000" channel="beIN Sports 3.starhub">
         <title>Stage 10</title>
@@ -6371,7 +6371,7 @@
         <title>Episode 1</title>
     </programme>
     <programme start="20260115143000 +0000" stop="20260115160000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>ASB Classic (250) QF 4</title>
+        <title>Adelaide International (250) Day 3 Rd 2 Session 2 (Centre Court)</title>
     </programme>
     <programme start="20260114141500 +0000" stop="20260114163500 +0000" channel="SONY MAX.starhub">
         <title>Aurangzeb</title>

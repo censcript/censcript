@@ -425,7 +425,7 @@
     <title>Darah Perjaka</title>
 </programme>
 <programme start="20260115151500 +0000" stop="20260115154500 +0000" channel="ANTV.mncvision">
-    <title>Saya Suka Kamu Punya</title>
+    <title>Jodoh Boleh Diatur</title>
 </programme>
 <programme start="20260114170000 +0000" stop="20260114173000 +0000" channel="Arirang.mncvision">
     <title>K-Culture Dive</title>
