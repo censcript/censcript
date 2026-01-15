@@ -70,6 +70,14 @@
     <title>Game R1 S6 E21</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260117040000 +0700" stop="20260117043000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEFA Champions League Magazine 2025-26 E16</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260117043000 +0700" stop="20260117053000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Highlights: UEL &amp; UECL 2025-26</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260116023000 +0700" stop="20260116044500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: AEK - OFI</title>
     <desc>Live: Tidak</desc>
@@ -137,6 +145,10 @@
 <programme start="20260117024500 +0700" stop="20260117044500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Pisa - Atalanta (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20260117044500 +0700" stop="20260117065500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Levadiakos - Kifisia</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260116030000 +0700" stop="20260116050000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Pafos FC - Omonia Aradippou</title>
@@ -270,8 +282,8 @@
     <title>Basketball: Valencia Basket Club - Unicaja</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260116022000 +0700" stop="20260116032000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: MotoGP</title>
+<programme start="20260117043000 +0700" stop="20260117050000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>NBA Specials</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260116032000 +0700" stop="20260116042000 +0700" channel="COSMOTE Sport 5 HD">
@@ -374,8 +386,8 @@
     <title>2025 GT World Challenge Europe</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260116021500 +0700" stop="20260116040000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: Alejandro Davidovich Fokina - Valentin Vacherot</title>
+<programme start="20260117042000 +0700" stop="20260117052000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260116040000 +0700" stop="20260116050000 +0700" channel="COSMOTE Sport 6 HD">
