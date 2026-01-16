@@ -4921,10 +4921,13 @@
     <programme start="20260116074000 +0000" stop="20260116080000 +0000" channel="KBS World HD.starhub">
         <title>KBS WORLD News Today</title>
     </programme>
-    <programme start="20260116080000 +0000" stop="20260116080500 +0000" channel="KBS World HD.starhub">
+    <programme start="20260116080000 +0000" stop="20260116082000 +0000" channel="KBS World HD.starhub">
+        <title>The 46th Blue Dragon Film Awards Highlights</title>
+    </programme>
+    <programme start="20260116082000 +0000" stop="20260116082500 +0000" channel="KBS World HD.starhub">
         <title>Music Bank K-Chart</title>
     </programme>
-    <programme start="20260116080500 +0000" stop="20260116093500 +0000" channel="KBS World HD.starhub">
+    <programme start="20260116082500 +0000" stop="20260116093500 +0000" channel="KBS World HD.starhub">
         <title>Music Bank</title>
     </programme>
     <programme start="20260116093500 +0000" stop="20260116095000 +0000" channel="KBS World HD.starhub">

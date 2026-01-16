@@ -146,6 +146,14 @@
     <title>Football: Levadiakos - Kifisia</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260117141000 +0700" stop="20260117143000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Sports Classics: Worldies E12</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260117143000 +0700" stop="20260117164000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Olympiacos - PAOK</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260116110000 +0700" stop="20260116143000 +0700" channel="COSMOTE Sport 3 HD">
     <title>American Football: Pittsburgh Steelers - Houston Texans</title>
     <desc>Live: Tidak</desc>
@@ -270,6 +278,10 @@
     <title>Basketball: Andorra - Real Madrid</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260117143000 +0700" stop="20260117161500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Pick n&#039; Roll</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260116124000 +0700" stop="20260116141000 +0700" channel="COSMOTE Sport 5 HD">
     <title>DTM</title>
     <desc>Live: Tidak</desc>
@@ -382,6 +394,14 @@
     <title>WRC Magazine 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260117141000 +0700" stop="20260117145500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260117145500 +0700" stop="20260117160000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260116123000 +0700" stop="20260116150000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Volleyball: Panathinaikos - Braga</title>
     <desc>Live: Tidak</desc>
@@ -441,6 +461,14 @@
 <programme start="20260117113000 +0700" stop="20260117140000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP 250 2026 (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20260117140000 +0700" stop="20260117143000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Sports Classics: The Outdoor Sports Show 2024 E12</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260117143000 +0700" stop="20260117150000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Watersports: Inside Sailing E12</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260116130000 +0700" stop="20260116150000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
