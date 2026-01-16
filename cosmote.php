@@ -154,10 +154,6 @@
     <title>Football: SSC Napoli - Sassuolo (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260116223000 +0700" stop="20260117003000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: SL Benfica - Estoril</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260117003000 +0700" stop="20260117023000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Al Ittihad - Al Ettifaq FC (L)</title>
     <desc>Live: Ya</desc>
@@ -210,8 +206,8 @@
     <title>Football: Pafos FC - Omonia Aradippou</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260116214000 +0700" stop="20260117001000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Dallas Mavericks - Denver Nuggets</title>
+<programme start="20260118010000 +0700" stop="20260118030000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Oxford United F.C. - Bristol City</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260117001000 +0700" stop="20260117015500 +0700" channel="COSMOTE Sport 4 HD">
@@ -280,10 +276,6 @@
 </programme>
 <programme start="20260117235500 +0700" stop="20260118020000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Reyer Venezia - Virtus Bologna</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260116230500 +0700" stop="20260117004000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260117004000 +0700" stop="20260117014000 +0700" channel="COSMOTE Sport 5 HD">
@@ -398,6 +390,10 @@
     <title>WRC</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260118014000 +0700" stop="20260118023500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>2025 GT World Challenge Europe</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260117000000 +0700" stop="20260117020500 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Tomas Machac - Tommy Paul</title>
     <desc>Live: Tidak</desc>
@@ -466,8 +462,8 @@
     <title>Tennis: Sebastian Baez - Jakub Mensik</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260116230000 +0700" stop="20260117010000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
+<programme start="20260118010000 +0700" stop="20260118023000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Volleyball: Eczacibasi Dynavit Istanbul - Olympiacos</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260117010000 +0700" stop="20260117030000 +0700" channel="COSMOTE Sport 7 HD">
@@ -542,10 +538,6 @@
     <title>Football: Al Nassr - Al Shabab (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260116230000 +0700" stop="20260117010000 +0700" channel="COSMOTE Sport 8 HD">
-    <title>COSMOTESport8HD</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260117010000 +0700" stop="20260117030000 +0700" channel="COSMOTE Sport 8 HD">
     <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
@@ -618,10 +610,6 @@
     <title>Basketball: Bertram Derthona Tortona - Armani Milano (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260116230000 +0700" stop="20260117010000 +0700" channel="COSMOTE Sport 9 HD">
-    <title>COSMOTESport9HD</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260117010000 +0700" stop="20260117030000 +0700" channel="COSMOTE Sport 9 HD">
     <title>COSMOTESport9HD</title>
     <desc>Live: Tidak</desc>
@@ -679,6 +667,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260118003000 +0700" stop="20260118010000 +0700" channel="COSMOTE Sport 9 HD">
+    <title>COSMOTESport9HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260118010000 +0700" stop="20260118030000 +0700" channel="COSMOTE Sport 9 HD">
     <title>COSMOTESport9HD</title>
     <desc>Live: Tidak</desc>
 </programme>
