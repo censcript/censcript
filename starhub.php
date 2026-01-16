@@ -6307,23 +6307,11 @@
     <programme start="20260115220000 +0000" stop="20260115223000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Wuhan Open</title>
     </programme>
-    <programme start="20260115223000 +0000" stop="20260116000000 +0000" channel="Hub Sports 1  HD.starhub">
+    <programme start="20260115223000 +0000" stop="20260116011500 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Adelaide International (500) QF 4</title>
     </programme>
-    <programme start="20260116000000 +0000" stop="20260116040000 +0000" channel="Hub Sports 1  HD.starhub">
+    <programme start="20260116011500 +0000" stop="20260116053000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>ASB Classic (250) SF 1 &amp; 2</title>
-    </programme>
-    <programme start="20260116040000 +0000" stop="20260116043000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Finals Riyadh Highlights Show</title>
-    </programme>
-    <programme start="20260116043000 +0000" stop="20260116050000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Episode 1</title>
-    </programme>
-    <programme start="20260116050000 +0000" stop="20260116051500 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Show 140</title>
-    </programme>
-    <programme start="20260116051500 +0000" stop="20260116053000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Show 141</title>
     </programme>
     <programme start="20260116053000 +0000" stop="20260116093000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>YONEX-SUNRISE India Open (Super 750): QF Session 1 (Court 2)</title>
