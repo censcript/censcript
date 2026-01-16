@@ -1,7 +1,3 @@
-<programme start="20260116193000 +0700" stop="20260116213000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: Omonoia FC - Rakow Czestochowa</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260116213000 +0700" stop="20260116233000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Fotbal Club FCSB - Feyenoord</title>
     <desc>Live: Tidak</desc>
@@ -78,6 +74,10 @@
     <title>Sports Classics: Worldies E16</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260117220000 +0700" stop="20260118000000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: Oxford United F.C. - Bristol City (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
 <programme start="20260116205000 +0700" stop="20260116225000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Atalanta - Torino</title>
     <desc>Live: Tidak</desc>
@@ -146,14 +146,6 @@
     <title>Football: Udinese - FC Internazionale Milano (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260116183000 +0700" stop="20260116211500 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Everton - Sunderland</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260116211500 +0700" stop="20260116214500 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Copa Sudamericana 2025 - Highlights</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260116214500 +0700" stop="20260116221500 +0700" channel="COSMOTE Sport 3 HD">
     <title>Copa Libertadores 2025 - Highlights</title>
     <desc>Live: Tidak</desc>
@@ -212,14 +204,6 @@
 </programme>
 <programme start="20260117210000 +0700" stop="20260117230000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Liverpool FC - Barnsley</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260116190000 +0700" stop="20260116211000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Tofas - Cholet</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260116211000 +0700" stop="20260116214000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>NBA Specials</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260116214000 +0700" stop="20260117001000 +0700" channel="COSMOTE Sport 4 HD">
@@ -284,10 +268,6 @@
 </programme>
 <programme start="20260117212000 +0700" stop="20260117232000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Szolnoki Olaj - Trieste</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260116205500 +0700" stop="20260116212500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260116212500 +0700" stop="20260116222500 +0700" channel="COSMOTE Sport 5 HD">
@@ -402,6 +382,10 @@
     <title>WRC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260117222000 +0700" stop="20260117231000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260116210000 +0700" stop="20260116225000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Volleyball: Panathinaikos - Braga</title>
     <desc>Live: Tidak</desc>
@@ -467,6 +451,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260117200000 +0700" stop="20260117223000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: ATP 250 2026</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260117223000 +0700" stop="20260118010000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP 250 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
@@ -657,5 +645,9 @@
 <programme start="20260117213000 +0700" stop="20260117220000 +0700" channel="COSMOTE Sport 9 HD">
     <title>COSMOTESport9HD</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260117220000 +0700" stop="20260118000000 +0700" channel="COSMOTE Sport 9 HD">
+    <title>Basketball: Erokspor - Anadolu Efes (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 No EPG found for COSMOTE Sport 10 HD
