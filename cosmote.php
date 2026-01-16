@@ -394,27 +394,39 @@
     <title>Premier Padel Tour 2025 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260116210000 +0700" stop="20260116233000 +0700" channel="COSMOTE Sport 6 HD">
+<programme start="20260116210000 +0700" stop="20260116225000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Volleyball: Panathinaikos - Braga</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260116233000 +0700" stop="20260117003000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>ATP 2025 - Review</title>
+<programme start="20260116225000 +0700" stop="20260116233000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Watersports: Inside Sailing 2025 E12</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260117003000 +0700" stop="20260117010000 +0700" channel="COSMOTE Sport 6 HD">
+<programme start="20260116233000 +0700" stop="20260117000000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Sports Classics: The Outdoor Sports Show 2025 E12</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260117010000 +0700" stop="20260117050000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: ATP 250 2026</title>
+<programme start="20260117000000 +0700" stop="20260117020500 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: Tomas Machac - Tommy Paul</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260117050000 +0700" stop="20260117073000 +0700" channel="COSMOTE Sport 6 HD">
+<programme start="20260117020500 +0700" stop="20260117050000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: Alejandro Davidovich Fokina - Ugo Humbert</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260117050000 +0700" stop="20260117064500 +0700" channel="COSMOTE Sport 6 HD">
     <title>Volleyball: Panathinaikos - Braga</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260117073000 +0700" stop="20260117083000 +0700" channel="COSMOTE Sport 6 HD">
+<programme start="20260117064500 +0700" stop="20260117071500 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Sports Classics: The Outdoor Sports Show 2025 E12</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260117071500 +0700" stop="20260117073500 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Sports Classics: Worldies E10</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260117073500 +0700" stop="20260117083000 +0700" channel="COSMOTE Sport 6 HD">
     <title>ATP 2025 - Review</title>
     <desc>Live: Tidak</desc>
 </programme>
