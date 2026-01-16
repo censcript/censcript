@@ -78,10 +78,6 @@
     <title>Football: Omonoia FC - Rakow Czestochowa</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260116100000 +0700" stop="20260116120000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Udinese - Pisa</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260116120000 +0700" stop="20260116141000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Kifisia - AEL Novibet</title>
     <desc>Live: Tidak</desc>
@@ -144,6 +140,10 @@
 </programme>
 <programme start="20260117095500 +0700" stop="20260117120000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: AEK - OFI</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260117120000 +0700" stop="20260117141000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Levadiakos - Kifisia</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260116110000 +0700" stop="20260116143000 +0700" channel="COSMOTE Sport 3 HD">
@@ -266,6 +266,10 @@
     <title>Basketball: Houston Rockets - Minnesota Timberwolves (L)</title>
     <desc>Live: Ya</desc>
 </programme>
+<programme start="20260117123000 +0700" stop="20260117143000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Andorra - Real Madrid</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260116110000 +0700" stop="20260116124000 +0700" channel="COSMOTE Sport 5 HD">
     <title>DTM</title>
     <desc>Live: Tidak</desc>
@@ -374,9 +378,9 @@
     <title>DTM 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260116093000 +0700" stop="20260116120000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: Tomas Machac - Tommy Paul (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20260117122000 +0700" stop="20260117134000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>DTM 2025</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260116120000 +0700" stop="20260116123000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Premier Padel Tour 2025 - Highlights</title>
@@ -503,6 +507,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260117113000 +0700" stop="20260117120000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260117120000 +0700" stop="20260117130000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>

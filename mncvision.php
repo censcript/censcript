@@ -8386,96 +8386,8 @@
 <programme start="20260116153000 +0000" stop="20260116160000 +0000" channel="Sportstars HD.mncvision">
     <title>V-League 2025-2026 Men</title>
 </programme>
-<programme start="20260115180000 +0000" stop="20260115183000 +0000" channel="SPOTV.mncvision">
-    <title>ALM Mini Match: WEL Vs ADL</title>
-</programme>
-<programme start="20260115183000 +0000" stop="20260115190000 +0000" channel="SPOTV.mncvision">
-    <title>ALM Mini Match: MCY Vs NEW</title>
-</programme>
-<programme start="20260115190000 +0000" stop="20260115220000 +0000" channel="SPOTV.mncvision">
-    <title>Latin America Amateur (L)</title>
-</programme>
-<programme start="20260115220000 +0000" stop="20260115230000 +0000" channel="SPOTV.mncvision">
-    <title>2025 WSX C&#039;ship: Stockholm</title>
-</programme>
-<programme start="20260115230000 +0000" stop="20260116023500 +0000" channel="SPOTV.mncvision">
-    <title>BDMNTN-XL Jakarta 2025</title>
-</programme>
-<programme start="20260116023500 +0000" stop="20260116044500 +0000" channel="SPOTV.mncvision">
-    <title>25/26 Roshn Saudi League</title>
-</programme>
-<programme start="20260116044500 +0000" stop="20260116053000 +0000" channel="SPOTV.mncvision">
-    <title>2025 WSX C&#039;ship: Cape Town</title>
-</programme>
-<programme start="20260116053000 +0000" stop="20260116073000 +0000" channel="SPOTV.mncvision">
-    <title>Formula E S12: Sao Paulo</title>
-</programme>
-<programme start="20260116073000 +0000" stop="20260116104000 +0000" channel="SPOTV.mncvision">
-    <title>Latin America Amateur C&#039;ship</title>
-</programme>
-<programme start="20260116104000 +0000" stop="20260116124500 +0000" channel="SPOTV.mncvision">
-    <title>A-League Men: PER Vs BRI (L)</title>
-</programme>
-<programme start="20260116124500 +0000" stop="20260116150000 +0000" channel="SPOTV.mncvision">
-    <title>Formula E S12: Sao Paulo</title>
-</programme>
-<programme start="20260116150000 +0000" stop="20260116153000 +0000" channel="SPOTV.mncvision">
-    <title>25/26 Roshn Saudi League</title>
-</programme>
-<programme start="20260115183000 +0000" stop="20260115190000 +0000" channel="SPOTV 2.mncvision">
-    <title>2025/26 ALM Mini Match</title>
-</programme>
-<programme start="20260115190000 +0000" stop="20260115193000 +0000" channel="SPOTV 2.mncvision">
-    <title>2025/26 ALM Mini Match</title>
-</programme>
-<programme start="20260115193000 +0000" stop="20260115200000 +0000" channel="SPOTV 2.mncvision">
-    <title>WorldSBK Spotlight: Superbike</title>
-</programme>
-<programme start="20260115200000 +0000" stop="20260115214500 +0000" channel="SPOTV 2.mncvision">
-    <title>2025/26 The Asian Tournament</title>
-</programme>
-<programme start="20260115214500 +0000" stop="20260115225500 +0000" channel="SPOTV 2.mncvision">
-    <title>2025/26 The Asian Tournament</title>
-</programme>
-<programme start="20260115225500 +0000" stop="20260116001500 +0000" channel="SPOTV 2.mncvision">
-    <title>2025/26 The Asian Tournament</title>
-</programme>
-<programme start="20260116001500 +0000" stop="20260116050000 +0000" channel="SPOTV 2.mncvision">
-    <title>WTT Star Contender Doha 2026</title>
-</programme>
-<programme start="20260116050000 +0000" stop="20260116060000 +0000" channel="SPOTV 2.mncvision">
-    <title>2025 Moto2 &amp; Moto3 Review</title>
-</programme>
-<programme start="20260116060000 +0000" stop="20260116080000 +0000" channel="SPOTV 2.mncvision">
-    <title>A-League Men: MCY Vs NEW</title>
-</programme>
-<programme start="20260116080000 +0000" stop="20260116084500 +0000" channel="SPOTV 2.mncvision">
-    <title>MotoGP 2025 Spotlight</title>
-</programme>
-<programme start="20260116084500 +0000" stop="20260116100000 +0000" channel="SPOTV 2.mncvision">
-    <title>2025 MotoGP Rookies Le Mans</title>
-</programme>
-<programme start="20260116100000 +0000" stop="20260116110000 +0000" channel="SPOTV 2.mncvision">
-    <title>2025 MotoGP Rookies Aragon</title>
-</programme>
-<programme start="20260116110000 +0000" stop="20260116124500 +0000" channel="SPOTV 2.mncvision">
-    <title>2025/26 The Asian Tournament</title>
-</programme>
-<programme start="20260116124500 +0000" stop="20260116135500 +0000" channel="SPOTV 2.mncvision">
-    <title>2025/26 The Asian Tournament</title>
-</programme>
-<programme start="20260116135500 +0000" stop="20260116151500 +0000" channel="SPOTV 2.mncvision">
-    <title>2025/26 The Asian Tournament</title>
-</programme>
-<programme start="20260116151500 +0000" stop="20260116161500 +0000" channel="SPOTV 2.mncvision">
-    <title>2025 MotoGP Season Review</title>
-</programme>
-<programme start="20260116161500 +0000" stop="20260116164500 +0000" channel="SPOTV 2.mncvision">
-    <title>2025/26 A-League Men HL</title>
-</programme>
-<programme start="20260116164500 +0000" stop="20260115171500 +0000" channel="SPOTV 2.mncvision">
-    <title>2025 MotoGP Rookies Sachsenring</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260115183000 +0000" stop="20260115190000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>2025/26 ALM Mini Match</title>
 </programme>
@@ -8566,42 +8478,7 @@
 <programme start="20260116150000 +0000" stop="20260116153000 +0000" channel="SPOTV HD.mncvision">
     <title>25/26 Roshn Saudi League</title>
 </programme>
-<programme start="20260115175500 +0000" stop="20260115194000 +0000" channel="Studio Universal.mncvision">
-    <title>Uncle Buck</title>
-</programme>
-<programme start="20260115194000 +0000" stop="20260115213000 +0000" channel="Studio Universal.mncvision">
-    <title>Fast &amp; Furious: Tokyo Drift</title>
-</programme>
-<programme start="20260115213000 +0000" stop="20260115230000 +0000" channel="Studio Universal.mncvision">
-    <title>The Secret Life Of Pets 2</title>
-</programme>
-<programme start="20260115230000 +0000" stop="20260116011500 +0000" channel="Studio Universal.mncvision">
-    <title>Fast Five</title>
-</programme>
-<programme start="20260116011500 +0000" stop="20260116032500 +0000" channel="Studio Universal.mncvision">
-    <title>The Mummy</title>
-</programme>
-<programme start="20260116032500 +0000" stop="20260116054000 +0000" channel="Studio Universal.mncvision">
-    <title>Battleship</title>
-</programme>
-<programme start="20260116054000 +0000" stop="20260116075000 +0000" channel="Studio Universal.mncvision">
-    <title>Everest</title>
-</programme>
-<programme start="20260116075000 +0000" stop="20260116092000 +0000" channel="Studio Universal.mncvision">
-    <title>Shrek</title>
-</programme>
-<programme start="20260116092000 +0000" stop="20260116112000 +0000" channel="Studio Universal.mncvision">
-    <title>Back To The Future</title>
-</programme>
-<programme start="20260116112000 +0000" stop="20260116131500 +0000" channel="Studio Universal.mncvision">
-    <title>Back To The Future, Pt 2</title>
-</programme>
-<programme start="20260116131500 +0000" stop="20260116152000 +0000" channel="Studio Universal.mncvision">
-    <title>Back To The Future, Pt 3</title>
-</programme>
-<programme start="20260116152000 +0000" stop="20260116155000 +0000" channel="Studio Universal.mncvision">
-    <title>Blockers</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260115175500 +0000" stop="20260115194000 +0000" channel="Studio Universal HD.mncvision">
     <title>Uncle Buck</title>
 </programme>
@@ -8638,46 +8515,46 @@
 <programme start="20260116152000 +0000" stop="20260116155000 +0000" channel="Studio Universal HD.mncvision">
     <title>Blockers</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-<programme start="20260115173200 +0000" stop="20260115192900 +0000" channel="Superrix HD.mncvision">
+<programme start="20260115173200 +0000" stop="20260115192900 +0000" channel="Superrix.mncvision">
     <title>Gold</title>
 </programme>
-<programme start="20260115192900 +0000" stop="20260115210500 +0000" channel="Superrix HD.mncvision">
+<programme start="20260115192900 +0000" stop="20260115210500 +0000" channel="Superrix.mncvision">
     <title>Blueback</title>
 </programme>
-<programme start="20260115210500 +0000" stop="20260115231200 +0000" channel="Superrix HD.mncvision">
+<programme start="20260115210500 +0000" stop="20260115231200 +0000" channel="Superrix.mncvision">
     <title>Fatman</title>
 </programme>
-<programme start="20260115231200 +0000" stop="20260116014100 +0000" channel="Superrix HD.mncvision">
+<programme start="20260115231200 +0000" stop="20260116014100 +0000" channel="Superrix.mncvision">
     <title>Platinum</title>
 </programme>
-<programme start="20260116014100 +0000" stop="20260116031200 +0000" channel="Superrix HD.mncvision">
+<programme start="20260116014100 +0000" stop="20260116031200 +0000" channel="Superrix.mncvision">
     <title>A Trace Of Danger</title>
 </programme>
-<programme start="20260116031200 +0000" stop="20260116051600 +0000" channel="Superrix HD.mncvision">
+<programme start="20260116031200 +0000" stop="20260116051600 +0000" channel="Superrix.mncvision">
     <title>Gold</title>
 </programme>
-<programme start="20260116051600 +0000" stop="20260116065100 +0000" channel="Superrix HD.mncvision">
+<programme start="20260116051600 +0000" stop="20260116065100 +0000" channel="Superrix.mncvision">
     <title>The Christmas Pledge</title>
 </programme>
-<programme start="20260116065100 +0000" stop="20260116083300 +0000" channel="Superrix HD.mncvision">
+<programme start="20260116065100 +0000" stop="20260116083300 +0000" channel="Superrix.mncvision">
     <title>The Gardener</title>
 </programme>
-<programme start="20260116083300 +0000" stop="20260116105000 +0000" channel="Superrix HD.mncvision">
+<programme start="20260116083300 +0000" stop="20260116105000 +0000" channel="Superrix.mncvision">
     <title>Platinum</title>
 </programme>
-<programme start="20260116105000 +0000" stop="20260116124300 +0000" channel="Superrix HD.mncvision">
+<programme start="20260116105000 +0000" stop="20260116124300 +0000" channel="Superrix.mncvision">
     <title>Chicken Coop</title>
 </programme>
-<programme start="20260116124300 +0000" stop="20260116144700 +0000" channel="Superrix HD.mncvision">
+<programme start="20260116124300 +0000" stop="20260116144700 +0000" channel="Superrix.mncvision">
     <title>Gold</title>
 </programme>
-<programme start="20260116144700 +0000" stop="20260116162200 +0000" channel="Superrix HD.mncvision">
+<programme start="20260116144700 +0000" stop="20260116162200 +0000" channel="Superrix.mncvision">
     <title>The Christmas Pledge</title>
 </programme>
-<programme start="20260116162200 +0000" stop="20260116165200 +0000" channel="Superrix HD.mncvision">
+<programme start="20260116162200 +0000" stop="20260116165200 +0000" channel="Superrix.mncvision">
     <title>The Iceman</title>
 </programme>
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260115170000 +0000" stop="20260115173000 +0000" channel="Tawaf TV.mncvision">
     <title>DMI TV</title>
 </programme>

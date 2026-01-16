@@ -3053,16 +3053,16 @@
         <title>News</title>
     </programme>
     <programme start="20260115183000 +0000" stop="20260115190000 +0000" channel="DW English HD.starhub">
-        <title>What connects us all</title>
+        <title>Poland&#039;s border fence through Europe&#039;s last primeval forest</title>
     </programme>
     <programme start="20260115190000 +0000" stop="20260115190200 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20260115190200 +0000" stop="20260115193000 +0000" channel="DW English HD.starhub">
-        <title>Your Business Magazine</title>
+        <title>Brains, beauty and barriers: the global job market</title>
     </programme>
     <programme start="20260115193000 +0000" stop="20260115200000 +0000" channel="DW English HD.starhub">
-        <title>International Debate from Berlin</title>
+        <title>Trump eyes the Arctic: Will Europe defend Greenland?</title>
     </programme>
     <programme start="20260115200000 +0000" stop="20260115203000 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3077,7 +3077,7 @@
         <title>Why Bonn? The Post-War Story of West Germany’s Capital</title>
     </programme>
     <programme start="20260115211500 +0000" stop="20260115220000 +0000" channel="DW English HD.starhub">
-        <title>Soldier No. 1 - The General and the Watershed Moment</title>
+        <title>Iran - Faces of Anger</title>
     </programme>
     <programme start="20260115220000 +0000" stop="20260115220200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3086,7 +3086,7 @@
         <title>News in Review</title>
     </programme>
     <programme start="20260115223000 +0000" stop="20260115230000 +0000" channel="DW English HD.starhub">
-        <title>International Debate from Berlin</title>
+        <title>Trump eyes the Arctic: Will Europe defend Greenland?</title>
     </programme>
     <programme start="20260115230000 +0000" stop="20260115231500 +0000" channel="DW English HD.starhub">
         <title>News</title>
