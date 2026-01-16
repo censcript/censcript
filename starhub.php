@@ -593,16 +593,16 @@
         <title>Decoded: The Ai Conversations</title>
     </programme>
     <programme start="20260117003000 +0000" stop="20260117010000 +0000" channel="Arirang TV HD.starhub">
-        <title>Bravo K-Scientist</title>
+        <title>Trip In Korea</title>
     </programme>
     <programme start="20260117010000 +0000" stop="20260117013000 +0000" channel="Arirang TV HD.starhub">
         <title>K-Stage Pan</title>
     </programme>
     <programme start="20260117013000 +0000" stop="20260117020000 +0000" channel="Arirang TV HD.starhub">
-        <title>Smartbiz Accelerators</title>
+        <title>Arirang Special</title>
     </programme>
     <programme start="20260117020000 +0000" stop="20260117023000 +0000" channel="Arirang TV HD.starhub">
-        <title>With Science, We Live</title>
+        <title>News Special [R]</title>
     </programme>
     <programme start="20260117023000 +0000" stop="20260117030000 +0000" channel="Arirang TV HD.starhub">
         <title>Home Explorers 2</title>
@@ -625,11 +625,14 @@
     <programme start="20260117044500 +0000" stop="20260117050000 +0000" channel="Arirang TV HD.starhub">
         <title>K-Culture Minutes: K-Stage</title>
     </programme>
-    <programme start="20260117050000 +0000" stop="20260117053000 +0000" channel="Arirang TV HD.starhub">
-        <title>Arirang Special</title>
+    <programme start="20260117050000 +0000" stop="20260117052000 +0000" channel="Arirang TV HD.starhub">
+        <title>News Special [R]</title>
+    </programme>
+    <programme start="20260117052000 +0000" stop="20260117053000 +0000" channel="Arirang TV HD.starhub">
+        <title>Exploring Korean Literature B</title>
     </programme>
     <programme start="20260117053000 +0000" stop="20260117060000 +0000" channel="Arirang TV HD.starhub">
-        <title>Trip In Korea</title>
+        <title>Premium Collection</title>
     </programme>
     <programme start="20260117060000 +0000" stop="20260117070000 +0000" channel="Arirang TV HD.starhub">
         <title>Simply K-Pop Sns</title>
@@ -638,13 +641,13 @@
         <title>I&#039;m Live</title>
     </programme>
     <programme start="20260117073000 +0000" stop="20260117080000 +0000" channel="Arirang TV HD.starhub">
-        <title>With Science, We Live</title>
+        <title>News Special [R]</title>
     </programme>
     <programme start="20260117080000 +0000" stop="20260117083000 +0000" channel="Arirang TV HD.starhub">
         <title>Decoded: The Ai Conversations</title>
     </programme>
     <programme start="20260117083000 +0000" stop="20260117090000 +0000" channel="Arirang TV HD.starhub">
-        <title>Smartbiz Accelerators</title>
+        <title>Arirang Special</title>
     </programme>
     <programme start="20260117090000 +0000" stop="20260117093000 +0000" channel="Arirang TV HD.starhub">
         <title>Weekly News Highlights</title>
@@ -677,7 +680,7 @@
         <title>Trip In Korea</title>
     </programme>
     <programme start="20260117153000 +0000" stop="20260117160000 +0000" channel="Arirang TV HD.starhub">
-        <title>With Science, We Live</title>
+        <title>News Special [R]</title>
     </programme>
     <programme start="20260116160000 +0000" stop="20260116170000 +0000" channel="Fox News Channel.starhub">
         <title>The Faulkner Focus</title>

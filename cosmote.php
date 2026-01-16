@@ -1,7 +1,3 @@
-<programme start="20260116213000 +0700" stop="20260116233000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: Fotbal Club FCSB - Feyenoord</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260116233000 +0700" stop="20260117013000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: FC Internazionale Milano - Liverpool FC</title>
     <desc>Live: Tidak</desc>
@@ -78,9 +74,13 @@
     <title>Football: Oxford United F.C. - Bristol City (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260116225000 +0700" stop="20260116232000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Serie A Full Impact 2024-25 E20</title>
+<programme start="20260118000000 +0700" stop="20260118003000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Sports Classics: Worldies E17</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260118003000 +0700" stop="20260118023000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: Swansea City - Birmingham City (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260116232000 +0700" stop="20260117013000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Panathinaikos - Aris</title>
@@ -149,6 +149,10 @@
 <programme start="20260117233000 +0700" stop="20260118000000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Sports Classics: Worldies E15</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260118000000 +0700" stop="20260118020000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: SSC Napoli - Sassuolo (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260116223000 +0700" stop="20260117003000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: SL Benfica - Estoril</title>
@@ -271,15 +275,11 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260117232000 +0700" stop="20260117235500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>NBA on Fire 2025-26 E12 (L)</title>
-    <desc>Live: Ya</desc>
+    <title>NBA on Fire 2025-26 E12</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260117235500 +0700" stop="20260118020000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Reyer Venezia - Virtus Bologna</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260116222500 +0700" stop="20260116230500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260116230500 +0700" stop="20260117004000 +0700" channel="COSMOTE Sport 5 HD">
@@ -394,12 +394,8 @@
     <title>WRC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260116225000 +0700" stop="20260116233000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Watersports: Inside Sailing 2025 E12</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260116233000 +0700" stop="20260117000000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Sports Classics: The Outdoor Sports Show 2025 E12</title>
+<programme start="20260118004000 +0700" stop="20260118014000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260117000000 +0700" stop="20260117020500 +0700" channel="COSMOTE Sport 6 HD">
@@ -435,11 +431,11 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260117113000 +0700" stop="20260117140000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: ATP 250 2026 (L)</title>
+    <title>Tennis: Ugo Humbert - Tomas Machac (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20260117140000 +0700" stop="20260117143000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Sports Classics: The Outdoor Sports Show 2024 E12</title>
+    <title>Sports Classics: The Outdoor Sports Show 2025 E12</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260117143000 +0700" stop="20260117150000 +0700" channel="COSMOTE Sport 6 HD">
@@ -447,19 +443,27 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260117150000 +0700" stop="20260117173000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: ATP 250 2026</title>
+    <title>Tennis: Sebastian Baez - Jakub Mensik</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260117173000 +0700" stop="20260117200000 +0700" channel="COSMOTE Sport 6 HD">
+<programme start="20260117173000 +0700" stop="20260117191500 +0700" channel="COSMOTE Sport 6 HD">
     <title>Volleyball: Panathinaikos - Braga</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260117191500 +0700" stop="20260117194500 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Sports Classics: The Outdoor Sports Show 2025 E12</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260117194500 +0700" stop="20260117200000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Sports Classics: Worldies E10</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260117200000 +0700" stop="20260117223000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: ATP 250 2026</title>
+    <title>Tennis: Ugo Humbert - Tomas Machac</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260117223000 +0700" stop="20260118010000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: ATP 250 2026</title>
+    <title>Tennis: Sebastian Baez - Jakub Mensik</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260116230000 +0700" stop="20260117010000 +0700" channel="COSMOTE Sport 7 HD">
@@ -487,7 +491,7 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260117080000 +0700" stop="20260117103000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>Tennis: ATP 250 2025 (L)</title>
+    <title>Tennis: Sebastian Baez - Jakub Mensik (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20260117103000 +0700" stop="20260117110000 +0700" channel="COSMOTE Sport 7 HD">
@@ -529,6 +533,14 @@
 <programme start="20260117230000 +0700" stop="20260118000000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260118000000 +0700" stop="20260118003000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260118003000 +0700" stop="20260118023000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>Football: Al Nassr - Al Shabab (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260116230000 +0700" stop="20260117010000 +0700" channel="COSMOTE Sport 8 HD">
     <title>COSMOTESport8HD</title>
@@ -594,6 +606,18 @@
     <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260118000000 +0700" stop="20260118003000 +0700" channel="COSMOTE Sport 8 HD">
+    <title>COSMOTESport8HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260118003000 +0700" stop="20260118004500 +0700" channel="COSMOTE Sport 8 HD">
+    <title>COSMOTESport8HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260118004500 +0700" stop="20260118024500 +0700" channel="COSMOTE Sport 8 HD">
+    <title>Basketball: Bertram Derthona Tortona - Armani Milano (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
 <programme start="20260116230000 +0700" stop="20260117010000 +0700" channel="COSMOTE Sport 9 HD">
     <title>COSMOTESport9HD</title>
     <desc>Live: Tidak</desc>
@@ -649,5 +673,13 @@
 <programme start="20260117220000 +0700" stop="20260118000000 +0700" channel="COSMOTE Sport 9 HD">
     <title>Basketball: Erokspor - Anadolu Efes (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20260118000000 +0700" stop="20260118003000 +0700" channel="COSMOTE Sport 9 HD">
+    <title>COSMOTESport9HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260118003000 +0700" stop="20260118010000 +0700" channel="COSMOTE Sport 9 HD">
+    <title>COSMOTESport9HD</title>
+    <desc>Live: Tidak</desc>
 </programme>
 No EPG found for COSMOTE Sport 10 HD
