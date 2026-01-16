@@ -1,11 +1,3 @@
-<programme start="20260116170000 +0700" stop="20260116173000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Sports Classics: Football Countdowns E9</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260116173000 +0700" stop="20260116180000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>UEFA Champions League Magazine 2024-25 E15</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260116180000 +0700" stop="20260116183000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Sports Classics: Football Countdowns E9</title>
     <desc>Live: Tidak</desc>
@@ -82,6 +74,14 @@
     <title>Football: FC Kairat Almaty - Olympiacos</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260117180000 +0700" stop="20260117185500 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Highlights: UEL &amp; UECL 2025-26</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260117185500 +0700" stop="20260117193000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEL &amp; UECL Magazine 2025-26 E9</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260116161000 +0700" stop="20260116181000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Udinese - Pisa</title>
     <desc>Live: Tidak</desc>
@@ -152,6 +152,10 @@
 </programme>
 <programme start="20260117164000 +0700" stop="20260117185000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Panathinaikos - Aris</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260117185000 +0700" stop="20260117210000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Pisa - Atalanta</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260116163000 +0700" stop="20260116183000 +0700" channel="COSMOTE Sport 3 HD">
@@ -282,10 +286,6 @@
     <title>Basketball: Houston Rockets - Minnesota Timberwolves</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260116164500 +0700" stop="20260116173500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260116173500 +0700" stop="20260116182000 +0700" channel="COSMOTE Sport 5 HD">
     <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
@@ -398,12 +398,8 @@
     <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260116150000 +0700" stop="20260116173000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: Alejandro Davidovich Fokina - Ugo Humbert (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20260116173000 +0700" stop="20260116180000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Premier Padel Tour 2025 - Highlights</title>
+<programme start="20260117183000 +0700" stop="20260117194000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260116180000 +0700" stop="20260116200000 +0700" channel="COSMOTE Sport 6 HD">

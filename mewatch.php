@@ -568,7 +568,7 @@
     <programme start="20260116153000 +0000" stop="20260116160000 +0000" channel="CNA.mewatch">
         <title>Behind The Work: Life In Social Service - EP 2</title>
     </programme>
-    <programme start="20260116160000 +0000" stop="20260116220000 +0000" channel="CNA.mewatch">
+    <programme start="20260116160000 +0000" stop="20260116160300 +0000" channel="CNA.mewatch">
         <title>Headline News 2025/2026</title>
     </programme>
     <programme start="20260115160000 +0000" stop="20260116160000 +0000" channel="Oktolidays.mewatch">

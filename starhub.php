@@ -662,7 +662,7 @@
         <title>Arirang News 12:00</title>
     </programme>
     <programme start="20260116033000 +0000" stop="20260116040000 +0000" channel="Arirang TV HD.starhub">
-        <title>With Science, We Live</title>
+        <title>News Special [R]</title>
     </programme>
     <programme start="20260116040000 +0000" stop="20260116050000 +0000" channel="Arirang TV HD.starhub">
         <title>Simply K-Pop Sns</title>
@@ -671,7 +671,7 @@
         <title>K-Culture Dive [L]</title>
     </programme>
     <programme start="20260116053000 +0000" stop="20260116060000 +0000" channel="Arirang TV HD.starhub">
-        <title>News Generation</title>
+        <title>News Generation [R]</title>
     </programme>
     <programme start="20260116060000 +0000" stop="20260116063000 +0000" channel="Arirang TV HD.starhub">
         <title>Home To Table</title>
@@ -683,7 +683,7 @@
         <title>Ai Headline News</title>
     </programme>
     <programme start="20260116070500 +0000" stop="20260116074000 +0000" channel="Arirang TV HD.starhub">
-        <title>With Science, We Live</title>
+        <title>News Special [R]</title>
     </programme>
     <programme start="20260116074000 +0000" stop="20260116080000 +0000" channel="Arirang TV HD.starhub">
         <title>Rpg</title>
@@ -710,7 +710,7 @@
         <title>Within The Frame [L]</title>
     </programme>
     <programme start="20260116120000 +0000" stop="20260116123000 +0000" channel="Arirang TV HD.starhub">
-        <title>K-Culture Dive</title>
+        <title>K-Culture Dive [R]</title>
     </programme>
     <programme start="20260116123000 +0000" stop="20260116125000 +0000" channel="Arirang TV HD.starhub">
         <title>Rpg</title>
@@ -722,7 +722,7 @@
         <title>Ai Headline News</title>
     </programme>
     <programme start="20260116130500 +0000" stop="20260116133000 +0000" channel="Arirang TV HD.starhub">
-        <title>Art And The City</title>
+        <title>News Special [R]</title>
     </programme>
     <programme start="20260116133000 +0000" stop="20260116134000 +0000" channel="Arirang TV HD.starhub">
         <title>Exploring Korean Literature A</title>
@@ -731,10 +731,10 @@
         <title>Korea Travelogue 4</title>
     </programme>
     <programme start="20260116140000 +0000" stop="20260116143000 +0000" channel="Arirang TV HD.starhub">
-        <title>Press Perspective</title>
+        <title>Press Perspective [R]</title>
     </programme>
     <programme start="20260116143000 +0000" stop="20260116150000 +0000" channel="Arirang TV HD.starhub">
-        <title>With Science, We Live</title>
+        <title>News Special [R]</title>
     </programme>
     <programme start="20260116150000 +0000" stop="20260116160000 +0000" channel="Arirang TV HD.starhub">
         <title>Simply K-Pop Sns</title>
