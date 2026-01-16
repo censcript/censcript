@@ -3291,13 +3291,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>WTA 500: HF1, Adelaide International in Adelaide (AUS), Halbfinale 1</title>
 </programme>
 <programme start="20260116003000 +0000" stop="20260116023000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live WTA 500: HF1, Adelaide International in Adelaide (AUS), Halbfinale 1</title>
+    <title>Live WTA 500: K. Birrell (AUS) - V. Mboko (CAN), Adelaide International in Adelaide (AUS), Halbfinale 1</title>
 </programme>
 <programme start="20260116023000 +0000" stop="20260116043000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live ATP 250: HF1, Adelaide International in Adelaide (AUS), Halbfinale 1</title>
+    <title>Live ATP 250: T. Machac (CZE) - T. Paul (USA), Adelaide International in Adelaide (AUS), Halbfinale 1</title>
 </programme>
 <programme start="20260116043000 +0000" stop="20260116063000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live WTA 500: HF2, Adelaide International in Adelaide (AUS), Halbfinale 2</title>
+    <title>Live WTA 500: M. Andreeva - D. Shnaider, Adelaide International in Adelaide (AUS), Halbfinale 2</title>
 </programme>
 <programme start="20260116063000 +0000" stop="20260116070000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>NBA: Action</title>
@@ -3306,7 +3306,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>BL Kompakt: 17. Spieltag</title>
 </programme>
 <programme start="20260116080000 +0000" stop="20260116100000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live ATP 250: HF2, Adelaide International in Adelaide (AUS), Halbfinale 2</title>
+    <title>Live ATP 250: U. Humbert (FRA) - A. Davidovich-Fokina (ESP), Adelaide International in Adelaide (AUS), Halbfinale 2</title>
 </programme>
 <programme start="20260116100000 +0000" stop="20260116120000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>TGL: Jupiter Links Golf Club - New York Golf Club, 4. Spieltag</title>

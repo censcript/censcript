@@ -3104,7 +3104,7 @@
         <title>News in Review</title>
     </programme>
     <programme start="20260116003000 +0000" stop="20260116010000 +0000" channel="DW English HD.starhub">
-        <title>International Debate from Berlin</title>
+        <title>Trump eyes the Arctic: Will Europe defend Greenland?</title>
     </programme>
     <programme start="20260116010000 +0000" stop="20260116011500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3124,11 +3124,8 @@
     <programme start="20260116030000 +0000" stop="20260116031500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
-    <programme start="20260116031500 +0000" stop="20260116033000 +0000" channel="DW English HD.starhub">
-        <title>Why Bonn? The Post-War Story of West Germany’s Capital</title>
-    </programme>
-    <programme start="20260116033000 +0000" stop="20260116040000 +0000" channel="DW English HD.starhub">
-        <title>Your Business Magazine</title>
+    <programme start="20260116031500 +0000" stop="20260116040000 +0000" channel="DW English HD.starhub">
+        <title>Iran - Faces of Anger</title>
     </programme>
     <programme start="20260116040000 +0000" stop="20260116041500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3173,7 +3170,7 @@
         <title>News</title>
     </programme>
     <programme start="20260116091500 +0000" stop="20260116100000 +0000" channel="DW English HD.starhub">
-        <title>Dictators, Drugs, Discord-Latin America and the USA-Part 1: Coups</title>
+        <title>Dictators, Drugs, Discord - Latin America and the USA - Part 1: Coups</title>
     </programme>
     <programme start="20260116100000 +0000" stop="20260116101500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3191,7 +3188,7 @@
         <title>Jakarta in 2050: From Flood to Dream City?</title>
     </programme>
     <programme start="20260116113000 +0000" stop="20260116120000 +0000" channel="DW English HD.starhub">
-        <title>International Debate from Berlin</title>
+        <title>Trump eyes the Arctic: Will Europe defend Greenland?</title>
     </programme>
     <programme start="20260116120000 +0000" stop="20260116121500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3206,7 +3203,7 @@
         <title>The safety feature people hate the most</title>
     </programme>
     <programme start="20260116133000 +0000" stop="20260116140000 +0000" channel="DW English HD.starhub">
-        <title>The Health Show</title>
+        <title>The scary truth about plastic and our health</title>
     </programme>
     <programme start="20260116140000 +0000" stop="20260116141500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3215,7 +3212,7 @@
         <title>My own kind of beauty</title>
     </programme>
     <programme start="20260116143000 +0000" stop="20260116150000 +0000" channel="DW English HD.starhub">
-        <title>The Environment Magazine</title>
+        <title>The power of water-redesigning life around a vital resource</title>
     </programme>
     <programme start="20260116150000 +0000" stop="20260116151500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3224,7 +3221,7 @@
         <title>The safety feature people hate the most</title>
     </programme>
     <programme start="20260116153000 +0000" stop="20260116160000 +0000" channel="DW English HD.starhub">
-        <title>International Debate from Berlin</title>
+        <title>Trump eyes the Arctic: Will Europe defend Greenland?</title>
     </programme>
     <programme start="20260115160000 +0000" stop="20260115220000 +0000" channel="Preview Channel.starhub">
         <title>Preview Channel</title>
@@ -6965,7 +6962,7 @@
         <title>BBC News</title>
     </programme>
     <programme start="20260116013000 +0000" stop="20260116020000 +0000" channel="BBC World News HD.starhub">
-        <title>The Media Show</title>
+        <title>Reporting the Venezuela Operation</title>
     </programme>
     <programme start="20260116020000 +0000" stop="20260116023000 +0000" channel="BBC World News HD.starhub">
         <title>Newsday</title>
@@ -7528,10 +7525,13 @@
     <programme start="20260115230000 +0000" stop="20260116013000 +0000" channel="Asianet Movies.starhub">
         <title>Ivar Vivahitharayal...?</title>
     </programme>
-    <programme start="20260116013000 +0000" stop="20260116043000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260116013000 +0000" stop="20260116020000 +0000" channel="Asianet Movies.starhub">
+        <title>Chirikkum Thalika</title>
+    </programme>
+    <programme start="20260116020000 +0000" stop="20260116043500 +0000" channel="Asianet Movies.starhub">
         <title>Ohm Shanthi Oshaana</title>
     </programme>
-    <programme start="20260116043000 +0000" stop="20260116073000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260116043500 +0000" stop="20260116073000 +0000" channel="Asianet Movies.starhub">
         <title>Adi Kapyare Koottamani</title>
     </programme>
     <programme start="20260116073000 +0000" stop="20260116103000 +0000" channel="Asianet Movies.starhub">
