@@ -2660,9 +2660,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260115231500 +0000" stop="20260116000000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: Faith over Fear - Benny Henrichs: Der lange Weg zum Comeback</title>
 </programme>
-<programme start="20260116000000 +0000" stop="20260116003000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: 90in30: FCA - FCU, 17. Spieltag</title>
-</programme>
 <programme start="20260116003000 +0000" stop="20260116013000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL Kompakt: 17. Spieltag</title>
 </programme>
@@ -2951,7 +2948,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260115231500 +0000" stop="20260115234500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NBA: Action</title>
 </programme>
-<programme start="20260115234500 +0000" stop="20260116014500 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260115234500 +0000" stop="20260116000000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>NHL: Highlights OTT@NYR</title>
+</programme>
+<programme start="20260116000000 +0000" stop="20260116014500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Vegas Golden Knights @ Los Angeles Kings</title>
 </programme>
 <programme start="20260116014500 +0000" stop="20260116021500 +0000" channel="Sky Sport Mix HD.skyde">
@@ -2971,15 +2971,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 </programme>
 <programme start="20260116080000 +0000" stop="20260116084500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>DFB-Pokal: Kompakt, Achtelfinale</title>
-</programme>
-<programme start="20260116084500 +0000" stop="20260116090000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NHL: NHL goes Olympia - mit Leo Carlsson (SWE) Anaheim Ducks</title>
-</programme>
-<programme start="20260116090000 +0000" stop="20260116091500 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NHL: NHL goes Olympia - mit Juraj Slafkovsky (SVK) Montreal Canadiens</title>
-</programme>
-<programme start="20260116091500 +0000" stop="20260116093000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NHL: NHL goes Olympia - mit Tim Stützle (GER) Ottawa Senators</title>
 </programme>
 <programme start="20260116093000 +0000" stop="20260116094500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Highlights SEA@BOS</title>
@@ -3246,13 +3237,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>PL: Preview, 22. Spieltag</title>
 </programme>
 <programme start="20260116003000 +0000" stop="20260116023000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live WTA 500: HF1, Adelaide International in Adelaide (AUS), Halbfinale 1</title>
+    <title>Live WTA 500: K. Birrell (AUS) - V. Mboko (CAN), Adelaide International in Adelaide (AUS), Halbfinale 1</title>
 </programme>
 <programme start="20260116023000 +0000" stop="20260116043000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP 250: HF1, Adelaide International in Adelaide (AUS), Halbfinale 1</title>
+    <title>Live ATP 250: T. Machac (CZE) - T. Paul (USA), Adelaide International in Adelaide (AUS), Halbfinale 1</title>
 </programme>
 <programme start="20260116043000 +0000" stop="20260116063000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live WTA 500: HF2, Adelaide International in Adelaide (AUS), Halbfinale 2</title>
+    <title>Live WTA 500: M. Andreeva - D. Shnaider, Adelaide International in Adelaide (AUS), Halbfinale 2</title>
 </programme>
 <programme start="20260116063000 +0000" stop="20260116073000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: Review Paris</title>
@@ -3261,34 +3252,34 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>WTA Finals: Review Riyadh 2025</title>
 </programme>
 <programme start="20260116080000 +0000" stop="20260116100000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP 250: HF2, Adelaide International in Adelaide (AUS), Halbfinale 2</title>
+    <title>Live ATP 250: U. Humbert (FRA) - A. Davidovich-Fokina (ESP), Adelaide International in Adelaide (AUS), Halbfinale 2</title>
 </programme>
 <programme start="20260116100000 +0000" stop="20260116120000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 250: HF1, Adelaide International in Adelaide (AUS), Halbfinale 1</title>
+    <title>ATP 250: T. Machac (CZE) - T. Paul (USA), Adelaide International in Adelaide (AUS), Halbfinale 1</title>
 </programme>
 <programme start="20260116120000 +0000" stop="20260116130000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: Season Review Show 2025</title>
 </programme>
 <programme start="20260116130000 +0000" stop="20260116150000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: HF1, Adelaide International in Adelaide (AUS), Halbfinale 1</title>
+    <title>WTA 500: K. Birrell (AUS) - V. Mboko (CAN), Adelaide International in Adelaide (AUS), Halbfinale 1</title>
 </programme>
 <programme start="20260116150000 +0000" stop="20260116170000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: HF2, Adelaide International in Adelaide (AUS), Halbfinale 2</title>
+    <title>WTA 500: M. Andreeva - D. Shnaider, Adelaide International in Adelaide (AUS), Halbfinale 2</title>
 </programme>
 <programme start="20260116170000 +0000" stop="20260116173000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
 </programme>
 <programme start="20260116173000 +0000" stop="20260116193000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 250: HF1, Adelaide International in Adelaide (AUS), Halbfinale 1</title>
+    <title>ATP 250: T. Machac (CZE) - T. Paul (USA), Adelaide International in Adelaide (AUS), Halbfinale 1</title>
 </programme>
 <programme start="20260116193000 +0000" stop="20260116213000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 250: HF2, Adelaide International in Adelaide (AUS), Halbfinale 2</title>
+    <title>ATP 250: U. Humbert (FRA) - A. Davidovich-Fokina (ESP), Adelaide International in Adelaide (AUS), Halbfinale 2</title>
 </programme>
 <programme start="20260116213000 +0000" stop="20260116220000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
 </programme>
 <programme start="20260116220000 +0000" stop="20260117000000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: HF1, Adelaide International in Adelaide (AUS), Halbfinale 1</title>
+    <title>WTA 500: K. Birrell (AUS) - V. Mboko (CAN), Adelaide International in Adelaide (AUS), Halbfinale 1</title>
 </programme>
 <programme start="20260116003000 +0000" stop="20260116023000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live WTA 500: K. Birrell (AUS) - V. Mboko (CAN), Adelaide International in Adelaide (AUS), Halbfinale 1</title>

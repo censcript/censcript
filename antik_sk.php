@@ -259,11 +259,8 @@
   <programme start="20260117223500 +0000" stop="20260117230500 +0000" channel=":24.webtv.sk">
     <title lang="id">Cez lupu</title>
   </programme>
-  <programme start="20260117230500 +0000" stop="20260117230800 +0000" channel=":24.webtv.sk">
+  <programme start="20260117230500 +0000" stop="20260117235500 +0000" channel=":24.webtv.sk">
     <title lang="id">Hymna SR</title>
-  </programme>
-  <programme start="20260117230800 +0000" stop="20260117235500 +0000" channel=":24.webtv.sk">
-    <title lang="id">Správy</title>
   </programme>
   <programme start="20260117235500 +0000" stop="20260118004500 +0000" channel=":24.webtv.sk">
     <title lang="id">Sobotné dialógy</title>
@@ -337,10 +334,10 @@
   <programme start="20260118100500 +0000" stop="20260118105500 +0000" channel=":24.webtv.sk">
     <title lang="id">Sobotné dialógy</title>
   </programme>
-  <programme start="20260118105500 +0000" stop="20260118121000 +0000" channel=":24.webtv.sk">
+  <programme start="20260118105500 +0000" stop="20260118121500 +0000" channel=":24.webtv.sk">
     <title lang="id">O 5 minút 12</title>
   </programme>
-  <programme start="20260118121000 +0000" stop="20260118123000 +0000" channel=":24.webtv.sk">
+  <programme start="20260118121500 +0000" stop="20260118123000 +0000" channel=":24.webtv.sk">
     <title lang="id">Správy :24</title>
   </programme>
   <programme start="20260118123000 +0000" stop="20260118130000 +0000" channel=":24.webtv.sk">
@@ -359,7 +356,7 @@
     <title lang="id">Správy :24</title>
   </programme>
   <programme start="20260118153000 +0000" stop="20260118160000 +0000" channel=":24.webtv.sk">
-    <title lang="id">Peniaze</title>
+    <title lang="id">Interview :24</title>
   </programme>
   <programme start="20260118160000 +0000" stop="20260118163000 +0000" channel=":24.webtv.sk">
     <title lang="id">Aktuálne :24</title>
@@ -385,13 +382,10 @@
   <programme start="20260118203000 +0000" stop="20260118210000 +0000" channel=":24.webtv.sk">
     <title lang="id">Cez lupu</title>
   </programme>
-  <programme start="20260118210000 +0000" stop="20260118212500 +0000" channel=":24.webtv.sk">
+  <programme start="20260118210000 +0000" stop="20260118213000 +0000" channel=":24.webtv.sk">
     <title lang="id">Správy :24</title>
   </programme>
-  <programme start="20260118212500 +0000" stop="20260118213500 +0000" channel=":24.webtv.sk">
-    <title lang="id">Počasie</title>
-  </programme>
-  <programme start="20260118213500 +0000" stop="20260118220000 +0000" channel=":24.webtv.sk">
+  <programme start="20260118213000 +0000" stop="20260118220000 +0000" channel=":24.webtv.sk">
     <title lang="id">Cestománia II</title>
   </programme>
   <programme start="20260118220000 +0000" stop="20260118223000 +0000" channel=":24.webtv.sk">
@@ -1090,7 +1084,7 @@
   <programme start="20260118003500 +0000" stop="20260118054000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">LIV Golf Tour</title>
   </programme>
-  <programme start="20260118054000 +0000" stop="20260118084000 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260118055000 +0000" stop="20260118084000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">IIHF MS juniorov 2026</title>
   </programme>
   <programme start="20260118084000 +0000" stop="20260118085500 +0000" channel="JOJ Šport.webtv.sk">
@@ -1111,10 +1105,10 @@
   <programme start="20260118140000 +0000" stop="20260118142500 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Štúdio Hokej</title>
   </programme>
-  <programme start="20260118142500 +0000" stop="20260118174500 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260118142500 +0000" stop="20260118174000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Hokej - Tipsport liga</title>
   </programme>
-  <programme start="20260118174500 +0000" stop="20260118192000 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260118174000 +0000" stop="20260118192000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Skialpinizmus Svetový pohár</title>
   </programme>
   <programme start="20260118192000 +0000" stop="20260118212000 +0000" channel="JOJ Šport.webtv.sk">
@@ -1730,7 +1724,7 @@
     <title lang="id">Kultový seriál: Melrose place (27)</title>
   </programme>
   <programme start="20260118183000 +0000" stop="20260118191000 +0000" channel="Kanal1.webtv.sk">
-    <title lang="id">V tieni zločinu - Erik Mikurčík</title>
+    <title lang="id">V tieni zločinu - Eduard Burda</title>
   </programme>
   <programme start="20260118191000 +0000" stop="20260118204500 +0000" channel="Kanal1.webtv.sk">
     <title lang="id">KULTOVÝ WESTERN: Winnetou</title>
