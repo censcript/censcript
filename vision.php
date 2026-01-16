@@ -664,17 +664,8 @@
 <programme start="20260116114500 +0000" stop="20260116131500 +0000" channel="ANTV.vision">
 <title>Senandung Cinta Lilis</title>
 </programme>
-<programme start="20260116131500 +0000" stop="20260116151500 +0000" channel="ANTV.vision">
-<title>Si Buta Lawan Jaka Sembung</title>
-</programme>
-<programme start="20260116151500 +0000" stop="20260116171500 +0000" channel="ANTV.vision">
-<title>Sama Juga Bohong</title>
-</programme>
 <programme start="20260116171500 +0000" stop="20260116193000 +0000" channel="ANTV.vision">
 <title>308</title>
-</programme>
-<programme start="20260116193000 +0000" stop="20260116214500 +0000" channel="ANTV.vision">
-<title>Vikram Vedha</title>
 </programme>
 <programme start="20260116214500 +0000" stop="20260116223000 +0000" channel="ANTV.vision">
 <title>Senyum Iman</title>
@@ -1496,5 +1487,14 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260117010000 +0000" stop="20260117030000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260117030000 +0000" stop="20260117050000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260117050000 +0000" stop="20260117070000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260117070000 +0000" stop="20260117090000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
