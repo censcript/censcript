@@ -655,9 +655,6 @@
 <programme start="20260116010000 +0000" stop="20260116023000 +0000" channel="ANTV.vision">
 <title>Baalveer Returns</title>
 </programme>
-<programme start="20260116023000 +0000" stop="20260116060000 +0000" channel="ANTV.vision">
-<title>Singham Return</title>
-</programme>
 <programme start="20260116060000 +0000" stop="20260116083000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -1496,5 +1493,8 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260116230000 +0000" stop="20260117010000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260117010000 +0000" stop="20260117030000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
