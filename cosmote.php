@@ -82,6 +82,10 @@
     <title>UEFA Champions League Magazine 2025-26 E16</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260117160000 +0700" stop="20260117180000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: FC Kairat Almaty - Olympiacos</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260116141000 +0700" stop="20260116161000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Genoa - Cagliari</title>
     <desc>Live: Tidak</desc>
@@ -152,6 +156,10 @@
 </programme>
 <programme start="20260117143000 +0700" stop="20260117164000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Olympiacos - PAOK</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260117164000 +0700" stop="20260117185000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Panathinaikos - Aris</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260116143000 +0700" stop="20260116163000 +0700" channel="COSMOTE Sport 3 HD">
@@ -278,8 +286,12 @@
     <title>Pick n&#039; Roll</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260116145500 +0700" stop="20260116160000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC 2025</title>
+<programme start="20260117161500 +0700" stop="20260117163500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>ACB Liga Endesa 2025-26 - Fifth Quarter E14</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260117163500 +0700" stop="20260117190500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Houston Rockets - Minnesota Timberwolves</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260116160000 +0700" stop="20260116164500 +0700" channel="COSMOTE Sport 5 HD">
@@ -387,6 +399,14 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260117145500 +0700" stop="20260117160000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260117160000 +0700" stop="20260117164500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260117164500 +0700" stop="20260117175000 +0700" channel="COSMOTE Sport 5 HD">
     <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
