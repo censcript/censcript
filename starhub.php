@@ -7676,7 +7676,7 @@
         <title>Chirikkum Thalika</title>
     </programme>
     <programme start="20260116231000 +0000" stop="20260117013000 +0000" channel="Asianet Movies.starhub">
-        <title>42217</title>
+        <title>August 15</title>
     </programme>
     <programme start="20260117013000 +0000" stop="20260117043000 +0000" channel="Asianet Movies.starhub">
         <title>Paappi Appachaa</title>
