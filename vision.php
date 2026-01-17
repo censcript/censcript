@@ -649,9 +649,6 @@
 <programme start="20260117010000 +0000" stop="20260117023000 +0000" channel="ANTV.vision">
 <title>Baalveer Returns</title>
 </programme>
-<programme start="20260117023000 +0000" stop="20260117060000 +0000" channel="ANTV.vision">
-<title>Singham Again</title>
-</programme>
 <programme start="20260117060000 +0000" stop="20260117083000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -663,9 +660,6 @@
 </programme>
 <programme start="20260117114500 +0000" stop="20260117131500 +0000" channel="ANTV.vision">
 <title>Senandung Cinta Lilis</title>
-</programme>
-<programme start="20260117131500 +0000" stop="20260117151500 +0000" channel="ANTV.vision">
-<title>Pendekar Mata Satu</title>
 </programme>
 <programme start="20260117151500 +0000" stop="20260117171500 +0000" channel="ANTV.vision">
 <title>Manusia 6 Juta Dollar</title>
@@ -849,9 +843,6 @@
 </programme>
 <programme start="20260117110000 +0000" stop="20260117130000 +0000" channel="TVOne.vision">
 <title>Apa Kabar Indonesia Malam (L)</title>
-</programme>
-<programme start="20260117130000 +0000" stop="20260117143000 +0000" channel="TVOne.vision">
-<title>Renungan Jiwa</title>
 </programme>
 <programme start="20260117143000 +0000" stop="20260117153000 +0000" channel="TVOne.vision">
 <title>Kabar Utama (L)</title>
@@ -1496,5 +1487,14 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260117090000 +0000" stop="20260117110000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260117110000 +0000" stop="20260117130000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260117130000 +0000" stop="20260117150000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260117150000 +0000" stop="20260117170000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
