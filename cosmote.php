@@ -150,6 +150,18 @@
     <title>Football: SSC Napoli - Sassuolo</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260118140000 +0700" stop="20260118141500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Sports Classics: Worldies E13</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260118141500 +0700" stop="20260118144500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Serie A 2025-26 - Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260118144500 +0700" stop="20260118164500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Pisa - Atalanta</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260117130000 +0700" stop="20260117150000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Al Ittihad - Al Ettifaq FC</title>
     <desc>Live: Tidak</desc>
@@ -278,8 +290,8 @@
     <title>Basketball: Bertram Derthona Tortona - Armani Milano</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260117122000 +0700" stop="20260117134000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>DTM 2025</title>
+<programme start="20260118145500 +0700" stop="20260118172500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Dallas Mavericks - Utah Jazz</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260117134000 +0700" stop="20260117141000 +0700" channel="COSMOTE Sport 5 HD">
@@ -390,9 +402,9 @@
     <title>DTM 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260117113000 +0700" stop="20260117140000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: Ugo Humbert - Tomas Machac (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20260118141500 +0700" stop="20260118151500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2025</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260117140000 +0700" stop="20260117143000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Sports Classics: The Outdoor Sports Show 2025 E12</title>
