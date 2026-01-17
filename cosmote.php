@@ -1,11 +1,3 @@
-<programme start="20260117193000 +0700" stop="20260117213000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: Coventry City - Leicester City FC (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20260117213000 +0700" stop="20260117220000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Sports Classics: Worldies E16</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260117220000 +0700" stop="20260118000000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Oxford United F.C. - Bristol City (L)</title>
     <desc>Live: Ya</desc>
@@ -80,6 +72,10 @@
 </programme>
 <programme start="20260118213000 +0700" stop="20260118220000 +0700" channel="COSMOTE Sport 1 HD">
     <title>PreGame (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
+<programme start="20260118220000 +0700" stop="20260119001000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: AEL Novibet - Aris (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20260117210000 +0700" stop="20260117230000 +0700" channel="COSMOTE Sport 2 HD">
@@ -222,10 +218,6 @@
     <title>Football: Al Nassr - Al Shabab</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260117210000 +0700" stop="20260117212000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>ACB Liga Endesa 2025-26 - Fifth Quarter E14</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260117212000 +0700" stop="20260117232000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Szolnoki Olaj - Trieste</title>
     <desc>Live: Tidak</desc>
@@ -286,8 +278,8 @@
     <title>Basketball: Erokspor - Anadolu Efes</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260117204000 +0700" stop="20260117212500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC 2025</title>
+<programme start="20260118223000 +0700" stop="20260119010000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Dallas Mavericks - Utah Jazz</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260117212500 +0700" stop="20260117222000 +0700" channel="COSMOTE Sport 5 HD">
@@ -395,6 +387,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260118215000 +0700" stop="20260118225500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260118225500 +0700" stop="20260119000000 +0700" channel="COSMOTE Sport 5 HD">
     <title>WRC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
@@ -582,14 +578,6 @@
     <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260117210000 +0700" stop="20260117213000 +0700" channel="COSMOTE Sport 9 HD">
-    <title>COSMOTESport9HD</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260117213000 +0700" stop="20260117220000 +0700" channel="COSMOTE Sport 9 HD">
-    <title>COSMOTESport9HD</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260117220000 +0700" stop="20260118000000 +0700" channel="COSMOTE Sport 9 HD">
     <title>Basketball: Erokspor - Anadolu Efes (L)</title>
     <desc>Live: Ya</desc>
@@ -653,5 +641,9 @@
 <programme start="20260118213000 +0700" stop="20260118220000 +0700" channel="COSMOTE Sport 9 HD">
     <title>COSMOTESport9HD</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260118220000 +0700" stop="20260119000000 +0700" channel="COSMOTE Sport 9 HD">
+    <title>Basketball: Fenerbahce - Tofas (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 No EPG found for COSMOTE Sport 10 HD
