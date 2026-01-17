@@ -1308,7 +1308,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260117223000 +0000" stop="20260117230000 +0000" channel="Motorvision+.skyde">
     <title>Belgian Rally Championship 2025</title>
 </programme>
-<programme start="20260116231000 +0000" stop="20260116233500 +0000" channel="Nick Jr..skyde">
+<programme start="20260116231500 +0000" stop="20260116233500 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
 <programme start="20260116233500 +0000" stop="20260117000000 +0000" channel="Nick Jr..skyde">
@@ -1317,28 +1317,28 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260117000000 +0000" stop="20260117002500 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20260117002500 +0000" stop="20260117005500 +0000" channel="Nick Jr..skyde">
+<programme start="20260117002500 +0000" stop="20260117004500 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20260117005500 +0000" stop="20260117011500 +0000" channel="Nick Jr..skyde">
+<programme start="20260117004500 +0000" stop="20260117011000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260117011500 +0000" stop="20260117014000 +0000" channel="Nick Jr..skyde">
+<programme start="20260117011000 +0000" stop="20260117013500 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260117014000 +0000" stop="20260117020000 +0000" channel="Nick Jr..skyde">
+<programme start="20260117013500 +0000" stop="20260117015500 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
-<programme start="20260117020000 +0000" stop="20260117022500 +0000" channel="Nick Jr..skyde">
+<programme start="20260117015500 +0000" stop="20260117022000 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20260117022500 +0000" stop="20260117024500 +0000" channel="Nick Jr..skyde">
+<programme start="20260117022000 +0000" stop="20260117024500 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20260117024500 +0000" stop="20260117031000 +0000" channel="Nick Jr..skyde">
+<programme start="20260117024500 +0000" stop="20260117030500 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
 </programme>
-<programme start="20260117031000 +0000" stop="20260117033000 +0000" channel="Nick Jr..skyde">
+<programme start="20260117030500 +0000" stop="20260117033000 +0000" channel="Nick Jr..skyde">
     <title>Blaze und die Monster-Maschinen</title>
 </programme>
 <programme start="20260117033000 +0000" stop="20260117035500 +0000" channel="Nick Jr..skyde">
@@ -2790,7 +2790,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260117140000 +0000" stop="20260117141500 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live BL: TSG - B04: tipico Countdown, 18. Spieltag</title>
 </programme>
-<programme start="20260117141500 +0000" stop="20260117173000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
+<programme start="20260117141500 +0000" stop="20260117164500 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live BL: TSG Hoffenheim - Bayer Leverkusen, 18. Spieltag</title>
 </programme>
 <programme start="20260117111000 +0000" stop="20260117113000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
@@ -2820,7 +2820,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260117113000 +0000" stop="20260117140000 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
     <title>Live 2. BL: Samstags-Konferenz, 18. Spieltag</title>
 </programme>
-<programme start="20260117140000 +0000" stop="20260117151500 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
+<programme start="20260117140000 +0000" stop="20260117144500 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
     <title>Live 2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 18. Spieltag, Samstag</title>
 </programme>
 <programme start="20260116230000 +0000" stop="20260117000000 +0000" channel="Sky Sport F1 HD.skyde">
@@ -3150,26 +3150,29 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260117220000 +0000" stop="20260118000000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: AFC Sunderland - Crystal Palace, 22. Spieltag</title>
 </programme>
-<programme start="20260117000000 +0000" stop="20260117020000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260116230000 +0000" stop="20260117002000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 500: K. Birrell (AUS) - V. Mboko (CAN), Adelaide International in Adelaide (AUS), Halbfinale 1</title>
+</programme>
+<programme start="20260117002000 +0000" stop="20260117020000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: M. Andreeva - D. Shnaider, Adelaide International in Adelaide (AUS), Halbfinale 2</title>
 </programme>
 <programme start="20260117020000 +0000" stop="20260117043000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live WTA 500: Finale, Adelaide International in Adelaide (AUS), Finale</title>
+    <title>Live WTA 500: M. Andreeva - V. Mboko (CAN), Adelaide International in Adelaide (AUS), Finale</title>
 </programme>
 <programme start="20260117043000 +0000" stop="20260117070000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP 250: Finale, Adelaide International in Adelaide (AUS), Finale</title>
+    <title>Live ATP 250: T. Machac (CZE) - U. Humbert (FRA), Adelaide International in Adelaide (AUS), Finale</title>
 </programme>
 <programme start="20260117070000 +0000" stop="20260117093000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 250: Finale, ASB Classic in Auckland (NZL), Finale</title>
+    <title>ATP 250: S. Baez (ARG) - J. Mensik (CZE), ASB Classic in Auckland (NZL), Finale</title>
 </programme>
 <programme start="20260117093000 +0000" stop="20260117120000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: Finale, Adelaide International in Adelaide (AUS), Finale</title>
+    <title>WTA 500: M. Andreeva - V. Mboko (CAN), Adelaide International in Adelaide (AUS), Finale</title>
 </programme>
 <programme start="20260117120000 +0000" stop="20260117143000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 250: Finale, Adelaide International in Adelaide (AUS), Finale</title>
+    <title>ATP 250: T. Machac (CZE) - U. Humbert (FRA), Adelaide International in Adelaide (AUS), Finale</title>
 </programme>
 <programme start="20260117143000 +0000" stop="20260117170000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 250: Finale, ASB Classic in Auckland (NZL), Finale</title>
+    <title>ATP 250: S. Baez (ARG) - J. Mensik (CZE), ASB Classic in Auckland (NZL), Finale</title>
 </programme>
 <programme start="20260117170000 +0000" stop="20260117193000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>United Cup: B. Bencic (SUI) - I. Swiatek (POL), Finale in Sydney (AUS), Damen Einzel</title>
