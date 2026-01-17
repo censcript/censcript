@@ -2790,7 +2790,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260117140000 +0000" stop="20260117141500 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live BL: TSG - B04: tipico Countdown, 18. Spieltag</title>
 </programme>
-<programme start="20260117141500 +0000" stop="20260117164500 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
+<programme start="20260117141500 +0000" stop="20260117173000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live BL: TSG Hoffenheim - Bayer Leverkusen, 18. Spieltag</title>
 </programme>
 <programme start="20260117111000 +0000" stop="20260117113000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
@@ -2820,7 +2820,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260117113000 +0000" stop="20260117140000 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
     <title>Live 2. BL: Samstags-Konferenz, 18. Spieltag</title>
 </programme>
-<programme start="20260117140000 +0000" stop="20260117144500 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
+<programme start="20260117140000 +0000" stop="20260117151500 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
     <title>Live 2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 18. Spieltag, Samstag</title>
 </programme>
 <programme start="20260116230000 +0000" stop="20260117000000 +0000" channel="Sky Sport F1 HD.skyde">
@@ -3243,13 +3243,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260117004000 +0000" stop="20260117010000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: Live ATP World Tour</title>
 </programme>
-<programme start="20260117010000 +0000" stop="20260117043000 +0000" channel="Sky Sport 1 HD.skyde">
-    <title>Live ATP 250: S. Baez (ARG) - J. Mensik (CZE), ASB Classic in Auckland (NZL), Finale</title>
+<programme start="20260117010000 +0000" stop="20260117033000 +0000" channel="Sky Sport 1 HD.skyde">
+    <title>Live ATP 250: Finale, ASB Classic in Auckland (NZL), Finale</title>
 </programme>
 <programme start="20260117212500 +0000" stop="20260117214500 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: LIVE Basketball NBA</title>
 </programme>
-<programme start="20260117214500 +0000" stop="20260118090000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260117214500 +0000" stop="20260118003000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Utah Jazz @ Dallas Mavericks</title>
 </programme>
 <programme start="20260117143000 +0000" stop="20260117145000 +0000" channel="Sky Sport 8 HD.skyde">
