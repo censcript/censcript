@@ -1,11 +1,3 @@
-<programme start="20260117150000 +0700" stop="20260117153000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Game R1 S6 E21</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260117153000 +0700" stop="20260117160000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>UEFA Champions League Magazine 2025-26 E16</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260117160000 +0700" stop="20260117180000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: FC Kairat Almaty - Olympiacos</title>
     <desc>Live: Tidak</desc>
@@ -158,6 +150,10 @@
     <title>Football: Pisa - Atalanta</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260118164500 +0700" stop="20260118184500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Udinese - FC Internazionale Milano</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260117150000 +0700" stop="20260117170000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Sporting CP - Casa Pia</title>
     <desc>Live: Tidak</desc>
@@ -286,10 +282,6 @@
     <title>Basketball: Dallas Mavericks - Utah Jazz</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260117145500 +0700" stop="20260117160000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260117160000 +0700" stop="20260117164500 +0700" channel="COSMOTE Sport 5 HD">
     <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
@@ -391,6 +383,14 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260118151500 +0700" stop="20260118160500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260118160500 +0700" stop="20260118165000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260118165000 +0700" stop="20260118175500 +0700" channel="COSMOTE Sport 5 HD">
     <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
