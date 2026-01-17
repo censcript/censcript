@@ -3243,7 +3243,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260117004000 +0000" stop="20260117010000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: Live ATP World Tour</title>
 </programme>
-<programme start="20260117010000 +0000" stop="20260117033000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260117010000 +0000" stop="20260117043000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live ATP 250: S. Baez (ARG) - J. Mensik (CZE), ASB Classic in Auckland (NZL), Finale</title>
 </programme>
 <programme start="20260117212500 +0000" stop="20260117214500 +0000" channel="Sky Sport 1 HD.skyde">
@@ -3255,7 +3255,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260117143000 +0000" stop="20260117145000 +0000" channel="Sky Sport 8 HD.skyde">
     <title>Es folgt: LIVE PL</title>
 </programme>
-<programme start="20260117145000 +0000" stop="20260117173000 +0000" channel="Sky Sport 8 HD.skyde">
+<programme start="20260117145000 +0000" stop="20260117170000 +0000" channel="Sky Sport 8 HD.skyde">
     <title>Live PL: FC Liverpool - FC Burnley, 22. Spieltag</title>
 </programme>
 <programme start="20260116230500 +0000" stop="20260116235000 +0000" channel="SYFY HD.skyde">
