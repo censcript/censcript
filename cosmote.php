@@ -1,7 +1,3 @@
-<programme start="20260117185500 +0700" stop="20260117193000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>UEL &amp; UECL Magazine 2025-26 E9</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260117193000 +0700" stop="20260117213000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Coventry City - Leicester City FC (L)</title>
     <desc>Live: Ya</desc>
@@ -77,6 +73,10 @@
 <programme start="20260118183000 +0700" stop="20260118203000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Parma - Genoa (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20260118203000 +0700" stop="20260118213000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Highlights: UEL &amp; UECL 2025-26</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260117185000 +0700" stop="20260117210000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Pisa - Atalanta</title>
@@ -218,10 +218,6 @@
     <title>Football: Coventry City - Leicester City FC</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260117163500 +0700" stop="20260117190500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Houston Rockets - Minnesota Timberwolves</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260117190500 +0700" stop="20260117210000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Galatasaray - Besiktas</title>
     <desc>Live: Tidak</desc>
@@ -282,8 +278,12 @@
     <title>Basketball: Burgos - Barcelona (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260117183000 +0700" stop="20260117194000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC 2025</title>
+<programme start="20260118200000 +0700" stop="20260118203500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>NBA on Fire 2025-26 E12</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260118203500 +0700" stop="20260118223000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Erokspor - Anadolu Efes</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260117194000 +0700" stop="20260117201000 +0700" channel="COSMOTE Sport 5 HD">
@@ -394,16 +394,12 @@
     <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260117173000 +0700" stop="20260117191500 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Volleyball: Panathinaikos - Braga</title>
+<programme start="20260118202000 +0700" stop="20260118205000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC Magazine 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260117191500 +0700" stop="20260117194500 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Sports Classics: The Outdoor Sports Show 2025 E12</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260117194500 +0700" stop="20260117200000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Sports Classics: Worldies E10</title>
+<programme start="20260118205000 +0700" stop="20260118215000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260117200000 +0700" stop="20260117225500 +0700" channel="COSMOTE Sport 6 HD">
