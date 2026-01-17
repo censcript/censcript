@@ -106,13 +106,13 @@
   <programme start="20260119225500 +0000" stop="20260119235000 +0000" channel="Jednotka.webtv.sk">
     <title lang="id">Dotyk života II (3/8)</title>
   </programme>
-  <programme start="20260118212500 +0000" stop="20260118232000 +0000" channel="Dvojka.webtv.sk">
+  <programme start="20260118212500 +0000" stop="20260118232200 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Proti múru</title>
   </programme>
-  <programme start="20260118232000 +0000" stop="20260118232300 +0000" channel="Dvojka.webtv.sk">
+  <programme start="20260118232200 +0000" stop="20260118232400 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Hymna SR</title>
   </programme>
-  <programme start="20260118232300 +0000" stop="20260119022300 +0000" channel="Dvojka.webtv.sk">
+  <programme start="20260118232400 +0000" stop="20260119022300 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Správy</title>
   </programme>
   <programme start="20260119050500 +0000" stop="20260119051500 +0000" channel="Dvojka.webtv.sk">
@@ -122,19 +122,19 @@
     <title lang="id">Môj dom</title>
   </programme>
   <programme start="20260119052000 +0000" stop="20260119053000 +0000" channel="Dvojka.webtv.sk">
-    <title lang="id">Môj dom</title>
+    <title lang="id">Slimák Maťo a škriatok Klinček</title>
   </programme>
   <programme start="20260119053000 +0000" stop="20260119053500 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Slimák Maťo a škriatok Klinček</title>
   </programme>
-  <programme start="20260119053500 +0000" stop="20260119054000 +0000" channel="Dvojka.webtv.sk">
-    <title lang="id">Slimák Maťo a škriatok Klinček</title>
-  </programme>
-  <programme start="20260119054000 +0000" stop="20260119055000 +0000" channel="Dvojka.webtv.sk">
-    <title lang="id">Medvedík Pompon II</title>
-  </programme>
-  <programme start="20260119055000 +0000" stop="20260119060000 +0000" channel="Dvojka.webtv.sk">
+  <programme start="20260119053500 +0000" stop="20260119055000 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Rodinka líšok a jazvecov II</title>
+  </programme>
+  <programme start="20260119055000 +0000" stop="20260119055500 +0000" channel="Dvojka.webtv.sk">
+    <title lang="id">Bluey II</title>
+  </programme>
+  <programme start="20260119055500 +0000" stop="20260119060000 +0000" channel="Dvojka.webtv.sk">
+    <title lang="id">Medvedík Pompon II</title>
   </programme>
   <programme start="20260119060000 +0000" stop="20260119061500 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Ernest a Celestína II</title>
@@ -160,10 +160,10 @@
   <programme start="20260119082500 +0000" stop="20260119085500 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Televízny posol</title>
   </programme>
-  <programme start="20260119085500 +0000" stop="20260119092000 +0000" channel="Dvojka.webtv.sk">
+  <programme start="20260119085500 +0000" stop="20260119092500 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Televízny klub nepočujúcich</title>
   </programme>
-  <programme start="20260119092000 +0000" stop="20260119103000 +0000" channel="Dvojka.webtv.sk">
+  <programme start="20260119092500 +0000" stop="20260119103000 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Lúčenie</title>
   </programme>
   <programme start="20260119103000 +0000" stop="20260119104000 +0000" channel="Dvojka.webtv.sk">
@@ -178,17 +178,17 @@
   <programme start="20260119105500 +0000" stop="20260119110000 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Trpaslíci</title>
   </programme>
-  <programme start="20260119110000 +0000" stop="20260119111500 +0000" channel="Dvojka.webtv.sk">
+  <programme start="20260119110000 +0000" stop="20260119112500 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Živá panoráma</title>
   </programme>
-  <programme start="20260119111500 +0000" stop="20260119113000 +0000" channel="Dvojka.webtv.sk">
+  <programme start="20260119112500 +0000" stop="20260119113500 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Bežkopotulky</title>
   </programme>
-  <programme start="20260119113000 +0000" stop="20260119123000 +0000" channel="Dvojka.webtv.sk">
+  <programme start="20260119113500 +0000" stop="20260119124000 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Konôpka</title>
   </programme>
-  <programme start="20260119123000 +0000" stop="20260119135000 +0000" channel="Dvojka.webtv.sk">
-    <title lang="id">Život a krása našich hôr</title>
+  <programme start="20260119124000 +0000" stop="20260119135000 +0000" channel="Dvojka.webtv.sk">
+    <title lang="id">Biele objatie</title>
   </programme>
   <programme start="20260119135000 +0000" stop="20260119143000 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Filozofia hudby</title>
@@ -208,32 +208,32 @@
   <programme start="20260119170000 +0000" stop="20260119173000 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Halali</title>
   </programme>
-  <programme start="20260119173000 +0000" stop="20260119174000 +0000" channel="Dvojka.webtv.sk">
+  <programme start="20260119173000 +0000" stop="20260119174500 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Večerníček</title>
   </programme>
-  <programme start="20260119174000 +0000" stop="20260119174500 +0000" channel="Dvojka.webtv.sk">
-    <title lang="id">Sam a Júlia z Myšieho domu</title>
+  <programme start="20260119174500 +0000" stop="20260119175000 +0000" channel="Dvojka.webtv.sk">
+    <title lang="id">Pip a Posy</title>
   </programme>
-  <programme start="20260119174500 +0000" stop="20260119175500 +0000" channel="Dvojka.webtv.sk">
+  <programme start="20260119175000 +0000" stop="20260119175500 +0000" channel="Dvojka.webtv.sk">
+    <title lang="id">Bluey II</title>
+  </programme>
+  <programme start="20260119175500 +0000" stop="20260119180500 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Medvedík Pompon II</title>
   </programme>
-  <programme start="20260119175500 +0000" stop="20260119180000 +0000" channel="Dvojka.webtv.sk">
-    <title lang="id">Fidlibumove pokusy</title>
-  </programme>
-  <programme start="20260119180000 +0000" stop="20260119181500 +0000" channel="Dvojka.webtv.sk">
+  <programme start="20260119180500 +0000" stop="20260119181500 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Rodinka líšok a jazvecov II</title>
   </programme>
-  <programme start="20260119181500 +0000" stop="20260119182500 +0000" channel="Dvojka.webtv.sk">
+  <programme start="20260119181500 +0000" stop="20260119183000 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Ernest a Celestína II</title>
   </programme>
-  <programme start="20260119182500 +0000" stop="20260119183500 +0000" channel="Dvojka.webtv.sk">
+  <programme start="20260119183000 +0000" stop="20260119184000 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Ernest a Celestína II</title>
   </programme>
-  <programme start="20260119183500 +0000" stop="20260119184500 +0000" channel="Dvojka.webtv.sk">
+  <programme start="20260119184000 +0000" stop="20260119185000 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Môj dom</title>
   </programme>
-  <programme start="20260119184500 +0000" stop="20260119190000 +0000" channel="Dvojka.webtv.sk">
-    <title lang="id">Môj dom</title>
+  <programme start="20260119185000 +0000" stop="20260119190000 +0000" channel="Dvojka.webtv.sk">
+    <title lang="id">Zázračný miniateliér</title>
   </programme>
   <programme start="20260119190000 +0000" stop="20260119190700 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Správy v slovenskom posunkovom jazyku</title>
@@ -250,11 +250,8 @@
   <programme start="20260119203000 +0000" stop="20260119210000 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Experiment</title>
   </programme>
-  <programme start="20260119210000 +0000" stop="20260119225900 +0000" channel="Dvojka.webtv.sk">
+  <programme start="20260119210000 +0000" stop="20260119230000 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Pardon, nezastihli sme vás</title>
-  </programme>
-  <programme start="20260119225900 +0000" stop="20260119230000 +0000" channel="Dvojka.webtv.sk">
-    <title lang="id">Hymna SR</title>
   </programme>
   <programme start="20260118225500 +0000" stop="20260118232000 +0000" channel=":24.webtv.sk">
     <title lang="id">Svet v obrazoch</title>
@@ -4258,59 +4255,62 @@
   <programme start="20260119221500 +0000" stop="20260119231500 +0000" channel="Prima Love SK.webtv.sk">
     <title lang="id">Velmi křehké vztahy II (5)</title>
   </programme>
-  <programme start="20260118212000 +0000" stop="20260118231500 +0000" channel="Prima Krimi SK.webtv.sk">
-    <title lang="id">Big Ben IV (5)</title>
-  </programme>
-  <programme start="20260118231500 +0000" stop="20260118235500 +0000" channel="Prima Krimi SK.webtv.sk">
+  <programme start="20260118225500 +0000" stop="20260118234000 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Prvních 48 hodin XXI (15)</title>
   </programme>
-  <programme start="20260118235500 +0000" stop="20260119012500 +0000" channel="Prima Krimi SK.webtv.sk">
+  <programme start="20260118234000 +0000" stop="20260119011000 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Julie Lescautová IV (1)</title>
   </programme>
-  <programme start="20260119012500 +0000" stop="20260119042500 +0000" channel="Prima Krimi SK.webtv.sk">
+  <programme start="20260119011000 +0000" stop="20260119042500 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Noční dobrodružství</title>
   </programme>
-  <programme start="20260119050000 +0000" stop="20260119052500 +0000" channel="Prima Krimi SK.webtv.sk">
+  <programme start="20260119044500 +0000" stop="20260119050000 +0000" channel="Prima Krimi SK.webtv.sk">
+    <title lang="id">Vysielacia prestávka</title>
+  </programme>
+  <programme start="20260119050000 +0000" stop="20260119054500 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Noční dobrodružství</title>
   </programme>
-  <programme start="20260119052500 +0000" stop="20260119072500 +0000" channel="Prima Krimi SK.webtv.sk">
+  <programme start="20260119054500 +0000" stop="20260119074500 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Vraždy v Midsomeru VIII (5)</title>
   </programme>
-  <programme start="20260119072500 +0000" stop="20260119082000 +0000" channel="Prima Krimi SK.webtv.sk">
+  <programme start="20260119074500 +0000" stop="20260119084000 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Prvních 48 hodin XXI (14)</title>
   </programme>
-  <programme start="20260119082000 +0000" stop="20260119102000 +0000" channel="Prima Krimi SK.webtv.sk">
+  <programme start="20260119084000 +0000" stop="20260119103500 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Big Ben IV (4)</title>
   </programme>
-  <programme start="20260119102000 +0000" stop="20260119122000 +0000" channel="Prima Krimi SK.webtv.sk">
+  <programme start="20260119103500 +0000" stop="20260119123500 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Julie Lescautová III (13)</title>
   </programme>
-  <programme start="20260119122000 +0000" stop="20260119142500 +0000" channel="Prima Krimi SK.webtv.sk">
+  <programme start="20260119123500 +0000" stop="20260119143500 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Vraždy v Midsomeru VIII (4)</title>
   </programme>
-  <programme start="20260119142500 +0000" stop="20260119152000 +0000" channel="Prima Krimi SK.webtv.sk">
+  <programme start="20260119143500 +0000" stop="20260119153000 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Prvních 48 hodin XXI (16)</title>
   </programme>
-  <programme start="20260119152000 +0000" stop="20260119161500 +0000" channel="Prima Krimi SK.webtv.sk">
+  <programme start="20260119153000 +0000" stop="20260119162500 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Prvních 48 hodin XXI (17)</title>
   </programme>
-  <programme start="20260119161500 +0000" stop="20260119171000 +0000" channel="Prima Krimi SK.webtv.sk">
+  <programme start="20260119162500 +0000" stop="20260119171500 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Prvních 48 hodin XXI (18)</title>
   </programme>
-  <programme start="20260119171000 +0000" stop="20260119181000 +0000" channel="Prima Krimi SK.webtv.sk">
+  <programme start="20260119171500 +0000" stop="20260119181000 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Vraždy v Kitzbühelu V (2)</title>
   </programme>
   <programme start="20260119181000 +0000" stop="20260119191500 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Vraždy v Kitzbühelu V (3)</title>
   </programme>
-  <programme start="20260119191500 +0000" stop="20260119210500 +0000" channel="Prima Krimi SK.webtv.sk">
+  <programme start="20260119191500 +0000" stop="20260119205500 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Detektiv Endeavour Morse V (3)</title>
   </programme>
-  <programme start="20260119210500 +0000" stop="20260119220000 +0000" channel="Prima Krimi SK.webtv.sk">
+  <programme start="20260119205500 +0000" stop="20260119215000 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Prvních 48 hodin XXI (16)</title>
   </programme>
-  <programme start="20260119220000 +0000" stop="20260119230000 +0000" channel="Prima Krimi SK.webtv.sk">
+  <programme start="20260119215000 +0000" stop="20260119224500 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Prvních 48 hodin XXI (17)</title>
+  </programme>
+  <programme start="20260119224500 +0000" stop="20260119232500 +0000" channel="Prima Krimi SK.webtv.sk">
+    <title lang="id">Prvních 48 hodin XXI (18)</title>
   </programme>
   <programme start="20260118213500 +0000" stop="20260118235500 +0000" channel="Seznam.cz TV.webtv.sk">
     <title lang="id">Mstitelé</title>

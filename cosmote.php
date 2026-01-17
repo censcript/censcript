@@ -1,7 +1,3 @@
-<programme start="20260117160000 +0700" stop="20260117180000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: FC Kairat Almaty - Olympiacos</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260117180000 +0700" stop="20260117185500 +0700" channel="COSMOTE Sport 1 HD">
     <title>Highlights: UEL &amp; UECL 2025-26</title>
     <desc>Live: Tidak</desc>
@@ -78,6 +74,14 @@
     <title>Game R1 S6 E21</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260118180000 +0700" stop="20260118183000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEL &amp; UECL Magazine 2025-26 E9</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260118183000 +0700" stop="20260118203000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: Parma - Genoa (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
 <programme start="20260117164000 +0700" stop="20260117185000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Panathinaikos - Aris</title>
     <desc>Live: Tidak</desc>
@@ -152,6 +156,10 @@
 </programme>
 <programme start="20260118164500 +0700" stop="20260118184500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Udinese - FC Internazionale Milano</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260118184500 +0700" stop="20260118210000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Cagliari - Juventus Football Club</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260117170000 +0700" stop="20260117190000 +0700" channel="COSMOTE Sport 3 HD">
@@ -234,19 +242,19 @@
     <title>Basketball: Szolnoki Olaj - Trieste</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260117232000 +0700" stop="20260117235500 +0700" channel="COSMOTE Sport 4 HD">
+<programme start="20260117232000 +0700" stop="20260117235000 +0700" channel="COSMOTE Sport 4 HD">
     <title>NBA on Fire 2025-26 E12</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260117235500 +0700" stop="20260118020000 +0700" channel="COSMOTE Sport 4 HD">
+<programme start="20260117235000 +0700" stop="20260118014500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Reyer Venezia - Virtus Bologna</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260118020000 +0700" stop="20260118043000 +0700" channel="COSMOTE Sport 4 HD">
+<programme start="20260118014500 +0700" stop="20260118042000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Houston Rockets - Minnesota Timberwolves</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260118043000 +0700" stop="20260118050000 +0700" channel="COSMOTE Sport 4 HD">
+<programme start="20260118042000 +0700" stop="20260118050000 +0700" channel="COSMOTE Sport 4 HD">
     <title>NBA Action 2025-26 E3513</title>
     <desc>Live: Tidak</desc>
 </programme>
@@ -278,9 +286,9 @@
     <title>NBA Action 2025-26 E3513</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260117164500 +0700" stop="20260117175000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC 2025</title>
-    <desc>Live: Tidak</desc>
+<programme start="20260118180000 +0700" stop="20260118200000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Burgos - Barcelona (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260117175000 +0700" stop="20260117183000 +0700" channel="COSMOTE Sport 5 HD">
     <title>ERC 2025</title>
@@ -390,8 +398,8 @@
     <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260117150000 +0700" stop="20260117173000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: Sebastian Baez - Jakub Mensik</title>
+<programme start="20260118184500 +0700" stop="20260118195000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260117173000 +0700" stop="20260117191500 +0700" channel="COSMOTE Sport 6 HD">
@@ -406,11 +414,11 @@
     <title>Sports Classics: Worldies E10</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260117200000 +0700" stop="20260117223000 +0700" channel="COSMOTE Sport 6 HD">
+<programme start="20260117200000 +0700" stop="20260117225500 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Ugo Humbert - Tomas Machac</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260117223000 +0700" stop="20260118010000 +0700" channel="COSMOTE Sport 6 HD">
+<programme start="20260117225500 +0700" stop="20260118010000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Sebastian Baez - Jakub Mensik</title>
     <desc>Live: Tidak</desc>
 </programme>
@@ -452,6 +460,10 @@
 </programme>
 <programme start="20260118170000 +0700" stop="20260118183000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Volleyball: Eczacibasi Dynavit Istanbul - Olympiacos</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260118183000 +0700" stop="20260118193000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>ATP 2025 - Review</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260117170000 +0700" stop="20260117190000 +0700" channel="COSMOTE Sport 7 HD">
