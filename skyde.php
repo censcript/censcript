@@ -2739,7 +2739,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260117141500 +0000" stop="20260117164500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: Borussia Dortmund - FC St. Pauli, 18. Spieltag</title>
 </programme>
-<programme start="20260117164500 +0000" stop="20260117201500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
+<programme start="20260117164500 +0000" stop="20260117204500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: RB Leipzig - FC Bayern München, tipico Topspiel der Woche, 18. Spieltag</title>
 </programme>
 <programme start="20260117111000 +0000" stop="20260117113000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
@@ -2763,7 +2763,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260117183000 +0000" stop="20260117220000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Live 2. BL: Hertha BSC - FC Schalke 04, tipico Topspiel der Woche, 18. Spieltag</title>
 </programme>
-<programme start="20260117220000 +0000" stop="20260117230000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+<programme start="20260117220000 +0000" stop="20260117233000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 18. Spieltag, Samstag komplett</title>
 </programme>
 <programme start="20260117111000 +0000" stop="20260117113000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
@@ -2778,7 +2778,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260117141500 +0000" stop="20260117164500 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live BL: 1. FC Köln - 1. FSV Mainz 05, 18. Spieltag</title>
 </programme>
-<programme start="20260117164500 +0000" stop="20260117201500 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
+<programme start="20260117164500 +0000" stop="20260117204500 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live BL: Tactical Feed: RBL - FCB, 18. Spieltag</title>
 </programme>
 <programme start="20260117111000 +0000" stop="20260117113000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
@@ -2790,7 +2790,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260117140000 +0000" stop="20260117141500 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live BL: TSG - B04: tipico Countdown, 18. Spieltag</title>
 </programme>
-<programme start="20260117141500 +0000" stop="20260117164500 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
+<programme start="20260117141500 +0000" stop="20260117173000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live BL: TSG Hoffenheim - Bayer Leverkusen, 18. Spieltag</title>
 </programme>
 <programme start="20260117111000 +0000" stop="20260117113000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
@@ -2802,7 +2802,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260117140000 +0000" stop="20260117141500 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Live BL: WOB - FCH: tipico Countdown, 18. Spieltag</title>
 </programme>
-<programme start="20260117141500 +0000" stop="20260117164500 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
+<programme start="20260117141500 +0000" stop="20260117173000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Live BL: VfL Wolfsburg - 1. FC Heidenheim, 18. Spieltag</title>
 </programme>
 <programme start="20260117111000 +0000" stop="20260117113000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
@@ -2811,7 +2811,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260117113000 +0000" stop="20260117140000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
     <title>Live 2. BL: Multiview 18. Spieltag, Samstag</title>
 </programme>
-<programme start="20260117140000 +0000" stop="20260117163000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
+<programme start="20260117140000 +0000" stop="20260117173000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
     <title>Live BL: Multiview, 18. Spieltag</title>
 </programme>
 <programme start="20260117111000 +0000" stop="20260117113000 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
@@ -2820,7 +2820,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260117113000 +0000" stop="20260117140000 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
     <title>Live 2. BL: Samstags-Konferenz, 18. Spieltag</title>
 </programme>
-<programme start="20260117140000 +0000" stop="20260117144500 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
+<programme start="20260117140000 +0000" stop="20260117151500 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
     <title>Live 2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 18. Spieltag, Samstag</title>
 </programme>
 <programme start="20260116230000 +0000" stop="20260117000000 +0000" channel="Sky Sport F1 HD.skyde">
@@ -3150,29 +3150,26 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260117220000 +0000" stop="20260118000000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: AFC Sunderland - Crystal Palace, 22. Spieltag</title>
 </programme>
-<programme start="20260116230000 +0000" stop="20260117002000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: K. Birrell (AUS) - V. Mboko (CAN), Adelaide International in Adelaide (AUS), Halbfinale 1</title>
-</programme>
-<programme start="20260117002000 +0000" stop="20260117020000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260117000000 +0000" stop="20260117020000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: M. Andreeva - D. Shnaider, Adelaide International in Adelaide (AUS), Halbfinale 2</title>
 </programme>
 <programme start="20260117020000 +0000" stop="20260117043000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live WTA 500: M. Andreeva - V. Mboko (CAN), Adelaide International in Adelaide (AUS), Finale</title>
+    <title>Live WTA 500: Finale, Adelaide International in Adelaide (AUS), Finale</title>
 </programme>
 <programme start="20260117043000 +0000" stop="20260117070000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP 250: T. Machac (CZE) - U. Humbert (FRA), Adelaide International in Adelaide (AUS), Finale</title>
+    <title>Live ATP 250: Finale, Adelaide International in Adelaide (AUS), Finale</title>
 </programme>
 <programme start="20260117070000 +0000" stop="20260117093000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 250: S. Baez (ARG) - J. Mensik (CZE), ASB Classic in Auckland (NZL), Finale</title>
+    <title>ATP 250: Finale, ASB Classic in Auckland (NZL), Finale</title>
 </programme>
 <programme start="20260117093000 +0000" stop="20260117120000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: M. Andreeva - V. Mboko (CAN), Adelaide International in Adelaide (AUS), Finale</title>
+    <title>WTA 500: Finale, Adelaide International in Adelaide (AUS), Finale</title>
 </programme>
 <programme start="20260117120000 +0000" stop="20260117143000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 250: T. Machac (CZE) - U. Humbert (FRA), Adelaide International in Adelaide (AUS), Finale</title>
+    <title>ATP 250: Finale, Adelaide International in Adelaide (AUS), Finale</title>
 </programme>
 <programme start="20260117143000 +0000" stop="20260117170000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 250: S. Baez (ARG) - J. Mensik (CZE), ASB Classic in Auckland (NZL), Finale</title>
+    <title>ATP 250: Finale, ASB Classic in Auckland (NZL), Finale</title>
 </programme>
 <programme start="20260117170000 +0000" stop="20260117193000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>United Cup: B. Bencic (SUI) - I. Swiatek (POL), Finale in Sydney (AUS), Damen Einzel</title>
@@ -3255,7 +3252,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260117143000 +0000" stop="20260117145000 +0000" channel="Sky Sport 8 HD.skyde">
     <title>Es folgt: LIVE PL</title>
 </programme>
-<programme start="20260117145000 +0000" stop="20260117170000 +0000" channel="Sky Sport 8 HD.skyde">
+<programme start="20260117145000 +0000" stop="20260117173000 +0000" channel="Sky Sport 8 HD.skyde">
     <title>Live PL: FC Liverpool - FC Burnley, 22. Spieltag</title>
 </programme>
 <programme start="20260116230500 +0000" stop="20260116235000 +0000" channel="SYFY HD.skyde">
