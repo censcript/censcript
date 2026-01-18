@@ -2173,13 +2173,10 @@
     <programme start="20260118050000 +0000" stop="20260118053000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>Wild Card Round</title>
     </programme>
-    <programme start="20260118053000 +0000" stop="20260118103000 +0000" channel="Hub Sports 2 HD.starhub">
+    <programme start="20260118053000 +0000" stop="20260118115000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>YONEX-SUNRISE India Open (Super 750): Finals</title>
     </programme>
-    <programme start="20260118103000 +0000" stop="20260118112000 +0000" channel="Hub Sports 2 HD.starhub">
-        <title>Round 3</title>
-    </programme>
-    <programme start="20260118112000 +0000" stop="20260118133000 +0000" channel="Hub Sports 2 HD.starhub">
+    <programme start="20260118115000 +0000" stop="20260118133000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>Geylang International FC vs Lion City Sailors FC</title>
     </programme>
     <programme start="20260118133000 +0000" stop="20260118153000 +0000" channel="Hub Sports 2 HD.starhub">
