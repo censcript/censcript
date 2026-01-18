@@ -655,9 +655,6 @@
 <programme start="20260118060000 +0000" stop="20260118083000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
-<programme start="20260118104500 +0000" stop="20260118114500 +0000" channel="ANTV.vision">
-<title>ANTV Seru</title>
-</programme>
 <programme start="20260118114500 +0000" stop="20260118131500 +0000" channel="ANTV.vision">
 <title>Senandung Cinta Lilis</title>
 </programme>
@@ -1496,5 +1493,8 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260118050000 +0000" stop="20260118070000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260118070000 +0000" stop="20260118090000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>

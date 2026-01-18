@@ -2747,7 +2747,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260118163000 +0000" stop="20260118183000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>BL: VfB Stuttgart - 1. FC Union Berlin, 18. Spieltag</title>
 </programme>
-<programme start="20260118183000 +0000" stop="20260118203000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+<programme start="20260118183000 +0000" stop="20260118210000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>BL: FC Augsburg - SC Freiburg, 18. Spieltag</title>
 </programme>
 <programme start="20260118114000 +0000" stop="20260118120000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
