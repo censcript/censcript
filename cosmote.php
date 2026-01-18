@@ -126,8 +126,8 @@
     <title>Football: SS Lazio - Como (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260119030000 +0700" stop="20260119033000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Emirates FA Cup 2025-26 - Highlights</title>
+<programme start="20260120044500 +0700" stop="20260120070000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Panetolikos - Levadiakos</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260119033000 +0700" stop="20260119053000 +0700" channel="COSMOTE Sport 3 HD">
@@ -250,8 +250,12 @@
     <title>Basketball: Atlanta Hawks - Milwaukee Bucks (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260119030000 +0700" stop="20260119040000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: MotoGP</title>
+<programme start="20260120040000 +0700" stop="20260120043000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>NBA Specials</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260120043000 +0700" stop="20260120050000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>ACB Liga Endesa 2025-26 - Fifth Quarter E12</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260119040000 +0700" stop="20260119060000 +0700" channel="COSMOTE Sport 5 HD">
@@ -334,10 +338,6 @@
     <title>Basketball: Cleveland Cavaliers - Oklahoma City Thunder (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260119023500 +0700" stop="20260119030500 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Watersports: Inside Sailing 2025 E12</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260119030500 +0700" stop="20260119045000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Volleyball: Panathinaikos - Braga</title>
     <desc>Live: Tidak</desc>
@@ -414,6 +414,10 @@
     <title>Sports Classics: 2025 Outdoor Specials</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260120042500 +0700" stop="20260120061500 +0700" channel="COSMOTE Sport 6 HD">
+    <title>CEV Beach Volleyball European Cup 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260119030000 +0700" stop="20260119050000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
@@ -464,14 +468,6 @@
 </programme>
 <programme start="20260120030000 +0700" stop="20260120050000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260119030000 +0700" stop="20260119033000 +0700" channel="COSMOTE Sport 8 HD">
-    <title>COSMOTESport8HD</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260119033000 +0700" stop="20260119040000 +0700" channel="COSMOTE Sport 8 HD">
-    <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260119040000 +0700" stop="20260119050000 +0700" channel="COSMOTE Sport 8 HD">
