@@ -1,7 +1,3 @@
-<programme start="20260119001000 +0700" stop="20260119020000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Sportshow (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
 <programme start="20260119020000 +0700" stop="20260119041500 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: AEK - Panathinaikos (L)</title>
     <desc>Live: Ya</desc>
@@ -56,10 +52,6 @@
 </programme>
 <programme start="20260120010000 +0700" stop="20260120031000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Volos - Atromitos (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20260119000000 +0700" stop="20260119020000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Torino - AS Roma (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20260119020000 +0700" stop="20260119024500 +0700" channel="COSMOTE Sport 2 HD">
@@ -126,6 +118,14 @@
     <title>Sports Classics: Football&#039;s Greatest IV E2</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260120020000 +0700" stop="20260120024500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Sports Classics: Football&#039;s Greatest IV E3</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260120024500 +0700" stop="20260120044500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: SS Lazio - Como (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
 <programme start="20260119010000 +0700" stop="20260119030000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Tondela - SC Braga (L)</title>
     <desc>Live: Ya</desc>
@@ -186,6 +186,10 @@
     <title>Football: Cremonese - Hellas Verona (L)</title>
     <desc>Live: Ya</desc>
 </programme>
+<programme start="20260120023000 +0700" stop="20260120030000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Emirates FA Cup 2025-26 - Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260119010000 +0700" stop="20260119030000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Real Madrid - Valencia Basket Club (L)</title>
     <desc>Live: Ya</desc>
@@ -245,10 +249,6 @@
 <programme start="20260120010000 +0700" stop="20260120040000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Atlanta Hawks - Milwaukee Bucks (L)</title>
     <desc>Live: Ya</desc>
-</programme>
-<programme start="20260119000000 +0700" stop="20260119013500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC 2025</title>
-    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260119013500 +0700" stop="20260119023000 +0700" channel="COSMOTE Sport 5 HD">
     <title>WRC 2025</title>
@@ -333,6 +333,14 @@
 <programme start="20260120010000 +0700" stop="20260120020000 +0700" channel="COSMOTE Sport 5 HD">
     <title>WRC</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260120020000 +0700" stop="20260120023000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC Magazine 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260120023000 +0700" stop="20260120053000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Basketball: Cleveland Cavaliers - Oklahoma City Thunder (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260119000000 +0700" stop="20260119023500 +0700" channel="COSMOTE Sport 6 HD">
     <title>Fight Sports: Oktagon 2026</title>
@@ -528,10 +536,6 @@
 </programme>
 <programme start="20260120010000 +0700" stop="20260120030000 +0700" channel="COSMOTE Sport 8 HD">
     <title>COSMOTESport8HD</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260119010000 +0700" stop="20260119020000 +0700" channel="COSMOTE Sport 9 HD">
-    <title>COSMOTESport9HD</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260119020000 +0700" stop="20260119023000 +0700" channel="COSMOTE Sport 9 HD">

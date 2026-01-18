@@ -577,6 +577,9 @@
 <programme start="20260118154500 +0000" stop="20260118163000 +0000" channel="Trans 7.vision">
 <title>The Police</title>
 </programme>
+<programme start="20260118163000 +0000" stop="20260118181500 +0000" channel="Trans 7.vision">
+<title>Comic 8: Casino Kings, Pt 2</title>
+</programme>
 <programme start="20260118181500 +0000" stop="20260118193000 +0000" channel="Trans 7.vision">
 <title>Best Fishing</title>
 </programme>
@@ -652,8 +655,17 @@
 <programme start="20260118060000 +0000" stop="20260118083000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
+<programme start="20260118104500 +0000" stop="20260118114500 +0000" channel="ANTV.vision">
+<title>ANTV Seru</title>
+</programme>
 <programme start="20260118114500 +0000" stop="20260118131500 +0000" channel="ANTV.vision">
 <title>Senandung Cinta Lilis</title>
+</programme>
+<programme start="20260118131500 +0000" stop="20260118150000 +0000" channel="ANTV.vision">
+<title>Pendekar Mata Satu Lawan...</title>
+</programme>
+<programme start="20260118150000 +0000" stop="20260118163000 +0000" channel="ANTV.vision">
+<title>Saya Duluan Dong</title>
 </programme>
 <programme start="20260118163000 +0000" stop="20260118183000 +0000" channel="ANTV.vision">
 <title>Serie A Liga Italia</title>
@@ -1484,17 +1496,5 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260118050000 +0000" stop="20260118070000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260118070000 +0000" stop="20260118090000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260118090000 +0000" stop="20260118110000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260118110000 +0000" stop="20260118130000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260118130000 +0000" stop="20260118150000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
