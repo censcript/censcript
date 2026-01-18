@@ -1,11 +1,3 @@
-<programme start="20260118153000 +0700" stop="20260118173000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: Omonoia FC - Rakow Czestochowa</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260118173000 +0700" stop="20260118180000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Game R1 S6 E21</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260118180000 +0700" stop="20260118183000 +0700" channel="COSMOTE Sport 1 HD">
     <title>UEL &amp; UECL Magazine 2025-26 E9</title>
     <desc>Live: Tidak</desc>
@@ -64,6 +56,10 @@
 </programme>
 <programme start="20260119171500 +0700" stop="20260119181500 +0700" channel="COSMOTE Sport 1 HD">
     <title>UEFA Champions League Highlights 2025-26</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260119181500 +0700" stop="20260119201500 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: PFC Ludogorets 1945 - PAOK</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260118164500 +0700" stop="20260118184500 +0700" channel="COSMOTE Sport 2 HD">
@@ -130,6 +126,10 @@
     <title>Football: Bologna - ACF Fiorentina</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260119181000 +0700" stop="20260119202500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: AEK - Panathinaikos</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260118170000 +0700" stop="20260118190000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Sporting CP - Casa Pia</title>
     <desc>Live: Tidak</desc>
@@ -194,12 +194,8 @@
     <title>Football: Al Ittihad - Al Ettifaq FC</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260118145500 +0700" stop="20260118172500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Dallas Mavericks - Utah Jazz</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260118172500 +0700" stop="20260118180000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>NBA Action 2025-26 E3513</title>
+<programme start="20260119184500 +0700" stop="20260119204500 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Al Nassr - Al Shabab</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260118180000 +0700" stop="20260118200000 +0700" channel="COSMOTE Sport 4 HD">
@@ -256,10 +252,6 @@
 </programme>
 <programme start="20260119170000 +0700" stop="20260119193000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Houston Rockets - New Orleans Pelicans</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260118165000 +0700" stop="20260118175500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260118175500 +0700" stop="20260118184500 +0700" channel="COSMOTE Sport 5 HD">
@@ -350,6 +342,10 @@
     <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260119182500 +0700" stop="20260119193000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260118170000 +0700" stop="20260118183000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Volleyball: Eczacibasi Dynavit Istanbul - Olympiacos</title>
     <desc>Live: Tidak</desc>
@@ -420,6 +416,14 @@
 </programme>
 <programme start="20260119172000 +0700" stop="20260119180500 +0700" channel="COSMOTE Sport 6 HD">
     <title>Beach Volley: Pro Tour Elite 16 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260119180500 +0700" stop="20260119185500 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Beach Volley: Pro Tour Elite 16 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260119185500 +0700" stop="20260119204500 +0700" channel="COSMOTE Sport 6 HD">
+    <title>CEV Beach Volleyball European Cup 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260118170000 +0700" stop="20260118190000 +0700" channel="COSMOTE Sport 7 HD">
