@@ -2732,7 +2732,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260118170000 +0000" stop="20260118183000 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: Sky 90 - Die Fußballdebatte</title>
 </programme>
-<programme start="20260118183000 +0000" stop="20260118193000 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
+<programme start="20260118183000 +0000" stop="20260118191500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: Highlights XXL: FCA - SCF, 18. Spieltag</title>
 </programme>
 <programme start="20260118114000 +0000" stop="20260118120000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
@@ -2753,19 +2753,19 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260118114000 +0000" stop="20260118120000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Es folgt: Live 2. Bundesliga</title>
 </programme>
-<programme start="20260118120000 +0000" stop="20260118143000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
+<programme start="20260118120000 +0000" stop="20260118150000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live 2. BL: VfL Bochum - SV Darmstadt 98, 18. Spieltag</title>
 </programme>
 <programme start="20260118114000 +0000" stop="20260118120000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Es folgt: Live 2. Bundesliga</title>
 </programme>
-<programme start="20260118120000 +0000" stop="20260118150000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
+<programme start="20260118120000 +0000" stop="20260118143000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live 2. BL: Holstein Kiel - SC Paderborn 07, 18. Spieltag</title>
 </programme>
 <programme start="20260118114000 +0000" stop="20260118120000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Es folgt: Live 2. Bundesliga</title>
 </programme>
-<programme start="20260118120000 +0000" stop="20260118143000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
+<programme start="20260118120000 +0000" stop="20260118150000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Live 2. BL: Multiview 18. Spieltag, Sonntag</title>
 </programme>
 <programme start="20260117230000 +0000" stop="20260118000000 +0000" channel="Sky Sport F1 HD.skyde">
