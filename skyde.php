@@ -2942,75 +2942,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260118220000 +0000" stop="20260119010000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NHL: Ottawa Senators @ Detroit Red Wings</title>
 </programme>
-<programme start="20260117230000 +0000" stop="20260118010000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Sky Sport News: Nightline</title>
-</programme>
-<programme start="20260118010000 +0000" stop="20260118030000 +0000" channel="Sky Sport News HD.skyde">
-    <title>BL: RB Leipzig - FC Bayern München, tipico Topspiel der Woche, 18. Spieltag</title>
-</programme>
-<programme start="20260118030000 +0000" stop="20260118050000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Sky Sport News: Nightline</title>
-</programme>
-<programme start="20260118050000 +0000" stop="20260118080000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Sky Sport News: Der Morgen</title>
-</programme>
-<programme start="20260118080000 +0000" stop="20260118090000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live Sky Sport News: Guten Morgen Fans!</title>
-</programme>
-<programme start="20260118090000 +0000" stop="20260118100000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Sky Sport News: Guten Morgen Fans!</title>
-</programme>
-<programme start="20260118100000 +0000" stop="20260118103000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live Sky Sport News: Guten Morgen Fans!</title>
-</programme>
-<programme start="20260118103000 +0000" stop="20260118110000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Sky Sport News: Skylights</title>
-</programme>
-<programme start="20260118110000 +0000" stop="20260118120000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live Sky Sport News: Guten Morgen Fans!</title>
-</programme>
-<programme start="20260118120000 +0000" stop="20260118143000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live 2. BL: Sonntags-Konferenz, 18. Spieltag</title>
-</programme>
-<programme start="20260118143000 +0000" stop="20260118153000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live 2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 18. Spieltag, Sonntag</title>
-</programme>
-<programme start="20260118153000 +0000" stop="20260118163000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live BL: Skylights: Die #SkySportShow</title>
-</programme>
-<programme start="20260118163000 +0000" stop="20260118170000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live BL: Highlights XXL: VFB - FCU, 18. Spieltag</title>
-</programme>
-<programme start="20260118170000 +0000" stop="20260118183000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live BL: Sky 90 - Die Fußballdebatte</title>
-</programme>
-<programme start="20260118183000 +0000" stop="20260118190000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live BL: Highlights XXL: FCA - SCF, 18. Spieltag</title>
-</programme>
-<programme start="20260118190000 +0000" stop="20260118193000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live PL: All Goals: Die Highlight-Show, 22. Spieltag</title>
-</programme>
-<programme start="20260118193000 +0000" stop="20260118200000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live Sky Sport News: Top News</title>
-</programme>
-<programme start="20260118200000 +0000" stop="20260118203000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Sky Sport News: Skylights</title>
-</programme>
-<programme start="20260118203000 +0000" stop="20260118210000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live Sky Sport News: Top News</title>
-</programme>
-<programme start="20260118210000 +0000" stop="20260118213000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Sky Sport News: Skylights</title>
-</programme>
-<programme start="20260118213000 +0000" stop="20260118220000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live Sky Sport News: Top News</title>
-</programme>
-<programme start="20260118220000 +0000" stop="20260118223000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Sky Sport News: Skylights</title>
-</programme>
-<programme start="20260118223000 +0000" stop="20260118230000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Sky Sport News: Nightline</title>
-</programme>
 <programme start="20260118000000 +0000" stop="20260118020000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: Leeds United - FC Fulham, 22. Spieltag</title>
 </programme>
@@ -3133,51 +3064,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 </programme>
 <programme start="20260118213000 +0000" stop="20260118233000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 250: T. Machac (CZE) - T. Paul (USA), Adelaide International in Adelaide (AUS), Halbfinale 1</title>
-</programme>
-<programme start="20260118003000 +0000" stop="20260118010000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>PL: Highlights Samstag, 22. Spieltag</title>
-</programme>
-<programme start="20260118010000 +0000" stop="20260118020000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 18. Spieltag, Samstag komplett</title>
-</programme>
-<programme start="20260118020000 +0000" stop="20260118030000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>BL: Alle Spiele, alle Stimmen, 18. Spieltag</title>
-</programme>
-<programme start="20260118030000 +0000" stop="20260118060000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live NHL: Edmonton Oilers @ Vancouver Canucks</title>
-</programme>
-<programme start="20260118060000 +0000" stop="20260118080000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>PL: Manchester United - Manchester City, 22. Spieltag</title>
-</programme>
-<programme start="20260118080000 +0000" stop="20260118084500 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>3. Liga: Alle Spiele, alle Tore, 20. Spieltag, Samstag</title>
-</programme>
-<programme start="20260118084500 +0000" stop="20260118094500 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 18. Spieltag, Samstag komplett</title>
-</programme>
-<programme start="20260118094500 +0000" stop="20260118100000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>BL: Highlights XXL: BVB - STP, 18. Spieltag</title>
-</programme>
-<programme start="20260118100000 +0000" stop="20260118120000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>BL: RB Leipzig - FC Bayern München, tipico Topspiel der Woche, 18. Spieltag</title>
-</programme>
-<programme start="20260118120000 +0000" stop="20260118143000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live 2. BL: Sonntags-Konferenz, 18. Spieltag</title>
-</programme>
-<programme start="20260118143000 +0000" stop="20260118160000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live PL: Wolverhampton Wanderers - Newcastle United, 22. Spieltag</title>
-</programme>
-<programme start="20260118160000 +0000" stop="20260118183000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live PL: Aston Villa - FC Everton, Match of the Week, 22. Spieltag</title>
-</programme>
-<programme start="20260118183000 +0000" stop="20260118190000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live PL: Match of the Week: Die Analyse, AVL - EVE, 22. Spieltag</title>
-</programme>
-<programme start="20260118190000 +0000" stop="20260118220000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live NHL: Tampa Bay Lightning @ Dallas Stars</title>
-</programme>
-<programme start="20260118220000 +0000" stop="20260119010000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live NHL: Ottawa Senators @ Detroit Red Wings</title>
 </programme>
 <programme start="20260118123000 +0000" stop="20260118130000 +0000" channel="Sky Sport UHD.skyde">
     <title>Golf: Greatest Holes (5)</title>
