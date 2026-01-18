@@ -7468,7 +7468,10 @@
     <programme start="20260117233500 +0000" stop="20260118013000 +0000" channel="Asianet Movies.starhub">
         <title>Hareendran Oru Nishkalankan</title>
     </programme>
-    <programme start="20260118013000 +0000" stop="20260118043000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260118013000 +0000" stop="20260118015500 +0000" channel="Asianet Movies.starhub">
+        <title>Chirikkum Thalika</title>
+    </programme>
+    <programme start="20260118015500 +0000" stop="20260118043000 +0000" channel="Asianet Movies.starhub">
         <title>Johny Johny Yes Appa</title>
     </programme>
     <programme start="20260118043000 +0000" stop="20260118073000 +0000" channel="Asianet Movies.starhub">
@@ -7480,7 +7483,7 @@
     <programme start="20260118110000 +0000" stop="20260118133000 +0000" channel="Asianet Movies.starhub">
         <title>Grrr...</title>
     </programme>
-    <programme start="20260118133000 +0000" stop="20260118170000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260118133000 +0000" stop="20260118165000 +0000" channel="Asianet Movies.starhub">
         <title>Oru Marubhoomikkadha</title>
     </programme>
     <programme start="20260117160000 +0000" stop="20260117163000 +0000" channel="Astro Warna HD.starhub">

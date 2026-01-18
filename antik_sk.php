@@ -11015,7 +11015,7 @@
     <title lang="id">Barbapapa a jeho rodinka II (20)</title>
   </programme>
   <programme start="20260120222500 +0000" stop="20260120225000 +0000" channel="Nick Jr.webtv.sk">
-    <title lang="id">Barbapapa a jeho rodinka II (21)</title>
+    <title lang="id">Barbapapa a jeho rodinka I (21)</title>
   </programme>
   <programme start="20260120225000 +0000" stop="20260120231500 +0000" channel="Nick Jr.webtv.sk">
     <title lang="id">Barbapapa a jeho rodinka II (22)</title>
@@ -16594,13 +16594,13 @@
   <programme start="20260120000300 +0000" stop="20260120005500 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Bez retuszu (292)</title>
   </programme>
-  <programme start="20260120005500 +0000" stop="20260120013000 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260120005500 +0000" stop="20260120012900 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Oko na Swiat (648)</title>
   </programme>
-  <programme start="20260120013000 +0000" stop="20260120023000 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260120012900 +0000" stop="20260120022900 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Panorama Dnia</title>
   </programme>
-  <programme start="20260120023000 +0000" stop="20260120024500 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260120022900 +0000" stop="20260120024500 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Pogoda Info</title>
   </programme>
   <programme start="20260120024500 +0000" stop="20260120031600 +0000" channel="TVP Info.webtv.sk">
@@ -16687,10 +16687,10 @@
   <programme start="20260120080000 +0000" stop="20260120090000 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Serwis Info Poranek</title>
   </programme>
-  <programme start="20260120090000 +0000" stop="20260120092100 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260120090000 +0000" stop="20260120092200 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Serwis Info Dzien</title>
   </programme>
-  <programme start="20260120092100 +0000" stop="20260120093000 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260120092200 +0000" stop="20260120093000 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Pogoda Info</title>
   </programme>
   <programme start="20260120093000 +0000" stop="20260120100000 +0000" channel="TVP Info.webtv.sk">
@@ -16949,7 +16949,7 @@
     <title lang="id">Грани времени</title>
   </programme>
   <programme start="20260120060000 +0000" stop="20260120070000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Настоящий сериал</title>
+    <title lang="id">Настоящий сериал: Другая школа</title>
   </programme>
   <programme start="20260120070000 +0000" stop="20260120090000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">Pеальное кино: Борись и танцуй</title>
@@ -16967,7 +16967,7 @@
     <title lang="id">#ВУкраине</title>
   </programme>
   <programme start="20260120110000 +0000" stop="20260120120000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Настоящий сериал</title>
+    <title lang="id">Настоящий сериал: Другая школа</title>
   </programme>
   <programme start="20260120120000 +0000" stop="20260120123000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">Что же получается</title>
@@ -17009,7 +17009,7 @@
     <title lang="id">Детали</title>
   </programme>
   <programme start="20260120200000 +0000" stop="20260120220000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Pеальное кино</title>
+    <title lang="id">Pеальное кино: Дочки</title>
   </programme>
   <programme start="20260120220000 +0000" stop="20260120223000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">Лицом к событию</title>
@@ -19078,10 +19078,13 @@
   <programme start="20260120193500 +0000" stop="20260120203000 +0000" channel="Rai Uno.webtv.sk">
     <title lang="id">Affari tuoi</title>
   </programme>
-  <programme start="20260120203000 +0000" stop="20260120223000 +0000" channel="Rai Uno.webtv.sk">
-    <title lang="id">One life (Film)</title>
+  <programme start="20260120203000 +0000" stop="20260120213000 +0000" channel="Rai Uno.webtv.sk">
+    <title lang="id">Prima di noi I (7)</title>
   </programme>
-  <programme start="20260120223000 +0000" stop="20260120225500 +0000" channel="Rai Uno.webtv.sk">
+  <programme start="20260120213000 +0000" stop="20260120223500 +0000" channel="Rai Uno.webtv.sk">
+    <title lang="id">Prima di noi I (8)</title>
+  </programme>
+  <programme start="20260120223500 +0000" stop="20260120225500 +0000" channel="Rai Uno.webtv.sk">
     <title lang="id">Porta a porta</title>
   </programme>
   <programme start="20260120225500 +0000" stop="20260120230000 +0000" channel="Rai Uno.webtv.sk">

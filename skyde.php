@@ -3089,25 +3089,25 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260117233000 +0000" stop="20260118003000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>United Cup: Review 2026</title>
 </programme>
-<programme start="20260118003000 +0000" stop="20260118030000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260118003000 +0000" stop="20260118023000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 250: S. Baez (ARG) - J. Mensik (CZE), ASB Classic in Auckland (NZL), Finale</title>
 </programme>
-<programme start="20260118030000 +0000" stop="20260118041500 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260118023000 +0000" stop="20260118040000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 500: M. Andreeva - V. Mboko (CAN), Adelaide International in Adelaide (AUS), Finale</title>
+</programme>
+<programme start="20260118040000 +0000" stop="20260118051500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: K. Birrell (AUS) - V. Mboko (CAN), Adelaide International in Adelaide (AUS), Halbfinale 1</title>
 </programme>
-<programme start="20260118041500 +0000" stop="20260118044500 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260118051500 +0000" stop="20260118054500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA Finals: Review Riyadh 2025</title>
 </programme>
-<programme start="20260118044500 +0000" stop="20260118050000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP &amp; WTA: Best Shots 2025</title>
+<programme start="20260118054500 +0000" stop="20260118061500 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP: This Week</title>
 </programme>
-<programme start="20260118050000 +0000" stop="20260118064000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260118061500 +0000" stop="20260118080000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: M. Andreeva - D. Shnaider, Adelaide International in Adelaide (AUS), Halbfinale 2</title>
 </programme>
-<programme start="20260118064000 +0000" stop="20260118070000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP &amp; WTA: Best Shots 2025</title>
-</programme>
-<programme start="20260118070000 +0000" stop="20260118093000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260118080000 +0000" stop="20260118093000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: M. Andreeva - V. Mboko (CAN), Adelaide International in Adelaide (AUS), Finale</title>
 </programme>
 <programme start="20260118093000 +0000" stop="20260118113000 +0000" channel="Sky Sport Tennis HD.skyde">
