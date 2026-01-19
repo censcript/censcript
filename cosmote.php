@@ -58,18 +58,6 @@
     <title>UEFA Champions League Show 2025-26 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260119230000 +0700" stop="20260120011000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Panetolikos - Levadiakos (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20260120011000 +0700" stop="20260120013000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Sports Classics: Worldies E17</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260120013000 +0700" stop="20260120020000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Sports Classics: Football&#039;s Greatest IV E2</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260120020000 +0700" stop="20260120024500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Sports Classics: Football&#039;s Greatest IV E3</title>
     <desc>Live: Tidak</desc>
@@ -131,6 +119,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260121014500 +0700" stop="20260121021500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Sports Classics: Sporting Countdowns</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260121021500 +0700" stop="20260121030000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Sports Classics: Sporting Countdowns</title>
     <desc>Live: Tidak</desc>
 </programme>
@@ -266,8 +258,8 @@
     <title>Basketball: Rytas Vilnius - Hapoel Holon (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260120010000 +0700" stop="20260120020000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC</title>
+<programme start="20260121023000 +0700" stop="20260121030000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>ACB Liga Endesa 2025-26 - Fifth Quarter E12</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260120020000 +0700" stop="20260120023000 +0700" channel="COSMOTE Sport 5 HD">
@@ -364,10 +356,6 @@
 </programme>
 <programme start="20260121010500 +0700" stop="20260121030000 +0700" channel="COSMOTE Sport 5 HD">
     <title>DTM 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260119232500 +0700" stop="20260120015000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Volleyball: Panathinaikos - Poitiers</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260120015000 +0700" stop="20260120033500 +0700" channel="COSMOTE Sport 6 HD">
@@ -494,6 +482,14 @@
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260121020000 +0700" stop="20260121023000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260121023000 +0700" stop="20260121030000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260120010000 +0700" stop="20260120030000 +0700" channel="COSMOTE Sport 8 HD">
     <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
@@ -539,6 +535,14 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260120230000 +0700" stop="20260121020000 +0700" channel="COSMOTE Sport 8 HD">
+    <title>COSMOTESport8HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260121020000 +0700" stop="20260121024000 +0700" channel="COSMOTE Sport 8 HD">
+    <title>COSMOTESport8HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260121024000 +0700" stop="20260121030000 +0700" channel="COSMOTE Sport 8 HD">
     <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
 </programme>
@@ -597,5 +601,9 @@
 <programme start="20260121003000 +0700" stop="20260121023000 +0700" channel="COSMOTE Sport 9 HD">
     <title>Football: Al Ahli - Al Khaleej (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20260121023000 +0700" stop="20260121030000 +0700" channel="COSMOTE Sport 9 HD">
+    <title>COSMOTESport9HD</title>
+    <desc>Live: Tidak</desc>
 </programme>
 No EPG found for COSMOTE Sport 10 HD
