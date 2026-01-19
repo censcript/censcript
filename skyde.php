@@ -3233,6 +3233,27 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260119220000 +0000" stop="20260120010000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Dallas Mavericks @ New York Knicks</title>
 </programme>
+<programme start="20260118230000 +0000" stop="20260118233000 +0000" channel="Sky Sport UHD.skyde">
+    <title>Golf: Greatest Holes (4)</title>
+</programme>
+<programme start="20260118233000 +0000" stop="20260119013000 +0000" channel="Sky Sport UHD.skyde">
+    <title>F1: Rennen - GP Katar</title>
+</programme>
+<programme start="20260119013000 +0000" stop="20260119033000 +0000" channel="Sky Sport UHD.skyde">
+    <title>F1: Rennen - GP Abu Dhabi</title>
+</programme>
+<programme start="20260119033000 +0000" stop="20260119053000 +0000" channel="Sky Sport UHD.skyde">
+    <title>DFB-Pokal: Borussia Dortmund - Bayer Leverkusen, Achtelfinale</title>
+</programme>
+<programme start="20260119053000 +0000" stop="20260119073000 +0000" channel="Sky Sport UHD.skyde">
+    <title>PL: Aston Villa - FC Everton, Match of the Week, 22. Spieltag</title>
+</programme>
+<programme start="20260119073000 +0000" stop="20260119080000 +0000" channel="Sky Sport UHD.skyde">
+    <title>PL: Match of the Week: Die Analyse, AVL - EVE, 22. Spieltag</title>
+</programme>
+<programme start="20260119080000 +0000" stop="20260119081500 +0000" channel="Sky Sport UHD.skyde">
+    <title>Info: UHD</title>
+</programme>
 <programme start="20260119171000 +0000" stop="20260119173000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: Basketball NBA</title>
 </programme>
