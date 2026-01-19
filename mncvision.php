@@ -7987,17 +7987,11 @@
 <programme start="20260119023000 +0000" stop="20260119030000 +0000" channel="Sportstars 2.mncvision">
     <title>Sport Today</title>
 </programme>
-<programme start="20260119030000 +0000" stop="20260119050000 +0000" channel="Sportstars 2.mncvision">
-    <title>SEA Games Thailand 2025</title>
+<programme start="20260119030000 +0000" stop="20260119070000 +0000" channel="Sportstars 2.mncvision">
+    <title>Asian Para Games Thailand (L)</title>
 </programme>
-<programme start="20260119050000 +0000" stop="20260119070000 +0000" channel="Sportstars 2.mncvision">
-    <title>V-League</title>
-</programme>
-<programme start="20260119070000 +0000" stop="20260119083000 +0000" channel="Sportstars 2.mncvision">
-    <title>IBA Mens World C&#039;ship 2025</title>
-</programme>
-<programme start="20260119083000 +0000" stop="20260119103000 +0000" channel="Sportstars 2.mncvision">
-    <title>AFC U23 Asian Cup Saudi Arabia</title>
+<programme start="20260119070000 +0000" stop="20260119103000 +0000" channel="Sportstars 2.mncvision">
+    <title>Asian Para Games Thailand (L)</title>
 </programme>
 <programme start="20260119103000 +0000" stop="20260119130000 +0000" channel="Sportstars 2.mncvision">
     <title>Best Of Badminton</title>
@@ -8032,17 +8026,11 @@
 <programme start="20260119023000 +0000" stop="20260119030000 +0000" channel="Sportstars 2 HD.mncvision">
     <title>Sport Today</title>
 </programme>
-<programme start="20260119030000 +0000" stop="20260119050000 +0000" channel="Sportstars 2 HD.mncvision">
-    <title>SEA Games Thailand 2025</title>
+<programme start="20260119030000 +0000" stop="20260119070000 +0000" channel="Sportstars 2 HD.mncvision">
+    <title>Asian Para Games Thailand (L)</title>
 </programme>
-<programme start="20260119050000 +0000" stop="20260119070000 +0000" channel="Sportstars 2 HD.mncvision">
-    <title>V-League</title>
-</programme>
-<programme start="20260119070000 +0000" stop="20260119083000 +0000" channel="Sportstars 2 HD.mncvision">
-    <title>IBA Mens World C&#039;ship 2025</title>
-</programme>
-<programme start="20260119083000 +0000" stop="20260119103000 +0000" channel="Sportstars 2 HD.mncvision">
-    <title>AFC U23 Asian Cup Saudi Arabia</title>
+<programme start="20260119070000 +0000" stop="20260119103000 +0000" channel="Sportstars 2 HD.mncvision">
+    <title>Asian Para Games Thailand (L)</title>
 </programme>
 <programme start="20260119103000 +0000" stop="20260119130000 +0000" channel="Sportstars 2 HD.mncvision">
     <title>Best Of Badminton</title>
