@@ -6472,17 +6472,17 @@
 <programme start="20260119065500 +0000" stop="20260119090000 +0000" channel="NHK World Premium.mncvision">
     <title>Grand Sumo 2026 January</title>
 </programme>
-<programme start="20260119090000 +0000" stop="20260119091000 +0000" channel="NHK World Premium.mncvision">
+<programme start="20260119090000 +0000" stop="20260119093000 +0000" channel="NHK World Premium.mncvision">
     <title>News</title>
 </programme>
-<programme start="20260119091000 +0000" stop="20260119092000 +0000" channel="NHK World Premium.mncvision">
+<programme start="20260119093000 +0000" stop="20260119094000 +0000" channel="NHK World Premium.mncvision">
     <title>Fun With Japanese</title>
 </programme>
-<programme start="20260119092000 +0000" stop="20260119093500 +0000" channel="NHK World Premium.mncvision">
+<programme start="20260119094000 +0000" stop="20260119095500 +0000" channel="NHK World Premium.mncvision">
     <title>Peek-A-Boo</title>
 </programme>
-<programme start="20260119093500 +0000" stop="20260119100000 +0000" channel="NHK World Premium.mncvision">
-    <title>With Mother</title>
+<programme start="20260119095500 +0000" stop="20260119100000 +0000" channel="NHK World Premium.mncvision">
+    <title>Disaster Management Tips</title>
 </programme>
 <programme start="20260119100000 +0000" stop="20260119103000 +0000" channel="NHK World Premium.mncvision">
     <title>NHK News</title>
