@@ -58,6 +58,10 @@
     <title>Football: FC Kairat Almaty - Club Brugge (L)</title>
     <desc>Live: Ya</desc>
 </programme>
+<programme start="20260121003000 +0700" stop="20260121010000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Sports Classics: My Sporting Moment</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260119230000 +0700" stop="20260120011000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Panetolikos - Levadiakos (L)</title>
     <desc>Live: Ya</desc>
@@ -120,6 +124,10 @@
 </programme>
 <programme start="20260120222000 +0700" stop="20260121004500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Volos - Atromitos</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260121004500 +0700" stop="20260121011500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Sports Classics: Sporting Countdowns</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260119211500 +0700" stop="20260120003000 +0700" channel="COSMOTE Sport 3 HD">
@@ -185,6 +193,10 @@
 <programme start="20260120224500 +0700" stop="20260121004500 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Vitoria Guimaraes - FC Porto</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260121004500 +0700" stop="20260121030000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: FK Bodo/Glimt - Manchester City FC (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260119223000 +0700" stop="20260120010000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Houston Rockets - New Orleans Pelicans</title>
@@ -254,9 +266,9 @@
     <title>Pick n&#039; Roll (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260119213000 +0700" stop="20260119231500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>DTM 2025</title>
-    <desc>Live: Tidak</desc>
+<programme start="20260121003000 +0700" stop="20260121023000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Rytas Vilnius - Hapoel Holon (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260119231500 +0700" stop="20260120001000 +0700" channel="COSMOTE Sport 5 HD">
     <title>2025 GT World Challenge Europe</title>
@@ -362,10 +374,6 @@
     <title>DTM 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260119225500 +0700" stop="20260119232500 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Watersports: Sailing to the Games 2025 E6</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260119232500 +0700" stop="20260120015000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Volleyball: Panathinaikos - Poitiers</title>
     <desc>Live: Tidak</desc>
@@ -428,6 +436,14 @@
 </programme>
 <programme start="20260120234500 +0700" stop="20260121001500 +0700" channel="COSMOTE Sport 6 HD">
     <title>HYROX - The World of Fitness Racing E1</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260121001500 +0700" stop="20260121004500 +0700" channel="COSMOTE Sport 6 HD">
+    <title>HYROX - The World of Fitness Racing E2</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260121004500 +0700" stop="20260121011500 +0700" channel="COSMOTE Sport 6 HD">
+    <title>HYROX - The World of Fitness Racing E3</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260119230000 +0700" stop="20260120010000 +0700" channel="COSMOTE Sport 7 HD">
@@ -585,5 +601,13 @@
 <programme start="20260120230000 +0700" stop="20260121000000 +0700" channel="COSMOTE Sport 9 HD">
     <title>COSMOTESport9HD</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260121000000 +0700" stop="20260121003000 +0700" channel="COSMOTE Sport 9 HD">
+    <title>COSMOTESport9HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260121003000 +0700" stop="20260121023000 +0700" channel="COSMOTE Sport 9 HD">
+    <title>Football: Al Ahli - Al Khaleej (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 No EPG found for COSMOTE Sport 10 HD
