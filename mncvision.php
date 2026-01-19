@@ -1274,7 +1274,7 @@
     <title>MUTV 2025/26: MUN Vs MCI</title>
 </programme>
 <programme start="20260119163000 +0000" stop="20260119165500 +0000" channel="beIN Sports 3.mncvision">
-    <title>MUTV Match Day: MUN Vs MCI</title>
+    <title>MUTV Specials: Reds In Europe</title>
 </programme>
 <programme start="20260119165500 +0000" stop="20260118172500 +0000" channel="beIN Sports 3.mncvision">
     <title>Super Lig 25/26: BJK Vs KAY (L)</title>
@@ -1316,7 +1316,7 @@
     <title>MUTV 2025/26: MUN Vs MCI</title>
 </programme>
 <programme start="20260119163000 +0000" stop="20260119165500 +0000" channel="beIN Sports 3 HD.mncvision">
-    <title>MUTV Match Day: MUN Vs MCI</title>
+    <title>MUTV Specials: Reds In Europe</title>
 </programme>
 <programme start="20260119165500 +0000" stop="20260118172500 +0000" channel="beIN Sports 3 HD.mncvision">
     <title>Super Lig 25/26: BJK Vs KAY (L)</title>
@@ -8137,20 +8137,20 @@
 <programme start="20260119050000 +0000" stop="20260119070000 +0000" channel="Sportstars 4.mncvision">
     <title>V League (Women)</title>
 </programme>
-<programme start="20260119070000 +0000" stop="20260119090000 +0000" channel="Sportstars 4.mncvision">
-    <title>European Qualifiers</title>
+<programme start="20260119070000 +0000" stop="20260119080000 +0000" channel="Sportstars 4.mncvision">
+    <title>ASEAN Para Games (L)</title>
 </programme>
-<programme start="20260119090000 +0000" stop="20260119110000 +0000" channel="Sportstars 4.mncvision">
-    <title>Liga 2</title>
+<programme start="20260119080000 +0000" stop="20260119110000 +0000" channel="Sportstars 4.mncvision">
+    <title>ASEAN Para Games (L)</title>
 </programme>
 <programme start="20260119110000 +0000" stop="20260119130000 +0000" channel="Sportstars 4.mncvision">
-    <title>BRI Liga 1</title>
+    <title>BRI Liga 1: TGR Vs KDR</title>
 </programme>
 <programme start="20260119130000 +0000" stop="20260119150000 +0000" channel="Sportstars 4.mncvision">
-    <title>European Qualifiers</title>
+    <title>European Qual.: POR Vs ARM</title>
 </programme>
 <programme start="20260119150000 +0000" stop="20260119153000 +0000" channel="Sportstars 4.mncvision">
-    <title>Liga 2</title>
+    <title>Liga 2: JAP Vs PSL</title>
 </programme>
 <programme start="20260118170000 +0000" stop="20260118190000 +0000" channel="Sportstars 4 HD.mncvision">
     <title>Bundesliga</title>
@@ -8173,20 +8173,20 @@
 <programme start="20260119050000 +0000" stop="20260119070000 +0000" channel="Sportstars 4 HD.mncvision">
     <title>V League (Women)</title>
 </programme>
-<programme start="20260119070000 +0000" stop="20260119090000 +0000" channel="Sportstars 4 HD.mncvision">
-    <title>European Qualifiers</title>
+<programme start="20260119070000 +0000" stop="20260119080000 +0000" channel="Sportstars 4 HD.mncvision">
+    <title>ASEAN Para Games (L)</title>
 </programme>
-<programme start="20260119090000 +0000" stop="20260119110000 +0000" channel="Sportstars 4 HD.mncvision">
-    <title>Liga 2</title>
+<programme start="20260119080000 +0000" stop="20260119110000 +0000" channel="Sportstars 4 HD.mncvision">
+    <title>ASEAN Para Games (L)</title>
 </programme>
 <programme start="20260119110000 +0000" stop="20260119130000 +0000" channel="Sportstars 4 HD.mncvision">
-    <title>BRI Liga 1</title>
+    <title>BRI Liga 1: TGR Vs KDR</title>
 </programme>
 <programme start="20260119130000 +0000" stop="20260119150000 +0000" channel="Sportstars 4 HD.mncvision">
-    <title>European Qualifiers</title>
+    <title>European Qual.: POR Vs ARM</title>
 </programme>
 <programme start="20260119150000 +0000" stop="20260119153000 +0000" channel="Sportstars 4 HD.mncvision">
-    <title>Liga 2</title>
+    <title>Liga 2: JAP Vs PSL</title>
 </programme>
 <programme start="20260118173000 +0000" stop="20260118200000 +0000" channel="Sportstars HD.mncvision">
     <title>Best Of Badminton</title>
