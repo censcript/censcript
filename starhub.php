@@ -2267,7 +2267,7 @@
         <title>NFL 2025/26</title>
     </programme>
     <programme start="20260118233000 +0000" stop="20260119030000 +0000" channel="Hub Sports 2 HD.starhub">
-        <title>NFL 2025/26</title>
+        <title>Division Round: Los Angeles Rams vs Chicago Bears</title>
     </programme>
     <programme start="20260119030000 +0000" stop="20260119050000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>Geylang International FC vs Lion City Sailors FC</title>
@@ -2276,10 +2276,13 @@
         <title>Balestier Khalsa FC vs Hougang United FC</title>
     </programme>
     <programme start="20260119070000 +0000" stop="20260119100000 +0000" channel="Hub Sports 2 HD.starhub">
-        <title>NFL 2025/26</title>
+        <title>Division Round: Houston Texans vs New England Patriots</title>
     </programme>
-    <programme start="20260119100000 +0000" stop="20260119110000 +0000" channel="Hub Sports 2 HD.starhub">
+    <programme start="20260119100000 +0000" stop="20260119103000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>UFC 324</title>
+    </programme>
+    <programme start="20260119103000 +0000" stop="20260119110000 +0000" channel="Hub Sports 2 HD.starhub">
+        <title>#571</title>
     </programme>
     <programme start="20260119110000 +0000" stop="20260119120000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>Episode 1</title>
@@ -2288,7 +2291,7 @@
         <title>Episode 6</title>
     </programme>
     <programme start="20260119130000 +0000" stop="20260119160000 +0000" channel="Hub Sports 2 HD.starhub">
-        <title>NFL 2025/26</title>
+        <title>Division Round: Los Angeles Rams vs Chicago Bears</title>
     </programme>
     <programme start="20260118160000 +0000" stop="20260118170000 +0000" channel="The Filipino Channel HD.starhub">
         <title>Rated Korina</title>
