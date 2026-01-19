@@ -2654,7 +2654,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260119183000 +0000" stop="20260119210000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live NHL: Buffalo Sabres @ Carolina Hurricanes</title>
 </programme>
-<programme start="20260119210000 +0000" stop="20260120090000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20260119210000 +0000" stop="20260120000000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live NHL: Washington Capitals @ Colorado Avalanche</title>
 </programme>
 <programme start="20260118230000 +0000" stop="20260119000000 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -3260,7 +3260,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260119173000 +0000" stop="20260119180000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime</title>
 </programme>
-<programme start="20260119180000 +0000" stop="20260119220000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260119180000 +0000" stop="20260120010000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Konferenz Bucks@Hawks &amp; Thunder@Cavaliers</title>
 </programme>
 <programme start="20260119171000 +0000" stop="20260119173000 +0000" channel="Sky Sport 2 HD.skyde">
@@ -3269,13 +3269,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260119173000 +0000" stop="20260119180000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live NBA: Showtime</title>
 </programme>
-<programme start="20260119180000 +0000" stop="20260119203000 +0000" channel="Sky Sport 2 HD.skyde">
+<programme start="20260119180000 +0000" stop="20260119213000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live NBA: Milwaukee Bucks @ Atlanta Hawks</title>
 </programme>
-<programme start="20260119214000 +0000" stop="20260119220000 +0000" channel="Sky Sport 2 HD.skyde">
+<programme start="20260119213000 +0000" stop="20260119220000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Es folgt: Basketball NBA</title>
 </programme>
-<programme start="20260119220000 +0000" stop="20260120010000 +0000" channel="Sky Sport 2 HD.skyde">
+<programme start="20260119220000 +0000" stop="20260120090000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live NBA: Dallas Mavericks @ New York Knicks</title>
 </programme>
 <programme start="20260119191000 +0000" stop="20260119193000 +0000" channel="Sky Sport 3 HD.skyde">

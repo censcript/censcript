@@ -54,10 +54,6 @@
     <title>Football: AEK Larnaca - Shkendija</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260119100000 +0700" stop="20260119120000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Parma - Genoa</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260119120000 +0700" stop="20260119141000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: AEL Novibet - Aris</title>
     <desc>Live: Tidak</desc>
@@ -120,6 +116,10 @@
 </programme>
 <programme start="20260120100000 +0700" stop="20260120120000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: SS Lazio - Como</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260120120000 +0700" stop="20260120141000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: AEK - Panathinaikos</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260119110000 +0700" stop="20260119144500 +0700" channel="COSMOTE Sport 3 HD">
@@ -338,6 +338,10 @@
     <title>2025 Extreme H</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260120120500 +0700" stop="20260120131000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>2025 Extreme H</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260119110000 +0700" stop="20260119135000 +0700" channel="COSMOTE Sport 6 HD">
     <title>2025 Premier Padel Tour Finals</title>
     <desc>Live: Tidak</desc>
@@ -395,6 +399,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260120110000 +0700" stop="20260120122500 +0700" channel="COSMOTE Sport 6 HD">
+    <title>2025 Premier Padel Tour Finals</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260120122500 +0700" stop="20260120142500 +0700" channel="COSMOTE Sport 6 HD">
     <title>2025 Premier Padel Tour Finals</title>
     <desc>Live: Tidak</desc>
 </programme>

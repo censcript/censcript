@@ -2003,7 +2003,7 @@
         <title>CNN Newsroom Sunday</title>
     </programme>
     <programme start="20260118210000 +0000" stop="20260118220000 +0000" channel="CNN HD.starhub">
-        <title>The Source: Weekend</title>
+        <title>CNN Newsroom Sunday</title>
     </programme>
     <programme start="20260118220000 +0000" stop="20260118223000 +0000" channel="CNN HD.starhub">
         <title>World Sport (30m)</title>
@@ -7801,10 +7801,7 @@
     <programme start="20260119003000 +0000" stop="20260119023000 +0000" channel="SPOTV2.starhub">
         <title>Men&#039;s Championship</title>
     </programme>
-    <programme start="20260119023000 +0000" stop="20260119030000 +0000" channel="SPOTV2.starhub">
-        <title>Highlights</title>
-    </programme>
-    <programme start="20260119030000 +0000" stop="20260119050000 +0000" channel="SPOTV2.starhub">
+    <programme start="20260119023000 +0000" stop="20260119050000 +0000" channel="SPOTV2.starhub">
         <title>Day 4 Session 2 Finals</title>
     </programme>
     <programme start="20260119050000 +0000" stop="20260119063000 +0000" channel="SPOTV2.starhub">
@@ -7819,14 +7816,11 @@
     <programme start="20260119090000 +0000" stop="20260119093000 +0000" channel="SPOTV2.starhub">
         <title>2025/26 ALM Mini Match Rd 12 Perth Glory vs Central Coast Mariners FC</title>
     </programme>
-    <programme start="20260119093000 +0000" stop="20260119130000 +0000" channel="SPOTV2.starhub">
+    <programme start="20260119093000 +0000" stop="20260119133000 +0000" channel="SPOTV2.starhub">
         <title>Day 4 Session 1</title>
     </programme>
-    <programme start="20260119130000 +0000" stop="20260119150000 +0000" channel="SPOTV2.starhub">
+    <programme start="20260119133000 +0000" stop="20260119160000 +0000" channel="SPOTV2.starhub">
         <title>Day 4 Session 2 Finals</title>
-    </programme>
-    <programme start="20260119150000 +0000" stop="20260119160000 +0000" channel="SPOTV2.starhub">
-        <title>Race 1</title>
     </programme>
     <programme start="20260118160000 +0000" stop="20260118170300 +0000" channel="Dragon TV.starhub">
         <title>Future China</title>

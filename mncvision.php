@@ -2756,7 +2756,7 @@
     <title>DW News</title>
 </programme>
 <programme start="20260118171500 +0000" stop="20260118173000 +0000" channel="DW English.mncvision">
-    <title>Sports Life: Overcoming...</title>
+    <title>Sports Life: The Harsh Road</title>
 </programme>
 <programme start="20260118173000 +0000" stop="20260118180000 +0000" channel="DW English.mncvision">
     <title>Euromaxx: Lifestyle Europe</title>
@@ -2765,7 +2765,7 @@
     <title>DW News</title>
 </programme>
 <programme start="20260118181500 +0000" stop="20260118183000 +0000" channel="DW English.mncvision">
-    <title>Shift: Living In Digital Age</title>
+    <title>Shift: Dangers Of Online Gaming</title>
 </programme>
 <programme start="20260118183000 +0000" stop="20260118190000 +0000" channel="DW English.mncvision">
     <title>REV: Peugeot E-5008</title>
@@ -2780,7 +2780,7 @@
     <title>DW News</title>
 </programme>
 <programme start="20260118201500 +0000" stop="20260118203000 +0000" channel="DW English.mncvision">
-    <title>Sports Life: Overcoming...</title>
+    <title>Sports Life: The Harsh Road</title>
 </programme>
 <programme start="20260118203000 +0000" stop="20260118210000 +0000" channel="DW English.mncvision">
     <title>DW News: Africa</title>
@@ -2789,10 +2789,10 @@
     <title>DW News</title>
 </programme>
 <programme start="20260118211500 +0000" stop="20260118213000 +0000" channel="DW English.mncvision">
-    <title>Reporter: On Location</title>
+    <title>Reporter: Indonesia 1998</title>
 </programme>
 <programme start="20260118213000 +0000" stop="20260118220000 +0000" channel="DW English.mncvision">
-    <title>Tomorrow Today: Science</title>
+    <title>Tomorrow Today: Research</title>
 </programme>
 <programme start="20260118220000 +0000" stop="20260118220200 +0000" channel="DW English.mncvision">
     <title>DW News</title>
@@ -2801,13 +2801,13 @@
     <title>Afrimaxx: African Lifestyle</title>
 </programme>
 <programme start="20260118223000 +0000" stop="20260118230000 +0000" channel="DW English.mncvision">
-    <title>Best Of DW Podcasts</title>
+    <title>Under The Baobab: Tax Gamble</title>
 </programme>
 <programme start="20260118230000 +0000" stop="20260118231500 +0000" channel="DW English.mncvision">
     <title>DW News</title>
 </programme>
 <programme start="20260118231500 +0000" stop="20260118233000 +0000" channel="DW English.mncvision">
-    <title>Reporter: On Location</title>
+    <title>Reporter: Indonesia 1998</title>
 </programme>
 <programme start="20260118233000 +0000" stop="20260119000000 +0000" channel="DW English.mncvision">
     <title>REV: Peugeot E-5008</title>
@@ -2819,7 +2819,7 @@
     <title>Euromaxx: Lifestyle Europe</title>
 </programme>
 <programme start="20260119003000 +0000" stop="20260119010000 +0000" channel="DW English.mncvision">
-    <title>Global Us: What Connects Us All</title>
+    <title>Global Us: Western Sahara</title>
 </programme>
 <programme start="20260119010000 +0000" stop="20260119011500 +0000" channel="DW English.mncvision">
     <title>DW News</title>
@@ -2828,22 +2828,22 @@
     <title>DocFilm</title>
 </programme>
 <programme start="20260119014500 +0000" stop="20260119020000 +0000" channel="DW English.mncvision">
-    <title>Reporter: On Location</title>
+    <title>Reporter: Indonesia 1998</title>
 </programme>
 <programme start="20260119020000 +0000" stop="20260119020200 +0000" channel="DW English.mncvision">
     <title>DW News</title>
 </programme>
 <programme start="20260119020200 +0000" stop="20260119023000 +0000" channel="DW English.mncvision">
-    <title>Eco India: Environment</title>
+    <title>Eco India: The Power Of Water</title>
 </programme>
 <programme start="20260119023000 +0000" stop="20260119030000 +0000" channel="DW English.mncvision">
-    <title>In Good Shape: The Health Show</title>
+    <title>In Good Shape: The Scary Truth</title>
 </programme>
 <programme start="20260119030000 +0000" stop="20260119031500 +0000" channel="DW English.mncvision">
     <title>DW News</title>
 </programme>
 <programme start="20260119031500 +0000" stop="20260119033000 +0000" channel="DW English.mncvision">
-    <title>Sports Life: Overcoming...</title>
+    <title>Sports Life: The Harsh Road</title>
 </programme>
 <programme start="20260119033000 +0000" stop="20260119040000 +0000" channel="DW English.mncvision">
     <title>Euromaxx: Lifestyle Europe</title>
@@ -2852,10 +2852,10 @@
     <title>DW News</title>
 </programme>
 <programme start="20260119041500 +0000" stop="20260119044500 +0000" channel="DW English.mncvision">
-    <title>Global Us: What Connects Us All</title>
+    <title>Global Us: Western Sahara</title>
 </programme>
 <programme start="20260119044500 +0000" stop="20260119050000 +0000" channel="DW English.mncvision">
-    <title>Reporter: On Location</title>
+    <title>Reporter: Indonesia 1998</title>
 </programme>
 <programme start="20260119050000 +0000" stop="20260119050200 +0000" channel="DW English.mncvision">
     <title>DW News</title>
@@ -2864,16 +2864,16 @@
     <title>DocFilm</title>
 </programme>
 <programme start="20260119053000 +0000" stop="20260119060000 +0000" channel="DW English.mncvision">
-    <title>Tomorrow Today: Science</title>
+    <title>Tomorrow Today: Research</title>
 </programme>
 <programme start="20260119060000 +0000" stop="20260119061500 +0000" channel="DW English.mncvision">
     <title>DW News</title>
 </programme>
 <programme start="20260119061500 +0000" stop="20260119063000 +0000" channel="DW English.mncvision">
-    <title>Shift: Living In Digital Age</title>
+    <title>Shift: Dangers Of Online Gaming</title>
 </programme>
 <programme start="20260119063000 +0000" stop="20260119070000 +0000" channel="DW English.mncvision">
-    <title>Eco Africa: Environment</title>
+    <title>Eco Africa: Ghana</title>
 </programme>
 <programme start="20260119070000 +0000" stop="20260119071500 +0000" channel="DW English.mncvision">
     <title>DW News</title>
@@ -2885,10 +2885,10 @@
     <title>DW News</title>
 </programme>
 <programme start="20260119081500 +0000" stop="20260119083000 +0000" channel="DW English.mncvision">
-    <title>Best Of DW Online Content</title>
+    <title>Asia 2050: Mumbai 2050</title>
 </programme>
 <programme start="20260119083000 +0000" stop="20260119090000 +0000" channel="DW English.mncvision">
-    <title>Best Of DW Podcasts</title>
+    <title>Under The Baobab: Tax Gamble</title>
 </programme>
 <programme start="20260119090000 +0000" stop="20260119091500 +0000" channel="DW English.mncvision">
     <title>DW News</title>
@@ -2900,7 +2900,7 @@
     <title>DW News</title>
 </programme>
 <programme start="20260119101500 +0000" stop="20260119104500 +0000" channel="DW English.mncvision">
-    <title>Best Of DW Online Content</title>
+    <title>Unseen: Indonesia</title>
 </programme>
 <programme start="20260118170000 +0000" stop="20260118173000 +0000" channel="Entertainment.mncvision">
     <title>Hot Spot Viral</title>
@@ -8317,10 +8317,7 @@
 <programme start="20260119003000 +0000" stop="20260119023000 +0000" channel="SPOTV 2.mncvision">
     <title>GTour Men&#039;s Championship</title>
 </programme>
-<programme start="20260119023000 +0000" stop="20260119030000 +0000" channel="SPOTV 2.mncvision">
-    <title>2025/26 A-League Men HL</title>
-</programme>
-<programme start="20260119030000 +0000" stop="20260119050000 +0000" channel="SPOTV 2.mncvision">
+<programme start="20260119023000 +0000" stop="20260119050000 +0000" channel="SPOTV 2.mncvision">
     <title>WTT Star Contender Doha 2026</title>
 </programme>
 <programme start="20260119050000 +0000" stop="20260119063000 +0000" channel="SPOTV 2.mncvision">
@@ -8335,14 +8332,11 @@
 <programme start="20260119090000 +0000" stop="20260119093000 +0000" channel="SPOTV 2.mncvision">
     <title>2025/26 ALM Mini Match</title>
 </programme>
-<programme start="20260119093000 +0000" stop="20260119130000 +0000" channel="SPOTV 2.mncvision">
+<programme start="20260119093000 +0000" stop="20260119133000 +0000" channel="SPOTV 2.mncvision">
     <title>WTT Star Contender Doha 2026</title>
 </programme>
-<programme start="20260119130000 +0000" stop="20260119150000 +0000" channel="SPOTV 2.mncvision">
+<programme start="20260119133000 +0000" stop="20260119160000 +0000" channel="SPOTV 2.mncvision">
     <title>WTT Star Contender Doha 2026</title>
-</programme>
-<programme start="20260119150000 +0000" stop="20260119160000 +0000" channel="SPOTV 2.mncvision">
-    <title>2025 Red Bull Rookies Cup Jerez</title>
 </programme>
 <programme start="20260119160000 +0000" stop="20260119163000 +0000" channel="SPOTV 2.mncvision">
     <title>A-League Men: ADL Vs MVC</title>
@@ -8368,10 +8362,7 @@
 <programme start="20260119003000 +0000" stop="20260119023000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>GTour Men&#039;s Championship</title>
 </programme>
-<programme start="20260119023000 +0000" stop="20260119030000 +0000" channel="SPOTV 2 HD.mncvision">
-    <title>2025/26 A-League Men HL</title>
-</programme>
-<programme start="20260119030000 +0000" stop="20260119050000 +0000" channel="SPOTV 2 HD.mncvision">
+<programme start="20260119023000 +0000" stop="20260119050000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>WTT Star Contender Doha 2026</title>
 </programme>
 <programme start="20260119050000 +0000" stop="20260119063000 +0000" channel="SPOTV 2 HD.mncvision">
@@ -8386,14 +8377,11 @@
 <programme start="20260119090000 +0000" stop="20260119093000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>2025/26 ALM Mini Match</title>
 </programme>
-<programme start="20260119093000 +0000" stop="20260119130000 +0000" channel="SPOTV 2 HD.mncvision">
+<programme start="20260119093000 +0000" stop="20260119133000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>WTT Star Contender Doha 2026</title>
 </programme>
-<programme start="20260119130000 +0000" stop="20260119150000 +0000" channel="SPOTV 2 HD.mncvision">
+<programme start="20260119133000 +0000" stop="20260119160000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>WTT Star Contender Doha 2026</title>
-</programme>
-<programme start="20260119150000 +0000" stop="20260119160000 +0000" channel="SPOTV 2 HD.mncvision">
-    <title>2025 Red Bull Rookies Cup Jerez</title>
 </programme>
 <programme start="20260119160000 +0000" stop="20260119163000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>A-League Men: ADL Vs MVC</title>
