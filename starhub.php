@@ -7199,7 +7199,7 @@
         <title>BBC News Now</title>
     </programme>
     <programme start="20260119143000 +0000" stop="20260119144500 +0000" channel="BBC World News HD.starhub">
-        <title>Business Today - NYSE Opening Bell</title>
+        <title>Business Today</title>
     </programme>
     <programme start="20260119144500 +0000" stop="20260119150000 +0000" channel="BBC World News HD.starhub">
         <title>BBC News Now</title>
