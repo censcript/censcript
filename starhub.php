@@ -2009,7 +2009,7 @@
         <title>World Sport (30m)</title>
     </programme>
     <programme start="20260118223000 +0000" stop="20260118230000 +0000" channel="CNN HD.starhub">
-        <title>&#039;Slow Luxury&#039; with Laura Jackson</title>
+        <title>Seasons</title>
     </programme>
     <programme start="20260118230000 +0000" stop="20260119000000 +0000" channel="CNN HD.starhub">
         <title>CNN Newsroom Sunday</title>
@@ -2059,8 +2059,14 @@
     <programme start="20260119150000 +0000" stop="20260119160000 +0000" channel="CNN HD.starhub">
         <title>Connect the World (60m)</title>
     </programme>
-    <programme start="20260118160000 +0000" stop="20260118220000 +0000" channel="KTV HD.starhub">
+    <programme start="20260118160000 +0000" stop="20260118170000 +0000" channel="KTV HD.starhub">
         <title>Information Not Available</title>
+    </programme>
+    <programme start="20260118170000 +0000" stop="20260118200000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Eetti</title>
+    </programme>
+    <programme start="20260118200000 +0000" stop="20260118223000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Naanga</title>
     </programme>
     <programme start="20260118223000 +0000" stop="20260119010000 +0000" channel="KTV HD.starhub">
         <title>Movie - Nanbanin kadhali</title>
@@ -2270,13 +2276,13 @@
         <title>#571</title>
     </programme>
     <programme start="20260118163000 +0000" stop="20260118193000 +0000" channel="Hub Sports 2 HD.starhub">
-        <title>NFL 2025/26</title>
+        <title>Division Round: Buffalo Bills vs Denver Broncos</title>
     </programme>
     <programme start="20260118193000 +0000" stop="20260118200000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>Wild Card Round</title>
     </programme>
     <programme start="20260118200000 +0000" stop="20260118233000 +0000" channel="Hub Sports 2 HD.starhub">
-        <title>NFL 2025/26</title>
+        <title>Division Round: Houston Texans vs New England Patriots</title>
     </programme>
     <programme start="20260118233000 +0000" stop="20260119030000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>Division Round: Los Angeles Rams vs Chicago Bears</title>
