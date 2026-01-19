@@ -2654,7 +2654,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260119183000 +0000" stop="20260119210000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live NHL: Buffalo Sabres @ Carolina Hurricanes</title>
 </programme>
-<programme start="20260119210000 +0000" stop="20260120000000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20260119210000 +0000" stop="20260120090000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live NHL: Washington Capitals @ Colorado Avalanche</title>
 </programme>
 <programme start="20260118230000 +0000" stop="20260119000000 +0000" channel="Sky Sport Bundesliga HD.skyde">

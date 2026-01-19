@@ -122,6 +122,10 @@
     <title>Football: AEK - Panathinaikos</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260120141000 +0700" stop="20260120161000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Cremonese - Hellas Verona</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260119110000 +0700" stop="20260119144500 +0700" channel="COSMOTE Sport 3 HD">
     <title>American Football: Denver Broncos - Buffalo Bills</title>
     <desc>Live: Tidak</desc>
@@ -180,6 +184,10 @@
 </programme>
 <programme start="20260120110000 +0700" stop="20260120141500 +0700" channel="COSMOTE Sport 3 HD">
     <title>American Football: Seattle Seahawks - San Francisco 49ers</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260120141500 +0700" stop="20260120161500 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: CF Estrela de Amadora - Estoril</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260119130000 +0700" stop="20260119150000 +0700" channel="COSMOTE Sport 4 HD">
@@ -244,6 +252,14 @@
 </programme>
 <programme start="20260120130000 +0700" stop="20260120140000 +0700" channel="COSMOTE Sport 4 HD">
     <title>NBA Specials: Basketball Stories</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260120140000 +0700" stop="20260120143000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>ACB Liga Endesa 2025-26 - Fifth Quarter E12</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260120143000 +0700" stop="20260120170000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Cleveland Cavaliers - Oklahoma City Thunder</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260119120500 +0700" stop="20260119141000 +0700" channel="COSMOTE Sport 5 HD">
@@ -342,10 +358,6 @@
     <title>2025 Extreme H</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260119110000 +0700" stop="20260119135000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>2025 Premier Padel Tour Finals</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260119135000 +0700" stop="20260119155000 +0700" channel="COSMOTE Sport 6 HD">
     <title>2025 Premier Padel Tour Finals</title>
     <desc>Live: Tidak</desc>
@@ -404,6 +416,10 @@
 </programme>
 <programme start="20260120122500 +0700" stop="20260120142500 +0700" channel="COSMOTE Sport 6 HD">
     <title>2025 Premier Padel Tour Finals</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260120142500 +0700" stop="20260120151000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Beach Volley: Pro Tour Elite 16 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260119130000 +0700" stop="20260119150000 +0700" channel="COSMOTE Sport 7 HD">

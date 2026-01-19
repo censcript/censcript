@@ -2062,14 +2062,26 @@
     <programme start="20260118160000 +0000" stop="20260118220000 +0000" channel="KTV HD.starhub">
         <title>Information Not Available</title>
     </programme>
-    <programme start="20260118220000 +0000" stop="20260119040000 +0000" channel="KTV HD.starhub">
-        <title>Information Not Available</title>
+    <programme start="20260118223000 +0000" stop="20260119010000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Nanbanin kadhali</title>
     </programme>
-    <programme start="20260119040000 +0000" stop="20260119100000 +0000" channel="KTV HD.starhub">
-        <title>Information Not Available</title>
+    <programme start="20260119010000 +0000" stop="20260119013000 +0000" channel="KTV HD.starhub">
+        <title>Fillers</title>
     </programme>
-    <programme start="20260119100000 +0000" stop="20260119160000 +0000" channel="KTV HD.starhub">
-        <title>Information Not Available</title>
+    <programme start="20260119013000 +0000" stop="20260119043000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Ooty</title>
+    </programme>
+    <programme start="20260119043000 +0000" stop="20260119073000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Kanden Seethaiyai</title>
+    </programme>
+    <programme start="20260119073000 +0000" stop="20260119103000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Pokkiri raja</title>
+    </programme>
+    <programme start="20260119103000 +0000" stop="20260119133000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Vande Madharam</title>
+    </programme>
+    <programme start="20260119133000 +0000" stop="20260119170000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Bogan</title>
     </programme>
     <programme start="20260118160000 +0000" stop="20260118162500 +0000" channel="beIN Sports 2 HD.starhub">
         <title>HSBC SVNS3 2026: Cup Final - Dubai Day 2, Women</title>
