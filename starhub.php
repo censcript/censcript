@@ -4972,17 +4972,11 @@
     <programme start="20260119053000 +0000" stop="20260119063000 +0000" channel="SPOTV.starhub">
         <title>Highlights 2</title>
     </programme>
-    <programme start="20260119063000 +0000" stop="20260119093000 +0000" channel="SPOTV.starhub">
+    <programme start="20260119063000 +0000" stop="20260119120000 +0000" channel="SPOTV.starhub">
         <title>Day 4 Final</title>
     </programme>
-    <programme start="20260119093000 +0000" stop="20260119113000 +0000" channel="SPOTV.starhub">
-        <title>25/26 ROSHN Saudi League MW 15 Al Hilal vs Al Nassr</title>
-    </programme>
-    <programme start="20260119113000 +0000" stop="20260119123000 +0000" channel="SPOTV.starhub">
+    <programme start="20260119120000 +0000" stop="20260119130000 +0000" channel="SPOTV.starhub">
         <title>Highlights 1 (52 mins)</title>
-    </programme>
-    <programme start="20260119123000 +0000" stop="20260119130000 +0000" channel="SPOTV.starhub">
-        <title>Highlights 2 (26 mins)</title>
     </programme>
     <programme start="20260119130000 +0000" stop="20260119150000 +0000" channel="SPOTV.starhub">
         <title>25/26 ROSHN Saudi League MW 16 Neom vs Al Hilal</title>
