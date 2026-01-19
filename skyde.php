@@ -3041,111 +3041,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260119220000 +0000" stop="20260119230000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Late Night News</title>
 </programme>
-<programme start="20260118231500 +0000" stop="20260118234500 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: PL Stories (The Invincibles)</title>
-</programme>
-<programme start="20260118234500 +0000" stop="20260119014500 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Wolverhampton Wanderers - Newcastle United, 22. Spieltag</title>
-</programme>
-<programme start="20260119014500 +0000" stop="20260119034500 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Manchester United - Manchester City, 22. Spieltag</title>
-</programme>
-<programme start="20260119034500 +0000" stop="20260119040000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: The Special One</title>
-</programme>
-<programme start="20260119040000 +0000" stop="20260119060000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Wolverhampton Wanderers - Newcastle United, 22. Spieltag</title>
-</programme>
-<programme start="20260119060000 +0000" stop="20260119063000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 90in30: AVL - EVE, 22. Spieltag</title>
-</programme>
-<programme start="20260119063000 +0000" stop="20260119070000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 90in30: WOL - NEW, 22. Spieltag</title>
-</programme>
-<programme start="20260119070000 +0000" stop="20260119080000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 1 to 11 (Thomas Hitzlsperger)</title>
-</programme>
-<programme start="20260119080000 +0000" stop="20260119083000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 90in30: CHE - BRE, 22. Spieltag</title>
-</programme>
-<programme start="20260119083000 +0000" stop="20260119090000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 90in30: NFO - ARS, 22. Spieltag</title>
-</programme>
-<programme start="20260119090000 +0000" stop="20260119093000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 90in30: MUN - MCI, 22. Spieltag</title>
-</programme>
-<programme start="20260119093000 +0000" stop="20260119100000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: PL Stories (Sports Science)</title>
-</programme>
-<programme start="20260119100000 +0000" stop="20260119103000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: PL Stories (Oliver Glasner)</title>
-</programme>
-<programme start="20260119103000 +0000" stop="20260119110000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Club 100: Robbie Keane</title>
-</programme>
-<programme start="20260119110000 +0000" stop="20260119113000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 90in30: AVL - EVE, 22. Spieltag</title>
-</programme>
-<programme start="20260119113000 +0000" stop="20260119120000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 90in30: WOL - NEW, 22. Spieltag</title>
-</programme>
-<programme start="20260119120000 +0000" stop="20260119130000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Best Volleys</title>
-</programme>
-<programme start="20260119130000 +0000" stop="20260119133000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 90in30: MUN - MCI, 22. Spieltag</title>
-</programme>
-<programme start="20260119133000 +0000" stop="20260119140000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Legends: Ian Wright</title>
-</programme>
-<programme start="20260119140000 +0000" stop="20260119143000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: PL Stories (Oliver Glasner)</title>
-</programme>
-<programme start="20260119143000 +0000" stop="20260119150000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 90in30: CHE - BRE, 22. Spieltag</title>
-</programme>
-<programme start="20260119150000 +0000" stop="20260119153000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: PL Rewind: MCI vs. QPR 2011/12</title>
-</programme>
-<programme start="20260119153000 +0000" stop="20260119160000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: PL Stories (Sergio Aguero)</title>
-</programme>
-<programme start="20260119160000 +0000" stop="20260119163000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 90in30: NFO - ARS, 22. Spieltag</title>
-</programme>
-<programme start="20260119163000 +0000" stop="20260119170000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: PL Rewind: Dietmar Hamann - My Liverpool Years</title>
-</programme>
-<programme start="20260119170000 +0000" stop="20260119173000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 90in30: AVL - EVE, 22. Spieltag</title>
-</programme>
-<programme start="20260119173000 +0000" stop="20260119180000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 90in30: WOL - NEW, 22. Spieltag</title>
-</programme>
-<programme start="20260119180000 +0000" stop="20260119181500 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>EFL: Highlights XXL: Swansea City - Birmingham City, 27. Spieltag</title>
-</programme>
-<programme start="20260119181500 +0000" stop="20260119183000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>EFL: Highlights XXL: West Bromwich Albion - FC Middlesbrough, 27. Spieltag</title>
-</programme>
-<programme start="20260119183000 +0000" stop="20260119184500 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>EFL: Highlights XXL: Ipswich Town - Blacburn Rovers, 27. Spieltag</title>
-</programme>
-<programme start="20260119184500 +0000" stop="20260119190000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>EFL: Highlights XXL: AFC Wrexham - Norwich City, 27. Spieltag</title>
-</programme>
-<programme start="20260119190000 +0000" stop="20260119195000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>Live PL: Monday Night Football</title>
-</programme>
-<programme start="20260119195000 +0000" stop="20260119220000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>Live PL: Brighton &amp; Hove Albion - AFC Bournemouth, 22. Spieltag</title>
-</programme>
-<programme start="20260119220000 +0000" stop="20260119223000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: PL Stories (Oliver Glasner)</title>
-</programme>
-<programme start="20260119223000 +0000" stop="20260119230000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>EFL: Highlights, 27. Spieltag</title>
-</programme>
 <programme start="20260118233000 +0000" stop="20260119013000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 250: U. Humbert (FRA) - A. Davidovich-Fokina (ESP), Adelaide International in Adelaide (AUS), Halbfinale 2</title>
 </programme>
@@ -3233,13 +3128,34 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260119220000 +0000" stop="20260120010000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Dallas Mavericks @ New York Knicks</title>
 </programme>
+<programme start="20260118230000 +0000" stop="20260118233000 +0000" channel="Sky Sport UHD.skyde">
+    <title>Golf: Greatest Holes (4)</title>
+</programme>
+<programme start="20260118233000 +0000" stop="20260119013000 +0000" channel="Sky Sport UHD.skyde">
+    <title>F1: Rennen - GP Katar</title>
+</programme>
+<programme start="20260119013000 +0000" stop="20260119033000 +0000" channel="Sky Sport UHD.skyde">
+    <title>F1: Rennen - GP Abu Dhabi</title>
+</programme>
+<programme start="20260119033000 +0000" stop="20260119053000 +0000" channel="Sky Sport UHD.skyde">
+    <title>DFB-Pokal: Borussia Dortmund - Bayer Leverkusen, Achtelfinale</title>
+</programme>
+<programme start="20260119053000 +0000" stop="20260119073000 +0000" channel="Sky Sport UHD.skyde">
+    <title>PL: Aston Villa - FC Everton, Match of the Week, 22. Spieltag</title>
+</programme>
+<programme start="20260119073000 +0000" stop="20260119080000 +0000" channel="Sky Sport UHD.skyde">
+    <title>PL: Match of the Week: Die Analyse, AVL - EVE, 22. Spieltag</title>
+</programme>
+<programme start="20260119080000 +0000" stop="20260119081500 +0000" channel="Sky Sport UHD.skyde">
+    <title>Info: UHD</title>
+</programme>
 <programme start="20260119171000 +0000" stop="20260119173000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: Basketball NBA</title>
 </programme>
 <programme start="20260119173000 +0000" stop="20260119180000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime</title>
 </programme>
-<programme start="20260119180000 +0000" stop="20260119220000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260119180000 +0000" stop="20260120010000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Konferenz Bucks@Hawks &amp; Thunder@Cavaliers</title>
 </programme>
 <programme start="20260119171000 +0000" stop="20260119173000 +0000" channel="Sky Sport 2 HD.skyde">
@@ -3248,19 +3164,19 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260119173000 +0000" stop="20260119180000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live NBA: Showtime</title>
 </programme>
-<programme start="20260119180000 +0000" stop="20260119203000 +0000" channel="Sky Sport 2 HD.skyde">
+<programme start="20260119180000 +0000" stop="20260119213000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live NBA: Milwaukee Bucks @ Atlanta Hawks</title>
 </programme>
-<programme start="20260119214000 +0000" stop="20260119220000 +0000" channel="Sky Sport 2 HD.skyde">
+<programme start="20260119213000 +0000" stop="20260119220000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Es folgt: Basketball NBA</title>
 </programme>
-<programme start="20260119220000 +0000" stop="20260120010000 +0000" channel="Sky Sport 2 HD.skyde">
+<programme start="20260119220000 +0000" stop="20260120090000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live NBA: Dallas Mavericks @ New York Knicks</title>
 </programme>
 <programme start="20260119191000 +0000" stop="20260119193000 +0000" channel="Sky Sport 3 HD.skyde">
     <title>Es folgt: Basketball NBA</title>
 </programme>
-<programme start="20260119193000 +0000" stop="20260119220000 +0000" channel="Sky Sport 3 HD.skyde">
+<programme start="20260119193000 +0000" stop="20260120010000 +0000" channel="Sky Sport 3 HD.skyde">
     <title>Live NBA: Oklahoma City Thunder @ Cleveland Cavaliers</title>
 </programme>
 <programme start="20260118230000 +0000" stop="20260118235000 +0000" channel="SYFY HD.skyde">
