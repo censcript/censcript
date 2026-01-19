@@ -1,7 +1,3 @@
-<programme start="20260119181500 +0700" stop="20260119201500 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: PFC Ludogorets 1945 - PAOK</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260119201500 +0700" stop="20260119223000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Sportshow</title>
     <desc>Live: Tidak</desc>
@@ -60,10 +56,6 @@
 </programme>
 <programme start="20260120203000 +0700" stop="20260120223000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Panathinaikos - Viktoria Plzen</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260119181000 +0700" stop="20260119202500 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: AEK - Panathinaikos</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260119202500 +0700" stop="20260119223000 +0700" channel="COSMOTE Sport 2 HD">
@@ -132,10 +124,6 @@
 </programme>
 <programme start="20260120202000 +0700" stop="20260120222000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: SSC Napoli - Sassuolo</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260119184500 +0700" stop="20260119204500 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Al Nassr - Al Shabab</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260119204500 +0700" stop="20260119211500 +0700" channel="COSMOTE Sport 3 HD">
@@ -366,8 +354,8 @@
     <title>Moto-E World Championship 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260119185500 +0700" stop="20260119204500 +0700" channel="COSMOTE Sport 6 HD">
-    <title>CEV Beach Volleyball European Cup 2025</title>
+<programme start="20260120213000 +0700" stop="20260120224000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>2025 FIM Women&#039;s Circuit Racing World Championship</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260119204500 +0700" stop="20260119225500 +0700" channel="COSMOTE Sport 6 HD">
@@ -434,8 +422,8 @@
     <title>2025 Premier Padel World Cup Pairs</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260119190000 +0700" stop="20260119210000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
+<programme start="20260120213500 +0700" stop="20260120234500 +0700" channel="COSMOTE Sport 6 HD">
+    <title>2025 Premier Padel World Cup Pairs</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260119210000 +0700" stop="20260119230000 +0700" channel="COSMOTE Sport 7 HD">
@@ -486,8 +474,8 @@
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260119190000 +0700" stop="20260119210000 +0700" channel="COSMOTE Sport 8 HD">
-    <title>COSMOTESport8HD</title>
+<programme start="20260120210000 +0700" stop="20260120230000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260119210000 +0700" stop="20260119230000 +0700" channel="COSMOTE Sport 8 HD">
@@ -538,8 +526,8 @@
     <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260119190000 +0700" stop="20260119210000 +0700" channel="COSMOTE Sport 9 HD">
-    <title>COSMOTESport9HD</title>
+<programme start="20260120210000 +0700" stop="20260120230000 +0700" channel="COSMOTE Sport 8 HD">
+    <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260119210000 +0700" stop="20260119230000 +0700" channel="COSMOTE Sport 9 HD">
@@ -587,6 +575,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260120190000 +0700" stop="20260120210000 +0700" channel="COSMOTE Sport 9 HD">
+    <title>COSMOTESport9HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260120210000 +0700" stop="20260120230000 +0700" channel="COSMOTE Sport 9 HD">
     <title>COSMOTESport9HD</title>
     <desc>Live: Tidak</desc>
 </programme>

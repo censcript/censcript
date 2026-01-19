@@ -140,13 +140,13 @@
         <title> Quốc hội với cử tri </title>
     </programme>
     <programme start="20260119211000 +0000" stop="20260119213000 +0000" channel="VTV1 HD.mytv">
-        <title> Phim tài liệu </title>
+        <title> Công dân số : Văn hóa giao thông số </title>
     </programme>
     <programme start="20260119213000 +0000" stop="20260119215500 +0000" channel="VTV1 HD.mytv">
         <title> Thuế và đời sống </title>
     </programme>
     <programme start="20260119215500 +0000" stop="20260119220000 +0000" channel="VTV1 HD.mytv">
-        <title> Phim truyện : Lằn ranh - Tập 55 </title>
+        <title> Phim tài liệu : Sự lựa chọn lịch sử </title>
     </programme>
     <programme start="20260119220000 +0000" stop="20260119223000 +0000" channel="VTV1 HD.mytv">
         <title> Tài chính - Kinh doanh </title>
@@ -161,12 +161,9 @@
         <title> Thế giới hôm nay </title>
     </programme>
     <programme start="20260119231500 +0000" stop="20260119233500 +0000" channel="VTV1 HD.mytv">
-        <title> VTV kết nối </title>
+        <title> Đi cùng chúng tôi </title>
     </programme>
-    <programme start="20260119233500 +0000" stop="20260119234500 +0000" channel="VTV1 HD.mytv">
-        <title> Sách hay thay đổi cuộc đời </title>
-    </programme>
-    <programme start="20260119234500 +0000" stop="20260120000000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260119233500 +0000" stop="20260120000000 +0000" channel="VTV1 HD.mytv">
         <title> Bản tin </title>
     </programme>
     <programme start="20260120000000 +0000" stop="20260120001500 +0000" channel="VTV1 HD.mytv">
