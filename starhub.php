@@ -4169,7 +4169,7 @@
         <title>AfrAsia Bank Mauritius Open</title>
     </programme>
     <programme start="20260120103000 +0000" stop="20260120110000 +0000" channel="Hub Sports 3 HD.starhub">
-        <title>PGA Tour: The CUT 2026</title>
+        <title>Episode 1</title>
     </programme>
     <programme start="20260120110000 +0000" stop="20260120120000 +0000" channel="Hub Sports 3 HD.starhub">
         <title>The Bahamas Golf Classic at Atlantis Paradise</title>
@@ -6542,7 +6542,7 @@
         <title>Season 3 Episode 1</title>
     </programme>
     <programme start="20260120053000 +0000" stop="20260120100000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>PETRONAS Malaysia Open (Super 1000): SF Session 2</title>
+        <title>PETRONAS Malaysia Open (S1000) SF S2</title>
     </programme>
     <programme start="20260120100000 +0000" stop="20260120103000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Episode 1</title>
@@ -6554,7 +6554,7 @@
         <title>Show 142</title>
     </programme>
     <programme start="20260120110000 +0000" stop="20260120160000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>YONEX-SUNRISE India Open (Super 750): SF Session 2</title>
+        <title>YONEX-SUNRISE India Open (S750) SF S2</title>
     </programme>
     <programme start="20260119141100 +0000" stop="20260119165100 +0000" channel="SONY MAX.starhub">
         <title>Ghulam</title>
