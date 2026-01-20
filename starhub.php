@@ -1939,14 +1939,17 @@
     <programme start="20260119143000 +0000" stop="20260119163000 +0000" channel="beIN Sports 3.starhub">
         <title>MUTV 2025/26 Man United vs Man City</title>
     </programme>
+    <programme start="20260119163000 +0000" stop="20260119165500 +0000" channel="beIN Sports 3.starhub">
+        <title>Lifeblood Short: Reds In Europe</title>
+    </programme>
     <programme start="20260119165500 +0000" stop="20260119190000 +0000" channel="beIN Sports 3.starhub">
-        <title>Super Lig 2025/26 Besiktas vs Kayserispor (Live)</title>
+        <title>Super Lig 2025/26: Besiktas vs Kayserispor (Live)</title>
     </programme>
     <programme start="20260119190000 +0000" stop="20260119193000 +0000" channel="beIN Sports 3.starhub">
         <title>January</title>
     </programme>
     <programme start="20260119193000 +0000" stop="20260119213000 +0000" channel="beIN Sports 3.starhub">
-        <title>Bundesliga 2025/26 Hamburg vs Monchengladbach</title>
+        <title>Bundesliga 2025/26: Hamburg vs Monchengladbach</title>
     </programme>
     <programme start="20260119213000 +0000" stop="20260119220000 +0000" channel="beIN Sports 3.starhub">
         <title>MUTV Highlights 2025/26 Man United vs Brighton - FA Cup</title>
@@ -3748,6 +3751,9 @@
     <programme start="20260119174500 +0000" stop="20260119180000 +0000" channel="NHK World Premium HD.starhub">
         <title>Kid&#039;s Discovery</title>
     </programme>
+    <programme start="20260119180000 +0000" stop="20260119182500 +0000" channel="NHK World Premium HD.starhub">
+        <title>With Mother</title>
+    </programme>
     <programme start="20260119182500 +0000" stop="20260119183000 +0000" channel="NHK World Premium HD.starhub">
         <title>See, Learn, Explore--A Deep Travelogue in Tohoku</title>
     </programme>
@@ -3761,7 +3767,7 @@
         <title>World Weather</title>
     </programme>
     <programme start="20260119191500 +0000" stop="20260119200000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Tsurube&#039;s Salute to Families&quot;Itagaki Rihito in Yawatahama City,Ehime Prefecture&quot;</title>
+        <title>Tsurube&#039;s Salute to Families &quot;Itagaki Rihito in Yawatahama City, Ehime Prefectur</title>
     </programme>
     <programme start="20260119200000 +0000" stop="20260119202500 +0000" channel="NHK World Premium HD.starhub">
         <title>Grand Sumo 2026 January Tournament Highlights</title>
@@ -4651,9 +4657,6 @@
     <programme start="20260119170000 +0000" stop="20260119213000 +0000" channel="Vijay TV HD.starhub">
         <title>Bigg Boss Tamil</title>
     </programme>
-    <programme start="20260119213000 +0000" stop="20260119220000 +0000" channel="Vijay TV HD.starhub">
-        <title>Chinna Marumagal Panirendaam Vaguppu</title>
-    </programme>
     <programme start="20260119220000 +0000" stop="20260119223000 +0000" channel="Vijay TV HD.starhub">
         <title>Pandian Stores Thanthai Sol Mikka Mandhiram Illai</title>
     </programme>
@@ -4661,7 +4664,7 @@
         <title>Ayyanar Thunai</title>
     </programme>
     <programme start="20260119230000 +0000" stop="20260120033000 +0000" channel="Vijay TV HD.starhub">
-        <title>Bigg Boss Tamil</title>
+        <title>Bigg Boss Tamil S09</title>
     </programme>
     <programme start="20260120033000 +0000" stop="20260120040000 +0000" channel="Vijay TV HD.starhub">
         <title>Mahanadhi Sagodharigalin Kadhai</title>
@@ -4673,7 +4676,7 @@
         <title>Chinna Marumagal Panirendaam Vaguppu</title>
     </programme>
     <programme start="20260120050000 +0000" stop="20260120053000 +0000" channel="Vijay TV HD.starhub">
-        <title>Pandian Stores Thanthai Sol Mikka Mandhiram Illai</title>
+        <title>Pandian Stores Thanthai Sol Mikka Mandhi</title>
     </programme>
     <programme start="20260120053000 +0000" stop="20260120060000 +0000" channel="Vijay TV HD.starhub">
         <title>Ayyanar Thunai</title>
@@ -4682,7 +4685,7 @@
         <title>Siragadikka Aasai</title>
     </programme>
     <programme start="20260120070000 +0000" stop="20260120073000 +0000" channel="Vijay TV HD.starhub">
-        <title>Sakthivel: Theeyaai Oru Theeraakkaadhal</title>
+        <title>Sakthivel - Theeyaai Oru Theeraakkaadhal</title>
     </programme>
     <programme start="20260120073000 +0000" stop="20260120080000 +0000" channel="Vijay TV HD.starhub">
         <title>Kanmani Anbudan</title>
@@ -4691,7 +4694,7 @@
         <title>Thendrale Mella Pesu</title>
     </programme>
     <programme start="20260120083000 +0000" stop="20260120090000 +0000" channel="Vijay TV HD.starhub">
-        <title>Suttum Vizhi Sudare Oru Chinanjiru Kuyilin Kadhai</title>
+        <title>Suttum Vizhi Sudare - Oru Chinanjiru Kuyilin Kadhai</title>
     </programme>
     <programme start="20260120090000 +0000" stop="20260120093000 +0000" channel="Vijay TV HD.starhub">
         <title>Dhanam - Ungalil Oruthi</title>
@@ -4712,7 +4715,7 @@
         <title>Chinna Marumagal Panirendaam Vaguppu</title>
     </programme>
     <programme start="20260120120000 +0000" stop="20260120123000 +0000" channel="Vijay TV HD.starhub">
-        <title>Pandian Stores Thanthai Sol Mikka Mandhiram Illai</title>
+        <title>Pandian Stores Thanthai Sol Mikka Mandhi</title>
     </programme>
     <programme start="20260120123000 +0000" stop="20260120130000 +0000" channel="Vijay TV HD.starhub">
         <title>Ayyanar Thunai</title>

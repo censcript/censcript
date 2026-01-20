@@ -7877,13 +7877,13 @@
     <title>Top Goals</title>
 </programme>
 <programme start="20260120112500 +0000" stop="20260120133000 +0000" channel="Soccer Channel.mncvision">
-    <title>AFC Asian Cup Saudi Arabia (L)</title>
+    <title>AFC Asian Cup: JPN Vs KOR (L)</title>
 </programme>
 <programme start="20260120133000 +0000" stop="20260120152500 +0000" channel="Soccer Channel.mncvision">
     <title>SEA Games 2025: Football Men</title>
 </programme>
 <programme start="20260120152500 +0000" stop="20260120155500 +0000" channel="Soccer Channel.mncvision">
-    <title>AFC Asian Cup Saudi Arabia (L)</title>
+    <title>AFC Asian Cup: VIE Vs CHN (L)</title>
 </programme>
 <programme start="20260119170000 +0000" stop="20260119190000 +0000" channel="Soccer Channel HD.mncvision">
     <title>European Qual.: NOR Vs EST</title>
@@ -7925,13 +7925,13 @@
     <title>Top Goals</title>
 </programme>
 <programme start="20260120112500 +0000" stop="20260120133000 +0000" channel="Soccer Channel HD.mncvision">
-    <title>AFC Asian Cup Saudi Arabia (L)</title>
+    <title>AFC Asian Cup: JPN Vs KOR (L)</title>
 </programme>
 <programme start="20260120133000 +0000" stop="20260120152500 +0000" channel="Soccer Channel HD.mncvision">
     <title>SEA Games 2025: Football Men</title>
 </programme>
 <programme start="20260120152500 +0000" stop="20260120155500 +0000" channel="Soccer Channel HD.mncvision">
-    <title>AFC Asian Cup Saudi Arabia (L)</title>
+    <title>AFC Asian Cup: VIE Vs CHN (L)</title>
 </programme>
 <programme start="20260119173000 +0000" stop="20260119200000 +0000" channel="Sportstars.mncvision">
     <title>Best Of Badminton</title>

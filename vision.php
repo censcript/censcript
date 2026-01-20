@@ -625,9 +625,6 @@
 <programme start="20260120010000 +0000" stop="20260120023000 +0000" channel="ANTV.vision">
 <title>Baalveer Returns</title>
 </programme>
-<programme start="20260120023000 +0000" stop="20260120060000 +0000" channel="ANTV.vision">
-<title>Raees</title>
-</programme>
 <programme start="20260120060000 +0000" stop="20260120083000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -1496,5 +1493,8 @@
 <title>DAAI TV</title>
 </programme>
 <programme start="20260120180000 +0000" stop="20260120210000 +0000" channel="DAAI TV.vision">
+<title>DAAI TV</title>
+</programme>
+<programme start="20260120210000 +0000" stop="20260121000000 +0000" channel="DAAI TV.vision">
 <title>DAAI TV</title>
 </programme>
