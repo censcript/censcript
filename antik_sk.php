@@ -3430,8 +3430,11 @@
   <programme start="20260122162500 +0000" stop="20260122165000 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Terapie (14/45)</title>
   </programme>
-  <programme start="20260122165000 +0000" stop="20260122184000 +0000" channel="ČT2.webtv.sk">
-    <title lang="id">Házená: ME v házené mužů 2026</title>
+  <programme start="20260122165000 +0000" stop="20260122175000 +0000" channel="ČT2.webtv.sk">
+    <title lang="id">Křižácké pevnosti víry</title>
+  </programme>
+  <programme start="20260122175000 +0000" stop="20260122184000 +0000" channel="ČT2.webtv.sk">
+    <title lang="id">Zázraky techniky VI</title>
   </programme>
   <programme start="20260122184000 +0000" stop="20260122185000 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Postřehy odjinud</title>
