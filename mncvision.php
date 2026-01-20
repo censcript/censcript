@@ -8180,10 +8180,10 @@
     <title>V League (Women)</title>
 </programme>
 <programme start="20260120130000 +0000" stop="20260120150000 +0000" channel="Sportstars 4.mncvision">
-    <title>European Qualifiers</title>
+    <title>European Qual.: NOR Vs EST</title>
 </programme>
 <programme start="20260120150000 +0000" stop="20260120153000 +0000" channel="Sportstars 4.mncvision">
-    <title>Liga 2</title>
+    <title>Liga 2: PSL Vs BFC</title>
 </programme>
 <programme start="20260119170000 +0000" stop="20260119190000 +0000" channel="Sportstars 4 HD.mncvision">
     <title>Bundesliga</title>
@@ -8213,10 +8213,10 @@
     <title>V League (Women)</title>
 </programme>
 <programme start="20260120130000 +0000" stop="20260120150000 +0000" channel="Sportstars 4 HD.mncvision">
-    <title>European Qualifiers</title>
+    <title>European Qual.: NOR Vs EST</title>
 </programme>
 <programme start="20260120150000 +0000" stop="20260120153000 +0000" channel="Sportstars 4 HD.mncvision">
-    <title>Liga 2</title>
+    <title>Liga 2: PSL Vs BFC</title>
 </programme>
 <programme start="20260119173000 +0000" stop="20260119200000 +0000" channel="Sportstars HD.mncvision">
     <title>Best Of Badminton</title>
