@@ -1939,9 +1939,6 @@
     <programme start="20260119143000 +0000" stop="20260119163000 +0000" channel="beIN Sports 3.starhub">
         <title>MUTV 2025/26 Man United vs Man City</title>
     </programme>
-    <programme start="20260119163000 +0000" stop="20260119165500 +0000" channel="beIN Sports 3.starhub">
-        <title>MUTV: Match Day Review 2025/26 Man United vs Man City</title>
-    </programme>
     <programme start="20260119165500 +0000" stop="20260119190000 +0000" channel="beIN Sports 3.starhub">
         <title>Super Lig 2025/26 Besiktas vs Kayserispor (Live)</title>
     </programme>
@@ -1955,16 +1952,16 @@
         <title>MUTV Highlights 2025/26 Man United vs Brighton - FA Cup</title>
     </programme>
     <programme start="20260119220000 +0000" stop="20260120000000 +0000" channel="beIN Sports 3.starhub">
-        <title>MUTV 2025/26 Man United vs Man City</title>
+        <title>MUTV 2025/26: Man United vs Man City</title>
     </programme>
     <programme start="20260120000000 +0000" stop="20260120003000 +0000" channel="beIN Sports 3.starhub">
         <title>MUTV: Match Day Review 2025/26 Man United vs Man City</title>
     </programme>
     <programme start="20260120003000 +0000" stop="20260120080000 +0000" channel="beIN Sports 3.starhub">
-        <title>Day 3</title>
+        <title>Australian Open 2026 (2): Day 3 (Live)</title>
     </programme>
     <programme start="20260120080000 +0000" stop="20260120130000 +0000" channel="beIN Sports 3.starhub">
-        <title>Night 3</title>
+        <title>Australian Open 2026 (2): Night 3 (Live)</title>
     </programme>
     <programme start="20260120130000 +0000" stop="20260120133000 +0000" channel="beIN Sports 3.starhub">
         <title>MD7 Preview</title>
@@ -1982,7 +1979,7 @@
         <title>MD7 Preview</title>
     </programme>
     <programme start="20260120152500 +0000" stop="20260120173000 +0000" channel="beIN Sports 3.starhub">
-        <title>UEFA Champions League 2025/26 Kairat vs Club Brugge - MD7 (Live)</title>
+        <title>UEFA Champions League 2025/26: Kairat vs Club Brugge - MD7 (Live)</title>
     </programme>
     <programme start="20260119153000 +0000" stop="20260119163000 +0000" channel="Sun Music.starhub">
         <title>Non Stop Hits</title>
@@ -3221,7 +3218,7 @@
         <title>US Fed and Chair Powell under pressure</title>
     </programme>
     <programme start="20260119233000 +0000" stop="20260120000000 +0000" channel="DW English HD.starhub">
-        <title>The Current Affairs Documentary</title>
+        <title>Greenland-Between Denmark and Trump</title>
     </programme>
     <programme start="20260120000000 +0000" stop="20260120000200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3236,7 +3233,7 @@
         <title>News</title>
     </programme>
     <programme start="20260120011500 +0000" stop="20260120020000 +0000" channel="DW English HD.starhub">
-        <title>Charlotte Knobloch - A Childhood in Hiding</title>
+        <title>Charlotte Knobloch-A Childhood in Hiding</title>
     </programme>
     <programme start="20260120020000 +0000" stop="20260120020200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3245,7 +3242,7 @@
         <title>News in Review</title>
     </programme>
     <programme start="20260120023000 +0000" stop="20260120030000 +0000" channel="DW English HD.starhub">
-        <title>Peugeot E-5008: Family SUV Meets Electric Power</title>
+        <title>Peugeot E-5008:Family SUV Meets Electric Power</title>
     </programme>
     <programme start="20260120030000 +0000" stop="20260120031500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3254,13 +3251,13 @@
         <title>US Fed and Chair Powell under pressure</title>
     </programme>
     <programme start="20260120033000 +0000" stop="20260120040000 +0000" channel="DW English HD.starhub">
-        <title>The Current Affairs Documentary</title>
+        <title>Greenland-Between Denmark and Trump</title>
     </programme>
     <programme start="20260120040000 +0000" stop="20260120041500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20260120041500 +0000" stop="20260120050000 +0000" channel="DW English HD.starhub">
-        <title>Charlotte Knobloch - A Childhood in Hiding</title>
+        <title>Charlotte Knobloch-A Childhood in Hiding</title>
     </programme>
     <programme start="20260120050000 +0000" stop="20260120050200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3278,19 +3275,19 @@
         <title>US Fed and Chair Powell under pressure</title>
     </programme>
     <programme start="20260120063000 +0000" stop="20260120070000 +0000" channel="DW English HD.starhub">
-        <title>Riefenstahl: Art or Propaganda?</title>
+        <title>Riefenstahl:Art or Propaganda?</title>
     </programme>
     <programme start="20260120070000 +0000" stop="20260120071500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20260120071500 +0000" stop="20260120080000 +0000" channel="DW English HD.starhub">
-        <title>Treasure Islands in the Pacific-Living with the Ocean-Part 2: From the Chatham Islands to Enewetak</title>
+        <title>Treasure Islands in the Pacific-Living with the Ocean-Part 2:From the Chatham Islands to Enewetak</title>
     </programme>
     <programme start="20260120080000 +0000" stop="20260120081500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20260120081500 +0000" stop="20260120083000 +0000" channel="DW English HD.starhub">
-        <title>How to wrestle with gender norms and win</title>
+        <title>How to become a respected ballet dancer</title>
     </programme>
     <programme start="20260120083000 +0000" stop="20260120090000 +0000" channel="DW English HD.starhub">
         <title>Ghana`s local chiefs boost environmental protection</title>
@@ -3299,19 +3296,13 @@
         <title>News</title>
     </programme>
     <programme start="20260120091500 +0000" stop="20260120094500 +0000" channel="DW English HD.starhub">
-        <title>The Current Affairs Documentary</title>
+        <title>Greenland-Between Denmark and Trump</title>
     </programme>
-    <programme start="20260120094500 +0000" stop="20260120100000 +0000" channel="DW English HD.starhub">
-        <title>Indonesia 1998: Protest, violence, hope</title>
-    </programme>
-    <programme start="20260120100000 +0000" stop="20260120101500 +0000" channel="DW English HD.starhub">
+    <programme start="20260120094500 +0000" stop="20260120103000 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
-    <programme start="20260120101500 +0000" stop="20260120103000 +0000" channel="DW English HD.starhub">
-        <title>Mumbai 2050</title>
-    </programme>
     <programme start="20260120103000 +0000" stop="20260120110000 +0000" channel="DW English HD.starhub">
-        <title>Animal research: The next level</title>
+        <title>Animal research:The next level</title>
     </programme>
     <programme start="20260120110000 +0000" stop="20260120111500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3323,7 +3314,7 @@
         <title>News</title>
     </programme>
     <programme start="20260120121500 +0000" stop="20260120124500 +0000" channel="DW English HD.starhub">
-        <title>The Current Affairs Documentary</title>
+        <title>Greenland-Between Denmark and Trump</title>
     </programme>
     <programme start="20260120124500 +0000" stop="20260120130000 +0000" channel="DW English HD.starhub">
         <title>Navigating the dangers of online gaming</title>
@@ -3341,10 +3332,10 @@
         <title>News</title>
     </programme>
     <programme start="20260120141500 +0000" stop="20260120143000 +0000" channel="DW English HD.starhub">
-        <title>Indonesia</title>
+        <title>Taiwan</title>
     </programme>
     <programme start="20260120143000 +0000" stop="20260120150000 +0000" channel="DW English HD.starhub">
-        <title>Western Sahara - Is the dream of independence over?</title>
+        <title>Western Sahara-Is the dream of independence over?</title>
     </programme>
     <programme start="20260120150000 +0000" stop="20260120151500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3353,7 +3344,7 @@
         <title>How is Taiwan beating everyone at plastics recycling?</title>
     </programme>
     <programme start="20260120153000 +0000" stop="20260120160000 +0000" channel="DW English HD.starhub">
-        <title>Animal research: The next level</title>
+        <title>Animal research:The next level</title>
     </programme>
     <programme start="20260119160000 +0000" stop="20260119220000 +0000" channel="Preview Channel.starhub">
         <title>Preview Channel</title>
@@ -3757,9 +3748,6 @@
     <programme start="20260119174500 +0000" stop="20260119180000 +0000" channel="NHK World Premium HD.starhub">
         <title>Kid&#039;s Discovery</title>
     </programme>
-    <programme start="20260119180000 +0000" stop="20260119182500 +0000" channel="NHK World Premium HD.starhub">
-        <title>With Mother (R)</title>
-    </programme>
     <programme start="20260119182500 +0000" stop="20260119183000 +0000" channel="NHK World Premium HD.starhub">
         <title>See, Learn, Explore--A Deep Travelogue in Tohoku</title>
     </programme>
@@ -3806,7 +3794,7 @@
         <title>News &amp; Weather</title>
     </programme>
     <programme start="20260120010500 +0000" stop="20260120015000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Tsurube&#039;s Salute to Families&quot;Itagaki Rihito in Yawatahama City,Ehime Prefecture&quot;</title>
+        <title>Tsurube&#039;s Salute to Families &quot;Itagaki Rihito in Yawatahama City, Ehime Prefectur</title>
     </programme>
     <programme start="20260120015000 +0000" stop="20260120021700 +0000" channel="NHK World Premium HD.starhub">
         <title>Today&#039;s Close-up (R)</title>
@@ -4662,9 +4650,6 @@
     </programme>
     <programme start="20260119170000 +0000" stop="20260119213000 +0000" channel="Vijay TV HD.starhub">
         <title>Bigg Boss Tamil</title>
-    </programme>
-    <programme start="20260119213000 +0000" stop="20260119220000 +0000" channel="Vijay TV HD.starhub">
-        <title>Chinna Marumagal Panirendaam Vaguppu</title>
     </programme>
     <programme start="20260119220000 +0000" stop="20260119223000 +0000" channel="Vijay TV HD.starhub">
         <title>Pandian Stores Thanthai Sol Mikka Mandhiram Illai</title>
@@ -7205,13 +7190,13 @@
         <title>BBC News</title>
     </programme>
     <programme start="20260120003000 +0000" stop="20260120010000 +0000" channel="BBC World News HD.starhub">
-        <title>Newscast</title>
+        <title>UN Secretary General Interview</title>
     </programme>
     <programme start="20260120010000 +0000" stop="20260120013000 +0000" channel="BBC World News HD.starhub">
         <title>BBC News</title>
     </programme>
     <programme start="20260120013000 +0000" stop="20260120020000 +0000" channel="BBC World News HD.starhub">
-        <title>Talking Business</title>
+        <title>UN Secretary General Interview</title>
     </programme>
     <programme start="20260120020000 +0000" stop="20260120023000 +0000" channel="BBC World News HD.starhub">
         <title>Newsday</title>
@@ -7789,10 +7774,10 @@
     <programme start="20260120043000 +0000" stop="20260120073000 +0000" channel="Asianet Movies.starhub">
         <title>Dhrona</title>
     </programme>
-    <programme start="20260120073000 +0000" stop="20260120103000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260120073000 +0000" stop="20260120104000 +0000" channel="Asianet Movies.starhub">
         <title>Vettam</title>
     </programme>
-    <programme start="20260120103000 +0000" stop="20260120133000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260120104000 +0000" stop="20260120133000 +0000" channel="Asianet Movies.starhub">
         <title>Kilometers and Kilometers</title>
     </programme>
     <programme start="20260120133000 +0000" stop="20260120163000 +0000" channel="Asianet Movies.starhub">
