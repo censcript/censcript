@@ -1,43 +1,73 @@
-<programme start="20260119234500 +0000" stop="20260120004500 +0000" channel="RCTI.vision">
+<programme start="20260119234500 +0000" stop="20260120011500 +0000" channel="RCTI.vision">
 <title>Upin Ipin</title>
 </programme>
-<programme start="20260120004500 +0000" stop="20260120053000 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<programme start="20260120011500 +0000" stop="20260120023000 +0000" channel="RCTI.vision">
+<title>Kiko</title>
 </programme>
-<programme start="20260120053000 +0000" stop="20260120101500 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<programme start="20260120023000 +0000" stop="20260120033000 +0000" channel="RCTI.vision">
+<title>Ninja Hattori</title>
 </programme>
-<programme start="20260120101500 +0000" stop="20260120113000 +0000" channel="RCTI.vision">
+<programme start="20260120033000 +0000" stop="20260120043000 +0000" channel="RCTI.vision">
+<title>Silet</title>
+</programme>
+<programme start="20260120043000 +0000" stop="20260120051500 +0000" channel="RCTI.vision">
+<title>Seputar iNews Siang</title>
+</programme>
+<programme start="20260120051500 +0000" stop="20260120083000 +0000" channel="RCTI.vision">
+<title>MasterChef Indonesia S13</title>
+</programme>
+<programme start="20260120083000 +0000" stop="20260120100000 +0000" channel="RCTI.vision">
+<title>Jodoh Gak Ketuker</title>
+</programme>
+<programme start="20260120100000 +0000" stop="20260120113000 +0000" channel="RCTI.vision">
 <title>Terbelenggu Rindu (RCTI)</title>
 </programme>
 <programme start="20260120113000 +0000" stop="20260120124500 +0000" channel="RCTI.vision">
 <title>Mencintai Ipar Sendiri (RCTI)</title>
 </programme>
-<programme start="20260120124500 +0000" stop="20260120140000 +0000" channel="RCTI.vision">
+<programme start="20260120124500 +0000" stop="20260120141500 +0000" channel="RCTI.vision">
 <title>Cinta Sepenuh Jiwa (RCTI)</title>
 </programme>
-<programme start="20260120140000 +0000" stop="20260120170000 +0000" channel="RCTI.vision">
+<programme start="20260120141500 +0000" stop="20260120164500 +0000" channel="RCTI.vision">
 <title>Indonesian Idol 2025 (RCTI)</title>
 </programme>
-<programme start="20260120170000 +0000" stop="20260120190000 +0000" channel="RCTI.vision">
+<programme start="20260120164500 +0000" stop="20260120183000 +0000" channel="RCTI.vision">
 <title>RCTI</title>
 </programme>
-<programme start="20260120190000 +0000" stop="20260120224500 +0000" channel="RCTI.vision">
-<title>Preman Pensiun S5</title>
+<programme start="20260120183000 +0000" stop="20260120190000 +0000" channel="RCTI.vision">
+<title>iNews Sport</title>
+</programme>
+<programme start="20260120190000 +0000" stop="20260120213000 +0000" channel="RCTI.vision">
+<title>RCTI</title>
+</programme>
+<programme start="20260120213000 +0000" stop="20260120224500 +0000" channel="RCTI.vision">
+<title>Preman Pensiun S4</title>
 </programme>
 <programme start="20260120224500 +0000" stop="20260120234500 +0000" channel="RCTI.vision">
 <title>Go Spot</title>
 </programme>
-<programme start="20260120234500 +0000" stop="20260121004500 +0000" channel="RCTI.vision">
+<programme start="20260120234500 +0000" stop="20260121011500 +0000" channel="RCTI.vision">
 <title>Upin Ipin</title>
 </programme>
-<programme start="20260121004500 +0000" stop="20260121053000 +0000" channel="RCTI.vision">
-<title>Daihatsu Indonesia Masters (L)</title>
+<programme start="20260121011500 +0000" stop="20260121023000 +0000" channel="RCTI.vision">
+<title>Kiko</title>
 </programme>
-<programme start="20260121053000 +0000" stop="20260121101500 +0000" channel="RCTI.vision">
-<title>Daihatsu Indonesia Masters (L)</title>
+<programme start="20260121023000 +0000" stop="20260121033000 +0000" channel="RCTI.vision">
+<title>Ninja Hattori</title>
 </programme>
-<programme start="20260121101500 +0000" stop="20260121113000 +0000" channel="RCTI.vision">
+<programme start="20260121033000 +0000" stop="20260121043000 +0000" channel="RCTI.vision">
+<title>Silet</title>
+</programme>
+<programme start="20260121043000 +0000" stop="20260121051500 +0000" channel="RCTI.vision">
+<title>Seputar iNews Siang</title>
+</programme>
+<programme start="20260121051500 +0000" stop="20260121083000 +0000" channel="RCTI.vision">
+<title>MasterChef Indonesia S13</title>
+</programme>
+<programme start="20260121083000 +0000" stop="20260121100000 +0000" channel="RCTI.vision">
+<title>Garis-Garis Cinta</title>
+</programme>
+<programme start="20260121100000 +0000" stop="20260121113000 +0000" channel="RCTI.vision">
 <title>Terbelenggu Rindu (RCTI)</title>
 </programme>
 <programme start="20260121113000 +0000" stop="20260121131500 +0000" channel="RCTI.vision">
@@ -601,59 +631,68 @@
 <programme start="20260121114500 +0000" stop="20260121121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
-<programme start="20260119230000 +0000" stop="20260120010000 +0000" channel="ANTV.vision">
-<title>Shani</title>
+<programme start="20260120000000 +0000" stop="20260120010000 +0000" channel="ANTV.vision">
+<title>ANTV</title>
 </programme>
 <programme start="20260120010000 +0000" stop="20260120023000 +0000" channel="ANTV.vision">
-<title>Baalveer Returns</title>
+<title>ANTV</title>
 </programme>
-<programme start="20260120060000 +0000" stop="20260120083000 +0000" channel="ANTV.vision">
-<title>Jhanak</title>
+<programme start="20260120023000 +0000" stop="20260120063000 +0000" channel="ANTV.vision">
+<title>ANTV</title>
 </programme>
-<programme start="20260120083000 +0000" stop="20260120114500 +0000" channel="ANTV.vision">
-<title>Vasudha</title>
+<programme start="20260120063000 +0000" stop="20260120080000 +0000" channel="ANTV.vision">
+<title>ANTV</title>
 </programme>
-<programme start="20260120114500 +0000" stop="20260120133000 +0000" channel="ANTV.vision">
-<title>Senandung Cinta Lilis</title>
+<programme start="20260120080000 +0000" stop="20260120093000 +0000" channel="ANTV.vision">
+<title>ANTV</title>
 </programme>
-<programme start="20260120133000 +0000" stop="20260120153000 +0000" channel="ANTV.vision">
-<title>Sengatan Kobra</title>
+<programme start="20260120093000 +0000" stop="20260120110000 +0000" channel="ANTV.vision">
+<title>ANTV</title>
 </programme>
-<programme start="20260120153000 +0000" stop="20260120171500 +0000" channel="ANTV.vision">
-<title>Saya Suka Kamu Punya</title>
+<programme start="20260120110000 +0000" stop="20260120130000 +0000" channel="ANTV.vision">
+<title>ANTV</title>
 </programme>
-<programme start="20260120171500 +0000" stop="20260120190000 +0000" channel="ANTV.vision">
-<title>Tjoet Nja Dhien</title>
+<programme start="20260120130000 +0000" stop="20260120150000 +0000" channel="ANTV.vision">
+<title>ANTV</title>
 </programme>
-<programme start="20260120190000 +0000" stop="20260120200000 +0000" channel="ANTV.vision">
-<title>Sword Man</title>
+<programme start="20260120150000 +0000" stop="20260120170000 +0000" channel="ANTV.vision">
+<title>ANTV</title>
 </programme>
-<programme start="20260120200000 +0000" stop="20260120213000 +0000" channel="ANTV.vision">
-<title>Longling Mystery Grotto</title>
+<programme start="20260120170000 +0000" stop="20260120190000 +0000" channel="ANTV.vision">
+<title>ANTV</title>
 </programme>
-<programme start="20260120213000 +0000" stop="20260120223000 +0000" channel="ANTV.vision">
-<title>Senyum Iman</title>
+<programme start="20260120190000 +0000" stop="20260120203000 +0000" channel="ANTV.vision">
+<title>ANTV</title>
 </programme>
-<programme start="20260120223000 +0000" stop="20260120230000 +0000" channel="ANTV.vision">
-<title>Super Viral</title>
+<programme start="20260120203000 +0000" stop="20260120220000 +0000" channel="ANTV.vision">
+<title>ANTV</title>
 </programme>
-<programme start="20260120230000 +0000" stop="20260121010000 +0000" channel="ANTV.vision">
-<title>Shani</title>
+<programme start="20260120220000 +0000" stop="20260120223000 +0000" channel="ANTV.vision">
+<title>ANTV</title>
 </programme>
-<programme start="20260121010000 +0000" stop="20260121023000 +0000" channel="ANTV.vision">
-<title>Baalveer Returns</title>
+<programme start="20260120223000 +0000" stop="20260120233000 +0000" channel="ANTV.vision">
+<title>ANTV</title>
 </programme>
-<programme start="20260121023000 +0000" stop="20260121060000 +0000" channel="ANTV.vision">
-<title>Chal Mere</title>
+<programme start="20260120233000 +0000" stop="20260121013000 +0000" channel="ANTV.vision">
+<title>ANTV</title>
 </programme>
-<programme start="20260121060000 +0000" stop="20260121083000 +0000" channel="ANTV.vision">
-<title>Jhanak</title>
+<programme start="20260121013000 +0000" stop="20260121030000 +0000" channel="ANTV.vision">
+<title>ANTV</title>
 </programme>
-<programme start="20260121083000 +0000" stop="20260121114500 +0000" channel="ANTV.vision">
-<title>Vasudha</title>
+<programme start="20260121030000 +0000" stop="20260121063000 +0000" channel="ANTV.vision">
+<title>ANTV</title>
 </programme>
-<programme start="20260121114500 +0000" stop="20260121133000 +0000" channel="ANTV.vision">
-<title>Senandung Cinta Lilis</title>
+<programme start="20260121063000 +0000" stop="20260121080000 +0000" channel="ANTV.vision">
+<title>ANTV</title>
+</programme>
+<programme start="20260121080000 +0000" stop="20260121093000 +0000" channel="ANTV.vision">
+<title>ANTV</title>
+</programme>
+<programme start="20260121093000 +0000" stop="20260121110000 +0000" channel="ANTV.vision">
+<title>ANTV</title>
+</programme>
+<programme start="20260121110000 +0000" stop="20260121130000 +0000" channel="ANTV.vision">
+<title>ANTV</title>
 </programme>
 <programme start="20260119230000 +0000" stop="20260120010000 +0000" channel="RTV.vision">
 <title>Bread Barbershop</title>
@@ -1458,43 +1497,4 @@
 </programme>
 <programme start="20260120000000 +0000" stop="20260120030000 +0000" channel="DAAI TV.vision">
 <title>DAAI TV</title>
-</programme>
-<programme start="20260120030000 +0000" stop="20260120060000 +0000" channel="DAAI TV.vision">
-<title>DAAI TV</title>
-</programme>
-<programme start="20260120060000 +0000" stop="20260120090000 +0000" channel="DAAI TV.vision">
-<title>DAAI TV</title>
-</programme>
-<programme start="20260120090000 +0000" stop="20260120120000 +0000" channel="DAAI TV.vision">
-<title>DAAI TV</title>
-</programme>
-<programme start="20260120120000 +0000" stop="20260120150000 +0000" channel="DAAI TV.vision">
-<title>DAAI TV</title>
-</programme>
-<programme start="20260120150000 +0000" stop="20260120180000 +0000" channel="DAAI TV.vision">
-<title>DAAI TV</title>
-</programme>
-<programme start="20260120180000 +0000" stop="20260120210000 +0000" channel="DAAI TV.vision">
-<title>DAAI TV</title>
-</programme>
-<programme start="20260120210000 +0000" stop="20260121000000 +0000" channel="DAAI TV.vision">
-<title>DAAI TV</title>
-</programme>
-<programme start="20260121000000 +0000" stop="20260121030000 +0000" channel="DAAI TV.vision">
-<title>DAAI TV</title>
-</programme>
-<programme start="20260121030000 +0000" stop="20260121060000 +0000" channel="DAAI TV.vision">
-<title>DAAI TV</title>
-</programme>
-<programme start="20260121060000 +0000" stop="20260121090000 +0000" channel="DAAI TV.vision">
-<title>DAAI TV</title>
-</programme>
-<programme start="20260121090000 +0000" stop="20260121120000 +0000" channel="DAAI TV.vision">
-<title>DAAI TV</title>
-</programme>
-<programme start="20260119234500 +0000" stop="20260120010000 +0000" channel="MDTV.vision">
-<title>AADD: Ada Apa Dengan Dunia</title>
-</programme>
-<programme start="20260120010000 +0000" stop="20260120015000 +0000" channel="MDTV.vision">
-<title>Fakta +62</title>
 </programme>
