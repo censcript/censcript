@@ -2699,31 +2699,31 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260120193000 +0000" stop="20260120195000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Es folgt: Live UEFA Champions League</title>
 </programme>
-<programme start="20260120195000 +0000" stop="20260120223000 +0000" channel="Sky Sport Austria 3 HD.skyde">
+<programme start="20260120195000 +0000" stop="20260120220000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live UEFA CL: Inter Mailand - FC Arsenal, Ligaphase, 7. Spieltag, Dienstag</title>
 </programme>
 <programme start="20260120193000 +0000" stop="20260120195000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Es folgt: Live UEFA Champions League</title>
 </programme>
-<programme start="20260120195000 +0000" stop="20260120223000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+<programme start="20260120195000 +0000" stop="20260120220000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live UEFA CL: Real Madrid - AS Monaco, Ligaphase, 7. Spieltag, Dienstag</title>
 </programme>
 <programme start="20260120193000 +0000" stop="20260120195000 +0000" channel="Sky Sport Austria 5 HD.skyde">
     <title>Es folgt: Live UEFA Champions League</title>
 </programme>
-<programme start="20260120195000 +0000" stop="20260120223000 +0000" channel="Sky Sport Austria 5 HD.skyde">
+<programme start="20260120195000 +0000" stop="20260120220000 +0000" channel="Sky Sport Austria 5 HD.skyde">
     <title>Live UEFA CL: Sporting Lissabon - Paris-Saint Germain, Ligaphase, 7. Spieltag, Dienstag</title>
 </programme>
 <programme start="20260120193000 +0000" stop="20260120195000 +0000" channel="Sky Sport Austria 6 HD.skyde">
     <title>Es folgt: Live UEFA Champions League</title>
 </programme>
-<programme start="20260120195000 +0000" stop="20260120223000 +0000" channel="Sky Sport Austria 6 HD.skyde">
+<programme start="20260120195000 +0000" stop="20260120220000 +0000" channel="Sky Sport Austria 6 HD.skyde">
     <title>Live UEFA CL: Olympiakos Piräus - Bayer Leverkusen, Ligaphase, 7. Spieltag, Dienstag</title>
 </programme>
 <programme start="20260120193000 +0000" stop="20260120195000 +0000" channel="Sky Sport Austria 7 HD.skyde">
     <title>Es folgt: Live UEFA Champions League</title>
 </programme>
-<programme start="20260120195000 +0000" stop="20260120223000 +0000" channel="Sky Sport Austria 7 HD.skyde">
+<programme start="20260120195000 +0000" stop="20260120220000 +0000" channel="Sky Sport Austria 7 HD.skyde">
     <title>Live UEFA CL: FC Kopenhagen - SSC Neapel, Ligaphase, 7. Spieltag, Dienstag</title>
 </programme>
 <programme start="20260120193000 +0000" stop="20260120195000 +0000" channel="Sky Sport Austria 8 HD.skyde">
@@ -2859,7 +2859,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>F1: Qualifying - GP Emilia Romagna</title>
 </programme>
 <programme start="20260120110000 +0000" stop="20260120130000 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>F1: Rennen - GP Emilia Romagna</title>
+    <title>F1: Rennen - GP Emilia Romagna 2025</title>
 </programme>
 <programme start="20260120130000 +0000" stop="20260120140000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F3: 1. Rennen - GP Emilia Romagna</title>
@@ -2874,7 +2874,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>WRC: Forum8 Rally Japan - SS20 Lake Mikawako 2 (Wolf Power Stage)</title>
 </programme>
 <programme start="20260120173000 +0000" stop="20260120193000 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>F1: Rennen - GP Emilia Romagna</title>
+    <title>F1: Rennen - GP Emilia Romagna 2025</title>
 </programme>
 <programme start="20260120193000 +0000" stop="20260120201500 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Die Audi-Präsentation</title>
@@ -3005,7 +3005,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260120190000 +0000" stop="20260120213000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NBA: Boston Celtics @ Detroit Pistons</title>
 </programme>
-<programme start="20260120213000 +0000" stop="20260120233000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260120213000 +0000" stop="20260121000000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NBA: Oklahoma City Thunder @ Cleveland Cavaliers</title>
 </programme>
 <programme start="20260119230000 +0000" stop="20260120000000 +0000" channel="Sky Sport News HD.skyde">
