@@ -122,6 +122,10 @@
     <title>Football: Parma - Genoa</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260121181000 +0700" stop="20260121202000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Volos - Atromitos</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260120161500 +0700" stop="20260120181500 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Neom - Al Hilal</title>
     <desc>Live: Tidak</desc>
@@ -172,6 +176,10 @@
 </programme>
 <programme start="20260121161500 +0700" stop="20260121181500 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Al Ahli - Al Khaleej</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260121181500 +0700" stop="20260121201000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Wrexham  - Leicester City FC</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260120170000 +0700" stop="20260120193000 +0700" channel="COSMOTE Sport 4 HD">
@@ -236,14 +244,6 @@
 </programme>
 <programme start="20260121170000 +0700" stop="20260121193000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Houston Rockets - San Antonio Spurs</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260120161000 +0700" stop="20260120173000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>MotoGP Classics</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260120173000 +0700" stop="20260120180000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC Magazine 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260120180000 +0700" stop="20260120190000 +0700" channel="COSMOTE Sport 5 HD">
@@ -322,8 +322,8 @@
     <title>MotoGP Classics</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260120160000 +0700" stop="20260120174500 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Volleyball: Panathinaikos - Braga</title>
+<programme start="20260121181500 +0700" stop="20260121191000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260120174500 +0700" stop="20260120191500 +0700" channel="COSMOTE Sport 6 HD">
@@ -392,6 +392,14 @@
 </programme>
 <programme start="20260121164500 +0700" stop="20260121181500 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP Challenger 50 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260121181500 +0700" stop="20260121184500 +0700" channel="COSMOTE Sport 6 HD">
+    <title>HYROX - The World of Fitness Racing E4</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260121184500 +0700" stop="20260121191500 +0700" channel="COSMOTE Sport 6 HD">
+    <title>HYROX - The World of Fitness Racing E5</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260120170000 +0700" stop="20260120190000 +0700" channel="COSMOTE Sport 7 HD">
