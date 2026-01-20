@@ -4655,10 +4655,13 @@
         <title>Magale En Marumagale</title>
     </programme>
     <programme start="20260119170000 +0000" stop="20260119213000 +0000" channel="Vijay TV HD.starhub">
-        <title>Bigg Boss Tamil</title>
+        <title>Bigg Boss Tamil S09</title>
+    </programme>
+    <programme start="20260119213000 +0000" stop="20260119220000 +0000" channel="Vijay TV HD.starhub">
+        <title>Chinna Marumagal Panirendaam Vaguppu</title>
     </programme>
     <programme start="20260119220000 +0000" stop="20260119223000 +0000" channel="Vijay TV HD.starhub">
-        <title>Pandian Stores Thanthai Sol Mikka Mandhiram Illai</title>
+        <title>Pandian Stores Thanthai Sol Mikka Mandhi</title>
     </programme>
     <programme start="20260119223000 +0000" stop="20260119230000 +0000" channel="Vijay TV HD.starhub">
         <title>Ayyanar Thunai</title>
@@ -6771,6 +6774,33 @@
     </programme>
     <programme start="20260120140000 +0000" stop="20260120160000 +0000" channel="beIN Sports HD.starhub">
         <title>LFCTV 2025/26: Liverpool vs Burnley</title>
+    </programme>
+    <programme start="20260119152000 +0000" stop="20260119161500 +0000" channel="TestChannel2.starhub">
+        <title>Golden City (Ep 751-800) VVD Mandarin</title>
+    </programme>
+    <programme start="20260119161500 +0000" stop="20260119173000 +0000" channel="TestChannel2.starhub">
+        <title>Family By Choice</title>
+    </programme>
+    <programme start="20260119173000 +0000" stop="20260119183000 +0000" channel="TestChannel2.starhub">
+        <title>Under the Moonlight</title>
+    </programme>
+    <programme start="20260119183000 +0000" stop="20260119190000 +0000" channel="TestChannel2.starhub">
+        <title>Lo And Behold</title>
+    </programme>
+    <programme start="20260119190000 +0000" stop="20260119200000 +0000" channel="TestChannel2.starhub">
+        <title>Heavenly Hand</title>
+    </programme>
+    <programme start="20260119200000 +0000" stop="20260119210000 +0000" channel="TestChannel2.starhub">
+        <title>Shadow Love</title>
+    </programme>
+    <programme start="20260119210000 +0000" stop="20260119213000 +0000" channel="TestChannel2.starhub">
+        <title>Lo And Behold</title>
+    </programme>
+    <programme start="20260119213000 +0000" stop="20260119222000 +0000" channel="TestChannel2.starhub">
+        <title>Follow Your Heart</title>
+    </programme>
+    <programme start="20260119222000 +0000" stop="20260119231500 +0000" channel="TestChannel2.starhub">
+        <title>Golden City (Ep 751-800) VVD Mandarin</title>
     </programme>
     <programme start="20260119231500 +0000" stop="20260120003000 +0000" channel="TestChannel2.starhub">
         <title>Family By Choice</title>

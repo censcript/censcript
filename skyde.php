@@ -509,10 +509,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260120004500 +0000" stop="20260120005500 +0000" channel="Cartoonito.skyde">
     <title>Geschichten von Kröterich &amp; Co.</title>
 </programme>
-<programme start="20260120005500 +0000" stop="20260120011000 +0000" channel="Cartoonito.skyde">
+<programme start="20260120005500 +0000" stop="20260120011500 +0000" channel="Cartoonito.skyde">
     <title>Geschichten von Kröterich &amp; Co.</title>
 </programme>
-<programme start="20260120011000 +0000" stop="20260120012500 +0000" channel="Cartoonito.skyde">
+<programme start="20260120011500 +0000" stop="20260120012500 +0000" channel="Cartoonito.skyde">
     <title>Geschichten von Kröterich &amp; Co.</title>
 </programme>
 <programme start="20260120012500 +0000" stop="20260120013500 +0000" channel="Cartoonito.skyde">
@@ -608,10 +608,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260120070500 +0000" stop="20260120072000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20260120072000 +0000" stop="20260120073000 +0000" channel="Cartoonito.skyde">
+<programme start="20260120072000 +0000" stop="20260120072500 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20260120073000 +0000" stop="20260120073500 +0000" channel="Cartoonito.skyde">
+<programme start="20260120072500 +0000" stop="20260120073500 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
 <programme start="20260120073500 +0000" stop="20260120075000 +0000" channel="Cartoonito.skyde">
@@ -623,10 +623,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260120081500 +0000" stop="20260120084500 +0000" channel="Cartoonito.skyde">
     <title>Bleib cool, Scooby-Doo!</title>
 </programme>
-<programme start="20260120084500 +0000" stop="20260120085500 +0000" channel="Cartoonito.skyde">
+<programme start="20260120084500 +0000" stop="20260120085000 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
-<programme start="20260120085500 +0000" stop="20260120090000 +0000" channel="Cartoonito.skyde">
+<programme start="20260120085000 +0000" stop="20260120090000 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
 <programme start="20260120090000 +0000" stop="20260120090500 +0000" channel="Cartoonito.skyde">
@@ -644,10 +644,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260120093500 +0000" stop="20260120095000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20260120095000 +0000" stop="20260120100000 +0000" channel="Cartoonito.skyde">
+<programme start="20260120095000 +0000" stop="20260120095500 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20260120100000 +0000" stop="20260120100500 +0000" channel="Cartoonito.skyde">
+<programme start="20260120095500 +0000" stop="20260120100500 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
 <programme start="20260120100500 +0000" stop="20260120102000 +0000" channel="Cartoonito.skyde">
@@ -731,10 +731,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260120145000 +0000" stop="20260120150000 +0000" channel="Cartoonito.skyde">
     <title>Lamput</title>
 </programme>
-<programme start="20260120150000 +0000" stop="20260120153000 +0000" channel="Cartoonito.skyde">
+<programme start="20260120150000 +0000" stop="20260120152500 +0000" channel="Cartoonito.skyde">
     <title>Bleib cool, Scooby-Doo!</title>
 </programme>
-<programme start="20260120153000 +0000" stop="20260120155500 +0000" channel="Cartoonito.skyde">
+<programme start="20260120152500 +0000" stop="20260120155500 +0000" channel="Cartoonito.skyde">
     <title>Bleib cool, Scooby-Doo!</title>
 </programme>
 <programme start="20260120155500 +0000" stop="20260120160500 +0000" channel="Cartoonito.skyde">
@@ -764,10 +764,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260120173000 +0000" stop="20260120173500 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20260120173500 +0000" stop="20260120174000 +0000" channel="Cartoonito.skyde">
+<programme start="20260120173500 +0000" stop="20260120174500 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20260120174000 +0000" stop="20260120180000 +0000" channel="Cartoonito.skyde">
+<programme start="20260120174500 +0000" stop="20260120180000 +0000" channel="Cartoonito.skyde">
     <title>SuperThings: Rivalen von Kaboom - Kazoom-Power</title>
 </programme>
 <programme start="20260120180000 +0000" stop="20260120182500 +0000" channel="Cartoonito.skyde">
@@ -791,10 +791,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260120193500 +0000" stop="20260120195500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20260120195500 +0000" stop="20260120200000 +0000" channel="Cartoonito.skyde">
+<programme start="20260120195500 +0000" stop="20260120200500 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20260120200000 +0000" stop="20260120201000 +0000" channel="Cartoonito.skyde">
+<programme start="20260120200500 +0000" stop="20260120201000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
 <programme start="20260120201000 +0000" stop="20260120202500 +0000" channel="Cartoonito.skyde">
@@ -2957,10 +2957,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260120223500 +0000" stop="20260120232500 +0000" channel="Sky Sport Golf HD.skyde">
     <title>US Open: Official Film 2021 (Jon Rahm)</title>
 </programme>
-<programme start="20260120000000 +0000" stop="20260120003000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260120000500 +0000" stop="20260120003500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>MotoGP: Marc Marquez - All on red</title>
 </programme>
-<programme start="20260120003000 +0000" stop="20260120010000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260120003500 +0000" stop="20260120010000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>MotoGP: Jorge Martin - From heaven to hell</title>
 </programme>
 <programme start="20260120010000 +0000" stop="20260120040000 +0000" channel="Sky Sport Mix HD.skyde">
@@ -3065,7 +3065,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260120220000 +0000" stop="20260120230000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Late Night News</title>
 </programme>
-<programme start="20260119230000 +0000" stop="20260119233000 +0000" channel="Sky Sport Premier League HD.skyde">
+<programme start="20260119230500 +0000" stop="20260119233000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>EFL: Highlights, 27. Spieltag</title>
 </programme>
 <programme start="20260119233000 +0000" stop="20260120013000 +0000" channel="Sky Sport Premier League HD.skyde">
