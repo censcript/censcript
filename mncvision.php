@@ -7388,10 +7388,10 @@
     <title>Upin Ipin</title>
 </programme>
 <programme start="20260120004500 +0000" stop="20260120053000 +0000" channel="RCTI.mncvision">
-    <title>Daihatsu Indonesia Masters &#039;26</title>
+    <title>Daihatsu Indonesia Masters (L)</title>
 </programme>
 <programme start="20260120053000 +0000" stop="20260120101500 +0000" channel="RCTI.mncvision">
-    <title>Daihatsu Indonesia Masters &#039;26</title>
+    <title>Daihatsu Indonesia Masters (L)</title>
 </programme>
 <programme start="20260120101500 +0000" stop="20260120113000 +0000" channel="RCTI.mncvision">
     <title>Terbelenggu Rindu</title>
@@ -7402,11 +7402,8 @@
 <programme start="20260120124500 +0000" stop="20260120140000 +0000" channel="RCTI.mncvision">
     <title>Cinta Sepenuh Jiwa</title>
 </programme>
-<programme start="20260120140000 +0000" stop="20260120164500 +0000" channel="RCTI.mncvision">
-    <title>Indonesian Idol S14</title>
-</programme>
-<programme start="20260120164500 +0000" stop="20260119171500 +0000" channel="RCTI.mncvision">
-    <title>AFC U23 Asian Cup 2026</title>
+<programme start="20260120140000 +0000" stop="20260120143000 +0000" channel="RCTI.mncvision">
+    <title>Indonesian Idol S14 (L)</title>
 </programme>
 <programme start="20260119170000 +0000" stop="20260119190000 +0000" channel="RCTI HD.mncvision">
     <title>AFC Asian Qualifiers Road To 26</title>
@@ -7421,10 +7418,10 @@
     <title>Upin Ipin</title>
 </programme>
 <programme start="20260120004500 +0000" stop="20260120053000 +0000" channel="RCTI HD.mncvision">
-    <title>Daihatsu Indonesia Masters &#039;26</title>
+    <title>Daihatsu Indonesia Masters (L)</title>
 </programme>
 <programme start="20260120053000 +0000" stop="20260120101500 +0000" channel="RCTI HD.mncvision">
-    <title>Daihatsu Indonesia Masters &#039;26</title>
+    <title>Daihatsu Indonesia Masters (L)</title>
 </programme>
 <programme start="20260120101500 +0000" stop="20260120113000 +0000" channel="RCTI HD.mncvision">
     <title>Terbelenggu Rindu</title>
@@ -7435,11 +7432,8 @@
 <programme start="20260120124500 +0000" stop="20260120140000 +0000" channel="RCTI HD.mncvision">
     <title>Cinta Sepenuh Jiwa</title>
 </programme>
-<programme start="20260120140000 +0000" stop="20260120164500 +0000" channel="RCTI HD.mncvision">
-    <title>Indonesian Idol S14</title>
-</programme>
-<programme start="20260120164500 +0000" stop="20260119171500 +0000" channel="RCTI HD.mncvision">
-    <title>AFC U23 Asian Cup 2026</title>
+<programme start="20260120140000 +0000" stop="20260120143000 +0000" channel="RCTI HD.mncvision">
+    <title>Indonesian Idol S14 (L)</title>
 </programme>
 <programme start="20260119171000 +0000" stop="20260119184500 +0000" channel="Rock Action.mncvision">
     <title>Rambo: First Blood</title>

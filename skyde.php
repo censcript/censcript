@@ -3048,7 +3048,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Live Sky Sport News: Primetime Spezial - Der Königsklassen-Countdown</title>
 </programme>
 <programme start="20260120180000 +0000" stop="20260120184500 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live F1: Audi Car Launch</title>
+    <title>Live F1: Die Audi-Präsentation</title>
 </programme>
 <programme start="20260120184500 +0000" stop="20260120190000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Primetime</title>
@@ -3065,7 +3065,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260120220000 +0000" stop="20260120230000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Late Night News</title>
 </programme>
-<programme start="20260119230000 +0000" stop="20260119233000 +0000" channel="Sky Sport Premier League HD.skyde">
+<programme start="20260119230500 +0000" stop="20260119233000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>EFL: Highlights, 27. Spieltag</title>
 </programme>
 <programme start="20260119233000 +0000" stop="20260120013000 +0000" channel="Sky Sport Premier League HD.skyde">

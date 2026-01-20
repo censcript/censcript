@@ -3161,7 +3161,7 @@
         <title>News</title>
     </programme>
     <programme start="20260119161500 +0000" stop="20260119170000 +0000" channel="DW English HD.starhub">
-        <title>Treasure Islands in the Pacific-Living with the Ocean-Part 2: From the Chatham Islands to Enewetak</title>
+        <title>Treasure Islands in the Pacific-Living with the Ocean-Part 2:From the Chatham Islands to Enewetak</title>
     </programme>
     <programme start="20260119170000 +0000" stop="20260119171500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3170,13 +3170,13 @@
         <title>US Fed and Chair Powell under pressure</title>
     </programme>
     <programme start="20260119173000 +0000" stop="20260119180000 +0000" channel="DW English HD.starhub">
-        <title>Riefenstahl: Art or Propaganda?</title>
+        <title>Riefenstahl:Art or Propaganda?</title>
     </programme>
     <programme start="20260119180000 +0000" stop="20260119183000 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20260119183000 +0000" stop="20260119190000 +0000" channel="DW English HD.starhub">
-        <title>The Current Affairs Documentary</title>
+        <title>Greenland-Between Denmark and Trump</title>
     </programme>
     <programme start="20260119190000 +0000" stop="20260119190200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3185,7 +3185,7 @@
         <title>Of kings, snakes, and differentially abled</title>
     </programme>
     <programme start="20260119193000 +0000" stop="20260119200000 +0000" channel="DW English HD.starhub">
-        <title>Tinubu’s Tax Gamble: Progress or pain for Nigerians?</title>
+        <title>Tinubu’s Tax Gamble:Progress or pain for Nigerians?</title>
     </programme>
     <programme start="20260119200000 +0000" stop="20260119203000 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3200,7 +3200,7 @@
         <title>US Fed and Chair Powell under pressure</title>
     </programme>
     <programme start="20260119211500 +0000" stop="20260119220000 +0000" channel="DW English HD.starhub">
-        <title>Treasure Islands in the Pacific-Living with the Ocean-Part 2: From the Chatham Islands to Enewetak</title>
+        <title>Treasure Islands in the Pacific-Living with the Ocean-Part 2:From the Chatham Islands to Enewetak</title>
     </programme>
     <programme start="20260119220000 +0000" stop="20260119220200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3209,7 +3209,7 @@
         <title>News in Review</title>
     </programme>
     <programme start="20260119223000 +0000" stop="20260119230000 +0000" channel="DW English HD.starhub">
-        <title>Urban Foraging - Fresh, Tasty and Free</title>
+        <title>Urban Foraging-Fresh, Tasty and Free</title>
     </programme>
     <programme start="20260119230000 +0000" stop="20260119231500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -4650,6 +4650,9 @@
     </programme>
     <programme start="20260119170000 +0000" stop="20260119213000 +0000" channel="Vijay TV HD.starhub">
         <title>Bigg Boss Tamil</title>
+    </programme>
+    <programme start="20260119213000 +0000" stop="20260119220000 +0000" channel="Vijay TV HD.starhub">
+        <title>Chinna Marumagal Panirendaam Vaguppu</title>
     </programme>
     <programme start="20260119220000 +0000" stop="20260119223000 +0000" channel="Vijay TV HD.starhub">
         <title>Pandian Stores Thanthai Sol Mikka Mandhiram Illai</title>

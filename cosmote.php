@@ -58,10 +58,6 @@
     <title>Football: Tottenham Hotspur - Borussia Dortmund</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260120100000 +0700" stop="20260120120000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: SS Lazio - Como</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260120120000 +0700" stop="20260120141000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: AEK - Panathinaikos</title>
     <desc>Live: Tidak</desc>
@@ -124,6 +120,10 @@
 </programme>
 <programme start="20260121100000 +0700" stop="20260121120000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Parma - Genoa</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260121120000 +0700" stop="20260121141000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Volos - Atromitos</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260120110000 +0700" stop="20260120141500 +0700" channel="COSMOTE Sport 3 HD">
@@ -240,6 +240,10 @@
 </programme>
 <programme start="20260121110000 +0700" stop="20260121123000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Pick n&#039; Roll</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260121123000 +0700" stop="20260121130000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>ACB Liga Endesa 2025-26 - Fifth Quarter E12</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260120110000 +0700" stop="20260120120500 +0700" channel="COSMOTE Sport 5 HD">
