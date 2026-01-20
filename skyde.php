@@ -1397,64 +1397,64 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260120043500 +0000" stop="20260120050000 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
-<programme start="20260120050000 +0000" stop="20260120052000 +0000" channel="Nick Jr..skyde">
+<programme start="20260120050000 +0000" stop="20260120052500 +0000" channel="Nick Jr..skyde">
     <title>Blaze und die Monster-Maschinen</title>
 </programme>
-<programme start="20260120052000 +0000" stop="20260120054500 +0000" channel="Nick Jr..skyde">
+<programme start="20260120052500 +0000" stop="20260120054500 +0000" channel="Nick Jr..skyde">
     <title>Blaze und die Monster-Maschinen</title>
 </programme>
-<programme start="20260120054500 +0000" stop="20260120060500 +0000" channel="Nick Jr..skyde">
+<programme start="20260120054500 +0000" stop="20260120061000 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20260120060500 +0000" stop="20260120063000 +0000" channel="Nick Jr..skyde">
+<programme start="20260120061000 +0000" stop="20260120063000 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20260120063000 +0000" stop="20260120065000 +0000" channel="Nick Jr..skyde">
+<programme start="20260120063000 +0000" stop="20260120065500 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20260120065000 +0000" stop="20260120071500 +0000" channel="Nick Jr..skyde">
+<programme start="20260120065500 +0000" stop="20260120072000 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20260120071500 +0000" stop="20260120073500 +0000" channel="Nick Jr..skyde">
+<programme start="20260120072000 +0000" stop="20260120074000 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
 </programme>
-<programme start="20260120073500 +0000" stop="20260120075000 +0000" channel="Nick Jr..skyde">
+<programme start="20260120074000 +0000" stop="20260120075000 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
 </programme>
-<programme start="20260120075000 +0000" stop="20260120075500 +0000" channel="Nick Jr..skyde">
+<programme start="20260120075000 +0000" stop="20260120080000 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
-<programme start="20260120075500 +0000" stop="20260120080500 +0000" channel="Nick Jr..skyde">
+<programme start="20260120080000 +0000" stop="20260120080500 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
-<programme start="20260120080500 +0000" stop="20260120081400 +0000" channel="Nick Jr..skyde">
+<programme start="20260120080500 +0000" stop="20260120081500 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
-<programme start="20260120081400 +0000" stop="20260120081900 +0000" channel="Nick Jr..skyde">
+<programme start="20260120081500 +0000" stop="20260120082000 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260120081900 +0000" stop="20260120082300 +0000" channel="Nick Jr..skyde">
+<programme start="20260120082000 +0000" stop="20260120082500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260120082300 +0000" stop="20260120082500 +0000" channel="Nick Jr..skyde">
+<programme start="20260120082500 +0000" stop="20260120082600 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260120082500 +0000" stop="20260120083400 +0000" channel="Nick Jr..skyde">
+<programme start="20260120082600 +0000" stop="20260120083500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260120083400 +0000" stop="20260120083900 +0000" channel="Nick Jr..skyde">
+<programme start="20260120083500 +0000" stop="20260120084000 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260120083900 +0000" stop="20260120084300 +0000" channel="Nick Jr..skyde">
+<programme start="20260120084000 +0000" stop="20260120084100 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260120084300 +0000" stop="20260120084500 +0000" channel="Nick Jr..skyde">
+<programme start="20260120084100 +0000" stop="20260120084500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260120084500 +0000" stop="20260120085000 +0000" channel="Nick Jr..skyde">
+<programme start="20260120084500 +0000" stop="20260120085500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260120085000 +0000" stop="20260120091500 +0000" channel="Nick Jr..skyde">
+<programme start="20260120085500 +0000" stop="20260120091500 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
 <programme start="20260120091500 +0000" stop="20260120094000 +0000" channel="Nick Jr..skyde">
@@ -1469,103 +1469,103 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260120095500 +0000" stop="20260120100000 +0000" channel="Nick Jr..skyde">
     <title>Sharkdog</title>
 </programme>
-<programme start="20260120100000 +0000" stop="20260120102000 +0000" channel="Nick Jr..skyde">
+<programme start="20260120100000 +0000" stop="20260120102500 +0000" channel="Nick Jr..skyde">
     <title>Blaze und die Monster-Maschinen</title>
 </programme>
-<programme start="20260120102000 +0000" stop="20260120104500 +0000" channel="Nick Jr..skyde">
+<programme start="20260120102500 +0000" stop="20260120104500 +0000" channel="Nick Jr..skyde">
     <title>Blaze und die Monster-Maschinen</title>
 </programme>
-<programme start="20260120104500 +0000" stop="20260120110500 +0000" channel="Nick Jr..skyde">
+<programme start="20260120104500 +0000" stop="20260120111000 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20260120110500 +0000" stop="20260120113000 +0000" channel="Nick Jr..skyde">
+<programme start="20260120111000 +0000" stop="20260120113000 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
 <programme start="20260120113000 +0000" stop="20260120115500 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20260120115500 +0000" stop="20260120121500 +0000" channel="Nick Jr..skyde">
+<programme start="20260120115500 +0000" stop="20260120122000 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20260120121500 +0000" stop="20260120124000 +0000" channel="Nick Jr..skyde">
+<programme start="20260120122000 +0000" stop="20260120124500 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260120124000 +0000" stop="20260120130500 +0000" channel="Nick Jr..skyde">
+<programme start="20260120124500 +0000" stop="20260120130500 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260120130500 +0000" stop="20260120131000 +0000" channel="Nick Jr..skyde">
+<programme start="20260120130500 +0000" stop="20260120131500 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
-<programme start="20260120131000 +0000" stop="20260120132000 +0000" channel="Nick Jr..skyde">
+<programme start="20260120131500 +0000" stop="20260120132000 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
-<programme start="20260120132000 +0000" stop="20260120132500 +0000" channel="Nick Jr..skyde">
+<programme start="20260120132000 +0000" stop="20260120133000 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
-<programme start="20260120132500 +0000" stop="20260120135000 +0000" channel="Nick Jr..skyde">
+<programme start="20260120133000 +0000" stop="20260120135500 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
-<programme start="20260120135000 +0000" stop="20260120141500 +0000" channel="Nick Jr..skyde">
+<programme start="20260120135500 +0000" stop="20260120142000 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
 </programme>
-<programme start="20260120141500 +0000" stop="20260120143700 +0000" channel="Nick Jr..skyde">
+<programme start="20260120142000 +0000" stop="20260120144000 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
 </programme>
-<programme start="20260120143700 +0000" stop="20260120144200 +0000" channel="Nick Jr..skyde">
+<programme start="20260120144000 +0000" stop="20260120144500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260120144200 +0000" stop="20260120144600 +0000" channel="Nick Jr..skyde">
+<programme start="20260120144500 +0000" stop="20260120145000 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260120144600 +0000" stop="20260120145100 +0000" channel="Nick Jr..skyde">
-    <title>Peppa Wutz</title>
-</programme>
-<programme start="20260120145100 +0000" stop="20260120145500 +0000" channel="Nick Jr..skyde">
+<programme start="20260120145000 +0000" stop="20260120145500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
 <programme start="20260120145500 +0000" stop="20260120150000 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260120150000 +0000" stop="20260120151000 +0000" channel="Nick Jr..skyde">
+<programme start="20260120150000 +0000" stop="20260120150500 +0000" channel="Nick Jr..skyde">
+    <title>Peppa Wutz</title>
+</programme>
+<programme start="20260120150500 +0000" stop="20260120151000 +0000" channel="Nick Jr..skyde">
     <title>Sharkdog</title>
 </programme>
-<programme start="20260120151000 +0000" stop="20260120151500 +0000" channel="Nick Jr..skyde">
+<programme start="20260120151000 +0000" stop="20260120152000 +0000" channel="Nick Jr..skyde">
     <title>Sharkdog</title>
 </programme>
-<programme start="20260120151500 +0000" stop="20260120152500 +0000" channel="Nick Jr..skyde">
+<programme start="20260120152000 +0000" stop="20260120152500 +0000" channel="Nick Jr..skyde">
     <title>Sharkdog</title>
 </programme>
-<programme start="20260120152500 +0000" stop="20260120154500 +0000" channel="Nick Jr..skyde">
+<programme start="20260120152500 +0000" stop="20260120155000 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20260120154500 +0000" stop="20260120160000 +0000" channel="Nick Jr..skyde">
+<programme start="20260120155000 +0000" stop="20260120160000 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
 <programme start="20260120160000 +0000" stop="20260120162000 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20260120162000 +0000" stop="20260120163000 +0000" channel="Nick Jr..skyde">
+<programme start="20260120162000 +0000" stop="20260120163500 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20260120163000 +0000" stop="20260120165500 +0000" channel="Nick Jr..skyde">
+<programme start="20260120163500 +0000" stop="20260120165500 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
 </programme>
-<programme start="20260120165500 +0000" stop="20260120171500 +0000" channel="Nick Jr..skyde">
+<programme start="20260120165500 +0000" stop="20260120172000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260120171500 +0000" stop="20260120173000 +0000" channel="Nick Jr..skyde">
+<programme start="20260120172000 +0000" stop="20260120173000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260120173000 +0000" stop="20260120173500 +0000" channel="Nick Jr..skyde">
+<programme start="20260120173000 +0000" stop="20260120174000 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
-<programme start="20260120173500 +0000" stop="20260120174500 +0000" channel="Nick Jr..skyde">
+<programme start="20260120174000 +0000" stop="20260120174500 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
-<programme start="20260120174500 +0000" stop="20260120175000 +0000" channel="Nick Jr..skyde">
+<programme start="20260120174500 +0000" stop="20260120175500 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
-<programme start="20260120175000 +0000" stop="20260120180000 +0000" channel="Nick Jr..skyde">
+<programme start="20260120175500 +0000" stop="20260120180000 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
 <programme start="20260120180000 +0000" stop="20260120180500 +0000" channel="Nick Jr..skyde">
@@ -1589,16 +1589,16 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260120183000 +0000" stop="20260120185000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260120185000 +0000" stop="20260120190000 +0000" channel="Nick Jr..skyde">
+<programme start="20260120185000 +0000" stop="20260120190500 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260120190000 +0000" stop="20260120192500 +0000" channel="Nick Jr..skyde">
+<programme start="20260120190500 +0000" stop="20260120192500 +0000" channel="Nick Jr..skyde">
     <title>Blaze und die Monster-Maschinen</title>
 </programme>
-<programme start="20260120192500 +0000" stop="20260120194500 +0000" channel="Nick Jr..skyde">
+<programme start="20260120192500 +0000" stop="20260120195000 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20260120194500 +0000" stop="20260120200000 +0000" channel="Nick Jr..skyde">
+<programme start="20260120195000 +0000" stop="20260120200000 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
 <programme start="20260120200000 +0000" stop="20260120202000 +0000" channel="Nick Jr..skyde">
@@ -1613,19 +1613,19 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260120205500 +0000" stop="20260120212000 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
 </programme>
-<programme start="20260120212000 +0000" stop="20260120214000 +0000" channel="Nick Jr..skyde">
+<programme start="20260120212000 +0000" stop="20260120214500 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260120214000 +0000" stop="20260120220500 +0000" channel="Nick Jr..skyde">
+<programme start="20260120214500 +0000" stop="20260120220500 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260120220500 +0000" stop="20260120222500 +0000" channel="Nick Jr..skyde">
+<programme start="20260120220500 +0000" stop="20260120223000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260120222500 +0000" stop="20260120225000 +0000" channel="Nick Jr..skyde">
+<programme start="20260120223000 +0000" stop="20260120225500 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260120225000 +0000" stop="20260120231500 +0000" channel="Nick Jr..skyde">
+<programme start="20260120225500 +0000" stop="20260120231500 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
 <programme start="20260119231500 +0000" stop="20260120004500 +0000" channel="Romance TV HD.skyde">
@@ -2699,31 +2699,31 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260120193000 +0000" stop="20260120195000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Es folgt: Live UEFA Champions League</title>
 </programme>
-<programme start="20260120195000 +0000" stop="20260120220000 +0000" channel="Sky Sport Austria 3 HD.skyde">
+<programme start="20260120195000 +0000" stop="20260120223000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live UEFA CL: Inter Mailand - FC Arsenal, Ligaphase, 7. Spieltag, Dienstag</title>
 </programme>
 <programme start="20260120193000 +0000" stop="20260120195000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Es folgt: Live UEFA Champions League</title>
 </programme>
-<programme start="20260120195000 +0000" stop="20260120220000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+<programme start="20260120195000 +0000" stop="20260120223000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live UEFA CL: Real Madrid - AS Monaco, Ligaphase, 7. Spieltag, Dienstag</title>
 </programme>
 <programme start="20260120193000 +0000" stop="20260120195000 +0000" channel="Sky Sport Austria 5 HD.skyde">
     <title>Es folgt: Live UEFA Champions League</title>
 </programme>
-<programme start="20260120195000 +0000" stop="20260120220000 +0000" channel="Sky Sport Austria 5 HD.skyde">
+<programme start="20260120195000 +0000" stop="20260120223000 +0000" channel="Sky Sport Austria 5 HD.skyde">
     <title>Live UEFA CL: Sporting Lissabon - Paris-Saint Germain, Ligaphase, 7. Spieltag, Dienstag</title>
 </programme>
 <programme start="20260120193000 +0000" stop="20260120195000 +0000" channel="Sky Sport Austria 6 HD.skyde">
     <title>Es folgt: Live UEFA Champions League</title>
 </programme>
-<programme start="20260120195000 +0000" stop="20260120220000 +0000" channel="Sky Sport Austria 6 HD.skyde">
+<programme start="20260120195000 +0000" stop="20260120223000 +0000" channel="Sky Sport Austria 6 HD.skyde">
     <title>Live UEFA CL: Olympiakos Piräus - Bayer Leverkusen, Ligaphase, 7. Spieltag, Dienstag</title>
 </programme>
 <programme start="20260120193000 +0000" stop="20260120195000 +0000" channel="Sky Sport Austria 7 HD.skyde">
     <title>Es folgt: Live UEFA Champions League</title>
 </programme>
-<programme start="20260120195000 +0000" stop="20260120220000 +0000" channel="Sky Sport Austria 7 HD.skyde">
+<programme start="20260120195000 +0000" stop="20260120223000 +0000" channel="Sky Sport Austria 7 HD.skyde">
     <title>Live UEFA CL: FC Kopenhagen - SSC Neapel, Ligaphase, 7. Spieltag, Dienstag</title>
 </programme>
 <programme start="20260120193000 +0000" stop="20260120195000 +0000" channel="Sky Sport Austria 8 HD.skyde">
@@ -3005,7 +3005,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260120190000 +0000" stop="20260120213000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NBA: Boston Celtics @ Detroit Pistons</title>
 </programme>
-<programme start="20260120213000 +0000" stop="20260121000000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260120213000 +0000" stop="20260120233000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NBA: Oklahoma City Thunder @ Cleveland Cavaliers</title>
 </programme>
 <programme start="20260119230000 +0000" stop="20260120000000 +0000" channel="Sky Sport News HD.skyde">
@@ -3209,16 +3209,16 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260120083500 +0000" stop="20260120103000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>United Cup: I. Swiatek/H. Hurkacz (POL) - B. Bencic/S. Wawrinka (SUI), Finale in Sydney (AUS), Mixed Doubles</title>
 </programme>
-<programme start="20260120103000 +0000" stop="20260120120000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260120103000 +0000" stop="20260120123000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA Finals: J. Paolini (ITA) - J. Pegula (USA), 6. Tag in Riyadh (SAU)</title>
 </programme>
-<programme start="20260120120000 +0000" stop="20260120140000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260120123000 +0000" stop="20260120143000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA Finals: A. Sabalenka - C. Gauff (USA), 6. Tag in Riyadh (SAU)</title>
 </programme>
-<programme start="20260120140000 +0000" stop="20260120163000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260120143000 +0000" stop="20260120170000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA Finals: A. Sabalenka - E. Rybakina (KAZ), Finale 2025 in Riyadh (SAU)</title>
 </programme>
-<programme start="20260120163000 +0000" stop="20260120190000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260120170000 +0000" stop="20260120193000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA Finals: T. Babos (HUN) / L. Stefani (BRA) - V. Kudermetova / E. Mertens (BEL), Doppelfinale 2025 in Riyadh (SAU)</title>
 </programme>
 <programme start="20260120193000 +0000" stop="20260120213500 +0000" channel="Sky Sport Tennis HD.skyde">
