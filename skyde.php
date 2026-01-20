@@ -3209,16 +3209,16 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260120083500 +0000" stop="20260120103000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>United Cup: I. Swiatek/H. Hurkacz (POL) - B. Bencic/S. Wawrinka (SUI), Finale in Sydney (AUS), Mixed Doubles</title>
 </programme>
-<programme start="20260120103000 +0000" stop="20260120123000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260120103000 +0000" stop="20260120120000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA Finals: J. Paolini (ITA) - J. Pegula (USA), 6. Tag in Riyadh (SAU)</title>
 </programme>
-<programme start="20260120123000 +0000" stop="20260120143000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260120120000 +0000" stop="20260120140000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA Finals: A. Sabalenka - C. Gauff (USA), 6. Tag in Riyadh (SAU)</title>
 </programme>
-<programme start="20260120143000 +0000" stop="20260120170000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260120140000 +0000" stop="20260120163000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA Finals: A. Sabalenka - E. Rybakina (KAZ), Finale 2025 in Riyadh (SAU)</title>
 </programme>
-<programme start="20260120170000 +0000" stop="20260120193000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260120163000 +0000" stop="20260120190000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA Finals: T. Babos (HUN) / L. Stefani (BRA) - V. Kudermetova / E. Mertens (BEL), Doppelfinale 2025 in Riyadh (SAU)</title>
 </programme>
 <programme start="20260120193000 +0000" stop="20260120213500 +0000" channel="Sky Sport Tennis HD.skyde">

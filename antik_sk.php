@@ -1234,25 +1234,25 @@
   <programme start="20260121224500 +0000" stop="20260122005500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Krasokorčuľovanie ME 2026</title>
   </programme>
-  <programme start="20260122005500 +0000" stop="20260122030000 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260122005500 +0000" stop="20260122025000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Atletika - Diamantová liga</title>
   </programme>
-  <programme start="20260122030000 +0000" stop="20260122051000 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260122025000 +0000" stop="20260122050000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Atletika - Diamantová liga</title>
   </programme>
-  <programme start="20260122051000 +0000" stop="20260122080000 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260122050000 +0000" stop="20260122074500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">IIHF MS juniorov 2026</title>
   </programme>
-  <programme start="20260122080000 +0000" stop="20260122104500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260122074500 +0000" stop="20260122102000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">IIHF MS juniorov 2026</title>
   </programme>
-  <programme start="20260122104500 +0000" stop="20260122120500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260122102000 +0000" stop="20260122112500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">FIS Svetový pohár Super G ženy</title>
   </programme>
-  <programme start="20260122120500 +0000" stop="20260122125500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260122112500 +0000" stop="20260122123500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">FIS Beh na lyžiach</title>
   </programme>
-  <programme start="20260122125500 +0000" stop="20260122135000 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260122123500 +0000" stop="20260122135000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">FIS Beh na lyžiach</title>
   </programme>
   <programme start="20260122135000 +0000" stop="20260122165000 +0000" channel="JOJ Šport 2.webtv.sk">
@@ -1261,13 +1261,13 @@
   <programme start="20260122165000 +0000" stop="20260122192000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Hádzaná - EHF Euro 2026</title>
   </programme>
-  <programme start="20260122192000 +0000" stop="20260122213000 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260122192000 +0000" stop="20260122213500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Hádzaná - EHF Euro 2026</title>
   </programme>
-  <programme start="20260122213000 +0000" stop="20260122223000 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260122213500 +0000" stop="20260122223500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">FIS Svetový pohár obrovský slalom ženy</title>
   </programme>
-  <programme start="20260122223000 +0000" stop="20260123001500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260122223500 +0000" stop="20260122235500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">FIS Svetový pohár obrovský slalom ženy</title>
   </programme>
   <programme start="20260121225500 +0000" stop="20260121235500 +0000" channel="WAU.webtv.sk">

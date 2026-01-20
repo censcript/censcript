@@ -6787,6 +6787,33 @@
     <programme start="20260120152000 +0000" stop="20260120161500 +0000" channel="TestChannel2.starhub">
         <title>Golden City (Ep 801-850) VVD Mandarin</title>
     </programme>
+    <programme start="20260120161500 +0000" stop="20260120173000 +0000" channel="TestChannel2.starhub">
+        <title>Family By Choice</title>
+    </programme>
+    <programme start="20260120173000 +0000" stop="20260120183000 +0000" channel="TestChannel2.starhub">
+        <title>Under the Moonlight</title>
+    </programme>
+    <programme start="20260120183000 +0000" stop="20260120190000 +0000" channel="TestChannel2.starhub">
+        <title>Lo And Behold</title>
+    </programme>
+    <programme start="20260120190000 +0000" stop="20260120200000 +0000" channel="TestChannel2.starhub">
+        <title>Heavenly Hand</title>
+    </programme>
+    <programme start="20260120200000 +0000" stop="20260120210000 +0000" channel="TestChannel2.starhub">
+        <title>Shadow Love</title>
+    </programme>
+    <programme start="20260120210000 +0000" stop="20260120213000 +0000" channel="TestChannel2.starhub">
+        <title>Lo And Behold</title>
+    </programme>
+    <programme start="20260120213000 +0000" stop="20260120222000 +0000" channel="TestChannel2.starhub">
+        <title>Follow Your Heart</title>
+    </programme>
+    <programme start="20260120222000 +0000" stop="20260120231500 +0000" channel="TestChannel2.starhub">
+        <title>Golden City (Ep 801-850) VVD Mandarin</title>
+    </programme>
+    <programme start="20260120231500 +0000" stop="20260121003000 +0000" channel="TestChannel2.starhub">
+        <title>Family By Choice</title>
+    </programme>
     <programme start="20260120160000 +0000" stop="20260120163000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>NHK Newsline</title>
     </programme>
