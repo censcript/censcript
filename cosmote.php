@@ -126,6 +126,10 @@
     <title>Football: Cagliari - Juventus Football Club</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260121222000 +0700" stop="20260122004500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: AEK - Panathinaikos</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260120201500 +0700" stop="20260120221500 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Dundee - Heart of Midlothian</title>
     <desc>Live: Tidak</desc>
@@ -178,8 +182,8 @@
     <title>Football: Sporting CP - Casa Pia</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260120193000 +0700" stop="20260120220000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: New York Knicks - Dallas Mavericks</title>
+<programme start="20260121223000 +0700" stop="20260122004500 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Aberdeen - Rangers FC</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260120220000 +0700" stop="20260120222000 +0700" channel="COSMOTE Sport 4 HD">
@@ -242,8 +246,8 @@
     <title>Basketball: Denver Nuggets - Los Angeles Lakers</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260120204000 +0700" stop="20260120213000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Moto-E World Championship 2025</title>
+<programme start="20260121220000 +0700" stop="20260121233000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Pick n&#039; Roll</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260120213000 +0700" stop="20260120224000 +0700" channel="COSMOTE Sport 5 HD">
@@ -326,8 +330,8 @@
     <title>WRC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260120201000 +0700" stop="20260120213500 +0700" channel="COSMOTE Sport 6 HD">
-    <title>2025 Premier Padel World Cup Pairs</title>
+<programme start="20260121224000 +0700" stop="20260122001500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260120213500 +0700" stop="20260120234500 +0700" channel="COSMOTE Sport 6 HD">
@@ -404,6 +408,10 @@
 </programme>
 <programme start="20260121214500 +0700" stop="20260121221500 +0700" channel="COSMOTE Sport 6 HD">
     <title>Watersports: Sailing to the Games 2025 E6</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260121221500 +0700" stop="20260122000000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Volleyball: Panathinaikos - Braga</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260120210000 +0700" stop="20260120230000 +0700" channel="COSMOTE Sport 7 HD">

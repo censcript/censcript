@@ -2684,8 +2684,8 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260120152000 +0000" stop="20260120173000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live UEFA CL: Kairat Almaty - Club Brügge, Ligaphase, 7. Spieltag, Dienstag</title>
 </programme>
-<programme start="20260120184000 +0000" stop="20260120190000 +0000" channel="Sky Sport Austria 2 HD.skyde">
-    <title>Es folgt: Live UEFA Champions League</title>
+<programme start="20260120180000 +0000" stop="20260120190000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+    <title>Es folgt: ab 20:00: Live UEFA Champions League</title>
 </programme>
 <programme start="20260120190000 +0000" stop="20260120195000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live Die UEFA CL am Dienstag: Vorbericht</title>
@@ -2859,7 +2859,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>F1: Qualifying - GP Emilia Romagna</title>
 </programme>
 <programme start="20260120110000 +0000" stop="20260120130000 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>F1: Rennen - GP Emilia Romagna 2025</title>
+    <title>F1: Rennen - GP Emilia Romagna</title>
 </programme>
 <programme start="20260120130000 +0000" stop="20260120140000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F3: 1. Rennen - GP Emilia Romagna</title>
@@ -2874,7 +2874,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>WRC: Forum8 Rally Japan - SS20 Lake Mikawako 2 (Wolf Power Stage)</title>
 </programme>
 <programme start="20260120173000 +0000" stop="20260120193000 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>F1: Rennen - GP Emilia Romagna 2025</title>
+    <title>F1: Rennen - GP Emilia Romagna</title>
 </programme>
 <programme start="20260120193000 +0000" stop="20260120201500 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Die Audi-Präsentation</title>
@@ -2960,10 +2960,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260120223500 +0000" stop="20260120232500 +0000" channel="Sky Sport Golf HD.skyde">
     <title>US Open: Official Film 2021 (Jon Rahm)</title>
 </programme>
-<programme start="20260120000000 +0000" stop="20260120003000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260120000500 +0000" stop="20260120003500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>MotoGP: Marc Marquez - All on red</title>
 </programme>
-<programme start="20260120003000 +0000" stop="20260120010000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260120003500 +0000" stop="20260120010000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>MotoGP: Jorge Martin - From heaven to hell</title>
 </programme>
 <programme start="20260120010000 +0000" stop="20260120040000 +0000" channel="Sky Sport Mix HD.skyde">
@@ -3524,16 +3524,16 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260120221500 +0000" stop="20260120230500 +0000" channel="Universal TV HD.skyde">
     <title>Bones - Die Knochenjägerin</title>
 </programme>
-<programme start="20260119230000 +0000" stop="20260119232500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260119230500 +0000" stop="20260119232500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Young Sheldon</title>
 </programme>
 <programme start="20260119232500 +0000" stop="20260119234500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Young Sheldon</title>
 </programme>
-<programme start="20260119234500 +0000" stop="20260120000500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260119234500 +0000" stop="20260120001000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Young Sheldon</title>
 </programme>
-<programme start="20260120000500 +0000" stop="20260120002500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260120001000 +0000" stop="20260120002500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Young Sheldon</title>
 </programme>
 <programme start="20260120002500 +0000" stop="20260120005000 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3542,10 +3542,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260120005000 +0000" stop="20260120011000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>American Dad</title>
 </programme>
-<programme start="20260120011000 +0000" stop="20260120013000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260120011000 +0000" stop="20260120013500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Harley Quinn</title>
 </programme>
-<programme start="20260120013000 +0000" stop="20260120015500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260120013500 +0000" stop="20260120015500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Harley Quinn</title>
 </programme>
 <programme start="20260120015500 +0000" stop="20260120020500 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3575,16 +3575,16 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260120042500 +0000" stop="20260120045000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Die Nanny</title>
 </programme>
-<programme start="20260120045000 +0000" stop="20260120051500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260120045000 +0000" stop="20260120051000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Friends</title>
 </programme>
-<programme start="20260120051500 +0000" stop="20260120054000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260120051000 +0000" stop="20260120054000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Friends</title>
 </programme>
-<programme start="20260120054000 +0000" stop="20260120061000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260120054000 +0000" stop="20260120060500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Friends</title>
 </programme>
-<programme start="20260120061000 +0000" stop="20260120063500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260120060500 +0000" stop="20260120063500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Friends</title>
 </programme>
 <programme start="20260120063500 +0000" stop="20260120070000 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3662,10 +3662,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260120164500 +0000" stop="20260120171000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Animal Control</title>
 </programme>
-<programme start="20260120171000 +0000" stop="20260120173500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260120171000 +0000" stop="20260120174000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Animal Control</title>
 </programme>
-<programme start="20260120173500 +0000" stop="20260120180000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260120174000 +0000" stop="20260120180000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Big Bang Theory</title>
 </programme>
 <programme start="20260120180000 +0000" stop="20260120182500 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3809,10 +3809,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260120035000 +0000" stop="20260120044000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Daktari</title>
 </programme>
-<programme start="20260120044000 +0000" stop="20260120053500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260120044000 +0000" stop="20260120053000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Daktari</title>
 </programme>
-<programme start="20260120053500 +0000" stop="20260120063000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260120053000 +0000" stop="20260120063000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Daktari</title>
 </programme>
 <programme start="20260120063000 +0000" stop="20260120072000 +0000" channel="Warner TV Serie HD.skyde">
@@ -3866,10 +3866,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260120191500 +0000" stop="20260120200000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Hudson &amp; Rex</title>
 </programme>
-<programme start="20260120200000 +0000" stop="20260120204500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260120200000 +0000" stop="20260120205000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Hudson &amp; Rex</title>
 </programme>
-<programme start="20260120204500 +0000" stop="20260120213500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260120205000 +0000" stop="20260120213500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Hudson &amp; Rex</title>
 </programme>
 <programme start="20260120213500 +0000" stop="20260120222000 +0000" channel="Warner TV Serie HD.skyde">
