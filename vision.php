@@ -16,46 +16,28 @@
 <programme start="20260120124500 +0000" stop="20260120140000 +0000" channel="RCTI.vision">
 <title>Cinta Sepenuh Jiwa (RCTI)</title>
 </programme>
-<programme start="20260120140000 +0000" stop="20260120164500 +0000" channel="RCTI.vision">
+<programme start="20260120140000 +0000" stop="20260120170000 +0000" channel="RCTI.vision">
 <title>Indonesian Idol 2025 (RCTI)</title>
 </programme>
-<programme start="20260120164500 +0000" stop="20260120183000 +0000" channel="RCTI.vision">
+<programme start="20260120170000 +0000" stop="20260120190000 +0000" channel="RCTI.vision">
 <title>RCTI</title>
 </programme>
-<programme start="20260120183000 +0000" stop="20260120190000 +0000" channel="RCTI.vision">
-<title>iNews Sport</title>
-</programme>
-<programme start="20260120190000 +0000" stop="20260120213000 +0000" channel="RCTI.vision">
-<title>RCTI</title>
-</programme>
-<programme start="20260120213000 +0000" stop="20260120224500 +0000" channel="RCTI.vision">
-<title>Preman Pensiun S4</title>
+<programme start="20260120190000 +0000" stop="20260120224500 +0000" channel="RCTI.vision">
+<title>Preman Pensiun S5</title>
 </programme>
 <programme start="20260120224500 +0000" stop="20260120234500 +0000" channel="RCTI.vision">
 <title>Go Spot</title>
 </programme>
-<programme start="20260120234500 +0000" stop="20260121011500 +0000" channel="RCTI.vision">
+<programme start="20260120234500 +0000" stop="20260121004500 +0000" channel="RCTI.vision">
 <title>Upin Ipin</title>
 </programme>
-<programme start="20260121011500 +0000" stop="20260121023000 +0000" channel="RCTI.vision">
-<title>Kiko</title>
+<programme start="20260121004500 +0000" stop="20260121053000 +0000" channel="RCTI.vision">
+<title>Daihatsu Indonesia Masters (L)</title>
 </programme>
-<programme start="20260121023000 +0000" stop="20260121033000 +0000" channel="RCTI.vision">
-<title>Ninja Hattori</title>
+<programme start="20260121053000 +0000" stop="20260121101500 +0000" channel="RCTI.vision">
+<title>Daihatsu Indonesia Masters (L)</title>
 </programme>
-<programme start="20260121033000 +0000" stop="20260121043000 +0000" channel="RCTI.vision">
-<title>Silet</title>
-</programme>
-<programme start="20260121043000 +0000" stop="20260121051500 +0000" channel="RCTI.vision">
-<title>Seputar iNews Siang</title>
-</programme>
-<programme start="20260121051500 +0000" stop="20260121083000 +0000" channel="RCTI.vision">
-<title>MasterChef Indonesia S13</title>
-</programme>
-<programme start="20260121083000 +0000" stop="20260121100000 +0000" channel="RCTI.vision">
-<title>Garis-Garis Cinta</title>
-</programme>
-<programme start="20260121100000 +0000" stop="20260121113000 +0000" channel="RCTI.vision">
+<programme start="20260121101500 +0000" stop="20260121113000 +0000" channel="RCTI.vision">
 <title>Terbelenggu Rindu (RCTI)</title>
 </programme>
 <programme start="20260121113000 +0000" stop="20260121131500 +0000" channel="RCTI.vision">
@@ -1497,4 +1479,22 @@
 </programme>
 <programme start="20260120210000 +0000" stop="20260121000000 +0000" channel="DAAI TV.vision">
 <title>DAAI TV</title>
+</programme>
+<programme start="20260121000000 +0000" stop="20260121030000 +0000" channel="DAAI TV.vision">
+<title>DAAI TV</title>
+</programme>
+<programme start="20260121030000 +0000" stop="20260121060000 +0000" channel="DAAI TV.vision">
+<title>DAAI TV</title>
+</programme>
+<programme start="20260121060000 +0000" stop="20260121090000 +0000" channel="DAAI TV.vision">
+<title>DAAI TV</title>
+</programme>
+<programme start="20260121090000 +0000" stop="20260121120000 +0000" channel="DAAI TV.vision">
+<title>DAAI TV</title>
+</programme>
+<programme start="20260119234500 +0000" stop="20260120010000 +0000" channel="MDTV.vision">
+<title>AADD: Ada Apa Dengan Dunia</title>
+</programme>
+<programme start="20260120010000 +0000" stop="20260120015000 +0000" channel="MDTV.vision">
+<title>Fakta +62</title>
 </programme>

@@ -40,7 +40,16 @@
     <programme start="20260120080000 +0000" stop="20260120090000 +0000" channel="VTV1 HD.mytv">
         <title> Truyền hình trực tiếp : Khai mạc Đại hội đại biểu toàn quốc lần thứ XIV của Đảng </title>
     </programme>
-    <programme start="20260120090000 +0000" stop="20260120124500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260120090000 +0000" stop="20260120111500 +0000" channel="VTV1 HD.mytv">
+        <title> Phim tài liệu : Sự lựa chọn lịch sử </title>
+    </programme>
+    <programme start="20260120111500 +0000" stop="20260120115000 +0000" channel="VTV1 HD.mytv">
+        <title> Ca nhạc : Tự hào là người Việt Nam </title>
+    </programme>
+    <programme start="20260120115000 +0000" stop="20260120122500 +0000" channel="VTV1 HD.mytv">
+        <title> Sách hay thay đổi cuộc đời </title>
+    </programme>
+    <programme start="20260120122500 +0000" stop="20260120124500 +0000" channel="VTV1 HD.mytv">
         <title> Góc nhìn văn hóa </title>
     </programme>
     <programme start="20260120124500 +0000" stop="20260120130000 +0000" channel="VTV1 HD.mytv">

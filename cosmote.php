@@ -126,6 +126,10 @@
     <title>Football: Volos - Atromitos</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260121141000 +0700" stop="20260121161000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Pisa - Atalanta</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260120110000 +0700" stop="20260120141500 +0700" channel="COSMOTE Sport 3 HD">
     <title>American Football: Seattle Seahawks - San Francisco 49ers</title>
     <desc>Live: Tidak</desc>
@@ -178,8 +182,8 @@
     <title>American Football: Chicago Bears - Los Angeles Rams</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260120130000 +0700" stop="20260120140000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>NBA Specials: Basketball Stories</title>
+<programme start="20260121141500 +0700" stop="20260121161500 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Rio Ave - SL Benfica</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260120140000 +0700" stop="20260120143000 +0700" channel="COSMOTE Sport 4 HD">
@@ -244,10 +248,6 @@
 </programme>
 <programme start="20260121130000 +0700" stop="20260121150000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Virtus Bologna - Treviso</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260120120500 +0700" stop="20260120131000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>2025 Extreme H</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260120131000 +0700" stop="20260120151000 +0700" channel="COSMOTE Sport 5 HD">
@@ -331,6 +331,10 @@
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20260121130000 +0700" stop="20260121143000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>DTM 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260121143000 +0700" stop="20260121161500 +0700" channel="COSMOTE Sport 5 HD">
     <title>DTM 2025</title>
     <desc>Live: Tidak</desc>
 </programme>

@@ -9347,7 +9347,7 @@
     <title>Terbelenggu Rindu</title>
 </programme>
 <programme start="20260120140000 +0000" stop="20260120143000 +0000" channel="Vision Prime.mncvision">
-    <title>Indonesian Idol XIV</title>
+    <title>Indonesian Idol XIV (L)</title>
 </programme>
 <programme start="20260119170000 +0000" stop="20260119180000 +0000" channel="Vision Prime HD.mncvision">
     <title>Mencintai Ipar Sendiri</title>
@@ -9404,5 +9404,5 @@
     <title>Terbelenggu Rindu</title>
 </programme>
 <programme start="20260120140000 +0000" stop="20260120143000 +0000" channel="Vision Prime HD.mncvision">
-    <title>Indonesian Idol XIV</title>
+    <title>Indonesian Idol XIV (L)</title>
 </programme>
