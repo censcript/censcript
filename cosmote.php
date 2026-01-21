@@ -110,6 +110,10 @@
     <title>Football: Cremonese - Hellas Verona</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260122181000 +0700" stop="20260122202000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: AEL Novibet - Aris</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260121161500 +0700" stop="20260121181500 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Al Ahli - Al Khaleej</title>
     <desc>Live: Tidak</desc>
@@ -224,10 +228,6 @@
 </programme>
 <programme start="20260122171000 +0700" stop="20260122194000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Milwaukee Bucks - Oklahoma City Thunder</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260121161500 +0700" stop="20260121171500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>MotoGP Classics</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260121171500 +0700" stop="20260121181500 +0700" channel="COSMOTE Sport 5 HD">
