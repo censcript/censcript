@@ -7744,10 +7744,7 @@
     <programme start="20260121153000 +0000" stop="20260121160000 +0000" channel="Sony Entertainment Television.starhub">
         <title>Yeh Un Dinon Ki Baat Hai</title>
     </programme>
-    <programme start="20260120155000 +0000" stop="20260120160500 +0000" channel="ABC Australia HD.starhub">
-        <title>Narriearra Station</title>
-    </programme>
-    <programme start="20260120160500 +0000" stop="20260120163000 +0000" channel="ABC Australia HD.starhub">
+    <programme start="20260120160000 +0000" stop="20260120163000 +0000" channel="ABC Australia HD.starhub">
         <title>Island Castaways</title>
     </programme>
     <programme start="20260120163000 +0000" stop="20260120180000 +0000" channel="ABC Australia HD.starhub">
