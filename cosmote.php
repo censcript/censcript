@@ -234,10 +234,6 @@
     <title>Basketball: Milwaukee Bucks - Oklahoma City Thunder</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260122001500 +0700" stop="20260122011500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260122011500 +0700" stop="20260122021500 +0700" channel="COSMOTE Sport 5 HD">
     <title>WRC</title>
     <desc>Live: Tidak</desc>
@@ -402,10 +398,6 @@
     <title>Football: Bologna - Celtic FC (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260122010000 +0700" stop="20260122020000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260122020000 +0700" stop="20260122023000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
@@ -477,10 +469,6 @@
 <programme start="20260123004500 +0700" stop="20260123030000 +0700" channel="COSMOTE Sport 7 HD">
     <title>Football: Viktoria Plzen - FC Porto (L)</title>
     <desc>Live: Ya</desc>
-</programme>
-<programme start="20260122000000 +0700" stop="20260122020000 +0700" channel="COSMOTE Sport 8 HD">
-    <title>COSMOTESport8HD</title>
-    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260122020000 +0700" stop="20260122023000 +0700" channel="COSMOTE Sport 8 HD">
     <title>COSMOTESport8HD</title>
