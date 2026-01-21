@@ -7777,10 +7777,10 @@
     <programme start="20260121030000 +0000" stop="20260121033000 +0000" channel="ABC Australia HD.starhub">
         <title>Anger</title>
     </programme>
-    <programme start="20260121033000 +0000" stop="20260121043000 +0000" channel="ABC Australia HD.starhub">
+    <programme start="20260121033000 +0000" stop="20260121042500 +0000" channel="ABC Australia HD.starhub">
         <title>Dover Heights</title>
     </programme>
-    <programme start="20260121043000 +0000" stop="20260121050000 +0000" channel="ABC Australia HD.starhub">
+    <programme start="20260121042500 +0000" stop="20260121050000 +0000" channel="ABC Australia HD.starhub">
         <title>Connells Point, NSW</title>
     </programme>
     <programme start="20260121050000 +0000" stop="20260121055000 +0000" channel="ABC Australia HD.starhub">
