@@ -250,8 +250,8 @@
   <programme start="20260123220000 +0000" stop="20260123230100 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">To najlepšie z Abbey Road (3/4)</title>
   </programme>
-  <programme start="20260122225000 +0000" stop="20260122234000 +0000" channel=":24.webtv.sk">
-    <title lang="id">Hymna SR</title>
+  <programme start="20260122225200 +0000" stop="20260122234000 +0000" channel=":24.webtv.sk">
+    <title lang="id">Komentáre dňa</title>
   </programme>
   <programme start="20260122234000 +0000" stop="20260123003500 +0000" channel=":24.webtv.sk">
     <title lang="id">Správy</title>
@@ -1246,10 +1246,10 @@
   <programme start="20260123113500 +0000" stop="20260123132500 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Hádzaná - EHF Euro 2026</title>
   </programme>
-  <programme start="20260123132500 +0000" stop="20260123144000 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260123132500 +0000" stop="20260123142500 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">FIS Beh na lyžiach</title>
   </programme>
-  <programme start="20260123144000 +0000" stop="20260123163000 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260123142500 +0000" stop="20260123163000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Basketbalový pohár</title>
   </programme>
   <programme start="20260123163000 +0000" stop="20260123165500 +0000" channel="JOJ Šport.webtv.sk">
@@ -1742,7 +1742,7 @@
     <title lang="id">Noviny TV JOJ</title>
   </programme>
   <programme start="20260123191000 +0000" stop="20260123200000 +0000" channel="JOJ 24.webtv.sk">
-    <title lang="id">Ekonomika 24</title>
+    <title lang="id">Európa od A po Z</title>
   </programme>
   <programme start="20260123200000 +0000" stop="20260123203000 +0000" channel="JOJ 24.webtv.sk">
     <title lang="id">Krimi</title>
@@ -16684,10 +16684,10 @@
   <programme start="20260123023000 +0000" stop="20260123024500 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Pogoda Info</title>
   </programme>
-  <programme start="20260123024500 +0000" stop="20260123033300 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260123024500 +0000" stop="20260123033200 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Po drugiej stronie (5)</title>
   </programme>
-  <programme start="20260123033300 +0000" stop="20260123035300 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260123033200 +0000" stop="20260123035300 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Reportaz TVP INFO (487)</title>
   </programme>
   <programme start="20260123035300 +0000" stop="20260123044500 +0000" channel="TVP Info.webtv.sk">
@@ -17213,7 +17213,7 @@
     <title lang="id">Неизвестная Pоссия</title>
   </programme>
   <programme start="20260122233000 +0000" stop="20260123000000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Pеальная история</title>
+    <title lang="id">Темная история: Депортации греков</title>
   </programme>
   <programme start="20260123000000 +0000" stop="20260123010000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">VOTVOT</title>
@@ -17228,7 +17228,7 @@
     <title lang="id">Pеальное кино: Там, где нас нет</title>
   </programme>
   <programme start="20260123040000 +0000" stop="20260123043000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">#ВУкраине</title>
+    <title lang="id">#ВУкраине: Высшая военная награда</title>
   </programme>
   <programme start="20260123043000 +0000" stop="20260123050000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">Человек на карте</title>
@@ -18107,7 +18107,7 @@
     <title lang="id">Exploring Korean Literature A</title>
   </programme>
   <programme start="20260123163000 +0000" stop="20260123170000 +0000" channel="Arirang TV.webtv.sk">
-    <title lang="id">Talk Room</title>
+    <title lang="id">Peace Insight</title>
   </programme>
   <programme start="20260123170000 +0000" stop="20260123173000 +0000" channel="Arirang TV.webtv.sk">
     <title lang="id">K-culture Dive</title>
@@ -19720,7 +19720,13 @@
   <programme start="20260123120000 +0000" stop="20260123130000 +0000" channel="Óčko.webtv.sk">
     <title lang="id">SOUNDTRACKY</title>
   </programme>
-  <programme start="20260123130000 +0000" stop="20260123140000 +0000" channel="Óčko.webtv.sk">
+  <programme start="20260123130000 +0000" stop="20260123133000 +0000" channel="Óčko.webtv.sk">
+    <title lang="id">ÓČKO HITY</title>
+  </programme>
+  <programme start="20260123133000 +0000" stop="20260123133500 +0000" channel="Óčko.webtv.sk">
+    <title lang="id">SNOW.CZ: TANVALDSKÝ ŠPIČÁK</title>
+  </programme>
+  <programme start="20260123133500 +0000" stop="20260123140000 +0000" channel="Óčko.webtv.sk">
     <title lang="id">ÓČKO HITY</title>
   </programme>
   <programme start="20260123140000 +0000" stop="20260123150000 +0000" channel="Óčko.webtv.sk">

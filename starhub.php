@@ -2105,7 +2105,7 @@
         <title>CNN Newsroom (CNNI) (45m)</title>
     </programme>
     <programme start="20260121090000 +0000" stop="20260121100000 +0000" channel="CNN HD.starhub">
-        <title>Amanpour</title>
+        <title>Early Start with Rahel Solomon</title>
     </programme>
     <programme start="20260121100000 +0000" stop="20260121110000 +0000" channel="CNN HD.starhub">
         <title>Early Start with Rahel Solomon</title>
@@ -2113,11 +2113,11 @@
     <programme start="20260121110000 +0000" stop="20260121120000 +0000" channel="CNN HD.starhub">
         <title>CNN This Morning</title>
     </programme>
-    <programme start="20260121120000 +0000" stop="20260121133000 +0000" channel="CNN HD.starhub">
+    <programme start="20260121120000 +0000" stop="20260121130000 +0000" channel="CNN HD.starhub">
         <title>CNN News Central</title>
     </programme>
-    <programme start="20260121133000 +0000" stop="20260121140000 +0000" channel="CNN HD.starhub">
-        <title>World Sport (30m)</title>
+    <programme start="20260121130000 +0000" stop="20260121140000 +0000" channel="CNN HD.starhub">
+        <title>CNN News Central</title>
     </programme>
     <programme start="20260121140000 +0000" stop="20260121144500 +0000" channel="CNN HD.starhub">
         <title>Connect the World (45m)</title>

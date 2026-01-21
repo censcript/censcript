@@ -2787,6 +2787,72 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260121220000 +0000" stop="20260122000000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
     <title>BL: RB Leipzig - FC Bayern München, tipico Topspiel der Woche, 18. Spieltag</title>
 </programme>
+<programme start="20260120231500 +0000" stop="20260121000000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>F1: Die Audi-Präsentation</title>
+</programme>
+<programme start="20260121000000 +0000" stop="20260121010000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>PMSC: Rennen - GP Emilia Romagna</title>
+</programme>
+<programme start="20260121010000 +0000" stop="20260121030000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>F1: Rennen - GP Emilia Romagna 2025</title>
+</programme>
+<programme start="20260121030000 +0000" stop="20260121040000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>IndyCar: Highlights: The 109th Indianapolis 500</title>
+</programme>
+<programme start="20260121040000 +0000" stop="20260121050000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>PMSC: Rennen - GP Emilia Romagna</title>
+</programme>
+<programme start="20260121050000 +0000" stop="20260121060000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>PMSC: Rennen - GP Monaco</title>
+</programme>
+<programme start="20260121060000 +0000" stop="20260121073000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>F1: 2. Freies Training - GP Monaco</title>
+</programme>
+<programme start="20260121073000 +0000" stop="20260121090000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>F1: 3. Freies Training - GP Monaco</title>
+</programme>
+<programme start="20260121090000 +0000" stop="20260121103000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>F1: Qualifying - GP Monaco</title>
+</programme>
+<programme start="20260121103000 +0000" stop="20260121123000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>F1: Rennen - GP Monaco 2025</title>
+</programme>
+<programme start="20260121123000 +0000" stop="20260121130500 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>WRC: More than Machine: Defend &amp; Attack</title>
+</programme>
+<programme start="20260121130500 +0000" stop="20260121135000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>WRC: More than Machine: Now or never</title>
+</programme>
+<programme start="20260121135000 +0000" stop="20260121143000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>WRC: More than Machine: Vanishing point</title>
+</programme>
+<programme start="20260121143000 +0000" stop="20260121151000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>WRC: More than Machine: Resilience</title>
+</programme>
+<programme start="20260121151000 +0000" stop="20260121155500 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>WRC: More than Machine: Cause and effect</title>
+</programme>
+<programme start="20260121155500 +0000" stop="20260121164000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>WRC: More than Machine: Let the games begin</title>
+</programme>
+<programme start="20260121164000 +0000" stop="20260121173000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>WRC: More than Machine: Fortune favours the brave</title>
+</programme>
+<programme start="20260121173000 +0000" stop="20260121190000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>WRC: Rally Saudi Arabia - SS17 Thabhan 2 (Wolf Power Stage)</title>
+</programme>
+<programme start="20260121190000 +0000" stop="20260121210000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>F1: Rennen - GP Monaco 2025</title>
+</programme>
+<programme start="20260121210000 +0000" stop="20260121214500 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>F1: Die Audi-Präsentation</title>
+</programme>
+<programme start="20260121214500 +0000" stop="20260121220000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>F1: Top 20: Boxenstopp Chaos</title>
+</programme>
+<programme start="20260121220000 +0000" stop="20260122000000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>IndyCar: Chevrolet Detroit Grand Prix</title>
+</programme>
 <programme start="20260120232500 +0000" stop="20260121001000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>US Open: Official Film 2022 (Matthew Fitzpatrick)</title>
 </programme>
