@@ -110,6 +110,10 @@
     <title>Football: Bologna - ACF Fiorentina</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260122161000 +0700" stop="20260122181000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Cremonese - Hellas Verona</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260121141500 +0700" stop="20260121161500 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Rio Ave - SL Benfica</title>
     <desc>Live: Tidak</desc>
@@ -324,6 +328,14 @@
 </programme>
 <programme start="20260122150000 +0700" stop="20260122160000 +0700" channel="COSMOTE Sport 5 HD">
     <title>WRC</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260122160000 +0700" stop="20260122165000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>DTM</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260122165000 +0700" stop="20260122175500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260121150000 +0700" stop="20260121164500 +0700" channel="COSMOTE Sport 6 HD">

@@ -7780,7 +7780,13 @@
 <programme start="20260120230000 +0000" stop="20260121010000 +0000" channel="Soccer Channel.mncvision">
     <title>European Qual.: SCO Vs DEN</title>
 </programme>
-<programme start="20260121010000 +0000" stop="20260121110000 +0000" channel="Soccer Channel.mncvision">
+<programme start="20260121010000 +0000" stop="20260121042000 +0000" channel="Soccer Channel.mncvision">
+    <title>ASEAN Para games (L)</title>
+</programme>
+<programme start="20260121042000 +0000" stop="20260121074000 +0000" channel="Soccer Channel.mncvision">
+    <title>ASEAN Para games (L)</title>
+</programme>
+<programme start="20260121074000 +0000" stop="20260121110000 +0000" channel="Soccer Channel.mncvision">
     <title>ASEAN Para games (L)</title>
 </programme>
 <programme start="20260121110000 +0000" stop="20260121130000 +0000" channel="Soccer Channel.mncvision">
@@ -7810,7 +7816,13 @@
 <programme start="20260120230000 +0000" stop="20260121010000 +0000" channel="Soccer Channel HD.mncvision">
     <title>European Qual.: SCO Vs DEN</title>
 </programme>
-<programme start="20260121010000 +0000" stop="20260121110000 +0000" channel="Soccer Channel HD.mncvision">
+<programme start="20260121010000 +0000" stop="20260121042000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>ASEAN Para games (L)</title>
+</programme>
+<programme start="20260121042000 +0000" stop="20260121074000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>ASEAN Para games (L)</title>
+</programme>
+<programme start="20260121074000 +0000" stop="20260121110000 +0000" channel="Soccer Channel HD.mncvision">
     <title>ASEAN Para games (L)</title>
 </programme>
 <programme start="20260121110000 +0000" stop="20260121130000 +0000" channel="Soccer Channel HD.mncvision">
