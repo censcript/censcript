@@ -593,10 +593,10 @@
         <title>No Programme available now. Next Broadcast on 23rd January, Friday 7.20pm. Singapore Premier League 2025/2026</title>
     </programme>
     <programme start="20260120160000 +0000" stop="20260121160000 +0000" channel="spl02.mewatch">
-        <title>No programmes streaming LIVE at this moment</title>
+        <title>No Programme available now. Next Broadcast on 15th February, Sunday 7.20pm. Singapore Premier League 2025/2026</title>
     </programme>
     <programme start="20260121160000 +0000" stop="20260122160000 +0000" channel="spl02.mewatch">
-        <title>No programmes streaming LIVE at this moment</title>
+        <title>No Programme available now. Next Broadcast on 15th February, Sunday 7.20pm. Singapore Premier League 2025/2026</title>
     </programme>
     <programme start="20260120150000 +0000" stop="20260120170000 +0000" channel="now-80s.mewatch">
         <title>Mark Goodier&#039;s 12 inch 80s! - EP1</title>
