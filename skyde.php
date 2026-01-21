@@ -1176,6 +1176,141 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260121210000 +0000" stop="20260121230000 +0000" channel="Jukebox.skyde">
     <title>JUKEBOX NEWS</title>
 </programme>
+<programme start="20260120233500 +0000" stop="20260121000000 +0000" channel="Motorvision+.skyde">
+    <title>Grüne Welle</title>
+</programme>
+<programme start="20260121000000 +0000" stop="20260121003000 +0000" channel="Motorvision+.skyde">
+    <title>Infomercial</title>
+</programme>
+<programme start="20260121003000 +0000" stop="20260121010000 +0000" channel="Motorvision+.skyde">
+    <title>Infomercial</title>
+</programme>
+<programme start="20260121010000 +0000" stop="20260121013000 +0000" channel="Motorvision+.skyde">
+    <title>Infomercial</title>
+</programme>
+<programme start="20260121013000 +0000" stop="20260121020000 +0000" channel="Motorvision+.skyde">
+    <title>Infomercial</title>
+</programme>
+<programme start="20260121020000 +0000" stop="20260121023000 +0000" channel="Motorvision+.skyde">
+    <title>Super Cars</title>
+</programme>
+<programme start="20260121023000 +0000" stop="20260121031500 +0000" channel="Motorvision+.skyde">
+    <title>Magazin</title>
+</programme>
+<programme start="20260121031500 +0000" stop="20260121034000 +0000" channel="Motorvision+.skyde">
+    <title>Top Speed Classic</title>
+</programme>
+<programme start="20260121034000 +0000" stop="20260121040500 +0000" channel="Motorvision+.skyde">
+    <title>Gearing Up 2023</title>
+</programme>
+<programme start="20260121040500 +0000" stop="20260121043000 +0000" channel="Motorvision+.skyde">
+    <title>FIM World Motocross Championship 2024</title>
+</programme>
+<programme start="20260121043000 +0000" stop="20260121050000 +0000" channel="Motorvision+.skyde">
+    <title>FastZone 2024</title>
+</programme>
+<programme start="20260121050000 +0000" stop="20260121054500 +0000" channel="Motorvision+.skyde">
+    <title>Report</title>
+</programme>
+<programme start="20260121054500 +0000" stop="20260121061000 +0000" channel="Motorvision+.skyde">
+    <title>Abenteuer Allrad</title>
+</programme>
+<programme start="20260121061000 +0000" stop="20260121064000 +0000" channel="Motorvision+.skyde">
+    <title>Bike World 2024</title>
+</programme>
+<programme start="20260121064000 +0000" stop="20260121072500 +0000" channel="Motorvision+.skyde">
+    <title>King of the Roads 2024</title>
+</programme>
+<programme start="20260121072500 +0000" stop="20260121075500 +0000" channel="Motorvision+.skyde">
+    <title>Biker Lifestyle</title>
+</programme>
+<programme start="20260121075500 +0000" stop="20260121082000 +0000" channel="Motorvision+.skyde">
+    <title>Classic</title>
+</programme>
+<programme start="20260121082000 +0000" stop="20260121085000 +0000" channel="Motorvision+.skyde">
+    <title>Classic Ride</title>
+</programme>
+<programme start="20260121085000 +0000" stop="20260121091500 +0000" channel="Motorvision+.skyde">
+    <title>Crash</title>
+</programme>
+<programme start="20260121091500 +0000" stop="20260121094500 +0000" channel="Motorvision+.skyde">
+    <title>Made in....</title>
+</programme>
+<programme start="20260121094500 +0000" stop="20260121101500 +0000" channel="Motorvision+.skyde">
+    <title>Top Speed Classic</title>
+</programme>
+<programme start="20260121101500 +0000" stop="20260121104500 +0000" channel="Motorvision+.skyde">
+    <title>Car History</title>
+</programme>
+<programme start="20260121104500 +0000" stop="20260121111500 +0000" channel="Motorvision+.skyde">
+    <title>FastZone 2024</title>
+</programme>
+<programme start="20260121111500 +0000" stop="20260121113500 +0000" channel="Motorvision+.skyde">
+    <title>NASCAR University</title>
+</programme>
+<programme start="20260121113500 +0000" stop="20260121120000 +0000" channel="Motorvision+.skyde">
+    <title>Perfect Ride</title>
+</programme>
+<programme start="20260121120000 +0000" stop="20260121123500 +0000" channel="Motorvision+.skyde">
+    <title>Stunt Heroes</title>
+</programme>
+<programme start="20260121123500 +0000" stop="20260121130500 +0000" channel="Motorvision+.skyde">
+    <title>Dream Cars</title>
+</programme>
+<programme start="20260121130500 +0000" stop="20260121133500 +0000" channel="Motorvision+.skyde">
+    <title>Gearing Up 2023</title>
+</programme>
+<programme start="20260121133500 +0000" stop="20260121140000 +0000" channel="Motorvision+.skyde">
+    <title>Grüne Welle</title>
+</programme>
+<programme start="20260121140000 +0000" stop="20260121145000 +0000" channel="Motorvision+.skyde">
+    <title>Australian Drag Racing Championship 2022</title>
+</programme>
+<programme start="20260121145000 +0000" stop="20260121151500 +0000" channel="Motorvision+.skyde">
+    <title>Biker Lifestyle</title>
+</programme>
+<programme start="20260121151500 +0000" stop="20260121154500 +0000" channel="Motorvision+.skyde">
+    <title>Gearing Up 2025</title>
+</programme>
+<programme start="20260121154500 +0000" stop="20260121161500 +0000" channel="Motorvision+.skyde">
+    <title>4x4 - Das Allrad Magazin</title>
+</programme>
+<programme start="20260121161500 +0000" stop="20260121164500 +0000" channel="Motorvision+.skyde">
+    <title>Alpen Marathon</title>
+</programme>
+<programme start="20260121164500 +0000" stop="20260121171500 +0000" channel="Motorvision+.skyde">
+    <title>Bike World 2024</title>
+</programme>
+<programme start="20260121171500 +0000" stop="20260121174500 +0000" channel="Motorvision+.skyde">
+    <title>Perfect Ride</title>
+</programme>
+<programme start="20260121174500 +0000" stop="20260121181000 +0000" channel="Motorvision+.skyde">
+    <title>Super Cars</title>
+</programme>
+<programme start="20260121181000 +0000" stop="20260121190000 +0000" channel="Motorvision+.skyde">
+    <title>Road Wars Staffel 7</title>
+</programme>
+<programme start="20260121190000 +0000" stop="20260121195000 +0000" channel="Motorvision+.skyde">
+    <title>King of the Roads 2024</title>
+</programme>
+<programme start="20260121195000 +0000" stop="20260121203500 +0000" channel="Motorvision+.skyde">
+    <title>Australian Boat Racing 2025</title>
+</programme>
+<programme start="20260121203500 +0000" stop="20260121212500 +0000" channel="Motorvision+.skyde">
+    <title>Australian Circuit Boat Racing 2024</title>
+</programme>
+<programme start="20260121212500 +0000" stop="20260121215000 +0000" channel="Motorvision+.skyde">
+    <title>UIM F1H2O World Powerboat Championship 2025</title>
+</programme>
+<programme start="20260121215000 +0000" stop="20260121222000 +0000" channel="Motorvision+.skyde">
+    <title>P1 Offshore Championship 2024</title>
+</programme>
+<programme start="20260121222000 +0000" stop="20260121224500 +0000" channel="Motorvision+.skyde">
+    <title>UIM Aquabike World Championship 2024</title>
+</programme>
+<programme start="20260121224500 +0000" stop="20260121231000 +0000" channel="Motorvision+.skyde">
+    <title>P1 Class 1 Offshore Championship 2024</title>
+</programme>
 <programme start="20260120231500 +0000" stop="20260120234000 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>

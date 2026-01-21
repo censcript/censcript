@@ -110,6 +110,10 @@
     <title>Football: Panetolikos - Levadiakos</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260122141000 +0700" stop="20260122161000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Bologna - ACF Fiorentina</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260121110000 +0700" stop="20260121141500 +0700" channel="COSMOTE Sport 3 HD">
     <title>American Football: Chicago Bears - Los Angeles Rams</title>
     <desc>Live: Tidak</desc>
@@ -322,8 +326,8 @@
     <title>Extreme E - Highlights 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260121110000 +0700" stop="20260121133000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>2025 Premier Padel Tour Finals</title>
+<programme start="20260122140000 +0700" stop="20260122150000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Highlights: 2025 Extreme H</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260121133000 +0700" stop="20260121150000 +0700" channel="COSMOTE Sport 6 HD">
