@@ -1501,9 +1501,6 @@
     <programme start="20260121153500 +0000" stop="20260121160500 +0000" channel="Lifetime HD.starhub">
         <title>Food to Die For</title>
     </programme>
-    <programme start="20260120160000 +0000" stop="20260120170000 +0000" channel="COLORS Tamil HD.starhub">
-        <title>Raj Bahaddur</title>
-    </programme>
     <programme start="20260120170000 +0000" stop="20260120173000 +0000" channel="COLORS Tamil HD.starhub">
         <title>Shiva Shakthi Thiruvilayadal</title>
     </programme>
@@ -1585,7 +1582,7 @@
     <programme start="20260121133000 +0000" stop="20260121140000 +0000" channel="COLORS Tamil HD.starhub">
         <title>Kadhala Kadhala</title>
     </programme>
-    <programme start="20260121140000 +0000" stop="20260121160000 +0000" channel="COLORS Tamil HD.starhub">
+    <programme start="20260121140000 +0000" stop="20260121170000 +0000" channel="COLORS Tamil HD.starhub">
         <title>Style</title>
     </programme>
     <programme start="20260120160000 +0000" stop="20260120180000 +0000" channel="TVBS Asia.starhub">
@@ -6814,6 +6811,63 @@
     <programme start="20260120231500 +0000" stop="20260121003000 +0000" channel="TestChannel2.starhub">
         <title>Family By Choice</title>
     </programme>
+    <programme start="20260121003000 +0000" stop="20260121013000 +0000" channel="TestChannel2.starhub">
+        <title>Under the Moonlight</title>
+    </programme>
+    <programme start="20260121013000 +0000" stop="20260121020000 +0000" channel="TestChannel2.starhub">
+        <title>Lo And Behold</title>
+    </programme>
+    <programme start="20260121020000 +0000" stop="20260121025500 +0000" channel="TestChannel2.starhub">
+        <title>Golden City (Ep 801-850) VVD Mandarin</title>
+    </programme>
+    <programme start="20260121025500 +0000" stop="20260121035000 +0000" channel="TestChannel2.starhub">
+        <title>Heavenly Hand</title>
+    </programme>
+    <programme start="20260121035000 +0000" stop="20260121044500 +0000" channel="TestChannel2.starhub">
+        <title>Shadow Love</title>
+    </programme>
+    <programme start="20260121044500 +0000" stop="20260121051500 +0000" channel="TestChannel2.starhub">
+        <title>Lo And Behold</title>
+    </programme>
+    <programme start="20260121051500 +0000" stop="20260121060000 +0000" channel="TestChannel2.starhub">
+        <title>Follow Your Heart</title>
+    </programme>
+    <programme start="20260121060000 +0000" stop="20260121065000 +0000" channel="TestChannel2.starhub">
+        <title>Golden City (Ep 801-850) VVD Mandarin</title>
+    </programme>
+    <programme start="20260121065000 +0000" stop="20260121081000 +0000" channel="TestChannel2.starhub">
+        <title>Bad and Crazy</title>
+    </programme>
+    <programme start="20260121081000 +0000" stop="20260121090000 +0000" channel="TestChannel2.starhub">
+        <title>Under the Moonlight</title>
+    </programme>
+    <programme start="20260121090000 +0000" stop="20260121094500 +0000" channel="TestChannel2.starhub">
+        <title>Forensic Heroes VI: Redemption</title>
+    </programme>
+    <programme start="20260121094500 +0000" stop="20260121103500 +0000" channel="TestChannel2.starhub">
+        <title>Golden City (Ep 801-850) VVD Mandarin</title>
+    </programme>
+    <programme start="20260121103500 +0000" stop="20260121110000 +0000" channel="TestChannel2.starhub">
+        <title>Lo And Behold</title>
+    </programme>
+    <programme start="20260121110000 +0000" stop="20260121120000 +0000" channel="TestChannel2.starhub">
+        <title>Under the Moonlight</title>
+    </programme>
+    <programme start="20260121120000 +0000" stop="20260121130000 +0000" channel="TestChannel2.starhub">
+        <title>Heavenly Hand</title>
+    </programme>
+    <programme start="20260121130000 +0000" stop="20260121140000 +0000" channel="TestChannel2.starhub">
+        <title>Shadow Love</title>
+    </programme>
+    <programme start="20260121140000 +0000" stop="20260121143000 +0000" channel="TestChannel2.starhub">
+        <title>Lo And Behold</title>
+    </programme>
+    <programme start="20260121143000 +0000" stop="20260121152000 +0000" channel="TestChannel2.starhub">
+        <title>Follow Your Heart</title>
+    </programme>
+    <programme start="20260121152000 +0000" stop="20260121161500 +0000" channel="TestChannel2.starhub">
+        <title>Golden City (Ep 801-850) VVD Mandarin</title>
+    </programme>
     <programme start="20260120160000 +0000" stop="20260120163000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>NHK Newsline</title>
     </programme>
@@ -7223,7 +7277,7 @@
         <title>BBC News</title>
     </programme>
     <programme start="20260121003000 +0000" stop="20260121010000 +0000" channel="BBC World News HD.starhub">
-        <title>Newscast</title>
+        <title>The Media Show</title>
     </programme>
     <programme start="20260121010000 +0000" stop="20260121013000 +0000" channel="BBC World News HD.starhub">
         <title>BBC News</title>
@@ -7792,10 +7846,10 @@
     <programme start="20260121013000 +0000" stop="20260121043000 +0000" channel="Asianet Movies.starhub">
         <title>C/O Saira Banu</title>
     </programme>
-    <programme start="20260121043000 +0000" stop="20260121073000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260121043000 +0000" stop="20260121073500 +0000" channel="Asianet Movies.starhub">
         <title>Ennu Ninte Moideen</title>
     </programme>
-    <programme start="20260121073000 +0000" stop="20260121103000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260121073500 +0000" stop="20260121103000 +0000" channel="Asianet Movies.starhub">
         <title>Hello Mummy</title>
     </programme>
     <programme start="20260121103000 +0000" stop="20260121133000 +0000" channel="Asianet Movies.starhub">
