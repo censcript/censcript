@@ -110,6 +110,10 @@
     <title>Football: Torino - AS Roma</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260122222000 +0700" stop="20260122230000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Serie A Full Impact 2024-25 E21</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260121203000 +0700" stop="20260121223000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Sporting CP - Casa Pia</title>
     <desc>Live: Tidak</desc>
@@ -166,8 +170,12 @@
     <title>William Hill Scottish Premiership - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260121193000 +0700" stop="20260121220000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Denver Nuggets - Los Angeles Lakers</title>
+<programme start="20260122220000 +0700" stop="20260122223000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Emirates FA Cup 2025-26 - Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260122223000 +0700" stop="20260123004500 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Vitoria Guimaraes - FC Porto</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260121220000 +0700" stop="20260121233000 +0700" channel="COSMOTE Sport 4 HD">
@@ -230,12 +238,8 @@
     <title>ACB Liga Endesa 2025-26 - Fifth Quarter E15</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260121200000 +0700" stop="20260121210500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260121210500 +0700" stop="20260121213500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC 2025</title>
+<programme start="20260122220000 +0700" stop="20260123001500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: AEK - Karditsa</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260121213500 +0700" stop="20260121224000 +0700" channel="COSMOTE Sport 5 HD">
@@ -334,9 +338,9 @@
     <title>WRC Magazine 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260121194500 +0700" stop="20260121214500 +0700" channel="COSMOTE Sport 6 HD">
-    <title>2025 Premier Padel World Cup Pairs</title>
-    <desc>Live: Tidak</desc>
+<programme start="20260122220000 +0700" stop="20260122230500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC 2026 (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260121214500 +0700" stop="20260121221500 +0700" channel="COSMOTE Sport 6 HD">
     <title>Watersports: Sailing to the Games 2025 E6</title>
@@ -392,6 +396,10 @@
 </programme>
 <programme start="20260122193500 +0700" stop="20260122220500 +0700" channel="COSMOTE Sport 6 HD">
     <title>Volleyball: Halkbank Ankara - Knack Roeselare</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260122220500 +0700" stop="20260122233000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>2025 Premier Padel World Cup Pairs</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260121210000 +0700" stop="20260121230000 +0700" channel="COSMOTE Sport 7 HD">

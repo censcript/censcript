@@ -167,49 +167,49 @@
 <title>12 Hari</title>
 </programme>
 <programme start="20260121170000 +0000" stop="20260121180000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<title>Jelajah Mitos</title>
 </programme>
-<programme start="20260121180000 +0000" stop="20260121203000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<programme start="20260121180000 +0000" stop="20260121190000 +0000" channel="GTV.vision">
+<title>Crime KV</title>
 </programme>
-<programme start="20260121203000 +0000" stop="20260121213000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<programme start="20260121190000 +0000" stop="20260121200000 +0000" channel="GTV.vision">
+<title>Naik Enak Turun Ogah</title>
 </programme>
-<programme start="20260121213000 +0000" stop="20260121230000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<programme start="20260121200000 +0000" stop="20260121220000 +0000" channel="GTV.vision">
+<title>Awas Ada Sule</title>
 </programme>
-<programme start="20260121230000 +0000" stop="20260122003000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<programme start="20260121220000 +0000" stop="20260121230000 +0000" channel="GTV.vision">
+<title>Kisah Viral</title>
 </programme>
-<programme start="20260122003000 +0000" stop="20260122013000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<programme start="20260121230000 +0000" stop="20260122000000 +0000" channel="GTV.vision">
+<title>SpongeBob SquarePants</title>
+</programme>
+<programme start="20260122000000 +0000" stop="20260122010000 +0000" channel="GTV.vision">
+<title>Obrolan Seputar Selebriti (GTV)</title>
+</programme>
+<programme start="20260122010000 +0000" stop="20260122013000 +0000" channel="GTV.vision">
+<title>Buletin iNews Pagi</title>
 </programme>
 <programme start="20260122013000 +0000" stop="20260122020000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<title>CoComelon Dan Sahabat</title>
 </programme>
-<programme start="20260122020000 +0000" stop="20260122040000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<programme start="20260122020000 +0000" stop="20260122023000 +0000" channel="GTV.vision">
+<title>Bernard Bear</title>
 </programme>
-<programme start="20260122040000 +0000" stop="20260122070000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<programme start="20260122023000 +0000" stop="20260122050000 +0000" channel="GTV.vision">
+<title>Spongebob Squarepants (GTV)</title>
 </programme>
-<programme start="20260122070000 +0000" stop="20260122080000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<programme start="20260122050000 +0000" stop="20260122073000 +0000" channel="GTV.vision">
+<title>SpongeBob SquarePants</title>
 </programme>
-<programme start="20260122080000 +0000" stop="20260122090000 +0000" channel="GTV.vision">
-<title>GTV</title>
-</programme>
-<programme start="20260122090000 +0000" stop="20260122093000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<programme start="20260122073000 +0000" stop="20260122093000 +0000" channel="GTV.vision">
+<title>SpongeBob SquarePants</title>
 </programme>
 <programme start="20260122093000 +0000" stop="20260122110000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<title>SpongeBob SquarePants</title>
 </programme>
-<programme start="20260122110000 +0000" stop="20260122111500 +0000" channel="GTV.vision">
-<title>GTV</title>
-</programme>
-<programme start="20260122111500 +0000" stop="20260122123000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<programme start="20260122110000 +0000" stop="20260122130000 +0000" channel="GTV.vision">
+<title>Special Police &amp; Snake Revenge</title>
 </programme>
 <programme start="20260121000000 +0000" stop="20260121010000 +0000" channel="iNews.vision">
 <title>Morning Update</title>
@@ -616,9 +616,6 @@
 <programme start="20260121010000 +0000" stop="20260121023000 +0000" channel="ANTV.vision">
 <title>Baalveer Returns</title>
 </programme>
-<programme start="20260121023000 +0000" stop="20260121060000 +0000" channel="ANTV.vision">
-<title>Chal Mere</title>
-</programme>
 <programme start="20260121060000 +0000" stop="20260121083000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -627,9 +624,6 @@
 </programme>
 <programme start="20260121114500 +0000" stop="20260121133000 +0000" channel="ANTV.vision">
 <title>Senandung Cinta Lilis</title>
-</programme>
-<programme start="20260121133000 +0000" stop="20260121150000 +0000" channel="ANTV.vision">
-<title>Nyi Ageng Ratu Pemikat</title>
 </programme>
 <programme start="20260121150000 +0000" stop="20260121170000 +0000" channel="ANTV.vision">
 <title>Depan Bisa Belakang Bisa</title>
@@ -1496,5 +1490,11 @@
 <title>DAAI TV</title>
 </programme>
 <programme start="20260122000000 +0000" stop="20260122030000 +0000" channel="DAAI TV.vision">
+<title>DAAI TV</title>
+</programme>
+<programme start="20260122030000 +0000" stop="20260122060000 +0000" channel="DAAI TV.vision">
+<title>DAAI TV</title>
+</programme>
+<programme start="20260122060000 +0000" stop="20260122090000 +0000" channel="DAAI TV.vision">
 <title>DAAI TV</title>
 </programme>
