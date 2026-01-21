@@ -625,6 +625,9 @@
 <programme start="20260121114500 +0000" stop="20260121133000 +0000" channel="ANTV.vision">
 <title>Senandung Cinta Lilis</title>
 </programme>
+<programme start="20260121133000 +0000" stop="20260121150000 +0000" channel="ANTV.vision">
+<title>Nyi Ageng Ratu Pemikat</title>
+</programme>
 <programme start="20260121150000 +0000" stop="20260121170000 +0000" channel="ANTV.vision">
 <title>Depan Bisa Belakang Bisa</title>
 </programme>
@@ -1493,8 +1496,5 @@
 <title>DAAI TV</title>
 </programme>
 <programme start="20260122030000 +0000" stop="20260122060000 +0000" channel="DAAI TV.vision">
-<title>DAAI TV</title>
-</programme>
-<programme start="20260122060000 +0000" stop="20260122090000 +0000" channel="DAAI TV.vision">
 <title>DAAI TV</title>
 </programme>
