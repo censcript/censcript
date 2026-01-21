@@ -1501,6 +1501,9 @@
     <programme start="20260121153500 +0000" stop="20260121160500 +0000" channel="Lifetime HD.starhub">
         <title>Food to Die For</title>
     </programme>
+    <programme start="20260120140000 +0000" stop="20260120170000 +0000" channel="COLORS Tamil HD.starhub">
+        <title>Raj Bahaddur</title>
+    </programme>
     <programme start="20260120170000 +0000" stop="20260120173000 +0000" channel="COLORS Tamil HD.starhub">
         <title>Shiva Shakthi Thiruvilayadal</title>
     </programme>
