@@ -2834,7 +2834,7 @@
     <title>DW News</title>
 </programme>
 <programme start="20260122101500 +0000" stop="20260122110000 +0000" channel="DW English.mncvision">
-    <title>DocFilm</title>
+    <title>Conflict Zone: Special Edition</title>
 </programme>
 <programme start="20260122110000 +0000" stop="20260122111500 +0000" channel="DW English.mncvision">
     <title>DW News</title>
