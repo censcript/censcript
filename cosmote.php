@@ -114,6 +114,10 @@
     <title>Football: SS Lazio - Como</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260123161500 +0700" stop="20260123181500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Pisa - Atalanta</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260122150000 +0700" stop="20260122170000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Tondela - SC Braga</title>
     <desc>Live: Tidak</desc>
@@ -226,10 +230,6 @@
     <title>Basketball: Erokspor - Anadolu Efes</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260122150000 +0700" stop="20260122160000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260122160000 +0700" stop="20260122165000 +0700" channel="COSMOTE Sport 5 HD">
     <title>DTM</title>
     <desc>Live: Tidak</desc>
@@ -322,9 +322,9 @@
     <title>Sports Classics: Gearing Up 2024 E12</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260122125500 +0700" stop="20260122153000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>2025 Premier Padel Tour Finals</title>
-    <desc>Live: Tidak</desc>
+<programme start="20260123163000 +0700" stop="20260123172500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC 2026 (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260122153000 +0700" stop="20260122170500 +0700" channel="COSMOTE Sport 6 HD">
     <title>OPAP Padel Series Tournament Padel Place Marousi</title>
