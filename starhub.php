@@ -3122,22 +3122,22 @@
         <title>News</title>
     </programme>
     <programme start="20260121161500 +0000" stop="20260121170000 +0000" channel="DW English HD.starhub">
-        <title>Charlotte Knobloch-A Childhood in Hiding</title>
+        <title>Charlotte Knobloch - A Childhood in Hiding</title>
     </programme>
     <programme start="20260121170000 +0000" stop="20260121171500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20260121171500 +0000" stop="20260121173000 +0000" channel="DW English HD.starhub">
-        <title>The controversial ingredient the world can&#039;t quit</title>
+        <title>Interview: Rebeca Grynspan. New possible trade war overshadows WEF</title>
     </programme>
     <programme start="20260121173000 +0000" stop="20260121180000 +0000" channel="DW English HD.starhub">
-        <title>Greenland-Between Denmark and Trump</title>
+        <title>Greenland - Between Denmark and Trump</title>
     </programme>
     <programme start="20260121180000 +0000" stop="20260121183000 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20260121183000 +0000" stop="20260121190000 +0000" channel="DW English HD.starhub">
-        <title>Urban Foraging-Fresh, Tasty and Free</title>
+        <title>Urban Foraging - Fresh, Tasty and Free</title>
     </programme>
     <programme start="20260121190000 +0000" stop="20260121190200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3158,10 +3158,10 @@
         <title>News</title>
     </programme>
     <programme start="20260121210200 +0000" stop="20260121211500 +0000" channel="DW English HD.starhub">
-        <title>The controversial ingredient the world can&#039;t quit</title>
+        <title>Interview: Rebeca Grynspan. New possible trade war overshadows WEF</title>
     </programme>
     <programme start="20260121211500 +0000" stop="20260121220000 +0000" channel="DW English HD.starhub">
-        <title>Charlotte Knobloch-A Childhood in Hiding</title>
+        <title>Charlotte Knobloch - A Childhood in Hiding</title>
     </programme>
     <programme start="20260121220000 +0000" stop="20260121220200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3170,13 +3170,13 @@
         <title>News in Review</title>
     </programme>
     <programme start="20260121223000 +0000" stop="20260121230000 +0000" channel="DW English HD.starhub">
-        <title>From farming to fintech:new challenges and alternatives</title>
+        <title>From farming to fintech: new challenges and alternatives</title>
     </programme>
     <programme start="20260121230000 +0000" stop="20260121231500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20260121231500 +0000" stop="20260121233000 +0000" channel="DW English HD.starhub">
-        <title>The controversial ingredient the world can&#039;t quit</title>
+        <title>Interview: Rebeca Grynspan. New possible trade war overshadows WEF</title>
     </programme>
     <programme start="20260121233000 +0000" stop="20260122000000 +0000" channel="DW English HD.starhub">
         <title>Spotlight on People</title>
@@ -4577,27 +4577,39 @@
         <title>NAWAITU SURGA 2022</title>
     </programme>
     <programme start="20260121160000 +0000" stop="20260121163000 +0000" channel="Vijay TV HD.starhub">
-        <title>Pandian Stores Thanthai Sol Mikka Mandhi</title>
+        <title>Pandian Stores Thanthai Sol Mikka Mandhiram Illai</title>
+    </programme>
+    <programme start="20260121163000 +0000" stop="20260121170000 +0000" channel="Vijay TV HD.starhub">
+        <title>Ayyanar Thunai</title>
+    </programme>
+    <programme start="20260121170000 +0000" stop="20260121180000 +0000" channel="Vijay TV HD.starhub">
+        <title>Siragadikka Aasai</title>
     </programme>
     <programme start="20260121180000 +0000" stop="20260121183000 +0000" channel="Vijay TV HD.starhub">
         <title>Kana Kandenadi</title>
     </programme>
     <programme start="20260121183000 +0000" stop="20260121200000 +0000" channel="Vijay TV HD.starhub">
-        <title>Andakakasam S04</title>
+        <title>Anda Ka Kasam</title>
     </programme>
     <programme start="20260121200000 +0000" stop="20260121203000 +0000" channel="Vijay TV HD.starhub">
-        <title>Sakthivel - Theeyaai Oru Theeraakkaadhal</title>
+        <title>Sakthivel: Theeyaai Oru Theeraakkaadhal</title>
+    </programme>
+    <programme start="20260121203000 +0000" stop="20260121210000 +0000" channel="Vijay TV HD.starhub">
+        <title>Kanmani Anbudan</title>
     </programme>
     <programme start="20260121210000 +0000" stop="20260121213000 +0000" channel="Vijay TV HD.starhub">
         <title>Thendrale Mella Pesu</title>
     </programme>
     <programme start="20260121213000 +0000" stop="20260121220000 +0000" channel="Vijay TV HD.starhub">
-        <title>Suttum Vizhi Sudare - Oru Chinanjiru Kuyilin Kadhai</title>
+        <title>Suttum Vizhi Sudare Oru Chinanjiru Kuyilin Kadhai</title>
     </programme>
     <programme start="20260121220000 +0000" stop="20260121223000 +0000" channel="Vijay TV HD.starhub">
         <title>Dhanam - Ungalil Oruthi</title>
     </programme>
-    <programme start="20260121230000 +0000" stop="20260121233000 +0000" channel="Vijay TV HD.starhub">
+    <programme start="20260121223000 +0000" stop="20260121230000 +0000" channel="Vijay TV HD.starhub">
+        <title>Ayyanar Thunai</title>
+    </programme>
+    <programme start="20260121230000 +0000" stop="20260121233100 +0000" channel="Vijay TV HD.starhub">
         <title>Magale En Marumagale</title>
     </programme>
     <programme start="20260121233100 +0000" stop="20260122000000 +0000" channel="Vijay TV HD.starhub">

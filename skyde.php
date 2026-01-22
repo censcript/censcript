@@ -2659,7 +2659,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260122173500 +0000" stop="20260122195000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live UEFA EL: FC Bologna - Celtic Glasgow, Ligaphase, 7. Spieltag, Donnerstag</title>
 </programme>
-<programme start="20260122195000 +0000" stop="20260122220000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+<programme start="20260122195000 +0000" stop="20260122223000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live UEFA EL: SC Braga - Nottingham Forest, Ligaphase, 7. Spieltag, Donnerstag</title>
 </programme>
 <programme start="20260122171500 +0000" stop="20260122173500 +0000" channel="Sky Sport Austria 5 HD.skyde">
@@ -2668,7 +2668,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260122173500 +0000" stop="20260122195000 +0000" channel="Sky Sport Austria 5 HD.skyde">
     <title>Live UEFA EL: Young Boys Bern - Olympique Lyon, Ligaphase, 7. Spieltag, Donnerstag</title>
 </programme>
-<programme start="20260122195000 +0000" stop="20260122220000 +0000" channel="Sky Sport Austria 5 HD.skyde">
+<programme start="20260122195000 +0000" stop="20260122223000 +0000" channel="Sky Sport Austria 5 HD.skyde">
     <title>Live UEFA EL: Celta Vigo - LOSC Lille, Ligaphase, 7. Spieltag, Donnerstag</title>
 </programme>
 <programme start="20260122171500 +0000" stop="20260122173500 +0000" channel="Sky Sport Austria 6 HD.skyde">
@@ -2677,7 +2677,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260122173500 +0000" stop="20260122195000 +0000" channel="Sky Sport Austria 6 HD.skyde">
     <title>Live UEFA EL: PAOK Saloniki - Betis Sevilla, Ligaphase, 7. Spieltag, Donnerstag</title>
 </programme>
-<programme start="20260122195000 +0000" stop="20260122220000 +0000" channel="Sky Sport Austria 6 HD.skyde">
+<programme start="20260122195000 +0000" stop="20260122223000 +0000" channel="Sky Sport Austria 6 HD.skyde">
     <title>Live UEFA EL: FC Utrecht - KRC Genk, Ligaphase, 7. Spieltag, Donnerstag</title>
 </programme>
 <programme start="20260122171500 +0000" stop="20260122173500 +0000" channel="Sky Sport Austria 7 HD.skyde">
@@ -2686,7 +2686,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260122173500 +0000" stop="20260122195000 +0000" channel="Sky Sport Austria 7 HD.skyde">
     <title>Live UEFA EL: Malmö FF - Roter Stern Belgrad, Ligaphase, 7. Spieltag, Donnerstag</title>
 </programme>
-<programme start="20260122195000 +0000" stop="20260122220000 +0000" channel="Sky Sport Austria 7 HD.skyde">
+<programme start="20260122195000 +0000" stop="20260122223000 +0000" channel="Sky Sport Austria 7 HD.skyde">
     <title>Live UEFA EL: Ferencvaros Budapest - Panathinaikos Athen, Ligaphase, 7. Spieltag, Donnerstag</title>
 </programme>
 <programme start="20260122171500 +0000" stop="20260122173500 +0000" channel="Sky Sport Austria 8 HD.skyde">
@@ -2695,7 +2695,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260122173500 +0000" stop="20260122195000 +0000" channel="Sky Sport Austria 8 HD.skyde">
     <title>Live UEFA EL: SC Freiburg - Maccabi Tel-Aviv, Ligaphase, 7. Spieltag, Donnerstag</title>
 </programme>
-<programme start="20260122195000 +0000" stop="20260122220000 +0000" channel="Sky Sport Austria 8 HD.skyde">
+<programme start="20260122195000 +0000" stop="20260122223000 +0000" channel="Sky Sport Austria 8 HD.skyde">
     <title>Live UEFA EL: Dinamo Zagreb - FCSB, Ligaphase, 7. Spieltag, Donnerstag</title>
 </programme>
 <programme start="20260121230000 +0000" stop="20260121233000 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -3793,10 +3793,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260122042500 +0000" stop="20260122043500 +0000" channel="Warner TV Serie HD.skyde">
     <title>NTSF:SD:SUV::</title>
 </programme>
-<programme start="20260122043500 +0000" stop="20260122053000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260122043500 +0000" stop="20260122052500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Daktari</title>
 </programme>
-<programme start="20260122053000 +0000" stop="20260122062500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260122052500 +0000" stop="20260122062500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Daktari</title>
 </programme>
 <programme start="20260122062500 +0000" stop="20260122071500 +0000" channel="Warner TV Serie HD.skyde">
@@ -3838,10 +3838,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260122161000 +0000" stop="20260122165500 +0000" channel="Warner TV Serie HD.skyde">
     <title>NCIS</title>
 </programme>
-<programme start="20260122165500 +0000" stop="20260122174000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260122165500 +0000" stop="20260122174500 +0000" channel="Warner TV Serie HD.skyde">
     <title>NCIS</title>
 </programme>
-<programme start="20260122174000 +0000" stop="20260122183000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260122174500 +0000" stop="20260122183000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Rizzoli and Isles</title>
 </programme>
 <programme start="20260122183000 +0000" stop="20260122191500 +0000" channel="Warner TV Serie HD.skyde">
