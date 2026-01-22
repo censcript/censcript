@@ -122,14 +122,6 @@
     <title>Football: FC Salzburg - FC Basel 1893</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260122193000 +0700" stop="20260122213000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Stoke City - Middlesbrough</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260122213000 +0700" stop="20260122220000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>William Hill Scottish Premiership - Highlights</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260122220000 +0700" stop="20260122223000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Emirates FA Cup 2025-26 - Highlights</title>
     <desc>Live: Tidak</desc>
@@ -180,14 +172,6 @@
 </programme>
 <programme start="20260123210000 +0700" stop="20260123230000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: SK Brann - FC Midtjylland</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260122194000 +0700" stop="20260122214000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Burgos - Barcelona</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260122214000 +0700" stop="20260122220000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>ACB Liga Endesa 2025-26 - Fifth Quarter E15</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260122220000 +0700" stop="20260123001500 +0700" channel="COSMOTE Sport 4 HD">
@@ -246,12 +230,12 @@
     <title>ACB Liga Endesa 2025-26 - Fifth Quarter E12</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260122203000 +0700" stop="20260122213000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC</title>
+<programme start="20260123220500 +0700" stop="20260123222500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>ACB Liga Endesa 2025-26 - Fifth Quarter E15</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260122213000 +0700" stop="20260122220000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC Magazine 2025</title>
+<programme start="20260123222500 +0700" stop="20260124002500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Burgos - Barcelona</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260122220000 +0700" stop="20260122230500 +0700" channel="COSMOTE Sport 5 HD">
@@ -348,6 +332,14 @@
 </programme>
 <programme start="20260123210500 +0700" stop="20260123220500 +0700" channel="COSMOTE Sport 5 HD">
     <title>WRC 2026</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260123220500 +0700" stop="20260123225500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC 2026</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260123225500 +0700" stop="20260124000500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>2025 FIM Women&#039;s Circuit Racing World Championship</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260122193500 +0700" stop="20260122220500 +0700" channel="COSMOTE Sport 6 HD">
