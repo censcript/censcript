@@ -412,17 +412,17 @@
 <programme start="20260122060000 +0000" stop="20260122083000 +0000" channel="ANTV.mncvision">
     <title>Jhanak</title>
 </programme>
-<programme start="20260122083000 +0000" stop="20260122114500 +0000" channel="ANTV.mncvision">
+<programme start="20260122083000 +0000" stop="20260122124500 +0000" channel="ANTV.mncvision">
     <title>Vasudha</title>
 </programme>
-<programme start="20260122114500 +0000" stop="20260122133000 +0000" channel="ANTV.mncvision">
-    <title>Senandung Cinta Lilis</title>
-</programme>
-<programme start="20260122133000 +0000" stop="20260122150000 +0000" channel="ANTV.mncvision">
+<programme start="20260122124500 +0000" stop="20260122141500 +0000" channel="ANTV.mncvision">
     <title>Santet 1: Pelebur Nyawa</title>
 </programme>
-<programme start="20260122150000 +0000" stop="20260122153000 +0000" channel="ANTV.mncvision">
+<programme start="20260122141500 +0000" stop="20260122160000 +0000" channel="ANTV.mncvision">
     <title>Primitif</title>
+</programme>
+<programme start="20260122160000 +0000" stop="20260122163000 +0000" channel="ANTV.mncvision">
+    <title>Menumpas Kejahatan</title>
 </programme>
 <programme start="20260121170000 +0000" stop="20260121173000 +0000" channel="Arirang.mncvision">
     <title>K-Culture Dive</title>
@@ -2804,7 +2804,7 @@
     <title>DW News</title>
 </programme>
 <programme start="20260122061500 +0000" stop="20260122063000 +0000" channel="DW English.mncvision">
-    <title>Transforming Business</title>
+    <title>Interview: Rebeca Grynspan</title>
 </programme>
 <programme start="20260122063000 +0000" stop="20260122070000 +0000" channel="DW English.mncvision">
     <title>DocFilm</title>
@@ -2813,7 +2813,7 @@
     <title>DW News</title>
 </programme>
 <programme start="20260122071500 +0000" stop="20260122080000 +0000" channel="DW English.mncvision">
-    <title>DocFilm</title>
+    <title>Conflict Zone</title>
 </programme>
 <programme start="20260122080000 +0000" stop="20260122081500 +0000" channel="DW English.mncvision">
     <title>DW News</title>
@@ -2821,14 +2821,14 @@
 <programme start="20260122081500 +0000" stop="20260122083000 +0000" channel="DW English.mncvision">
     <title>HER: Women In Asia</title>
 </programme>
-<programme start="20260122083000 +0000" stop="20260122090000 +0000" channel="DW English.mncvision">
-    <title>Focus On Europe: Spotlight</title>
-</programme>
-<programme start="20260122090000 +0000" stop="20260122091500 +0000" channel="DW English.mncvision">
+<programme start="20260122083000 +0000" stop="20260122091500 +0000" channel="DW English.mncvision">
     <title>DW News</title>
 </programme>
-<programme start="20260122091500 +0000" stop="20260122100000 +0000" channel="DW English.mncvision">
-    <title>DocFilm</title>
+<programme start="20260122091500 +0000" stop="20260122093000 +0000" channel="DW English.mncvision">
+    <title>Interview: Rebeca Grynspan</title>
+</programme>
+<programme start="20260122093000 +0000" stop="20260122100000 +0000" channel="DW English.mncvision">
+    <title>Focus On Europe: Spotlight</title>
 </programme>
 <programme start="20260122100000 +0000" stop="20260122101500 +0000" channel="DW English.mncvision">
     <title>DW News</title>
@@ -3434,7 +3434,7 @@
     <title>Gutfeld!</title>
 </programme>
 <programme start="20260122090000 +0000" stop="20260122100000 +0000" channel="FOX News.mncvision">
-    <title>The Ingraham Angle</title>
+    <title>The President In Davos</title>
 </programme>
 <programme start="20260122100000 +0000" stop="20260122110000 +0000" channel="FOX News.mncvision">
     <title>Fox &amp; Friends First</title>
@@ -4633,19 +4633,13 @@
 <programme start="20260122021500 +0000" stop="20260122040000 +0000" channel="iNews.mncvision">
     <title>iNews Today (L)</title>
 </programme>
-<programme start="20260122040000 +0000" stop="20260122060000 +0000" channel="iNews.mncvision">
+<programme start="20260122040000 +0000" stop="20260122050000 +0000" channel="iNews.mncvision">
     <title>iNews Siang (L)</title>
 </programme>
-<programme start="20260122060000 +0000" stop="20260122063000 +0000" channel="iNews.mncvision">
-    <title>Pemimpin Rakyat (L)</title>
-</programme>
-<programme start="20260122063000 +0000" stop="20260122070000 +0000" channel="iNews.mncvision">
-    <title>iSeleb (L)</title>
-</programme>
-<programme start="20260122070000 +0000" stop="20260122113000 +0000" channel="iNews.mncvision">
+<programme start="20260122050000 +0000" stop="20260122100000 +0000" channel="iNews.mncvision">
     <title>Daihatsu IDN Masters 2026 (L)</title>
 </programme>
-<programme start="20260122113000 +0000" stop="20260122120000 +0000" channel="iNews.mncvision">
+<programme start="20260122100000 +0000" stop="20260122120000 +0000" channel="iNews.mncvision">
     <title>iNews Sore (L)</title>
 </programme>
 <programme start="20260122120000 +0000" stop="20260122120500 +0000" channel="iNews.mncvision">
@@ -4711,19 +4705,13 @@
 <programme start="20260122021500 +0000" stop="20260122040000 +0000" channel="iNews HD.mncvision">
     <title>iNews Today (L)</title>
 </programme>
-<programme start="20260122040000 +0000" stop="20260122060000 +0000" channel="iNews HD.mncvision">
+<programme start="20260122040000 +0000" stop="20260122050000 +0000" channel="iNews HD.mncvision">
     <title>iNews Siang (L)</title>
 </programme>
-<programme start="20260122060000 +0000" stop="20260122063000 +0000" channel="iNews HD.mncvision">
-    <title>Pemimpin Rakyat (L)</title>
-</programme>
-<programme start="20260122063000 +0000" stop="20260122070000 +0000" channel="iNews HD.mncvision">
-    <title>iSeleb (L)</title>
-</programme>
-<programme start="20260122070000 +0000" stop="20260122113000 +0000" channel="iNews HD.mncvision">
+<programme start="20260122050000 +0000" stop="20260122100000 +0000" channel="iNews HD.mncvision">
     <title>Daihatsu IDN Masters 2026 (L)</title>
 </programme>
-<programme start="20260122113000 +0000" stop="20260122120000 +0000" channel="iNews HD.mncvision">
+<programme start="20260122100000 +0000" stop="20260122120000 +0000" channel="iNews HD.mncvision">
     <title>iNews Sore (L)</title>
 </programme>
 <programme start="20260122120000 +0000" stop="20260122120500 +0000" channel="iNews HD.mncvision">
