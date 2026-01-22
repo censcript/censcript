@@ -54,10 +54,6 @@
     <title>Football: Bologna - Celtic FC</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260122100500 +0700" stop="20260122120000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Cremonese - Hellas Verona</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260122120000 +0700" stop="20260122141000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Panetolikos - Levadiakos</title>
     <desc>Live: Tidak</desc>
@@ -112,6 +108,10 @@
 </programme>
 <programme start="20260123100000 +0700" stop="20260123120000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Pisa - Atalanta</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260123120000 +0700" stop="20260123141500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: AEL Novibet - Aris</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260122110000 +0700" stop="20260122130000 +0700" channel="COSMOTE Sport 3 HD">
@@ -230,10 +230,6 @@
     <title>Basketball: Bertram Derthona Tortona - Armani Milano</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260122110000 +0700" stop="20260122120000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Red Bull MotoGP Rookies Cup 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260122120000 +0700" stop="20260122130000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Red Bull MotoGP Rookies Cup 2025</title>
     <desc>Live: Tidak</desc>
@@ -324,6 +320,10 @@
 </programme>
 <programme start="20260123114000 +0700" stop="20260123123000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Moto-E World Championship 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260123123000 +0700" stop="20260123130000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Extreme E - Highlights 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260122110000 +0700" stop="20260122125500 +0700" channel="COSMOTE Sport 6 HD">
