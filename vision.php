@@ -220,22 +220,34 @@
 <programme start="20260123110000 +0000" stop="20260123123000 +0000" channel="GTV.vision">
 <title>New Family 100 (GTV)</title>
 </programme>
-<programme start="20260122000000 +0000" stop="20260122010000 +0000" channel="iNews.vision">
+<programme start="20260122000000 +0000" stop="20260122000500 +0000" channel="iNews.vision">
+<title>iNews Terkini (L)</title>
+</programme>
+<programme start="20260122000500 +0000" stop="20260122003000 +0000" channel="iNews.vision">
+<title>Special Report</title>
+</programme>
+<programme start="20260122003000 +0000" stop="20260122010000 +0000" channel="iNews.vision">
 <title>Morning Update</title>
 </programme>
-<programme start="20260122010000 +0000" stop="20260122020000 +0000" channel="iNews.vision">
+<programme start="20260122010000 +0000" stop="20260122021500 +0000" channel="iNews.vision">
 <title>Lapor Polisi (L)</title>
 </programme>
-<programme start="20260122020000 +0000" stop="20260122064500 +0000" channel="iNews.vision">
-<title>iNews</title>
+<programme start="20260122021500 +0000" stop="20260122040000 +0000" channel="iNews.vision">
+<title>iNews Today (L)</title>
+</programme>
+<programme start="20260122040000 +0000" stop="20260122050000 +0000" channel="iNews.vision">
+<title>iNews Siang (L)</title>
 </programme>
 <programme start="20260122064500 +0000" stop="20260122113000 +0000" channel="iNews.vision">
 <title>iNews</title>
 </programme>
-<programme start="20260122113000 +0000" stop="20260122120000 +0000" channel="iNews.vision">
+<programme start="20260122100000 +0000" stop="20260122120000 +0000" channel="iNews.vision">
 <title>Inews Sore (Live)</title>
 </programme>
-<programme start="20260122120000 +0000" stop="20260122130000 +0000" channel="iNews.vision">
+<programme start="20260122120000 +0000" stop="20260122120500 +0000" channel="iNews.vision">
+<title>iNews Terkini (L)</title>
+</programme>
+<programme start="20260122120500 +0000" stop="20260122130000 +0000" channel="iNews.vision">
 <title>iNews Room (L)</title>
 </programme>
 <programme start="20260122130000 +0000" stop="20260122140000 +0000" channel="iNews.vision">
@@ -250,16 +262,13 @@
 <programme start="20260122160000 +0000" stop="20260122163000 +0000" channel="iNews.vision">
 <title>iNews Sport (L)</title>
 </programme>
-<programme start="20260122163000 +0000" stop="20260122170000 +0000" channel="iNews.vision">
-<title>New Top Files</title>
+<programme start="20260122163000 +0000" stop="20260122181500 +0000" channel="iNews.vision">
+<title>Indonesia Masters</title>
 </programme>
-<programme start="20260122170000 +0000" stop="20260122180000 +0000" channel="iNews.vision">
-<title>Realita</title>
-</programme>
-<programme start="20260122180000 +0000" stop="20260122184500 +0000" channel="iNews.vision">
+<programme start="20260122181500 +0000" stop="20260122190000 +0000" channel="iNews.vision">
 <title>iNews Room</title>
 </programme>
-<programme start="20260122184500 +0000" stop="20260122194500 +0000" channel="iNews.vision">
+<programme start="20260122190000 +0000" stop="20260122194500 +0000" channel="iNews.vision">
 <title>iNews Sore</title>
 </programme>
 <programme start="20260122194500 +0000" stop="20260122201500 +0000" channel="iNews.vision">
@@ -281,9 +290,15 @@
 <title>iNews Sport Pagi (L)</title>
 </programme>
 <programme start="20260122233000 +0000" stop="20260123000000 +0000" channel="iNews.vision">
+<title>iBreak: The One Entrepreneur</title>
+</programme>
+<programme start="20260123000000 +0000" stop="20260123001000 +0000" channel="iNews.vision">
+<title>iNews Terkini (L)</title>
+</programme>
+<programme start="20260123001000 +0000" stop="20260123003000 +0000" channel="iNews.vision">
 <title>Special Report</title>
 </programme>
-<programme start="20260123000000 +0000" stop="20260123010000 +0000" channel="iNews.vision">
+<programme start="20260123003000 +0000" stop="20260123010000 +0000" channel="iNews.vision">
 <title>Morning Update</title>
 </programme>
 <programme start="20260123010000 +0000" stop="20260123021500 +0000" channel="iNews.vision">
@@ -298,10 +313,16 @@
 <programme start="20260123060000 +0000" stop="20260123063000 +0000" channel="iNews.vision">
 <title>Pemimpin Rakyat (iNews)</title>
 </programme>
-<programme start="20260123063000 +0000" stop="20260123104500 +0000" channel="iNews.vision">
-<title>iNews</title>
+<programme start="20260123063000 +0000" stop="20260123080000 +0000" channel="iNews.vision">
+<title>iSeleb (L)</title>
 </programme>
-<programme start="20260123104500 +0000" stop="20260123150000 +0000" channel="iNews.vision">
+<programme start="20260123080000 +0000" stop="20260123080500 +0000" channel="iNews.vision">
+<title>iNews Terkini (L)</title>
+</programme>
+<programme start="20260123080500 +0000" stop="20260123093000 +0000" channel="iNews.vision">
+<title>Realita (L)</title>
+</programme>
+<programme start="20260123093000 +0000" stop="20260123121500 +0000" channel="iNews.vision">
 <title>iNews</title>
 </programme>
 <programme start="20260122000000 +0000" stop="20260122003000 +0000" channel="SindoNews.vision">
@@ -1475,26 +1496,5 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260122210000 +0000" stop="20260122230000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260122230000 +0000" stop="20260123010000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260123010000 +0000" stop="20260123030000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260123030000 +0000" stop="20260123050000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260123050000 +0000" stop="20260123070000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260123070000 +0000" stop="20260123090000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260123090000 +0000" stop="20260123110000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260123110000 +0000" stop="20260123130000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>

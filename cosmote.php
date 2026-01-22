@@ -114,6 +114,10 @@
     <title>Football: AEL Novibet - Aris</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260123141500 +0700" stop="20260123161500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: SS Lazio - Como</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260122130000 +0700" stop="20260122150000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Wrexham  - Leicester City FC</title>
     <desc>Live: Tidak</desc>
@@ -224,14 +228,6 @@
 </programme>
 <programme start="20260123130000 +0700" stop="20260123150000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Real Madrid - Valencia Basket Club</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260122130000 +0700" stop="20260122133000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Extreme E - Highlights 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260122133000 +0700" stop="20260122140000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Extreme E - Highlights 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260122140000 +0700" stop="20260122150000 +0700" channel="COSMOTE Sport 5 HD">
