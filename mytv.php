@@ -11,7 +11,7 @@
         <title> Giai điệu kết nối </title>
     </programme>
     <programme start="20260122021000 +0000" stop="20260122030000 +0000" channel="VTV1 HD.mytv">
-        <title> Thể thao </title>
+        <title> Thể thao : Tạp chí thể thao thế giới </title>
     </programme>
     <programme start="20260122030000 +0000" stop="20260122033000 +0000" channel="VTV1 HD.mytv">
         <title> Từ những miền quê : Ngôi làng càng nắng càng thơm </title>
@@ -124,47 +124,41 @@
     <programme start="20260122190000 +0000" stop="20260122200000 +0000" channel="VTV1 HD.mytv">
         <title> Thời sự </title>
     </programme>
-    <programme start="20260122200000 +0000" stop="20260122204000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260122200000 +0000" stop="20260122210500 +0000" channel="VTV1 HD.mytv">
         <title> Thời tiết - Thể thao 24/7 </title>
     </programme>
-    <programme start="20260122204000 +0000" stop="20260122205500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260122210500 +0000" stop="20260122211000 +0000" channel="VTV1 HD.mytv">
         <title> Điểm tin </title>
     </programme>
-    <programme start="20260122205500 +0000" stop="20260122210500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260122211000 +0000" stop="20260122212000 +0000" channel="VTV1 HD.mytv">
         <title> Việt Nam vui khỏe </title>
     </programme>
-    <programme start="20260122210500 +0000" stop="20260122211000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260122212000 +0000" stop="20260122212500 +0000" channel="VTV1 HD.mytv">
         <title> Phim tài liệu : Trần Quốc Hoàn - Người cộng sản kiên trung, mẫu mực </title>
     </programme>
-    <programme start="20260122211000 +0000" stop="20260122213000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260122212500 +0000" stop="20260122220000 +0000" channel="VTV1 HD.mytv">
         <title> Hitech công nghệ tương lai </title>
     </programme>
-    <programme start="20260122213000 +0000" stop="20260122215500 +0000" channel="VTV1 HD.mytv">
-        <title> Hồ sơ công tố-Kiểm sát : Từ Nghị quyết đến hành động </title>
+    <programme start="20260122220000 +0000" stop="20260122222000 +0000" channel="VTV1 HD.mytv">
+        <title> Hồ sơ công tố-Kiểm sát </title>
     </programme>
-    <programme start="20260122215500 +0000" stop="20260122220000 +0000" channel="VTV1 HD.mytv">
-        <title> Phim tài liệu : Tư duy mới - Cách làm đột phá </title>
-    </programme>
-    <programme start="20260122220000 +0000" stop="20260122224000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260122222000 +0000" stop="20260122223000 +0000" channel="VTV1 HD.mytv">
         <title> Tài chính - Kinh doanh </title>
     </programme>
-    <programme start="20260122224000 +0000" stop="20260122230000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260122223000 +0000" stop="20260122225500 +0000" channel="VTV1 HD.mytv">
         <title> Kiến tạo tương lai xanh </title>
     </programme>
-    <programme start="20260122230000 +0000" stop="20260122230500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260122225500 +0000" stop="20260122230000 +0000" channel="VTV1 HD.mytv">
         <title> Vấn đề hôm nay </title>
     </programme>
-    <programme start="20260122230500 +0000" stop="20260122232000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260122230000 +0000" stop="20260122231500 +0000" channel="VTV1 HD.mytv">
         <title> Thế giới hôm nay </title>
     </programme>
-    <programme start="20260122232000 +0000" stop="20260122233500 +0000" channel="VTV1 HD.mytv">
-        <title> VTV kết nối </title>
-    </programme>
-    <programme start="20260122233500 +0000" stop="20260122234500 +0000" channel="VTV1 HD.mytv">
-        <title> Học và làm theo Bác : Học Bác vì nhân dân phục vụ </title>
-    </programme>
-    <programme start="20260122234500 +0000" stop="20260123000000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260122231500 +0000" stop="20260122233000 +0000" channel="VTV1 HD.mytv">
         <title> Bản tin </title>
+    </programme>
+    <programme start="20260122233000 +0000" stop="20260123000000 +0000" channel="VTV1 HD.mytv">
+        <title> Học và làm theo Bác : Học Bác vì nhân dân phục vụ </title>
     </programme>
     <programme start="20260123000000 +0000" stop="20260123001500 +0000" channel="VTV1 HD.mytv">
         <title> Giai điệu kết nối</title>

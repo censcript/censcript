@@ -62,6 +62,10 @@
     <title>UEFA Champions League Highlights 2025-26</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260124053000 +0700" stop="20260124060000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Game R1 S6 E22</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260123030000 +0700" stop="20260123050500 +0700" channel="COSMOTE Sport 2 HD">
     <title>European Football Show Greek Edition 2025-26 (L)</title>
     <desc>Live: Ya</desc>
@@ -197,6 +201,10 @@
 <programme start="20260124030000 +0700" stop="20260124050000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Derby County - West Bromwich Albion (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20260124050000 +0700" stop="20260124070000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: GNK Dinamo - Fotbal Club FCSB</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260123030000 +0700" stop="20260123050500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Football: Ferencvarosi TC - Panathinaikos (L)</title>
@@ -378,6 +386,10 @@
     <title>DTM 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260124052000 +0700" stop="20260124070500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>DTM 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260123030000 +0700" stop="20260123050500 +0700" channel="COSMOTE Sport 6 HD">
     <title>Football: Celta - Lille OSC (L)</title>
     <desc>Live: Ya</desc>
@@ -498,6 +510,14 @@
     <title>Football: Casa Pia - AVS Futebol (L)</title>
     <desc>Live: Ya</desc>
 </programme>
+<programme start="20260124051500 +0700" stop="20260124053000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260124053000 +0700" stop="20260124060000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260123030000 +0700" stop="20260123050500 +0700" channel="COSMOTE Sport 8 HD">
     <title>Football: FC Salzburg - FC Basel 1893 (L)</title>
     <desc>Live: Ya</desc>
@@ -558,6 +578,10 @@
     <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260124050000 +0700" stop="20260124070000 +0700" channel="COSMOTE Sport 8 HD">
+    <title>COSMOTESport8HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260123030000 +0700" stop="20260123050500 +0700" channel="COSMOTE Sport 9 HD">
     <title>Football: Utrecht - KRC Genk (L)</title>
     <desc>Live: Ya</desc>
@@ -615,6 +639,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260124030000 +0700" stop="20260124050000 +0700" channel="COSMOTE Sport 9 HD">
+    <title>COSMOTESport9HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260124050000 +0700" stop="20260124070000 +0700" channel="COSMOTE Sport 9 HD">
     <title>COSMOTESport9HD</title>
     <desc>Live: Tidak</desc>
 </programme>
