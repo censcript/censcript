@@ -667,9 +667,6 @@
 <programme start="20260122083000 +0000" stop="20260122124500 +0000" channel="ANTV.vision">
 <title>Vasudha</title>
 </programme>
-<programme start="20260122160000 +0000" stop="20260122173000 +0000" channel="ANTV.vision">
-<title>Menumpas Kejahatan</title>
-</programme>
 <programme start="20260122173000 +0000" stop="20260122190000 +0000" channel="ANTV.vision">
 <title>Picture Of A Nymph</title>
 </programme>
@@ -1496,5 +1493,8 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260123030000 +0000" stop="20260123050000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260123050000 +0000" stop="20260123070000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
