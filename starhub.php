@@ -788,7 +788,7 @@
         <title>Gutfeld!</title>
     </programme>
     <programme start="20260122090000 +0000" stop="20260122100000 +0000" channel="Fox News Channel.starhub">
-        <title>The Ingraham Angle</title>
+        <title>The President in Davos</title>
     </programme>
     <programme start="20260122100000 +0000" stop="20260122110000 +0000" channel="Fox News Channel.starhub">
         <title>FOX &amp; Friends First</title>
@@ -3188,13 +3188,13 @@
         <title>News in Review</title>
     </programme>
     <programme start="20260122003000 +0000" stop="20260122010000 +0000" channel="DW English HD.starhub">
-        <title>Riefenstahl:Art or Propaganda?</title>
+        <title>Riefenstahl: Art or Propaganda?</title>
     </programme>
     <programme start="20260122010000 +0000" stop="20260122011500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20260122011500 +0000" stop="20260122020000 +0000" channel="DW English HD.starhub">
-        <title>Dictators, Drugs, Discord-Latin America and the USA-Part 2:Wars</title>
+        <title>Dictators, Drugs, Discord - Latin America and the USA - Part 2: Wars</title>
     </programme>
     <programme start="20260122020000 +0000" stop="20260122020200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3203,22 +3203,19 @@
         <title>News in Review</title>
     </programme>
     <programme start="20260122023000 +0000" stop="20260122030000 +0000" channel="DW English HD.starhub">
-        <title>From farming to fintech:new challenges and alternatives</title>
+        <title>From farming to fintech: new challenges and alternatives</title>
     </programme>
     <programme start="20260122030000 +0000" stop="20260122031500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
-    <programme start="20260122031500 +0000" stop="20260122033000 +0000" channel="DW English HD.starhub">
-        <title>The controversial ingredient the world can&#039;t quit</title>
-    </programme>
-    <programme start="20260122033000 +0000" stop="20260122040000 +0000" channel="DW English HD.starhub">
-        <title>The power of water-redesigning life around a vital resource</title>
+    <programme start="20260122031500 +0000" stop="20260122040000 +0000" channel="DW English HD.starhub">
+        <title>Guest:</title>
     </programme>
     <programme start="20260122040000 +0000" stop="20260122041500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20260122041500 +0000" stop="20260122050000 +0000" channel="DW English HD.starhub">
-        <title>Dictators, Drugs, Discord-Latin America and the USA-Part 2:Wars</title>
+        <title>Dictators, Drugs, Discord - Latin America and the USA - Part 2: Wars</title>
     </programme>
     <programme start="20260122050000 +0000" stop="20260122050200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3233,16 +3230,16 @@
         <title>News</title>
     </programme>
     <programme start="20260122061500 +0000" stop="20260122063000 +0000" channel="DW English HD.starhub">
-        <title>The controversial ingredient the world can&#039;t quit</title>
+        <title>Interview: Rebeca Grynspan. New possible trade war overshadows WEF</title>
     </programme>
     <programme start="20260122063000 +0000" stop="20260122070000 +0000" channel="DW English HD.starhub">
-        <title>Urban Foraging-Fresh, Tasty and Free</title>
+        <title>Urban Foraging - Fresh, Tasty and Free</title>
     </programme>
     <programme start="20260122070000 +0000" stop="20260122071500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20260122071500 +0000" stop="20260122080000 +0000" channel="DW English HD.starhub">
-        <title>Charlotte Knobloch-A Childhood in Hiding</title>
+        <title>Guest:</title>
     </programme>
     <programme start="20260122080000 +0000" stop="20260122081500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3250,20 +3247,20 @@
     <programme start="20260122081500 +0000" stop="20260122083000 +0000" channel="DW English HD.starhub">
         <title>Stepping up</title>
     </programme>
-    <programme start="20260122083000 +0000" stop="20260122090000 +0000" channel="DW English HD.starhub">
-        <title>Spotlight on People</title>
-    </programme>
-    <programme start="20260122090000 +0000" stop="20260122091500 +0000" channel="DW English HD.starhub">
+    <programme start="20260122083000 +0000" stop="20260122091500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
-    <programme start="20260122091500 +0000" stop="20260122100000 +0000" channel="DW English HD.starhub">
-        <title>When Night Falls in Mumbai</title>
+    <programme start="20260122091500 +0000" stop="20260122093000 +0000" channel="DW English HD.starhub">
+        <title>Interview: Rebeca Grynspan. New possible trade war overshadows WEF</title>
+    </programme>
+    <programme start="20260122093000 +0000" stop="20260122100000 +0000" channel="DW English HD.starhub">
+        <title>Spotlight on People</title>
     </programme>
     <programme start="20260122100000 +0000" stop="20260122101500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20260122101500 +0000" stop="20260122110000 +0000" channel="DW English HD.starhub">
-        <title>Watching You-The World of Palantir and Alex Karp-Part 1</title>
+        <title>Watching You - The World of Palantir and Alex Karp - Part 1</title>
     </programme>
     <programme start="20260122110000 +0000" stop="20260122111500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3278,7 +3275,7 @@
         <title>News</title>
     </programme>
     <programme start="20260122121500 +0000" stop="20260122130000 +0000" channel="DW English HD.starhub">
-        <title>Charlotte Knobloch-A Childhood in Hiding</title>
+        <title>Charlotte Knobloch - A Childhood in Hiding</title>
     </programme>
     <programme start="20260122130000 +0000" stop="20260122131500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3287,7 +3284,7 @@
         <title>Eat the rich</title>
     </programme>
     <programme start="20260122133000 +0000" stop="20260122140000 +0000" channel="DW English HD.starhub">
-        <title>Peugeot E-5008:Family SUV Meets Electric Power</title>
+        <title>Peugeot E-5008: Family SUV Meets Electric Power</title>
     </programme>
     <programme start="20260122140000 +0000" stop="20260122141500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -4469,7 +4466,7 @@
         <title>Bloomberg Brief</title>
     </programme>
     <programme start="20260122110000 +0000" stop="20260122113000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>Kevin Hassett, National Economic Council Director</title>
+        <title>Jamie Dimon, JPMorgan Chase Chairman &amp; CEO</title>
     </programme>
     <programme start="20260122113000 +0000" stop="20260122120000 +0000" channel="Bloomberg Television HD.starhub">
         <title>Bloomberg Next Africa</title>
@@ -4582,12 +4579,6 @@
     <programme start="20260121160000 +0000" stop="20260121163000 +0000" channel="Vijay TV HD.starhub">
         <title>Pandian Stores Thanthai Sol Mikka Mandhi</title>
     </programme>
-    <programme start="20260121163000 +0000" stop="20260121170000 +0000" channel="Vijay TV HD.starhub">
-        <title>Ayyanar Thunai</title>
-    </programme>
-    <programme start="20260121170000 +0000" stop="20260121180000 +0000" channel="Vijay TV HD.starhub">
-        <title>Siragadikka Aasai</title>
-    </programme>
     <programme start="20260121180000 +0000" stop="20260121183000 +0000" channel="Vijay TV HD.starhub">
         <title>Kana Kandenadi</title>
     </programme>
@@ -4596,9 +4587,6 @@
     </programme>
     <programme start="20260121200000 +0000" stop="20260121203000 +0000" channel="Vijay TV HD.starhub">
         <title>Sakthivel - Theeyaai Oru Theeraakkaadhal</title>
-    </programme>
-    <programme start="20260121203000 +0000" stop="20260121210000 +0000" channel="Vijay TV HD.starhub">
-        <title>Kanmani Anbudan</title>
     </programme>
     <programme start="20260121210000 +0000" stop="20260121213000 +0000" channel="Vijay TV HD.starhub">
         <title>Thendrale Mella Pesu</title>
@@ -4609,13 +4597,10 @@
     <programme start="20260121220000 +0000" stop="20260121223000 +0000" channel="Vijay TV HD.starhub">
         <title>Dhanam - Ungalil Oruthi</title>
     </programme>
-    <programme start="20260121223000 +0000" stop="20260121230000 +0000" channel="Vijay TV HD.starhub">
-        <title>Ayyanar Thunai</title>
-    </programme>
     <programme start="20260121230000 +0000" stop="20260121233000 +0000" channel="Vijay TV HD.starhub">
         <title>Magale En Marumagale</title>
     </programme>
-    <programme start="20260121233000 +0000" stop="20260122000000 +0000" channel="Vijay TV HD.starhub">
+    <programme start="20260121233100 +0000" stop="20260122000000 +0000" channel="Vijay TV HD.starhub">
         <title>Mahanadhi Sagodharigalin Kadhai</title>
     </programme>
     <programme start="20260122000000 +0000" stop="20260122003000 +0000" channel="Vijay TV HD.starhub">
@@ -4625,7 +4610,7 @@
         <title>Chinna Marumagal Panirendaam Vaguppu</title>
     </programme>
     <programme start="20260122010000 +0000" stop="20260122013000 +0000" channel="Vijay TV HD.starhub">
-        <title>Pandian Stores Thanthai Sol Mikka Mandhi</title>
+        <title>Pandian Stores Thanthai Sol Mikka Mandhiram Illai</title>
     </programme>
     <programme start="20260122013000 +0000" stop="20260122020000 +0000" channel="Vijay TV HD.starhub">
         <title>Ayyanar Thunai</title>
@@ -4646,7 +4631,7 @@
         <title>Chinna Marumagal Panirendaam Vaguppu</title>
     </programme>
     <programme start="20260122050000 +0000" stop="20260122053000 +0000" channel="Vijay TV HD.starhub">
-        <title>Pandian Stores Thanthai Sol Mikka Mandhi</title>
+        <title>Pandian Stores Thanthai Sol Mikka Mandhiram Illai</title>
     </programme>
     <programme start="20260122053000 +0000" stop="20260122060000 +0000" channel="Vijay TV HD.starhub">
         <title>Ayyanar Thunai</title>
@@ -4655,7 +4640,7 @@
         <title>Siragadikka Aasai</title>
     </programme>
     <programme start="20260122070000 +0000" stop="20260122073000 +0000" channel="Vijay TV HD.starhub">
-        <title>Sakthivel - Theeyaai Oru Theeraakkaadhal</title>
+        <title>Sakthivel: Theeyaai Oru Theeraakkaadhal</title>
     </programme>
     <programme start="20260122073000 +0000" stop="20260122080000 +0000" channel="Vijay TV HD.starhub">
         <title>Kanmani Anbudan</title>
@@ -4664,7 +4649,7 @@
         <title>Thendrale Mella Pesu</title>
     </programme>
     <programme start="20260122083000 +0000" stop="20260122090000 +0000" channel="Vijay TV HD.starhub">
-        <title>Suttum Vizhi Sudare - Oru Chinanjiru Kuyilin Kadhai</title>
+        <title>Suttum Vizhi Sudare Oru Chinanjiru Kuyilin Kadhai</title>
     </programme>
     <programme start="20260122090000 +0000" stop="20260122093000 +0000" channel="Vijay TV HD.starhub">
         <title>Dhanam - Ungalil Oruthi</title>
@@ -4685,7 +4670,7 @@
         <title>Chinna Marumagal Panirendaam Vaguppu</title>
     </programme>
     <programme start="20260122120000 +0000" stop="20260122123000 +0000" channel="Vijay TV HD.starhub">
-        <title>Pandian Stores Thanthai Sol Mikka Mandhi</title>
+        <title>Pandian Stores Thanthai Sol Mikka Mandhiram Illai</title>
     </programme>
     <programme start="20260122123000 +0000" stop="20260122130000 +0000" channel="Vijay TV HD.starhub">
         <title>Ayyanar Thunai</title>
@@ -7226,7 +7211,7 @@
         <title>BBC News</title>
     </programme>
     <programme start="20260122013000 +0000" stop="20260122020000 +0000" channel="BBC World News HD.starhub">
-        <title>AI Decoded</title>
+        <title>AI Stole My Face</title>
     </programme>
     <programme start="20260122020000 +0000" stop="20260122023000 +0000" channel="BBC World News HD.starhub">
         <title>Newsday</title>
@@ -7759,16 +7744,19 @@
     <programme start="20260121232000 +0000" stop="20260122013000 +0000" channel="Asianet Movies.starhub">
         <title>Varsham</title>
     </programme>
-    <programme start="20260122013000 +0000" stop="20260122043000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260122013000 +0000" stop="20260122020000 +0000" channel="Asianet Movies.starhub">
+        <title>Chirikkum Thalika</title>
+    </programme>
+    <programme start="20260122020000 +0000" stop="20260122044500 +0000" channel="Asianet Movies.starhub">
         <title>Sallapam</title>
     </programme>
-    <programme start="20260122043000 +0000" stop="20260122073000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260122044500 +0000" stop="20260122074000 +0000" channel="Asianet Movies.starhub">
         <title>Janatha Garage</title>
     </programme>
-    <programme start="20260122073000 +0000" stop="20260122103000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260122074000 +0000" stop="20260122102000 +0000" channel="Asianet Movies.starhub">
         <title>Romancham</title>
     </programme>
-    <programme start="20260122103000 +0000" stop="20260122133000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260122102000 +0000" stop="20260122133000 +0000" channel="Asianet Movies.starhub">
         <title>Moz &amp; Cat</title>
     </programme>
     <programme start="20260122133000 +0000" stop="20260122163000 +0000" channel="Asianet Movies.starhub">
