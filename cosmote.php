@@ -114,6 +114,10 @@
     <title>Football: Pisa - Atalanta</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260123181500 +0700" stop="20260123203000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: AEK - Panathinaikos</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260122170000 +0700" stop="20260122190000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Damak - Al Nassr</title>
     <desc>Live: Tidak</desc>
@@ -174,10 +178,6 @@
     <title>Football: Malmo FF - FK Crvena Zvezda</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260122150000 +0700" stop="20260122171000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: AEK - Karditsa</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260122171000 +0700" stop="20260122194000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Milwaukee Bucks - Oklahoma City Thunder</title>
     <desc>Live: Tidak</desc>
@@ -232,10 +232,6 @@
 </programme>
 <programme start="20260123172000 +0700" stop="20260123192500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Rytas Vilnius - Hapoel Holon</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260122165000 +0700" stop="20260122175500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260122175500 +0700" stop="20260122193000 +0700" channel="COSMOTE Sport 5 HD">
@@ -334,8 +330,8 @@
     <title>WRC 2026 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260122153000 +0700" stop="20260122170500 +0700" channel="COSMOTE Sport 6 HD">
-    <title>OPAP Padel Series Tournament Padel Place Marousi</title>
+<programme start="20260123183500 +0700" stop="20260123192000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>DTM</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260122170500 +0700" stop="20260122193500 +0700" channel="COSMOTE Sport 6 HD">

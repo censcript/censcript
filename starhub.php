@@ -3209,7 +3209,7 @@
         <title>News</title>
     </programme>
     <programme start="20260122031500 +0000" stop="20260122040000 +0000" channel="DW English HD.starhub">
-        <title>Guest:</title>
+        <title>Special Edition from the Word Economic Forum 2026 in Davos</title>
     </programme>
     <programme start="20260122040000 +0000" stop="20260122041500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3239,7 +3239,7 @@
         <title>News</title>
     </programme>
     <programme start="20260122071500 +0000" stop="20260122080000 +0000" channel="DW English HD.starhub">
-        <title>Guest:</title>
+        <title>Special Edition from the Word Economic Forum 2026 in Davos</title>
     </programme>
     <programme start="20260122080000 +0000" stop="20260122081500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3260,7 +3260,7 @@
         <title>News</title>
     </programme>
     <programme start="20260122101500 +0000" stop="20260122110000 +0000" channel="DW English HD.starhub">
-        <title>Watching You - The World of Palantir and Alex Karp - Part 1</title>
+        <title>Special Edition from the Word Economic Forum 2026 in Davos</title>
     </programme>
     <programme start="20260122110000 +0000" stop="20260122111500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3280,11 +3280,8 @@
     <programme start="20260122130000 +0000" stop="20260122131500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
-    <programme start="20260122131500 +0000" stop="20260122133000 +0000" channel="DW English HD.starhub">
-        <title>Eat the rich</title>
-    </programme>
-    <programme start="20260122133000 +0000" stop="20260122140000 +0000" channel="DW English HD.starhub">
-        <title>Peugeot E-5008: Family SUV Meets Electric Power</title>
+    <programme start="20260122131500 +0000" stop="20260122140000 +0000" channel="DW English HD.starhub">
+        <title>Special Edition from the Word Economic Forum 2026 in Davos</title>
     </programme>
     <programme start="20260122140000 +0000" stop="20260122141500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3299,7 +3296,7 @@
         <title>News</title>
     </programme>
     <programme start="20260122151500 +0000" stop="20260122153000 +0000" channel="DW English HD.starhub">
-        <title>Eat the rich</title>
+        <title>Interview with SAP Board member Thomas Saueressig</title>
     </programme>
     <programme start="20260122153000 +0000" stop="20260122160000 +0000" channel="DW English HD.starhub">
         <title>The scary truth about plastic and our health</title>
@@ -4612,7 +4609,7 @@
     <programme start="20260121230000 +0000" stop="20260121233100 +0000" channel="Vijay TV HD.starhub">
         <title>Magale En Marumagale</title>
     </programme>
-    <programme start="20260121233100 +0000" stop="20260122000000 +0000" channel="Vijay TV HD.starhub">
+    <programme start="20260121233000 +0000" stop="20260122000000 +0000" channel="Vijay TV HD.starhub">
         <title>Mahanadhi Sagodharigalin Kadhai</title>
     </programme>
     <programme start="20260122000000 +0000" stop="20260122003000 +0000" channel="Vijay TV HD.starhub">

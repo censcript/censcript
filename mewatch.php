@@ -128,7 +128,7 @@
         <title>(Live) News Tonight</title>
     </programme>
     <programme start="20260122133000 +0000" stop="20260122134500 +0000" channel="Channel 5.mewatch">
-        <title>13th ASEAN Para Games 2025 Thailand: Today At The Games - EP 2</title>
+        <title>13th ASEAN Para Games Thailand 2025: Today At The Games - EP 2</title>
     </programme>
     <programme start="20260122134500 +0000" stop="20260122141500 +0000" channel="Channel 5.mewatch">
         <title>Talking Point - EP 30</title>
