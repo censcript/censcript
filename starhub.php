@@ -4606,7 +4606,7 @@
     <programme start="20260121223000 +0000" stop="20260121230000 +0000" channel="Vijay TV HD.starhub">
         <title>Ayyanar Thunai</title>
     </programme>
-    <programme start="20260121230000 +0000" stop="20260121233100 +0000" channel="Vijay TV HD.starhub">
+    <programme start="20260121230000 +0000" stop="20260121233000 +0000" channel="Vijay TV HD.starhub">
         <title>Magale En Marumagale</title>
     </programme>
     <programme start="20260121233000 +0000" stop="20260122000000 +0000" channel="Vijay TV HD.starhub">
@@ -5056,8 +5056,11 @@
     <programme start="20260121153500 +0000" stop="20260121170500 +0000" channel="KBS World HD.starhub">
         <title>Stars&#039; Top Recipe at Fun-Staurant</title>
     </programme>
-    <programme start="20260121170500 +0000" stop="20260121183000 +0000" channel="KBS World HD.starhub">
+    <programme start="20260121170500 +0000" stop="20260121181500 +0000" channel="KBS World HD.starhub">
         <title>Music Bank</title>
+    </programme>
+    <programme start="20260121181500 +0000" stop="20260121183000 +0000" channel="KBS World HD.starhub">
+        <title>The Dropout Employee</title>
     </programme>
     <programme start="20260121183000 +0000" stop="20260121190500 +0000" channel="KBS World HD.starhub">
         <title>Marie and Her Three Daddies</title>
