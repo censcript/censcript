@@ -238,7 +238,7 @@
 <programme start="20260122040000 +0000" stop="20260122050000 +0000" channel="iNews.vision">
 <title>iNews Siang (L)</title>
 </programme>
-<programme start="20260122064500 +0000" stop="20260122113000 +0000" channel="iNews.vision">
+<programme start="20260122050000 +0000" stop="20260122100000 +0000" channel="iNews.vision">
 <title>iNews</title>
 </programme>
 <programme start="20260122100000 +0000" stop="20260122120000 +0000" channel="iNews.vision">
@@ -664,26 +664,23 @@
 <programme start="20260122060000 +0000" stop="20260122083000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
-<programme start="20260122083000 +0000" stop="20260122114500 +0000" channel="ANTV.vision">
+<programme start="20260122083000 +0000" stop="20260122124500 +0000" channel="ANTV.vision">
 <title>Vasudha</title>
 </programme>
-<programme start="20260122114500 +0000" stop="20260122133000 +0000" channel="ANTV.vision">
-<title>Senandung Cinta Lilis</title>
-</programme>
-<programme start="20260122133000 +0000" stop="20260122150000 +0000" channel="ANTV.vision">
-<title>Santet 1: Pelebur Nyawa</title>
-</programme>
-<programme start="20260122150000 +0000" stop="20260122170000 +0000" channel="ANTV.vision">
+<programme start="20260122141500 +0000" stop="20260122160000 +0000" channel="ANTV.vision">
 <title>Primitif</title>
 </programme>
-<programme start="20260122170000 +0000" stop="20260122183000 +0000" channel="ANTV.vision">
-<title>Selir Durgaratih 3</title>
+<programme start="20260122160000 +0000" stop="20260122173000 +0000" channel="ANTV.vision">
+<title>Menumpas Kejahatan</title>
 </programme>
-<programme start="20260122183000 +0000" stop="20260122200000 +0000" channel="ANTV.vision">
-<title>Picture Of Nypmh</title>
+<programme start="20260122173000 +0000" stop="20260122190000 +0000" channel="ANTV.vision">
+<title>Picture Of A Nymph</title>
+</programme>
+<programme start="20260122190000 +0000" stop="20260122200000 +0000" channel="ANTV.vision">
+<title>Kids &amp; Soldiers</title>
 </programme>
 <programme start="20260122200000 +0000" stop="20260122213000 +0000" channel="ANTV.vision">
-<title>King Xian Worm Valley Of...</title>
+<title>Certain Justice</title>
 </programme>
 <programme start="20260122213000 +0000" stop="20260122223000 +0000" channel="ANTV.vision">
 <title>Senyum Iman</title>
@@ -703,11 +700,8 @@
 <programme start="20260123060000 +0000" stop="20260123083000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
-<programme start="20260123083000 +0000" stop="20260123114500 +0000" channel="ANTV.vision">
+<programme start="20260123083000 +0000" stop="20260123124500 +0000" channel="ANTV.vision">
 <title>Vasudha</title>
-</programme>
-<programme start="20260123114500 +0000" stop="20260123133000 +0000" channel="ANTV.vision">
-<title>Senandung Cinta Lilis</title>
 </programme>
 <programme start="20260121230000 +0000" stop="20260122010000 +0000" channel="RTV.vision">
 <title>Bread Barbershop</title>
@@ -1496,5 +1490,11 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260122210000 +0000" stop="20260122230000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260122230000 +0000" stop="20260123010000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260123010000 +0000" stop="20260123030000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
