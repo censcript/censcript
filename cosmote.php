@@ -54,6 +54,14 @@
     <title>Game R1 S6 E22</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260124040000 +0700" stop="20260124043000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEFA Champions League Magazine 2024-25 E17</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260124043000 +0700" stop="20260124053000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEFA Champions League Highlights 2025-26</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260123030000 +0700" stop="20260123050500 +0700" channel="COSMOTE Sport 2 HD">
     <title>European Football Show Greek Edition 2025-26 (L)</title>
     <desc>Live: Ya</desc>
@@ -121,6 +129,10 @@
 <programme start="20260124024500 +0700" stop="20260124044500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: FC Internazionale Milano - Pisa (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20260124044500 +0700" stop="20260124065500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Volos - Atromitos</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260123030000 +0700" stop="20260123050500 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: AS Roma - VfB Stuttgart (L)</title>
@@ -252,6 +264,10 @@
 </programme>
 <programme start="20260124023000 +0700" stop="20260124044000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: AEK - Karditsa</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260124044000 +0700" stop="20260124064000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Fenerbahce - Tofas</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260123030000 +0700" stop="20260123050500 +0700" channel="COSMOTE Sport 5 HD">
