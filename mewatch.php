@@ -490,8 +490,11 @@
     <programme start="20260123123000 +0000" stop="20260123130000 +0000" channel="Vasantham.mewatch">
         <title>(Live) Seithi</title>
     </programme>
-    <programme start="20260123130000 +0000" stop="20260123150000 +0000" channel="Vasantham.mewatch">
+    <programme start="20260123130000 +0000" stop="20260123143000 +0000" channel="Vasantham.mewatch">
         <title>Pongalum Pongattumey</title>
+    </programme>
+    <programme start="20260123143000 +0000" stop="20260123150000 +0000" channel="Vasantham.mewatch">
+        <title>Comedy Galatta Season 5 - EP 9</title>
     </programme>
     <programme start="20260123150000 +0000" stop="20260123153000 +0000" channel="Vasantham.mewatch">
         <title>Live in Bytes - EP 3</title>

@@ -55,7 +55,10 @@
     <programme start="20260123091000 +0000" stop="20260123100000 +0000" channel="VTV1 HD.mytv">
         <title> Thời sự </title>
     </programme>
-    <programme start="20260123100000 +0000" stop="20260123103000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260123100000 +0000" stop="20260123101500 +0000" channel="VTV1 HD.mytv">
+        <title> Xây dựng, chỉnh đốn Đảng : Thành tựu 40 năm đổi mới </title>
+    </programme>
+    <programme start="20260123101500 +0000" stop="20260123103000 +0000" channel="VTV1 HD.mytv">
         <title> Văn học nghệ thuật : Hành trình của tre và đất </title>
     </programme>
     <programme start="20260123103000 +0000" stop="20260123110000 +0000" channel="VTV1 HD.mytv">
@@ -86,21 +89,9 @@
         <title> Từ những miền quê : Bánh cuốn Thanh Lương </title>
     </programme>
     <programme start="20260123144500 +0000" stop="20260123150000 +0000" channel="VTV1 HD.mytv">
-        <title> Góc nhìn văn hóa </title>
+        <title> Truyền hình trực tiếp : Bế mạc Đại hội đại biểu toàn quốc lần thứ XIV của Đảng </title>
     </programme>
-    <programme start="20260123150000 +0000" stop="20260123151500 +0000" channel="VTV1 HD.mytv">
-        <title> Tỏa sáng đam mê : NSƯT Thanh Tuấn - NSƯT Thu Hương </title>
-    </programme>
-    <programme start="20260123151500 +0000" stop="20260123160000 +0000" channel="VTV1 HD.mytv">
-        <title> Nông nghiệp xanh : Chuẩn hóa vùng trồng </title>
-    </programme>
-    <programme start="20260123160000 +0000" stop="20260123161500 +0000" channel="VTV1 HD.mytv">
-        <title> Phim tài liệu : Món quà của đại dương </title>
-    </programme>
-    <programme start="20260123161500 +0000" stop="20260123164500 +0000" channel="VTV1 HD.mytv">
-        <title> Hành trình năng lượng xanh </title>
-    </programme>
-    <programme start="20260123164500 +0000" stop="20260123170000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260123150000 +0000" stop="20260123170000 +0000" channel="VTV1 HD.mytv">
         <title> Thời sự </title>
     </programme>
     <programme start="20260123170000 +0000" stop="20260123171500 +0000" channel="VTV1 HD.mytv">

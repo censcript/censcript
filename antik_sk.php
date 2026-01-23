@@ -1090,28 +1090,28 @@
   <programme start="20260124212000 +0000" stop="20260125000500 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Hokej - Tipsport liga</title>
   </programme>
-  <programme start="20260125000500 +0000" stop="20260125022000 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260125000500 +0000" stop="20260125020000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Hokej - Tipos SHL</title>
   </programme>
-  <programme start="20260125022000 +0000" stop="20260125033000 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260125020000 +0000" stop="20260125031500 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Krasokorčuľovanie ISU Grand Prix</title>
   </programme>
-  <programme start="20260125033000 +0000" stop="20260125051000 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260125031500 +0000" stop="20260125050500 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Krasokorčuľovanie ISU Grand Prix</title>
   </programme>
-  <programme start="20260125051000 +0000" stop="20260125072500 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260125050500 +0000" stop="20260125072500 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">IIHF MS ženy U18 2026</title>
   </programme>
-  <programme start="20260125072500 +0000" stop="20260125081000 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260125072500 +0000" stop="20260125080000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Hokej - Zostrihy Tipsport ligy</title>
   </programme>
-  <programme start="20260125081000 +0000" stop="20260125082500 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260125080000 +0000" stop="20260125082500 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">FIS štúdio</title>
   </programme>
-  <programme start="20260125082500 +0000" stop="20260125105500 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260125082500 +0000" stop="20260125105000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">FIS Svetový pohár slalom ženy</title>
   </programme>
-  <programme start="20260125105500 +0000" stop="20260125111000 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260125105000 +0000" stop="20260125111000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">FIS štúdio</title>
   </programme>
   <programme start="20260125111000 +0000" stop="20260125124000 +0000" channel="JOJ Šport.webtv.sk">
@@ -1129,10 +1129,10 @@
   <programme start="20260125175500 +0000" stop="20260125203000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Futbal - Európska liga</title>
   </programme>
-  <programme start="20260125203000 +0000" stop="20260125224000 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260125203000 +0000" stop="20260125223000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Hokej - Tipos SHL</title>
   </programme>
-  <programme start="20260125224000 +0000" stop="20260126002000 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260125223000 +0000" stop="20260126000000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Hádzaná - EHF Euro 2026</title>
   </programme>
   <programme start="20260124224000 +0000" stop="20260125004000 +0000" channel="JOJ Šport 2.webtv.sk">

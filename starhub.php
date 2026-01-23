@@ -2059,9 +2059,6 @@
     <programme start="20260123153000 +0000" stop="20260123163000 +0000" channel="Sun Music.starhub">
         <title>Non Stop Hits</title>
     </programme>
-    <programme start="20260122160000 +0000" stop="20260122170000 +0000" channel="CNN HD.starhub">
-        <title>One World (30m)</title>
-    </programme>
     <programme start="20260122170000 +0000" stop="20260122180000 +0000" channel="CNN HD.starhub">
         <title>One World (60m)</title>
     </programme>
@@ -7906,8 +7903,11 @@
     <programme start="20260122220000 +0000" stop="20260122223000 +0000" channel="SPOTV2.starhub">
         <title>2025/26 ALM Mini Match Rd 13 Perth Glory vs Brisbane Roar FC</title>
     </programme>
-    <programme start="20260122223000 +0000" stop="20260123034500 +0000" channel="SPOTV2.starhub">
+    <programme start="20260122223000 +0000" stop="20260123013000 +0000" channel="SPOTV2.starhub">
         <title>Day 1</title>
+    </programme>
+    <programme start="20260123013000 +0000" stop="20260123034500 +0000" channel="SPOTV2.starhub">
+        <title>25/26 ROSHN Saudi League MW 17 Al Ahli vs Al Khaleej</title>
     </programme>
     <programme start="20260123034500 +0000" stop="20260123041500 +0000" channel="SPOTV2.starhub">
         <title>2025/26 ALM Mini Match Rd 13 Sydney FC vs Wellington Phoenix</title>
