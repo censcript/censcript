@@ -147,6 +147,348 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260123220500 +0000" stop="20260123233000 +0000" channel="Beate Uhse HD.skyde">
     <title>Ghost Bitch</title>
 </programme>
+<programme start="20260122231500 +0000" stop="20260122232500 +0000" channel="Cartoon Network.skyde">
+    <title>Steven Universe</title>
+</programme>
+<programme start="20260122232500 +0000" stop="20260122233500 +0000" channel="Cartoon Network.skyde">
+    <title>Steven Universe</title>
+</programme>
+<programme start="20260122233500 +0000" stop="20260122234500 +0000" channel="Cartoon Network.skyde">
+    <title>Steven Universe</title>
+</programme>
+<programme start="20260122234500 +0000" stop="20260122235500 +0000" channel="Cartoon Network.skyde">
+    <title>Steven Universe</title>
+</programme>
+<programme start="20260122235500 +0000" stop="20260123001000 +0000" channel="Cartoon Network.skyde">
+    <title>Die wunderbar schräge Welt von Gumball</title>
+</programme>
+<programme start="20260123001000 +0000" stop="20260123002000 +0000" channel="Cartoon Network.skyde">
+    <title>Die wunderbar schräge Welt von Gumball</title>
+</programme>
+<programme start="20260123002000 +0000" stop="20260123003000 +0000" channel="Cartoon Network.skyde">
+    <title>Die fantastische Welt von Gumball</title>
+</programme>
+<programme start="20260123003000 +0000" stop="20260123004000 +0000" channel="Cartoon Network.skyde">
+    <title>Die fantastische Welt von Gumball</title>
+</programme>
+<programme start="20260123004000 +0000" stop="20260123010500 +0000" channel="Cartoon Network.skyde">
+    <title>Jade Armor</title>
+</programme>
+<programme start="20260123010500 +0000" stop="20260123011500 +0000" channel="Cartoon Network.skyde">
+    <title>Die heldenhafte Reise des tapferen Prinz Ivandoe</title>
+</programme>
+<programme start="20260123011500 +0000" stop="20260123013000 +0000" channel="Cartoon Network.skyde">
+    <title>Die heldenhafte Reise des tapferen Prinz Ivandoe</title>
+</programme>
+<programme start="20260123013000 +0000" stop="20260123014000 +0000" channel="Cartoon Network.skyde">
+    <title>Die fantastische Welt von Gumball</title>
+</programme>
+<programme start="20260123014000 +0000" stop="20260123015000 +0000" channel="Cartoon Network.skyde">
+    <title>Die fantastische Welt von Gumball</title>
+</programme>
+<programme start="20260123015000 +0000" stop="20260123020000 +0000" channel="Cartoon Network.skyde">
+    <title>Die wunderbar schräge Welt von Gumball</title>
+</programme>
+<programme start="20260123020000 +0000" stop="20260123021500 +0000" channel="Cartoon Network.skyde">
+    <title>Die wunderbar schräge Welt von Gumball</title>
+</programme>
+<programme start="20260123021500 +0000" stop="20260123023500 +0000" channel="Cartoon Network.skyde">
+    <title>Jade Armor</title>
+</programme>
+<programme start="20260123023500 +0000" stop="20260123025000 +0000" channel="Cartoon Network.skyde">
+    <title>Die heldenhafte Reise des tapferen Prinz Ivandoe</title>
+</programme>
+<programme start="20260123025000 +0000" stop="20260123030000 +0000" channel="Cartoon Network.skyde">
+    <title>Die heldenhafte Reise des tapferen Prinz Ivandoe</title>
+</programme>
+<programme start="20260123030000 +0000" stop="20260123031500 +0000" channel="Cartoon Network.skyde">
+    <title>Die fantastische Welt von Gumball</title>
+</programme>
+<programme start="20260123031500 +0000" stop="20260123032500 +0000" channel="Cartoon Network.skyde">
+    <title>Die fantastische Welt von Gumball</title>
+</programme>
+<programme start="20260123032500 +0000" stop="20260123033500 +0000" channel="Cartoon Network.skyde">
+    <title>Die fantastische Welt von Gumball</title>
+</programme>
+<programme start="20260123033500 +0000" stop="20260123035000 +0000" channel="Cartoon Network.skyde">
+    <title>Die fantastische Welt von Gumball</title>
+</programme>
+<programme start="20260123035000 +0000" stop="20260123041000 +0000" channel="Cartoon Network.skyde">
+    <title>Totally Spies!</title>
+</programme>
+<programme start="20260123041000 +0000" stop="20260123042000 +0000" channel="Cartoon Network.skyde">
+    <title>Die fantastische Welt von Gumball</title>
+</programme>
+<programme start="20260123042000 +0000" stop="20260123043500 +0000" channel="Cartoon Network.skyde">
+    <title>Die fantastische Welt von Gumball</title>
+</programme>
+<programme start="20260123043500 +0000" stop="20260123044500 +0000" channel="Cartoon Network.skyde">
+    <title>Die fantastische Welt von Gumball</title>
+</programme>
+<programme start="20260123044500 +0000" stop="20260123050000 +0000" channel="Cartoon Network.skyde">
+    <title>Die fantastische Welt von Gumball</title>
+</programme>
+<programme start="20260123050000 +0000" stop="20260123051000 +0000" channel="Cartoon Network.skyde">
+    <title>Die fantastische Welt von Gumball</title>
+</programme>
+<programme start="20260123051000 +0000" stop="20260123052000 +0000" channel="Cartoon Network.skyde">
+    <title>Die fantastische Welt von Gumball</title>
+</programme>
+<programme start="20260123052000 +0000" stop="20260123053500 +0000" channel="Cartoon Network.skyde">
+    <title>Die fantastische Welt von Gumball</title>
+</programme>
+<programme start="20260123053500 +0000" stop="20260123054500 +0000" channel="Cartoon Network.skyde">
+    <title>Die fantastische Welt von Gumball</title>
+</programme>
+<programme start="20260123054500 +0000" stop="20260123055500 +0000" channel="Cartoon Network.skyde">
+    <title>Die fantastische Welt von Gumball</title>
+</programme>
+<programme start="20260123055500 +0000" stop="20260123060500 +0000" channel="Cartoon Network.skyde">
+    <title>Die fantastische Welt von Gumball</title>
+</programme>
+<programme start="20260123060500 +0000" stop="20260123062000 +0000" channel="Cartoon Network.skyde">
+    <title>Die fantastische Welt von Gumball</title>
+</programme>
+<programme start="20260123062000 +0000" stop="20260123063000 +0000" channel="Cartoon Network.skyde">
+    <title>Die fantastische Welt von Gumball</title>
+</programme>
+<programme start="20260123063000 +0000" stop="20260123064000 +0000" channel="Cartoon Network.skyde">
+    <title>Die fantastische Welt von Gumball</title>
+</programme>
+<programme start="20260123064000 +0000" stop="20260123065000 +0000" channel="Cartoon Network.skyde">
+    <title>Die fantastische Welt von Gumball</title>
+</programme>
+<programme start="20260123065000 +0000" stop="20260123070500 +0000" channel="Cartoon Network.skyde">
+    <title>Die wunderbar schräge Welt von Gumball</title>
+</programme>
+<programme start="20260123070500 +0000" stop="20260123071500 +0000" channel="Cartoon Network.skyde">
+    <title>Die wunderbar schräge Welt von Gumball</title>
+</programme>
+<programme start="20260123071500 +0000" stop="20260123073000 +0000" channel="Cartoon Network.skyde">
+    <title>Die fantastische Welt von Gumball</title>
+</programme>
+<programme start="20260123073000 +0000" stop="20260123074000 +0000" channel="Cartoon Network.skyde">
+    <title>Die fantastische Welt von Gumball</title>
+</programme>
+<programme start="20260123074000 +0000" stop="20260123075000 +0000" channel="Cartoon Network.skyde">
+    <title>Looney Tunes Cartoons</title>
+</programme>
+<programme start="20260123075000 +0000" stop="20260123080500 +0000" channel="Cartoon Network.skyde">
+    <title>Looney Tunes Cartoons</title>
+</programme>
+<programme start="20260123080500 +0000" stop="20260123081500 +0000" channel="Cartoon Network.skyde">
+    <title>Looney Tunes Cartoons</title>
+</programme>
+<programme start="20260123081500 +0000" stop="20260123083000 +0000" channel="Cartoon Network.skyde">
+    <title>Looney Tunes Cartoons</title>
+</programme>
+<programme start="20260123083000 +0000" stop="20260123085500 +0000" channel="Cartoon Network.skyde">
+    <title>Tiny Toons Looniversity</title>
+</programme>
+<programme start="20260123085500 +0000" stop="20260123092000 +0000" channel="Cartoon Network.skyde">
+    <title>Jade Armor</title>
+</programme>
+<programme start="20260123092000 +0000" stop="20260123093000 +0000" channel="Cartoon Network.skyde">
+    <title>Die wunderbar schräge Welt von Gumball</title>
+</programme>
+<programme start="20260123093000 +0000" stop="20260123094500 +0000" channel="Cartoon Network.skyde">
+    <title>Die wunderbar schräge Welt von Gumball</title>
+</programme>
+<programme start="20260123094500 +0000" stop="20260123095500 +0000" channel="Cartoon Network.skyde">
+    <title>Die fantastische Welt von Gumball</title>
+</programme>
+<programme start="20260123095500 +0000" stop="20260123100500 +0000" channel="Cartoon Network.skyde">
+    <title>Die fantastische Welt von Gumball</title>
+</programme>
+<programme start="20260123100500 +0000" stop="20260123102000 +0000" channel="Cartoon Network.skyde">
+    <title>Die fantastische Welt von Gumball</title>
+</programme>
+<programme start="20260123102000 +0000" stop="20260123103000 +0000" channel="Cartoon Network.skyde">
+    <title>Die fantastische Welt von Gumball</title>
+</programme>
+<programme start="20260123103000 +0000" stop="20260123104500 +0000" channel="Cartoon Network.skyde">
+    <title>Teen Titans Go!</title>
+</programme>
+<programme start="20260123104500 +0000" stop="20260123105500 +0000" channel="Cartoon Network.skyde">
+    <title>Teen Titans Go!</title>
+</programme>
+<programme start="20260123105500 +0000" stop="20260123110500 +0000" channel="Cartoon Network.skyde">
+    <title>Teen Titans Go!</title>
+</programme>
+<programme start="20260123110500 +0000" stop="20260123111500 +0000" channel="Cartoon Network.skyde">
+    <title>Teen Titans Go!</title>
+</programme>
+<programme start="20260123111500 +0000" stop="20260123112500 +0000" channel="Cartoon Network.skyde">
+    <title>Craig of the Creek - Im Wald der Abenteuer</title>
+</programme>
+<programme start="20260123112500 +0000" stop="20260123114000 +0000" channel="Cartoon Network.skyde">
+    <title>Craig of the Creek - Im Wald der Abenteuer</title>
+</programme>
+<programme start="20260123114000 +0000" stop="20260123115000 +0000" channel="Cartoon Network.skyde">
+    <title>Clarence</title>
+</programme>
+<programme start="20260123115000 +0000" stop="20260123120000 +0000" channel="Cartoon Network.skyde">
+    <title>Clarence</title>
+</programme>
+<programme start="20260123120000 +0000" stop="20260123121500 +0000" channel="Cartoon Network.skyde">
+    <title>Clarence</title>
+</programme>
+<programme start="20260123121500 +0000" stop="20260123122500 +0000" channel="Cartoon Network.skyde">
+    <title>Lana Longbeard</title>
+</programme>
+<programme start="20260123122500 +0000" stop="20260123123500 +0000" channel="Cartoon Network.skyde">
+    <title>Lana Longbeard</title>
+</programme>
+<programme start="20260123123500 +0000" stop="20260123125000 +0000" channel="Cartoon Network.skyde">
+    <title>Die wunderbar schräge Welt von Gumball</title>
+</programme>
+<programme start="20260123125000 +0000" stop="20260123130000 +0000" channel="Cartoon Network.skyde">
+    <title>Die wunderbar schräge Welt von Gumball</title>
+</programme>
+<programme start="20260123130000 +0000" stop="20260123131500 +0000" channel="Cartoon Network.skyde">
+    <title>Die fantastische Welt von Gumball</title>
+</programme>
+<programme start="20260123131500 +0000" stop="20260123132500 +0000" channel="Cartoon Network.skyde">
+    <title>Die fantastische Welt von Gumball</title>
+</programme>
+<programme start="20260123132500 +0000" stop="20260123133500 +0000" channel="Cartoon Network.skyde">
+    <title>Die fantastische Welt von Gumball</title>
+</programme>
+<programme start="20260123133500 +0000" stop="20260123135000 +0000" channel="Cartoon Network.skyde">
+    <title>Die fantastische Welt von Gumball</title>
+</programme>
+<programme start="20260123135000 +0000" stop="20260123140000 +0000" channel="Cartoon Network.skyde">
+    <title>Teen Titans Go!</title>
+</programme>
+<programme start="20260123140000 +0000" stop="20260123141000 +0000" channel="Cartoon Network.skyde">
+    <title>Teen Titans Go!</title>
+</programme>
+<programme start="20260123141000 +0000" stop="20260123142500 +0000" channel="Cartoon Network.skyde">
+    <title>Teen Titans Go!</title>
+</programme>
+<programme start="20260123142500 +0000" stop="20260123143500 +0000" channel="Cartoon Network.skyde">
+    <title>Teen Titans Go!</title>
+</programme>
+<programme start="20260123143500 +0000" stop="20260123144500 +0000" channel="Cartoon Network.skyde">
+    <title>Looney Tunes Cartoons</title>
+</programme>
+<programme start="20260123144500 +0000" stop="20260123150000 +0000" channel="Cartoon Network.skyde">
+    <title>Looney Tunes Cartoons</title>
+</programme>
+<programme start="20260123150000 +0000" stop="20260123151000 +0000" channel="Cartoon Network.skyde">
+    <title>Looney Tunes Cartoons</title>
+</programme>
+<programme start="20260123151000 +0000" stop="20260123153000 +0000" channel="Cartoon Network.skyde">
+    <title>Tiny Toons Looniversity</title>
+</programme>
+<programme start="20260123153000 +0000" stop="20260123154500 +0000" channel="Cartoon Network.skyde">
+    <title>Lana Longbeard</title>
+</programme>
+<programme start="20260123154500 +0000" stop="20260123155500 +0000" channel="Cartoon Network.skyde">
+    <title>Lana Longbeard</title>
+</programme>
+<programme start="20260123155500 +0000" stop="20260123161000 +0000" channel="Cartoon Network.skyde">
+    <title>Die wunderbar schräge Welt von Gumball</title>
+</programme>
+<programme start="20260123161000 +0000" stop="20260123162000 +0000" channel="Cartoon Network.skyde">
+    <title>Die wunderbar schräge Welt von Gumball</title>
+</programme>
+<programme start="20260123162000 +0000" stop="20260123163500 +0000" channel="Cartoon Network.skyde">
+    <title>Teen Titans Go!</title>
+</programme>
+<programme start="20260123163500 +0000" stop="20260123164000 +0000" channel="Cartoon Network.skyde">
+    <title>Teen Titans Go!</title>
+</programme>
+<programme start="20260123164000 +0000" stop="20260123165500 +0000" channel="Cartoon Network.skyde">
+    <title>Teen Titans Go!</title>
+</programme>
+<programme start="20260123165500 +0000" stop="20260123170500 +0000" channel="Cartoon Network.skyde">
+    <title>Teen Titans Go!</title>
+</programme>
+<programme start="20260123170500 +0000" stop="20260123173000 +0000" channel="Cartoon Network.skyde">
+    <title>Tiny Toons Looniversity</title>
+</programme>
+<programme start="20260123173000 +0000" stop="20260123174000 +0000" channel="Cartoon Network.skyde">
+    <title>Lana Longbeard</title>
+</programme>
+<programme start="20260123174000 +0000" stop="20260123175000 +0000" channel="Cartoon Network.skyde">
+    <title>Lana Longbeard</title>
+</programme>
+<programme start="20260123175000 +0000" stop="20260123180500 +0000" channel="Cartoon Network.skyde">
+    <title>Craig of the Creek - Im Wald der Abenteuer</title>
+</programme>
+<programme start="20260123180500 +0000" stop="20260123181500 +0000" channel="Cartoon Network.skyde">
+    <title>Craig of the Creek - Im Wald der Abenteuer</title>
+</programme>
+<programme start="20260123181500 +0000" stop="20260123182500 +0000" channel="Cartoon Network.skyde">
+    <title>Die fantastische Welt von Gumball</title>
+</programme>
+<programme start="20260123182500 +0000" stop="20260123184000 +0000" channel="Cartoon Network.skyde">
+    <title>Die fantastische Welt von Gumball</title>
+</programme>
+<programme start="20260123184000 +0000" stop="20260123185000 +0000" channel="Cartoon Network.skyde">
+    <title>Die fantastische Welt von Gumball</title>
+</programme>
+<programme start="20260123185000 +0000" stop="20260123190000 +0000" channel="Cartoon Network.skyde">
+    <title>Die fantastische Welt von Gumball</title>
+</programme>
+<programme start="20260123190000 +0000" stop="20260123192500 +0000" channel="Cartoon Network.skyde">
+    <title>Teen Titans Go!</title>
+</programme>
+<programme start="20260123192500 +0000" stop="20260123193500 +0000" channel="Cartoon Network.skyde">
+    <title>Teen Titans Go!</title>
+</programme>
+<programme start="20260123193500 +0000" stop="20260123195000 +0000" channel="Cartoon Network.skyde">
+    <title>Teen Titans Go!</title>
+</programme>
+<programme start="20260123195000 +0000" stop="20260123200000 +0000" channel="Cartoon Network.skyde">
+    <title>Die wunderbar schräge Welt von Gumball</title>
+</programme>
+<programme start="20260123200000 +0000" stop="20260123201000 +0000" channel="Cartoon Network.skyde">
+    <title>Die wunderbar schräge Welt von Gumball</title>
+</programme>
+<programme start="20260123201000 +0000" stop="20260123202500 +0000" channel="Cartoon Network.skyde">
+    <title>Die fantastische Welt von Gumball</title>
+</programme>
+<programme start="20260123202500 +0000" stop="20260123203500 +0000" channel="Cartoon Network.skyde">
+    <title>Die fantastische Welt von Gumball</title>
+</programme>
+<programme start="20260123203500 +0000" stop="20260123205000 +0000" channel="Cartoon Network.skyde">
+    <title>Die fantastische Welt von Gumball</title>
+</programme>
+<programme start="20260123205000 +0000" stop="20260123210000 +0000" channel="Cartoon Network.skyde">
+    <title>Die fantastische Welt von Gumball</title>
+</programme>
+<programme start="20260123210000 +0000" stop="20260123211000 +0000" channel="Cartoon Network.skyde">
+    <title>Adventure Time - Abenteuerzeit mit Finn und Jake</title>
+</programme>
+<programme start="20260123211000 +0000" stop="20260123212000 +0000" channel="Cartoon Network.skyde">
+    <title>Adventure Time - Abenteuerzeit mit Finn und Jake</title>
+</programme>
+<programme start="20260123212000 +0000" stop="20260123213000 +0000" channel="Cartoon Network.skyde">
+    <title>Adventure Time - Abenteuerzeit mit Finn und Jake</title>
+</programme>
+<programme start="20260123213000 +0000" stop="20260123214500 +0000" channel="Cartoon Network.skyde">
+    <title>Adventure Time - Abenteuerzeit mit Finn und Jake</title>
+</programme>
+<programme start="20260123214500 +0000" stop="20260123215500 +0000" channel="Cartoon Network.skyde">
+    <title>Regular Show - Völlig abgedreht</title>
+</programme>
+<programme start="20260123215500 +0000" stop="20260123220500 +0000" channel="Cartoon Network.skyde">
+    <title>Regular Show - Völlig abgedreht</title>
+</programme>
+<programme start="20260123220500 +0000" stop="20260123222000 +0000" channel="Cartoon Network.skyde">
+    <title>Regular Show - Völlig abgedreht</title>
+</programme>
+<programme start="20260123222000 +0000" stop="20260123223000 +0000" channel="Cartoon Network.skyde">
+    <title>Regular Show - Völlig abgedreht</title>
+</programme>
+<programme start="20260123223000 +0000" stop="20260123225000 +0000" channel="Cartoon Network.skyde">
+    <title>Muh-Kuh und Chickie</title>
+</programme>
+<programme start="20260123225000 +0000" stop="20260123231500 +0000" channel="Cartoon Network.skyde">
+    <title>Dexters Labor</title>
+</programme>
 <programme start="20260122231500 +0000" stop="20260122232500 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
