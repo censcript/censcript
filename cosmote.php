@@ -1,11 +1,3 @@
-<programme start="20260124043000 +0700" stop="20260124053000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>UEFA Champions League Highlights 2025-26</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260124053000 +0700" stop="20260124060000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Game R1 S6 E22</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260124060000 +0700" stop="20260124070000 +0700" channel="COSMOTE Sport 1 HD">
     <title>UEFA Champions League Highlights 2025-26</title>
     <desc>Live: Tidak</desc>
@@ -290,8 +282,12 @@
     <title>Basketball: Philadelphia 76ers - New York Knicks (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260124035000 +0700" stop="20260124052000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>DTM 2025</title>
+<programme start="20260125060000 +0700" stop="20260125065500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>NBA Specials: Basketball Stories</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260125065500 +0700" stop="20260125073000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>NBA on Fire 2025-26 E13</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260124052000 +0700" stop="20260124070500 +0700" channel="COSMOTE Sport 5 HD">
@@ -406,8 +402,8 @@
     <title>MotoGP Classics</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260124032000 +0700" stop="20260124060000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Fight Sports: Oktagon 2026</title>
+<programme start="20260125063000 +0700" stop="20260125073000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Highlights: 2025 Extreme H</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260124060000 +0700" stop="20260124065000 +0700" channel="COSMOTE Sport 6 HD">
@@ -478,16 +474,8 @@
     <title>2025 Premier Padel Tour Finals</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260124031500 +0700" stop="20260124051500 +0700" channel="COSMOTE Sport 7 HD">
-    <title>Football: Casa Pia - AVS Futebol (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20260124051500 +0700" stop="20260124053000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260124053000 +0700" stop="20260124060000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
+<programme start="20260125065000 +0700" stop="20260125090000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>World Athletics Indoor Tour Gold 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260124060000 +0700" stop="20260124070000 +0700" channel="COSMOTE Sport 7 HD">

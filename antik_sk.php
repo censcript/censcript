@@ -3341,7 +3341,7 @@
     <title lang="id">Zprávy</title>
   </programme>
   <programme start="20260125060500 +0000" stop="20260125070000 +0000" channel="ČT24.webtv.sk">
-    <title lang="id">Regiony ČT24</title>
+    <title lang="id">Hyde Park Civilizace</title>
   </programme>
   <programme start="20260125070000 +0000" stop="20260125073100 +0000" channel="ČT24.webtv.sk">
     <title lang="id">Zprávy</title>
@@ -3364,11 +3364,8 @@
   <programme start="20260125093200 +0000" stop="20260125100000 +0000" channel="ČT24.webtv.sk">
     <title lang="id">Archiv ČT24</title>
   </programme>
-  <programme start="20260125100000 +0000" stop="20260125100500 +0000" channel="ČT24.webtv.sk">
-    <title lang="id">Zprávy</title>
-  </programme>
-  <programme start="20260125100500 +0000" stop="20260125110000 +0000" channel="ČT24.webtv.sk">
-    <title lang="id">Hyde Park Civilizace</title>
+  <programme start="20260125100000 +0000" stop="20260125110000 +0000" channel="ČT24.webtv.sk">
+    <title lang="id">Zkraje</title>
   </programme>
   <programme start="20260125110000 +0000" stop="20260125120000 +0000" channel="ČT24.webtv.sk">
     <title lang="id">Otázky Václava Moravce</title>
