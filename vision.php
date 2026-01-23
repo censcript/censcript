@@ -113,43 +113,46 @@
 <title>Skripsick</title>
 </programme>
 <programme start="20260123170000 +0000" stop="20260123190000 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<title>Suparman Reborn 2</title>
 </programme>
-<programme start="20260123190000 +0000" stop="20260123220000 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<programme start="20260123190000 +0000" stop="20260123224500 +0000" channel="MNCTV.vision">
+<title>Suparman Reborn</title>
 </programme>
-<programme start="20260123220000 +0000" stop="20260123231500 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<programme start="20260123224500 +0000" stop="20260123230000 +0000" channel="MNCTV.vision">
+<title>Pada Zaman Dahulu</title>
+</programme>
+<programme start="20260123230000 +0000" stop="20260123231500 +0000" channel="MNCTV.vision">
+<title>CoComelon</title>
 </programme>
 <programme start="20260123231500 +0000" stop="20260123234500 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<title>Thomas &amp; Friends</title>
 </programme>
 <programme start="20260123234500 +0000" stop="20260124001500 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<title>Zak Storm</title>
 </programme>
 <programme start="20260124001500 +0000" stop="20260124004500 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<title>Kung Fu Panda Dan Sahabat</title>
 </programme>
-<programme start="20260124004500 +0000" stop="20260124010000 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<programme start="20260124004500 +0000" stop="20260124011500 +0000" channel="MNCTV.vision">
+<title>Pada Zaman Dahulu</title>
 </programme>
-<programme start="20260124010000 +0000" stop="20260124013000 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<programme start="20260124011500 +0000" stop="20260124043000 +0000" channel="MNCTV.vision">
+<title>Upin dan Ipin (MNCTV)</title>
 </programme>
-<programme start="20260124013000 +0000" stop="20260124020000 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<programme start="20260124043000 +0000" stop="20260124073000 +0000" channel="MNCTV.vision">
+<title>Upin &amp; Ipin</title>
 </programme>
-<programme start="20260124020000 +0000" stop="20260124050000 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<programme start="20260124073000 +0000" stop="20260124090000 +0000" channel="MNCTV.vision">
+<title>Kiko</title>
 </programme>
-<programme start="20260124050000 +0000" stop="20260124080000 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<programme start="20260124090000 +0000" stop="20260124100000 +0000" channel="MNCTV.vision">
+<title>Upin &amp; Ipin</title>
 </programme>
-<programme start="20260124080000 +0000" stop="20260124110000 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<programme start="20260124100000 +0000" stop="20260124113000 +0000" channel="MNCTV.vision">
+<title>Upin &amp; Ipin</title>
 </programme>
-<programme start="20260124110000 +0000" stop="20260124140000 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<programme start="20260124113000 +0000" stop="20260124123000 +0000" channel="MNCTV.vision">
+<title>Entong</title>
 </programme>
 <programme start="20260123000000 +0000" stop="20260123010000 +0000" channel="GTV.vision">
 <title>Obrolan Seputar Selebriti (GTV)</title>
@@ -274,43 +277,52 @@
 <programme start="20260123163000 +0000" stop="20260123191500 +0000" channel="iNews.vision">
 <title>Indonesia Masters</title>
 </programme>
-<programme start="20260123194500 +0000" stop="20260123201500 +0000" channel="iNews.vision">
-<title>iNews</title>
+<programme start="20260123191500 +0000" stop="20260123201500 +0000" channel="iNews.vision">
+<title>Realita</title>
 </programme>
 <programme start="20260123201500 +0000" stop="20260123210000 +0000" channel="iNews.vision">
-<title>iNews</title>
+<title>Special Report</title>
 </programme>
 <programme start="20260123210000 +0000" stop="20260123211500 +0000" channel="iNews.vision">
-<title>iNews</title>
+<title>Special Report</title>
 </programme>
 <programme start="20260123211500 +0000" stop="20260123230000 +0000" channel="iNews.vision">
-<title>iNews</title>
+<title>Inews Pagi (Live)</title>
 </programme>
 <programme start="20260123230000 +0000" stop="20260123230200 +0000" channel="iNews.vision">
-<title>iNews</title>
+<title>Indonesia Raya</title>
 </programme>
 <programme start="20260123230200 +0000" stop="20260123233000 +0000" channel="iNews.vision">
-<title>iNews</title>
+<title>iNews Sport</title>
 </programme>
 <programme start="20260123233000 +0000" stop="20260124000000 +0000" channel="iNews.vision">
-<title>iNews</title>
+<title>Special Report</title>
 </programme>
-<programme start="20260124000000 +0000" stop="20260124010000 +0000" channel="iNews.vision">
-<title>iNews</title>
+<programme start="20260124000000 +0000" stop="20260124001000 +0000" channel="iNews.vision">
+<title>iNews Terkini (L)</title>
+</programme>
+<programme start="20260124001000 +0000" stop="20260124003000 +0000" channel="iNews.vision">
+<title>iBreak: The One Entrepreneur</title>
+</programme>
+<programme start="20260124003000 +0000" stop="20260124010000 +0000" channel="iNews.vision">
+<title>iBreak: The One Entrepreneur</title>
 </programme>
 <programme start="20260124010000 +0000" stop="20260124020000 +0000" channel="iNews.vision">
-<title>iNews</title>
+<title>The Prime Show (iNews)</title>
 </programme>
 <programme start="20260124020000 +0000" stop="20260124030000 +0000" channel="iNews.vision">
-<title>iNews</title>
+<title>iNews Files</title>
 </programme>
 <programme start="20260124030000 +0000" stop="20260124040000 +0000" channel="iNews.vision">
-<title>iNews</title>
+<title>iNews Siang (L)</title>
 </programme>
 <programme start="20260124040000 +0000" stop="20260124053000 +0000" channel="iNews.vision">
-<title>iNews</title>
+<title>Cahaya Hati Indonesia</title>
 </programme>
-<programme start="20260124053000 +0000" stop="20260124091500 +0000" channel="iNews.vision">
+<programme start="20260124053000 +0000" stop="20260124053300 +0000" channel="iNews.vision">
+<title>iNews Terkini (L)</title>
+</programme>
+<programme start="20260124053300 +0000" stop="20260124091500 +0000" channel="iNews.vision">
 <title>iNews</title>
 </programme>
 <programme start="20260124091500 +0000" stop="20260124130000 +0000" channel="iNews.vision">
@@ -374,22 +386,19 @@
 <title>New Top Files</title>
 </programme>
 <programme start="20260123180000 +0000" stop="20260123190000 +0000" channel="SindoNews.vision">
-<title>iNews Malam</title>
+<title>Special Report</title>
 </programme>
-<programme start="20260123190000 +0000" stop="20260123200000 +0000" channel="SindoNews.vision">
+<programme start="20260123190000 +0000" stop="20260123203000 +0000" channel="SindoNews.vision">
 <title>SINDO Prime</title>
 </programme>
-<programme start="20260123200000 +0000" stop="20260123210000 +0000" channel="SindoNews.vision">
-<title>iNews Sore</title>
-</programme>
-<programme start="20260123210000 +0000" stop="20260123220000 +0000" channel="SindoNews.vision">
-<title>SINDO Malam</title>
+<programme start="20260123203000 +0000" stop="20260123220000 +0000" channel="SindoNews.vision">
+<title>SINDO Sore</title>
 </programme>
 <programme start="20260123220000 +0000" stop="20260123223000 +0000" channel="SindoNews.vision">
 <title>Ayat-Ayat Langit</title>
 </programme>
 <programme start="20260123223000 +0000" stop="20260123233000 +0000" channel="SindoNews.vision">
-<title>Lintas iNews Pagi</title>
+<title>SINDO Malam</title>
 </programme>
 <programme start="20260123233000 +0000" stop="20260124003000 +0000" channel="SindoNews.vision">
 <title>iNews Today</title>
@@ -1487,14 +1496,5 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260123070000 +0000" stop="20260123090000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260123090000 +0000" stop="20260123110000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260123110000 +0000" stop="20260123130000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260123130000 +0000" stop="20260123150000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
