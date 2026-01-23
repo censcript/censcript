@@ -66,6 +66,10 @@
     <title>UEFA Champions League Highlights 2025-26</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260124140000 +0700" stop="20260124160000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: Ferencvarosi TC - Panathinaikos</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260123120000 +0700" stop="20260123141500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: AEL Novibet - Aris</title>
     <desc>Live: Tidak</desc>
@@ -134,6 +138,14 @@
     <title>Football: AEK - Panathinaikos</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260124141000 +0700" stop="20260124143500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Sports Classics: Worldies E19</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260124143500 +0700" stop="20260124150500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Sports Classics: Football&#039;s Greatest IV E4</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260123130000 +0700" stop="20260123150000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Stoke City - Middlesbrough</title>
     <desc>Live: Tidak</desc>
@@ -196,6 +208,10 @@
 </programme>
 <programme start="20260124125500 +0700" stop="20260124145000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Damak - Al Nassr</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260124145000 +0700" stop="20260124165000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Rio Ave - SL Benfica</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260123130000 +0700" stop="20260123150000 +0700" channel="COSMOTE Sport 4 HD">
@@ -268,10 +284,6 @@
 </programme>
 <programme start="20260124130000 +0700" stop="20260124150000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Bertram Derthona Tortona - Armani Milano</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260123130000 +0700" stop="20260123135500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>2025 GT World Challenge Europe</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260123135500 +0700" stop="20260123150000 +0700" channel="COSMOTE Sport 5 HD">
@@ -381,6 +393,10 @@
 <programme start="20260124134000 +0700" stop="20260124143000 +0700" channel="COSMOTE Sport 5 HD">
     <title>WRC 2026</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260124143000 +0700" stop="20260124153500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC 2026 (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260123130000 +0700" stop="20260123145500 +0700" channel="COSMOTE Sport 6 HD">
     <title>2025 Premier Padel Tour Finals</title>

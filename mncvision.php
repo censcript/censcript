@@ -6316,11 +6316,8 @@
 <programme start="20260123093000 +0000" stop="20260123100000 +0000" channel="NHK World.mncvision">
     <title>Japan Railway Journal</title>
 </programme>
-<programme start="20260123100000 +0000" stop="20260123103000 +0000" channel="NHK World.mncvision">
+<programme start="20260123100000 +0000" stop="20260123110000 +0000" channel="NHK World.mncvision">
     <title>NHK News 7</title>
-</programme>
-<programme start="20260123103000 +0000" stop="20260123110000 +0000" channel="NHK World.mncvision">
-    <title>Asia Insight</title>
 </programme>
 <programme start="20260123110000 +0000" stop="20260123112800 +0000" channel="NHK World.mncvision">
     <title>Newsroom Tokyo</title>
@@ -6342,6 +6339,9 @@
 </programme>
 <programme start="20260123130000 +0000" stop="20260123133000 +0000" channel="NHK World.mncvision">
     <title>NHK Newsline</title>
+</programme>
+<programme start="20260123133000 +0000" stop="20260123140000 +0000" channel="NHK World.mncvision">
+    <title>Kansai Deeper</title>
 </programme>
 <programme start="20260122171000 +0000" stop="20260122174000 +0000" channel="NHK World Premium.mncvision">
     <title>Koyuki &amp; Fermenting Master</title>
