@@ -97,10 +97,10 @@
     <programme start="20260123145000 +0000" stop="20260123150000 +0000" channel="VTV1 HD.mytv">
         <title> Truyền hình trực tiếp : Bế mạc Đại hội đại biểu toàn quốc lần thứ XIV của Đảng</title>
     </programme>
-    <programme start="20260123150000 +0000" stop="20260123170000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260123150000 +0000" stop="20260123164600 +0000" channel="VTV1 HD.mytv">
         <title> Chuyên mục Kết nối và đam mê</title>
     </programme>
-    <programme start="20260123170000 +0000" stop="20260123171500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260123164600 +0000" stop="20260123171500 +0000" channel="VTV1 HD.mytv">
         <title> Tin nhanh Đà Nẵng</title>
     </programme>
     <programme start="20260123171500 +0000" stop="20260123173000 +0000" channel="VTV1 HD.mytv">

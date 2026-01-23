@@ -2195,7 +2195,7 @@
         <title>Best Of AO 2026: Day 6 Match 1</title>
     </programme>
     <programme start="20260123143000 +0000" stop="20260123163000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Best Of AO 2026: Day 6 Match 2</title>
+        <title>Men&#039;s Singles Rd 3 Alcaraz v Moutet</title>
     </programme>
     <programme start="20260122160000 +0000" stop="20260122170000 +0000" channel="TVB Xing He.starhub">
         <title>Happy Ever After</title>

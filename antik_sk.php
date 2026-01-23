@@ -178,7 +178,10 @@
   <programme start="20260125090000 +0000" stop="20260125103000 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Bohoslužba</title>
   </programme>
-  <programme start="20260125103000 +0000" stop="20260125104500 +0000" channel="Dvojka.webtv.sk">
+  <programme start="20260125103000 +0000" stop="20260125103500 +0000" channel="Dvojka.webtv.sk">
+    <title lang="id">NeCelebrity</title>
+  </programme>
+  <programme start="20260125103500 +0000" stop="20260125104500 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Koncerty komornej hudby</title>
   </programme>
   <programme start="20260125104500 +0000" stop="20260125115500 +0000" channel="Dvojka.webtv.sk">
@@ -224,10 +227,10 @@
     <title lang="id">Večerníček</title>
   </programme>
   <programme start="20260125173500 +0000" stop="20260125174500 +0000" channel="Dvojka.webtv.sk">
-    <title lang="id">Sam a Júlia z Myšieho domu</title>
+    <title lang="id">Pip a Posy</title>
   </programme>
   <programme start="20260125174500 +0000" stop="20260125175000 +0000" channel="Dvojka.webtv.sk">
-    <title lang="id">Medvedík Pompon II</title>
+    <title lang="id">Bluey II</title>
   </programme>
   <programme start="20260125175000 +0000" stop="20260125175500 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Fidlibumove pokusy</title>
@@ -244,11 +247,8 @@
   <programme start="20260125183000 +0000" stop="20260125184000 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Môj dom</title>
   </programme>
-  <programme start="20260125184000 +0000" stop="20260125184500 +0000" channel="Dvojka.webtv.sk">
+  <programme start="20260125184000 +0000" stop="20260125190000 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Môj dom</title>
-  </programme>
-  <programme start="20260125184500 +0000" stop="20260125190000 +0000" channel="Dvojka.webtv.sk">
-    <title lang="id">Zázračný miniateliér</title>
   </programme>
   <programme start="20260125190000 +0000" stop="20260125191000 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Správy v slovenskom posunkovom jazyku</title>
