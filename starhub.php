@@ -3784,10 +3784,10 @@
     <programme start="20260123034500 +0000" stop="20260123040000 +0000" channel="NHK World Premium HD.starhub">
         <title>Drama Serial &quot;The Ghost Writer&#039;s Wife&quot; Ep. 80 (R)</title>
     </programme>
-    <programme start="20260123040000 +0000" stop="20260123040500 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20260123040000 +0000" stop="20260123045500 +0000" channel="NHK World Premium HD.starhub">
         <title>News</title>
     </programme>
-    <programme start="20260123040500 +0000" stop="20260123055000 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20260123045500 +0000" stop="20260123055000 +0000" channel="NHK World Premium HD.starhub">
         <title>News Around Japan</title>
     </programme>
     <programme start="20260123055000 +0000" stop="20260123055500 +0000" channel="NHK World Premium HD.starhub">

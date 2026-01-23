@@ -74,6 +74,10 @@
     <title>UEFA Champions League Highlights 2025-26</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260124180000 +0700" stop="20260124200000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: Olympiacos - Bayer 04 Leverkusen</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260123161500 +0700" stop="20260123181500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Pisa - Atalanta</title>
     <desc>Live: Tidak</desc>
@@ -214,8 +218,8 @@
     <title>Football: Derby County - West Bromwich Albion</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260123170000 +0700" stop="20260123172000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>ACB Liga Endesa 2025-26 - Fifth Quarter E12</title>
+<programme start="20260124185000 +0700" stop="20260124210000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: APOEL - Omonia Aradippou</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260123172000 +0700" stop="20260123192500 +0700" channel="COSMOTE Sport 4 HD">
@@ -294,12 +298,8 @@
     <title>ACB Liga Endesa 2025-26 - Fifth Quarter E15</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260123163000 +0700" stop="20260123172500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC 2026 (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20260123172500 +0700" stop="20260123175000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Sports Classics: Worldies E20</title>
+<programme start="20260124181500 +0700" stop="20260124202500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: AEK - Karditsa</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260123175000 +0700" stop="20260123183500 +0700" channel="COSMOTE Sport 5 HD">
@@ -410,8 +410,8 @@
     <title>MotoGP Classics</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260123145500 +0700" stop="20260123173000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Volleyball: Olympiacos - Karlovarsko</title>
+<programme start="20260124181000 +0700" stop="20260124191000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>MotoGP Classics</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260123173000 +0700" stop="20260123192000 +0700" channel="COSMOTE Sport 6 HD">
@@ -464,6 +464,10 @@
 </programme>
 <programme start="20260124154500 +0700" stop="20260124182000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP Challenger 50 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260124182000 +0700" stop="20260124203000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>OPAP Padel Series Tournament Padel Place Marousi</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260123170000 +0700" stop="20260123190000 +0700" channel="COSMOTE Sport 7 HD">
