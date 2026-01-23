@@ -364,11 +364,8 @@
     <programme start="20260123130000 +0000" stop="20260123140000 +0000" channel="Channel U.mewatch">
         <title>Taiwan&#039;s 1001 Stories S11 - EP 4</title>
     </programme>
-    <programme start="20260123140000 +0000" stop="20260123150000 +0000" channel="Channel U.mewatch">
+    <programme start="20260123140000 +0000" stop="20260123153000 +0000" channel="Channel U.mewatch">
         <title>Love Scout - EP 7</title>
-    </programme>
-    <programme start="20260123150000 +0000" stop="20260123153000 +0000" channel="Channel U.mewatch">
-        <title>News Tonight</title>
     </programme>
     <programme start="20260123153000 +0000" stop="20260123163000 +0000" channel="Channel U.mewatch">
         <title>Taiwan&#039;s 1001 Stories S11 - EP 4</title>
