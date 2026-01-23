@@ -982,71 +982,68 @@
 <programme start="20260123163000 +0000" stop="20260123170000 +0000" channel="Kompas TV.vision">
 <title>Kilas Kompas</title>
 </programme>
-<programme start="20260123170000 +0000" stop="20260123190000 +0000" channel="Kompas TV.vision">
-<title>Kompas TV</title>
+<programme start="20260123170000 +0000" stop="20260123180000 +0000" channel="Kompas TV.vision">
+<title>Berita Utama</title>
 </programme>
-<programme start="20260123190000 +0000" stop="20260123200000 +0000" channel="Kompas TV.vision">
-<title>Kompas TV</title>
+<programme start="20260123180000 +0000" stop="20260123193000 +0000" channel="Kompas TV.vision">
+<title>Kompas Petang</title>
 </programme>
-<programme start="20260123200000 +0000" stop="20260123203000 +0000" channel="Kompas TV.vision">
-<title>Kompas TV</title>
+<programme start="20260123193000 +0000" stop="20260123203000 +0000" channel="Kompas TV.vision">
+<title>Kompas Malam</title>
 </programme>
 <programme start="20260123203000 +0000" stop="20260123210000 +0000" channel="Kompas TV.vision">
-<title>Kompas TV</title>
+<title>Kalam Hati</title>
 </programme>
 <programme start="20260123210000 +0000" stop="20260123213000 +0000" channel="Kompas TV.vision">
-<title>Kompas TV</title>
+<title>Borgol</title>
 </programme>
-<programme start="20260123213000 +0000" stop="20260124000000 +0000" channel="Kompas TV.vision">
-<title>Kompas TV</title>
+<programme start="20260123213000 +0000" stop="20260123233000 +0000" channel="Kompas TV.vision">
+<title>Kompas Pagi Akhir Pekan</title>
+</programme>
+<programme start="20260123233000 +0000" stop="20260124000000 +0000" channel="Kompas TV.vision">
+<title>Jurnal Nusantara</title>
 </programme>
 <programme start="20260124000000 +0000" stop="20260124013000 +0000" channel="Kompas TV.vision">
-<title>Kompas TV</title>
+<title>Sapa Indonesia Pagi</title>
 </programme>
 <programme start="20260124013000 +0000" stop="20260124020000 +0000" channel="Kompas TV.vision">
-<title>Kompas TV</title>
+<title>Sasaran</title>
 </programme>
 <programme start="20260124020000 +0000" stop="20260124023000 +0000" channel="Kompas TV.vision">
-<title>Kompas TV</title>
+<title>Sustenesia</title>
 </programme>
 <programme start="20260124023000 +0000" stop="20260124030000 +0000" channel="Kompas TV.vision">
-<title>Kompas TV</title>
+<title>Pop News</title>
 </programme>
 <programme start="20260124030000 +0000" stop="20260124033000 +0000" channel="Kompas TV.vision">
-<title>Kompas TV</title>
+<title>Kompas Sepekan</title>
 </programme>
 <programme start="20260124033000 +0000" stop="20260124040000 +0000" channel="Kompas TV.vision">
-<title>Kompas TV</title>
+<title>Cerita Rasa</title>
 </programme>
 <programme start="20260124040000 +0000" stop="20260124050000 +0000" channel="Kompas TV.vision">
-<title>Kompas TV</title>
+<title>Kompas Siang</title>
 </programme>
 <programme start="20260124050000 +0000" stop="20260124053000 +0000" channel="Kompas TV.vision">
-<title>Kompas TV</title>
+<title>Borgol</title>
 </programme>
 <programme start="20260124053000 +0000" stop="20260124060000 +0000" channel="Kompas TV.vision">
-<title>Kompas TV</title>
+<title>News Or Hoax</title>
 </programme>
-<programme start="20260124060000 +0000" stop="20260124063000 +0000" channel="Kompas TV.vision">
-<title>Kompas TV</title>
-</programme>
-<programme start="20260124063000 +0000" stop="20260124070000 +0000" channel="Kompas TV.vision">
-<title>Kompas TV</title>
+<programme start="20260124060000 +0000" stop="20260124070000 +0000" channel="Kompas TV.vision">
+<title>Dipo Investigasi</title>
 </programme>
 <programme start="20260124070000 +0000" stop="20260124080000 +0000" channel="Kompas TV.vision">
-<title>Kompas TV</title>
+<title>Berita Utama</title>
 </programme>
 <programme start="20260124080000 +0000" stop="20260124090000 +0000" channel="Kompas TV.vision">
-<title>Kompas TV</title>
+<title>Cerita Militer On Sail</title>
 </programme>
 <programme start="20260124090000 +0000" stop="20260124110000 +0000" channel="Kompas TV.vision">
-<title>Kompas TV</title>
+<title>Kompas Petang</title>
 </programme>
-<programme start="20260124110000 +0000" stop="20260124113000 +0000" channel="Kompas TV.vision">
-<title>Kompas TV</title>
-</programme>
-<programme start="20260124113000 +0000" stop="20260124123000 +0000" channel="Kompas TV.vision">
-<title>Kompas TV</title>
+<programme start="20260124110000 +0000" stop="20260124120000 +0000" channel="Kompas TV.vision">
+<title>Gelar Perkara</title>
 </programme>
 <programme start="20260123000000 +0000" stop="20260123000500 +0000" channel="Metro TV.vision">
 <title>Headline News</title>
@@ -1496,5 +1493,8 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260123070000 +0000" stop="20260123090000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260123090000 +0000" stop="20260123110000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
