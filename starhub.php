@@ -2059,6 +2059,9 @@
     <programme start="20260123153000 +0000" stop="20260123163000 +0000" channel="Sun Music.starhub">
         <title>Non Stop Hits</title>
     </programme>
+    <programme start="20260122160000 +0000" stop="20260122170000 +0000" channel="CNN HD.starhub">
+        <title>One World (60m)</title>
+    </programme>
     <programme start="20260122170000 +0000" stop="20260122180000 +0000" channel="CNN HD.starhub">
         <title>One World (60m)</title>
     </programme>
