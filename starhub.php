@@ -9248,7 +9248,7 @@
         <title>No Transmission</title>
     </programme>
     <programme start="20260123040000 +0000" stop="20260123100000 +0000" channel="Cricbuzz 2.starhub">
-        <title>No Transmission</title>
+        <title>No 12345678901234567890123456789012345678901234567890123456789012345678901234567890Transmission</title>
     </programme>
     <programme start="20260123100000 +0000" stop="20260123160000 +0000" channel="Cricbuzz 2.starhub">
         <title>No Transmission</title>
