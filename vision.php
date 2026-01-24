@@ -562,9 +562,6 @@
 <programme start="20260124154500 +0000" stop="20260124163000 +0000" channel="Trans 7.vision">
 <title>The Police</title>
 </programme>
-<programme start="20260124163000 +0000" stop="20260124181500 +0000" channel="Trans 7.vision">
-<title>Belok Kanan Barcelona</title>
-</programme>
 <programme start="20260124181500 +0000" stop="20260124190000 +0000" channel="Trans 7.vision">
 <title>Best Fishing</title>
 </programme>
@@ -1496,5 +1493,8 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260124150000 +0000" stop="20260124170000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260124170000 +0000" stop="20260124190000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
