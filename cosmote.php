@@ -74,10 +74,6 @@
     <title>Football: GNK Dinamo - Fotbal Club FCSB</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260124095500 +0700" stop="20260124120000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: AEL Novibet - Aris</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260124120000 +0700" stop="20260124141000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: AEK - Panathinaikos</title>
     <desc>Live: Tidak</desc>
@@ -140,6 +136,10 @@
 </programme>
 <programme start="20260125100000 +0700" stop="20260125120000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Como - Torino</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260125120000 +0700" stop="20260125140000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: ACF Fiorentina - Cagliari</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260124110000 +0700" stop="20260124125500 +0700" channel="COSMOTE Sport 3 HD">
@@ -286,10 +286,6 @@
     <title>Basketball: AEK - Karditsa</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260124110000 +0700" stop="20260124115000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>2025 GT World Challenge Europe</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260124115000 +0700" stop="20260124124000 +0700" channel="COSMOTE Sport 5 HD">
     <title>WRC 2026</title>
     <desc>Live: Tidak</desc>
@@ -404,6 +400,10 @@
 </programme>
 <programme start="20260125114500 +0700" stop="20260125120500 +0700" channel="COSMOTE Sport 5 HD">
     <title>Sports Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260125120500 +0700" stop="20260125131000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260124110000 +0700" stop="20260124131500 +0700" channel="COSMOTE Sport 6 HD">

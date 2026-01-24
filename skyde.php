@@ -3745,10 +3745,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260124060000 +0000" stop="20260124065000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Mord ist ihr Hobby</title>
 </programme>
-<programme start="20260124065000 +0000" stop="20260124074000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260124065000 +0000" stop="20260124074500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Mord ist ihr Hobby</title>
 </programme>
-<programme start="20260124074000 +0000" stop="20260124083000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260124074500 +0000" stop="20260124083000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Fringe</title>
 </programme>
 <programme start="20260124083000 +0000" stop="20260124091500 +0000" channel="Warner TV Serie HD.skyde">
@@ -3760,10 +3760,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260124100500 +0000" stop="20260124105000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Fringe</title>
 </programme>
-<programme start="20260124105000 +0000" stop="20260124113500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260124105000 +0000" stop="20260124114000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Fringe</title>
 </programme>
-<programme start="20260124113500 +0000" stop="20260124122500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260124114000 +0000" stop="20260124122500 +0000" channel="Warner TV Serie HD.skyde">
     <title>NCIS: Los Angeles</title>
 </programme>
 <programme start="20260124122500 +0000" stop="20260124131000 +0000" channel="Warner TV Serie HD.skyde">
@@ -3784,10 +3784,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260124161000 +0000" stop="20260124165500 +0000" channel="Warner TV Serie HD.skyde">
     <title>NCIS</title>
 </programme>
-<programme start="20260124165500 +0000" stop="20260124174500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260124165500 +0000" stop="20260124174000 +0000" channel="Warner TV Serie HD.skyde">
     <title>NCIS</title>
 </programme>
-<programme start="20260124174500 +0000" stop="20260124183000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260124174000 +0000" stop="20260124183000 +0000" channel="Warner TV Serie HD.skyde">
     <title>NCIS</title>
 </programme>
 <programme start="20260124183000 +0000" stop="20260124191500 +0000" channel="Warner TV Serie HD.skyde">
@@ -3802,6 +3802,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260124220500 +0000" stop="20260124225000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Rescue: HI-Surf</title>
 </programme>
-<programme start="20260124225000 +0000" stop="20260125005500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260124225000 +0000" stop="20260125005000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Pain and Gain</title>
 </programme>
