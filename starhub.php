@@ -7738,13 +7738,13 @@
     <programme start="20260123133000 +0000" stop="20260123163000 +0000" channel="Asianet Movies.starhub">
         <title>Guruvayur Ambalanadayil</title>
     </programme>
-    <programme start="20260123163000 +0000" stop="20260123193000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260123163000 +0000" stop="20260123190000 +0000" channel="Asianet Movies.starhub">
         <title>Best Actor</title>
     </programme>
-    <programme start="20260123193000 +0000" stop="20260123213000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260123190000 +0000" stop="20260123211500 +0000" channel="Asianet Movies.starhub">
         <title>Mohabbath</title>
     </programme>
-    <programme start="20260123213000 +0000" stop="20260123233000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260123211500 +0000" stop="20260123231500 +0000" channel="Asianet Movies.starhub">
         <title>Varathan</title>
     </programme>
     <programme start="20260123231500 +0000" stop="20260124013000 +0000" channel="Asianet Movies.starhub">
