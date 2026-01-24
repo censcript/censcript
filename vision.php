@@ -547,9 +547,6 @@
 <programme start="20260124101500 +0000" stop="20260124110000 +0000" channel="Trans 7.vision">
 <title>Selebrita On The Weekend</title>
 </programme>
-<programme start="20260124110000 +0000" stop="20260124113000 +0000" channel="Trans 7.vision">
-<title>Legenda Bertuah</title>
-</programme>
 <programme start="20260124113000 +0000" stop="20260124121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
@@ -651,15 +648,6 @@
 </programme>
 <programme start="20260124104500 +0000" stop="20260124114500 +0000" channel="ANTV.vision">
 <title>ANTV Seru</title>
-</programme>
-<programme start="20260124114500 +0000" stop="20260124133000 +0000" channel="ANTV.vision">
-<title>Rajawali Dari Utara</title>
-</programme>
-<programme start="20260124133000 +0000" stop="20260124150000 +0000" channel="ANTV.vision">
-<title>Perjanjian Di Malam Keramat</title>
-</programme>
-<programme start="20260124150000 +0000" stop="20260124163000 +0000" channel="ANTV.vision">
-<title>Menjelang Ajal</title>
 </programme>
 <programme start="20260124163000 +0000" stop="20260124190000 +0000" channel="ANTV.vision">
 <title>Serie A Liga Italia</title>
@@ -1496,5 +1484,17 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260124070000 +0000" stop="20260124090000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260124090000 +0000" stop="20260124110000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260124110000 +0000" stop="20260124130000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260124130000 +0000" stop="20260124150000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260124150000 +0000" stop="20260124170000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
