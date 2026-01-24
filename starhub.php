@@ -8561,7 +8561,7 @@
         <title>Midlife, Sing &amp; Shine! 4</title>
     </programme>
     <programme start="20260124073000 +0000" stop="20260124080000 +0000" channel="TVB Jade HD.starhub">
-        <title>China Resources (Holdings) Co. Ltd. Presents: No Poverty Land V - Odyssey of Int</title>
+        <title>China Resources (Holdings) Co. Ltd. Presents: No Poverty Land V - Odyssey of Intelligence</title>
     </programme>
     <programme start="20260124080000 +0000" stop="20260124083000 +0000" channel="TVB Jade HD.starhub">
         <title>Star Weekly</title>
