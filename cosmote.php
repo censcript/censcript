@@ -1,7 +1,3 @@
-<programme start="20260124130000 +0700" stop="20260124140000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>UEFA Champions League Highlights 2025-26</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260124140000 +0700" stop="20260124160000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Ferencvarosi TC - Panathinaikos</title>
     <desc>Live: Tidak</desc>
@@ -74,6 +70,10 @@
     <title>Highlights: UEL &amp; UECL 2025-26</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260125140000 +0700" stop="20260125160000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: PAOK - Real Betis Balompie</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260124120000 +0700" stop="20260124141000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: AEK - Panathinaikos</title>
     <desc>Live: Tidak</desc>
@@ -140,6 +140,10 @@
 </programme>
 <programme start="20260125120000 +0700" stop="20260125140000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: ACF Fiorentina - Cagliari</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260125140000 +0700" stop="20260125160000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Lecce - SS Lazio</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260124125500 +0700" stop="20260124145000 +0700" channel="COSMOTE Sport 3 HD">
@@ -290,10 +294,6 @@
     <title>Basketball: Rio Breogan - Real Madrid</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260124124000 +0700" stop="20260124134000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC 2026</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260124134000 +0700" stop="20260124143000 +0700" channel="COSMOTE Sport 5 HD">
     <title>WRC 2026</title>
     <desc>Live: Tidak</desc>
@@ -410,8 +410,12 @@
     <title>WRC 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260124110000 +0700" stop="20260124131500 +0700" channel="COSMOTE Sport 6 HD">
-    <title>2025 Premier Padel Tour Finals</title>
+<programme start="20260125140500 +0700" stop="20260125145000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC 2026 (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
+<programme start="20260125145000 +0700" stop="20260125153000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Moto-E World Championship 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260124131500 +0700" stop="20260124154500 +0700" channel="COSMOTE Sport 6 HD">
