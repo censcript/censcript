@@ -2444,7 +2444,7 @@
         <title>End of Transmission</title>
     </programme>
     <programme start="20260124071500 +0000" stop="20260124153000 +0000" channel="Hub Sports 5 HD.starhub">
-        <title>M25: PO1</title>
+        <title>M25: PO1 - Japan vs Tanzania</title>
     </programme>
     <programme start="20260124153000 +0000" stop="20260124160000 +0000" channel="Hub Sports 5 HD.starhub">
         <title>End of Transmission</title>
@@ -7747,10 +7747,13 @@
     <programme start="20260123213000 +0000" stop="20260123233000 +0000" channel="Asianet Movies.starhub">
         <title>Varathan</title>
     </programme>
-    <programme start="20260123233000 +0000" stop="20260124013000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260123231500 +0000" stop="20260124013000 +0000" channel="Asianet Movies.starhub">
         <title>Innanu Aa Kalyanam</title>
     </programme>
-    <programme start="20260124013000 +0000" stop="20260124043000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260124013000 +0000" stop="20260124015000 +0000" channel="Asianet Movies.starhub">
+        <title>Chirikkum Thalika</title>
+    </programme>
+    <programme start="20260124015000 +0000" stop="20260124043000 +0000" channel="Asianet Movies.starhub">
         <title>In Ghost House Inn</title>
     </programme>
     <programme start="20260124043000 +0000" stop="20260124073000 +0000" channel="Asianet Movies.starhub">
@@ -7762,7 +7765,7 @@
     <programme start="20260124103000 +0000" stop="20260124133000 +0000" channel="Asianet Movies.starhub">
         <title>Anand Sreebala</title>
     </programme>
-    <programme start="20260124133000 +0000" stop="20260124160000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260124133000 +0000" stop="20260124161000 +0000" channel="Asianet Movies.starhub">
         <title>Padakkalam</title>
     </programme>
     <programme start="20260123160000 +0000" stop="20260123170000 +0000" channel="Astro Warna HD.starhub">
@@ -8558,7 +8561,7 @@
         <title>Midlife, Sing &amp; Shine! 4</title>
     </programme>
     <programme start="20260124073000 +0000" stop="20260124080000 +0000" channel="TVB Jade HD.starhub">
-        <title>China Resources (Holdings) Co. Ltd. Presents: No Poverty Land V - Odyssey of Intelligence</title>
+        <title>China Resources (Holdings) Co. Ltd. Presents: No Poverty Land V - Odyssey of Int</title>
     </programme>
     <programme start="20260124080000 +0000" stop="20260124083000 +0000" channel="TVB Jade HD.starhub">
         <title>Star Weekly</title>

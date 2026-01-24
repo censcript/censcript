@@ -2737,7 +2737,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260124141500 +0000" stop="20260124164500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: FC Bayern München - FC Augsburg, 19. Spieltag</title>
 </programme>
-<programme start="20260124164500 +0000" stop="20260124201500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
+<programme start="20260124164500 +0000" stop="20260124204500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: 1. FC Union Berlin - Borussia Dortmund, tipico Topspiel der Woche, 19. Spieltag</title>
 </programme>
 <programme start="20260124111000 +0000" stop="20260124113000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
@@ -2761,7 +2761,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260124190000 +0000" stop="20260124220000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Live 2. BL: 1. FC Magdeburg - Dynamo Dresden, tipico Topspiel der Woche, 19. Spieltag</title>
 </programme>
-<programme start="20260124220000 +0000" stop="20260124230000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+<programme start="20260124220000 +0000" stop="20260124233000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 19. Spieltag, Samstag komplett</title>
 </programme>
 <programme start="20260124111000 +0000" stop="20260124113000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
@@ -2776,7 +2776,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260124141500 +0000" stop="20260124164500 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live BL: Eintracht Frankfurt - TSG Hoffenheim, 19. Spieltag</title>
 </programme>
-<programme start="20260124164500 +0000" stop="20260124201500 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
+<programme start="20260124164500 +0000" stop="20260124204500 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live BL: Tactical Feed: FCU - BVB, 19. Spieltag</title>
 </programme>
 <programme start="20260124111000 +0000" stop="20260124113000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
@@ -2788,7 +2788,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260124140000 +0000" stop="20260124141500 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live BL: M05 - WOB: tipico Countdown, 19. Spieltag</title>
 </programme>
-<programme start="20260124141500 +0000" stop="20260124164500 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
+<programme start="20260124141500 +0000" stop="20260124171500 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live BL: 1. FSV Mainz 05 - VfL Wolfsburg, 19. Spieltag</title>
 </programme>
 <programme start="20260124111000 +0000" stop="20260124113000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
@@ -2800,7 +2800,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260124140000 +0000" stop="20260124141500 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Live BL: FCH - RBL: tipico Countdown, 19. Spieltag</title>
 </programme>
-<programme start="20260124141500 +0000" stop="20260124164500 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
+<programme start="20260124141500 +0000" stop="20260124171500 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Live BL: 1. FC Heidenheim - RB Leipzig, 19. Spieltag</title>
 </programme>
 <programme start="20260124111000 +0000" stop="20260124113000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
@@ -2809,7 +2809,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260124113000 +0000" stop="20260124140000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
     <title>Live 2. BL: Multiview 19. Spieltag, Samstag</title>
 </programme>
-<programme start="20260124140000 +0000" stop="20260124163000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
+<programme start="20260124140000 +0000" stop="20260124170000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
     <title>Live BL: Multiview 19. Spieltag</title>
 </programme>
 <programme start="20260124111000 +0000" stop="20260124113000 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
@@ -2818,7 +2818,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260124113000 +0000" stop="20260124140000 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
     <title>Live 2. BL: Samstags-Konferenz, 19. Spieltag</title>
 </programme>
-<programme start="20260124140000 +0000" stop="20260124144500 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
+<programme start="20260124140000 +0000" stop="20260124151500 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
     <title>Live 2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 19. Spieltag, Samstag</title>
 </programme>
 <programme start="20260123230000 +0000" stop="20260124000000 +0000" channel="Sky Sport F1 HD.skyde">
@@ -3277,7 +3277,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260124194500 +0000" stop="20260124223000 +0000" channel="Sky Sport 4 HD.skyde">
     <title>Live NBA: New York Knicks @ Philadelphia 76ers</title>
 </programme>
-<programme start="20260124223000 +0000" stop="20260125010000 +0000" channel="Sky Sport 4 HD.skyde">
+<programme start="20260124223000 +0000" stop="20260125090000 +0000" channel="Sky Sport 4 HD.skyde">
     <title>Live NBA: Golden State Warriors @ Minnesota Timberwolves</title>
 </programme>
 <programme start="20260123230000 +0000" stop="20260123234500 +0000" channel="SYFY HD.skyde">
