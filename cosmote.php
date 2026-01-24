@@ -1,7 +1,3 @@
-<programme start="20260124170000 +0700" stop="20260124180000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>UEFA Champions League Highlights 2025-26</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260124180000 +0700" stop="20260124200000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Olympiacos - Bayer 04 Leverkusen</title>
     <desc>Live: Tidak</desc>
@@ -70,8 +66,8 @@
     <title>Football: Real Madrid CF - AS Monaco FC</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260124150500 +0700" stop="20260124171500 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Volos - Atromitos</title>
+<programme start="20260125183000 +0700" stop="20260125190000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Game R1 S6 E22</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260124171500 +0700" stop="20260124193000 +0700" channel="COSMOTE Sport 2 HD">
@@ -136,6 +132,10 @@
 </programme>
 <programme start="20260125163000 +0700" stop="20260125184500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Olympiacos - Volos</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260125184500 +0700" stop="20260125210000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: AEL Novibet - Panserraikos</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260124165000 +0700" stop="20260124185000 +0700" channel="COSMOTE Sport 3 HD">
@@ -210,9 +210,9 @@
     <title>Emirates FA Cup 2025-26 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260124162500 +0700" stop="20260124175500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Pick n&#039; Roll</title>
-    <desc>Live: Tidak</desc>
+<programme start="20260125183000 +0700" stop="20260125203000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Sassuolo - Cremonese (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260124175500 +0700" stop="20260124181500 +0700" channel="COSMOTE Sport 4 HD">
     <title>ACB Liga Endesa 2025-26 - Fifth Quarter E15</title>
@@ -284,6 +284,10 @@
 </programme>
 <programme start="20260125160000 +0700" stop="20260125183000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Philadelphia 76ers - New York Knicks</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260125183000 +0700" stop="20260125210000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Chicago Bulls - Boston Celtics</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260124165000 +0700" stop="20260124181000 +0700" channel="COSMOTE Sport 5 HD">
@@ -468,6 +472,10 @@
 </programme>
 <programme start="20260125175500 +0700" stop="20260125185500 +0700" channel="COSMOTE Sport 6 HD">
     <title>Sports Classics: 2025 Outdoor Specials</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260125185500 +0700" stop="20260125191500 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Sports Classics: Worldies E7</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260124170000 +0700" stop="20260124190000 +0700" channel="COSMOTE Sport 7 HD">
