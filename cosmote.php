@@ -70,10 +70,6 @@
     <title>Sportshow</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260125031000 +0700" stop="20260125052500 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Olympiacos - Volos</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260125052500 +0700" stop="20260125073000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: ACF Fiorentina - Cagliari</title>
     <desc>Live: Tidak</desc>
@@ -218,9 +214,13 @@
     <title>Emirates FA Cup 2025-26 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260125030000 +0700" stop="20260125060000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Philadelphia 76ers - New York Knicks (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20260126060000 +0700" stop="20260126063000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Sports Classics: Sporting Countdowns</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260126063000 +0700" stop="20260126083000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: SL Benfica - CF Estrela de Amadora</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260125060000 +0700" stop="20260125065500 +0700" channel="COSMOTE Sport 4 HD">
     <title>NBA Specials: Basketball Stories</title>
@@ -286,8 +286,8 @@
     <title>Basketball: Memphis Grizzlies - Denver Nuggets (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260125050000 +0700" stop="20260125053000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Extreme E - Highlights 2025</title>
+<programme start="20260126063000 +0700" stop="20260126070000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>ACB Liga Endesa 2025-26 - Fifth Quarter E12</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260125053000 +0700" stop="20260125063000 +0700" channel="COSMOTE Sport 5 HD">
@@ -648,6 +648,10 @@
 </programme>
 <programme start="20260126030000 +0700" stop="20260126063000 +0700" channel="COSMOTE Sport 9 HD">
     <title>American Football: Denver Broncos - New England Patriots (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
+<programme start="20260126063000 +0700" stop="20260126100000 +0700" channel="COSMOTE Sport 9 HD">
+    <title>American Football: Seattle Seahawks - Los Angeles Rams (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 No EPG found for COSMOTE Sport 10 HD
