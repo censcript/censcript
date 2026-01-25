@@ -2754,12 +2754,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260125220000 +0000" stop="20260126003000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>LPGA: Meijer LPGA Classic For Simply Give, Finaltag in Grand Rapids, MI (USA)</title>
 </programme>
-<programme start="20260124233000 +0000" stop="20260124234500 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NHL: NHL goes Olympia - mit Roman Josi (SUI) / Nashville Predators</title>
-</programme>
-<programme start="20260124234500 +0000" stop="20260125000000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NHL: NHL goes Olympia - mit Juraj Slafkovsky (SVK) Montreal Canadiens</title>
-</programme>
 <programme start="20260125000000 +0000" stop="20260125030000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NHL: Montréal Canadiens @ Boston Bruins</title>
 </programme>
@@ -3006,8 +3000,8 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260125213000 +0000" stop="20260125233000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 250: S. Baez (ARG) - J. Mensik (CZE), ASB Classic in Auckland (NZL), Finale</title>
 </programme>
-<programme start="20260125010000 +0000" stop="20260125013000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>NBA: On Fire</title>
+<programme start="20260124230000 +0000" stop="20260125013000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>NBA: New York Knicks @ Philadelphia 76ers</title>
 </programme>
 <programme start="20260125013000 +0000" stop="20260125040000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: LA Lakers @ Dallas Mavericks</title>
@@ -3095,6 +3089,9 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 </programme>
 <programme start="20260125013000 +0000" stop="20260125090000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: LA Lakers @ Dallas Mavericks</title>
+</programme>
+<programme start="20260124230000 +0000" stop="20260125020000 +0000" channel="Sky Sport 4 HD.skyde">
+    <title>NBA: New York Knicks @ Philadelphia 76ers</title>
 </programme>
 <programme start="20260125133000 +0000" stop="20260125135000 +0000" channel="Sky Sport 6 HD.skyde">
     <title>Es folgt: LIVE Premier League</title>
