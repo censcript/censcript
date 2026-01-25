@@ -4324,8 +4324,72 @@
 <programme start="20260125163000 +0000" stop="20260124170000 +0000" channel="HITS.mncvision">
     <title>Frasier S3, Ep 6</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260124170000 +0000" stop="20260124190000 +0000" channel="HITS MOVIES.mncvision">
+    <title>Kung Fu Panda 2</title>
+</programme>
+<programme start="20260124190000 +0000" stop="20260124210000 +0000" channel="HITS MOVIES.mncvision">
+    <title>Out Of Time</title>
+</programme>
+<programme start="20260124210000 +0000" stop="20260124233000 +0000" channel="HITS MOVIES.mncvision">
+    <title>Ocean&#039;s Twelve</title>
+</programme>
+<programme start="20260124233000 +0000" stop="20260125020000 +0000" channel="HITS MOVIES.mncvision">
+    <title>The Terminal</title>
+</programme>
+<programme start="20260125020000 +0000" stop="20260125043000 +0000" channel="HITS MOVIES.mncvision">
+    <title>Vertigo</title>
+</programme>
+<programme start="20260125043000 +0000" stop="20260125063000 +0000" channel="HITS MOVIES.mncvision">
+    <title>Out Of Time</title>
+</programme>
+<programme start="20260125063000 +0000" stop="20260125090000 +0000" channel="HITS MOVIES.mncvision">
+    <title>Ocean&#039;s Twelve</title>
+</programme>
+<programme start="20260125090000 +0000" stop="20260125120000 +0000" channel="HITS MOVIES.mncvision">
+    <title>The Big Country</title>
+</programme>
+<programme start="20260125120000 +0000" stop="20260125141500 +0000" channel="HITS MOVIES.mncvision">
+    <title>Torn Curtain</title>
+</programme>
+<programme start="20260125141500 +0000" stop="20260125163000 +0000" channel="HITS MOVIES.mncvision">
+    <title>Ocean&#039;s Eleven</title>
+</programme>
+<programme start="20260125163000 +0000" stop="20260124170000 +0000" channel="HITS MOVIES.mncvision">
+    <title>The Terminal</title>
+</programme>
+<programme start="20260124170000 +0000" stop="20260124190000 +0000" channel="HITS MOVIES HD.mncvision">
+    <title>Kung Fu Panda 2</title>
+</programme>
+<programme start="20260124190000 +0000" stop="20260124210000 +0000" channel="HITS MOVIES HD.mncvision">
+    <title>Out Of Time</title>
+</programme>
+<programme start="20260124210000 +0000" stop="20260124233000 +0000" channel="HITS MOVIES HD.mncvision">
+    <title>Ocean&#039;s Twelve</title>
+</programme>
+<programme start="20260124233000 +0000" stop="20260125020000 +0000" channel="HITS MOVIES HD.mncvision">
+    <title>The Terminal</title>
+</programme>
+<programme start="20260125020000 +0000" stop="20260125043000 +0000" channel="HITS MOVIES HD.mncvision">
+    <title>Vertigo</title>
+</programme>
+<programme start="20260125043000 +0000" stop="20260125063000 +0000" channel="HITS MOVIES HD.mncvision">
+    <title>Out Of Time</title>
+</programme>
+<programme start="20260125063000 +0000" stop="20260125090000 +0000" channel="HITS MOVIES HD.mncvision">
+    <title>Ocean&#039;s Twelve</title>
+</programme>
+<programme start="20260125090000 +0000" stop="20260125120000 +0000" channel="HITS MOVIES HD.mncvision">
+    <title>The Big Country</title>
+</programme>
+<programme start="20260125120000 +0000" stop="20260125141500 +0000" channel="HITS MOVIES HD.mncvision">
+    <title>Torn Curtain</title>
+</programme>
+<programme start="20260125141500 +0000" stop="20260125163000 +0000" channel="HITS MOVIES HD.mncvision">
+    <title>Ocean&#039;s Eleven</title>
+</programme>
+<programme start="20260125163000 +0000" stop="20260124170000 +0000" channel="HITS MOVIES HD.mncvision">
+    <title>The Terminal</title>
+</programme>
 <programme start="20260124170000 +0000" stop="20260124180000 +0000" channel="IDX.mncvision">
     <title>Prime Market Highlight</title>
 </programme>
@@ -7389,7 +7453,48 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260125150000 +0000" stop="20260125153000 +0000" channel="RCTI.mncvision">
     <title>Penjaga Hatiku</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260124170000 +0000" stop="20260124190000 +0000" channel="RCTI HD.mncvision">
+    <title>AFC Asian Qualifiers Road To 26</title>
+</programme>
+<programme start="20260124190000 +0000" stop="20260124193000 +0000" channel="RCTI HD.mncvision">
+    <title>Mujizat Itu Nyata</title>
+</programme>
+<programme start="20260124193000 +0000" stop="20260124211500 +0000" channel="RCTI HD.mncvision">
+    <title>Preman Pensiun S5</title>
+</programme>
+<programme start="20260124211500 +0000" stop="20260124233000 +0000" channel="RCTI HD.mncvision">
+    <title>Preman Pensiun S6</title>
+</programme>
+<programme start="20260124233000 +0000" stop="20260125003000 +0000" channel="RCTI HD.mncvision">
+    <title>Upin Ipin</title>
+</programme>
+<programme start="20260125003000 +0000" stop="20260125010000 +0000" channel="RCTI HD.mncvision">
+    <title>Titus The Detective</title>
+</programme>
+<programme start="20260125010000 +0000" stop="20260125013000 +0000" channel="RCTI HD.mncvision">
+    <title>Kiko S4</title>
+</programme>
+<programme start="20260125013000 +0000" stop="20260125023000 +0000" channel="RCTI HD.mncvision">
+    <title>Captain Tsubasa S2</title>
+</programme>
+<programme start="20260125023000 +0000" stop="20260125041500 +0000" channel="RCTI HD.mncvision">
+    <title>Dahsyat (L)</title>
+</programme>
+<programme start="20260125041500 +0000" stop="20260125053000 +0000" channel="RCTI HD.mncvision">
+    <title>Indonesian Idol S14</title>
+</programme>
+<programme start="20260125053000 +0000" stop="20260125100000 +0000" channel="RCTI HD.mncvision">
+    <title>Daihatsu Indonesia Masters (L)</title>
+</programme>
+<programme start="20260125100000 +0000" stop="20260125131500 +0000" channel="RCTI HD.mncvision">
+    <title>MasterChef Indonesia S13</title>
+</programme>
+<programme start="20260125131500 +0000" stop="20260125150000 +0000" channel="RCTI HD.mncvision">
+    <title>Cinta Sepenuh Jiwa</title>
+</programme>
+<programme start="20260125150000 +0000" stop="20260125153000 +0000" channel="RCTI HD.mncvision">
+    <title>Penjaga Hatiku</title>
+</programme>
 <programme start="20260124182000 +0000" stop="20260124195500 +0000" channel="Rock Action.mncvision">
     <title>Exploding Sun, Pt 1</title>
 </programme>
@@ -8287,7 +8392,45 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260125150000 +0000" stop="20260125153000 +0000" channel="SPOTV HD.mncvision">
     <title>A-League Men: SYD Vs WEL</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260124180500 +0000" stop="20260124202000 +0000" channel="Studio Universal.mncvision">
+    <title>The Bourne Legacy</title>
+</programme>
+<programme start="20260124202000 +0000" stop="20260124222500 +0000" channel="Studio Universal.mncvision">
+    <title>Jason Bourne</title>
+</programme>
+<programme start="20260124222500 +0000" stop="20260124230000 +0000" channel="Studio Universal.mncvision">
+    <title>Soaring To Life: Making Of...</title>
+</programme>
+<programme start="20260124230000 +0000" stop="20260125011000 +0000" channel="Studio Universal.mncvision">
+    <title>The Sting</title>
+</programme>
+<programme start="20260125011000 +0000" stop="20260125025500 +0000" channel="Studio Universal.mncvision">
+    <title>Turbo</title>
+</programme>
+<programme start="20260125025500 +0000" stop="20260125044500 +0000" channel="Studio Universal.mncvision">
+    <title>Johnny English Reborn</title>
+</programme>
+<programme start="20260125044500 +0000" stop="20260125065500 +0000" channel="Studio Universal.mncvision">
+    <title>Fast &amp; Furious 6</title>
+</programme>
+<programme start="20260125065500 +0000" stop="20260125091500 +0000" channel="Studio Universal.mncvision">
+    <title>Furious 7</title>
+</programme>
+<programme start="20260125091500 +0000" stop="20260125104500 +0000" channel="Studio Universal.mncvision">
+    <title>Puss In Boots</title>
+</programme>
+<programme start="20260125104500 +0000" stop="20260125123500 +0000" channel="Studio Universal.mncvision">
+    <title>Puss In Boots: The Last Wish</title>
+</programme>
+<programme start="20260125123500 +0000" stop="20260125142000 +0000" channel="Studio Universal.mncvision">
+    <title>The Nutty Professor</title>
+</programme>
+<programme start="20260125142000 +0000" stop="20260125161000 +0000" channel="Studio Universal.mncvision">
+    <title>Nutty Professor 2: The Klumps</title>
+</programme>
+<programme start="20260125161000 +0000" stop="20260125164000 +0000" channel="Studio Universal.mncvision">
+    <title>Red Dragon</title>
+</programme>
 <programme start="20260124180500 +0000" stop="20260124202000 +0000" channel="Studio Universal HD.mncvision">
     <title>The Bourne Legacy</title>
 </programme>
@@ -8366,7 +8509,45 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260125152800 +0000" stop="20260125155800 +0000" channel="Superrix.mncvision">
     <title>Hard Kill</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260124174500 +0000" stop="20260124194000 +0000" channel="Superrix HD.mncvision">
+    <title>Gold</title>
+</programme>
+<programme start="20260124194000 +0000" stop="20260124211900 +0000" channel="Superrix HD.mncvision">
+    <title>The Time Of Secrets</title>
+</programme>
+<programme start="20260124211900 +0000" stop="20260124230500 +0000" channel="Superrix HD.mncvision">
+    <title>Sasq-Watch!</title>
+</programme>
+<programme start="20260124230500 +0000" stop="20260125011500 +0000" channel="Superrix HD.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20260125011500 +0000" stop="20260125025600 +0000" channel="Superrix HD.mncvision">
+    <title>A Daughter&#039;s Revenge</title>
+</programme>
+<programme start="20260125025600 +0000" stop="20260125044500 +0000" channel="Superrix HD.mncvision">
+    <title>Gold</title>
+</programme>
+<programme start="20260125044500 +0000" stop="20260125060800 +0000" channel="Superrix HD.mncvision">
+    <title>Bert&#039;s Diary</title>
+</programme>
+<programme start="20260125060800 +0000" stop="20260125080500 +0000" channel="Superrix HD.mncvision">
+    <title>American Siege</title>
+</programme>
+<programme start="20260125080500 +0000" stop="20260125101800 +0000" channel="Superrix HD.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20260125101800 +0000" stop="20260125120200 +0000" channel="Superrix HD.mncvision">
+    <title>A Trace Of Danger</title>
+</programme>
+<programme start="20260125120200 +0000" stop="20260125133700 +0000" channel="Superrix HD.mncvision">
+    <title>Gold</title>
+</programme>
+<programme start="20260125133700 +0000" stop="20260125152800 +0000" channel="Superrix HD.mncvision">
+    <title>Before Your Time</title>
+</programme>
+<programme start="20260125152800 +0000" stop="20260125155800 +0000" channel="Superrix HD.mncvision">
+    <title>Hard Kill</title>
+</programme>
 <programme start="20260124170000 +0000" stop="20260124173000 +0000" channel="Tawaf TV.mncvision">
     <title>DMI TV</title>
 </programme>
