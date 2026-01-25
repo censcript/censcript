@@ -1,7 +1,3 @@
-<programme start="20260125130000 +0700" stop="20260125140000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Highlights: UEL &amp; UECL 2025-26</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260125140000 +0700" stop="20260125160000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: PAOK - Real Betis Balompie</title>
     <desc>Live: Tidak</desc>
@@ -70,10 +66,6 @@
     <title>Sportshow</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260125120000 +0700" stop="20260125140000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: ACF Fiorentina - Cagliari</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260125140000 +0700" stop="20260125160000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Lecce - SS Lazio</title>
     <desc>Live: Tidak</desc>
@@ -138,8 +130,8 @@
     <title>Football: Olympiacos - Volos</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260125130000 +0700" stop="20260125132500 +0700" channel="COSMOTE Sport 3 HD">
-    <title>William Hill Scottish Premiership - Highlights</title>
+<programme start="20260126141000 +0700" stop="20260126161000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Genoa - Bologna</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260125132500 +0700" stop="20260125152500 +0700" channel="COSMOTE Sport 3 HD">
@@ -230,10 +222,6 @@
     <title>American Football: Seattle Seahawks - Los Angeles Rams</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260125113000 +0700" stop="20260125134000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: AEK - Karditsa</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260125134000 +0700" stop="20260125154000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Rio Breogan - Real Madrid</title>
     <desc>Live: Tidak</desc>
@@ -296,10 +284,6 @@
 </programme>
 <programme start="20260126133000 +0700" stop="20260126160000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Memphis Grizzlies - Denver Nuggets</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260125120500 +0700" stop="20260125131000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260125131000 +0700" stop="20260125140500 +0700" channel="COSMOTE Sport 5 HD">
@@ -402,6 +386,10 @@
     <title>Motorsports: Extreme E 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260126141000 +0700" stop="20260126150500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>DTM</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260125130000 +0700" stop="20260125152500 +0700" channel="COSMOTE Sport 6 HD">
     <title>2025 Premier Padel Tour Finals</title>
     <desc>Live: Tidak</desc>
@@ -459,6 +447,14 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260126133000 +0700" stop="20260126140000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Sports Classics: 2025 Outdoor Specials</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260126140000 +0700" stop="20260126143000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Sports Classics: 2025 Outdoor Specials</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260126143000 +0700" stop="20260126150000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Sports Classics: 2025 Outdoor Specials</title>
     <desc>Live: Tidak</desc>
 </programme>
