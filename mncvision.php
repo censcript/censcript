@@ -3136,7 +3136,84 @@
 <programme start="20260126040000 +0000" stop="20260126043000 +0000" channel="EURONEWS.mncvision">
     <title>The European Debrief</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260125170000 +0000" stop="20260125193000 +0000" channel="Fight Sports.mncvision">
+    <title>Mega Fights S1, Ep 21</title>
+</programme>
+<programme start="20260125193000 +0000" stop="20260125200000 +0000" channel="Fight Sports.mncvision">
+    <title>Karate 1 Premiere League</title>
+</programme>
+<programme start="20260125200000 +0000" stop="20260125203000 +0000" channel="Fight Sports.mncvision">
+    <title>Knockouts!: Berto Vs Hernandez</title>
+</programme>
+<programme start="20260125203000 +0000" stop="20260125210000 +0000" channel="Fight Sports.mncvision">
+    <title>FS Grand Sumo S17, Ep 5</title>
+</programme>
+<programme start="20260125210000 +0000" stop="20260125220000 +0000" channel="Fight Sports.mncvision">
+    <title>American Ninja... S7, Ep 2</title>
+</programme>
+<programme start="20260125220000 +0000" stop="20260125230000 +0000" channel="Fight Sports.mncvision">
+    <title>FS MMA: Makengele Vs Hulme</title>
+</programme>
+<programme start="20260125230000 +0000" stop="20260126013000 +0000" channel="Fight Sports.mncvision">
+    <title>Mega Fights S1, Ep 21</title>
+</programme>
+<programme start="20260126013000 +0000" stop="20260126020000 +0000" channel="Fight Sports.mncvision">
+    <title>Karate 1 Premiere League</title>
+</programme>
+<programme start="20260126020000 +0000" stop="20260126023000 +0000" channel="Fight Sports.mncvision">
+    <title>Knockouts!: Berto Vs Hernandez</title>
+</programme>
+<programme start="20260126023000 +0000" stop="20260126030000 +0000" channel="Fight Sports.mncvision">
+    <title>FS Grand Sumo S17, Ep 5</title>
+</programme>
+<programme start="20260126030000 +0000" stop="20260126040000 +0000" channel="Fight Sports.mncvision">
+    <title>American Ninja... S7, Ep 2</title>
+</programme>
+<programme start="20260126040000 +0000" stop="20260126050000 +0000" channel="Fight Sports.mncvision">
+    <title>FS MMA: Makengele Vs Hulme</title>
+</programme>
+<programme start="20260126050000 +0000" stop="20260126073000 +0000" channel="Fight Sports.mncvision">
+    <title>Mega Fights S1, Ep 21</title>
+</programme>
+<programme start="20260126073000 +0000" stop="20260126080000 +0000" channel="Fight Sports.mncvision">
+    <title>Karate 1 Premiere League</title>
+</programme>
+<programme start="20260126080000 +0000" stop="20260126083000 +0000" channel="Fight Sports.mncvision">
+    <title>Knockouts!: Berto Vs Hernandez</title>
+</programme>
+<programme start="20260126083000 +0000" stop="20260126090000 +0000" channel="Fight Sports.mncvision">
+    <title>FS Grand Sumo S17, Ep 5</title>
+</programme>
+<programme start="20260126090000 +0000" stop="20260126100000 +0000" channel="Fight Sports.mncvision">
+    <title>American Ninja... S7, Ep 2</title>
+</programme>
+<programme start="20260126100000 +0000" stop="20260126110000 +0000" channel="Fight Sports.mncvision">
+    <title>FS MMA: Makengele Vs Hulme</title>
+</programme>
+<programme start="20260126110000 +0000" stop="20260126130000 +0000" channel="Fight Sports.mncvision">
+    <title>Mega Fights S1, Ep 55</title>
+</programme>
+<programme start="20260126130000 +0000" stop="20260126133000 +0000" channel="Fight Sports.mncvision">
+    <title>BWF Martial Arts S9, Ep 2</title>
+</programme>
+<programme start="20260126133000 +0000" stop="20260126140000 +0000" channel="Fight Sports.mncvision">
+    <title>Wide World Of Fights S3, Ep 12</title>
+</programme>
+<programme start="20260126140000 +0000" stop="20260126143000 +0000" channel="Fight Sports.mncvision">
+    <title>Knockouts!: Gonzalez Vs Gerry</title>
+</programme>
+<programme start="20260126143000 +0000" stop="20260126150000 +0000" channel="Fight Sports.mncvision">
+    <title>FS Grand Sumo S18, Ep 1</title>
+</programme>
+<programme start="20260126150000 +0000" stop="20260126153000 +0000" channel="Fight Sports.mncvision">
+    <title>Judo For The World S1, Ep 15</title>
+</programme>
+<programme start="20260126153000 +0000" stop="20260126160000 +0000" channel="Fight Sports.mncvision">
+    <title>Pariah: Sonny Liston S1, Ep 3</title>
+</programme>
+<programme start="20260126160000 +0000" stop="20260126163000 +0000" channel="Fight Sports.mncvision">
+    <title>FS MMA: Figueroa Vs Sabala</title>
+</programme>
 <programme start="20260125170000 +0000" stop="20260125200000 +0000" channel="FOOD TRAVEL.mncvision">
     <title>MasterChef Indonesia S12</title>
 </programme>
@@ -3749,7 +3826,93 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260126162500 +0000" stop="20260126165500 +0000" channel="Global Trekker.mncvision">
     <title>How Did They Fix That? S2, Ep 2</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260125172500 +0000" stop="20260125181500 +0000" channel="Global Trekker HD.mncvision">
+    <title>Wildest Survival S2, Ep 9</title>
+</programme>
+<programme start="20260125181500 +0000" stop="20260125191000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Wildest Survival S2, Ep 10</title>
+</programme>
+<programme start="20260125191000 +0000" stop="20260125201000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Naledi: A Baby Elephant&#039;s Tale</title>
+</programme>
+<programme start="20260125201000 +0000" stop="20260125210500 +0000" channel="Global Trekker HD.mncvision">
+    <title>Wildest Survival S2, Ep 6</title>
+</programme>
+<programme start="20260125210500 +0000" stop="20260125220000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Wildest Survival S2, Ep 7</title>
+</programme>
+<programme start="20260125220000 +0000" stop="20260125225000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Visionaries Ft. Reeves, Ep 5</title>
+</programme>
+<programme start="20260125225000 +0000" stop="20260125234000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Visionaries Ft. Reeves, Ep 6</title>
+</programme>
+<programme start="20260125234000 +0000" stop="20260126003000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Visionaries Ft. Reeves, Ep 7</title>
+</programme>
+<programme start="20260126003000 +0000" stop="20260126005500 +0000" channel="Global Trekker HD.mncvision">
+    <title>Wild Heroes, Ep 1</title>
+</programme>
+<programme start="20260126005500 +0000" stop="20260126015500 +0000" channel="Global Trekker HD.mncvision">
+    <title>Naledi: A Baby Elephant&#039;s Tale</title>
+</programme>
+<programme start="20260126015500 +0000" stop="20260126025500 +0000" channel="Global Trekker HD.mncvision">
+    <title>Attenborough&#039;s Life In..., Ep 1</title>
+</programme>
+<programme start="20260126025500 +0000" stop="20260126040000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Attenborough&#039;s Life In..., Ep 2</title>
+</programme>
+<programme start="20260126040000 +0000" stop="20260126042500 +0000" channel="Global Trekker HD.mncvision">
+    <title>New Zealand Food Story S4, Ep 5</title>
+</programme>
+<programme start="20260126042500 +0000" stop="20260126045000 +0000" channel="Global Trekker HD.mncvision">
+    <title>New Zealand Food Story S4, Ep 6</title>
+</programme>
+<programme start="20260126045000 +0000" stop="20260126052000 +0000" channel="Global Trekker HD.mncvision">
+    <title>New Zealand Food Story S4, Ep 7</title>
+</programme>
+<programme start="20260126052000 +0000" stop="20260126054500 +0000" channel="Global Trekker HD.mncvision">
+    <title>New Zealand Food Story S4, Ep 1</title>
+</programme>
+<programme start="20260126054500 +0000" stop="20260126064000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Fantastic Friends, Ep 1</title>
+</programme>
+<programme start="20260126064000 +0000" stop="20260126073000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Divas, Ep 4</title>
+</programme>
+<programme start="20260126073000 +0000" stop="20260126083000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Divas, Ep 5</title>
+</programme>
+<programme start="20260126083000 +0000" stop="20260126093000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Shakira: New Era, New Woman</title>
+</programme>
+<programme start="20260126093000 +0000" stop="20260126102500 +0000" channel="Global Trekker HD.mncvision">
+    <title>Costa Rica: Rise Of..., Ep 3</title>
+</programme>
+<programme start="20260126102500 +0000" stop="20260126112000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Destination Myanmar</title>
+</programme>
+<programme start="20260126112000 +0000" stop="20260126121000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Into The Puma Triangle</title>
+</programme>
+<programme start="20260126121000 +0000" stop="20260126130500 +0000" channel="Global Trekker HD.mncvision">
+    <title>In The Giant Mammoth Tracks</title>
+</programme>
+<programme start="20260126130500 +0000" stop="20260126135500 +0000" channel="Global Trekker HD.mncvision">
+    <title>The Secret Life Of Owls, Ep 1</title>
+</programme>
+<programme start="20260126135500 +0000" stop="20260126144500 +0000" channel="Global Trekker HD.mncvision">
+    <title>The Secret Life Of Owls, Ep 2</title>
+</programme>
+<programme start="20260126144500 +0000" stop="20260126153500 +0000" channel="Global Trekker HD.mncvision">
+    <title>Space Disasters, Ep 6</title>
+</programme>
+<programme start="20260126153500 +0000" stop="20260126162500 +0000" channel="Global Trekker HD.mncvision">
+    <title>How Did They Fix That? S2, Ep 1</title>
+</programme>
+<programme start="20260126162500 +0000" stop="20260126165500 +0000" channel="Global Trekker HD.mncvision">
+    <title>How Did They Fix That? S2, Ep 2</title>
+</programme>
 <programme start="20260125170000 +0000" stop="20260125180000 +0000" channel="GTV.mncvision">
     <title>Jelajah Mitos</title>
 </programme>
@@ -3930,7 +4093,87 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260126160000 +0000" stop="20260126163000 +0000" channel="Hanacaraka TV.mncvision">
     <title>Ketoprak Humor S7</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260125173500 +0000" stop="20260125183000 +0000" channel="History.mncvision">
+    <title>The UnBelievable S2, Ep 18</title>
+</programme>
+<programme start="20260125183000 +0000" stop="20260125192500 +0000" channel="History.mncvision">
+    <title>Mega-Brands Built... S3, Ep 14</title>
+</programme>
+<programme start="20260125192500 +0000" stop="20260125202000 +0000" channel="History.mncvision">
+    <title>The UnXplained S3, Ep 28</title>
+</programme>
+<programme start="20260125202000 +0000" stop="20260125211500 +0000" channel="History.mncvision">
+    <title>The UnXplained S3, Ep 32</title>
+</programme>
+<programme start="20260125211500 +0000" stop="20260125221000 +0000" channel="History.mncvision">
+    <title>The UnBelievable S2, Ep 17</title>
+</programme>
+<programme start="20260125221000 +0000" stop="20260125230500 +0000" channel="History.mncvision">
+    <title>The Pickers S18, Ep 307</title>
+</programme>
+<programme start="20260125230500 +0000" stop="20260126000000 +0000" channel="History.mncvision">
+    <title>The UnXplained S3, Ep 28</title>
+</programme>
+<programme start="20260126000000 +0000" stop="20260126005500 +0000" channel="History.mncvision">
+    <title>The UnXplained S3, Ep 32</title>
+</programme>
+<programme start="20260126005500 +0000" stop="20260126015500 +0000" channel="History.mncvision">
+    <title>Mysteries Unearthed S1, Ep 8</title>
+</programme>
+<programme start="20260126015500 +0000" stop="20260126025000 +0000" channel="History.mncvision">
+    <title>The UnBelievable S2, Ep 17</title>
+</programme>
+<programme start="20260126025000 +0000" stop="20260126034500 +0000" channel="History.mncvision">
+    <title>The UnBelievable S2, Ep 18</title>
+</programme>
+<programme start="20260126034500 +0000" stop="20260126044000 +0000" channel="History.mncvision">
+    <title>Mega-Brands Built... S3, Ep 14</title>
+</programme>
+<programme start="20260126044000 +0000" stop="20260126053500 +0000" channel="History.mncvision">
+    <title>The Pickers S18, Ep 307</title>
+</programme>
+<programme start="20260126053500 +0000" stop="20260126063000 +0000" channel="History.mncvision">
+    <title>The UnXplained S3, Ep 28</title>
+</programme>
+<programme start="20260126063000 +0000" stop="20260126072500 +0000" channel="History.mncvision">
+    <title>The UnBelievable S2, Ep 17</title>
+</programme>
+<programme start="20260126072500 +0000" stop="20260126082000 +0000" channel="History.mncvision">
+    <title>Mega-Brands Built... S3, Ep 14</title>
+</programme>
+<programme start="20260126082000 +0000" stop="20260126092000 +0000" channel="History.mncvision">
+    <title>The UnXplained S3, Ep 32</title>
+</programme>
+<programme start="20260126092000 +0000" stop="20260126101500 +0000" channel="History.mncvision">
+    <title>Mysteries Unearthed S1, Ep 8</title>
+</programme>
+<programme start="20260126101500 +0000" stop="20260126111000 +0000" channel="History.mncvision">
+    <title>The UnBelievable S2, Ep 1</title>
+</programme>
+<programme start="20260126111000 +0000" stop="20260126120500 +0000" channel="History.mncvision">
+    <title>The UnXplained S3, Ep 26</title>
+</programme>
+<programme start="20260126120500 +0000" stop="20260126130000 +0000" channel="History.mncvision">
+    <title>The Pickers S18, Ep 320</title>
+</programme>
+<programme start="20260126130000 +0000" stop="20260126135500 +0000" channel="History.mncvision">
+    <title>Toys That Built World S3, Ep 2</title>
+</programme>
+<programme start="20260126135500 +0000" stop="20260126145000 +0000" channel="History.mncvision">
+    <title>Mega-Brands Built... S1, Ep 1</title>
+</programme>
+<programme start="20260126145000 +0000" stop="20260126152000 +0000" channel="History.mncvision">
+    <title>Toys That Built World S2, Ep 9</title>
+</programme>
+<programme start="20260126152000 +0000" stop="20260126154500 +0000" channel="History.mncvision">
+    <title>Toys That Built World S2, Ep 10</title>
+</programme>
+<programme start="20260126154500 +0000" stop="20260126164000 +0000" channel="History.mncvision">
+    <title>Alone S12, Ep 8</title>
+</programme>
+<programme start="20260126164000 +0000" stop="20260125171000 +0000" channel="History.mncvision">
+    <title>The Pickers S18, Ep 320</title>
+</programme>
 <programme start="20260125170000 +0000" stop="20260125180000 +0000" channel="HITS.mncvision">
     <title>Six Million Dollar Man S1, Ep 5</title>
 </programme>
@@ -5779,8 +6022,69 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260126155600 +0000" stop="20260126162600 +0000" channel="Moonbug.mncvision">
     <title>Little Baby Bum: Lullabies</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260125180000 +0000" stop="20260125190000 +0000" channel="Music TV.mncvision">
+    <title>Godain</title>
+</programme>
+<programme start="20260125190000 +0000" stop="20260125200000 +0000" channel="Music TV.mncvision">
+    <title>Made In India</title>
+</programme>
+<programme start="20260125200000 +0000" stop="20260125203000 +0000" channel="Music TV.mncvision">
+    <title>Kita Kepo</title>
+</programme>
+<programme start="20260125203000 +0000" stop="20260125213000 +0000" channel="Music TV.mncvision">
+    <title>Juke Box</title>
+</programme>
+<programme start="20260125213000 +0000" stop="20260125223000 +0000" channel="Music TV.mncvision">
+    <title>K-Hits</title>
+</programme>
+<programme start="20260125223000 +0000" stop="20260126001500 +0000" channel="Music TV.mncvision">
+    <title>One Hour With</title>
+</programme>
+<programme start="20260126001500 +0000" stop="20260126023000 +0000" channel="Music TV.mncvision">
+    <title>DMD Panggung Rezeki</title>
+</programme>
+<programme start="20260126023000 +0000" stop="20260126031500 +0000" channel="Music TV.mncvision">
+    <title>Movie Track</title>
+</programme>
+<programme start="20260126031500 +0000" stop="20260126034500 +0000" channel="Music TV.mncvision">
+    <title>Music Files</title>
+</programme>
+<programme start="20260126034500 +0000" stop="20260126041500 +0000" channel="Music TV.mncvision">
+    <title>Terbaik</title>
+</programme>
+<programme start="20260126041500 +0000" stop="20260126050000 +0000" channel="Music TV.mncvision">
+    <title>Godain</title>
+</programme>
+<programme start="20260126050000 +0000" stop="20260126070000 +0000" channel="Music TV.mncvision">
+    <title>DMD Panggung Rezeki</title>
+</programme>
+<programme start="20260126070000 +0000" stop="20260126073000 +0000" channel="Music TV.mncvision">
+    <title>Kita Kepo</title>
+</programme>
+<programme start="20260126073000 +0000" stop="20260126100000 +0000" channel="Music TV.mncvision">
+    <title>Indonesian Idol X</title>
+</programme>
+<programme start="20260126100000 +0000" stop="20260126110000 +0000" channel="Music TV.mncvision">
+    <title>Godain</title>
+</programme>
+<programme start="20260126110000 +0000" stop="20260126120000 +0000" channel="Music TV.mncvision">
+    <title>K-Hits</title>
+</programme>
+<programme start="20260126120000 +0000" stop="20260126130000 +0000" channel="Music TV.mncvision">
+    <title>Juke Box</title>
+</programme>
+<programme start="20260126130000 +0000" stop="20260126140000 +0000" channel="Music TV.mncvision">
+    <title>Bucin (Bursa Music Indonesia)</title>
+</programme>
+<programme start="20260126140000 +0000" stop="20260126150000 +0000" channel="Music TV.mncvision">
+    <title>Dahsyat</title>
+</programme>
+<programme start="20260126150000 +0000" stop="20260126163000 +0000" channel="Music TV.mncvision">
+    <title>Mega Konser: Padi Reborn</title>
+</programme>
+<programme start="20260126163000 +0000" stop="20260125170000 +0000" channel="Music TV.mncvision">
+    <title>Indonesian Idol X</title>
+</programme>
 <programme start="20260125180000 +0000" stop="20260125190000 +0000" channel="Music TV HD.mncvision">
     <title>Godain</title>
 </programme>
@@ -7926,7 +8230,51 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260126150000 +0000" stop="20260126153000 +0000" channel="Sportstars 4.mncvision">
     <title>Liga 2</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260125170000 +0000" stop="20260125190000 +0000" channel="Sportstars 4 HD.mncvision">
+    <title>Bundesliga</title>
+</programme>
+<programme start="20260125190000 +0000" stop="20260125210000 +0000" channel="Sportstars 4 HD.mncvision">
+    <title>BRI Liga 1</title>
+</programme>
+<programme start="20260125210000 +0000" stop="20260125230000 +0000" channel="Sportstars 4 HD.mncvision">
+    <title>DFB Pokal</title>
+</programme>
+<programme start="20260125230000 +0000" stop="20260126010000 +0000" channel="Sportstars 4 HD.mncvision">
+    <title>Bundesliga</title>
+</programme>
+<programme start="20260126010000 +0000" stop="20260126030000 +0000" channel="Sportstars 4 HD.mncvision">
+    <title>SEA Games Thailand 2025</title>
+</programme>
+<programme start="20260126030000 +0000" stop="20260126050000 +0000" channel="Sportstars 4 HD.mncvision">
+    <title>V League (Men)</title>
+</programme>
+<programme start="20260126050000 +0000" stop="20260126070000 +0000" channel="Sportstars 4 HD.mncvision">
+    <title>V League (Women)</title>
+</programme>
+<programme start="20260126070000 +0000" stop="20260126090000 +0000" channel="Sportstars 4 HD.mncvision">
+    <title>European Qualifiers</title>
+</programme>
+<programme start="20260126090000 +0000" stop="20260126093000 +0000" channel="Sportstars 4 HD.mncvision">
+    <title>Top Goals</title>
+</programme>
+<programme start="20260126093000 +0000" stop="20260126100000 +0000" channel="Sportstars 4 HD.mncvision">
+    <title>Planet Football</title>
+</programme>
+<programme start="20260126100000 +0000" stop="20260126103000 +0000" channel="Sportstars 4 HD.mncvision">
+    <title>The Ultimate Goals</title>
+</programme>
+<programme start="20260126103000 +0000" stop="20260126123000 +0000" channel="Sportstars 4 HD.mncvision">
+    <title>ASEAN Para Games: Closing (L)</title>
+</programme>
+<programme start="20260126123000 +0000" stop="20260126130000 +0000" channel="Sportstars 4 HD.mncvision">
+    <title>Top Goals</title>
+</programme>
+<programme start="20260126130000 +0000" stop="20260126150000 +0000" channel="Sportstars 4 HD.mncvision">
+    <title>European Qualifiers</title>
+</programme>
+<programme start="20260126150000 +0000" stop="20260126153000 +0000" channel="Sportstars 4 HD.mncvision">
+    <title>Liga 2</title>
+</programme>
 <programme start="20260125170000 +0000" stop="20260125210000 +0000" channel="Sportstars HD.mncvision">
     <title>Daihatsu Indonesia Masters</title>
 </programme>
@@ -8071,7 +8419,63 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260126153000 +0000" stop="20260126160000 +0000" channel="SPOTV 2.mncvision">
     <title>2025 MotoGP Rookies Red Bull</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260125180000 +0000" stop="20260125200000 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>A-League Men: MAC Vs MCY</title>
+</programme>
+<programme start="20260125200000 +0000" stop="20260125204500 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>MotoGP 2025 Spotlight</title>
+</programme>
+<programme start="20260125204500 +0000" stop="20260125223000 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>MotoGP Classic: Phillip Island</title>
+</programme>
+<programme start="20260125223000 +0000" stop="20260125233000 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>SailGP S6: Oracle Perth</title>
+</programme>
+<programme start="20260125233000 +0000" stop="20260126011500 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>80th Rolex Sydney Hobart Yacht</title>
+</programme>
+<programme start="20260126011500 +0000" stop="20260126014500 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>2025/26 ALM Mini Match</title>
+</programme>
+<programme start="20260126014500 +0000" stop="20260126023000 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>MotoGP 2026 Team Presentation</title>
+</programme>
+<programme start="20260126023000 +0000" stop="20260126030000 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>2025/26 A-League Men HL</title>
+</programme>
+<programme start="20260126030000 +0000" stop="20260126043000 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>SailGP S6: Oracle Perth</title>
+</programme>
+<programme start="20260126043000 +0000" stop="20260126063000 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>A-League Men: MAC Vs MCY</title>
+</programme>
+<programme start="20260126063000 +0000" stop="20260126071000 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>MotoGP 2026 Team Presentation</title>
+</programme>
+<programme start="20260126071000 +0000" stop="20260126090000 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>GTour Women&#039;s Championship</title>
+</programme>
+<programme start="20260126090000 +0000" stop="20260126093000 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>2025/26 ALM Mini Match</title>
+</programme>
+<programme start="20260126093000 +0000" stop="20260126110000 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>SailGP S6: Oracle Perth</title>
+</programme>
+<programme start="20260126110000 +0000" stop="20260126113000 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>WTT Champions Doha 2026</title>
+</programme>
+<programme start="20260126113000 +0000" stop="20260126123000 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>MotoGP 2026 Team Presentation</title>
+</programme>
+<programme start="20260126123000 +0000" stop="20260126133000 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>MotoGP Classic: Assen 500cc</title>
+</programme>
+<programme start="20260126133000 +0000" stop="20260126153000 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>A-League Men: MAC Vs MCY</title>
+</programme>
+<programme start="20260126153000 +0000" stop="20260126160000 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>2025 MotoGP Rookies Red Bull</title>
+</programme>
 <programme start="20260125171500 +0000" stop="20260125193000 +0000" channel="SPOTV HD.mncvision">
     <title>25/26 Roshn Saudi League (L)</title>
 </programme>
@@ -8108,7 +8512,42 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260126160500 +0000" stop="20260126163500 +0000" channel="SPOTV HD.mncvision">
     <title>Formula E: Mexico City</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260125181500 +0000" stop="20260125203000 +0000" channel="Studio Universal.mncvision">
+    <title>Hannibal</title>
+</programme>
+<programme start="20260125203000 +0000" stop="20260125210500 +0000" channel="Studio Universal.mncvision">
+    <title>Soaring To Life: Making Of...</title>
+</programme>
+<programme start="20260125210500 +0000" stop="20260125230000 +0000" channel="Studio Universal.mncvision">
+    <title>Yesterday</title>
+</programme>
+<programme start="20260125230000 +0000" stop="20260126005000 +0000" channel="Studio Universal.mncvision">
+    <title>Johnny English Reborn</title>
+</programme>
+<programme start="20260126005000 +0000" stop="20260126030500 +0000" channel="Studio Universal.mncvision">
+    <title>Snow White And The Huntsman</title>
+</programme>
+<programme start="20260126030500 +0000" stop="20260126050500 +0000" channel="Studio Universal.mncvision">
+    <title>The Huntsman: Winter&#039;s War</title>
+</programme>
+<programme start="20260126050500 +0000" stop="20260126072500 +0000" channel="Studio Universal.mncvision">
+    <title>Van Helsing</title>
+</programme>
+<programme start="20260126072500 +0000" stop="20260126090500 +0000" channel="Studio Universal.mncvision">
+    <title>Pitch Perfect</title>
+</programme>
+<programme start="20260126090500 +0000" stop="20260126110500 +0000" channel="Studio Universal.mncvision">
+    <title>Pitch Perfect 2</title>
+</programme>
+<programme start="20260126110500 +0000" stop="20260126124500 +0000" channel="Studio Universal.mncvision">
+    <title>Pitch Perfect 3</title>
+</programme>
+<programme start="20260126124500 +0000" stop="20260126151000 +0000" channel="Studio Universal.mncvision">
+    <title>The Hulk</title>
+</programme>
+<programme start="20260126151000 +0000" stop="20260126154000 +0000" channel="Studio Universal.mncvision">
+    <title>Bridesmaids</title>
+</programme>
 <programme start="20260125181500 +0000" stop="20260125203000 +0000" channel="Studio Universal HD.mncvision">
     <title>Hannibal</title>
 </programme>

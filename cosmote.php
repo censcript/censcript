@@ -1,15 +1,3 @@
-<programme start="20260125230000 +0700" stop="20260126012000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: OFI - Panetolikos (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20260126012000 +0700" stop="20260126014000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Sports Classics: Worldies E20</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260126014000 +0700" stop="20260126020000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Sports Classics: Worldies E27</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260126020000 +0700" stop="20260126023000 +0700" channel="COSMOTE Sport 1 HD">
     <title>UEL &amp; UECL Magazine 2025-26 E10</title>
     <desc>Live: Tidak</desc>
@@ -66,9 +54,9 @@
     <title>Football: Al Nassr - Al Taawon (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260126000000 +0700" stop="20260126020000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Juventus Football Club - SSC Napoli (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20260127023000 +0700" stop="20260127031500 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEL &amp; UECL Magazine 2025-26 E10</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260126020000 +0700" stop="20260126024500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Sports Classics: Football&#039;s Greatest IV E8</title>
@@ -126,8 +114,8 @@
     <title>Football: OFI - Panetolikos</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260126000000 +0700" stop="20260126020000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Pafos FC - AEK Larnaca (L)</title>
+<programme start="20260127024500 +0700" stop="20260127044500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Hellas Verona - Udinese (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20260126020000 +0700" stop="20260126023000 +0700" channel="COSMOTE Sport 3 HD">
@@ -354,8 +342,8 @@
     <title>WRC</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260126010000 +0700" stop="20260126013000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Sports Classics: 2025 Sports Rundown E1</title>
+<programme start="20260127020000 +0700" stop="20260127030500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260126013000 +0700" stop="20260126033000 +0700" channel="COSMOTE Sport 6 HD">
@@ -426,6 +414,14 @@
     <title>Volleyball: Eczacibasi Dynavit Istanbul - Olympiacos</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260127020000 +0700" stop="20260127023000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Sports Classics: 2025 Outdoor Specials</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260127023000 +0700" stop="20260127030000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Sports Classics: 2025 Outdoor Specials</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260126003000 +0700" stop="20260126023000 +0700" channel="COSMOTE Sport 7 HD">
     <title>Football: Al-Riyadh - Al Hilal (L)</title>
     <desc>Live: Ya</desc>
@@ -494,6 +490,10 @@
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260127020000 +0700" stop="20260127030000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260126010000 +0700" stop="20260126030000 +0700" channel="COSMOTE Sport 8 HD">
     <title>Basketball: Brescia - Udine (L)</title>
     <desc>Live: Ya</desc>
@@ -558,9 +558,9 @@
     <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260126010000 +0700" stop="20260126020000 +0700" channel="COSMOTE Sport 9 HD">
-    <title>COSMOTESport9HD</title>
-    <desc>Live: Tidak</desc>
+<programme start="20260127020000 +0700" stop="20260127040000 +0700" channel="COSMOTE Sport 8 HD">
+    <title>Basketball: Armani Milano - Varese (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260126020000 +0700" stop="20260126023000 +0700" channel="COSMOTE Sport 9 HD">
     <title>COSMOTESport9HD</title>
