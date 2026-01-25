@@ -130,6 +130,10 @@
     <title>Football: AEL Novibet - Panserraikos</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260126202000 +0700" stop="20260126222000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Juventus Football Club - SSC Napoli</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260125183000 +0700" stop="20260125203000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Sassuolo - Cremonese (L)</title>
     <desc>Live: Ya</desc>
@@ -374,12 +378,12 @@
     <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260125185500 +0700" stop="20260125191500 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Sports Classics: Worldies E7</title>
+<programme start="20260126201000 +0700" stop="20260126204000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260125191500 +0700" stop="20260125194500 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Sports Classics: 2025 Outdoor Specials</title>
+<programme start="20260126204000 +0700" stop="20260126213500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260125194500 +0700" stop="20260125220000 +0700" channel="COSMOTE Sport 6 HD">
@@ -440,6 +444,10 @@
 </programme>
 <programme start="20260126193000 +0700" stop="20260126200000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Sports Classics: 2025 Outdoor Specials</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260126200000 +0700" stop="20260126210000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>ATP 2025 - Review</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260125190000 +0700" stop="20260125210000 +0700" channel="COSMOTE Sport 7 HD">
