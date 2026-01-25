@@ -134,8 +134,8 @@
     <title>Football: Lecce - SS Lazio</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260125155500 +0700" stop="20260125175500 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Arouca - Sporting CP</title>
+<programme start="20260126181000 +0700" stop="20260126202000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: AEL Novibet - Panserraikos</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260125175500 +0700" stop="20260125183000 +0700" channel="COSMOTE Sport 3 HD">
@@ -278,13 +278,9 @@
     <title>Basketball: Milwaukee Bucks - Dallas Mavericks</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260125163500 +0700" stop="20260125170500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Extreme E - Highlights 2025</title>
+<programme start="20260126183000 +0700" stop="20260126193000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>NBA Specials</title>
     <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260125170500 +0700" stop="20260125175000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC 2026 (L)</title>
-    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260125175000 +0700" stop="20260125190000 +0700" channel="COSMOTE Sport 5 HD">
     <title>WRC 2026</title>
@@ -382,8 +378,8 @@
     <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260125152500 +0700" stop="20260125175500 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Volleyball: Halkbank Ankara - Knack Roeselare</title>
+<programme start="20260126182000 +0700" stop="20260126190500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260125175500 +0700" stop="20260125185500 +0700" channel="COSMOTE Sport 6 HD">
