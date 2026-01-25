@@ -832,8 +832,14 @@
 <programme start="20260125010000 +0000" stop="20260125020000 +0000" channel="TVOne.vision">
 <title>Inspirasi Pagi</title>
 </programme>
+<programme start="20260125020000 +0000" stop="20260125023000 +0000" channel="TVOne.vision">
+<title>Indonesia Plus</title>
+</programme>
 <programme start="20260125023000 +0000" stop="20260125030000 +0000" channel="TVOne.vision">
 <title>Xpose</title>
+</programme>
+<programme start="20260125030000 +0000" stop="20260125033000 +0000" channel="TVOne.vision">
+<title>Dunia Dalam Kamera</title>
 </programme>
 <programme start="20260125033000 +0000" stop="20260125040000 +0000" channel="TVOne.vision">
 <title>Satria Biru</title>
@@ -1490,11 +1496,5 @@
 <title>BTV</title>
 </programme>
 <programme start="20260126090000 +0000" stop="20260126093000 +0000" channel="BTV.vision">
-<title>BTV</title>
-</programme>
-<programme start="20260126093000 +0000" stop="20260126103000 +0000" channel="BTV.vision">
-<title>BTV</title>
-</programme>
-<programme start="20260126103000 +0000" stop="20260126110000 +0000" channel="BTV.vision">
 <title>BTV</title>
 </programme>
