@@ -658,9 +658,6 @@
 <programme start="20260125010000 +0000" stop="20260125023000 +0000" channel="ANTV.vision">
 <title>Baalveer Returns</title>
 </programme>
-<programme start="20260125023000 +0000" stop="20260125060000 +0000" channel="ANTV.vision">
-<title>Simmba</title>
-</programme>
 <programme start="20260125060000 +0000" stop="20260125083000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -846,9 +843,6 @@
 </programme>
 <programme start="20260125070000 +0000" stop="20260125073000 +0000" channel="TVOne.vision">
 <title>Selalu Ada Hikmah</title>
-</programme>
-<programme start="20260125073000 +0000" stop="20260125080000 +0000" channel="TVOne.vision">
-<title>Dunia Kita Dan Anak</title>
 </programme>
 <programme start="20260125080000 +0000" stop="20260125090000 +0000" channel="TVOne.vision">
 <title>Apa Kabar Indonesia... (L)</title>
@@ -1497,4 +1491,10 @@
 </programme>
 <programme start="20260126103000 +0000" stop="20260126110000 +0000" channel="BTV.vision">
 <title>BTV</title>
+</programme>
+<programme start="20260126110000 +0000" stop="20260126120000 +0000" channel="BTV.vision">
+<title>BTV</title>
+</programme>
+<programme start="20260124230000 +0000" stop="20260125010000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
 </programme>

@@ -1,7 +1,3 @@
-<programme start="20260125140000 +0700" stop="20260125160000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: PAOK - Real Betis Balompie</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260125160000 +0700" stop="20260125163000 +0700" channel="COSMOTE Sport 1 HD">
     <title>UEFA Champions League Magazine 2024-25 E17</title>
     <desc>Live: Tidak</desc>
@@ -74,10 +70,6 @@
     <title>Football: Galatasaray AS - Club Atletico de Madrid</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260125140000 +0700" stop="20260125160000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Lecce - SS Lazio</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260125160000 +0700" stop="20260125163000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Sports Classics: Football&#039;s Greatest IV E4</title>
     <desc>Live: Tidak</desc>
@@ -142,12 +134,8 @@
     <title>Football: Genoa - Bologna</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260125132500 +0700" stop="20260125152500 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Neom - Al Ahli</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260125152500 +0700" stop="20260125155500 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Emirates FA Cup 2025-26 - Highlights</title>
+<programme start="20260126161000 +0700" stop="20260126181000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Lecce - SS Lazio</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260125155500 +0700" stop="20260125175500 +0700" channel="COSMOTE Sport 3 HD">
@@ -230,14 +218,6 @@
     <title>American Football: Seattle Seahawks - Los Angeles Rams</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260125134000 +0700" stop="20260125154000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Rio Breogan - Real Madrid</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260125154000 +0700" stop="20260125160000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>ACB Liga Endesa 2025-26 - Fifth Quarter E15</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260125160000 +0700" stop="20260125183000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Philadelphia 76ers - New York Knicks</title>
     <desc>Live: Tidak</desc>
@@ -294,8 +274,8 @@
     <title>Basketball: Memphis Grizzlies - Denver Nuggets</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260125145000 +0700" stop="20260125153000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Moto-E World Championship 2025</title>
+<programme start="20260126160000 +0700" stop="20260126183000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Milwaukee Bucks - Dallas Mavericks</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260125153000 +0700" stop="20260125163500 +0700" channel="COSMOTE Sport 5 HD">
@@ -398,8 +378,8 @@
     <title>WRC 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260125130000 +0700" stop="20260125152500 +0700" channel="COSMOTE Sport 6 HD">
-    <title>2025 Premier Padel Tour Finals</title>
+<programme start="20260126162500 +0700" stop="20260126171500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260125152500 +0700" stop="20260125175500 +0700" channel="COSMOTE Sport 6 HD">
