@@ -118,14 +118,6 @@
     <title>Football: AEL Novibet - Panserraikos</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260126033000 +0700" stop="20260126053000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: SC Braga - Alverca (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20260126053000 +0700" stop="20260126060000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Emirates FA Cup 2025-26 - Highlights</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260126060000 +0700" stop="20260126063000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Sports Classics: Sporting Countdowns</title>
     <desc>Live: Tidak</desc>
@@ -186,10 +178,6 @@
     <title>Football: Al-Riyadh - Al Hilal</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260126033000 +0700" stop="20260126060000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Detroit Pistons - Sacramento Kings (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
 <programme start="20260126060000 +0700" stop="20260126063500 +0700" channel="COSMOTE Sport 4 HD">
     <title>NBA on Fire 2025-26 E13</title>
     <desc>Live: Tidak</desc>
@@ -244,10 +232,6 @@
 </programme>
 <programme start="20260127053000 +0700" stop="20260127070000 +0700" channel="COSMOTE Sport 4 HD">
     <title>NBA Specials: Basketball Stories</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260126050000 +0700" stop="20260126054500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260126054500 +0700" stop="20260126072000 +0700" channel="COSMOTE Sport 5 HD">
@@ -358,6 +342,10 @@
     <title>DTM</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260127062000 +0700" stop="20260127071500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>2025 GT World Challenge Europe</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260126033000 +0700" stop="20260126070000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Fight Sports: UFC Fight Night 2026</title>
     <desc>Live: Tidak</desc>
@@ -436,6 +424,10 @@
 </programme>
 <programme start="20260127040000 +0700" stop="20260127064000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Fight Sports: Oktagon 2026</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260127064000 +0700" stop="20260127070000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Sports Classics: Worldies E11</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260126050000 +0700" stop="20260126070000 +0700" channel="COSMOTE Sport 7 HD">
