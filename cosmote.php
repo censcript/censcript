@@ -70,10 +70,6 @@
     <title>Football: FSV Mainz 05 - Samsunspor</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260125100000 +0700" stop="20260125120000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Como - Torino</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260125120000 +0700" stop="20260125140000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: ACF Fiorentina - Cagliari</title>
     <desc>Live: Tidak</desc>
@@ -136,6 +132,10 @@
 </programme>
 <programme start="20260126100000 +0700" stop="20260126120000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Juventus Football Club - SSC Napoli</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260126120000 +0700" stop="20260126141000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Olympiacos - Volos</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260125110000 +0700" stop="20260125130000 +0700" channel="COSMOTE Sport 3 HD">
@@ -226,10 +226,6 @@
     <title>Football: Casa Pia - AVS Futebol</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260125110000 +0700" stop="20260125113000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: NBA Derrick Rose Jersey Retirement Ceremony (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
 <programme start="20260125113000 +0700" stop="20260125134000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: AEK - Karditsa</title>
     <desc>Live: Tidak</desc>
@@ -288,10 +284,6 @@
 </programme>
 <programme start="20260126110000 +0700" stop="20260126130000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Petkim Spor - Fenerbahce</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260125110000 +0700" stop="20260125114500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>DTM</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260125114500 +0700" stop="20260125120500 +0700" channel="COSMOTE Sport 5 HD">
@@ -398,6 +390,10 @@
     <title>Motorsports: Extreme E 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260126120500 +0700" stop="20260126141000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: Extreme E 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260125090000 +0700" stop="20260125130000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Fight Sports: UFC Fight Night 2026 (L)</title>
     <desc>Live: Ya</desc>
@@ -452,6 +448,10 @@
 </programme>
 <programme start="20260126110000 +0700" stop="20260126124000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Handball: ThSV Eisenach - SC Magdeburg</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260126124000 +0700" stop="20260126133000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Sports Classics: 2025 Outdoor Specials</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260125110000 +0700" stop="20260125130000 +0700" channel="COSMOTE Sport 7 HD">
