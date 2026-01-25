@@ -670,9 +670,6 @@
 <programme start="20260125110000 +0000" stop="20260125133000 +0000" channel="ANTV.vision">
 <title>Serie A Liga Italia</title>
 </programme>
-<programme start="20260125133000 +0000" stop="20260125150000 +0000" channel="ANTV.vision">
-<title>Telaga Angker</title>
-</programme>
 <programme start="20260125150000 +0000" stop="20260125170000 +0000" channel="ANTV.vision">
 <title>Yang Perkasa</title>
 </programme>
@@ -1496,5 +1493,8 @@
 <title>BTV</title>
 </programme>
 <programme start="20260124230000 +0000" stop="20260125010000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260125010000 +0000" stop="20260125030000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
