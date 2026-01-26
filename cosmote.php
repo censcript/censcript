@@ -1,7 +1,3 @@
-<programme start="20260126194500 +0700" stop="20260126220000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Sportshow</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260126220000 +0700" stop="20260126223000 +0700" channel="COSMOTE Sport 1 HD">
     <title>UEFA Champions League Magazine 2024-25 E17</title>
     <desc>Live: Tidak</desc>
@@ -126,8 +122,8 @@
     <title>Football: FC Internazionale Milano - Pisa</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260126210000 +0700" stop="20260126213000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Emirates FA Cup 2025-26 - Highlights</title>
+<programme start="20260127222000 +0700" stop="20260128002000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Atalanta - Parma</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260126213000 +0700" stop="20260127010000 +0700" channel="COSMOTE Sport 3 HD">
@@ -250,10 +246,6 @@
     <title>Basketball: AEK - Karditsa</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260126204000 +0700" stop="20260126213500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC 2026</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260126213500 +0700" stop="20260126224000 +0700" channel="COSMOTE Sport 5 HD">
     <title>WRC 2026</title>
     <desc>Live: Tidak</desc>
@@ -354,8 +346,8 @@
     <title>MotoGP Classics</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260126210000 +0700" stop="20260126213000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Premier Padel Tour 2025 - Highlights</title>
+<programme start="20260127220500 +0700" stop="20260127230500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>MotoGP Classics</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260126213000 +0700" stop="20260126234000 +0700" channel="COSMOTE Sport 6 HD">
@@ -440,10 +432,6 @@
 </programme>
 <programme start="20260127213000 +0700" stop="20260127230000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Volleyball: Eczacibasi Dynavit Istanbul - Olympiacos</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260126210000 +0700" stop="20260126220000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260126220000 +0700" stop="20260126223000 +0700" channel="COSMOTE Sport 7 HD">
