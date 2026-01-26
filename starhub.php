@@ -3155,10 +3155,10 @@
         <title>News</title>
     </programme>
     <programme start="20260126000200 +0000" stop="20260126003000 +0000" channel="DW English HD.starhub">
-        <title>Lifestyle Europe</title>
+        <title>Life in the Alps at an altitude of 3,500 meters</title>
     </programme>
     <programme start="20260126003000 +0000" stop="20260126010000 +0000" channel="DW English HD.starhub">
-        <title>What connects us all</title>
+        <title>Joan Chelimo: A runner speaking up against gender violence</title>
     </programme>
     <programme start="20260126010000 +0000" stop="20260126011500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3167,7 +3167,7 @@
         <title>A Wild River on the Brink of Collapse</title>
     </programme>
     <programme start="20260126014500 +0000" stop="20260126020000 +0000" channel="DW English HD.starhub">
-        <title>On Location</title>
+        <title>When the Rains Cease to Fall - Indian Farmers Left Alone</title>
     </programme>
     <programme start="20260126020000 +0000" stop="20260126020200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3185,16 +3185,16 @@
         <title>Ukrainian refugee seeks vaulting history</title>
     </programme>
     <programme start="20260126033000 +0000" stop="20260126040000 +0000" channel="DW English HD.starhub">
-        <title>Lifestyle Europe</title>
+        <title>Life in the Alps at an altitude of 3,500 meters</title>
     </programme>
     <programme start="20260126040000 +0000" stop="20260126041500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20260126041500 +0000" stop="20260126044500 +0000" channel="DW English HD.starhub">
-        <title>What connects us all</title>
+        <title>Joan Chelimo: A runner speaking up against gender violence</title>
     </programme>
     <programme start="20260126044500 +0000" stop="20260126050000 +0000" channel="DW English HD.starhub">
-        <title>On Location</title>
+        <title>When the Rains Cease to Fall - Indian Farmers Left Alone</title>
     </programme>
     <programme start="20260126050000 +0000" stop="20260126050200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3209,7 +3209,7 @@
         <title>News</title>
     </programme>
     <programme start="20260126061500 +0000" stop="20260126063000 +0000" channel="DW English HD.starhub">
-        <title>Living in the Digital Age</title>
+        <title>Reading 2.0: How AI is changing our books</title>
     </programme>
     <programme start="20260126063000 +0000" stop="20260126070000 +0000" channel="DW English HD.starhub">
         <title>Why reaching for the stars is helping nature in South Africa</title>
@@ -3224,10 +3224,10 @@
         <title>News</title>
     </programme>
     <programme start="20260126081500 +0000" stop="20260126083000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>Project 2050: Guiding the way: Innovations for a changing glaciated landscape</title>
     </programme>
     <programme start="20260126083000 +0000" stop="20260126090000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW Podcasts</title>
+        <title>Uganda’s election: Democracy or deception?</title>
     </programme>
     <programme start="20260126090000 +0000" stop="20260126091500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3239,7 +3239,7 @@
         <title>News</title>
     </programme>
     <programme start="20260126101500 +0000" stop="20260126103000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>Finding yourself through jewelry</title>
     </programme>
     <programme start="20260126103000 +0000" stop="20260126110000 +0000" channel="DW English HD.starhub">
         <title>Why reaching for the stars is helping nature in South Africa</title>
@@ -3248,10 +3248,10 @@
         <title>News</title>
     </programme>
     <programme start="20260126111500 +0000" stop="20260126113000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>How to go from finance to funny</title>
     </programme>
     <programme start="20260126113000 +0000" stop="20260126120000 +0000" channel="DW English HD.starhub">
-        <title>What connects us all</title>
+        <title>Joan Chelimo: A runner speaking up against gender violence</title>
     </programme>
     <programme start="20260126120000 +0000" stop="20260126121500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3263,7 +3263,7 @@
         <title>News</title>
     </programme>
     <programme start="20260126131500 +0000" stop="20260126133000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>Will Trump&#039;s Greenland obsession result in a tariff meltdown?</title>
     </programme>
     <programme start="20260126133000 +0000" stop="20260126140000 +0000" channel="DW English HD.starhub">
         <title>The Magazine for Africa&#039;s Youth</title>
@@ -3278,10 +3278,10 @@
         <title>News</title>
     </programme>
     <programme start="20260126151500 +0000" stop="20260126153000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>Will Trump&#039;s Greenland obsession result in a tariff meltdown?</title>
     </programme>
     <programme start="20260126153000 +0000" stop="20260126160000 +0000" channel="DW English HD.starhub">
-        <title>What connects us all</title>
+        <title>Joan Chelimo: A runner speaking up against gender violence</title>
     </programme>
     <programme start="20260125160000 +0000" stop="20260125220000 +0000" channel="Preview Channel.starhub">
         <title>Preview Channel</title>
@@ -6779,7 +6779,7 @@
         <title>NHK Newsline</title>
     </programme>
     <programme start="20260125181000 +0000" stop="20260125190000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>Documentary 360</title>
+        <title>The Tokyo Land Swindlers Scam</title>
     </programme>
     <programme start="20260125190000 +0000" stop="20260125191000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>NHK Newsline</title>
@@ -6803,7 +6803,7 @@
         <title>NHK Newsline</title>
     </programme>
     <programme start="20260125211000 +0000" stop="20260125214000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>NHK World Selection</title>
+        <title>NHK World-Japan Special Programme</title>
     </programme>
     <programme start="20260125214000 +0000" stop="20260125215000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>Little Charo</title>
@@ -6818,7 +6818,7 @@
         <title>NHK Newsline</title>
     </programme>
     <programme start="20260125221000 +0000" stop="20260125222500 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>NHK World-Japan Special Programme</title>
+        <title>Ramen Japan</title>
     </programme>
     <programme start="20260125222500 +0000" stop="20260125223000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>Core Kyoto Mini</title>
@@ -6857,7 +6857,7 @@
         <title>Where We Call Home</title>
     </programme>
     <programme start="20260126005700 +0000" stop="20260126010000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>Time-Lapse Japan 3min.</title>
+        <title>Hagi</title>
     </programme>
     <programme start="20260126010000 +0000" stop="20260126011000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>NHK Newsline</title>
@@ -6904,8 +6904,11 @@
     <programme start="20260126050000 +0000" stop="20260126053000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>NHK Newsline</title>
     </programme>
-    <programme start="20260126053000 +0000" stop="20260126060000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
+    <programme start="20260126053000 +0000" stop="20260126055700 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>Where We Call Home</title>
+    </programme>
+    <programme start="20260126055700 +0000" stop="20260126060000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
+        <title>Hagi</title>
     </programme>
     <programme start="20260126060000 +0000" stop="20260126063000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>Newsline Asia 24</title>
@@ -6946,8 +6949,11 @@
     <programme start="20260126100000 +0000" stop="20260126103000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>NHK News 7</title>
     </programme>
-    <programme start="20260126103000 +0000" stop="20260126110000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
+    <programme start="20260126103000 +0000" stop="20260126105700 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>Where We Call Home</title>
+    </programme>
+    <programme start="20260126105700 +0000" stop="20260126110000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
+        <title>Hagi</title>
     </programme>
     <programme start="20260126110000 +0000" stop="20260126112800 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>Newsroom Tokyo</title>
@@ -6955,8 +6961,11 @@
     <programme start="20260126112800 +0000" stop="20260126114300 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>Direct Talk</title>
     </programme>
-    <programme start="20260126114300 +0000" stop="20260126115500 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>NHK World Selection</title>
+    <programme start="20260126114300 +0000" stop="20260126114800 +0000" channel="NHK WORLD - JAPAN HD.starhub">
+        <title>On the Wings 5min.</title>
+    </programme>
+    <programme start="20260126114800 +0000" stop="20260126115500 +0000" channel="NHK WORLD - JAPAN HD.starhub">
+        <title>Ramen Japan 5min.</title>
     </programme>
     <programme start="20260126115500 +0000" stop="20260126120000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>Ukiyo-e Edo-Life</title>
@@ -6991,8 +7000,11 @@
     <programme start="20260126150000 +0000" stop="20260126153000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>NHK Newsline</title>
     </programme>
-    <programme start="20260126153000 +0000" stop="20260126160000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
+    <programme start="20260126153000 +0000" stop="20260126155700 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>Where We Call Home</title>
+    </programme>
+    <programme start="20260126155700 +0000" stop="20260126160000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
+        <title>Hagi</title>
     </programme>
     <programme start="20260125152500 +0000" stop="20260125165000 +0000" channel="ONE (Malay).starhub">
         <title>Bad Memory Eraser</title>
@@ -7804,10 +7816,10 @@
     <programme start="20260125230000 +0000" stop="20260126013000 +0000" channel="Asianet Movies.starhub">
         <title>Four Friends</title>
     </programme>
-    <programme start="20260126013000 +0000" stop="20260126043000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260126013000 +0000" stop="20260126044100 +0000" channel="Asianet Movies.starhub">
         <title>Kerala Varma Pazhassiraja</title>
     </programme>
-    <programme start="20260126043000 +0000" stop="20260126073000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260126044100 +0000" stop="20260126073000 +0000" channel="Asianet Movies.starhub">
         <title>China Town</title>
     </programme>
     <programme start="20260126073000 +0000" stop="20260126103000 +0000" channel="Asianet Movies.starhub">

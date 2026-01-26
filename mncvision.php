@@ -4547,40 +4547,43 @@
     <title>Mega Film Asia</title>
 </programme>
 <programme start="20260125213000 +0000" stop="20260125230000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Fokus Pagi</title>
 </programme>
-<programme start="20260125230000 +0000" stop="20260126010000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+<programme start="20260125230000 +0000" stop="20260126000000 +0000" channel="Indosiar.mncvision">
+    <title>Merangkai Kisah Indah</title>
 </programme>
-<programme start="20260126010000 +0000" stop="20260126030000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+<programme start="20260126000000 +0000" stop="20260126013000 +0000" channel="Indosiar.mncvision">
+    <title>Kisah Nyata Pagi</title>
+</programme>
+<programme start="20260126013000 +0000" stop="20260126030000 +0000" channel="Indosiar.mncvision">
+    <title>Suara Hati Istri</title>
 </programme>
 <programme start="20260126030000 +0000" stop="20260126040000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Kiss Pagi</title>
 </programme>
 <programme start="20260126040000 +0000" stop="20260126043000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Patroli Siang</title>
 </programme>
 <programme start="20260126043000 +0000" stop="20260126050000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Fokus Siang</title>
 </programme>
-<programme start="20260126050000 +0000" stop="20260126060000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+<programme start="20260126050000 +0000" stop="20260126063000 +0000" channel="Indosiar.mncvision">
+    <title>Kisah Nyata Siang</title>
 </programme>
-<programme start="20260126060000 +0000" stop="20260126080000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+<programme start="20260126063000 +0000" stop="20260126080000 +0000" channel="Indosiar.mncvision">
+    <title>Kisah Nyata</title>
 </programme>
-<programme start="20260126080000 +0000" stop="20260126100000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+<programme start="20260126080000 +0000" stop="20260126093000 +0000" channel="Indosiar.mncvision">
+    <title>Kisah Nyata Sore</title>
 </programme>
-<programme start="20260126100000 +0000" stop="20260126120000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+<programme start="20260126093000 +0000" stop="20260126113000 +0000" channel="Indosiar.mncvision">
+    <title>Merangkai Kisah Indah</title>
 </programme>
-<programme start="20260126120000 +0000" stop="20260126160000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+<programme start="20260126113000 +0000" stop="20260126140000 +0000" channel="Indosiar.mncvision">
+    <title>BRI Super League 2025/26</title>
 </programme>
-<programme start="20260126160000 +0000" stop="20260126163000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+<programme start="20260126140000 +0000" stop="20260126143000 +0000" channel="Indosiar.mncvision">
+    <title>D&#039;Academy S7</title>
 </programme>
 <programme start="20260125180000 +0000" stop="20260125200000 +0000" channel="Indosiar HD.mncvision">
     <title>Mega Film Asia</title>
@@ -4589,40 +4592,43 @@
     <title>Mega Film Asia</title>
 </programme>
 <programme start="20260125213000 +0000" stop="20260125230000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Fokus Pagi</title>
 </programme>
-<programme start="20260125230000 +0000" stop="20260126010000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+<programme start="20260125230000 +0000" stop="20260126000000 +0000" channel="Indosiar HD.mncvision">
+    <title>Merangkai Kisah Indah</title>
 </programme>
-<programme start="20260126010000 +0000" stop="20260126030000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+<programme start="20260126000000 +0000" stop="20260126013000 +0000" channel="Indosiar HD.mncvision">
+    <title>Kisah Nyata Pagi</title>
+</programme>
+<programme start="20260126013000 +0000" stop="20260126030000 +0000" channel="Indosiar HD.mncvision">
+    <title>Suara Hati Istri</title>
 </programme>
 <programme start="20260126030000 +0000" stop="20260126040000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Kiss Pagi</title>
 </programme>
 <programme start="20260126040000 +0000" stop="20260126043000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Patroli Siang</title>
 </programme>
 <programme start="20260126043000 +0000" stop="20260126050000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Fokus Siang</title>
 </programme>
-<programme start="20260126050000 +0000" stop="20260126060000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+<programme start="20260126050000 +0000" stop="20260126063000 +0000" channel="Indosiar HD.mncvision">
+    <title>Kisah Nyata Siang</title>
 </programme>
-<programme start="20260126060000 +0000" stop="20260126080000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+<programme start="20260126063000 +0000" stop="20260126080000 +0000" channel="Indosiar HD.mncvision">
+    <title>Kisah Nyata</title>
 </programme>
-<programme start="20260126080000 +0000" stop="20260126100000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+<programme start="20260126080000 +0000" stop="20260126093000 +0000" channel="Indosiar HD.mncvision">
+    <title>Kisah Nyata Sore</title>
 </programme>
-<programme start="20260126100000 +0000" stop="20260126120000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+<programme start="20260126093000 +0000" stop="20260126113000 +0000" channel="Indosiar HD.mncvision">
+    <title>Merangkai Kisah Indah</title>
 </programme>
-<programme start="20260126120000 +0000" stop="20260126160000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+<programme start="20260126113000 +0000" stop="20260126140000 +0000" channel="Indosiar HD.mncvision">
+    <title>BRI Super League 2025/26</title>
 </programme>
-<programme start="20260126160000 +0000" stop="20260126163000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+<programme start="20260126140000 +0000" stop="20260126143000 +0000" channel="Indosiar HD.mncvision">
+    <title>D&#039;Academy S7</title>
 </programme>
 <programme start="20260125180000 +0000" stop="20260125184500 +0000" channel="iNews.mncvision">
     <title>iNews Room Weekend</title>
@@ -8873,61 +8879,61 @@
     <title>Spotlite</title>
 </programme>
 <programme start="20260126013000 +0000" stop="20260126023000 +0000" channel="Trans 7.mncvision">
-    <title>Selebrita Pagi On The Weekend</title>
+    <title>FYP (For Your Pagi)</title>
 </programme>
 <programme start="20260126023000 +0000" stop="20260126031500 +0000" channel="Trans 7.mncvision">
-    <title>Obrolan Tiap Waktu</title>
+    <title>Selebrita Heits</title>
 </programme>
 <programme start="20260126031500 +0000" stop="20260126041500 +0000" channel="Trans 7.mncvision">
-    <title>Heits Abis</title>
+    <title>Big-Bang!</title>
 </programme>
 <programme start="20260126041500 +0000" stop="20260126050000 +0000" channel="Trans 7.mncvision">
-    <title>Bikin Seneng</title>
+    <title>Enah Bikin Enak</title>
 </programme>
 <programme start="20260126050000 +0000" stop="20260126054500 +0000" channel="Trans 7.mncvision">
-    <title>Enaknya Mantul</title>
+    <title>Bocah Petualang</title>
 </programme>
 <programme start="20260126054500 +0000" stop="20260126063000 +0000" channel="Trans 7.mncvision">
-    <title>Cuan Bos</title>
+    <title>Indonesiaku</title>
 </programme>
 <programme start="20260126063000 +0000" stop="20260126071500 +0000" channel="Trans 7.mncvision">
-    <title>Jejak Petualang Explorer</title>
+    <title>Ujung-Ujungnya Damkar</title>
 </programme>
 <programme start="20260126071500 +0000" stop="20260126080000 +0000" channel="Trans 7.mncvision">
-    <title>Mancing Mania Strike Back</title>
+    <title>Redaksi</title>
 </programme>
 <programme start="20260126080000 +0000" stop="20260126090000 +0000" channel="Trans 7.mncvision">
-    <title>Redaksi Akhir Pekan</title>
-</programme>
-<programme start="20260126090000 +0000" stop="20260126100000 +0000" channel="Trans 7.mncvision">
     <title>Jejak Si Gundul</title>
 </programme>
-<programme start="20260126100000 +0000" stop="20260126101500 +0000" channel="Trans 7.mncvision">
+<programme start="20260126090000 +0000" stop="20260126100000 +0000" channel="Trans 7.mncvision">
     <title>Makan Receh</title>
 </programme>
+<programme start="20260126100000 +0000" stop="20260126101500 +0000" channel="Trans 7.mncvision">
+    <title>Mencuri Cintamu</title>
+</programme>
 <programme start="20260126101500 +0000" stop="20260126110000 +0000" channel="Trans 7.mncvision">
-    <title>Cinta Yang Tersembunyi</title>
+    <title>Speak Up</title>
 </programme>
 <programme start="20260126110000 +0000" stop="20260126114500 +0000" channel="Trans 7.mncvision">
-    <title>Selebrita On The Weekend</title>
+    <title>On The Spot</title>
 </programme>
 <programme start="20260126114500 +0000" stop="20260126121500 +0000" channel="Trans 7.mncvision">
-    <title>Legenda Bertuah</title>
-</programme>
-<programme start="20260126121500 +0000" stop="20260126130000 +0000" channel="Trans 7.mncvision">
     <title>Secret Story</title>
 </programme>
-<programme start="20260126130000 +0000" stop="20260126143000 +0000" channel="Trans 7.mncvision">
+<programme start="20260126121500 +0000" stop="20260126130000 +0000" channel="Trans 7.mncvision">
     <title>POV (Pasti Obrolan Viral)</title>
 </programme>
-<programme start="20260126143000 +0000" stop="20260126154500 +0000" channel="Trans 7.mncvision">
+<programme start="20260126130000 +0000" stop="20260126143000 +0000" channel="Trans 7.mncvision">
     <title>Arisan</title>
 </programme>
+<programme start="20260126143000 +0000" stop="20260126154500 +0000" channel="Trans 7.mncvision">
+    <title>Lapor Pak!</title>
+</programme>
 <programme start="20260126154500 +0000" stop="20260126163000 +0000" channel="Trans 7.mncvision">
-    <title>BTS</title>
+    <title>The Police</title>
 </programme>
 <programme start="20260126163000 +0000" stop="20260125170000 +0000" channel="Trans 7.mncvision">
-    <title>The Police</title>
+    <title>Newstainment</title>
 </programme>
 <programme start="20260125180000 +0000" stop="20260125220000 +0000" channel="Trans TV.mncvision">
     <title>CNN Tech News</title>
