@@ -2017,11 +2017,11 @@
     <programme start="20260125160000 +0000" stop="20260125170000 +0000" channel="CNN HD.starhub">
         <title>Inside Politics With Manu Raju</title>
     </programme>
-    <programme start="20260125170000 +0000" stop="20260125184500 +0000" channel="CNN HD.starhub">
+    <programme start="20260125170000 +0000" stop="20260125180000 +0000" channel="CNN HD.starhub">
         <title>World Sport (30m)</title>
     </programme>
-    <programme start="20260125184500 +0000" stop="20260125190000 +0000" channel="CNN HD.starhub">
-        <title>Driving Cape Verde&#039;s Growth; Opeyemi Agbato</title>
+    <programme start="20260125180000 +0000" stop="20260125190000 +0000" channel="CNN HD.starhub">
+        <title>CNN Newsroom Sunday</title>
     </programme>
     <programme start="20260125190000 +0000" stop="20260125200000 +0000" channel="CNN HD.starhub">
         <title>CNN Newsroom Sunday</title>
@@ -3074,7 +3074,7 @@
         <title>M06: Afghanistan vs South Africa</title>
     </programme>
     <programme start="20260126071500 +0000" stop="20260126153000 +0000" channel="Hub Sports 4 HD.starhub">
-        <title>M28: Super 6</title>
+        <title>M28: Super 6 - England vs Bangladesh</title>
     </programme>
     <programme start="20260126153000 +0000" stop="20260126160000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
@@ -3083,7 +3083,7 @@
         <title>News</title>
     </programme>
     <programme start="20260125161500 +0000" stop="20260125163000 +0000" channel="DW English HD.starhub">
-        <title>On Location</title>
+        <title>When the Rains Cease to Fall - Indian Farmers Left Alone</title>
     </programme>
     <programme start="20260125163000 +0000" stop="20260125170000 +0000" channel="DW English HD.starhub">
         <title>Skating the Norm</title>
@@ -3095,13 +3095,13 @@
         <title>Ukrainian refugee seeks vaulting history</title>
     </programme>
     <programme start="20260125173000 +0000" stop="20260125180000 +0000" channel="DW English HD.starhub">
-        <title>Lifestyle Europe</title>
+        <title>Life in the Alps at an altitude of 3,500 meters</title>
     </programme>
     <programme start="20260125180000 +0000" stop="20260125181500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20260125181500 +0000" stop="20260125183000 +0000" channel="DW English HD.starhub">
-        <title>Living in the Digital Age</title>
+        <title>Reading 2.0: How AI is changing our books</title>
     </programme>
     <programme start="20260125183000 +0000" stop="20260125190000 +0000" channel="DW English HD.starhub">
         <title>Sony and Honda team up to reinvent the car with the Afeela 1</title>
@@ -3125,7 +3125,7 @@
         <title>News</title>
     </programme>
     <programme start="20260125211500 +0000" stop="20260125213000 +0000" channel="DW English HD.starhub">
-        <title>On Location</title>
+        <title>When the Rains Cease to Fall - Indian Farmers Left Alone</title>
     </programme>
     <programme start="20260125213000 +0000" stop="20260125220000 +0000" channel="DW English HD.starhub">
         <title>Know your limits - ‘pacing’ in Long Covid therapy</title>
@@ -3137,13 +3137,13 @@
         <title>Skating the Norm</title>
     </programme>
     <programme start="20260125223000 +0000" stop="20260125230000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW Podcasts</title>
+        <title>Uganda’s election: Democracy or deception?</title>
     </programme>
     <programme start="20260125230000 +0000" stop="20260125231500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20260125231500 +0000" stop="20260125233000 +0000" channel="DW English HD.starhub">
-        <title>On Location</title>
+        <title>When the Rains Cease to Fall - Indian Farmers Left Alone</title>
     </programme>
     <programme start="20260125233000 +0000" stop="20260126000000 +0000" channel="DW English HD.starhub">
         <title>Sony and Honda team up to reinvent the car with the Afeela 1</title>
