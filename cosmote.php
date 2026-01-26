@@ -70,10 +70,6 @@
     <title>Football: FC Lausanne - ACF Fiorentina</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260126100000 +0700" stop="20260126120000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Juventus Football Club - SSC Napoli</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260126120000 +0700" stop="20260126141000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Olympiacos - Volos</title>
     <desc>Live: Tidak</desc>
@@ -124,6 +120,10 @@
 </programme>
 <programme start="20260127100000 +0700" stop="20260127120000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Hellas Verona - Udinese</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260127120000 +0700" stop="20260127141000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: AEL Novibet - Panserraikos</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260126110000 +0700" stop="20260126130000 +0700" channel="COSMOTE Sport 3 HD">
@@ -343,6 +343,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260127110000 +0700" stop="20260127120500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>2025 Extreme H</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260127120500 +0700" stop="20260127131000 +0700" channel="COSMOTE Sport 5 HD">
     <title>2025 Extreme H</title>
     <desc>Live: Tidak</desc>
 </programme>

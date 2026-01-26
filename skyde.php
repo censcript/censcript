@@ -2776,7 +2776,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>BL: 90in30: FCU - BVB, 19. Spieltag</title>
 </programme>
 <programme start="20260126170000 +0000" stop="20260126171500 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>2. BL: Dzeko Spezial</title>
+    <title>2. BL: Der Dzeko-Deal: Superstar auf Schalke</title>
 </programme>
 <programme start="20260126171500 +0000" stop="20260126173000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>2. BL: Dein Spieltags-Sprint (19)</title>
@@ -3232,7 +3232,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>2. BL: Dein Spieltags-Sprint (19)</title>
 </programme>
 <programme start="20260126174500 +0000" stop="20260126180000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>2. BL: Dzeko Spezial</title>
+    <title>2. BL: Der Dzeko-Deal: Superstar auf Schalke</title>
 </programme>
 <programme start="20260126180000 +0000" stop="20260126190000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live BL: Glanzparade - Die Show mit Buschmann, Fuss und Wagner</title>
@@ -3244,7 +3244,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Live PL: FC Everton - Leeds United, 23. Spieltag</title>
 </programme>
 <programme start="20260126220000 +0000" stop="20260126221500 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>2. BL: Dzeko Spezial</title>
+    <title>2. BL: Der Dzeko-Deal: Superstar auf Schalke</title>
 </programme>
 <programme start="20260126221500 +0000" stop="20260126224500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Frauen-BL: Alle Spiele, alle Tore, 15. Spieltag komplett</title>

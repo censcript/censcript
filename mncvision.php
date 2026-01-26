@@ -397,44 +397,44 @@
 <programme start="20260125170000 +0000" stop="20260125183000 +0000" channel="ANTV.mncvision">
     <title>Tarot</title>
 </programme>
-<programme start="20260125183000 +0000" stop="20260125193000 +0000" channel="ANTV.mncvision">
+<programme start="20260125183000 +0000" stop="20260125190000 +0000" channel="ANTV.mncvision">
     <title>Bioskop Asia</title>
 </programme>
-<programme start="20260125193000 +0000" stop="20260125223000 +0000" channel="ANTV.mncvision">
-    <title>ANTV</title>
+<programme start="20260125190000 +0000" stop="20260125200000 +0000" channel="ANTV.mncvision">
+    <title>Naughty Bomb</title>
 </programme>
-<programme start="20260125223000 +0000" stop="20260125233000 +0000" channel="ANTV.mncvision">
-    <title>ANTV</title>
+<programme start="20260125200000 +0000" stop="20260125213000 +0000" channel="ANTV.mncvision">
+    <title>The Devil Tomb</title>
 </programme>
-<programme start="20260125233000 +0000" stop="20260126003000 +0000" channel="ANTV.mncvision">
-    <title>ANTV</title>
+<programme start="20260125213000 +0000" stop="20260125223000 +0000" channel="ANTV.mncvision">
+    <title>Senyum Iman</title>
 </programme>
-<programme start="20260126003000 +0000" stop="20260126013000 +0000" channel="ANTV.mncvision">
-    <title>ANTV</title>
+<programme start="20260125223000 +0000" stop="20260125230000 +0000" channel="ANTV.mncvision">
+    <title>Super Viral</title>
 </programme>
-<programme start="20260126013000 +0000" stop="20260126030000 +0000" channel="ANTV.mncvision">
-    <title>ANTV</title>
+<programme start="20260125230000 +0000" stop="20260126010000 +0000" channel="ANTV.mncvision">
+    <title>Rindu Tak Berujung</title>
 </programme>
-<programme start="20260126030000 +0000" stop="20260126063000 +0000" channel="ANTV.mncvision">
-    <title>ANTV</title>
+<programme start="20260126010000 +0000" stop="20260126023000 +0000" channel="ANTV.mncvision">
+    <title>Baalveer Returns</title>
 </programme>
-<programme start="20260126063000 +0000" stop="20260126080000 +0000" channel="ANTV.mncvision">
-    <title>ANTV</title>
+<programme start="20260126023000 +0000" stop="20260126060000 +0000" channel="ANTV.mncvision">
+    <title>Kabhi Kushi Kabhi Gham</title>
 </programme>
-<programme start="20260126080000 +0000" stop="20260126093000 +0000" channel="ANTV.mncvision">
-    <title>ANTV</title>
+<programme start="20260126060000 +0000" stop="20260126083000 +0000" channel="ANTV.mncvision">
+    <title>Jhanak</title>
 </programme>
-<programme start="20260126093000 +0000" stop="20260126110000 +0000" channel="ANTV.mncvision">
-    <title>ANTV</title>
+<programme start="20260126083000 +0000" stop="20260126130000 +0000" channel="ANTV.mncvision">
+    <title>Vasudha</title>
 </programme>
-<programme start="20260126110000 +0000" stop="20260126130000 +0000" channel="ANTV.mncvision">
-    <title>ANTV</title>
+<programme start="20260126130000 +0000" stop="20260126143000 +0000" channel="ANTV.mncvision">
+    <title>Titisan Dewi Ular</title>
 </programme>
-<programme start="20260126130000 +0000" stop="20260126150000 +0000" channel="ANTV.mncvision">
-    <title>ANTV</title>
+<programme start="20260126143000 +0000" stop="20260126163000 +0000" channel="ANTV.mncvision">
+    <title>Golok Setan</title>
 </programme>
-<programme start="20260126150000 +0000" stop="20260126153000 +0000" channel="ANTV.mncvision">
-    <title>ANTV</title>
+<programme start="20260126163000 +0000" stop="20260125170000 +0000" channel="ANTV.mncvision">
+    <title>Tarzan Penunggu Harta Karun</title>
 </programme>
 <programme start="20260125170000 +0000" stop="20260125173000 +0000" channel="Arirang.mncvision">
     <title>SmartBiz Accelerators</title>
