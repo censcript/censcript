@@ -1179,35 +1179,29 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260126223500 +0000" stop="20260126232500 +0000" channel="HISTORY Channel HD.skyde">
     <title>Terra X - D-Day 1944 - Die Schlacht um Europas Freiheit</title>
 </programme>
-<programme start="20260124230000 +0000" stop="20260125010000 +0000" channel="Jukebox.skyde">
-    <title>PARTY BOX</title>
+<programme start="20260125230000 +0000" stop="20260126000000 +0000" channel="Jukebox.skyde">
+    <title>LOGOUT</title>
 </programme>
-<programme start="20260125010000 +0000" stop="20260125020000 +0000" channel="Jukebox.skyde">
-    <title>BACK TO ... GROOVE</title>
-</programme>
-<programme start="20260125020000 +0000" stop="20260125050000 +0000" channel="Jukebox.skyde">
+<programme start="20260126000000 +0000" stop="20260126050000 +0000" channel="Jukebox.skyde">
     <title>NIGHTSHIFT</title>
 </programme>
-<programme start="20260125050000 +0000" stop="20260125110000 +0000" channel="Jukebox.skyde">
+<programme start="20260126050000 +0000" stop="20260126110000 +0000" channel="Jukebox.skyde">
     <title>MORNING GLORY</title>
 </programme>
-<programme start="20260125110000 +0000" stop="20260125130000 +0000" channel="Jukebox.skyde">
+<programme start="20260126110000 +0000" stop="20260126130000 +0000" channel="Jukebox.skyde">
     <title>JUKEBOX NEWS</title>
 </programme>
-<programme start="20260125130000 +0000" stop="20260125150000 +0000" channel="Jukebox.skyde">
-    <title>JUKEBOX TOP 25</title>
+<programme start="20260126130000 +0000" stop="20260126170000 +0000" channel="Jukebox.skyde">
+    <title>JUKEBOX TRENDS</title>
 </programme>
-<programme start="20260125150000 +0000" stop="20260125170000 +0000" channel="Jukebox.skyde">
-    <title>JUKEBOX DANCE</title>
-</programme>
-<programme start="20260125170000 +0000" stop="20260125190000 +0000" channel="Jukebox.skyde">
-    <title>JUKEBOX GROOVE</title>
-</programme>
-<programme start="20260125190000 +0000" stop="20260125210000 +0000" channel="Jukebox.skyde">
-    <title>#1S</title>
-</programme>
-<programme start="20260125210000 +0000" stop="20260125230000 +0000" channel="Jukebox.skyde">
+<programme start="20260126170000 +0000" stop="20260126190000 +0000" channel="Jukebox.skyde">
     <title>LOGOUT</title>
+</programme>
+<programme start="20260126190000 +0000" stop="20260126210000 +0000" channel="Jukebox.skyde">
+    <title>JUKEBOX TOP 50 MIX</title>
+</programme>
+<programme start="20260126210000 +0000" stop="20260126230000 +0000" channel="Jukebox.skyde">
+    <title>JUKEBOX TOP 25</title>
 </programme>
 <programme start="20260125230000 +0000" stop="20260126000000 +0000" channel="Motorvision+.skyde">
     <title>NASCAR Whelen Euro Series 2025</title>
