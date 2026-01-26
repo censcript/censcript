@@ -122,6 +122,10 @@
     <title>Football: Atalanta - Parma</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260128002000 +0700" stop="20260128023000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: AEL Novibet - Panserraikos</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260126213000 +0700" stop="20260127010000 +0700" channel="COSMOTE Sport 3 HD">
     <title>American Football: Denver Broncos - New England Patriots</title>
     <desc>Live: Tidak</desc>
@@ -238,17 +242,17 @@
     <title>Basketball: Barcelona - Tenerife</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260127215500 +0700" stop="20260127235500 +0700" channel="COSMOTE Sport 4 HD">
+<programme start="20260127215500 +0700" stop="20260127235000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: AEK - Karditsa</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260127235500 +0700" stop="20260128003000 +0700" channel="COSMOTE Sport 4 HD">
+<programme start="20260127235000 +0700" stop="20260128003000 +0700" channel="COSMOTE Sport 4 HD">
     <title>NBA Action 2025-26 E3514</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260126224000 +0700" stop="20260126232500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC 2026</title>
-    <desc>Live: Tidak</desc>
+<programme start="20260128003000 +0700" stop="20260128024000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Karditsa - Tofas (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260126232500 +0700" stop="20260127010000 +0700" channel="COSMOTE Sport 5 HD">
     <title>WRC 2026</title>
@@ -354,10 +358,6 @@
     <title>DTM 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260126213000 +0700" stop="20260126234000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>World Athletics Indoor Tour Gold 2026</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260126234000 +0700" stop="20260127003000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Sports Classics: 2025 Outdoor Specials</title>
     <desc>Live: Tidak</desc>
@@ -441,6 +441,10 @@
 <programme start="20260127230000 +0700" stop="20260128000000 +0700" channel="COSMOTE Sport 6 HD">
     <title>ATP 2025 - Review</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260128000000 +0700" stop="20260128023000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Volleyball: Olympiacos - Allianz Powervolley Milano (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260126230000 +0700" stop="20260127010000 +0700" channel="COSMOTE Sport 7 HD">
     <title>Basketball: Merkezefendi - Karsiyaka (L)</title>
