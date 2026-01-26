@@ -8302,10 +8302,10 @@
     <programme start="20260126153000 +0000" stop="20260126163000 +0000" channel="ADITHYA TV.starhub">
         <title>Vedi Sirippu</title>
     </programme>
-    <programme start="20260125140000 +0000" stop="20260125163000 +0000" channel="Hub E City HD.starhub">
+    <programme start="20260125145100 +0000" stop="20260125164100 +0000" channel="Hub E City HD.starhub">
         <title>I Miss You</title>
     </programme>
-    <programme start="20260125163000 +0000" stop="20260125173000 +0000" channel="Hub E City HD.starhub">
+    <programme start="20260125164100 +0000" stop="20260125173000 +0000" channel="Hub E City HD.starhub">
         <title>The Ordinary Road</title>
     </programme>
     <programme start="20260125173000 +0000" stop="20260125183000 +0000" channel="Hub E City HD.starhub">
@@ -8684,7 +8684,7 @@
         <title>Midlife, Sing &amp; Shine! 4</title>
     </programme>
     <programme start="20260125190000 +0000" stop="20260125193000 +0000" channel="TVB Jade HD.starhub">
-        <title>China Resources (Holdings) Co. Ltd. Presents: No Poverty Land V - Odyssey of Intelligence</title>
+        <title>China Resources (Holdings) Co. Ltd. Presents: No Poverty Land V - Odyssey of Int</title>
     </programme>
     <programme start="20260125193000 +0000" stop="20260125200500 +0000" channel="TVB Jade HD.starhub">
         <title>Star Weekly</title>
@@ -9145,10 +9145,10 @@
     <programme start="20260126145000 +0000" stop="20260126164000 +0000" channel="Discovery HD.starhub">
         <title>Last Gasp For Gold</title>
     </programme>
-    <programme start="20260125140000 +0000" stop="20260125163000 +0000" channel="Hub E City HD.starhub">
+    <programme start="20260125145100 +0000" stop="20260125164100 +0000" channel="Hub E City HD.starhub">
         <title>I Miss You</title>
     </programme>
-    <programme start="20260125163000 +0000" stop="20260125173000 +0000" channel="Hub E City HD.starhub">
+    <programme start="20260125164100 +0000" stop="20260125173000 +0000" channel="Hub E City HD.starhub">
         <title>The Ordinary Road</title>
     </programme>
     <programme start="20260125173000 +0000" stop="20260125183000 +0000" channel="Hub E City HD.starhub">
@@ -9208,10 +9208,10 @@
     <programme start="20260126150000 +0000" stop="20260126160000 +0000" channel="Hub E City HD.starhub">
         <title>The Ingenious One</title>
     </programme>
-    <programme start="20260125140000 +0000" stop="20260125163000 +0000" channel="TestChannel1.starhub">
+    <programme start="20260125145100 +0000" stop="20260125164100 +0000" channel="TestChannel1.starhub">
         <title>I Miss You</title>
     </programme>
-    <programme start="20260125163000 +0000" stop="20260125173000 +0000" channel="TestChannel1.starhub">
+    <programme start="20260125164100 +0000" stop="20260125173000 +0000" channel="TestChannel1.starhub">
         <title>The Ordinary Road</title>
     </programme>
     <programme start="20260125173000 +0000" stop="20260125183000 +0000" channel="TestChannel1.starhub">
