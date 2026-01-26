@@ -5300,7 +5300,7 @@
     <title>Life Music</title>
 </programme>
 <programme start="20260126153000 +0000" stop="20260126160000 +0000" channel="LIFE.mncvision">
-    <title>Smoketown</title>
+    <title>In The Gap With Choco De Jesus</title>
 </programme>
 <programme start="20260126160000 +0000" stop="20260126163000 +0000" channel="LIFE.mncvision">
     <title>Solusi</title>

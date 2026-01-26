@@ -126,8 +126,8 @@
     <title>Football: AEL Novibet - Panserraikos</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260126130000 +0700" stop="20260126133000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Copa Libertadores 2025 - Highlights</title>
+<programme start="20260127141000 +0700" stop="20260127161000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Sassuolo - Cremonese</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260126133000 +0700" stop="20260126170000 +0700" channel="COSMOTE Sport 3 HD">
@@ -188,10 +188,6 @@
 </programme>
 <programme start="20260127130000 +0700" stop="20260127150000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Derby County - West Bromwich Albion</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260126130000 +0700" stop="20260126133000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>NBA Specials</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260126133000 +0700" stop="20260126160000 +0700" channel="COSMOTE Sport 4 HD">
@@ -354,12 +350,8 @@
     <title>WRC</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260126124000 +0700" stop="20260126133000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Sports Classics: 2025 Outdoor Specials</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260126133000 +0700" stop="20260126140000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Sports Classics: 2025 Outdoor Specials</title>
+<programme start="20260127143000 +0700" stop="20260127150000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Extreme E - Highlights 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260126140000 +0700" stop="20260126143000 +0700" channel="COSMOTE Sport 6 HD">
