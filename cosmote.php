@@ -122,6 +122,10 @@
     <title>Football: AEL Novibet - Panserraikos</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260128023000 +0700" stop="20260128043000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Juventus Football Club - SSC Napoli</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260127010000 +0700" stop="20260127030000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Heart of Midlothian - Celtic FC</title>
     <desc>Live: Tidak</desc>
@@ -246,9 +250,9 @@
     <title>Basketball: Karditsa - Tofas (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260127010000 +0700" stop="20260127020000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC</title>
-    <desc>Live: Tidak</desc>
+<programme start="20260128024000 +0700" stop="20260128042500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Pick n&#039; Roll (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260127020000 +0700" stop="20260127030500 +0700" channel="COSMOTE Sport 5 HD">
     <title>ERC 2025</title>
@@ -350,8 +354,8 @@
     <title>DTM 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260127003000 +0700" stop="20260127020000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Volleyball: Eczacibasi Dynavit Istanbul - Olympiacos</title>
+<programme start="20260128024500 +0700" stop="20260128034000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>2025 GT World Challenge Europe</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260127020000 +0700" stop="20260127023000 +0700" channel="COSMOTE Sport 6 HD">
@@ -434,12 +438,8 @@
     <title>Volleyball: Olympiacos - Allianz Powervolley Milano (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260127010000 +0700" stop="20260127013000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260127013000 +0700" stop="20260127020000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
+<programme start="20260128023000 +0700" stop="20260128045500 +0700" channel="COSMOTE Sport 6 HD">
+    <title>2025 Premier Padel World Cup Pairs</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260127020000 +0700" stop="20260127030000 +0700" channel="COSMOTE Sport 7 HD">
@@ -494,13 +494,13 @@
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260127010000 +0700" stop="20260127013000 +0700" channel="COSMOTE Sport 8 HD">
-    <title>COSMOTESport8HD</title>
+<programme start="20260128020000 +0700" stop="20260128023000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260127013000 +0700" stop="20260127020000 +0700" channel="COSMOTE Sport 8 HD">
-    <title>COSMOTESport8HD</title>
-    <desc>Live: Tidak</desc>
+<programme start="20260128023000 +0700" stop="20260128050000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>Volleyball: Cucine Lube Civitanova - Leuven (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260127020000 +0700" stop="20260127040000 +0700" channel="COSMOTE Sport 8 HD">
     <title>Basketball: Armani Milano - Varese (L)</title>
