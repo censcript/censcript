@@ -1,11 +1,3 @@
-<programme start="20260127031500 +0700" stop="20260127051500 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: FC Porto - Gil Vicente (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20260127051500 +0700" stop="20260127054500 +0700" channel="COSMOTE Sport 1 HD">
-    <title>UEFA Champions League Magazine 2024-25 E17</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260127054500 +0700" stop="20260127074500 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: FK Bodo/Glimt - Manchester City FC</title>
     <desc>Live: Tidak</desc>
@@ -122,8 +114,8 @@
     <title>Football: Olympiacos - Volos</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260127050000 +0700" stop="20260127052500 +0700" channel="COSMOTE Sport 3 HD">
-    <title>William Hill Scottish Premiership - Highlights</title>
+<programme start="20260128064000 +0700" stop="20260128071000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Sports Classics: Football Countdowns E4</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260127052500 +0700" stop="20260127073000 +0700" channel="COSMOTE Sport 3 HD">
@@ -186,10 +178,6 @@
     <title>Football: Casa Pia - AVS Futebol</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260127030000 +0700" stop="20260127053000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Oklahoma City Thunder - Toronto Raptors</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260127053000 +0700" stop="20260127070000 +0700" channel="COSMOTE Sport 4 HD">
     <title>NBA Specials: Basketball Stories</title>
     <desc>Live: Tidak</desc>
@@ -250,8 +238,8 @@
     <title>Basketball: Cleveland Cavaliers - Orlando Magic</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260127045000 +0700" stop="20260127052000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Extreme E - Highlights 2025</title>
+<programme start="20260128065500 +0700" stop="20260128073000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>NBA Specials</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260127052000 +0700" stop="20260127062000 +0700" channel="COSMOTE Sport 5 HD">

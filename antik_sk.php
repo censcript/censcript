@@ -19138,17 +19138,17 @@
   <programme start="20260128130500 +0000" stop="20260128150000 +0000" channel="Rai Uno.webtv.sk">
     <title lang="id">La volta buona</title>
   </programme>
-  <programme start="20260128150000 +0000" stop="20260128150700 +0000" channel="Rai Uno.webtv.sk">
+  <programme start="20260128150000 +0000" stop="20260128151000 +0000" channel="Rai Uno.webtv.sk">
     <title lang="id">Tg1</title>
   </programme>
-  <programme start="20260128150700 +0000" stop="20260128151000 +0000" channel="Rai Uno.webtv.sk">
-    <title lang="id">Che tempo fa</title>
-  </programme>
-  <programme start="20260128151000 +0000" stop="20260128160500 +0000" channel="Rai Uno.webtv.sk">
+  <programme start="20260128151000 +0000" stop="20260128155500 +0000" channel="Rai Uno.webtv.sk">
     <title lang="id">Il paradiso delle signore X (94)</title>
   </programme>
-  <programme start="20260128160500 +0000" stop="20260128174000 +0000" channel="Rai Uno.webtv.sk">
+  <programme start="20260128155500 +0000" stop="20260128173500 +0000" channel="Rai Uno.webtv.sk">
     <title lang="id">Vita in diretta</title>
+  </programme>
+  <programme start="20260128173500 +0000" stop="20260128174000 +0000" channel="Rai Uno.webtv.sk">
+    <title lang="id">Che tempo fa</title>
   </programme>
   <programme start="20260128174000 +0000" stop="20260128190000 +0000" channel="Rai Uno.webtv.sk">
     <title lang="id">L&apos;Eredita</title>
