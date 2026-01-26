@@ -8203,20 +8203,11 @@
 <programme start="20260126070000 +0000" stop="20260126090000 +0000" channel="Sportstars 4.mncvision">
     <title>European Qualifiers</title>
 </programme>
-<programme start="20260126090000 +0000" stop="20260126093000 +0000" channel="Sportstars 4.mncvision">
-    <title>Top Goals</title>
+<programme start="20260126090000 +0000" stop="20260126110000 +0000" channel="Sportstars 4.mncvision">
+    <title>Liga 2</title>
 </programme>
-<programme start="20260126093000 +0000" stop="20260126100000 +0000" channel="Sportstars 4.mncvision">
-    <title>Planet Football</title>
-</programme>
-<programme start="20260126100000 +0000" stop="20260126103000 +0000" channel="Sportstars 4.mncvision">
-    <title>The Ultimate Goals</title>
-</programme>
-<programme start="20260126103000 +0000" stop="20260126123000 +0000" channel="Sportstars 4.mncvision">
+<programme start="20260126110000 +0000" stop="20260126130000 +0000" channel="Sportstars 4.mncvision">
     <title>ASEAN Para Games: Closing (L)</title>
-</programme>
-<programme start="20260126123000 +0000" stop="20260126130000 +0000" channel="Sportstars 4.mncvision">
-    <title>Top Goals</title>
 </programme>
 <programme start="20260126130000 +0000" stop="20260126150000 +0000" channel="Sportstars 4.mncvision">
     <title>European Qualifiers</title>
@@ -8248,20 +8239,11 @@
 <programme start="20260126070000 +0000" stop="20260126090000 +0000" channel="Sportstars 4 HD.mncvision">
     <title>European Qualifiers</title>
 </programme>
-<programme start="20260126090000 +0000" stop="20260126093000 +0000" channel="Sportstars 4 HD.mncvision">
-    <title>Top Goals</title>
+<programme start="20260126090000 +0000" stop="20260126110000 +0000" channel="Sportstars 4 HD.mncvision">
+    <title>Liga 2</title>
 </programme>
-<programme start="20260126093000 +0000" stop="20260126100000 +0000" channel="Sportstars 4 HD.mncvision">
-    <title>Planet Football</title>
-</programme>
-<programme start="20260126100000 +0000" stop="20260126103000 +0000" channel="Sportstars 4 HD.mncvision">
-    <title>The Ultimate Goals</title>
-</programme>
-<programme start="20260126103000 +0000" stop="20260126123000 +0000" channel="Sportstars 4 HD.mncvision">
+<programme start="20260126110000 +0000" stop="20260126130000 +0000" channel="Sportstars 4 HD.mncvision">
     <title>ASEAN Para Games: Closing (L)</title>
-</programme>
-<programme start="20260126123000 +0000" stop="20260126130000 +0000" channel="Sportstars 4 HD.mncvision">
-    <title>Top Goals</title>
 </programme>
 <programme start="20260126130000 +0000" stop="20260126150000 +0000" channel="Sportstars 4 HD.mncvision">
     <title>European Qualifiers</title>
