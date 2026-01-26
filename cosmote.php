@@ -1,7 +1,3 @@
-<programme start="20260126154500 +0700" stop="20260126174500 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: Galatasaray AS - Club Atletico de Madrid</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260126174500 +0700" stop="20260126194500 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Omonoia FC - Rakow Czestochowa</title>
     <desc>Live: Tidak</desc>
@@ -126,6 +122,10 @@
     <title>Football: Hellas Verona - Udinese</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260127181000 +0700" stop="20260127202000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: OFI - Panetolikos</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260126170000 +0700" stop="20260126190000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Arouca - Sporting CP</title>
     <desc>Live: Tidak</desc>
@@ -246,10 +246,6 @@
     <title>Basketball: Cleveland Cavaliers - Orlando Magic</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260126162500 +0700" stop="20260126171500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC 2026</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260126171500 +0700" stop="20260126182000 +0700" channel="COSMOTE Sport 5 HD">
     <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
@@ -354,6 +350,14 @@
     <title>Highlights: 2025 Extreme H</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260127180000 +0700" stop="20260127185500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC 2026</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260127185500 +0700" stop="20260127200000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC 2026</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260126170000 +0700" stop="20260126193000 +0700" channel="COSMOTE Sport 6 HD">
     <title>2025 Premier Padel World Cup Pairs</title>
     <desc>Live: Tidak</desc>
@@ -432,6 +436,10 @@
 </programme>
 <programme start="20260127173000 +0700" stop="20260127182000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Sports Classics: 2025 Outdoor Specials</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260127182000 +0700" stop="20260127200000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Handball: ThSV Eisenach - SC Magdeburg</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260126170000 +0700" stop="20260126190000 +0700" channel="COSMOTE Sport 7 HD">

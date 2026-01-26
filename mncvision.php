@@ -7387,10 +7387,7 @@
 <programme start="20260126160000 +0000" stop="20260126163000 +0000" channel="Outdoor channel HD.mncvision">
     <title>Facing Forces Of Nature, Ep 3</title>
 </programme>
-<programme start="20260125170000 +0000" stop="20260125173000 +0000" channel="RCTI.mncvision">
-    <title>iNews Sport</title>
-</programme>
-<programme start="20260125173000 +0000" stop="20260125190000 +0000" channel="RCTI.mncvision">
+<programme start="20260125170000 +0000" stop="20260125190000 +0000" channel="RCTI.mncvision">
     <title>AFC Asian Qualifiers Road To 26</title>
 </programme>
 <programme start="20260125190000 +0000" stop="20260125230000 +0000" channel="RCTI.mncvision">
@@ -7403,7 +7400,7 @@
     <title>Upin Ipin</title>
 </programme>
 <programme start="20260126010000 +0000" stop="20260126023000 +0000" channel="RCTI.mncvision">
-    <title>Dahsyat</title>
+    <title>Dahsyat (L)</title>
 </programme>
 <programme start="20260126023000 +0000" stop="20260126033000 +0000" channel="RCTI.mncvision">
     <title>Investigasi Selebriti</title>
