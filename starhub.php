@@ -2038,17 +2038,14 @@
     <programme start="20260125230000 +0000" stop="20260126000000 +0000" channel="CNN HD.starhub">
         <title>CNN Newsroom Sunday</title>
     </programme>
-    <programme start="20260126000000 +0000" stop="20260126010000 +0000" channel="CNN HD.starhub">
-        <title>EBOF: Weekend</title>
+    <programme start="20260126000000 +0000" stop="20260126030000 +0000" channel="CNN HD.starhub">
+        <title>CNN Newsroom Sunday</title>
     </programme>
-    <programme start="20260126010000 +0000" stop="20260126020000 +0000" channel="CNN HD.starhub">
-        <title>State of the Union with Jake Tapper and Dana Bash</title>
-    </programme>
-    <programme start="20260126020000 +0000" stop="20260126040000 +0000" channel="CNN HD.starhub">
-        <title>Fareed Zakaria GPS</title>
+    <programme start="20260126030000 +0000" stop="20260126040000 +0000" channel="CNN HD.starhub">
+        <title>CNN Newsroom Live</title>
     </programme>
     <programme start="20260126040000 +0000" stop="20260126050000 +0000" channel="CNN HD.starhub">
-        <title>Sports Safety and Performance</title>
+        <title>CNN Newsroom Live</title>
     </programme>
     <programme start="20260126050000 +0000" stop="20260126060000 +0000" channel="CNN HD.starhub">
         <title>CNN Newsroom (CNNI) (60m)</title>
@@ -2063,7 +2060,7 @@
         <title>CNN Newsroom (CNNI) (45m)</title>
     </programme>
     <programme start="20260126090000 +0000" stop="20260126100000 +0000" channel="CNN HD.starhub">
-        <title>The Amanpour Hour</title>
+        <title>Episode 267</title>
     </programme>
     <programme start="20260126100000 +0000" stop="20260126110000 +0000" channel="CNN HD.starhub">
         <title>Early Start with Rahel Solomon</title>
@@ -4700,7 +4697,7 @@
         <title>Star Singer Season 10</title>
     </programme>
     <programme start="20260126093000 +0000" stop="20260126120000 +0000" channel="Asianet.starhub">
-        <title>Alone</title>
+        <title>Keerthichakra</title>
     </programme>
     <programme start="20260126120000 +0000" stop="20260126123000 +0000" channel="Asianet.starhub">
         <title>Chirikkum Thalika II</title>
@@ -6451,8 +6448,11 @@
     <programme start="20260126104500 +0000" stop="20260126110000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Show 142</title>
     </programme>
-    <programme start="20260126110000 +0000" stop="20260126160000 +0000" channel="Hub Sports 1  HD.starhub">
+    <programme start="20260126110000 +0000" stop="20260126153000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>DAIHATSU Indonesia Masters (S500) Finals</title>
+    </programme>
+    <programme start="20260126153000 +0000" stop="20260126160000 +0000" channel="Hub Sports 1  HD.starhub">
+        <title>Episode 2</title>
     </programme>
     <programme start="20260125140600 +0000" stop="20260125163700 +0000" channel="SONY MAX.starhub">
         <title>Aankh Micholi</title>
