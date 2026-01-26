@@ -1,7 +1,3 @@
-<programme start="20260127023000 +0700" stop="20260127031500 +0700" channel="COSMOTE Sport 1 HD">
-    <title>UEL &amp; UECL Magazine 2025-26 E10</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260127031500 +0700" stop="20260127051500 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: FC Porto - Gil Vicente (L)</title>
     <desc>Live: Ya</desc>
@@ -120,6 +116,10 @@
 </programme>
 <programme start="20260128023000 +0700" stop="20260128043000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Juventus Football Club - SSC Napoli</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260128043000 +0700" stop="20260128064000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Olympiacos - Volos</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260127030000 +0700" stop="20260127050000 +0700" channel="COSMOTE Sport 3 HD">
@@ -246,12 +246,8 @@
     <title>Pick n&#039; Roll (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260127020000 +0700" stop="20260127030500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260127030500 +0700" stop="20260127035000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC 2025</title>
+<programme start="20260128042500 +0700" stop="20260128065500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Cleveland Cavaliers - Orlando Magic</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260127035000 +0700" stop="20260127045000 +0700" channel="COSMOTE Sport 5 HD">
@@ -354,10 +350,6 @@
     <title>Basketball: Karditsa - Tofas</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260127030000 +0700" stop="20260127040000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>ATP 2025 - Review</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260127040000 +0700" stop="20260127064000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Fight Sports: Oktagon 2026</title>
     <desc>Live: Tidak</desc>
@@ -430,6 +422,10 @@
     <title>2025 Premier Padel World Cup Pairs</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260128045500 +0700" stop="20260128072500 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Volleyball: Olympiacos - Allianz Powervolley Milano</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260127030000 +0700" stop="20260127050000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
@@ -484,10 +480,6 @@
 </programme>
 <programme start="20260128023000 +0700" stop="20260128050000 +0700" channel="COSMOTE Sport 7 HD">
     <title>Volleyball: Cucine Lube Civitanova - Leuven (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20260127020000 +0700" stop="20260127040000 +0700" channel="COSMOTE Sport 8 HD">
-    <title>Basketball: Armani Milano - Varese (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20260127040000 +0700" stop="20260127043000 +0700" channel="COSMOTE Sport 8 HD">

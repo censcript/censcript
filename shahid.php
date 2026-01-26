@@ -1960,9 +1960,6 @@
     <programme start="20260127000000 +0000" stop="20260128235959 +0000" channel="946940.shahid">
         <title>TV guide is not available</title>
     </programme>
-    <programme start="20260127000000 +0000" stop="20260128235959 +0000" channel="49923088717401.shahid">
-        <title>TV guide is not available</title>
-    </programme>
     <programme start="20260127000000 +0000" stop="20260127000729 +0000" channel="49923086870104.shahid">
         <title>Sikkat Safar Season 3 Episode 5</title>
     </programme>
@@ -2362,6 +2359,9 @@
     <programme start="20260128235628 +0000" stop="20260128235959 +0000" channel="49923086870104.shahid">
         <title>Sikkat Safar Season 1 Episode 3</title>
     </programme>
+    <programme start="20260127000000 +0000" stop="20260128235959 +0000" channel="49923088717401.shahid">
+        <title>TV guide is not available</title>
+    </programme>
     <programme start="20260127000000 +0000" stop="20260128235959 +0000" channel="49922763510387.shahid">
         <title>TV guide is not available</title>
     </programme>
@@ -2596,12 +2596,6 @@
     <programme start="20260128232401 +0000" stop="20260128235959 +0000" channel="992538.shahid">
         <title>Al Le&#039;ba: Al Le’b Maa Al Kobar Season 3 Episode 9</title>
     </programme>
-    <programme start="20260127000000 +0000" stop="20260128235959 +0000" channel="946942.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260127000000 +0000" stop="20260128235959 +0000" channel="388567.shahid">
-        <title>TV guide is not available</title>
-    </programme>
     <programme start="20260127000000 +0000" stop="20260127003440 +0000" channel="969745.shahid">
         <title>Mamnou&#039; Al Tajawwol Season 1 Episode 27</title>
     </programme>
@@ -2660,6 +2654,12 @@
         <title>Mamnou&#039; Al Tajawwol Season 1 Episode 29</title>
     </programme>
     <programme start="20260127120000 +0000" stop="20260128235959 +0000" channel="969745.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260127000000 +0000" stop="20260128235959 +0000" channel="946942.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260127000000 +0000" stop="20260128235959 +0000" channel="388567.shahid">
         <title>TV guide is not available</title>
     </programme>
     <programme start="20260127000000 +0000" stop="20260128235959 +0000" channel="1007223.shahid">
@@ -6406,95 +6406,8 @@
     <programme start="20260129000000 +0000" stop="20260128235959 +0000" channel="387288.shahid">
         <title>Al Hadath News</title>
     </programme>
-    <programme start="20260127000000 +0000" stop="20260127000303 +0000" channel="989622.shahid">
-        <title>Short Wa Fanela Wa Cap</title>
-    </programme>
-    <programme start="20260127000303 +0000" stop="20260127004811 +0000" channel="989622.shahid">
-        <title>Anakeed Season 1 Episode 9</title>
-    </programme>
-    <programme start="20260127004811 +0000" stop="20260127024847 +0000" channel="989622.shahid">
-        <title>Amir El Behar</title>
-    </programme>
-    <programme start="20260127024847 +0000" stop="20260127044543 +0000" channel="989622.shahid">
-        <title>H Daboor</title>
-    </programme>
-    <programme start="20260127044543 +0000" stop="20260127064226 +0000" channel="989622.shahid">
-        <title>Short Wa Fanela Wa Cap</title>
-    </programme>
-    <programme start="20260127064226 +0000" stop="20260127072733 +0000" channel="989622.shahid">
-        <title>Anakeed Season 1 Episode 9</title>
-    </programme>
-    <programme start="20260127072733 +0000" stop="20260127092810 +0000" channel="989622.shahid">
-        <title>Amir El Behar</title>
-    </programme>
-    <programme start="20260127092810 +0000" stop="20260127112506 +0000" channel="989622.shahid">
-        <title>H Daboor</title>
-    </programme>
-    <programme start="20260127112506 +0000" stop="20260127122706 +0000" channel="989622.shahid">
-        <title>Anakeed Season 1 Episode 10</title>
-    </programme>
-    <programme start="20260127122706 +0000" stop="20260127141643 +0000" channel="989622.shahid">
-        <title>Shagee&#039; El Cima</title>
-    </programme>
-    <programme start="20260127141643 +0000" stop="20260127164029 +0000" channel="989622.shahid">
-        <title>Baheb El Cima</title>
-    </programme>
-    <programme start="20260127164029 +0000" stop="20260127182516 +0000" channel="989622.shahid">
-        <title>Alashan Rabbena Yehebbak</title>
-    </programme>
-    <programme start="20260127182516 +0000" stop="20260127192716 +0000" channel="989622.shahid">
-        <title>Anakeed Season 1 Episode 10</title>
-    </programme>
-    <programme start="20260127192716 +0000" stop="20260127211653 +0000" channel="989622.shahid">
-        <title>Shagee&#039; El Cima</title>
-    </programme>
-    <programme start="20260127211653 +0000" stop="20260127234039 +0000" channel="989622.shahid">
-        <title>Baheb El Cima</title>
-    </programme>
-    <programme start="20260127234039 +0000" stop="20260128012525 +0000" channel="989622.shahid">
-        <title>Alashan Rabbena Yehebbak</title>
-    </programme>
-    <programme start="20260128012525 +0000" stop="20260128022725 +0000" channel="989622.shahid">
-        <title>Anakeed Season 1 Episode 10</title>
-    </programme>
-    <programme start="20260128022725 +0000" stop="20260128041702 +0000" channel="989622.shahid">
-        <title>Shagee&#039; El Cima</title>
-    </programme>
-    <programme start="20260128041702 +0000" stop="20260128064048 +0000" channel="989622.shahid">
-        <title>Baheb El Cima</title>
-    </programme>
-    <programme start="20260128064048 +0000" stop="20260128082535 +0000" channel="989622.shahid">
-        <title>Alashan Rabbena Yehebbak</title>
-    </programme>
-    <programme start="20260128082535 +0000" stop="20260128092735 +0000" channel="989622.shahid">
-        <title>Anakeed Season 1 Episode 10</title>
-    </programme>
-    <programme start="20260128092735 +0000" stop="20260128111712 +0000" channel="989622.shahid">
-        <title>Shagee&#039; El Cima</title>
-    </programme>
-    <programme start="20260128111712 +0000" stop="20260128121127 +0000" channel="989622.shahid">
-        <title>Anakeed Season 1 Episode 14</title>
-    </programme>
-    <programme start="20260128121127 +0000" stop="20260128140414 +0000" channel="989622.shahid">
-        <title>Ma&#039;lesh Ehna Bnetbahdel</title>
-    </programme>
-    <programme start="20260128140414 +0000" stop="20260128160404 +0000" channel="989622.shahid">
-        <title>Helm Aziz</title>
-    </programme>
-    <programme start="20260128160404 +0000" stop="20260128180100 +0000" channel="989622.shahid">
-        <title>H Daboor</title>
-    </programme>
-    <programme start="20260128180100 +0000" stop="20260128185515 +0000" channel="989622.shahid">
-        <title>Anakeed Season 1 Episode 14</title>
-    </programme>
-    <programme start="20260128185515 +0000" stop="20260128204803 +0000" channel="989622.shahid">
-        <title>Ma&#039;lesh Ehna Bnetbahdel</title>
-    </programme>
-    <programme start="20260128204803 +0000" stop="20260128224752 +0000" channel="989622.shahid">
-        <title>Helm Aziz</title>
-    </programme>
-    <programme start="20260128224752 +0000" stop="20260128235959 +0000" channel="989622.shahid">
-        <title>H Daboor</title>
+    <programme start="20260127000000 +0000" stop="20260128235959 +0000" channel="986014.shahid">
+        <title>TV guide is not available</title>
     </programme>
     <programme start="20260127000000 +0000" stop="20260127001207 +0000" channel="1005232.shahid">
         <title>Selfie Season 1 Episode 4</title>
@@ -6712,8 +6625,95 @@
     <programme start="20260128231937 +0000" stop="20260128235959 +0000" channel="1005232.shahid">
         <title>Selfie Season 2 Episode 5</title>
     </programme>
-    <programme start="20260127000000 +0000" stop="20260128235959 +0000" channel="986014.shahid">
-        <title>TV guide is not available</title>
+    <programme start="20260127000000 +0000" stop="20260127000303 +0000" channel="989622.shahid">
+        <title>Short Wa Fanela Wa Cap</title>
+    </programme>
+    <programme start="20260127000303 +0000" stop="20260127004811 +0000" channel="989622.shahid">
+        <title>Anakeed Season 1 Episode 9</title>
+    </programme>
+    <programme start="20260127004811 +0000" stop="20260127024847 +0000" channel="989622.shahid">
+        <title>Amir El Behar</title>
+    </programme>
+    <programme start="20260127024847 +0000" stop="20260127044543 +0000" channel="989622.shahid">
+        <title>H Daboor</title>
+    </programme>
+    <programme start="20260127044543 +0000" stop="20260127064226 +0000" channel="989622.shahid">
+        <title>Short Wa Fanela Wa Cap</title>
+    </programme>
+    <programme start="20260127064226 +0000" stop="20260127072733 +0000" channel="989622.shahid">
+        <title>Anakeed Season 1 Episode 9</title>
+    </programme>
+    <programme start="20260127072733 +0000" stop="20260127092810 +0000" channel="989622.shahid">
+        <title>Amir El Behar</title>
+    </programme>
+    <programme start="20260127092810 +0000" stop="20260127112506 +0000" channel="989622.shahid">
+        <title>H Daboor</title>
+    </programme>
+    <programme start="20260127112506 +0000" stop="20260127122706 +0000" channel="989622.shahid">
+        <title>Anakeed Season 1 Episode 10</title>
+    </programme>
+    <programme start="20260127122706 +0000" stop="20260127141643 +0000" channel="989622.shahid">
+        <title>Shagee&#039; El Cima</title>
+    </programme>
+    <programme start="20260127141643 +0000" stop="20260127164029 +0000" channel="989622.shahid">
+        <title>Baheb El Cima</title>
+    </programme>
+    <programme start="20260127164029 +0000" stop="20260127182516 +0000" channel="989622.shahid">
+        <title>Alashan Rabbena Yehebbak</title>
+    </programme>
+    <programme start="20260127182516 +0000" stop="20260127192716 +0000" channel="989622.shahid">
+        <title>Anakeed Season 1 Episode 10</title>
+    </programme>
+    <programme start="20260127192716 +0000" stop="20260127211653 +0000" channel="989622.shahid">
+        <title>Shagee&#039; El Cima</title>
+    </programme>
+    <programme start="20260127211653 +0000" stop="20260127234039 +0000" channel="989622.shahid">
+        <title>Baheb El Cima</title>
+    </programme>
+    <programme start="20260127234039 +0000" stop="20260128012525 +0000" channel="989622.shahid">
+        <title>Alashan Rabbena Yehebbak</title>
+    </programme>
+    <programme start="20260128012525 +0000" stop="20260128022725 +0000" channel="989622.shahid">
+        <title>Anakeed Season 1 Episode 10</title>
+    </programme>
+    <programme start="20260128022725 +0000" stop="20260128041702 +0000" channel="989622.shahid">
+        <title>Shagee&#039; El Cima</title>
+    </programme>
+    <programme start="20260128041702 +0000" stop="20260128064048 +0000" channel="989622.shahid">
+        <title>Baheb El Cima</title>
+    </programme>
+    <programme start="20260128064048 +0000" stop="20260128082535 +0000" channel="989622.shahid">
+        <title>Alashan Rabbena Yehebbak</title>
+    </programme>
+    <programme start="20260128082535 +0000" stop="20260128092735 +0000" channel="989622.shahid">
+        <title>Anakeed Season 1 Episode 10</title>
+    </programme>
+    <programme start="20260128092735 +0000" stop="20260128111712 +0000" channel="989622.shahid">
+        <title>Shagee&#039; El Cima</title>
+    </programme>
+    <programme start="20260128111712 +0000" stop="20260128121127 +0000" channel="989622.shahid">
+        <title>Anakeed Season 1 Episode 14</title>
+    </programme>
+    <programme start="20260128121127 +0000" stop="20260128140414 +0000" channel="989622.shahid">
+        <title>Ma&#039;lesh Ehna Bnetbahdel</title>
+    </programme>
+    <programme start="20260128140414 +0000" stop="20260128160404 +0000" channel="989622.shahid">
+        <title>Helm Aziz</title>
+    </programme>
+    <programme start="20260128160404 +0000" stop="20260128180100 +0000" channel="989622.shahid">
+        <title>H Daboor</title>
+    </programme>
+    <programme start="20260128180100 +0000" stop="20260128185515 +0000" channel="989622.shahid">
+        <title>Anakeed Season 1 Episode 14</title>
+    </programme>
+    <programme start="20260128185515 +0000" stop="20260128204803 +0000" channel="989622.shahid">
+        <title>Ma&#039;lesh Ehna Bnetbahdel</title>
+    </programme>
+    <programme start="20260128204803 +0000" stop="20260128224752 +0000" channel="989622.shahid">
+        <title>Helm Aziz</title>
+    </programme>
+    <programme start="20260128224752 +0000" stop="20260128235959 +0000" channel="989622.shahid">
+        <title>H Daboor</title>
     </programme>
     <programme start="20260127000000 +0000" stop="20260127001500 +0000" channel="387294.shahid">
         <title>Al Marsa Season 1 Episode 74</title>
