@@ -110,6 +110,10 @@
     <title>Football: ACF Fiorentina - Cagliari</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260128220500 +0700" stop="20260129000500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Juventus Football Club - SSC Napoli</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260127210000 +0700" stop="20260127230000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: APOEL - Omonia Aradippou</title>
     <desc>Live: Tidak</desc>
@@ -162,8 +166,8 @@
     <title>Football: Pafos FC - AEK Larnaca</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260127200000 +0700" stop="20260127215500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Barcelona - Tenerife</title>
+<programme start="20260128224500 +0700" stop="20260129004500 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Millwall - Charlton Athletic </title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260127215500 +0700" stop="20260127235000 +0700" channel="COSMOTE Sport 4 HD">
@@ -314,8 +318,8 @@
     <title>MotoGP Classics</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260127210000 +0700" stop="20260127213000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Sports Classics: The Outdoor Sports Show 2026 E1</title>
+<programme start="20260128220000 +0700" stop="20260128230000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>MotoGP Classics</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260127213000 +0700" stop="20260127230000 +0700" channel="COSMOTE Sport 6 HD">
