@@ -3806,7 +3806,7 @@
         <title>Information on Overseas Voting</title>
     </programme>
     <programme start="20260126191500 +0000" stop="20260126200000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Tsurube&#039;s Salute to Families &quot;Itagaki Rihito in Yawatahama City, Ehime Prefectur</title>
+        <title>Tsurube&#039;s Salute to Families &quot;Itagaki Rihito in Yawatahama City, Ehime Prefecture&quot; Part 2 (R)</title>
     </programme>
     <programme start="20260126200000 +0000" stop="20260126201000 +0000" channel="NHK World Premium HD.starhub">
         <title>TV Exercise</title>

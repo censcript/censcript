@@ -596,10 +596,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260127070500 +0000" stop="20260127072000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20260127072000 +0000" stop="20260127072500 +0000" channel="Cartoonito.skyde">
+<programme start="20260127072000 +0000" stop="20260127073000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20260127072500 +0000" stop="20260127073500 +0000" channel="Cartoonito.skyde">
+<programme start="20260127073000 +0000" stop="20260127073500 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
 <programme start="20260127073500 +0000" stop="20260127075000 +0000" channel="Cartoonito.skyde">
@@ -611,10 +611,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260127081500 +0000" stop="20260127084500 +0000" channel="Cartoonito.skyde">
     <title>Bleib cool, Scooby-Doo!</title>
 </programme>
-<programme start="20260127084500 +0000" stop="20260127085000 +0000" channel="Cartoonito.skyde">
+<programme start="20260127084500 +0000" stop="20260127085500 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
-<programme start="20260127085000 +0000" stop="20260127090000 +0000" channel="Cartoonito.skyde">
+<programme start="20260127085500 +0000" stop="20260127090000 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
 <programme start="20260127090000 +0000" stop="20260127090500 +0000" channel="Cartoonito.skyde">
@@ -626,10 +626,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260127092500 +0000" stop="20260127093000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20260127093000 +0000" stop="20260127093500 +0000" channel="Cartoonito.skyde">
+<programme start="20260127093000 +0000" stop="20260127094000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20260127093500 +0000" stop="20260127095000 +0000" channel="Cartoonito.skyde">
+<programme start="20260127094000 +0000" stop="20260127095000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
 <programme start="20260127095000 +0000" stop="20260127100000 +0000" channel="Cartoonito.skyde">
@@ -644,10 +644,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260127102000 +0000" stop="20260127102500 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
-<programme start="20260127102500 +0000" stop="20260127103000 +0000" channel="Cartoonito.skyde">
+<programme start="20260127102500 +0000" stop="20260127103500 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
-<programme start="20260127103000 +0000" stop="20260127104500 +0000" channel="Cartoonito.skyde">
+<programme start="20260127103500 +0000" stop="20260127104500 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
 <programme start="20260127104500 +0000" stop="20260127105500 +0000" channel="Cartoonito.skyde">
@@ -668,10 +668,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260127114500 +0000" stop="20260127115500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20260127115500 +0000" stop="20260127121000 +0000" channel="Cartoonito.skyde">
+<programme start="20260127115500 +0000" stop="20260127121500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20260127121000 +0000" stop="20260127122500 +0000" channel="Cartoonito.skyde">
+<programme start="20260127121500 +0000" stop="20260127122500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
 <programme start="20260127122500 +0000" stop="20260127123500 +0000" channel="Cartoonito.skyde">
@@ -689,13 +689,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260127131000 +0000" stop="20260127133000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20260127133000 +0000" stop="20260127133500 +0000" channel="Cartoonito.skyde">
+<programme start="20260127133000 +0000" stop="20260127133600 +0000" channel="Cartoonito.skyde">
     <title>Lamput</title>
 </programme>
-<programme start="20260127133500 +0000" stop="20260127133700 +0000" channel="Cartoonito.skyde">
+<programme start="20260127133600 +0000" stop="20260127133800 +0000" channel="Cartoonito.skyde">
     <title>Lamput</title>
 </programme>
-<programme start="20260127133700 +0000" stop="20260127134500 +0000" channel="Cartoonito.skyde">
+<programme start="20260127133800 +0000" stop="20260127134500 +0000" channel="Cartoonito.skyde">
     <title>Lamput</title>
 </programme>
 <programme start="20260127134500 +0000" stop="20260127140000 +0000" channel="Cartoonito.skyde">
@@ -815,10 +815,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260127212500 +0000" stop="20260127213500 +0000" channel="Cartoonito.skyde">
     <title>Batwheels</title>
 </programme>
-<programme start="20260127213500 +0000" stop="20260127215000 +0000" channel="Cartoonito.skyde">
+<programme start="20260127213500 +0000" stop="20260127215500 +0000" channel="Cartoonito.skyde">
     <title>Batwheels</title>
 </programme>
-<programme start="20260127215000 +0000" stop="20260127220500 +0000" channel="Cartoonito.skyde">
+<programme start="20260127215500 +0000" stop="20260127220500 +0000" channel="Cartoonito.skyde">
     <title>Bugs Bunnys Baumeister</title>
 </programme>
 <programme start="20260127220500 +0000" stop="20260127222000 +0000" channel="Cartoonito.skyde">
@@ -1397,64 +1397,64 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260127044000 +0000" stop="20260127050000 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
-<programme start="20260127050000 +0000" stop="20260127052000 +0000" channel="Nick Jr..skyde">
+<programme start="20260127050000 +0000" stop="20260127052500 +0000" channel="Nick Jr..skyde">
     <title>Blaze und die Monster-Maschinen</title>
 </programme>
-<programme start="20260127052000 +0000" stop="20260127054500 +0000" channel="Nick Jr..skyde">
+<programme start="20260127052500 +0000" stop="20260127054500 +0000" channel="Nick Jr..skyde">
     <title>Blaze und die Monster-Maschinen</title>
 </programme>
-<programme start="20260127054500 +0000" stop="20260127060500 +0000" channel="Nick Jr..skyde">
+<programme start="20260127054500 +0000" stop="20260127061000 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20260127060500 +0000" stop="20260127063000 +0000" channel="Nick Jr..skyde">
+<programme start="20260127061000 +0000" stop="20260127063000 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20260127063000 +0000" stop="20260127065000 +0000" channel="Nick Jr..skyde">
+<programme start="20260127063000 +0000" stop="20260127065500 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20260127065000 +0000" stop="20260127071500 +0000" channel="Nick Jr..skyde">
+<programme start="20260127065500 +0000" stop="20260127072000 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20260127071500 +0000" stop="20260127073500 +0000" channel="Nick Jr..skyde">
+<programme start="20260127072000 +0000" stop="20260127074000 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
 </programme>
-<programme start="20260127073500 +0000" stop="20260127075000 +0000" channel="Nick Jr..skyde">
+<programme start="20260127074000 +0000" stop="20260127075000 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
 </programme>
-<programme start="20260127075000 +0000" stop="20260127075500 +0000" channel="Nick Jr..skyde">
+<programme start="20260127075000 +0000" stop="20260127080000 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
-<programme start="20260127075500 +0000" stop="20260127080500 +0000" channel="Nick Jr..skyde">
+<programme start="20260127080000 +0000" stop="20260127080500 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
-<programme start="20260127080500 +0000" stop="20260127081400 +0000" channel="Nick Jr..skyde">
+<programme start="20260127080500 +0000" stop="20260127081500 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
-<programme start="20260127081400 +0000" stop="20260127081900 +0000" channel="Nick Jr..skyde">
+<programme start="20260127081500 +0000" stop="20260127082000 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260127081900 +0000" stop="20260127082300 +0000" channel="Nick Jr..skyde">
+<programme start="20260127082000 +0000" stop="20260127082500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260127082300 +0000" stop="20260127082500 +0000" channel="Nick Jr..skyde">
+<programme start="20260127082500 +0000" stop="20260127083000 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260127082500 +0000" stop="20260127083400 +0000" channel="Nick Jr..skyde">
+<programme start="20260127083000 +0000" stop="20260127083500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260127083400 +0000" stop="20260127083900 +0000" channel="Nick Jr..skyde">
+<programme start="20260127083500 +0000" stop="20260127084000 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260127083900 +0000" stop="20260127084300 +0000" channel="Nick Jr..skyde">
-    <title>Peppa Wutz</title>
-</programme>
-<programme start="20260127084300 +0000" stop="20260127084500 +0000" channel="Nick Jr..skyde">
+<programme start="20260127084000 +0000" stop="20260127084500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
 <programme start="20260127084500 +0000" stop="20260127085000 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260127085000 +0000" stop="20260127091500 +0000" channel="Nick Jr..skyde">
+<programme start="20260127085000 +0000" stop="20260127085500 +0000" channel="Nick Jr..skyde">
+    <title>Peppa Wutz</title>
+</programme>
+<programme start="20260127085500 +0000" stop="20260127091500 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
 <programme start="20260127091500 +0000" stop="20260127094000 +0000" channel="Nick Jr..skyde">
@@ -1469,64 +1469,64 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260127095500 +0000" stop="20260127100000 +0000" channel="Nick Jr..skyde">
     <title>Sharkdog</title>
 </programme>
-<programme start="20260127100000 +0000" stop="20260127102000 +0000" channel="Nick Jr..skyde">
+<programme start="20260127100000 +0000" stop="20260127102500 +0000" channel="Nick Jr..skyde">
     <title>Blaze und die Monster-Maschinen</title>
 </programme>
-<programme start="20260127102000 +0000" stop="20260127104500 +0000" channel="Nick Jr..skyde">
+<programme start="20260127102500 +0000" stop="20260127104500 +0000" channel="Nick Jr..skyde">
     <title>Blaze und die Monster-Maschinen</title>
 </programme>
-<programme start="20260127104500 +0000" stop="20260127110500 +0000" channel="Nick Jr..skyde">
+<programme start="20260127104500 +0000" stop="20260127111000 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20260127110500 +0000" stop="20260127113000 +0000" channel="Nick Jr..skyde">
+<programme start="20260127111000 +0000" stop="20260127113000 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
 <programme start="20260127113000 +0000" stop="20260127115500 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20260127115500 +0000" stop="20260127121500 +0000" channel="Nick Jr..skyde">
+<programme start="20260127115500 +0000" stop="20260127122000 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20260127121500 +0000" stop="20260127124000 +0000" channel="Nick Jr..skyde">
+<programme start="20260127122000 +0000" stop="20260127124000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
 <programme start="20260127124000 +0000" stop="20260127130500 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260127130500 +0000" stop="20260127131000 +0000" channel="Nick Jr..skyde">
+<programme start="20260127130500 +0000" stop="20260127131500 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
-<programme start="20260127131000 +0000" stop="20260127132000 +0000" channel="Nick Jr..skyde">
+<programme start="20260127131500 +0000" stop="20260127132000 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
-<programme start="20260127132000 +0000" stop="20260127132500 +0000" channel="Nick Jr..skyde">
+<programme start="20260127132000 +0000" stop="20260127133000 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
-<programme start="20260127132500 +0000" stop="20260127135000 +0000" channel="Nick Jr..skyde">
+<programme start="20260127133000 +0000" stop="20260127135500 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
-<programme start="20260127135000 +0000" stop="20260127141500 +0000" channel="Nick Jr..skyde">
+<programme start="20260127135500 +0000" stop="20260127141500 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
 </programme>
-<programme start="20260127141500 +0000" stop="20260127143700 +0000" channel="Nick Jr..skyde">
+<programme start="20260127141500 +0000" stop="20260127144000 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
 </programme>
-<programme start="20260127143700 +0000" stop="20260127144200 +0000" channel="Nick Jr..skyde">
+<programme start="20260127144000 +0000" stop="20260127144500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260127144200 +0000" stop="20260127144600 +0000" channel="Nick Jr..skyde">
+<programme start="20260127144500 +0000" stop="20260127145000 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260127144600 +0000" stop="20260127145100 +0000" channel="Nick Jr..skyde">
+<programme start="20260127145000 +0000" stop="20260127145100 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
 <programme start="20260127145100 +0000" stop="20260127145500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260127145500 +0000" stop="20260127150000 +0000" channel="Nick Jr..skyde">
+<programme start="20260127145500 +0000" stop="20260127150500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260127150000 +0000" stop="20260127151000 +0000" channel="Nick Jr..skyde">
+<programme start="20260127150500 +0000" stop="20260127151000 +0000" channel="Nick Jr..skyde">
     <title>Sharkdog</title>
 </programme>
 <programme start="20260127151000 +0000" stop="20260127151500 +0000" channel="Nick Jr..skyde">
@@ -1544,28 +1544,28 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260127160000 +0000" stop="20260127162000 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20260127162000 +0000" stop="20260127163000 +0000" channel="Nick Jr..skyde">
+<programme start="20260127162000 +0000" stop="20260127163500 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20260127163000 +0000" stop="20260127165500 +0000" channel="Nick Jr..skyde">
+<programme start="20260127163500 +0000" stop="20260127165500 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
 </programme>
-<programme start="20260127165500 +0000" stop="20260127171500 +0000" channel="Nick Jr..skyde">
+<programme start="20260127165500 +0000" stop="20260127172000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260127171500 +0000" stop="20260127173000 +0000" channel="Nick Jr..skyde">
+<programme start="20260127172000 +0000" stop="20260127173000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260127173000 +0000" stop="20260127173500 +0000" channel="Nick Jr..skyde">
+<programme start="20260127173000 +0000" stop="20260127174000 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
-<programme start="20260127173500 +0000" stop="20260127174500 +0000" channel="Nick Jr..skyde">
+<programme start="20260127174000 +0000" stop="20260127174500 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
-<programme start="20260127174500 +0000" stop="20260127175000 +0000" channel="Nick Jr..skyde">
+<programme start="20260127174500 +0000" stop="20260127175500 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
-<programme start="20260127175000 +0000" stop="20260127180000 +0000" channel="Nick Jr..skyde">
+<programme start="20260127175500 +0000" stop="20260127180000 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
 <programme start="20260127180000 +0000" stop="20260127180500 +0000" channel="Nick Jr..skyde">
@@ -1589,22 +1589,22 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260127183000 +0000" stop="20260127185000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260127185000 +0000" stop="20260127190000 +0000" channel="Nick Jr..skyde">
+<programme start="20260127185000 +0000" stop="20260127190500 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260127190000 +0000" stop="20260127192500 +0000" channel="Nick Jr..skyde">
+<programme start="20260127190500 +0000" stop="20260127193000 +0000" channel="Nick Jr..skyde">
     <title>Blaze und die Monster-Maschinen</title>
 </programme>
-<programme start="20260127192500 +0000" stop="20260127194500 +0000" channel="Nick Jr..skyde">
+<programme start="20260127193000 +0000" stop="20260127195000 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20260127194500 +0000" stop="20260127200000 +0000" channel="Nick Jr..skyde">
+<programme start="20260127195000 +0000" stop="20260127200000 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20260127200000 +0000" stop="20260127202000 +0000" channel="Nick Jr..skyde">
+<programme start="20260127200000 +0000" stop="20260127202500 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20260127202000 +0000" stop="20260127203500 +0000" channel="Nick Jr..skyde">
+<programme start="20260127202500 +0000" stop="20260127203500 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
 <programme start="20260127203500 +0000" stop="20260127205500 +0000" channel="Nick Jr..skyde">
@@ -1613,16 +1613,16 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260127205500 +0000" stop="20260127212000 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
 </programme>
-<programme start="20260127212000 +0000" stop="20260127214000 +0000" channel="Nick Jr..skyde">
+<programme start="20260127212000 +0000" stop="20260127214500 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260127214000 +0000" stop="20260127220500 +0000" channel="Nick Jr..skyde">
+<programme start="20260127214500 +0000" stop="20260127220500 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260127220500 +0000" stop="20260127222500 +0000" channel="Nick Jr..skyde">
+<programme start="20260127220500 +0000" stop="20260127223000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260127222500 +0000" stop="20260127225000 +0000" channel="Nick Jr..skyde">
+<programme start="20260127223000 +0000" stop="20260127225000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
 <programme start="20260127225000 +0000" stop="20260127231500 +0000" channel="Nick Jr..skyde">
@@ -2723,80 +2723,83 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260127224500 +0000" stop="20260127233000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Fußball: Herzog gegen Herzig - Die Next Generation Show (USV Pressbaum)</title>
 </programme>
-<programme start="20260128230000 +0000" stop="20260128233000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>2. BL: Dein Zweitligatalk - HvK &amp; Tusche</title>
+<programme start="20260126233000 +0000" stop="20260127000000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>Frauen-BL: Alle Spiele, alle Tore, 15. Spieltag komplett</title>
 </programme>
-<programme start="20260128233000 +0000" stop="20260129013000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>2. BL: Samstags-Konferenz, 19. Spieltag</title>
+<programme start="20260127000000 +0000" stop="20260127020000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: Eintracht Frankfurt - TSG Hoffenheim, 19. Spieltag</title>
 </programme>
-<programme start="20260129013000 +0000" stop="20260129033000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>2. BL: Arminia Bielefeld - Holstein Kiel, 19. Spieltag</title>
-</programme>
-<programme start="20260129033000 +0000" stop="20260129043000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>2. BL Kompakt: 19. Spieltag</title>
-</programme>
-<programme start="20260129043000 +0000" stop="20260129053000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+<programme start="20260127020000 +0000" stop="20260127030000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL Kompakt: 19. Spieltag</title>
 </programme>
-<programme start="20260129053000 +0000" stop="20260129060000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>2. BL: 90in30: FCM - SGD, 19. Spieltag</title>
+<programme start="20260127030000 +0000" stop="20260127040000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>2. BL Kompakt: 19. Spieltag</title>
 </programme>
-<programme start="20260129060000 +0000" stop="20260129080000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>2. BL: Karlsruher SC - Hertha BSC, 19. Spieltag</title>
-</programme>
-<programme start="20260129080000 +0000" stop="20260129100000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: 1. FSV Mainz 05 - VfL Wolfsburg, 19. Spieltag</title>
-</programme>
-<programme start="20260129100000 +0000" stop="20260129103000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>Meine Geschichte: Das Leben von Marco Richter</title>
-</programme>
-<programme start="20260129103000 +0000" stop="20260129110000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+<programme start="20260127040000 +0000" stop="20260127043000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: 90in30: FCU - BVB, 19. Spieltag</title>
 </programme>
-<programme start="20260129110000 +0000" stop="20260129130000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: 1. FC Heidenheim - RB Leipzig, 19. Spieltag</title>
-</programme>
-<programme start="20260129130000 +0000" stop="20260129133000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: Bundesliga Weekly</title>
-</programme>
-<programme start="20260129133000 +0000" stop="20260129153000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: Klassiker der Woche: HSV - FCB (2011/12)</title>
-</programme>
-<programme start="20260129153000 +0000" stop="20260129160000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>2. BL: Dein Zweitligatalk - HvK &amp; Tusche</title>
-</programme>
-<programme start="20260129160000 +0000" stop="20260129170000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>Live BL: Matchplan: HSV - FCB, 20. Spieltag</title>
-</programme>
-<programme start="20260129170000 +0000" stop="20260129173000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: Bundesliga Weekly</title>
-</programme>
-<programme start="20260129173000 +0000" stop="20260129180000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: 90in30: FCU - BVB, 19. Spieltag</title>
-</programme>
-<programme start="20260129180000 +0000" stop="20260129183000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>2. BL: Dein Zweitligatalk - HvK &amp; Tusche</title>
-</programme>
-<programme start="20260129183000 +0000" stop="20260129193000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: Matchplan: HSV - FCB, 20. Spieltag</title>
-</programme>
-<programme start="20260129193000 +0000" stop="20260129200000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: Bundesliga Weekly</title>
-</programme>
-<programme start="20260129200000 +0000" stop="20260129203000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+<programme start="20260127043000 +0000" stop="20260127050000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>2. BL: 90in30: FCM - SGD, 19. Spieltag</title>
 </programme>
-<programme start="20260129203000 +0000" stop="20260129210000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>2. BL: Dein Zweitligatalk - HvK &amp; Tusche</title>
+<programme start="20260127050000 +0000" stop="20260127051500 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: Torparade 19. Spieltag</title>
 </programme>
-<programme start="20260129210000 +0000" stop="20260129213000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>Fußball: Spielmacher Podcast von Sports 360 mit Sebastian Hellmann (Gast: Sabrina Wittmann)</title>
+<programme start="20260127051500 +0000" stop="20260127053000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>2. BL: Torparade 19. Spieltag</title>
 </programme>
-<programme start="20260129213000 +0000" stop="20260129220000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: Bundesliga Weekly</title>
+<programme start="20260127053000 +0000" stop="20260127060000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: 90in30: FCU - BVB, 19. Spieltag</title>
 </programme>
-<programme start="20260129220000 +0000" stop="20260129230000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: Matchplan: HSV - FCB, 20. Spieltag</title>
+<programme start="20260127060000 +0000" stop="20260127080000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>2. BL: SV Darmstadt 98 - 1. FC Nürnberg, 19. Spieltag</title>
+</programme>
+<programme start="20260127080000 +0000" stop="20260127090000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: Glanzparade - Die Show mit Buschmann, Fuss und Wagner</title>
+</programme>
+<programme start="20260127090000 +0000" stop="20260127100000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: Alle Spiele, alle Stimmen, 19. Spieltag</title>
+</programme>
+<programme start="20260127100000 +0000" stop="20260127110000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>2. BL: Alle Spiele, alle Stimmen, 19. Spieltag</title>
+</programme>
+<programme start="20260127110000 +0000" stop="20260127130000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: FC Bayern München - FC Augsburg, 19. Spieltag</title>
+</programme>
+<programme start="20260127130000 +0000" stop="20260127150000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>2. BL: 1. FC Magdeburg - Dynamo Dresden, tipico Topspiel der Woche, 19. Spieltag</title>
+</programme>
+<programme start="20260127150000 +0000" stop="20260127151500 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: Highlights XXL: BMG - VFB, 19. Spieltag</title>
+</programme>
+<programme start="20260127151500 +0000" stop="20260127153000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>2. BL: Der Dzeko-Deal: Superstar auf Schalke</title>
+</programme>
+<programme start="20260127153000 +0000" stop="20260127160000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>2. BL: 90in30: FCM - SGD, 19. Spieltag</title>
+</programme>
+<programme start="20260127160000 +0000" stop="20260127163000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: 90in30: FCU - BVB, 19. Spieltag</title>
+</programme>
+<programme start="20260127163000 +0000" stop="20260127173000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: Glanzparade - Die Show mit Buschmann, Fuss und Wagner</title>
+</programme>
+<programme start="20260127173000 +0000" stop="20260127174500 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: Dein Spieltags-Sprint (19)</title>
+</programme>
+<programme start="20260127174500 +0000" stop="20260127180000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>2. BL: Dein Spieltags-Sprint (19)</title>
+</programme>
+<programme start="20260127180000 +0000" stop="20260127190000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL Kompakt: 19. Spieltag</title>
+</programme>
+<programme start="20260127190000 +0000" stop="20260127220000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>Live BL: FC St. Pauli - RB Leipzig, Nachholspiel vom 16. Spieltag</title>
+</programme>
+<programme start="20260127220000 +0000" stop="20260127221500 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>2. BL: Der Dzeko-Deal: Superstar auf Schalke</title>
+</programme>
+<programme start="20260127221500 +0000" stop="20260128001500 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: Werder Bremen - TSG Hoffenheim, Nachholspiel vom 16. Spieltag</title>
 </programme>
 <programme start="20260127003000 +0000" stop="20260127004500 +0000" channel="Sky Sport Bundesliga UHD.skyde">
     <title>Info: UHD</title>
@@ -2855,13 +2858,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260127184000 +0000" stop="20260127190000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Es folgt: Live Bundesliga</title>
 </programme>
-<programme start="20260127190000 +0000" stop="20260127220000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+<programme start="20260127190000 +0000" stop="20260127223000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Live BL: Werder Bremen - TSG Hoffenheim, Nachholspiel vom 16. Spieltag</title>
 </programme>
 <programme start="20260127184000 +0000" stop="20260127190000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Es folgt: Live Bundesliga</title>
 </programme>
-<programme start="20260127190000 +0000" stop="20260127213000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
+<programme start="20260127190000 +0000" stop="20260127223000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live BL: Multiview, Nachholspiele 16. Spieltag</title>
 </programme>
 <programme start="20260126230000 +0000" stop="20260127000000 +0000" channel="Sky Sport F1 HD.skyde">
@@ -2996,14 +2999,14 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260127013000 +0000" stop="20260127043000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NHL: Anaheim Ducks @ Edmonton Oilers</title>
 </programme>
+<programme start="20260127043000 +0000" stop="20260127050000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>Frauen-BL: Alle Spiele, alle Tore, 15. Spieltag komplett</title>
+</programme>
 <programme start="20260127050000 +0000" stop="20260127060000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>3. Liga: Alle Spiele, alle Tore, 21. Spieltag komplett</title>
 </programme>
 <programme start="20260127060000 +0000" stop="20260127080000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Anaheim Ducks @ Edmonton Oilers</title>
-</programme>
-<programme start="20260127080000 +0000" stop="20260127083000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NBA: Showtime</title>
 </programme>
 <programme start="20260127083000 +0000" stop="20260127110000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NBA: Orlando Magic @ Cleveland Cavaliers</title>
@@ -3016,6 +3019,9 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 </programme>
 <programme start="20260127113000 +0000" stop="20260127123000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>3. Liga: Alle Spiele, alle Tore, 21. Spieltag komplett</title>
+</programme>
+<programme start="20260127123000 +0000" stop="20260127130000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>Frauen-BL: Alle Spiele, alle Tore, 15. Spieltag komplett</title>
 </programme>
 <programme start="20260127130000 +0000" stop="20260127133000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: On the Fly</title>
@@ -3034,6 +3040,9 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 </programme>
 <programme start="20260127193000 +0000" stop="20260127200000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Highlights Rolex Sydney Hobart Yacht Race</title>
+</programme>
+<programme start="20260127200000 +0000" stop="20260127203000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>Frauen-BL: Alle Spiele, alle Tore, 15. Spieltag komplett</title>
 </programme>
 <programme start="20260127203000 +0000" stop="20260127213000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>WRC: Highlights: Rally Monte-Carlo</title>
@@ -3281,6 +3290,9 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260127070000 +0000" stop="20260127073000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>EFL: Highlights, 28. Spieltag</title>
 </programme>
+<programme start="20260127073000 +0000" stop="20260127080000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Frauen-BL: Alle Spiele, alle Tore, 15. Spieltag komplett</title>
+</programme>
 <programme start="20260127080000 +0000" stop="20260127100000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>NHL: Anaheim Ducks @ Edmonton Oilers</title>
 </programme>
@@ -3332,7 +3344,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260127004000 +0000" stop="20260127010000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Es folgt: LIVE Basketball NBA</title>
 </programme>
-<programme start="20260127010000 +0000" stop="20260127090000 +0000" channel="Sky Sport 2 HD.skyde">
+<programme start="20260127010000 +0000" stop="20260127044500 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live NBA: Portland Trail Blazers @ Boston Celtics</title>
 </programme>
 <programme start="20260126230000 +0000" stop="20260126234500 +0000" channel="SYFY HD.skyde">
@@ -3523,183 +3535,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 </programme>
 <programme start="20260127221500 +0000" stop="20260127230000 +0000" channel="Universal TV HD.skyde">
     <title>Hawaii Five-0</title>
-</programme>
-<programme start="20260126230000 +0000" stop="20260126232500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Young Sheldon</title>
-</programme>
-<programme start="20260126232500 +0000" stop="20260126234000 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Young Sheldon</title>
-</programme>
-<programme start="20260126234000 +0000" stop="20260127000000 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Young Sheldon</title>
-</programme>
-<programme start="20260127000000 +0000" stop="20260127002500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Young Sheldon</title>
-</programme>
-<programme start="20260127002500 +0000" stop="20260127004500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>American Dad</title>
-</programme>
-<programme start="20260127004500 +0000" stop="20260127011000 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>American Dad</title>
-</programme>
-<programme start="20260127011000 +0000" stop="20260127013000 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Harley Quinn</title>
-</programme>
-<programme start="20260127013000 +0000" stop="20260127015500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Harley Quinn</title>
-</programme>
-<programme start="20260127015500 +0000" stop="20260127021500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Two and a Half Men</title>
-</programme>
-<programme start="20260127021500 +0000" stop="20260127023500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>The Big Bang Theory</title>
-</programme>
-<programme start="20260127023500 +0000" stop="20260127025500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>The Big Bang Theory</title>
-</programme>
-<programme start="20260127025500 +0000" stop="20260127031500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>The Big Bang Theory</title>
-</programme>
-<programme start="20260127031500 +0000" stop="20260127033500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>The Big Bang Theory</title>
-</programme>
-<programme start="20260127033500 +0000" stop="20260127040000 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Die Nanny</title>
-</programme>
-<programme start="20260127040000 +0000" stop="20260127042500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Die Nanny</title>
-</programme>
-<programme start="20260127042500 +0000" stop="20260127045000 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Die Nanny</title>
-</programme>
-<programme start="20260127045000 +0000" stop="20260127051000 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Friends</title>
-</programme>
-<programme start="20260127051000 +0000" stop="20260127054000 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Friends</title>
-</programme>
-<programme start="20260127054000 +0000" stop="20260127060500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Friends</title>
-</programme>
-<programme start="20260127060500 +0000" stop="20260127063000 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Friends</title>
-</programme>
-<programme start="20260127063000 +0000" stop="20260127065500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Friends</title>
-</programme>
-<programme start="20260127065500 +0000" stop="20260127072000 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Friends</title>
-</programme>
-<programme start="20260127072000 +0000" stop="20260127075000 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Die Nanny</title>
-</programme>
-<programme start="20260127075000 +0000" stop="20260127081500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Die Nanny</title>
-</programme>
-<programme start="20260127081500 +0000" stop="20260127084500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Die Nanny</title>
-</programme>
-<programme start="20260127084500 +0000" stop="20260127091000 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>The Middle</title>
-</programme>
-<programme start="20260127091000 +0000" stop="20260127093500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>The Middle</title>
-</programme>
-<programme start="20260127093500 +0000" stop="20260127100000 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>The Middle</title>
-</programme>
-<programme start="20260127100000 +0000" stop="20260127102500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>The Middle</title>
-</programme>
-<programme start="20260127102500 +0000" stop="20260127105000 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>The Middle</title>
-</programme>
-<programme start="20260127105000 +0000" stop="20260127111500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>The Middle</title>
-</programme>
-<programme start="20260127111500 +0000" stop="20260127114000 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>The Middle</title>
-</programme>
-<programme start="20260127114000 +0000" stop="20260127120500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>The Middle</title>
-</programme>
-<programme start="20260127120500 +0000" stop="20260127123500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>King of Queens</title>
-</programme>
-<programme start="20260127123500 +0000" stop="20260127130000 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>King of Queens</title>
-</programme>
-<programme start="20260127130000 +0000" stop="20260127132500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>King of Queens</title>
-</programme>
-<programme start="20260127132500 +0000" stop="20260127135000 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>King of Queens</title>
-</programme>
-<programme start="20260127135000 +0000" stop="20260127141500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>King of Queens</title>
-</programme>
-<programme start="20260127141500 +0000" stop="20260127144500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>King of Queens</title>
-</programme>
-<programme start="20260127144500 +0000" stop="20260127151000 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>King of Queens</title>
-</programme>
-<programme start="20260127151000 +0000" stop="20260127153500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>King of Queens</title>
-</programme>
-<programme start="20260127153500 +0000" stop="20260127160000 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Two and a Half Men</title>
-</programme>
-<programme start="20260127160000 +0000" stop="20260127162500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Two and a Half Men</title>
-</programme>
-<programme start="20260127162500 +0000" stop="20260127165000 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Two and a Half Men</title>
-</programme>
-<programme start="20260127165000 +0000" stop="20260127171500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Animal Control</title>
-</programme>
-<programme start="20260127171500 +0000" stop="20260127174000 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Animal Control</title>
-</programme>
-<programme start="20260127174000 +0000" stop="20260127180000 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>The Big Bang Theory</title>
-</programme>
-<programme start="20260127180000 +0000" stop="20260127182500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>The Big Bang Theory</title>
-</programme>
-<programme start="20260127182500 +0000" stop="20260127185000 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>The Big Bang Theory</title>
-</programme>
-<programme start="20260127185000 +0000" stop="20260127191500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>The Big Bang Theory</title>
-</programme>
-<programme start="20260127191500 +0000" stop="20260127194000 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Two and a Half Men</title>
-</programme>
-<programme start="20260127194000 +0000" stop="20260127200500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Two and a Half Men</title>
-</programme>
-<programme start="20260127200500 +0000" stop="20260127203000 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Two and a Half Men</title>
-</programme>
-<programme start="20260127203000 +0000" stop="20260127205000 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>2 Broke Girls</title>
-</programme>
-<programme start="20260127205000 +0000" stop="20260127212000 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>2 Broke Girls</title>
-</programme>
-<programme start="20260127212000 +0000" stop="20260127214000 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>American Dad</title>
-</programme>
-<programme start="20260127214000 +0000" stop="20260127220500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>American Dad</title>
-</programme>
-<programme start="20260127220500 +0000" stop="20260127223000 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Harley Quinn</title>
-</programme>
-<programme start="20260127223000 +0000" stop="20260127230000 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Harley Quinn</title>
 </programme>
 <programme start="20260126231500 +0000" stop="20260127010500 +0000" channel="Warner TV Film.skyde">
     <title>Smile - Siehst du es auch?</title>
