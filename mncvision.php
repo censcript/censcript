@@ -583,7 +583,93 @@
 <programme start="20260127140000 +0000" stop="20260127143000 +0000" channel="Arirang.mncvision">
     <title>Press Perspective</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260126174000 +0000" stop="20260126183500 +0000" channel="AXN.mncvision">
+    <title>Elsbeth S1, Ep 6</title>
+</programme>
+<programme start="20260126183500 +0000" stop="20260126192500 +0000" channel="AXN.mncvision">
+    <title>FBI: International S3, Ep 3</title>
+</programme>
+<programme start="20260126192500 +0000" stop="20260126195500 +0000" channel="AXN.mncvision">
+    <title>Cyril: Simply Magic, Ep 2</title>
+</programme>
+<programme start="20260126195500 +0000" stop="20260126203000 +0000" channel="AXN.mncvision">
+    <title>Twisted Metal S2, Ep 3</title>
+</programme>
+<programme start="20260126203000 +0000" stop="20260126210500 +0000" channel="AXN.mncvision">
+    <title>Twisted Metal S2, Ep 4</title>
+</programme>
+<programme start="20260126210500 +0000" stop="20260126220000 +0000" channel="AXN.mncvision">
+    <title>Rookie Blue S5, Ep 10</title>
+</programme>
+<programme start="20260126220000 +0000" stop="20260126224500 +0000" channel="AXN.mncvision">
+    <title>FBI: International S3, Ep 3</title>
+</programme>
+<programme start="20260126224500 +0000" stop="20260126233500 +0000" channel="AXN.mncvision">
+    <title>The Amazing Race S35, Ep 7</title>
+</programme>
+<programme start="20260126233500 +0000" stop="20260127002000 +0000" channel="AXN.mncvision">
+    <title>S.W.A.T. S7, Ep 13</title>
+</programme>
+<programme start="20260127002000 +0000" stop="20260127011000 +0000" channel="AXN.mncvision">
+    <title>The Blacklist S10, Ep 1</title>
+</programme>
+<programme start="20260127011000 +0000" stop="20260127020500 +0000" channel="AXN.mncvision">
+    <title>Elsbeth S1, Ep 6</title>
+</programme>
+<programme start="20260127020500 +0000" stop="20260127030000 +0000" channel="AXN.mncvision">
+    <title>The Amazing Race S35, Ep 7</title>
+</programme>
+<programme start="20260127030000 +0000" stop="20260127035500 +0000" channel="AXN.mncvision">
+    <title>Rookie Blue S5, Ep 10</title>
+</programme>
+<programme start="20260127035500 +0000" stop="20260127045000 +0000" channel="AXN.mncvision">
+    <title>S.W.A.T. S7, Ep 13</title>
+</programme>
+<programme start="20260127045000 +0000" stop="20260127054500 +0000" channel="AXN.mncvision">
+    <title>Elsbeth S1, Ep 6</title>
+</programme>
+<programme start="20260127054500 +0000" stop="20260127063500 +0000" channel="AXN.mncvision">
+    <title>The Blacklist S10, Ep 1</title>
+</programme>
+<programme start="20260127063500 +0000" stop="20260127073000 +0000" channel="AXN.mncvision">
+    <title>Rookie Blue S5, Ep 10</title>
+</programme>
+<programme start="20260127073000 +0000" stop="20260127082000 +0000" channel="AXN.mncvision">
+    <title>S.W.A.T. S7, Ep 13</title>
+</programme>
+<programme start="20260127082000 +0000" stop="20260127091500 +0000" channel="AXN.mncvision">
+    <title>The Amazing Race S35, Ep 7</title>
+</programme>
+<programme start="20260127091500 +0000" stop="20260127100500 +0000" channel="AXN.mncvision">
+    <title>Elsbeth S1, Ep 7</title>
+</programme>
+<programme start="20260127100500 +0000" stop="20260127110000 +0000" channel="AXN.mncvision">
+    <title>Boston Blue S1, Ep 5</title>
+</programme>
+<programme start="20260127110000 +0000" stop="20260127115500 +0000" channel="AXN.mncvision">
+    <title>FBI: International S3, Ep 4</title>
+</programme>
+<programme start="20260127115500 +0000" stop="20260127125000 +0000" channel="AXN.mncvision">
+    <title>Rookie Blue S5, Ep 11</title>
+</programme>
+<programme start="20260127125000 +0000" stop="20260127134500 +0000" channel="AXN.mncvision">
+    <title>S.W.A.T. S8, Ep 1</title>
+</programme>
+<programme start="20260127134500 +0000" stop="20260127144000 +0000" channel="AXN.mncvision">
+    <title>The Rookie S8, Ep 4</title>
+</programme>
+<programme start="20260127144000 +0000" stop="20260127151000 +0000" channel="AXN.mncvision">
+    <title>Twisted Metal S2, Ep 5</title>
+</programme>
+<programme start="20260127151000 +0000" stop="20260127154500 +0000" channel="AXN.mncvision">
+    <title>Twisted Metal S2, Ep 6</title>
+</programme>
+<programme start="20260127154500 +0000" stop="20260127164000 +0000" channel="AXN.mncvision">
+    <title>The Rookie S8, Ep 4</title>
+</programme>
+<programme start="20260127164000 +0000" stop="20260126171000 +0000" channel="AXN.mncvision">
+    <title>S.W.A.T. S8, Ep 1</title>
+</programme>
 <programme start="20260126174000 +0000" stop="20260126183500 +0000" channel="AXN HD.mncvision">
     <title>Elsbeth S1, Ep 6</title>
 </programme>
@@ -5852,7 +5938,60 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260127160000 +0000" stop="20260127163000 +0000" channel="MNCTV.mncvision">
     <title>Dunia Maya</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260126170000 +0000" stop="20260126190000 +0000" channel="MNCTV HD.mncvision">
+    <title>Suparman Reborn</title>
+</programme>
+<programme start="20260126190000 +0000" stop="20260126220000 +0000" channel="MNCTV HD.mncvision">
+    <title>Suparman Reborn</title>
+</programme>
+<programme start="20260126220000 +0000" stop="20260126224500 +0000" channel="MNCTV HD.mncvision">
+    <title>Siraman Qolbu</title>
+</programme>
+<programme start="20260126224500 +0000" stop="20260126230000 +0000" channel="MNCTV HD.mncvision">
+    <title>Pada Zaman Dahulu</title>
+</programme>
+<programme start="20260126230000 +0000" stop="20260126231500 +0000" channel="MNCTV HD.mncvision">
+    <title>CoComelon</title>
+</programme>
+<programme start="20260126231500 +0000" stop="20260127004500 +0000" channel="MNCTV HD.mncvision">
+    <title>Kiko</title>
+</programme>
+<programme start="20260127004500 +0000" stop="20260127013000 +0000" channel="MNCTV HD.mncvision">
+    <title>Kung Fu Panda Dan Sahabat</title>
+</programme>
+<programme start="20260127013000 +0000" stop="20260127031500 +0000" channel="MNCTV HD.mncvision">
+    <title>Upin &amp; Ipin</title>
+</programme>
+<programme start="20260127031500 +0000" stop="20260127040000 +0000" channel="MNCTV HD.mncvision">
+    <title>Lintas iNews Siang</title>
+</programme>
+<programme start="20260127040000 +0000" stop="20260127043000 +0000" channel="MNCTV HD.mncvision">
+    <title>Jurnal Lintas iNews Siang</title>
+</programme>
+<programme start="20260127043000 +0000" stop="20260127053000 +0000" channel="MNCTV HD.mncvision">
+    <title>Seleb On News</title>
+</programme>
+<programme start="20260127053000 +0000" stop="20260127073000 +0000" channel="MNCTV HD.mncvision">
+    <title>Upin &amp; Ipin</title>
+</programme>
+<programme start="20260127073000 +0000" stop="20260127100000 +0000" channel="MNCTV HD.mncvision">
+    <title>Upin &amp; Ipin</title>
+</programme>
+<programme start="20260127100000 +0000" stop="20260127110000 +0000" channel="MNCTV HD.mncvision">
+    <title>Upin &amp; Ipin</title>
+</programme>
+<programme start="20260127110000 +0000" stop="20260127120000 +0000" channel="MNCTV HD.mncvision">
+    <title>Entong</title>
+</programme>
+<programme start="20260127120000 +0000" stop="20260127140000 +0000" channel="MNCTV HD.mncvision">
+    <title>AFC Futsal Cup: IDN Vs KOR (L)</title>
+</programme>
+<programme start="20260127140000 +0000" stop="20260127160000 +0000" channel="MNCTV HD.mncvision">
+    <title>DMD Panggung Rezeki</title>
+</programme>
+<programme start="20260127160000 +0000" stop="20260127163000 +0000" channel="MNCTV HD.mncvision">
+    <title>Dunia Maya</title>
+</programme>
 <programme start="20260126175600 +0000" stop="20260126182800 +0000" channel="Moonbug.mncvision">
     <title>ARPO</title>
 </programme>
