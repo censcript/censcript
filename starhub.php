@@ -2102,10 +2102,10 @@
         <title>One World (60m)</title>
     </programme>
     <programme start="20260126170000 +0000" stop="20260126180000 +0000" channel="CNN HD.starhub">
-        <title>One World (45m)</title>
+        <title>Amanpour</title>
     </programme>
     <programme start="20260126180000 +0000" stop="20260126190000 +0000" channel="CNN HD.starhub">
-        <title>Amanpour</title>
+        <title>One World (45m)</title>
     </programme>
     <programme start="20260126190000 +0000" stop="20260126200000 +0000" channel="CNN HD.starhub">
         <title>Isa Soares Tonight (60m)</title>
@@ -2113,8 +2113,11 @@
     <programme start="20260126200000 +0000" stop="20260126210000 +0000" channel="CNN HD.starhub">
         <title>What We Know with Max Foster</title>
     </programme>
-    <programme start="20260126210000 +0000" stop="20260126223000 +0000" channel="CNN HD.starhub">
+    <programme start="20260126210000 +0000" stop="20260126220000 +0000" channel="CNN HD.starhub">
         <title>Quest Means Business (45m)</title>
+    </programme>
+    <programme start="20260126220000 +0000" stop="20260126230000 +0000" channel="CNN HD.starhub">
+        <title>The Lead with Jake Tapper</title>
     </programme>
     <programme start="20260126230000 +0000" stop="20260127000000 +0000" channel="CNN HD.starhub">
         <title>The Brief with Jim Sciutto</title>
@@ -3803,7 +3806,7 @@
         <title>Information on Overseas Voting</title>
     </programme>
     <programme start="20260126191500 +0000" stop="20260126200000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Tsurube&#039;s Salute to Families &quot;Itagaki Rihito in Yawatahama City, Ehime Prefecture&quot; Part 2 (R)</title>
+        <title>Tsurube&#039;s Salute to Families &quot;Itagaki Rihito in Yawatahama City, Ehime Prefectur</title>
     </programme>
     <programme start="20260126200000 +0000" stop="20260126201000 +0000" channel="NHK World Premium HD.starhub">
         <title>TV Exercise</title>
