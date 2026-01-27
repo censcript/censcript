@@ -110,6 +110,10 @@
     <title>Football: Olympiacos - Volos</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260129021500 +0700" stop="20260129030000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Serie A Full Impact 2025-26 E22</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260128010000 +0700" stop="20260128030000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: FC Porto - Gil Vicente</title>
     <desc>Live: Tidak</desc>
@@ -218,6 +222,10 @@
     <title>Basketball: Oklahoma City Thunder - New Orleans Pelicans</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260129023000 +0700" stop="20260129030000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>ACB Liga Endesa 2025-26 - Fifth Quarter E16</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260128010000 +0700" stop="20260128024500 +0700" channel="COSMOTE Sport 5 HD">
     <title>DTM 2025</title>
     <desc>Live: Tidak</desc>
@@ -302,6 +310,10 @@
     <title>Basketball: AEK - Alba Berlin (L)</title>
     <desc>Live: Ya</desc>
 </programme>
+<programme start="20260129021000 +0700" stop="20260129030000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Sports Classics: Gearing Up 2024 E12</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260128000000 +0700" stop="20260128023000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Volleyball: Olympiacos - Allianz Powervolley Milano (L)</title>
     <desc>Live: Ya</desc>
@@ -358,8 +370,8 @@
     <title>Volleyball: Karlovarsko - Olympiacos (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260128010000 +0700" stop="20260128020000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
+<programme start="20260129023000 +0700" stop="20260129030000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Sports Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260128020000 +0700" stop="20260128023000 +0700" channel="COSMOTE Sport 7 HD">
@@ -418,6 +430,14 @@
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260129020000 +0700" stop="20260129023000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260129023000 +0700" stop="20260129030000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260128010000 +0700" stop="20260128030000 +0700" channel="COSMOTE Sport 8 HD">
     <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
@@ -467,6 +487,14 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260129010000 +0700" stop="20260129020000 +0700" channel="COSMOTE Sport 8 HD">
+    <title>COSMOTESport8HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260129020000 +0700" stop="20260129023000 +0700" channel="COSMOTE Sport 8 HD">
+    <title>COSMOTESport8HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260129023000 +0700" stop="20260129030000 +0700" channel="COSMOTE Sport 8 HD">
     <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
 </programme>
@@ -525,5 +553,9 @@
 <programme start="20260129003000 +0700" stop="20260129023000 +0700" channel="COSMOTE Sport 9 HD">
     <title>Football: Al Ahli - Al Ettifaq FC (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20260129023000 +0700" stop="20260129030000 +0700" channel="COSMOTE Sport 9 HD">
+    <title>COSMOTESport9HD</title>
+    <desc>Live: Tidak</desc>
 </programme>
 No EPG found for COSMOTE Sport 10 HD
