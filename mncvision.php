@@ -152,7 +152,7 @@
     <title>News (L)</title>
 </programme>
 <programme start="20260127043000 +0000" stop="20260127050000 +0000" channel="Al Jazeera English.mncvision">
-    <title>The Stream</title>
+    <title>The Stream: Beyond Aesthetics</title>
 </programme>
 <programme start="20260127050000 +0000" stop="20260127053000 +0000" channel="Al Jazeera English.mncvision">
     <title>News (L)</title>
@@ -203,7 +203,7 @@
     <title>News (L)</title>
 </programme>
 <programme start="20260127143000 +0000" stop="20260127150000 +0000" channel="Al Jazeera English.mncvision">
-    <title>The Stream</title>
+    <title>The Stream: Beyond Aesthetics</title>
 </programme>
 <programme start="20260127150000 +0000" stop="20260127160000 +0000" channel="Al Jazeera English.mncvision">
     <title>NewsHour</title>
@@ -5470,10 +5470,10 @@
 <programme start="20260127083000 +0000" stop="20260127090000 +0000" channel="Lifetime.mncvision">
     <title>Oceanfront Property Hunt, Ep 9</title>
 </programme>
-<programme start="20260127090000 +0000" stop="20260127100000 +0000" channel="Lifetime.mncvision">
+<programme start="20260127090000 +0000" stop="20260127100500 +0000" channel="Lifetime.mncvision">
     <title>MasterChef Australia S17, Ep 12</title>
 </programme>
-<programme start="20260127100000 +0000" stop="20260127103000 +0000" channel="Lifetime.mncvision">
+<programme start="20260127100500 +0000" stop="20260127103000 +0000" channel="Lifetime.mncvision">
     <title>Oceanfront Property Hunt, Ep 10</title>
 </programme>
 <programme start="20260127103000 +0000" stop="20260127113000 +0000" channel="Lifetime.mncvision">
@@ -9569,7 +9569,7 @@
     <title>Ikatan Cinta</title>
 </programme>
 <programme start="20260127130000 +0000" stop="20260127140000 +0000" channel="Vision Prime.mncvision">
-    <title>Anakku Bukan Anak Haram</title>
+    <title>Aira</title>
 </programme>
 <programme start="20260127140000 +0000" stop="20260127143000 +0000" channel="Vision Prime.mncvision">
     <title>Indonesian Idol XIV (L)</title>
@@ -9626,7 +9626,7 @@
     <title>Ikatan Cinta</title>
 </programme>
 <programme start="20260127130000 +0000" stop="20260127140000 +0000" channel="Vision Prime HD.mncvision">
-    <title>Anakku Bukan Anak Haram</title>
+    <title>Aira</title>
 </programme>
 <programme start="20260127140000 +0000" stop="20260127143000 +0000" channel="Vision Prime HD.mncvision">
     <title>Indonesian Idol XIV (L)</title>

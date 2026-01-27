@@ -2,7 +2,7 @@
         <title> Phim truyện : Những nẻo đường gần xa - Tập 16 </title>
     </programme>
     <programme start="20260127010000 +0000" stop="20260127013000 +0000" channel="VTV1 HD.mytv">
-        <title> Cải cách hành chính </title>
+        <title> Cải cách hành chính : Cầu nối giữa chính quyền và người dân </title>
     </programme>
     <programme start="20260127013000 +0000" stop="20260127014500 +0000" channel="VTV1 HD.mytv">
         <title> Báo chí toàn cảnh </title>
@@ -11,7 +11,7 @@
         <title> Không gian văn hóa nghệ thuật </title>
     </programme>
     <programme start="20260127021000 +0000" stop="20260127030000 +0000" channel="VTV1 HD.mytv">
-        <title> Thể thao : Giờ vàng thể thao </title>
+        <title> Thể thao </title>
     </programme>
     <programme start="20260127030000 +0000" stop="20260127033000 +0000" channel="VTV1 HD.mytv">
         <title> Từ những miền quê : Làng rau dưới chân núi Tam Đảo </title>
@@ -26,10 +26,10 @@
         <title> Phim truyện : Tiệm ăn dì ghẻ - Tập 11 </title>
     </programme>
     <programme start="20260127051500 +0000" stop="20260127060500 +0000" channel="VTV1 HD.mytv">
-        <title> S - Việt Nam </title>
+        <title> S - Việt Nam : Về đất Tổ nghe âm thanh nghìn năm </title>
     </programme>
     <programme start="20260127060500 +0000" stop="20260127061000 +0000" channel="VTV1 HD.mytv">
-        <title> Nhân đạo : Bứt Phá </title>
+        <title> Nhân đạo : Bứt phá </title>
     </programme>
     <programme start="20260127061000 +0000" stop="20260127063000 +0000" channel="VTV1 HD.mytv">
         <title> Chào buổi sáng </title>
@@ -37,7 +37,10 @@
     <programme start="20260127063000 +0000" stop="20260127080000 +0000" channel="VTV1 HD.mytv">
         <title> Tài chính - Kinh doanh </title>
     </programme>
-    <programme start="20260127080000 +0000" stop="20260127083000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260127080000 +0000" stop="20260127082500 +0000" channel="VTV1 HD.mytv">
+        <title> Việt Nam đa sắc </title>
+    </programme>
+    <programme start="20260127082500 +0000" stop="20260127083000 +0000" channel="VTV1 HD.mytv">
         <title> Phim tài liệu : Thế trận mở cửa biển kinh điển </title>
     </programme>
     <programme start="20260127083000 +0000" stop="20260127090000 +0000" channel="VTV1 HD.mytv">
@@ -53,7 +56,7 @@
         <title> Không gian văn hóa nghệ thuật </title>
     </programme>
     <programme start="20260127101500 +0000" stop="20260127110000 +0000" channel="VTV1 HD.mytv">
-        <title> Thể thao : Kết nối thể thao </title>
+        <title> Thể thao </title>
     </programme>
     <programme start="20260127110000 +0000" stop="20260127113000 +0000" channel="VTV1 HD.mytv">
         <title> Tương lai xanh </title>
@@ -80,9 +83,12 @@
         <title> Góc nhìn văn hóa </title>
     </programme>
     <programme start="20260127150000 +0000" stop="20260127151500 +0000" channel="VTV1 HD.mytv">
-        <title> VIETNAM 360 </title>
+        <title> VIETNAM 360 : Phổ cập trí tuệ nhân tạo </title>
     </programme>
-    <programme start="20260127151500 +0000" stop="20260127160000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260127151500 +0000" stop="20260127154500 +0000" channel="VTV1 HD.mytv">
+        <title> Tác phẩm mới </title>
+    </programme>
+    <programme start="20260127154500 +0000" stop="20260127160000 +0000" channel="VTV1 HD.mytv">
         <title> Sống xanh </title>
     </programme>
     <programme start="20260127160000 +0000" stop="20260127163000 +0000" channel="VTV1 HD.mytv">
@@ -158,7 +164,7 @@
         <title> Bản tin </title>
     </programme>
     <programme start="20260128000000 +0000" stop="20260128001500 +0000" channel="VTV1 HD.mytv">
-        <title> VIETNAM 360 </title>
+        <title> VIETNAM 360 : Phổ cập trí tuệ nhân tạo </title>
     </programme>
     <programme start="20260128001500 +0000" stop="20260128004500 +0000" channel="VTV1 HD.mytv">
         <title> Khám phá Việt Nam</title>

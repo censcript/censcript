@@ -2918,8 +2918,11 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260127190000 +0000" stop="20260127210000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Rennen - GP Ungarn 2025</title>
 </programme>
-<programme start="20260127210000 +0000" stop="20260127223000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260127210000 +0000" stop="20260127221500 +0000" channel="Sky Sport F1 HD.skyde">
     <title>WRC: Rally Monte-Carlo - SS17 La Bollène-Vésubie / Moulinet 2 (Wolf Power Stage)</title>
+</programme>
+<programme start="20260127221500 +0000" stop="20260127223000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>F1: Top 20: Spektakuläre Abflüge</title>
 </programme>
 <programme start="20260127223000 +0000" stop="20260127230000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Die Saison 2025</title>
@@ -2996,6 +2999,9 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260127013000 +0000" stop="20260127043000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NHL: Anaheim Ducks @ Edmonton Oilers</title>
 </programme>
+<programme start="20260127043000 +0000" stop="20260127050000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>Frauen-BL: Alle Spiele, alle Tore, 15. Spieltag komplett</title>
+</programme>
 <programme start="20260127050000 +0000" stop="20260127060000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>3. Liga: Alle Spiele, alle Tore, 21. Spieltag komplett</title>
 </programme>
@@ -3017,6 +3023,9 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260127113000 +0000" stop="20260127123000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>3. Liga: Alle Spiele, alle Tore, 21. Spieltag komplett</title>
 </programme>
+<programme start="20260127123000 +0000" stop="20260127130000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>Frauen-BL: Alle Spiele, alle Tore, 15. Spieltag komplett</title>
+</programme>
 <programme start="20260127130000 +0000" stop="20260127133000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: On the Fly</title>
 </programme>
@@ -3034,6 +3043,9 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 </programme>
 <programme start="20260127193000 +0000" stop="20260127200000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Highlights Rolex Sydney Hobart Yacht Race</title>
+</programme>
+<programme start="20260127200000 +0000" stop="20260127203000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>Frauen-BL: Alle Spiele, alle Tore, 15. Spieltag komplett</title>
 </programme>
 <programme start="20260127203000 +0000" stop="20260127213000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>WRC: Highlights: Rally Monte-Carlo</title>
@@ -3281,6 +3293,9 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260127070000 +0000" stop="20260127073000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>EFL: Highlights, 28. Spieltag</title>
 </programme>
+<programme start="20260127073000 +0000" stop="20260127080000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Frauen-BL: Alle Spiele, alle Tore, 15. Spieltag komplett</title>
+</programme>
 <programme start="20260127080000 +0000" stop="20260127100000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>NHL: Anaheim Ducks @ Edmonton Oilers</title>
 </programme>
@@ -3524,10 +3539,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260127221500 +0000" stop="20260127230000 +0000" channel="Universal TV HD.skyde">
     <title>Hawaii Five-0</title>
 </programme>
-<programme start="20260126230000 +0000" stop="20260126232000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260126230000 +0000" stop="20260126232500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Young Sheldon</title>
 </programme>
-<programme start="20260126232000 +0000" stop="20260126234000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260126232500 +0000" stop="20260126234000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Young Sheldon</title>
 </programme>
 <programme start="20260126234000 +0000" stop="20260127000000 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3539,10 +3554,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260127002500 +0000" stop="20260127004500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>American Dad</title>
 </programme>
-<programme start="20260127004500 +0000" stop="20260127010500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260127004500 +0000" stop="20260127011000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>American Dad</title>
 </programme>
-<programme start="20260127010500 +0000" stop="20260127013000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260127011000 +0000" stop="20260127013000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Harley Quinn</title>
 </programme>
 <programme start="20260127013000 +0000" stop="20260127015500 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3572,10 +3587,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260127042500 +0000" stop="20260127045000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Die Nanny</title>
 </programme>
-<programme start="20260127045000 +0000" stop="20260127051500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260127045000 +0000" stop="20260127051000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Friends</title>
 </programme>
-<programme start="20260127051500 +0000" stop="20260127054000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260127051000 +0000" stop="20260127054000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Friends</title>
 </programme>
 <programme start="20260127054000 +0000" stop="20260127060500 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3686,10 +3701,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260127203000 +0000" stop="20260127205000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>2 Broke Girls</title>
 </programme>
-<programme start="20260127205000 +0000" stop="20260127211500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260127205000 +0000" stop="20260127212000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>2 Broke Girls</title>
 </programme>
-<programme start="20260127211500 +0000" stop="20260127214000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260127212000 +0000" stop="20260127214000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>American Dad</title>
 </programme>
 <programme start="20260127214000 +0000" stop="20260127220500 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3737,10 +3752,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260127210500 +0000" stop="20260128000000 +0000" channel="Warner TV Film.skyde">
     <title>Braveheart</title>
 </programme>
-<programme start="20260126231500 +0000" stop="20260127010500 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20260126231500 +0000" stop="20260127011000 +0000" channel="Warner TV Film HD.skyde">
     <title>Smile - Siehst du es auch?</title>
 </programme>
-<programme start="20260127010500 +0000" stop="20260127031500 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20260127011000 +0000" stop="20260127031500 +0000" channel="Warner TV Film HD.skyde">
     <title>Die Bücherdiebin</title>
 </programme>
 <programme start="20260127031500 +0000" stop="20260127050000 +0000" channel="Warner TV Film HD.skyde">
@@ -3752,10 +3767,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260127072500 +0000" stop="20260127094500 +0000" channel="Warner TV Film HD.skyde">
     <title>Nightmare Alley</title>
 </programme>
-<programme start="20260127094500 +0000" stop="20260127115000 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20260127094500 +0000" stop="20260127115500 +0000" channel="Warner TV Film HD.skyde">
     <title>Space Cowboys</title>
 </programme>
-<programme start="20260127115000 +0000" stop="20260127135500 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20260127115500 +0000" stop="20260127135500 +0000" channel="Warner TV Film HD.skyde">
     <title>Die Nacht des Leguan</title>
 </programme>
 <programme start="20260127135500 +0000" stop="20260127160000 +0000" channel="Warner TV Film HD.skyde">

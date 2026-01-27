@@ -1471,10 +1471,10 @@
     <programme start="20260127083000 +0000" stop="20260127090000 +0000" channel="Lifetime HD.starhub">
         <title>Janice and Bob</title>
     </programme>
-    <programme start="20260127090000 +0000" stop="20260127100000 +0000" channel="Lifetime HD.starhub">
+    <programme start="20260127090000 +0000" stop="20260127100500 +0000" channel="Lifetime HD.starhub">
         <title>MasterChef Australia (S17)</title>
     </programme>
-    <programme start="20260127100000 +0000" stop="20260127103000 +0000" channel="Lifetime HD.starhub">
+    <programme start="20260127100500 +0000" stop="20260127103000 +0000" channel="Lifetime HD.starhub">
         <title>Judi and Tom</title>
     </programme>
     <programme start="20260127103000 +0000" stop="20260127113000 +0000" channel="Lifetime HD.starhub">
@@ -2116,9 +2116,6 @@
     <programme start="20260126210000 +0000" stop="20260126223000 +0000" channel="CNN HD.starhub">
         <title>Quest Means Business (45m)</title>
     </programme>
-    <programme start="20260126223000 +0000" stop="20260126230000 +0000" channel="CNN HD.starhub">
-        <title>World Sport (30m)</title>
-    </programme>
     <programme start="20260126230000 +0000" stop="20260127000000 +0000" channel="CNN HD.starhub">
         <title>The Brief with Jim Sciutto</title>
     </programme>
@@ -2137,7 +2134,10 @@
     <programme start="20260127040000 +0000" stop="20260127050000 +0000" channel="CNN HD.starhub">
         <title>Laura Coates Live</title>
     </programme>
-    <programme start="20260127050000 +0000" stop="20260127070000 +0000" channel="CNN HD.starhub">
+    <programme start="20260127050000 +0000" stop="20260127060000 +0000" channel="CNN HD.starhub">
+        <title>The Story Is With Elex Michaelson</title>
+    </programme>
+    <programme start="20260127060000 +0000" stop="20260127070000 +0000" channel="CNN HD.starhub">
         <title>The Story Is With Elex Michaelson</title>
     </programme>
     <programme start="20260127070000 +0000" stop="20260127080000 +0000" channel="CNN HD.starhub">
@@ -2161,14 +2161,8 @@
     <programme start="20260127120000 +0000" stop="20260127133000 +0000" channel="CNN HD.starhub">
         <title>CNN News Central</title>
     </programme>
-    <programme start="20260127133000 +0000" stop="20260127140000 +0000" channel="CNN HD.starhub">
+    <programme start="20260127133000 +0000" stop="20260127150000 +0000" channel="CNN HD.starhub">
         <title>World Sport (30m)</title>
-    </programme>
-    <programme start="20260127140000 +0000" stop="20260127144500 +0000" channel="CNN HD.starhub">
-        <title>Connect the World (45m)</title>
-    </programme>
-    <programme start="20260127144500 +0000" stop="20260127150000 +0000" channel="CNN HD.starhub">
-        <title>World Sport (15m)</title>
     </programme>
     <programme start="20260127150000 +0000" stop="20260127160000 +0000" channel="CNN HD.starhub">
         <title>Connect the World (60m)</title>
@@ -3845,7 +3839,7 @@
         <title>News &amp; Weather</title>
     </programme>
     <programme start="20260127010500 +0000" stop="20260127015000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Tsurube&#039;s Salute to Families &quot;Itagaki Rihito in Yawatahama City, Ehime Prefecture&quot; Part 2 (R)</title>
+        <title>Tsurube&#039;s Salute to Families &quot;Itagaki Rihito in Yawatahama City, Ehime Prefectur</title>
     </programme>
     <programme start="20260127015000 +0000" stop="20260127021700 +0000" channel="NHK World Premium HD.starhub">
         <title>Today&#039;s Close-up (R)</title>
@@ -8032,10 +8026,13 @@
     <programme start="20260126232500 +0000" stop="20260127013000 +0000" channel="Asianet Movies.starhub">
         <title>The Metro</title>
     </programme>
-    <programme start="20260127013000 +0000" stop="20260127043000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260127013000 +0000" stop="20260127015000 +0000" channel="Asianet Movies.starhub">
+        <title>Chirikkum Thalika</title>
+    </programme>
+    <programme start="20260127015000 +0000" stop="20260127044000 +0000" channel="Asianet Movies.starhub">
         <title>Sherlock Toms</title>
     </programme>
-    <programme start="20260127043000 +0000" stop="20260127073000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260127044000 +0000" stop="20260127073000 +0000" channel="Asianet Movies.starhub">
         <title>Kadha Parayumbol</title>
     </programme>
     <programme start="20260127073000 +0000" stop="20260127110000 +0000" channel="Asianet Movies.starhub">

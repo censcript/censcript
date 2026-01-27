@@ -800,7 +800,7 @@
         <title>No programme available now.</title>
     </programme>
     <programme start="20260126160000 +0000" stop="20260127160000 +0000" channel="Live 5.mewatch">
-        <title>No programme available now.</title>
+        <title>No Programme available now. Next Broadcast on 28th January, Wednesday 7.30pm. ASEAN Shopee Cup 2025/2026</title>
     </programme>
     <programme start="20260127160000 +0000" stop="20260128113000 +0000" channel="Live 5.mewatch">
         <title>No Programme available now. Next Broadcast on 28th January, Wednesday 7.30pm. ASEAN Shopee Cup 2025/2026</title>
