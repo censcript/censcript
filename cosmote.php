@@ -166,6 +166,10 @@
     <title>Football: SC Braga - Alverca</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260128184500 +0700" stop="20260128204500 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Heart of Midlothian - Celtic FC</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260127170000 +0700" stop="20260127193000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Cleveland Cavaliers - Orlando Magic</title>
     <desc>Live: Tidak</desc>
@@ -224,10 +228,6 @@
 </programme>
 <programme start="20260128165000 +0700" stop="20260128192000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Oklahoma City Thunder - New Orleans Pelicans</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260127170000 +0700" stop="20260127180000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Highlights: 2025 Extreme H</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260127180000 +0700" stop="20260127185500 +0700" channel="COSMOTE Sport 5 HD">
@@ -320,10 +320,6 @@
 </programme>
 <programme start="20260128175000 +0700" stop="20260128191500 +0700" channel="COSMOTE Sport 5 HD">
     <title>DTM 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260127170000 +0700" stop="20260127173000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Sports Classics: 2025 Sports Rundown E1</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260127173000 +0700" stop="20260127182000 +0700" channel="COSMOTE Sport 6 HD">

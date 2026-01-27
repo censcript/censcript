@@ -6344,10 +6344,13 @@
         <title>Something&#039;s Gotta Give</title>
     </programme>
     <programme start="20260127140000 +0000" stop="20260127150000 +0000" channel="HBO Signature HD.starhub">
-        <title>Episode 3</title>
+        <title>Habseligkeiten</title>
     </programme>
-    <programme start="20260127150000 +0000" stop="20260127160000 +0000" channel="HBO Signature HD.starhub">
-        <title>Episode 2</title>
+    <programme start="20260127150000 +0000" stop="20260127154000 +0000" channel="HBO Signature HD.starhub">
+        <title>Hard Salt Beef</title>
+    </programme>
+    <programme start="20260127154000 +0000" stop="20260127171000 +0000" channel="HBO Signature HD.starhub">
+        <title>Cloverfield</title>
     </programme>
     <programme start="20260126160000 +0000" stop="20260126163000 +0000" channel="CNBC HD.starhub">
         <title>Money Movers</title>
