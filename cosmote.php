@@ -226,10 +226,6 @@
     <title>Football: SL Benfica - Real Madrid CF (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260128024500 +0700" stop="20260128034000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>2025 GT World Challenge Europe</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260128034000 +0700" stop="20260128055500 +0700" channel="COSMOTE Sport 5 HD">
     <title>Basketball: Karditsa - Tofas</title>
     <desc>Live: Tidak</desc>

@@ -1508,11 +1508,8 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260127135500 +0000" stop="20260127141500 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
 </programme>
-<programme start="20260127141500 +0000" stop="20260127143500 +0000" channel="Nick Jr..skyde">
+<programme start="20260127141500 +0000" stop="20260127144000 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
-</programme>
-<programme start="20260127143500 +0000" stop="20260127144000 +0000" channel="Nick Jr..skyde">
-    <title>Peppa Wutz</title>
 </programme>
 <programme start="20260127144000 +0000" stop="20260127144500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
@@ -1520,7 +1517,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260127144500 +0000" stop="20260127145000 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260127145000 +0000" stop="20260127145500 +0000" channel="Nick Jr..skyde">
+<programme start="20260127145000 +0000" stop="20260127145100 +0000" channel="Nick Jr..skyde">
+    <title>Peppa Wutz</title>
+</programme>
+<programme start="20260127145100 +0000" stop="20260127145500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
 <programme start="20260127145500 +0000" stop="20260127150500 +0000" channel="Nick Jr..skyde">
@@ -3341,13 +3341,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260127023000 +0000" stop="20260127050000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Golden State Warriors @ Minnesota Timberwolves</title>
 </programme>
-<programme start="20260127050000 +0000" stop="20260127053500 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260127050000 +0000" stop="20260127090000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime - Post Show</title>
 </programme>
 <programme start="20260127004000 +0000" stop="20260127010000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Es folgt: LIVE Basketball NBA</title>
 </programme>
-<programme start="20260127010000 +0000" stop="20260127090000 +0000" channel="Sky Sport 2 HD.skyde">
+<programme start="20260127010000 +0000" stop="20260127044500 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live NBA: Portland Trail Blazers @ Boston Celtics</title>
 </programme>
 <programme start="20260126230000 +0000" stop="20260126234500 +0000" channel="SYFY HD.skyde">
