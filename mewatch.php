@@ -224,7 +224,7 @@
         <title>Golden City - EP 356</title>
     </programme>
     <programme start="20260127103000 +0000" stop="20260127113000 +0000" channel="Channel 8.mewatch">
-        <title>Hello Singapore - EP 216</title>
+        <title>(Live) Hello Singapore - EP 216</title>
     </programme>
     <programme start="20260127113000 +0000" stop="20260127120000 +0000" channel="Channel 8.mewatch">
         <title>Big Biz Duel - EP 9</title>
