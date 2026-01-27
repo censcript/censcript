@@ -3842,7 +3842,7 @@
         <title>News &amp; Weather</title>
     </programme>
     <programme start="20260127010500 +0000" stop="20260127015000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Tsurube&#039;s Salute to Families &quot;Itagaki Rihito in Yawatahama City, Ehime Prefectur</title>
+        <title>Tsurube&#039;s Salute to Families &quot;Itagaki Rihito in Yawatahama City, Ehime Prefecture&quot; Part 2 (R)</title>
     </programme>
     <programme start="20260127015000 +0000" stop="20260127021700 +0000" channel="NHK World Premium HD.starhub">
         <title>Today&#039;s Close-up (R)</title>

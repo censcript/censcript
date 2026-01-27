@@ -110,6 +110,10 @@
     <title>Football: Como - Torino</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260128160000 +0700" stop="20260128175500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Genoa - Bologna</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260127150000 +0700" stop="20260127170000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Heart of Midlothian - Celtic FC</title>
     <desc>Live: Tidak</desc>
@@ -160,6 +164,10 @@
 </programme>
 <programme start="20260128145000 +0700" stop="20260128164500 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Neom - Al Ahli</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260128164500 +0700" stop="20260128184500 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: SC Braga - Alverca</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260127150000 +0700" stop="20260127170000 +0700" channel="COSMOTE Sport 4 HD">
@@ -222,8 +230,8 @@
     <title>Basketball: Barcelona - Tenerife</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260127150000 +0700" stop="20260127155500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC 2026</title>
+<programme start="20260128165000 +0700" stop="20260128192000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Oklahoma City Thunder - New Orleans Pelicans</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260127155500 +0700" stop="20260127170000 +0700" channel="COSMOTE Sport 5 HD">
@@ -314,8 +322,8 @@
     <title>WRC 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260127133000 +0700" stop="20260127160000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>2025 Premier Padel Tour Finals</title>
+<programme start="20260128162500 +0700" stop="20260128172000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260127160000 +0700" stop="20260127170000 +0700" channel="COSMOTE Sport 6 HD">
@@ -384,6 +392,10 @@
 </programme>
 <programme start="20260128131500 +0700" stop="20260128164000 +0700" channel="COSMOTE Sport 6 HD">
     <title>2025 Premier Padel Tour Finals</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260128164000 +0700" stop="20260128171000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Sports Classics: 2025 Outdoor Specials</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260127150000 +0700" stop="20260127170000 +0700" channel="COSMOTE Sport 7 HD">
