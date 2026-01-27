@@ -110,6 +110,10 @@
     <title>Football: Juventus Football Club - SSC Napoli</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260129000500 +0700" stop="20260129021500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Olympiacos - Volos</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260127230000 +0700" stop="20260128010000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Norwich City - Coventry City</title>
     <desc>Live: Tidak</desc>
@@ -162,8 +166,8 @@
     <title>Football: Millwall - Charlton Athletic </title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260127215500 +0700" stop="20260127235000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: AEK - Karditsa</title>
+<programme start="20260129004500 +0700" stop="20260129030000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: APOEL - Omonia Aradippou</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260127235000 +0700" stop="20260128003000 +0700" channel="COSMOTE Sport 4 HD">
@@ -222,12 +226,8 @@
     <title>Basketball: Karditsa - Tofas</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260127220500 +0700" stop="20260127230500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>MotoGP Classics</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260127230500 +0700" stop="20260127233500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Sports Classics: Gearing Up 2024 E12</title>
+<programme start="20260129000000 +0700" stop="20260129023000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Oklahoma City Thunder - New Orleans Pelicans</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260127233500 +0700" stop="20260128010000 +0700" channel="COSMOTE Sport 5 HD">
@@ -314,9 +314,9 @@
     <title>DTM</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260127230000 +0700" stop="20260128000000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>ATP 2025 - Review</title>
-    <desc>Live: Tidak</desc>
+<programme start="20260129000000 +0700" stop="20260129021000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Basketball: AEK - Alba Berlin (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260128000000 +0700" stop="20260128023000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Volleyball: Olympiacos - Allianz Powervolley Milano (L)</title>
@@ -369,6 +369,10 @@
 <programme start="20260128212000 +0700" stop="20260129000000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Volleyball: Olympiacos - Karlovarsko</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260129000000 +0700" stop="20260129023000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Volleyball: Karlovarsko - Olympiacos (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260127230000 +0700" stop="20260128010000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
@@ -533,5 +537,13 @@
 <programme start="20260128230000 +0700" stop="20260129000000 +0700" channel="COSMOTE Sport 9 HD">
     <title>COSMOTESport9HD</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260129000000 +0700" stop="20260129003000 +0700" channel="COSMOTE Sport 9 HD">
+    <title>COSMOTESport9HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260129003000 +0700" stop="20260129023000 +0700" channel="COSMOTE Sport 9 HD">
+    <title>Football: Al Ahli - Al Ettifaq FC (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 No EPG found for COSMOTE Sport 10 HD

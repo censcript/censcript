@@ -8,7 +8,7 @@
 <title>Investigasi Selebriti</title>
 </programme>
 <programme start="20260127033000 +0000" stop="20260127043000 +0000" channel="RCTI.vision">
-<title>Silet (RCTI)</title>
+<title>Silet</title>
 </programme>
 <programme start="20260127043000 +0000" stop="20260127050000 +0000" channel="RCTI.vision">
 <title>Seputar iNews Siang</title>
@@ -53,7 +53,7 @@
 <title>Investigasi Selebriti</title>
 </programme>
 <programme start="20260128033000 +0000" stop="20260128043000 +0000" channel="RCTI.vision">
-<title>Silet (RCTI)</title>
+<title>Silet</title>
 </programme>
 <programme start="20260128043000 +0000" stop="20260128050000 +0000" channel="RCTI.vision">
 <title>Seputar iNews Siang</title>
@@ -684,6 +684,12 @@
 </programme>
 <programme start="20260127083000 +0000" stop="20260127130000 +0000" channel="ANTV.vision">
 <title>Vasudha</title>
+</programme>
+<programme start="20260127130000 +0000" stop="20260127143000 +0000" channel="ANTV.vision">
+<title>Petualangan Cinta Nyi Blorong</title>
+</programme>
+<programme start="20260127143000 +0000" stop="20260127163000 +0000" channel="ANTV.vision">
+<title>Jampang</title>
 </programme>
 <programme start="20260127163000 +0000" stop="20260127180000 +0000" channel="ANTV.vision">
 <title>Malin Kundang</title>
@@ -1490,11 +1496,5 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260127010000 +0000" stop="20260127030000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260127030000 +0000" stop="20260127050000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260127050000 +0000" stop="20260127070000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
