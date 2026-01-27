@@ -3008,6 +3008,9 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260127060000 +0000" stop="20260127080000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Anaheim Ducks @ Edmonton Oilers</title>
 </programme>
+<programme start="20260127080000 +0000" stop="20260127083000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>NBA: Showtime</title>
+</programme>
 <programme start="20260127083000 +0000" stop="20260127110000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NBA: Orlando Magic @ Cleveland Cavaliers</title>
 </programme>
@@ -3344,7 +3347,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260127004000 +0000" stop="20260127010000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Es folgt: LIVE Basketball NBA</title>
 </programme>
-<programme start="20260127010000 +0000" stop="20260127044500 +0000" channel="Sky Sport 2 HD.skyde">
+<programme start="20260127010000 +0000" stop="20260127090000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live NBA: Portland Trail Blazers @ Boston Celtics</title>
 </programme>
 <programme start="20260126230000 +0000" stop="20260126234500 +0000" channel="SYFY HD.skyde">
@@ -3535,6 +3538,183 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 </programme>
 <programme start="20260127221500 +0000" stop="20260127230000 +0000" channel="Universal TV HD.skyde">
     <title>Hawaii Five-0</title>
+</programme>
+<programme start="20260126230000 +0000" stop="20260126232500 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>Young Sheldon</title>
+</programme>
+<programme start="20260126232500 +0000" stop="20260126234000 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>Young Sheldon</title>
+</programme>
+<programme start="20260126234000 +0000" stop="20260127000000 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>Young Sheldon</title>
+</programme>
+<programme start="20260127000000 +0000" stop="20260127002500 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>Young Sheldon</title>
+</programme>
+<programme start="20260127002500 +0000" stop="20260127004500 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>American Dad</title>
+</programme>
+<programme start="20260127004500 +0000" stop="20260127011000 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>American Dad</title>
+</programme>
+<programme start="20260127011000 +0000" stop="20260127013000 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>Harley Quinn</title>
+</programme>
+<programme start="20260127013000 +0000" stop="20260127015500 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>Harley Quinn</title>
+</programme>
+<programme start="20260127015500 +0000" stop="20260127021500 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>Two and a Half Men</title>
+</programme>
+<programme start="20260127021500 +0000" stop="20260127023500 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>The Big Bang Theory</title>
+</programme>
+<programme start="20260127023500 +0000" stop="20260127025500 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>The Big Bang Theory</title>
+</programme>
+<programme start="20260127025500 +0000" stop="20260127031500 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>The Big Bang Theory</title>
+</programme>
+<programme start="20260127031500 +0000" stop="20260127033500 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>The Big Bang Theory</title>
+</programme>
+<programme start="20260127033500 +0000" stop="20260127040000 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>Die Nanny</title>
+</programme>
+<programme start="20260127040000 +0000" stop="20260127042500 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>Die Nanny</title>
+</programme>
+<programme start="20260127042500 +0000" stop="20260127045000 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>Die Nanny</title>
+</programme>
+<programme start="20260127045000 +0000" stop="20260127051000 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>Friends</title>
+</programme>
+<programme start="20260127051000 +0000" stop="20260127054000 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>Friends</title>
+</programme>
+<programme start="20260127054000 +0000" stop="20260127060500 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>Friends</title>
+</programme>
+<programme start="20260127060500 +0000" stop="20260127063000 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>Friends</title>
+</programme>
+<programme start="20260127063000 +0000" stop="20260127065500 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>Friends</title>
+</programme>
+<programme start="20260127065500 +0000" stop="20260127072000 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>Friends</title>
+</programme>
+<programme start="20260127072000 +0000" stop="20260127075000 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>Die Nanny</title>
+</programme>
+<programme start="20260127075000 +0000" stop="20260127081500 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>Die Nanny</title>
+</programme>
+<programme start="20260127081500 +0000" stop="20260127084500 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>Die Nanny</title>
+</programme>
+<programme start="20260127084500 +0000" stop="20260127091000 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>The Middle</title>
+</programme>
+<programme start="20260127091000 +0000" stop="20260127093500 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>The Middle</title>
+</programme>
+<programme start="20260127093500 +0000" stop="20260127100000 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>The Middle</title>
+</programme>
+<programme start="20260127100000 +0000" stop="20260127102500 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>The Middle</title>
+</programme>
+<programme start="20260127102500 +0000" stop="20260127105000 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>The Middle</title>
+</programme>
+<programme start="20260127105000 +0000" stop="20260127111500 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>The Middle</title>
+</programme>
+<programme start="20260127111500 +0000" stop="20260127114000 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>The Middle</title>
+</programme>
+<programme start="20260127114000 +0000" stop="20260127120500 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>The Middle</title>
+</programme>
+<programme start="20260127120500 +0000" stop="20260127123500 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>King of Queens</title>
+</programme>
+<programme start="20260127123500 +0000" stop="20260127130000 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>King of Queens</title>
+</programme>
+<programme start="20260127130000 +0000" stop="20260127132500 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>King of Queens</title>
+</programme>
+<programme start="20260127132500 +0000" stop="20260127135000 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>King of Queens</title>
+</programme>
+<programme start="20260127135000 +0000" stop="20260127141500 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>King of Queens</title>
+</programme>
+<programme start="20260127141500 +0000" stop="20260127144500 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>King of Queens</title>
+</programme>
+<programme start="20260127144500 +0000" stop="20260127151000 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>King of Queens</title>
+</programme>
+<programme start="20260127151000 +0000" stop="20260127153500 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>King of Queens</title>
+</programme>
+<programme start="20260127153500 +0000" stop="20260127160000 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>Two and a Half Men</title>
+</programme>
+<programme start="20260127160000 +0000" stop="20260127162500 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>Two and a Half Men</title>
+</programme>
+<programme start="20260127162500 +0000" stop="20260127165000 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>Two and a Half Men</title>
+</programme>
+<programme start="20260127165000 +0000" stop="20260127171500 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>Animal Control</title>
+</programme>
+<programme start="20260127171500 +0000" stop="20260127174000 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>Animal Control</title>
+</programme>
+<programme start="20260127174000 +0000" stop="20260127180000 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>The Big Bang Theory</title>
+</programme>
+<programme start="20260127180000 +0000" stop="20260127182500 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>The Big Bang Theory</title>
+</programme>
+<programme start="20260127182500 +0000" stop="20260127185000 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>The Big Bang Theory</title>
+</programme>
+<programme start="20260127185000 +0000" stop="20260127191500 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>The Big Bang Theory</title>
+</programme>
+<programme start="20260127191500 +0000" stop="20260127194000 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>Two and a Half Men</title>
+</programme>
+<programme start="20260127194000 +0000" stop="20260127200500 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>Two and a Half Men</title>
+</programme>
+<programme start="20260127200500 +0000" stop="20260127203000 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>Two and a Half Men</title>
+</programme>
+<programme start="20260127203000 +0000" stop="20260127205000 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>2 Broke Girls</title>
+</programme>
+<programme start="20260127205000 +0000" stop="20260127212000 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>2 Broke Girls</title>
+</programme>
+<programme start="20260127212000 +0000" stop="20260127214000 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>American Dad</title>
+</programme>
+<programme start="20260127214000 +0000" stop="20260127220500 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>American Dad</title>
+</programme>
+<programme start="20260127220500 +0000" stop="20260127223000 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>Harley Quinn</title>
+</programme>
+<programme start="20260127223000 +0000" stop="20260127230000 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>Harley Quinn</title>
 </programme>
 <programme start="20260126231500 +0000" stop="20260127010500 +0000" channel="Warner TV Film.skyde">
     <title>Smile - Siehst du es auch?</title>
