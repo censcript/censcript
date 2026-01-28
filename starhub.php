@@ -4640,13 +4640,16 @@
         <title>NAWAITU SURGA 2022</title>
     </programme>
     <programme start="20260127160000 +0000" stop="20260127163000 +0000" channel="Vijay TV HD.starhub">
-        <title>Pandian Stores Thanthai Sol Mikka Mandhiram Illai</title>
+        <title>Pandian Stores Thanthai Sol Mikka Mandhi</title>
     </programme>
     <programme start="20260127163000 +0000" stop="20260127170000 +0000" channel="Vijay TV HD.starhub">
         <title>Ayyanar Thunai</title>
     </programme>
     <programme start="20260127170000 +0000" stop="20260127173000 +0000" channel="Vijay TV HD.starhub">
         <title>Siragadikka Aasai</title>
+    </programme>
+    <programme start="20260127173000 +0000" stop="20260127180000 +0000" channel="Vijay TV HD.starhub">
+        <title>Chinna Marumagal Panirendaam Vaguppu</title>
     </programme>
     <programme start="20260127180000 +0000" stop="20260127183000 +0000" channel="Vijay TV HD.starhub">
         <title>Kana Kandenadi</title>
@@ -4661,7 +4664,7 @@
         <title>Azhagae Azhagu</title>
     </programme>
     <programme start="20260127200000 +0000" stop="20260127203000 +0000" channel="Vijay TV HD.starhub">
-        <title>Sakthivel: Theeyaai Oru Theeraakkaadhal</title>
+        <title>Sakthivel - Theeyaai Oru Theeraakkaadhal</title>
     </programme>
     <programme start="20260127203000 +0000" stop="20260127210000 +0000" channel="Vijay TV HD.starhub">
         <title>Kanmani Anbudan</title>
@@ -4670,7 +4673,7 @@
         <title>Thendrale Mella Pesu</title>
     </programme>
     <programme start="20260127213000 +0000" stop="20260127220000 +0000" channel="Vijay TV HD.starhub">
-        <title>Suttum Vizhi Sudare Oru Chinanjiru Kuyilin Kadhai</title>
+        <title>Suttum Vizhi Sudare - Oru Chinanjiru Kuyilin Kadhai</title>
     </programme>
     <programme start="20260127220000 +0000" stop="20260127223000 +0000" channel="Vijay TV HD.starhub">
         <title>Dhanam - Ungalil Oruthi</title>
