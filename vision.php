@@ -622,12 +622,6 @@
 <programme start="20260128083000 +0000" stop="20260128130000 +0000" channel="ANTV.vision">
 <title>Vasudha</title>
 </programme>
-<programme start="20260128130000 +0000" stop="20260128143000 +0000" channel="ANTV.vision">
-<title>Ratu Buaya Putih</title>
-</programme>
-<programme start="20260128143000 +0000" stop="20260128163000 +0000" channel="ANTV.vision">
-<title>Jampang 2</title>
-</programme>
 <programme start="20260128163000 +0000" stop="20260128180000 +0000" channel="ANTV.vision">
 <title>Menentang Maut</title>
 </programme>
@@ -1496,5 +1490,11 @@
 <title>DAAI TV</title>
 </programme>
 <programme start="20260128060000 +0000" stop="20260128090000 +0000" channel="DAAI TV.vision">
+<title>DAAI TV</title>
+</programme>
+<programme start="20260128090000 +0000" stop="20260128120000 +0000" channel="DAAI TV.vision">
+<title>DAAI TV</title>
+</programme>
+<programme start="20260128120000 +0000" stop="20260128150000 +0000" channel="DAAI TV.vision">
 <title>DAAI TV</title>
 </programme>
