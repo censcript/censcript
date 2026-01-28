@@ -2225,7 +2225,7 @@
         <title>Best Of AO 2026: Day 11 Match 1</title>
     </programme>
     <programme start="20260128150000 +0000" stop="20260128170000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Best Of AO 2026: Day 11 Match 2</title>
+        <title>Best Of AO 2026: Men&#039;s Singles QF Djokovic v Musetti</title>
     </programme>
     <programme start="20260127160000 +0000" stop="20260127170000 +0000" channel="TVB Xing He.starhub">
         <title>Happy Ever After</title>
@@ -4640,7 +4640,7 @@
         <title>NAWAITU SURGA 2022</title>
     </programme>
     <programme start="20260127160000 +0000" stop="20260127163000 +0000" channel="Vijay TV HD.starhub">
-        <title>Pandian Stores Thanthai Sol Mikka Mandhi</title>
+        <title>Pandian Stores Thanthai Sol Mikka Mandhiram Illai</title>
     </programme>
     <programme start="20260127163000 +0000" stop="20260127170000 +0000" channel="Vijay TV HD.starhub">
         <title>Ayyanar Thunai</title>
@@ -4664,7 +4664,7 @@
         <title>Azhagae Azhagu</title>
     </programme>
     <programme start="20260127200000 +0000" stop="20260127203000 +0000" channel="Vijay TV HD.starhub">
-        <title>Sakthivel - Theeyaai Oru Theeraakkaadhal</title>
+        <title>Sakthivel: Theeyaai Oru Theeraakkaadhal</title>
     </programme>
     <programme start="20260127203000 +0000" stop="20260127210000 +0000" channel="Vijay TV HD.starhub">
         <title>Kanmani Anbudan</title>
@@ -4673,7 +4673,7 @@
         <title>Thendrale Mella Pesu</title>
     </programme>
     <programme start="20260127213000 +0000" stop="20260127220000 +0000" channel="Vijay TV HD.starhub">
-        <title>Suttum Vizhi Sudare - Oru Chinanjiru Kuyilin Kadhai</title>
+        <title>Suttum Vizhi Sudare Oru Chinanjiru Kuyilin Kadhai</title>
     </programme>
     <programme start="20260127220000 +0000" stop="20260127223000 +0000" channel="Vijay TV HD.starhub">
         <title>Dhanam - Ungalil Oruthi</title>
@@ -4694,7 +4694,7 @@
         <title>Azhagae Azhagu</title>
     </programme>
     <programme start="20260128010000 +0000" stop="20260128013000 +0000" channel="Vijay TV HD.starhub">
-        <title>Pandian Stores Thanthai Sol Mikka Mandhi</title>
+        <title>Pandian Stores Thanthai Sol Mikka Mandhiram Illai</title>
     </programme>
     <programme start="20260128013000 +0000" stop="20260128020000 +0000" channel="Vijay TV HD.starhub">
         <title>Ayyanar Thunai</title>
@@ -4718,7 +4718,7 @@
         <title>Azhagae Azhagu</title>
     </programme>
     <programme start="20260128050000 +0000" stop="20260128053000 +0000" channel="Vijay TV HD.starhub">
-        <title>Pandian Stores Thanthai Sol Mikka Mandhi</title>
+        <title>Pandian Stores Thanthai Sol Mikka Mandhiram Illai</title>
     </programme>
     <programme start="20260128053000 +0000" stop="20260128060000 +0000" channel="Vijay TV HD.starhub">
         <title>Ayyanar Thunai</title>
@@ -4730,7 +4730,7 @@
         <title>Chinna Marumagal Panirendaam Vaguppu</title>
     </programme>
     <programme start="20260128070000 +0000" stop="20260128073000 +0000" channel="Vijay TV HD.starhub">
-        <title>Sakthivel - Theeyaai Oru Theeraakkaadhal</title>
+        <title>Sakthivel: Theeyaai Oru Theeraakkaadhal</title>
     </programme>
     <programme start="20260128073000 +0000" stop="20260128080000 +0000" channel="Vijay TV HD.starhub">
         <title>Kanmani Anbudan</title>
@@ -4739,7 +4739,7 @@
         <title>Thendrale Mella Pesu</title>
     </programme>
     <programme start="20260128083000 +0000" stop="20260128090000 +0000" channel="Vijay TV HD.starhub">
-        <title>Suttum Vizhi Sudare - Oru Chinanjiru Kuyilin Kadhai</title>
+        <title>Suttum Vizhi Sudare Oru Chinanjiru Kuyilin Kadhai</title>
     </programme>
     <programme start="20260128090000 +0000" stop="20260128093000 +0000" channel="Vijay TV HD.starhub">
         <title>Dhanam - Ungalil Oruthi</title>
@@ -4760,7 +4760,7 @@
         <title>Azhagae Azhagu</title>
     </programme>
     <programme start="20260128120000 +0000" stop="20260128123000 +0000" channel="Vijay TV HD.starhub">
-        <title>Pandian Stores Thanthai Sol Mikka Mandhi</title>
+        <title>Pandian Stores Thanthai Sol Mikka Mandhiram Illai</title>
     </programme>
     <programme start="20260128123000 +0000" stop="20260128130000 +0000" channel="Vijay TV HD.starhub">
         <title>Ayyanar Thunai</title>
