@@ -8098,11 +8098,14 @@
     <programme start="20260128230000 +0000" stop="20260129010000 +0000" channel="Dragon TV.starhub">
         <title>Dragon TV Morning News</title>
     </programme>
-    <programme start="20260129010000 +0000" stop="20260129020100 +0000" channel="Dragon TV.starhub">
+    <programme start="20260129010000 +0000" stop="20260129020600 +0000" channel="Dragon TV.starhub">
         <title>A Green Trip</title>
     </programme>
-    <programme start="20260129020100 +0000" stop="20260129033400 +0000" channel="Dragon TV.starhub">
+    <programme start="20260129020600 +0000" stop="20260129030900 +0000" channel="Dragon TV.starhub">
         <title>Cheer up!small shops</title>
+    </programme>
+    <programme start="20260129030900 +0000" stop="20260129033400 +0000" channel="Dragon TV.starhub">
+        <title>New Entertainment</title>
     </programme>
     <programme start="20260129033400 +0000" stop="20260129040000 +0000" channel="Dragon TV.starhub">
         <title>CARE ON THE WAY</title>
@@ -8110,22 +8113,25 @@
     <programme start="20260129040000 +0000" stop="20260129042700 +0000" channel="Dragon TV.starhub">
         <title>MIDDAY NEWS</title>
     </programme>
-    <programme start="20260129061400 +0000" stop="20260129070400 +0000" channel="Dragon TV.starhub">
+    <programme start="20260129042700 +0000" stop="20260129061200 +0000" channel="Dragon TV.starhub">
+        <title>Future China</title>
+    </programme>
+    <programme start="20260129061200 +0000" stop="20260129063700 +0000" channel="Dragon TV.starhub">
         <title>Searching for flavor</title>
     </programme>
-    <programme start="20260129070400 +0000" stop="20260129073400 +0000" channel="Dragon TV.starhub">
+    <programme start="20260129063700 +0000" stop="20260129070200 +0000" channel="Dragon TV.starhub">
         <title>I LOVE SHANGHAI</title>
     </programme>
-    <programme start="20260129073400 +0000" stop="20260129084400 +0000" channel="Dragon TV.starhub">
+    <programme start="20260129070200 +0000" stop="20260129084500 +0000" channel="Dragon TV.starhub">
         <title>Cheer up!small shops</title>
     </programme>
-    <programme start="20260129084400 +0000" stop="20260129090900 +0000" channel="Dragon TV.starhub">
+    <programme start="20260129084500 +0000" stop="20260129091000 +0000" channel="Dragon TV.starhub">
         <title>Next Station</title>
     </programme>
-    <programme start="20260129090900 +0000" stop="20260129093400 +0000" channel="Dragon TV.starhub">
+    <programme start="20260129091000 +0000" stop="20260129093500 +0000" channel="Dragon TV.starhub">
         <title>New Entertainment</title>
     </programme>
-    <programme start="20260129093400 +0000" stop="20260129100000 +0000" channel="Dragon TV.starhub">
+    <programme start="20260129093500 +0000" stop="20260129100000 +0000" channel="Dragon TV.starhub">
         <title>CARE ON THE WAY</title>
     </programme>
     <programme start="20260129100000 +0000" stop="20260129105800 +0000" channel="Dragon TV.starhub">
@@ -8137,19 +8143,19 @@
     <programme start="20260129112300 +0000" stop="20260129114800 +0000" channel="Dragon TV.starhub">
         <title>I LOVE SHANGHAI</title>
     </programme>
-    <programme start="20260129114800 +0000" stop="20260129124900 +0000" channel="Dragon TV.starhub">
+    <programme start="20260129114800 +0000" stop="20260129125500 +0000" channel="Dragon TV.starhub">
         <title>A Green Trip</title>
     </programme>
-    <programme start="20260129124900 +0000" stop="20260129143600 +0000" channel="Dragon TV.starhub">
+    <programme start="20260129125500 +0000" stop="20260129143900 +0000" channel="Dragon TV.starhub">
         <title>Future China</title>
     </programme>
-    <programme start="20260129143600 +0000" stop="20260129150100 +0000" channel="Dragon TV.starhub">
+    <programme start="20260129143900 +0000" stop="20260129150500 +0000" channel="Dragon TV.starhub">
         <title>New Entertainment</title>
     </programme>
-    <programme start="20260129150100 +0000" stop="20260129152600 +0000" channel="Dragon TV.starhub">
+    <programme start="20260129150500 +0000" stop="20260129153000 +0000" channel="Dragon TV.starhub">
         <title>CARE ON THE WAY</title>
     </programme>
-    <programme start="20260129152600 +0000" stop="20260129160000 +0000" channel="Dragon TV.starhub">
+    <programme start="20260129153000 +0000" stop="20260129160000 +0000" channel="Dragon TV.starhub">
         <title>Cheer up!small shops</title>
     </programme>
     <programme start="20260128160000 +0000" stop="20260128163000 +0000" channel="Travelxp HD.starhub">
