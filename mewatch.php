@@ -832,10 +832,10 @@
     <programme start="20260128160000 +0000" stop="20260129160000 +0000" channel="Live 2.mewatch">
         <title>No programme available now.</title>
     </programme>
-    <programme start="20260127160000 +0000" stop="20260128113000 +0000" channel="Live 5.mewatch">
+    <programme start="20260127160000 +0000" stop="20260128110200 +0000" channel="Live 5.mewatch">
         <title>No Programme available now. Next Broadcast on 28th January, Wednesday 7.30pm. ASEAN Shopee Cup 2025/2026</title>
     </programme>
-    <programme start="20260128113000 +0000" stop="20260128133000 +0000" channel="Live 5.mewatch">
+    <programme start="20260128110200 +0000" stop="20260128133000 +0000" channel="Live 5.mewatch">
         <title>ASEAN Shopee Cup 2025/2026: BG Tampines Rovers FC vs Buriram United FC</title>
     </programme>
     <programme start="20260128133000 +0000" stop="20260128160000 +0000" channel="Live 5.mewatch">

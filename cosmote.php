@@ -1,7 +1,3 @@
-<programme start="20260128090000 +0700" stop="20260128110000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: Utrecht - KRC Genk</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260128110000 +0700" stop="20260128130000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Crystal Palace - KuPS Kuopio</title>
     <desc>Live: Tidak</desc>
@@ -50,12 +46,8 @@
     <title>Football: Pafos FC - SK Slavia Praha</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260128074000 +0700" stop="20260128094500 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Como - Torino</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260128094500 +0700" stop="20260128100000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Sports Highlights</title>
+<programme start="20260129113000 +0700" stop="20260129133000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: AS Monaco FC - Juventus Football Club</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260128100000 +0700" stop="20260128120000 +0700" channel="COSMOTE Sport 2 HD">
@@ -114,8 +106,8 @@
     <title>Football: Lecce - SS Lazio</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260128090000 +0700" stop="20260128110000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Heart of Midlothian - Celtic FC</title>
+<programme start="20260129100500 +0700" stop="20260129120000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Sassuolo - Cremonese</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260128110000 +0700" stop="20260128125500 +0700" channel="COSMOTE Sport 3 HD">
@@ -166,9 +158,9 @@
     <title>Football: Al Ahli - Al Ettifaq FC</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260128080000 +0700" stop="20260128110000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Oklahoma City Thunder - New Orleans Pelicans (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20260129110000 +0700" stop="20260129130000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: SC Braga - Alverca</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260128110000 +0700" stop="20260128124500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Pick n&#039; Roll</title>
@@ -218,12 +210,12 @@
     <title>Basketball: Cleveland Cavaliers - Los Angeles Lakers (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260128080500 +0700" stop="20260128092500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>DTM 2025</title>
+<programme start="20260129100000 +0700" stop="20260129110000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>NBA Specials</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260128092500 +0700" stop="20260128110000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>DTM 2025</title>
+<programme start="20260129110000 +0700" stop="20260129125500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Armani Milano - Varese</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260128110000 +0700" stop="20260128130500 +0700" channel="COSMOTE Sport 5 HD">
@@ -302,14 +294,6 @@
     <title>Basketball: Houston Rockets - San Antonio Spurs (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260128075500 +0700" stop="20260128094500 +0700" channel="COSMOTE Sport 6 HD">
-    <title>CEV Beach Volleyball European Cup 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260128094500 +0700" stop="20260128110000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Boxing: Badou Jack - Norair Mikaeljan</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260128110000 +0700" stop="20260128131500 +0700" channel="COSMOTE Sport 6 HD">
     <title>Volleyball: Cucine Lube Civitanova - Leuven</title>
     <desc>Live: Tidak</desc>
@@ -362,8 +346,12 @@
     <title>Premier Padel Tour 2025 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260128090000 +0700" stop="20260128110000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
+<programme start="20260129100000 +0700" stop="20260129110000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>ATP 2025 - Review</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260129110000 +0700" stop="20260129130000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>2025 Premier Padel World Cup Pairs</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260128110000 +0700" stop="20260128130000 +0700" channel="COSMOTE Sport 7 HD">
@@ -430,8 +418,8 @@
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260128090000 +0700" stop="20260128110000 +0700" channel="COSMOTE Sport 8 HD">
-    <title>COSMOTESport8HD</title>
+<programme start="20260129110000 +0700" stop="20260129130000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260128110000 +0700" stop="20260128130000 +0700" channel="COSMOTE Sport 8 HD">
@@ -498,8 +486,8 @@
     <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260128090000 +0700" stop="20260128110000 +0700" channel="COSMOTE Sport 9 HD">
-    <title>COSMOTESport9HD</title>
+<programme start="20260129110000 +0700" stop="20260129130000 +0700" channel="COSMOTE Sport 8 HD">
+    <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260128110000 +0700" stop="20260128130000 +0700" channel="COSMOTE Sport 9 HD">
@@ -563,6 +551,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260129090000 +0700" stop="20260129110000 +0700" channel="COSMOTE Sport 9 HD">
+    <title>COSMOTESport9HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260129110000 +0700" stop="20260129130000 +0700" channel="COSMOTE Sport 9 HD">
     <title>COSMOTESport9HD</title>
     <desc>Live: Tidak</desc>
 </programme>

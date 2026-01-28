@@ -2806,11 +2806,11 @@
   <programme start="20260130100000 +0000" stop="20260130113000 +0000" channel="Šláger Originál.webtv.sk">
     <title lang="id">DECHOVKA O JEDENÁCTÉ</title>
   </programme>
-  <programme start="20260130113000 +0000" stop="20260130130000 +0000" channel="Šláger Originál.webtv.sk">
+  <programme start="20260130113000 +0000" stop="20260130124000 +0000" channel="Šláger Originál.webtv.sk">
     <title lang="id">PÍSNIČKY NA PŘÁNÍ</title>
   </programme>
-  <programme start="20260130130000 +0000" stop="20260130140000 +0000" channel="Šláger Originál.webtv.sk">
-    <title lang="id">ČAS NA PĚKNOU PÍSNIČKU</title>
+  <programme start="20260130124000 +0000" stop="20260130140000 +0000" channel="Šláger Originál.webtv.sk">
+    <title lang="id">SÁZKA NA HIT</title>
   </programme>
   <programme start="20260130140000 +0000" stop="20260130153000 +0000" channel="Šláger Originál.webtv.sk">
     <title lang="id">ODPOLEDNÍ STUDIO</title>
@@ -2827,17 +2827,17 @@
   <programme start="20260129230000 +0000" stop="20260130070000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">LIDOVÝ ŠLÁGR MIŠMAŠ</title>
   </programme>
-  <programme start="20260130070000 +0000" stop="20260130110000 +0000" channel="Šláger Muzika.webtv.sk">
-    <title lang="id">DOPOLEDNÍ DECHOVKA</title>
+  <programme start="20260130120000 +0000" stop="20260130150000 +0000" channel="Šláger Muzika.webtv.sk">
+    <title lang="id">Z PÍSNIČKY DO PÍSNIČKY</title>
   </programme>
-  <programme start="20260130110000 +0000" stop="20260130150000 +0000" channel="Šláger Muzika.webtv.sk">
-    <title lang="id">POLEDNÍ DECHOVKA</title>
+  <programme start="20260130170000 +0000" stop="20260130180000 +0000" channel="Šláger Muzika.webtv.sk">
+    <title lang="id">PÍSNIČKY NA PŘÁNÍ</title>
   </programme>
-  <programme start="20260130150000 +0000" stop="20260130180000 +0000" channel="Šláger Muzika.webtv.sk">
-    <title lang="id">Z DECHOVKY DO DECHOVKY</title>
+  <programme start="20260130190000 +0000" stop="20260130203000 +0000" channel="Šláger Muzika.webtv.sk">
+    <title lang="id">NEJŽÁDANĚJŠÍ PÍSNIČKY</title>
   </programme>
-  <programme start="20260130180000 +0000" stop="20260130210000 +0000" channel="Šláger Muzika.webtv.sk">
-    <title lang="id">VEČERNÍ ZÁBAVA NA DVOJCE</title>
+  <programme start="20260130203000 +0000" stop="20260130210000 +0000" channel="Šláger Muzika.webtv.sk">
+    <title lang="id">HARMONIKY</title>
   </programme>
   <programme start="20260130210000 +0000" stop="20260130230000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">Z DECHOVKY DO DECHOVKY</title>
@@ -3790,17 +3790,17 @@
   <programme start="20260130194000 +0000" stop="20260130205000 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Slovenští muži vrací úder</title>
   </programme>
-  <programme start="20260130205000 +0000" stop="20260130213500 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20260130205000 +0000" stop="20260130211000 +0000" channel="ČT :D - ČT art.webtv.sk">
+    <title lang="id">Na plovárně s Borisem Jirků</title>
+  </programme>
+  <programme start="20260130211000 +0000" stop="20260130220000 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Sláva zabíjí (4/4)</title>
   </programme>
-  <programme start="20260130213500 +0000" stop="20260130220000 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20260130220000 +0000" stop="20260130222500 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Kanadská soda V (4/14)</title>
   </programme>
-  <programme start="20260130220000 +0000" stop="20260130224500 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20260130222500 +0000" stop="20260130231000 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Hollywoodské ikony</title>
-  </programme>
-  <programme start="20260130224500 +0000" stop="20260130234500 +0000" channel="ČT :D - ČT art.webtv.sk">
-    <title lang="id">Mozartova sestra</title>
   </programme>
   <programme start="20260129223500 +0000" stop="20260129232500 +0000" channel="Nova International.webtv.sk">
     <title lang="id">Ulice (3519)</title>
@@ -16147,17 +16147,23 @@
   <programme start="20260130035500 +0000" stop="20260130040000 +0000" channel="TVP World.webtv.sk">
     <title lang="id">Weather</title>
   </programme>
-  <programme start="20260130040000 +0000" stop="20260130041500 +0000" channel="TVP World.webtv.sk">
+  <programme start="20260130040000 +0000" stop="20260130040500 +0000" channel="TVP World.webtv.sk">
     <title lang="id">World News Flash</title>
   </programme>
-  <programme start="20260130041500 +0000" stop="20260130050000 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">Document</title>
+  <programme start="20260130040500 +0000" stop="20260130045500 +0000" channel="TVP World.webtv.sk">
+    <title lang="id">Not in my Country</title>
+  </programme>
+  <programme start="20260130045500 +0000" stop="20260130050000 +0000" channel="TVP World.webtv.sk">
+    <title lang="id">Weather</title>
   </programme>
   <programme start="20260130050000 +0000" stop="20260130053000 +0000" channel="TVP World.webtv.sk">
     <title lang="id">World News</title>
   </programme>
-  <programme start="20260130053000 +0000" stop="20260130060000 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">Document</title>
+  <programme start="20260130053000 +0000" stop="20260130055000 +0000" channel="TVP World.webtv.sk">
+    <title lang="id">Polish Design (4)</title>
+  </programme>
+  <programme start="20260130055000 +0000" stop="20260130060000 +0000" channel="TVP World.webtv.sk">
+    <title lang="id">Weather</title>
   </programme>
   <programme start="20260130060000 +0000" stop="20260130061000 +0000" channel="TVP World.webtv.sk">
     <title lang="id">World News Flash</title>
@@ -16226,7 +16232,7 @@
     <title lang="id">World News</title>
   </programme>
   <programme start="20260130101000 +0000" stop="20260130103500 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">Eastern Express (1333)</title>
+    <title lang="id">Eastern Express (1332)</title>
   </programme>
   <programme start="20260130103500 +0000" stop="20260130104500 +0000" channel="TVP World.webtv.sk">
     <title lang="id">World News Flash</title>
@@ -16303,8 +16309,11 @@
   <programme start="20260130151500 +0000" stop="20260130153000 +0000" channel="TVP World.webtv.sk">
     <title lang="id">World Talks (1694)</title>
   </programme>
-  <programme start="20260130153000 +0000" stop="20260130160000 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">Document</title>
+  <programme start="20260130153000 +0000" stop="20260130155000 +0000" channel="TVP World.webtv.sk">
+    <title lang="id">Polish Design (4)</title>
+  </programme>
+  <programme start="20260130155000 +0000" stop="20260130160000 +0000" channel="TVP World.webtv.sk">
+    <title lang="id">Weather</title>
   </programme>
   <programme start="20260130160000 +0000" stop="20260130161000 +0000" channel="TVP World.webtv.sk">
     <title lang="id">World News</title>
@@ -16588,11 +16597,8 @@
   <programme start="20260130175500 +0000" stop="20260130180000 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Serwis Info Wieczór</title>
   </programme>
-  <programme start="20260130180000 +0000" stop="20260130182500 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260130180000 +0000" stop="20260130183000 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Kontrapunkt (42)</title>
-  </programme>
-  <programme start="20260130182500 +0000" stop="20260130183000 +0000" channel="TVP Info.webtv.sk">
-    <title lang="id">Serwis Info Wieczór</title>
   </programme>
   <programme start="20260130183000 +0000" stop="20260130185800 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Program informacyjny 19.30</title>
@@ -16946,10 +16952,10 @@
     <title lang="id">Студія Захід з Антоном Борковським</title>
   </programme>
   <programme start="20260129230000 +0000" stop="20260129233000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Неизвестная Pоссия</title>
+    <title lang="id">Неизвестная Pоссия: Вулканы Камчатки</title>
   </programme>
   <programme start="20260129233000 +0000" stop="20260130000000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Pеальная история</title>
+    <title lang="id">Темная история: Магас. Депортация ингушей</title>
   </programme>
   <programme start="20260130000000 +0000" stop="20260130003000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">Не Нейтральные: Кристина Тимановская. Сбежать, чтобы бежать</title>
@@ -16970,7 +16976,7 @@
     <title lang="id">#ВУкраине: Охота на шахед</title>
   </programme>
   <programme start="20260130043000 +0000" stop="20260130050000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Человек на карте</title>
+    <title lang="id">Сибириада: Напас ­– пуп Земли</title>
   </programme>
   <programme start="20260130050000 +0000" stop="20260130053000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">Балтия</title>
@@ -17003,13 +17009,13 @@
     <title lang="id">Донбасс.Pеалии</title>
   </programme>
   <programme start="20260130123000 +0000" stop="20260130130000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">DW.Интервью</title>
+    <title lang="id">DW. #вТPЕНДde: Антон ДОЛИН</title>
   </programme>
   <programme start="20260130130000 +0000" stop="20260130133000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">Азия</title>
   </programme>
   <programme start="20260130133000 +0000" stop="20260130140000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Человек на карте</title>
+    <title lang="id">Сибириада: Напас ­– пуп Земли</title>
   </programme>
   <programme start="20260130140000 +0000" stop="20260130160000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">Pеальное кино: Не все будет хорошо</title>
@@ -17027,7 +17033,7 @@
     <title lang="id">Лицом к событию</title>
   </programme>
   <programme start="20260130183000 +0000" stop="20260130190000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Ждем в гости</title>
+    <title lang="id">Ждем в гости: Ювяскюля - Сердце Финляндии</title>
   </programme>
   <programme start="20260130190000 +0000" stop="20260130193000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">Главное</title>
@@ -17042,7 +17048,7 @@
     <title lang="id">Лицом к событию</title>
   </programme>
   <programme start="20260130223000 +0000" stop="20260130230000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">DW.Интервью</title>
+    <title lang="id">DW. #вТPЕНДde: Антон ДОЛИН</title>
   </programme>
   <programme start="20260129225000 +0000" stop="20260129232500 +0000" channel="Armenia 1 TV.webtv.sk">
     <title lang="id">Out of Character</title>
@@ -17545,10 +17551,10 @@
   <programme start="20260130092800 +0000" stop="20260130093000 +0000" channel="NHK World Japan.webtv.sk">
     <title lang="id">INFO</title>
   </programme>
-  <programme start="20260130093000 +0000" stop="20260130095700 +0000" channel="NHK World Japan.webtv.sk">
+  <programme start="20260130093000 +0000" stop="20260130095600 +0000" channel="NHK World Japan.webtv.sk">
     <title lang="id">Today&apos;s Close-Up</title>
   </programme>
-  <programme start="20260130095700 +0000" stop="20260130100000 +0000" channel="NHK World Japan.webtv.sk">
+  <programme start="20260130095600 +0000" stop="20260130100000 +0000" channel="NHK World Japan.webtv.sk">
     <title lang="id">INFO</title>
   </programme>
   <programme start="20260130100000 +0000" stop="20260130102800 +0000" channel="NHK World Japan.webtv.sk">
@@ -17602,10 +17608,10 @@
   <programme start="20260130142800 +0000" stop="20260130143000 +0000" channel="NHK World Japan.webtv.sk">
     <title lang="id">INFO</title>
   </programme>
-  <programme start="20260130143000 +0000" stop="20260130145700 +0000" channel="NHK World Japan.webtv.sk">
+  <programme start="20260130143000 +0000" stop="20260130145600 +0000" channel="NHK World Japan.webtv.sk">
     <title lang="id">Today&apos;s Close-Up</title>
   </programme>
-  <programme start="20260130145700 +0000" stop="20260130150000 +0000" channel="NHK World Japan.webtv.sk">
+  <programme start="20260130145600 +0000" stop="20260130150000 +0000" channel="NHK World Japan.webtv.sk">
     <title lang="id">INFO</title>
   </programme>
   <programme start="20260130150000 +0000" stop="20260130152800 +0000" channel="NHK World Japan.webtv.sk">
@@ -17671,10 +17677,10 @@
   <programme start="20260130202800 +0000" stop="20260130203000 +0000" channel="NHK World Japan.webtv.sk">
     <title lang="id">INFO</title>
   </programme>
-  <programme start="20260130203000 +0000" stop="20260130205700 +0000" channel="NHK World Japan.webtv.sk">
+  <programme start="20260130203000 +0000" stop="20260130205600 +0000" channel="NHK World Japan.webtv.sk">
     <title lang="id">Today&apos;s Close-Up</title>
   </programme>
-  <programme start="20260130205700 +0000" stop="20260130210000 +0000" channel="NHK World Japan.webtv.sk">
+  <programme start="20260130205600 +0000" stop="20260130210000 +0000" channel="NHK World Japan.webtv.sk">
     <title lang="id">INFO</title>
   </programme>
   <programme start="20260130210000 +0000" stop="20260130212800 +0000" channel="NHK World Japan.webtv.sk">
