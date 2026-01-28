@@ -2767,18 +2767,6 @@
 <programme start="20260128210000 +0000" stop="20260128230000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: Klassiker der Woche: HSV - FCB (2011/12)</title>
 </programme>
-<programme start="20260128000000 +0000" stop="20260128020000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
-    <title>BL: FC St. Pauli - RB Leipzig, Nachholspiel vom 16. Spieltag</title>
-</programme>
-<programme start="20260128020000 +0000" stop="20260128040000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
-    <title>BL: FC Bayern München - FC Augsburg, 19. Spieltag</title>
-</programme>
-<programme start="20260128040000 +0000" stop="20260128060000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
-    <title>BL: 1. FC Union Berlin - Borussia Dortmund, tipico Topspiel der Woche, 19. Spieltag</title>
-</programme>
-<programme start="20260128060000 +0000" stop="20260128080000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
-    <title>BL: FC St. Pauli - RB Leipzig, Nachholspiel vom 16. Spieltag</title>
-</programme>
 <programme start="20260127230000 +0000" stop="20260128010000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>IndyCar: Ontario Honda Dealers Indy Toronto</title>
 </programme>
@@ -3297,12 +3285,6 @@
 </programme>
 <programme start="20260128195000 +0000" stop="20260128223000 +0000" channel="Sky Sport 3 HD.skyde">
     <title>Live UEFA CL: Club Brügge - Olympique Marseille, Ligaphase, 8. Spieltag</title>
-</programme>
-<programme start="20260128193000 +0000" stop="20260128195000 +0000" channel="Sky Sport 4 HD.skyde">
-    <title>Es folgt: LIVE UEFA CL</title>
-</programme>
-<programme start="20260128195000 +0000" stop="20260128223000 +0000" channel="Sky Sport 4 HD.skyde">
-    <title>Live UEFA CL: Athletic Bilbao - Sporting Lissabon, Ligaphase, 8. Spieltag</title>
 </programme>
 <programme start="20260128193000 +0000" stop="20260128195000 +0000" channel="Sky Sport 5 HD.skyde">
     <title>Es folgt: LIVE UEFA CL</title>
