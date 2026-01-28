@@ -4648,9 +4648,6 @@
     <programme start="20260127170000 +0000" stop="20260127173000 +0000" channel="Vijay TV HD.starhub">
         <title>Siragadikka Aasai</title>
     </programme>
-    <programme start="20260127173000 +0000" stop="20260127180000 +0000" channel="Vijay TV HD.starhub">
-        <title>Chinna Marumagal Panirendaam Vaguppu</title>
-    </programme>
     <programme start="20260127180000 +0000" stop="20260127183000 +0000" channel="Vijay TV HD.starhub">
         <title>Kana Kandenadi</title>
     </programme>
@@ -4694,7 +4691,7 @@
         <title>Azhagae Azhagu</title>
     </programme>
     <programme start="20260128010000 +0000" stop="20260128013000 +0000" channel="Vijay TV HD.starhub">
-        <title>Pandian Stores Thanthai Sol Mikka Mandhiram Illai</title>
+        <title>Pandian Stores Thanthai Sol Mikka Mandhi</title>
     </programme>
     <programme start="20260128013000 +0000" stop="20260128020000 +0000" channel="Vijay TV HD.starhub">
         <title>Ayyanar Thunai</title>
@@ -4718,7 +4715,7 @@
         <title>Azhagae Azhagu</title>
     </programme>
     <programme start="20260128050000 +0000" stop="20260128053000 +0000" channel="Vijay TV HD.starhub">
-        <title>Pandian Stores Thanthai Sol Mikka Mandhiram Illai</title>
+        <title>Pandian Stores Thanthai Sol Mikka Mandhi</title>
     </programme>
     <programme start="20260128053000 +0000" stop="20260128060000 +0000" channel="Vijay TV HD.starhub">
         <title>Ayyanar Thunai</title>
@@ -4730,7 +4727,7 @@
         <title>Chinna Marumagal Panirendaam Vaguppu</title>
     </programme>
     <programme start="20260128070000 +0000" stop="20260128073000 +0000" channel="Vijay TV HD.starhub">
-        <title>Sakthivel: Theeyaai Oru Theeraakkaadhal</title>
+        <title>Sakthivel - Theeyaai Oru Theeraakkaadhal</title>
     </programme>
     <programme start="20260128073000 +0000" stop="20260128080000 +0000" channel="Vijay TV HD.starhub">
         <title>Kanmani Anbudan</title>
@@ -4739,7 +4736,7 @@
         <title>Thendrale Mella Pesu</title>
     </programme>
     <programme start="20260128083000 +0000" stop="20260128090000 +0000" channel="Vijay TV HD.starhub">
-        <title>Suttum Vizhi Sudare Oru Chinanjiru Kuyilin Kadhai</title>
+        <title>Suttum Vizhi Sudare - Oru Chinanjiru Kuyilin Kadhai</title>
     </programme>
     <programme start="20260128090000 +0000" stop="20260128093000 +0000" channel="Vijay TV HD.starhub">
         <title>Dhanam - Ungalil Oruthi</title>
@@ -4760,7 +4757,7 @@
         <title>Azhagae Azhagu</title>
     </programme>
     <programme start="20260128120000 +0000" stop="20260128123000 +0000" channel="Vijay TV HD.starhub">
-        <title>Pandian Stores Thanthai Sol Mikka Mandhiram Illai</title>
+        <title>Pandian Stores Thanthai Sol Mikka Mandhi</title>
     </programme>
     <programme start="20260128123000 +0000" stop="20260128130000 +0000" channel="Vijay TV HD.starhub">
         <title>Ayyanar Thunai</title>
@@ -5125,13 +5122,10 @@
     <programme start="20260128003000 +0000" stop="20260128031500 +0000" channel="SPOTV.starhub">
         <title>Qualifying Time Trial</title>
     </programme>
-    <programme start="20260128031500 +0000" stop="20260128053500 +0000" channel="SPOTV.starhub">
+    <programme start="20260128031500 +0000" stop="20260128060000 +0000" channel="SPOTV.starhub">
         <title>Q1/Q2/ Q Shootout</title>
     </programme>
-    <programme start="20260128053500 +0000" stop="20260128062000 +0000" channel="SPOTV.starhub">
-        <title>Day 1 Session 2</title>
-    </programme>
-    <programme start="20260128062000 +0000" stop="20260128070000 +0000" channel="SPOTV.starhub">
+    <programme start="20260128060000 +0000" stop="20260128070000 +0000" channel="SPOTV.starhub">
         <title>Day 2 Session 1</title>
     </programme>
     <programme start="20260128070000 +0000" stop="20260128090000 +0000" channel="SPOTV.starhub">
@@ -7915,7 +7909,7 @@
     <programme start="20260128103000 +0000" stop="20260128133000 +0000" channel="Asianet Movies.starhub">
         <title>Thrissur Pooram</title>
     </programme>
-    <programme start="20260128133000 +0000" stop="20260128170000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260128133000 +0000" stop="20260128163500 +0000" channel="Asianet Movies.starhub">
         <title>Christian Brothers</title>
     </programme>
     <programme start="20260127160000 +0000" stop="20260127170000 +0000" channel="Astro Warna HD.starhub">

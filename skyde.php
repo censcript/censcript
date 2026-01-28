@@ -3283,7 +3283,7 @@
 <programme start="20260128193000 +0000" stop="20260128195000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: LIVE UEFA CL</title>
 </programme>
-<programme start="20260128195000 +0000" stop="20260128220000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260128195000 +0000" stop="20260128223000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live UEFA CL: AS Monaco - Juventus Turin, Ligaphase, 8. Spieltag</title>
 </programme>
 <programme start="20260128193000 +0000" stop="20260128195000 +0000" channel="Sky Sport 2 HD.skyde">
@@ -3301,7 +3301,7 @@
 <programme start="20260128193000 +0000" stop="20260128195000 +0000" channel="Sky Sport 4 HD.skyde">
     <title>Es folgt: LIVE UEFA CL</title>
 </programme>
-<programme start="20260128195000 +0000" stop="20260128220000 +0000" channel="Sky Sport 4 HD.skyde">
+<programme start="20260128195000 +0000" stop="20260128223000 +0000" channel="Sky Sport 4 HD.skyde">
     <title>Live UEFA CL: Athletic Bilbao - Sporting Lissabon, Ligaphase, 8. Spieltag</title>
 </programme>
 <programme start="20260128193000 +0000" stop="20260128195000 +0000" channel="Sky Sport 5 HD.skyde">
