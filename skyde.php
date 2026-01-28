@@ -3181,10 +3181,10 @@
 <programme start="20260128003000 +0000" stop="20260128010000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Showtime</title>
 </programme>
-<programme start="20260128010000 +0000" stop="20260128040000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260128010000 +0000" stop="20260128035000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Milwaukee Bucks @ Philadelphia 76ers</title>
 </programme>
-<programme start="20260128040000 +0000" stop="20260128060000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260128035000 +0000" stop="20260128060000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: LA Clippers @ Utah Jazz</title>
 </programme>
 <programme start="20260128060000 +0000" stop="20260128063000 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3277,7 +3277,7 @@
 <programme start="20260128003000 +0000" stop="20260128010000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime</title>
 </programme>
-<programme start="20260128010000 +0000" stop="20260128090000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260128010000 +0000" stop="20260128040000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Milwaukee Bucks @ Philadelphia 76ers</title>
 </programme>
 <programme start="20260128193000 +0000" stop="20260128195000 +0000" channel="Sky Sport 1 HD.skyde">

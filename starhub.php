@@ -8071,26 +8071,23 @@
     <programme start="20260129100000 +0000" stop="20260129220000 +0000" channel="SPOTV2.starhub">
         <title>Day 2</title>
     </programme>
-    <programme start="20260128160000 +0000" stop="20260128161500 +0000" channel="Dragon TV.starhub">
-        <title>I LOVE SHANGHAI</title>
-    </programme>
-    <programme start="20260128161500 +0000" stop="20260128172100 +0000" channel="Dragon TV.starhub">
+    <programme start="20260128160000 +0000" stop="20260128171700 +0000" channel="Dragon TV.starhub">
         <title>Ai Romance</title>
     </programme>
-    <programme start="20260128172100 +0000" stop="20260128182000 +0000" channel="Dragon TV.starhub">
+    <programme start="20260128171700 +0000" stop="20260128181500 +0000" channel="Dragon TV.starhub">
         <title>Dragon TV Primetime News</title>
     </programme>
-    <programme start="20260128182000 +0000" stop="20260128184500 +0000" channel="Dragon TV.starhub">
+    <programme start="20260128181500 +0000" stop="20260128184000 +0000" channel="Dragon TV.starhub">
         <title>Next Station</title>
     </programme>
-    <programme start="20260128184500 +0000" stop="20260128203500 +0000" channel="Dragon TV.starhub">
+    <programme start="20260128184000 +0000" stop="20260128201200 +0000" channel="Dragon TV.starhub">
         <title>THE CITY OF MUSICALS</title>
     </programme>
-    <programme start="20260128203500 +0000" stop="20260128214400 +0000" channel="Dragon TV.starhub">
+    <programme start="20260128201200 +0000" stop="20260128210500 +0000" channel="Dragon TV.starhub">
         <title>A Green Trip</title>
     </programme>
-    <programme start="20260128214400 +0000" stop="20260128221000 +0000" channel="Dragon TV.starhub">
-        <title>I LOVE SHANGHAI</title>
+    <programme start="20260128210500 +0000" stop="20260128221000 +0000" channel="Dragon TV.starhub">
+        <title>Future China</title>
     </programme>
     <programme start="20260128221000 +0000" stop="20260128223500 +0000" channel="Dragon TV.starhub">
         <title>New Entertainment</title>
@@ -8112,9 +8109,6 @@
     </programme>
     <programme start="20260129040000 +0000" stop="20260129042700 +0000" channel="Dragon TV.starhub">
         <title>MIDDAY NEWS</title>
-    </programme>
-    <programme start="20260129042700 +0000" stop="20260129061400 +0000" channel="Dragon TV.starhub">
-        <title>Future China</title>
     </programme>
     <programme start="20260129061400 +0000" stop="20260129070400 +0000" channel="Dragon TV.starhub">
         <title>Searching for flavor</title>
