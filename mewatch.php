@@ -545,7 +545,7 @@
         <title>Insight - EP 35</title>
     </programme>
     <programme start="20260128090000 +0000" stop="20260128090200 +0000" channel="CNA.mewatch">
-        <title>Headline News 2025/2026</title>
+        <title>(Live) Headline News 2025/2026</title>
     </programme>
     <programme start="20260128090200 +0000" stop="20260128100000 +0000" channel="CNA.mewatch">
         <title>ISEAS Regional Outlook Forum - EP 2</title>
