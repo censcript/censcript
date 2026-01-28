@@ -451,11 +451,65 @@
 <programme start="20260129110000 +0000" stop="20260129120000 +0000" channel="SindoNews.vision">
 <title>SINDO Files</title>
 </programme>
+<programme start="20260127233000 +0000" stop="20260128003000 +0000" channel="Trans TV.vision">
+<title>Insert Pagi (L)</title>
+</programme>
+<programme start="20260128003000 +0000" stop="20260128013000 +0000" channel="Trans TV.vision">
+<title>CNN Indonesia Good Morning</title>
+</programme>
+<programme start="20260128013000 +0000" stop="20260128033000 +0000" channel="Trans TV.vision">
+<title>Pagi-Pagi Ambyar</title>
+</programme>
+<programme start="20260128033000 +0000" stop="20260128053000 +0000" channel="Trans TV.vision">
+<title>Insert Siang</title>
+</programme>
+<programme start="20260128053000 +0000" stop="20260128070000 +0000" channel="Trans TV.vision">
+<title>Brownis (Obrowlan Manis)</title>
+</programme>
+<programme start="20260128070000 +0000" stop="20260128080000 +0000" channel="Trans TV.vision">
+<title>Rumpi: No Secret</title>
+</programme>
+<programme start="20260128080000 +0000" stop="20260128090000 +0000" channel="Trans TV.vision">
+<title>Insert Today</title>
+</programme>
+<programme start="20260128090000 +0000" stop="20260128093000 +0000" channel="Trans TV.vision">
+<title>CNN Indonesia News Update</title>
+</programme>
+<programme start="20260128093000 +0000" stop="20260128103000 +0000" channel="Trans TV.vision">
+<title>Dream Box Indonesia</title>
+</programme>
+<programme start="20260128103000 +0000" stop="20260128114500 +0000" channel="Trans TV.vision">
+<title>Bikin Laper</title>
+</programme>
+<programme start="20260128114500 +0000" stop="20260128130000 +0000" channel="Trans TV.vision">
+<title>Insert Story</title>
+</programme>
+<programme start="20260128130000 +0000" stop="20260128140000 +0000" channel="Trans TV.vision">
+<title>Dunia Punya Cerita</title>
+</programme>
+<programme start="20260128140000 +0000" stop="20260128160000 +0000" channel="Trans TV.vision">
+<title>Bioskop Trans TV</title>
+</programme>
+<programme start="20260128160000 +0000" stop="20260128180000 +0000" channel="Trans TV.vision">
+<title>Bioskop Trans TV</title>
+</programme>
+<programme start="20260128180000 +0000" stop="20260128220000 +0000" channel="Trans TV.vision">
+<title>Pilihan Indonesia: Debat Capres</title>
+</programme>
+<programme start="20260128220000 +0000" stop="20260128233000 +0000" channel="Trans TV.vision">
+<title>Islam Itu Indah</title>
+</programme>
+<programme start="20260128233000 +0000" stop="20260129003000 +0000" channel="Trans TV.vision">
+<title>Insert Pagi (L)</title>
+</programme>
 <programme start="20260129003000 +0000" stop="20260129013000 +0000" channel="Trans TV.vision">
 <title>CNN Indonesia Good Morning</title>
 </programme>
 <programme start="20260129013000 +0000" stop="20260129033000 +0000" channel="Trans TV.vision">
 <title>Pagi-Pagi Ambyar</title>
+</programme>
+<programme start="20260129033000 +0000" stop="20260129053000 +0000" channel="Trans TV.vision">
+<title>Insert Siang</title>
 </programme>
 <programme start="20260129053000 +0000" stop="20260129070000 +0000" channel="Trans TV.vision">
 <title>Brownis (Obrowlan Manis)</title>
@@ -474,6 +528,9 @@
 </programme>
 <programme start="20260129103000 +0000" stop="20260129114500 +0000" channel="Trans TV.vision">
 <title>Bikin Laper</title>
+</programme>
+<programme start="20260129114500 +0000" stop="20260129130000 +0000" channel="Trans TV.vision">
+<title>Insert Story</title>
 </programme>
 <programme start="20260127233000 +0000" stop="20260128003000 +0000" channel="Trans 7.vision">
 <title>Spotlite</title>
@@ -615,6 +672,9 @@
 </programme>
 <programme start="20260128010000 +0000" stop="20260128023000 +0000" channel="ANTV.vision">
 <title>Baalveer Returns</title>
+</programme>
+<programme start="20260128023000 +0000" stop="20260128060000 +0000" channel="ANTV.vision">
+<title>Kuch Kuch Hota Hai</title>
 </programme>
 <programme start="20260128060000 +0000" stop="20260128083000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
@@ -1437,64 +1497,4 @@
 </programme>
 <programme start="20260128010000 +0000" stop="20260128030000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
-</programme>
-<programme start="20260128030000 +0000" stop="20260128050000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260128050000 +0000" stop="20260128070000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260128070000 +0000" stop="20260128090000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260128090000 +0000" stop="20260128110000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260128110000 +0000" stop="20260128130000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260128130000 +0000" stop="20260128150000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260128150000 +0000" stop="20260128170000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260128170000 +0000" stop="20260128190000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260128190000 +0000" stop="20260128210000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260128210000 +0000" stop="20260128230000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260128230000 +0000" stop="20260129010000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260129010000 +0000" stop="20260129030000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260129030000 +0000" stop="20260129050000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260129050000 +0000" stop="20260129070000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260129070000 +0000" stop="20260129090000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260129090000 +0000" stop="20260129110000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260129110000 +0000" stop="20260129130000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260128000000 +0000" stop="20260128030000 +0000" channel="DAAI TV.vision">
-<title>DAAI TV</title>
-</programme>
-<programme start="20260128030000 +0000" stop="20260128060000 +0000" channel="DAAI TV.vision">
-<title>DAAI TV</title>
-</programme>
-<programme start="20260128060000 +0000" stop="20260128090000 +0000" channel="DAAI TV.vision">
-<title>DAAI TV</title>
 </programme>
