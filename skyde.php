@@ -2203,86 +2203,89 @@
 <programme start="20260128222000 +0000" stop="20260128231000 +0000" channel="Sky Krimi HD.skyde">
     <title>SOKO Wien</title>
 </programme>
-<programme start="20260207233500 +0000" stop="20260208002500 +0000" channel="Sky Nature HD.skyde">
-    <title>Überleben am Amazonas</title>
+<programme start="20260127235000 +0000" stop="20260128004000 +0000" channel="Sky Nature HD.skyde">
+    <title>Große, blaue Wildnis</title>
 </programme>
-<programme start="20260208002500 +0000" stop="20260208012000 +0000" channel="Sky Nature HD.skyde">
-    <title>Die Geheimnisse der verwunschenen Gewässer</title>
+<programme start="20260128004000 +0000" stop="20260128012500 +0000" channel="Sky Nature HD.skyde">
+    <title>Große, blaue Wildnis</title>
 </programme>
-<programme start="20260208012000 +0000" stop="20260208021000 +0000" channel="Sky Nature HD.skyde">
-    <title>Die Geheimnisse der verwunschenen Gewässer</title>
+<programme start="20260128012500 +0000" stop="20260128021500 +0000" channel="Sky Nature HD.skyde">
+    <title>SaFahri - Eine Reise zu den Elementen</title>
 </programme>
-<programme start="20260208021000 +0000" stop="20260208025500 +0000" channel="Sky Nature HD.skyde">
-    <title>Die Arktis von oben</title>
+<programme start="20260128021500 +0000" stop="20260128030500 +0000" channel="Sky Nature HD.skyde">
+    <title>SaFahri - Eine Reise zu den Elementen</title>
 </programme>
-<programme start="20260208025500 +0000" stop="20260208034000 +0000" channel="Sky Nature HD.skyde">
-    <title>Die Arktis von oben</title>
+<programme start="20260128030500 +0000" stop="20260128040000 +0000" channel="Sky Nature HD.skyde">
+    <title>Kantabrien - Spaniens Zauberberge</title>
 </programme>
-<programme start="20260208034000 +0000" stop="20260208044000 +0000" channel="Sky Nature HD.skyde">
-    <title>Die Arktis von oben</title>
+<programme start="20260128040000 +0000" stop="20260128044500 +0000" channel="Sky Nature HD.skyde">
+    <title>Der XXL-Ostfriese - Unterwegs mit &quot;Knochenbrecher&quot; Tamme Hanken</title>
 </programme>
-<programme start="20260208044000 +0000" stop="20260208053000 +0000" channel="Sky Nature HD.skyde">
-    <title>Terra X: Abenteuer Namibia</title>
+<programme start="20260128044500 +0000" stop="20260128053500 +0000" channel="Sky Nature HD.skyde">
+    <title>Der XXL-Ostfriese - Unterwegs mit &quot;Knochenbrecher&quot; Tamme Hanken</title>
 </programme>
-<programme start="20260208053000 +0000" stop="20260208062000 +0000" channel="Sky Nature HD.skyde">
-    <title>Terra X: Feuer und Eis: Expedition zum Mount St. Helens</title>
+<programme start="20260128053500 +0000" stop="20260128062500 +0000" channel="Sky Nature HD.skyde">
+    <title>Unser Mittelmeer</title>
 </programme>
-<programme start="20260208062000 +0000" stop="20260208071000 +0000" channel="Sky Nature HD.skyde">
-    <title>Terra X: Abenteuer Südsee</title>
+<programme start="20260128062500 +0000" stop="20260128072000 +0000" channel="Sky Nature HD.skyde">
+    <title>Unser Mittelmeer</title>
 </programme>
-<programme start="20260208071000 +0000" stop="20260208080500 +0000" channel="Sky Nature HD.skyde">
-    <title>Leuchtfeuer des Lebens</title>
+<programme start="20260128072000 +0000" stop="20260128080500 +0000" channel="Sky Nature HD.skyde">
+    <title>Taronga Zoo Hautnah</title>
 </programme>
-<programme start="20260208080500 +0000" stop="20260208090000 +0000" channel="Sky Nature HD.skyde">
-    <title>Wildes Uganda</title>
+<programme start="20260128080500 +0000" stop="20260128085000 +0000" channel="Sky Nature HD.skyde">
+    <title>Taronga Zoo Hautnah</title>
 </programme>
-<programme start="20260208090000 +0000" stop="20260208095500 +0000" channel="Sky Nature HD.skyde">
-    <title>Das Jaguar-Paradies</title>
+<programme start="20260128085000 +0000" stop="20260128094000 +0000" channel="Sky Nature HD.skyde">
+    <title>Der XXL-Ostfriese - Unterwegs mit &quot;Knochenbrecher&quot; Tamme Hanken</title>
 </programme>
-<programme start="20260208095500 +0000" stop="20260208105000 +0000" channel="Sky Nature HD.skyde">
-    <title>Geheimnisvolles Korea</title>
+<programme start="20260128094000 +0000" stop="20260128103000 +0000" channel="Sky Nature HD.skyde">
+    <title>Der XXL-Ostfriese - Unterwegs mit &quot;Knochenbrecher&quot; Tamme Hanken</title>
 </programme>
-<programme start="20260208105000 +0000" stop="20260208114500 +0000" channel="Sky Nature HD.skyde">
-    <title>Geheimnisvolles Korea</title>
+<programme start="20260128103000 +0000" stop="20260128112500 +0000" channel="Sky Nature HD.skyde">
+    <title>Kantabrien - Spaniens Zauberberge</title>
 </programme>
-<programme start="20260208114500 +0000" stop="20260208124500 +0000" channel="Sky Nature HD.skyde">
-    <title>Die Alpen</title>
+<programme start="20260128112500 +0000" stop="20260128122000 +0000" channel="Sky Nature HD.skyde">
+    <title>Wunderwelt Pazifik &amp; Wilde Antarktis</title>
 </programme>
-<programme start="20260208124500 +0000" stop="20260208134000 +0000" channel="Sky Nature HD.skyde">
-    <title>Die Alpen</title>
+<programme start="20260128122000 +0000" stop="20260128131500 +0000" channel="Sky Nature HD.skyde">
+    <title>Traumziele Südostasiens</title>
 </programme>
-<programme start="20260208134000 +0000" stop="20260208143500 +0000" channel="Sky Nature HD.skyde">
-    <title>Das Flechtwerk des Lebens</title>
+<programme start="20260128131500 +0000" stop="20260128141000 +0000" channel="Sky Nature HD.skyde">
+    <title>Traumziele Südostasiens</title>
 </programme>
-<programme start="20260208143500 +0000" stop="20260208153000 +0000" channel="Sky Nature HD.skyde">
-    <title>Der König der Hippos</title>
+<programme start="20260128141000 +0000" stop="20260128150500 +0000" channel="Sky Nature HD.skyde">
+    <title>Unser Mittelmeer</title>
 </programme>
-<programme start="20260208153000 +0000" stop="20260208162500 +0000" channel="Sky Nature HD.skyde">
-    <title>Die große Elefanten-Geschichte</title>
+<programme start="20260128150500 +0000" stop="20260128155500 +0000" channel="Sky Nature HD.skyde">
+    <title>Unser Mittelmeer</title>
 </programme>
-<programme start="20260208162500 +0000" stop="20260208172500 +0000" channel="Sky Nature HD.skyde">
-    <title>Die Haie von Hawaii</title>
+<programme start="20260128155500 +0000" stop="20260128165000 +0000" channel="Sky Nature HD.skyde">
+    <title>Unser Mittelmeer</title>
 </programme>
-<programme start="20260208172500 +0000" stop="20260208182000 +0000" channel="Sky Nature HD.skyde">
-    <title>Die Geheimnisse der verwunschenen Gewässer</title>
+<programme start="20260128165000 +0000" stop="20260128174000 +0000" channel="Sky Nature HD.skyde">
+    <title>Unser Mittelmeer</title>
 </programme>
-<programme start="20260208182000 +0000" stop="20260208191500 +0000" channel="Sky Nature HD.skyde">
-    <title>Die Geheimnisse der verwunschenen Gewässer</title>
+<programme start="20260128174000 +0000" stop="20260128182500 +0000" channel="Sky Nature HD.skyde">
+    <title>Taronga Zoo Hautnah</title>
 </programme>
-<programme start="20260208191500 +0000" stop="20260208200500 +0000" channel="Sky Nature HD.skyde">
-    <title>Knowsley-Safari-Park - Geheime Einblicke</title>
+<programme start="20260128182500 +0000" stop="20260128191500 +0000" channel="Sky Nature HD.skyde">
+    <title>Taronga Zoo Hautnah</title>
 </programme>
-<programme start="20260208200500 +0000" stop="20260208205500 +0000" channel="Sky Nature HD.skyde">
-    <title>Knowsley-Safari-Park - Geheime Einblicke</title>
+<programme start="20260128191500 +0000" stop="20260128200500 +0000" channel="Sky Nature HD.skyde">
+    <title>Zoo und so - Tierisch wild!</title>
 </programme>
-<programme start="20260208205500 +0000" stop="20260208215500 +0000" channel="Sky Nature HD.skyde">
-    <title>Trickser im Tierreich</title>
+<programme start="20260128200500 +0000" stop="20260128205500 +0000" channel="Sky Nature HD.skyde">
+    <title>Zoo und so - Tierisch wild!</title>
 </programme>
-<programme start="20260208215500 +0000" stop="20260208224000 +0000" channel="Sky Nature HD.skyde">
-    <title>Verrückt aber wahr!</title>
+<programme start="20260128205500 +0000" stop="20260128214500 +0000" channel="Sky Nature HD.skyde">
+    <title>Zoo und so - Tierisch wild!</title>
 </programme>
-<programme start="20260208224000 +0000" stop="20260208232500 +0000" channel="Sky Nature HD.skyde">
-    <title>Verrückt aber wahr!</title>
+<programme start="20260128214500 +0000" stop="20260128223500 +0000" channel="Sky Nature HD.skyde">
+    <title>Zoo und so - Tierisch wild!</title>
+</programme>
+<programme start="20260128223500 +0000" stop="20260128231500 +0000" channel="Sky Nature HD.skyde">
+    <title>Unser Hof - Mit Cheyenne und Nino</title>
 </programme>
 <programme start="20260127234000 +0000" stop="20260128002500 +0000" channel="Sky One HD.skyde">
     <title>Watson</title>
@@ -2764,18 +2767,6 @@
 <programme start="20260128210000 +0000" stop="20260128230000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: Klassiker der Woche: HSV - FCB (2011/12)</title>
 </programme>
-<programme start="20260128000000 +0000" stop="20260128020000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
-    <title>BL: FC St. Pauli - RB Leipzig, Nachholspiel vom 16. Spieltag</title>
-</programme>
-<programme start="20260128020000 +0000" stop="20260128040000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
-    <title>BL: FC Bayern München - FC Augsburg, 19. Spieltag</title>
-</programme>
-<programme start="20260128040000 +0000" stop="20260128060000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
-    <title>BL: 1. FC Union Berlin - Borussia Dortmund, tipico Topspiel der Woche, 19. Spieltag</title>
-</programme>
-<programme start="20260128060000 +0000" stop="20260128080000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
-    <title>BL: FC St. Pauli - RB Leipzig, Nachholspiel vom 16. Spieltag</title>
-</programme>
 <programme start="20260127230000 +0000" stop="20260128010000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>IndyCar: Ontario Honda Dealers Indy Toronto</title>
 </programme>
@@ -3178,10 +3169,10 @@
 <programme start="20260128003000 +0000" stop="20260128010000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Showtime</title>
 </programme>
-<programme start="20260128010000 +0000" stop="20260128040000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260128010000 +0000" stop="20260128035000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Milwaukee Bucks @ Philadelphia 76ers</title>
 </programme>
-<programme start="20260128040000 +0000" stop="20260128060000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260128035000 +0000" stop="20260128060000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: LA Clippers @ Utah Jazz</title>
 </programme>
 <programme start="20260128060000 +0000" stop="20260128063000 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3274,7 +3265,7 @@
 <programme start="20260128003000 +0000" stop="20260128010000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime</title>
 </programme>
-<programme start="20260128010000 +0000" stop="20260128090000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260128010000 +0000" stop="20260128040000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Milwaukee Bucks @ Philadelphia 76ers</title>
 </programme>
 <programme start="20260128193000 +0000" stop="20260128195000 +0000" channel="Sky Sport 1 HD.skyde">
@@ -3294,12 +3285,6 @@
 </programme>
 <programme start="20260128195000 +0000" stop="20260128223000 +0000" channel="Sky Sport 3 HD.skyde">
     <title>Live UEFA CL: Club Brügge - Olympique Marseille, Ligaphase, 8. Spieltag</title>
-</programme>
-<programme start="20260128193000 +0000" stop="20260128195000 +0000" channel="Sky Sport 4 HD.skyde">
-    <title>Es folgt: LIVE UEFA CL</title>
-</programme>
-<programme start="20260128195000 +0000" stop="20260128223000 +0000" channel="Sky Sport 4 HD.skyde">
-    <title>Live UEFA CL: Athletic Bilbao - Sporting Lissabon, Ligaphase, 8. Spieltag</title>
 </programme>
 <programme start="20260128193000 +0000" stop="20260128195000 +0000" channel="Sky Sport 5 HD.skyde">
     <title>Es folgt: LIVE UEFA CL</title>
