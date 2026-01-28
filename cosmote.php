@@ -50,10 +50,6 @@
     <title>Football: AS Monaco FC - Juventus Football Club</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260128100000 +0700" stop="20260128120000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Genoa - Bologna</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260128120000 +0700" stop="20260128140500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: OFI - Panetolikos</title>
     <desc>Live: Tidak</desc>
@@ -108,6 +104,10 @@
 </programme>
 <programme start="20260129100500 +0700" stop="20260129120000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Sassuolo - Cremonese</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260129120000 +0700" stop="20260129141000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Olympiacos - Volos</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260128110000 +0700" stop="20260128125500 +0700" channel="COSMOTE Sport 3 HD">
@@ -218,6 +218,10 @@
     <title>Basketball: Armani Milano - Varese</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260129125500 +0700" stop="20260129145000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Rio Breogan - Real Madrid</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260128110000 +0700" stop="20260128130500 +0700" channel="COSMOTE Sport 5 HD">
     <title>2025 Extreme H</title>
     <desc>Live: Tidak</desc>
@@ -293,6 +297,10 @@
 <programme start="20260129093000 +0700" stop="20260129123000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Basketball: Houston Rockets - San Antonio Spurs (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20260129123000 +0700" stop="20260129135500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>DTM 2025</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260128110000 +0700" stop="20260128131500 +0700" channel="COSMOTE Sport 6 HD">
     <title>Volleyball: Cucine Lube Civitanova - Leuven</title>
