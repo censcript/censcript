@@ -8054,7 +8054,7 @@
         <title>1993 Donington 500cc</title>
     </programme>
     <programme start="20260128000000 +0000" stop="20260128003000 +0000" channel="SPOTV2.starhub">
-        <title>2025/26 ALM Mini Match Rd 13 Western Sydney Wanderers FC vs Newcastle Jets FC</title>
+        <title>2025/26 ALM Mini Match Rd 13 Perth Glory vs Brisbane Roar FC</title>
     </programme>
     <programme start="20260128003000 +0000" stop="20260128010000 +0000" channel="SPOTV2.starhub">
         <title>Marc Marquez: All on Red</title>
