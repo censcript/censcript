@@ -275,25 +275,10 @@
     <title lang="id">Interview :24</title>
   </programme>
   <programme start="20260131003000 +0000" stop="20260131005500 +0000" channel=":24.webtv.sk">
-    <title lang="id">Z prvej ruky</title>
-  </programme>
-  <programme start="20260131005500 +0000" stop="20260131012500 +0000" channel=":24.webtv.sk">
     <title lang="id">Týždeň v ekonomike</title>
   </programme>
-  <programme start="20260131012500 +0000" stop="20260131015500 +0000" channel=":24.webtv.sk">
-    <title lang="id">Reportéri</title>
-  </programme>
-  <programme start="20260131015500 +0000" stop="20260131022000 +0000" channel=":24.webtv.sk">
-    <title lang="id">Cez lupu</title>
-  </programme>
-  <programme start="20260131022000 +0000" stop="20260131031500 +0000" channel=":24.webtv.sk">
-    <title lang="id">Správy</title>
-  </programme>
-  <programme start="20260131031500 +0000" stop="20260131033000 +0000" channel=":24.webtv.sk">
-    <title lang="id">Góly - body - sekundy</title>
-  </programme>
-  <programme start="20260131033000 +0000" stop="20260131040000 +0000" channel=":24.webtv.sk">
-    <title lang="id">Interview :24</title>
+  <programme start="20260131005500 +0000" stop="20260131035500 +0000" channel=":24.webtv.sk">
+    <title lang="id">Záznam z rokovania NR SR</title>
   </programme>
   <programme start="20260131040000 +0000" stop="20260131042500 +0000" channel=":24.webtv.sk">
     <title lang="id">Svet :24</title>
