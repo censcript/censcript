@@ -1,7 +1,3 @@
-<programme start="20260129093000 +0700" stop="20260129113000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: Pafos FC - SK Slavia Praha</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260129113000 +0700" stop="20260129133000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: AS Monaco FC - Juventus Football Club</title>
     <desc>Live: Tidak</desc>
@@ -58,10 +54,6 @@
     <title>Football: Lille OSC - SC Freiburg</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260129100500 +0700" stop="20260129120000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Sassuolo - Cremonese</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260129120000 +0700" stop="20260129141000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Olympiacos - Volos</title>
     <desc>Live: Tidak</desc>
@@ -116,6 +108,10 @@
 </programme>
 <programme start="20260130100000 +0700" stop="20260130120000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Como - Torino</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260130120000 +0700" stop="20260130141500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: AEL Novibet - Panserraikos</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260129110000 +0700" stop="20260129130000 +0700" channel="COSMOTE Sport 3 HD">
@@ -318,6 +314,14 @@
     <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260130120500 +0700" stop="20260130125000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260130125000 +0700" stop="20260130135500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260129110000 +0700" stop="20260129130000 +0700" channel="COSMOTE Sport 6 HD">
     <title>2025 Premier Padel World Cup Pairs</title>
     <desc>Live: Tidak</desc>
@@ -384,6 +388,14 @@
 </programme>
 <programme start="20260130110000 +0700" stop="20260130120000 +0700" channel="COSMOTE Sport 6 HD">
     <title>ATP 2025 - Review</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260130120000 +0700" stop="20260130125500 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Sports Classics: 2025 Outdoor Specials</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260130125500 +0700" stop="20260130132500 +0700" channel="COSMOTE Sport 6 HD">
+    <title>HYROX - The World of Fitness Racing E5</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260129110000 +0700" stop="20260129130000 +0700" channel="COSMOTE Sport 7 HD">

@@ -2646,10 +2646,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260129220000 +0000" stop="20260129230000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Live UEFA EL: Analyse</title>
 </programme>
-<programme start="20260129193000 +0000" stop="20260129195000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20260129184000 +0000" stop="20260129190000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: UEFA Europa League</title>
 </programme>
-<programme start="20260129195000 +0000" stop="20260129220000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20260129190000 +0000" stop="20260129195000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+    <title>Live Die UEFA Europa League am Donnerstag: Vorbericht</title>
+</programme>
+<programme start="20260129195000 +0000" stop="20260129223000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live UEFA EL: SK Sturm Graz - SK Brann Bergen, Ligaphase, 8. Spieltag</title>
 </programme>
 <programme start="20260129193000 +0000" stop="20260129195000 +0000" channel="Sky Sport Austria 3 HD.skyde">
@@ -2661,7 +2664,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260129193000 +0000" stop="20260129195000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Es folgt: UEFA Europa League</title>
 </programme>
-<programme start="20260129195000 +0000" stop="20260129220000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+<programme start="20260129195000 +0000" stop="20260129223000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live UEFA EL: VfB Stuttgart - Young Boys Bern, Ligaphase, 8. Spieltag</title>
 </programme>
 <programme start="20260129193000 +0000" stop="20260129195000 +0000" channel="Sky Sport Austria 5 HD.skyde">
@@ -2673,19 +2676,19 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260129193000 +0000" stop="20260129195000 +0000" channel="Sky Sport Austria 6 HD.skyde">
     <title>Es folgt: UEFA Europa League</title>
 </programme>
-<programme start="20260129195000 +0000" stop="20260129220000 +0000" channel="Sky Sport Austria 6 HD.skyde">
+<programme start="20260129195000 +0000" stop="20260129223000 +0000" channel="Sky Sport Austria 6 HD.skyde">
     <title>Live UEFA EL: Nottingham Forest - Ferencvaros Budapest, Ligaphase, 8. Spieltag</title>
 </programme>
 <programme start="20260129193000 +0000" stop="20260129195000 +0000" channel="Sky Sport Austria 7 HD.skyde">
     <title>Es folgt: UEFA Europa League</title>
 </programme>
-<programme start="20260129195000 +0000" stop="20260129220000 +0000" channel="Sky Sport Austria 7 HD.skyde">
+<programme start="20260129195000 +0000" stop="20260129223000 +0000" channel="Sky Sport Austria 7 HD.skyde">
     <title>Live UEFA EL: Celtic Glasgow - FC Utrecht, Ligaphase, 8. Spieltag</title>
 </programme>
 <programme start="20260129193000 +0000" stop="20260129195000 +0000" channel="Sky Sport Austria 8 HD.skyde">
     <title>Es folgt: UEFA Europa League</title>
 </programme>
-<programme start="20260129195000 +0000" stop="20260129220000 +0000" channel="Sky Sport Austria 8 HD.skyde">
+<programme start="20260129195000 +0000" stop="20260129223000 +0000" channel="Sky Sport Austria 8 HD.skyde">
     <title>Live UEFA EL: LOSC Lille - SC Freiburg, Ligaphase, 8. Spieltag</title>
 </programme>
 <programme start="20260128230000 +0000" stop="20260128233000 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -3288,7 +3291,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260129193000 +0000" stop="20260129195000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Es folgt: LIVE UEFA EL</title>
 </programme>
-<programme start="20260129195000 +0000" stop="20260129220000 +0000" channel="Sky Sport 2 HD.skyde">
+<programme start="20260129195000 +0000" stop="20260129223000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live UEFA EL: FC Midtjylland - Dinamo Zagreb, Ligaphase, 8. Spieltag</title>
 </programme>
 <programme start="20260129193000 +0000" stop="20260129195000 +0000" channel="Sky Sport 3 HD.skyde">
@@ -3300,7 +3303,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260129193000 +0000" stop="20260129195000 +0000" channel="Sky Sport 4 HD.skyde">
     <title>Es folgt: LIVE UEFA EL</title>
 </programme>
-<programme start="20260129195000 +0000" stop="20260129220000 +0000" channel="Sky Sport 4 HD.skyde">
+<programme start="20260129195000 +0000" stop="20260129223000 +0000" channel="Sky Sport 4 HD.skyde">
     <title>Live UEFA EL: FCSB - Fenerbahce Istanbul, Ligaphase, 8. Spieltag</title>
 </programme>
 <programme start="20260129193000 +0000" stop="20260129195000 +0000" channel="Sky Sport 5 HD.skyde">
