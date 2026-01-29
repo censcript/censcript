@@ -1,7 +1,3 @@
-<programme start="20260129140000 +0700" stop="20260129160000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: FC Barcelona - FC Copenhagen</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260129160000 +0700" stop="20260129180000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: AFC Ajax - Olympiacos</title>
     <desc>Live: Tidak</desc>
@@ -122,6 +118,10 @@
     <title>Sports Classics: Football&#039;s Greatest IV E8</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260130160000 +0700" stop="20260130180000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: SK Sturm Graz - SK Brann</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260129143000 +0700" stop="20260129163000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Manchester City FC - Galatasaray AS</title>
     <desc>Live: Tidak</desc>
@@ -234,8 +234,8 @@
     <title>Pick n&#039; Roll</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260129135500 +0700" stop="20260129154000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>DTM 2025</title>
+<programme start="20260130164000 +0700" stop="20260130170000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>ACB Liga Endesa 2025-26 - Fifth Quarter E16</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260129154000 +0700" stop="20260129163500 +0700" channel="COSMOTE Sport 5 HD">
@@ -330,8 +330,8 @@
     <title>WRC 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260129130000 +0700" stop="20260129153000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>2025 Premier Padel World Cup Pairs</title>
+<programme start="20260130163000 +0700" stop="20260130173000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260129153000 +0700" stop="20260129172000 +0700" channel="COSMOTE Sport 6 HD">
