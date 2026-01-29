@@ -1930,9 +1930,324 @@
 <programme start="20260129153000 +0000" stop="20260129160000 +0000" channel="Celestial Movies.mncvision">
     <title>The Last Tycoon</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260128170000 +0000" stop="20260128180000 +0000" channel="CGTN.mncvision">
+    <title>Africa Live</title>
+</programme>
+<programme start="20260128180000 +0000" stop="20260128190000 +0000" channel="CGTN.mncvision">
+    <title>Global Business</title>
+</programme>
+<programme start="20260128190000 +0000" stop="20260128193000 +0000" channel="CGTN.mncvision">
+    <title>The World Today</title>
+</programme>
+<programme start="20260128193000 +0000" stop="20260128200000 +0000" channel="CGTN.mncvision">
+    <title>World Insight With Tian Wei</title>
+</programme>
+<programme start="20260128200000 +0000" stop="20260128203000 +0000" channel="CGTN.mncvision">
+    <title>The World Today</title>
+</programme>
+<programme start="20260128203000 +0000" stop="20260128210000 +0000" channel="CGTN.mncvision">
+    <title>Dialogue</title>
+</programme>
+<programme start="20260128210000 +0000" stop="20260128213000 +0000" channel="CGTN.mncvision">
+    <title>Global Business</title>
+</programme>
+<programme start="20260128213000 +0000" stop="20260128220000 +0000" channel="CGTN.mncvision">
+    <title>The Point With Liu Xin</title>
+</programme>
+<programme start="20260128220000 +0000" stop="20260128223000 +0000" channel="CGTN.mncvision">
+    <title>The World Today</title>
+</programme>
+<programme start="20260128223000 +0000" stop="20260128230000 +0000" channel="CGTN.mncvision">
+    <title>Rediscovering China</title>
+</programme>
+<programme start="20260128230000 +0000" stop="20260128233000 +0000" channel="CGTN.mncvision">
+    <title>The Heat</title>
+</programme>
+<programme start="20260128233000 +0000" stop="20260129000000 +0000" channel="CGTN.mncvision">
+    <title>The World Today</title>
+</programme>
+<programme start="20260129000000 +0000" stop="20260129010000 +0000" channel="CGTN.mncvision">
+    <title>Global Business</title>
+</programme>
+<programme start="20260129010000 +0000" stop="20260129013000 +0000" channel="CGTN.mncvision">
+    <title>The World Today</title>
+</programme>
+<programme start="20260129013000 +0000" stop="20260129020000 +0000" channel="CGTN.mncvision">
+    <title>China 24</title>
+</programme>
+<programme start="20260129020000 +0000" stop="20260129023000 +0000" channel="CGTN.mncvision">
+    <title>The World Today</title>
+</programme>
+<programme start="20260129023000 +0000" stop="20260129030000 +0000" channel="CGTN.mncvision">
+    <title>World Insight With Tian Wei</title>
+</programme>
+<programme start="20260129030000 +0000" stop="20260129031500 +0000" channel="CGTN.mncvision">
+    <title>The World Today</title>
+</programme>
+<programme start="20260129031500 +0000" stop="20260129033000 +0000" channel="CGTN.mncvision">
+    <title>Sports Scene</title>
+</programme>
+<programme start="20260129033000 +0000" stop="20260129040000 +0000" channel="CGTN.mncvision">
+    <title>The Hub With Wang Guan</title>
+</programme>
+<programme start="20260129040000 +0000" stop="20260129050000 +0000" channel="CGTN.mncvision">
+    <title>Global Watch</title>
+</programme>
+<programme start="20260129050000 +0000" stop="20260129051500 +0000" channel="CGTN.mncvision">
+    <title>The World Today</title>
+</programme>
+<programme start="20260129051500 +0000" stop="20260129053000 +0000" channel="CGTN.mncvision">
+    <title>Sports Scene</title>
+</programme>
+<programme start="20260129053000 +0000" stop="20260129060000 +0000" channel="CGTN.mncvision">
+    <title>Rediscovering China</title>
+</programme>
+<programme start="20260129060000 +0000" stop="20260129063000 +0000" channel="CGTN.mncvision">
+    <title>The World Today</title>
+</programme>
+<programme start="20260129063000 +0000" stop="20260129070000 +0000" channel="CGTN.mncvision">
+    <title>The Heat</title>
+</programme>
+<programme start="20260129070000 +0000" stop="20260129073000 +0000" channel="CGTN.mncvision">
+    <title>The World Today</title>
+</programme>
+<programme start="20260129073000 +0000" stop="20260129080000 +0000" channel="CGTN.mncvision">
+    <title>Sports Scene</title>
+</programme>
+<programme start="20260129080000 +0000" stop="20260129081500 +0000" channel="CGTN.mncvision">
+    <title>The World Today</title>
+</programme>
+<programme start="20260129081500 +0000" stop="20260129090000 +0000" channel="CGTN.mncvision">
+    <title>Global Business</title>
+</programme>
+<programme start="20260129090000 +0000" stop="20260129093000 +0000" channel="CGTN.mncvision">
+    <title>The World Today</title>
+</programme>
+<programme start="20260129093000 +0000" stop="20260129100000 +0000" channel="CGTN.mncvision">
+    <title>The Vibe</title>
+</programme>
+<programme start="20260129100000 +0000" stop="20260129101500 +0000" channel="CGTN.mncvision">
+    <title>The World Today</title>
+</programme>
+<programme start="20260129101500 +0000" stop="20260129110000 +0000" channel="CGTN.mncvision">
+    <title>Africa Live</title>
+</programme>
+<programme start="20260129110000 +0000" stop="20260129113000 +0000" channel="CGTN.mncvision">
+    <title>Asia Today</title>
+</programme>
+<programme start="20260129113000 +0000" stop="20260129120000 +0000" channel="CGTN.mncvision">
+    <title>Dialogue</title>
+</programme>
+<programme start="20260129120000 +0000" stop="20260129121500 +0000" channel="CGTN.mncvision">
+    <title>The World Today</title>
+</programme>
+<programme start="20260129121500 +0000" stop="20260129130000 +0000" channel="CGTN.mncvision">
+    <title>China 24</title>
+</programme>
+<programme start="20260129130000 +0000" stop="20260129133000 +0000" channel="CGTN.mncvision">
+    <title>Global Business</title>
+</programme>
+<programme start="20260129133000 +0000" stop="20260129140000 +0000" channel="CGTN.mncvision">
+    <title>The Hub With Wang Guan</title>
+</programme>
+<programme start="20260129140000 +0000" stop="20260129143000 +0000" channel="CGTN.mncvision">
+    <title>The World Today</title>
+</programme>
+<programme start="20260129143000 +0000" stop="20260129150000 +0000" channel="CGTN.mncvision">
+    <title>World Insight With Tian Wei</title>
+</programme>
+<programme start="20260129150000 +0000" stop="20260129153000 +0000" channel="CGTN.mncvision">
+    <title>The World Today</title>
+</programme>
+<programme start="20260129153000 +0000" stop="20260129160000 +0000" channel="CGTN.mncvision">
+    <title>The Vibe</title>
+</programme>
+<programme start="20260129160000 +0000" stop="20260129163000 +0000" channel="CGTN.mncvision">
+    <title>Global Business</title>
+</programme>
+<programme start="20260128170000 +0000" stop="20260128173000 +0000" channel="CGTN Documentary.mncvision">
+    <title>Unsung Triumphs Of Song, Ep 1</title>
+</programme>
+<programme start="20260128173000 +0000" stop="20260128180000 +0000" channel="CGTN Documentary.mncvision">
+    <title>Tigers In The Sky, Ep 1</title>
+</programme>
+<programme start="20260128180000 +0000" stop="20260128190000 +0000" channel="CGTN Documentary.mncvision">
+    <title>Eat Like The Locals</title>
+</programme>
+<programme start="20260128190000 +0000" stop="20260128193000 +0000" channel="CGTN Documentary.mncvision">
+    <title>Zeal Gen. Z In Yunnan</title>
+</programme>
+<programme start="20260128193000 +0000" stop="20260128200000 +0000" channel="CGTN Documentary.mncvision">
+    <title>Story Of Tsering</title>
+</programme>
+<programme start="20260128200000 +0000" stop="20260128210000 +0000" channel="CGTN Documentary.mncvision">
+    <title>Wall Of Memories, Ep 1</title>
+</programme>
+<programme start="20260128210000 +0000" stop="20260128213000 +0000" channel="CGTN Documentary.mncvision">
+    <title>Poetry Sans Frontiers S1, Ep 2</title>
+</programme>
+<programme start="20260128213000 +0000" stop="20260128220000 +0000" channel="CGTN Documentary.mncvision">
+    <title>25 Years On: Strong..., Ep 1</title>
+</programme>
+<programme start="20260128220000 +0000" stop="20260128230000 +0000" channel="CGTN Documentary.mncvision">
+    <title>Peking Man, The Last Secrets...</title>
+</programme>
+<programme start="20260128230000 +0000" stop="20260128233000 +0000" channel="CGTN Documentary.mncvision">
+    <title>Unsung Triumphs Of Song, Ep 2</title>
+</programme>
+<programme start="20260128233000 +0000" stop="20260129000000 +0000" channel="CGTN Documentary.mncvision">
+    <title>Tigers In The Sky, Ep 2</title>
+</programme>
+<programme start="20260129000000 +0000" stop="20260129010000 +0000" channel="CGTN Documentary.mncvision">
+    <title>Eat Like The Locals</title>
+</programme>
+<programme start="20260129010000 +0000" stop="20260129013000 +0000" channel="CGTN Documentary.mncvision">
+    <title>Love Story Of Beijing..., Ep 1</title>
+</programme>
+<programme start="20260129013000 +0000" stop="20260129020000 +0000" channel="CGTN Documentary.mncvision">
+    <title>Story Of Tsering</title>
+</programme>
+<programme start="20260129020000 +0000" stop="20260129030000 +0000" channel="CGTN Documentary.mncvision">
+    <title>Wall Of Memories, Ep 1</title>
+</programme>
+<programme start="20260129030000 +0000" stop="20260129033000 +0000" channel="CGTN Documentary.mncvision">
+    <title>Poetry Sans Frontiers S1, Ep 2</title>
+</programme>
+<programme start="20260129033000 +0000" stop="20260129040000 +0000" channel="CGTN Documentary.mncvision">
+    <title>25 Years On: Strong..., Ep 1</title>
+</programme>
+<programme start="20260129040000 +0000" stop="20260129050000 +0000" channel="CGTN Documentary.mncvision">
+    <title>Peking Man, The Last Secrets...</title>
+</programme>
+<programme start="20260129050000 +0000" stop="20260129053000 +0000" channel="CGTN Documentary.mncvision">
+    <title>Unsung Triumphs Of Song, Ep 2</title>
+</programme>
+<programme start="20260129053000 +0000" stop="20260129060000 +0000" channel="CGTN Documentary.mncvision">
+    <title>Tigers In The Sky, Ep 2</title>
+</programme>
+<programme start="20260129060000 +0000" stop="20260129070000 +0000" channel="CGTN Documentary.mncvision">
+    <title>Eat Like The Locals</title>
+</programme>
+<programme start="20260129070000 +0000" stop="20260129073000 +0000" channel="CGTN Documentary.mncvision">
+    <title>Love Story Of Beijing..., Ep 1</title>
+</programme>
+<programme start="20260129073000 +0000" stop="20260129080000 +0000" channel="CGTN Documentary.mncvision">
+    <title>Story Of Tsering</title>
+</programme>
+<programme start="20260129080000 +0000" stop="20260129090000 +0000" channel="CGTN Documentary.mncvision">
+    <title>Wall Of Memories, Ep 1</title>
+</programme>
+<programme start="20260129090000 +0000" stop="20260129093000 +0000" channel="CGTN Documentary.mncvision">
+    <title>Poetry Sans Frontiers S1, Ep 2</title>
+</programme>
+<programme start="20260129093000 +0000" stop="20260129100000 +0000" channel="CGTN Documentary.mncvision">
+    <title>25 Years On: Strong..., Ep 1</title>
+</programme>
+<programme start="20260129100000 +0000" stop="20260129110000 +0000" channel="CGTN Documentary.mncvision">
+    <title>Peking Man, The Last Secrets...</title>
+</programme>
+<programme start="20260129110000 +0000" stop="20260129113000 +0000" channel="CGTN Documentary.mncvision">
+    <title>Unsung Triumphs Of Song, Ep 2</title>
+</programme>
+<programme start="20260129113000 +0000" stop="20260129120000 +0000" channel="CGTN Documentary.mncvision">
+    <title>Tigers In The Sky, Ep 2</title>
+</programme>
+<programme start="20260129120000 +0000" stop="20260129130000 +0000" channel="CGTN Documentary.mncvision">
+    <title>Eat Like The Locals</title>
+</programme>
+<programme start="20260129130000 +0000" stop="20260129133000 +0000" channel="CGTN Documentary.mncvision">
+    <title>Love Story Of Beijing..., Ep 1</title>
+</programme>
+<programme start="20260129133000 +0000" stop="20260129140000 +0000" channel="CGTN Documentary.mncvision">
+    <title>Story Of Tsering</title>
+</programme>
+<programme start="20260129140000 +0000" stop="20260129150000 +0000" channel="CGTN Documentary.mncvision">
+    <title>Wall Of Memories, Ep 1</title>
+</programme>
+<programme start="20260129150000 +0000" stop="20260129153000 +0000" channel="CGTN Documentary.mncvision">
+    <title>Poetry Sans Frontiers S1, Ep 2</title>
+</programme>
+<programme start="20260129153000 +0000" stop="20260129160000 +0000" channel="CGTN Documentary.mncvision">
+    <title>25 Years On: Strong..., Ep 1</title>
+</programme>
+<programme start="20260129160000 +0000" stop="20260129163000 +0000" channel="CGTN Documentary.mncvision">
+    <title>Peking Man, The Last Secrets...</title>
+</programme>
+<programme start="20260128170000 +0000" stop="20260128180000 +0000" channel="Channel News Asia.mncvision">
+    <title>The Mark Of Empire, Ep 2</title>
+</programme>
+<programme start="20260128180000 +0000" stop="20260128190000 +0000" channel="Channel News Asia.mncvision">
+    <title>Singapore Tonight</title>
+</programme>
+<programme start="20260128190000 +0000" stop="20260128200000 +0000" channel="Channel News Asia.mncvision">
+    <title>The Mark Of Empire, Ep 1</title>
+</programme>
+<programme start="20260128200000 +0000" stop="20260128210000 +0000" channel="Channel News Asia.mncvision">
+    <title>Asia Tonight</title>
+</programme>
+<programme start="20260128210000 +0000" stop="20260128213000 +0000" channel="Channel News Asia.mncvision">
+    <title>Money Mind, Ep 36</title>
+</programme>
+<programme start="20260128213000 +0000" stop="20260128220000 +0000" channel="Channel News Asia.mncvision">
+    <title>CNA Correspondent, Ep 33</title>
+</programme>
+<programme start="20260128220000 +0000" stop="20260128230000 +0000" channel="Channel News Asia.mncvision">
+    <title>Singapore Tonight</title>
+</programme>
+<programme start="20260128230000 +0000" stop="20260129020000 +0000" channel="Channel News Asia.mncvision">
+    <title>Asia First</title>
+</programme>
+<programme start="20260129020000 +0000" stop="20260129023000 +0000" channel="Channel News Asia.mncvision">
+    <title>Money Mind, Ep 36</title>
+</programme>
+<programme start="20260129023000 +0000" stop="20260129030000 +0000" channel="Channel News Asia.mncvision">
+    <title>CNA Correspondent, Ep 33</title>
+</programme>
+<programme start="20260129030000 +0000" stop="20260129050000 +0000" channel="Channel News Asia.mncvision">
+    <title>Asia Now</title>
+</programme>
+<programme start="20260129050000 +0000" stop="20260129060000 +0000" channel="Channel News Asia.mncvision">
+    <title>The Mark Of Empire, Ep 4</title>
+</programme>
+<programme start="20260129060000 +0000" stop="20260129080000 +0000" channel="Channel News Asia.mncvision">
+    <title>Asia Now</title>
+</programme>
+<programme start="20260129080000 +0000" stop="20260129090000 +0000" channel="Channel News Asia.mncvision">
+    <title>Singapore Hour, Ep 30</title>
+</programme>
+<programme start="20260129090000 +0000" stop="20260129090200 +0000" channel="Channel News Asia.mncvision">
+    <title>Headline News</title>
+</programme>
+<programme start="20260129090200 +0000" stop="20260129100000 +0000" channel="Channel News Asia.mncvision">
+    <title>The Mark Of Empire, Ep 2</title>
+</programme>
+<programme start="20260129100000 +0000" stop="20260129110000 +0000" channel="Channel News Asia.mncvision">
+    <title>East Asia Tonight</title>
+</programme>
+<programme start="20260129110000 +0000" stop="20260129120000 +0000" channel="Channel News Asia.mncvision">
+    <title>The Mark Of Empire, Ep 3</title>
+</programme>
+<programme start="20260129120000 +0000" stop="20260129130000 +0000" channel="Channel News Asia.mncvision">
+    <title>Asia Tonight</title>
+</programme>
+<programme start="20260129130000 +0000" stop="20260129140000 +0000" channel="Channel News Asia.mncvision">
+    <title>Insight, Ep 36</title>
+</programme>
+<programme start="20260129140000 +0000" stop="20260129150000 +0000" channel="Channel News Asia.mncvision">
+    <title>Singapore Tonight</title>
+</programme>
+<programme start="20260129150000 +0000" stop="20260129153000 +0000" channel="Channel News Asia.mncvision">
+    <title>Money Mind, Ep 36</title>
+</programme>
+<programme start="20260129153000 +0000" stop="20260129160000 +0000" channel="Channel News Asia.mncvision">
+    <title>CNA Correspondent, Ep 33</title>
+</programme>
+<programme start="20260129160000 +0000" stop="20260129160300 +0000" channel="Channel News Asia.mncvision">
+    <title>Headline News</title>
+</programme>
+<programme start="20260129160300 +0000" stop="20260129163300 +0000" channel="Channel News Asia.mncvision">
+    <title>East Asia Tonight</title>
+</programme>
 <programme start="20260128170200 +0000" stop="20260128184100 +0000" channel="CINEEDGE.mncvision">
     <title>Direct Action</title>
 </programme>
@@ -2068,7 +2383,93 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260129160000 +0000" stop="20260129163000 +0000" channel="CNBC.mncvision">
     <title>Money Movers</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260128172000 +0000" stop="20260128181500 +0000" channel="Crime Investigation.mncvision">
+    <title>After The First 48 S14, Ep 92</title>
+</programme>
+<programme start="20260128181500 +0000" stop="20260128191000 +0000" channel="Crime Investigation.mncvision">
+    <title>Accused: Did I Do It?, Ep 7</title>
+</programme>
+<programme start="20260128191000 +0000" stop="20260128200500 +0000" channel="Crime Investigation.mncvision">
+    <title>Cold Case Files S3, Ep 44</title>
+</programme>
+<programme start="20260128200500 +0000" stop="20260128210000 +0000" channel="Crime Investigation.mncvision">
+    <title>Cold Case Files S3, Ep 44</title>
+</programme>
+<programme start="20260128210000 +0000" stop="20260128220000 +0000" channel="Crime Investigation.mncvision">
+    <title>Cold Case Files: Bayou, Ep 6</title>
+</programme>
+<programme start="20260128220000 +0000" stop="20260128222500 +0000" channel="Crime Investigation.mncvision">
+    <title>Court Cam S5, Ep 134</title>
+</programme>
+<programme start="20260128222500 +0000" stop="20260128225000 +0000" channel="Crime Investigation.mncvision">
+    <title>Court Cam S5, Ep 135</title>
+</programme>
+<programme start="20260128225000 +0000" stop="20260128234500 +0000" channel="Crime Investigation.mncvision">
+    <title>The First 48 S25, Ep 501</title>
+</programme>
+<programme start="20260128234500 +0000" stop="20260129004000 +0000" channel="Crime Investigation.mncvision">
+    <title>Accused: Guilty Or... S5, Ep 1</title>
+</programme>
+<programme start="20260129004000 +0000" stop="20260129013500 +0000" channel="Crime Investigation.mncvision">
+    <title>Cold Case Files S3, Ep 44</title>
+</programme>
+<programme start="20260129013500 +0000" stop="20260129023000 +0000" channel="Crime Investigation.mncvision">
+    <title>Cold Case Files S3, Ep 44</title>
+</programme>
+<programme start="20260129023000 +0000" stop="20260129032500 +0000" channel="Crime Investigation.mncvision">
+    <title>Cold Case Files: Bayou, Ep 6</title>
+</programme>
+<programme start="20260129032500 +0000" stop="20260129042000 +0000" channel="Crime Investigation.mncvision">
+    <title>The First 48 S24, Ep 508</title>
+</programme>
+<programme start="20260129042000 +0000" stop="20260129051500 +0000" channel="Crime Investigation.mncvision">
+    <title>After The First 48 S14, Ep 92</title>
+</programme>
+<programme start="20260129051500 +0000" stop="20260129061000 +0000" channel="Crime Investigation.mncvision">
+    <title>Accused: Did I Do It?, Ep 7</title>
+</programme>
+<programme start="20260129061000 +0000" stop="20260129063500 +0000" channel="Crime Investigation.mncvision">
+    <title>Court Cam S5, Ep 134</title>
+</programme>
+<programme start="20260129063500 +0000" stop="20260129070500 +0000" channel="Crime Investigation.mncvision">
+    <title>Court Cam S5, Ep 135</title>
+</programme>
+<programme start="20260129070500 +0000" stop="20260129080000 +0000" channel="Crime Investigation.mncvision">
+    <title>The First 48 S25, Ep 501</title>
+</programme>
+<programme start="20260129080000 +0000" stop="20260129085500 +0000" channel="Crime Investigation.mncvision">
+    <title>Accused: Guilty Or... S5, Ep 1</title>
+</programme>
+<programme start="20260129085500 +0000" stop="20260129094500 +0000" channel="Crime Investigation.mncvision">
+    <title>Cold Case Files S3, Ep 45</title>
+</programme>
+<programme start="20260129094500 +0000" stop="20260129103500 +0000" channel="Crime Investigation.mncvision">
+    <title>Witness To Murder, Ep 1</title>
+</programme>
+<programme start="20260129103500 +0000" stop="20260129112500 +0000" channel="Crime Investigation.mncvision">
+    <title>Witness To Murder, Ep 6</title>
+</programme>
+<programme start="20260129112500 +0000" stop="20260129121500 +0000" channel="Crime Investigation.mncvision">
+    <title>Cold Case Files: DNA, Ep 4</title>
+</programme>
+<programme start="20260129121500 +0000" stop="20260129130500 +0000" channel="Crime Investigation.mncvision">
+    <title>Booked: First Day In S2, Ep 7</title>
+</programme>
+<programme start="20260129130500 +0000" stop="20260129135500 +0000" channel="Crime Investigation.mncvision">
+    <title>Lie Detector: Truth Or..., Ep 5</title>
+</programme>
+<programme start="20260129135500 +0000" stop="20260129144500 +0000" channel="Crime Investigation.mncvision">
+    <title>Beyond The Headlines, Ep 4</title>
+</programme>
+<programme start="20260129144500 +0000" stop="20260129153500 +0000" channel="Crime Investigation.mncvision">
+    <title>Interrogation Raw S2, Ep 12</title>
+</programme>
+<programme start="20260129153500 +0000" stop="20260129162500 +0000" channel="Crime Investigation.mncvision">
+    <title>Evil Up Close S6, Ep 7</title>
+</programme>
+<programme start="20260129162500 +0000" stop="20260129165500 +0000" channel="Crime Investigation.mncvision">
+    <title>Lie Detector: Truth Or..., Ep 5</title>
+</programme>
 <programme start="20260128171000 +0000" stop="20260128173500 +0000" channel="Dreamworks.mncvision">
     <title>Trollhunters: Tales Of Arcadia</title>
 </programme>
@@ -2369,7 +2770,156 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260129123500 +0000" stop="20260129130500 +0000" channel="Dreamworks HD.mncvision">
     <title>Spirit Riding Free: Academy</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260128170000 +0000" stop="20260128171500 +0000" channel="DW English.mncvision">
+    <title>DW News</title>
+</programme>
+<programme start="20260128171500 +0000" stop="20260128173000 +0000" channel="DW English.mncvision">
+    <title>Planet A: Hidden Problem</title>
+</programme>
+<programme start="20260128173000 +0000" stop="20260128180000 +0000" channel="DW English.mncvision">
+    <title>Close Up: Expedition Atlantic</title>
+</programme>
+<programme start="20260128180000 +0000" stop="20260128183000 +0000" channel="DW English.mncvision">
+    <title>DW News</title>
+</programme>
+<programme start="20260128183000 +0000" stop="20260128190000 +0000" channel="DW English.mncvision">
+    <title>DocFilm</title>
+</programme>
+<programme start="20260128190000 +0000" stop="20260128190200 +0000" channel="DW English.mncvision">
+    <title>DW News</title>
+</programme>
+<programme start="20260128190200 +0000" stop="20260128193000 +0000" channel="DW English.mncvision">
+    <title>In Good Shape: Childbirth To...</title>
+</programme>
+<programme start="20260128193000 +0000" stop="20260128200000 +0000" channel="DW English.mncvision">
+    <title>The 77 Percent: Africa&#039;s Youth</title>
+</programme>
+<programme start="20260128200000 +0000" stop="20260128203000 +0000" channel="DW English.mncvision">
+    <title>DW News</title>
+</programme>
+<programme start="20260128203000 +0000" stop="20260128210000 +0000" channel="DW English.mncvision">
+    <title>The Day: News In Review</title>
+</programme>
+<programme start="20260128210000 +0000" stop="20260128210200 +0000" channel="DW English.mncvision">
+    <title>DW News</title>
+</programme>
+<programme start="20260128210200 +0000" stop="20260128211500 +0000" channel="DW English.mncvision">
+    <title>Planet A: Hidden Problem</title>
+</programme>
+<programme start="20260128211500 +0000" stop="20260128220000 +0000" channel="DW English.mncvision">
+    <title>DocFilm</title>
+</programme>
+<programme start="20260128220000 +0000" stop="20260128220200 +0000" channel="DW English.mncvision">
+    <title>DW News</title>
+</programme>
+<programme start="20260128220200 +0000" stop="20260128223000 +0000" channel="DW English.mncvision">
+    <title>The Day: News In Review</title>
+</programme>
+<programme start="20260128223000 +0000" stop="20260128230000 +0000" channel="DW English.mncvision">
+    <title>Made In Germany: As Spain...</title>
+</programme>
+<programme start="20260128230000 +0000" stop="20260128231500 +0000" channel="DW English.mncvision">
+    <title>DW News</title>
+</programme>
+<programme start="20260128231500 +0000" stop="20260128233000 +0000" channel="DW English.mncvision">
+    <title>Planet A: Hidden Problem</title>
+</programme>
+<programme start="20260128233000 +0000" stop="20260129000000 +0000" channel="DW English.mncvision">
+    <title>Focus On Europe: Spotlight</title>
+</programme>
+<programme start="20260129000000 +0000" stop="20260129000200 +0000" channel="DW English.mncvision">
+    <title>DW News</title>
+</programme>
+<programme start="20260129000200 +0000" stop="20260129003000 +0000" channel="DW English.mncvision">
+    <title>The Day: News In Review</title>
+</programme>
+<programme start="20260129003000 +0000" stop="20260129010000 +0000" channel="DW English.mncvision">
+    <title>Arts Unveiled: Courage And Risk</title>
+</programme>
+<programme start="20260129010000 +0000" stop="20260129011500 +0000" channel="DW English.mncvision">
+    <title>DW News</title>
+</programme>
+<programme start="20260129011500 +0000" stop="20260129020000 +0000" channel="DW English.mncvision">
+    <title>DocFilm</title>
+</programme>
+<programme start="20260129020000 +0000" stop="20260129020200 +0000" channel="DW English.mncvision">
+    <title>DW News</title>
+</programme>
+<programme start="20260129020200 +0000" stop="20260129023000 +0000" channel="DW English.mncvision">
+    <title>The Day: News In Review</title>
+</programme>
+<programme start="20260129023000 +0000" stop="20260129030000 +0000" channel="DW English.mncvision">
+    <title>Made In Germany: As Spain...</title>
+</programme>
+<programme start="20260129030000 +0000" stop="20260129031500 +0000" channel="DW English.mncvision">
+    <title>DW News</title>
+</programme>
+<programme start="20260129031500 +0000" stop="20260129033000 +0000" channel="DW English.mncvision">
+    <title>Planet A: Hidden Problem</title>
+</programme>
+<programme start="20260129033000 +0000" stop="20260129040000 +0000" channel="DW English.mncvision">
+    <title>Eco India: Feeding Resilience</title>
+</programme>
+<programme start="20260129040000 +0000" stop="20260129041500 +0000" channel="DW English.mncvision">
+    <title>DW News</title>
+</programme>
+<programme start="20260129041500 +0000" stop="20260129050000 +0000" channel="DW English.mncvision">
+    <title>DocFilm</title>
+</programme>
+<programme start="20260129050000 +0000" stop="20260129050200 +0000" channel="DW English.mncvision">
+    <title>DW News</title>
+</programme>
+<programme start="20260129050200 +0000" stop="20260129053000 +0000" channel="DW English.mncvision">
+    <title>The Day: News In Review</title>
+</programme>
+<programme start="20260129053000 +0000" stop="20260129060000 +0000" channel="DW English.mncvision">
+    <title>Focus On Europe: Spotlight</title>
+</programme>
+<programme start="20260129060000 +0000" stop="20260129061500 +0000" channel="DW English.mncvision">
+    <title>DW News</title>
+</programme>
+<programme start="20260129061500 +0000" stop="20260129063000 +0000" channel="DW English.mncvision">
+    <title>Planet A: Hidden Problem</title>
+</programme>
+<programme start="20260129063000 +0000" stop="20260129070000 +0000" channel="DW English.mncvision">
+    <title>DocFilm</title>
+</programme>
+<programme start="20260129070000 +0000" stop="20260129071500 +0000" channel="DW English.mncvision">
+    <title>DW News</title>
+</programme>
+<programme start="20260129071500 +0000" stop="20260129080000 +0000" channel="DW English.mncvision">
+    <title>DocFilm</title>
+</programme>
+<programme start="20260129080000 +0000" stop="20260129081500 +0000" channel="DW English.mncvision">
+    <title>DW News</title>
+</programme>
+<programme start="20260129081500 +0000" stop="20260129083000 +0000" channel="DW English.mncvision">
+    <title>HER: Women In Asia</title>
+</programme>
+<programme start="20260129083000 +0000" stop="20260129090000 +0000" channel="DW English.mncvision">
+    <title>Focus On Europe: Spotlight</title>
+</programme>
+<programme start="20260129090000 +0000" stop="20260129091500 +0000" channel="DW English.mncvision">
+    <title>DW News</title>
+</programme>
+<programme start="20260129091500 +0000" stop="20260129100000 +0000" channel="DW English.mncvision">
+    <title>DocFilm</title>
+</programme>
+<programme start="20260129100000 +0000" stop="20260129101500 +0000" channel="DW English.mncvision">
+    <title>DW News</title>
+</programme>
+<programme start="20260129101500 +0000" stop="20260129110000 +0000" channel="DW English.mncvision">
+    <title>DocFilm</title>
+</programme>
+<programme start="20260129110000 +0000" stop="20260129111500 +0000" channel="DW English.mncvision">
+    <title>DW News</title>
+</programme>
+<programme start="20260129111500 +0000" stop="20260129113000 +0000" channel="DW English.mncvision">
+    <title>Choices: Dare To dream</title>
+</programme>
+<programme start="20260129113000 +0000" stop="20260129120000 +0000" channel="DW English.mncvision">
+    <title>Focus On Europe: Spotlight</title>
+</programme>
 <programme start="20260128180000 +0000" stop="20260128190000 +0000" channel="Entertainment.mncvision">
     <title>OK Show</title>
 </programme>
@@ -3384,7 +3934,60 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260129164500 +0000" stop="20260128171500 +0000" channel="Global Trekker HD.mncvision">
     <title>Arthur: Life With Royal Family</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260128170000 +0000" stop="20260128180000 +0000" channel="GTV.mncvision">
+    <title>Jelajah Mitos</title>
+</programme>
+<programme start="20260128180000 +0000" stop="20260128190000 +0000" channel="GTV.mncvision">
+    <title>Crime KV</title>
+</programme>
+<programme start="20260128190000 +0000" stop="20260128200000 +0000" channel="GTV.mncvision">
+    <title>Naik Enak Turun Ogah</title>
+</programme>
+<programme start="20260128200000 +0000" stop="20260128220000 +0000" channel="GTV.mncvision">
+    <title>Awas Ada Sule</title>
+</programme>
+<programme start="20260128220000 +0000" stop="20260128230000 +0000" channel="GTV.mncvision">
+    <title>Kisah Viral</title>
+</programme>
+<programme start="20260128230000 +0000" stop="20260129000000 +0000" channel="GTV.mncvision">
+    <title>SpongeBob SquarePants</title>
+</programme>
+<programme start="20260129000000 +0000" stop="20260129010000 +0000" channel="GTV.mncvision">
+    <title>Obrolan Seputar Selebriti</title>
+</programme>
+<programme start="20260129010000 +0000" stop="20260129013000 +0000" channel="GTV.mncvision">
+    <title>Buletin iNews Pagi</title>
+</programme>
+<programme start="20260129013000 +0000" stop="20260129020000 +0000" channel="GTV.mncvision">
+    <title>CoComelon Dan Sahabat</title>
+</programme>
+<programme start="20260129020000 +0000" stop="20260129023000 +0000" channel="GTV.mncvision">
+    <title>Bernard Bear</title>
+</programme>
+<programme start="20260129023000 +0000" stop="20260129050000 +0000" channel="GTV.mncvision">
+    <title>SpongeBob SquarePants</title>
+</programme>
+<programme start="20260129050000 +0000" stop="20260129073000 +0000" channel="GTV.mncvision">
+    <title>SpongeBob SquarePants</title>
+</programme>
+<programme start="20260129073000 +0000" stop="20260129093000 +0000" channel="GTV.mncvision">
+    <title>SpongeBob SquarePants</title>
+</programme>
+<programme start="20260129093000 +0000" stop="20260129110000 +0000" channel="GTV.mncvision">
+    <title>SpongeBob SquarePants</title>
+</programme>
+<programme start="20260129110000 +0000" stop="20260129130000 +0000" channel="GTV.mncvision">
+    <title>Desert Dragon</title>
+</programme>
+<programme start="20260129130000 +0000" stop="20260129150000 +0000" channel="GTV.mncvision">
+    <title>The River Monster</title>
+</programme>
+<programme start="20260129150000 +0000" stop="20260129160000 +0000" channel="GTV.mncvision">
+    <title>The Slayer Of Darkness</title>
+</programme>
+<programme start="20260129160000 +0000" stop="20260129163000 +0000" channel="GTV.mncvision">
+    <title>12 Hari</title>
+</programme>
 <programme start="20260128170000 +0000" stop="20260128180000 +0000" channel="GTV HD.mncvision">
     <title>Jelajah Mitos</title>
 </programme>
@@ -3718,7 +4321,33 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260129143000 +0000" stop="20260129150000 +0000" channel="HITS MOVIES.mncvision">
     <title>Torn Curtain</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260128184500 +0000" stop="20260128213000 +0000" channel="HITS MOVIES HD.mncvision">
+    <title>All The President&#039;s Men</title>
+</programme>
+<programme start="20260128213000 +0000" stop="20260129000000 +0000" channel="HITS MOVIES HD.mncvision">
+    <title>Ocean&#039;s Twelve</title>
+</programme>
+<programme start="20260129000000 +0000" stop="20260129020000 +0000" channel="HITS MOVIES HD.mncvision">
+    <title>The Magnificent Seven Ride!</title>
+</programme>
+<programme start="20260129020000 +0000" stop="20260129044500 +0000" channel="HITS MOVIES HD.mncvision">
+    <title>L.A. Confidential</title>
+</programme>
+<programme start="20260129044500 +0000" stop="20260129073000 +0000" channel="HITS MOVIES HD.mncvision">
+    <title>All The President&#039;s Men</title>
+</programme>
+<programme start="20260129073000 +0000" stop="20260129100000 +0000" channel="HITS MOVIES HD.mncvision">
+    <title>Ocean&#039;s Twelve</title>
+</programme>
+<programme start="20260129100000 +0000" stop="20260129120000 +0000" channel="HITS MOVIES HD.mncvision">
+    <title>The Magnificent Seven Ride!</title>
+</programme>
+<programme start="20260129120000 +0000" stop="20260129143000 +0000" channel="HITS MOVIES HD.mncvision">
+    <title>Inside Man</title>
+</programme>
+<programme start="20260129143000 +0000" stop="20260129150000 +0000" channel="HITS MOVIES HD.mncvision">
+    <title>Torn Curtain</title>
+</programme>
 <programme start="20260128173000 +0000" stop="20260128183000 +0000" channel="IDX.mncvision">
     <title>Prime Market Highlight</title>
 </programme>
@@ -4973,7 +5602,75 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260129163500 +0000" stop="20260128170500 +0000" channel="Love Nature HD.mncvision">
     <title>Jaguar Journals S1, Ep 4</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260128174000 +0000" stop="20260128184500 +0000" channel="MDTV.mncvision">
+    <title>Jatanras</title>
+</programme>
+<programme start="20260128184500 +0000" stop="20260128193000 +0000" channel="MDTV.mncvision">
+    <title>86</title>
+</programme>
+<programme start="20260128193000 +0000" stop="20260128202000 +0000" channel="MDTV.mncvision">
+    <title>Inilah Kisahnya</title>
+</programme>
+<programme start="20260128202000 +0000" stop="20260128212000 +0000" channel="MDTV.mncvision">
+    <title>Di Balik Mitos</title>
+</programme>
+<programme start="20260128212000 +0000" stop="20260128222500 +0000" channel="MDTV.mncvision">
+    <title>Keajaiban Dunia</title>
+</programme>
+<programme start="20260128222500 +0000" stop="20260128234000 +0000" channel="MDTV.mncvision">
+    <title>Top Spot</title>
+</programme>
+<programme start="20260128234000 +0000" stop="20260129010000 +0000" channel="MDTV.mncvision">
+    <title>AADD: Ada Apa Dengan Dunia</title>
+</programme>
+<programme start="20260129010000 +0000" stop="20260129020000 +0000" channel="MDTV.mncvision">
+    <title>Fakta +62</title>
+</programme>
+<programme start="20260129020000 +0000" stop="20260129030000 +0000" channel="MDTV.mncvision">
+    <title>SensasiHot</title>
+</programme>
+<programme start="20260129030000 +0000" stop="20260129041500 +0000" channel="MDTV.mncvision">
+    <title>Rosalinda</title>
+</programme>
+<programme start="20260129041500 +0000" stop="20260129054000 +0000" channel="MDTV.mncvision">
+    <title>Maria Mercedes</title>
+</programme>
+<programme start="20260129054000 +0000" stop="20260129065000 +0000" channel="MDTV.mncvision">
+    <title>Cinta Fitri S6</title>
+</programme>
+<programme start="20260129065000 +0000" stop="20260129075500 +0000" channel="MDTV.mncvision">
+    <title>Makan Enak</title>
+</programme>
+<programme start="20260129075500 +0000" stop="20260129085500 +0000" channel="MDTV.mncvision">
+    <title>Masak Gesss!!!</title>
+</programme>
+<programme start="20260129085500 +0000" stop="20260129095000 +0000" channel="MDTV.mncvision">
+    <title>Adit Sopo Jarwo</title>
+</programme>
+<programme start="20260129095000 +0000" stop="20260129103500 +0000" channel="MDTV.mncvision">
+    <title>Cinta Paulina</title>
+</programme>
+<programme start="20260129103500 +0000" stop="20260129113000 +0000" channel="MDTV.mncvision">
+    <title>Maria Cinta Yang Hilang</title>
+</programme>
+<programme start="20260129113000 +0000" stop="20260129123000 +0000" channel="MDTV.mncvision">
+    <title>Betty La Fea</title>
+</programme>
+<programme start="20260129123000 +0000" stop="20260129133000 +0000" channel="MDTV.mncvision">
+    <title>Pernikahan Dini Gen Z</title>
+</programme>
+<programme start="20260129133000 +0000" stop="20260129143000 +0000" channel="MDTV.mncvision">
+    <title>Ipar Adalah Maut: The Series</title>
+</programme>
+<programme start="20260129143000 +0000" stop="20260129152500 +0000" channel="MDTV.mncvision">
+    <title>Kisah Untuk Geri</title>
+</programme>
+<programme start="20260129152500 +0000" stop="20260129162500 +0000" channel="MDTV.mncvision">
+    <title>Clean With Passion For Now</title>
+</programme>
+<programme start="20260129162500 +0000" stop="20260129165500 +0000" channel="MDTV.mncvision">
+    <title>The World Of The Married</title>
+</programme>
 <programme start="20260128170000 +0000" stop="20260128170500 +0000" channel="Metro TV.mncvision">
     <title>Headline News</title>
 </programme>

@@ -649,71 +649,62 @@
     <programme start="20260129160000 +0000" stop="20260129170000 +0000" channel="now-80s.mewatch">
         <title>Phil Collins : 1981-1989 - EP1</title>
     </programme>
-    <programme start="20260128160000 +0000" stop="20260128162500 +0000" channel="now-70s.mewatch">
-        <title>Who Won Wot in 1977? - EP1</title>
+    <programme start="20260128160000 +0000" stop="20260128170000 +0000" channel="now-70s.mewatch">
+        <title>American No.1s of 1974 - EP1</title>
     </programme>
-    <programme start="20260128162500 +0000" stop="20260128172500 +0000" channel="now-70s.mewatch">
-        <title>All Day - It&#039;s 1977! - EP1</title>
+    <programme start="20260128170000 +0000" stop="20260128180000 +0000" channel="now-70s.mewatch">
+        <title>American No.1s of 1975 - EP1</title>
     </programme>
-    <programme start="20260128172500 +0000" stop="20260128202000 +0000" channel="now-70s.mewatch">
-        <title>The NOW Yearbook 1977 - EP1</title>
+    <programme start="20260128180000 +0000" stop="20260128190000 +0000" channel="now-70s.mewatch">
+        <title>American No.1s of 1976 - EP1</title>
     </programme>
-    <programme start="20260128202000 +0000" stop="20260128202500 +0000" channel="now-70s.mewatch">
-        <title>All Day - It&#039;s 1977! - EP1</title>
+    <programme start="20260128190000 +0000" stop="20260128200000 +0000" channel="now-70s.mewatch">
+        <title>American No.1s of 1977 - EP1</title>
     </programme>
-    <programme start="20260128202500 +0000" stop="20260128210000 +0000" channel="now-70s.mewatch">
-        <title>The 1977 POWER Hour with Bam! - EP1</title>
+    <programme start="20260128200000 +0000" stop="20260128210000 +0000" channel="now-70s.mewatch">
+        <title>American No.1s of 1978 - EP1</title>
     </programme>
-    <programme start="20260128210000 +0000" stop="20260128230000 +0000" channel="now-70s.mewatch">
-        <title>Pat Sharp&#039;s Bad Hair - Big Tunes! - EP1</title>
+    <programme start="20260128210000 +0000" stop="20260128220000 +0000" channel="now-70s.mewatch">
+        <title>American No.1s of 1979 - EP1</title>
     </programme>
-    <programme start="20260128230000 +0000" stop="20260129000000 +0000" channel="now-70s.mewatch">
-        <title>Let The Good Times Roll! - EP1</title>
+    <programme start="20260128220000 +0000" stop="20260128230000 +0000" channel="now-70s.mewatch">
+        <title>John, Paul, George &amp; Ringo! - EP1</title>
     </programme>
-    <programme start="20260129000000 +0000" stop="20260129012500 +0000" channel="now-70s.mewatch">
-        <title>20 Truckin&#039; Good Tunes! - EP1</title>
+    <programme start="20260128230000 +0000" stop="20260129010000 +0000" channel="now-70s.mewatch">
+        <title>Rick Wakeman&#039;s WILD Things! - EP1</title>
     </programme>
-    <programme start="20260129012500 +0000" stop="20260129020000 +0000" channel="now-70s.mewatch">
-        <title>Let The Good Times Roll! - EP1</title>
+    <programme start="20260129010000 +0000" stop="20260129020000 +0000" channel="now-70s.mewatch">
+        <title>Far Out, Man! - EP1</title>
     </programme>
-    <programme start="20260129020000 +0000" stop="20260129034000 +0000" channel="now-70s.mewatch">
-        <title>More Forgotten Feelgood Faves! - EP1</title>
+    <programme start="20260129020000 +0000" stop="20260129043000 +0000" channel="now-70s.mewatch">
+        <title>The Complete Abba! 1973-2022 - EP1</title>
     </programme>
-    <programme start="20260129034000 +0000" stop="20260129040000 +0000" channel="now-70s.mewatch">
-        <title>Magic Moments! The 70s - EP1</title>
+    <programme start="20260129043000 +0000" stop="20260129050000 +0000" channel="now-70s.mewatch">
+        <title>Retro Rewind! 70s Edition - EP1</title>
     </programme>
-    <programme start="20260129040000 +0000" stop="20260129060000 +0000" channel="now-70s.mewatch">
-        <title>Tony Blackburn&#039;s Pop Pin-Ups! - EP1</title>
+    <programme start="20260129050000 +0000" stop="20260129073000 +0000" channel="now-70s.mewatch">
+        <title>Hamilton&#039;s Million Sellers! 70-79 - EP1</title>
     </programme>
-    <programme start="20260129060000 +0000" stop="20260129080000 +0000" channel="now-70s.mewatch">
-        <title>Bubblegum Pop! Top 30 - EP1</title>
+    <programme start="20260129073000 +0000" stop="20260129080000 +0000" channel="now-70s.mewatch">
+        <title>Non-Stop 70s Number 1s! - EP1</title>
     </programme>
-    <programme start="20260129080000 +0000" stop="20260129093000 +0000" channel="now-70s.mewatch">
-        <title>At The Copa! Top 25 - EP1</title>
-    </programme>
-    <programme start="20260129093000 +0000" stop="20260129095500 +0000" channel="now-70s.mewatch">
-        <title>1979 Unleashed! - EP1</title>
-    </programme>
-    <programme start="20260129095500 +0000" stop="20260129103000 +0000" channel="now-70s.mewatch">
-        <title>Who Won Wot in 1977? - EP1</title>
-    </programme>
-    <programme start="20260129103000 +0000" stop="20260129115000 +0000" channel="now-70s.mewatch">
-        <title>Mike Read&#039;s Pop Quiz: 1979 - EP1</title>
-    </programme>
-    <programme start="20260129115000 +0000" stop="20260129120000 +0000" channel="now-70s.mewatch">
-        <title>1979 Unleashed! - EP1</title>
-    </programme>
-    <programme start="20260129120000 +0000" stop="20260129150000 +0000" channel="now-70s.mewatch">
+    <programme start="20260129080000 +0000" stop="20260129110000 +0000" channel="now-70s.mewatch">
         <title>Top of the 70s Charts - EP1</title>
     </programme>
-    <programme start="20260129150000 +0000" stop="20260129154500 +0000" channel="now-70s.mewatch">
-        <title>Mark Goodier&#039;s No.1s of 1972 - EP1</title>
+    <programme start="20260129110000 +0000" stop="20260129123500 +0000" channel="now-70s.mewatch">
+        <title>Bruno Brookes UK Top 20 of the 70s - EP1</title>
     </programme>
-    <programme start="20260129154500 +0000" stop="20260129160000 +0000" channel="now-70s.mewatch">
-        <title>1972 Unleashed! - EP1</title>
+    <programme start="20260129123500 +0000" stop="20260129130000 +0000" channel="now-70s.mewatch">
+        <title>1970 Unleashed! - EP1</title>
     </programme>
-    <programme start="20260129160000 +0000" stop="20260129171500 +0000" channel="now-70s.mewatch">
-        <title>Mike Read&#039;s Pop Quiz: 1979 - EP1</title>
+    <programme start="20260129130000 +0000" stop="20260129150000 +0000" channel="now-70s.mewatch">
+        <title>Art School Cool! 1970-79 - EP1</title>
+    </programme>
+    <programme start="20260129150000 +0000" stop="20260129160000 +0000" channel="now-70s.mewatch">
+        <title>1979 Unleashed! - EP1</title>
+    </programme>
+    <programme start="20260129160000 +0000" stop="20260129183000 +0000" channel="now-70s.mewatch">
+        <title>Hamilton&#039;s Million Sellers! 70-79 - EP1</title>
     </programme>
     <programme start="20260128151500 +0000" stop="20260128170500 +0000" channel="cinemaworld.mewatch">
         <title>A House In Jerusalem</title>
