@@ -23,7 +23,7 @@
 <title>3 Hati 1 Cinta</title>
 </programme>
 <programme start="20260129100000 +0000" stop="20260129113000 +0000" channel="RCTI.vision">
-<title>Aira</title>
+<title>Aira (RCTI)</title>
 </programme>
 <programme start="20260129113000 +0000" stop="20260129131500 +0000" channel="RCTI.vision">
 <title>Mencintai Ipar Sendiri (RCTI)</title>
@@ -68,7 +68,7 @@
 <title>Bosku Cintaku</title>
 </programme>
 <programme start="20260130100000 +0000" stop="20260130113000 +0000" channel="RCTI.vision">
-<title>Aira</title>
+<title>Aira (RCTI)</title>
 </programme>
 <programme start="20260130113000 +0000" stop="20260130131500 +0000" channel="RCTI.vision">
 <title>Mencintai Ipar Sendiri (RCTI)</title>
@@ -648,15 +648,6 @@
 </programme>
 <programme start="20260129083000 +0000" stop="20260129130000 +0000" channel="ANTV.vision">
 <title>Vasudha</title>
-</programme>
-<programme start="20260129130000 +0000" stop="20260129143000 +0000" channel="ANTV.vision">
-<title>Malam Jumat Kliwon</title>
-</programme>
-<programme start="20260129143000 +0000" stop="20260129163000 +0000" channel="ANTV.vision">
-<title>Srigala</title>
-</programme>
-<programme start="20260129163000 +0000" stop="20260129180000 +0000" channel="ANTV.vision">
-<title>Rumah Kentang: The Beginning</title>
 </programme>
 <programme start="20260129180000 +0000" stop="20260129190000 +0000" channel="ANTV.vision">
 <title>The Man From Hongkong</title>
@@ -1496,5 +1487,14 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260129210000 +0000" stop="20260129230000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260129230000 +0000" stop="20260130010000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260130010000 +0000" stop="20260130030000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260130030000 +0000" stop="20260130050000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>

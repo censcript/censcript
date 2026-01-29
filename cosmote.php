@@ -70,6 +70,14 @@
     <title>Game R1 S6 E23</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260131040000 +0700" stop="20260131043000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEFA Champions League Magazine 2024-25 E18</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260131043000 +0700" stop="20260131053000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEFA Champions League Highlights 2025-26</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260130030000 +0700" stop="20260130050500 +0700" channel="COSMOTE Sport 2 HD">
     <title>European Football Show Greek Edition 2025-26 (L)</title>
     <desc>Live: Ya</desc>
@@ -133,6 +141,10 @@
 <programme start="20260131024500 +0700" stop="20260131044500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: SS Lazio - Genoa (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20260131044500 +0700" stop="20260131064500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: FC Porto - Rangers FC</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260130030000 +0700" stop="20260130050500 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Panathinaikos - AS Roma (L)</title>
@@ -262,6 +274,10 @@
     <title>Basketball: Armani Milano - Varese</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260131043000 +0700" stop="20260131064000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: AEK - Alba Berlin</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260130030000 +0700" stop="20260130050500 +0700" channel="COSMOTE Sport 5 HD">
     <title>Football: Nottingham F. - Ferencvarosi TC (L)</title>
     <desc>Live: Ya</desc>
@@ -358,6 +374,10 @@
     <title>WRC</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260131045000 +0700" stop="20260131055500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>2025 Extreme H</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260130030000 +0700" stop="20260130050500 +0700" channel="COSMOTE Sport 6 HD">
     <title>Football: FK Crvena Zvezda - Celta (L)</title>
     <desc>Live: Ya</desc>
@@ -416,6 +436,10 @@
 </programme>
 <programme start="20260131020000 +0700" stop="20260131043000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Volleyball: Panathinaikos - Crvena Zvezda Beograd</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260131043000 +0700" stop="20260131070000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Volleyball: Olympiacos - Allianz Powervolley Milano</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260130030000 +0700" stop="20260130050500 +0700" channel="COSMOTE Sport 7 HD">
