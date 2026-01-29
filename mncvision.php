@@ -1765,132 +1765,8 @@
 <programme start="20260129002500 +0000" stop="20260129005500 +0000" channel="CBeebies.mncvision">
     <title>Aneeshwar &amp; Lizzie Go..., Ep 9</title>
 </programme>
-<programme start="20260128182500 +0000" stop="20260128195000 +0000" channel="CCM.mncvision">
-    <title>Gang Master</title>
-</programme>
-<programme start="20260128195000 +0000" stop="20260128220000 +0000" channel="CCM.mncvision">
-    <title>The Adulteress</title>
-</programme>
-<programme start="20260128220000 +0000" stop="20260128235000 +0000" channel="CCM.mncvision">
-    <title>Brothers Five</title>
-</programme>
-<programme start="20260128235000 +0000" stop="20260129013500 +0000" channel="CCM.mncvision">
-    <title>Diary Of A Lady-Killer</title>
-</programme>
-<programme start="20260129013500 +0000" stop="20260129033000 +0000" channel="CCM.mncvision">
-    <title>Golden Swallow</title>
-</programme>
-<programme start="20260129033000 +0000" stop="20260129060000 +0000" channel="CCM.mncvision">
-    <title>Boxer Rebellion</title>
-</programme>
-<programme start="20260129060000 +0000" stop="20260129080000 +0000" channel="CCM.mncvision">
-    <title>That Man In Chang-An</title>
-</programme>
-<programme start="20260129080000 +0000" stop="20260129094000 +0000" channel="CCM.mncvision">
-    <title>My Son</title>
-</programme>
-<programme start="20260129094000 +0000" stop="20260129112000 +0000" channel="CCM.mncvision">
-    <title>The Twin Swords</title>
-</programme>
-<programme start="20260129112000 +0000" stop="20260129130000 +0000" channel="CCM.mncvision">
-    <title>Sex, Love And Hate</title>
-</programme>
-<programme start="20260129130000 +0000" stop="20260129145000 +0000" channel="CCM.mncvision">
-    <title>Two Champions Of Shaolin</title>
-</programme>
-<programme start="20260129145000 +0000" stop="20260129162500 +0000" channel="CCM.mncvision">
-    <title>Torrent Of Desire</title>
-</programme>
-<programme start="20260129162500 +0000" stop="20260129165500 +0000" channel="CCM.mncvision">
-    <title>Lady Of The Law</title>
-</programme>
-<programme start="20260128170000 +0000" stop="20260128180000 +0000" channel="Celebrities TV.mncvision">
-    <title>K.O.P.I: Kupas Obrolan Masa...</title>
-</programme>
-<programme start="20260128180000 +0000" stop="20260128190000 +0000" channel="Celebrities TV.mncvision">
-    <title>Cecepy: Cewek-Cewek Bikin...</title>
-</programme>
-<programme start="20260128190000 +0000" stop="20260128200000 +0000" channel="Celebrities TV.mncvision">
-    <title>Hotman Paris Show</title>
-</programme>
-<programme start="20260128200000 +0000" stop="20260128210000 +0000" channel="Celebrities TV.mncvision">
-    <title>iSeleb</title>
-</programme>
-<programme start="20260128210000 +0000" stop="20260128213000 +0000" channel="Celebrities TV.mncvision">
-    <title>Celebrity Top 10</title>
-</programme>
-<programme start="20260128213000 +0000" stop="20260128220000 +0000" channel="Celebrities TV.mncvision">
-    <title>Seleb On News</title>
-</programme>
-<programme start="20260128220000 +0000" stop="20260128230000 +0000" channel="Celebrities TV.mncvision">
-    <title>Investigasi Selebriti</title>
-</programme>
-<programme start="20260128230000 +0000" stop="20260129000000 +0000" channel="Celebrities TV.mncvision">
-    <title>Silet</title>
-</programme>
-<programme start="20260129000000 +0000" stop="20260129010000 +0000" channel="Celebrities TV.mncvision">
-    <title>iSeleb</title>
-</programme>
-<programme start="20260129010000 +0000" stop="20260129020000 +0000" channel="Celebrities TV.mncvision">
-    <title>K.O.P.I: Kupas Obrolan Masa...</title>
-</programme>
-<programme start="20260129020000 +0000" stop="20260129023000 +0000" channel="Celebrities TV.mncvision">
-    <title>Seleb On News</title>
-</programme>
-<programme start="20260129023000 +0000" stop="20260129033000 +0000" channel="Celebrities TV.mncvision">
-    <title>Go Spot</title>
-</programme>
-<programme start="20260129033000 +0000" stop="20260129040000 +0000" channel="Celebrities TV.mncvision">
-    <title>Obrolan Seputar Selebriti</title>
-</programme>
-<programme start="20260129040000 +0000" stop="20260129050000 +0000" channel="Celebrities TV.mncvision">
-    <title>Cecepy: Cewek-Cewek Bikin...</title>
-</programme>
-<programme start="20260129050000 +0000" stop="20260129060000 +0000" channel="Celebrities TV.mncvision">
-    <title>Cinta Yasmin</title>
-</programme>
-<programme start="20260129060000 +0000" stop="20260129070000 +0000" channel="Celebrities TV.mncvision">
-    <title>Go Spot</title>
-</programme>
-<programme start="20260129070000 +0000" stop="20260129080000 +0000" channel="Celebrities TV.mncvision">
-    <title>Silet</title>
-</programme>
-<programme start="20260129080000 +0000" stop="20260129090000 +0000" channel="Celebrities TV.mncvision">
-    <title>Investigasi Selebriti</title>
-</programme>
-<programme start="20260129090000 +0000" stop="20260129100000 +0000" channel="Celebrities TV.mncvision">
-    <title>Hotman Paris Show</title>
-</programme>
-<programme start="20260129100000 +0000" stop="20260129103000 +0000" channel="Celebrities TV.mncvision">
-    <title>Obrolan Seputar Selebriti</title>
-</programme>
-<programme start="20260129103000 +0000" stop="20260129110000 +0000" channel="Celebrities TV.mncvision">
-    <title>Seleb On News</title>
-</programme>
-<programme start="20260129110000 +0000" stop="20260129120000 +0000" channel="Celebrities TV.mncvision">
-    <title>iSeleb</title>
-</programme>
-<programme start="20260129120000 +0000" stop="20260129123000 +0000" channel="Celebrities TV.mncvision">
-    <title>Celebrity Files</title>
-</programme>
-<programme start="20260129123000 +0000" stop="20260129133000 +0000" channel="Celebrities TV.mncvision">
-    <title>Silet</title>
-</programme>
-<programme start="20260129133000 +0000" stop="20260129143000 +0000" channel="Celebrities TV.mncvision">
-    <title>Investigasi Selebriti</title>
-</programme>
-<programme start="20260129143000 +0000" stop="20260129153000 +0000" channel="Celebrities TV.mncvision">
-    <title>Go Spot</title>
-</programme>
-<programme start="20260129153000 +0000" stop="20260129160000 +0000" channel="Celebrities TV.mncvision">
-    <title>Obrolan Seputar Selebriti</title>
-</programme>
-<programme start="20260129160000 +0000" stop="20260129163000 +0000" channel="Celebrities TV.mncvision">
-    <title>Celebrity Files</title>
-</programme>
-<programme start="20260129163000 +0000" stop="20260128170000 +0000" channel="Celebrities TV.mncvision">
-    <title>Seleb On News</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260128172400 +0000" stop="20260128185300 +0000" channel="Celestial Movies.mncvision">
     <title>Dummy Mommy, Without A Baby</title>
 </programme>
@@ -7942,60 +7818,7 @@
 <programme start="20260129163000 +0000" stop="20260128170000 +0000" channel="Soccer Channel HD.mncvision">
     <title>ACL Elite: SHP Vs VIS</title>
 </programme>
-<programme start="20260128180000 +0000" stop="20260128203000 +0000" channel="Sportstars.mncvision">
-    <title>Daihatsu Indonesia Masters</title>
-</programme>
-<programme start="20260128203000 +0000" stop="20260128210000 +0000" channel="Sportstars.mncvision">
-    <title>iNews Sport</title>
-</programme>
-<programme start="20260128210000 +0000" stop="20260128230000 +0000" channel="Sportstars.mncvision">
-    <title>SEA Games Thailand: Volleyball</title>
-</programme>
-<programme start="20260128230000 +0000" stop="20260128233000 +0000" channel="Sportstars.mncvision">
-    <title>Sport Today</title>
-</programme>
-<programme start="20260128233000 +0000" stop="20260129000000 +0000" channel="Sportstars.mncvision">
-    <title>Bloopers</title>
-</programme>
-<programme start="20260129000000 +0000" stop="20260129003000 +0000" channel="Sportstars.mncvision">
-    <title>Sportrivia</title>
-</programme>
-<programme start="20260129003000 +0000" stop="20260129023000 +0000" channel="Sportstars.mncvision">
-    <title>V-League 2025-2026 Men</title>
-</programme>
-<programme start="20260129023000 +0000" stop="20260129043000 +0000" channel="Sportstars.mncvision">
-    <title>V-League 2025-2026 Women</title>
-</programme>
-<programme start="20260129043000 +0000" stop="20260129050000 +0000" channel="Sportstars.mncvision">
-    <title>Sport Today</title>
-</programme>
-<programme start="20260129050000 +0000" stop="20260129053000 +0000" channel="Sportstars.mncvision">
-    <title>iNews Sport</title>
-</programme>
-<programme start="20260129053000 +0000" stop="20260129080000 +0000" channel="Sportstars.mncvision">
-    <title>Daihatsu Indonesia Masters</title>
-</programme>
-<programme start="20260129080000 +0000" stop="20260129100000 +0000" channel="Sportstars.mncvision">
-    <title>SEA Games Thailand: Volleyball</title>
-</programme>
-<programme start="20260129100000 +0000" stop="20260129120000 +0000" channel="Sportstars.mncvision">
-    <title>V-League 2025-2026 Men (L)</title>
-</programme>
-<programme start="20260129120000 +0000" stop="20260129123000 +0000" channel="Sportstars.mncvision">
-    <title>Bloopers</title>
-</programme>
-<programme start="20260129123000 +0000" stop="20260129143000 +0000" channel="Sportstars.mncvision">
-    <title>ASEAN C&#039;ship Shopee Cup (L)</title>
-</programme>
-<programme start="20260129143000 +0000" stop="20260129150000 +0000" channel="Sportstars.mncvision">
-    <title>Sport Today</title>
-</programme>
-<programme start="20260129150000 +0000" stop="20260129153000 +0000" channel="Sportstars.mncvision">
-    <title>Sportrivia</title>
-</programme>
-<programme start="20260129153000 +0000" stop="20260129160000 +0000" channel="Sportstars.mncvision">
-    <title>V-League 2025-2026 Men</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260128180000 +0000" stop="20260128210000 +0000" channel="Sportstars 2.mncvision">
     <title>Padel Hexagon Cup 2026 (L)</title>
 </programme>
@@ -8113,51 +7936,7 @@
 <programme start="20260129150000 +0000" stop="20260129153000 +0000" channel="Sportstars 3.mncvision">
     <title>Liga 2</title>
 </programme>
-<programme start="20260128170000 +0000" stop="20260128190000 +0000" channel="sportstars 3 HD.mncvision">
-    <title>Bundesliga</title>
-</programme>
-<programme start="20260128190000 +0000" stop="20260128210000 +0000" channel="sportstars 3 HD.mncvision">
-    <title>BRI Liga 1</title>
-</programme>
-<programme start="20260128210000 +0000" stop="20260128230000 +0000" channel="sportstars 3 HD.mncvision">
-    <title>European Qualifiers</title>
-</programme>
-<programme start="20260128230000 +0000" stop="20260129010000 +0000" channel="sportstars 3 HD.mncvision">
-    <title>Bundesliga</title>
-</programme>
-<programme start="20260129010000 +0000" stop="20260129030000 +0000" channel="sportstars 3 HD.mncvision">
-    <title>Liga 2</title>
-</programme>
-<programme start="20260129030000 +0000" stop="20260129050000 +0000" channel="sportstars 3 HD.mncvision">
-    <title>BRI Liga 1</title>
-</programme>
-<programme start="20260129050000 +0000" stop="20260129070000 +0000" channel="sportstars 3 HD.mncvision">
-    <title>Bundesliga</title>
-</programme>
-<programme start="20260129070000 +0000" stop="20260129090000 +0000" channel="sportstars 3 HD.mncvision">
-    <title>European Qualifiers</title>
-</programme>
-<programme start="20260129090000 +0000" stop="20260129093000 +0000" channel="sportstars 3 HD.mncvision">
-    <title>Top Goals</title>
-</programme>
-<programme start="20260129093000 +0000" stop="20260129113000 +0000" channel="sportstars 3 HD.mncvision">
-    <title>ASEAN Club C&#039;ship Shopee (L)</title>
-</programme>
-<programme start="20260129113000 +0000" stop="20260129120000 +0000" channel="sportstars 3 HD.mncvision">
-    <title>Planet Football</title>
-</programme>
-<programme start="20260129120000 +0000" stop="20260129123000 +0000" channel="sportstars 3 HD.mncvision">
-    <title>Top Goals</title>
-</programme>
-<programme start="20260129123000 +0000" stop="20260129130000 +0000" channel="sportstars 3 HD.mncvision">
-    <title>The Ultimate Goals</title>
-</programme>
-<programme start="20260129130000 +0000" stop="20260129150000 +0000" channel="sportstars 3 HD.mncvision">
-    <title>European Qualifiers</title>
-</programme>
-<programme start="20260129150000 +0000" stop="20260129153000 +0000" channel="sportstars 3 HD.mncvision">
-    <title>Liga 2</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260128170000 +0000" stop="20260128190000 +0000" channel="Sportstars 4.mncvision">
     <title>Bundesliga</title>
 </programme>

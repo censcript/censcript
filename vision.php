@@ -23,7 +23,7 @@
 <title>3 Hati 1 Cinta</title>
 </programme>
 <programme start="20260129100000 +0000" stop="20260129113000 +0000" channel="RCTI.vision">
-<title>Aira (RCTI)</title>
+<title>Aira</title>
 </programme>
 <programme start="20260129113000 +0000" stop="20260129131500 +0000" channel="RCTI.vision">
 <title>Mencintai Ipar Sendiri (RCTI)</title>
@@ -68,7 +68,7 @@
 <title>Bosku Cintaku</title>
 </programme>
 <programme start="20260130100000 +0000" stop="20260130113000 +0000" channel="RCTI.vision">
-<title>Aira (RCTI)</title>
+<title>Aira</title>
 </programme>
 <programme start="20260130113000 +0000" stop="20260130131500 +0000" channel="RCTI.vision">
 <title>Mencintai Ipar Sendiri (RCTI)</title>

@@ -675,10 +675,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260129110000 +0000" stop="20260129111500 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
-<programme start="20260129111500 +0000" stop="20260129113000 +0000" channel="Cartoonito.skyde">
+<programme start="20260129111500 +0000" stop="20260129112500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20260129113000 +0000" stop="20260129114500 +0000" channel="Cartoonito.skyde">
+<programme start="20260129112500 +0000" stop="20260129114500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
 <programme start="20260129114500 +0000" stop="20260129115500 +0000" channel="Cartoonito.skyde">
@@ -717,13 +717,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260129140000 +0000" stop="20260129141000 +0000" channel="Cartoonito.skyde">
     <title>Bugs Bunnys Baumeister</title>
 </programme>
-<programme start="20260129141000 +0000" stop="20260129143000 +0000" channel="Cartoonito.skyde">
+<programme start="20260129141000 +0000" stop="20260129142500 +0000" channel="Cartoonito.skyde">
     <title>Bugs Bunnys Baumeister</title>
 </programme>
-<programme start="20260129143000 +0000" stop="20260129144000 +0000" channel="Cartoonito.skyde">
+<programme start="20260129142500 +0000" stop="20260129143500 +0000" channel="Cartoonito.skyde">
     <title>Batwheels</title>
 </programme>
-<programme start="20260129144000 +0000" stop="20260129145000 +0000" channel="Cartoonito.skyde">
+<programme start="20260129143500 +0000" stop="20260129145000 +0000" channel="Cartoonito.skyde">
     <title>Batwheels</title>
 </programme>
 <programme start="20260129145000 +0000" stop="20260129150000 +0000" channel="Cartoonito.skyde">
@@ -756,10 +756,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260129170500 +0000" stop="20260129172000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20260129172000 +0000" stop="20260129173000 +0000" channel="Cartoonito.skyde">
+<programme start="20260129172000 +0000" stop="20260129172500 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20260129173000 +0000" stop="20260129173500 +0000" channel="Cartoonito.skyde">
+<programme start="20260129172500 +0000" stop="20260129173500 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
 <programme start="20260129173500 +0000" stop="20260129174500 +0000" channel="Cartoonito.skyde">
@@ -771,10 +771,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260129180000 +0000" stop="20260129182500 +0000" channel="Cartoonito.skyde">
     <title>Bleib cool, Scooby-Doo!</title>
 </programme>
-<programme start="20260129182500 +0000" stop="20260129184500 +0000" channel="Cartoonito.skyde">
+<programme start="20260129182500 +0000" stop="20260129185000 +0000" channel="Cartoonito.skyde">
     <title>Bleib cool, Scooby-Doo!</title>
 </programme>
-<programme start="20260129184500 +0000" stop="20260129190000 +0000" channel="Cartoonito.skyde">
+<programme start="20260129185000 +0000" stop="20260129190000 +0000" channel="Cartoonito.skyde">
     <title>Lamput</title>
 </programme>
 <programme start="20260129190000 +0000" stop="20260129191000 +0000" channel="Cartoonito.skyde">
@@ -822,10 +822,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260129213500 +0000" stop="20260129215000 +0000" channel="Cartoonito.skyde">
     <title>Batwheels</title>
 </programme>
-<programme start="20260129215000 +0000" stop="20260129220000 +0000" channel="Cartoonito.skyde">
+<programme start="20260129215000 +0000" stop="20260129220500 +0000" channel="Cartoonito.skyde">
     <title>Bugs Bunnys Baumeister</title>
 </programme>
-<programme start="20260129220000 +0000" stop="20260129222000 +0000" channel="Cartoonito.skyde">
+<programme start="20260129220500 +0000" stop="20260129222000 +0000" channel="Cartoonito.skyde">
     <title>Bugs Bunnys Baumeister</title>
 </programme>
 <programme start="20260129222000 +0000" stop="20260129223000 +0000" channel="Cartoonito.skyde">
