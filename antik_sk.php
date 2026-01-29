@@ -1240,14 +1240,14 @@
   <programme start="20260130221000 +0000" stop="20260131001500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Basketbal - Tipos SBL</title>
   </programme>
-  <programme start="20260131001500 +0000" stop="20260131050000 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260131001500 +0000" stop="20260131043000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">LIV Golf Tour</title>
   </programme>
-  <programme start="20260131050000 +0000" stop="20260131073000 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260131043000 +0000" stop="20260131072500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Spengler Cup</title>
   </programme>
-  <programme start="20260131073000 +0000" stop="20260131095500 +0000" channel="JOJ Šport 2.webtv.sk">
-    <title lang="id">Basketbal - Tipos SBL</title>
+  <programme start="20260131072500 +0000" stop="20260131095500 +0000" channel="JOJ Šport 2.webtv.sk">
+    <title lang="id">Volejbal CEV Liga Majstrov muži</title>
   </programme>
   <programme start="20260131095500 +0000" stop="20260131113000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Skialpinizmus Svetový pohár</title>
@@ -1753,17 +1753,17 @@
   <programme start="20260131221500 +0000" stop="20260131230000 +0000" channel="JOJ 24.webtv.sk">
     <title lang="id">Štúdio 24</title>
   </programme>
-  <programme start="20260130215000 +0000" stop="20260131002500 +0000" channel="Kanal1.webtv.sk">
-    <title lang="id">Postav dom, zasaď strom</title>
+  <programme start="20260130220000 +0000" stop="20260130233000 +0000" channel="Kanal1.webtv.sk">
+    <title lang="id">Cena úspechu</title>
   </programme>
-  <programme start="20260131002500 +0000" stop="20260131010500 +0000" channel="Kanal1.webtv.sk">
-    <title lang="id">Téma s Petrom Bielikom</title>
+  <programme start="20260130233000 +0000" stop="20260131010000 +0000" channel="Kanal1.webtv.sk">
+    <title lang="id">Vice, posledné útočisko</title>
   </programme>
-  <programme start="20260131010500 +0000" stop="20260131020500 +0000" channel="Kanal1.webtv.sk">
+  <programme start="20260131010000 +0000" stop="20260131020500 +0000" channel="Kanal1.webtv.sk">
     <title lang="id">Dlhá cesta k vojne (1)</title>
   </programme>
   <programme start="20260131020500 +0000" stop="20260131030500 +0000" channel="Kanal1.webtv.sk">
-    <title lang="id">Dlhá cesta k vojne (2)</title>
+    <title lang="id">Téma s Petrom Bielikom</title>
   </programme>
   <programme start="20260131030500 +0000" stop="20260131034000 +0000" channel="Kanal1.webtv.sk">
     <title lang="id">Objavujeme: Versace (9)</title>
@@ -1825,8 +1825,11 @@
   <programme start="20260131191000 +0000" stop="20260131204500 +0000" channel="Kanal1.webtv.sk">
     <title lang="id">Nevinnosť</title>
   </programme>
-  <programme start="20260131204500 +0000" stop="20260131234500 +0000" channel="Kanal1.webtv.sk">
-    <title lang="id">Cesta rozmaznaného dieťaťa</title>
+  <programme start="20260131204500 +0000" stop="20260131224000 +0000" channel="Kanal1.webtv.sk">
+    <title lang="id">Pokušenie v Castle Rock</title>
+  </programme>
+  <programme start="20260131224000 +0000" stop="20260201003000 +0000" channel="Kanal1.webtv.sk">
+    <title lang="id">Lesný vrah</title>
   </programme>
   <programme start="20260130230000 +0000" stop="20260130231500 +0000" channel="Jojko.webtv.sk">
     <title lang="id">Zabi nudu! (11, 12)</title>
