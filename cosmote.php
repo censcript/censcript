@@ -78,6 +78,10 @@
     <title>UEFA Champions League Highlights 2025-26</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260131053000 +0700" stop="20260131060000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Game R1 S6 E23</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260130030000 +0700" stop="20260130050500 +0700" channel="COSMOTE Sport 2 HD">
     <title>European Football Show Greek Edition 2025-26 (L)</title>
     <desc>Live: Ya</desc>
@@ -201,6 +205,10 @@
 <programme start="20260131030000 +0700" stop="20260131050000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Bristol City - Derby County (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20260131050000 +0700" stop="20260131070000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Heart of Midlothian - Celtic FC</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260130030000 +0700" stop="20260130050500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Football: Olympique Lyonnais - PAOK (L)</title>
@@ -378,6 +386,10 @@
     <title>2025 Extreme H</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260131055500 +0700" stop="20260131070000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>2025 Extreme H</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260130030000 +0700" stop="20260130050500 +0700" channel="COSMOTE Sport 6 HD">
     <title>Football: FK Crvena Zvezda - Celta (L)</title>
     <desc>Live: Ya</desc>
@@ -518,6 +530,10 @@
     <title>Football: Vitoria Guimaraes - Moreirense (L)</title>
     <desc>Live: Ya</desc>
 </programme>
+<programme start="20260131054500 +0700" stop="20260131070000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260130030000 +0700" stop="20260130050500 +0700" channel="COSMOTE Sport 8 HD">
     <title>Football: Lille OSC - SC Freiburg (L)</title>
     <desc>Live: Ya</desc>
@@ -578,6 +594,10 @@
     <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260131050000 +0700" stop="20260131070000 +0700" channel="COSMOTE Sport 8 HD">
+    <title>COSMOTESport8HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260130030000 +0700" stop="20260130050500 +0700" channel="COSMOTE Sport 9 HD">
     <title>Football: Fotbal Club FCSB - Fenerbahce SK (L)</title>
     <desc>Live: Ya</desc>
@@ -635,6 +655,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260131030000 +0700" stop="20260131050000 +0700" channel="COSMOTE Sport 9 HD">
+    <title>COSMOTESport9HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260131050000 +0700" stop="20260131070000 +0700" channel="COSMOTE Sport 9 HD">
     <title>COSMOTESport9HD</title>
     <desc>Live: Tidak</desc>
 </programme>
