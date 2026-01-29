@@ -2216,7 +2216,7 @@
         <title>Best Of AO 2026: Women&#039;s Singles SF 1 Sabalenka v Svitolina</title>
     </programme>
     <programme start="20260129153000 +0000" stop="20260129173000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Best Of AO 2026: Women&#039;s Singles SF 2 Rybakina v Pegula</title>
+        <title>Women&#039;s Singles SF 2 Rybakina v Pegula</title>
     </programme>
     <programme start="20260128160000 +0000" stop="20260128170000 +0000" channel="TVB Xing He.starhub">
         <title>Happy Ever After</title>
