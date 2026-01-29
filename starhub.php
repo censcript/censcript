@@ -2107,10 +2107,10 @@
     <programme start="20260129000000 +0000" stop="20260129010000 +0000" channel="CNN HD.starhub">
         <title>Erin Burnett OutFront</title>
     </programme>
-    <programme start="20260129010000 +0000" stop="20260129020000 +0000" channel="CNN HD.starhub">
-        <title>State of Emergency: Confronting the Crisis in Minnesota - A CNN Town Hall</title>
+    <programme start="20260129010000 +0000" stop="20260129023000 +0000" channel="CNN HD.starhub">
+        <title>State of Emergency: Confronting the Crisis in Minnesota</title>
     </programme>
-    <programme start="20260129020000 +0000" stop="20260129030000 +0000" channel="CNN HD.starhub">
+    <programme start="20260129023000 +0000" stop="20260129030000 +0000" channel="CNN HD.starhub">
         <title>The Source with Kaitlan Collins</title>
     </programme>
     <programme start="20260129030000 +0000" stop="20260129040000 +0000" channel="CNN HD.starhub">

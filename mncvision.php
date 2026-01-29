@@ -203,7 +203,7 @@
     <title>News (L)</title>
 </programme>
 <programme start="20260129163000 +0000" stop="20260128170000 +0000" channel="Al Jazeera English.mncvision">
-    <title>All Hail The Military</title>
+    <title>Talk To Al Jazeera: Hakan Fidan</title>
 </programme>
 <programme start="20260128170000 +0000" stop="20260128190000 +0000" channel="Al Quran Al Kareem.mncvision">
     <title>Live From Mekkah</title>
@@ -4972,8 +4972,14 @@
 <programme start="20260129073000 +0000" stop="20260129093000 +0000" channel="Kids TV.mncvision">
     <title>SpongeBob SquarePants</title>
 </programme>
-<programme start="20260129093000 +0000" stop="20260129113000 +0000" channel="Kids TV.mncvision">
+<programme start="20260129093000 +0000" stop="20260129103000 +0000" channel="Kids TV.mncvision">
     <title>Upin &amp; Ipin Bermula</title>
+</programme>
+<programme start="20260129103000 +0000" stop="20260129110000 +0000" channel="Kids TV.mncvision">
+    <title>Blippi Wonders</title>
+</programme>
+<programme start="20260129110000 +0000" stop="20260129113000 +0000" channel="Kids TV.mncvision">
+    <title>Cat &amp; Keet</title>
 </programme>
 <programme start="20260129113000 +0000" stop="20260129120000 +0000" channel="Kids TV.mncvision">
     <title>Titus The Detective</title>
@@ -5080,8 +5086,14 @@
 <programme start="20260129073000 +0000" stop="20260129093000 +0000" channel="Kids TV HD.mncvision">
     <title>SpongeBob SquarePants</title>
 </programme>
-<programme start="20260129093000 +0000" stop="20260129113000 +0000" channel="Kids TV HD.mncvision">
+<programme start="20260129093000 +0000" stop="20260129103000 +0000" channel="Kids TV HD.mncvision">
     <title>Upin &amp; Ipin Bermula</title>
+</programme>
+<programme start="20260129103000 +0000" stop="20260129110000 +0000" channel="Kids TV HD.mncvision">
+    <title>Blippi Wonders</title>
+</programme>
+<programme start="20260129110000 +0000" stop="20260129113000 +0000" channel="Kids TV HD.mncvision">
+    <title>Cat &amp; Keet</title>
 </programme>
 <programme start="20260129113000 +0000" stop="20260129120000 +0000" channel="Kids TV HD.mncvision">
     <title>Titus The Detective</title>
