@@ -3760,8 +3760,23 @@
     <programme start="20260129230000 +0000" stop="20260129231500 +0000" channel="NHK World Premium HD.starhub">
         <title>Drama Serial &quot;The Ghost Writer&#039;s Wife&quot; Ep. 85</title>
     </programme>
-    <programme start="20260129231500 +0000" stop="20260130005400 +0000" channel="NHK World Premium HD.starhub">
-        <title>asaichi</title>
+    <programme start="20260129235800 +0000" stop="20260130000000 +0000" channel="NHK World Premium HD.starhub">
+        <title>Mini Program</title>
+    </programme>
+    <programme start="20260130000000 +0000" stop="20260130000500 +0000" channel="NHK World Premium HD.starhub">
+        <title>News &amp; Weather</title>
+    </programme>
+    <programme start="20260130000500 +0000" stop="20260130003500 +0000" channel="NHK World Premium HD.starhub">
+        <title>Nonna&#039;s Magical Garden: Kitamura Mitsuyo Living with Herbs (R)</title>
+    </programme>
+    <programme start="20260130003500 +0000" stop="20260130005000 +0000" channel="NHK World Premium HD.starhub">
+        <title>RAMEN JAPAN 15min.</title>
+    </programme>
+    <programme start="20260130005000 +0000" stop="20260130005300 +0000" channel="NHK World Premium HD.starhub">
+        <title>Mini Program</title>
+    </programme>
+    <programme start="20260130005300 +0000" stop="20260130005400 +0000" channel="NHK World Premium HD.starhub">
+        <title>World Weather</title>
     </programme>
     <programme start="20260130005400 +0000" stop="20260130005500 +0000" channel="NHK World Premium HD.starhub">
         <title>Information on Overseas Voting</title>
@@ -3878,7 +3893,7 @@
         <title>Document 72 Hours</title>
     </programme>
     <programme start="20260130133000 +0000" stop="20260130143000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Somewhere Street</title>
+        <title>Somewhere Street &quot;Rovinj, Croatia&quot;</title>
     </programme>
     <programme start="20260130143000 +0000" stop="20260130144000 +0000" channel="NHK World Premium HD.starhub">
         <title>News Commentary</title>
@@ -7867,13 +7882,13 @@
     <programme start="20260130043000 +0000" stop="20260130073000 +0000" channel="Asianet Movies.starhub">
         <title>Udayananu Tharam</title>
     </programme>
-    <programme start="20260130073000 +0000" stop="20260130103000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260130073000 +0000" stop="20260130103500 +0000" channel="Asianet Movies.starhub">
         <title>Hridayam</title>
     </programme>
-    <programme start="20260130103000 +0000" stop="20260130133000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260130103500 +0000" stop="20260130133000 +0000" channel="Asianet Movies.starhub">
         <title>Adi Kapyare Koottamani</title>
     </programme>
-    <programme start="20260130133000 +0000" stop="20260130163000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260130133000 +0000" stop="20260130163500 +0000" channel="Asianet Movies.starhub">
         <title>Premalu</title>
     </programme>
     <programme start="20260129160000 +0000" stop="20260129170000 +0000" channel="Astro Warna HD.starhub">

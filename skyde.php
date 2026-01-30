@@ -2793,7 +2793,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260130170000 +0000" stop="20260130193000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Live 2. BL: Freitags-Konferenz, 20. Spieltag</title>
 </programme>
-<programme start="20260130193000 +0000" stop="20260130204500 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+<programme start="20260130193000 +0000" stop="20260130201500 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Live 2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 20. Spieltag, Freitag</title>
 </programme>
 <programme start="20260130164000 +0000" stop="20260130170000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
@@ -2808,74 +2808,137 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260130164000 +0000" stop="20260130170000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Es folgt: Live 2. Bundesliga</title>
 </programme>
-<programme start="20260130170000 +0000" stop="20260130200000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
+<programme start="20260130170000 +0000" stop="20260130193000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live 2. BL: 1. FC Nürnberg - Preußen Münster, 20. Spieltag</title>
 </programme>
 <programme start="20260130164000 +0000" stop="20260130170000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Es folgt: Live 2. Bundesliga</title>
 </programme>
-<programme start="20260130170000 +0000" stop="20260130200000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
+<programme start="20260130170000 +0000" stop="20260130193000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Live 2. BL: Multiview 20. Spieltag, Freitag</title>
 </programme>
-<programme start="20260129230000 +0000" stop="20260130000000 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>F2: 1. Rennen - GP Italien</title>
+<programme start="20260206230000 +0000" stop="20260207000000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>F2: 1. Rennen - GP Abu Dhabi</title>
 </programme>
-<programme start="20260130000000 +0000" stop="20260130010000 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>F2: 2. Rennen - GP Italien</title>
+<programme start="20260207000000 +0000" stop="20260207010000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>F2: 2. Rennen - GP Abu Dhabi</title>
 </programme>
-<programme start="20260130010000 +0000" stop="20260130030000 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>F1: Rennen - GP Italien 2025</title>
+<programme start="20260207010000 +0000" stop="20260207030000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>F1: Rennen - GP Abu Dhabi 2025</title>
 </programme>
-<programme start="20260130030000 +0000" stop="20260130050000 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>IndyCar: bitnile.com Grand Prix of Portland</title>
+<programme start="20260207030000 +0000" stop="20260207040000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>F3: 1. Rennen - GP Italien</title>
 </programme>
-<programme start="20260130050000 +0000" stop="20260130063000 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>F1: 1. Freies Training - GP Aserbaidschan</title>
+<programme start="20260207040000 +0000" stop="20260207050000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>F3: 2. Rennen - GP Italien</title>
 </programme>
-<programme start="20260130063000 +0000" stop="20260130080000 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>F1: 2. Freies Training - GP Aserbaidschan</title>
+<programme start="20260207050000 +0000" stop="20260207061000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>Motorsport: FIA F4 World Cup - Qualification Race</title>
 </programme>
-<programme start="20260130080000 +0000" stop="20260130093000 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>F1: 3. Freies Training - GP Aserbaidschan</title>
+<programme start="20260207061000 +0000" stop="20260207070500 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>Motorsport: FIA GT World Cup - Qualification Race</title>
 </programme>
-<programme start="20260130093000 +0000" stop="20260130110000 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>F1: Qualifying - GP Aserbaidschan</title>
+<programme start="20260207070500 +0000" stop="20260207080500 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>Motorsport: FIA FR World Cup - Qualification Race</title>
 </programme>
-<programme start="20260130110000 +0000" stop="20260130130000 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>F1: Rennen - GP Aserbaidschan 2025</title>
+<programme start="20260207080500 +0000" stop="20260207083000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>F1: McLaren&#039;s Meteoric Rise</title>
 </programme>
-<programme start="20260130130000 +0000" stop="20260130133000 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>F1: Ted&#039;s Notebook: GP Aserbaidschan</title>
+<programme start="20260207083000 +0000" stop="20260207091500 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>F1: Hardenacke trifft... (Gast: Sebastian Vettel)</title>
 </programme>
-<programme start="20260130133000 +0000" stop="20260130143000 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>F2: 1. Rennen - GP Aserbaidschan</title>
+<programme start="20260207091500 +0000" stop="20260207095000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>WRC: More than Machine: Defend &amp; Attack</title>
 </programme>
-<programme start="20260130143000 +0000" stop="20260130153000 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>F2: 2. Rennen - GP Aserbaidschan</title>
+<programme start="20260207095000 +0000" stop="20260207103500 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>WRC: More than Machine: Now or never</title>
 </programme>
-<programme start="20260130153000 +0000" stop="20260130161500 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>GTWC: Season Review 2025 (Sprint Cup)</title>
+<programme start="20260207103500 +0000" stop="20260207111500 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>WRC: More than Machine: Vanishing point</title>
 </programme>
-<programme start="20260130161500 +0000" stop="20260130170000 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>GTWC: Season Review 2025 (Endurance Cup)</title>
+<programme start="20260207111500 +0000" stop="20260207120000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>WRC: More than Machine: Resilience</title>
 </programme>
-<programme start="20260130170000 +0000" stop="20260130180000 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>WRC: Highlights: Rally Monte-Carlo</title>
+<programme start="20260207120000 +0000" stop="20260207124500 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>WRC: More than Machine: Cause and effect</title>
 </programme>
-<programme start="20260130180000 +0000" stop="20260130181500 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>Chasing the Dream: Es kann nur einen geben</title>
-</programme>
-<programme start="20260130181500 +0000" stop="20260130183000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260207124500 +0000" stop="20260207130000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Chasing the Dream: Der letzte große Auftritt</title>
 </programme>
-<programme start="20260130183000 +0000" stop="20260130190000 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>F1: Die Saison 2025</title>
+<programme start="20260207130000 +0000" stop="20260207150000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>Motorsport: FIA Extreme H - World Cup 2025 (Final)</title>
 </programme>
-<programme start="20260130190000 +0000" stop="20260130210000 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>F1: Rennen - GP Aserbaidschan 2025</title>
+<programme start="20260207150000 +0000" stop="20260207170000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>F1: Rennen - GP Australien 2025</title>
 </programme>
-<programme start="20260130210000 +0000" stop="20260130230000 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>IndyCar: Snap-on Milwaukee Mile 250</title>
+<programme start="20260207170000 +0000" stop="20260207190000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>F1: Rennen - GP China 2025</title>
+</programme>
+<programme start="20260207190000 +0000" stop="20260207210000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>F1: Rennen - GP Japan 2025</title>
+</programme>
+<programme start="20260207210000 +0000" stop="20260207213500 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>WRC: More than Machine: Defend &amp; Attack</title>
+</programme>
+<programme start="20260207213500 +0000" stop="20260207222000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>WRC: More than Machine: Now or never</title>
+</programme>
+<programme start="20260207222000 +0000" stop="20260207230000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>WRC: More than Machine: Vanishing point</title>
+</programme>
+<programme start="20260129230000 +0000" stop="20260130013000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>LPGA: Hilton Grand Vacations Tournament of Champions, 1. Tag in Orlando, FL (USA)</title>
+</programme>
+<programme start="20260130013000 +0000" stop="20260130023000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Golf Ladies ET: Highlights KPMG Women&#039;s Irish Open</title>
+</programme>
+<programme start="20260130023000 +0000" stop="20260130031500 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>LIV Golf: Showcase</title>
+</programme>
+<programme start="20260130031500 +0000" stop="20260130034500 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>LIV Golf: Spezial</title>
+</programme>
+<programme start="20260130034500 +0000" stop="20260130040000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Golf: Projekt 0 (8)</title>
+</programme>
+<programme start="20260130080000 +0000" stop="20260130083000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>LIV Golf: Spezial</title>
+</programme>
+<programme start="20260130083000 +0000" stop="20260130093000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Golf Ladies ET: Highlights PIF Championship</title>
+</programme>
+<programme start="20260130093000 +0000" stop="20260130103000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Golf Ladies ET: Highlights VP Bank Swiss Ladies Open</title>
+</programme>
+<programme start="20260130103000 +0000" stop="20260130113000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Golf Ladies ET: Highlights La Sella Open</title>
+</programme>
+<programme start="20260130113000 +0000" stop="20260130133000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>TGL: Boston Common Golf - The Bay Golf Club, 6. Spieltag</title>
+</programme>
+<programme start="20260130133000 +0000" stop="20260130160000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>LPGA: Hilton Grand Vacations Tournament of Champions, 1. Tag in Orlando, FL (USA)</title>
+</programme>
+<programme start="20260130160000 +0000" stop="20260130163000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>LIV Golf: Spezial</title>
+</programme>
+<programme start="20260130163000 +0000" stop="20260130193000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Live LPGA: Hilton Grand Vacations Tournament of Champions, 2. Tag in Orlando, FL (USA)</title>
+</programme>
+<programme start="20260130193000 +0000" stop="20260130201500 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>LIV Golf: Showcase</title>
+</programme>
+<programme start="20260130201500 +0000" stop="20260130203000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Golf: Projekt 0 (8)</title>
+</programme>
+<programme start="20260130203000 +0000" stop="20260130213000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Golf Ladies ET: Highlights Aramco China Championship</title>
+</programme>
+<programme start="20260130213000 +0000" stop="20260130223000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Golf Ladies ET: Highlights Andalucia Costa del Sol Open de Espana</title>
+</programme>
+<programme start="20260130223000 +0000" stop="20260131010000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>LPGA: Hilton Grand Vacations Tournament of Champions, 2. Tag in Orlando, FL (USA)</title>
 </programme>
 <programme start="20260129230000 +0000" stop="20260129234500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>DFB-Pokal: Kompakt, Achtelfinale</title>
