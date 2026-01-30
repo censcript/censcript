@@ -5092,20 +5092,14 @@
     <programme start="20260129164500 +0000" stop="20260129171500 +0000" channel="SPOTV.starhub">
         <title>2025/26 ALM Mini Match Rd 14 Melbourne Victory vs Sydney FC</title>
     </programme>
-    <programme start="20260129171500 +0000" stop="20260129193000 +0000" channel="SPOTV.starhub">
-        <title>25/26 ROSHN Saudi League MW 19 Al Qadsiah vs Al Hilal</title>
-    </programme>
     <programme start="20260129193000 +0000" stop="20260129203000 +0000" channel="SPOTV.starhub">
         <title>Day 2 Session 2</title>
-    </programme>
-    <programme start="20260129203000 +0000" stop="20260129223000 +0000" channel="SPOTV.starhub">
-        <title>25/26 ROSHN Saudi League MW 19 Al Ahli vs Al Ettifaq</title>
     </programme>
     <programme start="20260129223000 +0000" stop="20260130040000 +0000" channel="SPOTV.starhub">
         <title>Day 4 Final</title>
     </programme>
     <programme start="20260130040000 +0000" stop="20260130060000 +0000" channel="SPOTV.starhub">
-        <title>25/26 ROSHN Saudi League MW 19 Al Qadsiah vs Al Hilal</title>
+        <title>Al Qadsiah vs Al Hilal</title>
     </programme>
     <programme start="20260130060000 +0000" stop="20260130064500 +0000" channel="SPOTV.starhub">
         <title>Day 3 Session 1</title>
@@ -5120,19 +5114,19 @@
         <title>Day 2 Session 2</title>
     </programme>
     <programme start="20260130090000 +0000" stop="20260130110000 +0000" channel="SPOTV.starhub">
-        <title>25/26 A-League Men Round 15 Adelaide United vs Macarthur FC</title>
+        <title>Adelaide United vs Macarthur FC</title>
     </programme>
     <programme start="20260130110000 +0000" stop="20260130130000 +0000" channel="SPOTV.starhub">
-        <title>25/26 ROSHN Saudi League MW 18 Al Nassr vs Al Taawoun</title>
+        <title>Al Nassr vs Al Taawoun</title>
     </programme>
     <programme start="20260130130000 +0000" stop="20260130133000 +0000" channel="SPOTV.starhub">
         <title>Preview</title>
     </programme>
     <programme start="20260130133000 +0000" stop="20260130153000 +0000" channel="SPOTV.starhub">
-        <title>25/26 ROSHN Saudi League MW 19 Al Ahli vs Al Ettifaq</title>
+        <title>Al Ahli vs Al Ettifaq</title>
     </programme>
     <programme start="20260130153000 +0000" stop="20260130173000 +0000" channel="SPOTV.starhub">
-        <title>25/26 ROSHN Saudi League MW 19 Al Qadsiah vs Al Hilal</title>
+        <title>Al Qadsiah vs Al Hilal</title>
     </programme>
     <programme start="20260129154000 +0000" stop="20260129165500 +0000" channel="KBS World HD.starhub">
         <title>Nothing Uncovered</title>

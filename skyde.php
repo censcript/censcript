@@ -945,28 +945,22 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260130110000 +0000" stop="20260130120000 +0000" channel="DAZN 1 HD.skyde">
     <title>UEFA Champions League 25/26: Auslosung Play-Offs. Nur in Deutschland verfügbar!</title>
 </programme>
-<programme start="20260130120000 +0000" stop="20260130123000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260130120000 +0000" stop="20260130122000 +0000" channel="DAZN 1 HD.skyde">
     <title>Google Pixel Frauen-Bundesliga Highlightshow 2025/26: 15. Spieltag</title>
 </programme>
-<programme start="20260130123000 +0000" stop="20260130124000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
-</programme>
-<programme start="20260130124000 +0000" stop="20260130135500 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260130122000 +0000" stop="20260130134000 +0000" channel="DAZN 1 HD.skyde">
     <title>ALL IN - Die Bundesliga Highlight Show: 19. Spieltag</title>
 </programme>
-<programme start="20260130135500 +0000" stop="20260130140000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
-</programme>
-<programme start="20260130140000 +0000" stop="20260130155500 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260130134000 +0000" stop="20260130153500 +0000" channel="DAZN 1 HD.skyde">
     <title>Bundesliga: FC Bayern München - FC Augsburg</title>
 </programme>
-<programme start="20260130155500 +0000" stop="20260130162500 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260130153500 +0000" stop="20260130160500 +0000" channel="DAZN 1 HD.skyde">
     <title>Doppelpack Europa - Highlights der Serie A und Ligue 1 2025/26: 22./19. Spieltag</title>
 </programme>
-<programme start="20260130162500 +0000" stop="20260130165500 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260130160500 +0000" stop="20260130162500 +0000" channel="DAZN 1 HD.skyde">
     <title>Google Pixel Frauen-Bundesliga Highlightshow 2025/26: 15. Spieltag</title>
 </programme>
-<programme start="20260130165500 +0000" stop="20260130171500 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260130162500 +0000" stop="20260130171500 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
 <programme start="20260130171500 +0000" stop="20260130192500 +0000" channel="DAZN 1 HD.skyde">
@@ -1398,10 +1392,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260130060500 +0000" stop="20260130063000 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20260130063000 +0000" stop="20260130065000 +0000" channel="Nick Jr..skyde">
+<programme start="20260130063000 +0000" stop="20260130065500 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20260130065000 +0000" stop="20260130071500 +0000" channel="Nick Jr..skyde">
+<programme start="20260130065500 +0000" stop="20260130071500 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
 <programme start="20260130071500 +0000" stop="20260130073500 +0000" channel="Nick Jr..skyde">
@@ -1416,28 +1410,28 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260130075500 +0000" stop="20260130080500 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
-<programme start="20260130080500 +0000" stop="20260130081000 +0000" channel="Nick Jr..skyde">
+<programme start="20260130080500 +0000" stop="20260130081400 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
-<programme start="20260130081000 +0000" stop="20260130081500 +0000" channel="Nick Jr..skyde">
+<programme start="20260130081400 +0000" stop="20260130081900 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260130081500 +0000" stop="20260130082000 +0000" channel="Nick Jr..skyde">
+<programme start="20260130081900 +0000" stop="20260130082300 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260130082000 +0000" stop="20260130082500 +0000" channel="Nick Jr..skyde">
+<programme start="20260130082300 +0000" stop="20260130082500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260130082500 +0000" stop="20260130083000 +0000" channel="Nick Jr..skyde">
+<programme start="20260130082500 +0000" stop="20260130083400 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260130083000 +0000" stop="20260130083500 +0000" channel="Nick Jr..skyde">
+<programme start="20260130083400 +0000" stop="20260130083900 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260130083500 +0000" stop="20260130084000 +0000" channel="Nick Jr..skyde">
+<programme start="20260130083900 +0000" stop="20260130084300 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260130084000 +0000" stop="20260130084500 +0000" channel="Nick Jr..skyde">
+<programme start="20260130084300 +0000" stop="20260130084500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
 <programme start="20260130084500 +0000" stop="20260130085000 +0000" channel="Nick Jr..skyde">
@@ -1452,31 +1446,31 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260130094000 +0000" stop="20260130094500 +0000" channel="Nick Jr..skyde">
     <title>Sharkdog</title>
 </programme>
-<programme start="20260130094500 +0000" stop="20260130095500 +0000" channel="Nick Jr..skyde">
+<programme start="20260130094500 +0000" stop="20260130095000 +0000" channel="Nick Jr..skyde">
     <title>Sharkdog</title>
 </programme>
-<programme start="20260130095500 +0000" stop="20260130100000 +0000" channel="Nick Jr..skyde">
+<programme start="20260130095000 +0000" stop="20260130100000 +0000" channel="Nick Jr..skyde">
     <title>Sharkdog</title>
 </programme>
-<programme start="20260130100000 +0000" stop="20260130102000 +0000" channel="Nick Jr..skyde">
+<programme start="20260130100000 +0000" stop="20260130102500 +0000" channel="Nick Jr..skyde">
     <title>Blaze und die Monster-Maschinen</title>
 </programme>
-<programme start="20260130102000 +0000" stop="20260130104500 +0000" channel="Nick Jr..skyde">
+<programme start="20260130102500 +0000" stop="20260130104500 +0000" channel="Nick Jr..skyde">
     <title>Blaze und die Monster-Maschinen</title>
 </programme>
-<programme start="20260130104500 +0000" stop="20260130110500 +0000" channel="Nick Jr..skyde">
+<programme start="20260130104500 +0000" stop="20260130111000 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20260130110500 +0000" stop="20260130113000 +0000" channel="Nick Jr..skyde">
+<programme start="20260130111000 +0000" stop="20260130113000 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
 <programme start="20260130113000 +0000" stop="20260130115500 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20260130115500 +0000" stop="20260130121500 +0000" channel="Nick Jr..skyde">
+<programme start="20260130115500 +0000" stop="20260130122000 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20260130121500 +0000" stop="20260130124000 +0000" channel="Nick Jr..skyde">
+<programme start="20260130122000 +0000" stop="20260130124000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
 <programme start="20260130124000 +0000" stop="20260130130500 +0000" channel="Nick Jr..skyde">
@@ -1488,28 +1482,28 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260130131000 +0000" stop="20260130132000 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
-<programme start="20260130132000 +0000" stop="20260130132500 +0000" channel="Nick Jr..skyde">
+<programme start="20260130132000 +0000" stop="20260130133000 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
-<programme start="20260130132500 +0000" stop="20260130135000 +0000" channel="Nick Jr..skyde">
+<programme start="20260130133000 +0000" stop="20260130135000 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
 <programme start="20260130135000 +0000" stop="20260130141500 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
 </programme>
-<programme start="20260130141500 +0000" stop="20260130143500 +0000" channel="Nick Jr..skyde">
+<programme start="20260130141500 +0000" stop="20260130143900 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
 </programme>
-<programme start="20260130143500 +0000" stop="20260130144000 +0000" channel="Nick Jr..skyde">
+<programme start="20260130143900 +0000" stop="20260130144300 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260130144000 +0000" stop="20260130144500 +0000" channel="Nick Jr..skyde">
+<programme start="20260130144300 +0000" stop="20260130144800 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260130144500 +0000" stop="20260130145000 +0000" channel="Nick Jr..skyde">
+<programme start="20260130144800 +0000" stop="20260130145200 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260130145000 +0000" stop="20260130145500 +0000" channel="Nick Jr..skyde">
+<programme start="20260130145200 +0000" stop="20260130145500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
 <programme start="20260130145500 +0000" stop="20260130150000 +0000" channel="Nick Jr..skyde">
@@ -1554,22 +1548,22 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260130174500 +0000" stop="20260130175000 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
-<programme start="20260130175000 +0000" stop="20260130180000 +0000" channel="Nick Jr..skyde">
+<programme start="20260130175000 +0000" stop="20260130180100 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
-<programme start="20260130180000 +0000" stop="20260130180500 +0000" channel="Nick Jr..skyde">
+<programme start="20260130180100 +0000" stop="20260130180600 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260130180500 +0000" stop="20260130181000 +0000" channel="Nick Jr..skyde">
+<programme start="20260130180600 +0000" stop="20260130181000 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
 <programme start="20260130181000 +0000" stop="20260130181500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260130181500 +0000" stop="20260130182000 +0000" channel="Nick Jr..skyde">
+<programme start="20260130181500 +0000" stop="20260130181900 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260130182000 +0000" stop="20260130182500 +0000" channel="Nick Jr..skyde">
+<programme start="20260130181900 +0000" stop="20260130182500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
 <programme start="20260130182500 +0000" stop="20260130183000 +0000" channel="Nick Jr..skyde">
@@ -1578,10 +1572,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260130183000 +0000" stop="20260130185000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260130185000 +0000" stop="20260130190000 +0000" channel="Nick Jr..skyde">
+<programme start="20260130185000 +0000" stop="20260130190500 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260130190000 +0000" stop="20260130192500 +0000" channel="Nick Jr..skyde">
+<programme start="20260130190500 +0000" stop="20260130192500 +0000" channel="Nick Jr..skyde">
     <title>Blaze und die Monster-Maschinen</title>
 </programme>
 <programme start="20260130192500 +0000" stop="20260130194500 +0000" channel="Nick Jr..skyde">
@@ -1593,16 +1587,16 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260130200000 +0000" stop="20260130202000 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20260130202000 +0000" stop="20260130203500 +0000" channel="Nick Jr..skyde">
+<programme start="20260130202000 +0000" stop="20260130203000 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20260130203500 +0000" stop="20260130205500 +0000" channel="Nick Jr..skyde">
+<programme start="20260130203000 +0000" stop="20260130205500 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
 </programme>
-<programme start="20260130205500 +0000" stop="20260130212000 +0000" channel="Nick Jr..skyde">
+<programme start="20260130205500 +0000" stop="20260130211500 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
 </programme>
-<programme start="20260130212000 +0000" stop="20260130214000 +0000" channel="Nick Jr..skyde">
+<programme start="20260130211500 +0000" stop="20260130214000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
 <programme start="20260130214000 +0000" stop="20260130220500 +0000" channel="Nick Jr..skyde">
@@ -2784,7 +2778,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260130183000 +0000" stop="20260130191500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: KOE - WOB: tipico Countdown, Flutlicht-Freitag, 20. Spieltag</title>
 </programme>
-<programme start="20260130191500 +0000" stop="20260130221500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
+<programme start="20260130191500 +0000" stop="20260130224500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: 1. FC Köln - VfL Wolfsburg, Flutlicht-Freitag, 20. Spieltag</title>
 </programme>
 <programme start="20260130164000 +0000" stop="20260130170000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
@@ -2793,7 +2787,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260130170000 +0000" stop="20260130193000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Live 2. BL: Freitags-Konferenz, 20. Spieltag</title>
 </programme>
-<programme start="20260130193000 +0000" stop="20260130201500 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+<programme start="20260130193000 +0000" stop="20260130204500 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Live 2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 20. Spieltag, Freitag</title>
 </programme>
 <programme start="20260130164000 +0000" stop="20260130170000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
@@ -2802,89 +2796,80 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260130170000 +0000" stop="20260130193000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live 2. BL: 1. FC Magdeburg - Hannover 96, 20. Spieltag</title>
 </programme>
-<programme start="20260130193000 +0000" stop="20260130213000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
+<programme start="20260130193000 +0000" stop="20260130220000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live BL: Sky Sport Fantasy: KOE - WOB, 20. Spieltag</title>
 </programme>
 <programme start="20260130164000 +0000" stop="20260130170000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Es folgt: Live 2. Bundesliga</title>
 </programme>
-<programme start="20260130170000 +0000" stop="20260130193000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
+<programme start="20260130170000 +0000" stop="20260130200000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live 2. BL: 1. FC Nürnberg - Preußen Münster, 20. Spieltag</title>
 </programme>
 <programme start="20260130164000 +0000" stop="20260130170000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Es folgt: Live 2. Bundesliga</title>
 </programme>
-<programme start="20260130170000 +0000" stop="20260130193000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
+<programme start="20260130170000 +0000" stop="20260130200000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Live 2. BL: Multiview 20. Spieltag, Freitag</title>
 </programme>
-<programme start="20260206230000 +0000" stop="20260207000000 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>F2: 1. Rennen - GP Abu Dhabi</title>
+<programme start="20260129230000 +0000" stop="20260130000000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>F2: 1. Rennen - GP Italien</title>
 </programme>
-<programme start="20260207000000 +0000" stop="20260207010000 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>F2: 2. Rennen - GP Abu Dhabi</title>
+<programme start="20260130000000 +0000" stop="20260130010000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>F2: 2. Rennen - GP Italien</title>
 </programme>
-<programme start="20260207010000 +0000" stop="20260207030000 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>F1: Rennen - GP Abu Dhabi 2025</title>
+<programme start="20260130010000 +0000" stop="20260130030000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>F1: Rennen - GP Italien 2025</title>
 </programme>
-<programme start="20260207030000 +0000" stop="20260207040000 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>F3: 1. Rennen - GP Italien</title>
+<programme start="20260130030000 +0000" stop="20260130050000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>IndyCar: bitnile.com Grand Prix of Portland</title>
 </programme>
-<programme start="20260207040000 +0000" stop="20260207050000 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>F3: 2. Rennen - GP Italien</title>
+<programme start="20260130050000 +0000" stop="20260130063000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>F1: 1. Freies Training - GP Aserbaidschan</title>
 </programme>
-<programme start="20260207050000 +0000" stop="20260207061000 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>Motorsport: FIA F4 World Cup - Qualification Race</title>
+<programme start="20260130063000 +0000" stop="20260130080000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>F1: 2. Freies Training - GP Aserbaidschan</title>
 </programme>
-<programme start="20260207061000 +0000" stop="20260207070500 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>Motorsport: FIA GT World Cup - Qualification Race</title>
+<programme start="20260130080000 +0000" stop="20260130093000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>F1: 3. Freies Training - GP Aserbaidschan</title>
 </programme>
-<programme start="20260207070500 +0000" stop="20260207080500 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>Motorsport: FIA FR World Cup - Qualification Race</title>
+<programme start="20260130093000 +0000" stop="20260130110000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>F1: Qualifying - GP Aserbaidschan</title>
 </programme>
-<programme start="20260207080500 +0000" stop="20260207083000 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>F1: McLaren&#039;s Meteoric Rise</title>
+<programme start="20260130110000 +0000" stop="20260130130000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>F1: Rennen - GP Aserbaidschan 2025</title>
 </programme>
-<programme start="20260207083000 +0000" stop="20260207091500 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>F1: Hardenacke trifft... (Gast: Sebastian Vettel)</title>
+<programme start="20260130130000 +0000" stop="20260130133000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>F1: Ted&#039;s Notebook: GP Aserbaidschan</title>
 </programme>
-<programme start="20260207091500 +0000" stop="20260207095000 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>WRC: More than Machine: Defend &amp; Attack</title>
+<programme start="20260130133000 +0000" stop="20260130143000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>F2: 1. Rennen - GP Aserbaidschan</title>
 </programme>
-<programme start="20260207095000 +0000" stop="20260207103500 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>WRC: More than Machine: Now or never</title>
+<programme start="20260130143000 +0000" stop="20260130153000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>F2: 2. Rennen - GP Aserbaidschan</title>
 </programme>
-<programme start="20260207103500 +0000" stop="20260207111500 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>WRC: More than Machine: Vanishing point</title>
+<programme start="20260130153000 +0000" stop="20260130161500 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>GTWC: Season Review 2025 (Sprint Cup)</title>
 </programme>
-<programme start="20260207111500 +0000" stop="20260207120000 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>WRC: More than Machine: Resilience</title>
+<programme start="20260130161500 +0000" stop="20260130170000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>GTWC: Season Review 2025 (Endurance Cup)</title>
 </programme>
-<programme start="20260207120000 +0000" stop="20260207124500 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>WRC: More than Machine: Cause and effect</title>
+<programme start="20260130170000 +0000" stop="20260130180000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>WRC: Highlights: Rally Monte-Carlo</title>
 </programme>
-<programme start="20260207124500 +0000" stop="20260207130000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260130180000 +0000" stop="20260130181500 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>Chasing the Dream: Es kann nur einen geben</title>
+</programme>
+<programme start="20260130181500 +0000" stop="20260130183000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Chasing the Dream: Der letzte große Auftritt</title>
 </programme>
-<programme start="20260207130000 +0000" stop="20260207150000 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>Motorsport: FIA Extreme H - World Cup 2025 (Final)</title>
+<programme start="20260130183000 +0000" stop="20260130190000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>F1: Die Saison 2025</title>
 </programme>
-<programme start="20260207150000 +0000" stop="20260207170000 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>F1: Rennen - GP Australien 2025</title>
+<programme start="20260130190000 +0000" stop="20260130210000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>F1: Rennen - GP Aserbaidschan 2025</title>
 </programme>
-<programme start="20260207170000 +0000" stop="20260207190000 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>F1: Rennen - GP China 2025</title>
-</programme>
-<programme start="20260207190000 +0000" stop="20260207210000 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>F1: Rennen - GP Japan 2025</title>
-</programme>
-<programme start="20260207210000 +0000" stop="20260207213500 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>WRC: More than Machine: Defend &amp; Attack</title>
-</programme>
-<programme start="20260207213500 +0000" stop="20260207222000 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>WRC: More than Machine: Now or never</title>
-</programme>
-<programme start="20260207222000 +0000" stop="20260207230000 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>WRC: More than Machine: Vanishing point</title>
+<programme start="20260130210000 +0000" stop="20260130230000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>IndyCar: Snap-on Milwaukee Mile 250</title>
 </programme>
 <programme start="20260129230000 +0000" stop="20260130013000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>LPGA: Hilton Grand Vacations Tournament of Champions, 1. Tag in Orlando, FL (USA)</title>
@@ -2901,20 +2886,62 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260130034500 +0000" stop="20260130040000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: Projekt 0 (8)</title>
 </programme>
-<programme start="20260130080000 +0000" stop="20260130083000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>LIV Golf: Spezial</title>
+<programme start="20260130040000 +0000" stop="20260130050000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Golf Ladies ET: Highlights ISPS WANDA Women&#039;s Scottish Open</title>
 </programme>
-<programme start="20260130083000 +0000" stop="20260130093000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260130050000 +0000" stop="20260130060000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf Ladies ET: Highlights PIF Championship</title>
 </programme>
-<programme start="20260130093000 +0000" stop="20260130103000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260130060000 +0000" stop="20260130070000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf Ladies ET: Highlights VP Bank Swiss Ladies Open</title>
 </programme>
-<programme start="20260130103000 +0000" stop="20260130113000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260130070000 +0000" stop="20260130080000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf Ladies ET: Highlights La Sella Open</title>
 </programme>
-<programme start="20260130113000 +0000" stop="20260130133000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>TGL: Boston Common Golf - The Bay Golf Club, 6. Spieltag</title>
+<programme start="20260130080000 +0000" stop="20260130084500 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>LIV Golf: Showcase</title>
+</programme>
+<programme start="20260130084500 +0000" stop="20260130090500 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>LIV Golf: Highlights Finaltag Riad 2025</title>
+</programme>
+<programme start="20260130090500 +0000" stop="20260130092500 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>LIV Golf: Highlights Finaltag Adelaide 2025</title>
+</programme>
+<programme start="20260130092500 +0000" stop="20260130094500 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>LIV Golf: Highlights Finaltag Hongkong 2025</title>
+</programme>
+<programme start="20260130094500 +0000" stop="20260130100500 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>LIV Golf: Highlights Finaltag Singapur 2025</title>
+</programme>
+<programme start="20260130100500 +0000" stop="20260130102500 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>LIV Golf: Highlights Finaltag Miami 2025</title>
+</programme>
+<programme start="20260130102500 +0000" stop="20260130104500 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>LIV Golf: Highlights Finaltag Mexiko City 2025</title>
+</programme>
+<programme start="20260130104500 +0000" stop="20260130110500 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>LIV Golf: Highlights Finaltag Südkorea 2025</title>
+</programme>
+<programme start="20260130110500 +0000" stop="20260130112500 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>LIV Golf: Highlights Finaltag Virginia 2025</title>
+</programme>
+<programme start="20260130112500 +0000" stop="20260130114500 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>LIV Golf: Highlights Finaltag Dallas 2025</title>
+</programme>
+<programme start="20260130114500 +0000" stop="20260130120500 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>LIV Golf: Highlights Finaltag Andalusien 2025</title>
+</programme>
+<programme start="20260130120500 +0000" stop="20260130122500 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>LIV Golf: Highlights Finaltag UK 2025</title>
+</programme>
+<programme start="20260130122500 +0000" stop="20260130125000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>LIV Golf: Highlights Finaltag Chicago 2025</title>
+</programme>
+<programme start="20260130125000 +0000" stop="20260130131000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>LIV Golf: Highlights Finaltag Indianapolis 2025</title>
+</programme>
+<programme start="20260130131000 +0000" stop="20260130133000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>LIV Golf: Highlights Finaltag Michigan 2025</title>
 </programme>
 <programme start="20260130133000 +0000" stop="20260130160000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>LPGA: Hilton Grand Vacations Tournament of Champions, 1. Tag in Orlando, FL (USA)</title>
@@ -2925,20 +2952,14 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260130163000 +0000" stop="20260130193000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Live LPGA: Hilton Grand Vacations Tournament of Champions, 2. Tag in Orlando, FL (USA)</title>
 </programme>
-<programme start="20260130193000 +0000" stop="20260130201500 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>LIV Golf: Showcase</title>
+<programme start="20260130193000 +0000" stop="20260130211500 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>LIV Golf: The Duels Miami 2025</title>
 </programme>
-<programme start="20260130201500 +0000" stop="20260130203000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Golf: Projekt 0 (8)</title>
-</programme>
-<programme start="20260130203000 +0000" stop="20260130213000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260130211500 +0000" stop="20260130221500 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf Ladies ET: Highlights Aramco China Championship</title>
 </programme>
-<programme start="20260130213000 +0000" stop="20260130223000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260130221500 +0000" stop="20260130231500 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf Ladies ET: Highlights Andalucia Costa del Sol Open de Espana</title>
-</programme>
-<programme start="20260130223000 +0000" stop="20260131010000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>LPGA: Hilton Grand Vacations Tournament of Champions, 2. Tag in Orlando, FL (USA)</title>
 </programme>
 <programme start="20260129230000 +0000" stop="20260129234500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>DFB-Pokal: Kompakt, Achtelfinale</title>
@@ -3270,13 +3291,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260130204500 +0000" stop="20260130231500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP Finals: J. Sinner (ITA) - C. Alcaraz (ESP), Finale 2025 in Turin (ITA)</title>
 </programme>
-<programme start="20260130010500 +0000" stop="20260130013500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260130010000 +0000" stop="20260130013000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>F1: Die Saison 2025</title>
 </programme>
-<programme start="20260130013500 +0000" stop="20260130023500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260130013000 +0000" stop="20260130023000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>BL: Matchplan: HSV - FCB, 20. Spieltag</title>
 </programme>
-<programme start="20260130023500 +0000" stop="20260130030000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260130023000 +0000" stop="20260130030000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>NHL: On the Fly</title>
 </programme>
 <programme start="20260130030000 +0000" stop="20260130060000 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3843,10 +3864,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260130113500 +0000" stop="20260130122000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Rizzoli and Isles</title>
 </programme>
-<programme start="20260130122000 +0000" stop="20260130130500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260130122000 +0000" stop="20260130131000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Rizzoli and Isles</title>
 </programme>
-<programme start="20260130130500 +0000" stop="20260130135500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260130131000 +0000" stop="20260130135500 +0000" channel="Warner TV Serie HD.skyde">
     <title>NCIS</title>
 </programme>
 <programme start="20260130135500 +0000" stop="20260130144000 +0000" channel="Warner TV Serie HD.skyde">
