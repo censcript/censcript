@@ -5090,10 +5090,16 @@
         <title>Day 2 Session 1</title>
     </programme>
     <programme start="20260129164500 +0000" stop="20260129171500 +0000" channel="SPOTV.starhub">
-        <title>2025/26 ALM Mini Match Rd 14 Melbourne Victory vs Sydney FC</title>
+        <title>Melbourne Victory vs Sydney FC</title>
+    </programme>
+    <programme start="20260129171500 +0000" stop="20260129193000 +0000" channel="SPOTV.starhub">
+        <title>Al Qadsiah vs Al Hilal</title>
     </programme>
     <programme start="20260129193000 +0000" stop="20260129203000 +0000" channel="SPOTV.starhub">
         <title>Day 2 Session 2</title>
+    </programme>
+    <programme start="20260129203000 +0000" stop="20260129223000 +0000" channel="SPOTV.starhub">
+        <title>Al Ahli vs Al Ettifaq</title>
     </programme>
     <programme start="20260129223000 +0000" stop="20260130040000 +0000" channel="SPOTV.starhub">
         <title>Day 4 Final</title>
