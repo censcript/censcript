@@ -3760,6 +3760,9 @@
     <programme start="20260129230000 +0000" stop="20260129231500 +0000" channel="NHK World Premium HD.starhub">
         <title>Drama Serial &quot;The Ghost Writer&#039;s Wife&quot; Ep. 85</title>
     </programme>
+    <programme start="20260129231500 +0000" stop="20260129235800 +0000" channel="NHK World Premium HD.starhub">
+        <title>asaichi</title>
+    </programme>
     <programme start="20260129235800 +0000" stop="20260130000000 +0000" channel="NHK World Premium HD.starhub">
         <title>Mini Program</title>
     </programme>
