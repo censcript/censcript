@@ -41,7 +41,7 @@
 <title>RCTI</title>
 </programme>
 <programme start="20260130213000 +0000" stop="20260130230000 +0000" channel="RCTI.vision">
-<title>Preman Pensiun S7</title>
+<title>Preman Pensiun S6</title>
 </programme>
 <programme start="20260130230000 +0000" stop="20260131000000 +0000" channel="RCTI.vision">
 <title>Upin Ipin</title>
@@ -50,7 +50,7 @@
 <title>Kiko</title>
 </programme>
 <programme start="20260131010000 +0000" stop="20260131023000 +0000" channel="RCTI.vision">
-<title>Dahsyat (RCTI)</title>
+<title>Dahsyatnya Weekend (RCTI)</title>
 </programme>
 <programme start="20260131023000 +0000" stop="20260131033000 +0000" channel="RCTI.vision">
 <title>Investigasi Selebriti</title>
@@ -208,11 +208,14 @@
 <programme start="20260131020000 +0000" stop="20260131050000 +0000" channel="GTV.vision">
 <title>Spongebob Squarepants (GTV)</title>
 </programme>
-<programme start="20260131050000 +0000" stop="20260131070000 +0000" channel="GTV.vision">
-<title>Kiko In The Deep Sea</title>
+<programme start="20260131050000 +0000" stop="20260131060000 +0000" channel="GTV.vision">
+<title>Naruto Shippuden (GTV)</title>
+</programme>
+<programme start="20260131060000 +0000" stop="20260131070000 +0000" channel="GTV.vision">
+<title>Zak Storm</title>
 </programme>
 <programme start="20260131070000 +0000" stop="20260131080000 +0000" channel="GTV.vision">
-<title>Bleach: Clash Of The Bankai</title>
+<title>Bleach: Arrancar Nightmare</title>
 </programme>
 <programme start="20260131080000 +0000" stop="20260131093000 +0000" channel="GTV.vision">
 <title>SpongeBob SquarePants</title>
@@ -442,11 +445,17 @@
 <programme start="20260131110000 +0000" stop="20260131120000 +0000" channel="SindoNews.vision">
 <title>SINDO Files Weekend</title>
 </programme>
+<programme start="20260129233000 +0000" stop="20260130003000 +0000" channel="Trans TV.vision">
+<title>Insert Pagi (L)</title>
+</programme>
 <programme start="20260130003000 +0000" stop="20260130013000 +0000" channel="Trans TV.vision">
 <title>CNN Indonesia Good Morning</title>
 </programme>
 <programme start="20260130013000 +0000" stop="20260130033000 +0000" channel="Trans TV.vision">
 <title>Pagi-Pagi Ambyar</title>
+</programme>
+<programme start="20260130033000 +0000" stop="20260130053000 +0000" channel="Trans TV.vision">
+<title>Insert Siang</title>
 </programme>
 <programme start="20260130053000 +0000" stop="20260130070000 +0000" channel="Trans TV.vision">
 <title>Brownis (Obrowlan Manis)</title>
@@ -466,17 +475,35 @@
 <programme start="20260130103000 +0000" stop="20260130114500 +0000" channel="Trans TV.vision">
 <title>Bikin Laper</title>
 </programme>
+<programme start="20260130114500 +0000" stop="20260130130000 +0000" channel="Trans TV.vision">
+<title>Insert Story</title>
+</programme>
 <programme start="20260130130000 +0000" stop="20260130140000 +0000" channel="Trans TV.vision">
 <title>Dunia Punya Cerita</title>
 </programme>
+<programme start="20260130140000 +0000" stop="20260130160000 +0000" channel="Trans TV.vision">
+<title>Bioskop Trans TV</title>
+</programme>
+<programme start="20260130160000 +0000" stop="20260130180000 +0000" channel="Trans TV.vision">
+<title>Bioskop Trans TV</title>
+</programme>
 <programme start="20260130180000 +0000" stop="20260130220000 +0000" channel="Trans TV.vision">
 <title>Pilihan Indonesia: Debat Capres</title>
+</programme>
+<programme start="20260130220000 +0000" stop="20260130233000 +0000" channel="Trans TV.vision">
+<title>Islam Itu Indah</title>
+</programme>
+<programme start="20260130233000 +0000" stop="20260131003000 +0000" channel="Trans TV.vision">
+<title>Insert Pagi (L)</title>
 </programme>
 <programme start="20260131003000 +0000" stop="20260131013000 +0000" channel="Trans TV.vision">
 <title>Kajian Hati</title>
 </programme>
 <programme start="20260131013000 +0000" stop="20260131033000 +0000" channel="Trans TV.vision">
 <title>Ambyar In Weekend</title>
+</programme>
+<programme start="20260131033000 +0000" stop="20260131043000 +0000" channel="Trans TV.vision">
+<title>Insert Siang</title>
 </programme>
 <programme start="20260131043000 +0000" stop="20260131053000 +0000" channel="Trans TV.vision">
 <title>Spill DD Tea</title>
@@ -487,17 +514,14 @@
 <programme start="20260131070000 +0000" stop="20260131080000 +0000" channel="Trans TV.vision">
 <title>Rumpi Hot Of The Week</title>
 </programme>
-<programme start="20260131080000 +0000" stop="20260131091500 +0000" channel="Trans TV.vision">
+<programme start="20260131080000 +0000" stop="20260131093000 +0000" channel="Trans TV.vision">
 <title>Insert Investigasi</title>
 </programme>
-<programme start="20260131091500 +0000" stop="20260131100000 +0000" channel="Trans TV.vision">
-<title>Sehari Jadi Ratu</title>
-</programme>
-<programme start="20260131100000 +0000" stop="20260131103000 +0000" channel="Trans TV.vision">
-<title>CNN Indonesia News Update</title>
+<programme start="20260131093000 +0000" stop="20260131103000 +0000" channel="Trans TV.vision">
+<title>HaHa HiHi</title>
 </programme>
 <programme start="20260131103000 +0000" stop="20260131114500 +0000" channel="Trans TV.vision">
-<title>Bikin Laper</title>
+<title>Bikin Laper Weekend</title>
 </programme>
 <programme start="20260131114500 +0000" stop="20260131130000 +0000" channel="Trans TV.vision">
 <title>Insert Story</title>
@@ -651,9 +675,6 @@
 </programme>
 <programme start="20260130083000 +0000" stop="20260130130000 +0000" channel="ANTV.vision">
 <title>Vasudha</title>
-</programme>
-<programme start="20260130130000 +0000" stop="20260130143000 +0000" channel="ANTV.vision">
-<title>Malam Satu Syuro</title>
 </programme>
 <programme start="20260130143000 +0000" stop="20260130163000 +0000" channel="ANTV.vision">
 <title>Si Rawing</title>
@@ -1279,138 +1300,6 @@
 <programme start="20260131113000 +0000" stop="20260131120000 +0000" channel="Metro TV.vision">
 <title>Primetime News</title>
 </programme>
-<programme start="20260129230300 +0000" stop="20260130003000 +0000" channel="BTV.vision">
-<title>BTV</title>
-</programme>
-<programme start="20260130003000 +0000" stop="20260130011500 +0000" channel="BTV.vision">
-<title>BTV</title>
-</programme>
-<programme start="20260130011500 +0000" stop="20260130014500 +0000" channel="BTV.vision">
-<title>BTV</title>
-</programme>
-<programme start="20260130014500 +0000" stop="20260130023000 +0000" channel="BTV.vision">
-<title>BTV</title>
-</programme>
-<programme start="20260130023000 +0000" stop="20260130031500 +0000" channel="BTV.vision">
-<title>BTV</title>
-</programme>
-<programme start="20260130031500 +0000" stop="20260130040000 +0000" channel="BTV.vision">
-<title>BTV</title>
-</programme>
-<programme start="20260130040000 +0000" stop="20260130050000 +0000" channel="BTV.vision">
-<title>BTV</title>
-</programme>
-<programme start="20260130050000 +0000" stop="20260130060000 +0000" channel="BTV.vision">
-<title>BTV</title>
-</programme>
-<programme start="20260130060000 +0000" stop="20260130063000 +0000" channel="BTV.vision">
-<title>BTV</title>
-</programme>
-<programme start="20260130063000 +0000" stop="20260130080000 +0000" channel="BTV.vision">
-<title>BTV</title>
-</programme>
-<programme start="20260130080000 +0000" stop="20260130083000 +0000" channel="BTV.vision">
-<title>BTV</title>
-</programme>
-<programme start="20260130083000 +0000" stop="20260130091500 +0000" channel="BTV.vision">
-<title>BTV</title>
-</programme>
-<programme start="20260130091500 +0000" stop="20260130093000 +0000" channel="BTV.vision">
-<title>BTV</title>
-</programme>
-<programme start="20260130093000 +0000" stop="20260130103000 +0000" channel="BTV.vision">
-<title>BTV</title>
-</programme>
-<programme start="20260130103000 +0000" stop="20260130123000 +0000" channel="BTV.vision">
-<title>BTV</title>
-</programme>
-<programme start="20260130123000 +0000" stop="20260130130000 +0000" channel="BTV.vision">
-<title>BTV</title>
-</programme>
-<programme start="20260130130000 +0000" stop="20260130140000 +0000" channel="BTV.vision">
-<title>BTV</title>
-</programme>
-<programme start="20260130140000 +0000" stop="20260130150000 +0000" channel="BTV.vision">
-<title>BTV</title>
-</programme>
-<programme start="20260130150000 +0000" stop="20260130160000 +0000" channel="BTV.vision">
-<title>BTV</title>
-</programme>
-<programme start="20260130160000 +0000" stop="20260130163000 +0000" channel="BTV.vision">
-<title>BTV</title>
-</programme>
-<programme start="20260130163000 +0000" stop="20260130173000 +0000" channel="BTV.vision">
-<title>BTV</title>
-</programme>
-<programme start="20260130173000 +0000" stop="20260130182700 +0000" channel="BTV.vision">
-<title>BTV</title>
-</programme>
-<programme start="20260130182700 +0000" stop="20260130183000 +0000" channel="BTV.vision">
-<title>BTV</title>
-</programme>
-<programme start="20260130183000 +0000" stop="20260130193000 +0000" channel="BTV.vision">
-<title>BTV</title>
-</programme>
-<programme start="20260130193000 +0000" stop="20260130203000 +0000" channel="BTV.vision">
-<title>BTV</title>
-</programme>
-<programme start="20260130203000 +0000" stop="20260130213000 +0000" channel="BTV.vision">
-<title>BTV</title>
-</programme>
-<programme start="20260130213000 +0000" stop="20260130223000 +0000" channel="BTV.vision">
-<title>BTV</title>
-</programme>
-<programme start="20260130223000 +0000" stop="20260130230000 +0000" channel="BTV.vision">
-<title>BTV</title>
-</programme>
-<programme start="20260130230000 +0000" stop="20260130230300 +0000" channel="BTV.vision">
-<title>BTV</title>
-</programme>
-<programme start="20260130230300 +0000" stop="20260131003000 +0000" channel="BTV.vision">
-<title>BTV</title>
-</programme>
-<programme start="20260131003000 +0000" stop="20260131011500 +0000" channel="BTV.vision">
-<title>BTV</title>
-</programme>
-<programme start="20260131011500 +0000" stop="20260131014500 +0000" channel="BTV.vision">
-<title>BTV</title>
-</programme>
-<programme start="20260131014500 +0000" stop="20260131023000 +0000" channel="BTV.vision">
-<title>BTV</title>
-</programme>
-<programme start="20260131023000 +0000" stop="20260131031500 +0000" channel="BTV.vision">
-<title>BTV</title>
-</programme>
-<programme start="20260131031500 +0000" stop="20260131040000 +0000" channel="BTV.vision">
-<title>BTV</title>
-</programme>
-<programme start="20260131040000 +0000" stop="20260131050000 +0000" channel="BTV.vision">
-<title>BTV</title>
-</programme>
-<programme start="20260131050000 +0000" stop="20260131060000 +0000" channel="BTV.vision">
-<title>BTV</title>
-</programme>
-<programme start="20260131060000 +0000" stop="20260131063000 +0000" channel="BTV.vision">
-<title>BTV</title>
-</programme>
-<programme start="20260131063000 +0000" stop="20260131080000 +0000" channel="BTV.vision">
-<title>BTV</title>
-</programme>
-<programme start="20260131080000 +0000" stop="20260131083000 +0000" channel="BTV.vision">
-<title>BTV</title>
-</programme>
-<programme start="20260131083000 +0000" stop="20260131091500 +0000" channel="BTV.vision">
-<title>BTV</title>
-</programme>
-<programme start="20260131091500 +0000" stop="20260131093000 +0000" channel="BTV.vision">
-<title>BTV</title>
-</programme>
-<programme start="20260131093000 +0000" stop="20260131103000 +0000" channel="BTV.vision">
-<title>BTV</title>
-</programme>
-<programme start="20260131103000 +0000" stop="20260131123000 +0000" channel="BTV.vision">
-<title>BTV</title>
-</programme>
 <programme start="20260129230000 +0000" stop="20260130010000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
@@ -1497,4 +1386,115 @@
 </programme>
 <programme start="20260131030000 +0000" stop="20260131060000 +0000" channel="DAAI TV.vision">
 <title>DAAI TV</title>
+</programme>
+<programme start="20260131060000 +0000" stop="20260131090000 +0000" channel="DAAI TV.vision">
+<title>DAAI TV</title>
+</programme>
+<programme start="20260131090000 +0000" stop="20260131120000 +0000" channel="DAAI TV.vision">
+<title>DAAI TV</title>
+</programme>
+<programme start="20260129234500 +0000" stop="20260130010000 +0000" channel="MDTV.vision">
+<title>AADD: Ada Apa Dengan Dunia</title>
+</programme>
+<programme start="20260130010000 +0000" stop="20260130020000 +0000" channel="MDTV.vision">
+<title>Fakta +62</title>
+</programme>
+<programme start="20260130020000 +0000" stop="20260130030000 +0000" channel="MDTV.vision">
+<title>Sensasihot</title>
+</programme>
+<programme start="20260130030000 +0000" stop="20260130041500 +0000" channel="MDTV.vision">
+<title>Rosalinda</title>
+</programme>
+<programme start="20260130041500 +0000" stop="20260130054000 +0000" channel="MDTV.vision">
+<title>Maria Mercedes</title>
+</programme>
+<programme start="20260130054000 +0000" stop="20260130065000 +0000" channel="MDTV.vision">
+<title>Cinta Fitri S6</title>
+</programme>
+<programme start="20260130065000 +0000" stop="20260130075500 +0000" channel="MDTV.vision">
+<title>Makan Enak</title>
+</programme>
+<programme start="20260130075500 +0000" stop="20260130085500 +0000" channel="MDTV.vision">
+<title>Masak Gesss!!!</title>
+</programme>
+<programme start="20260130085500 +0000" stop="20260130095000 +0000" channel="MDTV.vision">
+<title>Adit Sopo Jarwo</title>
+</programme>
+<programme start="20260130095000 +0000" stop="20260130103500 +0000" channel="MDTV.vision">
+<title>Cinta Paulina</title>
+</programme>
+<programme start="20260130103500 +0000" stop="20260130113000 +0000" channel="MDTV.vision">
+<title>Maria Cinta Yang Hilang</title>
+</programme>
+<programme start="20260130113000 +0000" stop="20260130123000 +0000" channel="MDTV.vision">
+<title>Betty La Fea</title>
+</programme>
+<programme start="20260130123000 +0000" stop="20260130133000 +0000" channel="MDTV.vision">
+<title>Pernikahan Dini Gen Z</title>
+</programme>
+<programme start="20260130133000 +0000" stop="20260130143000 +0000" channel="MDTV.vision">
+<title>Ipar Adalah Maut: The Series</title>
+</programme>
+<programme start="20260130143000 +0000" stop="20260130152500 +0000" channel="MDTV.vision">
+<title>Kisah Untuk Geri</title>
+</programme>
+<programme start="20260130152500 +0000" stop="20260130162500 +0000" channel="MDTV.vision">
+<title>Clean With Passion For Now</title>
+</programme>
+<programme start="20260130162500 +0000" stop="20260130174000 +0000" channel="MDTV.vision">
+<title>The World Of The Married</title>
+</programme>
+<programme start="20260130174000 +0000" stop="20260130184500 +0000" channel="MDTV.vision">
+<title>Jatanras</title>
+</programme>
+<programme start="20260130184500 +0000" stop="20260130193000 +0000" channel="MDTV.vision">
+<title>86</title>
+</programme>
+<programme start="20260130193000 +0000" stop="20260130202000 +0000" channel="MDTV.vision">
+<title>Inilah Kisahnya</title>
+</programme>
+<programme start="20260130202000 +0000" stop="20260130212000 +0000" channel="MDTV.vision">
+<title>Di Balik Mitos</title>
+</programme>
+<programme start="20260130212000 +0000" stop="20260130222500 +0000" channel="MDTV.vision">
+<title>Keajaiban Dunia</title>
+</programme>
+<programme start="20260130222500 +0000" stop="20260130234000 +0000" channel="MDTV.vision">
+<title>Top Spot</title>
+</programme>
+<programme start="20260130234000 +0000" stop="20260131010000 +0000" channel="MDTV.vision">
+<title>AADD: Ada Apa Dengan Dunia</title>
+</programme>
+<programme start="20260131010000 +0000" stop="20260131020000 +0000" channel="MDTV.vision">
+<title>Fakta +62 Weekend</title>
+</programme>
+<programme start="20260131020000 +0000" stop="20260131030000 +0000" channel="MDTV.vision">
+<title>Sensasihot</title>
+</programme>
+<programme start="20260131030000 +0000" stop="20260131041500 +0000" channel="MDTV.vision">
+<title>Rosalinda</title>
+</programme>
+<programme start="20260131041500 +0000" stop="20260131054000 +0000" channel="MDTV.vision">
+<title>Maria Mercedes</title>
+</programme>
+<programme start="20260131054000 +0000" stop="20260131065000 +0000" channel="MDTV.vision">
+<title>Cinta Fitri S6</title>
+</programme>
+<programme start="20260131065000 +0000" stop="20260131075500 +0000" channel="MDTV.vision">
+<title>Makan Enak</title>
+</programme>
+<programme start="20260131075500 +0000" stop="20260131085500 +0000" channel="MDTV.vision">
+<title>Masak Gesss!!!</title>
+</programme>
+<programme start="20260131085500 +0000" stop="20260131095000 +0000" channel="MDTV.vision">
+<title>Adit Sopo Jarwo</title>
+</programme>
+<programme start="20260131095000 +0000" stop="20260131103500 +0000" channel="MDTV.vision">
+<title>Cinta Paulina</title>
+</programme>
+<programme start="20260131103500 +0000" stop="20260131113000 +0000" channel="MDTV.vision">
+<title>Maria Cinta Yang Hilang</title>
+</programme>
+<programme start="20260131113000 +0000" stop="20260131123000 +0000" channel="MDTV.vision">
+<title>Betty La Fea</title>
 </programme>
