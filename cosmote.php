@@ -1,11 +1,3 @@
-<programme start="20260130170000 +0700" stop="20260130173000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Sports Classics: Football Countdowns E8</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260130173000 +0700" stop="20260130180000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>UEFA Champions League Show 2025-26 (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
 <programme start="20260130180000 +0700" stop="20260130183000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Show: Draw (L)</title>
     <desc>Live: Ya</desc>
@@ -82,8 +74,8 @@
     <title>Football: AFC Ajax - Olympiacos</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260130160000 +0700" stop="20260130180000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: SK Sturm Graz - SK Brann</title>
+<programme start="20260131183000 +0700" stop="20260131193000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Highlights: UEL &amp; UECL 2025-26</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260130180000 +0700" stop="20260130200000 +0700" channel="COSMOTE Sport 2 HD">
@@ -274,14 +266,6 @@
     <title>Basketball: Golden State Warriors - Detroit Pistons</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260130163000 +0700" stop="20260130173000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260130173000 +0700" stop="20260130180000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260130180000 +0700" stop="20260130200500 +0700" channel="COSMOTE Sport 5 HD">
     <title>2025 Extreme H</title>
     <desc>Live: Tidak</desc>
@@ -376,10 +360,6 @@
 </programme>
 <programme start="20260131174500 +0700" stop="20260131193000 +0700" channel="COSMOTE Sport 5 HD">
     <title>DTM 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260130153500 +0700" stop="20260130180000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Volleyball: PAOK - Podoliani</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260130180000 +0700" stop="20260130190000 +0700" channel="COSMOTE Sport 6 HD">

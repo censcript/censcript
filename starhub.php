@@ -2692,11 +2692,8 @@
     <programme start="20260130040000 +0000" stop="20260130043000 +0000" channel="Sun TV.starhub">
         <title>Punitha</title>
     </programme>
-    <programme start="20260130043000 +0000" stop="20260130050000 +0000" channel="Sun TV.starhub">
+    <programme start="20260130043000 +0000" stop="20260130053000 +0000" channel="Sun TV.starhub">
         <title>MANAMAGALE VAA</title>
-    </programme>
-    <programme start="20260130050000 +0000" stop="20260130053000 +0000" channel="Sun TV.starhub">
-        <title>VINODHINI</title>
     </programme>
     <programme start="20260130053000 +0000" stop="20260130060000 +0000" channel="Sun TV.starhub">
         <title>PUTHU VASANTHAM</title>
