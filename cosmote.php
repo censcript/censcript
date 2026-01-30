@@ -78,8 +78,8 @@
     <title>Football: SK Sturm Graz - SK Brann</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260130100000 +0700" stop="20260130120000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Como - Torino</title>
+<programme start="20260131120000 +0700" stop="20260131140000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: Athletic Club - Sporting CP</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260130120000 +0700" stop="20260130141500 +0700" channel="COSMOTE Sport 2 HD">
@@ -148,6 +148,10 @@
 </programme>
 <programme start="20260131100000 +0700" stop="20260131120000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: SS Lazio - Genoa</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260131120000 +0700" stop="20260131141500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: OFI - Panetolikos</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260130110000 +0700" stop="20260130141000 +0700" channel="COSMOTE Sport 3 HD">
@@ -382,8 +386,8 @@
     <title>WRC 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260130110000 +0700" stop="20260130120000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>ATP 2025 - Review</title>
+<programme start="20260131120500 +0700" stop="20260131130000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260130120000 +0700" stop="20260130125500 +0700" channel="COSMOTE Sport 6 HD">

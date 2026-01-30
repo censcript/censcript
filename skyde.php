@@ -3372,6 +3372,12 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260130060000 +0000" stop="20260130061500 +0000" channel="Sky Sport UHD.skyde">
     <title>Info: UHD</title>
 </programme>
+<programme start="20260129193000 +0000" stop="20260129195000 +0000" channel="Sky Sport 2 HD.skyde">
+    <title>Es folgt: LIVE UEFA EL</title>
+</programme>
+<programme start="20260129195000 +0000" stop="20260129223000 +0000" channel="Sky Sport 2 HD.skyde">
+    <title>Live UEFA EL: FC Midtjylland - Dinamo Zagreb, Ligaphase, 8. Spieltag</title>
+</programme>
 <programme start="20260129230000 +0000" stop="20260129234500 +0000" channel="SYFY HD.skyde">
     <title>Raumschiff Enterprise - Das nächste Jahrhundert</title>
 </programme>
