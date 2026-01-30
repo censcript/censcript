@@ -1,11 +1,3 @@
-<programme start="20260131043000 +0700" stop="20260131053000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>UEFA Champions League Highlights 2025-26</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260131053000 +0700" stop="20260131060000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Game R1 S6 E23</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260131060000 +0700" stop="20260131080000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Real Betis Balompie - Feyenoord</title>
     <desc>Live: Tidak</desc>
@@ -72,6 +64,14 @@
 </programme>
 <programme start="20260201055500 +0700" stop="20260201062500 +0700" channel="COSMOTE Sport 1 HD">
     <title>Game R1 S6 E23</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260201062500 +0700" stop="20260201065500 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEFA Champions League Magazine 2024-25 E18</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260201065500 +0700" stop="20260201090000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: Nottingham F. - Ferencvarosi TC</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260131044500 +0700" stop="20260131064500 +0700" channel="COSMOTE Sport 2 HD">
@@ -286,10 +286,6 @@
     <title>Basketball: Karsiyaka - Fenerbahce</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260131045000 +0700" stop="20260131055500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>2025 Extreme H</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260131055500 +0700" stop="20260131070000 +0700" channel="COSMOTE Sport 5 HD">
     <title>2025 Extreme H</title>
     <desc>Live: Tidak</desc>
@@ -382,6 +378,10 @@
     <title>2025 Extreme H</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260201065500 +0700" stop="20260201080500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>MotoGP Classics</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260131043000 +0700" stop="20260131070000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Volleyball: Olympiacos - Allianz Powervolley Milano</title>
     <desc>Live: Tidak</desc>
@@ -450,9 +450,13 @@
     <title>Fight Sports: Oktagon 2026 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260131034500 +0700" stop="20260131054500 +0700" channel="COSMOTE Sport 7 HD">
-    <title>Football: Vitoria Guimaraes - Moreirense (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20260201060000 +0700" stop="20260201063000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>HYROX - The World of Fitness Racing E1</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260201063000 +0700" stop="20260201070000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>HYROX - The World of Fitness Racing E2</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260131054500 +0700" stop="20260131070000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
