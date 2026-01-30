@@ -2662,11 +2662,14 @@
     <programme start="20260129160000 +0000" stop="20260129163000 +0000" channel="Sun TV.starhub">
         <title>PUTHU VASANTHAM</title>
     </programme>
-    <programme start="20260129163000 +0000" stop="20260129230000 +0000" channel="Sun TV.starhub">
+    <programme start="20260129163000 +0000" stop="20260129170000 +0000" channel="Sun TV.starhub">
         <title>SONGS</title>
     </programme>
+    <programme start="20260129170000 +0000" stop="20260129230000 +0000" channel="Sun TV.starhub">
+        <title>VINODHINI</title>
+    </programme>
     <programme start="20260129230000 +0000" stop="20260129233000 +0000" channel="Sun TV.starhub">
-        <title>NEWS</title>
+        <title>News</title>
     </programme>
     <programme start="20260129233000 +0000" stop="20260130000000 +0000" channel="Sun TV.starhub">
         <title>Vanakkam Thamizha</title>

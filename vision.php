@@ -136,10 +136,7 @@
 <programme start="20260131043000 +0000" stop="20260131073000 +0000" channel="MNCTV.vision">
 <title>Upin &amp; Ipin</title>
 </programme>
-<programme start="20260131073000 +0000" stop="20260131093000 +0000" channel="MNCTV.vision">
-<title>Titus: Mystery Of The Enygma</title>
-</programme>
-<programme start="20260131093000 +0000" stop="20260131100000 +0000" channel="MNCTV.vision">
+<programme start="20260131073000 +0000" stop="20260131100000 +0000" channel="MNCTV.vision">
 <title>Upin &amp; Ipin</title>
 </programme>
 <programme start="20260131100000 +0000" stop="20260131110000 +0000" channel="MNCTV.vision">
@@ -648,9 +645,6 @@
 </programme>
 <programme start="20260130010000 +0000" stop="20260130023000 +0000" channel="ANTV.vision">
 <title>Baalveer Returns</title>
-</programme>
-<programme start="20260130023000 +0000" stop="20260130060000 +0000" channel="ANTV.vision">
-<title>Happy New Year</title>
 </programme>
 <programme start="20260130060000 +0000" stop="20260130083000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
@@ -1496,5 +1490,11 @@
 <title>DAAI TV</title>
 </programme>
 <programme start="20260130210000 +0000" stop="20260131000000 +0000" channel="DAAI TV.vision">
+<title>DAAI TV</title>
+</programme>
+<programme start="20260131000000 +0000" stop="20260131030000 +0000" channel="DAAI TV.vision">
+<title>DAAI TV</title>
+</programme>
+<programme start="20260131030000 +0000" stop="20260131060000 +0000" channel="DAAI TV.vision">
 <title>DAAI TV</title>
 </programme>
