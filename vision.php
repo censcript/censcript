@@ -814,6 +814,9 @@
 <programme start="20260129233000 +0000" stop="20260130013000 +0000" channel="TVOne.vision">
 <title>Apa Kabar Indonesia Pagi (L)</title>
 </programme>
+<programme start="20260130013000 +0000" stop="20260130020000 +0000" channel="TVOne.vision">
+<title>Hidup Sehat</title>
+</programme>
 <programme start="20260130020000 +0000" stop="20260130023000 +0000" channel="TVOne.vision">
 <title>Inspirasi Pagi (L)</title>
 </programme>
@@ -1493,8 +1496,5 @@
 <title>DAAI TV</title>
 </programme>
 <programme start="20260130180000 +0000" stop="20260130210000 +0000" channel="DAAI TV.vision">
-<title>DAAI TV</title>
-</programme>
-<programme start="20260130210000 +0000" stop="20260131000000 +0000" channel="DAAI TV.vision">
 <title>DAAI TV</title>
 </programme>
