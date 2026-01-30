@@ -676,9 +676,6 @@
 <programme start="20260130083000 +0000" stop="20260130130000 +0000" channel="ANTV.vision">
 <title>Vasudha</title>
 </programme>
-<programme start="20260130193000 +0000" stop="20260130213000 +0000" channel="ANTV.vision">
-<title>Aladin</title>
-</programme>
 <programme start="20260130213000 +0000" stop="20260130223000 +0000" channel="ANTV.vision">
 <title>Senyum Iman</title>
 </programme>
@@ -1496,5 +1493,8 @@
 <title>JTV</title>
 </programme>
 <programme start="20260130040000 +0000" stop="20260130060000 +0000" channel="JTV.vision">
+<title>JTV</title>
+</programme>
+<programme start="20260130060000 +0000" stop="20260130080000 +0000" channel="JTV.vision">
 <title>JTV</title>
 </programme>
