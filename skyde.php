@@ -3777,42 +3777,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260130211500 +0000" stop="20260130231500 +0000" channel="Warner TV Film.skyde">
     <title>The Shining</title>
 </programme>
-<programme start="20260129235000 +0000" stop="20260130013500 +0000" channel="Warner TV Film HD.skyde">
-    <title>xXx: Die Rückkehr des Xander Cage</title>
-</programme>
-<programme start="20260130013500 +0000" stop="20260130032500 +0000" channel="Warner TV Film HD.skyde">
-    <title>Mad Max: Fury Road</title>
-</programme>
-<programme start="20260130032500 +0000" stop="20260130050000 +0000" channel="Warner TV Film HD.skyde">
-    <title>Kampf der Titanen</title>
-</programme>
-<programme start="20260130050000 +0000" stop="20260130070000 +0000" channel="Warner TV Film HD.skyde">
-    <title>Die Hexen von Eastwick</title>
-</programme>
-<programme start="20260130070000 +0000" stop="20260130090000 +0000" channel="Warner TV Film HD.skyde">
-    <title>Die Nacht des Leguan</title>
-</programme>
-<programme start="20260130090000 +0000" stop="20260130112000 +0000" channel="Warner TV Film HD.skyde">
-    <title>Master &amp; Commander - Bis ans Ende der Welt</title>
-</programme>
-<programme start="20260130112000 +0000" stop="20260130130000 +0000" channel="Warner TV Film HD.skyde">
-    <title>Demolition - Lieben und Leben</title>
-</programme>
-<programme start="20260130130000 +0000" stop="20260130145500 +0000" channel="Warner TV Film HD.skyde">
-    <title>Edge of Tomorrow - Live. Die. Repeat</title>
-</programme>
-<programme start="20260130145500 +0000" stop="20260130171000 +0000" channel="Warner TV Film HD.skyde">
-    <title>Pacific Rim</title>
-</programme>
-<programme start="20260130171000 +0000" stop="20260130191500 +0000" channel="Warner TV Film HD.skyde">
-    <title>Mad Max: Fury Road</title>
-</programme>
-<programme start="20260130191500 +0000" stop="20260130211500 +0000" channel="Warner TV Film HD.skyde">
-    <title>Wer Gewalt sät</title>
-</programme>
-<programme start="20260130211500 +0000" stop="20260130231500 +0000" channel="Warner TV Film HD.skyde">
-    <title>The Shining</title>
-</programme>
 <programme start="20260129230500 +0000" stop="20260129235000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Rizzoli and Isles</title>
 </programme>

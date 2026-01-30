@@ -78,12 +78,12 @@
     <title>Football: Manchester City FC - Galatasaray AS</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260130145000 +0700" stop="20260130152500 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Sports Classics: Football&#039;s Greatest IV E7</title>
+<programme start="20260131160000 +0700" stop="20260131163000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Game R1 S6 E23</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260130152500 +0700" stop="20260130160000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Sports Classics: Football&#039;s Greatest IV E8</title>
+<programme start="20260131163000 +0700" stop="20260131183000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: AFC Ajax - Olympiacos</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260130160000 +0700" stop="20260130180000 +0700" channel="COSMOTE Sport 2 HD">
@@ -278,6 +278,10 @@
     <title>Basketball: Merkezefendi - Karsiyaka</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260131164000 +0700" stop="20260131191000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Golden State Warriors - Detroit Pistons</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260130145500 +0700" stop="20260130163000 +0700" channel="COSMOTE Sport 5 HD">
     <title>WRC 2026</title>
     <desc>Live: Tidak</desc>
@@ -378,8 +382,8 @@
     <title>WRC</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260130132500 +0700" stop="20260130153500 +0700" channel="COSMOTE Sport 6 HD">
-    <title>World Athletics Indoor Tour Gold 2026</title>
+<programme start="20260131162000 +0700" stop="20260131174500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>DTM 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260130153500 +0700" stop="20260130180000 +0700" channel="COSMOTE Sport 6 HD">
@@ -436,6 +440,10 @@
 </programme>
 <programme start="20260131141000 +0700" stop="20260131164000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Volleyball: Olympiacos - Allianz Powervolley Milano</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260131164000 +0700" stop="20260131190000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>CEV Beach Volleyball European Cup 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260130150000 +0700" stop="20260130170000 +0700" channel="COSMOTE Sport 7 HD">
