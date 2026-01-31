@@ -1,7 +1,3 @@
-<programme start="20260131120000 +0700" stop="20260131140000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: Athletic Club - Sporting CP</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260131140000 +0700" stop="20260131160000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Manchester City FC - Galatasaray AS</title>
     <desc>Live: Tidak</desc>
@@ -76,6 +72,10 @@
 </programme>
 <programme start="20260201123000 +0700" stop="20260201143000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Club Brugge - Olympique de Marseille</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260201143000 +0700" stop="20260201163000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: Olympique Lyonnais - PAOK</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260131120000 +0700" stop="20260131141500 +0700" channel="COSMOTE Sport 2 HD">
@@ -156,6 +156,10 @@
 </programme>
 <programme start="20260201120000 +0700" stop="20260201140000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Pisa - Sassuolo</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260201140000 +0700" stop="20260201160000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: SSC Napoli - ACF Fiorentina</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260131110000 +0700" stop="20260131143000 +0700" channel="COSMOTE Sport 3 HD">
@@ -294,10 +298,6 @@
     <title>Basketball: Barcelona - Tenerife</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260131130000 +0700" stop="20260131134500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC 2026</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260131134500 +0700" stop="20260131152000 +0700" channel="COSMOTE Sport 5 HD">
     <title>WRC 2026</title>
     <desc>Live: Tidak</desc>
@@ -386,8 +386,8 @@
     <title>MotoGP Classics</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260131110000 +0700" stop="20260131134000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Volleyball: Karlovarsko - Olympiacos</title>
+<programme start="20260201143000 +0700" stop="20260201153000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>MotoGP Classics</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260131134000 +0700" stop="20260131141000 +0700" channel="COSMOTE Sport 6 HD">
