@@ -1386,46 +1386,46 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260131052000 +0000" stop="20260131054500 +0000" channel="Nick Jr..skyde">
     <title>Blaze und die Monster-Maschinen</title>
 </programme>
-<programme start="20260131054500 +0000" stop="20260131060500 +0000" channel="Nick Jr..skyde">
+<programme start="20260131054500 +0000" stop="20260131061000 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20260131060500 +0000" stop="20260131063000 +0000" channel="Nick Jr..skyde">
+<programme start="20260131061000 +0000" stop="20260131063000 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20260131063000 +0000" stop="20260131065000 +0000" channel="Nick Jr..skyde">
+<programme start="20260131063000 +0000" stop="20260131065500 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20260131065000 +0000" stop="20260131071500 +0000" channel="Nick Jr..skyde">
+<programme start="20260131065500 +0000" stop="20260131071500 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20260131071500 +0000" stop="20260131073500 +0000" channel="Nick Jr..skyde">
+<programme start="20260131071500 +0000" stop="20260131074000 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
 </programme>
-<programme start="20260131073500 +0000" stop="20260131075000 +0000" channel="Nick Jr..skyde">
+<programme start="20260131074000 +0000" stop="20260131075000 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
 </programme>
-<programme start="20260131075000 +0000" stop="20260131081000 +0000" channel="Nick Jr..skyde">
+<programme start="20260131075000 +0000" stop="20260131081300 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
-<programme start="20260131081000 +0000" stop="20260131081500 +0000" channel="Nick Jr..skyde">
+<programme start="20260131081300 +0000" stop="20260131081800 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260131081500 +0000" stop="20260131082000 +0000" channel="Nick Jr..skyde">
+<programme start="20260131081800 +0000" stop="20260131082300 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260131082000 +0000" stop="20260131082500 +0000" channel="Nick Jr..skyde">
+<programme start="20260131082300 +0000" stop="20260131082500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260131082500 +0000" stop="20260131083000 +0000" channel="Nick Jr..skyde">
+<programme start="20260131082500 +0000" stop="20260131083300 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260131083000 +0000" stop="20260131083500 +0000" channel="Nick Jr..skyde">
+<programme start="20260131083300 +0000" stop="20260131083800 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260131083500 +0000" stop="20260131084000 +0000" channel="Nick Jr..skyde">
+<programme start="20260131083800 +0000" stop="20260131084200 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260131084000 +0000" stop="20260131084500 +0000" channel="Nick Jr..skyde">
+<programme start="20260131084200 +0000" stop="20260131084500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
 <programme start="20260131084500 +0000" stop="20260131085000 +0000" channel="Nick Jr..skyde">
@@ -1434,16 +1434,16 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260131085000 +0000" stop="20260131091500 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260131091500 +0000" stop="20260131094000 +0000" channel="Nick Jr..skyde">
+<programme start="20260131091500 +0000" stop="20260131093500 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260131094000 +0000" stop="20260131094500 +0000" channel="Nick Jr..skyde">
+<programme start="20260131093500 +0000" stop="20260131094500 +0000" channel="Nick Jr..skyde">
     <title>Sharkdog</title>
 </programme>
-<programme start="20260131094500 +0000" stop="20260131095500 +0000" channel="Nick Jr..skyde">
+<programme start="20260131094500 +0000" stop="20260131095000 +0000" channel="Nick Jr..skyde">
     <title>Sharkdog</title>
 </programme>
-<programme start="20260131095500 +0000" stop="20260131100000 +0000" channel="Nick Jr..skyde">
+<programme start="20260131095000 +0000" stop="20260131100000 +0000" channel="Nick Jr..skyde">
     <title>Sharkdog</title>
 </programme>
 <programme start="20260131100000 +0000" stop="20260131102000 +0000" channel="Nick Jr..skyde">
@@ -1467,10 +1467,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260131121500 +0000" stop="20260131124000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260131124000 +0000" stop="20260131130500 +0000" channel="Nick Jr..skyde">
+<programme start="20260131124000 +0000" stop="20260131130000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260131130500 +0000" stop="20260131132500 +0000" channel="Nick Jr..skyde">
+<programme start="20260131130000 +0000" stop="20260131132500 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
 <programme start="20260131132500 +0000" stop="20260131135000 +0000" channel="Nick Jr..skyde">
@@ -1479,19 +1479,19 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260131135000 +0000" stop="20260131141500 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
 </programme>
-<programme start="20260131141500 +0000" stop="20260131143500 +0000" channel="Nick Jr..skyde">
+<programme start="20260131141500 +0000" stop="20260131143700 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
 </programme>
-<programme start="20260131143500 +0000" stop="20260131144000 +0000" channel="Nick Jr..skyde">
+<programme start="20260131143700 +0000" stop="20260131144200 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260131144000 +0000" stop="20260131144500 +0000" channel="Nick Jr..skyde">
+<programme start="20260131144200 +0000" stop="20260131144600 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260131144500 +0000" stop="20260131145000 +0000" channel="Nick Jr..skyde">
+<programme start="20260131144600 +0000" stop="20260131145100 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260131145000 +0000" stop="20260131145500 +0000" channel="Nick Jr..skyde">
+<programme start="20260131145100 +0000" stop="20260131145500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
 <programme start="20260131145500 +0000" stop="20260131150000 +0000" channel="Nick Jr..skyde">
@@ -1536,19 +1536,19 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260131180000 +0000" stop="20260131180500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260131180500 +0000" stop="20260131181000 +0000" channel="Nick Jr..skyde">
+<programme start="20260131180500 +0000" stop="20260131180900 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260131181000 +0000" stop="20260131181500 +0000" channel="Nick Jr..skyde">
+<programme start="20260131180900 +0000" stop="20260131181400 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260131181500 +0000" stop="20260131182000 +0000" channel="Nick Jr..skyde">
+<programme start="20260131181400 +0000" stop="20260131181800 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260131182000 +0000" stop="20260131182500 +0000" channel="Nick Jr..skyde">
+<programme start="20260131181800 +0000" stop="20260131182000 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260131182500 +0000" stop="20260131183000 +0000" channel="Nick Jr..skyde">
+<programme start="20260131182000 +0000" stop="20260131183000 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
 <programme start="20260131183000 +0000" stop="20260131185000 +0000" channel="Nick Jr..skyde">
@@ -1590,7 +1590,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260131222500 +0000" stop="20260131225000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260131225000 +0000" stop="20260131231500 +0000" channel="Nick Jr..skyde">
+<programme start="20260131225000 +0000" stop="20260131231000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
 <programme start="20260131002500 +0000" stop="20260131020500 +0000" channel="Romance TV HD.skyde">
@@ -3081,81 +3081,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260131223000 +0000" stop="20260131230000 +0000" channel="Sky Sport News HD.skyde">
     <title>Sky Sport News: Nightline</title>
 </programme>
-<programme start="20260130230000 +0000" stop="20260131000000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 1 to 11 (Peter Schmeichel)</title>
-</programme>
-<programme start="20260131000000 +0000" stop="20260131020000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Newcastle United - Aston Villa, 23. Spieltag</title>
-</programme>
-<programme start="20260131020000 +0000" stop="20260131040000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: FC Arsenal - Manchester United, Match of the Week, 23. Spieltag</title>
-</programme>
-<programme start="20260131040000 +0000" stop="20260131050000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: GOATS (Wayne Rooney)</title>
-</programme>
-<programme start="20260131050000 +0000" stop="20260131060000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Best Volleys</title>
-</programme>
-<programme start="20260131060000 +0000" stop="20260131070000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 1 to 11 (Thomas Hitzlsperger)</title>
-</programme>
-<programme start="20260131070000 +0000" stop="20260131073000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Netbusters, 23. Spieltag</title>
-</programme>
-<programme start="20260131073000 +0000" stop="20260131080000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 90in30: BOU - LIV, 23. Spieltag</title>
-</programme>
-<programme start="20260131080000 +0000" stop="20260131083000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 90in30: NEW - AVL, 23. Spieltag</title>
-</programme>
-<programme start="20260131083000 +0000" stop="20260131093000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: PL Moments: Michael Owen</title>
-</programme>
-<programme start="20260131093000 +0000" stop="20260131100000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Preview, 24. Spieltag</title>
-</programme>
-<programme start="20260131100000 +0000" stop="20260131103000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: PL Rewind: Dietmar Hamann - My Liverpool Years</title>
-</programme>
-<programme start="20260131103000 +0000" stop="20260131110000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 90in30: MCI - WOL, 23. Spieltag</title>
-</programme>
-<programme start="20260131110000 +0000" stop="20260131120000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: The Catch-Up Show</title>
-</programme>
-<programme start="20260131120000 +0000" stop="20260131123000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Classic Match: Manchester City - Tottenham Hotspur (2016/17)</title>
-</programme>
-<programme start="20260131123000 +0000" stop="20260131130000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 90in30: ARS - MUN, 23. Spieltag</title>
-</programme>
-<programme start="20260131130000 +0000" stop="20260131133000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Preview, 24. Spieltag</title>
-</programme>
-<programme start="20260131133000 +0000" stop="20260131135000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Ultimates: Frank Lampard&#039;s Best PL Goal</title>
-</programme>
-<programme start="20260131135000 +0000" stop="20260131142000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Netbusters, 23. Spieltag</title>
-</programme>
-<programme start="20260131142000 +0000" stop="20260131145000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Preview, 24. Spieltag</title>
-</programme>
-<programme start="20260131145000 +0000" stop="20260131172000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>Live PL: Goal Rush, LEE - ARS, Premier League Konferenz, 24. Spieltag</title>
-</programme>
-<programme start="20260131172000 +0000" stop="20260131195000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>Live PL: FC Chelsea - West Ham United, 24. Spieltag</title>
-</programme>
-<programme start="20260131195000 +0000" stop="20260131220000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>Live PL: FC Liverpool - Newcastle United, 24. Spieltag</title>
-</programme>
-<programme start="20260131220000 +0000" stop="20260131222000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Highlights Samstag, 24. Spieltag</title>
-</programme>
-<programme start="20260131222000 +0000" stop="20260201002000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Wolverhampton Wanderers - AFC Bournemouth, 24. Spieltag</title>
-</programme>
 <programme start="20260130231500 +0000" stop="20260131001500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP Finals: Review Turin 2025</title>
 </programme>
@@ -3246,38 +3171,23 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260131220000 +0000" stop="20260201000000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NHL: Winnipeg Jets @ Florida Panthers</title>
 </programme>
-<programme start="20260131000000 +0000" stop="20260131010000 +0000" channel="Sky Sport 8 HD.skyde">
-    <title>Es folgt Golf</title>
+<programme start="20260131000000 +0000" stop="20260131010000 +0000" channel="Sky Sport 1 HD.skyde">
+    <title>Es folgt Golf: Es folgt</title>
 </programme>
-<programme start="20260131010000 +0000" stop="20260131053000 +0000" channel="Sky Sport 8 HD.skyde">
+<programme start="20260131010000 +0000" stop="20260131053000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live Golf: Reignwood Icons of Football (Morning Session), 1. Tag in Bangkok (Thailand)</title>
 </programme>
-<programme start="20260131053000 +0000" stop="20260131054500 +0000" channel="Sky Sport 8 HD.skyde">
+<programme start="20260131053000 +0000" stop="20260131054500 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Golf: Follow the Pros (5)</title>
 </programme>
-<programme start="20260131054500 +0000" stop="20260131060000 +0000" channel="Sky Sport 8 HD.skyde">
+<programme start="20260131054500 +0000" stop="20260131060000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Golf: Projekt 0 (8)</title>
 </programme>
-<programme start="20260131060000 +0000" stop="20260131063000 +0000" channel="Sky Sport 8 HD.skyde">
+<programme start="20260131060000 +0000" stop="20260131063000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>LIV Golf: Spezial</title>
 </programme>
-<programme start="20260131063000 +0000" stop="20260131121000 +0000" channel="Sky Sport 8 HD.skyde">
+<programme start="20260131063000 +0000" stop="20260131121000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live Golf: Reignwood Icons of Football (Afternoon Session), 1. Tag in Bangkok (Thailand)</title>
-</programme>
-<programme start="20260131121000 +0000" stop="20260131145000 +0000" channel="Sky Sport 8 HD.skyde">
-    <title>Es folgt: Live Premier League</title>
-</programme>
-<programme start="20260131145000 +0000" stop="20260131173000 +0000" channel="Sky Sport 8 HD.skyde">
-    <title>Live PL: Leeds United - FC Arsenal, 24. Spieltag</title>
-</programme>
-<programme start="20260131173000 +0000" stop="20260131190000 +0000" channel="Sky Sport 8 HD.skyde">
-    <title>Es folgt Golf:</title>
-</programme>
-<programme start="20260131190000 +0000" stop="20260131220000 +0000" channel="Sky Sport 8 HD.skyde">
-    <title>Golf: Reignwood Icons of Football (Morning Session), 1. Tag in Bangkok (Thailand)</title>
-</programme>
-<programme start="20260131220000 +0000" stop="20260201010000 +0000" channel="Sky Sport 8 HD.skyde">
-    <title>Golf: Reignwood Icons of Football (Afternoon Session), 1. Tag in Bangkok (Thailand)</title>
 </programme>
 <programme start="20260130231000 +0000" stop="20260130235500 +0000" channel="SYFY HD.skyde">
     <title>Raumschiff Enterprise - Das nächste Jahrhundert</title>
