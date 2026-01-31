@@ -577,9 +577,6 @@
 <programme start="20260131154500 +0000" stop="20260131163000 +0000" channel="Trans 7.vision">
 <title>The Police</title>
 </programme>
-<programme start="20260131163000 +0000" stop="20260131181500 +0000" channel="Trans 7.vision">
-<title>Pesan Dari Mathis</title>
-</programme>
 <programme start="20260131181500 +0000" stop="20260131190000 +0000" channel="Trans 7.vision">
 <title>Best Fishing</title>
 </programme>
@@ -663,12 +660,6 @@
 </programme>
 <programme start="20260131093000 +0000" stop="20260131130000 +0000" channel="ANTV.vision">
 <title>Vasudha</title>
-</programme>
-<programme start="20260131130000 +0000" stop="20260131143000 +0000" channel="ANTV.vision">
-<title>Bangunnya Nyi Roro Kidul</title>
-</programme>
-<programme start="20260131143000 +0000" stop="20260131163000 +0000" channel="ANTV.vision">
-<title>212 Warrior</title>
 </programme>
 <programme start="20260131163000 +0000" stop="20260131190000 +0000" channel="ANTV.vision">
 <title>Serie A Liga Italia</title>
@@ -1497,4 +1488,13 @@
 </programme>
 <programme start="20260201013000 +0000" stop="20260201020000 +0000" channel="DAAI TV.vision">
 <title>@Indonesia</title>
+</programme>
+<programme start="20260201020000 +0000" stop="20260201030000 +0000" channel="DAAI TV.vision">
+<title>Mimpi Jadi Nyata</title>
+</programme>
+<programme start="20260201030000 +0000" stop="20260201033000 +0000" channel="DAAI TV.vision">
+<title>Hati Ke Hati</title>
+</programme>
+<programme start="20260201033000 +0000" stop="20260201040000 +0000" channel="DAAI TV.vision">
+<title>Vegetarian Kitchen</title>
 </programme>
