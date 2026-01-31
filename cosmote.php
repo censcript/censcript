@@ -74,13 +74,9 @@
     <title>Sportshow (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260201003500 +0700" stop="20260201010500 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Sports Classics: Football Countdowns E6</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260201010500 +0700" stop="20260201013500 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Sports Classics: Football Countdowns E7</title>
-    <desc>Live: Tidak</desc>
+<programme start="20260202020000 +0700" stop="20260202041500 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: AEK - Olympiacos (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260201013500 +0700" stop="20260201020500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Sports Classics: Football Countdowns E8</title>
@@ -150,8 +146,12 @@
     <title>Football: Cremonese - FC Internazionale Milano (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260201000000 +0700" stop="20260201020000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: SSC Napoli - ACF Fiorentina (L)</title>
+<programme start="20260202020000 +0700" stop="20260202024500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Sports Classics: Football Countdowns E10</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260202024500 +0700" stop="20260202044500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Parma - Juventus Football Club (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20260201020000 +0700" stop="20260201023000 +0700" channel="COSMOTE Sport 3 HD">
@@ -294,10 +294,6 @@
     <title>Basketball: Murcia - Barcelona (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260201003000 +0700" stop="20260201013000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Highlights: 2025 Extreme H</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260201013000 +0700" stop="20260201023500 +0700" channel="COSMOTE Sport 5 HD">
     <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
@@ -390,12 +386,8 @@
     <title>Football: Al Ittihad - Al Najma (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260131220500 +0700" stop="20260201013000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>2025 Premier Padel Tour Finals</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260201013000 +0700" stop="20260201020000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Sports Classics: 2025 Outdoor Specials</title>
+<programme start="20260202023000 +0700" stop="20260202030000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Extreme E - Highlights 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260201020000 +0700" stop="20260201023000 +0700" channel="COSMOTE Sport 6 HD">
