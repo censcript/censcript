@@ -9040,10 +9040,198 @@
 <programme start="20260131163000 +0000" stop="20260130170000 +0000" channel="Trans 7.mncvision">
     <title>Pesan Dari Mathis</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260130180000 +0000" stop="20260130220000 +0000" channel="Trans TV.mncvision">
+    <title>CNN Indonesia Connected</title>
+</programme>
+<programme start="20260130220000 +0000" stop="20260130233000 +0000" channel="Trans TV.mncvision">
+    <title>Islam Itu Indah</title>
+</programme>
+<programme start="20260130233000 +0000" stop="20260131003000 +0000" channel="Trans TV.mncvision">
+    <title>Insert Pagi (L)</title>
+</programme>
+<programme start="20260131003000 +0000" stop="20260131013000 +0000" channel="Trans TV.mncvision">
+    <title>Kajian Hati</title>
+</programme>
+<programme start="20260131013000 +0000" stop="20260131033000 +0000" channel="Trans TV.mncvision">
+    <title>Ambyar In Weekend</title>
+</programme>
+<programme start="20260131033000 +0000" stop="20260131043000 +0000" channel="Trans TV.mncvision">
+    <title>Insert Siang</title>
+</programme>
+<programme start="20260131043000 +0000" stop="20260131053000 +0000" channel="Trans TV.mncvision">
+    <title>Spill DD Tea</title>
+</programme>
+<programme start="20260131053000 +0000" stop="20260131070000 +0000" channel="Trans TV.mncvision">
+    <title>Brownis On The Weekend</title>
+</programme>
+<programme start="20260131070000 +0000" stop="20260131080000 +0000" channel="Trans TV.mncvision">
+    <title>Rumpi Hot Of The Week</title>
+</programme>
+<programme start="20260131080000 +0000" stop="20260131093000 +0000" channel="Trans TV.mncvision">
+    <title>Insert Investigasi</title>
+</programme>
+<programme start="20260131093000 +0000" stop="20260131103000 +0000" channel="Trans TV.mncvision">
+    <title>HaHa HiHi</title>
+</programme>
+<programme start="20260131103000 +0000" stop="20260131114500 +0000" channel="Trans TV.mncvision">
+    <title>Bikin Laper Weekend</title>
+</programme>
+<programme start="20260131114500 +0000" stop="20260131130000 +0000" channel="Trans TV.mncvision">
+    <title>Insert Story</title>
+</programme>
+<programme start="20260131130000 +0000" stop="20260131140000 +0000" channel="Trans TV.mncvision">
+    <title>Highlight</title>
+</programme>
+<programme start="20260131140000 +0000" stop="20260131160000 +0000" channel="Trans TV.mncvision">
+    <title>Bioskop Trans TV</title>
+</programme>
+<programme start="20260131160000 +0000" stop="20260131163000 +0000" channel="Trans TV.mncvision">
+    <title>Bioskop Trans TV</title>
+</programme>
+<programme start="20260130180000 +0000" stop="20260130190500 +0000" channel="tvN.mncvision">
+    <title>No Way Home, Ep 9</title>
+</programme>
+<programme start="20260130190500 +0000" stop="20260130201500 +0000" channel="tvN.mncvision">
+    <title>Dear X, Ep 2</title>
+</programme>
+<programme start="20260130201500 +0000" stop="20260130220000 +0000" channel="tvN.mncvision">
+    <title>Muscle Farmers, Ep 6</title>
+</programme>
+<programme start="20260130220000 +0000" stop="20260130235000 +0000" channel="tvN.mncvision">
+    <title>Cha&#039;s Family, Ep 3</title>
+</programme>
+<programme start="20260130235000 +0000" stop="20260131005000 +0000" channel="tvN.mncvision">
+    <title>No Way Home, Ep 9</title>
+</programme>
+<programme start="20260131005000 +0000" stop="20260131012000 +0000" channel="tvN.mncvision">
+    <title>Chansung&#039;s Cooking, Ep 5</title>
+</programme>
+<programme start="20260131012000 +0000" stop="20260131030000 +0000" channel="tvN.mncvision">
+    <title>3 Meals A Day: Light, Ep 10</title>
+</programme>
+<programme start="20260131030000 +0000" stop="20260131041000 +0000" channel="tvN.mncvision">
+    <title>Legend Of The Blue Sea, Ep 2</title>
+</programme>
+<programme start="20260131041000 +0000" stop="20260131055000 +0000" channel="tvN.mncvision">
+    <title>Muscle Farmers, Ep 6</title>
+</programme>
+<programme start="20260131055000 +0000" stop="20260131074000 +0000" channel="tvN.mncvision">
+    <title>Cha&#039;s Family, Ep 3</title>
+</programme>
+<programme start="20260131074000 +0000" stop="20260131092000 +0000" channel="tvN.mncvision">
+    <title>Handsome Guys, Ep 5</title>
+</programme>
+<programme start="20260131092000 +0000" stop="20260131100000 +0000" channel="tvN.mncvision">
+    <title>Seoul At Home, Ep 1</title>
+</programme>
+<programme start="20260131100000 +0000" stop="20260131114000 +0000" channel="tvN.mncvision">
+    <title>The Genius Paik S2, Ep 13</title>
+</programme>
+<programme start="20260131114000 +0000" stop="20260131125000 +0000" channel="tvN.mncvision">
+    <title>Dear X, Ep 2</title>
+</programme>
+<programme start="20260131125000 +0000" stop="20260131143000 +0000" channel="tvN.mncvision">
+    <title>Muscle Farmers, Ep 6</title>
+</programme>
+<programme start="20260131143000 +0000" stop="20260131154000 +0000" channel="tvN.mncvision">
+    <title>Legend Of The Blue Sea, Ep 1</title>
+</programme>
+<programme start="20260131154000 +0000" stop="20260131165000 +0000" channel="tvN.mncvision">
+    <title>Legend Of The Blue Sea, Ep 2</title>
+</programme>
+<programme start="20260131165000 +0000" stop="20260130172000 +0000" channel="tvN.mncvision">
+    <title>3 Meals A Day: Light, Ep 10</title>
+</programme>
+<programme start="20260130180000 +0000" stop="20260130190500 +0000" channel="tvN HD.mncvision">
+    <title>No Way Home, Ep 9</title>
+</programme>
+<programme start="20260130190500 +0000" stop="20260130201500 +0000" channel="tvN HD.mncvision">
+    <title>Dear X, Ep 2</title>
+</programme>
+<programme start="20260130201500 +0000" stop="20260130220000 +0000" channel="tvN HD.mncvision">
+    <title>Muscle Farmers, Ep 6</title>
+</programme>
+<programme start="20260130220000 +0000" stop="20260130235000 +0000" channel="tvN HD.mncvision">
+    <title>Cha&#039;s Family, Ep 3</title>
+</programme>
+<programme start="20260130235000 +0000" stop="20260131005000 +0000" channel="tvN HD.mncvision">
+    <title>No Way Home, Ep 9</title>
+</programme>
+<programme start="20260131005000 +0000" stop="20260131012000 +0000" channel="tvN HD.mncvision">
+    <title>Chansung&#039;s Cooking, Ep 5</title>
+</programme>
+<programme start="20260131012000 +0000" stop="20260131030000 +0000" channel="tvN HD.mncvision">
+    <title>3 Meals A Day: Light, Ep 10</title>
+</programme>
+<programme start="20260131030000 +0000" stop="20260131041000 +0000" channel="tvN HD.mncvision">
+    <title>Legend Of The Blue Sea, Ep 2</title>
+</programme>
+<programme start="20260131041000 +0000" stop="20260131055000 +0000" channel="tvN HD.mncvision">
+    <title>Muscle Farmers, Ep 6</title>
+</programme>
+<programme start="20260131055000 +0000" stop="20260131074000 +0000" channel="tvN HD.mncvision">
+    <title>Cha&#039;s Family, Ep 3</title>
+</programme>
+<programme start="20260131074000 +0000" stop="20260131092000 +0000" channel="tvN HD.mncvision">
+    <title>Handsome Guys, Ep 5</title>
+</programme>
+<programme start="20260131092000 +0000" stop="20260131100000 +0000" channel="tvN HD.mncvision">
+    <title>Seoul At Home, Ep 1</title>
+</programme>
+<programme start="20260131100000 +0000" stop="20260131114000 +0000" channel="tvN HD.mncvision">
+    <title>The Genius Paik S2, Ep 13</title>
+</programme>
+<programme start="20260131114000 +0000" stop="20260131125000 +0000" channel="tvN HD.mncvision">
+    <title>Dear X, Ep 2</title>
+</programme>
+<programme start="20260131125000 +0000" stop="20260131143000 +0000" channel="tvN HD.mncvision">
+    <title>Muscle Farmers, Ep 6</title>
+</programme>
+<programme start="20260131143000 +0000" stop="20260131154000 +0000" channel="tvN HD.mncvision">
+    <title>Legend Of The Blue Sea, Ep 1</title>
+</programme>
+<programme start="20260131154000 +0000" stop="20260131165000 +0000" channel="tvN HD.mncvision">
+    <title>Legend Of The Blue Sea, Ep 2</title>
+</programme>
+<programme start="20260131165000 +0000" stop="20260130172000 +0000" channel="tvN HD.mncvision">
+    <title>3 Meals A Day: Light, Ep 10</title>
+</programme>
+<programme start="20260130181500 +0000" stop="20260130200500 +0000" channel="tvN Movies.mncvision">
+    <title>Single In Seoul</title>
+</programme>
+<programme start="20260130200500 +0000" stop="20260130220500 +0000" channel="tvN Movies.mncvision">
+    <title>Canola</title>
+</programme>
+<programme start="20260130220500 +0000" stop="20260130235500 +0000" channel="tvN Movies.mncvision">
+    <title>Killing Romance</title>
+</programme>
+<programme start="20260130235500 +0000" stop="20260131013500 +0000" channel="tvN Movies.mncvision">
+    <title>Holy Night: Demon Hunters</title>
+</programme>
+<programme start="20260131013500 +0000" stop="20260131033500 +0000" channel="tvN Movies.mncvision">
+    <title>Gangster, The Cop, The Devil</title>
+</programme>
+<programme start="20260131033500 +0000" stop="20260131054000 +0000" channel="tvN Movies.mncvision">
+    <title>The Whistleblower</title>
+</programme>
+<programme start="20260131054000 +0000" stop="20260131075000 +0000" channel="tvN Movies.mncvision">
+    <title>The Book Of Fish</title>
+</programme>
+<programme start="20260131075000 +0000" stop="20260131094000 +0000" channel="tvN Movies.mncvision">
+    <title>Devils</title>
+</programme>
+<programme start="20260131094000 +0000" stop="20260131113500 +0000" channel="tvN Movies.mncvision">
+    <title>Hello Ghost</title>
+</programme>
+<programme start="20260131113500 +0000" stop="20260131140000 +0000" channel="tvN Movies.mncvision">
+    <title>Decision To Leave</title>
+</programme>
+<programme start="20260131140000 +0000" stop="20260131155000 +0000" channel="tvN Movies.mncvision">
+    <title>Road To Boston</title>
+</programme>
+<programme start="20260131155000 +0000" stop="20260131162000 +0000" channel="tvN Movies.mncvision">
+    <title>No Mercy</title>
+</programme>
 <programme start="20260130181500 +0000" stop="20260130200500 +0000" channel="tvN Movies HD.mncvision">
     <title>Single In Seoul</title>
 </programme>
@@ -9080,7 +9268,81 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260131155000 +0000" stop="20260131162000 +0000" channel="tvN Movies HD.mncvision">
     <title>No Mercy</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260130180000 +0000" stop="20260130193000 +0000" channel="tvOne.mncvision">
+    <title>Kabar Petang</title>
+</programme>
+<programme start="20260130193000 +0000" stop="20260130200000 +0000" channel="tvOne.mncvision">
+    <title>Kabar Utama</title>
+</programme>
+<programme start="20260130200000 +0000" stop="20260130203000 +0000" channel="tvOne.mncvision">
+    <title>Kabar Hari Ini</title>
+</programme>
+<programme start="20260130203000 +0000" stop="20260130210000 +0000" channel="tvOne.mncvision">
+    <title>Berita Utama Kriminal</title>
+</programme>
+<programme start="20260130210000 +0000" stop="20260130213000 +0000" channel="tvOne.mncvision">
+    <title>Kabar Arena Pagi</title>
+</programme>
+<programme start="20260130213000 +0000" stop="20260130230000 +0000" channel="tvOne.mncvision">
+    <title>Kabar Pagi (L)</title>
+</programme>
+<programme start="20260130230000 +0000" stop="20260130233000 +0000" channel="tvOne.mncvision">
+    <title>Kabar Arena Pagi (L)</title>
+</programme>
+<programme start="20260130233000 +0000" stop="20260131010000 +0000" channel="tvOne.mncvision">
+    <title>Apa Kabar Indonesia Pagi (L)</title>
+</programme>
+<programme start="20260131010000 +0000" stop="20260131020000 +0000" channel="tvOne.mncvision">
+    <title>Inspirasi Pagi</title>
+</programme>
+<programme start="20260131020000 +0000" stop="20260131023000 +0000" channel="tvOne.mncvision">
+    <title>Pesona Nusantara</title>
+</programme>
+<programme start="20260131023000 +0000" stop="20260131030000 +0000" channel="tvOne.mncvision">
+    <title>Xpose</title>
+</programme>
+<programme start="20260131030000 +0000" stop="20260131033000 +0000" channel="tvOne.mncvision">
+    <title>Bukan Jalan-Jalan Biasa</title>
+</programme>
+<programme start="20260131033000 +0000" stop="20260131040000 +0000" channel="tvOne.mncvision">
+    <title>Jajago</title>
+</programme>
+<programme start="20260131040000 +0000" stop="20260131053000 +0000" channel="tvOne.mncvision">
+    <title>Kabar Siang (L)</title>
+</programme>
+<programme start="20260131053000 +0000" stop="20260131070000 +0000" channel="tvOne.mncvision">
+    <title>Damai Indonesiaku (L)</title>
+</programme>
+<programme start="20260131070000 +0000" stop="20260131073000 +0000" channel="tvOne.mncvision">
+    <title>Selalu Ada Hikmah</title>
+</programme>
+<programme start="20260131073000 +0000" stop="20260131080000 +0000" channel="tvOne.mncvision">
+    <title>Satria Biru</title>
+</programme>
+<programme start="20260131080000 +0000" stop="20260131090000 +0000" channel="tvOne.mncvision">
+    <title>Apa Kabar Indonesia... (L)</title>
+</programme>
+<programme start="20260131090000 +0000" stop="20260131110000 +0000" channel="tvOne.mncvision">
+    <title>Kabar Petang (L)</title>
+</programme>
+<programme start="20260131110000 +0000" stop="20260131130000 +0000" channel="tvOne.mncvision">
+    <title>Apa Kabar Indonesia Malam (L)</title>
+</programme>
+<programme start="20260131130000 +0000" stop="20260131140000 +0000" channel="tvOne.mncvision">
+    <title>Kabar Utama (L)</title>
+</programme>
+<programme start="20260131140000 +0000" stop="20260131150000 +0000" channel="tvOne.mncvision">
+    <title>Kabar Hari Ini (L)</title>
+</programme>
+<programme start="20260131150000 +0000" stop="20260131153000 +0000" channel="tvOne.mncvision">
+    <title>Sport Style</title>
+</programme>
+<programme start="20260131153000 +0000" stop="20260131163000 +0000" channel="tvOne.mncvision">
+    <title>Kabar Utama (L)</title>
+</programme>
+<programme start="20260131163000 +0000" stop="20260130170000 +0000" channel="tvOne.mncvision">
+    <title>Apa Kabar Indonesia Malam</title>
+</programme>
 <programme start="20260130170000 +0000" stop="20260130190000 +0000" channel="TVRI.mncvision">
     <title>TVRI</title>
 </programme>
