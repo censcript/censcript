@@ -1,11 +1,3 @@
-
-Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa.serv00.net/public_html/cen/epg/skyde.php on line 135
-
-Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa.serv00.net/public_html/cen/epg/skyde.php on line 135
-
-Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa.serv00.net/public_html/cen/epg/skyde.php on line 135
-
-Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa.serv00.net/public_html/cen/epg/skyde.php on line 135
 <programme start="20260130230500 +0000" stop="20260130235000 +0000" channel="13th Street HD.skyde">
     <title>Navy CIS: Origins</title>
 </programme>
@@ -2111,96 +2103,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 </programme>
 <programme start="20260131223500 +0000" stop="20260131233500 +0000" channel="Sky Documentaries HD.skyde">
     <title>Mythos Borussia - Eine Legende wird 125</title>
-</programme>
-<programme start="20260130231000 +0000" stop="20260130235500 +0000" channel="Sky Krimi HD.skyde">
-    <title>SOKO Wien</title>
-</programme>
-<programme start="20260130235500 +0000" stop="20260131014000 +0000" channel="Sky Krimi HD.skyde">
-    <title>Ein starkes Team: Und vergib ihnen ihre Schuld</title>
-</programme>
-<programme start="20260131013208 +0000" stop="20260131013403 +0000" channel="Sky Krimi HD.skyde">
-    <title></title>
-</programme>
-<programme start="20260131013423 +0000" stop="20260131013616 +0000" channel="Sky Krimi HD.skyde">
-    <title></title>
-</programme>
-<programme start="20260131013636 +0000" stop="20260131013811 +0000" channel="Sky Krimi HD.skyde">
-    <title></title>
-</programme>
-<programme start="20260131014000 +0000" stop="20260131023000 +0000" channel="Sky Krimi HD.skyde">
-    <title>Hubert und Staller</title>
-</programme>
-<programme start="20260131014041 +0000" stop="20260131014309 +0000" channel="Sky Krimi HD.skyde">
-    <title></title>
-</programme>
-<programme start="20260131023000 +0000" stop="20260131032000 +0000" channel="Sky Krimi HD.skyde">
-    <title>Hubert und Staller</title>
-</programme>
-<programme start="20260131032000 +0000" stop="20260131041000 +0000" channel="Sky Krimi HD.skyde">
-    <title>Hubert und Staller</title>
-</programme>
-<programme start="20260131041000 +0000" stop="20260131045500 +0000" channel="Sky Krimi HD.skyde">
-    <title>Die Rosenheim-Cops</title>
-</programme>
-<programme start="20260131045500 +0000" stop="20260131054000 +0000" channel="Sky Krimi HD.skyde">
-    <title>Die Rosenheim-Cops</title>
-</programme>
-<programme start="20260131054000 +0000" stop="20260131062500 +0000" channel="Sky Krimi HD.skyde">
-    <title>Die Rosenheim-Cops</title>
-</programme>
-<programme start="20260131062500 +0000" stop="20260131071500 +0000" channel="Sky Krimi HD.skyde">
-    <title>Die Rosenheim-Cops</title>
-</programme>
-<programme start="20260131071500 +0000" stop="20260131080000 +0000" channel="Sky Krimi HD.skyde">
-    <title>Die Rosenheim-Cops</title>
-</programme>
-<programme start="20260131080000 +0000" stop="20260131085000 +0000" channel="Sky Krimi HD.skyde">
-    <title>Die Rosenheim-Cops</title>
-</programme>
-<programme start="20260131085000 +0000" stop="20260131094000 +0000" channel="Sky Krimi HD.skyde">
-    <title>Die Rosenheim-Cops</title>
-</programme>
-<programme start="20260131094000 +0000" stop="20260131102500 +0000" channel="Sky Krimi HD.skyde">
-    <title>Die Rosenheim-Cops</title>
-</programme>
-<programme start="20260131102500 +0000" stop="20260131111500 +0000" channel="Sky Krimi HD.skyde">
-    <title>Die Rosenheim-Cops</title>
-</programme>
-<programme start="20260131111500 +0000" stop="20260131120500 +0000" channel="Sky Krimi HD.skyde">
-    <title>Die Rosenheim-Cops</title>
-</programme>
-<programme start="20260131120500 +0000" stop="20260131125000 +0000" channel="Sky Krimi HD.skyde">
-    <title>Die Rosenheim-Cops</title>
-</programme>
-<programme start="20260131125000 +0000" stop="20260131134000 +0000" channel="Sky Krimi HD.skyde">
-    <title>Die Rosenheim-Cops</title>
-</programme>
-<programme start="20260131134000 +0000" stop="20260131151500 +0000" channel="Sky Krimi HD.skyde">
-    <title>Ostfriesensühne</title>
-</programme>
-<programme start="20260131151500 +0000" stop="20260131160500 +0000" channel="Sky Krimi HD.skyde">
-    <title>Die Rosenheim-Cops</title>
-</programme>
-<programme start="20260131160500 +0000" stop="20260131165000 +0000" channel="Sky Krimi HD.skyde">
-    <title>Die Rosenheim-Cops</title>
-</programme>
-<programme start="20260131165000 +0000" stop="20260131174000 +0000" channel="Sky Krimi HD.skyde">
-    <title>Die Rosenheim-Cops</title>
-</programme>
-<programme start="20260131174000 +0000" stop="20260131191500 +0000" channel="Sky Krimi HD.skyde">
-    <title>Die Rosenheim-Cops</title>
-</programme>
-<programme start="20260131191500 +0000" stop="20260131201500 +0000" channel="Sky Krimi HD.skyde">
-    <title>Ein Fall für zwei</title>
-</programme>
-<programme start="20260131201500 +0000" stop="20260131212000 +0000" channel="Sky Krimi HD.skyde">
-    <title>Ein Fall für zwei</title>
-</programme>
-<programme start="20260131212000 +0000" stop="20260131222000 +0000" channel="Sky Krimi HD.skyde">
-    <title>Ein Fall für zwei</title>
-</programme>
-<programme start="20260131222000 +0000" stop="20260131231000 +0000" channel="Sky Krimi HD.skyde">
-    <title>Die Rosenheim-Cops</title>
 </programme>
 <programme start="20260130230000 +0000" stop="20260130234500 +0000" channel="Sky Nature HD.skyde">
     <title>Bear Grylls: Stars am Limit</title>
