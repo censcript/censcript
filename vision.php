@@ -820,9 +820,6 @@
 <programme start="20260130233000 +0000" stop="20260131010000 +0000" channel="TVOne.vision">
 <title>Apa Kabar Indonesia Pagi (L)</title>
 </programme>
-<programme start="20260131010000 +0000" stop="20260131020000 +0000" channel="TVOne.vision">
-<title>Inspirasi Pagi</title>
-</programme>
 <programme start="20260131020000 +0000" stop="20260131023000 +0000" channel="TVOne.vision">
 <title>Pesona Nusantara</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20260131093000 +0000" stop="20260131100000 +0000" channel="JAK TV.vision">
 <title>Berdoa Yuk</title>
+</programme>
+<programme start="20260131100000 +0000" stop="20260131110000 +0000" channel="JAK TV.vision">
+<title>Three Queens</title>
 </programme>
