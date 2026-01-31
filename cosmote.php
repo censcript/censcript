@@ -1,7 +1,3 @@
-<programme start="20260201034000 +0700" stop="20260201055500 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: Volos - AEL Novibet</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260201055500 +0700" stop="20260201062500 +0700" channel="COSMOTE Sport 1 HD">
     <title>Game R1 S6 E23</title>
     <desc>Live: Tidak</desc>
@@ -73,6 +69,10 @@
 <programme start="20260202041500 +0700" stop="20260202063000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Sportshow (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20260202063000 +0700" stop="20260202084500 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Sportshow</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260201044500 +0700" stop="20260201070000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Panetolikos - Aris</title>
@@ -208,10 +208,6 @@
 </programme>
 <programme start="20260202053000 +0700" stop="20260202074500 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: AEK - Olympiacos</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260201050000 +0700" stop="20260201053500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>NBA on Fire 2025-26 E14</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260201053500 +0700" stop="20260201073500 +0700" channel="COSMOTE Sport 4 HD">
@@ -382,9 +378,9 @@
     <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260201030000 +0700" stop="20260201060000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Fight Sports: Oktagon 2026 (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20260202061500 +0700" stop="20260202072000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2025</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260201060000 +0700" stop="20260201063000 +0700" channel="COSMOTE Sport 6 HD">
     <title>HYROX - The World of Fitness Racing E1</title>
@@ -458,6 +454,10 @@
     <title>World Athletics Indoor Tour Gold 2026 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
+<programme start="20260202060500 +0700" stop="20260202100000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Fight Sports: UFC Fight Night 2026</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260201050000 +0700" stop="20260201070000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
@@ -508,6 +508,10 @@
 </programme>
 <programme start="20260202050000 +0700" stop="20260202060000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260202060000 +0700" stop="20260202090000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>NBA TV 2024-25</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260201050000 +0700" stop="20260201070000 +0700" channel="COSMOTE Sport 8 HD">
