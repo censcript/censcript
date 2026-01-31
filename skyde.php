@@ -951,20 +951,17 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260131070000 +0000" stop="20260131073500 +0000" channel="DAZN 1 HD.skyde">
     <title>Das Herz des deutschen Fußballs: Episode 1</title>
 </programme>
-<programme start="20260131073500 +0000" stop="20260131074500 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260131073500 +0000" stop="20260131080000 +0000" channel="DAZN 1 HD.skyde">
     <title>Das Herz des deutschen Fußballs: Episode 2</title>
 </programme>
-<programme start="20260131074500 +0000" stop="20260131081500 +0000" channel="DAZN 1 HD.skyde">
-    <title>Das Herz des deutschen Fußballs: Episode 3</title>
-</programme>
-<programme start="20260131081500 +0000" stop="20260131083000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
-</programme>
-<programme start="20260131083000 +0000" stop="20260131103000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260131080000 +0000" stop="20260131100000 +0000" channel="DAZN 1 HD.skyde">
     <title>Bundesliga: Borussia M&#039;gladbach - VFB Stuttgart</title>
 </programme>
-<programme start="20260131103000 +0000" stop="20260131123000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260131100000 +0000" stop="20260131120500 +0000" channel="DAZN 1 HD.skyde">
     <title>Bundesliga: 1. FC Köln - VFL Wolfsburg</title>
+</programme>
+<programme start="20260131120500 +0000" stop="20260131123000 +0000" channel="DAZN 1 HD.skyde">
+    <title>Bundesliga Features 2025/26: Bundesliga Beef - Episode 3</title>
 </programme>
 <programme start="20260131123000 +0000" stop="20260131130000 +0000" channel="DAZN 1 HD.skyde">
     <title>Warm Up: Bundesliga Highlights</title>
@@ -1002,11 +999,8 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260131104500 +0000" stop="20260131125500 +0000" channel="DAZN 2 HD.skyde">
     <title>Frauen Bundesliga 25/26: Bayer 04 Leverkusen - 1. FC Nürnberg</title>
 </programme>
-<programme start="20260131125500 +0000" stop="20260131150000 +0000" channel="DAZN 2 HD.skyde">
+<programme start="20260131125500 +0000" stop="20260131151000 +0000" channel="DAZN 2 HD.skyde">
     <title>Frauen Bundesliga 25/26: SGS Essen - 1. FC Union Berlin</title>
-</programme>
-<programme start="20260131150000 +0000" stop="20260131151000 +0000" channel="DAZN 2 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
 </programme>
 <programme start="20260131151000 +0000" stop="20260131172500 +0000" channel="DAZN 2 HD.skyde">
     <title>LaLiga 25/26: CA Osasuna - FC Villarreal</title>
@@ -2745,7 +2739,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260131141500 +0000" stop="20260131164500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: Eintracht Frankfurt - Bayer Leverkusen, 20. Spieltag</title>
 </programme>
-<programme start="20260131164500 +0000" stop="20260131201500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
+<programme start="20260131164500 +0000" stop="20260131204500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: Hamburger SV - FC Bayern München, tipico Topspiel der Woche, 20. Spieltag</title>
 </programme>
 <programme start="20260131111000 +0000" stop="20260131113000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
@@ -2769,7 +2763,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260131190000 +0000" stop="20260131220000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Live 2. BL: 1. FC Kaiserslautern - SV Elversberg, tipico Topspiel der Woche, 20. Spieltag</title>
 </programme>
-<programme start="20260131220000 +0000" stop="20260131230000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+<programme start="20260131220000 +0000" stop="20260131233000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 20..Spieltag, Samstag komplett</title>
 </programme>
 <programme start="20260131111000 +0000" stop="20260131113000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
@@ -2784,7 +2778,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260131141500 +0000" stop="20260131164500 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live BL: FC Augsburg - FC St. Pauli, 20. Spieltag</title>
 </programme>
-<programme start="20260131164500 +0000" stop="20260131201500 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
+<programme start="20260131164500 +0000" stop="20260131204500 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live BL: Tactical Feed: HSV - FCB, 20. Spieltag</title>
 </programme>
 <programme start="20260131111000 +0000" stop="20260131113000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
@@ -2796,7 +2790,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260131140000 +0000" stop="20260131141500 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live BL: RBL - M05: tipico Countdown, 20. Spieltag</title>
 </programme>
-<programme start="20260131141500 +0000" stop="20260131164500 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
+<programme start="20260131141500 +0000" stop="20260131171500 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live BL: RB Leipzig - 1. FSV Mainz 05, 20. Spieltag</title>
 </programme>
 <programme start="20260131111000 +0000" stop="20260131113000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
@@ -2808,7 +2802,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260131140000 +0000" stop="20260131141500 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Live BL: TSG - FCU: tipico Countdown, 20. Spieltag</title>
 </programme>
-<programme start="20260131141500 +0000" stop="20260131164500 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
+<programme start="20260131141500 +0000" stop="20260131171500 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Live BL: TSG Hoffenheim - 1. FC Union Berlin, 20. Spieltag</title>
 </programme>
 <programme start="20260131111000 +0000" stop="20260131113000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
@@ -2817,7 +2811,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260131113000 +0000" stop="20260131140000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
     <title>Live 2. BL: Multiview 20. Spieltag, Samstag</title>
 </programme>
-<programme start="20260131140000 +0000" stop="20260131163000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
+<programme start="20260131140000 +0000" stop="20260131170000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
     <title>Live BL: Multiview 20. Spieltag</title>
 </programme>
 <programme start="20260131111000 +0000" stop="20260131113000 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
@@ -2826,7 +2820,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260131113000 +0000" stop="20260131140000 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
     <title>Live 2. BL: Samstags-Konferenz, 20. Spieltag</title>
 </programme>
-<programme start="20260131140000 +0000" stop="20260131144500 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
+<programme start="20260131140000 +0000" stop="20260131151500 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
     <title>Live 2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 20. Spieltag, Samstag</title>
 </programme>
 <programme start="20260130230000 +0000" stop="20260131000000 +0000" channel="Sky Sport F1 HD.skyde">
@@ -2886,20 +2880,32 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260131001500 +0000" stop="20260131010000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>LIV Golf: Showcase</title>
 </programme>
-<programme start="20260131010000 +0000" stop="20260131053000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Live Golf: Reignwood Icons of Football (Morning Session), 1. Tag in Bangkok (Thailand)</title>
+<programme start="20260131010000 +0000" stop="20260131033000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>LPGA: Hilton Grand Vacations Tournament of Champions, 2. Tag in Orlando, FL (USA)</title>
 </programme>
-<programme start="20260131053000 +0000" stop="20260131054500 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Golf: Follow the Pros (5)</title>
+<programme start="20260131033000 +0000" stop="20260131040000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Golf: Greatest Holes (1)</title>
 </programme>
-<programme start="20260131054500 +0000" stop="20260131060000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Golf: Projekt 0 (8)</title>
+<programme start="20260131040000 +0000" stop="20260131043000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Golf: Greatest Holes (2)</title>
+</programme>
+<programme start="20260131043000 +0000" stop="20260131050000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Golf: Greatest Holes (3)</title>
+</programme>
+<programme start="20260131050000 +0000" stop="20260131053000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Golf: Greatest Holes (4)</title>
+</programme>
+<programme start="20260131053000 +0000" stop="20260131060000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Golf: Greatest Holes (5)</title>
 </programme>
 <programme start="20260131060000 +0000" stop="20260131063000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>LIV Golf: Spezial</title>
+    <title>Golf: Greatest Holes (6)</title>
 </programme>
-<programme start="20260131063000 +0000" stop="20260131110000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Live Golf: Reignwood Icons of Football Afternoon Session), 1. Tag in Bangkok (Thailand)</title>
+<programme start="20260131063000 +0000" stop="20260131090000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>LPGA: Hilton Grand Vacations Tournament of Champions, 2. Tag in Orlando, FL (USA)</title>
+</programme>
+<programme start="20260131090000 +0000" stop="20260131110000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>TGL: Boston Common Golf - The Bay Golf Club, 6. Spieltag</title>
 </programme>
 <programme start="20260131110000 +0000" stop="20260131134500 +0000" channel="Sky Sport Golf HD.skyde">
     <title>LIV Golf: The Duels Virginia 2025</title>
@@ -2907,11 +2913,11 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260131134500 +0000" stop="20260131161500 +0000" channel="Sky Sport Golf HD.skyde">
     <title>LPGA: Hilton Grand Vacations Tournament of Champions, 2. Tag in Orlando, FL (USA)</title>
 </programme>
-<programme start="20260131161500 +0000" stop="20260131163000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Golf: Projekt 0 (8)</title>
+<programme start="20260131161500 +0000" stop="20260131170000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>LIV Golf: Showcase</title>
 </programme>
-<programme start="20260131163000 +0000" stop="20260131193000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Golf: Reignwood Icons of Football Afternoon Session), 1. Tag in Bangkok (Thailand)</title>
+<programme start="20260131170000 +0000" stop="20260131193000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>LPGA: Hilton Grand Vacations Tournament of Champions, 2. Tag in Orlando, FL (USA)</title>
 </programme>
 <programme start="20260131193000 +0000" stop="20260131223000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Live LPGA: Hilton Grand Vacations Tournament of Champions, 3. Tag in Orlando, FL (USA)</title>
@@ -3240,11 +3246,38 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260131220000 +0000" stop="20260201000000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NHL: Winnipeg Jets @ Florida Panthers</title>
 </programme>
-<programme start="20260131143000 +0000" stop="20260131145000 +0000" channel="Sky Sport 8 HD.skyde">
+<programme start="20260131000000 +0000" stop="20260131010000 +0000" channel="Sky Sport 8 HD.skyde">
+    <title>Es folgt Golf</title>
+</programme>
+<programme start="20260131010000 +0000" stop="20260131053000 +0000" channel="Sky Sport 8 HD.skyde">
+    <title>Live Golf: Reignwood Icons of Football (Morning Session), 1. Tag in Bangkok (Thailand)</title>
+</programme>
+<programme start="20260131053000 +0000" stop="20260131054500 +0000" channel="Sky Sport 8 HD.skyde">
+    <title>Golf: Follow the Pros (5)</title>
+</programme>
+<programme start="20260131054500 +0000" stop="20260131060000 +0000" channel="Sky Sport 8 HD.skyde">
+    <title>Golf: Projekt 0 (8)</title>
+</programme>
+<programme start="20260131060000 +0000" stop="20260131063000 +0000" channel="Sky Sport 8 HD.skyde">
+    <title>LIV Golf: Spezial</title>
+</programme>
+<programme start="20260131063000 +0000" stop="20260131121000 +0000" channel="Sky Sport 8 HD.skyde">
+    <title>Live Golf: Reignwood Icons of Football (Afternoon Session), 1. Tag in Bangkok (Thailand)</title>
+</programme>
+<programme start="20260131121000 +0000" stop="20260131145000 +0000" channel="Sky Sport 8 HD.skyde">
     <title>Es folgt: Live Premier League</title>
 </programme>
-<programme start="20260131145000 +0000" stop="20260131170000 +0000" channel="Sky Sport 8 HD.skyde">
+<programme start="20260131145000 +0000" stop="20260131173000 +0000" channel="Sky Sport 8 HD.skyde">
     <title>Live PL: Leeds United - FC Arsenal, 24. Spieltag</title>
+</programme>
+<programme start="20260131173000 +0000" stop="20260131190000 +0000" channel="Sky Sport 8 HD.skyde">
+    <title>Es folgt Golf:</title>
+</programme>
+<programme start="20260131190000 +0000" stop="20260131220000 +0000" channel="Sky Sport 8 HD.skyde">
+    <title>Golf: Reignwood Icons of Football (Morning Session), 1. Tag in Bangkok (Thailand)</title>
+</programme>
+<programme start="20260131220000 +0000" stop="20260201010000 +0000" channel="Sky Sport 8 HD.skyde">
+    <title>Golf: Reignwood Icons of Football (Afternoon Session), 1. Tag in Bangkok (Thailand)</title>
 </programme>
 <programme start="20260130231000 +0000" stop="20260130235500 +0000" channel="SYFY HD.skyde">
     <title>Raumschiff Enterprise - Das nächste Jahrhundert</title>
