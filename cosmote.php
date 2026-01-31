@@ -1,11 +1,3 @@
-<programme start="20260131193000 +0700" stop="20260131213000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: Stoke City - Southampton (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20260131213000 +0700" stop="20260131220000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>UEFA Champions League Magazine 2024-25 E18</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260131220000 +0700" stop="20260201000000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Portsmouth - West Bromwich Albion (L)</title>
     <desc>Live: Ya</desc>
@@ -86,12 +78,8 @@
     <title>PreGame (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260131191500 +0700" stop="20260131213000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Olympiacos - Volos</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260131213000 +0700" stop="20260131220000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>PreGame (L)</title>
+<programme start="20260201223000 +0700" stop="20260202004000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: Panathinaikos - Kifisia (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20260131220000 +0700" stop="20260201001000 +0700" channel="COSMOTE Sport 2 HD">
@@ -242,10 +230,6 @@
     <title>Football: Hibernian - Rangers FC (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260131191000 +0700" stop="20260131211000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Barcelona - Tenerife</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260131211000 +0700" stop="20260131231000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Armani Milano - Varese</title>
     <desc>Live: Tidak</desc>
@@ -320,14 +304,6 @@
 </programme>
 <programme start="20260201215500 +0700" stop="20260202002500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Houston Rockets - Dallas Mavericks</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260131193000 +0700" stop="20260131213000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Basketball: Karsiyaka - Fenerbahce (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20260131213000 +0700" stop="20260131220000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260131220000 +0700" stop="20260131230000 +0700" channel="COSMOTE Sport 5 HD">
@@ -428,10 +404,6 @@
 </programme>
 <programme start="20260201215000 +0700" stop="20260201232500 +0700" channel="COSMOTE Sport 5 HD">
     <title>WRC 2026</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260131192000 +0700" stop="20260131210500 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Volleyball: Panathinaikos - Crvena Zvezda Beograd</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260131210500 +0700" stop="20260131220500 +0700" channel="COSMOTE Sport 6 HD">
@@ -625,6 +597,10 @@
 <programme start="20260201213000 +0700" stop="20260201220000 +0700" channel="COSMOTE Sport 8 HD">
     <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260201220000 +0700" stop="20260202000000 +0700" channel="COSMOTE Sport 8 HD">
+    <title>Basketball: Armani Milano - Brescia (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260131210000 +0700" stop="20260131230000 +0700" channel="COSMOTE Sport 9 HD">
     <title>COSMOTESport9HD</title>

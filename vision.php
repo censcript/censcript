@@ -655,6 +655,9 @@
 <programme start="20260131013000 +0000" stop="20260131023000 +0000" channel="ANTV.vision">
 <title>Baalveer Returns</title>
 </programme>
+<programme start="20260131023000 +0000" stop="20260131060000 +0000" channel="ANTV.vision">
+<title>My Name Is Khan</title>
+</programme>
 <programme start="20260131060000 +0000" stop="20260131083000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -1494,7 +1497,4 @@
 </programme>
 <programme start="20260131100000 +0000" stop="20260131110000 +0000" channel="JAK TV.vision">
 <title>Three Queens</title>
-</programme>
-<programme start="20260131110000 +0000" stop="20260131113000 +0000" channel="JAK TV.vision">
-<title>Muslimpedia</title>
 </programme>
