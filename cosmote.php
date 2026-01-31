@@ -74,6 +74,10 @@
     <title>Football: Panathinaikos - AS Roma</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260201183000 +0700" stop="20260201190000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Game R1 S6 E23</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260131170000 +0700" stop="20260131191500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: AEL Novibet - Panserraikos</title>
     <desc>Live: Tidak</desc>
@@ -146,6 +150,10 @@
     <title>Football: Volos - AEL Novibet</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260201181500 +0700" stop="20260201203000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Panetolikos - Aris</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260131170000 +0700" stop="20260131190000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Vitoria Guimaraes - Moreirense</title>
     <desc>Live: Tidak</desc>
@@ -214,6 +222,14 @@
     <title>Football: Stoke City - Southampton</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260201180000 +0700" stop="20260201183000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Copa Sudamericana 2025 - Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260201183000 +0700" stop="20260201203000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Torino - Lecce (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
 <programme start="20260131164000 +0700" stop="20260131191000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Golden State Warriors - Detroit Pistons</title>
     <desc>Live: Tidak</desc>
@@ -274,9 +290,9 @@
     <title>Basketball: Houston Rockets - Dallas Mavericks</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260131162000 +0700" stop="20260131174500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>DTM 2025</title>
-    <desc>Live: Tidak</desc>
+<programme start="20260201180000 +0700" stop="20260201200000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Manresa - Unicaja (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260131174500 +0700" stop="20260131193000 +0700" channel="COSMOTE Sport 5 HD">
     <title>DTM 2025</title>

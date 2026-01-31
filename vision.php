@@ -817,6 +817,9 @@
 <programme start="20260130233000 +0000" stop="20260131010000 +0000" channel="TVOne.vision">
 <title>Apa Kabar Indonesia Pagi (L)</title>
 </programme>
+<programme start="20260131010000 +0000" stop="20260131020000 +0000" channel="TVOne.vision">
+<title>Inspirasi Pagi</title>
+</programme>
 <programme start="20260131020000 +0000" stop="20260131023000 +0000" channel="TVOne.vision">
 <title>Pesona Nusantara</title>
 </programme>
@@ -865,23 +868,65 @@
 <programme start="20260131163000 +0000" stop="20260131170000 +0000" channel="TVOne.vision">
 <title>Apa Kabar Indonesia Malam</title>
 </programme>
-<programme start="20260131180000 +0000" stop="20260131210000 +0000" channel="TVOne.vision">
-<title>TVOne</title>
+<programme start="20260131180000 +0000" stop="20260131193000 +0000" channel="TVOne.vision">
+<title>Kabar Petang</title>
 </programme>
-<programme start="20260131210000 +0000" stop="20260201000000 +0000" channel="TVOne.vision">
-<title>TVOne</title>
+<programme start="20260131193000 +0000" stop="20260131200000 +0000" channel="TVOne.vision">
+<title>Kabar Utama</title>
 </programme>
-<programme start="20260201000000 +0000" stop="20260201030000 +0000" channel="TVOne.vision">
-<title>TVOne</title>
+<programme start="20260131200000 +0000" stop="20260131203000 +0000" channel="TVOne.vision">
+<title>Kabar Hari Ini</title>
 </programme>
-<programme start="20260201030000 +0000" stop="20260201060000 +0000" channel="TVOne.vision">
-<title>TVOne</title>
+<programme start="20260131203000 +0000" stop="20260131210000 +0000" channel="TVOne.vision">
+<title>Metropolitan (L)</title>
 </programme>
-<programme start="20260201060000 +0000" stop="20260201090000 +0000" channel="TVOne.vision">
-<title>TVOne</title>
+<programme start="20260131210000 +0000" stop="20260131213000 +0000" channel="TVOne.vision">
+<title>Kabar arena pagi</title>
 </programme>
-<programme start="20260201090000 +0000" stop="20260201120000 +0000" channel="TVOne.vision">
-<title>TVOne</title>
+<programme start="20260131213000 +0000" stop="20260131230000 +0000" channel="TVOne.vision">
+<title>Kabar Pagi (L)</title>
+</programme>
+<programme start="20260131230000 +0000" stop="20260131233000 +0000" channel="TVOne.vision">
+<title>Kabar Arena Pagi (L)</title>
+</programme>
+<programme start="20260131233000 +0000" stop="20260201010000 +0000" channel="TVOne.vision">
+<title>Apa Kabar Indonesia Pagi (L)</title>
+</programme>
+<programme start="20260201010000 +0000" stop="20260201020000 +0000" channel="TVOne.vision">
+<title>Inspirasi Pagi</title>
+</programme>
+<programme start="20260201020000 +0000" stop="20260201023000 +0000" channel="TVOne.vision">
+<title>Indonesia Plus</title>
+</programme>
+<programme start="20260201023000 +0000" stop="20260201030000 +0000" channel="TVOne.vision">
+<title>Xpose</title>
+</programme>
+<programme start="20260201030000 +0000" stop="20260201033000 +0000" channel="TVOne.vision">
+<title>Dunia Dalam Kamera</title>
+</programme>
+<programme start="20260201033000 +0000" stop="20260201040000 +0000" channel="TVOne.vision">
+<title>Satria Biru</title>
+</programme>
+<programme start="20260201040000 +0000" stop="20260201053000 +0000" channel="TVOne.vision">
+<title>Kabar Siang (L)</title>
+</programme>
+<programme start="20260201053000 +0000" stop="20260201070000 +0000" channel="TVOne.vision">
+<title>Damai Indonesiaku (L)</title>
+</programme>
+<programme start="20260201070000 +0000" stop="20260201073000 +0000" channel="TVOne.vision">
+<title>Selalu Ada Hikmah</title>
+</programme>
+<programme start="20260201073000 +0000" stop="20260201080000 +0000" channel="TVOne.vision">
+<title>Dunia Kita Dan Anak</title>
+</programme>
+<programme start="20260201080000 +0000" stop="20260201090000 +0000" channel="TVOne.vision">
+<title>Apa Kabar Indonesia... (L)</title>
+</programme>
+<programme start="20260201090000 +0000" stop="20260201110000 +0000" channel="TVOne.vision">
+<title>Kabar Petang (L)</title>
+</programme>
+<programme start="20260201110000 +0000" stop="20260201130000 +0000" channel="TVOne.vision">
+<title>Apa Kabar Indonesia Malam (L)</title>
 </programme>
 <programme start="20260131170000 +0000" stop="20260131173000 +0000" channel="Kompas TV.vision">
 <title>Kompas Sport Weekend</title>
@@ -1339,10 +1384,7 @@
 <programme start="20260131152500 +0000" stop="20260131162500 +0000" channel="MDTV.vision">
 <title>Clean With Passion For Now</title>
 </programme>
-<programme start="20260131162500 +0000" stop="20260131174000 +0000" channel="MDTV.vision">
-<title>The World Of The Married</title>
-</programme>
-<programme start="20260131174000 +0000" stop="20260131184500 +0000" channel="MDTV.vision">
+<programme start="20260131173500 +0000" stop="20260131184500 +0000" channel="MDTV.vision">
 <title>Jatanras</title>
 </programme>
 <programme start="20260131184500 +0000" stop="20260131193000 +0000" channel="MDTV.vision">
@@ -1354,46 +1396,46 @@
 <programme start="20260131202000 +0000" stop="20260131212000 +0000" channel="MDTV.vision">
 <title>Di Balik Mitos</title>
 </programme>
-<programme start="20260131212000 +0000" stop="20260131222500 +0000" channel="MDTV.vision">
+<programme start="20260131212000 +0000" stop="20260131223000 +0000" channel="MDTV.vision">
 <title>Keajaiban Dunia</title>
 </programme>
-<programme start="20260131222500 +0000" stop="20260131234000 +0000" channel="MDTV.vision">
+<programme start="20260131223000 +0000" stop="20260131234000 +0000" channel="MDTV.vision">
 <title>Top Spot</title>
 </programme>
 <programme start="20260131234000 +0000" stop="20260201010000 +0000" channel="MDTV.vision">
 <title>AADD: Ada Apa Dengan Dunia</title>
 </programme>
-<programme start="20260201010000 +0000" stop="20260201020000 +0000" channel="MDTV.vision">
+<programme start="20260201010000 +0000" stop="20260201015500 +0000" channel="MDTV.vision">
 <title>Fakta +62 Weekend</title>
 </programme>
-<programme start="20260201020000 +0000" stop="20260201030000 +0000" channel="MDTV.vision">
+<programme start="20260201015500 +0000" stop="20260201025500 +0000" channel="MDTV.vision">
 <title>Sensasihot</title>
 </programme>
-<programme start="20260201030000 +0000" stop="20260201041500 +0000" channel="MDTV.vision">
+<programme start="20260201025500 +0000" stop="20260201040500 +0000" channel="MDTV.vision">
 <title>Rosalinda</title>
 </programme>
-<programme start="20260201041500 +0000" stop="20260201054000 +0000" channel="MDTV.vision">
+<programme start="20260201040500 +0000" stop="20260201052500 +0000" channel="MDTV.vision">
 <title>Maria Mercedes</title>
 </programme>
-<programme start="20260201054000 +0000" stop="20260201065000 +0000" channel="MDTV.vision">
+<programme start="20260201052500 +0000" stop="20260201064000 +0000" channel="MDTV.vision">
 <title>Cinta Fitri S6</title>
 </programme>
-<programme start="20260201065000 +0000" stop="20260201075500 +0000" channel="MDTV.vision">
+<programme start="20260201064000 +0000" stop="20260201075500 +0000" channel="MDTV.vision">
 <title>Makan Enak</title>
 </programme>
-<programme start="20260201075500 +0000" stop="20260201085500 +0000" channel="MDTV.vision">
-<title>Masak Gesss!!!</title>
+<programme start="20260201075500 +0000" stop="20260201090000 +0000" channel="MDTV.vision">
+<title>Sensasi Rasa</title>
 </programme>
-<programme start="20260201085500 +0000" stop="20260201095000 +0000" channel="MDTV.vision">
+<programme start="20260201090000 +0000" stop="20260201095500 +0000" channel="MDTV.vision">
 <title>Adit Sopo Jarwo</title>
 </programme>
-<programme start="20260201095000 +0000" stop="20260201103500 +0000" channel="MDTV.vision">
+<programme start="20260201095500 +0000" stop="20260201104500 +0000" channel="MDTV.vision">
 <title>Cinta Paulina</title>
 </programme>
-<programme start="20260201103500 +0000" stop="20260201113000 +0000" channel="MDTV.vision">
+<programme start="20260201104500 +0000" stop="20260201113500 +0000" channel="MDTV.vision">
 <title>Esmeralda</title>
 </programme>
-<programme start="20260201113000 +0000" stop="20260201123000 +0000" channel="MDTV.vision">
+<programme start="20260201113500 +0000" stop="20260201123000 +0000" channel="MDTV.vision">
 <title>Betty La Fea</title>
 </programme>
 <programme start="20260131000000 +0000" stop="20260131020000 +0000" channel="JTV.vision">
@@ -1455,46 +1497,4 @@
 </programme>
 <programme start="20260131003000 +0000" stop="20260131010000 +0000" channel="JAK TV.vision">
 <title>Cooking Time</title>
-</programme>
-<programme start="20260131010000 +0000" stop="20260131020000 +0000" channel="JAK TV.vision">
-<title>Lejel</title>
-</programme>
-<programme start="20260131020000 +0000" stop="20260131030000 +0000" channel="JAK TV.vision">
-<title>Lejel</title>
-</programme>
-<programme start="20260131030000 +0000" stop="20260131033000 +0000" channel="JAK TV.vision">
-<title>Rev</title>
-</programme>
-<programme start="20260131033000 +0000" stop="20260131040000 +0000" channel="JAK TV.vision">
-<title>Otomotif Tips</title>
-</programme>
-<programme start="20260131040000 +0000" stop="20260131050000 +0000" channel="JAK TV.vision">
-<title>IBL Best Shoot</title>
-</programme>
-<programme start="20260131050000 +0000" stop="20260131060000 +0000" channel="JAK TV.vision">
-<title>Khazanah Kenyalang</title>
-</programme>
-<programme start="20260131060000 +0000" stop="20260131063000 +0000" channel="JAK TV.vision">
-<title>Inovator</title>
-</programme>
-<programme start="20260131063000 +0000" stop="20260131070000 +0000" channel="JAK TV.vision">
-<title>Cooking Time</title>
-</programme>
-<programme start="20260131070000 +0000" stop="20260131080000 +0000" channel="JAK TV.vision">
-<title>Medika Natura</title>
-</programme>
-<programme start="20260131080000 +0000" stop="20260131090000 +0000" channel="JAK TV.vision">
-<title>Berkah Shop</title>
-</programme>
-<programme start="20260131090000 +0000" stop="20260131093000 +0000" channel="JAK TV.vision">
-<title>Berdoa Yuk</title>
-</programme>
-<programme start="20260131093000 +0000" stop="20260131100000 +0000" channel="JAK TV.vision">
-<title>Berdoa Yuk</title>
-</programme>
-<programme start="20260131100000 +0000" stop="20260131110000 +0000" channel="JAK TV.vision">
-<title>Three Queens</title>
-</programme>
-<programme start="20260131110000 +0000" stop="20260131113000 +0000" channel="JAK TV.vision">
-<title>Muslimpedia</title>
 </programme>
