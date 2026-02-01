@@ -493,9 +493,6 @@
 <programme start="20260131233000 +0000" stop="20260201003000 +0000" channel="Trans 7.vision">
 <title>Spotlite</title>
 </programme>
-<programme start="20260201003000 +0000" stop="20260201013000 +0000" channel="Trans 7.vision">
-<title>Selebrita Pagi On The Weekend</title>
-</programme>
 <programme start="20260201013000 +0000" stop="20260201023000 +0000" channel="Trans 7.vision">
 <title>Obrolan Tiap Waktu</title>
 </programme>
@@ -1496,5 +1493,8 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260202010000 +0000" stop="20260202030000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260202030000 +0000" stop="20260202050000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>

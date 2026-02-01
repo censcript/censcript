@@ -2683,7 +2683,7 @@
 <programme start="20260201114000 +0000" stop="20260201120000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Es folgt: Live 2. Bundesliga</title>
 </programme>
-<programme start="20260201120000 +0000" stop="20260201143000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
+<programme start="20260201120000 +0000" stop="20260201150000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live 2. BL: Fortuna Düsseldorf - SC Paderborn 07, 20. Spieltag</title>
 </programme>
 <programme start="20260201114000 +0000" stop="20260201120000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
@@ -3154,7 +3154,7 @@
 <programme start="20260201051500 +0000" stop="20260201060000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>LIV Golf: Showcase</title>
 </programme>
-<programme start="20260201060000 +0000" stop="20260201110000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260201060000 +0000" stop="20260201120000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live Golf: Reignwood Icons of Football (Afternoon Session), 2. Tag in Bangkok (Thailand)</title>
 </programme>
 <programme start="20260201224000 +0000" stop="20260201230000 +0000" channel="Sky Sport 1 HD.skyde">
@@ -3187,7 +3187,7 @@
 <programme start="20260201170000 +0000" stop="20260201200000 +0000" channel="Sky Sport 8 HD.skyde">
     <title>Golf: Reignwood Icons of Football (Morning Session), 2. Tag in Bangkok (Thailand)</title>
 </programme>
-<programme start="20260201200000 +0000" stop="20260201230000 +0000" channel="Sky Sport 8 HD.skyde">
+<programme start="20260201200000 +0000" stop="20260202000000 +0000" channel="Sky Sport 8 HD.skyde">
     <title>Golf: Reignwood Icons of Football (Afternoon Session), 2. Tag in Bangkok (Thailand)</title>
 </programme>
 <programme start="20260131231500 +0000" stop="20260201000000 +0000" channel="SYFY HD.skyde">
