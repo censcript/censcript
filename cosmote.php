@@ -1,7 +1,3 @@
-<programme start="20260202004000 +0700" stop="20260202020000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Sportshow (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
 <programme start="20260202020000 +0700" stop="20260202041500 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: AEK - Olympiacos (L)</title>
     <desc>Live: Ya</desc>
@@ -66,9 +62,9 @@
     <title>Football: Pafos FC - SK Slavia Praha</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260202000000 +0700" stop="20260202020000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Cremonese - FC Internazionale Milano (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20260203024500 +0700" stop="20260203044500 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: PSV Eindhoven - FC Bayern Munchen</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260202020000 +0700" stop="20260202024500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Sports Classics: Football Countdowns E10</title>
@@ -125,6 +121,10 @@
 <programme start="20260203002500 +0700" stop="20260203024500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: AEK - Olympiacos</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260203024500 +0700" stop="20260203044500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Udinese - AS Roma (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260202010000 +0700" stop="20260202030000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Sporting CP - Nacional (L)</title>
@@ -198,6 +198,10 @@
     <title>Football: Al Hilal - Al Ahli (L)</title>
     <desc>Live: Ya</desc>
 </programme>
+<programme start="20260203023000 +0700" stop="20260203030000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Emirates FA Cup 2025-26 - Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260202010000 +0700" stop="20260202030000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Murcia - Barcelona (L)</title>
     <desc>Live: Ya</desc>
@@ -252,6 +256,14 @@
 </programme>
 <programme start="20260203013000 +0700" stop="20260203020000 +0700" channel="COSMOTE Sport 4 HD">
     <title>NBA Specials</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260203020000 +0700" stop="20260203023000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>NBA Specials</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260203023000 +0700" stop="20260203050000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: San Antonio Spurs - Orlando Magic</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260202003000 +0700" stop="20260202023000 +0700" channel="COSMOTE Sport 5 HD">
@@ -475,6 +487,10 @@
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20260203003000 +0700" stop="20260203023000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>Tennis: ATP 250 2026 (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
+<programme start="20260203023000 +0700" stop="20260203050000 +0700" channel="COSMOTE Sport 7 HD">
     <title>Tennis: ATP 250 2026 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
