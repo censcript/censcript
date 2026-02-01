@@ -70,8 +70,8 @@
     <title>UEFA Champions League Magazine 2024-25 E18</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260201140000 +0700" stop="20260201160000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: SSC Napoli - ACF Fiorentina</title>
+<programme start="20260202160000 +0700" stop="20260202170000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Highlights: UEL &amp; UECL 2025-26</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260201160000 +0700" stop="20260201181500 +0700" channel="COSMOTE Sport 2 HD">
@@ -138,12 +138,8 @@
     <title>Football: Torino - Lecce</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260201133000 +0700" stop="20260201153000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Dundee United - Heart of Midlothian</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260201153000 +0700" stop="20260201160000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Copa Libertadores 2025 - Highlights</title>
+<programme start="20260202161000 +0700" stop="20260202181000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Como - Atalanta</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260201160000 +0700" stop="20260201180000 +0700" channel="COSMOTE Sport 3 HD">
@@ -214,10 +210,6 @@
     <title>Football: Al Ittihad - Al Najma</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260201133000 +0700" stop="20260201153000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Barcelona - Tenerife</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260201153000 +0700" stop="20260201180000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Houston Rockets - Dallas Mavericks</title>
     <desc>Live: Tidak</desc>
@@ -284,10 +276,6 @@
 </programme>
 <programme start="20260202150000 +0700" stop="20260202170000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Manresa - Unicaja</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260201143000 +0700" stop="20260201153000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>MotoGP Classics</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260201153000 +0700" stop="20260201163000 +0700" channel="COSMOTE Sport 5 HD">
@@ -398,12 +386,8 @@
     <title>WRC 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260201130000 +0700" stop="20260201151000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>OPAP Padel Series Tournament Padel Place Marousi</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260201151000 +0700" stop="20260201154000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>HYROX - The World of Fitness Racing E3</title>
+<programme start="20260202163500 +0700" stop="20260202173000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260201154000 +0700" stop="20260201161000 +0700" channel="COSMOTE Sport 6 HD">
@@ -464,6 +448,10 @@
 </programme>
 <programme start="20260202153000 +0700" stop="20260202160000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Watersports: Inside Sailing 2025 E1</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260202160000 +0700" stop="20260202181000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>World Athletics Indoor Tour Gold 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260201150000 +0700" stop="20260201170000 +0700" channel="COSMOTE Sport 7 HD">
