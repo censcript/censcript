@@ -631,9 +631,6 @@
 <programme start="20260201093000 +0000" stop="20260201130000 +0000" channel="ANTV.vision">
 <title>Vasudha</title>
 </programme>
-<programme start="20260201143000 +0000" stop="20260201163000 +0000" channel="ANTV.vision">
-<title>Malaikat Bayangan</title>
-</programme>
 <programme start="20260201163000 +0000" stop="20260201180000 +0000" channel="ANTV.vision">
 <title>Madu Murni</title>
 </programme>
@@ -1496,5 +1493,8 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260202070000 +0000" stop="20260202090000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260202090000 +0000" stop="20260202110000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
