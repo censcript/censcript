@@ -2539,10 +2539,13 @@
 <programme start="20260201200000 +0000" stop="20260201230000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Live NHL: Los Angeles Kings @ Carolina Hurricanes</title>
 </programme>
-<programme start="20260131234500 +0000" stop="20260201004500 +0000" channel="Sky Sport Bundesliga HD.skyde">
+<programme start="20260131230000 +0000" stop="20260201000000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: Alle Spiele, alle Stimmen, 20. Spieltag</title>
+</programme>
+<programme start="20260201000000 +0000" stop="20260201005000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 20..Spieltag, Samstag komplett</title>
 </programme>
-<programme start="20260201004500 +0000" stop="20260201024500 +0000" channel="Sky Sport Bundesliga HD.skyde">
+<programme start="20260201005000 +0000" stop="20260201024500 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: Hamburger SV - FC Bayern München, tipico Topspiel der Woche, 20. Spieltag</title>
 </programme>
 <programme start="20260201024500 +0000" stop="20260201044500 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -2617,7 +2620,7 @@
 <programme start="20260201220000 +0000" stop="20260201230000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>3. Liga: Alle Spiele, alle Tore, 22. Spieltag komplett</title>
 </programme>
-<programme start="20260201000000 +0000" stop="20260201020000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
+<programme start="20260201001500 +0000" stop="20260201020000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
     <title>BL: Eintracht Frankfurt - Bayer Leverkusen, 20. Spieltag</title>
 </programme>
 <programme start="20260201020000 +0000" stop="20260201040000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
@@ -2656,7 +2659,7 @@
 <programme start="20260201170000 +0000" stop="20260201183000 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: Sky90 - Die Fußballdebatte</title>
 </programme>
-<programme start="20260201183000 +0000" stop="20260201191500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
+<programme start="20260201183000 +0000" stop="20260201194500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: Hghlights XXL: BVB - FCH, 20. Spieltag</title>
 </programme>
 <programme start="20260201114000 +0000" stop="20260201120000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
@@ -2671,13 +2674,13 @@
 <programme start="20260201163000 +0000" stop="20260201183000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>BL: VfB Stuttgart - SC Freiburg, 20. Spieltag</title>
 </programme>
-<programme start="20260201183000 +0000" stop="20260201203000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+<programme start="20260201183000 +0000" stop="20260201210000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>BL: Borussia Dortmund - 1. FC Heidenheim, 20. Spieltag</title>
 </programme>
 <programme start="20260201114000 +0000" stop="20260201120000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Es folgt: Live 2. Bundesliga</title>
 </programme>
-<programme start="20260201120000 +0000" stop="20260201143000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
+<programme start="20260201120000 +0000" stop="20260201150000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live 2. BL: Dynamo Dresden - Arminia Bielefeld, 20. Spieltag</title>
 </programme>
 <programme start="20260201114000 +0000" stop="20260201120000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
@@ -2689,7 +2692,7 @@
 <programme start="20260201114000 +0000" stop="20260201120000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Es folgt: Live 2. Bundesliga</title>
 </programme>
-<programme start="20260201120000 +0000" stop="20260201143000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
+<programme start="20260201120000 +0000" stop="20260201150000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Live 2. BL: Multiview 20. Spieltag, Sonntag</title>
 </programme>
 <programme start="20260131230000 +0000" stop="20260201000000 +0000" channel="Sky Sport F1 HD.skyde">
@@ -2776,34 +2779,34 @@
 <programme start="20260201024000 +0000" stop="20260201030000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>LIV Golf: Highlights Finaltag Mexiko City 2025</title>
 </programme>
-<programme start="20260201030000 +0000" stop="20260201053000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260201030000 +0000" stop="20260201044000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>LPGA: Hilton Grand Vacations Tournament of Champions, 3. Tag in Orlando, FL (USA)</title>
 </programme>
-<programme start="20260201053000 +0000" stop="20260201055000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260201044000 +0000" stop="20260201050000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>LIV Golf: Highlights Finaltag Südkorea 2025</title>
 </programme>
-<programme start="20260201055000 +0000" stop="20260201061000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260201050000 +0000" stop="20260201052000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>LIV Golf: Highlights Finaltag Virginia 2025</title>
 </programme>
-<programme start="20260201061000 +0000" stop="20260201063000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260201052000 +0000" stop="20260201054000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>LIV Golf: Highlights Finaltag Dallas 2025</title>
 </programme>
-<programme start="20260201063000 +0000" stop="20260201065000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260201054000 +0000" stop="20260201060000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>LIV Golf: Highlights Finaltag Andalusien 2025</title>
 </programme>
-<programme start="20260201065000 +0000" stop="20260201071000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260201060000 +0000" stop="20260201062000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>LIV Golf: Highlights Finaltag UK 2025</title>
 </programme>
-<programme start="20260201071000 +0000" stop="20260201073500 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260201062000 +0000" stop="20260201064500 +0000" channel="Sky Sport Golf HD.skyde">
     <title>LIV Golf: Highlights Finaltag Chicago 2025</title>
 </programme>
-<programme start="20260201073500 +0000" stop="20260201075500 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260201064500 +0000" stop="20260201070500 +0000" channel="Sky Sport Golf HD.skyde">
     <title>LIV Golf: Highlights Finaltag Indianapolis 2025</title>
 </programme>
-<programme start="20260201075500 +0000" stop="20260201081500 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260201070500 +0000" stop="20260201072500 +0000" channel="Sky Sport Golf HD.skyde">
     <title>LIV Golf: Highlights Finaltag Michigan 2025</title>
 </programme>
-<programme start="20260201081500 +0000" stop="20260201104500 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260201072500 +0000" stop="20260201090500 +0000" channel="Sky Sport Golf HD.skyde">
     <title>LPGA: Hilton Grand Vacations Tournament of Champions, 3. Tag in Orlando, FL (USA)</title>
 </programme>
 <programme start="20260201104500 +0000" stop="20260201110000 +0000" channel="Sky Sport Golf HD.skyde">
@@ -2812,7 +2815,7 @@
 <programme start="20260201110000 +0000" stop="20260201140000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>LIV Golf: The Duels UK 2025</title>
 </programme>
-<programme start="20260201140000 +0000" stop="20260201163000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260201140000 +0000" stop="20260201154500 +0000" channel="Sky Sport Golf HD.skyde">
     <title>LPGA: Hilton Grand Vacations Tournament of Champions, 3. Tag in Orlando, FL (USA)</title>
 </programme>
 <programme start="20260201163000 +0000" stop="20260201164500 +0000" channel="Sky Sport Golf HD.skyde">
@@ -3154,7 +3157,7 @@
 <programme start="20260201051500 +0000" stop="20260201060000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>LIV Golf: Showcase</title>
 </programme>
-<programme start="20260201060000 +0000" stop="20260201120000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260201060000 +0000" stop="20260201114000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live Golf: Reignwood Icons of Football (Afternoon Session), 2. Tag in Bangkok (Thailand)</title>
 </programme>
 <programme start="20260201224000 +0000" stop="20260201230000 +0000" channel="Sky Sport 1 HD.skyde">
@@ -3163,7 +3166,7 @@
 <programme start="20260201133000 +0000" stop="20260201135000 +0000" channel="Sky Sport 6 HD.skyde">
     <title>Es folgt: Live Premier League</title>
 </programme>
-<programme start="20260201135000 +0000" stop="20260201160000 +0000" channel="Sky Sport 6 HD.skyde">
+<programme start="20260201135000 +0000" stop="20260201170000 +0000" channel="Sky Sport 6 HD.skyde">
     <title>Live PL: Nottingham Forest - Crystal Palace, 24. Spieltag</title>
 </programme>
 <programme start="20260201010000 +0000" stop="20260201050000 +0000" channel="Sky Sport 8 HD.skyde">
