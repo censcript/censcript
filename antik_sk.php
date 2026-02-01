@@ -5002,23 +5002,14 @@
   <programme start="20260203173000 +0000" stop="20260203180000 +0000" channel="Arena Sport 2.webtv.sk">
     <title lang="id">Martin z Martina</title>
   </programme>
-  <programme start="20260203180000 +0000" stop="20260203183000 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">Naša Garáž</title>
+  <programme start="20260203180000 +0000" stop="20260203200000 +0000" channel="Arena Sport 2.webtv.sk">
+    <title lang="id">Rosario Challenger</title>
   </programme>
-  <programme start="20260203183000 +0000" stop="20260203190000 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">Výběrová auta</title>
+  <programme start="20260203200000 +0000" stop="20260203220000 +0000" channel="Arena Sport 2.webtv.sk">
+    <title lang="id">Rosario Challenger</title>
   </programme>
-  <programme start="20260203190000 +0000" stop="20260203193000 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">Piok Cars</title>
-  </programme>
-  <programme start="20260203193000 +0000" stop="20260203201500 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">Piok Cars</title>
-  </programme>
-  <programme start="20260203201500 +0000" stop="20260203210000 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">Martin z Martina</title>
-  </programme>
-  <programme start="20260203210000 +0000" stop="20260203230000 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">Sparta Rotterdam - FC Groningen</title>
+  <programme start="20260203220000 +0000" stop="20260203230000 +0000" channel="Arena Sport 2.webtv.sk">
+    <title lang="id">Motoring</title>
   </programme>
   <programme start="20260202222000 +0000" stop="20260203000500 +0000" channel="Nova Sport 1.webtv.sk">
     <title lang="id">Anaheim Ducks - Vegas Golden Knights</title>

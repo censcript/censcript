@@ -2371,7 +2371,10 @@
     <programme start="20260202141500 +0000" stop="20260202161500 +0000" channel="The Filipino Channel HD.starhub">
         <title>It&#039;s Showtime</title>
     </programme>
-    <programme start="20260201155000 +0000" stop="20260201162000 +0000" channel="Hub Premier 2 HD.starhub">
+    <programme start="20260201135000 +0000" stop="20260201160500 +0000" channel="Hub Premier 2 HD.starhub">
+        <title>Premier League 2025/26</title>
+    </programme>
+    <programme start="20260201160500 +0000" stop="20260201162000 +0000" channel="Hub Premier 2 HD.starhub">
         <title>PL Stories 2025/26</title>
     </programme>
     <programme start="20260201162000 +0000" stop="20260201183000 +0000" channel="Hub Premier 2 HD.starhub">
