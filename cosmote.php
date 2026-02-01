@@ -62,12 +62,12 @@
     <title>Football: Al-Riyadh - Al Nassr (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260201230000 +0700" stop="20260201233000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Sports Classics: Football Countdowns E9</title>
+<programme start="20260203001500 +0700" stop="20260203004500 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEFA Champions League Magazine 2024-25 E18</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260201233000 +0700" stop="20260202000000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Sports Classics: Worldies E20</title>
+<programme start="20260203004500 +0700" stop="20260203024500 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: Pafos FC - SK Slavia Praha</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260202000000 +0700" stop="20260202020000 +0700" channel="COSMOTE Sport 2 HD">
@@ -124,6 +124,10 @@
 </programme>
 <programme start="20260202222500 +0700" stop="20260203002500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Parma - Juventus Football Club</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260203002500 +0700" stop="20260203024500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: AEK - Olympiacos</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260201230000 +0700" stop="20260202010000 +0700" channel="COSMOTE Sport 3 HD">
@@ -194,6 +198,14 @@
     <title>Emirates FA Cup 2025-26 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260203000000 +0700" stop="20260203003000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Copa Libertadores 2025 - Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260203003000 +0700" stop="20260203023000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Al Hilal - Al Ahli (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
 <programme start="20260201215500 +0700" stop="20260202002500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Houston Rockets - Dallas Mavericks</title>
     <desc>Live: Tidak</desc>
@@ -252,10 +264,6 @@
 </programme>
 <programme start="20260202233000 +0700" stop="20260203013000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Virtus Bologna - Aquila Basket Trento</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260201215000 +0700" stop="20260201232500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260201232500 +0700" stop="20260202003000 +0700" channel="COSMOTE Sport 5 HD">
@@ -370,10 +378,6 @@
     <title>DTM 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260201213000 +0700" stop="20260202000000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Volleyball: Olympiacos - Allianz Powervolley Milano</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260202000000 +0700" stop="20260202030000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Fight Sports: Oktagon 2026</title>
     <desc>Live: Tidak</desc>
@@ -425,6 +429,10 @@
 <programme start="20260202213000 +0700" stop="20260203000000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Volleyball: PAOK - Podoliani</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260203000000 +0700" stop="20260203013000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Topspin (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260201230000 +0700" stop="20260202010000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
@@ -478,8 +486,8 @@
     <title>Tennis: ATP 250 2026 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260201220000 +0700" stop="20260202000000 +0700" channel="COSMOTE Sport 8 HD">
-    <title>Basketball: Armani Milano - Brescia (L)</title>
+<programme start="20260203003000 +0700" stop="20260203023000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>Tennis: ATP 250 2026 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20260202000000 +0700" stop="20260202003000 +0700" channel="COSMOTE Sport 8 HD">
