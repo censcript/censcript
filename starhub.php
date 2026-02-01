@@ -7754,7 +7754,7 @@
         <title>Highlights</title>
     </programme>
     <programme start="20260201055500 +0000" stop="20260201080000 +0000" channel="SPOTV2.starhub">
-        <title>25/26 A-League Men Round 15 Central Coast Mariners FC vs Melbourne Victory (Live)</title>
+        <title>25/26 A-League Men Round 15 Central Coast Mariners FC vs Melbourne Victory (Live</title>
     </programme>
     <programme start="20260201080000 +0000" stop="20260201094000 +0000" channel="SPOTV2.starhub">
         <title>Day 2 Race</title>
