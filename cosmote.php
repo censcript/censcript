@@ -114,6 +114,10 @@
     <title>Football: Udinese - AS Roma</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260203180000 +0700" stop="20260203200500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Panathinaikos - Kifisia</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260202170000 +0700" stop="20260202190000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Stoke City - Southampton</title>
     <desc>Live: Tidak</desc>
@@ -194,10 +198,6 @@
     <title>Football: Portsmouth - West Bromwich Albion</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260202170000 +0700" stop="20260202171000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Manresa - Unicaja</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260202171000 +0700" stop="20260202193000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Boston Celtics - Milwaukee Bucks</title>
     <desc>Live: Tidak</desc>
@@ -256,10 +256,6 @@
 </programme>
 <programme start="20260203170000 +0700" stop="20260203193000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Memphis Grizzlies - Minnesota Timberwolves</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260202163500 +0700" stop="20260202173000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260202173000 +0700" stop="20260202181500 +0700" channel="COSMOTE Sport 5 HD">
@@ -340,6 +336,10 @@
 </programme>
 <programme start="20260203162000 +0700" stop="20260203182000 +0700" channel="COSMOTE Sport 5 HD">
     <title>2025 Extreme H</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260203182000 +0700" stop="20260203192500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>2025 FIM Women&#039;s Circuit Racing World Championship</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260202160000 +0700" stop="20260202181000 +0700" channel="COSMOTE Sport 6 HD">
