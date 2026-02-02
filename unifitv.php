@@ -15330,9 +15330,14 @@
     <desc lang="en">A towering presence at the back and a potent attacking force upfront. Complete domination by Barcelona club captain Gerard Pique.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260201200000 +0000" stop="20260202015500 +0000" channel="unifisports1.unifitv">
+  <programme start="20260201200000 +0000" stop="20260202010000 +0000" channel="unifisports1.unifitv">
     <title lang="en">UFC 325: Volkanovski vs. Lopes 2 - Prelims</title>
     <desc lang="en">On Sunday, February 1, UFC returns to Sydney Olympic Park, New South Wales, Australia for UFC 325 which will be headlined by a featherweight championship rematch between titleholder Alexander “The Great” Volkanovski and challenger Diego Lopes. The duo faced off for the vacant featherweight title last April at UFC 314 in Miami, with Volkanovski earning a unanimous decision victory to reclaim in the throne in the 145-pound weight class.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260202010000 +0000" stop="20260202015500 +0000" channel="unifisports1.unifitv">
+    <title lang="en">UFC Main Event  - UFC297 - Strickland vs Du Plessis</title>
+    <desc lang="en">UFC Middleweight Champion Sean Strickland defends his title against South African contender Dricus Du Plessis in a thrilling showdown at UFC 297. Watch the full championship fight on this episode of Main Event.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260202015500 +0000" stop="20260202020000 +0000" channel="unifisports1.unifitv">
@@ -15390,7 +15395,7 @@
     <desc lang="en">A towering presence at the back and a potent attacking force upfront. Complete domination by Barcelona club captain Gerard Pique.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260202140000 +0000" stop="20260202195500 +0000" channel="unifisports1.unifitv">
+  <programme start="20260202140000 +0000" stop="20260202190000 +0000" channel="unifisports1.unifitv">
     <title lang="en">UFC 325: Volkanovski vs. Lopes 2 - Prelims</title>
     <desc lang="en">On Sunday, February 1, UFC returns to Sydney Olympic Park, New South Wales, Australia for UFC 325 which will be headlined by a featherweight championship rematch between titleholder Alexander “The Great” Volkanovski and challenger Diego Lopes. The duo faced off for the vacant featherweight title last April at UFC 314 in Miami, with Volkanovski earning a unanimous decision victory to reclaim in the throne in the 145-pound weight class.</desc>
     <category lang="en">Sports</category>

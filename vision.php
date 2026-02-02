@@ -1,8 +1,11 @@
-<programme start="20260202000000 +0000" stop="20260202013000 +0000" channel="RCTI.vision">
+<programme start="20260202000000 +0000" stop="20260202010000 +0000" channel="RCTI.vision">
 <title>Upin Ipin</title>
 </programme>
-<programme start="20260202013000 +0000" stop="20260202033000 +0000" channel="RCTI.vision">
+<programme start="20260202010000 +0000" stop="20260202023000 +0000" channel="RCTI.vision">
 <title>Dahsyat (RCTI)</title>
+</programme>
+<programme start="20260202023000 +0000" stop="20260202033000 +0000" channel="RCTI.vision">
+<title>Investigasi Selebriti</title>
 </programme>
 <programme start="20260202033000 +0000" stop="20260202043000 +0000" channel="RCTI.vision">
 <title>Silet (RCTI)</title>
@@ -10,11 +13,11 @@
 <programme start="20260202043000 +0000" stop="20260202050000 +0000" channel="RCTI.vision">
 <title>Seputar iNews Siang</title>
 </programme>
-<programme start="20260202050000 +0000" stop="20260202070000 +0000" channel="RCTI.vision">
+<programme start="20260202050000 +0000" stop="20260202063000 +0000" channel="RCTI.vision">
 <title>Amanah Wali S5</title>
 </programme>
-<programme start="20260202070000 +0000" stop="20260202083000 +0000" channel="RCTI.vision">
-<title>Preman Pensiun S4</title>
+<programme start="20260202063000 +0000" stop="20260202083000 +0000" channel="RCTI.vision">
+<title>Mega Entertainment</title>
 </programme>
 <programme start="20260202083000 +0000" stop="20260202100000 +0000" channel="RCTI.vision">
 <title>Scan Gw Kalau Berani</title>
@@ -32,43 +35,43 @@
 <title>Indonesian Idol 2025 (RCTI)</title>
 </programme>
 <programme start="20260202170000 +0000" stop="20260202190000 +0000" channel="RCTI.vision">
-<title>Dadang Dudung</title>
+<title>RCTI</title>
 </programme>
-<programme start="20260202190000 +0000" stop="20260202223000 +0000" channel="RCTI.vision">
-<title>Preman Pensiun</title>
+<programme start="20260202190000 +0000" stop="20260202230000 +0000" channel="RCTI.vision">
+<title>RCTI</title>
 </programme>
-<programme start="20260202223000 +0000" stop="20260202233000 +0000" channel="RCTI.vision">
-<title>Go Spot</title>
+<programme start="20260202230000 +0000" stop="20260203000000 +0000" channel="RCTI.vision">
+<title>RCTI</title>
 </programme>
-<programme start="20260202233000 +0000" stop="20260203010000 +0000" channel="RCTI.vision">
-<title>Upin Ipin</title>
+<programme start="20260203000000 +0000" stop="20260203010000 +0000" channel="RCTI.vision">
+<title>RCTI</title>
 </programme>
-<programme start="20260203010000 +0000" stop="20260203013000 +0000" channel="RCTI.vision">
-<title>Kiko</title>
+<programme start="20260203010000 +0000" stop="20260203023000 +0000" channel="RCTI.vision">
+<title>RCTI</title>
 </programme>
-<programme start="20260203013000 +0000" stop="20260203033000 +0000" channel="RCTI.vision">
-<title>Dahsyat (RCTI)</title>
+<programme start="20260203023000 +0000" stop="20260203033000 +0000" channel="RCTI.vision">
+<title>RCTI</title>
 </programme>
 <programme start="20260203033000 +0000" stop="20260203043000 +0000" channel="RCTI.vision">
-<title>Silet (RCTI)</title>
+<title>RCTI</title>
 </programme>
 <programme start="20260203043000 +0000" stop="20260203050000 +0000" channel="RCTI.vision">
-<title>Seputar iNews Siang</title>
+<title>RCTI</title>
 </programme>
-<programme start="20260203050000 +0000" stop="20260203070000 +0000" channel="RCTI.vision">
-<title>Amanah Wali S5</title>
+<programme start="20260203050000 +0000" stop="20260203063000 +0000" channel="RCTI.vision">
+<title>RCTI</title>
 </programme>
-<programme start="20260203070000 +0000" stop="20260203083000 +0000" channel="RCTI.vision">
-<title>Preman Pensiun S4</title>
+<programme start="20260203063000 +0000" stop="20260203083000 +0000" channel="RCTI.vision">
+<title>RCTI</title>
 </programme>
 <programme start="20260203083000 +0000" stop="20260203100000 +0000" channel="RCTI.vision">
-<title>Pewaris Romantis</title>
+<title>RCTI</title>
 </programme>
 <programme start="20260203100000 +0000" stop="20260203113000 +0000" channel="RCTI.vision">
-<title>Aira (RCTI)</title>
+<title>RCTI</title>
 </programme>
 <programme start="20260203113000 +0000" stop="20260203131500 +0000" channel="RCTI.vision">
-<title>Mencintai Ipar Sendiri (RCTI)</title>
+<title>RCTI</title>
 </programme>
 <programme start="20260201231500 +0000" stop="20260202004500 +0000" channel="MNCTV.vision">
 <title>Kiko</title>
@@ -995,328 +998,361 @@
 <title>Sapa Indonesia Malam</title>
 </programme>
 <programme start="20260202000000 +0000" stop="20260202000500 +0000" channel="Metro TV.vision">
-<title>Headline News</title>
+<title>Metro TV</title>
 </programme>
-<programme start="20260202000500 +0000" stop="20260202003000 +0000" channel="Metro TV.vision">
-<title>Editorial Media Indonesia</title>
-</programme>
-<programme start="20260202003000 +0000" stop="20260202010000 +0000" channel="Metro TV.vision">
-<title>Metro Sport</title>
+<programme start="20260202000500 +0000" stop="20260202010000 +0000" channel="Metro TV.vision">
+<title>Metro TV</title>
 </programme>
 <programme start="20260202010000 +0000" stop="20260202010500 +0000" channel="Metro TV.vision">
-<title>Headline News</title>
+<title>Metro TV</title>
 </programme>
 <programme start="20260202010500 +0000" stop="20260202013000 +0000" channel="Metro TV.vision">
-<title>Selamat Pagi Indonesia</title>
+<title>Metro TV</title>
 </programme>
-<programme start="20260202013000 +0000" stop="20260202015500 +0000" channel="Metro TV.vision">
-<title>Selamat Pagi Indonesia</title>
+<programme start="20260202013000 +0000" stop="20260202014500 +0000" channel="Metro TV.vision">
+<title>Metro TV</title>
 </programme>
-<programme start="20260202015500 +0000" stop="20260202020000 +0000" channel="Metro TV.vision">
-<title>Selamat Pagi Indonesia</title>
+<programme start="20260202014500 +0000" stop="20260202020000 +0000" channel="Metro TV.vision">
+<title>Metro TV</title>
 </programme>
 <programme start="20260202020000 +0000" stop="20260202020500 +0000" channel="Metro TV.vision">
-<title>Headline News</title>
+<title>Metro TV</title>
 </programme>
-<programme start="20260202020500 +0000" stop="20260202023000 +0000" channel="Metro TV.vision">
-<title>Selamat Pagi Indonesia</title>
+<programme start="20260202020500 +0000" stop="20260202022000 +0000" channel="Metro TV.vision">
+<title>Metro TV</title>
+</programme>
+<programme start="20260202022000 +0000" stop="20260202023000 +0000" channel="Metro TV.vision">
+<title>Metro TV</title>
 </programme>
 <programme start="20260202023000 +0000" stop="20260202030000 +0000" channel="Metro TV.vision">
-<title>Zona Bisnis</title>
+<title>Metro TV</title>
 </programme>
 <programme start="20260202030000 +0000" stop="20260202030500 +0000" channel="Metro TV.vision">
-<title>Headline News</title>
+<title>Metro TV</title>
 </programme>
 <programme start="20260202030500 +0000" stop="20260202033000 +0000" channel="Metro TV.vision">
-<title>Zona Bisnis</title>
+<title>Metro TV</title>
 </programme>
 <programme start="20260202033000 +0000" stop="20260202040000 +0000" channel="Metro TV.vision">
-<title>Go Healthy</title>
+<title>Metro TV</title>
 </programme>
 <programme start="20260202040000 +0000" stop="20260202040500 +0000" channel="Metro TV.vision">
-<title>Headline News</title>
+<title>Metro TV</title>
 </programme>
-<programme start="20260202040500 +0000" stop="20260202043000 +0000" channel="Metro TV.vision">
-<title>Metro Sport</title>
+<programme start="20260202040500 +0000" stop="20260202050000 +0000" channel="Metro TV.vision">
+<title>Metro TV</title>
 </programme>
-<programme start="20260202043000 +0000" stop="20260202050000 +0000" channel="Metro TV.vision">
-<title>Metro Siang</title>
+<programme start="20260202050000 +0000" stop="20260202050500 +0000" channel="Metro TV.vision">
+<title>Metro TV</title>
 </programme>
-<programme start="20260202050000 +0000" stop="20260202053000 +0000" channel="Metro TV.vision">
-<title>Metro Siang</title>
+<programme start="20260202050500 +0000" stop="20260202053000 +0000" channel="Metro TV.vision">
+<title>Metro TV</title>
 </programme>
-<programme start="20260202053000 +0000" stop="20260202060000 +0000" channel="Metro TV.vision">
-<title>Metro Siang</title>
+<programme start="20260202053000 +0000" stop="20260202055000 +0000" channel="Metro TV.vision">
+<title>Metro TV</title>
 </programme>
-<programme start="20260202060000 +0000" stop="20260202063000 +0000" channel="Metro TV.vision">
-<title>Metro Siang</title>
+<programme start="20260202055000 +0000" stop="20260202060000 +0000" channel="Metro TV.vision">
+<title>Metro TV</title>
+</programme>
+<programme start="20260202060000 +0000" stop="20260202060500 +0000" channel="Metro TV.vision">
+<title>Metro TV</title>
+</programme>
+<programme start="20260202060500 +0000" stop="20260202063000 +0000" channel="Metro TV.vision">
+<title>Metro TV</title>
 </programme>
 <programme start="20260202063000 +0000" stop="20260202070000 +0000" channel="Metro TV.vision">
-<title>Prioritas Indonesia</title>
+<title>Metro TV</title>
 </programme>
 <programme start="20260202070000 +0000" stop="20260202070500 +0000" channel="Metro TV.vision">
-<title>Headline News</title>
+<title>Metro TV</title>
 </programme>
 <programme start="20260202070500 +0000" stop="20260202073000 +0000" channel="Metro TV.vision">
-<title>Newsline</title>
+<title>Metro TV</title>
 </programme>
 <programme start="20260202073000 +0000" stop="20260202080000 +0000" channel="Metro TV.vision">
-<title>Newsline</title>
+<title>Metro TV</title>
 </programme>
 <programme start="20260202080000 +0000" stop="20260202080500 +0000" channel="Metro TV.vision">
-<title>Headline News</title>
+<title>Metro TV</title>
 </programme>
-<programme start="20260202080500 +0000" stop="20260202081000 +0000" channel="Metro TV.vision">
-<title>Newsline</title>
+<programme start="20260202080500 +0000" stop="20260202083000 +0000" channel="Metro TV.vision">
+<title>Metro TV</title>
 </programme>
-<programme start="20260202081000 +0000" stop="20260202082000 +0000" channel="Metro TV.vision">
-<title>Newsline</title>
-</programme>
-<programme start="20260202082000 +0000" stop="20260202083000 +0000" channel="Metro TV.vision">
-<title>Newsline</title>
-</programme>
-<programme start="20260202083000 +0000" stop="20260202085000 +0000" channel="Metro TV.vision">
-<title>Newsline</title>
-</programme>
-<programme start="20260202085000 +0000" stop="20260202090000 +0000" channel="Metro TV.vision">
-<title>Newsline</title>
+<programme start="20260202083000 +0000" stop="20260202090000 +0000" channel="Metro TV.vision">
+<title>Metro TV</title>
 </programme>
 <programme start="20260202090000 +0000" stop="20260202090500 +0000" channel="Metro TV.vision">
-<title>Headline News</title>
+<title>Metro TV</title>
 </programme>
 <programme start="20260202090500 +0000" stop="20260202093000 +0000" channel="Metro TV.vision">
-<title>Metro Hari Ini</title>
+<title>Metro TV</title>
 </programme>
 <programme start="20260202093000 +0000" stop="20260202100000 +0000" channel="Metro TV.vision">
-<title>Metro Hari Ini</title>
+<title>Metro TV</title>
 </programme>
-<programme start="20260202100000 +0000" stop="20260202103000 +0000" channel="Metro TV.vision">
-<title>Metro Hari Ini</title>
+<programme start="20260202100000 +0000" stop="20260202100500 +0000" channel="Metro TV.vision">
+<title>Metro TV</title>
 </programme>
-<programme start="20260202103000 +0000" stop="20260202110000 +0000" channel="Metro TV.vision">
-<title>Primetime News</title>
+<programme start="20260202100500 +0000" stop="20260202102000 +0000" channel="Metro TV.vision">
+<title>Metro TV</title>
 </programme>
-<programme start="20260202110000 +0000" stop="20260202113000 +0000" channel="Metro TV.vision">
-<title>Primetime News</title>
+<programme start="20260202102000 +0000" stop="20260202103000 +0000" channel="Metro TV.vision">
+<title>Metro TV</title>
 </programme>
-<programme start="20260202113000 +0000" stop="20260202120000 +0000" channel="Metro TV.vision">
-<title>Primetime News</title>
+<programme start="20260202103000 +0000" stop="20260202104500 +0000" channel="Metro TV.vision">
+<title>Metro TV</title>
+</programme>
+<programme start="20260202104500 +0000" stop="20260202110000 +0000" channel="Metro TV.vision">
+<title>Metro TV</title>
+</programme>
+<programme start="20260202110000 +0000" stop="20260202110500 +0000" channel="Metro TV.vision">
+<title>Metro TV</title>
+</programme>
+<programme start="20260202110500 +0000" stop="20260202113000 +0000" channel="Metro TV.vision">
+<title>Metro TV</title>
+</programme>
+<programme start="20260202113000 +0000" stop="20260202115700 +0000" channel="Metro TV.vision">
+<title>Metro TV</title>
+</programme>
+<programme start="20260202115700 +0000" stop="20260202120000 +0000" channel="Metro TV.vision">
+<title>Metro TV</title>
 </programme>
 <programme start="20260202120000 +0000" stop="20260202120500 +0000" channel="Metro TV.vision">
-<title>Headline News</title>
+<title>Metro TV</title>
 </programme>
 <programme start="20260202120500 +0000" stop="20260202123000 +0000" channel="Metro TV.vision">
-<title>Primetime News</title>
+<title>Metro TV</title>
 </programme>
-<programme start="20260202123000 +0000" stop="20260202130000 +0000" channel="Metro TV.vision">
-<title>Primetime News</title>
+<programme start="20260202123000 +0000" stop="20260202124500 +0000" channel="Metro TV.vision">
+<title>Metro TV</title>
+</programme>
+<programme start="20260202124500 +0000" stop="20260202125000 +0000" channel="Metro TV.vision">
+<title>Metro TV</title>
+</programme>
+<programme start="20260202125000 +0000" stop="20260202130000 +0000" channel="Metro TV.vision">
+<title>Metro TV</title>
 </programme>
 <programme start="20260202130000 +0000" stop="20260202130500 +0000" channel="Metro TV.vision">
-<title>Headline News</title>
+<title>Metro TV</title>
 </programme>
 <programme start="20260202130500 +0000" stop="20260202133000 +0000" channel="Metro TV.vision">
-<title>Top News</title>
+<title>Metro TV</title>
 </programme>
 <programme start="20260202133000 +0000" stop="20260202140000 +0000" channel="Metro TV.vision">
-<title>Top News</title>
+<title>Metro TV</title>
 </programme>
 <programme start="20260202140000 +0000" stop="20260202140500 +0000" channel="Metro TV.vision">
-<title>Headline News</title>
+<title>Metro TV</title>
 </programme>
 <programme start="20260202140500 +0000" stop="20260202143000 +0000" channel="Metro TV.vision">
-<title>Top News</title>
+<title>Metro TV</title>
 </programme>
 <programme start="20260202143000 +0000" stop="20260202150000 +0000" channel="Metro TV.vision">
-<title>Top News</title>
+<title>Metro TV</title>
 </programme>
 <programme start="20260202150000 +0000" stop="20260202150500 +0000" channel="Metro TV.vision">
-<title>Headline News</title>
+<title>Metro TV</title>
 </programme>
 <programme start="20260202150500 +0000" stop="20260202153000 +0000" channel="Metro TV.vision">
-<title>Metro Xin Wen</title>
+<title>Metro TV</title>
 </programme>
 <programme start="20260202153000 +0000" stop="20260202160000 +0000" channel="Metro TV.vision">
-<title>Meet Nite Live (L)</title>
+<title>Metro TV</title>
 </programme>
 <programme start="20260202160000 +0000" stop="20260202160500 +0000" channel="Metro TV.vision">
-<title>Headline News</title>
+<title>Metro TV</title>
 </programme>
 <programme start="20260202160500 +0000" stop="20260202163000 +0000" channel="Metro TV.vision">
-<title>Meet Nite Live (L)</title>
+<title>Metro TV</title>
 </programme>
 <programme start="20260202163000 +0000" stop="20260202170000 +0000" channel="Metro TV.vision">
-<title>Primetime News</title>
+<title>Metro TV</title>
 </programme>
 <programme start="20260202170000 +0000" stop="20260202170500 +0000" channel="Metro TV.vision">
-<title>Headline News</title>
+<title>Metro TV</title>
 </programme>
 <programme start="20260202170500 +0000" stop="20260202173000 +0000" channel="Metro TV.vision">
-<title>Primetime News</title>
+<title>Metro TV</title>
 </programme>
 <programme start="20260202173000 +0000" stop="20260202180000 +0000" channel="Metro TV.vision">
-<title>Primetime News</title>
+<title>Metro TV</title>
 </programme>
 <programme start="20260202180000 +0000" stop="20260202180500 +0000" channel="Metro TV.vision">
-<title>Headline News</title>
+<title>Metro TV</title>
 </programme>
 <programme start="20260202180500 +0000" stop="20260202183000 +0000" channel="Metro TV.vision">
-<title>Primetime News</title>
+<title>Metro TV</title>
 </programme>
 <programme start="20260202183000 +0000" stop="20260202190000 +0000" channel="Metro TV.vision">
-<title>Primetime News</title>
+<title>Metro TV</title>
 </programme>
 <programme start="20260202190000 +0000" stop="20260202190500 +0000" channel="Metro TV.vision">
-<title>Headline News</title>
+<title>Metro TV</title>
 </programme>
 <programme start="20260202190500 +0000" stop="20260202193000 +0000" channel="Metro TV.vision">
-<title>Meet Nite Live (L)</title>
+<title>Metro TV</title>
 </programme>
-<programme start="20260202193000 +0000" stop="20260202200000 +0000" channel="Metro TV.vision">
-<title>Meet Nite Live (L)</title>
+<programme start="20260202193000 +0000" stop="20260202194500 +0000" channel="Metro TV.vision">
+<title>Metro TV</title>
+</programme>
+<programme start="20260202194500 +0000" stop="20260202200000 +0000" channel="Metro TV.vision">
+<title>Metro TV</title>
 </programme>
 <programme start="20260202200000 +0000" stop="20260202200500 +0000" channel="Metro TV.vision">
-<title>Headline News</title>
+<title>Metro TV</title>
 </programme>
 <programme start="20260202200500 +0000" stop="20260202203000 +0000" channel="Metro TV.vision">
-<title>Top News</title>
+<title>Metro TV</title>
 </programme>
 <programme start="20260202203000 +0000" stop="20260202210000 +0000" channel="Metro TV.vision">
-<title>Top News</title>
+<title>Metro TV</title>
 </programme>
 <programme start="20260202210000 +0000" stop="20260202210500 +0000" channel="Metro TV.vision">
-<title>Headline News</title>
+<title>Metro TV</title>
 </programme>
 <programme start="20260202210500 +0000" stop="20260202213000 +0000" channel="Metro TV.vision">
-<title>Top News</title>
+<title>Metro TV</title>
 </programme>
-<programme start="20260202213000 +0000" stop="20260202215500 +0000" channel="Metro TV.vision">
-<title>Top News</title>
-</programme>
-<programme start="20260202215500 +0000" stop="20260202220000 +0000" channel="Metro TV.vision">
-<title>Top News</title>
+<programme start="20260202213000 +0000" stop="20260202220000 +0000" channel="Metro TV.vision">
+<title>Metro TV</title>
 </programme>
 <programme start="20260202220000 +0000" stop="20260202220500 +0000" channel="Metro TV.vision">
-<title>Headline News</title>
+<title>Metro TV</title>
 </programme>
-<programme start="20260202220500 +0000" stop="20260202223000 +0000" channel="Metro TV.vision">
-<title>Metro Pagi Primetime</title>
+<programme start="20260202220500 +0000" stop="20260202225300 +0000" channel="Metro TV.vision">
+<title>Metro TV</title>
 </programme>
-<programme start="20260202223000 +0000" stop="20260202230000 +0000" channel="Metro TV.vision">
-<title>Metro Pagi Primetime</title>
+<programme start="20260202225300 +0000" stop="20260202230000 +0000" channel="Metro TV.vision">
+<title>Metro TV</title>
 </programme>
-<programme start="20260202230000 +0000" stop="20260202233000 +0000" channel="Metro TV.vision">
-<title>Metro Pagi Primetime</title>
+<programme start="20260202230000 +0000" stop="20260202230500 +0000" channel="Metro TV.vision">
+<title>Metro TV</title>
+</programme>
+<programme start="20260202230500 +0000" stop="20260202233000 +0000" channel="Metro TV.vision">
+<title>Metro TV</title>
 </programme>
 <programme start="20260202233000 +0000" stop="20260203000000 +0000" channel="Metro TV.vision">
-<title>Go Healthy</title>
+<title>Metro TV</title>
 </programme>
 <programme start="20260203000000 +0000" stop="20260203000500 +0000" channel="Metro TV.vision">
-<title>Headline News</title>
+<title>Metro TV</title>
 </programme>
-<programme start="20260203000500 +0000" stop="20260203003000 +0000" channel="Metro TV.vision">
-<title>Editorial Media Indonesia</title>
-</programme>
-<programme start="20260203003000 +0000" stop="20260203010000 +0000" channel="Metro TV.vision">
-<title>Metro Sport</title>
+<programme start="20260203000500 +0000" stop="20260203010000 +0000" channel="Metro TV.vision">
+<title>Metro TV</title>
 </programme>
 <programme start="20260203010000 +0000" stop="20260203010500 +0000" channel="Metro TV.vision">
-<title>Headline News</title>
+<title>Metro TV</title>
 </programme>
 <programme start="20260203010500 +0000" stop="20260203013000 +0000" channel="Metro TV.vision">
-<title>Selamat Pagi Indonesia</title>
+<title>Metro TV</title>
 </programme>
-<programme start="20260203013000 +0000" stop="20260203015500 +0000" channel="Metro TV.vision">
-<title>Selamat Pagi Indonesia</title>
+<programme start="20260203013000 +0000" stop="20260203014500 +0000" channel="Metro TV.vision">
+<title>Metro TV</title>
 </programme>
-<programme start="20260203015500 +0000" stop="20260203020000 +0000" channel="Metro TV.vision">
-<title>Selamat Pagi Indonesia</title>
+<programme start="20260203014500 +0000" stop="20260203020000 +0000" channel="Metro TV.vision">
+<title>Metro TV</title>
 </programme>
 <programme start="20260203020000 +0000" stop="20260203020500 +0000" channel="Metro TV.vision">
-<title>Headline News</title>
+<title>Metro TV</title>
 </programme>
-<programme start="20260203020500 +0000" stop="20260203023000 +0000" channel="Metro TV.vision">
-<title>Selamat Pagi Indonesia</title>
+<programme start="20260203020500 +0000" stop="20260203022000 +0000" channel="Metro TV.vision">
+<title>Metro TV</title>
+</programme>
+<programme start="20260203022000 +0000" stop="20260203023000 +0000" channel="Metro TV.vision">
+<title>Metro TV</title>
 </programme>
 <programme start="20260203023000 +0000" stop="20260203030000 +0000" channel="Metro TV.vision">
-<title>Zona Bisnis</title>
+<title>Metro TV</title>
 </programme>
 <programme start="20260203030000 +0000" stop="20260203030500 +0000" channel="Metro TV.vision">
-<title>Headline News</title>
+<title>Metro TV</title>
 </programme>
 <programme start="20260203030500 +0000" stop="20260203033000 +0000" channel="Metro TV.vision">
-<title>Zona Bisnis</title>
+<title>Metro TV</title>
 </programme>
 <programme start="20260203033000 +0000" stop="20260203040000 +0000" channel="Metro TV.vision">
-<title>Go Healthy</title>
+<title>Metro TV</title>
 </programme>
 <programme start="20260203040000 +0000" stop="20260203040500 +0000" channel="Metro TV.vision">
-<title>Headline News</title>
+<title>Metro TV</title>
 </programme>
-<programme start="20260203040500 +0000" stop="20260203043000 +0000" channel="Metro TV.vision">
-<title>Metro Sport</title>
+<programme start="20260203040500 +0000" stop="20260203050000 +0000" channel="Metro TV.vision">
+<title>Metro TV</title>
 </programme>
-<programme start="20260203043000 +0000" stop="20260203050000 +0000" channel="Metro TV.vision">
-<title>Metro Siang</title>
+<programme start="20260203050000 +0000" stop="20260203050500 +0000" channel="Metro TV.vision">
+<title>Metro TV</title>
 </programme>
-<programme start="20260203050000 +0000" stop="20260203053000 +0000" channel="Metro TV.vision">
-<title>Metro Siang</title>
+<programme start="20260203050500 +0000" stop="20260203053000 +0000" channel="Metro TV.vision">
+<title>Metro TV</title>
 </programme>
-<programme start="20260203053000 +0000" stop="20260203060000 +0000" channel="Metro TV.vision">
-<title>Metro Siang</title>
+<programme start="20260203053000 +0000" stop="20260203055000 +0000" channel="Metro TV.vision">
+<title>Metro TV</title>
 </programme>
-<programme start="20260203060000 +0000" stop="20260203063000 +0000" channel="Metro TV.vision">
-<title>Metro Siang</title>
+<programme start="20260203055000 +0000" stop="20260203060000 +0000" channel="Metro TV.vision">
+<title>Metro TV</title>
+</programme>
+<programme start="20260203060000 +0000" stop="20260203060500 +0000" channel="Metro TV.vision">
+<title>Metro TV</title>
+</programme>
+<programme start="20260203060500 +0000" stop="20260203063000 +0000" channel="Metro TV.vision">
+<title>Metro TV</title>
 </programme>
 <programme start="20260203063000 +0000" stop="20260203070000 +0000" channel="Metro TV.vision">
-<title>Prioritas Indonesia</title>
+<title>Metro TV</title>
 </programme>
 <programme start="20260203070000 +0000" stop="20260203070500 +0000" channel="Metro TV.vision">
-<title>Headline News</title>
+<title>Metro TV</title>
 </programme>
 <programme start="20260203070500 +0000" stop="20260203073000 +0000" channel="Metro TV.vision">
-<title>Newsline</title>
+<title>Metro TV</title>
 </programme>
 <programme start="20260203073000 +0000" stop="20260203080000 +0000" channel="Metro TV.vision">
-<title>Newsline</title>
+<title>Metro TV</title>
 </programme>
 <programme start="20260203080000 +0000" stop="20260203080500 +0000" channel="Metro TV.vision">
-<title>Headline News</title>
+<title>Metro TV</title>
 </programme>
-<programme start="20260203080500 +0000" stop="20260203081000 +0000" channel="Metro TV.vision">
-<title>Newsline</title>
+<programme start="20260203080500 +0000" stop="20260203083000 +0000" channel="Metro TV.vision">
+<title>Metro TV</title>
 </programme>
-<programme start="20260203081000 +0000" stop="20260203082000 +0000" channel="Metro TV.vision">
-<title>Newsline</title>
-</programme>
-<programme start="20260203082000 +0000" stop="20260203083000 +0000" channel="Metro TV.vision">
-<title>Newsline</title>
-</programme>
-<programme start="20260203083000 +0000" stop="20260203085000 +0000" channel="Metro TV.vision">
-<title>Newsline</title>
-</programme>
-<programme start="20260203085000 +0000" stop="20260203090000 +0000" channel="Metro TV.vision">
-<title>Newsline</title>
+<programme start="20260203083000 +0000" stop="20260203090000 +0000" channel="Metro TV.vision">
+<title>Metro TV</title>
 </programme>
 <programme start="20260203090000 +0000" stop="20260203090500 +0000" channel="Metro TV.vision">
-<title>Headline News</title>
+<title>Metro TV</title>
 </programme>
 <programme start="20260203090500 +0000" stop="20260203093000 +0000" channel="Metro TV.vision">
-<title>Metro Hari Ini</title>
+<title>Metro TV</title>
 </programme>
 <programme start="20260203093000 +0000" stop="20260203100000 +0000" channel="Metro TV.vision">
-<title>Metro Hari Ini</title>
+<title>Metro TV</title>
 </programme>
-<programme start="20260203100000 +0000" stop="20260203103000 +0000" channel="Metro TV.vision">
-<title>Metro Hari Ini</title>
+<programme start="20260203100000 +0000" stop="20260203100500 +0000" channel="Metro TV.vision">
+<title>Metro TV</title>
 </programme>
-<programme start="20260203103000 +0000" stop="20260203110000 +0000" channel="Metro TV.vision">
-<title>Primetime News</title>
+<programme start="20260203100500 +0000" stop="20260203102000 +0000" channel="Metro TV.vision">
+<title>Metro TV</title>
 </programme>
-<programme start="20260203110000 +0000" stop="20260203113000 +0000" channel="Metro TV.vision">
-<title>Primetime News</title>
+<programme start="20260203102000 +0000" stop="20260203103000 +0000" channel="Metro TV.vision">
+<title>Metro TV</title>
 </programme>
-<programme start="20260203113000 +0000" stop="20260203120000 +0000" channel="Metro TV.vision">
-<title>Primetime News</title>
+<programme start="20260203103000 +0000" stop="20260203104500 +0000" channel="Metro TV.vision">
+<title>Metro TV</title>
+</programme>
+<programme start="20260203104500 +0000" stop="20260203110000 +0000" channel="Metro TV.vision">
+<title>Metro TV</title>
+</programme>
+<programme start="20260203110000 +0000" stop="20260203110500 +0000" channel="Metro TV.vision">
+<title>Metro TV</title>
+</programme>
+<programme start="20260203110500 +0000" stop="20260203113000 +0000" channel="Metro TV.vision">
+<title>Metro TV</title>
+</programme>
+<programme start="20260203113000 +0000" stop="20260203115700 +0000" channel="Metro TV.vision">
+<title>Metro TV</title>
+</programme>
+<programme start="20260203115700 +0000" stop="20260203120000 +0000" channel="Metro TV.vision">
+<title>Metro TV</title>
 </programme>
 <programme start="20260201230300 +0000" stop="20260202003000 +0000" channel="BTV.vision">
 <title>BTV</title>
@@ -1460,41 +1496,5 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260202110000 +0000" stop="20260202130000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260202130000 +0000" stop="20260202150000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260202150000 +0000" stop="20260202170000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260202170000 +0000" stop="20260202190000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260202190000 +0000" stop="20260202210000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260202210000 +0000" stop="20260202230000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260202230000 +0000" stop="20260203010000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260203010000 +0000" stop="20260203030000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260203030000 +0000" stop="20260203050000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260203050000 +0000" stop="20260203070000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260203070000 +0000" stop="20260203090000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260203090000 +0000" stop="20260203110000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260203110000 +0000" stop="20260203130000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
