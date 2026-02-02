@@ -3288,7 +3288,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260202000000 +0000" stop="20260202023000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: LA Lakers @ New York Knicks</title>
 </programme>
-<programme start="20260202023000 +0000" stop="20260202090000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260202023000 +0000" stop="20260202052000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Oklahoma City Thunder @ Denver Nuggets</title>
 </programme>
 <programme start="20260201230000 +0000" stop="20260202070000 +0000" channel="Sky Sport 2 HD.skyde">
