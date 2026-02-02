@@ -112,6 +112,48 @@
 <programme start="20260202160000 +0000" stop="20260202170000 +0000" channel="MNCTV.vision">
 <title>Dunia Maya</title>
 </programme>
+<programme start="20260202170000 +0000" stop="20260202190000 +0000" channel="MNCTV.vision">
+<title>MNC TV</title>
+</programme>
+<programme start="20260202190000 +0000" stop="20260202220000 +0000" channel="MNCTV.vision">
+<title>MNC TV</title>
+</programme>
+<programme start="20260202220000 +0000" stop="20260202230000 +0000" channel="MNCTV.vision">
+<title>MNC TV</title>
+</programme>
+<programme start="20260202230000 +0000" stop="20260202231500 +0000" channel="MNCTV.vision">
+<title>MNC TV</title>
+</programme>
+<programme start="20260202231500 +0000" stop="20260203004500 +0000" channel="MNCTV.vision">
+<title>MNC TV</title>
+</programme>
+<programme start="20260203004500 +0000" stop="20260203013000 +0000" channel="MNCTV.vision">
+<title>MNC TV</title>
+</programme>
+<programme start="20260203013000 +0000" stop="20260203031500 +0000" channel="MNCTV.vision">
+<title>MNC TV</title>
+</programme>
+<programme start="20260203031500 +0000" stop="20260203040000 +0000" channel="MNCTV.vision">
+<title>MNC TV</title>
+</programme>
+<programme start="20260203040000 +0000" stop="20260203043000 +0000" channel="MNCTV.vision">
+<title>MNC TV</title>
+</programme>
+<programme start="20260203043000 +0000" stop="20260203053000 +0000" channel="MNCTV.vision">
+<title>MNC TV</title>
+</programme>
+<programme start="20260203053000 +0000" stop="20260203073000 +0000" channel="MNCTV.vision">
+<title>MNC TV</title>
+</programme>
+<programme start="20260203073000 +0000" stop="20260203100000 +0000" channel="MNCTV.vision">
+<title>MNC TV</title>
+</programme>
+<programme start="20260203100000 +0000" stop="20260203110000 +0000" channel="MNCTV.vision">
+<title>MNC TV</title>
+</programme>
+<programme start="20260203110000 +0000" stop="20260203120000 +0000" channel="MNCTV.vision">
+<title>MNC TV</title>
+</programme>
 <programme start="20260202000000 +0000" stop="20260202010000 +0000" channel="GTV.vision">
 <title>Obrolan Seputar Selebriti (GTV)</title>
 </programme>
