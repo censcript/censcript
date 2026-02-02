@@ -3291,8 +3291,8 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260202023000 +0000" stop="20260202090000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Oklahoma City Thunder @ Denver Nuggets</title>
 </programme>
-<programme start="20260202064000 +0000" stop="20260202070000 +0000" channel="Sky Sport 2 HD.skyde">
-    <title>Es folgt: Live Tennis WTA Tour</title>
+<programme start="20260201230000 +0000" stop="20260202070000 +0000" channel="Sky Sport 2 HD.skyde">
+    <title>Es folgt: ab 08:00: LIVE Tennis WTA Tour</title>
 </programme>
 <programme start="20260202070000 +0000" stop="20260202190000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live WTA 500: Mubadala Abu Dhabi Open in Abu Dhabi (VAE), 2. Tag</title>

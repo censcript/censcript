@@ -419,8 +419,8 @@
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20260203023000 +0700" stop="20260203050000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>Tennis: Roberto Bautista Agut - Christopher O&#039;Connell</title>
-    <desc>Live: Tidak</desc>
+    <title>Tennis: Roberto Bautista Agut - Christopher O&#039;Connell (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260203050000 +0700" stop="20260203053000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>

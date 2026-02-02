@@ -1836,7 +1836,7 @@
   </programme>
   <programme start="20260202093000 +0000" stop="20260202100000 +0000" channel="tv9.unifitv">
     <title lang="en">THE SMURFS (SS2)</title>
-    <desc lang="en">Dreamer menjadi pakar dalam cinta, dia menggunakan semua klise hebat novel percintaan untuk menyatukan Papa Smurf dan Willow. Smurf menemui nota daripada Gargamel yang meminta ibunya datang merawatnya kerana dia sangat sakit.</desc>
+    <desc lang="en">Dreamer menjadi pakar dalam cinta, dia menggunakan semua klise hebat novel percintaan untuk menyatukan Papa Smurf dan Willow.  Smurf menemui nota daripada Gargamel yang meminta ibunya datang merawatnya kerana dia sangat sakit.</desc>
     <category lang="en">Entertainment</category>
     <episode-num system="xmltv_ns">0.102.</episode-num>
     <episode-num system="onscreen">S1E103</episode-num>
@@ -3365,7 +3365,7 @@
   <programme start="20260201230500 +0000" stop="20260202000500 +0000" channel="tvbjade.unifitv">
     <title lang="en">Good Morning Hong Kong and Global View</title>
     <desc lang="en">Report important news about Hong Kong, cross-strait, and international affairs.</desc>
-    <category lang="en">News</category>
+    <category lang="en">News </category>
   </programme>
   <programme start="20260202000500 +0000" stop="20260202010500 +0000" channel="tvbjade.unifitv">
     <title lang="en">Wudang Rules</title>
@@ -3489,7 +3489,7 @@
   <programme start="20260202103500 +0000" stop="20260202110500 +0000" channel="tvbjade.unifitv">
     <title lang="en">News At 18:30</title>
     <desc lang="en">Jade Channel reports important local, cross-strait, and international news every afternoon at 6:30.</desc>
-    <category lang="en">News</category>
+    <category lang="en">News </category>
   </programme>
   <programme start="20260202110500 +0000" stop="20260202114000 +0000" channel="tvbjade.unifitv">
     <title lang="en">Gourmet Express &amp; What's On Today</title>
@@ -3543,12 +3543,12 @@
   <programme start="20260202152000 +0000" stop="20260202155500 +0000" channel="tvbjade.unifitv">
     <title lang="en">News Roundup</title>
     <desc lang="en">Reporting major news from Hong Kong, across the Taiwan Strait, and around the world, as well as sports updates, keeping you informed about important events and trends in the world of sports.</desc>
-    <category lang="en">News</category>
+    <category lang="en">News </category>
   </programme>
   <programme start="20260202155500 +0000" stop="20260202160500 +0000" channel="tvbjade.unifitv">
     <title lang="en">Global View</title>
     <desc lang="en">" Global View," curated by seasoned journalists, guides you to view the world with a global perspective—broadening your horizons, expanding your understanding of the news, and enriching your knowledge.</desc>
-    <category lang="en">News</category>
+    <category lang="en">News </category>
   </programme>
   <channel id="unknown.unifitv">
     <display-name>TVB Xing He</display-name>
@@ -4045,7 +4045,7 @@
   <programme start="20260201163300 +0000" stop="20260201170300 +0000" channel="phoenixhongkong.unifitv">
     <title lang="en">YILING NEWS TALK</title>
     <desc lang="en">YILING NEWS TALK</desc>
-    <category lang="en">News</category>
+    <category lang="en">News </category>
     <episode-num system="xmltv_ns">0.20260201.</episode-num>
     <episode-num system="onscreen">S1E20260202</episode-num>
   </programme>
@@ -4094,14 +4094,14 @@
   <programme start="20260201213300 +0000" stop="20260201220300 +0000" channel="phoenixhongkong.unifitv">
     <title lang="en">YILING NEWS TALK</title>
     <desc lang="en">YILING NEWS TALK</desc>
-    <category lang="en">News</category>
+    <category lang="en">News </category>
     <episode-num system="xmltv_ns">0.20260201.</episode-num>
     <episode-num system="onscreen">S1E20260202</episode-num>
   </programme>
   <programme start="20260201220300 +0000" stop="20260201223300 +0000" channel="phoenixhongkong.unifitv">
     <title lang="en">THE TRIO TALK</title>
     <desc lang="en">Phoenix TV launches a new Cantonese current affairs talk show where three top experts dissect hot issues with sharp analysis, lively debate and witty, fast-paced exchanges.</desc>
-    <category lang="en">Politics</category>
+    <category lang="en">Politics </category>
     <episode-num system="xmltv_ns">0.20260201.</episode-num>
     <episode-num system="onscreen">S1E20260202</episode-num>
   </programme>
@@ -4227,7 +4227,7 @@
   <programme start="20260202093300 +0000" stop="20260202100300 +0000" channel="phoenixhongkong.unifitv">
     <title lang="en">THE TRIO TALK</title>
     <desc lang="en">Phoenix TV launches a new Cantonese current affairs talk show where three top experts dissect hot issues with sharp analysis, lively debate and witty, fast-paced exchanges.</desc>
-    <category lang="en">Politics</category>
+    <category lang="en">Politics </category>
     <episode-num system="xmltv_ns">0.20260201.</episode-num>
     <episode-num system="onscreen">S1E20260202</episode-num>
   </programme>
@@ -4248,7 +4248,7 @@
   <programme start="20260202103300 +0000" stop="20260202110300 +0000" channel="phoenixhongkong.unifitv">
     <title lang="en">YILING NEWS TALK</title>
     <desc lang="en">YILING NEWS TALK</desc>
-    <category lang="en">News</category>
+    <category lang="en">News </category>
     <episode-num system="xmltv_ns">0.20260201.</episode-num>
     <episode-num system="onscreen">S1E20260202</episode-num>
   </programme>
@@ -4283,7 +4283,7 @@
   <programme start="20260202123300 +0000" stop="20260202130300 +0000" channel="phoenixhongkong.unifitv">
     <title lang="en">PERFECT PAIRINGS</title>
     <desc lang="en">In "Perfect Pairings," self-taught chef Yang Yinghui explores and analyzes 13 flavors. Each episode focuses on only one flavor, revealing the science and hidden stories behind our favorite ingredient and flavor pairings.</desc>
-    <category lang="en">Travel</category>
+    <category lang="en">Travel </category>
     <episode-num system="xmltv_ns">0.20260201.</episode-num>
     <episode-num system="onscreen">S1E20260202</episode-num>
   </programme>
@@ -4304,7 +4304,7 @@
   <programme start="20260202140300 +0000" stop="20260202143300 +0000" channel="phoenixhongkong.unifitv">
     <title lang="en">PHOENIX NIGHTLINE</title>
     <desc lang="en">PHOENIX NIGHTLINE</desc>
-    <category lang="en">News</category>
+    <category lang="en">News </category>
     <episode-num system="xmltv_ns">0.20260201.</episode-num>
     <episode-num system="onscreen">S1E20260202</episode-num>
   </programme>
@@ -4468,7 +4468,7 @@
   <programme start="20260202090500 +0000" stop="20260202100500 +0000" channel="seti.unifitv">
     <title lang="en">Stylish Man-The Chef</title>
     <desc lang="en">Stylish Man The Chef is co-hosted by the Golden Bell Awards winner Sam Tseng and Genie Chuo, together with professional chef, James. There are two main themes for the program, which are Big Stars Come to Cook and Five-Star Cooking Show. Stylish Man The Chef containing not only the bomb of laughter, but the audience can also gain practical cooking knowledge throughout the program.</desc>
-    <category lang="en">Cooking</category>
+    <category lang="en">Cooking </category>
     <episode-num system="xmltv_ns">0.3559.</episode-num>
     <episode-num system="onscreen">S1E3560</episode-num>
   </programme>
@@ -4503,7 +4503,7 @@
   <programme start="20260202150500 +0000" stop="20260202160500 +0000" channel="seti.unifitv">
     <title lang="en">Stylish Man-The Chef</title>
     <desc lang="en">Stylish Man The Chef is co-hosted by the Golden Bell Awards winner Sam Tseng and Genie Chuo, together with professional chef, James. There are two main themes for the program, which are Big Stars Come to Cook and Five-Star Cooking Show. Stylish Man The Chef containing not only the bomb of laughter, but the audience can also gain practical cooking knowledge throughout the program.</desc>
-    <category lang="en">Cooking</category>
+    <category lang="en">Cooking </category>
     <episode-num system="xmltv_ns">0.4150.</episode-num>
     <episode-num system="onscreen">S1E4151</episode-num>
   </programme>
@@ -9982,14 +9982,14 @@
   </programme>
   <programme start="20260201163500 +0000" stop="20260201165500 +0000" channel="nickjr.unifitv">
     <title lang="en">DORA</title>
-    <desc lang="en">Dora and Boots have to wake up the Big Red Chicken before he floats over a waterfall! Dora and friends must solve a series of questions and challenges to open a mysterious gift.</desc>
+    <desc lang="en">Dora and Boots have to wake up the Big Red Chicken before he floats over a waterfall!  Dora and friends must solve a series of questions and challenges to open a mysterious gift.</desc>
     <category lang="en">Kids</category>
     <episode-num system="xmltv_ns">0.103.</episode-num>
     <episode-num system="onscreen">S1E104</episode-num>
   </programme>
   <programme start="20260201165500 +0000" stop="20260201172000 +0000" channel="nickjr.unifitv">
     <title lang="en">BARBAPAPA - One Big Happy Family!</title>
-    <desc lang="en">Barbapapa and Lolita spotted a flying saucer approaching their house. The Barbapapa have taken off aboard Bababam in the hope of discovering the planet of Baby Big Feet.</desc>
+    <desc lang="en">Barbapapa and Lolita spotted a flying saucer approaching their house.  The Barbapapa have taken off aboard Bababam in the hope of discovering the planet of Baby Big Feet.</desc>
     <category lang="en">Kids</category>
     <episode-num system="xmltv_ns">1.214.</episode-num>
     <episode-num system="onscreen">S2E215</episode-num>
@@ -10073,7 +10073,7 @@
   </programme>
   <programme start="20260201183000 +0000" stop="20260201185000 +0000" channel="nickjr.unifitv">
     <title lang="en">BARBAPAPA - One Big Happy Family!</title>
-    <desc lang="en">Chemical sprays are making the countryside rosy! The Barbapapas' build an aviary to protect sick birds. When they see a beach covered with rubbish, the Barbapapa family decides to clean the beach and...</desc>
+    <desc lang="en">Chemical sprays are making the countryside rosy! The Barbapapas' build an aviary to protect sick birds.  When they see a beach covered with rubbish, the Barbapapa family decides to clean the beach and...</desc>
     <category lang="en">Kids</category>
     <episode-num system="xmltv_ns">0.114.</episode-num>
     <episode-num system="onscreen">S1E115</episode-num>
@@ -10094,7 +10094,7 @@
   </programme>
   <programme start="20260201192500 +0000" stop="20260201194500 +0000" channel="nickjr.unifitv">
     <title lang="en">PAW Patrol</title>
-    <desc lang="en">When Mayor Humdinger tricks Katie into watching his kitties, an alarm is set off and the Paw Patrol must rescue them. Mayor Humdinger swipes one of Ryder's early inventions - an aircraft and must be...</desc>
+    <desc lang="en">When Mayor Humdinger tricks Katie into watching his kitties, an alarm is set off and the Paw Patrol must rescue them.  Mayor Humdinger swipes one of Ryder's early inventions - an aircraft and must be...</desc>
     <category lang="en">Kids</category>
     <episode-num system="xmltv_ns">8.916.</episode-num>
     <episode-num system="onscreen">S9E917</episode-num>
@@ -10115,63 +10115,63 @@
   </programme>
   <programme start="20260201202000 +0000" stop="20260201204500 +0000" channel="nickjr.unifitv">
     <title lang="en">Rubble &amp; Crew</title>
-    <desc lang="en">A new Super Squirrely Whirly movie is playing at the drive-in theater! But when Speed Meister gets in the way, the pups spring into action to save the day. It's Auntie Day! But can the pups finish...</desc>
+    <desc lang="en">A new Super Squirrely Whirly movie is playing at the drive-in theater! But when Speed Meister gets in the way, the pups spring into action to save the day.  It's Auntie Day! But can the pups finish...</desc>
     <category lang="en">Kids</category>
     <episode-num system="xmltv_ns">2.303.</episode-num>
     <episode-num system="onscreen">S3E304</episode-num>
   </programme>
   <programme start="20260201204500 +0000" stop="20260201210500 +0000" channel="nickjr.unifitv">
     <title lang="en">DORA</title>
-    <desc lang="en">Dora and Boots run into Swiper and his nephew Zorrito! They must make it home before Swiper and Zorrito can swipe their teddy bear. Dora meets Boots' cousin, Sombrera, and they journey across the...</desc>
+    <desc lang="en">Dora and Boots run into Swiper and his nephew Zorrito! They must make it home before Swiper and Zorrito can swipe their teddy bear.  Dora meets Boots' cousin, Sombrera, and they journey across the...</desc>
     <category lang="en">Kids</category>
     <episode-num system="xmltv_ns">3.412.</episode-num>
     <episode-num system="onscreen">S4E413</episode-num>
   </programme>
   <programme start="20260201210500 +0000" stop="20260201212500 +0000" channel="nickjr.unifitv">
     <title lang="en">DORA</title>
-    <desc lang="en">Abuela shows Dora her photo album of birds, with one page blank: the Quickatoo. Dora vows to find the Quickatoo and get a picture to complete the album. Dora and Boots help a baby parrot named Lorito...</desc>
+    <desc lang="en">Abuela shows Dora her photo album of birds, with one page blank: the Quickatoo. Dora vows to find the Quickatoo and get a picture to complete the album.  Dora and Boots help a baby parrot named Lorito...</desc>
     <category lang="en">Kids</category>
     <episode-num system="xmltv_ns">0.100.</episode-num>
     <episode-num system="onscreen">S1E101</episode-num>
   </programme>
   <programme start="20260201212500 +0000" stop="20260201215000 +0000" channel="nickjr.unifitv">
     <title lang="en">BARBAPAPA - One Big Happy Family!</title>
-    <desc lang="en">Barbabright captured a melody from Mars. The Barbapapas build a rocket to go to the red planet. While travelling to Mars, the Barbapapas meet a family of Barbamartians. They have no time to get...</desc>
+    <desc lang="en">Barbabright captured a melody from Mars. The Barbapapas build a rocket to go to the red planet.  While travelling to Mars, the Barbapapas meet a family of Barbamartians. They have no time to get...</desc>
     <category lang="en">Kids</category>
     <episode-num system="xmltv_ns">0.101.</episode-num>
     <episode-num system="onscreen">S1E102</episode-num>
   </programme>
   <programme start="20260201215000 +0000" stop="20260201221000 +0000" channel="nickjr.unifitv">
     <title lang="en">BARBAPAPA - One Big Happy Family!</title>
-    <desc lang="en">The barbababies find a lost baby elephant and secretly look after it. How will Barbapapa and Barbamama react to Boris? Boris the elephant misses home. The Barbapapa decide to bring him back to...</desc>
+    <desc lang="en">The barbababies find a lost baby elephant and secretly look after it. How will Barbapapa and Barbamama react to Boris?  Boris the elephant misses home. The Barbapapa decide to bring him back to...</desc>
     <category lang="en">Kids</category>
     <episode-num system="xmltv_ns">0.102.</episode-num>
     <episode-num system="onscreen">S1E103</episode-num>
   </programme>
   <programme start="20260201221000 +0000" stop="20260201223500 +0000" channel="nickjr.unifitv">
     <title lang="en">BARBAPAPA - One Big Happy Family!</title>
-    <desc lang="en">Barbapapa wants to teach his children to make bread, but things don't go as planned... The Barbababies plant an avocado tree. However, it takes years before the first harvest. Barbabright has an idea...</desc>
+    <desc lang="en">Barbapapa wants to teach his children to make bread, but things don't go as planned...  The Barbababies plant an avocado tree. However, it takes years before the first harvest. Barbabright has an idea...</desc>
     <category lang="en">Kids</category>
     <episode-num system="xmltv_ns">0.103.</episode-num>
     <episode-num system="onscreen">S1E104</episode-num>
   </programme>
   <programme start="20260201223500 +0000" stop="20260201225500 +0000" channel="nickjr.unifitv">
     <title lang="en">BARBAPAPA - One Big Happy Family!</title>
-    <desc lang="en">While the family makes pottery, Barbabravo and Barbabright try to set the world record for the largest cheese soufflé. The Barbapapas decide to go to the park. While her brother and sisters play ,...</desc>
+    <desc lang="en">While the family makes pottery, Barbabravo and Barbabright try to set the world record for the largest cheese soufflé.  The Barbapapas decide to go to the park. While her brother and sisters play ,...</desc>
     <category lang="en">Kids</category>
     <episode-num system="xmltv_ns">0.104.</episode-num>
     <episode-num system="onscreen">S1E105</episode-num>
   </programme>
   <programme start="20260201225500 +0000" stop="20260201232000 +0000" channel="nickjr.unifitv">
     <title lang="en">BARBAPAPA - One Big Happy Family!</title>
-    <desc lang="en">Taking after his favourite detective, Barbabravo looks for a case to solve. Can he solve the mystery of the missing ice statue? Inspired by their favourite heroes, the Barbababies make costumes. But...</desc>
+    <desc lang="en">Taking after his favourite detective, Barbabravo looks for a case to solve. Can he solve the mystery of the missing ice statue?  Inspired by their favourite heroes, the Barbababies make costumes. But...</desc>
     <category lang="en">Kids</category>
     <episode-num system="xmltv_ns">0.105.</episode-num>
     <episode-num system="onscreen">S1E106</episode-num>
   </programme>
   <programme start="20260201232000 +0000" stop="20260201234000 +0000" channel="nickjr.unifitv">
     <title lang="en">Rubble &amp; Crew</title>
-    <desc lang="en">Rubble &amp; Crew help River take lots of pictures for the big photo contest by building a super-fast way to get around Bulider Cove. Rubble and the pups help Cafe Carl make enough ice cream for...</desc>
+    <desc lang="en">Rubble &amp; Crew help River take lots of pictures for the big photo contest by building a super-fast way to get around Bulider Cove.  Rubble and the pups help Cafe Carl make enough ice cream for...</desc>
     <category lang="en">Kids</category>
     <episode-num system="xmltv_ns">2.304.</episode-num>
     <episode-num system="onscreen">S3E305</episode-num>
@@ -10185,28 +10185,28 @@
   </programme>
   <programme start="20260202000500 +0000" stop="20260202002500 +0000" channel="nickjr.unifitv">
     <title lang="en">PAW Patrol</title>
-    <desc lang="en">Francois &amp; Cap'n Turbot become stranded on a remote island,Ryder and the pups fly in to find and rescue the cousins. It's a double daring mid air rescue as Mayor Goodway's first flying lesson goes...</desc>
+    <desc lang="en">Francois &amp; Cap'n Turbot become stranded on a remote island,Ryder and the pups fly in to find and rescue the cousins.  It's a double daring mid air rescue as Mayor Goodway's first flying lesson goes...</desc>
     <category lang="en">Kids</category>
     <episode-num system="xmltv_ns">2.322.</episode-num>
     <episode-num system="onscreen">S3E323</episode-num>
   </programme>
   <programme start="20260202002500 +0000" stop="20260202005000 +0000" channel="nickjr.unifitv">
     <title lang="en">PAW Patrol</title>
-    <desc lang="en">Buddy - Mayor Goodway's gesture of goodwill gift grows wildly out of control when it's planted in the wrong place. Time for a transplant! Metal mayhem ensues when Marshall's Fire Truck becomes...</desc>
+    <desc lang="en">Buddy - Mayor Goodway's gesture of goodwill gift grows wildly out of control when it's planted in the wrong place. Time for a transplant!  Metal mayhem ensues when Marshall's Fire Truck becomes...</desc>
     <category lang="en">Kids</category>
     <episode-num system="xmltv_ns">2.323.</episode-num>
     <episode-num system="onscreen">S3E324</episode-num>
   </programme>
   <programme start="20260202005000 +0000" stop="20260202011000 +0000" channel="nickjr.unifitv">
     <title lang="en">BARBAPAPA - One Big Happy Family!</title>
-    <desc lang="en">Barbazoo have plenty of things to write about in his diary! After reading the biography of Nellie Bly, Barbalib is determined to become a Great Reporter!</desc>
+    <desc lang="en">Barbazoo have plenty of things to write about in his diary!  After reading the biography of Nellie Bly, Barbalib is determined to become a Great Reporter!</desc>
     <category lang="en">Kids</category>
     <episode-num system="xmltv_ns">1.209.</episode-num>
     <episode-num system="onscreen">S2E210</episode-num>
   </programme>
   <programme start="20260202011000 +0000" stop="20260202013500 +0000" channel="nickjr.unifitv">
     <title lang="en">BARBAPAPA - One Big Happy Family!</title>
-    <desc lang="en">Barbabeau, Barbabelle, and Barbabright have built a treehouse. Barbamama is determined to stop a foul pollution.</desc>
+    <desc lang="en">Barbabeau, Barbabelle, and Barbabright have built a treehouse.  Barbamama is determined to stop a foul pollution.</desc>
     <category lang="en">Kids</category>
     <episode-num system="xmltv_ns">1.210.</episode-num>
     <episode-num system="onscreen">S2E211</episode-num>
@@ -10234,7 +10234,7 @@
   </programme>
   <programme start="20260202015500 +0000" stop="20260202022000 +0000" channel="nickjr.unifitv">
     <title lang="en">Rubble &amp; Crew</title>
-    <desc lang="en">Rubble &amp; Crew work together to transform Builder Cove's beach boardwalk into a bright, festive winter wonderland. When a snow day gets in the way of Motor &amp; Mix's Super Squirrely Whirly plans, Rubble...</desc>
+    <desc lang="en">Rubble &amp; Crew work together to transform Builder Cove's beach boardwalk into a bright, festive winter wonderland.  When a snow day gets in the way of Motor &amp; Mix's Super Squirrely Whirly plans, Rubble...</desc>
     <category lang="en">Kids</category>
     <episode-num system="xmltv_ns">1.220.</episode-num>
     <episode-num system="onscreen">S2E221</episode-num>
@@ -10248,7 +10248,7 @@
   </programme>
   <programme start="20260202024500 +0000" stop="20260202030500 +0000" channel="nickjr.unifitv">
     <title lang="en">DORA</title>
-    <desc lang="en">Boots gets a Guayabera shirt as a gift for Tico, but becomes attached to it on the way to Tico's house. Dora, Boots, and Papi want to see the Quetzal constellation dance across the sky, but it loses...</desc>
+    <desc lang="en">Boots gets a Guayabera shirt as a gift for Tico, but becomes attached to it on the way to Tico's house.  Dora, Boots, and Papi want to see the Quetzal constellation dance across the sky, but it loses...</desc>
     <category lang="en">Kids</category>
     <episode-num system="xmltv_ns">0.111.</episode-num>
     <episode-num system="onscreen">S1E112</episode-num>
@@ -10269,21 +10269,21 @@
   </programme>
   <programme start="20260202035000 +0000" stop="20260202041500 +0000" channel="nickjr.unifitv">
     <title lang="en">BARBAPAPA - One Big Happy Family!</title>
-    <desc lang="en">The twins visit Barbabright's room. If I were a billionaire, what would I do to achieve my dreams?</desc>
+    <desc lang="en">The twins visit Barbabright's room.  If I were a billionaire, what would I do to achieve my dreams?</desc>
     <category lang="en">Kids</category>
     <episode-num system="xmltv_ns">1.212.</episode-num>
     <episode-num system="onscreen">S2E213</episode-num>
   </programme>
   <programme start="20260202041500 +0000" stop="20260202043500 +0000" channel="nickjr.unifitv">
     <title lang="en">BARBAPAPA - One Big Happy Family!</title>
-    <desc lang="en">On a trip to Paris, the Barbapapa family will discover the most incredible museum: the Louvre! Barbalala has decided to respect all the rules of the day of opposites.</desc>
+    <desc lang="en">On a trip to Paris, the Barbapapa family will discover the most incredible museum: the Louvre!  Barbalala has decided to respect all the rules of the day of opposites.</desc>
     <category lang="en">Kids</category>
     <episode-num system="xmltv_ns">1.213.</episode-num>
     <episode-num system="onscreen">S2E214</episode-num>
   </programme>
   <programme start="20260202043500 +0000" stop="20260202050000 +0000" channel="nickjr.unifitv">
     <title lang="en">Tim Rex in Space</title>
-    <desc lang="en">Tim does all he can to get the new DinoStar toy. It's a day for practical jokes, but Tim doesn't know when to stop. Tim and Dad have to catch a troublesome mole.</desc>
+    <desc lang="en">Tim does all he can to get the new DinoStar toy.  It's a day for practical jokes, but Tim doesn't know when to stop.  Tim and Dad have to catch a troublesome mole.</desc>
     <category lang="en">Kids</category>
     <episode-num system="xmltv_ns">0.108.</episode-num>
     <episode-num system="onscreen">S1E109</episode-num>
@@ -10304,7 +10304,7 @@
   </programme>
   <programme start="20260202054500 +0000" stop="20260202060500 +0000" channel="nickjr.unifitv">
     <title lang="en">Rubble &amp; Crew</title>
-    <desc lang="en">Rubble &amp; Crew want to give Grocer Gabriel the best beach day ever... including a ride on a brand new Ferris wheel at the boardwalk! When Farmer Zoe's animals need some relaxation, the pups build a...</desc>
+    <desc lang="en">Rubble &amp; Crew want to give Grocer Gabriel the best beach day ever... including a ride on a brand new Ferris wheel at the boardwalk!  When Farmer Zoe's animals need some relaxation, the pups build a...</desc>
     <category lang="en">Kids</category>
     <episode-num system="xmltv_ns">1.208.</episode-num>
     <episode-num system="onscreen">S2E209</episode-num>
@@ -10332,7 +10332,7 @@
   </programme>
   <programme start="20260202065000 +0000" stop="20260202071500 +0000" channel="nickjr.unifitv">
     <title lang="en">PAW Patrol</title>
-    <desc lang="en">Humdinger tries to swipe the florist's Easter decorations and winds up on a runaway wagon with Mayor Goodway. Mysterious Alien Easter Eggs cause trouble in Adventure Bay, the Paw Patrol and their...</desc>
+    <desc lang="en">Humdinger tries to swipe the florist's Easter decorations and winds up on a runaway wagon with Mayor Goodway.  Mysterious Alien Easter Eggs cause trouble in Adventure Bay, the Paw Patrol and their...</desc>
     <category lang="en">Kids</category>
     <episode-num system="xmltv_ns">10.1119.</episode-num>
     <episode-num system="onscreen">S11E1120</episode-num>
@@ -10437,14 +10437,14 @@
   </programme>
   <programme start="20260202085500 +0000" stop="20260202091500 +0000" channel="nickjr.unifitv">
     <title lang="en">BARBAPAPA - One Big Happy Family!</title>
-    <desc lang="en">The Barbabies win a touchpad. They all want to use it and snaffle it one after another. Barbazoo collects photos of moustached celebrities. Unfortunately, it's impossible to find the last one:...</desc>
+    <desc lang="en">The Barbabies win a touchpad. They all want to use it and snaffle it one after another.  Barbazoo collects photos of moustached celebrities. Unfortunately, it's impossible to find the last one:...</desc>
     <category lang="en">Kids</category>
     <episode-num system="xmltv_ns">0.107.</episode-num>
     <episode-num system="onscreen">S1E108</episode-num>
   </programme>
   <programme start="20260202091500 +0000" stop="20260202094000 +0000" channel="nickjr.unifitv">
     <title lang="en">BARBAPAPA - One Big Happy Family!</title>
-    <desc lang="en">Barbabeau forgot to return his book to the library. As Mr Strict the librarian is visiting Barbapapa today, Barbabeau decides to run away. Barbamama wants the barbababies to tidy their bedrooms....</desc>
+    <desc lang="en">Barbabeau forgot to return his book to the library. As Mr Strict the librarian is visiting Barbapapa today, Barbabeau decides to run away.  Barbamama wants the barbababies to tidy their bedrooms....</desc>
     <category lang="en">Kids</category>
     <episode-num system="xmltv_ns">0.108.</episode-num>
     <episode-num system="onscreen">S1E109</episode-num>
@@ -10486,14 +10486,14 @@
   </programme>
   <programme start="20260202104500 +0000" stop="20260202111000 +0000" channel="nickjr.unifitv">
     <title lang="en">Rubble &amp; Crew</title>
-    <desc lang="en">When Grocer Gabriel and Sierra Sparkle both need construction help before Banana Day, Rubble &amp; Crew has their paws full. Speed Meister shines his face in the sky with the lighthouse! But when a ship...</desc>
+    <desc lang="en">When Grocer Gabriel and Sierra Sparkle both need construction help before Banana Day, Rubble &amp; Crew has their paws full.  Speed Meister shines his face in the sky with the lighthouse! But when a ship...</desc>
     <category lang="en">Kids</category>
     <episode-num system="xmltv_ns">1.224.</episode-num>
     <episode-num system="onscreen">S2E225</episode-num>
   </programme>
   <programme start="20260202111000 +0000" stop="20260202113000 +0000" channel="nickjr.unifitv">
     <title lang="en">Rubble &amp; Crew</title>
-    <desc lang="en">When Speed Meister steals Rubble &amp; Crew's bus, the pups have to stop it in time for Sierra Sparkle's big concert! It's the perfect beach day in Builder Cove! If Rubble &amp; Crew can build a lifeguard...</desc>
+    <desc lang="en">When Speed Meister steals Rubble &amp; Crew's bus, the pups have to stop it in time for Sierra Sparkle's big concert!  It's the perfect beach day in Builder Cove! If Rubble &amp; Crew can build a lifeguard...</desc>
     <category lang="en">Kids</category>
     <episode-num system="xmltv_ns">1.225.</episode-num>
     <episode-num system="onscreen">S2E226</episode-num>
@@ -10514,14 +10514,14 @@
   </programme>
   <programme start="20260202115500 +0000" stop="20260202121500 +0000" channel="nickjr.unifitv">
     <title lang="en">PAW Patrol</title>
-    <desc lang="en">Sid Swashbuckle pretends to be a legendary ghost so that he can take Danny's new skateboard. Ryder and the Pups race to save Mayor Goodway's Glow-in-the-Dark Party guests when a frightened Alien Boy...</desc>
+    <desc lang="en">Sid Swashbuckle pretends to be a legendary ghost so that he can take Danny's new skateboard.  Ryder and the Pups race to save Mayor Goodway's Glow-in-the-Dark Party guests when a frightened Alien Boy...</desc>
     <category lang="en">Kids</category>
     <episode-num system="xmltv_ns">7.813.</episode-num>
     <episode-num system="onscreen">S8E814</episode-num>
   </programme>
   <programme start="20260202121500 +0000" stop="20260202124000 +0000" channel="nickjr.unifitv">
     <title lang="en">BARBAPAPA - One Big Happy Family!</title>
-    <desc lang="en">Barbapapa finds refuge in the house that François' parents built for him. The house of Barbapapa is far too small now that Barbamama and the Barbabébé have arrived in his life.</desc>
+    <desc lang="en">Barbapapa finds refuge in the house that François' parents built for him.  The house of Barbapapa is far too small now that Barbamama and the Barbabébé have arrived in his life.</desc>
     <category lang="en">Kids</category>
     <episode-num system="xmltv_ns">1.206.</episode-num>
     <episode-num system="onscreen">S2E207</episode-num>
@@ -10535,28 +10535,28 @@
   </programme>
   <programme start="20260202130000 +0000" stop="20260202132500 +0000" channel="nickjr.unifitv">
     <title lang="en">Tim Rex in Space</title>
-    <desc lang="en">Tommy is in a Rocket Race, Tim supports his brother. Tim distracts Tia when Tusky is in the washing machine. The kids become the parents and the parents become the kids.</desc>
+    <desc lang="en">Tommy is in a Rocket Race, Tim supports his brother.  Tim distracts Tia when Tusky is in the washing machine.  The kids become the parents and the parents become the kids.</desc>
     <category lang="en">Kids</category>
     <episode-num system="xmltv_ns">0.102.</episode-num>
     <episode-num system="onscreen">S1E103</episode-num>
   </programme>
   <programme start="20260202132500 +0000" stop="20260202135000 +0000" channel="nickjr.unifitv">
     <title lang="en">Tim Rex in Space</title>
-    <desc lang="en">Tim tries out some new rocket boots which soon fly out of control. Tim, Tommy and Tia bird-sit the Bronte's MoonParrot. Tim, Tommy and Tia take on their parents at Tailball.</desc>
+    <desc lang="en">Tim tries out some new rocket boots which soon fly out of control.  Tim, Tommy and Tia bird-sit the Bronte's MoonParrot.  Tim, Tommy and Tia take on their parents at Tailball.</desc>
     <category lang="en">Kids</category>
     <episode-num system="xmltv_ns">0.103.</episode-num>
     <episode-num system="onscreen">S1E104</episode-num>
   </programme>
   <programme start="20260202135000 +0000" stop="20260202141000 +0000" channel="nickjr.unifitv">
     <title lang="en">DORA</title>
-    <desc lang="en">Isa's throwing a party where everyone will be dancing the Rainforest Ritmo. Boots has to learn the dance before they get there! Dora leads everyone into the Tricky Trappy Forest to recover Tico's...</desc>
+    <desc lang="en">Isa's throwing a party where everyone will be dancing the Rainforest Ritmo. Boots has to learn the dance before they get there!  Dora leads everyone into the Tricky Trappy Forest to recover Tico's...</desc>
     <category lang="en">Kids</category>
     <episode-num system="xmltv_ns">0.106.</episode-num>
     <episode-num system="onscreen">S1E107</episode-num>
   </programme>
   <programme start="20260202141000 +0000" stop="20260202143000 +0000" channel="nickjr.unifitv">
     <title lang="en">DORA</title>
-    <desc lang="en">Dora shows the twins a music box with a baila folklorico dancer who comes to life! Bailarina's adelita boots run away, so we need to get them back. The sun won't set because it can't fall asleep!...</desc>
+    <desc lang="en">Dora shows the twins a music box with a baila folklorico dancer who comes to life! Bailarina's adelita boots run away, so we need to get them back.  The sun won't set because it can't fall asleep!...</desc>
     <category lang="en">Kids</category>
     <episode-num system="xmltv_ns">0.107.</episode-num>
     <episode-num system="onscreen">S1E108</episode-num>
@@ -11787,7 +11787,7 @@
   </channel>
   <programme start="20260201154300 +0000" stop="20260201160300 +0000" channel="nickelodeon.unifitv">
     <title lang="en">Wylde Pak</title>
-    <desc lang="en">Jack's new friend Beef invites him to a sleepover. Jack, a sleepover newb, freaks out over impressing his new friend. Jack &amp; Lil try to prove they're the one true local, enduring a series of bizarre...</desc>
+    <desc lang="en">Jack's new friend Beef invites him to a sleepover. Jack, a sleepover newb, freaks out over impressing his new friend.  Jack &amp; Lil try to prove they're the one true local, enduring a series of bizarre...</desc>
     <category lang="en">Kids</category>
     <episode-num system="xmltv_ns">0.104.</episode-num>
     <episode-num system="onscreen">S1E105</episode-num>
@@ -11808,28 +11808,28 @@
   </programme>
   <programme start="20260201162800 +0000" stop="20260201165300 +0000" channel="nickelodeon.unifitv">
     <title lang="en">SpongeBob SquarePants</title>
-    <desc lang="en">Sandy gives her friends special saltwater trees, but they need more attention than she expected. SpongeBob and Patrick mistake a burglar for the tooth fairy.</desc>
+    <desc lang="en">Sandy gives her friends special saltwater trees, but they need more attention than she expected.  SpongeBob and Patrick mistake a burglar for the tooth fairy.</desc>
     <category lang="en">Kids</category>
     <episode-num system="xmltv_ns">12.281.</episode-num>
     <episode-num system="onscreen">S13E282</episode-num>
   </programme>
   <programme start="20260201165300 +0000" stop="20260201171800 +0000" channel="nickelodeon.unifitv">
     <title lang="en">SpongeBob SquarePants</title>
-    <desc lang="en">When SpongeBob's parents come to visit, their thirst for thrills comes as a big surprise. You'll learn all you need to get your boating license in this educational driving film.</desc>
+    <desc lang="en">When SpongeBob's parents come to visit, their thirst for thrills comes as a big surprise.  You'll learn all you need to get your boating license in this educational driving film.</desc>
     <category lang="en">Kids</category>
     <episode-num system="xmltv_ns">12.282.</episode-num>
     <episode-num system="onscreen">S13E283</episode-num>
   </programme>
   <programme start="20260201171800 +0000" stop="20260201174300 +0000" channel="nickelodeon.unifitv">
     <title lang="en">SpongeBob SquarePants</title>
-    <desc lang="en">The Chum Bucket is replaced by a flower shop with a charming new owner. The Krusty Krab enters a float in the annual Bikini Bottom Parade.</desc>
+    <desc lang="en">The Chum Bucket is replaced by a flower shop with a charming new owner.  The Krusty Krab enters a float in the annual Bikini Bottom Parade.</desc>
     <category lang="en">Kids</category>
     <episode-num system="xmltv_ns">12.283.</episode-num>
     <episode-num system="onscreen">S13E284</episode-num>
   </programme>
   <programme start="20260201174300 +0000" stop="20260201180300 +0000" channel="nickelodeon.unifitv">
     <title lang="en">Spongebob Squarepants</title>
-    <desc lang="en">SpongeBob and Plankton must work together to survive an island of deadly monsters. SpongeBob teaches Patrick how to ride a bike.</desc>
+    <desc lang="en">SpongeBob and Plankton must work together to survive an island of deadly monsters.  SpongeBob teaches Patrick how to ride a bike.</desc>
     <category lang="en">Kids</category>
     <episode-num system="xmltv_ns">12.284.</episode-num>
     <episode-num system="onscreen">S13E285</episode-num>
@@ -11913,56 +11913,56 @@
   </programme>
   <programme start="20260201222300 +0000" stop="20260201224800 +0000" channel="nickelodeon.unifitv">
     <title lang="en">SpongeBob SquarePants</title>
-    <desc lang="en">A new secret Krabby Patty formula has disastrous results for Bikini Bottom, and only SpongeBob can save the day. Mr. Krabs and Plankton have to take boating school classes. Thankfully, SpongeBob's...</desc>
+    <desc lang="en">A new secret Krabby Patty formula has disastrous results for Bikini Bottom, and only SpongeBob can save the day.  Mr. Krabs and Plankton have to take boating school classes. Thankfully, SpongeBob's...</desc>
     <category lang="en">Kids</category>
     <episode-num system="xmltv_ns">10.221.</episode-num>
     <episode-num system="onscreen">S11E222</episode-num>
   </programme>
   <programme start="20260201224800 +0000" stop="20260201231300 +0000" channel="nickelodeon.unifitv">
     <title lang="en">SpongeBob SquarePants</title>
-    <desc lang="en">When his clarinet goes missing, Squidward must become a hardboiled detective to track it down. Squidward sends SpongeBob and Patrick on an increasingly difficult scavenger hunt to get them out of his...</desc>
+    <desc lang="en">When his clarinet goes missing, Squidward must become a hardboiled detective to track it down.  Squidward sends SpongeBob and Patrick on an increasingly difficult scavenger hunt to get them out of his...</desc>
     <category lang="en">Kids</category>
     <episode-num system="xmltv_ns">10.223.</episode-num>
     <episode-num system="onscreen">S11E224</episode-num>
   </programme>
   <programme start="20260201231300 +0000" stop="20260201233800 +0000" channel="nickelodeon.unifitv">
     <title lang="en">Best and Bester</title>
-    <desc lang="en">Bester's record attempt is at risk when Best steals her thunder by being the robot instead of learning the robot. On a search for the first woodpecker in spring, Best finds that he's in very much in...</desc>
+    <desc lang="en">Bester's record attempt is at risk when Best steals her thunder by being the robot instead of learning the robot.  On a search for the first woodpecker in spring, Best finds that he's in very much in...</desc>
     <category lang="en">Kids</category>
     <episode-num system="xmltv_ns">0.112.</episode-num>
     <episode-num system="onscreen">S1E113</episode-num>
   </programme>
   <programme start="20260201233800 +0000" stop="20260201235800 +0000" channel="nickelodeon.unifitv">
     <title lang="en">Best and Bester</title>
-    <desc lang="en">Best and Bester turn themselves into chess pieces but have to abandon their game to save the sub from flooding. Bester and Best are tasked with neutralising the enemy agent's ransomware for the...</desc>
+    <desc lang="en">Best and Bester turn themselves into chess pieces but have to abandon their game to save the sub from flooding.  Bester and Best are tasked with neutralising the enemy agent's ransomware for the...</desc>
     <category lang="en">Kids</category>
     <episode-num system="xmltv_ns">0.113.</episode-num>
     <episode-num system="onscreen">S1E114</episode-num>
   </programme>
   <programme start="20260201235800 +0000" stop="20260202002300 +0000" channel="nickelodeon.unifitv">
     <title lang="en">Best and Bester</title>
-    <desc lang="en">Best and Bester go on an undercover mission to find out why items of laundry are going missing at the Dry Cleaners. In an unfortunate case of mistaken identity, Best has been mistaken for the...</desc>
+    <desc lang="en">Best and Bester go on an undercover mission to find out why items of laundry are going missing at the Dry Cleaners.  In an unfortunate case of mistaken identity, Best has been mistaken for the...</desc>
     <category lang="en">Kids</category>
     <episode-num system="xmltv_ns">0.114.</episode-num>
     <episode-num system="onscreen">S1E115</episode-num>
   </programme>
   <programme start="20260202002300 +0000" stop="20260202004300 +0000" channel="nickelodeon.unifitv">
     <title lang="en">The Patrick Star Show</title>
-    <desc lang="en">Patrick spawns an adorable mini-Patrick who quickly becomes the star of the show (until he outgrows the role). The Star family celebrates the Klopnodian holiday Swaptoberfest by swapping identities...</desc>
+    <desc lang="en">Patrick spawns an adorable mini-Patrick who quickly becomes the star of the show (until he outgrows the role).  The Star family celebrates the Klopnodian holiday Swaptoberfest by swapping identities...</desc>
     <category lang="en">Kids</category>
     <episode-num system="xmltv_ns">2.306.</episode-num>
     <episode-num system="onscreen">S3E307</episode-num>
   </programme>
   <programme start="20260202004300 +0000" stop="20260202010800 +0000" channel="nickelodeon.unifitv">
     <title lang="en">The Patrick Star Show</title>
-    <desc lang="en">Patrick and Squidina go undercover to investigate a corrupt novelty product factory. The Patrick Show presents the "Roast of Patrick Star".</desc>
+    <desc lang="en">Patrick and Squidina go undercover to investigate a corrupt novelty product factory.  The Patrick Show presents the "Roast of Patrick Star".</desc>
     <category lang="en">Kids</category>
     <episode-num system="xmltv_ns">2.307.</episode-num>
     <episode-num system="onscreen">S3E308</episode-num>
   </programme>
   <programme start="20260202010800 +0000" stop="20260202013300 +0000" channel="nickelodeon.unifitv">
     <title lang="en">SpongeBob SquarePants</title>
-    <desc lang="en">Plankton joins the League of E.V.I.L. SpongeBob and Patrick take Squidward on a plane to a tropical resort.</desc>
+    <desc lang="en">Plankton joins the League of E.V.I.L.  SpongeBob and Patrick take Squidward on a plane to a tropical resort.</desc>
     <category lang="en">Kids</category>
     <episode-num system="xmltv_ns">12.276.</episode-num>
     <episode-num system="onscreen">S13E277</episode-num>
@@ -12004,7 +12004,7 @@
   </programme>
   <programme start="20260202032300 +0000" stop="20260202034300 +0000" channel="nickelodeon.unifitv">
     <title lang="en">Wylde Pak</title>
-    <desc lang="en">Jack gets his first phone and immediately sends the wrong text to Will, forcing the kids to do whatever it takes to delete it. When the last hallasand goes missing, fingers point to Halmoni and only...</desc>
+    <desc lang="en">Jack gets his first phone and immediately sends the wrong text to Will, forcing the kids to do whatever it takes to delete it.  When the last hallasand goes missing, fingers point to Halmoni and only...</desc>
     <category lang="en">Kids</category>
     <episode-num system="xmltv_ns">1.201.</episode-num>
     <episode-num system="onscreen">S2E202</episode-num>
@@ -12018,14 +12018,14 @@
   </programme>
   <programme start="20260202040300 +0000" stop="20260202042800 +0000" channel="nickelodeon.unifitv">
     <title lang="en">SpongeBob SquarePants</title>
-    <desc lang="en">Patrick discovers that the rock he lives under is actually a sea turtle who overslept. Old Man Jenkins disrupts business as usual at the Krusty Krab, but Mr. Krabs can't find a way to kick him out.</desc>
+    <desc lang="en">Patrick discovers that the rock he lives under is actually a sea turtle who overslept.  Old Man Jenkins disrupts business as usual at the Krusty Krab, but Mr. Krabs can't find a way to kick him out.</desc>
     <category lang="en">Kids</category>
     <episode-num system="xmltv_ns">11.250.</episode-num>
     <episode-num system="onscreen">S12E251</episode-num>
   </programme>
   <programme start="20260202042800 +0000" stop="20260202044800 +0000" channel="nickelodeon.unifitv">
     <title lang="en">SpongeBob SquarePants</title>
-    <desc lang="en">Squidward closes the gap in SpongeBob's teeth, which causes a dramatic and unexpected change in his demeanor. The newly reformed "Clean Bubble" takes a dishwashing job at the Krusty Krab, where he is...</desc>
+    <desc lang="en">Squidward closes the gap in SpongeBob's teeth, which causes a dramatic and unexpected change in his demeanor.  The newly reformed "Clean Bubble" takes a dishwashing job at the Krusty Krab, where he is...</desc>
     <category lang="en">Kids</category>
     <episode-num system="xmltv_ns">11.251.</episode-num>
     <episode-num system="onscreen">S12E252</episode-num>
@@ -12039,14 +12039,14 @@
   </programme>
   <programme start="20260202050300 +0000" stop="20260202052300 +0000" channel="nickelodeon.unifitv">
     <title lang="en">The Patrick Star Show</title>
-    <desc lang="en">The Patrick Star Show is interrupted by a most peculiar stench. Squidina hires an assistant who's a little too good at his job.</desc>
+    <desc lang="en">The Patrick Star Show is interrupted by a most peculiar stench.  Squidina hires an assistant who's a little too good at his job.</desc>
     <category lang="en">Kids</category>
     <episode-num system="xmltv_ns">0.104.</episode-num>
     <episode-num system="onscreen">S1E105</episode-num>
   </programme>
   <programme start="20260202052300 +0000" stop="20260202054800 +0000" channel="nickelodeon.unifitv">
     <title lang="en">The Patrick Star Show</title>
-    <desc lang="en">The Star Family heads to their favorite resort. Bunny goes on a mid-day adventure to a forgotten age.</desc>
+    <desc lang="en">The Star Family heads to their favorite resort.  Bunny goes on a mid-day adventure to a forgotten age.</desc>
     <category lang="en">Kids</category>
     <episode-num system="xmltv_ns">0.105.</episode-num>
     <episode-num system="onscreen">S1E106</episode-num>
@@ -12060,35 +12060,35 @@
   </programme>
   <programme start="20260202055800 +0000" stop="20260202062300 +0000" channel="nickelodeon.unifitv">
     <title lang="en">The Smurfs</title>
-    <desc lang="en">Vanity gives one of the Smurfs a makeover to look exactly like Papa Smurf. Jokey tricks Poet into writing a sensational (but very fake) news story in the Daily Smurf.</desc>
+    <desc lang="en">Vanity gives one of the Smurfs a makeover to look exactly like Papa Smurf.  Jokey tricks Poet into writing a sensational (but very fake) news story in the Daily Smurf.</desc>
     <category lang="en">Kids</category>
     <episode-num system="xmltv_ns">0.123.</episode-num>
     <episode-num system="onscreen">S1E124</episode-num>
   </programme>
   <programme start="20260202062300 +0000" stop="20260202064800 +0000" channel="nickelodeon.unifitv">
     <title lang="en">The Smurfs</title>
-    <desc lang="en">After another mishap, Clumsy and Dimwitty get into a big fight and vow never to work with each other again. When Gargamel places a magic armoire in the forest, Vanity must resist the temptation to...</desc>
+    <desc lang="en">After another mishap, Clumsy and Dimwitty get into a big fight and vow never to work with each other again.  When Gargamel places a magic armoire in the forest, Vanity must resist the temptation to...</desc>
     <category lang="en">Kids</category>
     <episode-num system="xmltv_ns">0.124.</episode-num>
     <episode-num system="onscreen">S1E125</episode-num>
   </programme>
   <programme start="20260202064800 +0000" stop="20260202071300 +0000" channel="nickelodeon.unifitv">
     <title lang="en">The Casagrandes</title>
-    <desc lang="en">Nervous to jump back on her board after a bad wipeout, will Ronnie Anne ever skate again? feat. Lincoln Loud. A powerful artifact is coming to the Great Lakes City museum and it brings along a storm...</desc>
+    <desc lang="en">Nervous to jump back on her board after a bad wipeout, will Ronnie Anne ever skate again? feat. Lincoln Loud.  A powerful artifact is coming to the Great Lakes City museum and it brings along a storm...</desc>
     <category lang="en">Kids</category>
     <episode-num system="xmltv_ns">2.309.</episode-num>
     <episode-num system="onscreen">S3E310</episode-num>
   </programme>
   <programme start="20260202071300 +0000" stop="20260202073300 +0000" channel="nickelodeon.unifitv">
     <title lang="en">The Casagrandes</title>
-    <desc lang="en">When Mr. Chang's job might go to a faster train conductor, he has to prove that he can be just as fast as a robot! Adelaide wants to help the city cats clean up their acts for adoption, but can she...</desc>
+    <desc lang="en">When Mr. Chang's job might go to a faster train conductor, he has to prove that he can be just as fast as a robot!  Adelaide wants to help the city cats clean up their acts for adoption, but can she...</desc>
     <category lang="en">Kids</category>
     <episode-num system="xmltv_ns">2.310.</episode-num>
     <episode-num system="onscreen">S3E311</episode-num>
   </programme>
   <programme start="20260202073300 +0000" stop="20260202075300 +0000" channel="nickelodeon.unifitv">
     <title lang="en">Wylde Pak</title>
-    <desc lang="en">Halmoni falls in love with a customer's dog. Rather than return him, she dog-naps him and goes on the lam! Jack volunteers to run the Groom &amp; Board solo, but when a pet snake causes chaos he must...</desc>
+    <desc lang="en">Halmoni falls in love with a customer's dog. Rather than return him, she dog-naps him and goes on the lam!  Jack volunteers to run the Groom &amp; Board solo, but when a pet snake causes chaos he must...</desc>
     <category lang="en">Kids</category>
     <episode-num system="xmltv_ns">1.207.</episode-num>
     <episode-num system="onscreen">S2E208</episode-num>
@@ -12116,7 +12116,7 @@
   </programme>
   <programme start="20260202082800 +0000" stop="20260202085300 +0000" channel="nickelodeon.unifitv">
     <title lang="en">SpongeBob SquarePants</title>
-    <desc lang="en">SpongeBob gets in over his head when he volunteers to babysit Sandy's 3 nieces. SpongeBob and Patrick volunteer as guards at the museum, while Squidward attempts to hang his painting unnoticed.</desc>
+    <desc lang="en">SpongeBob gets in over his head when he volunteers to babysit Sandy's 3 nieces.  SpongeBob and Patrick volunteer as guards at the museum, while Squidward attempts to hang his painting unnoticed.</desc>
     <category lang="en">Kids</category>
     <episode-num system="xmltv_ns">11.248.</episode-num>
     <episode-num system="onscreen">S12E249</episode-num>
@@ -12130,14 +12130,14 @@
   </programme>
   <programme start="20260202090800 +0000" stop="20260202093300 +0000" channel="nickelodeon.unifitv">
     <title lang="en">SpongeBob SquarePants</title>
-    <desc lang="en">Patrick becomes the superhero Patrick-Man, who intends to clean up Bikini Bottom—whether it wants it or not. Gary becomes obsessed with his new red ball, forcing SpongeBob to take drastic measures to...</desc>
+    <desc lang="en">Patrick becomes the superhero Patrick-Man, who intends to clean up Bikini Bottom—whether it wants it or not.  Gary becomes obsessed with his new red ball, forcing SpongeBob to take drastic measures to...</desc>
     <category lang="en">Kids</category>
     <episode-num system="xmltv_ns">8.179.</episode-num>
     <episode-num system="onscreen">S9E180</episode-num>
   </programme>
   <programme start="20260202093300 +0000" stop="20260202095300 +0000" channel="nickelodeon.unifitv">
     <title lang="en">The Casagrandes</title>
-    <desc lang="en">Hector finally joins his dream soccer team as their good luck charm, but what happens when his luck runs out? While preparing bao for the Chinese Cultural Fair, Sid and Adelaide face off against...</desc>
+    <desc lang="en">Hector finally joins his dream soccer team as their good luck charm, but what happens when his luck runs out?  While preparing bao for the Chinese Cultural Fair, Sid and Adelaide face off against...</desc>
     <category lang="en">Kids</category>
     <episode-num system="xmltv_ns">2.300.</episode-num>
     <episode-num system="onscreen">S3E301</episode-num>
@@ -12151,7 +12151,7 @@
   </programme>
   <programme start="20260202100300 +0000" stop="20260202102800 +0000" channel="nickelodeon.unifitv">
     <title lang="en">Wylde Pak</title>
-    <desc lang="en">Lily introduces Jack to her favorite video game, but when he keeps losing, Jack binges the game and turns into a toxic troll. Slice of life vignettes that illustrate the modern-day family dynamic.</desc>
+    <desc lang="en">Lily introduces Jack to her favorite video game, but when he keeps losing, Jack binges the game and turns into a toxic troll.  Slice of life vignettes that illustrate the modern-day family dynamic.</desc>
     <category lang="en">Kids</category>
     <episode-num system="xmltv_ns">0.108.</episode-num>
     <episode-num system="onscreen">S1E109</episode-num>
@@ -12228,7 +12228,7 @@
   </programme>
   <programme start="20260202135800 +0000" stop="20260202141800 +0000" channel="nickelodeon.unifitv">
     <title lang="en">SpongeBob SquarePants</title>
-    <desc lang="en">SpongeBob and Patrick try to join the extreme sports team The Drasticals. Sandy finds a book of world's records, and tries to break them all with SpongeBob's help.</desc>
+    <desc lang="en">SpongeBob and Patrick try to join the extreme sports team The Drasticals.  Sandy finds a book of world's records, and tries to break them all with SpongeBob's help.</desc>
     <category lang="en">Kids</category>
     <episode-num system="xmltv_ns">8.178.</episode-num>
     <episode-num system="onscreen">S9E179</episode-num>
@@ -12242,21 +12242,21 @@
   </programme>
   <programme start="20260202143300 +0000" stop="20260202145800 +0000" channel="nickelodeon.unifitv">
     <title lang="en">The Casagrandes</title>
-    <desc lang="en">Ronnie Anne and Sid try to take down the obnoxious burger restaurant that opened up across the street. After picking Par as his new best friend, Bobby realizes he may be in over his head.</desc>
+    <desc lang="en">Ronnie Anne and Sid try to take down the obnoxious burger restaurant that opened up across the street.  After picking Par as his new best friend, Bobby realizes he may be in over his head.</desc>
     <category lang="en">Kids</category>
     <episode-num system="xmltv_ns">0.111.</episode-num>
     <episode-num system="onscreen">S1E112</episode-num>
   </programme>
   <programme start="20260202145800 +0000" stop="20260202151800 +0000" channel="nickelodeon.unifitv">
     <title lang="en">The Casagrandes</title>
-    <desc lang="en">Ronnie Anne thinks her grandparent's marriage is in trouble after watching a relationship talk show. Ronnie Anne learns the art of baile folklorico - and that her Tia Frida is one intense instructor!</desc>
+    <desc lang="en">Ronnie Anne thinks her grandparent's marriage is in trouble after watching a relationship talk show.  Ronnie Anne learns the art of baile folklorico - and that her Tia Frida is one intense instructor!</desc>
     <category lang="en">Kids</category>
     <episode-num system="xmltv_ns">0.112.</episode-num>
     <episode-num system="onscreen">S1E113</episode-num>
   </programme>
   <programme start="20260202151800 +0000" stop="20260202154300 +0000" channel="nickelodeon.unifitv">
     <title lang="en">Wylde Pak</title>
-    <desc lang="en">Ellie &amp; the kids investigate cryptic Mrs. Withers. When Jack goes missing in her creepy home, Ellie and Lil must save him! Eager to become Master Criminals, Lil &amp; Jack help Chuck with his "dirty...</desc>
+    <desc lang="en">Ellie &amp; the kids investigate cryptic Mrs. Withers. When Jack goes missing in her creepy home, Ellie and Lil must save him!  Eager to become Master Criminals, Lil &amp; Jack help Chuck with his "dirty...</desc>
     <category lang="en">Kids</category>
     <episode-num system="xmltv_ns">0.105.</episode-num>
     <episode-num system="onscreen">S1E106</episode-num>
@@ -15322,7 +15322,7 @@
   </programme>
   <programme start="20260201193000 +0000" stop="20260201195500 +0000" channel="unifisports1.unifitv">
     <title lang="en">UFC Fight Flashback - UFC 305: Du Plessis vs Adesanya</title>
-    <desc lang="en">UFC 305 featured the battle for the middleweight title as reigning champion Dricus "Stillknocks" Du Plessis defended his belt against former champion Israel "The Last Stylebender" Adesanya. See their fight like never before with enhanced replays and angles, new footage, and exclusive audio.</desc>
+    <desc lang="en">UFC 305 featured the battle for the middleweight title as reigning champion Dricus "Stillknocks" Du Plessis defended his belt against former champion Israel "The Last Stylebender" Adesanya.  See their fight like never before with enhanced replays and angles, new footage, and exclusive audio.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260201195500 +0000" stop="20260201200000 +0000" channel="unifisports1.unifitv">
@@ -15351,7 +15351,7 @@
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260202060000 +0000" stop="20260202083000 +0000" channel="unifisports1.unifitv">
-    <title lang="en">UFC Reloaded - UFC 313: Pereira vs Ankalaev</title>
+    <title lang="en">UFC Reloaded  - UFC 313: Pereira vs Ankalaev</title>
     <desc lang="en">After a historic 2024 that saw him defend his UFC light heavyweight title three times with three knockouts, Brazilian superstar Alex Pereira begins the new year in Las Vegas with a main event clash against number one contender Magomed Ankalaev. Plus former interim lightweight champion Justin Gaithje battles Rafael Fiziev for the second time, and much much more on UFC Reloaded.</desc>
     <category lang="en">Sports</category>
   </programme>
@@ -15371,7 +15371,7 @@
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260202100000 +0000" stop="20260202123000 +0000" channel="unifisports1.unifitv">
-    <title lang="en">UFC Reloaded - UFC 313: Pereira vs Ankalaev</title>
+    <title lang="en">UFC Reloaded  - UFC 313: Pereira vs Ankalaev</title>
     <desc lang="en">After a historic 2024 that saw him defend his UFC light heavyweight title three times with three knockouts, Brazilian superstar Alex Pereira begins the new year in Las Vegas with a main event clash against number one contender Magomed Ankalaev. Plus former interim lightweight champion Justin Gaithje battles Rafael Fiziev for the second time, and much much more on UFC Reloaded.</desc>
     <category lang="en">Sports</category>
   </programme>
@@ -15381,7 +15381,7 @@
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260202130000 +0000" stop="20260202135500 +0000" channel="unifisports1.unifitv">
-    <title lang="en">Australian Open Highlights - Day 13</title>
+    <title lang="en">Australian Open Highlights -  Day 13</title>
     <desc lang="en">Daily highlights show reviewing each day of the tournament, the best action and best moments, biggest wins and winners’ celebrations.</desc>
     <category lang="en">Sports</category>
   </programme>
