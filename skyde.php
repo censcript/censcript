@@ -2650,7 +2650,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Admiral BL: 100% Sturm Graz (Runden 13-16)</title>
 </programme>
 <programme start="20260202170000 +0000" stop="20260202180000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Fußball: UEL &amp; UECL Magazin</title>
+    <title>UEFA EL: UEL &amp; UECL Magazin</title>
 </programme>
 <programme start="20260202180000 +0000" stop="20260202183000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>PL: PL Stories - Deadline Day Drama</title>
@@ -2701,10 +2701,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>2. BL: Dein Spieltags-Sprint (20)</title>
 </programme>
 <programme start="20260202053000 +0000" stop="20260202054500 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: Hghlights XXL: VFB - SCF, 20. Spieltag</title>
+    <title>BL: Highlights XXL: VFB - SCF, 20. Spieltag</title>
 </programme>
 <programme start="20260202054500 +0000" stop="20260202060000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: Hghlights XXL: BVB - FCH, 20. Spieltag</title>
+    <title>BL: Highlights XXL: BVB - FCH, 20. Spieltag</title>
 </programme>
 <programme start="20260202060000 +0000" stop="20260202080000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: VfB Stuttgart - SC Freiburg, 20. Spieltag</title>
@@ -2713,10 +2713,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>2. BL: Alle Spiele, alle Stimmen, 20. Spieltag</title>
 </programme>
 <programme start="20260202090000 +0000" stop="20260202091500 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: Hghlights XXL: VFB - SCF, 20. Spieltag</title>
+    <title>BL: Highlights XXL: VFB - SCF, 20. Spieltag</title>
 </programme>
 <programme start="20260202091500 +0000" stop="20260202093000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: Hghlights XXL: BVB - FCH, 20. Spieltag</title>
+    <title>BL: Highlights XXL: BVB - FCH, 20. Spieltag</title>
 </programme>
 <programme start="20260202093000 +0000" stop="20260202110000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: Sky90 - Die Fußballdebatte</title>
@@ -2949,10 +2949,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260201231500 +0000" stop="20260201233000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Highlights MIN@EDM</title>
 </programme>
-<programme start="20260201233000 +0000" stop="20260202023000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260201233000 +0000" stop="20260202033000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NHL: Boston Bruins @ Tampa Bay Lightning, Stadium Series Game</title>
 </programme>
-<programme start="20260202023000 +0000" stop="20260202050000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260202033000 +0000" stop="20260202050000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NBA: Oklahoma City Thunder @ Denver Nuggets</title>
 </programme>
 <programme start="20260202050000 +0000" stop="20260202053000 +0000" channel="Sky Sport Mix HD.skyde">
@@ -3211,7 +3211,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>EFL: Highlights, 30. Spieltag</title>
 </programme>
 <programme start="20260201234500 +0000" stop="20260202014500 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: Topspiel, Mubadala Abu Dhabi Open in Abu Dhabi (VAE), 1. Tag</title>
+    <title>WTA 500: M. Kessler (USA) - A. Pavlyuchenkova, Mubadala Abu Dhabi Open in Abu Dhabi (VAE), 1. Tag</title>
 </programme>
 <programme start="20260202014500 +0000" stop="20260202023000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: The Ring Master: Alexander Bublik</title>
@@ -3220,7 +3220,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>ATP Finals: J. Sinner (ITA) - C. Alcaraz (ESP), Finale 2025 in Turin (ITA)</title>
 </programme>
 <programme start="20260202050000 +0000" stop="20260202070000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: Topspiel, Mubadala Abu Dhabi Open in Abu Dhabi (VAE), 1. Tag</title>
+    <title>WTA 500: M. Kessler (USA) - A. Pavlyuchenkova, Mubadala Abu Dhabi Open in Abu Dhabi (VAE), 1. Tag</title>
 </programme>
 <programme start="20260202070000 +0000" stop="20260202213000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP &amp; WTA: Die Topspiele des Tages</title>
@@ -3229,7 +3229,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>ATP: The Ring Master: Alexander Bublik</title>
 </programme>
 <programme start="20260202221500 +0000" stop="20260203001500 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: Topspiel, Mubadala Abu Dhabi Open in Abu Dhabi (VAE), 2. Tag</title>
+    <title>WTA 500: D. Yastremska (UKR) - B. Haddad Maia (BRA), Mubadala Abu Dhabi Open in Abu Dhabi (VAE), 2. Tag</title>
 </programme>
 <programme start="20260201230000 +0000" stop="20260202000000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Showtime</title>
@@ -3291,8 +3291,8 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260202023000 +0000" stop="20260202090000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Oklahoma City Thunder @ Denver Nuggets</title>
 </programme>
-<programme start="20260202064000 +0000" stop="20260202070000 +0000" channel="Sky Sport 2 HD.skyde">
-    <title>Es folgt: Live Tennis WTA Tour</title>
+<programme start="20260201230000 +0000" stop="20260202070000 +0000" channel="Sky Sport 2 HD.skyde">
+    <title>Es folgt: ab 08:00: LIVE Tennis WTA Tour</title>
 </programme>
 <programme start="20260202070000 +0000" stop="20260202190000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live WTA 500: Mubadala Abu Dhabi Open in Abu Dhabi (VAE), 2. Tag</title>
