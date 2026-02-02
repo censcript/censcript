@@ -1435,14 +1435,95 @@
     <programme start="20260202153500 +0000" stop="20260202163500 +0000" channel="Lifetime HD.starhub">
         <title>Flipping the Fortress</title>
     </programme>
-    <programme start="20260201130000 +0000" stop="20260202010000 +0000" channel="COLORS Tamil HD.starhub">
+    <programme start="20260201160000 +0000" stop="20260201163000 +0000" channel="COLORS Tamil HD.starhub">
+        <title>Kadhala Kadhala</title>
+    </programme>
+    <programme start="20260201163000 +0000" stop="20260201170000 +0000" channel="COLORS Tamil HD.starhub">
+        <title>Kadhala Kadhala</title>
+    </programme>
+    <programme start="20260201170000 +0000" stop="20260201173000 +0000" channel="COLORS Tamil HD.starhub">
+        <title>Kadhala Kadhala</title>
+    </programme>
+    <programme start="20260201173000 +0000" stop="20260201180000 +0000" channel="COLORS Tamil HD.starhub">
+        <title>Kadhala Kadhala</title>
+    </programme>
+    <programme start="20260201180000 +0000" stop="20260201190000 +0000" channel="COLORS Tamil HD.starhub">
+        <title>Veera Hanuman</title>
+    </programme>
+    <programme start="20260201190000 +0000" stop="20260201193000 +0000" channel="COLORS Tamil HD.starhub">
+        <title>Shiva Shakthi Thiruvilayadal</title>
+    </programme>
+    <programme start="20260201193000 +0000" stop="20260201200000 +0000" channel="COLORS Tamil HD.starhub">
+        <title>Shiva Shakthi Thiruvilayadal</title>
+    </programme>
+    <programme start="20260201200000 +0000" stop="20260201203000 +0000" channel="COLORS Tamil HD.starhub">
+        <title>Shiva Shakthi Thiruvilayadal</title>
+    </programme>
+    <programme start="20260201203000 +0000" stop="20260201210000 +0000" channel="COLORS Tamil HD.starhub">
+        <title>Shiva Shakthi Thiruvilayadal</title>
+    </programme>
+    <programme start="20260201210000 +0000" stop="20260201213000 +0000" channel="COLORS Tamil HD.starhub">
+        <title>Shiva Shakthi Thiruvilayadal</title>
+    </programme>
+    <programme start="20260201213000 +0000" stop="20260201220000 +0000" channel="COLORS Tamil HD.starhub">
+        <title>Shiva Shakthi Thiruvilayadal</title>
+    </programme>
+    <programme start="20260201220000 +0000" stop="20260202010000 +0000" channel="COLORS Tamil HD.starhub">
+        <title>Enna Mayam Seithai</title>
+    </programme>
+    <programme start="20260202010000 +0000" stop="20260202040000 +0000" channel="COLORS Tamil HD.starhub">
         <title>Netrikann</title>
     </programme>
-    <programme start="20260202010000 +0000" stop="20260202130000 +0000" channel="COLORS Tamil HD.starhub">
-        <title>Netrikann</title>
+    <programme start="20260202040000 +0000" stop="20260202043000 +0000" channel="COLORS Tamil HD.starhub">
+        <title>Kadhala Kadhala</title>
     </programme>
-    <programme start="20260202130000 +0000" stop="20260203010000 +0000" channel="COLORS Tamil HD.starhub">
-        <title>Netrikann</title>
+    <programme start="20260202043000 +0000" stop="20260202050000 +0000" channel="COLORS Tamil HD.starhub">
+        <title>Kadhala Kadhala</title>
+    </programme>
+    <programme start="20260202050000 +0000" stop="20260202053000 +0000" channel="COLORS Tamil HD.starhub">
+        <title>Shiva Shakthi Thiruvilayadal</title>
+    </programme>
+    <programme start="20260202053000 +0000" stop="20260202060000 +0000" channel="COLORS Tamil HD.starhub">
+        <title>Shiva Shakthi Thiruvilayadal</title>
+    </programme>
+    <programme start="20260202060000 +0000" stop="20260202083000 +0000" channel="COLORS Tamil HD.starhub">
+        <title>Velli vizha Nayagan</title>
+    </programme>
+    <programme start="20260202083000 +0000" stop="20260202090000 +0000" channel="COLORS Tamil HD.starhub">
+        <title>Kadhala Kadhala</title>
+    </programme>
+    <programme start="20260202090000 +0000" stop="20260202093000 +0000" channel="COLORS Tamil HD.starhub">
+        <title>Kadhala Kadhala</title>
+    </programme>
+    <programme start="20260202093000 +0000" stop="20260202100000 +0000" channel="COLORS Tamil HD.starhub">
+        <title>Thendral Vandhu Ennai Thodum</title>
+    </programme>
+    <programme start="20260202100000 +0000" stop="20260202103000 +0000" channel="COLORS Tamil HD.starhub">
+        <title>Muthazhagu</title>
+    </programme>
+    <programme start="20260202103000 +0000" stop="20260202110000 +0000" channel="COLORS Tamil HD.starhub">
+        <title>Shiva Shakthi Thiruvilayadal</title>
+    </programme>
+    <programme start="20260202110000 +0000" stop="20260202113000 +0000" channel="COLORS Tamil HD.starhub">
+        <title>Shiva Shakthi Thiruvilayadal</title>
+    </programme>
+    <programme start="20260202113000 +0000" stop="20260202120000 +0000" channel="COLORS Tamil HD.starhub">
+        <title>Kadhala Kadhala</title>
+    </programme>
+    <programme start="20260202120000 +0000" stop="20260202123000 +0000" channel="COLORS Tamil HD.starhub">
+        <title>Kadhala Kadhala</title>
+    </programme>
+    <programme start="20260202123000 +0000" stop="20260202130000 +0000" channel="COLORS Tamil HD.starhub">
+        <title>Thendral Vandhu Ennai Thodum</title>
+    </programme>
+    <programme start="20260202130000 +0000" stop="20260202133000 +0000" channel="COLORS Tamil HD.starhub">
+        <title>Muthazhagu</title>
+    </programme>
+    <programme start="20260202133000 +0000" stop="20260202140000 +0000" channel="COLORS Tamil HD.starhub">
+        <title>Kadhala Kadhala</title>
+    </programme>
+    <programme start="20260202140000 +0000" stop="20260202160000 +0000" channel="COLORS Tamil HD.starhub">
+        <title>Chasing</title>
     </programme>
     <programme start="20260201160000 +0000" stop="20260201170000 +0000" channel="TVBS Asia.starhub">
         <title>Genius Go Go Go</title>
@@ -4502,7 +4583,7 @@
         <title>Yeh Saali Aashiqui</title>
     </programme>
     <programme start="20260202090000 +0000" stop="20260202120000 +0000" channel="Zee Cinema.starhub">
-        <title>Arzoo</title>
+        <title>Aarzoo</title>
     </programme>
     <programme start="20260202120000 +0000" stop="20260202150000 +0000" channel="Zee Cinema.starhub">
         <title>Tadka</title>
@@ -4624,11 +4705,8 @@
     <programme start="20260202070000 +0000" stop="20260202073000 +0000" channel="Vijay TV HD.starhub">
         <title>Sakthivel: Theeyaai Oru Theeraakkaadhal</title>
     </programme>
-    <programme start="20260202073000 +0000" stop="20260202080000 +0000" channel="Vijay TV HD.starhub">
+    <programme start="20260202073000 +0000" stop="20260202083000 +0000" channel="Vijay TV HD.starhub">
         <title>Kanmani Anbudan</title>
-    </programme>
-    <programme start="20260202080000 +0000" stop="20260202083000 +0000" channel="Vijay TV HD.starhub">
-        <title>Thendrale Mella Pesu</title>
     </programme>
     <programme start="20260202083000 +0000" stop="20260202090000 +0000" channel="Vijay TV HD.starhub">
         <title>Suttum Vizhi Sudare Oru Chinanjiru Kuyilin Kadhai</title>
@@ -7795,22 +7873,22 @@
     <programme start="20260201133000 +0000" stop="20260201163000 +0000" channel="Asianet Movies.starhub">
         <title>A.R.M</title>
     </programme>
-    <programme start="20260201163000 +0000" stop="20260201193000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260201163000 +0000" stop="20260201185000 +0000" channel="Asianet Movies.starhub">
         <title>Abhilasham</title>
     </programme>
-    <programme start="20260201193000 +0000" stop="20260201213000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260201185000 +0000" stop="20260201212000 +0000" channel="Asianet Movies.starhub">
         <title>Best Actor</title>
     </programme>
-    <programme start="20260201213000 +0000" stop="20260201233000 +0000" channel="Asianet Movies.starhub">
-        <title>Vairam</title>
+    <programme start="20260201212000 +0000" stop="20260201233000 +0000" channel="Asianet Movies.starhub">
+        <title>Sarkkar Colony</title>
     </programme>
     <programme start="20260201233000 +0000" stop="20260202013000 +0000" channel="Asianet Movies.starhub">
         <title>Tournament</title>
     </programme>
-    <programme start="20260202013000 +0000" stop="20260202043000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260202013000 +0000" stop="20260202043500 +0000" channel="Asianet Movies.starhub">
         <title>Crazy Gopalan</title>
     </programme>
-    <programme start="20260202043000 +0000" stop="20260202073000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260202043500 +0000" stop="20260202073000 +0000" channel="Asianet Movies.starhub">
         <title>Njandukalude Nattil Oridavela</title>
     </programme>
     <programme start="20260202073000 +0000" stop="20260202103000 +0000" channel="Asianet Movies.starhub">
