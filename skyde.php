@@ -2952,10 +2952,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260201233000 +0000" stop="20260202033000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NHL: Boston Bruins @ Tampa Bay Lightning, Stadium Series Game</title>
 </programme>
-<programme start="20260202033000 +0000" stop="20260202050000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260202033000 +0000" stop="20260202051500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NBA: Oklahoma City Thunder @ Denver Nuggets</title>
 </programme>
-<programme start="20260202050000 +0000" stop="20260202053000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260202051500 +0000" stop="20260202053000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Frauen-BL: Alle Spiele, alle Tore, 16. Spieltag, Sonntag</title>
 </programme>
 <programme start="20260202053000 +0000" stop="20260202060000 +0000" channel="Sky Sport Mix HD.skyde">
@@ -3237,10 +3237,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260202000000 +0000" stop="20260202023000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: LA Lakers @ New York Knicks</title>
 </programme>
-<programme start="20260202023000 +0000" stop="20260202050000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260202023000 +0000" stop="20260202050500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Oklahoma City Thunder @ Denver Nuggets</title>
 </programme>
-<programme start="20260202050000 +0000" stop="20260202053000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260202050500 +0000" stop="20260202053000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>PL: 90in30: MUN - FUL, 24. Spieltag</title>
 </programme>
 <programme start="20260202053000 +0000" stop="20260202060000 +0000" channel="Sky Sport Top Event HD.skyde">
