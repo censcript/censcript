@@ -7910,7 +7910,7 @@
     <title>SEA Games 2025: MYA Vs PHI</title>
 </programme>
 <programme start="20260202143000 +0000" stop="20260202163000 +0000" channel="Soccer Channel.mncvision">
-    <title>Best Of Persib: BKU Vs PSB</title>
+    <title>Persib Road To...: BKU Vs PSB</title>
 </programme>
 <programme start="20260202163000 +0000" stop="20260201170000 +0000" channel="Soccer Channel.mncvision">
     <title>AFC Asian Cup 2026: JPN Vs QAT</title>
@@ -7955,7 +7955,7 @@
     <title>SEA Games 2025: MYA Vs PHI</title>
 </programme>
 <programme start="20260202143000 +0000" stop="20260202163000 +0000" channel="Soccer Channel HD.mncvision">
-    <title>Best Of Persib: BKU Vs PSB</title>
+    <title>Persib Road To...: BKU Vs PSB</title>
 </programme>
 <programme start="20260202163000 +0000" stop="20260201170000 +0000" channel="Soccer Channel HD.mncvision">
     <title>AFC Asian Cup 2026: JPN Vs QAT</title>
