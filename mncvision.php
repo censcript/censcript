@@ -5611,14 +5611,14 @@
 <programme start="20260202090000 +0000" stop="20260202095500 +0000" channel="MDTV.mncvision">
     <title>Adit Sopo Jarwo</title>
 </programme>
-<programme start="20260202095500 +0000" stop="20260202104500 +0000" channel="MDTV.mncvision">
+<programme start="20260202095500 +0000" stop="20260202104000 +0000" channel="MDTV.mncvision">
     <title>Cinta Paulina</title>
 </programme>
-<programme start="20260202104500 +0000" stop="20260202113500 +0000" channel="MDTV.mncvision">
-    <title>Esmeralda</title>
-</programme>
-<programme start="20260202113500 +0000" stop="20260202123000 +0000" channel="MDTV.mncvision">
+<programme start="20260202104000 +0000" stop="20260202114000 +0000" channel="MDTV.mncvision">
     <title>Betty La Fea</title>
+</programme>
+<programme start="20260202114000 +0000" stop="20260202123000 +0000" channel="MDTV.mncvision">
+    <title>Esmeralda</title>
 </programme>
 <programme start="20260202123000 +0000" stop="20260202133000 +0000" channel="MDTV.mncvision">
     <title>Pernikahan Dini Gen Z</title>
