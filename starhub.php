@@ -3970,20 +3970,20 @@
     <programme start="20260202184500 +0000" stop="20260202204500 +0000" channel="HBO HD.starhub">
         <title>American Beauty</title>
     </programme>
-    <programme start="20260202204500 +0000" stop="20260202231000 +0000" channel="HBO HD.starhub">
+    <programme start="20260202223000 +0000" stop="20260203005500 +0000" channel="HBO HD.starhub">
         <title>In The Heights</title>
     </programme>
-    <programme start="20260202231000 +0000" stop="20260203014500 +0000" channel="HBO HD.starhub">
-        <title>Dreamgirls</title>
-    </programme>
-    <programme start="20260203014500 +0000" stop="20260203035500 +0000" channel="HBO HD.starhub">
+    <programme start="20260203005500 +0000" stop="20260203030500 +0000" channel="HBO HD.starhub">
         <title>Stardust</title>
     </programme>
-    <programme start="20260203035500 +0000" stop="20260203052500 +0000" channel="HBO HD.starhub">
+    <programme start="20260203030500 +0000" stop="20260203033500 +0000" channel="HBO HD.starhub">
+        <title>Hollywood On Set S1</title>
+    </programme>
+    <programme start="20260203033500 +0000" stop="20260203050500 +0000" channel="HBO HD.starhub">
         <title>Space Jam</title>
     </programme>
-    <programme start="20260203052500 +0000" stop="20260203071500 +0000" channel="HBO HD.starhub">
-        <title>Morning Glory</title>
+    <programme start="20260203050500 +0000" stop="20260203071500 +0000" channel="HBO HD.starhub">
+        <title>Dreamgirls</title>
     </programme>
     <programme start="20260203071500 +0000" stop="20260203085500 +0000" channel="HBO HD.starhub">
         <title>Wifelike</title>

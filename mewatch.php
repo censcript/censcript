@@ -794,14 +794,20 @@
         <title>No programme available now. Next broadcast on 4th February, Wednesday 7pm. The Wonder Shop Home Shopping</title>
     </programme>
     <programme start="20260202160000 +0000" stop="20260203160000 +0000" channel="Live 2.mewatch">
-        <title>No Programme available now. Next Broadcast on 4th February, Wednesday 11am. TSINGTAO Badminton Asia Team Championships 2026</title>
+        <title>No Programme available now. Next Broadcast on 4th February, Wednesday 10.55am. TSINGTAO Badminton Asia Team Championships 2026: Women’s Team: China vs Malaysia</title>
     </programme>
-    <programme start="20260203160000 +0000" stop="20260204030000 +0000" channel="Live 2.mewatch">
-        <title>No Programme available now. Next Broadcast on 4th February, Wednesday 11am. TSINGTAO Badminton Asia Team Championships 2026</title>
+    <programme start="20260203160000 +0000" stop="20260204025500 +0000" channel="Live 2.mewatch">
+        <title>No Programme available now. Next Broadcast on 4th February, Wednesday 10.55am. TSINGTAO Badminton Asia Team Championships 2026: Women’s Team: China vs Malaysia</title>
     </programme>
     <programme start="20260202160000 +0000" stop="20260203160000 +0000" channel="Live 5.mewatch">
         <title>No Programme available now. Next Broadcast on 4th February, Wednesday 3.52am. Carabao Cup 2025/26</title>
     </programme>
     <programme start="20260203160000 +0000" stop="20260203195200 +0000" channel="Live 5.mewatch">
         <title>No Programme available now. Next Broadcast on 4th February, Wednesday 3.52am. Carabao Cup 2025/26</title>
+    </programme>
+    <programme start="20260202160000 +0000" stop="20260203160000 +0000" channel="Live 6.mewatch">
+        <title>No Programme available now. Next Broadcast on 7th February, Saturday 2.55am. Milano Cortina 2026 Winter Olympic Games</title>
+    </programme>
+    <programme start="20260203160000 +0000" stop="20260204160000 +0000" channel="Live 6.mewatch">
+        <title>No Programme available now. Next Broadcast on 7th February, Saturday 2.55am. Milano Cortina 2026 Winter Olympic Games</title>
     </programme>
