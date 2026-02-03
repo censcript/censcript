@@ -3961,14 +3961,17 @@
     <programme start="20260203153000 +0000" stop="20260203161500 +0000" channel="NHK World Premium HD.starhub">
         <title>Lifestyle Lab for The Prime Generation</title>
     </programme>
-    <programme start="20260202150000 +0000" stop="20260202171000 +0000" channel="HBO HD.starhub">
+    <programme start="20260202150000 +0000" stop="20260202164500 +0000" channel="HBO HD.starhub">
         <title>He&#039;s Just Not That Into You</title>
     </programme>
-    <programme start="20260202171000 +0000" stop="20260202184500 +0000" channel="HBO HD.starhub">
-        <title>Paranormal Activity 3</title>
+    <programme start="20260202164500 +0000" stop="20260202185500 +0000" channel="HBO HD.starhub">
+        <title>Dreamgirls</title>
     </programme>
-    <programme start="20260202184500 +0000" stop="20260202204500 +0000" channel="HBO HD.starhub">
+    <programme start="20260202185500 +0000" stop="20260202205500 +0000" channel="HBO HD.starhub">
         <title>American Beauty</title>
+    </programme>
+    <programme start="20260202205500 +0000" stop="20260202223000 +0000" channel="HBO HD.starhub">
+        <title>Paranormal Activity 3</title>
     </programme>
     <programme start="20260202223000 +0000" stop="20260203005500 +0000" channel="HBO HD.starhub">
         <title>In The Heights</title>
@@ -4677,9 +4680,6 @@
     </programme>
     <programme start="20260202170000 +0000" stop="20260202173000 +0000" channel="Vijay TV HD.starhub">
         <title>Siragadikka Aasai</title>
-    </programme>
-    <programme start="20260202173000 +0000" stop="20260202180000 +0000" channel="Vijay TV HD.starhub">
-        <title>Chinna Marumagal Panirendaam Vaguppu</title>
     </programme>
     <programme start="20260202180000 +0000" stop="20260202183000 +0000" channel="Vijay TV HD.starhub">
         <title>Kana Kandenadi</title>
