@@ -933,22 +933,19 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260203070000 +0000" stop="20260203081500 +0000" channel="DAZN 1 HD.skyde">
     <title>ALL IN - Die Bundesliga Highlight Show: 20. Spieltag</title>
 </programme>
-<programme start="20260203081500 +0000" stop="20260203083000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260203081500 +0000" stop="20260203085000 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20260203083000 +0000" stop="20260203103000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260203085000 +0000" stop="20260203105000 +0000" channel="DAZN 1 HD.skyde">
     <title>Bundesliga: Eintracht Frankfurt - Bayer 04 Leverkusen</title>
 </programme>
-<programme start="20260203103000 +0000" stop="20260203123000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260203105000 +0000" stop="20260203130500 +0000" channel="DAZN 1 HD.skyde">
     <title>Bundesliga: Borussia Dortmund - 1. FC Heidenheim</title>
 </programme>
-<programme start="20260203123000 +0000" stop="20260203130500 +0000" channel="DAZN 1 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
-</programme>
-<programme start="20260203130500 +0000" stop="20260203133500 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260203130500 +0000" stop="20260203132500 +0000" channel="DAZN 1 HD.skyde">
     <title>Decoded 2023/24: NFL: Berlin Game : Atlanta Falcons - Indianapolis Colts</title>
 </programme>
-<programme start="20260203133500 +0000" stop="20260203153000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260203132500 +0000" stop="20260203153000 +0000" channel="DAZN 1 HD.skyde">
     <title>Bundesliga: 1. FC Köln - VFL Wolfsburg</title>
 </programme>
 <programme start="20260203153000 +0000" stop="20260203160000 +0000" channel="DAZN 1 HD.skyde">
@@ -958,12 +955,9 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Bundesliga: Hamburger SV - FC Bayern München</title>
 </programme>
 <programme start="20260203180000 +0000" stop="20260203183000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
-</programme>
-<programme start="20260203183000 +0000" stop="20260203190000 +0000" channel="DAZN 1 HD.skyde">
     <title>Das Herz des deutschen Fußballs: Episode 1</title>
 </programme>
-<programme start="20260203190000 +0000" stop="20260203191000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260203183000 +0000" stop="20260203191000 +0000" channel="DAZN 1 HD.skyde">
     <title>Das Herz des deutschen Fußballs: Episode 2</title>
 </programme>
 <programme start="20260203191000 +0000" stop="20260203194000 +0000" channel="DAZN 1 HD.skyde">
@@ -975,11 +969,8 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260203215000 +0000" stop="20260203221500 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20260203221500 +0000" stop="20260203224500 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260203221500 +0000" stop="20260203230000 +0000" channel="DAZN 1 HD.skyde">
     <title>Doppelpack Europa - Highlights der Serie A und Ligue 1 2025/26: 23./20. Spieltag</title>
-</programme>
-<programme start="20260203224500 +0000" stop="20260203230000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
 </programme>
 <programme start="20260202230000 +0000" stop="20260203070000 +0000" channel="DAZN 2 HD.skyde">
     <title>Sendepause</title>
@@ -3106,7 +3097,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Live DFB-Pokal: Bayer Leverkusen - FC St. Pauli, Viertelfinale</title>
 </programme>
 <programme start="20260203223000 +0000" stop="20260203230000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live Sky Sport News: Late Night News</title>
+    <title>Sky Sport News: Late Night News</title>
 </programme>
 <programme start="20260202230000 +0000" stop="20260202233000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>EFL: Highlights, 30. Spieltag</title>
@@ -3213,7 +3204,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260203223000 +0000" stop="20260204003000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>Carabao Cup: FC Arsenal - FC Chelsea, Halbfinale Rückspiel</title>
 </programme>
-<programme start="20260203002500 +0000" stop="20260203021500 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260203001500 +0000" stop="20260203021500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 250: P. Martinez (ESP) - A. Mannarino (FRA), Open Occitanie in Montpellier (FRA), 1. Tag</title>
 </programme>
 <programme start="20260203021500 +0000" stop="20260203031500 +0000" channel="Sky Sport Tennis HD.skyde">

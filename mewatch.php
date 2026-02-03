@@ -571,11 +571,68 @@
     <programme start="20260203160000 +0000" stop="20260204160000 +0000" channel="spl02.mewatch">
         <title>No Programme available now. Next Broadcast on 15th February, Sunday 7.20pm. Singapore Premier League 2025/2026</title>
     </programme>
-    <programme start="20260202160000 +0000" stop="20260203160000 +0000" channel="now-80s.mewatch">
-        <title>Schedule To Be Announced</title>
+    <programme start="20260202162500 +0000" stop="20260202170000 +0000" channel="now-80s.mewatch">
+        <title>1989 Unleashed! - EP1</title>
     </programme>
-    <programme start="20260203160000 +0000" stop="20260204160000 +0000" channel="now-80s.mewatch">
-        <title>Schedule To Be Announced</title>
+    <programme start="20260202170000 +0000" stop="20260202173000 +0000" channel="now-80s.mewatch">
+        <title>Stock Aitken Waterman in the 80s! - EP1</title>
+    </programme>
+    <programme start="20260202173000 +0000" stop="20260202180000 +0000" channel="now-80s.mewatch">
+        <title>1987 Unleashed! - EP1</title>
+    </programme>
+    <programme start="20260202180000 +0000" stop="20260202202000 +0000" channel="now-80s.mewatch">
+        <title>Every Song From NOW 9 - 1987 - EP1</title>
+    </programme>
+    <programme start="20260202202000 +0000" stop="20260202210000 +0000" channel="now-80s.mewatch">
+        <title>1987 Unleashed! - EP1</title>
+    </programme>
+    <programme start="20260202210000 +0000" stop="20260202225000 +0000" channel="now-80s.mewatch">
+        <title>Cheryl Baker: Record Breaking Hits - EP1</title>
+    </programme>
+    <programme start="20260202225000 +0000" stop="20260202230000 +0000" channel="now-80s.mewatch">
+        <title>Chart Toppers! - EP1</title>
+    </programme>
+    <programme start="20260202230000 +0000" stop="20260203000000 +0000" channel="now-80s.mewatch">
+        <title>Simon Bates Golden Hour: 1985 - EP1</title>
+    </programme>
+    <programme start="20260203000000 +0000" stop="20260203010000 +0000" channel="now-80s.mewatch">
+        <title>Simon Bates Golden Hour: 1986 - EP1</title>
+    </programme>
+    <programme start="20260203010000 +0000" stop="20260203020000 +0000" channel="now-80s.mewatch">
+        <title>Simon Bates Golden Hour: 1987 - EP1</title>
+    </programme>
+    <programme start="20260203020000 +0000" stop="20260203030000 +0000" channel="now-80s.mewatch">
+        <title>Simon Bates Golden Hour: 1988 - EP1</title>
+    </programme>
+    <programme start="20260203030000 +0000" stop="20260203040000 +0000" channel="now-80s.mewatch">
+        <title>Simon Bates Golden Hour: 1989 - EP1</title>
+    </programme>
+    <programme start="20260203040000 +0000" stop="20260203054500 +0000" channel="now-80s.mewatch">
+        <title>Tiffany&#039;s 20 American Idols - EP1</title>
+    </programme>
+    <programme start="20260203054500 +0000" stop="20260203060000 +0000" channel="now-80s.mewatch">
+        <title>1984 Unleashed! - EP1</title>
+    </programme>
+    <programme start="20260203060000 +0000" stop="20260203083000 +0000" channel="now-80s.mewatch">
+        <title>Every Song From NOW 4 - 1984 - EP1</title>
+    </programme>
+    <programme start="20260203083000 +0000" stop="20260203090000 +0000" channel="now-80s.mewatch">
+        <title>1984 Unleashed! - EP1</title>
+    </programme>
+    <programme start="20260203090000 +0000" stop="20260203110500 +0000" channel="now-80s.mewatch">
+        <title>Paul Young&#039;s 25 Classic Covers! - EP1</title>
+    </programme>
+    <programme start="20260203110500 +0000" stop="20260203120000 +0000" channel="now-80s.mewatch">
+        <title>Turbo Trax! - EP1</title>
+    </programme>
+    <programme start="20260203120000 +0000" stop="20260203140000 +0000" channel="now-80s.mewatch">
+        <title>I Do Like To Be Beside the Seaside - EP1</title>
+    </programme>
+    <programme start="20260203140000 +0000" stop="20260203160000 +0000" channel="now-80s.mewatch">
+        <title>80s Stars - Then &amp; Now! - EP1</title>
+    </programme>
+    <programme start="20260203160000 +0000" stop="20260203170000 +0000" channel="now-80s.mewatch">
+        <title>Jason Donovan&#039;s 80s Pop Pin-Ups! - EP1</title>
     </programme>
     <programme start="20260202160000 +0000" stop="20260202210000 +0000" channel="now-70s.mewatch">
         <title>Bam&#039;s Power Hours! 1970-1979 - EP1</title>

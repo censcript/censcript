@@ -15537,9 +15537,9 @@
     <category lang="en">Motorsports</category>
   </programme>
   <programme start="20260202230000 +0000" stop="20260203010000 +0000" channel="spotv2.unifitv">
-    <title lang="en">(L) 2026 NASCAR Cup Series - Cook Out Clash</title>
-    <desc lang="en">Feel the adrenaline as NASCAR's top drivers battle wheel-to-wheel across iconic tracks, delivering high-speed action, bold overtakes, and championship drama all season long.</desc>
-    <category lang="en">Motorsports</category>
+    <title lang="en">25/26 A-League Men Round 15 - Sydney FC vs Western Sydney Wanderers FC</title>
+    <desc lang="en">Top flight men's soccer returns in the ISUZU UTE A-League Men. Catch every moment on SPOTV NOW as 12 teams compete in the regular season with top 4 advancing to a single-game knockout.</desc>
+    <category lang="en">Football</category>
   </programme>
   <programme start="20260203010000 +0000" stop="20260203015500 +0000" channel="spotv2.unifitv">
     <title lang="en">SailGP S6: Oracle Perth SailGP - Highlights</title>
@@ -15737,18 +15737,18 @@
     <desc lang="en">Catch every PSG match from Ligue 1 and Coupe de France amongst others only on beIN Sports</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260203003000 +0000" stop="20260203020000 +0000" channel="beinsports2.unifitv">
+  <programme start="20260203003000 +0000" stop="20260203023000 +0000" channel="beinsports2.unifitv">
+    <title lang="en">Australian Open - Quad Wheelchair Singles Final Vink v Schroder</title>
+    <desc lang="en">The 1st Grand Slam of the year kick start on beIN Sports as the world's best players battle it out to win the 114th edition of the Australian Open.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260203023000 +0000" stop="20260203040000 +0000" channel="beinsports2.unifitv">
     <title lang="en">Best of Australian Open - Women's Singles Rd 1 Paolini v Sasnovich</title>
     <desc lang="en">Catch the Best Matches from the Australian Open 2026</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260203020000 +0000" stop="20260203040000 +0000" channel="beinsports2.unifitv">
-    <title lang="en">Best of Australian Open - Men's Singles Rd 1 Zverev vs Diallo</title>
-    <desc lang="en">Catch the Best Matches from the Australian Open 2026</desc>
-    <category lang="en">Sports</category>
-  </programme>
   <programme start="20260203040000 +0000" stop="20260203060000 +0000" channel="beinsports2.unifitv">
-    <title lang="en">Best of Australian Open - Women's Singles Rd 1 Jacquemot v Kostyuk</title>
+    <title lang="en">Best of Australian Open - Men's Singles Rd 1 Zverev vs Diallo</title>
     <desc lang="en">Catch the Best Matches from the Australian Open 2026</desc>
     <category lang="en">Sports</category>
   </programme>
@@ -15788,7 +15788,7 @@
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260203100000 +0000" stop="20260203120000 +0000" channel="beinsports2.unifitv">
-    <title lang="en">Best of Australian Open - Mixed Doubles Final</title>
+    <title lang="en">Best of Australian Open - Mixed Doubles Final Gadecki/Peers v Mladenovic/Guinard</title>
     <desc lang="en">Catch the Best Matches from the Australian Open 2026</desc>
     <category lang="en">Sports</category>
   </programme>
