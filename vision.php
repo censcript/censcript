@@ -658,20 +658,20 @@
 <programme start="20260204114500 +0000" stop="20260204121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
+<programme start="20260202230000 +0000" stop="20260203010000 +0000" channel="ANTV.vision">
+<title>Gadis Bionik</title>
+</programme>
 <programme start="20260203010000 +0000" stop="20260203023000 +0000" channel="ANTV.vision">
 <title>Baalveer Returns</title>
+</programme>
+<programme start="20260203023000 +0000" stop="20260203060000 +0000" channel="ANTV.vision">
+<title>Mann</title>
 </programme>
 <programme start="20260203060000 +0000" stop="20260203083000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
 <programme start="20260203083000 +0000" stop="20260203130000 +0000" channel="ANTV.vision">
 <title>Vasudha</title>
-</programme>
-<programme start="20260203130000 +0000" stop="20260203143000 +0000" channel="ANTV.vision">
-<title>Samson &amp; Delilah</title>
-</programme>
-<programme start="20260203143000 +0000" stop="20260203163000 +0000" channel="ANTV.vision">
-<title>Jaka Sembung</title>
 </programme>
 <programme start="20260203163000 +0000" stop="20260203183000 +0000" channel="ANTV.vision">
 <title>Jaka Tuak</title>
@@ -689,13 +689,13 @@
 <title>Super Viral</title>
 </programme>
 <programme start="20260203230000 +0000" stop="20260204010000 +0000" channel="ANTV.vision">
-<title>Sinema Spesial</title>
+<title>Pendekar Mata Satu</title>
 </programme>
 <programme start="20260204010000 +0000" stop="20260204023000 +0000" channel="ANTV.vision">
 <title>Baalveer Returns</title>
 </programme>
 <programme start="20260204023000 +0000" stop="20260204060000 +0000" channel="ANTV.vision">
-<title>Antim: The Final Truth</title>
+<title>Kaho Naa Pyaar Hai</title>
 </programme>
 <programme start="20260204060000 +0000" stop="20260204083000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
