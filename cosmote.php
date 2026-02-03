@@ -58,10 +58,6 @@
     <title>Football: AZ Alkmaar - Jagiellonia</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260203100000 +0700" stop="20260203120000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Udinese - AS Roma</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260203120000 +0700" stop="20260203141000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Volos - AEL Novibet</title>
     <desc>Live: Tidak</desc>
@@ -234,6 +230,10 @@
     <title>Pick n&#039; Roll</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260204124500 +0700" stop="20260204145500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Murcia - Barcelona</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260203110000 +0700" stop="20260203120500 +0700" channel="COSMOTE Sport 5 HD">
     <title>Motorsports: Extreme E 2025</title>
     <desc>Live: Tidak</desc>
@@ -330,6 +330,10 @@
     <title>2025 FIM Women&#039;s Circuit Racing World Championship</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260204121000 +0700" stop="20260204130500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>2025 FIM Women&#039;s Circuit Racing World Championship</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260203110000 +0700" stop="20260203131000 +0700" channel="COSMOTE Sport 6 HD">
     <title>World Athletics Indoor Tour Gold 2026</title>
     <desc>Live: Tidak</desc>
@@ -384,6 +388,10 @@
 </programme>
 <programme start="20260204110000 +0700" stop="20260204123000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Topspin</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260204123000 +0700" stop="20260204132000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Sports Classics: 2025 Outdoor Specials</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260203110000 +0700" stop="20260203130000 +0700" channel="COSMOTE Sport 7 HD">

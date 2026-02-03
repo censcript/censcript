@@ -1414,7 +1414,39 @@
 <programme start="20260203150000 +0000" stop="20260203153000 +0000" channel="beIN SPORTS 4.mncvision">
     <title>beIN Sports 4</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260202190000 +0000" stop="20260202210000 +0000" channel="beIN SPORTS 5.mncvision">
+    <title>beIN Sports 5</title>
+</programme>
+<programme start="20260202210000 +0000" stop="20260202230000 +0000" channel="beIN SPORTS 5.mncvision">
+    <title>beIN Sports 5</title>
+</programme>
+<programme start="20260202230000 +0000" stop="20260203010000 +0000" channel="beIN SPORTS 5.mncvision">
+    <title>beIN Sports 5</title>
+</programme>
+<programme start="20260203010000 +0000" stop="20260203030000 +0000" channel="beIN SPORTS 5.mncvision">
+    <title>beIN Sports 5</title>
+</programme>
+<programme start="20260203030000 +0000" stop="20260203050000 +0000" channel="beIN SPORTS 5.mncvision">
+    <title>beIN Sports 5</title>
+</programme>
+<programme start="20260203050000 +0000" stop="20260203070000 +0000" channel="beIN SPORTS 5.mncvision">
+    <title>beIN Sports 5</title>
+</programme>
+<programme start="20260203070000 +0000" stop="20260203090000 +0000" channel="beIN SPORTS 5.mncvision">
+    <title>beIN Sports 5</title>
+</programme>
+<programme start="20260203090000 +0000" stop="20260203110000 +0000" channel="beIN SPORTS 5.mncvision">
+    <title>beIN Sports 5</title>
+</programme>
+<programme start="20260203110000 +0000" stop="20260203130000 +0000" channel="beIN SPORTS 5.mncvision">
+    <title>beIN Sports 5</title>
+</programme>
+<programme start="20260203130000 +0000" stop="20260203150000 +0000" channel="beIN SPORTS 5.mncvision">
+    <title>beIN Sports 5</title>
+</programme>
+<programme start="20260203150000 +0000" stop="20260203153000 +0000" channel="beIN SPORTS 5.mncvision">
+    <title>beIN Sports 5</title>
+</programme>
 <programme start="20260202170000 +0000" stop="20260202180000 +0000" channel="Bloomberg.mncvision">
     <title>Bloomberg ETF IQ</title>
 </programme>
@@ -8042,7 +8074,57 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260203153000 +0000" stop="20260203160000 +0000" channel="Sportstars.mncvision">
     <title>V-League 2025-2026 Men</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260202170000 +0000" stop="20260202190000 +0000" channel="Sportstars 2.mncvision">
+    <title>V-League</title>
+</programme>
+<programme start="20260202190000 +0000" stop="20260202210000 +0000" channel="Sportstars 2.mncvision">
+    <title>Best Of Megatron</title>
+</programme>
+<programme start="20260202210000 +0000" stop="20260202233000 +0000" channel="Sportstars 2.mncvision">
+    <title>Daihatsu Indonesia Masters 2026</title>
+</programme>
+<programme start="20260202233000 +0000" stop="20260203000000 +0000" channel="Sportstars 2.mncvision">
+    <title>Sportrivia</title>
+</programme>
+<programme start="20260203000000 +0000" stop="20260203003000 +0000" channel="Sportstars 2.mncvision">
+    <title>iNews Sport</title>
+</programme>
+<programme start="20260203003000 +0000" stop="20260203023000 +0000" channel="Sportstars 2.mncvision">
+    <title>AFC U23 Asian Cup Saudi Arabia</title>
+</programme>
+<programme start="20260203023000 +0000" stop="20260203030000 +0000" channel="Sportstars 2.mncvision">
+    <title>Sport Today</title>
+</programme>
+<programme start="20260203030000 +0000" stop="20260203050000 +0000" channel="Sportstars 2.mncvision">
+    <title>Best Of Megatron</title>
+</programme>
+<programme start="20260203050000 +0000" stop="20260203070000 +0000" channel="Sportstars 2.mncvision">
+    <title>V-League</title>
+</programme>
+<programme start="20260203070000 +0000" stop="20260203080000 +0000" channel="Sportstars 2.mncvision">
+    <title>IBA Mens World C&#039;ship 2025</title>
+</programme>
+<programme start="20260203080000 +0000" stop="20260203100000 +0000" channel="Sportstars 2.mncvision">
+    <title>AFC U23 Asian Cup Saudi Arabia</title>
+</programme>
+<programme start="20260203100000 +0000" stop="20260203120000 +0000" channel="Sportstars 2.mncvision">
+    <title>V-League Men (L)</title>
+</programme>
+<programme start="20260203120000 +0000" stop="20260203123000 +0000" channel="Sportstars 2.mncvision">
+    <title>Sport Today</title>
+</programme>
+<programme start="20260203123000 +0000" stop="20260203130000 +0000" channel="Sportstars 2.mncvision">
+    <title>iNews Sport</title>
+</programme>
+<programme start="20260203130000 +0000" stop="20260203150000 +0000" channel="Sportstars 2.mncvision">
+    <title>Best Of Megatron</title>
+</programme>
+<programme start="20260203150000 +0000" stop="20260203153000 +0000" channel="Sportstars 2.mncvision">
+    <title>Top Goals</title>
+</programme>
+<programme start="20260203153000 +0000" stop="20260203160000 +0000" channel="Sportstars 2.mncvision">
+    <title>IBA Mens World C&#039;ship 2025</title>
+</programme>
 <programme start="20260202170000 +0000" stop="20260202190000 +0000" channel="Sportstars 2 HD.mncvision">
     <title>V-League</title>
 </programme>
@@ -8094,8 +8176,96 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260203153000 +0000" stop="20260203160000 +0000" channel="Sportstars 2 HD.mncvision">
     <title>IBA Mens World C&#039;ship 2025</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260202170000 +0000" stop="20260202190000 +0000" channel="Sportstars 3.mncvision">
+    <title>Bundesliga</title>
+</programme>
+<programme start="20260202190000 +0000" stop="20260202210000 +0000" channel="Sportstars 3.mncvision">
+    <title>BRI Liga 1</title>
+</programme>
+<programme start="20260202210000 +0000" stop="20260202230000 +0000" channel="Sportstars 3.mncvision">
+    <title>European Qualifiers</title>
+</programme>
+<programme start="20260202230000 +0000" stop="20260203010000 +0000" channel="Sportstars 3.mncvision">
+    <title>Bundesliga</title>
+</programme>
+<programme start="20260203010000 +0000" stop="20260203030000 +0000" channel="Sportstars 3.mncvision">
+    <title>Liga 2</title>
+</programme>
+<programme start="20260203030000 +0000" stop="20260203050000 +0000" channel="Sportstars 3.mncvision">
+    <title>BRI Liga 1</title>
+</programme>
+<programme start="20260203050000 +0000" stop="20260203070000 +0000" channel="Sportstars 3.mncvision">
+    <title>Bundesliga</title>
+</programme>
+<programme start="20260203070000 +0000" stop="20260203090000 +0000" channel="Sportstars 3.mncvision">
+    <title>European Qualifiers</title>
+</programme>
+<programme start="20260203090000 +0000" stop="20260203110000 +0000" channel="Sportstars 3.mncvision">
+    <title>Liga 2</title>
+</programme>
+<programme start="20260203110000 +0000" stop="20260203113000 +0000" channel="Sportstars 3.mncvision">
+    <title>Top Goals</title>
+</programme>
+<programme start="20260203113000 +0000" stop="20260203120000 +0000" channel="Sportstars 3.mncvision">
+    <title>Planet Football</title>
+</programme>
+<programme start="20260203120000 +0000" stop="20260203140000 +0000" channel="Sportstars 3.mncvision">
+    <title>AFC Futsal Cup: IDN Vs VIE (L)</title>
+</programme>
+<programme start="20260203140000 +0000" stop="20260203143000 +0000" channel="Sportstars 3.mncvision">
+    <title>Top Goals</title>
+</programme>
+<programme start="20260203143000 +0000" stop="20260203150000 +0000" channel="Sportstars 3.mncvision">
+    <title>Planet Football</title>
+</programme>
+<programme start="20260203150000 +0000" stop="20260203153000 +0000" channel="Sportstars 3.mncvision">
+    <title>Liga 2</title>
+</programme>
+<programme start="20260202170000 +0000" stop="20260202190000 +0000" channel="sportstars 3 HD.mncvision">
+    <title>Bundesliga</title>
+</programme>
+<programme start="20260202190000 +0000" stop="20260202210000 +0000" channel="sportstars 3 HD.mncvision">
+    <title>BRI Liga 1</title>
+</programme>
+<programme start="20260202210000 +0000" stop="20260202230000 +0000" channel="sportstars 3 HD.mncvision">
+    <title>European Qualifiers</title>
+</programme>
+<programme start="20260202230000 +0000" stop="20260203010000 +0000" channel="sportstars 3 HD.mncvision">
+    <title>Bundesliga</title>
+</programme>
+<programme start="20260203010000 +0000" stop="20260203030000 +0000" channel="sportstars 3 HD.mncvision">
+    <title>Liga 2</title>
+</programme>
+<programme start="20260203030000 +0000" stop="20260203050000 +0000" channel="sportstars 3 HD.mncvision">
+    <title>BRI Liga 1</title>
+</programme>
+<programme start="20260203050000 +0000" stop="20260203070000 +0000" channel="sportstars 3 HD.mncvision">
+    <title>Bundesliga</title>
+</programme>
+<programme start="20260203070000 +0000" stop="20260203090000 +0000" channel="sportstars 3 HD.mncvision">
+    <title>European Qualifiers</title>
+</programme>
+<programme start="20260203090000 +0000" stop="20260203110000 +0000" channel="sportstars 3 HD.mncvision">
+    <title>Liga 2</title>
+</programme>
+<programme start="20260203110000 +0000" stop="20260203113000 +0000" channel="sportstars 3 HD.mncvision">
+    <title>Top Goals</title>
+</programme>
+<programme start="20260203113000 +0000" stop="20260203120000 +0000" channel="sportstars 3 HD.mncvision">
+    <title>Planet Football</title>
+</programme>
+<programme start="20260203120000 +0000" stop="20260203140000 +0000" channel="sportstars 3 HD.mncvision">
+    <title>AFC Futsal Cup: IDN Vs VIE (L)</title>
+</programme>
+<programme start="20260203140000 +0000" stop="20260203143000 +0000" channel="sportstars 3 HD.mncvision">
+    <title>Top Goals</title>
+</programme>
+<programme start="20260203143000 +0000" stop="20260203150000 +0000" channel="sportstars 3 HD.mncvision">
+    <title>Planet Football</title>
+</programme>
+<programme start="20260203150000 +0000" stop="20260203153000 +0000" channel="sportstars 3 HD.mncvision">
+    <title>Liga 2</title>
+</programme>
 <programme start="20260202170000 +0000" stop="20260202190000 +0000" channel="Sportstars 4.mncvision">
     <title>Bundesliga</title>
 </programme>
@@ -8279,10 +8449,204 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260203160000 +0000" stop="20260203163000 +0000" channel="SPOTV.mncvision">
     <title>25/26 Roshn Saudi League</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260202170000 +0000" stop="20260202180000 +0000" channel="SPOTV 2.mncvision">
+    <title>SailGP S6: Oracle Perth</title>
+</programme>
+<programme start="20260202180000 +0000" stop="20260202190000 +0000" channel="SPOTV 2.mncvision">
+    <title>MotoGP Classic: Brno 125cc</title>
+</programme>
+<programme start="20260202190000 +0000" stop="20260202200000 +0000" channel="SPOTV 2.mncvision">
+    <title>MotoGP Classic: Brno 125cc</title>
+</programme>
+<programme start="20260202200000 +0000" stop="20260202203000 +0000" channel="SPOTV 2.mncvision">
+    <title>2025/26 ALM Mini Match</title>
+</programme>
+<programme start="20260202203000 +0000" stop="20260202213000 +0000" channel="SPOTV 2.mncvision">
+    <title>MotoGP Classic: Sachsenring</title>
+</programme>
+<programme start="20260202213000 +0000" stop="20260202220000 +0000" channel="SPOTV 2.mncvision">
+    <title>2025/26 A-League Men HL</title>
+</programme>
+<programme start="20260202220000 +0000" stop="20260202230000 +0000" channel="SPOTV 2.mncvision">
+    <title>MotoGP 2026 Team Presentation</title>
+</programme>
+<programme start="20260202230000 +0000" stop="20260203010000 +0000" channel="SPOTV 2.mncvision">
+    <title>A-League Men: SYD Vs WSW</title>
+</programme>
+<programme start="20260203010000 +0000" stop="20260203015500 +0000" channel="SPOTV 2.mncvision">
+    <title>SailGP S6: Oracle Perth</title>
+</programme>
+<programme start="20260203015500 +0000" stop="20260203023000 +0000" channel="SPOTV 2.mncvision">
+    <title>MotoGP 2026 Team Presentation</title>
+</programme>
+<programme start="20260203023000 +0000" stop="20260203043000 +0000" channel="SPOTV 2.mncvision">
+    <title>A-League Men: WEL Vs MCY</title>
+</programme>
+<programme start="20260203043000 +0000" stop="20260203063000 +0000" channel="SPOTV 2.mncvision">
+    <title>A-League Men: PER Vs AFC</title>
+</programme>
+<programme start="20260203063000 +0000" stop="20260203103000 +0000" channel="SPOTV 2.mncvision">
+    <title>Reserve Cup Series Miami 2026</title>
+</programme>
+<programme start="20260203103000 +0000" stop="20260203110000 +0000" channel="SPOTV 2.mncvision">
+    <title>2025/26 ALM Mini Match</title>
+</programme>
+<programme start="20260203110000 +0000" stop="20260203113000 +0000" channel="SPOTV 2.mncvision">
+    <title>2025/26 ALM Mini Match</title>
+</programme>
+<programme start="20260203113000 +0000" stop="20260203123500 +0000" channel="SPOTV 2.mncvision">
+    <title>MotoGP Classic: Sachsenring</title>
+</programme>
+<programme start="20260203123500 +0000" stop="20260203133500 +0000" channel="SPOTV 2.mncvision">
+    <title>MotoGP Classic: Sentul 500cc</title>
+</programme>
+<programme start="20260203133500 +0000" stop="20260203141500 +0000" channel="SPOTV 2.mncvision">
+    <title>MotoGP 2026 Team Presentation</title>
+</programme>
+<programme start="20260203141500 +0000" stop="20260203161000 +0000" channel="SPOTV 2.mncvision">
+    <title>A-League Men: SYD Vs WSW</title>
+</programme>
+<programme start="20260203161000 +0000" stop="20260203164000 +0000" channel="SPOTV 2.mncvision">
+    <title>GTour Women&#039;s Championship</title>
+</programme>
+<programme start="20260202170000 +0000" stop="20260202180000 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>SailGP S6: Oracle Perth</title>
+</programme>
+<programme start="20260202180000 +0000" stop="20260202190000 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>MotoGP Classic: Brno 125cc</title>
+</programme>
+<programme start="20260202190000 +0000" stop="20260202200000 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>MotoGP Classic: Brno 125cc</title>
+</programme>
+<programme start="20260202200000 +0000" stop="20260202203000 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>2025/26 ALM Mini Match</title>
+</programme>
+<programme start="20260202203000 +0000" stop="20260202213000 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>MotoGP Classic: Sachsenring</title>
+</programme>
+<programme start="20260202213000 +0000" stop="20260202220000 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>2025/26 A-League Men HL</title>
+</programme>
+<programme start="20260202220000 +0000" stop="20260202230000 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>MotoGP 2026 Team Presentation</title>
+</programme>
+<programme start="20260202230000 +0000" stop="20260203010000 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>A-League Men: SYD Vs WSW</title>
+</programme>
+<programme start="20260203010000 +0000" stop="20260203015500 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>SailGP S6: Oracle Perth</title>
+</programme>
+<programme start="20260203015500 +0000" stop="20260203023000 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>MotoGP 2026 Team Presentation</title>
+</programme>
+<programme start="20260203023000 +0000" stop="20260203043000 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>A-League Men: WEL Vs MCY</title>
+</programme>
+<programme start="20260203043000 +0000" stop="20260203063000 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>A-League Men: PER Vs AFC</title>
+</programme>
+<programme start="20260203063000 +0000" stop="20260203103000 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>Reserve Cup Series Miami 2026</title>
+</programme>
+<programme start="20260203103000 +0000" stop="20260203110000 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>2025/26 ALM Mini Match</title>
+</programme>
+<programme start="20260203110000 +0000" stop="20260203113000 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>2025/26 ALM Mini Match</title>
+</programme>
+<programme start="20260203113000 +0000" stop="20260203123500 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>MotoGP Classic: Sachsenring</title>
+</programme>
+<programme start="20260203123500 +0000" stop="20260203133500 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>MotoGP Classic: Sentul 500cc</title>
+</programme>
+<programme start="20260203133500 +0000" stop="20260203141500 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>MotoGP 2026 Team Presentation</title>
+</programme>
+<programme start="20260203141500 +0000" stop="20260203161000 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>A-League Men: SYD Vs WSW</title>
+</programme>
+<programme start="20260203161000 +0000" stop="20260203164000 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>GTour Women&#039;s Championship</title>
+</programme>
+<programme start="20260202171500 +0000" stop="20260202193000 +0000" channel="SPOTV HD.mncvision">
+    <title>25/26 Roshn Saudi League (L)</title>
+</programme>
+<programme start="20260202193000 +0000" stop="20260202200000 +0000" channel="SPOTV HD.mncvision">
+    <title>ALM Mini Match: WEL Vs MCY</title>
+</programme>
+<programme start="20260202200000 +0000" stop="20260202203000 +0000" channel="SPOTV HD.mncvision">
+    <title>ALM Mini Match: SYD Vs WSW</title>
+</programme>
+<programme start="20260202203000 +0000" stop="20260202223000 +0000" channel="SPOTV HD.mncvision">
+    <title>25/26 Scottish Premiership</title>
+</programme>
+<programme start="20260202223000 +0000" stop="20260202233000 +0000" channel="SPOTV HD.mncvision">
+    <title>E1 World C&#039;ship &#039;26: Jeddah</title>
+</programme>
+<programme start="20260202233000 +0000" stop="20260203013000 +0000" channel="SPOTV HD.mncvision">
+    <title>25/26 Roshn Saudi League</title>
+</programme>
+<programme start="20260203013000 +0000" stop="20260203033000 +0000" channel="SPOTV HD.mncvision">
+    <title>A-League Men: CCM Vs MVC</title>
+</programme>
+<programme start="20260203033000 +0000" stop="20260203081500 +0000" channel="SPOTV HD.mncvision">
+    <title>Asian Le Mans Series: Sepang</title>
+</programme>
+<programme start="20260203081500 +0000" stop="20260203130000 +0000" channel="SPOTV HD.mncvision">
+    <title>Asian Le Mans Series: Sepang</title>
+</programme>
+<programme start="20260203130000 +0000" stop="20260203150000 +0000" channel="SPOTV HD.mncvision">
+    <title>25/26 Roshn Saudi League</title>
+</programme>
+<programme start="20260203150000 +0000" stop="20260203160000 +0000" channel="SPOTV HD.mncvision">
+    <title>Formula E S12: Miami E-Prix HL</title>
+</programme>
+<programme start="20260203160000 +0000" stop="20260203163000 +0000" channel="SPOTV HD.mncvision">
+    <title>25/26 Roshn Saudi League</title>
+</programme>
+<programme start="20260202170500 +0000" stop="20260202185000 +0000" channel="Studio Universal.mncvision">
+    <title>The Croods</title>
+</programme>
+<programme start="20260202185000 +0000" stop="20260202202500 +0000" channel="Studio Universal.mncvision">
+    <title>Trolls</title>
+</programme>
+<programme start="20260202202500 +0000" stop="20260202211500 +0000" channel="Studio Universal.mncvision">
+    <title>Defying Gravity: The Curtain...</title>
+</programme>
+<programme start="20260202211500 +0000" stop="20260202230000 +0000" channel="Studio Universal.mncvision">
+    <title>Sixteen Candles</title>
+</programme>
+<programme start="20260202230000 +0000" stop="20260203005000 +0000" channel="Studio Universal.mncvision">
+    <title>Wanted</title>
+</programme>
+<programme start="20260203005000 +0000" stop="20260203023500 +0000" channel="Studio Universal.mncvision">
+    <title>The Croods</title>
+</programme>
+<programme start="20260203023500 +0000" stop="20260203041000 +0000" channel="Studio Universal.mncvision">
+    <title>Trolls</title>
+</programme>
+<programme start="20260203041000 +0000" stop="20260203055500 +0000" channel="Studio Universal.mncvision">
+    <title>Sixteen Candles</title>
+</programme>
+<programme start="20260203055500 +0000" stop="20260203074500 +0000" channel="Studio Universal.mncvision">
+    <title>Wanted</title>
+</programme>
+<programme start="20260203074500 +0000" stop="20260203091500 +0000" channel="Studio Universal.mncvision">
+    <title>Beethoven</title>
+</programme>
+<programme start="20260203091500 +0000" stop="20260203110000 +0000" channel="Studio Universal.mncvision">
+    <title>Intolerable Cruelty</title>
+</programme>
+<programme start="20260203110000 +0000" stop="20260203140500 +0000" channel="Studio Universal.mncvision">
+    <title>Casino</title>
+</programme>
+<programme start="20260203140500 +0000" stop="20260203154500 +0000" channel="Studio Universal.mncvision">
+    <title>Role Models</title>
+</programme>
+<programme start="20260203154500 +0000" stop="20260203161500 +0000" channel="Studio Universal.mncvision">
+    <title>Beethoven</title>
+</programme>
 <programme start="20260202170500 +0000" stop="20260202185000 +0000" channel="Studio Universal HD.mncvision">
     <title>The Croods</title>
 </programme>
