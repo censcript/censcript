@@ -2754,10 +2754,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260203122000 +0000" stop="20260203125000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA CL: Magazin</title>
 </programme>
-<programme start="20260203125000 +0000" stop="20260203145500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260203125000 +0000" stop="20260203150000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Live UEFA Youth League: AZ Alkmaar - Borussia Dortmund, Achtelfinale</title>
 </programme>
-<programme start="20260203145500 +0000" stop="20260203165500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260203150000 +0000" stop="20260203165500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Live UEFA Youth League: Real Madrid - Olympique Marseille, Achtelfinale</title>
 </programme>
 <programme start="20260203165500 +0000" stop="20260203190000 +0000" channel="Sky Sport Austria 1 HD.skyde">
@@ -3312,13 +3312,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260203000000 +0000" stop="20260203003000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime</title>
 </programme>
-<programme start="20260203003000 +0000" stop="20260203030000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260203003000 +0000" stop="20260203032000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Minnesota Timberwolves @ Memphis Grizzlies</title>
 </programme>
-<programme start="20260203030000 +0000" stop="20260203053000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260203032000 +0000" stop="20260203054000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Philadelphia 76ers @ LA Clippers</title>
 </programme>
-<programme start="20260203053000 +0000" stop="20260203090000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260203054000 +0000" stop="20260203061500 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime - Post Show</title>
 </programme>
 <programme start="20260203185500 +0000" stop="20260203191500 +0000" channel="Sky Sport 1 HD.skyde">
@@ -3330,7 +3330,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260203084000 +0000" stop="20260203090000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Es folgt: Live Tennis WTA Tour</title>
 </programme>
-<programme start="20260203090000 +0000" stop="20260203170000 +0000" channel="Sky Sport 2 HD.skyde">
+<programme start="20260203090000 +0000" stop="20260203190000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live WTA 500: Mubadala Abu Dhabi Open in Abu Dhabi (VAE), 3. Tag</title>
 </programme>
 <programme start="20260202231500 +0000" stop="20260203000000 +0000" channel="SYFY HD.skyde">
