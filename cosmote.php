@@ -58,10 +58,6 @@
     <title>Football: Manchester City FC - Galatasaray AS</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260203160500 +0700" stop="20260203180000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Udinese - AS Roma</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260203180000 +0700" stop="20260203200500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Panathinaikos - Kifisia</title>
     <desc>Live: Tidak</desc>
@@ -336,6 +332,10 @@
 </programme>
 <programme start="20260204174000 +0700" stop="20260204183500 +0700" channel="COSMOTE Sport 5 HD">
     <title>2025 GT World Challenge Europe</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260204183500 +0700" stop="20260204193500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>DTM</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260203150000 +0700" stop="20260203190000 +0700" channel="COSMOTE Sport 6 HD">

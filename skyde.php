@@ -933,22 +933,19 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260203070000 +0000" stop="20260203081500 +0000" channel="DAZN 1 HD.skyde">
     <title>ALL IN - Die Bundesliga Highlight Show: 20. Spieltag</title>
 </programme>
-<programme start="20260203081500 +0000" stop="20260203083000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260203081500 +0000" stop="20260203085000 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20260203083000 +0000" stop="20260203103000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260203085000 +0000" stop="20260203105000 +0000" channel="DAZN 1 HD.skyde">
     <title>Bundesliga: Eintracht Frankfurt - Bayer 04 Leverkusen</title>
 </programme>
-<programme start="20260203103000 +0000" stop="20260203123000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260203105000 +0000" stop="20260203130500 +0000" channel="DAZN 1 HD.skyde">
     <title>Bundesliga: Borussia Dortmund - 1. FC Heidenheim</title>
 </programme>
-<programme start="20260203123000 +0000" stop="20260203130500 +0000" channel="DAZN 1 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
-</programme>
-<programme start="20260203130500 +0000" stop="20260203133500 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260203130500 +0000" stop="20260203132500 +0000" channel="DAZN 1 HD.skyde">
     <title>Decoded 2023/24: NFL: Berlin Game : Atlanta Falcons - Indianapolis Colts</title>
 </programme>
-<programme start="20260203133500 +0000" stop="20260203153000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260203132500 +0000" stop="20260203153000 +0000" channel="DAZN 1 HD.skyde">
     <title>Bundesliga: 1. FC Köln - VFL Wolfsburg</title>
 </programme>
 <programme start="20260203153000 +0000" stop="20260203160000 +0000" channel="DAZN 1 HD.skyde">
@@ -958,12 +955,9 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Bundesliga: Hamburger SV - FC Bayern München</title>
 </programme>
 <programme start="20260203180000 +0000" stop="20260203183000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
-</programme>
-<programme start="20260203183000 +0000" stop="20260203190000 +0000" channel="DAZN 1 HD.skyde">
     <title>Das Herz des deutschen Fußballs: Episode 1</title>
 </programme>
-<programme start="20260203190000 +0000" stop="20260203191000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260203183000 +0000" stop="20260203191000 +0000" channel="DAZN 1 HD.skyde">
     <title>Das Herz des deutschen Fußballs: Episode 2</title>
 </programme>
 <programme start="20260203191000 +0000" stop="20260203194000 +0000" channel="DAZN 1 HD.skyde">
@@ -975,11 +969,8 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260203215000 +0000" stop="20260203221500 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20260203221500 +0000" stop="20260203224500 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260203221500 +0000" stop="20260203230000 +0000" channel="DAZN 1 HD.skyde">
     <title>Doppelpack Europa - Highlights der Serie A und Ligue 1 2025/26: 23./20. Spieltag</title>
-</programme>
-<programme start="20260203224500 +0000" stop="20260203230000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
 </programme>
 <programme start="20260202230000 +0000" stop="20260203070000 +0000" channel="DAZN 2 HD.skyde">
     <title>Sendepause</title>
@@ -3249,10 +3240,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260203003000 +0000" stop="20260203032000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Minnesota Timberwolves @ Memphis Grizzlies</title>
 </programme>
-<programme start="20260203032000 +0000" stop="20260203053000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260203032000 +0000" stop="20260203054000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Philadelphia 76ers @ LA Clippers</title>
 </programme>
-<programme start="20260203053000 +0000" stop="20260203060000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260203054000 +0000" stop="20260203060000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Showtime - Post Show</title>
 </programme>
 <programme start="20260203060000 +0000" stop="20260203061500 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3321,13 +3312,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260203000000 +0000" stop="20260203003000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime</title>
 </programme>
-<programme start="20260203003000 +0000" stop="20260203030000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260203003000 +0000" stop="20260203032000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Minnesota Timberwolves @ Memphis Grizzlies</title>
 </programme>
-<programme start="20260203030000 +0000" stop="20260203053000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260203032000 +0000" stop="20260203054000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Philadelphia 76ers @ LA Clippers</title>
 </programme>
-<programme start="20260203053000 +0000" stop="20260203090000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260203054000 +0000" stop="20260203061500 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime - Post Show</title>
 </programme>
 <programme start="20260203185500 +0000" stop="20260203191500 +0000" channel="Sky Sport 1 HD.skyde">
@@ -3726,16 +3717,16 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260203022000 +0000" stop="20260203050000 +0000" channel="Warner TV Film.skyde">
     <title>Das Land des Regenbaums</title>
 </programme>
-<programme start="20260203050000 +0000" stop="20260203070000 +0000" channel="Warner TV Film.skyde">
+<programme start="20260203050000 +0000" stop="20260203070500 +0000" channel="Warner TV Film.skyde">
     <title>Batman Forever</title>
 </programme>
-<programme start="20260203070000 +0000" stop="20260203085000 +0000" channel="Warner TV Film.skyde">
+<programme start="20260203070500 +0000" stop="20260203085000 +0000" channel="Warner TV Film.skyde">
     <title>Die sechs Verdächtigen</title>
 </programme>
-<programme start="20260203085000 +0000" stop="20260203103000 +0000" channel="Warner TV Film.skyde">
+<programme start="20260203085000 +0000" stop="20260203103500 +0000" channel="Warner TV Film.skyde">
     <title>Ehekrieg</title>
 </programme>
-<programme start="20260203103000 +0000" stop="20260203140000 +0000" channel="Warner TV Film.skyde">
+<programme start="20260203103500 +0000" stop="20260203140000 +0000" channel="Warner TV Film.skyde">
     <title>Ben-Hur</title>
 </programme>
 <programme start="20260203140000 +0000" stop="20260203153500 +0000" channel="Warner TV Film.skyde">

@@ -665,7 +665,7 @@
 <title>Baalveer Returns</title>
 </programme>
 <programme start="20260203023000 +0000" stop="20260203060000 +0000" channel="ANTV.vision">
-<title>Mann</title>
+<title>Bade Miyan Chote Miyan</title>
 </programme>
 <programme start="20260203060000 +0000" stop="20260203083000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
@@ -695,13 +695,13 @@
 <title>Super Viral</title>
 </programme>
 <programme start="20260203230000 +0000" stop="20260204010000 +0000" channel="ANTV.vision">
-<title>Pendekar Mata Satu</title>
+<title>Sinema Spesial</title>
 </programme>
 <programme start="20260204010000 +0000" stop="20260204023000 +0000" channel="ANTV.vision">
 <title>Baalveer Returns</title>
 </programme>
 <programme start="20260204023000 +0000" stop="20260204060000 +0000" channel="ANTV.vision">
-<title>Kaho Naa Pyaar Hai</title>
+<title>Antim: The Final Truth</title>
 </programme>
 <programme start="20260204060000 +0000" stop="20260204083000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>

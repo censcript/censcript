@@ -7444,6 +7444,96 @@
 <programme start="20260203163000 +0000" stop="20260202170000 +0000" channel="Outdoor channel HD.mncvision">
     <title>Gold Fever S4, Ep 10</title>
 </programme>
+<programme start="20260202170000 +0000" stop="20260202190000 +0000" channel="RCTI.mncvision">
+    <title>Dadang Dudung</title>
+</programme>
+<programme start="20260202190000 +0000" stop="20260202223000 +0000" channel="RCTI.mncvision">
+    <title>Preman Pensiun</title>
+</programme>
+<programme start="20260202223000 +0000" stop="20260202233000 +0000" channel="RCTI.mncvision">
+    <title>Go Spot</title>
+</programme>
+<programme start="20260202233000 +0000" stop="20260203010000 +0000" channel="RCTI.mncvision">
+    <title>Upin Ipin</title>
+</programme>
+<programme start="20260203010000 +0000" stop="20260203013000 +0000" channel="RCTI.mncvision">
+    <title>Kiko</title>
+</programme>
+<programme start="20260203013000 +0000" stop="20260203033000 +0000" channel="RCTI.mncvision">
+    <title>Dahsyat (L)</title>
+</programme>
+<programme start="20260203033000 +0000" stop="20260203043000 +0000" channel="RCTI.mncvision">
+    <title>Silet</title>
+</programme>
+<programme start="20260203043000 +0000" stop="20260203050000 +0000" channel="RCTI.mncvision">
+    <title>Seputar iNews Siang</title>
+</programme>
+<programme start="20260203050000 +0000" stop="20260203070000 +0000" channel="RCTI.mncvision">
+    <title>Amanah Wali S5</title>
+</programme>
+<programme start="20260203070000 +0000" stop="20260203083000 +0000" channel="RCTI.mncvision">
+    <title>Preman Pensiun S4</title>
+</programme>
+<programme start="20260203083000 +0000" stop="20260203100000 +0000" channel="RCTI.mncvision">
+    <title>Pewaris Romantis</title>
+</programme>
+<programme start="20260203100000 +0000" stop="20260203113000 +0000" channel="RCTI.mncvision">
+    <title>Aira</title>
+</programme>
+<programme start="20260203113000 +0000" stop="20260203131500 +0000" channel="RCTI.mncvision">
+    <title>Mencintai Ipar Sendiri</title>
+</programme>
+<programme start="20260203131500 +0000" stop="20260203150000 +0000" channel="RCTI.mncvision">
+    <title>Cinta Sepenuh Jiwa</title>
+</programme>
+<programme start="20260203150000 +0000" stop="20260203153000 +0000" channel="RCTI.mncvision">
+    <title>Istri Sewaan</title>
+</programme>
+<programme start="20260202170000 +0000" stop="20260202190000 +0000" channel="RCTI HD.mncvision">
+    <title>Dadang Dudung</title>
+</programme>
+<programme start="20260202190000 +0000" stop="20260202223000 +0000" channel="RCTI HD.mncvision">
+    <title>Preman Pensiun</title>
+</programme>
+<programme start="20260202223000 +0000" stop="20260202233000 +0000" channel="RCTI HD.mncvision">
+    <title>Go Spot</title>
+</programme>
+<programme start="20260202233000 +0000" stop="20260203010000 +0000" channel="RCTI HD.mncvision">
+    <title>Upin Ipin</title>
+</programme>
+<programme start="20260203010000 +0000" stop="20260203013000 +0000" channel="RCTI HD.mncvision">
+    <title>Kiko</title>
+</programme>
+<programme start="20260203013000 +0000" stop="20260203033000 +0000" channel="RCTI HD.mncvision">
+    <title>Dahsyat (L)</title>
+</programme>
+<programme start="20260203033000 +0000" stop="20260203043000 +0000" channel="RCTI HD.mncvision">
+    <title>Silet</title>
+</programme>
+<programme start="20260203043000 +0000" stop="20260203050000 +0000" channel="RCTI HD.mncvision">
+    <title>Seputar iNews Siang</title>
+</programme>
+<programme start="20260203050000 +0000" stop="20260203070000 +0000" channel="RCTI HD.mncvision">
+    <title>Amanah Wali S5</title>
+</programme>
+<programme start="20260203070000 +0000" stop="20260203083000 +0000" channel="RCTI HD.mncvision">
+    <title>Preman Pensiun S4</title>
+</programme>
+<programme start="20260203083000 +0000" stop="20260203100000 +0000" channel="RCTI HD.mncvision">
+    <title>Pewaris Romantis</title>
+</programme>
+<programme start="20260203100000 +0000" stop="20260203113000 +0000" channel="RCTI HD.mncvision">
+    <title>Aira</title>
+</programme>
+<programme start="20260203113000 +0000" stop="20260203131500 +0000" channel="RCTI HD.mncvision">
+    <title>Mencintai Ipar Sendiri</title>
+</programme>
+<programme start="20260203131500 +0000" stop="20260203150000 +0000" channel="RCTI HD.mncvision">
+    <title>Cinta Sepenuh Jiwa</title>
+</programme>
+<programme start="20260203150000 +0000" stop="20260203153000 +0000" channel="RCTI HD.mncvision">
+    <title>Istri Sewaan</title>
+</programme>
 <programme start="20260202173500 +0000" stop="20260202190500 +0000" channel="Rock Action.mncvision">
     <title>Ring Of Fire, Pt 1</title>
 </programme>
