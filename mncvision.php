@@ -7691,7 +7691,7 @@
     <title>Cintaku Divermak Jelita</title>
 </programme>
 <programme start="20260203030000 +0000" stop="20260203050000 +0000" channel="SCTV.mncvision">
-    <title>Emang Boleh Gebetan Segemes...</title>
+    <title>Emang Boleh Gebetan...</title>
 </programme>
 <programme start="20260203050000 +0000" stop="20260203053000 +0000" channel="SCTV.mncvision">
     <title>Liputan 6 Siang (L)</title>
@@ -7748,7 +7748,7 @@
     <title>Cintaku Divermak Jelita</title>
 </programme>
 <programme start="20260203030000 +0000" stop="20260203050000 +0000" channel="SCTV HD.mncvision">
-    <title>Emang Boleh Gebetan Segemes...</title>
+    <title>Emang Boleh Gebetan...</title>
 </programme>
 <programme start="20260203050000 +0000" stop="20260203053000 +0000" channel="SCTV HD.mncvision">
     <title>Liputan 6 Siang (L)</title>
