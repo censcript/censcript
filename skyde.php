@@ -3097,7 +3097,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Live DFB-Pokal: Bayer Leverkusen - FC St. Pauli, Viertelfinale</title>
 </programme>
 <programme start="20260203223000 +0000" stop="20260203230000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Sky Sport News: Late Night News</title>
+    <title>Live Sky Sport News: Late Night News</title>
 </programme>
 <programme start="20260202230000 +0000" stop="20260202233000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>EFL: Highlights, 30. Spieltag</title>
@@ -3234,10 +3234,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260203000000 +0000" stop="20260203003000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Showtime</title>
 </programme>
-<programme start="20260203003000 +0000" stop="20260203030000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260203003000 +0000" stop="20260203032000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Minnesota Timberwolves @ Memphis Grizzlies</title>
 </programme>
-<programme start="20260203030000 +0000" stop="20260203053000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260203032000 +0000" stop="20260203053000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Philadelphia 76ers @ LA Clippers</title>
 </programme>
 <programme start="20260203053000 +0000" stop="20260203060000 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3303,31 +3303,31 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260203213000 +0000" stop="20260203233000 +0000" channel="Sky Sport UHD.skyde">
     <title>F1: Rennen - GP Mexiko</title>
 </programme>
-<programme start="20260202234000 +0000" stop="20260203000000 +0000" channel="Sky Sport 1 HD.skyde">
-    <title>Es folgt: LIVE Basketball NBA</title>
+<programme start="20260202230000 +0000" stop="20260203000000 +0000" channel="Sky Sport 1 HD.skyde">
+    <title>Es folgt: ab 01:00: LIVE Basketball NBA</title>
 </programme>
 <programme start="20260203000000 +0000" stop="20260203003000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime</title>
 </programme>
-<programme start="20260203003000 +0000" stop="20260203030000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260203003000 +0000" stop="20260203032000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Minnesota Timberwolves @ Memphis Grizzlies</title>
 </programme>
-<programme start="20260203030000 +0000" stop="20260203053000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260203032000 +0000" stop="20260203053000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Philadelphia 76ers @ LA Clippers</title>
 </programme>
 <programme start="20260203053000 +0000" stop="20260203090000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime - Post Show</title>
 </programme>
 <programme start="20260203185500 +0000" stop="20260203191500 +0000" channel="Sky Sport 1 HD.skyde">
-    <title>Es folgt: Konferenz International</title>
+    <title>Es folgt: LIVE Konferenz International</title>
 </programme>
-<programme start="20260203191500 +0000" stop="20260203220000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260203191500 +0000" stop="20260203230000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live Fußball: Konferenz: International</title>
 </programme>
 <programme start="20260203084000 +0000" stop="20260203090000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Es folgt: Live Tennis WTA Tour</title>
 </programme>
-<programme start="20260203090000 +0000" stop="20260203170000 +0000" channel="Sky Sport 2 HD.skyde">
+<programme start="20260203090000 +0000" stop="20260203190000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live WTA 500: Mubadala Abu Dhabi Open in Abu Dhabi (VAE), 3. Tag</title>
 </programme>
 <programme start="20260202231500 +0000" stop="20260203000000 +0000" channel="SYFY HD.skyde">
@@ -3714,16 +3714,16 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260203022000 +0000" stop="20260203050000 +0000" channel="Warner TV Film.skyde">
     <title>Das Land des Regenbaums</title>
 </programme>
-<programme start="20260203050000 +0000" stop="20260203070500 +0000" channel="Warner TV Film.skyde">
+<programme start="20260203050000 +0000" stop="20260203070000 +0000" channel="Warner TV Film.skyde">
     <title>Batman Forever</title>
 </programme>
-<programme start="20260203070500 +0000" stop="20260203085000 +0000" channel="Warner TV Film.skyde">
+<programme start="20260203070000 +0000" stop="20260203085000 +0000" channel="Warner TV Film.skyde">
     <title>Die sechs Verdächtigen</title>
 </programme>
-<programme start="20260203085000 +0000" stop="20260203103500 +0000" channel="Warner TV Film.skyde">
+<programme start="20260203085000 +0000" stop="20260203103000 +0000" channel="Warner TV Film.skyde">
     <title>Ehekrieg</title>
 </programme>
-<programme start="20260203103500 +0000" stop="20260203140000 +0000" channel="Warner TV Film.skyde">
+<programme start="20260203103000 +0000" stop="20260203140000 +0000" channel="Warner TV Film.skyde">
     <title>Ben-Hur</title>
 </programme>
 <programme start="20260203140000 +0000" stop="20260203153500 +0000" channel="Warner TV Film.skyde">
@@ -3750,16 +3750,16 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260203022000 +0000" stop="20260203050000 +0000" channel="Warner TV Film HD.skyde">
     <title>Das Land des Regenbaums</title>
 </programme>
-<programme start="20260203050000 +0000" stop="20260203070500 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20260203050000 +0000" stop="20260203070000 +0000" channel="Warner TV Film HD.skyde">
     <title>Batman Forever</title>
 </programme>
-<programme start="20260203070500 +0000" stop="20260203085000 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20260203070000 +0000" stop="20260203085000 +0000" channel="Warner TV Film HD.skyde">
     <title>Die sechs Verdächtigen</title>
 </programme>
-<programme start="20260203085000 +0000" stop="20260203103500 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20260203085000 +0000" stop="20260203103000 +0000" channel="Warner TV Film HD.skyde">
     <title>Ehekrieg</title>
 </programme>
-<programme start="20260203103500 +0000" stop="20260203140000 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20260203103000 +0000" stop="20260203140000 +0000" channel="Warner TV Film HD.skyde">
     <title>Ben-Hur</title>
 </programme>
 <programme start="20260203140000 +0000" stop="20260203153500 +0000" channel="Warner TV Film HD.skyde">
