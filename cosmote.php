@@ -62,8 +62,8 @@
     <title>Football: Olympiacos - PAOK</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260203200500 +0700" stop="20260203220000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: SSC Napoli - ACF Fiorentina</title>
+<programme start="20260204222500 +0700" stop="20260205003000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: Panathinaikos - Aris</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260203220000 +0700" stop="20260204000000 +0700" channel="COSMOTE Sport 2 HD">
@@ -126,6 +126,10 @@
     <title>Greek Cup Time - Pregame (L)</title>
     <desc>Live: Ya</desc>
 </programme>
+<programme start="20260204220000 +0700" stop="20260205001000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: OFI - Levadiakos (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
 <programme start="20260203210000 +0700" stop="20260203230000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Dundee United - Heart of Midlothian</title>
     <desc>Live: Tidak</desc>
@@ -176,10 +180,6 @@
 </programme>
 <programme start="20260204210000 +0700" stop="20260204230000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: St. Mirren - Heart of Midlothian</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260203204000 +0700" stop="20260203211500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>NBA Action 2025-26 E3515</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260203211500 +0700" stop="20260204000000 +0700" channel="COSMOTE Sport 4 HD">
@@ -236,10 +236,6 @@
 </programme>
 <programme start="20260204215000 +0700" stop="20260204234500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Armani Milano - Brescia</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260203202000 +0700" stop="20260203214500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>DTM 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260203214500 +0700" stop="20260203232500 +0700" channel="COSMOTE Sport 5 HD">
@@ -410,9 +406,9 @@
     <title>Tennis: ATP 250 2026 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260203210000 +0700" stop="20260203220000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
-    <desc>Live: Tidak</desc>
+<programme start="20260204223000 +0700" stop="20260205003000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: ATP 250 2026 (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260203220000 +0700" stop="20260203223000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
