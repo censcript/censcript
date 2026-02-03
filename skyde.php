@@ -2703,78 +2703,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260203223000 +0000" stop="20260203232000 +0000" channel="Sky Showcase HD.skyde">
     <title>Die Tote im Pool: Lügen, Betrug &amp; mörderische Gier</title>
 </programme>
-<programme start="20260202232000 +0000" stop="20260202234500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: 100% Rapid (Runden 5-8)</title>
-</programme>
-<programme start="20260202234500 +0000" stop="20260203001500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: 100% Rapid (Runden 9-12)</title>
-</programme>
-<programme start="20260203001500 +0000" stop="20260203004500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: 100% Rapid (Runden 13-16)</title>
-</programme>
-<programme start="20260203004500 +0000" stop="20260203025000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: FC Blau-Weiß Linz - SK Rapid, 17. Runde</title>
-</programme>
-<programme start="20260203025000 +0000" stop="20260203030000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Golf: Gofus Österreich</title>
-</programme>
-<programme start="20260203030000 +0000" stop="20260203050000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: SV Oberbank Ried - SCR Altach, 17. Runde</title>
-</programme>
-<programme start="20260203050000 +0000" stop="20260203053000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Fußball: Heimspiel - Wiener Viktoria</title>
-</programme>
-<programme start="20260203053000 +0000" stop="20260203060000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Fußball: Heimspiel - Austria Salzburg</title>
-</programme>
-<programme start="20260203060000 +0000" stop="20260203063000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Fußball: Heimspiel - Union Gurten</title>
-</programme>
-<programme start="20260203063000 +0000" stop="20260203070000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: ASAT Kompakt, 17. Runde</title>
-</programme>
-<programme start="20260203070000 +0000" stop="20260203080000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>UEFA EL: UEL &amp; UECL Magazin</title>
-</programme>
-<programme start="20260203080000 +0000" stop="20260203100000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>UEFA EL: SK Sturm Graz - SK Brann Bergen, Ligaphase, 8. Spieltag</title>
-</programme>
-<programme start="20260203100000 +0000" stop="20260203103000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>UEFA CL: Magazin</title>
-</programme>
-<programme start="20260203103000 +0000" stop="20260203110000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: ASAT Kompakt, 17. Runde</title>
-</programme>
-<programme start="20260203110000 +0000" stop="20260203115000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>UEFA EL: UEL &amp; UECL Magazin</title>
-</programme>
-<programme start="20260203115000 +0000" stop="20260203122000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: 90in30: FAK - STU, 17. Runde</title>
-</programme>
-<programme start="20260203122000 +0000" stop="20260203125000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>UEFA CL: Magazin</title>
-</programme>
-<programme start="20260203125000 +0000" stop="20260203145500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live UEFA Youth League: AZ Alkmaar - Borussia Dortmund, Achtelfinale</title>
-</programme>
-<programme start="20260203145500 +0000" stop="20260203165500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live UEFA Youth League: Real Madrid - Olympique Marseille, Achtelfinale</title>
-</programme>
-<programme start="20260203165500 +0000" stop="20260203190000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live UEFA Youth League: FC Chelsea - PSV Eindhoven, Achtelfinale</title>
-</programme>
-<programme start="20260203190000 +0000" stop="20260203201500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Fußball: DAB - Der Audiobeweis</title>
-</programme>
-<programme start="20260203201500 +0000" stop="20260203221500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>UEFA Youth League: FC Chelsea - PSV Eindhoven, Achtelfinale</title>
-</programme>
-<programme start="20260203221500 +0000" stop="20260203224500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>UEFA CL: Magazin</title>
-</programme>
-<programme start="20260203224500 +0000" stop="20260204004500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>UEFA EL: VfB Stuttgart - Young Boys Bern, Ligaphase, 8. Spieltag</title>
-</programme>
 <programme start="20260202233000 +0000" stop="20260203000000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>Frauen-BL: Alle Spiele, alle Tore, 16. Spieltag komplett</title>
 </programme>
@@ -3033,10 +2961,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260203120000 +0000" stop="20260203130000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>3. Liga: Alle Spiele, alle Tore, 22. Spieltag komplett</title>
 </programme>
-<programme start="20260203130000 +0000" stop="20260203141000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260203130000 +0000" stop="20260203140000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: On the Fly</title>
 </programme>
-<programme start="20260203141000 +0000" stop="20260203160000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260203140000 +0000" stop="20260203160000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Toronto Maple Leafs @ Calgary Flames</title>
 </programme>
 <programme start="20260203160000 +0000" stop="20260203163000 +0000" channel="Sky Sport Mix HD.skyde">
@@ -3240,10 +3168,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260203003000 +0000" stop="20260203032000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Minnesota Timberwolves @ Memphis Grizzlies</title>
 </programme>
-<programme start="20260203032000 +0000" stop="20260203054000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260203032000 +0000" stop="20260203053000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Philadelphia 76ers @ LA Clippers</title>
 </programme>
-<programme start="20260203054000 +0000" stop="20260203060000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260203053000 +0000" stop="20260203060000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Showtime - Post Show</title>
 </programme>
 <programme start="20260203060000 +0000" stop="20260203061500 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3312,13 +3240,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260203000000 +0000" stop="20260203003000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime</title>
 </programme>
-<programme start="20260203003000 +0000" stop="20260203030000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260203003000 +0000" stop="20260203032000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Minnesota Timberwolves @ Memphis Grizzlies</title>
 </programme>
-<programme start="20260203030000 +0000" stop="20260203053000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260203032000 +0000" stop="20260203054000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Philadelphia 76ers @ LA Clippers</title>
 </programme>
-<programme start="20260203053000 +0000" stop="20260203090000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260203054000 +0000" stop="20260203061500 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime - Post Show</title>
 </programme>
 <programme start="20260203185500 +0000" stop="20260203191500 +0000" channel="Sky Sport 1 HD.skyde">

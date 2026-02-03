@@ -127,9 +127,6 @@
     <programme start="20260204151500 +0000" stop="20260204161500 +0000" channel="Channel 5.mewatch">
         <title>Amazing Hotels: Life Beyond the Lobby: S4 - EP 1</title>
     </programme>
-    <programme start="20260204160000 +0000" stop="20260204163000 +0000" channel="Channel 5.mewatch">
-        <title>Aunty Lee&#039;s Deadly Delights - EP 10</title>
-    </programme>
     <programme start="20260203151500 +0000" stop="20260203161500 +0000" channel="Channel 8.mewatch">
         <title>Love of Nirvana - EP 21</title>
     </programme>
