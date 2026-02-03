@@ -122,6 +122,10 @@
     <title>Football: Bologna - AC Milan</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260204165500 +0700" stop="20260204190500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Levadiakos - Kifisia</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260203150000 +0700" stop="20260203170000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Al-Riyadh - Al Nassr</title>
     <desc>Live: Tidak</desc>
@@ -238,10 +242,6 @@
     <title>Basketball: Tofas - AEK</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260203141000 +0700" stop="20260203151500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>2025 Extreme H</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260203151500 +0700" stop="20260203162000 +0700" channel="COSMOTE Sport 5 HD">
     <title>2025 Extreme H</title>
     <desc>Live: Tidak</desc>
@@ -338,6 +338,10 @@
     <title>DTM 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260204161500 +0700" stop="20260204171000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Highlights: 2025 Extreme H</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260203150000 +0700" stop="20260203190000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP 250 2026</title>
     <desc>Live: Tidak</desc>
@@ -392,6 +396,10 @@
 </programme>
 <programme start="20260204135000 +0700" stop="20260204160000 +0700" channel="COSMOTE Sport 6 HD">
     <title>World Athletics Indoor Tour Gold 2026</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260204160000 +0700" stop="20260204200000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: ATP 250 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260203150000 +0700" stop="20260203170000 +0700" channel="COSMOTE Sport 7 HD">
