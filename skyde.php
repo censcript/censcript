@@ -2754,10 +2754,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260203122000 +0000" stop="20260203125000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA CL: Magazin</title>
 </programme>
-<programme start="20260203125000 +0000" stop="20260203150000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260203125000 +0000" stop="20260203145500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Live UEFA Youth League: AZ Alkmaar - Borussia Dortmund, Achtelfinale</title>
 </programme>
-<programme start="20260203150000 +0000" stop="20260203165500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260203145500 +0000" stop="20260203165500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Live UEFA Youth League: Real Madrid - Olympique Marseille, Achtelfinale</title>
 </programme>
 <programme start="20260203165500 +0000" stop="20260203190000 +0000" channel="Sky Sport Austria 1 HD.skyde">
