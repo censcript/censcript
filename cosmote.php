@@ -62,10 +62,6 @@
     <title>Football: FC Shakhtar Donetsk - Rijeka</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260204094000 +0700" stop="20260204114000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Bologna - AC Milan</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260204114000 +0700" stop="20260204135000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Panathinaikos - Kifisia</title>
     <desc>Live: Tidak</desc>
@@ -140,6 +136,10 @@
 </programme>
 <programme start="20260205100500 +0700" stop="20260205120000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Cagliari - Hellas Verona</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260205120000 +0700" stop="20260205141000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Panathinaikos - PAOK</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260204110000 +0700" stop="20260204130000 +0700" channel="COSMOTE Sport 3 HD">
@@ -262,6 +262,10 @@
     <title>Basketball: San Antonio Spurs - Oklahoma City Thunder (L)</title>
     <desc>Live: Ya</desc>
 </programme>
+<programme start="20260205123000 +0700" stop="20260205143000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Virtus Bologna - Aquila Basket Trento</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260204110000 +0700" stop="20260204121000 +0700" channel="COSMOTE Sport 5 HD">
     <title>2025 FIM Women&#039;s Circuit Racing World Championship</title>
     <desc>Live: Tidak</desc>
@@ -371,6 +375,14 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260205110000 +0700" stop="20260205120000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260205120000 +0700" stop="20260205124500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260205124500 +0700" stop="20260205133000 +0700" channel="COSMOTE Sport 5 HD">
     <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>

@@ -8518,13 +8518,7 @@
 <programme start="20260204123000 +0000" stop="20260204133000 +0000" channel="SPOTV 2.mncvision">
     <title>MotoGP Classic: Donington 500cc</title>
 </programme>
-<programme start="20260204133000 +0000" stop="20260204143000 +0000" channel="SPOTV 2.mncvision">
-    <title>MotoGP 2026 Team Presentation</title>
-</programme>
-<programme start="20260204143000 +0000" stop="20260204163000 +0000" channel="SPOTV 2.mncvision">
-    <title>A-League Men: PER Vs AFC</title>
-</programme>
-<programme start="20260204163000 +0000" stop="20260203170000 +0000" channel="SPOTV 2.mncvision">
+<programme start="20260204133000 +0000" stop="20260204140000 +0000" channel="SPOTV 2.mncvision">
     <title>Generali Hexagon Cup 2026</title>
 </programme>
 <programme start="20260203180000 +0000" stop="20260203184500 +0000" channel="SPOTV 2 HD.mncvision">
@@ -8572,13 +8566,7 @@
 <programme start="20260204123000 +0000" stop="20260204133000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>MotoGP Classic: Donington 500cc</title>
 </programme>
-<programme start="20260204133000 +0000" stop="20260204143000 +0000" channel="SPOTV 2 HD.mncvision">
-    <title>MotoGP 2026 Team Presentation</title>
-</programme>
-<programme start="20260204143000 +0000" stop="20260204163000 +0000" channel="SPOTV 2 HD.mncvision">
-    <title>A-League Men: PER Vs AFC</title>
-</programme>
-<programme start="20260204163000 +0000" stop="20260203170000 +0000" channel="SPOTV 2 HD.mncvision">
+<programme start="20260204133000 +0000" stop="20260204140000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>Generali Hexagon Cup 2026</title>
 </programme>
 <programme start="20260203180000 +0000" stop="20260203183000 +0000" channel="SPOTV HD.mncvision">
