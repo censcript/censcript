@@ -3322,7 +3322,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260204073000 +0000" stop="20260204074500 +0000" channel="Sky Sport UHD.skyde">
     <title>Info: UHD</title>
 </programme>
-<programme start="20260204001000 +0000" stop="20260204003000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260203233000 +0000" stop="20260204003000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: ab 01:30: LIVE Basketball NBA</title>
 </programme>
 <programme start="20260204003000 +0000" stop="20260204010000 +0000" channel="Sky Sport 1 HD.skyde">
@@ -3337,13 +3337,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260204185500 +0000" stop="20260204191500 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: LIVE Konferenz International</title>
 </programme>
-<programme start="20260204191500 +0000" stop="20260204220000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260204191500 +0000" stop="20260204230000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live Fußball: Konferenz International</title>
 </programme>
 <programme start="20260204084000 +0000" stop="20260204090000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Es folgt: Live Tennis WTA Tour</title>
 </programme>
-<programme start="20260204090000 +0000" stop="20260204190000 +0000" channel="Sky Sport 2 HD.skyde">
+<programme start="20260204090000 +0000" stop="20260204170000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live WTA 500: Mubadala Abu Dhabi Open in Abu Dhabi (VAE), 4. Tag</title>
 </programme>
 <programme start="20260203231500 +0000" stop="20260204000000 +0000" channel="SYFY HD.skyde">

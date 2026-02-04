@@ -7957,16 +7957,16 @@
     <programme start="20260204013000 +0000" stop="20260204043000 +0000" channel="Asianet Movies.starhub">
         <title>In Ghost House Inn</title>
     </programme>
-    <programme start="20260204043000 +0000" stop="20260204073000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260204043000 +0000" stop="20260204072000 +0000" channel="Asianet Movies.starhub">
         <title>Oru Vadakkan Selfie</title>
     </programme>
-    <programme start="20260204073000 +0000" stop="20260204103000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260204072000 +0000" stop="20260204102500 +0000" channel="Asianet Movies.starhub">
         <title>Lucifer</title>
     </programme>
-    <programme start="20260204103000 +0000" stop="20260204133000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260204102500 +0000" stop="20260204133000 +0000" channel="Asianet Movies.starhub">
         <title>Sreekrishnapurathe Nakshathrathilakkam</title>
     </programme>
-    <programme start="20260204133000 +0000" stop="20260204163000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260204133000 +0000" stop="20260204162500 +0000" channel="Asianet Movies.starhub">
         <title>Jaya Jaya Jaya Jaya Hey</title>
     </programme>
     <programme start="20260203160000 +0000" stop="20260203170000 +0000" channel="Astro Warna HD.starhub">
