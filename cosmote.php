@@ -134,6 +134,10 @@
     <title>Football: Parma - Juventus Football Club</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260205181000 +0700" stop="20260205202000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: OFI - Levadiakos</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260204170000 +0700" stop="20260204190000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Bristol City - Derby County</title>
     <desc>Live: Tidak</desc>
@@ -198,10 +202,6 @@
     <title>Football: St. Mirren - Heart of Midlothian</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260204145500 +0700" stop="20260204170500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Tofas - AEK</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260204170500 +0700" stop="20260204193500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Dallas Mavericks - Boston Celtics</title>
     <desc>Live: Tidak</desc>
@@ -260,14 +260,6 @@
 </programme>
 <programme start="20260205170000 +0700" stop="20260205193000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: San Antonio Spurs - Oklahoma City Thunder</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260204161500 +0700" stop="20260204171000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Highlights: 2025 Extreme H</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260204171000 +0700" stop="20260204174000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Sports Classics: Gearing Up 2025 E1</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260204174000 +0700" stop="20260204183500 +0700" channel="COSMOTE Sport 5 HD">
@@ -390,6 +382,10 @@
     <title>DTM</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260205184000 +0700" stop="20260205193500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Highlights: 2025 Extreme H</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260204160000 +0700" stop="20260204190000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Valentin Royer - Arthur Fils</title>
     <desc>Live: Tidak</desc>
@@ -444,6 +440,10 @@
 </programme>
 <programme start="20260205140000 +0700" stop="20260205180000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP 250 2026</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260205180000 +0700" stop="20260205203000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Volleyball: Zeleznicar - Olympiacos</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260204170000 +0700" stop="20260204190000 +0700" channel="COSMOTE Sport 7 HD">
