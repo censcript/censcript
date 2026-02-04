@@ -10381,49 +10381,49 @@
   <programme start="20260206224500 +0000" stop="20260206231000 +0000" channel="Nickelodeon.webtv.sk">
     <title lang="id">Spongebob v kalhotách XI (234)</title>
   </programme>
-  <programme start="20260205225000 +0000" stop="20260205231000 +0000" channel="Nicktoons.webtv.sk">
+  <programme start="20260205224500 +0000" stop="20260205230500 +0000" channel="Nicktoons.webtv.sk">
     <title lang="id">Příběy Želv ninja I (4)</title>
   </programme>
-  <programme start="20260205231000 +0000" stop="20260205233000 +0000" channel="Nicktoons.webtv.sk">
+  <programme start="20260205230500 +0000" stop="20260205233000 +0000" channel="Nicktoons.webtv.sk">
     <title lang="id">Transformers: Pozemská jiskra II (7)</title>
   </programme>
-  <programme start="20260205233000 +0000" stop="20260205235500 +0000" channel="Nicktoons.webtv.sk">
+  <programme start="20260205233000 +0000" stop="20260205235000 +0000" channel="Nicktoons.webtv.sk">
     <title lang="id">Monster High I (7)</title>
   </programme>
-  <programme start="20260205235500 +0000" stop="20260206001500 +0000" channel="Nicktoons.webtv.sk">
+  <programme start="20260205235000 +0000" stop="20260206001000 +0000" channel="Nicktoons.webtv.sk">
     <title lang="id">Nej a Nejnejka I (5)</title>
   </programme>
-  <programme start="20260206001500 +0000" stop="20260206003500 +0000" channel="Nicktoons.webtv.sk">
+  <programme start="20260206001000 +0000" stop="20260206003000 +0000" channel="Nicktoons.webtv.sk">
     <title lang="id">Nej a Nejnejka I (6)</title>
   </programme>
-  <programme start="20260206003500 +0000" stop="20260206005500 +0000" channel="Nicktoons.webtv.sk">
+  <programme start="20260206003000 +0000" stop="20260206005000 +0000" channel="Nicktoons.webtv.sk">
     <title lang="id">Nej a Nejnejka I (7)</title>
   </programme>
-  <programme start="20260206005500 +0000" stop="20260206012000 +0000" channel="Nicktoons.webtv.sk">
+  <programme start="20260206005000 +0000" stop="20260206011500 +0000" channel="Nicktoons.webtv.sk">
     <title lang="id">Max a Mezirytíři I (8)</title>
   </programme>
-  <programme start="20260206012000 +0000" stop="20260206014000 +0000" channel="Nicktoons.webtv.sk">
+  <programme start="20260206011500 +0000" stop="20260206014000 +0000" channel="Nicktoons.webtv.sk">
     <title lang="id">Dora Průzkumnice VIII (12)</title>
   </programme>
   <programme start="20260206014000 +0000" stop="20260206020000 +0000" channel="Nicktoons.webtv.sk">
     <title lang="id">Příhody Děsného kluka I (6)</title>
   </programme>
-  <programme start="20260206020000 +0000" stop="20260206022500 +0000" channel="Nicktoons.webtv.sk">
+  <programme start="20260206020000 +0000" stop="20260206022000 +0000" channel="Nicktoons.webtv.sk">
     <title lang="id">Avatar: Legenda o Aangovi I (2)</title>
   </programme>
-  <programme start="20260206022500 +0000" stop="20260206024500 +0000" channel="Nicktoons.webtv.sk">
+  <programme start="20260206022000 +0000" stop="20260206024000 +0000" channel="Nicktoons.webtv.sk">
     <title lang="id">Spongebob v kalhotách X (210)</title>
   </programme>
-  <programme start="20260206024500 +0000" stop="20260206025500 +0000" channel="Nicktoons.webtv.sk">
+  <programme start="20260206024000 +0000" stop="20260206025500 +0000" channel="Nicktoons.webtv.sk">
     <title lang="id">Spongebob v kalhotách VI (114)</title>
   </programme>
   <programme start="20260206025500 +0000" stop="20260206031500 +0000" channel="Nicktoons.webtv.sk">
     <title lang="id">Spongebob v kalhotách X (211)</title>
   </programme>
-  <programme start="20260206031500 +0000" stop="20260206034000 +0000" channel="Nicktoons.webtv.sk">
+  <programme start="20260206031500 +0000" stop="20260206033500 +0000" channel="Nicktoons.webtv.sk">
     <title lang="id">Spongebob v kalhotách X (212)</title>
   </programme>
-  <programme start="20260206034000 +0000" stop="20260206040000 +0000" channel="Nicktoons.webtv.sk">
+  <programme start="20260206033500 +0000" stop="20260206040000 +0000" channel="Nicktoons.webtv.sk">
     <title lang="id">Spongebob v kalhotách X (213)</title>
   </programme>
   <programme start="20260206040000 +0000" stop="20260206042000 +0000" channel="Nicktoons.webtv.sk">
