@@ -2383,10 +2383,10 @@
     <programme start="20260204000000 +0000" stop="20260204010000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>Episode 8</title>
     </programme>
-    <programme start="20260204010000 +0000" stop="20260204030000 +0000" channel="Hub Sports 2 HD.starhub">
+    <programme start="20260204010000 +0000" stop="20260204035000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>Pro Bowl Games Championship</title>
     </programme>
-    <programme start="20260204030000 +0000" stop="20260204080000 +0000" channel="Hub Sports 2 HD.starhub">
+    <programme start="20260204035000 +0000" stop="20260204080000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>D1 Morning Session: China vs Malaysia</title>
     </programme>
     <programme start="20260204080000 +0000" stop="20260204083000 +0000" channel="Hub Sports 2 HD.starhub">
@@ -8122,11 +8122,8 @@
     <programme start="20260204123000 +0000" stop="20260204133000 +0000" channel="SPOTV2.starhub">
         <title>1997 Donington 500cc</title>
     </programme>
-    <programme start="20260204133000 +0000" stop="20260204143000 +0000" channel="SPOTV2.starhub">
-        <title>Pramac Yamaha</title>
-    </programme>
-    <programme start="20260204143000 +0000" stop="20260204163000 +0000" channel="SPOTV2.starhub">
-        <title>25/26 A-League Men Round 15 Perth Glory vs Auckland FC</title>
+    <programme start="20260204133000 +0000" stop="20260204230000 +0000" channel="SPOTV2.starhub">
+        <title>Day 1</title>
     </programme>
     <programme start="20260203160000 +0000" stop="20260203163500 +0000" channel="Dragon TV.starhub">
         <title>THE CITY OF MUSICALS</title>

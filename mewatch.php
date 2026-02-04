@@ -838,10 +838,10 @@
     <programme start="20260203220000 +0000" stop="20260204025500 +0000" channel="Live 5.mewatch">
         <title>No Programme available now. Next Broadcast on 4th February, Wednesday 10.55am. TSINGTAO Badminton Asia Team Championships 2026: Women&#039;s Team: Taipei vs Singapore</title>
     </programme>
-    <programme start="20260204025500 +0000" stop="20260204080000 +0000" channel="Live 5.mewatch">
+    <programme start="20260204025500 +0000" stop="20260204063000 +0000" channel="Live 5.mewatch">
         <title>TSINGTAO Badminton Asia Team Championships 2026: Women&#039;s Team: Taipei vs Singapore</title>
     </programme>
-    <programme start="20260204080000 +0000" stop="20260204123000 +0000" channel="Live 5.mewatch">
+    <programme start="20260204063000 +0000" stop="20260204123000 +0000" channel="Live 5.mewatch">
         <title>No Programme available now. Next Broadcast on 4th February, Wednesday 8.30pm. ASEAN Shopee Cup 2025/2026</title>
     </programme>
     <programme start="20260204123000 +0000" stop="20260204143000 +0000" channel="Live 5.mewatch">
