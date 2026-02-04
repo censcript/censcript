@@ -4952,7 +4952,7 @@
     <title>Inovator</title>
 </programme>
 <programme start="20260204153000 +0000" stop="20260204160000 +0000" channel="JAKTV.mncvision">
-    <title>Pak Kobra</title>
+    <title>Mirror Story</title>
 </programme>
 <programme start="20260204160000 +0000" stop="20260204163000 +0000" channel="JAKTV.mncvision">
     <title>Douluo Continent</title>
