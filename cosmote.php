@@ -134,6 +134,10 @@
     <title>Football: Udinese - AS Roma</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260205161000 +0700" stop="20260205181000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Parma - Juventus Football Club</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260204150000 +0700" stop="20260204170000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Al Hilal - Al Ahli</title>
     <desc>Live: Tidak</desc>
@@ -378,12 +382,16 @@
     <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260204135000 +0700" stop="20260204160000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>World Athletics Indoor Tour Gold 2026</title>
+<programme start="20260205163000 +0700" stop="20260205170000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260204160000 +0700" stop="20260204200000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: ATP 250 2026</title>
+<programme start="20260204160000 +0700" stop="20260204190000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: Valentin Royer - Arthur Fils</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260204190000 +0700" stop="20260204200000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: Andrea Vavassori - Ugo Blanchet</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260204200000 +0700" stop="20260204203000 +0700" channel="COSMOTE Sport 6 HD">
@@ -391,19 +399,19 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260204203000 +0700" stop="20260204223000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: ATP 250 2026 (L)</title>
+    <title>Tennis: Moise Kouame - Aleksandar Kovacevic (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20260204223000 +0700" stop="20260205003000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: ATP 250 2026 (L)</title>
+    <title>Tennis: Hamad Madjedovic - Stan Wawrinka (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20260205003000 +0700" stop="20260205023000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: ATP 250 2026 (L)</title>
+    <title>Tennis: Ugo Humbert - Adrian Mannarino (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20260205023000 +0700" stop="20260205050000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: ATP 250 2026 (L)</title>
+    <title>Tennis: Arthur Gea - Tomas Machac (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20260205050000 +0700" stop="20260205053000 +0700" channel="COSMOTE Sport 6 HD">
