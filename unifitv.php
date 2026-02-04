@@ -15280,7 +15280,7 @@
     <display-name>SPOTV</display-name>
   </channel>
   <programme start="20260203150000 +0000" stop="20260203160000 +0000" channel="spotv.unifitv">
-    <title lang="en">Formula E S12: Rd 3 Miami E-Prix - Highlights 1 (52 mins)</title>
+    <title lang="en">Formula E S12: Rd 3 Miami E-Prix - Highlights 1</title>
     <desc lang="en">The electric racing revolution continues in Formula E Season 12, as top drivers battle across iconic cities for the world championship crown.</desc>
     <category lang="en">Motorsports</category>
   </programme>
@@ -15365,7 +15365,7 @@
     <category lang="en">Golf</category>
   </programme>
   <programme start="20260204120000 +0000" stop="20260204123000 +0000" channel="spotv.unifitv">
-    <title lang="en">Formula E S12: Rd 3 Miami E-Prix - Highlights 2 (26 mins)</title>
+    <title lang="en">Formula E S12: Rd 3 Miami E-Prix - Highlights 2</title>
     <desc lang="en">The electric racing revolution continues in Formula E Season 12, as top drivers battle across iconic cities for the world championship crown.</desc>
     <category lang="en">Motorsports</category>
   </programme>
@@ -15472,15 +15472,10 @@
     <desc lang="en">Experience the most memorable MotoGP races from 1992 to 2016. This classic collection revisits legendary battles, dramatic twists, and the riders who defined an era of two-wheeled greatness.</desc>
     <category lang="en">Motorsports</category>
   </programme>
-  <programme start="20260204133000 +0000" stop="20260204143000 +0000" channel="spotv2.unifitv">
-    <title lang="en">MotoGP 2026 Team Presentation - Pramac Yamaha</title>
-    <desc lang="en">Engines ignite as the 2026 MotoGP team is revealed. Fresh livery, bold ambition &amp; pure speed set the stage for a relentless chase for glory. Download SPOTV NOW &amp; watch season 2026 live races &amp; highlights.</desc>
-    <category lang="en">Motorsports</category>
-  </programme>
-  <programme start="20260204143000 +0000" stop="20260204163000 +0000" channel="spotv2.unifitv">
-    <title lang="en">25/26 A-League Men Round 15 - Perth Glory vs Auckland FC</title>
-    <desc lang="en">Top flight men's soccer returns in the ISUZU UTE A-League Men. Catch every moment on SPOTV NOW as 12 teams compete in the regular season with top 4 advancing to a single-game knockout.</desc>
-    <category lang="en">Football</category>
+  <programme start="20260204133000 +0000" stop="20260204230000 +0000" channel="spotv2.unifitv">
+    <title lang="en">Generali Hexagon Cup 2026 - Day 1</title>
+    <desc lang="en">Hexagon Cup is born as a tribute to padel under a revolutionary format, with the best players competing in mixed-gender teams for the biggest prize.</desc>
+    <category lang="en">Padel</category>
   </programme>
   <channel id="beinsports.unifitv">
     <display-name>beIN SPORTS 1</display-name>

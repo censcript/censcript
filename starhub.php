@@ -2396,7 +2396,7 @@
         <title>#1330</title>
     </programme>
     <programme start="20260204090000 +0000" stop="20260204133000 +0000" channel="Hub Sports 2 HD.starhub">
-        <title>D1 Evening Session: Indonesia vs Singapore</title>
+        <title>D1 Evening Session: India vs Singapore</title>
     </programme>
     <programme start="20260204133000 +0000" stop="20260204173000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>Open Occitanie (250) D3 R1 &amp; 2 S1</title>
@@ -6311,7 +6311,7 @@
         <title>The Rhythm Section</title>
     </programme>
     <programme start="20260204043000 +0000" stop="20260204053000 +0000" channel="HBO Signature HD.starhub">
-        <title>Episode 4</title>
+        <title>1000 Yoots, 1 Marilyn</title>
     </programme>
     <programme start="20260204053000 +0000" stop="20260204060000 +0000" channel="HBO Signature HD.starhub">
         <title>Hollywood On Set S1</title>
@@ -6335,7 +6335,7 @@
         <title>Beetlejuice</title>
     </programme>
     <programme start="20260204153500 +0000" stop="20260204171500 +0000" channel="HBO Signature HD.starhub">
-        <title>SEPTEMBER 5</title>
+        <title>Sept-05</title>
     </programme>
     <programme start="20260203160000 +0000" stop="20260203163000 +0000" channel="CNBC HD.starhub">
         <title>Money Movers</title>
