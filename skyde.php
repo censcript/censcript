@@ -2713,8 +2713,8 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260204223000 +0000" stop="20260204232500 +0000" channel="Sky Showcase HD.skyde">
     <title>Morden im Norden</title>
 </programme>
-<programme start="20260204004500 +0000" stop="20260204010000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>PL: Best Freekicks</title>
+<programme start="20260203230000 +0000" stop="20260204010000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>UEFA EL: VfB Stuttgart - Young Boys Bern, Ligaphase, 8. Spieltag</title>
 </programme>
 <programme start="20260204010000 +0000" stop="20260204030000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: Grazer AK 1902 - LASK, 17. Runde</title>
@@ -3229,17 +3229,14 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260204224500 +0000" stop="20260205004500 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>Carabao Cup: Manchester City - Newcastle United, Halbfinale Rückspiel</title>
 </programme>
-<programme start="20260203233000 +0000" stop="20260204013000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260204000000 +0000" stop="20260204020000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 250: V. Royer (FRA) - A. Fils (FRA), Open Occitanie in Montpellier (FRA), 2. Tag</title>
 </programme>
-<programme start="20260204013000 +0000" stop="20260204023000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260204020000 +0000" stop="20260204030000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>United Cup: Review 2026</title>
 </programme>
-<programme start="20260204023000 +0000" stop="20260204033000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260204030000 +0000" stop="20260204040000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP Finals: Review Turin 2025</title>
-</programme>
-<programme start="20260204033000 +0000" stop="20260204040000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA Finals: Review Riyadh 2025</title>
 </programme>
 <programme start="20260204040000 +0000" stop="20260204060000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 250: V. Royer (FRA) - A. Fils (FRA), Open Occitanie in Montpellier (FRA), 2. Tag</title>
@@ -3343,7 +3340,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260204084000 +0000" stop="20260204090000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Es folgt: Live Tennis WTA Tour</title>
 </programme>
-<programme start="20260204090000 +0000" stop="20260204170000 +0000" channel="Sky Sport 2 HD.skyde">
+<programme start="20260204090000 +0000" stop="20260204190000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live WTA 500: Mubadala Abu Dhabi Open in Abu Dhabi (VAE), 4. Tag</title>
 </programme>
 <programme start="20260203231500 +0000" stop="20260204000000 +0000" channel="SYFY HD.skyde">

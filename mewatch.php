@@ -238,17 +238,14 @@
     <programme start="20260204130000 +0000" stop="20260204140000 +0000" channel="Channel 8.mewatch">
         <title>The Grind - EP 19</title>
     </programme>
-    <programme start="20260204140000 +0000" stop="20260204143000 +0000" channel="Channel 8.mewatch">
+    <programme start="20260204140000 +0000" stop="20260204144500 +0000" channel="Channel 8.mewatch">
         <title>(Live) News Tonight</title>
     </programme>
-    <programme start="20260204143000 +0000" stop="20260204150000 +0000" channel="Channel 8.mewatch">
+    <programme start="20260204144500 +0000" stop="20260204151500 +0000" channel="Channel 8.mewatch">
         <title>The DAKA Show S5 FTA - EP 1</title>
     </programme>
-    <programme start="20260204150000 +0000" stop="20260204160000 +0000" channel="Channel 8.mewatch">
+    <programme start="20260204151500 +0000" stop="20260204161500 +0000" channel="Channel 8.mewatch">
         <title>Love of Nirvana - EP 22</title>
-    </programme>
-    <programme start="20260204160000 +0000" stop="20260204170000 +0000" channel="Channel 8.mewatch">
-        <title>Love Game in Eastern Fantasy - EP 13</title>
     </programme>
     <programme start="20260203154500 +0000" stop="20260203164000 +0000" channel="Channel U.mewatch">
         <title>Freedom Travelers - EP 3</title>
@@ -358,10 +355,10 @@
     <programme start="20260204140000 +0000" stop="20260204150000 +0000" channel="Channel U.mewatch">
         <title>Love Scout - EP 15</title>
     </programme>
-    <programme start="20260204150000 +0000" stop="20260204153000 +0000" channel="Channel U.mewatch">
+    <programme start="20260204150000 +0000" stop="20260204154500 +0000" channel="Channel U.mewatch">
         <title>News Tonight</title>
     </programme>
-    <programme start="20260204153000 +0000" stop="20260204163000 +0000" channel="Channel U.mewatch">
+    <programme start="20260204154500 +0000" stop="20260204164000 +0000" channel="Channel U.mewatch">
         <title>Hey Parents, We Got You! - EP 3</title>
     </programme>
     <programme start="20260203160000 +0000" stop="20260204010000 +0000" channel="Suria.mewatch">
