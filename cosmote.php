@@ -151,15 +151,15 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260205030000 +0700" stop="20260205050000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Aberdeen - Celtic FC (L)</title>
-    <desc>Live: Ya</desc>
+    <title>Football: Casa Pia - FC Porto</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260205050000 +0700" stop="20260205070000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Pafos FC - APOEL</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260205070000 +0700" stop="20260205090000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Aberdeen - Celtic FC</title>
+    <title>Football: Hibernian - Rangers FC</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260205090000 +0700" stop="20260205110000 +0700" channel="COSMOTE Sport 3 HD">
@@ -191,7 +191,7 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260205224500 +0700" stop="20260206004500 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Aberdeen - Celtic FC</title>
+    <title>Football: Hibernian - Rangers FC</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260206004500 +0700" stop="20260206030000 +0700" channel="COSMOTE Sport 3 HD">
