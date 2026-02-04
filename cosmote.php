@@ -58,14 +58,6 @@
     <title>Football: AEK Larnaca - Shkendija</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260204190500 +0700" stop="20260204211500 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: AEK - OFI</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260204211500 +0700" stop="20260204220000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Greek Cup Time - Pregame (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
 <programme start="20260204220000 +0700" stop="20260205001000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: OFI - Levadiakos (L)</title>
     <desc>Live: Ya</desc>
@@ -134,6 +126,10 @@
     <title>Football: Como - Atalanta</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260205222000 +0700" stop="20260206002000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: SS Lazio - Genoa</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260204210000 +0700" stop="20260204230000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: St. Mirren - Heart of Midlothian</title>
     <desc>Live: Tidak</desc>
@@ -198,14 +194,6 @@
     <title>Football: Pafos FC - APOEL</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260204193500 +0700" stop="20260204212000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Pick n&#039; Roll</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260204212000 +0700" stop="20260204215000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>NBA Specials</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260204215000 +0700" stop="20260204234500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Armani Milano - Brescia</title>
     <desc>Live: Tidak</desc>
@@ -262,12 +250,8 @@
     <title>ACB Liga Endesa 2025-26 - Fifth Quarter E17</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260204200500 +0700" stop="20260204211000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC 2026</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260204211000 +0700" stop="20260204215500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC 2026</title>
+<programme start="20260205220000 +0700" stop="20260206001000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Manresa - Unicaja</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260204215500 +0700" stop="20260204230000 +0700" channel="COSMOTE Sport 5 HD">
@@ -382,6 +366,10 @@
     <title>Motorsports: Extreme E 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260205224500 +0700" stop="20260205235000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>2025 Extreme H</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260204203000 +0700" stop="20260204223000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Moise Kouame - Aleksandar Kovacevic (L)</title>
     <desc>Live: Ya</desc>
@@ -431,6 +419,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260205203000 +0700" stop="20260205223000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: ATP 250 2026 (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
+<programme start="20260205223000 +0700" stop="20260206003000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP 250 2026 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
