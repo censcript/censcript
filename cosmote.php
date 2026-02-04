@@ -1,7 +1,3 @@
-<programme start="20260205013000 +0700" stop="20260205034500 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: Panathinaikos - PAOK (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
 <programme start="20260205034500 +0700" stop="20260205043000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Greek Cup Time - Postgame (L)</title>
     <desc>Live: Ya</desc>
@@ -56,10 +52,6 @@
 </programme>
 <programme start="20260206030000 +0700" stop="20260206050000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: AFC Ajax - Olympiacos</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260205020000 +0700" stop="20260205040000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: SSC Napoli - ACF Fiorentina</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260205040000 +0700" stop="20260205061000 +0700" channel="COSMOTE Sport 2 HD">
@@ -242,10 +234,6 @@
     <title>Basketball: San Antonio Spurs - Oklahoma City Thunder</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260205030000 +0700" stop="20260205034500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC: More Than Machine S2 E3</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260205034500 +0700" stop="20260205043000 +0700" channel="COSMOTE Sport 5 HD">
     <title>WRC 2026</title>
     <desc>Live: Tidak</desc>
@@ -350,6 +338,10 @@
     <title>2025 FIM Women&#039;s Circuit Racing World Championship</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260206045500 +0700" stop="20260206055000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>2025 FIM Women&#039;s Circuit Racing World Championship</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260205023000 +0700" stop="20260205050000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Arthur Gea - Tomas Machac (L)</title>
     <desc>Live: Ya</desc>
@@ -401,14 +393,6 @@
 <programme start="20260206023000 +0700" stop="20260206050000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP 250 2026 (L)</title>
     <desc>Live: Ya</desc>
-</programme>
-<programme start="20260205010000 +0700" stop="20260205033000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>Volleyball: Zeleznicar - Olympiacos (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20260205033000 +0700" stop="20260205040000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
-    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260205040000 +0700" stop="20260205043000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
