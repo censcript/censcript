@@ -658,8 +658,14 @@
 <programme start="20260205114500 +0000" stop="20260205121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
-<programme start="20260204010000 +0000" stop="20260204023000 +0000" channel="ANTV.vision">
-<title>Baalveer Returns</title>
+<programme start="20260203230000 +0000" stop="20260204003000 +0000" channel="ANTV.vision">
+<title>Pendekar Mata Satu</title>
+</programme>
+<programme start="20260204003000 +0000" stop="20260204023000 +0000" channel="ANTV.vision">
+<title>Pendekar Mata Satu</title>
+</programme>
+<programme start="20260204023000 +0000" stop="20260204060000 +0000" channel="ANTV.vision">
+<title>Kaho Naa Pyaar Hai</title>
 </programme>
 <programme start="20260204060000 +0000" stop="20260204083000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
@@ -688,11 +694,11 @@
 <programme start="20260204223000 +0000" stop="20260204230000 +0000" channel="ANTV.vision">
 <title>Super Viral</title>
 </programme>
-<programme start="20260204230000 +0000" stop="20260205010000 +0000" channel="ANTV.vision">
-<title>Pendekar Mata Satu Lawan...</title>
-</programme>
-<programme start="20260205010000 +0000" stop="20260205023000 +0000" channel="ANTV.vision">
+<programme start="20260204230000 +0000" stop="20260205003000 +0000" channel="ANTV.vision">
 <title>Baalveer Returns</title>
+</programme>
+<programme start="20260205003000 +0000" stop="20260205023000 +0000" channel="ANTV.vision">
+<title>Pendekar Mata Satu Lawan...</title>
 </programme>
 <programme start="20260205023000 +0000" stop="20260205060000 +0000" channel="ANTV.vision">
 <title>Chori Chori Chupke Chupke</title>
@@ -1490,11 +1496,5 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260204070000 +0000" stop="20260204090000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260204090000 +0000" stop="20260204110000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260204110000 +0000" stop="20260204130000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
