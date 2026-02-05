@@ -6424,6 +6424,156 @@
 <programme start="20260205143000 +0000" stop="20260205150000 +0000" channel="NHK World.mncvision">
     <title>Japan Railway Journal</title>
 </programme>
+<programme start="20260204170500 +0000" stop="20260204171000 +0000" channel="NHK World Premium.mncvision">
+    <title>We Love Fluffy Animals</title>
+</programme>
+<programme start="20260204171000 +0000" stop="20260204173000 +0000" channel="NHK World Premium.mncvision">
+    <title>Spanish In A Happy Mood</title>
+</programme>
+<programme start="20260204173000 +0000" stop="20260204174000 +0000" channel="NHK World Premium.mncvision">
+    <title>Real-Life Travel English</title>
+</programme>
+<programme start="20260204174000 +0000" stop="20260204174500 +0000" channel="NHK World Premium.mncvision">
+    <title>World Weather</title>
+</programme>
+<programme start="20260204174500 +0000" stop="20260204180000 +0000" channel="NHK World Premium.mncvision">
+    <title>Kid&#039;s Discovery</title>
+</programme>
+<programme start="20260204180000 +0000" stop="20260204182500 +0000" channel="NHK World Premium.mncvision">
+    <title>With Mother</title>
+</programme>
+<programme start="20260204182500 +0000" stop="20260204183000 +0000" channel="NHK World Premium.mncvision">
+    <title>Koh Kentetsu&#039;s Food Travelogue</title>
+</programme>
+<programme start="20260204183000 +0000" stop="20260204184500 +0000" channel="NHK World Premium.mncvision">
+    <title>The Ghost Writer&#039;s Wife, Ep 88</title>
+</programme>
+<programme start="20260204184500 +0000" stop="20260204191000 +0000" channel="NHK World Premium.mncvision">
+    <title>Sanin Special</title>
+</programme>
+<programme start="20260204191000 +0000" stop="20260204191200 +0000" channel="NHK World Premium.mncvision">
+    <title>Mini Program</title>
+</programme>
+<programme start="20260204191200 +0000" stop="20260204191500 +0000" channel="NHK World Premium.mncvision">
+    <title>World Weather</title>
+</programme>
+<programme start="20260204191500 +0000" stop="20260204200000 +0000" channel="NHK World Premium.mncvision">
+    <title>Eat Up! Ultimate Homemade...</title>
+</programme>
+<programme start="20260204200000 +0000" stop="20260204201000 +0000" channel="NHK World Premium.mncvision">
+    <title>TV Exercise</title>
+</programme>
+<programme start="20260204201000 +0000" stop="20260204202500 +0000" channel="NHK World Premium.mncvision">
+    <title>Health For Today</title>
+</programme>
+<programme start="20260204202500 +0000" stop="20260204205600 +0000" channel="NHK World Premium.mncvision">
+    <title>Asagaya House: Let&#039;s Enjoy...</title>
+</programme>
+<programme start="20260204205600 +0000" stop="20260204210000 +0000" channel="NHK World Premium.mncvision">
+    <title>World Weather</title>
+</programme>
+<programme start="20260204210000 +0000" stop="20260204220000 +0000" channel="NHK World Premium.mncvision">
+    <title>News: Good Morning, Japan</title>
+</programme>
+<programme start="20260204220000 +0000" stop="20260204224500 +0000" channel="NHK World Premium.mncvision">
+    <title>News: Good Morning, Japan</title>
+</programme>
+<programme start="20260204224500 +0000" stop="20260204225500 +0000" channel="NHK World Premium.mncvision">
+    <title>Natural Grandeur Of The East</title>
+</programme>
+<programme start="20260204225500 +0000" stop="20260204230000 +0000" channel="NHK World Premium.mncvision">
+    <title>News &amp; Weather</title>
+</programme>
+<programme start="20260204230000 +0000" stop="20260204231500 +0000" channel="NHK World Premium.mncvision">
+    <title>The Ghost Writer&#039;s Wife, Ep 89</title>
+</programme>
+<programme start="20260204231500 +0000" stop="20260204235500 +0000" channel="NHK World Premium.mncvision">
+    <title>Asaichi</title>
+</programme>
+<programme start="20260204235500 +0000" stop="20260205000000 +0000" channel="NHK World Premium.mncvision">
+    <title>World&#039;s Magnificent Sight...</title>
+</programme>
+<programme start="20260205000000 +0000" stop="20260205000500 +0000" channel="NHK World Premium.mncvision">
+    <title>News &amp; Weather</title>
+</programme>
+<programme start="20260205000500 +0000" stop="20260205003200 +0000" channel="NHK World Premium.mncvision">
+    <title>Japan Delish</title>
+</programme>
+<programme start="20260205003200 +0000" stop="20260205004700 +0000" channel="NHK World Premium.mncvision">
+    <title>Magnificent Sight!</title>
+</programme>
+<programme start="20260205004700 +0000" stop="20260205005400 +0000" channel="NHK World Premium.mncvision">
+    <title>Natural Grandeur Of The East</title>
+</programme>
+<programme start="20260205005400 +0000" stop="20260205005500 +0000" channel="NHK World Premium.mncvision">
+    <title>World Weather</title>
+</programme>
+<programme start="20260205005500 +0000" stop="20260205010000 +0000" channel="NHK World Premium.mncvision">
+    <title>Exercise For Everyone</title>
+</programme>
+<programme start="20260205010000 +0000" stop="20260205010500 +0000" channel="NHK World Premium.mncvision">
+    <title>News &amp; Weather</title>
+</programme>
+<programme start="20260205010500 +0000" stop="20260205015000 +0000" channel="NHK World Premium.mncvision">
+    <title>Eat Up! Ultimate Homemade...</title>
+</programme>
+<programme start="20260205015000 +0000" stop="20260205021500 +0000" channel="NHK World Premium.mncvision">
+    <title>Sanin Special</title>
+</programme>
+<programme start="20260205021500 +0000" stop="20260205021700 +0000" channel="NHK World Premium.mncvision">
+    <title>Mini Program</title>
+</programme>
+<programme start="20260205021700 +0000" stop="20260205022000 +0000" channel="NHK World Premium.mncvision">
+    <title>Mini Program</title>
+</programme>
+<programme start="20260205022000 +0000" stop="20260205025000 +0000" channel="NHK World Premium.mncvision">
+    <title>Unaginobori Lab: What Makes...</title>
+</programme>
+<programme start="20260205025000 +0000" stop="20260205025600 +0000" channel="NHK World Premium.mncvision">
+    <title>Songs For Everyone</title>
+</programme>
+<programme start="20260205025600 +0000" stop="20260205030000 +0000" channel="NHK World Premium.mncvision">
+    <title>World Weather</title>
+</programme>
+<programme start="20260205030000 +0000" stop="20260205032000 +0000" channel="NHK World Premium.mncvision">
+    <title>News</title>
+</programme>
+<programme start="20260205032000 +0000" stop="20260205033000 +0000" channel="NHK World Premium.mncvision">
+    <title>Information Worth Knowing...</title>
+</programme>
+<programme start="20260205033000 +0000" stop="20260205034500 +0000" channel="NHK World Premium.mncvision">
+    <title>Massan, Ep 29</title>
+</programme>
+<programme start="20260205034500 +0000" stop="20260205040000 +0000" channel="NHK World Premium.mncvision">
+    <title>The Ghost Writer&#039;s Wife, Ep 89</title>
+</programme>
+<programme start="20260205040000 +0000" stop="20260205040500 +0000" channel="NHK World Premium.mncvision">
+    <title>News</title>
+</programme>
+<programme start="20260205040500 +0000" stop="20260205055000 +0000" channel="NHK World Premium.mncvision">
+    <title>News Around Japan</title>
+</programme>
+<programme start="20260205055000 +0000" stop="20260205055500 +0000" channel="NHK World Premium.mncvision">
+    <title>World Weather</title>
+</programme>
+<programme start="20260205055500 +0000" stop="20260205060000 +0000" channel="NHK World Premium.mncvision">
+    <title>World Music Album</title>
+</programme>
+<programme start="20260205060000 +0000" stop="20260205061000 +0000" channel="NHK World Premium.mncvision">
+    <title>News &amp; Weather</title>
+</programme>
+<programme start="20260205061000 +0000" stop="20260205064000 +0000" channel="NHK World Premium.mncvision">
+    <title>Asagaya House: Let&#039;s Enjoy...</title>
+</programme>
+<programme start="20260205064000 +0000" stop="20260205065000 +0000" channel="NHK World Premium.mncvision">
+    <title>Mimicries: Natural Science</title>
+</programme>
+<programme start="20260205065000 +0000" stop="20260205073500 +0000" channel="NHK World Premium.mncvision">
+    <title>History Detective: S. Domain</title>
+</programme>
+<programme start="20260205073500 +0000" stop="20260205080500 +0000" channel="NHK World Premium.mncvision">
+    <title>Welcome To Special Zoo Tour</title>
+</programme>
 <programme start="20260204172000 +0000" stop="20260204173000 +0000" channel="Nick Jr. HD.mncvision">
     <title>Barbapapa: Big Happy Family</title>
 </programme>

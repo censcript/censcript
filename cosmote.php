@@ -110,6 +110,14 @@
     <title>Football: Torino - Lecce</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260206181000 +0700" stop="20260206184000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Serie A Full Impact 2025-26 E23</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260206184000 +0700" stop="20260206205000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Panathinaikos - Kifisia</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260205165000 +0700" stop="20260205184500 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: St. Mirren - Heart of Midlothian</title>
     <desc>Live: Tidak</desc>
@@ -226,10 +234,6 @@
     <title>Basketball: Alba Berlin - Karditsa</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260205170000 +0700" stop="20260205175000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>2025 GT World Challenge Europe</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260205175000 +0700" stop="20260205184000 +0700" channel="COSMOTE Sport 5 HD">
     <title>DTM</title>
     <desc>Live: Tidak</desc>
@@ -326,8 +330,8 @@
     <title>WRC 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260205140000 +0700" stop="20260205180000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: ATP 250 2026</title>
+<programme start="20260206185000 +0700" stop="20260206193500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260205180000 +0700" stop="20260205203000 +0700" channel="COSMOTE Sport 6 HD">
