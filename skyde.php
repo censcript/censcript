@@ -3198,7 +3198,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>ATP: This Week</title>
 </programme>
 <programme start="20260205073000 +0000" stop="20260205090000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: D. Yastremska (UKR) - E. Alexandrova, Mubadala Abu Dhabi Open in Abu Dhabi (VAE), 4. Tag</title>
+    <title>D. Yastremska (UKR) - E. Alexandrova, Mubadala Abu Dhabi Open in Abu Dhabi (VAE), 4. Tag</title>
 </programme>
 <programme start="20260205090000 +0000" stop="20260205213000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP &amp; WTA: Die Topspiele des Tages</title>

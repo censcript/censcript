@@ -655,28 +655,43 @@
 <programme start="20260206114500 +0000" stop="20260206121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
+<programme start="20260204230000 +0000" stop="20260205003000 +0000" channel="ANTV.vision">
+<title>Baalveer Returns</title>
+</programme>
 <programme start="20260205003000 +0000" stop="20260205023000 +0000" channel="ANTV.vision">
 <title>Pendekar Mata Satu Lawan...</title>
 </programme>
 <programme start="20260205023000 +0000" stop="20260205060000 +0000" channel="ANTV.vision">
 <title>Chori Chori Chupke Chupke</title>
 </programme>
-<programme start="20260205083000 +0000" stop="20260205113000 +0000" channel="ANTV.vision">
+<programme start="20260205060000 +0000" stop="20260205083000 +0000" channel="ANTV.vision">
+<title>Jhanak</title>
+</programme>
+<programme start="20260205083000 +0000" stop="20260205130000 +0000" channel="ANTV.vision">
 <title>Vasudha</title>
 </programme>
-<programme start="20260205133000 +0000" stop="20260205150000 +0000" channel="ANTV.vision">
+<programme start="20260205130000 +0000" stop="20260205143000 +0000" channel="ANTV.vision">
 <title>Perkawinan Nyi Blorong</title>
 </programme>
-<programme start="20260205150000 +0000" stop="20260205170000 +0000" channel="ANTV.vision">
+<programme start="20260205143000 +0000" stop="20260205163000 +0000" channel="ANTV.vision">
 <title>Jin Galunggung</title>
 </programme>
-<programme start="20260205170000 +0000" stop="20260205183000 +0000" channel="ANTV.vision">
+<programme start="20260205163000 +0000" stop="20260205183000 +0000" channel="ANTV.vision">
 <title>Darah Perjaka</title>
+</programme>
+<programme start="20260205183000 +0000" stop="20260205193000 +0000" channel="ANTV.vision">
+<title>Bioskop Asia</title>
 </programme>
 <programme start="20260205193000 +0000" stop="20260205220000 +0000" channel="ANTV.vision">
 <title>Coppa Italia</title>
 </programme>
-<programme start="20260205233000 +0000" stop="20260206003000 +0000" channel="ANTV.vision">
+<programme start="20260205220000 +0000" stop="20260205223000 +0000" channel="ANTV.vision">
+<title>Senyum Iman</title>
+</programme>
+<programme start="20260205223000 +0000" stop="20260205230000 +0000" channel="ANTV.vision">
+<title>Super Viral</title>
+</programme>
+<programme start="20260205230000 +0000" stop="20260206003000 +0000" channel="ANTV.vision">
 <title>Baalveer Returns</title>
 </programme>
 <programme start="20260206003000 +0000" stop="20260206023000 +0000" channel="ANTV.vision">
@@ -688,7 +703,7 @@
 <programme start="20260206060000 +0000" stop="20260206083000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
-<programme start="20260206083000 +0000" stop="20260206113000 +0000" channel="ANTV.vision">
+<programme start="20260206083000 +0000" stop="20260206130000 +0000" channel="ANTV.vision">
 <title>Vasudha</title>
 </programme>
 <programme start="20260204230000 +0000" stop="20260205010000 +0000" channel="RTV.vision">

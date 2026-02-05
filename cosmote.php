@@ -110,6 +110,10 @@
     <title>Football: Como - Atalanta</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260206161000 +0700" stop="20260206181000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Torino - Lecce</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260205150000 +0700" stop="20260205165000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Portsmouth - West Bromwich Albion</title>
     <desc>Live: Tidak</desc>
@@ -222,8 +226,8 @@
     <title>Basketball: Armani Milano - Brescia</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260205143500 +0700" stop="20260205152500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC 2025</title>
+<programme start="20260206165000 +0700" stop="20260206171500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>ACB Liga Endesa 2025-26 - Fifth Quarter E17</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260205152500 +0700" stop="20260205163000 +0700" channel="COSMOTE Sport 5 HD">
@@ -316,6 +320,10 @@
 </programme>
 <programme start="20260206154500 +0700" stop="20260206163500 +0700" channel="COSMOTE Sport 5 HD">
     <title>DTM</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260206163500 +0700" stop="20260206170500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Extreme E - Highlights 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260205140000 +0700" stop="20260205180000 +0700" channel="COSMOTE Sport 6 HD">
