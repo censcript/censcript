@@ -842,10 +842,10 @@
         <title>TSINGTAO Badminton Asia Team Championships 2026: Men’s Team: China vs Thailand</title>
     </programme>
     <programme start="20260205141500 +0000" stop="20260205160000 +0000" channel="Live 2.mewatch">
-        <title>No Programme available now. Next Broadcast on 6th February, Friday 10.55am. TSINGTAO Badminton Asia Team Championships 2026: Women’s Team Quarter Final</title>
+        <title>No Programme available now. Next Broadcast on 6th February, Friday 09.55am. TSINGTAO Badminton Asia Team Championships 2026: Women’s Team Quarter-final: China vs India</title>
     </programme>
-    <programme start="20260205160000 +0000" stop="20260206025500 +0000" channel="Live 2.mewatch">
-        <title>No Programme available now. Next Broadcast on 6th February, Friday 10.55am. TSINGTAO Badminton Asia Team Championships 2026: Women’s Team Quarter Final</title>
+    <programme start="20260205160000 +0000" stop="20260206015500 +0000" channel="Live 2.mewatch">
+        <title>No Programme available now. Next Broadcast on 6th February, Friday 09.55am. TSINGTAO Badminton Asia Team Championships 2026: Women’s Team Quarter-final: China vs India</title>
     </programme>
     <programme start="20260204160000 +0000" stop="20260204195200 +0000" channel="Live 5.mewatch">
         <title>No Programme available now. Next Broadcast on 5th February, Thursday 3.52am. Carabao Cup 2025/26</title>

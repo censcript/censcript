@@ -114,6 +114,10 @@
     <title>Football: Bologna - AC Milan</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260206225000 +0700" stop="20260206230500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Sports Classics: Worldies E14</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260205204500 +0700" stop="20260205224500 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Pafos FC - APOEL</title>
     <desc>Live: Tidak</desc>
@@ -168,10 +172,6 @@
 </programme>
 <programme start="20260206210000 +0700" stop="20260206230000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Al-Okhdood Club - Al Hilal</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260205193000 +0700" stop="20260205214000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Alba Berlin - Karditsa</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260205214000 +0700" stop="20260205235000 +0700" channel="COSMOTE Sport 4 HD">
@@ -338,6 +338,10 @@
     <title>WRC 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260206222500 +0700" stop="20260206230500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC 2026</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260205203000 +0700" stop="20260205223000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Tallon Griekspoor - Pablo Carreno Busta (L)</title>
     <desc>Live: Ya</desc>
@@ -383,6 +387,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260206203000 +0700" stop="20260206223000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: ATP 250 2026 (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
+<programme start="20260206223000 +0700" stop="20260207003000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP 250 2026 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
