@@ -3293,7 +3293,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260205084000 +0000" stop="20260205090000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: Live Tennis WTA Tour</title>
 </programme>
-<programme start="20260205090000 +0000" stop="20260205190000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260205090000 +0000" stop="20260205170000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WTA 500: Mubadala Abu Dhabi Open in Abu Dhabi (VAE), 5. Tag</title>
 </programme>
 <programme start="20260204231500 +0000" stop="20260205000000 +0000" channel="SYFY HD.skyde">

@@ -838,10 +838,10 @@
     <programme start="20260205080000 +0000" stop="20260205085500 +0000" channel="Live 2.mewatch">
         <title>No Programme available now. Next Broadcast on 5th February, Thursday 04.55pm. TSINGTAO Badminton Asia Team Championships 2026: Men&#039;s Team: China vs Thailand</title>
     </programme>
-    <programme start="20260205085500 +0000" stop="20260205140000 +0000" channel="Live 2.mewatch">
+    <programme start="20260205085500 +0000" stop="20260205141500 +0000" channel="Live 2.mewatch">
         <title>TSINGTAO Badminton Asia Team Championships 2026: Men’s Team: China vs Thailand</title>
     </programme>
-    <programme start="20260205140000 +0000" stop="20260205160000 +0000" channel="Live 2.mewatch">
+    <programme start="20260205141500 +0000" stop="20260205160000 +0000" channel="Live 2.mewatch">
         <title>No Programme available now. Next Broadcast on 6th February, Friday 10.55am. TSINGTAO Badminton Asia Team Championships 2026: Women’s Team Quarter Final</title>
     </programme>
     <programme start="20260205160000 +0000" stop="20260206025500 +0000" channel="Live 2.mewatch">
