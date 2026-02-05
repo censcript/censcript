@@ -2721,7 +2721,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Fußball: Heimspiel - Austria Salzburg</title>
 </programme>
 <programme start="20260205100000 +0000" stop="20260205120000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>UEFA Youth League: FC Chelsea - PSV Eindhoven, Achtelfinale</title>
+    <title>UEFA Youth League: FC Chelsea - PSV Eindhoven, Sechzehntelfinale</title>
 </programme>
 <programme start="20260205120000 +0000" stop="20260205123000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>RIESENrad: Sportgrößen im Waggon 28 (Gast: Emma Spitz)</title>
@@ -3185,26 +3185,26 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260205220000 +0000" stop="20260206000000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>Carabao Cup: FC Arsenal - FC Chelsea, Halbfinale Rückspiel</title>
 </programme>
-<programme start="20260205000000 +0000" stop="20260205020000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 250: Topspiel, Open Occitanie in Montpellier (FRA), 3. Tag</title>
-</programme>
-<programme start="20260205020000 +0000" stop="20260205023000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP: This Week</title>
+<programme start="20260205003000 +0000" stop="20260205023000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 250: S. Wawrinka (SUI) - H. Medjedovic (SRB), Open Occitanie in Montpellier (FRA), 3. Tag</title>
 </programme>
 <programme start="20260205023000 +0000" stop="20260205050000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 250: T. Machac (CZE) - U. Humbert (FRA), Adelaide International in Adelaide (AUS), Finale</title>
 </programme>
 <programme start="20260205050000 +0000" stop="20260205070000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 250: Topspiel, Open Occitanie in Montpellier (FRA), 3. Tag</title>
+    <title>ATP 250: S. Wawrinka (SUI) - H. Medjedovic (SRB), Open Occitanie in Montpellier (FRA), 3. Tag</title>
 </programme>
-<programme start="20260205070000 +0000" stop="20260205090000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: Topspiel, Mubadala Abu Dhabi Open in Abu Dhabi (VAE), 4. Tag</title>
+<programme start="20260205070000 +0000" stop="20260205073000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP: This Week</title>
+</programme>
+<programme start="20260205073000 +0000" stop="20260205090000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 500: D. Yastremska (UKR) - E. Alexandrova, Mubadala Abu Dhabi Open in Abu Dhabi (VAE), 4. Tag</title>
 </programme>
 <programme start="20260205090000 +0000" stop="20260205213000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP &amp; WTA: Die Topspiele des Tages</title>
 </programme>
 <programme start="20260205213000 +0000" stop="20260205233000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: Topspiel, Mubadala Abu Dhabi Open in Abu Dhabi (VAE), 5. Tag</title>
+    <title>WTA 500: C. Tauson (DEN) - M. Kessler (USA), Mubadala Abu Dhabi Open in Abu Dhabi (VAE), 5. Tag</title>
 </programme>
 <programme start="20260205003000 +0000" stop="20260205010000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>ATP: This Week</title>
@@ -3215,7 +3215,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260205013000 +0000" stop="20260205020000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>PL: PL Stories (Antonio Valencia)</title>
 </programme>
-<programme start="20260205020000 +0000" stop="20260205030000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260205020000 +0000" stop="20260205021500 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>NHL: Highlights TOR@EDM</title>
+</programme>
+<programme start="20260205021500 +0000" stop="20260205023000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>NHL: Highlights OTT@CAR</title>
+</programme>
+<programme start="20260205023000 +0000" stop="20260205030000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>NHL: On the Fly</title>
 </programme>
 <programme start="20260205030000 +0000" stop="20260205060000 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3287,7 +3293,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260205084000 +0000" stop="20260205090000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: Live Tennis WTA Tour</title>
 </programme>
-<programme start="20260205090000 +0000" stop="20260205170000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260205090000 +0000" stop="20260205190000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WTA 500: Mubadala Abu Dhabi Open in Abu Dhabi (VAE), 5. Tag</title>
 </programme>
 <programme start="20260204231500 +0000" stop="20260205000000 +0000" channel="SYFY HD.skyde">

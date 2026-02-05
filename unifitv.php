@@ -5690,7 +5690,7 @@
   <programme start="20260204223000 +0000" stop="20260204230000 +0000" channel="hbohd.unifitv">
     <title lang="en">Hollywood On Set</title>
     <desc lang="en">Each week Hollywood On Set goes behind-the-scenes on three major movies in production, featuring action footage and interviews with filmmakers.</desc>
-    <category lang="en">Entertaiment</category>
+    <category lang="en">Entertainment</category>
     <episode-num system="xmltv_ns">0.1153.</episode-num>
     <episode-num system="onscreen">S1E1154</episode-num>
   </programme>
