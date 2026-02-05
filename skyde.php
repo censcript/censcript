@@ -2721,7 +2721,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Fußball: Heimspiel - Austria Salzburg</title>
 </programme>
 <programme start="20260205100000 +0000" stop="20260205120000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>UEFA Youth League: FC Chelsea - PSV Eindhoven, Sechzehntelfinale</title>
+    <title>UEFA Youth League: FC Chelsea - PSV Eindhoven, Achtelfinale</title>
 </programme>
 <programme start="20260205120000 +0000" stop="20260205123000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>RIESENrad: Sportgrößen im Waggon 28 (Gast: Emma Spitz)</title>
