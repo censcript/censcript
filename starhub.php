@@ -3916,8 +3916,14 @@
     <programme start="20260205120000 +0000" stop="20260205130000 +0000" channel="NHK World Premium HD.starhub">
         <title>News Watch 9 (B)</title>
     </programme>
-    <programme start="20260205130000 +0000" stop="20260205134500 +0000" channel="NHK World Premium HD.starhub">
-        <title>TBA</title>
+    <programme start="20260205130000 +0000" stop="20260205132700 +0000" channel="NHK World Premium HD.starhub">
+        <title>HOKKAIDODO</title>
+    </programme>
+    <programme start="20260205132700 +0000" stop="20260205133000 +0000" channel="NHK World Premium HD.starhub">
+        <title>Mini Program</title>
+    </programme>
+    <programme start="20260205133000 +0000" stop="20260205134500 +0000" channel="NHK World Premium HD.starhub">
+        <title>Magnificent Sight!--Mountain Lodges in Europe</title>
     </programme>
     <programme start="20260205134500 +0000" stop="20260205140000 +0000" channel="NHK World Premium HD.starhub">
         <title>Night Drama Serial &quot;Bravo Extra Noodles!&quot; Ep. 20 (Final)</title>
