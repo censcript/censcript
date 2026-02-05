@@ -520,25 +520,25 @@
 <programme start="20260206114500 +0000" stop="20260206130000 +0000" channel="Trans TV.vision">
 <title>Insert Story</title>
 </programme>
-<programme start="20260204233000 +0000" stop="20260205003000 +0000" channel="Trans 7.vision">
+<programme start="20260208233000 +0000" stop="20260209003000 +0000" channel="Trans 7.vision">
 <title>Spotlite</title>
 </programme>
-<programme start="20260205003000 +0000" stop="20260205013000 +0000" channel="Trans 7.vision">
+<programme start="20260209003000 +0000" stop="20260209013000 +0000" channel="Trans 7.vision">
 <title>Selebrita Pagi</title>
 </programme>
-<programme start="20260205013000 +0000" stop="20260205023000 +0000" channel="Trans 7.vision">
+<programme start="20260209013000 +0000" stop="20260209023000 +0000" channel="Trans 7.vision">
 <title>FYP (For Your Pagi)</title>
 </programme>
-<programme start="20260205023000 +0000" stop="20260205031500 +0000" channel="Trans 7.vision">
+<programme start="20260209023000 +0000" stop="20260209031500 +0000" channel="Trans 7.vision">
 <title>Selebrita Heits</title>
 </programme>
-<programme start="20260205031500 +0000" stop="20260205041500 +0000" channel="Trans 7.vision">
+<programme start="20260209031500 +0000" stop="20260209041500 +0000" channel="Trans 7.vision">
 <title>Big-Bang!</title>
 </programme>
-<programme start="20260205041500 +0000" stop="20260205050000 +0000" channel="Trans 7.vision">
+<programme start="20260209041500 +0000" stop="20260209050000 +0000" channel="Trans 7.vision">
 <title>Enah Bikin Enak</title>
 </programme>
-<programme start="20260205050000 +0000" stop="20260205054500 +0000" channel="Trans 7.vision">
+<programme start="20260209050000 +0000" stop="20260209054500 +0000" channel="Trans 7.vision">
 <title>Bocah Petualang</title>
 </programme>
 <programme start="20260205054500 +0000" stop="20260205063000 +0000" channel="Trans 7.vision">
@@ -547,13 +547,13 @@
 <programme start="20260205063000 +0000" stop="20260205071500 +0000" channel="Trans 7.vision">
 <title>Kepo</title>
 </programme>
-<programme start="20260205071500 +0000" stop="20260205080000 +0000" channel="Trans 7.vision">
+<programme start="20260209071500 +0000" stop="20260209080000 +0000" channel="Trans 7.vision">
 <title>Redaksi</title>
 </programme>
-<programme start="20260205080000 +0000" stop="20260205090000 +0000" channel="Trans 7.vision">
+<programme start="20260209080000 +0000" stop="20260209090000 +0000" channel="Trans 7.vision">
 <title>Jejak Si Gundul</title>
 </programme>
-<programme start="20260205090000 +0000" stop="20260205100000 +0000" channel="Trans 7.vision">
+<programme start="20260209090000 +0000" stop="20260209100000 +0000" channel="Trans 7.vision">
 <title>Makan Receh</title>
 </programme>
 <programme start="20260205100000 +0000" stop="20260205101500 +0000" channel="Trans 7.vision">
@@ -943,9 +943,6 @@
 <programme start="20260205143000 +0000" stop="20260205153000 +0000" channel="Kompas TV.vision">
 <title>Kompas Malam</title>
 </programme>
-<programme start="20260205153000 +0000" stop="20260205160000 +0000" channel="Kompas TV.vision">
-<title>Berita Utama</title>
-</programme>
 <programme start="20260205160000 +0000" stop="20260205163000 +0000" channel="Kompas TV.vision">
 <title>Kompas Sport</title>
 </programme>
@@ -964,47 +961,8 @@
 <programme start="20260205200000 +0000" stop="20260205210000 +0000" channel="Kompas TV.vision">
 <title>Kalam Hati</title>
 </programme>
-<programme start="20260205210000 +0000" stop="20260205213000 +0000" channel="Kompas TV.vision">
-<title>Borgol</title>
-</programme>
-<programme start="20260205213000 +0000" stop="20260205233000 +0000" channel="Kompas TV.vision">
-<title>Kompas Pagi</title>
-</programme>
-<programme start="20260205233000 +0000" stop="20260206000000 +0000" channel="Kompas TV.vision">
-<title>Jurnal Nusantara</title>
-</programme>
-<programme start="20260206000000 +0000" stop="20260206023000 +0000" channel="Kompas TV.vision">
-<title>Sapa Indonesia Pagi</title>
-</programme>
-<programme start="20260206023000 +0000" stop="20260206033000 +0000" channel="Kompas TV.vision">
-<title>Berita Utama</title>
-</programme>
-<programme start="20260206033000 +0000" stop="20260206040000 +0000" channel="Kompas TV.vision">
-<title>Borgol</title>
-</programme>
-<programme start="20260206040000 +0000" stop="20260206060000 +0000" channel="Kompas TV.vision">
-<title>Kompas Siang</title>
-</programme>
-<programme start="20260206060000 +0000" stop="20260206070000 +0000" channel="Kompas TV.vision">
-<title>Sapa Indonesia Siang</title>
-</programme>
 <programme start="20260206070000 +0000" stop="20260206073000 +0000" channel="Kompas TV.vision">
 <title>Sasaran</title>
-</programme>
-<programme start="20260206073000 +0000" stop="20260206080000 +0000" channel="Kompas TV.vision">
-<title>Jurnal Merah Putih</title>
-</programme>
-<programme start="20260206080000 +0000" stop="20260206083000 +0000" channel="Kompas TV.vision">
-<title>Indonesia Update</title>
-</programme>
-<programme start="20260206083000 +0000" stop="20260206090000 +0000" channel="Kompas TV.vision">
-<title>Borgol</title>
-</programme>
-<programme start="20260206090000 +0000" stop="20260206103000 +0000" channel="Kompas TV.vision">
-<title>Kompas Petang</title>
-</programme>
-<programme start="20260206103000 +0000" stop="20260206123000 +0000" channel="Kompas TV.vision">
-<title>Sapa Indonesia Malam</title>
 </programme>
 <programme start="20260205000000 +0000" stop="20260205000500 +0000" channel="Metro TV.vision">
 <title>Headline News</title>
