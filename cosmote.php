@@ -66,8 +66,8 @@
     <title>Game R1 S6 E24</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260206050000 +0700" stop="20260206053000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Serie A Full Impact 2025-26 E23</title>
+<programme start="20260207060000 +0700" stop="20260207070000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEL &amp; UECL Magazine 2025-26 E11</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260206053000 +0700" stop="20260206074000 +0700" channel="COSMOTE Sport 2 HD">
@@ -132,10 +132,6 @@
 </programme>
 <programme start="20260207044500 +0700" stop="20260207070000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Panathinaikos - Kifisia</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260206050000 +0700" stop="20260206052000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>William Hill Scottish Premiership - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260206052000 +0700" stop="20260206071500 +0700" channel="COSMOTE Sport 3 HD">
@@ -254,8 +250,8 @@
     <title>Basketball: Alba Berlin - Karditsa</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260206045500 +0700" stop="20260206055000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>2025 FIM Women&#039;s Circuit Racing World Championship</title>
+<programme start="20260207065000 +0700" stop="20260207090000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Murcia - Barcelona</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260206055000 +0700" stop="20260206071500 +0700" channel="COSMOTE Sport 5 HD">
@@ -366,8 +362,12 @@
     <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260206050000 +0700" stop="20260206053000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Sports Classics: 2025 Outdoor Specials</title>
+<programme start="20260207061500 +0700" stop="20260207064500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC Magazine 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260207064500 +0700" stop="20260207073000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260206053000 +0700" stop="20260206093000 +0700" channel="COSMOTE Sport 6 HD">
@@ -412,6 +412,10 @@
 </programme>
 <programme start="20260207050000 +0700" stop="20260207063000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Topspin</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260207063000 +0700" stop="20260207103000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: ATP 250 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260206050000 +0700" stop="20260206070000 +0700" channel="COSMOTE Sport 7 HD">
