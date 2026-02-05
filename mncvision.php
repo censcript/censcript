@@ -194,7 +194,7 @@
     <title>News (L)</title>
 </programme>
 <programme start="20260205143000 +0000" stop="20260205150000 +0000" channel="Al Jazeera English.mncvision">
-    <title>Talk To Al Jazeera: Hakan Fidan</title>
+    <title>101 East: Philippines</title>
 </programme>
 <programme start="20260205150000 +0000" stop="20260205160000 +0000" channel="Al Jazeera English.mncvision">
     <title>NewsHour</title>
@@ -7931,13 +7931,13 @@
     <title>AFC Asian Cup 2026: JPN Vs QAT</title>
 </programme>
 <programme start="20260205075500 +0000" stop="20260205100000 +0000" channel="Soccer Channel.mncvision">
-    <title>AFC Futsal Asian Cup IDN (L)</title>
+    <title>AFC Futsal &#039;26: IRQ Vs IRN (L)</title>
 </programme>
 <programme start="20260205100000 +0000" stop="20260205120000 +0000" channel="Soccer Channel.mncvision">
-    <title>AFC Futsal Asian Cup IDN 2026</title>
+    <title>AFC Futsal 2026: THA Vs IRQ</title>
 </programme>
 <programme start="20260205120000 +0000" stop="20260205140000 +0000" channel="Soccer Channel.mncvision">
-    <title>AFC Futsal Asian Cup IDN (L)</title>
+    <title>AFC Futsal &#039;26: IDN Vs JPN (L)</title>
 </programme>
 <programme start="20260205140000 +0000" stop="20260205143000 +0000" channel="Soccer Channel.mncvision">
     <title>Planet Football</title>
@@ -7976,13 +7976,13 @@
     <title>AFC Asian Cup 2026: JPN Vs QAT</title>
 </programme>
 <programme start="20260205075500 +0000" stop="20260205100000 +0000" channel="Soccer Channel HD.mncvision">
-    <title>AFC Futsal Asian Cup IDN (L)</title>
+    <title>AFC Futsal &#039;26: IRQ Vs IRN (L)</title>
 </programme>
 <programme start="20260205100000 +0000" stop="20260205120000 +0000" channel="Soccer Channel HD.mncvision">
-    <title>AFC Futsal Asian Cup IDN 2026</title>
+    <title>AFC Futsal 2026: THA Vs IRQ</title>
 </programme>
 <programme start="20260205120000 +0000" stop="20260205140000 +0000" channel="Soccer Channel HD.mncvision">
-    <title>AFC Futsal Asian Cup IDN (L)</title>
+    <title>AFC Futsal &#039;26: IDN Vs JPN (L)</title>
 </programme>
 <programme start="20260205140000 +0000" stop="20260205143000 +0000" channel="Soccer Channel HD.mncvision">
     <title>Planet Football</title>

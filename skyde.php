@@ -2966,11 +2966,17 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260205150000 +0000" stop="20260205200000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Live LIV Golf: Riad, 2. Tag in Saudi-Arabien</title>
 </programme>
-<programme start="20260205200000 +0000" stop="20260205223000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Golf: Africa Amateur Championship, 2. Tag in Johannesburg (Südafrika)</title>
+<programme start="20260205200000 +0000" stop="20260205203000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Golf: Auf einen Plausch mit ... Freddy Schott</title>
 </programme>
-<programme start="20260205223000 +0000" stop="20260206013000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>LIV Golf: Riad, 2. Tag in Saudi-Arabien</title>
+<programme start="20260205203000 +0000" stop="20260205204500 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Golf: Projekt 0 (9)</title>
+</programme>
+<programme start="20260205204500 +0000" stop="20260205210000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Golf: Projekt 0 (10)</title>
+</programme>
+<programme start="20260205210000 +0000" stop="20260205233000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Golf: Africa Amateur Championship, 2. Tag in Johannesburg (Südafrika)</title>
 </programme>
 <programme start="20260204230000 +0000" stop="20260204233000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Fußball: scooore Portugal! Alle Tore</title>
@@ -3287,7 +3293,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260205084000 +0000" stop="20260205090000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: Live Tennis WTA Tour</title>
 </programme>
-<programme start="20260205090000 +0000" stop="20260205170000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260205090000 +0000" stop="20260205190000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WTA 500: Mubadala Abu Dhabi Open in Abu Dhabi (VAE), 5. Tag</title>
 </programme>
 <programme start="20260204231500 +0000" stop="20260205000000 +0000" channel="SYFY HD.skyde">
@@ -3782,16 +3788,16 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260205081000 +0000" stop="20260205090000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Mord ist ihr Hobby</title>
 </programme>
-<programme start="20260205090000 +0000" stop="20260205095000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260205090000 +0000" stop="20260205095500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Mord ist ihr Hobby</title>
 </programme>
-<programme start="20260205095000 +0000" stop="20260205104000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260205095500 +0000" stop="20260205104000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Mord ist ihr Hobby</title>
 </programme>
-<programme start="20260205104000 +0000" stop="20260205113000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260205104000 +0000" stop="20260205113500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Mord ist ihr Hobby</title>
 </programme>
-<programme start="20260205113000 +0000" stop="20260205122000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260205113500 +0000" stop="20260205122000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Rizzoli and Isles</title>
 </programme>
 <programme start="20260205122000 +0000" stop="20260205130500 +0000" channel="Warner TV Serie HD.skyde">
@@ -3812,10 +3818,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260205161000 +0000" stop="20260205165500 +0000" channel="Warner TV Serie HD.skyde">
     <title>NCIS</title>
 </programme>
-<programme start="20260205165500 +0000" stop="20260205174000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260205165500 +0000" stop="20260205174500 +0000" channel="Warner TV Serie HD.skyde">
     <title>NCIS</title>
 </programme>
-<programme start="20260205174000 +0000" stop="20260205183000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260205174500 +0000" stop="20260205183000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Rizzoli and Isles</title>
 </programme>
 <programme start="20260205183000 +0000" stop="20260205191500 +0000" channel="Warner TV Serie HD.skyde">

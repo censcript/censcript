@@ -775,9 +775,14 @@
     <desc lang="en">Berita Semasa dalam dan luar negara</desc>
     <category lang="en">Drama</category>
   </programme>
-  <programme start="20260205070500 +0000" stop="20260205080000 +0000" channel="tv1.unifitv">
-    <title lang="en">Diari Rawat 2025</title>
-    <desc lang="en">Saksikan perbincangan bersama pakar kesihatan dengan isu-isu kesihatan terkini dalam Diari Rawat.</desc>
+  <programme start="20260205070500 +0000" stop="20260205073000 +0000" channel="tv1.unifitv">
+    <title lang="en">Siaran Langsung: Majlis Perasmian Forum Ekonomi Malaysia (FEM) 2026</title>
+    <desc lang="en">Siaran Langsung: Majlis Perasmian Forum Ekonomi Malaysia (FEM) 2026</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260205073000 +0000" stop="20260205080000 +0000" channel="tv1.unifitv">
+    <title lang="en">Promo / PSA / Kapsul</title>
+    <desc lang="en">Promo / PSA / Kapsul</desc>
     <category lang="en">Drama</category>
   </programme>
   <programme start="20260205080000 +0000" stop="20260205080500 +0000" channel="tv1.unifitv">
