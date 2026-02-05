@@ -5168,7 +5168,7 @@
         <title>Day 2 Session 2</title>
     </programme>
     <programme start="20260205140000 +0000" stop="20260205160000 +0000" channel="SPOTV.starhub">
-        <title>Aberdeen vs Celtic</title>
+        <title>25/26 Scottish Premiership Round 24 Hibernian vs Rangers</title>
     </programme>
     <programme start="20260204153500 +0000" stop="20260204170500 +0000" channel="KBS World HD.starhub">
         <title>Stars&#039; Top Recipe at Fun-Staurant</title>

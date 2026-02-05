@@ -110,6 +110,10 @@
     <title>Football: Panetolikos - Aris</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260206141000 +0700" stop="20260206161000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Como - Atalanta</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260205130000 +0700" stop="20260205150000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Tondela - SL Benfica</title>
     <desc>Live: Tidak</desc>
@@ -226,8 +230,8 @@
     <title>Basketball: Karsiyaka - Fenerbahce</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260205124500 +0700" stop="20260205133000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC 2025</title>
+<programme start="20260206145000 +0700" stop="20260206165000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Armani Milano - Brescia</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260205133000 +0700" stop="20260205143500 +0700" channel="COSMOTE Sport 5 HD">
@@ -322,8 +326,8 @@
     <title>DTM 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260205110000 +0700" stop="20260205140000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: ATP 250 2026</title>
+<programme start="20260206145500 +0700" stop="20260206154500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>2025 GT World Challenge Europe</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260205140000 +0700" stop="20260205180000 +0700" channel="COSMOTE Sport 6 HD">
@@ -363,6 +367,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260206110000 +0700" stop="20260206143000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: ATP 250 2026</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260206143000 +0700" stop="20260206173000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP 250 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
