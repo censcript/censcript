@@ -44,7 +44,7 @@
         <title> Việt Nam đa sắc </title>
     </programme>
     <programme start="20260206082500 +0000" stop="20260206083000 +0000" channel="VTV1 HD.mytv">
-        <title> Phim tài liệu </title>
+        <title> Phim tài liệu : Khoa học công nghệ biển </title>
     </programme>
     <programme start="20260206083000 +0000" stop="20260206090000 +0000" channel="VTV1 HD.mytv">
         <title> Từ những miền quê : Dân dã vị mắm quê nhà </title>
@@ -71,7 +71,7 @@
         <title> Sự lựa chọn </title>
     </programme>
     <programme start="20260206112500 +0000" stop="20260206115500 +0000" channel="VTV1 HD.mytv">
-        <title> Nét đẹp dân gian </title>
+        <title> Nét đẹp dân gian : Ơn sâu dưới mái đình quê hương </title>
     </programme>
     <programme start="20260206115500 +0000" stop="20260206120000 +0000" channel="VTV1 HD.mytv">
         <title> Tài chính - Kinh doanh </title>
@@ -113,7 +113,7 @@
         <title> Việt Nam đa sắc </title>
     </programme>
     <programme start="20260206180000 +0000" stop="20260206181000 +0000" channel="VTV1 HD.mytv">
-        <title> Chống gian lận-Bảo vệ người dùng </title>
+        <title> Chống gian lận-Bảo vệ người dùng : Giữ sạch thị trường hàng hoá Tết </title>
     </programme>
     <programme start="20260206181000 +0000" stop="20260206182000 +0000" channel="VTV1 HD.mytv">
         <title> Hành trình vẻ đẹp </title>
@@ -134,16 +134,16 @@
         <title> Điểm tin </title>
     </programme>
     <programme start="20260206205500 +0000" stop="20260206210000 +0000" channel="VTV1 HD.mytv">
-        <title> S - Việt Nam : Hành trình khám phá bản Áng </title>
+        <title> S - Việt Nam </title>
     </programme>
     <programme start="20260206210000 +0000" stop="20260206210500 +0000" channel="VTV1 HD.mytv">
         <title> Việt Nam vui khỏe </title>
     </programme>
     <programme start="20260206210500 +0000" stop="20260206211000 +0000" channel="VTV1 HD.mytv">
-        <title> Phim tài liệu </title>
+        <title> Phim tài liệu : Mạch ngầm giữ nước </title>
     </programme>
     <programme start="20260206211000 +0000" stop="20260206213000 +0000" channel="VTV1 HD.mytv">
-        <title> Công dân số </title>
+        <title> Công dân số : Văn phòng số </title>
     </programme>
     <programme start="20260206213000 +0000" stop="20260206214500 +0000" channel="VTV1 HD.mytv">
         <title> Vươn tầm doanh nghiệp Việt </title>

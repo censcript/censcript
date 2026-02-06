@@ -78,6 +78,10 @@
     <title>PreGame (L)</title>
     <desc>Live: Ya</desc>
 </programme>
+<programme start="20260207220000 +0700" stop="20260208001000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: AEL Novibet - Panetolikos (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
 <programme start="20260206205000 +0700" stop="20260206225000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Bologna - AC Milan</title>
     <desc>Live: Tidak</desc>
@@ -202,9 +206,9 @@
     <title>William Hill Scottish Premiership - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260206195000 +0700" stop="20260206215000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Merkezefendi - Anadolu Efes</title>
-    <desc>Live: Tidak</desc>
+<programme start="20260207220000 +0700" stop="20260208000000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Coventry City - Oxford United F.C. (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260206215000 +0700" stop="20260206235000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Virtus Bologna - Aquila Basket Trento</title>
@@ -272,10 +276,6 @@
 </programme>
 <programme start="20260207214500 +0700" stop="20260207235500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Alba Berlin - Karditsa</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260206204000 +0700" stop="20260206212500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260206212500 +0700" stop="20260206222500 +0700" channel="COSMOTE Sport 5 HD">
@@ -394,6 +394,10 @@
     <title>WRC 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260207221000 +0700" stop="20260207231000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260206203000 +0700" stop="20260206223000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Adrian Mannarino - Arthur Gea (L)</title>
     <desc>Live: Ya</desc>
@@ -440,6 +444,10 @@
 </programme>
 <programme start="20260207210000 +0700" stop="20260207220000 +0700" channel="COSMOTE Sport 6 HD">
     <title>PreGame Show (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
+<programme start="20260207220000 +0700" stop="20260208000000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: Greece - Mexico (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20260206210000 +0700" stop="20260206230000 +0700" channel="COSMOTE Sport 7 HD">
