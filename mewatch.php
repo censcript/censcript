@@ -631,71 +631,56 @@
     <programme start="20260206140000 +0000" stop="20260206163000 +0000" channel="now-80s.mewatch">
         <title>Chartbusters! with Bruno Brookes - EP1</title>
     </programme>
-    <programme start="20260205160000 +0000" stop="20260205181500 +0000" channel="now-70s.mewatch">
-        <title>Derek Griffiths: Playschool Disco! - EP1</title>
+    <programme start="20260205160000 +0000" stop="20260205170000 +0000" channel="now-70s.mewatch">
+        <title>The Best 1973 Party...Ever! - EP1</title>
     </programme>
-    <programme start="20260205181500 +0000" stop="20260205182500 +0000" channel="now-70s.mewatch">
-        <title>The Bank Holiday Boogie! - EP1</title>
+    <programme start="20260205170000 +0000" stop="20260205180000 +0000" channel="now-70s.mewatch">
+        <title>All Day - It&#039;s 1973! - EP1</title>
     </programme>
-    <programme start="20260205182500 +0000" stop="20260205205500 +0000" channel="now-70s.mewatch">
-        <title>The Complete Abba! 1973-2022 - EP1</title>
+    <programme start="20260205180000 +0000" stop="20260205182500 +0000" channel="now-70s.mewatch">
+        <title>Mark Goodier&#039;s No.1s of 1973 - EP1</title>
     </programme>
-    <programme start="20260205205500 +0000" stop="20260205210000 +0000" channel="now-70s.mewatch">
-        <title>Boogie Nights! - EP1</title>
+    <programme start="20260205182500 +0000" stop="20260205190000 +0000" channel="now-70s.mewatch">
+        <title>All Day - It&#039;s 1973! - EP1</title>
     </programme>
-    <programme start="20260205210000 +0000" stop="20260206000000 +0000" channel="now-70s.mewatch">
-        <title>Essentials! 70s Rock Groups - EP1</title>
+    <programme start="20260205190000 +0000" stop="20260205200000 +0000" channel="now-70s.mewatch">
+        <title>The 1973 POWER Hour with Bam! - EP1</title>
     </programme>
-    <programme start="20260206000000 +0000" stop="20260206010000 +0000" channel="now-70s.mewatch">
-        <title>Simon Bates Golden Hour: 1979 - EP1</title>
+    <programme start="20260205200000 +0000" stop="20260205212500 +0000" channel="now-70s.mewatch">
+        <title>20 Truckin&#039; Good Tunes! - EP1</title>
+    </programme>
+    <programme start="20260205212500 +0000" stop="20260205220000 +0000" channel="now-70s.mewatch">
+        <title>70s School Disco! - EP1</title>
+    </programme>
+    <programme start="20260205220000 +0000" stop="20260206000500 +0000" channel="now-70s.mewatch">
+        <title>30 Dead Catchy Choruses! - EP1</title>
+    </programme>
+    <programme start="20260206000500 +0000" stop="20260206010000 +0000" channel="now-70s.mewatch">
+        <title>Far Out, Man! - EP1</title>
     </programme>
     <programme start="20260206010000 +0000" stop="20260206020000 +0000" channel="now-70s.mewatch">
-        <title>Simon Bates Golden Hour: 1978 - EP1</title>
+        <title>The Beatles v The Stones! - EP1</title>
     </programme>
-    <programme start="20260206020000 +0000" stop="20260206030000 +0000" channel="now-70s.mewatch">
-        <title>Simon Bates Golden Hour: 1977 - EP1</title>
+    <programme start="20260206020000 +0000" stop="20260206041000 +0000" channel="now-70s.mewatch">
+        <title>Rosko&#039;s Hellraisers! Top 25 - EP1</title>
     </programme>
-    <programme start="20260206030000 +0000" stop="20260206040000 +0000" channel="now-70s.mewatch">
-        <title>Simon Bates NEW Golden Hour: 1976 - EP1</title>
+    <programme start="20260206041000 +0000" stop="20260206050000 +0000" channel="now-70s.mewatch">
+        <title>Far Out, Man! - EP1</title>
     </programme>
-    <programme start="20260206040000 +0000" stop="20260206050000 +0000" channel="now-70s.mewatch">
-        <title>Simon Bates Golden Hour: 1975 - EP1</title>
+    <programme start="20260206050000 +0000" stop="20260206070500 +0000" channel="now-70s.mewatch">
+        <title>A Touch of Class! Top 30 - EP1</title>
     </programme>
-    <programme start="20260206050000 +0000" stop="20260206060000 +0000" channel="now-70s.mewatch">
-        <title>Simon Bates NEW Golden Hour: 1974 - EP1</title>
+    <programme start="20260206070500 +0000" stop="20260206080000 +0000" channel="now-70s.mewatch">
+        <title>Feelgood Friday! - EP1</title>
     </programme>
-    <programme start="20260206060000 +0000" stop="20260206070000 +0000" channel="now-70s.mewatch">
-        <title>Simon Bates NEW Golden Hour: 1973 - EP1</title>
+    <programme start="20260206080000 +0000" stop="20260206152500 +0000" channel="now-70s.mewatch">
+        <title>The 101 Best Disco Boogies - Ever! - EP1</title>
     </programme>
-    <programme start="20260206070000 +0000" stop="20260206080000 +0000" channel="now-70s.mewatch">
-        <title>Simon Bates Golden Hour: 1972 - EP1</title>
+    <programme start="20260206152500 +0000" stop="20260206160000 +0000" channel="now-70s.mewatch">
+        <title>Feelgood Friday! - EP1</title>
     </programme>
-    <programme start="20260206080000 +0000" stop="20260206090000 +0000" channel="now-70s.mewatch">
-        <title>Simon Bates Golden Hour: 1971 - EP1</title>
-    </programme>
-    <programme start="20260206090000 +0000" stop="20260206093000 +0000" channel="now-70s.mewatch">
-        <title>Simon Bates NEW Golden Hour: 1970 - EP1</title>
-    </programme>
-    <programme start="20260206093000 +0000" stop="20260206103000 +0000" channel="now-70s.mewatch">
-        <title>Derek Griffiths: Playschool Disco! - EP1</title>
-    </programme>
-    <programme start="20260206103000 +0000" stop="20260206110000 +0000" channel="now-70s.mewatch">
-        <title>Magic Moments! The 70s - EP1</title>
-    </programme>
-    <programme start="20260206110000 +0000" stop="20260206134500 +0000" channel="now-70s.mewatch">
-        <title>Bruno Brookes-Never Even A Top 10? - EP1</title>
-    </programme>
-    <programme start="20260206134500 +0000" stop="20260206140000 +0000" channel="now-70s.mewatch">
-        <title>Punk &amp; Disorderly! - EP1</title>
-    </programme>
-    <programme start="20260206140000 +0000" stop="20260206152000 +0000" channel="now-70s.mewatch">
-        <title>Not A Top 10?! Punk &amp; New Wave - EP1</title>
-    </programme>
-    <programme start="20260206152000 +0000" stop="20260206160000 +0000" channel="now-70s.mewatch">
-        <title>Punk &amp; Disorderly! - EP1</title>
-    </programme>
-    <programme start="20260206160000 +0000" stop="20260206162500 +0000" channel="now-70s.mewatch">
-        <title>Magic Moments! The 70s - EP1</title>
+    <programme start="20260206160000 +0000" stop="20260206180500 +0000" channel="now-70s.mewatch">
+        <title>A Touch of Class! Top 30 - EP1</title>
     </programme>
     <programme start="20260205145000 +0000" stop="20260205163500 +0000" channel="cinemaworld.mewatch">
         <title>All the Blue in the Sky</title>
@@ -829,10 +814,10 @@
     <programme start="20260205160000 +0000" stop="20260206015500 +0000" channel="Live 2.mewatch">
         <title>No Programme available now. Next Broadcast on 6th February, Friday 09.55am. TSINGTAO Badminton Asia Team Championships 2026: Women’s Team Quarter-final: China vs India</title>
     </programme>
-    <programme start="20260206015500 +0000" stop="20260206080000 +0000" channel="Live 2.mewatch">
+    <programme start="20260206015500 +0000" stop="20260206070000 +0000" channel="Live 2.mewatch">
         <title>TSINGTAO Badminton Asia Team Championships 2026: Women’s Team Quarter-final: China vs India</title>
     </programme>
-    <programme start="20260206080000 +0000" stop="20260206085500 +0000" channel="Live 2.mewatch">
+    <programme start="20260206070000 +0000" stop="20260206085500 +0000" channel="Live 2.mewatch">
         <title>No Programme available now. Next Broadcast on 6th February, Friday 04.55pm. TSINGTAO Badminton Asia Team Championships 2026: Men’s Team Quarter-final: Malaysia vs Japan</title>
     </programme>
     <programme start="20260206085500 +0000" stop="20260206140000 +0000" channel="Live 2.mewatch">

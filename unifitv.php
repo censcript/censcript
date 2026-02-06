@@ -2717,38 +2717,19 @@
     <desc lang="en">A local perspective on international and domestic affairs, TVS Sana Sini offers concise news stories alongside the Weather Report, providing a look at climate and environmental conditions affecting the country.</desc>
     <category lang="en">News</category>
   </programme>
-  <programme start="20260206011500 +0000" stop="20260206014500 +0000" channel="tvs.unifitv">
-    <title lang="en">Border Towns of Sarawak</title>
-    <desc lang="en">Documentary filmmaker Yusmal Ghazali explores borderlands, immersing in local life, meeting officials, villagers, entrepreneurs. Revealing history, traits, economy, tourism, post-pandemic challenges.</desc>
-    <category lang="en">Documentary</category>
-    <episode-num system="xmltv_ns">0.2.</episode-num>
-    <episode-num system="onscreen">S1E3</episode-num>
-  </programme>
-  <programme start="20260206014500 +0000" stop="20260206020000 +0000" channel="tvs.unifitv">
+  <programme start="20260206011500 +0000" stop="20260206013000 +0000" channel="tvs.unifitv">
     <title lang="en">Lifelong Learning</title>
     <desc lang="en">Lifelong Learning merupakan sebuah rancangan realiti yang membawakan kisah inspirasi serta pengalaman daripada individu yang mempunyai latar belakang yang berbeza.</desc>
     <category lang="en">Entertainment</category>
     <episode-num system="xmltv_ns">1.22.</episode-num>
     <episode-num system="onscreen">S2E23</episode-num>
   </programme>
-  <programme start="20260206020000 +0000" stop="20260206020500 +0000" channel="tvs.unifitv">
-    <title lang="en">(DL) TVS Ringkas</title>
-    <desc lang="en">TVS Ringkas brings the latest breaking news, offering quick and essential updates from both within the country and around the globe.</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20260206020500 +0000" stop="20260206021500 +0000" channel="tvs.unifitv">
+  <programme start="20260206013000 +0000" stop="20260206014500 +0000" channel="tvs.unifitv">
     <title lang="en">Badminton Asia Team Championships Highlights</title>
     <desc lang="en">Catch the latest Highlights of Badminton Asia Team Championships 2026, Qingdao, China.</desc>
     <category lang="en">Badminton</category>
   </programme>
-  <programme start="20260206021500 +0000" stop="20260206024500 +0000" channel="tvs.unifitv">
-    <title lang="en">Jom Camping</title>
-    <desc lang="en">Program travelog yang meneroka pelbagai bentuk dan jenis perkhemahan berbeza selain berjalan ke lokasi-lokasi perkhemahan di negeri Sarawak bersama dua anak jati Sarawak, El Baharin dan Anaz Zawawi.</desc>
-    <category lang="en">Documentary</category>
-    <episode-num system="xmltv_ns">0.6.</episode-num>
-    <episode-num system="onscreen">S1E7</episode-num>
-  </programme>
-  <programme start="20260206024500 +0000" stop="20260206040000 +0000" channel="tvs.unifitv">
+  <programme start="20260206014500 +0000" stop="20260206040000 +0000" channel="tvs.unifitv">
     <title lang="en">(L) Badminton Asia Team Championships 2026</title>
     <desc lang="en">Catch live of The Badminton Asia Team Championship 2026, Qingdao, China, features top Asian nations battling in exciting team matches for glory.</desc>
     <category lang="en">Badminton</category>
@@ -2758,10 +2739,58 @@
     <desc lang="en">TVS Tengahari presents a comprehensive look at domestic and international news stories, providing viewers with an in-depth understanding of current affairs during the midday broadcast.</desc>
     <category lang="en">News</category>
   </programme>
-  <programme start="20260206041500 +0000" stop="20260206080000 +0000" channel="tvs.unifitv">
+  <programme start="20260206041500 +0000" stop="20260206060000 +0000" channel="tvs.unifitv">
     <title lang="en">(L) Badminton Asia Team Championships 2026</title>
     <desc lang="en">Catch live of The Badminton Asia Team Championship 2026, Qingdao, China, features top Asian nations battling in exciting team matches for glory.</desc>
     <category lang="en">Badminton</category>
+  </programme>
+  <programme start="20260206060000 +0000" stop="20260206060500 +0000" channel="tvs.unifitv">
+    <title lang="en">(DL) TVS Ringkas</title>
+    <desc lang="en">TVS Ringkas brings the latest breaking news, offering quick and essential updates from both within the country and around the globe.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260206060500 +0000" stop="20260206061500 +0000" channel="tvs.unifitv">
+    <title lang="en">TVS Music</title>
+    <desc lang="en">TVS Music is a compilation of songs that celebrates the rich and diverse musical talents of the region, featuring a mix of contemporary hits and culturally inspired tracks from local artists.</desc>
+    <category lang="en">Pop Culture</category>
+  </programme>
+  <programme start="20260206061500 +0000" stop="20260206063000 +0000" channel="tvs.unifitv">
+    <title lang="en">Orang Kita</title>
+    <desc lang="en">Orang Kita, bersama MINTRED, memaparkan kisah inspirasi usahawan tempatan. Rancangan ini menyerlahkan semangat juang, ketekunan, dan inovasi yang membawa kejayaan, memberi inspirasi kepada usahawan baru dengan keyakinan.</desc>
+    <category lang="en">Culture</category>
+    <episode-num system="xmltv_ns">1.9.</episode-num>
+    <episode-num system="onscreen">S2E10</episode-num>
+  </programme>
+  <programme start="20260206063000 +0000" stop="20260206070000 +0000" channel="tvs.unifitv">
+    <title lang="en">Borneo's Unique Building</title>
+    <desc lang="en">Siri dokumentari yang memfokuskan kepada senibina bangunan dan infrastruktur di Sarawak, yang menampilkan dua binaan iaitu satu senibina moden/kontemporari dan satu lagi senibina tradisi/kolonial.</desc>
+    <category lang="en">Documentary</category>
+    <episode-num system="xmltv_ns">0.4.</episode-num>
+    <episode-num system="onscreen">S1E5</episode-num>
+  </programme>
+  <programme start="20260206070000 +0000" stop="20260206070500 +0000" channel="tvs.unifitv">
+    <title lang="en">(DL) TVS Highlight</title>
+    <desc lang="en">TVS Highlight showcases the most current and important news in a compact, well-rounded format, featuring both local and international updates with thorough and succinct reporting.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260206070500 +0000" stop="20260206071500 +0000" channel="tvs.unifitv">
+    <title lang="en">TVS Music</title>
+    <desc lang="en">TVS Music is a compilation of songs that celebrates the rich and diverse musical talents of the region, featuring a mix of contemporary hits and culturally inspired tracks from local artists.</desc>
+    <category lang="en">Pop Culture</category>
+  </programme>
+  <programme start="20260206071500 +0000" stop="20260206073000 +0000" channel="tvs.unifitv">
+    <title lang="en">Fail 420</title>
+    <desc lang="en">A crime documentary on scam cases reported to Sarawak's Police Commercial Unit, revealing modus operandi, victim profiles, true-event reenactments, and expert advice on detecting and avoiding scams.</desc>
+    <category lang="en">Documentary</category>
+    <episode-num system="xmltv_ns">0.4.</episode-num>
+    <episode-num system="onscreen">S1E5</episode-num>
+  </programme>
+  <programme start="20260206073000 +0000" stop="20260206080000 +0000" channel="tvs.unifitv">
+    <title lang="en">From Malaysia With Love</title>
+    <desc lang="en">Tiga Pengacara, Chef Adu Amran, Fiza Frizzy dan Kelvin Yap akan menyelami dan merasai pengalaman kehidupan masyarakat lokal dari pelbagai etnik.</desc>
+    <category lang="en">Documentary</category>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+    <episode-num system="onscreen">S1E4</episode-num>
   </programme>
   <programme start="20260206080000 +0000" stop="20260206080500 +0000" channel="tvs.unifitv">
     <title lang="en">(DL) TVS Ringkas</title>
@@ -5566,7 +5595,7 @@
   <programme start="20260206140000 +0000" stop="20260206143000 +0000" channel="unknown.unifitv">
     <title lang="en">Vaagai Sooda Vaa</title>
     <desc lang="en">Veluthambi dreams of a government job but ends up teaching poor village kids. When he discovers they're being forced into bonded labour, he resolves to fight for their freedom.</desc>
-    <category lang="en">Romance</category>
+    <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.9.</episode-num>
     <episode-num system="onscreen">S1E10</episode-num>
   </programme>

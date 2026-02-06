@@ -7936,7 +7936,10 @@
     <programme start="20260205234000 +0000" stop="20260206013000 +0000" channel="Asianet Movies.starhub">
         <title>Winter</title>
     </programme>
-    <programme start="20260206013000 +0000" stop="20260206043000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260206013000 +0000" stop="20260206015500 +0000" channel="Asianet Movies.starhub">
+        <title>Chirikkum Thalika</title>
+    </programme>
+    <programme start="20260206015500 +0000" stop="20260206043000 +0000" channel="Asianet Movies.starhub">
         <title>Vellimoonga</title>
     </programme>
     <programme start="20260206043000 +0000" stop="20260206073000 +0000" channel="Asianet Movies.starhub">
