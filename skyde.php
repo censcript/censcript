@@ -2904,15 +2904,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260206191500 +0000" stop="20260206224500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: 1. FC Union Berlin - Eintracht Frankfurt, Flutlicht-Freitag, 21. Spieltag</title>
 </programme>
-<programme start="20260206164000 +0000" stop="20260206170000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
-    <title>Es folgt: Live 2. Bundesliga</title>
-</programme>
-<programme start="20260206170000 +0000" stop="20260206193000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
-    <title>Live 2. BL: Freitags-Konferenz, 21. Spieltag</title>
-</programme>
-<programme start="20260206193000 +0000" stop="20260206204500 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
-    <title>Live 2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 21. Spieltag, Freitag</title>
-</programme>
 <programme start="20260206164000 +0000" stop="20260206170000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>2. BL: Es folgt</title>
 </programme>
