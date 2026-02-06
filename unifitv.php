@@ -259,10 +259,10 @@
   </programme>
   <programme start="20260206110000 +0000" stop="20260206113000 +0000" channel="inspirasi.unifitv">
     <title lang="en">SEMBANG SELEBRITI</title>
-    <desc lang="en">Sembang selebriti merupakan rancangan bual bicara bersama selebriti yang menceritakan tentang pengalaman mereka di dalam dunia seni tanahair yang boleh dijadikan sumber inspirasi. Episod kali ini menampilkan Syasya Rizal sebagai selebriti jemputan.</desc>
+    <desc lang="en">Sembang selebriti merupakan rancangan bual bicara bersama selebriti yang menceritakan tentang pengalaman mereka di dalam dunia seni tanahair yang boleh dijadikan sumber inspirasi. Episod kali ini menampilkan Zyn Nakal sebagai selebriti jemputan.</desc>
     <category lang="en">News</category>
-    <episode-num system="xmltv_ns">13.8.</episode-num>
-    <episode-num system="onscreen">S14E9</episode-num>
+    <episode-num system="xmltv_ns">13.9.</episode-num>
+    <episode-num system="onscreen">S14E10</episode-num>
   </programme>
   <programme start="20260206113000 +0000" stop="20260206120000 +0000" channel="inspirasi.unifitv">
     <title lang="en">KLTV 2026</title>
