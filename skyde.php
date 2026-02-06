@@ -2901,7 +2901,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260206183000 +0000" stop="20260206191500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: FCU - SGE: tipico Countdown, Flutlicht-Freitag, 21. Spieltag</title>
 </programme>
-<programme start="20260206191500 +0000" stop="20260206221500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
+<programme start="20260206191500 +0000" stop="20260206224500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: 1. FC Union Berlin - Eintracht Frankfurt, Flutlicht-Freitag, 21. Spieltag</title>
 </programme>
 <programme start="20260206164000 +0000" stop="20260206170000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
@@ -2910,7 +2910,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260206170000 +0000" stop="20260206193000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Live 2. BL: Freitags-Konferenz, 21. Spieltag</title>
 </programme>
-<programme start="20260206193000 +0000" stop="20260206201500 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+<programme start="20260206193000 +0000" stop="20260206204500 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Live 2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 21. Spieltag, Freitag</title>
 </programme>
 <programme start="20260206164000 +0000" stop="20260206170000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
@@ -2919,19 +2919,19 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260206170000 +0000" stop="20260206193000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live 2. BL: SpVgg Greuther Fürth - 1. FC Magdeburg, 21. Spieltag</title>
 </programme>
-<programme start="20260206193000 +0000" stop="20260206213000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
+<programme start="20260206193000 +0000" stop="20260206220000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live BL: Sky Sport Fantasy: FCU - SGE, 21. Spieltag</title>
 </programme>
 <programme start="20260206164000 +0000" stop="20260206170000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>2. BL: Es folgt</title>
 </programme>
-<programme start="20260206170000 +0000" stop="20260206193000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
+<programme start="20260206170000 +0000" stop="20260206200000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live 2. BL: Preußen Münster - VfL Bochum, 21. Spieltag</title>
 </programme>
 <programme start="20260206164000 +0000" stop="20260206170000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>2. BL: Es folgt</title>
 </programme>
-<programme start="20260206170000 +0000" stop="20260206193000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
+<programme start="20260206170000 +0000" stop="20260206200000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Live 2. BL: Multiview 21. Spieltag, Freitag</title>
 </programme>
 <programme start="20260206140000 +0000" stop="20260206200000 +0000" channel="Sky Sport Bundesliga 8 HD.skyde">
@@ -3334,7 +3334,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Live ATP &amp; WTA: Die Topspiele des Tages</title>
 </programme>
 <programme start="20260206213000 +0000" stop="20260206233000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: HF1, Mubadala Abu Dhabi Open in Abu Dhabi (VAE), Halbfinale 1</title>
+    <title>WTA 500: H. Baptiste (USA) - E. Alexandrova, Mubadala Abu Dhabi Open in Abu Dhabi (VAE), HF 1</title>
 </programme>
 <programme start="20260205230000 +0000" stop="20260206000000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>NHL: On the Fly</title>
@@ -3398,6 +3398,15 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 </programme>
 <programme start="20260206060000 +0000" stop="20260206061500 +0000" channel="Sky Sport UHD.skyde">
     <title>Info: UHD</title>
+</programme>
+<programme start="20260206134000 +0000" stop="20260206140000 +0000" channel="Sky Sport 6 HD.skyde">
+    <title>Es folgt: Live Tennis WTA Tour</title>
+</programme>
+<programme start="20260206140000 +0000" stop="20260206160000 +0000" channel="Sky Sport 6 HD.skyde">
+    <title>Live WTA 500: H. Baptiste (USA) - E. Alexandrova, Mubadala Abu Dhabi Open in Abu Dhabi (VAE), HF 1</title>
+</programme>
+<programme start="20260206160000 +0000" stop="20260206200000 +0000" channel="Sky Sport 6 HD.skyde">
+    <title>Live WTA 500: C. Tauson (DEN) - S. Bejlek (CZE), Mubadala Abu Dhabi Open in Abu Dhabi (VAE), HF 2</title>
 </programme>
 <programme start="20260205231500 +0000" stop="20260206000000 +0000" channel="SYFY HD.skyde">
     <title>Raumschiff Enterprise - Das nächste Jahrhundert</title>
