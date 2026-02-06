@@ -76,10 +76,7 @@
 <programme start="20260205231500 +0000" stop="20260206004500 +0000" channel="MNCTV.vision">
 <title>Kiko</title>
 </programme>
-<programme start="20260206004500 +0000" stop="20260206013000 +0000" channel="MNCTV.vision">
-<title>Kung Fu Panda Dan Sahabat</title>
-</programme>
-<programme start="20260206013000 +0000" stop="20260206031500 +0000" channel="MNCTV.vision">
+<programme start="20260208020000 +0000" stop="20260208043000 +0000" channel="MNCTV.vision">
 <title>Upin dan Ipin (MNCTV)</title>
 </programme>
 <programme start="20260206031500 +0000" stop="20260206040000 +0000" channel="MNCTV.vision">
@@ -91,13 +88,13 @@
 <programme start="20260206043000 +0000" stop="20260206053000 +0000" channel="MNCTV.vision">
 <title>Seleb On News</title>
 </programme>
-<programme start="20260206053000 +0000" stop="20260206073000 +0000" channel="MNCTV.vision">
+<programme start="20260208100000 +0000" stop="20260208113000 +0000" channel="MNCTV.vision">
 <title>Upin &amp; Ipin</title>
 </programme>
 <programme start="20260206073000 +0000" stop="20260206100000 +0000" channel="MNCTV.vision">
 <title>Upin &amp; Ipin</title>
 </programme>
-<programme start="20260206100000 +0000" stop="20260206113000 +0000" channel="MNCTV.vision">
+<programme start="20260208123000 +0000" stop="20260208131500 +0000" channel="MNCTV.vision">
 <title>Upin &amp; Ipin</title>
 </programme>
 <programme start="20260206113000 +0000" stop="20260206123000 +0000" channel="MNCTV.vision">
@@ -108,42 +105,6 @@
 </programme>
 <programme start="20260206160000 +0000" stop="20260206170000 +0000" channel="MNCTV.vision">
 <title>Dunia Maya</title>
-</programme>
-<programme start="20260206170000 +0000" stop="20260206190000 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
-</programme>
-<programme start="20260206190000 +0000" stop="20260206230000 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
-</programme>
-<programme start="20260206230000 +0000" stop="20260206231500 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
-</programme>
-<programme start="20260206231500 +0000" stop="20260206234500 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
-</programme>
-<programme start="20260206234500 +0000" stop="20260207001500 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
-</programme>
-<programme start="20260207001500 +0000" stop="20260207010000 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
-</programme>
-<programme start="20260207010000 +0000" stop="20260207013000 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
-</programme>
-<programme start="20260207013000 +0000" stop="20260207043000 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
-</programme>
-<programme start="20260207043000 +0000" stop="20260207073000 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
-</programme>
-<programme start="20260207073000 +0000" stop="20260207100000 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
-</programme>
-<programme start="20260207100000 +0000" stop="20260207110000 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
-</programme>
-<programme start="20260207110000 +0000" stop="20260207120000 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
 </programme>
 <programme start="20260206000000 +0000" stop="20260206010000 +0000" channel="GTV.vision">
 <title>Obrolan Seputar Selebriti (GTV)</title>
@@ -223,7 +184,7 @@
 <programme start="20260207110000 +0000" stop="20260207123000 +0000" channel="GTV.vision">
 <title>GTV</title>
 </programme>
-<programme start="20260206000000 +0000" stop="20260206003000 +0000" channel="iNews.vision">
+<programme start="20260205201500 +0000" stop="20260205210000 +0000" channel="iNews.vision">
 <title>Special Report</title>
 </programme>
 <programme start="20260206003000 +0000" stop="20260206010000 +0000" channel="iNews.vision">
@@ -253,73 +214,13 @@
 <programme start="20260206120000 +0000" stop="20260206133000 +0000" channel="iNews.vision">
 <title>iNews Room (L)</title>
 </programme>
-<programme start="20260206133000 +0000" stop="20260206143000 +0000" channel="iNews.vision">
-<title>iNews Prime (L)</title>
-</programme>
-<programme start="20260206143000 +0000" stop="20260206150000 +0000" channel="iNews.vision">
-<title>iNews Malam (Live)</title>
-</programme>
 <programme start="20260206150000 +0000" stop="20260206160000 +0000" channel="iNews.vision">
 <title>Inews Files (Live)</title>
 </programme>
 <programme start="20260206160000 +0000" stop="20260206163000 +0000" channel="iNews.vision">
 <title>iNews Sport (L)</title>
 </programme>
-<programme start="20260206163000 +0000" stop="20260206170000 +0000" channel="iNews.vision">
-<title>iNews</title>
-</programme>
 <programme start="20260206170000 +0000" stop="20260206183000 +0000" channel="iNews.vision">
-<title>iNews</title>
-</programme>
-<programme start="20260206183000 +0000" stop="20260206191500 +0000" channel="iNews.vision">
-<title>iNews</title>
-</programme>
-<programme start="20260206191500 +0000" stop="20260206201500 +0000" channel="iNews.vision">
-<title>iNews</title>
-</programme>
-<programme start="20260206201500 +0000" stop="20260206210000 +0000" channel="iNews.vision">
-<title>iNews</title>
-</programme>
-<programme start="20260206210000 +0000" stop="20260206211500 +0000" channel="iNews.vision">
-<title>iNews</title>
-</programme>
-<programme start="20260206211500 +0000" stop="20260206230000 +0000" channel="iNews.vision">
-<title>iNews</title>
-</programme>
-<programme start="20260206230000 +0000" stop="20260206230200 +0000" channel="iNews.vision">
-<title>iNews</title>
-</programme>
-<programme start="20260206230200 +0000" stop="20260206233000 +0000" channel="iNews.vision">
-<title>iNews</title>
-</programme>
-<programme start="20260206233000 +0000" stop="20260207000000 +0000" channel="iNews.vision">
-<title>iNews</title>
-</programme>
-<programme start="20260207000000 +0000" stop="20260207003000 +0000" channel="iNews.vision">
-<title>iNews</title>
-</programme>
-<programme start="20260207003000 +0000" stop="20260207013000 +0000" channel="iNews.vision">
-<title>iNews</title>
-</programme>
-<programme start="20260207013000 +0000" stop="20260207023000 +0000" channel="iNews.vision">
-<title>iNews</title>
-</programme>
-<programme start="20260207023000 +0000" stop="20260207033000 +0000" channel="iNews.vision">
-<title>iNews</title>
-</programme>
-<programme start="20260207033000 +0000" stop="20260207053000 +0000" channel="iNews.vision">
-<title>iNews</title>
-</programme>
-<programme start="20260207053000 +0000" stop="20260207070000 +0000" channel="iNews.vision">
-<title>iNews</title>
-</programme>
-<programme start="20260207070000 +0000" stop="20260207083000 +0000" channel="iNews.vision">
-<title>iNews</title>
-</programme>
-<programme start="20260207083000 +0000" stop="20260207100000 +0000" channel="iNews.vision">
-<title>iNews</title>
-</programme>
-<programme start="20260207100000 +0000" stop="20260207120000 +0000" channel="iNews.vision">
 <title>iNews</title>
 </programme>
 <programme start="20260206000000 +0000" stop="20260206003000 +0000" channel="SindoNews.vision">

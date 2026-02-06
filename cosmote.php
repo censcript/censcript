@@ -70,6 +70,14 @@
     <title>UEFA Champions League Magazine 2025-26 E19</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260207160000 +0700" stop="20260207163000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Game R1 S6 E24</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260207163000 +0700" stop="20260207183000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: Panathinaikos - AS Roma</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260206141000 +0700" stop="20260206161000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Como - Atalanta</title>
     <desc>Live: Tidak</desc>
@@ -136,6 +144,10 @@
 </programme>
 <programme start="20260207141000 +0700" stop="20260207161000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Hellas Verona - Pisa</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260207161000 +0700" stop="20260207182000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Panathinaikos - Kifisia</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260206150000 +0700" stop="20260206170000 +0700" channel="COSMOTE Sport 3 HD">
@@ -262,10 +274,6 @@
     <title>Basketball: Karsiyaka - Fenerbahce</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260206145500 +0700" stop="20260206154500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>2025 GT World Challenge Europe</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260206154500 +0700" stop="20260206163500 +0700" channel="COSMOTE Sport 5 HD">
     <title>DTM</title>
     <desc>Live: Tidak</desc>
@@ -386,6 +394,10 @@
     <title>MotoGP Classics</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260207161500 +0700" stop="20260207172000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>MotoGP Classics</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260206143000 +0700" stop="20260206173000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP 250 2026</title>
     <desc>Live: Tidak</desc>
@@ -432,6 +444,10 @@
 </programme>
 <programme start="20260207150000 +0700" stop="20260207163000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Topspin</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260207163000 +0700" stop="20260207203000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: ATP 250 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260206150000 +0700" stop="20260206170000 +0700" channel="COSMOTE Sport 7 HD">
