@@ -1,82 +1,85 @@
-  <programme start="20260207230000 +0000" stop="20260208004500 +0000" channel="Jednotka.webtv.sk">
+  <programme start="20260207214500 +0000" stop="20260207230600 +0000" channel="Jednotka.webtv.sk">
+    <title lang="id">Sieň slávy</title>
+  </programme>
+  <programme start="20260207230600 +0000" stop="20260207230700 +0000" channel="Jednotka.webtv.sk">
+    <title lang="id">Hymna SR</title>
+  </programme>
+  <programme start="20260207230700 +0000" stop="20260208005000 +0000" channel="Jednotka.webtv.sk">
     <title lang="id">Braček, kde si?</title>
   </programme>
-  <programme start="20260208004500 +0000" stop="20260208013500 +0000" channel="Jednotka.webtv.sk">
+  <programme start="20260208005000 +0000" stop="20260208014000 +0000" channel="Jednotka.webtv.sk">
     <title lang="id">Správy</title>
   </programme>
-  <programme start="20260208013500 +0000" stop="20260208024000 +0000" channel="Jednotka.webtv.sk">
+  <programme start="20260208014000 +0000" stop="20260208034000 +0000" channel="Jednotka.webtv.sk">
     <title lang="id">Neskoro večer</title>
   </programme>
-  <programme start="20260208024000 +0000" stop="20260208033500 +0000" channel="Jednotka.webtv.sk">
-    <title lang="id">Správy</title>
-  </programme>
-  <programme start="20260208033500 +0000" stop="20260208040500 +0000" channel="Jednotka.webtv.sk">
+  <programme start="20260208034000 +0000" stop="20260208041000 +0000" channel="Jednotka.webtv.sk">
     <title lang="id">Nebíčko v papuľke</title>
   </programme>
-  <programme start="20260208040500 +0000" stop="20260208042000 +0000" channel="Jednotka.webtv.sk">
+  <programme start="20260208041000 +0000" stop="20260208042500 +0000" channel="Jednotka.webtv.sk">
     <title lang="id">Dokážeš to!</title>
   </programme>
-  <programme start="20260208042000 +0000" stop="20260208043000 +0000" channel="Jednotka.webtv.sk">
+  <programme start="20260208042500 +0000" stop="20260208043500 +0000" channel="Jednotka.webtv.sk">
     <title lang="id">Príbehy malých cestovateľov</title>
   </programme>
-  <programme start="20260208043000 +0000" stop="20260208043500 +0000" channel="Jednotka.webtv.sk">
+  <programme start="20260208043500 +0000" stop="20260208044500 +0000" channel="Jednotka.webtv.sk">
     <title lang="id">Bol raz jeden zámoček, bol raz jeden hrad</title>
   </programme>
-  <programme start="20260208043500 +0000" stop="20260208044500 +0000" channel="Jednotka.webtv.sk">
+  <programme start="20260208044500 +0000" stop="20260208045000 +0000" channel="Jednotka.webtv.sk">
     <title lang="id">O mestečku za hradbami</title>
   </programme>
-  <programme start="20260208044500 +0000" stop="20260208045500 +0000" channel="Jednotka.webtv.sk">
+  <programme start="20260208045000 +0000" stop="20260208050000 +0000" channel="Jednotka.webtv.sk">
     <title lang="id">Tresky plesky</title>
   </programme>
-  <programme start="20260208045500 +0000" stop="20260208050000 +0000" channel="Jednotka.webtv.sk">
+  <programme start="20260208050000 +0000" stop="20260208050500 +0000" channel="Jednotka.webtv.sk">
     <title lang="id">Pip a Posy</title>
   </programme>
-  <programme start="20260208050000 +0000" stop="20260208051000 +0000" channel="Jednotka.webtv.sk">
+  <programme start="20260208050500 +0000" stop="20260208052000 +0000" channel="Jednotka.webtv.sk">
     <title lang="id">Billy - škrečok, ktorý zostal kovbojom</title>
   </programme>
-  <programme start="20260208051000 +0000" stop="20260208052000 +0000" channel="Jednotka.webtv.sk">
+  <programme start="20260208052000 +0000" stop="20260208053000 +0000" channel="Jednotka.webtv.sk">
     <title lang="id">Rodinka líšok a jazvecov II</title>
   </programme>
-  <programme start="20260208052000 +0000" stop="20260208053000 +0000" channel="Jednotka.webtv.sk">
+  <programme start="20260208053000 +0000" stop="20260208054000 +0000" channel="Jednotka.webtv.sk">
     <title lang="id">Žabiak a jeho kamaráti</title>
   </programme>
-  <programme start="20260208053000 +0000" stop="20260208054500 +0000" channel="Jednotka.webtv.sk">
+  <programme start="20260208054000 +0000" stop="20260208055000 +0000" channel="Jednotka.webtv.sk">
     <title lang="id">Žabiak a jeho kamaráti</title>
   </programme>
-  <programme start="20260208054500 +0000" stop="20260208055500 +0000" channel="Jednotka.webtv.sk">
+  <programme start="20260208055000 +0000" stop="20260208060500 +0000" channel="Jednotka.webtv.sk">
     <title lang="id">Paddington a jeho dobrodružstvá II</title>
   </programme>
-  <programme start="20260208055500 +0000" stop="20260208061000 +0000" channel="Jednotka.webtv.sk">
+  <programme start="20260208060500 +0000" stop="20260208061500 +0000" channel="Jednotka.webtv.sk">
     <title lang="id">Paddington a jeho dobrodružstvá II</title>
   </programme>
-  <programme start="20260208061000 +0000" stop="20260208062000 +0000" channel="Jednotka.webtv.sk">
+  <programme start="20260208061500 +0000" stop="20260208062500 +0000" channel="Jednotka.webtv.sk">
     <title lang="id">Garfield II</title>
   </programme>
-  <programme start="20260208062000 +0000" stop="20260208063000 +0000" channel="Jednotka.webtv.sk">
+  <programme start="20260208062500 +0000" stop="20260208064000 +0000" channel="Jednotka.webtv.sk">
     <title lang="id">Artur a spoločenstvo okrúhleho stola I (3)</title>
   </programme>
-  <programme start="20260208063000 +0000" stop="20260208064500 +0000" channel="Jednotka.webtv.sk">
+  <programme start="20260208064000 +0000" stop="20260208065000 +0000" channel="Jednotka.webtv.sk">
     <title lang="id">Artur a spoločenstvo okrúhleho stola I (6)</title>
   </programme>
-  <programme start="20260208064500 +0000" stop="20260208071000 +0000" channel="Jednotka.webtv.sk">
+  <programme start="20260208065000 +0000" stop="20260208071500 +0000" channel="Jednotka.webtv.sk">
     <title lang="id">Zázračný ateliér</title>
   </programme>
-  <programme start="20260208071000 +0000" stop="20260208074000 +0000" channel="Jednotka.webtv.sk">
+  <programme start="20260208071500 +0000" stop="20260208074500 +0000" channel="Jednotka.webtv.sk">
     <title lang="id">Lov slov junior</title>
   </programme>
-  <programme start="20260208074000 +0000" stop="20260208081000 +0000" channel="Jednotka.webtv.sk">
+  <programme start="20260208074500 +0000" stop="20260208081500 +0000" channel="Jednotka.webtv.sk">
     <title lang="id">Neposlušní</title>
   </programme>
-  <programme start="20260208081000 +0000" stop="20260208083000 +0000" channel="Jednotka.webtv.sk">
+  <programme start="20260208081500 +0000" stop="20260208083500 +0000" channel="Jednotka.webtv.sk">
     <title lang="id">Ľavou zadnou</title>
   </programme>
-  <programme start="20260208083000 +0000" stop="20260208090000 +0000" channel="Jednotka.webtv.sk">
+  <programme start="20260208083500 +0000" stop="20260208090000 +0000" channel="Jednotka.webtv.sk">
     <title lang="id">Autosalón</title>
   </programme>
-  <programme start="20260208090000 +0000" stop="20260208100000 +0000" channel="Jednotka.webtv.sk">
+  <programme start="20260208090000 +0000" stop="20260208095500 +0000" channel="Jednotka.webtv.sk">
     <title lang="id">Najnebezpečnejšie cesty sveta III</title>
   </programme>
-  <programme start="20260208100000 +0000" stop="20260208102500 +0000" channel="Jednotka.webtv.sk">
+  <programme start="20260208095500 +0000" stop="20260208102500 +0000" channel="Jednotka.webtv.sk">
     <title lang="id">Slovensko v obrazoch</title>
   </programme>
   <programme start="20260208102500 +0000" stop="20260208105500 +0000" channel="Jednotka.webtv.sk">
@@ -85,16 +88,16 @@
   <programme start="20260208105500 +0000" stop="20260208121500 +0000" channel="Jednotka.webtv.sk">
     <title lang="id">O 5 minút 12</title>
   </programme>
-  <programme start="20260208121500 +0000" stop="20260208131000 +0000" channel="Jednotka.webtv.sk">
+  <programme start="20260208121500 +0000" stop="20260208130500 +0000" channel="Jednotka.webtv.sk">
     <title lang="id">Občan za dverami</title>
   </programme>
-  <programme start="20260208131000 +0000" stop="20260208140000 +0000" channel="Jednotka.webtv.sk">
+  <programme start="20260208130500 +0000" stop="20260208140000 +0000" channel="Jednotka.webtv.sk">
     <title lang="id">Agatha Christie: Poirot I (1)</title>
   </programme>
-  <programme start="20260208140000 +0000" stop="20260208145500 +0000" channel="Jednotka.webtv.sk">
+  <programme start="20260208140000 +0000" stop="20260208150000 +0000" channel="Jednotka.webtv.sk">
     <title lang="id">Agatha Christie: Poirot I (2)</title>
   </programme>
-  <programme start="20260208145500 +0000" stop="20260208162500 +0000" channel="Jednotka.webtv.sk">
+  <programme start="20260208150000 +0000" stop="20260208162500 +0000" channel="Jednotka.webtv.sk">
     <title lang="id">Slavnosti sněženek</title>
   </programme>
   <programme start="20260208162500 +0000" stop="20260208170000 +0000" channel="Jednotka.webtv.sk">
@@ -127,7 +130,7 @@
   <programme start="20260208223500 +0000" stop="20260208223700 +0000" channel="Jednotka.webtv.sk">
     <title lang="id">Hymna SR</title>
   </programme>
-  <programme start="20260208223700 +0000" stop="20260208232500 +0000" channel="Jednotka.webtv.sk">
+  <programme start="20260208223700 +0000" stop="20260208233000 +0000" channel="Jednotka.webtv.sk">
     <title lang="id">Agatha Christie: Poirot I (1)</title>
   </programme>
   <programme start="20260207221000 +0000" stop="20260207235800 +0000" channel="Dvojka.webtv.sk">

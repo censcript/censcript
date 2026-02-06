@@ -138,8 +138,8 @@
     <title>Football: OFI - Levadiakos</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260206111000 +0700" stop="20260206130500 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Liverpool FC - Barnsley</title>
+<programme start="20260207141000 +0700" stop="20260207161000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Hellas Verona - Pisa</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260206130500 +0700" stop="20260206150000 +0700" channel="COSMOTE Sport 3 HD">
@@ -192,10 +192,6 @@
 </programme>
 <programme start="20260207131000 +0700" stop="20260207151000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Sporting CP - Nacional</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260206110000 +0700" stop="20260206131000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Murcia - Barcelona</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260206131000 +0700" stop="20260206145000 +0700" channel="COSMOTE Sport 4 HD">
@@ -264,10 +260,6 @@
 </programme>
 <programme start="20260207130000 +0700" stop="20260207151000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Manresa - Unicaja</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260206114500 +0700" stop="20260206131000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>DTM 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260206131000 +0700" stop="20260206145500 +0700" channel="COSMOTE Sport 5 HD">
@@ -387,6 +379,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260207131500 +0700" stop="20260207141500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>MotoGP Classics</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260207141500 +0700" stop="20260207151500 +0700" channel="COSMOTE Sport 5 HD">
     <title>MotoGP Classics</title>
     <desc>Live: Tidak</desc>
 </programme>

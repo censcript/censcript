@@ -5374,7 +5374,78 @@
 <programme start="20260206163000 +0000" stop="20260205170000 +0000" channel="LIFE.mncvision">
     <title>Glow Series</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260205170500 +0000" stop="20260205180500 +0000" channel="Lifetime.mncvision">
+    <title>Kings Of BBQ, Ep 10</title>
+</programme>
+<programme start="20260205180500 +0000" stop="20260205183500 +0000" channel="Lifetime.mncvision">
+    <title>Rachael Ray In Tuscany, Ep 4</title>
+</programme>
+<programme start="20260205183500 +0000" stop="20260205202000 +0000" channel="Lifetime.mncvision">
+    <title>A Model Murder</title>
+</programme>
+<programme start="20260205202000 +0000" stop="20260205220500 +0000" channel="Lifetime.mncvision">
+    <title>Amish Stud: Eli Weaver Story</title>
+</programme>
+<programme start="20260205220500 +0000" stop="20260205230500 +0000" channel="Lifetime.mncvision">
+    <title>Kings Of BBQ, Ep 10</title>
+</programme>
+<programme start="20260205230500 +0000" stop="20260205233000 +0000" channel="Lifetime.mncvision">
+    <title>Legends Of The Fork, Ep 4</title>
+</programme>
+<programme start="20260205233000 +0000" stop="20260206003000 +0000" channel="Lifetime.mncvision">
+    <title>MasterChef Australia S17, Ep 19</title>
+</programme>
+<programme start="20260206003000 +0000" stop="20260206010000 +0000" channel="Lifetime.mncvision">
+    <title>Rachael Ray In Tuscany, Ep 3</title>
+</programme>
+<programme start="20260206010000 +0000" stop="20260206020000 +0000" channel="Lifetime.mncvision">
+    <title>Hit-And-Miss Tour S1, Ep 4</title>
+</programme>
+<programme start="20260206020000 +0000" stop="20260206023500 +0000" channel="Lifetime.mncvision">
+    <title>Legends Of The Fork, Ep 5</title>
+</programme>
+<programme start="20260206023500 +0000" stop="20260206042000 +0000" channel="Lifetime.mncvision">
+    <title>Amish Stud: Eli Weaver Story</title>
+</programme>
+<programme start="20260206042000 +0000" stop="20260206060000 +0000" channel="Lifetime.mncvision">
+    <title>The Beach House Murders</title>
+</programme>
+<programme start="20260206060000 +0000" stop="20260206070000 +0000" channel="Lifetime.mncvision">
+    <title>Kings Of BBQ, Ep 4</title>
+</programme>
+<programme start="20260206070000 +0000" stop="20260206080000 +0000" channel="Lifetime.mncvision">
+    <title>Million Dollar Zombie..., Ep 4</title>
+</programme>
+<programme start="20260206080000 +0000" stop="20260206090000 +0000" channel="Lifetime.mncvision">
+    <title>Hit-And-Miss Tour S1, Ep 5</title>
+</programme>
+<programme start="20260206090000 +0000" stop="20260206100500 +0000" channel="Lifetime.mncvision">
+    <title>MasterChef Australia S17, Ep 20</title>
+</programme>
+<programme start="20260206100500 +0000" stop="20260206103000 +0000" channel="Lifetime.mncvision">
+    <title>Rachael Ray In Tuscany, Ep 4</title>
+</programme>
+<programme start="20260206103000 +0000" stop="20260206113000 +0000" channel="Lifetime.mncvision">
+    <title>Zombie House Flipping S6, Ep 80</title>
+</programme>
+<programme start="20260206113000 +0000" stop="20260206123000 +0000" channel="Lifetime.mncvision">
+    <title>Million Dollar Zombie..., Ep 5</title>
+</programme>
+<programme start="20260206123000 +0000" stop="20260206130000 +0000" channel="Lifetime.mncvision">
+    <title>Jason&#039;s Table: Dishes, Ep 7</title>
+</programme>
+<programme start="20260206130000 +0000" stop="20260206140000 +0000" channel="Lifetime.mncvision">
+    <title>Enlighten Your Life S3, Ep 7</title>
+</programme>
+<programme start="20260206140000 +0000" stop="20260206153500 +0000" channel="Lifetime.mncvision">
+    <title>Dying For A Crown</title>
+</programme>
+<programme start="20260206153500 +0000" stop="20260206163500 +0000" channel="Lifetime.mncvision">
+    <title>Million Dollar Zombie..., Ep 5</title>
+</programme>
+<programme start="20260206163500 +0000" stop="20260205170500 +0000" channel="Lifetime.mncvision">
+    <title>Jason&#039;s Table: Dishes, Ep 7</title>
+</programme>
 <programme start="20260205172500 +0000" stop="20260205182000 +0000" channel="Love Nature.mncvision">
     <title>Macaque Island S1, Ep 1</title>
 </programme>
@@ -5456,7 +5527,87 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260206163500 +0000" stop="20260205170500 +0000" channel="Love Nature.mncvision">
     <title>Wildlife ER S2, Ep 5</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260205172500 +0000" stop="20260205182000 +0000" channel="Love Nature HD.mncvision">
+    <title>Macaque Island S1, Ep 1</title>
+</programme>
+<programme start="20260205182000 +0000" stop="20260205191500 +0000" channel="Love Nature HD.mncvision">
+    <title>Macaque Island S1, Ep 2</title>
+</programme>
+<programme start="20260205191500 +0000" stop="20260205201000 +0000" channel="Love Nature HD.mncvision">
+    <title>Pride Rules S1, Ep 4</title>
+</programme>
+<programme start="20260205201000 +0000" stop="20260205210500 +0000" channel="Love Nature HD.mncvision">
+    <title>Wild Pacific Rescue S1, Ep 1</title>
+</programme>
+<programme start="20260205210500 +0000" stop="20260205220000 +0000" channel="Love Nature HD.mncvision">
+    <title>Wild Pacific Rescue S1, Ep 2</title>
+</programme>
+<programme start="20260205220000 +0000" stop="20260205222500 +0000" channel="Love Nature HD.mncvision">
+    <title>Wild Dogs: Running S1, Ep 3</title>
+</programme>
+<programme start="20260205222500 +0000" stop="20260205232000 +0000" channel="Love Nature HD.mncvision">
+    <title>Wild Pacific Rescue S1, Ep 1</title>
+</programme>
+<programme start="20260205232000 +0000" stop="20260206001500 +0000" channel="Love Nature HD.mncvision">
+    <title>Wild Pacific Rescue S1, Ep 2</title>
+</programme>
+<programme start="20260206001500 +0000" stop="20260206011000 +0000" channel="Love Nature HD.mncvision">
+    <title>Dawn To Dusk S1, Ep 4</title>
+</programme>
+<programme start="20260206011000 +0000" stop="20260206020500 +0000" channel="Love Nature HD.mncvision">
+    <title>Becoming Elephant S1, Ep 1</title>
+</programme>
+<programme start="20260206020500 +0000" stop="20260206030000 +0000" channel="Love Nature HD.mncvision">
+    <title>Becoming Elephant S1, Ep 2</title>
+</programme>
+<programme start="20260206030000 +0000" stop="20260206035000 +0000" channel="Love Nature HD.mncvision">
+    <title>Into The Wild India S1, Ep 10</title>
+</programme>
+<programme start="20260206035000 +0000" stop="20260206044000 +0000" channel="Love Nature HD.mncvision">
+    <title>Wildlife ER S2, Ep 5</title>
+</programme>
+<programme start="20260206044000 +0000" stop="20260206053500 +0000" channel="Love Nature HD.mncvision">
+    <title>Wild Pacific Rescue S1, Ep 1</title>
+</programme>
+<programme start="20260206053500 +0000" stop="20260206063000 +0000" channel="Love Nature HD.mncvision">
+    <title>Wild Pacific Rescue S1, Ep 2</title>
+</programme>
+<programme start="20260206063000 +0000" stop="20260206072500 +0000" channel="Love Nature HD.mncvision">
+    <title>Pride Rules S1, Ep 5</title>
+</programme>
+<programme start="20260206072500 +0000" stop="20260206082000 +0000" channel="Love Nature HD.mncvision">
+    <title>Becoming Elephant S1, Ep 1</title>
+</programme>
+<programme start="20260206082000 +0000" stop="20260206091500 +0000" channel="Love Nature HD.mncvision">
+    <title>Becoming Elephant S1, Ep 2</title>
+</programme>
+<programme start="20260206091500 +0000" stop="20260206101000 +0000" channel="Love Nature HD.mncvision">
+    <title>Into The Wild India S1, Ep 10</title>
+</programme>
+<programme start="20260206101000 +0000" stop="20260206110500 +0000" channel="Love Nature HD.mncvision">
+    <title>Wildlife ER S2, Ep 5</title>
+</programme>
+<programme start="20260206110500 +0000" stop="20260206120000 +0000" channel="Love Nature HD.mncvision">
+    <title>Wild Pacific Rescue S1, Ep 1</title>
+</programme>
+<programme start="20260206120000 +0000" stop="20260206125500 +0000" channel="Love Nature HD.mncvision">
+    <title>The Living Beach S1, Ep 4</title>
+</programme>
+<programme start="20260206125500 +0000" stop="20260206135000 +0000" channel="Love Nature HD.mncvision">
+    <title>Dawn To Dusk S1, Ep 4</title>
+</programme>
+<programme start="20260206135000 +0000" stop="20260206144500 +0000" channel="Love Nature HD.mncvision">
+    <title>Becoming Elephant S1, Ep 1</title>
+</programme>
+<programme start="20260206144500 +0000" stop="20260206154000 +0000" channel="Love Nature HD.mncvision">
+    <title>Becoming Elephant S1, Ep 2</title>
+</programme>
+<programme start="20260206154000 +0000" stop="20260206163500 +0000" channel="Love Nature HD.mncvision">
+    <title>Into The Wild India S1, Ep 10</title>
+</programme>
+<programme start="20260206163500 +0000" stop="20260205170500 +0000" channel="Love Nature HD.mncvision">
+    <title>Wildlife ER S2, Ep 5</title>
+</programme>
 <programme start="20260205175000 +0000" stop="20260205184500 +0000" channel="MDTV.mncvision">
     <title>Jatanras</title>
 </programme>
@@ -7536,7 +7687,63 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260206160000 +0000" stop="20260206163000 +0000" channel="SCTV.mncvision">
     <title>Asmara Bersemi Di Kebun Teh</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260205174500 +0000" stop="20260205190000 +0000" channel="SCTV HD.mncvision">
+    <title>FTV Utama</title>
+</programme>
+<programme start="20260205190000 +0000" stop="20260205200000 +0000" channel="SCTV HD.mncvision">
+    <title>Kapan Kamu Bilang I Love You?</title>
+</programme>
+<programme start="20260205200000 +0000" stop="20260205210000 +0000" channel="SCTV HD.mncvision">
+    <title>Pacar Posesif</title>
+</programme>
+<programme start="20260205210000 +0000" stop="20260205213000 +0000" channel="SCTV HD.mncvision">
+    <title>Barakallah</title>
+</programme>
+<programme start="20260205213000 +0000" stop="20260205220000 +0000" channel="SCTV HD.mncvision">
+    <title>Buser</title>
+</programme>
+<programme start="20260205220000 +0000" stop="20260205230000 +0000" channel="SCTV HD.mncvision">
+    <title>Liputan 6 Pagi (L)</title>
+</programme>
+<programme start="20260205230000 +0000" stop="20260206000000 +0000" channel="SCTV HD.mncvision">
+    <title>Halo Selebriti</title>
+</programme>
+<programme start="20260206000000 +0000" stop="20260206013000 +0000" channel="SCTV HD.mncvision">
+    <title>Love Diary Calon Dokter</title>
+</programme>
+<programme start="20260206013000 +0000" stop="20260206030000 +0000" channel="SCTV HD.mncvision">
+    <title>Supir Truk Sis, Semongko</title>
+</programme>
+<programme start="20260206030000 +0000" stop="20260206050000 +0000" channel="SCTV HD.mncvision">
+    <title>FTV Pagi</title>
+</programme>
+<programme start="20260206050000 +0000" stop="20260206053000 +0000" channel="SCTV HD.mncvision">
+    <title>Liputan 6 Siang (L)</title>
+</programme>
+<programme start="20260206053000 +0000" stop="20260206070000 +0000" channel="SCTV HD.mncvision">
+    <title>FTV Siang</title>
+</programme>
+<programme start="20260206070000 +0000" stop="20260206083000 +0000" channel="SCTV HD.mncvision">
+    <title>Miss Biduan, I Love You Sekebon</title>
+</programme>
+<programme start="20260206083000 +0000" stop="20260206100000 +0000" channel="SCTV HD.mncvision">
+    <title>FTV Sore</title>
+</programme>
+<programme start="20260206100000 +0000" stop="20260206113000 +0000" channel="SCTV HD.mncvision">
+    <title>Asmara Gen Z</title>
+</programme>
+<programme start="20260206113000 +0000" stop="20260206130000 +0000" channel="SCTV HD.mncvision">
+    <title>Beri Cinta Waktu</title>
+</programme>
+<programme start="20260206130000 +0000" stop="20260206143000 +0000" channel="SCTV HD.mncvision">
+    <title>Cinta Sedalam Rindu</title>
+</programme>
+<programme start="20260206143000 +0000" stop="20260206160000 +0000" channel="SCTV HD.mncvision">
+    <title>Jejak Duka Diandra</title>
+</programme>
+<programme start="20260206160000 +0000" stop="20260206163000 +0000" channel="SCTV HD.mncvision">
+    <title>Asmara Bersemi Di Kebun Teh</title>
+</programme>
 <programme start="20260205170000 +0000" stop="20260205173000 +0000" channel="Sindo News TV.mncvision">
     <title>iNews Sport</title>
 </programme>
@@ -7687,7 +7894,51 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260206163000 +0000" stop="20260205170000 +0000" channel="Sindo News TV HD.mncvision">
     <title>OMG</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260205170000 +0000" stop="20260205190000 +0000" channel="Soccer Channel.mncvision">
+    <title>AFC Asian Cup 2026: JPN Vs JOR</title>
+</programme>
+<programme start="20260205190000 +0000" stop="20260205210000 +0000" channel="Soccer Channel.mncvision">
+    <title>Bundesliga: KOE Vs WOB</title>
+</programme>
+<programme start="20260205210000 +0000" stop="20260205213000 +0000" channel="Soccer Channel.mncvision">
+    <title>The Ultimate Goals</title>
+</programme>
+<programme start="20260205213000 +0000" stop="20260205233000 +0000" channel="Soccer Channel.mncvision">
+    <title>SEA Games 2025: TLS Vs THA</title>
+</programme>
+<programme start="20260205233000 +0000" stop="20260206013000 +0000" channel="Soccer Channel.mncvision">
+    <title>AFC Asian Cup 2026: JPN Vs QAT</title>
+</programme>
+<programme start="20260206013000 +0000" stop="20260206033000 +0000" channel="Soccer Channel.mncvision">
+    <title>Bundesliga: KOE Vs WOB</title>
+</programme>
+<programme start="20260206033000 +0000" stop="20260206040000 +0000" channel="Soccer Channel.mncvision">
+    <title>World Classic Soccer</title>
+</programme>
+<programme start="20260206040000 +0000" stop="20260206060000 +0000" channel="Soccer Channel.mncvision">
+    <title>Persib Road To...: PSB Vs LCS</title>
+</programme>
+<programme start="20260206060000 +0000" stop="20260206080000 +0000" channel="Soccer Channel.mncvision">
+    <title>AFC Asian Cup 2026: VIE Vs UAE</title>
+</programme>
+<programme start="20260206080000 +0000" stop="20260206100000 +0000" channel="Soccer Channel.mncvision">
+    <title>Bundesliga: HSV Vs FCB</title>
+</programme>
+<programme start="20260206100000 +0000" stop="20260206103000 +0000" channel="Soccer Channel.mncvision">
+    <title>Planet Football</title>
+</programme>
+<programme start="20260206103000 +0000" stop="20260206123000 +0000" channel="Soccer Channel.mncvision">
+    <title>AFC Futsal 2026: IDN Vs JPN</title>
+</programme>
+<programme start="20260206123000 +0000" stop="20260206143000 +0000" channel="Soccer Channel.mncvision">
+    <title>SEA Games 2025: MAS Vs LAO</title>
+</programme>
+<programme start="20260206143000 +0000" stop="20260206150000 +0000" channel="Soccer Channel.mncvision">
+    <title>Bundesliga Weekly</title>
+</programme>
+<programme start="20260206150000 +0000" stop="20260206153000 +0000" channel="Soccer Channel.mncvision">
+    <title>Persib Road To...: PSB Vs LCS</title>
+</programme>
 <programme start="20260205170000 +0000" stop="20260205190000 +0000" channel="Soccer Channel HD.mncvision">
     <title>AFC Asian Cup 2026: JPN Vs JOR</title>
 </programme>
@@ -7892,7 +8143,42 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260206153000 +0000" stop="20260206160000 +0000" channel="Sportstars 2 HD.mncvision">
     <title>IBA Mens World C&#039;ship 2025</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260205170000 +0000" stop="20260205190000 +0000" channel="Sportstars 3.mncvision">
+    <title>Bundesliga</title>
+</programme>
+<programme start="20260205190000 +0000" stop="20260205210000 +0000" channel="Sportstars 3.mncvision">
+    <title>BRI Liga 1</title>
+</programme>
+<programme start="20260205210000 +0000" stop="20260205230000 +0000" channel="Sportstars 3.mncvision">
+    <title>AFC U23 Asian Cup Saudi Arabia</title>
+</programme>
+<programme start="20260205230000 +0000" stop="20260206010000 +0000" channel="Sportstars 3.mncvision">
+    <title>Bundesliga</title>
+</programme>
+<programme start="20260206010000 +0000" stop="20260206030000 +0000" channel="Sportstars 3.mncvision">
+    <title>Liga 2</title>
+</programme>
+<programme start="20260206030000 +0000" stop="20260206050000 +0000" channel="Sportstars 3.mncvision">
+    <title>BRI Liga 1</title>
+</programme>
+<programme start="20260206050000 +0000" stop="20260206070000 +0000" channel="Sportstars 3.mncvision">
+    <title>Bundesliga</title>
+</programme>
+<programme start="20260206070000 +0000" stop="20260206090000 +0000" channel="Sportstars 3.mncvision">
+    <title>DFB Pokal</title>
+</programme>
+<programme start="20260206090000 +0000" stop="20260206110000 +0000" channel="Sportstars 3.mncvision">
+    <title>Liga 2</title>
+</programme>
+<programme start="20260206110000 +0000" stop="20260206130000 +0000" channel="Sportstars 3.mncvision">
+    <title>BRI Liga 1</title>
+</programme>
+<programme start="20260206130000 +0000" stop="20260206150000 +0000" channel="Sportstars 3.mncvision">
+    <title>DFB Pokal</title>
+</programme>
+<programme start="20260206150000 +0000" stop="20260206153000 +0000" channel="Sportstars 3.mncvision">
+    <title>Liga 2</title>
+</programme>
 <programme start="20260205170000 +0000" stop="20260205190000 +0000" channel="sportstars 3 HD.mncvision">
     <title>Bundesliga</title>
 </programme>
@@ -9072,7 +9358,75 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260206163200 +0000" stop="20260205170200 +0000" channel="UNIQUES HD.mncvision">
     <title>Treasure Lies</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260205170000 +0000" stop="20260205180000 +0000" channel="Vision Prime.mncvision">
+    <title>Intan</title>
+</programme>
+<programme start="20260205180000 +0000" stop="20260205190000 +0000" channel="Vision Prime.mncvision">
+    <title>Sayap Cinta Terindah</title>
+</programme>
+<programme start="20260205190000 +0000" stop="20260205200000 +0000" channel="Vision Prime.mncvision">
+    <title>Pashmina Aisha</title>
+</programme>
+<programme start="20260205200000 +0000" stop="20260205210000 +0000" channel="Vision Prime.mncvision">
+    <title>Mencintai Ipar Sendiri</title>
+</programme>
+<programme start="20260205210000 +0000" stop="20260205220000 +0000" channel="Vision Prime.mncvision">
+    <title>Aira</title>
+</programme>
+<programme start="20260205220000 +0000" stop="20260205230000 +0000" channel="Vision Prime.mncvision">
+    <title>Mencintai Ipar Sendiri</title>
+</programme>
+<programme start="20260205230000 +0000" stop="20260206000000 +0000" channel="Vision Prime.mncvision">
+    <title>Morning Update</title>
+</programme>
+<programme start="20260206000000 +0000" stop="20260206003000 +0000" channel="Vision Prime.mncvision">
+    <title>+62 Fo.Mo</title>
+</programme>
+<programme start="20260206003000 +0000" stop="20260206010000 +0000" channel="Vision Prime.mncvision">
+    <title>Sekuriti</title>
+</programme>
+<programme start="20260206010000 +0000" stop="20260206020000 +0000" channel="Vision Prime.mncvision">
+    <title>Gamezone Indonesia</title>
+</programme>
+<programme start="20260206020000 +0000" stop="20260206030000 +0000" channel="Vision Prime.mncvision">
+    <title>Intan</title>
+</programme>
+<programme start="20260206030000 +0000" stop="20260206040000 +0000" channel="Vision Prime.mncvision">
+    <title>Ikatan Cinta</title>
+</programme>
+<programme start="20260206040000 +0000" stop="20260206050000 +0000" channel="Vision Prime.mncvision">
+    <title>Pashmina Aisha</title>
+</programme>
+<programme start="20260206050000 +0000" stop="20260206060000 +0000" channel="Vision Prime.mncvision">
+    <title>Ada Apa Dengan Cinta The Series</title>
+</programme>
+<programme start="20260206060000 +0000" stop="20260206070000 +0000" channel="Vision Prime.mncvision">
+    <title>Saat Hati Telah Memilih</title>
+</programme>
+<programme start="20260206070000 +0000" stop="20260206080000 +0000" channel="Vision Prime.mncvision">
+    <title>Sayap Cinta Terindah</title>
+</programme>
+<programme start="20260206080000 +0000" stop="20260206100000 +0000" channel="Vision Prime.mncvision">
+    <title>Mencintai Ipar Sendiri</title>
+</programme>
+<programme start="20260206100000 +0000" stop="20260206120000 +0000" channel="Vision Prime.mncvision">
+    <title>Cinta Sepenuh Jiwa</title>
+</programme>
+<programme start="20260206120000 +0000" stop="20260206130000 +0000" channel="Vision Prime.mncvision">
+    <title>Ikatan Cinta</title>
+</programme>
+<programme start="20260206130000 +0000" stop="20260206140000 +0000" channel="Vision Prime.mncvision">
+    <title>Aira</title>
+</programme>
+<programme start="20260206140000 +0000" stop="20260206143000 +0000" channel="Vision Prime.mncvision">
+    <title>Montir Cantik</title>
+</programme>
+<programme start="20260206143000 +0000" stop="20260206150000 +0000" channel="Vision Prime.mncvision">
+    <title>Operation Cobra</title>
+</programme>
+<programme start="20260206150000 +0000" stop="20260206153000 +0000" channel="Vision Prime.mncvision">
+    <title>English Vinglish</title>
+</programme>
 <programme start="20260205170000 +0000" stop="20260205180000 +0000" channel="Vision Prime HD.mncvision">
     <title>Intan</title>
 </programme>
