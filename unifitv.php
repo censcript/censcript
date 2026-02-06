@@ -3819,304 +3819,304 @@
   </channel>
   <programme start="20260205155400 +0000" stop="20260205164000 +0000" channel="cctv4hd.unifitv">
     <title lang="en">Hong Qi Qu</title>
-    <desc lang="en">Hong Qi Qu</desc>
+    <desc lang="en">The play depicts the building of the Red Flag Canal, a heroic effort by Lin County residents to solve their historic water crisis.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.2.</episode-num>
-    <episode-num system="onscreen">S1E3</episode-num>
+    <episode-num system="xmltv_ns">0.18.</episode-num>
+    <episode-num system="onscreen">S1E19</episode-num>
   </programme>
   <programme start="20260205164000 +0000" stop="20260205172600 +0000" channel="cctv4hd.unifitv">
     <title lang="en">Hong Qi Qu</title>
-    <desc lang="en">Hong Qi Qu</desc>
+    <desc lang="en">The play depicts the building of the Red Flag Canal, a heroic effort by Lin County residents to solve their historic water crisis.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.3.</episode-num>
-    <episode-num system="onscreen">S1E4</episode-num>
+    <episode-num system="xmltv_ns">0.19.</episode-num>
+    <episode-num system="onscreen">S1E20</episode-num>
   </programme>
   <programme start="20260205172600 +0000" stop="20260205175700 +0000" channel="cctv4hd.unifitv">
-    <title lang="en">China Showbiz</title>
-    <desc lang="en">The China Showbiz gathers together a wide range of wonderful TV artistic works and directs viewers into a fabulous world of arts through works appreciation and review.</desc>
-    <category lang="en">Culture</category>
-    <episode-num system="xmltv_ns">0.25.</episode-num>
-    <episode-num system="onscreen">S1E26</episode-num>
+    <title lang="en">Hong Qi Qu</title>
+    <desc lang="en">The play depicts the building of the Red Flag Canal, a heroic effort by Lin County residents to solve their historic water crisis.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.20.</episode-num>
+    <episode-num system="onscreen">S1E21</episode-num>
   </programme>
   <programme start="20260205175700 +0000" stop="20260205180500 +0000" channel="cctv4hd.unifitv">
-    <title lang="en">nostalgia</title>
-    <desc lang="en">Nostalgia aims to represent Chinese traditional culture by revealing life in villages in the way of story-telling. In this show, the audience can enjoy the natural and cultural backgrounds of Chinese traditional villages, and will find their knowledge of this oriental country expand through the interviews of Chinese people overseas whose memory and nostalgia can also reveal the very core value of the Chinese traditional culture.</desc>
-    <category lang="en">Culture</category>
-    <episode-num system="xmltv_ns">0.21.</episode-num>
-    <episode-num system="onscreen">S1E22</episode-num>
-  </programme>
-  <programme start="20260205180500 +0000" stop="20260205183500 +0000" channel="cctv4hd.unifitv">
-    <title lang="en">Network News</title>
-    <desc lang="en">Network News is a 30min news, news about china and the world.</desc>
-    <category lang="en">News</category>
-    <episode-num system="xmltv_ns">0.20260204.</episode-num>
-    <episode-num system="onscreen">S1E20260205</episode-num>
-  </programme>
-  <programme start="20260205183500 +0000" stop="20260205190500 +0000" channel="cctv4hd.unifitv">
-    <title lang="en">Walking around China</title>
-    <desc lang="en">It focuses on the latest changes in China from a humanistic perspective, pays attention to new phenomena, new fashions, and new things around ordinary Chinese people,</desc>
-    <category lang="en">News</category>
-    <episode-num system="xmltv_ns">0.20.</episode-num>
-    <episode-num system="onscreen">S1E21</episode-num>
-  </programme>
-  <programme start="20260205190500 +0000" stop="20260205191500 +0000" channel="cctv4hd.unifitv">
-    <title lang="en">China News</title>
-    <desc lang="en">It concentrates on the latest news and social changes happening in china and all over the world</desc>
-    <category lang="en">News</category>
-    <episode-num system="xmltv_ns">0.20260204.</episode-num>
-    <episode-num system="onscreen">S1E20260205</episode-num>
-  </programme>
-  <programme start="20260205191500 +0000" stop="20260205200500 +0000" channel="cctv4hd.unifitv">
-    <title lang="en">On the Way</title>
-    <desc lang="en">a large-scale tourism programme that is designed to present rich tourism resources in China and around the world</desc>
-    <category lang="en">Travel</category>
-    <episode-num system="xmltv_ns">0.30.</episode-num>
-    <episode-num system="onscreen">S1E31</episode-num>
-  </programme>
-  <programme start="20260205200500 +0000" stop="20260205203500 +0000" channel="cctv4hd.unifitv">
-    <title lang="en">China News</title>
-    <desc lang="en">It concentrates on the latest news and social changes happening in china and all over the world</desc>
-    <category lang="en">News</category>
-    <episode-num system="xmltv_ns">0.20260205.</episode-num>
-    <episode-num system="onscreen">S1E20260206</episode-num>
-  </programme>
-  <programme start="20260205203500 +0000" stop="20260205210500 +0000" channel="cctv4hd.unifitv">
-    <title lang="en">Focus Today</title>
-    <desc lang="en">Traces the current affairs from china and the world</desc>
-    <category lang="en">News</category>
-    <episode-num system="xmltv_ns">0.20260204.</episode-num>
-    <episode-num system="onscreen">S1E20260205</episode-num>
-  </programme>
-  <programme start="20260205210500 +0000" stop="20260205213500 +0000" channel="cctv4hd.unifitv">
-    <title lang="en">nostalgia</title>
-    <desc lang="en">Nostalgia aims to represent Chinese traditional culture by revealing life in villages in the way of story-telling. In this show, the audience can enjoy the natural and cultural backgrounds of Chinese traditional villages, and will find their knowledge of this oriental country expand through the interviews of Chinese people overseas whose memory and nostalgia can also reveal the very core value of the Chinese traditional culture.</desc>
-    <category lang="en">Culture</category>
-    <episode-num system="xmltv_ns">0.22.</episode-num>
-    <episode-num system="onscreen">S1E23</episode-num>
-  </programme>
-  <programme start="20260205213500 +0000" stop="20260205220500 +0000" channel="cctv4hd.unifitv">
-    <title lang="en">Walking around China</title>
-    <desc lang="en">It focuses on the latest changes in China from a humanistic perspective, pays attention to new phenomena, new fashions, and new things around ordinary Chinese people,</desc>
-    <category lang="en">News</category>
-    <episode-num system="xmltv_ns">0.20.</episode-num>
-    <episode-num system="onscreen">S1E21</episode-num>
-  </programme>
-  <programme start="20260205220500 +0000" stop="20260205223500 +0000" channel="cctv4hd.unifitv">
-    <title lang="en">Across the Strait</title>
-    <desc lang="en">The Across the Strait traces the much-discussed issues across the Strait, reflects the will of the citizens on two sides of the Strait and details the Chinese Government's policy of “one country, two systems” in a bid to enhance the Taiwan fellowmen's understanding of the Mainland China.</desc>
-    <category lang="en">News</category>
-    <episode-num system="xmltv_ns">0.35.</episode-num>
-    <episode-num system="onscreen">S1E36</episode-num>
-  </programme>
-  <programme start="20260205223500 +0000" stop="20260205230500 +0000" channel="cctv4hd.unifitv">
-    <title lang="en">Asia Today</title>
-    <desc lang="en">Report the Asia News on Asian view</desc>
-    <category lang="en">News</category>
-    <episode-num system="xmltv_ns">0.20260204.</episode-num>
-    <episode-num system="onscreen">S1E20260205</episode-num>
-  </programme>
-  <programme start="20260205230500 +0000" stop="20260205233500 +0000" channel="cctv4hd.unifitv">
-    <title lang="en">China News</title>
-    <desc lang="en">It concentrates on the latest news and social changes happening in china and all over the world</desc>
-    <category lang="en">News</category>
-    <episode-num system="xmltv_ns">0.20260205.</episode-num>
-    <episode-num system="onscreen">S1E20260206</episode-num>
-  </programme>
-  <programme start="20260205233500 +0000" stop="20260206000500 +0000" channel="cctv4hd.unifitv">
-    <title lang="en">Focus Today</title>
-    <desc lang="en">Traces the current affairs from china and the world</desc>
-    <category lang="en">News</category>
-    <episode-num system="xmltv_ns">0.20260204.</episode-num>
-    <episode-num system="onscreen">S1E20260205</episode-num>
-  </programme>
-  <programme start="20260206000500 +0000" stop="20260206010500 +0000" channel="cctv4hd.unifitv">
-    <title lang="en">Global News</title>
-    <desc lang="en">A one-hour morning news program</desc>
-    <category lang="en">News</category>
-    <episode-num system="xmltv_ns">0.20260205.</episode-num>
-    <episode-num system="onscreen">S1E20260206</episode-num>
-  </programme>
-  <programme start="20260206010500 +0000" stop="20260206013300 +0000" channel="cctv4hd.unifitv">
-    <title lang="en">Asia Today</title>
-    <desc lang="en">Report the Asia News on Asian view</desc>
-    <category lang="en">News</category>
-    <episode-num system="xmltv_ns">0.20260204.</episode-num>
-    <episode-num system="onscreen">S1E20260205</episode-num>
-  </programme>
-  <programme start="20260206013300 +0000" stop="20260206020500 +0000" channel="cctv4hd.unifitv">
     <title lang="en">China Showbiz</title>
     <desc lang="en">The China Showbiz gathers together a wide range of wonderful TV artistic works and directs viewers into a fabulous world of arts through works appreciation and review.</desc>
     <category lang="en">Culture</category>
-    <episode-num system="xmltv_ns">0.25.</episode-num>
-    <episode-num system="onscreen">S1E26</episode-num>
-  </programme>
-  <programme start="20260206020500 +0000" stop="20260206021500 +0000" channel="cctv4hd.unifitv">
-    <title lang="en">China News</title>
-    <desc lang="en">It concentrates on the latest news and social changes happening in china and all over the world</desc>
-    <category lang="en">News</category>
-    <episode-num system="xmltv_ns">0.20260205.</episode-num>
-    <episode-num system="onscreen">S1E20260206</episode-num>
-  </programme>
-  <programme start="20260206021500 +0000" stop="20260206030000 +0000" channel="cctv4hd.unifitv">
-    <title lang="en">On the Way</title>
-    <desc lang="en">a large-scale tourism programme that is designed to present rich tourism resources in China and around the world</desc>
-    <category lang="en">Travel</category>
-    <episode-num system="xmltv_ns">0.30.</episode-num>
-    <episode-num system="onscreen">S1E31</episode-num>
-  </programme>
-  <programme start="20260206030000 +0000" stop="20260206033500 +0000" channel="cctv4hd.unifitv">
-    <title lang="en">nostalgia</title>
-    <desc lang="en">Nostalgia aims to represent Chinese traditional culture by revealing life in villages in the way of story-telling. In this show, the audience can enjoy the natural and cultural backgrounds of Chinese traditional villages, and will find their knowledge of this oriental country expand through the interviews of Chinese people overseas whose memory and nostalgia can also reveal the very core value of the Chinese traditional culture.</desc>
-    <category lang="en">Culture</category>
-    <episode-num system="xmltv_ns">0.22.</episode-num>
-    <episode-num system="onscreen">S1E23</episode-num>
-  </programme>
-  <programme start="20260206033500 +0000" stop="20260206040500 +0000" channel="cctv4hd.unifitv">
-    <title lang="en">Across the Strait</title>
-    <desc lang="en">The Across the Strait traces the much-discussed issues across the Strait, reflects the will of the citizens on two sides of the Strait and details the Chinese Government's policy of “one country, two systems” in a bid to enhance the Taiwan fellowmen's understanding of the Mainland China.</desc>
-    <category lang="en">News</category>
-    <episode-num system="xmltv_ns">0.35.</episode-num>
-    <episode-num system="onscreen">S1E36</episode-num>
-  </programme>
-  <programme start="20260206040500 +0000" stop="20260206051000 +0000" channel="cctv4hd.unifitv">
-    <title lang="en">China News</title>
-    <desc lang="en">It concentrates on the latest news and social changes happening in china and all over the world</desc>
-    <category lang="en">News</category>
-    <episode-num system="xmltv_ns">0.20260205.</episode-num>
-    <episode-num system="onscreen">S1E20260206</episode-num>
-  </programme>
-  <programme start="20260206051000 +0000" stop="20260206055700 +0000" channel="cctv4hd.unifitv">
-    <title lang="en">Tie Dao Feng Yun</title>
-    <desc lang="en">In 1932, Cao Mofei and a group of young patriots struggle to build and protect a Chinese-controlled railway in the Northeast. Together, they fight to stop foreign invaders from seizing control of the region's vital transport lines.</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.27.</episode-num>
-    <episode-num system="onscreen">S1E28</episode-num>
-  </programme>
-  <programme start="20260206055700 +0000" stop="20260206064300 +0000" channel="cctv4hd.unifitv">
-    <title lang="en">Tie Dao Feng Yun</title>
-    <desc lang="en">In 1932, Cao Mofei and a group of young patriots struggle to build and protect a Chinese-controlled railway in the Northeast. Together, they fight to stop foreign invaders from seizing control of the region's vital transport lines.</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.28.</episode-num>
-    <episode-num system="onscreen">S1E29</episode-num>
-  </programme>
-  <programme start="20260206064300 +0000" stop="20260206073100 +0000" channel="cctv4hd.unifitv">
-    <title lang="en">Tie Dao Feng Yun</title>
-    <desc lang="en">In 1932, Cao Mofei and a group of young patriots struggle to build and protect a Chinese-controlled railway in the Northeast. Together, they fight to stop foreign invaders from seizing control of the region's vital transport lines.</desc>
-    <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.29.</episode-num>
     <episode-num system="onscreen">S1E30</episode-num>
   </programme>
-  <programme start="20260206073100 +0000" stop="20260206081800 +0000" channel="cctv4hd.unifitv">
-    <title lang="en">Tie Dao Feng Yun</title>
-    <desc lang="en">In 1932, Cao Mofei and a group of young patriots struggle to build and protect a Chinese-controlled railway in the Northeast. Together, they fight to stop foreign invaders from seizing control of the region's vital transport lines.</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.30.</episode-num>
-    <episode-num system="onscreen">S1E31</episode-num>
+  <programme start="20260205180500 +0000" stop="20260205183500 +0000" channel="cctv4hd.unifitv">
+    <title lang="en">nostalgia</title>
+    <desc lang="en">Nostalgia aims to represent Chinese traditional culture by revealing life in villages in the way of story-telling. In this show, the audience can enjoy the natural and cultural backgrounds of Chinese traditional villages, and will find their knowledge of this oriental country expand through the interviews of Chinese people overseas whose memory and nostalgia can also reveal the very core value of the Chinese traditional culture.</desc>
+    <category lang="en">Culture</category>
+    <episode-num system="xmltv_ns">0.20.</episode-num>
+    <episode-num system="onscreen">S1E21</episode-num>
   </programme>
-  <programme start="20260206081800 +0000" stop="20260206090600 +0000" channel="cctv4hd.unifitv">
-    <title lang="en">Tie Dao Feng Yun</title>
-    <desc lang="en">In 1932, Cao Mofei and a group of young patriots struggle to build and protect a Chinese-controlled railway in the Northeast. Together, they fight to stop foreign invaders from seizing control of the region's vital transport lines.</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.31.</episode-num>
-    <episode-num system="onscreen">S1E32</episode-num>
+  <programme start="20260205183500 +0000" stop="20260205190500 +0000" channel="cctv4hd.unifitv">
+    <title lang="en">Network News</title>
+    <desc lang="en">Network News is a 30min news, news about china and the world.</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.20260210.</episode-num>
+    <episode-num system="onscreen">S1E20260211</episode-num>
   </programme>
-  <programme start="20260206090600 +0000" stop="20260206092000 +0000" channel="cctv4hd.unifitv">
-    <title lang="en">Ordinary ingenuity</title>
-    <desc lang="en">" Ordinary Craftsmanship " is a series of character documentaries. With the theme of "Ordinary People, Extraordinary Dreams", it tells wonderful and extreme life stories.</desc>
-    <category lang="en">Education</category>
-    <episode-num system="xmltv_ns">0.89.</episode-num>
-    <episode-num system="onscreen">S1E90</episode-num>
+  <programme start="20260205190500 +0000" stop="20260205191500 +0000" channel="cctv4hd.unifitv">
+    <title lang="en">Walking around China</title>
+    <desc lang="en">It focuses on the latest changes in China from a humanistic perspective, pays attention to new phenomena, new fashions, and new things around ordinary Chinese people,</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.23.</episode-num>
+    <episode-num system="onscreen">S1E24</episode-num>
   </programme>
-  <programme start="20260206092000 +0000" stop="20260206100500 +0000" channel="cctv4hd.unifitv">
-    <title lang="en">On the Way</title>
-    <desc lang="en">a large-scale tourism programme that is designed to present rich tourism resources in China and around the world</desc>
-    <category lang="en">Travel</category>
-    <episode-num system="xmltv_ns">0.31.</episode-num>
-    <episode-num system="onscreen">S1E32</episode-num>
-  </programme>
-  <programme start="20260206100500 +0000" stop="20260206103500 +0000" channel="cctv4hd.unifitv">
+  <programme start="20260205191500 +0000" stop="20260205200500 +0000" channel="cctv4hd.unifitv">
     <title lang="en">China News</title>
     <desc lang="en">It concentrates on the latest news and social changes happening in china and all over the world</desc>
     <category lang="en">News</category>
-    <episode-num system="xmltv_ns">0.20260205.</episode-num>
-    <episode-num system="onscreen">S1E20260206</episode-num>
+    <episode-num system="xmltv_ns">0.20260210.</episode-num>
+    <episode-num system="onscreen">S1E20260211</episode-num>
   </programme>
-  <programme start="20260206103500 +0000" stop="20260206110500 +0000" channel="cctv4hd.unifitv">
-    <title lang="en">China Showbiz</title>
-    <desc lang="en">The China Showbiz gathers together a wide range of wonderful TV artistic works and directs viewers into a fabulous world of arts through works appreciation and review.</desc>
+  <programme start="20260205200500 +0000" stop="20260205203500 +0000" channel="cctv4hd.unifitv">
+    <title lang="en">On the Way</title>
+    <desc lang="en">a large-scale tourism programme that is designed to present rich tourism resources in China and around the world</desc>
+    <category lang="en">Travel</category>
+    <episode-num system="xmltv_ns">0.34.</episode-num>
+    <episode-num system="onscreen">S1E35</episode-num>
+  </programme>
+  <programme start="20260205203500 +0000" stop="20260205210500 +0000" channel="cctv4hd.unifitv">
+    <title lang="en">China News</title>
+    <desc lang="en">It concentrates on the latest news and social changes happening in china and all over the world</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.20260211.</episode-num>
+    <episode-num system="onscreen">S1E20260212</episode-num>
+  </programme>
+  <programme start="20260205210500 +0000" stop="20260205213500 +0000" channel="cctv4hd.unifitv">
+    <title lang="en">Focus Today</title>
+    <desc lang="en">Traces the current affairs from china and the world</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.20260210.</episode-num>
+    <episode-num system="onscreen">S1E20260211</episode-num>
+  </programme>
+  <programme start="20260205213500 +0000" stop="20260205220500 +0000" channel="cctv4hd.unifitv">
+    <title lang="en">nostalgia</title>
+    <desc lang="en">Nostalgia aims to represent Chinese traditional culture by revealing life in villages in the way of story-telling. In this show, the audience can enjoy the natural and cultural backgrounds of Chinese traditional villages, and will find their knowledge of this oriental country expand through the interviews of Chinese people overseas whose memory and nostalgia can also reveal the very core value of the Chinese traditional culture.</desc>
     <category lang="en">Culture</category>
     <episode-num system="xmltv_ns">0.26.</episode-num>
     <episode-num system="onscreen">S1E27</episode-num>
   </programme>
-  <programme start="20260206110500 +0000" stop="20260206113500 +0000" channel="cctv4hd.unifitv">
-    <title lang="en">China News</title>
-    <desc lang="en">It concentrates on the latest news and social changes happening in china and all over the world</desc>
+  <programme start="20260205220500 +0000" stop="20260205223500 +0000" channel="cctv4hd.unifitv">
+    <title lang="en">Walking around China</title>
+    <desc lang="en">It focuses on the latest changes in China from a humanistic perspective, pays attention to new phenomena, new fashions, and new things around ordinary Chinese people,</desc>
     <category lang="en">News</category>
-    <episode-num system="xmltv_ns">0.20260205.</episode-num>
-    <episode-num system="onscreen">S1E20260206</episode-num>
-  </programme>
-  <programme start="20260206113500 +0000" stop="20260206120500 +0000" channel="cctv4hd.unifitv">
-    <title lang="en">Asia Today</title>
-    <desc lang="en">Report the Asia News on Asian view</desc>
-    <category lang="en">News</category>
-    <episode-num system="xmltv_ns">0.20260205.</episode-num>
-    <episode-num system="onscreen">S1E20260206</episode-num>
-  </programme>
-  <programme start="20260206120500 +0000" stop="20260206123500 +0000" channel="cctv4hd.unifitv">
-    <title lang="en">nostalgia</title>
-    <desc lang="en">Nostalgia aims to represent Chinese traditional culture by revealing life in villages in the way of story-telling. In this show, the audience can enjoy the natural and cultural backgrounds of Chinese traditional villages, and will find their knowledge of this oriental country expand through the interviews of Chinese people overseas whose memory and nostalgia can also reveal the very core value of the Chinese traditional culture.</desc>
-    <category lang="en">Culture</category>
     <episode-num system="xmltv_ns">0.23.</episode-num>
     <episode-num system="onscreen">S1E24</episode-num>
   </programme>
-  <programme start="20260206123500 +0000" stop="20260206130500 +0000" channel="cctv4hd.unifitv">
+  <programme start="20260205223500 +0000" stop="20260205230500 +0000" channel="cctv4hd.unifitv">
     <title lang="en">Across the Strait</title>
     <desc lang="en">The Across the Strait traces the much-discussed issues across the Strait, reflects the will of the citizens on two sides of the Strait and details the Chinese Government's policy of “one country, two systems” in a bid to enhance the Taiwan fellowmen's understanding of the Mainland China.</desc>
     <category lang="en">News</category>
-    <episode-num system="xmltv_ns">0.36.</episode-num>
-    <episode-num system="onscreen">S1E37</episode-num>
+    <episode-num system="xmltv_ns">0.41.</episode-num>
+    <episode-num system="onscreen">S1E42</episode-num>
   </programme>
-  <programme start="20260206130500 +0000" stop="20260206133500 +0000" channel="cctv4hd.unifitv">
+  <programme start="20260205230500 +0000" stop="20260205233500 +0000" channel="cctv4hd.unifitv">
+    <title lang="en">Asia Today</title>
+    <desc lang="en">Report the Asia News on Asian view</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.20260210.</episode-num>
+    <episode-num system="onscreen">S1E20260211</episode-num>
+  </programme>
+  <programme start="20260205233500 +0000" stop="20260206000500 +0000" channel="cctv4hd.unifitv">
     <title lang="en">China News</title>
     <desc lang="en">It concentrates on the latest news and social changes happening in china and all over the world</desc>
     <category lang="en">News</category>
-    <episode-num system="xmltv_ns">0.20260205.</episode-num>
-    <episode-num system="onscreen">S1E20260206</episode-num>
+    <episode-num system="xmltv_ns">0.20260211.</episode-num>
+    <episode-num system="onscreen">S1E20260212</episode-num>
   </programme>
-  <programme start="20260206133500 +0000" stop="20260206140500 +0000" channel="cctv4hd.unifitv">
+  <programme start="20260206000500 +0000" stop="20260206010500 +0000" channel="cctv4hd.unifitv">
     <title lang="en">Focus Today</title>
     <desc lang="en">Traces the current affairs from china and the world</desc>
     <category lang="en">News</category>
-    <episode-num system="xmltv_ns">0.20260205.</episode-num>
-    <episode-num system="onscreen">S1E20260206</episode-num>
+    <episode-num system="xmltv_ns">0.20260210.</episode-num>
+    <episode-num system="onscreen">S1E20260211</episode-num>
   </programme>
-  <programme start="20260206140500 +0000" stop="20260206143500 +0000" channel="cctv4hd.unifitv">
-    <title lang="en">Talk with LuJian</title>
-    <desc lang="en">Talk with LuJian</desc>
+  <programme start="20260206010500 +0000" stop="20260206013300 +0000" channel="cctv4hd.unifitv">
+    <title lang="en">Global News</title>
+    <desc lang="en">A one-hour morning news program</desc>
     <category lang="en">News</category>
-    <episode-num system="xmltv_ns">0.5.</episode-num>
-    <episode-num system="onscreen">S1E6</episode-num>
+    <episode-num system="xmltv_ns">0.20260211.</episode-num>
+    <episode-num system="onscreen">S1E20260212</episode-num>
   </programme>
-  <programme start="20260206143500 +0000" stop="20260206150800 +0000" channel="cctv4hd.unifitv">
-    <title lang="en">Network News</title>
-    <desc lang="en">Network News is a 30min news, news about china and the world.</desc>
+  <programme start="20260206013300 +0000" stop="20260206020500 +0000" channel="cctv4hd.unifitv">
+    <title lang="en">Asia Today</title>
+    <desc lang="en">Report the Asia News on Asian view</desc>
     <category lang="en">News</category>
-    <episode-num system="xmltv_ns">0.20260205.</episode-num>
-    <episode-num system="onscreen">S1E20260206</episode-num>
+    <episode-num system="xmltv_ns">0.20260210.</episode-num>
+    <episode-num system="onscreen">S1E20260211</episode-num>
   </programme>
-  <programme start="20260206150800 +0000" stop="20260206155400 +0000" channel="cctv4hd.unifitv">
-    <title lang="en">Hong Qi Qu</title>
-    <desc lang="en">Hong Qi Qu</desc>
+  <programme start="20260206020500 +0000" stop="20260206021500 +0000" channel="cctv4hd.unifitv">
+    <title lang="en">China Showbiz</title>
+    <desc lang="en">The China Showbiz gathers together a wide range of wonderful TV artistic works and directs viewers into a fabulous world of arts through works appreciation and review.</desc>
+    <category lang="en">Culture</category>
+    <episode-num system="xmltv_ns">0.29.</episode-num>
+    <episode-num system="onscreen">S1E30</episode-num>
+  </programme>
+  <programme start="20260206021500 +0000" stop="20260206030000 +0000" channel="cctv4hd.unifitv">
+    <title lang="en">China News</title>
+    <desc lang="en">It concentrates on the latest news and social changes happening in china and all over the world</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.20260211.</episode-num>
+    <episode-num system="onscreen">S1E20260212</episode-num>
+  </programme>
+  <programme start="20260206030000 +0000" stop="20260206033500 +0000" channel="cctv4hd.unifitv">
+    <title lang="en">On the Way</title>
+    <desc lang="en">a large-scale tourism programme that is designed to present rich tourism resources in China and around the world</desc>
+    <category lang="en">Travel</category>
+    <episode-num system="xmltv_ns">0.34.</episode-num>
+    <episode-num system="onscreen">S1E35</episode-num>
+  </programme>
+  <programme start="20260206033500 +0000" stop="20260206040500 +0000" channel="cctv4hd.unifitv">
+    <title lang="en">nostalgia</title>
+    <desc lang="en">Nostalgia aims to represent Chinese traditional culture by revealing life in villages in the way of story-telling. In this show, the audience can enjoy the natural and cultural backgrounds of Chinese traditional villages, and will find their knowledge of this oriental country expand through the interviews of Chinese people overseas whose memory and nostalgia can also reveal the very core value of the Chinese traditional culture.</desc>
+    <category lang="en">Culture</category>
+    <episode-num system="xmltv_ns">0.26.</episode-num>
+    <episode-num system="onscreen">S1E27</episode-num>
+  </programme>
+  <programme start="20260206040500 +0000" stop="20260206051000 +0000" channel="cctv4hd.unifitv">
+    <title lang="en">Across the Strait</title>
+    <desc lang="en">The Across the Strait traces the much-discussed issues across the Strait, reflects the will of the citizens on two sides of the Strait and details the Chinese Government's policy of “one country, two systems” in a bid to enhance the Taiwan fellowmen's understanding of the Mainland China.</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.41.</episode-num>
+    <episode-num system="onscreen">S1E42</episode-num>
+  </programme>
+  <programme start="20260206051000 +0000" stop="20260206055600 +0000" channel="cctv4hd.unifitv">
+    <title lang="en">China News</title>
+    <desc lang="en">It concentrates on the latest news and social changes happening in china and all over the world</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.20260211.</episode-num>
+    <episode-num system="onscreen">S1E20260212</episode-num>
+  </programme>
+  <programme start="20260206055600 +0000" stop="20260206064200 +0000" channel="cctv4hd.unifitv">
+    <title lang="en">Shang Gan Ling</title>
+    <desc lang="en">The play depicts the Chinese Volunteers' strategic victory over the 'Kinhua Offensive,' a turning point in the Korean War.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+    <episode-num system="onscreen">S1E3</episode-num>
+  </programme>
+  <programme start="20260206064200 +0000" stop="20260206073000 +0000" channel="cctv4hd.unifitv">
+    <title lang="en">Shang Gan Ling</title>
+    <desc lang="en">The play depicts the Chinese Volunteers' strategic victory over the 'Kinhua Offensive,' a turning point in the Korean War.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+    <episode-num system="onscreen">S1E4</episode-num>
+  </programme>
+  <programme start="20260206073000 +0000" stop="20260206081600 +0000" channel="cctv4hd.unifitv">
+    <title lang="en">Shang Gan Ling</title>
+    <desc lang="en">The play depicts the Chinese Volunteers' strategic victory over the 'Kinhua Offensive,' a turning point in the Korean War.</desc>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.4.</episode-num>
     <episode-num system="onscreen">S1E5</episode-num>
   </programme>
-  <programme start="20260206155400 +0000" stop="20260206164000 +0000" channel="cctv4hd.unifitv">
-    <title lang="en">Hong Qi Qu</title>
-    <desc lang="en">Hong Qi Qu</desc>
+  <programme start="20260206081600 +0000" stop="20260206090600 +0000" channel="cctv4hd.unifitv">
+    <title lang="en">Shang Gan Ling</title>
+    <desc lang="en">The play depicts the Chinese Volunteers' strategic victory over the 'Kinhua Offensive,' a turning point in the Korean War.</desc>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.5.</episode-num>
     <episode-num system="onscreen">S1E6</episode-num>
+  </programme>
+  <programme start="20260206090600 +0000" stop="20260206092000 +0000" channel="cctv4hd.unifitv">
+    <title lang="en">Shang Gan Ling</title>
+    <desc lang="en">The play depicts the Chinese Volunteers' strategic victory over the 'Kinhua Offensive,' a turning point in the Korean War.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.6.</episode-num>
+    <episode-num system="onscreen">S1E7</episode-num>
+  </programme>
+  <programme start="20260206092000 +0000" stop="20260206100500 +0000" channel="cctv4hd.unifitv">
+    <title lang="en">Ordinary ingenuity</title>
+    <desc lang="en">" Ordinary Craftsmanship " is a series of character documentaries. With the theme of "Ordinary People, Extraordinary Dreams", it tells wonderful and extreme life stories.</desc>
+    <category lang="en">Education</category>
+    <episode-num system="xmltv_ns">0.55.</episode-num>
+    <episode-num system="onscreen">S1E56</episode-num>
+  </programme>
+  <programme start="20260206100500 +0000" stop="20260206103500 +0000" channel="cctv4hd.unifitv">
+    <title lang="en">On the Way</title>
+    <desc lang="en">a large-scale tourism programme that is designed to present rich tourism resources in China and around the world</desc>
+    <category lang="en">Travel</category>
+    <episode-num system="xmltv_ns">0.35.</episode-num>
+    <episode-num system="onscreen">S1E36</episode-num>
+  </programme>
+  <programme start="20260206103500 +0000" stop="20260206110500 +0000" channel="cctv4hd.unifitv">
+    <title lang="en">China News</title>
+    <desc lang="en">It concentrates on the latest news and social changes happening in china and all over the world</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.20260211.</episode-num>
+    <episode-num system="onscreen">S1E20260212</episode-num>
+  </programme>
+  <programme start="20260206110500 +0000" stop="20260206113500 +0000" channel="cctv4hd.unifitv">
+    <title lang="en">China Showbiz</title>
+    <desc lang="en">The China Showbiz gathers together a wide range of wonderful TV artistic works and directs viewers into a fabulous world of arts through works appreciation and review.</desc>
+    <category lang="en">Culture</category>
+    <episode-num system="xmltv_ns">0.30.</episode-num>
+    <episode-num system="onscreen">S1E31</episode-num>
+  </programme>
+  <programme start="20260206113500 +0000" stop="20260206120500 +0000" channel="cctv4hd.unifitv">
+    <title lang="en">China News</title>
+    <desc lang="en">It concentrates on the latest news and social changes happening in china and all over the world</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.20260211.</episode-num>
+    <episode-num system="onscreen">S1E20260212</episode-num>
+  </programme>
+  <programme start="20260206120500 +0000" stop="20260206123500 +0000" channel="cctv4hd.unifitv">
+    <title lang="en">Asia Today</title>
+    <desc lang="en">Report the Asia News on Asian view</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.20260211.</episode-num>
+    <episode-num system="onscreen">S1E20260212</episode-num>
+  </programme>
+  <programme start="20260206123500 +0000" stop="20260206130500 +0000" channel="cctv4hd.unifitv">
+    <title lang="en">nostalgia</title>
+    <desc lang="en">Nostalgia aims to represent Chinese traditional culture by revealing life in villages in the way of story-telling. In this show, the audience can enjoy the natural and cultural backgrounds of Chinese traditional villages, and will find their knowledge of this oriental country expand through the interviews of Chinese people overseas whose memory and nostalgia can also reveal the very core value of the Chinese traditional culture.</desc>
+    <category lang="en">Culture</category>
+    <episode-num system="xmltv_ns">0.27.</episode-num>
+    <episode-num system="onscreen">S1E28</episode-num>
+  </programme>
+  <programme start="20260206130500 +0000" stop="20260206133500 +0000" channel="cctv4hd.unifitv">
+    <title lang="en">Across the Strait</title>
+    <desc lang="en">The Across the Strait traces the much-discussed issues across the Strait, reflects the will of the citizens on two sides of the Strait and details the Chinese Government's policy of “one country, two systems” in a bid to enhance the Taiwan fellowmen's understanding of the Mainland China.</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.42.</episode-num>
+    <episode-num system="onscreen">S1E43</episode-num>
+  </programme>
+  <programme start="20260206133500 +0000" stop="20260206140500 +0000" channel="cctv4hd.unifitv">
+    <title lang="en">China News</title>
+    <desc lang="en">It concentrates on the latest news and social changes happening in china and all over the world</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.20260211.</episode-num>
+    <episode-num system="onscreen">S1E20260212</episode-num>
+  </programme>
+  <programme start="20260206140500 +0000" stop="20260206143500 +0000" channel="cctv4hd.unifitv">
+    <title lang="en">Focus Today</title>
+    <desc lang="en">Traces the current affairs from china and the world</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.20260211.</episode-num>
+    <episode-num system="onscreen">S1E20260212</episode-num>
+  </programme>
+  <programme start="20260206143500 +0000" stop="20260206150800 +0000" channel="cctv4hd.unifitv">
+    <title lang="en">Walking around China</title>
+    <desc lang="en">It focuses on the latest changes in China from a humanistic perspective, pays attention to new phenomena, new fashions, and new things around ordinary Chinese people,</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.24.</episode-num>
+    <episode-num system="onscreen">S1E25</episode-num>
+  </programme>
+  <programme start="20260206150800 +0000" stop="20260206155400 +0000" channel="cctv4hd.unifitv">
+    <title lang="en">Network News</title>
+    <desc lang="en">Network News is a 30min news, news about china and the world.</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.20260211.</episode-num>
+    <episode-num system="onscreen">S1E20260212</episode-num>
+  </programme>
+  <programme start="20260206155400 +0000" stop="20260206164000 +0000" channel="cctv4hd.unifitv">
+    <title lang="en">Hong Qi Qu</title>
+    <desc lang="en">The play depicts the building of the Red Flag Canal, a heroic effort by Lin County residents to solve their historic water crisis.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.21.</episode-num>
+    <episode-num system="onscreen">S1E22</episode-num>
   </programme>
   <channel id="phoenixhongkong.unifitv">
     <display-name>Phoenix Hong Kong Channel</display-name>

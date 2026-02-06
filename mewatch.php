@@ -820,14 +820,14 @@
     <programme start="20260206050700 +0000" stop="20260206085500 +0000" channel="Live 2.mewatch">
         <title>No Programme available now. Next Broadcast on 6th February, Friday 04.55pm. TSINGTAO Badminton Asia Team Championships 2026: Men’s Team Quarter-final: Malaysia vs Japan</title>
     </programme>
-    <programme start="20260206085500 +0000" stop="20260206140000 +0000" channel="Live 2.mewatch">
+    <programme start="20260206085500 +0000" stop="20260206120500 +0000" channel="Live 2.mewatch">
         <title>TSINGTAO Badminton Asia Team Championships 2026: Men’s Team Quarter-final: Malaysia vs Japan</title>
     </programme>
-    <programme start="20260206140000 +0000" stop="20260206160000 +0000" channel="Live 2.mewatch">
-        <title>No Programme available now. Next Broadcast on 7th February, Saturday 10.55am. TSINGTAO Badminton Asia Team Championships 2026: Women’s Team Semi Final</title>
+    <programme start="20260206120500 +0000" stop="20260206160000 +0000" channel="Live 2.mewatch">
+        <title>No Programme available now. Next Broadcast on 7th February, Saturday 09.55am. TSINGTAO Badminton Asia Team Championships 2026: Women’s Team Semi-Final: China vs Taipei</title>
     </programme>
-    <programme start="20260206160000 +0000" stop="20260207025500 +0000" channel="Live 2.mewatch">
-        <title>No Programme available now. Next Broadcast on 7th February, Saturday 10.55am. TSINGTAO Badminton Asia Team Championships 2026: Women’s Team Semi Final</title>
+    <programme start="20260206160000 +0000" stop="20260207015500 +0000" channel="Live 2.mewatch">
+        <title>No Programme available now. Next Broadcast on 7th February, Saturday 09.55am. TSINGTAO Badminton Asia Team Championships 2026: Women’s Team Semi-Final: China vs Taipei</title>
     </programme>
     <programme start="20260205160000 +0000" stop="20260206160000 +0000" channel="Live 5.mewatch">
         <title>No Programme available now. Next Broadcast on 11th February, Wednesday 8.15pm. AFC Champions League Two 2025/26</title>
