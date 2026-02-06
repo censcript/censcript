@@ -1,11 +1,3 @@
-<programme start="20260207023000 +0700" stop="20260207033000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>UEL &amp; UECL Magazine 2025-26 E11</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260207033000 +0700" stop="20260207040000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Game R1 S6 E24</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260207040000 +0700" stop="20260207050000 +0700" channel="COSMOTE Sport 1 HD">
     <title>UEFA Champions League Magazine 2025-26 E19</title>
     <desc>Live: Tidak</desc>
@@ -82,6 +74,14 @@
     <title>UEFA Champions League Magazine 2025-26 E19</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260208041000 +0700" stop="20260208044000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Game R1 S6 E24</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260208044000 +0700" stop="20260208065000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: AEL Novibet - Panetolikos</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260207024500 +0700" stop="20260207044500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Hellas Verona - Pisa (L)</title>
     <desc>Live: Ya</desc>
@@ -149,6 +149,10 @@
 <programme start="20260208024500 +0700" stop="20260208044500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: ACF Fiorentina - Torino (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20260208044500 +0700" stop="20260208070000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Kifisia - Atromitos</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260207030000 +0700" stop="20260207050000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Charlton Athletic  - QPR (L)</title>
@@ -290,10 +294,6 @@
     <title>Basketball: Oklahoma City Thunder - Houston Rockets (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260207030000 +0700" stop="20260207035500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC: More Than Machine S2 E5</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260207035500 +0700" stop="20260207042500 +0700" channel="COSMOTE Sport 5 HD">
     <title>WRC Magazine 2025</title>
     <desc>Live: Tidak</desc>
@@ -414,6 +414,10 @@
     <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260208045000 +0700" stop="20260208054000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260207023000 +0700" stop="20260207050000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Tallon Griekspoor - Titouan Droguet (L)</title>
     <desc>Live: Ya</desc>
@@ -464,18 +468,6 @@
 </programme>
 <programme start="20260208033000 +0700" stop="20260208073000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Greece - Mexico</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260207011500 +0700" stop="20260207032000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>World Athletics Indoor Tour Gold 2026 (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20260207032000 +0700" stop="20260207034000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260207034000 +0700" stop="20260207040000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260207040000 +0700" stop="20260207050000 +0700" channel="COSMOTE Sport 7 HD">
@@ -655,6 +647,10 @@
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20260208033000 +0700" stop="20260208040000 +0700" channel="COSMOTE Sport 9 HD">
+    <title>COSMOTESport9HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260208040000 +0700" stop="20260208050000 +0700" channel="COSMOTE Sport 9 HD">
     <title>COSMOTESport9HD</title>
     <desc>Live: Tidak</desc>
 </programme>
