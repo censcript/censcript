@@ -667,6 +667,9 @@
 <programme start="20260206113000 +0000" stop="20260206133000 +0000" channel="ANTV.vision">
 <title>Langit Untuk Renata</title>
 </programme>
+<programme start="20260206133000 +0000" stop="20260206150000 +0000" channel="ANTV.vision">
+<title>Sangkuriang</title>
+</programme>
 <programme start="20260206150000 +0000" stop="20260206170000 +0000" channel="ANTV.vision">
 <title>Mandala Dari Sungai Ular</title>
 </programme>
@@ -1493,8 +1496,5 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260206010000 +0000" stop="20260206030000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260206030000 +0000" stop="20260206050000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
