@@ -74,10 +74,6 @@
     <title>Football: Rayo Vallecano de Madrid - FC Drita</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260207095000 +0700" stop="20260207120000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Panetolikos - Aris</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260207120000 +0700" stop="20260207141000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: OFI - Levadiakos</title>
     <desc>Live: Tidak</desc>
@@ -142,8 +138,8 @@
     <title>Football: ACF Fiorentina - Torino</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260207090000 +0700" stop="20260207111500 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Vitoria Guimaraes - Moreirense</title>
+<programme start="20260208120000 +0700" stop="20260208135500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Genoa - SSC Napoli</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260207111500 +0700" stop="20260207131000 +0700" channel="COSMOTE Sport 3 HD">
@@ -204,6 +200,14 @@
 </programme>
 <programme start="20260208084000 +0700" stop="20260208121000 +0700" channel="COSMOTE Sport 3 HD">
     <title>American Football: Seattle Seahawks - Los Angeles Rams</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260208121000 +0700" stop="20260208123000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>William Hill Scottish Premiership - Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260208123000 +0700" stop="20260208143000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Arouca - Vitoria Guimaraes</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260207110000 +0700" stop="20260207130000 +0700" channel="COSMOTE Sport 4 HD">
@@ -276,14 +280,6 @@
 </programme>
 <programme start="20260208113000 +0700" stop="20260208135000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Tofas - AEK</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260207110000 +0700" stop="20260207113000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Extreme E - Highlights 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260207113000 +0700" stop="20260207120000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC Magazine 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260207120000 +0700" stop="20260207131500 +0700" channel="COSMOTE Sport 5 HD">
@@ -392,6 +388,10 @@
 </programme>
 <programme start="20260208115000 +0700" stop="20260208122000 +0700" channel="COSMOTE Sport 5 HD">
     <title>ERC 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260208122000 +0700" stop="20260208130500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>DTM</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260207110000 +0700" stop="20260207150000 +0700" channel="COSMOTE Sport 6 HD">
@@ -507,6 +507,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260208113000 +0700" stop="20260208120000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260208120000 +0700" stop="20260208130000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
