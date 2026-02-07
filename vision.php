@@ -649,9 +649,6 @@
 <programme start="20260207113000 +0000" stop="20260207133000 +0000" channel="ANTV.vision">
 <title>Langit Untuk Renata</title>
 </programme>
-<programme start="20260207150000 +0000" stop="20260207170000 +0000" channel="ANTV.vision">
-<title>Pendekar Jagad Kelana</title>
-</programme>
 <programme start="20260207170000 +0000" stop="20260207183000 +0000" channel="ANTV.vision">
 <title>Siluman Kera</title>
 </programme>
@@ -1496,5 +1493,8 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260207010000 +0000" stop="20260207030000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260207030000 +0000" stop="20260207050000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>

@@ -8293,6 +8293,393 @@
     <programme start="20260208143000 +0000" stop="20260208160500 +0000" channel="Celestial Movies HD.starhub">
         <title>When Fortune Smiles</title>
     </programme>
+    <programme start="20260207153500 +0000" stop="20260207162500 +0000" channel="Crime + Investigation HD.starhub">
+        <title>Jalajhia Finklea</title>
+    </programme>
+    <programme start="20260207162500 +0000" stop="20260207172000 +0000" channel="Crime + Investigation HD.starhub">
+        <title>The Lost Boy Of Haddon Township</title>
+    </programme>
+    <programme start="20260207172000 +0000" stop="20260207181500 +0000" channel="Crime + Investigation HD.starhub">
+        <title>Travis Rudolph</title>
+    </programme>
+    <programme start="20260207181500 +0000" stop="20260207191000 +0000" channel="Crime + Investigation HD.starhub">
+        <title>Out Of Options &amp; The Reunion</title>
+    </programme>
+    <programme start="20260207191000 +0000" stop="20260207200500 +0000" channel="Crime + Investigation HD.starhub">
+        <title>A Deadly Post</title>
+    </programme>
+    <programme start="20260207200500 +0000" stop="20260207210000 +0000" channel="Crime + Investigation HD.starhub">
+        <title>They Told Me They Were 18!</title>
+    </programme>
+    <programme start="20260207210000 +0000" stop="20260207220000 +0000" channel="Crime + Investigation HD.starhub">
+        <title>Arthur Shawcross: The Genesee River Killer</title>
+    </programme>
+    <programme start="20260207220000 +0000" stop="20260207222500 +0000" channel="Crime + Investigation HD.starhub">
+        <title>#135</title>
+    </programme>
+    <programme start="20260207222500 +0000" stop="20260207225000 +0000" channel="Crime + Investigation HD.starhub">
+        <title>#136</title>
+    </programme>
+    <programme start="20260207225000 +0000" stop="20260207234500 +0000" channel="Crime + Investigation HD.starhub">
+        <title>One Good Deed</title>
+    </programme>
+    <programme start="20260207234500 +0000" stop="20260208004000 +0000" channel="Crime + Investigation HD.starhub">
+        <title>Jalajhia Finklea</title>
+    </programme>
+    <programme start="20260208004000 +0000" stop="20260208013500 +0000" channel="Crime + Investigation HD.starhub">
+        <title>A Deadly Post</title>
+    </programme>
+    <programme start="20260208013500 +0000" stop="20260208023000 +0000" channel="Crime + Investigation HD.starhub">
+        <title>They Told Me They Were 18!</title>
+    </programme>
+    <programme start="20260208023000 +0000" stop="20260208032500 +0000" channel="Crime + Investigation HD.starhub">
+        <title>Arthur Shawcross: The Genesee River Killer</title>
+    </programme>
+    <programme start="20260208032500 +0000" stop="20260208042000 +0000" channel="Crime + Investigation HD.starhub">
+        <title>The Lost Boy Of Haddon Township</title>
+    </programme>
+    <programme start="20260208042000 +0000" stop="20260208051500 +0000" channel="Crime + Investigation HD.starhub">
+        <title>Travis Rudolph</title>
+    </programme>
+    <programme start="20260208051500 +0000" stop="20260208061000 +0000" channel="Crime + Investigation HD.starhub">
+        <title>Out Of Options &amp; The Reunion</title>
+    </programme>
+    <programme start="20260208061000 +0000" stop="20260208063500 +0000" channel="Crime + Investigation HD.starhub">
+        <title>#135</title>
+    </programme>
+    <programme start="20260208063500 +0000" stop="20260208070500 +0000" channel="Crime + Investigation HD.starhub">
+        <title>#136</title>
+    </programme>
+    <programme start="20260208070500 +0000" stop="20260208080000 +0000" channel="Crime + Investigation HD.starhub">
+        <title>One Good Deed</title>
+    </programme>
+    <programme start="20260208080000 +0000" stop="20260208085500 +0000" channel="Crime + Investigation HD.starhub">
+        <title>Jalajhia Finklea</title>
+    </programme>
+    <programme start="20260208085500 +0000" stop="20260208094500 +0000" channel="Crime + Investigation HD.starhub">
+        <title>Surviving Abduction</title>
+    </programme>
+    <programme start="20260208094500 +0000" stop="20260208103500 +0000" channel="Crime + Investigation HD.starhub">
+        <title>A Second Shot At Love</title>
+    </programme>
+    <programme start="20260208103500 +0000" stop="20260208112500 +0000" channel="Crime + Investigation HD.starhub">
+        <title>Friends &amp; Enemies</title>
+    </programme>
+    <programme start="20260208112500 +0000" stop="20260208121500 +0000" channel="Crime + Investigation HD.starhub">
+        <title>Staircase Shooter Or Defensive Dad?</title>
+    </programme>
+    <programme start="20260208121500 +0000" stop="20260208130500 +0000" channel="Crime + Investigation HD.starhub">
+        <title>Raven Abaroa</title>
+    </programme>
+    <programme start="20260208130500 +0000" stop="20260208135500 +0000" channel="Crime + Investigation HD.starhub">
+        <title>Adrift</title>
+    </programme>
+    <programme start="20260208135500 +0000" stop="20260208144500 +0000" channel="Crime + Investigation HD.starhub">
+        <title>Murder On The Family Farm</title>
+    </programme>
+    <programme start="20260208144500 +0000" stop="20260208153500 +0000" channel="Crime + Investigation HD.starhub">
+        <title>Kids Who Kill - Matthew Hardman</title>
+    </programme>
+    <programme start="20260208153500 +0000" stop="20260208162500 +0000" channel="Crime + Investigation HD.starhub">
+        <title>Deanna Cook</title>
+    </programme>
+    <programme start="20260207155800 +0000" stop="20260207161000 +0000" channel="HBO Family HD.starhub">
+        <title>Eye Sea You</title>
+    </programme>
+    <programme start="20260207161000 +0000" stop="20260207162200 +0000" channel="HBO Family HD.starhub">
+        <title>How The West Was Fun</title>
+    </programme>
+    <programme start="20260207162200 +0000" stop="20260207163400 +0000" channel="HBO Family HD.starhub">
+        <title>K&#039;nuckles Is A Filthy Rat</title>
+    </programme>
+    <programme start="20260207163400 +0000" stop="20260207164500 +0000" channel="HBO Family HD.starhub">
+        <title>Foot Burn</title>
+    </programme>
+    <programme start="20260207164500 +0000" stop="20260207165700 +0000" channel="HBO Family HD.starhub">
+        <title>Hand It Over</title>
+    </programme>
+    <programme start="20260207165700 +0000" stop="20260207170900 +0000" channel="HBO Family HD.starhub">
+        <title>Sittin&#039; Muscle</title>
+    </programme>
+    <programme start="20260207170900 +0000" stop="20260207172000 +0000" channel="HBO Family HD.starhub">
+        <title>Knot Funny</title>
+    </programme>
+    <programme start="20260207172000 +0000" stop="20260207173100 +0000" channel="HBO Family HD.starhub">
+        <title>Kid Nickels</title>
+    </programme>
+    <programme start="20260207173100 +0000" stop="20260207174300 +0000" channel="HBO Family HD.starhub">
+        <title>The Sweet Life</title>
+    </programme>
+    <programme start="20260207174300 +0000" stop="20260207175600 +0000" channel="HBO Family HD.starhub">
+        <title>Pun Times With Punsie Mckale</title>
+    </programme>
+    <programme start="20260207175600 +0000" stop="20260207180600 +0000" channel="HBO Family HD.starhub">
+        <title>Balance</title>
+    </programme>
+    <programme start="20260207180600 +0000" stop="20260207181800 +0000" channel="HBO Family HD.starhub">
+        <title>Mechanical Genie Island</title>
+    </programme>
+    <programme start="20260207181800 +0000" stop="20260207182800 +0000" channel="HBO Family HD.starhub">
+        <title>Revenge</title>
+    </programme>
+    <programme start="20260207182800 +0000" stop="20260207183900 +0000" channel="HBO Family HD.starhub">
+        <title>Oh Brother</title>
+    </programme>
+    <programme start="20260207183900 +0000" stop="20260207185100 +0000" channel="HBO Family HD.starhub">
+        <title>Panfake</title>
+    </programme>
+    <programme start="20260207185100 +0000" stop="20260207192500 +0000" channel="HBO Family HD.starhub">
+        <title>Lead&#039;em And Weep</title>
+    </programme>
+    <programme start="20260207192500 +0000" stop="20260207200000 +0000" channel="HBO Family HD.starhub">
+        <title>Part 1</title>
+    </programme>
+    <programme start="20260207200000 +0000" stop="20260207203500 +0000" channel="HBO Family HD.starhub">
+        <title>Part 2</title>
+    </programme>
+    <programme start="20260207203500 +0000" stop="20260207231000 +0000" channel="HBO Family HD.starhub">
+        <title>Wicked</title>
+    </programme>
+    <programme start="20260207231000 +0000" stop="20260207232100 +0000" channel="HBO Family HD.starhub">
+        <title>Tongue Tied</title>
+    </programme>
+    <programme start="20260207232100 +0000" stop="20260207233200 +0000" channel="HBO Family HD.starhub">
+        <title>Uncle Dummy</title>
+    </programme>
+    <programme start="20260207233200 +0000" stop="20260207234300 +0000" channel="HBO Family HD.starhub">
+        <title>Uncle Grandpa Runs For President</title>
+    </programme>
+    <programme start="20260207234300 +0000" stop="20260207235400 +0000" channel="HBO Family HD.starhub">
+        <title>Face Fix</title>
+    </programme>
+    <programme start="20260207235400 +0000" stop="20260208000500 +0000" channel="HBO Family HD.starhub">
+        <title>Rv Olympics</title>
+    </programme>
+    <programme start="20260208000500 +0000" stop="20260208001600 +0000" channel="HBO Family HD.starhub">
+        <title>The Phone Call</title>
+    </programme>
+    <programme start="20260208001600 +0000" stop="20260208002700 +0000" channel="HBO Family HD.starhub">
+        <title>Costume Crisis</title>
+    </programme>
+    <programme start="20260208002700 +0000" stop="20260208003800 +0000" channel="HBO Family HD.starhub">
+        <title>Uncle Baseball</title>
+    </programme>
+    <programme start="20260208003800 +0000" stop="20260208010000 +0000" channel="HBO Family HD.starhub">
+        <title>Chill Out</title>
+    </programme>
+    <programme start="20260208010000 +0000" stop="20260208011100 +0000" channel="HBO Family HD.starhub">
+        <title>Doctor Visit</title>
+    </programme>
+    <programme start="20260208011100 +0000" stop="20260208012200 +0000" channel="HBO Family HD.starhub">
+        <title>Cake Mistake</title>
+    </programme>
+    <programme start="20260208012200 +0000" stop="20260208013300 +0000" channel="HBO Family HD.starhub">
+        <title>Sheep Deprivation</title>
+    </programme>
+    <programme start="20260208013300 +0000" stop="20260208014400 +0000" channel="HBO Family HD.starhub">
+        <title>Trash Cat</title>
+    </programme>
+    <programme start="20260208014400 +0000" stop="20260208015500 +0000" channel="HBO Family HD.starhub">
+        <title>Uncle Greedpa</title>
+    </programme>
+    <programme start="20260208015500 +0000" stop="20260208020600 +0000" channel="HBO Family HD.starhub">
+        <title>Transitional Phase</title>
+    </programme>
+    <programme start="20260208020600 +0000" stop="20260208021700 +0000" channel="HBO Family HD.starhub">
+        <title>Full Grown Pizza</title>
+    </programme>
+    <programme start="20260208021700 +0000" stop="20260208022800 +0000" channel="HBO Family HD.starhub">
+        <title>Cartoon Factory</title>
+    </programme>
+    <programme start="20260208022800 +0000" stop="20260208023800 +0000" channel="HBO Family HD.starhub">
+        <title>What&#039;s The Big Idea?</title>
+    </programme>
+    <programme start="20260208023800 +0000" stop="20260208024900 +0000" channel="HBO Family HD.starhub">
+        <title>Anger Management</title>
+    </programme>
+    <programme start="20260208024900 +0000" stop="20260208030000 +0000" channel="HBO Family HD.starhub">
+        <title>Chess Master Steve</title>
+    </programme>
+    <programme start="20260208030000 +0000" stop="20260208031100 +0000" channel="HBO Family HD.starhub">
+        <title>Pizza Steve&#039;s Past</title>
+    </programme>
+    <programme start="20260208031100 +0000" stop="20260208032200 +0000" channel="HBO Family HD.starhub">
+        <title>Diggin&#039; A Hole</title>
+    </programme>
+    <programme start="20260208032200 +0000" stop="20260208033200 +0000" channel="HBO Family HD.starhub">
+        <title>Broken Boogie</title>
+    </programme>
+    <programme start="20260208033200 +0000" stop="20260208034300 +0000" channel="HBO Family HD.starhub">
+        <title>Director Shotrts</title>
+    </programme>
+    <programme start="20260208034300 +0000" stop="20260208035400 +0000" channel="HBO Family HD.starhub">
+        <title>Uncle Grandpa&#039;s Odd-Yssey</title>
+    </programme>
+    <programme start="20260208035400 +0000" stop="20260208040500 +0000" channel="HBO Family HD.starhub">
+        <title>Surprise Party</title>
+    </programme>
+    <programme start="20260208040500 +0000" stop="20260208041500 +0000" channel="HBO Family HD.starhub">
+        <title>Date With Gus</title>
+    </programme>
+    <programme start="20260208041500 +0000" stop="20260208042600 +0000" channel="HBO Family HD.starhub">
+        <title>Uncle Grandpa: The High School Years</title>
+    </programme>
+    <programme start="20260208042600 +0000" stop="20260208043700 +0000" channel="HBO Family HD.starhub">
+        <title>New Direction</title>
+    </programme>
+    <programme start="20260208043700 +0000" stop="20260208050500 +0000" channel="HBO Family HD.starhub">
+        <title>High Dive</title>
+    </programme>
+    <programme start="20260208050500 +0000" stop="20260208064000 +0000" channel="HBO Family HD.starhub">
+        <title>Looney Tunes: Back In Action</title>
+    </programme>
+    <programme start="20260208064000 +0000" stop="20260208082000 +0000" channel="HBO Family HD.starhub">
+        <title>Smallfoot</title>
+    </programme>
+    <programme start="20260208082000 +0000" stop="20260208110000 +0000" channel="HBO Family HD.starhub">
+        <title>Wicked</title>
+    </programme>
+    <programme start="20260208110000 +0000" stop="20260208123000 +0000" channel="HBO Family HD.starhub">
+        <title>Dog Man</title>
+    </programme>
+    <programme start="20260208123000 +0000" stop="20260208142500 +0000" channel="HBO Family HD.starhub">
+        <title>The Huntsman: Winter&#039;s War</title>
+    </programme>
+    <programme start="20260208142500 +0000" stop="20260208143600 +0000" channel="HBO Family HD.starhub">
+        <title>The Thrice Cream Man</title>
+    </programme>
+    <programme start="20260208143600 +0000" stop="20260208144800 +0000" channel="HBO Family HD.starhub">
+        <title>The Flibber-Flabber Diet</title>
+    </programme>
+    <programme start="20260208144800 +0000" stop="20260208150000 +0000" channel="HBO Family HD.starhub">
+        <title>The Froggy Apple</title>
+    </programme>
+    <programme start="20260208150000 +0000" stop="20260208151100 +0000" channel="HBO Family HD.starhub">
+        <title>Chowder&#039;s Girlfriend</title>
+    </programme>
+    <programme start="20260208151100 +0000" stop="20260208152200 +0000" channel="HBO Family HD.starhub">
+        <title>Mahjongg Night</title>
+    </programme>
+    <programme start="20260208152200 +0000" stop="20260208153400 +0000" channel="HBO Family HD.starhub">
+        <title>Stinky Love</title>
+    </programme>
+    <programme start="20260208153400 +0000" stop="20260208154600 +0000" channel="HBO Family HD.starhub">
+        <title>Certifrycation Class</title>
+    </programme>
+    <programme start="20260208154600 +0000" stop="20260208155700 +0000" channel="HBO Family HD.starhub">
+        <title>Sing Beans</title>
+    </programme>
+    <programme start="20260208155700 +0000" stop="20260208160800 +0000" channel="HBO Family HD.starhub">
+        <title>Grubble Gum</title>
+    </programme>
+    <programme start="20260207160000 +0000" stop="20260207163000 +0000" channel="TVB Jade HD.starhub">
+        <title>News Magazine 2026</title>
+    </programme>
+    <programme start="20260207163000 +0000" stop="20260207173000 +0000" channel="TVB Jade HD.starhub">
+        <title>Wudang Rules</title>
+    </programme>
+    <programme start="20260207173000 +0000" stop="20260207180000 +0000" channel="TVB Jade HD.starhub">
+        <title>Home Lovely Home</title>
+    </programme>
+    <programme start="20260207180000 +0000" stop="20260207190000 +0000" channel="TVB Jade HD.starhub">
+        <title>Music Money Monster</title>
+    </programme>
+    <programme start="20260207190000 +0000" stop="20260207193000 +0000" channel="TVB Jade HD.starhub">
+        <title>Scoop 2026</title>
+    </programme>
+    <programme start="20260207193000 +0000" stop="20260207203000 +0000" channel="TVB Jade HD.starhub">
+        <title>Mystery Files</title>
+    </programme>
+    <programme start="20260207203000 +0000" stop="20260207210000 +0000" channel="TVB Jade HD.starhub">
+        <title>Home Lovely Home</title>
+    </programme>
+    <programme start="20260207210000 +0000" stop="20260207213000 +0000" channel="TVB Jade HD.starhub">
+        <title>News Magazine 2026</title>
+    </programme>
+    <programme start="20260207213000 +0000" stop="20260207220000 +0000" channel="TVB Jade HD.starhub">
+        <title>ChatSAT</title>
+    </programme>
+    <programme start="20260207220000 +0000" stop="20260207223000 +0000" channel="TVB Jade HD.starhub">
+        <title>Not Far From Here</title>
+    </programme>
+    <programme start="20260207223000 +0000" stop="20260207230000 +0000" channel="TVB Jade HD.starhub">
+        <title>Scoop 2026</title>
+    </programme>
+    <programme start="20260207230000 +0000" stop="20260208000000 +0000" channel="TVB Jade HD.starhub">
+        <title>Good Morning Hong Kong</title>
+    </programme>
+    <programme start="20260208000000 +0000" stop="20260208010000 +0000" channel="TVB Jade HD.starhub">
+        <title>Wudang Rules</title>
+    </programme>
+    <programme start="20260208010000 +0000" stop="20260208013000 +0000" channel="TVB Jade HD.starhub">
+        <title>Dolce Vita 2021</title>
+    </programme>
+    <programme start="20260208013000 +0000" stop="20260208020000 +0000" channel="TVB Jade HD.starhub">
+        <title>Hands Up 2026</title>
+    </programme>
+    <programme start="20260208020000 +0000" stop="20260208030000 +0000" channel="TVB Jade HD.starhub">
+        <title>Big White Duel II</title>
+    </programme>
+    <programme start="20260208030000 +0000" stop="20260208040000 +0000" channel="TVB Jade HD.starhub">
+        <title>Big White Duel II</title>
+    </programme>
+    <programme start="20260208040000 +0000" stop="20260208043000 +0000" channel="TVB Jade HD.starhub">
+        <title>Scoop 2026</title>
+    </programme>
+    <programme start="20260208043000 +0000" stop="20260208050000 +0000" channel="TVB Jade HD.starhub">
+        <title>News Treasury 2026</title>
+    </programme>
+    <programme start="20260208050000 +0000" stop="20260208060000 +0000" channel="TVB Jade HD.starhub">
+        <title>Cantopop At 50</title>
+    </programme>
+    <programme start="20260208060000 +0000" stop="20260208063000 +0000" channel="TVB Jade HD.starhub">
+        <title>Showers of Blessing</title>
+    </programme>
+    <programme start="20260208063000 +0000" stop="20260208070000 +0000" channel="TVB Jade HD.starhub">
+        <title>Home Lovely Home</title>
+    </programme>
+    <programme start="20260208070000 +0000" stop="20260208080000 +0000" channel="TVB Jade HD.starhub">
+        <title>Music Money Monster</title>
+    </programme>
+    <programme start="20260208080000 +0000" stop="20260208090000 +0000" channel="TVB Jade HD.starhub">
+        <title>Mystery Files</title>
+    </programme>
+    <programme start="20260208090000 +0000" stop="20260208093000 +0000" channel="TVB Jade HD.starhub">
+        <title>News Treasury 2026</title>
+    </programme>
+    <programme start="20260208093000 +0000" stop="20260208100000 +0000" channel="TVB Jade HD.starhub">
+        <title>Finance Magazine 2026</title>
+    </programme>
+    <programme start="20260208100000 +0000" stop="20260208103000 +0000" channel="TVB Jade HD.starhub">
+        <title>Gourmet Express</title>
+    </programme>
+    <programme start="20260208103000 +0000" stop="20260208110000 +0000" channel="TVB Jade HD.starhub">
+        <title>News At 18:30</title>
+    </programme>
+    <programme start="20260208110000 +0000" stop="20260208113500 +0000" channel="TVB Jade HD.starhub">
+        <title>Sunday Report 2026 &amp; Trick Or Cheat</title>
+    </programme>
+    <programme start="20260208113500 +0000" stop="20260208120000 +0000" channel="TVB Jade HD.starhub">
+        <title>Scoop 2026</title>
+    </programme>
+    <programme start="20260208120000 +0000" stop="20260208133000 +0000" channel="TVB Jade HD.starhub">
+        <title>Midlife, Sing &amp; Shine! 4</title>
+    </programme>
+    <programme start="20260208133000 +0000" stop="20260208140000 +0000" channel="TVB Jade HD.starhub">
+        <title>China Resources (Holdings) Co. Ltd. Presents: No Poverty Land V - Odyssey of Intelligence</title>
+    </programme>
+    <programme start="20260208140000 +0000" stop="20260208144500 +0000" channel="TVB Jade HD.starhub">
+        <title>Star Weekly</title>
+    </programme>
+    <programme start="20260208144500 +0000" stop="20260208150000 +0000" channel="TVB Jade HD.starhub">
+        <title>Gourmet Express Weekly</title>
+    </programme>
+    <programme start="20260208150000 +0000" stop="20260208153000 +0000" channel="TVB Jade HD.starhub">
+        <title>News Roundup</title>
+    </programme>
+    <programme start="20260208153000 +0000" stop="20260208160000 +0000" channel="TVB Jade HD.starhub">
+        <title>Vital Lifeline</title>
+    </programme>
     <programme start="20260207160000 +0000" stop="20260207162500 +0000" channel="Nick Jr.starhub">
         <title>The Crew And Skye Build A Mountain Lodge</title>
     </programme>
