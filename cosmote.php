@@ -74,6 +74,10 @@
     <title>UEFA Champions League Magazine 2025-26 E19</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260208183000 +0700" stop="20260208190000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Game R1 S6 E24</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260207161000 +0700" stop="20260207182000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Panathinaikos - Kifisia</title>
     <desc>Live: Tidak</desc>
@@ -146,8 +150,8 @@
     <title>Football: AEL Novibet - Panetolikos</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260207151000 +0700" stop="20260207171000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Casa Pia - FC Porto</title>
+<programme start="20260208183000 +0700" stop="20260208203000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: ACF Fiorentina - Torino</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260207171000 +0700" stop="20260207191000 +0700" channel="COSMOTE Sport 3 HD">
@@ -214,9 +218,9 @@
     <title>Football: Coventry City - Oxford United F.C.</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260207153000 +0700" stop="20260207171000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Karsiyaka - Fenerbahce</title>
-    <desc>Live: Tidak</desc>
+<programme start="20260208183000 +0700" stop="20260208203000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Bologna - Parma (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260207171000 +0700" stop="20260207185500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Pick n&#039; Roll</title>
@@ -282,13 +286,9 @@
     <title>Basketball: Oklahoma City Thunder - Houston Rockets</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260207161500 +0700" stop="20260207172000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>MotoGP Classics</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260207172000 +0700" stop="20260207180000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC 2026</title>
-    <desc>Live: Tidak</desc>
+<programme start="20260208183000 +0700" stop="20260208203000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Badalona - Valencia Basket Club (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260207180000 +0700" stop="20260207185500 +0700" channel="COSMOTE Sport 5 HD">
     <title>WRC 2026</title>
@@ -404,6 +404,10 @@
 </programme>
 <programme start="20260208165000 +0700" stop="20260208182500 +0700" channel="COSMOTE Sport 5 HD">
     <title>WRC 2026</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260208182500 +0700" stop="20260208193000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260207163000 +0700" stop="20260207203000 +0700" channel="COSMOTE Sport 6 HD">
