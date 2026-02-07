@@ -150,8 +150,8 @@
     <title>Sports Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260207111500 +0700" stop="20260207131000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Manchester City FC - Exeter City</title>
+<programme start="20260208141000 +0700" stop="20260208162000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Kifisia - Atromitos</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260207131000 +0700" stop="20260207151000 +0700" channel="COSMOTE Sport 3 HD">
@@ -216,6 +216,10 @@
 </programme>
 <programme start="20260208123000 +0700" stop="20260208143000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Arouca - Vitoria Guimaraes</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260208143000 +0700" stop="20260208163000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Derby County - Ipswich Town</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260207130000 +0700" stop="20260207151000 +0700" channel="COSMOTE Sport 4 HD">
@@ -288,10 +292,6 @@
 </programme>
 <programme start="20260208135000 +0700" stop="20260208155000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Vanoli Cremona - Cantu</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260207120000 +0700" stop="20260207131500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>MotoGP Classics</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260207131500 +0700" stop="20260207141500 +0700" channel="COSMOTE Sport 5 HD">
@@ -408,6 +408,14 @@
 </programme>
 <programme start="20260208133500 +0700" stop="20260208140000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Sports Classics: Worldies E4</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260208140000 +0700" stop="20260208143000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC Magazine 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260208143000 +0700" stop="20260208151000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260207110000 +0700" stop="20260207150000 +0700" channel="COSMOTE Sport 6 HD">
