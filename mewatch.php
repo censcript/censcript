@@ -643,6 +643,9 @@
     <programme start="20260208150000 +0000" stop="20260208160000 +0000" channel="now-80s.mewatch">
         <title>Every Song From NOW 16 - 1989 - EP1</title>
     </programme>
+    <programme start="20260208160000 +0000" stop="20260208170000 +0000" channel="now-80s.mewatch">
+        <title>Every Song From NOW 16 - 1989 - EP1</title>
+    </programme>
     <programme start="20260207160000 +0000" stop="20260207161000 +0000" channel="now-70s.mewatch">
         <title>Pat Sharp&#039;s 40 Guilty Pleasures! - EP1</title>
     </programme>
