@@ -8251,7 +8251,51 @@
 <programme start="20260207163000 +0000" stop="20260206170000 +0000" channel="Sportstars.mncvision">
     <title>V-League 2025-2026 Men</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260206170000 +0000" stop="20260206190000 +0000" channel="Sportstars 2.mncvision">
+    <title>V-League</title>
+</programme>
+<programme start="20260206190000 +0000" stop="20260206210000 +0000" channel="Sportstars 2.mncvision">
+    <title>Best Of Megatron</title>
+</programme>
+<programme start="20260206210000 +0000" stop="20260206233000 +0000" channel="Sportstars 2.mncvision">
+    <title>Daihatsu Indonesia Masters 2026</title>
+</programme>
+<programme start="20260206233000 +0000" stop="20260207000000 +0000" channel="Sportstars 2.mncvision">
+    <title>Sportrivia</title>
+</programme>
+<programme start="20260207000000 +0000" stop="20260207003000 +0000" channel="Sportstars 2.mncvision">
+    <title>iNews Sport</title>
+</programme>
+<programme start="20260207003000 +0000" stop="20260207023000 +0000" channel="Sportstars 2.mncvision">
+    <title>AFC U23 Asian Cup Saudi Arabia</title>
+</programme>
+<programme start="20260207023000 +0000" stop="20260207030000 +0000" channel="Sportstars 2.mncvision">
+    <title>Sport Today</title>
+</programme>
+<programme start="20260207030000 +0000" stop="20260207050000 +0000" channel="Sportstars 2.mncvision">
+    <title>Best Of Megatron</title>
+</programme>
+<programme start="20260207050000 +0000" stop="20260207070000 +0000" channel="Sportstars 2.mncvision">
+    <title>V-League</title>
+</programme>
+<programme start="20260207070000 +0000" stop="20260207080000 +0000" channel="Sportstars 2.mncvision">
+    <title>IBA Mens World C&#039;ship 2025</title>
+</programme>
+<programme start="20260207080000 +0000" stop="20260207100000 +0000" channel="Sportstars 2.mncvision">
+    <title>AFC U23 Asian Cup Saudi Arabia</title>
+</programme>
+<programme start="20260207100000 +0000" stop="20260207123000 +0000" channel="Sportstars 2.mncvision">
+    <title>Daihatsu Indonesia Masters 2026</title>
+</programme>
+<programme start="20260207123000 +0000" stop="20260207143000 +0000" channel="Sportstars 2.mncvision">
+    <title>Best Of Megatron</title>
+</programme>
+<programme start="20260207143000 +0000" stop="20260207163000 +0000" channel="Sportstars 2.mncvision">
+    <title>Bundesliga: WOB Vs BVB (L)</title>
+</programme>
+<programme start="20260207163000 +0000" stop="20260206170000 +0000" channel="Sportstars 2.mncvision">
+    <title>Planet Football</title>
+</programme>
 <programme start="20260206170000 +0000" stop="20260206190000 +0000" channel="Sportstars 2 HD.mncvision">
     <title>V-League</title>
 </programme>
