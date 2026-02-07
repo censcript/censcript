@@ -598,62 +598,50 @@
     <programme start="20260208160000 +0000" stop="20260209160000 +0000" channel="spl02.mewatch">
         <title>No Programme available now. Next Broadcast on 15th February, Sunday 7.20pm. Singapore Premier League 2025/2026</title>
     </programme>
-    <programme start="20260207150000 +0000" stop="20260207165000 +0000" channel="now-80s.mewatch">
-        <title>The NOW Yearbook 1989 - EP1</title>
+    <programme start="20260207160000 +0000" stop="20260207170000 +0000" channel="now-80s.mewatch">
+        <title>Gary Davies: 25 Stadium Anthems! - EP1</title>
     </programme>
-    <programme start="20260207165000 +0000" stop="20260207170000 +0000" channel="now-80s.mewatch">
-        <title>80s Rock Anthems Night! - EP1</title>
+    <programme start="20260207170000 +0000" stop="20260207194000 +0000" channel="now-80s.mewatch">
+        <title>Carol Decker&#039;s 30 Rock Dudes! - EP1</title>
     </programme>
-    <programme start="20260207170000 +0000" stop="20260207190000 +0000" channel="now-80s.mewatch">
-        <title>Every Song From NOW 16 - 1989 - EP1</title>
-    </programme>
-    <programme start="20260207190000 +0000" stop="20260207200000 +0000" channel="now-80s.mewatch">
-        <title>All Day - It&#039;s 1989! - EP1</title>
+    <programme start="20260207194000 +0000" stop="20260207200000 +0000" channel="now-80s.mewatch">
+        <title>Monsters of Rock Day! - EP1</title>
     </programme>
     <programme start="20260207200000 +0000" stop="20260207210000 +0000" channel="now-80s.mewatch">
-        <title>The NOW Yearbook 1989 - EP1</title>
+        <title>Queen &amp; Freddie! 1980-1989 - EP1</title>
     </programme>
     <programme start="20260207210000 +0000" stop="20260207220000 +0000" channel="now-80s.mewatch">
+        <title>AC/DC v Iron Maiden! - EP1</title>
+    </programme>
+    <programme start="20260207220000 +0000" stop="20260207223000 +0000" channel="now-80s.mewatch">
+        <title>Saturday Night at the Movies! - EP1</title>
+    </programme>
+    <programme start="20260207223000 +0000" stop="20260207230000 +0000" channel="now-80s.mewatch">
+        <title>Monsters of Rock! 1980-1989 - EP1</title>
+    </programme>
+    <programme start="20260207230000 +0000" stop="20260208080000 +0000" channel="now-80s.mewatch">
+        <title>101 Power Ballads: 1980-1989 - EP1</title>
+    </programme>
+    <programme start="20260208080000 +0000" stop="20260208090000 +0000" channel="now-80s.mewatch">
+        <title>All Day - It&#039;s 1989! - EP1</title>
+    </programme>
+    <programme start="20260208090000 +0000" stop="20260208115000 +0000" channel="now-80s.mewatch">
         <title>The NOW Yearbook 1989 - EP1</title>
     </programme>
-    <programme start="20260207220000 +0000" stop="20260208020000 +0000" channel="now-80s.mewatch">
-        <title>Soft Rock Classics! 1980-1989 - EP1</title>
+    <programme start="20260208115000 +0000" stop="20260208120000 +0000" channel="now-80s.mewatch">
+        <title>All Day - It&#039;s 1989! - EP1</title>
     </programme>
-    <programme start="20260208020000 +0000" stop="20260208042000 +0000" channel="now-80s.mewatch">
-        <title>Jenny Powell&#039;s Powerplays - Top 25 - EP1</title>
+    <programme start="20260208120000 +0000" stop="20260208130000 +0000" channel="now-80s.mewatch">
+        <title>Bruno&#039;s Forgotten Hits: 1989 - EP1</title>
     </programme>
-    <programme start="20260208042000 +0000" stop="20260208050000 +0000" channel="now-80s.mewatch">
-        <title>Soft Rock &amp; Power Pop! - EP1</title>
+    <programme start="20260208130000 +0000" stop="20260208140000 +0000" channel="now-80s.mewatch">
+        <title>1989&#039;s One-Hit-Wonders! Top 12 - EP1</title>
     </programme>
-    <programme start="20260208050000 +0000" stop="20260208073000 +0000" channel="now-80s.mewatch">
-        <title>Tony Hadley&#039;s Solid Gold Anthems! - EP1</title>
+    <programme start="20260208140000 +0000" stop="20260208150000 +0000" channel="now-80s.mewatch">
+        <title>All Day - It&#039;s 1989! - EP1</title>
     </programme>
-    <programme start="20260208073000 +0000" stop="20260208080000 +0000" channel="now-80s.mewatch">
-        <title>1981 Unleashed! - EP1</title>
-    </programme>
-    <programme start="20260208080000 +0000" stop="20260208084000 +0000" channel="now-80s.mewatch">
-        <title>1981&#039;s One-Hit-Wonders! Top 10 - EP1</title>
-    </programme>
-    <programme start="20260208084000 +0000" stop="20260208090000 +0000" channel="now-80s.mewatch">
-        <title>1981 Unleashed! - EP1</title>
-    </programme>
-    <programme start="20260208090000 +0000" stop="20260208093000 +0000" channel="now-80s.mewatch">
-        <title>Mark Goodier&#039;s No.1s of 1981 - EP1</title>
-    </programme>
-    <programme start="20260208093000 +0000" stop="20260208103000 +0000" channel="now-80s.mewatch">
+    <programme start="20260208150000 +0000" stop="20260208160000 +0000" channel="now-80s.mewatch">
         <title>Every Song From NOW 16 - 1989 - EP1</title>
-    </programme>
-    <programme start="20260208103000 +0000" stop="20260208110000 +0000" channel="now-80s.mewatch">
-        <title>Way Back When! 1981 - EP1</title>
-    </programme>
-    <programme start="20260208110000 +0000" stop="20260208124500 +0000" channel="now-80s.mewatch">
-        <title>Duncan James&#039; Eurovision Top 25 - EP1</title>
-    </programme>
-    <programme start="20260208124500 +0000" stop="20260208130000 +0000" channel="now-80s.mewatch">
-        <title>WOW! What A Party! - EP1</title>
-    </programme>
-    <programme start="20260208130000 +0000" stop="20260208170000 +0000" channel="now-80s.mewatch">
-        <title>80s School Disco Top 50 - EP1</title>
     </programme>
     <programme start="20260207160000 +0000" stop="20260207161000 +0000" channel="now-70s.mewatch">
         <title>Pat Sharp&#039;s 40 Guilty Pleasures! - EP1</title>
