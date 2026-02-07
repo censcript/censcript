@@ -649,9 +649,6 @@
 <programme start="20260207113000 +0000" stop="20260207133000 +0000" channel="ANTV.vision">
 <title>Langit Untuk Renata</title>
 </programme>
-<programme start="20260207133000 +0000" stop="20260207150000 +0000" channel="ANTV.vision">
-<title>Ratu Ilmu Hitam</title>
-</programme>
 <programme start="20260207150000 +0000" stop="20260207170000 +0000" channel="ANTV.vision">
 <title>Pendekar Jagad Kelana</title>
 </programme>
@@ -846,9 +843,6 @@
 </programme>
 <programme start="20260207130000 +0000" stop="20260207140000 +0000" channel="TVOne.vision">
 <title>Kabar Utama (L)</title>
-</programme>
-<programme start="20260207140000 +0000" stop="20260207150000 +0000" channel="TVOne.vision">
-<title>Renungan Jiwa</title>
 </programme>
 <programme start="20260207150000 +0000" stop="20260207160000 +0000" channel="TVOne.vision">
 <title>Kabar Hari Ini (L)</title>
@@ -1497,4 +1491,10 @@
 </programme>
 <programme start="20260208110000 +0000" stop="20260208120000 +0000" channel="BTV.vision">
 <title>Dunia Binatang</title>
+</programme>
+<programme start="20260206230000 +0000" stop="20260207010000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260207010000 +0000" stop="20260207030000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
 </programme>

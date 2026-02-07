@@ -1,11 +1,3 @@
-<programme start="20260207203000 +0700" stop="20260207213000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>UEFA Champions League Magazine 2025-26 E19</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260207213000 +0700" stop="20260207220000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>PreGame (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
 <programme start="20260207220000 +0700" stop="20260208001000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: AEL Novibet - Panetolikos (L)</title>
     <desc>Live: Ya</desc>
@@ -82,9 +74,9 @@
     <title>PreGame (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260207205000 +0700" stop="20260207210500 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Sports Classics: Worldies E14</title>
-    <desc>Live: Tidak</desc>
+<programme start="20260208220000 +0700" stop="20260209001000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: OFI - Levadiakos (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260207210500 +0700" stop="20260207230500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Hellas Verona - Pisa</title>
@@ -158,14 +150,6 @@
     <title>Football: Lecce - Udinese (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260207193000 +0700" stop="20260207213000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Derby County - Ipswich Town (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20260207213000 +0700" stop="20260207220000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>William Hill Scottish Premiership - Highlights</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260207220000 +0700" stop="20260208000000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Coventry City - Oxford United F.C. (L)</title>
     <desc>Live: Ya</desc>
@@ -225,10 +209,6 @@
 <programme start="20260208210000 +0700" stop="20260208230000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: APOEL - AEK Larnaca (L)</title>
     <desc>Live: Ya</desc>
-</programme>
-<programme start="20260207194500 +0700" stop="20260207214500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Armani Milano - Brescia</title>
-    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260207214500 +0700" stop="20260207235500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Alba Berlin - Karditsa</title>
@@ -406,9 +386,9 @@
     <title>MotoGP Classics</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260207210000 +0700" stop="20260207220000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>PreGame Show (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20260208225000 +0700" stop="20260208235000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>MotoGP Classics</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260207220000 +0700" stop="20260208000000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Greece - Mexico (L)</title>
@@ -444,6 +424,10 @@
 </programme>
 <programme start="20260208210000 +0700" stop="20260208220000 +0700" channel="COSMOTE Sport 6 HD">
     <title>PreGame Show (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
+<programme start="20260208220000 +0700" stop="20260209000000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: Greece - Mexico (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20260207210000 +0700" stop="20260207230000 +0700" channel="COSMOTE Sport 7 HD">
