@@ -797,10 +797,10 @@
         <title>TSINGTAO Badminton Asia Team Championships 2026: Women’s Team Semi-Final: China vs Taipei</title>
     </programme>
     <programme start="20260207070000 +0000" stop="20260207085500 +0000" channel="Live 2.mewatch">
-        <title>No Programme available now. Next Broadcast on 7th February, Saturday 04.55pm. TSINGTAO Badminton Asia Team Championships 2026: Men’s Team Semi-Final:</title>
+        <title>No Programme available now. Next Broadcast on 7th February, Saturday 04.55pm. TSINGTAO Badminton Asia Team Championships 2026: Men’s Team Semi-Final: China vs Korea</title>
     </programme>
     <programme start="20260207085500 +0000" stop="20260207140000 +0000" channel="Live 2.mewatch">
-        <title>TSINGTAO Badminton Asia Team Championships 2026: Men’s Team Semi-Final:</title>
+        <title>TSINGTAO Badminton Asia Team Championships 2026: Men’s Team Semi-Final: China vs Korea</title>
     </programme>
     <programme start="20260207140000 +0000" stop="20260207160000 +0000" channel="Live 2.mewatch">
         <title>No Programme available now. Next Broadcast on 8th February, Sunday 10.55am. TSINGTAO Badminton Asia Team Championships 2026: Women’s Team Final</title>

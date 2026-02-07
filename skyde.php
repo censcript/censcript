@@ -2632,7 +2632,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Live Admiral BL: Alle Spiele, alle Tore 18. Runde (Samstag)</title>
 </programme>
 <programme start="20260207190000 +0000" stop="20260207193000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Fußball: Glasner - Eine Sky Sport Austria Dokumentation</title>
+    <title>Fußball: Glasner. - Eine Sky Sport Austria Dokumentation</title>
 </programme>
 <programme start="20260207193000 +0000" stop="20260207203000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: Alle Spiele, alle Tore 18. Runde (Samstag)</title>
@@ -2641,7 +2641,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Admiral BL: SK Rapid - TSV Egger Glas Hartberg, 18. Runde</title>
 </programme>
 <programme start="20260207223000 +0000" stop="20260207230000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Fußball: Glasner - Eine Sky Sport Austria Dokumentation</title>
+    <title>Fußball: Glasner. - Eine Sky Sport Austria Dokumentation</title>
 </programme>
 <programme start="20260207153000 +0000" stop="20260207155000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Admiral BL: Es folgt</title>
@@ -2847,7 +2847,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260207113000 +0000" stop="20260207140000 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
     <title>Live 2. BL: Samstags-Konferenz, 21. Spieltag</title>
 </programme>
-<programme start="20260207140000 +0000" stop="20260207144500 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
+<programme start="20260207140000 +0000" stop="20260207151500 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
     <title>Live 2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 21. Spieltag, Samstag</title>
 </programme>
 <programme start="20260206230000 +0000" stop="20260207000000 +0000" channel="Sky Sport F1 HD.skyde">
@@ -3003,8 +3003,11 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260207110000 +0000" stop="20260207113000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>MotoGP: Fabio Quartararo - The redemption road</title>
 </programme>
-<programme start="20260207113000 +0000" stop="20260207143000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260207113000 +0000" stop="20260207140500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live MotoGP: Season Launch 2026</title>
+</programme>
+<programme start="20260207140500 +0000" stop="20260207143000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>MotoGP: MotoGP Rookies - Joining the elite</title>
 </programme>
 <programme start="20260207143000 +0000" stop="20260207144000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>MotoGP: Marc Marquez - Best Moments 2025</title>
@@ -3120,10 +3123,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260207223000 +0000" stop="20260207230000 +0000" channel="Sky Sport News HD.skyde">
     <title>Sky Sport News: Nightline</title>
 </programme>
-<programme start="20260207003000 +0000" stop="20260207013000 +0000" channel="Sky Sport Premier League HD.skyde">
+<programme start="20260207004000 +0000" stop="20260207013500 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: 1 to 11 (Ruud Gullit)</title>
 </programme>
-<programme start="20260207013000 +0000" stop="20260207033000 +0000" channel="Sky Sport Premier League HD.skyde">
+<programme start="20260207013500 +0000" stop="20260207033000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>Carabao Cup: Manchester City - Newcastle United, Halbfinale Rückspiel</title>
 </programme>
 <programme start="20260207033000 +0000" stop="20260207040000 +0000" channel="Sky Sport Premier League HD.skyde">
@@ -3177,7 +3180,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260206233000 +0000" stop="20260207013000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: C. Tauson (DEN) - S. Bejlek (CZE), Mubadala Abu Dhabi Open in Abu Dhabi (VAE), HF 2</title>
 </programme>
-<programme start="20260207013000 +0000" stop="20260207033000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260207013000 +0000" stop="20260207020000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP: This Week</title>
+</programme>
+<programme start="20260207020000 +0000" stop="20260207033000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 250: F. Auger-Aliassime (CAN) - A. Fils (FRA), Open Occitanie in Montpellier (FRA), 5. Tag</title>
 </programme>
 <programme start="20260207033000 +0000" stop="20260207040000 +0000" channel="Sky Sport Tennis HD.skyde">
@@ -3186,7 +3192,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260207040000 +0000" stop="20260207063000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 250: T. Machac (CZE) - U. Humbert (FRA), Adelaide International in Adelaide (AUS), Finale</title>
 </programme>
-<programme start="20260207063000 +0000" stop="20260207083000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260207063000 +0000" stop="20260207070000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP: This Week</title>
+</programme>
+<programme start="20260207070000 +0000" stop="20260207083000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 250: F. Auger-Aliassime (CAN) - A. Fils (FRA), Open Occitanie in Montpellier (FRA), 5. Tag</title>
 </programme>
 <programme start="20260207083000 +0000" stop="20260207090000 +0000" channel="Sky Sport Tennis HD.skyde">
@@ -3198,38 +3207,44 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260207110000 +0000" stop="20260207130000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: C. Tauson (DEN) - S. Bejlek (CZE), Mubadala Abu Dhabi Open in Abu Dhabi (VAE), HF 2</title>
 </programme>
-<programme start="20260207130000 +0000" stop="20260207153000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live WTA 500: Finale, Mubadala Abu Dhabi Open in Abu Dhabi (VAE), Finale</title>
+<programme start="20260207130000 +0000" stop="20260207140000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>Live WTA 500: S. Bejlek (CZE) - E. Alexandrova, Mubadala Abu Dhabi Open in Abu Dhabi (VAE), Finale</title>
 </programme>
-<programme start="20260207153000 +0000" stop="20260207160000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP 250: HF1, Open Occitanie in Montpellier (FRA), Halbfinale 1</title>
+<programme start="20260207140000 +0000" stop="20260207160000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>Live ATP 250: A. Mannarino (FRA) - M. Damm (USA), Open Occitanie in Montpellier (FRA), Halbfinale 1</title>
 </programme>
 <programme start="20260207160000 +0000" stop="20260207180000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP 250: HF2, Open Occitanie in Montpellier (FRA), Halbfinale 2</title>
+    <title>Live ATP 250: F. Auger-Aliassime (CAN) - T. Droguet (FRA), Open Occitanie in Montpellier (FRA), Halbfinale 2</title>
 </programme>
 <programme start="20260207180000 +0000" stop="20260207203000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: Finale, Mubadala Abu Dhabi Open in Abu Dhabi (VAE), Finale</title>
+    <title>WTA 500: S. Bejlek (CZE) - E. Alexandrova, Mubadala Abu Dhabi Open in Abu Dhabi (VAE), Finale</title>
 </programme>
 <programme start="20260207203000 +0000" stop="20260207211500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: The Ring Master: Alexander Bublik</title>
 </programme>
 <programme start="20260207211500 +0000" stop="20260207231500 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 250: HF1, Open Occitanie in Montpellier (FRA), Halbfinale 1</title>
+    <title>ATP 250: A. Mannarino (FRA) - M. Damm (USA), Open Occitanie in Montpellier (FRA), Halbfinale 1</title>
 </programme>
 <programme start="20260206231500 +0000" stop="20260206234500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>NBA: On Fire</title>
 </programme>
-<programme start="20260206234500 +0000" stop="20260207004500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260206234500 +0000" stop="20260207001500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>NHL: On the Fly</title>
 </programme>
-<programme start="20260207004500 +0000" stop="20260207011500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260207001500 +0000" stop="20260207004500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Meine Geschichte: Das Leben von Deniz Aytekin</title>
+</programme>
+<programme start="20260207004500 +0000" stop="20260207011500 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>PL: Preview, 25. Spieltag (Freitag)</title>
 </programme>
 <programme start="20260207011500 +0000" stop="20260207020000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 21. Spieltag, Freitag</title>
 </programme>
-<programme start="20260207020000 +0000" stop="20260207040000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260207020000 +0000" stop="20260207033000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>ATP 250: F. Auger-Aliassime (CAN) - A. Fils (FRA), Open Occitanie in Montpellier (FRA), 5. Tag</title>
+</programme>
+<programme start="20260207033000 +0000" stop="20260207040000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Meine Geschichte: Das Leben von Deniz Aytekin</title>
 </programme>
 <programme start="20260207040000 +0000" stop="20260207060000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>BL: 1. FC Union Berlin - Eintracht Frankfurt, Flutlicht-Freitag, 21. Spieltag</title>
@@ -3744,10 +3759,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260207100000 +0000" stop="20260207104500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Fringe</title>
 </programme>
-<programme start="20260207104500 +0000" stop="20260207113000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260207104500 +0000" stop="20260207113500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Fringe</title>
 </programme>
-<programme start="20260207113000 +0000" stop="20260207122000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260207113500 +0000" stop="20260207122000 +0000" channel="Warner TV Serie HD.skyde">
     <title>NCIS: Los Angeles</title>
 </programme>
 <programme start="20260207122000 +0000" stop="20260207130500 +0000" channel="Warner TV Serie HD.skyde">

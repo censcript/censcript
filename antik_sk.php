@@ -14956,10 +14956,10 @@
   <programme start="20260209220000 +0000" stop="20260210041000 +0000" channel="Life TV.webtv.sk">
     <title lang="id">Program z Domu modlitieb a chvál v Kansas City</title>
   </programme>
-  <programme start="20260208221000 +0000" stop="20260208233800 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20260208215000 +0000" stop="20260208231900 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Záznam z rokovania zastupiteľstva KSK - 15.12.2025</title>
   </programme>
-  <programme start="20260208233800 +0000" stop="20260209024700 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20260208231900 +0000" stop="20260209022700 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Záznam z rokovania zastupiteľstva PSK - 8.12.2025</title>
   </programme>
   <programme start="20260209040000 +0000" stop="20260209041000 +0000" channel="TV Zemplín.webtv.sk">
@@ -14998,131 +14998,137 @@
   <programme start="20260209073700 +0000" stop="20260209074200 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Evanjelium na dnes</title>
   </programme>
-  <programme start="20260209074200 +0000" stop="20260209080600 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">NA VÝCHODE - Keď myšlienky nedajú pokoj</title>
+  <programme start="20260209074200 +0000" stop="20260209080000 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Dnes bez lopty - Anton Šoltis</title>
   </programme>
-  <programme start="20260209080600 +0000" stop="20260209083000 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20260209080000 +0000" stop="20260209081500 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Hutorime i bisidujeme - Bežovce</title>
   </programme>
-  <programme start="20260209083000 +0000" stop="20260209083200 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20260209081500 +0000" stop="20260209083200 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Tlačová konferencia pred začiatkom jarnej časti</title>
+  </programme>
+  <programme start="20260209083200 +0000" stop="20260209083400 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Charakterové minútky - Tímovosť vs. Individualizmus</title>
   </programme>
-  <programme start="20260209083200 +0000" stop="20260209085100 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20260209083400 +0000" stop="20260209085300 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Litmanovská Vizionárka Ivetka: O depresiách a úzkostiach</title>
   </programme>
-  <programme start="20260209085100 +0000" stop="20260209092100 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20260209085300 +0000" stop="20260209092300 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Živý prenos - Litmanová - Modlitba sv. ruženca</title>
   </programme>
-  <programme start="20260209092100 +0000" stop="20260209105400 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20260209092300 +0000" stop="20260209105600 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Živý prenos - Litmanová - Sv. liturgia</title>
   </programme>
-  <programme start="20260209105400 +0000" stop="20260209110600 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20260209105600 +0000" stop="20260209110800 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Litmanovská Vizionárka Ivetka: v Božom pláne i diabol musí slúžiť</title>
   </programme>
-  <programme start="20260209110600 +0000" stop="20260209110900 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20260209110800 +0000" stop="20260209111100 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Evanjelium na dnes</title>
   </programme>
-  <programme start="20260209110900 +0000" stop="20260209111100 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20260209111100 +0000" stop="20260209111300 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Charakterové minútky - Aktivita vs. Pasivita</title>
   </programme>
-  <programme start="20260209111100 +0000" stop="20260209113100 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20260209111300 +0000" stop="20260209113300 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Živý prenos - Kňazský seminár Prešov - 6. hodinka</title>
   </programme>
-  <programme start="20260209113100 +0000" stop="20260209114700 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20260209113300 +0000" stop="20260209114900 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Litmanovská vizionárka Iveta: Zápas, o ktorom hovorila Panna Mária, neberieme vážne</title>
   </programme>
-  <programme start="20260209114700 +0000" stop="20260209122100 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20260209114900 +0000" stop="20260209122300 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Michalovské správy 29.1.2026</title>
   </programme>
-  <programme start="20260209122100 +0000" stop="20260209122800 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20260209122300 +0000" stop="20260209122900 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Charakterové minútky - Ochota vs. Neochota</title>
   </programme>
-  <programme start="20260209122800 +0000" stop="20260209123800 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20260209122900 +0000" stop="20260209124000 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Sobranský magazín</title>
   </programme>
-  <programme start="20260209123800 +0000" stop="20260209124700 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20260209124000 +0000" stop="20260209124900 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Otcovia púšte</title>
   </programme>
-  <programme start="20260209124700 +0000" stop="20260209130300 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20260209124900 +0000" stop="20260209130400 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Hutorime i bisidujeme - Pinkovce</title>
   </programme>
-  <programme start="20260209130300 +0000" stop="20260209134300 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20260209130400 +0000" stop="20260209134500 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Užan</title>
   </programme>
-  <programme start="20260209134300 +0000" stop="20260209141000 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20260209134500 +0000" stop="20260209141200 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Živý prenos - Litmanová - Korunka k Božiemu milosrdenstvu</title>
   </programme>
-  <programme start="20260209141000 +0000" stop="20260209143900 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20260209141200 +0000" stop="20260209142300 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Litmanovská vizionárka Iveta: Majdan pre mňa znamenal nemať nároky na život</title>
   </programme>
-  <programme start="20260209143900 +0000" stop="20260209150400 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20260209142300 +0000" stop="20260209144100 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Tlačová konferencia pred začiatkom jarnej časti</title>
+  </programme>
+  <programme start="20260209144100 +0000" stop="20260209150600 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Michalovské správy 29.1.2026</title>
   </programme>
-  <programme start="20260209150400 +0000" stop="20260209150700 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20260209150600 +0000" stop="20260209151000 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Otcovia púšte</title>
   </programme>
-  <programme start="20260209150700 +0000" stop="20260209151700 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20260209151000 +0000" stop="20260209152000 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Charakterové minútky - Tímovosť vs. Individualizmus</title>
   </programme>
-  <programme start="20260209151700 +0000" stop="20260209152500 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20260209152000 +0000" stop="20260209152700 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Evanjelium na dnes</title>
   </programme>
-  <programme start="20260209152500 +0000" stop="20260209152900 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20260209152700 +0000" stop="20260209153200 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Litmanovská vizionárka Iveta: Diabol bude napísaný stále s malým d</title>
   </programme>
-  <programme start="20260209152900 +0000" stop="20260209153700 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20260209153200 +0000" stop="20260209153900 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Slovo - Ako zbaviť dom od zlých duchov</title>
   </programme>
-  <programme start="20260209153700 +0000" stop="20260209165700 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20260209153900 +0000" stop="20260209170000 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Živý prenos - Katedrála Bratislava - Sv. liturgia</title>
   </programme>
-  <programme start="20260209165700 +0000" stop="20260209170200 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20260209170000 +0000" stop="20260209170400 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Litmanovská vizionárka Iveta: Diabol bude napísaný stále s malým d</title>
   </programme>
-  <programme start="20260209170200 +0000" stop="20260209171000 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20260209170400 +0000" stop="20260209171300 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Otcovia púšte</title>
   </programme>
-  <programme start="20260209171000 +0000" stop="20260209171200 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20260209171300 +0000" stop="20260209171500 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Charakterové minútky - Iniciatíva vs. Ľahostajnosť</title>
   </programme>
-  <programme start="20260209171200 +0000" stop="20260209173000 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20260209171500 +0000" stop="20260209173200 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Sobranský magazín</title>
   </programme>
-  <programme start="20260209173000 +0000" stop="20260209180900 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20260209173200 +0000" stop="20260209181200 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Záhorčan</title>
   </programme>
-  <programme start="20260209180900 +0000" stop="20260209182900 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20260209181200 +0000" stop="20260209183200 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Hutorime i bisidujeme - Priekopa</title>
   </programme>
-  <programme start="20260209182900 +0000" stop="20260209183400 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20260209183200 +0000" stop="20260209183600 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Evanjelium na dnes</title>
   </programme>
-  <programme start="20260209183400 +0000" stop="20260209184400 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20260209183600 +0000" stop="20260209184700 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Litmanovská vizionárka Iveta: Spomienka na prvý deň zjavení po 30tich rokoch - prvá časť</title>
   </programme>
-  <programme start="20260209184400 +0000" stop="20260209192500 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20260209184700 +0000" stop="20260209192700 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Živý prenos - Kňazský seminár Prešov - Večiereň</title>
   </programme>
-  <programme start="20260209192500 +0000" stop="20260209195200 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20260209192700 +0000" stop="20260209195400 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">NA SLOVÍČKO - Keď mestá a obce myslia podnikavo, región rastie</title>
   </programme>
-  <programme start="20260209195200 +0000" stop="20260209200000 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20260209195400 +0000" stop="20260209200200 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Varenie v lese - Jelenie ragú</title>
   </programme>
-  <programme start="20260209200000 +0000" stop="20260209202400 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20260209200200 +0000" stop="20260209202600 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">NA VÝCHODE - Keď myšlienky nedajú pokoj</title>
   </programme>
-  <programme start="20260209202400 +0000" stop="20260209204900 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20260209202600 +0000" stop="20260209204300 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Litmanovská Vizionárka Ivetka: O depresiách a úzkostiach</title>
   </programme>
-  <programme start="20260209204900 +0000" stop="20260209212500 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20260209204300 +0000" stop="20260209210500 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Dnes bez lopty - Anton Šoltis</title>
+  </programme>
+  <programme start="20260209210500 +0000" stop="20260209214100 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Zemplínska šírava - Príbeh vody I</title>
   </programme>
-  <programme start="20260209212500 +0000" stop="20260209225400 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20260209214100 +0000" stop="20260209231000 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Záznam z rokovania zastupiteľstva KSK - 15.12.2025</title>
-  </programme>
-  <programme start="20260209225400 +0000" stop="20260210020200 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Záznam z rokovania zastupiteľstva PSK - 8.12.2025</title>
   </programme>
   <programme start="20260208230000 +0000" stop="20260209000000 +0000" channel="TV Poprad.webtv.sk">
     <title lang="id">Aktuality regiónu</title>
@@ -16768,10 +16774,10 @@
   <programme start="20260209105000 +0000" stop="20260209111000 +0000" channel="TVP Polonia.webtv.sk">
     <title lang="id">Paryz. Sladami Chopina (6)</title>
   </programme>
-  <programme start="20260209111000 +0000" stop="20260209120000 +0000" channel="TVP Polonia.webtv.sk">
+  <programme start="20260209111000 +0000" stop="20260209120500 +0000" channel="TVP Polonia.webtv.sk">
     <title lang="id">Blondynka I (11/13)</title>
   </programme>
-  <programme start="20260209120000 +0000" stop="20260209125000 +0000" channel="TVP Polonia.webtv.sk">
+  <programme start="20260209120500 +0000" stop="20260209125000 +0000" channel="TVP Polonia.webtv.sk">
     <title lang="id">Blondynka I (12/13)</title>
   </programme>
   <programme start="20260209125000 +0000" stop="20260209131000 +0000" channel="TVP Polonia.webtv.sk">
@@ -16885,11 +16891,8 @@
   <programme start="20260209093000 +0000" stop="20260209100000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">Признаки жизни: Наукоград. Пущино</title>
   </programme>
-  <programme start="20260209100000 +0000" stop="20260209103000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Ждем в гости: Мистическая Грузия</title>
-  </programme>
-  <programme start="20260209103000 +0000" stop="20260209110000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Специальный репортаж Настоящего Времени</title>
+  <programme start="20260209100000 +0000" stop="20260209110000 +0000" channel="Current Time.webtv.sk">
+    <title lang="id">Интервью: Андрей Макаревич</title>
   </programme>
   <programme start="20260209110000 +0000" stop="20260209120000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">Настоящий сериал: Диссиденты и безумие</title>
@@ -16939,28 +16942,28 @@
   <programme start="20260209223000 +0000" stop="20260209230000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">Главное</title>
   </programme>
-  <programme start="20260208210000 +0000" stop="20260208231500 +0000" channel="Armenia 1 TV.webtv.sk">
-    <title lang="id">Teletheater</title>
-  </programme>
-  <programme start="20260208231500 +0000" stop="20260208234000 +0000" channel="Armenia 1 TV.webtv.sk">
+  <programme start="20260208225000 +0000" stop="20260208232000 +0000" channel="Armenia 1 TV.webtv.sk">
     <title lang="id">Unseen Country</title>
   </programme>
-  <programme start="20260208234000 +0000" stop="20260209001500 +0000" channel="Armenia 1 TV.webtv.sk">
+  <programme start="20260208232000 +0000" stop="20260208235500 +0000" channel="Armenia 1 TV.webtv.sk">
     <title lang="id">Out of Character</title>
   </programme>
-  <programme start="20260209001500 +0000" stop="20260209010500 +0000" channel="Armenia 1 TV.webtv.sk">
+  <programme start="20260208235500 +0000" stop="20260209002000 +0000" channel="Armenia 1 TV.webtv.sk">
     <title lang="id">Ethnocolors</title>
+  </programme>
+  <programme start="20260209002000 +0000" stop="20260209010500 +0000" channel="Armenia 1 TV.webtv.sk">
+    <title lang="id">Feature film</title>
   </programme>
   <programme start="20260209010500 +0000" stop="20260209013000 +0000" channel="Armenia 1 TV.webtv.sk">
     <title lang="id">Special Case</title>
   </programme>
-  <programme start="20260209013000 +0000" stop="20260209024000 +0000" channel="Armenia 1 TV.webtv.sk">
+  <programme start="20260209013000 +0000" stop="20260209030000 +0000" channel="Armenia 1 TV.webtv.sk">
     <title lang="id">Canticle Of Canticles</title>
   </programme>
-  <programme start="20260209024000 +0000" stop="20260209032000 +0000" channel="Armenia 1 TV.webtv.sk">
+  <programme start="20260209030000 +0000" stop="20260209035000 +0000" channel="Armenia 1 TV.webtv.sk">
     <title lang="id">Documentary film</title>
   </programme>
-  <programme start="20260209032000 +0000" stop="20260209040000 +0000" channel="Armenia 1 TV.webtv.sk">
+  <programme start="20260209035000 +0000" stop="20260209040000 +0000" channel="Armenia 1 TV.webtv.sk">
     <title lang="id">Cartoon</title>
   </programme>
   <programme start="20260209040000 +0000" stop="20260209042500 +0000" channel="Armenia 1 TV.webtv.sk">
@@ -17290,32 +17293,32 @@
   <programme start="20260209223000 +0000" stop="20260209230000 +0000" channel="Euronews.webtv.sk">
     <title lang="id">The European debrief</title>
   </programme>
-  <programme start="20260208230000 +0000" stop="20260208231000 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">NHK NEWSLINE</title>
+  <programme start="20260208230000 +0000" stop="20260208231500 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">2026 ELECTION JAPAN DECIDES</title>
   </programme>
-  <programme start="20260208231000 +0000" stop="20260208233800 +0000" channel="NHK World Japan.webtv.sk">
+  <programme start="20260208231500 +0000" stop="20260208234300 +0000" channel="NHK World Japan.webtv.sk">
     <title lang="id">J-MELO</title>
   </programme>
-  <programme start="20260208233800 +0000" stop="20260208234000 +0000" channel="NHK World Japan.webtv.sk">
+  <programme start="20260208234300 +0000" stop="20260208234500 +0000" channel="NHK World Japan.webtv.sk">
     <title lang="id">INFO</title>
   </programme>
-  <programme start="20260208234000 +0000" stop="20260208235000 +0000" channel="NHK World Japan.webtv.sk">
+  <programme start="20260208234500 +0000" stop="20260208235500 +0000" channel="NHK World Japan.webtv.sk">
     <title lang="id">Little Charo</title>
-  </programme>
-  <programme start="20260208235000 +0000" stop="20260208235500 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">Japanology Plus mini</title>
   </programme>
   <programme start="20260208235500 +0000" stop="20260209000000 +0000" channel="NHK World Japan.webtv.sk">
     <title lang="id">A Cat&apos;s-Eye View of Japan</title>
   </programme>
-  <programme start="20260209000000 +0000" stop="20260209001000 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">NHK NEWSLINE</title>
+  <programme start="20260209000000 +0000" stop="20260209001500 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">2026 ELECTION JAPAN DECIDES</title>
   </programme>
-  <programme start="20260209001000 +0000" stop="20260209005800 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">Somewhere Street</title>
+  <programme start="20260209001500 +0000" stop="20260209003500 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">Time-lapse Journey</title>
   </programme>
-  <programme start="20260209005800 +0000" stop="20260209010000 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">INFO</title>
+  <programme start="20260209003500 +0000" stop="20260209005500 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">My Street Piano</title>
+  </programme>
+  <programme start="20260209005500 +0000" stop="20260209010000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">Framing Everyday Moments</title>
   </programme>
   <programme start="20260209010000 +0000" stop="20260209011000 +0000" channel="NHK World Japan.webtv.sk">
     <title lang="id">NHK NEWSLINE</title>
@@ -19438,7 +19441,10 @@
   <programme start="20260209180000 +0000" stop="20260209190000 +0000" channel="Óčko.webtv.sk">
     <title lang="id">BEST OF PAULIE GARAND</title>
   </programme>
-  <programme start="20260209190000 +0000" stop="20260209200000 +0000" channel="Óčko.webtv.sk">
+  <programme start="20260209190000 +0000" stop="20260209193000 +0000" channel="Óčko.webtv.sk">
+    <title lang="id">O INTERVIEW: JASON DERULO</title>
+  </programme>
+  <programme start="20260209193000 +0000" stop="20260209200000 +0000" channel="Óčko.webtv.sk">
     <title lang="id">ÓČKO HITY</title>
   </programme>
   <programme start="20260209200000 +0000" stop="20260209203000 +0000" channel="Óčko.webtv.sk">
@@ -19448,7 +19454,7 @@
     <title lang="id">HOT HITY</title>
   </programme>
   <programme start="20260209210000 +0000" stop="20260209213500 +0000" channel="Óčko.webtv.sk">
-    <title lang="id">NAKED ATTRACTION ŠVÉDSKO</title>
+    <title lang="id">NAKED ATTRACTION NĚMECKO</title>
   </programme>
   <programme start="20260209213500 +0000" stop="20260210050000 +0000" channel="Óčko.webtv.sk">
     <title lang="id">ÓČKO FLIRT</title>
@@ -19513,14 +19519,11 @@
   <programme start="20260209180000 +0000" stop="20260209190000 +0000" channel="Óčko Star.webtv.sk">
     <title lang="id">NEJVĚTŠÍ HITY</title>
   </programme>
-  <programme start="20260209190000 +0000" stop="20260209200000 +0000" channel="Óčko Star.webtv.sk">
+  <programme start="20260209190000 +0000" stop="20260209210000 +0000" channel="Óčko Star.webtv.sk">
     <title lang="id">ČESKÝ MEJDAN S IMPULSEM</title>
   </programme>
-  <programme start="20260209200000 +0000" stop="20260209220000 +0000" channel="Óčko Star.webtv.sk">
+  <programme start="20260209210000 +0000" stop="20260209230000 +0000" channel="Óčko Star.webtv.sk">
     <title lang="id">ROCK THE NIGHT!</title>
-  </programme>
-  <programme start="20260209220000 +0000" stop="20260209230000 +0000" channel="Óčko Star.webtv.sk">
-    <title lang="id">DEVADESÁTKY</title>
   </programme>
   <programme start="20260208230000 +0000" stop="20260209000000 +0000" channel="Retro Music Television.webtv.sk">
     <title lang="id">Retro love</title>
