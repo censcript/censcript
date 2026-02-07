@@ -1,15 +1,3 @@
-<programme start="20260207220000 +0700" stop="20260208001000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: AEL Novibet - Panetolikos (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20260208001000 +0700" stop="20260208003000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Sports Highlights</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260208003000 +0700" stop="20260208010000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>PreGame (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
 <programme start="20260208010000 +0700" stop="20260208031000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Kifisia - Atromitos (L)</title>
     <desc>Live: Ya</desc>
@@ -214,10 +202,6 @@
     <title>American Football: Denver Broncos - New England Patriots</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260207235500 +0700" stop="20260208003000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>NBA on Fire 2025-26 E15</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260208003000 +0700" stop="20260208010500 +0700" channel="COSMOTE Sport 4 HD">
     <title>NBA Action 2025-26 E3516</title>
     <desc>Live: Tidak</desc>
@@ -285,10 +269,6 @@
 <programme start="20260209003000 +0700" stop="20260209033000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Boston Celtics - New York Knicks (L)</title>
     <desc>Live: Ya</desc>
-</programme>
-<programme start="20260207235000 +0700" stop="20260208003500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC: More Than Machine S2 E2</title>
-    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260208003500 +0700" stop="20260208012000 +0700" channel="COSMOTE Sport 5 HD">
     <title>WRC: More Than Machine S2 E3</title>
@@ -530,9 +510,9 @@
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260208000000 +0700" stop="20260208003000 +0700" channel="COSMOTE Sport 8 HD">
-    <title>COSMOTESport8HD</title>
-    <desc>Live: Tidak</desc>
+<programme start="20260209010000 +0700" stop="20260209030000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>Basketball: Barcelona - Girona (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260208003000 +0700" stop="20260208023000 +0700" channel="COSMOTE Sport 8 HD">
     <title>Football: Al-Qadsiah - Al Fateh (L)</title>
@@ -593,10 +573,6 @@
 <programme start="20260209000000 +0700" stop="20260209020000 +0700" channel="COSMOTE Sport 8 HD">
     <title>Football: Pafos FC - Omonoia FC (L)</title>
     <desc>Live: Ya</desc>
-</programme>
-<programme start="20260207230000 +0700" stop="20260208010000 +0700" channel="COSMOTE Sport 9 HD">
-    <title>COSMOTESport9HD</title>
-    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260208010000 +0700" stop="20260208013000 +0700" channel="COSMOTE Sport 9 HD">
     <title>COSMOTESport9HD</title>
@@ -661,5 +637,9 @@
 <programme start="20260209003000 +0700" stop="20260209010000 +0700" channel="COSMOTE Sport 9 HD">
     <title>COSMOTESport9HD</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260209010000 +0700" stop="20260209030000 +0700" channel="COSMOTE Sport 9 HD">
+    <title>Football: SC Braga - Rio Ave (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 No EPG found for COSMOTE Sport 10 HD
