@@ -649,6 +649,9 @@
 <programme start="20260207183000 +0000" stop="20260207190000 +0000" channel="ANTV.vision">
 <title>Bioskop Asia</title>
 </programme>
+<programme start="20260207190000 +0000" stop="20260207210000 +0000" channel="ANTV.vision">
+<title>Street Dancer</title>
+</programme>
 <programme start="20260207210000 +0000" stop="20260207223000 +0000" channel="ANTV.vision">
 <title>High Kick Girl</title>
 </programme>
@@ -1493,8 +1496,5 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260207070000 +0000" stop="20260207090000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260207090000 +0000" stop="20260207110000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
