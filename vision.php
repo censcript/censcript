@@ -640,9 +640,6 @@
 <programme start="20260206233000 +0000" stop="20260207003000 +0000" channel="ANTV.vision">
 <title>Baalveer Returns</title>
 </programme>
-<programme start="20260207003000 +0000" stop="20260207023000 +0000" channel="ANTV.vision">
-<title>Saur Sepuh 2</title>
-</programme>
 <programme start="20260207023000 +0000" stop="20260207060000 +0000" channel="ANTV.vision">
 <title>Koi Mil Gaya</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20260208083000 +0000" stop="20260208103000 +0000" channel="BTV.vision">
 <title>Berita Satu Sore</title>
+</programme>
+<programme start="20260208103000 +0000" stop="20260208110000 +0000" channel="BTV.vision">
+<title>Berita Kriminal</title>
 </programme>

@@ -2499,6 +2499,87 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260207224500 +0000" stop="20260207231000 +0000" channel="Sky Replay HD.skyde">
     <title>Modern Family</title>
 </programme>
+<programme start="20260206232500 +0000" stop="20260207001500 +0000" channel="Sky Showcase HD.skyde">
+    <title>Berlusconi: Zum Siegen verdammt</title>
+</programme>
+<programme start="20260207001500 +0000" stop="20260207010500 +0000" channel="Sky Showcase HD.skyde">
+    <title>Berlusconi: Zum Siegen verdammt</title>
+</programme>
+<programme start="20260207010500 +0000" stop="20260207015500 +0000" channel="Sky Showcase HD.skyde">
+    <title>Morden im Norden</title>
+</programme>
+<programme start="20260207015500 +0000" stop="20260207024000 +0000" channel="Sky Showcase HD.skyde">
+    <title>SOKO Wien</title>
+</programme>
+<programme start="20260207024000 +0000" stop="20260207032500 +0000" channel="Sky Showcase HD.skyde">
+    <title>SOKO Wien</title>
+</programme>
+<programme start="20260207032500 +0000" stop="20260207041000 +0000" channel="Sky Showcase HD.skyde">
+    <title>WaPo Bodensee</title>
+</programme>
+<programme start="20260207041000 +0000" stop="20260207050500 +0000" channel="Sky Showcase HD.skyde">
+    <title>WaPo Bodensee</title>
+</programme>
+<programme start="20260207050500 +0000" stop="20260207054500 +0000" channel="Sky Showcase HD.skyde">
+    <title>The Good Doctor</title>
+</programme>
+<programme start="20260207054500 +0000" stop="20260207063000 +0000" channel="Sky Showcase HD.skyde">
+    <title>The Good Doctor</title>
+</programme>
+<programme start="20260207063000 +0000" stop="20260207071500 +0000" channel="Sky Showcase HD.skyde">
+    <title>The Good Doctor</title>
+</programme>
+<programme start="20260207071500 +0000" stop="20260207080000 +0000" channel="Sky Showcase HD.skyde">
+    <title>The Good Doctor</title>
+</programme>
+<programme start="20260207080000 +0000" stop="20260207084500 +0000" channel="Sky Showcase HD.skyde">
+    <title>The Good Doctor</title>
+</programme>
+<programme start="20260207084500 +0000" stop="20260207094000 +0000" channel="Sky Showcase HD.skyde">
+    <title>Morden im Norden</title>
+</programme>
+<programme start="20260207094000 +0000" stop="20260207103000 +0000" channel="Sky Showcase HD.skyde">
+    <title>Morden im Norden</title>
+</programme>
+<programme start="20260207103000 +0000" stop="20260207112500 +0000" channel="Sky Showcase HD.skyde">
+    <title>Morden im Norden</title>
+</programme>
+<programme start="20260207112500 +0000" stop="20260207121500 +0000" channel="Sky Showcase HD.skyde">
+    <title>Morden im Norden</title>
+</programme>
+<programme start="20260207121500 +0000" stop="20260207131000 +0000" channel="Sky Showcase HD.skyde">
+    <title>Morden im Norden</title>
+</programme>
+<programme start="20260207131000 +0000" stop="20260207140000 +0000" channel="Sky Showcase HD.skyde">
+    <title>Morden im Norden</title>
+</programme>
+<programme start="20260207140000 +0000" stop="20260207145500 +0000" channel="Sky Showcase HD.skyde">
+    <title>Morden im Norden</title>
+</programme>
+<programme start="20260207145500 +0000" stop="20260207154500 +0000" channel="Sky Showcase HD.skyde">
+    <title>Morden im Norden</title>
+</programme>
+<programme start="20260207154500 +0000" stop="20260207164000 +0000" channel="Sky Showcase HD.skyde">
+    <title>Morden im Norden</title>
+</programme>
+<programme start="20260207164000 +0000" stop="20260207173000 +0000" channel="Sky Showcase HD.skyde">
+    <title>Morden im Norden</title>
+</programme>
+<programme start="20260207173000 +0000" stop="20260207182000 +0000" channel="Sky Showcase HD.skyde">
+    <title>Morden im Norden</title>
+</programme>
+<programme start="20260207182000 +0000" stop="20260207191500 +0000" channel="Sky Showcase HD.skyde">
+    <title>Morden im Norden</title>
+</programme>
+<programme start="20260207191500 +0000" stop="20260207205500 +0000" channel="Sky Showcase HD.skyde">
+    <title>Borderlands</title>
+</programme>
+<programme start="20260207205500 +0000" stop="20260207224000 +0000" channel="Sky Showcase HD.skyde">
+    <title>Die Nacht von Paris - Terror am Stade de France</title>
+</programme>
+<programme start="20260207224000 +0000" stop="20260207232500 +0000" channel="Sky Showcase HD.skyde">
+    <title>The Real Murders of Atlanta</title>
+</programme>
 <programme start="20260206230000 +0000" stop="20260207010000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: FC Red Bull Salzburg - FK Austria Wien, 18. Runde</title>
 </programme>
