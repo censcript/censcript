@@ -3280,6 +3280,12 @@
 <programme start="20260208213000 +0000" stop="20260208231500 +0000" channel="Sky Sport UHD.skyde">
     <title>Mondo Duplantis: Immer höher</title>
 </programme>
+<programme start="20260208094000 +0000" stop="20260208100000 +0000" channel="Sky Sport 6 HD.skyde">
+    <title>Es folgt: Live Tennis WTA Tour</title>
+</programme>
+<programme start="20260208100000 +0000" stop="20260208220000 +0000" channel="Sky Sport 6 HD.skyde">
+    <title>Live WTA 1000: Qatar Total Energies Open in Doha (Katar), 1. Tag</title>
+</programme>
 <programme start="20260207233500 +0000" stop="20260208002000 +0000" channel="SYFY HD.skyde">
     <title>Stargate SG-1</title>
 </programme>
