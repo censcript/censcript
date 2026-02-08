@@ -571,6 +571,9 @@
 <programme start="20260208154500 +0000" stop="20260208163000 +0000" channel="Trans 7.vision">
 <title>The Police</title>
 </programme>
+<programme start="20260208163000 +0000" stop="20260208181500 +0000" channel="Trans 7.vision">
+<title>7 Manusia Halimun</title>
+</programme>
 <programme start="20260208181500 +0000" stop="20260208193000 +0000" channel="Trans 7.vision">
 <title>Best Fishing</title>
 </programme>
@@ -637,6 +640,9 @@
 <programme start="20260207233000 +0000" stop="20260208003000 +0000" channel="ANTV.vision">
 <title>Baalveer Returns</title>
 </programme>
+<programme start="20260208023000 +0000" stop="20260208060000 +0000" channel="ANTV.vision">
+<title>Krrish</title>
+</programme>
 <programme start="20260208060000 +0000" stop="20260208083000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -645,6 +651,15 @@
 </programme>
 <programme start="20260208113000 +0000" stop="20260208133000 +0000" channel="ANTV.vision">
 <title>Langit Untuk Renata</title>
+</programme>
+<programme start="20260208133000 +0000" stop="20260208150000 +0000" channel="ANTV.vision">
+<title>Nyi Blorong</title>
+</programme>
+<programme start="20260208150000 +0000" stop="20260208170000 +0000" channel="ANTV.vision">
+<title>Pertarungan Iblis Merah</title>
+</programme>
+<programme start="20260208170000 +0000" stop="20260208183000 +0000" channel="ANTV.vision">
+<title>Naga Sakti</title>
 </programme>
 <programme start="20260208183000 +0000" stop="20260208191500 +0000" channel="ANTV.vision">
 <title>Bioskop Asia</title>
@@ -1481,20 +1496,5 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260208150000 +0000" stop="20260208170000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260208170000 +0000" stop="20260208190000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260208190000 +0000" stop="20260208210000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260208210000 +0000" stop="20260208230000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260208230000 +0000" stop="20260209010000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260209010000 +0000" stop="20260209030000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
