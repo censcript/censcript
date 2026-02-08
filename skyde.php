@@ -2710,7 +2710,7 @@
 <programme start="20260208130000 +0000" stop="20260208132000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Admiral BL: Es folgt</title>
 </programme>
-<programme start="20260208132000 +0000" stop="20260208154500 +0000" channel="Sky Sport Austria 3 HD.skyde">
+<programme start="20260208132000 +0000" stop="20260208161500 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live Admiral BL: SCR Altach - FC Blau-Weiß Linz, 18. Runde</title>
 </programme>
 <programme start="20260208133000 +0000" stop="20260208135000 +0000" channel="Sky Sport Austria 4 HD.skyde">
@@ -2866,13 +2866,13 @@
 <programme start="20260208114000 +0000" stop="20260208120000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>2. BL: Es folgt</title>
 </programme>
-<programme start="20260208120000 +0000" stop="20260208143000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
+<programme start="20260208120000 +0000" stop="20260208150000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live 2. BL: Arminia Bielefeld - Eintracht Braunschweig, 21. Spieltag</title>
 </programme>
 <programme start="20260208114000 +0000" stop="20260208120000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>2. BL: Es folgt</title>
 </programme>
-<programme start="20260208120000 +0000" stop="20260208143000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
+<programme start="20260208120000 +0000" stop="20260208150000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live 2. BL: Hannover 96 - Holstein Kiel, 21. Spieltag</title>
 </programme>
 <programme start="20260208114000 +0000" stop="20260208120000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
@@ -3283,7 +3283,7 @@
 <programme start="20260208094000 +0000" stop="20260208100000 +0000" channel="Sky Sport 6 HD.skyde">
     <title>Es folgt: Live Tennis WTA Tour</title>
 </programme>
-<programme start="20260208100000 +0000" stop="20260208220000 +0000" channel="Sky Sport 6 HD.skyde">
+<programme start="20260208100000 +0000" stop="20260208200000 +0000" channel="Sky Sport 6 HD.skyde">
     <title>Live WTA 1000: Qatar Total Energies Open in Doha (Katar), 1. Tag</title>
 </programme>
 <programme start="20260207233500 +0000" stop="20260208002000 +0000" channel="SYFY HD.skyde">
