@@ -1774,51 +1774,6 @@
 <programme start="20260208223000 +0000" stop="20260209003000 +0000" channel="Sky Cinema Classics HD.skyde">
     <title>Der Schut</title>
 </programme>
-<programme start="20260207230000 +0000" stop="20260208005500 +0000" channel="Sky Cinema Family HD.skyde">
-    <title>E.T. - der Außerirdische</title>
-</programme>
-<programme start="20260208005500 +0000" stop="20260208024500 +0000" channel="Sky Cinema Family HD.skyde">
-    <title>Freibad</title>
-</programme>
-<programme start="20260208024500 +0000" stop="20260208040500 +0000" channel="Sky Cinema Family HD.skyde">
-    <title>Erkan &amp; Stefan gegen die Mächte der Finsternis</title>
-</programme>
-<programme start="20260208040500 +0000" stop="20260208053500 +0000" channel="Sky Cinema Family HD.skyde">
-    <title>Sherlock Gnomes</title>
-</programme>
-<programme start="20260208053500 +0000" stop="20260208070500 +0000" channel="Sky Cinema Family HD.skyde">
-    <title>Rock Dog 2</title>
-</programme>
-<programme start="20260208070500 +0000" stop="20260208083500 +0000" channel="Sky Cinema Family HD.skyde">
-    <title>Rock Dog 3</title>
-</programme>
-<programme start="20260208083500 +0000" stop="20260208103000 +0000" channel="Sky Cinema Family HD.skyde">
-    <title>E.T. - der Außerirdische</title>
-</programme>
-<programme start="20260208103000 +0000" stop="20260208121000 +0000" channel="Sky Cinema Family HD.skyde">
-    <title>Die Geheimnisse der Spiderwicks</title>
-</programme>
-<programme start="20260208121000 +0000" stop="20260208135000 +0000" channel="Sky Cinema Family HD.skyde">
-    <title>Der junge Häuptling Winnetou</title>
-</programme>
-<programme start="20260208135000 +0000" stop="20260208153000 +0000" channel="Sky Cinema Family HD.skyde">
-    <title>Clueless - Was sonst!</title>
-</programme>
-<programme start="20260208153000 +0000" stop="20260208173500 +0000" channel="Sky Cinema Family HD.skyde">
-    <title>Drachenzähmen leicht gemacht (2025)</title>
-</programme>
-<programme start="20260208173500 +0000" stop="20260208191500 +0000" channel="Sky Cinema Family HD.skyde">
-    <title>Monsters vs. Aliens</title>
-</programme>
-<programme start="20260208191500 +0000" stop="20260208210000 +0000" channel="Sky Cinema Family HD.skyde">
-    <title>Paul - Ein Alien auf der Flucht</title>
-</programme>
-<programme start="20260208210000 +0000" stop="20260208224000 +0000" channel="Sky Cinema Family HD.skyde">
-    <title>Galaxy Quest - Planlos durchs Weltall</title>
-</programme>
-<programme start="20260208224000 +0000" stop="20260209001000 +0000" channel="Sky Cinema Family HD.skyde">
-    <title>Die nackte Kanone 2 1/2</title>
-</programme>
 <programme start="20260207233500 +0000" stop="20260208013500 +0000" channel="Sky Cinema Highlights HD.skyde">
     <title>Alien 3</title>
 </programme>
@@ -3671,45 +3626,6 @@
     <title>Batman Begins</title>
 </programme>
 <programme start="20260208213500 +0000" stop="20260208234500 +0000" channel="Warner TV Film.skyde">
-    <title>Star Trek</title>
-</programme>
-<programme start="20260207233500 +0000" stop="20260208012000 +0000" channel="Warner TV Film HD.skyde">
-    <title>Shang-high Noon</title>
-</programme>
-<programme start="20260208012000 +0000" stop="20260208031500 +0000" channel="Warner TV Film HD.skyde">
-    <title>Batman Forever</title>
-</programme>
-<programme start="20260208031500 +0000" stop="20260208050000 +0000" channel="Warner TV Film HD.skyde">
-    <title>Meteor</title>
-</programme>
-<programme start="20260208050000 +0000" stop="20260208062000 +0000" channel="Warner TV Film HD.skyde">
-    <title>Lassie in Not</title>
-</programme>
-<programme start="20260208062000 +0000" stop="20260208081000 +0000" channel="Warner TV Film HD.skyde">
-    <title>Die oberen Zehntausend</title>
-</programme>
-<programme start="20260208081000 +0000" stop="20260208095500 +0000" channel="Warner TV Film HD.skyde">
-    <title>Meteor</title>
-</programme>
-<programme start="20260208095500 +0000" stop="20260208125000 +0000" channel="Warner TV Film HD.skyde">
-    <title>Meuterei auf der Bounty</title>
-</programme>
-<programme start="20260208125000 +0000" stop="20260208132500 +0000" channel="Warner TV Film HD.skyde">
-    <title>Ein Abend mit... Til Schweiger</title>
-</programme>
-<programme start="20260208132500 +0000" stop="20260208154000 +0000" channel="Warner TV Film HD.skyde">
-    <title>Der Staatsfeind Nr. 1</title>
-</programme>
-<programme start="20260208154000 +0000" stop="20260208173000 +0000" channel="Warner TV Film HD.skyde">
-    <title>Der Teufel trägt Prada</title>
-</programme>
-<programme start="20260208173000 +0000" stop="20260208191500 +0000" channel="Warner TV Film HD.skyde">
-    <title>Die Regeln der Gewalt</title>
-</programme>
-<programme start="20260208191500 +0000" stop="20260208213500 +0000" channel="Warner TV Film HD.skyde">
-    <title>Batman Begins</title>
-</programme>
-<programme start="20260208213500 +0000" stop="20260208234500 +0000" channel="Warner TV Film HD.skyde">
     <title>Star Trek</title>
 </programme>
 <programme start="20260207230500 +0000" stop="20260208011500 +0000" channel="Warner TV Serie HD.skyde">
