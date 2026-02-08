@@ -2215,13 +2215,10 @@
     <programme start="20260208140000 +0000" stop="20260208160000 +0000" channel="Cinema One Global.starhub">
         <title>Home Alone Da Riber</title>
     </programme>
-    <programme start="20260207160000 +0000" stop="20260207180000 +0000" channel="Hub Sports 2 HD.starhub">
+    <programme start="20260207160000 +0000" stop="20260207184700 +0000" channel="Hub Sports 2 HD.starhub">
         <title>Open Occitanie (250) SF 2</title>
     </programme>
-    <programme start="20260207180000 +0000" stop="20260207183000 +0000" channel="Hub Sports 2 HD.starhub">
-        <title>#1330</title>
-    </programme>
-    <programme start="20260207183000 +0000" stop="20260207190000 +0000" channel="Hub Sports 2 HD.starhub">
+    <programme start="20260207184700 +0000" stop="20260207190000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>#574</title>
     </programme>
     <programme start="20260207190000 +0000" stop="20260207210000 +0000" channel="Hub Sports 2 HD.starhub">
@@ -6704,7 +6701,7 @@
         <title>LaLiga 2025/26: Alaves vs Getafe (Live)</title>
     </programme>
     <programme start="20260208151000 +0000" stop="20260208172500 +0000" channel="beIN Sports HD.starhub">
-        <title>LaLiga 2025/26: Athletic Bilbao vs Levante (Live)</title>
+        <title>Athletic Bilbao vs Levante</title>
     </programme>
     <programme start="20260207150000 +0000" stop="20260207161500 +0000" channel="TestChannel2.starhub">
         <title>The Midnight Studio</title>

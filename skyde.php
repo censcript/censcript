@@ -2704,7 +2704,7 @@
 <programme start="20260208130000 +0000" stop="20260208132000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Admiral BL: Es folgt</title>
 </programme>
-<programme start="20260208132000 +0000" stop="20260208154500 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20260208132000 +0000" stop="20260208161500 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live Admiral BL: RZ Pellets WAC - Grazer AK 1902, 18. Runde</title>
 </programme>
 <programme start="20260208130000 +0000" stop="20260208132000 +0000" channel="Sky Sport Austria 3 HD.skyde">
@@ -2719,7 +2719,7 @@
 <programme start="20260208135000 +0000" stop="20260208160000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live PL: Brighton &amp; Hove Albion - Crystal Palace, 25. Spieltag</title>
 </programme>
-<programme start="20260208160000 +0000" stop="20260208183000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+<programme start="20260208160000 +0000" stop="20260208190000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live PL: FC Liverpool - Manchester City, Match of the Week, 25. Spieltag</title>
 </programme>
 <programme start="20260207234500 +0000" stop="20260208004500 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -2743,16 +2743,16 @@
 <programme start="20260208061500 +0000" stop="20260208063000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: Highlights XXL; WOB - BVB, 21. Spieltag</title>
 </programme>
-<programme start="20260208063000 +0000" stop="20260208083000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+<programme start="20260208063000 +0000" stop="20260208082500 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: Borussia M&#039;gladbach - Bayer Leverkusen, tipico Topspiel der Woche, 21. Spieltag</title>
 </programme>
-<programme start="20260208083000 +0000" stop="20260208084500 +0000" channel="Sky Sport Bundesliga HD.skyde">
+<programme start="20260208082500 +0000" stop="20260208084000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: Jonathan Tah Exklusiv</title>
 </programme>
-<programme start="20260208084500 +0000" stop="20260208090000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+<programme start="20260208084000 +0000" stop="20260208085500 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: Highlights XXL; WOB - BVB, 21. Spieltag</title>
 </programme>
-<programme start="20260208090000 +0000" stop="20260208095500 +0000" channel="Sky Sport Bundesliga HD.skyde">
+<programme start="20260208085500 +0000" stop="20260208095500 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: Alle Spiele, alle Stimmen, 21. Spieltag</title>
 </programme>
 <programme start="20260208095500 +0000" stop="20260208120000 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -2845,7 +2845,7 @@
 <programme start="20260208170000 +0000" stop="20260208183000 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: Sky90 - Die Fußballdebatte</title>
 </programme>
-<programme start="20260208183000 +0000" stop="20260208191500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
+<programme start="20260208183000 +0000" stop="20260208194500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: Highlights XXL: FCB - TSG, 21. Spieltag</title>
 </programme>
 <programme start="20260208114000 +0000" stop="20260208120000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
@@ -2860,7 +2860,7 @@
 <programme start="20260208163000 +0000" stop="20260208183000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>BL: 1. FC Köln - RB Leipzig, 21. Spieltag</title>
 </programme>
-<programme start="20260208183000 +0000" stop="20260208203000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+<programme start="20260208183000 +0000" stop="20260208210000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>BL: FC Bayern München - TSG Hoffenheim, 21. Spieltag</title>
 </programme>
 <programme start="20260208114000 +0000" stop="20260208120000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
@@ -2878,7 +2878,7 @@
 <programme start="20260208114000 +0000" stop="20260208120000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>2. BL: Es folgt</title>
 </programme>
-<programme start="20260208120000 +0000" stop="20260208143000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
+<programme start="20260208120000 +0000" stop="20260208150000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Live 2. BL: Multiview 21. Spieltag, Sonntag</title>
 </programme>
 <programme start="20260207230000 +0000" stop="20260207234500 +0000" channel="Sky Sport F1 HD.skyde">
@@ -3169,22 +3169,22 @@
 <programme start="20260208224500 +0000" stop="20260208231500 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: 90in30: BRI - CRY, 25. Spieltag</title>
 </programme>
-<programme start="20260207231500 +0000" stop="20260208011500 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260207234000 +0000" stop="20260208015000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 250: F. Auger-Aliassime (CAN) - T. Droguet (FRA), Open Occitanie in Montpellier (FRA), Halbfinale 2</title>
 </programme>
-<programme start="20260208011500 +0000" stop="20260208014500 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260208015000 +0000" stop="20260208022000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
 </programme>
-<programme start="20260208014500 +0000" stop="20260208041500 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260208022000 +0000" stop="20260208042500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: S. Bejlek (CZE) - E. Alexandrova, Mubadala Abu Dhabi Open in Abu Dhabi (VAE), Finale</title>
 </programme>
-<programme start="20260208041500 +0000" stop="20260208061500 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260208042500 +0000" stop="20260208063000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 250: F. Auger-Aliassime (CAN) - T. Droguet (FRA), Open Occitanie in Montpellier (FRA), Halbfinale 2</title>
 </programme>
-<programme start="20260208061500 +0000" stop="20260208070000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260208063000 +0000" stop="20260208071500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: The Ring Master: Alexander Bublik</title>
 </programme>
-<programme start="20260208070000 +0000" stop="20260208093000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260208071500 +0000" stop="20260208093000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: S. Bejlek (CZE) - E. Alexandrova, Mubadala Abu Dhabi Open in Abu Dhabi (VAE), Finale</title>
 </programme>
 <programme start="20260208093000 +0000" stop="20260208100000 +0000" channel="Sky Sport Tennis HD.skyde">
@@ -3279,12 +3279,6 @@
 </programme>
 <programme start="20260208213000 +0000" stop="20260208231500 +0000" channel="Sky Sport UHD.skyde">
     <title>Mondo Duplantis: Immer höher</title>
-</programme>
-<programme start="20260208094000 +0000" stop="20260208100000 +0000" channel="Sky Sport 6 HD.skyde">
-    <title>Es folgt: Live Tennis WTA Tour</title>
-</programme>
-<programme start="20260208100000 +0000" stop="20260208200000 +0000" channel="Sky Sport 6 HD.skyde">
-    <title>Live WTA 1000: Qatar Total Energies Open in Doha (Katar), 1. Tag</title>
 </programme>
 <programme start="20260207233500 +0000" stop="20260208002000 +0000" channel="SYFY HD.skyde">
     <title>Stargate SG-1</title>
