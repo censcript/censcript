@@ -148,10 +148,7 @@
     <programme start="20260208210000 +0000" stop="20260208223000 +0000" channel="VTV1 HD.mytv">
         <title> Hồ sơ công tố-Kiểm sát : Dấu ấn lằn ranh </title>
     </programme>
-    <programme start="20260208223000 +0000" stop="20260208225000 +0000" channel="VTV1 HD.mytv">
-        <title> Phim tài liệu nước ngoài : Giờ làm việc </title>
-    </programme>
-    <programme start="20260208225000 +0000" stop="20260208234500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260208223000 +0000" stop="20260208234500 +0000" channel="VTV1 HD.mytv">
         <title> VTV kết nối </title>
     </programme>
     <programme start="20260208234500 +0000" stop="20260209000000 +0000" channel="VTV1 HD.mytv">
