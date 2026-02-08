@@ -54,8 +54,8 @@
     <title>Gala (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260209020000 +0700" stop="20260209024500 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Sports Classics: Ultimate Rush S1 E9</title>
+<programme start="20260210034500 +0700" stop="20260210054500 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: Pafos FC - SK Slavia Praha</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260209024500 +0700" stop="20260209044500 +0700" channel="COSMOTE Sport 2 HD">
@@ -170,6 +170,10 @@
     <title>American Football: New England Patriots - Seattle Seahawks</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260210034500 +0700" stop="20260210055500 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: FC Porto - Sporting CP (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
 <programme start="20260209003000 +0700" stop="20260209033000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Boston Celtics - New York Knicks (L)</title>
     <desc>Live: Ya</desc>
@@ -224,14 +228,6 @@
 </programme>
 <programme start="20260210023000 +0700" stop="20260210050000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Boston Celtics - New York Knicks</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260209000000 +0700" stop="20260209020500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>World Athletics Indoor Tour Gold 2026 (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20260209020500 +0700" stop="20260209030000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260209030000 +0700" stop="20260209035500 +0700" channel="COSMOTE Sport 5 HD">
@@ -374,8 +370,8 @@
     <title>Tennis: ATP 500 2026 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260209010000 +0700" stop="20260209030000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>Basketball: Barcelona - Girona (L)</title>
+<programme start="20260210033000 +0700" stop="20260210060000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: ATP 500 2026 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20260209030000 +0700" stop="20260209060000 +0700" channel="COSMOTE Sport 7 HD">
@@ -446,13 +442,9 @@
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260209020000 +0700" stop="20260209023000 +0700" channel="COSMOTE Sport 8 HD">
-    <title>COSMOTESport8HD</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260209023000 +0700" stop="20260209030000 +0700" channel="COSMOTE Sport 8 HD">
-    <title>COSMOTESport8HD</title>
-    <desc>Live: Tidak</desc>
+<programme start="20260210030000 +0700" stop="20260210050000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>Football: Sheffield United - Middlesbrough (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260209030000 +0700" stop="20260209050000 +0700" channel="COSMOTE Sport 8 HD">
     <title>COSMOTESport8HD</title>
@@ -510,9 +502,9 @@
     <title>Tennis: ATP 500 2026 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260209010000 +0700" stop="20260209030000 +0700" channel="COSMOTE Sport 9 HD">
-    <title>Football: SC Braga - Rio Ave (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20260210033000 +0700" stop="20260210040000 +0700" channel="COSMOTE Sport 8 HD">
+    <title>COSMOTESport8HD</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260209030000 +0700" stop="20260209033000 +0700" channel="COSMOTE Sport 9 HD">
     <title>COSMOTESport9HD</title>
@@ -577,5 +569,9 @@
 <programme start="20260210014500 +0700" stop="20260210034500 +0700" channel="COSMOTE Sport 9 HD">
     <title>Football: Famalicao - AVS Futebol (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20260210034500 +0700" stop="20260210041500 +0700" channel="COSMOTE Sport 9 HD">
+    <title>COSMOTESport9HD</title>
+    <desc>Live: Tidak</desc>
 </programme>
 No EPG found for COSMOTE Sport 10 HD
