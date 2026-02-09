@@ -6493,14 +6493,11 @@
 <programme start="20260209090000 +0000" stop="20260209091000 +0000" channel="NHK World Premium.mncvision">
     <title>News</title>
 </programme>
-<programme start="20260209091000 +0000" stop="20260209092500 +0000" channel="NHK World Premium.mncvision">
+<programme start="20260209091000 +0000" stop="20260209093000 +0000" channel="NHK World Premium.mncvision">
     <title>Kid&#039;s Discovery</title>
 </programme>
-<programme start="20260209092500 +0000" stop="20260209095600 +0000" channel="NHK World Premium.mncvision">
+<programme start="20260209093000 +0000" stop="20260209100000 +0000" channel="NHK World Premium.mncvision">
     <title>Nyan-Chu! Space! Broadcasting!</title>
-</programme>
-<programme start="20260209095600 +0000" stop="20260209100000 +0000" channel="NHK World Premium.mncvision">
-    <title>World Weather</title>
 </programme>
 <programme start="20260209100000 +0000" stop="20260209103000 +0000" channel="NHK World Premium.mncvision">
     <title>NHK News</title>
@@ -6531,6 +6528,9 @@
 </programme>
 <programme start="20260209140000 +0000" stop="20260209143000 +0000" channel="NHK World Premium.mncvision">
     <title>Late Night Show, Nitty &amp; Gritty</title>
+</programme>
+<programme start="20260209143000 +0000" stop="20260209150000 +0000" channel="NHK World Premium.mncvision">
+    <title>Life Force</title>
 </programme>
 <programme start="20260208172000 +0000" stop="20260208173000 +0000" channel="Nick Jr. HD.mncvision">
     <title>Barbapapa: Big Happy Family</title>

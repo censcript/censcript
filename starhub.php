@@ -2311,10 +2311,10 @@
     <programme start="20260208223000 +0000" stop="20260208230000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>Conference Championships</title>
     </programme>
-    <programme start="20260208230000 +0000" stop="20260209030000 +0000" channel="Hub Sports 2 HD.starhub">
+    <programme start="20260208230000 +0000" stop="20260209034700 +0000" channel="Hub Sports 2 HD.starhub">
         <title>Super Bowl LX: New England Patriots vs Seattle Seahawks</title>
     </programme>
-    <programme start="20260209030000 +0000" stop="20260209060000 +0000" channel="Hub Sports 2 HD.starhub">
+    <programme start="20260209034700 +0000" stop="20260209060000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>Bautista vs Oliveira</title>
     </programme>
     <programme start="20260209060000 +0000" stop="20260209080000 +0000" channel="Hub Sports 2 HD.starhub">

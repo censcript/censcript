@@ -3207,8 +3207,8 @@
     <title lang="en">I-LAND2 : N/a</title>
     <desc lang="en">Girl version of ENHYPEN is coming! The ultimate survival variety program by top producer TEDDY, following the creation of the next generation K-pop girl group.</desc>
     <category lang="en">Variety</category>
-    <episode-num system="xmltv_ns">1.0.</episode-num>
-    <episode-num system="onscreen">S2E1</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260209030500 +0000" stop="20260209035500 +0000" channel="tvnhd.unifitv">
     <title lang="en">The Witch's Diner</title>
