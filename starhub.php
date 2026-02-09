@@ -7849,10 +7849,13 @@
     <programme start="20260208193000 +0000" stop="20260208213000 +0000" channel="Asianet Movies.starhub">
         <title>Chandrolsavam</title>
     </programme>
-    <programme start="20260208213000 +0000" stop="20260209013000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260208230500 +0000" stop="20260209013000 +0000" channel="Asianet Movies.starhub">
         <title>Photographer</title>
     </programme>
-    <programme start="20260209013000 +0000" stop="20260209043000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260209013000 +0000" stop="20260209020000 +0000" channel="Asianet Movies.starhub">
+        <title>Chirikkum Thalika</title>
+    </programme>
+    <programme start="20260209020000 +0000" stop="20260209043000 +0000" channel="Asianet Movies.starhub">
         <title>Kilometers and Kilometers</title>
     </programme>
     <programme start="20260209043000 +0000" stop="20260209073000 +0000" channel="Asianet Movies.starhub">
@@ -7864,7 +7867,7 @@
     <programme start="20260209103000 +0000" stop="20260209133000 +0000" channel="Asianet Movies.starhub">
         <title>Ohm Shanthi Oshaana</title>
     </programme>
-    <programme start="20260209133000 +0000" stop="20260209160000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260209133000 +0000" stop="20260209170000 +0000" channel="Asianet Movies.starhub">
         <title>Oru Marubhoomikkadha</title>
     </programme>
     <programme start="20260208160000 +0000" stop="20260208163000 +0000" channel="Astro Warna HD.starhub">

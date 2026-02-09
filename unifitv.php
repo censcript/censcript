@@ -15015,12 +15015,12 @@
   <channel id="nhkworldjapan.unifitv">
     <display-name>NHK WORLD-JAPAN</display-name>
   </channel>
-  <programme start="20260208155500 +0000" stop="20260208160000 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Japanology Plus mini</title>
-    <desc lang="en">Hyper-modern Japanese kitchens are compact, comfortable spaces for cooking and eating. We look at the history and evolution of this space at the heart of every Japanese home.</desc>
+  <programme start="20260208155000 +0000" stop="20260208160000 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Little Charo</title>
+    <desc lang="en">This program is an animation series about a Japanese dog, Charo. He meets and is helped by many mythical creatures of Northern Japan as he searches for eight star talismans. Tohoku series 1-5.</desc>
     <category lang="en">News</category>
-    <episode-num system="xmltv_ns">0.6031.</episode-num>
-    <episode-num system="onscreen">S1E6032</episode-num>
+    <episode-num system="xmltv_ns">0.6115.</episode-num>
+    <episode-num system="onscreen">S1E6116</episode-num>
   </programme>
   <programme start="20260208160000 +0000" stop="20260208160500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">A Cat's-Eye View of Japan</title>
@@ -15029,17 +15029,31 @@
     <episode-num system="xmltv_ns">0.6044.</episode-num>
     <episode-num system="onscreen">S1E6045</episode-num>
   </programme>
-  <programme start="20260208160500 +0000" stop="20260208161500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">NHK NEWSLINE</title>
-    <desc lang="en">NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+  <programme start="20260208160500 +0000" stop="20260208162000 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">2026 ELECTION JAPAN DECIDES</title>
+    <desc lang="en">Japanese voters head to the polls on February 8 for the Lower House election. NHK WORLD-JAPAN will provide updates and analysis as the results come in.</desc>
     <category lang="en">News</category>
   </programme>
-  <programme start="20260208161500 +0000" stop="20260208170500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Somewhere Street</title>
-    <desc lang="en">Bari is a port town located at the heel of the Italian peninsula. An important hub of commerce since the time of ancient Rome, it's known for welcoming people of diverse cultures from Asia and Africa.</desc>
+  <programme start="20260208162000 +0000" stop="20260208164000 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Time-lapse Journey</title>
+    <desc lang="en">The world comes alive in a different way after sunset, with bright city lights or the glow of a 24-hour industrial complex. See how the scenery changes through the night with time-lapse photography.</desc>
     <category lang="en">News</category>
-    <episode-num system="xmltv_ns">0.4016.</episode-num>
-    <episode-num system="onscreen">S1E4017</episode-num>
+    <episode-num system="xmltv_ns">0.6301.</episode-num>
+    <episode-num system="onscreen">S1E6302</episode-num>
+  </programme>
+  <programme start="20260208164000 +0000" stop="20260208170000 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">My Street Piano</title>
+    <desc lang="en">Hirosaki City in Aomori Prefecture is known for its Western architecture. A piano is placed inside the station, and people stop to play from their heart.</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.6302.</episode-num>
+    <episode-num system="onscreen">S1E6303</episode-num>
+  </programme>
+  <programme start="20260208170000 +0000" stop="20260208170500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Framing Everyday Moments</title>
+    <desc lang="en">A unique time-lapse photography project. Shot by pros and non-pros from around the world, on the transience of nature, celestial phenomena, cityscapes and each single moment of everyday life.</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.6040.</episode-num>
+    <episode-num system="onscreen">S1E6041</episode-num>
   </programme>
   <programme start="20260208170500 +0000" stop="20260208171500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">NHK NEWSLINE</title>
@@ -15047,8 +15061,8 @@
     <category lang="en">News</category>
   </programme>
   <programme start="20260208171500 +0000" stop="20260208173000 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">NHK WORLD-JAPAN Special program</title>
-    <desc lang="en">NHK WORLD-JAPAN presents a wide range of programs from news, current affairs, documentaries, etc. focusing on Japan and Asia.</desc>
+    <title lang="en">Hit the Road:HOKKAIDO HAKODATE</title>
+    <desc lang="en">Our journey begins in Hokkaido, heading through the winter southwest to Hakodate, where history meets one of Japan's most breathtaking night views.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.3024.</episode-num>
     <episode-num system="onscreen">S1E3025</episode-num>
@@ -15080,8 +15094,8 @@
     <category lang="en">News</category>
   </programme>
   <programme start="20260208181500 +0000" stop="20260208190500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Documentary 360</title>
-    <desc lang="en">NHK WORLD-JAPAN's flagship documentary series offers must-see episodes on politics, the economy, social trends, science and the environment in Japan and beyond.</desc>
+    <title lang="en">The Truth Behind the "Bear Crisis"</title>
+    <desc lang="en">Japan is experiencing the worst case of bear attacks on record. Together with experts, we investigate to reveal bears' changing relationship with humans-and how we can live safely alongside them.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.4000.</episode-num>
     <episode-num system="onscreen">S1E4001</episode-num>
@@ -15131,7 +15145,7 @@
   </programme>
   <programme start="20260208211500 +0000" stop="20260208214500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">J-MELO</title>
-    <desc lang="en">Japan's exciting music scene! Pop, rock, traditional and more! Live performances, artist interviews, plus all the latest news.</desc>
+    <desc lang="en">Experience the cutting edge of Japanese entertainment as we turn the spotlight on virtual artists. This week, a female duo with over 600 million video views: HIMEHINA.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.2003.</episode-num>
     <episode-num system="onscreen">S1E2004</episode-num>
@@ -15152,7 +15166,7 @@
   </programme>
   <programme start="20260208220000 +0000" stop="20260208220500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">A Cat's-Eye View of Japan</title>
-    <desc lang="en">On this unique trip around Japan, discover the lesser-known charms and customs of regions through the eyes of cats! Filmed by wildlife photographe,Iwago Mitsuaki.</desc>
+    <desc lang="en">Matsuyama City was once home to author Natsume Soseki. Two cats living there show us a beautiful garden and other historical scenery. At a temple, a cat gets breakfast from a monk and naps in a tree.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.6044.</episode-num>
     <episode-num system="onscreen">S1E6045</episode-num>
@@ -15163,8 +15177,8 @@
     <category lang="en">News</category>
   </programme>
   <programme start="20260208221500 +0000" stop="20260208223000 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">NHK WORLD-JAPAN Special program</title>
-    <desc lang="en">NHK WORLD-JAPAN presents a wide range of programs from news, current affairs, documentaries, etc. focusing on Japan and Asia.</desc>
+    <title lang="en">Hit the Road:HOKKAIDO HAKODATE</title>
+    <desc lang="en">Our journey begins in Hokkaido, heading through the winter southwest to Hakodate, where history meets one of Japan's most breathtaking night views.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.3024.</episode-num>
     <episode-num system="onscreen">S1E3025</episode-num>
@@ -15208,8 +15222,8 @@
     <category lang="en">News</category>
   </programme>
   <programme start="20260209001500 +0000" stop="20260209002000 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Chatroom Japan</title>
-    <desc lang="en">Chatroom Japan puts a spotlight on our diverse international community.We report on the issues, speak to those involved, and get a fresh look at what it's like to live in Japan.</desc>
+    <title lang="en">In pursuit of sustainable fashion</title>
+    <desc lang="en">Shocked by what he saw in India's textile industry, Aditya travelled to Japan to find a better way to produce fabric. He works with a start-up that's hoping to change how we create clothes.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.6048.</episode-num>
     <episode-num system="onscreen">S1E6049</episode-num>
@@ -15222,15 +15236,15 @@
     <episode-num system="onscreen">S1E6128</episode-num>
   </programme>
   <programme start="20260209003000 +0000" stop="20260209003500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Short Program</title>
-    <desc lang="en">NHK WORLD-JAPAN presents a variety of short programs focusing on Japan and Asia.</desc>
+    <title lang="en">Designs that Connect Gaps</title>
+    <desc lang="en">Sato Taku (Graphic designer) visits Miyazaki. The crowded signs of local bars inspire Sato to reconsider the conventions of modern design, and embrace the appeal of the unknown.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.6057.</episode-num>
     <episode-num system="onscreen">S1E6058</episode-num>
   </programme>
   <programme start="20260209003500 +0000" stop="20260209010500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Where We Call Home</title>
-    <desc lang="en">People from around the globe who put down roots in Japan offer a glimpse into their lives and the hardships they face in Japanese society.</desc>
+    <desc lang="en">We meet Canadian-born David Moreton who's a guide for foreign tourists undertaking a pilgrimage that tours 88 Buddhist temples around Shikoku, and American Patrick Brown who crafts beer in Tokushima.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.2086.</episode-num>
     <episode-num system="onscreen">S1E2087</episode-num>
@@ -15248,8 +15262,8 @@
     <episode-num system="onscreen">S1E6025</episode-num>
   </programme>
   <programme start="20260209012000 +0000" stop="20260209013500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">BOSAI: Science that Can Save Your Life</title>
-    <desc lang="en">Japan has a long history of natural disasters. BOSAI explores how to overcome them and save lives with the power of science.</desc>
+    <title lang="en">BOSAI: Science that Can Save Your</title>
+    <desc lang="en">From protecting valuable ceramics to reinforcing World Heritage structures, we'll see how the latest disaster preparedness technology is safeguarding Japan's irreplaceable cultural properties.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.2089.</episode-num>
     <episode-num system="onscreen">S1E2090</episode-num>
@@ -15277,7 +15291,7 @@
   </programme>
   <programme start="20260209020000 +0000" stop="20260209020500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">HELLO! NHK WORLD-JAPAN</title>
-    <desc lang="en">We intorduce the contents and activities of NHK WORLD-JAPAN to make the station and programs known to more people all over the world. This is the window of the station to the world.</desc>
+    <desc lang="en">We introduce the promotional activities NHK WORLD-JAPAN conducted ahead of Thailand's general election in early February, and showcase Newsline's coverage, broadcast from Thailand itself.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.2103.</episode-num>
     <episode-num system="onscreen">S1E2104</episode-num>
@@ -15301,7 +15315,7 @@
   </programme>
   <programme start="20260209033500 +0000" stop="20260209040500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">BIZ STREAM</title>
-    <desc lang="en">This upbeat program combines business and economic news with in-depth feature stories that give you a closer look at the latest trends within Japan and around the world.</desc>
+    <desc lang="en">Gaining the Edge with Materials: From solar-harvesting fabrics to ultra-light insulation, this episode features new advanced materials and the eye-opening impacts they will bring.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.2073.</episode-num>
     <episode-num system="onscreen">S1E2074</episode-num>
@@ -15332,7 +15346,7 @@
   </programme>
   <programme start="20260209053500 +0000" stop="20260209060500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Where We Call Home</title>
-    <desc lang="en">People from around the globe who put down roots in Japan offer a glimpse into their lives and the hardships they face in Japanese society.</desc>
+    <desc lang="en">We meet Canadian-born David Moreton who's a guide for foreign tourists undertaking a pilgrimage that tours 88 Buddhist temples around Shikoku, and American Patrick Brown who crafts beer in Tokushima.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.2086.</episode-num>
     <episode-num system="onscreen">S1E2087</episode-num>
@@ -15365,7 +15379,7 @@
   </programme>
   <programme start="20260209070000 +0000" stop="20260209070500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">HELLO! NHK WORLD-JAPAN</title>
-    <desc lang="en">We intorduce the contents and activities of NHK WORLD-JAPAN to make the station and programs known to more people all over the world. This is the window of the station to the world.</desc>
+    <desc lang="en">We introduce the promotional activities NHK WORLD-JAPAN conducted ahead of Thailand's general election in early February, and showcase Newsline's coverage, broadcast from Thailand itself.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.2103.</episode-num>
     <episode-num system="onscreen">S1E2104</episode-num>
@@ -15408,7 +15422,7 @@
   </programme>
   <programme start="20260209093500 +0000" stop="20260209100500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">BIZ STREAM</title>
-    <desc lang="en">This upbeat program combines business and economic news with in-depth feature stories that give you a closer look at the latest trends within Japan and around the world.</desc>
+    <desc lang="en">Gaining the Edge with Materials: From solar-harvesting fabrics to ultra-light insulation, this episode features new advanced materials and the eye-opening impacts they will bring.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.2073.</episode-num>
     <episode-num system="onscreen">S1E2074</episode-num>
@@ -15420,7 +15434,7 @@
   </programme>
   <programme start="20260209103500 +0000" stop="20260209110500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Where We Call Home</title>
-    <desc lang="en">People from around the globe who put down roots in Japan offer a glimpse into their lives and the hardships they face in Japanese society.</desc>
+    <desc lang="en">We meet Canadian-born David Moreton who's a guide for foreign tourists undertaking a pilgrimage that tours 88 Buddhist temples around Shikoku, and American Patrick Brown who crafts beer in Tokushima.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.2086.</episode-num>
     <episode-num system="onscreen">S1E2087</episode-num>
@@ -15432,21 +15446,21 @@
   </programme>
   <programme start="20260209113300 +0000" stop="20260209114800 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Direct Talk</title>
-    <desc lang="en">Direct and in-depth. Interviews exploring the minds and motivations of the leaders, visionaries, artists and entrepreneurs who are changing our world.</desc>
+    <desc lang="en">Matsuo Takahiro has gained international recognition for installations that fuse light with cutting-edge technology. He talks about how he creates his one-of-a-kind light art.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.2104.</episode-num>
     <episode-num system="onscreen">S1E2105</episode-num>
   </programme>
   <programme start="20260209114800 +0000" stop="20260209120000 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">IMPACTS: Climates Change the World</title>
-    <desc lang="en">The entire Earth is affected by climate change, occurring with a greater speed and scale than ever before. This program uses scientific data and the latest findings to raise awareness on its impact.</desc>
+    <title lang="en">48,000 Species Facing the Risk</title>
+    <desc lang="en">The IUCN lists 48,646 species facing extinction, a figure that has more than quadrupled in 25 years, accelerated by climate change. Has the "Sixth Mass Extinction" begun?</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.6127.</episode-num>
     <episode-num system="onscreen">S1E6128</episode-num>
   </programme>
   <programme start="20260209120000 +0000" stop="20260209120500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Ukiyoe EDO-LIFE</title>
-    <desc lang="en">Centuries ago, Tokyo was known as EDO. More than a million people enjoyed life in this city, they live on in ukiyo-e woodblock prints. Take a deep dive into ukiyo-e and explore the soul of old Tokyo.</desc>
+    <title lang="en">Ukiyoe EDO-LIFE:Sacred Cranes</title>
+    <desc lang="en">Two cranes hang out on the edge of a series of paddy fields where a man walks back and forth scattering something on the ground. They've been lured to a falconry preserve...but all is not as it seems.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.6029.</episode-num>
     <episode-num system="onscreen">S1E6030</episode-num>
@@ -15479,7 +15493,7 @@
   </programme>
   <programme start="20260209130000 +0000" stop="20260209130500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">HELLO! NHK WORLD-JAPAN</title>
-    <desc lang="en">We intorduce the contents and activities of NHK WORLD-JAPAN to make the station and programs known to more people all over the world. This is the window of the station to the world.</desc>
+    <desc lang="en">We introduce the promotional activities NHK WORLD-JAPAN conducted ahead of Thailand's general election in early February, and showcase Newsline's coverage, broadcast from Thailand itself.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.2103.</episode-num>
     <episode-num system="onscreen">S1E2104</episode-num>
@@ -15515,7 +15529,7 @@
   </programme>
   <programme start="20260209153500 +0000" stop="20260209160500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Where We Call Home</title>
-    <desc lang="en">People from around the globe who put down roots in Japan offer a glimpse into their lives and the hardships they face in Japanese society.</desc>
+    <desc lang="en">We meet Canadian-born David Moreton who's a guide for foreign tourists undertaking a pilgrimage that tours 88 Buddhist temples around Shikoku, and American Patrick Brown who crafts beer in Tokushima.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.2086.</episode-num>
     <episode-num system="onscreen">S1E2087</episode-num>
