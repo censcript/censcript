@@ -1,100 +1,100 @@
 
 Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa.serv00.net/public_html/cen/epg/skyde.php on line 135
-<programme start="20260208230000 +0000" stop="20260208234000 +0000" channel="13th Street HD.skyde">
+<programme start="20260207230000 +0000" stop="20260207234000 +0000" channel="13th Street HD.skyde">
     <title>FBI: Special Crime Unit</title>
 </programme>
-<programme start="20260208234000 +0000" stop="20260209002500 +0000" channel="13th Street HD.skyde">
-    <title>FBI: Special Crime Unit</title>
+<programme start="20260207234000 +0000" stop="20260208002500 +0000" channel="13th Street HD.skyde">
+    <title>Navy CIS</title>
 </programme>
-<programme start="20260209002500 +0000" stop="20260209011000 +0000" channel="13th Street HD.skyde">
-    <title>FBI: Special Crime Unit</title>
+<programme start="20260208002500 +0000" stop="20260208011000 +0000" channel="13th Street HD.skyde">
+    <title>Navy CIS</title>
 </programme>
-<programme start="20260209011000 +0000" stop="20260209015000 +0000" channel="13th Street HD.skyde">
-    <title>FBI: Most Wanted</title>
+<programme start="20260208011000 +0000" stop="20260208015000 +0000" channel="13th Street HD.skyde">
+    <title>Navy CIS</title>
 </programme>
-<programme start="20260209015000 +0000" stop="20260209023000 +0000" channel="13th Street HD.skyde">
-    <title>FBI: Most Wanted</title>
+<programme start="20260208015000 +0000" stop="20260208023500 +0000" channel="13th Street HD.skyde">
+    <title>Navy CIS</title>
 </programme>
-<programme start="20260209023000 +0000" stop="20260209031000 +0000" channel="13th Street HD.skyde">
-    <title>FBI: Most Wanted</title>
+<programme start="20260208023500 +0000" stop="20260208032000 +0000" channel="13th Street HD.skyde">
+    <title>Navy CIS</title>
 </programme>
-<programme start="20260209031000 +0000" stop="20260209035500 +0000" channel="13th Street HD.skyde">
-    <title>FBI: Most Wanted</title>
+<programme start="20260208032000 +0000" stop="20260208040500 +0000" channel="13th Street HD.skyde">
+    <title>Navy CIS</title>
 </programme>
-<programme start="20260209035500 +0000" stop="20260209043500 +0000" channel="13th Street HD.skyde">
-    <title>FBI: Most Wanted</title>
+<programme start="20260208040500 +0000" stop="20260208044500 +0000" channel="13th Street HD.skyde">
+    <title>Navy CIS</title>
 </programme>
-<programme start="20260209043500 +0000" stop="20260209052000 +0000" channel="13th Street HD.skyde">
-    <title>So Help Me Todd</title>
+<programme start="20260208044500 +0000" stop="20260208051000 +0000" channel="13th Street HD.skyde">
+    <title>Morti&#039;s Law</title>
 </programme>
-<programme start="20260209052000 +0000" stop="20260209061000 +0000" channel="13th Street HD.skyde">
-    <title>So Help Me Todd</title>
+<programme start="20260208051000 +0000" stop="20260208060000 +0000" channel="13th Street HD.skyde">
+    <title>Law &amp; Order</title>
 </programme>
-<programme start="20260209061000 +0000" stop="20260209065500 +0000" channel="13th Street HD.skyde">
-    <title>Law &amp; Order: Special Victims Unit</title>
+<programme start="20260208060000 +0000" stop="20260208064500 +0000" channel="13th Street HD.skyde">
+    <title>Law &amp; Order</title>
 </programme>
-<programme start="20260209065500 +0000" stop="20260209074000 +0000" channel="13th Street HD.skyde">
-    <title>Law &amp; Order: Special Victims Unit</title>
+<programme start="20260208064500 +0000" stop="20260208073000 +0000" channel="13th Street HD.skyde">
+    <title>Law &amp; Order</title>
 </programme>
-<programme start="20260209074000 +0000" stop="20260209082500 +0000" channel="13th Street HD.skyde">
-    <title>Law &amp; Order: Special Victims Unit</title>
+<programme start="20260208073000 +0000" stop="20260208082000 +0000" channel="13th Street HD.skyde">
+    <title>Law &amp; Order</title>
 </programme>
-<programme start="20260209082500 +0000" stop="20260209091000 +0000" channel="13th Street HD.skyde">
+<programme start="20260208082000 +0000" stop="20260208090500 +0000" channel="13th Street HD.skyde">
+    <title>Law &amp; Order</title>
+</programme>
+<programme start="20260208090500 +0000" stop="20260208095500 +0000" channel="13th Street HD.skyde">
+    <title>Law &amp; Order</title>
+</programme>
+<programme start="20260208095500 +0000" stop="20260208104000 +0000" channel="13th Street HD.skyde">
+    <title>Law &amp; Order</title>
+</programme>
+<programme start="20260208104000 +0000" stop="20260208113000 +0000" channel="13th Street HD.skyde">
+    <title>Law &amp; Order</title>
+</programme>
+<programme start="20260208113000 +0000" stop="20260208121500 +0000" channel="13th Street HD.skyde">
+    <title>Law &amp; Order</title>
+</programme>
+<programme start="20260208121500 +0000" stop="20260208130000 +0000" channel="13th Street HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20260208130000 +0000" stop="20260208134500 +0000" channel="13th Street HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20260208134500 +0000" stop="20260208143500 +0000" channel="13th Street HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20260208143500 +0000" stop="20260208152000 +0000" channel="13th Street HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20260208152000 +0000" stop="20260208160500 +0000" channel="13th Street HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20260208160500 +0000" stop="20260208165000 +0000" channel="13th Street HD.skyde">
     <title>Criminal Intent - Verbrechen im Visier</title>
 </programme>
-<programme start="20260209091000 +0000" stop="20260209100000 +0000" channel="13th Street HD.skyde">
+<programme start="20260208165000 +0000" stop="20260208174000 +0000" channel="13th Street HD.skyde">
     <title>Criminal Intent - Verbrechen im Visier</title>
 </programme>
-<programme start="20260209100000 +0000" stop="20260209104500 +0000" channel="13th Street HD.skyde">
-    <title>Law &amp; Order: Special Victims Unit</title>
+<programme start="20260208174000 +0000" stop="20260208182500 +0000" channel="13th Street HD.skyde">
+    <title>Criminal Intent - Verbrechen im Visier</title>
 </programme>
-<programme start="20260209104500 +0000" stop="20260209113000 +0000" channel="13th Street HD.skyde">
-    <title>Law &amp; Order: Special Victims Unit</title>
+<programme start="20260208182500 +0000" stop="20260208191500 +0000" channel="13th Street HD.skyde">
+    <title>Criminal Intent - Verbrechen im Visier</title>
 </programme>
-<programme start="20260209113000 +0000" stop="20260209121500 +0000" channel="13th Street HD.skyde">
-    <title>Law &amp; Order: Special Victims Unit</title>
+<programme start="20260208191500 +0000" stop="20260208200000 +0000" channel="13th Street HD.skyde">
+    <title>Criminal Intent - Verbrechen im Visier</title>
 </programme>
-<programme start="20260209121500 +0000" stop="20260209130500 +0000" channel="13th Street HD.skyde">
-    <title>Navy CIS: Origins</title>
-</programme>
-<programme start="20260209130500 +0000" stop="20260209135000 +0000" channel="13th Street HD.skyde">
-    <title>Navy CIS: Origins</title>
-</programme>
-<programme start="20260209135000 +0000" stop="20260209143500 +0000" channel="13th Street HD.skyde">
+<programme start="20260208200000 +0000" stop="20260208204500 +0000" channel="13th Street HD.skyde">
     <title>FBI: Special Crime Unit</title>
 </programme>
-<programme start="20260209143500 +0000" stop="20260209152000 +0000" channel="13th Street HD.skyde">
+<programme start="20260208204500 +0000" stop="20260208213000 +0000" channel="13th Street HD.skyde">
     <title>FBI: Special Crime Unit</title>
 </programme>
-<programme start="20260209152000 +0000" stop="20260209160500 +0000" channel="13th Street HD.skyde">
+<programme start="20260208213000 +0000" stop="20260208221500 +0000" channel="13th Street HD.skyde">
     <title>FBI: Special Crime Unit</title>
 </programme>
-<programme start="20260209160500 +0000" stop="20260209165500 +0000" channel="13th Street HD.skyde">
-    <title>Law &amp; Order</title>
-</programme>
-<programme start="20260209165500 +0000" stop="20260209174000 +0000" channel="13th Street HD.skyde">
-    <title>Law &amp; Order</title>
-</programme>
-<programme start="20260209174000 +0000" stop="20260209182500 +0000" channel="13th Street HD.skyde">
-    <title>Law &amp; Order</title>
-</programme>
-<programme start="20260209182500 +0000" stop="20260209191500 +0000" channel="13th Street HD.skyde">
-    <title>Law &amp; Order</title>
-</programme>
-<programme start="20260209191500 +0000" stop="20260209200000 +0000" channel="13th Street HD.skyde">
-    <title>Criminal Minds</title>
-</programme>
-<programme start="20260209200000 +0000" stop="20260209204000 +0000" channel="13th Street HD.skyde">
-    <title>Criminal Minds</title>
-</programme>
-<programme start="20260209204000 +0000" stop="20260209213000 +0000" channel="13th Street HD.skyde">
-    <title>Criminal Minds</title>
-</programme>
-<programme start="20260209213000 +0000" stop="20260209221500 +0000" channel="13th Street HD.skyde">
-    <title>Law &amp; Order: Special Victims Unit</title>
-</programme>
-<programme start="20260209221500 +0000" stop="20260209230000 +0000" channel="13th Street HD.skyde">
-    <title>Law &amp; Order: Special Victims Unit</title>
+<programme start="20260208221500 +0000" stop="20260208230000 +0000" channel="13th Street HD.skyde">
+    <title>FBI: Special Crime Unit</title>
 </programme>
 <programme start="20260209004500 +0000" stop="20260209021000 +0000" channel="Beate Uhse HD.skyde">
     <title>Heiße Tänze</title>
@@ -3425,108 +3425,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 </programme>
 <programme start="20260209225500 +0000" stop="20260209234000 +0000" channel="SYFY HD.skyde">
     <title>Raumschiff Enterprise - Das nächste Jahrhundert</title>
-</programme>
-<programme start="20260208230000 +0000" stop="20260208234500 +0000" channel="Universal TV HD.skyde">
-    <title>Chicago Med</title>
-</programme>
-<programme start="20260208234500 +0000" stop="20260209002500 +0000" channel="Universal TV HD.skyde">
-    <title>Chicago Med</title>
-</programme>
-<programme start="20260209002500 +0000" stop="20260209010500 +0000" channel="Universal TV HD.skyde">
-    <title>Chicago P.D.</title>
-</programme>
-<programme start="20260209010500 +0000" stop="20260209014500 +0000" channel="Universal TV HD.skyde">
-    <title>Chicago P.D.</title>
-</programme>
-<programme start="20260209014500 +0000" stop="20260209023000 +0000" channel="Universal TV HD.skyde">
-    <title>Chicago Fire</title>
-</programme>
-<programme start="20260209023000 +0000" stop="20260209031000 +0000" channel="Universal TV HD.skyde">
-    <title>Chicago Fire</title>
-</programme>
-<programme start="20260209031000 +0000" stop="20260209035000 +0000" channel="Universal TV HD.skyde">
-    <title>Chicago Fire</title>
-</programme>
-<programme start="20260209035000 +0000" stop="20260209041000 +0000" channel="Universal TV HD.skyde">
-    <title>Modern Family</title>
-</programme>
-<programme start="20260209041000 +0000" stop="20260209043000 +0000" channel="Universal TV HD.skyde">
-    <title>Modern Family</title>
-</programme>
-<programme start="20260209043000 +0000" stop="20260209045000 +0000" channel="Universal TV HD.skyde">
-    <title>Modern Family</title>
-</programme>
-<programme start="20260209045000 +0000" stop="20260209053500 +0000" channel="Universal TV HD.skyde">
-    <title>Chicago Med</title>
-</programme>
-<programme start="20260209053500 +0000" stop="20260209062000 +0000" channel="Universal TV HD.skyde">
-    <title>Chicago Med</title>
-</programme>
-<programme start="20260209062000 +0000" stop="20260209070500 +0000" channel="Universal TV HD.skyde">
-    <title>Chicago P.D.</title>
-</programme>
-<programme start="20260209070500 +0000" stop="20260209075000 +0000" channel="Universal TV HD.skyde">
-    <title>Chicago P.D.</title>
-</programme>
-<programme start="20260209075000 +0000" stop="20260209083500 +0000" channel="Universal TV HD.skyde">
-    <title>Chicago Fire</title>
-</programme>
-<programme start="20260209083500 +0000" stop="20260209092000 +0000" channel="Universal TV HD.skyde">
-    <title>Chicago Fire</title>
-</programme>
-<programme start="20260209092000 +0000" stop="20260209100500 +0000" channel="Universal TV HD.skyde">
-    <title>Chicago Fire</title>
-</programme>
-<programme start="20260209100500 +0000" stop="20260209105500 +0000" channel="Universal TV HD.skyde">
-    <title>Chicago Med</title>
-</programme>
-<programme start="20260209105500 +0000" stop="20260209114000 +0000" channel="Universal TV HD.skyde">
-    <title>Chicago Med</title>
-</programme>
-<programme start="20260209114000 +0000" stop="20260209122500 +0000" channel="Universal TV HD.skyde">
-    <title>Chicago P.D.</title>
-</programme>
-<programme start="20260209122500 +0000" stop="20260209131000 +0000" channel="Universal TV HD.skyde">
-    <title>Chicago Fire</title>
-</programme>
-<programme start="20260209131000 +0000" stop="20260209135500 +0000" channel="Universal TV HD.skyde">
-    <title>Chicago Fire</title>
-</programme>
-<programme start="20260209135500 +0000" stop="20260209144000 +0000" channel="Universal TV HD.skyde">
-    <title>Chicago P.D.</title>
-</programme>
-<programme start="20260209144000 +0000" stop="20260209152500 +0000" channel="Universal TV HD.skyde">
-    <title>Chicago Fire</title>
-</programme>
-<programme start="20260209152500 +0000" stop="20260209161000 +0000" channel="Universal TV HD.skyde">
-    <title>Hawaii Five-0</title>
-</programme>
-<programme start="20260209161000 +0000" stop="20260209165500 +0000" channel="Universal TV HD.skyde">
-    <title>Hawaii Five-0</title>
-</programme>
-<programme start="20260209165500 +0000" stop="20260209174000 +0000" channel="Universal TV HD.skyde">
-    <title>Hawaii Five-0</title>
-</programme>
-<programme start="20260209174000 +0000" stop="20260209183000 +0000" channel="Universal TV HD.skyde">
-    <title>Hawaii Five-0</title>
-</programme>
-<programme start="20260209183000 +0000" stop="20260209191500 +0000" channel="Universal TV HD.skyde">
-    <title>Hawaii Five-0</title>
-</programme>
-<programme start="20260209191500 +0000" stop="20260209200000 +0000" channel="Universal TV HD.skyde">
-    <title>Hawaii Five-0</title>
-</programme>
-<programme start="20260209200000 +0000" stop="20260209204500 +0000" channel="Universal TV HD.skyde">
-    <title>Hawaii Five-0</title>
-</programme>
-<programme start="20260209204500 +0000" stop="20260209213000 +0000" channel="Universal TV HD.skyde">
-    <title>Hawaii Five-0</title>
-</programme>
-<programme start="20260209213000 +0000" stop="20260209221500 +0000" channel="Universal TV HD.skyde">
-    <title>Hawaii Five-0</title>
-</programme>
-<programme start="20260209221500 +0000" stop="20260209230000 +0000" channel="Universal TV HD.skyde">
-    <title>Hawaii Five-0</title>
 </programme>
 <programme start="20260208230000 +0000" stop="20260208232500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Two and a Half Men</title>
