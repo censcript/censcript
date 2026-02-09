@@ -3330,12 +3330,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260209073000 +0000" stop="20260209074500 +0000" channel="Sky Sport UHD.skyde">
     <title>Info: UHD</title>
 </programme>
-<programme start="20260209094000 +0000" stop="20260209100000 +0000" channel="Sky Sport 1 HD.skyde">
-    <title>Es folgt: Live Tennis WTA Tour</title>
-</programme>
-<programme start="20260209100000 +0000" stop="20260209220000 +0000" channel="Sky Sport 1 HD.skyde">
-    <title>Live WTA 1000: Qatar Total Energies Open in Doha (Katar), 2. Tag</title>
-</programme>
 <programme start="20260208233500 +0000" stop="20260209002000 +0000" channel="SYFY HD.skyde">
     <title>Stargate: Atlantis</title>
 </programme>
