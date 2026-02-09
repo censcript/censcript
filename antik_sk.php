@@ -1264,28 +1264,28 @@
   <programme start="20260210225500 +0000" stop="20260211011500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Hádzaná - EHF Euro 2026</title>
   </programme>
-  <programme start="20260211011500 +0000" stop="20260211025000 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260211011500 +0000" stop="20260211025500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">FIS Svetový pohár zjazd ženy</title>
   </programme>
-  <programme start="20260211025000 +0000" stop="20260211041500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260211025500 +0000" stop="20260211042000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">FIS Svetový pohár Super G ženy</title>
   </programme>
-  <programme start="20260211041500 +0000" stop="20260211052500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260211042000 +0000" stop="20260211053000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">FIS Svetový pohár obrovský slalom muži</title>
   </programme>
-  <programme start="20260211052500 +0000" stop="20260211064000 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260211053000 +0000" stop="20260211065000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">FIS Svetový pohár obrovský slalom muži</title>
   </programme>
-  <programme start="20260211064000 +0000" stop="20260211082500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260211065000 +0000" stop="20260211083000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Hádzaná - EHF Euro 2026</title>
   </programme>
-  <programme start="20260211082500 +0000" stop="20260211100000 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260211083000 +0000" stop="20260211100500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Hádzaná - EHF Euro 2026</title>
   </programme>
-  <programme start="20260211100000 +0000" stop="20260211112000 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260211100500 +0000" stop="20260211113000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Krasokorčuľovanie ME 2026</title>
   </programme>
-  <programme start="20260211112000 +0000" stop="20260211135000 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260211113000 +0000" stop="20260211135000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Portugalský pohár</title>
   </programme>
   <programme start="20260211135000 +0000" stop="20260211160000 +0000" channel="JOJ Šport 2.webtv.sk">
@@ -1294,10 +1294,10 @@
   <programme start="20260211160000 +0000" stop="20260211185500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Volejbal Slovenský pohár ženy</title>
   </programme>
-  <programme start="20260211185500 +0000" stop="20260211214500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260211185500 +0000" stop="20260211215000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Volejbal CEV Liga Majstrov muži</title>
   </programme>
-  <programme start="20260211214500 +0000" stop="20260211232500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260211215000 +0000" stop="20260211232500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">FIS Svetový pohár freestyle</title>
   </programme>
   <programme start="20260210225500 +0000" stop="20260210235000 +0000" channel="WAU.webtv.sk">

@@ -4315,8 +4315,72 @@
 <programme start="20260209160000 +0000" stop="20260209163000 +0000" channel="HITS.mncvision">
     <title>The Magic Of Lemon Drops</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260208183000 +0000" stop="20260208203000 +0000" channel="HITS MOVIES.mncvision">
+    <title>Pillow Talk</title>
+</programme>
+<programme start="20260208203000 +0000" stop="20260208231500 +0000" channel="HITS MOVIES.mncvision">
+    <title>Apollo 13</title>
+</programme>
+<programme start="20260208231500 +0000" stop="20260209014500 +0000" channel="HITS MOVIES.mncvision">
+    <title>Ocean&#039;s Thirteen</title>
+</programme>
+<programme start="20260209014500 +0000" stop="20260209034500 +0000" channel="HITS MOVIES.mncvision">
+    <title>Bride Wars</title>
+</programme>
+<programme start="20260209034500 +0000" stop="20260209054500 +0000" channel="HITS MOVIES.mncvision">
+    <title>Xanadu</title>
+</programme>
+<programme start="20260209054500 +0000" stop="20260209081500 +0000" channel="HITS MOVIES.mncvision">
+    <title>Ocean&#039;s Thirteen</title>
+</programme>
+<programme start="20260209081500 +0000" stop="20260209100000 +0000" channel="HITS MOVIES.mncvision">
+    <title>Open Water</title>
+</programme>
+<programme start="20260209100000 +0000" stop="20260209120000 +0000" channel="HITS MOVIES.mncvision">
+    <title>Bride Wars</title>
+</programme>
+<programme start="20260209120000 +0000" stop="20260209140000 +0000" channel="HITS MOVIES.mncvision">
+    <title>Baby Boom</title>
+</programme>
+<programme start="20260209140000 +0000" stop="20260209160000 +0000" channel="HITS MOVIES.mncvision">
+    <title>Just My Luck</title>
+</programme>
+<programme start="20260209160000 +0000" stop="20260209163000 +0000" channel="HITS MOVIES.mncvision">
+    <title>Xanadu</title>
+</programme>
+<programme start="20260208183000 +0000" stop="20260208203000 +0000" channel="HITS MOVIES HD.mncvision">
+    <title>Pillow Talk</title>
+</programme>
+<programme start="20260208203000 +0000" stop="20260208231500 +0000" channel="HITS MOVIES HD.mncvision">
+    <title>Apollo 13</title>
+</programme>
+<programme start="20260208231500 +0000" stop="20260209014500 +0000" channel="HITS MOVIES HD.mncvision">
+    <title>Ocean&#039;s Thirteen</title>
+</programme>
+<programme start="20260209014500 +0000" stop="20260209034500 +0000" channel="HITS MOVIES HD.mncvision">
+    <title>Bride Wars</title>
+</programme>
+<programme start="20260209034500 +0000" stop="20260209054500 +0000" channel="HITS MOVIES HD.mncvision">
+    <title>Xanadu</title>
+</programme>
+<programme start="20260209054500 +0000" stop="20260209081500 +0000" channel="HITS MOVIES HD.mncvision">
+    <title>Ocean&#039;s Thirteen</title>
+</programme>
+<programme start="20260209081500 +0000" stop="20260209100000 +0000" channel="HITS MOVIES HD.mncvision">
+    <title>Open Water</title>
+</programme>
+<programme start="20260209100000 +0000" stop="20260209120000 +0000" channel="HITS MOVIES HD.mncvision">
+    <title>Bride Wars</title>
+</programme>
+<programme start="20260209120000 +0000" stop="20260209140000 +0000" channel="HITS MOVIES HD.mncvision">
+    <title>Baby Boom</title>
+</programme>
+<programme start="20260209140000 +0000" stop="20260209160000 +0000" channel="HITS MOVIES HD.mncvision">
+    <title>Just My Luck</title>
+</programme>
+<programme start="20260209160000 +0000" stop="20260209163000 +0000" channel="HITS MOVIES HD.mncvision">
+    <title>Xanadu</title>
+</programme>
 <programme start="20260208170000 +0000" stop="20260208180000 +0000" channel="IDX.mncvision">
     <title>Prime Market Highlight</title>
 </programme>
