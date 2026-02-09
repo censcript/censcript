@@ -58,8 +58,8 @@
     <title>Football: SSC Napoli - Chelsea FC</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260210001500 +0700" stop="20260210024500 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Olympiacos - Panathinaikos</title>
+<programme start="20260211030000 +0700" stop="20260211050000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: AFC Ajax - Olympiacos</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260210024500 +0700" stop="20260210044500 +0700" channel="COSMOTE Sport 2 HD">
@@ -178,8 +178,8 @@
     <title>Football: FC Porto - Sporting CP</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260210003000 +0700" stop="20260210023000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Football: Atalanta - Cremonese (L)</title>
+<programme start="20260211030000 +0700" stop="20260211050000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Heart of Midlothian - Hibernian (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20260210023000 +0700" stop="20260210050000 +0700" channel="COSMOTE Sport 4 HD">
@@ -398,13 +398,9 @@
     <title>Tennis: Alex de Minaur - Arthur Fils (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260210020000 +0700" stop="20260210023000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260210023000 +0700" stop="20260210030000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
-    <desc>Live: Tidak</desc>
+<programme start="20260211033000 +0700" stop="20260211060000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: Zizou Bergs - Fabian Marozsan (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260210030000 +0700" stop="20260210050000 +0700" channel="COSMOTE Sport 7 HD">
     <title>Football: Sheffield United - Middlesbrough (L)</title>
@@ -470,6 +466,10 @@
     <title>Handball: VfL Gummersbach - SG Flensburg-Handewitt (L)</title>
     <desc>Live: Ya</desc>
 </programme>
+<programme start="20260211034500 +0700" stop="20260211040000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260210010000 +0700" stop="20260210033000 +0700" channel="COSMOTE Sport 8 HD">
     <title>Tennis: Brandon Nakashima - Mattia Bellucci (L)</title>
     <desc>Live: Ya</desc>
@@ -533,6 +533,10 @@
 <programme start="20260211010000 +0700" stop="20260211033000 +0700" channel="COSMOTE Sport 8 HD">
     <title>Tennis: ATP 500 2026 (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20260211033000 +0700" stop="20260211040000 +0700" channel="COSMOTE Sport 8 HD">
+    <title>COSMOTESport8HD</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260210014500 +0700" stop="20260210034500 +0700" channel="COSMOTE Sport 9 HD">
     <title>Football: Famalicao - AVS Futebol (L)</title>
