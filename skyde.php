@@ -3237,23 +3237,23 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260209224500 +0000" stop="20260209230000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>EFL: Highlights XXL: AFC Wrexham - FC Millwall, 31. Spieltag</title>
 </programme>
-<programme start="20260209003000 +0000" stop="20260209010000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260208230000 +0000" stop="20260209004500 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 250: A. Mannarino (FRA) - F. Auger-Aliassime (CAN), Open Occitanie in Montpellier (FRA), Finale</title>
+</programme>
+<programme start="20260209004500 +0000" stop="20260209011500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
 </programme>
-<programme start="20260209010000 +0000" stop="20260209030000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260209011500 +0000" stop="20260209034500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>United Cup: B. Bencic (SUI) - I. Swiatek (POL), Finale in Sydney (AUS), Damen Einzel</title>
 </programme>
-<programme start="20260209030000 +0000" stop="20260209050000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260209034500 +0000" stop="20260209060000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>United Cup: S. Wawrinka (SUI) - H. Hurkacz (POL), Finale in Sydney (AUS), Herren Einzel</title>
 </programme>
-<programme start="20260209050000 +0000" stop="20260209070000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260209060000 +0000" stop="20260209080000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>United Cup: I. Swiatek/H. Hurkacz (POL) - B. Bencic/S. Wawrinka (SUI), Finale in Sydney (AUS), Mixed Doubles</title>
 </programme>
-<programme start="20260209070000 +0000" stop="20260209080000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>United Cup: Review 2026</title>
-</programme>
 <programme start="20260209080000 +0000" stop="20260209100000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: Topspiel, Qatar Total Energies Open in Doha (Katar). 1. Tag</title>
+    <title>WTA 1000: L. Samsonova - M. Frech (POL), Qatar Total Energies Open in Doha (Katar). 1. Tag</title>
 </programme>
 <programme start="20260209100000 +0000" stop="20260209120000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live WTA 1000: Qatar Total Energies Open in Doha (Katar), 2. Tag</title>
@@ -3265,7 +3265,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Live ATP &amp; WTA: Die Topspiele des Tages</title>
 </programme>
 <programme start="20260208230000 +0000" stop="20260209013000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>ATP 250: Finale, Open Occitanie in Montpellier (FRA), Finale</title>
+    <title>ATP 250: A. Mannarino (FRA) - F. Auger-Aliassime (CAN), Open Occitanie in Montpellier (FRA), Finale</title>
 </programme>
 <programme start="20260209013000 +0000" stop="20260209020000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Frauen-BL: Alle Spiele, alle Tore, 17. Spieltag, Sonntag</title>
@@ -3333,7 +3333,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260209094000 +0000" stop="20260209100000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: Live Tennis WTA Tour</title>
 </programme>
-<programme start="20260209100000 +0000" stop="20260209200000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260209100000 +0000" stop="20260209220000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WTA 1000: Qatar Total Energies Open in Doha (Katar), 2. Tag</title>
 </programme>
 <programme start="20260208233500 +0000" stop="20260209002000 +0000" channel="SYFY HD.skyde">

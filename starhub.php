@@ -3109,10 +3109,10 @@
     <programme start="20260208173000 +0000" stop="20260208220000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20260208220000 +0000" stop="20260208233000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20260208220000 +0000" stop="20260208223000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20260208233000 +0000" stop="20260209023000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20260208223000 +0000" stop="20260209023000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>M01: Pakistan vs Netherlands</title>
     </programme>
     <programme start="20260209023000 +0000" stop="20260209033000 +0000" channel="Hub Sports 4 HD.starhub">
@@ -7843,10 +7843,10 @@
     <programme start="20260208133000 +0000" stop="20260208170000 +0000" channel="Asianet Movies.starhub">
         <title>Christian Brothers</title>
     </programme>
-    <programme start="20260208170000 +0000" stop="20260208193000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260208170000 +0000" stop="20260208200500 +0000" channel="Asianet Movies.starhub">
         <title>Neymar</title>
     </programme>
-    <programme start="20260208193000 +0000" stop="20260208213000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260208200500 +0000" stop="20260208230500 +0000" channel="Asianet Movies.starhub">
         <title>Chandrolsavam</title>
     </programme>
     <programme start="20260208230500 +0000" stop="20260209013000 +0000" channel="Asianet Movies.starhub">
