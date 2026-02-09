@@ -670,6 +670,15 @@
 <programme start="20260209113000 +0000" stop="20260209133000 +0000" channel="ANTV.vision">
 <title>Langit Untuk Renata</title>
 </programme>
+<programme start="20260209133000 +0000" stop="20260209150000 +0000" channel="ANTV.vision">
+<title>Santet I: Pelebur Nyawa</title>
+</programme>
+<programme start="20260209150000 +0000" stop="20260209170000 +0000" channel="ANTV.vision">
+<title>Tarzan Penunggu Harta Karun</title>
+</programme>
+<programme start="20260209170000 +0000" stop="20260209191500 +0000" channel="ANTV.vision">
+<title>Typhoon</title>
+</programme>
 <programme start="20260209191500 +0000" stop="20260209213000 +0000" channel="ANTV.vision">
 <title>Serie A Liga Italia</title>
 </programme>
@@ -1487,14 +1496,5 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260209010000 +0000" stop="20260209030000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260209030000 +0000" stop="20260209050000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260209050000 +0000" stop="20260209070000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260209070000 +0000" stop="20260209090000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>

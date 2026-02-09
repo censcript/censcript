@@ -1,7 +1,3 @@
-<programme start="20260210010000 +0700" stop="20260210034500 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Gala (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
 <programme start="20260210034500 +0700" stop="20260210054500 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Pafos FC - SK Slavia Praha</title>
     <desc>Live: Tidak</desc>
@@ -118,8 +114,8 @@
     <title>Football: AEL Novibet - Panetolikos</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260209231500 +0700" stop="20260210034500 +0700" channel="COSMOTE Sport 3 HD">
-    <title>American Football: New England Patriots - Seattle Seahawks</title>
+<programme start="20260211044000 +0700" stop="20260211064000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Juventus Football Club - SS Lazio</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260210034500 +0700" stop="20260210055500 +0700" channel="COSMOTE Sport 3 HD">
@@ -234,9 +230,9 @@
     <title>Pick n&#039; Roll (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260210020000 +0700" stop="20260210040000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Basketball: Brescia - Virtus Bologna (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20260211041500 +0700" stop="20260211061500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Karditsa - AEK</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260210040000 +0700" stop="20260210042000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Sports Highlights</title>
@@ -330,9 +326,13 @@
     <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260210013000 +0700" stop="20260210033000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: Luka Pavlovic - Botic van de Zandschulp (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20260211040000 +0700" stop="20260211043000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>FIA Championship Middle East 2026</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260211043000 +0700" stop="20260211055000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>MotoGP Classics</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260210033000 +0700" stop="20260210060000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Nicolai Budkov Kjaer - Jaume Munar (L)</title>
@@ -470,12 +470,8 @@
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260210010000 +0700" stop="20260210033000 +0700" channel="COSMOTE Sport 8 HD">
-    <title>Tennis: Brandon Nakashima - Mattia Bellucci (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20260210033000 +0700" stop="20260210040000 +0700" channel="COSMOTE Sport 8 HD">
-    <title>COSMOTESport8HD</title>
+<programme start="20260211040000 +0700" stop="20260211050000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260210040000 +0700" stop="20260210050000 +0700" channel="COSMOTE Sport 8 HD">
@@ -538,9 +534,9 @@
     <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260210014500 +0700" stop="20260210034500 +0700" channel="COSMOTE Sport 9 HD">
-    <title>Football: Famalicao - AVS Futebol (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20260211040000 +0700" stop="20260211050000 +0700" channel="COSMOTE Sport 8 HD">
+    <title>COSMOTESport8HD</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260210034500 +0700" stop="20260210041500 +0700" channel="COSMOTE Sport 9 HD">
     <title>COSMOTESport9HD</title>
@@ -597,5 +593,9 @@
 <programme start="20260211020000 +0700" stop="20260211043000 +0700" channel="COSMOTE Sport 9 HD">
     <title>Volleyball: Montpellier - Cucine Lube Civitanova (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20260211043000 +0700" stop="20260211050000 +0700" channel="COSMOTE Sport 9 HD">
+    <title>COSMOTESport9HD</title>
+    <desc>Live: Tidak</desc>
 </programme>
 No EPG found for COSMOTE Sport 10 HD
