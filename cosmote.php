@@ -250,10 +250,6 @@
     <title>Basketball: Los Angeles Lakers - San Antonio Spurs</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260211043000 +0700" stop="20260211055000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>MotoGP Classics</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260211055000 +0700" stop="20260211065000 +0700" channel="COSMOTE Sport 5 HD">
     <title>MotoGP Classics</title>
     <desc>Live: Tidak</desc>
@@ -358,9 +354,9 @@
     <title>MotoGP Classics</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260211033000 +0700" stop="20260211060000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: Zizou Bergs - Fabian Marozsan (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20260212063000 +0700" stop="20260212074000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>MotoGP Classics</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260211060000 +0700" stop="20260211083000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP 500 2026</title>
@@ -421,6 +417,10 @@
 <programme start="20260212033000 +0700" stop="20260212060000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Tallon Griekspoor - Quentin Halys  (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20260212060000 +0700" stop="20260212080000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: Stefanos Tsitsipas - Arthur Rinderknech</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260211050000 +0700" stop="20260211070000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
