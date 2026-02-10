@@ -1390,78 +1390,8 @@
 <programme start="20260210160000 +0000" stop="20260210163000 +0000" channel="beIN Sports 3 HD.mncvision">
     <title>CAF Confederation: SBS Vs CRB</title>
 </programme>
-<programme start="20260209170000 +0000" stop="20260209190000 +0000" channel="beIN SPORTS 4.mncvision">
-    <title>beIN Sports 4</title>
-</programme>
-<programme start="20260209190000 +0000" stop="20260209210000 +0000" channel="beIN SPORTS 4.mncvision">
-    <title>beIN Sports 4</title>
-</programme>
-<programme start="20260209210000 +0000" stop="20260209230000 +0000" channel="beIN SPORTS 4.mncvision">
-    <title>beIN Sports 4</title>
-</programme>
-<programme start="20260209230000 +0000" stop="20260210010000 +0000" channel="beIN SPORTS 4.mncvision">
-    <title>beIN Sports 4</title>
-</programme>
-<programme start="20260210010000 +0000" stop="20260210030000 +0000" channel="beIN SPORTS 4.mncvision">
-    <title>beIN Sports 4</title>
-</programme>
-<programme start="20260210030000 +0000" stop="20260210050000 +0000" channel="beIN SPORTS 4.mncvision">
-    <title>beIN Sports 4</title>
-</programme>
-<programme start="20260210050000 +0000" stop="20260210070000 +0000" channel="beIN SPORTS 4.mncvision">
-    <title>beIN Sports 4</title>
-</programme>
-<programme start="20260210070000 +0000" stop="20260210090000 +0000" channel="beIN SPORTS 4.mncvision">
-    <title>beIN Sports 4</title>
-</programme>
-<programme start="20260210090000 +0000" stop="20260210110000 +0000" channel="beIN SPORTS 4.mncvision">
-    <title>beIN Sports 4</title>
-</programme>
-<programme start="20260210110000 +0000" stop="20260210130000 +0000" channel="beIN SPORTS 4.mncvision">
-    <title>beIN Sports 4</title>
-</programme>
-<programme start="20260210130000 +0000" stop="20260210150000 +0000" channel="beIN SPORTS 4.mncvision">
-    <title>beIN Sports 4</title>
-</programme>
-<programme start="20260210150000 +0000" stop="20260210153000 +0000" channel="beIN SPORTS 4.mncvision">
-    <title>beIN Sports 4</title>
-</programme>
-<programme start="20260209170000 +0000" stop="20260209190000 +0000" channel="beIN SPORTS 5.mncvision">
-    <title>beIN Sports 5</title>
-</programme>
-<programme start="20260209190000 +0000" stop="20260209210000 +0000" channel="beIN SPORTS 5.mncvision">
-    <title>beIN Sports 5</title>
-</programme>
-<programme start="20260209210000 +0000" stop="20260209230000 +0000" channel="beIN SPORTS 5.mncvision">
-    <title>beIN Sports 5</title>
-</programme>
-<programme start="20260209230000 +0000" stop="20260210010000 +0000" channel="beIN SPORTS 5.mncvision">
-    <title>beIN Sports 5</title>
-</programme>
-<programme start="20260210010000 +0000" stop="20260210030000 +0000" channel="beIN SPORTS 5.mncvision">
-    <title>beIN Sports 5</title>
-</programme>
-<programme start="20260210030000 +0000" stop="20260210050000 +0000" channel="beIN SPORTS 5.mncvision">
-    <title>beIN Sports 5</title>
-</programme>
-<programme start="20260210050000 +0000" stop="20260210070000 +0000" channel="beIN SPORTS 5.mncvision">
-    <title>beIN Sports 5</title>
-</programme>
-<programme start="20260210070000 +0000" stop="20260210090000 +0000" channel="beIN SPORTS 5.mncvision">
-    <title>beIN Sports 5</title>
-</programme>
-<programme start="20260210090000 +0000" stop="20260210110000 +0000" channel="beIN SPORTS 5.mncvision">
-    <title>beIN Sports 5</title>
-</programme>
-<programme start="20260210110000 +0000" stop="20260210130000 +0000" channel="beIN SPORTS 5.mncvision">
-    <title>beIN Sports 5</title>
-</programme>
-<programme start="20260210130000 +0000" stop="20260210150000 +0000" channel="beIN SPORTS 5.mncvision">
-    <title>beIN Sports 5</title>
-</programme>
-<programme start="20260210150000 +0000" stop="20260210153000 +0000" channel="beIN SPORTS 5.mncvision">
-    <title>beIN Sports 5</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260209170000 +0000" stop="20260209180000 +0000" channel="Bloomberg.mncvision">
     <title>Bloomberg ETF IQ</title>
 </programme>
@@ -5638,75 +5568,7 @@
 <programme start="20260210163500 +0000" stop="20260209170500 +0000" channel="Love Nature HD.mncvision">
     <title>Extreme Africa S1, Ep 1</title>
 </programme>
-<programme start="20260209180000 +0000" stop="20260209184500 +0000" channel="MDTV.mncvision">
-    <title>Jatanras</title>
-</programme>
-<programme start="20260209184500 +0000" stop="20260209193000 +0000" channel="MDTV.mncvision">
-    <title>86</title>
-</programme>
-<programme start="20260209193000 +0000" stop="20260209201500 +0000" channel="MDTV.mncvision">
-    <title>Inilah Kisahnya</title>
-</programme>
-<programme start="20260209201500 +0000" stop="20260209211500 +0000" channel="MDTV.mncvision">
-    <title>Di Balik Mitos</title>
-</programme>
-<programme start="20260209211500 +0000" stop="20260209222500 +0000" channel="MDTV.mncvision">
-    <title>Keajaiban Dunia</title>
-</programme>
-<programme start="20260209222500 +0000" stop="20260209234000 +0000" channel="MDTV.mncvision">
-    <title>Top Spot</title>
-</programme>
-<programme start="20260209234000 +0000" stop="20260210010000 +0000" channel="MDTV.mncvision">
-    <title>AADD: Ada Apa Dengan Dunia</title>
-</programme>
-<programme start="20260210010000 +0000" stop="20260210015500 +0000" channel="MDTV.mncvision">
-    <title>Fakta +62</title>
-</programme>
-<programme start="20260210015500 +0000" stop="20260210025500 +0000" channel="MDTV.mncvision">
-    <title>SensasiHot</title>
-</programme>
-<programme start="20260210025500 +0000" stop="20260210041500 +0000" channel="MDTV.mncvision">
-    <title>Rosalinda</title>
-</programme>
-<programme start="20260210041500 +0000" stop="20260210053500 +0000" channel="MDTV.mncvision">
-    <title>Maria Mercedes</title>
-</programme>
-<programme start="20260210053500 +0000" stop="20260210065500 +0000" channel="MDTV.mncvision">
-    <title>Cinta Fitri S6</title>
-</programme>
-<programme start="20260210065500 +0000" stop="20260210075000 +0000" channel="MDTV.mncvision">
-    <title>Makan Enak</title>
-</programme>
-<programme start="20260210075000 +0000" stop="20260210085500 +0000" channel="MDTV.mncvision">
-    <title>Masak Gesss!!!</title>
-</programme>
-<programme start="20260210085500 +0000" stop="20260210095500 +0000" channel="MDTV.mncvision">
-    <title>Adit Sopo Jarwo</title>
-</programme>
-<programme start="20260210095500 +0000" stop="20260210104000 +0000" channel="MDTV.mncvision">
-    <title>Cinta Paulina</title>
-</programme>
-<programme start="20260210104000 +0000" stop="20260210113500 +0000" channel="MDTV.mncvision">
-    <title>Betty La Fea</title>
-</programme>
-<programme start="20260210113500 +0000" stop="20260210123000 +0000" channel="MDTV.mncvision">
-    <title>Esmeralda</title>
-</programme>
-<programme start="20260210123000 +0000" stop="20260210133500 +0000" channel="MDTV.mncvision">
-    <title>Pernikahan Dini Gen Z</title>
-</programme>
-<programme start="20260210133500 +0000" stop="20260210143500 +0000" channel="MDTV.mncvision">
-    <title>Progresnya Berapa Persen?</title>
-</programme>
-<programme start="20260210143500 +0000" stop="20260210153500 +0000" channel="MDTV.mncvision">
-    <title>Satu Amin Dua Iman</title>
-</programme>
-<programme start="20260210153500 +0000" stop="20260210164000 +0000" channel="MDTV.mncvision">
-    <title>Clean With Passion For Now</title>
-</programme>
-<programme start="20260210164000 +0000" stop="20260209171000 +0000" channel="MDTV.mncvision">
-    <title>The World Of The Married</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260209170000 +0000" stop="20260209170500 +0000" channel="Metro TV.mncvision">
     <title>Headline News</title>
 </programme>

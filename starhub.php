@@ -5995,10 +5995,7 @@
     <programme start="20260210153500 +0000" stop="20260210164000 +0000" channel="BBC Earth HD.starhub">
         <title>Expedition Killer Whale (S1)</title>
     </programme>
-    <programme start="20260209141500 +0000" stop="20260209170000 +0000" channel="Hub Sports 6.starhub">
-        <title>ABN Amro Open (500) D1 R1 S2</title>
-    </programme>
-    <programme start="20260209170000 +0000" stop="20260209183000 +0000" channel="Hub Sports 6.starhub">
+    <programme start="20260209160000 +0000" stop="20260209183000 +0000" channel="Hub Sports 6.starhub">
         <title>End of Transmission</title>
     </programme>
     <programme start="20260209183000 +0000" stop="20260209223000 +0000" channel="Hub Sports 6.starhub">
