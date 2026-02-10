@@ -1963,17 +1963,14 @@
     <programme start="20260210044000 +0000" stop="20260210045000 +0000" channel="beIN Sports 3.starhub">
         <title>UCL All Goals - Raheem Stirling</title>
     </programme>
-    <programme start="20260210045000 +0000" stop="20260210050000 +0000" channel="beIN Sports 3.starhub">
-        <title>UCL Classic Matches Barcelona vs Arsenal (2005/06)</title>
+    <programme start="20260210045000 +0000" stop="20260210052000 +0000" channel="beIN Sports 3.starhub">
+        <title>Man United vs Fulham</title>
     </programme>
-    <programme start="20260210050000 +0000" stop="20260210053000 +0000" channel="beIN Sports 3.starhub">
-        <title>MUTV Highlights 2025/26 Man United vs Fulham</title>
-    </programme>
-    <programme start="20260210053000 +0000" stop="20260210073000 +0000" channel="beIN Sports 3.starhub">
+    <programme start="20260210052000 +0000" stop="20260210072000 +0000" channel="beIN Sports 3.starhub">
         <title>MUTV 2025/26: Man United vs Tottenham</title>
     </programme>
-    <programme start="20260210073000 +0000" stop="20260210080000 +0000" channel="beIN Sports 3.starhub">
-        <title>MUTV: Match Day Review 2025/26 Man United vs Tottenham</title>
+    <programme start="20260210072000 +0000" stop="20260210080000 +0000" channel="beIN Sports 3.starhub">
+        <title>Man United vs Tottenham</title>
     </programme>
     <programme start="20260210080000 +0000" stop="20260210083000 +0000" channel="beIN Sports 3.starhub">
         <title>February</title>
@@ -3757,9 +3754,6 @@
     <programme start="20260209174000 +0000" stop="20260209174500 +0000" channel="NHK World Premium HD.starhub">
         <title>World Weather</title>
     </programme>
-    <programme start="20260209174500 +0000" stop="20260209180000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Kid&#039;s Discovery (R)</title>
-    </programme>
     <programme start="20260209180000 +0000" stop="20260209182500 +0000" channel="NHK World Premium HD.starhub">
         <title>With Mother (R)</title>
     </programme>
@@ -3789,9 +3783,6 @@
     </programme>
     <programme start="20260209202500 +0000" stop="20260209205600 +0000" channel="NHK World Premium HD.starhub">
         <title>TBA</title>
-    </programme>
-    <programme start="20260209205600 +0000" stop="20260209210000 +0000" channel="NHK World Premium HD.starhub">
-        <title>World Weather</title>
     </programme>
     <programme start="20260209210000 +0000" stop="20260209220000 +0000" channel="NHK World Premium HD.starhub">
         <title>News: Good Morning, Japan</title>
@@ -3862,8 +3853,11 @@
     <programme start="20260210060500 +0000" stop="20260210061000 +0000" channel="NHK World Premium HD.starhub">
         <title>Giant Trees in Japan Mini</title>
     </programme>
-    <programme start="20260210061000 +0000" stop="20260210064000 +0000" channel="NHK World Premium HD.starhub">
-        <title>TBA</title>
+    <programme start="20260210061000 +0000" stop="20260210063700 +0000" channel="NHK World Premium HD.starhub">
+        <title>Where We Call Home Encore (B) (R)</title>
+    </programme>
+    <programme start="20260210063700 +0000" stop="20260210064000 +0000" channel="NHK World Premium HD.starhub">
+        <title>Mini Program</title>
     </programme>
     <programme start="20260210064000 +0000" stop="20260210065000 +0000" channel="NHK World Premium HD.starhub">
         <title>Points at Issue</title>
@@ -3875,7 +3869,7 @@
         <title>Gentle Journeys (R)</title>
     </programme>
     <programme start="20260210074500 +0000" stop="20260210080000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Nosy&#039;s Inspiring Atelier (R)</title>
+        <title>RAMEN JAPAN 15min.</title>
     </programme>
     <programme start="20260210080000 +0000" stop="20260210081000 +0000" channel="NHK World Premium HD.starhub">
         <title>PythagoraSwitch</title>
@@ -3913,11 +3907,8 @@
     <programme start="20260210105500 +0000" stop="20260210113800 +0000" channel="NHK World Premium HD.starhub">
         <title>Tohoku Local Information Completed Edition</title>
     </programme>
-    <programme start="20260210113800 +0000" stop="20260210115300 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20260210113800 +0000" stop="20260210115500 +0000" channel="NHK World Premium HD.starhub">
         <title>Wild Hokkaido!</title>
-    </programme>
-    <programme start="20260210115300 +0000" stop="20260210115500 +0000" channel="NHK World Premium HD.starhub">
-        <title>Mini Program</title>
     </programme>
     <programme start="20260210115500 +0000" stop="20260210120000 +0000" channel="NHK World Premium HD.starhub">
         <title>News &amp; Weather</title>
@@ -5998,7 +5989,10 @@
     <programme start="20260210153500 +0000" stop="20260210164000 +0000" channel="BBC Earth HD.starhub">
         <title>Expedition Killer Whale (S1)</title>
     </programme>
-    <programme start="20260209160000 +0000" stop="20260209183000 +0000" channel="Hub Sports 6.starhub">
+    <programme start="20260209141500 +0000" stop="20260209170000 +0000" channel="Hub Sports 6.starhub">
+        <title>ABN Amro Open (500) D1 R1 S2</title>
+    </programme>
+    <programme start="20260209170000 +0000" stop="20260209183000 +0000" channel="Hub Sports 6.starhub">
         <title>End of Transmission</title>
     </programme>
     <programme start="20260209183000 +0000" stop="20260209223000 +0000" channel="Hub Sports 6.starhub">

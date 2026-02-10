@@ -2873,8 +2873,8 @@
     <title lang="en">Sukan TVS</title>
     <desc lang="en">Memaparkan laporan, perbincangan dan topik hangat sukan tanah air</desc>
     <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">5.0.</episode-num>
-    <episode-num system="onscreen">S6E1</episode-num>
+    <episode-num system="xmltv_ns">5.1.</episode-num>
+    <episode-num system="onscreen">S6E2</episode-num>
   </programme>
   <programme start="20260210124500 +0000" stop="20260210130000 +0000" channel="tvs.unifitv">
     <title lang="en">Dialog TVS Plus</title>
@@ -15660,7 +15660,7 @@
     <display-name>beIN SPORTS 2</display-name>
   </channel>
   <programme start="20260209153500 +0000" stop="20260209160000 +0000" channel="beinsports2.unifitv">
-    <title lang="en">HSBC SVNS Series - Cup Final - Perth Day 2, Men</title>
+    <title lang="en">HSBC SVNS Series - Fiji vs South Africa - Perth Day 2, Men</title>
     <desc lang="en">Catch the action from the world's very best rugby sevens stars from the top tier of a new three-division global Sevens model, from sunrise to sunset.</desc>
     <category lang="en">Sports</category>
   </programme>
@@ -15822,22 +15822,17 @@
     <desc lang="en">UCL Special - UCL All Goals - Raheem Stirling</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260210045000 +0000" stop="20260210050000 +0000" channel="beinsports3.unifitv">
-    <title lang="en">UCL - Barcelona vs Arsenal (2005/06)</title>
-    <desc lang="en">Take a walk back in time and relive some of the most dramatic and remarkable moments in the UEFA Champions League</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260210050000 +0000" stop="20260210053000 +0000" channel="beinsports3.unifitv">
+  <programme start="20260210045000 +0000" stop="20260210052000 +0000" channel="beinsports3.unifitv">
     <title lang="en">MUTV Highlights - Man United vs Fulham</title>
     <desc lang="en">Enjoy match highlights from Manchester United's Premier League, FA Cup and Carabao Cup games from MUTV on beIN SPORTS</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260210053000 +0000" stop="20260210073000 +0000" channel="beinsports3.unifitv">
+  <programme start="20260210052000 +0000" stop="20260210072000 +0000" channel="beinsports3.unifitv">
     <title lang="en">MUTV - Man United vs Tottenham</title>
     <desc lang="en">Enjoy every Manchester United match from the Premier League, FA Cup and Carabao Cup and friendlies, from MUTV on beIN SPORTS</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260210073000 +0000" stop="20260210080000 +0000" channel="beinsports3.unifitv">
+  <programme start="20260210072000 +0000" stop="20260210080000 +0000" channel="beinsports3.unifitv">
     <title lang="en">MUTV: Match Day Review - Man United vs Tottenham</title>
     <desc lang="en">Directly after the final whistle of every Manchester United match the MUTV team review the game and all the talking points.</desc>
     <category lang="en">Sports</category>
