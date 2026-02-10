@@ -3754,6 +3754,9 @@
     <programme start="20260209174000 +0000" stop="20260209174500 +0000" channel="NHK World Premium HD.starhub">
         <title>World Weather</title>
     </programme>
+    <programme start="20260209174500 +0000" stop="20260209180000 +0000" channel="NHK World Premium HD.starhub">
+        <title>Kid&#039;s Discovery</title>
+    </programme>
     <programme start="20260209180000 +0000" stop="20260209182500 +0000" channel="NHK World Premium HD.starhub">
         <title>With Mother (R)</title>
     </programme>
@@ -3782,7 +3785,10 @@
         <title>Health for Today</title>
     </programme>
     <programme start="20260209202500 +0000" stop="20260209205600 +0000" channel="NHK World Premium HD.starhub">
-        <title>TBA</title>
+        <title>The Great Nature &quot;The Amazon River&quot;</title>
+    </programme>
+    <programme start="20260209205600 +0000" stop="20260209210000 +0000" channel="NHK World Premium HD.starhub">
+        <title>World Weather</title>
     </programme>
     <programme start="20260209210000 +0000" stop="20260209220000 +0000" channel="NHK World Premium HD.starhub">
         <title>News: Good Morning, Japan</title>

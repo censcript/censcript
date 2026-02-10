@@ -3261,7 +3261,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>WTA 1000: T. Maria (GER) - E. Navarro (USA), Qatar Total Energies Open in Doha (Katar). 2. Tag, Qatar Total Energies Open in Doha (Katar). 2. Tag</title>
 </programme>
 <programme start="20260210080000 +0000" stop="20260210100000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: U. Humbert (FRA) - D. Medvedev, ABN AMRO Open in Rotterdam (NLD), 1. Tag, ABN AMRO Open in Rotterdam (NLD), 1. Tag</title>
+    <title>ATP 500: L. Pavlovic (FRA) - B. van de Zandschulp (NED), ABN AMRO Open in Rotterdam (NLD), 1. Tag, ABN AMRO Open in Rotterdam (NLD), 1. Tag</title>
 </programme>
 <programme start="20260210100000 +0000" stop="20260210160000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP 500: ABN AMRO Open in Rotterdam (NLD), 2. Tag</title>
@@ -3335,7 +3335,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260210194500 +0000" stop="20260210200500 +0000" channel="Sky Sport 3 HD.skyde">
     <title>Es folgt: Live Premier League</title>
 </programme>
-<programme start="20260210200500 +0000" stop="20260210221500 +0000" channel="Sky Sport 3 HD.skyde">
+<programme start="20260210200500 +0000" stop="20260210224500 +0000" channel="Sky Sport 3 HD.skyde">
     <title>Live PL: West Ham United - Manchester United, 26. Spieltag</title>
 </programme>
 <programme start="20260210094000 +0000" stop="20260210100000 +0000" channel="Sky Sport 4 HD.skyde">
@@ -3343,6 +3343,12 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 </programme>
 <programme start="20260210100000 +0000" stop="20260210220000 +0000" channel="Sky Sport 4 HD.skyde">
     <title>Live WTA 1000: Qatar Total Energies Open in Doha (Katar), 3. Tag</title>
+</programme>
+<programme start="20260210185500 +0000" stop="20260210191500 +0000" channel="Sky Sport 5 HD.skyde">
+    <title>Es folgt DFB-Pokal:</title>
+</programme>
+<programme start="20260210191500 +0000" stop="20260210233000 +0000" channel="Sky Sport 5 HD.skyde">
+    <title>Live DFB-Pokal: Hertha BSC - SC Freiburg, Viertelfinale</title>
 </programme>
 <programme start="20260209234000 +0000" stop="20260210003000 +0000" channel="SYFY HD.skyde">
     <title>Raumschiff Enterprise - Das nächste Jahrhundert</title>
