@@ -275,16 +275,16 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260210083000 +0000" stop="20260210085500 +0000" channel="Cartoon Network.skyde">
     <title>Tiny Toons Looniversity</title>
 </programme>
-<programme start="20260210085500 +0000" stop="20260210091500 +0000" channel="Cartoon Network.skyde">
+<programme start="20260210085500 +0000" stop="20260210092000 +0000" channel="Cartoon Network.skyde">
     <title>Totally Spies!</title>
 </programme>
-<programme start="20260210091500 +0000" stop="20260210093000 +0000" channel="Cartoon Network.skyde">
+<programme start="20260210092000 +0000" stop="20260210093000 +0000" channel="Cartoon Network.skyde">
     <title>Die wunderbar schräge Welt von Gumball</title>
 </programme>
-<programme start="20260210093000 +0000" stop="20260210094000 +0000" channel="Cartoon Network.skyde">
+<programme start="20260210093000 +0000" stop="20260210094500 +0000" channel="Cartoon Network.skyde">
     <title>Die wunderbar schräge Welt von Gumball</title>
 </programme>
-<programme start="20260210094000 +0000" stop="20260210095500 +0000" channel="Cartoon Network.skyde">
+<programme start="20260210094500 +0000" stop="20260210095500 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
 <programme start="20260210095500 +0000" stop="20260210100500 +0000" channel="Cartoon Network.skyde">
@@ -311,19 +311,19 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260210111500 +0000" stop="20260210112500 +0000" channel="Cartoon Network.skyde">
     <title>Clarence</title>
 </programme>
-<programme start="20260210112500 +0000" stop="20260210113500 +0000" channel="Cartoon Network.skyde">
+<programme start="20260210112500 +0000" stop="20260210114000 +0000" channel="Cartoon Network.skyde">
     <title>Clarence</title>
 </programme>
-<programme start="20260210113500 +0000" stop="20260210115000 +0000" channel="Cartoon Network.skyde">
+<programme start="20260210114000 +0000" stop="20260210115000 +0000" channel="Cartoon Network.skyde">
     <title>Die wunderbar schräge Welt von Gumball</title>
 </programme>
 <programme start="20260210115000 +0000" stop="20260210120000 +0000" channel="Cartoon Network.skyde">
     <title>Die wunderbar schräge Welt von Gumball</title>
 </programme>
-<programme start="20260210120000 +0000" stop="20260210121000 +0000" channel="Cartoon Network.skyde">
+<programme start="20260210120000 +0000" stop="20260210121500 +0000" channel="Cartoon Network.skyde">
     <title>Die wunderbar schräge Welt von Gumball</title>
 </programme>
-<programme start="20260210121000 +0000" stop="20260210122500 +0000" channel="Cartoon Network.skyde">
+<programme start="20260210121500 +0000" stop="20260210122500 +0000" channel="Cartoon Network.skyde">
     <title>Lana Longbeard</title>
 </programme>
 <programme start="20260210122500 +0000" stop="20260210123500 +0000" channel="Cartoon Network.skyde">
@@ -341,10 +341,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260210131000 +0000" stop="20260210132000 +0000" channel="Cartoon Network.skyde">
     <title>Teen Titans Go!</title>
 </programme>
-<programme start="20260210132000 +0000" stop="20260210133000 +0000" channel="Cartoon Network.skyde">
+<programme start="20260210132000 +0000" stop="20260210133500 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20260210133000 +0000" stop="20260210134500 +0000" channel="Cartoon Network.skyde">
+<programme start="20260210133500 +0000" stop="20260210134500 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
 <programme start="20260210134500 +0000" stop="20260210135500 +0000" channel="Cartoon Network.skyde">
@@ -374,10 +374,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260210154000 +0000" stop="20260210155000 +0000" channel="Cartoon Network.skyde">
     <title>Clarence</title>
 </programme>
-<programme start="20260210155000 +0000" stop="20260210160000 +0000" channel="Cartoon Network.skyde">
+<programme start="20260210155000 +0000" stop="20260210160500 +0000" channel="Cartoon Network.skyde">
     <title>Clarence</title>
 </programme>
-<programme start="20260210160000 +0000" stop="20260210161500 +0000" channel="Cartoon Network.skyde">
+<programme start="20260210160500 +0000" stop="20260210161500 +0000" channel="Cartoon Network.skyde">
     <title>Teen Titans Go!</title>
 </programme>
 <programme start="20260210161500 +0000" stop="20260210162500 +0000" channel="Cartoon Network.skyde">
@@ -398,10 +398,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260210171000 +0000" stop="20260210172000 +0000" channel="Cartoon Network.skyde">
     <title>Lana Longbeard</title>
 </programme>
-<programme start="20260210172000 +0000" stop="20260210173500 +0000" channel="Cartoon Network.skyde">
+<programme start="20260210172000 +0000" stop="20260210173000 +0000" channel="Cartoon Network.skyde">
     <title>Lana Longbeard</title>
 </programme>
-<programme start="20260210173500 +0000" stop="20260210174500 +0000" channel="Cartoon Network.skyde">
+<programme start="20260210173000 +0000" stop="20260210174500 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
 <programme start="20260210174500 +0000" stop="20260210175500 +0000" channel="Cartoon Network.skyde">
@@ -470,10 +470,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260210220000 +0000" stop="20260210221000 +0000" channel="Cartoon Network.skyde">
     <title>Regular Show - Völlig abgedreht</title>
 </programme>
-<programme start="20260210221000 +0000" stop="20260210222500 +0000" channel="Cartoon Network.skyde">
+<programme start="20260210221000 +0000" stop="20260210222000 +0000" channel="Cartoon Network.skyde">
     <title>Regular Show - Völlig abgedreht</title>
 </programme>
-<programme start="20260210222500 +0000" stop="20260210223500 +0000" channel="Cartoon Network.skyde">
+<programme start="20260210222000 +0000" stop="20260210223500 +0000" channel="Cartoon Network.skyde">
     <title>Regular Show - Völlig abgedreht</title>
 </programme>
 <programme start="20260210223500 +0000" stop="20260210225500 +0000" channel="Cartoon Network.skyde">
@@ -932,35 +932,41 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260209230000 +0000" stop="20260210070000 +0000" channel="DAZN 1 HD.skyde">
     <title>Sendepause</title>
 </programme>
-<programme start="20260210070000 +0000" stop="20260210074000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260210070000 +0000" stop="20260210072000 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20260210074000 +0000" stop="20260210085000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260210072000 +0000" stop="20260210083000 +0000" channel="DAZN 1 HD.skyde">
     <title>ALL IN - Die Bundesliga Highlight Show: 21. Spieltag</title>
 </programme>
-<programme start="20260210085000 +0000" stop="20260210105500 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260210083000 +0000" stop="20260210103500 +0000" channel="DAZN 1 HD.skyde">
     <title>Bundesliga: 1. FC Union Berlin - Eintracht Frankfurt</title>
 </programme>
-<programme start="20260210105500 +0000" stop="20260210130000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260210103500 +0000" stop="20260210123000 +0000" channel="DAZN 1 HD.skyde">
     <title>Ligue 1 25/26: PSG - Olympique Marseille</title>
+</programme>
+<programme start="20260210123000 +0000" stop="20260210130000 +0000" channel="DAZN 1 HD.skyde">
+    <title>Best of DAZN: Highlights</title>
 </programme>
 <programme start="20260210130000 +0000" stop="20260210150000 +0000" channel="DAZN 1 HD.skyde">
     <title>Bundesliga: FC Bayern München - TSG 1899 Hoffenheim</title>
 </programme>
-<programme start="20260210150000 +0000" stop="20260210152000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260210150000 +0000" stop="20260210153000 +0000" channel="DAZN 1 HD.skyde">
     <title>Das Herz des deutschen Fußballs: Episode 1</title>
 </programme>
-<programme start="20260210152000 +0000" stop="20260210155000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260210153000 +0000" stop="20260210154000 +0000" channel="DAZN 1 HD.skyde">
     <title>Das Herz des deutschen Fußballs: Episode 2</title>
 </programme>
-<programme start="20260210155000 +0000" stop="20260210175500 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260210154000 +0000" stop="20260210174500 +0000" channel="DAZN 1 HD.skyde">
     <title>Bundesliga: Borussia M&#039;gladbach - Bayer 04 Leverkusen</title>
 </programme>
-<programme start="20260210175500 +0000" stop="20260210191000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260210174500 +0000" stop="20260210190000 +0000" channel="DAZN 1 HD.skyde">
     <title>ALL IN - Die Bundesliga Highlight Show: 21. Spieltag</title>
 </programme>
-<programme start="20260210191000 +0000" stop="20260210194500 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260210190000 +0000" stop="20260210193000 +0000" channel="DAZN 1 HD.skyde">
     <title>Doppelpack Europa - Highlights der Serie A und Ligue 1 2025/26: 24./21. Spieltag</title>
+</programme>
+<programme start="20260210193000 +0000" stop="20260210194500 +0000" channel="DAZN 1 HD.skyde">
+    <title>Best of DAZN: Highlights</title>
 </programme>
 <programme start="20260210194500 +0000" stop="20260210220000 +0000" channel="DAZN 1 HD.skyde">
     <title>Coppa Italia 25/26: SSC Neapel - Como 1907</title>
@@ -3029,10 +3035,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260210000000 +0000" stop="20260210003000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Frauen-BL: Alle Spiele, alle Tore, 17. Spieltag komplett</title>
 </programme>
-<programme start="20260210003000 +0000" stop="20260210031500 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260210003000 +0000" stop="20260210030000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NBA: Milwaukee Bucks @ Orlando Magic</title>
 </programme>
-<programme start="20260210031500 +0000" stop="20260210053000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260210030000 +0000" stop="20260210053000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NBA: Oklahoma City Thunder @ LA Lakers</title>
 </programme>
 <programme start="20260210053000 +0000" stop="20260210063000 +0000" channel="Sky Sport Mix HD.skyde">
@@ -3255,7 +3261,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>WTA 1000: T. Maria (GER) - E. Navarro (USA), Qatar Total Energies Open in Doha (Katar). 2. Tag, Qatar Total Energies Open in Doha (Katar). 2. Tag</title>
 </programme>
 <programme start="20260210080000 +0000" stop="20260210100000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: U. Humbert (FRA) - D. Medvedev, ABN AMRO Open in Rotterdam (NLD), 1. Tag, ABN AMRO Open in Rotterdam (NLD), 1. Tag</title>
+    <title>ATP 500: L. Pavlovic (FRA) - B. van de Zandschulp (NED), ABN AMRO Open in Rotterdam (NLD), 1. Tag, ABN AMRO Open in Rotterdam (NLD), 1. Tag</title>
 </programme>
 <programme start="20260210100000 +0000" stop="20260210160000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP 500: ABN AMRO Open in Rotterdam (NLD), 2. Tag</title>
@@ -3263,14 +3269,11 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260210160000 +0000" stop="20260211000000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP &amp; WTA: Die Topspiele des Tages</title>
 </programme>
-<programme start="20260209233000 +0000" stop="20260210000000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>ATP: This Week</title>
+<programme start="20260209230000 +0000" stop="20260210000000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Live BL: Glanzparade - Die Show mit Buschmann, Fuss und Wagner</title>
 </programme>
-<programme start="20260210000000 +0000" stop="20260210001500 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>BL: Torparade 21. Spieltag</title>
-</programme>
-<programme start="20260210001500 +0000" stop="20260210003000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>2. BL: Torparade 21. Spieltag</title>
+<programme start="20260210000000 +0000" stop="20260210003000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Frauen-BL: Alle Spiele, alle Tore, 17. Spieltag komplett</title>
 </programme>
 <programme start="20260210003000 +0000" stop="20260210030000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Milwaukee Bucks @ Orlando Magic</title>
@@ -3320,13 +3323,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260210190000 +0000" stop="20260210192000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: Live Premier League</title>
 </programme>
-<programme start="20260210192000 +0000" stop="20260210213000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260210192000 +0000" stop="20260210220000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live PL: FC Chelsea - Leeds United, 26. Spieltag</title>
 </programme>
 <programme start="20260210190000 +0000" stop="20260210192000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Es folgt: Live Premier League</title>
 </programme>
-<programme start="20260210192000 +0000" stop="20260210213000 +0000" channel="Sky Sport 2 HD.skyde">
+<programme start="20260210192000 +0000" stop="20260210220000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live PL: FC Everton - AFC Bournemouth, 26. Spieltag</title>
 </programme>
 <programme start="20260210194500 +0000" stop="20260210200500 +0000" channel="Sky Sport 3 HD.skyde">
@@ -3344,7 +3347,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260210185500 +0000" stop="20260210191500 +0000" channel="Sky Sport 5 HD.skyde">
     <title>Es folgt DFB-Pokal:</title>
 </programme>
-<programme start="20260210191500 +0000" stop="20260210223000 +0000" channel="Sky Sport 5 HD.skyde">
+<programme start="20260210191500 +0000" stop="20260210233000 +0000" channel="Sky Sport 5 HD.skyde">
     <title>Live DFB-Pokal: Hertha BSC - SC Freiburg, Viertelfinale</title>
 </programme>
 <programme start="20260209234000 +0000" stop="20260210003000 +0000" channel="SYFY HD.skyde">
