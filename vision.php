@@ -664,9 +664,6 @@
 <programme start="20260210003000 +0000" stop="20260210023000 +0000" channel="ANTV.vision">
 <title>Janji Inspektur Virat</title>
 </programme>
-<programme start="20260210023000 +0000" stop="20260210060000 +0000" channel="ANTV.vision">
-<title>Dhoom</title>
-</programme>
 <programme start="20260210060000 +0000" stop="20260210083000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20260211083000 +0000" stop="20260211103000 +0000" channel="BTV.vision">
 <title>Berita Satu Sore</title>
+</programme>
+<programme start="20260211103000 +0000" stop="20260211110000 +0000" channel="BTV.vision">
+<title>Berita Kriminal</title>
 </programme>
