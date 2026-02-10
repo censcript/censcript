@@ -2894,7 +2894,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260210220000 +0000" stop="20260211000000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
     <title>2. BL: SV Darmstadt 98 - 1. FC Kaiserslautern, tipico Topspiel der Woche, 21. Spieltag</title>
 </programme>
-<programme start="20260210140000 +0000" stop="20260210200000 +0000" channel="Sky Sport Bundesliga 8 HD.skyde">
+<programme start="20260210140000 +0000" stop="20260210173500 +0000" channel="Sky Sport Bundesliga 8 HD.skyde">
     <title>Test Bundesliga 08</title>
 </programme>
 <programme start="20260209230000 +0000" stop="20260210000000 +0000" channel="Sky Sport F1 HD.skyde">
@@ -3029,10 +3029,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260210000000 +0000" stop="20260210003000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Frauen-BL: Alle Spiele, alle Tore, 17. Spieltag komplett</title>
 </programme>
-<programme start="20260210003000 +0000" stop="20260210030000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260210003000 +0000" stop="20260210031500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NBA: Milwaukee Bucks @ Orlando Magic</title>
 </programme>
-<programme start="20260210030000 +0000" stop="20260210053000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260210031500 +0000" stop="20260210053000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NBA: Oklahoma City Thunder @ LA Lakers</title>
 </programme>
 <programme start="20260210053000 +0000" stop="20260210063000 +0000" channel="Sky Sport Mix HD.skyde">
@@ -3255,7 +3255,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>WTA 1000: T. Maria (GER) - E. Navarro (USA), Qatar Total Energies Open in Doha (Katar). 2. Tag, Qatar Total Energies Open in Doha (Katar). 2. Tag</title>
 </programme>
 <programme start="20260210080000 +0000" stop="20260210100000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: L. Pavlovic (FRA) - B. van de Zandschulp (NED), ABN AMRO Open in Rotterdam (NLD), 1. Tag, ABN AMRO Open in Rotterdam (NLD), 1. Tag</title>
+    <title>ATP 500: U. Humbert (FRA) - D. Medvedev, ABN AMRO Open in Rotterdam (NLD), 1. Tag, ABN AMRO Open in Rotterdam (NLD), 1. Tag</title>
 </programme>
 <programme start="20260210100000 +0000" stop="20260210160000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP 500: ABN AMRO Open in Rotterdam (NLD), 2. Tag</title>
@@ -3264,21 +3264,21 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Live ATP &amp; WTA: Die Topspiele des Tages</title>
 </programme>
 <programme start="20260209230000 +0000" stop="20260210000000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live BL: Glanzparade - Die Show mit Buschmann, Fuss und Wagner</title>
+    <title>BL: Glanzparade - Die Show mit Buschmann, Fuss und Wagner</title>
 </programme>
 <programme start="20260210000000 +0000" stop="20260210003000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Frauen-BL: Alle Spiele, alle Tore, 17. Spieltag komplett</title>
 </programme>
-<programme start="20260210003000 +0000" stop="20260210030000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260210003000 +0000" stop="20260210031500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Milwaukee Bucks @ Orlando Magic</title>
 </programme>
-<programme start="20260210030000 +0000" stop="20260210053000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260210031500 +0000" stop="20260210054500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Oklahoma City Thunder @ LA Lakers</title>
 </programme>
-<programme start="20260210053000 +0000" stop="20260210063000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260210054500 +0000" stop="20260210063500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>PL: Review, 25. Spieltag</title>
 </programme>
-<programme start="20260210063000 +0000" stop="20260210073000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260210063500 +0000" stop="20260210073000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>3. Liga: Alle Spiele, alle Tore, 23. Spieltag komplett</title>
 </programme>
 <programme start="20260210073000 +0000" stop="20260210080000 +0000" channel="Sky Sport Top Event HD.skyde">
