@@ -58,10 +58,6 @@
     <title>Football: Maccabi Tel-Aviv FC - Bologna</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260212033000 +0700" stop="20260212054500 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Levadiakos - OFI</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260212054500 +0700" stop="20260212074500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Lecce - Udinese</title>
     <desc>Live: Tidak</desc>
@@ -118,6 +114,10 @@
     <title>Football: Olympiacos - Panathinaikos</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260213064000 +0700" stop="20260213070000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Sports Classics: Worldies E2</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260212050000 +0700" stop="20260212070000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Sheffield United - Middlesbrough</title>
     <desc>Live: Tidak</desc>
@@ -168,6 +168,10 @@
 </programme>
 <programme start="20260213020000 +0700" stop="20260213063000 +0700" channel="COSMOTE Sport 3 HD">
     <title>American Football: New England Patriots - Seattle Seahawks</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260213063000 +0700" stop="20260213070000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Emirates FA Cup 2025-26 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260212043000 +0700" stop="20260212070000 +0700" channel="COSMOTE Sport 4 HD">
@@ -226,8 +230,8 @@
     <title>Basketball: Golden State Warriors - San Antonio Spurs</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260212043000 +0700" stop="20260212053000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>MotoGP Classics</title>
+<programme start="20260213064500 +0700" stop="20260213084500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Brescia - Virtus Bologna</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260212053000 +0700" stop="20260212063000 +0700" channel="COSMOTE Sport 5 HD">
@@ -334,9 +338,13 @@
     <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260212033000 +0700" stop="20260212060000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: Tallon Griekspoor - Quentin Halys  (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20260213061000 +0700" stop="20260213064000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260213064000 +0700" stop="20260213075000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>2025 Extreme H</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260212060000 +0700" stop="20260212073500 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Stefanos Tsitsipas - Arthur Rinderknech</title>
@@ -401,6 +409,10 @@
 <programme start="20260213033000 +0700" stop="20260213060000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP 500 2026 (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20260213060000 +0700" stop="20260213083000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: Botic van de Zandschulp - Stefanos Tsitsipas</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260212050000 +0700" stop="20260212070000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>

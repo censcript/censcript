@@ -1240,10 +1240,10 @@
   <programme start="20260213111000 +0000" stop="20260213122500 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">FIS Svetový pohár obrovský slalom muži</title>
   </programme>
-  <programme start="20260213122500 +0000" stop="20260213134500 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260213122500 +0000" stop="20260213134000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Skialpinizmus Svetový pohár</title>
   </programme>
-  <programme start="20260213134500 +0000" stop="20260213160000 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260213134000 +0000" stop="20260213160000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Hokej - Tipsport liga</title>
   </programme>
   <programme start="20260213160000 +0000" stop="20260213162500 +0000" channel="JOJ Šport.webtv.sk">
@@ -1252,11 +1252,8 @@
   <programme start="20260213162500 +0000" stop="20260213194000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Hokej - Tipsport liga</title>
   </programme>
-  <programme start="20260213194000 +0000" stop="20260213223500 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260213194000 +0000" stop="20260213231000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Volejbal Slovenský pohár ženy</title>
-  </programme>
-  <programme start="20260213223500 +0000" stop="20260214005000 +0000" channel="JOJ Šport.webtv.sk">
-    <title lang="id">IIHF MS juniorov 2025</title>
   </programme>
   <programme start="20260212220000 +0000" stop="20260212234000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">FIS Svetový pohár Super G ženy</title>
@@ -1588,10 +1585,7 @@
   <programme start="20260213090000 +0000" stop="20260213093000 +0000" channel="TA3.webtv.sk">
     <title lang="id">Správy</title>
   </programme>
-  <programme start="20260213093000 +0000" stop="20260213094500 +0000" channel="TA3.webtv.sk">
-    <title lang="id">Šport z blízka</title>
-  </programme>
-  <programme start="20260213094500 +0000" stop="20260213100000 +0000" channel="TA3.webtv.sk">
+  <programme start="20260213093000 +0000" stop="20260213100000 +0000" channel="TA3.webtv.sk">
     <title lang="id">Štúdio TA3</title>
   </programme>
   <programme start="20260213100000 +0000" stop="20260213103000 +0000" channel="TA3.webtv.sk">
