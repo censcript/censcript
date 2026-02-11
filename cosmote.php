@@ -1,7 +1,3 @@
-<programme start="20260212003000 +0700" stop="20260212013000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Greek Cup Time - Pregame (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
 <programme start="20260212013000 +0700" stop="20260212034500 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: PAOK - Panathinaikos (L)</title>
     <desc>Live: Ya</desc>
@@ -62,10 +58,6 @@
     <title>Football: SL Benfica - Real Madrid CF</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260212010000 +0700" stop="20260212013000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Serie A Full Impact 2024-25 E24</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260212013000 +0700" stop="20260212033000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Genoa - SSC Napoli</title>
     <desc>Live: Tidak</desc>
@@ -122,8 +114,8 @@
     <title>Football: Levadiakos - OFI</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260212000000 +0700" stop="20260212020000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: APOEL - AEK Larnaca</title>
+<programme start="20260213021500 +0700" stop="20260213043000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: PAOK - Panathinaikos</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260212020000 +0700" stop="20260212023000 +0700" channel="COSMOTE Sport 3 HD">
@@ -186,16 +178,8 @@
     <title>William Hill Scottish Premiership - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260212004000 +0700" stop="20260212011000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>NBA Specials</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260212011000 +0700" stop="20260212013000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Sports Classics: Worldies E1</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260212013000 +0700" stop="20260212020000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>ACB Liga Endesa 2025-26 - Fifth Quarter E18</title>
+<programme start="20260213020000 +0700" stop="20260213063000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>American Football: New England Patriots - Seattle Seahawks</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260212020000 +0700" stop="20260212041000 +0700" channel="COSMOTE Sport 4 HD">
@@ -358,8 +342,8 @@
     <title>WRC: More Than Machine S2 E5</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260212005500 +0700" stop="20260212013000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Sports Classics: 2025 Outdoor Specials</title>
+<programme start="20260213021500 +0700" stop="20260213030000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC: More Than Machine S2 E6</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260212013000 +0700" stop="20260212033000 +0700" channel="COSMOTE Sport 6 HD">
@@ -429,18 +413,6 @@
 <programme start="20260213013000 +0700" stop="20260213033000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP 500 2026 (L)</title>
     <desc>Live: Ya</desc>
-</programme>
-<programme start="20260211230000 +0700" stop="20260212010500 +0700" channel="COSMOTE Sport 7 HD">
-    <title>World Athletics Indoor Tour Gold 2026 (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20260212010500 +0700" stop="20260212013000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260212013000 +0700" stop="20260212020000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
-    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260212020000 +0700" stop="20260212030000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
