@@ -1333,10 +1333,10 @@
 <programme start="20260210232000 +0000" stop="20260210234000 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20260210234000 +0000" stop="20260211000000 +0000" channel="Nick Jr..skyde">
+<programme start="20260210234000 +0000" stop="20260211000500 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20260211000000 +0000" stop="20260211001500 +0000" channel="Nick Jr..skyde">
+<programme start="20260211000500 +0000" stop="20260211001500 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
 <programme start="20260211001500 +0000" stop="20260211002500 +0000" channel="Nick Jr..skyde">
@@ -1363,10 +1363,10 @@
 <programme start="20260211015500 +0000" stop="20260211022000 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20260211022000 +0000" stop="20260211024000 +0000" channel="Nick Jr..skyde">
+<programme start="20260211022000 +0000" stop="20260211024500 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20260211024000 +0000" stop="20260211030500 +0000" channel="Nick Jr..skyde">
+<programme start="20260211024500 +0000" stop="20260211030500 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
 </programme>
 <programme start="20260211030500 +0000" stop="20260211033000 +0000" channel="Nick Jr..skyde">
@@ -1378,10 +1378,10 @@
 <programme start="20260211035000 +0000" stop="20260211041500 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260211041500 +0000" stop="20260211044000 +0000" channel="Nick Jr..skyde">
+<programme start="20260211041500 +0000" stop="20260211043500 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260211044000 +0000" stop="20260211050000 +0000" channel="Nick Jr..skyde">
+<programme start="20260211043500 +0000" stop="20260211050000 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
 <programme start="20260211050000 +0000" stop="20260211052000 +0000" channel="Nick Jr..skyde">
@@ -2765,7 +2765,7 @@
     <title>2. BL: 90in30: SVD - FCK, 21. Spieltag</title>
 </programme>
 <programme start="20260211210000 +0000" stop="20260211230000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: Klassiker der Woche</title>
+    <title>BL: Klassiker der Woche: SVW - FCB (2006/07)</title>
 </programme>
 <programme start="20260211000000 +0000" stop="20260211020000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
     <title>BL: Borussia M&#039;gladbach - Bayer Leverkusen, tipico Topspiel der Woche, 21. Spieltag</title>
@@ -2782,7 +2782,7 @@
 <programme start="20260211080000 +0000" stop="20260211081500 +0000" channel="Sky Sport Bundesliga UHD.skyde">
     <title>Info: UHD</title>
 </programme>
-<programme start="20260211140000 +0000" stop="20260211200000 +0000" channel="Sky Sport Bundesliga 8 HD.skyde">
+<programme start="20260211120000 +0000" stop="20260211200000 +0000" channel="Sky Sport Bundesliga 8 HD.skyde">
     <title>Test Bundesliga 08</title>
 </programme>
 <programme start="20260210230000 +0000" stop="20260211010000 +0000" channel="Sky Sport F1 HD.skyde">
@@ -2914,8 +2914,8 @@
 <programme start="20260211203000 +0000" stop="20260211233000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf Ladies ET: PIF Saudi Ladies International, 1. Tag in Riad (Saudi-Arabien)</title>
 </programme>
-<programme start="20260211003000 +0000" stop="20260211010000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>Fußball: scooore Niederlande! Alle Tore</title>
+<programme start="20260210231000 +0000" stop="20260211010000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>DFB-Pokal: Bayer Leverkusen - FC St. Pauli, Viertelfinale</title>
 </programme>
 <programme start="20260211010000 +0000" stop="20260211030000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>DFB-Pokal: Hertha BSC - SC Freiburg, Viertelfinale</title>
@@ -3112,6 +3112,9 @@
 <programme start="20260211160000 +0000" stop="20260211233000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP &amp; WTA: Die Topspiele des Tages</title>
 </programme>
+<programme start="20260210231000 +0000" stop="20260211000000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Live ATP &amp; WTA: Die Topspiele des Tages</title>
+</programme>
 <programme start="20260211000000 +0000" stop="20260211010000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>ATP Finals: Review Turin 2025</title>
 </programme>
@@ -3175,37 +3178,37 @@
 <programme start="20260211190000 +0000" stop="20260211192000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: Live Premier League</title>
 </programme>
-<programme start="20260211192000 +0000" stop="20260211213000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260211192000 +0000" stop="20260211220000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live PL: Manchester City - FC Fulham, 26. Spieltag</title>
 </programme>
 <programme start="20260211190000 +0000" stop="20260211192000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Es folgt: Live Premier League</title>
 </programme>
-<programme start="20260211192000 +0000" stop="20260211220000 +0000" channel="Sky Sport 2 HD.skyde">
+<programme start="20260211192000 +0000" stop="20260211213000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live PL: Aston Villa - Brighton &amp; Hove Albion, 26. Spieltag</title>
 </programme>
 <programme start="20260211190000 +0000" stop="20260211192000 +0000" channel="Sky Sport 3 HD.skyde">
     <title>Es folgt: Live Premier League</title>
 </programme>
-<programme start="20260211192000 +0000" stop="20260211220000 +0000" channel="Sky Sport 3 HD.skyde">
+<programme start="20260211192000 +0000" stop="20260211213000 +0000" channel="Sky Sport 3 HD.skyde">
     <title>Live PL: Crystal Palace - FC Burnley, 26. Spieltag</title>
 </programme>
 <programme start="20260211190000 +0000" stop="20260211192000 +0000" channel="Sky Sport 4 HD.skyde">
     <title>Es folgt: Live Premier League</title>
 </programme>
-<programme start="20260211192000 +0000" stop="20260211220000 +0000" channel="Sky Sport 4 HD.skyde">
+<programme start="20260211192000 +0000" stop="20260211213000 +0000" channel="Sky Sport 4 HD.skyde">
     <title>Live PL: Nottingham Forest - Wolverhampton Wanderers, 26. Spieltag</title>
 </programme>
 <programme start="20260211094000 +0000" stop="20260211100000 +0000" channel="Sky Sport 5 HD.skyde">
     <title>Es folgt: Live Tennis WTA Tour</title>
 </programme>
-<programme start="20260211100000 +0000" stop="20260211220000 +0000" channel="Sky Sport 5 HD.skyde">
+<programme start="20260211100000 +0000" stop="20260211200000 +0000" channel="Sky Sport 5 HD.skyde">
     <title>Live WTA 1000: Qatar Total Energies Open in Doha (Katar), 4. Tag</title>
 </programme>
 <programme start="20260211184000 +0000" stop="20260211190000 +0000" channel="Sky Sport 6 HD.skyde">
-    <title>Es folgt DFB-Pokal:</title>
+    <title>Es folgt: LIVE DFB-Pokal</title>
 </programme>
-<programme start="20260211190000 +0000" stop="20260211223000 +0000" channel="Sky Sport 6 HD.skyde">
+<programme start="20260211190000 +0000" stop="20260211233000 +0000" channel="Sky Sport 6 HD.skyde">
     <title>Live DFB-Pokal: FC Bayern München - RB Leipzig, Viertelfinale</title>
 </programme>
 <programme start="20260211184000 +0000" stop="20260211190000 +0000" channel="Sky Sport 7 HD.skyde">

@@ -794,7 +794,7 @@
         <title>Gutfeld!</title>
     </programme>
     <programme start="20260211090000 +0000" stop="20260211100000 +0000" channel="Fox News Channel.starhub">
-        <title>The Ingraham Angle</title>
+        <title>FOX News @Night</title>
     </programme>
     <programme start="20260211100000 +0000" stop="20260211110000 +0000" channel="Fox News Channel.starhub">
         <title>FOX &amp; Friends First</title>
@@ -3248,7 +3248,7 @@
         <title>Best of DW-online Content</title>
     </programme>
     <programme start="20260210233000 +0000" stop="20260211000000 +0000" channel="DW English HD.starhub">
-        <title>What connects us all</title>
+        <title>Return to Syria: Rebuilding and seeking justice in Yarmouk</title>
     </programme>
     <programme start="20260211000000 +0000" stop="20260211000200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3257,7 +3257,7 @@
         <title>News in Review</title>
     </programme>
     <programme start="20260211003000 +0000" stop="20260211010000 +0000" channel="DW English HD.starhub">
-        <title>Your Business Magazine</title>
+        <title>Decommissioning - are nuclear power plants a billion-dollar grave?</title>
     </programme>
     <programme start="20260211010000 +0000" stop="20260211011500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3272,16 +3272,16 @@
         <title>News in Review</title>
     </programme>
     <programme start="20260211023000 +0000" stop="20260211030000 +0000" channel="DW English HD.starhub">
-        <title>What connects us all</title>
+        <title>Return to Syria: Rebuilding and seeking justice in Yarmouk</title>
     </programme>
     <programme start="20260211030000 +0000" stop="20260211031500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20260211031500 +0000" stop="20260211033000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>MSC 2026 Preview: JD Vance’s absence, AfD invite and Germany’s responsibility for European security</title>
     </programme>
     <programme start="20260211033000 +0000" stop="20260211040000 +0000" channel="DW English HD.starhub">
-        <title>The Environment Magazine</title>
+        <title>The fight to save Libya’s endangered sea turtles</title>
     </programme>
     <programme start="20260211040000 +0000" stop="20260211041500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3296,13 +3296,13 @@
         <title>News in Review</title>
     </programme>
     <programme start="20260211053000 +0000" stop="20260211060000 +0000" channel="DW English HD.starhub">
-        <title>Your Business Magazine</title>
+        <title>Decommissioning - are nuclear power plants a billion-dollar grave?</title>
     </programme>
     <programme start="20260211060000 +0000" stop="20260211061500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20260211061500 +0000" stop="20260211063000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>MSC 2026 Preview: JD Vance’s absence, AfD invite and Germany’s responsibility for European security</title>
     </programme>
     <programme start="20260211063000 +0000" stop="20260211070000 +0000" channel="DW English HD.starhub">
         <title>Kidney disease - causes, symptoms and how to treat it</title>
@@ -3311,10 +3311,10 @@
         <title>News</title>
     </programme>
     <programme start="20260211071500 +0000" stop="20260211074500 +0000" channel="DW English HD.starhub">
-        <title>The Current Affairs Documentary</title>
+        <title>Pride Against the Ban - LGBTQ+ Resistance to Orbán</title>
     </programme>
     <programme start="20260211074500 +0000" stop="20260211080000 +0000" channel="DW English HD.starhub">
-        <title>On Location</title>
+        <title>The Divided Rise of Afghan Cricket</title>
     </programme>
     <programme start="20260211080000 +0000" stop="20260211081500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3332,19 +3332,19 @@
         <title>News</title>
     </programme>
     <programme start="20260211101500 +0000" stop="20260211103000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>Nurturing my passion for pastry</title>
     </programme>
     <programme start="20260211103000 +0000" stop="20260211110000 +0000" channel="DW English HD.starhub">
-        <title>The Current Affairs Documentary</title>
+        <title>Pride Against the Ban - LGBTQ+ Resistance to Orbán</title>
     </programme>
     <programme start="20260211110000 +0000" stop="20260211111500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20260211111500 +0000" stop="20260211113000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>Being my own boss</title>
     </programme>
     <programme start="20260211113000 +0000" stop="20260211120000 +0000" channel="DW English HD.starhub">
-        <title>Your Business Magazine</title>
+        <title>Decommissioning - are nuclear power plants a billion-dollar grave?</title>
     </programme>
     <programme start="20260211120000 +0000" stop="20260211121500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3356,28 +3356,28 @@
         <title>News</title>
     </programme>
     <programme start="20260211131500 +0000" stop="20260211133000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>Is this the end of billionaire worship?</title>
     </programme>
     <programme start="20260211133000 +0000" stop="20260211140000 +0000" channel="DW English HD.starhub">
-        <title>The Environment Magazine</title>
+        <title>The fight to save Libya’s endangered sea turtles</title>
     </programme>
     <programme start="20260211140000 +0000" stop="20260211141500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20260211141500 +0000" stop="20260211143000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>Mangroves Saving Land</title>
     </programme>
     <programme start="20260211143000 +0000" stop="20260211150000 +0000" channel="DW English HD.starhub">
-        <title>Your Business Magazine</title>
+        <title>Decommissioning - are nuclear power plants a billion-dollar grave?</title>
     </programme>
     <programme start="20260211150000 +0000" stop="20260211151500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20260211151500 +0000" stop="20260211153000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>Is this the end of billionaire worship?</title>
     </programme>
     <programme start="20260211153000 +0000" stop="20260211160000 +0000" channel="DW English HD.starhub">
-        <title>The Environment Magazine</title>
+        <title>Craft communities and the challenges of climate change and globalization</title>
     </programme>
     <programme start="20260210160000 +0000" stop="20260210220000 +0000" channel="Preview Channel.starhub">
         <title>Preview Channel</title>
@@ -4705,17 +4705,8 @@
     <programme start="20260211155000 +0000" stop="20260211164000 +0000" channel="Citra Entertainment.starhub">
         <title>ILHAMI</title>
     </programme>
-    <programme start="20260210160000 +0000" stop="20260210163000 +0000" channel="Vijay TV HD.starhub">
-        <title>Pandian Stores Thanthai Sol Mikka Mandhi</title>
-    </programme>
     <programme start="20260210163000 +0000" stop="20260210170000 +0000" channel="Vijay TV HD.starhub">
         <title>Ayyanar Thunai</title>
-    </programme>
-    <programme start="20260210170000 +0000" stop="20260210173000 +0000" channel="Vijay TV HD.starhub">
-        <title>Siragadikka Aasai</title>
-    </programme>
-    <programme start="20260210173000 +0000" stop="20260210180000 +0000" channel="Vijay TV HD.starhub">
-        <title>Chinna Marumagal Panirendaam Vaguppu</title>
     </programme>
     <programme start="20260210180000 +0000" stop="20260210183000 +0000" channel="Vijay TV HD.starhub">
         <title>Kana Kandenadi</title>
@@ -4740,9 +4731,6 @@
     </programme>
     <programme start="20260210220000 +0000" stop="20260210223000 +0000" channel="Vijay TV HD.starhub">
         <title>Dhanam - Ungalil Oruthi</title>
-    </programme>
-    <programme start="20260210223000 +0000" stop="20260210230000 +0000" channel="Vijay TV HD.starhub">
-        <title>Ayyanar Thunai</title>
     </programme>
     <programme start="20260210230000 +0000" stop="20260210233000 +0000" channel="Vijay TV HD.starhub">
         <title>Magale En Marumagale</title>
@@ -4796,7 +4784,7 @@
         <title>Sakthivel - Theeyaai Oru Theeraakkaadhal</title>
     </programme>
     <programme start="20260211073000 +0000" stop="20260211083000 +0000" channel="Vijay TV HD.starhub">
-        <title>Maha Sangamam - Kanmani Anbudan &amp; Thendrale Mella Pesu</title>
+        <title>Maha Sangamam- Kanmani Anbudan &amp; Thendrale Mella Pesu</title>
     </programme>
     <programme start="20260211083000 +0000" stop="20260211090000 +0000" channel="Vijay TV HD.starhub">
         <title>Suttum Vizhi Sudare - Oru Chinanjiru Kuyilin Kadhai</title>
@@ -7628,7 +7616,7 @@
         <title>Gallagher Premiership</title>
     </programme>
     <programme start="20260211062000 +0000" stop="20260211081000 +0000" channel="Premier Sports.starhub">
-        <title>Super Rugby Crusaders v Chiefs</title>
+        <title>URC Ulster v Dragons</title>
     </programme>
     <programme start="20260211081000 +0000" stop="20260211082000 +0000" channel="Premier Sports.starhub">
         <title>URC Match Highlights Benetton v Scarlets</title>
