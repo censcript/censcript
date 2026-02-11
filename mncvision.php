@@ -5614,7 +5614,87 @@
 <programme start="20260211163500 +0000" stop="20260210170500 +0000" channel="Love Nature.mncvision">
     <title>Extreme Africa S1, Ep 2</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260210172500 +0000" stop="20260210182000 +0000" channel="Love Nature HD.mncvision">
+    <title>Super Shark Highway S1, Ep 5</title>
+</programme>
+<programme start="20260210182000 +0000" stop="20260210191500 +0000" channel="Love Nature HD.mncvision">
+    <title>Super Shark Highway S1, Ep 6</title>
+</programme>
+<programme start="20260210191500 +0000" stop="20260210201000 +0000" channel="Love Nature HD.mncvision">
+    <title>Animals Like Us S1, Ep 3</title>
+</programme>
+<programme start="20260210201000 +0000" stop="20260210210500 +0000" channel="Love Nature HD.mncvision">
+    <title>Kalahari: Alliances S1, Ep 1</title>
+</programme>
+<programme start="20260210210500 +0000" stop="20260210220000 +0000" channel="Love Nature HD.mncvision">
+    <title>Kalahari: Alliances S1, Ep 2</title>
+</programme>
+<programme start="20260210220000 +0000" stop="20260210222500 +0000" channel="Love Nature HD.mncvision">
+    <title>Animal Senses S1, Ep 2</title>
+</programme>
+<programme start="20260210222500 +0000" stop="20260210232000 +0000" channel="Love Nature HD.mncvision">
+    <title>Kalahari: Alliances S1, Ep 1</title>
+</programme>
+<programme start="20260210232000 +0000" stop="20260211001500 +0000" channel="Love Nature HD.mncvision">
+    <title>Kalahari: Alliances S1, Ep 2</title>
+</programme>
+<programme start="20260211001500 +0000" stop="20260211011000 +0000" channel="Love Nature HD.mncvision">
+    <title>Dawn To Dusk S1, Ep 6</title>
+</programme>
+<programme start="20260211011000 +0000" stop="20260211020500 +0000" channel="Love Nature HD.mncvision">
+    <title>Macaque Island S1, Ep 3</title>
+</programme>
+<programme start="20260211020500 +0000" stop="20260211030000 +0000" channel="Love Nature HD.mncvision">
+    <title>Undiscovered Vistas S3, Ep 1</title>
+</programme>
+<programme start="20260211030000 +0000" stop="20260211035000 +0000" channel="Love Nature HD.mncvision">
+    <title>Shark Squad S1, Ep 3</title>
+</programme>
+<programme start="20260211035000 +0000" stop="20260211044000 +0000" channel="Love Nature HD.mncvision">
+    <title>Extreme Africa S1, Ep 2</title>
+</programme>
+<programme start="20260211044000 +0000" stop="20260211053500 +0000" channel="Love Nature HD.mncvision">
+    <title>Kalahari: Alliances S1, Ep 1</title>
+</programme>
+<programme start="20260211053500 +0000" stop="20260211063000 +0000" channel="Love Nature HD.mncvision">
+    <title>Kalahari: Alliances S1, Ep 2</title>
+</programme>
+<programme start="20260211063000 +0000" stop="20260211072500 +0000" channel="Love Nature HD.mncvision">
+    <title>Animals Like Us S1, Ep 4</title>
+</programme>
+<programme start="20260211072500 +0000" stop="20260211082000 +0000" channel="Love Nature HD.mncvision">
+    <title>Macaque Island S1, Ep 3</title>
+</programme>
+<programme start="20260211082000 +0000" stop="20260211091500 +0000" channel="Love Nature HD.mncvision">
+    <title>Undiscovered Vistas S3, Ep 1</title>
+</programme>
+<programme start="20260211091500 +0000" stop="20260211101000 +0000" channel="Love Nature HD.mncvision">
+    <title>Shark Squad S1, Ep 3</title>
+</programme>
+<programme start="20260211101000 +0000" stop="20260211110500 +0000" channel="Love Nature HD.mncvision">
+    <title>Extreme Africa S1, Ep 2</title>
+</programme>
+<programme start="20260211110500 +0000" stop="20260211120000 +0000" channel="Love Nature HD.mncvision">
+    <title>Kalahari: Alliances S1, Ep 1</title>
+</programme>
+<programme start="20260211120000 +0000" stop="20260211125500 +0000" channel="Love Nature HD.mncvision">
+    <title>Kalahari: Alliances S1, Ep 2</title>
+</programme>
+<programme start="20260211125500 +0000" stop="20260211135000 +0000" channel="Love Nature HD.mncvision">
+    <title>Dawn To Dusk S1, Ep 6</title>
+</programme>
+<programme start="20260211135000 +0000" stop="20260211144500 +0000" channel="Love Nature HD.mncvision">
+    <title>Macaque Island S1, Ep 3</title>
+</programme>
+<programme start="20260211144500 +0000" stop="20260211154000 +0000" channel="Love Nature HD.mncvision">
+    <title>Undiscovered Vistas S3, Ep 1</title>
+</programme>
+<programme start="20260211154000 +0000" stop="20260211163500 +0000" channel="Love Nature HD.mncvision">
+    <title>Shark Squad S1, Ep 3</title>
+</programme>
+<programme start="20260211163500 +0000" stop="20260210170500 +0000" channel="Love Nature HD.mncvision">
+    <title>Extreme Africa S1, Ep 2</title>
+</programme>
 <programme start="20260210180000 +0000" stop="20260210184500 +0000" channel="MDTV.mncvision">
     <title>Jatanras</title>
 </programme>
@@ -7958,8 +8038,96 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260211163000 +0000" stop="20260210170000 +0000" channel="Sindo News TV HD.mncvision">
     <title>OMG</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260210181000 +0000" stop="20260210201500 +0000" channel="Soccer Channel.mncvision">
+    <title>ACL Elite: ITH Vs GFA (L)</title>
+</programme>
+<programme start="20260210201500 +0000" stop="20260210203000 +0000" channel="Soccer Channel.mncvision">
+    <title>Top Goals</title>
+</programme>
+<programme start="20260210203000 +0000" stop="20260210210000 +0000" channel="Soccer Channel.mncvision">
+    <title>The Ultimate Goals</title>
+</programme>
+<programme start="20260210210000 +0000" stop="20260210213000 +0000" channel="Soccer Channel.mncvision">
+    <title>Top Goals</title>
+</programme>
+<programme start="20260210213000 +0000" stop="20260210233000 +0000" channel="Soccer Channel.mncvision">
+    <title>SEA Games 2025: THA Vs SIN</title>
+</programme>
+<programme start="20260210233000 +0000" stop="20260211013000 +0000" channel="Soccer Channel.mncvision">
+    <title>AFC Asian Cup 2026: VIE Vs CHN</title>
+</programme>
+<programme start="20260211013000 +0000" stop="20260211033000 +0000" channel="Soccer Channel.mncvision">
+    <title>Bundesliga: SCF Vs SVW</title>
+</programme>
+<programme start="20260211033000 +0000" stop="20260211040000 +0000" channel="Soccer Channel.mncvision">
+    <title>The Ultimate Goals</title>
+</programme>
+<programme start="20260211040000 +0000" stop="20260211060000 +0000" channel="Soccer Channel.mncvision">
+    <title>Persib Road To...: PSB Vs BKU</title>
+</programme>
+<programme start="20260211060000 +0000" stop="20260211080000 +0000" channel="Soccer Channel.mncvision">
+    <title>AFC Asian Cup 2026: CHN Vs JPN</title>
+</programme>
+<programme start="20260211080000 +0000" stop="20260211094500 +0000" channel="Soccer Channel.mncvision">
+    <title>Bundesliga: BMG Vs LEV</title>
+</programme>
+<programme start="20260211094500 +0000" stop="20260211113000 +0000" channel="Soccer Channel.mncvision">
+    <title>Persib Road To...: PSB Vs BKU</title>
+</programme>
+<programme start="20260211113000 +0000" stop="20260211141500 +0000" channel="Soccer Channel.mncvision">
+    <title>ACL Two: RAT Vs PSB (L)</title>
+</programme>
+<programme start="20260211141500 +0000" stop="20260211161500 +0000" channel="Soccer Channel.mncvision">
+    <title>SEA Games 2025: VIE Vs MAS</title>
+</programme>
+<programme start="20260211161500 +0000" stop="20260211164500 +0000" channel="Soccer Channel.mncvision">
+    <title>AFC Asian Cup 2026: CHN Vs JPN</title>
+</programme>
+<programme start="20260210181000 +0000" stop="20260210201500 +0000" channel="Soccer Channel HD.mncvision">
+    <title>ACL Elite: ITH Vs GFA (L)</title>
+</programme>
+<programme start="20260210201500 +0000" stop="20260210203000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Top Goals</title>
+</programme>
+<programme start="20260210203000 +0000" stop="20260210210000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>The Ultimate Goals</title>
+</programme>
+<programme start="20260210210000 +0000" stop="20260210213000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Top Goals</title>
+</programme>
+<programme start="20260210213000 +0000" stop="20260210233000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>SEA Games 2025: THA Vs SIN</title>
+</programme>
+<programme start="20260210233000 +0000" stop="20260211013000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>AFC Asian Cup 2026: VIE Vs CHN</title>
+</programme>
+<programme start="20260211013000 +0000" stop="20260211033000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Bundesliga: SCF Vs SVW</title>
+</programme>
+<programme start="20260211033000 +0000" stop="20260211040000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>The Ultimate Goals</title>
+</programme>
+<programme start="20260211040000 +0000" stop="20260211060000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Persib Road To...: PSB Vs BKU</title>
+</programme>
+<programme start="20260211060000 +0000" stop="20260211080000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>AFC Asian Cup 2026: CHN Vs JPN</title>
+</programme>
+<programme start="20260211080000 +0000" stop="20260211094500 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Bundesliga: BMG Vs LEV</title>
+</programme>
+<programme start="20260211094500 +0000" stop="20260211113000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Persib Road To...: PSB Vs BKU</title>
+</programme>
+<programme start="20260211113000 +0000" stop="20260211141500 +0000" channel="Soccer Channel HD.mncvision">
+    <title>ACL Two: RAT Vs PSB (L)</title>
+</programme>
+<programme start="20260211141500 +0000" stop="20260211161500 +0000" channel="Soccer Channel HD.mncvision">
+    <title>SEA Games 2025: VIE Vs MAS</title>
+</programme>
+<programme start="20260211161500 +0000" stop="20260211164500 +0000" channel="Soccer Channel HD.mncvision">
+    <title>AFC Asian Cup 2026: CHN Vs JPN</title>
+</programme>
 <programme start="20260210180000 +0000" stop="20260210203000 +0000" channel="Sportstars.mncvision">
     <title>Daihatsu Indonesia Masters 2026</title>
 </programme>
