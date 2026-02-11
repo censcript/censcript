@@ -1,7 +1,3 @@
-<programme start="20260211151500 +0700" stop="20260211171500 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: Club Atletico de Madrid - FK Bodo/Glimt</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260211171500 +0700" stop="20260211191500 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Strasbourg - Breidablik</title>
     <desc>Live: Tidak</desc>
@@ -138,10 +134,6 @@
     <title>Football: Levadiakos - OFI</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260211160000 +0700" stop="20260211180000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Heart of Midlothian - Hibernian</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260211180000 +0700" stop="20260211200000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: FC Porto - Sporting CP</title>
     <desc>Live: Tidak</desc>
@@ -196,10 +188,6 @@
 </programme>
 <programme start="20260212170000 +0700" stop="20260212190000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Arouca - Vitoria Guimaraes</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260211151000 +0700" stop="20260211172500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Fenerbahce - Galatasaray</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260211172500 +0700" stop="20260211195500 +0700" channel="COSMOTE Sport 4 HD">
@@ -374,6 +362,14 @@
     <title>2025 GT World Challenge Europe</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260212181000 +0700" stop="20260212185500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC 2026</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260212185500 +0700" stop="20260212203000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC 2026</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260211170000 +0700" stop="20260211190000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Aleksandar Vukic - Stan Wawrinka (L)</title>
     <desc>Live: Ya</desc>
@@ -507,6 +503,14 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260212170000 +0700" stop="20260212180000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260212180000 +0700" stop="20260212183000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260212183000 +0700" stop="20260212190000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
