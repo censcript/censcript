@@ -3088,30 +3088,6 @@
 <programme start="20260211224500 +0000" stop="20260211232000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: Highlights Mittwoch, 26. Spieltag</title>
 </programme>
-<programme start="20260211003000 +0000" stop="20260211010000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP Finals: Review Turin 2025</title>
-</programme>
-<programme start="20260211010000 +0000" stop="20260211050000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP 500: Dallas Open in Dallas (USA), 2. Tag</title>
-</programme>
-<programme start="20260211050000 +0000" stop="20260211053000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP: This Week</title>
-</programme>
-<programme start="20260211053000 +0000" stop="20260211073000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: C. Gauff (USA) - E. Cocchiaretto (ITA), Qatar Total Energies Open in Doha (Katar). 3. Tag</title>
-</programme>
-<programme start="20260211073000 +0000" stop="20260211093000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: J.-L. Struff (GER) - H. Grenier (FRA), ABN AMRO Open in Rotterdam (NLD), 2. Tag</title>
-</programme>
-<programme start="20260211093000 +0000" stop="20260211100000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP: This Week</title>
-</programme>
-<programme start="20260211100000 +0000" stop="20260211160000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP 500: ABN AMRO Open in Rotterdam (NLD), 3. Tag</title>
-</programme>
-<programme start="20260211160000 +0000" stop="20260211233000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP &amp; WTA: Die Topspiele des Tages</title>
-</programme>
 <programme start="20260210231000 +0000" stop="20260211003000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live ATP &amp; WTA: Die Topspiele des Tages</title>
 </programme>

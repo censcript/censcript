@@ -823,10 +823,10 @@
     <programme start="20260211160000 +0000" stop="20260212160000 +0000" channel="Live 2.mewatch">
         <title>No programmes streaming LIVE at this moment</title>
     </programme>
-    <programme start="20260210160000 +0000" stop="20260211121500 +0000" channel="Live 5.mewatch">
-        <title>No Programme available now. Next Broadcast on 11th February, Wednesday 8.15pm. AFC Champions League Two 2025/26</title>
+    <programme start="20260210160000 +0000" stop="20260211120500 +0000" channel="Live 5.mewatch">
+        <title>No Programme available now. Next Broadcast on 11th February, Wednesday 8.05pm. AFC Champions League Two 2025/26</title>
     </programme>
-    <programme start="20260211121500 +0000" stop="20260212141500 +0000" channel="Live 5.mewatch">
+    <programme start="20260211120500 +0000" stop="20260212141500 +0000" channel="Live 5.mewatch">
         <title>AFC Champions League Two 2025/26: Cong An Ha Noi FC vs BG Tampines Rovers FC</title>
     </programme>
     <programme start="20260210160000 +0000" stop="20260211160000 +0000" channel="Live 6.mewatch">

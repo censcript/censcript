@@ -2056,6 +2056,78 @@
     <programme start="20260211153000 +0000" stop="20260211163000 +0000" channel="Sun Music.starhub">
         <title>Non Stop Hits</title>
     </programme>
+    <programme start="20260210160000 +0000" stop="20260210170000 +0000" channel="CNN HD.starhub">
+        <title>One World (60m)</title>
+    </programme>
+    <programme start="20260210170000 +0000" stop="20260210180000 +0000" channel="CNN HD.starhub">
+        <title>One World (45m)</title>
+    </programme>
+    <programme start="20260210180000 +0000" stop="20260210190000 +0000" channel="CNN HD.starhub">
+        <title>Amanpour</title>
+    </programme>
+    <programme start="20260210190000 +0000" stop="20260210200000 +0000" channel="CNN HD.starhub">
+        <title>Isa Soares Tonight (60m)</title>
+    </programme>
+    <programme start="20260210200000 +0000" stop="20260210210000 +0000" channel="CNN HD.starhub">
+        <title>What We Know with Max Foster</title>
+    </programme>
+    <programme start="20260210210000 +0000" stop="20260210223000 +0000" channel="CNN HD.starhub">
+        <title>Quest Means Business (45m)</title>
+    </programme>
+    <programme start="20260210223000 +0000" stop="20260210230000 +0000" channel="CNN HD.starhub">
+        <title>World Sport (30m)</title>
+    </programme>
+    <programme start="20260210230000 +0000" stop="20260211000000 +0000" channel="CNN HD.starhub">
+        <title>The Brief with Jim Sciutto</title>
+    </programme>
+    <programme start="20260211000000 +0000" stop="20260211010000 +0000" channel="CNN HD.starhub">
+        <title>Erin Burnett OutFront</title>
+    </programme>
+    <programme start="20260211010000 +0000" stop="20260211020000 +0000" channel="CNN HD.starhub">
+        <title>Anderson Cooper 360</title>
+    </programme>
+    <programme start="20260211020000 +0000" stop="20260211030000 +0000" channel="CNN HD.starhub">
+        <title>The Source with Kaitlan Collins</title>
+    </programme>
+    <programme start="20260211030000 +0000" stop="20260211040000 +0000" channel="CNN HD.starhub">
+        <title>CNN NewsNight</title>
+    </programme>
+    <programme start="20260211040000 +0000" stop="20260211050000 +0000" channel="CNN HD.starhub">
+        <title>Laura Coates Live</title>
+    </programme>
+    <programme start="20260211050000 +0000" stop="20260211070000 +0000" channel="CNN HD.starhub">
+        <title>The Story Is With Elex Michaelson</title>
+    </programme>
+    <programme start="20260211070000 +0000" stop="20260211080000 +0000" channel="CNN HD.starhub">
+        <title>CNN Newsroom (CNNI) (60m)</title>
+    </programme>
+    <programme start="20260211080000 +0000" stop="20260211090000 +0000" channel="CNN HD.starhub">
+        <title>CNN Newsroom (CNNI) (45m)</title>
+    </programme>
+    <programme start="20260211090000 +0000" stop="20260211100000 +0000" channel="CNN HD.starhub">
+        <title>Amanpour</title>
+    </programme>
+    <programme start="20260211100000 +0000" stop="20260211110000 +0000" channel="CNN HD.starhub">
+        <title>Early Start with Rahel Solomon</title>
+    </programme>
+    <programme start="20260211110000 +0000" stop="20260211120000 +0000" channel="CNN HD.starhub">
+        <title>CNN This Morning</title>
+    </programme>
+    <programme start="20260211120000 +0000" stop="20260211133000 +0000" channel="CNN HD.starhub">
+        <title>CNN News Central</title>
+    </programme>
+    <programme start="20260211133000 +0000" stop="20260211140000 +0000" channel="CNN HD.starhub">
+        <title>World Sport (30m)</title>
+    </programme>
+    <programme start="20260211140000 +0000" stop="20260211144500 +0000" channel="CNN HD.starhub">
+        <title>Connect the World (45m)</title>
+    </programme>
+    <programme start="20260211144500 +0000" stop="20260211150000 +0000" channel="CNN HD.starhub">
+        <title>World Sport (15m)</title>
+    </programme>
+    <programme start="20260211150000 +0000" stop="20260211160000 +0000" channel="CNN HD.starhub">
+        <title>Connect the World (45m)</title>
+    </programme>
     <programme start="20260210133000 +0000" stop="20260210170000 +0000" channel="KTV HD.starhub">
         <title>Movie - Rajakali Amman</title>
     </programme>
@@ -2320,13 +2392,10 @@
     <programme start="20260211003000 +0000" stop="20260211010000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>#1332</title>
     </programme>
-    <programme start="20260211010000 +0000" stop="20260211050000 +0000" channel="Hub Sports 2 HD.starhub">
+    <programme start="20260211010000 +0000" stop="20260211053300 +0000" channel="Hub Sports 2 HD.starhub">
         <title>Dallas Open (500) D2 R1 S2</title>
     </programme>
-    <programme start="20260211050000 +0000" stop="20260211053000 +0000" channel="Hub Sports 2 HD.starhub">
-        <title>World Cup Dubai International Baja Stage 2 Highlights</title>
-    </programme>
-    <programme start="20260211053000 +0000" stop="20260211060000 +0000" channel="Hub Sports 2 HD.starhub">
+    <programme start="20260211053300 +0000" stop="20260211060000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>#1332</title>
     </programme>
     <programme start="20260211060000 +0000" stop="20260211090000 +0000" channel="Hub Sports 2 HD.starhub">
@@ -5119,13 +5188,10 @@
     <programme start="20260210220000 +0000" stop="20260211073000 +0000" channel="SPOTV.starhub">
         <title>Day 1</title>
     </programme>
-    <programme start="20260211073000 +0000" stop="20260211080000 +0000" channel="SPOTV.starhub">
-        <title>2025/26 ALM Mini Match Rd 16 Western Sydney Wanderers FC vs Melbourne City FC</title>
-    </programme>
-    <programme start="20260211080000 +0000" stop="20260211130000 +0000" channel="SPOTV.starhub">
+    <programme start="20260211073000 +0000" stop="20260211124500 +0000" channel="SPOTV.starhub">
         <title>Race 1</title>
     </programme>
-    <programme start="20260211130000 +0000" stop="20260211180000 +0000" channel="SPOTV.starhub">
+    <programme start="20260211124500 +0000" stop="20260211180000 +0000" channel="SPOTV.starhub">
         <title>Race 2</title>
     </programme>
     <programme start="20260210153500 +0000" stop="20260210163500 +0000" channel="KBS World HD.starhub">
