@@ -2056,78 +2056,6 @@
     <programme start="20260211153000 +0000" stop="20260211163000 +0000" channel="Sun Music.starhub">
         <title>Non Stop Hits</title>
     </programme>
-    <programme start="20260210160000 +0000" stop="20260210170000 +0000" channel="CNN HD.starhub">
-        <title>One World (60m)</title>
-    </programme>
-    <programme start="20260210170000 +0000" stop="20260210180000 +0000" channel="CNN HD.starhub">
-        <title>One World (45m)</title>
-    </programme>
-    <programme start="20260210180000 +0000" stop="20260210190000 +0000" channel="CNN HD.starhub">
-        <title>Amanpour</title>
-    </programme>
-    <programme start="20260210190000 +0000" stop="20260210200000 +0000" channel="CNN HD.starhub">
-        <title>Isa Soares Tonight (60m)</title>
-    </programme>
-    <programme start="20260210200000 +0000" stop="20260210210000 +0000" channel="CNN HD.starhub">
-        <title>What We Know with Max Foster</title>
-    </programme>
-    <programme start="20260210210000 +0000" stop="20260210223000 +0000" channel="CNN HD.starhub">
-        <title>Quest Means Business (45m)</title>
-    </programme>
-    <programme start="20260210223000 +0000" stop="20260210230000 +0000" channel="CNN HD.starhub">
-        <title>World Sport (30m)</title>
-    </programme>
-    <programme start="20260210230000 +0000" stop="20260211000000 +0000" channel="CNN HD.starhub">
-        <title>The Brief with Jim Sciutto</title>
-    </programme>
-    <programme start="20260211000000 +0000" stop="20260211010000 +0000" channel="CNN HD.starhub">
-        <title>Erin Burnett OutFront</title>
-    </programme>
-    <programme start="20260211010000 +0000" stop="20260211020000 +0000" channel="CNN HD.starhub">
-        <title>Anderson Cooper 360</title>
-    </programme>
-    <programme start="20260211020000 +0000" stop="20260211030000 +0000" channel="CNN HD.starhub">
-        <title>The Source with Kaitlan Collins</title>
-    </programme>
-    <programme start="20260211030000 +0000" stop="20260211040000 +0000" channel="CNN HD.starhub">
-        <title>CNN NewsNight</title>
-    </programme>
-    <programme start="20260211040000 +0000" stop="20260211050000 +0000" channel="CNN HD.starhub">
-        <title>Laura Coates Live</title>
-    </programme>
-    <programme start="20260211050000 +0000" stop="20260211070000 +0000" channel="CNN HD.starhub">
-        <title>The Story Is With Elex Michaelson</title>
-    </programme>
-    <programme start="20260211070000 +0000" stop="20260211080000 +0000" channel="CNN HD.starhub">
-        <title>CNN Newsroom (CNNI) (60m)</title>
-    </programme>
-    <programme start="20260211080000 +0000" stop="20260211090000 +0000" channel="CNN HD.starhub">
-        <title>CNN Newsroom (CNNI) (45m)</title>
-    </programme>
-    <programme start="20260211090000 +0000" stop="20260211100000 +0000" channel="CNN HD.starhub">
-        <title>Amanpour</title>
-    </programme>
-    <programme start="20260211100000 +0000" stop="20260211110000 +0000" channel="CNN HD.starhub">
-        <title>Early Start with Rahel Solomon</title>
-    </programme>
-    <programme start="20260211110000 +0000" stop="20260211120000 +0000" channel="CNN HD.starhub">
-        <title>CNN This Morning</title>
-    </programme>
-    <programme start="20260211120000 +0000" stop="20260211133000 +0000" channel="CNN HD.starhub">
-        <title>CNN News Central</title>
-    </programme>
-    <programme start="20260211133000 +0000" stop="20260211140000 +0000" channel="CNN HD.starhub">
-        <title>World Sport (30m)</title>
-    </programme>
-    <programme start="20260211140000 +0000" stop="20260211144500 +0000" channel="CNN HD.starhub">
-        <title>Connect the World (45m)</title>
-    </programme>
-    <programme start="20260211144500 +0000" stop="20260211150000 +0000" channel="CNN HD.starhub">
-        <title>World Sport (15m)</title>
-    </programme>
-    <programme start="20260211150000 +0000" stop="20260211160000 +0000" channel="CNN HD.starhub">
-        <title>Connect the World (45m)</title>
-    </programme>
     <programme start="20260210133000 +0000" stop="20260210170000 +0000" channel="KTV HD.starhub">
         <title>Movie - Rajakali Amman</title>
     </programme>
@@ -3185,34 +3113,34 @@
         <title>News</title>
     </programme>
     <programme start="20260210161500 +0000" stop="20260210164500 +0000" channel="DW English HD.starhub">
-        <title>The Current Affairs Documentary</title>
+        <title>Pride Against the Ban - LGBTQ+ Resistance to Orbán</title>
     </programme>
     <programme start="20260210164500 +0000" stop="20260210170000 +0000" channel="DW English HD.starhub">
-        <title>On Location</title>
+        <title>The Divided Rise of Afghan Cricket</title>
     </programme>
     <programme start="20260210170000 +0000" stop="20260210171500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20260210171500 +0000" stop="20260210173000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>MSC 2026 Preview: JD Vance’s absence, AfD invite and Germany’s responsibility for European security</title>
     </programme>
     <programme start="20260210173000 +0000" stop="20260210180000 +0000" channel="DW English HD.starhub">
-        <title>The Global Auto and Mobility Show</title>
+        <title>BYD’s Dolphin Surf: Checking out the Chinese budget EV</title>
     </programme>
     <programme start="20260210180000 +0000" stop="20260210183000 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20260210183000 +0000" stop="20260210190000 +0000" channel="DW English HD.starhub">
-        <title>The Environment Magazine</title>
+        <title>The fight to save Libya’s endangered sea turtles</title>
     </programme>
     <programme start="20260210190000 +0000" stop="20260210190200 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20260210190200 +0000" stop="20260210193000 +0000" channel="DW English HD.starhub">
-        <title>The Environment Magazine</title>
+        <title>Craft communities and the challenges of climate change and globalization</title>
     </programme>
     <programme start="20260210193000 +0000" stop="20260210200000 +0000" channel="DW English HD.starhub">
-        <title>The Science Magazine</title>
+        <title>From orcas to water shortages: nature in a changing climate</title>
     </programme>
     <programme start="20260210200000 +0000" stop="20260210203000 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3224,13 +3152,13 @@
         <title>News</title>
     </programme>
     <programme start="20260210210200 +0000" stop="20260210211500 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>MSC 2026 Preview: JD Vance’s absence, AfD invite and Germany’s responsibility for European security</title>
     </programme>
     <programme start="20260210211500 +0000" stop="20260210214500 +0000" channel="DW English HD.starhub">
-        <title>The Current Affairs Documentary</title>
+        <title>Pride Against the Ban - LGBTQ+ Resistance to Orbán</title>
     </programme>
     <programme start="20260210214500 +0000" stop="20260210220000 +0000" channel="DW English HD.starhub">
-        <title>Living in the Digital Age</title>
+        <title>How apps and smartphones protect women from attacks</title>
     </programme>
     <programme start="20260210220000 +0000" stop="20260210220200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3239,13 +3167,13 @@
         <title>News in Review</title>
     </programme>
     <programme start="20260210223000 +0000" stop="20260210230000 +0000" channel="DW English HD.starhub">
-        <title>The Magazine for Africa&#039;s Youth</title>
+        <title>Street Debate: Gender Based Violence in Uganda</title>
     </programme>
     <programme start="20260210230000 +0000" stop="20260210231500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20260210231500 +0000" stop="20260210233000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>MSC 2026 Preview: JD Vance’s absence, AfD invite and Germany’s responsibility for European security</title>
     </programme>
     <programme start="20260210233000 +0000" stop="20260211000000 +0000" channel="DW English HD.starhub">
         <title>Return to Syria: Rebuilding and seeking justice in Yarmouk</title>
@@ -4705,8 +4633,17 @@
     <programme start="20260211155000 +0000" stop="20260211164000 +0000" channel="Citra Entertainment.starhub">
         <title>ILHAMI</title>
     </programme>
+    <programme start="20260210160000 +0000" stop="20260210163000 +0000" channel="Vijay TV HD.starhub">
+        <title>Pandian Stores Thanthai Sol Mikka Mandhi</title>
+    </programme>
     <programme start="20260210163000 +0000" stop="20260210170000 +0000" channel="Vijay TV HD.starhub">
         <title>Ayyanar Thunai</title>
+    </programme>
+    <programme start="20260210170000 +0000" stop="20260210173000 +0000" channel="Vijay TV HD.starhub">
+        <title>Siragadikka Aasai</title>
+    </programme>
+    <programme start="20260210173000 +0000" stop="20260210180000 +0000" channel="Vijay TV HD.starhub">
+        <title>Chinna Marumagal Panirendaam Vaguppu</title>
     </programme>
     <programme start="20260210180000 +0000" stop="20260210183000 +0000" channel="Vijay TV HD.starhub">
         <title>Kana Kandenadi</title>
@@ -4724,13 +4661,16 @@
         <title>Sakthivel - Theeyaai Oru Theeraakkaadhal</title>
     </programme>
     <programme start="20260210203000 +0000" stop="20260210213000 +0000" channel="Vijay TV HD.starhub">
-        <title>Maha Sangamam - Kanmani Anbudan &amp; Thendrale Mella Pesu</title>
+        <title>Maha Sangamam- Kanmani Anbudan &amp; Thendrale Mella Pesu</title>
     </programme>
     <programme start="20260210213000 +0000" stop="20260210220000 +0000" channel="Vijay TV HD.starhub">
         <title>Suttum Vizhi Sudare - Oru Chinanjiru Kuyilin Kadhai</title>
     </programme>
     <programme start="20260210220000 +0000" stop="20260210223000 +0000" channel="Vijay TV HD.starhub">
         <title>Dhanam - Ungalil Oruthi</title>
+    </programme>
+    <programme start="20260210223000 +0000" stop="20260210230000 +0000" channel="Vijay TV HD.starhub">
+        <title>Ayyanar Thunai</title>
     </programme>
     <programme start="20260210230000 +0000" stop="20260210233000 +0000" channel="Vijay TV HD.starhub">
         <title>Magale En Marumagale</title>

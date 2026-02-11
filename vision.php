@@ -5,7 +5,7 @@
 <title>Kiko</title>
 </programme>
 <programme start="20260211013000 +0000" stop="20260211033000 +0000" channel="RCTI.vision">
-<title>Dahsyat (RCTI)</title>
+<title>Dahsyat Spesial Persib (L)</title>
 </programme>
 <programme start="20260211033000 +0000" stop="20260211043000 +0000" channel="RCTI.vision">
 <title>Silet (RCTI)</title>
@@ -37,41 +37,44 @@
 <programme start="20260211173000 +0000" stop="20260211190000 +0000" channel="RCTI.vision">
 <title>RCTI</title>
 </programme>
-<programme start="20260211190000 +0000" stop="20260211230000 +0000" channel="RCTI.vision">
+<programme start="20260211190000 +0000" stop="20260211203000 +0000" channel="RCTI.vision">
 <title>RCTI</title>
 </programme>
-<programme start="20260211230000 +0000" stop="20260212000000 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<programme start="20260211203000 +0000" stop="20260211223000 +0000" channel="RCTI.vision">
+<title>Preman Pensiun S2</title>
 </programme>
-<programme start="20260212000000 +0000" stop="20260212010000 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<programme start="20260211223000 +0000" stop="20260211230000 +0000" channel="RCTI.vision">
+<title>Go Spot</title>
 </programme>
-<programme start="20260212010000 +0000" stop="20260212023000 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<programme start="20260211230000 +0000" stop="20260212010000 +0000" channel="RCTI.vision">
+<title>Upin Ipin</title>
 </programme>
-<programme start="20260212023000 +0000" stop="20260212033000 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<programme start="20260212010000 +0000" stop="20260212013000 +0000" channel="RCTI.vision">
+<title>Kiko</title>
+</programme>
+<programme start="20260212013000 +0000" stop="20260212033000 +0000" channel="RCTI.vision">
+<title>Dahsyat (RCTI)</title>
 </programme>
 <programme start="20260212033000 +0000" stop="20260212043000 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<title>Silet (RCTI)</title>
 </programme>
 <programme start="20260212043000 +0000" stop="20260212050000 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<title>Seputar iNews Siang</title>
 </programme>
 <programme start="20260212050000 +0000" stop="20260212063000 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<title>Amanah Wali S5</title>
 </programme>
 <programme start="20260212063000 +0000" stop="20260212083000 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<title>Preman Pensiun S6</title>
 </programme>
 <programme start="20260212083000 +0000" stop="20260212100000 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<title>Cinta Turun Ke Bumi</title>
 </programme>
 <programme start="20260212100000 +0000" stop="20260212113000 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<title>Aira (RCTI)</title>
 </programme>
 <programme start="20260212113000 +0000" stop="20260212131500 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<title>Mencintai Ipar Sendiri (RCTI)</title>
 </programme>
 <programme start="20260210231500 +0000" stop="20260211004500 +0000" channel="MNCTV.vision">
 <title>Kiko</title>
@@ -179,7 +182,7 @@
 <title>SpongeBob SquarePants</title>
 </programme>
 <programme start="20260211114500 +0000" stop="20260211141500 +0000" channel="GTV.vision">
-<title>GTV</title>
+<title>AFC Champions League Two</title>
 </programme>
 <programme start="20260211141500 +0000" stop="20260211160000 +0000" channel="GTV.vision">
 <title>Sword Dynasty: Messy Inn</title>
@@ -188,49 +191,49 @@
 <title>12 Hari</title>
 </programme>
 <programme start="20260211170000 +0000" stop="20260211180000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<title>Jelajah Mitos</title>
 </programme>
 <programme start="20260211180000 +0000" stop="20260211190000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<title>Crime KV</title>
 </programme>
 <programme start="20260211190000 +0000" stop="20260211200000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<title>Naik Enak Turun Ogah</title>
 </programme>
 <programme start="20260211200000 +0000" stop="20260211220000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<title>Awas Ada Sule</title>
 </programme>
 <programme start="20260211220000 +0000" stop="20260211230000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<title>Kisah Viral</title>
 </programme>
 <programme start="20260211230000 +0000" stop="20260212000000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<title>SpongeBob SquarePants</title>
 </programme>
-<programme start="20260212000000 +0000" stop="20260212003000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<programme start="20260212000000 +0000" stop="20260212010000 +0000" channel="GTV.vision">
+<title>Obrolan Seputar Selebriti (GTV)</title>
 </programme>
-<programme start="20260212003000 +0000" stop="20260212013000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<programme start="20260212010000 +0000" stop="20260212013000 +0000" channel="GTV.vision">
+<title>Buletin iNews Pagi</title>
 </programme>
 <programme start="20260212013000 +0000" stop="20260212020000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<title>CoComelon Dan Sahabat</title>
 </programme>
 <programme start="20260212020000 +0000" stop="20260212023000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<title>Bernard Bear</title>
 </programme>
 <programme start="20260212023000 +0000" stop="20260212050000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<title>Spongebob Squarepants (GTV)</title>
 </programme>
 <programme start="20260212050000 +0000" stop="20260212073000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<title>SpongeBob SquarePants</title>
 </programme>
 <programme start="20260212073000 +0000" stop="20260212093000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<title>SpongeBob SquarePants</title>
 </programme>
 <programme start="20260212093000 +0000" stop="20260212110000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<title>SpongeBob SquarePants</title>
 </programme>
 <programme start="20260212110000 +0000" stop="20260212123000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<title>New Family 100 (GTV)</title>
 </programme>
 <programme start="20260211000000 +0000" stop="20260211003000 +0000" channel="iNews.vision">
 <title>Special Report</title>
@@ -1493,8 +1496,5 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260211130000 +0000" stop="20260211150000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260211150000 +0000" stop="20260211170000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
