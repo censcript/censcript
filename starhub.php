@@ -4871,7 +4871,7 @@
         <title>Patharamattu</title>
     </programme>
     <programme start="20260210233000 +0000" stop="20260211020000 +0000" channel="Asianet.starhub">
-        <title>Movie</title>
+        <title>Manichithrathazhu</title>
     </programme>
     <programme start="20260211020000 +0000" stop="20260211023000 +0000" channel="Asianet.starhub">
         <title>Pavithram</title>
@@ -4892,7 +4892,7 @@
         <title>Ee Puzhayum Kadannu</title>
     </programme>
     <programme start="20260211050000 +0000" stop="20260211073000 +0000" channel="Asianet.starhub">
-        <title>Movie</title>
+        <title>January oru orma</title>
     </programme>
     <programme start="20260211073000 +0000" stop="20260211080000 +0000" channel="Asianet.starhub">
         <title>Kattathe Kilikoodu</title>
@@ -4907,7 +4907,7 @@
         <title>Amma Manassu(Dub . Fiction)</title>
     </programme>
     <programme start="20260211093000 +0000" stop="20260211123000 +0000" channel="Asianet.starhub">
-        <title>Movie</title>
+        <title>Janatha Garage</title>
     </programme>
     <programme start="20260211123000 +0000" stop="20260211130000 +0000" channel="Asianet.starhub">
         <title>Ishttam Mathram</title>
