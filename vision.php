@@ -239,7 +239,7 @@
 <title>Special Report</title>
 </programme>
 <programme start="20260211003000 +0000" stop="20260211010000 +0000" channel="iNews.vision">
-<title>Morning Update (iNews)</title>
+<title>Morning Update</title>
 </programme>
 <programme start="20260211010000 +0000" stop="20260211021500 +0000" channel="iNews.vision">
 <title>Lapor Polisi (L)</title>
@@ -305,7 +305,7 @@
 <title>Special Report</title>
 </programme>
 <programme start="20260212000000 +0000" stop="20260212010000 +0000" channel="iNews.vision">
-<title>Morning Update (iNews)</title>
+<title>Morning Update</title>
 </programme>
 <programme start="20260212010000 +0000" stop="20260212021500 +0000" channel="iNews.vision">
 <title>Lapor Polisi (L)</title>
@@ -663,6 +663,15 @@
 </programme>
 <programme start="20260211113000 +0000" stop="20260211133000 +0000" channel="ANTV.vision">
 <title>Langit Untuk Renata</title>
+</programme>
+<programme start="20260211133000 +0000" stop="20260211150000 +0000" channel="ANTV.vision">
+<title>Perjanjian Di Malam Keramat</title>
+</programme>
+<programme start="20260211150000 +0000" stop="20260211170000 +0000" channel="ANTV.vision">
+<title>Preman</title>
+</programme>
+<programme start="20260211170000 +0000" stop="20260211193000 +0000" channel="ANTV.vision">
+<title>Shark Evil</title>
 </programme>
 <programme start="20260211193000 +0000" stop="20260211220000 +0000" channel="ANTV.vision">
 <title>Coppa Italia</title>
@@ -1487,14 +1496,5 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260211130000 +0000" stop="20260211150000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260211150000 +0000" stop="20260211170000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260211170000 +0000" stop="20260211190000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260211190000 +0000" stop="20260211210000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
