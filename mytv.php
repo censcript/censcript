@@ -52,28 +52,28 @@
     <programme start="20260211090000 +0000" stop="20260211091500 +0000" channel="VTV1 HD.mytv">
         <title> Sống mới </title>
     </programme>
-    <programme start="20260211091500 +0000" stop="20260211095900 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260211091500 +0000" stop="20260211100000 +0000" channel="VTV1 HD.mytv">
         <title> Thời sự </title>
     </programme>
-    <programme start="20260211095900 +0000" stop="20260211101000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260211100000 +0000" stop="20260211101500 +0000" channel="VTV1 HD.mytv">
         <title> Phát biểu của đại sứ </title>
     </programme>
-    <programme start="20260211101000 +0000" stop="20260211101500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260211101500 +0000" stop="20260211102100 +0000" channel="VTV1 HD.mytv">
         <title> VIETNAM 360 : Đột phá mới của Việt Nam sau đổi mới </title>
     </programme>
-    <programme start="20260211101500 +0000" stop="20260211104500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260211102100 +0000" stop="20260211104900 +0000" channel="VTV1 HD.mytv">
         <title> VTV kết nối </title>
     </programme>
-    <programme start="20260211104500 +0000" stop="20260211110000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260211104900 +0000" stop="20260211110200 +0000" channel="VTV1 HD.mytv">
         <title> Thể thao : Sức xuân thượng võ </title>
     </programme>
-    <programme start="20260211110000 +0000" stop="20260211112500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260211110200 +0000" stop="20260211113000 +0000" channel="VTV1 HD.mytv">
         <title> Hitech công nghệ tương lai </title>
     </programme>
-    <programme start="20260211112500 +0000" stop="20260211115500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260211113000 +0000" stop="20260211115100 +0000" channel="VTV1 HD.mytv">
         <title> Nét đẹp dân gian : Đất cổ sáng sự học xứ Đông </title>
     </programme>
-    <programme start="20260211115500 +0000" stop="20260211120000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260211115100 +0000" stop="20260211120000 +0000" channel="VTV1 HD.mytv">
         <title> Tài chính - Kinh doanh </title>
     </programme>
     <programme start="20260211120000 +0000" stop="20260211124500 +0000" channel="VTV1 HD.mytv">

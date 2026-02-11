@@ -1333,10 +1333,10 @@
 <programme start="20260210232000 +0000" stop="20260210234000 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20260210234000 +0000" stop="20260211000500 +0000" channel="Nick Jr..skyde">
+<programme start="20260210234000 +0000" stop="20260211000000 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20260211000500 +0000" stop="20260211001500 +0000" channel="Nick Jr..skyde">
+<programme start="20260211000000 +0000" stop="20260211001500 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
 <programme start="20260211001500 +0000" stop="20260211002500 +0000" channel="Nick Jr..skyde">
@@ -1363,10 +1363,10 @@
 <programme start="20260211015500 +0000" stop="20260211022000 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20260211022000 +0000" stop="20260211024500 +0000" channel="Nick Jr..skyde">
+<programme start="20260211022000 +0000" stop="20260211024000 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20260211024500 +0000" stop="20260211030500 +0000" channel="Nick Jr..skyde">
+<programme start="20260211024000 +0000" stop="20260211030500 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
 </programme>
 <programme start="20260211030500 +0000" stop="20260211033000 +0000" channel="Nick Jr..skyde">
@@ -1378,10 +1378,10 @@
 <programme start="20260211035000 +0000" stop="20260211041500 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260211041500 +0000" stop="20260211043500 +0000" channel="Nick Jr..skyde">
+<programme start="20260211041500 +0000" stop="20260211044000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260211043500 +0000" stop="20260211050000 +0000" channel="Nick Jr..skyde">
+<programme start="20260211044000 +0000" stop="20260211050000 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
 <programme start="20260211050000 +0000" stop="20260211052000 +0000" channel="Nick Jr..skyde">
@@ -3088,7 +3088,7 @@
 <programme start="20260211224500 +0000" stop="20260211232000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: Highlights Mittwoch, 26. Spieltag</title>
 </programme>
-<programme start="20260211000000 +0000" stop="20260211010000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260211003000 +0000" stop="20260211010000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP Finals: Review Turin 2025</title>
 </programme>
 <programme start="20260211010000 +0000" stop="20260211050000 +0000" channel="Sky Sport Tennis HD.skyde">
@@ -3112,10 +3112,10 @@
 <programme start="20260211160000 +0000" stop="20260211233000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP &amp; WTA: Die Topspiele des Tages</title>
 </programme>
-<programme start="20260210231000 +0000" stop="20260211000000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260210231000 +0000" stop="20260211003000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live ATP &amp; WTA: Die Topspiele des Tages</title>
 </programme>
-<programme start="20260211000000 +0000" stop="20260211010000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260211003000 +0000" stop="20260211010000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>ATP Finals: Review Turin 2025</title>
 </programme>
 <programme start="20260211010000 +0000" stop="20260211050000 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3184,25 +3184,25 @@
 <programme start="20260211190000 +0000" stop="20260211192000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Es folgt: Live Premier League</title>
 </programme>
-<programme start="20260211192000 +0000" stop="20260211213000 +0000" channel="Sky Sport 2 HD.skyde">
+<programme start="20260211192000 +0000" stop="20260211220000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live PL: Aston Villa - Brighton &amp; Hove Albion, 26. Spieltag</title>
 </programme>
 <programme start="20260211190000 +0000" stop="20260211192000 +0000" channel="Sky Sport 3 HD.skyde">
     <title>Es folgt: Live Premier League</title>
 </programme>
-<programme start="20260211192000 +0000" stop="20260211213000 +0000" channel="Sky Sport 3 HD.skyde">
+<programme start="20260211192000 +0000" stop="20260211220000 +0000" channel="Sky Sport 3 HD.skyde">
     <title>Live PL: Crystal Palace - FC Burnley, 26. Spieltag</title>
 </programme>
 <programme start="20260211190000 +0000" stop="20260211192000 +0000" channel="Sky Sport 4 HD.skyde">
     <title>Es folgt: Live Premier League</title>
 </programme>
-<programme start="20260211192000 +0000" stop="20260211213000 +0000" channel="Sky Sport 4 HD.skyde">
+<programme start="20260211192000 +0000" stop="20260211220000 +0000" channel="Sky Sport 4 HD.skyde">
     <title>Live PL: Nottingham Forest - Wolverhampton Wanderers, 26. Spieltag</title>
 </programme>
 <programme start="20260211094000 +0000" stop="20260211100000 +0000" channel="Sky Sport 5 HD.skyde">
     <title>Es folgt: Live Tennis WTA Tour</title>
 </programme>
-<programme start="20260211100000 +0000" stop="20260211200000 +0000" channel="Sky Sport 5 HD.skyde">
+<programme start="20260211100000 +0000" stop="20260211220000 +0000" channel="Sky Sport 5 HD.skyde">
     <title>Live WTA 1000: Qatar Total Energies Open in Doha (Katar), 4. Tag</title>
 </programme>
 <programme start="20260211184000 +0000" stop="20260211190000 +0000" channel="Sky Sport 6 HD.skyde">

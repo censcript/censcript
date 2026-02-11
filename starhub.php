@@ -3172,13 +3172,13 @@
     <programme start="20260211043000 +0000" stop="20260211050000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>M12: Pakistan vs USA HLs</title>
     </programme>
-    <programme start="20260211050000 +0000" stop="20260211093000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20260211050000 +0000" stop="20260211090000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>M13: South Africa vs Afghanistan</title>
     </programme>
-    <programme start="20260211093000 +0000" stop="20260211133000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20260211090000 +0000" stop="20260211130000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>M14: Australia vs Ireland</title>
     </programme>
-    <programme start="20260211133000 +0000" stop="20260211173000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20260211130000 +0000" stop="20260211173000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>M15: England vs West Indies</title>
     </programme>
     <programme start="20260210160000 +0000" stop="20260210161500 +0000" channel="DW English HD.starhub">

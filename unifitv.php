@@ -769,7 +769,7 @@
   </programme>
   <programme start="20260211030000 +0000" stop="20260211040000 +0000" channel="tv2.unifitv">
     <title lang="en">Saya Tunggu Awak</title>
-    <desc lang="en">Rafiq mengetuai seminar yang diadakan. Ustazah Hana selalu memberi nasihat pada rakan-rakan sekerja yang mempunyai masalah.</desc>
+    <desc lang="en">Maria meninggalkan rumah setelah Rafiq mahu menceraikannya. Rafiq meminta nasihat Ustazah Hana tentang masalah rumahtangga yang dihadapinya. Ustazah Hana pula kecewa dengan Farhan yang tidak langsung membantunya dalam kerja-kerja rumah.</desc>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.8.</episode-num>
     <episode-num system="onscreen">S1E9</episode-num>
@@ -842,7 +842,7 @@
     <episode-num system="onscreen">S1E28</episode-num>
   </programme>
   <programme start="20260211130000 +0000" stop="20260211150000 +0000" channel="tv2.unifitv">
-    <title lang="en">Dil Garden Garden Hogeya</title>
+    <title lang="en">Dil Garden Garden Ho Gaya</title>
     <desc lang="en">Kisah mengenai keluarga Rajdev yang giat mencari pasangan untuk Rajdev.</desc>
     <category lang="en">Drama</category>
   </programme>
