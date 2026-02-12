@@ -1177,56 +1177,26 @@
 <programme start="20260211180000 +0000" stop="20260211182500 +0000" channel="beIN Sports 2.mncvision">
     <title>HSBC SVNS Series 2026</title>
 </programme>
-<programme start="20260211182500 +0000" stop="20260211183000 +0000" channel="beIN Sports 2.mncvision">
+<programme start="20260211182500 +0000" stop="20260211225500 +0000" channel="beIN Sports 2.mncvision">
     <title>United Cup 2026: QF 2</title>
 </programme>
-<programme start="20260211183000 +0000" stop="20260211190000 +0000" channel="beIN Sports 2.mncvision">
-    <title>World Classic Soccer</title>
-</programme>
-<programme start="20260211190000 +0000" stop="20260211210000 +0000" channel="beIN Sports 2.mncvision">
-    <title>Best Of Megatron</title>
-</programme>
-<programme start="20260211210000 +0000" stop="20260211225500 +0000" channel="beIN Sports 2.mncvision">
-    <title>Daihatsu Indonesia Masters 2026</title>
-</programme>
-<programme start="20260211225500 +0000" stop="20260211233000 +0000" channel="beIN Sports 2.mncvision">
+<programme start="20260211225500 +0000" stop="20260211235500 +0000" channel="beIN Sports 2.mncvision">
     <title>WSL Highlights 2025/26</title>
 </programme>
-<programme start="20260211233000 +0000" stop="20260211235500 +0000" channel="beIN Sports 2.mncvision">
-    <title>Sportrivia</title>
-</programme>
-<programme start="20260211235500 +0000" stop="20260212000000 +0000" channel="beIN Sports 2.mncvision">
+<programme start="20260211235500 +0000" stop="20260212012500 +0000" channel="beIN Sports 2.mncvision">
     <title>Best Of AO 2026: Men</title>
 </programme>
-<programme start="20260212000000 +0000" stop="20260212003000 +0000" channel="beIN Sports 2.mncvision">
-    <title>iNews Sport</title>
-</programme>
-<programme start="20260212003000 +0000" stop="20260212012500 +0000" channel="beIN Sports 2.mncvision">
-    <title>AFC U23 Asian Cup Saudi Arabia</title>
-</programme>
-<programme start="20260212012500 +0000" stop="20260212023000 +0000" channel="beIN Sports 2.mncvision">
+<programme start="20260212012500 +0000" stop="20260212032500 +0000" channel="beIN Sports 2.mncvision">
     <title>Best Of AO 2026: Women</title>
-</programme>
-<programme start="20260212023000 +0000" stop="20260212030000 +0000" channel="beIN Sports 2.mncvision">
-    <title>Sport Today</title>
-</programme>
-<programme start="20260212030000 +0000" stop="20260212032500 +0000" channel="beIN Sports 2.mncvision">
-    <title>Best Of Megatron</title>
 </programme>
 <programme start="20260212032500 +0000" stop="20260212045500 +0000" channel="beIN Sports 2.mncvision">
     <title>Best Of AO 2026: Women</title>
 </programme>
-<programme start="20260212045500 +0000" stop="20260212050000 +0000" channel="beIN Sports 2.mncvision">
+<programme start="20260212045500 +0000" stop="20260212065500 +0000" channel="beIN Sports 2.mncvision">
     <title>Best Of AO 2026: Men</title>
 </programme>
-<programme start="20260212050000 +0000" stop="20260212065500 +0000" channel="beIN Sports 2.mncvision">
-    <title>V-League</title>
-</programme>
-<programme start="20260212065500 +0000" stop="20260212070000 +0000" channel="beIN Sports 2.mncvision">
+<programme start="20260212065500 +0000" stop="20260212072000 +0000" channel="beIN Sports 2.mncvision">
     <title>HSBC SVNS Series 2026</title>
-</programme>
-<programme start="20260212070000 +0000" stop="20260212072000 +0000" channel="beIN Sports 2.mncvision">
-    <title>IBA Mens World C&#039;ship 2025</title>
 </programme>
 <programme start="20260212072000 +0000" stop="20260212074500 +0000" channel="beIN Sports 2.mncvision">
     <title>HSBC SVNS Series 2026</title>
@@ -1234,38 +1204,26 @@
 <programme start="20260212074500 +0000" stop="20260212081000 +0000" channel="beIN Sports 2.mncvision">
     <title>HSBC SVNS Series 2026</title>
 </programme>
-<programme start="20260212081000 +0000" stop="20260212083000 +0000" channel="beIN Sports 2.mncvision">
+<programme start="20260212081000 +0000" stop="20260212083500 +0000" channel="beIN Sports 2.mncvision">
     <title>HSBC SVNS Series 2026</title>
-</programme>
-<programme start="20260212083000 +0000" stop="20260212083500 +0000" channel="beIN Sports 2.mncvision">
-    <title>AFC U23 Asian Cup Saudi Arabia</title>
 </programme>
 <programme start="20260212083500 +0000" stop="20260212090000 +0000" channel="beIN Sports 2.mncvision">
     <title>HSBC SVNS Series 2026</title>
 </programme>
-<programme start="20260212090000 +0000" stop="20260212103000 +0000" channel="beIN Sports 2.mncvision">
+<programme start="20260212090000 +0000" stop="20260212110000 +0000" channel="beIN Sports 2.mncvision">
     <title>PSG TV 2025/26: PSG Vs MAR</title>
-</programme>
-<programme start="20260212103000 +0000" stop="20260212110000 +0000" channel="beIN Sports 2.mncvision">
-    <title>Daihatsu Indonesia Masters 2026</title>
 </programme>
 <programme start="20260212110000 +0000" stop="20260212120000 +0000" channel="beIN Sports 2.mncvision">
     <title>HSBC SVNS Series HL 2026</title>
 </programme>
-<programme start="20260212120000 +0000" stop="20260212130000 +0000" channel="beIN Sports 2.mncvision">
+<programme start="20260212120000 +0000" stop="20260212133000 +0000" channel="beIN Sports 2.mncvision">
     <title>Premier Padel 2026: Riyadh (L)</title>
-</programme>
-<programme start="20260212130000 +0000" stop="20260212133000 +0000" channel="beIN Sports 2.mncvision">
-    <title>Best Of Megatron</title>
 </programme>
 <programme start="20260212133000 +0000" stop="20260212150000 +0000" channel="beIN Sports 2.mncvision">
     <title>Premier Padel 2026: Riyadh (L)</title>
 </programme>
-<programme start="20260212150000 +0000" stop="20260212153000 +0000" channel="beIN Sports 2.mncvision">
+<programme start="20260212150000 +0000" stop="20260212163000 +0000" channel="beIN Sports 2.mncvision">
     <title>Premier Padel 2026: Riyadh (L)</title>
-</programme>
-<programme start="20260212153000 +0000" stop="20260212163000 +0000" channel="beIN Sports 2.mncvision">
-    <title>IBA Mens World C&#039;ship 2025</title>
 </programme>
 <programme start="20260212163000 +0000" stop="20260211170000 +0000" channel="beIN Sports 2.mncvision">
     <title>Premier Padel 2026: Riyadh (L)</title>
