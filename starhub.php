@@ -3890,7 +3890,7 @@
         <title>News &amp; Weather</title>
     </programme>
     <programme start="20260213060500 +0000" stop="20260213061000 +0000" channel="NHK World Premium HD.starhub">
-        <title>World&#039;s Magnificent Sight Journey</title>
+        <title>RAMEN JAPAN 5min.</title>
     </programme>
     <programme start="20260213061000 +0000" stop="20260213063000 +0000" channel="NHK World Premium HD.starhub">
         <title>Chinese Navi</title>

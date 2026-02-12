@@ -66,6 +66,10 @@
     <title>Game R1 S6 E25</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260214060000 +0700" stop="20260214070000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEFA Champions League Highlights 2025-26</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260213043000 +0700" stop="20260213064000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Olympiacos - Panathinaikos</title>
     <desc>Live: Tidak</desc>
@@ -136,6 +140,10 @@
 </programme>
 <programme start="20260214044500 +0700" stop="20260214065000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: OFI - Levadiakos</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260214065000 +0700" stop="20260214085000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Pisa - AC Milan</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260213020000 +0700" stop="20260213063000 +0700" channel="COSMOTE Sport 3 HD">
@@ -274,8 +282,8 @@
     <title>Basketball: Le Mans - Galatasaray</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260213042000 +0700" stop="20260213050500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC 2025</title>
+<programme start="20260214064500 +0700" stop="20260214082000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>NBA Specials: Basketball Stories</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260213050500 +0700" stop="20260213061000 +0700" channel="COSMOTE Sport 5 HD">
@@ -374,9 +382,9 @@
     <title>MotoGP Classics</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260213033000 +0700" stop="20260213060000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: Jan Lennard Struff - Alexander Bublik (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20260214060000 +0700" stop="20260214070000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>MotoGP Classics</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260213060000 +0700" stop="20260213083000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Botic van de Zandschulp - Stefanos Tsitsipas</title>
@@ -421,6 +429,14 @@
 <programme start="20260214033000 +0700" stop="20260214060000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP 500 2026 (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20260214060000 +0700" stop="20260214063000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Sports Classics: 2025 Outdoor Specials</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260214063000 +0700" stop="20260214090000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Volleyball: Montpellier - Cucine Lube Civitanova</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260213050000 +0700" stop="20260213070000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
@@ -543,6 +559,10 @@
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20260214053000 +0700" stop="20260214060000 +0700" channel="COSMOTE Sport 8 HD">
+    <title>COSMOTESport8HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260214060000 +0700" stop="20260214070000 +0700" channel="COSMOTE Sport 8 HD">
     <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
 </programme>

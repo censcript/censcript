@@ -17486,7 +17486,7 @@
     <title lang="id">INFO</title>
   </programme>
   <programme start="20260214134000 +0000" stop="20260214135500 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">BOSAI: Science that Can Save Your Life</title>
+    <title lang="id">BOSAI</title>
   </programme>
   <programme start="20260214135500 +0000" stop="20260214140000 +0000" channel="NHK World Japan.webtv.sk">
     <title lang="id">DESIGN MUSEUM JAPAN</title>
@@ -17552,7 +17552,7 @@
     <title lang="id">INFO</title>
   </programme>
   <programme start="20260214194000 +0000" stop="20260214195500 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">BOSAI: Science that Can Save Your Life</title>
+    <title lang="id">BOSAI</title>
   </programme>
   <programme start="20260214195500 +0000" stop="20260214200000 +0000" channel="NHK World Japan.webtv.sk">
     <title lang="id">DESIGN MUSEUM JAPAN</title>
