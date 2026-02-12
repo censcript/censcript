@@ -6100,6 +6100,7 @@
 <programme start="20260213160100 +0000" stop="20260213163100 +0000" channel="Moonbug.mncvision">
     <title>CoComelon</title>
 </programme>
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260212190000 +0000" stop="20260212200000 +0000" channel="Music TV.mncvision">
     <title>Bucin (Bursa Music Indonesia)</title>
 </programme>
@@ -6163,132 +6164,8 @@
 <programme start="20260213163000 +0000" stop="20260212170000 +0000" channel="Music TV.mncvision">
     <title>KDI 2025</title>
 </programme>
-<programme start="20260212190000 +0000" stop="20260212200000 +0000" channel="Music TV HD.mncvision">
-    <title>Bucin (Bursa Music Indonesia)</title>
-</programme>
-<programme start="20260212200000 +0000" stop="20260212203000 +0000" channel="Music TV HD.mncvision">
-    <title>I Just Wanna Say I Love You</title>
-</programme>
-<programme start="20260212203000 +0000" stop="20260212213000 +0000" channel="Music TV HD.mncvision">
-    <title>Juke Box</title>
-</programme>
-<programme start="20260212213000 +0000" stop="20260212223000 +0000" channel="Music TV HD.mncvision">
-    <title>K-Hits</title>
-</programme>
-<programme start="20260212223000 +0000" stop="20260213001500 +0000" channel="Music TV HD.mncvision">
-    <title>One Hour With</title>
-</programme>
-<programme start="20260213001500 +0000" stop="20260213023000 +0000" channel="Music TV HD.mncvision">
-    <title>DMD Panggung Rezeki</title>
-</programme>
-<programme start="20260213023000 +0000" stop="20260213031500 +0000" channel="Music TV HD.mncvision">
-    <title>The Best Concert 2017</title>
-</programme>
-<programme start="20260213031500 +0000" stop="20260213034500 +0000" channel="Music TV HD.mncvision">
-    <title>Music Files</title>
-</programme>
-<programme start="20260213034500 +0000" stop="20260213041500 +0000" channel="Music TV HD.mncvision">
-    <title>I Just Wanna Say I Love You</title>
-</programme>
-<programme start="20260213041500 +0000" stop="20260213050000 +0000" channel="Music TV HD.mncvision">
-    <title>Godain</title>
-</programme>
-<programme start="20260213050000 +0000" stop="20260213070000 +0000" channel="Music TV HD.mncvision">
-    <title>DMD Panggung Rezeki</title>
-</programme>
-<programme start="20260213070000 +0000" stop="20260213073000 +0000" channel="Music TV HD.mncvision">
-    <title>XOXO</title>
-</programme>
-<programme start="20260213073000 +0000" stop="20260213083000 +0000" channel="Music TV HD.mncvision">
-    <title>Idolove</title>
-</programme>
-<programme start="20260213083000 +0000" stop="20260213100000 +0000" channel="Music TV HD.mncvision">
-    <title>Idolyfe</title>
-</programme>
-<programme start="20260213100000 +0000" stop="20260213110000 +0000" channel="Music TV HD.mncvision">
-    <title>Godain</title>
-</programme>
-<programme start="20260213110000 +0000" stop="20260213120000 +0000" channel="Music TV HD.mncvision">
-    <title>K-Hits</title>
-</programme>
-<programme start="20260213120000 +0000" stop="20260213130000 +0000" channel="Music TV HD.mncvision">
-    <title>Juke Box</title>
-</programme>
-<programme start="20260213130000 +0000" stop="20260213140000 +0000" channel="Music TV HD.mncvision">
-    <title>FWB</title>
-</programme>
-<programme start="20260213140000 +0000" stop="20260213150000 +0000" channel="Music TV HD.mncvision">
-    <title>Dahsyat</title>
-</programme>
-<programme start="20260213150000 +0000" stop="20260213163000 +0000" channel="Music TV HD.mncvision">
-    <title>Keluarga Seleb Indonesia</title>
-</programme>
-<programme start="20260213163000 +0000" stop="20260212170000 +0000" channel="Music TV HD.mncvision">
-    <title>KDI 2025</title>
-</programme>
-<programme start="20260212173000 +0000" stop="20260212193000 +0000" channel="Muslim TV.mncvision">
-    <title>Live Dari Mekkah (L)</title>
-</programme>
-<programme start="20260212193000 +0000" stop="20260212200000 +0000" channel="Muslim TV.mncvision">
-    <title>World Of Moslem</title>
-</programme>
-<programme start="20260212200000 +0000" stop="20260212210000 +0000" channel="Muslim TV.mncvision">
-    <title>Aisyah Putri: Jilbab In Love</title>
-</programme>
-<programme start="20260212210000 +0000" stop="20260212220000 +0000" channel="Muslim TV.mncvision">
-    <title>Lentera Hati</title>
-</programme>
-<programme start="20260212220000 +0000" stop="20260212233000 +0000" channel="Muslim TV.mncvision">
-    <title>Hafiz Indonesia 2021</title>
-</programme>
-<programme start="20260212233000 +0000" stop="20260213004500 +0000" channel="Muslim TV.mncvision">
-    <title>Siraman Qolbu, Ust. Dhanu</title>
-</programme>
-<programme start="20260213004500 +0000" stop="20260213014500 +0000" channel="Muslim TV.mncvision">
-    <title>Kun Anta</title>
-</programme>
-<programme start="20260213014500 +0000" stop="20260213041500 +0000" channel="Muslim TV.mncvision">
-    <title>Amanah Wali S4</title>
-</programme>
-<programme start="20260213041500 +0000" stop="20260213051500 +0000" channel="Muslim TV.mncvision">
-    <title>Mahar 30 Juz</title>
-</programme>
-<programme start="20260213051500 +0000" stop="20260213053000 +0000" channel="Muslim TV.mncvision">
-    <title>Cahaya Tauhid Aa Gym</title>
-</programme>
-<programme start="20260213053000 +0000" stop="20260213070000 +0000" channel="Muslim TV.mncvision">
-    <title>Doa Ibu (Kekuatan Doa)</title>
-</programme>
-<programme start="20260213070000 +0000" stop="20260213073000 +0000" channel="Muslim TV.mncvision">
-    <title>Ambil Jeda: Berbuat Kebaikan</title>
-</programme>
-<programme start="20260213073000 +0000" stop="20260213083000 +0000" channel="Muslim TV.mncvision">
-    <title>Sahabat Ustadz</title>
-</programme>
-<programme start="20260213083000 +0000" stop="20260213090000 +0000" channel="Muslim TV.mncvision">
-    <title>Kajian Bioskop</title>
-</programme>
-<programme start="20260213090000 +0000" stop="20260213100000 +0000" channel="Muslim TV.mncvision">
-    <title>Lentera Hati</title>
-</programme>
-<programme start="20260213100000 +0000" stop="20260213123000 +0000" channel="Muslim TV.mncvision">
-    <title>Amanah Wali S4</title>
-</programme>
-<programme start="20260213123000 +0000" stop="20260213133000 +0000" channel="Muslim TV.mncvision">
-    <title>Aisyah Putri: Jilbab In Love</title>
-</programme>
-<programme start="20260213133000 +0000" stop="20260213140000 +0000" channel="Muslim TV.mncvision">
-    <title>World Of Moslem</title>
-</programme>
-<programme start="20260213140000 +0000" stop="20260213150000 +0000" channel="Muslim TV.mncvision">
-    <title>Lentera Hati</title>
-</programme>
-<programme start="20260213150000 +0000" stop="20260213160000 +0000" channel="Muslim TV.mncvision">
-    <title>Catatan Hati Seorang Istri</title>
-</programme>
-<programme start="20260213160000 +0000" stop="20260213163000 +0000" channel="Muslim TV.mncvision">
-    <title>Cahaya Hati Indonesia</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260212170000 +0000" stop="20260212173000 +0000" channel="NHK World.mncvision">
     <title>NHK Newsline</title>
 </programme>
@@ -8158,54 +8035,7 @@
 <programme start="20260213153000 +0000" stop="20260213160000 +0000" channel="Sportstars 2.mncvision">
     <title>IBA Mens World C&#039;ship 2025</title>
 </programme>
-<programme start="20260212170000 +0000" stop="20260212190000 +0000" channel="Sportstars 2 HD.mncvision">
-    <title>V-League</title>
-</programme>
-<programme start="20260212190000 +0000" stop="20260212210000 +0000" channel="Sportstars 2 HD.mncvision">
-    <title>Best Of Megatron</title>
-</programme>
-<programme start="20260212210000 +0000" stop="20260212233000 +0000" channel="Sportstars 2 HD.mncvision">
-    <title>Daihatsu Indonesia Masters 2026</title>
-</programme>
-<programme start="20260212233000 +0000" stop="20260213000000 +0000" channel="Sportstars 2 HD.mncvision">
-    <title>Sportrivia</title>
-</programme>
-<programme start="20260213000000 +0000" stop="20260213003000 +0000" channel="Sportstars 2 HD.mncvision">
-    <title>iNews Sport</title>
-</programme>
-<programme start="20260213003000 +0000" stop="20260213023000 +0000" channel="Sportstars 2 HD.mncvision">
-    <title>AFC U23 Asian Cup Saudi Arabia</title>
-</programme>
-<programme start="20260213023000 +0000" stop="20260213030000 +0000" channel="Sportstars 2 HD.mncvision">
-    <title>Sport Today</title>
-</programme>
-<programme start="20260213030000 +0000" stop="20260213050000 +0000" channel="Sportstars 2 HD.mncvision">
-    <title>Best Of Megatron</title>
-</programme>
-<programme start="20260213050000 +0000" stop="20260213070000 +0000" channel="Sportstars 2 HD.mncvision">
-    <title>V-League</title>
-</programme>
-<programme start="20260213070000 +0000" stop="20260213080000 +0000" channel="Sportstars 2 HD.mncvision">
-    <title>IBA Mens World C&#039;ship 2026</title>
-</programme>
-<programme start="20260213080000 +0000" stop="20260213100000 +0000" channel="Sportstars 2 HD.mncvision">
-    <title>AFC U23 Asian Cup Saudi Arabia</title>
-</programme>
-<programme start="20260213100000 +0000" stop="20260213120000 +0000" channel="Sportstars 2 HD.mncvision">
-    <title>V-League Men (L)</title>
-</programme>
-<programme start="20260213120000 +0000" stop="20260213130000 +0000" channel="Sportstars 2 HD.mncvision">
-    <title>Daihatsu Indonesia Masters 2026</title>
-</programme>
-<programme start="20260213130000 +0000" stop="20260213150000 +0000" channel="Sportstars 2 HD.mncvision">
-    <title>Best Of Megatron</title>
-</programme>
-<programme start="20260213150000 +0000" stop="20260213153000 +0000" channel="Sportstars 2 HD.mncvision">
-    <title>World Classic League</title>
-</programme>
-<programme start="20260213153000 +0000" stop="20260213160000 +0000" channel="Sportstars 2 HD.mncvision">
-    <title>IBA Mens World C&#039;ship 2025</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260212170000 +0000" stop="20260212190000 +0000" channel="Sportstars 3.mncvision">
     <title>Bundesliga</title>
 </programme>

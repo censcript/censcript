@@ -1940,10 +1940,10 @@
         <title>UCL Classic Matches Barcelona vs Arsenal (2005/06)</title>
     </programme>
     <programme start="20260212174000 +0000" stop="20260212195500 +0000" channel="beIN Sports 3.starhub">
-        <title>UEFA Women&#039;s Champions League 2025/26: Wolfsburg vs Juventus - KO Play-Offs,1st</title>
+        <title>UEFA Women&#039;s Champions League 2025/26: Wolfsburg vs Juventus - KO Play-Offs,1st Leg (Live)</title>
     </programme>
     <programme start="20260212195500 +0000" stop="20260212220000 +0000" channel="beIN Sports 3.starhub">
-        <title>UEFA Women&#039;s Champions League 2025/26: Atletico Madrid vs Man United - KO Play-O</title>
+        <title>UEFA Women&#039;s Champions League 2025/26: Atletico Madrid vs Man United - KO Play-Offs,1st Leg (Live)</title>
     </programme>
     <programme start="20260212220000 +0000" stop="20260212230000 +0000" channel="beIN Sports 3.starhub">
         <title>Mechelen, Belgium</title>
@@ -1952,7 +1952,7 @@
         <title>ONE Weekly 2026</title>
     </programme>
     <programme start="20260212233000 +0000" stop="20260213012000 +0000" channel="beIN Sports 3.starhub">
-        <title>UEFA Women&#039;s Champions League 2025/26: Wolfsburg vs Juventus - KO Play-Offs,1st</title>
+        <title>UEFA Women&#039;s Champions League 2025/26: Wolfsburg vs Juventus - KO Play-Offs,1st Leg</title>
     </programme>
     <programme start="20260213012000 +0000" stop="20260213031000 +0000" channel="beIN Sports 3.starhub">
         <title>UEFA Champions League 2025/26: Man City vs Galatasaray - MD8</title>
@@ -1967,13 +1967,13 @@
         <title>Leipzig, Germany</title>
     </programme>
     <programme start="20260213070000 +0000" stop="20260213090000 +0000" channel="beIN Sports 3.starhub">
-        <title>UEFA Women&#039;s Champions League 2025/26: Wolfsburg vs Juventus - KO Play-Offs,1st</title>
+        <title>UEFA Women&#039;s Champions League 2025/26: Wolfsburg vs Juventus - KO Play-Offs,1st Leg</title>
     </programme>
     <programme start="20260213090000 +0000" stop="20260213093000 +0000" channel="beIN Sports 3.starhub">
         <title>Bundesliga Weekly 2025/26</title>
     </programme>
     <programme start="20260213093000 +0000" stop="20260213113000 +0000" channel="beIN Sports 3.starhub">
-        <title>UEFA Women&#039;s Champions League 2025/26: Atletico Madrid vs Man United - KO Play-O</title>
+        <title>UEFA Women&#039;s Champions League 2025/26: Atletico Madrid vs Man United - KO Play-Offs,1st Leg</title>
     </programme>
     <programme start="20260213113000 +0000" stop="20260213120000 +0000" channel="beIN Sports 3.starhub">
         <title>Knockout RD Play-Offs, 1st Leg</title>
@@ -3790,8 +3790,11 @@
     <programme start="20260212184500 +0000" stop="20260212191200 +0000" channel="NHK World Premium HD.starhub">
         <title>Prime Fukushima (R)</title>
     </programme>
-    <programme start="20260212191200 +0000" stop="20260212193000 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20260212191200 +0000" stop="20260212191500 +0000" channel="NHK World Premium HD.starhub">
         <title>Mini Program</title>
+    </programme>
+    <programme start="20260212191500 +0000" stop="20260212193000 +0000" channel="NHK World Premium HD.starhub">
+        <title>Magnificent Sight!--Mountain Lodges in Europe</title>
     </programme>
     <programme start="20260212193000 +0000" stop="20260212195800 +0000" channel="NHK World Premium HD.starhub">
         <title>Where We Call Home Encore (B)</title>
