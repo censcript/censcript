@@ -7,7 +7,7 @@
   </channel>
   <programme start="20260211153000 +0000" stop="20260211160000 +0000" channel="inspirasi.unifitv">
     <title lang="en">TRENDSETTER</title>
-    <desc lang="en">TRENDSETTER</desc>
+    <desc lang="en">Episod kali ini, dalam usha kedai kali ini di Swyv Footware, segmen gaya &amp; kerjaya bersama Freestyle skateboarder Azzam dan bedah kotak untuk melihat Kaca mata, Rayband Meta Wayfarer.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">7.0.</episode-num>
     <episode-num system="onscreen">S8E1</episode-num>
@@ -28,7 +28,7 @@
   </programme>
   <programme start="20260211173000 +0000" stop="20260211180000 +0000" channel="inspirasi.unifitv">
     <title lang="en">TRENDSETTER</title>
-    <desc lang="en">TRENDSETTER</desc>
+    <desc lang="en">Episod kali ini, dalam usha kedai kali ini di Swyv Footware, segmen gaya &amp; kerjaya bersama Freestyle skateboarder Azzam dan bedah kotak untuk melihat Kaca mata, Rayband Meta Wayfarer.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">7.0.</episode-num>
     <episode-num system="onscreen">S8E1</episode-num>
@@ -119,7 +119,7 @@
   </programme>
   <programme start="20260212003000 +0000" stop="20260212010000 +0000" channel="inspirasi.unifitv">
     <title lang="en">TRENDSETTER</title>
-    <desc lang="en">TRENDSETTER</desc>
+    <desc lang="en">Episod kali ini, dalam usha kedai kali ini di Swyv Footware, segmen gaya &amp; kerjaya bersama Freestyle skateboarder Azzam dan bedah kotak untuk melihat Kaca mata, Rayband Meta Wayfarer.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">7.0.</episode-num>
     <episode-num system="onscreen">S8E1</episode-num>
@@ -189,7 +189,7 @@
   </programme>
   <programme start="20260212053000 +0000" stop="20260212060000 +0000" channel="inspirasi.unifitv">
     <title lang="en">TRENDSETTER</title>
-    <desc lang="en">TRENDSETTER</desc>
+    <desc lang="en">Episod kali ini, dalam usha kedai kali ini di Swyv Footware, segmen gaya &amp; kerjaya bersama Freestyle skateboarder Azzam dan bedah kotak untuk melihat Kaca mata, Rayband Meta Wayfarer.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">7.0.</episode-num>
     <episode-num system="onscreen">S8E1</episode-num>
@@ -252,7 +252,7 @@
   </programme>
   <programme start="20260212103000 +0000" stop="20260212110000 +0000" channel="inspirasi.unifitv">
     <title lang="en">TRENDSETTER</title>
-    <desc lang="en">TRENDSETTER</desc>
+    <desc lang="en">Episod kali ini, dalam usha kedai kali ini di Swyv Footware, segmen gaya &amp; kerjaya bersama Freestyle skateboarder Azzam dan bedah kotak untuk melihat Kaca mata, Rayband Meta Wayfarer.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">7.0.</episode-num>
     <episode-num system="onscreen">S8E1</episode-num>
@@ -280,7 +280,7 @@
   </programme>
   <programme start="20260212123000 +0000" stop="20260212130000 +0000" channel="inspirasi.unifitv">
     <title lang="en">TRENDSETTER</title>
-    <desc lang="en">TRENDSETTER</desc>
+    <desc lang="en">Episod kali ini, dalam usha kedai kali ini di Swyv Footware, segmen gaya &amp; kerjaya bersama Freestyle skateboarder Azzam dan bedah kotak untuk melihat Kaca mata, Rayband Meta Wayfarer.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">7.0.</episode-num>
     <episode-num system="onscreen">S8E1</episode-num>
@@ -3542,14 +3542,14 @@
   </programme>
   <programme start="20260212080500 +0000" stop="20260212083500 +0000" channel="tvbjade.unifitv">
     <title lang="en">Dolce Vita 2021</title>
-    <desc lang="en">Hong Kong life is vibrant and diverse, and "Hong Kong Life, Hong Kong Enjoyment" presents both sophisticated and elegant lifestyles and down-to-earth, high-quality experiences. The program combines diverse themes, exploring different areas in each episode and inviting elites from various industries to share their secrets to success.</desc>
+    <desc lang="en">Maria's Auspicious Menu 9 &amp; What's On Today</desc>
     <category lang="en">Entertainment</category>
     <episode-num system="xmltv_ns">0.7.</episode-num>
     <episode-num system="onscreen">S1E8</episode-num>
   </programme>
   <programme start="20260212083500 +0000" stop="20260212090500 +0000" channel="tvbjade.unifitv">
     <title lang="en">Open Book</title>
-    <desc lang="en">In this fast-food era of digitized books and chapters, where a smartphone can reveal all the world's happenings, few people still maintain the habit of reading. Patrick Sir, a well-read bibliophile, joins forces with young readers like Oscar Tao and Honey Ho to reaffirm the value of physical books. Each episode introduces a great book, opening up scientific texts, historical literature, novels, and even fashion magazines to share interesting knowledge discovered within the pages. When was the last time you thoroughly read an entire book? Take inspiration from the reading lists of top book lovers, take action, leave some breathing room in your busy life, and rekindle your reading habits to enrich yourself!</desc>
+    <desc lang="en">2026 Feng Shui and Fortune &amp; What's On Today</desc>
     <category lang="en">Entertainment</category>
     <episode-num system="xmltv_ns">0.97.</episode-num>
     <episode-num system="onscreen">S1E98</episode-num>
@@ -12915,7 +12915,7 @@
   </programme>
   <programme start="20260211163300 +0000" stop="20260211170300 +0000" channel="aljazeera.unifitv">
     <title lang="en">The Bottom Line</title>
-    <desc lang="en">Weekly discussion show on U.S. politics and policies hosted by Steve Clemons.</desc>
+    <desc lang="en">The U.S. launched a war last time the two sides were talking. Will this time be different? Iran analyst Trita Parsi weighs in.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.5.</episode-num>
     <episode-num system="onscreen">S1E6</episode-num>
@@ -13000,7 +13000,7 @@
   </programme>
   <programme start="20260212023300 +0000" stop="20260212030300 +0000" channel="aljazeera.unifitv">
     <title lang="en">The Stream</title>
-    <desc lang="en">Powered by social media, The Stream brings fresh perspectives and new voices, beyond the headlines.</desc>
+    <desc lang="en">Today on The Stream: As portions shrink and prices rise, shoppers feel the hidden cost of shrinkflation.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.7.</episode-num>
     <episode-num system="onscreen">S1E8</episode-num>
@@ -13014,6 +13014,8 @@
     <title lang="en">Making Peace</title>
     <desc lang="en">In post-genocide Rwanda, fragile encounters see survivors and perpetrators face the past to reopen paths to coexistence.</desc>
     <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.4.</episode-num>
+    <episode-num system="onscreen">S1E5</episode-num>
   </programme>
   <programme start="20260212040300 +0000" stop="20260212043300 +0000" channel="aljazeera.unifitv">
     <title lang="en">News Live</title>
@@ -13044,7 +13046,7 @@
   </programme>
   <programme start="20260212063300 +0000" stop="20260212070300 +0000" channel="aljazeera.unifitv">
     <title lang="en">The Bottom Line</title>
-    <desc lang="en">Weekly discussion show on U.S. politics and policies hosted by Steve Clemons.</desc>
+    <desc lang="en">The U.S. launched a war last time the two sides were talking. Will this time be different? Iran analyst Trita Parsi weighs in.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.5.</episode-num>
     <episode-num system="onscreen">S1E6</episode-num>
@@ -13066,7 +13068,7 @@
   </programme>
   <programme start="20260212083300 +0000" stop="20260212090300 +0000" channel="aljazeera.unifitv">
     <title lang="en">The Listening Post</title>
-    <desc lang="en">What is being reported by world media and how? Richard Gizbert guides you through the global news maze.</desc>
+    <desc lang="en">Mapping the scale of the Epstein network, and why parts of the story are being downplayed. And, the farce of the 'ceasefire' in Gaza.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.5.</episode-num>
     <episode-num system="onscreen">S1E6</episode-num>
@@ -13115,7 +13117,7 @@
   </programme>
   <programme start="20260212143300 +0000" stop="20260212150300 +0000" channel="aljazeera.unifitv">
     <title lang="en">Talk to Al Jazeera</title>
-    <desc lang="en">Azerbaijan's legendary mugham singer on his art, a UNESCO-recognised intangible heritage.</desc>
+    <desc lang="en">Somalia's President on US pressure, Israel's recognition of Somaliland, and elections that could define the country's future.</desc>
     <category lang="en">News</category>
   </programme>
   <programme start="20260212150300 +0000" stop="20260212160300 +0000" channel="aljazeera.unifitv">
