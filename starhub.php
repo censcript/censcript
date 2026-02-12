@@ -7960,7 +7960,7 @@
     <programme start="20260211213000 +0000" stop="20260211233000 +0000" channel="Asianet Movies.starhub">
         <title>Maniyarayile Ashokan</title>
     </programme>
-    <programme start="20260211233000 +0000" stop="20260212013000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260211232500 +0000" stop="20260212013000 +0000" channel="Asianet Movies.starhub">
         <title>Nanma</title>
     </programme>
     <programme start="20260212013000 +0000" stop="20260212043000 +0000" channel="Asianet Movies.starhub">
