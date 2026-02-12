@@ -1,7 +1,3 @@
-<programme start="20260213010000 +0700" stop="20260213030000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: SL Benfica - Real Madrid CF</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260213030000 +0700" stop="20260213050000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Paris Saint Germain - Newcastle United</title>
     <desc>Live: Tidak</desc>
@@ -58,8 +54,8 @@
     <title>UEFA Champions League Highlights 2025-26</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260213000000 +0700" stop="20260213021500 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Levadiakos - OFI</title>
+<programme start="20260214033000 +0700" stop="20260214040000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Game R1 S6 E25</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260213021500 +0700" stop="20260213043000 +0700" channel="COSMOTE Sport 2 HD">
@@ -258,14 +254,6 @@
     <title>Basketball: Karditsa - AEK</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260213012500 +0700" stop="20260213021500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC: More Than Machine S2 E5</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260213021500 +0700" stop="20260213030000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC: More Than Machine S2 E6</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260213030000 +0700" stop="20260213035000 +0700" channel="COSMOTE Sport 5 HD">
     <title>WRC: More Than Machine S2 E7</title>
     <desc>Live: Tidak</desc>
@@ -362,6 +350,10 @@
     <title>WRC 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260214031500 +0700" stop="20260214041000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC 2026</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260213013000 +0700" stop="20260213033000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Hamad Madjedovic - Felix Auger-Aliassime (L)</title>
     <desc>Live: Ya</desc>
@@ -410,9 +402,9 @@
     <title>Tennis: ATP 500 2026 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260213010000 +0700" stop="20260213030000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
-    <desc>Live: Tidak</desc>
+<programme start="20260214033000 +0700" stop="20260214060000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: ATP 500 2026 (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260213030000 +0700" stop="20260213050000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
@@ -469,6 +461,10 @@
 <programme start="20260214010000 +0700" stop="20260214033000 +0700" channel="COSMOTE Sport 7 HD">
     <title>Premier Padel Tour 2026 (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20260214033000 +0700" stop="20260214040000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260213010000 +0700" stop="20260213033000 +0700" channel="COSMOTE Sport 8 HD">
     <title>Tennis: Ethan Quinn - Marin Cilic (L)</title>
@@ -534,9 +530,9 @@
     <title>Tennis: ATP 500 2026 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260213010000 +0700" stop="20260213030000 +0700" channel="COSMOTE Sport 9 HD">
-    <title>COSMOTESport9HD</title>
-    <desc>Live: Tidak</desc>
+<programme start="20260214030000 +0700" stop="20260214053000 +0700" channel="COSMOTE Sport 8 HD">
+    <title>Tennis: ATP 500 2026 (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260213030000 +0700" stop="20260213050000 +0700" channel="COSMOTE Sport 9 HD">
     <title>COSMOTESport9HD</title>
@@ -589,5 +585,9 @@
 <programme start="20260214013000 +0700" stop="20260214033000 +0700" channel="COSMOTE Sport 9 HD">
     <title>Football: Santa Clara - SL Benfica (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20260214033000 +0700" stop="20260214040000 +0700" channel="COSMOTE Sport 9 HD">
+    <title>COSMOTESport9HD</title>
+    <desc>Live: Tidak</desc>
 </programme>
 No EPG found for COSMOTE Sport 10 HD

@@ -658,6 +658,9 @@
 <programme start="20260212003000 +0000" stop="20260212023000 +0000" channel="ANTV.vision">
 <title>Janji Inspektur Virat</title>
 </programme>
+<programme start="20260212023000 +0000" stop="20260212060000 +0000" channel="ANTV.vision">
+<title>Commando: A One Man Army</title>
+</programme>
 <programme start="20260212060000 +0000" stop="20260212083000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -683,7 +686,7 @@
 <title>Anna In Kungfu Land</title>
 </programme>
 <programme start="20260212220000 +0000" stop="20260212233000 +0000" channel="ANTV.vision">
-<title>Bangkok Police Woman</title>
+<title>True Justice S1: Street Wars</title>
 </programme>
 <programme start="20260212233000 +0000" stop="20260213003000 +0000" channel="ANTV.vision">
 <title>Baalveer Returns</title>
@@ -1493,8 +1496,5 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260212050000 +0000" stop="20260212070000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260212070000 +0000" stop="20260212090000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
