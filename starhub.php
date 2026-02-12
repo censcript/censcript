@@ -7951,13 +7951,13 @@
     <programme start="20260211133000 +0000" stop="20260211163000 +0000" channel="Asianet Movies.starhub">
         <title>Sound Thoma</title>
     </programme>
-    <programme start="20260211163000 +0000" stop="20260211193000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260211163000 +0000" stop="20260211190000 +0000" channel="Asianet Movies.starhub">
         <title>Adi Kapyare Koottamani</title>
     </programme>
-    <programme start="20260211193000 +0000" stop="20260211213000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260211190000 +0000" stop="20260211214000 +0000" channel="Asianet Movies.starhub">
         <title>Sallapam</title>
     </programme>
-    <programme start="20260211213000 +0000" stop="20260211233000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260211214000 +0000" stop="20260211232500 +0000" channel="Asianet Movies.starhub">
         <title>Maniyarayile Ashokan</title>
     </programme>
     <programme start="20260211232500 +0000" stop="20260212013000 +0000" channel="Asianet Movies.starhub">

@@ -8063,7 +8063,7 @@
     <title>Best Of Megatron</title>
 </programme>
 <programme start="20260211230000 +0000" stop="20260211233000 +0000" channel="Sportstars.mncvision">
-    <title>Sport Today</title>
+    <title>Sports Today</title>
 </programme>
 <programme start="20260211233000 +0000" stop="20260212000000 +0000" channel="Sportstars.mncvision">
     <title>Bloopers</title>
@@ -8096,7 +8096,7 @@
     <title>SEA Games Thailand 2025</title>
 </programme>
 <programme start="20260212130000 +0000" stop="20260212133000 +0000" channel="Sportstars.mncvision">
-    <title>Sport Today</title>
+    <title>Sports Today</title>
 </programme>
 <programme start="20260212133000 +0000" stop="20260212153000 +0000" channel="Sportstars.mncvision">
     <title>V-League 2025-2026 Women</title>
@@ -8372,7 +8372,7 @@
     <title>Best Of Megatron</title>
 </programme>
 <programme start="20260211230000 +0000" stop="20260211233000 +0000" channel="Sportstars HD.mncvision">
-    <title>Sport Today</title>
+    <title>Sports Today</title>
 </programme>
 <programme start="20260211233000 +0000" stop="20260212000000 +0000" channel="Sportstars HD.mncvision">
     <title>Bloopers</title>
@@ -8405,7 +8405,7 @@
     <title>SEA Games Thailand 2025</title>
 </programme>
 <programme start="20260212130000 +0000" stop="20260212133000 +0000" channel="Sportstars HD.mncvision">
-    <title>Sport Today</title>
+    <title>Sports Today</title>
 </programme>
 <programme start="20260212133000 +0000" stop="20260212153000 +0000" channel="Sportstars HD.mncvision">
     <title>V-League 2025-2026 Women</title>

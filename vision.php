@@ -1,11 +1,8 @@
 <programme start="20260211230000 +0000" stop="20260212010000 +0000" channel="RCTI.vision">
 <title>Upin Ipin</title>
 </programme>
-<programme start="20260212010000 +0000" stop="20260212013000 +0000" channel="RCTI.vision">
+<programme start="20260212010000 +0000" stop="20260212020000 +0000" channel="RCTI.vision">
 <title>Kiko</title>
-</programme>
-<programme start="20260212013000 +0000" stop="20260212033000 +0000" channel="RCTI.vision">
-<title>Dahsyat (RCTI)</title>
 </programme>
 <programme start="20260212033000 +0000" stop="20260212043000 +0000" channel="RCTI.vision">
 <title>Silet (RCTI)</title>
@@ -13,14 +10,8 @@
 <programme start="20260212043000 +0000" stop="20260212050000 +0000" channel="RCTI.vision">
 <title>Seputar iNews Siang</title>
 </programme>
-<programme start="20260212050000 +0000" stop="20260212063000 +0000" channel="RCTI.vision">
-<title>Amanah Wali S5</title>
-</programme>
 <programme start="20260212063000 +0000" stop="20260212083000 +0000" channel="RCTI.vision">
 <title>Preman Pensiun S6</title>
-</programme>
-<programme start="20260212083000 +0000" stop="20260212100000 +0000" channel="RCTI.vision">
-<title>Cinta Turun Ke Bumi</title>
 </programme>
 <programme start="20260212100000 +0000" stop="20260212113000 +0000" channel="RCTI.vision">
 <title>Aira (RCTI)</title>
@@ -657,9 +648,6 @@
 </programme>
 <programme start="20260212003000 +0000" stop="20260212023000 +0000" channel="ANTV.vision">
 <title>Janji Inspektur Virat</title>
-</programme>
-<programme start="20260212023000 +0000" stop="20260212060000 +0000" channel="ANTV.vision">
-<title>Commando: A One Man Army</title>
 </programme>
 <programme start="20260212060000 +0000" stop="20260212083000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
@@ -1496,5 +1484,8 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260212050000 +0000" stop="20260212070000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260212070000 +0000" stop="20260212090000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
