@@ -3947,10 +3947,10 @@
         <title>War Dogs</title>
     </programme>
     <programme start="20260211163000 +0000" stop="20260211173500 +0000" channel="HBO HD.starhub">
-        <title>Industry S4</title>
+        <title>Eyes Without A Face</title>
     </programme>
     <programme start="20260211173500 +0000" stop="20260211181000 +0000" channel="HBO HD.starhub">
-        <title>A Knight Of The Seven Kingdoms S1</title>
+        <title>Seven</title>
     </programme>
     <programme start="20260211181000 +0000" stop="20260211195500 +0000" channel="HBO HD.starhub">
         <title>Paranormal Activity: Next Of Kin</title>

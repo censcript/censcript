@@ -515,7 +515,7 @@
         <title>Seithi</title>
     </programme>
     <programme start="20260211160000 +0000" stop="20260211160300 +0000" channel="CNA.mewatch">
-        <title>Headline News 2025/2026</title>
+        <title>Headline News</title>
     </programme>
     <programme start="20260211160300 +0000" stop="20260211170000 +0000" channel="CNA.mewatch">
         <title>East Asia Tonight</title>
@@ -587,7 +587,7 @@
         <title>CNA Correspondent - EP 35</title>
     </programme>
     <programme start="20260212160000 +0000" stop="20260212160300 +0000" channel="CNA.mewatch">
-        <title>Headline News 2025/2026</title>
+        <title>Headline News</title>
     </programme>
     <programme start="20260211160000 +0000" stop="20260212160000 +0000" channel="spl01.mewatch">
         <title>No Programme available now. Next Broadcast on 13th February, Friday 7.20pm. Singapore Premier League 2025/2026</title>
