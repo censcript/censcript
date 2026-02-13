@@ -1068,6 +1068,99 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260213222000 +0000" stop="20260213230500 +0000" channel="Heimatkanal.skyde">
     <title>Da kommt Kalle</title>
 </programme>
+<programme start="20260212233000 +0000" stop="20260213001500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Terra X: Rätselhafte Phänomene</title>
+</programme>
+<programme start="20260213001500 +0000" stop="20260213010000 +0000" channel="HISTORY Channel HD.skyde">
+    <title>The Proof Is Out There - Unexplained Edition</title>
+</programme>
+<programme start="20260213010000 +0000" stop="20260213014500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>The Proof is Out There - Alien Edition</title>
+</programme>
+<programme start="20260213014500 +0000" stop="20260213023000 +0000" channel="HISTORY Channel HD.skyde">
+    <title>History&#039;s Greatest Mysteries</title>
+</programme>
+<programme start="20260213023000 +0000" stop="20260213031500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>History&#039;s Greatest Mysteries</title>
+</programme>
+<programme start="20260213031500 +0000" stop="20260213035500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Das Geheimnis der Skinwalker Ranch</title>
+</programme>
+<programme start="20260213035500 +0000" stop="20260213044000 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Das Geheimnis der Skinwalker Ranch</title>
+</programme>
+<programme start="20260213044000 +0000" stop="20260213053000 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Das Geheimnis der Skinwalker Ranch</title>
+</programme>
+<programme start="20260213053000 +0000" stop="20260213061500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Ancient Aliens - Unerklärliche Phänomene</title>
+</programme>
+<programme start="20260213061500 +0000" stop="20260213070000 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Ancient Aliens - Unerklärliche Phänomene</title>
+</programme>
+<programme start="20260213070000 +0000" stop="20260213074500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Ancient Aliens - Unerklärliche Phänomene</title>
+</programme>
+<programme start="20260213074500 +0000" stop="20260213083000 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Ancient Aliens - Unerklärliche Phänomene</title>
+</programme>
+<programme start="20260213083000 +0000" stop="20260213092000 +0000" channel="HISTORY Channel HD.skyde">
+    <title>The Proof is Out There - Auf den Spuren des Unerklärlichen</title>
+</programme>
+<programme start="20260213092000 +0000" stop="20260213100500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>The Proof is Out There - Auf den Spuren des Unerklärlichen</title>
+</programme>
+<programme start="20260213100500 +0000" stop="20260213105000 +0000" channel="HISTORY Channel HD.skyde">
+    <title>The UnXplained mit William Shatner</title>
+</programme>
+<programme start="20260213105000 +0000" stop="20260213114000 +0000" channel="HISTORY Channel HD.skyde">
+    <title>The UnXplained mit William Shatner</title>
+</programme>
+<programme start="20260213114000 +0000" stop="20260213122500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Zukunft ohne Menschen</title>
+</programme>
+<programme start="20260213122500 +0000" stop="20260213130500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Zukunft ohne Menschen</title>
+</programme>
+<programme start="20260213130500 +0000" stop="20260213135500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>The Proof is Out There - Auf den Spuren des Unerklärlichen</title>
+</programme>
+<programme start="20260213135500 +0000" stop="20260213144000 +0000" channel="HISTORY Channel HD.skyde">
+    <title>The Proof is Out There - Auf den Spuren des Unerklärlichen</title>
+</programme>
+<programme start="20260213144000 +0000" stop="20260213152500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>The UnXplained mit William Shatner</title>
+</programme>
+<programme start="20260213152500 +0000" stop="20260213161000 +0000" channel="HISTORY Channel HD.skyde">
+    <title>The UnXplained mit William Shatner</title>
+</programme>
+<programme start="20260213161000 +0000" stop="20260213165500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Ancient Aliens - Unerklärliche Phänomene</title>
+</programme>
+<programme start="20260213165500 +0000" stop="20260213174000 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Ancient Aliens - Unerklärliche Phänomene</title>
+</programme>
+<programme start="20260213174000 +0000" stop="20260213183000 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Ancient Aliens - Unerklärliche Phänomene</title>
+</programme>
+<programme start="20260213183000 +0000" stop="20260213191500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Ancient Aliens - Unerklärliche Phänomene</title>
+</programme>
+<programme start="20260213191500 +0000" stop="20260213201000 +0000" channel="HISTORY Channel HD.skyde">
+    <title>D-Day - Die Stimme der Soldaten</title>
+</programme>
+<programme start="20260213201000 +0000" stop="20260213211000 +0000" channel="HISTORY Channel HD.skyde">
+    <title>D-Day - Die Stimme der Soldaten</title>
+</programme>
+<programme start="20260213211000 +0000" stop="20260213220000 +0000" channel="HISTORY Channel HD.skyde">
+    <title>7. Juli - Terror in London</title>
+</programme>
+<programme start="20260213220000 +0000" stop="20260213225500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>7. Juli - Terror in London</title>
+</programme>
+<programme start="20260213225500 +0000" stop="20260213235000 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Terra X: Die letzten Geheimnisse des Orients</title>
+</programme>
 <programme start="20260212230000 +0000" stop="20260213010000 +0000" channel="Jukebox.skyde">
     <title>BACK TO ... 2016</title>
 </programme>
@@ -2960,6 +3053,117 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 </programme>
 <programme start="20260213220000 +0000" stop="20260213230000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Deine Vorschau</title>
+</programme>
+<programme start="20260213005000 +0000" stop="20260213012000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Club 100: Ryan Giggs</title>
+</programme>
+<programme start="20260213012000 +0000" stop="20260213013500 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Under the Skin (Crystal Palace)</title>
+</programme>
+<programme start="20260213013500 +0000" stop="20260213023000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: 1 to 11 (Dwight Yorke)</title>
+</programme>
+<programme start="20260213023000 +0000" stop="20260213033000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: 1 to 11 (Ruud Gullit)</title>
+</programme>
+<programme start="20260213033000 +0000" stop="20260213040000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Club 100: David James</title>
+</programme>
+<programme start="20260213040000 +0000" stop="20260213043000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Legends: Ian Wright</title>
+</programme>
+<programme start="20260213043000 +0000" stop="20260213050000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Legends: Sol Campbell</title>
+</programme>
+<programme start="20260213050000 +0000" stop="20260213070000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: FC Brentford - FC Arsenal, 26. Spieltag</title>
+</programme>
+<programme start="20260213070000 +0000" stop="20260213073500 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Highlights Donnerstag, 26. Spieltag</title>
+</programme>
+<programme start="20260213073500 +0000" stop="20260213080500 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: PL Stories (Edwin van der Sar)</title>
+</programme>
+<programme start="20260213080500 +0000" stop="20260213090000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: PL Moments: Leicester City 2015/16</title>
+</programme>
+<programme start="20260213090000 +0000" stop="20260213093000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: 90in30: MCI - FUL, 26. Spieltag</title>
+</programme>
+<programme start="20260213093000 +0000" stop="20260213100500 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Highlights Donnerstag, 26. Spieltag</title>
+</programme>
+<programme start="20260213100500 +0000" stop="20260213103500 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: 90in30: AVL - BRI, 26. Spieltag</title>
+</programme>
+<programme start="20260213103500 +0000" stop="20260213110500 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: PL Rewind: Les Ferdinand (Newcastle 1995/96)</title>
+</programme>
+<programme start="20260213110500 +0000" stop="20260213113500 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Club 100: David James</title>
+</programme>
+<programme start="20260213113500 +0000" stop="20260213120500 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: 90in30: EVE - BOU, 26. Spieltag</title>
+</programme>
+<programme start="20260213120500 +0000" stop="20260213123500 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: 90in30: NFO - WOL, 26. Spieltag</title>
+</programme>
+<programme start="20260213123500 +0000" stop="20260213130500 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: 90in30: CRY - BUR, 26. Spieltag</title>
+</programme>
+<programme start="20260213130500 +0000" stop="20260213133500 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: 90in30: BRE - ARS, 26. Spieltag</title>
+</programme>
+<programme start="20260213133500 +0000" stop="20260213141000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Highlights Donnerstag, 26. Spieltag</title>
+</programme>
+<programme start="20260213141000 +0000" stop="20260213151000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: 1 to 11 (Thomas Hitzlsperger)</title>
+</programme>
+<programme start="20260213151000 +0000" stop="20260213153000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: The Greatest Solo Goals</title>
+</programme>
+<programme start="20260213153000 +0000" stop="20260213160000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: 90in30: NFO - WOL, 26. Spieltag</title>
+</programme>
+<programme start="20260213160000 +0000" stop="20260213163000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: 90in30: CRY - BUR, 26. Spieltag</title>
+</programme>
+<programme start="20260213163000 +0000" stop="20260213170000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: 90in30: BRE - ARS, 26. Spieltag</title>
+</programme>
+<programme start="20260213170000 +0000" stop="20260213180000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Review, 26. Spieltag</title>
+</programme>
+<programme start="20260213180000 +0000" stop="20260213183000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: PL Stories (Yaya Toure)</title>
+</programme>
+<programme start="20260213183000 +0000" stop="20260213190000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Netbusters, 26. Spieltag</title>
+</programme>
+<programme start="20260213190000 +0000" stop="20260213191500 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Under the Skin (Tottenham Hotspur)</title>
+</programme>
+<programme start="20260213191500 +0000" stop="20260213193000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Klopp&#039;s Champions - A Liverpool Love Story</title>
+</programme>
+<programme start="20260213193000 +0000" stop="20260213203000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Review, 26. Spieltag</title>
+</programme>
+<programme start="20260213203000 +0000" stop="20260213210000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: PL Stories (Manager Rivalries)</title>
+</programme>
+<programme start="20260213210000 +0000" stop="20260213213000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Netbusters, 26. Spieltag</title>
+</programme>
+<programme start="20260213213000 +0000" stop="20260213220000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: PL Rewind: Peter Schmeichel</title>
+</programme>
+<programme start="20260213220000 +0000" stop="20260213223000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: 90in30: SUN - LIV, 26. Spieltag</title>
+</programme>
+<programme start="20260213223000 +0000" stop="20260213230000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: 90in30: MCI - FUL, 26. Spieltag</title>
 </programme>
 <programme start="20260212230000 +0000" stop="20260213010000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: I. Swiatek (POL) - M. Sakkari (GRE), Qatar Total Energies Open in Doha (Katar). 5. Tag</title>
