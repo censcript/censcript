@@ -3763,18 +3763,18 @@
     <episode-num system="onscreen">S1E20260213</episode-num>
   </programme>
   <programme start="20260213013300 +0000" stop="20260213020300 +0000" channel="cctv4hd.unifitv">
-    <title lang="en">Memory of China</title>
-    <desc lang="en">Memory of China is the first history program of China, the TV program unveils secrets of important historical events, mega projects and the untold stories behind those crucial decisions of this country.</desc>
-    <category lang="en">Education</category>
-    <episode-num system="xmltv_ns">0.133.</episode-num>
-    <episode-num system="onscreen">S1E134</episode-num>
+    <title lang="en">Walking around China</title>
+    <desc lang="en">It focuses on the latest changes in China from a humanistic perspective, pays attention to new phenomena, new fashions, and new things around ordinary Chinese people,</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.157.</episode-num>
+    <episode-num system="onscreen">S1E158</episode-num>
   </programme>
   <programme start="20260213020300 +0000" stop="20260213023000 +0000" channel="cctv4hd.unifitv">
-    <title lang="en">Memory of China</title>
-    <desc lang="en">Memory of China is the first history program of China, the TV program unveils secrets of important historical events, mega projects and the untold stories behind those crucial decisions of this country.</desc>
-    <category lang="en">Education</category>
-    <episode-num system="xmltv_ns">0.134.</episode-num>
-    <episode-num system="onscreen">S1E135</episode-num>
+    <title lang="en">Walking around China</title>
+    <desc lang="en">It focuses on the latest changes in China from a humanistic perspective, pays attention to new phenomena, new fashions, and new things around ordinary Chinese people,</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.156.</episode-num>
+    <episode-num system="onscreen">S1E157</episode-num>
   </programme>
   <programme start="20260213023000 +0000" stop="20260213030000 +0000" channel="cctv4hd.unifitv">
     <title lang="en">Memory of China</title>

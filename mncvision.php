@@ -3310,6 +3310,246 @@
 <programme start="20260213160000 +0000" stop="20260213163000 +0000" channel="Fight Sports.mncvision">
     <title>FS MMA: Bahati Vs Du Plessis</title>
 </programme>
+<programme start="20260212170000 +0000" stop="20260212173000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>GPS: Geng Petualangan Seru</title>
+</programme>
+<programme start="20260212173000 +0000" stop="20260212180000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Let&#039;s Go</title>
+</programme>
+<programme start="20260212180000 +0000" stop="20260212183000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>All U Can Eat</title>
+</programme>
+<programme start="20260212183000 +0000" stop="20260212193000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Tukang Makan</title>
+</programme>
+<programme start="20260212193000 +0000" stop="20260212203000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Dapur Ngebor</title>
+</programme>
+<programme start="20260212203000 +0000" stop="20260212210000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Ada Tamu Gokil</title>
+</programme>
+<programme start="20260212210000 +0000" stop="20260212213000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Travel Addict</title>
+</programme>
+<programme start="20260212213000 +0000" stop="20260212220000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Kuliner Anak Nusantara</title>
+</programme>
+<programme start="20260212220000 +0000" stop="20260212223000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>GPS: Geng Petualangan Seru</title>
+</programme>
+<programme start="20260212223000 +0000" stop="20260212230000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>All U Can Eat</title>
+</programme>
+<programme start="20260212230000 +0000" stop="20260212233000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Ada Tamu Gokil</title>
+</programme>
+<programme start="20260212233000 +0000" stop="20260213000000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Around The World</title>
+</programme>
+<programme start="20260213000000 +0000" stop="20260213003000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Selebriti Masak?</title>
+</programme>
+<programme start="20260213003000 +0000" stop="20260213010000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Viral Kuliner</title>
+</programme>
+<programme start="20260213010000 +0000" stop="20260213013000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Viral Kuliner Review</title>
+</programme>
+<programme start="20260213013000 +0000" stop="20260213020000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Kuliner Anak Nusantara</title>
+</programme>
+<programme start="20260213020000 +0000" stop="20260213023000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Travel Addict</title>
+</programme>
+<programme start="20260213023000 +0000" stop="20260213030000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>All U Can Eat</title>
+</programme>
+<programme start="20260213030000 +0000" stop="20260213033000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Around The World</title>
+</programme>
+<programme start="20260213033000 +0000" stop="20260213040000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Let&#039;s Go</title>
+</programme>
+<programme start="20260213040000 +0000" stop="20260213050000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Tukang Makan</title>
+</programme>
+<programme start="20260213050000 +0000" stop="20260213060000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Dapur Panik</title>
+</programme>
+<programme start="20260213060000 +0000" stop="20260213063000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Viral Kuliner</title>
+</programme>
+<programme start="20260213063000 +0000" stop="20260213070000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Viral Kuliner Review</title>
+</programme>
+<programme start="20260213070000 +0000" stop="20260213080000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Dapur Ngebor</title>
+</programme>
+<programme start="20260213080000 +0000" stop="20260213083000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Let&#039;s Go</title>
+</programme>
+<programme start="20260213083000 +0000" stop="20260213090000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Kuliner Anak Nusantara</title>
+</programme>
+<programme start="20260213090000 +0000" stop="20260213100000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Tukang Makan</title>
+</programme>
+<programme start="20260213100000 +0000" stop="20260213110000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Dapur Panik</title>
+</programme>
+<programme start="20260213110000 +0000" stop="20260213113000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Viral Kuliner Review</title>
+</programme>
+<programme start="20260213113000 +0000" stop="20260213120000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Viral Kuliner</title>
+</programme>
+<programme start="20260213120000 +0000" stop="20260213123000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Viral Kuliner</title>
+</programme>
+<programme start="20260213123000 +0000" stop="20260213130000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Let&#039;s Go</title>
+</programme>
+<programme start="20260213130000 +0000" stop="20260213133000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>GPS: Geng Petualangan Seru</title>
+</programme>
+<programme start="20260213133000 +0000" stop="20260213140000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>All U Can Eat</title>
+</programme>
+<programme start="20260213140000 +0000" stop="20260213143000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Around The World</title>
+</programme>
+<programme start="20260213143000 +0000" stop="20260213150000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Selebriti Masak?</title>
+</programme>
+<programme start="20260213150000 +0000" stop="20260213153000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Ada Tamu Gokil</title>
+</programme>
+<programme start="20260213153000 +0000" stop="20260213160000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Travel Addict</title>
+</programme>
+<programme start="20260213160000 +0000" stop="20260213163000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Dapur Panik</title>
+</programme>
+<programme start="20260212170000 +0000" stop="20260212173000 +0000" channel="Food Travel HD.mncvision">
+    <title>GPS: Geng Petualangan Seru</title>
+</programme>
+<programme start="20260212173000 +0000" stop="20260212180000 +0000" channel="Food Travel HD.mncvision">
+    <title>Let&#039;s Go</title>
+</programme>
+<programme start="20260212180000 +0000" stop="20260212183000 +0000" channel="Food Travel HD.mncvision">
+    <title>All U Can Eat</title>
+</programme>
+<programme start="20260212183000 +0000" stop="20260212193000 +0000" channel="Food Travel HD.mncvision">
+    <title>Tukang Makan</title>
+</programme>
+<programme start="20260212193000 +0000" stop="20260212203000 +0000" channel="Food Travel HD.mncvision">
+    <title>Dapur Ngebor</title>
+</programme>
+<programme start="20260212203000 +0000" stop="20260212210000 +0000" channel="Food Travel HD.mncvision">
+    <title>Ada Tamu Gokil</title>
+</programme>
+<programme start="20260212210000 +0000" stop="20260212213000 +0000" channel="Food Travel HD.mncvision">
+    <title>Travel Addict</title>
+</programme>
+<programme start="20260212213000 +0000" stop="20260212220000 +0000" channel="Food Travel HD.mncvision">
+    <title>Kuliner Anak Nusantara</title>
+</programme>
+<programme start="20260212220000 +0000" stop="20260212223000 +0000" channel="Food Travel HD.mncvision">
+    <title>GPS: Geng Petualangan Seru</title>
+</programme>
+<programme start="20260212223000 +0000" stop="20260212230000 +0000" channel="Food Travel HD.mncvision">
+    <title>All U Can Eat</title>
+</programme>
+<programme start="20260212230000 +0000" stop="20260212233000 +0000" channel="Food Travel HD.mncvision">
+    <title>Ada Tamu Gokil</title>
+</programme>
+<programme start="20260212233000 +0000" stop="20260213000000 +0000" channel="Food Travel HD.mncvision">
+    <title>Around The World</title>
+</programme>
+<programme start="20260213000000 +0000" stop="20260213003000 +0000" channel="Food Travel HD.mncvision">
+    <title>Selebriti Masak?</title>
+</programme>
+<programme start="20260213003000 +0000" stop="20260213010000 +0000" channel="Food Travel HD.mncvision">
+    <title>Viral Kuliner</title>
+</programme>
+<programme start="20260213010000 +0000" stop="20260213013000 +0000" channel="Food Travel HD.mncvision">
+    <title>Viral Kuliner Review</title>
+</programme>
+<programme start="20260213013000 +0000" stop="20260213020000 +0000" channel="Food Travel HD.mncvision">
+    <title>Kuliner Anak Nusantara</title>
+</programme>
+<programme start="20260213020000 +0000" stop="20260213023000 +0000" channel="Food Travel HD.mncvision">
+    <title>Travel Addict</title>
+</programme>
+<programme start="20260213023000 +0000" stop="20260213030000 +0000" channel="Food Travel HD.mncvision">
+    <title>All U Can Eat</title>
+</programme>
+<programme start="20260213030000 +0000" stop="20260213033000 +0000" channel="Food Travel HD.mncvision">
+    <title>Around The World</title>
+</programme>
+<programme start="20260213033000 +0000" stop="20260213040000 +0000" channel="Food Travel HD.mncvision">
+    <title>Let&#039;s Go</title>
+</programme>
+<programme start="20260213040000 +0000" stop="20260213050000 +0000" channel="Food Travel HD.mncvision">
+    <title>Tukang Makan</title>
+</programme>
+<programme start="20260213050000 +0000" stop="20260213060000 +0000" channel="Food Travel HD.mncvision">
+    <title>Dapur Panik</title>
+</programme>
+<programme start="20260213060000 +0000" stop="20260213063000 +0000" channel="Food Travel HD.mncvision">
+    <title>Viral Kuliner</title>
+</programme>
+<programme start="20260213063000 +0000" stop="20260213070000 +0000" channel="Food Travel HD.mncvision">
+    <title>Viral Kuliner Review</title>
+</programme>
+<programme start="20260213070000 +0000" stop="20260213080000 +0000" channel="Food Travel HD.mncvision">
+    <title>Dapur Ngebor</title>
+</programme>
+<programme start="20260213080000 +0000" stop="20260213083000 +0000" channel="Food Travel HD.mncvision">
+    <title>Let&#039;s Go</title>
+</programme>
+<programme start="20260213083000 +0000" stop="20260213090000 +0000" channel="Food Travel HD.mncvision">
+    <title>Kuliner Anak Nusantara</title>
+</programme>
+<programme start="20260213090000 +0000" stop="20260213100000 +0000" channel="Food Travel HD.mncvision">
+    <title>Tukang Makan</title>
+</programme>
+<programme start="20260213100000 +0000" stop="20260213110000 +0000" channel="Food Travel HD.mncvision">
+    <title>Dapur Panik</title>
+</programme>
+<programme start="20260213110000 +0000" stop="20260213113000 +0000" channel="Food Travel HD.mncvision">
+    <title>Viral Kuliner Review</title>
+</programme>
+<programme start="20260213113000 +0000" stop="20260213120000 +0000" channel="Food Travel HD.mncvision">
+    <title>Viral Kuliner</title>
+</programme>
+<programme start="20260213120000 +0000" stop="20260213123000 +0000" channel="Food Travel HD.mncvision">
+    <title>Viral Kuliner</title>
+</programme>
+<programme start="20260213123000 +0000" stop="20260213130000 +0000" channel="Food Travel HD.mncvision">
+    <title>Let&#039;s Go</title>
+</programme>
+<programme start="20260213130000 +0000" stop="20260213133000 +0000" channel="Food Travel HD.mncvision">
+    <title>GPS: Geng Petualangan Seru</title>
+</programme>
+<programme start="20260213133000 +0000" stop="20260213140000 +0000" channel="Food Travel HD.mncvision">
+    <title>All U Can Eat</title>
+</programme>
+<programme start="20260213140000 +0000" stop="20260213143000 +0000" channel="Food Travel HD.mncvision">
+    <title>Around The World</title>
+</programme>
+<programme start="20260213143000 +0000" stop="20260213150000 +0000" channel="Food Travel HD.mncvision">
+    <title>Selebriti Masak?</title>
+</programme>
+<programme start="20260213150000 +0000" stop="20260213153000 +0000" channel="Food Travel HD.mncvision">
+    <title>Ada Tamu Gokil</title>
+</programme>
+<programme start="20260213153000 +0000" stop="20260213160000 +0000" channel="Food Travel HD.mncvision">
+    <title>Travel Addict</title>
+</programme>
+<programme start="20260213160000 +0000" stop="20260213163000 +0000" channel="Food Travel HD.mncvision">
+    <title>Dapur Panik</title>
+</programme>
 <programme start="20260212170000 +0000" stop="20260212180000 +0000" channel="FOX News.mncvision">
     <title>Outnumbered</title>
 </programme>
@@ -8839,22 +9079,25 @@
 <programme start="20260213090000 +0000" stop="20260213093000 +0000" channel="Trans TV.mncvision">
     <title>CNN Indonesia News Update</title>
 </programme>
-<programme start="20260213093000 +0000" stop="20260213103000 +0000" channel="Trans TV.mncvision">
+<programme start="20260213093000 +0000" stop="20260213101500 +0000" channel="Trans TV.mncvision">
     <title>Dream Box Indonesia</title>
 </programme>
-<programme start="20260213103000 +0000" stop="20260213114500 +0000" channel="Trans TV.mncvision">
+<programme start="20260213101500 +0000" stop="20260213113000 +0000" channel="Trans TV.mncvision">
     <title>Bikin Laper</title>
 </programme>
-<programme start="20260213114500 +0000" stop="20260213130000 +0000" channel="Trans TV.mncvision">
+<programme start="20260213113000 +0000" stop="20260213123000 +0000" channel="Trans TV.mncvision">
     <title>Insert Story</title>
 </programme>
-<programme start="20260213130000 +0000" stop="20260213140000 +0000" channel="Trans TV.mncvision">
+<programme start="20260213123000 +0000" stop="20260213133000 +0000" channel="Trans TV.mncvision">
+    <title>Monitor Ketua</title>
+</programme>
+<programme start="20260213133000 +0000" stop="20260213143000 +0000" channel="Trans TV.mncvision">
     <title>Dunia Punya Cerita</title>
 </programme>
-<programme start="20260213140000 +0000" stop="20260213160000 +0000" channel="Trans TV.mncvision">
+<programme start="20260213143000 +0000" stop="20260213163000 +0000" channel="Trans TV.mncvision">
     <title>Bioskop Trans TV</title>
 </programme>
-<programme start="20260213160000 +0000" stop="20260213163000 +0000" channel="Trans TV.mncvision">
+<programme start="20260213163000 +0000" stop="20260212170000 +0000" channel="Trans TV.mncvision">
     <title>Bioskop Trans TV</title>
 </programme>
 <programme start="20260212172500 +0000" stop="20260212183500 +0000" channel="tvN.mncvision">

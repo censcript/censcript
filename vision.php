@@ -56,7 +56,7 @@
 <title>Dahsyatnya Weekend (RCTI)</title>
 </programme>
 <programme start="20260214033000 +0000" stop="20260214043000 +0000" channel="RCTI.vision">
-<title>Pandora</title>
+<title>Pandora (RCTI)</title>
 </programme>
 <programme start="20260214043000 +0000" stop="20260214050000 +0000" channel="RCTI.vision">
 <title>Seputar iNews Siang</title>
