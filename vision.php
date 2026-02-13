@@ -56,7 +56,7 @@
 <title>Dahsyatnya Weekend (RCTI)</title>
 </programme>
 <programme start="20260214033000 +0000" stop="20260214043000 +0000" channel="RCTI.vision">
-<title>Pandora (RCTI)</title>
+<title>Pandora</title>
 </programme>
 <programme start="20260214043000 +0000" stop="20260214050000 +0000" channel="RCTI.vision">
 <title>Seputar iNews Siang</title>
@@ -185,43 +185,46 @@
 <title>Jelajah Mitos</title>
 </programme>
 <programme start="20260213180000 +0000" stop="20260213190000 +0000" channel="GTV.vision">
-<title>Crime KV</title>
+<title>GTV</title>
 </programme>
 <programme start="20260213190000 +0000" stop="20260213200000 +0000" channel="GTV.vision">
-<title>Naik Enak Turun Ogah</title>
+<title>GTV</title>
 </programme>
 <programme start="20260213200000 +0000" stop="20260213220000 +0000" channel="GTV.vision">
-<title>Awas Ada Sule</title>
+<title>GTV</title>
 </programme>
-<programme start="20260213220000 +0000" stop="20260213231500 +0000" channel="GTV.vision">
-<title>Kisah Viral</title>
+<programme start="20260213220000 +0000" stop="20260213230000 +0000" channel="GTV.vision">
+<title>GTV</title>
 </programme>
-<programme start="20260213231500 +0000" stop="20260213234500 +0000" channel="GTV.vision">
-<title>BIMA-S</title>
+<programme start="20260213230000 +0000" stop="20260214000000 +0000" channel="GTV.vision">
+<title>GTV</title>
 </programme>
-<programme start="20260213234500 +0000" stop="20260214020000 +0000" channel="GTV.vision">
-<title>SpongeBob SquarePants</title>
+<programme start="20260214000000 +0000" stop="20260214003000 +0000" channel="GTV.vision">
+<title>GTV</title>
 </programme>
-<programme start="20260214020000 +0000" stop="20260214050000 +0000" channel="GTV.vision">
-<title>Spongebob Squarepants (GTV)</title>
+<programme start="20260214003000 +0000" stop="20260214013000 +0000" channel="GTV.vision">
+<title>GTV</title>
 </programme>
-<programme start="20260214050000 +0000" stop="20260214060000 +0000" channel="GTV.vision">
-<title>Zak Storm</title>
+<programme start="20260214013000 +0000" stop="20260214020000 +0000" channel="GTV.vision">
+<title>GTV</title>
 </programme>
-<programme start="20260214060000 +0000" stop="20260214070000 +0000" channel="GTV.vision">
-<title>Naruto Shippuden (GTV)</title>
+<programme start="20260214020000 +0000" stop="20260214023000 +0000" channel="GTV.vision">
+<title>GTV</title>
 </programme>
-<programme start="20260214070000 +0000" stop="20260214080000 +0000" channel="GTV.vision">
-<title>The Hot-Blooded Kendo Tale</title>
+<programme start="20260214023000 +0000" stop="20260214050000 +0000" channel="GTV.vision">
+<title>GTV</title>
 </programme>
-<programme start="20260214080000 +0000" stop="20260214093000 +0000" channel="GTV.vision">
-<title>SpongeBob SquarePants</title>
+<programme start="20260214050000 +0000" stop="20260214073000 +0000" channel="GTV.vision">
+<title>GTV</title>
+</programme>
+<programme start="20260214073000 +0000" stop="20260214093000 +0000" channel="GTV.vision">
+<title>GTV</title>
 </programme>
 <programme start="20260214093000 +0000" stop="20260214110000 +0000" channel="GTV.vision">
-<title>SpongeBob SquarePants</title>
+<title>GTV</title>
 </programme>
-<programme start="20260214110000 +0000" stop="20260214123000 +0000" channel="GTV.vision">
-<title>New Family 100 (GTV)</title>
+<programme start="20260214110000 +0000" stop="20260214133000 +0000" channel="GTV.vision">
+<title>GTV</title>
 </programme>
 <programme start="20260212233000 +0000" stop="20260213003000 +0000" channel="iNews.vision">
 <title>Special Report</title>
@@ -451,28 +454,25 @@
 <programme start="20260213090000 +0000" stop="20260213093000 +0000" channel="Trans TV.vision">
 <title>CNN Indonesia News Update</title>
 </programme>
-<programme start="20260213093000 +0000" stop="20260213101500 +0000" channel="Trans TV.vision">
+<programme start="20260213093000 +0000" stop="20260213103000 +0000" channel="Trans TV.vision">
 <title>Dream Box Indonesia</title>
 </programme>
-<programme start="20260213101500 +0000" stop="20260213113000 +0000" channel="Trans TV.vision">
+<programme start="20260213103000 +0000" stop="20260213114500 +0000" channel="Trans TV.vision">
 <title>Bikin Laper</title>
 </programme>
-<programme start="20260213113000 +0000" stop="20260213123000 +0000" channel="Trans TV.vision">
+<programme start="20260213114500 +0000" stop="20260213130000 +0000" channel="Trans TV.vision">
 <title>Insert Story</title>
 </programme>
-<programme start="20260213123000 +0000" stop="20260213133000 +0000" channel="Trans TV.vision">
-<title>Monitor Ketua</title>
-</programme>
-<programme start="20260213133000 +0000" stop="20260213143000 +0000" channel="Trans TV.vision">
+<programme start="20260213130000 +0000" stop="20260213140000 +0000" channel="Trans TV.vision">
 <title>Dunia Punya Cerita</title>
 </programme>
-<programme start="20260213143000 +0000" stop="20260213163000 +0000" channel="Trans TV.vision">
+<programme start="20260213140000 +0000" stop="20260213160000 +0000" channel="Trans TV.vision">
 <title>Bioskop Trans TV</title>
 </programme>
-<programme start="20260213163000 +0000" stop="20260213183000 +0000" channel="Trans TV.vision">
+<programme start="20260213160000 +0000" stop="20260213180000 +0000" channel="Trans TV.vision">
 <title>Bioskop Trans TV</title>
 </programme>
-<programme start="20260213183000 +0000" stop="20260213220000 +0000" channel="Trans TV.vision">
+<programme start="20260213180000 +0000" stop="20260213220000 +0000" channel="Trans TV.vision">
 <title>Pilihan Indonesia: Debat Capres</title>
 </programme>
 <programme start="20260213220000 +0000" stop="20260213233000 +0000" channel="Trans TV.vision">
@@ -502,13 +502,13 @@
 <programme start="20260214080000 +0000" stop="20260214093000 +0000" channel="Trans TV.vision">
 <title>Insert Investigasi</title>
 </programme>
-<programme start="20260214093000 +0000" stop="20260214101500 +0000" channel="Trans TV.vision">
+<programme start="20260214093000 +0000" stop="20260214103000 +0000" channel="Trans TV.vision">
 <title>HaHa HiHi</title>
 </programme>
-<programme start="20260214101500 +0000" stop="20260214113000 +0000" channel="Trans TV.vision">
+<programme start="20260214103000 +0000" stop="20260214114500 +0000" channel="Trans TV.vision">
 <title>Bikin Laper Weekend</title>
 </programme>
-<programme start="20260214113000 +0000" stop="20260214123000 +0000" channel="Trans TV.vision">
+<programme start="20260214114500 +0000" stop="20260214130000 +0000" channel="Trans TV.vision">
 <title>Insert Story</title>
 </programme>
 <programme start="20260212233000 +0000" stop="20260213003000 +0000" channel="Trans 7.vision">
@@ -657,6 +657,9 @@
 </programme>
 <programme start="20260213113000 +0000" stop="20260213133000 +0000" channel="ANTV.vision">
 <title>Langit Untuk Renata</title>
+</programme>
+<programme start="20260213133000 +0000" stop="20260213150000 +0000" channel="ANTV.vision">
+<title>Titisan Dewi Ular</title>
 </programme>
 <programme start="20260213150000 +0000" stop="20260213170000 +0000" channel="ANTV.vision">
 <title>Jampang 1</title>
@@ -1493,8 +1496,5 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260213010000 +0000" stop="20260213030000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260213030000 +0000" stop="20260213050000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
