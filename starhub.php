@@ -3865,7 +3865,13 @@
     <programme start="20260213040000 +0000" stop="20260213040500 +0000" channel="NHK World Premium HD.starhub">
         <title>News</title>
     </programme>
-    <programme start="20260213040500 +0000" stop="20260213055000 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20260213040500 +0000" stop="20260213043600 +0000" channel="NHK World Premium HD.starhub">
+        <title>News Around Japan</title>
+    </programme>
+    <programme start="20260213043600 +0000" stop="20260213044500 +0000" channel="NHK World Premium HD.starhub">
+        <title>News</title>
+    </programme>
+    <programme start="20260213044500 +0000" stop="20260213055000 +0000" channel="NHK World Premium HD.starhub">
         <title>News Around Japan</title>
     </programme>
     <programme start="20260213055000 +0000" stop="20260213055500 +0000" channel="NHK World Premium HD.starhub">
@@ -3965,7 +3971,7 @@
         <title>World Weather</title>
     </programme>
     <programme start="20260213153000 +0000" stop="20260213161300 +0000" channel="NHK World Premium HD.starhub">
-        <title>Samurai Drama Selections &quot;The Way of Commerce: Gold and Silver 2&quot; Ep. 8 (Final) (R)</title>
+        <title>Samurai Drama Selections &quot;The Way of Commerce: Gold and Silver 2&quot; Ep. 8 (Final)</title>
     </programme>
     <programme start="20260212152000 +0000" stop="20260212165500 +0000" channel="HBO HD.starhub">
         <title>Old Guy</title>
