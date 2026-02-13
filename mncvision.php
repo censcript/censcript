@@ -1541,7 +1541,7 @@
     <title>Bloomberg Open Interest</title>
 </programme>
 <programme start="20260213160000 +0000" stop="20260213163000 +0000" channel="Bloomberg.mncvision">
-    <title>Bloomberg...: European Close</title>
+    <title>Bloomberg Tech</title>
 </programme>
 <programme start="20260212170000 +0000" stop="20260212180000 +0000" channel="BTV.mncvision">
     <title>ONE Vault</title>
@@ -2978,7 +2978,7 @@
     <title>Science: Could The Next...</title>
 </programme>
 <programme start="20260213063000 +0000" stop="20260213070000 +0000" channel="DW English.mncvision">
-    <title>Best Of DW Podcasts</title>
+    <title>Berlin Briefing: Germany&#039;s AfD</title>
 </programme>
 <programme start="20260213070000 +0000" stop="20260213071500 +0000" channel="DW English.mncvision">
     <title>DW News</title>
@@ -3008,7 +3008,7 @@
     <title>HER: Women In Asia</title>
 </programme>
 <programme start="20260213103000 +0000" stop="20260213110000 +0000" channel="DW English.mncvision">
-    <title>Best Of DW Podcasts</title>
+    <title>Berlin Briefing: Germany&#039;s AfD</title>
 </programme>
 <programme start="20260213110000 +0000" stop="20260213111500 +0000" channel="DW English.mncvision">
     <title>DW News</title>
@@ -4759,8 +4759,144 @@
 <programme start="20260213163000 +0000" stop="20260212170000 +0000" channel="Indosiar HD.mncvision">
     <title>Mega Film Asia</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260212170000 +0000" stop="20260212183000 +0000" channel="iNews.mncvision">
+    <title>World Cup Qual.: IDN Vs KSA</title>
+</programme>
+<programme start="20260212183000 +0000" stop="20260212191500 +0000" channel="iNews.mncvision">
+    <title>Realita</title>
+</programme>
+<programme start="20260212191500 +0000" stop="20260212201500 +0000" channel="iNews.mncvision">
+    <title>iNews Sore</title>
+</programme>
+<programme start="20260212201500 +0000" stop="20260212210000 +0000" channel="iNews.mncvision">
+    <title>Special Report</title>
+</programme>
+<programme start="20260212210000 +0000" stop="20260212211500 +0000" channel="iNews.mncvision">
+    <title>iNews Sport</title>
+</programme>
+<programme start="20260212211500 +0000" stop="20260212230000 +0000" channel="iNews.mncvision">
+    <title>iNews Pagi (L)</title>
+</programme>
+<programme start="20260212230000 +0000" stop="20260212230200 +0000" channel="iNews.mncvision">
+    <title>Indonesia Raya</title>
+</programme>
+<programme start="20260212230200 +0000" stop="20260212233000 +0000" channel="iNews.mncvision">
+    <title>iNews Sport Pagi (L)</title>
+</programme>
+<programme start="20260212233000 +0000" stop="20260213003000 +0000" channel="iNews.mncvision">
+    <title>Special Report</title>
+</programme>
+<programme start="20260213003000 +0000" stop="20260213010000 +0000" channel="iNews.mncvision">
+    <title>Morning Update</title>
+</programme>
+<programme start="20260213010000 +0000" stop="20260213021500 +0000" channel="iNews.mncvision">
+    <title>Lapor Polisi (L)</title>
+</programme>
+<programme start="20260213021500 +0000" stop="20260213040000 +0000" channel="iNews.mncvision">
+    <title>iNews Today (L)</title>
+</programme>
+<programme start="20260213040000 +0000" stop="20260213060000 +0000" channel="iNews.mncvision">
+    <title>iNews Siang (L)</title>
+</programme>
+<programme start="20260213060000 +0000" stop="20260213063000 +0000" channel="iNews.mncvision">
+    <title>Pemimpin Rakyat (L)</title>
+</programme>
+<programme start="20260213063000 +0000" stop="20260213080000 +0000" channel="iNews.mncvision">
+    <title>iSeleb (L)</title>
+</programme>
+<programme start="20260213080000 +0000" stop="20260213093000 +0000" channel="iNews.mncvision">
+    <title>Realita (L)</title>
+</programme>
+<programme start="20260213093000 +0000" stop="20260213120000 +0000" channel="iNews.mncvision">
+    <title>iNews Sore (L)</title>
+</programme>
+<programme start="20260213120000 +0000" stop="20260213133000 +0000" channel="iNews.mncvision">
+    <title>iNews Room (L)</title>
+</programme>
+<programme start="20260213133000 +0000" stop="20260213143000 +0000" channel="iNews.mncvision">
+    <title>iNews Prime (L)</title>
+</programme>
+<programme start="20260213143000 +0000" stop="20260213150000 +0000" channel="iNews.mncvision">
+    <title>iNews Malam (L)</title>
+</programme>
+<programme start="20260213150000 +0000" stop="20260213160000 +0000" channel="iNews.mncvision">
+    <title>iNews Files</title>
+</programme>
+<programme start="20260213160000 +0000" stop="20260213163000 +0000" channel="iNews.mncvision">
+    <title>iNews Sport (L)</title>
+</programme>
+<programme start="20260213163000 +0000" stop="20260212170000 +0000" channel="iNews.mncvision">
+    <title>New Top Files</title>
+</programme>
+<programme start="20260212170000 +0000" stop="20260212183000 +0000" channel="iNews HD.mncvision">
+    <title>World Cup Qual.: IDN Vs KSA</title>
+</programme>
+<programme start="20260212183000 +0000" stop="20260212191500 +0000" channel="iNews HD.mncvision">
+    <title>Realita</title>
+</programme>
+<programme start="20260212191500 +0000" stop="20260212201500 +0000" channel="iNews HD.mncvision">
+    <title>iNews Sore</title>
+</programme>
+<programme start="20260212201500 +0000" stop="20260212210000 +0000" channel="iNews HD.mncvision">
+    <title>Special Report</title>
+</programme>
+<programme start="20260212210000 +0000" stop="20260212211500 +0000" channel="iNews HD.mncvision">
+    <title>iNews Sport</title>
+</programme>
+<programme start="20260212211500 +0000" stop="20260212230000 +0000" channel="iNews HD.mncvision">
+    <title>iNews Pagi (L)</title>
+</programme>
+<programme start="20260212230000 +0000" stop="20260212230200 +0000" channel="iNews HD.mncvision">
+    <title>Indonesia Raya</title>
+</programme>
+<programme start="20260212230200 +0000" stop="20260212233000 +0000" channel="iNews HD.mncvision">
+    <title>iNews Sport Pagi (L)</title>
+</programme>
+<programme start="20260212233000 +0000" stop="20260213003000 +0000" channel="iNews HD.mncvision">
+    <title>Special Report</title>
+</programme>
+<programme start="20260213003000 +0000" stop="20260213010000 +0000" channel="iNews HD.mncvision">
+    <title>Morning Update</title>
+</programme>
+<programme start="20260213010000 +0000" stop="20260213021500 +0000" channel="iNews HD.mncvision">
+    <title>Lapor Polisi (L)</title>
+</programme>
+<programme start="20260213021500 +0000" stop="20260213040000 +0000" channel="iNews HD.mncvision">
+    <title>iNews Today (L)</title>
+</programme>
+<programme start="20260213040000 +0000" stop="20260213060000 +0000" channel="iNews HD.mncvision">
+    <title>iNews Siang (L)</title>
+</programme>
+<programme start="20260213060000 +0000" stop="20260213063000 +0000" channel="iNews HD.mncvision">
+    <title>Pemimpin Rakyat (L)</title>
+</programme>
+<programme start="20260213063000 +0000" stop="20260213080000 +0000" channel="iNews HD.mncvision">
+    <title>iSeleb (L)</title>
+</programme>
+<programme start="20260213080000 +0000" stop="20260213093000 +0000" channel="iNews HD.mncvision">
+    <title>Realita (L)</title>
+</programme>
+<programme start="20260213093000 +0000" stop="20260213120000 +0000" channel="iNews HD.mncvision">
+    <title>iNews Sore (L)</title>
+</programme>
+<programme start="20260213120000 +0000" stop="20260213133000 +0000" channel="iNews HD.mncvision">
+    <title>iNews Room (L)</title>
+</programme>
+<programme start="20260213133000 +0000" stop="20260213143000 +0000" channel="iNews HD.mncvision">
+    <title>iNews Prime (L)</title>
+</programme>
+<programme start="20260213143000 +0000" stop="20260213150000 +0000" channel="iNews HD.mncvision">
+    <title>iNews Malam (L)</title>
+</programme>
+<programme start="20260213150000 +0000" stop="20260213160000 +0000" channel="iNews HD.mncvision">
+    <title>iNews Files</title>
+</programme>
+<programme start="20260213160000 +0000" stop="20260213163000 +0000" channel="iNews HD.mncvision">
+    <title>iNews Sport (L)</title>
+</programme>
+<programme start="20260213163000 +0000" stop="20260212170000 +0000" channel="iNews HD.mncvision">
+    <title>New Top Files</title>
+</programme>
 <programme start="20260212190000 +0000" stop="20260212220000 +0000" channel="JAKTV.mncvision">
     <title>Douluo Continent</title>
 </programme>
@@ -8532,7 +8668,42 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260213165500 +0000" stop="20260212172500 +0000" channel="Studio Universal.mncvision">
     <title>Shark Tale</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260212190000 +0000" stop="20260212205500 +0000" channel="Studio Universal HD.mncvision">
+    <title>Us</title>
+</programme>
+<programme start="20260212205500 +0000" stop="20260212230000 +0000" channel="Studio Universal HD.mncvision">
+    <title>Yesterday</title>
+</programme>
+<programme start="20260212230000 +0000" stop="20260213012000 +0000" channel="Studio Universal HD.mncvision">
+    <title>Far And Away</title>
+</programme>
+<programme start="20260213012000 +0000" stop="20260213033000 +0000" channel="Studio Universal HD.mncvision">
+    <title>Mortal Engines</title>
+</programme>
+<programme start="20260213033000 +0000" stop="20260213052000 +0000" channel="Studio Universal HD.mncvision">
+    <title>Us</title>
+</programme>
+<programme start="20260213052000 +0000" stop="20260213072000 +0000" channel="Studio Universal HD.mncvision">
+    <title>Yesterday</title>
+</programme>
+<programme start="20260213072000 +0000" stop="20260213094000 +0000" channel="Studio Universal HD.mncvision">
+    <title>Far And Away</title>
+</programme>
+<programme start="20260213094000 +0000" stop="20260213111500 +0000" channel="Studio Universal HD.mncvision">
+    <title>Shark Tale</title>
+</programme>
+<programme start="20260213111500 +0000" stop="20260213124500 +0000" channel="Studio Universal HD.mncvision">
+    <title>The Lorax</title>
+</programme>
+<programme start="20260213124500 +0000" stop="20260213145000 +0000" channel="Studio Universal HD.mncvision">
+    <title>Notting Hill</title>
+</programme>
+<programme start="20260213145000 +0000" stop="20260213165500 +0000" channel="Studio Universal HD.mncvision">
+    <title>Downton Abbey</title>
+</programme>
+<programme start="20260213165500 +0000" stop="20260212172500 +0000" channel="Studio Universal HD.mncvision">
+    <title>Shark Tale</title>
+</programme>
 <programme start="20260212181300 +0000" stop="20260212195500 +0000" channel="Superrix.mncvision">
     <title>Hiding From My Husband</title>
 </programme>

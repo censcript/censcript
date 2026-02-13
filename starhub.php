@@ -3206,7 +3206,7 @@
         <title>Decommissioning - are nuclear power plants a billion-dollar grave?</title>
     </programme>
     <programme start="20260212193000 +0000" stop="20260212200000 +0000" channel="DW English HD.starhub">
-        <title>International Debate from Berlin</title>
+        <title>Lazy Germany: Is more work the way back to the top?</title>
     </programme>
     <programme start="20260212200000 +0000" stop="20260212203000 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3230,7 +3230,7 @@
         <title>News in Review</title>
     </programme>
     <programme start="20260212223000 +0000" stop="20260212230000 +0000" channel="DW English HD.starhub">
-        <title>International Debate from Berlin</title>
+        <title>Lazy Germany: Is more work the way back to the top?</title>
     </programme>
     <programme start="20260212230000 +0000" stop="20260212231500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -6025,7 +6025,10 @@
     <programme start="20260213155000 +0000" stop="20260213165500 +0000" channel="BBC Earth HD.starhub">
         <title>Extinction - The Facts</title>
     </programme>
-    <programme start="20260212160000 +0000" stop="20260212183000 +0000" channel="Hub Sports 6.starhub">
+    <programme start="20260212150000 +0000" stop="20260212163600 +0000" channel="Hub Sports 6.starhub">
+        <title>ABN Amro Open (500) D4 R2 S2</title>
+    </programme>
+    <programme start="20260212163600 +0000" stop="20260212183000 +0000" channel="Hub Sports 6.starhub">
         <title>End of Transmission</title>
     </programme>
     <programme start="20260212183000 +0000" stop="20260212223000 +0000" channel="Hub Sports 6.starhub">

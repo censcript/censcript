@@ -658,53 +658,44 @@
     <programme start="20260213150000 +0000" stop="20260213170000 +0000" channel="now-80s.mewatch">
         <title>Timmy Mallett&#039;s Brilliant 80s! - EP1</title>
     </programme>
-    <programme start="20260212160000 +0000" stop="20260212172500 +0000" channel="now-70s.mewatch">
-        <title>Gone...But Not Forgotten Top 25 - EP1</title>
+    <programme start="20260212160000 +0000" stop="20260212210000 +0000" channel="now-70s.mewatch">
+        <title>70s - A Decade of Dance! - EP1</title>
     </programme>
-    <programme start="20260212172500 +0000" stop="20260212203500 +0000" channel="now-70s.mewatch">
-        <title>Pat Sharp&#039;s 40 Guilty Pleasures! - EP1</title>
+    <programme start="20260212210000 +0000" stop="20260212220000 +0000" channel="now-70s.mewatch">
+        <title>Retro Rewind! 70s Edition - EP1</title>
     </programme>
-    <programme start="20260212203500 +0000" stop="20260212210000 +0000" channel="now-70s.mewatch">
-        <title>Help Me Make It Through the Night! - EP1</title>
+    <programme start="20260212220000 +0000" stop="20260212235000 +0000" channel="now-70s.mewatch">
+        <title>25 Forgotten Favourites! - EP1</title>
     </programme>
-    <programme start="20260212210000 +0000" stop="20260212230000 +0000" channel="now-70s.mewatch">
-        <title>Bruno&#039;s Can You Believe It?! - EP1</title>
+    <programme start="20260212235000 +0000" stop="20260213000000 +0000" channel="now-70s.mewatch">
+        <title>Non-Stop 70s Number 1s! - EP1</title>
     </programme>
-    <programme start="20260212230000 +0000" stop="20260212232500 +0000" channel="now-70s.mewatch">
-        <title>Cat Stevens: 1970-1971 - EP1</title>
+    <programme start="20260213000000 +0000" stop="20260213081000 +0000" channel="now-70s.mewatch">
+        <title>The NOW 100 of the 70s - EP1</title>
     </programme>
-    <programme start="20260212232500 +0000" stop="20260213000000 +0000" channel="now-70s.mewatch">
-        <title>Far Out, Man! - EP1</title>
+    <programme start="20260213081000 +0000" stop="20260213090000 +0000" channel="now-70s.mewatch">
+        <title>1974 Unleashed! - EP1</title>
     </programme>
-    <programme start="20260213000000 +0000" stop="20260213070000 +0000" channel="now-70s.mewatch">
-        <title>Sing It Loud! 1970-1979 - EP1</title>
+    <programme start="20260213090000 +0000" stop="20260213100000 +0000" channel="now-70s.mewatch">
+        <title>Killer Queen! 1974-1979 - EP1</title>
     </programme>
-    <programme start="20260213070000 +0000" stop="20260213090000 +0000" channel="now-70s.mewatch">
-        <title>The Sound of The Suburbs! 1977-80 - EP1</title>
+    <programme start="20260213100000 +0000" stop="20260213113000 +0000" channel="now-70s.mewatch">
+        <title>What Fresh Hell Is This? 1970-1979 - EP1</title>
     </programme>
-    <programme start="20260213090000 +0000" stop="20260213093000 +0000" channel="now-70s.mewatch">
-        <title>Clare Grogan&#039;s Teenage Kicks! - EP1</title>
+    <programme start="20260213113000 +0000" stop="20260213120000 +0000" channel="now-70s.mewatch">
+        <title>70s School Disco! - EP1</title>
     </programme>
-    <programme start="20260213093000 +0000" stop="20260213103000 +0000" channel="now-70s.mewatch">
-        <title>Gone...But Not Forgotten Top 25 - EP1</title>
+    <programme start="20260213120000 +0000" stop="20260213140500 +0000" channel="now-70s.mewatch">
+        <title>Sally James&#039; Bubblegum Pop! - EP1</title>
     </programme>
-    <programme start="20260213103000 +0000" stop="20260213112000 +0000" channel="now-70s.mewatch">
-        <title>Clare Grogan&#039;s Teenage Kicks! - EP1</title>
-    </programme>
-    <programme start="20260213112000 +0000" stop="20260213120000 +0000" channel="now-70s.mewatch">
-        <title>Punk &amp; Disorderly! - EP1</title>
-    </programme>
-    <programme start="20260213120000 +0000" stop="20260213141000 +0000" channel="now-70s.mewatch">
-        <title>Pat Sharp&#039;s Surely Not A Cover?! - EP1</title>
-    </programme>
-    <programme start="20260213141000 +0000" stop="20260213150000 +0000" channel="now-70s.mewatch">
-        <title>1973 Unleashed! - EP1</title>
+    <programme start="20260213140500 +0000" stop="20260213150000 +0000" channel="now-70s.mewatch">
+        <title>70s School Disco! - EP1</title>
     </programme>
     <programme start="20260213150000 +0000" stop="20260213160000 +0000" channel="now-70s.mewatch">
-        <title>Simon Bates Golden Hour: 1973 - EP1</title>
+        <title>Did They Think They Could Dance?! - EP1</title>
     </programme>
-    <programme start="20260213160000 +0000" stop="20260213164500 +0000" channel="now-70s.mewatch">
-        <title>Clare Grogan&#039;s Teenage Kicks! - EP1</title>
+    <programme start="20260213160000 +0000" stop="20260213191000 +0000" channel="now-70s.mewatch">
+        <title>The NOW 100 of the 70s - EP1</title>
     </programme>
     <programme start="20260212151000 +0000" stop="20260212164500 +0000" channel="cinemaworld.mewatch">
         <title>Mammal</title>

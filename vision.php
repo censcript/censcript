@@ -655,9 +655,6 @@
 <programme start="20260213003000 +0000" stop="20260213023000 +0000" channel="ANTV.vision">
 <title>Janji Inspektur Virat</title>
 </programme>
-<programme start="20260213023000 +0000" stop="20260213060000 +0000" channel="ANTV.vision">
-<title>Commando 2</title>
-</programme>
 <programme start="20260213060000 +0000" stop="20260213083000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20260214103000 +0000" stop="20260214110000 +0000" channel="BTV.vision">
 <title>Berita Kriminal</title>
+</programme>
+<programme start="20260214110000 +0000" stop="20260214120000 +0000" channel="BTV.vision">
+<title>Dunia Binatang</title>
 </programme>
