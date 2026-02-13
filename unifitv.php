@@ -14615,8 +14615,8 @@
     <episode-num system="onscreen">S1E2105</episode-num>
   </programme>
   <programme start="20260212184800 +0000" stop="20260212190000 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">IMPACTS: Climates Change the World</title>
-    <desc lang="en">The entire Earth is affected by climate change, occurring with a greater speed and scale than ever before. This program uses scientific data and the latest findings to raise awareness on its impact.</desc>
+    <title lang="en">Wind Power and Birds at Risk</title>
+    <desc lang="en">Wind power helps fight climate change. But as turbines spread across land and sea, birds face growing risks. This episode explores impacts and mitigation measures to protect birds and the climate.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.6127.</episode-num>
     <episode-num system="onscreen">S1E6128</episode-num>
@@ -14711,7 +14711,7 @@
   </programme>
   <programme start="20260213003500 +0000" stop="20260213010500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Asia Insight</title>
-    <desc lang="en">An in-depth look at the realities of Asia today -- a dynamic region which faces political, economic, cultural, and technological change.</desc>
+    <desc lang="en">A population imbalance has occurred in China where men outnumber women, and men in farming villages face difficulties when trying to marry, with expectations from women such as a condominium and car.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.2021.</episode-num>
     <episode-num system="onscreen">S1E2022</episode-num>
@@ -14771,7 +14771,7 @@
   </programme>
   <programme start="20260213053500 +0000" stop="20260213060500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Asia Insight</title>
-    <desc lang="en">An in-depth look at the realities of Asia today -- a dynamic region which faces political, economic, cultural, and technological change.</desc>
+    <desc lang="en">A population imbalance has occurred in China where men outnumber women, and men in farming villages face difficulties when trying to marry, with expectations from women such as a condominium and car.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.2021.</episode-num>
     <episode-num system="onscreen">S1E2022</episode-num>
@@ -14831,7 +14831,7 @@
   </programme>
   <programme start="20260213103500 +0000" stop="20260213110500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Asia Insight</title>
-    <desc lang="en">An in-depth look at the realities of Asia today -- a dynamic region which faces political, economic, cultural, and technological change.</desc>
+    <desc lang="en">A population imbalance has occurred in China where men outnumber women, and men in farming villages face difficulties when trying to marry, with expectations from women such as a condominium and car.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.2021.</episode-num>
     <episode-num system="onscreen">S1E2022</episode-num>
@@ -14850,7 +14850,7 @@
   </programme>
   <programme start="20260213114800 +0000" stop="20260213120000 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">IMPACTS: Climates Change the World</title>
-    <desc lang="en">The entire Earth is affected by climate change, occurring with a greater speed and scale than ever before. This program uses scientific data and the latest findings to raise awareness on its impact.</desc>
+    <desc lang="en">Rising temperatures due to climate change have affected the behavior of bees, with fewer bees and shorter pollination periods, posing a threat to agriculture that could lead to a food crisis.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.6127.</episode-num>
     <episode-num system="onscreen">S1E6128</episode-num>
@@ -14905,7 +14905,7 @@
   </programme>
   <programme start="20260213153500 +0000" stop="20260213160500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Asia Insight</title>
-    <desc lang="en">An in-depth look at the realities of Asia today -- a dynamic region which faces political, economic, cultural, and technological change.</desc>
+    <desc lang="en">A population imbalance has occurred in China where men outnumber women, and men in farming villages face difficulties when trying to marry, with expectations from women such as a condominium and car.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.2021.</episode-num>
     <episode-num system="onscreen">S1E2022</episode-num>
