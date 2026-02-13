@@ -6287,7 +6287,7 @@
     <title>NHK Newsline</title>
 </programme>
 <programme start="20260212173000 +0000" stop="20260212175500 +0000" channel="NHK World.mncvision">
-    <title>NHK World-Japan Spc. Program</title>
+    <title>Hanamatsuri: Delighting Deities</title>
 </programme>
 <programme start="20260212175500 +0000" stop="20260212180000 +0000" channel="NHK World.mncvision">
     <title>A Culture Built With Wood: Hida</title>
@@ -6329,7 +6329,7 @@
     <title>NHK Newsline</title>
 </programme>
 <programme start="20260212223000 +0000" stop="20260212225500 +0000" channel="NHK World.mncvision">
-    <title>NHK World-Japan Spc. Program</title>
+    <title>Hanamatsuri: Delighting Deities</title>
 </programme>
 <programme start="20260212225500 +0000" stop="20260212230000 +0000" channel="NHK World.mncvision">
     <title>A Culture Built With Wood: Hida</title>
@@ -6350,13 +6350,13 @@
     <title>NHK Newsline</title>
 </programme>
 <programme start="20260213013000 +0000" stop="20260213020000 +0000" channel="NHK World.mncvision">
-    <title>NHK World-Japan Spc. Program</title>
+    <title>Fighting Staff Shortages</title>
 </programme>
 <programme start="20260213020000 +0000" stop="20260213023000 +0000" channel="NHK World.mncvision">
     <title>NHK Newsline</title>
 </programme>
 <programme start="20260213023000 +0000" stop="20260213030000 +0000" channel="NHK World.mncvision">
-    <title>Special Program</title>
+    <title>Our Blue Planet</title>
 </programme>
 <programme start="20260213030000 +0000" stop="20260213033000 +0000" channel="NHK World.mncvision">
     <title>NHK Newsline</title>
@@ -6380,13 +6380,13 @@
     <title>Newsline Asia 24</title>
 </programme>
 <programme start="20260213063000 +0000" stop="20260213070000 +0000" channel="NHK World.mncvision">
-    <title>NHK World-Japan Spc. Program</title>
+    <title>Fighting Staff Shortages</title>
 </programme>
 <programme start="20260213070000 +0000" stop="20260213073000 +0000" channel="NHK World.mncvision">
     <title>Newsline Asia 24</title>
 </programme>
 <programme start="20260213073000 +0000" stop="20260213080000 +0000" channel="NHK World.mncvision">
-    <title>Special Program</title>
+    <title>Our Blue Planet</title>
 </programme>
 <programme start="20260213080000 +0000" stop="20260213083000 +0000" channel="NHK World.mncvision">
     <title>NHK Newsline</title>
@@ -6416,19 +6416,19 @@
     <title>Impacts: Climates Change...</title>
 </programme>
 <programme start="20260213115500 +0000" stop="20260213120000 +0000" channel="NHK World.mncvision">
-    <title>Chatroom Japan</title>
+    <title>Tradition Inspires Green Future</title>
 </programme>
 <programme start="20260213120000 +0000" stop="20260213123000 +0000" channel="NHK World.mncvision">
     <title>Newsroom Tokyo</title>
 </programme>
 <programme start="20260213123000 +0000" stop="20260213130000 +0000" channel="NHK World.mncvision">
-    <title>NHK World-Japan Spc. Program</title>
+    <title>Fighting Staff Shortages</title>
 </programme>
 <programme start="20260213130000 +0000" stop="20260213133000 +0000" channel="NHK World.mncvision">
     <title>NHK Newsline</title>
 </programme>
 <programme start="20260213133000 +0000" stop="20260213140000 +0000" channel="NHK World.mncvision">
-    <title>Special Program</title>
+    <title>Our Blue Planet</title>
 </programme>
 <programme start="20260213140000 +0000" stop="20260213143000 +0000" channel="NHK World.mncvision">
     <title>NHK Newsline</title>

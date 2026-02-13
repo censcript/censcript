@@ -2371,16 +2371,10 @@
     <programme start="20260212230000 +0000" stop="20260213010000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>Utsunomiya Brex vs Taipei Fubon Braves</title>
     </programme>
-    <programme start="20260213010000 +0000" stop="20260213050000 +0000" channel="Hub Sports 2 HD.starhub">
+    <programme start="20260213010000 +0000" stop="20260213061700 +0000" channel="Hub Sports 2 HD.starhub">
         <title>Dallas Open (500) D4 R2 S2</title>
     </programme>
-    <programme start="20260213050000 +0000" stop="20260213053000 +0000" channel="Hub Sports 2 HD.starhub">
-        <title>FIA Championship Middle East - Al Qassim Rally Highlights</title>
-    </programme>
-    <programme start="20260213053000 +0000" stop="20260213060000 +0000" channel="Hub Sports 2 HD.starhub">
-        <title>Super Bowl</title>
-    </programme>
-    <programme start="20260213060000 +0000" stop="20260213080000 +0000" channel="Hub Sports 2 HD.starhub">
+    <programme start="20260213061700 +0000" stop="20260213080000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>R3: Portsmouth vs Arsenal</title>
     </programme>
     <programme start="20260213080000 +0000" stop="20260213100000 +0000" channel="Hub Sports 2 HD.starhub">

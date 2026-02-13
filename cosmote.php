@@ -142,6 +142,14 @@
     <title>Football: Kifisia - Atromitos</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260214141000 +0700" stop="20260214143000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Sports Classics: Worldies E4</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260214143000 +0700" stop="20260214150000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Sports Classics: Ultimate Rush S3 E9</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260213130000 +0700" stop="20260213150000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Sheffield United - Middlesbrough</title>
     <desc>Live: Tidak</desc>
@@ -388,6 +396,10 @@
 </programme>
 <programme start="20260214135000 +0700" stop="20260214142500 +0700" channel="COSMOTE Sport 5 HD">
     <title>Documentary</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260214142500 +0700" stop="20260214151000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC: More Than Machine S2 E3</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260213110000 +0700" stop="20260213150000 +0700" channel="COSMOTE Sport 6 HD">
