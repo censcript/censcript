@@ -658,6 +658,15 @@
 <programme start="20260213113000 +0000" stop="20260213133000 +0000" channel="ANTV.vision">
 <title>Langit Untuk Renata</title>
 </programme>
+<programme start="20260213133000 +0000" stop="20260213150000 +0000" channel="ANTV.vision">
+<title>Titisan Dewi Ular</title>
+</programme>
+<programme start="20260213150000 +0000" stop="20260213170000 +0000" channel="ANTV.vision">
+<title>Jampang 1</title>
+</programme>
+<programme start="20260213170000 +0000" stop="20260213191500 +0000" channel="ANTV.vision">
+<title>Mr. Zombie</title>
+</programme>
 <programme start="20260213191500 +0000" stop="20260213213000 +0000" channel="ANTV.vision">
 <title>Serie A Liga Italia</title>
 </programme>
@@ -1487,14 +1496,5 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260213010000 +0000" stop="20260213030000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260213030000 +0000" stop="20260213050000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260213050000 +0000" stop="20260213070000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260213070000 +0000" stop="20260213090000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>

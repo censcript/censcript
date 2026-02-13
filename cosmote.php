@@ -1,11 +1,3 @@
-<programme start="20260214023000 +0700" stop="20260214033000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>UEFA Champions League Highlights 2025-26</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260214033000 +0700" stop="20260214040000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Game R1 S6 E25</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260214040000 +0700" stop="20260214043000 +0700" channel="COSMOTE Sport 1 HD">
     <title>UEFA Champions League Magazine 2024-25 E20</title>
     <desc>Live: Tidak</desc>
@@ -88,6 +80,10 @@
 </programme>
 <programme start="20260215031500 +0700" stop="20260215041500 +0700" channel="COSMOTE Sport 1 HD">
     <title>UEL &amp; UECL Magazine 2025-26 E12</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260215041500 +0700" stop="20260215063000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: Volos NPS - Aris</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260214024500 +0700" stop="20260214044500 +0700" channel="COSMOTE Sport 2 HD">
@@ -314,9 +310,13 @@
     <title>2026 NBA All-Star Weekend</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260214020500 +0700" stop="20260214031500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC 2026</title>
+<programme start="20260215043000 +0700" stop="20260215045000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>ACB Liga Endesa 2025-26 - Fifth Quarter E18</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260215045000 +0700" stop="20260215050000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Live Link (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260214031500 +0700" stop="20260214041000 +0700" channel="COSMOTE Sport 5 HD">
     <title>WRC 2026</title>
@@ -426,10 +426,6 @@
     <title>Football: Gil Vicente - SC Braga (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260214013000 +0700" stop="20260214033000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: Tallon Griekspoor - Felix Auger-Aliassime (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
 <programme start="20260214033000 +0700" stop="20260214060000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Jaume Munar - Alexander Bublik (L)</title>
     <desc>Live: Ya</desc>
@@ -486,12 +482,8 @@
     <title>Tennis: ATP 500 2026 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260214010000 +0700" stop="20260214033000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>Premier Padel Tour 2026 (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20260214033000 +0700" stop="20260214040000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
+<programme start="20260215040000 +0700" stop="20260215080000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: ATP 500 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260214040000 +0700" stop="20260214050000 +0700" channel="COSMOTE Sport 7 HD">
@@ -642,14 +634,6 @@
     <title>Tennis: ATP 500 2026 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260214013000 +0700" stop="20260214033000 +0700" channel="COSMOTE Sport 9 HD">
-    <title>Football: Santa Clara - SL Benfica (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20260214033000 +0700" stop="20260214040000 +0700" channel="COSMOTE Sport 9 HD">
-    <title>COSMOTESport9HD</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260214040000 +0700" stop="20260214050000 +0700" channel="COSMOTE Sport 9 HD">
     <title>COSMOTESport9HD</title>
     <desc>Live: Tidak</desc>
@@ -713,5 +697,9 @@
 <programme start="20260215024500 +0700" stop="20260215044500 +0700" channel="COSMOTE Sport 9 HD">
     <title>Football: FC Internazionale Milano - Juventus Football Club (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20260215044500 +0700" stop="20260215051500 +0700" channel="COSMOTE Sport 9 HD">
+    <title>COSMOTESport9HD</title>
+    <desc>Live: Tidak</desc>
 </programme>
 No EPG found for COSMOTE Sport 10 HD
