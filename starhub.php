@@ -3101,7 +3101,7 @@
         <title>Reddit Co-Founder Alexis Ohanian</title>
     </programme>
     <programme start="20260213010000 +0000" stop="20260213020000 +0000" channel="Bloomberg Originals.starhub">
-        <title>Sitting Down With the Newsoms</title>
+        <title>Keeping Up With the Newsoms, California&#039;s First Couple</title>
     </programme>
     <programme start="20260213020000 +0000" stop="20260213023000 +0000" channel="Bloomberg Originals.starhub">
         <title>Reese Witherspoon</title>
@@ -3131,7 +3131,7 @@
         <title>Energize</title>
     </programme>
     <programme start="20260213100000 +0000" stop="20260213110000 +0000" channel="Bloomberg Originals.starhub">
-        <title>Sitting Down With the Newsoms</title>
+        <title>Keeping Up With the Newsoms, California&#039;s First Couple</title>
     </programme>
     <programme start="20260213110000 +0000" stop="20260213113000 +0000" channel="Bloomberg Originals.starhub">
         <title>Snap CEO Evan Spiegel</title>
@@ -3239,7 +3239,7 @@
         <title>Could the next pandemic start in your back yard?</title>
     </programme>
     <programme start="20260212233000 +0000" stop="20260213000000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW Podcasts</title>
+        <title>Why 2026 could be a milestone for Germany’s AfD</title>
     </programme>
     <programme start="20260213000000 +0000" stop="20260213000200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3248,7 +3248,7 @@
         <title>News in Review</title>
     </programme>
     <programme start="20260213003000 +0000" stop="20260213010000 +0000" channel="DW English HD.starhub">
-        <title>International Debate from Berlin</title>
+        <title>Lazy Germany: Is more work the way back to the top?</title>
     </programme>
     <programme start="20260213010000 +0000" stop="20260213011500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3296,7 +3296,7 @@
         <title>Could the next pandemic start in your back yard?</title>
     </programme>
     <programme start="20260213063000 +0000" stop="20260213070000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW Podcasts</title>
+        <title>Why 2026 could be a milestone for Germany’s AfD</title>
     </programme>
     <programme start="20260213070000 +0000" stop="20260213071500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3326,7 +3326,7 @@
         <title>Being my own boss</title>
     </programme>
     <programme start="20260213103000 +0000" stop="20260213110000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW Podcasts</title>
+        <title>Why 2026 could be a milestone for Germany’s AfD</title>
     </programme>
     <programme start="20260213110000 +0000" stop="20260213111500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3335,22 +3335,19 @@
         <title>Mangroves Saving Land</title>
     </programme>
     <programme start="20260213113000 +0000" stop="20260213120000 +0000" channel="DW English HD.starhub">
-        <title>International Debate from Berlin</title>
+        <title>Lazy Germany: Is more work the way back to the top?</title>
     </programme>
     <programme start="20260213120000 +0000" stop="20260213121500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
-    <programme start="20260213121500 +0000" stop="20260213130000 +0000" channel="DW English HD.starhub">
-        <title>Voluntary Taxes, No Bureaucracy - Liberland on the Banks of the Danube</title>
+    <programme start="20260213121500 +0000" stop="20260213124500 +0000" channel="DW English HD.starhub">
+        <title>Are vitamin supplements actually worth taking?</title>
     </programme>
-    <programme start="20260213130000 +0000" stop="20260213131500 +0000" channel="DW English HD.starhub">
+    <programme start="20260213124500 +0000" stop="20260213134500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
-    <programme start="20260213131500 +0000" stop="20260213133000 +0000" channel="DW English HD.starhub">
-        <title>Discover South Africa on an Epic Road Trip</title>
-    </programme>
-    <programme start="20260213133000 +0000" stop="20260213140000 +0000" channel="DW English HD.starhub">
-        <title>Are vitamin supplements actually worth taking?</title>
+    <programme start="20260213134500 +0000" stop="20260213140000 +0000" channel="DW English HD.starhub">
+        <title>From Child Bride to Bodybuilding Champion</title>
     </programme>
     <programme start="20260213140000 +0000" stop="20260213141500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3358,17 +3355,14 @@
     <programme start="20260213141500 +0000" stop="20260213143000 +0000" channel="DW English HD.starhub">
         <title>Being my own boss</title>
     </programme>
-    <programme start="20260213143000 +0000" stop="20260213150000 +0000" channel="DW English HD.starhub">
-        <title>The Environment Magazine</title>
-    </programme>
-    <programme start="20260213150000 +0000" stop="20260213151500 +0000" channel="DW English HD.starhub">
+    <programme start="20260213143000 +0000" stop="20260213151500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20260213151500 +0000" stop="20260213153000 +0000" channel="DW English HD.starhub">
         <title>Discover South Africa on an Epic Road Trip</title>
     </programme>
     <programme start="20260213153000 +0000" stop="20260213160000 +0000" channel="DW English HD.starhub">
-        <title>International Debate from Berlin</title>
+        <title>Lazy Germany: Is more work the way back to the top?</title>
     </programme>
     <programme start="20260212160000 +0000" stop="20260212220000 +0000" channel="Preview Channel.starhub">
         <title>Preview Channel</title>
@@ -7963,10 +7957,10 @@
     <programme start="20260212230500 +0000" stop="20260213013000 +0000" channel="Asianet Movies.starhub">
         <title>Corona Papers</title>
     </programme>
-    <programme start="20260213013000 +0000" stop="20260213043000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260213013000 +0000" stop="20260213043500 +0000" channel="Asianet Movies.starhub">
         <title>Nadodimannan</title>
     </programme>
-    <programme start="20260213043000 +0000" stop="20260213073000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260213043500 +0000" stop="20260213073000 +0000" channel="Asianet Movies.starhub">
         <title>One</title>
     </programme>
     <programme start="20260213073000 +0000" stop="20260213103000 +0000" channel="Asianet Movies.starhub">
@@ -7975,7 +7969,7 @@
     <programme start="20260213103000 +0000" stop="20260213133000 +0000" channel="Asianet Movies.starhub">
         <title>Swapnakoodu</title>
     </programme>
-    <programme start="20260213133000 +0000" stop="20260213163000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260213133000 +0000" stop="20260213164500 +0000" channel="Asianet Movies.starhub">
         <title>Avatharam</title>
     </programme>
     <programme start="20260212160000 +0000" stop="20260212170000 +0000" channel="Astro Warna HD.starhub">
