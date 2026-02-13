@@ -74,6 +74,14 @@
     <title>UEFA Champions League Highlights 2025-26</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260214161500 +0700" stop="20260214164500 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Game R1 S6 E25</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260214164500 +0700" stop="20260214171500 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEFA Champions League Magazine 2024-25 E20</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260213141000 +0700" stop="20260213161000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: ACF Fiorentina - Torino</title>
     <desc>Live: Tidak</desc>
@@ -294,10 +302,6 @@
     <title>2026 NBA All-Star Weekend</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260213150000 +0700" stop="20260213153000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>FIA Championship Middle East 2026</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260213153000 +0700" stop="20260213160500 +0700" channel="COSMOTE Sport 5 HD">
     <title>WRC Magazine 2025</title>
     <desc>Live: Tidak</desc>
@@ -396,6 +400,10 @@
 </programme>
 <programme start="20260214155500 +0700" stop="20260214164500 +0700" channel="COSMOTE Sport 5 HD">
     <title>WRC: More Than Machine S2 E5</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260214164500 +0700" stop="20260214173000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC: More Than Machine S2 E6</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260213150000 +0700" stop="20260213163000 +0700" channel="COSMOTE Sport 6 HD">
