@@ -1,10 +1,10 @@
-  <programme start="20260215214500 +0000" stop="20260215232000 +0000" channel="Jednotka.webtv.sk">
+  <programme start="20260215215000 +0000" stop="20260215232300 +0000" channel="Jednotka.webtv.sk">
     <title lang="id">Vraždy v Saint-Paul de Vence</title>
   </programme>
-  <programme start="20260215232000 +0000" stop="20260215232300 +0000" channel="Jednotka.webtv.sk">
+  <programme start="20260215232300 +0000" stop="20260215232500 +0000" channel="Jednotka.webtv.sk">
     <title lang="id">Hymna SR</title>
   </programme>
-  <programme start="20260215232300 +0000" stop="20260216010500 +0000" channel="Jednotka.webtv.sk">
+  <programme start="20260215232500 +0000" stop="20260216010500 +0000" channel="Jednotka.webtv.sk">
     <title lang="id">Agatha Christie: Poirot VI (2)</title>
   </programme>
   <programme start="20260216010500 +0000" stop="20260216015500 +0000" channel="Jednotka.webtv.sk">
