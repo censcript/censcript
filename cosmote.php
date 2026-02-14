@@ -1,7 +1,3 @@
-<programme start="20260214164500 +0700" stop="20260214171500 +0700" channel="COSMOTE Sport 1 HD">
-    <title>UEFA Champions League Magazine 2024-25 E20</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260214171500 +0700" stop="20260214191500 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Crystal Palace - KuPS Kuopio</title>
     <desc>Live: Tidak</desc>
@@ -138,9 +134,13 @@
     <title>Football: Volos NPS - Aris</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260214130000 +0700" stop="20260214173000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>American Football: New England Patriots - Seattle Seahawks</title>
+<programme start="20260215180000 +0700" stop="20260215183000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Sports Classics: Ultimate Rush S3 E10</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260215183000 +0700" stop="20260215203000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Udinese - Sassuolo (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260214173000 +0700" stop="20260214193000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Anorthosis Famagusta - Freedom24 Krasava E.N.Y</title>
@@ -218,8 +218,8 @@
     <title>Sports Classics: Ultimate Rush S4 E10</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260214153000 +0700" stop="20260214180000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>2026 NBA All-Star Weekend</title>
+<programme start="20260215180000 +0700" stop="20260215195500 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Gil Vicente - SC Braga</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260214180000 +0700" stop="20260214194500 +0700" channel="COSMOTE Sport 4 HD">
@@ -298,9 +298,9 @@
     <title>2026 NBA All-Star Weekend</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260214163500 +0700" stop="20260214172000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC: More Than Machine S2 E6</title>
-    <desc>Live: Tidak</desc>
+<programme start="20260215183000 +0700" stop="20260215203000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Andorra - Valencia Basket Club (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260214172000 +0700" stop="20260214181000 +0700" channel="COSMOTE Sport 5 HD">
     <title>WRC: More Than Machine S2 E7</title>
@@ -418,6 +418,10 @@
     <title>Sports Classics: Gearing Up 2025 E1</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260215180000 +0700" stop="20260215194000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC 2026 (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
 <programme start="20260214170000 +0700" stop="20260214210000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP 500 2026</title>
     <desc>Live: Tidak</desc>
@@ -464,10 +468,6 @@
 </programme>
 <programme start="20260215173000 +0700" stop="20260215213000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP 500 2026</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260214170000 +0700" stop="20260214180000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260214180000 +0700" stop="20260214183000 +0700" channel="COSMOTE Sport 7 HD">
