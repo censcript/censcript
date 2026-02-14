@@ -562,6 +562,9 @@
 <programme start="20260214154500 +0000" stop="20260214163000 +0000" channel="Trans 7.vision">
 <title>The Police</title>
 </programme>
+<programme start="20260214163000 +0000" stop="20260214181500 +0000" channel="Trans 7.vision">
+<title>Nokta Merah Perkawinan</title>
+</programme>
 <programme start="20260214181500 +0000" stop="20260214190000 +0000" channel="Trans 7.vision">
 <title>Best Fishing</title>
 </programme>
@@ -634,6 +637,9 @@
 <programme start="20260214003000 +0000" stop="20260214023000 +0000" channel="ANTV.vision">
 <title>Janji Inspektur Virat</title>
 </programme>
+<programme start="20260214023000 +0000" stop="20260214060000 +0000" channel="ANTV.vision">
+<title>Jab Harry Met Sejal</title>
+</programme>
 <programme start="20260214060000 +0000" stop="20260214083000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -642,6 +648,12 @@
 </programme>
 <programme start="20260214113000 +0000" stop="20260214133000 +0000" channel="ANTV.vision">
 <title>Langit Untuk Renata</title>
+</programme>
+<programme start="20260214133000 +0000" stop="20260214150000 +0000" channel="ANTV.vision">
+<title>Petualangan Cinta Nyi Blorong</title>
+</programme>
+<programme start="20260214150000 +0000" stop="20260214163000 +0000" channel="ANTV.vision">
+<title>Jampang 2</title>
 </programme>
 <programme start="20260214163000 +0000" stop="20260214190000 +0000" channel="ANTV.vision">
 <title>Serie A Liga Italia</title>
@@ -811,6 +823,9 @@
 <programme start="20260214040000 +0000" stop="20260214053000 +0000" channel="TVOne.vision">
 <title>Kabar Siang (L)</title>
 </programme>
+<programme start="20260214053000 +0000" stop="20260214070000 +0000" channel="TVOne.vision">
+<title>Damai Indonesiaku (L)</title>
+</programme>
 <programme start="20260214070000 +0000" stop="20260214073000 +0000" channel="TVOne.vision">
 <title>Selalu Ada Hikmah</title>
 </programme>
@@ -825,6 +840,18 @@
 </programme>
 <programme start="20260214110000 +0000" stop="20260214120000 +0000" channel="TVOne.vision">
 <title>Apa Kabar Indonesia Malam (L)</title>
+</programme>
+<programme start="20260214120000 +0000" stop="20260214123000 +0000" channel="TVOne.vision">
+<title>Dialog Kebangsaan (L)</title>
+</programme>
+<programme start="20260214123000 +0000" stop="20260214133000 +0000" channel="TVOne.vision">
+<title>Spesial Hut tvOne Ke-18</title>
+</programme>
+<programme start="20260214133000 +0000" stop="20260214140000 +0000" channel="TVOne.vision">
+<title>Indonesia Berzikir (L)</title>
+</programme>
+<programme start="20260214140000 +0000" stop="20260214150000 +0000" channel="TVOne.vision">
+<title>Doa Untuk Negeri</title>
 </programme>
 <programme start="20260214150000 +0000" stop="20260214160000 +0000" channel="TVOne.vision">
 <title>Kabar Utama (L)</title>
@@ -1470,31 +1497,4 @@
 </programme>
 <programme start="20260215083000 +0000" stop="20260215103000 +0000" channel="BTV.vision">
 <title>Berita Satu Sore</title>
-</programme>
-<programme start="20260215103000 +0000" stop="20260215110000 +0000" channel="BTV.vision">
-<title>Berita Kriminal</title>
-</programme>
-<programme start="20260215110000 +0000" stop="20260215120000 +0000" channel="BTV.vision">
-<title>Dunia Binatang</title>
-</programme>
-<programme start="20260213230000 +0000" stop="20260214010000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260214010000 +0000" stop="20260214030000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260214030000 +0000" stop="20260214050000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260214050000 +0000" stop="20260214070000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260214070000 +0000" stop="20260214090000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260214090000 +0000" stop="20260214110000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260214110000 +0000" stop="20260214130000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
 </programme>
