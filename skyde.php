@@ -3268,7 +3268,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260214194000 +0000" stop="20260214200000 +0000" channel="Sky Sport 4 HD.skyde">
     <title>Es folgt: Live Tennis ATP Tour</title>
 </programme>
-<programme start="20260214200000 +0000" stop="20260214220000 +0000" channel="Sky Sport 4 HD.skyde">
+<programme start="20260214200000 +0000" stop="20260215000000 +0000" channel="Sky Sport 4 HD.skyde">
     <title>Live ATP 500: HF1, Dallas Open in Dallas (USA), Halbfinale 1</title>
 </programme>
 <programme start="20260214144000 +0000" stop="20260214150000 +0000" channel="Sky Sport 8 HD.skyde">

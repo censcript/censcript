@@ -2053,8 +2053,8 @@
     <programme start="20260213170000 +0000" stop="20260213200000 +0000" channel="KTV HD.starhub">
         <title>Movie - Aadalam Boys Chinnatha Dance</title>
     </programme>
-    <programme start="20260213200000 +0000" stop="20260213220000 +0000" channel="KTV HD.starhub">
-        <title>Information Not Available</title>
+    <programme start="20260213200000 +0000" stop="20260213223000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Suba Muhurtham</title>
     </programme>
     <programme start="20260213223000 +0000" stop="20260214010000 +0000" channel="KTV HD.starhub">
         <title>Movie - Sumai</title>
@@ -6046,10 +6046,13 @@
     <programme start="20260214153000 +0000" stop="20260214163000 +0000" channel="BBC Earth HD.starhub">
         <title>Microwave</title>
     </programme>
-    <programme start="20260213160000 +0000" stop="20260213183000 +0000" channel="Hub Sports 6.starhub">
+    <programme start="20260213120000 +0000" stop="20260213163000 +0000" channel="Hub Sports 6.starhub">
+        <title>ABN Amro Open (500) QF 1 &amp; 2</title>
+    </programme>
+    <programme start="20260213163000 +0000" stop="20260213183000 +0000" channel="Hub Sports 6.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20260213183000 +0000" stop="20260213223000 +0000" channel="Hub Sports 6.starhub">
+    <programme start="20260213183000 +0000" stop="20260213234500 +0000" channel="Hub Sports 6.starhub">
         <title>ABN Amro Open (500) QF 3 &amp; 4</title>
     </programme>
     <programme start="20260213234500 +0000" stop="20260214040000 +0000" channel="Hub Sports 6.starhub">
@@ -6649,11 +6652,8 @@
     <programme start="20260213160000 +0000" stop="20260213180000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>ASB Classic (250) Final</title>
     </programme>
-    <programme start="20260213180000 +0000" stop="20260213220000 +0000" channel="Hub Sports 1  HD.starhub">
+    <programme start="20260213180000 +0000" stop="20260213223000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Dallas Open (500) QF 1 &amp; 2</title>
-    </programme>
-    <programme start="20260213220000 +0000" stop="20260213223000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Season 3 Episode 8</title>
     </programme>
     <programme start="20260213223000 +0000" stop="20260213230000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Season 3 Episode 9</title>
