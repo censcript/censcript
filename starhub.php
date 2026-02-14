@@ -2368,13 +2368,10 @@
     <programme start="20260214003000 +0000" stop="20260214010000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>#901</title>
     </programme>
-    <programme start="20260214010000 +0000" stop="20260214050000 +0000" channel="Hub Sports 2 HD.starhub">
+    <programme start="20260214010000 +0000" stop="20260214054300 +0000" channel="Hub Sports 2 HD.starhub">
         <title>Dallas Open (500) QF 3 &amp; 4</title>
     </programme>
-    <programme start="20260214050000 +0000" stop="20260214053000 +0000" channel="Hub Sports 2 HD.starhub">
-        <title>#575</title>
-    </programme>
-    <programme start="20260214053000 +0000" stop="20260214060000 +0000" channel="Hub Sports 2 HD.starhub">
+    <programme start="20260214054300 +0000" stop="20260214060000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>Round 4</title>
     </programme>
     <programme start="20260214060000 +0000" stop="20260214080000 +0000" channel="Hub Sports 2 HD.starhub">

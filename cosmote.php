@@ -1,7 +1,3 @@
-<programme start="20260214130000 +0700" stop="20260214131500 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Sports Highlights</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260214131500 +0700" stop="20260214151500 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Maccabi Tel-Aviv FC - Bologna</title>
     <desc>Live: Tidak</desc>
@@ -226,10 +222,6 @@
     <title>Football: Liverpool FC - Brighton &amp; Hove Albion</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260214113000 +0700" stop="20260214133000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Anadolu Efes - Karsiyaka</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260214133000 +0700" stop="20260214153000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Barcelona - Girona</title>
     <desc>Live: Tidak</desc>
@@ -306,12 +298,8 @@
     <title>Basketball: Varese - Brescia</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260214120500 +0700" stop="20260214131000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC 2026</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260214131000 +0700" stop="20260214140000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC 2026</title>
+<programme start="20260215145500 +0700" stop="20260215153000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>NBA on Fire 2025-26 E16</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260214140000 +0700" stop="20260214142000 +0700" channel="COSMOTE Sport 5 HD">
@@ -425,6 +413,14 @@
 <programme start="20260215133000 +0700" stop="20260215143000 +0700" channel="COSMOTE Sport 5 HD">
     <title>WRC 2026 (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20260215143000 +0700" stop="20260215144000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Sports Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260215144000 +0700" stop="20260215151000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Documentary</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260214130000 +0700" stop="20260214170000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP 500 2026</title>
