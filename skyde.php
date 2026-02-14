@@ -935,67 +935,61 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Ligue 1 25/26: PSG - Olympique Marseille</title>
 </programme>
 <programme start="20260214101000 +0000" stop="20260214120500 +0000" channel="DAZN 1 HD.skyde">
-    <title>Bundesliga: Borussia Dortmund - 1. FSV Mainz 05</title>
+    <title>Bundesliga 25/26: Borussia Dortmund - 1. FSV Mainz 05</title>
 </programme>
 <programme start="20260214120500 +0000" stop="20260214123000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Bundesliga Features 2025/26: Bundesliga Beef - Episode 5</title>
+    <title>Bundesliga Features 25/26: Bundesliga Beef - Episode 5</title>
 </programme>
 <programme start="20260214123000 +0000" stop="20260214130000 +0000" channel="DAZN 1 HD.skyde">
     <title>Warm Up: Bundesliga Highlights</title>
 </programme>
 <programme start="20260214130000 +0000" stop="20260214163000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Bundesliga Konferenz: 22. Spieltag</title>
+    <title>Bundesliga Konferenz 25/26: 22. Spieltag</title>
 </programme>
 <programme start="20260214163000 +0000" stop="20260214174500 +0000" channel="DAZN 1 HD.skyde">
     <title>ALL IN - Die Bundesliga Highlight Show: 22. Spieltag</title>
 </programme>
 <programme start="20260214174500 +0000" stop="20260214194000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Bundesliga: SV Werder Bremen - FC Bayern München</title>
+    <title>Bundesliga 25/26: SV Werder Bremen - FC Bayern München</title>
 </programme>
 <programme start="20260214194000 +0000" stop="20260214213500 +0000" channel="DAZN 1 HD.skyde">
-    <title>Bundesliga: VFB Stuttgart - 1. FC Köln</title>
+    <title>Bundesliga 25/26: VFB Stuttgart - 1. FC Köln</title>
 </programme>
-<programme start="20260214213500 +0000" stop="20260214225000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260214213500 +0000" stop="20260214230000 +0000" channel="DAZN 1 HD.skyde">
     <title>ALL IN - Die Bundesliga Highlight Show: 22. Spieltag</title>
-</programme>
-<programme start="20260214225000 +0000" stop="20260214230000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
 </programme>
 <programme start="20260213230000 +0000" stop="20260214070000 +0000" channel="DAZN 2 HD.skyde">
     <title>Sendepause</title>
 </programme>
 <programme start="20260214070000 +0000" stop="20260214085500 +0000" channel="DAZN 2 HD.skyde">
-    <title>Bundesliga: Borussia Dortmund - 1. FSV Mainz 05</title>
+    <title>Bundesliga 25/26: Borussia Dortmund - 1. FSV Mainz 05</title>
 </programme>
 <programme start="20260214085500 +0000" stop="20260214094000 +0000" channel="DAZN 2 HD.skyde">
     <title>Her Element by Laura Wontorra: Episode 3</title>
 </programme>
-<programme start="20260214094000 +0000" stop="20260214103000 +0000" channel="DAZN 2 HD.skyde">
+<programme start="20260214094000 +0000" stop="20260214105000 +0000" channel="DAZN 2 HD.skyde">
     <title>Her Element by Laura Wontorra: Episode 4</title>
 </programme>
-<programme start="20260214103000 +0000" stop="20260214105000 +0000" channel="DAZN 2 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
-</programme>
 <programme start="20260214105000 +0000" stop="20260214111000 +0000" channel="DAZN 2 HD.skyde">
-    <title>&quot;Mehr als 90 Minuten&quot; 2025/26: Staffel 2 - Folge 1</title>
+    <title>&quot;Mehr als 90 Minuten&quot;: Staffel 2 - Folge 1</title>
 </programme>
 <programme start="20260214111000 +0000" stop="20260214112500 +0000" channel="DAZN 2 HD.skyde">
-    <title>&quot;Mehr als 90 Minuten&quot; 2025/26: Staffel 2 - Folge 2</title>
+    <title>&quot;Mehr als 90 Minuten&quot;: Staffel 2 - Folge 2</title>
 </programme>
 <programme start="20260214112500 +0000" stop="20260214114000 +0000" channel="DAZN 2 HD.skyde">
-    <title>&quot;Mehr als 90 Minuten&quot; 2025/26: Staffel 2 - Folge 3</title>
+    <title>&quot;Mehr als 90 Minuten&quot;: Staffel 2 - Folge 3</title>
 </programme>
 <programme start="20260214114000 +0000" stop="20260214115500 +0000" channel="DAZN 2 HD.skyde">
-    <title>&quot;Mehr als 90 Minuten&quot; 2025/26: Staffel 2 - Folge 4</title>
+    <title>&quot;Mehr als 90 Minuten&quot;: Staffel 2 - Folge 4</title>
 </programme>
 <programme start="20260214115500 +0000" stop="20260214120500 +0000" channel="DAZN 2 HD.skyde">
-    <title>&quot;Mehr als 90 Minuten&quot; 2025/26: Staffel 2 - Folge 5</title>
+    <title>&quot;Mehr als 90 Minuten&quot;: Staffel 2 - Folge 5</title>
 </programme>
 <programme start="20260214120500 +0000" stop="20260214141500 +0000" channel="DAZN 2 HD.skyde">
     <title>FA Cup 25/26: Burton Albion - West Ham United</title>
 </programme>
 <programme start="20260214141500 +0000" stop="20260214142500 +0000" channel="DAZN 2 HD.skyde">
-    <title>&quot;Mehr als 90 Minuten&quot; 2025/26: Staffel 2 - Folge 6</title>
+    <title>&quot;Mehr als 90 Minuten&quot;: Staffel 2 - Folge 6</title>
 </programme>
 <programme start="20260214142500 +0000" stop="20260214145000 +0000" channel="DAZN 2 HD.skyde">
     <title>Best of DAZN: Highlights</title>
@@ -2602,19 +2596,19 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260214153000 +0000" stop="20260214155000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: Live Admiral Bundesliga</title>
 </programme>
-<programme start="20260214155000 +0000" stop="20260214180000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20260214155000 +0000" stop="20260214183000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live Admiral BL: WSG Tirol - SK Puntigamer Sturm Graz, 19. Runde</title>
 </programme>
 <programme start="20260214153000 +0000" stop="20260214155000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Es folgt: Live Admiral Bundesliga</title>
 </programme>
-<programme start="20260214155000 +0000" stop="20260214180000 +0000" channel="Sky Sport Austria 3 HD.skyde">
+<programme start="20260214155000 +0000" stop="20260214183000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live Admiral BL: SV Oberbank Ried - LASK, 19. Runde</title>
 </programme>
 <programme start="20260214153000 +0000" stop="20260214155000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Es folgt: Live Admiral Bundesliga</title>
 </programme>
-<programme start="20260214155000 +0000" stop="20260214180000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+<programme start="20260214155000 +0000" stop="20260214183000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live Admiral BL: TSV Egger Glas Hartberg - SCR Altach, 19. Runde</title>
 </programme>
 <programme start="20260213233000 +0000" stop="20260214013000 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -2734,7 +2728,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260214141500 +0000" stop="20260214164500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: Werder Bremen - FC Bayern München, 22. Spieltag</title>
 </programme>
-<programme start="20260214164500 +0000" stop="20260214201500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
+<programme start="20260214164500 +0000" stop="20260214204500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: VfB Stuttgart - 1. FC Köln, tipico Topspiel der Woche, 22. Spieltag</title>
 </programme>
 <programme start="20260214111000 +0000" stop="20260214113000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
@@ -2758,7 +2752,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260214190000 +0000" stop="20260214220000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Live 2. BL: Dynamo Dresden - SV Elversberg, tipico Topspiel der Woche, 22. Spieltag</title>
 </programme>
-<programme start="20260214220000 +0000" stop="20260214230000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+<programme start="20260214220000 +0000" stop="20260214233000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 22. Spieltag, Samstag komplett</title>
 </programme>
 <programme start="20260214111000 +0000" stop="20260214113000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
@@ -2773,7 +2767,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260214141500 +0000" stop="20260214164500 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live BL: Eintracht Frankfurt - Borussia M&#039;gladbach, 22. Spieltag</title>
 </programme>
-<programme start="20260214164500 +0000" stop="20260214201500 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
+<programme start="20260214164500 +0000" stop="20260214204500 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live BL: Tactical Feed: VFB - KOE, 22. Spieltag</title>
 </programme>
 <programme start="20260214111000 +0000" stop="20260214113000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
@@ -2785,7 +2779,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260214140000 +0000" stop="20260214141500 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live BL: HSV - FCU: tipico Countdown, 22. Spieltag</title>
 </programme>
-<programme start="20260214141500 +0000" stop="20260214164500 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
+<programme start="20260214141500 +0000" stop="20260214171500 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live BL: Hamburger SV - 1. FC Union Berlin, 22. Spieltag</title>
 </programme>
 <programme start="20260214111000 +0000" stop="20260214113000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
@@ -2797,7 +2791,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260214140000 +0000" stop="20260214141500 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Live BL: B04 - STP: tipico Countdown, 22. Spieltag</title>
 </programme>
-<programme start="20260214141500 +0000" stop="20260214164500 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
+<programme start="20260214141500 +0000" stop="20260214171500 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Live BL: Bayer Leverkusen - FC St. Pauli, 22. Spieltag</title>
 </programme>
 <programme start="20260214111000 +0000" stop="20260214113000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
@@ -2806,7 +2800,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260214113000 +0000" stop="20260214140000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
     <title>Live 2. BL: Multiview 22. Spieltag, Samstag</title>
 </programme>
-<programme start="20260214140000 +0000" stop="20260214163000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
+<programme start="20260214140000 +0000" stop="20260214171500 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
     <title>Live BL: Multiview 22. Spieltag</title>
 </programme>
 <programme start="20260214111000 +0000" stop="20260214113000 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
@@ -2815,7 +2809,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260214113000 +0000" stop="20260214140000 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
     <title>Live 2. BL: Samstags-Konferenz, 22. Spieltag</title>
 </programme>
-<programme start="20260214140000 +0000" stop="20260214144500 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
+<programme start="20260214140000 +0000" stop="20260214151500 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
     <title>Live 2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 22. Spieltag, Samstag</title>
 </programme>
 <programme start="20260213230000 +0000" stop="20260214010000 +0000" channel="Sky Sport F1 HD.skyde">
@@ -2917,10 +2911,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260213233000 +0000" stop="20260214000000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NBA: Action</title>
 </programme>
-<programme start="20260214000000 +0000" stop="20260214020000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260214000000 +0000" stop="20260214021000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NBA: Celebrity Game</title>
 </programme>
-<programme start="20260214020000 +0000" stop="20260214040000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260214021000 +0000" stop="20260214040000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NBA: Rising Stars</title>
 </programme>
 <programme start="20260214040000 +0000" stop="20260214060000 +0000" channel="Sky Sport Mix HD.skyde">
@@ -3194,7 +3188,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Live ATP 500: Dallas Open in Dallas (USA), 5. Tag</title>
 </programme>
 <programme start="20260214050000 +0000" stop="20260214070000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: Topspiel, ABN AMRO Open in Rotterdam (NLD), 5. Tag</title>
+    <title>ATP 500: T. Griekspoor (NED) - F. Auger-Aliassime (CAN), ABN AMRO Open in Rotterdam (NLD), 5. Tag</title>
 </programme>
 <programme start="20260214070000 +0000" stop="20260214080000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP Finals: Review Turin 2025</title>
@@ -3206,13 +3200,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>WTA 1000: M. Sakkari (GRE) - K. Muchova (CZE), Qatar Total Energies Open in Doha (Katar), Halbfinale 2</title>
 </programme>
 <programme start="20260214120000 +0000" stop="20260214140000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: Topspiel, ABN AMRO Open in Rotterdam (NLD), 5. Tag</title>
+    <title>ATP 500: T. Griekspoor (NED) - F. Auger-Aliassime (CAN), ABN AMRO Open in Rotterdam (NLD), 5. Tag</title>
 </programme>
 <programme start="20260214140000 +0000" stop="20260214160000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP 500: HF1, ABN AMRO Open in Rotterdam (NLD), Halbfinale 1</title>
+    <title>Live ATP 500: A. de Minaur (AUS) - U. Humbert (FRA), ABN AMRO Open in Rotterdam (NLD), Halbfinale 1</title>
 </programme>
 <programme start="20260214160000 +0000" stop="20260214173000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live WTA 1000: Finale, Qatar Total Energies Open in Doha (Katar), Finale</title>
+    <title>Live WTA 1000: K. Muchova (CZE) - V. Mboko (CAN), Qatar Total Energies Open in Doha (Katar), Finale</title>
 </programme>
 <programme start="20260214173000 +0000" stop="20260214180000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
@@ -3221,7 +3215,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>WTA Finals: Review Riyadh 2025</title>
 </programme>
 <programme start="20260214183000 +0000" stop="20260214203000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP 500: HF2, ABN AMRO Open in Rotterdam (NLD), Halbfinale 2</title>
+    <title>Live ATP 500: A. Bublik (KAZ) - F. Auger-Aliassime (CAN), ABN AMRO Open in Rotterdam (NLD), Halbfinale 2</title>
 </programme>
 <programme start="20260214203000 +0000" stop="20260214220000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP 500: HF1, Dallas Open in Dallas (USA), Halbfinale 1</title>
@@ -3232,10 +3226,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260213231500 +0000" stop="20260214000000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 22. Spieltag, Freitag</title>
 </programme>
-<programme start="20260214000000 +0000" stop="20260214020000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260214000000 +0000" stop="20260214021000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Celebrity Game</title>
 </programme>
-<programme start="20260214020000 +0000" stop="20260214040000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260214021000 +0000" stop="20260214040000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Rising Stars</title>
 </programme>
 <programme start="20260214040000 +0000" stop="20260214080000 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3280,8 +3274,8 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260214144000 +0000" stop="20260214150000 +0000" channel="Sky Sport 8 HD.skyde">
     <title>Es folgt: LIVE Tennis WTA</title>
 </programme>
-<programme start="20260214150000 +0000" stop="20260214173000 +0000" channel="Sky Sport 8 HD.skyde">
-    <title>Live WTA 1000: Finale, Qatar Total Energies Open in Doha (Katar), Finale</title>
+<programme start="20260214150000 +0000" stop="20260214200000 +0000" channel="Sky Sport 8 HD.skyde">
+    <title>Live WTA 1000: K. Muchova (CZE) - V. Mboko (CAN), Qatar Total Energies Open in Doha (Katar), Finale</title>
 </programme>
 <programme start="20260213234000 +0000" stop="20260214003000 +0000" channel="SYFY HD.skyde">
     <title>Raumschiff Enterprise - Das nächste Jahrhundert</title>

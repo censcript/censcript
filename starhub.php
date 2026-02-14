@@ -6052,7 +6052,7 @@
     <programme start="20260213183000 +0000" stop="20260213223000 +0000" channel="Hub Sports 6.starhub">
         <title>ABN Amro Open (500) QF 3 &amp; 4</title>
     </programme>
-    <programme start="20260213223000 +0000" stop="20260214040000 +0000" channel="Hub Sports 6.starhub">
+    <programme start="20260213234500 +0000" stop="20260214040000 +0000" channel="Hub Sports 6.starhub">
         <title>End of Transmission</title>
     </programme>
     <programme start="20260214040000 +0000" stop="20260214100000 +0000" channel="Hub Sports 6.starhub">
