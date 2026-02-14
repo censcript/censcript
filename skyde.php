@@ -3184,14 +3184,11 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260214003000 +0000" stop="20260214010000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
 </programme>
-<programme start="20260214010000 +0000" stop="20260214050000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260214010000 +0000" stop="20260214054500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP 500: Dallas Open in Dallas (USA), 5. Tag</title>
 </programme>
-<programme start="20260214050000 +0000" stop="20260214070000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260214054500 +0000" stop="20260214080000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: T. Griekspoor (NED) - F. Auger-Aliassime (CAN), ABN AMRO Open in Rotterdam (NLD), 5. Tag</title>
-</programme>
-<programme start="20260214070000 +0000" stop="20260214080000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP Finals: Review Turin 2025</title>
 </programme>
 <programme start="20260214080000 +0000" stop="20260214100000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: J. Ostapenko (LAT) - V. Mboko (CAN), Qatar Total Energies Open in Doha (Katar), Halbfinale 1</title>

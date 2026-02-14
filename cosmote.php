@@ -138,6 +138,14 @@
     <title>Football: Parma - Hellas Verona (L)</title>
     <desc>Live: Ya</desc>
 </programme>
+<programme start="20260215230000 +0700" stop="20260215233000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Sports Classics: Ultimate Rush S3 E11</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260215233000 +0700" stop="20260216000000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Sports Classics: Worldies E6</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260214220000 +0700" stop="20260215000000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Manchester City FC - Salford City (L)</title>
     <desc>Live: Ya</desc>
@@ -216,6 +224,14 @@
 </programme>
 <programme start="20260215210000 +0700" stop="20260215230000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Cremonese - Genoa (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
+<programme start="20260215230000 +0700" stop="20260215233000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Sports Classics: Worldies E20</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260215233000 +0700" stop="20260216013000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Arsenal - Wigan Athletic (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20260214220000 +0700" stop="20260215000000 +0700" channel="COSMOTE Sport 4 HD">
@@ -304,10 +320,6 @@
 </programme>
 <programme start="20260215223000 +0700" stop="20260216003000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Football: Nacional - FC Porto (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20260214220000 +0700" stop="20260214230000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC 2026 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20260214230000 +0700" stop="20260214235000 +0700" channel="COSMOTE Sport 5 HD">
@@ -554,6 +566,14 @@
     <title>Football: Kilmarnock - Celtic FC (L)</title>
     <desc>Live: Ya</desc>
 </programme>
+<programme start="20260215230000 +0700" stop="20260215233000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260215233000 +0700" stop="20260216013000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>Football: Rangers FC - Heart of Midlothian (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
 <programme start="20260214220000 +0700" stop="20260215000000 +0700" channel="COSMOTE Sport 8 HD">
     <title>Football: Norwich City - West Bromwich Albion (L)</title>
     <desc>Live: Ya</desc>
@@ -630,9 +650,13 @@
     <title>Football: Stoke City - Fulham (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260214210000 +0700" stop="20260214230000 +0700" channel="COSMOTE Sport 9 HD">
-    <title>Football: Como - ACF Fiorentina (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20260215230000 +0700" stop="20260215233000 +0700" channel="COSMOTE Sport 8 HD">
+    <title>COSMOTESport8HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260215233000 +0700" stop="20260216000000 +0700" channel="COSMOTE Sport 8 HD">
+    <title>COSMOTESport8HD</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260214230000 +0700" stop="20260214233000 +0700" channel="COSMOTE Sport 9 HD">
     <title>COSMOTESport9HD</title>
@@ -691,6 +715,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260215210000 +0700" stop="20260215230000 +0700" channel="COSMOTE Sport 9 HD">
+    <title>COSMOTESport9HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260215230000 +0700" stop="20260216010000 +0700" channel="COSMOTE Sport 9 HD">
     <title>COSMOTESport9HD</title>
     <desc>Live: Tidak</desc>
 </programme>
