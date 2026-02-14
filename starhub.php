@@ -2056,14 +2056,26 @@
     <programme start="20260213200000 +0000" stop="20260213220000 +0000" channel="KTV HD.starhub">
         <title>Information Not Available</title>
     </programme>
-    <programme start="20260213220000 +0000" stop="20260214040000 +0000" channel="KTV HD.starhub">
-        <title>Information Not Available</title>
+    <programme start="20260213223000 +0000" stop="20260214010000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Sumai</title>
     </programme>
-    <programme start="20260214040000 +0000" stop="20260214100000 +0000" channel="KTV HD.starhub">
-        <title>Information Not Available</title>
+    <programme start="20260214010000 +0000" stop="20260214013000 +0000" channel="KTV HD.starhub">
+        <title>Fillers</title>
     </programme>
-    <programme start="20260214100000 +0000" stop="20260214160000 +0000" channel="KTV HD.starhub">
-        <title>Information Not Available</title>
+    <programme start="20260214013000 +0000" stop="20260214043000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Ameerin Aadhi Baghavan</title>
+    </programme>
+    <programme start="20260214043000 +0000" stop="20260214073000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Kanthaswamy</title>
+    </programme>
+    <programme start="20260214073000 +0000" stop="20260214103000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Devan</title>
+    </programme>
+    <programme start="20260214103000 +0000" stop="20260214133000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Sathriyan</title>
+    </programme>
+    <programme start="20260214133000 +0000" stop="20260214170000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Motta Siva Ketta Siva</title>
     </programme>
     <programme start="20260213150000 +0000" stop="20260213163000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>Premier Padel 2026: Riyadh P1 Day 5 SF 2 - Women (Live)</title>
@@ -7052,13 +7064,13 @@
         <title>NHK Newsline</title>
     </programme>
     <programme start="20260214001000 +0000" stop="20260214010000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>Documentary 360</title>
+        <title>Through the Winds of 100 Years</title>
     </programme>
     <programme start="20260214010000 +0000" stop="20260214011000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>NHK Newsline</title>
     </programme>
     <programme start="20260214011000 +0000" stop="20260214020000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>NHK World-Japan Special Programme</title>
+        <title>Impacts Special Edition</title>
     </programme>
     <programme start="20260214020000 +0000" stop="20260214021000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>NHK Newsline</title>
@@ -7106,13 +7118,13 @@
         <title>NHK Newsline</title>
     </programme>
     <programme start="20260214061000 +0000" stop="20260214070000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>Documentary 360</title>
+        <title>Through the Winds of 100 Years</title>
     </programme>
     <programme start="20260214070000 +0000" stop="20260214071000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>NHK Newsline</title>
     </programme>
     <programme start="20260214071000 +0000" stop="20260214080000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>NHK World-Japan Special Programme</title>
+        <title>Impacts Special Edition</title>
     </programme>
     <programme start="20260214080000 +0000" stop="20260214081000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>NHK Newsline</title>
@@ -7160,13 +7172,13 @@
         <title>NHK Newsline</title>
     </programme>
     <programme start="20260214121000 +0000" stop="20260214130000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>Documentary 360</title>
+        <title>Through the Winds of 100 Years</title>
     </programme>
     <programme start="20260214130000 +0000" stop="20260214131000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>NHK Newsline</title>
     </programme>
     <programme start="20260214131000 +0000" stop="20260214140000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>NHK World-Japan Special Programme</title>
+        <title>Impacts Special Edition</title>
     </programme>
     <programme start="20260214140000 +0000" stop="20260214141000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>NHK Newsline</title>
