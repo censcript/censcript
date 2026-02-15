@@ -50,10 +50,6 @@
     <title>Football: Macclesfield - Brentford (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260216020000 +0700" stop="20260216024500 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Sports Classics: Ultimate Rush S3 E12</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260216024500 +0700" stop="20260216044500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: SSC Napoli - AS Roma (L)</title>
     <desc>Live: Ya</desc>
@@ -110,10 +106,6 @@
     <title>Football: Cagliari - Lecce (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260216020000 +0700" stop="20260216023000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Sports Classics: Ultimate Rush S5 E1</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260216023000 +0700" stop="20260216043000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Kilmarnock - Celtic FC</title>
     <desc>Live: Tidak</desc>
@@ -166,9 +158,9 @@
     <title>Football: Rangers FC - Heart of Midlothian</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260216013000 +0700" stop="20260216021500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>NBA Specials</title>
-    <desc>Live: Tidak</desc>
+<programme start="20260217030000 +0700" stop="20260217050000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Coventry City - Middlesbrough (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260216021500 +0700" stop="20260216045000 +0700" channel="COSMOTE Sport 4 HD">
     <title>2026 NBA All-Star Weekend</title>
@@ -225,10 +217,6 @@
 <programme start="20260217023000 +0700" stop="20260217060000 +0700" channel="COSMOTE Sport 4 HD">
     <title>2026 NBA All-Star Weekend</title>
     <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260216010000 +0700" stop="20260216030000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Basketball: Unicaja - Real Madrid (L)</title>
-    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260216030000 +0700" stop="20260216040000 +0700" channel="COSMOTE Sport 5 HD">
     <title>WRC 2026</title>
@@ -320,6 +308,10 @@
 </programme>
 <programme start="20260217024000 +0700" stop="20260217032500 +0700" channel="COSMOTE Sport 5 HD">
     <title>WRC: More Than Machine S2 E2</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260217032500 +0700" stop="20260217041000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC: More Than Machine S2 E3</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260216020000 +0700" stop="20260216043000 +0700" channel="COSMOTE Sport 6 HD">
@@ -506,8 +498,8 @@
     <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260216010000 +0700" stop="20260216030000 +0700" channel="COSMOTE Sport 9 HD">
-    <title>COSMOTESport9HD</title>
+<programme start="20260217030000 +0700" stop="20260217050000 +0700" channel="COSMOTE Sport 8 HD">
+    <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260216030000 +0700" stop="20260216033000 +0700" channel="COSMOTE Sport 9 HD">
@@ -565,5 +557,13 @@
 <programme start="20260217010000 +0700" stop="20260217030000 +0700" channel="COSMOTE Sport 9 HD">
     <title>COSMOTESport9HD</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260217030000 +0700" stop="20260217031500 +0700" channel="COSMOTE Sport 9 HD">
+    <title>COSMOTESport9HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260217031500 +0700" stop="20260217051500 +0700" channel="COSMOTE Sport 9 HD">
+    <title>Football: Rio Ave - Moreirense (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 No EPG found for COSMOTE Sport 10 HD
