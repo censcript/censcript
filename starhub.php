@@ -2242,10 +2242,10 @@
     <programme start="20260214194500 +0000" stop="20260214200000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>FIA World Championship - South African Safari Rally Stage 5 Highlights</title>
     </programme>
-    <programme start="20260214200000 +0000" stop="20260214220000 +0000" channel="Hub Sports 2 HD.starhub">
+    <programme start="20260214200000 +0000" stop="20260214222000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>Dallas Open (500) SF 1</title>
     </programme>
-    <programme start="20260214220000 +0000" stop="20260214230000 +0000" channel="Hub Sports 2 HD.starhub">
+    <programme start="20260214222000 +0000" stop="20260214230000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>Episode 4</title>
     </programme>
     <programme start="20260214230000 +0000" stop="20260215020000 +0000" channel="Hub Sports 2 HD.starhub">
