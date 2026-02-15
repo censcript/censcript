@@ -2817,10 +2817,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260215020000 +0000" stop="20260215040000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NBA: HBCU Classic</title>
 </programme>
-<programme start="20260215040000 +0000" stop="20260215053500 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260215040000 +0000" stop="20260215060000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NBA: Rising Stars</title>
 </programme>
-<programme start="20260215053500 +0000" stop="20260215080000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260215060000 +0000" stop="20260215080000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NBA: All-Star Saturday</title>
 </programme>
 <programme start="20260215080000 +0000" stop="20260215100000 +0000" channel="Sky Sport Mix HD.skyde">
