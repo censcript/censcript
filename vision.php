@@ -472,9 +472,6 @@
 <programme start="20260215113000 +0000" stop="20260215123000 +0000" channel="Trans TV.vision">
 <title>Insert Story</title>
 </programme>
-<programme start="20260215123000 +0000" stop="20260215133000 +0000" channel="Trans TV.vision">
-<title>Peek Me</title>
-</programme>
 <programme start="20260215133000 +0000" stop="20260215143000 +0000" channel="Trans TV.vision">
 <title>Highlight</title>
 </programme>
@@ -649,20 +646,11 @@
 <programme start="20260215003000 +0000" stop="20260215023000 +0000" channel="ANTV.vision">
 <title>Janji Inspektur Virat</title>
 </programme>
-<programme start="20260215023000 +0000" stop="20260215060000 +0000" channel="ANTV.vision">
-<title>Sooryavanshi</title>
-</programme>
 <programme start="20260215060000 +0000" stop="20260215083000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
 <programme start="20260215083000 +0000" stop="20260215113000 +0000" channel="ANTV.vision">
 <title>Vasudha</title>
-</programme>
-<programme start="20260215113000 +0000" stop="20260215133000 +0000" channel="ANTV.vision">
-<title>Srigala</title>
-</programme>
-<programme start="20260215133000 +0000" stop="20260215150000 +0000" channel="ANTV.vision">
-<title>Ratu Buaya Putih</title>
 </programme>
 <programme start="20260215150000 +0000" stop="20260215170000 +0000" channel="ANTV.vision">
 <title>Primitif</title>
@@ -1496,5 +1484,17 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260215110000 +0000" stop="20260215130000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260215130000 +0000" stop="20260215150000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260215150000 +0000" stop="20260215170000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260215170000 +0000" stop="20260215190000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260215190000 +0000" stop="20260215210000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
