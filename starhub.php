@@ -2383,10 +2383,10 @@
     <programme start="20260215040000 +0000" stop="20260215100000 +0000" channel="Hub Sports 5 HD.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20260215100000 +0000" stop="20260215130000 +0000" channel="Hub Sports 5 HD.starhub">
+    <programme start="20260215100000 +0000" stop="20260215123000 +0000" channel="Hub Sports 5 HD.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20260215130000 +0000" stop="20260215173000 +0000" channel="Hub Sports 5 HD.starhub">
+    <programme start="20260215123000 +0000" stop="20260215173000 +0000" channel="Hub Sports 5 HD.starhub">
         <title>M27: India vs Pakistan</title>
     </programme>
     <programme start="20260214153500 +0000" stop="20260214175000 +0000" channel="AXN HD.starhub">
