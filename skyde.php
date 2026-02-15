@@ -2523,13 +2523,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260215130000 +0000" stop="20260215132000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: Live Admiral Bundesliga</title>
 </programme>
-<programme start="20260215132000 +0000" stop="20260215154500 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20260215132000 +0000" stop="20260215161500 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live Admiral BL: Grazer AK 1902 - FC Red Bull Salzburg, 19. Runde</title>
 </programme>
 <programme start="20260215130000 +0000" stop="20260215132000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Es folgt: Live Admiral Bundesliga</title>
 </programme>
-<programme start="20260215132000 +0000" stop="20260215154500 +0000" channel="Sky Sport Austria 3 HD.skyde">
+<programme start="20260215132000 +0000" stop="20260215161500 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live Admiral BL: FC Blau-Weiß Linz - RZ Pellets WAC, 19. Runde</title>
 </programme>
 <programme start="20260214234500 +0000" stop="20260215004500 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -2556,10 +2556,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260215064500 +0000" stop="20260215084500 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: VfB Stuttgart - 1. FC Köln, tipico Topspiel der Woche, 22. Spieltag</title>
 </programme>
-<programme start="20260215084500 +0000" stop="20260215090000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+<programme start="20260215084500 +0000" stop="20260215085500 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: Highlights XXL; SVW - FCB, 22. Spieltag</title>
 </programme>
-<programme start="20260215090000 +0000" stop="20260215095500 +0000" channel="Sky Sport Bundesliga HD.skyde">
+<programme start="20260215085500 +0000" stop="20260215095500 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: Alle Spiele, alle Stimmen, 22. Spieltag</title>
 </programme>
 <programme start="20260215095500 +0000" stop="20260215120000 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -2667,7 +2667,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260215170000 +0000" stop="20260215183000 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: Sky90 - Die Fußballdebatte</title>
 </programme>
-<programme start="20260215183000 +0000" stop="20260215191500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
+<programme start="20260215183000 +0000" stop="20260215194500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: Highlights XXL: RBL - WOB, 22. Spieltag</title>
 </programme>
 <programme start="20260215114000 +0000" stop="20260215120000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
@@ -2682,25 +2682,25 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260215163000 +0000" stop="20260215183000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>BL: FC Augsburg - 1. FC Heidenheim, 22. Spieltag</title>
 </programme>
-<programme start="20260215183000 +0000" stop="20260215203000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+<programme start="20260215183000 +0000" stop="20260215210000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>BL: RB Leipzig - VfL Wolfsburg, 22. Spieltag</title>
 </programme>
 <programme start="20260215114000 +0000" stop="20260215120000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Es folgt: Live 2. Bundesliga</title>
 </programme>
-<programme start="20260215120000 +0000" stop="20260215143000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
+<programme start="20260215120000 +0000" stop="20260215150000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live 2. BL: VfL Bochum - SC Paderborn 07, 22. Spieltag</title>
 </programme>
 <programme start="20260215114000 +0000" stop="20260215120000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Es folgt: Live 2. Bundesliga</title>
 </programme>
-<programme start="20260215120000 +0000" stop="20260215143000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
+<programme start="20260215120000 +0000" stop="20260215150000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live 2. BL: 1. FC Magdeburg - Arminia Bielefeld, 22. Spieltag</title>
 </programme>
 <programme start="20260215114000 +0000" stop="20260215120000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Es folgt: Live 2. Bundesliga</title>
 </programme>
-<programme start="20260215120000 +0000" stop="20260215143000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
+<programme start="20260215120000 +0000" stop="20260215150000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Live 2. BL: Multiview 22. Spieltag, Sonntag</title>
 </programme>
 <programme start="20260214230000 +0000" stop="20260215000000 +0000" channel="Sky Sport F1 HD.skyde">
@@ -3054,38 +3054,35 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260215223000 +0000" stop="20260215230000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: Club 100: Didier Drogba</title>
 </programme>
-<programme start="20260214230000 +0000" stop="20260215010000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP 500: HF2, Dallas Open in Dallas (USA), Halbfinale 2</title>
+<programme start="20260214230000 +0000" stop="20260215020000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>Live ATP 500: B. Shelton (USA) - D. Shapovalov (CAN), Dallas Open in Dallas (USA), Halbfinale 2</title>
 </programme>
-<programme start="20260215010000 +0000" stop="20260215013000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260215020000 +0000" stop="20260215023000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
 </programme>
-<programme start="20260215013000 +0000" stop="20260215023000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP Finals: Review Turin 2025</title>
-</programme>
-<programme start="20260215023000 +0000" stop="20260215043000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260215033000 +0000" stop="20260215044500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: A. Bublik (KAZ) - F. Auger-Aliassime (CAN), ABN AMRO Open in Rotterdam (NLD), Halbfinale 2</title>
 </programme>
-<programme start="20260215043000 +0000" stop="20260215070000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260215044500 +0000" stop="20260215070000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: K. Muchova (CZE) - V. Mboko (CAN), Qatar Total Energies Open in Doha (Katar), Finale</title>
 </programme>
 <programme start="20260215070000 +0000" stop="20260215143000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live WTA 1000: Dubai Duty Free Tennis Championships in Dubai (VAE), 1. Tag</title>
 </programme>
 <programme start="20260215143000 +0000" stop="20260215170000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP 500: Finale, ABN AMRO Open in Rotterdam (NLD), Finale</title>
+    <title>Live ATP 500: A. De Minaur (AUS) - F. Auger-Aliassime (CAN), ABN AMRO Open in Rotterdam (NLD), Finale</title>
 </programme>
 <programme start="20260215170000 +0000" stop="20260215190000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live WTA 1000: Dubai Duty Free Tennis Championships in Dubai (VAE), 1. Tag</title>
 </programme>
 <programme start="20260215190000 +0000" stop="20260215213000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP 500: Finale, Dallas Open in Dallas (USA), Finale</title>
+    <title>Live ATP 500: B. Shelton (USA) - T. Fritz (USA), Dallas Open in Dallas (USA), Finale</title>
 </programme>
 <programme start="20260215213000 +0000" stop="20260215220000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: Review Doha</title>
 </programme>
 <programme start="20260215220000 +0000" stop="20260216003000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: Finale, ABN AMRO Open in Rotterdam (NLD), Finale</title>
+    <title>ATP 500: A. De Minaur (AUS) - F. Auger-Aliassime (CAN), ABN AMRO Open in Rotterdam (NLD), Finale</title>
 </programme>
 <programme start="20260215010000 +0000" stop="20260215060000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live LIV Golf: Adelaide, 4. Tag in Australien</title>
@@ -3112,13 +3109,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Live 2. BL: Sonntags-Konferenz, 22. Spieltag</title>
 </programme>
 <programme start="20260215143000 +0000" stop="20260215170000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live ATP 500: Finale, ABN AMRO Open in Rotterdam (NLD), Finale</title>
+    <title>Live ATP 500: A. De Minaur (AUS) - F. Auger-Aliassime (CAN), ABN AMRO Open in Rotterdam (NLD), Finale</title>
 </programme>
 <programme start="20260215170000 +0000" stop="20260215190000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live WTA 1000: Dubai Duty Free Tennis Championships in Dubai (VAE), 1. Tag</title>
 </programme>
 <programme start="20260215190000 +0000" stop="20260215213000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live ATP 500: Finale, Dallas Open in Dallas (USA), Finale</title>
+    <title>Live ATP 500: B. Shelton (USA) - T. Fritz (USA), Dallas Open in Dallas (USA), Finale</title>
 </programme>
 <programme start="20260215213000 +0000" stop="20260215220000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Showtime</title>
@@ -3129,13 +3126,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260215184000 +0000" stop="20260215190000 +0000" channel="Sky Sport 3 HD.skyde">
     <title>Es folgt: Live Tennis ATP Tour</title>
 </programme>
-<programme start="20260215190000 +0000" stop="20260215213000 +0000" channel="Sky Sport 3 HD.skyde">
-    <title>Live ATP 250: Finale, IEB+ Argentina Open in Buenos Aires (ARG), Finale</title>
+<programme start="20260215190000 +0000" stop="20260215233000 +0000" channel="Sky Sport 3 HD.skyde">
+    <title>Live ATP 250: F. Cerúndolo (ARG) - L. Darderi (ITA), IEB+ Argentina Open in Buenos Aires (ARG), Finale</title>
 </programme>
-<programme start="20260215064000 +0000" stop="20260215070000 +0000" channel="Sky Sport 6 HD.skyde">
-    <title>Es folgt: LIVE Tennis WTA</title>
+<programme start="20260215010000 +0000" stop="20260215070000 +0000" channel="Sky Sport 6 HD.skyde">
+    <title>Es folgt: ab 08:00: LIVE Tennis WTA</title>
 </programme>
-<programme start="20260215070000 +0000" stop="20260215190000 +0000" channel="Sky Sport 6 HD.skyde">
+<programme start="20260215070000 +0000" stop="20260215210000 +0000" channel="Sky Sport 6 HD.skyde">
     <title>Live WTA 1000: Dubai Duty Free Tennis Championships in Dubai (VAE), 1. Tag</title>
 </programme>
 <programme start="20260214232500 +0000" stop="20260215001000 +0000" channel="SYFY HD.skyde">
