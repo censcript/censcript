@@ -692,10 +692,10 @@
         <title>No programme available now. Next broadcast on 17th February, Tuesday 7pm. The Wonder Shop Home Shopping</title>
     </programme>
     <programme start="20260215160000 +0000" stop="20260216160000 +0000" channel="Live 2.mewatch">
-        <title>No programmes streaming LIVE at this moment</title>
+        <title>No Programme available now. Next Broadcast on 22nd February, Sunday 12.00pm. WTT Singapore Smash 2026</title>
     </programme>
     <programme start="20260216160000 +0000" stop="20260217160000 +0000" channel="Live 2.mewatch">
-        <title>No programmes streaming LIVE at this moment</title>
+        <title>No Programme available now. Next Broadcast on 22nd February, Sunday 12.00pm. WTT Singapore Smash 2026</title>
     </programme>
     <programme start="20260215160000 +0000" stop="20260216160000 +0000" channel="Live 5.mewatch">
         <title>No Programme available now. Next Broadcast on 18th February, Wednesday 8.05pm. AFC Champions League Two 2025/26</title>
