@@ -274,8 +274,8 @@
     <title>Basketball: Le Mans - Galatasaray</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260217024000 +0700" stop="20260217032500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC: More Than Machine S2 E2</title>
+<programme start="20260218043500 +0700" stop="20260218052000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>NBA Specials</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260217032500 +0700" stop="20260217041000 +0700" channel="COSMOTE Sport 5 HD">
@@ -438,9 +438,9 @@
     <title>Tennis: Jesper De Jong - Andrey Rublev (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260217013000 +0700" stop="20260217040000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>Tennis: Daniil Medvedev - Juncheng Shang (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20260218040000 +0700" stop="20260218060000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: Moez Echargui - Stefanos Tsitsipas</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260217040000 +0700" stop="20260217043000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
@@ -561,10 +561,6 @@
 <programme start="20260218023000 +0700" stop="20260218050000 +0700" channel="COSMOTE Sport 8 HD">
     <title>Tennis: ATP 500 2026 (L)</title>
     <desc>Live: Ya</desc>
-</programme>
-<programme start="20260217030000 +0700" stop="20260217031500 +0700" channel="COSMOTE Sport 9 HD">
-    <title>COSMOTESport9HD</title>
-    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260217031500 +0700" stop="20260217051500 +0700" channel="COSMOTE Sport 9 HD">
     <title>Football: Rio Ave - Moreirense (L)</title>

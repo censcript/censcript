@@ -649,6 +649,9 @@
 <programme start="20260216083000 +0000" stop="20260216113000 +0000" channel="ANTV.vision">
 <title>Vasudha</title>
 </programme>
+<programme start="20260216190000 +0000" stop="20260216200000 +0000" channel="ANTV.vision">
+<title>Low Season</title>
+</programme>
 <programme start="20260216200000 +0000" stop="20260216214500 +0000" channel="ANTV.vision">
 <title>Royal Warriors</title>
 </programme>
@@ -1494,7 +1497,4 @@
 </programme>
 <programme start="20260217110000 +0000" stop="20260217130000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
-</programme>
-<programme start="20260216000000 +0000" stop="20260216030000 +0000" channel="DAAI TV.vision">
-<title>DAAI TV</title>
 </programme>
