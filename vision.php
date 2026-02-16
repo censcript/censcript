@@ -649,6 +649,12 @@
 <programme start="20260216083000 +0000" stop="20260216113000 +0000" channel="ANTV.vision">
 <title>Vasudha</title>
 </programme>
+<programme start="20260216150000 +0000" stop="20260216170000 +0000" channel="ANTV.vision">
+<title>Pendekar Mata Satu</title>
+</programme>
+<programme start="20260216170000 +0000" stop="20260216190000 +0000" channel="ANTV.vision">
+<title>102 Bangkok Robbery</title>
+</programme>
 <programme start="20260216190000 +0000" stop="20260216200000 +0000" channel="ANTV.vision">
 <title>Low Season</title>
 </programme>
@@ -1490,11 +1496,5 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260217070000 +0000" stop="20260217090000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260217090000 +0000" stop="20260217110000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260217110000 +0000" stop="20260217130000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
