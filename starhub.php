@@ -8101,8 +8101,14 @@
     <programme start="20260217051500 +0000" stop="20260217064500 +0000" channel="SPOTV2.starhub">
         <title>Day 1 Race</title>
     </programme>
-    <programme start="20260217073000 +0000" stop="20260217113000 +0000" channel="SPOTV2.starhub">
+    <programme start="20260217064500 +0000" stop="20260217073000 +0000" channel="SPOTV2.starhub">
+        <title>Aprilia</title>
+    </programme>
+    <programme start="20260217073000 +0000" stop="20260217110000 +0000" channel="SPOTV2.starhub">
         <title>Day 2 Session 1</title>
+    </programme>
+    <programme start="20260217110000 +0000" stop="20260217113000 +0000" channel="SPOTV2.starhub">
+        <title>2025/26 ALM Mini Match Rd 16 Auckland FC vs Sydney FC</title>
     </programme>
     <programme start="20260217113000 +0000" stop="20260217123000 +0000" channel="SPOTV2.starhub">
         <title>2012 Phillip Island</title>
@@ -8110,7 +8116,7 @@
     <programme start="20260217123000 +0000" stop="20260217133000 +0000" channel="SPOTV2.starhub">
         <title>2012 Brno</title>
     </programme>
-    <programme start="20260217133000 +0000" stop="20260217170000 +0000" channel="SPOTV2.starhub">
+    <programme start="20260217133000 +0000" stop="20260217163000 +0000" channel="SPOTV2.starhub">
         <title>Day 2 Session 2</title>
     </programme>
     <programme start="20260216160000 +0000" stop="20260216163700 +0000" channel="Dragon TV.starhub">
