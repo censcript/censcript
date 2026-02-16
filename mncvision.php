@@ -8377,8 +8377,11 @@
 <programme start="20260216063000 +0000" stop="20260216083000 +0000" channel="SPOTV.mncvision">
     <title>25/26 Scottish Premiership</title>
 </programme>
-<programme start="20260216083000 +0000" stop="20260216110000 +0000" channel="SPOTV.mncvision">
+<programme start="20260216083000 +0000" stop="20260216103000 +0000" channel="SPOTV.mncvision">
     <title>Ras Al-Khaimah Half Marathon</title>
+</programme>
+<programme start="20260216103000 +0000" stop="20260216110000 +0000" channel="SPOTV.mncvision">
+    <title>2025 World WCR Season Review</title>
 </programme>
 <programme start="20260216110000 +0000" stop="20260216120000 +0000" channel="SPOTV.mncvision">
     <title>Formula E S12: Jeddah</title>
@@ -8476,8 +8479,11 @@
 <programme start="20260216063000 +0000" stop="20260216083000 +0000" channel="SPOTV HD.mncvision">
     <title>25/26 Scottish Premiership</title>
 </programme>
-<programme start="20260216083000 +0000" stop="20260216110000 +0000" channel="SPOTV HD.mncvision">
+<programme start="20260216083000 +0000" stop="20260216103000 +0000" channel="SPOTV HD.mncvision">
     <title>Ras Al-Khaimah Half Marathon</title>
+</programme>
+<programme start="20260216103000 +0000" stop="20260216110000 +0000" channel="SPOTV HD.mncvision">
+    <title>2025 World WCR Season Review</title>
 </programme>
 <programme start="20260216110000 +0000" stop="20260216120000 +0000" channel="SPOTV HD.mncvision">
     <title>Formula E S12: Jeddah</title>
