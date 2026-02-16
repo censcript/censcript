@@ -7915,7 +7915,7 @@
     <programme start="20260216123000 +0000" stop="20260216133000 +0000" channel="SPOTV2.starhub">
         <title>2012 Phillip Island</title>
     </programme>
-    <programme start="20260216133000 +0000" stop="20260216173000 +0000" channel="SPOTV2.starhub">
+    <programme start="20260216133000 +0000" stop="20260216164300 +0000" channel="SPOTV2.starhub">
         <title>Day 1 Session 2</title>
     </programme>
     <programme start="20260215160000 +0000" stop="20260215170100 +0000" channel="Dragon TV.starhub">

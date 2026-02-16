@@ -91,68 +91,68 @@
 <programme start="20260216043000 +0000" stop="20260216053000 +0000" channel="MNCTV.vision">
 <title>Seleb On News</title>
 </programme>
-<programme start="20260213100000 +0000" stop="20260213113000 +0000" channel="MNCTV.vision">
+<programme start="20260216053000 +0000" stop="20260216073000 +0000" channel="MNCTV.vision">
 <title>Upin &amp; Ipin</title>
 </programme>
-<programme start="20260210073000 +0000" stop="20260210100000 +0000" channel="MNCTV.vision">
+<programme start="20260216073000 +0000" stop="20260216100000 +0000" channel="MNCTV.vision">
 <title>Upin &amp; Ipin</title>
 </programme>
-<programme start="20260210100000 +0000" stop="20260210113000 +0000" channel="MNCTV.vision">
+<programme start="20260216100000 +0000" stop="20260216113000 +0000" channel="MNCTV.vision">
 <title>Upin &amp; Ipin</title>
 </programme>
 <programme start="20260216113000 +0000" stop="20260216123000 +0000" channel="MNCTV.vision">
 <title>Entong</title>
 </programme>
-<programme start="20260210123000 +0000" stop="20260210131500 +0000" channel="MNCTV.vision">
+<programme start="20260216123000 +0000" stop="20260216131500 +0000" channel="MNCTV.vision">
 <title>Upin &amp; Ipin</title>
 </programme>
-<programme start="20260210131500 +0000" stop="20260210150000 +0000" channel="MNCTV.vision">
+<programme start="20260216131500 +0000" stop="20260216160000 +0000" channel="MNCTV.vision">
 <title>DMD Panggung Rezeki (MNCTV)</title>
 </programme>
 <programme start="20260216160000 +0000" stop="20260216170000 +0000" channel="MNCTV.vision">
 <title>Menemukan-Mu</title>
 </programme>
 <programme start="20260216170000 +0000" stop="20260216180000 +0000" channel="MNCTV.vision">
-<title>Kilau Uang Kaget &amp; Bedah Rumah</title>
+<title>MNC TV</title>
 </programme>
 <programme start="20260216180000 +0000" stop="20260216190000 +0000" channel="MNCTV.vision">
-<title>Suparman Reborn</title>
+<title>MNC TV</title>
 </programme>
 <programme start="20260216190000 +0000" stop="20260216220000 +0000" channel="MNCTV.vision">
-<title>Suparman Reborn</title>
+<title>MNC TV</title>
 </programme>
 <programme start="20260216220000 +0000" stop="20260216230000 +0000" channel="MNCTV.vision">
-<title>Siraman Qolbu</title>
+<title>MNC TV</title>
 </programme>
 <programme start="20260216230000 +0000" stop="20260216231500 +0000" channel="MNCTV.vision">
-<title>CoComelon</title>
+<title>MNC TV</title>
 </programme>
-<programme start="20260210231500 +0000" stop="20260211004500 +0000" channel="MNCTV.vision">
-<title>Kiko</title>
+<programme start="20260216231500 +0000" stop="20260217001500 +0000" channel="MNCTV.vision">
+<title>MNC TV</title>
 </programme>
 <programme start="20260217001500 +0000" stop="20260217013000 +0000" channel="MNCTV.vision">
-<title>Pada Zaman Dahulu</title>
+<title>MNC TV</title>
 </programme>
 <programme start="20260217013000 +0000" stop="20260217034500 +0000" channel="MNCTV.vision">
-<title>Upin dan Ipin (MNCTV)</title>
+<title>MNC TV</title>
 </programme>
 <programme start="20260217034500 +0000" stop="20260217043000 +0000" channel="MNCTV.vision">
-<title>Lintas iNews Siang</title>
+<title>MNC TV</title>
 </programme>
 <programme start="20260217043000 +0000" stop="20260217053000 +0000" channel="MNCTV.vision">
-<title>Seleb On News</title>
+<title>MNC TV</title>
 </programme>
-<programme start="20260214123000 +0000" stop="20260214131500 +0000" channel="MNCTV.vision">
-<title>Upin &amp; Ipin</title>
+<programme start="20260217053000 +0000" stop="20260217080000 +0000" channel="MNCTV.vision">
+<title>MNC TV</title>
 </programme>
-<programme start="20260211053000 +0000" stop="20260211073000 +0000" channel="MNCTV.vision">
-<title>Upin &amp; Ipin</title>
+<programme start="20260217080000 +0000" stop="20260217100000 +0000" channel="MNCTV.vision">
+<title>MNC TV</title>
 </programme>
-<programme start="20260211073000 +0000" stop="20260211100000 +0000" channel="MNCTV.vision">
-<title>Upin &amp; Ipin</title>
+<programme start="20260217100000 +0000" stop="20260217113000 +0000" channel="MNCTV.vision">
+<title>MNC TV</title>
 </programme>
 <programme start="20260217113000 +0000" stop="20260217123000 +0000" channel="MNCTV.vision">
-<title>Entong</title>
+<title>MNC TV</title>
 </programme>
 <programme start="20260216000000 +0000" stop="20260216010000 +0000" channel="GTV.vision">
 <title>Obrolan Seputar Selebriti (GTV)</title>
