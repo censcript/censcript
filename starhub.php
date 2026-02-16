@@ -2063,7 +2063,7 @@
         <title>TotalEnergies CAF Champions League 2025/26: Young Africans vs JS Kabylie</title>
     </programme>
     <programme start="20260216014500 +0000" stop="20260216034000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Women&#039;s Super League 2025/26: Brighton vs Arsenal</title>
+        <title>Women&#039;s Super League 2025/26: Chelsea vs Liverpool</title>
     </programme>
     <programme start="20260216034000 +0000" stop="20260216051000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>Best Of AO 2026: Women&#039;s Singles Rd 4 Andreeva v Svitolina</title>
@@ -3281,7 +3281,7 @@
         <title>A platform that let&#039;s you bet on anything? What could go wrong!</title>
     </programme>
     <programme start="20260216133000 +0000" stop="20260216140000 +0000" channel="DW English HD.starhub">
-        <title>Uganda Politics</title>
+        <title>Why is it so hard to move within Africa?</title>
     </programme>
     <programme start="20260216140000 +0000" stop="20260216141500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -7765,7 +7765,10 @@
     <programme start="20260215233000 +0000" stop="20260216013000 +0000" channel="Asianet Movies.starhub">
         <title>Sarkar Dada</title>
     </programme>
-    <programme start="20260216013000 +0000" stop="20260216043000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260216013000 +0000" stop="20260216015500 +0000" channel="Asianet Movies.starhub">
+        <title>Chirikkum Thalika</title>
+    </programme>
+    <programme start="20260216015500 +0000" stop="20260216043000 +0000" channel="Asianet Movies.starhub">
         <title>Kanakam Kaamini Kalaham</title>
     </programme>
     <programme start="20260216043000 +0000" stop="20260216073000 +0000" channel="Asianet Movies.starhub">
@@ -8176,11 +8179,8 @@
     <programme start="20260216020000 +0000" stop="20260216023000 +0000" channel="ADITHYA TV.starhub">
         <title>Aanantha Sirippu</title>
     </programme>
-    <programme start="20260216023000 +0000" stop="20260216030000 +0000" channel="ADITHYA TV.starhub">
+    <programme start="20260216023000 +0000" stop="20260216033000 +0000" channel="ADITHYA TV.starhub">
         <title>Adithya Paarunga Aarokyama Irunga</title>
-    </programme>
-    <programme start="20260216030000 +0000" stop="20260216033000 +0000" channel="ADITHYA TV.starhub">
-        <title>Good Morning Adithyans</title>
     </programme>
     <programme start="20260216033000 +0000" stop="20260216043000 +0000" channel="ADITHYA TV.starhub">
         <title>Vaanga Sirikkalam</title>

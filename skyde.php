@@ -2503,22 +2503,22 @@
 <programme start="20260216224000 +0000" stop="20260217010000 +0000" channel="Sky Showcase HD.skyde">
     <title>Billy Joel: And so it Goes</title>
 </programme>
-<programme start="20260215231500 +0000" stop="20260215234500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260215232500 +0000" stop="20260215235000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: ASAT Kompakt, 19. Runde</title>
 </programme>
-<programme start="20260215234500 +0000" stop="20260216001500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260215235000 +0000" stop="20260216002000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Fußball: Glasner. - Eine Sky Sport Austria Dokumentation</title>
 </programme>
-<programme start="20260216001500 +0000" stop="20260216021500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260216002000 +0000" stop="20260216022000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: FC Blau-Weiß Linz - RZ Pellets WAC, 19. Runde</title>
 </programme>
-<programme start="20260216021500 +0000" stop="20260216041500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260216022000 +0000" stop="20260216042500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: Grazer AK 1902 - FC Red Bull Salzburg, 19. Runde</title>
 </programme>
-<programme start="20260216041500 +0000" stop="20260216050000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260216042500 +0000" stop="20260216051000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Fußball: Herzog gegen Herzig Spezial mit Toni Polster - Die Next Generation Show</title>
 </programme>
-<programme start="20260216050000 +0000" stop="20260216060000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260216051000 +0000" stop="20260216060000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA EL: UEL &amp; UECL Magazin</title>
 </programme>
 <programme start="20260216060000 +0000" stop="20260216063000 +0000" channel="Sky Sport Austria 1 HD.skyde">
@@ -2791,10 +2791,10 @@
 <programme start="20260216220000 +0000" stop="20260217010000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>LIV Golf: Adelaide, 4. Tag in Australien</title>
 </programme>
-<programme start="20260216010000 +0000" stop="20260216013000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260216011000 +0000" stop="20260216013500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Frauen-BL: Alle Spiele, alle Tore, 18. Spieltag, Sonntag</title>
 </programme>
-<programme start="20260216013000 +0000" stop="20260216023000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260216013500 +0000" stop="20260216023000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>3. Liga: Alle Spiele, alle Tore, 24. Spieltag komplett</title>
 </programme>
 <programme start="20260216023000 +0000" stop="20260216043000 +0000" channel="Sky Sport Mix HD.skyde">
@@ -3010,11 +3010,14 @@
 <programme start="20260216223000 +0000" stop="20260216230000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>EFL: Highlights, 32. Spieltag</title>
 </programme>
-<programme start="20260216003000 +0000" stop="20260216030000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260216000000 +0000" stop="20260216023000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 250: F. Cerúndolo (ARG) - L. Darderi (ITA), IEB+ Argentina Open in Buenos Aires (ARG), Finale</title>
 </programme>
-<programme start="20260216030000 +0000" stop="20260216040000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260216023000 +0000" stop="20260216033000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>United Cup: Review 2026</title>
+</programme>
+<programme start="20260216033000 +0000" stop="20260216040000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 1000: Review Doha</title>
 </programme>
 <programme start="20260216040000 +0000" stop="20260216063000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: B. Shelton (USA) - T. Fritz (USA), Dallas Open in Dallas (USA), Finale</title>
@@ -3028,10 +3031,10 @@
 <programme start="20260216193000 +0000" stop="20260217020000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP 500: Rio Open in Rio de Janeiro (BRA), 1. Tag</title>
 </programme>
-<programme start="20260216010000 +0000" stop="20260216023000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260216011000 +0000" stop="20260216023500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>WRC: Rally Sweden - SS18 Umea 2 (Wolf Power Stage)</title>
 </programme>
-<programme start="20260216023000 +0000" stop="20260216050000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260216023500 +0000" stop="20260216050000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>ATP 250: F. Cerúndolo (ARG) - L. Darderi (ITA), IEB+ Argentina Open in Buenos Aires (ARG), Finale</title>
 </programme>
 <programme start="20260216050000 +0000" stop="20260216060000 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3088,10 +3091,10 @@
 <programme start="20260216223000 +0000" stop="20260217003000 +0000" channel="Sky Sport UHD.skyde">
     <title>DFB-Pokal: FC Bayern München - RB Leipzig, Viertelfinale</title>
 </programme>
-<programme start="20260216064000 +0000" stop="20260216070000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260216000000 +0000" stop="20260216070000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: Live Tennis WTA Tour</title>
 </programme>
-<programme start="20260216070000 +0000" stop="20260216190000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260216070000 +0000" stop="20260216210000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WTA 1000: Dubai Duty Free Tennis Championships in Dubai (VAE), 2. Tag</title>
 </programme>
 <programme start="20260215232500 +0000" stop="20260216001000 +0000" channel="SYFY HD.skyde">

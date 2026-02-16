@@ -481,41 +481,44 @@
     <programme start="20260215150000 +0000" stop="20260215170000 +0000" channel="now-80s.mewatch">
         <title>Late Night Love! Top 25 - EP1</title>
     </programme>
-    <programme start="20260215170000 +0000" stop="20260215190000 +0000" channel="now-80s.mewatch">
-        <title>Surely Not A Cover? Top 25 - EP1</title>
+    <programme start="20260215160000 +0000" stop="20260215163000 +0000" channel="now-80s.mewatch">
+        <title>Every Song From NOW 10 - 1987 - EP1</title>
     </programme>
-    <programme start="20260215190000 +0000" stop="20260215210000 +0000" channel="now-80s.mewatch">
-        <title>Steps&#039; Eurovision Night 80s! - EP1</title>
+    <programme start="20260215163000 +0000" stop="20260215170000 +0000" channel="now-80s.mewatch">
+        <title>1987 Unleashed! - EP1</title>
     </programme>
-    <programme start="20260215210000 +0000" stop="20260215220000 +0000" channel="now-80s.mewatch">
-        <title>Late Night Love! Top 25 - EP1</title>
-    </programme>
-    <programme start="20260215220000 +0000" stop="20260216003000 +0000" channel="now-80s.mewatch">
-        <title>Limahl&#039;s Frocky Horror Show! - EP1</title>
-    </programme>
-    <programme start="20260216003000 +0000" stop="20260216010000 +0000" channel="now-80s.mewatch">
-        <title>First Blast of Summer! - EP1</title>
-    </programme>
-    <programme start="20260216010000 +0000" stop="20260216020000 +0000" channel="now-80s.mewatch">
-        <title>Eurovision Winners - and Losers! - EP1</title>
-    </programme>
-    <programme start="20260216020000 +0000" stop="20260216093000 +0000" channel="now-80s.mewatch">
+    <programme start="20260215170000 +0000" stop="20260215192000 +0000" channel="now-80s.mewatch">
         <title>Most Weeks in US Chart? Top 100 - EP1</title>
     </programme>
-    <programme start="20260216093000 +0000" stop="20260216103000 +0000" channel="now-80s.mewatch">
-        <title>Surely Not A Cover? Top 25 - EP1</title>
+    <programme start="20260215192000 +0000" stop="20260215200000 +0000" channel="now-80s.mewatch">
+        <title>We&#039;re Feelin&#039; 80s All Over! - EP1</title>
     </programme>
-    <programme start="20260216103000 +0000" stop="20260216110000 +0000" channel="now-80s.mewatch">
-        <title>That 80s Friday Feeling! - EP1</title>
+    <programme start="20260215200000 +0000" stop="20260215223500 +0000" channel="now-80s.mewatch">
+        <title>Start Your Party With A Fizz! - EP1</title>
     </programme>
-    <programme start="20260216110000 +0000" stop="20260216141500 +0000" channel="now-80s.mewatch">
-        <title>Bruno Brookes UK Top 40 of the 80s - EP1</title>
+    <programme start="20260215223500 +0000" stop="20260215230000 +0000" channel="now-80s.mewatch">
+        <title>We&#039;re Feelin&#039; 80s All Over! - EP1</title>
     </programme>
-    <programme start="20260216141500 +0000" stop="20260216150000 +0000" channel="now-80s.mewatch">
-        <title>Get Fresh At The Weekend! - EP1</title>
+    <programme start="20260215230000 +0000" stop="20260216020000 +0000" channel="now-80s.mewatch">
+        <title>The NOW Yearbook 1980 - EP1</title>
     </programme>
-    <programme start="20260216150000 +0000" stop="20260216165000 +0000" channel="now-80s.mewatch">
-        <title>Cheryl Baker: Record Breaking Hits - EP1</title>
+    <programme start="20260216020000 +0000" stop="20260216050000 +0000" channel="now-80s.mewatch">
+        <title>The NOW Yearbook 1982 - EP1</title>
+    </programme>
+    <programme start="20260216050000 +0000" stop="20260216080000 +0000" channel="now-80s.mewatch">
+        <title>The NOW Yearbook 1984 - EP1</title>
+    </programme>
+    <programme start="20260216080000 +0000" stop="20260216090000 +0000" channel="now-80s.mewatch">
+        <title>1984 Unleashed! - EP1</title>
+    </programme>
+    <programme start="20260216090000 +0000" stop="20260216120000 +0000" channel="now-80s.mewatch">
+        <title>The NOW Yearbook 1986 - EP1</title>
+    </programme>
+    <programme start="20260216120000 +0000" stop="20260216150000 +0000" channel="now-80s.mewatch">
+        <title>The NOW Yearbook 1988 - EP1</title>
+    </programme>
+    <programme start="20260216150000 +0000" stop="20260216170000 +0000" channel="now-80s.mewatch">
+        <title>Even More Cuddles on the Couch! - EP1</title>
     </programme>
     <programme start="20260215160000 +0000" stop="20260215170500 +0000" channel="now-70s.mewatch">
         <title>Total Legends! 1970-1979 - EP1</title>
