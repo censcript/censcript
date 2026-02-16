@@ -9422,97 +9422,91 @@
     <title lang="id">The War is Over</title>
   </programme>
   <programme start="20260217230000 +0000" stop="20260218000000 +0000" channel="FashionBox.webtv.sk">
-    <title lang="id">Femme III (1)</title>
+    <title lang="id">British Fashion Highlights - Jamie Wei Huang</title>
   </programme>
   <programme start="20260218000000 +0000" stop="20260218010000 +0000" channel="FashionBox.webtv.sk">
-    <title lang="id">Cities I (1)</title>
+    <title lang="id">Candies</title>
   </programme>
   <programme start="20260218010000 +0000" stop="20260218020000 +0000" channel="FashionBox.webtv.sk">
-    <title lang="id">Look I (1)</title>
+    <title lang="id">Homme I (1)</title>
   </programme>
   <programme start="20260218020000 +0000" stop="20260218030000 +0000" channel="FashionBox.webtv.sk">
-    <title lang="id">Homme I (1)</title>
+    <title lang="id">Femme III (1)</title>
   </programme>
   <programme start="20260218030000 +0000" stop="20260218040000 +0000" channel="FashionBox.webtv.sk">
-    <title lang="id">Femme III (1)</title>
+    <title lang="id">Cities I (1)</title>
   </programme>
   <programme start="20260218040000 +0000" stop="20260218050000 +0000" channel="FashionBox.webtv.sk">
-    <title lang="id">Cities I (1)</title>
+    <title lang="id">Look I (1)</title>
   </programme>
   <programme start="20260218050000 +0000" stop="20260218060000 +0000" channel="FashionBox.webtv.sk">
-    <title lang="id">Look I (1)</title>
+    <title lang="id">Homme I (1)</title>
   </programme>
   <programme start="20260218060000 +0000" stop="20260218070000 +0000" channel="FashionBox.webtv.sk">
-    <title lang="id">Cities I (1)</title>
-  </programme>
-  <programme start="20260218070000 +0000" stop="20260218080000 +0000" channel="FashionBox.webtv.sk">
-    <title lang="id">Look I (1)</title>
-  </programme>
-  <programme start="20260218080000 +0000" stop="20260218090000 +0000" channel="FashionBox.webtv.sk">
-    <title lang="id">Homme I (1)</title>
-  </programme>
-  <programme start="20260218090000 +0000" stop="20260218100000 +0000" channel="FashionBox.webtv.sk">
     <title lang="id">Femme III (1)</title>
   </programme>
-  <programme start="20260218100000 +0000" stop="20260218110000 +0000" channel="FashionBox.webtv.sk">
+  <programme start="20260218070000 +0000" stop="20260218080000 +0000" channel="FashionBox.webtv.sk">
     <title lang="id">Cities I (1)</title>
   </programme>
-  <programme start="20260218110000 +0000" stop="20260218120000 +0000" channel="FashionBox.webtv.sk">
+  <programme start="20260218080000 +0000" stop="20260218090000 +0000" channel="FashionBox.webtv.sk">
     <title lang="id">Look I (1)</title>
   </programme>
-  <programme start="20260218120000 +0000" stop="20260218130000 +0000" channel="FashionBox.webtv.sk">
+  <programme start="20260218090000 +0000" stop="20260218100000 +0000" channel="FashionBox.webtv.sk">
     <title lang="id">Cities I (1)</title>
   </programme>
-  <programme start="20260218130000 +0000" stop="20260218133000 +0000" channel="FashionBox.webtv.sk">
-    <title lang="id">Ny Miami Mens Spring Summer 2019 (4)</title>
+  <programme start="20260218100000 +0000" stop="20260218110000 +0000" channel="FashionBox.webtv.sk">
+    <title lang="id">Look I (1)</title>
   </programme>
-  <programme start="20260218133000 +0000" stop="20260218140000 +0000" channel="FashionBox.webtv.sk">
-    <title lang="id">Ny Miami Mens Spring Summer 2019 (1)</title>
+  <programme start="20260218110000 +0000" stop="20260218120000 +0000" channel="FashionBox.webtv.sk">
+    <title lang="id">Homme I (1)</title>
+  </programme>
+  <programme start="20260218120000 +0000" stop="20260218130000 +0000" channel="FashionBox.webtv.sk">
+    <title lang="id">Femme III (1)</title>
+  </programme>
+  <programme start="20260218130000 +0000" stop="20260218140000 +0000" channel="FashionBox.webtv.sk">
+    <title lang="id">Cities I (1)</title>
   </programme>
   <programme start="20260218140000 +0000" stop="20260218150000 +0000" channel="FashionBox.webtv.sk">
-    <title lang="id">Fashion Around The World</title>
+    <title lang="id">Look I (1)</title>
   </programme>
   <programme start="20260218150000 +0000" stop="20260218160000 +0000" channel="FashionBox.webtv.sk">
-    <title lang="id">New York Fashion Throwbacks 2014-2020</title>
+    <title lang="id">Cities I (1)</title>
   </programme>
   <programme start="20260218160000 +0000" stop="20260218163000 +0000" channel="FashionBox.webtv.sk">
-    <title lang="id">The Hollywood Glow (5)</title>
+    <title lang="id">Ny Miami Mens Spring Summer 2019 (4)</title>
   </programme>
   <programme start="20260218163000 +0000" stop="20260218170000 +0000" channel="FashionBox.webtv.sk">
-    <title lang="id">World Of Fashion II (5)</title>
+    <title lang="id">Ny Miami Mens Spring Summer 2019 (1)</title>
   </programme>
-  <programme start="20260218170000 +0000" stop="20260218173000 +0000" channel="FashionBox.webtv.sk">
-    <title lang="id">Close Up Designers Of Fashion - Tadashi Shoji</title>
+  <programme start="20260218170000 +0000" stop="20260218180000 +0000" channel="FashionBox.webtv.sk">
+    <title lang="id">Fashion Around The World</title>
   </programme>
-  <programme start="20260218173000 +0000" stop="20260218180000 +0000" channel="FashionBox.webtv.sk">
-    <title lang="id">Close Up Designers Of Fashion - Tadashi Shoji</title>
-  </programme>
-  <programme start="20260218180000 +0000" stop="20260218183000 +0000" channel="FashionBox.webtv.sk">
-    <title lang="id">Swim Week 2023 (9)</title>
-  </programme>
-  <programme start="20260218183000 +0000" stop="20260218190000 +0000" channel="FashionBox.webtv.sk">
-    <title lang="id">Swim Week 2023 (10)</title>
+  <programme start="20260218180000 +0000" stop="20260218190000 +0000" channel="FashionBox.webtv.sk">
+    <title lang="id">New York Fashion Throwbacks 2014-2020</title>
   </programme>
   <programme start="20260218190000 +0000" stop="20260218193000 +0000" channel="FashionBox.webtv.sk">
-    <title lang="id">World Of Luxury I (39)</title>
+    <title lang="id">The Hollywood Glow (5)</title>
   </programme>
   <programme start="20260218193000 +0000" stop="20260218200000 +0000" channel="FashionBox.webtv.sk">
-    <title lang="id">World Of Luxury I (40)</title>
+    <title lang="id">World Of Fashion II (5)</title>
   </programme>
   <programme start="20260218200000 +0000" stop="20260218203000 +0000" channel="FashionBox.webtv.sk">
-    <title lang="id">British Fashion Highlights - Olympus Pen</title>
+    <title lang="id">Close Up Designers Of Fashion - Tadashi Shoji</title>
   </programme>
   <programme start="20260218203000 +0000" stop="20260218210000 +0000" channel="FashionBox.webtv.sk">
-    <title lang="id">British Fashion Highlights - Barbara Casasola</title>
+    <title lang="id">Close Up Designers Of Fashion - Tadashi Shoji</title>
   </programme>
   <programme start="20260218210000 +0000" stop="20260218213000 +0000" channel="FashionBox.webtv.sk">
-    <title lang="id">Swim Week 2023 (13)</title>
+    <title lang="id">Swim Week 2023 (9)</title>
   </programme>
   <programme start="20260218213000 +0000" stop="20260218220000 +0000" channel="FashionBox.webtv.sk">
-    <title lang="id">Swim Week 2023 (14)</title>
+    <title lang="id">Swim Week 2023 (10)</title>
   </programme>
-  <programme start="20260218220000 +0000" stop="20260218230000 +0000" channel="FashionBox.webtv.sk">
-    <title lang="id">Homme I (1)</title>
+  <programme start="20260218220000 +0000" stop="20260218223000 +0000" channel="FashionBox.webtv.sk">
+    <title lang="id">World Of Luxury I (39)</title>
+  </programme>
+  <programme start="20260218223000 +0000" stop="20260218230000 +0000" channel="FashionBox.webtv.sk">
+    <title lang="id">World Of Luxury I (40)</title>
   </programme>
   <programme start="20260217230000 +0000" stop="20260217233000 +0000" channel="Fast and Funbox.webtv.sk">
     <title lang="id">Gearing Up 2021, Ep 8 I (27)</title>
