@@ -2263,10 +2263,10 @@
     <programme start="20260215183000 +0000" stop="20260215190000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>#575</title>
     </programme>
-    <programme start="20260215190000 +0000" stop="20260215210000 +0000" channel="Hub Sports 2 HD.starhub">
+    <programme start="20260215190000 +0000" stop="20260215212500 +0000" channel="Hub Sports 2 HD.starhub">
         <title>Dallas Open (500) Final</title>
     </programme>
-    <programme start="20260215210000 +0000" stop="20260215213000 +0000" channel="Hub Sports 2 HD.starhub">
+    <programme start="20260215212500 +0000" stop="20260215213000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>#1332</title>
     </programme>
     <programme start="20260215213000 +0000" stop="20260215233000 +0000" channel="Hub Sports 2 HD.starhub">
