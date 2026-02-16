@@ -8422,8 +8422,11 @@
 <programme start="20260216123000 +0000" stop="20260216133000 +0000" channel="SPOTV 2.mncvision">
     <title>MotoGP Classic: Phillip Island</title>
 </programme>
-<programme start="20260216133000 +0000" stop="20260216140000 +0000" channel="SPOTV 2.mncvision">
+<programme start="20260216133000 +0000" stop="20260216164300 +0000" channel="SPOTV 2.mncvision">
     <title>WTT Star Contender Chennai</title>
+</programme>
+<programme start="20260216164300 +0000" stop="20260215171300 +0000" channel="SPOTV 2.mncvision">
+    <title>2025/26 ALM Mini Match</title>
 </programme>
 <programme start="20260215170000 +0000" stop="20260215180000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>MotoGP 2026 Team Presentation</title>
@@ -8452,8 +8455,11 @@
 <programme start="20260216123000 +0000" stop="20260216133000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>MotoGP Classic: Phillip Island</title>
 </programme>
-<programme start="20260216133000 +0000" stop="20260216140000 +0000" channel="SPOTV 2 HD.mncvision">
+<programme start="20260216133000 +0000" stop="20260216164300 +0000" channel="SPOTV 2 HD.mncvision">
     <title>WTT Star Contender Chennai</title>
+</programme>
+<programme start="20260216164300 +0000" stop="20260215171300 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>2025/26 ALM Mini Match</title>
 </programme>
 <programme start="20260215170000 +0000" stop="20260215173000 +0000" channel="SPOTV HD.mncvision">
     <title>Formula E S12: Jeddah HL</title>

@@ -1,7 +1,3 @@
-<programme start="20260216153000 +0700" stop="20260216173000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: AS Monaco FC - Juventus Football Club</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260216173000 +0700" stop="20260216193000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: FC Barcelona - FC Copenhagen</title>
     <desc>Live: Tidak</desc>
@@ -120,6 +116,10 @@
 </programme>
 <programme start="20260217161000 +0700" stop="20260217181000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Cagliari - Lecce</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260217181000 +0700" stop="20260217202000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Kifisia - OFI</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260216154500 +0700" stop="20260216182000 +0700" channel="COSMOTE Sport 3 HD">
@@ -250,10 +250,6 @@
     <title>Basketball: Varese - Brescia</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260216164500 +0700" stop="20260216175000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: Extreme E 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260216175000 +0700" stop="20260216195500 +0700" channel="COSMOTE Sport 5 HD">
     <title>Motorsports: Extreme E 2025</title>
     <desc>Live: Tidak</desc>
@@ -351,6 +347,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260217172500 +0700" stop="20260217183000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>2025 Extreme H</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260217183000 +0700" stop="20260217203500 +0700" channel="COSMOTE Sport 5 HD">
     <title>2025 Extreme H</title>
     <desc>Live: Tidak</desc>
 </programme>
