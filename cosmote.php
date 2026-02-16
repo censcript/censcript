@@ -70,6 +70,14 @@
     <title>Sports Classics: Ultimate Rush S1 E17</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260218020000 +0700" stop="20260218023000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Sports Classics: Ultimate Rush S1 E18</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260218023000 +0700" stop="20260218050500 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEFA Champions League 2025-26 Minute By Minute (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
 <programme start="20260217003000 +0700" stop="20260217024500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Panathinaikos - AEL Novibet</title>
     <desc>Live: Tidak</desc>
@@ -270,8 +278,8 @@
     <title>NBA Action 2025-26 E3517</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260217010000 +0700" stop="20260217020000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC</title>
+<programme start="20260218023000 +0700" stop="20260218043500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Le Mans - Galatasaray</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260217020000 +0700" stop="20260217024000 +0700" channel="COSMOTE Sport 5 HD">
@@ -378,12 +386,8 @@
     <title>FIA Championship Middle East 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260217000000 +0700" stop="20260217013000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Topspin (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20260217013000 +0700" stop="20260217020000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Sports Classics: 2025 Outdoor Specials</title>
+<programme start="20260218021500 +0700" stop="20260218030000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Documentary</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260217020000 +0700" stop="20260217023000 +0700" channel="COSMOTE Sport 6 HD">
@@ -446,10 +450,6 @@
     <title>Tennis: Jesper De Jong - Andrey Rublev (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260216233000 +0700" stop="20260217013000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>Tennis: Tomas Machac - Jannik Sinner (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
 <programme start="20260217013000 +0700" stop="20260217040000 +0700" channel="COSMOTE Sport 7 HD">
     <title>Tennis: Daniil Medvedev - Juncheng Shang (L)</title>
     <desc>Live: Ya</desc>
@@ -510,6 +510,10 @@
     <title>Volleyball: PAOK - Aalst (L)</title>
     <desc>Live: Ya</desc>
 </programme>
+<programme start="20260218023000 +0700" stop="20260218030000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260217010000 +0700" stop="20260217024500 +0700" channel="COSMOTE Sport 8 HD">
     <title>Handball: ThSV Eisenach - Bergischer HC (L)</title>
     <desc>Live: Ya</desc>
@@ -565,6 +569,14 @@
 <programme start="20260218010000 +0700" stop="20260218020000 +0700" channel="COSMOTE Sport 8 HD">
     <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260218020000 +0700" stop="20260218023000 +0700" channel="COSMOTE Sport 8 HD">
+    <title>COSMOTESport8HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260218023000 +0700" stop="20260218050000 +0700" channel="COSMOTE Sport 8 HD">
+    <title>Tennis: ATP 500 2026 (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260217010000 +0700" stop="20260217030000 +0700" channel="COSMOTE Sport 9 HD">
     <title>COSMOTESport9HD</title>
@@ -629,5 +641,9 @@
 <programme start="20260218000000 +0700" stop="20260218023000 +0700" channel="COSMOTE Sport 9 HD">
     <title>Volleyball: Olympiacos - Allianz Powervolley Milano (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20260218023000 +0700" stop="20260218030000 +0700" channel="COSMOTE Sport 9 HD">
+    <title>COSMOTESport9HD</title>
+    <desc>Live: Tidak</desc>
 </programme>
 No EPG found for COSMOTE Sport 10 HD
