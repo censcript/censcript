@@ -1808,10 +1808,10 @@
     <title lang="id">Téma s Petrom Bielikom</title>
   </programme>
   <programme start="20260219002500 +0000" stop="20260219011500 +0000" channel="Kanal1.webtv.sk">
-    <title lang="id">Horúce peklo (1)</title>
+    <title lang="id">Horúce peklo</title>
   </programme>
   <programme start="20260219011500 +0000" stop="20260219014000 +0000" channel="Kanal1.webtv.sk">
-    <title lang="id">Kriminálne prípady, ktoré vstúpili do dejín (2)</title>
+    <title lang="id">Kriminálne prípady, ktoré vstúpili do dejín</title>
   </programme>
   <programme start="20260219014000 +0000" stop="20260219020500 +0000" channel="Kanal1.webtv.sk">
     <title lang="id">Bláznivá skrytá kamera</title>
@@ -1820,22 +1820,22 @@
     <title lang="id">Pesticídy: Európske pokrytectvo</title>
   </programme>
   <programme start="20260219030000 +0000" stop="20260219034500 +0000" channel="Kanal1.webtv.sk">
-    <title lang="id">Mapy vrážd II (1)</title>
+    <title lang="id">Mapy vrážd</title>
   </programme>
   <programme start="20260219034500 +0000" stop="20260219043500 +0000" channel="Kanal1.webtv.sk">
-    <title lang="id">Kinematografia druhej svetovej vojny (3)</title>
+    <title lang="id">Kinematografia druhej svetovej vojny</title>
   </programme>
   <programme start="20260219043500 +0000" stop="20260219050500 +0000" channel="Kanal1.webtv.sk">
-    <title lang="id">Garážové sny (4)</title>
+    <title lang="id">Garážové sny</title>
   </programme>
   <programme start="20260219050500 +0000" stop="20260219060000 +0000" channel="Kanal1.webtv.sk">
-    <title lang="id">Libanon: V srdci Hizballáhu alebo Tlačová beseda</title>
+    <title lang="id">Libanon: V srdci Hizballáhu |Tlačová beseda</title>
   </programme>
   <programme start="20260219060000 +0000" stop="20260219064000 +0000" channel="Kanal1.webtv.sk">
     <title lang="id">Téma s Petrom Bielikom</title>
   </programme>
   <programme start="20260219064000 +0000" stop="20260219072000 +0000" channel="Kanal1.webtv.sk">
-    <title lang="id">Len peniaze nestačia</title>
+    <title lang="id">Len peniaze nestačia - Lívia Danningerová</title>
   </programme>
   <programme start="20260219072000 +0000" stop="20260219075500 +0000" channel="Kanal1.webtv.sk">
     <title lang="id">Bielik Online</title>
@@ -1844,49 +1844,43 @@
     <title lang="id">Lepok, verejný nepriateľ?</title>
   </programme>
   <programme start="20260219085000 +0000" stop="20260219093500 +0000" channel="Kanal1.webtv.sk">
-    <title lang="id">V siedmom nebi (18)</title>
+    <title lang="id">Rodinný seriál: V siedmom nebi</title>
   </programme>
   <programme start="20260219093500 +0000" stop="20260219100500 +0000" channel="Kanal1.webtv.sk">
-    <title lang="id">Cestujeme bez batožiny: Hudhuranfushi (9)</title>
+    <title lang="id">Cestujeme bez batožiny: Hudhuranfushi</title>
   </programme>
-  <programme start="20260219100500 +0000" stop="20260219105500 +0000" channel="Kanal1.webtv.sk">
-    <title lang="id">Hitlerove tajné misie (1)</title>
-  </programme>
-  <programme start="20260219105500 +0000" stop="20260219114500 +0000" channel="Kanal1.webtv.sk">
-    <title lang="id">Hitlerove tajné misie (2)</title>
-  </programme>
-  <programme start="20260219114500 +0000" stop="20260219123500 +0000" channel="Kanal1.webtv.sk">
-    <title lang="id">Hitlerove tajné misie (3)</title>
+  <programme start="20260219100500 +0000" stop="20260219123500 +0000" channel="Kanal1.webtv.sk">
+    <title lang="id">Hitlerove tajné misie</title>
   </programme>
   <programme start="20260219123500 +0000" stop="20260219133000 +0000" channel="Kanal1.webtv.sk">
     <title lang="id">Zara</title>
   </programme>
   <programme start="20260219133000 +0000" stop="20260219141500 +0000" channel="Kanal1.webtv.sk">
-    <title lang="id">Melrose place (36)</title>
+    <title lang="id">Kultový seriál: Melrose place V (17)</title>
   </programme>
   <programme start="20260219141500 +0000" stop="20260219145500 +0000" channel="Kanal1.webtv.sk">
     <title lang="id">Téma s Petrom Bielikom</title>
   </programme>
   <programme start="20260219145500 +0000" stop="20260219154000 +0000" channel="Kanal1.webtv.sk">
-    <title lang="id">V tieni zločinu</title>
+    <title lang="id">V tieni zločinu - Jozef Čentéš</title>
   </programme>
   <programme start="20260219154000 +0000" stop="20260219161000 +0000" channel="Kanal1.webtv.sk">
-    <title lang="id">Ikony našej doby - Marylin Monroe (3)</title>
+    <title lang="id">Ikony našej doby - Marylin Monroe</title>
   </programme>
   <programme start="20260219161000 +0000" stop="20260219170000 +0000" channel="Kanal1.webtv.sk">
-    <title lang="id">Poklady z povaly (3)</title>
+    <title lang="id">Poklady z povaly</title>
   </programme>
   <programme start="20260219170000 +0000" stop="20260219174500 +0000" channel="Kanal1.webtv.sk">
     <title lang="id">Svätá omša</title>
   </programme>
   <programme start="20260219174500 +0000" stop="20260219183000 +0000" channel="Kanal1.webtv.sk">
-    <title lang="id">Melrose place (37)</title>
+    <title lang="id">Kultový seriál: Melrose place V (17)</title>
   </programme>
   <programme start="20260219183000 +0000" stop="20260219191000 +0000" channel="Kanal1.webtv.sk">
     <title lang="id">Téma s Petrom Bielikom</title>
   </programme>
   <programme start="20260219191000 +0000" stop="20260219204000 +0000" channel="Kanal1.webtv.sk">
-    <title lang="id">Postav dom, zasaď strom</title>
+    <title lang="id">Slovenská klasika: Postav dom, zasaď strom</title>
   </programme>
   <programme start="20260219204000 +0000" stop="20260219224500 +0000" channel="Kanal1.webtv.sk">
     <title lang="id">Hlasy minulosti</title>

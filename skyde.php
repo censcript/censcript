@@ -3203,10 +3203,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260217060000 +0000" stop="20260217061500 +0000" channel="Sky Sport UHD.skyde">
     <title>Info: UHD</title>
 </programme>
-<programme start="20260217011500 +0000" stop="20260217070000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260217064000 +0000" stop="20260217070000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: Live Tennis WTA Tour</title>
 </programme>
-<programme start="20260217070000 +0000" stop="20260217210000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260217070000 +0000" stop="20260217190000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WTA 1000: Dubai Duty Free Tennis Championships in Dubai (VAE), 3. Tag</title>
 </programme>
 <programme start="20260216234000 +0000" stop="20260217002500 +0000" channel="SYFY HD.skyde">
