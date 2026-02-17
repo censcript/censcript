@@ -122,8 +122,8 @@
     <title>Football: Kifisia - OFI</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260217110000 +0700" stop="20260217131000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Anorthosis Famagusta - Freedom24 Krasava E.N.Y</title>
+<programme start="20260218141000 +0700" stop="20260218161000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Udinese - Sassuolo</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260217131000 +0700" stop="20260217151000 +0700" channel="COSMOTE Sport 3 HD">
@@ -258,10 +258,6 @@
     <title>Basketball: Unicaja - Real Madrid</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260217122000 +0700" stop="20260217134000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>DTM 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260217134000 +0700" stop="20260217144000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Highlights: 2025 Extreme H</title>
     <desc>Live: Tidak</desc>
@@ -354,8 +350,8 @@
     <title>DTM</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260217110000 +0700" stop="20260217133000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: ATP 500 2026</title>
+<programme start="20260218143500 +0700" stop="20260218154000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260217133000 +0700" stop="20260217153000 +0700" channel="COSMOTE Sport 6 HD">

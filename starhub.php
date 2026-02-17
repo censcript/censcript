@@ -2654,7 +2654,7 @@
         <title>News</title>
     </programme>
     <programme start="20260217023000 +0000" stop="20260217033000 +0000" channel="Sun TV.starhub">
-        <title>Nandhini</title>
+        <title>Ethirneehcal</title>
     </programme>
     <programme start="20260217033000 +0000" stop="20260217040000 +0000" channel="Sun TV.starhub">
         <title>Poongodi</title>
