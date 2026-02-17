@@ -3182,7 +3182,7 @@
         <title>How Africa sparks innovation</title>
     </programme>
     <programme start="20260216193000 +0000" stop="20260216200000 +0000" channel="DW English HD.starhub">
-        <title>Uganda rights activist Sarah Bireete details arrest, illegal detention, and election abuses</title>
+        <title>Can Europe and MAGA coexist?</title>
     </programme>
     <programme start="20260216200000 +0000" stop="20260216203000 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3204,6 +3204,9 @@
     </programme>
     <programme start="20260216220200 +0000" stop="20260216223000 +0000" channel="DW English HD.starhub">
         <title>News in Review</title>
+    </programme>
+    <programme start="20260216223000 +0000" stop="20260216230000 +0000" channel="DW English HD.starhub">
+        <title>Can Europe and MAGA coexist?</title>
     </programme>
     <programme start="20260216230000 +0000" stop="20260216231500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3793,8 +3796,11 @@
     <programme start="20260216201000 +0000" stop="20260216202500 +0000" channel="NHK World Premium HD.starhub">
         <title>Health for Today</title>
     </programme>
-    <programme start="20260216202500 +0000" stop="20260216205600 +0000" channel="NHK World Premium HD.starhub">
-        <title>Recharge Your Knowledge with Children&#039;s News (R)</title>
+    <programme start="20260216202500 +0000" stop="20260216205000 +0000" channel="NHK World Premium HD.starhub">
+        <title>Kyoto&#039;s Finest Goods Travelogue</title>
+    </programme>
+    <programme start="20260216205000 +0000" stop="20260216205600 +0000" channel="NHK World Premium HD.starhub">
+        <title>RAMEN JAPAN 5min.</title>
     </programme>
     <programme start="20260216205600 +0000" stop="20260216210000 +0000" channel="NHK World Premium HD.starhub">
         <title>World Weather</title>

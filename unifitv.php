@@ -2588,11 +2588,9 @@
     <category lang="en">News</category>
   </programme>
   <programme start="20260217041500 +0000" stop="20260217043000 +0000" channel="tvs.unifitv">
-    <title lang="en">Orang Kita</title>
-    <desc lang="en">Orang Kita, bersama MINTRED, memaparkan kisah inspirasi usahawan tempatan. Rancangan ini menyerlahkan semangat juang, ketekunan, dan inovasi yang membawa kejayaan, memberi inspirasi kepada usahawan baru dengan keyakinan.</desc>
-    <category lang="en">Culture</category>
-    <episode-num system="xmltv_ns">1.11.</episode-num>
-    <episode-num system="onscreen">S2E12</episode-num>
+    <title lang="en">Nyaman Ka?</title>
+    <desc lang="en">"Nyaman Ka?" ialah sebuah filem pendek khas yang diterbitkan oleh UKAS sempena sambutan Tahun Baharu Cina 2026.</desc>
+    <category lang="en">News</category>
   </programme>
   <programme start="20260217043000 +0000" stop="20260217050000 +0000" channel="tvs.unifitv">
     <title lang="en">One Promise</title>
@@ -2709,9 +2707,9 @@
     <category lang="en">News</category>
   </programme>
   <programme start="20260217101500 +0000" stop="20260217103000 +0000" channel="tvs.unifitv">
-    <title lang="en">TVS Fillers</title>
-    <desc lang="en">TVS Fillers delivers quick, engaging segments on Sarawakian culture, local trends, and more, keeping viewers entertained between programs.</desc>
-    <category lang="en">Culture</category>
+    <title lang="en">Nyaman Ka?</title>
+    <desc lang="en">"Nyaman Ka?" ialah sebuah filem pendek khas yang diterbitkan oleh UKAS sempena sambutan Tahun Baharu Cina 2026.</desc>
+    <category lang="en">News</category>
   </programme>
   <programme start="20260217103000 +0000" stop="20260217110000 +0000" channel="tvs.unifitv">
     <title lang="en">One Promise</title>
