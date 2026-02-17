@@ -350,10 +350,6 @@
     <title>Football: Club Brugge - Club Atletico de Madrid (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260218013000 +0700" stop="20260218040000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: Jesper De Jong - Andrey Rublev (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
 <programme start="20260218040000 +0700" stop="20260218060000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Moez Echargui - Stefanos Tsitsipas</title>
     <desc>Live: Tidak</desc>
@@ -405,6 +401,10 @@
 <programme start="20260219013000 +0700" stop="20260219040000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP 500 2026 (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20260219040000 +0700" stop="20260219050000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>ATP 500 2026 - Highlights</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260218030000 +0700" stop="20260218050000 +0700" channel="COSMOTE Sport 7 HD">
     <title>Football: Blackpool - Mansfield Town F.C. (L)</title>
@@ -477,6 +477,10 @@
 <programme start="20260219024500 +0700" stop="20260219044500 +0700" channel="COSMOTE Sport 7 HD">
     <title>Basketball: Armani Milano - Trieste (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20260219044500 +0700" stop="20260219050000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260218023000 +0700" stop="20260218050000 +0700" channel="COSMOTE Sport 8 HD">
     <title>Tennis: Tomas Barrios Vera - Matteo Berrettini (L)</title>
@@ -601,5 +605,9 @@
 <programme start="20260219024500 +0700" stop="20260219044500 +0700" channel="COSMOTE Sport 9 HD">
     <title>Football: AC Milan - Como (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20260219044500 +0700" stop="20260219051500 +0700" channel="COSMOTE Sport 9 HD">
+    <title>COSMOTESport9HD</title>
+    <desc>Live: Tidak</desc>
 </programme>
 No EPG found for COSMOTE Sport 10 HD
