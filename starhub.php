@@ -3205,9 +3205,6 @@
     <programme start="20260216220200 +0000" stop="20260216223000 +0000" channel="DW English HD.starhub">
         <title>News in Review</title>
     </programme>
-    <programme start="20260216223000 +0000" stop="20260216230000 +0000" channel="DW English HD.starhub">
-        <title>The Kiel Canal - Efficient But Expensive</title>
-    </programme>
     <programme start="20260216230000 +0000" stop="20260216231500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
@@ -3272,7 +3269,7 @@
         <title>A platform that let&#039;s you bet on anything? What could go wrong!</title>
     </programme>
     <programme start="20260217063000 +0000" stop="20260217070000 +0000" channel="DW English HD.starhub">
-        <title>Arts and Controversy</title>
+        <title>Can Europe and MAGA coexist?</title>
     </programme>
     <programme start="20260217070000 +0000" stop="20260217071500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3296,7 +3293,7 @@
         <title>Accompanying Migrants Through the Sahara</title>
     </programme>
     <programme start="20260217094500 +0000" stop="20260217100000 +0000" channel="DW English HD.starhub">
-        <title>On Location</title>
+        <title>Estonia’s Village of Hope</title>
     </programme>
     <programme start="20260217100000 +0000" stop="20260217101500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3305,7 +3302,7 @@
         <title>Vision 2050 - Children of Bamboo</title>
     </programme>
     <programme start="20260217103000 +0000" stop="20260217110000 +0000" channel="DW English HD.starhub">
-        <title>Amazing animal abilities &amp; human health threats</title>
+        <title>Can Europe and MAGA coexist?</title>
     </programme>
     <programme start="20260217110000 +0000" stop="20260217111500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3338,7 +3335,7 @@
         <title>My roots</title>
     </programme>
     <programme start="20260217143000 +0000" stop="20260217150000 +0000" channel="DW English HD.starhub">
-        <title>What connects us all</title>
+        <title>Mini-cabins for affordable night train trips</title>
     </programme>
     <programme start="20260217150000 +0000" stop="20260217151500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3347,7 +3344,7 @@
         <title>Best of DW-online Content</title>
     </programme>
     <programme start="20260217153000 +0000" stop="20260217160000 +0000" channel="DW English HD.starhub">
-        <title>Amazing animal abilities &amp; human health threats</title>
+        <title>Can Europe and MAGA coexist?</title>
     </programme>
     <programme start="20260216160000 +0000" stop="20260216220000 +0000" channel="Preview Channel.starhub">
         <title>Preview Channel</title>
@@ -3923,13 +3920,13 @@
         <title>NHK News 7 (B)</title>
     </programme>
     <programme start="20260217103000 +0000" stop="20260217113000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Special Program</title>
+        <title>Yamazaki Mari × Historical Mystery: Tensho Embassy</title>
     </programme>
     <programme start="20260217113000 +0000" stop="20260217114500 +0000" channel="NHK World Premium HD.starhub">
         <title>Wild Hokkaido!</title>
     </programme>
     <programme start="20260217114500 +0000" stop="20260217115500 +0000" channel="NHK World Premium HD.starhub">
-        <title>Mini Program</title>
+        <title>Cruising from the Sky Mini</title>
     </programme>
     <programme start="20260217115500 +0000" stop="20260217120000 +0000" channel="NHK World Premium HD.starhub">
         <title>News &amp; Weather</title>
@@ -3946,14 +3943,17 @@
     <programme start="20260217135500 +0000" stop="20260217142200 +0000" channel="NHK World Premium HD.starhub">
         <title>Where We Call Home Encore (B) (R)</title>
     </programme>
-    <programme start="20260217142200 +0000" stop="20260217143000 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20260217142200 +0000" stop="20260217142700 +0000" channel="NHK World Premium HD.starhub">
+        <title>This World is Filled with Wants 5min.</title>
+    </programme>
+    <programme start="20260217142700 +0000" stop="20260217143000 +0000" channel="NHK World Premium HD.starhub">
         <title>Mini Program</title>
     </programme>
     <programme start="20260217143000 +0000" stop="20260217144000 +0000" channel="NHK World Premium HD.starhub">
         <title>Giant Trees in Japan Mini</title>
     </programme>
     <programme start="20260217144000 +0000" stop="20260217144500 +0000" channel="NHK World Premium HD.starhub">
-        <title>Mini Program</title>
+        <title>We Love Fluffy Animals Mini</title>
     </programme>
     <programme start="20260217144500 +0000" stop="20260217161500 +0000" channel="NHK World Premium HD.starhub">
         <title>Magnificent Sight! Mountain Lodges in Europe (R)</title>

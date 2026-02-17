@@ -643,6 +643,9 @@
 <programme start="20260217003000 +0000" stop="20260217023000 +0000" channel="ANTV.vision">
 <title>Janji Inspektur Virat</title>
 </programme>
+<programme start="20260217023000 +0000" stop="20260217060000 +0000" channel="ANTV.vision">
+<title>Antim: The Final Truth</title>
+</programme>
 <programme start="20260217060000 +0000" stop="20260217083000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -1493,8 +1496,5 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260217110000 +0000" stop="20260217130000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260217130000 +0000" stop="20260217150000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
