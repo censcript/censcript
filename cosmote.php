@@ -1,7 +1,3 @@
-<programme start="20260218020000 +0700" stop="20260218023000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Sports Classics: Ultimate Rush S1 E18</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260218023000 +0700" stop="20260218050500 +0700" channel="COSMOTE Sport 1 HD">
     <title>UEFA Champions League 2025-26 Minute By Minute (L)</title>
     <desc>Live: Ya</desc>
@@ -74,10 +70,6 @@
     <title>UEFA Champions League 2025-26 Minute By Minute (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260218004500 +0700" stop="20260218030000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Galatasaray AS - Juventus Football Club (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
 <programme start="20260218030000 +0700" stop="20260218050500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: SL Benfica - Real Madrid CF (L)</title>
     <desc>Live: Ya</desc>
@@ -138,9 +130,9 @@
     <title>UEFA Champions League Show 2025-26 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260218002000 +0700" stop="20260218030000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>World Athletics Indoor Tour Gold 2026</title>
-    <desc>Live: Tidak</desc>
+<programme start="20260219030000 +0700" stop="20260219050500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Olympiacos - Bayer 04 Leverkusen (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260218030000 +0700" stop="20260218050500 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: AS Monaco FC - Paris Saint Germain (L)</title>
@@ -190,9 +182,9 @@
     <title>Football: Qarabag FK - Newcastle United (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260218015500 +0700" stop="20260218023000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>NBA Action 2025-26 E3517</title>
-    <desc>Live: Tidak</desc>
+<programme start="20260219030000 +0700" stop="20260219050500 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: FK Bodo/Glimt - FC Internazionale Milano (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260218023000 +0700" stop="20260218043500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Le Mans - Galatasaray</title>
@@ -262,12 +254,8 @@
     <title>Pick n&#039; Roll (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260218014500 +0700" stop="20260218021500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>FIA Championship Middle East 2026</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260218021500 +0700" stop="20260218030000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Documentary</title>
+<programme start="20260219034500 +0700" stop="20260219054500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Anadolu Efes - Trabzonspor</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260218030000 +0700" stop="20260218050500 +0700" channel="COSMOTE Sport 5 HD">
@@ -358,6 +346,10 @@
     <title>WRC</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260219030000 +0700" stop="20260219050500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Football: Club Brugge - Club Atletico de Madrid (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
 <programme start="20260218013000 +0700" stop="20260218040000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Jesper De Jong - Andrey Rublev (L)</title>
     <desc>Live: Ya</desc>
@@ -413,14 +405,6 @@
 <programme start="20260219013000 +0700" stop="20260219040000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP 500 2026 (L)</title>
     <desc>Live: Ya</desc>
-</programme>
-<programme start="20260218000000 +0700" stop="20260218023000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>Volleyball: PAOK - Aalst (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20260218023000 +0700" stop="20260218030000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
-    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260218030000 +0700" stop="20260218050000 +0700" channel="COSMOTE Sport 7 HD">
     <title>Football: Blackpool - Mansfield Town F.C. (L)</title>
@@ -494,10 +478,6 @@
     <title>Basketball: Armani Milano - Trieste (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260218020000 +0700" stop="20260218023000 +0700" channel="COSMOTE Sport 8 HD">
-    <title>COSMOTESport8HD</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260218023000 +0700" stop="20260218050000 +0700" channel="COSMOTE Sport 8 HD">
     <title>Tennis: Tomas Barrios Vera - Matteo Berrettini (L)</title>
     <desc>Live: Ya</desc>
@@ -561,14 +541,6 @@
 <programme start="20260219023000 +0700" stop="20260219050000 +0700" channel="COSMOTE Sport 8 HD">
     <title>Tennis: ATP 500 2026 (L)</title>
     <desc>Live: Ya</desc>
-</programme>
-<programme start="20260218000000 +0700" stop="20260218023000 +0700" channel="COSMOTE Sport 9 HD">
-    <title>Volleyball: Olympiacos - Allianz Powervolley Milano (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20260218023000 +0700" stop="20260218030000 +0700" channel="COSMOTE Sport 9 HD">
-    <title>COSMOTESport9HD</title>
-    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260218030000 +0700" stop="20260218050000 +0700" channel="COSMOTE Sport 9 HD">
     <title>COSMOTESport9HD</title>
