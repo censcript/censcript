@@ -2323,7 +2323,7 @@
     <programme start="20260217140000 +0000" stop="20260217160000 +0000" channel="Cinema One Global.starhub">
         <title>Silly Red Shoes</title>
     </programme>
-    <programme start="20260216143000 +0000" stop="20260216163000 +0000" channel="Hub Sports 2 HD.starhub">
+    <programme start="20260216143600 +0000" stop="20260216163000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>R4: Arsenal vs Wigan Athletic</title>
     </programme>
     <programme start="20260216163000 +0000" stop="20260216183000 +0000" channel="Hub Sports 2 HD.starhub">
