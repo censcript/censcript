@@ -5200,10 +5200,10 @@
     <programme start="20260217043000 +0000" stop="20260217063000 +0000" channel="SPOTV.starhub">
         <title>25/26 ROSHN Saudi League MW 22 Al Fateh vs Al Nassr</title>
     </programme>
-    <programme start="20260217063000 +0000" stop="20260217073000 +0000" channel="SPOTV.starhub">
+    <programme start="20260217063000 +0000" stop="20260217072500 +0000" channel="SPOTV.starhub">
         <title>Highlights 1</title>
     </programme>
-    <programme start="20260217073000 +0000" stop="20260217075500 +0000" channel="SPOTV.starhub">
+    <programme start="20260217072500 +0000" stop="20260217075500 +0000" channel="SPOTV.starhub">
         <title>Highlights 2</title>
     </programme>
     <programme start="20260217075500 +0000" stop="20260217100000 +0000" channel="SPOTV.starhub">
@@ -5212,10 +5212,10 @@
     <programme start="20260217100000 +0000" stop="20260217110000 +0000" channel="SPOTV.starhub">
         <title>Free Practice 3</title>
     </programme>
-    <programme start="20260217110000 +0000" stop="20260217130000 +0000" channel="SPOTV.starhub">
+    <programme start="20260217110000 +0000" stop="20260217125000 +0000" channel="SPOTV.starhub">
         <title>Qualifying</title>
     </programme>
-    <programme start="20260217130000 +0000" stop="20260217153000 +0000" channel="SPOTV.starhub">
+    <programme start="20260217125000 +0000" stop="20260217153000 +0000" channel="SPOTV.starhub">
         <title>Race</title>
     </programme>
     <programme start="20260217153000 +0000" stop="20260217163000 +0000" channel="SPOTV.starhub">
@@ -7954,10 +7954,13 @@
     <programme start="20260216233000 +0000" stop="20260217013000 +0000" channel="Asianet Movies.starhub">
         <title>Red Salute</title>
     </programme>
-    <programme start="20260217013000 +0000" stop="20260217043000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260217013000 +0000" stop="20260217015000 +0000" channel="Asianet Movies.starhub">
+        <title>Chirikkum Thalika</title>
+    </programme>
+    <programme start="20260217015000 +0000" stop="20260217044000 +0000" channel="Asianet Movies.starhub">
         <title>Sherlock Toms</title>
     </programme>
-    <programme start="20260217043000 +0000" stop="20260217073000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260217044000 +0000" stop="20260217073000 +0000" channel="Asianet Movies.starhub">
         <title>Bramayugam</title>
     </programme>
     <programme start="20260217073000 +0000" stop="20260217103000 +0000" channel="Asianet Movies.starhub">
