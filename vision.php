@@ -646,12 +646,6 @@
 <programme start="20260217083000 +0000" stop="20260217113000 +0000" channel="ANTV.vision">
 <title>Vasudha</title>
 </programme>
-<programme start="20260217113000 +0000" stop="20260217120000 +0000" channel="ANTV.vision">
-<title>Si Buta Lawan Jaka Sembung</title>
-</programme>
-<programme start="20260217121500 +0000" stop="20260217133000 +0000" channel="ANTV.vision">
-<title>Si Buta Lawan Jaka Sembung</title>
-</programme>
 <programme start="20260217133000 +0000" stop="20260217150000 +0000" channel="ANTV.vision">
 <title>Bangunnya Nyi Roro Kidul</title>
 </programme>
@@ -1496,5 +1490,11 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260218010000 +0000" stop="20260218030000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260218030000 +0000" stop="20260218050000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260218050000 +0000" stop="20260218070000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
