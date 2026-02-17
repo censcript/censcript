@@ -547,6 +547,9 @@
 <programme start="20260217080000 +0000" stop="20260217090000 +0000" channel="Trans 7.vision">
 <title>Makan Receh</title>
 </programme>
+<programme start="20260217090000 +0000" stop="20260217110000 +0000" channel="Trans 7.vision">
+<title>Exhuma</title>
+</programme>
 <programme start="20260217110000 +0000" stop="20260217114500 +0000" channel="Trans 7.vision">
 <title>On The Spot</title>
 </programme>
@@ -640,11 +643,23 @@
 <programme start="20260217003000 +0000" stop="20260217023000 +0000" channel="ANTV.vision">
 <title>Janji Inspektur Virat</title>
 </programme>
+<programme start="20260217023000 +0000" stop="20260217060000 +0000" channel="ANTV.vision">
+<title>Antim: The Final Truth</title>
+</programme>
 <programme start="20260217060000 +0000" stop="20260217083000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
 <programme start="20260217083000 +0000" stop="20260217113000 +0000" channel="ANTV.vision">
 <title>Vasudha</title>
+</programme>
+<programme start="20260217113000 +0000" stop="20260217120000 +0000" channel="ANTV.vision">
+<title>Si Buta Lawan Jaka Sembung</title>
+</programme>
+<programme start="20260217120000 +0000" stop="20260217121500 +0000" channel="ANTV.vision">
+<title>Sidang Isbat</title>
+</programme>
+<programme start="20260217121500 +0000" stop="20260217133000 +0000" channel="ANTV.vision">
+<title>Si Buta Lawan Jaka Sembung</title>
 </programme>
 <programme start="20260217133000 +0000" stop="20260217150000 +0000" channel="ANTV.vision">
 <title>Bangunnya Nyi Roro Kidul</title>
@@ -814,8 +829,20 @@
 <programme start="20260217060000 +0000" stop="20260217070000 +0000" channel="TVOne.vision">
 <title>Apa Kabar Indonesia Siang (L)</title>
 </programme>
+<programme start="20260217070000 +0000" stop="20260217073000 +0000" channel="TVOne.vision">
+<title>Breaking News (L)</title>
+</programme>
+<programme start="20260217073000 +0000" stop="20260217090000 +0000" channel="TVOne.vision">
+<title>Isbat 1 Ramadan 1447 H</title>
+</programme>
 <programme start="20260217090000 +0000" stop="20260217110000 +0000" channel="TVOne.vision">
 <title>Kabar Petang (L)</title>
+</programme>
+<programme start="20260217110000 +0000" stop="20260217113000 +0000" channel="TVOne.vision">
+<title>Breaking News (L)</title>
+</programme>
+<programme start="20260217113000 +0000" stop="20260217130000 +0000" channel="TVOne.vision">
+<title>SIDANG ISBAT 1 RAMADAN 1447 H</title>
 </programme>
 <programme start="20260217130000 +0000" stop="20260217143000 +0000" channel="TVOne.vision">
 <title>Catatan Demokrasi (L)</title>
@@ -1469,32 +1496,5 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260217110000 +0000" stop="20260217130000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260217130000 +0000" stop="20260217150000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260217150000 +0000" stop="20260217170000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260217170000 +0000" stop="20260217190000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260217190000 +0000" stop="20260217210000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260217210000 +0000" stop="20260217230000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260217230000 +0000" stop="20260218010000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260218010000 +0000" stop="20260218030000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260218030000 +0000" stop="20260218050000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260218050000 +0000" stop="20260218070000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
