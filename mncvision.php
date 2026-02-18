@@ -424,156 +424,7 @@
 <programme start="20260219153000 +0000" stop="20260219160000 +0000" channel="ANTV.mncvision">
     <title>Masuk Kena Keluar Kena</title>
 </programme>
-<programme start="20260218170000 +0000" stop="20260218173000 +0000" channel="Arirang.mncvision">
-    <title>Dive Into Korean</title>
-</programme>
-<programme start="20260218173000 +0000" stop="20260218180000 +0000" channel="Arirang.mncvision">
-    <title>Arirang Special</title>
-</programme>
-<programme start="20260218180000 +0000" stop="20260218183000 +0000" channel="Arirang.mncvision">
-    <title>Home To Table</title>
-</programme>
-<programme start="20260218183000 +0000" stop="20260218185000 +0000" channel="Arirang.mncvision">
-    <title>Korea Travelogue 4</title>
-</programme>
-<programme start="20260218185000 +0000" stop="20260218190000 +0000" channel="Arirang.mncvision">
-    <title>Discovering Korea: Shopping</title>
-</programme>
-<programme start="20260218190000 +0000" stop="20260218193000 +0000" channel="Arirang.mncvision">
-    <title>I&#039;m Live</title>
-</programme>
-<programme start="20260218193000 +0000" stop="20260218200000 +0000" channel="Arirang.mncvision">
-    <title>K-Stage Pan</title>
-</programme>
-<programme start="20260218200000 +0000" stop="20260218203000 +0000" channel="Arirang.mncvision">
-    <title>Talk Room</title>
-</programme>
-<programme start="20260218203000 +0000" stop="20260218210000 +0000" channel="Arirang.mncvision">
-    <title>K-Food Class</title>
-</programme>
-<programme start="20260218210000 +0000" stop="20260218213000 +0000" channel="Arirang.mncvision">
-    <title>Arirang Special</title>
-</programme>
-<programme start="20260218213000 +0000" stop="20260218215000 +0000" channel="Arirang.mncvision">
-    <title>K-Culture Minutes: K-Story</title>
-</programme>
-<programme start="20260218215000 +0000" stop="20260218220000 +0000" channel="Arirang.mncvision">
-    <title>Discovering Korea: Shopping</title>
-</programme>
-<programme start="20260218220000 +0000" stop="20260218222000 +0000" channel="Arirang.mncvision">
-    <title>The Grand Heritage ASMR</title>
-</programme>
-<programme start="20260218222000 +0000" stop="20260218223000 +0000" channel="Arirang.mncvision">
-    <title>The Living Sea Of Jeju</title>
-</programme>
-<programme start="20260218223000 +0000" stop="20260218224000 +0000" channel="Arirang.mncvision">
-    <title>K-Chat: Conversing In Korean</title>
-</programme>
-<programme start="20260218224000 +0000" stop="20260218225000 +0000" channel="Arirang.mncvision">
-    <title>K-Chat: Travel In Korea</title>
-</programme>
-<programme start="20260218225000 +0000" stop="20260218230000 +0000" channel="Arirang.mncvision">
-    <title>Exploring Korean Literature A</title>
-</programme>
-<programme start="20260218230000 +0000" stop="20260218232000 +0000" channel="Arirang.mncvision">
-    <title>K-Arts Artists</title>
-</programme>
-<programme start="20260218232000 +0000" stop="20260218233000 +0000" channel="Arirang.mncvision">
-    <title>Exploring Korean Literature B</title>
-</programme>
-<programme start="20260218233000 +0000" stop="20260218235000 +0000" channel="Arirang.mncvision">
-    <title>K-Culture Minutes: K-Stage</title>
-</programme>
-<programme start="20260218235000 +0000" stop="20260219000000 +0000" channel="Arirang.mncvision">
-    <title>SmartBiz Accelerators 2</title>
-</programme>
-<programme start="20260219000000 +0000" stop="20260219003000 +0000" channel="Arirang.mncvision">
-    <title>Bravo K-Scientist</title>
-</programme>
-<programme start="20260219003000 +0000" stop="20260219005000 +0000" channel="Arirang.mncvision">
-    <title>Drawing Diary</title>
-</programme>
-<programme start="20260219005000 +0000" stop="20260219010000 +0000" channel="Arirang.mncvision">
-    <title>Heritage Walks, Little Friend</title>
-</programme>
-<programme start="20260219010000 +0000" stop="20260219013000 +0000" channel="Arirang.mncvision">
-    <title>New Day At Arirang</title>
-</programme>
-<programme start="20260219013000 +0000" stop="20260219020000 +0000" channel="Arirang.mncvision">
-    <title>News Generation (L)</title>
-</programme>
-<programme start="20260219020000 +0000" stop="20260219030000 +0000" channel="Arirang.mncvision">
-    <title>Culture Crunch</title>
-</programme>
-<programme start="20260219030000 +0000" stop="20260219033000 +0000" channel="Arirang.mncvision">
-    <title>Arirang News</title>
-</programme>
-<programme start="20260219033000 +0000" stop="20260219040000 +0000" channel="Arirang.mncvision">
-    <title>SmartBiz Accelerators</title>
-</programme>
-<programme start="20260219040000 +0000" stop="20260219050000 +0000" channel="Arirang.mncvision">
-    <title>Simply K-Pop Gateway To Korea</title>
-</programme>
-<programme start="20260219050000 +0000" stop="20260219053000 +0000" channel="Arirang.mncvision">
-    <title>K-Culture Dive (L)</title>
-</programme>
-<programme start="20260219053000 +0000" stop="20260219060000 +0000" channel="Arirang.mncvision">
-    <title>News Generation</title>
-</programme>
-<programme start="20260219060000 +0000" stop="20260219063000 +0000" channel="Arirang.mncvision">
-    <title>K-Food Class</title>
-</programme>
-<programme start="20260219063000 +0000" stop="20260219065000 +0000" channel="Arirang.mncvision">
-    <title>Drawing Diary</title>
-</programme>
-<programme start="20260219065000 +0000" stop="20260219070000 +0000" channel="Arirang.mncvision">
-    <title>Heritage Walks, Little Friend</title>
-</programme>
-<programme start="20260219070000 +0000" stop="20260219070500 +0000" channel="Arirang.mncvision">
-    <title>AI Headline News</title>
-</programme>
-<programme start="20260219070500 +0000" stop="20260219074000 +0000" channel="Arirang.mncvision">
-    <title>SmartBiz Accelerators</title>
-</programme>
-<programme start="20260219074000 +0000" stop="20260219080000 +0000" channel="Arirang.mncvision">
-    <title>K-Culture Minutes: K-Stage</title>
-</programme>
-<programme start="20260219080000 +0000" stop="20260219083000 +0000" channel="Arirang.mncvision">
-    <title>The Daily Report</title>
-</programme>
-<programme start="20260219083000 +0000" stop="20260219090000 +0000" channel="Arirang.mncvision">
-    <title>Press Perspective (L)</title>
-</programme>
-<programme start="20260219090000 +0000" stop="20260219100000 +0000" channel="Arirang.mncvision">
-    <title>Simply K-Pop Gateway To Korea</title>
-</programme>
-<programme start="20260219100000 +0000" stop="20260219103000 +0000" channel="Arirang.mncvision">
-    <title>K-Food Class</title>
-</programme>
-<programme start="20260219103000 +0000" stop="20260219110000 +0000" channel="Arirang.mncvision">
-    <title>Bravo K-Scientist</title>
-</programme>
-<programme start="20260219110000 +0000" stop="20260219113000 +0000" channel="Arirang.mncvision">
-    <title>NewsCenter</title>
-</programme>
-<programme start="20260219113000 +0000" stop="20260219120000 +0000" channel="Arirang.mncvision">
-    <title>Within The Frame (L)</title>
-</programme>
-<programme start="20260219120000 +0000" stop="20260219123000 +0000" channel="Arirang.mncvision">
-    <title>K-Culture Dive</title>
-</programme>
-<programme start="20260219123000 +0000" stop="20260219125000 +0000" channel="Arirang.mncvision">
-    <title>K-Culture Minutes: K-Stage</title>
-</programme>
-<programme start="20260219125000 +0000" stop="20260219130000 +0000" channel="Arirang.mncvision">
-    <title>The Living Sea Of Jeju</title>
-</programme>
-<programme start="20260219130000 +0000" stop="20260219130500 +0000" channel="Arirang.mncvision">
-    <title>AI Headline News</title>
-</programme>
-<programme start="20260219130500 +0000" stop="20260219133500 +0000" channel="Arirang.mncvision">
-    <title>Drawing Diary</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260218172000 +0000" stop="20260218181500 +0000" channel="AXN.mncvision">
     <title>S.W.A.T. S8, Ep 17</title>
 </programme>
@@ -1594,7 +1445,48 @@
 <programme start="20260219163300 +0000" stop="20260218170300 +0000" channel="BUDDY STARS.mncvision">
     <title>Antboy</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260218175000 +0000" stop="20260218193500 +0000" channel="BUDDY STARS HD.mncvision">
+    <title>Silver</title>
+</programme>
+<programme start="20260218193500 +0000" stop="20260218211400 +0000" channel="BUDDY STARS HD.mncvision">
+    <title>Dragon Hunters</title>
+</programme>
+<programme start="20260218211400 +0000" stop="20260218232000 +0000" channel="BUDDY STARS HD.mncvision">
+    <title>Silver</title>
+</programme>
+<programme start="20260218232000 +0000" stop="20260219005100 +0000" channel="BUDDY STARS HD.mncvision">
+    <title>Mees Kees Langs De Lijn</title>
+</programme>
+<programme start="20260219005100 +0000" stop="20260219022200 +0000" channel="BUDDY STARS HD.mncvision">
+    <title>Silver</title>
+</programme>
+<programme start="20260219022200 +0000" stop="20260219033900 +0000" channel="BUDDY STARS HD.mncvision">
+    <title>A Fairy Tale After All</title>
+</programme>
+<programme start="20260219033900 +0000" stop="20260219053800 +0000" channel="BUDDY STARS HD.mncvision">
+    <title>Silver</title>
+</programme>
+<programme start="20260219053800 +0000" stop="20260219071600 +0000" channel="BUDDY STARS HD.mncvision">
+    <title>The Nut Job 2: Nutty By Nature</title>
+</programme>
+<programme start="20260219071600 +0000" stop="20260219091200 +0000" channel="BUDDY STARS HD.mncvision">
+    <title>Silver</title>
+</programme>
+<programme start="20260219091200 +0000" stop="20260219104600 +0000" channel="BUDDY STARS HD.mncvision">
+    <title>The Nut Job 2: Nutty By Nature</title>
+</programme>
+<programme start="20260219104600 +0000" stop="20260219124400 +0000" channel="BUDDY STARS HD.mncvision">
+    <title>Silver</title>
+</programme>
+<programme start="20260219124400 +0000" stop="20260219150000 +0000" channel="BUDDY STARS HD.mncvision">
+    <title>Mikolo</title>
+</programme>
+<programme start="20260219150000 +0000" stop="20260219163300 +0000" channel="BUDDY STARS HD.mncvision">
+    <title>Silver</title>
+</programme>
+<programme start="20260219163300 +0000" stop="20260218170300 +0000" channel="BUDDY STARS HD.mncvision">
+    <title>Antboy</title>
+</programme>
 <programme start="20260218170000 +0000" stop="20260218170700 +0000" channel="CBeebies.mncvision">
     <title>Hey Duggee S5, Ep 8</title>
 </programme>
@@ -5330,81 +5222,7 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260219163000 +0000" stop="20260218170000 +0000" channel="KIX.mncvision">
     <title>The Monkey Is Back</title>
 </programme>
-<programme start="20260218170000 +0000" stop="20260218180000 +0000" channel="Kompas TV.mncvision">
-    <title>Berita Utama</title>
-</programme>
-<programme start="20260218180000 +0000" stop="20260218190000 +0000" channel="Kompas TV.mncvision">
-    <title>Kompas Petang</title>
-</programme>
-<programme start="20260218190000 +0000" stop="20260218200000 +0000" channel="Kompas TV.mncvision">
-    <title>Kompas Sahur</title>
-</programme>
-<programme start="20260218200000 +0000" stop="20260218210000 +0000" channel="Kompas TV.mncvision">
-    <title>Berita Utama</title>
-</programme>
-<programme start="20260218210000 +0000" stop="20260218213000 +0000" channel="Kompas TV.mncvision">
-    <title>Borgol</title>
-</programme>
-<programme start="20260218213000 +0000" stop="20260218233000 +0000" channel="Kompas TV.mncvision">
-    <title>Kompas Pagi</title>
-</programme>
-<programme start="20260218233000 +0000" stop="20260219000000 +0000" channel="Kompas TV.mncvision">
-    <title>Jurnal Nusantara</title>
-</programme>
-<programme start="20260219000000 +0000" stop="20260219023000 +0000" channel="Kompas TV.mncvision">
-    <title>Sapa Indonesia Pagi</title>
-</programme>
-<programme start="20260219023000 +0000" stop="20260219030000 +0000" channel="Kompas TV.mncvision">
-    <title>Mosques Around The World</title>
-</programme>
-<programme start="20260219030000 +0000" stop="20260219033000 +0000" channel="Kompas TV.mncvision">
-    <title>Berita Utama</title>
-</programme>
-<programme start="20260219033000 +0000" stop="20260219040000 +0000" channel="Kompas TV.mncvision">
-    <title>Borgol</title>
-</programme>
-<programme start="20260219040000 +0000" stop="20260219060000 +0000" channel="Kompas TV.mncvision">
-    <title>Kompas Siang</title>
-</programme>
-<programme start="20260219060000 +0000" stop="20260219070000 +0000" channel="Kompas TV.mncvision">
-    <title>Sapa Indonesia Siang</title>
-</programme>
-<programme start="20260219070000 +0000" stop="20260219073000 +0000" channel="Kompas TV.mncvision">
-    <title>Sasaran</title>
-</programme>
-<programme start="20260219073000 +0000" stop="20260219080000 +0000" channel="Kompas TV.mncvision">
-    <title>Jurnal Merah Putih</title>
-</programme>
-<programme start="20260219080000 +0000" stop="20260219083000 +0000" channel="Kompas TV.mncvision">
-    <title>Indonesia Update</title>
-</programme>
-<programme start="20260219083000 +0000" stop="20260219090000 +0000" channel="Kompas TV.mncvision">
-    <title>Borgol</title>
-</programme>
-<programme start="20260219090000 +0000" stop="20260219103000 +0000" channel="Kompas TV.mncvision">
-    <title>Kompas Petang</title>
-</programme>
-<programme start="20260219103000 +0000" stop="20260219123000 +0000" channel="Kompas TV.mncvision">
-    <title>Sapa Indonesia Malam</title>
-</programme>
-<programme start="20260219123000 +0000" stop="20260219133000 +0000" channel="Kompas TV.mncvision">
-    <title>Berita Utama</title>
-</programme>
-<programme start="20260219133000 +0000" stop="20260219143000 +0000" channel="Kompas TV.mncvision">
-    <title>Rosi</title>
-</programme>
-<programme start="20260219143000 +0000" stop="20260219153000 +0000" channel="Kompas TV.mncvision">
-    <title>Kompas Malam</title>
-</programme>
-<programme start="20260219153000 +0000" stop="20260219160000 +0000" channel="Kompas TV.mncvision">
-    <title>Berita Utama</title>
-</programme>
-<programme start="20260219160000 +0000" stop="20260219163000 +0000" channel="Kompas TV.mncvision">
-    <title>Kompas Sport</title>
-</programme>
-<programme start="20260219163000 +0000" stop="20260218170000 +0000" channel="Kompas TV.mncvision">
-    <title>Kilas Kompas</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260218173000 +0000" stop="20260218183000 +0000" channel="LIFE.mncvision">
     <title>Good News  Anniv.</title>
 </programme>
@@ -7961,6 +7779,7 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260219160000 +0000" stop="20260219163000 +0000" channel="SCTV HD.mncvision">
     <title>Proposal Cinta Untuk Clara</title>
 </programme>
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260218170000 +0000" stop="20260218173000 +0000" channel="Sindo News TV.mncvision">
     <title>iNews Sport</title>
 </programme>
@@ -8486,7 +8305,48 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260219150000 +0000" stop="20260219153000 +0000" channel="sportstars 3 HD.mncvision">
     <title>Liga 2</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260218170000 +0000" stop="20260218190000 +0000" channel="Sportstars 4.mncvision">
+    <title>Bundesliga</title>
+</programme>
+<programme start="20260218190000 +0000" stop="20260218210000 +0000" channel="Sportstars 4.mncvision">
+    <title>BRI Liga 1</title>
+</programme>
+<programme start="20260218210000 +0000" stop="20260218230000 +0000" channel="Sportstars 4.mncvision">
+    <title>AFC Asian Cup 2026: KGZ Vs VIE</title>
+</programme>
+<programme start="20260218230000 +0000" stop="20260218233000 +0000" channel="Sportstars 4.mncvision">
+    <title>The Ultimate Goals</title>
+</programme>
+<programme start="20260218233000 +0000" stop="20260219000000 +0000" channel="Sportstars 4.mncvision">
+    <title>Bloopers</title>
+</programme>
+<programme start="20260219000000 +0000" stop="20260219030000 +0000" channel="Sportstars 4.mncvision">
+    <title>Daihatsu Indonesia Masters &#039;26</title>
+</programme>
+<programme start="20260219030000 +0000" stop="20260219050000 +0000" channel="Sportstars 4.mncvision">
+    <title>V-League Men</title>
+</programme>
+<programme start="20260219050000 +0000" stop="20260219070000 +0000" channel="Sportstars 4.mncvision">
+    <title>V-League Women</title>
+</programme>
+<programme start="20260219070000 +0000" stop="20260219090000 +0000" channel="Sportstars 4.mncvision">
+    <title>European Qualifiers</title>
+</programme>
+<programme start="20260219090000 +0000" stop="20260219110000 +0000" channel="Sportstars 4.mncvision">
+    <title>V-League Men</title>
+</programme>
+<programme start="20260219110000 +0000" stop="20260219113000 +0000" channel="Sportstars 4.mncvision">
+    <title>Bloopers</title>
+</programme>
+<programme start="20260219113000 +0000" stop="20260219133000 +0000" channel="Sportstars 4.mncvision">
+    <title>V-League Women</title>
+</programme>
+<programme start="20260219133000 +0000" stop="20260219163000 +0000" channel="Sportstars 4.mncvision">
+    <title>Daihatsu Indonesia Masters &#039;26</title>
+</programme>
+<programme start="20260219163000 +0000" stop="20260218170000 +0000" channel="Sportstars 4.mncvision">
+    <title>The Ultimate Goals</title>
+</programme>
 <programme start="20260218170000 +0000" stop="20260218190000 +0000" channel="Sportstars 4 HD.mncvision">
     <title>Bundesliga</title>
 </programme>
