@@ -3221,7 +3221,7 @@
         <title>News</title>
     </programme>
     <programme start="20260218031500 +0000" stop="20260218033000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>California governor Gavin Newsom: Donald Trump is &#039;increasingly weak&#039;</title>
     </programme>
     <programme start="20260218033000 +0000" stop="20260218040000 +0000" channel="DW English HD.starhub">
         <title>Somaliland village turns invasive tree to its advantage</title>
@@ -3245,7 +3245,7 @@
         <title>News</title>
     </programme>
     <programme start="20260218061500 +0000" stop="20260218063000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>California governor Gavin Newsom: Donald Trump is &#039;increasingly weak&#039;</title>
     </programme>
     <programme start="20260218063000 +0000" stop="20260218070000 +0000" channel="DW English HD.starhub">
         <title>Are vitamin supplements actually worth taking?</title>
@@ -7351,7 +7351,7 @@
     <programme start="20260217223000 +0000" stop="20260217230000 +0000" channel="BBC World News HD.starhub">
         <title>Newsnight</title>
     </programme>
-    <programme start="20260217230000 +0000" stop="20260218000000 +0000" channel="BBC World News HD.starhub">
+    <programme start="20260217223000 +0000" stop="20260218000000 +0000" channel="BBC World News HD.starhub">
         <title>BBC World News America</title>
     </programme>
     <programme start="20260218000000 +0000" stop="20260218003000 +0000" channel="BBC World News HD.starhub">
@@ -7888,19 +7888,19 @@
     <programme start="20260217231500 +0000" stop="20260218013000 +0000" channel="Asianet Movies.starhub">
         <title>Captain</title>
     </programme>
-    <programme start="20260218013000 +0000" stop="20260218043000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260218013000 +0000" stop="20260218043500 +0000" channel="Asianet Movies.starhub">
         <title>Oru Yamandan Premakadha</title>
     </programme>
-    <programme start="20260218043000 +0000" stop="20260218073000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260218043500 +0000" stop="20260218073000 +0000" channel="Asianet Movies.starhub">
         <title>Rappakal</title>
     </programme>
-    <programme start="20260218073000 +0000" stop="20260218103000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260218073000 +0000" stop="20260218104000 +0000" channel="Asianet Movies.starhub">
         <title>Lucifer</title>
     </programme>
-    <programme start="20260218103000 +0000" stop="20260218133000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260218104000 +0000" stop="20260218133000 +0000" channel="Asianet Movies.starhub">
         <title>Thondimuthalum Driksakshiyum</title>
     </programme>
-    <programme start="20260218133000 +0000" stop="20260218163000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260218133000 +0000" stop="20260218164500 +0000" channel="Asianet Movies.starhub">
         <title>Drishyam 2</title>
     </programme>
     <programme start="20260217160000 +0000" stop="20260217170000 +0000" channel="Astro Warna HD.starhub">

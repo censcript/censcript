@@ -5472,7 +5472,7 @@
     <episode-num system="onscreen">S1E80</episode-num>
   </programme>
   <programme start="20260218123000 +0000" stop="20260218130000 +0000" channel="unknown.unifitv">
-    <title lang="en">Parijadam</title>
+    <title lang="en">Parijatham</title>
     <desc lang="en">After losing her parents and hearing in a tragic accident, Isai is forced to marry Vishal when her aunt Rukmini manipulates her horoscope to meet Subadra's strict astrological beliefs.</desc>
     <category lang="en">Romance</category>
     <episode-num system="xmltv_ns">0.137.</episode-num>
