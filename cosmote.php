@@ -178,10 +178,6 @@
     <title>Football: Celtic FC - VfB Stuttgart (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260219023000 +0700" stop="20260219034500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Pick n&#039; Roll (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
 <programme start="20260219034500 +0700" stop="20260219054500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Anadolu Efes - Trabzonspor</title>
     <desc>Live: Tidak</desc>
@@ -342,10 +338,6 @@
     <title>Basketball: Real Madrid - Unicaja (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260219013000 +0700" stop="20260219040000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: Carlos Alcaraz - Valentin Royer (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
 <programme start="20260219040000 +0700" stop="20260219050000 +0700" channel="COSMOTE Sport 6 HD">
     <title>ATP 500 2026 - Highlights</title>
     <desc>Live: Tidak</desc>
@@ -385,6 +377,14 @@
 <programme start="20260220013000 +0700" stop="20260220040000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP 500 2026 (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20260220040000 +0700" stop="20260220043000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Sports Classics: 2025 Outdoor Specials</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260220043000 +0700" stop="20260220050000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Premier Padel Tour 2026 - Highlights</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260219024500 +0700" stop="20260219044500 +0700" channel="COSMOTE Sport 7 HD">
     <title>Basketball: Armani Milano - Trieste (L)</title>

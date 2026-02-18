@@ -688,6 +688,18 @@
 <programme start="20260218083000 +0000" stop="20260218113000 +0000" channel="ANTV.vision">
 <title>Vasudha</title>
 </programme>
+<programme start="20260218113000 +0000" stop="20260218133000 +0000" channel="ANTV.vision">
+<title>Golok Setan</title>
+</programme>
+<programme start="20260218133000 +0000" stop="20260218150000 +0000" channel="ANTV.vision">
+<title>Sangkuriang</title>
+</programme>
+<programme start="20260218150000 +0000" stop="20260218170000 +0000" channel="ANTV.vision">
+<title>Si Rawing</title>
+</programme>
+<programme start="20260218170000 +0000" stop="20260218191500 +0000" channel="ANTV.vision">
+<title>Bangkok Police Woman</title>
+</programme>
 <programme start="20260218191500 +0000" stop="20260218214500 +0000" channel="ANTV.vision">
 <title>Serie A Liga Italia</title>
 </programme>
@@ -1406,22 +1418,25 @@
 <title>Berita Merah Putih</title>
 </programme>
 <programme start="20260218083000 +0000" stop="20260218090000 +0000" channel="BTV.vision">
-<title>Berita Satu Sore</title>
+<title>Berita Kriminal</title>
 </programme>
 <programme start="20260218090000 +0000" stop="20260218090500 +0000" channel="BTV.vision">
 <title>Berita Satu Terkini</title>
 </programme>
-<programme start="20260218090500 +0000" stop="20260218102000 +0000" channel="BTV.vision">
+<programme start="20260218090500 +0000" stop="20260218100500 +0000" channel="BTV.vision">
 <title>Berita Satu Sore</title>
 </programme>
-<programme start="20260218102000 +0000" stop="20260218110000 +0000" channel="BTV.vision">
-<title>Berita Kriminal</title>
+<programme start="20260218100500 +0000" stop="20260218110500 +0000" channel="BTV.vision">
+<title>Jalan Dakwah Ramadan</title>
 </programme>
-<programme start="20260218110000 +0000" stop="20260218130000 +0000" channel="BTV.vision">
+<programme start="20260218110500 +0000" stop="20260218112700 +0000" channel="BTV.vision">
+<title>Berbuka Puasa</title>
+</programme>
+<programme start="20260218112700 +0000" stop="20260218130000 +0000" channel="BTV.vision">
 <title>Berita Satu Utama</title>
 </programme>
 <programme start="20260218130000 +0000" stop="20260218140000 +0000" channel="BTV.vision">
-<title>Berita Viral</title>
+<title>Spot On</title>
 </programme>
 <programme start="20260218140000 +0000" stop="20260218150000 +0000" channel="BTV.vision">
 <title>Ekonomi Syariah</title>
@@ -1447,13 +1462,10 @@
 <programme start="20260218210000 +0000" stop="20260218213000 +0000" channel="BTV.vision">
 <title>Sejarah Islam</title>
 </programme>
-<programme start="20260218213000 +0000" stop="20260218214100 +0000" channel="BTV.vision">
-<title>Berita Satu Pagi</title>
-</programme>
-<programme start="20260218214100 +0000" stop="20260218214500 +0000" channel="BTV.vision">
+<programme start="20260218213000 +0000" stop="20260218213300 +0000" channel="BTV.vision">
 <title>Adzan Subuh Jakarta</title>
 </programme>
-<programme start="20260218214500 +0000" stop="20260218230000 +0000" channel="BTV.vision">
+<programme start="20260218213300 +0000" stop="20260218230000 +0000" channel="BTV.vision">
 <title>Berita Satu Pagi</title>
 </programme>
 <programme start="20260218230000 +0000" stop="20260218230300 +0000" channel="BTV.vision">
@@ -1485,16 +1497,4 @@
 </programme>
 <programme start="20260219023000 +0000" stop="20260219033000 +0000" channel="BTV.vision">
 <title>Investor Market Today</title>
-</programme>
-<programme start="20260219033000 +0000" stop="20260219040000 +0000" channel="BTV.vision">
-<title>Indonesia Update Cerita IDN</title>
-</programme>
-<programme start="20260219040000 +0000" stop="20260219060000 +0000" channel="BTV.vision">
-<title>Berita Satu Siang</title>
-</programme>
-<programme start="20260219060000 +0000" stop="20260219073000 +0000" channel="BTV.vision">
-<title>Berita Viral</title>
-</programme>
-<programme start="20260219073000 +0000" stop="20260219080000 +0000" channel="BTV.vision">
-<title>Dikit-Dikit Damkar</title>
 </programme>
