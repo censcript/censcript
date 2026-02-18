@@ -688,9 +688,6 @@
 <programme start="20260218083000 +0000" stop="20260218113000 +0000" channel="ANTV.vision">
 <title>Vasudha</title>
 </programme>
-<programme start="20260218170000 +0000" stop="20260218191500 +0000" channel="ANTV.vision">
-<title>Bangkok Police Woman</title>
-</programme>
 <programme start="20260218191500 +0000" stop="20260218214500 +0000" channel="ANTV.vision">
 <title>Serie A Liga Italia</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20260219060000 +0000" stop="20260219073000 +0000" channel="BTV.vision">
 <title>Berita Viral</title>
+</programme>
+<programme start="20260219073000 +0000" stop="20260219080000 +0000" channel="BTV.vision">
+<title>Dikit-Dikit Damkar</title>
 </programme>
