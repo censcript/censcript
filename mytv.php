@@ -4,13 +4,10 @@
     <programme start="20260218010000 +0000" stop="20260218013200 +0000" channel="VTV1 HD.mytv">
         <title> Phiên chợ mùa xuân : Mùa sinh sôi </title>
     </programme>
-    <programme start="20260218013200 +0000" stop="20260218025000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260218013200 +0000" stop="20260218030800 +0000" channel="VTV1 HD.mytv">
         <title> VTV kết nối </title>
     </programme>
-    <programme start="20260218025000 +0000" stop="20260218030200 +0000" channel="VTV1 HD.mytv">
-        <title> Thể thao : Hành trình tiên phong </title>
-    </programme>
-    <programme start="20260218030200 +0000" stop="20260218033000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260218030800 +0000" stop="20260218033000 +0000" channel="VTV1 HD.mytv">
         <title> Từ những miền quê : Bình yên Bảo Lộc </title>
     </programme>
     <programme start="20260218033000 +0000" stop="20260218034500 +0000" channel="VTV1 HD.mytv">
@@ -73,13 +70,10 @@
     <programme start="20260218145900 +0000" stop="20260218151400 +0000" channel="VTV1 HD.mytv">
         <title> Tự hào Việt Nam </title>
     </programme>
-    <programme start="20260218151400 +0000" stop="20260218162900 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260218151400 +0000" stop="20260218165400 +0000" channel="VTV1 HD.mytv">
         <title> VTV kết nối </title>
     </programme>
-    <programme start="20260218162900 +0000" stop="20260218164400 +0000" channel="VTV1 HD.mytv">
-        <title> Văn học nghệ thuật : Đảng và mùa xuân đất nước </title>
-    </programme>
-    <programme start="20260218164400 +0000" stop="20260218171300 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260218165400 +0000" stop="20260218171300 +0000" channel="VTV1 HD.mytv">
         <title> Phóng sự : Tết đồng bào </title>
     </programme>
     <programme start="20260218171300 +0000" stop="20260218173000 +0000" channel="VTV1 HD.mytv">
@@ -109,13 +103,13 @@
     <programme start="20260218210000 +0000" stop="20260218210500 +0000" channel="VTV1 HD.mytv">
         <title> Tạp chí Kinh tế cuối năm : Từ A đến I </title>
     </programme>
-    <programme start="20260218210500 +0000" stop="20260218220000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260218210500 +0000" stop="20260218220200 +0000" channel="VTV1 HD.mytv">
         <title> Gala Việc tử tế : Mãi là người Việt Nam </title>
     </programme>
-    <programme start="20260218220000 +0000" stop="20260218233000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260218220200 +0000" stop="20260218233300 +0000" channel="VTV1 HD.mytv">
         <title> Gala Hồn Việt </title>
     </programme>
-    <programme start="20260218233000 +0000" stop="20260219004000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260218233300 +0000" stop="20260219004300 +0000" channel="VTV1 HD.mytv">
         <title> VTV kết nối</title>
     </programme>
     <channel>VTV1 HD</channel>
