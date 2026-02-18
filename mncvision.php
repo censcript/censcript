@@ -784,7 +784,81 @@
 <programme start="20260218165500 +0000" stop="20260217172500 +0000" channel="BBC Earth.mncvision">
     <title>The Great Wall S1, Ep 4</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260217180500 +0000" stop="20260217190000 +0000" channel="BBC Earth HD.mncvision">
+    <title>Where Wild Men Are S10, Ep 1</title>
+</programme>
+<programme start="20260217190000 +0000" stop="20260217200000 +0000" channel="BBC Earth HD.mncvision">
+    <title>China Wild Guangdong S1, Ep 2</title>
+</programme>
+<programme start="20260217200000 +0000" stop="20260217210500 +0000" channel="BBC Earth HD.mncvision">
+    <title>The Great Wall S1, Ep 3</title>
+</programme>
+<programme start="20260217210500 +0000" stop="20260217220000 +0000" channel="BBC Earth HD.mncvision">
+    <title>Extreme Fishing S4, Ep 3</title>
+</programme>
+<programme start="20260217220000 +0000" stop="20260217225000 +0000" channel="BBC Earth HD.mncvision">
+    <title>Where Wild Men Are S10, Ep 1</title>
+</programme>
+<programme start="20260217225000 +0000" stop="20260217235000 +0000" channel="BBC Earth HD.mncvision">
+    <title>Wild Horses: Rockies &amp; Me, Ep 1</title>
+</programme>
+<programme start="20260217235000 +0000" stop="20260218004000 +0000" channel="BBC Earth HD.mncvision">
+    <title>Extreme Fishing S4, Ep 3</title>
+</programme>
+<programme start="20260218004000 +0000" stop="20260218013500 +0000" channel="BBC Earth HD.mncvision">
+    <title>China Wild Guangdong S1, Ep 2</title>
+</programme>
+<programme start="20260218013500 +0000" stop="20260218023500 +0000" channel="BBC Earth HD.mncvision">
+    <title>The Great Wall S1, Ep 1</title>
+</programme>
+<programme start="20260218023500 +0000" stop="20260218033500 +0000" channel="BBC Earth HD.mncvision">
+    <title>The Great Wall S1, Ep 2</title>
+</programme>
+<programme start="20260218033500 +0000" stop="20260218043500 +0000" channel="BBC Earth HD.mncvision">
+    <title>The Great Wall S1, Ep 3</title>
+</programme>
+<programme start="20260218043500 +0000" stop="20260218054000 +0000" channel="BBC Earth HD.mncvision">
+    <title>A Perfect Planet S1, Ep 1</title>
+</programme>
+<programme start="20260218054000 +0000" stop="20260218063500 +0000" channel="BBC Earth HD.mncvision">
+    <title>China Wild Guangdong S1, Ep 2</title>
+</programme>
+<programme start="20260218063500 +0000" stop="20260218073000 +0000" channel="BBC Earth HD.mncvision">
+    <title>The Great Wall S1, Ep 1</title>
+</programme>
+<programme start="20260218073000 +0000" stop="20260218083000 +0000" channel="BBC Earth HD.mncvision">
+    <title>The Great Wall S1, Ep 2</title>
+</programme>
+<programme start="20260218083000 +0000" stop="20260218093000 +0000" channel="BBC Earth HD.mncvision">
+    <title>The Great Wall S1, Ep 3</title>
+</programme>
+<programme start="20260218093000 +0000" stop="20260218102500 +0000" channel="BBC Earth HD.mncvision">
+    <title>China Wild Guangdong S1, Ep 2</title>
+</programme>
+<programme start="20260218102500 +0000" stop="20260218111500 +0000" channel="BBC Earth HD.mncvision">
+    <title>Where Wild Men Are S10, Ep 1</title>
+</programme>
+<programme start="20260218111500 +0000" stop="20260218120500 +0000" channel="BBC Earth HD.mncvision">
+    <title>Extreme Fishing S4, Ep 4</title>
+</programme>
+<programme start="20260218120500 +0000" stop="20260218130000 +0000" channel="BBC Earth HD.mncvision">
+    <title>China Wild Guangdong S1, Ep 3</title>
+</programme>
+<programme start="20260218130000 +0000" stop="20260218140500 +0000" channel="BBC Earth HD.mncvision">
+    <title>The Great Wall S1, Ep 4</title>
+</programme>
+<programme start="20260218140500 +0000" stop="20260218150000 +0000" channel="BBC Earth HD.mncvision">
+    <title>Engineering Repurposed, Ep 7</title>
+</programme>
+<programme start="20260218150000 +0000" stop="20260218155500 +0000" channel="BBC Earth HD.mncvision">
+    <title>Extreme Fishing S4, Ep 4</title>
+</programme>
+<programme start="20260218155500 +0000" stop="20260218165500 +0000" channel="BBC Earth HD.mncvision">
+    <title>China Wild Guangdong S1, Ep 3</title>
+</programme>
+<programme start="20260218165500 +0000" stop="20260217172500 +0000" channel="BBC Earth HD.mncvision">
+    <title>The Great Wall S1, Ep 4</title>
+</programme>
 <programme start="20260217170000 +0000" stop="20260217173000 +0000" channel="BBC World News.mncvision">
     <title>Verified Live</title>
 </programme>
@@ -3566,9 +3640,246 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260218160000 +0000" stop="20260218163000 +0000" channel="FOX News.mncvision">
     <title>The Faulkner Focus</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260217170000 +0000" stop="20260217171000 +0000" channel="France 24 English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260217171000 +0000" stop="20260217175300 +0000" channel="France 24 English.mncvision">
+    <title>The Debate (L)</title>
+</programme>
+<programme start="20260217175300 +0000" stop="20260217180000 +0000" channel="France 24 English.mncvision">
+    <title>Short Cuts</title>
+</programme>
+<programme start="20260217180000 +0000" stop="20260217182000 +0000" channel="France 24 English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260217182000 +0000" stop="20260217183000 +0000" channel="France 24 English.mncvision">
+    <title>Sports (L)</title>
+</programme>
+<programme start="20260217183000 +0000" stop="20260217184500 +0000" channel="France 24 English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260217184500 +0000" stop="20260217185100 +0000" channel="France 24 English.mncvision">
+    <title>Truth Or Fake (L)</title>
+</programme>
+<programme start="20260217185100 +0000" stop="20260217190000 +0000" channel="France 24 English.mncvision">
+    <title>Focus (L)</title>
+</programme>
+<programme start="20260217190000 +0000" stop="20260217192000 +0000" channel="France 24 English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260217192000 +0000" stop="20260217193000 +0000" channel="France 24 English.mncvision">
+    <title>Business (L)</title>
+</programme>
+<programme start="20260217193000 +0000" stop="20260217194000 +0000" channel="France 24 English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260217194000 +0000" stop="20260217200000 +0000" channel="France 24 English.mncvision">
+    <title>Eye On Africa (L)</title>
+</programme>
+<programme start="20260217200000 +0000" stop="20260217201500 +0000" channel="France 24 English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260217201500 +0000" stop="20260217202100 +0000" channel="France 24 English.mncvision">
+    <title>Business (L)</title>
+</programme>
+<programme start="20260217202100 +0000" stop="20260217203000 +0000" channel="France 24 English.mncvision">
+    <title>Truth Or Fake (L)</title>
+</programme>
+<programme start="20260217203000 +0000" stop="20260217203200 +0000" channel="France 24 English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260217203200 +0000" stop="20260217204400 +0000" channel="France 24 English.mncvision">
+    <title>A Propos (L)</title>
+</programme>
+<programme start="20260217204400 +0000" stop="20260217210000 +0000" channel="France 24 English.mncvision">
+    <title>Eye On Africa (L)</title>
+</programme>
+<programme start="20260217210000 +0000" stop="20260217211500 +0000" channel="France 24 English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260217211500 +0000" stop="20260217213000 +0000" channel="France 24 English.mncvision">
+    <title>Business + Truth Or Fake</title>
+</programme>
+<programme start="20260217213000 +0000" stop="20260217214500 +0000" channel="France 24 English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260217214500 +0000" stop="20260217215100 +0000" channel="France 24 English.mncvision">
+    <title>Sports (L)</title>
+</programme>
+<programme start="20260217215100 +0000" stop="20260217220000 +0000" channel="France 24 English.mncvision">
+    <title>Focus Semaine</title>
+</programme>
+<programme start="20260217220000 +0000" stop="20260217221000 +0000" channel="France 24 English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260217221000 +0000" stop="20260217225300 +0000" channel="France 24 English.mncvision">
+    <title>The Debate</title>
+</programme>
+<programme start="20260217225300 +0000" stop="20260217230000 +0000" channel="France 24 English.mncvision">
+    <title>Short Cuts</title>
+</programme>
+<programme start="20260217230000 +0000" stop="20260217231500 +0000" channel="France 24 English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260217231500 +0000" stop="20260217232000 +0000" channel="France 24 English.mncvision">
+    <title>Business</title>
+</programme>
+<programme start="20260217232000 +0000" stop="20260217233000 +0000" channel="France 24 English.mncvision">
+    <title>Focus Semaine</title>
+</programme>
+<programme start="20260217233000 +0000" stop="20260217234500 +0000" channel="France 24 English.mncvision">
+    <title>Bulletin (L)</title>
+</programme>
+<programme start="20260217234500 +0000" stop="20260218000000 +0000" channel="France 24 English.mncvision">
+    <title>Arts24</title>
+</programme>
+<programme start="20260218000000 +0000" stop="20260218001500 +0000" channel="France 24 English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260218001500 +0000" stop="20260218003000 +0000" channel="France 24 English.mncvision">
+    <title>A Propos</title>
+</programme>
+<programme start="20260218003000 +0000" stop="20260218004500 +0000" channel="France 24 English.mncvision">
+    <title>Bulletin (L)</title>
+</programme>
+<programme start="20260218004500 +0000" stop="20260218010000 +0000" channel="France 24 English.mncvision">
+    <title>Eye On Africa</title>
+</programme>
+<programme start="20260218010000 +0000" stop="20260218011000 +0000" channel="France 24 English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260218011000 +0000" stop="20260218015300 +0000" channel="France 24 English.mncvision">
+    <title>The Debate</title>
+</programme>
+<programme start="20260218015300 +0000" stop="20260218020000 +0000" channel="France 24 English.mncvision">
+    <title>Short Cuts</title>
+</programme>
+<programme start="20260218020000 +0000" stop="20260218021500 +0000" channel="France 24 English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260218021500 +0000" stop="20260218023900 +0000" channel="France 24 English.mncvision">
+    <title>Reporters</title>
+</programme>
+<programme start="20260218023900 +0000" stop="20260218025100 +0000" channel="France 24 English.mncvision">
+    <title>France In Focus</title>
+</programme>
+<programme start="20260218025100 +0000" stop="20260218030000 +0000" channel="France 24 English.mncvision">
+    <title>Focus Semaine</title>
+</programme>
+<programme start="20260218030000 +0000" stop="20260218031500 +0000" channel="France 24 English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260218031500 +0000" stop="20260218033000 +0000" channel="France 24 English.mncvision">
+    <title>Eye On Africa</title>
+</programme>
+<programme start="20260218033000 +0000" stop="20260218034500 +0000" channel="France 24 English.mncvision">
+    <title>Bulletin (L)</title>
+</programme>
+<programme start="20260218034500 +0000" stop="20260218040000 +0000" channel="France 24 English.mncvision">
+    <title>Arts24</title>
+</programme>
+<programme start="20260218040000 +0000" stop="20260218042000 +0000" channel="France 24 English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260218042000 +0000" stop="20260218043000 +0000" channel="France 24 English.mncvision">
+    <title>Focus (L)</title>
+</programme>
+<programme start="20260218043000 +0000" stop="20260218045000 +0000" channel="France 24 English.mncvision">
+    <title>Bulletin (L)</title>
+</programme>
+<programme start="20260218045000 +0000" stop="20260218052000 +0000" channel="France 24 English.mncvision">
+    <title>Introduction (L)</title>
+</programme>
+<programme start="20260217182000 +0000" stop="20260217201000 +0000" channel="Galaxy.mncvision">
+    <title>The Great War</title>
+</programme>
+<programme start="20260217201000 +0000" stop="20260217221500 +0000" channel="Galaxy.mncvision">
+    <title>The Journey Is The Destination</title>
+</programme>
+<programme start="20260217221500 +0000" stop="20260217234500 +0000" channel="Galaxy.mncvision">
+    <title>Cursed</title>
+</programme>
+<programme start="20260217234500 +0000" stop="20260218010500 +0000" channel="Galaxy.mncvision">
+    <title>The Devil&#039;s Trap</title>
+</programme>
+<programme start="20260218010500 +0000" stop="20260218024500 +0000" channel="Galaxy.mncvision">
+    <title>After We Fell</title>
+</programme>
+<programme start="20260218024500 +0000" stop="20260218042500 +0000" channel="Galaxy.mncvision">
+    <title>Old Henry</title>
+</programme>
+<programme start="20260218042500 +0000" stop="20260218055500 +0000" channel="Galaxy.mncvision">
+    <title>The Butterfly Room</title>
+</programme>
+<programme start="20260218055500 +0000" stop="20260218072500 +0000" channel="Galaxy.mncvision">
+    <title>Missionary</title>
+</programme>
+<programme start="20260218072500 +0000" stop="20260218084500 +0000" channel="Galaxy.mncvision">
+    <title>The Killing Of K. Chamberlain</title>
+</programme>
+<programme start="20260218084500 +0000" stop="20260218102500 +0000" channel="Galaxy.mncvision">
+    <title>Traded</title>
+</programme>
+<programme start="20260218102500 +0000" stop="20260218120000 +0000" channel="Galaxy.mncvision">
+    <title>A Tale Of Two Guns</title>
+</programme>
+<programme start="20260218120000 +0000" stop="20260218134500 +0000" channel="Galaxy.mncvision">
+    <title>Radioflash</title>
+</programme>
+<programme start="20260218134500 +0000" stop="20260218150000 +0000" channel="Galaxy.mncvision">
+    <title>American Muscle</title>
+</programme>
+<programme start="20260218150000 +0000" stop="20260218165500 +0000" channel="Galaxy.mncvision">
+    <title>Skin</title>
+</programme>
+<programme start="20260218165500 +0000" stop="20260217172500 +0000" channel="Galaxy.mncvision">
+    <title>Armed Response</title>
+</programme>
+<programme start="20260217170000 +0000" stop="20260217182500 +0000" channel="Galaxy Premium.mncvision">
+    <title>A Thousand Words</title>
+</programme>
+<programme start="20260217182500 +0000" stop="20260217195000 +0000" channel="Galaxy Premium.mncvision">
+    <title>Jungleland</title>
+</programme>
+<programme start="20260217195000 +0000" stop="20260217214000 +0000" channel="Galaxy Premium.mncvision">
+    <title>Stealth</title>
+</programme>
+<programme start="20260217214000 +0000" stop="20260217232000 +0000" channel="Galaxy Premium.mncvision">
+    <title>Envy</title>
+</programme>
+<programme start="20260217232000 +0000" stop="20260218011000 +0000" channel="Galaxy Premium.mncvision">
+    <title>Paycheck</title>
+</programme>
+<programme start="20260218011000 +0000" stop="20260218025000 +0000" channel="Galaxy Premium.mncvision">
+    <title>Escape Room</title>
+</programme>
+<programme start="20260218025000 +0000" stop="20260218041500 +0000" channel="Galaxy Premium.mncvision">
+    <title>Proud Mary</title>
+</programme>
+<programme start="20260218041500 +0000" stop="20260218054500 +0000" channel="Galaxy Premium.mncvision">
+    <title>Ode To Joy</title>
+</programme>
+<programme start="20260218054500 +0000" stop="20260218074000 +0000" channel="Galaxy Premium.mncvision">
+    <title>Passengers</title>
+</programme>
+<programme start="20260218074000 +0000" stop="20260218090000 +0000" channel="Galaxy Premium.mncvision">
+    <title>Patient Zero</title>
+</programme>
+<programme start="20260218090000 +0000" stop="20260218102500 +0000" channel="Galaxy Premium.mncvision">
+    <title>A.C.O.D.</title>
+</programme>
+<programme start="20260218102500 +0000" stop="20260218122000 +0000" channel="Galaxy Premium.mncvision">
+    <title>Marshall</title>
+</programme>
+<programme start="20260218122000 +0000" stop="20260218140000 +0000" channel="Galaxy Premium.mncvision">
+    <title>Tropic Thunder</title>
+</programme>
+<programme start="20260218140000 +0000" stop="20260218155000 +0000" channel="Galaxy Premium.mncvision">
+    <title>Baywatch</title>
+</programme>
+<programme start="20260218155000 +0000" stop="20260218162000 +0000" channel="Galaxy Premium.mncvision">
+    <title>SpongeBob SquarePants Movie</title>
+</programme>
 <programme start="20260217175000 +0000" stop="20260217180000 +0000" channel="Global Trekker.mncvision">
     <title>Nature Sanctuaries, Ep 3</title>
 </programme>
@@ -3719,7 +4030,126 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260218143500 +0000" stop="20260218150500 +0000" channel="Global Trekker.mncvision">
     <title>Destination Flavour China, Ep 5</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260217175000 +0000" stop="20260217184000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Nature Sanctuaries, Ep 3</title>
+</programme>
+<programme start="20260217184000 +0000" stop="20260217193500 +0000" channel="Global Trekker HD.mncvision">
+    <title>Nature Sanctuaries, Ep 4</title>
+</programme>
+<programme start="20260217193500 +0000" stop="20260217203000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Nature Sanctuaries, Ep 5</title>
+</programme>
+<programme start="20260217203000 +0000" stop="20260217210000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Wild Warrior Encounters, Ep 1</title>
+</programme>
+<programme start="20260217210000 +0000" stop="20260217213000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Wild Warrior Encounters, Ep 2</title>
+</programme>
+<programme start="20260217213000 +0000" stop="20260217220000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Wild Warrior Encounters, Ep 3</title>
+</programme>
+<programme start="20260217220000 +0000" stop="20260217225500 +0000" channel="Global Trekker HD.mncvision">
+    <title>Fantastic Friends, Ep 1</title>
+</programme>
+<programme start="20260217225500 +0000" stop="20260217235000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Fantastic Friends, Ep 2</title>
+</programme>
+<programme start="20260217235000 +0000" stop="20260218004000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Fantastic Friends, Ep 3</title>
+</programme>
+<programme start="20260218004000 +0000" stop="20260218013500 +0000" channel="Global Trekker HD.mncvision">
+    <title>Fantastic Friends, Ep 4</title>
+</programme>
+<programme start="20260218013500 +0000" stop="20260218022500 +0000" channel="Global Trekker HD.mncvision">
+    <title>Fantastic Friends, Ep 5</title>
+</programme>
+<programme start="20260218022500 +0000" stop="20260218032000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Fantastic Friends, Ep 6</title>
+</programme>
+<programme start="20260218032000 +0000" stop="20260218035000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Destination Flavour China, Ep 1</title>
+</programme>
+<programme start="20260218035000 +0000" stop="20260218042000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Destination Flavour China, Ep 2</title>
+</programme>
+<programme start="20260218042000 +0000" stop="20260218045000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Destination Flavour China, Ep 3</title>
+</programme>
+<programme start="20260218045000 +0000" stop="20260218052000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Destination Flavour China, Ep 4</title>
+</programme>
+<programme start="20260218052000 +0000" stop="20260218055000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Destination Flavour China, Ep 5</title>
+</programme>
+<programme start="20260218055000 +0000" stop="20260218062000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Destination Flavour China, Ep 6</title>
+</programme>
+<programme start="20260218062000 +0000" stop="20260218065000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Destination Flavour China, Ep 7</title>
+</programme>
+<programme start="20260218065000 +0000" stop="20260218071500 +0000" channel="Global Trekker HD.mncvision">
+    <title>Destination Flavour China, Ep 8</title>
+</programme>
+<programme start="20260218071500 +0000" stop="20260218074500 +0000" channel="Global Trekker HD.mncvision">
+    <title>Destination Flavour China, Ep 9</title>
+</programme>
+<programme start="20260218074500 +0000" stop="20260218081500 +0000" channel="Global Trekker HD.mncvision">
+    <title>Destination Flavour CHN, Ep 10</title>
+</programme>
+<programme start="20260218081500 +0000" stop="20260218084500 +0000" channel="Global Trekker HD.mncvision">
+    <title>Destination Flavour SIN, Ep 1</title>
+</programme>
+<programme start="20260218084500 +0000" stop="20260218091500 +0000" channel="Global Trekker HD.mncvision">
+    <title>Destination Flavour SIN, Ep 2</title>
+</programme>
+<programme start="20260218091500 +0000" stop="20260218094500 +0000" channel="Global Trekker HD.mncvision">
+    <title>Destination Flavour SIN, Ep 3</title>
+</programme>
+<programme start="20260218094500 +0000" stop="20260218101000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Destination Flavour SIN, Ep 4</title>
+</programme>
+<programme start="20260218101000 +0000" stop="20260218104000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Destination Flavour SIN, Ep 5</title>
+</programme>
+<programme start="20260218104000 +0000" stop="20260218110500 +0000" channel="Global Trekker HD.mncvision">
+    <title>Destination Flavour SIN, Ep 6</title>
+</programme>
+<programme start="20260218110500 +0000" stop="20260218113500 +0000" channel="Global Trekker HD.mncvision">
+    <title>Destination Flavour SIN, Ep 7</title>
+</programme>
+<programme start="20260218113500 +0000" stop="20260218120500 +0000" channel="Global Trekker HD.mncvision">
+    <title>Destination Flavour SIN, Ep 8</title>
+</programme>
+<programme start="20260218120500 +0000" stop="20260218123500 +0000" channel="Global Trekker HD.mncvision">
+    <title>Destination Flavour SIN, Ep 9</title>
+</programme>
+<programme start="20260218123500 +0000" stop="20260218130500 +0000" channel="Global Trekker HD.mncvision">
+    <title>Destination Flavour China, Ep 1</title>
+</programme>
+<programme start="20260218130500 +0000" stop="20260218133500 +0000" channel="Global Trekker HD.mncvision">
+    <title>Destination Flavour China, Ep 2</title>
+</programme>
+<programme start="20260218133500 +0000" stop="20260218140500 +0000" channel="Global Trekker HD.mncvision">
+    <title>Destination Flavour China, Ep 3</title>
+</programme>
+<programme start="20260218140500 +0000" stop="20260218143500 +0000" channel="Global Trekker HD.mncvision">
+    <title>Destination Flavour China, Ep 4</title>
+</programme>
+<programme start="20260218143500 +0000" stop="20260218150500 +0000" channel="Global Trekker HD.mncvision">
+    <title>Destination Flavour China, Ep 5</title>
+</programme>
+<programme start="20260218150500 +0000" stop="20260218153500 +0000" channel="Global Trekker HD.mncvision">
+    <title>Destination Flavour China, Ep 6</title>
+</programme>
+<programme start="20260218153500 +0000" stop="20260218160500 +0000" channel="Global Trekker HD.mncvision">
+    <title>Destination Flavour China, Ep 7</title>
+</programme>
+<programme start="20260218160500 +0000" stop="20260218163000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Destination Flavour China, Ep 8</title>
+</programme>
+<programme start="20260218163000 +0000" stop="20260217170000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Destination Flavour China, Ep 9</title>
+</programme>
 <programme start="20260217180000 +0000" stop="20260217190000 +0000" channel="GTV.mncvision">
     <title>Crime KV</title>
 </programme>
@@ -3990,7 +4420,93 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260218164000 +0000" stop="20260217171000 +0000" channel="History.mncvision">
     <title>Swamp People S14, Ep 15</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260217170000 +0000" stop="20260217180000 +0000" channel="HITS.mncvision">
+    <title>The Waltons S3, Ep 2</title>
+</programme>
+<programme start="20260217180000 +0000" stop="20260217190000 +0000" channel="HITS.mncvision">
+    <title>The New Adventures Of..., Ep 5</title>
+</programme>
+<programme start="20260217190000 +0000" stop="20260217200000 +0000" channel="HITS.mncvision">
+    <title>A. Christie&#039;s Poirot S5, Ep 1</title>
+</programme>
+<programme start="20260217200000 +0000" stop="20260217210000 +0000" channel="HITS.mncvision">
+    <title>Xena: Warrior... S1, Ep 15</title>
+</programme>
+<programme start="20260217210000 +0000" stop="20260217220000 +0000" channel="HITS.mncvision">
+    <title>The Waltons S3, Ep 2</title>
+</programme>
+<programme start="20260217220000 +0000" stop="20260217230000 +0000" channel="HITS.mncvision">
+    <title>A. Christie&#039;s Poirot S5, Ep 1</title>
+</programme>
+<programme start="20260217230000 +0000" stop="20260217233000 +0000" channel="HITS.mncvision">
+    <title>I Dream Of Jeannie S4, Ep 24</title>
+</programme>
+<programme start="20260217233000 +0000" stop="20260218003000 +0000" channel="HITS.mncvision">
+    <title>Mission: Impossible S1, Ep 16</title>
+</programme>
+<programme start="20260218003000 +0000" stop="20260218013000 +0000" channel="HITS.mncvision">
+    <title>Mission: Impossible S1, Ep 17</title>
+</programme>
+<programme start="20260218013000 +0000" stop="20260218023000 +0000" channel="HITS.mncvision">
+    <title>Xena: Warrior... S1, Ep 15</title>
+</programme>
+<programme start="20260218023000 +0000" stop="20260218033000 +0000" channel="HITS.mncvision">
+    <title>The Waltons S3, Ep 2</title>
+</programme>
+<programme start="20260218033000 +0000" stop="20260218040000 +0000" channel="HITS.mncvision">
+    <title>The Jeffersons S5, Ep 17</title>
+</programme>
+<programme start="20260218040000 +0000" stop="20260218043000 +0000" channel="HITS.mncvision">
+    <title>Frasier S3, Ep 18</title>
+</programme>
+<programme start="20260218043000 +0000" stop="20260218053000 +0000" channel="HITS.mncvision">
+    <title>The New Adventures Of..., Ep 5</title>
+</programme>
+<programme start="20260218053000 +0000" stop="20260218063000 +0000" channel="HITS.mncvision">
+    <title>A. Christie&#039;s Poirot S5, Ep 1</title>
+</programme>
+<programme start="20260218063000 +0000" stop="20260218070000 +0000" channel="HITS.mncvision">
+    <title>I Dream Of Jeannie S4, Ep 25</title>
+</programme>
+<programme start="20260218070000 +0000" stop="20260218080000 +0000" channel="HITS.mncvision">
+    <title>Mission: Impossible S1, Ep 18</title>
+</programme>
+<programme start="20260218080000 +0000" stop="20260218090000 +0000" channel="HITS.mncvision">
+    <title>Mission: Impossible S1, Ep 19</title>
+</programme>
+<programme start="20260218090000 +0000" stop="20260218100000 +0000" channel="HITS.mncvision">
+    <title>The New Adventures Of..., Ep 5</title>
+</programme>
+<programme start="20260218100000 +0000" stop="20260218103000 +0000" channel="HITS.mncvision">
+    <title>The Jeffersons S5, Ep 17</title>
+</programme>
+<programme start="20260218103000 +0000" stop="20260218110000 +0000" channel="HITS.mncvision">
+    <title>Frasier S3, Ep 18</title>
+</programme>
+<programme start="20260218110000 +0000" stop="20260218120000 +0000" channel="HITS.mncvision">
+    <title>Xena: Warrior... S1, Ep 16</title>
+</programme>
+<programme start="20260218120000 +0000" stop="20260218123000 +0000" channel="HITS.mncvision">
+    <title>The Jeffersons S6, Ep 18</title>
+</programme>
+<programme start="20260218123000 +0000" stop="20260218130000 +0000" channel="HITS.mncvision">
+    <title>Frasier S3, Ep 19</title>
+</programme>
+<programme start="20260218130000 +0000" stop="20260218140000 +0000" channel="HITS.mncvision">
+    <title>The New Adventures Of..., Ep 6</title>
+</programme>
+<programme start="20260218140000 +0000" stop="20260218150000 +0000" channel="HITS.mncvision">
+    <title>The Waltons S3, Ep 3</title>
+</programme>
+<programme start="20260218150000 +0000" stop="20260218160000 +0000" channel="HITS.mncvision">
+    <title>A. Christie&#039;s Poirot S5, Ep 2</title>
+</programme>
+<programme start="20260218160000 +0000" stop="20260218163000 +0000" channel="HITS.mncvision">
+    <title>The Jeffersons S6, Ep 18</title>
+</programme>
+<programme start="20260218163000 +0000" stop="20260217170000 +0000" channel="HITS.mncvision">
+    <title>Frasier S3, Ep 19</title>
+</programme>
 <programme start="20260217184500 +0000" stop="20260217204500 +0000" channel="HITS MOVIES.mncvision">
     <title>Pillow Talk</title>
 </programme>
@@ -4024,7 +4540,39 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260218161500 +0000" stop="20260218164500 +0000" channel="HITS MOVIES.mncvision">
     <title>Sleepless In Seattle</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260217184500 +0000" stop="20260217204500 +0000" channel="HITS MOVIES HD.mncvision">
+    <title>Pillow Talk</title>
+</programme>
+<programme start="20260217204500 +0000" stop="20260217230000 +0000" channel="HITS MOVIES HD.mncvision">
+    <title>Rocky</title>
+</programme>
+<programme start="20260217230000 +0000" stop="20260218010000 +0000" channel="HITS MOVIES HD.mncvision">
+    <title>Project A</title>
+</programme>
+<programme start="20260218010000 +0000" stop="20260218030000 +0000" channel="HITS MOVIES HD.mncvision">
+    <title>Kung Fu Panda 2</title>
+</programme>
+<programme start="20260218030000 +0000" stop="20260218051500 +0000" channel="HITS MOVIES HD.mncvision">
+    <title>Rocky</title>
+</programme>
+<programme start="20260218051500 +0000" stop="20260218071500 +0000" channel="HITS MOVIES HD.mncvision">
+    <title>Project A</title>
+</programme>
+<programme start="20260218071500 +0000" stop="20260218091500 +0000" channel="HITS MOVIES HD.mncvision">
+    <title>Kung Fu Panda 2</title>
+</programme>
+<programme start="20260218091500 +0000" stop="20260218120000 +0000" channel="HITS MOVIES HD.mncvision">
+    <title>Apollo 13</title>
+</programme>
+<programme start="20260218120000 +0000" stop="20260218140000 +0000" channel="HITS MOVIES HD.mncvision">
+    <title>Armour Of God</title>
+</programme>
+<programme start="20260218140000 +0000" stop="20260218161500 +0000" channel="HITS MOVIES HD.mncvision">
+    <title>Rocky 2</title>
+</programme>
+<programme start="20260218161500 +0000" stop="20260218164500 +0000" channel="HITS MOVIES HD.mncvision">
+    <title>Sleepless In Seattle</title>
+</programme>
 <programme start="20260217170000 +0000" stop="20260217180000 +0000" channel="IDX.mncvision">
     <title>Prime Market Highlight</title>
 </programme>
