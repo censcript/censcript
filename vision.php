@@ -97,14 +97,11 @@
 <programme start="20260218053000 +0000" stop="20260218073000 +0000" channel="MNCTV.vision">
 <title>Upin &amp; Ipin</title>
 </programme>
-<programme start="20260218073000 +0000" stop="20260218090000 +0000" channel="MNCTV.vision">
+<programme start="20260218073000 +0000" stop="20260218100000 +0000" channel="MNCTV.vision">
 <title>Upin &amp; Ipin</title>
 </programme>
-<programme start="20260218090000 +0000" stop="20260218110000 +0000" channel="MNCTV.vision">
-<title>Upin &amp; Ipin</title>
-</programme>
-<programme start="20260218110000 +0000" stop="20260218113000 +0000" channel="MNCTV.vision">
-<title>Rangkaian Berbuka</title>
+<programme start="20260218100000 +0000" stop="20260218113000 +0000" channel="MNCTV.vision">
+<title>Ngabuburit Upin &amp; Ipin (MNCTV)</title>
 </programme>
 <programme start="20260218113000 +0000" stop="20260218123000 +0000" channel="MNCTV.vision">
 <title>Entong</title>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20260219020000 +0000" stop="20260219020500 +0000" channel="BTV.vision">
 <title>Berita Satu Terkini</title>
+</programme>
+<programme start="20260219020500 +0000" stop="20260219023000 +0000" channel="BTV.vision">
+<title>Masak Ala Devina Hermawan</title>
 </programme>

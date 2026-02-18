@@ -1423,16 +1423,16 @@
 <programme start="20260218071500 +0000" stop="20260218073500 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
 </programme>
-<programme start="20260218073500 +0000" stop="20260218075000 +0000" channel="Nick Jr..skyde">
+<programme start="20260218073500 +0000" stop="20260218074500 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
 </programme>
-<programme start="20260218075000 +0000" stop="20260218075500 +0000" channel="Nick Jr..skyde">
+<programme start="20260218074500 +0000" stop="20260218075500 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
-<programme start="20260218075500 +0000" stop="20260218080500 +0000" channel="Nick Jr..skyde">
+<programme start="20260218075500 +0000" stop="20260218080000 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
-<programme start="20260218080500 +0000" stop="20260218081000 +0000" channel="Nick Jr..skyde">
+<programme start="20260218080000 +0000" stop="20260218081000 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
 <programme start="20260218081000 +0000" stop="20260218081500 +0000" channel="Nick Jr..skyde">
@@ -1486,16 +1486,16 @@
 <programme start="20260218104500 +0000" stop="20260218111000 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20260218111000 +0000" stop="20260218113000 +0000" channel="Nick Jr..skyde">
+<programme start="20260218111000 +0000" stop="20260218113500 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20260218113000 +0000" stop="20260218115500 +0000" channel="Nick Jr..skyde">
+<programme start="20260218113500 +0000" stop="20260218115500 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20260218115500 +0000" stop="20260218121500 +0000" channel="Nick Jr..skyde">
+<programme start="20260218115500 +0000" stop="20260218122000 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20260218121500 +0000" stop="20260218124000 +0000" channel="Nick Jr..skyde">
+<programme start="20260218122000 +0000" stop="20260218124000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
 <programme start="20260218124000 +0000" stop="20260218130000 +0000" channel="Nick Jr..skyde">
@@ -1531,10 +1531,10 @@
 <programme start="20260218145500 +0000" stop="20260218150000 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260218150000 +0000" stop="20260218151000 +0000" channel="Nick Jr..skyde">
+<programme start="20260218150000 +0000" stop="20260218150500 +0000" channel="Nick Jr..skyde">
     <title>Sharkdog</title>
 </programme>
-<programme start="20260218151000 +0000" stop="20260218151500 +0000" channel="Nick Jr..skyde">
+<programme start="20260218150500 +0000" stop="20260218151500 +0000" channel="Nick Jr..skyde">
     <title>Sharkdog</title>
 </programme>
 <programme start="20260218151500 +0000" stop="20260218152000 +0000" channel="Nick Jr..skyde">
@@ -1597,10 +1597,10 @@
 <programme start="20260218183000 +0000" stop="20260218185000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260218185000 +0000" stop="20260218190000 +0000" channel="Nick Jr..skyde">
+<programme start="20260218185000 +0000" stop="20260218190500 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260218190000 +0000" stop="20260218192500 +0000" channel="Nick Jr..skyde">
+<programme start="20260218190500 +0000" stop="20260218192500 +0000" channel="Nick Jr..skyde">
     <title>Blaze und die Monster-Maschinen</title>
 </programme>
 <programme start="20260218192500 +0000" stop="20260218194500 +0000" channel="Nick Jr..skyde">
@@ -2635,22 +2635,22 @@
 <programme start="20260218223000 +0000" stop="20260218232500 +0000" channel="Sky Showcase HD.skyde">
     <title>Morden im Norden</title>
 </programme>
-<programme start="20260218003000 +0000" stop="20260218023000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260218004500 +0000" stop="20260218023500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA CL: Galatasaray Istanbul - Juventus Turin, Knockout Play-offs, Hinspiel</title>
 </programme>
-<programme start="20260218023000 +0000" stop="20260218043000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260218023500 +0000" stop="20260218043500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA CL: Benfica Lissabon - Real Madrid, Knockout Play-offs, Hinspiel</title>
 </programme>
-<programme start="20260218043000 +0000" stop="20260218050000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260218043500 +0000" stop="20260218050500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: 90in30: FAK - SCR, 19. Runde</title>
 </programme>
-<programme start="20260218050000 +0000" stop="20260218070000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260218050500 +0000" stop="20260218070500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA CL: Borussia Dortmund - Atalanta Bergamo, Knockout Play-offs, Hinspiel</title>
 </programme>
-<programme start="20260218070000 +0000" stop="20260218071500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260218070500 +0000" stop="20260218072500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Die UEFA CL am Dienstag: Alle Spiele, alle Tore, Knockout Play-offs, Hinspiele</title>
 </programme>
-<programme start="20260218071500 +0000" stop="20260218091500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260218072500 +0000" stop="20260218091500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA CL: Galatasaray Istanbul - Juventus Turin, Knockout Play-offs, Hinspiel</title>
 </programme>
 <programme start="20260218091500 +0000" stop="20260218101500 +0000" channel="Sky Sport Austria 1 HD.skyde">
@@ -2695,13 +2695,13 @@
 <programme start="20260218190000 +0000" stop="20260218195000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live Die UEFA CL am Mittwoch: Vorbericht</title>
 </programme>
-<programme start="20260218195000 +0000" stop="20260218220000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20260218195000 +0000" stop="20260218223000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live UEFA CL: FK Bodo/Glimt - Inter Mailand, Knockout Play-offs, Hinspiel</title>
 </programme>
 <programme start="20260218193000 +0000" stop="20260218195000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Es folgt: Live UEFA Champions League</title>
 </programme>
-<programme start="20260218195000 +0000" stop="20260218220000 +0000" channel="Sky Sport Austria 3 HD.skyde">
+<programme start="20260218195000 +0000" stop="20260218221500 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live UEFA CL: Club Brügge - Atletico Madrid, Knockout Play-offs, Hinspiel</title>
 </programme>
 <programme start="20260217233000 +0000" stop="20260218013000 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -2776,11 +2776,17 @@
 <programme start="20260218200000 +0000" stop="20260218203000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>2. BL: Dein Zweitligatalk - HvK &amp; Tusche</title>
 </programme>
-<programme start="20260218203000 +0000" stop="20260218210000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>2. BL: 90in30: SGD - ELV, 22. Spieltag</title>
+<programme start="20260218203000 +0000" stop="20260218204500 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: Luis Diaz Exklusiv</title>
 </programme>
-<programme start="20260218210000 +0000" stop="20260218230000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+<programme start="20260218204500 +0000" stop="20260218210000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: Highlights XXL; SVW - FCB, 22. Spieltag</title>
+</programme>
+<programme start="20260218210000 +0000" stop="20260218224500 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: Klassiker der Woche: RBL - BVB (2016/17)</title>
+</programme>
+<programme start="20260218224500 +0000" stop="20260218230000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: Luis Diaz Exklusiv</title>
 </programme>
 <programme start="20260218003000 +0000" stop="20260218023000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
     <title>BL: Borussia Dortmund - 1. FSV Mainz 05, Flutlicht-Freitag, 22. Spieltag</title>
@@ -3127,7 +3133,7 @@
 <programme start="20260218223000 +0000" stop="20260219003000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: Wolverhampton Wanderers - FC Arsenal, vorgezogenes Spiel vom 31. Spieltag</title>
 </programme>
-<programme start="20260218020000 +0000" stop="20260218043000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260218023000 +0000" stop="20260218043000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: B. Shelton (USA) - T. Fritz (USA), Dallas Open in Dallas (USA), Finale</title>
 </programme>
 <programme start="20260218043000 +0000" stop="20260218053000 +0000" channel="Sky Sport Tennis HD.skyde">
@@ -3145,10 +3151,10 @@
 <programme start="20260218193000 +0000" stop="20260219020000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP 500: Rio Open in Rio de Janeiro (BRA), 3. Tag</title>
 </programme>
-<programme start="20260218020000 +0000" stop="20260218023000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260218023000 +0000" stop="20260218024000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Fußball: scooore Niederlande! Alle Tore</title>
 </programme>
-<programme start="20260218023000 +0000" stop="20260218024500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260218024000 +0000" stop="20260218024500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>BL: Dein Spieltags-Sprint (22)</title>
 </programme>
 <programme start="20260218024500 +0000" stop="20260218030000 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3232,10 +3238,10 @@
 <programme start="20260218210000 +0000" stop="20260218230000 +0000" channel="Sky Sport UHD.skyde">
     <title>DFB-Pokal: FC Bayern München - RB Leipzig, Viertelfinale</title>
 </programme>
-<programme start="20260218064000 +0000" stop="20260218070000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260218000000 +0000" stop="20260218070000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: Live Tennis WTA Tour</title>
 </programme>
-<programme start="20260218070000 +0000" stop="20260218190000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260218070000 +0000" stop="20260218210000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WTA 1000: Dubai Duty Free Tennis Championships in Dubai (VAE), 4. Tag</title>
 </programme>
 <programme start="20260217234000 +0000" stop="20260218002500 +0000" channel="SYFY HD.skyde">
