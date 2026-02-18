@@ -134,8 +134,8 @@
     <title>Football: Parma - Hellas Verona</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260218155000 +0700" stop="20260218175500 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Liverpool FC - Brighton &amp; Hove Albion</title>
+<programme start="20260219181500 +0700" stop="20260219203000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Panetolikos - Asteras Aktor</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260218175500 +0700" stop="20260218200000 +0700" channel="COSMOTE Sport 3 HD">
@@ -194,8 +194,8 @@
     <title>Emirates FA Cup 2025-26 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260218152000 +0700" stop="20260218170500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Karditsa - AEK</title>
+<programme start="20260219180000 +0700" stop="20260219200000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Santa Clara - SL Benfica</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260218170500 +0700" stop="20260218190500 +0700" channel="COSMOTE Sport 4 HD">
@@ -258,12 +258,8 @@
     <title>Basketball: Le Mans - Galatasaray</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260218163000 +0700" stop="20260218171500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260218171500 +0700" stop="20260218180000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC 2025</title>
+<programme start="20260219182000 +0700" stop="20260219201500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Brescia - Udine</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260218180000 +0700" stop="20260218190500 +0700" channel="COSMOTE Sport 5 HD">
@@ -358,8 +354,8 @@
     <title>DTM</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260218150000 +0700" stop="20260218173000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Volleyball: Olympiacos - Allianz Powervolley Milano</title>
+<programme start="20260219184000 +0700" stop="20260219191000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Sports Classics: Gearing Up 2025 E1</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260218173000 +0700" stop="20260218193000 +0700" channel="COSMOTE Sport 6 HD">
