@@ -3137,7 +3137,7 @@
         <title>News</title>
     </programme>
     <programme start="20260217171500 +0000" stop="20260217173000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>California governor Gavin Newsom: Donald Trump is &#039;increasingly weak&#039;</title>
     </programme>
     <programme start="20260217173000 +0000" stop="20260217180000 +0000" channel="DW English HD.starhub">
         <title>What Your Car REALLY Says About You: The Politics of Cars</title>
@@ -3167,7 +3167,7 @@
         <title>News</title>
     </programme>
     <programme start="20260217210200 +0000" stop="20260217211500 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>California governor Gavin Newsom: Donald Trump is &#039;increasingly weak&#039;</title>
     </programme>
     <programme start="20260217211500 +0000" stop="20260217214500 +0000" channel="DW English HD.starhub">
         <title>Accompanying Migrants Through the Sahara</title>
@@ -3188,7 +3188,7 @@
         <title>News</title>
     </programme>
     <programme start="20260217231500 +0000" stop="20260217233000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>California governor Gavin Newsom: Donald Trump is &#039;increasingly weak&#039;</title>
     </programme>
     <programme start="20260217233000 +0000" stop="20260218000000 +0000" channel="DW English HD.starhub">
         <title>Mini-cabins for affordable night train trips</title>
@@ -7347,9 +7347,6 @@
     </programme>
     <programme start="20260217220000 +0000" stop="20260217223000 +0000" channel="BBC World News HD.starhub">
         <title>BBC World News America</title>
-    </programme>
-    <programme start="20260217223000 +0000" stop="20260217230000 +0000" channel="BBC World News HD.starhub">
-        <title>Newsnight</title>
     </programme>
     <programme start="20260217223000 +0000" stop="20260218000000 +0000" channel="BBC World News HD.starhub">
         <title>BBC World News America</title>

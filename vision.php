@@ -682,9 +682,6 @@
 <programme start="20260218003000 +0000" stop="20260218023000 +0000" channel="ANTV.vision">
 <title>Janji Inspektur Virat</title>
 </programme>
-<programme start="20260218023000 +0000" stop="20260218060000 +0000" channel="ANTV.vision">
-<title>Kal Ho Na Ho</title>
-</programme>
 <programme start="20260218060000 +0000" stop="20260218083000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20260219020500 +0000" stop="20260219023000 +0000" channel="BTV.vision">
 <title>Masak Ala Devina Hermawan</title>
+</programme>
+<programme start="20260219023000 +0000" stop="20260219033000 +0000" channel="BTV.vision">
+<title>Investor Market Today</title>
 </programme>

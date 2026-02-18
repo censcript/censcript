@@ -3151,16 +3151,7 @@
 <programme start="20260218193000 +0000" stop="20260219020000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP 500: Rio Open in Rio de Janeiro (BRA), 3. Tag</title>
 </programme>
-<programme start="20260218023000 +0000" stop="20260218024000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Fußball: scooore Niederlande! Alle Tore</title>
-</programme>
-<programme start="20260218024000 +0000" stop="20260218024500 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>BL: Dein Spieltags-Sprint (22)</title>
-</programme>
-<programme start="20260218024500 +0000" stop="20260218030000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>2. BL: Dein Spieltags-Sprint (22)</title>
-</programme>
-<programme start="20260218030000 +0000" stop="20260218040000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260218033000 +0000" stop="20260218040000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>3. Liga: Alle Spiele, alle Tore, 24. Spieltag komplett</title>
 </programme>
 <programme start="20260218040000 +0000" stop="20260218050000 +0000" channel="Sky Sport Top Event HD.skyde">
