@@ -134,6 +134,10 @@
     <title>Football: Panathinaikos - AEL Novibet</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260219141500 +0700" stop="20260219161500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Cremonese - Genoa</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260218130000 +0700" stop="20260218155000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Birmingham City - Leeds United</title>
     <desc>Live: Tidak</desc>
@@ -184,10 +188,6 @@
 </programme>
 <programme start="20260219131000 +0700" stop="20260219151000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Stoke City - Fulham</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260218110000 +0700" stop="20260218131000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Turk Telekom - Fenerbahce</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260218131000 +0700" stop="20260218152000 +0700" channel="COSMOTE Sport 4 HD">
@@ -250,8 +250,8 @@
     <title>Pick n&#039; Roll</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260218121500 +0700" stop="20260218134500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>DTM 2025</title>
+<programme start="20260219142000 +0700" stop="20260219161500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Andorra - Valencia Basket Club</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260218134500 +0700" stop="20260218143500 +0700" channel="COSMOTE Sport 5 HD">
@@ -340,6 +340,14 @@
 </programme>
 <programme start="20260219124000 +0700" stop="20260219140000 +0700" channel="COSMOTE Sport 5 HD">
     <title>DTM 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260219140000 +0700" stop="20260219143000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>FIA Championship Middle East 2026</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260219143000 +0700" stop="20260219152000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260218123000 +0700" stop="20260218150000 +0700" channel="COSMOTE Sport 6 HD">

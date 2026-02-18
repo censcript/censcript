@@ -3133,7 +3133,7 @@
 <programme start="20260218223000 +0000" stop="20260219003000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: Wolverhampton Wanderers - FC Arsenal, vorgezogenes Spiel vom 31. Spieltag</title>
 </programme>
-<programme start="20260218023000 +0000" stop="20260218043000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260218033000 +0000" stop="20260218043000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: B. Shelton (USA) - T. Fritz (USA), Dallas Open in Dallas (USA), Finale</title>
 </programme>
 <programme start="20260218043000 +0000" stop="20260218053000 +0000" channel="Sky Sport Tennis HD.skyde">
