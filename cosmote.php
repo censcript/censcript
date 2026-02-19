@@ -114,8 +114,8 @@
     <title>Football: Panetolikos - Asteras Aktor</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260219111000 +0700" stop="20260219131000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Gil Vicente - SC Braga</title>
+<programme start="20260220140500 +0700" stop="20260220160000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Cagliari - Lecce</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260219131000 +0700" stop="20260219151000 +0700" channel="COSMOTE Sport 3 HD">
@@ -182,8 +182,12 @@
     <title>William Hill Scottish Premiership - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260219110000 +0700" stop="20260219130500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Unicaja - Real Madrid</title>
+<programme start="20260220141000 +0700" stop="20260220144500 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Sports Classics: Ultimate Rush S1 E16</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260220144500 +0700" stop="20260220150000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Sports Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260219130500 +0700" stop="20260219142000 +0700" channel="COSMOTE Sport 4 HD">
@@ -244,10 +248,6 @@
 </programme>
 <programme start="20260220131500 +0700" stop="20260220152000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Turk Telekom - Fenerbahce</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260219124000 +0700" stop="20260219140000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>DTM 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260219140000 +0700" stop="20260219143000 +0700" channel="COSMOTE Sport 5 HD">
@@ -354,6 +354,14 @@
     <title>DTM</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260220140500 +0700" stop="20260220145500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>2025 GT World Challenge Europe</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260220145500 +0700" stop="20260220155500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC 2026</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260219110000 +0700" stop="20260219150000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP 500 2026</title>
     <desc>Live: Tidak</desc>
@@ -367,19 +375,19 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260219190000 +0700" stop="20260219210000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: ATP 500 2026 (L)</title>
+    <title>Tennis: Stefanos Tsitsipas - Andrey Rublev (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20260219210000 +0700" stop="20260219233000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: ATP 500 2026 (L)</title>
+    <title>Tennis: Jiri Lehecka - Arthur Fils (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20260219233000 +0700" stop="20260220013000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: ATP 500 2026 (L)</title>
+    <title>Tennis: Carlos Alcaraz - Karen Khachanov (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20260220013000 +0700" stop="20260220040000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: ATP 500 2026 (L)</title>
+    <title>Tennis: Jakub Mensik - Jannik Sinner (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20260220040000 +0700" stop="20260220043000 +0700" channel="COSMOTE Sport 6 HD">

@@ -2317,7 +2317,7 @@
     <programme start="20260219140000 +0000" stop="20260219160000 +0000" channel="Cinema One Global.starhub">
         <title>Agent X44</title>
     </programme>
-    <programme start="20260218143000 +0000" stop="20260218163000 +0000" channel="Hub Sports 2 HD.starhub">
+    <programme start="20260218143300 +0000" stop="20260218163000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>R4: Aston Villa vs Newcastle United</title>
     </programme>
     <programme start="20260218163000 +0000" stop="20260218203000 +0000" channel="Hub Sports 2 HD.starhub">
