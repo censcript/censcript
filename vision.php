@@ -727,9 +727,6 @@
 <programme start="20260219111000 +0000" stop="20260219113000 +0000" channel="ANTV.vision">
 <title>Sepiring Berduet</title>
 </programme>
-<programme start="20260219153000 +0000" stop="20260219173000 +0000" channel="ANTV.vision">
-<title>Masuk Kena Keluar Kena</title>
-</programme>
 <programme start="20260219173000 +0000" stop="20260219193000 +0000" channel="ANTV.vision">
 <title>Brave</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20260219150000 +0000" stop="20260219160000 +0000" channel="BTV.vision">
 <title>Berita Satu Malam</title>
+</programme>
+<programme start="20260219160000 +0000" stop="20260219170000 +0000" channel="BTV.vision">
+<title>Generali Hexagon Cup 2026</title>
 </programme>

@@ -1946,7 +1946,7 @@
         <title>UEFA Europa League 2025/26: Celtic vs Stuttgart - KO Play-Offs,1st Leg</title>
     </programme>
     <programme start="20260220091000 +0000" stop="20260220110000 +0000" channel="beIN Sports 3.starhub">
-        <title>UEFA Conference League 2025/26: Zrinjski vs Crystal Palace - KO Play-Offs,1st Le</title>
+        <title>UEFA Conference League 2025/26: Zrinjski vs Crystal Palace - KO Play-Offs,1st Leg</title>
     </programme>
     <programme start="20260220110000 +0000" stop="20260220120000 +0000" channel="beIN Sports 3.starhub">
         <title>Knockout RD Play-Offs,1st Leg</title>
@@ -3137,7 +3137,7 @@
         <title>EU-India trade agreement: consequences for the economy</title>
     </programme>
     <programme start="20260219193000 +0000" stop="20260219200000 +0000" channel="DW English HD.starhub">
-        <title>International Debate from Berlin</title>
+        <title>US-Military pressure on Iran: Is a regime change the real goal?</title>
     </programme>
     <programme start="20260219200000 +0000" stop="20260219203000 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3161,7 +3161,7 @@
         <title>News in Review</title>
     </programme>
     <programme start="20260219223000 +0000" stop="20260219230000 +0000" channel="DW English HD.starhub">
-        <title>International Debate from Berlin</title>
+        <title>US-Military pressure on Iran: Is a regime change the real goal?</title>
     </programme>
     <programme start="20260219230000 +0000" stop="20260219231500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3170,7 +3170,7 @@
         <title>Inside the $200 million black market for...SEA CUCUMBERS?!</title>
     </programme>
     <programme start="20260219233000 +0000" stop="20260220000000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW Podcasts</title>
+        <title>Don&#039;t hold back: 5 Things You Need to Know Before You Turn 35</title>
     </programme>
     <programme start="20260220000000 +0000" stop="20260220000200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3179,7 +3179,7 @@
         <title>News in Review</title>
     </programme>
     <programme start="20260220003000 +0000" stop="20260220010000 +0000" channel="DW English HD.starhub">
-        <title>International Debate from Berlin</title>
+        <title>US-Military pressure on Iran: Is a regime change the real goal?</title>
     </programme>
     <programme start="20260220010000 +0000" stop="20260220011500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3227,7 +3227,7 @@
         <title>Inside the $200 million black market for...SEA CUCUMBERS?!</title>
     </programme>
     <programme start="20260220063000 +0000" stop="20260220070000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW Podcasts</title>
+        <title>Don&#039;t hold back: 5 Things You Need to Know Before You Turn 35</title>
     </programme>
     <programme start="20260220070000 +0000" stop="20260220071500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3257,7 +3257,7 @@
         <title>Motherhood</title>
     </programme>
     <programme start="20260220103000 +0000" stop="20260220110000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW Podcasts</title>
+        <title>Don&#039;t hold back: 5 Things You Need to Know Before You Turn 35</title>
     </programme>
     <programme start="20260220110000 +0000" stop="20260220111500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3266,7 +3266,7 @@
         <title>Vision 2050 - Children of Bamboo</title>
     </programme>
     <programme start="20260220113000 +0000" stop="20260220120000 +0000" channel="DW English HD.starhub">
-        <title>International Debate from Berlin</title>
+        <title>US-Military pressure on Iran: Is a regime change the real goal?</title>
     </programme>
     <programme start="20260220120000 +0000" stop="20260220121500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3290,7 +3290,7 @@
         <title>Motherhood</title>
     </programme>
     <programme start="20260220143000 +0000" stop="20260220150000 +0000" channel="DW English HD.starhub">
-        <title>The Environment Magazine</title>
+        <title>When nature faces crisis, we step in</title>
     </programme>
     <programme start="20260220150000 +0000" stop="20260220151500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3299,7 +3299,7 @@
         <title>Crete in the off-season</title>
     </programme>
     <programme start="20260220153000 +0000" stop="20260220160000 +0000" channel="DW English HD.starhub">
-        <title>International Debate from Berlin</title>
+        <title>US-Military pressure on Iran: Is a regime change the real goal?</title>
     </programme>
     <programme start="20260219160000 +0000" stop="20260219220000 +0000" channel="Preview Channel.starhub">
         <title>Preview Channel</title>
@@ -3860,7 +3860,7 @@
         <title>News Around Japan</title>
     </programme>
     <programme start="20260220050000 +0000" stop="20260220063000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Live from Japan&#039;s Diet: Prime Minister&#039;s Policy Speech (End time subject to chan</title>
+        <title>Live from Japan&#039;s Diet: Prime Minister&#039;s Policy Speech (End time subject to change.)</title>
     </programme>
     <programme start="20260220063000 +0000" stop="20260220071300 +0000" channel="NHK World Premium HD.starhub">
         <title>Tohoku Local Information (R)</title>
