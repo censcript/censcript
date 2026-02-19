@@ -494,7 +494,7 @@
     <title>Drawing Diary</title>
 </programme>
 <programme start="20260219005000 +0000" stop="20260219010000 +0000" channel="Arirang.mncvision">
-    <title>Heritage Walks, Little Friend</title>
+    <title>Heritage Walks With Friend</title>
 </programme>
 <programme start="20260219010000 +0000" stop="20260219013000 +0000" channel="Arirang.mncvision">
     <title>New Day At Arirang</title>
@@ -527,7 +527,7 @@
     <title>Drawing Diary</title>
 </programme>
 <programme start="20260219065000 +0000" stop="20260219070000 +0000" channel="Arirang.mncvision">
-    <title>Heritage Walks, Little Friend</title>
+    <title>Heritage Walks With Friend</title>
 </programme>
 <programme start="20260219070000 +0000" stop="20260219070500 +0000" channel="Arirang.mncvision">
     <title>AI Headline News</title>
@@ -4363,123 +4363,8 @@
 <programme start="20260219164000 +0000" stop="20260218171000 +0000" channel="History.mncvision">
     <title>How Disney Built America, Ep 3</title>
 </programme>
-<programme start="20260218170000 +0000" stop="20260218180000 +0000" channel="HITS.mncvision">
-    <title>The Waltons S3, Ep 3</title>
-</programme>
-<programme start="20260218180000 +0000" stop="20260218190000 +0000" channel="HITS.mncvision">
-    <title>The New Adventures Of..., Ep 6</title>
-</programme>
-<programme start="20260218190000 +0000" stop="20260218200000 +0000" channel="HITS.mncvision">
-    <title>A. Christie&#039;s Poirot S5, Ep 2</title>
-</programme>
-<programme start="20260218200000 +0000" stop="20260218210000 +0000" channel="HITS.mncvision">
-    <title>Xena: Warrior... S1, Ep 16</title>
-</programme>
-<programme start="20260218210000 +0000" stop="20260218220000 +0000" channel="HITS.mncvision">
-    <title>The Waltons S3, Ep 3</title>
-</programme>
-<programme start="20260218220000 +0000" stop="20260218230000 +0000" channel="HITS.mncvision">
-    <title>A. Christie&#039;s Poirot S5, Ep 2</title>
-</programme>
-<programme start="20260218230000 +0000" stop="20260218233000 +0000" channel="HITS.mncvision">
-    <title>I Dream Of Jeannie S4, Ep 25</title>
-</programme>
-<programme start="20260218233000 +0000" stop="20260219003000 +0000" channel="HITS.mncvision">
-    <title>Mission: Impossible S1, Ep 18</title>
-</programme>
-<programme start="20260219003000 +0000" stop="20260219013000 +0000" channel="HITS.mncvision">
-    <title>Mission: Impossible S1, Ep 19</title>
-</programme>
-<programme start="20260219013000 +0000" stop="20260219023000 +0000" channel="HITS.mncvision">
-    <title>Xena: Warrior... S1, Ep 16</title>
-</programme>
-<programme start="20260219023000 +0000" stop="20260219033000 +0000" channel="HITS.mncvision">
-    <title>The Waltons S3, Ep 3</title>
-</programme>
-<programme start="20260219033000 +0000" stop="20260219040000 +0000" channel="HITS.mncvision">
-    <title>The Jeffersons S5, Ep 18</title>
-</programme>
-<programme start="20260219040000 +0000" stop="20260219043000 +0000" channel="HITS.mncvision">
-    <title>Frasier S3, Ep 19</title>
-</programme>
-<programme start="20260219043000 +0000" stop="20260219053000 +0000" channel="HITS.mncvision">
-    <title>The New Adventures Of..., Ep 6</title>
-</programme>
-<programme start="20260219053000 +0000" stop="20260219063000 +0000" channel="HITS.mncvision">
-    <title>A. Christie&#039;s Poirot S5, Ep 2</title>
-</programme>
-<programme start="20260219063000 +0000" stop="20260219070000 +0000" channel="HITS.mncvision">
-    <title>I Dream Of Jeannie S4, Ep 26</title>
-</programme>
-<programme start="20260219070000 +0000" stop="20260219080000 +0000" channel="HITS.mncvision">
-    <title>Mission: Impossible S1, Ep 20</title>
-</programme>
-<programme start="20260219080000 +0000" stop="20260219090000 +0000" channel="HITS.mncvision">
-    <title>Mission: Impossible S1, Ep 21</title>
-</programme>
-<programme start="20260219090000 +0000" stop="20260219100000 +0000" channel="HITS.mncvision">
-    <title>The New Adventures Of..., Ep 6</title>
-</programme>
-<programme start="20260219100000 +0000" stop="20260219103000 +0000" channel="HITS.mncvision">
-    <title>The Jeffersons S5, Ep 18</title>
-</programme>
-<programme start="20260219103000 +0000" stop="20260219110000 +0000" channel="HITS.mncvision">
-    <title>Frasier S3, Ep 19</title>
-</programme>
-<programme start="20260219110000 +0000" stop="20260219120000 +0000" channel="HITS.mncvision">
-    <title>Xena: Warrior... S1, Ep 17</title>
-</programme>
-<programme start="20260219120000 +0000" stop="20260219123000 +0000" channel="HITS.mncvision">
-    <title>The Jeffersons S6, Ep 19</title>
-</programme>
-<programme start="20260219123000 +0000" stop="20260219130000 +0000" channel="HITS.mncvision">
-    <title>Frasier S3, Ep 20</title>
-</programme>
-<programme start="20260219130000 +0000" stop="20260219140000 +0000" channel="HITS.mncvision">
-    <title>The New Adventures Of..., Ep 7</title>
-</programme>
-<programme start="20260219140000 +0000" stop="20260219150000 +0000" channel="HITS.mncvision">
-    <title>The Waltons S3, Ep 4</title>
-</programme>
-<programme start="20260219150000 +0000" stop="20260219160000 +0000" channel="HITS.mncvision">
-    <title>A. Christie&#039;s Poirot S5, Ep 3</title>
-</programme>
-<programme start="20260219160000 +0000" stop="20260219163000 +0000" channel="HITS.mncvision">
-    <title>The Jeffersons S6, Ep 19</title>
-</programme>
-<programme start="20260219163000 +0000" stop="20260218170000 +0000" channel="HITS.mncvision">
-    <title>Frasier S3, Ep 20</title>
-</programme>
-<programme start="20260218181500 +0000" stop="20260218210000 +0000" channel="HITS MOVIES.mncvision">
-    <title>Apollo 13</title>
-</programme>
-<programme start="20260218210000 +0000" stop="20260218230000 +0000" channel="HITS MOVIES.mncvision">
-    <title>Armour Of God</title>
-</programme>
-<programme start="20260218230000 +0000" stop="20260219011500 +0000" channel="HITS MOVIES.mncvision">
-    <title>Rocky 2</title>
-</programme>
-<programme start="20260219011500 +0000" stop="20260219034500 +0000" channel="HITS MOVIES.mncvision">
-    <title>Apollo 13</title>
-</programme>
-<programme start="20260219034500 +0000" stop="20260219054500 +0000" channel="HITS MOVIES.mncvision">
-    <title>Armour Of God</title>
-</programme>
-<programme start="20260219054500 +0000" stop="20260219080000 +0000" channel="HITS MOVIES.mncvision">
-    <title>Rocky 2</title>
-</programme>
-<programme start="20260219080000 +0000" stop="20260219100000 +0000" channel="HITS MOVIES.mncvision">
-    <title>Police Story</title>
-</programme>
-<programme start="20260219100000 +0000" stop="20260219120000 +0000" channel="HITS MOVIES.mncvision">
-    <title>Rocky 3</title>
-</programme>
-<programme start="20260219120000 +0000" stop="20260219143000 +0000" channel="HITS MOVIES.mncvision">
-    <title>Valentine&#039;s Day</title>
-</programme>
-<programme start="20260219143000 +0000" stop="20260219150000 +0000" channel="HITS MOVIES.mncvision">
-    <title>Thoroughly Modern Millie</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260218181500 +0000" stop="20260218210000 +0000" channel="HITS MOVIES HD.mncvision">
     <title>Apollo 13</title>
 </programme>
@@ -4732,84 +4617,8 @@
 <programme start="20260219160000 +0000" stop="20260219163000 +0000" channel="IMC.mncvision">
     <title>Pengantin Pantai Biru</title>
 </programme>
-<programme start="20260218190000 +0000" stop="20260218223000 +0000" channel="Indosiar.mncvision">
-    <title>AKSI 2026</title>
-</programme>
-<programme start="20260218223000 +0000" stop="20260219003000 +0000" channel="Indosiar.mncvision">
-    <title>Merangkai Kisah Indah</title>
-</programme>
-<programme start="20260219003000 +0000" stop="20260219013000 +0000" channel="Indosiar.mncvision">
-    <title>Fokus Pagi</title>
-</programme>
-<programme start="20260219013000 +0000" stop="20260219030000 +0000" channel="Indosiar.mncvision">
-    <title>Kisah Nyata Pagi</title>
-</programme>
-<programme start="20260219030000 +0000" stop="20260219040000 +0000" channel="Indosiar.mncvision">
-    <title>Hot Kiss</title>
-</programme>
-<programme start="20260219040000 +0000" stop="20260219043000 +0000" channel="Indosiar.mncvision">
-    <title>Patroli Siang</title>
-</programme>
-<programme start="20260219043000 +0000" stop="20260219050000 +0000" channel="Indosiar.mncvision">
-    <title>Fokus Siang</title>
-</programme>
-<programme start="20260219050000 +0000" stop="20260219070000 +0000" channel="Indosiar.mncvision">
-    <title>Kisah Nyata Siang</title>
-</programme>
-<programme start="20260219070000 +0000" stop="20260219083000 +0000" channel="Indosiar.mncvision">
-    <title>Kisah Nyata</title>
-</programme>
-<programme start="20260219083000 +0000" stop="20260219103000 +0000" channel="Indosiar.mncvision">
-    <title>Kisah Nyata Spesial</title>
-</programme>
-<programme start="20260219103000 +0000" stop="20260219110000 +0000" channel="Indosiar.mncvision">
-    <title>Shihab &amp; Shihab 2026</title>
-</programme>
-<programme start="20260219110000 +0000" stop="20260219130000 +0000" channel="Indosiar.mncvision">
-    <title>Merangkai Kisah Indah</title>
-</programme>
-<programme start="20260219130000 +0000" stop="20260219133000 +0000" channel="Indosiar.mncvision">
-    <title>D&#039;Academy S7</title>
-</programme>
-<programme start="20260218190000 +0000" stop="20260218223000 +0000" channel="Indosiar HD.mncvision">
-    <title>AKSI 2026</title>
-</programme>
-<programme start="20260218223000 +0000" stop="20260219003000 +0000" channel="Indosiar HD.mncvision">
-    <title>Merangkai Kisah Indah</title>
-</programme>
-<programme start="20260219003000 +0000" stop="20260219013000 +0000" channel="Indosiar HD.mncvision">
-    <title>Fokus Pagi</title>
-</programme>
-<programme start="20260219013000 +0000" stop="20260219030000 +0000" channel="Indosiar HD.mncvision">
-    <title>Kisah Nyata Pagi</title>
-</programme>
-<programme start="20260219030000 +0000" stop="20260219040000 +0000" channel="Indosiar HD.mncvision">
-    <title>Hot Kiss</title>
-</programme>
-<programme start="20260219040000 +0000" stop="20260219043000 +0000" channel="Indosiar HD.mncvision">
-    <title>Patroli Siang</title>
-</programme>
-<programme start="20260219043000 +0000" stop="20260219050000 +0000" channel="Indosiar HD.mncvision">
-    <title>Fokus Siang</title>
-</programme>
-<programme start="20260219050000 +0000" stop="20260219070000 +0000" channel="Indosiar HD.mncvision">
-    <title>Kisah Nyata Siang</title>
-</programme>
-<programme start="20260219070000 +0000" stop="20260219083000 +0000" channel="Indosiar HD.mncvision">
-    <title>Kisah Nyata</title>
-</programme>
-<programme start="20260219083000 +0000" stop="20260219103000 +0000" channel="Indosiar HD.mncvision">
-    <title>Kisah Nyata Spesial</title>
-</programme>
-<programme start="20260219103000 +0000" stop="20260219110000 +0000" channel="Indosiar HD.mncvision">
-    <title>Shihab &amp; Shihab 2026</title>
-</programme>
-<programme start="20260219110000 +0000" stop="20260219130000 +0000" channel="Indosiar HD.mncvision">
-    <title>Merangkai Kisah Indah</title>
-</programme>
-<programme start="20260219130000 +0000" stop="20260219133000 +0000" channel="Indosiar HD.mncvision">
-    <title>D&#039;Academy S7</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260218170000 +0000" stop="20260218183000 +0000" channel="iNews.mncvision">
     <title>SEA Games 2021: PHI Vs IDN</title>
 </programme>
@@ -5141,10 +4950,10 @@
     <title>Thomas &amp; Friends S20</title>
 </programme>
 <programme start="20260219043000 +0000" stop="20260219050000 +0000" channel="Kids TV.mncvision">
-    <title>PAW Patrol S3</title>
+    <title>Entong Animasi</title>
 </programme>
 <programme start="20260219050000 +0000" stop="20260219053000 +0000" channel="Kids TV.mncvision">
-    <title>Entong Animasi</title>
+    <title>PAW Patrol S3</title>
 </programme>
 <programme start="20260219053000 +0000" stop="20260219060000 +0000" channel="Kids TV.mncvision">
     <title>Dora S2</title>
@@ -5249,10 +5058,10 @@
     <title>Thomas &amp; Friends S20</title>
 </programme>
 <programme start="20260219043000 +0000" stop="20260219050000 +0000" channel="Kids TV HD.mncvision">
-    <title>PAW Patrol S3</title>
+    <title>Entong Animasi</title>
 </programme>
 <programme start="20260219050000 +0000" stop="20260219053000 +0000" channel="Kids TV HD.mncvision">
-    <title>Entong Animasi</title>
+    <title>PAW Patrol S3</title>
 </programme>
 <programme start="20260219053000 +0000" stop="20260219060000 +0000" channel="Kids TV HD.mncvision">
     <title>Dora S2</title>
@@ -7438,288 +7247,9 @@
 <programme start="20260219153600 +0000" stop="20260219160600 +0000" channel="ORIGINALS HD.mncvision">
     <title>Unplugging</title>
 </programme>
-<programme start="20260218170000 +0000" stop="20260218173000 +0000" channel="Outdoor Channel.mncvision">
-    <title>Dropped S3, Ep 7</title>
-</programme>
-<programme start="20260218173000 +0000" stop="20260218180000 +0000" channel="Outdoor Channel.mncvision">
-    <title>Dropped S3, Ep 8</title>
-</programme>
-<programme start="20260218180000 +0000" stop="20260218190000 +0000" channel="Outdoor Channel.mncvision">
-    <title>Running Wild S4, Ep 2</title>
-</programme>
-<programme start="20260218190000 +0000" stop="20260218193000 +0000" channel="Outdoor Channel.mncvision">
-    <title>Sara&#039;s Australia Unveiled, Ep 1</title>
-</programme>
-<programme start="20260218193000 +0000" stop="20260218200000 +0000" channel="Outdoor Channel.mncvision">
-    <title>Sara&#039;s Australia Unveiled, Ep 2</title>
-</programme>
-<programme start="20260218200000 +0000" stop="20260218203000 +0000" channel="Outdoor Channel.mncvision">
-    <title>Dead Meat S6, Ep 1</title>
-</programme>
-<programme start="20260218203000 +0000" stop="20260218210000 +0000" channel="Outdoor Channel.mncvision">
-    <title>Dead Meat S6, Ep 2</title>
-</programme>
-<programme start="20260218210000 +0000" stop="20260218220000 +0000" channel="Outdoor Channel.mncvision">
-    <title>Attenborough: A Life On Earth</title>
-</programme>
-<programme start="20260218220000 +0000" stop="20260218223000 +0000" channel="Outdoor Channel.mncvision">
-    <title>Yukon For Sale S1, Ep 3</title>
-</programme>
-<programme start="20260218223000 +0000" stop="20260218230000 +0000" channel="Outdoor Channel.mncvision">
-    <title>Yukon For Sale S1, Ep 4</title>
-</programme>
-<programme start="20260218230000 +0000" stop="20260218233000 +0000" channel="Outdoor Channel.mncvision">
-    <title>Dropped S3, Ep 7</title>
-</programme>
-<programme start="20260218233000 +0000" stop="20260219000000 +0000" channel="Outdoor Channel.mncvision">
-    <title>Dropped S3, Ep 8</title>
-</programme>
-<programme start="20260219000000 +0000" stop="20260219010000 +0000" channel="Outdoor Channel.mncvision">
-    <title>Running Wild S4, Ep 2</title>
-</programme>
-<programme start="20260219010000 +0000" stop="20260219013000 +0000" channel="Outdoor Channel.mncvision">
-    <title>Sara&#039;s Australia Unveiled, Ep 1</title>
-</programme>
-<programme start="20260219013000 +0000" stop="20260219020000 +0000" channel="Outdoor Channel.mncvision">
-    <title>Sara&#039;s Australia Unveiled, Ep 2</title>
-</programme>
-<programme start="20260219020000 +0000" stop="20260219023000 +0000" channel="Outdoor Channel.mncvision">
-    <title>Dead Meat S6, Ep 1</title>
-</programme>
-<programme start="20260219023000 +0000" stop="20260219030000 +0000" channel="Outdoor Channel.mncvision">
-    <title>Dead Meat S6, Ep 2</title>
-</programme>
-<programme start="20260219030000 +0000" stop="20260219040000 +0000" channel="Outdoor Channel.mncvision">
-    <title>Attenborough: A Life On Earth</title>
-</programme>
-<programme start="20260219040000 +0000" stop="20260219043000 +0000" channel="Outdoor Channel.mncvision">
-    <title>Yukon For Sale S1, Ep 3</title>
-</programme>
-<programme start="20260219043000 +0000" stop="20260219050000 +0000" channel="Outdoor Channel.mncvision">
-    <title>Yukon For Sale S1, Ep 4</title>
-</programme>
-<programme start="20260219050000 +0000" stop="20260219053000 +0000" channel="Outdoor Channel.mncvision">
-    <title>Dropped S3, Ep 7</title>
-</programme>
-<programme start="20260219053000 +0000" stop="20260219060000 +0000" channel="Outdoor Channel.mncvision">
-    <title>Dropped S3, Ep 8</title>
-</programme>
-<programme start="20260219060000 +0000" stop="20260219070000 +0000" channel="Outdoor Channel.mncvision">
-    <title>Running Wild S4, Ep 2</title>
-</programme>
-<programme start="20260219070000 +0000" stop="20260219073000 +0000" channel="Outdoor Channel.mncvision">
-    <title>Strangers In Danger S1, Ep 3</title>
-</programme>
-<programme start="20260219073000 +0000" stop="20260219080000 +0000" channel="Outdoor Channel.mncvision">
-    <title>Strangers In Danger S1, Ep 4</title>
-</programme>
-<programme start="20260219080000 +0000" stop="20260219083000 +0000" channel="Outdoor Channel.mncvision">
-    <title>Dead Meat S6, Ep 3</title>
-</programme>
-<programme start="20260219083000 +0000" stop="20260219090000 +0000" channel="Outdoor Channel.mncvision">
-    <title>Dead Meat S6, Ep 4</title>
-</programme>
-<programme start="20260219090000 +0000" stop="20260219100000 +0000" channel="Outdoor Channel.mncvision">
-    <title>Facing Forces Of Nature, Ep 6</title>
-</programme>
-<programme start="20260219100000 +0000" stop="20260219110000 +0000" channel="Outdoor Channel.mncvision">
-    <title>Down To Earth S2, Ep 5</title>
-</programme>
-<programme start="20260219110000 +0000" stop="20260219120000 +0000" channel="Outdoor Channel.mncvision">
-    <title>Down To Earth S2, Ep 6</title>
-</programme>
-<programme start="20260219120000 +0000" stop="20260219123000 +0000" channel="Outdoor Channel.mncvision">
-    <title>Croc College S1, Ep 3</title>
-</programme>
-<programme start="20260219123000 +0000" stop="20260219130000 +0000" channel="Outdoor Channel.mncvision">
-    <title>Croc College S1, Ep 4</title>
-</programme>
-<programme start="20260219130000 +0000" stop="20260219133000 +0000" channel="Outdoor Channel.mncvision">
-    <title>Strangers In Danger S1, Ep 3</title>
-</programme>
-<programme start="20260219133000 +0000" stop="20260219140000 +0000" channel="Outdoor Channel.mncvision">
-    <title>Strangers In Danger S1, Ep 4</title>
-</programme>
-<programme start="20260219140000 +0000" stop="20260219143000 +0000" channel="Outdoor Channel.mncvision">
-    <title>Dead Meat S6, Ep 3</title>
-</programme>
-<programme start="20260219143000 +0000" stop="20260219150000 +0000" channel="Outdoor Channel.mncvision">
-    <title>Dead Meat S6, Ep 4</title>
-</programme>
-<programme start="20260219150000 +0000" stop="20260219160000 +0000" channel="Outdoor Channel.mncvision">
-    <title>Facing Forces Of Nature, Ep 6</title>
-</programme>
-<programme start="20260219160000 +0000" stop="20260219163000 +0000" channel="Outdoor Channel.mncvision">
-    <title>Down To Earth S2, Ep 5</title>
-</programme>
-<programme start="20260218170000 +0000" stop="20260218173000 +0000" channel="Outdoor channel HD.mncvision">
-    <title>Dropped S3, Ep 7</title>
-</programme>
-<programme start="20260218173000 +0000" stop="20260218180000 +0000" channel="Outdoor channel HD.mncvision">
-    <title>Dropped S3, Ep 8</title>
-</programme>
-<programme start="20260218180000 +0000" stop="20260218190000 +0000" channel="Outdoor channel HD.mncvision">
-    <title>Running Wild S4, Ep 2</title>
-</programme>
-<programme start="20260218190000 +0000" stop="20260218193000 +0000" channel="Outdoor channel HD.mncvision">
-    <title>Sara&#039;s Australia Unveiled, Ep 1</title>
-</programme>
-<programme start="20260218193000 +0000" stop="20260218200000 +0000" channel="Outdoor channel HD.mncvision">
-    <title>Sara&#039;s Australia Unveiled, Ep 2</title>
-</programme>
-<programme start="20260218200000 +0000" stop="20260218203000 +0000" channel="Outdoor channel HD.mncvision">
-    <title>Dead Meat S6, Ep 1</title>
-</programme>
-<programme start="20260218203000 +0000" stop="20260218210000 +0000" channel="Outdoor channel HD.mncvision">
-    <title>Dead Meat S6, Ep 2</title>
-</programme>
-<programme start="20260218210000 +0000" stop="20260218220000 +0000" channel="Outdoor channel HD.mncvision">
-    <title>Attenborough: A Life On Earth</title>
-</programme>
-<programme start="20260218220000 +0000" stop="20260218223000 +0000" channel="Outdoor channel HD.mncvision">
-    <title>Yukon For Sale S1, Ep 3</title>
-</programme>
-<programme start="20260218223000 +0000" stop="20260218230000 +0000" channel="Outdoor channel HD.mncvision">
-    <title>Yukon For Sale S1, Ep 4</title>
-</programme>
-<programme start="20260218230000 +0000" stop="20260218233000 +0000" channel="Outdoor channel HD.mncvision">
-    <title>Dropped S3, Ep 7</title>
-</programme>
-<programme start="20260218233000 +0000" stop="20260219000000 +0000" channel="Outdoor channel HD.mncvision">
-    <title>Dropped S3, Ep 8</title>
-</programme>
-<programme start="20260219000000 +0000" stop="20260219010000 +0000" channel="Outdoor channel HD.mncvision">
-    <title>Running Wild S4, Ep 2</title>
-</programme>
-<programme start="20260219010000 +0000" stop="20260219013000 +0000" channel="Outdoor channel HD.mncvision">
-    <title>Sara&#039;s Australia Unveiled, Ep 1</title>
-</programme>
-<programme start="20260219013000 +0000" stop="20260219020000 +0000" channel="Outdoor channel HD.mncvision">
-    <title>Sara&#039;s Australia Unveiled, Ep 2</title>
-</programme>
-<programme start="20260219020000 +0000" stop="20260219023000 +0000" channel="Outdoor channel HD.mncvision">
-    <title>Dead Meat S6, Ep 1</title>
-</programme>
-<programme start="20260219023000 +0000" stop="20260219030000 +0000" channel="Outdoor channel HD.mncvision">
-    <title>Dead Meat S6, Ep 2</title>
-</programme>
-<programme start="20260219030000 +0000" stop="20260219040000 +0000" channel="Outdoor channel HD.mncvision">
-    <title>Attenborough: A Life On Earth</title>
-</programme>
-<programme start="20260219040000 +0000" stop="20260219043000 +0000" channel="Outdoor channel HD.mncvision">
-    <title>Yukon For Sale S1, Ep 3</title>
-</programme>
-<programme start="20260219043000 +0000" stop="20260219050000 +0000" channel="Outdoor channel HD.mncvision">
-    <title>Yukon For Sale S1, Ep 4</title>
-</programme>
-<programme start="20260219050000 +0000" stop="20260219053000 +0000" channel="Outdoor channel HD.mncvision">
-    <title>Dropped S3, Ep 7</title>
-</programme>
-<programme start="20260219053000 +0000" stop="20260219060000 +0000" channel="Outdoor channel HD.mncvision">
-    <title>Dropped S3, Ep 8</title>
-</programme>
-<programme start="20260219060000 +0000" stop="20260219070000 +0000" channel="Outdoor channel HD.mncvision">
-    <title>Running Wild S4, Ep 2</title>
-</programme>
-<programme start="20260219070000 +0000" stop="20260219073000 +0000" channel="Outdoor channel HD.mncvision">
-    <title>Strangers In Danger S1, Ep 3</title>
-</programme>
-<programme start="20260219073000 +0000" stop="20260219080000 +0000" channel="Outdoor channel HD.mncvision">
-    <title>Strangers In Danger S1, Ep 4</title>
-</programme>
-<programme start="20260219080000 +0000" stop="20260219083000 +0000" channel="Outdoor channel HD.mncvision">
-    <title>Dead Meat S6, Ep 3</title>
-</programme>
-<programme start="20260219083000 +0000" stop="20260219090000 +0000" channel="Outdoor channel HD.mncvision">
-    <title>Dead Meat S6, Ep 4</title>
-</programme>
-<programme start="20260219090000 +0000" stop="20260219100000 +0000" channel="Outdoor channel HD.mncvision">
-    <title>Facing Forces Of Nature, Ep 6</title>
-</programme>
-<programme start="20260219100000 +0000" stop="20260219110000 +0000" channel="Outdoor channel HD.mncvision">
-    <title>Down To Earth S2, Ep 5</title>
-</programme>
-<programme start="20260219110000 +0000" stop="20260219120000 +0000" channel="Outdoor channel HD.mncvision">
-    <title>Down To Earth S2, Ep 6</title>
-</programme>
-<programme start="20260219120000 +0000" stop="20260219123000 +0000" channel="Outdoor channel HD.mncvision">
-    <title>Croc College S1, Ep 3</title>
-</programme>
-<programme start="20260219123000 +0000" stop="20260219130000 +0000" channel="Outdoor channel HD.mncvision">
-    <title>Croc College S1, Ep 4</title>
-</programme>
-<programme start="20260219130000 +0000" stop="20260219133000 +0000" channel="Outdoor channel HD.mncvision">
-    <title>Strangers In Danger S1, Ep 3</title>
-</programme>
-<programme start="20260219133000 +0000" stop="20260219140000 +0000" channel="Outdoor channel HD.mncvision">
-    <title>Strangers In Danger S1, Ep 4</title>
-</programme>
-<programme start="20260219140000 +0000" stop="20260219143000 +0000" channel="Outdoor channel HD.mncvision">
-    <title>Dead Meat S6, Ep 3</title>
-</programme>
-<programme start="20260219143000 +0000" stop="20260219150000 +0000" channel="Outdoor channel HD.mncvision">
-    <title>Dead Meat S6, Ep 4</title>
-</programme>
-<programme start="20260219150000 +0000" stop="20260219160000 +0000" channel="Outdoor channel HD.mncvision">
-    <title>Facing Forces Of Nature, Ep 6</title>
-</programme>
-<programme start="20260219160000 +0000" stop="20260219163000 +0000" channel="Outdoor channel HD.mncvision">
-    <title>Down To Earth S2, Ep 5</title>
-</programme>
-<programme start="20260218180000 +0000" stop="20260218193000 +0000" channel="RCTI.mncvision">
-    <title>Preman Pensiun S2</title>
-</programme>
-<programme start="20260218193000 +0000" stop="20260218204500 +0000" channel="RCTI.mncvision">
-    <title>Amanah Wali S8</title>
-</programme>
-<programme start="20260218204500 +0000" stop="20260218223000 +0000" channel="RCTI.mncvision">
-    <title>Banyak Jalan Menuju Surga</title>
-</programme>
-<programme start="20260218223000 +0000" stop="20260218233000 +0000" channel="RCTI.mncvision">
-    <title>Penyejuk Hati</title>
-</programme>
-<programme start="20260218233000 +0000" stop="20260219000000 +0000" channel="RCTI.mncvision">
-    <title>Go Spot</title>
-</programme>
-<programme start="20260219000000 +0000" stop="20260219010000 +0000" channel="RCTI.mncvision">
-    <title>Upin Ipin</title>
-</programme>
-<programme start="20260219010000 +0000" stop="20260219020000 +0000" channel="RCTI.mncvision">
-    <title>Kiko</title>
-</programme>
-<programme start="20260219020000 +0000" stop="20260219033000 +0000" channel="RCTI.mncvision">
-    <title>Ninja Hattori</title>
-</programme>
-<programme start="20260219033000 +0000" stop="20260219043000 +0000" channel="RCTI.mncvision">
-    <title>Silet</title>
-</programme>
-<programme start="20260219043000 +0000" stop="20260219050000 +0000" channel="RCTI.mncvision">
-    <title>Seputar iNews Siang</title>
-</programme>
-<programme start="20260219050000 +0000" stop="20260219063000 +0000" channel="RCTI.mncvision">
-    <title>Entong</title>
-</programme>
-<programme start="20260219063000 +0000" stop="20260219083000 +0000" channel="RCTI.mncvision">
-    <title>Hafiz Indonesia 2026</title>
-</programme>
-<programme start="20260219083000 +0000" stop="20260219100000 +0000" channel="RCTI.mncvision">
-    <title>Banyak Jalan Menuju Surga</title>
-</programme>
-<programme start="20260219100000 +0000" stop="20260219111500 +0000" channel="RCTI.mncvision">
-    <title>Amanah Wali S8</title>
-</programme>
-<programme start="20260219111500 +0000" stop="20260219113000 +0000" channel="RCTI.mncvision">
-    <title>Jelang Berbuka</title>
-</programme>
-<programme start="20260219113000 +0000" stop="20260219130000 +0000" channel="RCTI.mncvision">
-    <title>99 Nama Cinta</title>
-</programme>
-<programme start="20260219130000 +0000" stop="20260219150000 +0000" channel="RCTI.mncvision">
-    <title>Mencintai Ipar Sendiri</title>
-</programme>
-<programme start="20260219150000 +0000" stop="20260219153000 +0000" channel="RCTI.mncvision">
-    <title>Double Trouble Mom Vs Me</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
+Error: Unable to fetch data. HTTP Status Code: 500
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260218180000 +0000" stop="20260218193000 +0000" channel="RCTI HD.mncvision">
     <title>Preman Pensiun S2</title>
 </programme>
@@ -7774,45 +7304,7 @@
 <programme start="20260219150000 +0000" stop="20260219153000 +0000" channel="RCTI HD.mncvision">
     <title>Double Trouble Mom Vs Me</title>
 </programme>
-<programme start="20260218182000 +0000" stop="20260218201000 +0000" channel="Rock Action.mncvision">
-    <title>Fist Of Legend</title>
-</programme>
-<programme start="20260218201000 +0000" stop="20260218215500 +0000" channel="Rock Action.mncvision">
-    <title>The Bodyguard From Beijing</title>
-</programme>
-<programme start="20260218215500 +0000" stop="20260218234000 +0000" channel="Rock Action.mncvision">
-    <title>Tai Chi Master</title>
-</programme>
-<programme start="20260218234000 +0000" stop="20260219015000 +0000" channel="Rock Action.mncvision">
-    <title>The Woman King</title>
-</programme>
-<programme start="20260219015000 +0000" stop="20260219033500 +0000" channel="Rock Action.mncvision">
-    <title>The Legend</title>
-</programme>
-<programme start="20260219033500 +0000" stop="20260219051000 +0000" channel="Rock Action.mncvision">
-    <title>The Legend 2</title>
-</programme>
-<programme start="20260219051000 +0000" stop="20260219065500 +0000" channel="Rock Action.mncvision">
-    <title>Dante&#039;s Peak</title>
-</programme>
-<programme start="20260219065500 +0000" stop="20260219084500 +0000" channel="Rock Action.mncvision">
-    <title>The Huntsman: Winter&#039;s War</title>
-</programme>
-<programme start="20260219084500 +0000" stop="20260219105500 +0000" channel="Rock Action.mncvision">
-    <title>The Woman King</title>
-</programme>
-<programme start="20260219105500 +0000" stop="20260219125500 +0000" channel="Rock Action.mncvision">
-    <title>3:10 To Yuma</title>
-</programme>
-<programme start="20260219125500 +0000" stop="20260219142500 +0000" channel="Rock Action.mncvision">
-    <title>Sea Wolf, Pt 1</title>
-</programme>
-<programme start="20260219142500 +0000" stop="20260219160000 +0000" channel="Rock Action.mncvision">
-    <title>Sea Wolf, Pt 2</title>
-</programme>
-<programme start="20260219160000 +0000" stop="20260219163000 +0000" channel="Rock Action.mncvision">
-    <title>The Legend</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260218172000 +0000" stop="20260218180500 +0000" channel="Rock Entertainment.mncvision">
     <title>Accident, Suicide... S6, Ep 1</title>
 </programme>

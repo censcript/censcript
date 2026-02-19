@@ -7331,7 +7331,7 @@
         <title>BBC News</title>
     </programme>
     <programme start="20260219003000 +0000" stop="20260219010000 +0000" channel="BBC World News HD.starhub">
-        <title>Newscast</title>
+        <title>Talking Business</title>
     </programme>
     <programme start="20260219010000 +0000" stop="20260219013000 +0000" channel="BBC World News HD.starhub">
         <title>BBC News</title>
@@ -7873,10 +7873,10 @@
     <programme start="20260219043000 +0000" stop="20260219073000 +0000" channel="Asianet Movies.starhub">
         <title>The Priest</title>
     </programme>
-    <programme start="20260219073000 +0000" stop="20260219103000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260219073000 +0000" stop="20260219103500 +0000" channel="Asianet Movies.starhub">
         <title>Swarna Kaduva</title>
     </programme>
-    <programme start="20260219103000 +0000" stop="20260219133000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260219103500 +0000" stop="20260219133000 +0000" channel="Asianet Movies.starhub">
         <title>Kilometers and Kilometers</title>
     </programme>
     <programme start="20260219133000 +0000" stop="20260219163000 +0000" channel="Asianet Movies.starhub">
