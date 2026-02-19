@@ -1425,10 +1425,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260219044000 +0000" stop="20260219050000 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
-<programme start="20260219050000 +0000" stop="20260219052000 +0000" channel="Nick Jr..skyde">
+<programme start="20260219050000 +0000" stop="20260219052500 +0000" channel="Nick Jr..skyde">
     <title>Blaze und die Monster-Maschinen</title>
 </programme>
-<programme start="20260219052000 +0000" stop="20260219054500 +0000" channel="Nick Jr..skyde">
+<programme start="20260219052500 +0000" stop="20260219054500 +0000" channel="Nick Jr..skyde">
     <title>Blaze und die Monster-Maschinen</title>
 </programme>
 <programme start="20260219054500 +0000" stop="20260219060500 +0000" channel="Nick Jr..skyde">
@@ -1611,49 +1611,46 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260219182000 +0000" stop="20260219182500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260219182500 +0000" stop="20260219183000 +0000" channel="Nick Jr..skyde">
+<programme start="20260219182500 +0000" stop="20260219183500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260219183000 +0000" stop="20260219185000 +0000" channel="Nick Jr..skyde">
+<programme start="20260219183500 +0000" stop="20260219185500 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260219185000 +0000" stop="20260219190000 +0000" channel="Nick Jr..skyde">
+<programme start="20260219185500 +0000" stop="20260219191000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260219190000 +0000" stop="20260219192500 +0000" channel="Nick Jr..skyde">
+<programme start="20260219191000 +0000" stop="20260219193000 +0000" channel="Nick Jr..skyde">
     <title>Blaze und die Monster-Maschinen</title>
 </programme>
-<programme start="20260219192500 +0000" stop="20260219194500 +0000" channel="Nick Jr..skyde">
+<programme start="20260219193000 +0000" stop="20260219195000 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20260219194500 +0000" stop="20260219200000 +0000" channel="Nick Jr..skyde">
+<programme start="20260219195000 +0000" stop="20260219200500 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20260219200000 +0000" stop="20260219202000 +0000" channel="Nick Jr..skyde">
+<programme start="20260219200500 +0000" stop="20260219202500 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20260219202000 +0000" stop="20260219204500 +0000" channel="Nick Jr..skyde">
+<programme start="20260219202500 +0000" stop="20260219205000 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20260219204500 +0000" stop="20260219210500 +0000" channel="Nick Jr..skyde">
+<programme start="20260219205000 +0000" stop="20260219211000 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
 </programme>
-<programme start="20260219210500 +0000" stop="20260219212500 +0000" channel="Nick Jr..skyde">
+<programme start="20260219211000 +0000" stop="20260219213000 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
 </programme>
-<programme start="20260219212500 +0000" stop="20260219215000 +0000" channel="Nick Jr..skyde">
+<programme start="20260219213000 +0000" stop="20260219215500 +0000" channel="Nick Jr..skyde">
     <title>Super-Duper-Hasen-Liga</title>
 </programme>
-<programme start="20260219215000 +0000" stop="20260219221000 +0000" channel="Nick Jr..skyde">
+<programme start="20260219215500 +0000" stop="20260219221500 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260219221000 +0000" stop="20260219223500 +0000" channel="Nick Jr..skyde">
+<programme start="20260219221500 +0000" stop="20260219224000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260219223500 +0000" stop="20260219225500 +0000" channel="Nick Jr..skyde">
-    <title>BARBAPAPA und Familie</title>
-</programme>
-<programme start="20260219225500 +0000" stop="20260219232000 +0000" channel="Nick Jr..skyde">
+<programme start="20260219224000 +0000" stop="20260219230000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
 <programme start="20260218231000 +0000" stop="20260219004000 +0000" channel="Romance TV HD.skyde">
@@ -2750,6 +2747,15 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 </programme>
 <programme start="20260219195000 +0000" stop="20260219223000 +0000" channel="Sky Sport Austria 7 HD.skyde">
     <title>Live UEFA ECL: FC Omonoia - HNK Rijeka, Knockout Play-offs, Hinspiel</title>
+</programme>
+<programme start="20260219171500 +0000" stop="20260219173500 +0000" channel="Sky Sport Austria 8 HD.skyde">
+    <title>Es folgt: LIVE UEFA Conference League</title>
+</programme>
+<programme start="20260219173500 +0000" stop="20260219195000 +0000" channel="Sky Sport Austria 8 HD.skyde">
+    <title>Live UEFA ECL: KuPS Kuopio - Lech Posen, Knockout Play-offs, Hinspiel</title>
+</programme>
+<programme start="20260219195000 +0000" stop="20260219223000 +0000" channel="Sky Sport Austria 8 HD.skyde">
+    <title>Live UEFA ECL: FC Drita - NK Celje, Knockout Play-offs, Hinspiel</title>
 </programme>
 <programme start="20260218230000 +0000" stop="20260218233000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>2. BL: Dein Zweitligatalk - HvK &amp; Tusche</title>
