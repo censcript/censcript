@@ -7937,16 +7937,16 @@
     <title>Asmara Gen Z</title>
 </programme>
 <programme start="20260219111500 +0000" stop="20260219130000 +0000" channel="SCTV.mncvision">
-    <title>Istiqomah Cinta</title>
+    <title>Ketika Cinta Memanggilmu</title>
 </programme>
 <programme start="20260219130000 +0000" stop="20260219143000 +0000" channel="SCTV.mncvision">
-    <title>Beri Cinta Waktu</title>
+    <title>Ikrar Cinta Suci</title>
 </programme>
 <programme start="20260219143000 +0000" stop="20260219160000 +0000" channel="SCTV.mncvision">
-    <title>Jejak Duka Diandra</title>
+    <title>Luka Cinta</title>
 </programme>
 <programme start="20260219160000 +0000" stop="20260219163000 +0000" channel="SCTV.mncvision">
-    <title>Proposal Cinta Untuk Clara</title>
+    <title>Office Girl Pembawa Cinta</title>
 </programme>
 <programme start="20260218171500 +0000" stop="20260218181500 +0000" channel="SCTV HD.mncvision">
     <title>Cinta Semanis Gemblong Ciawi</title>
@@ -7991,16 +7991,16 @@
     <title>Asmara Gen Z</title>
 </programme>
 <programme start="20260219111500 +0000" stop="20260219130000 +0000" channel="SCTV HD.mncvision">
-    <title>Istiqomah Cinta</title>
+    <title>Ketika Cinta Memanggilmu</title>
 </programme>
 <programme start="20260219130000 +0000" stop="20260219143000 +0000" channel="SCTV HD.mncvision">
-    <title>Beri Cinta Waktu</title>
+    <title>Ikrar Cinta Suci</title>
 </programme>
 <programme start="20260219143000 +0000" stop="20260219160000 +0000" channel="SCTV HD.mncvision">
-    <title>Jejak Duka Diandra</title>
+    <title>Luka Cinta</title>
 </programme>
 <programme start="20260219160000 +0000" stop="20260219163000 +0000" channel="SCTV HD.mncvision">
-    <title>Proposal Cinta Untuk Clara</title>
+    <title>Office Girl Pembawa Cinta</title>
 </programme>
 <programme start="20260218170000 +0000" stop="20260218173000 +0000" channel="Sindo News TV.mncvision">
     <title>iNews Sport</title>

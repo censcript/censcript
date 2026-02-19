@@ -3905,7 +3905,7 @@
         <title>News Watch 9 (B)</title>
     </programme>
     <programme start="20260219130000 +0000" stop="20260219143000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Relaxing Life on Remote Islands &quot;kudakajima, Okinawa; Kuchinoerabu-jima, Kagoshima;Megijima, Kagawa</title>
+        <title>Relaxing Life on Remote Islands &quot;kudakajima, Okinawa; Kuchinoerabu-jima, Kagoshi</title>
     </programme>
     <programme start="20260219143000 +0000" stop="20260219144000 +0000" channel="NHK World Premium HD.starhub">
         <title>The Great Nature 10min.</title>
