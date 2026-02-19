@@ -1,7 +1,3 @@
-<programme start="20260220030000 +0700" stop="20260220050500 +0700" channel="COSMOTE Sport 1 HD">
-    <title>European Football Minute by Minute 2025-26 (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
 <programme start="20260220050500 +0700" stop="20260220070500 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Panathinaikos - Viktoria Plzen</title>
     <desc>Live: Tidak</desc>
@@ -70,9 +66,9 @@
     <title>Game R1 S6 E26</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260220030000 +0700" stop="20260220050500 +0700" channel="COSMOTE Sport 2 HD">
-    <title>European Football Show Greek Edition 2025-26 (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20260221060000 +0700" stop="20260221080000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: GNK Dinamo - KRC Genk</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260220050500 +0700" stop="20260220073000 +0700" channel="COSMOTE Sport 2 HD">
     <title>European Football Show 2025 -26 (L)</title>
@@ -130,9 +126,9 @@
     <title>Football: KuPS Kuopio - Lech Poznan</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260220030000 +0700" stop="20260220050500 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Celtic FC - VfB Stuttgart (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20260221064500 +0700" stop="20260221084500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Sassuolo - Hellas Verona</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260220050500 +0700" stop="20260220070500 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: PAOK - Celta</title>
@@ -197,10 +193,6 @@
 <programme start="20260221050000 +0700" stop="20260221070000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: SK Sigma Olomouc - FC Lausanne</title>
     <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260220030000 +0700" stop="20260220050500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Football: Panathinaikos - Viktoria Plzen (L)</title>
-    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260220050500 +0700" stop="20260220071500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Turk Telekom - Fenerbahce</title>
@@ -272,10 +264,6 @@
 </programme>
 <programme start="20260221053000 +0700" stop="20260221073000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Baskonia - Tenerife</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260220050000 +0700" stop="20260220055000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>2025 GT World Challenge Europe</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260220055000 +0700" stop="20260220060500 +0700" channel="COSMOTE Sport 5 HD">
@@ -370,6 +358,14 @@
     <title>Highlights: 2025 Extreme H</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260221060000 +0700" stop="20260221063000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>FIA Championship Middle East 2026</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260221063000 +0700" stop="20260221072500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>DTM</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260220050000 +0700" stop="20260220073000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Joao Fonseca - Ignacio Buse (L)</title>
     <desc>Live: Ya</desc>
@@ -426,16 +422,8 @@
     <title>Topspin</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260220030000 +0700" stop="20260220050500 +0700" channel="COSMOTE Sport 7 HD">
-    <title>Football: Lille OSC - FK Crvena Zvezda (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20260220050500 +0700" stop="20260220053000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260220053000 +0700" stop="20260220060000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
+<programme start="20260221060000 +0700" stop="20260221100000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: ATP 500 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260220060000 +0700" stop="20260220070000 +0700" channel="COSMOTE Sport 7 HD">
@@ -494,16 +482,8 @@
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260220030000 +0700" stop="20260220050500 +0700" channel="COSMOTE Sport 8 HD">
-    <title>Football: PFC Ludogorets 1945 - Ferencvarosi TC (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20260220050500 +0700" stop="20260220053000 +0700" channel="COSMOTE Sport 8 HD">
-    <title>COSMOTESport8HD</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260220053000 +0700" stop="20260220060000 +0700" channel="COSMOTE Sport 8 HD">
-    <title>COSMOTESport8HD</title>
+<programme start="20260221061500 +0700" stop="20260221070000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260220060000 +0700" stop="20260220070000 +0700" channel="COSMOTE Sport 8 HD">
@@ -565,18 +545,6 @@
 <programme start="20260221050000 +0700" stop="20260221070000 +0700" channel="COSMOTE Sport 8 HD">
     <title>Tennis: ATP 500 2026 (L)</title>
     <desc>Live: Ya</desc>
-</programme>
-<programme start="20260220030000 +0700" stop="20260220050500 +0700" channel="COSMOTE Sport 9 HD">
-    <title>Football: Omonoia FC - Rijeka (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20260220050500 +0700" stop="20260220053000 +0700" channel="COSMOTE Sport 9 HD">
-    <title>COSMOTESport9HD</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260220053000 +0700" stop="20260220060000 +0700" channel="COSMOTE Sport 9 HD">
-    <title>COSMOTESport9HD</title>
-    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260220060000 +0700" stop="20260220070000 +0700" channel="COSMOTE Sport 9 HD">
     <title>COSMOTESport9HD</title>
