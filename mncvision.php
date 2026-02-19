@@ -5785,7 +5785,78 @@
 <programme start="20260219163500 +0000" stop="20260218170500 +0000" channel="Love Nature HD.mncvision">
     <title>New Kids In The Wild S2, Ep 2</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260218170000 +0000" stop="20260218183000 +0000" channel="MDTV.mncvision">
+    <title>Makan Enak</title>
+</programme>
+<programme start="20260218183000 +0000" stop="20260218193500 +0000" channel="MDTV.mncvision">
+    <title>Masak Gesss!!!</title>
+</programme>
+<programme start="20260218193500 +0000" stop="20260218203000 +0000" channel="MDTV.mncvision">
+    <title>Keluarga Yang Tak Dirindukan</title>
+</programme>
+<programme start="20260218203000 +0000" stop="20260218213000 +0000" channel="MDTV.mncvision">
+    <title>Dunia Tanpa Tuhan</title>
+</programme>
+<programme start="20260218213000 +0000" stop="20260218223500 +0000" channel="MDTV.mncvision">
+    <title>Keajaiban Dunia</title>
+</programme>
+<programme start="20260218223500 +0000" stop="20260218234500 +0000" channel="MDTV.mncvision">
+    <title>Top Spot</title>
+</programme>
+<programme start="20260218234500 +0000" stop="20260219010500 +0000" channel="MDTV.mncvision">
+    <title>AADD: Ada Apa Dengan Dunia</title>
+</programme>
+<programme start="20260219010500 +0000" stop="20260219020000 +0000" channel="MDTV.mncvision">
+    <title>Fakta +62</title>
+</programme>
+<programme start="20260219020000 +0000" stop="20260219030000 +0000" channel="MDTV.mncvision">
+    <title>SensasiHot</title>
+</programme>
+<programme start="20260219030000 +0000" stop="20260219041500 +0000" channel="MDTV.mncvision">
+    <title>Maria Cinta Yang Hilang</title>
+</programme>
+<programme start="20260219041500 +0000" stop="20260219052500 +0000" channel="MDTV.mncvision">
+    <title>Maria Mercedes</title>
+</programme>
+<programme start="20260219052500 +0000" stop="20260219070000 +0000" channel="MDTV.mncvision">
+    <title>Cinta Fitri S6</title>
+</programme>
+<programme start="20260219070000 +0000" stop="20260219080500 +0000" channel="MDTV.mncvision">
+    <title>Masak Gesss!!! Ramadan</title>
+</programme>
+<programme start="20260219080500 +0000" stop="20260219090500 +0000" channel="MDTV.mncvision">
+    <title>Adit Sopo Jarwo</title>
+</programme>
+<programme start="20260219090500 +0000" stop="20260219100000 +0000" channel="MDTV.mncvision">
+    <title>Cinta Paulina</title>
+</programme>
+<programme start="20260219100000 +0000" stop="20260219105500 +0000" channel="MDTV.mncvision">
+    <title>Esmeralda</title>
+</programme>
+<programme start="20260219105500 +0000" stop="20260219110800 +0000" channel="MDTV.mncvision">
+    <title>Dunia Tanpa Tuhan</title>
+</programme>
+<programme start="20260219110800 +0000" stop="20260219112400 +0000" channel="MDTV.mncvision">
+    <title>Rangkaian Berbuka</title>
+</programme>
+<programme start="20260219112400 +0000" stop="20260219120000 +0000" channel="MDTV.mncvision">
+    <title>Dunia Tanpa Tuhan</title>
+</programme>
+<programme start="20260219120000 +0000" stop="20260219130000 +0000" channel="MDTV.mncvision">
+    <title>Keluarga Yang Tak Dirindukan</title>
+</programme>
+<programme start="20260219130000 +0000" stop="20260219140500 +0000" channel="MDTV.mncvision">
+    <title>Pernikahan Dini Gen Z</title>
+</programme>
+<programme start="20260219140500 +0000" stop="20260219145500 +0000" channel="MDTV.mncvision">
+    <title>The Return Of Condor Heroes</title>
+</programme>
+<programme start="20260219145500 +0000" stop="20260219161000 +0000" channel="MDTV.mncvision">
+    <title>Jatanras</title>
+</programme>
+<programme start="20260219161000 +0000" stop="20260219164000 +0000" channel="MDTV.mncvision">
+    <title>86</title>
+</programme>
 <programme start="20260218170000 +0000" stop="20260218170500 +0000" channel="Metro TV.mncvision">
     <title>Headline News</title>
 </programme>
@@ -6200,7 +6271,6 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260219162600 +0000" stop="20260219165600 +0000" channel="Moonbug.mncvision">
     <title>CoComelon</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260218190000 +0000" stop="20260218193000 +0000" channel="Music TV.mncvision">
     <title>Kita Kepo</title>
 </programme>
@@ -7290,7 +7360,45 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260219154500 +0000" stop="20260219161500 +0000" channel="ONE HD.mncvision">
     <title>Bad Memory Eraser, Ep 9</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260218170000 +0000" stop="20260218183600 +0000" channel="ORIGINALS.mncvision">
+    <title>Take The Night</title>
+</programme>
+<programme start="20260218183600 +0000" stop="20260218195200 +0000" channel="ORIGINALS.mncvision">
+    <title>Adventures Of Rufus</title>
+</programme>
+<programme start="20260218195200 +0000" stop="20260218233200 +0000" channel="ORIGINALS.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20260218233200 +0000" stop="20260219014600 +0000" channel="ORIGINALS.mncvision">
+    <title>Gold</title>
+</programme>
+<programme start="20260219014600 +0000" stop="20260219032200 +0000" channel="ORIGINALS.mncvision">
+    <title>Aardvark</title>
+</programme>
+<programme start="20260219032200 +0000" stop="20260219043800 +0000" channel="ORIGINALS.mncvision">
+    <title>Midway To Heaven</title>
+</programme>
+<programme start="20260219043800 +0000" stop="20260219070100 +0000" channel="ORIGINALS.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20260219070100 +0000" stop="20260219085200 +0000" channel="ORIGINALS.mncvision">
+    <title>American Sicario</title>
+</programme>
+<programme start="20260219085200 +0000" stop="20260219103100 +0000" channel="ORIGINALS.mncvision">
+    <title>Gold</title>
+</programme>
+<programme start="20260219103100 +0000" stop="20260219121700 +0000" channel="ORIGINALS.mncvision">
+    <title>My Fatal Social Following</title>
+</programme>
+<programme start="20260219121700 +0000" stop="20260219134100 +0000" channel="ORIGINALS.mncvision">
+    <title>Full Out 2: You Got This!</title>
+</programme>
+<programme start="20260219134100 +0000" stop="20260219153600 +0000" channel="ORIGINALS.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20260219153600 +0000" stop="20260219160600 +0000" channel="ORIGINALS.mncvision">
+    <title>Unplugging</title>
+</programme>
 <programme start="20260218170000 +0000" stop="20260218183600 +0000" channel="ORIGINALS HD.mncvision">
     <title>Take The Night</title>
 </programme>
@@ -8641,7 +8749,51 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260219160000 +0000" stop="20260219163000 +0000" channel="SPOTV 2.mncvision">
     <title>A-League Men: MVC Vs BRI</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260218173000 +0000" stop="20260218180000 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>2025/26 ALM Mini Match</title>
+</programme>
+<programme start="20260218180000 +0000" stop="20260218193000 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>SailGP S6: ITM New Zealand</title>
+</programme>
+<programme start="20260218193000 +0000" stop="20260218213000 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>A-League Men: MVC Vs BRI</title>
+</programme>
+<programme start="20260218213000 +0000" stop="20260218224500 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>MotoGP Classic: 2013 Assen</title>
+</programme>
+<programme start="20260218224500 +0000" stop="20260218233000 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>MotoGP 2026 Team Presentation</title>
+</programme>
+<programme start="20260218233000 +0000" stop="20260219043000 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>2026 LIV Golf League, Riyadh</title>
+</programme>
+<programme start="20260219043000 +0000" stop="20260219073000 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>WTT Star Contender Chennai</title>
+</programme>
+<programme start="20260219073000 +0000" stop="20260219093000 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>WTT Star Contender Chennai</title>
+</programme>
+<programme start="20260219093000 +0000" stop="20260219104500 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>2026 LIV Golf League, Riyadh</title>
+</programme>
+<programme start="20260219104500 +0000" stop="20260219120000 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>MotoGP Classic: 2013 Assen</title>
+</programme>
+<programme start="20260219120000 +0000" stop="20260219140000 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>MotoGP Classic: 2015 Misano</title>
+</programme>
+<programme start="20260219140000 +0000" stop="20260219143000 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>PKNS Selangor Masters</title>
+</programme>
+<programme start="20260219143000 +0000" stop="20260219150000 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>2025/26 ALM Mini Match</title>
+</programme>
+<programme start="20260219150000 +0000" stop="20260219160000 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>2025/26 Asian Le Mans Dubai</title>
+</programme>
+<programme start="20260219160000 +0000" stop="20260219163000 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>A-League Men: MVC Vs BRI</title>
+</programme>
 <programme start="20260218170000 +0000" stop="20260218180000 +0000" channel="SPOTV HD.mncvision">
     <title>Formula E S12: Jeddah HL</title>
 </programme>

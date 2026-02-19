@@ -718,9 +718,6 @@
 <programme start="20260219003000 +0000" stop="20260219023000 +0000" channel="ANTV.vision">
 <title>Janji Inspektur Virat</title>
 </programme>
-<programme start="20260219023000 +0000" stop="20260219060000 +0000" channel="ANTV.vision">
-<title>Mujhse Dosti Karoge</title>
-</programme>
 <programme start="20260219060000 +0000" stop="20260219083000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -729,9 +726,6 @@
 </programme>
 <programme start="20260219111000 +0000" stop="20260219113000 +0000" channel="ANTV.vision">
 <title>Sepiring Berduet</title>
-</programme>
-<programme start="20260219113000 +0000" stop="20260219133000 +0000" channel="ANTV.vision">
-<title>Bajing Ireng &amp; Jaka Sembung</title>
 </programme>
 <programme start="20260219133000 +0000" stop="20260219153000 +0000" channel="ANTV.vision">
 <title>Malin Kundang</title>
@@ -1497,4 +1491,10 @@
 </programme>
 <programme start="20260219112600 +0000" stop="20260219130000 +0000" channel="BTV.vision">
 <title>Berita Satu Utama</title>
+</programme>
+<programme start="20260219130000 +0000" stop="20260219140000 +0000" channel="BTV.vision">
+<title>Spot On</title>
+</programme>
+<programme start="20260219140000 +0000" stop="20260219150000 +0000" channel="BTV.vision">
+<title>Berita Viral</title>
 </programme>
