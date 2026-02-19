@@ -718,6 +718,9 @@
 <programme start="20260219003000 +0000" stop="20260219023000 +0000" channel="ANTV.vision">
 <title>Janji Inspektur Virat</title>
 </programme>
+<programme start="20260219023000 +0000" stop="20260219060000 +0000" channel="ANTV.vision">
+<title>Mujhse Dosti Karoge</title>
+</programme>
 <programme start="20260219060000 +0000" stop="20260219083000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -1494,7 +1497,4 @@
 </programme>
 <programme start="20260219112600 +0000" stop="20260219130000 +0000" channel="BTV.vision">
 <title>Berita Satu Utama</title>
-</programme>
-<programme start="20260219130000 +0000" stop="20260219140000 +0000" channel="BTV.vision">
-<title>Spot On</title>
 </programme>
