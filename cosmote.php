@@ -62,6 +62,14 @@
     <title>UEFA Champions League Highlights 2025-26</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260221050000 +0700" stop="20260221053000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEFA Champions League Highlights 2025-26</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260221053000 +0700" stop="20260221060000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Game R1 S6 E26</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260220030000 +0700" stop="20260220050500 +0700" channel="COSMOTE Sport 2 HD">
     <title>European Football Show Greek Edition 2025-26 (L)</title>
     <desc>Live: Ya</desc>
@@ -186,6 +194,10 @@
     <title>Football: Blackburn Rovers - Preston North End (L)</title>
     <desc>Live: Ya</desc>
 </programme>
+<programme start="20260221050000 +0700" stop="20260221070000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: SK Sigma Olomouc - FC Lausanne</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260220030000 +0700" stop="20260220050500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Football: Panathinaikos - Viktoria Plzen (L)</title>
     <desc>Live: Ya</desc>
@@ -258,9 +270,9 @@
     <title>NBA Specials</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260220030000 +0700" stop="20260220050000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Basketball: Real Madrid - Unicaja (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20260221053000 +0700" stop="20260221073000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Baskonia - Tenerife</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260220050000 +0700" stop="20260220055000 +0700" channel="COSMOTE Sport 5 HD">
     <title>2025 GT World Challenge Europe</title>
@@ -354,12 +366,8 @@
     <title>Basketball: Barcelona - Murcia (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260220040000 +0700" stop="20260220043000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Sports Classics: 2025 Outdoor Specials</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260220043000 +0700" stop="20260220050000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Premier Padel Tour 2026 - Highlights</title>
+<programme start="20260221050000 +0700" stop="20260221060000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Highlights: 2025 Extreme H</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260220050000 +0700" stop="20260220073000 +0700" channel="COSMOTE Sport 6 HD">
@@ -482,6 +490,10 @@
     <title>Football: CF Estrela de Amadora - Tondela (L)</title>
     <desc>Live: Ya</desc>
 </programme>
+<programme start="20260221054500 +0700" stop="20260221061500 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260220030000 +0700" stop="20260220050500 +0700" channel="COSMOTE Sport 8 HD">
     <title>Football: PFC Ludogorets 1945 - Ferencvarosi TC (L)</title>
     <desc>Live: Ya</desc>
@@ -550,6 +562,10 @@
     <title>Tennis: ATP 500 2026 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
+<programme start="20260221050000 +0700" stop="20260221070000 +0700" channel="COSMOTE Sport 8 HD">
+    <title>Tennis: ATP 500 2026 (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
 <programme start="20260220030000 +0700" stop="20260220050500 +0700" channel="COSMOTE Sport 9 HD">
     <title>Football: Omonoia FC - Rijeka (L)</title>
     <desc>Live: Ya</desc>
@@ -607,6 +623,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260221030000 +0700" stop="20260221050000 +0700" channel="COSMOTE Sport 9 HD">
+    <title>COSMOTESport9HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260221050000 +0700" stop="20260221070000 +0700" channel="COSMOTE Sport 9 HD">
     <title>COSMOTESport9HD</title>
     <desc>Live: Tidak</desc>
 </programme>
