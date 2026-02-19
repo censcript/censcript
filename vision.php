@@ -652,9 +652,6 @@
 <programme start="20260219174500 +0000" stop="20260219183000 +0000" channel="Trans 7.vision">
 <title>Sport7</title>
 </programme>
-<programme start="20260219183000 +0000" stop="20260219190000 +0000" channel="Trans 7.vision">
-<title>Dracin</title>
-</programme>
 <programme start="20260219190000 +0000" stop="20260219193000 +0000" channel="Trans 7.vision">
 <title>Best Fishing</title>
 </programme>
@@ -718,9 +715,6 @@
 <programme start="20260219003000 +0000" stop="20260219023000 +0000" channel="ANTV.vision">
 <title>Janji Inspektur Virat</title>
 </programme>
-<programme start="20260219023000 +0000" stop="20260219060000 +0000" channel="ANTV.vision">
-<title>Mujhse Dosti Karoge</title>
-</programme>
 <programme start="20260219060000 +0000" stop="20260219083000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -729,18 +723,6 @@
 </programme>
 <programme start="20260219111000 +0000" stop="20260219113000 +0000" channel="ANTV.vision">
 <title>Sepiring Berduet</title>
-</programme>
-<programme start="20260219113000 +0000" stop="20260219133000 +0000" channel="ANTV.vision">
-<title>Bajing Ireng &amp; Jaka Sembung</title>
-</programme>
-<programme start="20260219133000 +0000" stop="20260219153000 +0000" channel="ANTV.vision">
-<title>Malin Kundang</title>
-</programme>
-<programme start="20260219153000 +0000" stop="20260219173000 +0000" channel="ANTV.vision">
-<title>Masuk Kena Keluar Kena</title>
-</programme>
-<programme start="20260219173000 +0000" stop="20260219193000 +0000" channel="ANTV.vision">
-<title>Brave</title>
 </programme>
 <programme start="20260219193000 +0000" stop="20260219213000 +0000" channel="ANTV.vision">
 <title>Senandung Cinta Lilis</title>
@@ -1497,4 +1479,22 @@
 </programme>
 <programme start="20260219112600 +0000" stop="20260219130000 +0000" channel="BTV.vision">
 <title>Berita Satu Utama</title>
+</programme>
+<programme start="20260219130000 +0000" stop="20260219140000 +0000" channel="BTV.vision">
+<title>Spot On</title>
+</programme>
+<programme start="20260219140000 +0000" stop="20260219150000 +0000" channel="BTV.vision">
+<title>Berita Viral</title>
+</programme>
+<programme start="20260219150000 +0000" stop="20260219160000 +0000" channel="BTV.vision">
+<title>Berita Satu Malam</title>
+</programme>
+<programme start="20260219160000 +0000" stop="20260219170000 +0000" channel="BTV.vision">
+<title>Generali Hexagon Cup 2026</title>
+</programme>
+<programme start="20260219170000 +0000" stop="20260219180000 +0000" channel="BTV.vision">
+<title>ONE Vault</title>
+</programme>
+<programme start="20260219180000 +0000" stop="20260219180300 +0000" channel="BTV.vision">
+<title>Tanah Airku</title>
 </programme>

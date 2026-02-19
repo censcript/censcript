@@ -54,6 +54,14 @@
     <title>Game R1 S6 E26</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260221040000 +0700" stop="20260221043000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEFA Champions League Magazine 2024-25 E21</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260221043000 +0700" stop="20260221050000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEFA Champions League Highlights 2025-26</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260220030000 +0700" stop="20260220050500 +0700" channel="COSMOTE Sport 2 HD">
     <title>European Football Show Greek Edition 2025-26 (L)</title>
     <desc>Live: Ya</desc>
@@ -109,6 +117,10 @@
 <programme start="20260221024500 +0700" stop="20260221044500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Sassuolo - Hellas Verona (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20260221044500 +0700" stop="20260221064500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: KuPS Kuopio - Lech Poznan</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260220030000 +0700" stop="20260220050500 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Celtic FC - VfB Stuttgart (L)</title>
@@ -238,6 +250,14 @@
     <title>ACB Liga Endesa 2025-26 - Fifth Quarter E19</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260221041000 +0700" stop="20260221044000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>NBA Specials</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260221044000 +0700" stop="20260221053000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>NBA Specials</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260220030000 +0700" stop="20260220050000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Basketball: Real Madrid - Unicaja (L)</title>
     <desc>Live: Ya</desc>
@@ -334,10 +354,6 @@
     <title>Basketball: Barcelona - Murcia (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260220013000 +0700" stop="20260220040000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: Jakub Mensik - Jannik Sinner (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
 <programme start="20260220040000 +0700" stop="20260220043000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Sports Classics: 2025 Outdoor Specials</title>
     <desc>Live: Tidak</desc>
@@ -393,6 +409,14 @@
 <programme start="20260221013000 +0700" stop="20260221040000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP 500 2026 (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20260221040000 +0700" stop="20260221043000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Sports Classics: The Outdoor Sports Show 2025 E2</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260221043000 +0700" stop="20260221060000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Topspin</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260220030000 +0700" stop="20260220050500 +0700" channel="COSMOTE Sport 7 HD">
     <title>Football: Lille OSC - FK Crvena Zvezda (L)</title>
