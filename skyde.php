@@ -2748,15 +2748,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260219195000 +0000" stop="20260219223000 +0000" channel="Sky Sport Austria 7 HD.skyde">
     <title>Live UEFA ECL: FC Omonoia - HNK Rijeka, Knockout Play-offs, Hinspiel</title>
 </programme>
-<programme start="20260219171500 +0000" stop="20260219173500 +0000" channel="Sky Sport Austria 8 HD.skyde">
-    <title>Es folgt: LIVE UEFA Conference League</title>
-</programme>
-<programme start="20260219173500 +0000" stop="20260219195000 +0000" channel="Sky Sport Austria 8 HD.skyde">
-    <title>Live UEFA ECL: KuPS Kuopio - Lech Posen, Knockout Play-offs, Hinspiel</title>
-</programme>
-<programme start="20260219195000 +0000" stop="20260219223000 +0000" channel="Sky Sport Austria 8 HD.skyde">
-    <title>Live UEFA ECL: FC Drita - NK Celje, Knockout Play-offs, Hinspiel</title>
-</programme>
 <programme start="20260218230000 +0000" stop="20260218233000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>2. BL: Dein Zweitligatalk - HvK &amp; Tusche</title>
 </programme>
