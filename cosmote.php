@@ -114,12 +114,8 @@
     <title>Football: Cagliari - Lecce</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260219131000 +0700" stop="20260219151000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Stoke City - Fulham</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260219151000 +0700" stop="20260219153000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>William Hill Scottish Premiership - Highlights</title>
+<programme start="20260220160000 +0700" stop="20260220180000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Jagiellonia - ACF Fiorentina</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260219153000 +0700" stop="20260219173000 +0700" channel="COSMOTE Sport 3 HD">
@@ -248,10 +244,6 @@
 </programme>
 <programme start="20260220152000 +0700" stop="20260220172000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Brescia - Udine</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260219143000 +0700" stop="20260219152000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260219152000 +0700" stop="20260219162000 +0700" channel="COSMOTE Sport 5 HD">
