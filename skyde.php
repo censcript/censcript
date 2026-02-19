@@ -2703,7 +2703,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260219173500 +0000" stop="20260219195000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live UEFA EL: Fenerbahce Istanbul - Nottingham Forest, Knockout Play-offs, Hinspiel</title>
 </programme>
-<programme start="20260219195000 +0000" stop="20260219220000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20260219195000 +0000" stop="20260219223000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live UEFA EL: Celtic Glasgow - VfB Stuttgart, Knockout Play-offs, Hinspiel</title>
 </programme>
 <programme start="20260219171500 +0000" stop="20260219173500 +0000" channel="Sky Sport Austria 3 HD.skyde">
@@ -2712,7 +2712,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260219173500 +0000" stop="20260219195000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live UEFA EL: SK Brann - FC Bologna, Knockout Play-offs, Hinspiel</title>
 </programme>
-<programme start="20260219195000 +0000" stop="20260219220000 +0000" channel="Sky Sport Austria 3 HD.skyde">
+<programme start="20260219195000 +0000" stop="20260219223000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live UEFA EL: Panathinaikos Athen - Viktoria Pilsen, Knockout Play-offs, Hinspiel</title>
 </programme>
 <programme start="20260219171500 +0000" stop="20260219173500 +0000" channel="Sky Sport Austria 4 HD.skyde">
@@ -2721,7 +2721,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260219173500 +0000" stop="20260219195000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live UEFA ECL: HSK Zrinjski Mostar - Crystal Palace, Knockout Play-offs, Hinspiel</title>
 </programme>
-<programme start="20260219195000 +0000" stop="20260219220000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+<programme start="20260219195000 +0000" stop="20260219223000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live UEFA EL: Ludogorez Rasgrad - Ferencváros Budapest, Knockout Play-offs, Hinspiel</title>
 </programme>
 <programme start="20260219171500 +0000" stop="20260219173500 +0000" channel="Sky Sport Austria 5 HD.skyde">
@@ -2730,7 +2730,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260219173500 +0000" stop="20260219195000 +0000" channel="Sky Sport Austria 5 HD.skyde">
     <title>Live UEFA EL: PAOK Saloniki - Celta Vigo, Knockout Play-offs, Hinspiel</title>
 </programme>
-<programme start="20260219195000 +0000" stop="20260219220000 +0000" channel="Sky Sport Austria 5 HD.skyde">
+<programme start="20260219195000 +0000" stop="20260219223000 +0000" channel="Sky Sport Austria 5 HD.skyde">
     <title>Live UEFA ECL: Jagiellonia Bialystok - FC Florenz, Knockout Play-offs, Hinspiel</title>
 </programme>
 <programme start="20260219171500 +0000" stop="20260219173500 +0000" channel="Sky Sport Austria 6 HD.skyde">
@@ -2739,7 +2739,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260219173500 +0000" stop="20260219195000 +0000" channel="Sky Sport Austria 6 HD.skyde">
     <title>Live UEFA EL: Dinamo Zagreb - KRC Genk, Knockout Play-offs, Hinspiel</title>
 </programme>
-<programme start="20260219195000 +0000" stop="20260219220000 +0000" channel="Sky Sport Austria 6 HD.skyde">
+<programme start="20260219195000 +0000" stop="20260219223000 +0000" channel="Sky Sport Austria 6 HD.skyde">
     <title>Live UEFA ECL: KF Shkëndija - FC Samsunspor, Knockout Play-offs, Hinspiel</title>
 </programme>
 <programme start="20260219171500 +0000" stop="20260219173500 +0000" channel="Sky Sport Austria 7 HD.skyde">
@@ -2748,17 +2748,8 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260219173500 +0000" stop="20260219195000 +0000" channel="Sky Sport Austria 7 HD.skyde">
     <title>Live UEFA ECL: FC Noah - AZ Alkmaar, Knockout Play-offs, Hinspiel</title>
 </programme>
-<programme start="20260219195000 +0000" stop="20260219220000 +0000" channel="Sky Sport Austria 7 HD.skyde">
+<programme start="20260219195000 +0000" stop="20260219223000 +0000" channel="Sky Sport Austria 7 HD.skyde">
     <title>Live UEFA ECL: FC Omonoia - HNK Rijeka, Knockout Play-offs, Hinspiel</title>
-</programme>
-<programme start="20260219171500 +0000" stop="20260219173500 +0000" channel="Sky Sport Austria 8 HD.skyde">
-    <title>Es folgt: LIVE UEFA Conference League</title>
-</programme>
-<programme start="20260219173500 +0000" stop="20260219195000 +0000" channel="Sky Sport Austria 8 HD.skyde">
-    <title>Live UEFA ECL: KuPS Kuopio - Lech Posen, Knockout Play-offs, Hinspiel</title>
-</programme>
-<programme start="20260219195000 +0000" stop="20260219220000 +0000" channel="Sky Sport Austria 8 HD.skyde">
-    <title>Live UEFA ECL: FC Drita - NK Celje, Knockout Play-offs, Hinspiel</title>
 </programme>
 <programme start="20260218230000 +0000" stop="20260218233000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>2. BL: Dein Zweitligatalk - HvK &amp; Tusche</title>
@@ -3060,10 +3051,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260219223000 +0000" stop="20260220000000 +0000" channel="Sky Sport News HD.skyde">
     <title>Sky Sport News: Triple - Der Hagedorn Fußballtalk</title>
 </programme>
-<programme start="20260219003000 +0000" stop="20260219010000 +0000" channel="Sky Sport Premier League HD.skyde">
+<programme start="20260219003500 +0000" stop="20260219010500 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: Club 100: Thierry Henry</title>
 </programme>
-<programme start="20260219010000 +0000" stop="20260219020000 +0000" channel="Sky Sport Premier League HD.skyde">
+<programme start="20260219010500 +0000" stop="20260219020000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: Review, 26. Spieltag</title>
 </programme>
 <programme start="20260219020000 +0000" stop="20260219040000 +0000" channel="Sky Sport Premier League HD.skyde">
@@ -3165,9 +3156,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260219220000 +0000" stop="20260219230000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: The Catch-Up Show</title>
 </programme>
-<programme start="20260219020000 +0000" stop="20260219023000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP: This Week</title>
-</programme>
 <programme start="20260219023000 +0000" stop="20260219050000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: K. Muchova (CZE) - V. Mboko (CAN), Qatar Total Energies Open in Doha (Katar), Finale</title>
 </programme>
@@ -3188,9 +3176,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 </programme>
 <programme start="20260219193000 +0000" stop="20260220020000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP 500: Rio Open in Rio de Janeiro (BRA), 4. Tag</title>
-</programme>
-<programme start="20260219020000 +0000" stop="20260219023000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>ATP: This Week</title>
 </programme>
 <programme start="20260219023000 +0000" stop="20260219030000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>PL: PL Stories (Shinji Okazaki)</title>
@@ -3267,7 +3252,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260219140000 +0000" stop="20260219150000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: Live Tennis WTA Tour</title>
 </programme>
-<programme start="20260219150000 +0000" stop="20260219190000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260219150000 +0000" stop="20260219210000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WTA 1000: Dubai Duty Free Tennis Championships in Dubai (VAE), 5. Tag</title>
 </programme>
 <programme start="20260218234000 +0000" stop="20260219002500 +0000" channel="SYFY HD.skyde">

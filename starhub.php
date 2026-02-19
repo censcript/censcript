@@ -2347,14 +2347,17 @@
     <programme start="20260219080000 +0000" stop="20260219103000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>R4: Birmingham City vs Leeds United AFC</title>
     </programme>
-    <programme start="20260219103000 +0000" stop="20260219123000 +0000" channel="Hub Sports 2 HD.starhub">
+    <programme start="20260219103000 +0000" stop="20260219113000 +0000" channel="Hub Sports 2 HD.starhub">
+        <title>Round 4</title>
+    </programme>
+    <programme start="20260219113000 +0000" stop="20260219120000 +0000" channel="Hub Sports 2 HD.starhub">
+        <title>Round 4</title>
+    </programme>
+    <programme start="20260219120000 +0000" stop="20260219140000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>Qatar ExxonMobil Open (500) QF 1</title>
     </programme>
-    <programme start="20260219123000 +0000" stop="20260219143000 +0000" channel="Hub Sports 2 HD.starhub">
+    <programme start="20260219140000 +0000" stop="20260219160000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>Qatar ExxonMobil Open (500) QF 2</title>
-    </programme>
-    <programme start="20260219143000 +0000" stop="20260219163000 +0000" channel="Hub Sports 2 HD.starhub">
-        <title>R4: Manchester City vs Salford City</title>
     </programme>
     <programme start="20260218141500 +0000" stop="20260218161500 +0000" channel="The Filipino Channel HD.starhub">
         <title>It&#039;s Showtime</title>
