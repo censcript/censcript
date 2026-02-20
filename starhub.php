@@ -2317,13 +2317,10 @@
     <programme start="20260219160000 +0000" stop="20260219163000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>#1334</title>
     </programme>
-    <programme start="20260219163000 +0000" stop="20260219203000 +0000" channel="Hub Sports 2 HD.starhub">
+    <programme start="20260219163000 +0000" stop="20260219215500 +0000" channel="Hub Sports 2 HD.starhub">
         <title>Qatar ExxonMobil Open (500) QF 3 &amp; 4</title>
     </programme>
-    <programme start="20260219203000 +0000" stop="20260219210000 +0000" channel="Hub Sports 2 HD.starhub">
-        <title>Super Bowl</title>
-    </programme>
-    <programme start="20260219210000 +0000" stop="20260219230000 +0000" channel="Hub Sports 2 HD.starhub">
+    <programme start="20260219215500 +0000" stop="20260219230000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>Changwon LG Sakers vs Alvark Tokyo</title>
     </programme>
     <programme start="20260219230000 +0000" stop="20260220000000 +0000" channel="Hub Sports 2 HD.starhub">
@@ -7278,6 +7275,18 @@
     </programme>
     <programme start="20260219173000 +0000" stop="20260219180000 +0000" channel="BBC World News HD.starhub">
         <title>Focus on Africa</title>
+    </programme>
+    <programme start="20260219180000 +0000" stop="20260219190000 +0000" channel="BBC World News HD.starhub">
+        <title>BBC News</title>
+    </programme>
+    <programme start="20260219190000 +0000" stop="20260219200000 +0000" channel="BBC World News HD.starhub">
+        <title>BBC News Special: Andrew Arrested</title>
+    </programme>
+    <programme start="20260219200000 +0000" stop="20260219210000 +0000" channel="BBC World News HD.starhub">
+        <title>BBC News</title>
+    </programme>
+    <programme start="20260219210000 +0000" stop="20260219220000 +0000" channel="BBC World News HD.starhub">
+        <title>BBC News</title>
     </programme>
     <programme start="20260219220000 +0000" stop="20260219223000 +0000" channel="BBC World News HD.starhub">
         <title>BBC World News America</title>

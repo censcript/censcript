@@ -138,12 +138,8 @@
     <title>Football: Volos NPS - Aris</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260220110500 +0700" stop="20260220131500 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Nacional - FC Porto</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260220131500 +0700" stop="20260220134500 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Emirates FA Cup 2025-26 - Highlights</title>
+<programme start="20260221141000 +0700" stop="20260221161000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Sassuolo - Hellas Verona</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260220134500 +0700" stop="20260220141000 +0700" channel="COSMOTE Sport 3 HD">
@@ -204,10 +200,6 @@
 </programme>
 <programme start="20260221130000 +0700" stop="20260221150000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Arsenal - Wigan Athletic</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260220111500 +0700" stop="20260220131500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Anadolu Efes - Trabzonspor</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260220131500 +0700" stop="20260220152000 +0700" channel="COSMOTE Sport 4 HD">
@@ -374,8 +366,8 @@
     <title>DTM 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260220110000 +0700" stop="20260220134000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: ATP 500 2026</title>
+<programme start="20260221142000 +0700" stop="20260221154000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>DTM 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260220134000 +0700" stop="20260220153000 +0700" channel="COSMOTE Sport 6 HD">
