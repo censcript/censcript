@@ -3748,14 +3748,17 @@
     <programme start="20260220164000 +0000" stop="20260220171000 +0000" channel="NHK World Premium HD.starhub">
         <title>Go Focus</title>
     </programme>
-    <programme start="20260220171000 +0000" stop="20260220174000 +0000" channel="NHK World Premium HD.starhub">
-        <title>NHK ACADEMIA</title>
+    <programme start="20260220171000 +0000" stop="20260220173500 +0000" channel="NHK World Premium HD.starhub">
+        <title>Tanka Poetry</title>
+    </programme>
+    <programme start="20260220173500 +0000" stop="20260220174000 +0000" channel="NHK World Premium HD.starhub">
+        <title>Super Rare! Railroad Treasure Films</title>
     </programme>
     <programme start="20260220174000 +0000" stop="20260220174500 +0000" channel="NHK World Premium HD.starhub">
         <title>World Weather</title>
     </programme>
     <programme start="20260220174500 +0000" stop="20260220180000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Kid&#039;s Discovery (R)</title>
+        <title>Kid&#039;s Discovery</title>
     </programme>
     <programme start="20260220180000 +0000" stop="20260220182500 +0000" channel="NHK World Premium HD.starhub">
         <title>With Mother (R)</title>
@@ -3814,8 +3817,8 @@
     <programme start="20260220235800 +0000" stop="20260221000000 +0000" channel="NHK World Premium HD.starhub">
         <title>Mini Program</title>
     </programme>
-    <programme start="20260221000000 +0000" stop="20260221003000 +0000" channel="NHK World Premium HD.starhub">
-        <title>TBA</title>
+    <programme start="20260221000000 +0000" stop="20260221002500 +0000" channel="NHK World Premium HD.starhub">
+        <title>Warm Hokkaido (R)</title>
     </programme>
     <programme start="20260221003000 +0000" stop="20260221010000 +0000" channel="NHK World Premium HD.starhub">
         <title>Document 72 Hours</title>
