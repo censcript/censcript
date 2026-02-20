@@ -997,54 +997,7 @@
 <programme start="20260221163000 +0000" stop="20260220170000 +0000" channel="BBC World News.mncvision">
     <title>Unspun World With J. Simpson</title>
 </programme>
-<programme start="20260220180500 +0000" stop="20260220195500 +0000" channel="beIN Sports 1.mncvision">
-    <title>LaLiga 2025/26: OVI Vs ATH</title>
-</programme>
-<programme start="20260220195500 +0000" stop="20260220220000 +0000" channel="beIN Sports 1.mncvision">
-    <title>LaLiga 2025/26: ATH Vs ELC (L)</title>
-</programme>
-<programme start="20260220220000 +0000" stop="20260220234000 +0000" channel="beIN Sports 1.mncvision">
-    <title>LFCTV 2025/26: LIV Vs BHA</title>
-</programme>
-<programme start="20260220234000 +0000" stop="20260221001000 +0000" channel="beIN Sports 1.mncvision">
-    <title>LFC Trending 2025/26, Ep 28</title>
-</programme>
-<programme start="20260221001000 +0000" stop="20260221004000 +0000" channel="beIN Sports 1.mncvision">
-    <title>LFCTV HL 2025/26: SUN Vs LIV</title>
-</programme>
-<programme start="20260221004000 +0000" stop="20260221011000 +0000" channel="beIN Sports 1.mncvision">
-    <title>Gearing Up 2026: February</title>
-</programme>
-<programme start="20260221011000 +0000" stop="20260221030000 +0000" channel="beIN Sports 1.mncvision">
-    <title>LaLiga 2 2025/26: ADC Vs GRA</title>
-</programme>
-<programme start="20260221030000 +0000" stop="20260221045000 +0000" channel="beIN Sports 1.mncvision">
-    <title>LaLiga 2025/26: ATH Vs ELC</title>
-</programme>
-<programme start="20260221045000 +0000" stop="20260221064000 +0000" channel="beIN Sports 1.mncvision">
-    <title>LaLiga Archive: RMA Vs BAR</title>
-</programme>
-<programme start="20260221064000 +0000" stop="20260221083000 +0000" channel="beIN Sports 1.mncvision">
-    <title>LaLiga 2 2025/26: ADC Vs GRA</title>
-</programme>
-<programme start="20260221083000 +0000" stop="20260221093000 +0000" channel="beIN Sports 1.mncvision">
-    <title>Asian Le Mans Series HL 2025/26</title>
-</programme>
-<programme start="20260221093000 +0000" stop="20260221103000 +0000" channel="beIN Sports 1.mncvision">
-    <title>FIA World Rally C&#039;ship HL 2026</title>
-</programme>
-<programme start="20260221103000 +0000" stop="20260221110000 +0000" channel="beIN Sports 1.mncvision">
-    <title>Going Pro 2026, Ep 1</title>
-</programme>
-<programme start="20260221110000 +0000" stop="20260221125500 +0000" channel="beIN Sports 1.mncvision">
-    <title>LaLiga 2025/26: ATH Vs ELC</title>
-</programme>
-<programme start="20260221125500 +0000" stop="20260221151000 +0000" channel="beIN Sports 1.mncvision">
-    <title>LaLiga 2025/26: RSO Vs OVI (L)</title>
-</programme>
-<programme start="20260221151000 +0000" stop="20260221154000 +0000" channel="beIN Sports 1.mncvision">
-    <title>LaLiga 2025/26: BET Vs RAY (L)</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 0
 <programme start="20260220180500 +0000" stop="20260220195500 +0000" channel="beIN Sports 1 HD.mncvision">
     <title>LaLiga 2025/26: OVI Vs ATH</title>
 </programme>
@@ -5053,90 +5006,7 @@
 <programme start="20260221163000 +0000" stop="20260220170000 +0000" channel="iNews.mncvision">
     <title>New Top Files</title>
 </programme>
-<programme start="20260220170000 +0000" stop="20260220173000 +0000" channel="iNews HD.mncvision">
-    <title>E-Max</title>
-</programme>
-<programme start="20260220173000 +0000" stop="20260220190000 +0000" channel="iNews HD.mncvision">
-    <title>AFC Asian Cup 2024: IDN Vs AUS</title>
-</programme>
-<programme start="20260220190000 +0000" stop="20260220200000 +0000" channel="iNews HD.mncvision">
-    <title>iNews Sore</title>
-</programme>
-<programme start="20260220200000 +0000" stop="20260220203000 +0000" channel="iNews HD.mncvision">
-    <title>Ramadan Story</title>
-</programme>
-<programme start="20260220203000 +0000" stop="20260220210000 +0000" channel="iNews HD.mncvision">
-    <title>Cahaya Hati The Series</title>
-</programme>
-<programme start="20260220210000 +0000" stop="20260220213000 +0000" channel="iNews HD.mncvision">
-    <title>iNews Pagi (L)</title>
-</programme>
-<programme start="20260220213000 +0000" stop="20260220214000 +0000" channel="iNews HD.mncvision">
-    <title>Imsak</title>
-</programme>
-<programme start="20260220214000 +0000" stop="20260220230000 +0000" channel="iNews HD.mncvision">
-    <title>iNews Pagi</title>
-</programme>
-<programme start="20260220230000 +0000" stop="20260220230200 +0000" channel="iNews HD.mncvision">
-    <title>Indonesia Raya</title>
-</programme>
-<programme start="20260220230200 +0000" stop="20260220233000 +0000" channel="iNews HD.mncvision">
-    <title>iNews Sport</title>
-</programme>
-<programme start="20260220233000 +0000" stop="20260221000000 +0000" channel="iNews HD.mncvision">
-    <title>iBreak (L)</title>
-</programme>
-<programme start="20260221000000 +0000" stop="20260221010000 +0000" channel="iNews HD.mncvision">
-    <title>Special Report</title>
-</programme>
-<programme start="20260221010000 +0000" stop="20260221023000 +0000" channel="iNews HD.mncvision">
-    <title>Realita</title>
-</programme>
-<programme start="20260221023000 +0000" stop="20260221033000 +0000" channel="iNews HD.mncvision">
-    <title>iNews Files</title>
-</programme>
-<programme start="20260221033000 +0000" stop="20260221053000 +0000" channel="iNews HD.mncvision">
-    <title>iNews Siang (L)</title>
-</programme>
-<programme start="20260221053000 +0000" stop="20260221070000 +0000" channel="iNews HD.mncvision">
-    <title>Cahaya Hati Ramadan (L)</title>
-</programme>
-<programme start="20260221070000 +0000" stop="20260221083000 +0000" channel="iNews HD.mncvision">
-    <title>iSeleb</title>
-</programme>
-<programme start="20260221083000 +0000" stop="20260221100000 +0000" channel="iNews HD.mncvision">
-    <title>Realita (L)</title>
-</programme>
-<programme start="20260221100000 +0000" stop="20260221110000 +0000" channel="iNews HD.mncvision">
-    <title>iNews Sore (L)</title>
-</programme>
-<programme start="20260221110000 +0000" stop="20260221110500 +0000" channel="iNews HD.mncvision">
-    <title>Cahaya Hati The Series</title>
-</programme>
-<programme start="20260221110500 +0000" stop="20260221112000 +0000" channel="iNews HD.mncvision">
-    <title>Kultum Cahaya Hati Berbuka</title>
-</programme>
-<programme start="20260221112000 +0000" stop="20260221120000 +0000" channel="iNews HD.mncvision">
-    <title>iNews Sore</title>
-</programme>
-<programme start="20260221120000 +0000" stop="20260221130000 +0000" channel="iNews HD.mncvision">
-    <title>iNews Room Weekend (L)</title>
-</programme>
-<programme start="20260221130000 +0000" stop="20260221140000 +0000" channel="iNews HD.mncvision">
-    <title>iNews Malam (L)</title>
-</programme>
-<programme start="20260221140000 +0000" stop="20260221153000 +0000" channel="iNews HD.mncvision">
-    <title>Cahaya Muda Indonesia</title>
-</programme>
-<programme start="20260221153000 +0000" stop="20260221160000 +0000" channel="iNews HD.mncvision">
-    <title>iNews Sport (L)</title>
-</programme>
-<programme start="20260221160000 +0000" stop="20260221163000 +0000" channel="iNews HD.mncvision">
-    <title>Special Report</title>
-</programme>
-<programme start="20260221163000 +0000" stop="20260220170000 +0000" channel="iNews HD.mncvision">
-    <title>New Top Files</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 0
 <programme start="20260220170000 +0000" stop="20260220173000 +0000" channel="JAKTV.mncvision">
     <title>Creative Talk</title>
 </programme>
@@ -5926,78 +5796,7 @@
 <programme start="20260221163500 +0000" stop="20260220170500 +0000" channel="Love Nature HD.mncvision">
     <title>Gladiators S1, Ep 1</title>
 </programme>
-<programme start="20260220170500 +0000" stop="20260220183000 +0000" channel="MDTV.mncvision">
-    <title>Makan Enak</title>
-</programme>
-<programme start="20260220183000 +0000" stop="20260220193500 +0000" channel="MDTV.mncvision">
-    <title>Masak Gesss!!!</title>
-</programme>
-<programme start="20260220193500 +0000" stop="20260220203000 +0000" channel="MDTV.mncvision">
-    <title>Keluarga Yang Tak Dirindukan</title>
-</programme>
-<programme start="20260220203000 +0000" stop="20260220213000 +0000" channel="MDTV.mncvision">
-    <title>Dunia Tanpa Tuhan</title>
-</programme>
-<programme start="20260220213000 +0000" stop="20260220223500 +0000" channel="MDTV.mncvision">
-    <title>Keajaiban Dunia</title>
-</programme>
-<programme start="20260220223500 +0000" stop="20260220234500 +0000" channel="MDTV.mncvision">
-    <title>Top Spot</title>
-</programme>
-<programme start="20260220234500 +0000" stop="20260221010500 +0000" channel="MDTV.mncvision">
-    <title>AADD: Ada Apa Dengan Dunia</title>
-</programme>
-<programme start="20260221010500 +0000" stop="20260221020000 +0000" channel="MDTV.mncvision">
-    <title>Fakta +62 Weekend</title>
-</programme>
-<programme start="20260221020000 +0000" stop="20260221030000 +0000" channel="MDTV.mncvision">
-    <title>SensasiHot</title>
-</programme>
-<programme start="20260221030000 +0000" stop="20260221041500 +0000" channel="MDTV.mncvision">
-    <title>Maria Cinta Yang Hilang</title>
-</programme>
-<programme start="20260221041500 +0000" stop="20260221052500 +0000" channel="MDTV.mncvision">
-    <title>Maria Mercedes</title>
-</programme>
-<programme start="20260221052500 +0000" stop="20260221070000 +0000" channel="MDTV.mncvision">
-    <title>Cinta Fitri S6</title>
-</programme>
-<programme start="20260221070000 +0000" stop="20260221080500 +0000" channel="MDTV.mncvision">
-    <title>Masak Gesss!!! Ramadan</title>
-</programme>
-<programme start="20260221080500 +0000" stop="20260221090500 +0000" channel="MDTV.mncvision">
-    <title>Adit Sopo Jarwo</title>
-</programme>
-<programme start="20260221090500 +0000" stop="20260221100000 +0000" channel="MDTV.mncvision">
-    <title>Amigos X Siempre</title>
-</programme>
-<programme start="20260221100000 +0000" stop="20260221105500 +0000" channel="MDTV.mncvision">
-    <title>Esmeralda</title>
-</programme>
-<programme start="20260221105500 +0000" stop="20260221110700 +0000" channel="MDTV.mncvision">
-    <title>Dunia Tanpa Tuhan</title>
-</programme>
-<programme start="20260221110700 +0000" stop="20260221112300 +0000" channel="MDTV.mncvision">
-    <title>Rangkaian Berbuka</title>
-</programme>
-<programme start="20260221112300 +0000" stop="20260221120000 +0000" channel="MDTV.mncvision">
-    <title>Dunia Tanpa Tuhan</title>
-</programme>
-<programme start="20260221120000 +0000" stop="20260221130000 +0000" channel="MDTV.mncvision">
-    <title>Keluarga Yang Tak Dirindukan</title>
-</programme>
-<programme start="20260221130000 +0000" stop="20260221140500 +0000" channel="MDTV.mncvision">
-    <title>Pernikahan Dini Gen Z</title>
-</programme>
-<programme start="20260221140500 +0000" stop="20260221145500 +0000" channel="MDTV.mncvision">
-    <title>The Return Of Condor Heroes</title>
-</programme>
-<programme start="20260221145500 +0000" stop="20260221161000 +0000" channel="MDTV.mncvision">
-    <title>Jatanras</title>
-</programme>
-<programme start="20260221161000 +0000" stop="20260221164000 +0000" channel="MDTV.mncvision">
-    <title>86</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 0
 <programme start="20260220170000 +0000" stop="20260220170500 +0000" channel="Metro TV.mncvision">
     <title>Headline News</title>
 </programme>
@@ -6418,6 +6217,7 @@
 <programme start="20260221155500 +0000" stop="20260221162500 +0000" channel="Moonbug.mncvision">
     <title>Morphle</title>
 </programme>
+Error: Unable to fetch data. HTTP Status Code: 0
 <programme start="20260220190000 +0000" stop="20260220193000 +0000" channel="Music TV.mncvision">
     <title>Kita Kepo</title>
 </programme>
@@ -7930,45 +7730,7 @@
 <programme start="20260221163000 +0000" stop="20260220170000 +0000" channel="Rock Action.mncvision">
     <title>Spy Kids: All The Time In...</title>
 </programme>
-<programme start="20260220172500 +0000" stop="20260220185000 +0000" channel="Rock Entertainment.mncvision">
-    <title>The Man With The Iron Fists</title>
-</programme>
-<programme start="20260220185000 +0000" stop="20260220203500 +0000" channel="Rock Entertainment.mncvision">
-    <title>The Mummy</title>
-</programme>
-<programme start="20260220203500 +0000" stop="20260220224500 +0000" channel="Rock Entertainment.mncvision">
-    <title>Backdraft</title>
-</programme>
-<programme start="20260220224500 +0000" stop="20260221010000 +0000" channel="Rock Entertainment.mncvision">
-    <title>Robin Hood</title>
-</programme>
-<programme start="20260221010000 +0000" stop="20260221024500 +0000" channel="Rock Entertainment.mncvision">
-    <title>Brothers</title>
-</programme>
-<programme start="20260221024500 +0000" stop="20260221044500 +0000" channel="Rock Entertainment.mncvision">
-    <title>3:10 To Yuma</title>
-</programme>
-<programme start="20260221044500 +0000" stop="20260221063000 +0000" channel="Rock Entertainment.mncvision">
-    <title>The Mummy</title>
-</programme>
-<programme start="20260221063000 +0000" stop="20260221075500 +0000" channel="Rock Entertainment.mncvision">
-    <title>The Man With The Iron Fists</title>
-</programme>
-<programme start="20260221075500 +0000" stop="20260221095500 +0000" channel="Rock Entertainment.mncvision">
-    <title>3:10 To Yuma</title>
-</programme>
-<programme start="20260221095500 +0000" stop="20260221120500 +0000" channel="Rock Entertainment.mncvision">
-    <title>Backdraft</title>
-</programme>
-<programme start="20260221120500 +0000" stop="20260221135000 +0000" channel="Rock Entertainment.mncvision">
-    <title>The Mummy</title>
-</programme>
-<programme start="20260221135000 +0000" stop="20260221151500 +0000" channel="Rock Entertainment.mncvision">
-    <title>The Man With The Iron Fists</title>
-</programme>
-<programme start="20260221151500 +0000" stop="20260221154500 +0000" channel="Rock Entertainment.mncvision">
-    <title>Robin Hood</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 0
 <programme start="20260220174600 +0000" stop="20260220184000 +0000" channel="SCTV.mncvision">
     <title>Sebiji Kurma Cinta</title>
 </programme>

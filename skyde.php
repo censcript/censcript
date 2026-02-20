@@ -3650,41 +3650,44 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260220223500 +0000" stop="20260220230000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>American Dad</title>
 </programme>
-<programme start="20260226230500 +0000" stop="20260227010000 +0000" channel="Warner TV Film.skyde">
-    <title>Smile - Siehst du es auch?</title>
+<programme start="20260219233500 +0000" stop="20260220010500 +0000" channel="Warner TV Film.skyde">
+    <title>Max Payne</title>
 </programme>
-<programme start="20260227010000 +0000" stop="20260227025500 +0000" channel="Warner TV Film.skyde">
-    <title>Wenn das Blut kocht</title>
+<programme start="20260220010500 +0000" stop="20260220031000 +0000" channel="Warner TV Film.skyde">
+    <title>Getaway</title>
 </programme>
-<programme start="20260227025500 +0000" stop="20260227050000 +0000" channel="Warner TV Film.skyde">
-    <title>Batmans Rückkehr</title>
+<programme start="20260220031000 +0000" stop="20260220050000 +0000" channel="Warner TV Film.skyde">
+    <title>Ocean&#039;s Eleven</title>
 </programme>
-<programme start="20260227050000 +0000" stop="20260227070000 +0000" channel="Warner TV Film.skyde">
-    <title>Der Prinz und die Tänzerin</title>
+<programme start="20260220050000 +0000" stop="20260220065000 +0000" channel="Warner TV Film.skyde">
+    <title>Verraten</title>
 </programme>
-<programme start="20260227070000 +0000" stop="20260227092500 +0000" channel="Warner TV Film.skyde">
-    <title>Das dreckige Dutzend</title>
+<programme start="20260220065000 +0000" stop="20260220090000 +0000" channel="Warner TV Film.skyde">
+    <title>The Verdict - Die Wahrheit und nichts als die Wahrheit</title>
 </programme>
-<programme start="20260227092500 +0000" stop="20260227113000 +0000" channel="Warner TV Film.skyde">
-    <title>Wenn das Blut kocht</title>
+<programme start="20260220090000 +0000" stop="20260220112000 +0000" channel="Warner TV Film.skyde">
+    <title>Stoßtrupp Gold</title>
 </programme>
-<programme start="20260227113000 +0000" stop="20260227131500 +0000" channel="Warner TV Film.skyde">
-    <title>Dead Bang - Kurzer Prozess</title>
+<programme start="20260220112000 +0000" stop="20260220132500 +0000" channel="Warner TV Film.skyde">
+    <title>The Best Exotic Marigold Hotel 2</title>
 </programme>
-<programme start="20260227131500 +0000" stop="20260227152000 +0000" channel="Warner TV Film.skyde">
-    <title>Batmans Rückkehr</title>
+<programme start="20260220132500 +0000" stop="20260220152500 +0000" channel="Warner TV Film.skyde">
+    <title>Die Goonies</title>
 </programme>
-<programme start="20260227152000 +0000" stop="20260227171000 +0000" channel="Warner TV Film.skyde">
-    <title>Entgleist</title>
+<programme start="20260220152500 +0000" stop="20260220172500 +0000" channel="Warner TV Film.skyde">
+    <title>Cowboys &amp; Aliens</title>
 </programme>
-<programme start="20260227171000 +0000" stop="20260227191500 +0000" channel="Warner TV Film.skyde">
-    <title>Collateral</title>
+<programme start="20260220172500 +0000" stop="20260220191500 +0000" channel="Warner TV Film.skyde">
+    <title>Robin Hood - Ein Leben für Richard Löwenherz</title>
 </programme>
-<programme start="20260227191500 +0000" stop="20260227210500 +0000" channel="Warner TV Film.skyde">
-    <title>Top Gun</title>
+<programme start="20260220191500 +0000" stop="20260220205500 +0000" channel="Warner TV Film.skyde">
+    <title>Max Payne</title>
 </programme>
-<programme start="20260227210500 +0000" stop="20260227231500 +0000" channel="Warner TV Film.skyde">
-    <title>Kingsman: The Secret Service</title>
+<programme start="20260220205500 +0000" stop="20260220225000 +0000" channel="Warner TV Film.skyde">
+    <title>Scream</title>
+</programme>
+<programme start="20260220225000 +0000" stop="20260221012000 +0000" channel="Warner TV Film.skyde">
+    <title>Nightmare Alley</title>
 </programme>
 <programme start="20260219233500 +0000" stop="20260220010500 +0000" channel="Warner TV Film HD.skyde">
     <title>Max Payne</title>

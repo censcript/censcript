@@ -49,7 +49,7 @@
 <programme start="20260220204500 +0000" stop="20260220223000 +0000" channel="RCTI.vision">
 <title>Banyak Jalan Menuju Surga (RCTI)</title>
 </programme>
-<programme start="20260220223000 +0000" stop="20260220233000 +0000" channel="RCTI.vision">
+<programme start="20260220223000 +0000" stop="20260221000000 +0000" channel="RCTI.vision">
 <title>Penyejuk Hati (RCTI)</title>
 </programme>
 <programme start="20260221000000 +0000" stop="20260221010000 +0000" channel="RCTI.vision">
@@ -133,7 +133,7 @@
 <programme start="20260220180000 +0000" stop="20260220190000 +0000" channel="MNCTV.vision">
 <title>Suparman Reborn 4</title>
 </programme>
-<programme start="20260220180000 +0000" stop="20260220190000 +0000" channel="MNCTV.vision">
+<programme start="20260220190000 +0000" stop="20260220211500 +0000" channel="MNCTV.vision">
 <title>Suparman Reborn 4</title>
 </programme>
 <programme start="20260220211500 +0000" stop="20260220213000 +0000" channel="MNCTV.vision">
@@ -169,7 +169,7 @@
 <programme start="20260221073000 +0000" stop="20260221093000 +0000" channel="MNCTV.vision">
 <title>Kiko In The Deep Sea</title>
 </programme>
-<programme start="20260219090000 +0000" stop="20260219110000 +0000" channel="MNCTV.vision">
+<programme start="20260221093000 +0000" stop="20260221110000 +0000" channel="MNCTV.vision">
 <title>Ngabuburit Upin &amp; Ipin (MNCTV)</title>
 </programme>
 <programme start="20260221110000 +0000" stop="20260221113000 +0000" channel="MNCTV.vision">
@@ -720,15 +720,6 @@
 </programme>
 <programme start="20260220111000 +0000" stop="20260220113000 +0000" channel="ANTV.vision">
 <title>Sepiring Berduet</title>
-</programme>
-<programme start="20260220113000 +0000" stop="20260220133000 +0000" channel="ANTV.vision">
-<title>Menantang Maut</title>
-</programme>
-<programme start="20260220133000 +0000" stop="20260220153000 +0000" channel="ANTV.vision">
-<title>Malaikat Bayangan</title>
-</programme>
-<programme start="20260220153000 +0000" stop="20260220173000 +0000" channel="ANTV.vision">
-<title>Depan Bisa Belakang Bisa</title>
 </programme>
 <programme start="20260220173000 +0000" stop="20260220193000 +0000" channel="ANTV.vision">
 <title>Bioskop Asia</title>
@@ -1497,4 +1488,13 @@
 </programme>
 <programme start="20260220160000 +0000" stop="20260220170000 +0000" channel="BTV.vision">
 <title>Generali Hexagon Cup 2026</title>
+</programme>
+<programme start="20260220170000 +0000" stop="20260220180000 +0000" channel="BTV.vision">
+<title>ONE Vault</title>
+</programme>
+<programme start="20260220180000 +0000" stop="20260220180300 +0000" channel="BTV.vision">
+<title>Tanah Airku</title>
+</programme>
+<programme start="20260220180300 +0000" stop="20260220200000 +0000" channel="BTV.vision">
+<title>Berita Satu Utama</title>
 </programme>
