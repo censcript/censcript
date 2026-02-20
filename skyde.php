@@ -950,11 +950,8 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260220083500 +0000" stop="20260220103000 +0000" channel="DAZN 1 HD.skyde">
     <title>FA Cup 25/26: FC Liverpool - Brighton &amp; Hove Albion</title>
 </programme>
-<programme start="20260220103000 +0000" stop="20260220123000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260220103000 +0000" stop="20260220130000 +0000" channel="DAZN 1 HD.skyde">
     <title>Bundesliga 25/26: Borussia Dortmund - 1. FSV Mainz 05</title>
-</programme>
-<programme start="20260220123000 +0000" stop="20260220130000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
 </programme>
 <programme start="20260220130000 +0000" stop="20260220135000 +0000" channel="DAZN 1 HD.skyde">
     <title>3. Liga Highlightshow 25/26: 24. Spieltag</title>
@@ -971,11 +968,8 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260220164500 +0000" stop="20260220171500 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20260220171500 +0000" stop="20260220192500 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260220171500 +0000" stop="20260220193000 +0000" channel="DAZN 1 HD.skyde">
     <title>Google Pixel Frauen Bundesliga 25/26: 1. FC Union Berlin - 1. FC Köln</title>
-</programme>
-<programme start="20260220192500 +0000" stop="20260220193000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
 </programme>
 <programme start="20260220193000 +0000" stop="20260220215000 +0000" channel="DAZN 1 HD.skyde">
     <title>Ligue 1 25/26: Stade Brest - Olympique Marseille</title>
@@ -2783,7 +2777,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260220183000 +0000" stop="20260220191500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: M05 - HSV: tipico Countdown, Flutlicht-Freitag, 23. Spieltag</title>
 </programme>
-<programme start="20260220191500 +0000" stop="20260220221500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
+<programme start="20260220191500 +0000" stop="20260220224500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: 1. FSV Mainz 05 - Hamburger SV, Flutlicht-Freitag, 23. Spieltag</title>
 </programme>
 <programme start="20260220164000 +0000" stop="20260220170000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
@@ -2792,7 +2786,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260220170000 +0000" stop="20260220193000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Live 2. BL: Freitags-Konferenz, 23. Spieltag</title>
 </programme>
-<programme start="20260220193000 +0000" stop="20260220201500 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+<programme start="20260220193000 +0000" stop="20260220204500 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Live 2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 23. Spieltag, Freitag</title>
 </programme>
 <programme start="20260220164000 +0000" stop="20260220170000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
@@ -2801,23 +2795,23 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260220170000 +0000" stop="20260220193000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live 2. BL: VfL Bochum - 1. FC Nürnberg, 23. Spieltag</title>
 </programme>
-<programme start="20260220193000 +0000" stop="20260220213000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
+<programme start="20260220193000 +0000" stop="20260220220000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live BL: Sky Sport Fantasy: M05 - HSV, 23. Spieltag</title>
 </programme>
 <programme start="20260220164000 +0000" stop="20260220170000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Es folgt: Live 2. Bundesliga</title>
 </programme>
-<programme start="20260220170000 +0000" stop="20260220193000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
+<programme start="20260220170000 +0000" stop="20260220200000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live 2. BL: SpVgg Greuther Fürth - Arminia Bielefeld, 23. Spieltag</title>
 </programme>
 <programme start="20260220164000 +0000" stop="20260220170000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Es folgt: Live 2. Bundesliga</title>
 </programme>
-<programme start="20260220170000 +0000" stop="20260220193000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
+<programme start="20260220170000 +0000" stop="20260220200000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Live 2. BL: Multiview 23. Spieltag, Freitag</title>
 </programme>
 <programme start="20260220011500 +0000" stop="20260220013000 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>F1: Testfahrten Kompakt - 2. Tag</title>
+    <title>F1: Testfahrten Kompakt - 5. Tag</title>
 </programme>
 <programme start="20260220013000 +0000" stop="20260220023000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Sprint - GP Belgien 2025</title>
@@ -2844,7 +2838,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>IndyCar: Highlights: Borchetta Bourbon Music City Grand Prix</title>
 </programme>
 <programme start="20260220064500 +0000" stop="20260220070000 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>F1: Testfahrten Kompakt - 2. Tag</title>
+    <title>F1: Testfahrten Kompakt - 5. Tag</title>
 </programme>
 <programme start="20260220070000 +0000" stop="20260220110000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Live F1: 2. Testfahrten in Bahrain - 3. Tag (Vormittag)</title>
@@ -2865,7 +2859,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>F1: 2. Testfahrten in Bahrain - 3. Tag (Vormittag)</title>
 </programme>
 <programme start="20260220210000 +0000" stop="20260220211500 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>F1: Testfahrten Kompakt - 3. Tag</title>
+    <title>F1: Testfahrten Kompakt - 6. Tag</title>
 </programme>
 <programme start="20260220211500 +0000" stop="20260221011500 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: 2. Testfahrten in Bahrain - 3. Tag (Nachmittag)</title>
@@ -3176,7 +3170,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260220221500 +0000" stop="20260220231500 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: 1 to 11 (Thomas Hitzlsperger)</title>
 </programme>
-<programme start="20260220020000 +0000" stop="20260220040000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260220033000 +0000" stop="20260220040000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: A. De Minaur (AUS) - F. Auger-Aliassime (CAN), ABN AMRO Open in Rotterdam (NLD), Finale</title>
 </programme>
 <programme start="20260220040000 +0000" stop="20260220043000 +0000" channel="Sky Sport Tennis HD.skyde">
@@ -3201,27 +3195,21 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>ATP 500: A. De Minaur (AUS) - F. Auger-Aliassime (CAN), ABN AMRO Open in Rotterdam (NLD), Finale</title>
 </programme>
 <programme start="20260220130000 +0000" stop="20260220150000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live WTA 1000: HF1, Dubai Duty Free Tennis Championships in Dubai (VAE), Halbfinale 1</title>
+    <title>Live WTA 1000: J. Pegula (USA) - A. Anisimova (USA), Dubai Duty Free Tennis Championships in Dubai (VAE), Halbfinale 1</title>
 </programme>
 <programme start="20260220150000 +0000" stop="20260220163000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live WTA 1000: HF2, Dubai Duty Free Tennis Championships in Dubai (VAE), Halbfinale 2</title>
+    <title>Live WTA 1000: E. Svitolina (UKR) - C. Gauff (USA), Dubai Duty Free Tennis Championships in Dubai (VAE), Halbfinale 2</title>
 </programme>
 <programme start="20260220163000 +0000" stop="20260220183000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP 500: HF1, Qatar ExxonMobil Open in Doha (Katar), Halbfinale 1</title>
+    <title>Live ATP 500: C. Alcaraz (ESP) - A. Rublev, Qatar ExxonMobil Open in Doha (Katar), Halbfinale 1</title>
 </programme>
 <programme start="20260220183000 +0000" stop="20260220203000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP 500: HF2, Qatar ExxonMobil Open in Doha (Katar), Halbfinale 2</title>
+    <title>Live ATP 500: J. Mensik (CZE) - A. Fils (FRA), Qatar ExxonMobil Open in Doha (Katar), Halbfinale 2</title>
 </programme>
 <programme start="20260220203000 +0000" stop="20260221020000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP 500: Rio Open in Rio de Janeiro (BRA), 5. Tag</title>
 </programme>
-<programme start="20260220020000 +0000" stop="20260220023000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>NBA: Action</title>
-</programme>
-<programme start="20260220023000 +0000" stop="20260220030000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Fußball: scooore Argentinien! Alle Tore</title>
-</programme>
-<programme start="20260220030000 +0000" stop="20260220070000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260220033000 +0000" stop="20260220070000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live LPGA: Honda LPGA Thailand, 2. Tag in Pattaya (Thailand)</title>
 </programme>
 <programme start="20260220070000 +0000" stop="20260220110000 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3234,13 +3222,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Live F1: 2. Testfahrten in Bahrain - 3. Tag (Nachmittag)</title>
 </programme>
 <programme start="20260220130000 +0000" stop="20260220150000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live WTA 1000: HF1, Dubai Duty Free Tennis Championships in Dubai (VAE), Halbfinale 1</title>
+    <title>Live WTA 1000: J. Pegula (USA) - A. Anisimova (USA), Dubai Duty Free Tennis Championships in Dubai (VAE), Halbfinale 1</title>
 </programme>
 <programme start="20260220150000 +0000" stop="20260220163000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live WTA 1000: HF2, Dubai Duty Free Tennis Championships in Dubai (VAE), Halbfinale 2</title>
+    <title>Live WTA 1000: E. Svitolina (UKR) - C. Gauff (USA), Dubai Duty Free Tennis Championships in Dubai (VAE), Halbfinale 2</title>
 </programme>
 <programme start="20260220163000 +0000" stop="20260220170000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live ATP 500: HF1, Qatar ExxonMobil Open in Doha (Katar), Halbfinale 1</title>
+    <title>Live ATP 500: C. Alcaraz (ESP) - A. Rublev, Qatar ExxonMobil Open in Doha (Katar), Halbfinale 1</title>
 </programme>
 <programme start="20260220170000 +0000" stop="20260220192500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live 2. BL: Freitags-Konferenz, 23. Spieltag</title>
@@ -3270,15 +3258,15 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Info: UHD</title>
 </programme>
 <programme start="20260220144000 +0000" stop="20260220150000 +0000" channel="Sky Sport 6 HD.skyde">
-    <title>Es folgt: Live Tennis WTA Tour</title>
+    <title>Es folgt: LIVE Tennis WTA Tour</title>
 </programme>
-<programme start="20260220150000 +0000" stop="20260220170000 +0000" channel="Sky Sport 6 HD.skyde">
-    <title>Live WTA 1000: tba - C. Gauff (USA), Dubai Duty Free Tennis Championships in Dubai (VAE), Halbfinale 2</title>
+<programme start="20260220150000 +0000" stop="20260220180000 +0000" channel="Sky Sport 6 HD.skyde">
+    <title>Live WTA 1000: E. Svitolina (UKR) - C. Gauff (USA), Dubai Duty Free Tennis Championships in Dubai (VAE), Halbfinale 2</title>
 </programme>
-<programme start="20260220184000 +0000" stop="20260220190000 +0000" channel="Sky Sport 6 HD.skyde">
-    <title>ATP World Tour: Es folgt</title>
+<programme start="20260220180000 +0000" stop="20260220190000 +0000" channel="Sky Sport 6 HD.skyde">
+    <title>Es folgt: ab 20:00: LIVE ATP World Tour</title>
 </programme>
-<programme start="20260220190000 +0000" stop="20260220203000 +0000" channel="Sky Sport 6 HD.skyde">
+<programme start="20260220190000 +0000" stop="20260221090000 +0000" channel="Sky Sport 6 HD.skyde">
     <title>Live ATP 500: Rio Open in Rio de Janeiro (BRA), 5. Tag</title>
 </programme>
 <programme start="20260219234000 +0000" stop="20260220002500 +0000" channel="SYFY HD.skyde">
