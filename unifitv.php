@@ -3449,89 +3449,87 @@
   <channel id="tvbjade.unifitv">
     <display-name>TVB Jade</display-name>
   </channel>
-  <programme start="20260219083500 +0000" stop="20260219160500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">Profession Impossible</title>
-    <desc lang="en">To showcase the talents of local fashion designers, TVB specially produced a fashion design competition reality show. Ten contestants advanced from the preliminary rounds to the semi-finals, each designing two pieces for their collaborating artists based on environmental and Chinese themes, competing for five spots in the finals. The final five faced a final test, creating two outfits each based on a unisex and evening gown theme, which they then paired with their artists to showcase their style on the Catwalk stage, where the champion, first runner-up, and second runner-up were determined! Hosts Nancy Wu and Benjamin Yuen, along with "star" judges Walter Ma, William So, Gigi Leung, Kathy Chow, Amanda S., and others, witnessed the journey of "The Tailoring Magician".</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.2.</episode-num>
-    <episode-num system="onscreen">S1E3</episode-num>
+  <programme start="20260219155500 +0000" stop="20260219160500 +0000" channel="tvbjade.unifitv">
+    <title lang="en">Global View</title>
+    <desc lang="en">" Global View," curated by seasoned journalists, guides you to view the world with a global perspective—broadening your horizons, expanding your understanding of the news, and enriching your knowledge.</desc>
+    <category lang="en">News </category>
   </programme>
   <programme start="20260219160500 +0000" stop="20260219163500 +0000" channel="tvbjade.unifitv">
     <title lang="en">Big Boys Club</title>
     <desc lang="en">" Big Boys Club" is a youth talk show hosted by a group of close friends—Bob Lam, Oscar Leung, Derek Wong, Philip Fan, and Alan Chan. In each episode, singers, entertainers, or guests from various fields are invited for relaxed interviews, presenting a wide range of topics including current social issues, pop culture, and trending interests. Matters of love, relationships, and even same-sex relationships are endlessly discussed topics for men and women alike. The show invites guests from diverse backgrounds to explore love and relationships, delving into the dynamics between the sexes. The "Other Dimension" segment features guests sharing extraordinary experiences, such as encounters with ghosts, UFOs, and bizarre happenings, bringing thrilling topics to the audience.</desc>
     <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.2066.</episode-num>
-    <episode-num system="onscreen">S1E2067</episode-num>
+    <episode-num system="xmltv_ns">0.2073.</episode-num>
+    <episode-num system="onscreen">S1E2074</episode-num>
   </programme>
   <programme start="20260219163500 +0000" stop="20260219173500 +0000" channel="tvbjade.unifitv">
     <title lang="en">Yummy, Yummy? Yummy!</title>
     <desc lang="en">While filming a historical food video, Shen Yaoguang's family accidentally enters a dream world and lands in ancient Yong'an. To survive, they open a small eatery serving modern style dishes, becoming unexpectedly popular. Mistaking Prefect Lin Yan for an ancestor, they move into his residence under a fake engagement and form a deep bond. Using modern knowledge, the family adapts to ancient life and helps Lin Yan uncover the truth behind his family's injustice, exposing Prince Wu's conspiracy. Together they protect the city, and after a life or death trial, they awaken back in reality with renewed understanding of family and heritage.</desc>
     <category lang="en">Drama Series</category>
-    <episode-num system="xmltv_ns">0.8.</episode-num>
-    <episode-num system="onscreen">S1E9</episode-num>
+    <episode-num system="xmltv_ns">0.14.</episode-num>
+    <episode-num system="onscreen">S1E15</episode-num>
   </programme>
   <programme start="20260219173500 +0000" stop="20260219183500 +0000" channel="tvbjade.unifitv">
     <title lang="en">The Unusual Prosecutor &amp; What's On Today</title>
     <desc lang="en">Department of Justice SADPP Pau Hey-yan (Joe Ma) possesses extreme empathy as he suffers from a rare condition called “mirror-touch synesthesia”. His aim is to piece together the complete truth in a case, strive to get the defendant to plead guilty, and minimize the sufferings of the victims from tedious hearings. Hey-yan teams up with law clerk Kung Suen Pak (Winki Lai), like-minded Senior Inspector Chin Hung-fei (Ricco Ng), former victim Chun Sheung-yin (Hera Chan) and trainee prosecutor Chiu Zhi-ching (Aska Cheung) to uphold justice. The chums run into obstacles. And Hey-yan has to turn hostile against his mother, who is the eldest daughter of a conglomerate, and confront his ex-lover Wong Chung-sing (Alice Chan), who is a barrister by profession. However, Hey-yan adheres to his beliefs as he is determined to uncover the truth and seek justice for the victims!</desc>
     <category lang="en">Drama Series</category>
-    <episode-num system="xmltv_ns">0.16.</episode-num>
-    <episode-num system="onscreen">S1E17</episode-num>
+    <episode-num system="xmltv_ns">0.22.</episode-num>
+    <episode-num system="onscreen">S1E23</episode-num>
   </programme>
   <programme start="20260219183500 +0000" stop="20260219190500 +0000" channel="tvbjade.unifitv">
     <title lang="en">Lo And Behold</title>
     <desc lang="en">HUNG SHU-KAN (Lau Dan) built his own logistics business from scratch and now everything is in order. The only thing on his mind is the well-being of his three daughters. His eldest daughter has moved abroad, but his second youngest daughter, HUNG YUEK-SHUI (Koni Lui), is still single. She and her little prodigy sister, HUNG SUM-YUE (Andrea So), often fight over small things, putting their father in dilemmas.</desc>
     <category lang="en">Drama Series</category>
-    <episode-num system="xmltv_ns">0.2741.</episode-num>
-    <episode-num system="onscreen">S1E2742</episode-num>
+    <episode-num system="xmltv_ns">0.2746.</episode-num>
+    <episode-num system="onscreen">S1E2747</episode-num>
   </programme>
   <programme start="20260219190500 +0000" stop="20260219193500 +0000" channel="tvbjade.unifitv">
     <title lang="en">Scoop 2026</title>
     <desc lang="en">"Scoop" airs from Monday to Sunday, closely following major social events and interesting stories, while also reporting the latest updates in the entertainment industry, celebrity news, as well as drama promotions and behind-the-scenes features. The "Today's Breaking News" segment keeps viewers up to date with the day's hottest stories. The in-depth feature section explores current affairs, social, and livelihood issues that the public cares about, interviewing relevant experts for their insights.</desc>
     <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.40.</episode-num>
-    <episode-num system="onscreen">S1E41</episode-num>
+    <episode-num system="xmltv_ns">0.49.</episode-num>
+    <episode-num system="onscreen">S1E50</episode-num>
   </programme>
   <programme start="20260219193500 +0000" stop="20260219200500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">Gourmet Express</title>
-    <desc lang="en">Hong Kong brings together global cuisines, and its unique dishes and down-to-earth fare have captured the close attention of discerning food lovers! Food hosts and presenters such as Icy Wong,Snowy Choi,Carmen Ngai,Carmaney Wong , Jessica Liu , Gillian Ng keep up with the latest food news and deals, delving into the stories behind the flavors. Gathering firsthand information on popular eateries across various platforms, the hosts personally line up and taste the food, providing genuine reviews. Even takeout-only eateries with no dine-in option are in high demand—what are the must-try picks? Running a food business inevitably comes with its own mix of sweet, sour, bitter, and spicy experiences. The production team follows the proprietors through their busy day, from sourcing ingredients and preparing materials to opening for business, uncovering the "stories behind the flavors."</desc>
+    <title lang="en">2026 Feng Shui and Fortune</title>
+    <desc lang="en">2026, the Year of the Fire Horse in the Chinese lunar calendar, is a "Red Horse" that occurs only once every sixty years, traditionally considered a year of change and challenge. "Leading the Way with Great Fortune" combines metaphysical knowledge with the festive atmosphere of the Lunar New Year, bringing positive energy to ward off misfortune and usher in a new beginning for the Red Horse Year, helping everyone achieve success! Masters Lee Shing-chak and Mak Ling-ling will provide guidance to artists from metaphysical perspectives, including annual fortune and face reading. The masters will also lead a team to the Greater Bay Area to introduce local cultural customs. In addition, other masters will share practical metaphysical tips based on their respective areas of expertise to further enhance their fortune in the Year of the Horse.</desc>
     <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.164.</episode-num>
-    <episode-num system="onscreen">S1E165</episode-num>
+    <episode-num system="xmltv_ns">0.6.</episode-num>
+    <episode-num system="onscreen">S1E7</episode-num>
   </programme>
   <programme start="20260219200500 +0000" stop="20260219210500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">What If</title>
-    <desc lang="en">Xia Guo (Zhong Chuxi), a girl living in Leshan, leads a stable and peaceful life with her boyfriend Yu Jian (Liu Xueyi), happy and content, following a predictable routine. Xia Guo secretly hopes for a life that will be a little more extraordinary, but she unexpectedly gets a job opportunity in Shanghai. On one hand, there's the opportunity and challenge of city life; on the other, a predictable, ordinary life. Faced with these different choices, how will she decide?</desc>
+    <title lang="en">Shining Just for You</title>
+    <desc lang="en">The fantasy period drama "Shining Just for You" tells the story of Ye Ling Shuang (played by Peng Xiaoran), a grassland girl who is considered a jinx by her tribe because she can foresee disasters. Only Princess Qi Hai Rui (played by Liu Mengrui) of Ye Bei treats her like a sister. Ye Bei, overestimating its strength, launches a war against the Chao Kingdom, suffering a crushing defeat and losing many soldiers. Ye Ling Shuang is taken prisoner and sent to a brothel, but she refuses to submit. Using her talent for astrology, she enters the Imperial Observatory and gradually wins the heart of the ruthless emperor Yu Xiu Ming (played by Feng Shaofeng). However, just as their friendship deepens, Ye Ling Shuang learns of Qi Hai Rui's death and breaks ties with Yu Xiu Ming. Determined to save Qi Hai Rui, Ye Ling Shuang reverses time and returns to the Ye Bei of the past. Can she change what has already happened? And what will become of her relationship with Yu Xiu Ming?</desc>
     <category lang="en">Drama Series</category>
-    <episode-num system="xmltv_ns">0.15.</episode-num>
-    <episode-num system="onscreen">S1E16</episode-num>
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+    <episode-num system="onscreen">S1E3</episode-num>
   </programme>
   <programme start="20260219210500 +0000" stop="20260219215000 +0000" channel="tvbjade.unifitv">
     <title lang="en">Big City Shop 2026</title>
     <desc lang="en">“Big City Shop” introduces viewers to a wide range of timely topics, including seasonal products, health and wellness, fitness activities, skincare and makeup, fashion apparel, infant care, parenting knowledge, local delicacies, and pet care trends. The content is all-encompassing! In addition to hands-on demonstrations, experiences, or tests by the hosts, experts are invited to share their professional insights. In the cooking segment, several skilled culinary experts take turns showcasing simple and delicious healthy dishes and home-style recipes, helping everyone solve their cooking challenges.</desc>
     <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.1911.</episode-num>
-    <episode-num system="onscreen">S1E1912</episode-num>
+    <episode-num system="xmltv_ns">0.1918.</episode-num>
+    <episode-num system="onscreen">S1E1919</episode-num>
   </programme>
   <programme start="20260219215000 +0000" stop="20260219220500 +0000" channel="tvbjade.unifitv">
     <title lang="en">Happy Old Buddies</title>
     <desc lang="en">Many people may think that older adults do not have sexual needs, but surveys have shown that this is not the case—older adults often experience less sexual activity due to various reasons. Clinical psychologist Lin Haoming from the Social Welfare Department explains the World Health Organization's definition of sexuality and offers advice for those hoping to rekindle their sex life with their partner. However, if one partner does not wish to resume sexual activity, how should both sides communicate?</desc>
     <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.269.</episode-num>
-    <episode-num system="onscreen">S1E270</episode-num>
+    <episode-num system="xmltv_ns">0.276.</episode-num>
+    <episode-num system="onscreen">S1E277</episode-num>
   </programme>
   <programme start="20260219220500 +0000" stop="20260219223500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">Big Big Home</title>
-    <desc lang="en">New buildings are glamorous and stylish, saving you a lot of decorating hassles. Older homes, with a little thought, can also be given a fresh new look. Host Tan Kaiying travels throughout Taiwan, delving into prime urban locations and emerging towns with development potential, exploring impressive luxury villas and unique homes in "The Big Dreamer"! How do Hong Kong residents who have moved to Taiwan realize their dreams of homeownership and entrepreneurship? Several "dreamers" share their local property buying stories and lifestyle guides. Director Lai Fengqi, Taiwanese-American singer Rong Zhonghao, artist Yang Zili, music producer Chen Hongjia, and Liu Lixue, the "father of Chinese computers" from Canada, will also reveal their comfortable homes on the show.</desc>
+    <title lang="en">Big Boys Club</title>
+    <desc lang="en">" Big Boys Club" is a youth talk show hosted by a group of close friends—Bob Lam, Oscar Leung, Derek Wong, Philip Fan, and Alan Chan. In each episode, singers, entertainers, or guests from various fields are invited for relaxed interviews, presenting a wide range of topics including current social issues, pop culture, and trending interests. Matters of love, relationships, and even same-sex relationships are endlessly discussed topics for men and women alike. The show invites guests from diverse backgrounds to explore love and relationships, delving into the dynamics between the sexes. The "Other Dimension" segment features guests sharing extraordinary experiences, such as encounters with ghosts, UFOs, and bizarre happenings, bringing thrilling topics to the audience.</desc>
     <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.3.</episode-num>
-    <episode-num system="onscreen">S1E4</episode-num>
+    <episode-num system="xmltv_ns">0.2073.</episode-num>
+    <episode-num system="onscreen">S1E2074</episode-num>
   </programme>
   <programme start="20260219223500 +0000" stop="20260219230500 +0000" channel="tvbjade.unifitv">
     <title lang="en">Scoop 2026</title>
     <desc lang="en">"Scoop" airs from Monday to Sunday, closely following major social events and interesting stories, while also reporting the latest updates in the entertainment industry, celebrity news, as well as drama promotions and behind-the-scenes features. The "Today's Breaking News" segment keeps viewers up to date with the day's hottest stories. The in-depth feature section explores current affairs, social, and livelihood issues that the public cares about, interviewing relevant experts for their insights.</desc>
     <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.40.</episode-num>
-    <episode-num system="onscreen">S1E41</episode-num>
+    <episode-num system="xmltv_ns">0.49.</episode-num>
+    <episode-num system="onscreen">S1E50</episode-num>
   </programme>
   <programme start="20260219230500 +0000" stop="20260220000500 +0000" channel="tvbjade.unifitv">
     <title lang="en">Good Morning Hong Kong and Global View</title>
@@ -3542,120 +3540,120 @@
     <title lang="en">Who Wants A Baby?</title>
     <desc lang="en">An unexpected pregnancy catches couple TONG TIM-YEE (Ali Lee) and IP CHI-TING (Lai Lok Yi) off guard. They depend on their mothers for baby-sitting, but conflict ensues when the in-laws' parenting skills are poles apart. The emotionally wrought and physically challenging experience of caring for their baby girl 24/7 leaves them no other choice but to hire an experienced confinement nanny, WONG KAI-MIU (Griselda Yeung), to help them. The arrival of her newborn forces TIM-YEE to give up her fashion career; whereas CHI-TING has to say goodbye to his relaxing and enjoyable nightlife. In order to spend more time to look after her daughter, TIM-YEE changes her career to take over a post-natal care agency. With KAI-MIU pulling a few strings, TIM-YEE gets to know many expectant couples and nannies. In her role as a new mom, she is struck with a newfound appreciation, but feels like she and her husband CHI-TING are growing apart. On top of that, she even suspects that he has an affair with his coworker bartender HUI CHING (Samantha Ko). Surprisingly, CHI-TING captivates the internet after bravely saving a child in an accident, and is dubbed the “greatest dad” ever, which makes the agency a childcare KOL, turning things upside down……</desc>
     <category lang="en">Drama Series</category>
-    <episode-num system="xmltv_ns">0.1.</episode-num>
-    <episode-num system="onscreen">S1E2</episode-num>
+    <episode-num system="xmltv_ns">0.10.</episode-num>
+    <episode-num system="onscreen">S1E11</episode-num>
   </programme>
   <programme start="20260220010500 +0000" stop="20260220013500 +0000" channel="tvbjade.unifitv">
     <title lang="en">Lo And Behold</title>
     <desc lang="en">HUNG SHU-KAN (Lau Dan) built his own logistics business from scratch and now everything is in order. The only thing on his mind is the well-being of his three daughters. His eldest daughter has moved abroad, but his second youngest daughter, HUNG YUEK-SHUI (Koni Lui), is still single. She and her little prodigy sister, HUNG SUM-YUE (Andrea So), often fight over small things, putting their father in dilemmas.</desc>
     <category lang="en">Drama Series</category>
-    <episode-num system="xmltv_ns">0.2741.</episode-num>
-    <episode-num system="onscreen">S1E2742</episode-num>
+    <episode-num system="xmltv_ns">0.2746.</episode-num>
+    <episode-num system="onscreen">S1E2747</episode-num>
   </programme>
   <programme start="20260220013500 +0000" stop="20260220020500 +0000" channel="tvbjade.unifitv">
     <title lang="en">Hands Up 2026</title>
     <desc lang="en">The brand-new children's program “Hands Up” encourages kids to ask questions bravely, express themselves, and pursue their goals! Members of the mascot “Sauce Family” join the hosts in performing short skits, accompanying everyone for joyful moments. The show will also feature a variety of children's songs, allowing kids to sing along while learning practical life knowledge.</desc>
     <category lang="en">Kids</category>
-    <episode-num system="xmltv_ns">0.1584.</episode-num>
-    <episode-num system="onscreen">S1E1585</episode-num>
+    <episode-num system="xmltv_ns">0.1593.</episode-num>
+    <episode-num system="onscreen">S1E1594</episode-num>
   </programme>
   <programme start="20260220020500 +0000" stop="20260220023500 +0000" channel="tvbjade.unifitv">
     <title lang="en">2026 Feng Shui and Fortune &amp; What's On Today</title>
     <desc lang="en">2026, the Year of the Fire Horse in the Chinese lunar calendar, is a "Red Horse" that occurs only once every sixty years, traditionally considered a year of change and challenge. "Leading the Way with Great Fortune" combines metaphysical knowledge with the festive atmosphere of the Lunar New Year, bringing positive energy to ward off misfortune and usher in a new beginning for the Red Horse Year, helping everyone achieve success! Masters Lee Shing-chak and Mak Ling-ling will provide guidance to artists from metaphysical perspectives, including annual fortune and face reading. The masters will also lead a team to the Greater Bay Area to introduce local cultural customs. In addition, other masters will share practical metaphysical tips based on their respective areas of expertise to further enhance their fortune in the Year of the Horse.</desc>
     <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.1.</episode-num>
-    <episode-num system="onscreen">S1E2</episode-num>
+    <episode-num system="xmltv_ns">0.6.</episode-num>
+    <episode-num system="onscreen">S1E7</episode-num>
   </programme>
   <programme start="20260220023500 +0000" stop="20260220030500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">Gourmet Express</title>
-    <desc lang="en">Hong Kong brings together global cuisines, and its unique dishes and down-to-earth fare have captured the close attention of discerning food lovers! Food hosts and presenters such as Icy Wong,Snowy Choi,Carmen Ngai,Carmaney Wong , Jessica Liu , Gillian Ng keep up with the latest food news and deals, delving into the stories behind the flavors. Gathering firsthand information on popular eateries across various platforms, the hosts personally line up and taste the food, providing genuine reviews. Even takeout-only eateries with no dine-in option are in high demand—what are the must-try picks? Running a food business inevitably comes with its own mix of sweet, sour, bitter, and spicy experiences. The production team follows the proprietors through their busy day, from sourcing ingredients and preparing materials to opening for business, uncovering the "stories behind the flavors."</desc>
+    <title lang="en">Star Weekly</title>
+    <desc lang="en">The talk show "Star Weekly" invites celebrities and industry leaders each episode, along with entertainment anchors such as Au Wing-Kuen, Hsu Wen-Hsuan, and Wang Chen-Chuan, to share their recent work plans and discuss special topics related to movies, television, and concerts, especially people and events that netizens and friends in the industry are concerned about and discussing! With so much surrounding information, the show features a special "Fact Check" segment, where guests personally respond to various rumors, allowing the parties involved to clarify the truth!</desc>
     <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.164.</episode-num>
-    <episode-num system="onscreen">S1E165</episode-num>
+    <episode-num system="xmltv_ns">0.9.</episode-num>
+    <episode-num system="onscreen">S1E10</episode-num>
   </programme>
   <programme start="20260220030500 +0000" stop="20260220040500 +0000" channel="tvbjade.unifitv">
     <title lang="en">The Unusual Prosecutor</title>
     <desc lang="en">Department of Justice SADPP Pau Hey-yan (Joe Ma) possesses extreme empathy as he suffers from a rare condition called “mirror-touch synesthesia”. His aim is to piece together the complete truth in a case, strive to get the defendant to plead guilty, and minimize the sufferings of the victims from tedious hearings. Hey-yan teams up with law clerk Kung Suen Pak (Winki Lai), like-minded Senior Inspector Chin Hung-fei (Ricco Ng), former victim Chun Sheung-yin (Hera Chan) and trainee prosecutor Chiu Zhi-ching (Aska Cheung) to uphold justice. The chums run into obstacles. And Hey-yan has to turn hostile against his mother, who is the eldest daughter of a conglomerate, and confront his ex-lover Wong Chung-sing (Alice Chan), who is a barrister by profession. However, Hey-yan adheres to his beliefs as he is determined to uncover the truth and seek justice for the victims!</desc>
     <category lang="en">Drama Series</category>
-    <episode-num system="xmltv_ns">0.16.</episode-num>
-    <episode-num system="onscreen">S1E17</episode-num>
+    <episode-num system="xmltv_ns">0.22.</episode-num>
+    <episode-num system="onscreen">S1E23</episode-num>
   </programme>
   <programme start="20260220040500 +0000" stop="20260220043500 +0000" channel="tvbjade.unifitv">
     <title lang="en">Scoop 2026</title>
     <desc lang="en">"Scoop" airs from Monday to Sunday, closely following major social events and interesting stories, while also reporting the latest updates in the entertainment industry, celebrity news, as well as drama promotions and behind-the-scenes features. The "Today's Breaking News" segment keeps viewers up to date with the day's hottest stories. The in-depth feature section explores current affairs, social, and livelihood issues that the public cares about, interviewing relevant experts for their insights.</desc>
     <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.40.</episode-num>
-    <episode-num system="onscreen">S1E41</episode-num>
+    <episode-num system="xmltv_ns">0.49.</episode-num>
+    <episode-num system="onscreen">S1E50</episode-num>
   </programme>
   <programme start="20260220043500 +0000" stop="20260220050000 +0000" channel="tvbjade.unifitv">
     <title lang="en">Big Boys Club</title>
     <desc lang="en">" Big Boys Club" is a youth talk show hosted by a group of close friends—Bob Lam, Oscar Leung, Derek Wong, Philip Fan, and Alan Chan. In each episode, singers, entertainers, or guests from various fields are invited for relaxed interviews, presenting a wide range of topics including current social issues, pop culture, and trending interests. Matters of love, relationships, and even same-sex relationships are endlessly discussed topics for men and women alike. The show invites guests from diverse backgrounds to explore love and relationships, delving into the dynamics between the sexes. The "Other Dimension" segment features guests sharing extraordinary experiences, such as encounters with ghosts, UFOs, and bizarre happenings, bringing thrilling topics to the audience.</desc>
     <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.2066.</episode-num>
-    <episode-num system="onscreen">S1E2067</episode-num>
+    <episode-num system="xmltv_ns">0.2073.</episode-num>
+    <episode-num system="onscreen">S1E2074</episode-num>
   </programme>
   <programme start="20260220050000 +0000" stop="20260220052500 +0000" channel="tvbjade.unifitv">
     <title lang="en">Hands Up 2026</title>
     <desc lang="en">The brand-new children's program “Hands Up” encourages kids to ask questions bravely, express themselves, and pursue their goals! Members of the mascot “Sauce Family” join the hosts in performing short skits, accompanying everyone for joyful moments. The show will also feature a variety of children's songs, allowing kids to sing along while learning practical life knowledge.</desc>
     <category lang="en">Kids</category>
-    <episode-num system="xmltv_ns">0.1584.</episode-num>
-    <episode-num system="onscreen">S1E1585</episode-num>
+    <episode-num system="xmltv_ns">0.1593.</episode-num>
+    <episode-num system="onscreen">S1E1594</episode-num>
   </programme>
   <programme start="20260220052500 +0000" stop="20260220061000 +0000" channel="tvbjade.unifitv">
     <title lang="en">Big City Shop 2026</title>
     <desc lang="en">“Big City Shop” introduces viewers to a wide range of timely topics, including seasonal products, health and wellness, fitness activities, skincare and makeup, fashion apparel, infant care, parenting knowledge, local delicacies, and pet care trends. The content is all-encompassing! In addition to hands-on demonstrations, experiences, or tests by the hosts, experts are invited to share their professional insights. In the cooking segment, several skilled culinary experts take turns showcasing simple and delicious healthy dishes and home-style recipes, helping everyone solve their cooking challenges.</desc>
     <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.1912.</episode-num>
-    <episode-num system="onscreen">S1E1913</episode-num>
+    <episode-num system="xmltv_ns">0.1919.</episode-num>
+    <episode-num system="onscreen">S1E1920</episode-num>
   </programme>
   <programme start="20260220061000 +0000" stop="20260220063500 +0000" channel="tvbjade.unifitv">
     <title lang="en">Lo And Behold</title>
     <desc lang="en">HUNG SHU-KAN (Lau Dan) built his own logistics business from scratch and now everything is in order. The only thing on his mind is the well-being of his three daughters. His eldest daughter has moved abroad, but his second youngest daughter, HUNG YUEK-SHUI (Koni Lui), is still single. She and her little prodigy sister, HUNG SUM-YUE (Andrea So), often fight over small things, putting their father in dilemmas.</desc>
     <category lang="en">Drama Series</category>
-    <episode-num system="xmltv_ns">0.2741.</episode-num>
-    <episode-num system="onscreen">S1E2742</episode-num>
+    <episode-num system="xmltv_ns">0.2746.</episode-num>
+    <episode-num system="onscreen">S1E2747</episode-num>
   </programme>
   <programme start="20260220063500 +0000" stop="20260220073500 +0000" channel="tvbjade.unifitv">
     <title lang="en">Yummy, Yummy? Yummy! &amp; What's On Today</title>
     <desc lang="en">While filming a historical food video, Shen Yaoguang's family accidentally enters a dream world and lands in ancient Yong'an. To survive, they open a small eatery serving modern style dishes, becoming unexpectedly popular. Mistaking Prefect Lin Yan for an ancestor, they move into his residence under a fake engagement and form a deep bond. Using modern knowledge, the family adapts to ancient life and helps Lin Yan uncover the truth behind his family's injustice, exposing Prince Wu's conspiracy. Together they protect the city, and after a life or death trial, they awaken back in reality with renewed understanding of family and heritage.</desc>
     <category lang="en">Drama Series</category>
-    <episode-num system="xmltv_ns">0.8.</episode-num>
-    <episode-num system="onscreen">S1E9</episode-num>
+    <episode-num system="xmltv_ns">0.14.</episode-num>
+    <episode-num system="onscreen">S1E15</episode-num>
   </programme>
   <programme start="20260220073500 +0000" stop="20260220080500 +0000" channel="tvbjade.unifitv">
     <title lang="en">2026 Feng Shui and Fortune</title>
     <desc lang="en">2026, the Year of the Fire Horse in the Chinese lunar calendar, is a "Red Horse" that occurs only once every sixty years, traditionally considered a year of change and challenge. "Leading the Way with Great Fortune" combines metaphysical knowledge with the festive atmosphere of the Lunar New Year, bringing positive energy to ward off misfortune and usher in a new beginning for the Red Horse Year, helping everyone achieve success! Masters Lee Shing-chak and Mak Ling-ling will provide guidance to artists from metaphysical perspectives, including annual fortune and face reading. The masters will also lead a team to the Greater Bay Area to introduce local cultural customs. In addition, other masters will share practical metaphysical tips based on their respective areas of expertise to further enhance their fortune in the Year of the Horse.</desc>
     <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.1.</episode-num>
-    <episode-num system="onscreen">S1E2</episode-num>
-  </programme>
-  <programme start="20260220080500 +0000" stop="20260220083500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">Dolce Vita 2021</title>
-    <desc lang="en">Hong Kong life is vibrant and diverse, and "Hong Kong Life, Hong Kong Enjoyment" presents both sophisticated and elegant lifestyles and down-to-earth, high-quality experiences. The program combines diverse themes, exploring different areas in each episode and inviting elites from various industries to share their secrets to success.</desc>
-    <category lang="en">Entertainment</category>
     <episode-num system="xmltv_ns">0.6.</episode-num>
     <episode-num system="onscreen">S1E7</episode-num>
   </programme>
-  <programme start="20260220083500 +0000" stop="20260220090500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">Open Book</title>
-    <desc lang="en">In this fast-food era of digitized books and chapters, where a smartphone can reveal all the world's happenings, few people still maintain the habit of reading. Patrick Sir, a well-read bibliophile, joins forces with young readers like Oscar Tao and Honey Ho to reaffirm the value of physical books. Each episode introduces a great book, opening up scientific texts, historical literature, novels, and even fashion magazines to share interesting knowledge discovered within the pages. When was the last time you thoroughly read an entire book? Take inspiration from the reading lists of top book lovers, take action, leave some breathing room in your busy life, and rekindle your reading habits to enrich yourself!</desc>
+  <programme start="20260220080500 +0000" stop="20260220083500 +0000" channel="tvbjade.unifitv">
+    <title lang="en">The Taste Of Us</title>
+    <desc lang="en">Delicious food, bursting with color, aroma, and flavor, not only fills the stomach but also soothes the soul! Liangliang (Mason Fung), a freelancer who loves singing and food, is feeling lost after breaking up with his girlfriend Jessica (Carmen Ngai). To prove his financial independence, he rents out his vacant room. His tenant, Azhi (Zeno Koo ), is a cooking enthusiast who frequently unleashes his culinary skills, creating a variety of heartwarming dishes such as "Miso Clam Soup" and "Chicken and Avocado Mexican Rolls"... The two young men hit it off immediately, satisfying each other's hunger and filling each other's voids! What kind of interesting relationship will these two very different personalities build?</desc>
     <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.96.</episode-num>
-    <episode-num system="onscreen">S1E97</episode-num>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+    <episode-num system="onscreen">S1E2</episode-num>
+  </programme>
+  <programme start="20260220083500 +0000" stop="20260220090500 +0000" channel="tvbjade.unifitv">
+    <title lang="en">Sustainable in Constructio</title>
+    <desc lang="en">Hong Kong, with its towering skyscrapers, is a veritable "concrete jungle." The concrete used in construction releases a large amount of carbon dioxide during its production, making it the largest source of greenhouse gases after coal, oil, and natural gas. Therefore, countries worldwide are actively developing more environmentally friendly building materials to achieve net-zero emissions by 2050. This program, "Carbon Reduction &amp; Building Footprints," interviews various experts and industry professionals to analyze the use and evolution of concrete, and explores the advantages of adding special additives to concrete, as well as their benefits to society and the environment. It encourages the industry to use sustainable materials more widely, preparing for a "low-carbon transition"!</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260220090500 +0000" stop="20260220093500 +0000" channel="tvbjade.unifitv">
     <title lang="en">Big Boys Club</title>
     <desc lang="en">" Big Boys Club" is a youth talk show hosted by a group of close friends—Bob Lam, Oscar Leung, Derek Wong, Philip Fan, and Alan Chan. In each episode, singers, entertainers, or guests from various fields are invited for relaxed interviews, presenting a wide range of topics including current social issues, pop culture, and trending interests. Matters of love, relationships, and even same-sex relationships are endlessly discussed topics for men and women alike. The show invites guests from diverse backgrounds to explore love and relationships, delving into the dynamics between the sexes. The "Other Dimension" segment features guests sharing extraordinary experiences, such as encounters with ghosts, UFOs, and bizarre happenings, bringing thrilling topics to the audience.</desc>
     <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.2067.</episode-num>
-    <episode-num system="onscreen">S1E2068</episode-num>
+    <episode-num system="xmltv_ns">0.2074.</episode-num>
+    <episode-num system="onscreen">S1E2075</episode-num>
   </programme>
   <programme start="20260220093500 +0000" stop="20260220103500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">What If</title>
-    <desc lang="en">Xia Guo (Zhong Chuxi), a girl living in Leshan, leads a stable and peaceful life with her boyfriend Yu Jian (Liu Xueyi), happy and content, following a predictable routine. Xia Guo secretly hopes for a life that will be a little more extraordinary, but she unexpectedly gets a job opportunity in Shanghai. On one hand, there's the opportunity and challenge of city life; on the other, a predictable, ordinary life. Faced with these different choices, how will she decide?</desc>
+    <title lang="en">Shining Just for You</title>
+    <desc lang="en">The fantasy period drama "Shining Just for You" tells the story of Ye Ling Shuang (played by Peng Xiaoran), a grassland girl who is considered a jinx by her tribe because she can foresee disasters. Only Princess Qi Hai Rui (played by Liu Mengrui) of Ye Bei treats her like a sister. Ye Bei, overestimating its strength, launches a war against the Chao Kingdom, suffering a crushing defeat and losing many soldiers. Ye Ling Shuang is taken prisoner and sent to a brothel, but she refuses to submit. Using her talent for astrology, she enters the Imperial Observatory and gradually wins the heart of the ruthless emperor Yu Xiu Ming (played by Feng Shaofeng). However, just as their friendship deepens, Ye Ling Shuang learns of Qi Hai Rui's death and breaks ties with Yu Xiu Ming. Determined to save Qi Hai Rui, Ye Ling Shuang reverses time and returns to the Ye Bei of the past. Can she change what has already happened? And what will become of her relationship with Yu Xiu Ming?</desc>
     <category lang="en">Drama Series</category>
-    <episode-num system="xmltv_ns">0.16.</episode-num>
-    <episode-num system="onscreen">S1E17</episode-num>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+    <episode-num system="onscreen">S1E4</episode-num>
   </programme>
   <programme start="20260220103500 +0000" stop="20260220110500 +0000" channel="tvbjade.unifitv">
     <title lang="en">News At 18:30</title>
@@ -3663,53 +3661,53 @@
     <category lang="en">News </category>
   </programme>
   <programme start="20260220110500 +0000" stop="20260220114000 +0000" channel="tvbjade.unifitv">
-    <title lang="en">Maria's Auspicious Menu 9 &amp; What's On Today</title>
-    <desc lang="en">Maria's Auspicious Menu 9 &amp; What's On Today</desc>
+    <title lang="en">Vital Lifeline &amp; What's On Today</title>
+    <desc lang="en">Urban dwellers often experience a hectic pace of life and high levels of stress, making them more susceptible to health problems. "The Strongest Lifeline" helps you unravel the secrets to good health. To start, the program features a four-episode series on common urban pain issues, covering headaches, shoulder and neck pain, back pain, and joint pain. Each episode invites medical experts to explain the causes of these conditions, as well as physical therapists and exercise specialists to teach appropriate exercises. With the growing trend of integrating Eastern and Western medicine, even American swimming champion Michael Phelps uses cupping therapy to relieve pain. Therefore, each episode also includes traditional Chinese medical diagnosis, complemented by treatments such as acupuncture, cupping, and the “Sanfu” herbal patch therapy, which is especially suitable during the hottest days of summer. In addition, Chinese medicine practitioners share recipes for nourishing soups, all of which can help regulate and improve your health.</desc>
     <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.4.</episode-num>
-    <episode-num system="onscreen">S1E5</episode-num>
+    <episode-num system="xmltv_ns">0.436.</episode-num>
+    <episode-num system="onscreen">S1E437</episode-num>
   </programme>
   <programme start="20260220114000 +0000" stop="20260220120500 +0000" channel="tvbjade.unifitv">
     <title lang="en">Scoop 2026</title>
     <desc lang="en">"Scoop" airs from Monday to Sunday, closely following major social events and interesting stories, while also reporting the latest updates in the entertainment industry, celebrity news, as well as drama promotions and behind-the-scenes features. The "Today's Breaking News" segment keeps viewers up to date with the day's hottest stories. The in-depth feature section explores current affairs, social, and livelihood issues that the public cares about, interviewing relevant experts for their insights.</desc>
     <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.41.</episode-num>
-    <episode-num system="onscreen">S1E42</episode-num>
+    <episode-num system="xmltv_ns">0.50.</episode-num>
+    <episode-num system="onscreen">S1E51</episode-num>
   </programme>
   <programme start="20260220120500 +0000" stop="20260220123500 +0000" channel="tvbjade.unifitv">
     <title lang="en">Lo And Behold</title>
     <desc lang="en">HUNG SHU-KAN (Lau Dan) built his own logistics business from scratch and now everything is in order. The only thing on his mind is the well-being of his three daughters. His eldest daughter has moved abroad, but his second youngest daughter, HUNG YUEK-SHUI (Koni Lui), is still single. She and her little prodigy sister, HUNG SUM-YUE (Andrea So), often fight over small things, putting their father in dilemmas.</desc>
     <category lang="en">Drama Series</category>
-    <episode-num system="xmltv_ns">0.2742.</episode-num>
-    <episode-num system="onscreen">S1E2743</episode-num>
+    <episode-num system="xmltv_ns">0.2747.</episode-num>
+    <episode-num system="onscreen">S1E2748</episode-num>
   </programme>
   <programme start="20260220123500 +0000" stop="20260220133500 +0000" channel="tvbjade.unifitv">
     <title lang="en">The Unusual Prosecutor</title>
     <desc lang="en">Department of Justice SADPP Pau Hey-yan (Joe Ma) possesses extreme empathy as he suffers from a rare condition called “mirror-touch synesthesia”. His aim is to piece together the complete truth in a case, strive to get the defendant to plead guilty, and minimize the sufferings of the victims from tedious hearings. Hey-yan teams up with law clerk Kung Suen Pak (Winki Lai), like-minded Senior Inspector Chin Hung-fei (Ricco Ng), former victim Chun Sheung-yin (Hera Chan) and trainee prosecutor Chiu Zhi-ching (Aska Cheung) to uphold justice. The chums run into obstacles. And Hey-yan has to turn hostile against his mother, who is the eldest daughter of a conglomerate, and confront his ex-lover Wong Chung-sing (Alice Chan), who is a barrister by profession. However, Hey-yan adheres to his beliefs as he is determined to uncover the truth and seek justice for the victims!</desc>
     <category lang="en">Drama Series</category>
-    <episode-num system="xmltv_ns">0.17.</episode-num>
-    <episode-num system="onscreen">S1E18</episode-num>
+    <episode-num system="xmltv_ns">0.23.</episode-num>
+    <episode-num system="onscreen">S1E24</episode-num>
   </programme>
   <programme start="20260220133500 +0000" stop="20260220143500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">Yummy, Yummy? Yummy!</title>
-    <desc lang="en">While filming a historical food video, Shen Yaoguang's family accidentally enters a dream world and lands in ancient Yong'an. To survive, they open a small eatery serving modern style dishes, becoming unexpectedly popular. Mistaking Prefect Lin Yan for an ancestor, they move into his residence under a fake engagement and form a deep bond. Using modern knowledge, the family adapts to ancient life and helps Lin Yan uncover the truth behind his family's injustice, exposing Prince Wu's conspiracy. Together they protect the city, and after a life or death trial, they awaken back in reality with renewed understanding of family and heritage.</desc>
+    <title lang="en">The Unusual Prosecutor</title>
+    <desc lang="en">Department of Justice SADPP Pau Hey-yan (Joe Ma) possesses extreme empathy as he suffers from a rare condition called “mirror-touch synesthesia”. His aim is to piece together the complete truth in a case, strive to get the defendant to plead guilty, and minimize the sufferings of the victims from tedious hearings. Hey-yan teams up with law clerk Kung Suen Pak (Winki Lai), like-minded Senior Inspector Chin Hung-fei (Ricco Ng), former victim Chun Sheung-yin (Hera Chan) and trainee prosecutor Chiu Zhi-ching (Aska Cheung) to uphold justice. The chums run into obstacles. And Hey-yan has to turn hostile against his mother, who is the eldest daughter of a conglomerate, and confront his ex-lover Wong Chung-sing (Alice Chan), who is a barrister by profession. However, Hey-yan adheres to his beliefs as he is determined to uncover the truth and seek justice for the victims!</desc>
     <category lang="en">Drama Series</category>
-    <episode-num system="xmltv_ns">0.9.</episode-num>
-    <episode-num system="onscreen">S1E10</episode-num>
+    <episode-num system="xmltv_ns">0.24.</episode-num>
+    <episode-num system="onscreen">S1E25</episode-num>
   </programme>
   <programme start="20260220143500 +0000" stop="20260220150500 +0000" channel="tvbjade.unifitv">
     <title lang="en">2026 Feng Shui and Fortune</title>
     <desc lang="en">2026, the Year of the Fire Horse in the Chinese lunar calendar, is a "Red Horse" that occurs only once every sixty years, traditionally considered a year of change and challenge. "Leading the Way with Great Fortune" combines metaphysical knowledge with the festive atmosphere of the Lunar New Year, bringing positive energy to ward off misfortune and usher in a new beginning for the Red Horse Year, helping everyone achieve success! Masters Lee Shing-chak and Mak Ling-ling will provide guidance to artists from metaphysical perspectives, including annual fortune and face reading. The masters will also lead a team to the Greater Bay Area to introduce local cultural customs. In addition, other masters will share practical metaphysical tips based on their respective areas of expertise to further enhance their fortune in the Year of the Horse.</desc>
     <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.2.</episode-num>
-    <episode-num system="onscreen">S1E3</episode-num>
+    <episode-num system="xmltv_ns">0.7.</episode-num>
+    <episode-num system="onscreen">S1E8</episode-num>
   </programme>
   <programme start="20260220150500 +0000" stop="20260220152000 +0000" channel="tvbjade.unifitv">
     <title lang="en">EXTRA</title>
     <desc lang="en">Report important news about Hong Kong, cross-strait, and international affairs. Stay updated every night with the latest news from Hong Kong's entertainment industry, as well as film and entertainment news from around the world. We report on the newest developments of artists, promotions for TV series and movies, highlights from concerts, and coverage of grand award ceremonies. We even travel abroad to cover major entertainment events, track international movie stars, and conduct exclusive interviews with well-known singers, actors, and television personalities familiar to our audience—ensuring you can instantly grasp the latest happenings and news in the world of film and entertainment.</desc>
     <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.3952.</episode-num>
-    <episode-num system="onscreen">S1E3953</episode-num>
+    <episode-num system="xmltv_ns">0.3957.</episode-num>
+    <episode-num system="onscreen">S1E3958</episode-num>
   </programme>
   <programme start="20260220152000 +0000" stop="20260220155500 +0000" channel="tvbjade.unifitv">
     <title lang="en">News Roundup</title>

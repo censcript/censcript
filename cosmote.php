@@ -78,8 +78,8 @@
     <title>Game R1 S6 E26</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260220140500 +0700" stop="20260220160000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Cagliari - Lecce</title>
+<programme start="20260221160000 +0700" stop="20260221180000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: FK Bodo/Glimt - FC Internazionale Milano</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260220160000 +0700" stop="20260220180000 +0700" channel="COSMOTE Sport 2 HD">
@@ -142,6 +142,14 @@
     <title>Football: Sassuolo - Hellas Verona</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260221161000 +0700" stop="20260221163000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Sports Classics: Worldies E6</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260221163000 +0700" stop="20260221184500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Panathinaikos - AEL Novibet</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260220150000 +0700" stop="20260220170000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Noah - AZ Alkmaar</title>
     <desc>Live: Tidak</desc>
@@ -192,10 +200,6 @@
 </programme>
 <programme start="20260221150000 +0700" stop="20260221170000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Blackburn Rovers - Preston North End</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260220131500 +0700" stop="20260220152000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Turk Telekom - Fenerbahce</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260220152000 +0700" stop="20260220172000 +0700" channel="COSMOTE Sport 4 HD">
@@ -268,10 +272,6 @@
 </programme>
 <programme start="20260221150000 +0700" stop="20260221173000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Minnesota Timberwolves - Dallas Mavericks</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260220145500 +0700" stop="20260220155500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260220155500 +0700" stop="20260220173000 +0700" channel="COSMOTE Sport 5 HD">
@@ -362,8 +362,8 @@
     <title>WRC</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260220134000 +0700" stop="20260220153000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: Stefanos Tsitsipas - Andrey Rublev</title>
+<programme start="20260221164000 +0700" stop="20260221173000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260220153000 +0700" stop="20260220180000 +0700" channel="COSMOTE Sport 6 HD">
@@ -424,6 +424,10 @@
 </programme>
 <programme start="20260221150000 +0700" stop="20260221163000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Topspin</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260221163000 +0700" stop="20260221170000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Premier Padel Tour 2026 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260220150000 +0700" stop="20260220170000 +0700" channel="COSMOTE Sport 7 HD">

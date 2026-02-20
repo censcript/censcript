@@ -6515,7 +6515,7 @@
     <title>NHK Newsline</title>
 </programme>
 <programme start="20260220133000 +0000" stop="20260220140000 +0000" channel="NHK World.mncvision">
-    <title>Special Program</title>
+    <title>Trailblazers</title>
 </programme>
 <programme start="20260220140000 +0000" stop="20260220143000 +0000" channel="NHK World.mncvision">
     <title>NHK Newsline</title>
@@ -7609,7 +7609,10 @@
 <programme start="20260220063000 +0000" stop="20260220083000 +0000" channel="RCTI.mncvision">
     <title>Hafiz Indonesia 2026</title>
 </programme>
-<programme start="20260220083000 +0000" stop="20260220100000 +0000" channel="RCTI.mncvision">
+<programme start="20260220083000 +0000" stop="20260220084500 +0000" channel="RCTI.mncvision">
+    <title>Kisah Pencinta Al-Qur&#039;an</title>
+</programme>
+<programme start="20260220084500 +0000" stop="20260220100000 +0000" channel="RCTI.mncvision">
     <title>Banyak Jalan Menuju Surga</title>
 </programme>
 <programme start="20260220100000 +0000" stop="20260220111500 +0000" channel="RCTI.mncvision">
@@ -7625,7 +7628,7 @@
     <title>Mencintai Ipar Sendiri</title>
 </programme>
 <programme start="20260220150000 +0000" stop="20260220153000 +0000" channel="RCTI.mncvision">
-    <title>My Psycho Husband</title>
+    <title>Menantu Penguras Harta</title>
 </programme>
 <programme start="20260219170000 +0000" stop="20260219193000 +0000" channel="RCTI HD.mncvision">
     <title>Preman Pensiun S2</title>
@@ -7663,7 +7666,10 @@
 <programme start="20260220063000 +0000" stop="20260220083000 +0000" channel="RCTI HD.mncvision">
     <title>Hafiz Indonesia 2026</title>
 </programme>
-<programme start="20260220083000 +0000" stop="20260220100000 +0000" channel="RCTI HD.mncvision">
+<programme start="20260220083000 +0000" stop="20260220084500 +0000" channel="RCTI HD.mncvision">
+    <title>Kisah Pencinta Al-Qur&#039;an</title>
+</programme>
+<programme start="20260220084500 +0000" stop="20260220100000 +0000" channel="RCTI HD.mncvision">
     <title>Banyak Jalan Menuju Surga</title>
 </programme>
 <programme start="20260220100000 +0000" stop="20260220111500 +0000" channel="RCTI HD.mncvision">
@@ -7679,7 +7685,7 @@
     <title>Mencintai Ipar Sendiri</title>
 </programme>
 <programme start="20260220150000 +0000" stop="20260220153000 +0000" channel="RCTI HD.mncvision">
-    <title>My Psycho Husband</title>
+    <title>Menantu Penguras Harta</title>
 </programme>
 <programme start="20260219174000 +0000" stop="20260219192500 +0000" channel="Rock Action.mncvision">
     <title>Fist Of Legend</title>
@@ -9106,19 +9112,22 @@
 <programme start="20260220163000 +0000" stop="20260219170000 +0000" channel="Trans 7.mncvision">
     <title>Misteri Dunia</title>
 </programme>
-<programme start="20260219183000 +0000" stop="20260219220000 +0000" channel="Trans TV.mncvision">
-    <title>CNN Indonesia Connected</title>
+<programme start="20260219190000 +0000" stop="20260219214500 +0000" channel="Trans TV.mncvision">
+    <title>Blockbuster Sahur Movie</title>
 </programme>
-<programme start="20260219220000 +0000" stop="20260219233000 +0000" channel="Trans TV.mncvision">
+<programme start="20260219214500 +0000" stop="20260219224500 +0000" channel="Trans TV.mncvision">
+    <title>Fast &amp; Furious: Spy Racers</title>
+</programme>
+<programme start="20260219224500 +0000" stop="20260220000000 +0000" channel="Trans TV.mncvision">
     <title>Islam Itu Indah</title>
 </programme>
-<programme start="20260219233000 +0000" stop="20260220003000 +0000" channel="Trans TV.mncvision">
+<programme start="20260220000000 +0000" stop="20260220010000 +0000" channel="Trans TV.mncvision">
     <title>Insert Pagi (L)</title>
 </programme>
-<programme start="20260220003000 +0000" stop="20260220013000 +0000" channel="Trans TV.mncvision">
+<programme start="20260220010000 +0000" stop="20260220020000 +0000" channel="Trans TV.mncvision">
     <title>CNN Indonesia Good Morning</title>
 </programme>
-<programme start="20260220013000 +0000" stop="20260220033000 +0000" channel="Trans TV.mncvision">
+<programme start="20260220020000 +0000" stop="20260220033000 +0000" channel="Trans TV.mncvision">
     <title>Pagi-Pagi Ambyar</title>
 </programme>
 <programme start="20260220033000 +0000" stop="20260220053000 +0000" channel="Trans TV.mncvision">
@@ -9133,23 +9142,17 @@
 <programme start="20260220080000 +0000" stop="20260220090000 +0000" channel="Trans TV.mncvision">
     <title>Insert Today</title>
 </programme>
-<programme start="20260220090000 +0000" stop="20260220093000 +0000" channel="Trans TV.mncvision">
-    <title>CNN Indonesia News Update</title>
-</programme>
-<programme start="20260220093000 +0000" stop="20260220101500 +0000" channel="Trans TV.mncvision">
-    <title>Dream Box Indonesia</title>
-</programme>
-<programme start="20260220101500 +0000" stop="20260220113000 +0000" channel="Trans TV.mncvision">
-    <title>Bikin Laper</title>
+<programme start="20260220090000 +0000" stop="20260220113000 +0000" channel="Trans TV.mncvision">
+    <title>Indahnya Ramadan</title>
 </programme>
 <programme start="20260220113000 +0000" stop="20260220123000 +0000" channel="Trans TV.mncvision">
-    <title>Insert Story</title>
+    <title>Bikin Laper</title>
 </programme>
 <programme start="20260220123000 +0000" stop="20260220133000 +0000" channel="Trans TV.mncvision">
-    <title>Monitor Ketua</title>
+    <title>Insert Story</title>
 </programme>
 <programme start="20260220133000 +0000" stop="20260220143000 +0000" channel="Trans TV.mncvision">
-    <title>Dunia Punya Cerita</title>
+    <title>Monitor Ketua</title>
 </programme>
 <programme start="20260220143000 +0000" stop="20260220163000 +0000" channel="Trans TV.mncvision">
     <title>Bioskop Trans TV</title>
