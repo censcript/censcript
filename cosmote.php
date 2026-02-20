@@ -82,9 +82,9 @@
     <title>PreGame (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260220200000 +0700" stop="20260220220000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: FC Drita - NK Celje</title>
-    <desc>Live: Tidak</desc>
+<programme start="20260221220000 +0700" stop="20260222000500 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: Olympiacos - Panetolikos (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260220220000 +0700" stop="20260221000000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Zrinjski Mostar - Crystal Palace</title>
@@ -206,9 +206,9 @@
     <title>William Hill Scottish Premiership - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260220192000 +0700" stop="20260220212000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Anadolu Efes - Trabzonspor</title>
-    <desc>Live: Tidak</desc>
+<programme start="20260221220000 +0700" stop="20260222000000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Southampton - Charlton Athletic  (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260220212000 +0700" stop="20260220232000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Real Madrid - Unicaja</title>
@@ -284,10 +284,6 @@
 </programme>
 <programme start="20260221202500 +0700" stop="20260221230000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Minnesota Timberwolves - Dallas Mavericks</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260220201500 +0700" stop="20260220212000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: Extreme E 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260220212000 +0700" stop="20260220232500 +0700" channel="COSMOTE Sport 5 HD">
@@ -376,10 +372,6 @@
 </programme>
 <programme start="20260221212000 +0700" stop="20260221232500 +0700" channel="COSMOTE Sport 5 HD">
     <title>2025 Extreme H</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260220190000 +0700" stop="20260220212500 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Volleyball: Panathinaikos - Panionios</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260220212500 +0700" stop="20260220233000 +0700" channel="COSMOTE Sport 6 HD">
