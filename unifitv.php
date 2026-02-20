@@ -15460,17 +15460,17 @@
   <channel id="beinsports.unifitv">
     <display-name>beIN SPORTS 1</display-name>
   </channel>
-  <programme start="20260219115500 +0000" stop="20260219160000 +0000" channel="beinsports.unifitv">
+  <programme start="20260219115500 +0000" stop="20260219160700 +0000" channel="beinsports.unifitv">
     <title lang="en">Formula 1 Aramco Pre-Season Testing - FORMULA 1 ARAMCO PRE-SEASON TESTING 2 2026 Day 2 Session PM (L)</title>
     <desc lang="en">Catch all the action as teams put their cars through their paces ahead of the opening race in the upcoming season.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260219160000 +0000" stop="20260219170000 +0000" channel="beinsports.unifitv">
+  <programme start="20260219160700 +0000" stop="20260219170500 +0000" channel="beinsports.unifitv">
     <title lang="en">WRC Highlights - Rally Sweden</title>
     <desc lang="en">Enjoy highlights from the 54th season of the World Rally Championship</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260219170000 +0000" stop="20260219174000 +0000" channel="beinsports.unifitv">
+  <programme start="20260219170500 +0000" stop="20260219174000 +0000" channel="beinsports.unifitv">
     <title lang="en">LaLiga Highlights - Matchday 24</title>
     <desc lang="en">Catch all the highlights from the latest round of games in LaLiga EA Sports, Spain's top division of football.</desc>
     <category lang="en">Sports</category>

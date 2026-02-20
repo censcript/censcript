@@ -1946,7 +1946,7 @@
         <title>UEFA Europa League 2025/26: Celtic vs Stuttgart - KO Play-Offs,1st Leg</title>
     </programme>
     <programme start="20260220091000 +0000" stop="20260220110000 +0000" channel="beIN Sports 3.starhub">
-        <title>UEFA Conference League 2025/26: Zrinjski vs Crystal Palace - KO Play-Offs,1st Leg</title>
+        <title>UEFA Conference League 2025/26: Zrinjski vs Crystal Palace - KO Play-Offs,1st Le</title>
     </programme>
     <programme start="20260220110000 +0000" stop="20260220120000 +0000" channel="beIN Sports 3.starhub">
         <title>Knockout RD Play-Offs,1st Leg</title>
