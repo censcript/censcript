@@ -6785,7 +6785,7 @@
         <title>Matchday 24</title>
     </programme>
     <programme start="20260219174000 +0000" stop="20260219195500 +0000" channel="beIN Sports HD.starhub">
-        <title>UEFA Europa League 2025/26: Fenerbahce vs Nottingham Forest - KO Play-Offs,1st Leg (Live)</title>
+        <title>UEFA Europa League 2025/26: Fenerbahce vs Nottingham Forest - KO Play-Offs,1st L</title>
     </programme>
     <programme start="20260219195500 +0000" stop="20260219220000 +0000" channel="beIN Sports HD.starhub">
         <title>UEFA Europa League 2025/26: Celtic vs Stuttgart - KO Play-Offs,1st Leg (Live)</title>
@@ -6926,10 +6926,10 @@
         <title>Direct Talk</title>
     </programme>
     <programme start="20260219184300 +0000" stop="20260219184800 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>Short Programme</title>
+        <title>One in Every Japanese</title>
     </programme>
     <programme start="20260219184800 +0000" stop="20260219185500 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>Short Programme</title>
+        <title>One in Every Japanese</title>
     </programme>
     <programme start="20260219185500 +0000" stop="20260219190000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>Ukiyo-e Edo-Life</title>
@@ -6983,7 +6983,7 @@
         <title>NHK Newsline</title>
     </programme>
     <programme start="20260220023000 +0000" stop="20260220030000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>Special Programme</title>
+        <title>Trailblazers</title>
     </programme>
     <programme start="20260220030000 +0000" stop="20260220033000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>NHK Newsline</title>
@@ -7013,7 +7013,7 @@
         <title>Newsline Asia 24</title>
     </programme>
     <programme start="20260220073000 +0000" stop="20260220080000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>Special Programme</title>
+        <title>Trailblazers</title>
     </programme>
     <programme start="20260220080000 +0000" stop="20260220083000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>NHK Newsline</title>
@@ -7055,7 +7055,7 @@
         <title>NHK Newsline</title>
     </programme>
     <programme start="20260220133000 +0000" stop="20260220140000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>Special Programme</title>
+        <title>Trailblazers</title>
     </programme>
     <programme start="20260220140000 +0000" stop="20260220143000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>NHK Newsline</title>
