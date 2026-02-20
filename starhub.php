@@ -3820,6 +3820,9 @@
     <programme start="20260221000000 +0000" stop="20260221002500 +0000" channel="NHK World Premium HD.starhub">
         <title>Warm Hokkaido (R)</title>
     </programme>
+    <programme start="20260221002500 +0000" stop="20260221003000 +0000" channel="NHK World Premium HD.starhub">
+        <title>We Love Fluffy Animals Mini</title>
+    </programme>
     <programme start="20260221003000 +0000" stop="20260221010000 +0000" channel="NHK World Premium HD.starhub">
         <title>Document 72 Hours</title>
     </programme>
@@ -3911,7 +3914,7 @@
         <title>Shikoku colors</title>
     </programme>
     <programme start="20260221105500 +0000" stop="20260221110000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Mini Program</title>
+        <title>Trip to the Origin of Japan</title>
     </programme>
     <programme start="20260221110000 +0000" stop="20260221115300 +0000" channel="NHK World Premium HD.starhub">
         <title>Project X: The Challengers-New Beginnings &quot;Okinawa Churaumi Aquarium&quot; Encore</title>

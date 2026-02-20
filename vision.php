@@ -310,71 +310,74 @@
 <programme start="20260220163000 +0000" stop="20260220170000 +0000" channel="iNews.vision">
 <title>New Top Files</title>
 </programme>
-<programme start="20260220170000 +0000" stop="20260220173000 +0000" channel="iNews.vision">
-<title>E-Max</title>
-</programme>
-<programme start="20260220173000 +0000" stop="20260220190000 +0000" channel="iNews.vision">
+<programme start="20260220170000 +0000" stop="20260220174500 +0000" channel="iNews.vision">
 <title>iNews</title>
 </programme>
-<programme start="20260220190000 +0000" stop="20260220200000 +0000" channel="iNews.vision">
-<title>iNews Sore</title>
+<programme start="20260220174500 +0000" stop="20260220183000 +0000" channel="iNews.vision">
+<title>iNews</title>
+</programme>
+<programme start="20260220183000 +0000" stop="20260220191500 +0000" channel="iNews.vision">
+<title>iNews</title>
+</programme>
+<programme start="20260220191500 +0000" stop="20260220200000 +0000" channel="iNews.vision">
+<title>iNews</title>
 </programme>
 <programme start="20260220200000 +0000" stop="20260220203000 +0000" channel="iNews.vision">
-<title>Ramadan Story</title>
+<title>iNews</title>
 </programme>
 <programme start="20260220203000 +0000" stop="20260220210000 +0000" channel="iNews.vision">
-<title>Cahaya Hati The Series (Inews)</title>
+<title>iNews</title>
 </programme>
 <programme start="20260220210000 +0000" stop="20260220213000 +0000" channel="iNews.vision">
-<title>Inews Pagi (Live)</title>
+<title>iNews</title>
 </programme>
 <programme start="20260220213000 +0000" stop="20260220214000 +0000" channel="iNews.vision">
-<title>Imsak</title>
+<title>iNews</title>
 </programme>
 <programme start="20260220214000 +0000" stop="20260220230000 +0000" channel="iNews.vision">
-<title>iNews Pagi</title>
+<title>iNews</title>
 </programme>
 <programme start="20260220230000 +0000" stop="20260220230200 +0000" channel="iNews.vision">
-<title>Indonesia Raya</title>
+<title>iNews</title>
 </programme>
 <programme start="20260220230200 +0000" stop="20260220233000 +0000" channel="iNews.vision">
-<title>iNews Sport</title>
+<title>iNews</title>
 </programme>
-<programme start="20260220233000 +0000" stop="20260221000000 +0000" channel="iNews.vision">
-<title>iBreak (L)</title>
+<programme start="20260220233000 +0000" stop="20260221003000 +0000" channel="iNews.vision">
+<title>iNews</title>
 </programme>
-<programme start="20260221000000 +0000" stop="20260221010000 +0000" channel="iNews.vision">
-<title>Special Report</title>
+<programme start="20260221003000 +0000" stop="20260221013000 +0000" channel="iNews.vision">
+<title>iNews</title>
 </programme>
-<programme start="20260221010000 +0000" stop="20260221023000 +0000" channel="iNews.vision">
-<title>Realita</title>
+<programme start="20260221013000 +0000" stop="20260221023000 +0000" channel="iNews.vision">
+<title>iNews</title>
 </programme>
 <programme start="20260221023000 +0000" stop="20260221033000 +0000" channel="iNews.vision">
-<title>iNews Files</title>
+<title>iNews</title>
 </programme>
 <programme start="20260221033000 +0000" stop="20260221053000 +0000" channel="iNews.vision">
-<title>iNews Siang (L)</title>
+<title>iNews</title>
 </programme>
 <programme start="20260221053000 +0000" stop="20260221070000 +0000" channel="iNews.vision">
-<title>Cahaya Hati Ramadan (L)</title>
+<title>iNews</title>
 </programme>
-<programme start="20260221070000 +0000" stop="20260221083000 +0000" channel="iNews.vision">
-<title>iSeleb</title>
+<programme start="20260221070000 +0000" stop="20260221080000 +0000" channel="iNews.vision">
+<title>iNews</title>
 </programme>
-<programme start="20260221083000 +0000" stop="20260221100000 +0000" channel="iNews.vision">
-<title>Realita (L)</title>
+<programme start="20260221080000 +0000" stop="20260221093000 +0000" channel="iNews.vision">
+<title>iNews</title>
 </programme>
-<programme start="20260221100000 +0000" stop="20260221110000 +0000" channel="iNews.vision">
-<title>Inews Sore (Live)</title>
+<programme start="20260221093000 +0000" stop="20260221110000 +0000" channel="iNews.vision">
+<title>iNews</title>
 </programme>
-<programme start="20260221110000 +0000" stop="20260221110500 +0000" channel="iNews.vision">
-<title>Cahaya Hati The Series</title>
+<programme start="20260221110000 +0000" stop="20260221110300 +0000" channel="iNews.vision">
+<title>iNews</title>
 </programme>
-<programme start="20260221110500 +0000" stop="20260221112000 +0000" channel="iNews.vision">
-<title>Kultum Cahaya Hati Berbuka</title>
+<programme start="20260221110300 +0000" stop="20260221113000 +0000" channel="iNews.vision">
+<title>iNews</title>
 </programme>
-<programme start="20260221112000 +0000" stop="20260221120000 +0000" channel="iNews.vision">
-<title>iNews Sore</title>
+<programme start="20260221113000 +0000" stop="20260221120000 +0000" channel="iNews.vision">
+<title>iNews</title>
 </programme>
 <programme start="20260220000000 +0000" stop="20260220003000 +0000" channel="SindoNews.vision">
 <title>iNews Today</title>
@@ -604,9 +607,6 @@
 <programme start="20260220041500 +0000" stop="20260220050000 +0000" channel="Trans 7.vision">
 <title>Enah Bikin Enak</title>
 </programme>
-<programme start="20260220050000 +0000" stop="20260220054500 +0000" channel="Trans 7.vision">
-<title>Masjidku</title>
-</programme>
 <programme start="20260220054500 +0000" stop="20260220063000 +0000" channel="Trans 7.vision">
 <title>Speak Up</title>
 </programme>
@@ -714,6 +714,9 @@
 </programme>
 <programme start="20260220003000 +0000" stop="20260220023000 +0000" channel="ANTV.vision">
 <title>Janji Inspektur Virat</title>
+</programme>
+<programme start="20260220023000 +0000" stop="20260220060000 +0000" channel="ANTV.vision">
+<title>Jawan</title>
 </programme>
 <programme start="20260220060000 +0000" stop="20260220083000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
@@ -1494,7 +1497,4 @@
 </programme>
 <programme start="20260220140000 +0000" stop="20260220150000 +0000" channel="BTV.vision">
 <title>Investor Daily Roundtable</title>
-</programme>
-<programme start="20260220150000 +0000" stop="20260220160000 +0000" channel="BTV.vision">
-<title>Berita Satu Malam</title>
 </programme>
