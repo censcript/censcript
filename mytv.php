@@ -4,31 +4,31 @@
     <programme start="20260220010000 +0000" stop="20260220013000 +0000" channel="VTV1 HD.mytv">
         <title> Đón Tết cùng VTV : Bay giữa cánh đồng xuân </title>
     </programme>
-    <programme start="20260220013000 +0000" stop="20260220030000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260220013000 +0000" stop="20260220025900 +0000" channel="VTV1 HD.mytv">
         <title> Thể thao : Cuộc chơi mới </title>
     </programme>
-    <programme start="20260220030000 +0000" stop="20260220033000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260220025900 +0000" stop="20260220032900 +0000" channel="VTV1 HD.mytv">
         <title> Từ những miền quê : Cù lao Tân Lộc </title>
     </programme>
-    <programme start="20260220033000 +0000" stop="20260220034500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260220032900 +0000" stop="20260220034400 +0000" channel="VTV1 HD.mytv">
         <title> VTV Sống khỏe : Dinh dưỡng cho người làm việc văn phòng </title>
     </programme>
-    <programme start="20260220034500 +0000" stop="20260220043000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260220034400 +0000" stop="20260220042800 +0000" channel="VTV1 HD.mytv">
         <title> Phim truyện : Anh có phải đàn ông không - Tập 19 </title>
     </programme>
-    <programme start="20260220043000 +0000" stop="20260220051500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260220042800 +0000" stop="20260220051100 +0000" channel="VTV1 HD.mytv">
         <title> Phim truyện : Anh có phải đàn ông không - Tập 20 </title>
     </programme>
-    <programme start="20260220051500 +0000" stop="20260220060500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260220051100 +0000" stop="20260220060300 +0000" channel="VTV1 HD.mytv">
         <title> S - Việt Nam : Du xuân về miền đất Phật Tam Ban </title>
     </programme>
-    <programme start="20260220060500 +0000" stop="20260220061000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260220060300 +0000" stop="20260220060900 +0000" channel="VTV1 HD.mytv">
         <title> VTV kết nối </title>
     </programme>
-    <programme start="20260220061000 +0000" stop="20260220062000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260220060900 +0000" stop="20260220062100 +0000" channel="VTV1 HD.mytv">
         <title> Việt Nam đa sắc </title>
     </programme>
-    <programme start="20260220062000 +0000" stop="20260220063000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260220062100 +0000" stop="20260220063000 +0000" channel="VTV1 HD.mytv">
         <title> Chào buổi sáng </title>
     </programme>
     <programme start="20260220063000 +0000" stop="20260220080000 +0000" channel="VTV1 HD.mytv">
@@ -65,7 +65,7 @@
         <title> Góc nhìn văn hóa </title>
     </programme>
     <programme start="20260220150000 +0000" stop="20260220151500 +0000" channel="VTV1 HD.mytv">
-        <title> Gala Ngày trở về : Mùa gieo hạt </title>
+        <title> Ngày trở về : Mùa gieo hạt </title>
     </programme>
     <programme start="20260220151500 +0000" stop="20260220164500 +0000" channel="VTV1 HD.mytv">
         <title> Hành trình năng lượng xanh </title>

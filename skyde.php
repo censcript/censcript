@@ -2816,9 +2816,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260220170000 +0000" stop="20260220193000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Live 2. BL: Multiview 23. Spieltag, Freitag</title>
 </programme>
-<programme start="20260220120000 +0000" stop="20260220200000 +0000" channel="Sky Sport Bundesliga 8 HD.skyde">
-    <title>Test Bundesliga 08</title>
-</programme>
 <programme start="20260220011500 +0000" stop="20260220013000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Testfahrten Kompakt - 2. Tag</title>
 </programme>
@@ -3039,7 +3036,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Live Sky Sport News: Primetime</title>
 </programme>
 <programme start="20260220180000 +0000" stop="20260220181500 +0000" channel="Sky Sport News HD.skyde">
-    <title>F1: Testfahrten Kompakt - 3. Tag</title>
+    <title>F1: Testfahrten Kompakt - 6. Tag</title>
 </programme>
 <programme start="20260220181500 +0000" stop="20260220183000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Primetime</title>
@@ -3273,15 +3270,15 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Info: UHD</title>
 </programme>
 <programme start="20260220144000 +0000" stop="20260220150000 +0000" channel="Sky Sport 6 HD.skyde">
-    <title>Es folgt: LIVE Tennis WTA Tour</title>
+    <title>Es folgt: Live Tennis WTA Tour</title>
 </programme>
-<programme start="20260220150000 +0000" stop="20260220180000 +0000" channel="Sky Sport 6 HD.skyde">
-    <title>Live WTA 1000: E. Svitolina (UKR) - C. Gauff (USA), Dubai Duty Free Tennis Championships in Dubai (VAE), Halbfinale 2</title>
+<programme start="20260220150000 +0000" stop="20260220170000 +0000" channel="Sky Sport 6 HD.skyde">
+    <title>Live WTA 1000: tba - C. Gauff (USA), Dubai Duty Free Tennis Championships in Dubai (VAE), Halbfinale 2</title>
 </programme>
-<programme start="20260220180000 +0000" stop="20260220190000 +0000" channel="Sky Sport 6 HD.skyde">
-    <title>Es folgt: ab 20:00: LIVE ATP World Tour</title>
+<programme start="20260220184000 +0000" stop="20260220190000 +0000" channel="Sky Sport 6 HD.skyde">
+    <title>ATP World Tour: Es folgt</title>
 </programme>
-<programme start="20260220190000 +0000" stop="20260221090000 +0000" channel="Sky Sport 6 HD.skyde">
+<programme start="20260220190000 +0000" stop="20260220203000 +0000" channel="Sky Sport 6 HD.skyde">
     <title>Live ATP 500: Rio Open in Rio de Janeiro (BRA), 5. Tag</title>
 </programme>
 <programme start="20260219234000 +0000" stop="20260220002500 +0000" channel="SYFY HD.skyde">

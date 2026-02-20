@@ -7279,30 +7279,6 @@
     <programme start="20260219173000 +0000" stop="20260219180000 +0000" channel="BBC World News HD.starhub">
         <title>Focus on Africa</title>
     </programme>
-    <programme start="20260219180000 +0000" stop="20260219183000 +0000" channel="BBC World News HD.starhub">
-        <title>The World Today with Maryam Moshiri</title>
-    </programme>
-    <programme start="20260219183000 +0000" stop="20260219190000 +0000" channel="BBC World News HD.starhub">
-        <title>The World Today with Maryam Moshiri</title>
-    </programme>
-    <programme start="20260219190000 +0000" stop="20260219193000 +0000" channel="BBC World News HD.starhub">
-        <title>The World Today with Maryam Moshiri</title>
-    </programme>
-    <programme start="20260219193000 +0000" stop="20260219200000 +0000" channel="BBC World News HD.starhub">
-        <title>The World Today with Maryam Moshiri</title>
-    </programme>
-    <programme start="20260219200000 +0000" stop="20260219203000 +0000" channel="BBC World News HD.starhub">
-        <title>The Context</title>
-    </programme>
-    <programme start="20260219203000 +0000" stop="20260219210000 +0000" channel="BBC World News HD.starhub">
-        <title>The Context</title>
-    </programme>
-    <programme start="20260219210000 +0000" stop="20260219213000 +0000" channel="BBC World News HD.starhub">
-        <title>The Context USA</title>
-    </programme>
-    <programme start="20260219213000 +0000" stop="20260219220000 +0000" channel="BBC World News HD.starhub">
-        <title>The Context USA</title>
-    </programme>
     <programme start="20260219220000 +0000" stop="20260219223000 +0000" channel="BBC World News HD.starhub">
         <title>BBC World News America</title>
     </programme>
