@@ -607,9 +607,6 @@
 <programme start="20260220041500 +0000" stop="20260220050000 +0000" channel="Trans 7.vision">
 <title>Enah Bikin Enak</title>
 </programme>
-<programme start="20260220050000 +0000" stop="20260220054500 +0000" channel="Trans 7.vision">
-<title>Masjidku</title>
-</programme>
 <programme start="20260220054500 +0000" stop="20260220063000 +0000" channel="Trans 7.vision">
 <title>Speak Up</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20260220130000 +0000" stop="20260220140000 +0000" channel="BTV.vision">
 <title>Spot On</title>
+</programme>
+<programme start="20260220140000 +0000" stop="20260220150000 +0000" channel="BTV.vision">
+<title>Investor Daily Roundtable</title>
 </programme>
