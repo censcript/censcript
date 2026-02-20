@@ -78,8 +78,8 @@
     <title>Football: FK Bodo/Glimt - FC Internazionale Milano</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260220160000 +0700" stop="20260220180000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Jagiellonia - ACF Fiorentina</title>
+<programme start="20260221180000 +0700" stop="20260221200000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: Club Brugge - Club Atletico de Madrid</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260220180000 +0700" stop="20260220200000 +0700" channel="COSMOTE Sport 2 HD">
@@ -146,6 +146,10 @@
     <title>Football: Panathinaikos - AEL Novibet</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260221184500 +0700" stop="20260221210000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Kifisia - OFI</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260220170000 +0700" stop="20260220190000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: KuPS Kuopio - Lech Poznan</title>
     <desc>Live: Tidak</desc>
@@ -200,10 +204,6 @@
 </programme>
 <programme start="20260221172500 +0700" stop="20260221193000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: CF Estrela de Amadora - Tondela</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260220152000 +0700" stop="20260220172000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Brescia - Udine</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260220172000 +0700" stop="20260220192000 +0700" channel="COSMOTE Sport 4 HD">
@@ -276,10 +276,6 @@
 </programme>
 <programme start="20260221173000 +0700" stop="20260221191500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Karditsa - AEK</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260220155500 +0700" stop="20260220173000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260220173000 +0700" stop="20260220183000 +0700" channel="COSMOTE Sport 5 HD">
@@ -374,8 +370,8 @@
     <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260220153000 +0700" stop="20260220180000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: Joao Fonseca - Ignacio Buse</title>
+<programme start="20260221183500 +0700" stop="20260221190500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260220180000 +0700" stop="20260220183000 +0700" channel="COSMOTE Sport 6 HD">
