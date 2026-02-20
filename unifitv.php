@@ -12958,13 +12958,13 @@
   </programme>
   <programme start="20260219193300 +0000" stop="20260219200300 +0000" channel="aljazeera.unifitv">
     <title lang="en">The Stream</title>
-    <desc lang="en">Powered by social media, The Stream brings fresh perspectives and new voices, beyond the headlines.</desc>
+    <desc lang="en">Today on The Stream: Can wildlife tourism balance conservation, land rights, and profit?</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.10.</episode-num>
     <episode-num system="onscreen">S1E11</episode-num>
   </programme>
   <programme start="20260219200300 +0000" stop="20260219210300 +0000" channel="aljazeera.unifitv">
-    <title lang="en">Latin America: In The Shadow of The U.S. : Wars</title>
+    <title lang="en">Latin America: n The Shadow of The U.S. : Chaos</title>
     <desc lang="en">The 21st-century 'pink tide' ushers in new leftist leaders - but also a U.S. response, the 2026 attack on Venezuela and capture of President Nicolás Maduro.</desc>
     <category lang="en">News</category>
   </programme>
@@ -12982,6 +12982,8 @@
     <title lang="en">101 East</title>
     <desc lang="en">101 East reports on the people and events shaping the Asia Pacific region. .</desc>
     <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.21.</episode-num>
+    <episode-num system="onscreen">S1E22</episode-num>
   </programme>
   <programme start="20260219230300 +0000" stop="20260219233300 +0000" channel="aljazeera.unifitv">
     <title lang="en">News Live</title>
@@ -13012,7 +13014,7 @@
   </programme>
   <programme start="20260220023300 +0000" stop="20260220030300 +0000" channel="aljazeera.unifitv">
     <title lang="en">The Bottom Line</title>
-    <desc lang="en">Weekly discussion show on U.S. politics and policies hosted by Steve Clemons.</desc>
+    <desc lang="en">Is Trump's popularity sliding among Republicans? Are Democrats able to bounce back to relevance? Analysts from both parties weigh in.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.6.</episode-num>
     <episode-num system="onscreen">S1E7</episode-num>
@@ -13034,7 +13036,7 @@
   </programme>
   <programme start="20260220043300 +0000" stop="20260220050300 +0000" channel="aljazeera.unifitv">
     <title lang="en">The Stream</title>
-    <desc lang="en">Powered by social media, The Stream brings fresh perspectives and new voices, beyond the headlines.</desc>
+    <desc lang="en">Today on The Stream: Can wildlife tourism balance conservation, land rights, and profit?</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.10.</episode-num>
     <episode-num system="onscreen">S1E11</episode-num>
@@ -13068,8 +13070,10 @@
   </programme>
   <programme start="20260220073300 +0000" stop="20260220080300 +0000" channel="aljazeera.unifitv">
     <title lang="en">Making Peace</title>
-    <desc lang="en">In post-peace Colombia, ex-FARC fighters confess as victims confront them seeking justice and reconciliation.</desc>
+    <desc lang="en">Amid a global polycrisis, new arrivals in New York face a fractured city where sanctuary feels increasingly out of reach.</desc>
     <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.7.</episode-num>
+    <episode-num system="onscreen">S1E8</episode-num>
   </programme>
   <programme start="20260220080300 +0000" stop="20260220083300 +0000" channel="aljazeera.unifitv">
     <title lang="en">News Live</title>
@@ -13078,10 +13082,8 @@
   </programme>
   <programme start="20260220083300 +0000" stop="20260220090300 +0000" channel="aljazeera.unifitv">
     <title lang="en">Talk to Al Jazeera</title>
-    <desc lang="en">One-on-one conversations with global leaders, icons, influencers and alternative voices shaping our times.</desc>
+    <desc lang="en">One of the world's most influential political streamers on power, accountability and politics in the age of algorithms.</desc>
     <category lang="en">News</category>
-    <episode-num system="xmltv_ns">0.454.</episode-num>
-    <episode-num system="onscreen">S1E455</episode-num>
   </programme>
   <programme start="20260220090300 +0000" stop="20260220093300 +0000" channel="aljazeera.unifitv">
     <title lang="en">News Live</title>
@@ -13111,7 +13113,7 @@
     <episode-num system="onscreen">S1E50</episode-num>
   </programme>
   <programme start="20260220120300 +0000" stop="20260220130300 +0000" channel="aljazeera.unifitv">
-    <title lang="en">Latin America: In The Shadow of The U.S. : Wars</title>
+    <title lang="en">Latin America: n The Shadow of The U.S. : Chaos</title>
     <desc lang="en">The 21st-century 'pink tide' ushers in new leftist leaders - but also a U.S. response, the 2026 attack on Venezuela and capture of President Nicolás Maduro.</desc>
     <category lang="en">News</category>
   </programme>
@@ -13127,7 +13129,7 @@
   </programme>
   <programme start="20260220143300 +0000" stop="20260220150300 +0000" channel="aljazeera.unifitv">
     <title lang="en">The Stream</title>
-    <desc lang="en">Powered by social media, The Stream brings fresh perspectives and new voices, beyond the headlines.</desc>
+    <desc lang="en">Today on The Stream: Can wildlife tourism balance conservation, land rights, and profit?</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.10.</episode-num>
     <episode-num system="onscreen">S1E11</episode-num>

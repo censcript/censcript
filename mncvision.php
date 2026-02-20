@@ -91,7 +91,123 @@
 <programme start="20260220162500 +0000" stop="20260220165500 +0000" channel="ABC Australia.mncvision">
     <title>Wang Gungwu Lecture 2025</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260219170000 +0000" stop="20260219173000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260219173000 +0000" stop="20260219180000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Inside Story</title>
+</programme>
+<programme start="20260219180000 +0000" stop="20260219190000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
+</programme>
+<programme start="20260219190000 +0000" stop="20260219193000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260219193000 +0000" stop="20260219200000 +0000" channel="Al Jazeera English.mncvision">
+    <title>The Stream: Wildlife Tourism</title>
+</programme>
+<programme start="20260219200000 +0000" stop="20260219210000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Latin America: In The Shadow...</title>
+</programme>
+<programme start="20260219210000 +0000" stop="20260219220000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
+</programme>
+<programme start="20260219220000 +0000" stop="20260219223000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260219223000 +0000" stop="20260219230000 +0000" channel="Al Jazeera English.mncvision">
+    <title>101 East: Divorce Battle</title>
+</programme>
+<programme start="20260219230000 +0000" stop="20260219233000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260219233000 +0000" stop="20260220000000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Inside Story</title>
+</programme>
+<programme start="20260220000000 +0000" stop="20260220010000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
+</programme>
+<programme start="20260220010000 +0000" stop="20260220020000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Witness: Of Caravan &amp; The Dogs</title>
+</programme>
+<programme start="20260220020000 +0000" stop="20260220023000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260220023000 +0000" stop="20260220030000 +0000" channel="Al Jazeera English.mncvision">
+    <title>The Bottom Line</title>
+</programme>
+<programme start="20260220030000 +0000" stop="20260220033000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260220033000 +0000" stop="20260220040000 +0000" channel="Al Jazeera English.mncvision">
+    <title>People &amp; Power: Tunisia</title>
+</programme>
+<programme start="20260220040000 +0000" stop="20260220043000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260220043000 +0000" stop="20260220050000 +0000" channel="Al Jazeera English.mncvision">
+    <title>The Stream: Wildlife Tourism</title>
+</programme>
+<programme start="20260220050000 +0000" stop="20260220053000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260220053000 +0000" stop="20260220060000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Inside Story</title>
+</programme>
+<programme start="20260220060000 +0000" stop="20260220063000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260220063000 +0000" stop="20260220070000 +0000" channel="Al Jazeera English.mncvision">
+    <title>All Hail The Military</title>
+</programme>
+<programme start="20260220070000 +0000" stop="20260220073000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260220073000 +0000" stop="20260220080000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Making Peace: Still Together</title>
+</programme>
+<programme start="20260220080000 +0000" stop="20260220083000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260220083000 +0000" stop="20260220090000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Talk To Al Jazeera: Hasan Piker</title>
+</programme>
+<programme start="20260220090000 +0000" stop="20260220093000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260220093000 +0000" stop="20260220100000 +0000" channel="Al Jazeera English.mncvision">
+    <title>101 East: Divorce Battle</title>
+</programme>
+<programme start="20260220100000 +0000" stop="20260220110000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
+</programme>
+<programme start="20260220110000 +0000" stop="20260220113000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260220113000 +0000" stop="20260220120000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Inside Story</title>
+</programme>
+<programme start="20260220120000 +0000" stop="20260220130000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Latin America: In The Shadow...</title>
+</programme>
+<programme start="20260220130000 +0000" stop="20260220140000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
+</programme>
+<programme start="20260220140000 +0000" stop="20260220143000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260220143000 +0000" stop="20260220150000 +0000" channel="Al Jazeera English.mncvision">
+    <title>The Stream: Wildlife Tourism</title>
+</programme>
+<programme start="20260220150000 +0000" stop="20260220160000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
+</programme>
+<programme start="20260220160000 +0000" stop="20260220163000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260220163000 +0000" stop="20260219170000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Witness: Madame White Snake</title>
+</programme>
 <programme start="20260219170000 +0000" stop="20260219190000 +0000" channel="Al Quran Al Kareem.mncvision">
     <title>Live From Mekkah</title>
 </programme>
@@ -128,8 +244,186 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260220150000 +0000" stop="20260220153000 +0000" channel="Al Quran Al Kareem.mncvision">
     <title>Live From Mekkah</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260219170000 +0000" stop="20260219173000 +0000" channel="Animax.mncvision">
+    <title>Mobile Suit Gundam, Ep 12</title>
+</programme>
+<programme start="20260219173000 +0000" stop="20260219180000 +0000" channel="Animax.mncvision">
+    <title>Mobile Suit Gundam S2, Ep 13</title>
+</programme>
+<programme start="20260219180000 +0000" stop="20260219183000 +0000" channel="Animax.mncvision">
+    <title>Haikyu!! S2, Ep 5</title>
+</programme>
+<programme start="20260219183000 +0000" stop="20260219190000 +0000" channel="Animax.mncvision">
+    <title>Haikyu!! S2, Ep 6</title>
+</programme>
+<programme start="20260219190000 +0000" stop="20260219193000 +0000" channel="Animax.mncvision">
+    <title>Ragna Crimson, Ep 23</title>
+</programme>
+<programme start="20260219193000 +0000" stop="20260219200000 +0000" channel="Animax.mncvision">
+    <title>Ragna Crimson, Ep 24</title>
+</programme>
+<programme start="20260219200000 +0000" stop="20260219203000 +0000" channel="Animax.mncvision">
+    <title>Foolish Angel Dances..., Ep 2</title>
+</programme>
+<programme start="20260219203000 +0000" stop="20260219210000 +0000" channel="Animax.mncvision">
+    <title>Foolish Angel Dances..., Ep 3</title>
+</programme>
+<programme start="20260219210000 +0000" stop="20260219213000 +0000" channel="Animax.mncvision">
+    <title>Mobile Suit Gundam, Ep 12</title>
+</programme>
+<programme start="20260219213000 +0000" stop="20260219220000 +0000" channel="Animax.mncvision">
+    <title>Mobile Suit Gundam S2, Ep 13</title>
+</programme>
+<programme start="20260219220000 +0000" stop="20260219223000 +0000" channel="Animax.mncvision">
+    <title>Haikyu!! S2, Ep 5</title>
+</programme>
+<programme start="20260219223000 +0000" stop="20260219230000 +0000" channel="Animax.mncvision">
+    <title>Haikyu!! S2, Ep 6</title>
+</programme>
+<programme start="20260219230000 +0000" stop="20260219233000 +0000" channel="Animax.mncvision">
+    <title>Foolish Angel Dances..., Ep 2</title>
+</programme>
+<programme start="20260219233000 +0000" stop="20260220000000 +0000" channel="Animax.mncvision">
+    <title>Foolish Angel Dances..., Ep 3</title>
+</programme>
+<programme start="20260220000000 +0000" stop="20260220003000 +0000" channel="Animax.mncvision">
+    <title>Fena: Pirate Princess, Ep 11</title>
+</programme>
+<programme start="20260220003000 +0000" stop="20260220010000 +0000" channel="Animax.mncvision">
+    <title>Fena: Pirate Princess, Ep 12</title>
+</programme>
+<programme start="20260220010000 +0000" stop="20260220013000 +0000" channel="Animax.mncvision">
+    <title>Haikyu!! S2, Ep 5</title>
+</programme>
+<programme start="20260220013000 +0000" stop="20260220020000 +0000" channel="Animax.mncvision">
+    <title>Haikyu!! S2, Ep 6</title>
+</programme>
+<programme start="20260220020000 +0000" stop="20260220023000 +0000" channel="Animax.mncvision">
+    <title>Mobile Suit Gundam, Ep 12</title>
+</programme>
+<programme start="20260220023000 +0000" stop="20260220030000 +0000" channel="Animax.mncvision">
+    <title>Mobile Suit Gundam S2, Ep 13</title>
+</programme>
+<programme start="20260220030000 +0000" stop="20260220033000 +0000" channel="Animax.mncvision">
+    <title>Foolish Angel Dances..., Ep 2</title>
+</programme>
+<programme start="20260220033000 +0000" stop="20260220040000 +0000" channel="Animax.mncvision">
+    <title>Foolish Angel Dances..., Ep 3</title>
+</programme>
+<programme start="20260220040000 +0000" stop="20260220043000 +0000" channel="Animax.mncvision">
+    <title>Fena: Pirate Princess, Ep 11</title>
+</programme>
+<programme start="20260220043000 +0000" stop="20260220050000 +0000" channel="Animax.mncvision">
+    <title>Fena: Pirate Princess, Ep 12</title>
+</programme>
+<programme start="20260220050000 +0000" stop="20260220053000 +0000" channel="Animax.mncvision">
+    <title>Haikyu!! S2, Ep 5</title>
+</programme>
+<programme start="20260220053000 +0000" stop="20260220060000 +0000" channel="Animax.mncvision">
+    <title>Haikyu!! S2, Ep 6</title>
+</programme>
+<programme start="20260220060000 +0000" stop="20260220063000 +0000" channel="Animax.mncvision">
+    <title>Mobile Suit Gundam, Ep 12</title>
+</programme>
+<programme start="20260220063000 +0000" stop="20260220070000 +0000" channel="Animax.mncvision">
+    <title>Mobile Suit Gundam S2, Ep 13</title>
+</programme>
+<programme start="20260220070000 +0000" stop="20260220073000 +0000" channel="Animax.mncvision">
+    <title>Foolish Angel Dances..., Ep 2</title>
+</programme>
+<programme start="20260220073000 +0000" stop="20260220080000 +0000" channel="Animax.mncvision">
+    <title>Foolish Angel Dances..., Ep 3</title>
+</programme>
+<programme start="20260220080000 +0000" stop="20260220083000 +0000" channel="Animax.mncvision">
+    <title>Haikyu!! S2, Ep 5</title>
+</programme>
+<programme start="20260220083000 +0000" stop="20260220090000 +0000" channel="Animax.mncvision">
+    <title>Haikyu!! S2, Ep 6</title>
+</programme>
+<programme start="20260220090000 +0000" stop="20260220093000 +0000" channel="Animax.mncvision">
+    <title>Mobile Suit Gundam, Ep 12</title>
+</programme>
+<programme start="20260220093000 +0000" stop="20260220100000 +0000" channel="Animax.mncvision">
+    <title>In/Spectre S2, Ep 1</title>
+</programme>
+<programme start="20260220100000 +0000" stop="20260220103000 +0000" channel="Animax.mncvision">
+    <title>Haikyu!! S2, Ep 6</title>
+</programme>
+<programme start="20260220103000 +0000" stop="20260220110000 +0000" channel="Animax.mncvision">
+    <title>Haikyu!! S2, Ep 7</title>
+</programme>
+<programme start="20260220110000 +0000" stop="20260220113000 +0000" channel="Animax.mncvision">
+    <title>Foolish Angel Dances..., Ep 3</title>
+</programme>
+<programme start="20260220113000 +0000" stop="20260220120000 +0000" channel="Animax.mncvision">
+    <title>Foolish Angel Dances..., Ep 4</title>
+</programme>
+<programme start="20260220120000 +0000" stop="20260220123000 +0000" channel="Animax.mncvision">
+    <title>Kubo Won&#039;t Let Me Be..., Ep 1</title>
+</programme>
+<programme start="20260220123000 +0000" stop="20260220130000 +0000" channel="Animax.mncvision">
+    <title>Kubo Won&#039;t Let Me Be..., Ep 2</title>
+</programme>
+<programme start="20260220130000 +0000" stop="20260220133000 +0000" channel="Animax.mncvision">
+    <title>Foolish Angel Dances..., Ep 3</title>
+</programme>
+<programme start="20260220133000 +0000" stop="20260220140000 +0000" channel="Animax.mncvision">
+    <title>Foolish Angel Dances..., Ep 4</title>
+</programme>
+<programme start="20260220140000 +0000" stop="20260220143000 +0000" channel="Animax.mncvision">
+    <title>Mobile Suit Gundam S2, Ep 13</title>
+</programme>
+<programme start="20260220143000 +0000" stop="20260220150000 +0000" channel="Animax.mncvision">
+    <title>Mobile Suit Gundam S2, Ep 14</title>
+</programme>
+<programme start="20260220150000 +0000" stop="20260220153000 +0000" channel="Animax.mncvision">
+    <title>Kubo Won&#039;t Let Me Be..., Ep 1</title>
+</programme>
+<programme start="20260220153000 +0000" stop="20260220160000 +0000" channel="Animax.mncvision">
+    <title>Kubo Won&#039;t Let Me Be..., Ep 2</title>
+</programme>
+<programme start="20260220160000 +0000" stop="20260220163000 +0000" channel="Animax.mncvision">
+    <title>Foolish Angel Dances..., Ep 3</title>
+</programme>
+<programme start="20260220163000 +0000" stop="20260219170000 +0000" channel="Animax.mncvision">
+    <title>Foolish Angel Dances..., Ep 4</title>
+</programme>
+<programme start="20260219173000 +0000" stop="20260219193000 +0000" channel="ANTV.mncvision">
+    <title>Bioskop Asia</title>
+</programme>
+<programme start="20260219193000 +0000" stop="20260219213000 +0000" channel="ANTV.mncvision">
+    <title>Salah Masuk</title>
+</programme>
+<programme start="20260219213000 +0000" stop="20260219233000 +0000" channel="ANTV.mncvision">
+    <title>Tawa Kalcer</title>
+</programme>
+<programme start="20260219233000 +0000" stop="20260220003000 +0000" channel="ANTV.mncvision">
+    <title>Baalveer Returns</title>
+</programme>
+<programme start="20260220003000 +0000" stop="20260220023000 +0000" channel="ANTV.mncvision">
+    <title>Janji Inspektur Virat</title>
+</programme>
+<programme start="20260220023000 +0000" stop="20260220060000 +0000" channel="ANTV.mncvision">
+    <title>Jawan</title>
+</programme>
+<programme start="20260220060000 +0000" stop="20260220083000 +0000" channel="ANTV.mncvision">
+    <title>Jhanak</title>
+</programme>
+<programme start="20260220083000 +0000" stop="20260220111000 +0000" channel="ANTV.mncvision">
+    <title>Vasudha</title>
+</programme>
+<programme start="20260220111000 +0000" stop="20260220113000 +0000" channel="ANTV.mncvision">
+    <title>Sepiring Berduet</title>
+</programme>
+<programme start="20260220113000 +0000" stop="20260220133000 +0000" channel="ANTV.mncvision">
+    <title>Menantang Maut</title>
+</programme>
+<programme start="20260220133000 +0000" stop="20260220153000 +0000" channel="ANTV.mncvision">
+    <title>Malaikat Bayangan</title>
+</programme>
+<programme start="20260220153000 +0000" stop="20260220160000 +0000" channel="ANTV.mncvision">
+    <title>Depan Bisa Belakang Bisa</title>
+</programme>
 <programme start="20260219170000 +0000" stop="20260219173000 +0000" channel="Arirang.mncvision">
     <title>K-Culture Dive</title>
 </programme>
@@ -499,8 +793,231 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260220165500 +0000" stop="20260219172500 +0000" channel="BBC Earth.mncvision">
     <title>The Great Wall S1, Ep 6</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260219180000 +0000" stop="20260219185500 +0000" channel="BBC Earth HD.mncvision">
+    <title>Wonders Of Human Body, Ep 3</title>
+</programme>
+<programme start="20260219185500 +0000" stop="20260219200000 +0000" channel="BBC Earth HD.mncvision">
+    <title>Rare Survivors: Iconic Wildlife</title>
+</programme>
+<programme start="20260219200000 +0000" stop="20260219210500 +0000" channel="BBC Earth HD.mncvision">
+    <title>The Great Wall S1, Ep 5</title>
+</programme>
+<programme start="20260219210500 +0000" stop="20260219220000 +0000" channel="BBC Earth HD.mncvision">
+    <title>Wonders Of Human Body, Ep 3</title>
+</programme>
+<programme start="20260219220000 +0000" stop="20260219230000 +0000" channel="BBC Earth HD.mncvision">
+    <title>Adventures In Spain S1, Ep 2</title>
+</programme>
+<programme start="20260219230000 +0000" stop="20260219235500 +0000" channel="BBC Earth HD.mncvision">
+    <title>Where Wild Men Are S10, Ep 1</title>
+</programme>
+<programme start="20260219235500 +0000" stop="20260220004500 +0000" channel="BBC Earth HD.mncvision">
+    <title>Extreme Fishing S4, Ep 5</title>
+</programme>
+<programme start="20260220004500 +0000" stop="20260220014500 +0000" channel="BBC Earth HD.mncvision">
+    <title>Rare Survivors: Iconic Wildlife</title>
+</programme>
+<programme start="20260220014500 +0000" stop="20260220024500 +0000" channel="BBC Earth HD.mncvision">
+    <title>Adventures In Spain S1, Ep 2</title>
+</programme>
+<programme start="20260220024500 +0000" stop="20260220035000 +0000" channel="BBC Earth HD.mncvision">
+    <title>Wild Horses: Rockies &amp; Me, Ep 1</title>
+</programme>
+<programme start="20260220035000 +0000" stop="20260220044000 +0000" channel="BBC Earth HD.mncvision">
+    <title>Extreme Fishing S4, Ep 5</title>
+</programme>
+<programme start="20260220044000 +0000" stop="20260220054500 +0000" channel="BBC Earth HD.mncvision">
+    <title>A Perfect Planet S1, Ep 3</title>
+</programme>
+<programme start="20260220054500 +0000" stop="20260220064500 +0000" channel="BBC Earth HD.mncvision">
+    <title>Rare Survivors: Iconic Wildlife</title>
+</programme>
+<programme start="20260220064500 +0000" stop="20260220073500 +0000" channel="BBC Earth HD.mncvision">
+    <title>Where Wild Men Are S10, Ep 1</title>
+</programme>
+<programme start="20260220073500 +0000" stop="20260220082500 +0000" channel="BBC Earth HD.mncvision">
+    <title>Engineering Repurposed, Ep 7</title>
+</programme>
+<programme start="20260220082500 +0000" stop="20260220091500 +0000" channel="BBC Earth HD.mncvision">
+    <title>Extreme Fishing S4, Ep 5</title>
+</programme>
+<programme start="20260220091500 +0000" stop="20260220101500 +0000" channel="BBC Earth HD.mncvision">
+    <title>Adventures In Spain S1, Ep 2</title>
+</programme>
+<programme start="20260220101500 +0000" stop="20260220111000 +0000" channel="BBC Earth HD.mncvision">
+    <title>Wonders Of Human Body, Ep 3</title>
+</programme>
+<programme start="20260220111000 +0000" stop="20260220120000 +0000" channel="BBC Earth HD.mncvision">
+    <title>Extreme Fishing S4, Ep 6</title>
+</programme>
+<programme start="20260220120000 +0000" stop="20260220130000 +0000" channel="BBC Earth HD.mncvision">
+    <title>Wild Horses: Rockies &amp; Me, Ep 1</title>
+</programme>
+<programme start="20260220130000 +0000" stop="20260220140000 +0000" channel="BBC Earth HD.mncvision">
+    <title>The Great Wall S1, Ep 6</title>
+</programme>
+<programme start="20260220140000 +0000" stop="20260220150000 +0000" channel="BBC Earth HD.mncvision">
+    <title>Deadliest Weather S6, Ep 10</title>
+</programme>
+<programme start="20260220150000 +0000" stop="20260220155000 +0000" channel="BBC Earth HD.mncvision">
+    <title>Extreme Fishing S4, Ep 6</title>
+</programme>
+<programme start="20260220155000 +0000" stop="20260220165500 +0000" channel="BBC Earth HD.mncvision">
+    <title>Wild Horses: Rockies &amp; Me, Ep 1</title>
+</programme>
+<programme start="20260220165500 +0000" stop="20260219172500 +0000" channel="BBC Earth HD.mncvision">
+    <title>The Great Wall S1, Ep 6</title>
+</programme>
+<programme start="20260219170000 +0000" stop="20260219173000 +0000" channel="BBC World News.mncvision">
+    <title>Verified Live</title>
+</programme>
+<programme start="20260219173000 +0000" stop="20260219180000 +0000" channel="BBC World News.mncvision">
+    <title>Focus On Africa</title>
+</programme>
+<programme start="20260219180000 +0000" stop="20260219183000 +0000" channel="BBC World News.mncvision">
+    <title>World Today With M. Moshiri</title>
+</programme>
+<programme start="20260219183000 +0000" stop="20260219190000 +0000" channel="BBC World News.mncvision">
+    <title>World Today With M. Moshiri</title>
+</programme>
+<programme start="20260219190000 +0000" stop="20260219193000 +0000" channel="BBC World News.mncvision">
+    <title>World Today With M. Moshiri</title>
+</programme>
+<programme start="20260219193000 +0000" stop="20260219200000 +0000" channel="BBC World News.mncvision">
+    <title>World Today With M. Moshiri</title>
+</programme>
+<programme start="20260219200000 +0000" stop="20260219203000 +0000" channel="BBC World News.mncvision">
+    <title>The Context</title>
+</programme>
+<programme start="20260219203000 +0000" stop="20260219210000 +0000" channel="BBC World News.mncvision">
+    <title>The Context</title>
+</programme>
+<programme start="20260219210000 +0000" stop="20260219213000 +0000" channel="BBC World News.mncvision">
+    <title>The Context USA</title>
+</programme>
+<programme start="20260219213000 +0000" stop="20260219220000 +0000" channel="BBC World News.mncvision">
+    <title>The Context USA</title>
+</programme>
+<programme start="20260219220000 +0000" stop="20260219223000 +0000" channel="BBC World News.mncvision">
+    <title>BBC World News America</title>
+</programme>
+<programme start="20260219223000 +0000" stop="20260219230000 +0000" channel="BBC World News.mncvision">
+    <title>Newsnight</title>
+</programme>
+<programme start="20260219230000 +0000" stop="20260220000000 +0000" channel="BBC World News.mncvision">
+    <title>BBC World News America</title>
+</programme>
+<programme start="20260220000000 +0000" stop="20260220003000 +0000" channel="BBC World News.mncvision">
+    <title>BBC News</title>
+</programme>
+<programme start="20260220003000 +0000" stop="20260220010000 +0000" channel="BBC World News.mncvision">
+    <title>Newscast</title>
+</programme>
+<programme start="20260220010000 +0000" stop="20260220013000 +0000" channel="BBC World News.mncvision">
+    <title>BBC News</title>
+</programme>
+<programme start="20260220013000 +0000" stop="20260220020000 +0000" channel="BBC World News.mncvision">
+    <title>The Media Show: The Murdochs</title>
+</programme>
+<programme start="20260220020000 +0000" stop="20260220023000 +0000" channel="BBC World News.mncvision">
+    <title>Newsday</title>
+</programme>
+<programme start="20260220023000 +0000" stop="20260220024500 +0000" channel="BBC World News.mncvision">
+    <title>Business Today</title>
+</programme>
+<programme start="20260220024500 +0000" stop="20260220030000 +0000" channel="BBC World News.mncvision">
+    <title>BBC Sport</title>
+</programme>
+<programme start="20260220030000 +0000" stop="20260220033000 +0000" channel="BBC World News.mncvision">
+    <title>Newsday</title>
+</programme>
+<programme start="20260220033000 +0000" stop="20260220034500 +0000" channel="BBC World News.mncvision">
+    <title>Business Today</title>
+</programme>
+<programme start="20260220034500 +0000" stop="20260220040000 +0000" channel="BBC World News.mncvision">
+    <title>BBC Sport</title>
+</programme>
+<programme start="20260220040000 +0000" stop="20260220043000 +0000" channel="BBC World News.mncvision">
+    <title>Newsday</title>
+</programme>
+<programme start="20260220043000 +0000" stop="20260220044500 +0000" channel="BBC World News.mncvision">
+    <title>Business Today</title>
+</programme>
+<programme start="20260220044500 +0000" stop="20260220050000 +0000" channel="BBC World News.mncvision">
+    <title>BBC Sport</title>
+</programme>
+<programme start="20260220050000 +0000" stop="20260220053000 +0000" channel="BBC World News.mncvision">
+    <title>BBC News</title>
+</programme>
+<programme start="20260220053000 +0000" stop="20260220060000 +0000" channel="BBC World News.mncvision">
+    <title>Business Today</title>
+</programme>
+<programme start="20260220060000 +0000" stop="20260220063000 +0000" channel="BBC World News.mncvision">
+    <title>BBC News</title>
+</programme>
+<programme start="20260220063000 +0000" stop="20260220070000 +0000" channel="BBC World News.mncvision">
+    <title>Business Today</title>
+</programme>
+<programme start="20260220070000 +0000" stop="20260220073000 +0000" channel="BBC World News.mncvision">
+    <title>BBC News</title>
+</programme>
+<programme start="20260220073000 +0000" stop="20260220080000 +0000" channel="BBC World News.mncvision">
+    <title>Business Today</title>
+</programme>
+<programme start="20260220080000 +0000" stop="20260220083000 +0000" channel="BBC World News.mncvision">
+    <title>BBC News</title>
+</programme>
+<programme start="20260220083000 +0000" stop="20260220090000 +0000" channel="BBC World News.mncvision">
+    <title>BBC News</title>
+</programme>
+<programme start="20260220090000 +0000" stop="20260220093000 +0000" channel="BBC World News.mncvision">
+    <title>BBC News</title>
+</programme>
+<programme start="20260220093000 +0000" stop="20260220100000 +0000" channel="BBC World News.mncvision">
+    <title>BBC News</title>
+</programme>
+<programme start="20260220100000 +0000" stop="20260220103000 +0000" channel="BBC World News.mncvision">
+    <title>BBC News</title>
+</programme>
+<programme start="20260220103000 +0000" stop="20260220110000 +0000" channel="BBC World News.mncvision">
+    <title>BBC News</title>
+</programme>
+<programme start="20260220110000 +0000" stop="20260220113000 +0000" channel="BBC World News.mncvision">
+    <title>BBC News</title>
+</programme>
+<programme start="20260220113000 +0000" stop="20260220114500 +0000" channel="BBC World News.mncvision">
+    <title>Business Today</title>
+</programme>
+<programme start="20260220114500 +0000" stop="20260220120000 +0000" channel="BBC World News.mncvision">
+    <title>BBC News</title>
+</programme>
+<programme start="20260220120000 +0000" stop="20260220123000 +0000" channel="BBC World News.mncvision">
+    <title>BBC News Now</title>
+</programme>
+<programme start="20260220123000 +0000" stop="20260220130000 +0000" channel="BBC World News.mncvision">
+    <title>BBC News Now</title>
+</programme>
+<programme start="20260220130000 +0000" stop="20260220133000 +0000" channel="BBC World News.mncvision">
+    <title>BBC News Now</title>
+</programme>
+<programme start="20260220133000 +0000" stop="20260220140000 +0000" channel="BBC World News.mncvision">
+    <title>BBC News Now</title>
+</programme>
+<programme start="20260220140000 +0000" stop="20260220143000 +0000" channel="BBC World News.mncvision">
+    <title>BBC News Now</title>
+</programme>
+<programme start="20260220143000 +0000" stop="20260220144500 +0000" channel="BBC World News.mncvision">
+    <title>Business Today: NYSE</title>
+</programme>
+<programme start="20260220144500 +0000" stop="20260220150000 +0000" channel="BBC World News.mncvision">
+    <title>BBC News Now</title>
+</programme>
+<programme start="20260220150000 +0000" stop="20260220153000 +0000" channel="BBC World News.mncvision">
+    <title>Verified Live</title>
+</programme>
+<programme start="20260220153000 +0000" stop="20260220160000 +0000" channel="BBC World News.mncvision">
+    <title>Verified Live</title>
+</programme>
 <programme start="20260219170000 +0000" stop="20260219174000 +0000" channel="beIN Sports 1.mncvision">
     <title>LaLiga Highlights 2025/26</title>
 </programme>
@@ -669,9 +1186,147 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260220161500 +0000" stop="20260220164500 +0000" channel="beIN Sports 2 HD.mncvision">
     <title>Premier Padel 2026: Riyadh</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260219173000 +0000" stop="20260219174000 +0000" channel="beIN Sports 3.mncvision">
+    <title>UCL Classic Matches: BAR Vs LYO</title>
+</programme>
+<programme start="20260219174000 +0000" stop="20260219195500 +0000" channel="beIN Sports 3.mncvision">
+    <title>UEL 2025/26: PKT Vs CEL (L)</title>
+</programme>
+<programme start="20260219195500 +0000" stop="20260219220000 +0000" channel="beIN Sports 3.mncvision">
+    <title>UEL 2025/26: LIL Vs CZV (L)</title>
+</programme>
+<programme start="20260219220000 +0000" stop="20260219230000 +0000" channel="beIN Sports 3.mncvision">
+    <title>FEI Western European League</title>
+</programme>
+<programme start="20260219230000 +0000" stop="20260220000000 +0000" channel="beIN Sports 3.mncvision">
+    <title>FEI Western European League</title>
+</programme>
+<programme start="20260220000000 +0000" stop="20260220015000 +0000" channel="beIN Sports 3.mncvision">
+    <title>UEL 2025/26: DIN Vs GNK</title>
+</programme>
+<programme start="20260220015000 +0000" stop="20260220034000 +0000" channel="beIN Sports 3.mncvision">
+    <title>UEL 2025/26: BRA Vs BOL</title>
+</programme>
+<programme start="20260220034000 +0000" stop="20260220053000 +0000" channel="beIN Sports 3.mncvision">
+    <title>UEL 2025/26: LUD Vs FTC</title>
+</programme>
+<programme start="20260220053000 +0000" stop="20260220072000 +0000" channel="beIN Sports 3.mncvision">
+    <title>UEL 2025/26: PAO Vs PLZ</title>
+</programme>
+<programme start="20260220072000 +0000" stop="20260220091000 +0000" channel="beIN Sports 3.mncvision">
+    <title>UEL 2025/26: CEL Vs VFB</title>
+</programme>
+<programme start="20260220091000 +0000" stop="20260220110000 +0000" channel="beIN Sports 3.mncvision">
+    <title>UECL 2025/26: JAG Vs FIO</title>
+</programme>
+<programme start="20260220110000 +0000" stop="20260220130000 +0000" channel="beIN Sports 3.mncvision">
+    <title>UECL 2025/26: ZRI Vs CRY</title>
+</programme>
+<programme start="20260220130000 +0000" stop="20260220140000 +0000" channel="beIN Sports 3.mncvision">
+    <title>UEL/UECL Highlights 2025/26</title>
+</programme>
+<programme start="20260220140000 +0000" stop="20260220143000 +0000" channel="beIN Sports 3.mncvision">
+    <title>UCL Magazine Show 2025/26</title>
+</programme>
+<programme start="20260220143000 +0000" stop="20260220150000 +0000" channel="beIN Sports 3.mncvision">
+    <title>UWCL Highlights 2025/26</title>
+</programme>
+<programme start="20260220150000 +0000" stop="20260220160000 +0000" channel="beIN Sports 3.mncvision">
+    <title>UEL/UECL Highlights 2025/26</title>
+</programme>
+<programme start="20260220160000 +0000" stop="20260220163000 +0000" channel="beIN Sports 3.mncvision">
+    <title>UCL Highlights 2025/26</title>
+</programme>
+<programme start="20260220163000 +0000" stop="20260219170000 +0000" channel="beIN Sports 3.mncvision">
+    <title>UEL 2025/26: PAO Vs PLZ</title>
+</programme>
+<programme start="20260219173000 +0000" stop="20260219174000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>UCL Classic Matches: BAR Vs LYO</title>
+</programme>
+<programme start="20260219174000 +0000" stop="20260219195500 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>UEL 2025/26: PKT Vs CEL (L)</title>
+</programme>
+<programme start="20260219195500 +0000" stop="20260219220000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>UEL 2025/26: LIL Vs CZV (L)</title>
+</programme>
+<programme start="20260219220000 +0000" stop="20260219230000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>FEI Western European League</title>
+</programme>
+<programme start="20260219230000 +0000" stop="20260220000000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>FEI Western European League</title>
+</programme>
+<programme start="20260220000000 +0000" stop="20260220015000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>UEL 2025/26: DIN Vs GNK</title>
+</programme>
+<programme start="20260220015000 +0000" stop="20260220034000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>UEL 2025/26: BRA Vs BOL</title>
+</programme>
+<programme start="20260220034000 +0000" stop="20260220053000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>UEL 2025/26: LUD Vs FTC</title>
+</programme>
+<programme start="20260220053000 +0000" stop="20260220072000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>UEL 2025/26: PAO Vs PLZ</title>
+</programme>
+<programme start="20260220072000 +0000" stop="20260220091000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>UEL 2025/26: CEL Vs VFB</title>
+</programme>
+<programme start="20260220091000 +0000" stop="20260220110000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>UECL 2025/26: JAG Vs FIO</title>
+</programme>
+<programme start="20260220110000 +0000" stop="20260220130000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>UECL 2025/26: ZRI Vs CRY</title>
+</programme>
+<programme start="20260220130000 +0000" stop="20260220140000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>UEL/UECL Highlights 2025/26</title>
+</programme>
+<programme start="20260220140000 +0000" stop="20260220143000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>UCL Magazine Show 2025/26</title>
+</programme>
+<programme start="20260220143000 +0000" stop="20260220150000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>UWCL Highlights 2025/26</title>
+</programme>
+<programme start="20260220150000 +0000" stop="20260220160000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>UEL/UECL Highlights 2025/26</title>
+</programme>
+<programme start="20260220160000 +0000" stop="20260220163000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>UCL Highlights 2025/26</title>
+</programme>
+<programme start="20260220163000 +0000" stop="20260219170000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>UEL 2025/26: PAO Vs PLZ</title>
+</programme>
+<programme start="20260219174500 +0000" stop="20260219200000 +0000" channel="beIN SPORTS 4.mncvision">
+    <title>UEL 2025/26: DIN Vs GNK (L)</title>
+</programme>
+<programme start="20260219200000 +0000" stop="20260219220000 +0000" channel="beIN SPORTS 4.mncvision">
+    <title>UEL 2025/26: PAO Vs PLZ (L)</title>
+</programme>
+<programme start="20260219220000 +0000" stop="20260220010000 +0000" channel="beIN SPORTS 4.mncvision">
+    <title>beIN Sports 4</title>
+</programme>
+<programme start="20260220010000 +0000" stop="20260220030000 +0000" channel="beIN SPORTS 4.mncvision">
+    <title>beIN Sports 4</title>
+</programme>
+<programme start="20260220030000 +0000" stop="20260220050000 +0000" channel="beIN SPORTS 4.mncvision">
+    <title>beIN Sports 4</title>
+</programme>
+<programme start="20260220050000 +0000" stop="20260220070000 +0000" channel="beIN SPORTS 4.mncvision">
+    <title>beIN Sports 4</title>
+</programme>
+<programme start="20260220070000 +0000" stop="20260220090000 +0000" channel="beIN SPORTS 4.mncvision">
+    <title>beIN Sports 4</title>
+</programme>
+<programme start="20260220090000 +0000" stop="20260220110000 +0000" channel="beIN SPORTS 4.mncvision">
+    <title>beIN Sports 4</title>
+</programme>
+<programme start="20260220110000 +0000" stop="20260220130000 +0000" channel="beIN SPORTS 4.mncvision">
+    <title>beIN Sports 4</title>
+</programme>
+<programme start="20260220130000 +0000" stop="20260220150000 +0000" channel="beIN SPORTS 4.mncvision">
+    <title>beIN Sports 4</title>
+</programme>
+<programme start="20260220150000 +0000" stop="20260220153000 +0000" channel="beIN SPORTS 4.mncvision">
+    <title>beIN Sports 4</title>
+</programme>
 <programme start="20260219174500 +0000" stop="20260219200000 +0000" channel="beIN SPORTS 5.mncvision">
     <title>UEL 2025/26: BRA Vs BOL (L)</title>
 </programme>
