@@ -150,10 +150,6 @@
     <title>Football: OFI - Panathinaikos</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260222030000 +0700" stop="20260222033000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Emirates FA Cup 2025-26 - Highlights</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260222033000 +0700" stop="20260222053000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: SC Braga - Vitoria Guimaraes (L)</title>
     <desc>Live: Ya</desc>
@@ -222,9 +218,9 @@
     <title>Football: AS Roma - Cremonese (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260222020000 +0700" stop="20260222040000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Football: Al Hilal - Al Ittihad (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20260223044500 +0700" stop="20260223070000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: AEL Novibet - PAOK</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260222040000 +0700" stop="20260222043000 +0700" channel="COSMOTE Sport 4 HD">
     <title>ACB Liga Endesa 2025-26 - Fifth Quarter E19</title>
@@ -366,9 +362,13 @@
     <title>Sports Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260222010000 +0700" stop="20260222033000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: Carlos Alcaraz - Arthur Fils (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20260223040000 +0700" stop="20260223043000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Documentary</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260223043000 +0700" stop="20260223053000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260222033000 +0700" stop="20260222043000 +0700" channel="COSMOTE Sport 6 HD">
     <title>ATP 500 2026 - Highlights</title>
@@ -441,6 +441,10 @@
 <programme start="20260223022000 +0700" stop="20260223040000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Handball: SC Magdeburg - GWD Minden</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260223040000 +0700" stop="20260223063000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: ATP 250 2026 (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260222024500 +0700" stop="20260222044500 +0700" channel="COSMOTE Sport 7 HD">
     <title>Basketball: Bertram Derthona Tortona - Virtus Bologna (L)</title>
@@ -598,10 +602,6 @@
     <title>Tennis: ATP 500 2026 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260222020000 +0700" stop="20260222040000 +0700" channel="COSMOTE Sport 9 HD">
-    <title>Football: Al Nassr - Al-Hazem FC (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
 <programme start="20260222040000 +0700" stop="20260222043000 +0700" channel="COSMOTE Sport 9 HD">
     <title>COSMOTESport9HD</title>
     <desc>Live: Tidak</desc>
@@ -665,5 +665,13 @@
 <programme start="20260223010000 +0700" stop="20260223040000 +0700" channel="COSMOTE Sport 9 HD">
     <title>Basketball: Oklahoma City Thunder - Cleveland Cavaliers (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20260223040000 +0700" stop="20260223043000 +0700" channel="COSMOTE Sport 9 HD">
+    <title>COSMOTESport9HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260223043000 +0700" stop="20260223050000 +0700" channel="COSMOTE Sport 9 HD">
+    <title>COSMOTESport9HD</title>
+    <desc>Live: Tidak</desc>
 </programme>
 No EPG found for COSMOTE Sport 10 HD
