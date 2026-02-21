@@ -712,6 +712,9 @@
 <programme start="20260221003000 +0000" stop="20260221023000 +0000" channel="ANTV.vision">
 <title>Janji Inspektur Virat</title>
 </programme>
+<programme start="20260221023000 +0000" stop="20260221060000 +0000" channel="ANTV.vision">
+<title>Karan Arjun</title>
+</programme>
 <programme start="20260221060000 +0000" stop="20260221083000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -879,6 +882,9 @@
 </programme>
 <programme start="20260220233000 +0000" stop="20260221010000 +0000" channel="TVOne.vision">
 <title>Apa Kabar Indonesia Pagi (L)</title>
+</programme>
+<programme start="20260221020000 +0000" stop="20260221023000 +0000" channel="TVOne.vision">
+<title>KI Awards 2026</title>
 </programme>
 <programme start="20260221023000 +0000" stop="20260221030000 +0000" channel="TVOne.vision">
 <title>Xpose</title>
@@ -1491,10 +1497,4 @@
 </programme>
 <programme start="20260221112100 +0000" stop="20260221112600 +0000" channel="BTV.vision">
 <title>Selamat Berbuka Puasa</title>
-</programme>
-<programme start="20260221112600 +0000" stop="20260221120000 +0000" channel="BTV.vision">
-<title>Dunia Binatang</title>
-</programme>
-<programme start="20260221120000 +0000" stop="20260221130000 +0000" channel="BTV.vision">
-<title>Ketulusan Hati</title>
 </programme>
