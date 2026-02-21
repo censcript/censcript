@@ -883,9 +883,6 @@
 <programme start="20260220233000 +0000" stop="20260221010000 +0000" channel="TVOne.vision">
 <title>Apa Kabar Indonesia Pagi (L)</title>
 </programme>
-<programme start="20260221010000 +0000" stop="20260221020000 +0000" channel="TVOne.vision">
-<title>Inspirasi Pagi</title>
-</programme>
 <programme start="20260221020000 +0000" stop="20260221023000 +0000" channel="TVOne.vision">
 <title>KI Awards 2026</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20260221111700 +0000" stop="20260221112100 +0000" channel="BTV.vision">
 <title>Azan Magrib</title>
+</programme>
+<programme start="20260221112100 +0000" stop="20260221112600 +0000" channel="BTV.vision">
+<title>Selamat Berbuka Puasa</title>
 </programme>

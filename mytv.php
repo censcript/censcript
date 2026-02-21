@@ -1,10 +1,10 @@
     <programme start="20260221010000 +0000" stop="19700101020000 +0000" channel="VTV1 HD.mytv">
         <title> Phim truyện : Những nẻo đường gần xa - Tập 40 </title>
     </programme>
-    <programme start="20260221010000 +0000" stop="20260221013000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260221010000 +0000" stop="20260221012900 +0000" channel="VTV1 HD.mytv">
         <title> Gala Việc tử tế : Mãi là người Việt Nam </title>
     </programme>
-    <programme start="20260221013000 +0000" stop="20260221030000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260221012900 +0000" stop="20260221030000 +0000" channel="VTV1 HD.mytv">
         <title> Thể thao : Những nhà vô địch đầu tiên </title>
     </programme>
     <programme start="20260221030000 +0000" stop="20260221033000 +0000" channel="VTV1 HD.mytv">
@@ -13,28 +13,22 @@
     <programme start="20260221033000 +0000" stop="20260221034500 +0000" channel="VTV1 HD.mytv">
         <title> VTV Sống khỏe </title>
     </programme>
-    <programme start="20260221034500 +0000" stop="20260221043000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260221034500 +0000" stop="20260221043100 +0000" channel="VTV1 HD.mytv">
         <title> Phim truyện : Anh có phải đàn ông không - Tập 21 </title>
     </programme>
-    <programme start="20260221043000 +0000" stop="20260221051500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260221043100 +0000" stop="20260221051400 +0000" channel="VTV1 HD.mytv">
         <title> Phim truyện : Anh có phải đàn ông không - Tập 22 </title>
     </programme>
-    <programme start="20260221051500 +0000" stop="20260221060500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260221051400 +0000" stop="20260221060400 +0000" channel="VTV1 HD.mytv">
         <title> S - Việt Nam : Mùa xuân về trên núi Bà </title>
     </programme>
-    <programme start="20260221060500 +0000" stop="20260221061000 +0000" channel="VTV1 HD.mytv">
-        <title> VTV kết nối </title>
-    </programme>
-    <programme start="20260221061000 +0000" stop="20260221062000 +0000" channel="VTV1 HD.mytv">
-        <title> Việt Nam đa sắc </title>
-    </programme>
-    <programme start="20260221062000 +0000" stop="20260221063000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260221060400 +0000" stop="20260221063000 +0000" channel="VTV1 HD.mytv">
         <title> Chào buổi sáng </title>
     </programme>
-    <programme start="20260221063000 +0000" stop="20260221080000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260221063000 +0000" stop="20260221075900 +0000" channel="VTV1 HD.mytv">
         <title> Ngày trở về : Mùa gieo hạt </title>
     </programme>
-    <programme start="20260221080000 +0000" stop="20260221093000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260221075900 +0000" stop="20260221093000 +0000" channel="VTV1 HD.mytv">
         <title> Thể thao : Cuộc chơi mới </title>
     </programme>
     <programme start="20260221093000 +0000" stop="20260221100000 +0000" channel="VTV1 HD.mytv">

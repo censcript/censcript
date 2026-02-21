@@ -4186,20 +4186,14 @@
     <programme start="20260221033000 +0000" stop="20260221083000 +0000" channel="Hub Sports 3 HD.starhub">
         <title>Honda LPGA Thailand Round 3</title>
     </programme>
-    <programme start="20260221083000 +0000" stop="20260221090000 +0000" channel="Hub Sports 3 HD.starhub">
-        <title>SDC Open</title>
+    <programme start="20260221083000 +0000" stop="20260221110000 +0000" channel="Hub Sports 3 HD.starhub">
+        <title>Magical Kenya Open Day 3 (JIP)</title>
     </programme>
-    <programme start="20260221090000 +0000" stop="20260221093000 +0000" channel="Hub Sports 3 HD.starhub">
-        <title>CIRCA Cape Town Open</title>
-    </programme>
-    <programme start="20260221093000 +0000" stop="20260221140000 +0000" channel="Hub Sports 3 HD.starhub">
-        <title>Magical Kenya Open Day 3</title>
-    </programme>
-    <programme start="20260221140000 +0000" stop="20260221150000 +0000" channel="Hub Sports 3 HD.starhub">
-        <title>WM Phoenix Open</title>
-    </programme>
-    <programme start="20260221150000 +0000" stop="20260221160000 +0000" channel="Hub Sports 3 HD.starhub">
+    <programme start="20260221110000 +0000" stop="20260221120000 +0000" channel="Hub Sports 3 HD.starhub">
         <title>Chubb Classic</title>
+    </programme>
+    <programme start="20260221120000 +0000" stop="20260221160000 +0000" channel="Hub Sports 3 HD.starhub">
+        <title>The Genesis Invitational Round 2</title>
     </programme>
     <programme start="20260220160000 +0000" stop="20260220160200 +0000" channel="France24.starhub">
         <title>News</title>
@@ -7424,7 +7418,7 @@
         <title>BBC News</title>
     </programme>
     <programme start="20260221053000 +0000" stop="20260221060000 +0000" channel="BBC World News HD.starhub">
-        <title>AI Decoded</title>
+        <title>Previewing Trump&#039;s State of The Union</title>
     </programme>
     <programme start="20260221060000 +0000" stop="20260221063000 +0000" channel="BBC World News HD.starhub">
         <title>BBC News</title>
@@ -7469,7 +7463,7 @@
         <title>BBC News</title>
     </programme>
     <programme start="20260221133000 +0000" stop="20260221140000 +0000" channel="BBC World News HD.starhub">
-        <title>AI Decoded</title>
+        <title>Previewing Trump&#039;s State of The Union</title>
     </programme>
     <programme start="20260221140000 +0000" stop="20260221143000 +0000" channel="BBC World News HD.starhub">
         <title>BBC News</title>
@@ -7912,10 +7906,10 @@
     <programme start="20260221013000 +0000" stop="20260221043000 +0000" channel="Asianet Movies.starhub">
         <title>Ennum Eppozhum</title>
     </programme>
-    <programme start="20260221043000 +0000" stop="20260221073000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260221043000 +0000" stop="20260221072000 +0000" channel="Asianet Movies.starhub">
         <title>Chunkzz</title>
     </programme>
-    <programme start="20260221073000 +0000" stop="20260221103000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260221072000 +0000" stop="20260221103000 +0000" channel="Asianet Movies.starhub">
         <title>RRR</title>
     </programme>
     <programme start="20260221103000 +0000" stop="20260221133000 +0000" channel="Asianet Movies.starhub">
