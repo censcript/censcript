@@ -1146,16 +1146,16 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260221150000 +0000" stop="20260221155500 +0000" channel="HISTORY Channel HD.skyde">
     <title>Geraubte Geschichte</title>
 </programme>
-<programme start="20260221155500 +0000" stop="20260221165000 +0000" channel="HISTORY Channel HD.skyde">
+<programme start="20260221155500 +0000" stop="20260221164500 +0000" channel="HISTORY Channel HD.skyde">
     <title>Der Zweite Weltkrieg - Die letzten Stunden</title>
 </programme>
-<programme start="20260221165000 +0000" stop="20260221174500 +0000" channel="HISTORY Channel HD.skyde">
+<programme start="20260221164500 +0000" stop="20260221173500 +0000" channel="HISTORY Channel HD.skyde">
     <title>Der Zweite Weltkrieg - Die letzten Stunden</title>
 </programme>
-<programme start="20260221174500 +0000" stop="20260221184000 +0000" channel="HISTORY Channel HD.skyde">
+<programme start="20260221173500 +0000" stop="20260221182500 +0000" channel="HISTORY Channel HD.skyde">
     <title>Hitlers Olympia</title>
 </programme>
-<programme start="20260221184000 +0000" stop="20260221191500 +0000" channel="HISTORY Channel HD.skyde">
+<programme start="20260221182500 +0000" stop="20260221191500 +0000" channel="HISTORY Channel HD.skyde">
     <title>Kriegsende in Europa - Das Minutenprotokoll vom 8. Mai 1945</title>
 </programme>
 <programme start="20260221191500 +0000" stop="20260221200500 +0000" channel="HISTORY Channel HD.skyde">
@@ -2655,28 +2655,28 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260221153000 +0000" stop="20260221155000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt Fußball: Österreich, Admiral Bundesliga</title>
 </programme>
-<programme start="20260221155000 +0000" stop="20260221180000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20260221155000 +0000" stop="20260221181500 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live Admiral BL: SK Rapid - RZ Pellets WAC, 20. Runde</title>
 </programme>
 <programme start="20260221153000 +0000" stop="20260221155000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Es folgt Fußball: Österreich, Admiral Bundesliga</title>
 </programme>
-<programme start="20260221155000 +0000" stop="20260221180000 +0000" channel="Sky Sport Austria 3 HD.skyde">
+<programme start="20260221155000 +0000" stop="20260221181500 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live Admiral BL: SCR Altach - FK Austria Wien, 20. Runde</title>
 </programme>
 <programme start="20260221153000 +0000" stop="20260221155000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Es folgt Fußball: Österreich, Admiral Bundesliga</title>
 </programme>
-<programme start="20260221155000 +0000" stop="20260221180000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+<programme start="20260221155000 +0000" stop="20260221181500 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live Admiral BL: TSV Egger Glas Hartberg - Grazer AK 1902, 20. Runde</title>
 </programme>
 <programme start="20260220233000 +0000" stop="20260221013500 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: 1. FSV Mainz 05 - Hamburger SV, Flutlicht-Freitag, 23. Spieltag</title>
 </programme>
-<programme start="20260221013500 +0000" stop="20260221033000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+<programme start="20260221013500 +0000" stop="20260221033500 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>2. BL: VfL Bochum - 1. FC Nürnberg, 23. Spieltag</title>
 </programme>
-<programme start="20260221033000 +0000" stop="20260221053000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+<programme start="20260221033500 +0000" stop="20260221053000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>2. BL: SpVgg Greuther Fürth - Arminia Bielefeld, 23. Spieltag</title>
 </programme>
 <programme start="20260221053000 +0000" stop="20260221054500 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -2692,7 +2692,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Live Sky Sport News: Guten Morgen Fans!</title>
 </programme>
 <programme start="20260221090000 +0000" stop="20260221094500 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 23. Spieltag, Samstag</title>
+    <title>2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 23. Spieltag, Freitag</title>
 </programme>
 <programme start="20260221094500 +0000" stop="20260221100000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: Luis Diaz Exklusiv</title>
@@ -2781,7 +2781,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260221141500 +0000" stop="20260221164500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: FC Bayern München - Eintracht Frankfurt, 23. Spieltag</title>
 </programme>
-<programme start="20260221164500 +0000" stop="20260221201500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
+<programme start="20260221164500 +0000" stop="20260221210000 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: RB Leipzig - Borussia Dortmund, tipico Topspiel der Woche, 23. Spieltag</title>
 </programme>
 <programme start="20260221111000 +0000" stop="20260221113000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
@@ -2805,7 +2805,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260221190000 +0000" stop="20260221220000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Live 2. BL: FC Schalke 04 - 1. FC Magdeburg, tipico Topspiel der Woche, 23. Spieltag</title>
 </programme>
-<programme start="20260221220000 +0000" stop="20260221230000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+<programme start="20260221220000 +0000" stop="20260221231500 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 23. Spieltag, Samstag komplett</title>
 </programme>
 <programme start="20260221111000 +0000" stop="20260221113000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
@@ -2820,7 +2820,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260221141500 +0000" stop="20260221164500 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live BL: 1. FC Union Berlin - Bayer Leverkusen, 23. Spieltag</title>
 </programme>
-<programme start="20260221164500 +0000" stop="20260221201500 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
+<programme start="20260221164500 +0000" stop="20260221210000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live BL: Tactical Feed: RBL - BVB, 23. Spieltag</title>
 </programme>
 <programme start="20260221111000 +0000" stop="20260221113000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
@@ -2832,7 +2832,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260221140000 +0000" stop="20260221141500 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live BL: WOB - FCA: tipico Countdown, 23. Spieltag</title>
 </programme>
-<programme start="20260221141500 +0000" stop="20260221164500 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
+<programme start="20260221141500 +0000" stop="20260221171500 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live BL: VfL Wolfsburg - FC Augsburg, 23. Spieltag</title>
 </programme>
 <programme start="20260221111000 +0000" stop="20260221113000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
@@ -2841,7 +2841,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260221113000 +0000" stop="20260221140000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Live 2. BL: SV Elversberg - Eintracht Braunschweig, 23. Spieltag</title>
 </programme>
-<programme start="20260221140000 +0000" stop="20260221163000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
+<programme start="20260221140000 +0000" stop="20260221171500 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>BL: Hinweis Multiview</title>
 </programme>
 <programme start="20260221111000 +0000" stop="20260221113000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
@@ -2850,7 +2850,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260221113000 +0000" stop="20260221140000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
     <title>Live 2. BL: Multiview 23. Spieltag, Samstag</title>
 </programme>
-<programme start="20260221140000 +0000" stop="20260221163000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
+<programme start="20260221140000 +0000" stop="20260221171500 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
     <title>Live BL: Multiview 23. Spieltag</title>
 </programme>
 <programme start="20260221111000 +0000" stop="20260221113000 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
@@ -2859,7 +2859,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260221113000 +0000" stop="20260221140000 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
     <title>Live 2. BL: Samstags-Konferenz, 23. Spieltag</title>
 </programme>
-<programme start="20260221140000 +0000" stop="20260221144500 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
+<programme start="20260221140000 +0000" stop="20260221151500 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
     <title>Live 2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 23. Spieltag, Samstag</title>
 </programme>
 <programme start="20260221011500 +0000" stop="20260221013000 +0000" channel="Sky Sport F1 HD.skyde">
@@ -2874,11 +2874,8 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260221033000 +0000" stop="20260221040000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Beyond All Limits</title>
 </programme>
-<programme start="20260221040000 +0000" stop="20260221045000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260221040000 +0000" stop="20260221050000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Legends of F1 - Niki Lauda</title>
-</programme>
-<programme start="20260221045000 +0000" stop="20260221050000 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>F1: Max Verstappen: The DNA of a Champion</title>
 </programme>
 <programme start="20260221050000 +0000" stop="20260221070000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Rennen - GP Ungarn 2025</title>
@@ -3201,10 +3198,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260221222000 +0000" stop="20260222002000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: FC Brentford - Brighton &amp; Hove Albion, 27. Spieltag</title>
 </programme>
-<programme start="20260221020000 +0000" stop="20260221040000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260221043000 +0000" stop="20260221050000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: C. Alcaraz (ESP) - A. Rublev, Qatar ExxonMobil Open in Doha (Katar), Halbfinale 1</title>
 </programme>
-<programme start="20260221040000 +0000" stop="20260221060000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260221050000 +0000" stop="20260221060000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: J. Mensik (CZE) - A. Fils (FRA), Qatar ExxonMobil Open in Doha (Katar), Halbfinale 2</title>
 </programme>
 <programme start="20260221060000 +0000" stop="20260221063000 +0000" channel="Sky Sport Tennis HD.skyde">
@@ -3219,20 +3216,23 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260221103000 +0000" stop="20260221110000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
 </programme>
-<programme start="20260221110000 +0000" stop="20260221130000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260221110000 +0000" stop="20260221120000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: C. Alcaraz (ESP) - A. Rublev, Qatar ExxonMobil Open in Doha (Katar), Halbfinale 1</title>
 </programme>
-<programme start="20260221130000 +0000" stop="20260221150000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260221120000 +0000" stop="20260221123000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: J. Mensik (CZE) - A. Fils (FRA), Qatar ExxonMobil Open in Doha (Katar), Halbfinale 2</title>
 </programme>
+<programme start="20260221123000 +0000" stop="20260221150000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>Live WTA 1000: L. Siegemund (GER) / V. Zvonareva (RUS) - G. Dabrovski (CAN) / L. Stefani (BRA), Dubai Duty Free Tennis Championships in Dubai (VAE), Doppelfinale</title>
+</programme>
 <programme start="20260221150000 +0000" stop="20260221173000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live WTA 1000: Finale, Dubai Duty Free Tennis Championships in Dubai (VAE), Finale</title>
+    <title>Live WTA 1000: E. Svitolina (UKR) - J. Pegula (USA), Dubai Duty Free Tennis Championships in Dubai (VAE), Finale</title>
 </programme>
 <programme start="20260221173000 +0000" stop="20260221180000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA: All Access Magazine Show</title>
 </programme>
 <programme start="20260221180000 +0000" stop="20260221203000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP 500: Finale, Qatar ExxonMobil Open in Doha (Katar), Finale</title>
+    <title>Live ATP 500: C. Alcaraz (ESP) - A. Fils (FRA), Qatar ExxonMobil Open in Doha (Katar), Finale</title>
 </programme>
 <programme start="20260221203000 +0000" stop="20260221220000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP 500: HF1, Rio Open in Rio de Janeiro (BRA), Halbfinale 1</title>
@@ -3240,16 +3240,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260221220000 +0000" stop="20260222000000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP 500: HF2, Rio Open in Rio de Janeiro (BRA), Halbfinale 2</title>
 </programme>
-<programme start="20260221020000 +0000" stop="20260221023000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>NBA: On Fire</title>
-</programme>
-<programme start="20260221023000 +0000" stop="20260221031500 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 23. Spieltag, Freitag</title>
-</programme>
-<programme start="20260221031500 +0000" stop="20260221033000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>BL: Highlights XXL: M05 - HSV, 23. Spieltag</title>
-</programme>
-<programme start="20260221033000 +0000" stop="20260221083000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260221043000 +0000" stop="20260221083000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live LPGA: Honda LPGA Thailand, 3. Tag in Pattaya (Thailand)</title>
 </programme>
 <programme start="20260221083000 +0000" stop="20260221090000 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3288,13 +3279,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260221174000 +0000" stop="20260221180000 +0000" channel="Sky Sport 4 HD.skyde">
     <title>ATP World Tour: Es folgt</title>
 </programme>
-<programme start="20260221180000 +0000" stop="20260221203000 +0000" channel="Sky Sport 4 HD.skyde">
-    <title>Live ATP 500: Finale, Qatar ExxonMobil Open in Doha (Katar), Finale</title>
+<programme start="20260221180000 +0000" stop="20260221233000 +0000" channel="Sky Sport 4 HD.skyde">
+    <title>Live ATP 500: C. Alcaraz (ESP) - A. Fils (FRA), Qatar ExxonMobil Open in Doha (Katar), Finale</title>
 </programme>
 <programme start="20260221194000 +0000" stop="20260221200000 +0000" channel="Sky Sport 5 HD.skyde">
     <title>ATP World Tour: Es folgt</title>
 </programme>
-<programme start="20260221200000 +0000" stop="20260221220000 +0000" channel="Sky Sport 5 HD.skyde">
+<programme start="20260221200000 +0000" stop="20260222010000 +0000" channel="Sky Sport 5 HD.skyde">
     <title>Live ATP 500: HF1, Rio Open in Rio de Janeiro (BRA), Halbfinale 1</title>
 </programme>
 <programme start="20260220234000 +0000" stop="20260221002500 +0000" channel="SYFY HD.skyde">
@@ -3630,10 +3621,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260221173000 +0000" stop="20260221180000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
-<programme start="20260221180000 +0000" stop="20260221182000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260221180000 +0000" stop="20260221182500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
-<programme start="20260221182000 +0000" stop="20260221185000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260221182500 +0000" stop="20260221185000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
 <programme start="20260221185000 +0000" stop="20260221191500 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3657,7 +3648,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260221222500 +0000" stop="20260221225000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Big Bang Theory</title>
 </programme>
-<programme start="20260221225000 +0000" stop="20260222002500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260221225000 +0000" stop="20260222003000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Der Knastcoach</title>
 </programme>
 <programme start="20260221012000 +0000" stop="20260221023500 +0000" channel="Warner TV Film.skyde">
