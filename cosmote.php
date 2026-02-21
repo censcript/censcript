@@ -1,11 +1,3 @@
-<programme start="20260221150000 +0700" stop="20260221153000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>UEFA Champions League Magazine 2024-25 E21</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260221153000 +0700" stop="20260221160000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Game R1 S6 E26</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260221160000 +0700" stop="20260221180000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: FK Bodo/Glimt - FC Internazionale Milano</title>
     <desc>Live: Tidak</desc>
@@ -72,6 +64,10 @@
 </programme>
 <programme start="20260222150000 +0700" stop="20260222160000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Highlights: UEL &amp; UECL 2025-26</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260222160000 +0700" stop="20260222180000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: Borussia Dortmund - Atalanta</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260221141000 +0700" stop="20260221161000 +0700" channel="COSMOTE Sport 2 HD">
@@ -148,6 +144,10 @@
 </programme>
 <programme start="20260222144500 +0700" stop="20260222164500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Lecce - FC Internazionale Milano</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260222164500 +0700" stop="20260222190000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Olympiacos - Panetolikos</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260221150000 +0700" stop="20260221170000 +0700" channel="COSMOTE Sport 3 HD">
@@ -286,10 +286,6 @@
     <title>Basketball: Phoenix Suns - Orlando Magic</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260221142000 +0700" stop="20260221154000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>DTM 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260221154000 +0700" stop="20260221164000 +0700" channel="COSMOTE Sport 5 HD">
     <title>WRC</title>
     <desc>Live: Tidak</desc>
@@ -370,6 +366,10 @@
     <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260222160000 +0700" stop="20260222170500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260221150000 +0700" stop="20260221163000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Topspin</title>
     <desc>Live: Tidak</desc>
@@ -432,6 +432,10 @@
 </programme>
 <programme start="20260222142500 +0700" stop="20260222163000 +0700" channel="COSMOTE Sport 6 HD">
     <title>World Athletics Indoor Tour Gold 2026</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260222163000 +0700" stop="20260222203000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: ATP 500 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260221150000 +0700" stop="20260221170000 +0700" channel="COSMOTE Sport 7 HD">
