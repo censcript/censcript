@@ -643,78 +643,6 @@
   <programme start="20260223221500 +0000" stop="20260223231000 +0000" channel="JOJ.webtv.sk">
     <title lang="id">Ostreľovač II (3)</title>
   </programme>
-  <programme start="20260222225000 +0000" stop="20260223014000 +0000" channel="Markíza +1.webtv.sk">
-    <title lang="id">Dokonalá lúpež</title>
-  </programme>
-  <programme start="20260223014000 +0000" stop="20260223032000 +0000" channel="Markíza +1.webtv.sk">
-    <title lang="id">Equalizer 3: Posledná kapitola</title>
-  </programme>
-  <programme start="20260223032000 +0000" stop="20260223050000 +0000" channel="Markíza +1.webtv.sk">
-    <title lang="id">Útek z planéty dinosaurov</title>
-  </programme>
-  <programme start="20260223050000 +0000" stop="20260223060000 +0000" channel="Markíza +1.webtv.sk">
-    <title lang="id">Televízne noviny</title>
-  </programme>
-  <programme start="20260223060000 +0000" stop="20260223082500 +0000" channel="Markíza +1.webtv.sk">
-    <title lang="id">Teleráno</title>
-  </programme>
-  <programme start="20260223082500 +0000" stop="20260223094500 +0000" channel="Markíza +1.webtv.sk">
-    <title lang="id">Zámena manželiek</title>
-  </programme>
-  <programme start="20260223094500 +0000" stop="20260223104500 +0000" channel="Markíza +1.webtv.sk">
-    <title lang="id">Sľub III (19)</title>
-  </programme>
-  <programme start="20260223104500 +0000" stop="20260223114500 +0000" channel="Markíza +1.webtv.sk">
-    <title lang="id">Rodinné prípady</title>
-  </programme>
-  <programme start="20260223114500 +0000" stop="20260223125000 +0000" channel="Markíza +1.webtv.sk">
-    <title lang="id">Rodinné prípady</title>
-  </programme>
-  <programme start="20260223125000 +0000" stop="20260223135000 +0000" channel="Markíza +1.webtv.sk">
-    <title lang="id">Monk V (7)</title>
-  </programme>
-  <programme start="20260223135000 +0000" stop="20260223145000 +0000" channel="Markíza +1.webtv.sk">
-    <title lang="id">Monk V (8)</title>
-  </programme>
-  <programme start="20260223145000 +0000" stop="20260223155500 +0000" channel="Markíza +1.webtv.sk">
-    <title lang="id">Susedské prípady</title>
-  </programme>
-  <programme start="20260223155500 +0000" stop="20260223170000 +0000" channel="Markíza +1.webtv.sk">
-    <title lang="id">Rodinné prípady</title>
-  </programme>
-  <programme start="20260223170000 +0000" stop="20260223172500 +0000" channel="Markíza +1.webtv.sk">
-    <title lang="id">Prvé televízne noviny</title>
-  </programme>
-  <programme start="20260223172500 +0000" stop="20260223173000 +0000" channel="Markíza +1.webtv.sk">
-    <title lang="id">Prvé športové noviny</title>
-  </programme>
-  <programme start="20260223173000 +0000" stop="20260223175500 +0000" channel="Markíza +1.webtv.sk">
-    <title lang="id">Reflex</title>
-  </programme>
-  <programme start="20260223175500 +0000" stop="20260223190000 +0000" channel="Markíza +1.webtv.sk">
-    <title lang="id">Sľub III (20)</title>
-  </programme>
-  <programme start="20260223190000 +0000" stop="20260223200000 +0000" channel="Markíza +1.webtv.sk">
-    <title lang="id">Televízne noviny</title>
-  </programme>
-  <programme start="20260223200000 +0000" stop="20260223201000 +0000" channel="Markíza +1.webtv.sk">
-    <title lang="id">Počasie</title>
-  </programme>
-  <programme start="20260223201000 +0000" stop="20260223201500 +0000" channel="Markíza +1.webtv.sk">
-    <title lang="id">Informácie pre tipujúcich</title>
-  </programme>
-  <programme start="20260223201500 +0000" stop="20260223203000 +0000" channel="Markíza +1.webtv.sk">
-    <title lang="id">Športové noviny</title>
-  </programme>
-  <programme start="20260223203000 +0000" stop="20260223214500 +0000" channel="Markíza +1.webtv.sk">
-    <title lang="id">Pán profesor VI (5)</title>
-  </programme>
-  <programme start="20260223214500 +0000" stop="20260223225500 +0000" channel="Markíza +1.webtv.sk">
-    <title lang="id">Výnimočná Nikol (5)</title>
-  </programme>
-  <programme start="20260223225500 +0000" stop="20260223235500 +0000" channel="Markíza +1.webtv.sk">
-    <title lang="id">Špecialisti VII (31)</title>
-  </programme>
   <programme start="20260222230000 +0000" stop="20260223012500 +0000" channel="JOJ +1.webtv.sk">
     <title lang="id">Neviditeľný</title>
   </programme>
@@ -7711,456 +7639,6 @@
   <programme start="20260223225200 +0000" stop="20260223231000 +0000" channel="LangLab.webtv.sk">
     <title lang="id">Life Around</title>
   </programme>
-  <programme start="20260222225800 +0000" stop="20260222230400 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Irregular Verbs</title>
-  </programme>
-  <programme start="20260222230400 +0000" stop="20260222232800 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Coffee Chat</title>
-  </programme>
-  <programme start="20260222232800 +0000" stop="20260222233800 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Wrong&amp;Right</title>
-  </programme>
-  <programme start="20260222233800 +0000" stop="20260222235900 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Easy Talk</title>
-  </programme>
-  <programme start="20260222235900 +0000" stop="20260223000300 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Get a Call</title>
-  </programme>
-  <programme start="20260223000300 +0000" stop="20260223000600 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Irregular Verbs</title>
-  </programme>
-  <programme start="20260223000600 +0000" stop="20260223002600 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Coffee Chat</title>
-  </programme>
-  <programme start="20260223002600 +0000" stop="20260223010100 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Easy Talk</title>
-  </programme>
-  <programme start="20260223010100 +0000" stop="20260223010700 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Irregular Verbs</title>
-  </programme>
-  <programme start="20260223010700 +0000" stop="20260223011700 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Wrong&amp;Right</title>
-  </programme>
-  <programme start="20260223011700 +0000" stop="20260223020600 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Easy Talk</title>
-  </programme>
-  <programme start="20260223020600 +0000" stop="20260223021000 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Sing&amp;Spell</title>
-  </programme>
-  <programme start="20260223021000 +0000" stop="20260223021400 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Get a Call</title>
-  </programme>
-  <programme start="20260223021400 +0000" stop="20260223021700 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Irregular Verbs</title>
-  </programme>
-  <programme start="20260223021700 +0000" stop="20260223022900 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Wrong&amp;Right</title>
-  </programme>
-  <programme start="20260223022900 +0000" stop="20260223031800 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Easy Talk</title>
-  </programme>
-  <programme start="20260223031800 +0000" stop="20260223032200 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Sing&amp;Spell</title>
-  </programme>
-  <programme start="20260223032200 +0000" stop="20260223032800 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Irregular Verbs</title>
-  </programme>
-  <programme start="20260223032800 +0000" stop="20260223033800 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Wrong&amp;Right</title>
-  </programme>
-  <programme start="20260223033800 +0000" stop="20260223042700 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Easy Talk</title>
-  </programme>
-  <programme start="20260223042700 +0000" stop="20260223043100 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Sing&amp;Spell</title>
-  </programme>
-  <programme start="20260223043100 +0000" stop="20260223043500 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Get a Call</title>
-  </programme>
-  <programme start="20260223043500 +0000" stop="20260223043700 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Wrong&amp;Right</title>
-  </programme>
-  <programme start="20260223043700 +0000" stop="20260223044300 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Coffee Chat</title>
-  </programme>
-  <programme start="20260223044300 +0000" stop="20260223050400 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Easy Talk</title>
-  </programme>
-  <programme start="20260223050400 +0000" stop="20260223051200 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Simple Phrases</title>
-  </programme>
-  <programme start="20260223051200 +0000" stop="20260223051800 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Alfred &amp; Wilfred</title>
-  </programme>
-  <programme start="20260223051800 +0000" stop="20260223053000 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Life Around</title>
-  </programme>
-  <programme start="20260223053000 +0000" stop="20260223053600 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Irregular Verbs</title>
-  </programme>
-  <programme start="20260223053600 +0000" stop="20260223054000 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Get a Call</title>
-  </programme>
-  <programme start="20260223054000 +0000" stop="20260223054200 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Wrong&amp;Right</title>
-  </programme>
-  <programme start="20260223054200 +0000" stop="20260223054800 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Coffee Chat</title>
-  </programme>
-  <programme start="20260223054800 +0000" stop="20260223060900 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Easy Talk</title>
-  </programme>
-  <programme start="20260223060900 +0000" stop="20260223061700 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Simple Phrases</title>
-  </programme>
-  <programme start="20260223061700 +0000" stop="20260223062300 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Alfred &amp; Wilfred</title>
-  </programme>
-  <programme start="20260223062300 +0000" stop="20260223063500 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Life Around</title>
-  </programme>
-  <programme start="20260223063500 +0000" stop="20260223063900 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Sing&amp;Spell</title>
-  </programme>
-  <programme start="20260223063900 +0000" stop="20260223064300 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Get a Call</title>
-  </programme>
-  <programme start="20260223064300 +0000" stop="20260223064500 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Wrong&amp;Right</title>
-  </programme>
-  <programme start="20260223064500 +0000" stop="20260223065100 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Coffee Chat</title>
-  </programme>
-  <programme start="20260223065100 +0000" stop="20260223071200 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Easy Talk</title>
-  </programme>
-  <programme start="20260223071200 +0000" stop="20260223072000 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Simple Phrases</title>
-  </programme>
-  <programme start="20260223072000 +0000" stop="20260223072600 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Alfred &amp; Wilfred</title>
-  </programme>
-  <programme start="20260223072600 +0000" stop="20260223073800 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Life Around</title>
-  </programme>
-  <programme start="20260223073800 +0000" stop="20260223074400 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Irregular Verbs</title>
-  </programme>
-  <programme start="20260223074400 +0000" stop="20260223074800 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Get a Call</title>
-  </programme>
-  <programme start="20260223074800 +0000" stop="20260223075000 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Wrong&amp;Right</title>
-  </programme>
-  <programme start="20260223075000 +0000" stop="20260223075600 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Coffee Chat</title>
-  </programme>
-  <programme start="20260223075600 +0000" stop="20260223081700 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Easy Talk</title>
-  </programme>
-  <programme start="20260223081700 +0000" stop="20260223082500 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Simple Phrases</title>
-  </programme>
-  <programme start="20260223082500 +0000" stop="20260223083100 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Alfred &amp; Wilfred</title>
-  </programme>
-  <programme start="20260223083100 +0000" stop="20260223084300 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Life Around</title>
-  </programme>
-  <programme start="20260223084300 +0000" stop="20260223084700 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Sing&amp;Spell</title>
-  </programme>
-  <programme start="20260223084700 +0000" stop="20260223085100 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Get a Call</title>
-  </programme>
-  <programme start="20260223085100 +0000" stop="20260223085300 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Wrong&amp;Right</title>
-  </programme>
-  <programme start="20260223085300 +0000" stop="20260223085900 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Coffee Chat</title>
-  </programme>
-  <programme start="20260223085900 +0000" stop="20260223092000 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Easy Talk</title>
-  </programme>
-  <programme start="20260223092000 +0000" stop="20260223092800 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Simple Phrases</title>
-  </programme>
-  <programme start="20260223092800 +0000" stop="20260223093400 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Alfred &amp; Wilfred</title>
-  </programme>
-  <programme start="20260223093400 +0000" stop="20260223094600 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Life Around</title>
-  </programme>
-  <programme start="20260223094600 +0000" stop="20260223095200 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Irregular Verbs</title>
-  </programme>
-  <programme start="20260223095200 +0000" stop="20260223095600 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Get a Call</title>
-  </programme>
-  <programme start="20260223095600 +0000" stop="20260223095800 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Wrong&amp;Right</title>
-  </programme>
-  <programme start="20260223095800 +0000" stop="20260223100400 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Coffee Chat</title>
-  </programme>
-  <programme start="20260223100400 +0000" stop="20260223102500 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Easy Talk</title>
-  </programme>
-  <programme start="20260223102500 +0000" stop="20260223103300 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Simple Phrases</title>
-  </programme>
-  <programme start="20260223103300 +0000" stop="20260223103900 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Alfred &amp; Wilfred</title>
-  </programme>
-  <programme start="20260223103900 +0000" stop="20260223105100 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Life Around</title>
-  </programme>
-  <programme start="20260223105100 +0000" stop="20260223105500 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Sing&amp;Spell</title>
-  </programme>
-  <programme start="20260223105500 +0000" stop="20260223105900 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Get a Call</title>
-  </programme>
-  <programme start="20260223105900 +0000" stop="20260223110100 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Wrong&amp;Right</title>
-  </programme>
-  <programme start="20260223110100 +0000" stop="20260223115700 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Easy Talk</title>
-  </programme>
-  <programme start="20260223115700 +0000" stop="20260223120300 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Irregular Verbs</title>
-  </programme>
-  <programme start="20260223120300 +0000" stop="20260223120700 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Get a Call</title>
-  </programme>
-  <programme start="20260223120700 +0000" stop="20260223120900 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Wrong&amp;Right</title>
-  </programme>
-  <programme start="20260223120900 +0000" stop="20260223121500 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Coffee Chat</title>
-  </programme>
-  <programme start="20260223121500 +0000" stop="20260223123600 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Easy Talk</title>
-  </programme>
-  <programme start="20260223123600 +0000" stop="20260223124400 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Simple Phrases</title>
-  </programme>
-  <programme start="20260223124400 +0000" stop="20260223125000 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Alfred &amp; Wilfred</title>
-  </programme>
-  <programme start="20260223125000 +0000" stop="20260223130200 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Life Around</title>
-  </programme>
-  <programme start="20260223130200 +0000" stop="20260223130600 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Sing&amp;Spell</title>
-  </programme>
-  <programme start="20260223130600 +0000" stop="20260223131000 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Get a Call</title>
-  </programme>
-  <programme start="20260223131000 +0000" stop="20260223131200 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Wrong&amp;Right</title>
-  </programme>
-  <programme start="20260223131200 +0000" stop="20260223131800 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Coffee Chat</title>
-  </programme>
-  <programme start="20260223131800 +0000" stop="20260223133900 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Easy Talk</title>
-  </programme>
-  <programme start="20260223133900 +0000" stop="20260223134700 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Simple Phrases</title>
-  </programme>
-  <programme start="20260223134700 +0000" stop="20260223135300 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Alfred &amp; Wilfred</title>
-  </programme>
-  <programme start="20260223135300 +0000" stop="20260223140500 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Life Around</title>
-  </programme>
-  <programme start="20260223140500 +0000" stop="20260223141100 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Irregular Verbs</title>
-  </programme>
-  <programme start="20260223141100 +0000" stop="20260223141500 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Get a Call</title>
-  </programme>
-  <programme start="20260223141500 +0000" stop="20260223141700 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Wrong&amp;Right</title>
-  </programme>
-  <programme start="20260223141700 +0000" stop="20260223142300 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Coffee Chat</title>
-  </programme>
-  <programme start="20260223142300 +0000" stop="20260223144400 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Easy Talk</title>
-  </programme>
-  <programme start="20260223144400 +0000" stop="20260223145200 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Simple Phrases</title>
-  </programme>
-  <programme start="20260223145200 +0000" stop="20260223145800 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Alfred &amp; Wilfred</title>
-  </programme>
-  <programme start="20260223145800 +0000" stop="20260223151000 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Life Around</title>
-  </programme>
-  <programme start="20260223151000 +0000" stop="20260223151400 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Sing&amp;Spell</title>
-  </programme>
-  <programme start="20260223151400 +0000" stop="20260223151800 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Get a Call</title>
-  </programme>
-  <programme start="20260223151800 +0000" stop="20260223152000 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Wrong&amp;Right</title>
-  </programme>
-  <programme start="20260223152000 +0000" stop="20260223152600 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Coffee Chat</title>
-  </programme>
-  <programme start="20260223152600 +0000" stop="20260223154700 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Easy Talk</title>
-  </programme>
-  <programme start="20260223154700 +0000" stop="20260223155500 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Simple Phrases</title>
-  </programme>
-  <programme start="20260223155500 +0000" stop="20260223160100 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Alfred &amp; Wilfred</title>
-  </programme>
-  <programme start="20260223160100 +0000" stop="20260223161300 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Life Around</title>
-  </programme>
-  <programme start="20260223161300 +0000" stop="20260223161900 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Irregular Verbs</title>
-  </programme>
-  <programme start="20260223161900 +0000" stop="20260223162300 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Get a Call</title>
-  </programme>
-  <programme start="20260223162300 +0000" stop="20260223162500 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Wrong&amp;Right</title>
-  </programme>
-  <programme start="20260223162500 +0000" stop="20260223163100 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Coffee Chat</title>
-  </programme>
-  <programme start="20260223163100 +0000" stop="20260223165200 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Easy Talk</title>
-  </programme>
-  <programme start="20260223165200 +0000" stop="20260223170000 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Simple Phrases</title>
-  </programme>
-  <programme start="20260223170000 +0000" stop="20260223170600 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Alfred &amp; Wilfred</title>
-  </programme>
-  <programme start="20260223170600 +0000" stop="20260223171800 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Life Around</title>
-  </programme>
-  <programme start="20260223171800 +0000" stop="20260223172200 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Sing&amp;Spell</title>
-  </programme>
-  <programme start="20260223172200 +0000" stop="20260223172600 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Get a Call</title>
-  </programme>
-  <programme start="20260223172600 +0000" stop="20260223172800 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Wrong&amp;Right</title>
-  </programme>
-  <programme start="20260223172800 +0000" stop="20260223173400 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Coffee Chat</title>
-  </programme>
-  <programme start="20260223173400 +0000" stop="20260223175500 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Easy Talk</title>
-  </programme>
-  <programme start="20260223175500 +0000" stop="20260223180300 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Simple Phrases</title>
-  </programme>
-  <programme start="20260223180300 +0000" stop="20260223180900 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Alfred &amp; Wilfred</title>
-  </programme>
-  <programme start="20260223180900 +0000" stop="20260223182100 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Life Around</title>
-  </programme>
-  <programme start="20260223182100 +0000" stop="20260223182700 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Irregular Verbs</title>
-  </programme>
-  <programme start="20260223182700 +0000" stop="20260223183100 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Get a Call</title>
-  </programme>
-  <programme start="20260223183100 +0000" stop="20260223183300 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Wrong&amp;Right</title>
-  </programme>
-  <programme start="20260223183300 +0000" stop="20260223183900 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Coffee Chat</title>
-  </programme>
-  <programme start="20260223183900 +0000" stop="20260223190000 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Easy Talk</title>
-  </programme>
-  <programme start="20260223190000 +0000" stop="20260223190800 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Simple Phrases</title>
-  </programme>
-  <programme start="20260223190800 +0000" stop="20260223191400 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Alfred &amp; Wilfred</title>
-  </programme>
-  <programme start="20260223191400 +0000" stop="20260223192600 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Life Around</title>
-  </programme>
-  <programme start="20260223192600 +0000" stop="20260223193000 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Sing&amp;Spell</title>
-  </programme>
-  <programme start="20260223193000 +0000" stop="20260223193400 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Get a Call</title>
-  </programme>
-  <programme start="20260223193400 +0000" stop="20260223193600 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Wrong&amp;Right</title>
-  </programme>
-  <programme start="20260223193600 +0000" stop="20260223203200 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Easy Talk</title>
-  </programme>
-  <programme start="20260223203200 +0000" stop="20260223203800 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Irregular Verbs</title>
-  </programme>
-  <programme start="20260223203800 +0000" stop="20260223204200 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Get a Call</title>
-  </programme>
-  <programme start="20260223204200 +0000" stop="20260223204800 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Coffee Chat</title>
-  </programme>
-  <programme start="20260223204800 +0000" stop="20260223210900 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Easy Talk</title>
-  </programme>
-  <programme start="20260223210900 +0000" stop="20260223211700 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Simple Phrases</title>
-  </programme>
-  <programme start="20260223211700 +0000" stop="20260223212300 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Alfred &amp; Wilfred</title>
-  </programme>
-  <programme start="20260223212300 +0000" stop="20260223213500 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Life Around</title>
-  </programme>
-  <programme start="20260223213500 +0000" stop="20260223213900 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Sing&amp;Spell</title>
-  </programme>
-  <programme start="20260223213900 +0000" stop="20260223214300 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Get a Call</title>
-  </programme>
-  <programme start="20260223214300 +0000" stop="20260223214900 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Coffee Chat</title>
-  </programme>
-  <programme start="20260223214900 +0000" stop="20260223221000 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Easy Talk</title>
-  </programme>
-  <programme start="20260223221000 +0000" stop="20260223221800 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Simple Phrases</title>
-  </programme>
-  <programme start="20260223221800 +0000" stop="20260223222400 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Alfred &amp; Wilfred</title>
-  </programme>
-  <programme start="20260223222400 +0000" stop="20260223223600 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Life Around</title>
-  </programme>
-  <programme start="20260223223600 +0000" stop="20260223224200 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Irregular Verbs</title>
-  </programme>
-  <programme start="20260223224200 +0000" stop="20260223224600 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Get a Call</title>
-  </programme>
-  <programme start="20260223224600 +0000" stop="20260223225200 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Coffee Chat</title>
-  </programme>
-  <programme start="20260223225200 +0000" stop="20260223231300 +0000" channel="Lingo Toons.webtv.sk">
-    <title lang="id">Easy Talk</title>
-  </programme>
   <programme start="20260222224000 +0000" stop="20260222231000 +0000" channel="TV Paprika.webtv.sk">
     <title lang="id">Tareq Taylor - skandinávské chutě V (1)</title>
   </programme>
@@ -8923,6 +8401,63 @@
   <programme start="20260223223000 +0000" stop="20260224000000 +0000" channel="AMC.webtv.sk">
     <title lang="id">Maximální riziko</title>
   </programme>
+  <programme start="20260222225500 +0000" stop="20260223011500 +0000" channel="Film +.webtv.sk">
+    <title lang="id">Muž v ohni</title>
+  </programme>
+  <programme start="20260223011500 +0000" stop="20260223033500 +0000" channel="Film +.webtv.sk">
+    <title lang="id">Revenant Zmrtvýchvstání</title>
+  </programme>
+  <programme start="20260223033500 +0000" stop="20260223040000 +0000" channel="Film +.webtv.sk">
+    <title lang="id">Close Up I (11)</title>
+  </programme>
+  <programme start="20260223040000 +0000" stop="20260223043000 +0000" channel="Film +.webtv.sk">
+    <title lang="id">Close Up I (14)</title>
+  </programme>
+  <programme start="20260223043000 +0000" stop="20260223050000 +0000" channel="Film +.webtv.sk">
+    <title lang="id">Close Up I (17)</title>
+  </programme>
+  <programme start="20260223050000 +0000" stop="20260223051000 +0000" channel="Film +.webtv.sk">
+    <title lang="id">Zoom In (186)</title>
+  </programme>
+  <programme start="20260223051000 +0000" stop="20260223052000 +0000" channel="Film +.webtv.sk">
+    <title lang="id">Zoom In (200)</title>
+  </programme>
+  <programme start="20260223052000 +0000" stop="20260223055000 +0000" channel="Film +.webtv.sk">
+    <title lang="id">Close Up I (1)</title>
+  </programme>
+  <programme start="20260223055000 +0000" stop="20260223062000 +0000" channel="Film +.webtv.sk">
+    <title lang="id">Close Up I (9)</title>
+  </programme>
+  <programme start="20260223062000 +0000" stop="20260223084000 +0000" channel="Film +.webtv.sk">
+    <title lang="id">Rudá jako rubín</title>
+  </programme>
+  <programme start="20260223084000 +0000" stop="20260223103500 +0000" channel="Film +.webtv.sk">
+    <title lang="id">Modrá jako safír</title>
+  </programme>
+  <programme start="20260223103500 +0000" stop="20260223122500 +0000" channel="Film +.webtv.sk">
+    <title lang="id">Zelená jako smaragd</title>
+  </programme>
+  <programme start="20260223122500 +0000" stop="20260223140500 +0000" channel="Film +.webtv.sk">
+    <title lang="id">Bláznivý šaman - Zpátky z minulosti</title>
+  </programme>
+  <programme start="20260223140500 +0000" stop="20260223160500 +0000" channel="Film +.webtv.sk">
+    <title lang="id">Sudá a lichá</title>
+  </programme>
+  <programme start="20260223160500 +0000" stop="20260223175500 +0000" channel="Film +.webtv.sk">
+    <title lang="id">Síť</title>
+  </programme>
+  <programme start="20260223175500 +0000" stop="20260223194500 +0000" channel="Film +.webtv.sk">
+    <title lang="id">Dvojníci</title>
+  </programme>
+  <programme start="20260223194500 +0000" stop="20260223210000 +0000" channel="Film +.webtv.sk">
+    <title lang="id">Zvíře</title>
+  </programme>
+  <programme start="20260223210000 +0000" stop="20260223223500 +0000" channel="Film +.webtv.sk">
+    <title lang="id">Rychlejší</title>
+  </programme>
+  <programme start="20260223223500 +0000" stop="20260224000000 +0000" channel="Film +.webtv.sk">
+    <title lang="id">Dívka s mušlí</title>
+  </programme>
   <programme start="20260222211500 +0000" stop="20260222231000 +0000" channel="AXN.webtv.sk">
     <title lang="id">Insidious: Kapitola 2</title>
   </programme>
@@ -9252,54 +8787,6 @@
   </programme>
   <programme start="20260223214000 +0000" stop="20260223235000 +0000" channel="FilmBox Extra.webtv.sk">
     <title lang="id">Polepšený: Robbie Williams</title>
-  </programme>
-  <programme start="20260222222500 +0000" stop="20260222235000 +0000" channel="FilmBox Premium.webtv.sk">
-    <title lang="id">Alex z Venice</title>
-  </programme>
-  <programme start="20260222235000 +0000" stop="20260223012500 +0000" channel="FilmBox Premium.webtv.sk">
-    <title lang="id">Nemilosrdný kolotoč</title>
-  </programme>
-  <programme start="20260223012500 +0000" stop="20260223025500 +0000" channel="FilmBox Premium.webtv.sk">
-    <title lang="id">Temný diamant</title>
-  </programme>
-  <programme start="20260223025500 +0000" stop="20260223042500 +0000" channel="FilmBox Premium.webtv.sk">
-    <title lang="id">Hlasy mrtvých</title>
-  </programme>
-  <programme start="20260223042500 +0000" stop="20260223050000 +0000" channel="FilmBox Premium.webtv.sk">
-    <title lang="id">Noční tabule</title>
-  </programme>
-  <programme start="20260223050000 +0000" stop="20260223063000 +0000" channel="FilmBox Premium.webtv.sk">
-    <title lang="id">Starověká hysterie: Dobrodružství povrchních Římanů</title>
-  </programme>
-  <programme start="20260223063000 +0000" stop="20260223080500 +0000" channel="FilmBox Premium.webtv.sk">
-    <title lang="id">Princ a já 2</title>
-  </programme>
-  <programme start="20260223080500 +0000" stop="20260223095000 +0000" channel="FilmBox Premium.webtv.sk">
-    <title lang="id">Učitelem z nouze</title>
-  </programme>
-  <programme start="20260223095000 +0000" stop="20260223111000 +0000" channel="FilmBox Premium.webtv.sk">
-    <title lang="id">Bůh masakru</title>
-  </programme>
-  <programme start="20260223111000 +0000" stop="20260223125500 +0000" channel="FilmBox Premium.webtv.sk">
-    <title lang="id">Mr. Olympia - Příběh bratrů Weiderových</title>
-  </programme>
-  <programme start="20260223125500 +0000" stop="20260223150500 +0000" channel="FilmBox Premium.webtv.sk">
-    <title lang="id">Muž se železnou maskou</title>
-  </programme>
-  <programme start="20260223150500 +0000" stop="20260223165500 +0000" channel="FilmBox Premium.webtv.sk">
-    <title lang="id">Francouzský polibek</title>
-  </programme>
-  <programme start="20260223165500 +0000" stop="20260223190000 +0000" channel="FilmBox Premium.webtv.sk">
-    <title lang="id">Bridget Jonesová: Láskou šílená</title>
-  </programme>
-  <programme start="20260223190000 +0000" stop="20260223205000 +0000" channel="FilmBox Premium.webtv.sk">
-    <title lang="id">Nezlomený</title>
-  </programme>
-  <programme start="20260223205000 +0000" stop="20260223225500 +0000" channel="FilmBox Premium.webtv.sk">
-    <title lang="id">Všichni královi muži</title>
-  </programme>
-  <programme start="20260223225500 +0000" stop="20260224003500 +0000" channel="FilmBox Premium.webtv.sk">
-    <title lang="id">Dobrý domov</title>
   </programme>
   <programme start="20260222214000 +0000" stop="20260222231000 +0000" channel="FilmBox Family.webtv.sk">
     <title lang="id">Telepati</title>
@@ -9720,6 +9207,144 @@
   </programme>
   <programme start="20260223223000 +0000" stop="20260223230000 +0000" channel="Fast and Funbox.webtv.sk">
     <title lang="id">World Of Freesports 2021, (48)</title>
+  </programme>
+  <programme start="20260222230000 +0000" stop="20260222232500 +0000" channel="DocuBox.webtv.sk">
+    <title lang="id">Wow, I Never Knew That! (4)</title>
+  </programme>
+  <programme start="20260222232500 +0000" stop="20260222235000 +0000" channel="DocuBox.webtv.sk">
+    <title lang="id">Wow, I Never Knew That! (6)</title>
+  </programme>
+  <programme start="20260222235000 +0000" stop="20260223001500 +0000" channel="DocuBox.webtv.sk">
+    <title lang="id">Big Coast XII (6)</title>
+  </programme>
+  <programme start="20260223001500 +0000" stop="20260223004000 +0000" channel="DocuBox.webtv.sk">
+    <title lang="id">Big Coast XII (8)</title>
+  </programme>
+  <programme start="20260223004000 +0000" stop="20260223013500 +0000" channel="DocuBox.webtv.sk">
+    <title lang="id">China Uncovered (3)</title>
+  </programme>
+  <programme start="20260223013500 +0000" stop="20260223020000 +0000" channel="DocuBox.webtv.sk">
+    <title lang="id">Music Voyager (15)</title>
+  </programme>
+  <programme start="20260223020000 +0000" stop="20260223022500 +0000" channel="DocuBox.webtv.sk">
+    <title lang="id">Music Voyager (13)</title>
+  </programme>
+  <programme start="20260223022500 +0000" stop="20260223025000 +0000" channel="DocuBox.webtv.sk">
+    <title lang="id">Music Voyager (45)</title>
+  </programme>
+  <programme start="20260223025000 +0000" stop="20260223033500 +0000" channel="DocuBox.webtv.sk">
+    <title lang="id">Rip Files II (6)</title>
+  </programme>
+  <programme start="20260223033500 +0000" stop="20260223042000 +0000" channel="DocuBox.webtv.sk">
+    <title lang="id">The Past Hunters (15)</title>
+  </programme>
+  <programme start="20260223042000 +0000" stop="20260223050500 +0000" channel="DocuBox.webtv.sk">
+    <title lang="id">The Past Hunters (17)</title>
+  </programme>
+  <programme start="20260223050500 +0000" stop="20260223053000 +0000" channel="DocuBox.webtv.sk">
+    <title lang="id">What in the World (16)</title>
+  </programme>
+  <programme start="20260223053000 +0000" stop="20260223060000 +0000" channel="DocuBox.webtv.sk">
+    <title lang="id">What in the World (18)</title>
+  </programme>
+  <programme start="20260223060000 +0000" stop="20260223062500 +0000" channel="DocuBox.webtv.sk">
+    <title lang="id">Travel Thru History (16)</title>
+  </programme>
+  <programme start="20260223062500 +0000" stop="20260223065000 +0000" channel="DocuBox.webtv.sk">
+    <title lang="id">Travel Thru History (17)</title>
+  </programme>
+  <programme start="20260223065000 +0000" stop="20260223072000 +0000" channel="DocuBox.webtv.sk">
+    <title lang="id">Nature&apos;s Force (8)</title>
+  </programme>
+  <programme start="20260223072000 +0000" stop="20260223075000 +0000" channel="DocuBox.webtv.sk">
+    <title lang="id">Nature&apos;s Force I (1)</title>
+  </programme>
+  <programme start="20260223075000 +0000" stop="20260223081500 +0000" channel="DocuBox.webtv.sk">
+    <title lang="id">Animal Embassy (7)</title>
+  </programme>
+  <programme start="20260223081500 +0000" stop="20260223084000 +0000" channel="DocuBox.webtv.sk">
+    <title lang="id">Animal Embassy (6)</title>
+  </programme>
+  <programme start="20260223084000 +0000" stop="20260223090500 +0000" channel="DocuBox.webtv.sk">
+    <title lang="id">Sarah Shark (4)</title>
+  </programme>
+  <programme start="20260223090500 +0000" stop="20260223100000 +0000" channel="DocuBox.webtv.sk">
+    <title lang="id">Meet My Wild Friend (4)</title>
+  </programme>
+  <programme start="20260223100000 +0000" stop="20260223105500 +0000" channel="DocuBox.webtv.sk">
+    <title lang="id">Meet My Wild Friend (2)</title>
+  </programme>
+  <programme start="20260223105500 +0000" stop="20260223112000 +0000" channel="DocuBox.webtv.sk">
+    <title lang="id">Angelo&apos;s Outdoor Kitchen (6)</title>
+  </programme>
+  <programme start="20260223112000 +0000" stop="20260223114500 +0000" channel="DocuBox.webtv.sk">
+    <title lang="id">Angelo&apos;s Outdoor Kitchen (7)</title>
+  </programme>
+  <programme start="20260223114500 +0000" stop="20260223124000 +0000" channel="DocuBox.webtv.sk">
+    <title lang="id">Nomads (38)</title>
+  </programme>
+  <programme start="20260223124000 +0000" stop="20260223133500 +0000" channel="DocuBox.webtv.sk">
+    <title lang="id">Nomads (23)</title>
+  </programme>
+  <programme start="20260223133500 +0000" stop="20260223140500 +0000" channel="DocuBox.webtv.sk">
+    <title lang="id">Show Me Where You Live I (16)</title>
+  </programme>
+  <programme start="20260223140500 +0000" stop="20260223143500 +0000" channel="DocuBox.webtv.sk">
+    <title lang="id">Show Me Where You Live I (17)</title>
+  </programme>
+  <programme start="20260223143500 +0000" stop="20260223150000 +0000" channel="DocuBox.webtv.sk">
+    <title lang="id">Outta Town Adventures I (3)</title>
+  </programme>
+  <programme start="20260223150000 +0000" stop="20260223152500 +0000" channel="DocuBox.webtv.sk">
+    <title lang="id">Journeys in Africa II (3)</title>
+  </programme>
+  <programme start="20260223152500 +0000" stop="20260223155000 +0000" channel="DocuBox.webtv.sk">
+    <title lang="id">Journeys in Africa II (4)</title>
+  </programme>
+  <programme start="20260223155000 +0000" stop="20260223162000 +0000" channel="DocuBox.webtv.sk">
+    <title lang="id">Journeys in India I (3)</title>
+  </programme>
+  <programme start="20260223162000 +0000" stop="20260223164500 +0000" channel="DocuBox.webtv.sk">
+    <title lang="id">Journeys in India I (4)</title>
+  </programme>
+  <programme start="20260223164500 +0000" stop="20260223171000 +0000" channel="DocuBox.webtv.sk">
+    <title lang="id">Outta Town Adventures I (4)</title>
+  </programme>
+  <programme start="20260223171000 +0000" stop="20260223174000 +0000" channel="DocuBox.webtv.sk">
+    <title lang="id">The Great Journey (3)</title>
+  </programme>
+  <programme start="20260223174000 +0000" stop="20260223181000 +0000" channel="DocuBox.webtv.sk">
+    <title lang="id">European Islands (8)</title>
+  </programme>
+  <programme start="20260223181000 +0000" stop="20260223183500 +0000" channel="DocuBox.webtv.sk">
+    <title lang="id">European Islands (6)</title>
+  </programme>
+  <programme start="20260223183500 +0000" stop="20260223190000 +0000" channel="DocuBox.webtv.sk">
+    <title lang="id">Blue World V (4)</title>
+  </programme>
+  <programme start="20260223190000 +0000" stop="20260223195500 +0000" channel="DocuBox.webtv.sk">
+    <title lang="id">Water: H2O Stories I (1)</title>
+  </programme>
+  <programme start="20260223195500 +0000" stop="20260223202500 +0000" channel="DocuBox.webtv.sk">
+    <title lang="id">Wonder (7)</title>
+  </programme>
+  <programme start="20260223202500 +0000" stop="20260223210000 +0000" channel="DocuBox.webtv.sk">
+    <title lang="id">Wonder (8)</title>
+  </programme>
+  <programme start="20260223210000 +0000" stop="20260223213000 +0000" channel="DocuBox.webtv.sk">
+    <title lang="id">Quirky Science (7)</title>
+  </programme>
+  <programme start="20260223213000 +0000" stop="20260223215500 +0000" channel="DocuBox.webtv.sk">
+    <title lang="id">Quirky Science (8)</title>
+  </programme>
+  <programme start="20260223215500 +0000" stop="20260223222000 +0000" channel="DocuBox.webtv.sk">
+    <title lang="id">Zenith (13)</title>
+  </programme>
+  <programme start="20260223222000 +0000" stop="20260223225000 +0000" channel="DocuBox.webtv.sk">
+    <title lang="id">Zenith (7)</title>
+  </programme>
+  <programme start="20260223225000 +0000" stop="20260223231500 +0000" channel="DocuBox.webtv.sk">
+    <title lang="id">New Frontier (10)</title>
   </programme>
   <programme start="20260222230000 +0000" stop="20260223000000 +0000" channel="360 TuneBox.webtv.sk">
     <title lang="id">Ultra Mix</title>

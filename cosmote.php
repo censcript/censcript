@@ -142,6 +142,18 @@
     <title>Football: Juventus Football Club - Como</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260222140000 +0700" stop="20260222143000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Sports Classics: Ultimate Rush S5 E7</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260222143000 +0700" stop="20260222144500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Sports Classics: Worldies E6</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260222144500 +0700" stop="20260222164500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Lecce - FC Internazionale Milano</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260221130000 +0700" stop="20260221150000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Arsenal - Wigan Athletic</title>
     <desc>Live: Tidak</desc>
@@ -358,6 +370,10 @@
     <title>DTM 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260222141000 +0700" stop="20260222151500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260221123000 +0700" stop="20260221150000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Volleyball: Panathinaikos - Panionios</title>
     <desc>Live: Tidak</desc>
@@ -420,6 +436,10 @@
 </programme>
 <programme start="20260222133000 +0700" stop="20260222142500 +0700" channel="COSMOTE Sport 6 HD">
     <title>ATP 500 2026 - Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260222142500 +0700" stop="20260222163000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>World Athletics Indoor Tour Gold 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260221130000 +0700" stop="20260221150000 +0700" channel="COSMOTE Sport 7 HD">
