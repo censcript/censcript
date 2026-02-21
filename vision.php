@@ -901,9 +901,6 @@
 <programme start="20260221070000 +0000" stop="20260221073000 +0000" channel="TVOne.vision">
 <title>Selalu Ada Hikmah</title>
 </programme>
-<programme start="20260221073000 +0000" stop="20260221090000 +0000" channel="TVOne.vision">
-<title>Damai Indonesiaku Ramadan (L)</title>
-</programme>
 <programme start="20260221090000 +0000" stop="20260221103000 +0000" channel="TVOne.vision">
 <title>Kabar Petang (L)</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20260221120000 +0000" stop="20260221130000 +0000" channel="BTV.vision">
 <title>Ketulusan Hati</title>
+</programme>
+<programme start="20260221130000 +0000" stop="20260221140000 +0000" channel="BTV.vision">
+<title>Spot On</title>
 </programme>

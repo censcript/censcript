@@ -8620,6 +8620,57 @@
   <programme start="20260223223000 +0000" stop="20260223230000 +0000" channel="Fishing&Hunting.webtv.sk">
     <title lang="id">Modrý svět S04 E02</title>
   </programme>
+  <programme start="20260222221500 +0000" stop="20260222235500 +0000" channel="HBO.webtv.sk">
+    <title lang="id">Na dotek</title>
+  </programme>
+  <programme start="20260222235500 +0000" stop="20260223013000 +0000" channel="HBO.webtv.sk">
+    <title lang="id">To se mi snad zdá</title>
+  </programme>
+  <programme start="20260223013000 +0000" stop="20260223020000 +0000" channel="HBO.webtv.sk">
+    <title lang="id">Před kamerou XXIII (8)</title>
+  </programme>
+  <programme start="20260223020000 +0000" stop="20260223030000 +0000" channel="HBO.webtv.sk">
+    <title lang="id">Sektor IV (7)</title>
+  </programme>
+  <programme start="20260223030000 +0000" stop="20260223033500 +0000" channel="HBO.webtv.sk">
+    <title lang="id">Rytíř Sedmi království (6)</title>
+  </programme>
+  <programme start="20260223033500 +0000" stop="20260223050000 +0000" channel="HBO.webtv.sk">
+    <title lang="id">Jiná žena</title>
+  </programme>
+  <programme start="20260223050000 +0000" stop="20260223070500 +0000" channel="HBO.webtv.sk">
+    <title lang="id">Ona</title>
+  </programme>
+  <programme start="20260223070500 +0000" stop="20260223091500 +0000" channel="HBO.webtv.sk">
+    <title lang="id">Zelená kniha</title>
+  </programme>
+  <programme start="20260223091500 +0000" stop="20260223112500 +0000" channel="HBO.webtv.sk">
+    <title lang="id">Spider-Man: Homecoming</title>
+  </programme>
+  <programme start="20260223112500 +0000" stop="20260223132500 +0000" channel="HBO.webtv.sk">
+    <title lang="id">Alita: Bojový Anděl</title>
+  </programme>
+  <programme start="20260223132500 +0000" stop="20260223151500 +0000" channel="HBO.webtv.sk">
+    <title lang="id">Králíček Jojo</title>
+  </programme>
+  <programme start="20260223151500 +0000" stop="20260223165000 +0000" channel="HBO.webtv.sk">
+    <title lang="id">Genie</title>
+  </programme>
+  <programme start="20260223165000 +0000" stop="20260223190000 +0000" channel="HBO.webtv.sk">
+    <title lang="id">Železní bratři</title>
+  </programme>
+  <programme start="20260223190000 +0000" stop="20260223195000 +0000" channel="HBO.webtv.sk">
+    <title lang="id">Sektor IV (7)</title>
+  </programme>
+  <programme start="20260223195000 +0000" stop="20260223202500 +0000" channel="HBO.webtv.sk">
+    <title lang="id">Rytíř Sedmi království (6)</title>
+  </programme>
+  <programme start="20260223202500 +0000" stop="20260223220500 +0000" channel="HBO.webtv.sk">
+    <title lang="id">Tiché znamení</title>
+  </programme>
+  <programme start="20260223220500 +0000" stop="20260223234500 +0000" channel="HBO.webtv.sk">
+    <title lang="id">Náš syn</title>
+  </programme>
   <programme start="20260222221500 +0000" stop="20260223001000 +0000" channel="HBO 2.webtv.sk">
     <title lang="id">S větrem o závod</title>
   </programme>
