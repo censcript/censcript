@@ -2302,11 +2302,8 @@
     <programme start="20260220143000 +0000" stop="20260220163000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>R4: Liverpool vs Brighton &amp; Hove Albion</title>
     </programme>
-    <programme start="20260220163000 +0000" stop="20260220203000 +0000" channel="Hub Sports 2 HD.starhub">
+    <programme start="20260220163000 +0000" stop="20260220210000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>Qatar ExxonMobil Open (500) SF 1 &amp; 2</title>
-    </programme>
-    <programme start="20260220203000 +0000" stop="20260220210000 +0000" channel="Hub Sports 2 HD.starhub">
-        <title>#576</title>
     </programme>
     <programme start="20260220210000 +0000" stop="20260220230000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>Seoul SK Knights vs Taipei Fubon Braves</title>

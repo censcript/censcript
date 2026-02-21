@@ -2661,7 +2661,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260221153000 +0000" stop="20260221155000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Es folgt Fußball: Österreich, Admiral Bundesliga</title>
 </programme>
-<programme start="20260221155000 +0000" stop="20260221180000 +0000" channel="Sky Sport Austria 3 HD.skyde">
+<programme start="20260221155000 +0000" stop="20260221181500 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live Admiral BL: SCR Altach - FK Austria Wien, 20. Runde</title>
 </programme>
 <programme start="20260221153000 +0000" stop="20260221155000 +0000" channel="Sky Sport Austria 4 HD.skyde">
@@ -2859,7 +2859,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260221113000 +0000" stop="20260221140000 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
     <title>Live 2. BL: Samstags-Konferenz, 23. Spieltag</title>
 </programme>
-<programme start="20260221140000 +0000" stop="20260221144500 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
+<programme start="20260221140000 +0000" stop="20260221151500 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
     <title>Live 2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 23. Spieltag, Samstag</title>
 </programme>
 <programme start="20260221011500 +0000" stop="20260221013000 +0000" channel="Sky Sport F1 HD.skyde">
@@ -3285,7 +3285,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260221194000 +0000" stop="20260221200000 +0000" channel="Sky Sport 5 HD.skyde">
     <title>ATP World Tour: Es folgt</title>
 </programme>
-<programme start="20260221200000 +0000" stop="20260221220000 +0000" channel="Sky Sport 5 HD.skyde">
+<programme start="20260221200000 +0000" stop="20260222010000 +0000" channel="Sky Sport 5 HD.skyde">
     <title>Live ATP 500: HF1, Rio Open in Rio de Janeiro (BRA), Halbfinale 1</title>
 </programme>
 <programme start="20260220234000 +0000" stop="20260221002500 +0000" channel="SYFY HD.skyde">
