@@ -22,7 +22,13 @@
     <programme start="20260221051400 +0000" stop="20260221060400 +0000" channel="VTV1 HD.mytv">
         <title> S - Việt Nam : Mùa xuân về trên núi Bà </title>
     </programme>
-    <programme start="20260221060400 +0000" stop="20260221063000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260221060400 +0000" stop="20260221060900 +0000" channel="VTV1 HD.mytv">
+        <title> VTV kết nối </title>
+    </programme>
+    <programme start="20260221060900 +0000" stop="20260221062200 +0000" channel="VTV1 HD.mytv">
+        <title> Việt Nam đa sắc </title>
+    </programme>
+    <programme start="20260221062200 +0000" stop="20260221063000 +0000" channel="VTV1 HD.mytv">
         <title> Chào buổi sáng </title>
     </programme>
     <programme start="20260221063000 +0000" stop="20260221075900 +0000" channel="VTV1 HD.mytv">
@@ -34,10 +40,10 @@
     <programme start="20260221093000 +0000" stop="20260221100000 +0000" channel="VTV1 HD.mytv">
         <title> Thời sự </title>
     </programme>
-    <programme start="20260221100000 +0000" stop="20260221101500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260221100000 +0000" stop="20260221101600 +0000" channel="VTV1 HD.mytv">
         <title> Tạp chí Kinh tế cuối năm : Từ A đến I </title>
     </programme>
-    <programme start="20260221101500 +0000" stop="20260221110500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260221101600 +0000" stop="20260221110500 +0000" channel="VTV1 HD.mytv">
         <title> Trạm yêu thương : Phép màu yêu thương </title>
     </programme>
     <programme start="20260221110500 +0000" stop="20260221113500 +0000" channel="VTV1 HD.mytv">
@@ -46,16 +52,16 @@
     <programme start="20260221113500 +0000" stop="20260221120000 +0000" channel="VTV1 HD.mytv">
         <title> Sống an toàn </title>
     </programme>
-    <programme start="20260221120000 +0000" stop="20260221123000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260221120000 +0000" stop="20260221122900 +0000" channel="VTV1 HD.mytv">
         <title> Cuộc sống số </title>
     </programme>
-    <programme start="20260221123000 +0000" stop="20260221124500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260221122900 +0000" stop="20260221124500 +0000" channel="VTV1 HD.mytv">
         <title> Góc nhìn văn hóa </title>
     </programme>
-    <programme start="20260221124500 +0000" stop="20260221130000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260221124500 +0000" stop="20260221130100 +0000" channel="VTV1 HD.mytv">
         <title> Thời sự </title>
     </programme>
-    <programme start="20260221130000 +0000" stop="20260221134000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260221130100 +0000" stop="20260221134000 +0000" channel="VTV1 HD.mytv">
         <title> Phóng sự : Trên miền biên ải </title>
     </programme>
     <programme start="20260221134000 +0000" stop="20260221135500 +0000" channel="VTV1 HD.mytv">
