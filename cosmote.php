@@ -50,10 +50,6 @@
     <title>Football: AS Monaco FC - Paris Saint Germain</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260222220000 +0700" stop="20260222230000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>PreGame (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
 <programme start="20260222230000 +0700" stop="20260223010500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: AEL Novibet - PAOK (L)</title>
     <desc>Live: Ya</desc>
@@ -118,10 +114,6 @@
     <title>Football: AEL Novibet - PAOK</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260222210000 +0700" stop="20260222230000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Atalanta - SSC Napoli (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
 <programme start="20260222230000 +0700" stop="20260222233000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Emirates FA Cup 2025-26 - Highlights</title>
     <desc>Live: Tidak</desc>
@@ -178,8 +170,8 @@
     <title>Football: SC Braga - Vitoria Guimaraes</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260222201000 +0700" stop="20260222221000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Bertram Derthona Tortona - Virtus Bologna</title>
+<programme start="20260223230000 +0700" stop="20260224010000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Blackburn Rovers - Preston North End</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260222221000 +0700" stop="20260223010500 +0700" channel="COSMOTE Sport 4 HD">
@@ -338,8 +330,12 @@
     <title>Documentary</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260222212000 +0700" stop="20260222230000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: Carlos Alcaraz - Arthur Fils</title>
+<programme start="20260223230000 +0700" stop="20260223233000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Documentary</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260223233000 +0700" stop="20260224013000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>2025 Extreme H</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260222230000 +0700" stop="20260223010500 +0700" channel="COSMOTE Sport 6 HD">
@@ -408,14 +404,6 @@
 </programme>
 <programme start="20260223215500 +0700" stop="20260224000000 +0700" channel="COSMOTE Sport 6 HD">
     <title>World Athletics Indoor Tour Gold 2026</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260222210000 +0700" stop="20260222224500 +0700" channel="COSMOTE Sport 7 HD">
-    <title>Handball: SC Magdeburg - GWD Minden (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20260222224500 +0700" stop="20260222230000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260222230000 +0700" stop="20260223013000 +0700" channel="COSMOTE Sport 7 HD">
@@ -550,6 +538,10 @@
     <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260223230000 +0700" stop="20260224010000 +0700" channel="COSMOTE Sport 8 HD">
+    <title>COSMOTESport8HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260222220000 +0700" stop="20260223000000 +0700" channel="COSMOTE Sport 9 HD">
     <title>Football: Livingston - Rangers FC (L)</title>
     <desc>Live: Ya</desc>
@@ -607,6 +599,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260223210000 +0700" stop="20260223230000 +0700" channel="COSMOTE Sport 9 HD">
+    <title>COSMOTESport9HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260223230000 +0700" stop="20260224010000 +0700" channel="COSMOTE Sport 9 HD">
     <title>COSMOTESport9HD</title>
     <desc>Live: Tidak</desc>
 </programme>

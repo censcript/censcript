@@ -601,6 +601,9 @@
 <programme start="20260222041500 +0000" stop="20260222050000 +0000" channel="Trans 7.vision">
 <title>Enaknya Mantul</title>
 </programme>
+<programme start="20260222050000 +0000" stop="20260222054500 +0000" channel="Trans 7.vision">
+<title>Pesantrend</title>
+</programme>
 <programme start="20260222054500 +0000" stop="20260222063000 +0000" channel="Trans 7.vision">
 <title>Jejak Petualang Explorer</title>
 </programme>
@@ -702,6 +705,9 @@
 </programme>
 <programme start="20260222003000 +0000" stop="20260222023000 +0000" channel="ANTV.vision">
 <title>Janji Inspektur Virat</title>
+</programme>
+<programme start="20260222023000 +0000" stop="20260222060000 +0000" channel="ANTV.vision">
+<title>Dunki</title>
 </programme>
 <programme start="20260222060000 +0000" stop="20260222083000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
@@ -1491,10 +1497,4 @@
 </programme>
 <programme start="20260222112500 +0000" stop="20260222120000 +0000" channel="BTV.vision">
 <title>Dunia Binatang</title>
-</programme>
-<programme start="20260222120000 +0000" stop="20260222130000 +0000" channel="BTV.vision">
-<title>Ketulusan Hati</title>
-</programme>
-<programme start="20260222130000 +0000" stop="20260222140000 +0000" channel="BTV.vision">
-<title>Spot On</title>
 </programme>
