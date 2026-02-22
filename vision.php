@@ -712,9 +712,6 @@
 <programme start="20260222111000 +0000" stop="20260222113000 +0000" channel="ANTV.vision">
 <title>Sepiring Berduet</title>
 </programme>
-<programme start="20260222113000 +0000" stop="20260222133000 +0000" channel="ANTV.vision">
-<title>Jurus Naga Dewa</title>
-</programme>
 <programme start="20260222133000 +0000" stop="20260222153000 +0000" channel="ANTV.vision">
 <title>Malin Kundang</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20260222130000 +0000" stop="20260222140000 +0000" channel="BTV.vision">
 <title>Spot On</title>
+</programme>
+<programme start="20260222140000 +0000" stop="20260222150000 +0000" channel="BTV.vision">
+<title>Berita Viral</title>
 </programme>
