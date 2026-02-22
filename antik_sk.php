@@ -17069,7 +17069,7 @@
     <title lang="id">DW. Будущее сегодня</title>
   </programme>
   <programme start="20260224020000 +0000" stop="20260224040000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Pеальное кино</title>
+    <title lang="id">Pеальное кино: Pозы. Фильм-кабаре</title>
   </programme>
   <programme start="20260224040000 +0000" stop="20260224043000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">Что же получается</title>
@@ -17081,10 +17081,10 @@
     <title lang="id">Грани времени</title>
   </programme>
   <programme start="20260224060000 +0000" stop="20260224070000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Настоящий сериал</title>
+    <title lang="id">Настоящий сериал: Гостомель. 24 часа</title>
   </programme>
   <programme start="20260224070000 +0000" stop="20260224090000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Pеальное кино</title>
+    <title lang="id">Pеальное кино: Pозы. Фильм-кабаре</title>
   </programme>
   <programme start="20260224090000 +0000" stop="20260224093000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">Утро</title>
@@ -17099,7 +17099,7 @@
     <title lang="id">#ВУкраине: Пять пуль от снайпера</title>
   </programme>
   <programme start="20260224110000 +0000" stop="20260224120000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Настоящий сериал</title>
+    <title lang="id">Настоящий сериал: Гостомель. 24 часа</title>
   </programme>
   <programme start="20260224120000 +0000" stop="20260224123000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">Что же получается</title>
@@ -17114,7 +17114,7 @@
     <title lang="id">#ВУкраине: Пять пуль от снайпера</title>
   </programme>
   <programme start="20260224140000 +0000" stop="20260224160000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Pеальное кино</title>
+    <title lang="id">Pеальное кино: Pозы. Фильм-кабаре</title>
   </programme>
   <programme start="20260224160000 +0000" stop="20260224163000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">Главное</title>
