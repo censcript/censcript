@@ -106,10 +106,7 @@
   <programme start="20260224220000 +0000" stop="20260224233000 +0000" channel="Jednotka.webtv.sk">
     <title lang="id">Nikdy sa nepriznaj</title>
   </programme>
-  <programme start="20260223225900 +0000" stop="20260223230100 +0000" channel="Dvojka.webtv.sk">
-    <title lang="id">Hymna SR</title>
-  </programme>
-  <programme start="20260223230100 +0000" stop="20260223235000 +0000" channel="Dvojka.webtv.sk">
+  <programme start="20260223230000 +0000" stop="20260223235000 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Správy</title>
   </programme>
   <programme start="20260223235000 +0000" stop="20260223235600 +0000" channel="Dvojka.webtv.sk">
