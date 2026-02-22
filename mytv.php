@@ -1,34 +1,34 @@
     <programme start="20260222010000 +0000" stop="19700101020000 +0000" channel="VTV1 HD.mytv">
         <title> Phim truyện : Những nẻo đường gần xa - Tập 41 </title>
     </programme>
-    <programme start="20260222010000 +0000" stop="20260222013000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260222010000 +0000" stop="20260222012900 +0000" channel="VTV1 HD.mytv">
         <title> Ngày trở về : Mùa gieo hạt </title>
     </programme>
-    <programme start="20260222013000 +0000" stop="20260222030000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260222012900 +0000" stop="20260222030000 +0000" channel="VTV1 HD.mytv">
         <title> Thể thao : Bước đột phá </title>
     </programme>
-    <programme start="20260222030000 +0000" stop="20260222033000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260222030000 +0000" stop="20260222032900 +0000" channel="VTV1 HD.mytv">
         <title> Từ những miền quê : Mùa trám đen ở Điềm Thụy </title>
     </programme>
-    <programme start="20260222033000 +0000" stop="20260222034500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260222032900 +0000" stop="20260222034300 +0000" channel="VTV1 HD.mytv">
         <title> VTV Sống khỏe : Thời gian là não </title>
     </programme>
-    <programme start="20260222034500 +0000" stop="20260222043000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260222034300 +0000" stop="20260222042700 +0000" channel="VTV1 HD.mytv">
         <title> Phim truyện : Anh có phải đàn ông không - Tập 23 </title>
     </programme>
-    <programme start="20260222043000 +0000" stop="20260222051500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260222042700 +0000" stop="20260222051300 +0000" channel="VTV1 HD.mytv">
         <title> Phim truyện : Anh có phải đàn ông không - Tập 24 </title>
     </programme>
-    <programme start="20260222051500 +0000" stop="20260222060500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260222051300 +0000" stop="20260222060400 +0000" channel="VTV1 HD.mytv">
         <title> S - Việt Nam : Chuyện ngựa ở Đường Lâm </title>
     </programme>
-    <programme start="20260222060500 +0000" stop="20260222061000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260222060400 +0000" stop="20260222060900 +0000" channel="VTV1 HD.mytv">
         <title> Phóng sự : Nhịp đập công trình </title>
     </programme>
-    <programme start="20260222061000 +0000" stop="20260222063000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260222060900 +0000" stop="20260222062900 +0000" channel="VTV1 HD.mytv">
         <title> Chào buổi sáng </title>
     </programme>
-    <programme start="20260222063000 +0000" stop="20260222080000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260222062900 +0000" stop="20260222080000 +0000" channel="VTV1 HD.mytv">
         <title> Toàn cảnh báo xuân </title>
     </programme>
     <programme start="20260222080000 +0000" stop="20260222084500 +0000" channel="VTV1 HD.mytv">

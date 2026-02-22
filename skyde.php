@@ -3245,7 +3245,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260222204000 +0000" stop="20260222210000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>ATP World Tour: Es folgt</title>
 </programme>
-<programme start="20260222210000 +0000" stop="20260223090000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260222210000 +0000" stop="20260222233000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live ATP 250: Finale, Delray Beach Open in Delray Beach (USA), Finale</title>
 </programme>
 <programme start="20260222133000 +0000" stop="20260222135000 +0000" channel="Sky Sport 6 HD.skyde">

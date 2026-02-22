@@ -7669,13 +7669,13 @@
     <programme start="20260222013000 +0000" stop="20260222043000 +0000" channel="Asianet Movies.starhub">
         <title>Rasathanthram</title>
     </programme>
-    <programme start="20260222043000 +0000" stop="20260222073000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260222043000 +0000" stop="20260222073500 +0000" channel="Asianet Movies.starhub">
         <title>Pushpa: The Rise - Part 1</title>
     </programme>
-    <programme start="20260222073000 +0000" stop="20260222103000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260222073500 +0000" stop="20260222102500 +0000" channel="Asianet Movies.starhub">
         <title>Hello Mummy</title>
     </programme>
-    <programme start="20260222103000 +0000" stop="20260222133000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260222102500 +0000" stop="20260222133000 +0000" channel="Asianet Movies.starhub">
         <title>Christian Brothers</title>
     </programme>
     <programme start="20260222133000 +0000" stop="20260222163000 +0000" channel="Asianet Movies.starhub">
