@@ -766,10 +766,10 @@
     <programme start="20260222081000 +0000" stop="20260222100000 +0000" channel="Live 2.mewatch">
         <title>No Programme available now. Next Broadcast on 22nd February, Sunday 06.00pm. WTT Singapore Smash 2026</title>
     </programme>
-    <programme start="20260222100000 +0000" stop="20260222150000 +0000" channel="Live 2.mewatch">
+    <programme start="20260222100000 +0000" stop="20260222142300 +0000" channel="Live 2.mewatch">
         <title>WTT Singapore Smash 2026</title>
     </programme>
-    <programme start="20260222150000 +0000" stop="20260222160000 +0000" channel="Live 2.mewatch">
+    <programme start="20260222142300 +0000" stop="20260222160000 +0000" channel="Live 2.mewatch">
         <title>No Programme available now. Next Broadcast on 23rd February, Monday 12.00pm. WTT Singapore Smash 2026</title>
     </programme>
     <programme start="20260222160000 +0000" stop="20260223040000 +0000" channel="Live 2.mewatch">
@@ -782,8 +782,8 @@
         <title>No Programme available now. Next Broadcast on 27th February, Friday 8pm. Chingay 2026 - Wish</title>
     </programme>
     <programme start="20260221160000 +0000" stop="20260222160000 +0000" channel="Live 6.mewatch">
-        <title>No Programme available now. Next Broadcast on 23rd February, Monday 2.45am. Milano Cortina 2026 Winter Olympic Games</title>
+        <title>No Programme available now. Next Broadcast on 23rd February, Monday 3.25am. Milano Cortina 2026 Winter Olympic Games</title>
     </programme>
-    <programme start="20260222160000 +0000" stop="20260222184500 +0000" channel="Live 6.mewatch">
-        <title>No Programme available now. Next Broadcast on 23rd February, Monday 2.45am. Milano Cortina 2026 Winter Olympic Games</title>
+    <programme start="20260222160000 +0000" stop="20260222192500 +0000" channel="Live 6.mewatch">
+        <title>No Programme available now. Next Broadcast on 23rd February, Monday 3.25am. Milano Cortina 2026 Winter Olympic Games</title>
     </programme>
