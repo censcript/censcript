@@ -2981,7 +2981,7 @@
         <title>Episode 8: Sam Curran - 2022</title>
     </programme>
     <programme start="20260222083000 +0000" stop="20260222090000 +0000" channel="Hub Sports 4 HD.starhub">
-        <title>M41: Super 8 - New Zealand vs Pakistan HLs</title>
+        <title>M40: Australia vs Oman HLs</title>
     </programme>
     <programme start="20260222090000 +0000" stop="20260222133000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>M42: Super 8 - Sri Lanka vs England</title>
