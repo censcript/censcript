@@ -3917,7 +3917,7 @@
     <title lang="id">Bratři a sestry (38)</title>
   </programme>
   <programme start="20260224204500 +0000" stop="20260224220000 +0000" channel="Nova International.webtv.sk">
-    <title lang="id">Survivor Česko &amp; Slovensko V (1)</title>
+    <title lang="id">Survivor Česko &amp; Slovensko V</title>
   </programme>
   <programme start="20260224220000 +0000" stop="20260224223000 +0000" channel="Nova International.webtv.sk">
     <title lang="id">Na vaší straně</title>
