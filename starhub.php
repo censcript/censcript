@@ -2407,10 +2407,10 @@
     <programme start="20260222155000 +0000" stop="20260222162000 +0000" channel="Hub Premier 2 HD.starhub">
         <title>PL Stories 2025/26</title>
     </programme>
-    <programme start="20260222162000 +0000" stop="20260222183000 +0000" channel="Hub Premier 2 HD.starhub">
+    <programme start="20260222162000 +0000" stop="20260222184500 +0000" channel="Hub Premier 2 HD.starhub">
         <title>Premier League 2025/26</title>
     </programme>
-    <programme start="20260222183000 +0000" stop="20260222190000 +0000" channel="Hub Premier 2 HD.starhub">
+    <programme start="20260222184500 +0000" stop="20260222190000 +0000" channel="Hub Premier 2 HD.starhub">
         <title>The Big Interview 2025/26</title>
     </programme>
     <programme start="20260222190000 +0000" stop="20260222210000 +0000" channel="Hub Premier 2 HD.starhub">

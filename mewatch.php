@@ -10,11 +10,8 @@
     <programme start="20260222180000 +0000" stop="20260222184500 +0000" channel="Channel 5.mewatch">
         <title>The Cube USA S1 - EP 9</title>
     </programme>
-    <programme start="20260222184500 +0000" stop="20260222192500 +0000" channel="Channel 5.mewatch">
-        <title>Planet Action S4 - EP 4</title>
-    </programme>
-    <programme start="20260222192500 +0000" stop="20260222215000 +0000" channel="Channel 5.mewatch">
-        <title>Olympic Winter Games Milano Cortina 2026: Closing Ceremony</title>
+    <programme start="20260222184500 +0000" stop="20260222215000 +0000" channel="Channel 5.mewatch">
+        <title>(Live) Olympic Winter Games Milano Cortina 2026: Closing Ceremony</title>
     </programme>
     <programme start="20260222215000 +0000" stop="20260222220000 +0000" channel="Channel 5.mewatch">
         <title>Just For Laughs Gags S24 - EP 6</title>

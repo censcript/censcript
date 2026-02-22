@@ -3991,23 +3991,26 @@
   <programme start="20260224223000 +0000" stop="20260224230500 +0000" channel="Prima SK.webtv.sk">
     <title lang="id">Vychytávky Ládi Hrušky</title>
   </programme>
-  <programme start="20260223225500 +0000" stop="20260223232400 +0000" channel="CNN Prima News.webtv.sk">
+  <programme start="20260223225000 +0000" stop="20260223232000 +0000" channel="CNN Prima News.webtv.sk">
     <title lang="id">360°</title>
   </programme>
-  <programme start="20260223232400 +0000" stop="20260224003000 +0000" channel="CNN Prima News.webtv.sk">
+  <programme start="20260223232000 +0000" stop="20260224003000 +0000" channel="CNN Prima News.webtv.sk">
     <title lang="id">360°</title>
   </programme>
-  <programme start="20260224003000 +0000" stop="20260224010000 +0000" channel="CNN Prima News.webtv.sk">
-    <title lang="id">Prima ČESKO</title>
+  <programme start="20260224003000 +0000" stop="20260224005000 +0000" channel="CNN Prima News.webtv.sk">
+    <title lang="id">Prima HISTORIE</title>
   </programme>
-  <programme start="20260224010000 +0000" stop="20260224013000 +0000" channel="CNN Prima News.webtv.sk">
+  <programme start="20260224005000 +0000" stop="20260224012000 +0000" channel="CNN Prima News.webtv.sk">
     <title lang="id">Hlasy zločinu</title>
   </programme>
-  <programme start="20260224013000 +0000" stop="20260224022000 +0000" channel="CNN Prima News.webtv.sk">
+  <programme start="20260224012000 +0000" stop="20260224021000 +0000" channel="CNN Prima News.webtv.sk">
     <title lang="id">Co na to vaše zdraví</title>
   </programme>
-  <programme start="20260224022000 +0000" stop="20260224031500 +0000" channel="CNN Prima News.webtv.sk">
+  <programme start="20260224021000 +0000" stop="20260224030000 +0000" channel="CNN Prima News.webtv.sk">
     <title lang="id">HLAVNÍ ZPRÁVY</title>
+  </programme>
+  <programme start="20260224030000 +0000" stop="20260224031500 +0000" channel="CNN Prima News.webtv.sk">
+    <title lang="id">SHOWTIME</title>
   </programme>
   <programme start="20260224031500 +0000" stop="20260224034500 +0000" channel="CNN Prima News.webtv.sk">
     <title lang="id">360°</title>
@@ -4141,8 +4144,11 @@
   <programme start="20260224025000 +0000" stop="20260224034000 +0000" channel="Prima Cool SK.webtv.sk">
     <title lang="id">Autosalon.tv</title>
   </programme>
-  <programme start="20260224034000 +0000" stop="20260224050000 +0000" channel="Prima Cool SK.webtv.sk">
+  <programme start="20260224034000 +0000" stop="20260224044600 +0000" channel="Prima Cool SK.webtv.sk">
     <title lang="id">Vlakem přes Labské údolí</title>
+  </programme>
+  <programme start="20260224044600 +0000" stop="20260224050000 +0000" channel="Prima Cool SK.webtv.sk">
+    <title lang="id">Vysielacia prestávka</title>
   </programme>
   <programme start="20260224050000 +0000" stop="20260224050500 +0000" channel="Prima Cool SK.webtv.sk">
     <title lang="id">Vlakem přes Labské údolí</title>
