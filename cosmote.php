@@ -54,14 +54,6 @@
     <title>Football: Club Brugge - Club Atletico de Madrid</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260223020000 +0700" stop="20260223023000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Sports Classics: Ultimate Rush S6 E7</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260223023000 +0700" stop="20260223030000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Serie A Full Impact 2025-26 E25</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260223030000 +0700" stop="20260223051500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: OFI - Panathinaikos</title>
     <desc>Live: Tidak</desc>
@@ -114,10 +106,6 @@
     <title>Football: Bologna - Udinese (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260223020000 +0700" stop="20260223024500 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Emirates FA Cup 2025-26 - Highlights</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260223024500 +0700" stop="20260223044500 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: AS Roma - Cremonese (L)</title>
     <desc>Live: Ya</desc>
@@ -165,6 +153,10 @@
 <programme start="20260224010000 +0700" stop="20260224030000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: APOEL - Omonoia FC</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260224030000 +0700" stop="20260224050000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Walsall - MK Dons (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260223010500 +0700" stop="20260223033000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: New York Knicks - Houston Rockets</title>
@@ -334,12 +326,12 @@
     <title>Sports Classics: Worldies E6</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260223013500 +0700" stop="20260223020500 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Premier Padel Tour 2026 - Highlights</title>
+<programme start="20260224030000 +0700" stop="20260224033000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Documentary</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260223020500 +0700" stop="20260223022000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Sports Classics: Worldies E18</title>
+<programme start="20260224033000 +0700" stop="20260224040000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Documentary</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260223022000 +0700" stop="20260223040000 +0700" channel="COSMOTE Sport 6 HD">
@@ -406,8 +398,8 @@
     <title>Topspin</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260223020000 +0700" stop="20260223030000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
+<programme start="20260224033000 +0700" stop="20260224060000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Volleyball: Panathinaikos - Panionios</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260223030000 +0700" stop="20260223033000 +0700" channel="COSMOTE Sport 7 HD">
@@ -474,8 +466,8 @@
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260223010000 +0700" stop="20260223030000 +0700" channel="COSMOTE Sport 8 HD">
-    <title>COSMOTESport8HD</title>
+<programme start="20260224030000 +0700" stop="20260224050000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260223030000 +0700" stop="20260223033000 +0700" channel="COSMOTE Sport 8 HD">
@@ -533,6 +525,14 @@
 <programme start="20260224010000 +0700" stop="20260224030000 +0700" channel="COSMOTE Sport 8 HD">
     <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260224030000 +0700" stop="20260224031500 +0700" channel="COSMOTE Sport 8 HD">
+    <title>COSMOTESport8HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260224031500 +0700" stop="20260224051500 +0700" channel="COSMOTE Sport 8 HD">
+    <title>Football: Famalicao - Casa Pia (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260223010000 +0700" stop="20260223040000 +0700" channel="COSMOTE Sport 9 HD">
     <title>Basketball: Oklahoma City Thunder - Cleveland Cavaliers (L)</title>
