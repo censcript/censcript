@@ -808,10 +808,10 @@
     <programme start="20260222160000 +0000" stop="20260223040000 +0000" channel="Live 2.mewatch">
         <title>No Programme available now. Next Broadcast on 23rd February, Monday 12.00pm. WTT Singapore Smash 2026</title>
     </programme>
-    <programme start="20260223040000 +0000" stop="20260223080000 +0000" channel="Live 2.mewatch">
+    <programme start="20260223040000 +0000" stop="20260223090000 +0000" channel="Live 2.mewatch">
         <title>WTT Singapore Smash 2026</title>
     </programme>
-    <programme start="20260223080000 +0000" stop="20260223100000 +0000" channel="Live 2.mewatch">
+    <programme start="20260223090000 +0000" stop="20260223100000 +0000" channel="Live 2.mewatch">
         <title>No Programme available now. Next Broadcast on 23rd February, Monday 06.00pm. WTT Singapore Smash 2026</title>
     </programme>
     <programme start="20260223100000 +0000" stop="20260223140000 +0000" channel="Live 2.mewatch">

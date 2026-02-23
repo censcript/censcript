@@ -15022,7 +15022,7 @@
   </programme>
   <programme start="20260222161500 +0000" stop="20260222170500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Somewhere Street</title>
-    <desc lang="en">A unique walking-eye view of cities around the globe! Chat to the locals and enjoy encounters that only strolling the streets can bring.</desc>
+    <desc lang="en">Dumaguete, "the City of Gentle People", is on Negros Island in the tropical Philippines. It's a town of calm, kind-hearted people with several universities that add youthful, intellectual energy.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.4016.</episode-num>
     <episode-num system="onscreen">S1E4017</episode-num>
@@ -15078,18 +15078,30 @@
     <category lang="en">News</category>
   </programme>
   <programme start="20260222191500 +0000" stop="20260222200000 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">NHK WORLD TV Special program</title>
-    <desc lang="en">A selection of acclaimed programs from NHK's domestic channels dubbed into English.</desc>
+    <title lang="en">Demolition Kingdom</title>
+    <desc lang="en">We follow the demolition of Japan's World Trade Center Building at 162m. Craftsmen take on the highest demolition in history with world-first new techniques!</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.5000.</episode-num>
     <episode-num system="onscreen">S1E5001</episode-num>
   </programme>
-  <programme start="20260222200000 +0000" stop="20260222204500 +0000" channel="nhkworldjapan.unifitv">
+  <programme start="20260222200000 +0000" stop="20260222200500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Framing Everyday Moments</title>
     <desc lang="en">A unique time-lapse photography project. Shot by pros and non-pros from around the world, on the transience of nature, celestial phenomena, cityscapes and each single moment of everyday life.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.6040.</episode-num>
     <episode-num system="onscreen">S1E6041</episode-num>
+  </programme>
+  <programme start="20260222200500 +0000" stop="20260222201500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">NHK NEWSLINE</title>
+    <desc lang="en">NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260222201500 +0000" stop="20260222204500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">ANIME MANGA EXPLOSION</title>
+    <desc lang="en">Yamashita Shingo is known for NARUTO key animation and JUJUTSU KAISEN openings. Go behind the scenes of his new feature, Cosmic Princess Kaguya!, and learn how he uses cutting-edge tools to create.</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.2098.</episode-num>
+    <episode-num system="onscreen">S1E2099</episode-num>
   </programme>
   <programme start="20260222204500 +0000" stop="20260222205500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Rockie and Her Friends</title>
@@ -15111,11 +15123,11 @@
     <category lang="en">News</category>
   </programme>
   <programme start="20260222211500 +0000" stop="20260222214500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">NHK WORLD SELECTION</title>
-    <desc lang="en">A selection of acclaimed programs from NHK's domestic channels dubbed into English.</desc>
+    <title lang="en">tiny desk concerts JAPAN</title>
+    <desc lang="en">One of Tokyo's most talked-about emerging trios,CHO CO PA CO CHO CO QUIN QUIN, comes to tiny desk.The performance also features special guest artists:U-zhaan,Nii Tete Boye,and Hajime Chitose.</desc>
     <category lang="en">News</category>
-    <episode-num system="xmltv_ns">0.4032.</episode-num>
-    <episode-num system="onscreen">S1E4033</episode-num>
+    <episode-num system="xmltv_ns">0.3024.</episode-num>
+    <episode-num system="onscreen">S1E3025</episode-num>
   </programme>
   <programme start="20260222214500 +0000" stop="20260222215500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Little Charo</title>
@@ -15137,8 +15149,8 @@
     <category lang="en">News</category>
   </programme>
   <programme start="20260222221500 +0000" stop="20260222223000 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">NHK WORLD-JAPAN Special program</title>
-    <desc lang="en">NHK WORLD-JAPAN presents a wide range of programs from news, current affairs, documentaries, etc. focusing on Japan and Asia.</desc>
+    <title lang="en">Through the Kitchen Window</title>
+    <desc lang="en">Inoue Masae makes koji, an essential fermented ingredient in Japanese cuisine. Her methods, and her quaint shop, have barely changed in generations.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.3024.</episode-num>
     <episode-num system="onscreen">S1E3025</episode-num>
@@ -15171,7 +15183,7 @@
   </programme>
   <programme start="20260222231500 +0000" stop="20260223000500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Somewhere Street</title>
-    <desc lang="en">A unique walking-eye view of cities around the globe! Chat to the locals and enjoy encounters that only strolling the streets can bring.</desc>
+    <desc lang="en">Dumaguete, "the City of Gentle People", is on Negros Island in the tropical Philippines. It's a town of calm, kind-hearted people with several universities that add youthful, intellectual energy.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.4016.</episode-num>
     <episode-num system="onscreen">S1E4017</episode-num>
@@ -15182,8 +15194,8 @@
     <category lang="en">News</category>
   </programme>
   <programme start="20260223001500 +0000" stop="20260223002000 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Chatroom Japan</title>
-    <desc lang="en">Chatroom Japan puts a spotlight on our diverse international community.We report on the issues, speak to those involved, and get a fresh look at what it's like to live in Japan.</desc>
+    <title lang="en">Taekwondo inspires changes in kids</title>
+    <desc lang="en">A Brazilian couple who moved to Shiga Prefecture, Japan, teaches taekwondo to children. Their efforts are helping kids develop more than just athletically.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.6048.</episode-num>
     <episode-num system="onscreen">S1E6049</episode-num>
@@ -15196,8 +15208,8 @@
     <episode-num system="onscreen">S1E6128</episode-num>
   </programme>
   <programme start="20260223003000 +0000" stop="20260223003500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Short Program</title>
-    <desc lang="en">NHK WORLD-JAPAN presents a variety of short programs focusing on Japan and Asia.</desc>
+    <title lang="en">Clothes That Transcend Time</title>
+    <desc lang="en">Akita / Koike Kazuko (creative director) Nishimonai Bon Odori Festival has continued for over 700 years. Koike finds timeless beauty in the costumes, remade using beloved family kimono.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.6057.</episode-num>
     <episode-num system="onscreen">S1E6058</episode-num>
@@ -15222,8 +15234,8 @@
     <episode-num system="onscreen">S1E6025</episode-num>
   </programme>
   <programme start="20260223012000 +0000" stop="20260223013500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">BOSAI: Science that Can Save Your Life</title>
-    <desc lang="en">Japan has a long history of natural disasters. BOSAI explores how to overcome them and save lives with the power of science.</desc>
+    <title lang="en">BOSAI</title>
+    <desc lang="en">In this episode, we'll look at how Sendai has transformed into a disaster-resilient city with its "multiple defenses" - countermeasures taken in its coastal area to minimize damage from a tsunami.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.2089.</episode-num>
     <episode-num system="onscreen">S1E2090</episode-num>
@@ -15243,15 +15255,15 @@
     <episode-num system="onscreen">S1E6022</episode-num>
   </programme>
   <programme start="20260223015000 +0000" stop="20260223020000 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Culture Crossroads</title>
-    <desc lang="en">Culture Crossroads comprises several regular programs with the theme of creating a multicultural society. They look at international exchange programs and give tips on disaster preparedness.</desc>
+    <title lang="en">Captivated by Washi Paper</title>
+    <desc lang="en">A Dutchman makes traditional washi paper, growing the raw materials and even creating artworks with it. His mission is to add new value to washi and forge a path forward into the future.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.2083.</episode-num>
     <episode-num system="onscreen">S1E2084</episode-num>
   </programme>
   <programme start="20260223020000 +0000" stop="20260223020500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">HELLO! NHK WORLD-JAPAN</title>
-    <desc lang="en">We intorduce the contents and activities of NHK WORLD-JAPAN to make the station and programs known to more people all over the world. This is the window of the station to the world.</desc>
+    <desc lang="en">In a special feature on Hokkaido, programs looked at the ecology of brown bears, a special bento lunch, and a bountiful landscape formed by rugged natural conditions and pioneering development.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.2103.</episode-num>
     <episode-num system="onscreen">S1E2104</episode-num>
@@ -15288,8 +15300,8 @@
     <category lang="en">News</category>
   </programme>
   <programme start="20260223031500 +0000" stop="20260223033000 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Somewhere Street mini</title>
-    <desc lang="en">A close-up look at cities worldwide, as seen by a walking tourist. Viewers visit places off the beaten path, meet ordinary people, and enjoy a travel experience that's only possible on foot.</desc>
+    <title lang="en">Somewhere Street A Short Stroll</title>
+    <desc lang="en">A 15-minute spin-off of the "Somewhere Street" series, "A Short Stroll" explores cities through a traveler's eyes. Today, we visit Johor Bahru, Malaysia.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.6208.</episode-num>
     <episode-num system="onscreen">S1E6209</episode-num>
@@ -15303,7 +15315,7 @@
   </programme>
   <programme start="20260223033500 +0000" stop="20260223040500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">BIZ STREAM</title>
-    <desc lang="en">This upbeat program combines business and economic news with in-depth feature stories that give you a closer look at the latest trends within Japan and around the world.</desc>
+    <desc lang="en">Visionary Eye Tech: This episode features technology that turns smartphones into professional-grade eye exam equipment and vision-enhancing glasses designed for people with visual impairments.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.2073.</episode-num>
     <episode-num system="onscreen">S1E2074</episode-num>
@@ -15329,7 +15341,7 @@
   </programme>
   <programme start="20260223043500 +0000" stop="20260223050200 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Hometown Stories</title>
-    <desc lang="en">Stories about people, stories about life. Intimate portraits of people from around Japan, each leading diverse lives while enriching lives of others.</desc>
+    <desc lang="en">Two doctors in western Japan have an alter ego as the music duo Insheart, whose songs bring hope to patients and families. We follow them and the fans who find strength and comfort in their music.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.5002.</episode-num>
     <episode-num system="onscreen">S1E5003</episode-num>
@@ -15347,8 +15359,8 @@
     <category lang="en">News</category>
   </programme>
   <programme start="20260223051500 +0000" stop="20260223053000 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Somewhere Street mini</title>
-    <desc lang="en">A close-up look at cities worldwide, as seen by a walking tourist. Viewers visit places off the beaten path, meet ordinary people, and enjoy a travel experience that's only possible on foot.</desc>
+    <title lang="en">Somewhere Street A Short Stroll</title>
+    <desc lang="en">A 15-minute spin-off of the "Somewhere Street" series, "A Short Stroll" explores cities through traveler's eyes. Today, we visit Krakow.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.6208.</episode-num>
     <episode-num system="onscreen">S1E6209</episode-num>
@@ -15373,8 +15385,8 @@
     <category lang="en">News</category>
   </programme>
   <programme start="20260223061500 +0000" stop="20260223063500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Short Program</title>
-    <desc lang="en">NHK WORLD-JAPAN presents a variety of short programs focusing on Japan and Asia.</desc>
+    <title lang="en">Cinematic Journey: Endless Beauty</title>
+    <desc lang="en">Actor Kyle Card hikes the San'in Kaigan Geopark trail. He traces the Earth's memory through Uradome's jagged coast, Tottori's dunes and Genbudo's hexagonal columns.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.6216.</episode-num>
     <episode-num system="onscreen">S1E6217</episode-num>
@@ -15387,15 +15399,15 @@
     <episode-num system="onscreen">S1E2092</episode-num>
   </programme>
   <programme start="20260223065000 +0000" stop="20260223070000 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Culture Crossroads</title>
-    <desc lang="en">Culture Crossroads comprises several regular programs with the theme of creating a multicultural society. They look at international exchange programs and give tips on disaster preparedness.</desc>
+    <title lang="en">Captivated by Washi Paper</title>
+    <desc lang="en">A Dutchman makes traditional washi paper, growing the raw materials and even creating artworks with it. His mission is to add new value to washi and forge a path forward into the future.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.2083.</episode-num>
     <episode-num system="onscreen">S1E2084</episode-num>
   </programme>
   <programme start="20260223070000 +0000" stop="20260223070500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">HELLO! NHK WORLD-JAPAN</title>
-    <desc lang="en">We intorduce the contents and activities of NHK WORLD-JAPAN to make the station and programs known to more people all over the world. This is the window of the station to the world.</desc>
+    <desc lang="en">In a special feature on Hokkaido, programs looked at the ecology of brown bears, a special bento lunch, and a bountiful landscape formed by rugged natural conditions and pioneering development.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.2103.</episode-num>
     <episode-num system="onscreen">S1E2104</episode-num>
@@ -15406,8 +15418,8 @@
     <category lang="en">News</category>
   </programme>
   <programme start="20260223071500 +0000" stop="20260223073500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Somewhere Street mini</title>
-    <desc lang="en">A close-up look at cities worldwide, as seen by a walking tourist. Viewers visit places off the beaten path, meet ordinary people, and enjoy a travel experience that's only possible on foot.</desc>
+    <title lang="en">Somewhere Street A Short Stroll</title>
+    <desc lang="en">A 15-minute spin-off of the "Somewhere Street" series, "A Short Stroll" explores cities through traveler's eyes. Today, we visit Budapest,known as the "Peal of the Danube".</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.6208.</episode-num>
     <episode-num system="onscreen">S1E6209</episode-num>
@@ -15433,7 +15445,7 @@
   </programme>
   <programme start="20260223083500 +0000" stop="20260223090500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Hometown Stories</title>
-    <desc lang="en">Stories about people, stories about life. Intimate portraits of people from around Japan, each leading diverse lives while enriching lives of others.</desc>
+    <desc lang="en">Two doctors in western Japan have an alter ego as the music duo Insheart, whose songs bring hope to patients and families. We follow them and the fans who find strength and comfort in their music.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.5002.</episode-num>
     <episode-num system="onscreen">S1E5003</episode-num>
@@ -15444,15 +15456,15 @@
     <category lang="en">News</category>
   </programme>
   <programme start="20260223091500 +0000" stop="20260223093500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Somewhere Street mini</title>
-    <desc lang="en">A close-up look at cities worldwide, as seen by a walking tourist. Viewers visit places off the beaten path, meet ordinary people, and enjoy a travel experience that's only possible on foot.</desc>
+    <title lang="en">Somewhere Street A Short Stroll</title>
+    <desc lang="en">A 15-minute spin-off of the "Somewhere Street" series, "A Short Stroll" explores cities through traveler's eyes. Today, we visit Mongolia's capital, Ulaanbaatar.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.6208.</episode-num>
     <episode-num system="onscreen">S1E6209</episode-num>
   </programme>
   <programme start="20260223093500 +0000" stop="20260223100500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">BIZ STREAM</title>
-    <desc lang="en">This upbeat program combines business and economic news with in-depth feature stories that give you a closer look at the latest trends within Japan and around the world.</desc>
+    <desc lang="en">Visionary Eye Tech: This episode features technology that turns smartphones into professional-grade eye exam equipment and vision-enhancing glasses designed for people with visual impairments.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.2073.</episode-num>
     <episode-num system="onscreen">S1E2074</episode-num>
@@ -15463,8 +15475,8 @@
     <category lang="en">News</category>
   </programme>
   <programme start="20260223102000 +0000" stop="20260223103500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Short Program</title>
-    <desc lang="en">NHK WORLD-JAPAN presents a variety of short programs focusing on Japan and Asia.</desc>
+    <title lang="en">Cinematic Journey: Deep Culture</title>
+    <desc lang="en">Kyle Card explores the San'in Kaigan Geopark, discovering Yumura's hot springs, Ojiro's hillside rice terraces and heritage Tajima beef, as well as the Oriental White Stork wetlands of Toyooka.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.6216.</episode-num>
     <episode-num system="onscreen">S1E6217</episode-num>
@@ -15490,28 +15502,28 @@
   </programme>
   <programme start="20260223113300 +0000" stop="20260223114800 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Direct Talk</title>
-    <desc lang="en">Direct and in-depth. Interviews exploring the minds and motivations of the leaders, visionaries, artists and entrepreneurs who are changing our world.</desc>
+    <desc lang="en">Hosono Hitomi's botanically themed ceramics are highly acclaimed and held in museum collections across the world. She talks about her intricate designs and unmatched technique.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.2104.</episode-num>
     <episode-num system="onscreen">S1E2105</episode-num>
   </programme>
   <programme start="20260223114800 +0000" stop="20260223115300 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Short Program</title>
-    <desc lang="en">NHK WORLD-JAPAN presents a variety of short programs focusing on Japan and Asia.</desc>
+    <title lang="en">1/1800: Stranded On Mountains</title>
+    <desc lang="en">A hike can turn unsafe very quickly. In 2023 Japan saw a record high of 2,761 mountain accidents. We follow a veteran hiker lost and injured for six days, revealing how he ultimately survived.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.6064.</episode-num>
     <episode-num system="onscreen">S1E6065</episode-num>
   </programme>
   <programme start="20260223115300 +0000" stop="20260223120000 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Short Program</title>
-    <desc lang="en">NHK WORLD-JAPAN presents a variety of short programs focusing on Japan and Asia.</desc>
+    <title lang="en">1/19: Elderly People Living Alone</title>
+    <desc lang="en">In Japan, 6.7 million or one in 19 seniors aged 65+ live alone. In a remote village, the only grocery shop supports the elderly living alone. We find out why one widowed woman is happiest now.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.6064.</episode-num>
     <episode-num system="onscreen">S1E6065</episode-num>
   </programme>
   <programme start="20260223120000 +0000" stop="20260223120500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Ukiyoe EDO-LIFE</title>
-    <desc lang="en">Centuries ago, Tokyo was known as EDO. More than a million people enjoyed life in this city, they live on in ukiyo-e woodblock prints. Take a deep dive into ukiyo-e and explore the soul of old Tokyo.</desc>
+    <title lang="en">Ukiyoe EDO-LIFE: Sudden Shower</title>
+    <desc lang="en">Caught in an evening shower, Edo townspeople scramble across a bridge in search of shelter. On the river beyond, a lone figure steers his boat, unfazed by the rain. What is his destination?</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.6029.</episode-num>
     <episode-num system="onscreen">S1E6030</episode-num>
@@ -15543,15 +15555,15 @@
     <episode-num system="onscreen">S1E2092</episode-num>
   </programme>
   <programme start="20260223125000 +0000" stop="20260223130000 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Culture Crossroads</title>
-    <desc lang="en">Culture Crossroads comprises several regular programs with the theme of creating a multicultural society. They look at international exchange programs and give tips on disaster preparedness.</desc>
+    <title lang="en">Captivated by Washi Paper</title>
+    <desc lang="en">A Dutchman makes traditional washi paper, growing the raw materials and even creating artworks with it. His mission is to add new value to washi and forge a path forward into the future.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.2083.</episode-num>
     <episode-num system="onscreen">S1E2084</episode-num>
   </programme>
   <programme start="20260223130000 +0000" stop="20260223130500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">HELLO! NHK WORLD-JAPAN</title>
-    <desc lang="en">We intorduce the contents and activities of NHK WORLD-JAPAN to make the station and programs known to more people all over the world. This is the window of the station to the world.</desc>
+    <desc lang="en">In a special feature on Hokkaido, programs looked at the ecology of brown bears, a special bento lunch, and a bountiful landscape formed by rugged natural conditions and pioneering development.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.2103.</episode-num>
     <episode-num system="onscreen">S1E2104</episode-num>
@@ -15562,8 +15574,8 @@
     <category lang="en">News</category>
   </programme>
   <programme start="20260223131500 +0000" stop="20260223133500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Somewhere Street mini</title>
-    <desc lang="en">A close-up look at cities worldwide, as seen by a walking tourist. Viewers visit places off the beaten path, meet ordinary people, and enjoy a travel experience that's only possible on foot.</desc>
+    <title lang="en">Somewhere Street A Short Stroll</title>
+    <desc lang="en">A 15-minute spin-off of the "Somewhere Street" series, "A Short Stroll" explores cities through traveler's eyes. Today, we visit Krakow.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.6208.</episode-num>
     <episode-num system="onscreen">S1E6209</episode-num>
@@ -15589,7 +15601,7 @@
   </programme>
   <programme start="20260223143500 +0000" stop="20260223150500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Medical Frontiers</title>
-    <desc lang="en">From prevention to cure! The groundbreaking world of Japanese medical technology and healthcare. For your healthy lifestyle, this program shows tips of superfoods and easy exercises.</desc>
+    <desc lang="en">Fecal microbiota transplantation transfers gut bacteria from a healthy donor's stool into a patient's colon. It is being explored as a treatment for ulcerative colitis, Parkinson's disease and ADHD.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.2049.</episode-num>
     <episode-num system="onscreen">S1E2050</episode-num>

@@ -1982,7 +1982,7 @@
         <title>CNN Newsroom Sunday</title>
     </programme>
     <programme start="20260222200000 +0000" stop="20260222210000 +0000" channel="CNN HD.starhub">
-        <title>A CNN &amp; Variety Town Hall Event: Timothee Chalamet and Matthew McConaughey</title>
+        <title>CNN &amp; Variety Town Hall: Timothee Chalamet And Matthew McConaughey</title>
     </programme>
     <programme start="20260222210000 +0000" stop="20260222220000 +0000" channel="CNN HD.starhub">
         <title>CNN Newsroom Sunday</title>
