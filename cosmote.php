@@ -54,8 +54,8 @@
     <title>Football: Club Brugge - Club Atletico de Madrid</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260223141000 +0700" stop="20260223161000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Sassuolo - Hellas Verona</title>
+<programme start="20260224170000 +0700" stop="20260224180000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEL &amp; UECL Magazine 2025-26 E13</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260223161000 +0700" stop="20260223181000 +0700" channel="COSMOTE Sport 2 HD">
@@ -112,10 +112,6 @@
 </programme>
 <programme start="20260224161000 +0700" stop="20260224181000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Bologna - Udinese</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260223150000 +0700" stop="20260223170000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Sheffield United - Sheffield Wednesday</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260223170000 +0700" stop="20260223190000 +0700" channel="COSMOTE Sport 3 HD">
@@ -250,10 +246,6 @@
     <title>Basketball: Detroit Pistons - San Antonio Spurs</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260223152500 +0700" stop="20260223162000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC: More Than Machine S2 E5</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260223162000 +0700" stop="20260223171000 +0700" channel="COSMOTE Sport 5 HD">
     <title>WRC: More Than Machine S2 E7</title>
     <desc>Live: Tidak</desc>
@@ -374,10 +366,6 @@
     <title>DTM 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260223143000 +0700" stop="20260223170000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: ATP 250 2026</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260223170000 +0700" stop="20260223190000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Moez Echargui - Giovanni Mpetshi Perricard (L)</title>
     <desc>Live: Ya</desc>
@@ -438,9 +426,9 @@
     <title>Topspin</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260223150000 +0700" stop="20260223170000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
-    <desc>Live: Tidak</desc>
+<programme start="20260224170000 +0700" stop="20260224190000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: ATP 500 2026 (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260223170000 +0700" stop="20260223190000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
@@ -498,8 +486,8 @@
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260223150000 +0700" stop="20260223170000 +0700" channel="COSMOTE Sport 8 HD">
-    <title>COSMOTESport8HD</title>
+<programme start="20260224170000 +0700" stop="20260224190000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260223170000 +0700" stop="20260223190000 +0700" channel="COSMOTE Sport 8 HD">
@@ -558,8 +546,8 @@
     <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260223150000 +0700" stop="20260223170000 +0700" channel="COSMOTE Sport 9 HD">
-    <title>COSMOTESport9HD</title>
+<programme start="20260224170000 +0700" stop="20260224190000 +0700" channel="COSMOTE Sport 8 HD">
+    <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260223170000 +0700" stop="20260223190000 +0700" channel="COSMOTE Sport 9 HD">
@@ -619,6 +607,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260224150000 +0700" stop="20260224170000 +0700" channel="COSMOTE Sport 9 HD">
+    <title>COSMOTESport9HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260224170000 +0700" stop="20260224190000 +0700" channel="COSMOTE Sport 9 HD">
     <title>COSMOTESport9HD</title>
     <desc>Live: Tidak</desc>
 </programme>

@@ -6341,10 +6341,10 @@
     <title>Dahsyat</title>
 </programme>
 <programme start="20260223150000 +0000" stop="20260223163000 +0000" channel="Music TV.mncvision">
-    <title>Mega Konser: Raisa x Isyana</title>
+    <title>Mega Konser: Raisa X Isyana</title>
 </programme>
 <programme start="20260223163000 +0000" stop="20260222170000 +0000" channel="Music TV.mncvision">
-    <title>Indonesian Idol X</title>
+    <title>Godain</title>
 </programme>
 <programme start="20260222170000 +0000" stop="20260222180000 +0000" channel="Music TV HD.mncvision">
     <title>Godain</title>
@@ -6410,10 +6410,10 @@
     <title>Dahsyat</title>
 </programme>
 <programme start="20260223150000 +0000" stop="20260223163000 +0000" channel="Music TV HD.mncvision">
-    <title>Mega Konser: Raisa x Isyana</title>
+    <title>Mega Konser: Raisa X Isyana</title>
 </programme>
 <programme start="20260223163000 +0000" stop="20260222170000 +0000" channel="Music TV HD.mncvision">
-    <title>Indonesian Idol X</title>
+    <title>Godain</title>
 </programme>
 <programme start="20260222170000 +0000" stop="20260222183000 +0000" channel="Muslim TV.mncvision">
     <title>Live Dari Mekkah (L)</title>
@@ -7741,10 +7741,7 @@
 <programme start="20260223063000 +0000" stop="20260223083000 +0000" channel="RCTI.mncvision">
     <title>Hafiz Indonesia 2026</title>
 </programme>
-<programme start="20260223083000 +0000" stop="20260223084500 +0000" channel="RCTI.mncvision">
-    <title>Kisah Pencinta Al-Qur&#039;an</title>
-</programme>
-<programme start="20260223084500 +0000" stop="20260223100000 +0000" channel="RCTI.mncvision">
+<programme start="20260223083000 +0000" stop="20260223100000 +0000" channel="RCTI.mncvision">
     <title>Banyak Jalan Menuju Surga</title>
 </programme>
 <programme start="20260223100000 +0000" stop="20260223111500 +0000" channel="RCTI.mncvision">
@@ -7798,10 +7795,7 @@
 <programme start="20260223063000 +0000" stop="20260223083000 +0000" channel="RCTI HD.mncvision">
     <title>Hafiz Indonesia 2026</title>
 </programme>
-<programme start="20260223083000 +0000" stop="20260223084500 +0000" channel="RCTI HD.mncvision">
-    <title>Kisah Pencinta Al-Qur&#039;an</title>
-</programme>
-<programme start="20260223084500 +0000" stop="20260223100000 +0000" channel="RCTI HD.mncvision">
+<programme start="20260223083000 +0000" stop="20260223100000 +0000" channel="RCTI HD.mncvision">
     <title>Banyak Jalan Menuju Surga</title>
 </programme>
 <programme start="20260223100000 +0000" stop="20260223111500 +0000" channel="RCTI HD.mncvision">

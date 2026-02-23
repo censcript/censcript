@@ -100,7 +100,7 @@
     <programme start="20260223133000 +0000" stop="20260223140000 +0000" channel="Channel 5.mewatch">
         <title>Double Yummy - EP 2</title>
     </programme>
-    <programme start="20260223140000 +0000" stop="20260223173000 +0000" channel="Channel 5.mewatch">
+    <programme start="20260223140000 +0000" stop="20260223180000 +0000" channel="Channel 5.mewatch">
         <title>Olympic Winter Games Milano Cortina 2026: Closing Ceremony</title>
     </programme>
     <programme start="20260222160000 +0000" stop="20260222170000 +0000" channel="Channel 8.mewatch">
@@ -562,56 +562,44 @@
     <programme start="20260223160000 +0000" stop="20260224160000 +0000" channel="spl02.mewatch">
         <title>No programmes streaming LIVE at this moment</title>
     </programme>
-    <programme start="20260222160000 +0000" stop="20260222170000 +0000" channel="now-80s.mewatch">
-        <title>Pat Sharp&#039;s House of Fun 40 - EP1</title>
+    <programme start="20260222160000 +0000" stop="20260222161500 +0000" channel="now-80s.mewatch">
+        <title>Every Song From NOW 5 - 1985 - EP1</title>
     </programme>
-    <programme start="20260222170000 +0000" stop="20260222183500 +0000" channel="now-80s.mewatch">
-        <title>60 Summer Sizzlers! 1980-1989 - EP1</title>
+    <programme start="20260222161500 +0000" stop="20260222170000 +0000" channel="now-80s.mewatch">
+        <title>1985 Unleashed! - EP1</title>
     </programme>
-    <programme start="20260222183500 +0000" stop="20260222190000 +0000" channel="now-80s.mewatch">
-        <title>First Blast of Summer! - EP1</title>
-    </programme>
-    <programme start="20260222190000 +0000" stop="20260222220000 +0000" channel="now-80s.mewatch">
-        <title>Pat Sharp&#039;s House of Fun 40 - EP1</title>
-    </programme>
-    <programme start="20260222220000 +0000" stop="20260222224500 +0000" channel="now-80s.mewatch">
-        <title>Mark Goodier&#039;s US No.1s of 1986 - EP1</title>
-    </programme>
-    <programme start="20260222224500 +0000" stop="20260222230000 +0000" channel="now-80s.mewatch">
-        <title>1986 Unleashed! - EP1</title>
-    </programme>
-    <programme start="20260222230000 +0000" stop="20260223004500 +0000" channel="now-80s.mewatch">
-        <title>Tiffany&#039;s 20 American Idols - EP1</title>
-    </programme>
-    <programme start="20260223004500 +0000" stop="20260223010000 +0000" channel="now-80s.mewatch">
-        <title>Magic Moments! The 80s - EP1</title>
-    </programme>
-    <programme start="20260223010000 +0000" stop="20260223020000 +0000" channel="now-80s.mewatch">
-        <title>Prince! 1979-1989 - EP1</title>
-    </programme>
-    <programme start="20260223020000 +0000" stop="20260223024000 +0000" channel="now-80s.mewatch">
-        <title>Rod Stewart in the 80s! - EP1</title>
-    </programme>
-    <programme start="20260223024000 +0000" stop="20260223030000 +0000" channel="now-80s.mewatch">
-        <title>80s Flashback Frenzy! - EP1</title>
-    </programme>
-    <programme start="20260223030000 +0000" stop="20260223093000 +0000" channel="now-80s.mewatch">
+    <programme start="20260222170000 +0000" stop="20260222190000 +0000" channel="now-80s.mewatch">
         <title>Most Weeks in UK Chart? Top 100 - EP1</title>
     </programme>
-    <programme start="20260223093000 +0000" stop="20260223103000 +0000" channel="now-80s.mewatch">
-        <title>60 Summer Sizzlers! 1980-1989 - EP1</title>
+    <programme start="20260222190000 +0000" stop="20260222200000 +0000" channel="now-80s.mewatch">
+        <title>1981&#039;s Lesser-Heard-Hits! - EP1</title>
     </programme>
-    <programme start="20260223103000 +0000" stop="20260223110000 +0000" channel="now-80s.mewatch">
-        <title>Most Weeks in UK Chart? Top 100 - EP1</title>
+    <programme start="20260222200000 +0000" stop="20260222225000 +0000" channel="now-80s.mewatch">
+        <title>Mark Goodier&#039;s 12 inch 80s! - EP1</title>
     </programme>
-    <programme start="20260223110000 +0000" stop="20260223142000 +0000" channel="now-80s.mewatch">
-        <title>Barrioke Karaoke! 80s v 90s - EP1</title>
+    <programme start="20260222225000 +0000" stop="20260222230000 +0000" channel="now-80s.mewatch">
+        <title>1985&#039;s Lesser-Heard-Hits! - EP1</title>
     </programme>
-    <programme start="20260223142000 +0000" stop="20260223150000 +0000" channel="now-80s.mewatch">
-        <title>WOW! What A Party! - EP1</title>
+    <programme start="20260222230000 +0000" stop="20260223020000 +0000" channel="now-80s.mewatch">
+        <title>The NOW Yearbook 1981 - EP1</title>
     </programme>
-    <programme start="20260223150000 +0000" stop="20260223170000 +0000" channel="now-80s.mewatch">
-        <title>ALMOST Top of the Pops! 1985 - EP1</title>
+    <programme start="20260223020000 +0000" stop="20260223050000 +0000" channel="now-80s.mewatch">
+        <title>The NOW Yearbook 1983 - EP1</title>
+    </programme>
+    <programme start="20260223050000 +0000" stop="20260223080000 +0000" channel="now-80s.mewatch">
+        <title>The NOW Yearbook 1985 - EP1</title>
+    </programme>
+    <programme start="20260223080000 +0000" stop="20260223110000 +0000" channel="now-80s.mewatch">
+        <title>The NOW Yearbook 1987 - EP1</title>
+    </programme>
+    <programme start="20260223110000 +0000" stop="20260223135000 +0000" channel="now-80s.mewatch">
+        <title>The NOW Yearbook 1989 - EP1</title>
+    </programme>
+    <programme start="20260223135000 +0000" stop="20260223140000 +0000" channel="now-80s.mewatch">
+        <title>1989 Unleashed! - EP1</title>
+    </programme>
+    <programme start="20260223140000 +0000" stop="20260223170000 +0000" channel="now-80s.mewatch">
+        <title>Who Had The Most Hits in the 80s? - EP1</title>
     </programme>
     <programme start="20260222160000 +0000" stop="20260222171000 +0000" channel="now-70s.mewatch">
         <title>50 Years On - 1976&#039;s Best Sellers! - EP1</title>
@@ -796,10 +784,10 @@
     <programme start="20260222160000 +0000" stop="20260223040000 +0000" channel="Live 2.mewatch">
         <title>No Programme available now. Next Broadcast on 23rd February, Monday 12.00pm. WTT Singapore Smash 2026</title>
     </programme>
-    <programme start="20260223040000 +0000" stop="20260223093000 +0000" channel="Live 2.mewatch">
+    <programme start="20260223040000 +0000" stop="20260223090800 +0000" channel="Live 2.mewatch">
         <title>WTT Singapore Smash 2026</title>
     </programme>
-    <programme start="20260223093000 +0000" stop="20260223100000 +0000" channel="Live 2.mewatch">
+    <programme start="20260223090800 +0000" stop="20260223100000 +0000" channel="Live 2.mewatch">
         <title>No Programme available now. Next Broadcast on 23rd February, Monday 06.00pm. WTT Singapore Smash 2026</title>
     </programme>
     <programme start="20260223100000 +0000" stop="20260223150000 +0000" channel="Live 2.mewatch">
