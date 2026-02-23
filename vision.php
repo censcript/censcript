@@ -715,21 +715,6 @@
 <programme start="20260223111000 +0000" stop="20260223113000 +0000" channel="ANTV.vision">
 <title>Sepiring Berduet</title>
 </programme>
-<programme start="20260223113000 +0000" stop="20260223133000 +0000" channel="ANTV.vision">
-<title>Pendekar Jagad Kelana</title>
-</programme>
-<programme start="20260223133000 +0000" stop="20260223153000 +0000" channel="ANTV.vision">
-<title>Sengatan Kobra</title>
-</programme>
-<programme start="20260223153000 +0000" stop="20260223173000 +0000" channel="ANTV.vision">
-<title>Bebas Aturan Main</title>
-</programme>
-<programme start="20260223173000 +0000" stop="20260223193000 +0000" channel="ANTV.vision">
-<title>Sinema Spesial</title>
-</programme>
-<programme start="20260223193000 +0000" stop="20260223213000 +0000" channel="ANTV.vision">
-<title>Mana Tahan</title>
-</programme>
 <programme start="20260223213000 +0000" stop="20260223233000 +0000" channel="ANTV.vision">
 <title>Tawa Kalcer</title>
 </programme>
@@ -1497,4 +1482,19 @@
 </programme>
 <programme start="20260223150000 +0000" stop="20260223160000 +0000" channel="BTV.vision">
 <title>Berita Satu Malam</title>
+</programme>
+<programme start="20260223160000 +0000" stop="20260223170000 +0000" channel="BTV.vision">
+<title>Generali Hexagon Cup 2026</title>
+</programme>
+<programme start="20260223170000 +0000" stop="20260223180000 +0000" channel="BTV.vision">
+<title>ONE Vault</title>
+</programme>
+<programme start="20260223180000 +0000" stop="20260223180300 +0000" channel="BTV.vision">
+<title>Tanah Airku</title>
+</programme>
+<programme start="20260223180300 +0000" stop="20260223193000 +0000" channel="BTV.vision">
+<title>Berita Satu Utama</title>
+</programme>
+<programme start="20260223193000 +0000" stop="20260223210000 +0000" channel="BTV.vision">
+<title>Jalan Dakwah</title>
 </programme>
