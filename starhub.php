@@ -6775,19 +6775,22 @@
     <programme start="20260223072000 +0000" stop="20260223082000 +0000" channel="beIN Sports HD.starhub">
         <title>Stage 2</title>
     </programme>
-    <programme start="20260223082000 +0000" stop="20260223092000 +0000" channel="beIN Sports HD.starhub">
-        <title>Rally Sweden</title>
+    <programme start="20260223082000 +0000" stop="20260223085000 +0000" channel="beIN Sports HD.starhub">
+        <title>February</title>
     </programme>
-    <programme start="20260223092000 +0000" stop="20260223111000 +0000" channel="beIN Sports HD.starhub">
+    <programme start="20260223085000 +0000" stop="20260223090000 +0000" channel="beIN Sports HD.starhub">
+        <title>Formula 1 Specials 2026</title>
+    </programme>
+    <programme start="20260223090000 +0000" stop="20260223105000 +0000" channel="beIN Sports HD.starhub">
         <title>Super Lig 2025/26: Konyaspor vs Galatasaray</title>
     </programme>
-    <programme start="20260223111000 +0000" stop="20260223131000 +0000" channel="beIN Sports HD.starhub">
+    <programme start="20260223105000 +0000" stop="20260223125500 +0000" channel="beIN Sports HD.starhub">
         <title>LFCTV 2025/26: Nottingham Forest vs Liverpool</title>
     </programme>
-    <programme start="20260223131000 +0000" stop="20260223134000 +0000" channel="beIN Sports HD.starhub">
+    <programme start="20260223125500 +0000" stop="20260223133500 +0000" channel="beIN Sports HD.starhub">
         <title>LFC Trending 2025/26</title>
     </programme>
-    <programme start="20260223134000 +0000" stop="20260223141000 +0000" channel="beIN Sports HD.starhub">
+    <programme start="20260223133500 +0000" stop="20260223141000 +0000" channel="beIN Sports HD.starhub">
         <title>Review Show: Brighton</title>
     </programme>
     <programme start="20260223141000 +0000" stop="20260223160000 +0000" channel="beIN Sports HD.starhub">
