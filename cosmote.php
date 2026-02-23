@@ -1,7 +1,3 @@
-<programme start="20260223153000 +0700" stop="20260223173000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: Borussia Dortmund - Atalanta</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260223173000 +0700" stop="20260223193000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: PAOK - Celta</title>
     <desc>Live: Tidak</desc>
@@ -58,6 +54,10 @@
     <title>UEL &amp; UECL Magazine 2025-26 E13</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260224180000 +0700" stop="20260224200000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: Panathinaikos - Viktoria Plzen</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260223161000 +0700" stop="20260223181000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Genoa - Torino</title>
     <desc>Live: Tidak</desc>
@@ -112,6 +112,10 @@
 </programme>
 <programme start="20260224161000 +0700" stop="20260224181000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Bologna - Udinese</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260224181000 +0700" stop="20260224202000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: AEL Novibet - PAOK</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260223170000 +0700" stop="20260223190000 +0700" channel="COSMOTE Sport 3 HD">
@@ -194,8 +198,8 @@
     <title>Football: Al-Qadsiah - Al Ettifaq FC</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260223150000 +0700" stop="20260223173000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Armani Milano - Bertram Derthona Tortona</title>
+<programme start="20260224184500 +0700" stop="20260224204500 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Pafos FC - Anorthosis Famagusta</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260223173000 +0700" stop="20260223200000 +0700" channel="COSMOTE Sport 4 HD">
@@ -244,14 +248,6 @@
 </programme>
 <programme start="20260224165500 +0700" stop="20260224192500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Detroit Pistons - San Antonio Spurs</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260223162000 +0700" stop="20260223171000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC: More Than Machine S2 E7</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260223171000 +0700" stop="20260223175500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC: More Than Machine S2 E6</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260223175500 +0700" stop="20260223185500 +0700" channel="COSMOTE Sport 5 HD">
@@ -364,6 +360,10 @@
 </programme>
 <programme start="20260224164500 +0700" stop="20260224183000 +0700" channel="COSMOTE Sport 5 HD">
     <title>DTM 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260224183000 +0700" stop="20260224192000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC: More Than Machine S2 E6</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260223170000 +0700" stop="20260223190000 +0700" channel="COSMOTE Sport 6 HD">

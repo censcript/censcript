@@ -68,7 +68,7 @@
         <title>Zoom The White Dolphin S2 - EP 5</title>
     </programme>
     <programme start="20260223040000 +0000" stop="20260223080000 +0000" channel="Channel 5.mewatch">
-        <title>(Live) Singapore Smash 2026 - Live Coverage - EP 2</title>
+        <title>Singapore Smash 2026 - Live Coverage - EP 2</title>
     </programme>
     <programme start="20260223080000 +0000" stop="20260223083000 +0000" channel="Channel 5.mewatch">
         <title>On The Red Dot - EP 38</title>
@@ -95,7 +95,7 @@
         <title>Aunty Lee&#039;s Deadly Delights - EP 20</title>
     </programme>
     <programme start="20260223130000 +0000" stop="20260223133000 +0000" channel="Channel 5.mewatch">
-        <title>(Live) News Tonight</title>
+        <title>News Tonight</title>
     </programme>
     <programme start="20260223133000 +0000" stop="20260223140000 +0000" channel="Channel 5.mewatch">
         <title>Double Yummy - EP 2</title>
