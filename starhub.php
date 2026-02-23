@@ -2300,7 +2300,7 @@
         <title>R4: Oxford United vs Sunderland AFC</title>
     </programme>
     <programme start="20260223040000 +0000" stop="20260223070000 +0000" channel="Hub Sports 2 HD.starhub">
-        <title>FN 3: Moreno vs Kavanagh</title>
+        <title>FN 2: Strickland vs Hernandez</title>
     </programme>
     <programme start="20260223070000 +0000" stop="20260223093000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>R4: Burton Albion vs West Ham United</title>

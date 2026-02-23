@@ -2846,10 +2846,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260222230000 +0000" stop="20260222233000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NBA: Showtime</title>
 </programme>
-<programme start="20260222233000 +0000" stop="20260223020000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260222233000 +0000" stop="20260223020500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NBA: Boston Celtics @ LA Lakers</title>
 </programme>
-<programme start="20260223020000 +0000" stop="20260223023000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260223020500 +0000" stop="20260223023000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NBA: On Fire</title>
 </programme>
 <programme start="20260223023000 +0000" stop="20260223030000 +0000" channel="Sky Sport Mix HD.skyde">
@@ -2865,10 +2865,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>MotoGP: Season Review 2025</title>
 </programme>
 <programme start="20260223060000 +0000" stop="20260223063000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NBA: Showtime</title>
+    <title>NBA: On Fire</title>
 </programme>
 <programme start="20260223063000 +0000" stop="20260223090000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NBA: Boston Celtics @ LA Lakers</title>
+    <title>NBA: Orlando Magic @ Phoenix Suns</title>
 </programme>
 <programme start="20260223090000 +0000" stop="20260223110000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>DFB-Pokal Frauen: VfL Wolfsburg - SC Freiburg, Achtelfinale</title>
@@ -2880,10 +2880,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>3. Liga: Alle Spiele, alle Tore, 25. Spieltag komplett</title>
 </programme>
 <programme start="20260223123000 +0000" stop="20260223130000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NBA: Showtime</title>
+    <title>NBA: On Fire</title>
 </programme>
 <programme start="20260223130000 +0000" stop="20260223153000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NBA: Boston Celtics @ LA Lakers</title>
+    <title>NBA: Orlando Magic @ Phoenix Suns</title>
 </programme>
 <programme start="20260223153000 +0000" stop="20260223160000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NBA: On Fire</title>
@@ -2895,7 +2895,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>MotoGP: Season Review 2025</title>
 </programme>
 <programme start="20260223190000 +0000" stop="20260223213000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NBA: Boston Celtics @ LA Lakers</title>
+    <title>NBA: Orlando Magic @ Phoenix Suns</title>
 </programme>
 <programme start="20260223213000 +0000" stop="20260223220000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Frauen-BL: Alle Spiele, alle Tore, 19. Spieltag komplett</title>
@@ -3083,20 +3083,20 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260223224500 +0000" stop="20260223230000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>EFL: Highlights XXL: FC Middlesbrough - Oxford United, 33. Spieltag</title>
 </programme>
-<programme start="20260222230000 +0000" stop="20260223013000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260223003000 +0000" stop="20260223020000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: C. Alcaraz (ESP) - A. Fils (FRA), Qatar ExxonMobil Open in Doha (Katar), Finale</title>
 </programme>
-<programme start="20260223013000 +0000" stop="20260223040000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: Finale, Rio Open in Rio de Janeiro (BRA), Finale</title>
+<programme start="20260223020000 +0000" stop="20260223043000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 500: T. Etcheverry (ARG) - A. Tabilo (CHI), Rio Open in Rio de Janeiro (BRA), Finale</title>
 </programme>
-<programme start="20260223040000 +0000" stop="20260223063000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 250: Finale, Delray Beach Open in Delray Beach (USA), Finale</title>
+<programme start="20260223043000 +0000" stop="20260223062000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 250: T. Paul (USA) - P. Korda (USA), Delray Beach Open in Delray Beach (USA), Finale</title>
 </programme>
-<programme start="20260223063000 +0000" stop="20260223070000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260223062000 +0000" stop="20260223065000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA: All Access Magazine Show</title>
 </programme>
-<programme start="20260223070000 +0000" stop="20260223093000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: Finale, Rio Open in Rio de Janeiro (BRA), Finale</title>
+<programme start="20260223065000 +0000" stop="20260223093000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 500: T. Etcheverry (ARG) - A. Tabilo (CHI), Rio Open in Rio de Janeiro (BRA), Finale</title>
 </programme>
 <programme start="20260223093000 +0000" stop="20260223100000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: Review Dubai</title>
@@ -3116,11 +3116,11 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260222230000 +0000" stop="20260222233000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Showtime</title>
 </programme>
-<programme start="20260222233000 +0000" stop="20260223020000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260222233000 +0000" stop="20260223020500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Boston Celtics @ LA Lakers</title>
 </programme>
-<programme start="20260223020000 +0000" stop="20260223043000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>ATP 250: Finale, Delray Beach Open in Delray Beach (USA), Finale</title>
+<programme start="20260223020500 +0000" stop="20260223043000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>ATP 250: T. Paul (USA) - P. Korda (USA), Delray Beach Open in Delray Beach (USA), Finale</title>
 </programme>
 <programme start="20260223043000 +0000" stop="20260223050000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>PL: 90in30: TOT - ARS, 27. Spieltag</title>
