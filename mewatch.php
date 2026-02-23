@@ -613,62 +613,50 @@
     <programme start="20260223150000 +0000" stop="20260223170000 +0000" channel="now-80s.mewatch">
         <title>ALMOST Top of the Pops! 1985 - EP1</title>
     </programme>
-    <programme start="20260222160000 +0000" stop="20260222202500 +0000" channel="now-70s.mewatch">
-        <title>The NOW 100 of the 70s - EP1</title>
+    <programme start="20260222160000 +0000" stop="20260222171000 +0000" channel="now-70s.mewatch">
+        <title>50 Years On - 1976&#039;s Best Sellers! - EP1</title>
     </programme>
-    <programme start="20260222202500 +0000" stop="20260222203500 +0000" channel="now-70s.mewatch">
-        <title>The NOW 100 of the 70s - EP1</title>
+    <programme start="20260222171000 +0000" stop="20260222180000 +0000" channel="now-70s.mewatch">
+        <title>50 Years Ago - It&#039;s 1976 Day! - EP1</title>
     </programme>
-    <programme start="20260222203500 +0000" stop="20260222210000 +0000" channel="now-70s.mewatch">
-        <title>It&#039;s A MASSIVE 70s Party Night! - EP1</title>
+    <programme start="20260222180000 +0000" stop="20260222195000 +0000" channel="now-70s.mewatch">
+        <title>One Hit Wonders! 1970-1979 - EP1</title>
     </programme>
-    <programme start="20260222210000 +0000" stop="20260222223500 +0000" channel="now-70s.mewatch">
-        <title>Bruno Brookes UK Top 20 of the 70s - EP1</title>
+    <programme start="20260222195000 +0000" stop="20260222200000 +0000" channel="now-70s.mewatch">
+        <title>1979 Unleashed! - EP1</title>
     </programme>
-    <programme start="20260222223500 +0000" stop="20260222230000 +0000" channel="now-70s.mewatch">
-        <title>Non-Stop 70s Number 1s! - EP1</title>
+    <programme start="20260222200000 +0000" stop="20260222215000 +0000" channel="now-70s.mewatch">
+        <title>Mike Read&#039;s Pop Quiz: 1979 - EP1</title>
     </programme>
-    <programme start="20260222230000 +0000" stop="20260223003000 +0000" channel="now-70s.mewatch">
-        <title>Forgotten No.1s! 1970-1979 - EP1</title>
+    <programme start="20260222215000 +0000" stop="20260222220000 +0000" channel="now-70s.mewatch">
+        <title>1979 Unleashed! - EP1</title>
     </programme>
-    <programme start="20260223003000 +0000" stop="20260223010000 +0000" channel="now-70s.mewatch">
-        <title>Non-Stop 70s Number 1s! - EP1</title>
+    <programme start="20260222220000 +0000" stop="20260223000000 +0000" channel="now-70s.mewatch">
+        <title>David Bowie in the 70s &amp; 80s - EP1</title>
     </programme>
-    <programme start="20260223010000 +0000" stop="20260223030500 +0000" channel="now-70s.mewatch">
-        <title>Kiki Dee&#039;s Duos &amp; Duets! 1970-1979 - EP1</title>
+    <programme start="20260223000000 +0000" stop="20260223091500 +0000" channel="now-70s.mewatch">
+        <title>Who Won Wot? 1970-1979 - EP1</title>
     </programme>
-    <programme start="20260223030500 +0000" stop="20260223040000 +0000" channel="now-70s.mewatch">
-        <title>Let The Good Times Roll! - EP1</title>
+    <programme start="20260223091500 +0000" stop="20260223100000 +0000" channel="now-70s.mewatch">
+        <title>The 5 O&#039;Clock Groovy Zone! - EP1</title>
     </programme>
-    <programme start="20260223040000 +0000" stop="20260223091500 +0000" channel="now-70s.mewatch">
-        <title>Essential 70s: The No 3s - EP1</title>
+    <programme start="20260223100000 +0000" stop="20260223112500 +0000" channel="now-70s.mewatch">
+        <title>As Seen On TV! Top 25 - EP1</title>
     </programme>
-    <programme start="20260223091500 +0000" stop="20260223093000 +0000" channel="now-70s.mewatch">
-        <title>Let The Good Times Roll! - EP1</title>
+    <programme start="20260223112500 +0000" stop="20260223120000 +0000" channel="now-70s.mewatch">
+        <title>Retro Rewind! 70s Edition - EP1</title>
     </programme>
-    <programme start="20260223093000 +0000" stop="20260223103000 +0000" channel="now-70s.mewatch">
-        <title>The NOW 100 of the 70s - EP1</title>
+    <programme start="20260223120000 +0000" stop="20260223145000 +0000" channel="now-70s.mewatch">
+        <title>Pat Sharp&#039;s One Hit Wonders! 70-79 - EP1</title>
     </programme>
-    <programme start="20260223103000 +0000" stop="20260223120000 +0000" channel="now-70s.mewatch">
-        <title>Pat Sharp&#039;s Bad Hair - Big Tunes! - EP1</title>
+    <programme start="20260223145000 +0000" stop="20260223150000 +0000" channel="now-70s.mewatch">
+        <title>1972 Unleashed! - EP1</title>
     </programme>
-    <programme start="20260223120000 +0000" stop="20260223130000 +0000" channel="now-70s.mewatch">
-        <title>70s Rock Anthems Night! - EP1</title>
+    <programme start="20260223150000 +0000" stop="20260223160000 +0000" channel="now-70s.mewatch">
+        <title>The Best 1972 Party...Ever! - EP1</title>
     </programme>
-    <programme start="20260223130000 +0000" stop="20260223142500 +0000" channel="now-70s.mewatch">
-        <title>20 Truckin&#039; Good Tunes! - EP1</title>
-    </programme>
-    <programme start="20260223142500 +0000" stop="20260223150000 +0000" channel="now-70s.mewatch">
-        <title>70s Rock Anthems Night! - EP1</title>
-    </programme>
-    <programme start="20260223150000 +0000" stop="20260223154500 +0000" channel="now-70s.mewatch">
-        <title>Meat Loaf 1975-1995 - EP1</title>
-    </programme>
-    <programme start="20260223154500 +0000" stop="20260223160000 +0000" channel="now-70s.mewatch">
-        <title>70s Rock Anthems Night! - EP1</title>
-    </programme>
-    <programme start="20260223160000 +0000" stop="20260223172500 +0000" channel="now-70s.mewatch">
-        <title>Pat Sharp&#039;s Bad Hair - Big Tunes! - EP1</title>
+    <programme start="20260223160000 +0000" stop="20260223201500 +0000" channel="now-70s.mewatch">
+        <title>Who Won Wot? 1970-1979 - EP1</title>
     </programme>
     <programme start="20260222145500 +0000" stop="20260222165000 +0000" channel="cinemaworld.mewatch">
         <title>The Takeover</title>
@@ -808,16 +796,16 @@
     <programme start="20260222160000 +0000" stop="20260223040000 +0000" channel="Live 2.mewatch">
         <title>No Programme available now. Next Broadcast on 23rd February, Monday 12.00pm. WTT Singapore Smash 2026</title>
     </programme>
-    <programme start="20260223040000 +0000" stop="20260223090000 +0000" channel="Live 2.mewatch">
+    <programme start="20260223040000 +0000" stop="20260223093000 +0000" channel="Live 2.mewatch">
         <title>WTT Singapore Smash 2026</title>
     </programme>
-    <programme start="20260223090000 +0000" stop="20260223100000 +0000" channel="Live 2.mewatch">
+    <programme start="20260223093000 +0000" stop="20260223100000 +0000" channel="Live 2.mewatch">
         <title>No Programme available now. Next Broadcast on 23rd February, Monday 06.00pm. WTT Singapore Smash 2026</title>
     </programme>
-    <programme start="20260223100000 +0000" stop="20260223140000 +0000" channel="Live 2.mewatch">
+    <programme start="20260223100000 +0000" stop="20260223150000 +0000" channel="Live 2.mewatch">
         <title>WTT Singapore Smash 2026</title>
     </programme>
-    <programme start="20260223140000 +0000" stop="20260223160000 +0000" channel="Live 2.mewatch">
+    <programme start="20260223150000 +0000" stop="20260223160000 +0000" channel="Live 2.mewatch">
         <title>No Programme available now. Next Broadcast on 24th February, Tuesday 12.00pm. WTT Singapore Smash 2026</title>
     </programme>
     <programme start="20260223160000 +0000" stop="20260224040000 +0000" channel="Live 2.mewatch">
