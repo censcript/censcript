@@ -1,11 +1,3 @@
-<programme start="20260225015000 +0700" stop="20260225022000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Sports Classics: Ultimate Rush S5 E3</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260225022000 +0700" stop="20260225025000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Sports Classics: Ultimate Rush S5 E4</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260225025000 +0700" stop="20260225050500 +0700" channel="COSMOTE Sport 1 HD">
     <title>UEFA Champions League 2025-26 Minute By Minute (L)</title>
     <desc>Live: Ya</desc>
@@ -76,10 +68,6 @@
 </programme>
 <programme start="20260226023000 +0700" stop="20260226050500 +0700" channel="COSMOTE Sport 1 HD">
     <title>UEFA Champions League 2025-26 Minute By Minute (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20260225020000 +0700" stop="20260225030000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>UEFA Champions League Show 2025-26 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20260225030000 +0700" stop="20260225050500 +0700" channel="COSMOTE Sport 2 HD">
@@ -154,9 +142,9 @@
     <title>Sports Classics: Sporting Countdowns</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260225004500 +0700" stop="20260225030000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>World Athletics Indoor Tour Gold 2026</title>
-    <desc>Live: Tidak</desc>
+<programme start="20260226030000 +0700" stop="20260226050500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Real Madrid CF - SL Benfica (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260225030000 +0700" stop="20260225050500 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: FC Internazionale Milano - FK Bodo/Glimt (L)</title>
@@ -206,13 +194,9 @@
     <title>World Athletics Indoor Tour Gold 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260225020000 +0700" stop="20260225022500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>ACB Liga Endesa 2025-26 - Fifth Quarter E19</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260225022500 +0700" stop="20260225030000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>NBA Action 2025-26 E3518</title>
-    <desc>Live: Tidak</desc>
+<programme start="20260226030000 +0700" stop="20260226050500 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Juventus Football Club - Galatasaray AS (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260225030000 +0700" stop="20260225044500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Pick n&#039; Roll (L)</title>
@@ -269,14 +253,6 @@
 <programme start="20260226020000 +0700" stop="20260226040000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Football: Al Najma - Al Nassr (L)</title>
     <desc>Live: Ya</desc>
-</programme>
-<programme start="20260225013000 +0700" stop="20260225022000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC: More Than Machine S2 E7</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260225022000 +0700" stop="20260225030000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Documentary</title>
-    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260225030000 +0700" stop="20260225050500 +0700" channel="COSMOTE Sport 5 HD">
     <title>Football: Newcastle United - Qarabag FK (L)</title>
@@ -370,13 +346,9 @@
     <title>WRC</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260225000000 +0700" stop="20260225023000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: Andrey Rublev - Valentin Royer (L)</title>
+<programme start="20260226030000 +0700" stop="20260226050500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Football: Paris Saint Germain - AS Monaco FC (L)</title>
     <desc>Live: Ya</desc>
-</programme>
-<programme start="20260225023000 +0700" stop="20260225030000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Sports Classics: 2025 Outdoor Specials</title>
-    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260225030000 +0700" stop="20260225040000 +0700" channel="COSMOTE Sport 6 HD">
     <title>ATP 500 2026 - Highlights</title>
@@ -438,9 +410,9 @@
     <title>Watersports: Inside Sailing 2026 E1</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260225004500 +0700" stop="20260225025000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>Football: Club Atletico de Madrid - Club Brugge (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20260226030000 +0700" stop="20260226040000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>ATP 500 2026 - Highlights</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260225025000 +0700" stop="20260225032000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
@@ -506,12 +478,8 @@
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260225020000 +0700" stop="20260225023000 +0700" channel="COSMOTE Sport 8 HD">
-    <title>COSMOTESport8HD</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260225023000 +0700" stop="20260225030000 +0700" channel="COSMOTE Sport 8 HD">
-    <title>COSMOTESport8HD</title>
+<programme start="20260226032000 +0700" stop="20260226050000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260225030000 +0700" stop="20260225050000 +0700" channel="COSMOTE Sport 8 HD">
@@ -577,6 +545,10 @@
 <programme start="20260226023000 +0700" stop="20260226030000 +0700" channel="COSMOTE Sport 8 HD">
     <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260226030000 +0700" stop="20260226050000 +0700" channel="COSMOTE Sport 8 HD">
+    <title>Football: Stoke City - Oxford United F.C. (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260225020000 +0700" stop="20260225040000 +0700" channel="COSMOTE Sport 9 HD">
     <title>Football: Al Taawon - Al Hilal (L)</title>
