@@ -19750,19 +19750,22 @@
   <programme start="20260226200000 +0000" stop="20260226202000 +0000" channel="Óčko.webtv.sk">
     <title lang="id">TOP 4 ÓČKO CHART</title>
   </programme>
-  <programme start="20260226202000 +0000" stop="20260226210000 +0000" channel="Óčko.webtv.sk">
+  <programme start="20260226202000 +0000" stop="20260226203000 +0000" channel="Óčko.webtv.sk">
     <title lang="id">HOT HITY</title>
   </programme>
-  <programme start="20260226210000 +0000" stop="20260226213000 +0000" channel="Óčko.webtv.sk">
+  <programme start="20260226203000 +0000" stop="20260226210000 +0000" channel="Óčko.webtv.sk">
     <title lang="id">NAKED WARM UP</title>
   </programme>
-  <programme start="20260226213000 +0000" stop="20260226222000 +0000" channel="Óčko.webtv.sk">
+  <programme start="20260226210000 +0000" stop="20260226213000 +0000" channel="Óčko.webtv.sk">
+    <title lang="id">NAKED ATTRACTION WATCH PARTY</title>
+  </programme>
+  <programme start="20260226213000 +0000" stop="20260226222500 +0000" channel="Óčko.webtv.sk">
     <title lang="id">NAKED ATTRACTION ČESKO &amp; SLOVENSKO</title>
   </programme>
-  <programme start="20260226222000 +0000" stop="20260226223000 +0000" channel="Óčko.webtv.sk">
+  <programme start="20260226222500 +0000" stop="20260226223500 +0000" channel="Óčko.webtv.sk">
     <title lang="id">ONEBLADE NAKED: DRUHÁ ŠANCE</title>
   </programme>
-  <programme start="20260226223000 +0000" stop="20260227050000 +0000" channel="Óčko.webtv.sk">
+  <programme start="20260226223500 +0000" stop="20260227050000 +0000" channel="Óčko.webtv.sk">
     <title lang="id">ÓČKO FLIRT</title>
   </programme>
   <programme start="20260225230000 +0000" stop="20260226060000 +0000" channel="Óčko Black.webtv.sk">
