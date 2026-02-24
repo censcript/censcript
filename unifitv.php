@@ -15826,34 +15826,29 @@
     <desc lang="en">Extensive coverage from every round of the Spanish LaLiga, Spain's top division of football with the World's biggest teams.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260223235000 +0000" stop="20260224015000 +0000" channel="beinsports.unifitv">
+  <programme start="20260223235000 +0000" stop="20260224015500 +0000" channel="beinsports.unifitv">
     <title lang="en">LFCTV - Nottingham Forest vs Liverpool</title>
     <desc lang="en">Enjoy every Liverpool match from the Premier League, FA Cup and Carabao Cup and friendlies, from LFCTV on beIN SPORTS</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260224015000 +0000" stop="20260224022000 +0000" channel="beinsports.unifitv">
+  <programme start="20260224015500 +0000" stop="20260224023500 +0000" channel="beinsports.unifitv">
     <title lang="en">LFC Trending - Episode Number 29</title>
     <desc lang="en">The official LFCTV weekly magazine program featuring news, stories, videos and social media highlights from across Liverpool football club, its players and supporters</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260224022000 +0000" stop="20260224025000 +0000" channel="beinsports.unifitv">
+  <programme start="20260224023500 +0000" stop="20260224031000 +0000" channel="beinsports.unifitv">
     <title lang="en">LFCTV - Review Show: Brighton</title>
     <desc lang="en">Enjoy documentaries and other special programming from LFCTV on beIN SPORTS</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260224025000 +0000" stop="20260224035000 +0000" channel="beinsports.unifitv">
+  <programme start="20260224031000 +0000" stop="20260224041000 +0000" channel="beinsports.unifitv">
     <title lang="en">Dakar Rally Highlights - Stage 3</title>
     <desc lang="en">Daily highlights of the Dakar Rally; the 48th edition, featuring a challenging 8,000km loop with new Marathon stages and mid-stage tire/repair support, marking the first event of the FIA-FIM World Rally-Raid Championship (W2RC) and testing drivers across dunes, mountains, and plains with a rest day in Riyadh</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260224035000 +0000" stop="20260224054000 +0000" channel="beinsports.unifitv">
+  <programme start="20260224041000 +0000" stop="20260224061000 +0000" channel="beinsports.unifitv">
     <title lang="en">LaLiga 2 - AD Ceuta vs Granada</title>
     <desc lang="en">Extensive coverage from LaLiga 2, Spain's second division of football.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260224054000 +0000" stop="20260224061000 +0000" channel="beinsports.unifitv">
-    <title lang="en">Gearing Up - February</title>
-    <desc lang="en">Thrilling racing from the most demanding events around the globe, Gearing Up heads to the toughest events and gets on-board with the sport's heroic drivers.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260224061000 +0000" stop="20260224064000 +0000" channel="beinsports.unifitv">

@@ -5618,7 +5618,7 @@
         <title>Pitch Perfect 3</title>
     </programme>
     <programme start="20260224054500 +0000" stop="20260224075000 +0000" channel="HBO Hits HD.starhub">
-        <title>Jurassic World</title>
+        <title>Chocolat</title>
     </programme>
     <programme start="20260224075000 +0000" stop="20260224093500 +0000" channel="HBO Hits HD.starhub">
         <title>One Life</title>
@@ -6637,10 +6637,10 @@
     <programme start="20260224155300 +0000" stop="20260224164600 +0000" channel="TV5MONDE HD.starhub">
         <title>Death in Reserve (2)</title>
     </programme>
-    <programme start="20260223150000 +0000" stop="20260223190000 +0000" channel="Hub Sports 1  HD.starhub">
+    <programme start="20260223150000 +0000" stop="20260223191900 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Dubai Duty Free Tennis C&#039;ships (500) D1 R1 S3</title>
     </programme>
-    <programme start="20260223190000 +0000" stop="20260223223000 +0000" channel="Hub Sports 1  HD.starhub">
+    <programme start="20260223191900 +0000" stop="20260223223000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Transylvania Open powered by Kaufland (250) R16 S1</title>
     </programme>
     <programme start="20260223223000 +0000" stop="20260224000000 +0000" channel="Hub Sports 1  HD.starhub">
@@ -8152,14 +8152,8 @@
     <programme start="20260223200000 +0000" stop="20260223220000 +0000" channel="SPOTV2.starhub">
         <title>25/26 A-League Men Round 18 Central Coast Mariners FC vs Western Sydney Wanderers FC</title>
     </programme>
-    <programme start="20260223220000 +0000" stop="20260224000000 +0000" channel="SPOTV2.starhub">
-        <title>25/26 ROSHN Saudi League MW 23 Al Hilal vs Al Ittihad</title>
-    </programme>
-    <programme start="20260224000000 +0000" stop="20260224033000 +0000" channel="SPOTV2.starhub">
+    <programme start="20260223233500 +0000" stop="20260224040000 +0000" channel="SPOTV2.starhub">
         <title>Day 2 Session 1</title>
-    </programme>
-    <programme start="20260224033000 +0000" stop="20260224040000 +0000" channel="SPOTV2.starhub">
-        <title>2025/26 ALM Mini Match Rd 17 Western Sydney Wanderers FC vs Wellington Phoenix</title>
     </programme>
     <programme start="20260224040000 +0000" stop="20260224073000 +0000" channel="SPOTV2.starhub">
         <title>Day 3 Session 1</title>
