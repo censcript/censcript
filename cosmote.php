@@ -1,7 +1,3 @@
-<programme start="20260224170000 +0700" stop="20260224180000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>UEL &amp; UECL Magazine 2025-26 E13</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260224180000 +0700" stop="20260224200000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Panathinaikos - Viktoria Plzen</title>
     <desc>Live: Tidak</desc>
@@ -194,6 +190,10 @@
     <title>Football: Al Taawon - Al Hilal</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260225184500 +0700" stop="20260225204500 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: APOEL - Omonoia FC</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260224165500 +0700" stop="20260224192500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Detroit Pistons - San Antonio Spurs</title>
     <desc>Live: Tidak</desc>
@@ -364,6 +364,14 @@
 </programme>
 <programme start="20260225175500 +0700" stop="20260225182500 +0700" channel="COSMOTE Sport 5 HD">
     <title>Documentary</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260225182500 +0700" stop="20260225185500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Documentary</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260225185500 +0700" stop="20260225200000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: Extreme E 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260224170000 +0700" stop="20260224190000 +0700" channel="COSMOTE Sport 6 HD">
