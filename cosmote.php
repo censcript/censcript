@@ -138,12 +138,8 @@
     <title>Football: AEL Novibet - PAOK</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260224130000 +0700" stop="20260224132500 +0700" channel="COSMOTE Sport 3 HD">
-    <title>William Hill Scottish Premiership - Highlights</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260224132500 +0700" stop="20260224135500 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Emirates FA Cup 2025-26 - Highlights</title>
+<programme start="20260225140500 +0700" stop="20260225160000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Cagliari - SS Lazio</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260224135500 +0700" stop="20260224155500 +0700" channel="COSMOTE Sport 3 HD">
@@ -200,6 +196,10 @@
 </programme>
 <programme start="20260225125500 +0700" stop="20260225145000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: APOEL - Omonoia FC</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260225145000 +0700" stop="20260225164500 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: St. Mirren - Motherwell</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260224130000 +0700" stop="20260224150000 +0700" channel="COSMOTE Sport 4 HD">
@@ -358,8 +358,12 @@
     <title>DTM 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260224110000 +0700" stop="20260224133000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: ATP 500 2026</title>
+<programme start="20260225141500 +0700" stop="20260225144500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Sports Classics: Gearing Up 2025 E1</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260225144500 +0700" stop="20260225150000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Sports Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260224133000 +0700" stop="20260224153000 +0700" channel="COSMOTE Sport 6 HD">
@@ -415,6 +419,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260225110000 +0700" stop="20260225143000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: ATP 500 2026</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260225143000 +0700" stop="20260225170000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP 500 2026</title>
     <desc>Live: Tidak</desc>
 </programme>

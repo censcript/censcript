@@ -886,9 +886,6 @@
 <programme start="20260224063000 +0000" stop="20260224070000 +0000" channel="TVOne.vision">
 <title>Kabar Merah Putih (L)</title>
 </programme>
-<programme start="20260224070000 +0000" stop="20260224071500 +0000" channel="TVOne.vision">
-<title>Berita Utama (L)</title>
-</programme>
 <programme start="20260224071500 +0000" stop="20260224073000 +0000" channel="TVOne.vision">
 <title>Himkah Ramadan: Kemenag</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20260224140000 +0000" stop="20260224150000 +0000" channel="BTV.vision">
 <title>Berita Viral</title>
+</programme>
+<programme start="20260224150000 +0000" stop="20260224160000 +0000" channel="BTV.vision">
+<title>Berita Satu Malam</title>
 </programme>
