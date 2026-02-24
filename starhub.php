@@ -8150,7 +8150,7 @@
         <title>25/26 A-League Men Round 18 Wellington Phoenix vs Auckland FC</title>
     </programme>
     <programme start="20260223195000 +0000" stop="20260223214200 +0000" channel="SPOTV2.starhub">
-        <title>25/26 A-League Men Round 18 Central Coast Mariners FC vs Western Sydney Wanderer</title>
+        <title>25/26 A-League Men Round 18 Central Coast Mariners FC vs Western Sydney Wanderers FC</title>
     </programme>
     <programme start="20260223214200 +0000" stop="20260223233500 +0000" channel="SPOTV2.starhub">
         <title>25/26 ROSHN Saudi League MW 23 Al Hilal vs Al Ittihad</title>
