@@ -2329,105 +2329,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260224224500 +0000" stop="20260225001500 +0000" channel="Sky Nature HD.skyde">
     <title>Nach dem Biss: Die Folgen eines Haiangriffs</title>
 </programme>
-<programme start="20260223234500 +0000" stop="20260224002500 +0000" channel="Sky One HD.skyde">
-    <title>The Equalizer</title>
-</programme>
-<programme start="20260224002500 +0000" stop="20260224011000 +0000" channel="Sky One HD.skyde">
-    <title>The Equalizer</title>
-</programme>
-<programme start="20260224011000 +0000" stop="20260224015000 +0000" channel="Sky One HD.skyde">
-    <title>Elsbeth</title>
-</programme>
-<programme start="20260224015000 +0000" stop="20260224023500 +0000" channel="Sky One HD.skyde">
-    <title>Magnum P.I.</title>
-</programme>
-<programme start="20260224023500 +0000" stop="20260224031500 +0000" channel="Sky One HD.skyde">
-    <title>Magnum P.I.</title>
-</programme>
-<programme start="20260224031500 +0000" stop="20260224033500 +0000" channel="Sky One HD.skyde">
-    <title>Die Wespe 2: Bullseye Talk</title>
-</programme>
-<programme start="20260224033500 +0000" stop="20260224041500 +0000" channel="Sky One HD.skyde">
-    <title>Magnum P.I.</title>
-</programme>
-<programme start="20260224041500 +0000" stop="20260224050000 +0000" channel="Sky One HD.skyde">
-    <title>Magnum P.I.</title>
-</programme>
-<programme start="20260224050000 +0000" stop="20260224054000 +0000" channel="Sky One HD.skyde">
-    <title>Magnum P.I.</title>
-</programme>
-<programme start="20260224054000 +0000" stop="20260224062500 +0000" channel="Sky One HD.skyde">
-    <title>Magnum P.I.</title>
-</programme>
-<programme start="20260224062500 +0000" stop="20260224071000 +0000" channel="Sky One HD.skyde">
-    <title>Navy CIS</title>
-</programme>
-<programme start="20260224071000 +0000" stop="20260224075500 +0000" channel="Sky One HD.skyde">
-    <title>Navy CIS</title>
-</programme>
-<programme start="20260224075500 +0000" stop="20260224084000 +0000" channel="Sky One HD.skyde">
-    <title>Navy CIS</title>
-</programme>
-<programme start="20260224084000 +0000" stop="20260224092500 +0000" channel="Sky One HD.skyde">
-    <title>Blue Bloods - Crime Scene New York</title>
-</programme>
-<programme start="20260224092500 +0000" stop="20260224101000 +0000" channel="Sky One HD.skyde">
-    <title>Blue Bloods - Crime Scene New York</title>
-</programme>
-<programme start="20260224101000 +0000" stop="20260224105500 +0000" channel="Sky One HD.skyde">
-    <title>Chicago Fire</title>
-</programme>
-<programme start="20260224105500 +0000" stop="20260224114000 +0000" channel="Sky One HD.skyde">
-    <title>Chicago Fire</title>
-</programme>
-<programme start="20260224114000 +0000" stop="20260224122500 +0000" channel="Sky One HD.skyde">
-    <title>The Rookie</title>
-</programme>
-<programme start="20260224122500 +0000" stop="20260224131000 +0000" channel="Sky One HD.skyde">
-    <title>The Rookie</title>
-</programme>
-<programme start="20260224131000 +0000" stop="20260224135500 +0000" channel="Sky One HD.skyde">
-    <title>The Equalizer</title>
-</programme>
-<programme start="20260224135500 +0000" stop="20260224144000 +0000" channel="Sky One HD.skyde">
-    <title>The Equalizer</title>
-</programme>
-<programme start="20260224144000 +0000" stop="20260224153000 +0000" channel="Sky One HD.skyde">
-    <title>Navy CIS</title>
-</programme>
-<programme start="20260224153000 +0000" stop="20260224161500 +0000" channel="Sky One HD.skyde">
-    <title>Navy CIS</title>
-</programme>
-<programme start="20260224161500 +0000" stop="20260224170000 +0000" channel="Sky One HD.skyde">
-    <title>Navy CIS</title>
-</programme>
-<programme start="20260224170000 +0000" stop="20260224174500 +0000" channel="Sky One HD.skyde">
-    <title>Chicago Fire</title>
-</programme>
-<programme start="20260224174500 +0000" stop="20260224183000 +0000" channel="Sky One HD.skyde">
-    <title>Chicago Fire</title>
-</programme>
-<programme start="20260224183000 +0000" stop="20260224191500 +0000" channel="Sky One HD.skyde">
-    <title>The Rookie</title>
-</programme>
-<programme start="20260224191500 +0000" stop="20260224200000 +0000" channel="Sky One HD.skyde">
-    <title>The Rookie</title>
-</programme>
-<programme start="20260224200000 +0000" stop="20260224204000 +0000" channel="Sky One HD.skyde">
-    <title>Chicago Fire</title>
-</programme>
-<programme start="20260224204000 +0000" stop="20260224212500 +0000" channel="Sky One HD.skyde">
-    <title>Chicago Fire</title>
-</programme>
-<programme start="20260224212500 +0000" stop="20260224221500 +0000" channel="Sky One HD.skyde">
-    <title>Navy CIS</title>
-</programme>
-<programme start="20260224221500 +0000" stop="20260224225500 +0000" channel="Sky One HD.skyde">
-    <title>Navy CIS</title>
-</programme>
-<programme start="20260224225500 +0000" stop="20260224234500 +0000" channel="Sky One HD.skyde">
-    <title>Navy CIS</title>
-</programme>
 <programme start="20260223234000 +0000" stop="20260224002500 +0000" channel="Sky Replay HD.skyde">
     <title>Navy CIS</title>
 </programme>
@@ -2932,10 +2833,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260223233000 +0000" stop="20260224000000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NBA: Showtime</title>
 </programme>
-<programme start="20260224000000 +0000" stop="20260224023000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260224000000 +0000" stop="20260224024000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NBA: San Antonio Spurs @ Detroit Pistons</title>
 </programme>
-<programme start="20260224023000 +0000" stop="20260224050000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260224024000 +0000" stop="20260224050000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NBA: Utah Jazz @ Houston Rockets</title>
 </programme>
 <programme start="20260224050000 +0000" stop="20260224053000 +0000" channel="Sky Sport Mix HD.skyde">
@@ -3190,10 +3091,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260223233000 +0000" stop="20260224000000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Showtime</title>
 </programme>
-<programme start="20260224000000 +0000" stop="20260224023000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260224000000 +0000" stop="20260224024000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: San Antonio Spurs @ Detroit Pistons</title>
 </programme>
-<programme start="20260224023000 +0000" stop="20260224050000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260224024000 +0000" stop="20260224050000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Utah Jazz @ Houston Rockets</title>
 </programme>
 <programme start="20260224050000 +0000" stop="20260224053000 +0000" channel="Sky Sport Top Event HD.skyde">
