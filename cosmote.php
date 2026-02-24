@@ -254,6 +254,10 @@
     <title>Football: Al Najma - Al Nassr (L)</title>
     <desc>Live: Ya</desc>
 </programme>
+<programme start="20260226040000 +0700" stop="20260226063000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Milwaukee Bucks - Miami Heat</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260225030000 +0700" stop="20260225050500 +0700" channel="COSMOTE Sport 5 HD">
     <title>Football: Newcastle United - Qarabag FK (L)</title>
     <desc>Live: Ya</desc>
@@ -350,10 +354,6 @@
     <title>Football: Paris Saint Germain - AS Monaco FC (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260225030000 +0700" stop="20260225040000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>ATP 500 2026 - Highlights</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260225040000 +0700" stop="20260225070000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP 500 2026</title>
     <desc>Live: Tidak</desc>
@@ -387,11 +387,11 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260225170000 +0700" stop="20260225190000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: ATP 500 2026 (L)</title>
+    <title>Tennis: Daniil Medvedev - Stan Wawrinka (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20260225190000 +0700" stop="20260225213000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: ATP 500 2026 (L)</title>
+    <title>Tennis: Felix Auger-Aliassime - Giovanni Mpetshi Perricard (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20260225213000 +0700" stop="20260225220000 +0700" channel="COSMOTE Sport 6 HD">
@@ -403,7 +403,7 @@
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20260226000000 +0700" stop="20260226023000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: ATP 500 2026 (L)</title>
+    <title>Tennis: Arthur Rinderknech - Jack Draper (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20260226023000 +0700" stop="20260226030000 +0700" channel="COSMOTE Sport 6 HD">
@@ -414,8 +414,8 @@
     <title>ATP 500 2026 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260225025000 +0700" stop="20260225032000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
+<programme start="20260226040000 +0700" stop="20260226070000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: ATP 500 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260225032000 +0700" stop="20260225050000 +0700" channel="COSMOTE Sport 7 HD">
@@ -548,10 +548,6 @@
 </programme>
 <programme start="20260226030000 +0700" stop="20260226050000 +0700" channel="COSMOTE Sport 8 HD">
     <title>Football: Stoke City - Oxford United F.C. (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20260225020000 +0700" stop="20260225040000 +0700" channel="COSMOTE Sport 9 HD">
-    <title>Football: Al Taawon - Al Hilal (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20260225040000 +0700" stop="20260225043000 +0700" channel="COSMOTE Sport 9 HD">

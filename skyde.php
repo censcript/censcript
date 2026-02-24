@@ -2932,10 +2932,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260223233000 +0000" stop="20260224000000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NBA: Showtime</title>
 </programme>
-<programme start="20260224000000 +0000" stop="20260224024000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260224000000 +0000" stop="20260224023000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NBA: San Antonio Spurs @ Detroit Pistons</title>
 </programme>
-<programme start="20260224024000 +0000" stop="20260224050000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260224023000 +0000" stop="20260224050000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NBA: Utah Jazz @ Houston Rockets</title>
 </programme>
 <programme start="20260224050000 +0000" stop="20260224053000 +0000" channel="Sky Sport Mix HD.skyde">
@@ -3190,10 +3190,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260223233000 +0000" stop="20260224000000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Showtime</title>
 </programme>
-<programme start="20260224000000 +0000" stop="20260224024000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260224000000 +0000" stop="20260224023000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: San Antonio Spurs @ Detroit Pistons</title>
 </programme>
-<programme start="20260224024000 +0000" stop="20260224050000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260224023000 +0000" stop="20260224050000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Utah Jazz @ Houston Rockets</title>
 </programme>
 <programme start="20260224050000 +0000" stop="20260224053000 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3223,41 +3223,26 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260224200000 +0000" stop="20260225000000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live WTA 500: Merida Open in Merida (MEX), 2. Tag</title>
 </programme>
-<programme start="20260224083000 +0000" stop="20260224103000 +0000" channel="Sky Sport UHD.skyde">
-    <title>PL: Tottenham Hotspur - FC Arsenal, Match of the Week, 27. Spieltag</title>
-</programme>
-<programme start="20260224103000 +0000" stop="20260224110000 +0000" channel="Sky Sport UHD.skyde">
-    <title>PL: Match of the Week: Die Analyse, TOT - ARS, 27. Spieltag</title>
-</programme>
-<programme start="20260224110000 +0000" stop="20260224124500 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20260201233000 +0000" stop="20260202011500 +0000" channel="Sky Sport UHD.skyde">
     <title>Mondo Duplantis: Immer höher</title>
 </programme>
-<programme start="20260224124500 +0000" stop="20260224144500 +0000" channel="Sky Sport UHD.skyde">
-    <title>F1: Rennen - GP Las Vegas</title>
-</programme>
-<programme start="20260224144500 +0000" stop="20260224164500 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20260202011500 +0000" stop="20260202031500 +0000" channel="Sky Sport UHD.skyde">
     <title>F1: Rennen - GP Katar</title>
 </programme>
-<programme start="20260224164500 +0000" stop="20260224184500 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20260202031500 +0000" stop="20260202051500 +0000" channel="Sky Sport UHD.skyde">
     <title>F1: Rennen - GP Abu Dhabi 2025</title>
 </programme>
-<programme start="20260224184500 +0000" stop="20260224204500 +0000" channel="Sky Sport UHD.skyde">
-    <title>PL: Tottenham Hotspur - FC Arsenal, Match of the Week, 27. Spieltag</title>
+<programme start="20260202051500 +0000" stop="20260202070000 +0000" channel="Sky Sport UHD.skyde">
+    <title>Mondo Duplantis: Immer höher</title>
 </programme>
-<programme start="20260224204500 +0000" stop="20260224211500 +0000" channel="Sky Sport UHD.skyde">
-    <title>PL: Match of the Week: Die Analyse, TOT - ARS, 27. Spieltag</title>
+<programme start="20260202070000 +0000" stop="20260202090000 +0000" channel="Sky Sport UHD.skyde">
+    <title>PL: Tottenham Hotspur - Manchester City, Match of the Week, 24. Spieltag</title>
 </programme>
-<programme start="20260224211500 +0000" stop="20260224214500 +0000" channel="Sky Sport UHD.skyde">
-    <title>Golf: Greatest Holes (1)</title>
+<programme start="20260202090000 +0000" stop="20260202093000 +0000" channel="Sky Sport UHD.skyde">
+    <title>PL: Match of the Week: Die Analyse, TOT - MCI, 24. Spieltag</title>
 </programme>
-<programme start="20260224214500 +0000" stop="20260224221500 +0000" channel="Sky Sport UHD.skyde">
-    <title>Golf: Greatest Holes (2)</title>
-</programme>
-<programme start="20260224221500 +0000" stop="20260224224500 +0000" channel="Sky Sport UHD.skyde">
-    <title>Golf: Greatest Holes (3)</title>
-</programme>
-<programme start="20260224224500 +0000" stop="20260224231500 +0000" channel="Sky Sport UHD.skyde">
-    <title>Golf: Greatest Holes (4)</title>
+<programme start="20260202093000 +0000" stop="20260202094500 +0000" channel="Sky Sport UHD.skyde">
+    <title>Info: UHD</title>
 </programme>
 <programme start="20260224194000 +0000" stop="20260224200000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: LIVE Tennis WTA Tour</title>
