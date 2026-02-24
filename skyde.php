@@ -2932,10 +2932,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260223233000 +0000" stop="20260224000000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NBA: Showtime</title>
 </programme>
-<programme start="20260224000000 +0000" stop="20260224023000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260224000000 +0000" stop="20260224025500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NBA: San Antonio Spurs @ Detroit Pistons</title>
 </programme>
-<programme start="20260224023000 +0000" stop="20260224050000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260224025500 +0000" stop="20260224050000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NBA: Utah Jazz @ Houston Rockets</title>
 </programme>
 <programme start="20260224050000 +0000" stop="20260224053000 +0000" channel="Sky Sport Mix HD.skyde">
