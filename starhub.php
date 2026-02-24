@@ -2162,7 +2162,7 @@
         <title>Matchday 16</title>
     </programme>
     <programme start="20260224195500 +0000" stop="20260224220000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>UEFA Champions League 2025/26: Leverkusen vs Olympiacos - KO Play-Offs,2nd Leg (</title>
+        <title>UEFA Champions League 2025/26: Leverkusen vs Olympiacos - KO Play-Offs,2nd Leg (Live)</title>
     </programme>
     <programme start="20260224220000 +0000" stop="20260224223000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>Riyadh P1</title>
