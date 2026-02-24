@@ -751,10 +751,10 @@
     <programme start="20260224080800 +0000" stop="20260224100000 +0000" channel="Live 2.mewatch">
         <title>No Programme available now. Next Broadcast on 24th February, Tuesday 06.00pm. WTT Singapore Smash 2026</title>
     </programme>
-    <programme start="20260224100000 +0000" stop="20260224150000 +0000" channel="Live 2.mewatch">
+    <programme start="20260224100000 +0000" stop="20260224135000 +0000" channel="Live 2.mewatch">
         <title>WTT Singapore Smash 2026</title>
     </programme>
-    <programme start="20260224150000 +0000" stop="20260224160000 +0000" channel="Live 2.mewatch">
+    <programme start="20260224135000 +0000" stop="20260224160000 +0000" channel="Live 2.mewatch">
         <title>No Programme available now. Next Broadcast on 25th February, Wednesday 12.00pm. WTT Singapore Smash 2026</title>
     </programme>
     <programme start="20260224160000 +0000" stop="20260225040000 +0000" channel="Live 2.mewatch">
