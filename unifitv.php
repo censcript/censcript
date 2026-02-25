@@ -12997,7 +12997,7 @@
     <category lang="en">News</category>
   </programme>
   <programme start="20260225010300 +0000" stop="20260225020300 +0000" channel="aljazeera.unifitv">
-    <title lang="en">Latin America: n The Shadow of The U.S. : Chaos</title>
+    <title lang="en">Latin America: In The Shadow of The U.S. : Chaos</title>
     <desc lang="en">The 21st-century 'pink tide' ushers in new leftist leaders - but also a U.S. response, the 2026 attack on Venezuela and capture of President Nicolás Maduro.</desc>
     <category lang="en">News</category>
   </programme>

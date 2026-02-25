@@ -706,9 +706,6 @@
 <programme start="20260225003000 +0000" stop="20260225023000 +0000" channel="ANTV.vision">
 <title>Janji Inspektur Virat</title>
 </programme>
-<programme start="20260225023000 +0000" stop="20260225060000 +0000" channel="ANTV.vision">
-<title>Khushi</title>
-</programme>
 <programme start="20260225060000 +0000" stop="20260225083000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20260225111600 +0000" stop="20260225112100 +0000" channel="BTV.vision">
 <title>Azan Magrib</title>
+</programme>
+<programme start="20260225112100 +0000" stop="20260225112600 +0000" channel="BTV.vision">
+<title>Selamat Berbuka Puasa</title>
 </programme>
