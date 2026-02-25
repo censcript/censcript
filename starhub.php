@@ -3158,16 +3158,16 @@
         <title>News</title>
     </programme>
     <programme start="20260224161500 +0000" stop="20260224164500 +0000" channel="DW English HD.starhub">
-        <title>The Current Affairs Documentary</title>
+        <title>Crans-Montana - Life After the Swiss Fire Disaster</title>
     </programme>
     <programme start="20260224164500 +0000" stop="20260224170000 +0000" channel="DW English HD.starhub">
-        <title>On Location</title>
+        <title>Zambia’s Toxic Legacy: The Fight Against Lead</title>
     </programme>
     <programme start="20260224170000 +0000" stop="20260224171500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20260224171500 +0000" stop="20260224173000 +0000" channel="DW English HD.starhub">
-        <title>Venezuela oil</title>
+        <title>Venezuela&#039;s oil</title>
     </programme>
     <programme start="20260224173000 +0000" stop="20260224180000 +0000" channel="DW English HD.starhub">
         <title>New York Tried Congestion Pricing. Did It Actually Work?</title>
@@ -3197,13 +3197,13 @@
         <title>News</title>
     </programme>
     <programme start="20260224210200 +0000" stop="20260224211500 +0000" channel="DW English HD.starhub">
-        <title>Venezuela oil</title>
+        <title>Venezuela&#039;s oil</title>
     </programme>
     <programme start="20260224211500 +0000" stop="20260224214500 +0000" channel="DW English HD.starhub">
-        <title>The Current Affairs Documentary</title>
+        <title>Crans-Montana - Life After the Swiss Fire Disaster</title>
     </programme>
     <programme start="20260224214500 +0000" stop="20260224220000 +0000" channel="DW English HD.starhub">
-        <title>Living in the Digital Age</title>
+        <title>AI in Daily Life: Navigating Closeness and Illusion</title>
     </programme>
     <programme start="20260224220000 +0000" stop="20260224220200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3213,6 +3213,9 @@
     </programme>
     <programme start="20260224223000 +0000" stop="20260224230000 +0000" channel="DW English HD.starhub">
         <title>Religious coexistence across Africa</title>
+    </programme>
+    <programme start="20260224230000 +0000" stop="20260224233000 +0000" channel="DW English HD.starhub">
+        <title>Kenyan fish farmers aim high with drought-beating idea</title>
     </programme>
     <programme start="20260224233000 +0000" stop="20260225000000 +0000" channel="DW English HD.starhub">
         <title>Greenland&#039;s ice-covered minerals: No easy option</title>
@@ -5153,7 +5156,7 @@
         <title>25/26 ROSHN Saudi League MW 10 Al Taawoun vs Al Hilal (Live)</title>
     </programme>
     <programme start="20260224210000 +0000" stop="20260224213000 +0000" channel="SPOTV.starhub">
-        <title>2025/26 ALM Mini Match Rd 18 Central Coast Mariners FC vs Western Sydney Wanderers FC</title>
+        <title>2025/26 ALM Mini Match Rd 18 Central Coast Mariners FC vs Western Sydney Wandere</title>
     </programme>
     <programme start="20260224213000 +0000" stop="20260224224500 +0000" channel="SPOTV.starhub">
         <title>Free Practice 1</title>

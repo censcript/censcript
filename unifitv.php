@@ -674,7 +674,7 @@
   </programme>
   <programme start="20260224223000 +0000" stop="20260224230000 +0000" channel="tv1.unifitv">
     <title lang="en">Kembara Geng Usrah</title>
-    <desc lang="en">Jom! ikut pengacara, Shazlina Abdullah bersama dua orang peserta usrah yang dipilih dari setiap negeri</desc>
+    <desc lang="en">Jom! ikut pengacara, Shazlina Abdullah bersama dua orang peserta usrah yang dipilih dari setiap negeri. Episod kali ini Lin membawa Norathirah dan Nur Husna ke Kompleks Darul Hidayah, Permatang Tok Gelam. Kompleks ini merupakan pusat yang menyediakan perkhidmatan kepada saudara baru (mualaf).</desc>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.5.</episode-num>
     <episode-num system="onscreen">S1E6</episode-num>
@@ -711,7 +711,7 @@
   </programme>
   <programme start="20260225040500 +0000" stop="20260225050000 +0000" channel="tv1.unifitv">
     <title lang="en">Expedition With Steve Backshall</title>
-    <desc lang="en">Dokumentari ini memaparkan pengembaraan Steve Backshall meneroka dunia liar, mencabar diri menghadapi cabaran ekstrem dan menguji ketahanan fizikal serta mental di pelbagai lokasi menakjubkan.</desc>
+    <desc lang="en">Dokumentari ini memaparkan pengembaraan Steve Backshall meneroka dunia liar, mencabar diri menghadapi cabaran ekstrem dan menguji ketahanan fizikal serta mental di pelbagai lokasi menakjubkan. Steve Backshall mengetuai pasukan penyelam meneroka gua bawah tanah terbesar di Yucatan, Mexico, berdepan buaya dan laluan berbelit seperti “labyrinth”.</desc>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.2.</episode-num>
     <episode-num system="onscreen">S1E3</episode-num>
@@ -723,7 +723,7 @@
   </programme>
   <programme start="20260225053000 +0000" stop="20260225062500 +0000" channel="tv1.unifitv">
     <title lang="en">Aku Disisimu (Ulangan)</title>
-    <desc lang="en">Laila diuji apabila suaminya koma, anak menjauh dan kos rawatan tinggi. Mira, jururawat yang menerima VSS, mengajaknya membuka pusat jagaan pesakit. Mereka berganding bahu menempuh pelbagai cabaran.</desc>
+    <desc lang="en">Laila diuji apabila suaminya koma, anak menjauh dan kos rawatan tinggi. Mira, jururawat yang menerima VSS, mengajaknya membuka pusat jagaan pesakit. Mereka berganding bahu menempuh pelbagai cabaran. Laila terserempak Raof &amp; serba salah beritahu Mira. Mira salah faham &amp; marah Laila. Rozali pengsan. Faizal beri Faris tahu tiada hubungan dengan Laila.</desc>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.14.</episode-num>
     <episode-num system="onscreen">S1E15</episode-num>
@@ -735,7 +735,7 @@
   </programme>
   <programme start="20260225063000 +0000" stop="20260225070000 +0000" channel="tv1.unifitv">
     <title lang="en">Cinta Nasi Ambeng (Ulangan)</title>
-    <desc lang="en">Berkisar tentang persaingan antara dua tokoh wanita, Mak Munah dan Mak Bedah, dalam penyediaan nasi ambeng yang menjadi punca konflik dan percintaan, khususnya melibatkan watak Adam.</desc>
+    <desc lang="en">Berkisar tentang persaingan antara dua tokoh wanita, Mak Munah dan Mak Bedah, dalam penyediaan nasi ambeng yang menjadi punca konflik dan percintaan, khususnya melibatkan watak Adam. Hani memberi nasi ambeng percuma kepada Remy. Setelah menceritakan kepada ibunya, Zabedah memarahinya dan suruh pulangkan duit Remy. Hani dan Julia ke rumah nenek Remy, tetapi Hani kekok bercakap dengannya.</desc>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.2.</episode-num>
     <episode-num system="onscreen">S1E3</episode-num>
@@ -759,7 +759,7 @@
   </programme>
   <programme start="20260225080500 +0000" stop="20260225082500 +0000" channel="tv1.unifitv">
     <title lang="en">Nostalgia</title>
-    <desc lang="en">Rancangan yang akan mengimbau kembali kenangan-kenangan yang dilalui zaman dahulu.</desc>
+    <desc lang="en">Rancangan yang akan mengimbau kembali kenangan-kenangan yang dilalui zaman dahulu. Nostalgia kayu, pasir dan pekasam di mana pada zaman dahulu dapur kayu digunakan untuk memasak kacang tanah dan buah berangan digoreng  dengan pasir , ikan pekasam pula diperam menggunakan garam dan sangai.</desc>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.15.</episode-num>
     <episode-num system="onscreen">S1E16</episode-num>
@@ -813,7 +813,7 @@
   </programme>
   <programme start="20260225130000 +0000" stop="20260225140000 +0000" channel="tv1.unifitv">
     <title lang="en">Destinasi Ukhuwah</title>
-    <desc lang="en">Hasrat empat orang rakan karib menimba pengalaman dengan merantau sambil melakukan kerja-kerja amal.</desc>
+    <desc lang="en">Hasrat empat orang rakan karib menimba pengalaman dengan merantau sambil melakukan kerja-kerja amal. Dalam perjalanan 4 sahabat ke Putrajaya mereka terserempak dan mengekori sebuah kereta yang dipercayai milik Erwan. Malangnya kereta mereka kehabisan minyak. Erwan dan Hakimi telah diculik selepas menumpang sebuah Van . Adakah mereka selamat?</desc>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.3.</episode-num>
     <episode-num system="onscreen">S1E4</episode-num>
@@ -830,7 +830,7 @@
   </programme>
   <programme start="20260225143000 +0000" stop="20260225153000 +0000" channel="tv1.unifitv">
     <title lang="en">Gaduh-Gaduh Sayang</title>
-    <desc lang="en">Syazana dan Rafiqi yang menyamar demi mensabotaj perkahwinan terancang. Identiti terbongkar, mereka berkahwin namun diuji bekas kekasih dan fitnah bercerai, sebelum kebenaran menyatukan semula.</desc>
+    <desc lang="en">Syazana dan Rafiqi yang menyamar demi mensabotaj perkahwinan terancang. Identiti terbongkar, mereka berkahwin namun diuji bekas kekasih dan fitnah bercerai, sebelum kebenaran menyatukan semula. Muslihat Danny akhirnya terbongkar, namun Mira turut membencikan Syazana. Rupanya Danny juga dalang yang menjadi punca syarikat mengalami kerugian.</desc>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.19.</episode-num>
     <episode-num system="onscreen">S1E20</episode-num>
