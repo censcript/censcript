@@ -6842,7 +6842,7 @@
         <title>Formula 1 Specials 2026</title>
     </programme>
     <programme start="20260224174000 +0000" stop="20260224195500 +0000" channel="beIN Sports HD.starhub">
-        <title>UEFA Champions League 2025/26: Atletico Madrid vs Club Brugge - KO Play-Offs,2nd</title>
+        <title>UEFA Champions League 2025/26: Atletico Madrid vs Club Brugge - KO Play-Offs,2nd Leg (Live)</title>
     </programme>
     <programme start="20260224195500 +0000" stop="20260224220000 +0000" channel="beIN Sports HD.starhub">
         <title>UEFA Champions League 2025/26: Inter vs Bodo/Glimt - KO Play-Offs,2nd Leg (Live)</title>

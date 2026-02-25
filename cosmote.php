@@ -1,7 +1,3 @@
-<programme start="20260225130000 +0700" stop="20260225133000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>UEFA Champions League Magazine 2024-25 E21</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260225133000 +0700" stop="20260225153000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Club Atletico de Madrid - Club Brugge</title>
     <desc>Live: Tidak</desc>
@@ -146,6 +142,10 @@
     <title>Football: AEK - Levadiakos</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260226141500 +0700" stop="20260226161500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Genoa - Torino</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260225125500 +0700" stop="20260225145000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: APOEL - Omonoia FC</title>
     <desc>Live: Tidak</desc>
@@ -202,8 +202,12 @@
     <title>Emirates FA Cup 2025-26 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260225110000 +0700" stop="20260225130500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Turk Telekom - Fenerbahce</title>
+<programme start="20260226140500 +0700" stop="20260226143000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>William Hill Scottish Premiership - Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260226143000 +0700" stop="20260226163000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Livingston - Rangers FC</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260225130500 +0700" stop="20260225153000 +0700" channel="COSMOTE Sport 4 HD">
@@ -428,6 +432,10 @@
 </programme>
 <programme start="20260226120000 +0700" stop="20260226143000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Volleyball: Allianz Powervolley Milano - Olympiacos</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260226143000 +0700" stop="20260226170000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Volleyball: Panionios - Panathinaikos</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260225130000 +0700" stop="20260225150000 +0700" channel="COSMOTE Sport 7 HD">

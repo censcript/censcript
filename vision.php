@@ -37,8 +37,11 @@
 <programme start="20260225150000 +0000" stop="20260225170000 +0000" channel="RCTI.vision">
 <title>Teman Tapi Menikam</title>
 </programme>
-<programme start="20260225170000 +0000" stop="20260225204500 +0000" channel="RCTI.vision">
+<programme start="20260225170000 +0000" stop="20260225193000 +0000" channel="RCTI.vision">
 <title>Preman Pensiun S8</title>
+</programme>
+<programme start="20260225193000 +0000" stop="20260225204500 +0000" channel="RCTI.vision">
+<title>Amanah Wali S8</title>
 </programme>
 <programme start="20260225204500 +0000" stop="20260225223000 +0000" channel="RCTI.vision">
 <title>Banyak Jalan Menuju Surga (RCTI)</title>
@@ -1494,7 +1497,4 @@
 </programme>
 <programme start="20260225111600 +0000" stop="20260225112100 +0000" channel="BTV.vision">
 <title>Azan Magrib</title>
-</programme>
-<programme start="20260225112100 +0000" stop="20260225112600 +0000" channel="BTV.vision">
-<title>Selamat Berbuka Puasa</title>
 </programme>
