@@ -3134,44 +3134,47 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260225200000 +0000" stop="20260226000000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live WTA 500: Merida Open in Merida (MEX), 3. Tag</title>
 </programme>
-<programme start="20260225000000 +0000" stop="20260225003000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live NBA: Showtime</title>
+<programme start="20260226000000 +0000" stop="20260226033000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Live ATP 500: Abierto Mexicano Telcel presented by HSBC in Acapulco (MEX), 3. Tag</title>
 </programme>
-<programme start="20260225003000 +0000" stop="20260225030000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live NBA: New York Knicks @ Cleveland Cavaliers</title>
+<programme start="20260226033000 +0000" stop="20260226063000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Live NHL: Edmonton Oilers @ Anaheim Ducks</title>
 </programme>
-<programme start="20260225030000 +0000" stop="20260225053000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live NBA: Minnesota Timberwolves @ Portland Trail Blazers</title>
+<programme start="20260226063000 +0000" stop="20260226070000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>ATP: This Week</title>
 </programme>
-<programme start="20260225053000 +0000" stop="20260225060000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live NBA: Showtime - Post Show</title>
+<programme start="20260226070000 +0000" stop="20260226073000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>PL: PL Stories (Iliman Ndiaye)</title>
 </programme>
-<programme start="20260225060000 +0000" stop="20260225070000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>3. Liga: Alle Spiele, alle Tore, 25. Spieltag komplett</title>
+<programme start="20260226073000 +0000" stop="20260226080000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Fußball: scooore Polen! Alle Tore</title>
 </programme>
-<programme start="20260225070000 +0000" stop="20260225073000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>WTA 1000: Review Dubai</title>
+<programme start="20260226080000 +0000" stop="20260226083000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Fußball: scooore Portugal! Alle Tore</title>
 </programme>
-<programme start="20260225073000 +0000" stop="20260225080000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Fußball: scooore Niederlande! Alle Tore</title>
+<programme start="20260226083000 +0000" stop="20260226090000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>2. BL: Dein Zweitligatalk - HvK &amp; Tusche</title>
 </programme>
-<programme start="20260225080000 +0000" stop="20260225090000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>PL: Review, 27. Spieltag</title>
+<programme start="20260226090000 +0000" stop="20260226093000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Frauen-BL: Alle Spiele, alle Tore, 19. Spieltag komplett</title>
 </programme>
-<programme start="20260225090000 +0000" stop="20260225093000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>2. BL: 90in30: S04 - FCM, 23. Spieltag</title>
+<programme start="20260226093000 +0000" stop="20260226094500 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>2. BL: Dein Spieltags-Sprint (23)</title>
 </programme>
-<programme start="20260225093000 +0000" stop="20260225100000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>BL: 90in30: RBL - BVB, 23. Spieltag</title>
+<programme start="20260226094500 +0000" stop="20260226100000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>BL: Dein Spieltags-Sprint (23)</title>
 </programme>
-<programme start="20260225100000 +0000" stop="20260225190000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live ATP 500: Dubai Duty Free Tennis Championships in Dubai (VAE), 3. Tag</title>
+<programme start="20260226100000 +0000" stop="20260226173500 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Live ATP 500: Dubai Duty Free Tennis Championships in Dubai (VAE), 4. Tag</title>
 </programme>
-<programme start="20260225190000 +0000" stop="20260225200000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>ATP 500: Review Doha</title>
+<programme start="20260226173500 +0000" stop="20260226195000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Live UEFA EL: Viktoria Pilsen - Panathinaikos Athen, Knockout Play-offs, Rückspiel</title>
 </programme>
-<programme start="20260225200000 +0000" stop="20260226000000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live WTA 500: Merida Open in Merida (MEX), 3. Tag</title>
+<programme start="20260226195000 +0000" stop="20260226220500 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Live UEFA EL: FC Bologna - SK Brann, Knockout Play-offs, Rückspiel</title>
+</programme>
+<programme start="20260226220500 +0000" stop="20260227000000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Live WTA 500: Merida Open in Merida (MEX), 4. Tag</title>
 </programme>
 <programme start="20260224231500 +0000" stop="20260224234500 +0000" channel="Sky Sport UHD.skyde">
     <title>Golf: Greatest Holes (5)</title>

@@ -5177,7 +5177,7 @@
         <title>25/26 A-League Men Round 10 Sydney FC vs Auckland FC</title>
     </programme>
     <programme start="20260225100000 +0000" stop="20260225103000 +0000" channel="SPOTV.starhub">
-        <title>2025/26 ALM Mini Match Rd 18 Central Coast Mariners FC vs Western Sydney Wanderers FC</title>
+        <title>2025/26 ALM Mini Match Rd 18 Central Coast Mariners FC vs Western Sydney Wandere</title>
     </programme>
     <programme start="20260225103000 +0000" stop="20260225122500 +0000" channel="SPOTV.starhub">
         <title>25/26 ROSHN Saudi League MW 10 Al Qadsiah vs Al Ettifaq</title>

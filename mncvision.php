@@ -2987,7 +2987,7 @@
     <title>Choices: Dare To Dream</title>
 </programme>
 <programme start="20260225103000 +0000" stop="20260225110000 +0000" channel="DW English.mncvision">
-    <title>Close Up: The Current Affairs</title>
+    <title>Close Up: Crans-Montana</title>
 </programme>
 <programme start="20260225110000 +0000" stop="20260225113000 +0000" channel="DW English.mncvision">
     <title>DW News</title>

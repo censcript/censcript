@@ -655,8 +655,8 @@
     <programme start="20260225150000 +0000" stop="20260225160000 +0000" channel="now-70s.mewatch">
         <title>The Best 1978 Party...Ever! - EP1</title>
     </programme>
-    <programme start="20260225160000 +0000" stop="20260225161000 +0000" channel="now-70s.mewatch">
-        <title>Bruno Brookes-Never Even A Top 10? - EP1</title>
+    <programme start="20260225160000 +0000" stop="20260225202500 +0000" channel="now-70s.mewatch">
+        <title>Essential 70s - The No 2s - EP1</title>
     </programme>
     <programme start="20260224143500 +0000" stop="20260224162000 +0000" channel="cinemaworld.mewatch">
         <title>The Daval Mystery</title>
@@ -790,10 +790,10 @@
     <programme start="20260224160000 +0000" stop="20260225040000 +0000" channel="Live 2.mewatch">
         <title>No Programme available now. Next Broadcast on 25th February, Wednesday 12.00pm. WTT Singapore Smash 2026</title>
     </programme>
-    <programme start="20260225040000 +0000" stop="20260225090000 +0000" channel="Live 2.mewatch">
+    <programme start="20260225040000 +0000" stop="20260225083700 +0000" channel="Live 2.mewatch">
         <title>WTT Singapore Smash 2026</title>
     </programme>
-    <programme start="20260225090000 +0000" stop="20260225100000 +0000" channel="Live 2.mewatch">
+    <programme start="20260225083700 +0000" stop="20260225100000 +0000" channel="Live 2.mewatch">
         <title>No Programme available now. Next Broadcast on 25th February, Wednesday 06.00pm. WTT Singapore Smash 2026</title>
     </programme>
     <programme start="20260225100000 +0000" stop="20260225150000 +0000" channel="Live 2.mewatch">
