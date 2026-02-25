@@ -3214,14 +3214,8 @@
     <programme start="20260224223000 +0000" stop="20260224230000 +0000" channel="DW English HD.starhub">
         <title>Religious coexistence across Africa</title>
     </programme>
-    <programme start="20260224230000 +0000" stop="20260224231500 +0000" channel="DW English HD.starhub">
-        <title>News</title>
-    </programme>
-    <programme start="20260224231500 +0000" stop="20260224233000 +0000" channel="DW English HD.starhub">
-        <title>Venezuela oil</title>
-    </programme>
     <programme start="20260224233000 +0000" stop="20260225000000 +0000" channel="DW English HD.starhub">
-        <title>What connects us all</title>
+        <title>Greenland&#039;s ice-covered minerals: No easy option</title>
     </programme>
     <programme start="20260225000000 +0000" stop="20260225000200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3230,10 +3224,10 @@
         <title>News in Review</title>
     </programme>
     <programme start="20260225003000 +0000" stop="20260225010000 +0000" channel="DW English HD.starhub">
-        <title>Your Business Magazine</title>
+        <title>Climate Change vs. Snow Cannons</title>
     </programme>
     <programme start="20260225010000 +0000" stop="20260225011500 +0000" channel="DW English HD.starhub">
-        <title>News</title>
+        <title>Venezuela&#039;s oil</title>
     </programme>
     <programme start="20260225011500 +0000" stop="20260225020000 +0000" channel="DW English HD.starhub">
         <title>When Night Falls in Istanbul</title>
@@ -3245,13 +3239,13 @@
         <title>News in Review</title>
     </programme>
     <programme start="20260225023000 +0000" stop="20260225030000 +0000" channel="DW English HD.starhub">
-        <title>What connects us all</title>
+        <title>Greenland&#039;s ice-covered minerals: No easy option</title>
     </programme>
     <programme start="20260225030000 +0000" stop="20260225031500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20260225031500 +0000" stop="20260225033000 +0000" channel="DW English HD.starhub">
-        <title>Venezuela oil</title>
+        <title>Venezuela&#039;s oil</title>
     </programme>
     <programme start="20260225033000 +0000" stop="20260225040000 +0000" channel="DW English HD.starhub">
         <title>Kenyan fish farmers aim high with drought-beating idea</title>
@@ -3269,13 +3263,13 @@
         <title>News in Review</title>
     </programme>
     <programme start="20260225053000 +0000" stop="20260225060000 +0000" channel="DW English HD.starhub">
-        <title>Your Business Magazine</title>
+        <title>Climate Change vs. Snow Cannons</title>
     </programme>
     <programme start="20260225060000 +0000" stop="20260225061500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20260225061500 +0000" stop="20260225063000 +0000" channel="DW English HD.starhub">
-        <title>Venezuela oil</title>
+        <title>Venezuela&#039;s oil</title>
     </programme>
     <programme start="20260225063000 +0000" stop="20260225070000 +0000" channel="DW English HD.starhub">
         <title>Making healthier and happier choices for a better life!</title>
@@ -3284,10 +3278,10 @@
         <title>News</title>
     </programme>
     <programme start="20260225071500 +0000" stop="20260225074500 +0000" channel="DW English HD.starhub">
-        <title>The Current Affairs Documentary</title>
+        <title>Crans-Montana - Life After the Swiss Fire Disaster</title>
     </programme>
     <programme start="20260225074500 +0000" stop="20260225080000 +0000" channel="DW English HD.starhub">
-        <title>On Location</title>
+        <title>Zambia’s Toxic Legacy: The Fight Against Lead</title>
     </programme>
     <programme start="20260225080000 +0000" stop="20260225081500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3308,7 +3302,7 @@
         <title>My desire for rap</title>
     </programme>
     <programme start="20260225103000 +0000" stop="20260225110000 +0000" channel="DW English HD.starhub">
-        <title>The Current Affairs Documentary</title>
+        <title>Crans-Montana - Life After the Swiss Fire Disaster</title>
     </programme>
     <programme start="20260225110000 +0000" stop="20260225111500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3317,7 +3311,7 @@
         <title>Talking money</title>
     </programme>
     <programme start="20260225113000 +0000" stop="20260225120000 +0000" channel="DW English HD.starhub">
-        <title>Your Business Magazine</title>
+        <title>Climate Change vs. Snow Cannons</title>
     </programme>
     <programme start="20260225120000 +0000" stop="20260225121500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3329,7 +3323,7 @@
         <title>News</title>
     </programme>
     <programme start="20260225131500 +0000" stop="20260225133000 +0000" channel="DW English HD.starhub">
-        <title>Canals of change</title>
+        <title>Can canals power global trade without wrecking nature?</title>
     </programme>
     <programme start="20260225133000 +0000" stop="20260225140000 +0000" channel="DW English HD.starhub">
         <title>Kenyan fish farmers aim high with drought-beating idea</title>
@@ -3341,13 +3335,13 @@
         <title>Painting my path as an illustrator</title>
     </programme>
     <programme start="20260225143000 +0000" stop="20260225150000 +0000" channel="DW English HD.starhub">
-        <title>Your Business Magazine</title>
+        <title>Climate Change vs. Snow Cannons</title>
     </programme>
     <programme start="20260225150000 +0000" stop="20260225151500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20260225151500 +0000" stop="20260225153000 +0000" channel="DW English HD.starhub">
-        <title>Canals of change</title>
+        <title>Can canals power global trade without wrecking nature?</title>
     </programme>
     <programme start="20260225153000 +0000" stop="20260225160000 +0000" channel="DW English HD.starhub">
         <title>When nature faces crisis, we step in</title>

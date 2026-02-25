@@ -8794,11 +8794,8 @@
 <programme start="20260225080000 +0000" stop="20260225100000 +0000" channel="SPOTV 2.mncvision">
     <title>2026 Dunlop Sydney 500</title>
 </programme>
-<programme start="20260225100000 +0000" stop="20260225133000 +0000" channel="SPOTV 2.mncvision">
+<programme start="20260225100000 +0000" stop="20260225140000 +0000" channel="SPOTV 2.mncvision">
     <title>WTT Singapore Smash 2026</title>
-</programme>
-<programme start="20260225133000 +0000" stop="20260225140000 +0000" channel="SPOTV 2.mncvision">
-    <title>MotoGP 2025 Spotlight</title>
 </programme>
 <programme start="20260225140000 +0000" stop="20260225150000 +0000" channel="SPOTV 2.mncvision">
     <title>2025/26 Asian Le Mans Dubai</title>
@@ -8821,11 +8818,8 @@
 <programme start="20260225080000 +0000" stop="20260225100000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>2026 Dunlop Sydney 500</title>
 </programme>
-<programme start="20260225100000 +0000" stop="20260225133000 +0000" channel="SPOTV 2 HD.mncvision">
+<programme start="20260225100000 +0000" stop="20260225140000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>WTT Singapore Smash 2026</title>
-</programme>
-<programme start="20260225133000 +0000" stop="20260225140000 +0000" channel="SPOTV 2 HD.mncvision">
-    <title>MotoGP 2025 Spotlight</title>
 </programme>
 <programme start="20260225140000 +0000" stop="20260225150000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>2025/26 Asian Le Mans Dubai</title>
