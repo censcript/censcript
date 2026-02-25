@@ -718,12 +718,6 @@
 <programme start="20260225111000 +0000" stop="20260225113000 +0000" channel="ANTV.vision">
 <title>Sepiring Berduet</title>
 </programme>
-<programme start="20260225113000 +0000" stop="20260225133000 +0000" channel="ANTV.vision">
-<title>Bajing Ireng &amp; Jaka Sembung</title>
-</programme>
-<programme start="20260225133000 +0000" stop="20260225153000 +0000" channel="ANTV.vision">
-<title>Jaka Tuak</title>
-</programme>
 <programme start="20260225153000 +0000" stop="20260225173000 +0000" channel="ANTV.vision">
 <title>Godain Kita Dong</title>
 </programme>
@@ -1497,4 +1491,10 @@
 </programme>
 <programme start="20260225111600 +0000" stop="20260225112100 +0000" channel="BTV.vision">
 <title>Azan Magrib</title>
+</programme>
+<programme start="20260225112100 +0000" stop="20260225112600 +0000" channel="BTV.vision">
+<title>Selamat Berbuka Puasa</title>
+</programme>
+<programme start="20260225112600 +0000" stop="20260225130000 +0000" channel="BTV.vision">
+<title>Berita Satu Utama</title>
 </programme>
