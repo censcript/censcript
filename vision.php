@@ -718,9 +718,6 @@
 <programme start="20260225111000 +0000" stop="20260225113000 +0000" channel="ANTV.vision">
 <title>Sepiring Berduet</title>
 </programme>
-<programme start="20260225153000 +0000" stop="20260225173000 +0000" channel="ANTV.vision">
-<title>Godain Kita Dong</title>
-</programme>
 <programme start="20260225173000 +0000" stop="20260225193000 +0000" channel="ANTV.vision">
 <title>Fire With Fire</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20260225112600 +0000" stop="20260225130000 +0000" channel="BTV.vision">
 <title>Berita Satu Utama</title>
+</programme>
+<programme start="20260225130000 +0000" stop="20260225140000 +0000" channel="BTV.vision">
+<title>Spot On</title>
 </programme>

@@ -5204,7 +5204,7 @@
         <title>Ep 1 Jeddah</title>
     </programme>
     <programme start="20260225163000 +0000" stop="20260225170000 +0000" channel="SPOTV.starhub">
-        <title>2025/26 ALM Mini Match Rd 18 Central Coast Mariners FC vs Western Sydney Wandere</title>
+        <title>2025/26 ALM Mini Match Rd 18 Central Coast Mariners FC vs Western Sydney Wanderers FC</title>
     </programme>
     <programme start="20260225170000 +0000" stop="20260225180000 +0000" channel="SPOTV.starhub">
         <title>Highlights</title>
