@@ -942,57 +942,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260226221500 +0000" stop="20260226230500 +0000" channel="Crime + Investigation.skyde">
     <title>Cold Case Files - Beweismittel DNA</title>
 </programme>
-<programme start="20260225230000 +0000" stop="20260226070000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Sendepause</title>
-</programme>
-<programme start="20260226070000 +0000" stop="20260226073000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
-</programme>
-<programme start="20260226073000 +0000" stop="20260226080000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Doppelpack Europa - Highlights der Serie A und Ligue 1 25/26: 26./23. Spieltag</title>
-</programme>
-<programme start="20260226080000 +0000" stop="20260226083000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Google Pixel Frauen-Bundesliga Highlightshow 25/26: 19. Spieltag</title>
-</programme>
-<programme start="20260226083000 +0000" stop="20260226103000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Bundesliga 25/26: 1. FSV Mainz 05 - Hamburger SV</title>
-</programme>
-<programme start="20260226103000 +0000" stop="20260226122500 +0000" channel="DAZN 1 HD.skyde">
-    <title>Bundesliga 25/26: RB Leipzig - Borussia Dortmund</title>
-</programme>
-<programme start="20260226122500 +0000" stop="20260226125000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
-</programme>
-<programme start="20260226125000 +0000" stop="20260226140500 +0000" channel="DAZN 1 HD.skyde">
-    <title>ALL IN - Die Bundesliga Highlight Show: 23. Spieltag</title>
-</programme>
-<programme start="20260226140500 +0000" stop="20260226160500 +0000" channel="DAZN 1 HD.skyde">
-    <title>Bundesliga 25/26: FC Bayern München - Eintracht Frankfurt</title>
-</programme>
-<programme start="20260226160500 +0000" stop="20260226162500 +0000" channel="DAZN 1 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
-</programme>
-<programme start="20260226162500 +0000" stop="20260226165500 +0000" channel="DAZN 1 HD.skyde">
-    <title>Doppelpack Europa - Highlights der Serie A und Ligue 1 25/26: 26./23. Spieltag</title>
-</programme>
-<programme start="20260226165500 +0000" stop="20260226173000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Google Pixel Frauen-Bundesliga Highlightshow 25/26: 19. Spieltag</title>
-</programme>
-<programme start="20260226173000 +0000" stop="20260226192000 +0000" channel="DAZN 1 HD.skyde">
-    <title>EHF Champions League 25/26: Füchse Berlin - KS Vive Kielce</title>
-</programme>
-<programme start="20260226192000 +0000" stop="20260226193000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
-</programme>
-<programme start="20260226193000 +0000" stop="20260226212000 +0000" channel="DAZN 1 HD.skyde">
-    <title>EHF Champions League 25/26: ORLEN Wisla Plock - SC Magdeburg</title>
-</programme>
-<programme start="20260226212000 +0000" stop="20260226214500 +0000" channel="DAZN 1 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
-</programme>
-<programme start="20260226214500 +0000" stop="20260226230000 +0000" channel="DAZN 1 HD.skyde">
-    <title>ALL IN - Die Bundesliga Highlight Show: 23. Spieltag</title>
-</programme>
 <programme start="20260225230000 +0000" stop="20260226070000 +0000" channel="DAZN 2 HD.skyde">
     <title>Sendepause</title>
 </programme>
@@ -2846,9 +2795,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 </programme>
 <programme start="20260226070000 +0000" stop="20260226071500 +0000" channel="Sky Sport Bundesliga UHD.skyde">
     <title>Info: UHD</title>
-</programme>
-<programme start="20260226120000 +0000" stop="20260226160000 +0000" channel="Sky Sport Bundesliga 8 HD.skyde">
-    <title>Test Bundesliga 08</title>
 </programme>
 <programme start="20260225230000 +0000" stop="20260226010000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Rennen - GP Singapur 2025</title>
