@@ -7921,9 +7921,114 @@
 <programme start="20260226164500 +0000" stop="20260225171500 +0000" channel="Rock Entertainment.mncvision">
     <title>The Tonight Show S13, Ep 69</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260225171500 +0000" stop="20260225181500 +0000" channel="SCTV.mncvision">
+    <title>Selembut Cinta Pancake Durian</title>
+</programme>
+<programme start="20260225181500 +0000" stop="20260225193000 +0000" channel="SCTV.mncvision">
+    <title>Lorong Waktu</title>
+</programme>
+<programme start="20260225193000 +0000" stop="20260225212300 +0000" channel="SCTV.mncvision">
+    <title>Para Pencari Tuhan Jilid 19</title>
+</programme>
+<programme start="20260225212300 +0000" stop="20260225230000 +0000" channel="SCTV.mncvision">
+    <title>Lorong Waktu Jilid 2</title>
+</programme>
+<programme start="20260225230000 +0000" stop="20260226000000 +0000" channel="SCTV.mncvision">
+    <title>Liputan 6 Pagi (L)</title>
+</programme>
+<programme start="20260226000000 +0000" stop="20260226001500 +0000" channel="SCTV.mncvision">
+    <title>Halo Selebriti</title>
+</programme>
+<programme start="20260226001500 +0000" stop="20260226011500 +0000" channel="SCTV.mncvision">
+    <title>Tiba-Tiba Kuis</title>
+</programme>
+<programme start="20260226011500 +0000" stop="20260226024500 +0000" channel="SCTV.mncvision">
+    <title>Montir Ambyar Kecanduan...</title>
+</programme>
+<programme start="20260226024500 +0000" stop="20260226050000 +0000" channel="SCTV.mncvision">
+    <title>OMG Mamaku Cantiknya No...</title>
+</programme>
+<programme start="20260226050000 +0000" stop="20260226051500 +0000" channel="SCTV.mncvision">
+    <title>Liputan 6 Siang (L)</title>
+</programme>
+<programme start="20260226051500 +0000" stop="20260226063000 +0000" channel="SCTV.mncvision">
+    <title>Abang Sayur Eneng Sayang</title>
+</programme>
+<programme start="20260226063000 +0000" stop="20260226081500 +0000" channel="SCTV.mncvision">
+    <title>Resep Cinta Kaki Lima Rasa...</title>
+</programme>
+<programme start="20260226081500 +0000" stop="20260226094500 +0000" channel="SCTV.mncvision">
+    <title>Petualangan Rahasia Queena</title>
+</programme>
+<programme start="20260226094500 +0000" stop="20260226111500 +0000" channel="SCTV.mncvision">
+    <title>Asmara Gen Z</title>
+</programme>
+<programme start="20260226111500 +0000" stop="20260226130000 +0000" channel="SCTV.mncvision">
+    <title>Istiqomah Cinta</title>
+</programme>
+<programme start="20260226130000 +0000" stop="20260226143000 +0000" channel="SCTV.mncvision">
+    <title>Beri Cinta Waktu</title>
+</programme>
+<programme start="20260226143000 +0000" stop="20260226160000 +0000" channel="SCTV.mncvision">
+    <title>Jejak Duka Diandra</title>
+</programme>
+<programme start="20260226160000 +0000" stop="20260226163000 +0000" channel="SCTV.mncvision">
+    <title>Kekuatan Cintamu...</title>
+</programme>
+<programme start="20260225171500 +0000" stop="20260225181500 +0000" channel="SCTV HD.mncvision">
+    <title>Selembut Cinta Pancake Durian</title>
+</programme>
+<programme start="20260225181500 +0000" stop="20260225193000 +0000" channel="SCTV HD.mncvision">
+    <title>Lorong Waktu</title>
+</programme>
+<programme start="20260225193000 +0000" stop="20260225212300 +0000" channel="SCTV HD.mncvision">
+    <title>Para Pencari Tuhan Jilid 19</title>
+</programme>
+<programme start="20260225212300 +0000" stop="20260225230000 +0000" channel="SCTV HD.mncvision">
+    <title>Lorong Waktu Jilid 2</title>
+</programme>
+<programme start="20260225230000 +0000" stop="20260226000000 +0000" channel="SCTV HD.mncvision">
+    <title>Liputan 6 Pagi (L)</title>
+</programme>
+<programme start="20260226000000 +0000" stop="20260226001500 +0000" channel="SCTV HD.mncvision">
+    <title>Halo Selebriti</title>
+</programme>
+<programme start="20260226001500 +0000" stop="20260226011500 +0000" channel="SCTV HD.mncvision">
+    <title>Tiba-Tiba Kuis</title>
+</programme>
+<programme start="20260226011500 +0000" stop="20260226024500 +0000" channel="SCTV HD.mncvision">
+    <title>Montir Ambyar Kecanduan...</title>
+</programme>
+<programme start="20260226024500 +0000" stop="20260226050000 +0000" channel="SCTV HD.mncvision">
+    <title>OMG Mamaku Cantiknya No...</title>
+</programme>
+<programme start="20260226050000 +0000" stop="20260226051500 +0000" channel="SCTV HD.mncvision">
+    <title>Liputan 6 Siang (L)</title>
+</programme>
+<programme start="20260226051500 +0000" stop="20260226063000 +0000" channel="SCTV HD.mncvision">
+    <title>Abang Sayur Eneng Sayang</title>
+</programme>
+<programme start="20260226063000 +0000" stop="20260226081500 +0000" channel="SCTV HD.mncvision">
+    <title>Resep Cinta Kaki Lima Rasa...</title>
+</programme>
+<programme start="20260226081500 +0000" stop="20260226094500 +0000" channel="SCTV HD.mncvision">
+    <title>Petualangan Rahasia Queena</title>
+</programme>
+<programme start="20260226094500 +0000" stop="20260226111500 +0000" channel="SCTV HD.mncvision">
+    <title>Asmara Gen Z</title>
+</programme>
+<programme start="20260226111500 +0000" stop="20260226130000 +0000" channel="SCTV HD.mncvision">
+    <title>Istiqomah Cinta</title>
+</programme>
+<programme start="20260226130000 +0000" stop="20260226143000 +0000" channel="SCTV HD.mncvision">
+    <title>Beri Cinta Waktu</title>
+</programme>
+<programme start="20260226143000 +0000" stop="20260226160000 +0000" channel="SCTV HD.mncvision">
+    <title>Jejak Duka Diandra</title>
+</programme>
+<programme start="20260226160000 +0000" stop="20260226163000 +0000" channel="SCTV HD.mncvision">
+    <title>Kekuatan Cintamu...</title>
+</programme>
 <programme start="20260225170000 +0000" stop="20260225173000 +0000" channel="Sindo News TV.mncvision">
     <title>iNews Sport</title>
 </programme>
@@ -8386,10 +8491,192 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260226150000 +0000" stop="20260226153000 +0000" channel="Sportstars 3.mncvision">
     <title>AFC Futsal Asian Cup 2026</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260225170000 +0000" stop="20260225190000 +0000" channel="sportstars 3 HD.mncvision">
+    <title>Bundesliga</title>
+</programme>
+<programme start="20260225190000 +0000" stop="20260225210000 +0000" channel="sportstars 3 HD.mncvision">
+    <title>BRI Liga 1</title>
+</programme>
+<programme start="20260225210000 +0000" stop="20260225230000 +0000" channel="sportstars 3 HD.mncvision">
+    <title>Sportacular Match</title>
+</programme>
+<programme start="20260225230000 +0000" stop="20260226010000 +0000" channel="sportstars 3 HD.mncvision">
+    <title>Bundesliga</title>
+</programme>
+<programme start="20260226010000 +0000" stop="20260226030000 +0000" channel="sportstars 3 HD.mncvision">
+    <title>AFC Futsal Asian Cup 2026</title>
+</programme>
+<programme start="20260226030000 +0000" stop="20260226050000 +0000" channel="sportstars 3 HD.mncvision">
+    <title>BRI Liga 1</title>
+</programme>
+<programme start="20260226050000 +0000" stop="20260226070000 +0000" channel="sportstars 3 HD.mncvision">
+    <title>Bundesliga</title>
+</programme>
+<programme start="20260226070000 +0000" stop="20260226090000 +0000" channel="sportstars 3 HD.mncvision">
+    <title>Sportacular Match</title>
+</programme>
+<programme start="20260226090000 +0000" stop="20260226093000 +0000" channel="sportstars 3 HD.mncvision">
+    <title>Top Goals</title>
+</programme>
+<programme start="20260226093000 +0000" stop="20260226100000 +0000" channel="sportstars 3 HD.mncvision">
+    <title>Planet Football</title>
+</programme>
+<programme start="20260226100000 +0000" stop="20260226120000 +0000" channel="sportstars 3 HD.mncvision">
+    <title>V-League Women (L)</title>
+</programme>
+<programme start="20260226120000 +0000" stop="20260226123000 +0000" channel="sportstars 3 HD.mncvision">
+    <title>Top Goals</title>
+</programme>
+<programme start="20260226123000 +0000" stop="20260226130000 +0000" channel="sportstars 3 HD.mncvision">
+    <title>Planet Football</title>
+</programme>
+<programme start="20260226130000 +0000" stop="20260226150000 +0000" channel="sportstars 3 HD.mncvision">
+    <title>Sportacular Match</title>
+</programme>
+<programme start="20260226150000 +0000" stop="20260226153000 +0000" channel="sportstars 3 HD.mncvision">
+    <title>AFC Futsal Asian Cup 2026</title>
+</programme>
+<programme start="20260225170000 +0000" stop="20260225190000 +0000" channel="Sportstars 4.mncvision">
+    <title>Bundesliga</title>
+</programme>
+<programme start="20260225190000 +0000" stop="20260225210000 +0000" channel="Sportstars 4.mncvision">
+    <title>BRI Liga 1</title>
+</programme>
+<programme start="20260225210000 +0000" stop="20260225230000 +0000" channel="Sportstars 4.mncvision">
+    <title>Sportacular Match</title>
+</programme>
+<programme start="20260225230000 +0000" stop="20260225233000 +0000" channel="Sportstars 4.mncvision">
+    <title>The Ultimate Goals</title>
+</programme>
+<programme start="20260225233000 +0000" stop="20260226000000 +0000" channel="Sportstars 4.mncvision">
+    <title>Bloopers</title>
+</programme>
+<programme start="20260226000000 +0000" stop="20260226030000 +0000" channel="Sportstars 4.mncvision">
+    <title>Best Of Badminton</title>
+</programme>
+<programme start="20260226030000 +0000" stop="20260226050000 +0000" channel="Sportstars 4.mncvision">
+    <title>V-League Men</title>
+</programme>
+<programme start="20260226050000 +0000" stop="20260226070000 +0000" channel="Sportstars 4.mncvision">
+    <title>V-League Women</title>
+</programme>
+<programme start="20260226070000 +0000" stop="20260226090000 +0000" channel="Sportstars 4.mncvision">
+    <title>Sportacular Match</title>
+</programme>
+<programme start="20260226090000 +0000" stop="20260226110000 +0000" channel="Sportstars 4.mncvision">
+    <title>V-League Men</title>
+</programme>
+<programme start="20260226110000 +0000" stop="20260226113000 +0000" channel="Sportstars 4.mncvision">
+    <title>Bloopers</title>
+</programme>
+<programme start="20260226113000 +0000" stop="20260226133000 +0000" channel="Sportstars 4.mncvision">
+    <title>V-League Women</title>
+</programme>
+<programme start="20260226133000 +0000" stop="20260226163000 +0000" channel="Sportstars 4.mncvision">
+    <title>Best Of Badminton</title>
+</programme>
+<programme start="20260226163000 +0000" stop="20260225170000 +0000" channel="Sportstars 4.mncvision">
+    <title>Bloopers</title>
+</programme>
+<programme start="20260225170000 +0000" stop="20260225190000 +0000" channel="Sportstars 4 HD.mncvision">
+    <title>Bundesliga</title>
+</programme>
+<programme start="20260225190000 +0000" stop="20260225210000 +0000" channel="Sportstars 4 HD.mncvision">
+    <title>BRI Liga 1</title>
+</programme>
+<programme start="20260225210000 +0000" stop="20260225230000 +0000" channel="Sportstars 4 HD.mncvision">
+    <title>Sportacular Match</title>
+</programme>
+<programme start="20260225230000 +0000" stop="20260225233000 +0000" channel="Sportstars 4 HD.mncvision">
+    <title>The Ultimate Goals</title>
+</programme>
+<programme start="20260225233000 +0000" stop="20260226000000 +0000" channel="Sportstars 4 HD.mncvision">
+    <title>Bloopers</title>
+</programme>
+<programme start="20260226000000 +0000" stop="20260226030000 +0000" channel="Sportstars 4 HD.mncvision">
+    <title>Best Of Badminton</title>
+</programme>
+<programme start="20260226030000 +0000" stop="20260226050000 +0000" channel="Sportstars 4 HD.mncvision">
+    <title>V-League Men</title>
+</programme>
+<programme start="20260226050000 +0000" stop="20260226070000 +0000" channel="Sportstars 4 HD.mncvision">
+    <title>V-League Women</title>
+</programme>
+<programme start="20260226070000 +0000" stop="20260226090000 +0000" channel="Sportstars 4 HD.mncvision">
+    <title>Sportacular Match</title>
+</programme>
+<programme start="20260226090000 +0000" stop="20260226110000 +0000" channel="Sportstars 4 HD.mncvision">
+    <title>V-League Men</title>
+</programme>
+<programme start="20260226110000 +0000" stop="20260226113000 +0000" channel="Sportstars 4 HD.mncvision">
+    <title>Bloopers</title>
+</programme>
+<programme start="20260226113000 +0000" stop="20260226133000 +0000" channel="Sportstars 4 HD.mncvision">
+    <title>V-League Women</title>
+</programme>
+<programme start="20260226133000 +0000" stop="20260226163000 +0000" channel="Sportstars 4 HD.mncvision">
+    <title>Best Of Badminton</title>
+</programme>
+<programme start="20260226163000 +0000" stop="20260225170000 +0000" channel="Sportstars 4 HD.mncvision">
+    <title>Bloopers</title>
+</programme>
+<programme start="20260225173000 +0000" stop="20260225200000 +0000" channel="Sportstars HD.mncvision">
+    <title>Best Of Badminton</title>
+</programme>
+<programme start="20260225200000 +0000" stop="20260225203000 +0000" channel="Sportstars HD.mncvision">
+    <title>Sports Today</title>
+</programme>
+<programme start="20260225203000 +0000" stop="20260225210000 +0000" channel="Sportstars HD.mncvision">
+    <title>iNews Sport</title>
+</programme>
+<programme start="20260225210000 +0000" stop="20260225230000 +0000" channel="Sportstars HD.mncvision">
+    <title>SEA Games Thailand 2025</title>
+</programme>
+<programme start="20260225230000 +0000" stop="20260225233000 +0000" channel="Sportstars HD.mncvision">
+    <title>Sports Today</title>
+</programme>
+<programme start="20260225233000 +0000" stop="20260226000000 +0000" channel="Sportstars HD.mncvision">
+    <title>Bloopers</title>
+</programme>
+<programme start="20260226000000 +0000" stop="20260226003000 +0000" channel="Sportstars HD.mncvision">
+    <title>Sportrivia</title>
+</programme>
+<programme start="20260226003000 +0000" stop="20260226023000 +0000" channel="Sportstars HD.mncvision">
+    <title>V-League 2025-2026 Men</title>
+</programme>
+<programme start="20260226023000 +0000" stop="20260226043000 +0000" channel="Sportstars HD.mncvision">
+    <title>V-League 2025-2026 Women</title>
+</programme>
+<programme start="20260226043000 +0000" stop="20260226050000 +0000" channel="Sportstars HD.mncvision">
+    <title>Sports Today</title>
+</programme>
+<programme start="20260226050000 +0000" stop="20260226053000 +0000" channel="Sportstars HD.mncvision">
+    <title>iNews Sport</title>
+</programme>
+<programme start="20260226053000 +0000" stop="20260226080000 +0000" channel="Sportstars HD.mncvision">
+    <title>Best Of Badminton</title>
+</programme>
+<programme start="20260226080000 +0000" stop="20260226100000 +0000" channel="Sportstars HD.mncvision">
+    <title>SEA Games Thailand 2025</title>
+</programme>
+<programme start="20260226100000 +0000" stop="20260226120000 +0000" channel="Sportstars HD.mncvision">
+    <title>V-League 2025-2026 Men (L)</title>
+</programme>
+<programme start="20260226120000 +0000" stop="20260226123000 +0000" channel="Sportstars HD.mncvision">
+    <title>Sportrivia</title>
+</programme>
+<programme start="20260226123000 +0000" stop="20260226130000 +0000" channel="Sportstars HD.mncvision">
+    <title>Sportrivia</title>
+</programme>
+<programme start="20260226130000 +0000" stop="20260226133000 +0000" channel="Sportstars HD.mncvision">
+    <title>Sports Today</title>
+</programme>
+<programme start="20260226133000 +0000" stop="20260226153000 +0000" channel="Sportstars HD.mncvision">
+    <title>V-League 2025-2026 Women</title>
+</programme>
+<programme start="20260226153000 +0000" stop="20260226160000 +0000" channel="Sportstars HD.mncvision">
+    <title>V-League 2025-2026 Men</title>
+</programme>
 <programme start="20260225170000 +0000" stop="20260225180000 +0000" channel="SPOTV.mncvision">
     <title>2026 WorldSBK: Australian HL</title>
 </programme>
@@ -8441,10 +8728,147 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260226160000 +0000" stop="20260226163000 +0000" channel="SPOTV.mncvision">
     <title>25/26 Roshn Saudi League</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260225170000 +0000" stop="20260225180000 +0000" channel="SPOTV 2.mncvision">
+    <title>2025/26 Asian Le Mans Dubai</title>
+</programme>
+<programme start="20260225180000 +0000" stop="20260225233000 +0000" channel="SPOTV 2.mncvision">
+    <title>2026 LIV Golf League, Adelaide</title>
+</programme>
+<programme start="20260225233000 +0000" stop="20260226033000 +0000" channel="SPOTV 2.mncvision">
+    <title>WTT Singapore Smash 2026</title>
+</programme>
+<programme start="20260226033000 +0000" stop="20260226053000 +0000" channel="SPOTV 2.mncvision">
+    <title>A-League Men: WEL Vs AUC</title>
+</programme>
+<programme start="20260226053000 +0000" stop="20260226073000 +0000" channel="SPOTV 2.mncvision">
+    <title>Roshn Saudi League 25/26</title>
+</programme>
+<programme start="20260226073000 +0000" stop="20260226080000 +0000" channel="SPOTV 2.mncvision">
+    <title>2025/26 ALM Mini Match</title>
+</programme>
+<programme start="20260226080000 +0000" stop="20260226100000 +0000" channel="SPOTV 2.mncvision">
+    <title>2026 Dunlop Sydney 500</title>
+</programme>
+<programme start="20260226100000 +0000" stop="20260226140000 +0000" channel="SPOTV 2.mncvision">
+    <title>WTT Singapore Smash 2026</title>
+</programme>
+<programme start="20260226140000 +0000" stop="20260226143000 +0000" channel="SPOTV 2.mncvision">
+    <title>World Pickleball League Mumbai</title>
+</programme>
+<programme start="20260225170000 +0000" stop="20260225180000 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>2025/26 Asian Le Mans Dubai</title>
+</programme>
+<programme start="20260225180000 +0000" stop="20260225233000 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>2026 LIV Golf League, Adelaide</title>
+</programme>
+<programme start="20260225233000 +0000" stop="20260226033000 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>WTT Singapore Smash 2026</title>
+</programme>
+<programme start="20260226033000 +0000" stop="20260226053000 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>A-League Men: WEL Vs AUC</title>
+</programme>
+<programme start="20260226053000 +0000" stop="20260226073000 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>Roshn Saudi League 25/26</title>
+</programme>
+<programme start="20260226073000 +0000" stop="20260226080000 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>2025/26 ALM Mini Match</title>
+</programme>
+<programme start="20260226080000 +0000" stop="20260226100000 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>2026 Dunlop Sydney 500</title>
+</programme>
+<programme start="20260226100000 +0000" stop="20260226140000 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>WTT Singapore Smash 2026</title>
+</programme>
+<programme start="20260226140000 +0000" stop="20260226143000 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>World Pickleball League Mumbai</title>
+</programme>
+<programme start="20260225170000 +0000" stop="20260225180000 +0000" channel="SPOTV HD.mncvision">
+    <title>2026 WorldSBK: Australian HL</title>
+</programme>
+<programme start="20260225180000 +0000" stop="20260225184500 +0000" channel="SPOTV HD.mncvision">
+    <title>BXL 2025: BXL Rewind</title>
+</programme>
+<programme start="20260225184500 +0000" stop="20260225193000 +0000" channel="SPOTV HD.mncvision">
+    <title>BXL 2025: BXL Rewind</title>
+</programme>
+<programme start="20260225193000 +0000" stop="20260225203500 +0000" channel="SPOTV HD.mncvision">
+    <title>2026 WorldSBK: Australian</title>
+</programme>
+<programme start="20260225203500 +0000" stop="20260225224000 +0000" channel="SPOTV HD.mncvision">
+    <title>2026 WorldSBK: Australian</title>
+</programme>
+<programme start="20260225224000 +0000" stop="20260225232000 +0000" channel="SPOTV HD.mncvision">
+    <title>2026 WorldSBK: Australian</title>
+</programme>
+<programme start="20260225232000 +0000" stop="20260226000500 +0000" channel="SPOTV HD.mncvision">
+    <title>2026 WorldSBK: Australian</title>
+</programme>
+<programme start="20260226000500 +0000" stop="20260226024500 +0000" channel="SPOTV HD.mncvision">
+    <title>2026 WorldSBK: Australian</title>
+</programme>
+<programme start="20260226024500 +0000" stop="20260226034000 +0000" channel="SPOTV HD.mncvision">
+    <title>2026 WorldSBK: Australian</title>
+</programme>
+<programme start="20260226034000 +0000" stop="20260226063000 +0000" channel="SPOTV HD.mncvision">
+    <title>2026 WorldSBK: Australian</title>
+</programme>
+<programme start="20260226063000 +0000" stop="20260226073000 +0000" channel="SPOTV HD.mncvision">
+    <title>2026 WorldSBK: Australian HL</title>
+</programme>
+<programme start="20260226073000 +0000" stop="20260226080000 +0000" channel="SPOTV HD.mncvision">
+    <title>ALM Mini Match: WEL Vs AKL</title>
+</programme>
+<programme start="20260226080000 +0000" stop="20260226100000 +0000" channel="SPOTV HD.mncvision">
+    <title>25/26 Roshn Saudi League</title>
+</programme>
+<programme start="20260226100000 +0000" stop="20260226120000 +0000" channel="SPOTV HD.mncvision">
+    <title>25/26 Roshn Saudi League</title>
+</programme>
+<programme start="20260226120000 +0000" stop="20260226140000 +0000" channel="SPOTV HD.mncvision">
+    <title>A-League Men: ADL Vs PER</title>
+</programme>
+<programme start="20260226140000 +0000" stop="20260226160000 +0000" channel="SPOTV HD.mncvision">
+    <title>A-League Men: NEW Vs MAC</title>
+</programme>
+<programme start="20260226160000 +0000" stop="20260226163000 +0000" channel="SPOTV HD.mncvision">
+    <title>25/26 Roshn Saudi League</title>
+</programme>
+<programme start="20260225171500 +0000" stop="20260225200500 +0000" channel="Studio Universal.mncvision">
+    <title>Scarface</title>
+</programme>
+<programme start="20260225200500 +0000" stop="20260225222000 +0000" channel="Studio Universal.mncvision">
+    <title>Battleship</title>
+</programme>
+<programme start="20260225222000 +0000" stop="20260225230000 +0000" channel="Studio Universal.mncvision">
+    <title>Jurassic World Rebirth: New Era</title>
+</programme>
+<programme start="20260225230000 +0000" stop="20260226011000 +0000" channel="Studio Universal.mncvision">
+    <title>Fast Five</title>
+</programme>
+<programme start="20260226011000 +0000" stop="20260226022500 +0000" channel="Studio Universal.mncvision">
+    <title>Balto</title>
+</programme>
+<programme start="20260226022500 +0000" stop="20260226051500 +0000" channel="Studio Universal.mncvision">
+    <title>Scarface</title>
+</programme>
+<programme start="20260226051500 +0000" stop="20260226073000 +0000" channel="Studio Universal.mncvision">
+    <title>Battleship</title>
+</programme>
+<programme start="20260226073000 +0000" stop="20260226094000 +0000" channel="Studio Universal.mncvision">
+    <title>Fast Five</title>
+</programme>
+<programme start="20260226094000 +0000" stop="20260226113500 +0000" channel="Studio Universal.mncvision">
+    <title>E.T. The Extra-Terrestrial</title>
+</programme>
+<programme start="20260226113500 +0000" stop="20260226131500 +0000" channel="Studio Universal.mncvision">
+    <title>Kicking &amp; Screaming</title>
+</programme>
+<programme start="20260226131500 +0000" stop="20260226153000 +0000" channel="Studio Universal.mncvision">
+    <title>Van Helsing</title>
+</programme>
+<programme start="20260226153000 +0000" stop="20260226160000 +0000" channel="Studio Universal.mncvision">
+    <title>Fast &amp; Furious 6</title>
+</programme>
 <programme start="20260225171500 +0000" stop="20260225200500 +0000" channel="Studio Universal HD.mncvision">
     <title>Scarface</title>
 </programme>
@@ -8481,9 +8905,213 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260226153000 +0000" stop="20260226160000 +0000" channel="Studio Universal HD.mncvision">
     <title>Fast &amp; Furious 6</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260225180200 +0000" stop="20260225195100 +0000" channel="Superrix.mncvision">
+    <title>Cream Of The Crop</title>
+</programme>
+<programme start="20260225195100 +0000" stop="20260225213900 +0000" channel="Superrix.mncvision">
+    <title>Apex</title>
+</programme>
+<programme start="20260225213900 +0000" stop="20260225234700 +0000" channel="Superrix.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20260225234700 +0000" stop="20260226012800 +0000" channel="Superrix.mncvision">
+    <title>Cycle</title>
+</programme>
+<programme start="20260226012800 +0000" stop="20260226035700 +0000" channel="Superrix.mncvision">
+    <title>Gold</title>
+</programme>
+<programme start="20260226035700 +0000" stop="20260226051800 +0000" channel="Superrix.mncvision">
+    <title>In The Name Of God</title>
+</programme>
+<programme start="20260226051800 +0000" stop="20260226072300 +0000" channel="Superrix.mncvision">
+    <title>Bottom Of The 9th</title>
+</programme>
+<programme start="20260226072300 +0000" stop="20260226093300 +0000" channel="Superrix.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20260226093300 +0000" stop="20260226113100 +0000" channel="Superrix.mncvision">
+    <title>Flight 404</title>
+</programme>
+<programme start="20260226113100 +0000" stop="20260226133000 +0000" channel="Superrix.mncvision">
+    <title>Gold</title>
+</programme>
+<programme start="20260226133000 +0000" stop="20260226143700 +0000" channel="Superrix.mncvision">
+    <title>December Horses</title>
+</programme>
+<programme start="20260226143700 +0000" stop="20260226164200 +0000" channel="Superrix.mncvision">
+    <title>Bottom Of The 9th</title>
+</programme>
+<programme start="20260226164200 +0000" stop="20260225171200 +0000" channel="Superrix.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20260225180200 +0000" stop="20260225195100 +0000" channel="Superrix HD.mncvision">
+    <title>Cream Of The Crop</title>
+</programme>
+<programme start="20260225195100 +0000" stop="20260225213900 +0000" channel="Superrix HD.mncvision">
+    <title>Apex</title>
+</programme>
+<programme start="20260225213900 +0000" stop="20260225234700 +0000" channel="Superrix HD.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20260225234700 +0000" stop="20260226012800 +0000" channel="Superrix HD.mncvision">
+    <title>Cycle</title>
+</programme>
+<programme start="20260226012800 +0000" stop="20260226035700 +0000" channel="Superrix HD.mncvision">
+    <title>Gold</title>
+</programme>
+<programme start="20260226035700 +0000" stop="20260226051800 +0000" channel="Superrix HD.mncvision">
+    <title>In The Name Of God</title>
+</programme>
+<programme start="20260226051800 +0000" stop="20260226072300 +0000" channel="Superrix HD.mncvision">
+    <title>Bottom Of The 9th</title>
+</programme>
+<programme start="20260226072300 +0000" stop="20260226093300 +0000" channel="Superrix HD.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20260226093300 +0000" stop="20260226113100 +0000" channel="Superrix HD.mncvision">
+    <title>Flight 404</title>
+</programme>
+<programme start="20260226113100 +0000" stop="20260226133000 +0000" channel="Superrix HD.mncvision">
+    <title>Gold</title>
+</programme>
+<programme start="20260226133000 +0000" stop="20260226143700 +0000" channel="Superrix HD.mncvision">
+    <title>December Horses</title>
+</programme>
+<programme start="20260226143700 +0000" stop="20260226164200 +0000" channel="Superrix HD.mncvision">
+    <title>Bottom Of The 9th</title>
+</programme>
+<programme start="20260226164200 +0000" stop="20260225171200 +0000" channel="Superrix HD.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20260225170000 +0000" stop="20260225173000 +0000" channel="Tawaf TV.mncvision">
+    <title>DMI TV</title>
+</programme>
+<programme start="20260225173000 +0000" stop="20260225183000 +0000" channel="Tawaf TV.mncvision">
+    <title>DMI TV</title>
+</programme>
+<programme start="20260225183000 +0000" stop="20260225190000 +0000" channel="Tawaf TV.mncvision">
+    <title>DMI TV</title>
+</programme>
+<programme start="20260225190000 +0000" stop="20260225193000 +0000" channel="Tawaf TV.mncvision">
+    <title>DMI TV</title>
+</programme>
+<programme start="20260225193000 +0000" stop="20260225200000 +0000" channel="Tawaf TV.mncvision">
+    <title>DMI TV</title>
+</programme>
+<programme start="20260225200000 +0000" stop="20260225203000 +0000" channel="Tawaf TV.mncvision">
+    <title>DMI TV</title>
+</programme>
+<programme start="20260225203000 +0000" stop="20260225210000 +0000" channel="Tawaf TV.mncvision">
+    <title>DMI TV</title>
+</programme>
+<programme start="20260225210000 +0000" stop="20260225213000 +0000" channel="Tawaf TV.mncvision">
+    <title>DMI TV</title>
+</programme>
+<programme start="20260225213000 +0000" stop="20260225220000 +0000" channel="Tawaf TV.mncvision">
+    <title>DMI TV</title>
+</programme>
+<programme start="20260225220000 +0000" stop="20260225223000 +0000" channel="Tawaf TV.mncvision">
+    <title>DMI TV</title>
+</programme>
+<programme start="20260225223000 +0000" stop="20260225230000 +0000" channel="Tawaf TV.mncvision">
+    <title>DMI TV</title>
+</programme>
+<programme start="20260225230000 +0000" stop="20260226000000 +0000" channel="Tawaf TV.mncvision">
+    <title>DMI TV</title>
+</programme>
+<programme start="20260226000000 +0000" stop="20260226003000 +0000" channel="Tawaf TV.mncvision">
+    <title>DMI TV</title>
+</programme>
+<programme start="20260226003000 +0000" stop="20260226010000 +0000" channel="Tawaf TV.mncvision">
+    <title>DMI TV</title>
+</programme>
+<programme start="20260226010000 +0000" stop="20260226020000 +0000" channel="Tawaf TV.mncvision">
+    <title>DMI TV</title>
+</programme>
+<programme start="20260226020000 +0000" stop="20260226023000 +0000" channel="Tawaf TV.mncvision">
+    <title>DMI TV</title>
+</programme>
+<programme start="20260226023000 +0000" stop="20260226030000 +0000" channel="Tawaf TV.mncvision">
+    <title>DMI TV</title>
+</programme>
+<programme start="20260226030000 +0000" stop="20260226033000 +0000" channel="Tawaf TV.mncvision">
+    <title>DMI TV</title>
+</programme>
+<programme start="20260226033000 +0000" stop="20260226040000 +0000" channel="Tawaf TV.mncvision">
+    <title>DMI TV</title>
+</programme>
+<programme start="20260226040000 +0000" stop="20260226043000 +0000" channel="Tawaf TV.mncvision">
+    <title>DMI TV</title>
+</programme>
+<programme start="20260226043000 +0000" stop="20260226050000 +0000" channel="Tawaf TV.mncvision">
+    <title>DMI TV</title>
+</programme>
+<programme start="20260226050000 +0000" stop="20260226053000 +0000" channel="Tawaf TV.mncvision">
+    <title>DMI TV</title>
+</programme>
+<programme start="20260226053000 +0000" stop="20260226060000 +0000" channel="Tawaf TV.mncvision">
+    <title>DMI TV</title>
+</programme>
+<programme start="20260226060000 +0000" stop="20260226070000 +0000" channel="Tawaf TV.mncvision">
+    <title>DMI TV</title>
+</programme>
+<programme start="20260226070000 +0000" stop="20260226073000 +0000" channel="Tawaf TV.mncvision">
+    <title>DMI TV</title>
+</programme>
+<programme start="20260226073000 +0000" stop="20260226080000 +0000" channel="Tawaf TV.mncvision">
+    <title>DMI TV</title>
+</programme>
+<programme start="20260226080000 +0000" stop="20260226090000 +0000" channel="Tawaf TV.mncvision">
+    <title>DMI TV</title>
+</programme>
+<programme start="20260226090000 +0000" stop="20260226093000 +0000" channel="Tawaf TV.mncvision">
+    <title>DMI TV</title>
+</programme>
+<programme start="20260226093000 +0000" stop="20260226100000 +0000" channel="Tawaf TV.mncvision">
+    <title>DMI TV</title>
+</programme>
+<programme start="20260226100000 +0000" stop="20260226103000 +0000" channel="Tawaf TV.mncvision">
+    <title>DMI TV</title>
+</programme>
+<programme start="20260226103000 +0000" stop="20260226110000 +0000" channel="Tawaf TV.mncvision">
+    <title>DMI TV</title>
+</programme>
+<programme start="20260226110000 +0000" stop="20260226113000 +0000" channel="Tawaf TV.mncvision">
+    <title>DMI TV</title>
+</programme>
+<programme start="20260226113000 +0000" stop="20260226120000 +0000" channel="Tawaf TV.mncvision">
+    <title>DMI TV</title>
+</programme>
+<programme start="20260226120000 +0000" stop="20260226123000 +0000" channel="Tawaf TV.mncvision">
+    <title>DMI TV</title>
+</programme>
+<programme start="20260226123000 +0000" stop="20260226130000 +0000" channel="Tawaf TV.mncvision">
+    <title>DMI TV</title>
+</programme>
+<programme start="20260226130000 +0000" stop="20260226133000 +0000" channel="Tawaf TV.mncvision">
+    <title>DMI TV</title>
+</programme>
+<programme start="20260226133000 +0000" stop="20260226140000 +0000" channel="Tawaf TV.mncvision">
+    <title>DMI TV</title>
+</programme>
+<programme start="20260226140000 +0000" stop="20260226143000 +0000" channel="Tawaf TV.mncvision">
+    <title>DMI TV</title>
+</programme>
+<programme start="20260226143000 +0000" stop="20260226150000 +0000" channel="Tawaf TV.mncvision">
+    <title>DMI TV</title>
+</programme>
+<programme start="20260226150000 +0000" stop="20260226153000 +0000" channel="Tawaf TV.mncvision">
+    <title>DMI TV</title>
+</programme>
+<programme start="20260226153000 +0000" stop="20260226160000 +0000" channel="Tawaf TV.mncvision">
+    <title>DMI TV</title>
+</programme>
+<programme start="20260226160000 +0000" stop="20260226163000 +0000" channel="Tawaf TV.mncvision">
+    <title>DMI TV</title>
+</programme>
+<programme start="20260226163000 +0000" stop="20260225170000 +0000" channel="Tawaf TV.mncvision">
+    <title>DMI TV</title>
+</programme>
 <programme start="20260225171500 +0000" stop="20260225185500 +0000" channel="Thrill.mncvision">
     <title>Dorome Boys Version</title>
 </programme>
