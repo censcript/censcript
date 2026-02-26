@@ -15892,7 +15892,7 @@
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260226013000 +0000" stop="20260226033000 +0000" channel="beinsports3.unifitv">
-    <title lang="en">UEFA Champions League - Juventus vs Galatasaray - KO Play-Offs,2nd Leg</title>
+    <title lang="en">Juventus vs Galatasaray - KO Play-Offs,2nd Leg</title>
     <desc lang="en">The most prestigious tournament in the world contested by top-division elite European clubs</desc>
     <category lang="en">Sports</category>
   </programme>
@@ -15911,9 +15911,14 @@
     <desc lang="en">The most prestigious tournament in the world contested by top-division elite European clubs</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260226063000 +0000" stop="20260226073000 +0000" channel="beinsports3.unifitv">
-    <title lang="en">UEFA Europa/Conference League Magazine Show - UEL MD9/UECL MD7 Review &amp; UEL MD10/UECL MD8 Preview</title>
+  <programme start="20260226063000 +0000" stop="20260226070000 +0000" channel="beinsports3.unifitv">
+    <title lang="en">Episode Number 9</title>
     <desc lang="en">Match highlights, interviews, epic moments and fascinating features from across Europe</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260226070000 +0000" stop="20260226073000 +0000" channel="beinsports3.unifitv">
+    <title lang="en">February</title>
+    <desc lang="en">The world's leading monthly magazine show, showcasing the diverse world of sailing, from super yachts and offshore racing, to the extremes of kite surfing.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260226073000 +0000" stop="20260226093000 +0000" channel="beinsports3.unifitv">

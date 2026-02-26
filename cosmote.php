@@ -118,8 +118,12 @@
     <title>Football: Olympiacos - Panetolikos</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260226113000 +0700" stop="20260226133500 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: FC Porto - Rio Ave</title>
+<programme start="20260227140000 +0700" stop="20260227143000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Serie A Full Impact 2025-26 E26</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260227143000 +0700" stop="20260227163000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: ACF Fiorentina - Jagiellonia</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260226133500 +0700" stop="20260226140500 +0700" channel="COSMOTE Sport 3 HD">
@@ -242,8 +246,8 @@
     <title>Basketball: Armani Milano - Trieste</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260226120500 +0700" stop="20260226131000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>2025 Extreme H</title>
+<programme start="20260227145000 +0700" stop="20260227165500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Le Mans - Galatasaray</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260226131000 +0700" stop="20260226151000 +0700" channel="COSMOTE Sport 5 HD">
@@ -340,6 +344,14 @@
 </programme>
 <programme start="20260227131000 +0700" stop="20260227140000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Motorsports: Moto3 2026 (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
+<programme start="20260227140000 +0700" stop="20260227145500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: Moto2 2026 (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
+<programme start="20260227145500 +0700" stop="20260227161500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: MotoGP 2026 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20260226120000 +0700" stop="20260226143000 +0700" channel="COSMOTE Sport 6 HD">
