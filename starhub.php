@@ -8131,11 +8131,8 @@
     <programme start="20260225180000 +0000" stop="20260225233000 +0000" channel="SPOTV2.starhub">
         <title>Round 2</title>
     </programme>
-    <programme start="20260225233000 +0000" stop="20260226033000 +0000" channel="SPOTV2.starhub">
+    <programme start="20260225233000 +0000" stop="20260226040000 +0000" channel="SPOTV2.starhub">
         <title>Day 4 Session 1</title>
-    </programme>
-    <programme start="20260226033000 +0000" stop="20260226040000 +0000" channel="SPOTV2.starhub">
-        <title>2025/26 ALM Mini Match Rd 17 Western Sydney Wanderers FC vs Wellington Phoenix</title>
     </programme>
     <programme start="20260226040000 +0000" stop="20260226080000 +0000" channel="SPOTV2.starhub">
         <title>Day 5 Session 1</title>
