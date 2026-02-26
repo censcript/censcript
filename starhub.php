@@ -2396,10 +2396,10 @@
         <title>FIA Championship Middle East - Jeddah Rally Highlights</title>
     </programme>
     <programme start="20260225200000 +0000" stop="20260226000000 +0000" channel="Hub Sports 2 HD.starhub">
-        <title>Merida Open (500) D3 S1</title>
+        <title>Merida Open (500) Day 3 Session 1</title>
     </programme>
     <programme start="20260226000000 +0000" stop="20260226040000 +0000" channel="Hub Sports 2 HD.starhub">
-        <title>Merida Open (500) D3 S2</title>
+        <title>Merida Open (500) Day 3 Session 2</title>
     </programme>
     <programme start="20260226040000 +0000" stop="20260226050000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>Abu Dhabi Race 1</title>
@@ -2408,7 +2408,7 @@
         <title>R4: Burnley vs Mansfield Town</title>
     </programme>
     <programme start="20260226070000 +0000" stop="20260226100000 +0000" channel="Hub Sports 2 HD.starhub">
-        <title>Merida Open (500) D3 S1</title>
+        <title>Merida Open (500) Day 3 Session 1</title>
     </programme>
     <programme start="20260226100000 +0000" stop="20260226110000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>Abu Dhabi Race 2</title>
@@ -2423,7 +2423,7 @@
         <title>Geylang International FC vs Young Lions</title>
     </programme>
     <programme start="20260226143000 +0000" stop="20260226173000 +0000" channel="Hub Sports 2 HD.starhub">
-        <title>Merida Open (500) D3 S2</title>
+        <title>Merida Open (500) Day 3 Session 2</title>
     </programme>
     <programme start="20260225141500 +0000" stop="20260225161500 +0000" channel="The Filipino Channel HD.starhub">
         <title>It&#039;s Showtime</title>
@@ -7478,7 +7478,7 @@
         <title>BBC News</title>
     </programme>
     <programme start="20260226013000 +0000" stop="20260226020000 +0000" channel="BBC World News HD.starhub">
-        <title>Ukraine 4 Years On: Boris Johnson and Sir Tony Radakin</title>
+        <title>Boris Johnson and Sir Tony Radakin</title>
     </programme>
     <programme start="20260226020000 +0000" stop="20260226023000 +0000" channel="BBC World News HD.starhub">
         <title>Newsday</title>

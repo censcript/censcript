@@ -1300,14 +1300,11 @@
 <programme start="20260226013000 +0000" stop="20260226033000 +0000" channel="beIN Sports 3.mncvision">
     <title>UCL 2025/26: ATA Vs BVB</title>
 </programme>
-<programme start="20260226033000 +0000" stop="20260226040000 +0000" channel="beIN Sports 3.mncvision">
-    <title>Rolex Invitational Cup 2025</title>
-</programme>
-<programme start="20260226040000 +0000" stop="20260226043000 +0000" channel="beIN Sports 3.mncvision">
-    <title>UCL Highlights 2025/26</title>
-</programme>
-<programme start="20260226043000 +0000" stop="20260226063000 +0000" channel="beIN Sports 3.mncvision">
+<programme start="20260226033000 +0000" stop="20260226060000 +0000" channel="beIN Sports 3.mncvision">
     <title>UCL 2025/26: JUV Vs GAL</title>
+</programme>
+<programme start="20260226060000 +0000" stop="20260226063000 +0000" channel="beIN Sports 3.mncvision">
+    <title>UCL Highlights 2025/26</title>
 </programme>
 <programme start="20260226063000 +0000" stop="20260226073000 +0000" channel="beIN Sports 3.mncvision">
     <title>UEL/UECL Magazine Show &#039;25/26</title>
@@ -1360,14 +1357,11 @@
 <programme start="20260226013000 +0000" stop="20260226033000 +0000" channel="beIN Sports 3 HD.mncvision">
     <title>UCL 2025/26: ATA Vs BVB</title>
 </programme>
-<programme start="20260226033000 +0000" stop="20260226040000 +0000" channel="beIN Sports 3 HD.mncvision">
-    <title>Rolex Invitational Cup 2025</title>
-</programme>
-<programme start="20260226040000 +0000" stop="20260226043000 +0000" channel="beIN Sports 3 HD.mncvision">
-    <title>UCL Highlights 2025/26</title>
-</programme>
-<programme start="20260226043000 +0000" stop="20260226063000 +0000" channel="beIN Sports 3 HD.mncvision">
+<programme start="20260226033000 +0000" stop="20260226060000 +0000" channel="beIN Sports 3 HD.mncvision">
     <title>UCL 2025/26: JUV Vs GAL</title>
+</programme>
+<programme start="20260226060000 +0000" stop="20260226063000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>UCL Highlights 2025/26</title>
 </programme>
 <programme start="20260226063000 +0000" stop="20260226073000 +0000" channel="beIN Sports 3 HD.mncvision">
     <title>UEL/UECL Magazine Show &#039;25/26</title>

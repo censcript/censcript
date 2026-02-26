@@ -2631,59 +2631,59 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260226222500 +0000" stop="20260226231500 +0000" channel="Sky Showcase HD.skyde">
     <title>William &amp; Harry: Royals zwischen Liebe und Loyalität</title>
 </programme>
-<programme start="20260225230000 +0000" stop="20260226010000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260225003000 +0000" stop="20260225023000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA CL: Atletico Madrid - Club Brügge, Knockout Play-offs, Rückspiel</title>
 </programme>
-<programme start="20260226010000 +0000" stop="20260226030000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260225023000 +0000" stop="20260225043000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA CL: Newcastle United - FK Qarabag, Knockout Play-offs, Rückspiele</title>
 </programme>
-<programme start="20260226030000 +0000" stop="20260226045500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>UEFA CL: Bayer Leverkusen - Olympiakos Piräus, Knockout Play-offs, Rückspiele</title>
+<programme start="20260225043000 +0000" stop="20260225050000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: 90in30: ASK - RBS, 20. Runde</title>
 </programme>
-<programme start="20260226045500 +0000" stop="20260226051500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260225050000 +0000" stop="20260225070000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>UEFA CL: Inter Mailand - FK Bodo/Glimt, Knockout Play-offs, Rückspiele</title>
+</programme>
+<programme start="20260225070000 +0000" stop="20260225071500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Die UEFA CL am Dienstag: Alle Spiele, alle Tore, Knockout Play-offs, Rückspiele</title>
 </programme>
-<programme start="20260226051500 +0000" stop="20260226071500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260225071500 +0000" stop="20260225091500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA CL: Atletico Madrid - Club Brügge, Knockout Play-offs, Rückspiel</title>
 </programme>
-<programme start="20260226071500 +0000" stop="20260226081500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>UEFA EL: UEL &amp; UECL Magazin</title>
+<programme start="20260225091500 +0000" stop="20260225101500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Die UEFA CL am Dienstag: Analyse</title>
 </programme>
-<programme start="20260226081500 +0000" stop="20260226101500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>UEFA CL: Bayer Leverkusen - Olympiakos Piräus, Knockout Play-offs, Rückspiele</title>
+<programme start="20260225101500 +0000" stop="20260225122000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>UEFA CL: Inter Mailand - FK Bodo/Glimt, Knockout Play-offs, Rückspiele</title>
 </programme>
-<programme start="20260226101500 +0000" stop="20260226121500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>UEFA EL: SK Brann - FC Bologna, Knockout Play-offs, Hinspiel</title>
-</programme>
-<programme start="20260226121500 +0000" stop="20260226123000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260225122000 +0000" stop="20260225123500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Die UEFA CL am Dienstag: Alle Spiele, alle Tore, Knockout Play-offs, Rückspiele</title>
 </programme>
-<programme start="20260226123000 +0000" stop="20260226132000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>UEFA EL: UEL &amp; UECL Magazin</title>
+<programme start="20260225123500 +0000" stop="20260225144000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>UEFA CL: Bayer Leverkusen - Olympiakos Piräus, Knockout Play-offs, Rückspiele</title>
 </programme>
-<programme start="20260226132000 +0000" stop="20260226152000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>UEFA EL: Fenerbahce Istanbul - Nottingham Forest, Knockout Play-offs, Hinspiel</title>
+<programme start="20260225144000 +0000" stop="20260225145500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Die UEFA CL am Dienstag: Alle Spiele, alle Tore, Knockout Play-offs, Rückspiele</title>
 </programme>
-<programme start="20260226152000 +0000" stop="20260226161000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Der UEFA Super Donnerstag: Alle Spiele, alle Tore, Knockout Play-offs, Hinspiele</title>
+<programme start="20260225145500 +0000" stop="20260225170000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Live UEFA Youth League: Real Madrid - FC Chelsea, Achtelfinale</title>
 </programme>
-<programme start="20260226161000 +0000" stop="20260226170000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>UEFA EL: UEL &amp; UECL Magazin</title>
+<programme start="20260225170000 +0000" stop="20260225173500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Live Die UEFA CL am Mittwoch: Vorbericht</title>
 </programme>
-<programme start="20260226170000 +0000" stop="20260226173500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live Der UEFA Super Donnerstag: Vorbericht</title>
+<programme start="20260225173500 +0000" stop="20260225195000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Live UEFA CL: Atalanta Bergamo - Borussia Dortmund, Knockout Play-offs, Rückspiele</title>
 </programme>
-<programme start="20260226173500 +0000" stop="20260226195000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live Der UEFA Super Donnerstag: Konferenz I, Knockout Play-offs, Rückspiele</title>
+<programme start="20260225195000 +0000" stop="20260225230000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Live UEFA CL: Mittwochs-Konferenz, Knockout Play-offs, Rückspiele</title>
 </programme>
-<programme start="20260226195000 +0000" stop="20260226220000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live Der UEFA Super Donnerstag: Konferenz II, Knockout Play-offs, Rückspiele</title>
+<programme start="20260226171500 +0000" stop="20260226173500 +0000" channel="Sky Sport Austria 2 HD.skyde">
+    <title>Es folgt: UEFA Europa League</title>
 </programme>
-<programme start="20260226220000 +0000" stop="20260226224500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live Der UEFA Super Donnerstag: Analyse</title>
+<programme start="20260226173500 +0000" stop="20260226195000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+    <title>Live UEFA EL: Roter Stern Belgrad - LOSC Lille, Knockout Play-offs, Rückspiel</title>
 </programme>
-<programme start="20260226224500 +0000" stop="20260226233000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live Der UEFA Super Donnerstag: Alle Spiele, alle Tore, Knockout Play-offs, Rückspiele</title>
+<programme start="20260226195000 +0000" stop="20260226230000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+    <title>Live UEFA EL: Nottingham Forest - Fenerbahce Istanbul, Knockout Play-offs, Rückspiel</title>
 </programme>
 <programme start="20260226171500 +0000" stop="20260226173500 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Es folgt: UEFA Europa League</title>
@@ -2702,15 +2702,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 </programme>
 <programme start="20260226195000 +0000" stop="20260226230000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live UEFA EL: Celta Vigo - PAOK Saloniki, Knockout Play-offs, Rückspiel</title>
-</programme>
-<programme start="20260226171500 +0000" stop="20260226173500 +0000" channel="Sky Sport Austria 5 HD.skyde">
-    <title>Es folgt: UEFA Europa League</title>
-</programme>
-<programme start="20260226173500 +0000" stop="20260226195000 +0000" channel="Sky Sport Austria 5 HD.skyde">
-    <title>Live UEFA EL: Ferencvaros Budapest - Ludogorez Rasgrad, Knockout Play-offs, Rückspiel</title>
-</programme>
-<programme start="20260226195000 +0000" stop="20260226230000 +0000" channel="Sky Sport Austria 5 HD.skyde">
-    <title>Live UEFA EL: KRC Genk - Dinamo Zagreb, Knockout Play-offs, Rückspiel</title>
 </programme>
 <programme start="20260226171500 +0000" stop="20260226173500 +0000" channel="Sky Sport Austria 6 HD.skyde">
     <title>Es folgt: UEFA Europa League</title>
