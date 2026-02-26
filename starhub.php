@@ -3799,6 +3799,9 @@
     <programme start="20260226202500 +0000" stop="20260226205300 +0000" channel="NHK World Premium HD.starhub">
         <title>Journeys in Japan (B)</title>
     </programme>
+    <programme start="20260226205300 +0000" stop="20260226205600 +0000" channel="NHK World Premium HD.starhub">
+        <title>Mini Program</title>
+    </programme>
     <programme start="20260226205600 +0000" stop="20260226210000 +0000" channel="NHK World Premium HD.starhub">
         <title>World Weather</title>
     </programme>
@@ -3825,9 +3828,6 @@
     </programme>
     <programme start="20260227010500 +0000" stop="20260227023400 +0000" channel="NHK World Premium HD.starhub">
         <title>The Great Nature &quot;Cascade Range&quot; (R)</title>
-    </programme>
-    <programme start="20260227023400 +0000" stop="20260227024100 +0000" channel="NHK World Premium HD.starhub">
-        <title>Mini Program</title>
     </programme>
     <programme start="20260227024100 +0000" stop="20260227024500 +0000" channel="NHK World Premium HD.starhub">
         <title>Mini Program</title>

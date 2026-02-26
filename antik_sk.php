@@ -2335,7 +2335,7 @@
   <programme start="20260228223000 +0000" stop="20260228224000 +0000" channel="RiK TV.webtv.sk">
     <title lang="id">Dobrodružstvá Bolka a Lolka I (19)</title>
   </programme>
-  <programme start="20260228224000 +0000" stop="20260301014000 +0000" channel="RiK TV.webtv.sk">
+  <programme start="20260228224000 +0000" stop="20260228232000 +0000" channel="RiK TV.webtv.sk">
     <title lang="id">Barbie: Dom snov II (16)</title>
   </programme>
   <programme start="20260227230000 +0000" stop="20260228040000 +0000" channel="LALA TV.webtv.sk">
