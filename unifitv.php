@@ -2439,7 +2439,7 @@
     <category lang="en">Education</category>
   </programme>
   <programme start="20260225220000 +0000" stop="20260225223000 +0000" channel="tvalhijrahhd.unifitv">
-    <title lang="en">Hadis@114</title>
+    <title lang="en">Hadis@114 (RPT)</title>
     <desc lang="en">Hadis 114,sebuah program menyelami maksud, konteks pengajaran yang terkandung dalam hadis, serta bagaimana ia relevan dan boleh diamalkan dalam kehidupan seharian.</desc>
     <category lang="en">Education</category>
     <episode-num system="xmltv_ns">0.50.</episode-num>
@@ -2532,12 +2532,19 @@
     <desc lang="en">Program ini berkonsepkan bual bicara agama berbentuk tazkirah ramadan. kandungannya akan menggalakkan umat islam di bulan ramadan dengan amalan bersedekah, berinfak &amp; berwakaf</desc>
     <category lang="en">Education</category>
   </programme>
-  <programme start="20260226093000 +0000" stop="20260226100000 +0000" channel="tvalhijrahhd.unifitv">
+  <programme start="20260226093000 +0000" stop="20260226095500 +0000" channel="tvalhijrahhd.unifitv">
     <title lang="en">Cinta Ilmu</title>
     <desc lang="en">Sebuah program kerohanian yang menampilkan ilmuan Islam dari pelbagai bidang dalam mengupas kitab ilmu secara terperinci</desc>
     <category lang="en">Education</category>
     <episode-num system="xmltv_ns">0.23.</episode-num>
     <episode-num system="onscreen">S1E24</episode-num>
+  </programme>
+  <programme start="20260226095500 +0000" stop="20260226100000 +0000" channel="tvalhijrahhd.unifitv">
+    <title lang="en">30 Hari 30 Ayat</title>
+    <desc lang="en">Kapsul tadabur al-quran 30 hari 30 ayat sepanjang bulan Ramadan</desc>
+    <category lang="en">Education</category>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+    <episode-num system="onscreen">S1E2</episode-num>
   </programme>
   <programme start="20260226100000 +0000" stop="20260226103000 +0000" channel="tvalhijrahhd.unifitv">
     <title lang="en">Hadis@114</title>
@@ -2553,7 +2560,14 @@
     <episode-num system="xmltv_ns">0.5.</episode-num>
     <episode-num system="onscreen">S1E6</episode-num>
   </programme>
-  <programme start="20260226110000 +0000" stop="20260226113000 +0000" channel="tvalhijrahhd.unifitv">
+  <programme start="20260226110000 +0000" stop="20260226110500 +0000" channel="tvalhijrahhd.unifitv">
+    <title lang="en">Islah Ramadan</title>
+    <desc lang="en">Bersama YBM Senator Dr Zulkifli Hasan Menteri di Jabatan Perdana Menteri Hal Ehwal Agama menyuburkan iman dalam kapsul reflektif.</desc>
+    <category lang="en">Education</category>
+    <episode-num system="xmltv_ns">0.7.</episode-num>
+    <episode-num system="onscreen">S1E8</episode-num>
+  </programme>
+  <programme start="20260226110500 +0000" stop="20260226113000 +0000" channel="tvalhijrahhd.unifitv">
     <title lang="en">Panggilan Agung Maghrib</title>
     <desc lang="en">Himpunan Hadis, klip selawat, surah lazim dan Azan</desc>
     <category lang="en">Education</category>
