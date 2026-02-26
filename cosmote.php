@@ -78,6 +78,14 @@
     <title>Game R1 S6 E27</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260228040000 +0700" stop="20260228043000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEFA Champions League Magazine 2024-25 E22</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260228043000 +0700" stop="20260228050000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEFA Champions League Highlights 2025-26</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260227030000 +0700" stop="20260227050500 +0700" channel="COSMOTE Sport 2 HD">
     <title>European Football Show Greek Edition 2025-26 (L)</title>
     <desc>Live: Ya</desc>
@@ -145,6 +153,10 @@
 <programme start="20260228024500 +0700" stop="20260228044500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Parma - Cagliari (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20260228044500 +0700" stop="20260228064500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: AZ Alkmaar - Noah</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260227030000 +0700" stop="20260227050500 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Lech Poznan - KuPS Kuopio (L)</title>
@@ -266,6 +278,10 @@
     <title>Pick n&#039; Roll</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260228042500 +0700" stop="20260228064500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Real Madrid - Baskonia</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260227030000 +0700" stop="20260227050500 +0700" channel="COSMOTE Sport 5 HD">
     <title>Football: Crystal Palace - Zrinjski Mostar (L)</title>
     <desc>Live: Ya</desc>
@@ -372,6 +388,10 @@
 </programme>
 <programme start="20260228031500 +0700" stop="20260228041500 +0700" channel="COSMOTE Sport 5 HD">
     <title>Motorsports: Moto2 2026</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260228041500 +0700" stop="20260228052000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: MotoGP 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260227030000 +0700" stop="20260227050500 +0700" channel="COSMOTE Sport 6 HD">
@@ -483,6 +503,10 @@
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20260228034500 +0700" stop="20260228041500 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260228041500 +0700" stop="20260228050000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
@@ -625,5 +649,13 @@
 <programme start="20260228020000 +0700" stop="20260228040000 +0700" channel="COSMOTE Sport 9 HD">
     <title>Football: Al Shabab - Al Hilal (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20260228040000 +0700" stop="20260228043000 +0700" channel="COSMOTE Sport 9 HD">
+    <title>COSMOTESport9HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260228043000 +0700" stop="20260228050000 +0700" channel="COSMOTE Sport 9 HD">
+    <title>COSMOTESport9HD</title>
+    <desc>Live: Tidak</desc>
 </programme>
 No EPG found for COSMOTE Sport 10 HD
