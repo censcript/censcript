@@ -1818,47 +1818,41 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260226212000 +0000" stop="20260226231000 +0000" channel="Sky Cinema Action HD.skyde">
     <title>xXx: Die Rückkehr des Xander Cage</title>
 </programme>
-<programme start="20260225231000 +0000" stop="20260226004500 +0000" channel="Sky Cinema Classics HD.skyde">
-    <title>Königstiger vor El Alamein</title>
+<programme start="20260225000500 +0000" stop="20260225025000 +0000" channel="Sky Cinema Classics HD.skyde">
+    <title>Spiel mir das Lied vom Tod</title>
 </programme>
-<programme start="20260226004500 +0000" stop="20260226022500 +0000" channel="Sky Cinema Classics HD.skyde">
-    <title>Patient mit Dachschaden</title>
+<programme start="20260225025000 +0000" stop="20260225043500 +0000" channel="Sky Cinema Classics HD.skyde">
+    <title>... und Scotland Yard schweigt</title>
 </programme>
-<programme start="20260226022500 +0000" stop="20260226040000 +0000" channel="Sky Cinema Classics HD.skyde">
-    <title>Die Rache der Wikinger</title>
+<programme start="20260225043500 +0000" stop="20260225060500 +0000" channel="Sky Cinema Classics HD.skyde">
+    <title>Jagd auf blaue Diamanten</title>
 </programme>
-<programme start="20260226040000 +0000" stop="20260226054500 +0000" channel="Sky Cinema Classics HD.skyde">
-    <title>Der Teufelshauptmann</title>
+<programme start="20260225060500 +0000" stop="20260225073000 +0000" channel="Sky Cinema Classics HD.skyde">
+    <title>Oktaman - Die Bestie aus der Tiefe</title>
 </programme>
-<programme start="20260226054500 +0000" stop="20260226073500 +0000" channel="Sky Cinema Classics HD.skyde">
-    <title>Starr vor Angst</title>
+<programme start="20260225073000 +0000" stop="20260225085500 +0000" channel="Sky Cinema Classics HD.skyde">
+    <title>Der König von Texas</title>
 </programme>
-<programme start="20260226073500 +0000" stop="20260226092000 +0000" channel="Sky Cinema Classics HD.skyde">
-    <title>Liselotte von der Pfalz</title>
+<programme start="20260225085500 +0000" stop="20260225101500 +0000" channel="Sky Cinema Classics HD.skyde">
+    <title>Brief einer Unbekannten</title>
 </programme>
-<programme start="20260226092000 +0000" stop="20260226110000 +0000" channel="Sky Cinema Classics HD.skyde">
-    <title>Patient mit Dachschaden</title>
+<programme start="20260225101500 +0000" stop="20260225114000 +0000" channel="Sky Cinema Classics HD.skyde">
+    <title>Der Held mit der Maske</title>
 </programme>
-<programme start="20260226110000 +0000" stop="20260226124000 +0000" channel="Sky Cinema Classics HD.skyde">
-    <title>Alles um Anita</title>
+<programme start="20260225114000 +0000" stop="20260225131000 +0000" channel="Sky Cinema Classics HD.skyde">
+    <title>Man nennt mich Hondo</title>
 </programme>
-<programme start="20260226124000 +0000" stop="20260226143500 +0000" channel="Sky Cinema Classics HD.skyde">
+<programme start="20260225131000 +0000" stop="20260225163000 +0000" channel="Sky Cinema Classics HD.skyde">
+    <title>Der Pate - Teil II</title>
+</programme>
+<programme start="20260225163000 +0000" stop="20260225191500 +0000" channel="Sky Cinema Classics HD.skyde">
+    <title>Spiel mir das Lied vom Tod</title>
+</programme>
+<programme start="20260225191500 +0000" stop="20260225211500 +0000" channel="Sky Cinema Classics HD.skyde">
+    <title>Old Shatterhand</title>
+</programme>
+<programme start="20260225211500 +0000" stop="20260225231000 +0000" channel="Sky Cinema Classics HD.skyde">
     <title>Rio Lobo</title>
-</programme>
-<programme start="20260226143500 +0000" stop="20260226173000 +0000" channel="Sky Cinema Classics HD.skyde">
-    <title>In 80 Tagen um die Welt</title>
-</programme>
-<programme start="20260226173000 +0000" stop="20260226191500 +0000" channel="Sky Cinema Classics HD.skyde">
-    <title>Zwei tolle Kerle in Texas</title>
-</programme>
-<programme start="20260226191500 +0000" stop="20260226205000 +0000" channel="Sky Cinema Classics HD.skyde">
-    <title>Königstiger vor El Alamein</title>
-</programme>
-<programme start="20260226205000 +0000" stop="20260226222500 +0000" channel="Sky Cinema Classics HD.skyde">
-    <title>Duell</title>
-</programme>
-<programme start="20260226222500 +0000" stop="20260227000000 +0000" channel="Sky Cinema Classics HD.skyde">
-    <title>Frank Patch - Deine Stunden sind gezählt</title>
 </programme>
 <programme start="20260226003500 +0000" stop="20260226022000 +0000" channel="Sky Cinema Family HD.skyde">
     <title>Ostwind - Der große Orkan - Audiodeskription</title>
@@ -1937,42 +1931,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 </programme>
 <programme start="20260226225000 +0000" stop="20260227004000 +0000" channel="Sky Cinema Highlights HD.skyde">
     <title>Suddenly - Überleben im Eis</title>
-</programme>
-<programme start="20260226004000 +0000" stop="20260226021500 +0000" channel="Sky Cinema Premiere HD.skyde">
-    <title>Black Bag - Doppeltes Spiel</title>
-</programme>
-<programme start="20260226021500 +0000" stop="20260226042000 +0000" channel="Sky Cinema Premiere HD.skyde">
-    <title>Wir sind Champions 2</title>
-</programme>
-<programme start="20260226042000 +0000" stop="20260226063000 +0000" channel="Sky Cinema Premiere HD.skyde">
-    <title>Smile 2</title>
-</programme>
-<programme start="20260226063000 +0000" stop="20260226081500 +0000" channel="Sky Cinema Premiere HD.skyde">
-    <title>Riff Raff - Verbrechen ist Familiensache</title>
-</programme>
-<programme start="20260226081500 +0000" stop="20260226095000 +0000" channel="Sky Cinema Premiere HD.skyde">
-    <title>Breathe</title>
-</programme>
-<programme start="20260226095000 +0000" stop="20260226120500 +0000" channel="Sky Cinema Premiere HD.skyde">
-    <title>Jurassic World: Die Wiedergeburt</title>
-</programme>
-<programme start="20260226120500 +0000" stop="20260226135500 +0000" channel="Sky Cinema Premiere HD.skyde">
-    <title>Freaky Tales</title>
-</programme>
-<programme start="20260226135500 +0000" stop="20260226155500 +0000" channel="Sky Cinema Premiere HD.skyde">
-    <title>On Swift Horses</title>
-</programme>
-<programme start="20260226155500 +0000" stop="20260226173500 +0000" channel="Sky Cinema Premiere HD.skyde">
-    <title>Cash Out 2 - Alles auf eine Karte</title>
-</programme>
-<programme start="20260226173500 +0000" stop="20260226191500 +0000" channel="Sky Cinema Premiere HD.skyde">
-    <title>Breathe</title>
-</programme>
-<programme start="20260226191500 +0000" stop="20260226211500 +0000" channel="Sky Cinema Premiere HD.skyde">
-    <title>Alien: Romulus</title>
-</programme>
-<programme start="20260226211500 +0000" stop="20260226232500 +0000" channel="Sky Cinema Premiere HD.skyde">
-    <title>Jurassic World: Die Wiedergeburt</title>
 </programme>
 <programme start="20260225231500 +0000" stop="20260226001500 +0000" channel="Sky Crime HD.skyde">
     <title>Charles Manson: Aufstieg eines Monsters</title>
@@ -2631,12 +2589,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260226222500 +0000" stop="20260226231500 +0000" channel="Sky Showcase HD.skyde">
     <title>William &amp; Harry: Royals zwischen Liebe und Loyalität</title>
 </programme>
-<programme start="20260225230000 +0000" stop="20260225231500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Die UEFA CL am Dienstag: Alle Spiele, alle Tore, Knockout Play-offs, Rückspiele</title>
-</programme>
-<programme start="20260225231500 +0000" stop="20260226001500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>UEFA CL: Atletico Madrid - Club Brügge, Knockout Play-offs, Rückspiel</title>
-</programme>
 <programme start="20260226001500 +0000" stop="20260226021500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA CL: Newcastle United - FK Qarabag, Knockout Play-offs, Rückspiele</title>
 </programme>
@@ -2690,15 +2642,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 </programme>
 <programme start="20260226224500 +0000" stop="20260226233000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Live Der UEFA Super Donnerstag: Alle Spiele, alle Tore, Knockout Play-offs, Rückspiele</title>
-</programme>
-<programme start="20260226171500 +0000" stop="20260226173500 +0000" channel="Sky Sport Austria 2 HD.skyde">
-    <title>Es folgt: UEFA Europa League</title>
-</programme>
-<programme start="20260226173500 +0000" stop="20260226195000 +0000" channel="Sky Sport Austria 2 HD.skyde">
-    <title>Live UEFA EL: Roter Stern Belgrad - LOSC Lille, Knockout Play-offs, Rückspiel</title>
-</programme>
-<programme start="20260226195000 +0000" stop="20260226230000 +0000" channel="Sky Sport Austria 2 HD.skyde">
-    <title>Live UEFA EL: Nottingham Forest - Fenerbahce Istanbul, Knockout Play-offs, Rückspiel</title>
 </programme>
 <programme start="20260226171500 +0000" stop="20260226173500 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Es folgt: UEFA Europa League</title>
