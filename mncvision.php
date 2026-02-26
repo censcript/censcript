@@ -4885,99 +4885,6 @@
 <programme start="20260226153000 +0000" stop="20260226160000 +0000" channel="Indosiar HD.mncvision">
     <title>BRI Super League 2025/26</title>
 </programme>
-<programme start="20260225170000 +0000" stop="20260225173000 +0000" channel="iNews.mncvision">
-    <title>E-Max</title>
-</programme>
-<programme start="20260225173000 +0000" stop="20260225190000 +0000" channel="iNews.mncvision">
-    <title>World C&#039;ship Qual.: IDN Vs CHN</title>
-</programme>
-<programme start="20260225190000 +0000" stop="20260225200000 +0000" channel="iNews.mncvision">
-    <title>iNews Sore</title>
-</programme>
-<programme start="20260225200000 +0000" stop="20260225203000 +0000" channel="iNews.mncvision">
-    <title>Ramadan Story</title>
-</programme>
-<programme start="20260225203000 +0000" stop="20260225210000 +0000" channel="iNews.mncvision">
-    <title>Cahaya Hati The Series</title>
-</programme>
-<programme start="20260225210000 +0000" stop="20260225213000 +0000" channel="iNews.mncvision">
-    <title>iNews Pagi (L)</title>
-</programme>
-<programme start="20260225213000 +0000" stop="20260225214000 +0000" channel="iNews.mncvision">
-    <title>Imsak</title>
-</programme>
-<programme start="20260225214000 +0000" stop="20260225230000 +0000" channel="iNews.mncvision">
-    <title>iNews Pagi</title>
-</programme>
-<programme start="20260225230000 +0000" stop="20260225230200 +0000" channel="iNews.mncvision">
-    <title>Indonesia Raya</title>
-</programme>
-<programme start="20260225230200 +0000" stop="20260225233000 +0000" channel="iNews.mncvision">
-    <title>iNews Sport Pagi (L)</title>
-</programme>
-<programme start="20260225233000 +0000" stop="20260226000000 +0000" channel="iNews.mncvision">
-    <title>Special Report</title>
-</programme>
-<programme start="20260226000000 +0000" stop="20260226003000 +0000" channel="iNews.mncvision">
-    <title>iBreak: The One Entrepreneur</title>
-</programme>
-<programme start="20260226003000 +0000" stop="20260226010000 +0000" channel="iNews.mncvision">
-    <title>Morning Update</title>
-</programme>
-<programme start="20260226010000 +0000" stop="20260226021500 +0000" channel="iNews.mncvision">
-    <title>Lapor Polisi (L)</title>
-</programme>
-<programme start="20260226021500 +0000" stop="20260226040000 +0000" channel="iNews.mncvision">
-    <title>iNews Today (L)</title>
-</programme>
-<programme start="20260226040000 +0000" stop="20260226060000 +0000" channel="iNews.mncvision">
-    <title>iNews Siang (L)</title>
-</programme>
-<programme start="20260226060000 +0000" stop="20260226063000 +0000" channel="iNews.mncvision">
-    <title>Pemimpin Rakyat (L)</title>
-</programme>
-<programme start="20260226063000 +0000" stop="20260226080000 +0000" channel="iNews.mncvision">
-    <title>iSeleb (L)</title>
-</programme>
-<programme start="20260226080000 +0000" stop="20260226093000 +0000" channel="iNews.mncvision">
-    <title>Realita (L)</title>
-</programme>
-<programme start="20260226093000 +0000" stop="20260226110000 +0000" channel="iNews.mncvision">
-    <title>iNews Sore (L)</title>
-</programme>
-<programme start="20260226110000 +0000" stop="20260226110500 +0000" channel="iNews.mncvision">
-    <title>Cahaya Hati The Series</title>
-</programme>
-<programme start="20260226110500 +0000" stop="20260226112000 +0000" channel="iNews.mncvision">
-    <title>Kultum Cahaya Hati Berbuka</title>
-</programme>
-<programme start="20260226112000 +0000" stop="20260226120000 +0000" channel="iNews.mncvision">
-    <title>iNews Sore</title>
-</programme>
-<programme start="20260226120000 +0000" stop="20260226120300 +0000" channel="iNews.mncvision">
-    <title>iNews Terkini (L)</title>
-</programme>
-<programme start="20260226120300 +0000" stop="20260226130000 +0000" channel="iNews.mncvision">
-    <title>iNews Room (L)</title>
-</programme>
-<programme start="20260226130000 +0000" stop="20260226130300 +0000" channel="iNews.mncvision">
-    <title>iNews Terkini (L)</title>
-</programme>
-<programme start="20260226130300 +0000" stop="20260226140000 +0000" channel="iNews.mncvision">
-    <title>Interupsi (L)</title>
-</programme>
-<programme start="20260226140000 +0000" stop="20260226150000 +0000" channel="iNews.mncvision">
-    <title>iNews Prime (L)</title>
-</programme>
-<programme start="20260226150000 +0000" stop="20260226160000 +0000" channel="iNews.mncvision">
-    <title>iNews Malam (L)</title>
-</programme>
-<programme start="20260226160000 +0000" stop="20260226163000 +0000" channel="iNews.mncvision">
-    <title>iNews Sport (L)</title>
-</programme>
-<programme start="20260226163000 +0000" stop="20260225170000 +0000" channel="iNews.mncvision">
-    <title>New Top Files</title>
-</programme>
 <programme start="20260225170000 +0000" stop="20260225173000 +0000" channel="iNews HD.mncvision">
     <title>E-Max</title>
 </programme>
@@ -7826,7 +7733,7 @@
     <title>Hafiz Indonesia 2026</title>
 </programme>
 <programme start="20260226083000 +0000" stop="20260226100000 +0000" channel="RCTI.mncvision">
-    <title>Banyak Jalan Menuju Surga</title>
+    <title>Penyejuk Hati Sore</title>
 </programme>
 <programme start="20260226100000 +0000" stop="20260226111500 +0000" channel="RCTI.mncvision">
     <title>Amanah Wali S8</title>
@@ -7880,7 +7787,7 @@
     <title>Hafiz Indonesia 2026</title>
 </programme>
 <programme start="20260226083000 +0000" stop="20260226100000 +0000" channel="RCTI HD.mncvision">
-    <title>Banyak Jalan Menuju Surga</title>
+    <title>Penyejuk Hati Sore</title>
 </programme>
 <programme start="20260226100000 +0000" stop="20260226111500 +0000" channel="RCTI HD.mncvision">
     <title>Amanah Wali S8</title>

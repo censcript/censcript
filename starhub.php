@@ -3860,10 +3860,10 @@
         <title>World Weather</title>
     </programme>
     <programme start="20260226005500 +0000" stop="20260226010000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Exercise for Everyone</title>
+        <title>News &amp; Weather</title>
     </programme>
     <programme start="20260226010000 +0000" stop="20260226010500 +0000" channel="NHK World Premium HD.starhub">
-        <title>News &amp; Weather</title>
+        <title>100 Beautiful Mountains of Japan Mini</title>
     </programme>
     <programme start="20260226010500 +0000" stop="20260226015000 +0000" channel="NHK World Premium HD.starhub">
         <title>Eat Up! The Ultimate Homemade Cooking Battle &quot;Yakisoba&quot; (R)</title>
@@ -3898,20 +3898,23 @@
     <programme start="20260226034500 +0000" stop="20260226040000 +0000" channel="NHK World Premium HD.starhub">
         <title>Drama Serial &quot;The Ghost Writer&#039;s Wife&quot; Ep. 104 (R)</title>
     </programme>
-    <programme start="20260226040000 +0000" stop="20260226040500 +0000" channel="NHK World Premium HD.starhub">
-        <title>News</title>
+    <programme start="20260226040000 +0000" stop="20260226045500 +0000" channel="NHK World Premium HD.starhub">
+        <title>Classical Music Club</title>
     </programme>
-    <programme start="20260226040500 +0000" stop="20260226055000 +0000" channel="NHK World Premium HD.starhub">
-        <title>News Around Japan</title>
+    <programme start="20260226045500 +0000" stop="20260226052200 +0000" channel="NHK World Premium HD.starhub">
+        <title>JAPAN DELISH</title>
     </programme>
-    <programme start="20260226055000 +0000" stop="20260226055500 +0000" channel="NHK World Premium HD.starhub">
-        <title>World Weather</title>
+    <programme start="20260226052200 +0000" stop="20260226055200 +0000" channel="NHK World Premium HD.starhub">
+        <title>The Great Nature &quot;The Colossal Waterfall Forged by the Great Rift&quot;</title>
+    </programme>
+    <programme start="20260226055200 +0000" stop="20260226055500 +0000" channel="NHK World Premium HD.starhub">
+        <title>Mini Program</title>
     </programme>
     <programme start="20260226055500 +0000" stop="20260226060000 +0000" channel="NHK World Premium HD.starhub">
         <title>World Music Album</title>
     </programme>
     <programme start="20260226060000 +0000" stop="20260226061000 +0000" channel="NHK World Premium HD.starhub">
-        <title>News &amp; Weather</title>
+        <title>Natural Grandeur of the East Mini</title>
     </programme>
     <programme start="20260226061000 +0000" stop="20260226063700 +0000" channel="NHK World Premium HD.starhub">
         <title>HOKKAIDODO (R)</title>
@@ -3962,7 +3965,7 @@
         <title>The &quot;Instruction Manual&quot; Show &quot;Cholesterol&quot;</title>
     </programme>
     <programme start="20260226111500 +0000" stop="20260226114000 +0000" channel="NHK World Premium HD.starhub">
-        <title>NHK Regional Showcases</title>
+        <title>NHK Regional Showcases: Nagasaki Special</title>
     </programme>
     <programme start="20260226114000 +0000" stop="20260226114300 +0000" channel="NHK World Premium HD.starhub">
         <title>Mini Program</title>
@@ -3980,7 +3983,7 @@
         <title>Songs of Our Generation</title>
     </programme>
     <programme start="20260226134500 +0000" stop="20260226140000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Night Drama Serial Encore &quot;The Incidents are Happening All Around It.&quot; Season 1 Ep. 4</title>
+        <title>Night Drama Serial &quot;The Incidents are Happening All Around It.&quot; Series 1 Encore</title>
     </programme>
     <programme start="20260226140000 +0000" stop="20260226143000 +0000" channel="NHK World Premium HD.starhub">
         <title>Tokoro-san&#039;s Pursuit of Truth (R)</title>
@@ -4955,13 +4958,13 @@
         <title>Snehakkoottu</title>
     </programme>
     <programme start="20260226133000 +0000" stop="20260226140000 +0000" channel="Asianet.starhub">
-        <title>Sindhoorapottu (Dub)</title>
+        <title>Star Singer Season 10</title>
     </programme>
     <programme start="20260226140000 +0000" stop="20260226143000 +0000" channel="Asianet.starhub">
-        <title>Mounaragam</title>
+        <title>Star Singer Season 10</title>
     </programme>
     <programme start="20260226143000 +0000" stop="20260226150000 +0000" channel="Asianet.starhub">
-        <title>Santhwanam-2</title>
+        <title>Star Singer Season 10</title>
     </programme>
     <programme start="20260226150000 +0000" stop="20260226153000 +0000" channel="Asianet.starhub">
         <title>Mazha thorum Munpe</title>
