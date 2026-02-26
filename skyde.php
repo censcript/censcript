@@ -966,11 +966,8 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260226125000 +0000" stop="20260226140500 +0000" channel="DAZN 1 HD.skyde">
     <title>ALL IN - Die Bundesliga Highlight Show: 23. Spieltag</title>
 </programme>
-<programme start="20260226140500 +0000" stop="20260226160500 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260226140500 +0000" stop="20260226162500 +0000" channel="DAZN 1 HD.skyde">
     <title>Bundesliga 25/26: FC Bayern München - Eintracht Frankfurt</title>
-</programme>
-<programme start="20260226160500 +0000" stop="20260226162500 +0000" channel="DAZN 1 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
 </programme>
 <programme start="20260226162500 +0000" stop="20260226165500 +0000" channel="DAZN 1 HD.skyde">
     <title>Doppelpack Europa - Highlights der Serie A und Ligue 1 25/26: 26./23. Spieltag</title>
@@ -978,11 +975,8 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260226165500 +0000" stop="20260226173000 +0000" channel="DAZN 1 HD.skyde">
     <title>Google Pixel Frauen-Bundesliga Highlightshow 25/26: 19. Spieltag</title>
 </programme>
-<programme start="20260226173000 +0000" stop="20260226192000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260226173000 +0000" stop="20260226193000 +0000" channel="DAZN 1 HD.skyde">
     <title>EHF Champions League 25/26: Füchse Berlin - KS Vive Kielce</title>
-</programme>
-<programme start="20260226192000 +0000" stop="20260226193000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
 </programme>
 <programme start="20260226193000 +0000" stop="20260226212000 +0000" channel="DAZN 1 HD.skyde">
     <title>EHF Champions League 25/26: ORLEN Wisla Plock - SC Magdeburg</title>
@@ -2631,49 +2625,43 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260226222500 +0000" stop="20260226231500 +0000" channel="Sky Showcase HD.skyde">
     <title>William &amp; Harry: Royals zwischen Liebe und Loyalität</title>
 </programme>
-<programme start="20260225230000 +0000" stop="20260225231500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Die UEFA CL am Dienstag: Alle Spiele, alle Tore, Knockout Play-offs, Rückspiele</title>
-</programme>
-<programme start="20260225231500 +0000" stop="20260226001500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260225230000 +0000" stop="20260226010000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA CL: Atletico Madrid - Club Brügge, Knockout Play-offs, Rückspiel</title>
 </programme>
-<programme start="20260226001500 +0000" stop="20260226021500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260226010000 +0000" stop="20260226030000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA CL: Newcastle United - FK Qarabag, Knockout Play-offs, Rückspiele</title>
 </programme>
-<programme start="20260226021500 +0000" stop="20260226041500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260226030000 +0000" stop="20260226045500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA CL: Bayer Leverkusen - Olympiakos Piräus, Knockout Play-offs, Rückspiele</title>
 </programme>
-<programme start="20260226041500 +0000" stop="20260226043000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260226045500 +0000" stop="20260226051500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Die UEFA CL am Dienstag: Alle Spiele, alle Tore, Knockout Play-offs, Rückspiele</title>
 </programme>
-<programme start="20260226043000 +0000" stop="20260226050000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>RIESENrad: Sportgrößen im Waggon 28 (Gast: Hannes Reichelt)</title>
-</programme>
-<programme start="20260226050000 +0000" stop="20260226070000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260226051500 +0000" stop="20260226071500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA CL: Atletico Madrid - Club Brügge, Knockout Play-offs, Rückspiel</title>
 </programme>
-<programme start="20260226070000 +0000" stop="20260226080000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260226071500 +0000" stop="20260226081500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA EL: UEL &amp; UECL Magazin</title>
 </programme>
-<programme start="20260226080000 +0000" stop="20260226100000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260226081500 +0000" stop="20260226101500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA CL: Bayer Leverkusen - Olympiakos Piräus, Knockout Play-offs, Rückspiele</title>
 </programme>
-<programme start="20260226100000 +0000" stop="20260226120000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260226101500 +0000" stop="20260226121500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA EL: SK Brann - FC Bologna, Knockout Play-offs, Hinspiel</title>
 </programme>
-<programme start="20260226120000 +0000" stop="20260226121500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260226121500 +0000" stop="20260226123000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Die UEFA CL am Dienstag: Alle Spiele, alle Tore, Knockout Play-offs, Rückspiele</title>
 </programme>
-<programme start="20260226121500 +0000" stop="20260226131500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260226123000 +0000" stop="20260226132000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA EL: UEL &amp; UECL Magazin</title>
 </programme>
-<programme start="20260226131500 +0000" stop="20260226151500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260226132000 +0000" stop="20260226152000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA EL: Fenerbahce Istanbul - Nottingham Forest, Knockout Play-offs, Hinspiel</title>
 </programme>
-<programme start="20260226151500 +0000" stop="20260226160000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260226152000 +0000" stop="20260226161000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Der UEFA Super Donnerstag: Alle Spiele, alle Tore, Knockout Play-offs, Hinspiele</title>
 </programme>
-<programme start="20260226160000 +0000" stop="20260226170000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260226161000 +0000" stop="20260226170000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA EL: UEL &amp; UECL Magazin</title>
 </programme>
 <programme start="20260226170000 +0000" stop="20260226173500 +0000" channel="Sky Sport Austria 1 HD.skyde">
@@ -2694,10 +2682,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260226171500 +0000" stop="20260226173500 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: UEFA Europa League</title>
 </programme>
-<programme start="20260226173500 +0000" stop="20260226195000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20260226173500 +0000" stop="20260226202500 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live UEFA EL: Roter Stern Belgrad - LOSC Lille, Knockout Play-offs, Rückspiel</title>
 </programme>
-<programme start="20260226195000 +0000" stop="20260226230000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20260226202500 +0000" stop="20260226221000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live UEFA EL: Nottingham Forest - Fenerbahce Istanbul, Knockout Play-offs, Rückspiel</title>
 </programme>
 <programme start="20260226171500 +0000" stop="20260226173500 +0000" channel="Sky Sport Austria 3 HD.skyde">
@@ -2706,16 +2694,16 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260226173500 +0000" stop="20260226195000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live UEFA EL: VfB Stuttgart - Celtic Glasgow, Knockout Play-offs, Rückspiel</title>
 </programme>
-<programme start="20260226195000 +0000" stop="20260226230000 +0000" channel="Sky Sport Austria 3 HD.skyde">
+<programme start="20260226195000 +0000" stop="20260226221000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live UEFA EL: FC Bologna - SK Brann, Knockout Play-offs, Rückspiel</title>
 </programme>
 <programme start="20260226171500 +0000" stop="20260226173500 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Es folgt: UEFA Europa League</title>
 </programme>
-<programme start="20260226173500 +0000" stop="20260226195000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+<programme start="20260226173500 +0000" stop="20260226204000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live UEFA EL: Viktoria Pilsen - Panathinaikos Athen, Knockout Play-offs, Rückspiel</title>
 </programme>
-<programme start="20260226195000 +0000" stop="20260226230000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+<programme start="20260226204000 +0000" stop="20260226221000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live UEFA EL: Celta Vigo - PAOK Saloniki, Knockout Play-offs, Rückspiel</title>
 </programme>
 <programme start="20260226171500 +0000" stop="20260226173500 +0000" channel="Sky Sport Austria 5 HD.skyde">
@@ -2730,10 +2718,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260226171500 +0000" stop="20260226173500 +0000" channel="Sky Sport Austria 6 HD.skyde">
     <title>Es folgt: UEFA Europa League</title>
 </programme>
-<programme start="20260226173500 +0000" stop="20260226195000 +0000" channel="Sky Sport Austria 6 HD.skyde">
+<programme start="20260226173500 +0000" stop="20260226203000 +0000" channel="Sky Sport Austria 6 HD.skyde">
     <title>Live UEFA ECL: AC Florenz - Jagiellonia Bialystok, Knockout Play-offs, Rückspiel</title>
 </programme>
-<programme start="20260226195000 +0000" stop="20260226230000 +0000" channel="Sky Sport Austria 6 HD.skyde">
+<programme start="20260226203000 +0000" stop="20260226230000 +0000" channel="Sky Sport Austria 6 HD.skyde">
     <title>Live UEFA ECL: Lech Posen - KuPS Kuopio, Knockout Play-offs, Rückspiel</title>
 </programme>
 <programme start="20260226171500 +0000" stop="20260226173500 +0000" channel="Sky Sport Austria 7 HD.skyde">
@@ -2742,7 +2730,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260226173500 +0000" stop="20260226195000 +0000" channel="Sky Sport Austria 7 HD.skyde">
     <title>Live UEFA ECL: FC Samsunspor - KF Shkendija, Knockout Play-offs, Rückspiel</title>
 </programme>
-<programme start="20260226195000 +0000" stop="20260226230000 +0000" channel="Sky Sport Austria 7 HD.skyde">
+<programme start="20260226195000 +0000" stop="20260226221000 +0000" channel="Sky Sport Austria 7 HD.skyde">
     <title>Live UEFA ECL: AZ Alkmaar - FC Noah, Knockout Play-offs, Rückspiel</title>
 </programme>
 <programme start="20260226171500 +0000" stop="20260226173500 +0000" channel="Sky Sport Austria 8 HD.skyde">
@@ -2751,7 +2739,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260226173500 +0000" stop="20260226195000 +0000" channel="Sky Sport Austria 8 HD.skyde">
     <title>Live UEFA ECL: HNK Rijeka - FC Omonoia, Knockout Play-offs, Rückspiel</title>
 </programme>
-<programme start="20260226195000 +0000" stop="20260226230000 +0000" channel="Sky Sport Austria 8 HD.skyde">
+<programme start="20260226195000 +0000" stop="20260226221000 +0000" channel="Sky Sport Austria 8 HD.skyde">
     <title>Live UEFA ECL: FC Lausanne - Sigma Olmütz, Knockout Play-offs, Rückspiel</title>
 </programme>
 <programme start="20260225230000 +0000" stop="20260225233000 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -2988,10 +2976,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260226172000 +0000" stop="20260226173500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Highlights EDM@ANA</title>
 </programme>
-<programme start="20260226173500 +0000" stop="20260226195000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260226173500 +0000" stop="20260226204000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live UEFA EL: Viktoria Pilsen - Panathinaikos Athen, Knockout Play-offs, Rückspiel</title>
 </programme>
-<programme start="20260226195000 +0000" stop="20260226220500 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260226204000 +0000" stop="20260226220500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live UEFA EL: FC Bologna - SK Brann, Knockout Play-offs, Rückspiel</title>
 </programme>
 <programme start="20260226220500 +0000" stop="20260226230000 +0000" channel="Sky Sport Mix HD.skyde">
@@ -3177,29 +3165,20 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260226224500 +0000" stop="20260226234500 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: Generation xG</title>
 </programme>
-<programme start="20260226000000 +0000" stop="20260226060000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260225234500 +0000" stop="20260226071000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP 500: Abierto Mexicano Telcel presented by HSBC in Acapulco (MEX), 3. Tag</title>
 </programme>
-<programme start="20260226060000 +0000" stop="20260226080000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260226071000 +0000" stop="20260226091000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: D. Yastremska (UKR) - M. Stakusic (CAN), Merida Open in Merida (MEX), 1. Tag</title>
 </programme>
-<programme start="20260226080000 +0000" stop="20260226090000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: Review Rotterdam</title>
-</programme>
-<programme start="20260226090000 +0000" stop="20260226093000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: Review Dubai</title>
+<programme start="20260226091000 +0000" stop="20260226093000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 500: Review Doha</title>
 </programme>
 <programme start="20260226093000 +0000" stop="20260226100000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
 </programme>
-<programme start="20260226100000 +0000" stop="20260226190000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260226100000 +0000" stop="20260226200000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP 500: Dubai Duty Free Tennis Championships in Dubai (VAE), 4. Tag</title>
-</programme>
-<programme start="20260226190000 +0000" stop="20260226193000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP: This Week</title>
-</programme>
-<programme start="20260226193000 +0000" stop="20260226200000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA: All Access Magazine Show</title>
 </programme>
 <programme start="20260226200000 +0000" stop="20260227000000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live WTA 500: Merida Open in Merida (MEX), 4. Tag</title>
@@ -3573,31 +3552,31 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260226082500 +0000" stop="20260226085000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Die Nanny</title>
 </programme>
-<programme start="20260226085000 +0000" stop="20260226091500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260226085000 +0000" stop="20260226092000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20260226091500 +0000" stop="20260226094000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260226092000 +0000" stop="20260226094000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
 <programme start="20260226094000 +0000" stop="20260226100500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20260226100500 +0000" stop="20260226103000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260226100500 +0000" stop="20260226103500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20260226103000 +0000" stop="20260226105500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260226103500 +0000" stop="20260226105500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20260226105500 +0000" stop="20260226112500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260226105500 +0000" stop="20260226112000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20260226112500 +0000" stop="20260226115000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260226112000 +0000" stop="20260226114500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20260226115000 +0000" stop="20260226121500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260226114500 +0000" stop="20260226121000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20260226121500 +0000" stop="20260226124000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260226121000 +0000" stop="20260226124000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
 <programme start="20260226124000 +0000" stop="20260226130500 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3651,10 +3630,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260226191500 +0000" stop="20260226194000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Two and a Half Men</title>
 </programme>
-<programme start="20260226194000 +0000" stop="20260226200000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260226194000 +0000" stop="20260226200500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Two and a Half Men</title>
 </programme>
-<programme start="20260226200000 +0000" stop="20260226202500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260226200500 +0000" stop="20260226202500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Two and a Half Men</title>
 </programme>
 <programme start="20260226202500 +0000" stop="20260226205000 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3693,22 +3672,22 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260226050000 +0000" stop="20260226063000 +0000" channel="Warner TV Film.skyde">
     <title>Heimweh</title>
 </programme>
-<programme start="20260226063000 +0000" stop="20260226081500 +0000" channel="Warner TV Film.skyde">
+<programme start="20260226063000 +0000" stop="20260226081000 +0000" channel="Warner TV Film.skyde">
     <title>Dead Bang - Kurzer Prozess</title>
 </programme>
-<programme start="20260226081500 +0000" stop="20260226102500 +0000" channel="Warner TV Film.skyde">
+<programme start="20260226081000 +0000" stop="20260226102500 +0000" channel="Warner TV Film.skyde">
     <title>Große Lüge Lylah Clare</title>
 </programme>
 <programme start="20260226102500 +0000" stop="20260226121500 +0000" channel="Warner TV Film.skyde">
     <title>Edge of Tomorrow - Live. Die. Repeat</title>
 </programme>
-<programme start="20260226121500 +0000" stop="20260226140000 +0000" channel="Warner TV Film.skyde">
+<programme start="20260226121500 +0000" stop="20260226135500 +0000" channel="Warner TV Film.skyde">
     <title>Nico</title>
 </programme>
-<programme start="20260226140000 +0000" stop="20260226160500 +0000" channel="Warner TV Film.skyde">
+<programme start="20260226135500 +0000" stop="20260226160000 +0000" channel="Warner TV Film.skyde">
     <title>Ocean&#039;s Twelve</title>
 </programme>
-<programme start="20260226160500 +0000" stop="20260226174500 +0000" channel="Warner TV Film.skyde">
+<programme start="20260226160000 +0000" stop="20260226174500 +0000" channel="Warner TV Film.skyde">
     <title>Der Mackintosh-Mann</title>
 </programme>
 <programme start="20260226174500 +0000" stop="20260226191500 +0000" channel="Warner TV Film.skyde">
@@ -3732,22 +3711,22 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260226050000 +0000" stop="20260226063000 +0000" channel="Warner TV Film HD.skyde">
     <title>Heimweh</title>
 </programme>
-<programme start="20260226063000 +0000" stop="20260226081500 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20260226063000 +0000" stop="20260226081000 +0000" channel="Warner TV Film HD.skyde">
     <title>Dead Bang - Kurzer Prozess</title>
 </programme>
-<programme start="20260226081500 +0000" stop="20260226102500 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20260226081000 +0000" stop="20260226102500 +0000" channel="Warner TV Film HD.skyde">
     <title>Große Lüge Lylah Clare</title>
 </programme>
 <programme start="20260226102500 +0000" stop="20260226121500 +0000" channel="Warner TV Film HD.skyde">
     <title>Edge of Tomorrow - Live. Die. Repeat</title>
 </programme>
-<programme start="20260226121500 +0000" stop="20260226140000 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20260226121500 +0000" stop="20260226135500 +0000" channel="Warner TV Film HD.skyde">
     <title>Nico</title>
 </programme>
-<programme start="20260226140000 +0000" stop="20260226160500 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20260226135500 +0000" stop="20260226160000 +0000" channel="Warner TV Film HD.skyde">
     <title>Ocean&#039;s Twelve</title>
 </programme>
-<programme start="20260226160500 +0000" stop="20260226174500 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20260226160000 +0000" stop="20260226174500 +0000" channel="Warner TV Film HD.skyde">
     <title>Der Mackintosh-Mann</title>
 </programme>
 <programme start="20260226174500 +0000" stop="20260226191500 +0000" channel="Warner TV Film HD.skyde">
