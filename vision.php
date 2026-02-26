@@ -730,18 +730,6 @@
 <programme start="20260226111000 +0000" stop="20260226113000 +0000" channel="ANTV.vision">
 <title>Sepiring Berduet</title>
 </programme>
-<programme start="20260226113000 +0000" stop="20260226133000 +0000" channel="ANTV.vision">
-<title>Siluman Kera</title>
-</programme>
-<programme start="20260226133000 +0000" stop="20260226153000 +0000" channel="ANTV.vision">
-<title>Noda X</title>
-</programme>
-<programme start="20260226153000 +0000" stop="20260226173000 +0000" channel="ANTV.vision">
-<title>Lupa Aturan Main</title>
-</programme>
-<programme start="20260226173000 +0000" stop="20260226193000 +0000" channel="ANTV.vision">
-<title>Edge Of Fear</title>
-</programme>
 <programme start="20260226193000 +0000" stop="20260226213000 +0000" channel="ANTV.vision">
 <title>Jodoh Boleh Di Atur</title>
 </programme>
@@ -1497,4 +1485,16 @@
 </programme>
 <programme start="20260226083000 +0000" stop="20260226090000 +0000" channel="BTV.vision">
 <title>Berita Kriminal</title>
+</programme>
+<programme start="20260226090000 +0000" stop="20260226090500 +0000" channel="BTV.vision">
+<title>Berita Satu Terkini</title>
+</programme>
+<programme start="20260226090500 +0000" stop="20260226100400 +0000" channel="BTV.vision">
+<title>Berita Satu Sore</title>
+</programme>
+<programme start="20260226100400 +0000" stop="20260226110300 +0000" channel="BTV.vision">
+<title>Jalan Dakwah</title>
+</programme>
+<programme start="20260226110300 +0000" stop="20260226111000 +0000" channel="BTV.vision">
+<title>Kultum</title>
 </programme>
