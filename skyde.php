@@ -2631,6 +2631,12 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260226222500 +0000" stop="20260226231500 +0000" channel="Sky Showcase HD.skyde">
     <title>William &amp; Harry: Royals zwischen Liebe und Loyalität</title>
 </programme>
+<programme start="20260225230000 +0000" stop="20260225231500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Die UEFA CL am Dienstag: Alle Spiele, alle Tore, Knockout Play-offs, Rückspiele</title>
+</programme>
+<programme start="20260225231500 +0000" stop="20260226001500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>UEFA CL: Atletico Madrid - Club Brügge, Knockout Play-offs, Rückspiel</title>
+</programme>
 <programme start="20260226001500 +0000" stop="20260226021500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA CL: Newcastle United - FK Qarabag, Knockout Play-offs, Rückspiele</title>
 </programme>
