@@ -3829,6 +3829,9 @@
     <programme start="20260227010500 +0000" stop="20260227023400 +0000" channel="NHK World Premium HD.starhub">
         <title>The Great Nature &quot;Cascade Range&quot; (R)</title>
     </programme>
+    <programme start="20260227023400 +0000" stop="20260227024100 +0000" channel="NHK World Premium HD.starhub">
+        <title>Mini Program</title>
+    </programme>
     <programme start="20260227024100 +0000" stop="20260227024500 +0000" channel="NHK World Premium HD.starhub">
         <title>Mini Program</title>
     </programme>
@@ -3871,10 +3874,13 @@
     <programme start="20260227061000 +0000" stop="20260227063000 +0000" channel="NHK World Premium HD.starhub">
         <title>Chinese Navi</title>
     </programme>
-    <programme start="20260227063000 +0000" stop="20260227072900 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20260227063000 +0000" stop="20260227073000 +0000" channel="NHK World Premium HD.starhub">
         <title>ETV Special &quot;Fading Homeland&quot; (R)</title>
     </programme>
-    <programme start="20260227072900 +0000" stop="20260227074000 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20260227073000 +0000" stop="20260227073700 +0000" channel="NHK World Premium HD.starhub">
+        <title>Mini Program</title>
+    </programme>
+    <programme start="20260227073700 +0000" stop="20260227074000 +0000" channel="NHK World Premium HD.starhub">
         <title>Mini Program</title>
     </programme>
     <programme start="20260227074000 +0000" stop="20260227081000 +0000" channel="NHK World Premium HD.starhub">
