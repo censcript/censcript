@@ -15516,8 +15516,8 @@
     <category lang="en">Football</category>
   </programme>
   <programme start="20260226120000 +0000" stop="20260226140000 +0000" channel="spotv.unifitv">
-    <title lang="en">25/26 A-League Men Round 20 - Macarthur FC vs Central Coast Mariners FC</title>
-    <desc lang="en">Top flight men's soccer returns in the ISUZU UTE A-League Men. Catch every moment on SPOTV NOW as 12 teams compete in the regular season with top 4 advancing to a single-game knockout.</desc>
+    <title lang="en">25/26 ROSHN Saudi League MW 23 - Al Nassr vs Al Hazem</title>
+    <desc lang="en">Prominent professional players take centre-stage in the ROSHN Saudi League. Don't miss a moment of these matches every week. Download SPOTV NOW and catch these live matches and highlights.</desc>
     <category lang="en">Football</category>
   </programme>
   <programme start="20260226140000 +0000" stop="20260226160000 +0000" channel="spotv.unifitv">

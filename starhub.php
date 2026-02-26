@@ -1952,10 +1952,10 @@
         <title>TotalEnergies CAF Champions League 2025/26: RS Berkane vs Rivers</title>
     </programme>
     <programme start="20260225180000 +0000" stop="20260225195500 +0000" channel="beIN Sports 3.starhub">
-        <title>UEFA Women&#039;s Champions League 2025/26: Man United vs Atletico Madrid - KO Play-Offs, 2nd Leg</title>
+        <title>UEFA Women&#039;s Champions League 2025/26: Man United vs Atletico Madrid - KO Play-O</title>
     </programme>
     <programme start="20260225195500 +0000" stop="20260225220000 +0000" channel="beIN Sports 3.starhub">
-        <title>UEFA Champions League 2025/26: Real Madrid vs Benfica - KO Play-Offs,2nd Leg (Live)</title>
+        <title>UEFA Champions League 2025/26: Real Madrid vs Benfica - KO Play-Offs,2nd Leg (Li</title>
     </programme>
     <programme start="20260225220000 +0000" stop="20260225223000 +0000" channel="beIN Sports 3.starhub">
         <title>February</title>
@@ -1969,11 +1969,8 @@
     <programme start="20260225233000 +0000" stop="20260226013000 +0000" channel="beIN Sports 3.starhub">
         <title>UEFA Champions League 2025/26: Atalanta vs Dortmund - KO Play-Offs,2nd Leg</title>
     </programme>
-    <programme start="20260226013000 +0000" stop="20260226033000 +0000" channel="beIN Sports 3.starhub">
+    <programme start="20260226013000 +0000" stop="20260226040000 +0000" channel="beIN Sports 3.starhub">
         <title>UEFA Champions League 2025/26: Juventus vs Galatasaray - KO Play-Offs,2nd Leg</title>
-    </programme>
-    <programme start="20260226033000 +0000" stop="20260226040000 +0000" channel="beIN Sports 3.starhub">
-        <title>ONE Weekly 2026</title>
     </programme>
     <programme start="20260226040000 +0000" stop="20260226043000 +0000" channel="beIN Sports 3.starhub">
         <title>Wed,Knockout RD Play-Offs,2nd Leg</title>
@@ -1981,8 +1978,11 @@
     <programme start="20260226043000 +0000" stop="20260226063000 +0000" channel="beIN Sports 3.starhub">
         <title>UEFA Champions League 2025/26: Newcastle vs Qarabag - KO Play-Offs,2nd Leg</title>
     </programme>
-    <programme start="20260226063000 +0000" stop="20260226073000 +0000" channel="beIN Sports 3.starhub">
-        <title>UEL MD9/UECL MD7 Review &amp; UEL MD10/UECL MD8 Preview</title>
+    <programme start="20260226063000 +0000" stop="20260226070000 +0000" channel="beIN Sports 3.starhub">
+        <title>ONE Weekly 2026</title>
+    </programme>
+    <programme start="20260226070000 +0000" stop="20260226073000 +0000" channel="beIN Sports 3.starhub">
+        <title>February</title>
     </programme>
     <programme start="20260226073000 +0000" stop="20260226093000 +0000" channel="beIN Sports 3.starhub">
         <title>UEFA Champions League 2025/26: Inter vs Bodo/Glimt - KO Play-Offs,2nd Leg</title>
