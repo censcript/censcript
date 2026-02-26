@@ -1,17 +1,13 @@
-<programme start="20260226180000 +0700" stop="20260226200000 +0700" channel="COSMOTE Sport 1 HD">
+<programme start="20260226173000 +0700" stop="20260226201000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Juventus Football Club - Galatasaray AS</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260226200000 +0700" stop="20260226220000 +0700" channel="COSMOTE Sport 1 HD">
+<programme start="20260226201000 +0700" stop="20260226221500 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Real Madrid CF - SL Benfica</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260226220000 +0700" stop="20260227000000 +0700" channel="COSMOTE Sport 1 HD">
+<programme start="20260226221500 +0700" stop="20260227001500 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Paris Saint Germain - AS Monaco FC</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260227000000 +0700" stop="20260227001500 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Sports Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260227001500 +0700" stop="20260227004500 +0700" channel="COSMOTE Sport 1 HD">
@@ -263,7 +259,7 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260226203000 +0700" stop="20260226210000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Sports Classics: Gearing Up 2025 E1</title>
+    <title>Sports Classics: Gearing Up 2026 E1</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260226210000 +0700" stop="20260226220000 +0700" channel="COSMOTE Sport 5 HD">
@@ -323,7 +319,7 @@
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20260227114500 +0700" stop="20260227121500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Sports Classics: Gearing Up 2025 E1</title>
+    <title>Sports Classics: Gearing Up 2026 E1</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260227121500 +0700" stop="20260227131000 +0700" channel="COSMOTE Sport 5 HD">
@@ -375,11 +371,11 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260226220000 +0700" stop="20260227000000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: ATP 500 2026 (L)</title>
+    <title>Tennis: Andrey Rublev - Arthur Rinderknech (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20260227000000 +0700" stop="20260227023000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: ATP 500 2026 (L)</title>
+    <title>Tennis: Jakub Mensik - Tallon Griekspoor (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20260227023000 +0700" stop="20260227030000 +0700" channel="COSMOTE Sport 6 HD">
@@ -399,23 +395,23 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260227070000 +0700" stop="20260227093000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: ATP 500 2026 (L)</title>
+    <title>Tennis: Yibing Wu - Flavio Cobolli (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20260227093000 +0700" stop="20260227110000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Handball: SC Magdeburg - GWD Minden</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260227110000 +0700" stop="20260227133000 +0700" channel="COSMOTE Sport 6 HD">
+<programme start="20260227110000 +0700" stop="20260227134000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Volleyball: Panionios - Panathinaikos</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260227133000 +0700" stop="20260227173000 +0700" channel="COSMOTE Sport 6 HD">
+<programme start="20260227134000 +0700" stop="20260227173000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP 500 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260227173000 +0700" stop="20260227200000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: ATP 500 2026</title>
+    <title>Tennis: Yibing Wu - Flavio Cobolli</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260226170000 +0700" stop="20260226190000 +0700" channel="COSMOTE Sport 7 HD">
