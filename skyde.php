@@ -2805,7 +2805,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260227164000 +0000" stop="20260227170000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Es folgt: Live 2. Bundesliga</title>
 </programme>
-<programme start="20260227170000 +0000" stop="20260227193000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
+<programme start="20260227170000 +0000" stop="20260227200000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live 2. BL: Fortuna Düsseldorf - VfL Bochum. 24. Spieltag</title>
 </programme>
 <programme start="20260227164000 +0000" stop="20260227170000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
@@ -3234,7 +3234,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260227200000 +0000" stop="20260228010000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live WTA 500: Merida Open in Merida (MEX), 5. Tag</title>
 </programme>
-<programme start="20260227001000 +0000" stop="20260227015500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260227000000 +0000" stop="20260227015500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live ATP 500: Abierto Mexicano Telcel presented by HSBC in Acapulco (MEX), 4. Tag</title>
 </programme>
 <programme start="20260227015500 +0000" stop="20260227024000 +0000" channel="Sky Sport Top Event HD.skyde">

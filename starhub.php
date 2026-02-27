@@ -725,7 +725,7 @@
         <title>Newscenter</title>
     </programme>
     <programme start="20260227113000 +0000" stop="20260227120000 +0000" channel="Arirang TV HD.starhub">
-        <title>Within The Frame [L]</title>
+        <title>Within The Frame [R]</title>
     </programme>
     <programme start="20260227120000 +0000" stop="20260227123000 +0000" channel="Arirang TV HD.starhub">
         <title>K-Culture Dive [R]</title>
@@ -2174,10 +2174,10 @@
         <title>HSBC SVNS2 2026: Uruguay vs Canada - Kenya Day 2, Men</title>
     </programme>
     <programme start="20260226174000 +0000" stop="20260226195500 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>UEFA Conference League 2025/26: Fiorentina vs Jagiellonia Bialystok - KO Play-Offs,2nd Leg (Live)</title>
+        <title>UEFA Conference League 2025/26: Fiorentina vs Jagiellonia Bialystok - KO Play-Of</title>
     </programme>
     <programme start="20260226195500 +0000" stop="20260226220000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>UEFA Conference League 2025/26: Crystal Palace vs Zrinjski - KO Play-Offs,2nd Leg (Live)</title>
+        <title>UEFA Conference League 2025/26: Crystal Palace vs Zrinjski - KO Play-Offs,2nd Le</title>
     </programme>
     <programme start="20260226220000 +0000" stop="20260226233000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>Premier Padel 2026: Riyadh P1 Day 5 SF 1 - Women</title>
@@ -4694,7 +4694,7 @@
         <title>Azhagae Azhagu</title>
     </programme>
     <programme start="20260226200000 +0000" stop="20260226203000 +0000" channel="Vijay TV HD.starhub">
-        <title>Sakthivel - Theeyaai Oru Theeraakkaadhal</title>
+        <title>Sakthivel: Theeyaai Oru Theeraa Kaadhal</title>
     </programme>
     <programme start="20260226203000 +0000" stop="20260226210000 +0000" channel="Vijay TV HD.starhub">
         <title>Kanmani Anbudan</title>
@@ -4706,7 +4706,7 @@
         <title>Suttum Vizhi Sudare - Oru Chinanjiru Kuyilin Kadhai</title>
     </programme>
     <programme start="20260226220000 +0000" stop="20260226223000 +0000" channel="Vijay TV HD.starhub">
-        <title>TBA</title>
+        <title>Dhanam - Ungalil Oruthi</title>
     </programme>
     <programme start="20260226223000 +0000" stop="20260226230000 +0000" channel="Vijay TV HD.starhub">
         <title>Ayyanar Thunai</title>
@@ -7858,14 +7858,17 @@
     <programme start="20260227150000 +0000" stop="20260227160000 +0000" channel="Sony Entertainment Television.starhub">
         <title>CID</title>
     </programme>
-    <programme start="20260226153000 +0000" stop="20260226163500 +0000" channel="ABC Australia HD.starhub">
+    <programme start="20260226153000 +0000" stop="20260226162000 +0000" channel="ABC Australia HD.starhub">
         <title>See What You Made Me Do S1</title>
+    </programme>
+    <programme start="20260226162000 +0000" stop="20260226163500 +0000" channel="ABC Australia HD.starhub">
+        <title>Mamirnikuwi</title>
     </programme>
     <programme start="20260226163500 +0000" stop="20260226165500 +0000" channel="ABC Australia HD.starhub">
         <title>Media Watch (2026)</title>
     </programme>
     <programme start="20260226165500 +0000" stop="20260226180000 +0000" channel="ABC Australia HD.starhub">
-        <title>Senator Tim Ayres - Minister for Industry, Innovation and Science</title>
+        <title>Professor Toby Walsh - Scientia Professor of AI</title>
     </programme>
     <programme start="20260226180000 +0000" stop="20260226190000 +0000" channel="ABC Australia HD.starhub">
         <title>The World (2026)</title>

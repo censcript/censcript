@@ -718,9 +718,6 @@
 <programme start="20260227003000 +0000" stop="20260227023000 +0000" channel="ANTV.vision">
 <title>Janji Inspektur Virat</title>
 </programme>
-<programme start="20260227023000 +0000" stop="20260227060000 +0000" channel="ANTV.vision">
-<title>Raja Hindustani</title>
-</programme>
 <programme start="20260227060000 +0000" stop="20260227080000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20260227140000 +0000" stop="20260227150000 +0000" channel="BTV.vision">
 <title>Berita Viral</title>
+</programme>
+<programme start="20260227150000 +0000" stop="20260227160000 +0000" channel="BTV.vision">
+<title>Berita Satu Malam</title>
 </programme>
