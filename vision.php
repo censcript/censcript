@@ -190,9 +190,6 @@
 <programme start="20260227073000 +0000" stop="20260227093000 +0000" channel="GTV.vision">
 <title>SpongeBob SquarePants</title>
 </programme>
-<programme start="20260227093000 +0000" stop="20260227103500 +0000" channel="GTV.vision">
-<title>SpongeBob SquarePants</title>
-</programme>
 <programme start="20260227103500 +0000" stop="20260227110000 +0000" channel="GTV.vision">
 <title>Ramadan Sama Artis</title>
 </programme>
@@ -720,12 +717,6 @@
 </programme>
 <programme start="20260227111000 +0000" stop="20260227113000 +0000" channel="ANTV.vision">
 <title>Sepiring Berduet</title>
-</programme>
-<programme start="20260227113000 +0000" stop="20260227133000 +0000" channel="ANTV.vision">
-<title>Gadis Bionik</title>
-</programme>
-<programme start="20260227133000 +0000" stop="20260227153000 +0000" channel="ANTV.vision">
-<title>Rajawali Dari Utara</title>
 </programme>
 <programme start="20260227153000 +0000" stop="20260227173000 +0000" channel="ANTV.vision">
 <title>Makin Lama Makin Asik</title>
@@ -1497,4 +1488,13 @@
 </programme>
 <programme start="20260227180000 +0000" stop="20260227180300 +0000" channel="BTV.vision">
 <title>Tanah Airku</title>
+</programme>
+<programme start="20260227180300 +0000" stop="20260227193000 +0000" channel="BTV.vision">
+<title>Berita Satu Utama</title>
+</programme>
+<programme start="20260227193000 +0000" stop="20260227210000 +0000" channel="BTV.vision">
+<title>Jalan Dakwah</title>
+</programme>
+<programme start="20260227210000 +0000" stop="20260227213000 +0000" channel="BTV.vision">
+<title>Sejarah Islam</title>
 </programme>

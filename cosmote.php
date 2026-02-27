@@ -1,11 +1,3 @@
-<programme start="20260227210000 +0700" stop="20260227213000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>UEFA Champions League Highlights 2025-26</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260227213000 +0700" stop="20260227220000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>UEFA Champions League Highlights 2025-26</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260227220000 +0700" stop="20260228010000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Viktoria Plzen - Panathinaikos</title>
     <desc>Live: Tidak</desc>
@@ -90,6 +82,10 @@
     <title>Sports Classics: Worldies E20</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260228220000 +0700" stop="20260301000000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: Preston North End - Millwall (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
 <programme start="20260227210000 +0700" stop="20260227233000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: KRC Genk - GNK Dinamo</title>
     <desc>Live: Tidak</desc>
@@ -160,6 +156,10 @@
 </programme>
 <programme start="20260228213000 +0700" stop="20260228220000 +0700" channel="COSMOTE Sport 2 HD">
     <title>PreGame (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
+<programme start="20260228220000 +0700" stop="20260301002000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: OFI - AEL Novibet (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20260227210000 +0700" stop="20260227230000 +0700" channel="COSMOTE Sport 3 HD">
@@ -234,10 +234,6 @@
     <title>Football: Como - Lecce (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260227192500 +0700" stop="20260227212500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Brescia - Armani Milano</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260227212500 +0700" stop="20260227232500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Bertram Derthona Tortona - Virtus Bologna</title>
     <desc>Live: Tidak</desc>
@@ -294,8 +290,12 @@
     <title>Basketball: Oklahoma City Thunder - Denver Nuggets</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260227210000 +0700" stop="20260227215500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: Moto3 2026</title>
+<programme start="20260228220500 +0700" stop="20260228224000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>NBA Action 2025-26 E3519</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260228224000 +0700" stop="20260301002500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Karditsa - AEK</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260227215500 +0700" stop="20260227225500 +0700" channel="COSMOTE Sport 5 HD">
@@ -402,9 +402,9 @@
     <title>Motorsports: Moto2 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260227200000 +0700" stop="20260227220000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: Felix Auger-Aliassime - Daniil Medvedev (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20260228223000 +0700" stop="20260228230000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Documentary</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260227220000 +0700" stop="20260228003000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Andrey Rublev - Tallon Griekspoor (L)</title>
@@ -449,6 +449,10 @@
 <programme start="20260228180000 +0700" stop="20260228220000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP 500 2026</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260228220000 +0700" stop="20260301003000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: ATP 500 2026 (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260227210000 +0700" stop="20260227230000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
