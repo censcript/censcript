@@ -1972,14 +1972,11 @@
     <programme start="20260227030000 +0000" stop="20260227033000 +0000" channel="beIN Sports 3.starhub">
         <title>ONE Weekly 2026</title>
     </programme>
-    <programme start="20260227033000 +0000" stop="20260227053000 +0000" channel="beIN Sports 3.starhub">
+    <programme start="20260227033000 +0000" stop="20260227055500 +0000" channel="beIN Sports 3.starhub">
         <title>UEFA Europa League 2025/26: Genk vs Dinamo Zagreb - KO Play-Offs,2nd Leg</title>
     </programme>
-    <programme start="20260227053000 +0000" stop="20260227073000 +0000" channel="beIN Sports 3.starhub">
+    <programme start="20260227055500 +0000" stop="20260227083000 +0000" channel="beIN Sports 3.starhub">
         <title>UEFA Europa League 2025/26: Plzen vs Panathinaikos - KO Play-Offs,2nd Leg</title>
-    </programme>
-    <programme start="20260227073000 +0000" stop="20260227083000 +0000" channel="beIN Sports 3.starhub">
-        <title>Knockout RD Play-Offs,2nd Leg</title>
     </programme>
     <programme start="20260227083000 +0000" stop="20260227090000 +0000" channel="beIN Sports 3.starhub">
         <title>Wed,Knockout RD Play-Offs,2nd Leg</title>
@@ -4757,7 +4754,7 @@
         <title>Chinna Marumagal Panirendaam Vaguppu</title>
     </programme>
     <programme start="20260227070000 +0000" stop="20260227073000 +0000" channel="Vijay TV HD.starhub">
-        <title>Sakthivel - Theeyaai Oru Theeraakkaadhal</title>
+        <title>Sakthivel: Theeyaai Oru Theeraa Kaadhal</title>
     </programme>
     <programme start="20260227073000 +0000" stop="20260227080000 +0000" channel="Vijay TV HD.starhub">
         <title>Kanmani Anbudan</title>
@@ -4769,7 +4766,7 @@
         <title>Suttum Vizhi Sudare - Oru Chinanjiru Kuyilin Kadhai</title>
     </programme>
     <programme start="20260227090000 +0000" stop="20260227093000 +0000" channel="Vijay TV HD.starhub">
-        <title>TBA</title>
+        <title>Dhanam - Ungalil Oruthi</title>
     </programme>
     <programme start="20260227093000 +0000" stop="20260227100000 +0000" channel="Vijay TV HD.starhub">
         <title>Ayyanar Thunai</title>
@@ -7421,7 +7418,7 @@
         <title>BBC News</title>
     </programme>
     <programme start="20260227003000 +0000" stop="20260227010000 +0000" channel="BBC World News HD.starhub">
-        <title>Newscast</title>
+        <title>Inside CES</title>
     </programme>
     <programme start="20260227010000 +0000" stop="20260227013000 +0000" channel="BBC World News HD.starhub">
         <title>BBC News</title>

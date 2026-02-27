@@ -2412,6 +2412,105 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260227221500 +0000" stop="20260227230000 +0000" channel="Sky One HD.skyde">
     <title>Navy CIS</title>
 </programme>
+<programme start="20260226230000 +0000" stop="20260226234500 +0000" channel="Sky Replay HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20260226234500 +0000" stop="20260227003000 +0000" channel="Sky Replay HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20260227003000 +0000" stop="20260227011000 +0000" channel="Sky Replay HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20260227011000 +0000" stop="20260227015500 +0000" channel="Sky Replay HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20260227015500 +0000" stop="20260227025000 +0000" channel="Sky Replay HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20260227025000 +0000" stop="20260227033500 +0000" channel="Sky Replay HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20260227033500 +0000" stop="20260227042000 +0000" channel="Sky Replay HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20260227042000 +0000" stop="20260227050500 +0000" channel="Sky Replay HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20260227050500 +0000" stop="20260227055000 +0000" channel="Sky Replay HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20260227055000 +0000" stop="20260227063000 +0000" channel="Sky Replay HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20260227063000 +0000" stop="20260227071500 +0000" channel="Sky Replay HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20260227071500 +0000" stop="20260227080000 +0000" channel="Sky Replay HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20260227080000 +0000" stop="20260227084500 +0000" channel="Sky Replay HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20260227084500 +0000" stop="20260227093000 +0000" channel="Sky Replay HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20260227093000 +0000" stop="20260227101500 +0000" channel="Sky Replay HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20260227101500 +0000" stop="20260227110000 +0000" channel="Sky Replay HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20260227110000 +0000" stop="20260227114500 +0000" channel="Sky Replay HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20260227114500 +0000" stop="20260227123000 +0000" channel="Sky Replay HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20260227123000 +0000" stop="20260227131500 +0000" channel="Sky Replay HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20260227131500 +0000" stop="20260227140000 +0000" channel="Sky Replay HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20260227140000 +0000" stop="20260227144500 +0000" channel="Sky Replay HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20260227144500 +0000" stop="20260227153000 +0000" channel="Sky Replay HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20260227153000 +0000" stop="20260227161500 +0000" channel="Sky Replay HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20260227161500 +0000" stop="20260227170000 +0000" channel="Sky Replay HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20260227170000 +0000" stop="20260227174500 +0000" channel="Sky Replay HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20260227174500 +0000" stop="20260227183000 +0000" channel="Sky Replay HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20260227183000 +0000" stop="20260227191500 +0000" channel="Sky Replay HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20260227191500 +0000" stop="20260227200000 +0000" channel="Sky Replay HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20260227200000 +0000" stop="20260227204500 +0000" channel="Sky Replay HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20260227204500 +0000" stop="20260227212500 +0000" channel="Sky Replay HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20260227212500 +0000" stop="20260227221000 +0000" channel="Sky Replay HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20260227221000 +0000" stop="20260227225500 +0000" channel="Sky Replay HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20260227225500 +0000" stop="20260227234000 +0000" channel="Sky Replay HD.skyde">
+    <title>Navy CIS</title>
+</programme>
 <programme start="20260226231500 +0000" stop="20260227000000 +0000" channel="Sky Showcase HD.skyde">
     <title>William &amp; Harry: Royals zwischen Liebe und Loyalität</title>
 </programme>
@@ -2490,17 +2589,17 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260227223000 +0000" stop="20260227233500 +0000" channel="Sky Showcase HD.skyde">
     <title>Charles Manson: Aufstieg eines Monsters</title>
 </programme>
-<programme start="20260226233000 +0000" stop="20260227013000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260226231500 +0000" stop="20260227000000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Live Der UEFA Super Donnerstag: Alle Spiele, alle Tore, Knockout Play-offs, Rückspiele</title>
+</programme>
+<programme start="20260227000000 +0000" stop="20260227020000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA EL: Roter Stern Belgrad - LOSC Lille, Knockout Play-offs, Rückspiel</title>
 </programme>
-<programme start="20260227013000 +0000" stop="20260227033000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260227020000 +0000" stop="20260227040000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA EL: VfB Stuttgart - Celtic Glasgow, Knockout Play-offs, Rückspiel</title>
 </programme>
-<programme start="20260227033000 +0000" stop="20260227041500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Der UEFA Super Donnerstag: Alle Spiele, alle Tore, Knockout Play-offs, Rückspiele</title>
-</programme>
-<programme start="20260227041500 +0000" stop="20260227061500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>UEFA EL: Nottingham Forest - Fenerbahce Istanbul, Knockout Play-offs, Rückspiel</title>
+<programme start="20260227040000 +0000" stop="20260227061500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>UEFA EL: FC Bologna - SK Brann, Knockout Play-offs, Rückspiel</title>
 </programme>
 <programme start="20260227061500 +0000" stop="20260227064500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: 100% Austria Wien (Runden 17-20)</title>
@@ -2691,7 +2790,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260227170000 +0000" stop="20260227193000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Live 2. BL: Freitags-Konferenz, 24. Spieltag</title>
 </programme>
-<programme start="20260227193000 +0000" stop="20260227201500 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+<programme start="20260227193000 +0000" stop="20260227204500 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Live 2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 24. Spieltag, Freitag</title>
 </programme>
 <programme start="20260227164000 +0000" stop="20260227170000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
@@ -2706,7 +2805,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260227164000 +0000" stop="20260227170000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Es folgt: Live 2. Bundesliga</title>
 </programme>
-<programme start="20260227170000 +0000" stop="20260227193000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
+<programme start="20260227170000 +0000" stop="20260227200000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live 2. BL: Fortuna Düsseldorf - VfL Bochum. 24. Spieltag</title>
 </programme>
 <programme start="20260227164000 +0000" stop="20260227170000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
@@ -3237,8 +3336,17 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260227194000 +0000" stop="20260227200000 +0000" channel="Sky Sport 6 HD.skyde">
     <title>Es folgt: Live Tennis WTA Tour</title>
 </programme>
-<programme start="20260227200000 +0000" stop="20260228040000 +0000" channel="Sky Sport 6 HD.skyde">
+<programme start="20260227200000 +0000" stop="20260228090000 +0000" channel="Sky Sport 6 HD.skyde">
     <title>Live WTA 500: Merida Open in Merida (MEX), 5. Tag</title>
+</programme>
+<programme start="20260227124000 +0000" stop="20260227130000 +0000" channel="Sky Sport 7 HD.skyde">
+    <title>ATP World Tour: Es folgt</title>
+</programme>
+<programme start="20260227130000 +0000" stop="20260227150000 +0000" channel="Sky Sport 7 HD.skyde">
+    <title>Live ATP 500: F. Auger- Aliassime (CAN) - D. Medvedev, Dubai Duty Free Tennis Championships in Dubai (VAE), Halbfinale 1</title>
+</programme>
+<programme start="20260227150000 +0000" stop="20260227190000 +0000" channel="Sky Sport 7 HD.skyde">
+    <title>Live ATP 500: A. Rublev - T. Griekspoor (NED), Dubai Duty Free Tennis Championships in Dubai (VAE), Halbfinale 2</title>
 </programme>
 <programme start="20260226232000 +0000" stop="20260227000500 +0000" channel="SYFY HD.skyde">
     <title>Raumschiff Enterprise - Das nächste Jahrhundert</title>
