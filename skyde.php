@@ -2589,16 +2589,19 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260227223000 +0000" stop="20260227233500 +0000" channel="Sky Showcase HD.skyde">
     <title>Charles Manson: Aufstieg eines Monsters</title>
 </programme>
-<programme start="20260226231500 +0000" stop="20260227000000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260226231500 +0000" stop="20260226233000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Live Der UEFA Super Donnerstag: Alle Spiele, alle Tore, Knockout Play-offs, Rückspiele</title>
 </programme>
-<programme start="20260227000000 +0000" stop="20260227020000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260226233000 +0000" stop="20260227013000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA EL: Roter Stern Belgrad - LOSC Lille, Knockout Play-offs, Rückspiel</title>
 </programme>
-<programme start="20260227020000 +0000" stop="20260227040000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260227013000 +0000" stop="20260227033000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA EL: VfB Stuttgart - Celtic Glasgow, Knockout Play-offs, Rückspiel</title>
 </programme>
-<programme start="20260227040000 +0000" stop="20260227061500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260227033000 +0000" stop="20260227041500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Der UEFA Super Donnerstag: Alle Spiele, alle Tore, Knockout Play-offs, Rückspiele</title>
+</programme>
+<programme start="20260227041500 +0000" stop="20260227061500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA EL: FC Bologna - SK Brann, Knockout Play-offs, Rückspiel</title>
 </programme>
 <programme start="20260227061500 +0000" stop="20260227064500 +0000" channel="Sky Sport Austria 1 HD.skyde">
@@ -3087,120 +3090,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260227220000 +0000" stop="20260227230000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Deine Vorschau</title>
 </programme>
-<programme start="20260226234500 +0000" stop="20260227004500 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: PL Moments: Michael Owen</title>
-</programme>
-<programme start="20260227004500 +0000" stop="20260227010000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>EFL: Highlights XXL: Stoke City - Oxford United, 34. Spieltag</title>
-</programme>
-<programme start="20260227010000 +0000" stop="20260227030000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Goal Rush, AVL - LEE, Premier League Konferenz, 27. Spieltag</title>
-</programme>
-<programme start="20260227030000 +0000" stop="20260227040000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 1 to 11 (Thomas Hitzlsperger)</title>
-</programme>
-<programme start="20260227040000 +0000" stop="20260227060000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: West Ham United - AFC Bournemouth, 27. Spieltag</title>
-</programme>
-<programme start="20260227060000 +0000" stop="20260227070000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: The Catch-Up Show</title>
-</programme>
-<programme start="20260227070000 +0000" stop="20260227071500 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>EFL: Highlights XXL: FC Middlesbrough - Leicester City, 34. Spieltag</title>
-</programme>
-<programme start="20260227071500 +0000" stop="20260227073000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>EFL: Highlights XXL: FC Watford - Ipswich Town, 34. Spieltag</title>
-</programme>
-<programme start="20260227073000 +0000" stop="20260227080000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Club 100: Robbie Fowler</title>
-</programme>
-<programme start="20260227080000 +0000" stop="20260227083000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Under the Skin (Nottingham Forest)</title>
-</programme>
-<programme start="20260227083000 +0000" stop="20260227090000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Unter dem Radar? Kevin Schade Exklusiv</title>
-</programme>
-<programme start="20260227090000 +0000" stop="20260227093000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: PL Rewind: Dietmar Hamann - My Liverpool Years</title>
-</programme>
-<programme start="20260227093000 +0000" stop="20260227100000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 90in30: BRE - BRI, 27. Spieltag</title>
-</programme>
-<programme start="20260227100000 +0000" stop="20260227101500 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Greatest Games: FC Chelsea - FC Arsenal (1997)</title>
-</programme>
-<programme start="20260227101500 +0000" stop="20260227103000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Bergkamp: Genius of Space</title>
-</programme>
-<programme start="20260227103000 +0000" stop="20260227110000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 90in30: SUN - FUL, 27. Spieltag</title>
-</programme>
-<programme start="20260227110000 +0000" stop="20260227113000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: PL Stories (The Invincibles)</title>
-</programme>
-<programme start="20260227113000 +0000" stop="20260227120000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 90in30: NFO - LIV, 27. Spieltag</title>
-</programme>
-<programme start="20260227120000 +0000" stop="20260227121500 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>EFL: Highlights XXL: Stoke City - Oxford United, 34. Spieltag</title>
-</programme>
-<programme start="20260227121500 +0000" stop="20260227123000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>EFL: Highlights XXL: AFC Wrexham - FC Portsmouth, 34. Spieltag</title>
-</programme>
-<programme start="20260227123000 +0000" stop="20260227130000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 90in30: CRY - WOL, 27. Spieltag</title>
-</programme>
-<programme start="20260227130000 +0000" stop="20260227133000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Unter dem Radar? Kevin Schade Exklusiv</title>
-</programme>
-<programme start="20260227133000 +0000" stop="20260227140000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 90in30: CHE - BUR, 27. Spieltag</title>
-</programme>
-<programme start="20260227140000 +0000" stop="20260227143000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Club 100: David James</title>
-</programme>
-<programme start="20260227143000 +0000" stop="20260227150000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Unter dem Radar? Kevin Schade Exklusiv</title>
-</programme>
-<programme start="20260227150000 +0000" stop="20260227160000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: The Catch-Up Show</title>
-</programme>
-<programme start="20260227160000 +0000" stop="20260227163000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 90in30: AVL - LEE, 27. Spieltag</title>
-</programme>
-<programme start="20260227163000 +0000" stop="20260227164500 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>EFL: Highlights XXL: FC Middlesbrough - Leicester City, 34. Spieltag</title>
-</programme>
-<programme start="20260227164500 +0000" stop="20260227170000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>EFL: Highlights XXL: FC Watford - Ipswich Town, 34. Spieltag</title>
-</programme>
-<programme start="20260227170000 +0000" stop="20260227173000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Best Goals: Chelsea - Arsenal</title>
-</programme>
-<programme start="20260227173000 +0000" stop="20260227180000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 90in30: TOT - ARS, 27. Spieltag</title>
-</programme>
-<programme start="20260227180000 +0000" stop="20260227182000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: The Greatest Solo Goals</title>
-</programme>
-<programme start="20260227182000 +0000" stop="20260227185000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Unter dem Radar? Kevin Schade Exklusiv</title>
-</programme>
-<programme start="20260227185000 +0000" stop="20260227192000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Netbusters, 27. Spieltag</title>
-</programme>
-<programme start="20260227192000 +0000" stop="20260227195000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Preview, 28. Spieltag (Freitag)</title>
-</programme>
-<programme start="20260227195000 +0000" stop="20260227220000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>Live PL: Wolverhampton Wanderers - Aston Villa, 28. Spieltag</title>
-</programme>
-<programme start="20260227220000 +0000" stop="20260227221500 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Under the Skin (Aston Villa)</title>
-</programme>
-<programme start="20260227221500 +0000" stop="20260228001500 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Wolverhampton Wanderers - Aston Villa, 28. Spieltag</title>
-</programme>
 <programme start="20260227000000 +0000" stop="20260227060000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP 500: Abierto Mexicano Telcel presented by HSBC in Acapulco (MEX), 4. Tag</title>
 </programme>
@@ -3234,7 +3123,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260227200000 +0000" stop="20260228010000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live WTA 500: Merida Open in Merida (MEX), 5. Tag</title>
 </programme>
-<programme start="20260227001000 +0000" stop="20260227015500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260227000000 +0000" stop="20260227015500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live ATP 500: Abierto Mexicano Telcel presented by HSBC in Acapulco (MEX), 4. Tag</title>
 </programme>
 <programme start="20260227015500 +0000" stop="20260227024000 +0000" channel="Sky Sport Top Event HD.skyde">
