@@ -2775,6 +2775,15 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260227221500 +0000" stop="20260228001500 +0000" channel="Sky Sport Bundesliga UHD.skyde">
     <title>BL: RB Leipzig - Borussia Dortmund, tipico Topspiel der Woche, 23. Spieltag</title>
 </programme>
+<programme start="20260227181000 +0000" stop="20260227183000 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
+    <title>BL: Es folgt</title>
+</programme>
+<programme start="20260227183000 +0000" stop="20260227191500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
+    <title>Live BL: FCA - KOE: tipico Countdown, Flutlicht-Freitag, 24. Spieltag</title>
+</programme>
+<programme start="20260227191500 +0000" stop="20260227224500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
+    <title>Live BL: FC Augsburg - 1. FC Köln, Flutlicht-Freitag, 24. Spieltag</title>
+</programme>
 <programme start="20260227164000 +0000" stop="20260227170000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Es folgt: Live 2. Bundesliga</title>
 </programme>
@@ -3225,7 +3234,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260227200000 +0000" stop="20260228010000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live WTA 500: Merida Open in Merida (MEX), 5. Tag</title>
 </programme>
-<programme start="20260227000000 +0000" stop="20260227015500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260227001000 +0000" stop="20260227015500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live ATP 500: Abierto Mexicano Telcel presented by HSBC in Acapulco (MEX), 4. Tag</title>
 </programme>
 <programme start="20260227015500 +0000" stop="20260227024000 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3317,9 +3326,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 </programme>
 <programme start="20260227060000 +0000" stop="20260227061500 +0000" channel="Sky Sport UHD.skyde">
     <title>Info: UHD</title>
-</programme>
-<programme start="20260226233000 +0000" stop="20260227033000 +0000" channel="Sky Sport 1 HD.skyde">
-    <title>Es folgt: ab 04:30: LIVE NHL</title>
 </programme>
 <programme start="20260227033000 +0000" stop="20260227090000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NHL: Edmonton Oilers @ Los Angeles Kings</title>
