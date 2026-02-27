@@ -2509,21 +2509,6 @@
     <programme start="20260227100000 +0000" stop="20260227160000 +0000" channel="Hub Premier 2 HD.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20260226130000 +0000" stop="20260226173000 +0000" channel="Hub Sports 5 HD.starhub">
-        <title>M48: Super 8 - India vs Zimbabwe</title>
-    </programme>
-    <programme start="20260226173000 +0000" stop="20260226220000 +0000" channel="Hub Sports 5 HD.starhub">
-        <title>End of Transmission</title>
-    </programme>
-    <programme start="20260226220000 +0000" stop="20260227040000 +0000" channel="Hub Sports 5 HD.starhub">
-        <title>End of Transmission</title>
-    </programme>
-    <programme start="20260227040000 +0000" stop="20260227100000 +0000" channel="Hub Sports 5 HD.starhub">
-        <title>End of Transmission</title>
-    </programme>
-    <programme start="20260227100000 +0000" stop="20260227160000 +0000" channel="Hub Sports 5 HD.starhub">
-        <title>End of Transmission</title>
-    </programme>
     <programme start="20260226154500 +0000" stop="20260226164000 +0000" channel="AXN HD.starhub">
         <title>He Loved You</title>
     </programme>
