@@ -2509,6 +2509,21 @@
     <programme start="20260227100000 +0000" stop="20260227160000 +0000" channel="Hub Premier 2 HD.starhub">
         <title>End of Transmission</title>
     </programme>
+    <programme start="20260226130000 +0000" stop="20260226173000 +0000" channel="Hub Sports 5 HD.starhub">
+        <title>M48: Super 8 - India vs Zimbabwe</title>
+    </programme>
+    <programme start="20260226173000 +0000" stop="20260226220000 +0000" channel="Hub Sports 5 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20260226220000 +0000" stop="20260227040000 +0000" channel="Hub Sports 5 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20260227040000 +0000" stop="20260227100000 +0000" channel="Hub Sports 5 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20260227100000 +0000" stop="20260227160000 +0000" channel="Hub Sports 5 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
     <programme start="20260226154500 +0000" stop="20260226164000 +0000" channel="AXN HD.starhub">
         <title>He Loved You</title>
     </programme>
@@ -3224,7 +3239,7 @@
         <title>News in Review</title>
     </programme>
     <programme start="20260227003000 +0000" stop="20260227010000 +0000" channel="DW English HD.starhub">
-        <title>International Debate from Berlin</title>
+        <title>Germany Between the U.S. and China: Who Is the Better Partner?</title>
     </programme>
     <programme start="20260227010000 +0000" stop="20260227011500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3304,14 +3319,11 @@
     <programme start="20260227103000 +0000" stop="20260227110000 +0000" channel="DW English HD.starhub">
         <title>Mommy Issues</title>
     </programme>
-    <programme start="20260227110000 +0000" stop="20260227111500 +0000" channel="DW English HD.starhub">
+    <programme start="20260227110000 +0000" stop="20260227113000 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
-    <programme start="20260227111500 +0000" stop="20260227113000 +0000" channel="DW English HD.starhub">
-        <title>Painting my path as an illustrator</title>
-    </programme>
     <programme start="20260227113000 +0000" stop="20260227120000 +0000" channel="DW English HD.starhub">
-        <title>International Debate from Berlin</title>
+        <title>Germany Between the U.S. and China: Who Is the Better Partner?</title>
     </programme>
     <programme start="20260227120000 +0000" stop="20260227121500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3344,7 +3356,7 @@
         <title>103-year-old Holocaust survivor reclaims German citizenship</title>
     </programme>
     <programme start="20260227153000 +0000" stop="20260227160000 +0000" channel="DW English HD.starhub">
-        <title>International Debate from Berlin</title>
+        <title>Germany Between the U.S. and China: Who Is the Better Partner?</title>
     </programme>
     <programme start="20260226160000 +0000" stop="20260226220000 +0000" channel="Preview Channel.starhub">
         <title>Preview Channel</title>
@@ -3802,8 +3814,14 @@
     <programme start="20260226230000 +0000" stop="20260226231500 +0000" channel="NHK World Premium HD.starhub">
         <title>Drama Serial &quot;The Ghost Writer&#039;s Wife&quot; Ep. 105</title>
     </programme>
-    <programme start="20260226231500 +0000" stop="20260227005400 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20260226231500 +0000" stop="20260227000000 +0000" channel="NHK World Premium HD.starhub">
         <title>asaichi</title>
+    </programme>
+    <programme start="20260227000000 +0000" stop="20260227002500 +0000" channel="NHK World Premium HD.starhub">
+        <title>Kyoto&#039;s Finest Goods Travelogue</title>
+    </programme>
+    <programme start="20260227002500 +0000" stop="20260227005400 +0000" channel="NHK World Premium HD.starhub">
+        <title>JAPAN DELISH</title>
     </programme>
     <programme start="20260227005400 +0000" stop="20260227005500 +0000" channel="NHK World Premium HD.starhub">
         <title>World Weather</title>
@@ -3812,7 +3830,7 @@
         <title>Exercise for Everyone</title>
     </programme>
     <programme start="20260227010000 +0000" stop="20260227010500 +0000" channel="NHK World Premium HD.starhub">
-        <title>News &amp; Weather</title>
+        <title>100 Beautiful Mountains of Japan Mini</title>
     </programme>
     <programme start="20260227010500 +0000" stop="20260227023400 +0000" channel="NHK World Premium HD.starhub">
         <title>The Great Nature &quot;Cascade Range&quot; (R)</title>
@@ -3844,20 +3862,23 @@
     <programme start="20260227034500 +0000" stop="20260227040000 +0000" channel="NHK World Premium HD.starhub">
         <title>Drama Serial &quot;The Ghost Writer&#039;s Wife&quot; Ep. 105 (R)</title>
     </programme>
-    <programme start="20260227040000 +0000" stop="20260227040500 +0000" channel="NHK World Premium HD.starhub">
-        <title>News</title>
+    <programme start="20260227040000 +0000" stop="20260227045500 +0000" channel="NHK World Premium HD.starhub">
+        <title>Classical Music Club</title>
     </programme>
-    <programme start="20260227040500 +0000" stop="20260227055000 +0000" channel="NHK World Premium HD.starhub">
-        <title>News Around Japan</title>
+    <programme start="20260227045500 +0000" stop="20260227052200 +0000" channel="NHK World Premium HD.starhub">
+        <title>JAPAN DELISH</title>
     </programme>
-    <programme start="20260227055000 +0000" stop="20260227055500 +0000" channel="NHK World Premium HD.starhub">
-        <title>World Weather</title>
+    <programme start="20260227052200 +0000" stop="20260227055200 +0000" channel="NHK World Premium HD.starhub">
+        <title>The Great Nature &quot;Siberia, Russia&quot;</title>
+    </programme>
+    <programme start="20260227055200 +0000" stop="20260227055500 +0000" channel="NHK World Premium HD.starhub">
+        <title>Mini Program</title>
     </programme>
     <programme start="20260227055500 +0000" stop="20260227060000 +0000" channel="NHK World Premium HD.starhub">
         <title>World Music Album</title>
     </programme>
     <programme start="20260227060000 +0000" stop="20260227061000 +0000" channel="NHK World Premium HD.starhub">
-        <title>News &amp; Weather</title>
+        <title>Natural Grandeur of the East Mini</title>
     </programme>
     <programme start="20260227061000 +0000" stop="20260227063000 +0000" channel="NHK World Premium HD.starhub">
         <title>Chinese Navi</title>
@@ -6890,7 +6911,7 @@
         <title>Super Lig 2025/26: Fenerbahce vs Kasimpasa</title>
     </programme>
     <programme start="20260227110000 +0000" stop="20260227130000 +0000" channel="beIN Sports HD.starhub">
-        <title>UEFA Conference League 2025/26: Crystal Palace vs Zrinjski - KO Play-Offs,2nd Leg</title>
+        <title>UEFA Conference League 2025/26: Crystal Palace vs Zrinjski - KO Play-Offs,2nd Le</title>
     </programme>
     <programme start="20260227130000 +0000" stop="20260227150500 +0000" channel="beIN Sports HD.starhub">
         <title>LFCTV 2025/26: Nottingham Forest vs Liverpool</title>

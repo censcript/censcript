@@ -3004,11 +3004,11 @@
 <programme start="20260227103000 +0000" stop="20260227110000 +0000" channel="DW English.mncvision">
     <title>Don&#039;t Hold Back: Mommy Issues</title>
 </programme>
-<programme start="20260227110000 +0000" stop="20260227111500 +0000" channel="DW English.mncvision">
+<programme start="20260227110000 +0000" stop="20260227113000 +0000" channel="DW English.mncvision">
     <title>DW News</title>
 </programme>
-<programme start="20260227111500 +0000" stop="20260227114500 +0000" channel="DW English.mncvision">
-    <title>Choices: Dare To Dream</title>
+<programme start="20260227113000 +0000" stop="20260227120000 +0000" channel="DW English.mncvision">
+    <title>To The Point</title>
 </programme>
 <programme start="20260226180000 +0000" stop="20260226190000 +0000" channel="Entertainment.mncvision">
     <title>OK Show</title>
