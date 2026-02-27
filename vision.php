@@ -1,11 +1,11 @@
 <programme start="20260227000000 +0000" stop="20260227010000 +0000" channel="RCTI.vision">
 <title>Upin Ipin</title>
 </programme>
-<programme start="20260227010000 +0000" stop="20260227020000 +0000" channel="RCTI.vision">
+<programme start="20260227010000 +0000" stop="20260227021500 +0000" channel="RCTI.vision">
 <title>Entong</title>
 </programme>
-<programme start="20260227020000 +0000" stop="20260227033000 +0000" channel="RCTI.vision">
-<title>Ninja Hattori</title>
+<programme start="20260227021500 +0000" stop="20260227033000 +0000" channel="RCTI.vision">
+<title>When Ustadz Pulang Kampung</title>
 </programme>
 <programme start="20260227033000 +0000" stop="20260227043000 +0000" channel="RCTI.vision">
 <title>Silet (RCTI)</title>
@@ -20,7 +20,7 @@
 <title>Hafiz Indonesia 2026 (RCTI)</title>
 </programme>
 <programme start="20260227083000 +0000" stop="20260227100000 +0000" channel="RCTI.vision">
-<title>Banyak Jalan Menuju Surga</title>
+<title>Penyejuk Hati Sore</title>
 </programme>
 <programme start="20260227100000 +0000" stop="20260227111500 +0000" channel="RCTI.vision">
 <title>Amanah Wali 8</title>
@@ -49,17 +49,14 @@
 <programme start="20260228000000 +0000" stop="20260228010000 +0000" channel="RCTI.vision">
 <title>Upin Ipin</title>
 </programme>
-<programme start="20260228010000 +0000" stop="20260228013000 +0000" channel="RCTI.vision">
+<programme start="20260228010000 +0000" stop="20260228021500 +0000" channel="RCTI.vision">
 <title>Entong</title>
 </programme>
-<programme start="20260228013000 +0000" stop="20260228023000 +0000" channel="RCTI.vision">
-<title>Kiko</title>
-</programme>
-<programme start="20260228023000 +0000" stop="20260228033000 +0000" channel="RCTI.vision">
-<title>Ninja Hattori</title>
+<programme start="20260228021500 +0000" stop="20260228033000 +0000" channel="RCTI.vision">
+<title>Ratu Maling Terjebak Di...</title>
 </programme>
 <programme start="20260228033000 +0000" stop="20260228043000 +0000" channel="RCTI.vision">
-<title>Pandora (RCTI)</title>
+<title>Pandora</title>
 </programme>
 <programme start="20260228043000 +0000" stop="20260228050000 +0000" channel="RCTI.vision">
 <title>Seputar iNews Siang</title>
@@ -71,7 +68,7 @@
 <title>Hafiz Indonesia 2026 (RCTI)</title>
 </programme>
 <programme start="20260228083000 +0000" stop="20260228093000 +0000" channel="RCTI.vision">
-<title>Banyak Jalan Menuju Surga</title>
+<title>Penyejuk Hati Sore</title>
 </programme>
 <programme start="20260228093000 +0000" stop="20260228103000 +0000" channel="RCTI.vision">
 <title>Amanah Wali 8</title>
@@ -163,9 +160,6 @@
 <programme start="20260228073000 +0000" stop="20260228080000 +0000" channel="MNCTV.vision">
 <title>Upin &amp; Ipin</title>
 </programme>
-<programme start="20260228080000 +0000" stop="20260228100000 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
-</programme>
 <programme start="20260228100000 +0000" stop="20260228110000 +0000" channel="MNCTV.vision">
 <title>Ngabuburit Upin &amp; Ipin (MNCTV)</title>
 </programme>
@@ -194,9 +188,6 @@
 <title>SpongeBob SquarePants</title>
 </programme>
 <programme start="20260227073000 +0000" stop="20260227093000 +0000" channel="GTV.vision">
-<title>SpongeBob SquarePants</title>
-</programme>
-<programme start="20260227093000 +0000" stop="20260227103500 +0000" channel="GTV.vision">
 <title>SpongeBob SquarePants</title>
 </programme>
 <programme start="20260227103500 +0000" stop="20260227110000 +0000" channel="GTV.vision">
@@ -315,9 +306,6 @@
 </programme>
 <programme start="20260227163000 +0000" stop="20260227170000 +0000" channel="iNews.vision">
 <title>New Top Files</title>
-</programme>
-<programme start="20260227170000 +0000" stop="20260227183000 +0000" channel="iNews.vision">
-<title>iNews</title>
 </programme>
 <programme start="20260227183000 +0000" stop="20260227191500 +0000" channel="iNews.vision">
 <title>Realita</title>
@@ -729,15 +717,6 @@
 </programme>
 <programme start="20260227111000 +0000" stop="20260227113000 +0000" channel="ANTV.vision">
 <title>Sepiring Berduet</title>
-</programme>
-<programme start="20260227113000 +0000" stop="20260227133000 +0000" channel="ANTV.vision">
-<title>Gadis Bionik</title>
-</programme>
-<programme start="20260227133000 +0000" stop="20260227153000 +0000" channel="ANTV.vision">
-<title>Rajawali Dari Utara</title>
-</programme>
-<programme start="20260227153000 +0000" stop="20260227173000 +0000" channel="ANTV.vision">
-<title>Makin Lama Makin Asik</title>
 </programme>
 <programme start="20260227173000 +0000" stop="20260227214500 +0000" channel="ANTV.vision">
 <title>Dead Trigger</title>
@@ -1497,4 +1476,25 @@
 </programme>
 <programme start="20260227150000 +0000" stop="20260227160000 +0000" channel="BTV.vision">
 <title>Berita Satu Malam</title>
+</programme>
+<programme start="20260227160000 +0000" stop="20260227170000 +0000" channel="BTV.vision">
+<title>Generali Hexagon Cup 2026</title>
+</programme>
+<programme start="20260227170000 +0000" stop="20260227180000 +0000" channel="BTV.vision">
+<title>ONE Vault</title>
+</programme>
+<programme start="20260227180000 +0000" stop="20260227180300 +0000" channel="BTV.vision">
+<title>Tanah Airku</title>
+</programme>
+<programme start="20260227180300 +0000" stop="20260227193000 +0000" channel="BTV.vision">
+<title>Berita Satu Utama</title>
+</programme>
+<programme start="20260227193000 +0000" stop="20260227210000 +0000" channel="BTV.vision">
+<title>Jalan Dakwah</title>
+</programme>
+<programme start="20260227210000 +0000" stop="20260227213000 +0000" channel="BTV.vision">
+<title>Sejarah Islam</title>
+</programme>
+<programme start="20260227213000 +0000" stop="20260227214200 +0000" channel="BTV.vision">
+<title>Berita Satu Pagi</title>
 </programme>
