@@ -3327,9 +3327,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260227060000 +0000" stop="20260227061500 +0000" channel="Sky Sport UHD.skyde">
     <title>Info: UHD</title>
 </programme>
-<programme start="20260226233000 +0000" stop="20260227033000 +0000" channel="Sky Sport 1 HD.skyde">
-    <title>Es folgt: ab 04:30: LIVE NHL</title>
-</programme>
 <programme start="20260227033000 +0000" stop="20260227090000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NHL: Edmonton Oilers @ Los Angeles Kings</title>
 </programme>
@@ -3338,6 +3335,15 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 </programme>
 <programme start="20260227200000 +0000" stop="20260228090000 +0000" channel="Sky Sport 6 HD.skyde">
     <title>Live WTA 500: Merida Open in Merida (MEX), 5. Tag</title>
+</programme>
+<programme start="20260227124000 +0000" stop="20260227130000 +0000" channel="Sky Sport 7 HD.skyde">
+    <title>ATP World Tour: Es folgt</title>
+</programme>
+<programme start="20260227130000 +0000" stop="20260227150000 +0000" channel="Sky Sport 7 HD.skyde">
+    <title>Live ATP 500: F. Auger- Aliassime (CAN) - D. Medvedev, Dubai Duty Free Tennis Championships in Dubai (VAE), Halbfinale 1</title>
+</programme>
+<programme start="20260227150000 +0000" stop="20260227190000 +0000" channel="Sky Sport 7 HD.skyde">
+    <title>Live ATP 500: A. Rublev - T. Griekspoor (NED), Dubai Duty Free Tennis Championships in Dubai (VAE), Halbfinale 2</title>
 </programme>
 <programme start="20260226232000 +0000" stop="20260227000500 +0000" channel="SYFY HD.skyde">
     <title>Raumschiff Enterprise - Das nächste Jahrhundert</title>
