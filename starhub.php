@@ -2189,19 +2189,25 @@
         <title>Australian Open Classic: 2025 Men&#039;s Singles QF Alcaraz v Djokovic</title>
     </programme>
     <programme start="20260227015000 +0000" stop="20260227034000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>UEFA Conference League 2025/26: Lausanne vs Sigma - KO Play-Offs,2nd Leg</title>
+        <title>Lausanne vs Sigma - KO Play-Offs,2nd Leg</title>
     </programme>
     <programme start="20260227034000 +0000" stop="20260227053500 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>UEFA Conference League 2025/26: Crystal Palace vs Zrinjski - KO Play-Offs,2nd Leg</title>
+        <title>Crystal Palace vs Zrinjski - KO Play-Offs,2nd Leg</title>
     </programme>
     <programme start="20260227053500 +0000" stop="20260227073000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>UEFA Conference League 2025/26: AZ Alkmaar vs Noah - KO Play-Offs,2nd Leg</title>
+        <title>AZ Alkmaar vs Noah - KO Play-Offs,2nd Leg</title>
     </programme>
-    <programme start="20260227073000 +0000" stop="20260227093000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>UEFA Conference League 2025/26: Fiorentina vs Jagiellonia Bialystok - KO Play-Offs,2nd Leg</title>
+    <programme start="20260227073000 +0000" stop="20260227095500 +0000" channel="beIN Sports 2 HD.starhub">
+        <title>Fiorentina vs Jagiellonia Bialystok - KO Play-Offs,2nd Leg</title>
     </programme>
-    <programme start="20260227093000 +0000" stop="20260227110000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Best Of AO 2026: Women&#039;s Singles Rd 3 Paolini v Jovic</title>
+    <programme start="20260227095500 +0000" stop="20260227100500 +0000" channel="beIN Sports 2 HD.starhub">
+        <title>Riyadh P1 Men</title>
+    </programme>
+    <programme start="20260227100500 +0000" stop="20260227103500 +0000" channel="beIN Sports 2 HD.starhub">
+        <title>Australia vs New Zealand - Dubai Day 2, Men</title>
+    </programme>
+    <programme start="20260227103500 +0000" stop="20260227110000 +0000" channel="beIN Sports 2 HD.starhub">
+        <title>New Zealand vs Australia - Perth Day 2, Women</title>
     </programme>
     <programme start="20260227110000 +0000" stop="20260227113000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>R16, QFs &amp; SFs</title>
@@ -2213,7 +2219,7 @@
         <title>R16, QFs &amp; SFs</title>
     </programme>
     <programme start="20260227123000 +0000" stop="20260227130000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Australian Open Classic: 2009 Men’s Final Nadal v Federer</title>
+        <title>2009 Men’s Final Nadal v Federer</title>
     </programme>
     <programme start="20260227130000 +0000" stop="20260227133000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>R16, QFs &amp; SFs</title>
@@ -2225,7 +2231,7 @@
         <title>This Is Paris 2025/26</title>
     </programme>
     <programme start="20260227145500 +0000" stop="20260227165500 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Best Of AO 2026: Men&#039;s Singles Rd 3 De Minaur v Tiafoe</title>
+        <title>Men&#039;s Singles Rd 3 De Minaur v Tiafoe</title>
     </programme>
     <programme start="20260226160000 +0000" stop="20260226170000 +0000" channel="TVB Xing He.starhub">
         <title>Happy Ever After</title>

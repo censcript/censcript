@@ -15754,14 +15754,24 @@
     <desc lang="en">Watch every round of the UEFA Conference League action, Europe's tertiary club football tournament where teams battle it out for the Finals at RB Arena,Leipzig</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260227073000 +0000" stop="20260227093000 +0000" channel="beinsports2.unifitv">
+  <programme start="20260227073000 +0000" stop="20260227095500 +0000" channel="beinsports2.unifitv">
     <title lang="en">UEFA Conference League - Fiorentina vs Jagiellonia Bialystok - KO Play-Offs,2nd Leg</title>
     <desc lang="en">Watch every round of the UEFA Conference League action, Europe's tertiary club football tournament where teams battle it out for the Finals at RB Arena,Leipzig</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260227093000 +0000" stop="20260227110000 +0000" channel="beinsports2.unifitv">
-    <title lang="en">Best of Australian Open - Women's Singles Rd 3 Paolini v Jovic</title>
-    <desc lang="en">Catch the Best Matches from the Australian Open 2026</desc>
+  <programme start="20260227095500 +0000" stop="20260227100500 +0000" channel="beinsports2.unifitv">
+    <title lang="en">Premier Padel Match Highlights 2026 - Riyadh P1 Men</title>
+    <desc lang="en">Premier Padel Match Highlights 2026 - Riyadh P1 Men</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260227100500 +0000" stop="20260227103500 +0000" channel="beinsports2.unifitv">
+    <title lang="en">HSBC SVNS Series 2026 - Australia vs New Zealand - Dubai Day 2, Men</title>
+    <desc lang="en">Catch the action from the world's very best rugby sevens stars from the top tier of a new three-division global Sevens model, from sunrise to sunset.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260227103500 +0000" stop="20260227110000 +0000" channel="beinsports2.unifitv">
+    <title lang="en">HSBC SVNS Series 2026 - New Zealand vs Australia - Perth Day 2, Women</title>
+    <desc lang="en">Catch the action from the world's very best rugby sevens stars from the top tier of a new three-division global Sevens model, from sunrise to sunset.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260227110000 +0000" stop="20260227113000 +0000" channel="beinsports2.unifitv">
@@ -15862,12 +15872,12 @@
     <desc lang="en">Showcasing highlights from past ONE Championship events and preview upcoming fights.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260227033000 +0000" stop="20260227053000 +0000" channel="beinsports3.unifitv">
+  <programme start="20260227033000 +0000" stop="20260227055500 +0000" channel="beinsports3.unifitv">
     <title lang="en">UEFA Europa League - Genk vs Dinamo Zagreb - KO Play-Offs,2nd Leg</title>
     <desc lang="en">The 55th season of the UEL as Europe's elite clubs compete in this premier football tournament</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260227053000 +0000" stop="20260227073000 +0000" channel="beinsports3.unifitv">
+  <programme start="20260227055500 +0000" stop="20260227073000 +0000" channel="beinsports3.unifitv">
     <title lang="en">UEFA Europa League - Plzen vs Panathinaikos - KO Play-Offs,2nd Leg</title>
     <desc lang="en">The 55th season of the UEL as Europe's elite clubs compete in this premier football tournament</desc>
     <category lang="en">Sports</category>
