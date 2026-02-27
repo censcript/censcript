@@ -1991,7 +1991,7 @@
         <title>ONE Weekly 2026</title>
     </programme>
     <programme start="20260227123000 +0000" stop="20260227163000 +0000" channel="beIN Sports 3.starhub">
-        <title>ONE Friday Fights 2026: OFF 144 (Live)</title>
+        <title>OFF 144</title>
     </programme>
     <programme start="20260226153000 +0000" stop="20260226163000 +0000" channel="Sun Music.starhub">
         <title>Non Stop Hits</title>
